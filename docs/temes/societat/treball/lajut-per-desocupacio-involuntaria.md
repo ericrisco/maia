@@ -219,6 +219,42 @@ i les seves dues modificacions, o que compti alguna correcció d'errata. **La ll
 del Butlletí és la que aquesta fitxa fa servir, perquè cada peça hi és
 descarregada i comprovable** (`docs/raw/desocupacio/bopa-prestacions-*.txt`).
 
+## Quanta gent la cobra: setanta-una sol·licituds favorables el 2024
+
+El corpus tenia la norma i cap beneficiari. El Departament d'Estadística en
+publica el recompte cada any amb els **registres del Departament d'Afers
+Socials** (activitat **A052**). **Any 2024:**
+
+| | 2023 | 2024 |
+| --- | --- | --- |
+| **Sol·licituds presentades** | — | **107** |
+| Resoltes favorablement | **58,3%** | **71** — el **66,4%** |
+| Resoltes desfavorablement | — | **36** — el 33,6% |
+| **Llars beneficiàries** | 55 | **64** (+16,4%) |
+| **Persones beneficiàries** (tots els membres de la llar) | — | **139** |
+| **Import mitjà per llar** | — | **5.229,75 €** (**−9,4%**) |
+
+**La unitat de recompte no és una sola, i aquesta és la part que calia fixar
+abans de citar cap xifra.** **107 sol·licituds** donen **71 resolucions
+favorables**, que arriben a **64 llars**, dins de les quals hi ha **139
+persones**. **Una de cada tres sol·licituds es denega.**
+
+**Qui la cobra.** **Les dones són el 67,6%** dels ajuts i els homes el 32,4%. El
+tram d'edat amb més beneficiaris és el de **50 a 54 anys** (11,3%). Per tipus de
+llar, **unipersonals 26 ajuts (36,6%)** i **monoparentals 14 (19,7%)**: **més de
+la meitat dels ajuts van a llars d'un sol adult**. Per nacionalitat del
+sol·licitant, **andorrans 47,9%** i **espanyols 23,9%**.
+
+**La xifra que situa la resta.** **Seixanta-quatre llars** en un país amb
+**44.729 assalariats**
+([els salaris](./el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat)).
+**L'ajut per desocupació involuntària arriba, de fet, a molt poca gent** — i el
+corpus ja havia llegit per què: els requisits de l'article 26 són acumulatius i
+el permís de residència i treball hi depèn.
+
+**I l'import mitjà baixa mentre els beneficiaris pugen**: les llars creixen un
+16,4% i l'import mitjà per llar cau un 9,4%.
+
 ## Buits registrats
 
 - ~~**Contrast del 224 bis tancat parcialment:** article complet del
@@ -259,9 +295,14 @@ descarregada i comprovable** (`docs/raw/desocupacio/bopa-prestacions-*.txt`).
 - No s'ha calculat un import net en euros del 2026, ni verificat els tractats
   aplicables a fronterers, els casos individuals de temporers o la pràctica
   administrativa i judicial sobre aquests requisits.
-- S'han localitzat pistes de balanços estadístics del Govern, però no s'han
+- ~~S'han localitzat pistes de balanços estadístics del Govern, però no s'han
   incorporat xifres de beneficiaris: falta verificar la unitat de recompte,
-  el període i els termes d'ús de la peça concreta.
+  el període i els termes d'ús de la peça concreta.~~ — **`resolt` el
+  17-09-2026**: la peça és la nota **A052** del Departament d'Estadística
+  (03-04-2025, dades de l'**any 2024**, **font: registres del Departament
+  d'Afers Socials**, **CC BY 4.0**). **La unitat de recompte són quatre i no
+  una** —sol·licituds, resolucions favorables, llars i persones—: vegeu
+  [Quanta gent la cobra](#quanta-gent-la-cobra-setanta-una-sollicituds-favorables-el-2024).
 - **L'arrodoniment de «la meitat dels dies»** de l'article 26.4.d amb
   compensacions de dies senars no el resol el text, i no s'ha buscat cap
   instrucció administrativa que ho fixi.

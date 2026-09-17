@@ -1,0 +1,888 @@
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+                           Data de publicació: dijous, 27/08/2026
+                                    www.estadistica.ad
+
+
+Resum
+
+El nombre de sol·licituds de l’ajut per a l’habitatge de lloguer, d’acord amb l’article 17 del
+Reglament de prestacions, presentades durant el segon trimestre del 2026 ha estat de 273.
+D’aquestes, el 55,7% han estat resoltes favorablement i el 44,3% restant de forma
+desfavorable.
+
+L’import total atorgat de l’ajut per a l’habitatge de lloguer durant el segon trimestre del 2026
+suma un total de 392.266,44 €. L’import compromès mitjà d’aquesta prestació és de 2.580,70 €
+per convocatòria i persona beneficiària.
+
+Les dones presenten la majoria de les prestacions favorables (69,7%), en contraposició als
+homes (30,3%). El 47,4% de les sol·licituds favorables es destinen al col·lectiu de les persones
+grans i l’11,2% al de les persones amb discapacitat. Per parròquia, els residents a Andorra la
+Vella perceben el 37,5% dels ajuts.
+
+La majoria de les sol·licituds desfavorables, un 68,6%, ho són perquè els sol·licitants no
+destinen més del 30% dels ingressos al pagament del lloguer.
+
+Així, les sol·licituds resoltes durant el 1r semestre de l'any 2026, pel període comprés entre 1
+de gener i el 30 de juny, han estat un total de 1.658 sol·licituds, de les quals 852 (51,4%) han
+obtingut un resultat favorable i 806 (48,6%) han obtingut un resultat de desfavorable.
+
+
+Nota: dades amb caràcter provisional i subjectes a revisió.
+
+
+
+
+NP_A059_20260827
+           A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                      2n trimestre del 2026
+
+
+Índex
+
+1.    Sol·licituds d’ajut per a l’habitatge de lloguer ............................................................................ 3
+2.    Sol·licituds presentades per resolució ....................................................................................... 3
+3.    Distribució i resolució de les sol·licituds per parròquia ............................................................. 4
+4.    Distribució i resolució de les sol·licituds per sexe ..................................................................... 5
+5.    Distribució i resolució de les sol·licituds per col·lectiu .............................................................. 6
+6.    Distribució i resultat de les sol·licituds per nacionalitat ............................................................. 7
+7.    Distribució i resultat de les sol·licituds per estructura de les llars ............................................ 8
+8.    Distribució i resultat de les sol·licituds per tipus de família ....................................................10
+9.    Distribució i resultat de les sol·licituds per estat civil ..............................................................11
+10.   Distribució i resultat de les sol·licituds per trams d’edat .........................................................12
+11.   Distribució de les sol·licituds desfavorables per motiu de denegació ...................................13
+12.   Nota metodològica .....................................................................................................................14
+13.   Dates de les publicacions previstes .........................................................................................15
+
+
+
+
+NP_A059_20260827                                                                                                         Pàgina 2 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+1. Sol·licituds d’ajut per a l’habitatge de lloguer
+
+Durant el segon trimestre del 2026 s’han presentat 273 sol·licituds, de les quals 152 s’han
+resolt favorablement i 121 s’han denegat. L’import total atorgat de les prestacions per al
+pagament del lloguer d’habitatges suma un total de 392.266,44 €. Tenint en compte les
+sol·licituds favorables i l’import total atorgat, s’obté que l’import mitjà d’aquesta prestació és de
+2.580,70 € per convocatòria i persona beneficiària.
+
+                      Prestacions al pagament del lloguer d'habitatges
+                      Convocatòria                                        2026T2
+                      Prestacions favorables                                  152
+                      Prestacions desfavorables                               121
+                      Import total atorgat                           392.266,44 €
+                      Import mitjà per beneficiari                     2.580,70 €
+
+
+Considerant la població estimada a 30 de juny del 2026, es constata que hi ha 1,7 beneficiaris
+per cada 1.000 habitants.
+
+                      Ràtios                                                 2026T2
+                      Sol·licituds favorables sobre presentades               55,7%
+                      Sol·licituds desfavorables sobre presentades            44,3%
+                      Població estimada                                       89.752
+                      Beneficiaris per 1.000 habitants                           1,7
+
+
+
+2. Sol·licituds presentades per resolució
+
+El 55,7% de les 273 sol·licituds presentades al llarg del segon trimestre del 2026 s’han resolt
+favorablement, en contraposició al 44,3% que s’han denegat.
+
+
+                      Resolució de les sol·licituds              2026T2           %
+                      Favorables                                    152       55,7%
+                      Desfavorables                                 121       44,3%
+                      Total de sol·licituds                         273      100,0%
+
+                           Resolució de les sol·licituds presentades
+                                     2n trimestre del 2026
+
+
+
+
+                        121
+                       44,3%
+                                                                              Favorables
+                                                                              Desfavorables
+
+
+                                                                      152
+                                                                     55,7%
+
+
+
+
+         Sol·licituds acumulades al tancament del 2n trimestre del 2026
+         Resolució de les sol·licituds                               Sol·licituds   Sol·licituds %
+         Favorables                                                           852            51,4%
+         Desfavorables                                                        806            48,6%
+         Total de sol·licituds                                              1.658           100,0%
+
+
+
+NP_A059_20260827                                                                              Pàgina 3 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+3. Distribució i resolució de les sol·licituds per parròquia
+
+   Resolució de les sol·licituds per parròquia al segon trimestre del 2026
+   Parròquia                                Favorables              %      Desfavorables                        %
+   Canillo                                             6         3,9%                  7                     5,8%
+   Encamp                                             15         9,9%                 16                    13,2%
+   Ordino                                             10         6,6%                  9                     7,4%
+   La Massana                                         10         6,6%                 11                     9,1%
+   Andorra la Vella                                   57        37,5%                 42                    34,7%
+   Sant Julià de Lòria                                18        11,8%                 10                     8,3%
+   Escaldes-Engordany                                 36        23,7%                 26                    21,5%
+   Total                                             152      100,0%                 121                   100,0%
+
+
+                                 Distribució de sol·licituds favorables per parròquia
+                                                 2n trimestre del 2026
+                                                   6
+                                                 3,9%        15
+                             36
+                                                            9,9%
+                            23,7%
+
+                                                                      10
+                                                                     6,6%            Canillo
+                                                                                     Encamp
+                                                                        10           Ordino
+                                                                       6,6%
+                                                                                     La Massana
+                                                                                     Andorra la Vella
+                     18
+                                                                                     Sant Julià de Lòria
+                    11,8%
+                                                                                     Escaldes-Engordany
+
+
+
+
+                                                         57
+                                                        37,5%
+
+
+
+
+                                    Resolució de les sol·licituds per parròquia
+                                              2n trimestre del 2026
+     100%
+      90%
+      80%                                                       42          10        26
+                7           16          9         11
+      70%
+      60%
+      50%
+      40%
+      30%                                                       57          18        36
+                6           15         10         10                                              Desfavorables
+      20%
+      10%                                                                                         Favorables
+       0%
+
+
+
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Parròquia                          Favorables Sol·licituds %                 Desfavorables     Sol·licituds %
+    Canillo                                      26            3,1%                         34               4,2%
+    Encamp                                     116            13,6%                        108              13,4%
+    Ordino                                       24            2,8%                         30               3,7%
+    La Massana                                   54            6,3%                         60               7,4%
+    Andorra la Vella                           360            42,3%                        318              39,5%
+    Sant Julià de Lòria                        100            11,7%                        110              13,6%
+    Escaldes-Engordany                         172            20,2%                        146              18,1%
+    Total                                      852          100,0%                         806             100,0%
+
+
+
+NP_A059_20260827                                                                                        Pàgina 4 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+4. Distribució i resolució de les sol·licituds per sexe
+
+    Resolució de les sol·licituds per sexe al segon trimestre del 2026
+    Sexe                                       Favorables             %      Desfavorables           %
+    Dona                                               106        69,7%                 77       63,6%
+    Home                                                46        30,3%                 44       36,4%
+    Total                                              152      100,0%                 121      100,0%
+
+
+
+                           Distribució de sol·licituds favorables per sexe
+                                        2n trimestre del 2026
+
+
+                              46
+                             30,3%
+
+
+
+                                                                              Dona
+
+                                                                              Home
+
+
+
+
+                                                                    106
+                                                                   69,7%
+
+
+
+
+                                Resolució de les sol·licituds per sexe
+                                        2n trimestre del 2026
+
+                         100%
+                          90%
+                          80%         77               44
+                          70%
+                          60%
+                          50%                                        Desfavorables
+                          40%                                        Favorables
+                          30%         106              46
+                          20%
+                          10%
+                           0%
+                                     Dona            Home
+
+
+
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Sexe                               Favorables Sol·licituds %          Desfavorables   Sol·licituds %
+    Dona                                       613            71,9%                 509            63,2%
+    Home                                       239            28,1%                 297            36,8%
+    Total                                      852          100,0%                  806           100,0%
+
+
+
+
+NP_A059_20260827                                                                             Pàgina 5 de 15
+         A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                    2n trimestre del 2026
+
+
+5. Distribució i resolució de les sol·licituds per col·lectiu
+
+
+   Resoluciò de les sol·licituds per col·lectiu al segon trimestre del 2026
+   Col·lectiu                                 Favorables              %     Desfavorables                                 %
+   Joves                                                2          1,3%                 4                              3,3%
+   Persones grans                                      72        47,4%                 30                             24,8%
+   F. Monoparentals acreditades                         9          5,9%                 5                              4,1%
+   F. Nombroses acreditades                             0          0,0%                 4                              3,3%
+   Persones amb discapacitat                           17        11,2%                 20                             16,5%
+   Altres*                                             52        34,2%                 58                             47,9%
+       Monoparental no acreditada                      23        44,2%                 18                             31,0%
+       Unipersonal                                     23        44,2%                 11                             19,0%
+       Nuclear                                          1          1,9%                15                             25,9%
+       Parella                                          2          3,8%                 6                             10,3%
+       Nombrosa no acreditada                           0          0,0%                 4                              6,9%
+       Pare-mare/fills>25 anys                          1          1,9%                 3                              5,2%
+       Extensa                                          0          0,0%                 1                              1,7%
+       Reconstituïda                                    2          3,8%                 0                              0,0%
+       Fills>18anys/pares>65 anys                       0          0,0%                 0                              0,0%
+   Total                                              152         100%                121                              100%
+   * Es desglossa el col·lectiu 'Altres' segons el tipus de família.
+   Nota: no s'hi inclouen les sol·licituds arxivades.
+
+
+
+                                         Distribució de sol·licituds favorables per col·lectiu
+                                                        2n trimestre del 2026
+
+                                                          2
+                                                        1,3%
+
+                                                                          72
+                                                                         47,4%
+                           52
+                          34,2%                                                        Joves
+
+                                                                                       Persones grans
+
+                                                                                       F. Monoparentals acreditades
+
+                                                                                       F. Nombroses acreditades
+
+                                                                                       Persones amb discapacitat
+
+                                                                                       Altres*
+
+
+
+                                     17
+                                    11,2%
+                                                   9
+                                                 5,9%
+
+
+                                            Resolució de les sol·licituds per col·lectiu
+                                                      2n trimestre del 2026
+               100%
+                90%
+                                                30                 5
+                80%
+                70%                                                                         20            58
+                                4
+                60%
+                50%                                                           4
+                40%
+                                                72                 9
+                30%
+                20%                                                                         17            52
+                                2
+                10%
+                 0%
+                             Joves           Persones           F.      F. Nombroses Persones amb       Altres*
+                                              grans        Monoparentals acreditades  discapacitat
+                                                            acreditades
+
+                                                         Favorables    Desfavorables
+
+
+
+
+NP_A059_20260827                                                                                                   Pàgina 6 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Col·lectiu                         Favorables Sol·licituds %          Desfavorables   Sol·licituds %
+    Joves                                        18            2,1%                  21             2,6%
+    Persones grans                             418            49,1%                 192            23,8%
+    F. Monoparentals acreditades                 35            4,1%                  29             3,6%
+    F. Nombroses acreditades                      3            0,4%                  17             2,1%
+    Persones amb discapacitat                  102            12,0%                 147            18,2%
+    Altres*                                    276            32,4%                 400            49,6%
+        Monoparental no acreditada             137            49,6%                155             19,2%
+        Unipersonal                            112            40,6%                  56             6,9%
+        Nuclear                                 10             3,6%                105             13,0%
+        Parella                                   6            2,2%                  19             2,4%
+        Nombrosa no acreditada                    2            0,7%                  30             3,7%
+        Pare-mare/fills>25 anys                   5            1,8%                  19             2,4%
+        Extensa                                   1            0,4%                  10             1,2%
+        Reconstituïda                             3            1,1%                   4             0,5%
+        Fills>18anys/pares>65 anys                0            0,0%                   2             0,2%
+    Total                                      852          100,0%                  806          100,0%
+
+
+
+6. Distribució i resultat de les sol·licituds per nacionalitat
+
+
+    Resolució de les sol·licituds per nacionalitat al segon trimestre del 2026
+    Nacionalitat                             Favorables               %     Desfavorables            %
+    Espanyola                                           53        34,9%                37        30,6%
+    Andorrana                                           44        28,9%                32        26,4%
+    Portuguesa                                          30        19,7%                32        26,4%
+    Francesa                                             4         2,6%                 3         2,5%
+    Altres                                              21        13,8%                17        14,0%
+    Total                                              152       100,0%               121       100,0%
+
+
+
+                              Distribució de sol·licituds favorables per nacionalitat
+                                               2n trimestre del 2026
+                                       21
+                                      13,8%
+                                 4                                 53
+                               2,6%                               34,9%
+
+                                                                             Espanyola
+                                                                             Andorrana
+                            30                                               Portuguesa
+                           19,7%
+                                                                             Francesa
+                                                                             Altres
+
+
+
+
+                                                  44
+                                                 28,9%
+
+
+
+
+NP_A059_20260827                                                                            Pàgina 7 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+                            Resolució de les sol·licituds per nacionalitat
+                                       2n trimestre del 2026
+            100%
+             90%
+             80%       37              32                       3             17
+                                                       32
+             70%
+             60%
+             50%                                                                         Desfavorables
+             40%                                                                         Favorables
+             30%       53              44                       4             21
+                                                       30
+             20%
+             10%
+              0%
+                    Espanyola       Andorrana   Portuguesa   Francesa        Altres
+
+
+
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Nacionalitat                       Favorables Sol·licituds %                Desfavorables   Sol·licituds %
+    Espanyola                                  337            39,6%                       231            28,7%
+    Andorrana                                  261            30,6%                       271            33,6%
+    Portuguesa                                 128            15,0%                       182            22,6%
+    Francesa                                     18            2,1%                        12             1,5%
+    Altres                                     108            12,7%                       110            13,6%
+    Total                                      852          100,0%                        806           100,0%
+
+
+
+7. Distribució i resultat de les sol·licituds per estructura de les llars
+
+    Resolució de les sol·licituds per estructura de les llars al segon trimestre del 2026
+    Estructura de les llars                   Favorables                %    Desfavorables                    %
+    1 membre                                            89          58,6%                 25              20,7%
+    2 membres                                           38          25,0%                 45              37,2%
+    3 membres                                           17          11,2%                 24              19,8%
+    4 membres                                             8          5,3%                 15              12,4%
+    5 membres                                             0          0,0%                  8               6,6%
+    Més de 5 membres                                      0          0,0%                  4               3,3%
+    Total                                             152          100,0%                121             100,0%
+
+
+
+
+                        Distribució de sol·licituds favorables per estructura de les llars
+                                               2n trimestre del 2026
+                                                  8
+                                                5,3%
+                                     17
+                                    11,2%
+
+
+                                                                                         1 membre
+                                                                                         2 membres
+                                                                         89
+                                                                        58,6%            3 membres
+
+                             38                                                          4 membres
+                            25,0%
+
+
+
+
+NP_A059_20260827                                                                                      Pàgina 8 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+                      Resolució de les sol·licituds per estructura de les llars
+                                       2n trimestre del 2026
+
+            100%
+             90%     25
+             80%
+             70%               45         24
+                                                    15
+             60%
+             50%                                                8         4        Desfavorables
+             40%     89                                                            Favorables
+             30%
+             20%               38         17
+                                                     8
+             10%
+              0%
+                   1 membre 2 membres 3 membres 4 membres 5 membres Més de 5
+                                                                    membres
+
+
+
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Estructura de les llars            Favorables Sol·licituds %          Desfavorables   Sol·licituds %
+    1 membre                                   523            61,4%                 147            18,2%
+    2 membres                                  224            26,3%                 293            36,4%
+    3 membres                                    75            8,8%                 174            21,6%
+    4 membres                                    23            2,7%                 113            14,0%
+    5 membres                                     5            0,6%                  58             7,2%
+    Més de 5 membres                              2            0,2%                  21             2,6%
+    Total                                      852          100,0%                  806             100%
+
+
+
+
+NP_A059_20260827                                                                                Pàgina 9 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+8. Distribució i resultat de les sol·licituds per tipus de família
+
+    Resolució de les sol·licituds per tipus de família al segon trimestre del 2026
+    Tipus de família                           Favorables              %      Desfavorables                   %
+    Extensa                                               1         0,7%                  4                3,3%
+    Fills>18 anys/Pares>65 anys                           0         0,0%                  1                0,8%
+    Monoparental acreditada                               9         5,9%                  8                6,6%
+    Monoparental sense acreditar                         26        17,1%                 19               15,7%
+    Nombrosa acreditada                                   0         0,0%                  2                1,7%
+    Nombrosa sense acreditar                              0         0,0%                  6                5,0%
+    Nuclear                                               4         2,6%                 24               19,8%
+    Pares/Fills>25 anys                                   4         2,6%                  6                5,0%
+    Parella                                              17        11,2%                 24               19,8%
+    Reconstituïda                                         2         1,3%                  2                1,7%
+    Unipersonal                                          89        58,6%                 25               20,7%
+    Total                                              152        100,0%                121              100,0%
+
+
+
+                               Distribució de sol·licituds favorables per tipus de família
+                                                  2n trimestre del 2026
+
+                                         0,7%   5,9%
+
+
+                                                             17,1%        Extensa
+                                                                          Monoparental acreditada
+                                                                          Monoparental sense acreditar
+                                                                          Nuclear
+                                                                 2,6%
+                                                                          Pares/Fills>25 anys
+                                                                 2,6%
+                                                                          Parella
+                   58,6%
+                                                                          Reconstituïda
+                                                              11,2%       Unipersonal
+
+                                                       1,3%
+
+
+
+
+                    Resolució de les sol·licituds per tipus de família
+                                  2n trimestre del 2026
+    100%
+     90%                                                                                  25
+     80%                          19
+                           8                                                        2
+     70%                                                             6   24
+     60%    4                                           24
+     50%           1                      2      6
+     40%                                                                                  89
+     30%                          26
+                           9                                                        2               Desfavorables
+     20%                                                             4   17
+                                                                                                    Favorables
+     10%    1                                            4
+      0%
+
+
+
+
+NP_A059_20260827                                                                                    Pàgina 10 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Tipus de família                   Favorables Sol·licituds %               Desfavorables             Sol·licituds %
+    Extensa                                       3            0,4%                       21                       2,6%
+    Fills>18 anys/Pares>65 anys                   0            0,0%                        5                       0,6%
+    Monoparental acreditada                      35            4,1%                       31                       3,8%
+    Monoparental                               168            19,7%                      172                      21,3%
+    Nombrosa acreditada                           3            0,4%                       17                       2,1%
+    Nombrosa                                      2            0,2%                       40                       5,0%
+    Nuclear                                      36            4,2%                      191                      23,7%
+    Pares/Fills>25 anys                          11            1,3%                       52                       6,5%
+    Parella                                      67            7,9%                      115                      14,3%
+    Reconstituïda                                 5            0,6%                       12                       1,5%
+    Unipersonal                                522            61,3%                      150                      18,6%
+    Total                                      852          100,0%                       806                     100,0%
+
+
+
+9. Distribució i resultat de les sol·licituds per estat civil
+
+    Resolució de les sol·licituds per estat civil al segon trimestre del 2026
+    Estat civil                                Favorables               %     Desfavorables                            %
+    Casat/da                                             19         12,5%                54                        44,6%
+    Divorciat/da                                         29         19,1%                21                        17,4%
+    Separat/da                                           22         14,5%                12                         9,9%
+    Solter/a                                             53         34,9%                27                        22,3%
+    Vidu/Vídua                                           29         19,1%                 7                         5,8%
+    Total                                               152       100,0%                121                       100,0%
+
+
+                              Distribució de sol·licituds favorables per estat civil
+                                              2n trimestre del 2026
+                                                        19
+                             29                        12,5%
+                            19,1%
+
+
+
+
+                                                                                          Casat/da
+                                                                      29
+                                                                     19,1%                Divorciat/da
+                                                                                          Separat/da
+                                                                                          Solter/a
+                                                                                          Vidu/Vídua
+
+
+                     53
+                    34,9%
+                                                         22
+                                                        14,5%
+
+
+
+
+                          Resolució de les sol·licituds per estat civil
+                                     2n trimestre del 2026
+         100%
+          90%                                                                    7
+          80%                                     12              27
+                                    21
+          70%
+          60%        54
+          50%                                                                                        Desfavorables
+          40%                                                                   29                   Favorables
+          30%                                     22              53
+                                    29
+          20%
+          10%        19
+           0%
+                   Casat/da     Divorciat/da   Separat/da       Solter/a     Vidu/Vídua
+
+
+
+
+NP_A059_20260827                                                                                           Pàgina 11 de 15
+        A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                   2n trimestre del 2026
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Nacionalitat                       Favorables Sol·licituds %      Desfavorables    Sol·licituds %
+    Espanyola                                  337            39,6%             231             28,7%
+    Andorrana                                  261            30,6%             271             33,6%
+    Portuguesa                                 128            15,0%             182             22,6%
+    Francesa                                     18            2,1%              12              1,5%
+    Altres                                     108            12,7%             110             13,6%
+    Total                                      852          100,0%              806            100,0%
+
+
+
+10. Distribució i resultat de les sol·licituds per trams d’edat
+
+    Resolució de les sol·licituds per trams d'edat al segon trimestre del 2026
+    Tram edat                                 Favorables              %     Desfavorables         %
+    Entre 20 i 24 anys                                   0         0,0%                 0      0,0%
+    Entre 25 i 29 anys                                   1         0,7%                 4      3,3%
+    Entre 30 i 34 anys                                   4         2,6%                 5      4,1%
+    Entre 35 i 39 anys                                  12         7,9%                 8      6,6%
+    Entre 40 i 44 anys                                  13         8,6%                16     13,2%
+    Entre 45 i 49 anys                                  15         9,9%                18     14,9%
+    Entre 50 i 54 anys                                  11         7,2%                17     14,0%
+    Entre 55 i 59 anys                                  13         8,6%                11      9,1%
+    Entre 60 i 64 anys                                  10         6,6%                10      8,3%
+    Entre 65 i 69 anys                                  28       18,4%                 13     10,7%
+    Entre 70 i 74 anys                                  16       10,5%                  7      5,8%
+    Entre 75 i 79 anys                                  17       11,2%                  7      5,8%
+    Entre 80 i 84 anys                                   5         3,3%                 3      2,5%
+    Entre 85 i 89 anys                                   3         2,0%                 2      1,7%
+    Entre 90 i 94 anys                                   3         2,0%                 0      0,0%
+    95 anys i més                                        1         0,7%                 0      0,0%
+    Total                                              152      100,0%                121    100,0%
+
+
+    Sol·licituds acumulades al tancament del 2n trimestre del 2026
+    Estructura de les llars            Favorables Sol·licituds %      Desfavorables    Sol·licituds %
+    Entre 20 i 24 anys                            4            0,5%               1              0,1%
+    Entre 25 i 29 anys                           10            1,2%              16              2,0%
+    Entre 30 i 34 anys                           27            3,2%              26              3,2%
+    Entre 35 i 39 anys                           44            5,2%              69              8,6%
+    Entre 40 i 44 anys                           60            7,0%              85             10,5%
+    Entre 45 i 49 anys                           63            7,4%             109             13,5%
+    Entre 50 i 54 anys                           65            7,6%             121             15,0%
+    Entre 55 i 59 anys                           81            9,5%              80              9,9%
+    Entre 60 i 64 anys                           64            7,5%              72              8,9%
+    Entre 65 i 69 anys                         107            12,6%              87             10,8%
+    Entre 70 i 74 anys                         124            14,6%              59              7,3%
+    Entre 75 i 79 anys                           96           11,3%              41              5,1%
+    Entre 80 i 84 anys                           65            7,6%              25              3,1%
+    Entre 85 i 89 anys                           24            2,8%              12              1,5%
+    Entre 90 i 94 anys                           14            1,6%               3              0,4%
+    95 anys i més                                 4            0,5%               0              0,0%
+    Total                                      852          100,0%              806            100,0%
+
+
+
+
+NP_A059_20260827                                                                        Pàgina 12 de 15
+       A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                  2n trimestre del 2026
+
+
+11. Distribució de les sol·licituds desfavorables per motiu de denegació
+
+          Distribució de les sol·licituds desfavorables per motiu de denegació
+          Motiu de denegació                                        2026T2                            %
+          Residència inferior a 5 anys                                              4              3,3%
+          Superar ingressos                                                        26             21,5%
+          No destinar +30% ingressos                                               83             68,6%
+          Contracte a nom d'altri                                                   4              3,3%
+          Incompatibilitat d'ajuts                                                  3              2,5%
+          Allotjaments turístics                                                    0              0,0%
+          Habitatge preu assequible                                                 0              0,0%
+          Superar estalvis                                                          1              0,8%
+          No tenir ingressos                                                        0              0,0%
+          Total                                                                  121             100,0%
+
+
+
+
+                       Distribució de sol·licituds desfavorables per motiu de denegació
+                                               2n trimestre del 2026
+
+
+                     Superar estalvis         1
+
+
+               Incompatibilitat d'ajuts           3
+
+
+               Contracte a nom d'altri            4
+
+
+         No destinar +30% ingressos                                                                    83
+
+
+                   Superar ingressos                             26
+
+
+          Residència inferior a 5 anys            4
+
+
+                                          0       5   10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+
+
+
+
+        Sol·licituds acumulades al tancament del 2n trimestre
+        Motiu de denegació                                                    Sol·licituds   Sol·licituds %
+        Residència inferior a 5 anys                                                     7             0,9%
+        Superar ingressos                                                              137            17,0%
+        No destinar +30% ingressos                                                     646            80,1%
+        Contracte a nom d'altri                                                          9             1,1%
+        Incompatibilitat d'ajuts                                                         4             0,5%
+        Allotjaments turísitcs                                                           0             0,0%
+        Habitatge preu assequible                                                        1             0,1%
+        Superar estalvis                                                                 2             0,2%
+        No tenir ingressos                                                               0             0,0%
+        Total                                                                          806           100,0%
+
+
+
+
+NP_A059_20260827                                                                                   Pàgina 13 de 15
+       A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                  2n trimestre del 2026
+
+12. Nota metodològica
+
+   •   Font: Dades del Ministeri d’Afers Socials, tractades i revisades pel Departament
+       d’Estadística del Govern d’Andorra.
+
+   •   Definicions:
+
+       o   Sol·licituds en curs: Engloba les sol·licituds que no es poden tancar fins el retorn de
+           les dades per part de les entitats bancàries, les sol·licituds que s’estan valorant
+           (falta documentació, inscripcions...) i les sol·licituds amb manca de documentació.
+
+       o   Sol·licituds arxivades: Són aquelles per les quals no han presentat la documentació
+           requerida.
+
+       o   Sol·licituds retirades/renúncies: Són renúncies i retirades voluntàries donat que han
+           sol·licitat l’ajut i posteriorment han considerat que ja no el necessitaven o ja es
+           beneficiaven de l’ajut de l’habitatge de la Convocatòria 2022 o l’ajut de l’habitatge
+           flexibilitzat 2022.
+
+       o   Persona jove: tota persona d’entre 18 i 30 anys, ambdues edats incloses.
+
+       o   Persona gran: tota persona de 65 anys o més.
+
+       o   Família monoparental: és la unitat familiar composta per un pare o una mare, o un
+           avi o una àvia, o un altre familiar consanguini fins al segon grau inclòs en la unitat
+           familiar, que conviuen amb un menor o més d’un.
+
+       o   Família nombrosa: són el pare i la mare amb tres fills o més a càrrec, així com les
+           famílies que compleixin els altres supòsits que s’estableixen al Reglament
+           d’adquisició del certificat de família nombrosa, del 18 de juny del 2014.
+
+       o   Persona amb discapacitat: la persona que presenta un grau de menyscabament
+           igual o superior al 33% d’acord amb la valoració oficial que en fa la Comissió
+           Nacional de Valoració (Conava).
+
+       o   Dones en situació desavantatjosa: dones en una situació econòmica
+           desavantatjosa que conviuen en una llar desestructurada i dones víctimes de la
+           violència de gènere i domèstica.
+
+       o   Altres: tot sol·licitant de més de 30 anys i menys de 65 que viu sol o en una família
+           que no és monoparental o nombrosa, que no tingui una discapacitat i no sigui
+           víctima de violència de gènere i domèstica.
+
+   •   Legislació:
+
+       Decret legislatiu del 30-05-2018 de publicació del text refós de la Llei 6/2014, del 24
+       d'abril, de serveis socials i sociosanitaris.
+
+       Decret del 7-10-2020 d'aprovació del Reglament de les prestacions econòmiques de
+       serveis socials i sociosanitaris.
+
+       Decret 471/2025, del 17-12-2025, de modificació del Decret del 7-10-2020 d’aprovació
+       del Reglament de les prestacions econòmiques dels serveis socials i sociosanitaris.
+
+   •   Citació: Per qualsevol utilització de la informació continguda en aquesta nota de
+       premsa, preguem la citació següent: “Dades tractades pel Departament d’Estadística
+       per a la nota de premsa referència NP_A059_20260827”.
+
+
+
+
+NP_A059_20260827                                                                  Pàgina 14 de 15
+       A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+                                  2n trimestre del 2026
+
+   •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+       seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+       resposta a l’activitat estadística: A059. Estadística de prestacions per al pagament del
+       lloguer d’habitatges. 2n trimestre del 2026.
+
+   •   Difusió.    Dades     disponibles     al   web     www.estadistica.ad,     a    l’apartat
+       Estadístiques/Dades/Protecció social/Pensions i prestacions/Prestacions al pagament
+       del lloguer. Per estar informat en qualsevol moment de les noves publicacions us
+       podeu inscriure a la nostra “Alerta informativa”. Amb l’objectiu de maximitzar la difusió
+       de la informació estadística d’Andorra, les notes de premsa del Departament
+       d’Estadística es podran seguir també per Twitter (actualment X).
+
+13. Dates de les publicacions previstes
+
+    Nota de premsa A059. Estadística de prestacions per al pagament del lloguer d’habitatges.
+    3r trimestre del 2026: 30 de novembre del 2026
+
+
+
+
+NP_A059_20260827                                                                Pàgina 15 de 15
+
