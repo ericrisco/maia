@@ -98,12 +98,55 @@ unió duanera industrial; *lliure disposició*, el del règim agrícola propi.
 > **Auditats contra el text del Codi i contra la resta del corpus el
 > 2026-09-13.**
 
-- **Les franquícies de viatger** —quant es pot passar per la frontera sense
+- ~~**Les franquícies de viatger** —quant es pot passar per la frontera sense
   declarar— **no s'han localitzat** en aquesta lectura dels 296 articles. És,
-  probablement, la pregunta més freqüent del país sobre la duana. —
-  **`obert`, confirmat**, i **amb una explicació estructural**: **igual que els
-  tipus aranzelaris, les franquícies són tarifa i reglament, no llei.**
-  `Requereix font externa: el reglament de franquícies duaneres.`
+  probablement, la pregunta més freqüent del país sobre la duana.~~ —
+  **`resolt` el 17-09-2026 al [BOPA](../../../fonts/bopa.md)**, i **la
+  suposició que aquesta fitxa havia fet era equivocada.** **Es va escriure que
+  «igual que els tipus aranzelaris, les franquícies són tarifa i reglament, no
+  llei».** **No ho són: són llei.** **La Llei 33/2012, del 22 de novembre, del
+  règim de franquícies duaneres**
+  (`docs/raw/lleis/bopa/llei-33-2012-franquicies-duaneres.txt`) **és una norma
+  separada del Codi de Duana**, i per això la lectura dels 296 articles no la
+  podia trobar. **La lliçó de mètode és que no trobar una cosa dins d'un codi
+  no vol dir que hagi baixat de rang: pot voler dir que té llei pròpia.**
+
+  **Les quantitats, articles 34 a 37, per viatger:**
+
+  | | Franquícia |
+  | --- | --- |
+  | **Cigarrets** | **200** |
+  | **Cigars de fins a 3 grams** | **100** |
+  | **Cigars** | **50** |
+  | **Tabac per fumar** | **250 grams** |
+  | **Alcohol de més de 22% vol.** | **1 litre** |
+  | **Alcohol de 22% vol. o menys** | **2 litres** |
+  | **Vins tranquils** | **4 litres** |
+  | **Cervesa** | **16 litres** |
+  | **Tota la resta, en valor** | **300 euros** |
+
+  **Amb quatre regles que la taula sola no diu.** **De tabac i alcohol es pot
+  fer «un assortiment proporcional»** en comptes de triar-ne un. **Els menors
+  de disset anys no tenen cap franquícia de tabac ni d'alcohol**, i **els
+  menors de quinze anys tenen 150 euros en comptes de 300** (articles 35.2 i
+  36.2). **El valor del tabac i l'alcohol no consumeix els 300 euros**: són
+  dues franquícies independents (article 37.2). I **si el valor global
+  s'excedeix, no es fracciona el valor d'una mercaderia** per encabir-ne un
+  tros (article 37.1).
+
+  **Una ambigüitat del text oficial, registrada.** L'article 35.1.a llista «100
+  cigars (d'un pes màxim de 3 grams cada un); o **50 cigars**»: **fa servir la
+  mateixa paraula per a les dues categories i només les separa pel pes.**
+  **En el model europeu equivalent, els primers són cigarrets petits
+  —cigarillos— i els segons, cigars.** **El corpus reprodueix el text tal com
+  és i deixa constància que la distinció, tal com està escrita, depèn
+  enterament del parèntesi.**
+
+  **Comprovada la vigència** (regla dels dos passos): **la Llei 5/2023 en
+  modifica un sol punt**, i **no és cap dels de viatger**: **suprimeix la
+  lletra b) de l'article 22.2**, que era el llindar de **22 euros** dels
+  enviaments de poc valor «per posar-los en lliure disposició». **Queda només
+  el de 150 euros.** **Les franquícies de viatger són intactes des del 2012.**
 - **Els tipus aranzelaris** no són al Codi: són **tarifa**, no llei. —
   **`obert`, confirmat.** **És el tercer cas del corpus en què la resposta viu
   en una norma de rang inferior** que el recull no conté — vegeu també
