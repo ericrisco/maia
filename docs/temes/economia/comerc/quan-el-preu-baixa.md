@@ -119,8 +119,31 @@ la que té dents: **qui encarrega respon**, no només qui executa.
   s'han llegit**.
 - **Els grans establiments** (art. 11 i 17), amb autorització prèvia pròpia, i el
   procediment d'obertura **queden per llegir**.
-- **La venda ambulant, automàtica, domiciliària i en subhasta pública** (art.
-  60-69) s'han identificat i **no s'han llegit**.
+- ~~**La venda ambulant, automàtica, domiciliària i en subhasta pública** (art.
+  60-69) s'han identificat i **no s'han llegit**.~~ — **`resolt` el
+  17-09-2026.**
+
+  **L'ambulant** és la de parades o instal·lacions desmuntables o mòbils «en
+  llocs i dates variables», i **l'autoritza el comú, no el Govern**
+  (article 60). **Els requisits van a reglament** (article 61), que el corpus
+  no té.
+
+  **L'automàtica** té la llista d'obligacions més concreta de tot el capítol
+  (article 64): **cada màquina ha de portar visibles la identitat i el número
+  de Registre de Comerç de l'oferent, el certificat CE, el producte, el preu
+  total, si torna canvi i amb quina moneda, les instruccions, i un domicili i
+  telèfon de reclamacions**; i **ha de tenir un sistema que retorni els diners
+  en cas d'error, de manca de producte o de mal funcionament.**
+
+  **La domiciliària** es defineix pel lloc —domicili, residència, **llocs d'oci
+  o de reunió**, o **el lloc de treball** (article 66)— i **no té règim propi**:
+  se li apliquen els articles de la venda a distància «en la mesura que
+  resultin compatibles» (article 68).
+
+  **I l'article 91 tanca el capítol amb dues prohibicions**: **les vendes
+  piramidals o en cadena** i **la venda per sota del cost**, amb tres
+  excepcions taxades —**saldos i restes**, **liquidació**, i **productes
+  peribles prop de la data d'inutilització**.
 - ~~**Si el Govern ha fixat mai el calendari de rebaixes**, no consta: seria un
   decret, i **els decrets no són al recull**.~~ — **`resolt` el 17-09-2026 al
   [BOPA](../../../fonts/bopa.md), que sí que els té.** **L'ha fixat vint-i-una
