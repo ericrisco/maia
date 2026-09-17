@@ -369,7 +369,16 @@ recull**, i el corpus no sap si existeix ni què hi diu.
 2. **Tancat el 2026-09-12.** Els cinc articles que la primera instantània va
    baixar buits (45, 46, 56, 68, 80) es van recuperar en reextreure el fons
    sencer. Cap article del recull està buit ara.
-3. **Què passa si un copríncep no sanciona** una llei dins dels vuit-quinze dies.
+3. ~~**Què passa si un copríncep no sanciona** una llei dins dels vuit-quinze
+   dies.~~ `resolt`: **la llei entra en vigor igualment**. L'article 45.3 de la
+   Constitució diu que, quan concorren circumstàncies que impedeixen a un
+   copríncep formalitzar l'acte, «els actes, normes o decisions afectats entraran
+   en vigor transcorreguts els dits terminis **amb la signatura de l'altre
+   copríncep i la contrasignatura del cap de Govern**» o del síndic general. El
+   corpus ho té llegit a
+   [Vuit dies i no més de quinze](../../historia/constitucio-1993/vuit-dies-i-no-mes-de-quinze.md):
+   **la Constitució no els treu el poder de dir que no; els treu el poder de no
+   dir res.**
 4. **Si passats trenta dies** una llei només es pot impugnar per la via
    incidental de l'article 100.
 5. **Quantes vegades s'ha fet servir** la delegació legislativa i el procediment
