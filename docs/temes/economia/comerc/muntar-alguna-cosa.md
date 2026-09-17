@@ -114,7 +114,61 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
   empreses de més de 2,5 M€**—, la sanció de **fins al 3% del volum de negoci**,
   i les **sis conductes deslleials** de l'article 19. **El que queda obert és el
   títol V**, el procediment judicial civil.
-- **La Llei de fundacions** (42 articles) tampoc.
+- ~~**La Llei de fundacions** (42 articles) tampoc.~~ — **`resolt` el
+  17-09-2026** (`docs/raw/lleis/fundacions.txt`, **Llei 17/2023 de text
+  consolidat**). **El text ja era al corpus.**
+
+  **Fundar a Andorra costa cent mil euros i una autorització del Govern.**
+
+  > «La dotació inicial mínima és de **100.000 euros**» (article 5.1), i **el
+  > Govern «ha de valorar en cada cas, abans de donar l'autorització, la
+  > suficiència de la dotació» per a les activitats previstes.**
+
+  **La constitució té dues portes seguides**: **autorització prèvia del Govern**
+  —amb projecte d'estatuts, memòria d'activitats i **pla de viabilitat
+  econòmica**— **i després escriptura pública inscrita al Registre** (articles
+  3 i 6). **L'autorització té silenci positiu als tres mesos.**
+
+  **I la llei imposa tres límits econòmics que decideixen com viu una
+  fundació:**
+
+  | Regla | Xifra | On |
+  | --- | --- | --- |
+  | **Cal destinar als fins fundacionals** | **dos terços dels ingressos nets anuals**, en un termini de **tres exercicis** | article 25.1-2 |
+  | **Sostre de despeses d'administració** | **20% dels ingressos de l'exercici** | article 25.3 |
+  | **Auditoria externa obligatòria** | si l'actiu passa de **300.000 €** **o** els ingressos ordinaris de **20.000 €** | article 27.1 |
+
+  **El llindar d'auditoria és baix a propòsit**: **vint mil euros d'ingressos
+  ordinaris ja obliguen a auditar-se.**
+
+  **El càrrec de patró és gratuït** llevat de voluntat contrària del fundador
+  (article 18), i **la renúncia només val davant de tercers un cop inscrita al
+  Registre** (article 19.2).
+
+  **La peça institucional és el Protectorat**, que **exerceix el ministeri de
+  Justícia** (article 32.2) i que **no és un registre passiu**:
+
+  - **impugna els acords del patronat contraris a la llei o als estatuts**
+    (article 33.2);
+  - **si hi veu indicis racionals d'il·licitud penal, ho comunica al Ministeri
+    Fiscal** (article 33.3);
+  - **pot assumir provisionalment la gestió de la fundació** —si es queda sense
+    patrons, o si hi adverteix «una irregularitat greu en la gestió econòmica»
+    o «una desviació greu entre els fins fundacionals i l'activitat
+    efectuada»— **amb autorització judicial i per un màxim de dos anys**
+    (article 34);
+  - **i si una fundació no presenta comptes durant dos anys seguits, demana a
+    la justícia que n'ordeni la intervenció temporal**, **i mentrestant no li
+    inscriu cap document** llevat de cessaments i liquidació (article 24.2).
+
+  **Les fundacions poden fer activitats econòmiques i tenir societats**
+  (article 6 bis), **amb una condició de responsabilitat**: **només societats on
+  els socis no responguin personalment dels deutes**, i **si per herència o
+  qualsevol via n'arriben a tenir una on sí que responguin, l'han d'alienar en
+  un any.**
+
+  **I una regla de nom**: **la denominació ha de contenir els mots «fundació
+  privada»** i **el domicili «només pot ser a Andorra»** (article 10.1).
 - ~~**Quantes societats, associacions i fundacions hi ha**, no consta.~~ —
   **`parcial` el 17-09-2026, i només per a les fundacions**, **perquè és
   l'únic dels tres registres que el [BOPA](../../../fonts/bopa.md) publica
