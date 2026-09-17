@@ -151,6 +151,37 @@ primer, activitat després.
   > pública i d'una avaluació de capacitats per la comissió legislativa
   > constituïda en comitè de validació**; i **la intervenció del Consell General
   > passa a fiscalitzar-ne els comptes.**
-- **La llei de seguretat de xarxes i la de confiança electrònica** només s'han
-  identificat.
+- ~~**La llei de seguretat de xarxes i la de confiança electrònica** només s'han
+  identificat.~~ — **`parcial` el 17-09-2026: llegides pel seu objecte i la seva
+  arquitectura institucional**, no article a article.
+
+  **Llei 22/2022, del 9 de juny, de mesures per a la seguretat de les xarxes i
+  dels sistemes d'informació**
+  ([evidència](../../../raw/lleis/bopa/llei-22-2022-seguretat-xarxes.txt)).
+  Trasllada l'esquema europeu NIS i crea **dues peces**:
+
+  - **l'ANC-AD**, autoritat nacional competent en ciberseguretat, que és també el
+    **Punt de Contacte Nacional Únic** d'Andorra;
+  - **el CSIRT-AD**, l'equip de resposta a incidents, que supervisa amenaces i
+    vulnerabilitats «a escala nacional» i difon alertes.
+
+  **I reparteix la supervisió amb l'AFA**: l'autoritat financera és l'autoritat
+  competent per als **sectors financer i de mercat financer** (annex I, apartats 3
+  i 4) i per a tot el que ja supervisa; l'ANC-AD, per a la resta. **Les entitats
+  classificades com a «essencials» o «importants» s'han d'identificar en sis
+  mesos** des que es publiqui al BOPA la llista de serveis essencials.
+  Desenvolupada pel **Reglament del Decret 418/2022**, modificat pel **Decret
+  416/2024**.
+
+  **Llei 35/2014, del 27 de novembre, de serveis de confiança electrònica**
+  ([evidència](../../../raw/lleis/bopa/llei-35-2014-confianca-electronica.txt)),
+  modificada per la **Llei 9/2021**. Regula els efectes jurídics de **signatures,
+  segells, marques de temps, certificats d'autenticació de lloc web i serveis de
+  lliurament electrònics**; el règim dels prestadors i la seva supervisió; i **les
+  condicions perquè Andorra reconegui els prestadors estrangers**. El seu
+  reglament de supervisió és de l'**1 de juliol del 2015** i s'ha modificat
+  **quatre vegades** (2019, 2020, 2023 i 2024).
+
+  `Cap de les dues no s'ha buidat article a article, ni s'han llegit els seus
+  annexos de sectors.`
 - **Quants clubs i jugadors d'e-sports hi ha registrats**, tampoc.
