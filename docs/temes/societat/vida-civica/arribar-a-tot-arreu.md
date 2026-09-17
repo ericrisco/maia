@@ -142,7 +142,31 @@ donar dades veraces** (article 43.2).
   disposició té caràcter de llei qualificada**: **la que modifica el Codi de
   procediment penal** (disposició final novena). **La resta és llei ordinària.**
 - **El percentatge de places d'aparcament reservades** és reglamentari: **no és
-  al recull**.
+  al recull**. — **`parcial` el 17-09-2026, i ara se sap per què no es troba.**
+
+  **El Reglament d'accessibilitat existeix, i el corpus ja el té**: aprovat pel
+  Govern el **31 de maig de 1995** i publicat el **13-6-1995**
+  ([evidència](../../../raw/lleis/bopa/reglament-accessibilitat-1995.txt)), amb
+  **quatre modificacions** i **una correcció d'errata**:
+
+  | Data | Què toca |
+  | --- | --- |
+  | 29-6-1995 | Correcció d'errata |
+  | **19-5-1999** | Article 7.3 —**tots els ascensors obligatoris han de ser adaptats**— i els annexos II, III A, III B i IV |
+  | **23-11-2005** | Ascensors: incorpora la **norma europea EN 81-70** |
+  | **25-1-2006** | Hi fa marxa enrere parcial: l'EN 81-70 **només s'aplica a les autoritzacions noves** que incorporin aparells elevadors, i es reviu la Instrucció tècnica del 1996 |
+  | **11-3-2015** | Targeta especial d'aparcament: passa a tenir **validesa a tota la Unió Europea** (Recomanació 98/376/CE) i s'hi afegeix el tipus **TCA** per a transport col·lectiu adaptat |
+
+  **El percentatge no és al text del Reglament**: el fitxer del BOPA **no conté
+  cap xifra percentual**, perquè **les determinacions numèriques viuen als
+  annexos tècnics**, que el Butlletí publica com a document a part. **El que el
+  text sí que dona és la targeta**: és personal i intransferible, per a residents
+  amb discapacitat que els dificulti el transport col·lectiu, i **excepcionalment
+  la pot fer servir una altra persona pel temps indispensable quan transporti el
+  titular**.
+
+  `Requereix els annexos II, III i IV del Reglament, que són documents separats
+  al BOPA i no al text de l'edicte.`
 
   **`parcial` el 17-09-2026**: **la Llei d'accessibilitat, del 6 d'abril del
   1995, és al [BOPA](../../../fonts/bopa.md)**, butlletí **24 del 1995**
