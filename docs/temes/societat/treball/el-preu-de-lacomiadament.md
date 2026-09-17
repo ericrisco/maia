@@ -131,6 +131,55 @@ marca la relació de forces.
   què deia la norma que va llegir la font antiga.
 - **Quantes vegades s'aplica cada via**, no consta. Sense dades d'inspecció ni
   de sentències, no se sap si el no causal és la porta habitual o l'excepció.
-- **L'article 99**, que taxa les causes disciplinàries, no s'ha llegit.
+- ~~**L'article 99**, que taxa les causes disciplinàries, no s'ha llegit.~~ —
+  **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-relacions-laborals.txt`,
+  articles 97 a 101). **El text ja era al corpus.**
+
+  **Tres graus de falta i tres sancions** (article 100):
+
+  | Falta | Sanció |
+  | --- | --- |
+  | **Lleu** | **amonestació escrita** |
+  | **Greu** | **suspensió de sou i feina, màxim 10 dies** |
+  | **Molt greu** | **suspensió d'11 dies a 1 mes** o **acomiadament disciplinari** |
+
+  **L'acomiadament disciplinari només pot venir d'una falta molt greu**, i
+  **l'article 99 en taxa una vintena.** **Les de sempre hi són** —frau,
+  deslleialtat, robatori, danys al material, maltractaments de paraula o d'obra,
+  violar el secret de l'empresa, simular una malaltia, **la disminució
+  voluntària del rendiment**—, **i tres coses valen la pena de notar.**
+
+  **La primera: l'assetjament sexual hi és, amb agreujant jeràrquic.**
+  **La lletra k) qualifica de falta molt greu «tot comportament o conducta que
+  atempti contra el respecte a la intimitat i la dignitat de les persones
+  mitjançant l'ofensa, física o verbal, de caràcter sexual»**, i **«si aquesta
+  conducta es porta a terme prevalent-se d'una posició jeràrquica, aquest fet
+  constitueix una circumstància agreujant».**
+
+  **La segona: sis de les lletres són sobre la vaga.** **Són falta molt greu**
+  promoure o participar en **una vaga prohibida o abusiva**; **ocupar el centre
+  de treball**; **impedir l'accés a qui no la secunda**; **atemptar contra la
+  seguretat de persones o béns durant una vaga**; **intimidar els qui opten per
+  treballar**; i **incomplir els laudes obligatoris o els acords executius del
+  Govern** ([el dret de vaga](./el-dret-de-vaga.md)). **La llei laboral
+  andorrana tipifica el conflicte col·lectiu com a causa d'acomiadament amb més
+  detall que cap altra conducta.**
+
+  **La tercera: l'acumulació és una falta en si mateixa.** **Tres faltes greus
+  en sis mesos, encara que siguin de natura diferent, són una falta molt
+  greu** (article 99.2), **sempre que la primera ja hagi estat sancionada**; i
+  **la reincidència en una lleu, en el mateix termini i amb la mateixa
+  condició, és falta greu** (article 98.2). **Cal haver sancionat per escrit
+  perquè compti.**
+
+  **I les xifres de les absències són concretes**: **tres faltes d'assistència
+  injustificades en dos mesos, o més de sis en un any, són molt greu**; **dos
+  dies en un mes, greu**; **més de tres retards en un mes, greu**; **marxar
+  abans d'hora més de trenta minuts, més d'un cop al mes, greu.**
+
+  **La formalitat és el que protegeix l'assalariat** (article 101):
+  **comunicació escrita amb la data i els fets**, per **carta certificada amb
+  avís de recepció** o **entrega directa signada**, i **si la persona es nega a
+  signar, davant de dos testimonis.**
 - **Els salaris reals no hi són.** «25 dies de sou» no diu res sense saber
   quants diners són ni com es reparteixen.
