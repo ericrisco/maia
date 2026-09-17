@@ -204,9 +204,60 @@ una opinió aïllada: és **la mateixa fractura** que
 [la transformació econòmica](../transformacio-economica/transformacio-economica.md)
 descriu des de l'altra punta.
 
+## La llei que la va crear, i la que la manté
+
+**La Cambra neix per llei el 3 de setembre del 1993**, i el text que la regeix
+avui és el **refós del 5 de desembre del 2018**, que hi incorpora la
+**Llei 23/2018** (`docs/raw/lleis/bopa/decret-legislatiu-2018-text-refos-cambra-de-comerc.txt`,
+**vint articles**). És una **entitat de dret públic amb personalitat jurídica
+pròpia** que es regeix per la seva llei i pels reglaments del Govern, però **la
+seva contractació i el seu patrimoni s'ajusten al dret privat**, i està **sota la
+tutela del ministeri que té el Registre de Comerç i Indústria**.
+
+**És òrgan consultiu, i no vinculant.** L'article 2 li dona cinc portes: ser
+consultada pel Govern, ser consultada per qualsevol administració estatal o
+parroquial, **informar i presentar esmenes sobre tot projecte de normativa** que
+incideixi en el comerç, la indústria o els serveis, informar els projectes de
+concessió administrativa, i **presentar propostes d'iniciativa legislativa al
+Govern**.
+
+**Inscriure-s'hi és obligatori.** L'article 3.1.a li encarrega un **cens general
+propi** que complementa el Registre de Comerç i Indústria, i **«es declara
+obligatòria la inscripció dels comerciants, industrials i titulars de serveis al
+cens de la Cambra»**. La condició d'elector va **per activitat inscrita**, no per
+persona (article 4.2), i **es perd amb la baixa al Registre o amb una condemna
+per delictes relacionats amb l'exercici del comerç** mentre no prescrigui la pena
+o no es cancel·lin els antecedents.
+
+**La formació hi és, i és una funció de segon ordre.** De les quinze funcions
+públic-administratives de l'article 3.1, **dues toquen la formació**: la lletra l,
+**col·laborar amb l'Administració educativa i amb els centres de formació
+professional en la gestió de la formació pràctica a les empreses**, i la n,
+**col·laborar en els programes de formació permanent i «difondre i impartir, si
+escau, formació referent a l'empresa»**. **«Si escau»** — [el sostre de dotze
+alumnes i tres promocions](#el-sostre-estructural-dotze-alumnes-tres-promocions)
+d'aquesta fitxa és el que passa quan una funció està escrita així. Difondre
+l'ensenyament comercial i industrial no és ni tan sols una funció pública: és de
+les que la Cambra **«pot exercir»** (article 3.2.a).
+
+**El finançament té una part fixa i una de variable, i totes dues surten de
+l'Estat.** L'article 14 assigna **600.000 euros anuals** del Pressupost General,
+**actualitzats per IPC**, més **un import variable igual al 10% del que es recapti
+per la taxa del Registre de Titulars d'Activitats Econòmiques** en concepte
+d'inscripció als registres de Comerç i Indústria i de Societats Mercantils
+**sobre la creació neta de l'any anterior**. Les transferències es poden
+incrementar **fins a un 10% més** per a projectes d'alt valor afegit, amb un marc
+pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 15
+és curt: **la Cambra ha de publicar al Butlletí tots els acords del Ple.**
+
 ## Buits registrats
 
-- **La llei de creació de la Cambra (1993)**: text i competències completes.
+- ~~**La llei de creació de la Cambra (1993)**: text i competències completes.~~ —
+  **`resolt` el 17-09-2026** a «[La llei que la va crear, i la que la
+  manté](#la-llei-que-la-va-crear-i-la-que-la-mante)»: text refós del 5-12-2018
+  al [BOPA](../../../fonts/bopa.md), vint articles, competències senceres.
+  `Requereix les normes reglamentàries que la llei diu que el Govern dicta, i el
+  reglament del cens obligatori.`
 - **Quins bancs** van finançar els cursos i amb quant.
 - **Quantes empreses i quantes persones** van passar per la formació contínua.
 - **Es van crear les «vies de formació ocupacional»** més flexibles?
