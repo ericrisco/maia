@@ -204,7 +204,50 @@ el 2012 **el país va perdre població**
    mateix buit que declaren [la llei d'immigració del
    2012](./la-llei-dimmigracio-del-2012.md) i [les comunitats](./les-comunitats.md)**.
    **Comptat un sol cop, aquesta branca en té un i no tres.**
-   `Requereix font externa: els reglaments de quota al BOPA.`
+   **`parcial` el 17-09-2026, i la part que es tanca són els nou primers anys**,
+   baixats del [BOPA](../../../fonts/bopa.md)
+   (`docs/raw/societat/immigracio-quotes/`).
+
+   **Primer, el que canvia no són les xifres sinó el rang de la norma**, i és
+   la Constitució qui el canvia:
+
+   | Període | Instrument |
+   | --- | --- |
+   | **1989-1992** | **Edicte del Consell General**, en aplicació del **Decret de Bases sobre la Immigració del 26 de juny del 1980** |
+   | **novembre del 1993** | **Llei** — l'exposició de motius ho diu: «l'aprovació de la Constitució ha comportat que el Consell General i el Govern assumeixin totes les competències en matèria d'immigració» |
+   | **1995-1997** | **Llei qualificada** |
+   | **des del 2003** | **Decret del Govern** (Reglament de quota) |
+
+   **La quota puja de decret a llei amb la Constitució i torna a baixar a
+   reglament deu anys després.**
+
+   **I les xifres, any per any:**
+
+   | Any | Prorrogables | Temporals / temporers |
+   | --- | --- | --- |
+   | **1989** | — | **5.000** temporers (6 mesos, pròrroga fins a 10) |
+   | **1989 hivern** | — | **950** (1.12.1989 – 30.5.1990), **sense pròrroga ni canvi de sector** |
+   | **1990** | **8.459** repartides entre **4.857 empreses**, més **500** per a empreses de nova creació | — |
+   | **1991** | **909** — **exactament les baixes definitives del país registrades el 1990** | **750**, més **900** places d'hivern |
+   | **1992** | **250** | **850** (durada de 5 mesos) |
+   | **oct. 1993 – juny 1994** | **250** | **400** temporers i una quota especial de **950** |
+   | **1995-1996** | **500** UE/EFTA + **150** altament qualificats + **20** de fora de la UE/EFTA | **800** temporers |
+   | **1996-1997** | **500** + **150** | **800** temporers |
+   | **1997-1998** | **900** + **150** + **25** | **500** temporers |
+
+   **Tres coses que aquestes xifres diuen i que cap altra font del corpus no
+   deia.** **La del 1991 és la més clara**: **la quota d'autoritzacions
+   prorrogables és literalment el nombre de persones que van marxar l'any
+   anterior** —**909**—, **de manera que el país es fixa per norma un saldo
+   migratori net zero.** **La del 1995 és la més dura**: **de fora de la UE i
+   l'EFTA, vint autoritzacions**, reservades a **assistència domèstica a gent
+   gran i persones altament qualificades** —**el dual d'aquesta fitxa escrit en
+   una xifra.** **I el 1991 diu que la quota de residència sense treball
+   «queda sense contingut»**: **el mateix any en què s'obre la mà als temporers
+   d'hivern, es tanca del tot la porta de la residència passiva.**
+
+   `El que segueix obert són les quotes del 1998 al 2019 i les posteriors, que
+   el BOPA té com a reglaments del Govern i no s'han buidat.`
 4. ~~**Mojácar, Lalín i Viana do Castelo**: quanta gent, quan.~~ — **`parcial`,
    i les tres xarxes tenen rastre al corpus, encara que cap no tingui xifra.**
 
