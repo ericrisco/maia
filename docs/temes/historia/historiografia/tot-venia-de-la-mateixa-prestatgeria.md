@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-17T04:00:00Z
+timestamp: 2026-09-17T23:00:00Z
 tags: [historiografia, historia, arxius, manuscrits, manual-digest, politar, pareatge, bibliografia, font-primaria, prioritari]
 ---
 
@@ -217,8 +217,28 @@ l'1 d'agost de 1882**.
 5. **L'article de Ch. Romeu al *Tour du Monde* del 4 de desembre de 1897.**
    **Ara amb data exacta.**
 6. **Qui era «l'abbé Puigt»**, i **si és realment l'autor del Politar.**
-7. **Si *Republica de Andorra* (Barcelona, 1849) és de Dalmau de Baquer, de Léon
-   Clos, o de tots dos.**
+7. ~~**Si *Republica de Andorra* (Barcelona, 1849) és de Dalmau de Baquer, de
+   Léon Clos, o de tots dos.**~~ — **`resolt` el 17-09-2026 amb la portada al
+   davant.** **L'exemplar de la Library of Congress, de domini públic
+   ([fitxa](../../../fonts/dalmau-historia-1849.md)), imprimeix:**
+
+   > **HISTORIA DE LA REPÚBLICA DE ANDORRA** · **ESCRITA POR D. Luis Dalmau de
+   > Baquer** · **BARCELONA: Imprenta y Librería de Don Pablo Riera, calle Nueva
+   > de San Francisco, n.º 9. 1849.** · *Es propiedad.*
+
+   **Un sol autor a la portada, i no és Clos.** **El títol complet duu
+   «Historia de la»** al davant, que el corpus no tenia.
+
+   **I la portada aporta una cosa que el buit no demanava i val més que la
+   resposta**: **el llibre va DEDICAT a «el Ilmo. Sr. D. Simón de Guardiola,
+   Obispo de Urgel, Príncipe soberano de los Valles de Andorra»**, amb una
+   dedicatòria d'elogi. **Una història d'Andorra del 1849 dedicada al copríncep
+   episcopal no és una font neutra sobre el poder episcopal**, i **el corpus
+   la cita en dos articles.** `Requereix rellegir-hi les afirmacions sobre el
+   diploma del 805 amb aquesta dedicatòria a la vista.`
+
+   **El que segueix obert és d'on surt la confusió amb Clos**: **la font que va
+   generar el dubte segueix sense identificar-se.**
 8. **Si la Biblioteca del Comité de législation comparée / étrangère existeix
    encara**, i **si hi són les transcripcions de 1879.** **Prioritari**: **són
    les còpies que van llegir tots dos autors francesos del 1904.**

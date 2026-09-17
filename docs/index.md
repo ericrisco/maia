@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**999** documents · **201** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**999** documents · **202** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1665,6 +1665,7 @@
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`dalmau-historia-1849`](fonts/dalmau-historia-1849.md) | Domini públic. Exemplar digitalitzat per la Library of Congress | La Library of Congress declara no tenir constancia de cap restriccio de drets sobre l'item | si |
 | [`dcvb`](fonts/dcvb.md) | Institut d'Estudis Catalans | drets reservats; no s'ha localitzat cap avís legal publicat al domini de consulta | pendent |
 | [`de-la-parte-immigracio-cultura`](fonts/de-la-parte-immigracio-cultura.md) | Isabel de la Parte i Cano · Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
