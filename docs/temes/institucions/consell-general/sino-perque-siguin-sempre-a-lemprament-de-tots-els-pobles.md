@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-17T12:00:00Z
+timestamp: 2026-09-17T23:30:00Z
 tags: [consell-general, coprincipat, sobirania, domini-public, aigua, comunals, usatges, historiografia, font-primaria, prioritari]
 ---
 
@@ -302,8 +302,34 @@ català** *(p. 125)*:
    ***loi Stratae***. **Tres formes del mateix nom en tres llocs**, i **només una
    —*Strate*— és la paraula amb què l'usatge comença.**
 4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260; **Balari**, pp.
-   319-320; **Costa**, *Colectivismo agrario*, pp. 257 i seg.; **Du Cange**,
-   entrades *Bosiga* i *Scalia*. **Cap dels quatre no és al corpus.**
+   319-320; ~~**Costa**, *Colectivismo agrario*, pp. 257 i seg.~~; **Du Cange**,
+   entrades *Bosiga* i *Scalia*. — **Costa `resolt` el 17-09-2026**
+   ([fitxa](../../../fonts/costa-colectivismo-1898.md)); **els altres tres
+   segueixen oberts.**
+
+   **El primer que Costa aporta és un no**: **no esmenta Andorra ni una sola
+   vegada** en tota l'obra. **El corpus el tenia registrat com una font
+   andorrana que li faltava i no ho és**: és **context comparat** de propietat
+   col·lectiva espanyola. **Ríos Urruti el cita per l'usatge, no per Andorra.**
+
+   **I aporta tres coses que el corpus no tenia:**
+
+   - **La versió catalana del 1588 de la clàusula**, al costat del llatí:
+     «**mas que tots temps sien empriu de lurs pobles**». **El corpus tenia el
+     llatí i cap versió d'època.**
+   - **El número de l'usatge, per segona via independent**: Costa el numera
+     **«Usages de Barcelona, núm. 72»**, **el mateix 72** que [aquest
+     article](#el-que-falta) va establir el mateix dia llegint la pàgina
+     impresa de Ríos Urruti. **Dues fonts, el mateix número.**
+   - **L'equivalència lèxica**: els comentaristes **identifiquen *emparamentum*
+     amb *ademprivium*** —**i Costa cita Brutails per dir-ho**—, amb la forma
+     aragonesa ***ademprio***.
+
+   **I situa l'*empriu* com a pràctica viva**: al Pirineu català, els llauradors
+   pobres que havien romput trossos de muntanya comuna per dret de presura
+   **podien obligar els ramaders a femar-los**. **Les pp. 259-261 tracten el
+   «rompimiento de emprius en la costumbre actual del Pirineo catalán»**, que és
+   **el tram exacte que la cita de Ríos assenyalava.**
 5. **Quan es va prohibir l'explotació en comú de les fustes**: **`resolt` el
    16-09-2026 a favor del 1853, amb el document al davant** (peça justificativa
    I, article 8, PDF 27). **El decret del 30 de setembre de 1853 del bisbe Josep

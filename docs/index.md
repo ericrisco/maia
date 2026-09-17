@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**999** documents · **202** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**999** documents · **203** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1663,6 +1663,7 @@
 | [`consell-general-pressupost-2026`](fonts/consell-general-pressupost-2026.md) | Consell General del Principat d'Andorra | condicions de reutilització pendents per peça | pendent |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | condicions variables per document; identitat gràfica reservada | pendent |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
+| [`costa-colectivismo-1898`](fonts/costa-colectivismo-1898.md) | Domini públic per antiguitat. Exemplar digitalitzat, còpia de la Biblioteca del Banco de España | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1898, autor mort el 1911. | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`dalmau-historia-1849`](fonts/dalmau-historia-1849.md) | Domini públic. Exemplar digitalitzat per la Library of Congress | La Library of Congress declara no tenir constancia de cap restriccio de drets sobre l'item | si |
