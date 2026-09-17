@@ -52,6 +52,82 @@ l'escola.**
 2026-09-12 i el 2026-09-14. **La branca era, fa dos dies, la més buida del
 corpus.**
 
+## Quanta gent practica cada esport
+
+La branca tenia noms, medalles i resultats, i **no tenia cap mesura de mida**. El
+Departament d'Estadística la publica cada temporada (activitat **A079**).
+**Temporada 2024-2025: 9.857 llicències esportives**, un **+7,2%**.
+
+| Federació | Llicències | | Federació | Llicències |
+| --- | --- | --- | --- | --- |
+| **Futbol** | **2.875** | | Ciclisme | 93 |
+| **Esquí** | **1.109** | | Tennis | 82 |
+| Basquetbol | 435 | | Tennis Taula | 68 |
+| **Tir** | **366** | | Wu-shu i Kung Fu | 66 |
+| Gimnàstica | 337 | | Vela | 64 |
+| Golf d'Andorra | 335 | | Petanca | 57 |
+| Pàdel | 326 | | Ball Esportiu | 56 |
+| Muntanyisme | 300 | | Tir amb arc | 55 |
+| Judo i Jujitsu | 290 | | **Escacs Valls d'Andorra** | **49** |
+| Natació | 261 | | Triatló | 30 |
+| Taekwondo | 248 | | Hípica | 29 |
+| Rugbi | 245 | | Karate | 27 |
+| Voleibol | 210 | | Boxa | 11 |
+| Atletisme | 190 | | Canoa-Caiac | 4 |
+| Patinatge | 154 | | Taekon-Do ITF | 3 |
+| Handbol | 151 | | Esports Adaptats | 3 |
+| Special Olympics | 149 | | | |
+| Motociclista d'Andorra | 124 | | | |
+| Esports de Gel | 120 | | | |
+
+`Les xifres de les federacions surten dels gràfics 1.1, 1.2 i 1.3 de la nota, que
+porten l'etiqueta de valor sobre cada barra. S'han verificat sumant-les: els
+esports col·lectius donen 4.156 i els individuals 4.766, exactament els totals que
+la nota escriu al text.` **El gràfic no inclou els clubs històrics** —VPC Andorra
+Rugbi XV, Bàsquet Club Andorra, Club Vòlei Andorra, Futbol Club Andorra i
+Automòbil Club— que sumen **935 llicències** a part.
+
+**El que la taula diu.**
+
+**El futbol és el 29% de tot l'esport federat del país.** Amb 2.875 llicències
+té **més que les vint-i-vuit federacions més petites juntes**.
+
+**L'esquí creix un 40,4% en una temporada**, de ~790 a **1.109**, i és la segona
+federació del país ([l'esquí](./esqui/README.md)).
+
+**El tir és la tercera federació, amb 366 llicències** — més que el rugbi, el
+voleibol o l'atletisme, i el corpus no en té ni una fitxa.
+
+**Els escacs, amb 49 llicències, tenen més Grans Mestres que el futbol
+andorrà jugadors a primera divisió** ([els escacs](./escacs/README.md)). La
+proporció entre resultat i base és l'anomalia més gran de la branca.
+
+### Qui són
+
+| | Temporada 2024-2025 | % |
+| --- | --- | --- |
+| **Llicències masculines** | **7.051** (+8,1%) | **71,5%** |
+| **Llicències femenines** | **2.806** (+5,1%) | **28,5%** |
+| Menors d'11 anys | 2.935 | 29,8% |
+| D'11 a 14 anys | 1.678 | 17,0% |
+| De 15 a 17 anys | 1.511 | 15,3% |
+| Majors de 17 anys | 3.733 | 37,9% |
+
+**Set de cada deu llicències són d'homes, i la bretxa s'eixampla**: les
+masculines creixen un 8,1% i les femenines un 5,1%.
+
+**Sis de cada deu llicències són de menors d'edat** (6.124 de 9.857). **L'esport
+federat andorrà és, sobretot, esport escolar i de base.**
+
+**I hi ha 6.697 llicències més que no compten**: **4.685 d'oci** i **2.012 de cos
+tècnic**. L'estadística només mira qui competeix de manera regular.
+
+**Beques d'alt rendiment**: **53 del programa ARA** la temporada 2024-2025,
+**+20,5%**.
+
+**La sèrie, per temporades**: 7.698 (2020-21) · 8.324 · 8.602 · 9.193 · **9.857**
+(2024-25). **Un 28% més en quatre anys.**
+
 ## El que hi falta
 
 Gairebé tot. El corpus **no té res** sobre:

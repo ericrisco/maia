@@ -1,0 +1,911 @@
+                          A076. Estadística d’equipaments i recursos culturals. Any 2024
+                                       Data de publicació: dilluns, 20/10/2025
+                                                www.estadistica.ad
+
+
+
+         Resum
+
+
+         L’any 2024 al Principat d’Andorra hi ha un total de nou biblioteques1, set de les quals són comunals
+         i les altres dues governamentals; entre totes elles hi ha un total de 553 llocs de consulta, 9 més que
+         a l’any 2023; així mateix, el nombre total de fons a 31 de desembre va disminuir fins als 228.037, el
+         que representa una variació d’un -8,4% respecte a l’any anterior. Aquesta disminució s’explica per
+         la Biblioteca de Sant Julià que torna a la seva seu, després de l’incendi, i expurga vora 17.000
+         documents afectats pel foc i l’aigua i per tant, irrecuperables.
+
+         La Xarxa de Biblioteques d’Andorra durant l’any 2024 constava de vuit biblioteques. La parròquia
+         d’Encamp té dues biblioteques comunals: la d’Encamp i la del Pas de la Casa. La resta de parròquies
+         disposen d’una biblioteca comunal cadascuna, excepte Andorra la Vella, que disposa de la
+         Biblioteca Pública del Govern, que actua també de biblioteca central. D’altra banda, la Biblioteca
+         Nacional està situada a l’antic Hotel Rosaleda de la parròquia d’Encamp. Això vol dir que hi ha 1,0
+         biblioteques per cada 10.000 habitants al Principat.
+
+         Amb relació a l’ús d’aquests equipaments, segons les dades extretes de les enquestes que s’envien
+         cada any a les biblioteques, durant l’any 2024 s’han registrat 111.551 visites, xifra que representa
+         un augment del 17,8% respecte a l’any 2023 (94.678 visites).
+
+         Cal destacar també que el nombre d’usuaris inscrits a 31 de desembre del 2024 disminueix i se situa
+         en 30.054 persones (un -4,3% respecte a l’any 2023, quan n’hi va haver 31.395). Pel que fa als
+         préstecs a domicili, han augmentat un 10,1% en relació amb l’any anterior.
+
+         Amb referència al personal inclòs en la plantilla, durant l’any 2024 al conjunt de biblioteques del
+         Principat hi havia 27 persones treballant, 2 menys que l’any 2023. Quant al total de despeses
+         corrents i d’inversió, per l’any 2024 s’han comptabilitzat 1.174.549 €, i això suposa una variació del
+         +5,7% respecte a l’any anterior.
+
+
+
+
+         1 S’hi inclouen les biblioteques comunals, la Biblioteca Nacional d’Andorra i la Biblioteca Pública del Govern
+
+         d’Andorra. Se n’exclouen les biblioteques d’institucions d’ensenyament superior (exceptuant la Biblioteca
+         Comunal de Sant Julià de Lòria, pel seu caràcter de biblioteca comunal), les biblioteques per a grups
+         especialitzats d’usuaris (centres penitenciaris, treballadors d’empreses...) i les biblioteques especialitzades
+         (arxius i museus, centres sanitaris, institucions religioses, etc.).
+
+
+NP_A076_20251020                                                                                               Pàgina 1 de 16
+                                A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+
+         Índex
+
+         1. Biblioteques d’Andorra ............................................................................................................... 3
+         1.1. Visió general ............................................................................................................................ 3
+         1.2. Llocs de consulta ..................................................................................................................... 5
+         1.3. Fons de la biblioteca ................................................................................................................ 6
+         1.4. Visitants ................................................................................................................................... 7
+         1.5. Usuaris inscrits ........................................................................................................................ 8
+         1.6. Préstecs a domicili ................................................................................................................... 9
+         1.7. Personal inclòs en la plantilla ................................................................................................ 11
+         1.8. Despeses ............................................................................................................................... 12
+         2. Museus i monuments d’Andorra ............................................................................................... 13
+         2.1. Afluència de visitants als museus ......................................................................................... 13
+         2.2. Afluència de visitants als monuments ................................................................................... 14
+         3. Nota metodològica.................................................................................................................... 15
+         4. Dates de les publicacions previstes ......................................................................................... 16
+
+
+
+
+NP_A076_20251020                                                                                                                                  Pàgina 2 de 16
+                          A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1. Biblioteques d’Andorra
+
+
+             1.1.     Visió general
+
+
+         Al Principat d’Andorra hi ha un total de nou biblioteques2, de les quals set són comunals i dos
+         governamentals: la Biblioteca Pública i la Biblioteca Nacional. Aquesta última va ser la primera
+         biblioteca del país i data de l’any 1930. A mitjans de l’any 2021, la Biblioteca Nacional es va traslladar
+         des de la parròquia d’Andorra la Vella a la d’Encamp, concretament a l’antic Hotel Rosaleda.
+
+         D’acord amb la població estimada el 31 de desembre del 2024, de 87.097 habitants, la dotació de
+         biblioteques suposa una ràtio d’1,0 biblioteques per cada 10.000 habitants.
+
+         A partir de les dades que proporciona l’IFLA (Federació Internacional d’Associacions i Institucions
+         Bibliotecàries), associada a la UNESCO, Andorra és el 17è país d’Europa en nombre de biblioteques
+         per cada 10.000 habitants, juntament amb Suècia, Itàlia, Bèlgica, Espanya i Croàcia (1,0) i per sota
+         de Romania (1,1). La República Txeca, amb 5,6 biblioteques per cada 10.000 habitants, se situa al
+         capdavant en la classificació.
+
+                                                           Biblioteques públiques     Última dada
+                                         País
+                                                          per cada 10.000 habitants    disponible
+                                        Czechia                      5,6                 2023
+                                       Lithuania                     4,4                 2023
+                                        Ukraine                      4,3                 2018
+                                        Estonia                      4,0                 2018
+                                         Latvia                      3,8                 2023
+                                        Hungary                      3,8                 2021
+                                        Bulgaria                     3,6                 2017
+                                     Mitjana Europa                  3,1                 2024
+                                        Slovakia                     2,7                 2018
+                                        France                       2,5                 2018
+                                        Poland                       2,1                 2022
+                                        Finland                      1,6                 2021
+                                        Norway                       1,4                 2015
+                                        Slovenia                     1,4                 2021
+                                      Switzerland                    1,2                 2023
+                                        Austria                      1,2                 2017
+                                       Romania                       1,1                 2018
+                                        Andorra                      1,0                 2024
+                                        Sweden                       1,0                 2024
+                                          Italy                      1,0                 2014
+                                        Belgium                      1,0                 2017
+                                         Spain                       1,0                 2023
+                                        Croatia                      1,0                 2021
+                                       Denmark                       0,9                 2022
+                                        Portugal                     0,8                 2022
+                                         Serbia                      0,8                 2016
+                                        Ireland                      0,7                 2019
+                                       Germany                       0,6                 2022
+                                      Netherlands                    0,6                 2021
+                                    United Kingdom                   0,6                 2017
+                                      Montenegro                     0,4                 2022
+                                    North Macedonia                  0,3                 2023
+                                        Greece                       0,3                 2022
+                                 Bosnia and Herzegovina              0,3                 2024
+                                      Luxembourg                     0,1                 2020
+
+
+
+
+         2 S’hi inclouen les biblioteques comunals, la Biblioteca Nacional d’Andorra i la Biblioteca Pública del Govern
+
+         d’Andorra. Se n’exclouen les biblioteques d’institucions d’ensenyament superior (exceptuant la Biblioteca
+         Comunal de Sant Julià de Lòria, pel seu caràcter de biblioteca comunal), les biblioteques per a grups
+         especialitzats d’usuaris (centres penitenciaris, treballadors d’empreses...) i les biblioteques especialitzades
+         (arxius i museus, centres sanitaris, institucions religioses, etc.).
+
+NP_A076_20251020                                                                                               Pàgina 3 de 16
+                                                                                                  A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+
+                                                                                                                                          Biblioteques públiques per cada 10.000 habitants
+                                                              6
+                                                                  5,6
+
+
+
+                                                              5
+
+
+
+
+           Biblioteques públiques per cada 10.000 habitants
+                                                                            4,4 4,3
+                                                                                                  4,0
+                                                              4                                             3,8 3,8
+                                                                                                                               3,6
+
+                                                                                                                                          3,1
+                                                              3                                                                                            2,7
+                                                                                                                                                                      2,5
+
+                                                                                                                                                                               2,1
+                                                              2
+                                                                                                                                                                                        1,6
+                                                                                                                                                                                                  1,4 1,4
+                                                                                                                                                                                                                      1,2 1,2 1,1
+                                                                                                                                                                                                                                                        1,0 1,0 1,0 1,0 1,0 1,0
+                                                              1                                                                                                                                                                                                                                                0,9 0,8 0,8
+                                                                                                                                                                                                                                                                                                                                              0,7
+                                                                                                                                                                                                                                                                                                                                                        0,6 0,6 0,6
+                                                                                                                                                                                                                                                                                                                                                                                           0,4 0,3 0,3
+                                                                                                                                                                                                                                                                                                                                                                                                                          0,3
+                                                                                                                                                                                                                                                                                                                                                                                                                                        0,1
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                 United…
+                                                                                                                                                                                                                                                                                                                                                                                                                          Bosnia and…
+                                                              0
+
+                                                                                                                                                                                                                                                                                                                                                                                                        North…
+                                                                  Czechia               Ukraine                                                            Slovakia
+                                                                                                                                                                      France   Poland   Finland   Norway                            Austria                       Sweden                                        Denmark
+                                                                                                                                                                                                                                                                                                                                                                                                                 Greece
+
+                                                                                                                                          Mitjana Europa
+                                                                                                                                                                                                                                                                                                                                                                   Netherlands
+                                                                                                                                                                                                                                                        Andorra
+                                                                                                                                                                                                                                                                                                                                                                                                                                        Luxembourg
+                                                                            Lithuania
+                                                                                                                                                                                                                                                                                             Spain
+                                                                                                                                                                                                                                                                           Italy
+                                                                                                                                                                                                                                                                                                     Croatia                         Serbia   Ireland
+                                                                                                  Estonia            Hungary                                                                                                                  Romania                              Belgium                                Portugal                       Germany
+                                                                                                            Latvia
+                                                                                                                                                                                                           Slovenia
+                                                                                                                                                                                                                                                                                                                                                                                           Montenegro
+                                                                                                                               Bulgaria
+                                                                                                                                                                                                                      Switzerland
+
+
+
+
+         L’augment constant de la població resident a Andorra explica la reducció de la ràtio de biblioteques
+         públiques per cada 10.000 habitants en els darrers cinc anys.
+
+
+                                                                  Biblioteques públiques per cada 10.000
+                                                                                                                                                                                                                                    2020                                   2021                                2022                                     2023                                             2024
+                                                                  habitants
+                                                                  Nombre total de biblioteques                                                                                                                                   9                                        9                                       9                                        9                                               9
+                                                                  Població estimada a 31 de desembre                                                                                                                          78.015                                   79.535                                  81.588                                   85.101                                          87.097
+                                                                  Ràtio de biblioteques / 10.000 habitants                                                                                                                      1,2                                      1,1                                     1,1                                      1,1                                             1,0
+
+
+
+
+         A partir de les enquestes efectuades anualment a les nou biblioteques del país, s’han obtingut dades
+         que permeten conèixer les principals característiques de les biblioteques públiques, la seva
+         estructura, el funcionament, els equipaments, el personal implicat, les despeses i els serveis que
+         ofereixen. Cal tenir en compte que els conceptes, variables i indicadors aplicats estan harmonitzats
+         amb les recomanacions de la UNESCO, cosa que possibilita la comparabilitat internacional de les
+         estadístiques.
+
+
+                                                                  Dades generals                                                                                                                                                    2020                                   2021                                2022                                     2023                                             2024
+
+                                                                  Nombre total de biblioteques                                                                                                                                        9                                      9                                      9                                         9                                              9
+                                                                  Nombre total de llocs de consulta                                                                                                                                 522                                    570                                  526                                       544                                             553
+                                                                  Nombre total de fons a 31 de desembre                                                                                                                    242.843                                   237.448                              247.830                                   248.965                                             228.037
+                                                                  Nombre total de visitants durant l’any                                                                                                                      49.684                                   63.208                                  78.828                                   94.678                                          111.551
+                                                                  Nombre d'usuaris inscrits a 31 de desembre                                                                                                                  25.971                                   27.766                                  30.534                                   31.395                                          30.054
+                                                                  Nombre total de préstecs a domicili                                                                                                                         17.925                                   37.667                                  36.203                                   37.515                                          41.294
+                                                                  Personal inclòs en la plantilla                                                                                                                                    32                                     27                                    24                                        29                                              27
+                                                                  Total de despeses corrents i d'inversió                                                                                                             940.168 €                                   928.749 €                          1.210.746 €                              1.111.451 €                                  1.174.549 €
+
+
+
+
+NP_A076_20251020                                                                                                                                                                                                                                                                                                                                                                                                                        Pàgina 4 de 16
+                             A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.2.       Llocs de consulta
+
+
+         Els llocs de consulta s’entenen com el nombre de llocs a disposició dels usuaris per a lectura o
+         consulta en les mateixes biblioteques, amb equipament o sense. En data 31 de desembre del 2024
+         hi ha un total de 531 llocs de consulta a la Xarxa de Biblioteques d’Andorra, més uns altres 22 a la
+         Biblioteca Nacional d’Andorra. La quantitat de llocs de consulta a disposició dels usuaris ha
+         augmentat en 9 unitats respecte a l’any anterior a la Xarxa de Biblioteques d’Andorra, que presenta
+         una variació del +1,7% respecte a l’any anterior.
+
+
+            Llocs de consulta. Xarxa de Biblioteques                                               Variació
+                                                        2020   2021   2022     2023      2024
+            d'Andorra                                                                             2023/2024
+            Nombre total de llocs de consulta           495    548    504       522       531       1,7%
+
+
+
+
+            Llocs de consulta. Biblioteca Nacional                                                 Variació
+                                                        2020   2021   2022     2023      2024
+            d'Andorra                                                                             2023/2024
+            Nombre total de llocs de consulta            27     22     22       22        22        0,0%
+
+
+
+
+         A causa de l’augment dels llocs de consulta a la Xarxa de Biblioteques d’Andorra, la ràtio de llocs
+         de consulta per biblioteca al total del Principat d’Andorra s’ha incrementat fins a 61,4 per a aquest
+         any 2024, mentre que l’any anterior hi havia 60,4 llocs de consulta per biblioteca.
+
+
+                                                                                                   Variació
+            Total de llocs de consulta                  2020   2021   2022     2023      2024
+                                                                                                  2023/2024
+            Nombre total de biblioteques                 9      9      9         9         9        0,0%
+            Nombre total de llocs de consulta           522    570    526       544       553       1,7%
+            Ràtio de llocs de consulta per biblioteca   58,0   63,3   58,4      60,4      61,4      1,7%
+
+
+
+
+NP_A076_20251020                                                                                       Pàgina 5 de 16
+                                  A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.3.         Fons de la biblioteca
+
+
+         Quant al fons bibliotecari existent a 31 de desembre del 2024 a la Xarxa de Biblioteques d’Andorra,
+         es xifra en un total de 172.747 documents, entre els quals destaquen els llibres i els fullets, que
+         representen el 88,0% del total del fons, mentre que un 5,1% són documents audiovisuals i la resta
+         correspon a publicacions periòdiques, llibres electrònics, documents sonors i altres documents.
+
+         Pel que fa a la variació anual, el volum del fons al final de l’any 2024 va disminuir en 23.928 unitats,
+         el que representa una variació del -12,2% respecte a l’any anterior.
+
+
+            Col·leccions de fons a 31 de desembre.                                                                                        Variació
+                                                                          2020             2021        2022          2023     2024
+            Xarxa de Biblioteques d'Andorra                                                                                              2023/2024
+            Llibres i fulletons                                         174.250           168.013     175.160      174.901   151.966      -13,1%
+            Publicacions periòdiques                                      4.587            4.342       5.411        5.291     5.171       -2,3%
+            Llibres electrònics *                                         1.570            2.203       2.754        2.992     3.551       18,7%
+            Documents sonors                                              3.650            3.266       3.379        3.374     3.153       -6,6%
+            Documents audiovisuals                                      11.339            11.196      12.105       10.042     8.833       -12,0%
+            Altres documents                                              169               83          72           75         73        -2,7%
+            Total                                                       195.565           189.103     198.881      196.675   172.747      -12,2%
+             * Els llibres electrònics estan disponibles a la plataforma en línia EBiblio Andorra
+
+
+
+
+                                        Xarxa de Biblioteques d'Andorra. Fons a 31 de desembre
+                    205.000
+                                                                                            198.881
+                    200.000                                                                                     196.675
+                                      195.565
+                    195.000
+                                                                 189.103
+                    190.000
+                    185.000
+                    180.000
+                    175.000                                                                                                    172.747
+
+                    170.000
+                    165.000
+                    160.000
+                    155.000
+                                         2020                      2021                       2022               2023           2024
+
+
+
+
+         Respecte al fons bibliotecari existent a la Biblioteca Nacional d’Andorra a 31 de desembre del 2024,
+         va ser d’un total de 55.290 documents, el que representa un augment del 5,7% respecte a l’any
+         anterior, quan es van comptabilitzar un total de 52.290 documents.
+
+
+            Col·leccions de fons a 31 de desembre.                                                                                        Variació
+                                                                          2020             2021        2022          2023     2024
+            Biblioteca Nacional d'Andorra                                                                                                2023/2024
+            Llibres i fulletons                                          38.848           39.654      41.367        39.976   42.152        5,4%
+            Publicacions periòdiques                                      2.445            2.456       716          5.478     6.171       12,7%
+            Llibres electrònics                                           2.389            2.549       2.651        2.680     2.796        4,3%
+            Documents sonors                                              2.100            2.123       2.129        2.137     2.152        0,7%
+            Documents audiovisuals                                        527              573          599           654      654         0,0%
+            Altres documents                                              969              990         1.487         1.365    1.365        0,0%
+            Total                                                        47.278           48.345      48.949        52.290   55.290        5,7%
+
+
+
+
+NP_A076_20251020                                                                                                                              Pàgina 6 de 16
+                             A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.4.        Visitants
+
+
+         Durant l’any 2024, el conjunt de les biblioteques de la Xarxa de Biblioteques d’Andorra va rebre
+         109.602 visitants, un +17,7% respecte als rebuts l’any anterior (93.108).
+
+
+                                                                                                                      Variació
+            Visitants. Xarxa de Biblioteques d'Andorra          2020    2021      2022          2023     2024
+                                                                                                                     2023/2024
+            Nombre de visitants durant l'any                  48.440    61.765    77.122       93.108   109.602       17,7%
+
+
+
+
+                                   Xarxa de Biblioteques d'Andorra. Nombre de visitants durant l'any
+                   120.000
+                                                                                                           109.602
+
+                   100.000                                                                 93.108
+
+                                                                         77.122
+                    80.000
+                                                       61.765
+                    60.000
+                                  48.440
+
+                    40.000
+
+
+                    20.000
+
+
+                        0
+                                   2020                2021               2022             2023             2024
+
+
+
+
+         Quant al nombre de visitants que va rebre la Biblioteca Nacional d’Andorra durant l’any 2024, va ser
+         de 1.949 persones, el que representa un augment del 24,1% comparat amb els 1.570 visitants de
+         l’any anterior.
+
+
+                                                                                                                      Variació
+            Visitants. Biblioteca Nacional d'Andorra            2020    2021      2022          2023     2024
+                                                                                                                     2023/2024
+            Nombre de visitants durant l'any                    1.244   1.443     1.706        1.570     1.949        24,1%
+
+
+
+
+NP_A076_20251020                                                                                                          Pàgina 7 de 16
+                            A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.5.       Usuaris inscrits
+
+
+         El nombre d’usuaris inscrits a 31 de desembre del 2024 a la Xarxa de Biblioteques d’Andorra és de
+         29.364, que suposen una disminució del 4,4% respecte a les dades de l’any anterior, quan se’n van
+         comptabilitzar 30.718, i se’n dedueix que, aproximadament, un de cada tres habitants d’Andorra
+         està inscrit en una biblioteca.
+
+
+            Usuaris inscrits. Xarxa de Biblioteques                                                           Variació
+                                                             2020     2021     2022     2023       2024
+            d'Andorra                                                                                        2023/2024
+            Nombre d'usuaris inscrits a 31 de desembre       25.368   27.125   29.871   30.718    29.364      -4,4%
+
+
+
+
+         Quant al nombre d’usuaris inscrits a l’EBiblio Andorra a 31 de desembre de l’any 2024, va ser de
+         895 persones, el que representa un increment del 9,4% comparat amb els 818 usuaris inscrits l’any
+         2023.
+
+
+                                                                                                  Variació
+                         Usuaris inscrits. EBiblio Andorra            2022     2023     2024
+                                                                                                 2023/2024
+                         Nombre d'usuaris inscrits a 31 de desembre    748      818      895       9,4%
+
+
+
+
+         Pel que fa al nombre d’usuaris inscrits a la Biblioteca Nacional d’Andorra a 31 de desembre de l’any
+         2024, va ser de 690 persones, el que representa un increment de l’1,9% comparat amb els 677
+         usuaris inscrits l’any 2023.
+
+
+            Usuaris inscrits. Biblioteca Nacional                                                             Variació
+                                                             2020     2021     2022     2023       2024
+            d'Andorra                                                                                        2023/2024
+            Nombre d'usuaris inscrits a 31 de desembre        603      641      663      677       690         1,9%
+
+
+
+
+NP_A076_20251020                                                                                                  Pàgina 8 de 16
+                                 A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.6.          Préstecs a domicili
+
+
+         Del total dels préstecs a domicili efectuats durant l’any 2024 a la Xarxa de Biblioteques d’Andorra
+         (40.914), el 91,1% correspon a préstecs de llibres, el 6,7% a documents audiovisuals, l’1,3% a
+         publicacions periòdiques i el 0,9% restant a documents sonors i altres tipus de documents.
+
+
+            Préstecs a domicili. Xarxa de Biblioteques                                                                                                      Variació
+                                                                    2020               2021              2022              2023               2024
+            d'Andorra                                                                                                                                      2023/2024
+            Llibres                                                 15.896             32.591            31.734            33.629            37.270             10,8%
+            Publicacions periòdiques                                    366             484               358               408                531              30,1%
+            Documents sonors                                            37              206               282               384                371              -3,4%
+            Documents audiovisuals                                   1.347              3.937             3.430             2.697             2.737             1,5%
+            Altres documents                                           0                  1                 2                 4                 5               25,0%
+            Total                                                   17.646             37.219            35.806            37.122            40.914             10,2%
+
+
+
+
+                                              Xarxa de Biblioteques d'Andorra. Préstecs a domicili
+                                                       0,9%
+                                                1,3%
+                                                                 6,7%
+
+                                                                                                                           Llibres
+
+
+                                                                                                                           Publicacions periòdiques
+
+
+                                                                                                                           Documents sonors
+
+
+                                                                                                                           Documents audiovisuals
+                                                                         91,1%
+
+
+
+
+         Tenint en compte la població estimada del Principat d’Andorra a finals de l’any 2024, es van realitzar
+         0,5 préstecs a domicili per a cada habitant. D’altra banda, la mitjana diària de préstecs va ser de
+         121,6.
+
+
+                                                                              2020              2021              2022               2023              2024
+                      Total de préstecs biblioteques d'Andorra                17.925            37.667            38.838             40.248            44.387
+                      Població estimada a 31 de desembre                      78.015            79.535            81.588             85.101            87.097
+                      Ràtio de péstecs / habitant                               0,2               0,5               0,5                0,5               0,5
+                      Mitjana diària de préstecs                               49,1             103,2             106,4              110,3             121,6
+
+
+
+         Quant al nombre de préstecs realitzats durant l’any 2024 mitjançant l’EBiblio Andorra, va sumar un
+         total de 3.093, el que representa un increment del 13,2% comparat amb els 2.733 préstecs efectuats
+         durant l’any 2023.
+
+
+                                                                                                                                          Variació
+                             Préstecs. EBiblio Andorra                                 2022              2023              2024
+                                                                                                                                         2023/2024
+                             Llibres                                                   1.871             1.959             2.202              12,4%
+                             Publicacions periòdiques                                   659               667               829               24,3%
+                             Audiollibres                                               105               107                62               -42,1%
+                             Total                                                     2.635             2.733             3.093              13,2%
+
+
+
+
+NP_A076_20251020                                                                                                                                                   Pàgina 9 de 16
+                            A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+         La Biblioteca Nacional d’Andorra ha realitzat un total de 380 préstecs a domicili, tots ells de llibres,
+         el que representa una variació d’un -3,3% respecte a l’any 2023.
+
+
+            Préstecs a domicili. Biblioteca Nacional                                                  Variació
+                                                       2020   2021      2022      2023       2024
+            d'Andorra                                                                                2023/2024
+            Llibres                                    279    448       397        393       380       -3,3%
+
+
+
+
+         Totes les biblioteques tenen automatitzat el sistema de catalogació, préstec, gestió de publicacions
+         periòdiques i catàleg de consulta pública. També tenen el catàleg (www.catalegbiblioteques.ad) i la
+         informació bibliogràfica dels llibres disponibles a través d’Internet i disposen d’Internet gratuït obert
+         a tot el públic. El servei de préstec de llibres digitals es pot fer des del web www.ebiblioandorra.ad i
+         també per App. Per a la Biblioteca Nacional, el catàleg es pot trobar a:
+         www.cultura.ad/biblioteca_nacional.
+
+
+
+
+NP_A076_20251020                                                                                         Pàgina 10 de 16
+                                A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.7.        Personal inclòs en la plantilla
+
+
+         Pel que fa al personal ocupat a la Xarxa de Biblioteques d’Andorra, es comptabilitzen 24 persones,
+         2 menys que a l’any anterior, i això suposa una disminució del personal d’un 7,7%. D’elles, 21 són
+         dones i 3 són homes. Desglossats per funcions, 11 corresponen a caps de biblioteca i tècnics i 13
+         són auxiliars. A més, hi ha 7 becaris que no estan inclosos en la plantilla.
+
+
+            Personal inclòs en la plantilla. Xarxa de                                                                                       Variació
+                                                                   2020          2021         2022              2023          2024
+            Biblioteques d'Andorra                                                                                                         2023/2024
+            Cap de biblioteca                                          7           7           7                 7                7          0,0%
+            Tècnics de biblioteca                                      4           3           3                 5                4         -20,0%
+            Auxiliars de biblioteques                                  12          8           7                 14               13        -7,1%
+            Altre personal                                             6           4           4                 0                0            -
+            Total                                                      29         22           21                26               24         -7,7%
+
+
+
+
+                                  Xarxa de Biblioteques d'Andorra. Personal inclòs en la plantilla
+                    16
+                                                                                                         14
+                    14                                                                                                                13
+                                  12                                                                12
+                    12       11                                                                                              11
+                                                   10                       10
+                    10
+                                                         8
+                    8                                                             7
+                                         6
+                    6
+                                                               4                        4
+                    4
+
+                    2
+
+                    0
+                                  2020                  2021                     2022                    2023                     2024
+
+                                    Caps de biblioteca i tècnics             Auxiliars de biblioteques                 Altre personal
+
+
+
+
+                                   Xarxa de Biblioteques d'Andorra. Personal per sexe. Any 2024
+
+                                                                   3
+
+
+
+
+                                                                                                                                  Dones
+
+
+                                                                                                                                  Homes
+
+
+
+
+                                                                                  21
+
+
+
+
+         Respecte al personal adscrit a la Biblioteca Nacional d’Andorra, l’any 2024 han treballat un total de
+         3 persones: 1 cap de biblioteca, 1 tècnic de biblioteca i 1 auxiliar de biblioteca, totes elles dones.
+
+
+
+
+NP_A076_20251020                                                                                                                               Pàgina 11 de 16
+                               A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             1.8.        Despeses
+
+
+         Les despeses corrents i d’inversió de la Xarxa de Biblioteques d’Andorra han estat de 993.586 €
+         l’any 2024, un +4,4% respecte a les registrades l’any anterior. El 76,5% (760.228 €) correspon a
+         despeses de personal, el 13,9% (138.106 €) a altres despeses corrents, el 6,9% (68.852 €) a
+         despeses en adquisicions i el 2,7% (26.400 €) restant a despeses d’inversió.
+
+         La totalitat del finançament de la Biblioteca Nacional d’Andorra i la Biblioteca Pública del Govern
+         prové de fons estatals, mentre que per a les set biblioteques restants la font de finançament és
+         comunal.
+
+
+            Despeses corrents i d'inversió. Xarxa de                                                                         Variació
+                                                               2020       2021        2022         2023            2024
+            Biblioteques d'Andorra                                                                                          2023/2024
+            Despeses de personal                            579.135 €   560.816 €   668.820 €    708.050 €    760.228 €       7,4%
+            Despeses en adquisicions                         48.264 €   59.314 €    63.753 €     64.816 €     68.852 €        6,2%
+            Despeses d'inversió                              35.918 €   53.136 €     20.539 €     27.472 €     26.400 €      -3,9%
+            Altres despeses corrents                         84.900 €   73.710 €    158.506 €    150.926 €    138.106 €      -8,5%
+            Total                                           748.217 €   746.976 €   911.618 €    951.264 €    993.586 €       4,4%
+
+
+
+
+                               Xarxa de Biblioteques d'Andorra. Despeses corrents i d'inversió
+                   800.000 €
+                   700.000 €
+                   600.000 €
+                   500.000 €
+                   400.000 €
+                   300.000 €
+                   200.000 €
+                   100.000 €
+                         0€
+                                       2020                2021             2022                2023                 2024
+
+                                              Despeses de personal                      Despeses en adquisicions
+                                              Despeses d'inversió                       Altres despeses corrents
+
+
+
+
+         Quant a les despeses corrents i d’inversió de la Biblioteca Nacional d’Andorra per a l’any 2024, van
+         ser de 180.963 €, un +13,0% respecte a les registrades l’any 2023.
+
+
+            Despeses corrents i d'inversió. Biblioteca                                                                       Variació
+                                                               2020       2021        2022         2023            2024
+            Nacional d'Andorra                                                                                              2023/2024
+            Despeses de personal                             88.010 €   87.535 €    87.535 €     87.535 €     102.522 €      17,1%
+            Despeses en adquisicions                          7.000 €    7.050 €     7.050 €      7.050 €      7.050 €        0,0%
+            Despeses d'inversió                              14.072 €   15.037 €    142.250 €    19.050 €     21.550 €       13,1%
+            Altres despeses corrents                         82.869 €   72.151 €     62.293 €    46.552 €     49.841 €        7,1%
+            Total                                           191.951 €   181.773 €   299.128 €    160.187 €    180.963 €      13,0%
+
+
+
+
+NP_A076_20251020                                                                                                                Pàgina 12 de 16
+                                            A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+               2. Museus i monuments d’Andorra
+
+
+         Quant als museus i monuments d’Andorra, l’any 2024 es va registrar un augment en el nombre de
+         visitants amb un total de 176.254 persones, el que equival a un +4,4% respecte a l’any anterior.
+
+
+                                                                                                2020                2021                 2022                 2023                   2024
+                                    Total visitants museus i monuments                        86.893              110.868              144.215              168.876              176.254
+                                    Variació interanual                                       -61,0%               27,6%                30,1%                17,1%                   4,4%
+
+
+
+
+               2.1.                    Afluència de visitants als museus
+
+         El nombre total de visitants als museus durant l’any 2024 ha estat de 92.583, un -2,1% respecte a
+         l’any anterior. Els museus de titularitat nacional van rebre 45.331 visitants, un 2,2% més que l’any
+         anterior; els comunals van rebre 25.898 visitants, un +8,1%; els privats 10.988, el que equival a un
+         +6,9%. Pel que fa als museus de titularitat mixta, han rebut un total de 10.366 visitants, un -35,1%
+         en relació amb l’any anterior.
+
+         El museu més visitat d’Andorra ha estat el Museu Casa Areny-Plandolit amb un total de 15.627
+         visites.
+
+
+                                                                                                                                                                                                  Variació
+                                   Visitants als museus d'Andorra                            2020                2021                 2022                 2023                 2024
+                                                                                                                                                                                                 2023-2024
+                                   Museu Casa Areny-Plandolit                                5.888               8.107               12.751               15.590               15.627                0,2%
+
+             Equipament
+                                   Museu Nacional de l'Automòbil                             4.379               4.987                8.508                9.769               10.740                9,9%
+                                   Farga Rossell                                             2.643               3.437                4.978                5.252                4.362               -16,9%
+
+              nacional
+                                   Museu Casa Rull                                           1.538               2.265                3.052                2.944                3.471               17,9%
+                                   Museu Postal                                              1.698               1.900                2.148                2.655                     0             -100,0%
+                                   Espai Columba*                                           3.232                5.361                6.699                8.144               11.131               36,7%
+                                   Total visitants museus nacionals                        19.378               26.057               38.136               44.354               45.331                2,2%
+                                   Centre d'Art d'Escaldes-Engordany                         9.503              11.054                9.546               12.481               14.902               19,4%
+             Equipament            Museu de la moto                                          3.082               1.844                4.598                4.710                4.703                -0,1%
+                                   Casa Cristo                                               2.046               2.594                3.056                3.318                3.562                7,4%
+              comunal              Centre interpretació del Comapedrosa **                   2.263               1.584                   0                    0                      0                   -
+                                   Museu La Massana Còmic                                   2.155                2.531                3.655                3.448                2.731               -20,8%
+                                   Total visitants museus comunals                         19.049               19.607               20.855               23.957               25.898                8,1%
+
+
+
+
+               Equipament privat
+                                   Museu Fàbrica Reig **                                     1.002               4.392                   0                    0                      0                   -
+                                   MW Museu de l'electricitat                                1.642               2.063                5.672                4.691                6.435               37,2%
+                                   Museu del Perfum **                                        817                   0                    0                    0                      0                   -
+                                   Cami Hidroelètric d'Engolasters                            879                1.149                7.006                2.060                2.377               15,4%
+                                   Museu de la miniatura ***                                 3.124               7.436                   0                    0                      0                   -
+                   Cal Pal                                                                   2.369               1.781                1.198                3.532                2.176               -38,4%
+                   Total visitants museus privats                                            9.833              16.821               13.876               10.283               10.988                6,9%
+          Equipam Centre de Natura de la Cortinada **                                        1.335                 0                    0                    0                    0                      -
+          ent mixt Museu Carmen Thyssen                                                      9.055               9.894               15.008               15.982               10.366               -35,1%
+                                   Total visitants museus mixtes                           10.390                9.894               15.008               15.982               10.366               -35,1%
+                                   Total visitants museus d'Andorra                        58.650               72.379               87.875               94.576               92.583                -2,1%
+          * L'Espai Co lumba ha substituït a l'A ndo rra Ro mànica i l'esglèsia de Santa Co lo ma l'any 2019. Els valo rs co rrespo nents al 2018 s'han calculat amb a la suma de visitants d'ambdó s mo numents.
+          ** El Centre d'interpretació del Co mapedro sa, el M useu Fàbrica Reig, el M useu del P erfum i el Centre de Natura de la Co rtinada han estat tancats durant l'any 2022
+          ***No es dispo sa de dades de visitans del M useu de la miniatura a partir de l'any 2022
+
+
+
+
+NP_A076_20251020                                                                                                                                                                                    Pàgina 13 de 16
+                                              A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             2.2.                        Afluència de visitants als monuments
+
+         L’afluència total de visitants als monuments d’Andorra durant l’any 2024 ha estat de 83.671, el que
+         equival a una variació d’un +12,6% respecte a l’any anterior. Els monuments de titularitat nacional
+         han rebut un total de 78.727 visitants, un +12,0% respecte a l’any 2023. Els de titularitat comunal
+         han rebut 4.944 visitants, un +23,3%.
+
+         El monument més visitat ha estat el Santuari de Meritxell amb un total de 23.335 visitants.
+
+
+                                                                                                                         Variació
+                                     Visitants als monuments d'Andorra     2020     2021     2022     2023     2024
+                                                                                                                        2023-2024
+                                     Casa de la Vall                       4.912    9.251    18.963   21.057   22.817     8,4%
+
+
+
+
+             Equipaments nacionals
+                                     Santuari de Meritxell                 2.611    5.530    9.637    18.179   23.335    28,4%
+                                     Sant Joan de Caselles                 9.156    7.077    8.759    8.372    9.446     12,8%
+                                     Sant Miquel d'Engolasters             1.808    2.196    4.047    11.105   8.772     -21,0%
+                                     Sant Martí de la Cortinada            1.632    4.177    4.280    4.514    7.079     56,8%
+                                     Sant Climent de Pal                   2.381    3.528    6.406    4.054    4.485     10,6%
+                                     Sant Romà de les Bons                 1.541    1.603    1.400    2.218    2.182      -1,6%
+                                     Sant Serni de Nagol                    408      481      784      792      611      -22,9%
+                                     Total visitants monuments nacionals   24.449   33.843   54.276   70.291   78.727     12,0%
+            Eq.   Mina de Llorts                                           3.682    4.231    1.634    3.567    4.632     29,9%
+          Comunal Mola i Serradora de Cal Pal                               112      415      430      442      312      -29,4%
+                                     Total visitants monuments comunals    3.794    4.646    2.064    4.009    4.944      23,3%
+                                     Total visitants monuments d'Andorra   28.243   38.489   56.340   74.300   83.671    12,6%
+
+
+
+
+NP_A076_20251020                                                                                                         Pàgina 14 de 16
+                           A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             3. Nota metodològica
+
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+                   preguem citeu: “Dades del Ministeri de Cultura, Joventut i Esports, tractades pel
+                   Departament d’Estadística per a la Nota de Premsa ref. NP_A076_20251020”.
+
+             •     Font: Elaboració pròpia a partir de dades del ministeri encarregat de la cultura. Les dades
+                   estan disponibles al web www.estadistica.ad, en el banc de dades dins de l’apartat
+                   Estadístiques/Dades/Estadístiques demogràfiques i socials/Cultura i esports/Cultura.
+
+             •     Nota. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+                   desplegament en el Programa estadístic per a l’any 2025, aquest informe dona resposta a
+                   l’activitat estadística:
+
+                           - A076: Estadística d’equipaments i recursos culturals
+
+             •     Definicions
+
+                   Biblioteques: La unitat d’anàlisi és la biblioteca, la qual es defineix segons la norma ISO
+                   2789 com a “tota organització o part d’una organització, que té com a fi principal reunir i
+                   mantenir una col·lecció organitzada de documents i facilitar l’ús dels recursos d’informació
+                   per satisfer les necessitats informatives, d’investigació, educatives, culturals o recreatives
+                   dels usuaris”. Per a fins estadístics, es considera biblioteca la unitat administrativa, és a dir,
+                   tota biblioteca independent o grup de biblioteques que tinguin una mateixa direcció o una
+                   administració única. Aquesta estadística només inclou les biblioteques nacionals, comunals
+                   i públiques, per la qual cosa es descarten les biblioteques per a grups especialitzats
+                   d’usuaris, les biblioteques d’ensenyament superior (la Biblioteca Comunal de Sant Julià de
+                   Lòria s’inclou en aquesta estadística, ja que encara que es tracti d’una biblioteca
+                   universitària, també forma part de la Xarxa de Biblioteques d’Andorra) i les biblioteques
+                   especialitzades. També es descarten les biblioteques privades, pel fet que no està permès
+                   utilitzar-les al públic general.
+
+
+             •     Metodologies
+
+                   Biblioteques: Aquesta estadística s’elabora a partir de les recomanacions de la UNESCO
+                   en matèria de definicions i classificacions que figuren en la Recomanació sobre
+                   normalització internacional de les estadístiques de biblioteques aprovada per la Conferència
+                   general de la UNESCO l’any 1970. A partir del 2002 es va modificar la definició de biblioteca
+                   i es va aprofundir en la investigació de la implantació de les tecnologies de la informació i la
+                   comunicació en les biblioteques, basada en la norma ISO 2789. El període de referència de
+                   l’estadística és l’any natural, encara que per certes característiques se sol·licita la situació
+                   a 31 de desembre. L’estadística proporciona informació tant de l’activitat (fons, visitants,
+                   préstecs, etc.) com de les característiques estructurals de les biblioteques (tipus,
+                   finançament, forma d’accés), i facilita la comparabilitat internacional.
+
+             •     Contactes. Per estar informat en qualsevol moment de les noves publicacions us podeu
+                   inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de
+                   les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+                   Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+
+
+NP_A076_20251020                                                                                            Pàgina 15 de 16
+                        A076. Estadística d’equipaments i recursos culturals. Any 2024
+
+
+
+             4. Dates de les publicacions previstes
+
+
+         Nota de premsa A076. Estadística d’equipaments i recursos culturals. Any 2025: 4t trimestre del
+         2026
+
+
+
+
+NP_A076_20251020                                                                                Pàgina 16 de 16
+

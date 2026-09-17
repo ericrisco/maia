@@ -100,10 +100,68 @@ vist des de trenta anys després.
 [la Casa de la Vall](../../../institucions/patrimoni-institucional/casa-de-la-vall.md)
 i [Meritxell](../../../costums/religiositat/README.md).
 
+## Quanta gent hi va
+
+El Departament d'Estadística les publica cada any (activitat **A076**).
+**Visitants per museu, 2020-2024:**
+
+| Museu | Titularitat | 2020 | 2022 | 2024 | 2023-24 |
+| --- | --- | --- | --- | --- | --- |
+| **Casa d'Areny-Plandolit** | nacional | 5.888 | 12.751 | **15.627** | +0,2% |
+| **Centre d'Art d'Escaldes-Engordany** | comunal | 9.503 | 9.546 | **14.902** | +19,4% |
+| **Espai Columba** | nacional | 3.232 | 6.699 | **11.131** | **+36,7%** |
+| **Museu Nacional de l'Automòbil** | nacional | 4.379 | 8.508 | **10.740** | +9,9% |
+| **Museu Carmen Thyssen** | mixta | 9.055 | 15.008 | **10.366** | **−35,1%** |
+| MW Museu de l'electricitat | privat | 1.642 | 5.672 | 6.435 | +37,2% |
+| Museu de la moto | comunal | 3.082 | 4.598 | 4.703 | −0,1% |
+| Farga Rossell | nacional | 2.643 | 4.978 | 4.362 | −16,9% |
+| Casa Cristo | comunal | 2.046 | 3.056 | 3.562 | +7,4% |
+| Museu Casa Rull | nacional | 1.538 | 3.052 | 3.471 | +17,9% |
+| Museu La Massana Còmic | comunal | 2.155 | 3.655 | 2.731 | −20,8% |
+| Camí Hidroelèctric d'Engolasters | privat | 879 | 7.006 | 2.377 | +15,4% |
+| Cal Pal | privat | 2.369 | 1.198 | 2.176 | −38,4% |
+| **Museu Postal** | nacional | 1.698 | 2.148 | **0** | **−100,0%** |
+| **Total museus** | | **58.650** | **87.875** | **92.583** | **−2,1%** |
+
+**Amb els monuments, el total puja a 176.254 visitants el 2024** (+4,4%), des
+dels **86.893 del 2020**: **el doble en quatre anys**.
+
+**Tres coses que la taula diu i el corpus no tenia.**
+
+**Primera, el museu més visitat del país és una casa pairal.** La **Casa
+d'Areny-Plandolit** amb **15.627 visites** ([la fitxa](./casa-dareny-plandolit.md)),
+per sobre de qualsevol museu temàtic.
+
+**Segona, el Museu Postal marca zero el 2024.** Venia de **2.655 visitants el
+2023** i la sèrie el deixa a **0**, un **−100%**
+([la fitxa](./el-museu-postal.md)). La nota no n'explica el motiu.
+
+**Tercera, hi ha museus que la sèrie deixa en zero des del 2022** perquè **van
+tancar**: el **Museu Fàbrica Reig**, el **Museu del Perfum**, el **Centre de
+Natura de la Cortinada** i el **Centre d'interpretació del Comapedrosa**. Del
+**Museu de la miniatura** la nota diu una cosa diferent: **no se'n disposa de
+dades** a partir del 2022.
+
+**I una que contradiu la tendència general**: el **Carmen Thyssen** perd un
+**35,1%** l'any que el conjunt del país creix.
+
+**Per titularitat el 2024**: nacionals **45.331** (+2,2%), comunals **25.898**
+(+8,1%), privats **10.988** (+6,9%), mixtos **10.366** (−35,1%).
+
+**Les biblioteques, per contrast.** **Nou biblioteques** —set comunals i dues
+governamentals—, **553 llocs de consulta** i **228.037 documents de fons** el
+2024, un **−8,4%** perquè la **Biblioteca de Sant Julià** va **expurgar prop de
+17.000 documents** malmesos per l'incendi i per l'aigua. Hi van entrar **109.602
+visitants** (+17,7%), més que a tots els museus junts.
+
 ## El que falta
 
 - **El Museu Nacional d'Andorra**: si segueix previst, i on.
-- **Les xifres de visitants** de cadascun. **Cap.**
+- ~~**Les xifres de visitants** de cadascun. **Cap.**~~ — **`resolt` el
+  17-09-2026 per la via d'Estadística** (activitat **A076**, nota del
+  20-10-2025): vegeu [Quanta gent hi va](#quanta-gent-hi-va).
+  `Segueix obert per als museus que la sèrie no llista —el Museu del Tabac i el
+  Museu de la Ràdio no hi surten— i per als anys anteriors al 2020.`
 - **El Museu de les Dues Rodes** i **el Centre de Natura de la Cortinada**, que
   la història esmenta i el llistat no descriu.
 - **Les quatre exposicions fundacionals** —*Andorra Arqueològica* (1985),
