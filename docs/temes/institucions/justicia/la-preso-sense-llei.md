@@ -284,6 +284,33 @@ I una observació que només pot fer qui hi ha entrat:
 > les lleis, els autes, les sentències, els recursos, els diferents òrgans de la
 > Justícia, com si es volguessin treure la carrera d'advocats.**»
 
+## La llei de menors ja exigeix instal·lacions específiques
+
+**Des del 1999 la llei no demana separació dins la presó: demana un altre
+edifici.** El text refós de la **Llei qualificada de la jurisdicció de menors**
+(`docs/raw/lleis/bopa/text-refos-jurisdiccio-menors.txt`) ho diu al final de
+l'article que regula les mesures d'internament: **«L'internament de menors, en
+qualsevol tipus de règim, es durà a terme en instal·lacions específiques per a
+menors, amb total separació de les persones privades de llibertat per aplicació de
+la llei penal aplicable als majors d'edat.»** I per a l'internament provisional
+(article 26.2) hi torna: **centre adequat a l'edat i la condició del menor, i
+«total separació amb els majors d'edat»**, amb **un màxim de tres mesos**.
+
+**Els tres règims d'internament també són d'aquella llei, no del reglament
+penitenciari.**
+
+| Règim | Quan | Durada màxima | Sortides |
+| --- | --- | --- | --- |
+| **Tancat** | només per **delicte major amb pena superior a vuit anys**, o menor **reincident** | **un terç de la pena** del Codi penal | permisos **a partir del primer terç** |
+| **Semiobert** | no es pot imposar per contravencions | **dos anys** | **un cap de setmana al mes** com a mínim, i permisos complementaris de fins a **dos mesos l'any** |
+| **Obert** | activitats educatives o lúdiques fora del centre | **un any** | **cada cap de setmana** i vacances; **obligació de pernoctar** |
+
+**Això canvia el que el buit demanava.** **La reclamació de Canturri no era una
+proposta: era l'exigència d'una llei que ja existia.** El que la llei
+penitenciària del 2023 hi afegeix —separar majors i menors dins el centre— **no
+substitueix l'obligació d'instal·lacions específiques**; **conviu amb ella**, i
+la distància entre les dues és exactament el buit que queda.
+
 ## Buits registrats
 
 1. ~~**La Llei qualificada penitenciària del 4 de març de 2007** i la **Llei del
@@ -302,7 +329,14 @@ I una observació que només pot fer qui hi ha entrat:
 6. **La presó actual**: on és, quants interns té, i què ha passat des del 2007.
 7. **El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
    del 2023 **exigeix separar majors i menors dins el centre**, que no és el
-   mateix que **un centre específic**.
+   mateix que **un centre específic**. — **`parcial` el 17-09-2026, i el que es
+   tanca és l'origen de l'exigència**: **no la demanava només Canturri, la demana
+   la llei des del 1999**. La **Llei qualificada de la jurisdicció de menors**
+   obliga a fer l'internament **«en instal·lacions específiques per a menors, amb
+   total separació»** dels adults. Vegeu «[La llei de menors ja exigeix
+   instal·lacions específiques](#la-llei-de-menors-ja-exigeix-installacions-especifiques)».
+   `Segueix obert si aquestes instal·lacions existeixen de fet: el Butlletí no
+   publica cap decret de creació ni cap edicte d'obres d'un centre de menors.`
 8. **L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
    Sistema Penitenciario*, cinquè informe), que Canturri cita pels punts 54 i 55:
    **Andorra hi participa** i el corpus no ho tenia registrat.
