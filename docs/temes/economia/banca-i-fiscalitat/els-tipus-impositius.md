@@ -275,6 +275,91 @@ l'impost sobre estades turístiques**, ni **l'IRPF de l'impost de societats o de
 l'IRNR**. Per a això cal **la liquidació del pressupost** o **els informes del
 Tribunal de Comptes**, que el corpus no té.
 
+## Quant preveu recaptar cada impost el 2026
+
+**El llibre del pressupost del 2026 porta l'estat d'ingressos desglossat figura
+per figura** (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`).
+**És el desglossament que aquesta fitxa demanava**, amb **una precisió que no es
+pot ometre**: **són imports pressupostats, no recaptats**, i **només de
+l'Administració central**.
+
+### Impostos directes — 256.147.953,12 €
+
+| Figura | 2026 | % del capítol |
+| --- | ---: | ---: |
+| **Impost sobre societats** | **159.687.242,42 €** | **62,3%** |
+| IRPF | 83.126.707,49 € | 32,5% |
+| Impost sobre la renda de no-residents | 13.280.051,65 € | 5,2% |
+| Sobre activitats obertes fins a 24 h | **53.951,56 €** | 0,02% |
+
+### Impostos indirectes — 366.303.616,70 €
+
+| Figura | 2026 | % del capítol |
+| --- | ---: | ---: |
+| **IGI** | **181.417.102,73 €** | **49,5%** |
+| **Taxa al consum** *(tràfic exterior)* | **95.098.484,45 €** | **26,0%** |
+| Impostos especials | 38.623.293,38 € | 10,5% |
+| **Impost sobre la inversió estrangera** | **22.222.883,19 €** | 6,1% |
+| **Impost sobre les emissions de CO₂** | **10.676.794,30 €** | 2,9% |
+| **Impost sobre l'allotjament** *(estades turístiques)* | **6.892.497,51 €** | 1,9% |
+| ISI assegurances | 5.150.123,68 € | 1,4% |
+| ITP *(transmissions entre vius)* | 3.070.718,92 € | 0,8% |
+| **Sobre el joc** *(atzar 1.768.894,43 + bingo 607.625,58)* | **2.376.520,01 €** | 0,6% |
+| Tarifa Exterior Comuna | 755.879,19 € | 0,2% |
+| Antidúmping | 19.319,34 € | 0,005% |
+
+`Comprovacions del corpus.` **Les quatre files de directes sumen exactament
+256.147.953,12 €** i **les onze d'indirectes, 366.303.616,70 €**: els dos totals
+impresos.
+
+### Les cinc coses que el desglossament diu
+
+**L'impost més gran d'Andorra és l'IGI**, amb **181,4 milions**, **un de cada
+quatre euros d'ingrés de l'Estat.**
+
+**L'impost de societats és gairebé el doble de l'IRPF** —159,7 contra 83,1
+milions—, **1,92 vegades.** **És al revés que a la majoria de països europeus**,
+i **és la xifra que explica millor el model fiscal andorrà.**
+
+**Els tres impostos sobre el consum sumen 314,1 milions** —IGI, taxa al consum i
+especials— **contra els 256,1 de tots els directes junts.**
+
+**I hi ha tres figures petites que valen per elles mateixes:**
+
+| | |
+| --- | --- |
+| **L'impost de les estades turístiques** | **6,9 M€** — la primera xifra que el corpus en té |
+| **L'impost del CO₂** | **10,7 M€**, **un 55% més que el turístic** |
+| **L'impost dels comerços oberts 24 hores** | **53.951,56 €** — **l'impost més petit del pressupost andorrà**, dues mil·lèsimes del que recapta l'IGI |
+
+### I la contradicció aparent amb la sèrie d'Estadística, resolta
+
+Aquesta mateixa fitxa dona, a
+«[Directes contra indirectes](#directes-contra-indirectes-el-gir-que-la-serie-ensenya)»,
+**599,2 M€ de directes contra 272,1 d'indirectes el 2025**. **El pressupost del
+2026 diu el contrari: 256,1 de directes contra 366,3 d'indirectes.**
+
+**No es contradiuen: no compten el mateix.**
+
+| | Sèrie A134 | Llibre del pressupost |
+| --- | --- | --- |
+| **Perímetre** | **tot el sector públic** —hi entren la CASS i els comuns— | **només l'Administració central** |
+| **Naturalesa** | **recaptació executada** | **previsió pressupostada** |
+| **Any** | acumulat gener-setembre del 2025 | exercici sencer del 2026 |
+
+**I la mateixa fitxa ja ho apuntava**: deia que **a l'Administració central sola
+els indirectes eren el 61% dels dos impostos el 2021.** **El 2026 en són el
+58,9%**, que és **exactament el mateix ordre de magnitud.** **La divergència no
+és de dades, és de perímetre**, i **la lliçó és que les dues xifres no es poden
+posar mai a la mateixa taula sense dir-ho.**
+
+### El total, per situar-ho
+
+**L'estat d'ingressos sencer del 2026 és de 806.037.021,75 €**, i **els impostos
+en són 622,5 milions: el 77,2%.** La resta són **taxes i altres ingressos (41,7
+M€)**, **ingressos patrimonials (46,2 M€)**, **actius financers (49,6 M€)** i
+**passius financers —endeutament— (46,0 M€)**.
+
 ## Buits registrats
 
 - ~~**Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
@@ -293,8 +378,15 @@ Tribunal de Comptes**, que el corpus no té.
   **la suma** a «[Quant pesa tot plegat](#quant-pesa-tot-plegat-275-del-pib)» i
   ara **el desglossament en directes i indirectes**, amb sèrie 2021-2025, a
   «[Directes contra indirectes](#directes-contra-indirectes-el-gir-que-la-serie-ensenya)»
-  (activitat **A134**). `El desglossament per figura —IGI, IRPF, IS, IRNR— segueix
-  requerint la liquidació del pressupost o els informes del Tribunal de Comptes.`
+  (activitat **A134**). ~~`El desglossament per figura —IGI, IRPF, IS, IRNR—
+  segueix requerint la liquidació del pressupost o els informes del Tribunal de
+  Comptes.`~~ — **`resolt` el 2026-09-18 per una via més curta**: **l'estat
+  d'ingressos del llibre del pressupost** dona **les quinze figures una per
+  una**, a
+  «[Quant preveu recaptar cada impost](#quant-preveu-recaptar-cada-impost-el-2026)».
+  **El que segueix obert és la recaptació executada per figura**, que sí que
+  demana la liquidació o el Tribunal de Comptes: **el pressupost diu què es
+  preveu cobrar, no què s'ha cobrat.**
 - ~~**L'IRNR** (no-residents, 51 articles), les **bases de l'ordenament tributari**
   (159), els **impostos especials** i l'**impost sobre les estades turístiques**
   són al recull i **queden per llegir**.~~ — **`resolt` el 17-09-2026, els
