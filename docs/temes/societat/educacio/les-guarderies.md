@@ -189,8 +189,37 @@ guarderies de més de cent infants amb dos nivells.
 
 - **Quantes guarderies hi ha, quantes places i quants infants**, no consta.
   `Requereix Estadística o el registre d'autoritzacions.`
-- **Si les multes s'han actualitzat des del 1995**, no consta: l'article 14 ho
-  ordenava «periòdicament» i **el corpus no en té cap decret**.
+- ~~**Si les multes s'han actualitzat des del 1995**, no consta.~~ — **`resolt`
+  el 17-09-2026, i la resposta és millor que una actualització: han desaparegut.**
+
+  La **Llei 6/2014, del 24 d'abril, de serveis socials i sociosanitaris** —text
+  refós del 30-5-2018,
+  [evidència](../../../raw/lleis/bopa/decret-legislatiu-2018-text-refos-serveis-socials.txt)—
+  **deroga els articles 10 a 14 de la Llei de guarderies infantils**, que són
+  justament els d'infraccions i sancions, i ordena que **els articles 5 a 8**
+  —procediment, control i inspecció— **s'adeqüin** al seu règim.
+
+  **Les multes en pessetes ja no existeixen.** El règim vigent (article 68) no
+  fixa xifres: **fixa múltiples del salari mínim mensual**.
+
+  | Infracció del personal o del centre | Multa màxima | Altres sancions |
+  | --- | --- | --- |
+  | **Lleu** | **1 salari mínim mensual** | Amonestació per escrit |
+  | **Greu** | **4 salaris mínims** | Prohibició de finançament públic **fins a 1 any**; tancament temporal fins a 1 any |
+  | **Molt greu** | **8 salaris mínims** | Revocació del conveni; prohibició de finançament **fins a 3 anys**; **tancament definitiu** |
+  | **Comeses pel beneficiari** | **2 salaris mínims** | Suspensió temporal o definitiva de la prestació |
+
+  **Amb el salari mínim del 2026 —1.568,67 € al mes
+  ([la sèrie sencera](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md))—
+  el sostre d'una infracció molt greu és d'uns 12.550 €.** El de la llei del
+  1995 era de **600.000 pessetes**, uns **3.606 €**. **El sostre s'ha multiplicat
+  per tres i mig, i sobretot ha deixat de ser una xifra: es mou cada gener.**
+
+  **I dues coses més que aquest text afegeix**: el maltractament físic o psíquic i
+  **la immobilització o restricció física o química sense prescripció mèdica** són
+  infraccions **molt greus** expressament tipificades; i **el servei de guarderia
+  és competència dels comuns** (com el casal de gent gran i l'esplai parroquial),
+  que l'han de prestar «directament o a través d'entitats col·laboradores».
 - **Si s'ha revocat mai una autorització**, ni quantes sancions s'han imposat.
 - ~~**El reglament del 30 de novembre de 1995**, anterior al del 2005, **no s'ha
   llegit**.~~ — **`resolt` el 17-09-2026** — vegeu
