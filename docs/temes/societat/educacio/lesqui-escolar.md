@@ -146,6 +146,39 @@ que regula l'ensenyament de l'esquí. Hi ha fins i tot una sanció per als adult
 **qui falti als acompanyaments obligatoris sense motiu justificat no pot demanar
 el forfet subvencionat la temporada següent**.
 
+## L'ENADE: una escola pública que s'autofinança i on el Govern té vet
+
+**L'Escola nacional andorrana d'esquí es crea per llei del Consell General del
+23 de setembre del 1988** — la data la dona l'article 1 de la llei que la
+reforma, **del 20 de juny del 1996**, i que la modifica **«en tots els seus
+articles»**
+(`docs/raw/societat/esqui-escolar/llei-1996-modificacio-escola-nacional-esqui.txt`).
+**El text del 1988 no és al [Butlletí](../../../fonts/bopa.md)**, que comença
+l'any següent.
+
+**Què és.** L'**ENADE** és **una escola pública dependent del Ministeri
+d'Educació** amb **personalitat jurídica i plena capacitat d'obrar** (article
+1). La seva missió és **assegurar l'ensenyament de l'esquí al Principat a través
+de les seves escoles d'esquí**, seguint **el sistema pedagògic nacional establert
+per l'Escola de formació de professions esportives i de muntanya** (article 2).
+
+**Com es paga.** **S'autofinança** (article 3): viu del **seu patrimoni**, d'**un
+percentatge sobre els ingressos de les escoles d'esquí de l'ENADE** i del que
+adquireixi en el futur. **El pressupost l'aprova el Comitè Rector i el ratifiquen
+el Govern i el Consell General**, i cada exercici es tanca amb memòria i
+liquidació. L'exposició de motius ho diu sense embuts: l'estructura ha de ser tal
+que **«no representi cap càrrega onerosa per a l'Estat»**.
+
+**Qui la dirigeix, i la clàusula que decideix.** El **Comitè Rector** el formen
+**un representant del Govern**, **els directors i un monitor de cada escola
+d'esquí de l'ENADE**, **un representant de cada estació on hi hagi una escola de
+l'ENADE** i **un de l'Escola de formació de professions esportives i de
+muntanya**. Mandat de **quatre anys**, quòrum de **la meitat dels membres** en
+primera i segona convocatòria, i acords **per majoria** — **amb una excepció que
+val per tot**: **«el representant del Govern té un dret de vet que comporta la
+suspensió indefinida de l'execució de l'acord»**, que **s'ha de fer constar en
+acta amb els motius**. **Un vot entre molts, i el que pot aturar-ho tot.**
+
 ## Buits registrats
 
 - **Des de quan.** El reglament és de **novembre de 1993**, però la pràctica pot
@@ -157,14 +190,12 @@ el forfet subvencionat la temporada següent**.
   n'han fomentat la pràctica des de fa molt de temps.»** **El reglament del 1993
   no crea l'esquí escolar: l'ordena.** `La data d'inici segueix sense document:
   cal l'arxiu del Consell General, perquè el Butlletí no arriba tan enrere.`
-- **L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
-  dirigeix. La llei de 1996 en **modifica** una d'anterior que el corpus no té.
-  — **`obert`, confirmat el 2026-09-14, i declarat des dels dos extrems**:
-  **aquí i a [l'esquí](../../esports/esqui/README.md)**, que hi afegeix **que
-  té llei de creació pròpia i que el corpus només sap que existeix.**
-  **I ara se sap també on NO és**: **`raw/web/esport/` té trenta-nou bolcats
-  d'institucions esportives andorranes i cap no és ni l'Escola Nacional
-  d'Esquí ni la Federació Andorrana d'Esquí.**
+- ~~**L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
+  dirigeix.~~ — **`resolt` el 17-09-2026** a «[L'ENADE: una escola pública que
+  s'autofinança i on el Govern té vet](#lenade-una-escola-publica-que-sautofinanca-i-on-el-govern-te-vet)»:
+  **creada el 23 de setembre del 1988** i refeta sencera el **20 de juny del
+  1996**. `El text del 1988 no és al Butlletí, que comença el 1989: requereix
+  l'arxiu del Consell General.`
 
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
   **48 del 1996**
