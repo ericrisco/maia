@@ -307,7 +307,39 @@ font és un present** *(pp. 108-109)*:
    *cot*. **El corpus no el té.**
 7. **Els *manadors*** com a càrrec: **el corpus no en té res** fora d'aquesta
    menció.
-8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **cap cas.**
+8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **cap cas.** —
+   **`obert` encara pel que fa a les apel·lacions**, i **`parcial` per a tot el
+   que l'envolta**, des de les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) el
+   **17-09-2026**. **Vuitanta-quatre ocurrències** de *mostassaf* —escrit
+   *mostasaf*, *mostafàs*, *mudafàs*, *mostasà*, *mostasasos*— **i cap
+   apel·lació.**
+
+   **El que sí que hi és, i el corpus no tenia, és com es proveïa el càrrec:**
+
+   | | |
+   | --- | --- |
+   | **Quan** | **Cada any, al Consell de Sancogesma** —maig o juny—, dins la mateixa sessió que nomena capitans i altres oficis |
+   | **Quants** | **Un per parròquia**, i **Andorra en té dos**: un a Andorra i un **a les Caldes** |
+   | **Amb qui** | **Sempre aparellat amb un *veador d'aigües*** de la mateixa parròquia, nomenats en el mateix acte |
+   | **Qui el nomena** | **«trobe la Terra»** / **«se fa anominatió»** — **el Consell General, no el comú** |
+
+   **Que Andorra en tingui dos, un d'ells a les Caldes, és un fet que val la
+   pena**: **les Caldes tenien mostassaf propi segles abans de ser parròquia**
+   (ho serà el 1978, vegeu [l'armari de les set
+   claus](../patrimoni-institucional/larmari-de-les-set-claus.md)).
+
+   **I una nota d'escrivà del Llibre II diu com es cobria una vacant**: el
+   1662, «**per mort dels mostasafos de Andorra y les Caldes**», el Consell
+   nomena substituts **«fins a Santcogesma»** —**fins al proper nomenament
+   ordinari**—, i **l'escrivà ratlla els noms dels difunts.** **El mandat era
+   anual i la substitució, interina.**
+
+   **El final de l'ofici es pot datar per absència**: **els tres primers llibres
+   d'actes en són plens i el Llibre IV (1743-1864) no en té ni una.** **El
+   mostassaf desapareix de les actes del Consell a mitjan segle XVIII.**
+
+   `Requereix un cas d'apel·lació; els quatre llibres d'actes no en donen cap.`
 
 ## Related
 
