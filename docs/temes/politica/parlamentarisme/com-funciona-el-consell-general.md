@@ -270,9 +270,59 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    de cobrir nou comissions amb pocs membres.** `Requereix la composició real
    d'una legislatura per veure quants consellers en fan tres o quatre.`
 5. **La comissió d'enquesta del cas BPA**: composició, conclusions.
-6. **Si hi ha hagut mai una ILP** a Andorra, i quantes.
+6. **Si hi ha hagut mai una ILP** a Andorra, i quantes. — **`parcial` el
+   17-09-2026, i la resposta provisional és que no n'hi pot haver hagut gaires,
+   perquè fins fa tres anys no estava regulada.** **La Llei 8/2023, del 30 de
+   gener, reguladora de la iniciativa legislativa popular**
+   (`docs/raw/lleis/bopa/llei-8-2023-iniciativa-legislativa-popular.txt`) ho
+   diu ella mateixa, amb una frase que val per tota aquesta fitxa:
+
+   > «La Constitució, en l'article 58, recull que la iniciativa legislativa
+   > […] també pot ser exercida per una desena part del cens electoral […].
+   > **Han passat trenta anys i cal regular-ho.**»
+
+   **El dret existia des del 1993 i el procediment per exercir-lo, des del
+   2023.** **Calen les signatures autenticades del 10% del cens electoral**, i
+   **quatre matèries queden excloses**: **el pressupost de l'Estat**, **la
+   reforma de la Constitució**, **els tractats internacionals** i **tot el que
+   sigui contrari a la Declaració Universal dels Drets Humans o que pretengui
+   restringir drets reconeguts en tractats de drets humans** (article 2).
+   **Els serveis jurídics del Consell General han d'assessorar la comissió
+   promotora** (article 4.2) —**l'Estat ajuda a redactar la proposta que li
+   arriba de fora.**
+
+   **Cercat al [BOPA](../../../fonts/bopa.md) el 17-09-2026, «comissió
+   promotora» amb «iniciativa legislativa popular» dona un sol document, que
+   és la llei mateixa**: **cap ILP publicada al Butlletí.** **Això no prova
+   que no se n'hagi presentat cap** —la presentació es fa a la Sindicatura i
+   pot no passar pel BOPA—: `Requereix el registre de la Sindicatura o el
+   Butlletí del Consell General.`
 7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
-   descrits. Cap fitxa al corpus.
+   descrits. Cap fitxa al corpus. — **`parcial` el 17-09-2026: segueixen sense
+   fitxa i ja no són sense font.** **El Raonador del Ciutadà** té la seva llei
+   al corpus des d'abans (`docs/raw/lleis/bopa/llei-1998-raonador-del-ciutada.txt`)
+   i fitxa pròpia a [el Raonador del Ciutadà](../../institucions/govern/el-raonador-del-ciutada.md).
+   **El Tribunal de Comptes**, no: **s'ha baixat avui la Llei del Tribunal de
+   Comptes, del 13 d'abril del 2000**
+   (`docs/raw/lleis/bopa/llei-2000-tribunal-de-comptes.txt`).
+
+   **El que hi diu l'article 1 és la peça que faltava per entendre'n les
+   citacions del corpus**: és **«un òrgan tècnic i independent»** de
+   fiscalització de la gestió econòmica, financera i comptable de
+   l'Administració pública, que actua amb criteris de **«legalitat, eficàcia,
+   eficiència, economia i equitat»**, i que és **«independent en el seu
+   funcionament intern i depenent orgànicament del Consell General, que en
+   nomena els seus membres i ostenta la potestat d'encarregar i rebre informes
+   de fiscalització»**.
+
+   **Independent per dins i penjat del Parlament per fora**, i **és el Consell
+   General qui li encarrega la feina**. **Això explica per què el Tribunal de
+   Comptes apareix al corpus fiscalitzant els partits polítics**
+   ([el finançament dels partits](../sistema-electoral/el-financament-dels-partits.md)):
+   **la seva funció fiscalitzadora inclou expressament «les subvencions, els
+   crèdits i els ajuts amb càrrec als pressupostos dels ens públics»**
+   (article 2.1.b). `Requereix una fitxa pròpia i la llista dels seus informes
+   anuals.`
 8. **Dominique Rousseau**, magistrat del Tribunal Constitucional andorrà citat
    al text — i **el Tribunal Constitucional** en general.
 
