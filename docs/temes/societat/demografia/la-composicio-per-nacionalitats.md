@@ -293,10 +293,73 @@ I la font en dona **tres explicacions**, que el corpus recull com a seves:
 **La barrera no desapareix quan cau: deixa gent a l'altra banda per decisió
 pròpia.**
 
+## La sèrie oficial, any per any: juny del 2021 al juny del 2026
+
+Cada nota mensual **A001** del Departament d'Estadística publica el mes de
+referència i **el mateix mes de l'any anterior**. Encadenant les notes de juny
+—les del 18-07-2022, 20-07-2023, 18-07-2024, 17-07-2025 i la del juliol del
+2026— surt la sèrie viva, **en població estimada**:
+
+| Nacionalitat | juny 2021 | juny 2022 | juny 2023 | juny 2024 | juny 2025 | juny 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Andorrana** | 38.213 | 38.678 | 38.876 | 39.210 | 39.556 | **40.113** |
+| **Espanyola** | 19.402 | 19.920 | 20.370 | 20.465 | 20.828 | **21.137** |
+| **Portuguesa** | 8.979 | 8.832 | 8.754 | 8.626 | 8.484 | **8.324** |
+| **Francesa** | 3.447 | 3.559 | 3.763 | 3.795 | 3.989 | **4.246** |
+| **Altres** | 8.537 | 9.360 | 11.760 | 14.000 | 15.114 | **15.932** |
+| **Total** | **78.578** | **80.349** | **83.523** | **86.096** | **87.971** | **89.752** |
+
+`Cada columna suma exactament el total que la nota publica; s'ha comprovat als
+sis anys.`
+
+**En percentatge sobre el total:**
+
+| | juny 2021 | juny 2026 |
+| --- | --- | --- |
+| **Andorrana** | **48,6%** | **44,7%** |
+| Espanyola | 24,7% | 23,5% |
+| **Portuguesa** | **11,4%** | **9,3%** |
+| Francesa | 4,4% | 4,7% |
+| **Altres** | **10,9%** | **17,8%** |
+
+**Quatre lectures que la sèrie imposa.**
+
+**Primera, els andorrans creixen en nombre i baixen en proporció.** Passen de
+**38.213 a 40.113** —**+1.900 persones**— i alhora de **48,6% a 44,7%**. **Van
+deixar de ser majoria absoluta del país entre el 2021 i el 2022.**
+
+**Segona, el creixement del país és el bloc «altres».** De **8.537 a 15.932**:
+**+7.395 persones en cinc anys, un +86,6%**. Això és **el 63% de tot el
+creixement de la població** del període, que va ser d'11.174 persones.
+
+**Tercera, la comunitat portuguesa és l'única que perd gent cada any.** De
+**8.979 a 8.324**: **−655 persones**, **−7,3%**, **sense cap any de repunt**.
+Passa del tercer lloc a mantenir-lo per poc marge sobre un bloc «altres» que ja
+la dobla.
+
+**Quarta, la francesa creix més de pressa que l'espanyola**, en percentatge:
+**+23,2%** contra **+8,9%** en cinc anys — encara que en nombres absoluts
+l'espanyola n'hi afegeix 1.735 i la francesa 799.
+
+`Aquesta és població estimada. No és el cens electoral ni el registre de
+residents: vegeu [dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md)
+i [qui compta com a resident](./qui-compta-com-a-resident.md).`
+
+**El límit de la sèrie**: el servidor d'Estadística **no conserva notes A001
+anteriors al juliol del 2022**. Sondejades totes les dates del juliol a l'octubre
+de cada any del 2016 al 2025, **només responen les del 2022 endavant**. Per als
+anys anteriors cal una altra font.
+
 ## Buits registrats
 
-1. **La sèrie oficial del Departament d'Estadística**, any per any.
-2. **Les dades des del 2020.**
+1. ~~**La sèrie oficial del Departament d'Estadística**, any per any.~~ —
+   **`resolt` el 17-09-2026 per al tram viu** (activitat **A001**): vegeu
+   [La sèrie oficial, any per any](#la-serie-oficial-any-per-any-juny-del-2021-al-juny-del-2026).
+   `El servidor no conserva notes anteriors al juliol del 2022, comprovat per
+   sondeig; per als anys anteriors cal una altra font.`
+2. ~~**Les dades des del 2020.**~~ — **`resolt` el 17-09-2026**: la sèrie
+   comença el **juny del 2021**, i el que hi ha des del 2020 és la taula
+   d'aquesta mateixa fitxa.
 3. **La xifra exacta d'andorrans majors de 18 anys** i el cens electoral.
 4. **El text de les tres lleis** (1975, 1984, 1993).
 5. **Els 7.000 «nascuts a Andorra»**: què se'n va fer, un a un.
