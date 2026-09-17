@@ -221,6 +221,20 @@ Vegeu
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)).
      **El nom de l'ofici, el seu termini i el dret de terna del parlament
      andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**
+   - **I el mateix 17-09-2026 la parella de saigs es fa vint-i-sis anys més
+     vella.** **A l'apel·lació andorrana del 2 i 3 de maig de 1364** *(ANA, ASC,
+     perg. 1.190)* **hi ha ja dos saigs en exercici**: **Pere de l'Areny, «*sagio
+     dictarum Vallium pro dicto domino comite Fuxi*»**, davant qui es llegeix
+     l'acte **a Encamp**, i **Bernat Soler, «*sagione pro dicto domino
+     Urgellensi episcopo*»**, davant qui es llegeix **a Canillo**
+     ([si només volien ballar](./si-nomes-volien-ballar-era-un-altre-tribunal.md)).
+
+     **Un Areny al costat comtal el 1364 i un altre el 1390.** **El corpus en té
+     ara cinc en el mateix ofici** —**1305, 1364, 1390, el del 1456 i el batlle
+     del 1623**— **i segueix sense afirmar-ne cap relació.** **El que sí que
+     afirma és que la duplicitat de saigs no és una anomalia del 1390: és com
+     estava muntat l'ofici.**
+
    - **I el 17-09-2026 el corpus deixa de tenir el 1390 de referència i en té
      els dos documents sencers**, des de les [actes històriques del Consell
      General](../../../fonts/actes-historiques-consell-general.md). **Són dos,
