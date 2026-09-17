@@ -282,11 +282,61 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    partits pels llistats de donacions i no pel registre que existeix per
    donar-los publicitat.**
 3. ~~**Els llistats de donacions publicats al BOPA cada sis mesos.**~~ —
-   **`resolt` el 17-09-2026**: **n'hi ha tretze**, del **juliol del 2020** al
-   **juliol del 2026**, **un per semestre i sense cap forat**
-   (`docs/raw/politica/donacions-partits/`). **Els publica el Tribunal de
-   Comptes per l'article 26.12**, i **els signa tots el mateix president,
-   Francesc d'Assís Pons Tomàs.**
+   **`resolt` el 17-09-2026**, **i ampliat i corregit el mateix dia.**
+
+   > **Esmena.** **Aquesta entrada deia «tretze, del juliol del 2020 al juliol
+   > del 2026, un per semestre i sense cap forat».** **Eren dues coses
+   > inexactes**: **la sèrie comença un any abans** i **hi ha una segona sèrie
+   > que el corpus no havia vist.** **Ara n'hi ha dinou fitxers**
+   > (`docs/raw/politica/donacions-partits/`).
+
+   **Són dues obligacions legals diferents, i convé no confondre-les:**
+
+   | Sèrie | Base legal | Quan es publica | Quantes n'hi ha |
+   | --- | --- | --- | ---: |
+   | **Donacions als partits** | **article 26.12** | **cada sis mesos**, sempre | **15**, del **25-06-2019** al **21-07-2026** |
+   | **Donacions a les candidatures** | **article 44.12** de la Llei 19/2014, avui **article 43** de la Llei 43/2022 | **després de cada elecció** | **4** |
+
+   **Les quatre d'elecció, amb la seva:**
+
+   | Edicte | Elecció que cobreix | Donacions | Import |
+   | --- | --- | ---: | ---: |
+   | **23-02-2016** | Consell General de l'1 de març del 2015 | **3** | **6.000,00 €** |
+   | **20-09-2016** | **comunals del 13 de desembre del 2015** | **71** | **110.512,47 €** |
+   | **01-05-2019** | Consell General del 7 d'abril del 2019 | **8** | **7.640,00 €** |
+   | **26-04-2023** | Consell General del 2 d'abril del 2023 | **2** | **1.200,00 €** |
+
+   **La xifra que salta a la vista és la de les comunals del 2015**: **110.512
+   euros en setanta-una donacions**, **divuit vegades el que es va declarar a
+   les generals del mateix any**. `recompte del corpus sobre l'edicte.`
+   **Repartit per parròquia:**
+
+   | Parròquia | Donacions | Import |
+   | --- | ---: | ---: |
+   | **Sant Julià de Lòria** | 17 | **25.371,98 €** |
+   | Andorra la Vella | 11 | 20.221,72 € |
+   | Escaldes-Engordany | 11 | 15.423,75 € |
+   | Encamp | 9 | 13.753,72 € |
+   | Canillo | 10 | 12.593,21 € |
+   | la Massana | **3** | **12.270,50 €** |
+   | Ordino | 10 | 10.877,59 € |
+
+   **Dues lectures que el corpus registra i no arbitra.** **La primera**: **a
+   les comunals es declara molt més que a les generals**, i **la campanya
+   comunal andorrana mou, en donacions declarades, un ordre de magnitud més que
+   la nacional.** **La segona**: **la Massana declara tres donacions per dotze
+   mil euros** —**una mitjana de més de quatre mil per donació**— **mentre que
+   Ordino en declara deu per onze mil.** **El mateix import, repartit de manera
+   molt diferent.**
+
+   **I les xifres cauen a plom després del 2016.** **Les generals del 2019
+   declaren 7.640 € i les del 2023, 1.200 €.** `El corpus no sap si això vol dir
+   que es donen menys diners o que es declaren d'una altra manera, i no ho
+   suposa.`
+
+   **Els publica el Tribunal de Comptes**, i **els signa tots el mateix
+   president, Francesc d'Assís Pons Tomàs** —**des del febrer del 2016 fins al
+   juliol del 2026**, **deu anys i mig al capdavant.**
 
    **El que el corpus n'extreu són les xifres, no les persones.** **Els llistats
    porten el nom, el número d'identificació fiscal i la parròquia de cada
