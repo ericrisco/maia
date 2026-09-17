@@ -144,8 +144,36 @@ frase de llei vigent**, no d'un llibre de folklore.
    aquest no confirma.
 6. **Si el sometent andorrà i el sometent català** tenen el mateix origen o són
    institucions paral·leles.
-7. **El text anterior a la Llei 28/2022**: quina norma regulava el sometent
-   abans.
+7. ~~**El text anterior a la Llei 28/2022**: quina norma regulava el sometent
+   abans.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+   butlletí **94 del 2022**
+   (`docs/raw/lleis/bopa/llei-28-2022-proteccio-civil.txt`), **i la resposta és
+   d'un tipus que el corpus no esperava**. La disposició derogatòria diu:
+
+   > «**Es deroga el Decret dels veguers del 23 d'octubre del 1984 sobre el
+   > Sometent**; es deroguen la **Llei sobre protecció civil** aprovada pel
+   > Consell General el **20 de novembre del 1984**; el Decret de creació del
+   > Departament de Protecció Civil i Gestió d'Emergències, del 7 de novembre
+   > del 2007 [...]»
+
+   **El sometent no el regulava una llei del Consell General: el regulava un
+   decret dels veguers.** **Fins al 14 de juliol del 2022.**
+
+   **Això val la pena dir-ho amb precisió.** **Els veguers eren els
+   representants dels coprínceps**, i **el seu decret sobre el sometent va
+   sobreviure vint-i-nou anys a la Constitució del 1993** —**que els va deixar
+   sense les funcions que tenien**— **i trenta-vuit a si mateix.** **La institució
+   armada de les parròquies s'ha regit, fins fa quatre anys, per una norma
+   d'origen no parlamentari.**
+
+   **I hi ha una simetria de dates que el corpus registra sense arbitrar-la**:
+   **el decret dels veguers sobre el sometent és del 23 d'octubre del 1984** i
+   **la Llei de protecció civil del Consell General és del 20 de novembre del
+   1984**, **vint-i-vuit dies després.** **Les dues normes que la Llei 28/2022
+   deroga alhora van néixer el mateix any i per vies diferents.**
+
+   `Requereix el Decret dels veguers del 23-10-1984 mateix, que és anterior al
+   BOPA.`
 
 ## Related
 
