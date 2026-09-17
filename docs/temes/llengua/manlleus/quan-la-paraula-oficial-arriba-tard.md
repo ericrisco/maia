@@ -147,15 +147,20 @@ guanyen**.
 
 ## Buits registrats
 
-**El repertori de casos no s'ha destil·lat, i és la part que aquest corpus més
+~~**El repertori de casos no s'ha destil·lat, i és la part que aquest corpus més
 necessita.** Són **176 pàgines** (p. 105-280) amb cada terme oficial, els seus
-concurrents i el seu CI. **El que hi ha en aquesta fitxa són els exemples que el
-cos del llibre cita**, no la llista. **Sense el repertori, el corpus no pot dir
-quina paraula es diu de veritat per a cap terme que no surti aquí.**
+concurrents i el seu CI.~~ — **`resolt` el 18-09-2026**:
+**[El repertori de la neu](./el-repertori-de-la-neu.md)** en buida **551 casos i
+967 formes —el 97,4% de les entrades del repertori—**, amb **els 79 casos on el
+terme oficial perd**, **els disset castellanismes i els dotze gal·licismes amb
+el seu CI**, i **els deu conceptes amb més variació.**
 
 **Els índexs de termes (p. 281-316) tampoc s'han buidat**, i inclouen un **índex
 de termes neològics que designen conceptes nous**: exactament el material que
-falta per completar [els anglicismes](./els-anglicismes.md).
+falta per completar [els anglicismes](./els-anglicismes.md). — **`parcial` el
+18-09-2026**: **l'índex de termes (p. 281-308) s'ha llegit per validar el
+recompte del repertori —1.003 entrades—**; **l'índex de conceptes nous (p.
+309-316) segueix sense buidar.**
 
 **Cap xifra no s'ha pres d'un gràfic.** El gràfic 5 no s'ha llegit; els CI dels
 quatre subcorpus s'han pres del text, que els repeteix en paraules.

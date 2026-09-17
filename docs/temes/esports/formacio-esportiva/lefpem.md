@@ -196,8 +196,13 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
   2026 amb 290.542,76 €**, vegeu
   [Què costa l'Efpem](#que-costa-lefpem-el-2026). `Els vint-i-cinc anys de
   mig segueixen sense relat.`
-- **El lèxic de l'esquí i de la muntanya en català andorrà**, que aquesta escola
-  ha d'estar produint i transmetent. **Buit important per a la fase 3.**
+- ~~**El lèxic de l'esquí i de la muntanya en català andorrà**, que aquesta
+  escola ha d'estar produint i transmetent.~~ — **`resolt` el 18-09-2026**:
+  **[El repertori de la neu](../../llengua/manlleus/el-repertori-de-la-neu.md)**
+  en dona **551 conceptes i 967 formes** amb el seu ús real mesurat, **inclosos
+  els enregistraments fets a classes de l'Escola d'Esquí i Snowboard de
+  Pal-Arinsal i de Grandvalira el 2016-2017.** `El que l'Efpem ensenya
+  específicament, en canvi, segueix sense font.`
 
 ## Vint anys després, el nom ha canviat
 

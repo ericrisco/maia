@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1007** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1008** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1188,6 +1188,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El repertori de la neu](temes/llengua/manlleus/el-repertori-de-la-neu.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `montane-bastida-terminologia-2019` |
 | [Els anglicismes](temes/llengua/manlleus/els-anglicismes.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `costa-globalitzacio-llengues` |
 | [Manlleus](temes/llengua/manlleus/manlleus.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 | [Quan la paraula oficial arriba tard](temes/llengua/manlleus/quan-la-paraula-oficial-arriba-tard.md) | `temes/llengua/manlleus` | compilada | contemporania | no | `montane-bastida-terminologia-2019` |
