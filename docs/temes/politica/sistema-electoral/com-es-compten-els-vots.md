@@ -122,10 +122,93 @@ dins de la inhabilitació per a l'exercici de drets públics.
 
 ## Buits registrats
 
-- **Les eleccions comunals** (títol III) i **els referèndums** (títol IV) no
-  s'han llegit.
-- **Qui pot ser candidat** —requisits, incompatibilitats— és al capítol tercer i
-  queda fora d'aquesta fitxa.
+- ~~**Les eleccions comunals** (títol III) i **els referèndums** (títol IV) no
+  s'han llegit.~~ — **`resolt` el 17-09-2026**, llegits al text consolidat
+  ([Llei 44/2022](../../../fonts/bopa.md),
+  `docs/raw/lleis/bopa/llei-44-2022-regim-electoral-consolidat.txt`).
+
+  **Títol III, les comunals (articles 63-70).** El consell de comú té **entre
+  deu i setze consellers, sempre en nombre parell**, i **el mateix comú pot
+  canviar-ne el nombre per 2/3 dels seus membres**, però **l'acord s'ha de
+  prendre un any abans de les eleccions** (article 64). **El repartiment és el
+  més desigual dels tres sistemes** (article 66):
+
+  > «correspondrà **directament a la candidatura més votada** en cada parròquia
+  > **la meitat del nombre total de consellers** que integrin el consell de
+  > comú, **sigui quina sigui la diferència en vots** amb la resta de
+  > candidatures. L'altra meitat […] s'ha de distribuir proporcionalment entre
+  > **totes** les candidatures, **inclosa la més votada**».
+
+  **La llista guanyadora cobra dues vegades**: la meitat de la cambra de sortida
+  i després la seva part proporcional de l'altra meitat. **I la proporcional
+  s'aplica pel mètode de l'article 62**, el de resta més elevada, «adequant-lo
+  al nombre de consellers a repartir». **En cas d'empat com a llista més
+  votada**, es reparteixen aquella meitat i **els escons sobrants passen al
+  tram proporcional**.
+
+  **Títol IV, els referèndums (articles 71-78).** Són **dos, i no funcionen
+  igual**:
+
+  | | **Reforma constitucional** | **Consultiu** |
+  | --- | --- | --- |
+  | **Qui el convoca** | **Els coprínceps**, «de manera simultània i conjunta», a instància del síndic general | **Els coprínceps**, a instància del cap de Govern |
+  | **Qui fixa la data** | **El Consell General**, com a mínim **30 dies** després de comunicar-ho als coprínceps | **El Govern amb l'acord del Consell General** |
+  | **La pregunta** | La del projecte aprovat | **La fixa el Govern amb l'acord del Consell General** |
+  | **Com s'aprova** | **Si els vots afirmatius superen els negatius** (article 74) | No es diu: és consultiu |
+
+  **No hi ha quòrum de participació ni majoria qualificada**: **la reforma de la
+  Constitució s'aprova per un vot de diferència**, i **els vots en blanc no
+  compten a cap costat** perquè la regla només compara afirmatius amb negatius.
+
+  **I l'article 78 té una frase que val per a tota aquesta secció del corpus**:
+  la proclamació del referèndum consultiu s'ha de fer «de manera que quedi
+  **simultàniament** clara i manifesta la voluntat expressada pels votants de
+  **totes i cadascuna de les parròquies** i la del **conjunt del poble
+  andorrà**». **Al referèndum, la llei obliga a publicar el resultat per
+  parròquia; a les generals, no** —vegeu
+  [la desigualtat del vot](./la-desigualtat-del-vot.md).
+
+  **Els grups d'electors que fan campanya per una opció** tenen «la mateixa
+  consideració legal que les candidatures» i **han de reunir les mateixes
+  signatures** (article 73).
+
+  **Una errata del text consolidat, registrada.** L'exposició de motius data la
+  llei que crea la Junta Electoral el **15 de desembre del 2000**; la disposició
+  derogatòria, el **15 de febrer del 2000**. **El mateix text dona dues dates
+  per a la mateixa norma.** `Requereix el BOPA del 2000 per decidir quina és.`
+- ~~**Qui pot ser candidat** —requisits, incompatibilitats— és al capítol tercer i
+  queda fora d'aquesta fitxa.~~ — **`resolt` el 17-09-2026** (articles 15-26).
+  **Elegible és tot andorrà major d'edat inscrit al registre electoral** i no
+  incurs en inelegibilitat. **Les quatre inelegibilitats són totes judicials o
+  electorals**: magistrats del Tribunal Constitucional, membres del Consell
+  Superior de la Justícia, batlles, magistrats i fiscals, i **els vocals de la
+  Junta Electoral** (article 17.1) —**i cadascuna és també causa
+  d'incompatibilitat**. **Els condemnats a pena de presó per sentència ferma ho
+  són mentre dura la pena.**
+
+  **Tres regles que fan de filtre real:**
+
+  | | |
+  | --- | --- |
+  | **Renúncia prèvia** | Un conseller general o membre del Govern que vulgui anar a les comunals —i un membre del comú que vulgui anar a les generals— **ha de renunciar abans, per escrit i de manera irrevocable** (article 17.3) |
+  | **Funció pública** | Ser funcionari o tenir contracte laboral amb una Administració **és incompatible amb qualsevol càrrec electiu d'aquella mateixa Administració** (article 18) |
+  | **Llista incompleta** | **«Serà nul·la qualsevol candidatura en la qual figurin més candidats que càrrecs a proveir, i les incompletes»** (article 20.2) |
+
+  **I la quota de gènere és de llista, no de lloc** (article 16): **mínim el 40%
+  de cada sexe en el conjunt de la llista**, suplents inclosos, **sense cap
+  regla d'ordre** —res no impedeix posar les dones al final. Quan hi ha **menys
+  de cinc llocs** —**totes les llistes parroquials, que en tenen dos**— la llei
+  només demana «**procurar el major equilibri numèric possible**», que **no és
+  una obligació mesurable**.
+
+  **Presentar candidatura** exigeix el **0,5% dels electors** de la
+  circumscripció i **mai menys de deu presentadors**; **un candidat no pot
+  presentar la seva pròpia candidatura**, i **cada presentador només pot signar
+  una llista parroquial i una de nacional** (article 21). **El termini és
+  brutal**: fins a les **12 h del cinquè dia hàbil** des de la convocatòria, i
+  **les esmenes, fins a les 17 h del mateix dia** (articles 23.2 i 24.1).
+  **Recurs a la Junta Electoral en un dia hàbil, al·legacions en un altre,
+  acord en un altre** (article 25).
 - ~~**El finançament electoral** té llei pròpia (Llei 43/2022, de partits polítics
   i finançament electoral, 50 articles), també al recull i també per llegir.~~ —
   **`resolt` el 17-09-2026**, llegida al [BOPA](../../../fonts/bopa.md),
