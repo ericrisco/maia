@@ -117,6 +117,39 @@ els horaris, el descans dominical **o el rètol** és infracció (article 8).
   s'han llegit.
 - **Les 3 versions consolidades no s'han comparat**: no se sap si els quatre
   dies de tancament n'han estat sempre quatre.
-- **La Llei del comerç** (Llei 12/2013, 111 articles) és al recull i **queda per
-  llegir**: aquesta fitxa
-  només cobreix els horaris.
+- ~~**La Llei del comerç** (Llei 12/2013, 111 articles) és al recull i **queda per
+  llegir**: aquesta fitxa només cobreix els horaris.~~ — **`parcial` el
+  17-09-2026**: llegida al [BOPA](../../../fonts/bopa.md), butlletí **32 del
+  2013** (`docs/raw/lleis/bopa/llei-12-2013-comerc.txt`). **I la primera cosa
+  que en surt explica per què aquesta fitxa existeix a part.**
+
+  **La Llei del comerç no regula els horaris: els remet.** **El capítol segon
+  del títol II «efectua una remissió a la legislació sobre horaris comercials»**
+  i prou. **Els horaris andorrans són llei pròpia per decisió expressa d'aquesta
+  llei**, i **el que aquesta fitxa cobreix no és un tros que faltava: és l'altra
+  norma.**
+
+  **El que sí que hi ha, i el corpus no tenia:**
+
+  | Matèria | Què hi diu |
+  | --- | --- |
+  | **Preus** | **Llibertat de fixació pel comerciant**, amb excepcions taxades, **i obligació d'informar-ne el públic** |
+  | **Qui pot comerciar** | Requisits per a andorrans i estrangers, i **prohibició expressa d'exercir el comerç en nom propi però per compte d'un altre que per llei no pot exercir-lo** — **la figura del prestanom, prohibida a la llei del comerç** |
+  | **Obrir** | **Autorització, comunicació o declaració responsable** segons el cas, **amb autorització reforçada per als grans establiments** |
+  | **Registre de Comerç i Indústria** | **Inscripció d'ofici** de tothom qui tingui autorització, **amb consulta oberta a qualsevol persona** i **certificació com a tràmit a part** |
+  | **Venda ambulant** | **L'autoritza el comú** on es vulgui fer —**no el Govern**—, **llevat que afecti significativament la mobilitat de la xarxa viària bàsica nacional**, i llavors també cal el Govern |
+  | **Rebaixes** | **El calendari el pot fixar el Govern consultant el sector**, i **pot haver-hi diverses rebaixes l'any** |
+
+  **I una definició que val per a qualsevol discussió sobre descomptes**: **«per
+  preu anterior s'entén el preu més baix que s'ha aplicat sobre productes
+  idèntics durant un període continuat d'almenys trenta dies en el curs dels sis
+  mesos precedents».** **El preu de referència d'una rebaixa no és el que hi
+  havia ahir: és el més baix dels darrers sis mesos que hagi durat un mes.**
+
+  **La prohibició del prestanom lliga amb un buit obert a una altra branca**:
+  [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
+  **el declara «buit prioritari» i el data com a pràctica**; **aquí n'hi ha la
+  prohibició legal, que és una de les dues meitats que aquell buit demanava.**
+
+  `Requereix el títol V, d'infraccions i sancions, i el títol III dels tipus
+  específics de venda.`
