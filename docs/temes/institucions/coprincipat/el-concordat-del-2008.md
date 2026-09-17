@@ -191,25 +191,72 @@ en euros, aquesta col·laboració.`
 **Això el corpus no ho tenia, i és el fet més important d'aquesta unitat
 després del tractat mateix.**
 
-**Poc després de signar-se, un grup de consellers generals el va impugnar
-davant del Tribunal Constitucional.** **El blanc era l'article XI, 3 a)** —el
-que obliga tots els centres a ensenyar catolicisme— i **els motius eren tres**:
+> **Llegit el 17-09-2026 als dos autes del BOPA** —el d'admissió a tràmit
+> (núm. 62 del 2008) i el dictamen (núm. 65)— a
+> `docs/raw/relacions-exteriors/concordat-2008/`. **I el primer que fan és
+> corregir el corpus.**
 
-1. Que contravenia el **dret dels pares a escollir l'educació dels fills i la
-   seva formació moral i religiosa** d'acord amb les seves conviccions
-   (**Constitució, article 20.3**).
-2. Que xocava amb la **llibertat d'ensenyament i de creació de centres
-   docents** (**article 20.2**).
-3. Que contradeia el **principi d'aconfessionalitat de l'Estat**.
+**No va ser una impugnació d'una llei ja sancionada: va ser un dictamen previ
+de constitucionalitat dels tractats internacionals, causa 2008-1-DP**, i **la
+diferència és tota la del món**. **Es va presentar el 4 de juny del 2008**, i el
+5 de juny una providència del magistrat ponent va **interrompre el termini de
+sanció pels coprínceps** (article 45.2 de la Constitució). **El tractat va
+quedar aturat tres mesos entre la ratificació del Consell General i la signatura
+dels coprínceps.**
 
-**El 4 de setembre del 2008 el Tribunal el va declarar CONSTITUCIONAL** —i
-**això és el que cal llegir amb cura, perquè no és una victòria neta**:
-**el va salvar posant-hi dues excepcions d'interpretació.**
+**I ara se sap qui el va aturar** —el corpus tenia obert «qui eren els
+consellers»—: **dotze consellers generals**, **Jaume Bartumeu Cassany**,
+Francesc Rodríguez Rossa, Josep Dallerès Codina, Esteve López Montanya,
+Mariona González Reolit, Carles Blasi Vidal, Vicenç Alay Ferrer, Jordi Font
+Mariné, Víctor Naudi Zamora, Ricard de Haro Jiménez, David Pérez Peiró i
+M. Pilar Riba Font.
+
+**El blanc era l'article XI, 3 a)**, i **els motius eren tres articles de la
+Constitució, no el que el corpus havia escrit**:
+
+| Article | Què s'hi al·legava |
+| --- | --- |
+| **20.3** | El **dret dels pares a escollir** el tipus d'educació i la formació moral o religiosa dels fills |
+| **20.2** | La **llibertat d'ensenyament i de creació de centres docents** |
+| **11.1** | La **llibertat ideològica** — **no el principi d'aconfessionalitat**, que és el que aquest article deia abans i que no consta enlloc a l'escrit |
+
+**L'argument central dels requeridors val la pena literal**, perquè **admet que
+l'ensenyament és voluntari i tot i així el considera inconstitucional**:
+
+> «tot i reconèixer el caràcter facultatiu d'aquest ensenyament, l'obligació per
+> a tots els centres docents, **independentment del seu ideari**, d'oferir
+> l'ensenyament de la religió catòlica **atribueix a l'Estat andorrà un paper de
+> garant de l'omnisciència pedagògica i ideològica d'una religió concreta**»
+
+**I n'apunten dues conseqüències que deixen com a pregunta oberta**: **qui paga
+aquest ensenyament** en un centre laic o d'una altra religió, i **què passaria
+si més endavant s'acordessin obligacions similars amb altres confessions.**
+
+**El 4 de setembre del 2008 el Tribunal va declarar l'article conforme a la
+Constitució** —i **això és el que cal llegir amb cura, perquè no és una victòria
+neta**: **el va salvar posant-hi dues excepcions d'interpretació.**
 
 | «Tots els centres» no inclou | |
 | --- | --- |
-| **Els centres estrangers** que no formen part del sistema educatiu andorrà i es regeixen per **acords internacionals propis** | El francès i l'espanyol en queden fora |
+| **Els centres estrangers** que no formen part del sistema educatiu andorrà i es regeixen per **acords internacionals propis** | El francès i l'espanyol en queden fora. **Aquesta excepció no l'inventa el Tribunal: la hi porta el Consell General** al seu escrit de contestació del 16 de juliol, i el raonament és que l'Acord **no pot modificar ni derogar** els convenis educatius amb França i Espanya |
 | **Els centres privats el caràcter dels quals quedaria greument afectat** si se'ls obligués a ensenyar catolicisme | Una escola de conviccions pròpies no hi entra |
+
+**El Tribunal ho tanca amb una frase que no deixa marge**: *«les disposicions de
+l'article XI 3 a) de l'Acord **no poden, pel seu objecte ni pels seus efectes,
+imposar als centres docents privats unes obligacions incompatibles** amb la
+redacció de l'article 20.2 de la Constitució i que, en aquestes condicions,
+**no són inconstitucionals**»*. **La constitucionalitat és condicional a com
+s'interpreti.**
+
+**Dos apunts de forma que el corpus reté.** **La sala va canviar de president
+entre els dos autes**: el d'admissió el signa **Didier Maus** com a president i
+**Carles Viver Pi-Sunyer** com a vicepresident; el dictamen, **Viver Pi-Sunyer
+de president i Pierre Subra de Bieusses de vicepresident** —**que era també el
+magistrat ponent de la causa.** **I l'escrit de contestació afegeix un
+antecedent normatiu que el corpus no tenia**: **l'article 19 de la Llei
+d'ordenament del sistema educatiu andorrà del 1994** ja deia alguna cosa en
+aquesta matèria, **encara que el mateix Consell General admet que això no és
+cap argument en seu constitucional.**
 
 **El resultat pràctic**: **l'obligació es manté escrita i es buida per a bona
 part dels centres del país**, perquè **el sistema educatiu andorrà conviu amb
@@ -240,11 +287,22 @@ altres, per registre.**
   no es coneixien són ara al cos d'aquest article**, i **la discrepància de
   dates que el corpus registrava no existia**: 17 de març signatura, 15 de maig
   ratificació.
-- **La sentència del Tribunal Constitucional del 4 de setembre del 2008** sobre
-  l'article XI.3.a). **Nova al corpus, i se'n coneix el sentit i les dues
-  excepcions, no el text.** `Requereix el BOPA o el portal del Tribunal.`
-- **Qui eren els consellers generals que van impugnar el Concordat**, i **amb
-  quins vots.** **Buit nou.** `Requereix l'arxiu del Consell General.`
+- ~~**La sentència del Tribunal Constitucional del 4 de setembre del 2008**
+  sobre l'article XI.3.a).~~ — **`resolt` el 17-09-2026**, i **no era una
+  sentència sinó un aute de dictamen previ**, causa **2008-1-DP**. **Són dos
+  autes, no un** —admissió el 26 de juny, dictamen el 4 de setembre— i **tots
+  dos són al corpus** (`docs/raw/relacions-exteriors/concordat-2008/`).
+  **Van corregir tres coses que aquest article deia malament**: no era una
+  impugnació posterior, el tercer motiu era la llibertat ideològica i no
+  l'aconfessionalitat, i **l'excepció dels centres estrangers la va aportar el
+  Consell General, no el Tribunal.**
+- ~~**Qui eren els consellers generals que van impugnar el Concordat.**~~ —
+  **`resolt` el 17-09-2026**: **dotze, encapçalats per Jaume Bartumeu Cassany**,
+  i **hi són tots pel seu nom al cos d'aquest article.**
+- **Amb quins vots es va aprovar el Concordat al Consell General** el 15 de maig
+  del 2008. **Els autes donen els noms dels dotze requeridors i cap recompte de
+  la votació.** `Requereix el Diari de Sessions del Consell General, no el
+  BOPA.`
 - ~~**L'article 11.3 de la Constitució**, literal.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/constitucio.txt`). **Són dos paràgrafs i tots
   dos importen aquí:**

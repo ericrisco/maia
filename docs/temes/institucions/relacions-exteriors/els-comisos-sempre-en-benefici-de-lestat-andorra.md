@@ -251,9 +251,24 @@ ningú.**
   que pot no ser possible** (articles 25 i 30) **sense regular-la mai**.
   **La llei d'extradició andorrana no és al recull que el corpus té.**
   `Requereix el text de la Llei d'extradició.` **Buit prioritari.**
-- **La instantània no porta disposicions.** El fitxer conté **els 40 articles i
-  cap disposició transitòria, derogatòria ni final**. **No consta ni la data
-  d'entrada en vigor ni què va derogar.** `Requereix el BOPA de la Llei 32/2021.`
+- ~~**La instantània no porta disposicions.**~~ — **`resolt` el 17-09-2026 des
+  del [BOPA](../../../fonts/bopa.md)**, butlletí **134 del 2021**, del
+  **14 de desembre** (`docs/raw/lleis/bopa/`). **La llei és de Casa de la Vall,
+  22 de novembre del 2021**, **entra en vigor l'endemà de publicar-se** i és un
+  **text consolidat**: no crea règim nou, el recull.
+
+  **Deroga set lleis d'un sol cop**, i la llista és la biografia de la matèria:
+
+  | | |
+  | --- | --- |
+  | **29.12.2000** | Llei de cooperació judicial internacional en matèria penal i de lluita contra el blanqueig |
+  | **28/2008**, 11.12 · **4/2011**, 25.5 · **20/2013**, 10.10 | modificacions |
+  | **4/2014**, 27.3 · **2/2015**, 15.1 · **11/2015**, 16.7 | modificacions |
+
+  **Sis modificacions en quinze anys, quatre d'elles entre el 2013 i el 2015.**
+  **I una derogació anterior que el text recorda**: la llei del 2000 ja havia
+  derogat **la Llei de protecció del secret bancari i de prevenció del blanqueig
+  de l'11 de maig del 1995.**
 - **Quins tractats específics té Andorra en aquesta matèria.** L'article 36 fa
   dependre tot el règim de si hi ha «tractat internacional específic», i **el
   corpus no en té cap.** **Sense aquella llista, no se sap amb quins estats
