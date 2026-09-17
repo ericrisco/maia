@@ -148,7 +148,13 @@ abandonades i vi importat— **i registra la de Tor al costat.**
 
 1. **Quan i com es legalitza** el conreu del tabac.
 2. **Quines parròquies** exactament, i quantes feixes.
-3. **Què deia el Consell** del tabac il·legal mentre ho era.
+3. ~~**Què deia el Consell** del tabac il·legal mentre ho era.~~ — **`resolt` el
+   17-09-2026**: **ho deia cinc vegades en dos anys, i cada vegada perquè la
+   vegada anterior no s'havia obeït.** **El Llibre III d'actes** dona la sèrie
+   sencera —**18 de juny de 1731, 26 de novembre de 1731, 7 de juliol de 1732,
+   18 de maig de 1733 i 29 de juny de 1733**—, amb la fórmula, la pena i la
+   manera de publicar-ho porta per porta
+   ([la revolta del tabac de 1733](../../economia/tabac/la-revolta-del-tabac-de-1733.md)).
 4. Si **queda toponímia de vinya** — noms de lloc amb *vinya*, *tira*, *malhivern*.
    Vegeu [toponímia](../../territori/toponimia/toponimia-andorrana.md).
 5. ~~El **retorn actual de la vinya** (celler de Casa Auvinyà), registrat a

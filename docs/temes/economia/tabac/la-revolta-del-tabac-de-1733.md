@@ -184,9 +184,43 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 1. **Els noms dels cinc condemnats al penal d'Orà el 1735.** Mas no els dona.
    **Buit prioritari**: és una deportació d'andorrans i el corpus no en sap cap
    nom.
-2. **El text de la prohibició de conreu** de Guinda i del Consell, i la seva data
-   exacta. El corpus la situa entre **1728 i 1733** perquè és el que la narració
-   permet, **no perquè tingui la data**.
+2. ~~**El text de la prohibició de conreu** de Guinda i del Consell, i la seva
+   data exacta. El corpus la situa entre **1728 i 1733** perquè és el que la
+   narració permet, **no perquè tingui la data**.~~ — **`resolt` el 17-09-2026,
+   i no és una prohibició: en són quatre.** Font: **el Llibre III d'actes del
+   Consell General (1682-1744)**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   | Data | Què acorda el Consell |
+   | --- | --- |
+   | **18 de juny de 1731** | **«que, de esta ora en avant, ningú dels habitants de la Vall pugue fer ningun gènero de tabaco, en pena del cot de la Terra»**, i que **els cònsols facin arrencar tot el que es trobi sembrat i plantat** i acusin els contrafactors «a esta Casa a fi de castigar-los» |
+   | **26 de novembre de 1731** | Recorda als cònsols que **estiguin a la mira** i que, si en saben en algun lloc, **ho manin de seguida**, **o pagaran de sos propis béns** |
+   | **7 de juliol de 1732** | **Segona prohibició**, amb termini: **qui en tingui plantat que l'arrenqui abans del dia 13**, i **que es mani porta per porta** |
+   | **18 de maig de 1733** | **Constata el fracàs**: els acords del 1731 i del 1732 **«an tingut tan poca observància, com se ha insprimentat»**, i **torna a manar-ho porta per porta** |
+   | **29 de juny de 1733** | **Revalidació general**, i **ara amb el bisbe a sobre** |
+
+   **El text del 1731 és el nucli**, i la fórmula és la de sempre: **prohibició
+   general, execució pels cònsols, pena del cot de la Terra.**
+
+   **I el del 29 de juny de 1733 és el que lliga amb la revolta**, perquè hi
+   surten totes dues autoritats alhora. **Ha arribat «una carta de Sa
+   Il·lustríssima, Príncep Sobirà de estas Valls, esforçant dita prohibició y
+   exortant al Concell de la Vall la fassen»**, i el Consell, **«volent
+   concervar sas prerrogatives y autoritat, jurisdicció, política»**,
+   **revalida tots els acords del 1731, del 32 i del 33.**
+
+   **La coreografia que mana és la que explica com es publicava una llei a
+   l'Andorra del segle XVIII**: **cada consolat ha de convocar el seu Consell
+   sencer i més gent si els sembla, llegir-hi la carta del bisbe, i tot seguit
+   remetre-la a la parròquia següent, «com se segueix la regla».**
+
+   **Tres coses que això canvia.** **Primera, la data: la prohibició de conreu
+   és del 18 de juny de 1731**, i el corpus la situava entre el 1728 i el 1733.
+   **Segona, que no és un acte sinó una sèrie de cinc en dos anys**, i **la
+   sèrie mateixa és la prova que no s'obeïa** —el Consell ho diu ell mateix el
+   1733. **Tercera, que el Consell no actua contra el bisbe sinó amb ell, i
+   invocant la seva pròpia jurisdicció.** **La revolta del 1733 no esclata
+   contra una prohibició nova: esclata contra la quarta.**
 3. **La instructa de c. 1790** i si és el «decret de Boltàs» de la tradició.
 4. **On és el Puialt.** El topònim apareix com «el Puialt d'Andorra» i el corpus
    no l'ha situat ([toponímia](../../territori/toponimia/toponimia-andorrana.md)).
