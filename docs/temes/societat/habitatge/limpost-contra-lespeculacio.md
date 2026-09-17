@@ -143,8 +143,46 @@ error: és una escala d'arrelament, amb dos esglaons.
 - **La resta del títol V** —les modificacions concretes de l'IRPF, article 79, i
   les regles de càlcul del guany— **només s'han llegit en el que fixa tipus i
   llindars**.
-- **El règim de vinculació** entre persones jurídiques (article 8.3 de la Llei
-  3/2024 modificada) **s'ha citat i no s'ha buidat**.
+- ~~**El règim de vinculació** entre persones jurídiques (article 8.3 de la Llei
+  3/2024 modificada) **s'ha citat i no s'ha buidat**.~~ — **`resolt` el
+  17-09-2026** al [BOPA](../../../fonts/bopa.md)
+  (`docs/raw/lleis/bopa/llei-3-2024-impost-inversio-immobiliaria.txt`).
+
+  **La regla és una sola frase i és la que fa que l'impost mossegui**:
+
+  > «En el cas de persones jurídiques diferents entre les quals es considera que
+  > hi ha vinculació, **el tipus de gravamen és el resultant de sumar el nombre
+  > total d'unitats immobiliàries sobre les quals les dites persones han
+  > invertit, de forma agregada**.»
+
+  **Com que el tipus puja per trams segons quants immobles es tenen** —**3%,
+  5%, 8% i 10%**—, **agregar les societats vinculades fa que la cinquena
+  societat que compra el seu primer pis pagui com si en comprés el sisè.**
+  **Repartir les compres entre societats deixa de servir.**
+
+  **La definició general és àmplia**: **hi ha vinculació «quan unes mateixes
+  persones o entitats participen directament o indirectament en la direcció, el
+  control o el capital de dues entitats»**. **I després vénen vuit supòsits
+  que ho són «en tot cas»:**
+
+  | | |
+  | --- | --- |
+  | **a)** | Una entitat i els seus **socis o partícips** |
+  | **b)** | Una entitat i els seus **consellers o administradors**, de fet o de dret |
+  | **c)** | Una entitat i els **cònjuges, convivents en unió estable de parella o parents fins al tercer grau de consanguinitat** dels socis, consellers o administradors |
+  | **d)** | Una entitat i una altra **participada indirectament almenys en un 25%** |
+  | **e)** | **Dues entitats d'un mateix grup** |
+  | **f)** | Dues entitats on **els mateixos socis o els seus cònjuges o parents fins al tercer grau** participin almenys en un **25%** |
+  | **g)** | Una entitat resident fiscal a Andorra i **els seus establiments permanents a l'estranger** |
+  | **h)** | Una entitat no resident i **els seus establiments permanents a Andorra** |
+
+  **El llindar de participació per a la relació soci-entitat és del 15%**, **o
+  del 3% si els valors cotitzen en un mercat secundari** —**molt més baix que
+  el 25% dels supòsits d) i f).**
+
+  **El parentiu arriba al tercer grau** —**oncles i nebots**— **i inclou
+  expressament la parella de fet.** **I els tipus es poden canviar per la llei
+  del pressupost** (article 8.4).
 - **Què és exactament «preu assequible»** ho fixen la Llei 15/2021 i la 30/2021,
   citades però **no llegides en aquest punt**. — **`obert` pel que fa a la
   definició legal, confirmat el 2026-09-14**: **el corpus té la Llei 15/2021
