@@ -83,6 +83,51 @@ l'andorrà antic.** **No és català de Barcelona transcrit a Andorra: és la
 grafia andorrana de cada segle** —*Endorra*, *pròmens*, *feytas*, *seynalar*,
 *aprés*— **amb cinc-cents setanta-cinc anys de continuïtat documentada.**
 
+## Un defecte d'extracció que cal saber abans de citar
+
+**Els llibres d'actes estan impresos a dues columnes, i `pdftotext` les
+intercala.** **Una frase pot continuar dotze línies més avall i, entremig,
+n'hi ha una d'una altra columna que parla d'una altra cosa.**
+
+**No fa el text inservible i sí que fa perillosa la citació curta.** **La regla
+que el corpus segueix des del 17-09-2026 és aquesta**:
+
+- **Llegir sempre el voltant**, no la línia que ha sortit al `grep`;
+- **si una frase no lliga, comprovar si el que s'hi ha colat és d'una altra
+  columna** —sol notar-se perquè canvia de matèria de cop;
+- **i quan un mot o una xifra no es poden confirmar, dir-ho al costat de la
+  citació** en comptes d'arrodonir.
+
+**Les actes soltes i els documents precedents no tenen aquest problema**: són a
+una columna.
+
+## Què ha resultat tenir, comprovat article per article
+
+**El 17-09-2026 aquest fons va tancar o avançar més de quaranta buits del corpus
+en un sol dia.** **La llista serveix d'índex del que s'hi ha trobat, per si cal
+tornar-hi:**
+
+| Matèria | On és |
+| --- | --- |
+| **Els dos pergamins fundacionals del Consell, 1419**, amb la clàusula que prohibeix actuar contra el bisbe | precedents |
+| **L'apel·lació del 1364** i les vuit greuges | precedents |
+| **Els dos saigs del 1390**, un per copríncep, i el que es nega | precedents |
+| **La ratificació de l'infant Pere del 1335** | precedents |
+| **Les ordinacions del 1289 i del 1390** —quèstia, cabanes, primes per llop, ós i linx | precedents |
+| **El dret de pas per l'Urgellet, 1341**: un parell de formatges l'any | precedents |
+| **El jurament dels veguers**, amb dues negatives (1442, 1447) | precedents |
+| **La sèrie de la quèstia comtal del segle XV**, sempre a crèdit | precedents |
+| **La cluseda per contagi del 1628-1630**: soldats, guardes, certificats, campanes | Llibre I |
+| **La bruixeria: el finançament del 1621 i la prima per execució del 1666** | Llibres I i II |
+| **El règim de la farga** i els treballadors francesos, 1629 | Llibre I |
+| **L'*afor*, 1744-1795**, i el preu del vi, el pa, les truites i les perdius | Llibres I-IV |
+| **La *conducta* de metges, barber, advocats i llosador**, des del 1624 | Llibres I-IV |
+| **La prohibició del tabac, 1731-1733**, i el permís de conreu del 1791 | Llibres III i IV |
+| **L'acta del 23 de març de 1775** i l'edicte contra la gent vaga | Llibre IV |
+| **El canvi de la moneda francesa, 1723** | Llibre III |
+| **Els *manadors*** i el torn de casa | Llibres II-IV |
+| **Els últims pagaments de la quèstia als dos coprínceps, 1863-1864** | Llibre IV |
+
 ## Related
 
 - [El BOPA](./bopa.md) — la sèrie que comença on aquesta s'acaba, el 1989.
