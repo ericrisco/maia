@@ -229,10 +229,49 @@ no és qui ho fa, és el món que ho necessitava**.
 2. La **farga de casa Areny**: què en queda, si és visitable.
 3. **D'on sortia el mineral** — mines andorranes o importació? Mas 1994 parla
    d'«obtenció de les matèries primeres» com a condicionant **sense dir-ne
-   l'origen**. **Segueix obert.**
+   l'origen**. **Segueix obert** — **amb un indici nou del 17-09-2026 que el
+   corpus registra sense convertir-lo en prova.** L'acta del **13 de setembre de
+   1629** enumera **tres oficis francesos a les fargues**: **«fargaires,
+   carbonés, menairons»**. **Els dos primers són inequívocs**; **el tercer
+   apunta a gent de mina.** **Si hi havia menairons treballant al país, hi havia
+   extracció al país** —**però l'acta no diu on, ni si el mineral era andorrà**,
+   i **el mot podria designar també qui transporta el mineral.** `hipòtesi, no
+   verificada.`
 4. La data del **primer quart del XIX / XX** (vegeu l'avís).
 5. **Els fargaires francesos**: quants eren, d'on venien, si s'hi van quedar.
    La font diu que **tots** els treballadors ho eren, i el corpus no té res més.
+   — **`parcial` el 17-09-2026**, des del **Llibre I d'actes del Consell
+   General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
+   **Quants eren segueix sense saber-se, i es va manar comptar-los.**
+
+   **El 13 de setembre de 1629**, en plena cluseda per contagi
+   ([el sometent](../../institucions/comuns-i-parroquies/el-sometent.md)), el
+   Consell resol:
+
+   > «que **tots los fransesos treballen a les fargues, tant fargaires,
+   > carbonés, menairons**, que **los cònsols de Ordino ne fàson nota del nom de
+   > aquells** y que **no·n déixon entrar de altros**, **ni aquells no pàson en
+   > Fransa**. **I en tal cas i pàson, no·ls déixon tornar ensà**»
+
+   **Tres coses.** **Que la mà d'obra francesa estava concentrada a les
+   fargues** —la font secundària deia «tots» i l'acta ho confirma des de
+   l'altra banda—; **que es va ordenar fer-ne llista nominal**, cosa que vol
+   dir que **en algun lloc n'hi va haver una**; i **que la frontera se'ls va
+   tancar en un sol sentit**: **podien quedar-se o marxar, i si marxaven no
+   tornaven.** `Requereix la nota de noms dels cònsols d'Ordino, que és la
+   resposta literal al buit.`
+
+   **I el règim de la farga durant aquells mesos és el d'un recinte tancat**
+   *(Llibre I, 1628-1629)*: **els treballadors han de dormir cada nit a la
+   farga i no poden dormir fora**; **ningú no hi entra, de nit ni de dia, sense
+   certificat de la guarda de dalt**; **el cot el paga l'amo de la farga i no
+   els qui hi treballen**; **el ferrer ha de fer memorial de tots els
+   treballadors** i donar-lo als cònsols d'Ordino, **o tancar la farga**; i
+   **les fargues no poden treballar fins que torni el missatger enviat a
+   França.**
+
+   **La farga era, alhora, la principal indústria i el principal risc
+   sanitari del país.**
 6. El **lèxic de l'ofici**: *fornal*, *mola*, *martinet*, *mall*, *encluse*.
    Contra el *Vocabulari d'Andorra* (1992). **Font prioritària no consultada.**
 7. **Noms de ferrers** i cases de ferrer per parròquia. La
