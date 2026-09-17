@@ -194,7 +194,33 @@ dona la mesura real del que costava moure un pagament.
    qualifica de **«circumstància agreujant»** per a l'ús encobert de la carta de
    gràcia ([la venda a carta de gràcia](./la-carta-de-gracia.md)).
    **La institució que prestava era també la que ho prohibia.**
-5. **Casos documentats** de préstec entre particulars, amb condicions.
+
+   **`parcial` el 17-09-2026, i amb noms.** Les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) **documenten qui
+   finançava Andorra entre els segles XIV i XVI**, i **l'Església hi és per les
+   dues bandes**:
+
+   | Any | Qui presta | Què |
+   | --- | --- | --- |
+   | **1383** | **Certs jueus de la Seu d'Urgell i de Puigcerdà** | **Gastó III mana al veguer comtal que faci complir el que el rei d'Aragó havia establert sobre els préstecs que els andorrans n'havien rebut** *(ANA, ASC, perg. 5.607)* |
+   | **1467** | **Ramon d'Anolles, àlies Manyolet, mercader d'Acs** | **La quèstia comtal se li consigna directament**: **550 florins d'or** que el Consell es compromet a pagar-li a ell i no al comte |
+   | **1468** | **Bernat Moles, veí d'Andorra la Vella** | **180 lliures i 10 sous barcelonins** per **vuitanta modis de sègol** comprats a crèdit |
+   | **1522** | **Bartomeu Capella, prevere del Pui**, parròquia de la Massana | **240 ducats d'or** per **cent deu muigs de blat** |
+   | **1532** | **El capítol de la Seu d'Urgell** | **100 ducats d'or**, a tornar **per sant Simó i sant Judes** |
+
+   **Tres coses.** **Primera, que el crèdit eclesiàstic medieval a Andorra no és
+   una hipòtesi: el capítol de la Seu presta al Consell General i un prevere de
+   la Massana també.** **Segona, que la forma habitual del préstec no és el
+   diner sinó el gra**: **es compra blat o sègol a crèdit i el deute es
+   reconeix en moneda.** **Tercera, i és la que il·lustra millor la prohibició
+   de la usura**: **el prestador jueu apareix el 1383 i ja no torna a aparèixer
+   després**; **a partir del segle XV qui presta al país és un mercader d'Acs,
+   un veí, un prevere i el capítol de la catedral.**
+5. **Casos documentats** de préstec entre particulars, amb condicions. —
+   **vegeu la taula del buit 4**: **els del 1468, 1522 i 1532 porten import,
+   contrapartida i termini**, i **el de 1522 i el de 1468 són compres de gra a
+   crèdit entre particulars i el Consell.** `Segueix obert el préstec de
+   particular a particular sense el Consell pel mig.`
 6. **Quina moneda** circulava: pessetes, francs, totes dues?
    **Buit important i sense resposta.**
 
