@@ -42,10 +42,13 @@ Rovira, 1894), **pàgines 28 a 31**
 
 > **Són càrrecs en exercici i per això hi consten.**
 >
-> **I hi ha una cosa que el corpus no sap explicar:** **hi signen dos «Síndics
-> Generals Presidents» alhora**, **i a més un «Síndic Segon»**. **Tres síndics en
-> un mateix acte.** **La font no ho explica** i **el corpus no ho resol**:
-> `queda registrat com a observació sobre la forma de l'acte.`
+> **Hi signen dos «Síndics Generals Presidents» alhora**, **i a més un «Síndic
+> Segon»**: **tres síndics en un mateix acte.** **La font no ho explica**, i
+> **el 17-09-2026 ho expliquen les [actes del Consell
+> General](../../../fonts/actes-historiques-consell-general.md)**: **dos
+> síndics són la regla** —el general i el subsíndic, també dit **síndic menor o
+> síndic segon**— i **«a final de segle, i de manera excepcional, hi ha tres
+> síndics».** **Aquest acte del 1894 és un d'aquells casos excepcionals.**
 
 ## Com es presenta Andorra davant del Papa
 
