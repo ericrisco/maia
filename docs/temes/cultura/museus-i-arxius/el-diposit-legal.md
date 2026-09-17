@@ -123,13 +123,70 @@ qui ho té i en quines condicions es pot consultar. Qualsevol projecte que vulgu
 reunir material andorrà hi topa dues vegades —**com a font possible** i **com a
 obligació**, si el que produeix és publicació.
 
+## El reglament que diu com es raspa el web
+
+**El 14 de gener del 2026 el Govern va aprovar el reglament que la llei
+esperava**: el **Decret 100/2026**, «de desenvolupament de determinades qüestions
+previstes a la Llei 15/2025»
+(`docs/raw/lleis/bopa/decret-100-2026-reglament-diposit-legal.txt`). És el
+document que converteix el perímetre digital de la llei en un procediment.
+
+**La captura és per rastreig, i el titular del web l'ha de deixar fer.** L'article
+6 diu que **la Biblioteca Nacional, juntament amb l'Arxiu Nacional, fa les
+activitats de captura** de les publicacions en línia i dels llocs web lliurement
+accessibles al territori d'Andorra, i que per fer-ho **poden valer-se «d'un
+sistema operatiu de raspat d'informació o rastreig web»**. **No és una facultat
+passiva**: qui edita o és titular del lloc **«ha de permetre que la Biblioteca
+Nacional capturi aquests materials»**, i **és la Biblioteca qui decideix els
+procediments de selecció, la captura i la freqüència**.
+
+**El que és de pagament o darrere d'una contrasenya també hi entra.** L'article 7
+regula les publicacions d'accés restringit —subscripció, pagament, qualsevol web o
+secció no lliurement accessible— i preveu dues vies: **els centres de conservació
+poden demanar d'ofici les dades necessàries per capturar-la**, sense sol·licitud
+prèvia de ningú, o **el titular les pot aportar ell mateix**. Entre les dades
+exigides hi ha **les instruccions d'accés**, **les instruccions de reproducció**
+i, literalment, **la clau d'accés, que «ha de constar en la sol·licitud»**.
+L'article 8 hi afegeix que el titular **ha de garantir que la clau estigui
+actualitzada en tot moment** i que les publicacions d'ús limitat en el temps es
+puguin consultar **de forma permanent**. Amb dos límits: **no pot afectar els
+interessos legítims dels titulars de drets ni entrar en conflicte amb
+l'explotació comercial**, i **«en cap cas» pot suposar una càrrega econòmica
+addicional** per a qui edita.
+
+**I hi ha una peça que converteix el domini nacional en un cens.** L'article 11
+faculta la Biblioteca Nacional a **requerir la identificació dels dominis «.ad»
+registrats**, tant a l'entitat que gestiona el registre com a les entitats
+registradores. **El dipòsit legal del web andorrà comença, doncs, per demanar la
+llista de qui hi és.**
+
+**L'exempció parcial té termini i silenci negatiu.** L'article 4 permet demanar
+que s'aporti menys exemplars dels que la llei exigeix; la sol·licitud es presenta
+presencialment o en línia amb **nou dades obligatòries**, i **la Biblioteca
+Nacional resol en un màxim de deu dies hàbils**. **Passat el termini sense
+pronunciament, la sol·licitud s'entén denegada** — silenci negatiu, com és la
+regla general andorrana. La resolució desfavorable és recurrible, i el reglament
+precisa que **qui recorre actua en nom i representació dels altres subjectes
+obligats**.
+
 ## Buits registrats
 
 - **Quant hi ha dipositat**, i des de quan, no consta. La llei és del **2025**;
   el dipòsit legal andorrà és **molt anterior**, i el corpus no en té la
-  història.
-- **La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
-  amb quin abast, no es diu enlloc del text.
+  història. — **`parcial` el 17-09-2026, i la part que es tanca és una via.**
+  **Al [BOPA](../../../fonts/bopa.md) no hi ha cap norma de dipòsit legal
+  anterior a la Llei 15/2025**: la cerca només retorna la llei i el
+  Decret 100/2026. **El número «AND.» és anterior a tota norma** —el mateix
+  Butlletí en porta un, «Dipòsit legal: AND.2-2015»—, de manera que **la
+  pràctica va existir sense llei durant dècades**. `La història, doncs, no és
+  al Butlletí: cal demanar-la a la Biblioteca Nacional.`
+- ~~**La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
+  amb quin abast, no es diu enlloc del text.~~ — **`parcial` el 17-09-2026** a
+  «[El reglament que diu com es raspa el web](#el-reglament-que-diu-com-es-raspa-el-web)»:
+  **l'abast i el mètode sí que consten** —rastreig web per la Biblioteca i
+  l'Arxiu Nacional, accés restringit inclòs, dominis «.ad» identificables—.
+  `El que segueix obert és si s'ha començat de fet: el Butlletí publica la
+  facultat i no l'exercici.`
 - ~~**Les sancions** i el règim d'inspecció no s'han llegit.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/diposit-legal.txt`, articles 30 a 33).
 
