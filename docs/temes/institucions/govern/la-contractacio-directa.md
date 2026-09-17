@@ -188,8 +188,29 @@ un contracte menor andorrà es fa visible**. **Buit registrat.**
 ## Buits registrats
 
 1. **A partir de quin import** un contracte menor passa per la Plataforma de
-   contractació del sector públic. Depèn de la llei de pressupost anual i de les
-   ordinacions; el corpus no en té cap.
+   contractació del sector públic. — **`parcial` el 17-09-2026, i la premissa
+   era mig falsa**: **els imports sí que són a la llei**, llegits al material
+   que el corpus ja tenia (`docs/raw/lleis/contractacio-publica.txt`).
+
+   | | Contracte menor | Urgència (art. 30.c) |
+   | --- | --- | --- |
+   | **Obres** | **menys de 24.000 €** | fins a **40.000 €** |
+   | **Serveis i subministraments** | **menys de 15.000 €** | fins a **25.000 €** |
+
+   **La xifra de la urgència és més alta que la del contracte menor**, i és el
+   que val la pena retenir: **declarar la urgència gairebé duplica el llindar
+   per contractar sense concurrència** —**de 24.000 a 40.000 en obres, de 15.000
+   a 25.000 en serveis.**
+
+   **I els contractes menors tenen tres alleujaments més** (art. 30.4): **només
+   se'ls exigeix la factura a la liquidació** —no els és aplicable l'article
+   23—, **la resolució d'adjudicació només es publica al BOPA si supera
+   l'import de menor**, i **les modificacions, igual.** **Per sota de 15.000
+   euros, un contracte de serveis no deixa rastre públic.**
+
+   `El que segueix obert és la Plataforma mateixa: la llei la regula a l'article
+   129 i no diu a partir de quin import s'hi ha de publicar; això sí que depèn
+   del desplegament.`
 2. **Si la branca d'«encàrrecs» de la lletra g) exigeix declaració expressa**, o
    si només l'exigeix la d'interessos essencials de l'Estat. **Prioritari.**
 3. **Quants contractes s'adjudiquen per cada lletra.** La llei diu què es pot
