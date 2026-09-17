@@ -99,14 +99,80 @@ primer, activitat després.
   [la protecció civil](../../territori/clima-i-muntanya/la-proteccio-civil.md)
   per al que no és físic.
 
+## Els onze títols de la llei de l'economia digital
+
+**La Llei 42/2022 és onze lleis en una**, i el text original del
+[BOPA](../../../fonts/bopa.md) —amb les disposicions que la instantània
+consolidada no porta— ho deixa veure d'un cop
+(`docs/raw/lleis/bopa-originals/original-42-2022.txt`):
+
+| Títol | Què hi ha |
+| --- | --- |
+| **I** | Disposicions generals |
+| **II** | **Zones econòmiques especials** |
+| **III** | Incubadores, acceleradores i clústers |
+| **IV** | **Coliving i coworking**, en sis capítols, amb registre i procediment sancionador propis |
+| **V** | **Nòmades digitals i visats emprenedors** |
+| **VI** | Mesures en matèria laboral |
+| **VII** | **Startups i finançament participatiu**, en cinc capítols |
+| **VIII** | **Entorn controlat de proves o sandbox** |
+| **IX** | Laboratoris d'innovació oberta o living labs |
+| **X** | **Accés obert a documents, informació i dades** |
+| **XI** | **Passarel·la d'intercanvi de dades i documents** |
+
+**Les zones econòmiques especials són àrees geogràfiques delimitades**, poden ser
+**centralitzades o descentralitzades**, hi poden participar entitats privades,
+públiques o mixtes, i **les administra el ministeri encarregat de l'economia**,
+que hi pot designar administradors per sector (articles 3 a 5).
+
+**El títol dels nòmades digitals no crea un règim nou: modifica la llei
+d'immigració.** L'article 42 diu què hi toca: **noves modalitats de residència**
+per a qui treballa sense necessitar una ubicació geogràfica concreta i per a qui
+és escollit per al programa d'emprenedors estrangers; **elimina l'exigència que el
+treballador sense residència cobri més de tres vegades el salari mínim**; i
+**elimina el dipòsit de 50.000 € a l'AFA en el moment de sol·licitar** una
+autorització de residència i treball per compte propi, **quan la societat s'ha
+constituït amb una finalitat d'economia digital, emprenedoria o innovació**. És,
+doncs, **una excepció a [la llei d'immigració del 2012](../immigracio/la-llei-dimmigracio-del-2012.md)
+per raó del sector econòmic**.
+
+**El sandbox té definició legal i autoritat supervisora.** L'article 115 defineix
+**l'«entorn controlat de proves»** com un espai on provar productes, serveis,
+models de negoci o projectes d'economia digital o innovació **de forma
+controlada**, les **«iniciatives»** com allò que s'hi prova, i **l'«autoritat
+supervisora»** com la que ho supervisa **«per raó del sector o de la disciplina a
+la qual pertanyi»** — és a dir, **no n'hi ha una de sola**.
+
+**I la peça que més afecta qui fa corpus és el títol X.** Estableix el règim
+d'**accés i reutilització de documents, informació i dades elaborats o custodiats
+per l'Administració i el sector públic**, amb la finalitat explícita de facilitar
+**«l'adquisició de nous coneixements a través de fonts de dades combinades i en
+grans volums»**. L'article 140.2 hi posa els límits: **règims especials d'accés,
+protecció de dades personals, propietat intel·lectual i industrial, i relacions
+contractuals preexistents**. El títol XI hi afegeix la **Passarel·la d'intercanvi
+de dades**, construïda sobre el **principi «només una vegada»**.
+
+**Una disposició addicional decideix qui mana al domini nacional.** Atribueix a
+**Andorra Telecom, SAU** la gestió del registre dels noms de domini **«.ad»**, la
+condició d'**autoritat d'assignació** i **la participació als òrgans de l'ICANN**,
+i li dona **sis mesos** per proposar al Govern la regulació específica i el preu
+dels serveis.
+
 ## Buits registrats
 
 - **Si les zones econòmiques especials existeixen**, quants nòmades digitals i
   quants visats emprenedors s'han concedit, i si el sandbox s'ha fet servir mai:
   **cap dada al corpus**. La llei és del 2022 i el corpus no en té resultats.
-- **Els 165 articles de la Llei 42/2022 només s'han llegit pel seu article
+- ~~**Els 165 articles de la Llei 42/2022 només s'han llegit pel seu article
   primer.** Cada títol —startups, crowdfunding, dades obertes— demana la seva
-  pròpia lectura.
+  pròpia lectura.~~ — **`parcial` el 17-09-2026** a «[Els onze títols de la llei
+  de l'economia digital](#els-onze-titols-de-la-llei-de-leconomia-digital)»:
+  **recorreguts els onze títols i buidats els de zones econòmiques especials,
+  nòmades digitals, sandbox, dades obertes i passarel·la**, més la disposició
+  addicional del domini «.ad». `Requereix encara el títol IV —coliving i
+  coworking, sis capítols amb registre i règim sancionador propis— i el VII
+  —startups i finançament participatiu, cinc capítols—, que són els dos més
+  llargs.`
 - ~~**Les sancions de protecció de dades** i les competències de l'APDA no s'han
   buidat.~~ — **`resolt` el 17-09-2026**, buidades del text de la **Llei 29/2021**
   que el corpus ja tenia (`docs/raw/lleis/bopa/llei-29-2021-proteccio-dades.txt`).
