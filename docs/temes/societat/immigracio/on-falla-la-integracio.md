@@ -198,10 +198,48 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
    Consell General en la sessió tradicional de Setmana Santa del 20 de març del
    1989.**
 
-   **Però el blob del BOPA d'aquest document porta només l'exposició de motius i
-   una remissió a un «text refós» que no s'ha localitzat**: **els articles 7 i 8
-   no hi són.** **És el primer document en què la via del BOPA no serveix el
-   text**, i queda registrat com a límit conegut.
+   ~~**Però el blob del BOPA d'aquest document porta només l'exposició de motius
+   i una remissió a un «text refós» que no s'ha localitzat**: **els articles 7 i
+   8 no hi són.** **És el primer document en què la via del BOPA no serveix el
+   text.**~~ — **`resolt` el 17-09-2026: el text refós sí que hi és.** És el
+   **Decret legislatiu del 26 d'agost del 2009 de publicació del text refós de la
+   Llei general de sanitat**, publicat l'**1-9-2009**
+   ([evidència](../../../raw/lleis/bopa/decret-legislatiu-2009-text-refos-llei-general-sanitat.txt)),
+   que incorpora la **Llei 1/2009, del 23 de gener**, de modificació. **El límit
+   no era del BOPA sinó de la cerca**: el text refós es publica amb el seu propi
+   títol i no amb el de la llei.
+
+   **Article 7, sencer, que és el que aquesta fitxa necessitava:**
+
+   > «**Tots els andorrans i els ciutadans estrangers que tinguin establerta llur
+   > residència, legal i efectiva, en el Principat** tindran assegurat el dret a
+   > la protecció de la salut i el dret a beneficiar-se de les actuacions, dels
+   > programes de salut pública i de les prestacions d'assistència sanitària.»
+
+   **El dret es lliga a la residència legal i efectiva, no a la nacionalitat ni a
+   la cotització.** I l'**article 8** reparteix qui el paga en tres supòsits:
+
+   | Qui | Com es paga |
+   | --- | --- |
+   | **Protegits per la seguretat social** | Reemborsament segons la normativa de la **CASS** |
+   | **Amb recursos suficients i sense seguretat social**, o que hi renunciïn | **Pagament íntegre** dels serveis rebuts |
+   | **Andorrans i residents legals i efectius sense recursos** ni altra protecció social | **El Govern defineix les condicions amb què ho finança** |
+
+   **I hi ha un quart supòsit dins de la lletra c) que és el que obre la porta a
+   qui no hi viu**: els **pacients no nacionals i no residents en situació
+   sanitària individual d'extrema urgència** que demostrin ser **insolvents i
+   sense cobertura social**.
+
+   **La disposició addicional primera hi afegeix una facultat que no s'ha
+   exercit del tot**: el Govern «podrà, d'acord amb les disponibilitats
+   pressupostàries, **establir la gratuïtat dels serveis d'assistència sanitària
+   per a tota la població andorrana i per als residents** […] que estiguin
+   mancats de cobertura de la Seguretat Social», total o parcial —i si és
+   parcial, l'aportació de qui tingui recursos **no pot ser inferior al tiquet
+   moderador** de la seguretat social.
+
+   `Segueix obert si els articles 7 i 8 s'han reglamentat mai amb un decret
+   propi.`
 
    **El que l'exposició de motius sí que dona, i el corpus no tenia, és la
    genealogia de la matèria.** La norma que la llei del 1989 ve a substituir és
