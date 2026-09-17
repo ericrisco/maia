@@ -289,7 +289,41 @@ d'aquesta fitxa promet per endavant.**
    **El que segueix obert és el que el buit demanava de debò: comparar text amb
    text.**
 5. **Què passava** quan els dos parents pròxims no es posaven d'acord.
-6. La **Llei del notariat de 1996** i què en diu, dels capítols.
+6. ~~La **Llei del notariat de 1996** i què en diu, dels capítols.~~ — **`resolt`
+   el 17-09-2026, i la resposta és que gairebé no en diu res.**
+
+   **La Llei del notariat del 28 de novembre de 1996**
+   (`docs/raw/lleis/bopa/llei-1996-notariat.txt`) **només esmenta el matrimoni
+   una vegada**, i **no per regular els capítols**: **l'article 6.1 exigeix que
+   a tot instrument públic hi consti l'estat civil dels compareixents «i en el
+   seu cas el règim matrimonial».** **El notari els autoritza i els ha
+   d'identificar; el contingut el regula una altra llei.**
+
+   **La que sí que ho fa és la Llei qualificada de la persona i de la família**
+   (`docs/raw/lleis/persona-familia.txt`, **secció novena, articles 109 a 112**),
+   **i el que hi diu és que la institució continua viva i pràcticament
+   il·limitada:**
+
+   > «En capítols matrimonials es pot pactar un règim econòmic matrimonial
+   > diferent del legal supletori, **atorgar pactes successoris, fer donacions i
+   > estipular tot allò que es consideri adient, àdhuc per als supòsits de
+   > ruptura matrimonial**» (article 109.1).
+
+   **Quatre regles que val la pena retenir:**
+
+   | Regla | On |
+   | --- | --- |
+   | **A manca de capítols, el règim és el de separació de béns** | article 102.2 |
+   | **Es poden atorgar i modificar abans o després del casament**; els d'abans **caduquen si el matrimoni no se celebra en un any** | article 109.2 |
+   | **Escriptura pública i inscripció al Registre Civil** | article 110 |
+   | **Es poden modificar en qualsevol moment**, i la modificació **no perjudica tercers de bona fe abans de la inscripció** | articles 112 i 103 |
+
+   **La continuïtat amb el que descriu aquesta fitxa és directa**: **els
+   capítols segueixen sent el vehicle del pacte successori i de les donacions
+   per raó de matrimoni**, i **la llei encara preveu les donacions dels
+   progenitors als fills comuns dins dels capítols** (article 114), **amb
+   presumpció de proporcionalitat al patrimoni de cada donant.** **El que era
+   un costum de casa pairal és avui una secció d'una llei qualificada.**
 
 ## Related
 
