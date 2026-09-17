@@ -218,8 +218,31 @@ ara** — amb datació document a document, del 1176 al 1978.
 - **Quan es va obrir per última vegada** amb les set claus posades.
 - Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
   web i **no consultades**.
-- Quines eren **les sis parròquies històriques** i quan exactament es constitueix
-  Escaldes-Engordany.
+- ~~Quines eren **les sis parròquies històriques** i quan exactament es
+  constitueix Escaldes-Engordany.~~ — **`resolt` el 17-09-2026** des de les
+  [actes històriques del Consell
+  General](../../../fonts/actes-historiques-consell-general.md).
+
+  **Les sis són Canillo, Encamp, Ordino, la Massana, Andorra i Sant Julià de
+  Lòria**, i **no cal deduir-ho: surten nomenades juntes a les actes des del
+  segle XIII**. L'acta de **1289** ja les enumera totes sis amb els seus
+  pròmens, i la de **1455 abril 25** parla de «**jurats i consellers de les sis
+  parròquies d'Andorra**» reunits al cementiri de Sant Esteve.
+
+  **I la data d'Escaldes es confirma amb la prova que la fa irrefutable**:
+
+  > «els membres del Consell **sempre han estat 24, fins que Escaldes-Engordany
+  > va esdevenir parròquia l'any 1978**»
+
+  **Vint-i-quatre són quatre consellers per sis parròquies.** **El nombre de
+  membres del Consell és, ell mateix, la prova de quantes parròquies hi havia**
+  —**i es manté constant des del segle XVII fins al 1978.**
+
+  **La separació no va ser sobtada**: la síntesi registra que entre **1961 i
+  1983** hi va haver diverses juntes de prohoms on es va debatre, entre altres
+  qüestions, **«la separació de les parròquies d'Andorra la Vella i
+  Escaldes-Engordany»**. **El setè pany de l'armari arriba al final d'un debat
+  de quasi vint anys.**
 
 ## Related
 
