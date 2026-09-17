@@ -112,7 +112,15 @@ els horaris, el descans dominical **o el rètol** és infracció (article 8).
 
 - **Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
   consta. Sense això no se sap si el règim de 7-22 h és la regla o l'excepció.
-- **Quantes botigues paguen l'impost de les 24 hores**, tampoc.
+- **Quantes botigues paguen l'impost de les 24 hores**, tampoc. — **`parcial`
+  el 2026-09-18**: **el nombre no consta i l'import sí.** **El pressupost del
+  2026 preveu recaptar 53.951,56 €** pel subconcepte «Sobre activitats que
+  vulguin obrir fins a 24 h»
+  (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`). **És l'impost
+  més petit de tot el pressupost andorrà**: **l'IGI en recapta 3.362 vegades
+  més** ([els tipus impositius](../banca-i-fiscalitat/els-tipus-impositius.md)).
+  **Amb la tarifa a la mà se'n podria deduir el nombre de comerços; el corpus no
+  la té.**
 - ~~**Les sancions** (imports i graduació) són als articles 9 i següents i no
   s'han llegit.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/horaris-comercials.txt`,
   articles 8 a 12), **i la manera de calcular-les no s'assembla a cap altra

@@ -182,6 +182,20 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   dona per categoria i no per raó social, i la sèrie any per any des del 2016,
   que permetria veure si el nombre de llicències creix.`
 - **Quantes persones figuren als registres d'interdicció**, tampoc.
+- **I una xifra nova que el corpus no tenia** —**`resolt` el 2026-09-18**:
+  **què val el joc per a l'Estat.** El pressupost del 2026
+  (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) preveu recaptar:
+
+  | | Pressupost 2026 |
+  | --- | ---: |
+  | Impost sobre el joc d'atzar | **1.768.894,43 €** |
+  | Impost sobre el joc del bingo | **607.625,58 €** |
+  | **Total** | **2.376.520,01 €** |
+
+  **El bingo hi és una figura pròpia i val el 25,6% del total.** **I els dos
+  junts són el 0,6% dels impostos indirectes**
+  ([els tipus impositius](../banca-i-fiscalitat/els-tipus-impositius.md)):
+  **el joc, fiscalment, encara és petit.**
 - ~~**El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
   d'Inspecció** (títol V) queden per llegir.~~ — **`resolt` el 17-09-2026, i
   el que hi ha és un regulador que és el Govern.**
