@@ -284,9 +284,15 @@ i **un segon decret del mateix dia** sobre el **Reglament de l'organització i e
 funcionament del Sistema d'Arxius i de l'Àrea d'Arxius del Govern d'Andorra**.
 Tots dos són **al BOPA i ja a l'evidència del corpus**
 ([evidència](../../../raw/historia-arxiu/README.md)).
-**Localitzar no és llegir**: **cap dels dos no s'ha destil·lat encara**, i per
-tant **el corpus segueix sense saber com s'entra a l'Arxiu Nacional**. És la
-unitat següent d'aquest àmbit.
+~~**Localitzar no és llegir**: cap dels dos no s'ha destil·lat encara, i per tant
+el corpus segueix sense saber com s'entra a l'Arxiu Nacional~~ `resolt` el
+17-09-2026: el **Reglament de l'Arxiu Nacional** s'ha llegit, amb la seva
+modificació del **20 d'abril del 2016**, i el seu capítol tercer és
+[Com s'entra a l'Arxiu Nacional](./com-sentra-a-larxiu-nacional.md). **La regla
+és el lliure accés des de l'entrada del document**, amb cinc excepcions, i
+**cinquanta anys des de la mort** per als papers amb dades personals.
+`Segueix pendent el segon decret, el del Sistema d'Arxius, que és baixat i no
+llegit.`
 
 **I una cosa que la Llei 9/2003 no deia i el BOPA sí.** La **disposició final
 setena de la Llei 20/2017** encarregava al Govern **un projecte de llei que

@@ -200,8 +200,15 @@ general i comuns**— i els posa a disposició de la CNAAD i de l'Arxiu Nacional
 [Llei 9/2003](./trenta-anys-cent-anys-o-cap.md), article 31.2, remet el dret i
 les condicions d'accés al patrimoni documental a «una regulació específica».
 **Ara se sap qui n'estableix els criteris generals d'aplicació** —la CNAAD, per
-l'article 25.1.g)— **i segueix sense saber-se què diu aquella regulació**, ni si
-existeix. `Requereix el reglament d'accés al patrimoni documental.`
+l'article 25.1.g)— ~~i segueix sense saber-se què diu aquella regulació, ni si
+existeix. `Requereix el reglament d'accés al patrimoni documental.`~~ —
+**`resolt` el 17-09-2026: existeix i és anterior a la llei que hi remet.** És el
+**Reglament de l'Arxiu Nacional d'Andorra, del 6 d'abril del 2005**, modificat el
+**20 d'abril del 2016**, i el corpus el té llegit a
+[Com s'entra a l'Arxiu Nacional](./com-sentra-a-larxiu-nacional.md).
+
+`Requereix creuar aquell reglament amb aquesta llei: el reglament és del 2005-2016
+i la Llei 33/2021 és posterior, i el corpus no ha comprovat quin desplaça quin.`
 
 **No s'ha comprovat cap ordinació comunal** que atribueixi a un òrgan específic
 la resolució dels recursos d'accés, com permet l'article 16.2.b). **Set comuns,

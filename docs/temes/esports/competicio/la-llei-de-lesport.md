@@ -193,4 +193,14 @@ ensenya abans que l'aula, no és un detall menor.
   professions digitals**, perquè **la 8/2021 no diu res de tècnics, creadors de
   contingut, comentaristes —*casters*— ni analistes**, i **el marc laboral
   existent «ha quedat obsolet quan parlem d'aquestes professions».**
-  `Requereix saber si aquella llei encomanada es va arribar a fer.`
+  ~~`Requereix saber si aquella llei encomanada es va arribar a fer.`~~ —
+  **`resolt` el 17-09-2026, i la resposta és que no.** Escombrant el
+  [BOPA](../../../fonts/bopa.md), **«professions digitals» surt a dos documents i
+  un és la mateixa Llei 8/2021**. **Cap projecte, cap llei, cap reglament.** Cinc
+  anys i mig després de l'encàrrec, **el marc laboral que la llei declarava
+  obsolet segueix sent l'únic que hi ha.**
+
+  **I una dada que diu més que el buit**: la cadena exacta **«Llei 8/2021» surt a
+  un sol document de tot el Butlletí —el que la publica—**. **Ni una modificació,
+  ni un reglament, ni una citació en cinc anys.** És una llei que el Butlletí no
+  ha tornat a nomenar.

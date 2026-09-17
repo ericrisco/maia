@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1000** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1001** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -194,6 +194,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Abans ho decretava el Govern](temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `bopa-ad` |
+| [Com s'entra a l'Arxiu Nacional](temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `bopa` |
 | [El dipòsit legal](temes/cultura/museus-i-arxius/el-diposit-legal.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El dret de tempteig](temes/cultura/museus-i-arxius/el-dret-de-tempteig.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El registre del que ja no hi és](temes/cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md) | `temes/cultura/museus-i-arxius` | compilada | contemporania | no | `jurisprudencia-ad` |
