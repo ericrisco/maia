@@ -109,6 +109,48 @@ legal en territori andorrà— i a
 **Andorra funciona, en molts àmbits, amb maquinària dels veïns instal·lada a
 dins.**
 
+## Quatre convenis, no un: 1993, 2003, 2013 i 2025
+
+**El conveni del 1993 no és l'únic ni el vigent.** El [BOPA](../../../fonts/bopa.md)
+publica la cadena sencera i els textos són al corpus
+(`docs/raw/societat/ensenyament-frances/`):
+
+| Signat | Publicat | Articles |
+| --- | --- | --- |
+| **19 de març del 1993** | 6-4-1993 | **19** |
+| **24 de setembre del 2003** | 11-5-2004 (proposta de ratificació) | — |
+| **11 de juliol del 2013** | 4-11-2014, aprovat pel Consell General el 9-10-2014 | **31** |
+| **10 de desembre del 2025** | 14-4-2026, ratificat pel Consell General el 19-3-2026 | **37** |
+
+**Cadascun dura deu anys i es renova tàcitament** llevat que una part avisi **sis
+mesos abans del venciment**. El del 2013 expirava l'11 de juliol del 2023 i **va
+trigar dos anys i mig a ser substituït**.
+
+**Els preàmbuls fan la història que el corpus buscava.** Diuen que **el 1900
+s'obren les primeres escoles primàries franceses**, que **fins a la creació del
+sistema educatiu andorrà els sistemes francès i espanyol van constituir
+l'ensenyament nacional públic**, i que **la situació jurídica de les escoles
+franceses es va regular el 1982 amb el Decret sobre les escoles i el Lycée del
+copríncep francès a Andorra**. **El terreny del Lycée Comte de Foix el va cedir
+el Consell General el 1971.**
+
+**Què hi ha guanyat Andorra a cada ronda.** El conveni del 2013 hi va afegir que,
+**en cas d'igualtat entre dos candidats a dirigir una escola, es dona prioritat a
+un director de nacionalitat andorrana**; que **les propostes de formació
+professional del sistema francès s'inscriuen en el pla nacional andorrà «tenint en
+compte la no-concurrència entre sistemes educatius»**; que es poden **lliurar
+certificacions andorranes** per a formacions validades per un diploma francès; i
+que **el delegat de l'Ensenyament Francès queda lligat al rectorat de l'Acadèmia
+de Montpeller**. El del 2025 hi afegeix la peça cara: **el Govern d'Andorra es fa
+càrrec de les despeses de funcionament i equipament de les escoles maternals i
+elementals franceses**, i **un programa de renovació i modernització del Lycée
+Comte de Foix** regulat per un **arranjament administratiu de vuit anys** sota les
+orientacions de la **Comissió Mixta Francoandorrana**.
+
+**El mecanisme que la fitxa descrivia amb el conveni del 1993 no ha canviat de
+naturalesa; ha canviat de preu.** El 1993 Andorra acceptava un servei públic
+prestat segons les regles d'un altre estat. El 2025 el paga.
+
 ## Les xifres, que desmunten el tòpic
 
 > «**Des de quasi mitjan segle, el 40% de la població escolaritzada està inscrita
@@ -179,8 +221,18 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
    2026-09-13**: hi ha dades **onze anys més noves**, del curs **2011-2012**, a
    [el que decideix si un escolar parla català](./el-que-decideix-si-un-escolar-parla-catala.md).
    Segueixen sent de fa catorze anys.
-2. **El decret de 1917** i el de **1982**, textos.
-3. **El conveni de 1993** sencer.
+2. **El decret de 1917** i el de **1982**, textos. — **`parcial` el 17-09-2026**:
+   **cap dels dos no és al [BOPA](../../../fonts/bopa.md)**, que comença el 1989 i
+   no publica decrets del president de la República Francesa. **El del 1982 el
+   nomenen tres convenis successius** —«el Decret sobre les escoles i el Lycée del
+   copríncep francès a Andorra»— i **cap no en reprodueix el text**.
+   `Requereix el Journal officiel de la République française, no el Butlletí.`
+3. ~~**El conveni de 1993** sencer.~~ — **`resolt` el 17-09-2026**: text sencer,
+   dinou articles, a `docs/raw/societat/ensenyament-frances/conveni-1993-04-06.txt`,
+   **i amb ell els tres convenis següents**. Vegeu «[Quatre convenis, no un: 1993,
+   2003, 2013 i 2025](#quatre-convenis-no-un-1993-2003-2013-i-2025)».
+   `El del 24 de setembre del 2003 només consta per la proposta de ratificació
+   del 2004 i pels preàmbuls posteriors; el text no s'ha localitzat.`
 4. **Quantes hores de català** es fan als centres francesos. — **`obert`, amb el
    resultat mesurat.** Les hores segueixen sense constar; el que ara consta és
    **què en surt**: dels alumnes de nacionalitat francesa, **el 66% diu que entén
