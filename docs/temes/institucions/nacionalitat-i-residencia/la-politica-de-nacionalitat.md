@@ -156,7 +156,21 @@ ni al Vaticà.**
   naturalització, extensió, habitants, % migrants i atur per estat. **No s'ha
   pogut extreure del PDF. Buit prioritari** — són les xifres comparades de 2014.
 - **Els prestanoms**: quan comença la pràctica, quina llei la provoca, quan
-  canvia, i si continua. **Buit prioritari.**
+  canvia, i si continua. **Buit prioritari.** — **`parcial` el 17-09-2026 per la
+  banda legal.** **La pràctica segueix sense datar-se, i la prohibició ja té
+  text**: la **Llei 12/2013 del comerç** ([BOPA](../../../fonts/bopa.md),
+  butlletí 32 del 2013), al capítol segon del títol I, **«prohibeix expressament
+  l'exercici del comerç en nom propi però per compte d'un altre que per llei no
+  pot exercir-lo»**
+  ([els horaris comercials](../../economia/comerc/els-horaris-comercials.md)).
+
+  **La formulació diu exactament què era el prestanom**: **no un testaferro
+  qualsevol, sinó un andorrà que exercia el comerç en nom propi per compte de
+  qui la llei n'excloïa** —**l'estranger que no podia ser titular.**
+
+  **I situa el moment legal del canvi el 2013**, `sense que això vulgui dir que
+  la pràctica s'acabés aleshores: una prohibició data la norma, no el
+  comportament.` `Requereix quan comença la pràctica i si continua.`
 - **La llei andorrana de nacionalitat** i els seus terminis, literals. El corpus
   no els té.
 - **Els drets econòmics dels estrangers a Andorra**: quin percentatge de societat
