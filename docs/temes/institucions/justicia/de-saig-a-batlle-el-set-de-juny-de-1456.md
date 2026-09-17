@@ -139,6 +139,48 @@ diferent:**
 > cònsol o conseller.** **La incompatibilitat entre càrrec comunal i judicatura hi és
 > al primer pas del procediment.**
 
+### Una sisena real, del 8 d'octubre de 1718
+
+**Afegit el 17-09-2026** des del **Llibre III d'actes del Consell General**
+([actes](../../../fonts/actes-historiques-consell-general.md)). **El corpus
+tenia el mecanisme descrit per Brutails el 1904 i ara en té un cas assentat, amb
+els sis noms i la cadena sencera.**
+
+**El motiu**: **Bartomeu Calbó, batlle elegit el trienni passat, l'ha acabat.**
+**El trienni del 1456 seguia funcionant dos-cents seixanta-dos anys després.**
+
+**La sisena, un per parròquia, i totes sis hi són:**
+
+| Parròquia | Candidat |
+| --- | --- |
+| **Canillo** | Miquel Calbó, Soldevila |
+| **Encamp** | Joan Naudí, Moretó |
+| **Ordino** | Jacint Jovany, Sucarà |
+| **La Massana** | Pere Antoni Torres, Giberga |
+| **Andorra** | Miquel Riberaygua |
+| **Sant Julià** | Bernat Rossell, Mas de Lins |
+
+**I el que passa després, pas per pas:**
+
+1. **El Consell nomena Esteve Naudí per portar la sisena al veguer de França**
+   perquè n'elegeixi un, **i li mana portar-la «demà mateix».**
+2. **La provisió o elecció torna en mans del síndic**, que **la condueix als
+   cònsols de la parròquia on visqui el batlle elegit.**
+3. **Aquells cònsols avisen el notari** perquè n'aixequi acte, i **li prenen
+   jurament ells i els consellers de la seva parròquia.**
+
+**El batlle no jura davant de qui el nomena: jura davant del seu comú.** **El
+copríncep tria i la parròquia rep.**
+
+**I la fórmula del jurament hi és**, cosa que el corpus no tenia per a cap ofici
+de justícia: **jurar «de haver-se bé y llealment en son offici y que observarà
+los privilegis, usos, consuetuts, statuts y pragmàticas si y conforme los
+antecessors batlles han observat»**.
+
+**Com el dels veguers** ([el veguer de França va corregir el
+llibre](../coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md)), **el
+jurament no remet a un text sinó al que van fer els predecessors.**
+
 ### La sisena com a presa de possessió
 
 > **Quan un bisbe va per primera vegada a Andorra, quan un veguer de França es fa
