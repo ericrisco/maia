@@ -268,19 +268,67 @@ està malament és precisament la de la signatura dels coprínceps.**
 publicació al BOPA** (disposició final), **és a dir el 3 de maig del 1993** —
 signada a Casa de la Vall el 28 d'abril, cinc dies abans.
 
-**No consta la data de publicació al BOPA**, i **és la data d'entrada en vigor**
+~~**No consta la data de publicació al BOPA**, i **és la data d'entrada en vigor**
 per la disposició final. La fitxa pot dir quan es va signar —**28 d'abril de
-1993**— i **no quan va entrar en vigor**.
+1993**— i **no quan va entrar en vigor**.~~ — **`resolt`, i el corpus ja la
+tenia**: **el text que aquesta fitxa llegeix és el del
+[BOPA](../../../fonts/bopa.md) número 24, del 3 de maig del 1993**
+(`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`), **que és justament la data
+que el paràgraf anterior dona.** **La fitxa es contradeia amb ella mateixa**:
+**signada el 28 d'abril, publicada i en vigor el 3 de maig del 1993.**
+
+**Es corregeix el 17-09-2026**, i **és el quart cas d'una entrada que el cos ja
+havia tancat i la llista mantenia oberta.**
 
 **Els títols II (drets i llibertats, articles 4 a 42), IV (Consell General), V
 (Govern), VI (estructura territorial), VII (Justícia) i VIII (Tribunal
 Constitucional) no es destil·len aquí.** Són sis títols i vuitanta articles.
 
-**No s'ha comprovat si el tractat trilateral de la disposició addicional primera
+~~**No s'ha comprovat si el tractat trilateral de la disposició addicional primera
 es va arribar a signar.** El corpus té
 [el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
-i **no té aquell tractat**. `Requereix cercar un tractat trilateral
-Andorra-Espanya-França posterior al 1993.`
+i **no té aquell tractat**.~~ — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**: **es va signar, i molt de pressa.**
+
+**És el *Tractat de bon veïnatge, d'amistat i de cooperació entre el Principat
+d'Andorra, la República francesa i el Regne d'Espanya*, del 3 de juny de
+1993**, publicat el **20 de juliol de 1993** i **aprovat pel Consell General el
+4 de novembre del mateix any**
+(`docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt` i `-1993-11-28.txt`).
+**Un mes just després que la Constitució entrés en vigor**: el 3 de maig la Constitució, el 3 de juny el tractat.
+
+**L'article primer és d'una sola frase i és el que el país esperava des de feia
+set-cents anys:**
+
+> «**La República francesa i el Regne d'Espanya reconeixen el Principat
+> d'Andorra com a Estat sobirà.**»
+
+**I el que ve després diu què costava aquell reconeixement.** **L'article 5è és
+el compromís que Andorra dona a canvi:**
+
+> «El Principat d'Andorra es compromet a **no emprendre, ja sigui des del seu
+> territori o en el seu territori, res que pugui atemptar contra la seguretat
+> interior i exterior de la República francesa o del Regne d'Espanya** o contra
+> els seus compromisos internacionals en aquest àmbit.»
+
+**La garantia és recíproca però no simètrica.** **França i Espanya «respecten la
+sobirania i la independència» i es comprometen, en cas de violació o amenaça, a
+fer consultes «entre ells i amb el Govern andorrà»** (article 3r). **Les
+consultes són entre tots tres; la decisió sobre què cal fer, no ho diu.**
+
+**I hi ha dos articles que dibuixen un estat que encara no es podia representar
+sol** (articles 6è i 7è): **si Andorra no assegura la seva protecció diplomàtica
+en un estat tercer, la demana a França o a Espanya**, **«segons un principi
+d'equilibri» entre les dues**; i **on no tingui consolat, els andorrans poden
+acollir-se a la protecció consular dels dos veïns.** **La paritat medieval del
+Coprincipat traduïda a dret internacional del segle XX.**
+
+**L'article 4t és el que encara opera avui**: es comprometen a vetllar pels
+interessos mutus **«fins i tot respecte als compromisos contrets per la
+República francesa i el Regne d'Espanya en el marc de la Comunitat Europea»**, i
+preveu **acords específics bilaterals o trilaterals** per a l'adhesió d'Andorra
+a convenis europeus
+([l'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)).
 
 **No s'ha comprovat cap aplicació dels articles 45.2 i 45.3.** El corpus **no sap
 si un copríncep ha adreçat mai un missatge raonat al Tribunal Constitucional dins
