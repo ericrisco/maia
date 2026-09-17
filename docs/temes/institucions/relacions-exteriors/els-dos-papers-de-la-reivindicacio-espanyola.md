@@ -212,10 +212,55 @@ llegir París:**
 
 ## Buits registrats
 
-1. **Les dues provisions reials, senceres**: **1 de juny de 1335** i **27 de
-   setembre de 1391.** **Prioritari.** **La font les cita per sostenir que no
-   proven res i no les reprodueix**, i **són la base documental de la franquícia
-   duanera andorrana a Espanya.** `Requereix l'Arxiu de la Corona d'Aragó.`
+1. **Les dues provisions reials, senceres**: ~~**1 de juny de 1335**~~ i **27 de
+   setembre de 1391.** — **La primera, `resolta` el 17-09-2026; la segona
+   segueix oberta.** **I el que hi diu no és el que aquesta fitxa deia que hi
+   deia.**
+
+   **On era.** **No a l'Arxiu de la Corona d'Aragó**, que és on el buit deia que
+   calia anar: **a Andorra**, **ANA, ASC, pergamí núm. 1.470**, amb **un trasllat
+   del 21 de juny de 1552** al pergamí 1.042, **publicada dins les [actes
+   històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md)**. **El corpus
+   n'ha tingut el text llatí sencer sense sortir del país.**
+
+   **Què hi diu.** **L'infant Pere, fill de Jaume II, comte d'Empúries i
+   Ribagorça**, actuant **«tenentes et possidentes dominacionem et
+   iurisdiccionem altam et bassam vallium de Andorre»** —**la jurisdicció alta i
+   baixa de les Valls, abans pertanyent al comte de Foix**—, **lloa, aprova,
+   ratifica i confirma** a **Arnau Babot, d'Ordino, Miró de Vila i Pere de
+   l'Areny, d'Encamp**, en nom de totes les Valls:
+
+   > «**omnia privilegia, franchisia et bonos usus** dictis Vallibus […]
+   > **hactenus datas et concessas per nobiles et egregios comites Fuxenses**
+   > temporibus quibus ipsi comites dictas Valles dominabantur et regebant»
+
+   I **mana als veguers, batlles i altres oficials** que ho tinguin per ferm,
+   **jurant-ho sobre els evangelis amb les mans**.
+
+   **El que NO hi diu.** **La paraula duana no hi surt.** **Ni drets, ni
+   mercaderies, ni productes de les Valls.** **És una confirmació general de
+   privilegis, franquícies i bons usos, no una exempció duanera.**
+
+   **Aquesta fitxa atribuïa a Vilar que la provisió «prohibeix percebre drets de
+   duana sobre els productes de les Valls».** **Amb el text al davant, això no
+   és el que la provisió fa.** **La lectura duanera pot venir del mot
+   *franchisia*** —franquícies—, **que en llatí medieval és genèric i no vol dir
+   duana.** **El corpus no esmena Vilar**: **registra que el document que ell
+   resumeix diu una altra cosa, i deixa el resum com a seu.**
+
+   **I la data tampoc és pacífica**: **el pergamí diu «kalendas iunii, anno
+   Domini Mº CCCº tricesimo quinto»** —**1 de juny de 1335**—, i **el
+   *Diplomatari* de Baiges i Fages el publica amb data de 1334** *(doc. 23, p.
+   57-59)*. **Divergència registrada, no arbitrada.**
+
+   **El gruix del que aquesta provisió prova és, doncs, el contrari del que se'n
+   volia treure**: **el títol pel qual l'infant Pere signa és el del comte de
+   Foix**, i **el que confirma són els privilegis que els comtes de Foix havien
+   donat.** **És un document que, per poder dir alguna cosa d'Andorra, ha de
+   nomenar Foix tres vegades.**
+
+   `Requereix encara la provisió del 27 de setembre de 1391.`
 2. **Les confirmacions dels reis de Castella i dels Borbons** d'aquelles dues
    provisions. **La font les menciona en bloc, sense data ni nombre.**
 3. **Si algú ha buscat a l'Arxiu de la Corona d'Aragó després del 1904.** **La

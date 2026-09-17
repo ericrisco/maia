@@ -206,12 +206,18 @@ francès per escrit**.
 6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
    de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.
 7. **Les dues provisions reials en què descansava la reivindicació espanyola**
-   —**1 de juny de 1335 i 27 de setembre de 1391**—, **senceres.** `Nou el
-   17-09-2026.` **La mateixa font declara que va buscar a l'Arxiu de la Corona
-   d'Aragó i que no hi ha res més**, i **les dues provisions només prohibeixen
-   cobrar duana sobre els productes de les Valls**
+   —~~**1 de juny de 1335**~~ **i 27 de setembre de 1391**—, **senceres.** —
+   **la del 1335, `resolta` el mateix 17-09-2026 que es va obrir**, **i no era a
+   l'Arxiu de la Corona d'Aragó sinó a l'Arxiu Nacional d'Andorra**: **pergamí
+   ASC 1.470**, text llatí sencer, dins les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md).
+
+   **I no prohibeix cobrar duana**: **confirma «privilegia, franchisia et bonos
+   usus» concedits pels comtes de Foix**, sense anomenar cap dret ni cap
+   mercaderia
    ([els dos papers de la reivindicació
    espanyola](./els-dos-papers-de-la-reivindicacio-espanyola.md)).
+   `Requereix encara la del 1391.`
 
 ## Related
 
