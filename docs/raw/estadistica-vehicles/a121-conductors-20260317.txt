@@ -1,0 +1,548 @@
+                                 A121. Estadística de conductors. Any 2025
+                                   Data de publicació: dimarts, 17/03/2026
+                                             www.estadistica.ad
+
+         Resum
+
+         El nombre de persones amb permís de conduir a 31 de desembre de 2025 és de 57.657, amb
+         una variació anual positiva del 0,9%. El nombre de categories vigents ha estat de 207.642,
+         dada que representa una variació percentual negativa de l’1,6% respecte a l’any anterior.
+
+         El nombre de dones amb permís de conduir disminueix un 0,1% (24.390 dones, fet que suposa
+         un 42,3% del total) mentre que el nombre d’homes amb permís augmenta un 1,6% (33.267
+         homes, que representen un 57,7%).
+
+         Pel que fa a l’edat de les persones amb permís, el grup amb dades significatives que augmenta
+         més és el de majors de 60 anys (+354 permisos) amb un +2,8%. Els grups de persones amb
+         permís, per edat, que més disminueixen en valor absolut són el de 40-49 anys (-246 persones
+         respecte a l’any anterior), el de 16-17 anys amb 62 persones menys respecte a l’any 2024 i el
+         de 18-19 anys amb una disminució de 9 persones respecte a l’any anterior.
+
+         El nombre mitjà de categories per permís és de 3,60 i aproximadament 3 de cada 4 persones
+         majors d’edat posseeixen permís de conduir (75,2%). El percentatge d’homes majors d’edat
+         amb permís és del 82,4%, mentre que per les dones és del 66,2%.
+
+
+
+
+NP_A121_20260317                                                                                     Pàgina 1 de 10
+                                            A121. Estadística de conductors. Any 2025
+
+
+
+
+        Índex
+
+        1.   Nombre de persones amb permís de conduir i categories ................................................... 3
+        2.   Nombre de persones amb permís de conduir i categories segons el sexe .......................... 4
+        3.   Nombre de persones amb permís de conduir segons l’edat ................................................ 6
+        4.   Nombre de permisos que s'han expedit i que han expirat durant l'any ................................ 7
+        5.   Ràtios .................................................................................................................................... 8
+        6.   Nota metodològica................................................................................................................. 9
+        7.   Dates de les publicacions previstes .................................................................................... 10
+
+
+
+
+NP_A121_20260317                                                                                                                                        Pàgina 2 de 10
+                                         A121. Estadística de conductors. Any 2025
+
+
+        1. Nombre de persones amb permís de conduir i categories
+
+        El nombre de persones amb permís de conduir és de 57.657, amb una variació anual positiva
+        del 0,9%. El nombre de categories vigents en l’any 2025 ha estat de 207.642, fet que suposa
+        una variació percentual negativa de l’1,6% (-3.320 categories) respecte a l’any anterior. La
+        categoria més nombrosa del 2025 és la B, que inclou els permisos de les categories B i B1,
+        amb 58.405, i que creix un 0,5% respecte a l’any 2024, seguida de l’AM, que inclou els
+        permisos de les categories AM i LC amb 52.112, i que decreix un 2,5% respecte a l’any 2024 i
+        de l’A1 amb 43.346, que també decreix un 2,5% respecte a l’any anterior.
+
+
+              Nombre de permisos per                                                                           Variació       Variació
+                                                Any 2021    Any 2022     Any 2023    Any 2024     Any 2025
+              categoria                                                                                            abs.    2024 / 2025
+              Categoria A1                         45.351      45.015       44.750      44.439       43.346       -1.093         -2,5%
+              Categoria A2                         15.035      15.403       15.630      15.848       15.900           52          0,3%
+              Categoria A                          13.446      13.783       14.171      14.358       14.313          -45         -0,3%
+              Categoria B                          54.143      55.450       56.884      58.115       58.405          290          0,5%
+              Categoria BE                          4.181       4.231        4.287       4.265        4.203          -62         -1,5%
+              Categoria B2                          3.581       3.590        3.527       3.399        3.132         -267         -7,9%
+              Categoria B2E                         2.233       2.171        2.113       2.018        1.860         -158         -7,8%
+              Categoria C1                          2.923       2.928        2.926       2.905        2.774         -131         -4,5%
+              Categoria C1E                         2.074       2.012        1.968       1.898        1.805          -93         -4,9%
+              Categoria C                           2.928       2.877        2.824       2.743        2.610         -133         -4,8%
+              Categoria CE                          2.087       2.039        1.991       1.903        1.793         -110         -5,8%
+              Categoria D1                          1.432       1.431        1.500       1.508        1.462          -46         -3,1%
+              Categoria D1E                         1.241       1.215        1.194       1.157        1.096          -61         -5,3%
+              Categoria D                           1.424       1.399        1.458       1.441        1.397          -44         -3,1%
+              Categoria DE                          1.239       1.210        1.192       1.151        1.078          -73         -6,3%
+              Categoria J                             456         451          371         363          356           -7         -1,9%
+              Categoria AM                         54.124      53.953       53.755      53.451       52.112       -1.339         -2,5%
+              Total categories                   207.898      209.158     210.541      210.962     207.642        -3.320         -1,6%
+              Total persones amb permís            53.328      54.344       55.766      57.141       57.657         516           0,9%
+              Nota: la categoria B inclou permisos B i B1, la categoria A inclou els permisos A i A3, la categoria AM inclou els permisos
+              AM i LC, la categoria BE inclou els permisos BE i B1E, la categoria C inclou els permisos C i C2, la categoria CE inclou
+              els permisos CE i C2E, la categoria D inclou els permisos D i D2 i la categoria DE inclou els permisos DE i D2E.
+
+
+
+
+NP_A121_20260317                                                                                                                            Pàgina 3 de 10
+                                         A121. Estadística de conductors. Any 2025
+
+
+        2. Nombre de persones amb permís de conduir i categories segons el sexe
+
+        L’any 2025, el nombre de dones amb permís de conduir ha disminuït un 0,1% (-20 dones),
+        mentre que el nombre d’homes ha augmentat un 1,6% (+536 homes) respecte a l’any anterior.
+        Els homes amb permís posseeixen un nombre de categories superior al de les dones amb
+        permís, derivant això en una ràtio de 4,19 categories per carnet en els homes i de 2,80 en les
+        dones. La diferència més gran es troba en les categories que autoritzen a conduir vehicles de
+        transport de mercaderies i de viatgers, més enllà dels turismes convencionals fins a nou
+        passatgers (categories BE en endavant, a excepció de la categoria AM). Les categories B, AM,
+        A1 i J són les més paritàries.
+
+
+              Nombre de categories per                                                                         Variació       Variació
+                                                Any 2021    Any 2022     Any 2023    Any 2024     Any 2025
+              sexe (dones)                                                                                         abs.    2024 / 2025
+              Categoria A1                         18.804      18.509       18.267      17.981      17.316         -665          -3,7%
+              Categoria A2                          1.791       1.842        1.858       1.868       1.867           -1          -0,1%
+              Categoria A                           1.442       1.483        1.519       1.529       1.518          -11          -0,7%
+              Categoria B                          23.465      23.919       24.335      24.740      24.667          -73          -0,3%
+              Categoria BE                            238         256          269         280         288            8           2,9%
+              Categoria B2                            210         216          217         221         221            0           0,0%
+              Categoria B2E                            58          59           55          55          56            1           1,8%
+              Categoria C1                             83          88           90         106         108            2           1,9%
+              Categoria C1E                            34          35           35          39          43            4          10,3%
+              Categoria C                              80          84           84          87          91            4           4,6%
+              Categoria CE                             32          33           33          35          40            5          14,3%
+              Categoria D1                             35          40           46          47          52            5          10,6%
+              Categoria D1E                            20          23           21          21          21            0           0,0%
+              Categoria D                              35          36           41          44          45            1           2,3%
+              Categoria DE                             20          21           20          21          21            0           0,0%
+              Categoria J                             203         179          145         149         140           -9          -6,0%
+              Categoria AM                         23.362      23.072       22.802      22.509      21.724         -785          -3,5%
+              Total categories                     69.912      69.895       69.837      69.732      68.218       -1.514          -2,2%
+              Dones amb permís                     23.209      23.548       23.955      24.410      24.390           -20         -0,1%
+              Nota: la categoria B inclou permisos B i B1, la categoria A inclou els permisos A i A3, la categoria AM inclou els permisos
+              AM i LC, la categoria BE inclou els permisos BE i B1E, la categoria C inclou els permisos C i C2, la categoria CE inclou
+              els permisos CE i C2E, la categoria D inclou els permisos D i D2 i la categoria DE inclou els permisos DE i D2E.
+
+
+
+
+              Nombre de categories per                                                                         Variació       Variació
+                                                Any 2021    Any 2022     Any 2023    Any 2024    Any 2025
+              sexe (homes)                                                                                         abs.    2024 / 2025
+              Categoria A1                         26.547      26.506      26.483       26.458      26.030         -428          -1,6%
+              Categoria A2                         13.244      13.561      13.772       13.980      14.033           53           0,4%
+              Categoria A                          12.004      12.300      12.652       12.829      12.795          -34          -0,3%
+              Categoria B                          30.678      31.531      32.549       33.375      33.738          363           1,1%
+              Categoria BE                          3.943       3.975       4.018        3.985       3.915          -70          -1,8%
+              Categoria B2                          3.371       3.374       3.310        3.178       2.911         -267          -8,4%
+              Categoria B2E                         2.175       2.112       2.058        1.963       1.804         -159          -8,1%
+              Categoria C1                          2.840       2.840       2.836        2.799       2.666         -133          -4,8%
+              Categoria C1E                         2.040       1.977       1.933        1.859       1.762          -97          -5,2%
+              Categoria C                           2.848       2.793       2.740        2.656       2.519         -137          -5,2%
+              Categoria CE                          2.055       2.006       1.958        1.868       1.753         -115          -6,2%
+              Categoria D1                          1.397       1.391       1.454        1.461       1.410          -51          -3,5%
+              Categoria D1E                         1.221       1.192       1.173        1.136       1.075          -61          -5,4%
+              Categoria D                           1.389       1.363       1.417        1.397       1.352          -45          -3,2%
+              Categoria DE                          1.219       1.189       1.172        1.130       1.057          -73          -6,5%
+              Categoria J                             253         272         226          214         216            2           0,9%
+              Categoria AM                         30.762      30.881      30.953       30.942      30.388         -554          -1,8%
+              Total categories                   137.986      139.263     140.704      141.230     139.424       -1.806          -1,3%
+              Homes amb permís                     30.119      30.796      31.811       32.731      33.267          536           1,6%
+              Nota: la categoria B inclou permisos B i B1, la categoria A inclou els permisos A i A3, la categoria AM inclou els permisos
+              AM i LC, la categoria BE inclou els permisos BE i B1E, la categoria C inclou els permisos C i C2, la categoria CE inclou
+              els permisos CE i C2E, la categoria D inclou els permisos D i D2 i la categoria DE inclou els permisos DE i D2E.
+
+
+
+
+NP_A121_20260317                                                                                                                            Pàgina 4 de 10
+                                           A121. Estadística de conductors. Any 2025
+
+
+
+                                     Nombre de persones amb permís de conduir per sexe
+                                        Any 2021    Any 2022      Any 2023     Any 2024   Any 2025
+        35.000
+
+        30.000
+
+        25.000
+
+        20.000
+
+        15.000
+
+        10.000
+
+         5.000
+
+            0
+                                      Homes amb permís                                                  Dones amb permís
+
+
+
+
+                                        Distribució de les categories de permisos per sexe
+                                                                  Homes              Dones
+
+            Categoria AM                                  58,3%                                                  41,7%
+                 Categoria J                                60,7%                                                 39,3%
+            Categoria DE                                     98,1%                                                                          1,9%
+             Categoria D                                     96,8%                                                                          3,2%
+           Categoria D1E                                       98,1%                                                                        1,9%
+            Categoria D1                                     96,4%                                                                          3,6%
+            Categoria CE                                       97,8%                                                                        2,2%
+             Categoria C                                     96,5%                                                                          3,5%
+           Categoria C1E                                       97,6%                                                                        2,4%
+            Categoria C1                                       96,1%                                                                        3,9%
+           Categoria B2E                                       97,0%                                                                        3,0%
+
+            Categoria B2                                    92,9%                                                                    7,1%
+            Categoria BE                                     93,1%                                                                   6,9%
+             Categoria B                                  57,8%                                                  42,2%
+             Categoria A                                     89,4%                                                                10,6%
+            Categoria A2                                     88,3%                                                                11,7%
+            Categoria A1                                  60,1%                                                   39,9%
+
+
+
+
+                               Evolució de les persones amb permís de conduir per sexe
+
+                          % d'homes amb permís / total persones amb permís            % de dones amb permís / total persones amb permís
+
+
+                                                                                                      57,3%                      57,7%
+                     56,5%                    56,7%                          57,0%
+
+
+
+
+                     43,5%                    43,3%                          43,0%                    42,7%                      42,3%
+
+
+
+                    Any 2021                 Any 2022                     Any 2023                   Any 2024                  Any 2025
+
+
+
+
+NP_A121_20260317                                                                                                                                   Pàgina 5 de 10
+                                            A121. Estadística de conductors. Any 2025
+
+
+        3. Nombre de persones amb permís de conduir segons l’edat
+
+
+                  Nombre de persones amb                                                                                    Variació        Variació
+                                                  Any 2021         Any 2022      Any 2023    Any 2024        Any 2025
+                  permís per grups d'edat                                                                                       abs.     2024 / 2025
+                  14-15 anys                               11            13            12           11             13              2            18,2%
+                  16-17 anys                              532           501           448          443            381            -62           -14,0%
+                  18-19 anys                              993           978           986          977            968             -9            -0,9%
+                  20-29 anys                            7.122         7.235         7.386        7.558          7.631             73             1,0%
+                  30-39 anys                            9.389         9.438         9.688       10.034         10.251            217             2,2%
+                  40-49 anys                           12.458        12.398        12.371       12.253         12.007           -246            -2,0%
+                  50-60 anys                           12.362        12.763        13.151       13.416         13.603            187             1,4%
+                  Més de 60 anys                       10.461        11.018        11.724       12.449         12.803            354             2,8%
+                  Total persones amb permís            53.328        54.344        55.766       57.141         57.657            516             0,9%
+                  Total categories                    207.898       209.158       210.541      210.962        207.642         -3.320            -1,6%
+
+
+
+
+                                   Nombre de persones amb permís de conduir per grups d'edat
+                                              Any 2021      Any 2022       Any 2023      Any 2024     Any 2025
+
+         16.000
+
+         14.000
+
+         12.000
+
+         10.000
+
+          8.000
+
+          6.000
+
+          4.000
+
+          2.000
+
+             0
+                     14-15 anys      16-17 anys       18-19 anys        20-29 anys       30-39 anys         40-49 anys      50-60 anys     Més de 60 anys
+
+
+
+
+                                  Nombre de persones amb permís de conduir per sexe i edat. Any 2025
+                                                                         Homes              Dones
+
+           +90
+          85-89
+          80-84
+          75-79
+          70-74
+          65-69
+          60-64
+          55-59
+          50-54
+          45-49
+          40-44
+          35-39
+          30-34
+          25-29
+          20-24
+          15-19
+          10-14
+              4.000           3.000           2.000             1.000                0              1.000           2.000              3.000            4.000
+
+
+
+
+NP_A121_20260317                                                                                                                                                Pàgina 6 de 10
+                                     A121. Estadística de conductors. Any 2025
+
+
+        4. Nombre de permisos que s'han expedit i que han expirat durant l'any
+
+        El nombre de permisos nous expedits durant l’any 2025, segons la categoria del permís, ha
+        estat de 15.590 amb una variació anual del -18,4% (3.522 categories menys que a l’any
+        anterior).
+
+
+              Nombre de nous permisos                                                              Variació      Variació
+                                            Any 2021   Any 2022   Any 2023   Any 2024   Any 2025
+              expedits durant l'any                                                                    abs.   2024 / 2025
+              Categoria A1                     1.635        865        739        715        892        177        24,8%
+              Categoria A2                       709        758        520        529        694        165        31,2%
+              Categoria A                        689      1.272      2.332      1.955      1.492       -463       -23,7%
+              Categoria B                      2.892      4.558      7.789      7.184      6.019     -1.165       -16,2%
+              Categoria BE                       194        321        693        603        437       -166       -27,5%
+              Categoria B2                       179        181        119         75         63        -12       -16,0%
+              Categoria B2E                       83         45         41         23         38         15        65,2%
+              Categoria C1                       142        140        131        145        136         -9        -6,2%
+              Categoria C1E                       76         39         45         41         85         44       107,3%
+              Categoria C                        192        294        721        678        433       -245       -36,1%
+              Categoria CE                       111        208        517        486        290       -196       -40,3%
+              Categoria D1                        30         59        117         70         64         -6        -8,6%
+              Categoria D1E                       22         27         19         18         25          7        38,9%
+              Categoria D                         49        149        456        381        223       -158       -41,5%
+              Categoria DE                        39        127        326        320        155       -165       -51,6%
+              Categoria J                        342        306        254        269        238        -31       -11,5%
+              Categoria AM                     2.644      3.080      6.140      5.620      4.306     -1.314       -23,4%
+              Total categories                10.028     12.429     20.959     19.112     15.590     -3.522       -18,4%
+
+
+
+        Quant al nombre de permisos expirats durant l’any 2025, segons la categoria del permís, ha
+        estat de 18.910 amb una variació anual positiva de l’1,2% (219 categories més que a l’any
+        anterior).
+
+              Nombre de permisos expirats                                                          Variació      Variació
+                                            Any 2021   Any 2022   Any 2023   Any 2024   Any 2025
+              durant l'any                                                                             abs.   2024 / 2025
+              Categoria A1                     1.047      1.201      1.004      1.026      1.985       959        93,5%
+              Categoria A2                       331        390        293        311        642       331       106,4%
+              Categoria A                        355        935      1.944      1.768      1.537      -231       -13,1%
+              Categoria B                      1.488      3.251      6.355      5.953      5.729      -224        -3,8%
+              Categoria BE                       118        271        637        625        499      -126       -20,2%
+              Categoria B2                       173        172        182        203        330       127        62,6%
+              Categoria B2E                      100        107         99        118        196        78        66,1%
+              Categoria C1                       123        135        133        166        267       101        60,8%
+              Categoria C1E                       94        101         89        111        178        67        60,4%
+              Categoria C                        151        345        774        759        566      -193       -25,4%
+              Categoria CE                       113        256        565        574        400      -174       -30,3%
+              Categoria D1                        58         60         48         62        110        48        77,4%
+              Categoria D1E                       50         53         40         55         86        31        56,4%
+              Categoria D                         68        174        397        398        267      -131       -32,9%
+              Categoria DE                        59        156        344        361        228      -133       -36,8%
+              Categoria J                        278        311        334        277        245       -32       -11,6%
+              Categoria AM                     1.487      3.251      6.338      5.924      5.645      -279        -4,7%
+              Total categories                 6.093     11.169     19.576     18.691     18.910       219         1,2%
+
+
+
+
+NP_A121_20260317                                                                                                            Pàgina 7 de 10
+                                              A121. Estadística de conductors. Any 2025
+
+
+        5. Ràtios
+
+        La ràtio de nombre de categories per permís segueix, en els darrers quatre anys, una tendència
+        negativa que s’explica, principalment, pel fet que el nombre de persones amb permís de
+        conduir augmenta a un major ritme que el nombre total de categories. El nombre mitjà de
+        categories per permís és de 3,60 per a l’any 2025. El nombre de categories per a les persones
+        majors de 14 anys (edat en què legalment ja es pot obtenir permís) és de 2,58 i
+        aproximadament 3 de cada 4 persones majors d’edat posseeixen permís de conduir (75,2%). El
+        percentatge d’homes majors d’edat amb permís és del 82,4%, mentre que per les dones és del
+        66,2%.
+
+                                                                                                                                    Variació       Variació
+         Ràtios                                                          Any 2021 Any 2022 Any 2023 Any 2024 Any 2025
+                                                                                                                                        abs.    2024 / 2025
+         Total categories                                                 207.898      209.158    210.541    210.962     207.642      -3.320         -1,6%
+         Total persones amb permís                                         53.328       54.344     55.766     57.141      57.657         516          0,9%
+         Persones amb categoria B                                          54.143       55.450     56.884     58.115      58.405         290          0,5%
+         Població de 14 anys o més                                         70.138       72.413     76.027     78.195      80.349       2.154          2,8%
+         Població de 18 anys o més                                         66.896       69.022     72.544     74.601      76.691       2.090          2,8%
+         Nombre de categories per permís                                     3,90         3,85       3,78       3,69        3,60       -0,09         -2,5%
+         Nombre de categories per persones de 14 anys o més                  2,96         2,89       2,77       2,70        2,58       -0,11         -4,2%
+         Nombre de categories B per persones de 18 anys o més                0,81         0,80       0,78       0,78        0,76       -0,02         -2,6%
+         % de persones majors d'edat amb permís                            79,7%        78,7%      76,9%      76,6%       75,2%        -0,01         -1,8%
+         % d'homes majors d'edat amb permís                                87,1%        85,7%      84,0%      83,7%       82,4%        -0,01         -1,5%
+         % de dones majors d'edat amb permís                               70,3%        69,8%      67,9%      67,7%       66,2%        -0,01         -2,2%
+         % d'homes amb permís / total persones amb permís                  56,5%        56,7%      57,0%      57,3%       57,7%         0,00          0,7%
+         % de dones amb permís / total persones amb permís                 43,5%        43,3%      43,0%      42,7%       42,3%         0,00         -1,0%
+
+
+
+
+                                            Ràtios de les categories dels permisos de conduir
+                        Categories per permís                Categories per persones >= 14 anys             Categories B per persones >= 18 anys
+
+
+                       3,90                        3,85                         3,78                        3,69                       3,60
+
+                       2,96                        2,89                         2,77                        2,70
+
+
+                                                                                                                                       2,58
+
+
+                       0,81                        0,80                         0,78                        0,78                       0,76
+
+
+
+
+                     Any 2021                    Any 2022                    Any 2023                   Any 2024                     Any 2025
+
+
+
+
+                                              % de la població que disposa de permís de conduir
+                               % de persones majors d'edat                 % d'homes majors d'edat                  % de dones majors d'edat
+
+
+
+
+                     87,1%
+                                                  85,7%
+                                                                               84,0%                        83,7%
+                                                                                                                                       82,4%
+                     79,7%                        78,7%
+                                                                               76,9%                        76,6%
+                                                                                                                                        75,2%
+                     70,3%                        69,8%
+                                                                               67,9%                        67,7%
+                                                                                                                                       66,2%
+
+
+
+
+                    Any 2021                    Any 2022                     Any 2023                   Any 2024                     Any 2025
+
+
+
+
+NP_A121_20260317                                                                                                                                          Pàgina 8 de 10
+                                    A121. Estadística de conductors. Any 2025
+
+
+            6. Nota metodològica
+
+            •      Font. Dades transmeses pel Departament d’Indústria i Transports, tractades i
+                   revisades pel Departament d’Estadística del Govern d’Andorra.
+
+            •      Definicions. La sèrie de dades original representa el nombre de persones amb permís
+                   de conducció vigent.
+
+                   Categoria A1: Motocicletes d'una cilindrada màxima de 125 cc, una potència màxima
+                   d’11 kW i una relació potència/pes no superior a 0,11 kW/kg.
+
+                   Categoria A2: Motocicletes o altres vehicles de tres o quatre rodes que no siguin de
+                   tipus turisme, d'una potència màxima de 25 kW i una relació potència/pes no superior a
+                   0,16 kW / kg.
+
+                   Categoria A: Motocicletes de qualsevol cilindrada, amb sidecar o sense, i altres
+                   vehicles de tres o quatre rodes que no siguin de tipus turisme, amb un pes màxim en el
+                   buit                                                                               de
+                   400 kg.
+
+                   Categoria B: Automòbils de qualsevol cilindrada, amb un pes màxim autoritzat de
+                   3.500 kg i amb un nombre màxim de seients de nou, inclòs el del conductor.
+
+                   Categoria B2: Turismes de servei públic, servei de policia, extinció d'incendis i
+                   assistència sanitària, amb un pes màxim autoritzat de 3.500 kg i un nombre màxim de
+                   nou seients, inclòs el del conductor.
+
+                   Categoria C1: Automòbils amb un pes màxim autoritzat d’entre 3.500 kg i 7.500 kg,
+                   amb un nombre màxim de nou seients, inclòs el del conductor.
+
+                   Categoria C: Automòbils de qualsevol pes màxim autoritzat destinats al transport de
+                   mercaderies, amb un nombre màxim de nou seients, inclòs el del conductor.
+
+                   Categoria D1: Automòbils destinats al transport de persones amb un nombre mínim de
+                   seients superior a nou i un màxim de disset, inclòs el del conductor.
+
+                   Categoria D: Automòbils destinats al transport de persones, amb un nombre de
+                   seients, inclòs el del conductor, superior a nou.
+
+                   Categoria E: Permís complementari per arrossegar qualsevol tipus de remolc.
+
+                   Categoria J: Permís especial per poder conduir acompanyat a partir dels 16 anys.
+
+                   Categoria AM: Permet conduir ciclomotors de fins a 49 cc. Les persones a partir de
+                   14 anys es poden examinar d’aquesta categoria.
+
+            •      Nota. En el marc del procés habitual de revisió i millora contínua dels procediments de
+                   tractament i validació de la informació estadística, s’ha d’introduït un ajust en el procés
+                   de càlcul utilitzat per al recompte de permisos de conduir i de persones que en
+                   disposen. Les diferències respecte a les dades publicades anteriorment són limitades i
+                   no alteren la interpretació general dels resultats. Les dades que es publiquen
+                   actualment han de considerar-se com els valors de referència.
+
+            •      Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa demanem de citar “Dades del Dept. d’Indústria i Transports, tractades pel
+                   Departament d’Estadística per a la Nota de Premsa ref. NP_A121_20260317”.
+
+            •      Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A121: Estadística de conductors
+
+
+
+NP_A121_20260317                                                                                             Pàgina 9 de 10
+                                    A121. Estadística de conductors. Any 2025
+
+
+            •      Difusió.     Dades     disponibles     al    web   www.estadistica.ad,       a    l’apartat
+                   Estadístiques/Dades/Estadístiques Sectorials/Transport/Estadística de Conductors. Per
+                   estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la
+                   nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes
+                   de premsa d’aquest tema: http://www.estadistica.ad
+
+              Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+              de Premsa del Departament d’Estadística es podran seguir també per Twitter
+              (actualment X)
+        ____________________________________________________________________________
+
+
+            7. Dates de les publicacions previstes
+
+            Nota de premsa: A121. Estadística de conductors. Any 2026: 1r trimestre del 2027
+
+
+
+
+NP_A121_20260317                                                                                            Pàgina 10 de 10
+

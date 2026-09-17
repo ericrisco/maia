@@ -1,0 +1,685 @@
+                                A120. Estadística del parc automòbil. Any 2025
+                                     Data de publicació: dijous, 05/03/2026
+                                              www.estadistica.ad
+
+
+         Resum
+
+         El parc automòbil d’Andorra a 31 de desembre de l’any 2025 és de 104.700 vehicles, xifra que
+         representa un augment de 3.676 unitats, és a dir, una variació del +3,6% respecte als 101.024
+         vehicles existents a 31 de desembre de l’any 2024. Per tipus de vehicle, el nombre de turismes
+         presenta l’increment en valor absolut més elevat (+2.497 unitats), assolint la xifra de 70.657
+         turismes. Això equival a un 3,7% més que a l’any anterior.
+
+         Cal destacar l’augment continuat que mostren els vehicles “Elèctrics 100%”, els quals ja
+         suposen l’1,3% del total de vehicles del parc, i que durant l’any 2025 han elevat el seu nombre
+         en 251 unitats (fins a les 1.331), un augment del 23,2% respecte a l’any 2024. Quant als
+         vehicles híbrids, tant els endollables com els que no ho són, creix el nombre en 1.315 unitats
+         (fins a les 5.118), és a dir, una variació del +34,6% en relació amb l’any anterior.
+
+         L’antiguitat mitjana del parc automòbil se situa en els 16,2 anys a 31 de desembre de l’any
+         2025, la qual cosa suposa una variació positiva de l’1,3% respecte a l’any 2024.
+
+         Atenint-nos a les dades de finals de l’any 2025, hi ha 793,4 turismes, 222,0 motocicletes o
+         ciclomotors i un total de 1.175,6 vehicles per cada 1.000 habitants. Les tres ràtios experimenten
+         tendències a l’alça en aquest darrer any. Igualment, la ràtio del total de vehicles de mobilitat
+         elèctrica s’ha incrementat en els darrers anys i ja se situa en 27,5 vehicles de mobilitat elèctrica
+         per cada 1.000 vehicles, un augment del 22,9% en relació amb l’any 2024.
+
+
+
+         Nota: Els vehicles en estat d’embargament o que no es poden donar de baixa per afers
+         administratius estan comptabilitzats dintre del parc automòbil d’Andorra, tot i que no circulin pel
+         país.
+
+
+
+
+NP_A120_20260305                                                                                            Pàgina 1 de 12
+                                       A120. Estadística del parc automòbil. Any 2025
+
+
+
+         Índex
+         1.   Parc automòbil per tipus de vehicle ...................................................................................... 3
+         2.   Parc automòbil per tipus d’energia ....................................................................................... 5
+         3.   Antiguitat del parc automòbil ................................................................................................ 6
+         4.   Ràtios de vehicles per habitant ............................................................................................ 8
+         5.   Marques de turismes .......................................................................................................... 10
+         6.   Vehicles inspeccionats ....................................................................................................... 11
+         7.   Nota metodològica .............................................................................................................. 12
+         8.   Dates de les publicacions previstes ................................................................................... 12
+
+
+
+
+NP_A120_20260305                                                                                                                               Pàgina 2 de 12
+                                         A120. Estadística del parc automòbil. Any 2025
+
+
+                1.        Parc automòbil per tipus de vehicle
+
+         El parc automòbil d’Andorra a 31 de desembre de l’any 2025 és de 104.700 vehicles, xifra que
+         representa un augment de 3.676 unitats, equivalent a una variació del +3,6% respecte als
+         101.024 vehicles existents a 31 de desembre de l’any 2024.
+
+         Per tipus de vehicle, el nombre de turismes presenta l’increment en valor absolut més elevat
+         (+2.497 unitats), assolint la xifra de 70.657 turismes l’any 2025, un 3,7% més que a l’any
+         anterior.
+
+         El nombre de motocicletes i de ciclomotors és de 19.767 unitats, equivalent a una variació
+         absoluta de +707 unitats amb referència a l’any anterior, el que representa un augment del
+         3,7%.
+
+         El volum de camions i camionetes també s’incrementa amb relació a l’any 2024 (+5,7%, +408
+         unitats) i situen el nombre total en 7.613 unitats.
+
+         En últim lloc, el nombre d’altres vehicles a finals de l’any 2025 és de 6.663 unitats, amb un
+         augment de 64 unitats, la qual cosa suposa una variació de l’1,0% respecte a l’any anterior.
+
+
+                                                                                                                                               Var.
+         Grups de vehicles     Tipus de vehicle                               2021    2022     2023      2024      2025    Distr. 2025
+                                                                                                                                         2024-2025
+         Turismes             Turismes                                      62.802   64.180   66.124    68.160    70.657         67,5%        3,7%
+                              Motocicletes                                  14.827   15.450   16.163    16.839    17.558         16,8%        4,3%
+         Motocicletes i
+                              Ciclomotors                                    2.292    2.279    2.236     2.221     2.209          2,1%       -0,5%
+         ciclomotors
+                                    Subtotal motocicletes i ciclomotors     17.119   17.729   18.399    19.060    19.767         18,9%        3,7%
+                              Camions                                          895      908      947       981     1.015          1,0%        3,5%
+                              Camionetes                                     1.233    1.280    1.341     1.411     1.492          1,4%        5,7%
+                              Furgonetes                                     3.816    3.897    4.049     4.162     4.360          4,2%        4,8%
+         Camions i camionetes Vehicles de transport de persones                242      244      256       254       280          0,3%      10,2%
+                              Semiremolc                                       233      241      245       247       256          0,2%        3,6%
+                              Remolc industrial                                 30       44       82       150       210          0,2%      40,0%
+                                         Subtotal camions i camionetes       6.449    6.614    6.920     7.205     7.613          7,3%        5,7%
+                              Remolcs particulars                            3.592    3.608    3.588     3.572     3.567          3,4%       -0,1%
+                              Tractors agrícoles                               359      357      359       357       358          0,3%        0,3%
+         Altres vehicles      Vehicles especials                             2.121    2.147    2.175     2.196     2.275          2,2%        3,6%
+                              Motos de neu                                     496      496      482       474       463          0,4%       -2,3%
+                                                 Subtotal altres vehicles    6.568    6.608    6.604     6.599     6.663          6,4%        1,0%
+         Total                                                              92.938   95.131   98.047   101.024   104.700        100,0%        3,6%
+
+
+
+
+                                                  Parc automòbil. Variacions interanuals
+         10%
+                                   Turismes            Motocicletes i ciclomotors       Camions i camionetes           Altres
+           8%
+
+           6%
+
+           4%
+
+           2%
+
+           0%
+
+          -2%
+
+          -4%
+
+          -6%
+
+
+
+
+NP_A120_20260305                                                                                                                                Pàgina 3 de 12
+                                A120. Estadística del parc automòbil. Any 2025
+
+
+         En l’evolució històrica del parc automòbil d’Andorra s’observa una variació força estable des de
+         l’any 2006 fins a l’any 2015, quan la xifra encara no arribava als 80.000 vehicles. En els darrers
+         deu anys s’ha reprès la tendència a l’alça, motivada principalment per l’ascens de turismes, així
+         com de les motocicletes i ciclomotors, assolint una xifra de 104.700 vehicles l’any 2025.
+
+
+                                             Parc automòbil a final d'any
+          110.000
+          100.000
+           90.000
+           80.000
+           70.000
+           60.000
+           50.000
+           40.000
+           30.000
+           20.000
+           10.000
+               0
+
+
+
+                                Turismes   Motocicletes i ciclomotors   Camions i camionetes   Altres
+
+
+
+
+NP_A120_20260305                                                                                          Pàgina 4 de 12
+                                       A120. Estadística del parc automòbil. Any 2025
+
+
+             2.     Parc automòbil per tipus d’energia
+
+         Pel que fa al tipus d’energia, en l’any 2025 tots els grups presenten variacions positives
+         respecte a l’any 2024. Quant al grup més destacat, “Gasolina”, representa el 50,0% dels
+         vehicles, amb una variació anual absoluta +1.915 unitats, fet que suposa un increment del
+         3,8% respecte a l’any 2024. Quant als vehicles de Gasoil, aquests augmenten un 0,3%
+         respecte al 2024.
+
+         Cal destacar l’augment continuat que mostren els vehicles “Elèctrics 100%”, els quals ja
+         suposen l’1,3% del total de vehicles del parc, i que durant l’any 2025 ha elevat el seu nombre
+         en 251 unitats (fins a les 1.331), un augment del 23,2% respecte a l’any 2024. Quant als
+         vehicles híbrids, tant els endollables com els que no ho són, creix el nombre total d’aquests
+         d’automòbils en 1.315 unitats (fins a les 5.118), equivalent a una variació del +34,6% en relació
+         amb l’any anterior.
+
+         Finalment, els vehicles del grup “Sense carburant” incrementen el seu nombre en un 1,6%,
+         amb 70 unitats més respecte a l’any 2024.
+
+
+                                                                                                                       Var.
+           Parc automòbil per tipus d'energia        2021     2022     2023      2024      2025    Distr. 2025
+                                                                                                                 2024-2025
+           Gasoil                                   41.762   41.542   41.609    41.473    41.598       39,7%          0,3%
+           Gasolina                                 45.104   46.618   48.459    50.408    52.323       50,0%          3,8%
+           Elèctric 100%                               563      733      895     1.080     1.331        1,3%        23,2%
+           Híbrid de gasoil endollable                   4        6       14        32        55        0,1%        71,9%
+           Híbrid de gasoil no endollable              113      227      359       493       650        0,6%        31,8%
+           Híbrid de gasolina endollable               378      549      764     1.020     1.332        1,3%        30,6%
+           Híbrid de gasolina no endollable            872    1.276    1.741     2.258     3.081        2,9%        36,4%
+           Sense carburant                           4.142    4.180    4.206     4.260     4.330        4,1%          1,6%
+           Total                                    92.938   95.131   98.047   101.024   104.700      100,0%          3,6%
+
+
+
+         Pel que fa a la distribució dels turismes segons el tipus d’energia, a finals de l’any 2025 totes
+         les varietats presenten variacions positives amb relació a l’any 2024, excepte els de “Gasoil”.
+         Quant als grups més nombrosos, el de “Gasolina” presenta l’augment més elevat amb 1.174
+         unitats més, fet que suposa una variació del +4,0%. Per altra banda, el tipus d’energia “Gasoil”
+         disminueix en 210 unitats, fet que suposa un decreixement del 0,6%.
+
+         La distribució entre els turismes de gasolina i els de gasoil s’anivella any rere any, encara que
+         els vehicles propulsats amb motor de gasoil continuen sent més freqüents que els de gasolina i
+         de mobilitat elèctrica, que s’han incorporat recentment en el parc automòbil.
+
+
+           Parc automòbil per tipus d'energia                                                                          Var.
+                                                     2021     2022     2023      2024      2025    Distr. 2025
+           (turismes)                                                                                            2024-2025
+           Gasoil                                   34.777   34.463   34.305    33.996    33.786       47,8%         -0,6%
+           Gasolina                                 26.289   27.166   28.319    29.587    30.761       43,5%          4,0%
+           Elèctric 100%                               375      499      626       776       995        1,4%        28,2%
+           Híbrid de gasoil endollable                   4        6       14        32        55        0,1%        71,9%
+           Híbrid de gasoil no endollable              108      221      353       487       643        0,9%        32,0%
+           Híbrid de gasolina endollable               378      549      764     1.020     1.332        1,9%        30,6%
+           Híbrid de gasolina no endollable            871    1.275    1.740     2.257     3.078        4,4%        36,4%
+           Sense carburant                                        1        3         5         7        0,0%        40,0%
+           Total                                    62.802   64.180   66.124    68.160    70.657      100,0%          3,7%
+
+
+
+
+NP_A120_20260305                                                                                                              Pàgina 5 de 12
+                                                                A120. Estadística del parc automòbil. Any 2025
+
+
+                3. Antiguitat del parc automòbil
+
+         L’antiguitat mitjana del parc automòbil se situa en els 16,2 anys en l’any 2025, la qual cosa
+         suposa un increment de l’1,3% respecte a l’any 2024, continuant amb la tendència alcista
+         enregistrada en els darrers anys.
+
+
+                          Antiguitat mitjana per tipus de vehicle                                                                                                                                          Var.
+                                                                                                          2021                  2022               2023          2024                    2025
+                          (en anys)                                                                                                                                                                  2024-2025
+                          Camionetes                                                                      14,2                  14,2                   14,1       14,1                   14,2             0,7%
+                          Camions                                                                         16,0                  16,2                   16,2       16,3                   16,3             0,0%
+                          Ciclomotors                                                                     28,7                  29,5                   30,5       31,5                   32,3             2,5%
+                          Furgonetes                                                                      13,4                  13,5                   13,6       13,9                   13,9             0,0%
+                          Motos                                                                           13,8                  14,0                   14,2       14,4                   14,6             1,4%
+                          Motos De Neu                                                                    17,4                  17,4                   18,3       19,2                   20,2             5,2%
+                          Remolcs Industrials                                                              7,2                   5,8                    3,7        3,1                    3,1             0,0%
+                          Remolcs Particulars                                                             20,7                  21,3                   22,1       23,0                   23,8             3,5%
+                          Semiremolcs                                                                     17,3                  17,7                   17,7       17,9                   17,7            -1,1%
+                          Transports Passatger                                                            11,6                  11,5                   11,5       10,9                   10,2            -6,4%
+                          Turismes                                                                        14,7                  15,0                   15,2       15,5                   15,7             1,3%
+                          Vehicles Agrícoles                                                              29,7                  30,7                   31,5       32,4                   33,4             3,1%
+                          Vehicles Especials                                                              17,9                  18,4                   18,9       19,4                   19,5             0,5%
+                          Antiguitat mitjana del vehícle (en anys)                                        15,3                  15,5                   15,7       16,0                   16,2             1,3%
+                        * S'han eliminat els vehicles de museu i col·leccionista per fer el càlcul
+
+
+
+
+         Els grups de vehicles amb una antiguitat de 10 a 20 anys presenten, l’any 2025, variacions
+         negatives amb referència a la distribució per grup de l’any 2024 en els quatre tipus de vehicles.
+         D’altra banda, els grups de vehicles amb antiguitat de més de 20 anys presenten variacions
+         positives respecte a l’any anterior en tots quatre tipus de vehicles. Els grups de vehicles de 0 a
+         10 anys registren variacions positives, excepte pels altres vehicles.
+
+
+                                                                                                                                                                            Distr. 2024 Distr. 2025        Var.
+          Grup per Tipus i Antiguitat vehicle                                   2021          2022                   2023                   2024               2025
+                                                                                                                                                                              per grup    per grup distribució
+          Turismes 0-10 anys                                                  23.969        24.772                  26.280                 27.606             28.885             40,7%       41,1%       0,4 pt
+          Turismes 10-20 anys                                                 23.448        22.732                  21.514                 20.232             19.341             29,9%       27,5%      -2,3 pt
+          Turismes >20 anys                                                   15.004        16.288                  17.945                 19.939             22.050             29,4%       31,4%         2 pt
+          Motocicletes i ciclomotors 0-10 anys                                 6.218         6.696                   7.210                  7.688              8.121             40,7%       41,4%       0,7 pt
+          Motocicletes i ciclomotors 10-20 anys                                6.020         5.750                   5.538                  5.229              4.781             27,7%       24,4%      -3,3 pt
+          Motocicletes i ciclomotors >20 anys                                  4.714         5.115                   5.480                  5.971              6.692             31,6%       34,2%       2,5 pt
+          Camions i camionetes 0-10 anys                                       2.660         2.849                   3.144                  3.366              3.678             46,8%       48,4%       1,6 pt
+          Camions i camionetes 10-20 anys                                      2.468         2.299                   2.133                  1.998              1.885             30,9%       24,8%      -6,1 pt
+          Camions i camionetes >20 anys                                        1.309         1.454                   1.630                  1.827              2.036             23,6%       26,8%       3,2 pt
+          Altres 0-10 anys                                                     1.269         1.345                   1.312                  1.280              1.291             19,4%       19,4%         0 pt
+          Altres 10-20 anys                                                    2.375         2.171                   2.020                  1.839              1.651             30,6%       24,8%      -5,8 pt
+          Altres >20 anys                                                      2.924         3.092                   3.272                  3.480              3.721             49,5%       55,8%       6,3 pt
+          * S'han eliminat els vehicles de museu i col·leccionista per fer el càlcul
+
+
+
+
+                                                                                       Nombre de turismes per antiguitat
+              35.000
+
+              30.000
+
+
+
+                                                                     27.606   28.885
+              25.000
+
+                                                            26.280
+                                      23.969    24.772
+                                                                                                 23.448    22.732
+              20.000
+                                                                                                                       21.514                                                                                 22.050
+                                                                                                                                  20.232                                                             19.939
+                                                                                                                                              19.341                                        17.945
+              15.000
+
+                                                                                                                                                                                16.288
+              10.000                                                                                                                                                   15.004
+
+               5.000
+
+                      0
+                                                         0-10 anys                                              10-20 anys                                                               >20 anys
+
+                                                                                          2021      2022            2023         2024        2025
+
+
+
+
+NP_A120_20260305                                                                                                                                                                                                       Pàgina 6 de 12
+                                                      A120. Estadística del parc automòbil. Any 2025
+
+
+                                                      Nombre de motocicletes i ciclomotors per antiguitat
+         10.000
+
+
+
+
+                                                          7.688      8.121
+                                              7.210
+                                  6.696
+                        6.218                                                                                                                                                                6.692
+          5.000                                                                        6.020       5.750                                                                           5.971
+                                                                                                                5.538                                                   5.480
+                                                                                                                           5.229                           5.115
+                                                                                                                                                 4.714
+                                                                                                                                     4.781
+
+
+
+
+                 0
+                                          0-10 anys                                                    10-20 anys                                                  >20 anys
+                                                                             2021           2022           2023         2024         2025
+
+
+
+
+                                                           Nombre de camions i camionetes per antiguitat
+         5.000
+
+
+
+
+                                                       3.366      3.678
+                                            3.144
+                                2.849
+                     2.660
+                                                                                    2.468
+                                                                                               2.299
+                                                                                                             2.133      1.998
+                                                                                                                                                                                1.827      2.036
+                                                                                                                                   1.885                             1.630
+                                                                                                                                                         1.454
+                                                                                                                                              1.309
+
+            0
+                                        0-10 anys                                                   10-20 anys                                                   >20 anys
+                                                                             2021           2022           2023         2024         2025
+
+
+
+
+                                                                  Nombre d'altres vehicles per antiguitat
+         5.000
+
+
+
+
+                                                                                                                                                                                3.480      3.721
+                                                                                                                                                                     3.272
+                                                                                                                                                         3.092
+                                                                                                                                              2.924
+                                                                                    2.375
+                                                                                               2.171
+                                                                                                             2.020
+                                                                                                                        1.839
+                                1.345                                                                                              1.651
+                     1.269                  1.312      1.280
+                                                                   1.291
+             0
+                                        0-10 anys                                                      10-20 anys                                                >20 anys
+                                                                             2021           2022           2023         2024           2025
+
+
+
+
+NP_A120_20260305                                                                                                                                                                                     Pàgina 7 de 12
+                                                     A120. Estadística del parc automòbil. Any 2025
+
+
+                4. Ràtios de vehicles per habitant
+
+         Tenint en compte les dades de finals de l’any 2025 i segons el tipus de vehicle, hi ha 793,4
+         turismes, 222,0 motocicletes i ciclomotors i un total de 1.175,6 vehicles per cada 1.000
+         habitants. Tant la ràtio de turismes com la de les motocicletes i ciclomotors creixen un 1,4%
+         amb referència a les dades de l’any 2024.
+
+         Quant al tipus de combustible, de cada 1.000 turismes, un total de 478,9 corresponen al grup
+         de “Gasolina” i 487,3 al grup de “Gasoil”. Els turismes del grup “Gasoil” mostren una tendència
+         a la baixa en aquest últim any, al contrari que els de “Gasolina”.
+
+         La ràtio de total de vehicles de mobilitat elèctrica, sense incloure-hi el grup “Altres”, se situa en
+         27,5 per cada 1.000 turismes, un augment del 22,9% amb relació a l’any 2024. Aquesta ràtio
+         experimenta una tendència a l’alça en els darrers anys.
+
+
+                                                                                                                                                                         Var. Abs        Var. 2024-
+                              Ràtios del parc automòbil                                        2021            2022            2023            2024            2025
+                                                                                                                                                                        2024-2025              2025
+         Població estimada                                                                   79.535          81.588         85.101          87.097          89.058          1.961             2,3%
+         1.1 Ràtios per habitants
+         Turismes per cada 1.000 habitants                                                    789,6           786,6           777,0          782,6           793,4              10,8            1,4%
+         Motocicletes i ciclomotors per cada 1.000 habitants                                  215,2           217,3           216,2          218,8           222,0               3,1            1,4%
+         Total vehicles per cada 1.000 (1)                                                  1.168,5         1.166,0         1.152,1        1.159,9         1.175,6              15,7            1,4%
+         1.2 Ràtios per tipus de vehicles
+         Turismes de mobilitat elèctrica* per cada 1.000 turismes                              12,1            16,4            21,2            26,8            33,7              6,9            25,7%
+         Turismes de gasolina per cada 1.000 turismes                                         432,5           443,1           454,6           467,2           478,9             11,7             2,5%
+         Turismes de gasoil per cada 1.000 turismes                                           555,5           540,4           524,1           505,9           487,3            -18,6            -3,7%
+         Camions i camionetes de mobilitat elèctrica* per cada 1.000
+                                                                                                  8,8              9,4          10,4           10,8            11,3               0,5           4,3%
+         camions i camionetes
+         Motocicletes i ciclomotors de mobilitat elèctrica* per cada
+                                                                                                  6,7              8,7           9,6           10,7            11,4               0,7           6,3%
+         1.000 motocicletes i ciclomotors
+                                                                   (2)
+         Total amb mobilitat elèctrica* per cada 1.000                                          10,8              14,3          18,1           22,3            27,5               5,1           22,9%
+         * Com a vehicles de mobilitat elèctrica estan inclosos: els vehicles 100% elèctrics, els híbrids de gasoil i gasolina endollables i els elèctrics d'autonomia estesa. Els híbrids no
+         endollables estan inclosos a la categoria del combustible corresponent.
+         (1) Inclou tots els grups: "Turismes", "Motocicletes i ciclomotors", "Camions i Camionetes "i "Altres"
+         (2) No inclou el grup "Altres"
+
+
+
+
+                                                             Ràtio de vehicles per cada 1.000 habitants
+          1.180
+
+          1.170
+
+          1.160
+
+          1.150
+
+          1.140
+
+          1.130
+
+          1.120
+
+          1.110
+
+          1.100
+
+          1.090
+                          2016             2017              2018             2019             2020               2021            2022              2023              2024              2025
+
+
+
+
+NP_A120_20260305                                                                                                                                                                                   Pàgina 8 de 12
+                                          A120. Estadística del parc automòbil. Any 2025
+
+
+                                 Ràtios de turismes segons combustible per cada 1.000 turismes
+          700
+
+          600
+
+          500
+
+          400
+
+          300
+
+          200
+
+          100
+
+              0
+                    2016        2017           2018           2019           2020       2021            2022           2023           2024          2025
+                                       Turismes de gasolina / 1.000 turismes                  Turismes de gasoil / 1.000 turismes
+
+
+
+
+         40
+                                    Ràtios de vehicles de mobilitat elèctrica per cada 1.000 vehicles
+
+         35
+
+         30
+
+         25
+
+         20
+
+         15
+
+         10
+
+          5
+
+          0
+                  2016       2017           2018           2019           2020        2021            2022           2023            2024       2025
+                           Turismes mob. elèctrica / 1.000 turismes                          Camions i cam. mob. elèctrica / 1.000 camions i cam.
+                           Motoc. i ciclom. mob. elèctrica / 1.000 motoc. i ciclom.          Total mob. elèctrica / 1.000 vehicles
+
+
+
+
+NP_A120_20260305                                                                                                                                           Pàgina 9 de 12
+                                            A120. Estadística del parc automòbil. Any 2025
+
+
+              5. Marques de turismes
+
+         Tenint en compte la segmentació del parc automòbil de turismes per marques de constructors,
+         es constata que en aquest any 2025 hi ha hagut un canvi en el llistat de les deu principals
+         marques: Merzedes-Benz ha superat a Volkswagen en la primera posició.
+
+
+            Comparativa 2016-2025 de les
+                                                         2016                             2025                         Variació 2016-2025
+           principals marques de turismes
+         Marques                              Nombre % del total % de les 10   Nombre % del total % de les 10    Nombre             pt % de les 10
+         MERCEDES-BENZ                          4.336     7,8%        13,2%      6.160     8,7%        14,7%       1.824        0,9 pt       1,5 pt
+         VOLKSWAGEN                             5.138     9,3%        15,6%      6.132     8,7%        14,6%         994       -0,6 pt        -1 pt
+         BMW                                    4.258     7,7%        13,0%      6.088     8,6%        14,5%       1.830        0,9 pt       1,6 pt
+         AUDI                                   3.637     6,6%        11,1%      4.856     6,9%        11,6%       1.219        0,3 pt       0,5 pt
+         RENAULT                                3.514     6,4%        10,7%      3.697     5,2%         8,8%         183       -1,1 pt     -1,9 pt
+         TOYOTA                                 2.669     4,8%         8,1%      3.349     4,7%         8,0%         680       -0,1 pt     -0,1 pt
+         SEAT                                   2.797     5,1%         8,5%      3.310     4,7%         7,9%         513       -0,4 pt     -0,6 pt
+         FIAT                                   2.870     5,2%         8,7%      2.994     4,2%         7,2%         124         -1 pt     -1,6 pt
+         FORD                                   1.990     3,6%         6,1%      2.980     4,2%         7,1%         990        0,6 pt       1,1 pt
+         SUZUKI                                 1.654     3,0%         5,0%      2.303     3,3%         5,5%         649        0,3 pt       0,5 pt
+         Total de les 10 primeres marques      32.863    59,5%         100%     41.869    59,3%         100%       9.006       -0,2 pt            -
+         Total de turismes                     55.274   100,0%             -    70.657   100,0%             -     15.383             -            -
+
+
+
+
+         Al llarg del període, des de l’any 2016 fins a l’actualitat, hi ha hagut altres variacions de posició:
+         la marca Toyota va avançar a la marca Seat i Fiat des de l’any 2016 fins a l’actualitat,
+         col·locant-se en la sisena posició del rànquing durant aquest període de temps. Val la pena
+         remarcar que aquest darrer any Suzuki ha guanyat una posició passant per davant de Peugeot.
+
+
+                                                 Evolució de les marques del parc automòbil
+                                1                                                                                       1    MERCEDES-BENZ
+            VOLKSWAGEN
+                                2                                                                                       2       VOLKSWAGEN
+            MERCEDES-BENZ
+            BMW                 3                                                                                       3                   BMW
+                                4                                                                                       4                   AUDI
+            AUDI
+            RENAULT             5                                                                                       5            RENAULT
+
+            FIAT                6                                                                                       6             TOYOTA
+                                7                                                                                       7                   SEAT
+            SEAT
+            TOYOTA              8                                                                                       8                   FIAT
+            PEUGEOT             9                                                                                       9                FORD
+            OPEL               10                                                                                       10             SUZUKI
+            FORD
+                               11                                                                                       11          PEUGEOT
+                                      2016    2017    2018      2019   2020    2021   2022       2023   2024    2025
+
+
+
+
+NP_A120_20260305                                                                                                                                   Pàgina 10 de 12
+                                        A120. Estadística del parc automòbil. Any 2025
+
+
+             6. Vehicles inspeccionats
+
+
+         Durant l’any 2025, es van inspeccionar un total de 43.580 vehicles, 1.770 vehicles menys
+         respecte a l’any 2024. D’aquests, un 77,8% van ser turismes, un 11,6% motos, un 6,1%
+         furgonetes, un 2,1% camionetes i un 1,8% camions.
+
+
+                                                                                                        Var.
+               Tipus de vehicle                      2021     2022     2023     2024      2025
+                                                                                                  2024-2025
+               Camionetes                             851       880      856      854       898        5,2%
+               Camions                                676       718      741      784       782       -0,3%
+               Furgonetes                           2.683     2.711    2.567    2.602     2.676        2,8%
+               Motos                                4.653     4.857    5.182    5.132     5.040       -1,8%
+               Transport de passatgers                205       224      223      238       258        8,4%
+               Turisme                             32.665    33.348   35.797   35.740    33.926       -5,1%
+               Vehicles especials                       0         1        1        0         0
+               Total                               41.733    42.739   45.367   45.350    43.580       -3,9%
+
+
+
+         Quant al tipus d’energia, el 58,1% dels vehicles inspeccionats són de gasoil i el 39,8% són de
+         gasolina. La resta es distribueix en un 1,0% d’híbrids de gasolina no endollable, en un 0,5% de
+         vehicles 100% elèctrics, en un 0,4% d‘híbrids de gasolina endollable i en un 0,2% d’híbrids de
+         gasoil no endollable. La resta de categories suposen menys del 0,1% restant dels vehicles
+         inspeccionats.
+
+
+                                                                                                        Var.
+                   Tipus d'energia                   2021     2022     2023     2024      2025
+                                                                                                  2024-2025
+                   Electric 100%                        88      118      200      243       230       -5,3%
+                   Gas-Oil                          26.126   26.404   27.094   26.556    25.315       -4,7%
+                   Gasolina                         15.282   15.934   17.612   17.954    17.332       -3,5%
+                   Hibrid Gasoil Endollable              0        1        1        0         4
+                   Hibrid Gasoil No Endollable           8       14       15       48        71       47,9%
+                   Hibrid Gasolina Endollable           66       69      156      182       176       -3,3%
+                   Hibrid Gasolina No Endollable       163      191      275      350       442       26,3%
+                   Sense Carburant                       0        8       14       17        10      -41,2%
+                   Total                            41.733   42.739   45.367   45.350    43.580       -3,9%
+
+
+
+
+NP_A120_20260305                                                                                               Pàgina 11 de 12
+                                A120. Estadística del parc automòbil. Any 2025
+
+
+             7. Nota metodològica
+
+         •   Font. Dades facilitades amb periodicitat anual pel Departament de Transports, tractades i
+             revisades pel Departament d’Estadística i disponibles al web www.estadistica.ad, a l’apartat
+             Estadístiques i dades / Estadístiques sectorials / Transport / Parc automòbil.
+
+         •   Metodologia. El nombre de vehicles per tipus és una sèrie anual que comptabilitza els
+             vehicles en actiu per tipologia de vehicle. Per facilitar el coneixement de l’evolució s’utilitza
+             el total de vehicles a finals de cada any i es compara amb els anys anteriors.
+                  Per visualitzar millor el gràfic, s’agrupa en les categories de “Turismes” i “Motocicletes i
+                  ciclomotors”, que inclou totes les motocicletes, les de més de 80 cc i els ciclomotors,
+                  exceptuant les motos de neu.
+                  La categoria “Camions i camionetes” inclou camions, camionetes, furgonetes, autocars,
+                  vehicles de transport de passatgers i totes les varietats de remolcs que no siguin
+                  remolcs particulars.
+                  Totes les altres categories, tot i que no es reflecteixen en el gràfic, queden sota la
+                  categoria “Altres”. Aquesta classificació és la mateixa que s’utilitza en la nota de
+                  premsa de matriculació de vehicles.
+
+         •   Nota. Els vehicles en estat d’embargament o que no es poden donar de baixa per afers
+             administratius estan comptabilitzats dintre del parc automòbil d’Andorra tot i que no circulin
+             pel país.
+
+         •   Nota. Al febrer del 2026 s’han revisat els totals dels anys 2021, 2022, 2023 i 2024.
+
+         •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+             preguem citeu: “Dades del Departament de Transports, tractades pel Departament
+             d’Estadística per a la Nota de Premsa ref. NP_A120_20260305”.
+
+         •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+             desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a
+             l’activitat estadística: A120. Estadística del parc automòbil.
+
+         •   Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques/Dades/
+             Estadístiques i dades / Estadístiques sectorials / Transport / Parc automòbil. Per estar
+             informat en qualsevol moment de les noves publicacions us podeu inscriure a la nostra
+             “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de
+             premsa d’aquest tema: http://www.estadistica.ad
+
+             Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+             Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+
+             8. Dates de les publicacions previstes
+
+             Nota de premsa: A120. Estadística del parc automòbil. Any 2026: 1r trimestre del 2027
+
+
+
+
+NP_A120_20260305                                                                                           Pàgina 12 de 12
+

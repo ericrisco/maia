@@ -154,6 +154,50 @@ tècnic del Museu Nacional de l'Automòbil.**
 > **vuitanta anys després decideix, per llei, quins cotxes són patrimoni.**
 > Vegeu també [els museus](../../cultura/museus-i-arxius/museus/README.md).
 
+## Hi ha més vehicles que persones
+
+El codi descriu el marc; el que hi passa ho compta el **Departament
+d'Estadística**, amb quatre activitats separades. A **31 de desembre del 2025**:
+
+| | |
+| --- | --- |
+| **Parc automòbil** | **104.700 vehicles** (+3,6%), dels quals **70.657 turismes** |
+| **Vehicles per 1.000 habitants** | **1.175,6** — i **793,4 turismes** i **222,0 motos o ciclomotors** |
+| **Antiguitat mitjana** | **16,2 anys** |
+| **Elèctrics 100%** | **1.331**, l'**1,3%** del parc (+23,2% en un any) |
+| **Híbrids** | **5.118** (+34,6%) |
+| **Persones amb permís** | **57.657** (+0,9%), **57,7% homes i 42,3% dones** |
+| **Categories vigents** | **207.642**, **3,60 per permís** |
+| **Adults amb permís** | **75,2%** — tres de cada quatre |
+
+**La xifra que resumeix el país és 1.175,6.** Hi ha **més d'un vehicle per
+habitant**, comptant nadons. I el parc és **vell**: setze anys de mitjana, i
+l'antiguitat encara puja.
+
+**L'electrificació és petita i ràpida.** Elèctrics i híbrids sumats no arriben al
+**6,2%** del parc, però creixen a un ritme del 23% i el 34,6% anual.
+
+### Els accidents
+
+**533 accidents** amb danys materials o corporals el **2025**, un **+16,9%**
+respecte del 2024. **Andorra la Vella en concentra el 31,0%.** Els mesos pitjors
+són **juliol i agost** (10,5% i 10,1% de l'any). El **47,1%** impliquen dos
+vehicles i els **turismes hi són al 68,1%**. El **64,1% de les víctimes són
+homes**, i el grup d'edat amb més ferits és el de **30 a 39 anys**.
+
+**L'índex d'accidentalitat** —ferits greus i morts per cada 100.000 habitants— és
+de **37,3**, un **−1,0%** respecte del 2024. **Els accidents pugen un 17% i la
+gravetat baixa un 1%.**
+
+Compten només els **accidents notificats amb intervenció de la Policia**.
+
+### Els que entren
+
+El país no només té els seus vehicles: **n'entren 4.052.858 en dotze mesos**
+(fins al juliol del 2026). Al **juliol del 2026** en van entrar **375.016**, un
+**−1,8%** respecte del juliol anterior; de gener a juliol, **−5,4%**, amb la
+frontera espanyola plana (**+0,4%**) i **la francesa caiguda un 18,9%**.
+
 ## Buits registrats
 
 > **Auditats contra la resta del corpus i contra el text de la llei el
@@ -199,13 +243,15 @@ tècnic del Museu Nacional de l'Automòbil.**
   de permisos de conduir.` **Aquest és el segon cas del bloc en què la resposta
   no és a la llei sinó en una norma de rang inferior que el corpus no té** — el
   primer és l'annex II.
-- **Cap dada de trànsit**: parc de vehicles, accidents, controls. La llei
-  descriu el marc, no el que hi passa. — **`obert`, confirmat.** **El corpus té
-  els dos registres que la contindrien** —el **Registre de Vehicles** (art. 97)
-  i el **Registre d'Infraccions de Conductors del Cos de Policia**
-  ([què costa una multa](./que-costa-una-multa.md))— **i no té cap dada de cap
-  dels dos.** `Requereix font externa: Estadística, o la memòria del Cos de
-  Policia.`
+- ~~**Cap dada de trànsit**: parc de vehicles, accidents, controls. La llei
+  descriu el marc, no el que hi passa.~~ — **`resolt` el 17-09-2026 per la via
+  d'Estadística**: vegeu
+  [Hi ha més vehicles que persones](#hi-ha-mes-vehicles-que-persones).
+  Les quatre notes són **A120** parc automòbil, **A121** conductors, **A118**
+  flux de vehicles i **A068** accidents de trànsit
+  (`docs/raw/estadistica-vehicles/`). `Segueix obert el tercer terme del buit,
+  els controls: quants se'n fan i amb quin resultat no ho publica Estadística;
+  requereix la memòria del Cos de Policia.`
 - ~~**Les 2 versions consolidades no s'han comparat.**~~ — **`resolt` el
   17-09-2026, i s'han comparat sense tornar a jurisprudencia.ad**: **la primera
   versió consolidada és el text original**, i **el BOPA el serveix sencer**

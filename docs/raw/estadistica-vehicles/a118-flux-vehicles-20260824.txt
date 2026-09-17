@@ -1,0 +1,731 @@
+                             A118. Estadística del flux de vehicles. Juliol del 2026
+                                     Data de publicació: dilluns, 24/08/2026
+                                              www.estadistica.ad
+
+
+         Resum
+
+         El nombre de vehicles que han entrat al país durant el mes de juliol s’estima en 375.016, fet
+         que suposa una variació percentual negativa respecte al mes de juliol de l’any anterior de
+         l’1,8%. Pel que fa a la frontera hispanoandorrana, la variació ha estat del +0,6% i per la frontera
+         francoandorrana del -6,6%.
+
+         De gener a juliol del 2026, respecte al mateix període del 2025, s’ha produït un decrement del
+         5,4% en el nombre total de vehicles, amb un increment del 0,4% dels provinents d’Espanya i un
+         decreixement del 18,9% dels provinents de França.
+
+         El nombre de vehicles que han entrat a Andorra durant els darrers 12 mesos s’estima en
+         4.052.858.
+
+         El nombre de vehicles que han sortit del país durant el mes de juliol s’estima en 360.360, fet
+         que suposa una variació percentual negativa respecte al mes de juliol de l’any anterior del
+         5,4%. Pel que fa a la frontera hispanoandorrana, la variació ha estat del +0,9% i per la frontera
+         francoandorrana del -17,3%.
+
+         De gener a juliol del 2026, respecte al mateix període del 2025, s’ha produït un decrement del
+         8,1% en el nombre total de vehicles, amb un increment del 0,4% dels que han sortit per
+         Espanya i un decreixement del 27,0% dels que han sortit per França.
+
+         El nombre de vehicles que han sortit d’Andorra durant els darrers 12 mesos s’estima en
+         3.979.072.
+
+
+
+
+NP_A118_20260824                                                                                           Pàgina 1 de 14
+                                       A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         Índex
+
+         1. Entrada de vehicles per les fronteres (dades originals) ........................................................... 3
+         2. Sortida de vehicles per les fronteres (dades originals) ............................................................ 5
+         3. Entrada de vehicles per les fronteres (dades ajustades) ......................................................... 7
+         4. Sortida de vehicles per les fronteres (dades ajustades) .......................................................... 7
+         5. Gràfics ...................................................................................................................................... 8
+         6. Nota metodològica ................................................................................................................. 13
+         7. Dates de les publicacions previstes ....................................................................................... 14
+
+
+
+
+NP_A118_20260824                                                                                                                                          Pàgina 2 de 14
+                              A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         1. Entrada de vehicles per les fronteres (dades originals)
+
+         El nombre de vehicles que han entrat al país durant el mes de juliol s’estima en 375.016, fet
+         que suposa una variació percentual negativa de l’1,8% respecte al mateix mes de l’any anterior.
+         El total de turismes presenta un decrement del 2,3% i el de vehicles pesants un increment del
+         7,9%.
+
+         Els turismes provinents d’Espanya han tingut una variació percentual positiva del 0,1%, mentre
+         que els provinents de França han registrat una variació negativa del 6,7%. Pel que fa als
+         vehicles pesants, hi ha hagut una variació percentual positiva del 10,2% a la frontera
+         hispanoandorrana, mentre que a la frontera francoandorrana la variació ha estat negativa en un
+         2,2%.
+
+
+
+           Entrada de vehicles per frontera                                        Variació
+                                                              jul-25      jul-26                Variació
+           (dades mensuals)                                                        absoluta
+
+           Turismes (frontera francoandorrana)              126.703     118.197      -8.506       -6,7%
+           Vehicles pesants (frontera francoandorrana)        3.082        3.015          -67     -2,2%
+           Total provinents de França                       129.785     121.212      -8.573       -6,6%
+           Turismes (frontera hispanoandorrana)             238.221     238.387          166       0,1%
+           Vehicles pesants (frontera hispanoandorrana)      13.994      15.417         1.423     10,2%
+           Total provinents d'Espanya                       252.215     253.804         1.589      0,6%
+           Turismes total                                   364.924     356.584      -8.340       -2,3%
+           Vehicles pesants total                            17.076      18.432         1.356      7,9%
+           Total vehicles                                   382.000     375.016      -6.984       -1,8%
+
+
+         De gener a juliol del 2026, respecte al mateix període del 2025, s’ha produït un decrement del
+         5,4% en el nombre total de vehicles, amb un increment del 0,4% dels provinents d’Espanya i un
+         decreixement del 18,9% dels provinents de França.
+
+
+
+           Entrada de vehicles per frontera               gen 2025 a gen 2026 a    Variació
+                                                                                                Variació
+           (Dades acumulades)                               jul 2025   jul 2026    absoluta
+
+           Turismes (frontera francoandorrana)              698.439     565.466    -132.973      -19,0%
+           Vehicles pesants (frontera francoandorrana)       16.728      14.617      -2.111      -12,6%
+           Total provinents de França                       715.167     580.083    -135.084      -18,9%
+           Turismes (frontera hispanoandorrana)            1.555.589   1.556.291         702       0,0%
+           Vehicles pesants (frontera hispanoandorrana)      90.523      97.150      6.627         7,3%
+           Total provinents d'Espanya                      1.646.112   1.653.441     7.329         0,4%
+           Turismes total                                  2.254.028   2.121.757   -132.271       -5,9%
+           Vehicles pesants total                           107.251     111.767      4.516         4,2%
+           Total vehicles                                  2.361.279   2.233.524   -127.755       -5,4%
+
+
+
+
+NP_A118_20260824                                                                                           Pàgina 3 de 14
+                           A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         El nombre de vehicles que han entrat al país durant els darrers 12 mesos s’estima en
+         4.052.858. Pel que fa a la frontera francoandorrana, s’han registrat 1.133.127 entrades de
+         vehicles en aquest període, mentre que per la frontera hispanoandorrana han entrat 2.919.731
+         vehicles.
+
+
+
+                              Entrada de vehicles per frontera (Dades                              ago 2025 a
+                              acumulades)                                                            jul 2026
+
+                              Turismes (frontera francoandorrana)                                     1.104.532
+                              Vehicles pesants (frontera francoandorrana)                                 28.595
+                              Total provinents de França                                              1.133.127
+                              Turismes (frontera hispanoandorrana)                                    2.756.800
+                              Vehicles pesants (frontera hispanoandorrana)                              162.931
+                              Total provinents d'Espanya                                              2.919.731
+                              Turismes total                                                          3.861.332
+                              Vehicles pesants total                                                    191.526
+                              Total vehicles                                                          4.052.858
+                            *Nota: En aquesta taula no es mostren les variacions amb el període d’agost del 2024 a
+                             juliol del 2025 ni l’acumulat, degut a que es disposen de dades només a partir de
+                             novembre del 2024.
+
+
+
+
+NP_A118_20260824                                                                                                     Pàgina 4 de 14
+                              A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         2. Sortida de vehicles per les fronteres (dades originals)
+
+         El nombre de vehicles que han sortit del país durant el mes de juliol s’estima en 360.360, fet
+         que suposa una variació percentual negativa respecte al mes de juliol de l’any anterior del
+         5,4%. El total de turismes presenta un decrement del 5,8% i el de vehicles pesants un
+         increment del 2,0%.
+
+         Els turismes que han sortit per Espanya han tingut una variació percentual positiva del 0,4%,
+         mentre que els han sortit per França han registrat una variació negativa del 16,8%. Pel que fa
+         als vehicles pesants, hi ha hagut una variació percentual positiva del 10,5% a la frontera
+         hispanoandorrana, mentre que a la frontera francoandorrana la variació ha estat negativa en un
+         38,4%.
+
+
+           Sortida de vehicles per frontera                                        Variació
+                                                           jul-25      jul-26                   Variació
+           (dades mensuals)                                                        absoluta
+           Turismes (frontera francoandorrana)              129.828     108.045      -21.783      -16,8%
+           Vehicles pesants (frontera francoandorrana)        2.935       1.808       -1.127      -38,4%
+           Total provinents de França                       132.763     109.853      -22.910      -17,3%
+           Turismes (frontera hispanoandorrana)             234.125     234.977          852        0,4%
+           Vehicles pesants (frontera hispanoandorrana)      14.057      15.530         1.473      10,5%
+           Total provinents d'Espanya                       248.182     250.507         2.325       0,9%
+           Turismes total                                   363.953     343.022      -20.931        -5,8%
+           Vehicles pesants total                            16.992      17.338          346        2,0%
+           Total vehicles                                   380.945     360.360      -20.585        -5,4%
+
+
+         De gener a juliol del 2026, respecte al mateix període del 2025, s’ha produït un decrement del
+         8,1% en el nombre total de vehicles, amb un increment del 0,4% dels que sortien per Espanya i
+         un decreixement del 27,0% dels que sortien per França.
+
+
+
+           Sortida de vehicles per frontera               gen 2025 a gen 2026 a     Variació
+                                                                                                 Variació
+           (Dades acumulades)                               jul 2025   jul 2026     absoluta
+
+           Turismes (frontera francoandorrana)              722.704     529.100     -193.604      -26,8%
+           Vehicles pesants (frontera francoandorrana)       15.980      10.020       -5.960      -37,3%
+           Total provinents de França                       738.684     539.120     -199.564      -27,0%
+           Turismes (frontera hispanoandorrana)            1.544.846   1.546.162        1.316       0,1%
+           Vehicles pesants (frontera hispanoandorrana)      92.511      98.448         5.937       6,4%
+           Total provinents d'Espanya                      1.637.357   1.644.610        7.253       0,4%
+           Turismes total                                  2.267.550   2.075.262    -192.288        -8,5%
+           Vehicles pesants total                           108.491     108.468           -23       0,0%
+           Total vehicles                                  2.376.041   2.183.730    -192.311        -8,1%
+
+
+
+
+NP_A118_20260824                                                                                            Pàgina 5 de 14
+                           A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         El nombre de vehicles que han sortit d’Andorra durant els darrers 12 mesos s’estima en
+         3.979.072. Pel que fa a la frontera francoandorrana, s’han registrat 1.098.585 sortides de
+         vehicles en aquest període, mentre que per la frontera hispanoandorrana han sortit 2.880.487
+         vehicles.
+
+
+                              Sortida de vehicles per frontera (Dades                             ago 2025 a
+                              acumulades)                                                           jul 2026
+                              Turismes (frontera francoandorrana)                                   1.076.187
+                              Vehicles pesants (frontera francoandorrana)                                22.398
+                              Total provinents de França                                            1.098.585
+                              Turismes (frontera hispanoandorrana)                                  2.715.510
+                              Vehicles pesants (frontera hispanoandorrana)                             164.977
+                              Total provinents d'Espanya                                            2.880.487
+                              Turismes total                                                        3.791.697
+                              Vehicles pesants total                                                   187.375
+                              Total vehicles                                                        3.979.072
+                             *Nota: En aquesta taula no es mostren les variacions amb el període d’ agost del 2024
+                              a juliol del 2025 ni l’acumulat, degut a que es disposen dades només a partir de
+                              novembre del 2024.
+
+
+
+
+NP_A118_20260824                                                                                                     Pàgina 6 de 14
+                                  A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         3. Entrada de vehicles per les fronteres (dades ajustades)
+
+         Pel que fa a les dades mensuals ajustades, un cop eliminades les variacions causades pels
+         efectes del calendari i del període de l’any en què ens trobem, l’entrada total de vehicles
+         presenta una tendència a la baixa, tot i que positiva, en el darrer mes, i se situa al mes de juliol
+         en un +2,1%.
+
+         Quant a l’entrada de vehicles per la frontera hispanoandorrana, mostra una tendència mensual
+         a l'alça en els darrers cinc mesos, que se situa en un +1,9%. Respecte a l’entrada de vehicles
+         per la frontera francoandorrana, en els darrers dos mesos presenta una tendència mensual a la
+         baixa, tot i que positiva, que se situa en aquest període en un +5,1%.
+
+
+         Entrada de vehicles per frontera
+                                                            feb-26     mar-26      abr-26      mai-26     jun-26      jul-26
+         (Dades ajustades)
+         Turismes (frontera francoandorrana)                 0,9%        6,4%       10,0%      10,7%       8,6%        5,1%
+         Vehicles pesants (frontera francoandorrana)         -1,9%       6,4%       12,1%      14,4%      11,4%        6,4%
+         Total provinents de França                          0,8%        6,4%       10,0%      10,7%       8,7%        5,1%
+         Turismes (frontera hispanoandorrana)                -1,0%      -0,8%       -0,1%        0,8%      1,6%        1,8%
+         Vehicles pesants (frontera hispanoandorrana)        0,0%       -0,3%       -0,3%       -0,3%      -0,2%       0,0%
+         Total provinents d'Espanya                          -1,1%      -0,9%       -0,2%        0,7%      1,6%        1,9%
+         Turismes total                                      -0,5%       1,0%        2,2%        2,9%      2,8%        2,1%
+         Vehicles pesants total                              -0,2%       0,6%        1,3%        1,4%      1,0%        0,5%
+         Total vehicles                                      -0,5%       1,0%        2,2%        2,8%      2,8%        2,1%
+
+
+
+
+         4. Sortida de vehicles per les fronteres (dades ajustades)
+
+         Pel que fa a les dades mensuals ajustades, un cop eliminades les variacions causades pels
+         efectes del calendari i del període de l’any en què ens trobem, la sortida total de vehicles
+         presenta una tendència a l’alça en els darrers cinc mesos, situant-se al mes de juliol en un
+         +3,1%.
+
+         Quant a la sortida de vehicles per la frontera hispanoandorrana, mostra una tendència mensual
+         estable en el darrer mes, que es manté en un 0,0%. Respecte a la sortida de vehicles per la
+         frontera francoandorrana, en els darrers dos mesos presenta una tendència mensual a la baixa,
+         tot i que positiva, que se situa en aquest període en un +6,8%.
+
+
+         Sortida de vehicles per frontera
+                                                            feb-26     mar-26      abr-26     mai-26     jun-26      jul-26
+         (Dades ajustades)
+         Turismes (frontera francoandorrana)                -2,9%        5,4%      11,5%       12,7%     10,4%        6,8%
+         Vehicles pesants (frontera francoandorrana)        -0,7%        2,0%       2,7%        1,9%      0,0%       -0,9%
+         Total provinents de França                         -3,0%        5,3%      11,2%       12,5%     10,2%        6,8%
+         Turismes (frontera hispanoandorrana)               -0,2%       -0,1%      -0,1%        0,1%      0,2%        0,3%
+         Vehicles pesants (frontera hispanoandorrana)        0,3%        0,1%       0,0%        0,0%      0,0%        0,2%
+         Total provinents d'Espanya                         -0,1%       -0,1%      -0,1%       -0,1%      0,0%        0,0%
+         Turismes total                                     -1,1%        0,8%       2,2%        2,8%      2,3%        1,3%
+         Vehicles pesants total                             -0,8%       -0,2%       0,3%        0,8%      1,1%        1,2%
+         Total vehicles                                     -0,3%        0,5%       1,3%        2,0%      2,8%        3,1%
+
+
+
+
+         Nota: Les dades ajustades donen una visió complementària de l’evolució mensual de les dades, sense la influència
+         dels festius, ponts o altres efectes estacionals i de calendari. Les sèries ajustades estacionalment s’han calculat
+         utilitzant una metodologia harmonitzada. Vegeu la nota metodològica al final.
+
+
+
+
+NP_A118_20260824                                                                                                          Pàgina 7 de 14
+                                            A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         5. Gràfics
+
+                                                                                    Entrada total de turismes
+           500.000
+
+           450.000
+
+           400.000
+
+           350.000
+
+           300.000
+
+           250.000
+
+           200.000
+
+           150.000
+
+           100.000
+
+                                       gen-25                                                           ago-25                                       gen-26
+                     nov-24   des-24                              abr-25   mai-25     jun-25   jul-25            set-25   oct-25   nov-25   des-25                              abr-26   mai-26   jun-26   jul-26
+                                                feb-25   mar-25                                                                                               feb-26   mar-26
+
+                                                           Dades originals                                                  Dades ajustades estacionalment
+
+
+
+
+                                                         Entrada de turismes frontera hispanoandorrana
+           290.000
+
+
+           270.000
+
+
+           250.000
+
+
+           230.000
+
+
+           210.000
+
+
+           190.000
+
+
+           170.000
+
+
+           150.000
+
+                     nov-24   des-24   gen-25   feb-25   mar-25   abr-25   mai-25     jun-25   jul-25
+                                                                                                        ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26   jul-26
+
+
+                                                             Dades originals                                                  Dades ajustades estacionalment
+
+
+
+
+NP_A118_20260824                                                                                                                                                                                           Pàgina 8 de 14
+                                                  A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+
+                                                               Entrada de turismes frontera francoandorrana
+           180.000
+
+           160.000
+
+           140.000
+
+           120.000
+
+           100.000
+
+            80.000
+
+            60.000
+
+            40.000
+
+            20.000
+
+                   0
+
+                                                                                                    jul-25                                                                                                      jul-26
+                       nov-24   des-24   gen-25     feb-25   mar-25      abr-25   mai-25   jun-25            ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26
+
+                                                                      Dades originals                                              Dades ajustades estacionalment
+
+
+
+
+                                                     Entrada de vehicles pesants frontera hispanoandorrana
+           16.000
+
+
+
+
+           14.000
+
+
+
+
+           12.000
+
+
+
+
+           10.000
+
+
+
+
+            8.000
+
+                       nov-24   des-24   gen-25     feb-25   mar-25      abr-25   mai-25   jun-25   jul-25
+                                                                                                             ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26   jul-26
+
+
+                                                              Dades originals                                                    Dades ajustades estacionalment
+
+
+
+
+NP_A118_20260824                                                                                                                                                                                                Pàgina 9 de 14
+                                                  A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+                                         Entrada de vehicles pesants frontera francoandorrana
+            4.500
+
+            4.000
+
+            3.500
+
+            3.000
+
+            2.500
+
+            2.000
+
+            1.500
+
+            1.000
+
+              500
+
+                   0
+
+                       nov-24   des-24   gen-25     feb-25   mar-25   abr-25   mai-25    jun-25   jul-25
+                                                                                                           ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26    jul-26
+
+
+                                                             Dades originals                                                 Dades ajustades estacionalment
+
+
+
+
+                                                                                        Sortida total de turismes
+           500.000
+
+           450.000
+
+           400.000
+
+           350.000
+
+           300.000
+
+           250.000
+
+           200.000
+
+           150.000
+
+           100.000
+
+                                         gen-25                                                            ago-25                                       gen-26
+                       nov-24   des-24                                abr-25   mai-25    jun-25   jul-25            set-25   oct-25   nov-25   des-25                              abr-26   mai-26   jun-26    jul-26
+                                                    feb-25   mar-25                                                                                              feb-26   mar-26
+
+                                                                Dades originals                                                 Dades ajustades estacionalment
+
+
+
+
+NP_A118_20260824                                                                                                                                                                                              Pàgina 10 de 14
+                                              A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+
+                                                           Sortida de turismes frontera hispanoandorrana
+           290.000
+
+
+           270.000
+
+
+           250.000
+
+
+           230.000
+
+
+           210.000
+
+
+           190.000
+
+
+           170.000
+
+
+           150.000
+
+                       nov-24   des-24   gen-25   feb-25   mar-25   abr-25   mai-25   jun-25   jul-25
+                                                                                                        ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26    jul-26
+
+
+                                                               Dades originals                                                Dades ajustades estacionalment
+
+
+
+
+                                                             Sortida de turismes frontera francoandorrana
+           200.000
+
+           180.000
+
+           160.000
+
+           140.000
+
+           120.000
+
+           100.000
+
+            80.000
+
+            60.000
+
+            40.000
+
+            20.000
+
+                   0
+
+                                                                                               jul-25                                                                                                       jul-26
+                       nov-24   des-24   gen-25   feb-25   mar-25   abr-25   mai-25   jun-25            ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26
+
+                                                                Dades originals                                               Dades ajustades estacionalment
+
+
+
+
+NP_A118_20260824                                                                                                                                                                                           Pàgina 11 de 14
+                                                  A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+
+                                                      Sortida de vehicles pesants frontera hispanoandorrana
+           16.000
+
+
+
+
+           14.000
+
+
+
+
+           12.000
+
+
+
+
+           10.000
+
+
+
+
+            8.000
+
+                       nov-24   des-24   gen-25     feb-25   mar-25   abr-25   mai-25   jun-25   jul-25
+                                                                                                          ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26    jul-26
+
+
+                                                              Dades originals                                                 Dades ajustades estacionalment
+
+
+
+
+                                         Sortida de vehicles pesants frontera francoandorrana
+            4.000
+
+            3.500
+
+            3.000
+
+            2.500
+
+            2.000
+
+            1.500
+
+            1.000
+
+              500
+
+                   0
+
+                       nov-24   des-24   gen-25     feb-25   mar-25   abr-25   mai-25   jun-25   jul-25
+                                                                                                          ago-25   set-25   oct-25   nov-25   des-25   gen-26   feb-26   mar-26   abr-26   mai-26   jun-26    jul-26
+
+
+                                                             Dades originals                                                 Dades ajustades estacionalment
+
+
+
+
+NP_A118_20260824                                                                                                                                                                                             Pàgina 12 de 14
+                               A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+         6. Nota metodològica
+
+             •     Font. Dades generades i enviades amb periodicitat mensual per l’Agència de Mobilitat,
+                   tractades i revisades pel Departament d’Estadística del Govern d’Andorra.
+
+             •     Definicions. El comptatge de vehicles entrats s’efectua de forma automàtica per als
+                   turismes i per als vehicles pesants, de forma separada, en ambdues fronteres.
+                   L’entrada de vehicles pesants inclou les diferents varietats de camions, però també els
+                   autocars. La categoria turismes inclou: turismes, motos, furgonetes i altres vehicles no
+                   pesants.
+
+             •     Metodologies. L’entrada de vehicles és una sèrie temporal amb estacionalitat anual
+                   que dificulta el tractament de la dada en valor original.
+
+             •     Dies i hores de tancament i restriccions dels accessos.
+
+                   Juliol del 2025:
+
+                       -   No va haver-hi cap tall.
+
+                   Juliol del 2026:
+
+                       -   No va haver-hi cap tall.
+
+            •      Càlcul de les sèries ajustades estacionalment. A partir del mes de gener del 2010 i
+                   per adaptar-nos als formats i les metodologies de càlcul sota estàndards internacionals,
+                   el Departament d’Estadística aplicarà la metodologia X12 ARIMA de l’Eurostat i US
+                   Census Bureau en la desestacionalització de les sèries. Aquesta metodologia permet
+                   fer una estimació de la sèrie ajustada de l’efecte del calendari i efectes estacionals per
+                   a poder comparar les dades amb anys anteriors (per exemple no s’hauria de comparar
+                   les dades originals d’un mes de juny amb Setmana Santa amb el mateix mes de juny
+                   sense Setmana Santa, o no seria comparable xifres d’un mes amb 5 caps de setmana
+                   que el mateix mes amb 4 caps de setmana).
+                   Els valors resultants són estimacions provisionals, subjectes als ajustaments en funció
+                   de l’evolució dels nous valors mensuals de la sèrie.
+
+                   Per a més detall de la informació es pot consultar la nota metodològica a la pàgina web
+                   d’Estadística: https://bit.ly/3addfLD.
+
+             •     Referències metodològiques.
+
+                   Eurostat:
+                   L’Eurostat (en anglès: Statistical Office of the European Communities) és
+                   l’oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+                   Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+                   https://joinup.ec.europa.eu/software/demetraplus/description
+
+                   US Census Bureau:
+                   L’Oficina del Cens dels Estats Units (de l’anglès United States Census Bureau) és una
+                   part del Departament de Comerç dels Estats Units. És l’organisme governamental que
+                   s’encarrega del cens al país. El seu objectiu és donar una font de dades de qualitat
+                   sobre la població dels EUA i la seva economia.
+                   http://www.census.gov
+
+
+
+
+NP_A118_20260824                                                                                           Pàgina 13 de 14
+                              A118. Estadística del flux de vehicles. Juliol del 2026
+
+
+             •     Altres consideracions
+
+                   El càlcul de l’entrada de vehicles al Principat d’Andorra es realitza mitjançant un
+                   sistema basat en càmeres instal·lades als punts fronterers del país que permeten una
+                   captació més precisa i exhaustiva dels fluxos de vehicles. Aquesta actualització
+                   metodològica implica un trencament de sèrie amb efectes retroactius a partir de
+                   novembre de 2024. En conseqüència, les dades anteriors a aquesta data no són
+                   estrictament comparables amb les publicades a partir d’aquest període.
+
+                   Les dades posteriors al novembre del 2024 estan disponibles a l’apartat Estadístiques i
+                   Dades/Estadístiques sectorials/Transport/Estadística del flux de vehicles (metodologia
+                   2026) amb el codi d’agrupació temàtica 02050403.
+
+                   Les dades anteriors al novembre del 2024 estan disponibles a l’apartat Estadístiques i
+                   Dades/Estadístiques sectorials/Transport/Estadística del flux de vehicles amb el codi
+                   d’agrupació temàtica 02050402.
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa, preguem citeu: “Dades de l’Agència de Mobilitat, tractades pel Departament
+                   d’Estadística per a la Nota de Premsa ref. NP_A118_20260824”.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A118. Estadística del flux de vehicles
+
+             •     Difusió.     Dades     disponibles     al    web   www.estadistica.ad,       a    l’apartat
+                   Estadístiques/Dades/Transport/Estadística del flux de vehicles (metodologia2026). Per
+                   estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la
+                   nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes
+                   de premsa d’aquest tema: http://www.estadistica.ad
+
+               Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+               de Premsa del Departament d’Estadística es podran seguir també per Twitter
+               (actualment X)
+         ____________________________________________________________________________
+
+
+         7. Dates de les publicacions previstes
+
+             Nota de premsa A118. Estadística del flux de vehicles. Agost del 2026: 24 de setembre del
+             2026
+
+
+
+
+NP_A118_20260824                                                                                            Pàgina 14 de 14
+
