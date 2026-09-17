@@ -241,7 +241,32 @@ amb punt volat convertit en punt, «referéndum» amb accent agut, «Mare de Deu
 sense accent, «Farrás» amb accent agut— **que indiquen una conversió de format**.
 **Cap citació d'aquesta fitxa no depèn d'aquests caràcters**, però **la grafia
 dels noms propis de la fórmula de promulgació no s'ha contrastat amb el BOPA**.
-`Requereix el BOPA del 4 de maig de 1993 o la data que correspongui.`
+
+**`resolt` el 17-09-2026, i el resultat desmenteix la hipòtesi.** El
+[BOPA](../../../fonts/bopa.md) **núm. 24, del 3 de maig del 1993** —**no del 4**—
+porta la Constitució sencera (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`),
+i **les quatre irregularitats sospitoses de conversió hi són totes quatre
+igual**:
+
+| | L'exemplar del corpus | El BOPA |
+| --- | --- | --- |
+| **«col.laboració»** | amb punt | **amb punt** |
+| **«referéndum»** a la fórmula de promulgació | accent agut | **accent agut** |
+| **«Mare de Deu de Meritxell»** | sense accent | **sense accent** |
+| **«Jordi Farrás Forné»** | accent agut | **accent agut** |
+
+**No són defectes de conversió: són la grafia oficial publicada.** **El corpus
+retira la sospita que havia registrat.**
+
+**I el BOPA n'afegeix una que no s'havia vist**: **«referéndum» amb accent agut
+apareix a la fórmula de promulgació, mentre que al cos de la Constitució
+—articles 45, 76, 79, 106, 107— sempre hi diu «referèndum» amb accent greu.**
+**El mateix document escriu la mateixa paraula de dues maneres**, i **la que
+està malament és precisament la de la signatura dels coprínceps.**
+
+**Una data que això aclareix**: **la Constitució entra en vigor el dia de la seva
+publicació al BOPA** (disposició final), **és a dir el 3 de maig del 1993** —
+signada a Casa de la Vall el 28 d'abril, cinc dies abans.
 
 **No consta la data de publicació al BOPA**, i **és la data d'entrada en vigor**
 per la disposició final. La fitxa pot dir quan es va signar —**28 d'abril de
