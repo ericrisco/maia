@@ -74,7 +74,13 @@ banc.**
 
 ## Buits registrats
 
-- **Quants bancs hi ha** i quina mida tenen, no consta al corpus.
+- **Quants bancs hi ha** i quina mida tenen, no consta al corpus. — **`parcial`
+  el 17-09-2026, i el que es tanca és una via.** **El BOPA no publica el registre
+  d'entitats bancàries**: la cadena exacta «registre d'entitats bancàries» surt a
+  **un sol document de tot el Butlletí** —la Llei del 30 de juny de 1998 que el
+  crea— i **cap edicte no en publica la llista ni les altes i baixes**. **La via
+  del BOPA queda descartada, no pendent.** `Requereix el registre de l'AFA o una
+  petició directa.`
 - ~~**La supervisió prudencial** (116 articles sobre solvència, liquiditat, capital
   de nivell 1 i 2) **no s'ha llegit**: el corpus sap qui supervisa, no amb quins
   ràtios.~~ — **`resolt` el 17-09-2026** pel que fa als ràtios
