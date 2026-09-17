@@ -107,77 +107,59 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
 
 ## Portar l'Administració a judici
 
-**Abans de demandar s'ha d'haver recorregut.** L'article 8 de la
-[Llei de la jurisdicció administrativa i fiscal](../../../fonts/bopa.md) diu que la
-interposició prèvia d'un recurs administratiu **«és un requisit necessari per a
-obrir l'accés a la jurisdicció»**, amb una sola excepció: l'article 40 del Codi
-de l'Administració. Qui salta aquest pas es troba, a l'article 85, amb una de les
-quatre causes per les quals el Tribunal Superior pot confirmar el refús de la
-demanda —les altres tres són la manca evident de legitimació, la cosa jutjada
-manifestament fundada i els terminis.
+**La llei que regula això és del 2022, i la que hi havia abans és morta del tot.**
+La **Llei 9/2022, del 7 d'abril, del Procediment Contenciós Administratiu** deroga
+expressament **«el text refós de la Llei de la jurisdicció administrativa i
+fiscal […] aprovat per decret legislatiu de l'11 de desembre del 2019»** i, a
+més, **els articles 138 a 187 del text refós de la Llei transitòria de
+procediments judicials**. Va entrar en vigor **sis mesos després de publicar-se**,
+el 26 d'abril del 2022. **Que una consolidació sigui la darrera publicada no vol
+dir que sigui vigent**: aquesta ho va ser tres anys.
 
-**Els terminis són dos, i el llarg depèn del silenci.** L'article 36 dona **un mes
-des de la notificació** de l'acte o de la resolució del recurs previ. **Si no hi ha
-notificació, sis mesos** a comptar del dia en què la sol·licitud o el recurs
-**s'hagin de considerar desestimats per silenci**. Com que [el silenci andorrà és
-negatiu per defecte](#callar-vol-dir-que-no), el termini llarg és el que governa
-tot el que l'Administració no contesta. Per als incidents que impossibiliten
-continuar el procediment, l'article 78 en dona **vuit dies**. El còmput no és en
-aquesta Llei: l'article 32 remet al **capítol X del Codi de l'Administració**, i
-aquesta remissió **ja no fa diana**. El capítol X del Codi vigent
-(Llei 14/2023) és l'administració electrònica; els terminis són al **capítol
-novè**, i els recursos administratius que cita l'article 8 —«capítol IX»— són al
-**vuitè**. Comparant el text refós del 2018 amb el vigent es veu per què:
-**el capítol de la funció pública ha desaparegut del Codi** —se'l va endur
-[la Llei 1/2019](#ser-funcionari-primer-els-andorrans)—, tot el que anava darrere
-ha pujat una posició i **s'ha afegit un capítol nou al final**. Les tres regles de
-còmput, això sí, sobreviuen paraula per paraula, només renumerades dels articles
-130-132 als **137-139**: **els terminis es compten des de l'endemà** de la
-notificació o publicació; **els dies són hàbils** llevat que es digui el
-contrari; **els mesos i els anys, data a data**, i si el mes de venciment no té
-dia equivalent, s'acaba **el dia u del mes següent**; si el darrer dia és festiu,
-passa al primer dia hàbil. L'Administració pot prorrogar terminis **com a màxim
-la meitat**, però **mai els dels recursos**.
+**Abans de demandar s'ha d'haver recorregut.** El recurs administratiu previ
+segueix sent la porta, i la seva absència és una de les **quatre causes
+d'inadmissió** de l'article 18.2, amb la manca de jurisdicció, la caducitat del
+termini i l'acte no impugnable.
 
-**Demandar no atura res.** L'article 9 és explícit: **«La interposició de
-qualsevol demanda no implica la suspensió de l'acte impugnat»**. La suspensió és
-una decisió del jutge, d'ofici o a instància de part, i només per dos motius:
-**que executar l'acte pugui causar perjudicis d'impossible o difícil reparació**,
-o **que s'impugni per causes de nul·litat de ple dret**. En apel·lació es pot
-tornar a demanar —o demanar per primera vegada— i la sala hi ha de decidir **en
-cinc dies** (article 63).
+**El termini s'ha doblat: de un mes a dos.** L'article 17 dona **dos mesos** des
+de la notificació de l'acte o de la resolució del recurs previ —la llei del 1989
+en donava un—, **dos mesos** per al recurs de lesivitat des de la declaració, i
+**dos mesos** des que es coneix una actuació en via de fet. **Si no hi ha
+notificació, sis mesos** des que la sol·licitud s'ha de considerar desestimada per
+silenci: com que [el silenci andorrà és negatiu per defecte](#callar-vol-dir-que-no),
+aquest és el termini que governa tot el que l'Administració no contesta.
 
-**Qui pot demandar és gairebé tothom, i des del 2019 també en nom d'altri.**
-L'article 21 dona capacitat processal a **tots els administrats majors d'edat**, i
-l'article 22 permet als menors sotmesos a pàtria potestat **comparèixer
-personalment a partir dels 16 anys** en el que els afecti personalment. L'article
-23 legitima qualsevol persona física o jurídica contra els actes de l'article 1.a,
-i qui tingui **«un interès, dret o expectativa de dret»** per als de l'1.b. El
-punt 2 és posterior i ve de [la llei d'igualtat de tracte](../../societat/dones/la-llei-digualtat.md):
-sindicats i associacions de defensa de la igualtat poden actuar **en nom de les
-persones afiliades amb la seva autorització**, i **sense autorització quan les
-afectades són una pluralitat indeterminada o difícil de determinar**. També hi ha
-legitimació passiva del particular beneficiat per l'acte (article 24) i
-intervenció com a adherent en qualsevol moment abans de sentència, però
-**l'adherent no pot fer retrocedir el procediment** (article 25). El procediment
-**és gratuït** (article 31).
+**Demandar no atura res, i demanar que s'aturi té procediment propi.** L'article 6
+manté la regla: **la interposició no comporta la suspensió**, però el tribunal la
+pot acordar d'ofici o a instància de part **si executar l'acte pot causar
+perjudicis d'impossible o difícil reparació, o si s'impugna per nul·litat de ple
+dret**. La novetat del 2022 és el **ventall**: contra una **via de fet** es poden
+demanar altres mesures cautelars, i el tribunal pot **exigir caució**. El
+procediment és l'article 20: **vuit dies hàbils d'al·legacions** a les altres
+parts, i **la suspensió es denega sempre que pugui provocar una pertorbació greu
+de l'interès general o de terceres persones**. L'aute que hi decideix **és
+apel·lable**.
 
-**El text vigent encara cita dos decrets del segle passat i un del 1866.** La
-representació processal es fonamenta en el **Decret dels delegats permanents del
-15 de novembre de 1975**, i l'article 24.2 precisa que per ser demandat **no cal
-la llicència establerta per l'article 16 del Decret del 22 d'abril de 1866**. Tres
-articles de la Llei —el 7, el 87 i els 89 a 91— són a dins com a caselles buides:
-**«sense contingut i substituït per»** la Llei qualificada de la Justícia i la
-Llei d'expropiació del 1993.
+**Qui pot demandar.** La capacitat és **la mateixa que davant la jurisdicció
+civil**, i els menors la tenen **per als drets que l'ordenament els deixa exercir
+per si mateixos, sense assistència** de qui exerceix l'autoritat parental
+(article 10.2). La legitimació activa de l'article 11 té tres portes: **qui tingui
+un dret o un interès legítim**; **qualsevol persona amb capacitat processal per
+impugnar reglaments i disposicions generals**, o quan una norma declari l'acció
+pública; i **l'Administració mateixa contra un acte propi, prèvia declaració de
+lesivitat per a l'interès públic**. El punt 2 ve de
+[la llei d'igualtat de tracte](../../societat/dones/la-llei-digualtat.md):
+sindicats i associacions poden actuar **en nom de les persones afiliades amb la
+seva autorització**, i **sense autorització quan les afectades són una pluralitat
+indeterminada o difícil de determinar**. I hi ha una excepció que va en sentit
+contrari: **en els litigis d'assetjament sexual o per raó de sexe, la persona
+assetjada és l'única legitimada**.
 
-**Guanyar i que s'executi són coses diferents.** L'Administració té **sis mesos
-improrrogables** des de la sentència ferma per informar de l'execució voluntària
-(article 99); si no s'ha executat, o s'ha executat parcialment o inadequadament, el
-ponent en pot fer **l'execució forçosa d'ofici** si no li toca [al saig](../justicia/lexecucio-forcosa.md).
-Les eines són **multa coercitiva** —independent i compatible amb la multa
-sancionadora—, **execució subsidiària** a càrrec de l'obligat, i **compulsió
-directa**. I quan la sentència anul·la una disposició de caràcter general, **s'ha
-de publicar sencera al Butlletí Oficial immediatament després de notificar-la**.
+**Els primers terminis del tribunal.** **Tretze dies hàbils** per pronunciar-se
+sobre l'admissió; **cinc dies hàbils** per esmenar defectes; **vint dies hàbils**
+comuns per contestar la demanda. I una regla de privacitat que val la pena
+retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicació
+«no ha d'esmentar el nom de la persona o persones que recorren»**.
 
 ## Buits registrats
 
@@ -187,20 +169,22 @@ de publicar sencera al Butlletí Oficial immediatament després de notificar-la*
 - ~~**El Procediment Contenciós Administratiu** només s'ha llegit per la porta
   d'entrada: terminis, legitimació i mesures cautelars **queden pendents**.~~ —
   **`resolt` el 17-09-2026** a «[Portar l'Administració a judici](#portar-ladministracio-a-judici)»
-  (`docs/raw/lleis/bopa/decret-legislatiu-2019-text-refos-jurisdiccio-administrativa-fiscal.txt`,
-  **text refós de l'11-12-2019 de la Llei del 15-11-1989, 114 articles**). Els
-  **terminis** són un mes, sis mesos si hi ha silenci i vuit dies per als
-  incidents; la **legitimació** és la dels articles 21 a 26; les **mesures
-  cautelars**, l'article 9 i el 63.
-- **La disposició addicional cinquena de la Llei promet un text que no s'ha
-  identificat.** «Un text ulterior regularà l'actuació dels advocats davant la
-  jurisdicció administrativa i fiscal.» **Cap norma del BOPA no porta aquest
-  objecte**; la [Llei 48/2014 de l'exercici de la professió d'advocat](../../../fonts/bopa.md)
+  (`docs/raw/lleis/contenciós-administratiu.txt` i l'original al
+  [BOPA](../../../fonts/bopa.md) a
+  `docs/raw/lleis/bopa/llei-9-2022-procediment-contencios-administratiu.txt`,
+  **Llei 9/2022, 75 articles**). **Terminis**: dos mesos, sis si hi ha silenci.
+  **Legitimació**: articles 9 a 13. **Cautelars**: articles 6 i 20.
+- **La Llei del 1989 va prometre un text sobre l'actuació dels advocats davant
+  aquesta jurisdicció i no s'ha identificat.** La promesa va morir amb la llei el
+  2022, però **queda obert si es va complir mai**: la
+  [Llei 48/2014 de l'exercici de la professió d'advocat](../../../fonts/bopa.md)
   regula la professió en general, no l'actuació davant aquesta jurisdicció.
-  **Queda obert si mai s'ha dictat o si la promesa s'ha considerat coberta per la
-  llei general.**
-- **Les tres consolidacions successives de la Llei —2015, 2018 i 2019— no s'han
-  comparat.** El que s'ha llegit és la darrera.
+- **Del règim del 2022 s'ha llegit el títol preliminar i la primera instància.**
+  **Els recursos (capítol segon), la revisió de sentències fermes (tercer) i tot
+  el llibre d'execució** —voluntària, forçosa i incidents— **queden per llegir.**
+- **La Llei transitòria de procediments judicials**, de la qual el 2022 en deroga
+  els articles 138 a 187, **no s'ha llegit mai**. És dret processal supletori i no
+  se sap què hi queda viu.
 - ~~**La carrera i el règim disciplinari** dels funcionaris (les 10 versions de la
   Llei 1/2019) no s'han buidat.~~ — **`resolt` el 17-09-2026**
   (`docs/raw/lleis/funcio-publica.txt`, **Llei 1/2019, 125 articles**;
