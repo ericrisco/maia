@@ -116,7 +116,16 @@ efectuades i les denegades** (20.6). **Les negatives queden escrites.**
   **[la llei de transparència](./la-llei-de-transparencia.md) el declara amb les
   mateixes paraules.** **Comptat un sol cop, és un buit i no dos.**
   **És una dada d'execució, no de norma**, i **cap document del corpus no la
-  té.** `Requereix font externa: el BOPA, o l'informe del Raonador.`
+  té.**
+
+  **`parcial` el 17-09-2026, i el que es tanca és una via.** **El
+  [BOPA](../../../fonts/bopa.md) cercat per la frase exacta «informació
+  reservada d'Estat» dona dos documents en tot el Butlletí**, i **tots dos són
+  lleis** —la **33/2021** de transparència i la **22/2022** de seguretat de les
+  xarxes—: **cap acte de declaració, cap resolució, cap edicte.** **Si s'ha
+  declarat mai, no s'ha publicat.** **La via del BOPA queda descartada, no
+  pendent.** `Requereix l'informe del Raonador del Ciutadà o una petició
+  directa.`
 - **La Comissió Nacional d'Accés i Avaluació de la Documentació** (CNAAD) —
   articles 23 a 27— **llegida el 14-09-2026**:
   [El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md).

@@ -126,7 +126,31 @@ mig, i la resta a cobert.
   **I ara se sap també on NO és**: **`raw/web/esport/` té trenta-nou bolcats
   d'institucions esportives andorranes i cap no és ni l'Escola Nacional
   d'Esquí ni la Federació Andorrana d'Esquí.**
-  `Requereix font externa: el BOPA anterior al 1996.`
+
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+  **48 del 1996**
+  (`docs/raw/societat/esqui-escolar/llei-1996-modificacio-escola-nacional-esqui.txt`).
+  **La llei anterior té data**: **el Consell General va crear l'Escola nacional
+  andorrana d'esquí en la sessió ordinària del 23 de setembre del 1988.**
+  **Vuit anys abans de la modificació, i cinc abans de la Constitució.**
+
+  **Per què el text original no hi serà mai**: **el BOPA comença el 1989.**
+  **La llei de creació és d'un any abans que el Butlletí existís.** **No és un
+  buit de cerca: és anterior al medi.**
+
+  **El que la llei del 1996 sí que dona, i el corpus no tenia:**
+
+  | | |
+  | --- | --- |
+  | **Què és** | **ENADE**, **escola pública dependent del Ministeri d'Educació**, amb **personalitat jurídica pròpia** |
+  | **Qui la paga** | **S'autofinança.** Els seus recursos són el patrimoni propi i **un percentatge sobre els ingressos de les escoles d'esquí**. La llei ho diu sense embuts: es reestructura «de manera que **no representi cap càrrega onerosa per a l'Estat**» |
+  | **Qui la dirigeix** | Un **Comitè Rector** amb **un representant del Govern**, els directors i un monitor de cada escola, un representant de cada estació i un de l'Escola de formació de professions esportives i de muntanya. **Mandat de quatre anys** |
+  | **Qui mana de debò** | Els acords es prenen per majoria, **però el representant del Govern hi té un dret de vet** que comporta **«la suspensió indefinida de l'execució de l'acord»**, motivat i fet constar en acta |
+
+  **El dret de vet de l'article 5.4 és la peça que val la pena retenir**:
+  **un sol membre de tot el Comitè pot aturar indefinidament qualsevol acord**,
+  i **és el del Govern.** **L'escola és formalment autònoma i materialment
+  no.**
 - **Si continua sent obligatori el 2026.**
 - ~~Qui ho paga~~ — **tancat**: **el Govern d'Andorra**, també per als alumnes
   dels sistemes espanyol i francès
