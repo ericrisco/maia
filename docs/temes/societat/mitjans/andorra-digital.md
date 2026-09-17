@@ -107,8 +107,50 @@ primer, activitat després.
 - **Els 165 articles de la Llei 42/2022 només s'han llegit pel seu article
   primer.** Cada títol —startups, crowdfunding, dades obertes— demana la seva
   pròpia lectura.
-- **Les sancions de protecció de dades** i les competències de l'APDA no s'han
-  buidat.
+- ~~**Les sancions de protecció de dades** i les competències de l'APDA no s'han
+  buidat.~~ — **`resolt` el 17-09-2026**, buidades del text de la **Llei 29/2021**
+  que el corpus ja tenia (`docs/raw/lleis/bopa/llei-29-2021-proteccio-dades.txt`).
+
+  **Les multes tenen tres graons i un sostre modest per a l'estàndard europeu:**
+
+  | Infracció | Multa |
+  | --- | --- |
+  | **Molt greu** | **de 30.001 a 100.000 €** |
+  | **Greu** | de 15.001 a 30.000 € |
+  | **Lleu** | de 500 a 15.000 € |
+
+  **I l'APDA té nou potestats correctives que pot acumular** (article 67): des de
+  **l'advertència** —abans que el tractament es faci— i **l'amonestació** —quan
+  ja s'ha fet—, fins a **ordenar que s'atenguin els drets de l'interessat**,
+  **imposar una limitació temporal o definitiva del tractament, inclosa la
+  prohibició**, **ordenar rectificar o suprimir dades**, i **ordenar la
+  suspensió dels fluxos de dades cap a un tercer país o una organització
+  internacional.** **La multa és l'última de la llista i s'hi afegeix, no la
+  substitueix.**
+
+  **I hi ha una excepció que val per ella sola** (article 74): **quan qui
+  infringeix és l'Administració general, un comú, el Consell General, el Consell
+  Superior de la Justícia, el Raonador del Ciutadà, el Tribunal de Comptes, un
+  òrgan jurisdiccional o un ens parapúblic**, **l'APDA no pot multar-los:
+  «ha de dictar resolució sancionant-los amb amonestació»**, i **ordenar que
+  cessi la conducta.**
+
+  **L'Estat andorrà no es multa a si mateix per protecció de dades.** **La
+  sanció econòmica és només per als privats.**
+
+  > **Vigència comprovada** segons la regla del 17-09-2026: **la Llei 12/2024,
+  > del 15 de juliol, modifica la 29/2021**
+  > (`docs/raw/lleis/bopa/llei-12-2024-mod-proteccio-dades.txt`), **però només
+  > els articles 46 a 59** —**tot el capítol sisè, el de l'Agència**—, **i cap
+  > dels d'infraccions i sancions.** **El que hi ha dalt es manté.**
+  >
+  > **El que la 12/2024 canvia, i és substantiu**: **el personal inspector deixa
+  > de ser de designació política i passa a ser funcionari**, seleccionat per un
+  > comitè després d'un procés públic; **la persona cap de l'Agència se segueix
+  > elegint al Consell General per dos terços, i ara després d'una convocatòria
+  > pública i d'una avaluació de capacitats per la comissió legislativa
+  > constituïda en comitè de validació**; i **la intervenció del Consell General
+  > passa a fiscalitzar-ne els comptes.**
 - **La llei de seguretat de xarxes i la de confiança electrònica** només s'han
   identificat.
 - **Quants clubs i jugadors d'e-sports hi ha registrats**, tampoc.
