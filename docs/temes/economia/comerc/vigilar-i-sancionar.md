@@ -164,6 +164,22 @@ coherent amb un país la banca del qual viu de la seva homologació
   com a norma germana, **no és al recull**. — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: és la **Llei 8/2004, del 27 de maig,
   qualificada del Cos de Policia**, butlletí **39 del 2004**
-  (`docs/raw/lleis/bopa/llei-8-2004-cos-de-policia.txt`), **amb text refós
-  publicat per Decret legislatiu del 24-5-2017**. **La norma germana ja no
-  falta.**
+  (`docs/raw/lleis/bopa/llei-8-2004-cos-de-policia.txt`). **La norma germana ja
+  no falta.**
+
+  **Ampliat el mateix dia amb la regla dels dos passos, i calia.** **El text
+  del 2004 no és el vigent.** La **Llei 2/2017, del 9 de febrer** el reforma
+  amb **cent tretze articles** que, segons la seva pròpia exposició de motius,
+  **«reformen la gran majoria de disposicions de la Llei vigent»**, i el
+  resultat es publica com a **text refós pel Decret legislatiu del 24-5-2017**
+  (`docs/raw/lleis/bopa/decret-legislatiu-2017-text-refos-cos-de-policia.txt`).
+  **Els dos textos tenen els mateixos 111 articles i el refós en té 32.000
+  caràcters més**: **no s'hi afegeixen articles, es reescriuen.** Abans només
+  s'havia tocat **molt puntualment**, per la Llei 23/2014 del pla de pensions
+  de la funció pública.
+
+  **I l'exposició de motius del 2017 dona dues dates que el corpus no tenia**:
+  **la policia andorrana neix el 1931 amb el nom de «Servei d'Ordre»**, i **la
+  norma que la Llei del 2004 va substituir és el Decret orgànic del Servei de
+  Policia, del 3 de juliol de 1989**. `Requereix el Decret orgànic del 1989 i
+  el que hi hagués entre el 1931 i el 1989.`
