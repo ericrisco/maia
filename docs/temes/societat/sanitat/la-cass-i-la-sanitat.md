@@ -134,6 +134,40 @@ del termini de derivacions.
 - [Com funciona tot](../../vida-quotidiana/com-funciona-tot/com-funciona-tot.md).
 - [Fitxa del BOPA](../../../fonts/bopa-ad.md).
 
+## Dos convenis de seguretat social, i cap amb Portugal
+
+**Andorra en té dos, tots dos dels primers anys dos mil**
+(`docs/raw/desocupacio/convenis-seguretat-social/`):
+
+| Amb | Signat | Ratificat pel Consell General | En vigor |
+| --- | --- | --- | --- |
+| **Regne d'Espanya** | **9 de novembre del 2001**, a Andorra la Vella | 14 de maig del 2002 | **1 de gener del 2003** |
+| **República Francesa** | **12 de desembre del 2000**, a Andorra la Vella | 14 de juny del 2001 | **1 de juny del 2003** |
+
+**Cadascun va acompanyat del seu arranjament administratiu**, que és el que en
+fixa les modalitats d'aplicació i que entra en vigor el mateix dia que el
+conveni. **Amb Portugal no n'hi ha cap**: el Butlletí només registra el
+**Conveni del 2007 relatiu a l'entrada, la circulació, el sojorn i
+l'establiment**, que és d'immigració i no de seguretat social.
+
+**El principi que els ordena és la residència, no la nacionalitat.** L'exposició
+del conveni amb Espanya ho diu: **«En l'apartat de prestacions d'assistència
+sanitària, el concepte central és el de residència. La institució competent del
+lloc de residència és qui se'n fa càrrec.»** Sobre aquesta regla hi ha
+excepcions, i **la primera és la que afecta més gent aquí**: **els treballadors
+que resideixen en un estat i treballen en l'altre poden triar** entre la cobertura
+sanitària del lloc de residència i la del lloc on treballen. **El fronterer tria;
+la resta, no.** I el conveni imposa **igualtat de tracte**: els treballadors de
+l'altra part que exerceixin legalment una activitat, assalariada o no, **han de
+tenir les mateixes condicions que els nacionals**.
+
+**Això desmunta una lectura fàcil.** El corpus havia deixat obert si hi havia
+relació entre llengua materna i existència de conveni. **Els dos convenis són amb
+els dos estats veïns i s'expliquen per la frontera, no per la llengua**: el que
+els fa necessaris és **que hi ha gent que creua cada dia per treballar**, i el
+mecanisme que hi construeixen —el dret d'opció del fronterer— **només té sentit en
+una frontera terrestre**.
+
 ## Buits registrats
 
 - Tancat el buit genèric «la CASS mateixa no s’ha obert»: la
@@ -159,9 +193,13 @@ del termini de derivacions.
   tanda. S’han retirat com a fets; la
   [instantània anterior](../../../raw/desocupacio/la-cass-i-la-sanitat-abans-20260913.txt)
   conserva el text per auditar la revisió.
-- No s’han llegit els convenis d’assistència amb Espanya, França o Portugal,
+- ~~No s’han llegit els convenis d’assistència amb Espanya, França o Portugal,
   ni s’ha documentat una relació causal entre llengua materna i existència
-  de convenis. No s’han verificat aquí les competències i centres del SAAS,
-  la sanitat privada o l’atenció efectiva. Els llindars normatius de demora
+  de convenis.~~ — **`resolt` el 17-09-2026** a «[Dos convenis de seguretat
+  social, i cap amb Portugal](#dos-convenis-de-seguretat-social-i-cap-amb-portugal)»:
+  **n'hi ha dos, amb Espanya i França**, tots dos en vigor el 2003, **i amb
+  Portugal cap**. **La relació amb la llengua no es documenta i s'explica millor
+  per la frontera.** No s’han verificat aquí les competències i centres del
+  SAAS, la sanitat privada o l’atenció efectiva. Els llindars normatius de demora
   per derivació externa consten al reglament de 2026; els temps reals
   d’accés continuen sense contrastar.
