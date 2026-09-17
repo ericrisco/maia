@@ -118,6 +118,53 @@ Hi ha també un **Cos de voluntaris de protecció civil** amb capítol propi
   conjunt d'episodis, els informes operatius originals i els aiguats.
 - **Quantes persones hi ha al Cos de voluntaris**, no consta.
 - **Si el deure de col·laboració s'ha activat mai**, tampoc.
-- **La [Llei de seguretat pública](../../institucions/justicia/el-dret-vigent.md)**
+- ~~**La [Llei de seguretat pública](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 31/2021, 66 articles), que és la peça germana, és al recull i **queda per
-  llegir**.
+  llegir**.~~ — **`resolt` el 17-09-2026**, llegida sencera
+  (`docs/raw/lleis/seguretat-publica.txt`, contrastada amb el text consolidat
+  del [BOPA](../../../fonts/bopa.md),
+  `docs/raw/lleis/bopa/llei-31-2021-seguretat-publica-consolidat.txt`).
+  **No és la germana de la protecció civil: és una altra cosa.** **Vuit títols,
+  i el gruix no va d'emergències sinó de drets de reunió, videovigilància i
+  convivència.**
+
+  **Reunió i manifestació no es tracten igual, i la diferència és tot el
+  sistema.** **La reunió** —domicilis, locals tancats, entitats amb els seus
+  membres, professionals amb els seus clients— **«no està subjecta a cap
+  autorització o comunicació prèvies»** (article 4.2). **La manifestació**
+  —«la concurrència concertada de diverses persones en una via o espai públic»—
+  **s'ha de comunicar al ministre d'Interior amb vuit dies hàbils d'antelació
+  com a mínim i quaranta-cinc com a màxim**, i **només dos dies si hi ha
+  «causes extraordinàries i greus»** (article 6).
+
+  **El ministre no autoritza: objecta.** **Pot dictar una resolució motivada
+  que suggereixi «ubicacions o itineraris alternatius, o dates o hores
+  diferents, o mesures de seguretat i protecció addicionals»** (article 9.1),
+  i **aquella resolució és impugnable directament per la via jurisdiccional
+  pel procediment urgent i preferent de l'article 41.1 de la Constitució**
+  (article 10). **La suspensió o dissolució té quatre causes taxades**, i **la
+  quarta no parla de violència sinó de trànsit**: **«quan impedeixi la lliure
+  circulació de les persones o dels béns»** (article 12.1.d).
+
+  **La responsabilitat és personal i, subsidiàriament, dels organitzadors**:
+  qui causa danys en respon directament, i **els promotors responen
+  subsidiàriament «llevat que justifiquin que han adoptat totes les mesures
+  raonables al seu abast per evitar-los»** (article 11.2).
+
+  **I hi ha un article que aquesta fitxa sí que ha d'anotar**, perquè és
+  l'únic que toca l'emergència: **l'article 4.3 deixa que el Govern restringeixi
+  el nombre de persones que es poden reunir «per motius de protecció de la
+  salut pública»**, **un mes prorrogable dos més**, i **a partir d'aquí cal
+  demanar la pròrroga al Consell General**, «i així successivament». **És el
+  confinament de reunions sense declarar l'estat d'alarma**, amb un rellotge
+  de tres mesos abans que hi entri el Parlament.
+
+  **La resta de la llei és el país quotidià, no la muntanya**: **videovigilància**
+  (títol V), amb **autorització prèvia del ministre d'Interior per a qualsevol
+  càmera que capti la via pública, pública o privada** (article 21.1) i una
+  **Comissió Nacional de Videovigilància**; **objectes perduts**; **prohibició
+  de consumir alcohol a la via pública** tret de terrasses autoritzades i
+  espais habilitats per festes, **amb el llindar legal fixat en 1,0 graus de
+  volum** (article 35.3); **establiments de restauració i oci nocturn**;
+  **alarmes sonores**; i **un règim d'infraccions i sancions que ocupa tot el
+  títol VIII**, amb registre i cancel·lació.
