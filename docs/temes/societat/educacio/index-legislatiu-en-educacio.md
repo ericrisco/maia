@@ -242,8 +242,9 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
 - **El decret d'avaluació del sistema educatiu (36)**: si Andorra s'avalua a si
   mateixa, els resultats existeixen.
 - **L'annex 3 sencer**, amb els docents per sistema.
-- **La Llei de guarderies infantils (1995)** i el seu reglament: el corpus no té
-  res sobre primera infància.
+- ~~**La Llei de guarderies infantils (1995)** i el seu reglament: el corpus no
+  té res sobre primera infància.~~ `resolt` el 17-09-2026:
+  [Les guarderies](./les-guarderies.md).
 
 ## Related
 

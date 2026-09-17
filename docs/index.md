@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1002** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1003** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1350,6 +1350,7 @@
 | [L'ensenyament francès](temes/societat/educacio/lensenyament-frances.md) | `temes/societat/educacio` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 | [Les associacions de pares](temes/societat/educacio/les-associacions-de-pares.md) | `temes/societat/educacio` | compilada | contemporania | no | `santos-associacions-de-pares` |
 | [Les escoles dels comuns](temes/societat/educacio/les-escoles-dels-comuns.md) | `temes/societat/educacio` | compilada | historica | no | `boladeres-ensenyament-espanyol` |
+| [Les guarderies](temes/societat/educacio/les-guarderies.md) | `temes/societat/educacio` | compilada | contemporania | no | `bopa` |
 | [L'Escola Andorrana](temes/societat/educacio/lescola-andorrana.md) | `temes/societat/educacio` | compilada | contemporania | no | `cairal-escola-andorrana` |
 | [L'escola Nostra Senyora de Meritxell](temes/societat/educacio/lescola-nostra-senyora-de-meritxell.md) | `temes/societat/educacio` | compilada | contemporania | no | `serra-educacio-especialitzada` |
 | [L'escola privada](temes/societat/educacio/lescola-privada.md) | `temes/societat/educacio` | compilada | contemporania | no | `valero-escola-privada` |
