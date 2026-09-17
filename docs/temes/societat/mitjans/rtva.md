@@ -59,12 +59,31 @@ institucional i mediàtic**, no espontani. És llengua real i andorrana, però a
 registre propi — i el corpus ja té branques separades per a
 `parla/mediatic` i `parla/espontani` precisament per això.
 
+## Quant hi posa l'Estat
+
+**5.349.092,69 euros el 2026.** És el subconcepte **44300, «RTVA, SA»**, del
+llibre del pressupost
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`).
+
+**Per situar-ho**: **la ràdio i la televisió públiques andorranes costen a
+l'Estat gairebé la meitat del que costa tot el Ministeri d'Afers Exteriors**
+—10,6 M€— i **el doble del que l'Estat preveu recaptar amb els impostos sobre
+el joc** —2,4 M€
+([què aprova el pressupost](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)).
+
+**Surt del capítol 4 del pressupost, transferències corrents**: **l'Estat no
+gestiona RTVA, la finança.**
+
 ## El que falta
 
 - Els programes concrets i quins tenen parla espontània (tertúlies, carrer) i
   quins són locució.
 - Quanta producció pròpia hi ha i quanta és aliena.
-- El marc legal de RTVA i qui la governa.
+- El marc legal de RTVA i qui la governa. — **`parcial` el 2026-09-18 pel
+  costat dels diners**: **l'Estat hi posa 5.349.092,69 € el 2026**, **com a
+  transferència corrent a «RTVA, SA»**, de manera que **és una societat que
+  l'Estat finança, no un servei que gestiona.** **La llei i els òrgans de
+  govern segueixen oberts.**
 - L'audiència: quanta gent d'Andorra mira i escolta RTVA, contra mitjans
   espanyols i francesos. — **`parcial` des del 2026-09-15: hi ha l'ordre i no
   hi ha els números.** Un estudi del Servei de Política Lingüística resumeix així

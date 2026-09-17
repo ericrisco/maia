@@ -263,13 +263,44 @@ sabuda.
 tipus de buit que un model hereta.** Un model entrenat amb text general sobre
 Andorra **no sabrà que existeix**.
 
+## Què li costa a l'Estat, el 2026
+
+**13.370.368,00 euros**, i **surten de tres programes diferents del pressupost**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`, subconcepte
+**48202, «Fundació Privada Nostra Senyora de Meritxell»**).
+
+| Programa | Funció | 2026 |
+| --- | --- | ---: |
+| **PR0042. Escola de Meritxell** | 10.1.2.02 **Formació** | **8.718.443,00 €** |
+| **PR0235. Autonomia personal** | 10.7.0.01 **No exclusió social** | **3.559.445,00 €** |
+| **PR0059. Ocupació** | 04.1.2.01 **Serveis laborals** | **1.092.480,00 €** |
+| **Total** | | **13.370.368,00 €** |
+
+`Comprovació del corpus.` **Les tres partides sumen exactament els 13.370.368,00
+€ del subconcepte.**
+
+**La xifra diu què és la Fundació en termes pressupostaris**: **no és una
+escola, són tres coses.** **Dos terços són escola** —el 65,2%—, **un quart és
+autonomia personal** —26,6%— i **un 8,2% és ocupació**. **L'Estat no hi paga
+només l'ensenyament: hi paga també el suport a la vida adulta i la feina.**
+
+**I per situar-ho**: **és la tercera transferència més gran de tot el pressupost
+andorrà**, després de **la Caixa Andorrana de Seguretat Social (59,5 M€)** i
+**les transferències als comuns (49,4 M€)**
+([què aprova el pressupost](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)).
+**Una fundació privada rep més diners públics que tot el Ministeri d'Afers
+Exteriors** —10,6 M€.—, **i un 9% més que el que l'Estat preveu recaptar amb
+l'impost de les emissions de CO₂ i el de les estades turístiques junts.**
+
 ## Buits registrats
 
 - ~~La data exacta de creació i qui la funda~~ — **tancat**: **1970**, per
   famílies afectades, particulars i **Càritas**; activitats des del **1972** amb
   **set alumnes**.
 - **El patronat rector**: qui el forma, si és privat, públic o mixt. **Segueix
-  obert** — la font hi remet constantment i no el descriu.
+  obert** — la font hi remet constantment i no el descriu. **El que sí que se
+  sap des del 2026-09-18 és com es finança**: **13.370.368,00 € del pressupost
+  del 2026**, repartits en tres programes de tres àmbits diferents, a dalt.
 - **Els gràfics d'evolució i de distribució per edats i sexe** de la ponència:
   són imatges i l'OCR els destrueix. **Cal l'original.**
 - ~~**Si el conveni nou anunciat el 2000 es va signar.**~~ — **`resolt` el

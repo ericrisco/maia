@@ -257,6 +257,26 @@ I demana que **el Govern d'Andorra, la Mitra i el ministeri d'Educació
 d'Espanya** seguin a parlar-ne, perquè aquests centres passin al sistema
 educatiu andorrà.
 
+**I la part comprovable de la reivindicació ara té xifra.** El pressupost del
+2026 (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) hi destina
+**dues línies pròpies, amb el nom de cada col·legi**:
+
+| Subconcepte | 2026 |
+| --- | ---: |
+| **48206. Col·legi Janer i Sagrada Família** | **6.867.598,23 €** |
+| **48205. Col·legi Sant Ermengol** | **5.757.270,00 €** |
+| **Total** | **12.624.868,23 €** |
+
+**Dotze milions i mig d'euros públics l'any per a tres escoles confessionals**,
+**cadascuna amb el seu subconcepte al pressupost de l'Estat**, **i cap de les
+tres no depèn del ministeri d'Educació andorrà.** **És exactament la
+desproporció que la font denuncia, expressada en euros.**
+
+`El corpus no arbitra la reivindicació: en dona la magnitud. Que el Govern en
+pagui la totalitat del pressupost no es pot comprovar amb aquestes dues xifres
+soles —caldria el pressupost dels centres— però l'ordre de magnitud sí que és
+verificable.`
+
 **El corpus ho marca com a reivindicació de part**, i n'anota el fet que la
 sosté i que és comprovable: **les escoles més antigues d'Andorra, pagades
 íntegrament per Andorra i que ensenyen en català, depenien acadèmicament de
