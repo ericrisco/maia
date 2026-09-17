@@ -193,6 +193,78 @@ davant del **Govern**.
 el corpus ha llegit els articles 48 a 52 de la llei vigent, no el capítol de
 procediment sencer.`
 
+## Cinquanta-cinc persones en un centre de cent cinquanta-tres places
+
+La llei descriu el marc; el Departament d'Estadística en publica el contingut
+cada trimestre (activitat **A072**). **A 31 de març del 2026**:
+
+| | |
+| --- | --- |
+| **Reclusos** | **55** |
+| **Capacitat de la Comella** | **153** |
+| **Ocupació** | **35,9%** |
+| Homes | **52** (94,5%) |
+| Dones | **3** (5,5%) |
+
+**La presó andorrana està a poc més d'un terç de la seva capacitat.** És **l'únic
+establiment penitenciari del país**.
+
+**Per nacionalitat** (dones + homes):
+
+| | Dones | Homes | Total |
+| --- | --- | --- | --- |
+| **Altres nacionalitats** | 1 | 22 | **23** (41,8%) |
+| Espanyola | 0 | 13 | 13 (23,6%) |
+| **Andorrana** | 1 | 11 | **12** (21,8%) |
+| Portuguesa | 1 | 6 | 7 (12,7%) |
+
+**Menys d'un reclús de cada quatre és andorrà.**
+
+**Per delicte**, els 55 reclusos es reparteixen així —i la punta és clara:
+
+| Delicte | Reclusos |
+| --- | --- |
+| **Consum, tràfic o possessió de drogues** | **12** (21,8%) |
+| Furt | 7 |
+| **Agressió, llibertat sexual, pornografia** | **7** |
+| Contraban | 4 |
+| Lesions i maltractaments | 4 |
+| Amenaces | 3 |
+| Moneda inautèntica | 3 |
+| Homicidi | 2 · **en grau de temptativa** 2 |
+| Il·lícits contra la seguretat col·lectiva | 2 · Salut pública 2 |
+| **Assassinat** | **1** |
+| Danys dolosos · Crebantaments · Desobediència · Prostitució · Extradició · Extorsió | 1 cadascun |
+
+**Un de cada cinc reclusos hi és per drogues**, i **el contraban encara hi és**,
+amb quatre.
+
+**Les condemnes són curtes.** De les **19 condemnes** del primer trimestre del
+2026 —18 d'homes i **una de dona**—, **el 57,9% són d'un a tres mesos** i només
+**una** és **d'un a tres anys**. **Cap no passa dels tres anys.** El **68,4%**
+estan en curs i el **31,6%** ja han acabat.
+
+| Durada | Condemnes (1r trim. 2026) |
+| --- | --- |
+| 1 a 15 dies | 1 |
+| 1 mes | 2 |
+| **1 a 3 mesos** | **11** |
+| 3 a 6 mesos | 2 |
+| 6 a 12 mesos | 2 |
+| 1 a 3 anys | 1 |
+| **Total** | **19** |
+
+**Els ingressos.** **27 al trimestre** —25 homes i 2 dones—, dels quals **el
+48,1% tenen entre 21 i 35 anys** i el **44,4% en tenen més de 35**. El delicte
+d'ingrés més freqüent torna a ser **drogues, amb 12**.
+
+**El que aquestes xifres diuen sobre la llei.** El marc penitenciari que la fitxa
+descriu governa **una població de cinquanta-cinc persones**, i **catorze de les
+dinou condemnes del trimestre** —**tres de cada quatre**— **són de tres mesos o
+menys**. **La durada mitjana no es pot calcular amb aquests intervals**, però
+l'ordre de magnitud és inequívoc: **el règim andorrà és, sobretot, un règim de
+condemna curta.**
+
 ## Buits registrats
 
 - ~~**Quants centres penitenciaris hi ha, la llei no ho diu.**~~ `resolt` el
@@ -219,5 +291,9 @@ procediment sencer.`
 - ~~**Tota la lletra petita és reglamentària.**~~ `resolt` el 17-09-2026, **i la
   resposta capgira el buit: ja no és reglamentària.** Vegeu
   [El reglament que va pujar a llei](#el-reglament-que-va-pujar-a-llei).
-- **Cap dada de població reclusa**: quantes persones, quina nacionalitat, quina
-  durada mitjana. La llei descriu el marc; no hi ha el contingut.
+- ~~**Cap dada de població reclusa**: quantes persones, quina nacionalitat, quina
+  durada mitjana.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**
+  (activitat **A072**, nota del 16-07-2026): vegeu
+  [Cinquanta-cinc persones en un centre de cent cinquanta-tres places](#cinquanta-cinc-persones-en-un-centre-de-cent-cinquanta-tres-places).
+  `La durada mitjana en sentit estricte no es pot calcular: la nota publica
+  intervals, no dies.`

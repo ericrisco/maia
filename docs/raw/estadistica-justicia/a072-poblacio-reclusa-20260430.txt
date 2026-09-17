@@ -1,0 +1,426 @@
+                             A072. Estadística de la població reclusa. 1r trimestre del 2026
+                                         Data de publicació: dijous, 16/07/2026
+                                                   www.estadistica.ad
+
+
+            Resum
+
+            A 31 de març del 2026, el nombre total de reclusos en el Centre Penitenciari de la Comella (l’únic
+            establiment penitenciari del Principat d’Andorra) és de 55 persones. Atès que la capacitat global
+            del centre és de 153 reclusos, això suposa una ocupació del 35,9% a finals del primer trimestre del
+            2026. Segons el sexe, el 94,5% són homes (52) i el 5,5% són dones (3). Per nacionalitat,
+            destaquen les persones d’altres nacionalitats i els espanyols, amb un 41,8% i un 23,6% del total
+            de persones recluses, respectivament.
+
+            Quant als ingressos penitenciaris al llarg del primer trimestre del 2026, s’han enregistrat un total de
+            27. La gran majoria dels ingressats són homes ,25, i únicament han ingressat 2 dones. Per edat,
+            els principals col·lectius es reparteixen entre les persones d’entre 21 a 35 anys, amb el 48,1% del
+            total de reclusos i les persones de més de 35 anys, amb el 44,4%. Pel que fa als ingressos per
+            tipologia de delicte durant el primer trimestre del 2026, el més freqüent és “Consum, tràfic,
+            possessió de drogues” amb 12 ingressos (21,8% del total).
+
+            Finalment, durant el primer trimestre del 2026 s’han enregistrat un total de 19 condemnes.
+            D’aquestes, afecten a 18 homes i tan sols a una dona. La gran majoria (68,4%) es tracta de
+            condemnes en curs, mentre que el 31,6% restant són condemnes finalitzades. Pel que fa a la seva
+            durada, les més freqüents corresponen a condemnes d’1 a 3 mesos (57,9%).
+
+
+
+
+NP_A072_20260716
+                                A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+
+
+            Índex
+
+            1       Ocupació del Centre Penitenciari de la Comella a 31 de març ............................................. 3
+            2       Població reclusa per sexe, nacionalitat i tipologia de delicte a 31 de març .......................... 4
+            3       Ingressos penitenciaris per sexe i edat ................................................................................. 6
+            4       Condemnes segons l’estat i la durada any 2025 .................................................................. 7
+            5       Nota metodològica ................................................................................................................. 8
+            6       Dates de les publicacions previstes ...................................................................................... 8
+
+
+
+
+NP_A072_20260716                                                                                                                 Pàgina 2 de 8
+                          A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+         1   Ocupació del Centre Penitenciari de la Comella a 31 de març
+
+
+                                         Nombre de reclusos segons el mòdul de reclusió
+                                  Mòdul                                                      2026T1
+                                  P5 - Servei de salut mental                                     1
+                                  P4 - Servei de salut mental                                     0
+                                  P4 - Arrest nocturn (homes/dones)                               3
+                                  P5 - Règim obert (homes/dones)                                  5
+                                  P4 - Menors                                                     0
+                                  S1.1 - Adaptació i semillibertat* (homes/dones)                 1
+                                  S1.2 - Dones (preventives i penades)                            3
+                                  S2 - Homes (preventius)                                        20
+                                  S3.1 - Homes (penats)                                          13
+                                  S3.2 - Homes (penats)                                           9
+                                  S3.2 - Cel·la d'aïllament i/o prevenció                         0
+                                  Total                                                          55
+
+
+                                      Percentatge d'ocupació segons el mòdul de reclusió
+                                 Mòdul                                                   2026T1
+                                 P5 - Servei de salut mental                             100,0%
+                                 P4 - Servei de salut mental                               0,0%
+                                 P4 - Arrest nocturn (homes/dones)                        27,3%
+                                 P5 - Règim obert (homes/dones)                           38,5%
+                                 P4 - Menors                                               0,0%
+                                 S1.1 - Adaptació i semillibertat* (homes/dones)          11,1%
+                                 S1.2 - Dones (preventives i penades)                     13,0%
+                                 S2 - Homes (preventius)                                  50,0%
+                                 S3.1 - Homes (penats)                                    56,5%
+                                 S3.2 - Homes (penats)                                    34,6%
+                                 S3.2 - Cel·la d'aïllament i/o prevenció                   0,0%
+                                 Total places                                             35,9%
+
+
+
+                                  Nombre de reclusos segons el mòdul de reclusió 2026T1
+                     25
+
+                                                                                        20
+                     20
+
+
+                     15                                                                           13
+
+
+                     10                                                                                9
+
+                                                     5
+                      5                    3                                        3
+                           1                                            1
+                      0
+
+
+
+
+NP_A072_20260716                                                                                       Pàgina 3 de 8
+                           A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+         2   Població reclusa per sexe, nacionalitat i tipologia de delicte a 31 de març
+
+
+                                                   Població reclusa per sexe i nacionalitat
+                                                                                   2026T1
+                                                 Nacionalitat
+                                                                       Dones       Homes        Total
+                                          Andorrana                            1        11              12
+                                          Espanyola                            0        13              13
+                                          Portuguesa                           1         6               7
+                                          Altres nacionalitats                 1        22              23
+                                          Total                                3        52              55
+                                  *Les dades corresponents a la població reclusa fan referència a dia 31 de març.
+
+
+                                                 Població reclusa per nacionalitat 2026T1
+                             25
+                                                                                                         23
+
+
+                             20
+
+
+
+                             15
+                                                                 13
+                                           12
+
+                             10
+                                                                                    7
+
+                              5
+
+
+
+                              0
+                                       Andorrana           Espanyola           Portuguesa       Altres nacionalitats
+
+
+
+
+                                                     Població reclusa per sexe 2026T1
+                            60
+                                                     52
+                            50
+
+
+                            40
+
+
+                            30
+
+
+                            20
+
+
+                            10
+                                                                                               3
+                             0
+                                                   Homes                                     Dones
+
+
+
+
+NP_A072_20260716                                                                                                       Pàgina 4 de 8
+                                   A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+                                                        Població reclusa per tipologia de delicte 2026T1
+                                             Consum/ tràfic/ Possessió - drogues                                    12
+                                             Furt                                                                    7
+                                             Danys dolosos                                                           1
+                                             Agressió/ Llibertat sexual / pornografia                                7
+                                             Amenaces                                                                3
+                                             Assassinat                                                              1
+                                             Il·licits contra la seguretat col·lectiva                               2
+                                             Homicidi en grau de temptativa                                          2
+                                             Homicidi                                                                2
+                                             Creació i/o posada en circulació de moneda inautèntica                  3
+                                             Contraban                                                               4
+                                             Lesions / Maltractaments                                                4
+                                             Salut Publica                                                           2
+                                             Crebantaments / Revocacions                                             1
+                                             Desobediència a l’autoritat                                             1
+                                             Establiment de la prostitució                                           1
+                                             Extradició                                                              1
+                                             Extorsió                                                                1
+                                             Total                                                                  55
+
+
+
+
+                                                      Població reclusa per tipologia de delicte 2026T1
+
+                                                                Extorsió        1
+                                                              Extradició        1
+                                          Establiment de la prostitució         1
+                                            Desobediència a l’autoritat         1
+                                         Crebantaments / Revocacions            1
+                                                          Salut Publica                 2
+                                              Lesions / Maltractaments                              4
+                                                             Contraban                              4
+             Creació i/o posada en circulació de moneda inautèntica                         3
+                                                               Homicidi                 2
+                                        Homicidi en grau de temptativa                  2
+                                Il·licits contra la seguretat col·lectiva               2
+                                                            Assassinat          1
+                                                             Amenaces                       3
+                              Agressió/ Llibertat sexual / pornografia                                      7
+                                                        Danys dolosos           1
+                                                                    Furt                                    7
+                                Consum/ tràfic/ Possessió - drogues                                                                     12
+                                                                            0       2           4       6       8        10        12         14
+
+
+
+
+NP_A072_20260716                                                                                                              Pàgina 5 de 8
+                             A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+         3    Ingressos penitenciaris per sexe i edat
+
+
+             A continuació, es detallen els ingressos penitenciaris que s’han efectuat al llarg del primer
+             trimestre del 2026. Aquest recompte de persones és diferent al de l’apartat anterior, atès que la
+             població reclusa fa referència al total de reclusos existent a 31 de març de l’any corresponent.
+
+
+                                        Ingressos per sexe i edat durant el trimestre
+                                                                        2026T1
+                                        Nacionalitat
+                                                            Dones       Homes          Total
+                                   14-17                            0         0                 0
+                                   18-20                            0         2                 2
+                                   21-35                            1        12                13
+                                   Més de 35                        1        11                12
+                                   Total                            2        25                27
+
+
+                                                 Ingressos penitenciaris per edat 2026T1
+                              14                                                  13
+                                                                                                       12
+                              12
+
+                              10
+
+                               8
+
+                               6
+
+                               4
+                                                              2
+                               2
+
+                               0
+                                         14-17             18-20              21-35                 Més de 35
+
+
+
+
+                                                 Ingressos penitenciaris per sexe 2026T1
+                              30
+                                                    25
+                              25
+
+
+                              20
+
+
+                              15
+
+
+                              10
+
+
+                               5
+                                                                                                2
+
+                               0
+                                                  Homes                                    Dones
+
+
+
+
+NP_A072_20260716                                                                                                Pàgina 6 de 8
+                                   A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+         4    Condemnes segons l’estat i la durada any 2025
+
+
+                         Condemnats                  1 a 15 dies         1 mes   1 a 3 mesos    3 a 6 mesos 6 a 12 mesos        1 a 3 anys   Total
+             Homes amb condemna finalitzada                    1             0             4              1            0                 0       6
+             Dones amb condemna finalitzada                    0             0             0              0            0                 0       0
+             Homes amb condemna en curs                        0             2             6              1            2                 1     12
+             Dones amb condemna en curs                        0             0             1              0            0                 0       1
+             Total                                             1             2            11              2            2                 1     19
+
+
+
+
+                                              Condemnes segons la durada de la condemna 2026T1
+                                                                                  1         1
+                                                                                 5%        5%
+                                                                        2                                2
+                                                                       11%                              10%
+
+                             1 a 15 dies
+
+                             1 mes                    2
+                                                     11%
+                             1 a 3 mesos
+
+                             3 a 6 mesos
+
+                             6 a 12 mesos
+
+                             1 a 3 anys
+
+
+                                                                                                       11
+                                                                                                      58%
+
+
+
+
+                                               Condemnes segons l'estat de la condemna 2026T1
+
+
+
+                           Dones amb condemna en curs          1
+
+
+
+
+                          Homes amb condemna en curs                                                                       12
+
+
+
+
+                        Dones amb condemna finalitzada
+
+
+
+
+                       Homes amb condemna finalitzada                                      6
+
+
+                                                         0         2         4         6          8         10        12            14
+
+
+
+
+NP_A072_20260716                                                                                                           Pàgina 7 de 8
+                               A072. Estadística de la població reclusa. 1r trimestre del 2026
+
+
+         5       Nota metodològica
+
+             •     Citació: Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+                   preguem citeu: “Dades del Departament d’Institucions Penitenciàries, tractades pel
+                   Departament d’Estadística”.
+
+             •     Font: Registre de la població reclusa del Ministeri d’Institucions Penitenciàries.
+
+             •     Definicions:
+
+                   -   Reclús: Persona que compleix una condemna en un establiment penitenciari.
+                   -   Penat: Delinqüent condemnat a una pena.
+                   -   Arrest parcial: Mesura de privació de la llibertat contemplada en les lleis, la qual posseeix
+                       varis objectius: com a mesura cautelar personal dins d’un procés penal; com a mesura de
+                       constrenyiment pel compliment de certs actes; o com a sanció punitiva.
+                   -   Semillibertat: Benefici penitenciari que permet a un intern sentenciat sortir de l’establiment
+                       penal per a efectes de treball o educació, i complir en llibertat una part de la seva
+                       condemna, amb l’obligació de complir determinades regles de conducta, i sempre que no
+                       tingui un procés penal pendent amb mandat de detenció.
+                   -   Règim preventiu: Mesura cautelar de caràcter personal que afecta al dret de llibertat
+                       personal durant un lapse més o menys prolongat, la qual només procedirà quan les altres
+                       mesures cautelars fossin insuficients per a assegurar els objectius del procediment penal.
+
+             •     Nota. En aquest informe es publiquen, per primera vegada, les dades trimestrals de població
+                   reclusa. Atès que no es disposa d'una sèrie històrica amb aquesta periodicitat, en aquesta
+                   edició no s'inclouen comparatives amb els trimestres anteriors. Aquestes comparatives
+                   s'incorporaran en futures publicacions tan aviat com es disposi d'un historial de dades
+                   comparable.
+
+             • Citació. Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+               preguem citeu: “Dades del Departament d’Institucions Penitenciàries, tractades pel
+               Departament d’Estadística per a la Nota de Premsa ref. NP_A072_20260716”.
+
+             • Marc legal: D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+               desplegament en el Programa estadístic per a l’any 2026, el present informe dona resposta a
+               l’activitat estadística A072: Estadística de la població reclusa
+
+             • Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques/Dades/Justícia
+               i seguretat/Justícia/Població Reclusa. Per estar informat en qualsevol moment de les noves
+               publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu
+               trobar l’històric de les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+                Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+                Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+             ______________________________________________________________________________
+
+
+         6       Dates de les publicacions previstes
+
+             Nota de premsa A072. Estadística de la població reclusa. 2n trimestre del 2026: 5 d’octubre del
+             2026
+
+
+
+
+NP_A072_20260716                                                                                    Pàgina 8 de 8
+

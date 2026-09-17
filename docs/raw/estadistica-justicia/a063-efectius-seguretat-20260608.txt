@@ -1,0 +1,725 @@
+                      A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+                                    Data de publicació: dilluns, 08/06/2026
+                                              www.estadistica.ad
+
+
+         Resum
+
+         A 31 de desembre del 2025, hi havia un total global de 331 efectius policials al Principat
+         d’Andorra, (12 més que a l’any anterior). A la mateixa data de referència, hi havia 79 efectius
+         penitenciaris (els mateixos que a l’any anterior) i 137 efectius dels bombers (1 menys que a
+         l’any 2024).
+
+         Pel que fa als efectius policials per tipologia, 266 formen part del personal policíac i 65 són
+         personal administratiu/tècnic. No hi ha cap alumne a 31 de desembre del 2025. El 78,2% dels
+         efectius policials són homes i el 21,8% restant són dones, tot i que aquesta proporció s’inverteix
+         en el personal administratiu/tècnic, on les dones suposen el 70,8%. La ràtio d’efectius policials
+         per cada 100.000 habitants se situa en 298,7 la qual cosa suposa un increment del 0,4% amb
+         relació a l’any 2024.
+
+         Quant als efectius penitenciaris, 64 formen part del personal penitenciari i 15 corresponen a
+         personal administratiu/tècnic. El 78,5% dels efectius penitenciaris són homes i el 21,5% restant
+         són dones. La ràtio d’efectius penitenciaris se situa en 88,7 per cada 100.000 habitants, la qual
+         cosa suposa un decrement del 2,2% respecte a l’any anterior.
+
+         En últim lloc, els 137 efectius dels bombers es distribueixen en 120 del Cos de bombers
+         (CPEIS), 17 administratius/tècnics i cap alumne. Únicament el 10,2% dels efectius del cos de
+         bombers i el personal administratiu, són dones, respecte al 89,8% d’homes. La ràtio d’efectius
+         dels bombers és de 153,8 per cada 100.000 habitants, cosa que suposa una variació negativa
+         del 2,9% comparat amb l’any 2024.
+
+
+
+
+NP_A063_20250605
+                          A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+
+        Índex
+
+        1.         Efectius dels cossos policials ................................................................................................ 3
+        1.1.       Evolució dels efectius dels cossos policials per tipologia ..................................................... 3
+        1.2.       Efectius dels cossos policials per tipologia i sexe ................................................................. 3
+        1.3.       Personal policíac per grau i sexe .......................................................................................... 4
+        1.4.       Personal administratiu/tècnic per grau i sexe ........................................................................ 5
+        1.5.       Ràtios dels efectius policials per cada 100.000 habitants ..................................................... 6
+        2.         Efectius penitenciaris ............................................................................................................. 7
+        2.1.       Evolució dels efectius penitenciaris per tipologia .................................................................. 7
+        2.2.       Efectius penitenciaris per tipologia i sexe ............................................................................. 7
+        2.3.       Efectius penitenciaris per grau i sexe .................................................................................... 8
+        2.4.       Ràtios dels efectius penitenciaris per cada 100.000 habitants ............................................. 9
+        3.         Efectius dels bombers ......................................................................................................... 10
+        3.1.       Evolució dels efectius dels bombers per tipologia............................................................... 10
+        3.2.       Efectius dels bombers per tipologia i sexe .......................................................................... 10
+        3.3.       Efectius dels bombers per grau i sexe ................................................................................ 11
+        3.4.       Ràtios dels efectius dels bombers per cada 100.000 habitants .......................................... 11
+        4.         Nota metodològica ............................................................................................................... 12
+        5.         Dates de les publicacions previstes .................................................................................... 13
+
+
+
+
+NP_A063_20250605                                                                                                                  pàgina 2 de 13
+                                           A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     1.     Efectius dels cossos policials
+
+
+     1.1.      Evolució dels efectius dels cossos policials per tipologia
+
+
+                                  350
+                                           1                                                                             21
+                                                                                                         13
+                                  300               1                                                                          65                    65
+                                                                 25                       33                                           58     60
+                                           61                                                    60             61       64
+                                                    57                     62                            57
+                                  250                    58                      64
+                                                                 59                       59
+
+
+
+
+             Nombre d'efectius
+                                  200
+
+
+                                  150
+                                                                                                                               260     257    259    266
+                                          246                                                    247    237     246      246
+                                                 231     228     216       230   221     216
+                                  100
+
+
+                                   50
+
+
+                                    0
+                                          2011   2012    2013   2014    2015     2016    2017    2018   2019    2020    2021   2022    2023   2024   2025
+
+                                                 Total personal policíac                Total personal administratiu             Total alumnes
+
+
+
+
+                                 1.2.    Efectius dels cossos policials per tipologia i sexe
+
+                                                                       Efectius policials per tipologia i sexe
+                                                                                                                                        Variació % Variació
+                                        Tipologia               Sexe             2021          2022      2023          2024     2025
+                                                                                                                                          24/25       24/25
+                                                                Homes             222           236       231          235       240           5      2,1%
+            Personal policíac                                   Dones              24            24        26           24        26           2      8,3%
+                                                                Total             246           260       257          259       266           7      2,7%
+                                                                Homes              18            18        17           17        19           2     11,8%
+            Personal administratiu/tècnic                       Dones              46            47        41           43        46           3      7,0%
+                                                                Total              64            65        58           60        65           5      8,3%
+                                                                Homes              19             0         0            0         0           0          -
+            Alumnes                                             Dones               2             0         0            0         0           0          -
+                                                                Total              21             0         0            0         0           0          -
+                                                                Homes             259           254       248          252       259           7      2,8%
+            Global                                              Dones              72            71        67           67        72           5      7,5%
+                                                                Total             331           325       315          319       331          12      3,8%
+
+
+
+
+NP_A063_20250605                                                                                                                                 pàgina 3 de 13
+                          A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     1.3.    Personal policíac per grau i sexe
+
+
+                                              Personal policíac per grau i sexe
+                                                                                                Variació % Variació
+                         Grau          Sexe         2021      2022     2023       2024   2025
+                                                                                                  24/25       24/25
+                                        Homes        138       157       161       99    104           5      5,1%
+            Agents de Policia            Dones        15        16        18       12     14           2     16,7%
+                                          Total      153       173       179      111    118           7      6,3%
+                                        Homes         36        35        29       95     95           0      0,0%
+            Agents Majors de Policia     Dones         5         5         5        9      9           0      0,0%
+                                          Total       41        40        34      104    104           0      0,0%
+                                        Homes         23        23        23       23      4         -19    -82,6%
+            Sergents                     Dones         3         2         2        2      1          -1    -50,0%
+                                          Total       26        25        25       25      5         -20    -80,0%
+                                        Homes         12         9         8        8     22          14    175,0%
+            Sergents Majors              Dones         0         0         0        0      1           1          -
+                                          Total       12         9         8        8     23          15    187,5%
+                                        Homes          7         1         0        0      5           5          -
+            Inspectors                   Dones         0         0         0        0      0           0          -
+                                          Total        7         1         0        0      5           5          -
+                                        Homes          0         6         5        5      5           0      0,0%
+            Inspectors Majors            Dones         0         0         0        0      0           0          -
+                                          Total        0         6         5        5      5           0      0,0%
+                                        Homes          2         2         2        2      2           0      0,0%
+            Comissaris Majors            Dones         1         1         1        1      1           0      0,0%
+                                          Total        3         3         3        3      3           0      0,0%
+                                        Homes          3         2         2        2      2           0      0,0%
+            Directors Adjunts            Dones         0         0         0        0      0           0          -
+                                          Total        3         2         2        2      2           0      0,0%
+                                        Homes          1         1         1        1      1           0      0,0%
+            Directors                    Dones         0         0         0        0      0           0          -
+                                          Total        1         1         1        1      1           0      0,0%
+                                        Homes        222       236       231      235    240           5      2,1%
+            Global                      Dones         24        24        26       24     26           2      8,3%
+                                          Total      246       260       257      259    266           7      2,7%
+
+
+
+
+NP_A063_20250605                                                                                       pàgina 4 de 13
+                              A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     1.4.     Personal administratiu/tècnic per grau i sexe
+
+
+                                                  Personal administratiu/tècnic per grau i sexe
+                                                                                                          Variació % Variació
+                          Grau                  Sexe             2021        2022   2023   2024    2025
+                                                                                                            24/25       24/25
+                                                  Homes             4           4     2        1     1           0      0,0%
+            Personal Interí                        Dones            1           1     1        2     2           0      0,0%
+                                                    Total           5           5     3        3     3           0      0,0%
+                                                  Homes             0           0     0        0     0           0          -
+            Personal Neteja                        Dones            1           1     1        1     1           0      0,0%
+                                                    Total           1           1     1        1     1           0      0,0%
+                                                  Homes             3           3     5        3     5           2     66,7%
+            Personal Manteniment                   Dones            0           0     0        0     0           0          -
+                                                    Total           3           3     5        3     5           2     66,7%
+                                                  Homes             1           1     1        1     1           0      0,0%
+            Assessors Jurídics                     Dones            1           1     1        1     1           0      0,0%
+                                                    Total           2           2     2        2     2           0      0,0%
+                                                  Homes             0           0     0        0     0           0          -
+            Psicòlegs Socials                      Dones            1           1     1        1     1           0      0,0%
+                                                    Total           1           1     1        1     1           0      0,0%
+                                                  Homes             2           2     0        0     0           0          -
+            Agents Administratius                  Dones           38          38     4        1     0          -1   -100,0%
+                                                    Total          40          40     4        1     0          -1   -100,0%
+                                                  Homes             1           1     1        1     0          -1   -100,0%
+            Tècnics Administratius                 Dones            3           3    11       14    15           1      7,1%
+                                                    Total           4           4    12       15    15           0      0,0%
+                                                  Homes             0           0     0        0     0           0          -
+            Responsables Administratius            Dones            1           1     1        1     1           0      0,0%
+                                                    Total           1           1     1        1     1           0      0,0%
+                                                  Homes             2           2     2        2     4           2    100,0%
+            Responsables Tècnics                   Dones            0           0    20       21    24           3     14,3%
+                                                    Total           2           2    22       23    28           5     21,7%
+                                                  Homes             1           1     1        1     1           0      0,0%
+            Tècnics Analistes Financers            Dones            0           0     0        0     0           0          -
+                                                    Total           1           1     1        1     1           0      0,0%
+                                                  Homes             0           0     0        0     0           0          -
+            Tècnic Comunicació                     Dones            0           1     1        1     1           0      0,0%
+                                                    Total           0           1     1        1     1           0      0,0%
+                                                  Homes             3           3     4        5     6           1     20,0%
+            Tècnics Informàtics                    Dones            0           0     0        0     0           0          -
+                                                    Total           3           3     4        5     6           1     20,0%
+                                                  Homes             1           1     1        1     1           0      0,0%
+            Caps Informàtica                       Dones            0           0     0        0     0           0          -
+                                                    Total           1           1     1        1     1           0      0,0%
+                                                  Homes            18          18    17       17    19           2     11,8%
+            Global                                Dones            46          47    41       43    46           3      7,0%
+                                                    Total          64          65    58       60    65           5      8,3%
+            *El perosnal de manteniment inclou 3 operaris i 2 responsables
+
+
+
+
+NP_A063_20250605                                                                                                 pàgina 5 de 13
+                                                                   A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     1.5.                                 Ràtios dels efectius policials per cada 100.000 habitants1
+
+
+
+                                                                                                                 2021                          2022                        2023                           2024                                 2025                % Variació 24/25
+                                                                                Ràtio                           309,3                         318,7                       302,0                          297,4                                298,7                           0,4%
+
+
+
+                                                                                            Ràtios dels efectius policials per cada 100.000 habitants a la UE. Any 2024
+                                          700
+
+
+
+
+                                          600   578
+                                                          565 562 559
+
+                                                                                         522
+                                          500
+
+
+
+
+            Rati (Efectius/100.000hab.)
+                                                                                                   452
+                                                                                                              438
+
+                                                                                                                         396
+                                          400                                                                                         382 379 376
+                                                                                                                                                                369
+                                                                                                                                                                          358
+                                                                                                                                                                                    346 343 342
+                                                                                                                                                                                                                         331 321
+                                                                                                                                                                                                                                              320
+                                                                                                                                                                                                                                                         297 291
+                                          300                                                                                                                                                                                                                                    271 270 266
+
+                                                                                                                                                                                                                                                                                                              226
+                                                                                                                                                                                                                                                                                                                       213 206 205
+                                                                                                                                                                                                                                                                                                                                                          194
+                                          200
+
+                                                                                                                                                                                                                                                                                                                                                                    139
+
+                                          100
+
+
+
+
+                                            0
+
+                                                Türkiye                                                                                                         Czechia             Slovakia
+                                                                                                                                                                                                                                                                                                     Poland
+                                                                                                                                      Malta
+                                                                                Greece                                                                                    Austria                                                                                                                             Sweden                                      Denmark
+                                                                                                                                                                                                                                                                                                                                                                    Finland
+
+                                                                                                                                                                                                         Liechtenstein                                             Netherlands
+                                                          Cyprus                         Croatia              Portugal
+                                                                                                                                              Spain                                                                      Ireland                         Andorra                                                                                Iceland
+                                                                                                                         Luxembourg
+                                                                                                                                                      Hungary                                  Belgium                                                                           Estonia
+                                                                                                                                                                                                                                                                                           Romania
+                                                                                                                                                                                                                                                                                                                       Switzerland
+                                                                                                   Bulgaria
+                                                                                                                                                                                                                                                                                                                                       Latvia
+                                                                                                                                                                                                                                   Slovenia    Germany
+                                                                   Montenegro
+
+
+
+
+        Font: Eurostat. Crime and criminal justice. Persons in the criminal justice system.
+        Nota: El gràfic de ràtios d’efectius policials correspon a l’any 2024, ja que són les dades més actuals a l’Eurostat.
+
+
+
+
+        1 La ràtio dels efectius policials es calcula només a partir del personal policíac, excloent el personal
+
+        administratiu/tècnic i els alumnes.
+
+
+
+
+NP_A063_20250605                                                                                                                                                                                                                                                                                                                     pàgina 6 de 13
+                                             A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     2.     Efectius penitenciaris
+
+     2.1.     Evolució dels efectius penitenciaris per tipologia
+
+
+                                            90
+
+                                            80
+
+                                            70                                                                                       16   15
+                                                                                                           13           13
+                                                                         8      11    11     11     12            10           12
+                                            60   15
+
+
+
+
+                     Nombre d'efectius
+                                                      13   11     12
+
+                                            50
+
+                                            40
+
+                                                                         61                                62           61           63   64
+                                            30                                  59    59     60     59            59           59
+                                                 52   52   52     52
+                                            20
+
+                                            10
+
+                                             0
+                                                 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+
+                                                           Personal penitenciari. Total      Personal administratiu/tècnic. Total
+
+
+
+
+     2.2.     Efectius penitenciaris per tipologia i sexe
+
+
+                                                                  Efectius penitenciaris per tipologia i sexe
+                                                                                                                                    Variació % Variació
+                                         Tipologia         Sexe               2021        2022      2023        2024       2025
+                                                                                                                                      24/25       24/25
+                                                              Homes            53          55         51          55          56           1      1,8%
+            Personal penitenciari                              Dones            6           6          8           8           8           0      0,0%
+                                                                Total          59          61         59          63          64           1      1,6%
+                                                              Homes             5           4          4           6           6           0      0,0%
+            Personal administratiu/tècnic                      Dones            5           9          8          10           9          -1    -10,0%
+                                                                Total          10          13         12          16          15          -1     -6,3%
+                                                              Homes            58          59         55          61          62           1      1,6%
+            Global                                            Dones            11          15         16          18          17          -1     -5,6%
+                                                                Total          69          74         71          79          79           0      0,0%
+
+
+
+
+NP_A063_20250605                                                                                                                           pàgina 7 de 13
+                             A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     2.3.      Efectius penitenciaris per grau i sexe2
+
+
+                                                Efectius penitenciaris per grau i sexe
+                                                                                                     Variació % Variació
+                          Grau           Sexe         2021      2022       2023      2024     2025
+                                                                                                       24/25       24/25
+                                          Homes           1         1         1           1     1           0      0,0%
+            Directors                      Dones          0         0         0           0     0           0          -
+                                            Total         1         1         1           1     1           0      0,0%
+                                          Homes           1         1         1           1     1           0      0,0%
+            Directors adjunts              Dones          0         0         0           0     0           0          -
+                                            Total         1         1         1           1     1           0      0,0%
+                                          Homes           2         2         2           2     3           1     50,0%
+            Oficials penitenciaris         Dones          0         0         0           0     0           0          -
+                                            Total         2         2         2           2     3           1     50,0%
+                                          Homes           3         3         2           2     4           2    100,0%
+            Sotsoficials de primera        Dones          1         1         1           1     2           1    100,0%
+                                            Total         4         4         3           3     6           3    100,0%
+                                          Homes           7         7         7           7     5          -2    -28,6%
+            Sotsoficials penitenciaris     Dones          0         0         0           0     2           2          -
+                                            Total         7         7         7           7     7           0      0,0%
+                                          Homes          39        41        38          42    42           0      0,0%
+            Agents penitenciaris           Dones          5         5         7           7     4          -3    -42,9%
+                                            Total        44        46        45          49    46          -3     -6,1%
+                                          Homes           1         0         0           0     0           0          -
+            Administratius                 Dones          0         0         0           0     0           0          -
+                                            Total         1         0         0           0     0           0          -
+                                          Homes           2         2         2           2     2           0      0,0%
+            Seguretat                      Dones          0         0         0           0     0           0          -
+                                            Total         2         2         2           2     2           0      0,0%
+                                          Homes           1         1         1           2     2           0      0,0%
+            Manteniment                    Dones          2         2         2           3     2          -1    -33,3%
+                                            Total         3         3         3           5     4          -1    -20,0%
+                                          Homes           0         0         0           1     1           0      0,0%
+            Infermers                      Dones          0         4         4           4     5           1     25,0%
+                                            Total         0         4         4           5     6           1     20,0%
+                                          Homes           0         0         0           0     0           0          -
+            Mestres                        Dones          1         1         0           1     0          -1   -100,0%
+                                            Total         1         1         0           1     0          -1   -100,0%
+                                          Homes           1         1         1           1     1           0      0,0%
+            Coordinadors educatius         Dones          0         0         0           0     0           0          -
+                                            Total         1         1         1           1     1           0      0,0%
+                                          Homes           0         0         0           0     0           0          -
+            Monitors socioculturals        Dones          2         2         2           2     2           0      0,0%
+                                            Total         2         2         2           2     2           0      0,0%
+                                          Homes          58        59        55          61    62           1      1,6%
+            Global                        Dones          11        15        16          18    17          -1     -5,6%
+                                            Total        69        74        71          79    79           0      0,0%
+
+
+
+
+        2 En el cas dels efectius penitenciaris no es comptabilitzen els psicòlegs ni educadors i/o     treballadors
+        socials
+
+
+
+
+NP_A063_20250605                                                                                            pàgina 8 de 13
+                                                                        A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     2.4.                                 Ràtios dels efectius penitenciaris per cada 100.000 habitants
+
+
+                                                                                                                        2021                    2022                             2023                       2024                          2025              % Variació 24/25
+                                                                                  Ràtio                                 86,8                    90,7                             83,4                       90,7                          88,7                         -2,2%
+
+
+                                                                                                       Ràtios dels efectius penitenciaris per cada 100.000 habitants a la UE. Any 2024
+                                          140
+                                                130
+
+
+                                          120
+
+
+                                                             104
+                                          100                          98         96
+                                                                                            93
+
+
+
+
+            Rati (Efectius/100.000hab.)
+                                                                                                     91        91        90
+
+                                                                                                                                   81
+                                                                                                                                             79
+                                           80                                                                                                        77
+                                                                                                                                                                  72
+                                                                                                                                                                                66        65        65      65        63          62      61       60
+                                           60                                                                                                                                                                                                               57
+                                                                                                                                                                                                                                                                          50
+                                                                                                                                                                                                                                                                                    48         48         48
+                                                                                                                                                                                                                                                                                                                    43       41         40
+                                           40                                                                                                                                                                                                                                                                                                    37
+
+
+
+
+                                           20
+
+
+
+
+                                            0
+
+
+                                                                       Slovakia             Sweden                       Türkiye                                                                                                          France                          Austria
+                                                                                                                                             Malta
+                                                                                                                                                                                                                                                                                                                                        Poland
+                                                                                                                                                                  Netherlands
+                                                                                  Czechia                                                                                                                                                                                                                           Greece
+                                                                                                                                                                                                                                                                                                          Denmark
+                                                                                                     Andorra                                                                                                                                                                        Portugal                                                     Finland
+                                                                                                                                                                                                    Italy
+                                                                                                                                                                                Ireland   Croatia
+                                                                                                                                                                                                                                  Spain            Serbia
+                                                                                                                                                                                                                      Lithuania
+                                                Luxembourg                                                                                                                                                                                                  Switzerland
+                                                                                                                                                                                                            Romania                                                                            Bulgaria
+                                                                                                               Latvia
+                                                             Hungary
+                                                                                                                                                     Montenegro
+                                                                                                                                   Estonia                                                                                                                                                                                   Slovenia
+
+
+
+         Font: Eurostat. Crime and criminal justice. Persons in the criminal justice system.
+         Nota: El gràfic de ràtios d’efectius penitenciaris correspon a l’any 2024, ja que són les dades més actuals a l’Eurostat
+
+
+
+
+NP_A063_20250605                                                                                                                                                                                                                                                                                                        pàgina 9 de 13
+                                            A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     3.      Efectius dels bombers
+
+
+     3.1.      Evolució dels efectius dels bombers per tipologia
+
+
+                                          160
+
+                                          140
+                                                                                                         8              16           8      17    17
+                                                                    16      17       18    17    17             16             16
+                                          120   14      14                                               15                         16
+                                                              14
+
+
+
+
+                      Nombre d'efectius
+                                          100
+
+                                           80
+
+                                           60                       117    119   119      118    118            120    122    119           121   120
+                                                111     111   109                                       111                         112
+
+                                           40
+
+                                           20
+
+                                            0
+                                                2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+                                                         Cos CPEIS. Total            Cos administratiu. Total          Alumnes bombers. Total
+
+
+
+
+     3.2.      Efectius dels bombers per tipologia i sexe
+
+
+                                                                     Efectius dels bombers per tipologia i sexe
+                                                                                                                                             Variació % Variació
+                                            Tipologia                     Sexe            2021      2022        2023         2024    2025
+                                                                                                                                               24/25       24/25
+                                                                           Homes           119         116       109         118         117       -1     -0,8%
+            Cos de Bombers (CPEIS)                                          Dones            3           3         3           3           3        0      0,0%
+                                                                             Total         122         119       112         121         120       -1     -0,8%
+                                                                           Homes             0           0         8           0           0        0          -
+            Alumnes                                                         Dones            0           0         0           0           0        0          -
+                                                                             Total           0           0         8           0           0        0          -
+                                                                           Homes             7           7         6          10          10        0      0,0%
+            Personal administratiu/tècnic                                   Dones            9           9        10           7           7        0      0,0%
+                                                                             Total          16          16        16          17          17        0      0,0%
+                                                                           Homes           126         123       123         128         123       -5     -3,9%
+            Global                                                         Dones            12          12        13          10          14        4     40,0%
+                                                                             Total         138         135       136         138         137       -1     -0,7%
+
+
+
+
+NP_A063_20250605                                                                                                                                  pàgina 10 de 13
+                          A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     3.3.   Efectius dels bombers per grau i sexe
+
+
+                                                     Efectius dels bombers per grau i sexe
+                                                                                                             Variació % Variació
+                            Grau                     Sexe         2021      2022     2023       2024    2025
+                                                                                                               24/25       24/25
+                                                      Homes          2         2         2        2        2        0      0,0%
+        Directors                                      Dones         0         0         0        0        0        0          -
+                                                        Total        2         2         2        2        2        0      0,0%
+                                                      Homes          6         6         5        1        1        0      0,0%
+        Oficials de bomber de primera                  Dones         0         0         0        0        0        0          -
+                                                        Total        6         6         5        1        1        0      0,0%
+                                                      Homes          2         3         3        5        5        0      0,0%
+        Oficials (Caps de guàrdia i Caps d'Unitat)     Dones         0         0         0        0        0        0          -
+                                                        Total        2         3         3        5        5        0      0,0%
+                                                      Homes         29        33        31        2        2        0      0,0%
+        Sotsoficials de bomber de primera              Dones         0         0         0        0        0        0          -
+                                                        Total       29        33        31        2        2        0      0,0%
+                                                      Homes         80        72        68       34       34        0      0,0%
+        Sotsoficials de Bombers                        Dones         3         3         3        0        0        0          -
+                                                        Total       83        75        71       34       34        0      0,0%
+                                                      Homes          0         0         8       74       73       -1     -1,4%
+        Bombers                                        Dones         0         0         0        3        3        0      0,0%
+                                                        Total        0         0         8       77       76       -1     -1,3%
+                                                      Homes          7         7         6        6        6        0      0,0%
+        Operadors telecomunicacions                    Dones         5         5         5        6        6        0      0,0%
+                                                        Total       12        12        11       12       12        0      0,0%
+                                                      Homes          0         0         0        4        0       -4   -100,0%
+        Administratius                                 Dones         4         4         5        1        5        4    400,0%
+                                                        Total        4         4         5        5        5        0      0,0%
+                                                      Homes        126       123       123      128      123       -5     -3,9%
+        Global                                        Dones         12        12        13       10       14        4     40,0%
+                                                        Total      138       135       136      138      137       -1     -0,7%
+
+
+
+
+     3.4.   Ràtios dels efectius dels bombers per cada 100.000 habitants3
+
+
+                                             2021       2022       2023       2024       2025    % Variació 24/25
+                              Ràtio         173,5      165,5      159,8      158,4      153,8               -2,9%
+
+
+
+
+        3 Eurostat no facilita dades sobre el nombre d’efectius dels bombers i la seva proporció respecte a la
+        població total pels diferents països de la Unió Europea.
+
+
+
+
+NP_A063_20250605                                                                                                    pàgina 11 de 13
+                         A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     4.       Nota metodològica
+
+          •    Citació. Per qualsevol utilització de la informació continguda en aquesta nota, preguem
+               citeu: “Dades del Departament de Policia, del Departament d’Institucions Penitenciàries i
+               del Departament de Prevenció i Extinció d’Incendis i Salvaments, tractades pel
+               Departament d’Estadística”.
+
+          •     Font. Registre dels efectius policials del Ministeri de Justícia i Interior, registre dels efectius
+                bombers del Departament de Prevenció i Extinció d’Incendis i Salvament, i registre dels
+                efectius penitenciaris del Departament d’Institucions Penitenciàries.
+
+          •    Nota. La ràtio dels efectius policials es calcula només a partir del personal policíac,
+               excloent el personal administratiu/tècnic i els alumnes. En canvi, la dels efectius de
+               bombers i centre penitenciari es calcula incloent a tot el personal.
+
+               https://ec.europa.eu/eurostat/databrowser/view/crim_just_job/default/table?lang=en
+
+          •    Definicions.
+
+               -    Efectius policials: Totes les persones que treballen en tots els rangs de l’àrea de
+                    seguretat ciutadana i grups especialitzats, àrea de seguretat viària, fronteres i
+                    estrangeria, àrea de policia judicial i investigació criminal i l’àrea de policia
+                    administrativa i suport, així com la direcció dels mateixos.
+                        o Personal policíac: directors, directors adjunts, comissaris majors, comissaris,
+                            inspectors majors, inspectors, sergents majors de primera, sergents majors,
+                            sergents, agents majors de policia, agents de policia i policies auxiliars.
+                        o Personal tècnic i administratiu: caps d’informàtica, tècnics informàtics, tècnics
+                            analistes financers, responsables tècnics, responsables administratius, tècnics
+                            administratius, agents administratius, psicòlegs socials, assessors jurídics,
+                            operaris de manteniment, personal de neteja i personal interí.
+               -    Efectius penitenciaris: Totes les persones que treballen en institucions penals o
+                    penitenciàries, inclosos el personal de gestió, tractament, custòdia i altres
+                    (manteniment, alimentació, etc.).
+                        o Personal penitenciari: directors, directors adjunts, oficials, sotsoficials de
+                            primera, sotsoficials penitenciaris i agents penitenciaris.
+                        o Personal       tècnic/administratiu:     agents    de    seguretat,   manteniment,
+                            administratius, infermers, mestres, coordinadors educatius i monitors artístics.
+               -    CPEIS: Cos de Prevenció i Extinció d’Incendis i Salvament.
+
+          •    Citació. Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+               preguem citeu: “Dades del Departament de Policia, del Departament d’Institucions
+               Penitenciàries i del Departament de Prevenció i Extinció d’Incendis i Salvaments, tractades
+               pel Departament d’Estadística per a la Nota de Premsa ref. NP_A063_20250605”.
+
+          •    Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+               desplegament en el Programa estadístic per a l’any 2026, el present informe dona resposta
+               a l’activitat estadística: A063: Estadística dels efectius en seguretat ciutadana
+
+          •    Difusió.       Dades      disponibles   al    web       www.estadistica.ad, a    l’apartat
+               Estadístiques/Dades/Justícia i seguretat/Seguretat ciutadana/Estadística dels efectius en
+               seguretat ciutadana. Per estar informat en qualsevol moment de les noves publicacions us
+               podeu inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar
+               l’històric de les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+               Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+               Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+
+
+NP_A063_20250605                                                                                     pàgina 12 de 13
+                      A063. Estadística dels efectius en seguretat ciutadana. Any 2025
+
+
+     5.    Dates de les publicacions previstes
+
+          Nota de premsa A063. Estadística dels efectius en seguretat ciutadana. Any 2026: 2n trimestre
+          del 2027
+
+
+
+
+NP_A063_20250605                                                                          pàgina 13 de 13
+
