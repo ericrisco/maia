@@ -177,6 +177,52 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   **I una asimetria entre mobles i immobles**: per subhasta fins a 200.000 €,
   **5% sobre mobles i 1,5% sobre immobles** —**els immobles paguen la tercera
   part**.
+
+  > **Avís del 17-09-2026, i és una esmena de vigència.** **Tot el que hi ha
+  > damunt d'aquesta línia és el Reglament del 2016, que ja no és el vigent.**
+  > **Va ser modificat pel Decret 183/2023, del 26-4-2023, i substituït pel
+  > Decret 549/2023, del 6-12-2023**, butlletí **150 del 2023**
+  > (`docs/raw/lleis/bopa/decret-549-2023-barems-honoraris-saig.txt`).
+  > **El corpus ho havia publicat com a dret vigent perquè havia buscat el
+  > reglament i no la seva cadena de modificacions.**
+
+  **El barem vigent, del 6 de desembre del 2023:**
+
+  | Deute a executar | Provisió de fons |
+  | --- | --- |
+  | **De 0 a 50 €** | **20 €** |
+  | De 100,01 a 200 € | 30 € + 15% |
+  | De 1.000,01 a 2.000 € | 90 € + 3% |
+  | De 10.000,01 a 20.000 € | 265 € + 1% |
+  | De 100.000,01 a 200.000 € | 600 € + 0,20% |
+  | De 500.000,01 a 1.000.000 € | 1.150 € + 0,05% |
+  | **A partir d'1.000.000,01 €** | **1.400 € + 0,03%** |
+
+  **La regressivitat que aquesta fitxa denunciava no s'ha corregit: s'ha
+  conservat exactament.** **Als dos extrems, el 2023 multiplica el 2016 per
+  quatre terços justos** —**de 15 a 20 euros a baix, de 1.050 a 1.400 a
+  dalt**—, **de manera que la proporció entre executar un deute petit i un de
+  gros continua essent la mateixa: gairebé tres-centes vegades.**
+
+  **Al mig, en canvi, els trams s'han endurit molt més que als extrems**: **el
+  tram de 1.000 a 2.000 € passa de 45 € + 0,90% a 90 € + 3%.**
+
+  **I els honoraris sobre el que s'acaba cobrant tenen un tram nou i més car
+  per als deutes petits**: **20% fins a 10.000 €** —**abans el primer tram era
+  del 10% i arribava a 20.000**—, **15% fins a 20.000**, **8% fins a 100.000**,
+  **6% fins a 300.000**, **4% fins a un milió** i **2% a partir d'aquí**.
+
+  **Tres coses que el reglament nou afegeix i el vell no tenia:**
+
+  | | |
+  | --- | --- |
+  | **Actualització** | **Els mínims de cada franja pugen cada any per IPC** |
+  | **Pensions alimentàries** | **La provisió de fons es redueix un 30%** |
+  | **Defensa gratuïta** | **Si l'executant té justícia gratuïta, la provisió la paga el Govern**, **només l'import inicial del tram i sense escreix**, **fins a un màxim de 300 €** |
+
+  **I una regla que decideix qui perd quan no hi ha res a cobrar**: **si del
+  procediment no se'n treu res, o menys que la provisió, el saig cobra la
+  provisió igual** i **el que s'hagi pogut percebre va íntegre a l'executant.**
 - **Quin és el salari mínim interprofessional** —la unitat sobre la qual descansa
   tota la protecció de l'article 8— **no és en aquestes lleis**.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
