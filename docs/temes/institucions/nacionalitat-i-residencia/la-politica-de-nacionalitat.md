@@ -251,11 +251,16 @@ ni al Vaticà.**
   reforma [...] s'ha constatat que les mesures impulsades no han estat
   suficients per assolir els objectius que s'havien previst**».
 
-  **El que segueix obert és el règim anterior al 2008** —**el percentatge
-  clàssic de participació màxima d'un estranger en una societat andorrana i la
-  norma que el fixava**. `Requereix una font anterior al 1989: el BOPA comença
-  aquell any i la Llei 2/2008 deroga «totes les disposicions d'igual o inferior
-  rang que s'hi oposin» sense anomenar-ne cap.`
+  **El règim anterior ja té nom, i el corpus el tenia en una altra fitxa.** La
+  disposició derogatòria de la Llei 10/2012 l'anomena: **l'Ordinació número 3
+  de Foment, relativa a les autoritzacions comercials a estrangers, del 25 de
+  juny de 1976**
+  ([el dret vigent](../justicia/el-dret-vigent.md)). **Trenta-dos anys de
+  règim d'inversió estrangera fixat per una ordinació, fins al 2008.**
+
+  **El que segueix obert és només el número**: `Requereix el text de
+  l'Ordinació número 3 de Foment del 25 de juny de 1976, que és anterior al
+  BOPA i diria quin percentatge exacte podia posseir un estranger.`
 - **La bibliografia internacional sobre microestats**, que aquesta és l'única
   font que el corpus té que la nomeni:
   - **Armstrong & Read** (1998, 2000) — economia comparada de microestats.

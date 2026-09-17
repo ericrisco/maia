@@ -139,8 +139,41 @@ un**.
 
 - **Els reglaments no hi són.** Una llei andorrana sovint no s'entén sense el
   reglament que la desenvolupa, i aquest fons només té normes amb rang de llei.
+  — **`parcial` el 17-09-2026: el forat és del fons, no del país, i ja té
+  porta.** **El [BOPA](../../../fonts/bopa.md) publica els reglaments**, i el
+  corpus n'ha anat baixant al llarg del dia: **el Reglament del Registre de
+  Partits Polítics (Decret 308/2024)**, **els barems d'honoraris del saig
+  (Decret 549/2023)**, **el Reglament de subvencions a l'esport (Decret
+  141/2023)** o **el Reglament dels preus assequibles (Decret 454/2024)**.
+  **Una cerca de la paraula «Reglament» al Butlletí dona 18.000 documents.**
+  **El fons de lleis del corpus seguirà sense tenir-los; la via per obtenir-ne
+  qualsevol, no.** `Requereix decidir un criteri: baixar el reglament de cada
+  llei que el corpus cita, o només quan un buit concret l'exigeixi. Fins ara
+  s'ha fet la segona cosa.`
 - **Les ordinacions comunals tampoc.** Les set parròquies tenen dret propi i el
-  corpus no en té ni una línia.
+  corpus no en té ni una línia. — **`parcial` el 17-09-2026, i la troballa és
+  que existeixen i són públiques.** **El BOPA publica les ordinacions dels set
+  comuns**: **10.908 documents contenen la paraula «Ordinació»**, i el rastre
+  per parròquia és aquest:
+
+  | Parròquia | Documents del BOPA amb «Ordinació» i el nom de la parròquia |
+  | --- | --- |
+  | **Andorra la Vella** | **2.783** |
+  | **Ordino** | **2.072** |
+  | Escaldes-Engordany | 1.632 |
+  | Encamp | 1.308 |
+  | La Massana | 1.301 |
+  | Sant Julià de Lòria | 1.138 |
+  | **Canillo** | **924** |
+
+  **Les xifres no són comparables entre elles** —una cerca de text lliure
+  compta qualsevol document que esmenti la parròquia, no només les seves
+  ordinacions— **i per això aquí serveixen només per a una cosa: dir que el
+  dret comunal andorrà és consultable des del 1989 i que el corpus no n'havia
+  mirat res.** **El que s'hi troba, mostrejat**, són sobretot **ordinacions
+  pressupostàries, de crèdit extraordinari i de funció pública comunal**.
+  `Requereix triar per on començar: la via natural és l'ordinació de
+  pressupost d'un comú, que és anual i dona sèrie.`
 - **Ni els tractats internacionals ni la jurisprudència.** Saber què diu el dret
   és saber també què n'han dit els tribunals.
 - ~~**La Llei d'inversió estrangera falta.** La font la marca amb vigència no
