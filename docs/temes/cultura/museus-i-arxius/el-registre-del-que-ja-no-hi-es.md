@@ -212,10 +212,47 @@ denegació i el règim de la informació reservada d'Estat ja són a
 [El que no et deixen veure](../../institucions/govern/el-que-no-et-deixen-veure.md),
 i el títol de govern obert i participació ciutadana **segueix sense llegir**.
 
-**Tres versions consolidades consten i cap acte modificatiu no s'ha llegit.** La
+~~**Tres versions consolidades consten i cap acte modificatiu no s'ha llegit.** La
 font publica els articles, no les disposicions addicionals, transitòries,
 derogatòries i finals: **no consta la data d'aprovació de la Llei 33/2021** ni
-quin termini es va donar per constituir la CNAAD.
+quin termini es va donar per constituir la CNAAD.~~ — **`resolt` el 17-09-2026
+des del [BOPA](../../../fonts/bopa.md)**
+(`docs/raw/lleis/bopa/llei-33-2021-transparencia.txt`).
+
+**Les dates, totes tres:** **aprovada a Casa de la Vall el 2 de desembre del
+2021**, **publicada el 28 de desembre del 2021** i **en vigor al cap de sis
+mesos**, és a dir **el 28 de juny del 2022** (disposició final onzena).
+
+**I el termini de la CNAAD és de tres mesos des de l'entrada en vigor**
+(disposició final sisena): «una vegada rebuts tots els nomenaments, la persona
+encarregada de la secretaria general del Govern ha de convocar la primera sessió
+constitutiva». **Amb els reglaments, el calendari era aquest:**
+
+| Fita | Termini des de l'entrada en vigor |
+| --- | --- |
+| **Adaptar els reglaments** de la CAAD i del Sistema d'Arxius, i els de participació ciutadana | **4 mesos** |
+| **Constituir la CNAAD** | **3 mesos** |
+| **Els comuns incorporen el títol IV** (iniciatives reglamentàries populars) | **6 mesos** |
+| **Presentar els projectes de text consolidat** de les lleis que modifica | **6 mesos** |
+| **Justificar els preus públics** de l'article 4.3.d | **2 anys** |
+
+**El que les disposicions revelen i l'articulat no deia: aquesta llei en toca
+quatre més.** **El Codi penal** —reescriu l'article 377 de revelació de secrets
+i **hi afegeix un apartat nou que castiga «ometre les més elementals mesures de
+vigilància i protecció de la informació classificada com a reservada d'Estat»**,
+amb inhabilitació de fins a tres anys—; **el Codi de l'Administració**, que
+passa a remetre l'accés a la informació pública a aquesta llei; **la Llei del
+Tribunal de Comptes**; i **la Llei qualificada de partits polítics**.
+
+**I no tota la llei té el mateix rang** (disposició final desena): **són llei
+qualificada els capítols segon, tercer i quart del títol II, l'article del títol
+III i les disposicions finals primera i quarta**; **la resta és llei ordinària.**
+
+> **La lliçó de mètode, i val per a tot el corpus**: **la instantània
+> consolidada recull l'articulat i, en 77 de les 104 normes del recull, cap
+> disposició** ([la fitxa de font](../../../fonts/jurisprudencia-ad.md)).
+> **Les dates, els terminis, les derogacions i les modificacions creuades no hi
+> són mai, i s'han d'anar a buscar al Butlletí.**
 
 **Una instantània no és la llei.** El text llegit és la foto del **2026-09-12**.
 
