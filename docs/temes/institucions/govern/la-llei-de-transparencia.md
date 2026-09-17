@@ -147,7 +147,8 @@ Documentació** (capítol cinquè).
 
   **Declarar la urgència exclou la participació**, i **la llei no posa cap
   condició a qui la declara.** `Requereix saber amb quina freqüència s'invoca
-  la urgència de l'article 31.4.a); és una dada d'execució.` **La Comissió Nacional
+  la urgència de l'article 31.4.a); és una dada d'execució.`
+- **La Comissió Nacional
   d'Accés i Avaluació de la Documentació, llegida el 14-09-2026**
   ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md)):
   és **l'òrgan que aprova els procediments d'eliminació de documentació**, i els
