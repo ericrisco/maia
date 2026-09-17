@@ -1,0 +1,719 @@
+                   A064. Estadística de seguretat: Infraccions. Any 2025
+                           Data de publicació: dilluns, 08/06/2026
+                                     www.estadistica.ad
+
+
+
+Resum
+
+Durant l’any 2025, la Policia d’Andorra va registrar un total de 4.009 infraccions al Principat,
+xifra que representa una disminució del 2,5% respecte a les 4.110 infraccions denunciades
+l’any 2024.
+
+Del total d’infraccions constatades l’any 2025, 1.159 continuen pendents de resolució, mentre
+que les 2.850 restants ja han estat tramitades i resoltes mitjançant el corresponent procediment
+sancionador. Aquestes dades suposen un decrement del 2,9% en les infraccions pendents i
+d’un 2,3% en les resoltes, en comparació amb l’any anterior.
+
+Pel que fa a la tipologia de les conductes, es van denunciar 2.255 delictes i 1.754
+contravencions penals, fet que representa una variació interanual negativa del 3,6% i del 0,9%,
+respectivament.
+
+Segons la classificació establerta al Codi penal, les contravencions penals l’any 2025
+corresponen a les comeses contra el patrimoni (867), contra els interessos generals (781) i
+contra les persones (106).
+
+En relació amb les agressions, es van registrar 328 infraccions vinculades a diferents tipologies
+d’agressió, xifra que suposa un decrement del 4,1% respecte al 2024. D’aquestes, més de la
+meitat (208) corresponen a lesions i maltractaments físics intencionats fora de l’àmbit domèstic.
+
+Pel que fa a les infraccions de caràcter patrimonial, se’n van denunciar un total de 1.085, amb
+un augment del 2,6% en comparació amb l’any anterior. D’aquestes, més de la meitat (691)
+corresponen a infraccions de furt.
+
+L’anàlisi territorial mostra que les infraccions es van concentrar principalment a Andorra la Vella
+(41,7%), a Escaldes-Engordany (9,9%) i a la frontera hispanoandorrana (9,8%). Les parròquies
+que van experimentar un augment més significatiu del nombre d’infraccions respecte al 2024
+són Sant Julià de Lòria (+19,2%), La Massana (+12,2%) i Canillo (+11,1%). En canvi, les zones
+on el nombre d’infraccions van disminuir de manera més notable són la frontera
+hispanoandorrana (-21,2%) i Ordino (-19,4%).
+
+
+
+
+NP_A064_20260608
+                      A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+
+Índex
+
+1.       Infraccions denunciades ................................................................................................ 3
+1.1.     Infraccions denunciades per estat de resolució ............................................................ 3
+1.2.     Infraccions denunciades per tipologia de conducta ...................................................... 4
+1.3.     Infraccions denunciades per títol del Codi penal .......................................................... 5
+1.3.1.   Delictes denunciats per títol del Codi penal .................................................................. 5
+1.3.2.   Contravencions penals denunciades per títol del Codi penal ....................................... 6
+1.4.     Infraccions denunciades per lloc de comissió ............................................................... 7
+1.5.     Infraccions denunciades per tipologies específiques .................................................... 8
+1.5.1.   Infraccions denunciades per tipologies patrimonials ..................................................... 8
+1.5.2.   Infraccions denunciades per tipologies d’agressions .................................................... 8
+2.       Infraccions resoltes........................................................................................................ 9
+2.1.     Infraccions resoltes per tipologia ................................................................................... 9
+2.2.     Infraccions resoltes per títol del Codi penal ................................................................ 10
+2.2.1.   Delictes resolts per títol del Codi penal ....................................................................... 10
+2.2.2.   Contravencions penals resoltes per títol del Codi penal ............................................. 11
+2.3.     Infraccions resoltes per tipologies específiques .......................................................... 12
+2.3.1.   Infraccions resoltes per tipologies patrimonials .......................................................... 12
+2.3.2.   Infraccions resoltes per tipologies d’agressions .......................................................... 12
+3.       Infractors i armes ......................................................................................................... 13
+3.1.     Infractors i armes decomissades ................................................................................. 13
+3.2.     Infractors per tram d’edat ............................................................................................ 13
+3.3.     Infractors per nacionalitat ............................................................................................ 13
+4.       Nota metodològica....................................................................................................... 14
+5.       Dates de les publicacions previstes ............................................................................ 14
+
+
+
+
+NP_A064_20260608                                                                                                      Pàgina 2 de 14
+                         A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+1.     Infraccions denunciades
+
+1.1.    Infraccions denunciades per estat de resolució
+
+
+
+                                                   Infraccions per resolució
+
+                                                                                                            Variació
+                     Estat de resolució                  2021      2022     2023         2024      2025
+                                                                                                           2024/2025
+            Infraccions resoltes                         2.375    3.442     3.048     2.916        2.850       -2,3%
+            Infraccions pendents de resolució              781    1.089     1.163     1.194        1.159       -2,9%
+            Total                                        3.156    4.531     4.211     4.110        4.009       -2,5%
+
+
+
+                                       Ràtio infraccions resoltes / infraccions totals
+                                  2021         2022       2023     2024     2025      Var. 24/25
+                                 75,3%        76,0%      72,4%    70,9%    71,1%           0,2%
+
+
+
+                                            Ràtio infraccions totals / 1.000 habitants
+                                    2021       2022      2023     2024      2025      Var. 24/25
+                                    39,68      55,55     49,48    47,19     45,02          -4,6%
+
+
+
+
+                                Percentatge d'infraccions denunciades per estat de resolució
+
+                100%
+
+
+
+                 80%
+
+
+                             75,3%                               72,4%              70,9%             71,1%
+                 60%                             76,0%
+
+
+
+                 40%
+
+
+
+                 20%
+                             24,7%                               27,6%              29,1%             28,9%
+                                                 24,0%
+
+                  0%
+                             2021                2022             2023              2024              2025
+                                               Pendents de resolució      Resoltes
+
+
+
+
+     NP_A064_20260608                                                                                          Pàgina 3 de 14
+                         A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+1.2.   Infraccions denunciades per tipologia de conducta
+
+
+
+                                         Infraccions denunciades per tipologia
+
+                                                                                                     Variació
+                         Tipologia                     2021     2022     2023       2024    2025
+                                                                                                    2024/2025
+           Delictes                                    1.737   2.357    2.241     2.340    2.255        -3,6%
+           Contravencions penals                       1.419   2.174    1.970     1.770    1.754        -0,9%
+           Total                                       3.156   4.531    4.211     4.110    4.009        -2,5%
+
+
+
+
+                                   Percentatge d'infraccions denunciades per tipologia de
+                                                          conducta
+                  100%
+
+
+                   80%                                                       43,1%          43,8%
+                              45,0%           48,0%            46,8%
+
+
+                   60%
+
+
+                   40%
+
+                              55,0%           52,0%            53,2%         56,9%          56,2%
+                   20%
+
+
+                    0%
+                              2021             2022            2023          2024           2025
+                                            Delictes      Contravencions penals
+
+
+
+
+   NP_A064_20260608                                                                                     Pàgina 4 de 14
+                              A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+1.3.   Infraccions denunciades per títol del Codi penal
+
+
+        1.3.1.      Delictes denunciats per títol del Codi penal
+
+
+                                                Delictes denunciats per títol del Codi penal
+                                                                                                                         Variació
+                          Títol del codi penal                           2021     2022         2023   2024    2025
+                                                                                                                       2024/2025
+   1.1. Delictes contra la vida humana independent                          3        3           2       7       3        -57,1%
+   1.2. Delictes contra la vida humana prenatal                             0        0           0       0       0              -
+   1.3. Delictes contra la integritat física i moral                      250      379         325     369     389          5,4%
+   1.4. Delictes relatius a la genètica i la reproducció humana             0        0           0       0       0              -
+   1.5. Delictes d'omissió del deure de socors                              3        4           3       0       0              -
+   1.6. Delictes contra la llibertat                                      115      175         167     176     194         10,2%
+   1.7. Delictes contra la llibertat sexual                                39       35          33      58      74         27,6%
+   1.8. Delictes contra les relacions familiars                             0        0           5       1       2        100,0%
+   1.9. Delictes contra l'honor                                           111      115         100      89     118         32,6%
+   1.10. Delictes contra la intimitat i inviolabilitat del domicili        90      117          70      92      64        -30,4%
+   1.11. Delictes contra el patrimoni                                     287      436         472     487     454         -6,8%
+   1.12. Delictes d'ordre socioeconòmic                                    25       32          41      56      54         -3,6%
+   1.13. Delictes contra els drets dels treballadors                        1        1           3       4       0       -100,0%
+   1.14. Delictes contra la seguretat col·lectiva                         480      581         481     404     398         -1,5%
+   1.15. Delictes contra la salut pública                                  80      168         221     271     172        -36,5%
+   1.16. Delictes contra el medi ambient                                    7        5           5       4       1        -75,0%
+   1.17. Delictes contra l'ordenació del territori i contra el
+                                                                            0         2          0       1       1          0,0%
+   patrimoni històric
+   1.18. Delictes contra la constitució                                     4         7          7      13      14         7,7%
+   1.19. Delictes contra l'ordre públic                                     5         8          4       4       8       100,0%
+   1.20. Delictes contra la pau i la independència del Principat            0         0          0       0       0              -
+   1.21. Delictes contra la funció pública                                 83        85       84         63      65         3,2%
+   1.22. Delictes contra l'administració de justícia                      104       112      132        124     145        16,9%
+   1.23. Delictes contra la seguretat en el tràfic jurídic                 50        92       86        117      99       -15,4%
+   1.24. Delictes contra la comunitat internacional                         0         0        0          0       0             -
+   Total                                                                1.737     2.357    2.241      2.340   2.255        -3,6%
+
+
+
+
+   NP_A064_20260608                                                                                               Pàgina 5 de 14
+                           A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+    1.3.2.     Contravencions penals denunciades per títol del Codi penal
+
+
+                                  Contravencions penals denunciades per títol del Codi penal
+                                                                                                                            Variació
+                     Títol del codi penal                             2021     2022       2023         2024    2025
+                                                                                                                           2024/2025
+2.1. Contravencions penals contra les persones                          153     134         107           95     106          11,6%
+2.2. Contravencions penals contra el patrimoni                          726     804         775          827     867            4,8%
+2.3. Contravencions penals contra els interessos generals               540   1.236       1.088          848     781           -7,9%
+Total                                                                 1.419   2.174       1.970        1.770   1.754           -0,9%
+
+
+
+
+                     Delictes i contravencions penals denunciats per títol del Codi penal. Any 2025
+
+  900    867
+
+  800          781
+
+  700
+
+  600
+
+  500                454
+                            398   389
+  400
+
+  300
+                                        194
+  200                                         172
+                                                    145
+                                                          118   106
+  100                                                                   99    74   65     64      54
+                                                                                                         14    8       3    2    1     1
+    0
+        2.2.   2.3. 1.11 1.14 1.3.      1.6. 1.15 1.22 1.9.     2.1. 1.23 1.7. 1.21 1.10 1.12 1.18 1.19 1.1.               1.8. 1.16 1.17
+
+                                                                 Article del Codi penal
+
+
+
+
+NP_A064_20260608                                                                                                   Pàgina 6 de 14
+                             A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+1.4.   Infraccions denunciades per lloc de comissió
+
+
+
+                                        Infraccions denunciades per lloc de comissió
+
+                                                                                                   Variació
+                          Lloc de comissió             2021     2022    2023     2024    2025
+                                                                                                 2024/2025
+               Canillo                                  162      330      288      262     291       11,1%
+               Encamp                                   258      271      247      241     208      -13,7%
+               Ordino                                    64       82       81       98      79      -19,4%
+               La Massana                               217      327      249      213     239       12,2%
+               Andorra la Vella                       1.261    1.493    1.365    1.576   1.670        6,0%
+               Sant Julià de Lòria                      159      191      205      172     205       19,2%
+               Escaldes-Engordany                       483      438      431      457     395      -13,6%
+               Pas de la Casa                           141      246      349      346     284      -17,9%
+               Frontera Hispanoandorrana                242      678      634      500     394      -21,2%
+               Frontera Francoandorrana                 159      458      314      235     238        1,3%
+               Indeterminat                              10       17       48       10       6      -40,0%
+               Total                                  3.156    4.531    4.211    4.110   4.009       -2,5%
+
+
+
+
+                             Infraccions denunciades per lloc de comissió. Any 2025
+
+       1.800
+                  1.670
+       1.600
+
+       1.400
+
+       1.200
+
+       1.000
+
+        800
+
+        600
+                             395     394
+        400                                   291      284
+                                                                239     238      208     205
+        200
+                                                                                                  79
+                                                                                                              6
+          0
+
+
+
+
+   NP_A064_20260608                                                                                    Pàgina 7 de 14
+                            A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+1.5.   Infraccions denunciades per tipologies específiques
+
+
+   A continuació, es detallen algunes tipologies d’infracció específiques, atenent al volum que
+   representen. Cal tenir en compte que la suma d’aquestes no coincideix amb el total
+   d’infraccions denunciades al Principat, ja que existeixen altres tipologies d’infracció
+   específiques per les quals no s’ha entrat en detall.
+
+
+       1.5.1.     Infraccions denunciades per tipologies patrimonials
+
+
+
+                                     Infraccions denunciades per tipologies patrimonials
+
+                                                                                                      Variació
+                     Tipologia patrimonial                2021      2022    2023     2024    2025
+                                                                                                     2024/2025
+             Infraccions de furt                            387       565     568     567      691       21,9%
+             Delictes de furt amb força i robatori           68       103     100      95       63      -33,7%
+             Infraccions intencionades de danys             400       396     395     396      331      -16,4%
+             Total                                          855     1.064   1.063   1.058    1.085        2,6%
+
+
+
+
+       1.5.2.     Infraccions denunciades per tipologies d’agressions
+
+
+                                       Infraccions denunciades per tipologies d'agressions
+
+                                                                                                                   Variació
+                       Tipologia d'agressió                          2021    2022    2023    2024    2025
+                                                                                                                 2024/2025
+   Delictes d'homicidi intencionat o assassinat fora de l'àmbit
+                                                                        1       1       0       4       1           -75,0%
+   domèstic
+   Infraccions intencionades de lesions i maltractaments físics
+                                                                      145     238     189     197     208             5,6%
+   fora de l'àmbit domèstic
+   Delictes d'homicidi intencionat o assassinat dins l'àmbit
+                                                                        0       0       0       3       0          -100,0%
+   domèstic
+   Infraccions intencionades d'agressions físiques dins l'àmbit
+                                                                       69      71      56      61      54           -11,5%
+   domèstic
+   Infraccions intencionades d'agressions psíquiques dins l'àmbit
+                                                                       39      44      39      33      34             3,0%
+   domèstic
+   Infraccions intencionades d'agressions físiques i psíquiques
+                                                                       57      61      57      44      31           -29,5%
+   dins l'àmbit domèstic
+   Total                                                              311     415     341     342     328            -4,1%
+
+
+
+
+   NP_A064_20260608                                                                                      Pàgina 8 de 14
+                         A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+2. Infraccions resoltes
+
+
+2.1.   Infraccions resoltes per tipologia
+
+
+
+                                         Infraccions resoltes per tipologia
+
+                                                                                                     Variació
+                         Tipologia                   2021     2022    2023          2024   2025
+                                                                                                    2024/2025
+           Delictes                                  1.425   1.880   1.673      1.799      1.743        -3,1%
+           Contravencions penals                       950   1.562   1.375      1.117      1.107        -0,9%
+           Total                                     2.375   3.442   3.048      2.916      2.850        -2,3%
+
+
+
+                                Percentatge d'infraccions resoltes per tipologia
+
+                  100%
+
+
+                   80%        40,0%                                       38,3%             38,8%
+                                           45,4%             45,1%
+
+
+                   60%
+
+
+                   40%
+
+                              60,0%                                       61,7%             61,2%
+                                           54,6%             54,9%
+                   20%
+
+
+                    0%
+                              2021          2022             2023            2024           2025
+                                          Delictes     Contravencions penals
+
+
+
+
+   NP_A064_20260608                                                                                     Pàgina 9 de 14
+                              A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+2.2.   Infraccions resoltes per títol del Codi penal
+
+
+        2.2.1.      Delictes resolts per títol del Codi penal
+
+
+                                                  Delictes resolts per títol del Codi penal
+
+                                                                                                                         Variació
+                          Títol del codi penal                           2021      2022       2023    2024    2025
+                                                                                                                       2024/2025
+   1.1. Delictes contra la vida humana independent                           3        3          2       7       3        -57,1%
+   1.2. Delictes contra la vida humana prenatal                              0        0          0       0       0              -
+   1.3. Delictes contra la integritat física i moral                       236      325        265     315     338          7,3%
+   1.4. Delictes relatius a la genètica i la reproducció humana              0        0          0       0       0              -
+   1.5. Delictes d'omissió del deure de socors                               3        4          2       0       0              -
+   1.6. Delictes contra la llibertat                                        92      140        115     143     142         -0,7%
+   1.7. Delictes contra la llibertat sexual                                 36       50         29      56      68         21,4%
+   1.8. Delictes contra les relacions familiars                              0        0          3       1       2        100,0%
+   1.9. Delictes contra l'honor                                             94       99         81      74     100         35,1%
+   1.10. Delictes contra la intimitat i inviolabilitat del domicili         22       35         17      40      36        -10,0%
+   1.11. Delictes contra el patrimoni                                      112      163        124     164     173          5,5%
+   1.12. Delictes d'ordre socioeconòmic                                     21       18         24      20      30         50,0%
+   1.13. Delictes contra els drets dels treballadors                         1        1          3       3       0       -100,0%
+   1.14. Delictes contra la seguretat col·lectiva                          481      582        481     404     393         -2,7%
+   1.15. Delictes contra la salut pública                                   81      170        217     276     171        -38,0%
+   1.16. Delictes contra el medi ambient                                     5        4          4       1       2        100,0%
+   1.17. Delictes contra l'ordenació del territori i contra el
+                                                                             0         0         0       0       0              -
+   patrimoni històric
+   1.18. Delictes contra la constitució                                      4        6          9      10      13        30,0%
+   1.19. Delictes contra l'ordre públic                                      5        8          4       4       9       125,0%
+   1.20. Delictes contra la pau i la independència del Principat             0        0          0       0       0             -
+   1.21. Delictes contra la funció pública                                  80       87         85      64      59        -7,8%
+   1.22. Delictes contra l'administració de justícia                       101      107        133     117     132        12,8%
+   1.23. Delictes contra la seguretat en el tràfic jurídic                  48        78        75     100      72        -28,0%
+   1.24. Delictes contra la comunitat internacional                          0         0          0       0       0             -
+   Total                                                                 1.425     1.880      1.673   1.799   1.743        -3,1%
+
+
+
+
+   NP_A064_20260608                                                                                              Pàgina 10 de 14
+                             A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+    2.2.2.      Contravencions penals resoltes per títol del Codi penal
+
+
+                                      Contravencions penals resoltes per títol del Codi penal
+
+                                                                                                                                       Variació
+                       Títol del codi penal                                  2021          2022    2023     2024        2025
+                                                                                                                                      2024/2025
+2.1. Contravencions penals contra les persones                                140          104      100        79          87            10,1%
+2.2. Contravencions penals contra el patrimoni                                276          230      198       206         254            23,3%
+2.3. Contravencions penals contra els interessos generals                     534        1.228    1.077       832         766             -7,9%
+Total                                                                         950        1.562    1.375     1.117       1.107             -0,9%
+
+
+
+
+                      Delictes i contravencions penals resolts per títol del codi penal. Any 2025
+
+  900
+
+  800   766
+
+  700
+
+  600
+
+  500
+
+               393
+  400
+                      338
+  300
+                             254
+  200                               173   171
+                                                142    132
+                                                              100      87
+  100                                                                        72     68      59
+                                                                                                  36   30
+                                                                                                             13     9      3      2      2
+    0
+        2.3.   1.14   1.3.   2.2.   1.11 1.15   1.6.   1.22   1.9.    2.1.   1.23   1.7.    1.21 1.10 1.12 1.18 1.19      1.1.   1.8.   1.16
+
+                                                                     Article del Codi penal
+
+
+
+
+NP_A064_20260608                                                                                                           Pàgina 11 de 14
+                            A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+2.3.   Infraccions resoltes per tipologies específiques
+
+
+   A continuació, es detallen algunes tipologies d’infracció específiques, atenent al volum que
+   representen. Cal tenir en compte que la suma d’aquestes no coincideix amb el total
+   d’infraccions denunciades al Principat, ja que existeixen altres tipologies d’infracció
+   específiques per les quals no s’ha entrat en detall.
+
+
+       2.3.1.     Infraccions resoltes per tipologies patrimonials
+
+                                        Infraccions resoltes per tipologies patrimonials
+
+                                                                                                   Variació
+                     Tipologia patrimonial                 2021     2022   2023     2024   2025
+                                                                                                  2024/2025
+             Infraccions de furt                            168     199     171      159    236       48,4%
+             Delictes de furt amb força i robatori           12      42      23       33     23      -30,3%
+             Infraccions intencionades de danys             133      92      91      104     85      -18,3%
+             Total                                          313     333     285      296    344       16,2%
+
+
+
+
+       2.3.2.     Infraccions resoltes per tipologies d’agressions
+
+                                      Infraccions resoltes per tipologies d'agressions
+                                                                                                            Variació
+                       Tipologia d'agressió                         2021   2022     2023   2024   2025
+                                                                                                          2024/2025
+   Delictes d'homicidi intencionat o assassinat fora de l'àmbit
+                                                                       1       1       0     4       1         -75,0%
+   domèstic
+   Infraccions intencionades de lesions i maltractaments físics
+                                                                     133    190      147   160     164          2,5%
+   fora de l'àmbit domèstic
+   Delictes d'homicidi intencionat o assassinat dins l'àmbit
+                                                                       0       0       0     3       0        -100,0%
+   domèstic
+   Infraccions intencionades d'agressions físiques dins l'àmbit
+                                                                      69     69       50    61      54         -11,5%
+   domèstic
+   Infraccions intencionades d'agressions psíquiques dins l'àmbit
+                                                                      38     36       32    33      33          0,0%
+   domèstic
+   Infraccions intencionades d'agressions físiques i psíquiques
+                                                                      56     51       52    44      30         -31,8%
+   dins l'àmbit domèstic
+   Total                                                             297    347      281   305     282          -7,5%
+
+
+
+
+   NP_A064_20260608                                                                                  Pàgina 12 de 14
+                         A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+3. Infractors i armes
+
+
+3.1.   Infractors i armes decomissades
+
+
+
+                                                         Infractors i armes
+                                                                                                  Variació
+                                                                         2024        2025
+                                                                                                 2024/2025
+                      Nombre d'infractors                               2.865       2.671           -6,8%
+                      Nombre d'armes decomissades                          19          14          -26,3%
+                      Total                                             2.884       2.685           -6,9%
+                      *Pel que fa el nombre d'infractors només es disposa de dades de dos anys enrere
+
+
+
+
+3.2.   Infractors per tram d’edat
+
+
+
+                                                    Infractors per tram d'edat
+                                                                                                  Variació
+                                                                         2024        2025
+                                                                                                 2024/2025
+                      Menys de 16 anys                                    127          92          -27,6%
+                      De 16 a 17 anys                                      82          57          -30,5%
+                      De 18 a 21 anys                                     361         327           -9,4%
+                      De 22 a 29 anys                                     775         723           -6,7%
+                      De 30 a 39 anys                                     729         672           -7,8%
+                      De 40 a 49 anys                                     462         444           -3,9%
+                      De 50 a 59 anys                                     238         240            0,8%
+                      Més de 60 anys                                       76         100           31,6%
+                      Es desconeix l'edat                                  15          16            6,7%
+                      Total                                             2.865       2.671           -6,8%
+                      *Pel que fa el nombre d'infractors només es disposa de dades de dos anys enrere
+
+
+
+
+3.3.   Infractors per nacionalitat
+
+
+
+                                                    Infractors per nacionalitat
+                                                                                                  Variació
+                                                                         2024        2025
+                                                                                                 2024/2025
+                      Andorrana                                           699         642           -8,2%
+                      Espanyola                                           968         816          -15,7%
+                      Francesa                                            285         249          -12,6%
+                      Portugal                                            210         231           10,0%
+                      Altres Europa                                       184         173           -6,0%
+                      Països d'Amèrica                                    393         409            4,1%
+                      Països d'Àfrica                                      97         107           10,3%
+                      Països d'Àsia                                        11          28         154,5%
+                      Països d'Oceania                                      2           3           50,0%
+                      Es desconeix la nacionalitat                         16          13          -18,8%
+                      Total                                             2.865       2.671           -6,8%
+                      *Pel que fa el nombre d'infractors només es disposa de dades de dos anys enrere
+
+
+
+
+   NP_A064_20260608                                                                                          Pàgina 13 de 14
+                     A064. Estadística de seguretat: Infraccions. Any 2025
+
+
+4. Nota metodològica
+
+
+  •   Font: Registre de les infraccions del Departament de Policia, revisat i tractat pel
+      Departament d’Estadística. Dades disponibles al web www.estadistica.ad, en el banc de
+      dades dins de l’apartat Estadístiques i Dades/Justícia i seguretat/Seguretat ciutadana.
+
+  •   Definicions:
+
+      - Infraccions denunciades: Transgressió o incompliment d’una norma legal, moral o
+          convenció. Pot ser detectada i/o denunciada per agents de seguretat ciutadana, per les
+          persones perjudicades, per persones que presenciïn la comissió del delicte o per
+          persones que en tinguin coneixement.
+      - Infraccions resoltes: Transgressió o incompliment d’una norma legal, moral o convenció,
+          a la qual se li ha aplicat i resolt el procediment sancionador i l’autor de la mateixa ja
+          coneix, si s’escau, la sanció que se li imposa.
+      - Delictes: Conducta o acció típica (tipificada per la llei), antijurídica (contrària a Dret),
+          culpable i punible.
+      - Contravencions penals: Conducta antijurídica que posa en perill algun bé jurídic
+          protegible, considerada de menor gravetat i, per tant, no tipificada com a delicte.
+
+  •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+      preguem citeu: “Dades del Dades del Departament de Policia, tractades pel Departament
+      d’Estadística per a la Nota de Premsa ref. NP_A064_20260608”.
+
+  •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+      desplegament en el Programa estadístic per a l’any 2026, el present informe dona resposta
+      a la següent activitat estadística del Programa: A064: Estadística de seguretat: infraccions
+
+  •   Difusió.     Dades      disponibles    al   web       www.estadistica.ad,     a     l’apartat
+      Estadístiques/Dades/Justícia i seguretat/Seguretat ciutadana/Infraccions. Per estar informat
+      en qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+      informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+      d’aquest tema: http://www.estadistica.ad
+
+      Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+      Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+5. Dates de les publicacions previstes
+
+  Nota de premsa A064. Estadística de seguretat: Infraccions. Any 2026: 2n trimestre del 2027
+
+
+
+
+  NP_A064_20260608                                                                    Pàgina 14 de 14
+

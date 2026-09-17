@@ -1,0 +1,838 @@
+                              A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+                                          Confidencial fins a: dijous, 09/12/2025
+                                                    www.estadistica.ad
+
+
+
+      Resum
+
+
+
+      A partir del Registre Estadístic de Territori s’observa que de les 10.699 edificacions totals del país
+      un gran percentatge són edificis, cases, i xalets, amb un 68,7%.
+      Les parròquies on es concentren més edificacions són La Massana i Andorra la Vella amb un total
+      de 2.111 i 1.915 respectivament. Altrament, les parròquies on hi ha menys edificacions són les
+      parròquies de: Canillo i Ordino amb 1.187 i 1.105 respectivament.
+
+      Els edificis del país d’ús destinat principalment a l’habitatge tenen un màxim de 15 plantes sobre
+      rasant, sent més freqüents els edificis de 7 plantes d’alçada. Per contra, es constata que en les
+      plantes sota rasant, habitualment destinades als aparcaments, no excedeixen les 10 plantes,
+      essent més habituals els edificis sense plantes soterrànies.
+
+      Al país hi ha un total de 44.047 habitatges que fa un 48,4% de les unitats domiciliàries d’un total
+      de 90.947. Totes les parròquies han crescut pel que fa al nombre d’habitatges, sent Andorra la
+      Vella i Escaldes-Engordany les que han augmentat més, 217 i 62 unitats respecte a l’any passat.
+
+      D’altra banda, hi ha 20.220 pàrquings i 12.109 trasters al llarg del territori andorrà a l’interior de les
+      seves edificacions1.
+      I, actualment, hi ha 698 unitats domiciliàries, un 0,8%, que estan en obres d’un total de 90.947.
+
+
+
+
+      1
+        Les dades de pàrquings i de trasters, així com les d’”altre tipus més específica” s’han pogut obtenir d’aquelles fonts d’ús administratiu que
+      s’han disposat per les parròquies de Canillo, Encamp, Ordino i La Massana. Pel que fa a la resta de parròquies, la dada es tracta d’una
+      aproximació extreta del treball de camp.
+
+
+
+
+NP_A061_20251209
+                                                                                                                                          Pàgina 1 de 23
+                               A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+      Índex
+
+      1.   Nombre d’edificacions al país .................................................................................................... 3
+         1.1.   Nombre d’edificacions per parròquia.................................................................................. 3
+         1.2.   Nombre d’edificacions per tipus ......................................................................................... 4
+         1.3.   Nombre d’edificacions per tipus i parròquia ....................................................................... 5
+         1.4.   Nombre d’edificacions per tipus de complex edificatiu ...................................................... 6
+         1.5.   Nombre d’edificacions per tipus de complex edificatiu i parròquia .................................... 6
+      2. Nombre d’edificis destinats principalment a habitatges ............................................................. 8
+         2.1.   Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+         sobre rasant ................................................................................................................................... 8
+         2.2.   Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+         sobre rasant per parròquia ............................................................................................................. 9
+         2.3.   Nombre d’edificis destinats principalment a habitatges segons el número de plantes sota
+         rasant 10
+         2.4.   Nombre d’edificis destinats principalment a habitatges segons el número de plantes sota
+         rasant per parròquia ..................................................................................................................... 10
+         2.5.   Nombre d’edificis destinats principalment a habitatges segons el nombre de places
+         d’aparcament ............................................................................................................................... 12
+         2.6.   Nombre d’edificis destinats principalment a habitatges segons el nombre de places
+         d’aparcament per parròquia ......................................................................................................... 12
+      3. Nombre total d’unitats domiciliàries al país .................................................................................. 14
+         3.1.   Nombre total d’unitats domiciliàries per tipus ................................................................... 14
+         3.2.   Nombre total d’unitats domiciliàries per tipus i parròquia ................................................. 15
+         3.3.   Nombre total d’habitatges i apartaments turístics per parròquia ..................................... 19
+      4. Nota metodològica.................................................................................................................... 21
+      5. Dates de les properes publicacions previstes .......................................................................... 23
+
+
+
+
+NP_A061_20251209                                                                                                                                Pàgina 2 de 23
+                             A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+          1. Nombre d’edificacions al país
+
+          1.1. Nombre d’edificacions per parròquia
+
+
+      Globalment, el nombre d’edificacions, ha augmentat un 0,5% respecte a l’any 2023, el que
+      representa 54 unitats més. La parròquia de La Massana és la que ha crescut més amb un 0,8%
+      (17 edificacions respecte a l’any passat) seguida per Escaldes-Engordany amb un 0,8% (12
+      edificacions respecte a l’any passat) i, amb menor quantitat les parròquies d’Ordino, Andorra la
+      Vella i Sant Julià de Lòria amb un 0,3%, 0,3% i 0,2% respecte a l’any passat.
+
+      Parròquia                                       2021         2022          2023          2024           Variació absoluta      Variació 2024/2023
+      Canillo                                        1.183        1.179         1.181         1.187                           6                    0,5%
+      Encamp                                         1.506        1.539         1.532         1.540                           8                    0,5%
+      Ordino                                         1.074        1.099         1.102         1.105                           3                    0,3%
+      La Massana                                     2.070        2.065         2.094         2.111                          17                    0,8%
+      Andorra la Vella                               1.868        1.906         1.910         1.915                           5                    0,3%
+      Sant Julià de Lòria                            1.362        1.393         1.396         1.399                           3                    0,2%
+      Escaldes - Engordany                           1.405        1.414         1.430         1.442                          12                    0,8%
+      Total                                         10.468       10.595        10.645        10.699                          54                    0,5%
+
+
+
+
+                                 Nota: Els límits parroquials són només il·lustratius a fi de representar les dades
+
+
+
+
+      Més de la meitat de les edificacions es concentren a les parròquies de La Massana, Andorra la
+      Vella i Encamp, amb un 52,0%. Pel que fa a les parròquies d’Escaldes-Engordany i Sant Julià de
+      Lòria representen un 13,5% i 13,1% respectivament. A les parròquies de Canillo i Ordino és on hi
+      ha menys edificacions amb un 11,1% i 10,3% respectivament.
+
+
+
+
+NP_A061_20251209                                                                                                                  Pàgina 3 de 23
+                               A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+           1.2. Nombre d’edificacions per tipus
+
+
+      Tipus d'edificacions                            2021     2022     2023     2024   Variació absoluta    Variació 2024/2023
+      Edifici                                        3.442    3.502    3.516    3.535                  19                  0,5%
+      Casa                                           1.794    1.764    1.769    1.779                  10                  0,6%
+      Xalet                                          1.981    1.997    2.017    2.039                  22                  1,1%
+      Borda                                            702      686      686      685                  -1                 -0,1%
+      Nau                                              443      456      457      458                   1                  0,2%
+      Aparcament                                       236      230      230      235                   5                  2,2%
+      Hotel/Aparthotel/Hostal/Residència               255      249      249      248                  -1                 -0,4%
+       Subtotal                                      8.853    8.884    8.924    8.979                  55                  0,6%
+      Altres
+              Altres - Tipus emmagatzematge            557      593      597      593                  -4                -0,7%
+              Altres - Tipus agrícola                  283      289      298      297                  -1                -0,3%
+              Altres - Restauració/hostaleria          101       97       96       97                   1                 1,0%
+              Altres - Instal·lacions elèctriques      182      232      232      231                  -1                -0,4%
+              Altres - Instal·lacions d'esquí           88       87       86       86                   0                 0,0%
+              Altres - Tipus religiós                   80       79       79       79                   0                 0,0%
+              Altres - Tipus centre comercial           63       56       55       56                   1                 1,8%
+              Altres - Tipus centre educatiu            45       44       44       44                   0                 0,0%
+              Altres - Tipus serveis                   125      132      131      131                   0                 0,0%
+              Altres - Tipus cultural                   11       12       12       12                   0                 0,0%
+              Altres - Altres                           80       90       91       94                   3                 3,3%
+       Subtotal                                      1.615    1.711    1.721    1.720                  -1                -0,1%
+      Total                                         10.468   10.595   10.645   10.699                 54                  0,5%
+
+
+
+      Tal com s’observa, els tipus: edifici, casa i xalet són els més comuns amb gairebé un 68,7% del
+      total, també hi ha bordes, naus i aparcaments amb 685, 458 i 235 registres respectivament.
+
+      En comparació amb l’any anterior, el nombre d’edificacions ha augmentat. Concretament, pel que
+      fa als tipus edificis i xalets, hi ha 19 i 22 registres més respectivament. Aquest augment és a causa
+      del creixement urbanístic.
+
+      Dins de la categoria Altres, cal destacar les edificacions de tipus emmagatzematge amb un total
+      de 593 i les que són de tipus agrícola amb 297 registres.
+
+
+
+
+NP_A061_20251209                                                                                            Pàgina 4 de 23
+                                      A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+             1.3. Nombre d’edificacions per tipus i parròquia
+
+      La distribució de les edificacions per parròquia segons el tipus d’edificació es representa de la
+      manera següent:
+                                                                                                     La          Andorra la          Sant Julià           Escaldes-
+             Tipus per parròquia           Canillo     %col Encamp     %col    Ordino     %col Massana    %col       Vella    %col    de Lòria    %col   Engordany    %col    País    %col
+      Edifici                                 454     46,7%     503    44,1%      307    34,0%      425  23,4%         946 57,0%           333  28,2%           567  43,5%   3.535    39,4%
+      Casa                                    192     19,7%     174    15,3%      261    28,9%      443  24,4%         188 11,3%           308  26,0%           213  16,3%   1.779    19,8%
+      Xalet                                    89      9,2%     149    13,1%      188    20,8%      726  40,0%         169 10,2%           365  30,9%           353  27,1%   2.039    22,7%
+      Borda                                   159     16,3%     126    11,0%       99    11,0%      106   5,8%          40   2,4%           62   5,2%            93   7,1%     685     7,6%
+      Nau                                      16      1,6%      86     7,5%        6     0,7%       44   2,4%         203 12,2%            88   7,4%            15   1,2%     458     5,1%
+      Aparcament                               21      2,2%      35     3,1%       19     2,1%       29   1,6%          68   4,1%           17   1,4%            46   3,5%     235     2,6%
+      Hotel/Aparthotel/Hostal/Residència       42      4,3%      68     6,0%       22     2,4%       43   2,4%          46   2,8%           10   0,9%            17   1,3%     248     2,8%
+                      Total                   973    100,0%   1.141   100,0%      902   100,0%    1.816 100,0%       1.660 100,0%        1.183 100,0%         1.304 100,0%   8.979   100,0%
+
+
+
+
+                                                             Nota: No s’ha tingut en compte la categoria “Altres”
+
+
+      En aquest gràfic, la línia de color negre correspon a la distribució del total d’edificacions de
+      Andorra, mentre que les altres línies fan referència a la distribució d’edificacions en cadascuna de
+      les parròquies. Al gràfic, s’aprecia les diferències que hi ha entre parròquies pel que fa al tipus
+      d’edificacions. Per exemple, a la majoria de les parròquies predomina l’edifici com a principal tipus,
+      sent Andorra la Vella la parròquia amb un major nombre d’edificis, 946, en comparació amb la
+      resta. En canvi, a La Massana i Sant Julià de Lòria el xalet és l’edificació més característica, amb
+      un total de 726 i 365 respectivament. La majoria de les bordes les trobem a la parròquia de Canillo
+      amb un total de 159. A mesura que el nombre de registres es redueix les diferències no són tan
+      visibles. Caldria destacar que la parròquia on hi ha més hotels/apart hotels/hostals és la parròquia
+      d’Encamp amb un total de 68 edificacions.
+
+
+
+
+NP_A061_20251209                                                                                                                                             Pàgina 5 de 23
+                                 A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+             1.4. Nombre d’edificacions per tipus de complex edificatiu
+
+
+      A continuació, es detallen aquelles edificacions que formen part d’un complex i/o conjunt edificatiu:
+      Tipus de complex                                          2021           2022           2023             2024           Variació absoluta                Variació 2024/2023
+      Urbanització                                             1.274          1.264          1.265            1.267                           2                              0,2%
+      Residencial                                                512            512            512              514                           2                              0,4%
+      Pleta                                                      252            250            250              250                           0                              0,0%
+      Bordes                                                     122            122            122              122                           0                              0,0%
+      Xalets                                                      93             84             84               84                           0                              0,0%
+      Cases                                                       45             46             46               45                          -1                             -2,2%
+      Edificis                                                     8              7              7                7                           0                              0,0%
+      Altres                                                     137            137            137              137                           0                              0,0%
+      Total                                                    2.443          2.422          2.423            2.426                           3                              0,1%
+
+
+      El tipus de complex amb més presència al país són les urbanitzacions amb 1.267 edificacions,
+      seguides dels residencials, pletes i bordes amb una suma total de 886 edificacions amb un
+      increment de dues edificacions comparat amb l’any 2023.
+
+
+
+
+             1.5. Nombre d’edificacions per tipus de complex edificatiu i parròquia
+
+
+      La distribució de les edificacions per parròquia segons el tipus de complex edificatiu es representa
+      de la manera següent per l’any 2024:
+
+      Tipus de
+      complex
+      per                                                                          La            Andorra la            Sant Julià             Escaldes-
+      parròquia      Canillo    %col    Encamp     %col    Ordino      %col   Massana    %col        Vella     %col     de Lòria     %col    Engordany     %col     País    %col
+      Urbanització      150     50,2%        61    35,7%       64    23,9%        457    66,5%          85     50,3%         141     33,3%         309     75,6%   1.267    52,2%
+      Residencial        53     17,7%        45    26,3%       37    13,8%        151    22,0%          35     20,7%         156     36,9%          37      9,1%     514    21,2%
+      Pleta              80     26,8%        15     8,8%       88    32,8%         20     2,9%           0      0,0%          25      5,9%          22      5,4%     250    10,3%
+      Bordes               3     1,0%         5     2,9%       44    16,4%         29     4,2%           1      0,6%           4      1,0%          36      8,8%     122     5,0%
+      Xalets               4     1,3%         8     4,7%       35    13,1%         15     2,2%          21     12,4%           1      0,2%           0      0,0%      84     3,5%
+      Cases                3     1,0%         4     2,3%        0      0,0%         0     0,0%           0      0,0%          38      9,0%           0      0,0%      45     1,9%
+      Edificis             1     0,3%         6     3,5%        0      0,0%         0     0,0%           0      0,0%           0      0,0%           0      0,0%       7     0,3%
+      Altres               5     1,7%        27    15,8%        0      0,0%        15     2,2%          27     16,0%          58     13,7%           5      1,2%     137     5,7%
+      Total             299    100,0%       171   100,0%      268   100,0%        687   100,0%         169    100,0%         423    100,0%         409    100,0%   2.426   100,0%
+
+
+
+
+NP_A061_20251209                                                                                                                                              Pàgina 6 de 23
+                      A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+      En aquest gràfic, la línia de color negre correspon a la distribució del total d’edificacions per
+      complex edificatiu a Andorra, mentre que les altres línies fan referència a la distribució
+      d’edificacions en cadascuna de les parròquies. Al gràfic s’aprecia les diferències que hi ha entre
+      parròquies pel que fa al tipus de complex edificatiu. Les urbanitzacions, amb major quantitat
+      d’edificacions, es troben a les parròquies de La Massana i d’Escaldes-Engordany, amb 457 i 309
+      edificacions respectivament. A Sant Julià de Lòria és més comú trobar zones residencials amb un
+      total de 156, destacant també al tipus de complex de cases, amb 38, respecte a les altres
+      parròquies. A Ordino i Canillo ressalten les pletes amb 88 i 80 cadascuna. A Ordino sobresurt les
+      bordes de la resta de parròquies, amb 44. Pel que fa als xalets com a complex edificatiu, destaca
+      notablement Ordino, 35, seguit d'Andorra la Vella amb 21 edificacions.
+
+
+
+
+NP_A061_20251209                                                                                Pàgina 7 de 23
+                             A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+          2. Nombre d’edificis destinats principalment a habitatges
+
+          2.1. Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+               sobre rasant
+
+
+      Es tenen en compte els edificis destinats principalment a habitatges, és a dir on la majoria de les
+      seves unitats domiciliàries, en un 60% o més són de tipus habitatge.
+
+      Plantes sobre rasant                      2021    2022      2023     2024      Variació absoluta     Variació 2024/2023
+      1 planta                                    82      76        74       75                      1                   1,4%
+      2 plantes                                   96     100       100       98                     -2                  -2,0%
+      3 plantes                                  287     309       310      302                     -8                  -2,6%
+      4 plantes                                  400     450       453      447                     -6                  -1,3%
+      5 plantes                                  417     458       453      448                     -5                  -1,1%
+      6 plantes                                  371     401       400      401                      1                   0,2%
+      7 plantes                                  557     601       603      593                    -10                  -1,7%
+      8 plantes                                  121     129       128      135                      7                   5,5%
+      9 plantes                                   28      30        31       34                      3                   9,7%
+      10 plantes o més                             7       8         9       11                      2                 22,2%
+      Total d'edificis                         2.366   2.562     2.561    2.544                    -17                  -0,7%
+
+
+
+      Els edificis que es troben al territori d’Andorra tenen d’entre 1 i 15 plantes sobre rasant. La mitjana
+      de plantes és de 5,2 i el valor més freqüent, la moda, és de 7 plantes.
+
+      En comparació amb l’any anterior, el nombre d’edificis d’entre 2 i 7 plantes ha disminuït, amb
+      l’excepció dels de 6 plantes, que han augmentat en una unitat. En canvi, els edificis d’altres
+      alçades han experimentat un increment. Aquesta variació es deu al fet que alguns edificis ja no
+      compleixen el requisit del 60% d’habitatges, en incloure les places d’aparcament, trasters i altres
+      espais no residencials un cop obtingudes les dades administratives de l’any 2024.
+
+      En general, el territori andorrà es troba immers en una etapa d’intensa activitat constructiva i de
+      creixement immobiliari.
+
+
+
+                                           Mitjana         Màxim              Moda
+                                                5,2           15                 7
+
+      D’altra banda, els edificis d’una planta i de dues són poc freqüents amb un 6,8%, així com els
+      edificis de 10 plantes o més que representen un 0,4% sobre el total.
+
+
+
+
+NP_A061_20251209                                                                                         Pàgina 8 de 23
+                                 A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+            2.2. Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+                 sobre rasant per parròquia
+
+
+      La distribució per parròquia dels edificis destinats principalment a habitatges segons el número de
+      plantes sobre rasant es representa al gràfic de la manera següent:
+      Plantes
+      sobre                                                                      La            Andorra la            Sant Julià             Escaldes-
+      rasant        Canillo    %col    Encamp     %col    Ordino    %col    Massana    %col        Vella     %col     de Lòria     %col    Engordany     %col     País    %col
+      1 Planta          16      5,0%         6     1,9%       11     4,3%         6     2,1%           8      1,3%          11      3,9%          17      3,8%      75     3,0%
+      2 Plantes         25      7,8%         1     0,3%       48    18,7%        13     4,5%           3      0,5%           5      1,8%           3      0,7%      98     3,9%
+      3 Plantes         56     17,5%        25     8,1%       55    21,4%        61    20,9%          35      5,5%          24      8,6%          46     10,2%     302    11,9%
+      4 Plantes         84     26,3%        70    22,6%       84    32,7%        61    20,9%          59      9,3%          41     14,6%          48     10,6%     447    17,6%
+      5 Plantes         85     26,6%        80    25,8%       48    18,7%        71    24,3%          75     11,9%          35     12,5%          54     11,9%     448    17,6%
+      6 Plantes         34     10,6%        49    15,8%        9     3,5%        28     9,6%         138     21,8%          42     15,0%         101     22,3%     401    15,8%
+      7 Plantes           9     2,8%        60    19,4%        2     0,8%        33    11,3%         246     38,9%          97     34,6%         146     32,2%     593    23,3%
+      8 Plantes           8     2,5%        17     5,5%        0     0,0%         9     3,1%          48      7,6%          23      8,2%          30      6,6%     135     5,3%
+      9 Plantes           3     0,9%         1     0,3%        0     0,0%         9     3,1%          15      2,4%           0      0,0%           6      1,3%      34     1,3%
+      10 plantes o més    0     0,0%         1     0,3%        0     0,0%         1     0,3%           5      0,8%           2      0,7%           2      0,4%      11     0,4%
+      Total            320    100,0%       310   100,0%      257   100,0%       292   100,0%         632    100,0%         280    100,0%         453    100,0%   2.544   100,0%
+
+
+
+
+      En aquest gràfic, la línia de color negre correspon a la distribució del nombre d’edificis destinats
+      principalment a habitatges segons el número de plantes sobre rasant al país, mentre que les altres
+      línies fan referència a la distribució en cadascuna de les parròquies. Al gràfic, s’aprecia les
+      diferències que hi ha entre parròquies pel que fa al nombre de plantes sobre rasant. A les
+      parròquies d’Andorra la Vella i Sant Julià de Lòria destaquen els edificis de 7 plantes, amb 246 i 97
+      edificis respectivament. En el cas d’Ordino, ressalten els edificis de 4 plantes, amb 84 edificis.
+      Mentre que a Canillo predominen els edificis de 4 i 5 plantes, amb 84 i 85 edificis respectivament a
+      la parròquia.
+
+                               Parròquia                                                             Mitjana              Màxim
+                               Canillo                                                                    4,2                 9
+                               Encamp                                                                     5,3                11
+                               Ordino                                                                     3,6                 7
+                               La Massana                                                                 4,7                10
+                               Andorra la Vella                                                           6,1                15
+                               Sant Julià de Lòria                                                          5,6                   10
+                               Escaldes - Engordany                                                         5,7                   14
+                               Total                                                                        5,0                   15
+
+
+
+NP_A061_20251209                                                                                                                                  Pàgina 9 de 23
+                                     A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+      Els edificis d’Andorra la Vella tenen una mitjana de plantes superior a la resta amb un 6,1. En
+      canvi, als edificis d’Ordino i Canillo és on hi ha la mitjana més baixa amb 3,6 i 4,2 respectivament
+      a la parròquia. Cal destacar que el màxim arriba a 15 plantes als edificis d’ús destinat a habitatge.
+
+
+
+             2.3. Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+                  sota rasant
+
+      Es tenen en compte els edificis destinats principalment a habitatges, és a dir on la majoria de les
+      seves unitats domiciliàries, en un 60% o més, són de tipus habitatge.
+
+      Plantes sota rasant                                                2021         2022              2023            2024             Variació absoluta                   Variació 2024/2023
+      1 planta                                                            635          693               695             695                             0                                 0,0%
+      2 plantes                                                           337          357               357             355                            -2                                -0,6%
+      3 plantes                                                           100          109               109             111                             2                                 1,8%
+      4 plantes o més                                                      64           73                72              73                             1                                 1,4%
+      Sense plantes sota rasant                                         1.230        1.330             1.328           1.310                           -18                                -1,4%
+      Total                                                             2.366        2.562             2.561           2.544                           -17                                -0,7%
+
+
+
+      En comparació amb l’any anterior, el nombre total d’edificis destinats principalment a habitatges
+      s’ha reduït lleugerament (–0,7%), mantenint-se, però, dins d’una tendència d’estabilitat. Els edificis
+      amb una planta sota rasant continuen sent els més nombrosos (695), sense variació respecte al
+      2023, mentre que els de tres o més plantes sota rasant mostren petits increments.
+
+      La majoria dels edificis del territori no disposen de plantes sota rasant, amb un total de 1.310
+      registres, mentre que els edificis amb quatre plantes o més sota rasant són els menys freqüents,
+      amb només 73 edificis.
+
+
+
+
+             2.4. Nombre d’edificis destinats principalment a habitatges segons el número de plantes
+                  sota rasant per parròquia
+
+
+      La distribució per parròquia dels edificis destinats principalment a habitatges segons el número de
+      plantes sota rasant es representa al gràfic de la manera següent:
+      Plantes sota                                                                                La             Andorra la            Sant Julià             Escaldes-
+      rasant                      Canillo    %col    Encamp     %col      Ordino    %col     Massana     %col        Vella     %col     de Lòria     %col    Engordany     %col     País    %col
+      1 Planta                       108     33,8%        99    31,9%         97    37,7%        118     40,4%         131     20,7%          66     23,6%          76     16,8%     695    27,3%
+      2 Plantes                       51     15,9%        55    17,7%         21     8,2%         56     19,2%          59      9,3%          39     13,9%          74     16,3%     355    14,0%
+      3 Plantes                       12      3,8%        21     6,8%          8     3,1%          8      2,7%          21      3,3%          14      5,0%          27      6,0%     111     4,4%
+      4 Plantes                       11      3,4%         8     2,6%          1     0,4%         14      4,8%          11      1,7%          11      3,9%          17      3,8%      73     2,9%
+      Sense plantes sota rasant      138     43,1%       127    41,0%        130    50,6%         96     32,9%         410     64,9%         150     53,6%         259     57,2%   1.310    51,5%
+      Total                          320    100,0%       310   100,0%        257   100,0%        292    100,0%         632    100,0%         280    100,0%         453    100,0%   2.544   100,0%
+
+
+
+
+NP_A061_20251209                                                                                                                                                          Pàgina 10 de 23
+                       A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+      En aquest gràfic, la línia de color negre correspon a la distribució del nombre d’edificis destinats
+      principalment a habitatges segons el número de plantes sota rasant a Andorra, mentre que les
+      altres línies fan referència a la distribució en cadascuna de les parròquies. Al gràfic no s’aprecia
+      diferències significatives entre parròquies pel que fa al número de plantes sota rasant. Així i tot, La
+      Massana és la parròquia on es troba un major percentatge d’edificis amb una planta sota rasant,
+      amb un 40,4% del total (118 edificis). A Ordino només hi ha 8 edificis de 4 plantes o més sota
+      rasant. Al país, predominen els edificis sense plantes sota rasant, que representen un 51,5% del
+      total.
+
+                            Parròquia                                Mitjana    Màxim
+                            Canillo                                       0,9       6
+                            Encamp                                        1,0       5
+                            Ordino                                        0,7       5
+                            La Massana                                    1,2      10
+                            Andorra la Vella                              0,9       7
+                            Sant Julià de Lòria                           0,9       6
+                            Escaldes - Engordany                          0,9       9
+                            Total                                        0,9        10
+
+
+
+      Els edificis destinats principalment a habitatges presenten una mitjana global de 0,9 plantes sota
+      rasant al conjunt del país. Les parròquies de La Massana i Encamp són les que registren una
+      mitjana més alta, amb 1,2 i 1,0 planta sota rasant de mitjana. En canvi, a Ordino es registra una
+      mitjana més baixa amb un 0,7 planta sota rasant. El màxim nombre de plantes sota rasant es
+      troba a la parròquia de La Massana amb 10 plantes.
+
+
+
+
+NP_A061_20251209                                                                                    Pàgina 11 de 23
+                            A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+           2.5. Nombre d’edificis destinats principalment a habitatges segons el nombre de places
+                d’aparcament
+
+
+      L’any 2024, les dades específiques sobre els aparcaments en els edificis destinats a habitatges
+      només estan disponibles per a les parròquies de Canillo, Encamp, Ordino i La Massana.
+      Edificis segons
+      places d'aparcament                           2021        2022           2023      2024        Variació absoluta      Variació 2024/2023
+      Indeterminades                                 462         438            439       412                      -27                   -6,2%
+      2 places                                        40         111            112       113                        1                    0,9%
+      de 3 a 5 places                                 32          51             53        56                        3                    5,7%
+      de 6 a 10 places                                48         118            121       121                        0                    0,0%
+      d'11 a 20 places                                95         185            185       214                       29                  15,7%
+      de 21 a 50 places                               52         146            146       169                       23                  15,8%
+      51 places o més                                  4          25             25        32                        7                  28,0%
+      Total                                          733       1.074          1.081     1.117                       36                    3,3%
+
+
+
+      En comparació amb l’any anterior, s’observa un lleuger augment del 3,3% en el nombre total
+      d’edificis destinats principalment a habitatges segons les seves places d’aparcament. Els
+      increments més destacats es troben en els edificis amb més de 10 places, especialment els de 21
+      a 50 places (+15,8%) i els de 51 places o més (+28,0%). També augmenten els edificis amb 3 a 5
+      places, que passen de 53 a 56.
+
+      En canvi, els edificis amb places d’aparcament indeterminades es redueixen un 6,2%, i els amb 2
+      places o de 6 a 10 places es mantenen pràcticament estables.
+
+
+
+           2.6. Nombre d’edificis destinats principalment a habitatges segons el nombre de places
+               d’aparcament per parròquia
+
+
+      La distribució dels edificis destinats principalment a habitatges segons el nombre de places
+      d’aparcament per parròquia es representa de la manera següent:
+      Edificis amb
+      aparcament                 Canillo    %col     Encamp            %col    Ordino    %col    La Massana      %col    País     %col
+      Indeterminades                124     44,3%        115       35,3%           67    35,6%          106     32,8%     412     36,9%
+      2 places                       11      3,9%         46       14,1%           17     9,0%           39     12,1%     113     10,1%
+      de 3 a 5 places                15      5,4%         16           4,9%        11     5,9%           14       4,3%     56      5,0%
+      de 6 a 10 places               23      8,2%         28           8,6%        25    13,3%           45     13,9%     121     10,8%
+      d'11 a 20 places               44     15,7%         69       21,2%           39    20,7%           62     19,2%     214     19,2%
+      de 21 a 50 places              50     17,9%         39       12,0%           28    14,9%           52     16,1%     169     15,1%
+      51 places o més                13      4,6%         13           4,0%         1     0,5%            5       1,6%     32      2,9%
+      Total                         280    100,0%        326      100,0%          188   100,0%          323    100,0%    1117   100,0%
+
+
+
+
+NP_A061_20251209                                                                                                         Pàgina 12 de 23
+                       A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+      En aquest gràfic, la línia de color negre correspon a la distribució del total d’edificis destinats
+      principalment a habitatges segons el número de places d’aparcament al país, mentre que les
+      altres línies fan referència a la distribució en cadascuna de les parròquies. Al gràfic s’aprecia les
+      diferències que hi ha entre parròquies pel que fa a les places de pàrquing als edificis destinats
+      principalment a habitatges.
+
+      Com es pot observar, existeix una notable semblança entre les quatre parròquies. A Encamp es
+      destaca la presència d'un major nombre d'edificis que disposen entre 11 i 20 places d'aparcament,
+      un 21,2% del seu total, a La Massana també en destaquen amb aquesta categoria amb 62 edificis.
+      Canillo, per la seva part, destaques els edificis entre 21 i 50 places d'aparcament (50 edificis).
+
+
+
+
+NP_A061_20251209                                                                                  Pàgina 13 de 23
+                             A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+      3. Nombre total d’unitats domiciliàries al país
+
+      3.1. Nombre total d’unitats domiciliàries per tipus
+
+
+      El nombre unitats domiciliàries d’Andorra ha experimentat un augment en l’últim any, que ha
+      passat de 84.424 a 90.947 unitats amb un creixement total del 7,7%.
+
+      Tipus d'unitat                    2021           2022             2023             2024             Variació absoluta             Variació 2024/2023
+      Habitatge                       41.038         43.132           43.641           44.047                           406                           0,9%
+      Aparcament                      11.271         16.621           16.652           20.220                         3.568                         21,4%
+      Traster                          6.613          9.933            9.962           12.109                         2.147                         21,6%
+      Local                            4.535          4.440            4.489            4.533                            44                           1,0%
+      Apartament turístic              3.328          3.144            3.149            3.174                            25                           0,8%
+      Altres                           2.280          2.852            3.021            3.089                            68                           2,3%
+      Sense informació                 5.772          1.509            1.558            1.621                            63                           4,0%
+      Magatzem                         1.774          1.408            1.411            1.456                            45                           3,2%
+      En Obres                         1.007            546              541              698                           157                         29,0%
+      Total d'unitats                 77.618         83.585           84.424           90.947                         6.523                           7,7%
+      Nota:
+
+      -    Sense informació són portes on no hi ha dades de les fonts d’origen ni en el treball de camp s’ha pogut identificar el seu tipus d’unitat.
+
+      -    En els casos on els edificis es categoritzen com a apartaments turístics, s’assignen totes les portes d’habitatges com a apartament
+           turístic.
+
+
+
+
+      En el 2024, els habitatges han augmentat un 0,9%. Cal destacar els trasters i aparcaments són els
+      que més han crescut amb un 21,6% i 21,4% degut a l’obtenció de les dades administratives. La
+      comparació entre el 2023 i el 2024 indica un augment en la identificació de diferents tipus d’unitats
+      domiciliàries. Els habitatges han passat de 43.641 a 44.047 unitats, el tipus altres de 3.021 a 3.089
+      i els locals de 4.489 a 4.533 unitats.
+
+      D'altra banda, les unitats en obres han augmentat significativament, 157 respecte a l’any anterior.
+
+
+
+
+NP_A061_20251209                                                                                                                          Pàgina 14 de 23
+                            A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+      3.2. Nombre total d’unitats domiciliàries per tipus i parròquia
+
+
+      La distribució del nombre d’unitats domiciliàries per tipus i parròquia es representa de la manera
+      següent:
+
+      Tipus d'unitat per                                                                       La            Andorra la          Sant Julià             Escaldes-
+                               Canillo     %col    Encamp     %col    Ordino      %col               %col                 %col                 %col                  %col        País     %col
+      parròquia                                                                           Massana                Vella            de Lòria             Engordany
+      Habitatge                   5.225    32,2%       6.648 34,7%       2.699    41,8%       5.924 40,2%       11.348 69,7%          4.213    75,9%        7.990    64,0%     44.047     48,4%
+      Apartament turístic         1.031     6,3%       1.706   8,9%        110     1,7%         198   1,3%          129   0,8%            0     0,0%            0     0,0%       3.174     3,5%
+      Local                         194     1,2%         660   3,4%        130     2,0%         334   2,3%        2.060 12,7%           412     7,4%          743     6,0%       4.533     5,0%
+      Magatzem                      417     2,6%         253   1,3%         72     1,1%         187   1,3%          320   2,0%          106     1,9%          101     0,8%       1.456     1,6%
+      Aparcament                  5.175    31,9%       5.506 28,7%       2.019    31,3%       4.384 29,7%           793   4,9%          314     5,7%        2.029    16,2%     20.220     22,2%
+      Trasters                    3.597    22,1%       3.290 17,2%       1.127    17,5%       3.052 20,7%            99   0,6%           61     1,1%          883     7,1%     12.109     13,3%
+      En Obres                      196     1,2%          66   0,3%         66     1,0%         124   0,8%           89   0,6%           48     0,9%          109     0,9%         698     0,8%
+      Sense informació              145     0,9%         456   2,4%         88     1,4%         264   1,8%          167   1,0%          144     2,6%          357     2,9%       1.621     1,8%
+      Altres                        270     1,7%         598   3,1%        146     2,3%         273   1,9%        1.271   7,8%          252     4,5%          279     2,2%       3.089     3,4%
+      Total                   16.250      100,0%   19.183    100,0%   6.457      100,0%   14.740    100,0%    16.276    100,0%     5.550      100,0%    12.491      100,0%   90.947      100,0%
+
+
+
+      Els gràfics següents mostren la distribució del percentatge d’unitats domiciliàries per tipus per
+      cadascuna de les parròquies així com el total a escala de país. Amb l’objectiu d’apreciar les
+      diferències que hi ha entre parròquies pel que fa al nombre d’unitats domiciliàries i el seu tipus.
+      Segons el tipus d’unitats en percentatge per parròquia destaquen que el seu ús principal a Sant
+      Julià de Lòria (75,9%), Andorra la Vella (69,7%) i Escaldes-Engordany (64,0%) és l’habitatge. A
+      Andorra la Vella destaquen els locals (12,7%) i a La Massana es visualitza un gran percentatge
+      d’aparcaments (29,7%) i trasters (20,7%).
+
+
+
+
+NP_A061_20251209                                                                                                                                                    Pàgina 15 de 23
+                   A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+NP_A061_20251209                                                                      Pàgina 16 de 23
+                   A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+NP_A061_20251209                                                                      Pàgina 17 de 23
+                   A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+NP_A061_20251209                                                                      Pàgina 18 de 23
+                             A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+      3.3. Nombre total d’habitatges i apartaments turístics per parròquia
+
+
+      Globalment, el nombre d’unitats utilitzades per habitatges i apartaments turístics, ha augmentat un
+      0,9% respecte a l’any 2023, el que representa 431 unitats més. Les parròquies on hi ha més
+      habitatges són Andorra la Vella amb un 24,3% (11.477 habitatges i apartaments turístics) i
+      Encamp 17,7% (8.354 habitatges i apartaments turístics), seguidament d’Escaldes-Engordany un
+      16,9% (7.990 habitatges i apartaments turístics). Canillo i la Massana estan al voltant dels 6.000
+      habitatges i apartaments turístics amb un 13,2% i 13,0% respectivament. Sant Julià de Lòria
+      representa el 9% amb 4.213 habitatges i apartaments turístics i molt per sota es troba Ordino amb
+      només 2.809 habitatges.
+      Parròquia                     2021     2022       2023       2024      Variació absoluta   Variació 2024/2023
+      Canillo                      5.911    6.212      6.221      6.256                     35                 0,6%
+      Encamp                       7.609    8.153      8.298      8.354                     56                 0,7%
+      Ordino                       2.724    2.783      2.777      2.809                     32                 1,2%
+      La Massana                   5.707    6.002      6.099      6.122                     23                 0,4%
+      Andorra la Vella            10.738   11.231     11.260     11.477                   217                  1,9%
+      Sant Julià de Lòria          4.005    4.148      4.207      4.213                      6                 0,1%
+      Escaldes - Engordany         7.672    7.747      7.928      7.990                     62                 0,8%
+      Total d'unitats             44.366   46.276     46.790     47.221                   431                  0,9%
+
+
+
+
+      Totes les parròquies han experimentat un creixement pel que fa al nombre d’habitatges (incloent-hi
+      apartaments turístics). Els habitatges i apartaments turístics a Andorra la Vella ha crescut 217
+      unitats (1,9%). Sant Julià de Lòria és la parròquia que ha crescut menys, 6 unitats (0,1%).
+
+
+
+
+NP_A061_20251209                                                                                       Pàgina 19 de 23
+                         A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+               Nota: Només es tenen en compte el tipus d’unitat que sigui del tipus d’habitatge (incloent-hi apartaments turístics)
+
+
+
+
+NP_A061_20251209                                                                                                                      Pàgina 20 de 23
+                       A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+      4. Nota metodològica
+
+
+         •   Font. Dades inicials detallades no harmonitzades obtingudes dels diferents comuns i
+             cadastres d’algunes parròquies com són: Canillo, Encamp, Ordino, La Massana. I, també
+             dels organismes parapúblics i d’empreses d’energia i telecomunicacions com són: FEDA i
+             Andorra Telecom; i altres administracions i departaments de Govern com són: Àrea
+             d’Urbanisme i Àrea de Cartografia del (Departament de Territori), i del Departament de
+             Medi Ambient i Sostenibilitat.
+             A partir de les quals es fa un treball de tractament amb diferents eines i softwares per
+             aconseguir una dada harmonitzada i amb la finalitat d’obtenir estadístiques i dades
+             agregades amb valor afegit.
+         •   Definicions.
+                   -   “RET” El Registre Estadístic de Territori és un registre que integra diferents fonts
+                       de dades administratives i que té com a objectiu proporcionar la informació única i
+                       fiable de totes les edificacions del territori i de les seves unitats domiciliàries.
+                   -   “Codi d’identificació únic”: Per tal de poder identificar una unitat immobiliària amb
+                       un sol camp i de forma ràpida i estàndard, s’ha cregut necessari disposar d’un
+                       identificador únic i comú per a tots. Alhora, fàcilment interpretable.
+                   -   “Edificació”: Nom genèric amb què es designa qualsevol construcció de grans
+                       dimensions fabricada amb pedra o materials resistents i que està destinada a
+                       servir espai per al desenvolupament d’una activitat humana.
+                   -   “Habitatge”: Recinte estructuralment separat i independent que, per la forma en
+                       què va ser construït, reconstruït, transformat o adaptat, està concebut per ser
+                       habitat per persones o, encara que no fos així, constitueix la residència habitual
+                       d'algú en el moment censal. Com a excepció, no es consideren habitatges els
+                       recintes que, malgrat estar concebuts inicialment per a habitació humana, en el
+                       moment censal estan dedicats totalment a altres finalitats (per exemple, els que es
+                       facin servir exclusivament com a locals).
+                   -   “Edificis destinats principalment a habitatge”: Edifici on la majoria de les seves
+                       unitats domiciliàries són destinades a habitatge en un 60%.
+                   -   “Local”: Recinte estructuralment separat i independent (en el mateix sentit que en
+                       la definició d'habitatge) que no està exclusivament dedicat a habitatge familiar i en
+                       el qual es porten o es poden dur a terme activitats econòmiques dependents d'una
+                       empresa o institució. El recinte ha d'estar situat en un edifici i ocupar-lo totalment
+                       o parcialment.
+                   -   “Edifici”: Construcció permanent, separada i independent, concebuda perquè
+                       s'utilitzi com a habitatge o perquè serveixi per a finalitats agràries, industrials per a
+                       la prestació de serveis o, en general, per desenvolupar qualsevol activitat
+                       (administrativa, comercial, industrial, cultural...).
+                   -   “Xalet”: Edifici destinat a habitatge d’una família, generalment situat fora de la
+                       ciutat, amb més d’una planta i rodejat de jardí.
+                   -   “Casa”: Edifici o part d’un edifici on viuen una o més persones. Construcció
+                       coberta destinada a ser habitada.
+                   -   “Borda”: Construcció on es guarda el bestiar els dies que fa mal temps i es situen
+                       a la muntanya lluny del poble, normalment de dos pisos. Si la borda es situa al
+                       poble s’anomena Era.
+                   -   “Aparcament”: Zona senyalitzada a la via pública o en un edifici o local destinada a
+                       aparcar vehicles, generalment pagant una quantitat de diners.
+                   -   “Nau”: Edifici gran, d'una sola planta, amb el sostre alt i sense divisions, que
+                       s'utilitza com a fàbrica, com a granja o com a magatzem.
+                   -   “Planta”: Divisió horitzontal segons la qual s'indica el nivell d'alçària dins de
+                       l'edifici. Pot ser sota rasant (soterranis) o sobre rasant.
+
+NP_A061_20251209                                                                                       Pàgina 21 de 23
+                       A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+                   -   “Porta”: Obertura practicada en un immoble per accedir-hi, dins de cada planta.
+                   -   “Complex edificatiu”: Conjunt d'edificis ubicats en una àrea limitada i que s'utilitzen
+                       per a la realització de les diverses fases, operacions o necessitats de l'activitat
+                       econòmica d'un organisme, entitat o empresa, o bé per a habitatge col·lectiu. Així
+                       doncs, es pot tenir un conjunt edificatiu de xalets, cases i/o edificis en una mateixa
+                       àrea i amb un mateix nom de complex.
+                   -   “Planta sobre rasant”: Planta que té el paviment inferior per sobre de l'alçària que
+                       determina la vorera o el terreny.
+                   -   “Planta sota rasant”: Planta que es troba per sota de l'alçària que determina la
+                       vorera o el terreny.
+                   -   Categories “Altres”: Per a cada divisió i sèrie detallem el que incorpora             a
+                       continuació la categoria “Altres”:
+                   -   “Edificacions per tipus Altres”: inclou: Ambaixada, Apartament, Assecador,
+                       Barraca, Bar, Botigues, Galeries, Bungalow, Cabana, Centre Comercial, Centre
+                       educatiu, Centre Esportiu, Càmping, Clínica, Cementiri, Cobert, Carpa, Centre
+                       social i recreatiu, Caseta, Cortal, Capella, Discoteca, Estació d'autobusos,
+                       Estable, Estació de Servei, Era, Església, Estació transformadora, Fàbrica, Font,
+                       Galliner, Gossera, Garatge, Hivernacle, Hospital, Hort, Hostal, Captació, Llenyer,
+                       Magatzem, Molí, Masia, Museu, Nau, Orri, Piscina, Paller, Parc, Parcel·la, Refugi,
+                       Residència, Restaurant, Sala, Santuari, Torre, Terres i Instal·lacions d'esquí.
+                   -   “Tipus de complex edificatiu”: Altres inclou: Celler, Estació d'esquí, Naus i Zona
+                       Industrial.
+                   -   “Tipus Unitat domiciliària”: Altres inclou: Comptadors, Despatx, Galliner,
+                       Instal·lacions elèctriques, Maquinari d'ascensor, Pati, Porteria, Restaurant, Sala,
+                       Terrat i Taller.
+
+         •   Metodologies i referències metodològiques. Per la creació final d’un codi únic de les
+             unitats domiciliàries del territori andorrà s’han hagut de seguir les fases següents:
+             Fase 1. Origen i landing: Durant aquesta primera etapa es contacta amb les diferents
+             fonts d’origen administratives i es carreguen les dades a les bases de dades. Es validen
+             que s’han rebut totes les dades demanades correctament amb una primera inspecció
+             ràpida.
+             Fase 2. Data quality dades origen i creació codi únic fins edifici: Es tracten les dades
+             d’origen per parròquia fent una transformació i neteja inicial amb l’objectiu de crear un
+             codi únic amb un format homogeni per cada font.
+             Fase 3. Data quality i creació de codi únic de porta: Un cop tractades les dades fins a
+             edifici entrem a tractar les dades dels interiors de les edificacions fins a arribar a la unitat
+             domiciliària. El procés és similar al de la fase 2 on a cada porta se li afegeix el codi ja
+             tractat i es netegen i complementen les dades de porta ja harmonitzades.
+             Fase 4. Treball de camp: A aquesta etapa el personal del Departament d’Estadística
+             valida i actualitza les dades tractades a la resta de fases, és a dir, verifica “in-situ” la
+             informació recollida a través dels registres administratius i li dona valor afegit. En aquesta
+             fase, es va prioritzar inventariar totes les edificacions, i en l'àmbit d'unitat domiciliària,
+             obtenir el registre d’habitatges amb l’objectiu de proporcionar dades per la situació actual
+             del país pel que fa al mercat immobiliari.
+
+         •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+             desplegament en el Programa estadístic per l’any 2025, aquest informe dona resposta a
+             l’activitat estadística: A061. Estadística d'edificis i d'unitats domiciliàries.
+
+         •   Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques/Dades/
+             Habitatges i edificis/ Cens de béns immobles (RET). Per estar informat en qualsevol
+             moment de les noves publicacions us podeu inscriure a la nostra “Alerta informativa” a la
+             nostra web. També hi podeu trobar l’històric de les notes de premsa d’aquest tema:
+             http://www.estadistica.ad
+
+NP_A061_20251209                                                                                     Pàgina 22 de 23
+                     A061. Estadística d'edificis i d'unitats domiciliàries. Any 2024
+
+
+
+
+             Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+             Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+
+      5. Dates de les properes publicacions previstes
+
+             Nota de premsa A061. Estadística d'edificis i unitats domiciliàries. Any 2025: 10 de
+             desembre del 2026.
+
+
+
+
+NP_A061_20251209                                                                                Pàgina 23 de 23
+

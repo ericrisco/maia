@@ -1,0 +1,419 @@
+              A062. Estadística sobre les característiques dels habitatges. Any 2024
+                                     Data de publicació: dimarts, 03/02/2026
+                                              www.estadistica.ad
+
+
+      Resum
+
+
+      El nombre total d’habitatges de les llars residents a Andorra ha mantingut un creixement continuat
+      en els darrers cinc anys. En el període del 2020-2024, l’increment total ha estat de 5.816: 1.695 són
+      habitatges de propietat i 4.121 habitatges de règim de lloguer. Durant l’any 2024 l’increment total ha
+      estat de 1.105 habitatges.
+
+      A partir de la informació vinculada a l'Enquesta de Pressupostos Familiars, s’observa que el
+      percentatge de pisos d’entre el total d’habitatges a Andorra presenta una tendència a l’alça, fins a
+      arribar al 92,2%. Aquest valor suposa un augment d’1,5 punts percentuals en relació amb l’any 2020.
+
+      Pel que fa a la distribució d’habitatges de les llars residents segons la seva superfície, els habitatges
+      de 75 a menys de 100 m2 són els més nombrosos seguits dels de 50 a menys de 75 m2 i dels de
+      100 a menys de 125 m2 (12.648, 9.308 i 8.633 respectivament). Aquests tres trams representen un
+      31,8%, un 23,4% i un 21,7% del total d’habitatges de les llars residents.
+
+      El preu mitjà per metre quadrat de les llars amb menys d’un any d’antiguitat pot reflectir el cost
+      d’accés a l’habitatge. En aquest tram, la variació entre els anys 2023 i 2024 és del +11,4%, i el preu
+      se situa a 13,0 €/m2 l’any 2024. D’altra banda, el preu mitjà per metre quadrat, independentment
+      dels anys de residència, ha passat de 8,6 € el 2023 a 9,5 € el 2024, amb un increment del 10,6%.
+
+
+
+
+NP-A062_20260203
+                                                                                                       Pàgina 1 de 13
+                        A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+      Índex
+
+
+      1.     Característiques dels habitatges de les llars residents ............................................................................. 3
+
+           1.1.     Distribució per tipus d’habitatge de les llars residents ...................................................................... 3
+
+           1.2.     Mitjana de peces dels habitatges de les llars residents .................................................................... 3
+
+           1.3.     Distribució d’habitatges de les llars residents per règim de tinença ................................................. 4
+
+           1.4.     Distribució d’habitatges de les llars residents de lloguer segons anys de residència ....................... 5
+
+           1.5.     Distribució d’habitatges de les llars residents per superfície ............................................................ 6
+
+           1.6.     Distribució d’habitatges de les llars residents per superfície i parròquia .......................................... 7
+
+           1.7.     Distribució d’habitatges de les llars residents per superfície i tinença ............................................ 10
+
+           1.8.     Preu mitjà dels habitatges de les llars residents per superfície segons anys de residència ........... 11
+
+      2.     Nota metodològica .................................................................................................................................. 12
+
+      3.     Dates de les properes publicacions previstes ......................................................................................... 13
+
+
+
+
+NP-A062_20260203                                                                                                                                         Pàgina 2 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+          1. Característiques dels habitatges de les llars residents
+
+
+          1.1. Distribució per tipus d’habitatge de les llars residents
+
+
+      El nombre total d’habitatges de les llars residents a Andorra ha experimentat un augment
+      considerable en aquest darrer any: ha passat de 38.166 a 39.271 habitatges amb un creixement
+      total d’un 2,9%.
+
+      Nombre d'habitatges de les llars residents. Any 2024
+      Tipus habitatge                     2020             2021          2022            2023            2024
+      Pisos                             30.345         31.995         32.663            35.167          36.200
+      Altres                             3.109          2.744            2.921           3.000           3.071
+      Total                             33.455         34.739         35.584            38.166          39.271
+
+
+
+      El percentatge de pisos sobre el total d’habitatges de les llars residents a Andorra, se situa al 92,2%
+      l’any 2024. Aquest increment s’explica, principalment, per la disminució del percentatge de cases,
+      incloses en l’apartat “Altres”, que han passat del 9,3% l’any 2020 al 7,8% l’any 2024.
+
+
+
+
+          1.2. Mitjana de peces dels habitatges de les llars residents
+
+      Pel que fa a la mitjana de peces dels habitatges de les llars residents a Andorra, el nombre mitjà de
+      peces continua baixant des del 2021. Es considera “nombre de peces” el recompte total de
+      dependències de més de 4 m2, sense incloure-hi cambres de bany, passadissos, vestíbuls ni cuines.
+
+               Mitjana de peces dels habitatges de les llars residents. Any 2024
+               Any                    2020          2021          2022           2023            2024
+               Peces                  3,70          3,70          3,68           3,63            3,56
+
+
+
+
+NP-A062_20260203                                                                                        Pàgina 3 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+
+          1.3. Distribució d’habitatges de les llars residents per règim de tinença
+
+
+      L’evolució del nombre total d’habitatges de les llars residents a Andorra segueix la tendència creixent
+      dels últims anys. En aquest període del 2020-2024, l’increment total d’habitatges ha estat de 5.816,
+      dels quals 1.695 són habitatges de propietat (5,8% respecte a l’any anterior), mentre que els 4.121
+      restants són habitatges en règim de lloguer.
+
+      D’altra banda, el nombre de llars residents de lloguer ha crescut un 1,3%, passant de 24.982 llars el
+      2023 fins a les 25.317 llars el 2024.
+
+
+
+
+NP-A062_20260203                                                                                     Pàgina 4 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+      El règim de tinença de l'habitatge principal a Andorra és majoritàriament el lloguer, amb el 64,5%
+      del total d’habitatges per l’any 2024, representant un decrement d’1,0 punt percentual respecte a
+      l’any anterior.
+
+
+
+
+            1.4. Distribució d’habitatges de les llars residents de lloguer segons anys de residència
+
+      L’any 2024, el nombre de llars en règim de lloguer que resideixen des de fa menys d’un any ha
+      passat de 665 a 1.665 llars (+150,2%). Les llars que porten 20 anys o més han disminuït aquest
+      últim any en un -14,6% on hi havia 4.083 llars en l’any anterior ara es troba a 3.487 llars.
+      Nota: Les dades s’obtenen a partir de l’Enquesta de Pressupostos Familiars i reflecteixen una estimació
+      mostral, susceptible de variacions anuals
+
+
+      Nombre d’habitatges de les llars residents de lloguer segons anys de residència. Any 2024
+      Any                                          2020           2021           2022              2023         2024
+      Menys d'1 any                                 519           1.254           626               665        1.665
+      D'1 a menys de 2 anys                        1.431          1.247          1.633             1.162       1.488
+      De 2 a menys de 5 anys                       5.921          5.604          5.597             6.576       6.680
+      De 5 a menys de 10 anys                      6.300          6.808          6.656             7.248       6.319
+      De 10 a menys de 20 anys                     3.536          4.393          4.425             5.247       5.679
+      20 anys o més                                3.489          2.929          3.672             4.083       3.487
+      Total                                      21.196         22.235          22.609            24.982      25.317
+
+
+
+
+NP-A062_20260203                                                                                           Pàgina 5 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+      Segons la distribució dels habitatges de les llars residents en règim de lloguer pels anys de
+      residència a l’habitatge, el gruix de les llars es concentra entre els 2 a menys de 10 anys, amb un
+      51,3% del total per l’any 2024.
+
+
+
+
+          1.5. Distribució d’habitatges de les llars residents per superfície
+
+
+      Quant a la distribució d’habitatges de les llars residents segons la seva superfície, els habitatges de
+      75 a menys de 100 m2 són els més nombrosos (12.648), seguits dels de 50 a menys de 75 m2
+      (9.308) i dels de 100 a menys de 125 m2 (8.633). Aquests tres trams representen, respectivament,
+      el 32,2%, el 23,7% i el 22,0% del total d’habitatges de les llars residents.
+
+      Nombre d'habitatges de les llars residents per superfície. Any 2024
+      Any                                                  2020         2021       2022         2023         2024
+      Menys de 50 m²                                      1.462        1.309      1.729        2.324        2.725
+      De 50 a menys de 75 m²                              7.478        7.622      8.261        9.109        9.308
+      De 75 a menys de 100 m²                            10.476       12.301     11.079      12.120        12.648
+      De 100 a menys de 125 m²                            7.876        7.731      8.179        8.576        8.633
+      125 m² o més                                        6.162        5.777      6.336        6.037        5.956
+      Total                                              33.455       34.739     35.584      38.166        39.271
+
+
+
+
+NP-A062_20260203                                                                                       Pàgina 6 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+          1.6. Distribució d’habitatges de les llars residents per superfície i parròquia
+
+
+      Els mapes estadístics següents mostren la distribució dels habitatges de les llars residents a Andorra
+      per parròquia per l’any 2024 segons la seva superfície dividida en cinc trams. En cada parròquia, el
+      mapa indica el percentatge d’habitatges que pertany a cada tram de superfície (és a dir, la distribució
+      dins de la parròquia). Això permet comparar les parròquies, veure quins trams hi tenen més pes i
+      visualitzar la distribució global en el conjunt del país.
+
+      La distribució dels habitatges de menys de 50 m 2 és similar en totes les parròquies, tot i que hi ha
+      més a Canillo (17,4%) i Encamp (12,6%). Quant als habitatges de 50 a menys de 75 m2 destaquen,
+      per una banda, les parròquies de Canillo molt per sobre del total amb un 32,6% i, per sota del total,
+      Ordino amb un 17,8% i Escaldes-Engordany amb un 21,6% sobre el total d’habitatges de la
+      parròquia. Pel que fa als habitatges de 75 a menys de 100 m2, Escaldes-Engordany se situa en un
+      37,6% i, per contra, La Massana trobem per sota del total amb un 21,6%.
+
+      Respecte als habitatges de 100 a menys de 125 m2, Ordino i Sant Julià de Lòria presenten una
+      proporció més elevada (26,2% i 24,7%, respectivament) en comparació amb la resta de parròquies.
+      Finalment, en els habitatges de 125 m2 o més destaquen, per una banda, La Massana amb un
+      28,1%, i per l’altra Encamp amb un 9,4%, mentre que el total a Andorra se situa en un 15,2%.
+
+
+
+
+NP-A062_20260203                                                                                     Pàgina 7 de13
+                                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+               Les parròquies que l’any 2024 compten amb un nombre més elevat d’habitatges de llars residents
+               són: Andorra la Vella amb 11.015 (un 28,0% del total); seguida d’Escaldes-Engordany amb 7.219
+               habitatges (un 18,4% del total); i Ordino amb darrer terme amb 2.189 habitatges que representen
+               un 5,6% del total.
+Nombre d’habitatges de les llars residents per superfície i parròquia. Any 2024
+                                                                                                                   Andorra la            Sant Julià             Escaldes-
+                               Canillo     %col    Encamp        %col     Ordino         %colLa Massana     %col                  %col                  %col                  %col    País     %col
+Parròquia                                                                                                              Vella              de Lòria             Engordany
+Menys de 50 m²                     536    17,4%         721    12,6%              67    3,1%        407    7,7%          593     5,4%            90    1,9%           311    4,3%    2726     6,9%
+De 50 a menys de 75 m²           1003     32,6%        1239    21,6%          389      17,8%       1333   25,2%         2755    25,0%         1033    21,8%         1562    21,6%    9315    23,7%
+De 75 a menys de 100 m²            773    25,1%        1832    32,0%          788      36,0%       1143   21,6%         3818    34,7%         1573    33,2%         2711    37,6%    12639   32,2%
+De 100 a menys de 125 m²           399    13,0%        1399    24,4%          574      26,2%        923   17,4%         2717    24,7%         1226    25,9%         1383    19,2%    8620    22,0%
+125 m² o més                       369    12,0%         539      9,4%         372      17,0%       1491   28,1%         1132    10,3%          817    17,2%         1252    17,3%    5971    15,2%
+Total                            3080    100,0%        5730   100,0%         2189      100,0%      5297   100,0%       11015    100,0%        4740    100,0%        7219    100,0%   39271   100,0%
+
+
+
+
+               Pel que fa a la superfície dels habitatges, cal destacar que a la parròquia de Canillo on els habitatges
+               d’entre 50 i 74 m² són els més nombrosos. En canvi, a Encamp, Ordino, Andorra la Vella, Sant Julià
+               de Lòria i Escaldes-Engordany ho són els de 75 a 100 m². Finalment, a La Massana, ho són els de
+               125 m² o més.
+
+
+
+
+NP-A062_20260203                                                                                                                                                                        Pàgina 8 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+
+NP-A062_20260203                                                                            Pàgina 9 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+          1.7. Distribució d’habitatges de les llars residents per superfície i tinença
+
+      El nombre d’habitatges de les llars residents en règim de lloguer té una distribució segons la
+      grandària de l’habitatge. Aquesta distribució té com categories més representatives d’entre 50 i
+      menys de 125 m², que representen el 85,4% del total dels habitatges de lloguer.
+
+
+
+
+      Pel que fa al nombre d’habitatges de les llars residents en règim de propietat, els més representatius
+      són els que estan entre 75 i més de 125 m², amb un 86,0% del total dels habitatges de propietat.
+
+
+
+
+NP-A062_20260203                                                                                    Pàgina 10 de13
+                      A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+            1.8. Preu mitjà dels habitatges de les llars residents per superfície segons anys de
+                 residència
+
+
+      El preu mitjà1 per metre quadrat de les llars que fa menys d'un any que estan a l’habitatge pot
+      expressar el preu d’accés a l’habitatge. La variació oscil·la un +11,4% entre els anys 2023 i 2024
+      per aquest tram.
+
+      El preu mitjà per metre quadrat general de cada any independentment del nombre d’anys de
+      residència al mateix habitatge és de 9,5 €, reflex de la despesa en serveis de lloguer de l’habitatge
+      per aquelles llars que ja l’ocupen.
+
+      Preu mitjà dels habitatges de les llars residents de lloguer per metre quadrat segons anys de residència. Any 2024
+      Any                                                2020              2021               2022             2023           2024
+      Menys d'1 any                                        9,9              8,5                 8,2            11,7            13,0
+      D’1 a menys de 2 anys                                8,5              9,0                 9,9            10,9            13,3
+      De 2 a menys de 5 anys                               7,4              7,9                 8,9            10,3            10,4
+      De 5 a menys de 10 anys                              6,6              6,9                 7,4             7,9             8,9
+      De 10 a menys de 20 anys                             6,5              6,9                 7,0             7,9             8,4
+      20 anys o més                                        5,3              6,0                 6,2             6,7             7,3
+      Total                                                6,8              7,2                 7,7             8,6             9,5
+
+
+
+
+      A la següent gràfica es representen els resultats d’aquesta taula. Neutralitzant la grandària de
+      l’habitatge, com més recent és l’accés a l’habitatge més alt és el preu mitjà per metre quadrat.
+
+
+
+
+      1 En el càlcul del preu mitjà per metre quadrat de l'habitatge de lloguer de l'EPF (Enquesta de Pressupostos Familiars), es
+      tenen en compte els imports pagats en concepte de lloguer, excloent les quantitats abonades per altres conceptes (com per
+      exemple, aigua freda, aigua calenta, calefacció, garatge i traster...).
+
+NP-A062_20260203                                                                                                       Pàgina 11 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+      Nota metodològica
+
+         •    Font. Dades recollides de l’Enquesta de Pressupostos Familiars (EPF) tractades pel
+              Departament d’Estadística del Govern.
+              Observacions sobre el format: Les xifres que es mostren a aquesta Nota de Premsa es
+              troben aproximades a un decimal o a la unitat.
+
+         •    Definicions
+                   -    “Habitatge”: Recinte estructuralment separat i independent d’altres recintes que
+                        constitueix la residència principal d’una llar.
+                        Hi ha dos tipus d’habitatges: habitatges familiars i habitatges col·lectius (o
+                        establiments
+              col·lectius):
+                            o Habitatge familiar: habitatge destinat a ser habitat per una o diverses llars
+                                que no constitueixen una llar col·lectiva.
+                            o Habitatge familiar principal: es considera habitatge familiar principal tot
+                                habitatge familiar que serveix com a residència habitual (vegeu la definició
+                                de residència habitual).
+                            o Habitatge secundari: es considera habitatge secundari tot habitatge familiar
+                                no principal disponible per a la llar amb la finalitat de ser utilitzat de forma
+                                puntual (caps de setmana, vacances).
+                            o Habitatge col·lectiu: habitatge destinat a un col·lectiu de persones
+                                sotmeses a un règim comú i no relacionades necessàriament entre elles
+                                per llaços familiars ni de convivència. S’inclouen en aquesta definició els
+                                habitatges col·lectius següents: convents, casernes, asils, residències
+                                d’estudiants o de treballadors, hospitals, presons, i els hotels, pensions, etc.
+                                Si dins de l’habitatge col·lectiu hi ha habitatges familiars destinats al
+                                personal treballador de l’establiment, aquests es consideren habitatges
+                                familiars.
+                   -           “Residència habitual”: Es considera que una persona resideix habitualment
+                               en un habitatge si passa la major part del seu temps de descans diari en
+                               aquest habitatge, tenint en compte el període dels sis últims mesos.
+                   -   “Peces de l’habitatge”: Es consideren aquelles dependències de més de 4 m2 sense
+                       incloure cambres de bany, ni passadissos, ni vestíbuls, ni cuines.
+                   -   “Llar”: nucli format per una persona que viu sola o un grup de persones amb
+                       parentesc o sense, o la combinació d’ambdós, que viuen en un mateix habitatge
+                       principal privat i que mantenen un pressupost en comú. En un sentit més restrictiu
+                       basat en el concepte d’economia domèstica, que compren els aliments en comú o
+                       altres béns o serveis amb càrrec a un mateix pressupost.
+
+          •   Metodologies i referències metodològiques. Dades obtingudes de l’Enquesta de
+              Pressupostos Familiars on es mostren les dades que tenen a veure amb les característiques
+              dels habitatges de les llars residents.
+              S’ha canviat la metodologia de càlcul dels pesos de les mostres amb la finalitat d’adaptar-
+              la a les pràctiques d’altres agències estadístiques europees pel període 2019-2023. Els
+              pesos es calculen amb el programa CALMAR tenint en compte diverses variables
+              sociodemogràfiques.
+              Veure detall complet a:
+              https://sig.govern.ad/SIGDDE.Public/Files/Documents/Notes_premsa_noticies/A048_2024
+              1219.pdf
+              Pel que fa a la metodologia del càlcul del preu mitjà per metre quadrat de l'habitatge de
+              lloguer de l'EPF (Enquesta de Pressupostos Familiars), es tenen en compte els imports
+              pagats en concepte de lloguer, excloent les quantitats abonades per altres conceptes, com
+              ara altres despeses relacionades amb l’habitatge, com l’aigua freda, l’aigua calenta, la
+              calefacció, el garatge i el traster.
+
+
+
+NP-A062_20260203                                                                                       Pàgina 12 de13
+                   A062. Estadística sobre les característiques dels habitatges. Any 2024
+
+
+
+          •   Citació. Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+              preguem citeu: “Dades del Departament d’Estadística de la Nota de Premsa ref.
+              NP_A062_20260203“.
+
+
+          •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+              desplegament en el Programa estadístic per l’any 2025, aquest informe dona resposta a
+              l’activitat estadística: A062. Estadística sobre les característiques dels habitatges.
+
+
+          •   Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques/Dades/
+              Habitatges i edificis/ Cens de béns immobles (RET). Per estar informat en qualsevol moment
+              de les noves publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web.
+              També hi podeu trobar l’històric de les notes de premsa d’aquest tema:
+              http://www.estadistica.ad
+
+              Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+              Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+
+
+
+          2. Dates de les properes publicacions previstes
+
+          Nota de premsa “A062. Estadística sobre les característiques dels habitatges. Any 2025”:
+          desembre del 2026.
+
+
+
+
+NP-A062_20260203                                                                                    Pàgina 13 de13
+

@@ -123,6 +123,27 @@ dona el retrat complet del parc de lloguer andorrà:
 | **Preu mitjà de tots els contractes** | **13,5 €/m²** (SICAR) |
 | **Contractes anteriors al 2012** | **7.000**, amb preu mitjà de **7,9 €/m²** (Enquesta de pressupostos familiars, 2024) |
 
+### Tres xifres oficials per al mateix any, i no diuen el mateix
+
+El Departament d'Estadística publica la seva pròpia mesura del preu del lloguer
+(activitat **A062**, nota del 03-02-2026, dades del **2024**), i **no coincideix
+amb els 13,5 € del SICAR**:
+
+| Mesura | 2023 | 2024 | Font |
+| --- | --- | --- | --- |
+| **Preu mitjà de tot el parc llogat** | 8,6 €/m² | **9,5 €/m²** | A062 · Enquesta de Pressupostos Familiars |
+| **Preu de les llars amb menys d'un any d'antiguitat** | — | **13,0 €/m²** | A062 |
+| **Preu mitjà de tots els contractes** | — | **13,5 €/m²** | SICAR, via la presentació del Govern |
+
+**Les tres són correctes i mesuren coses diferents.** El **9,5 €** és **el que
+paga qui ja hi viu**; el **13,0 €** és **el que paga qui acaba d'entrar** —el
+cost real d'accés—; i el **13,5 €** surt del **registre de contractes**, no d'una
+enquesta a les llars.
+
+**La distància entre 9,5 i 13,0 és la mateixa crisi, dita d'una altra manera**:
+**entrar al mercat costa un 37% més que quedar-s'hi**. I **el preu d'entrada puja
+més de pressa**: **+11,4%** en un any contra **+10,6%** del conjunt.
+
 **Vuitanta de cada cent contractes de lloguer del país estan congelats per llei.**
 I **els més antics valen gairebé la meitat que la mitjana**: 7,9 € contra 13,5 €.
 **La crisi de l'habitatge andorrana no és només que els preus pugin; és que hi ha

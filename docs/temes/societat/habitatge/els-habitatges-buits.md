@@ -176,11 +176,61 @@ matèria i no són el mateix acte: **la llei remet a una publicació del Govern 
 efectes jurídics**, i aquesta és una estadística. **El corpus ja té el preu; el
 que encara no té és la publicació que el converteix en llindar legal.**
 
+## Quants n'hi ha: dues estadístiques que no es parlen, i la resta
+
+La llei els defineix i no els compta. **Cap estadística andorrana no publica «el
+nombre d'habitatges buits».** El que sí que es publica són **dos recomptes
+diferents**, i restant-los surt un ordre de magnitud.
+
+| | Any 2024 | Font |
+| --- | --- | --- |
+| **Habitatges que existeixen** | **44.047** | **A061. Edificis i unitats domiciliàries**, a partir del **Registre Estadístic de Territori** |
+| **Habitatges ocupats per llars residents** | **39.271** | **A062. Característiques dels habitatges**, a partir de l'**Enquesta de Pressupostos Familiars** |
+| **Diferència** | **4.776** | càlcul del corpus |
+
+**4.776 habitatges, el 10,8% del parc, no allotgen cap llar resident.**
+
+**I això no vol dir que siguin buits en el sentit de la llei.** La diferència
+inclou, com a mínim:
+
+- **els habitatges d'ús turístic**, que són **2.358** amb **11.403 llits**
+  ([el parc hoteler](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md#el-parc-hoteler-davui-i-que-ja-no-creix));
+- **les segones residències de vacances**, que **el títol III protegeix
+  expressament** i que per tant **no són habitatges buits a efectes de la llei**;
+- **els habitatges en obres**, que l'A061 xifra en **698 unitats domiciliàries**
+  (el 0,8% de les 90.947 del país, no només dels habitatges);
+- **els que ocupen persones no residents** a efectes de l'enquesta.
+
+**Descomptant només els d'ús turístic, en queden uns 2.400.** Aquesta és, a hores
+d'ara, **la millor fita superior que el corpus pot donar** del que la llei
+anomena habitatge buit — **i no és una xifra oficial, és una resta entre dues
+operacions estadístiques amb definicions diferents.**
+
+**Les dues no es poden restar sense avís, i aquest és l'avís**: l'A061 compta
+**el que hi ha construït** segons un registre de territori; l'A062 compta **el
+que declaren les llars** en una enquesta. **Una unitat pot existir en la primera
+i no aparèixer en la segona per raons que no tenen res a veure amb estar buida.**
+
+**El que sí que és sòlid és el creixement.** Els habitatges de llars residents
+passen de **33.455 el 2020 a 39.271 el 2024**: **+5.816 en cinc anys**, dels
+quals **1.695 de propietat i 4.121 de lloguer**. **Set de cada deu habitatges nous
+ocupats van al lloguer.** I el **92,2%** del parc són **pisos**, un punt i mig
+més que el 2020, perquè **les cases baixen del 9,3% al 7,8%**.
+
+**El parc construït creix molt més a poc a poc**: **10.468 edificacions el 2021 i
+10.699 el 2024**, **+0,5% l'últim any**. **La Massana (2.111) i Andorra la Vella
+(1.915)** en concentren més; **Canillo (1.187) i Ordino (1.105)**, menys.
+
 ## Buits registrats
 
 - **Si s'ha aplicat mai**, no consta. El corpus té el procediment i cap cas.
 - **Quants habitatges buits hi ha** a Andorra, tampoc. La llei els defineix i no
-  els compta.
+  els compta. — **`parcial` el 17-09-2026**: **cap estadística no en publica el
+  nombre**, però dues n'acoten l'ordre de magnitud — vegeu
+  [Quants n'hi ha](#quants-nhi-ha-dues-estadistiques-que-no-es-parlen-i-la-resta).
+  **4.776 habitatges no allotgen cap llar resident**, i descomptant els d'ús
+  turístic en queden uns **2.400**. `Segueix obert el recompte oficial, que
+  requeriria que el Govern publiqués la identificació que la llei li encarrega.`
 - ~~**El preu estadístic de mercat per parròquia** és la peça que decideix qui
   queda fora, i **el publica el Govern a part**: no és a la llei.~~ — `resolt`
   el 17-09-2026 pel que fa al **preu**: vegeu
