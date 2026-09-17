@@ -239,8 +239,64 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
 ## Buits registrats
 
 1. **Els processos de bruixeria de 1604, 1621 i 1630**, sencers. **Prioritari**:
-   **el corpus en té ara el compte de despeses i cap acta.**
-   `Requereix font externa: l'Arxiu Nacional d'Andorra i les actes de les Corts.`
+   **el corpus en té ara el compte de despeses i cap acta.** — **`parcial` el
+   17-09-2026, i el del 1621 ja no és una data solta: n'hi ha la cara
+   administrativa sencera**, des del **Llibre I d'actes del Consell General**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)). **Les
+   sentències segueixen sense aparèixer; el que hi ha és qui ho va organitzar i
+   qui ho va pagar.**
+
+   **Com es va muntar.** El Consell **nomena *raonadors* per torns amb dates
+   fixades** —«*héntron per raonadós **per fer fer justísia de les bruixes** a
+   19 del corent, y an de tenir fins a 28 del corent*»—, **dos homes cada
+   tanda**, i **quan s'acaba el termini en designa uns altres**: Pere Mora de
+   Canillo i Pere Antoni Giberga de l'Aldosa el 10 de setembre, **Joan Martí i
+   Joan Areny d'Encamp a partir del 21**.
+
+   **Com es va finançar: a *lots* sobre les parròquies**, un darrere l'altre,
+   durant tres mesos.
+
+   | Data del 1621 | Lot per parròquia |
+   | --- | --- |
+   | **22 d'agost** | **5 lliures** |
+   | **25 d'agost** | **8 lliures** |
+   | **10 de setembre** | **10 lliures** |
+   | **20 de setembre** | **un ducat** |
+   | **octubre** | **6 lliures** |
+
+   **Cada parròquia va pagar la cacera, i el Consell ho assentava com
+   qualsevol altra despesa.**
+
+   **I va caldre importar el botxí.** El mateix Consell envia **Bons, de Pal, i
+   Call, del Tarter, a la fira de Tarascó** amb l'encàrrec que **«procúron de
+   què fasen venir **un mestre per a penjar les bruixes**»**. **A Andorra no hi
+   havia qui ho fes.**
+
+   **Qui ho va pagar de debò.** El 31 d'octubre de 1621 el Consell encarrega a
+   **Joan Martí, de la Mosquera**, **de cobrar «tot lo diner se deu **dels dots
+   de les bruixes**, tant **de les fogitives y destarades y pengades**»**, i
+   **mana als cònsols de cada parròquia que executin els deutors.** El full de
+   comptes ho tarifa:
+
+   > «**Memòria de les bruixes prenen justísia lo any 1621.** Y dites an de
+   > pagar **per cada una que pengaran o foragitaran o se faran fogitives
+   > vint-y-sinc liures cada una**.»
+
+   **Vint-i-cinc lliures per dona**, **i el mateix preu tant si la penjaven com
+   si la desterraven com si fugia.** **El cost del procés es carregava sobre el
+   dot de l'acusada**, **de manera que el que pagava la seva mort era el que
+   havia aportat al matrimoni.**
+
+   **I hi consten noms i imports pendents**: **Peirona, del Tremat, sis
+   lliures**; **la Galoxa, vint-i-cinc lliures dos sous i tres**; **Fransina
+   Villa, de la Massana, vuit lliures i quinze sous**, que **Nicolau Tor, de la
+   Massana, promet pagar** — **i el 20 de maig de 1624 encara n'hi abonava tres
+   lliures a compte.** **Tres anys després de les execucions, el deute encara
+   corria.**
+
+   **El corpus no afirma quantes dones van ser penjades el 1621**: **el full
+   compta imports, no persones**, i **posa al mateix sac penjades, desterrades i
+   fugides.** `Requereix les sentències; el que hi ha és la comptabilitat.`
 2. **A qui van anar les 219 lliures restants** de les 260 de composicions.
    **El full només n'atribueix 41.**
 3. **Com va acabar el plet de 1608** portat a la Inquisició de Barcelona.
