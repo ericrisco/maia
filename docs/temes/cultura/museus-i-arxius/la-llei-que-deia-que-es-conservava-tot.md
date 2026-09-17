@@ -272,7 +272,15 @@ aparèixer.**
 
 **Cap memòria anual de la CNAAD no s'ha localitzat**, tot i que l'article 26.8 de
 la Llei 33/2021 i l'article 5.6 del Decret 455/2022 la fan obligatòria **des del
-2022**. `Requereix cercar-la al BOPA o al portal del Govern.`
+2022**.
+
+**`parcial` el 17-09-2026, i la meitat que es tanca és una exclusió.**
+**El [BOPA](../../../fonts/bopa.md) cercat sencer amb el nom complet de l'òrgan
+dona vint-i-un documents i cap no és una memòria**: són el reglament, els
+nomenaments i els edictes de resolucions. **La memòria obligatòria des del 2022
+no s'ha publicat al Butlletí en quatre anys.** **La via del BOPA queda
+descartada, no pendent.** `Requereix el portal del Govern o una petició directa
+al ministeri de Cultura.`
 
 **No s'ha llegit cap dictamen de la CNAAD**, només taules d'avaluació. La Llei
 4/2022 en fa un de vinculant per al SAAS i **el corpus no en té cap**.

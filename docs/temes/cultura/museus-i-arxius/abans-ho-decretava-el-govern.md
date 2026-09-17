@@ -146,9 +146,33 @@ pogut comptar amb cap dels tres**. El que sí que es pot dir amb exactitud:
 CNAAD**, amb **trenta-una** referències TNAAD publicades i **trenta-dues**
 taules després de la correcció d'errata. `El recompte complet queda pendent.`
 
-**El Decret del 9-9-2015 d'aprovació del Reglament organitzatiu de la CAAD no
-s'ha llegit.** Totes les cites d'«article 12» d'aquesta fitxa venen dels edictes
-que l'invoquen, **no del decret**. `Requereix baixar-lo del BOPA.`
+~~**El Decret del 9-9-2015 d'aprovació del Reglament organitzatiu de la CAAD no
+s'ha llegit.**~~ — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**, butlletí **64 del 2015**
+(`docs/raw/historia-arxiu/bopa/decret-2015-reglament-caad.txt`). **L'article 12
+que els edictes invoquen diu exactament una frase**, i és la que els edictes
+donaven a entendre:
+
+> **Article 12. Publicitat.** «Les resolucions de la CAAD, **un cop aprovades
+> pel Govern**, són publicades al Butlletí Oficial del Principat d'Andorra.»
+
+**I el decret confirma el títol d'aquesta fitxa amb una frase de l'article 1.2
+que els edictes no citaven mai**: **«Les resolucions de la CAAD han de ser
+aprovades pel Govern perquè siguin plenament executives.»** **La Comissió no
+resol: proposa.**
+
+**Dues coses més que el corpus no tenia.** **La composició** (art. 3): presideix
+**el secretari general del Govern**, i **entre els sis vocals hi ha un
+professor investigador d'història contemporània, un jurista de dret
+administratiu, un economista i un tècnic en sistemes d'informació.** **I la
+cadència** (art. 13): **almenys una reunió per trimestre**, convocada amb
+**quinze dies d'antelació**.
+
+**El decret del 2015 no crea la matèria, la refà**: **deroga el Decret de
+l'11 de juny del 2014**, que al seu torn modificava el **Reglament organitzatiu
+de la Comissió d'Avaluació de la Documentació (CAD) del 8 de juliol del 1998**.
+**Del CAD del 1998 al CAAD del 2015 i a la CNAAD del 2022: tres noms i tres
+sigles per al mateix òrgan en vint-i-quatre anys.**
 
 **Els edictes del 2021 i del 2022 de la CAAD no s'han buidat.** N'hi ha
 **tretze** descarregats i llegits només per la capçalera. **Són el gruix de
