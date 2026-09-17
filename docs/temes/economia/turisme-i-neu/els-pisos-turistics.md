@@ -119,9 +119,53 @@ l'alçada d'un mur de pedra seca.
 ## Buits registrats
 
 - **Quants HUT hi ha**, i quants edificis han topat amb el 50%, no consta.
-- **La Llei 5/2025 va modificar aquesta llei sencera** —n'és el títol III— i el
+- ~~**La Llei 5/2025 va modificar aquesta llei sencera** —n'és el títol III— i el
   corpus **no ha comparat què hi va canviar**
-  ([els habitatges buits](../../societat/habitatge/els-habitatges-buits.md)).
+  ([els habitatges buits](../../societat/habitatge/els-habitatges-buits.md)).~~
+  — **`resolt` el 17-09-2026**, llegit el títol III sencer al
+  [BOPA](../../../fonts/bopa.md)
+  (`docs/raw/lleis/bopa/llei-5-2025-creixement-sostenible-i-habitatge.txt`).
+  **Són els articles 43 a 60 i toquen quinze articles de la Llei 16/2017.**
+  **El canvi de fons és un**: **la llicència d'HUT deixa de ser perpètua i
+  deixa de seguir el pis.**
+
+  **Tres novetats que caduquen l'autorització:**
+
+  | Article nou | Regla |
+  | --- | --- |
+  | **35 bis.1** | **L'autorització dura tres anys** i s'ha de demanar la renovació **tres mesos abans** |
+  | **35 bis.2** | **No demanar-la a temps cancel·la d'ofici la inscripció al Registre** i impedeix l'activitat |
+  | **35 bis.3** | **Dotze mesos continus d'inactivitat** i el ministeri **cancel·la d'ofici** |
+
+  **I una que la desvincula de l'immoble** (article 40 bis.1): **canviar de
+  propietari —per qualsevol causa que no sigui l'herència— comporta la baixa
+  d'ofici de la inscripció.** **Comprar un pis amb llicència d'HUT ja no és
+  comprar la llicència.** **Notificar-ho toca al venedor**, excepte en la
+  successió per causa de mort, **on toca a qui hereta**, i **en un mes**.
+
+  **La comunitat de propietaris passa a tenir veu documental** (article 35.4):
+  qui vulgui obrir un HUT ha d'aportar **una declaració responsable conforme ha
+  informat el president de la comunitat** i **una certificació signada pel
+  president i l'administrador secretari conforme els estatuts no ho
+  prohibeixen**. **La regla de fons ja hi era** —els estatuts podien prohibir-ho—;
+  **el que és nou és que ara ho ha de certificar algú.**
+
+  **Els comuns queden lligats al control** (article 40 ter, nou): **han de
+  notificar al ministeri els canvis de titularitat dels HUT en un mes**, i
+  **si tenen indicis que algú explota un HUT sense autorització, ho han de
+  denunciar amb nom i contacte**. **I a l'inrevés**: si el ministeri té els
+  indicis, **el comú li ha de facilitar la identitat del titular en un mes**.
+
+  **També queda prohibida qualsevol activitat comercial dins d'un HUT**
+  (article 35.10), amb declaració responsable que no n'hi ha ni n'hi haurà.
+
+  **I de passada, la llei reordena els càmpings** (articles 43-44): **cinc
+  grups** —càmpings, zones d'acampada, **glàmping**, **àrees d'acollida
+  d'autocaravanes** i **àrees d'estada d'autocaravanes**—, **les bordes
+  existents passen a ser «elements d'allotjament fixos»**, i **queda prohibit
+  pernoctar en autocaravana, caravana, càmper o furgoneta condicionada fora
+  d'aquests espais.** `Requereix saber quantes àrees d'autocaravanes hi ha
+  habilitades, perquè la prohibició depèn que n'hi hagi.`
 - **Les 7 versions consolidades no s'han comparat.**
 - **Els requisits tècnics dels HUT** van a reglament i no són al corpus.
 - ~~**L'impost sobre les estades en allotjaments turístics** (Llei 19/2022, 47
