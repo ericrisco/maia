@@ -201,6 +201,34 @@ aprovar per unanimitat**:
 **Set consellers havien votat mitja hora abans a favor de baixar a vint anys i
 tots van votar a favor de la llei amb vint-i-cinc.**
 
+### Per què vint-i-cinc: la raó, dita el 25 de maig
+
+El **DCG 5/1995**, sessió del **25 de maig**, és la **presa en consideració** de
+la proposició de llei, i és on es diu **per què** vint-i-cinc. L'argument és
+d'analogia generacional:
+
+> «La xifra de **25 anys** proposada pensem que és, per qualificar-la d'alguna
+> manera, **justa**; és **el nombre d'anys que hom reconeix a tot arreu com el
+> d'una generació**. Tanmateix, estem convençuts que, **si després de 25 anys de
+> residència en un lloc, una persona no està integrada, ja no ho estarà mai**.»
+
+**I el mateix orador admet, el mateix dia, que baixar-ho seria defensable** — amb
+l'argument que Nova Democràcia repetirà a l'octubre:
+
+> «tot i reconèixer que possiblement **el fet de fixar un nombre d'anys de
+> residència inferior seria fins a cert punt justificable**, sobretot si tenim en
+> compte que **l'adquisició dels drets econòmics té lloc, segons la legislació
+> vigent, després de 20 anys de residència**, i que **no seria incongruent voler
+> fer coincidir ambdues xifres**, l'adopció avui d'una postura en aquest sentit
+> **podria ser titllada d'intempestiva**.»
+
+**El vint no es va descartar per equivocat: es va ajornar per inoportú.** Quatre
+mesos i mig després, a l'octubre, es va votar i va perdre 7 a 21.
+
+**La presa en consideració es va aprovar per assentiment**, «vistes les
+intervencions i **la unanimitat de la Cambra**». **La llei del 1995 entra i surt
+del Consell General per unanimitat, i pel mig s'hi discuteixen cinc xifres.**
+
 **El debat de globalitat havia estat abans**, el **25 de maig del 1995**
 (**DCG 5/1995**), i el diari d'octubre hi remet expressament: la posició de
 Coalició Nacional Andorrana «va quedar a bastament expressada el proppassat 25 de
@@ -222,8 +250,9 @@ dataset**.`
    xifres.~~ — **`resolt` el 17-09-2026 pel Diari Oficial del Consell General**,
    **núm. 10/1995, sessió del 5 d'octubre**: vegeu
    [Les cinc xifres, al Diari de Sessions](#les-cinc-xifres-al-diari-de-sessions).
-   `El debat de globalitat del 25 de maig del 1995 (DCG 5/1995) està baixat i
-   encara no llegit.`
+   **El debat de globalitat del 25 de maig (DCG 5/1995) també s'ha llegit**, i
+   hi consta **per què vint-i-cinc**: «el nombre d'anys que hom reconeix a tot
+   arreu com el d'una generació».
 3. **Quan i com es passa de vint-i-cinc anys a vint.**
 4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
 5. **El Sindicat andorrà de treballadors** impulsat per l'ARA als anys vuitanta,

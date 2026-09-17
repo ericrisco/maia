@@ -54,5 +54,10 @@ Per això aquí hi ha **les dues extraccions** del núm. 10: `dcg-10-1995.txt`
 anys— **amb grup proposant, article i resultat de votació**, a
 [`temes/institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md`](../../../temes/institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-anys.md).
 
-**El DCG 5/1995, el debat de globalitat del 25 de maig, està baixat i no
-llegit.**
+**El DCG 5/1995, el debat de globalitat del 25 de maig, també s'ha llegit**: hi
+consta **per què vint-i-cinc** —«el nombre d'anys que hom reconeix a tot arreu com
+el d'una generació»—, l'admissió que **baixar-ho seria «fins a cert punt
+justificable»** perquè **els drets econòmics s'adquireixen als vint anys**, i que
+**la presa en consideració es va aprovar per assentiment i unanimitat**.
+
+**Els altres dotze diaris del 1995 estan baixats i no llegits.**
