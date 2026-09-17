@@ -182,9 +182,22 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
 - **Del règim del 2022 s'ha llegit el títol preliminar i la primera instància.**
   **Els recursos (capítol segon), la revisió de sentències fermes (tercer) i tot
   el llibre d'execució** —voluntària, forçosa i incidents— **queden per llegir.**
-- **La Llei transitòria de procediments judicials**, de la qual el 2022 en deroga
+- ~~**La Llei transitòria de procediments judicials**, de la qual el 2022 en deroga
   els articles 138 a 187, **no s'ha llegit mai**. És dret processal supletori i no
-  se sap què hi queda viu.
+  se sap què hi queda viu.~~ — **`parcial` el 17-09-2026** (text refós del
+  5-10-2016, `docs/raw/lleis/bopa/decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt`,
+  **217 articles en dinou capítols**). **Els articles 138 a 187 són exactament el
+  capítol divuitè, «Procediments administratius»**: la Llei 9/2022 no en va
+  arrencar un tros, en va arrencar el capítol sencer. **I no és el primer que hi
+  entra**: el [Codi de procediment civil](../justicia/el-dret-vigent.md)
+  (Llei 24/2018) ja n'havia derogat els capítols civils —entre ells tot el
+  quinzè, articles 79 a 96— **i, de passada, tretze decrets dels veguers i dels
+  delegats permanents entre el 1918 i el 1986**. El que hi queda viu és el que el
+  Codi encara hi remet: **l'incident de nul·litat d'actuacions**, **el judici de
+  revisió arran d'una decisió del Tribunal Europeu de Drets Humans** i **el
+  benefici de defensa i assistència lletrades gratuïtes**. `Requereix comparar el
+  refós del 2016 amb el que en queda avui: el refós és anterior a la poda del
+  2018 i encara fixa quanties civils en pessetes.`
 - ~~**La carrera i el règim disciplinari** dels funcionaris (les 10 versions de la
   Llei 1/2019) no s'han buidat.~~ — **`resolt` el 17-09-2026**
   (`docs/raw/lleis/funcio-publica.txt`, **Llei 1/2019, 125 articles**;
