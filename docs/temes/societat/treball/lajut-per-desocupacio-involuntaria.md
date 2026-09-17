@@ -190,21 +190,59 @@ perquè la comparació entre les dues còpies es pugui refer. **No són evidènc
 independent**: la consolidació parteix del BOPA, i podrien ser també artefactes
 d'extracció compartits.
 
+## Set modificacions després del 2020, i cap toca l'article 26
+
+**El reglament d'avui és el segon, no el primer.** El **Decret del 3-7-2019**
+va aprovar el Reglament de les prestacions econòmiques dels serveis socials i
+sociosanitaris; el **Decret del 7-10-2020** el va substituir. Sobre el del 2019
+només hi van caure dues modificacions temporals i excepcionals —**la del
+17-4-2020**, que **és l'única de tota la cadena que reescriu l'article 26** i que
+hi afegeix un **article 26 bis**, i **la del 9-9-2020**, que hi afegeix un
+**article 28 bis**.
+
+**Sobre el del 2020 n'hi ha set, i cap no entra a l'article 26.** Són el
+**Decret del 16-12-2020** (afegeix un **26 bis**, no toca el 26), el **191/2022**,
+el **476/2022** (**19 bis**, ajuts per a la despesa de calefacció), el
+**531/2022**, el **585/2023** —els tres primers i aquest allarguen mesures
+temporals sobre l'**article 27**, prorrogades fins al 31 de desembre del 2022, del
+2023 i del 2024—, el **486/2024** i el **471/2025**, tots dos sobre l'**article
+17**, ajuts per a l'habitatge de lloguer. **La redacció de l'article 26 que
+aquesta fitxa buida és, doncs, la publicada el 7-10-2020 i encara vigent.**
+
+**El recompte de versions no quadra amb el consolidat.** El
+[consolidat de Jurisprudència.ad](../../../raw/desocupacio/jurisprudencia-reglament-2020-consolidat-2026-09-13.txt)
+anuncia **deu versions**; al Butlletí la cadena del Decret del 7-10-2020 en dona
+**vuit** —el text base i set modificacions—, i la cerca a text complet no en
+retorna cap més sota cap altra formulació del títol. **La diferència no s'ha
+pogut explicar**: podria ser que el consolidat compti també el reglament del 2019
+i les seves dues modificacions, o que compti alguna correcció d'errata. **La llista
+del Butlletí és la que aquesta fitxa fa servir, perquè cada peça hi és
+descarregada i comprovable** (`docs/raw/desocupacio/bopa-prestacions-*.txt`).
+
 ## Buits registrats
 
-- **Contrast del 224 bis tancat parcialment:** article complet del
+- ~~**Contrast del 224 bis tancat parcialment:** article complet del
   text refós de 2018 llegit al BOPA i vist a p. 60–61; article 35 del
   reglament d’afiliació de 2024 llegit i vist a p. 9. La
   [lectura específica](cotitzar-sense-cobrar-lajut-de-desocupacio.md)
-  manté pendents la cadena posterior, la discrepància literal i l’aplicació.
+  manté pendents la cadena posterior, la discrepància literal i l’aplicació.~~ —
+  **`resolt` el 17-09-2026**: **la cadena posterior està tancada** a la
+  [lectura específica](cotitzar-sense-cobrar-lajut-de-desocupacio.md); cap de
+  les vuit lleis modificadores de la seguretat social no toca el 224 bis després
+  del 2014.
   No modifica els requisits de l’ajut econòmic descrits aquí.
 
-- **Vigència completa a 13-09-2026 pendent.** S'ha contrastat l'article 26 amb
+- ~~**Vigència completa a 13-09-2026 pendent.** S'ha contrastat l'article 26 amb
   el [consolidat de Jurisprudència.ad consultat](../../../raw/desocupacio/jurisprudencia-reglament-2020-consolidat-2026-09-13.txt),
   que anuncia deu versions i no aporta data de publicació ni referència BOPA
   a la capçalera. La coincidència de redacció no demostra una cadena completa
   de modificacions. No s'han llegit totes les deu versions ni totes les
-  disposicions transitòries posteriors.
+  disposicions transitòries posteriors.~~ — **`resolt` el 17-09-2026** a «[Set
+  modificacions després del 2020, i cap toca l'article
+  26](#set-modificacions-despres-del-2020-i-cap-toca-larticle-26)»: **la cadena
+  és completa i baixada del Butlletí**, i **cap modificació no entra a l'article
+  26**. `Queda obert per què el consolidat n'anuncia deu i el Butlletí en dona
+  vuit.`
 - **Errata llegida:** la [correcció del 03-03-2021](../../../raw/desocupacio/bopa-2021-03-03-errata.txt)
   preserva expressament el decret sobre l'ajut per cuidar menors o persones
   amb discapacitat en aïllament; no corregeix l'article 26.
@@ -232,6 +270,11 @@ d'extracció compartits.
   cobreixi tot el país.
 - **Cap jurisprudència llegida sobre l'article 26.3.** No s'ha buscat com
   s'interpreta el requisit d'haver impugnat l'acomiadament per accedir a l'ajut.
-- **El Decret del 16-12-2020 ja s'ha llegit directament al BOPA** i té una
+- ~~**El Decret del 16-12-2020 ja s'ha llegit directament al BOPA** i té una
   [lectura pròpia](lajut-per-la-feina-que-no-havia-comencat.md). Els decrets
-  del 3-7-2019 i del 9-9-2020 encara només es coneixen per les remissions.
+  del 3-7-2019 i del 9-9-2020 encara només es coneixen per les remissions.~~ —
+  **`resolt` el 17-09-2026**: tots dos baixats del Butlletí
+  (`docs/raw/desocupacio/bopa-prestacions-reglament-2019-07-03.txt` i
+  `bopa-prestacions-mod-2020-09-09.txt`). **El del 9-9-2020 afegeix un article
+  28 bis i no toca el 26.** `Requereix encara buidar el reglament del 2019
+  sencer, que és el que el del 2020 substitueix.`
