@@ -250,6 +250,37 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    [el parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
    **segueix obert**.
 2. **El Registre de partits polítics**: quants n'hi ha inscrits i des de quan.
+   — **`parcial` el 17-09-2026, i ara se sap per què no es pot respondre.**
+   **El Registre existeix des del 2015** (Decret del 4-3-2015, primer reglament;
+   **avui el Decret 308/2024, del 31-7-2024**,
+   `docs/raw/lleis/bopa/decret-308-2024-registre-partits.txt`), i **és allà on
+   un partit adquireix personalitat jurídica**.
+
+   **L'article 28 del reglament diu que és públic i tot seguit el tanca:**
+
+   > «**1. El Registre de Partits Polítics és públic.** 2. Qualsevol persona o
+   > entitat **que al·legui un interès legítim** pot sol·licitar per escrit
+   > [certificats o notes informatives]. 3. **Es presumeix que hi ha un interès
+   > legítim** […]. **No obstant això, el responsable del Registre pot denegar
+   > l'accés** […] quan tingui motius fonamentats per considerar que **no hi ha
+   > un interès legítim** […] o que **es formula amb caràcter abusiu**.»
+
+   **Això és exactament el que [la Llei de transparència](../../institucions/govern/la-llei-de-transparencia.md)
+   diu que no es pot fer**: l'article 10.1 de la Llei 33/2021 garanteix l'accés
+   **«a totes les persones»** i el 10.3 nega a l'Administració **«potestat
+   discrecional»**. **El reglament del Registre, del 2024, reintrodueix un
+   filtre d'interès legítim apreciat pel responsable.** `Requereix saber si
+   s'ha denegat mai cap sol·licitud i amb quin motiu.`
+
+   **I no hi ha llista publicada.** L'article 33 diu que el Govern **«pot
+   decidir la creació d'una pàgina web»** per difondre les dades inscrites
+   —**potestatiu, no obligatori**— i l'article 34 que **«pot encomanar»**
+   estadístiques. **Cap de les dues coses és exigible**, i **el BOPA no publica
+   les inscripcions**: cercat el 17-09-2026, **el que hi surt del Registre són
+   només els nomenaments del responsable i del suplent** (10-6-2015, 25-4-2018,
+   Decret 387/2024), **mai un partit inscrit**. **Per això el corpus coneix els
+   partits pels llistats de donacions i no pel registre que existeix per
+   donar-los publicitat.**
 3. ~~**Els llistats de donacions publicats al BOPA cada sis mesos.**~~ —
    **`resolt` el 17-09-2026**: **n'hi ha tretze**, del **juliol del 2020** al
    **juliol del 2026**, **un per semestre i sense cap forat**
@@ -303,11 +334,53 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    Tribunal fiscalitza, per saber quina fracció de la campanya cobreixen.`
 4. **El cens electoral vigent per parròquia**, per calcular els sostres reals.
 5. **Si s'ha sancionat mai cap partit** per aquesta llei, o si s'ha dissolt o
-   suspès cap.
-6. **Què hi havia abans del 2022.** És una llei del 2022 amb **una sola versió
-   consolidada**: no diu què substitueix.
+   suspès cap. — **`obert`, però ara és un negatiu comprovat i no una
+   ignorància.** Cercat al BOPA el 17-09-2026 —«expedient sancionador» +
+   «partit polític», «dissolució» + «partit polític» + «sentència», «Junta
+   Electoral» + sanció + partit— **cap resolució sancionadora, cap dissolució i
+   cap suspensió**: els únics resultats són **les lleis mateixes**. **Això no
+   prova que no n'hi hagi hagut cap**: **prova que, si n'hi ha hagut, no s'ha
+   publicat al BOPA.**
+6. ~~**Què hi havia abans del 2022.** És una llei del 2022 amb **una sola versió
+   consolidada**: no diu què substitueix.~~ — **`resolt` el 17-09-2026 al
+   [BOPA](../../../fonts/bopa.md).** **La primera llei de partits polítics
+   d'Andorra és la Llei 19/2014, del 18 de setembre** (BOPA del 14-10-2014)
+   —**vint-i-un anys després de la Constitució**. La cadena, completa:
+
+   | Data | Norma |
+   | --- | --- |
+   | **18-09-2014** | **Llei 19/2014**, qualificada de partits polítics i finançament electoral —**la primera** |
+   | **16-03-2017** | **Llei 4/2017**, qualificada de modificació de la 19/2014 |
+   | **27-09-2017** | **Decret legislatiu** de publicació del **text refós** de la 19/2014 |
+   | **02-12-2021** | **Llei 33/2021** de transparència, que hi torna a tocar |
+   | **12-12-2022** | **Llei 43/2022**, **text consolidat** —la vigent |
+
+   **La fitxa deia que la llei del 2022 «no diu què substitueix»; sí que ho
+   diu**, i el corpus no ho havia llegit. **El que segueix sense saber-se és
+   com es finançaven els partits entre el 1993 i el 2014**, quan no hi havia
+   llei: `Requereix el Diari de Sessions del debat de la Llei 19/2014, que és
+   on s'acostuma a explicar què es venia fent.`
 7. **El Tribunal de Comptes**: el corpus el cita de passada i no en té fitxa.
-8. **La Junta Electoral**: tampoc.
+8. **La Junta Electoral**: tampoc. — **`parcial` el 17-09-2026**: **no té
+   fitxa, però ja no és desconeguda.** Llegits els articles 28 i 29 de la
+   [Llei 44/2022](./com-es-compten-els-vots.md). **Sis vocals: tres batlles
+   sortejats pel Consell Superior de la Justícia i tres juristes o experts
+   designats per la Sindicatura a proposta conjunta dels grups
+   parlamentaris**, amb sis suplents més. **La presideix el batlle amb més
+   mandats a la Junta** —**l'antiguitat, no el nomenament**— i **si dos
+   empaten, sorteig**. **Quòrum de quatre, dels quals dos han de ser batlles.**
+   **El secretari és el Secretari General del Consell General, amb veu i sense
+   vot.**
+
+   **Tres trets que la fan atípica:** **no és permanent** —es designa per
+   legislatura i **només entra en funcionament el dia que es convoquen
+   eleccions**, en cinc dies (article 28.7)—; **«tots els dies i hores són
+   hàbils»** i pot notificar **per telèfon** (article 29.4); i **les seves
+   resolucions són «de compliment obligatori per tots els poders públics i
+   ciutadans» i immediatament executives**, amb **recurs al Tribunal Superior
+   en vint-i-quatre hores** i **resolució en quaranta-vuit** (article 29.6).
+   **No cal advocat per adreçar-s'hi.** `Requereix una fitxa pròpia i el
+   recompte de les seves recomanacions i resolucions publicades al BOPA.`
 
 ## Related
 
