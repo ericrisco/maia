@@ -145,8 +145,46 @@ institucions dins la llei vigent.**
   de la llei i aquesta fitxa no els toca.
 - **Quants matrimonis canònics i quants civils se celebren**, no consta. El
   corpus té la norma i cap dada.
-- **El divorci**: la llei el regula a la secció tretzena i aquí només se'n diu
-  que existeix per al matrimoni canònic. **Queda per llegir.**
+- ~~**El divorci**: la llei el regula a la secció tretzena i aquí només se'n diu
+  que existeix per al matrimoni canònic. **Queda per llegir.**~~ — **`resolt`
+  el 17-09-2026** (`docs/raw/lleis/persona-familia.txt`, articles 132 a 139).
+  **I la primera cosa que cal corregir és de nomenclatura**: **la secció
+  tretzena no regula el divorci sinó els seus efectes**; **les causes són a
+  l'article 136** i **la separació, als 132 a 135**.
+
+  **No hi ha causes de divorci.** L'article 136 no n'enumera cap:
+
+  > «**Es decreta judicialment el divorci, a petició d'un dels cònjuges,
+  > d'ambdós o d'un amb el consentiment de l'altre, un cop transcorreguts tres
+  > mesos des de la celebració del matrimoni.**»
+
+  **L'única condició és el temps: tres mesos de casats.** **No cal al·legar
+  res, ni separació prèvia, ni acord de l'altre.** **El que sí que cal és
+  portar el conveni regulador** o, si es demana sol, **una proposta fonamentada
+  de mesures** (per remissió a l'article 132). **I el termini de tres mesos
+  decau «quan s'acrediti l'existència d'un risc greu per al cònjuge demandant
+  o per als seus fills»** (article 132.b).
+
+  **La separació és la mateixa porta amb un efecte diferent** (article 133):
+  **presentar la demanda ja suspèn la comunitat de vida**, **interromp
+  l'obligació de viure junts i el deure de fidelitat**, **revoca els poders que
+  els cònjuges s'haguessin atorgat** i **acaba la possibilitat de vincular béns
+  de l'altre per potestat domèstica**. **No cal esperar la sentència: la
+  demanda ja opera.**
+
+  **Els pactes prematrimonials existeixen i tenen quatre cauteles**
+  (article 137): **caduquen si el matrimoni no se celebra en un any**; **el
+  notari ha d'informar cada atorgant per separat** i **advertir-los del deure
+  recíproc d'informar-se del patrimoni, els ingressos i les expectatives
+  econòmiques**, amb **la càrrega de provar que l'altre en va ser informat a
+  càrrec de qui vulgui fer valer el pacte**; **els pactes d'exclusió de drets
+  han de ser recíprocs**; i **un pacte no és eficaç si, quan es vol complir,
+  és «greument perjudicial» per a un cònjuge i han sobrevingut circumstàncies
+  rellevants imprevisibles.**
+
+  **I els pactes fets després de la ruptura sense advocat propi per a cadascú
+  es poden desfer** (article 138): **qualsevol dels dos els pot deixar sense
+  efecte durant tres mesos**, i com a màxim fins a contestar la demanda.
 - **La Llei del Registre Civil**, a la qual aquesta remet per a la inscripció,
   **no és al recull de normes del corpus**. — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: la **Llei del Registre Civil, de l'11 de
