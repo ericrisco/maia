@@ -130,7 +130,28 @@ obligació**, si el que produeix és publicació.
   història.
 - **La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
   amb quin abast, no es diu enlloc del text.
-- **Les sancions** i el règim d'inspecció no s'han llegit.
+- ~~**Les sancions** i el règim d'inspecció no s'han llegit.~~ — **`resolt` el
+  17-09-2026** (`docs/raw/lleis/diposit-legal.txt`, articles 30 a 33).
+
+  **Només hi ha dos graus, i no hi ha infracció molt greu.**
+
+  | Grau | Conductes | Multa |
+  | --- | --- | --- |
+  | **Lleu** | **No constituir el dipòsit**; **distribuir sense el número**; **no anul·lar-lo si l'obra no s'edita**; **lliurar fora de termini** | **300 a 3.000 €** |
+  | **Greu** | **Manipular el número amb dol**; **presentar dades falses per obtenir-lo**; **obstruir la inspecció de la Biblioteca Nacional**; **reincidir en faltes lleus** | **3.001 a 6.000 €** |
+
+  **Tres coses que la taula no diu.** **Qui instrueix i sanciona és la
+  Biblioteca Nacional d'Andorra** (article 32.1) —**no un ministeri**: **la
+  institució que rep els exemplars és la que multa qui no els envia.**
+  **Pagar la multa no eximeix de dipositar** (article 31.3). I **les
+  infraccions prescriuen a l'any les lleus i als tres anys les greus**
+  (article 33), amb la regla que **la interrupció decau si l'execució s'atura
+  més d'un any per causa no imputable al sancionat.**
+
+  **La graduació té cinc criteris** (article 31.2): **la gravetat de
+  l'alteració**, **els perjudicis materials o econòmics**, **la transcendència
+  social o l'interès públic afectat**, **el benefici que perseguia l'infractor**
+  i **la mala fe, la culpa o la negligència.**
 - ~~**La [Llei 9/2003 del patrimoni cultural](../../institucions/justicia/el-dret-vigent.md)**
   (43 articles), que regula arxius, biblioteques i museus al seu capítol quart,
   és al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**, llegida al

@@ -113,8 +113,34 @@ els horaris, el descans dominical **o el rètol** és infracció (article 8).
 - **Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
   consta. Sense això no se sap si el règim de 7-22 h és la regla o l'excepció.
 - **Quantes botigues paguen l'impost de les 24 hores**, tampoc.
-- **Les sancions** (imports i graduació) són als articles 9 i següents i no
-  s'han llegit.
+- ~~**Les sancions** (imports i graduació) són als articles 9 i següents i no
+  s'han llegit.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/horaris-comercials.txt`,
+  articles 8 a 12), **i la manera de calcular-les no s'assembla a cap altra
+  llei andorrana: la multa es paga per metre quadrat.**
+
+  | Infracció d'horari o de publicitat d'horaris | Multa |
+  | --- | --- |
+  | **Primera vegada** | **5 € per m² de l'establiment** |
+  | **Primera reincidència** | **25 € per m²** |
+  | **Segona reincidència** | **50 € per m²** |
+
+  **La multa creix amb la mida de la botiga, no amb el benefici ni amb els dies
+  d'obertura.** **Per a un establiment de 2.500 m²** —el llindar de gran
+  establiment de [la Llei del comerç](./quan-el-preu-baixa.md)— **la primera
+  infracció són 12.500 €, i la segona reincidència, 125.000.** **Per a un
+  comerç de 50 m², 250 € i 2.500.** **Hi ha reincidència quan hi ha hagut
+  condemna ferma per una altra infracció en els dos anys anteriors**
+  (article 9.5).
+
+  **El descans dominical es tarifa a part i per persona** (article 9.4):
+  **1.000 € per cada empleat i cada diumenge** en què no s'hagi respectat, **i
+  el doble si hi ha reincidència**, **sense perjudici del Codi de relacions
+  laborals.**
+
+  **I la competència està partida entre dos ministeris** (article 11): **el de
+  comerç** instrueix i resol el que és d'horaris i de publicitat d'horaris, i
+  **el de treball**, el que és de descans dominical. **La mateixa botiga oberta
+  un diumenge pot rebre dos expedients de dos ministeris diferents.**
 - **Les 3 versions consolidades no s'han comparat**: no se sap si els quatre
   dies de tancament n'han estat sempre quatre.
 - ~~**La Llei del comerç** (Llei 12/2013, 111 articles) és al recull i **queda per
