@@ -120,8 +120,36 @@ el 38% és difícil de moure.
   d'Estadística`.
 - **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
   —població, superfície, pernoctacions— no.
-- **La partida de solidaritat** (6,75%, article 17) és l'única sense criteri
-  automàtic i **no s'ha llegit**.
+- ~~**La partida de solidaritat** (6,75%, article 17) és l'única sense criteri
+  automàtic i **no s'ha llegit**.~~ — **`resolt` el 17-09-2026**, llegida al
+  material que el corpus ja tenia (`docs/raw/lleis/transferencies-comuns.txt`).
+  **I sí que té criteri: en té cinc, i són els més reveladors de tota la llei.**
+
+  **La partida es parteix per la meitat.**
+
+  **La primera meitat es reparteix «amb caràcter inversament proporcional al
+  nombre d'establiments comercials registrats a la parròquia»** —**la parròquia
+  amb menys comerços cobra més**—. **És l'únic criteri de tota la llei que
+  compensa en comptes de premiar**, i explica per què es diu «de solidaritat».
+
+  **La segona meitat va per punts, i els punts estan escrits per a casos
+  concrets:**
+
+  | | |
+  | --- | --- |
+  | **1 punt** | Haver exigit **tots** els impostos comunals els dos exercicis anteriors. **I la llei tanca l'escletxa**: no compta com a exigits si hi ha no-subjecció, exempció o **tipus zero** |
+  | **1 punt** | Tenir **més de 60 km de carreteres secundàries** |
+  | **1 punt** | Tenir **una societat pública 100% comunal** que gasti més que el mateix Comú |
+  | **1,5 punts** | Tenir **dos nuclis de més de 2.000 habitants separats per més de 15 km** |
+
+  **El criteri d'1,5 punts no descriu una categoria: descriu una parròquia.**
+  **El corpus ho registra i no diu quina** —no té les dades de població per
+  nucli per acreditar-ho—, però **assenyala que és l'únic criteri amb puntuació
+  fraccionada i el més ben delimitat dels quatre.**
+
+  **I el primer punt és una sanció encoberta**: **un comú que perdoni un impost
+  comunal, encara que sigui posant-lo a zero, perd el punt.** **La llei de
+  transferències disciplina la política fiscal comunal sense prohibir-li res.**
 - **La [Llei de les finances comunals](../justicia/el-dret-vigent.md)** (Llei
   36/2021, 115 articles), que regula com gasten aquests diners, és al recull i
   **queda per llegir**.
