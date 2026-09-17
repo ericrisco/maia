@@ -165,7 +165,31 @@ tècnic del Museu Nacional de l'Automòbil.**
   **no per manca de lectura**: el recull del corpus **serveix articles i no
   annexos**, i **45 de les 104 lleis en depenen**
   ([`raw/lleis/README.md`](../../../raw/lleis/README.md)).
-  `Requereix font externa: el BOPA de la Llei 12/2021.`
+
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+  **62 del 2021** (`docs/raw/lleis/bopa/`). **L'annex II és una matriu de vuit
+  límits per sis franges**, i **es llegeix així: la multa depèn de quant passes
+  del límit, no de la velocitat absoluta.**
+
+  | Límit | Lleu 24 € | Lleu 100 € | Greu 150 € | Greu 200 € | Molt greu 300 € | Molt greu 400 € |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | **20** | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | més de 70 |
+  | **30** | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | més de 80 |
+  | **40** | 41-50 | 51-60 | 61-70 | 71-80 | 81-90 | més de 90 |
+  | **50** | 51-60 | 61-70 | 71-80 | 81-90 | 91-100 | més de 100 |
+  | **60** | 61-70 | **71-90** | 91-100 | 101-110 | 111-120 | més de 120 |
+  | **70** | 71-80 | **81-100** | 101-110 | 111-120 | 121-130 | més de 130 |
+  | **80** | 81-90 | **91-110** | 111-120 | 121-130 | 131-140 | més de 140 |
+  | **90** | 91-100 | **101-120** | 121-130 | 131-140 | 141-150 | més de 150 |
+
+  **La franja del tram màxim no és un import fix**: és **400 € més 60 € per cada
+  10 km/h d'excés**, l'única sanció del codi que no té sostre escrit.
+
+  **I hi ha una asimetria que val la pena assenyalar perquè no és un error de
+  lectura**: **a partir del límit de 60, la segona franja lleu és el doble
+  d'ampla** —vint quilòmetres hora en comptes de deu—. **A 50 per hora, passar a
+  75 ja és greu; a 80 per hora, passar a 105 encara és lleu.** **El codi és més
+  tolerant amb l'excés a les vies ràpides que a les urbanes.**
 - El buit original deia: el corpus té les normes de conducta i no què
   costa incomplir-les. — **`resolt` des del 2026-09-13.**
 - ~~**El permís de conduir** —categories, edats, obtenció— és al títol III i no

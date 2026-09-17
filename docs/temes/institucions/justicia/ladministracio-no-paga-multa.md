@@ -142,7 +142,21 @@ derogatòries i finals. **No s'ha llegit cap clàusula derogatòria**, i per tan
 corpus **no diu que la Llei 15/2003 s'hagi derogat**: diu que hi ha una llei
 qualificada de protecció de dades del **28 d'octubre del 2021** amb text
 consolidat i que cinc normes vigents encara citen l'anterior.
-`Requereix el BOPA de la Llei 29/2021, disposició derogatòria.`
+**`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+**119 del 2021** (`docs/raw/lleis/bopa/`), **i la resposta és que sí**:
+
+> «Queda derogada tota disposició que s'oposi al que estableix a aquesta Llei de
+> dades personals, i, **en especial, la Llei 15/2003, del 18 de desembre,
+> qualificada de protecció de dades personals**.»
+
+**La Llei 15/2003 està derogada**, i **les cinc normes vigents que encara la
+citen la citen malament.** **La disposició derogatòria segona en diu una altra
+que el corpus no tenia**: **queda derogada tota la normativa dels fitxers i del
+Registre públic d'inscripció de fitxers de dades personals, i el Registre queda
+sense efecte.** **Un registre abolit, no substituït.**
+
+**I una data que importa per a qualsevol cita**: la Llei **no entra en vigor en
+publicar-se** sinó **sis mesos després**, és a dir **al maig del 2022**.
 
 **I això deixa oberta una pregunta que el corpus no pot tancar sol.** La
 [decisió europea d'adequació](../relacions-exteriors/andorra-es-adequada.md) es

@@ -267,10 +267,30 @@ arbitra** si és una remissió deliberada a l'apartat 2 o un residu de redacció
 d'activitats és obligatori o condicionat per a una organització privada.
 Registrat, no arbitrat.
 
-**La Llei qualificada de protecció civil als drets a la intimitat, a l'honor i a
-la pròpia imatge no és al corpus**, i l'article 12 (2) hi remet expressament: és
-**el límit exterior de l'excepció acadèmica** i no se'n sap la lletra.
-`Requereix localitzar-la al BOPA.`
+~~**La Llei qualificada de protecció civil als drets a la intimitat, a l'honor i
+a la pròpia imatge no és al corpus.**~~ — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**: és la **Llei 30/2014, del 27 de novembre**,
+butlletí **71 del 2014** (`docs/raw/lleis/bopa/`). **És el límit exterior de
+l'excepció acadèmica i ara se'n sap la lletra**, i **quatre coses d'aquesta llei
+afecten directament un corpus com aquest:**
+
+| | |
+| --- | --- |
+| **Article 2** | **Aquests drets són irrenunciables i inalienables**, i **tota renúncia és nul·la**. **Cap permís genèric no val**: l'article 5.1 diu que **«el consentiment no es pot atorgar de forma genèrica»** |
+| **Article 4.2** | **L'accés és legítim** per consentiment, per autorització d'una llei **amb idoneïtat, necessitat i proporcionalitat**, per **interès públic o privat que no sigui abusiu ni arbitrari**, o per actuació autoritzada per llei **sota control judicial** |
+| **Article 4.3** | **El límit el fixen «els usos socials i els propis actes de cada persona»** — **no una llista tancada**, cosa que deixa el criteri obert cas per cas |
+| **Article 10.1.b)** | **La mort no extingeix la protecció**: hi tenen legitimació **els familiars fins a tercer grau**, el cònjuge o membre d'unió estable i els hereus, **o la persona designada al testament** |
+
+**L'article 10.1.b) és el que més pesa aquí**, perquè **la major part del que
+aquest corpus documenta és sobre persones mortes** i **aquesta llei diu que
+morir no hi posa punt final**: **hi ha tres graus de parentiu que poden
+exercir-hi accions.**
+
+**El que aquesta llei NO diu, i és el que el buit volia saber**: **no hi ha cap
+excepció històrica, científica ni acadèmica escrita.** **Es va llegir sencera i
+no hi apareix.** **La via, doncs, no és una excepció pròpia sinó l'article
+4.2.c), l'interès públic o privat «que no es manifesti abusiu o arbitrari».**
+`Requereix jurisprudència que digui on és aquesta ratlla; el text no la posa.`
 
 **El Conveni 108+ del Consell d'Europa no és al corpus**, tot i que l'article 43
 el posa com a via alternativa d'adequació. **No s'ha comprovat si Andorra l'ha
