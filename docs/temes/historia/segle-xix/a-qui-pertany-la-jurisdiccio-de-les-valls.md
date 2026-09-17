@@ -220,8 +220,10 @@ I l'acta recull **una sola pregunta**:
 > **3.** **Es va convocar una assemblea extraordinària per fer constar una cosa
 > que ningú no discutia.** **El valor del document no és la resposta: és que
 > algú va considerar necessari fer-la dir sota acta, amb els dos veguers, els
-> dos batlles i els sis capellans presents.** **El corpus no sap què el va
-> motivar.**
+> dos batlles i els sis capellans presents.** ~~**El corpus no sap què el va
+> motivar.**~~ — **des del 17-09-2026 sí**: **una carta-orde del mateix Joan
+> Martí datada l'endemà anterior**, i **l'acta té quatre preguntes, no una**
+> (vegeu el buit 4).
 
 ## I els bisbes ho corroboren: la llei de 1433
 
@@ -277,8 +279,62 @@ matèries i el lloc de signatura.**
 3. **L'escrit de concòrdia de 1347**, **les tretze conclusions senceres.** **La
    font en cita dues.** **Prioritari.** `La font declara que els documents que
    cita són a l'Arxiu de la Casa de la Vall.`
-4. **L'acta del Consell General del 23 de març de 1775**, **sencera**, i **què la
-   va motivar.** **Prioritari**: la font la cita del **llibre de Sessions**.
+4. ~~**L'acta del Consell General del 23 de març de 1775**, **sencera**, i **què
+   la va motivar.** **Prioritari**: la font la cita del **llibre de
+   Sessions**.~~ — **`resolt` el 17-09-2026 des del Llibre IV d'actes**
+   ([actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md)). **I les dues
+   meitats del buit tenen resposta separada.**
+
+   **Què la va motivar: una carta-orde, i se sap de qui i de quin dia.** El
+   Consell es reuneix
+
+   > «en virtut de **una carta-orde del senyor doctor Joan Martí, de la ciutat
+   > de Urgell**, per lo Il·lustríssim Senyor Bisbe de Urgell, príncep soberà de
+   > las Valls de Andorra, **del Concell de Sa Magestat Cathòlica**, **jutge
+   > supremo ordinari** de las referidas valls de Andorra, **sa fecha en la
+   > ciutat de Urgell, als 22 dies del mes de mars de 1775**, qual carta **queda
+   > en lo arxiu de l'Il·lustre Concell General**»
+
+   **Tres coses d'aquesta sola frase.** **El Consell es convoca l'endemà de la
+   carta** —22 de març la carta, 23 la sessió—: **hi havia pressa.** **La carta
+   és a l'arxiu del Consell General**, cosa que la fa localitzable i converteix
+   el buit següent en una petició concreta. **I qui la signa és el jutge suprem
+   nomenat pel bisbe que, alhora, és membre del Consell de Sa Majestat
+   Catòlica**: **qui demana als andorrans que diguin sota acta de qui és la
+   jurisdicció de les Valls és un home al servei de la corona espanyola.**
+
+   **L'acta sencera: no hi ha una pregunta, n'hi ha quatre.** La font secundària
+   només en recull la primera.
+
+   | | Pregunta | Resposta unànime |
+   | --- | --- | --- |
+   | **Primo** | **A qui pertany la jurisdicció de les valls d'Andorra?** | **A Sa Majestat Cristianíssima com a comte de Foix i a l'Il·lustríssim Bisbe d'Urgell** |
+   | **Secundo** | **Qui nomena jutge de les Valls?** | **Alternativament, una vegada el bisbe i una altra el rei** |
+   | **Tercio** | **Qui nomena veguer?** | **Se'n nomenen dos**, un pel bisbe i un per Sa Majestat Cristianíssima |
+   | **Quarto** | **Qui nomena batlles?** | **El bisbe en nomena un, i el Rei Cristianíssim en nomena un altre dels sis que posa a la sisena l'Il·lustre Consell General** |
+
+   **La quarta resposta és la que val més**, perquè **descriu el dret de terna
+   del parlament andorrà dit pels mateixos andorrans**: **el Consell presenta
+   sis noms —«la sisena»— i el copríncep en tria un**
+   ([el saig](../../institucions/justicia/el-saig.md), on consta que aquest dret
+   surt del plet del 1456).
+
+   **I la segona porta el règim del jutge amb un detall que el corpus no tenia**:
+   **el nomenament és vitalici** —«durant sa vida natural»—, **el tribunal pot
+   estar a la Seu d'Urgell o on el jutge visqui**, però **les sentències s'han
+   de pronunciar dins del territori de les Valls**, i **en temps de Corts el
+   tribunal s'ha de tenir a Andorra.** **Quan mor el jutge nomenat pel bisbe, el
+   nomena el rei**, i **el tribunal es trasllada allà on visqui el nou.**
+
+   **Això explica la composició extraordinària de l'assemblea** que aquesta
+   fitxa ja recollia: **no es va convocar per decidir res, sinó per deixar
+   constància**, i **per això hi havia els dos veguers, els dos batlles, el
+   jutge suprem, el seu secretari i els sis rectors.** **Era una acta
+   preconstituïda, i la va demanar el jutge del bisbe.**
+
+   `Requereix la carta-orde del 22 de març de 1775, que segons l'acta és a
+   l'arxiu del Consell General.`
 5. **Si el privilegi del comte de Foix de 1305 que la font invoca és el mateix del
    22 de març de 1305** que el corpus té per Brutails. **La font no dona ni mes,
    ni dia, ni signatura.**
