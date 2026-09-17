@@ -192,11 +192,38 @@ Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13)
 - ~~**El procediment de tramitació de les queixes** (títol II i següents) no s'ha
   llegit.~~ — **`resolt`** (secció de dalt). **El text era al corpus** a
   [`raw/lleis/raonador-ciutada.txt`](../../../raw/lleis/raonador-ciutada.txt).
-- **Quina institució hi havia abans** de la Llei 16/2024 i què va canviar —
-  **`obert`, i el 2026-09-13 l'auditoria hi ha trobat un altre extrem del mateix
-  fil**: [el dret supletori](../justicia/el-dret-supletori.md) registra
-  **uns «*rahonadors*» el 1877** que van deixar una memòria citada per Brutails,
-  i **es pregunta exactament el mateix al revés**: quina relació tenen amb el
-  Raonador d'avui. **Cap dels dos articles no ho sap, i el nom és el mateix.**
-  **Segueix essent** una
-  llei del 2024 en text original, i el Raonador existia abans.
+- ~~**Quina institució hi havia abans** de la Llei 16/2024 i què va canviar.~~ —
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: la **Llei
+  de creació i funcionament del raonador del ciutadà, del 4 de juny del 1998**,
+  butlletí **33 del 1998**
+  (`docs/raw/lleis/bopa/llei-1998-raonador-del-ciutada.txt`).
+
+  **I tanca alhora l'altre extrem del fil**, que
+  [el dret supletori](../justicia/el-dret-supletori.md) tenia obert sobre uns
+  «*rahonadors*» del 1877. **L'exposició de motius del 1998 diu d'on ve el nom,
+  i és exactament això:**
+
+  > «S'ha volgut trobar **una denominació autòctona** i s'ha acudit a l'antiga i
+  > pròpia de **les persones que defensaven d'ofici en nom del poble els acusats
+  > en l'àmbit de la justícia penal: els "raonadors"**, denominació que, a més,
+  > **entronca amb les seves funcions, que no són decisòries, sinó purament
+  > mediadores informatives de l'Administració**.»
+
+  **El nom no és una coincidència: és una represa deliberada**, i el legislador
+  del 1998 diu per què el tria i què rebutja —**«defensor, comissionat,
+  comissari, protector, mediador o valedor»**—. **Els *rahonadors* que Brutails
+  cita el 1877 són els advocats d'ofici del poble; el Raonador d'avui n'hereta
+  el nom i no la funció.**
+
+  **I situa la institució en la seva genealogia europea amb data**: la figura de
+  l'*ombudsman* arrenca de la **Constitució sueca del 1809**, i el **Consell
+  d'Europa la va recomanar als estats membres el 23 de setembre del 1985.**
+  **Andorra hi arriba tretze anys després de la recomanació i cinc després de la
+  Constitució.**
+
+  **El que la llei del 1998 estableix, i que explica el disseny d'avui**: la
+  Constitució andorrana **no preveu aquesta figura**, i la llei ho diu obertament
+  —«tot i que la Constitució d'Andorra no ha recollit expressament una figura
+  institucional específica»—. **No controla la legalitat de l'actuació
+  administrativa, que ja té control jurisdiccional (art. 72.3): vetlla per la
+  seva eficàcia.** **Neix com a institució complementària, no com a contrapès.**

@@ -250,8 +250,27 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
    declara un buit que apunta cap aquí** —«quina institució hi havia abans de la
    Llei 16/2024»—. **Dos articles pregunten per la mateixa genealogia des dels
    dos extrems i cap dels dos no ho sabia.**
-   `Requereix font externa: la memòria dels rahonadors de 1877, i la llei del
-   Raonador anterior a la de 2024.`
+   **El fil queda lligat el 17-09-2026**, i **la punta que faltava era la llei
+   del Raonador anterior a la del 2024**: la **Llei de creació i funcionament
+   del raonador del ciutadà, del 4 de juny del 1998**
+   ([BOPA](../../../fonts/bopa.md), butlletí 33 del 1998,
+   `docs/raw/lleis/bopa/llei-1998-raonador-del-ciutada.txt`). **La seva
+   exposició de motius diu d'on va anar a buscar el nom:**
+
+   > «S'ha volgut trobar **una denominació autòctona** i s'ha acudit a l'antiga
+   > i pròpia de **les persones que defensaven d'ofici en nom del poble els
+   > acusats en l'àmbit de la justícia penal: els "raonadors"**, denominació
+   > que, a més, **entronca amb les seves funcions, que no són decisòries, sinó
+   > purament mediadores informatives de l'Administració**.»
+
+   **Els *rahonadors* del 1877 eren els defensors d'ofici del poble**, i **la
+   relació amb el Raonador d'avui és onomàstica i deliberada, no
+   institucional**: **el legislador del 1998 n'agafa el mot i el justifica per
+   una analogia de caràcter —mediar, no decidir—, no per continuïtat de
+   funció.** **Els dos extrems del fil es toquen aquí i no abans.**
+
+   `El que segueix obert és la memòria dels rahonadors del 1877 mateixa, que
+   Brutails cita i que és anterior al BOPA.`
 5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
    mostra que **no esmenta el costum** fora de l'article 84. **Però una llei del
    2021 sí:** la del notariat diu que els notaris donen fe «amb subjecció a les
