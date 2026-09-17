@@ -113,11 +113,50 @@ d'alumnes** d'educació bàsica.
 **El calendari escolar andorrà està organitzat al voltant de la neu:** hivern al
 mig, i la resta a cobert.
 
+## Nou reglaments en trenta-dos anys
+
+**El [Butlletí](../../../fonts/bopa.md) en publica nou**, i el corpus els té tots
+(`docs/raw/societat/esqui-escolar/`): **28-10-1993**, **31-10-2000**,
+**12-3-2003** —amb una modificació el **24-10-2012**—, **22-12-2016**,
+**8-1-2020**, **Decret 532/2023**, **Decret 396/2024** i **Decret 391/2025**. Des
+del 2023 se'n fa un cada any.
+
+**El primer ja deia que era obligatori, i deia per què.** L'article 1r del
+reglament del 1993: **«L'esquí escolar és una activitat física obligatòria per a
+tots els alumnes de primera ensenyança, escolaritzats a Andorra.»** L'exposició de
+motius hi afegeix el motiu doble —**«facilitar econòmicament la seva pràctica als
+infants residents»** i que **«adquireixin els coneixements necessaris per
+practicar-lo amb tota seguretat»**— i una preocupació que avui sorprèn:
+estructurar-lo de manera que **«no interfereixi en la pràctica d'altres esports»**.
+
+**El que ha canviat en trenta-dos anys és qui hi entra i amb quina protecció.**
+El de **2025** fa l'activitat **obligatòria per a la primera ensenyança andorrana,
+l'élémentaire francès i la primària espanyola**, i **opcional** per a la segona
+ensenyança andorrana, el collège francès i la secundària espanyola —**els tres
+sistemes educatius del país, no només l'andorrà**. Hi afegeix **casc homologat
+obligatori** en tot l'esquí alpí i **protector d'esquena homologat per a tots els
+alumnes**, i **material de lloguer gratuït** per als escolars les famílies dels
+quals reben ajuts socials i educatius.
+
+**I fixa les proporcions amb una divisió.** **Un monitor per cada deu alumnes**
+—«el quocient del nombre d'alumnes inscrits dividit per deu»—, **un acompanyant
+per cada deu alumnes en alpí i un per cada dotze en nòrdic**, i el monitor ha
+d'estar titulat **segons els articles 8 i 11 de la Llei del 20 de juny del 1996**
+que regula l'ensenyament de l'esquí. Hi ha fins i tot una sanció per als adults:
+**qui falti als acompanyaments obligatoris sense motiu justificat no pot demanar
+el forfet subvencionat la temporada següent**.
+
 ## Buits registrats
 
 - **Des de quan.** El reglament és de **novembre de 1993**, però la pràctica pot
   ser anterior. **Buit prioritari**: si l'esquí escolar és anterior a l'escola
-  andorrana, canvia la lectura.
+  andorrana, canvia la lectura. — **`parcial` el 17-09-2026, i la resposta és que
+  sí.** El **reglament del 1993 és el primer del [Butlletí](../../../fonts/bopa.md)**
+  —que comença el 1989—, **però el seu propi preàmbul diu que la pràctica ve de
+  molt abans**: **«El Consell General, primer, i el Govern d'Andorra després,
+  n'han fomentat la pràctica des de fa molt de temps.»** **El reglament del 1993
+  no crea l'esquí escolar: l'ordena.** `La data d'inici segueix sense document:
+  cal l'arxiu del Consell General, perquè el Butlletí no arriba tan enrere.`
 - **L'Escola Nacional Andorrana d'Esquí**: quan es crea, què hi fa, qui la
   dirigeix. La llei de 1996 en **modifica** una d'anterior que el corpus no té.
   — **`obert`, confirmat el 2026-09-14, i declarat des dels dos extrems**:
