@@ -126,8 +126,63 @@ dins de la inhabilitació per a l'exercici de drets públics.
   s'han llegit.
 - **Qui pot ser candidat** —requisits, incompatibilitats— és al capítol tercer i
   queda fora d'aquesta fitxa.
-- **El finançament electoral** té llei pròpia (Llei 43/2022, de partits polítics
-  i finançament electoral, 50 articles), també al recull i també per llegir.
+- ~~**El finançament electoral** té llei pròpia (Llei 43/2022, de partits polítics
+  i finançament electoral, 50 articles), també al recull i també per llegir.~~ —
+  **`resolt` el 17-09-2026**, llegida al [BOPA](../../../fonts/bopa.md),
+  butlletí **4 del 2023**, text consolidat
+  (`docs/raw/lleis/bopa/llei-43-2022-partits-politics-finançament.txt`).
+  **El sistema andorrà té tres canals i tots tres tenen sostre.**
+
+  **1. El que hi posen les persones.**
+
+  | | |
+  | --- | --- |
+  | **Donacions de persones físiques** | **màxim 6.000 € l'any per partit** |
+  | **Quotes i aportacions d'afiliats i simpatitzants** | **no poden superar el 10% del salari net anual de la persona**, i **han d'anar per domiciliació o ingrés nominatiu** |
+  | **Donacions anònimes** | **prohibides** |
+  | **Què compta com a donació** | **qualsevol aportació en béns o serveis sense contraprestació**, **incloses les aportacions personals dels membres i dels candidats**; **el treball voluntari, no** |
+
+  **2. El que hi posa l'Estat pel fet d'existir: la subvenció de
+  representació**, que és **l'únic finançament públic ordinari**. **Cal haver
+  concorregut a les eleccions i haver tret com a mínim el 10% dels vots emesos a
+  la circumscripció** —**encara que no s'obtingui cap escó**. Bases anuals:
+
+  | Llista | Base |
+  | --- | --- |
+  | **Nacional al Consell General** | **5.000 €** |
+  | **Parroquial al Consell General** | **1.400 €** |
+  | **Comunal** | **1.400 €** |
+
+  **I una exclusió que val la pena llegir dues vegades**: **«les candidatures
+  que no siguin presentades per cap partit polític, encara que obtinguin
+  representació al Consell General o als comuns, no poden rebre la subvenció de
+  representació».** **Es pot guanyar un escó sense partit i no es cobra per
+  tenir-lo.**
+
+  **3. El que l'Estat paga per l'elecció mateixa**, i **es paga per resultat**:
+
+  | | Generals | Comunals |
+  | --- | --- | --- |
+  | **Per escó o lloc de conseller obtingut** | **150 €** | **30 €** |
+  | **Per vot aconseguit** | **5 €** | **5 €** |
+
+  **Amb un topall que no és de xifra sinó de prova**: **la subvenció «no serà
+  superior, en cap cas, a la xifra de despeses electorals declarades i
+  justificades pel Tribunal de Comptes».** **Qui gasta menys del que li tocaria,
+  cobra menys.**
+
+  **I el control el fa el Tribunal de Comptes**, que **si troba despeses sense
+  justificar ordena tornar la subvenció**, **descomptant-la de la següent** i,
+  si cal, **repartida en diversos exercicis**, **mesurada «tenint en compte els
+  avantatges derivats de l'actuació il·lícita del partit».**
+
+  **Dues coses que això canvia per a aquesta fitxa.** **Que el vot té preu
+  literal** —**cinc euros**, guanyi o perdi la candidatura— i **per tant el
+  recompte no només reparteix escons: reparteix diners.** **I que el llindar del
+  10% funciona com un segon sistema electoral en paral·lel al d'escons**, **amb
+  un efecte que cap article d'aquesta fitxa recollia: un partit pot no tenir
+  representació i cobrar, i una candidatura sense partit pot tenir-ne i no
+  cobrar.**
 - **Si el sorteig de l'article 61.3 s'ha fet servir mai**, no consta.
 - **Per què es va fixar 28 i no més**, tampoc: la llei dona el número i no el
   motiu.
