@@ -152,6 +152,60 @@ sustentant-se principalment de l'art (article 3.3).
   reglament i **no són al corpus**.
 - **Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes
   persones al Servei d'Ocupació, no consta.
-- **La Llei de la seguretat i la salut en el treball** (34/2008, 47 articles) és
-  al recull i **queda per llegir**.
+- ~~**La Llei de la seguretat i la salut en el treball** (34/2008, 47 articles) és
+  al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**, llegida
+  sencera (`docs/raw/lleis/seguretat-salut-treball.txt`). **L'article que toca
+  aquesta fitxa és el 29, i diu exactament el que calia saber:**
+
+  > «Els treballadors amb relacions laborals **de durada determinada o de
+  > temporada** i els contractats per empreses de treball temporal **han de
+  > gaudir del mateix nivell de protecció pel que fa a seguretat i salut que la
+  > resta de treballadors** de l'empresa en què desenvolupen la seva feina»
+  > (article 29.1).
+
+  **En el treball temporal, la responsabilitat es parteix i està escrita**
+  (article 29.2): **l'empresa usuària respon de les condicions d'execució de la
+  feina**, i **l'empresa de treball temporal, de la formació i de la vigilància
+  de la salut**. **Perquè pugui fer-ho, l'usuària li ha de lliurar l'avaluació
+  de riscos i els documents del lloc a cobrir.** **La temporada no rebaixa la
+  protecció; reparteix qui en respon.**
+
+  **Dues proteccions més que aquesta fitxa no tenia.** **Embaràs** (article 31):
+  si l'avaluació revela risc, **cal adaptar les condicions o l'horari,
+  incloent-hi no treballar de nit**; si l'adaptació no basta, **canvi de lloc**,
+  i **l'empresari ha de tenir feta la llista de llocs exempts de risc**; i si
+  el canvi no és possible, **suspensió del contracte per risc durant
+  l'embaràs**. **Menors** (article 32): **avaluació del lloc abans
+  d'incorporar-s'hi**, **que ha de tenir en compte «la immaduresa, la manca
+  d'experiència per avaluar els riscos i el desenvolupament encara
+  incomplet»**, i **examen mèdic anual obligatori** amb els certificats
+  arxivats tres anys.
+
+  **El barem de multes va de 30 € a 100.000 €** (article 42), en nou graus:
+
+  | Infracció | Mínim | Mitjà | Màxim |
+  | --- | --- | --- | --- |
+  | **Lleu** | 30-300 € | 301-600 € | 601-1.000 € |
+  | **Greu** | 1.101-2.000 € | 2.001-5.000 € | 5.001-10.000 € |
+  | **Molt greu** | 10.001-20.000 € | 20.001-50.000 € | **50.001-100.000 €** |
+
+  **Hi ha un salt no cobert entre 1.000 i 1.101 euros**: **la llei acaba les
+  lleus a 1.000 € i comença les greus a 1.101 €.** **Cent un euros que cap grau
+  no abasta.** **Comprovat contra el text original del
+  [BOPA](../../../fonts/bopa.md) del 20-01-2009**
+  (`docs/raw/lleis/bopa/llei-34-2008-seguretat-salut-treball.txt`): **el salt
+  hi és des del dia de la publicació i no és cap defecte de còpia.** **Divuit
+  anys sense esmenar.** `Requereix saber si alguna correcció d'errata
+  posterior hi va tocar; a la cerca del BOPA no n'apareix cap.`
+
+  **I les infraccions prescriuen molt de pressa** (article 41): **sis mesos
+  les lleus, un any les greus, dos anys les molt greus**, comptats des que
+  cessa l'acció o l'omissió. **L'inici d'una inspecció suspèn el termini.**
+
+  **I la potestat que de debò atura una obra** és l'article 46: **si la
+  Inspecció de Treball veu «un risc greu i imminent», pot ordenar l'aturada
+  immediata dels treballs**, **sense expedient previ**. **L'empresari ho ha de
+  comunicar de seguida al delegat i a tots els treballadors afectats**, i **el
+  recurs va al ministeri, que ha de resoldre en tres dies hàbils**. **La mesura
+  s'aixeca «immediatament» quan s'acredita la correcció.**
 - **El Consell Econòmic i Social** segueix sense fitxa al corpus.
