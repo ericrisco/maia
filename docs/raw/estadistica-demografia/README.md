@@ -20,12 +20,29 @@ Notes del **Departament d'Estadística** del Govern d'Andorra.
 | `a004-moviment-natural-20260518` | **A004 + A006 + A007**: moviment natural, matrimonis i divorcis, indicadors demogràfics | any 2025 | 18-05-2026 |
 | `a008-esperanca-de-vida-20260102` | **A008. Esperança de vida** | any 2024 | 02-01-2026 |
 | `a009-adquisicions-nacionalitat-20260727` | **A009. Adquisicions de nacionalitat andorrana** | 2n trimestre 2026 | 27-07-2026 |
-| `a010-estrangers-permis-20260817` | **A010. Estrangers amb permís de residència** | — | 17-08-2026 |
+| `a010-a020-permisos-i-autoritzacions-20260817` | **A010. Estrangers amb permís de residència** + **A020. Autoritzacions de treball** | febrer-abril 2026 | 17-08-2026 |
 | `a013-llars-20260723` | **A013. Llars** | 2n trimestre 2026 | 23-07-2026 |
 | `a015-projeccions-20260203` | **A015. Projeccions de població 2025-2040** | — | 03-02-2026 |
 
 El calendari sencer de cada activitat és a
 `02-DOCS/raw/operations/calendari-estadistica-2026-09-17.md`.
+
+## Els permisos en vigor a 30-04-2026 (A010 + A020)
+
+| Tipus | En vigor | Var. anual |
+| --- | --- | --- |
+| Residència i treball | **43.155** | +2,0% |
+| Residència | **10.345** | +3,3% |
+| **Treball fronterer** | **1.966** | +3,2% |
+| Treball temporal | **4.099** | +4,8% |
+| Treball temporal per a empreses estrangeres | **203** | +4,1% |
+
+**Els 1.966 fronterers són la xifra oficial de qui treballa a Andorra amb permís
+i no hi resideix.** No surt de cap estadística de població —per això el corpus la
+donava per inexistent— sinó **del registre d'autoritzacions de treball**.
+
+**Les autoritzacions temporals d'hivern hi són comptades**, encara que tinguin
+publicacions pròpies.
 
 ## Un exemple més de codi compost
 

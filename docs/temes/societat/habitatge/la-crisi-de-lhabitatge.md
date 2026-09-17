@@ -213,8 +213,19 @@ mercat lliure.**
   notes es publiquen a sig.govern.ad amb el patró
   Files/Documents/Notes_premsa_noticies/<CODI>_<DATA>_A.pdf i la secció és
   «Habitatges i edificis».`
-- **Quanta gent treballa a Andorra i viu fora, xifra oficial.** — **`obert`, i
-  ara se sap que probablement no existeix.** **El corpus té la raó
+- ~~**Quanta gent treballa a Andorra i viu fora, xifra oficial.**~~ — **`resolt`
+  el 17-09-2026, i la conclusió anterior era equivocada: la xifra existeix.**
+  **A 30 d'abril del 2026 hi havia 1.966 permisos de treball fronterer en
+  vigor**, un **+3,2%** en un any, i **65 de nous** acordats entre el febrer i
+  l'abril del 2026. Font: nota **A010 + A020** del Departament d'Estadística del
+  **17-08-2026**
+  (`raw/estadistica-demografia/a010-a020-permisos-i-autoritzacions-20260817.txt`).
+  **El que el corpus havia raonat segueix sent cert i era una altra pregunta**:
+  **els recomptes de població no els fixen**, però **el registre
+  d'autoritzacions de treball sí que els compta**, perquè el permís de
+  fronterer és un tipus d'autorització propi. `Segueix obert quanta gent hi
+  treballa sense permís de fronterer i viu fora igualment.` El raonament
+  anterior es conserva perquè explica per què no es trobava: **El corpus té la raó
   estadística i la raó històrica del buit, per separat:**
   1. **Els fronterers són justament la categoria que els recomptes andorrans no
      fixen.** El **registre estadístic de població** té un concepte «tan ampli

@@ -158,6 +158,47 @@ habitatge»**. **Andorra no és estat membre de la Unió Europea i no hi està
 obligada**: el Departament d'Estadística n'adopta el concepte per
 comparabilitat, no per obligació.
 
+## Quanta gent hi ha en els marges del registre
+
+El registre estadístic de població té un concepte «tan ampli que fins i tot pot
+arribar a incloure» **fronterers** i **permisos temporals**. Fins ara el corpus
+no sabia de quantes persones parlava. **Sí que es quantifiquen per separat**, i
+no a l'estadística de població sinó a la d'**autoritzacions de treball**
+(activitat **A020**, publicada conjuntament amb l'**A010**). **A 30 d'abril del
+2026, en vigor:**
+
+| Tipus d'autorització | En vigor | Variació anual |
+| --- | --- | --- |
+| **Residència i treball** | **43.155** | +2,0% |
+| **Residència** (sense treball) | **10.345** | +3,3% |
+| **Treball fronterer** | **1.966** | **+3,2%** |
+| **Treball temporal** | **4.099** | +4,8% |
+| **Treball temporal per a empreses estrangeres** | **203** | +4,1% |
+
+**Els marges del registre són, doncs, uns 6.268 permisos** —fronterers, temporals
+i d'empreses estrangeres sumats—, contra **53.500 de residència**. **Una de cada
+deu autoritzacions en vigor (el 10,5%) és d'un tipus que el recompte de població
+pot incloure o no.**
+
+**I els fronterers són 1.966.** Aquesta és **la xifra oficial de gent que treballa
+a Andorra amb permís i no hi resideix**, que el corpus donava per inexistent
+([la crisi de l'habitatge](../habitatge/la-crisi-de-lhabitatge.md)). **No la
+donava cap estadística de població perquè no és una estadística de població: és
+un recompte de permisos.**
+
+**Un avís de la font sobre què hi ha inclòs**: les **autoritzacions temporals
+d'hivern** —que autoritzen a treballar **i a residir** temporalment— **estan
+comptabilitzades en aquesta publicació** encara que siguin objecte de
+publicacions específiques. **La temporada d'esquí, doncs, és dins d'aquests
+4.099.**
+
+**El flux, per contrast amb l'estoc.** Entre el **febrer i l'abril del 2026** es
+van acordar **1.284 autoritzacions inicials**, un **−22,2%** respecte del mateix
+període anterior: **515 de residència i treball** (−43,1%), **352 de residència**
+(−12,4%), **65 de fronterer** (−11,0%), **197 de treball temporal** (**+72,8%**)
+i **116 per a empreses estrangeres** (+9,4%). **L'estoc creix i el flux cau**, i
+**l'única categoria que creix amb força en altes noves és la temporal.**
+
 ## Buits registrats
 
 - **La pregunta «Andorra ha adoptat mai una definició estadística de resident,
@@ -222,9 +263,13 @@ comparabilitat, no per obligació.
 - No s'ha comprovat si el cens estadístic de població s'ha desplegat després
   de la redacció d'aquesta metodologia. El futur del verb acredita l'estat en
   el document, no l'estat del país el 2026.
-- No s'ha trobat en aquesta lectura quantes persones afecten els segments que
+- ~~No s'ha trobat en aquesta lectura quantes persones afecten els segments que
   el registre estadístic «pot arribar a incloure» —fronterers i permisos de
-  residència temporal—, ni si alguna publicació els quantifica per separat.
+  residència temporal—, ni si alguna publicació els quantifica per separat.~~ —
+  **`resolt` el 17-09-2026: sí que es quantifiquen per separat**, i no a
+  l'estadística de població sinó a l'**A020 d'autoritzacions de treball**. Vegeu
+  [Quanta gent hi ha en els marges del registre](#quanta-gent-hi-ha-en-els-marges-del-registre).
+  **1.966 fronterers, 4.099 temporals i 203 d'empreses estrangeres.**
 - ~~El Reglament 763/2008 i el recull internacional de recomanacions dels censos
   que l'annex esmenta no s'han consultat en original. La redacció de l'annex
   és la del Departament.~~ — **`parcial` el 17-09-2026**: **el Reglament sí que
