@@ -221,9 +221,19 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 - **Si el decret del 1919 es va derogar**, i quan. **Prioritari.**
 - **Els dos anys sense sagraments** de l'època Casañas: dates i abast.
   **Prioritari.**
-- ***El Principado de Andorra y su constitución política***, de **Pallerola**:
-  any exacte i edició. **És el mateix Pallerola** que dona la xifra de **6.100
-  habitants el 1912** ([les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md)).
+- ~~***El Principado de Andorra y su constitución política***, de **Pallerola**:
+  any exacte i edició.~~ — **`resolt` el 17-09-2026** des de la bibliografia de
+  la [síntesi d'actes del Consell
+  General](../../../fonts/actes-historiques-consell-general.md): **Pallerola i
+  Gabriel, Francesc (1912). *El Principado de Andorra y su constitución
+  política*. Lleida: Sol y Benet.**
+
+  **L'any de l'edició és el mateix any del cens que dona**: **el llibre i la
+  xifra de 6.100 habitants són del 1912**
+  ([les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md)).
+  **Escriu-lo essent veguer episcopal en actiu i publicar-lo a Lleida** no és un
+  detall menor per a una obra que defensa la censura: **no és un tractat
+  d'Andorra estant.**
 - **La col·lecció de «Les Valls d'Andorra»**, 1917 i 1919.
 - **Què va passar als detinguts** del segrest.
 - **El Cadí**, la revista de FHASA.

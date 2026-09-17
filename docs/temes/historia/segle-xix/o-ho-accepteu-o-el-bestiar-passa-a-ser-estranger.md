@@ -241,7 +241,21 @@ Trias invoca.**
    General i els seus síndics. **La font els invoca en bloc i no en data ni en
    nomena cap.** **Prioritari per a l'àmbit de relacions exteriors.**
 9. ***Constitución política y personal internacional del Principado de Andorra***,
-   de **Joan de Déu Trias** (1890). **No és al corpus.**
+   de **Joan de Déu Trias** (1890). **No és al corpus** —**`parcial` des del
+   17-09-2026**: **l'obra ja té referència completa i el títol que el corpus en
+   dona és inexacte.**
+
+   **La bibliografia de la [síntesi d'actes del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) la fitxa així**:
+   **Trias i Giró, Joan de Déu (1890). *Constitución política y personalidad
+   internacional del Principado de Andorra*. Barcelona: Subirana Hermanos.**
+
+   **És *personalidad internacional*, no *personal internacional*** —i la
+   diferència no és ortogràfica: **la personalitat internacional és
+   exactament la tesi del llibre.** **El corpus arrossega la forma errònia en
+   tres fitxes** i **en té la bona en dues més**
+   ([definir el costum és legislar](../../institucions/consell-general/definir-el-costum-es-legislar.md)).
+   `Requereix el text; la referència ja no.`
 10. ***Étude critique sur les origines de la question d'Andorre***, de **Brutails**.
     **Segona vegada que surt i segueix sense trobar-se.** **Prioritari.**
 11. **Els actes de sobirania de Carles el Calb del 860** sobre Andorra. **Citats

@@ -166,7 +166,17 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    una línia. **Buit gran i molt tancable.**
 2. **Quin Vilar** (vegeu més amunt).
 3. **La tesi doctoral de Nemesi Marquès**, que Massa invoca com a autoritat i el
-   corpus no té.
+   corpus no té. — **`parcial` el 17-09-2026**: **el que se'n va publicar ja té
+   referència**, des de la bibliografia de la [síntesi d'actes del Consell
+   General](../../../fonts/actes-historiques-consell-general.md): **Marquès,
+   Nemesi (2021). *La Constitució del Principat d'Andorra: la resposta als
+   reptes de les institucions preconstitucionals en el segle XX (1930-1993)*.
+   Publicacions de l'Abadia de Montserrat.**
+
+   **La síntesi la presenta com «l'obra més recent i amb un bon aparell
+   documental» sobre la Reforma de les Institucions**, i **el subtítol diu de
+   què va**: **no de la sobirania en abstracte sinó de seixanta-tres anys
+   concrets, del 1930 al 1993.** `Requereix el volum; la referència ja no.`
 4. **El pròleg de Porcioles** a l'edició del Manual Digest, citat dues vegades.
 5. **Les reformes de 1978 i 1981**: el corpus no en té fitxa pròpia, i aquí
    consten com a actes constituents.
