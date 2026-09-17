@@ -1,0 +1,558 @@
+                                   A029. Indicadors de l’educació. Any 2024
+                                     Data de publicació: dimarts, 16/12/2025
+                                              www.estadistica.ad
+
+
+         Resum
+
+         El present informe té com a objectiu sintetitzar una sèrie d’indicadors en matèria d’educació al
+         Principat d’Andorra que fan referència a àmbits com el nombre d’alumnes, nombre de beques,
+         import d’aquestes per nivell educatiu, així com de la població per nivell d’estudis, entre altres.
+         Es presenten dades del curs 2024/2025 i la seva evolució amb relació als cursos anteriors, i es
+         fa èmfasi en les variacions respecte al curs anterior i a quatre cursos anteriors.
+         Nota: Les dades proporcionades pel Ministeri d’Educació del Govern d’Andorra pels cursos
+         acadèmics 2022-2023 i 2023-2024 reflecteixen un augment atípic quant al nombre d’estudiants
+         matriculats en educació superior a Andorra respecte als cursos anteriors. Aquest augment
+         s’explica, principalment, pel fet que un dels centres educatius ha augmentat les titulacions
+         ofertes.
+
+
+
+
+NP_A029_20251216                                                                                          Pàgina 1 de 10
+                                            A029. Indicadors de l’educació. Any 2024
+
+
+
+         Índex
+         1.   Alumnes per nivell educatiu .................................................................................................. 3
+         2.   Beques per nivell educatiu .................................................................................................... 4
+         3.   Import de les beques per nivell educatiu ............................................................................... 5
+         4.   Despesa pública en educació per nivell educatiu ................................................................. 6
+         5.   Població per nivell d’estudis .................................................................................................. 7
+         6.   Alumnes de formació professional i ensenyament superior per camp educatiu ................... 8
+         7.   Nota metodològica............................................................................................................... 10
+         8.   Dates de publicacions previstes .......................................................................................... 10
+
+
+
+
+NP_A029_20251216                                                                                                                               Pàgina 2 de 10
+                                                  A029. Indicadors de l’educació. Any 2024
+
+
+         1. Alumnes per nivell educatiu
+
+         Durant el curs acadèmic 2024/2025 hi ha hagut un total de 13.509 alumnes en els centres
+         escolars del país. Això significa una disminució del 6,2% en comparació al curs anterior i un
+         augment del 16,5% en relació amb el curs 2020/2021.
+         Entre els nivells educatius que presenten variacions relatives positives respecte al curs anterior,
+         destaquen Màster amb un +38,1% i Doctorat amb un +29,0%. Amb variacions negatives
+         destaquen Ensenyament superior de cicle curt amb un -31,8%, i Bàtxelor amb un -29,6%.
+         Quant a les variacions respecte a quatre cursos acadèmics enrere, l’augment més destacat es
+         dona en els alumnes de Bàtxelor amb un +251,5% i la reducció més gran es dona en els
+         alumnes de Maternal amb un -6,3%.
+
+
+         Alumnes per nivell educatiu                      2020/2021           2021/2022           2022/2023       2023/2024         2024/2025    Var. anual
+         Maternal                                             1.997               1.896               1.966           1.909             1.871         -2,0%
+         Primera ensenyança                                   4.110               4.099               4.271           4.218             4.172         -1,1%
+         Segona ensenyança                                    3.158               3.226               3.422           3.505             3.416         -2,5%
+         Batxillerat                                          1.122               1.106               1.108           1.225             1.274          4,0%
+         Formació professional                                  551                 592                 554             534               545          2,1%
+         Ensenyament sup. de cicle curt                          12                  10                  38              43                29       -31,8%
+         Bàtxelor                                               563               1.340               2.517           2.808             1.977       -29,6%
+         Màster                                                  54                 102                 115             134               185        38,1%
+         Doctorat                                                27                  32                  32              31                40        29,0%
+         Total                                               11.593              12.402              14.022          14.406            13.509         -6,2%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+                                                               Alumnes per nivell educatiu
+              4.500
+
+              4.000
+
+              3.500
+
+              3.000
+
+              2.500
+
+              2.000
+
+              1.500
+
+              1.000
+
+                500
+
+                   0
+
+
+
+
+                                                   2020/2021       2021/2022        2022/2023       2023/2024    2024/2025
+
+
+
+
+         Si classifiquem els nivells educatius en grans grups, els alumnes de Pre-ensenyament superior
+         i formació professional han estat 11.278 en el curs acadèmic 2024/2025, un -1,0% en
+         comparació al curs anterior. A més, en el curs 2024/2025, els alumnes d’Ensenyament superior
+         han estat 2.231, un -26,0% en relació amb el curs acadèmic anterior.
+
+
+          Alumnes per nivell educatiu                            2020/2021            2021/2022           2022/2023           2023/2024         2024/2025
+          Pre-ens. sup. i formació professional                     10.938               10.919              11.321              11.391            11.278
+          Variació anual                                             -0,6%                -0,2%                3,7%                0,6%             -1,0%
+          Ensenyament superior                                         655                1.483               2.701               3.015              2.231
+          Variació anual                                              0,3%              126,4%               82,1%               11,6%             -26,0%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+         Nota: Es compatibilitzen els alumnes del BTS Compte de Foix
+
+
+
+
+NP_A029_20251216                                                                                                                                         Pàgina 3 de 10
+                                                 A029. Indicadors de l’educació. Any 2024
+
+
+
+         2. Beques per nivell educatiu
+
+         Durant el curs acadèmic 2024/2025 s’han atorgat un total de 4.115 beques d’estudi. Això
+         significa una reducció del 9,3% en comparació al curs anterior i una reducció del 17,4% si es
+         compara amb les xifres del curs 2020/2021. El nivell educatiu amb un major nombre de beques
+         atorgades ha estat Primera ensenyança amb un total de 1.734 beques. Cal tenir en compte que
+         aquesta xifra comptabilitza els ajuts al lloguer del material d’esquí. El nivell educatiu que ha
+         rebut el menor nombre de beques durant el curs ha estat Universitaris de segon cicle amb un
+         total de 56.
+         Quant a les variacions anuals, són totes negatives, ja que s’han atorgat menys beques
+         respecte a l’any anterior en tots els nivells educatius. Universitaris de segon cicle és el nivell
+         que més ha disminuït el nombre de beques amb relació al curs passat, un -32,5%. Si es
+         compara el curs 2024/2025 amb el 2020/2021, el nombre de beques també ha disminuït en tots
+         els nivells i Formació professional no superior és el que té una major diferència percentual amb
+         un -40,4% (105 beques menys).
+
+
+         Beques per nivell educatiu                        2020/2021          2021/2022          2022/2023           2023/2024       2024/2025       Var. anual
+         Maternal                                                459                471                496                 426             361          -15,3%
+         Primera ensenyança                                    1.839              1.850              1.780               1.738           1.734            -0,2%
+         Segona ensenyança                                     1.136              1.160              1.019               1.073             912          -15,0%
+         Batxillerat                                             360                324                225                 286             256          -10,5%
+         Form. profess. no sup.                                  260                252                169                 176             155          -11,9%
+         Formació professional                                   104                117                 54                  98              91            -7,1%
+         Universitaris 1r cicle                                  750                746                691                 658             550          -16,4%
+         Universitaris 2n cicle                                   73                 98                106                  83              56          -32,5%
+         Total                                                 4.981              5.018              4.540               4.538           4.115            -9,3%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+                                                                Beques per nivell educatiu
+             2.000
+
+             1.750
+
+             1.500
+
+             1.250
+
+             1.000
+
+               750
+
+               500
+
+               250
+
+                  0
+
+
+
+
+                                                   2020/2021       2021/2022       2022/2023      2023/2024      2024/2025
+
+
+
+
+         Si agrupem els nivells educatius, s’han destinat 3.418 beques a estudiants de
+         Pre-ensenyament superior i formació professional, un -7,6% en comparació al curs acadèmic
+         anterior. En el curs acadèmic 2024/2025, les beques que s’han destinat a l’Ensenyament
+         superior han estat 697, un -16,9% en relació amb l’anterior. Respecte al curs 2020/2021, la
+         variació també és negativa, d’un 24,8%.
+
+
+            Beques per nivell educatiu                           2020/2021           2021/2022          2022/2023            2023/2024           2024/2025
+            Pre-ens. i formació professional                         4.054               4.057               3.689               3.699                3.418
+            Variació anual                                           -1,6%                0,1%              -9,1%                 0,3%               -7,6%
+            Ensenyament superior                                       927                 961                 851                 839                  697
+            Variació anual                                           -1,6%                3,7%             -11,4%                -1,4%              -16,9%
+            Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+NP_A029_20251216                                                                                                                                              Pàgina 4 de 10
+                                                 A029. Indicadors de l’educació. Any 2024
+
+
+         3. Import de les beques per nivell educatiu
+
+         Al llarg del curs acadèmic 2024/2025 s’han atorgat un total de 2.348.716,00 € en beques per a
+         l’estudi. Aquesta xifra és un 11,8% inferior a l’import que es va atorgar en el curs acadèmic
+         anterior. En canvi, és un 79,6% major respecte al curs 2020/2021. El nivell d’estudis que va
+         rebre un major import va ser Universitaris de primer cicle amb un total de 875.489,83 €, mentre
+         que el menor import va ser per Formació professional no superior amb 56.664,78 €.
+         Quant a les variacions anuals, Formació professional és l’únic nivell educatiu que ha tingut un
+         augment relatiu en l’import de les beques amb un +1,4%. La reducció més gran en l’import es
+         troba en el nivell Universitaris de segon cicle amb un -25,2%. En comparació amb quatre
+         cursos enrere, Primera ensenyança ha vist augmentat l’import de les beques en un 5,2%,
+         mentre que Formació professional no superior l’ha vist reduït en un 32,7%.
+
+
+         Import beques per nivell educatiu                 2020/2021          2021/2022           2022/2023          2023/2024          2024/2025    Var. anual
+         Maternal                                        171.499,30 €       184.915,62 €        187.188,19 €       170.474,97 €       158.653,95 €        -6,9%
+         Primera ensenyança                              497.856,73 €       490.549,99 €        548.727,43 €       554.546,19 €       523.678,37 €        -5,6%
+         Segona ensenyança                               419.035,78 €       427.392,44 €        434.519,53 €       467.317,32 €       400.917,21 €      -14,2%
+         Batxillerat                                     135.066,47 €       128.169,21 €        107.812,59 €       145.217,61 €       126.334,15 €      -13,0%
+         Form. profess. no sup.                           84.221,00 €        82.609,20 €         66.378,06 €        68.320,06 €        56.664,78 €      -17,1%
+         Formació professional                           129.896,26 €       149.493,36 €         60.053,67 €       118.983,02 €       120.660,83 €         1,4%
+         Universitaris 1r cicle                        1.145.510,87 €     1.128.396,11 €      1.245.787,74 €     1.023.240,24 €       875.489,83 €      -14,4%
+         Universitaris 2n cicle                          120.592,99 €       153.460,69 €        141.904,30 €       115.410,71 €        86.316,88 €      -25,2%
+         Total                                         1.307.679,28 €     2.744.986,62 €      2.792.371,51 €     2.663.510,12 €     2.348.716,00 €      -11,8%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+                                                    Import de les beques per nivell educatiu
+             1.400.000 €
+
+             1.200.000 €
+
+             1.000.000 €
+
+               800.000 €
+
+               600.000 €
+
+               400.000 €
+
+               200.000 €
+
+                       0€
+
+
+
+
+                                                        2020/2021       2021/2022          2022/2023      2023/2024      2024/2025
+
+
+
+
+         Si classifiquem els nivells educatius en grans grups, s’han destinat 1.266.248,46 € a beques de
+         Pre-ensenyament superior i formació professional, és a dir, un -9,9% en comparació al curs
+         acadèmic anterior. L’import que s’ha destinat a l’Ensenyament superior ha estat d’1.082.467,54
+         €, és a dir, un -13,9% amb relació al curs acadèmic anterior.
+
+
+             Beques per nivell educatiu                          2020/2021           2021/2022             2022/2023          2023/2024          2024/2025
+             Pre-ens. i formació professional                1.307.679,28 €      1.313.636,46 €        1.344.625,80 €     1.405.876,15 €     1.266.248,46 €
+             Variació anual                                          -1,0%                0,5%                  2,4%               4,6%              -9,9%
+             Ensenyament superior                            1.396.000,12 €      1.431.350,16 €        1.447.745,71 €     1.257.633,97 €     1.082.467,54 €
+             Variació anual                                           7,5%                2,5%                  1,1%             -13,1%             -13,9%
+             Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+NP_A029_20251216                                                                                                                                              Pàgina 5 de 10
+                                                  A029. Indicadors de l’educació. Any 2024
+
+
+         4. Despesa pública en educació per nivell educatiu
+
+         La despesa pública de Govern en Educació pel curs acadèmic 2024/2025 ha estat de
+         124.158.812,01 €. Aquesta xifra és un 3,7% superior a la del curs anterior i un 8,7% superior a
+         la del curs 2020/2021. El nivell educatiu que ha rebut un major import ha estat Primera
+         ensenyança amb un total de 33,4 milions d’euros. Aquesta xifra és un 2,1% i un 7,1% superior
+         a la del curs anterior i a la del curs 2020/2021, respectivament. D’altra banda, el nivell educatiu
+         que ha rebut l’import més baix ha estat Formació professional amb 5,6 milions d’euros. Aquesta
+         xifra disminueix en un 1,0% respecte a la del curs anterior i augmenta en un 12,7% respecte a
+         la de quatre cursos enrere.
+
+
+         Despesa pública en educacio per nivell
+                                                           2020/2021          2021/2022           2022/2023          2023/2024          2024/2025    Var. anual
+         educatiu
+         Escoles bressol                              7.401.484,67 €     8.123.573,74 €       6.105.611,76 €     6.678.690,60 €     7.106.407,83 €        6,4%
+         Maternal                                    15.957.103,25 €    15.847.691,10 €      15.523.083,04 €    15.652.323,58 €    16.225.090,76 €        3,7%
+         Primera ensenyança                          31.137.845,02 €    32.580.127,54 €      32.036.575,13 €    32.659.643,73 €    33.351.660,93 €        2,1%
+         Segona ensenyança                           28.697.370,44 €    26.457.102,85 €      25.879.105,46 €    27.751.809,01 €    28.219.057,20 €        1,7%
+         Formació professional                        4.940.435,58 €     5.220.684,31 €       5.040.968,15 €     5.621.097,38 €     5.565.938,60 €       -1,0%
+         Batxillerat                                  7.831.345,37 €     8.256.497,64 €       8.086.612,26 €     9.007.130,31 €     9.460.529,75 €        5,0%
+         Ensenyament superior                         5.937.763,40 €     6.315.658,60 €       6.723.979,18 €     6.927.222,11 €     7.233.976,69 €        4,4%
+         No imputable cap niv. edu.                  12.346.502,52 €    13.229.000,66 €      12.255.298,25 €    15.403.618,60 €    16.996.150,25 €       10,3%
+         Total                                      114.249.850,25 €   116.030.336,44 €     111.651.233,23 €   119.701.535,32 €   124.158.812,01 €        3,7%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+                                              Despesa pública en Educació per nivell educatiu
+             35.000.000 €
+
+             30.000.000 €
+
+             25.000.000 €
+
+             20.000.000 €
+
+             15.000.000 €
+
+             10.000.000 €
+
+              5.000.000 €
+
+                       0€
+
+
+
+
+                                                       2020/2021       2021/2022          2022/2023     2023/2024       2024/2025
+
+
+
+
+NP_A029_20251216                                                                                                                                              Pàgina 6 de 10
+                                                       A029. Indicadors de l’educació. Any 2024
+
+
+         5. Població per nivell d’estudis
+
+         En aquest apartat s’analitza el nivell educatiu màxim assolit per la població d’Andorra. Cal tenir
+         en compte que les dades s’han obtingut a través de l’Enquesta de Pressupostos Familiars.
+         L’any 2024, del total de la població d’Andorra, un 42,6% declarava haver assolit una titulació
+         inferior a la d’estudis equivalents a l’Ensenyança secundària, mentre que el 57,3% restant
+         declarava haver superat aquest nivell de formació. Un 33,5% del total de la població del 2024
+         havia obtingut un títol d’Ensenyament superior.
+
+         Respecte a l’any anterior (2023), la població d’Andorra ha augmentat el seu nivell d’estudis,
+         motivat principalment pel creixement en 3,0 punts percentuals de la proporció de la població
+         amb estudis superiors. Per contra, la proporció de la població que declarava no tenir estudis es
+         redueix en 0,8 punts percentuals.
+
+
+         Població per nivell d'estudis                                                              2020    2021        2022       2023       2024    Var. anual
+         Educació preescolar o estudis primaris incomplerts o sense estudis                        10,3%   10,3%       10,3%      10,3%       9,5%         -7,8%
+         Estudis primaris (1a-6a / CP-CM2)                                                         17,4%   16,8%       16,0%      13,7%      11,2%       -18,2%
+         1r cicle de secundària (fins escolarització obligatoria) i similar                        21,6%   20,5%       21,4%      22,3%      21,9%         -1,8%
+         2n cicle de secundària (Batxillerat, FP grau mig)                                         21,9%   20,7%       21,1%      22,4%      23,8%          6,3%
+         Educació postsecundària no-terciari (programes per la pràctica professional)               0,0%    1,8%        2,0%       0,8%       0,0%      -100,0%
+         FP grau superior i títols propis d'universitats (>= 2anys)                                10,0%   11,1%        8,6%       6,1%       6,4%          4,9%
+         Grau universitaris de 240 crèdits ECTS, diplomats universitaris                            8,2%    9,4%        9,9%      11,8%      15,3%        29,7%
+         Grau universitari de més de 240 ECTS, llicenciats, màsters                                10,7%    9,1%       10,1%      12,1%      11,2%         -7,4%
+         Doctorat o equivalent                                                                      0,0%    0,3%        0,5%       0,5%       0,6%        20,0%
+         Font: Enquesta de Pressupostos Familiars
+
+
+
+
+                                                                         Població per nivell d'educació
+
+               100%
+
+                90%
+                                   28,9%                         29,9%                     29,1%                    30,5%                  33,5%
+                80%
+
+                70%
+
+                60%
+
+                50%                43,5%                         43,0%                     44,5%                    45,5%
+                                                                                                                                           45,7%
+                40%
+
+                30%
+
+                20%
+                                   27,7%                         27,1%                     26,3%                    24,0%
+                10%                                                                                                                        20,7%
+
+                  0%
+                                 2020/2021                     2021/2022                 2022/2023             2023/2024                  2024/2025
+
+
+                               Sense estudis o estudis primaris                  2a ensenyança o Batx./FPNS o FPS           Ensenyament superior
+
+
+
+
+         Un altre dels indicadors útils per valorar el nivell educatiu de la població és el percentatge de
+         població entre 30 i 34 anys amb estudis superiors finalitzats. Per a l’any 2024, el valor és del
+         59,0%.
+
+
+
+
+NP_A029_20251216                                                                                                                                               Pàgina 7 de 10
+                                                  A029. Indicadors de l’educació. Any 2024
+
+
+         6. Alumnes de formació professional i ensenyament superior per camp educatiu
+
+         En el curs acadèmic 2024/2025 hi va haver un total de 526 persones matriculades a formació
+         professional, és a dir, un +2,1% en comparació al curs acadèmic anterior. Si comparem les
+         dades amb el curs 2020/2021, la variació també és positiva, d’un 0,6%. El sistema andorrà és,
+         amb diferència, el que té més alumnes matriculats (314), seguit del francès (212). En aquest
+         període no hi ha cap alumne matriculat al sistema espanyol de formació professional.
+         Dins el sistema andorrà, l’especialitat amb més alumnes matriculats ha estat Activitats
+         esportives amb el 26,4% del total d’estudiants matriculats en aquest sistema, seguida
+         d’Informàtica amb un 25,2%. L’especialitat amb menys alumnes matriculats en el sistema del
+         país ha estat Administració amb 32 estudiants matriculats (10,2%).
+         Quant a les variacions anuals, l’especialitat del sistema andorrà que ha experimentat un major
+         augment en les matriculacions respecte al curs anterior ha estat Altres amb un +25,0% i Sanitat
+         amb un +11,1%. Contràriament, l’especialitat Informàtica, amb un -21,0%, és la que més ha
+         disminuït les seves matriculacions envers el curs anterior.
+         Amb relació al curs 2020/2021, les úniques especialitats que han augmentat els alumnes
+         matriculats són Altres amb un +42,9%, Sanitat amb un +25,0% i Informàtica amb un +12,9%,.
+         Per contra, Activitats esportives i Administració, amb un -21,0% i un -15,8%, respectivament,
+         són les especialitats amb alumnes matriculats que ressalten amb variacions negatives.
+
+
+                             Escolars per sistema educatiu i especialitat.
+               Sistema                                                           2020/2021      2021/2022   2022/2023   2023/2024   2024/2025   Var. anual
+                             Formació Professional
+                             Informàtica                                                   70         77          86         100          79       -21,0%
+                             Sanitat                                                       56         58          58          63          70        11,1%
+               Andorrà       Activitats esportives                                        105        105          89          79          83         5,1%
+                             Administració                                                 38         40          34          30          32         6,7%
+                             Altres                                                        35         68          67          40          50        25,0%
+                             Hôtellerie et Restauration                                    32         31          31          34          40        17,6%
+                             Gestion et administration                                     81         75          70          71          70        -1,4%
+               Francès
+                             Commerce vente                                                53         63          56          64          63        -1,6%
+                             Altres                                                        53         43          42          34          39        14,7%
+                Total                                                                     523        560         533         515         526         2,1%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+
+NP_A029_20251216                                                                                                                                             Pàgina 8 de 10
+                                                 A029. Indicadors de l’educació. Any 2024
+
+
+
+         En el darrer curs acadèmic, el camp educatiu d’Ensenyament superior amb un major nombre
+         d’estudiants matriculats ha estat Administració d’Empreses i Dret amb 797 alumnes (del total
+         de 2.231 matriculats); aquesta xifra és un 2,9% superior a la del curs anterior i un +130,9%
+         respecte al curs 2020/2021. En canvi, el camp educatiu amb menys alumnes matriculats, sense
+         tenir en compte els que no se n’ha matriculat cap, és Serveis amb 1 alumne. En el curs
+         acadèmic 2024/2025, el camp educatiu que presenta un augment més significatiu dels alumnes
+         matriculats en comparació al curs acadèmic anterior és Tecnologies, Informació i Comunicació
+         amb un +24,6%. Per contra, Ciències Naturals, Matemàtiques i Estadística, amb un -73,3%, és
+         el que té una variació negativa més destacada.
+
+
+         Alumnes per camp educatiu
+                                                           2020/2021           2021/2022      2022/2023      2023/2024   2024/2025   Var. anual
+         (Ensenyament superior)
+         Educació                                                  66                 96            115            119          85      -28,3%
+         Arts i humanitats                                         37                 61            240            189          76      -59,7%
+         C. socials, periodisme i informació                        2                314            465            631         504      -20,1%
+         Administració d'empreses i dret                          345                489            665            774         797        2,9%
+         C. naturals, matem. i estadística                          2                 82            213            258          69      -73,3%
+         Tecnologies Informació Comunicació                       106                112            212            270         337       24,6%
+         Enginyeria, indústria i construcció                        0                234            317            339         191      -43,7%
+         Salut i benestar                                          98                 96            475            436         172      -60,6%
+         Serveis                                                    0                  0              0              0           1            -
+         Total                                                    655              1.483          2.701          3.015       2.231      -26,0%
+         Font: Dades del Departament d’Educació tractades pel Departament d’Estadística
+
+
+
+                                                     Alumnes matriculats per camp educatiu
+             800
+
+             700
+
+             600
+
+             500
+
+             400
+
+             300
+
+             200
+
+             100
+
+                0
+
+
+
+
+                                                 2020/2021       2021/2022        2022/2023   2023/2024   2024/2025
+
+
+
+
+NP_A029_20251216                                                                                                                           Pàgina 9 de 10
+                                     A029. Indicadors de l’educació. Any 2024
+
+
+
+         7. Nota metodològica
+
+
+             •     Font. Dades del Departament d’Educació, tractades i revisades pel Departament
+                   d’Estadística.
+
+             •     Definicions.
+                       - Pre-ensenyament superior i formació professional: inclou els nivells educatius
+                           de Maternal, Primera ensenyança, Segona ensenyança, Batxillerat i Formació
+                           professional no superior.
+                       - Ensenyament superior: inclou els nivells educatius de Formació professional,
+                           Universitaris de primer cicle i Universitaris de segon cicle.
+
+             •     Metodologies i referències metodològiques. Vegeu pàgina web d’estadística a
+                   l’apartat de metodologies i classificacions. http://www.estadistica.ad
+
+             •     Citació: Per qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa, preguem la citació següent: “Dades tractades pel Departament d’Estadística
+                   per a la nota de premsa referència NP_A029_20251216”.
+
+             •     Altres consideracions. A partir d’aquesta publicació, les dades d’estudis
+                   superiors/terciaris segons l’ISCED inclouen també la categoria ISCED 5, que en
+                   edicions anteriors no es comptabilitzava.
+
+             •     Marc legal: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el
+                   seu desplegament en el Programa estadístic per a l’any 2025, aquest informe dona
+                   resposta a l’activitat estadística: A029. Indicadors de l’Educació.
+
+             •     Difusió.     Dades     disponibles     al    web    www.estadistica.ad,    a     l’apartat
+                   Estadístiques/Dades/Educació i R+D/Recursos en l’educació/Indicadors sistema
+                   educatiu. Per estar informat en qualsevol moment de les noves publicacions us podeu
+                   inscriure a la nostra “Alerta informativa”. Amb l’objectiu de maximitzar la difusió de la
+                   informació estadística d’Andorra, les notes de premsa del Departament d’Estadística es
+                   podran seguir també per Twitter (actualment X).
+
+
+
+         8. Dates de publicacions previstes
+
+                   Nota de premsa A029. Indicadors de l’Educació. Any 2025: 4t trimestre del 2026
+
+
+
+
+NP_A029_20251216                                                                                           Pàgina 10 de 10
+

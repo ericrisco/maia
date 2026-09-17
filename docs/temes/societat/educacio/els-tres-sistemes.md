@@ -146,6 +146,66 @@ Evolució del nombre d'escolars per sistema (fins al 2002-03):
 Molla ho atribueix directament a la instauració de l'ensenyament andorrà el
 1982.
 
+## Vint anys després: el sistema andorrà és el primer, i n'hi ha un quart
+
+Les xifres de dalt s'aturen el **2002-03**. *Andorra en xifres 2024* publica el
+repartiment del curs **2023-2024**, amb una **població escolar d'11.372 alumnes**:
+
+| Sistema | % del curs 2023-2024 | Alumnes (càlcul del corpus) |
+| --- | --- | --- |
+| **Andorrà** | **41,33%** | ~4.700 |
+| **Francès** | **29,66%** | ~3.373 |
+| **Espanyol** | **26,79%** | ~3.047 |
+| **Anglès** | **2,22%** | ~252 |
+
+`Els percentatges són els publicats; les xifres absolutes són el producte pel
+total d'11.372, càlcul del corpus i no dada de la font.`
+
+**Tres coses que la comparació amb el 2003 fa veure.**
+
+**Primera, el sistema andorrà ha guanyat.** Era el que es va triplicar fins al
+2003 i ara és **el més gran dels tres**, amb **més de quatre alumnes de cada
+deu**.
+
+**Segona, l'espanyol ha passat de segon a tercer.** El 2003 encara era per sobre
+del francès; el 2023-24 està **tres punts per sota**.
+
+**Tercera, hi ha un quart sistema que el corpus no tenia.** Un **centre privat
+que segueix el currículum britànic**, amb el **2,22%** de l'alumnat — a més del
+centre privat integrat al sistema espanyol.
+
+**I la composició del sistema espanyol no és una sola cosa**: els centres
+**laics** depenen orgànicament i econòmicament del Govern d'Espanya, i els
+**congregacionals** els **manté econòmicament el Govern d'Andorra** tot i seguir
+la normativa educativa espanyola.
+
+### La sèrie recent, per nivell
+
+Els **Indicadors de l'educació** (activitat **A029**, nota del 16-12-2025) donen
+els cinc darrers cursos, **comptant també l'ensenyament superior**:
+
+| Nivell | 2020/21 | 2022/23 | 2024/25 | Var. anual |
+| --- | --- | --- | --- | --- |
+| Maternal | 1.997 | 1.966 | **1.871** | −2,0% |
+| Primera ensenyança | 4.110 | 4.271 | 4.172 | −1,1% |
+| Segona ensenyança | 3.158 | 3.422 | 3.416 | −2,5% |
+| Batxillerat | 1.122 | 1.108 | **1.274** | +4,0% |
+| Formació professional | 551 | 554 | 545 | +2,1% |
+| Ensenyament sup. de cicle curt | 12 | 38 | 29 | −31,8% |
+| **Bàtxelor** | 563 | **2.517** | 1.977 | **−29,6%** |
+| Màster | 54 | 115 | **185** | **+38,1%** |
+| Doctorat | 27 | 32 | 40 | +29,0% |
+| **Total** | **11.593** | 14.022 | **13.509** | −6,2% |
+
+**El bàtxelor és la xifra que cal llegir amb l'advertiment de la font.** Multiplica
+per 4,5 entre el 2020/21 i el 2023/24 i després cau un 29,6%. La nota ho explica:
+**l'augment del 2022-23 i 2023-24 és «atípic» i es deu que un centre va ampliar
+les titulacions ofertes**. **No és un creixement de l'ensenyament superior
+andorrà: és un canvi d'oferta d'un sol centre.**
+
+**El que baixa de manera sostinguda és la base.** **Maternal perd un 6,3% en
+quatre cursos**, i el 2024/25 és el nivell amb menys alumnes des del 2020/21.
+
 ## Després del batxillerat
 
 Els universitaris andorrans estudien:
@@ -172,8 +232,11 @@ Els universitaris que estudien al Principat van passar de **15 el curs
 
 ## El que falta
 
-- **L'estat actual**: totes aquestes xifres són de **~2003**. Cal la sèrie fins
-  al 2026. **Buit registrat, prioritari.**
+- ~~**L'estat actual**: totes aquestes xifres són de **~2003**. Cal la sèrie fins
+  al 2026.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**: vegeu
+  [Vint anys després](#vint-anys-despres-el-sistema-andorra-es-el-primer-i-nhi-ha-un-quart).
+  `Segueix obert el tram 2004-2022: el repartiment per sistema només s'ha trobat
+  per al curs 2023-2024, i la sèrie per nivell comença el 2020/21.`
 - ~~La **Universitat d'Andorra** avui, i el **bàtxel·lor**
   ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).~~ —
   **`parcial`, auditat el 2026-09-14: era un buit caducat.** **El corpus té
