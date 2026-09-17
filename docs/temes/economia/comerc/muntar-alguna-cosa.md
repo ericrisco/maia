@@ -85,6 +85,56 @@ la frontera entre associació i institució s'ha d'escriure.
 La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
 ([les lleis qualificades](../../institucions/justicia/les-lleis-qualificades.md)).
 
+## Dos mil cinc-cents metres quadrats, i el que passa si te'ls passes
+
+**La Llei del comerç posa la frontera del «gran establiment» en una xifra
+rodona.** L'article 11: **«Es consideren grans establiments comercials […] els
+que tenen una superfície de venda igual o superior a 2.500 metres quadrats.»**
+Individuals o col·lectius, de qualsevol classe de producte.
+
+**Passada la xifra, obrir deixa de ser un tràmit i passa a ser una valoració.**
+L'article 17 sotmet l'obertura —i qualsevol modificació de superfície o
+d'activitat— a una **autorització prèvia del Govern** fonamentada en **criteris
+d'interès general**: **accessibilitat, circulació i mobilitat**; **les
+característiques comercials del projecte i els efectes sobre el desenvolupament
+econòmic del sector**; **la protecció del medi ambient i de l'entorn
+urbanístic**; i, **quan l'establiment és individual, l'impacte sobre el mercat
+laboral i les polítiques de contractació de l'empresa**. S'hi ha d'acreditar
+també **el nombre de places d'aparcament que fixi el pla d'ordenació de la
+parròquia**. **El ministeri informa i no vincula; decideix el Govern.** I encara
+falta el segon pas: **obtinguda l'autorització prèvia, cal tramitar les
+sol·licituds davant l'Administració general i la comunal.**
+
+**El quadre de sancions té tres graons i un sostre que es pot triplicar.**
+
+| Grau | Multa | Prescripció |
+| --- | --- | --- |
+| **Molt greu** | **6.001 a 60.000 €** | **tres anys** |
+| **Greu** | **1.201 a 6.000 €** | **dos anys** |
+| **Lleu** | **fins a 1.200 €** | **un any** |
+
+**Exercir sense autorització és molt greu**, igual que **exercir en nom propi per
+compte de qui no pot fer-ho per llei**, **l'intrusisme empresarial**,
+**comercialitzar productes falsificats o no identificables**, **obstruir els
+inspectors** i **cometre dues infraccions greus alhora**. **Les lleus són
+residuals**: tot el que no és greu ni molt greu.
+
+**I hi ha quatre agreujants que no són multa.** Les sancions **es poden augmentar
+fins al triple del benefici obtingut**; una infracció greu o molt greu pot
+comportar **el tancament definitiu amb revocació de l'autorització o la suspensió
+de l'activitat fins a tres anys**; quan la infracció és pels productes o per la
+forma de l'activitat, **comporta la confiscació i la pèrdua dels productes**; i
+si el que s'incompleix són **els requisits de llengua dels rètols i noms
+comercials**, cal **retirar-los en quinze dies a càrrec de l'infractor**. **La
+reincidència es compta en 365 dies** des de la notificació de la primera sanció
+ferma.
+
+**Els responsables no són només el titular.** L'article 99.2 estén la
+responsabilitat a **qui exerceix càrrecs d'administració, gerència o direcció** i
+als **titulars efectius d'una participació que permeti una influència
+significativa i determinant**, sempre que l'il·lícit sigui imputable a la seva
+conducta dolosa o negligent.
+
 ## Buits registrats
 
 - **Els òrgans i el govern de les societats**: la part d'administradors,
@@ -97,11 +147,14 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
   i **dissolució**. **Queden obertes** la **liquidació** (art. 88 i següents),
   les **modificacions estructurals** —fusió, escissió, transformació— i el
   **règim d'accions pròpies** (art. 23-24).
-- **La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
+- ~~**La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
   rebaixes, liquidacions, outlet i venda a distància— ja és al corpus a
   [quan el preu baixa](./quan-el-preu-baixa.md). **Queden sense llegir** el règim
   dels **grans establiments**, el **procediment d'obertura** i el **quadre de
-  sancions**.
+  sancions**.~~ — **`resolt` el 17-09-2026** a «[Dos mil cinc-cents metres
+  quadrats, i el que passa si te'ls passes](#dos-mil-cinc-cents-metres-quadrats-i-el-que-passa-si-tels-passes)».
+  `Queden els capítols de noms comercials i rètols, franquícies, horaris
+  comercials i publicitat exterior.`
 - **La comptabilitat dels empresaris** (48 articles) només s'ha identificat.
 - **La competència efectiva i protecció del consumidor** (58 articles): el seu
   **títol IV**, el que dona drets a qui compra, ja és al corpus a
