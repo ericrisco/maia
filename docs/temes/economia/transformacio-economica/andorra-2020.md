@@ -206,6 +206,53 @@ permanent durant deu anys com a mínim**, i clàusules antiabús.
 estrangera sense impostos; s'ha obert del tot i s'hi ha posat un impost que
 arriba al 10% i que penalitza acumular pisos.
 
+## El PIB no es va doblar: el 2019 encara era per sota del 2007
+
+El pla es proposava **doblar el PIB abans del 2020**. La resposta, mesurada amb
+la sèrie del mateix Departament d'Estadística, és que **no només no es va
+doblar: el 2019 el PIB nominal encara era inferior al del 2007**.
+
+| Any | PIB nominal (milions €) | Procedència |
+| --- | --- | --- |
+| 2007 | **≈ 2.880** | llegit del gràfic de la sèrie 2000-2019 |
+| 2016 | 2.616,9 | publicat |
+| 2017 | 2.655,8 | publicat |
+| 2018 | 2.725,3 | publicat |
+| 2019 | **2.818,4** | publicat |
+| 2021 | 2.810,97 | publicat |
+| 2024 | 3.732,36 | publicat |
+
+**Dotze anys després del pic, el país encara no havia recuperat la xifra de
+partida.** El 2021 —primer any que l'edició del 2024 publica— el PIB nominal
+seguia per sota del 2007. La xifra del 2007 només se supera de manera clara cap
+al 2023-2024, i aleshores l'excés sobre el 2007 és d'**un 30%**, no del 100%.
+
+**Què va passar el 2008.** La sèrie cau dos anys seguits (2008 i 2009), es queda
+plana el 2010-2011 i torna a caure el 2012-2013. El mínim del període és el
+**2013**, amb un PIB nominal d'uns **2.430 milions d'euros** — un **15% per sota
+del 2007**. La recuperació és lenta i no arriba a tancar el forat dins la dècada.
+
+> **El pla demanava doblar el PIB en tretze anys i el que va passar va ser una
+> caiguda de sis anys i una recuperació de sis més que només va tornar al punt
+> de partida.**
+
+Això explica per què la llei del 2012 parla de «**una tendència a la baixa**»
+dels indicadors: el 2012 era, literalment, el penúltim any de la caiguda.
+
+**Com s'ha obtingut la xifra del 2007.** L'edició del 2020 d'*Andorra en xifres*
+publica la sèrie 2000-2019 només com a **gràfic de barres**, sense taula; el text
+extret del PDF només en dona els eixos. La pàgina s'ha renderitzat a imatge
+([`pib-serie-2000-2019-20.png`](../../../raw/estadistica-xifres/pib-serie-2000-2019-20.png))
+i s'han mesurat les alçades de les vint barres en píxels. L'escala s'ha calibrat
+amb els **quatre anys que la mateixa edició sí que publica en taula** (2016-2019):
+el calibratge els reprodueix amb un error màxim de **5 milions d'euros (0,2%)**.
+Les xifres no publicades es donen, per tant, **arrodonides a la desena de
+milions** i valen com a ordre de magnitud, no com a dada oficial.
+
+**La comparació és vàlida perquè és interna a una mateixa edició**: el 2007 i el
+2019 surten del mateix gràfic, de la mateixa metodologia i de la mateixa
+revisió de la sèrie.
+
 ## Buits registrats
 
 1. **El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
@@ -219,7 +266,11 @@ arriba al 10% i que penalitza acumular pisos.
    deixa de ser policial i passa a protecció civil**: entre l'atestació de
    Brutails (1904) i la llei del 2022 hi ha una història sense documentar.
 4. **Les projeccions de la CASS** sobre pensions i salut d'aquells anys.
-5. **Si el PIB es va doblar** entre 2007 i 2020, i què va passar el 2008.
+5. ~~**Si el PIB es va doblar** entre 2007 i 2020, i què va passar el 2008.~~
+   `resolt` el 17-09-2026 — vegeu
+   [El PIB no es va doblar: el 2019 encara era per sota del 2007](#el-pib-no-es-va-doblar-el-2019-encara-era-per-sota-del-2007).
+   `Segueix obert el PIB del 2020 mateix: l'edició del 2020 d'Andorra en xifres
+   arriba al 2019 i la del 2024 comença el 2021.`
 6. **Les obres citades** —Bourdieu, Coleman, Putnam, Fukuyama, Kliksberg— no s'han
    llegit; el corpus només en té els noms i els anys.
 
@@ -232,3 +283,4 @@ arriba al 10% i que penalitza acumular pisos.
 - [L'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md) — el capital social que hi havia.
 - [El sometent](../../institucions/comuns-i-parroquies/el-sometent.md) — la institució que aquesta ponència donava per morta.
 - [El mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md)
+- [El Departament d'Estadística](../../../fonts/estadistica-ad.md) — d'on surt la sèrie del PIB.
