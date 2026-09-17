@@ -314,14 +314,14 @@ impresos.
 
 ### Les cinc coses que el desglossament diu
 
-**L'impost més gran d'Andorra és l'IGI**, amb **181,4 milions**, **un de cada
-quatre euros d'ingrés de l'Estat.**
+**L'impost més gran d'Andorra és l'IGI**, amb **181,4 milions**: **el 22,5%
+de tot l'estat d'ingressos** i **el 29,1% del que es recapta en impostos.**
 
 **L'impost de societats és gairebé el doble de l'IRPF** —159,7 contra 83,1
 milions—, **1,92 vegades.** **És al revés que a la majoria de països europeus**,
 i **és la xifra que explica millor el model fiscal andorrà.**
 
-**Els tres impostos sobre el consum sumen 314,1 milions** —IGI, taxa al consum i
+**Els tres impostos sobre el consum sumen 315,1 milions** —IGI, taxa al consum i
 especials— **contra els 256,1 de tots els directes junts.**
 
 **I hi ha tres figures petites que valen per elles mateixes:**
@@ -330,7 +330,7 @@ especials— **contra els 256,1 de tots els directes junts.**
 | --- | --- |
 | **L'impost de les estades turístiques** | **6,9 M€** — la primera xifra que el corpus en té |
 | **L'impost del CO₂** | **10,7 M€**, **un 55% més que el turístic** |
-| **L'impost dels comerços oberts 24 hores** | **53.951,56 €** — **l'impost més petit del pressupost andorrà**, dues mil·lèsimes del que recapta l'IGI |
+| **L'impost dels comerços oberts 24 hores** | **53.951,56 €** — **l'impost més petit del pressupost andorrà**: **l'IGI en recapta 3.362 vegades més** |
 
 ### I la contradicció aparent amb la sèrie d'Estadística, resolta
 
