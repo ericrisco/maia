@@ -1,0 +1,92 @@
+GR20160519_12_26_01 
+
+ Correcció d’errata 
+ Correcció d’errata del 18-5-2016 per la qual s’esmena un error constatat en el Decret del 20-4-2016 pel qual s’aprova el Reglament de quota general de les autoritzacions de residència i treball, i de les autoritzacions de treball fronterer. 
+ Vist que s’ha constatat un error en el contingut de la taula I de l’annex I del Decret del 20-04-2016 pel qual s’aprova el Reglament de quota general d’autoritzacions de residència i treball i d’autoritzacions de treball fronterer per a les ocupacions professionals corresponents als grups 1, 2, 30, 31, 32, 3541009, 3541010, 3545001, 3545022, 4522004, 5010001, 5020001, 5030, 5111, 5112, 5113, 5121001, 5130003, 5130005, 5143005, 5150010, 5291001, 5330001, 6121015, 7292010, 7613020, 7801001, 7802002, 7802004, 8542005, 9121005 i 9121008 de la Classificació nacional d’ocupacions (CNO), i en concret a la numeració del grup de la CNO al qual pertanyen els cambrers de pisos i els ajudants de cuina. 
+ On hi diu: 
+ “ Taula I. Classificació salarial d’immigració (CSI) 
+ 
+Grup CNO | Ocupació | Salaris 2016
+10 al 17 | Directors, gerents i dirigents | 2.045,00 €
+20 | Professionals de les ciències físiques, químiques i matemàtiques, d’enginyeria i informàtica, arquitectes i urbanistes, associats a titulacions de 2n i 3r cicle universitari | 2.260,00 €
+21 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 2n i 3r cicle universitari | 3.724,00 €
+22 | Professionals de l’ensenyament associats a titulacions de 2n i 3r cicle universitari | 1.743,00 €
+23 | Professionals del dret | 2.153,00 €
+24 | Professionals de l’organització d’empreses i professionals de les ciències socials i humanes, associats a titulacions de 2n i 3r cicle universitari | 1.587,00 €
+25 | Escriptors, artistes i altres professionals de les administracions públiques, associats a titulacions de 2n i 3r cicle universitari i similars | 1.291,00 €
+26 | Professionals de les ciències físiques, químiques i matemàtiques, d’informàtica, i enginyeria, arquitectes tècnics i similars, associats a titulacions de 1r cicle universitari | 1.356,00 €
+27 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 1r cicle universitari, llevat dels òptics, els fisioterapeutes i similars | 1.915,00 €
+28 | Professionals de l’ensenyament associats a titulacions de 1r cicle universitari | 1.561,00 €
+29 | Altres professionals associats a titulacions de 1r cicle universitari | 1.695,00 €
+30 | Delineants i dissenyadors tècnics, tècnics en ciències físiques, químiques, enginyeria i informàtica, tècnics d’equips òptics i electrònics, professionals de la navegació marítima i aeronàutica, i tècnics en edificació, seguretat en el treball i control de qualitat | 1.453,00 €
+31 i 32 | Tècnics en ciències naturals, en sanitat i en educació infantil | 1.356,00 €
+3541009 i 3541010 | Dissenyadors gràfics i dissenyadors de joieria | 1.219,00 €
+3545001 i 3545022 | Esportistes professionals i entrenadors esportius | 1.219,00 €
+4522004 | Recepcionistes d’hotel | 1.308,00 €
+5010001 | Cuiners, en general | 1.327,00 €
+5020001 | Cambrers, en general | 1.266,00 €
+5030 | Caps de cuina, de menjador i similars | 1.490,00 €
+5111 i 5112 | Auxiliars d’infermeria hospitalària i d’atenció primària | 1.219,00 €
+5113 | Assistents domiciliaris | 1.219,00 €
+5121001 | Cuidadors de nens | 1.219,00 €
+5130003 | Perruquers | 1.219,00 €
+5130005 | Esteticistes | 1.219,00 €
+5143005 | Guies de turisme | 1.219,00 €
+5150010 | Governants | 1.219,00 €
+5291001 | Banyistes socorristes | 1.237,00 €
+5330001 | Dependents de comerç, en general | 1.133,00 €
+6121015 | Pastors, eugassers o vaquers | 1.219,00 €
+7292010 | Marbristes | 1.291,00 €
+7613020 | Mecànics ajustadors de bicicletes | 1.259,00 €
+7801001 | Matadors carnissers, en general | 1.291,00 €
+7802002 i 7802004 | Pastissers i forners | 1.291,00 €
+8542005 | Conductors operadors de grua mòbil | 1.291,00 €
+9121005 | Cambrers de pisos | 1.122,00 €
+9121008 | Ajudants de cuina | 1.122,00 €
+
+ Hi ha de dir: 
+ “ Taula I. Classificació salarial d’immigració (CSI) 
+ 
+Grup CNO | Ocupació | Salaris 2016
+10 al 17 | Directors, gerents i dirigents | 2.045,00 €
+20 | Professionals de les ciències físiques, químiques i matemàtiques, d’enginyeria i informàtica, arquitectes i urbanistes, associats a titulacions de 2n i 3r cicle universitari | 2.260,00 €
+21 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 2n i 3r cicle universitari | 3.724,00 €
+22 | Professionals de l’ensenyament associats a titulacions de 2n i 3r cicle universitari | 1.743,00 €
+23 | Professionals del dret | 2.153,00 €
+24 | Professionals de l’organització d’empreses i professionals de les ciències socials i humanes, associats a titulacions de 2n i 3r cicle universitari | 1.587,00 €
+25 | Escriptors, artistes i altres professionals de les administracions públiques, associats a titulacions de 2n i 3r cicle universitari i similars | 1.291,00 €
+26 | Professionals de les ciències físiques, químiques i matemàtiques, d’informàtica, i enginyeria, arquitectes tècnics i similars, associats a titulacions de 1r cicle universitari | 1.356,00 €
+27 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 1r cicle universitari, llevat dels òptics, els fisioterapeutes i similars | 1.915,00 €
+28 | Professionals de l’ensenyament associats a titulacions de 1r cicle universitari | 1.561,00 €
+29 | Altres professionals associats a titulacions de 1r cicle universitari | 1.695,00 €
+30 | Delineants i dissenyadors tècnics, tècnics en ciències físiques, químiques, enginyeria i informàtica, tècnics d’equips òptics i electrònics, professionals de la navegació marítima i aeronàutica, i tècnics en edificació, seguretat en el treball i control de qualitat | 1.453,00 €
+31 i 32 | Tècnics en ciències naturals, en sanitat i en educació infantil | 1.356,00 €
+3541009 i 3541010 | Dissenyadors gràfics i dissenyadors de joieria | 1.219,00 €
+3545001 i 3545022 | Esportistes professionals i entrenadors esportius | 1.219,00 €
+4522004 | Recepcionistes d’hotel | 1.308,00 €
+5010001 | Cuiners, en general | 1.327,00 €
+5020001 | Cambrers, en general | 1.266,00 €
+5030 | Caps de cuina, de menjador i similars | 1.490,00 €
+5111 i 5112 | Auxiliars d’infermeria hospitalària i d’atenció primària | 1.219,00 €
+5113 | Assistents domiciliaris | 1.219,00 €
+5121001 | Cuidadors de nens | 1.219,00 €
+5130003 | Perruquers | 1.219,00 €
+5130005 | Esteticistes | 1.219,00 €
+5143005 | Guies de turisme | 1.219,00 €
+5150010 | Governants | 1.219,00 €
+5291001 | Banyistes socorristes | 1.237,00 €
+5330001 | Dependents de comerç, en general | 1.133,00 €
+6121015 | Pastors, eugassers o vaquers | 1.219,00 €
+7292010 | Marbristes | 1.291,00 €
+7613020 | Mecànics ajustadors de bicicletes | 1.259,00 €
+7801001 | Matadors carnissers, en general | 1.291,00€
+7802002 i 7802004 | Pastissers i forners | 1.291,00 €
+8542005 | Conductors operadors de grua mòbil | 1.291,00 €
+9121005 | Ajudants de cuina | 1.122,00 €
+9121008 | Cambrers de pisos | 1.122,00 €
+
+ Cosa que es fa pública per a coneixement general. 
+ Andorra la Vella, 18 de maig del 2016 
+ Antoni Martí Petit Cap de Govern 
+
+ Document associat

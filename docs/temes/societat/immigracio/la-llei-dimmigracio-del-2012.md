@@ -173,6 +173,93 @@ mesos.
 
 **Buit registrat:** **si els anys de sojorn compten avui**, i des de quan.
 
+## Quinze anys de quota, i el pic del 2023
+
+**El BOPA publica 105 reglaments de quota entre el 2012 i el 2026**, deduplicats
+per contingut
+([evidència](../../../raw/lleis/bopa/quotes-immigracio-2012-2026/)). **No són
+quotes anuals: se'n publiquen dues o més l'any**, i les posteriors poden
+descomptar les autoritzacions ja concedides per les anteriors —així ho diu
+expressament el decret del 5 de maig del 2026. **Sumar-les donaria una xifra
+falsa.**
+
+**Són quatre sèries paral·leles**: la **quota general de treball** (residència i
+treball més treball fronterer), la de **compte propi**, la de **residència sense
+treball**, i les **quotes especials** de temporers, cuidadors a domicili i
+ampliacions puntuals.
+
+**La quota general de treball, decret a decret**, llegida de l'article 2 de cada
+reglament. **Dues columnes de data perquè no es confonguin**: la sessió de Govern
+que l'aprova i la publicació al BOPA.
+
+| Sessió de Govern | BOPA | Residència i treball | Fronterer | **Global** | |
+| --- | --- | ---: | ---: | ---: | --- |
+| 22 d’octubre del 2014 | 2014-10-28 | 170 | 50 | **220** |  |
+| 15 d’abril del 2015 | 2015-04-21 | 268 | 52 | **320** |  |
+| 14 d’octubre del 2015 | 2015-10-20 | 345 | 68 | **413** |  |
+| 20 d’abril del 2016 | 2016-04-26 | 409 | 89 | **498** |  |
+| 19 d’octubre del 2016 | 2016-10-25 | 450 | 146 | **596** |  |
+| — | 2017-01-17 | 500 | 160 | **660** | modificació |
+| 26 d’abril del 2017 | 2017-05-02 | 623 | 168 | **791** |  |
+| 18 d’octubre del 2017 | 2017-10-24 | 702 | 198 | **900** |  |
+| 25 d’abril del 2018 | 2018-05-01 | 702 | 198 | **900** |  |
+| 17 d’octubre del 2018 | 2018-10-23 | 663 | 187 | **850** |  |
+| 24 d’abril del 2019 | 2019-05-01 | 700 | 200 | **900** |  |
+| 16 d’octubre del 2019 | 2019-10-22 | 663 | 187 | **850** |  |
+| 29 d’abril del 2020 | 2020-04-28 | 351 | 99 | **450** |  |
+| 21 d’octubre del 2020 | 2020-10-27 | 351 | 99 | **450** |  |
+| 28 d’abril del 2021 | 2021-05-04 | 413 | 117 | **530** |  |
+| 18 d’agost del 2021 | 2021-08-24 | 288 | 82 | **370** | ampliació |
+| 27 d’octubre del 2021 | 2021-11-02 | 702 | 198 | **900** |  |
+| 27 d’abril del 2022 | 2022-05-03 | 936 | 264 | **1.200** |  |
+| 12 d’octubre del 2022 | 2022-10-18 | 936 | 264 | **1.200** |  |
+| 19 d’abril del 2023 | 2023-04-25 | 2.399 | 310 | **2.709** |  |
+| 25 d’octubre del 2023 | 2023-11-01 | 2.080 | 220 | **2.300** |  |
+| 24 d’abril del 2024 | 2024-05-01 | 702 | 198 | **900** |  |
+| 23 d’octubre del 2024 | 2024-10-28 | 702 | 198 | **900** |  |
+| 23 d’abril del 2025 | 2025-04-23 | 702 | 198 | **900** |  |
+| — | 2025-09-10 | 90 | 10 | **100** | ampliació |
+| 24 de setembre del 2025 | 2025-09-24 | 65 | 5 | **70** |  |
+| 24 de setembre del 2025 | 2025-09-30 | 702 | 198 | **900** |  |
+| — | 2026-03-12 | 135 | 15 | **150** | ampliació |
+| 29 d’abril del 2026 | 2026-05-05 | 135 | 15 | **150** |  |
+| 29 d’abril del 2026 | 2026-05-05 | 624 | 176 | **800** |  |
+
+**Tres coses que la sèrie diu.**
+
+**Primera: el 2020 la quota es parteix per la meitat.** De 850-900 el 2019 a **450** el **29 d'abril del 2020**, i s'hi manté tot l'any. **La covid no es veu a la
+llei d'immigració: es veu a la quota.**
+
+**Segona: el 2023 hi ha un pic de tres vegades el normal.** El decret del **19 d'abril del 2023** obre **2.709 autoritzacions**, i el del **25 d'octubre** encara **2.300**.
+L'any següent es torna a **900**. `Requereix saber què va justificar el pic: el
+reglament no ho explica.`
+
+**Tercera: la proporció entre residents i fronterers és estable i és aproximadament
+78 a 22.** 702 i 198; 936 i 264; 663 i 187. **L'única excepció és el pic del
+2023**, on els fronterers baixen a l'11% del global. **Quan Andorra obre molt, obre
+per a gent que hi viurà.**
+
+**I la regla de prioritat és la mateixa a tots els reglaments**, i és la que
+respon per què l'article 40 importa:
+
+> «s'han de concedir seguint un **ordre estricte de prioritat cronològica** […]
+> però s'ha de donar prioritat, **en primer lloc, als nacionals dels estats que
+> hagin signat i ratificat un conveni amb el Principat d'Andorra**; seguidament,
+> als nacionals dels estats membres de la **Unió Europea i de l'Espai Econòmic
+> Europeu**, i, finalment, als **nacionals d'altres estats**.»
+
+**Tres graons, i cap reglament no diu quins estats són del primer.**
+
+**Les altres dues sèries, pel que s'ha llegit directament:**
+
+| Sèrie | Recorregut |
+| --- | --- |
+| **Residència sense treball** | **500** (2012, 2013) → **600** (2016, 2017, 2020, 2023) → **200** (decret de l'11 de març del 2026) |
+| **Compte propi** | **150** (2013) → **250** (2014-2023) → **125** (2024) → **200** (2025, 2026) |
+
+**La residència passiva s'ha reduït a un terç el 2026**, i el compte propi va
+caure a la meitat el 2024 abans de recuperar-se parcialment.
+
 ## Buits registrats
 
 1. ~~**El reglament que fixa les malalties de risc per a la salut pública.** I el
@@ -183,7 +270,12 @@ mesos.
    sis el 1998, tres el 2010.**
 2. **Si l'article 23.2 s'exerceix**: quines associacions s'han consultat mai i
    amb quin efecte.
-3. **Els reglaments de quota** des del 2012: xifres per any i per tipus.
+3. **Els reglaments de quota** des del 2012: xifres per any i per tipus. —
+   **`parcial` el 17-09-2026**: **baixats els 105 reglaments** i extreta la sèrie
+   de la quota general de treball — vegeu
+   [Quinze anys de quota, i el pic del 2023](#quinze-anys-de-quota-i-el-pic-del-2023).
+   `Segueixen sense buidar les sèries de compte propi i de residència sense
+   treball any per any, i els quinze anys entre el 1997 i el 2012.`
 4. **Quins estats tenen conveni** amb Andorra a efectes de l'article 40. **És la
    clau del primer graó de la prioritat i el corpus no té la llista.**
 5. **Si els anys de sojorn compten** per a la residència.
