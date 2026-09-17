@@ -160,7 +160,54 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
 
 ## Buits registrats
 
-1. **Les rutes concretes**: per on passaven, quins ports, quantes jornades.
+1. **Les rutes concretes**: per on passaven, quins ports, quantes jornades. —
+   **`parcial` el 17-09-2026, i des d'un lloc inesperat: una tarifa.** Font: les
+   [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) *(ANA/ASC,
+   perg. 4.831, trasllat del 22 de març de 1341)*.
+
+   **El 26 de gener de 1341, a Organyà, Roger Bernat III, vescomte de
+   Castellbò**, respon a la súplica de **Ramon de l'Ortell i Camil Rossell, de
+   Canillo**, en nom dels homes d'Andorra, **perquè els seus batlles els
+   extorquien al pas.** I **el remei nomena la ruta, batlliu per batlliu**:
+
+   > **Nargó, Salent, Organyà, Tuixén, la vall d'Aguilar, Noves, Bellestar, la
+   > vall de Santa Cecília, la vall de Sant Joan i la Bastida.**
+
+   **Aquest és el corredor de baixada cap al sud al segle XIV**, **i és una
+   llista d'oficials, no de camins**: **el document diu per on es cobrava, que és
+   per on es passava.**
+
+   **La franquícia que atorga és ampla i concreta**: homes **i dones** d'Andorra,
+   amb bestiar propi, poden passar **quan vulguin, de dia i de nit, per camins i
+   llocs deserts on el bestiar pugui pasturar i menjar**, anant i tornant, **sense
+   cap exacció de peatge ni passatge**…
+
+   …**excepte una**, i és la frase que val el document:
+
+   > «*nisi dumtaxat **unum par casseorum**, quod solvant et tradant **semel in
+   > anno** nostro baiulo **in loco de Nargone**, quilibet pro suo bestiario […]
+   > et **quarumcumque sit parum vel multum**, semper solvant dictos casseos in
+   > loco predicto de Nargone*»
+
+   **Un parell de formatges l'any, al Coll de Nargó, tant si el ramat és petit
+   com si és gros.** **El dret de pas de la transhumància andorrana per
+   l'Urgellet es pagava en formatge, i a tant per ramat, no a tant per cap.**
+
+   **I hi ha tarifa per al ramat compartit**, que és la peça que lliga amb el
+   buit 4: **si un andorrà té *parceria* amb algú de l'Urgellet o de fora i
+   treu el ramat**, **per la part del seu parcer paga divuit diners barcelonins
+   per centenar**, i **per la seva, els dos formatges i res més.**
+
+   **Tres regles de conducta completen l'acord**: **el dany fet als sembrats i
+   vinyes al pas es paga**, i s'ha de fer pagar «*graciose et non maliciosse*»;
+   **entrar en devesa o lloc prohibit paga el ban acostumat**; i **si el ramat
+   es queda un temps a l'Urgellet, paga pastura com sempre.** **I una excepció
+   d'humanitat**: **si per guerra, riuada o una altra necessitat han de romandre
+   dos o tres dies en un lloc, no paguen res.**
+
+   `Requereix els ports i les jornades; el document dona els llocs de cobrament,
+   no el camí.`
 2. **Qui hi anava**: si els pastors eren de casa, llogats, o de fora.
 3. **E. Pée-Laby (1900)**, la font per a l'Arieja. El corpus no la té.
 4. **Els contractes de conlloc**: com s'escrivien i què hi constava. —
