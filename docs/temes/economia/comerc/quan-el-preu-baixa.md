@@ -121,8 +121,50 @@ la que té dents: **qui encarrega respon**, no només qui executa.
   procediment d'obertura **queden per llegir**.
 - **La venda ambulant, automàtica, domiciliària i en subhasta pública** (art.
   60-69) s'han identificat i **no s'han llegit**.
-- **Si el Govern ha fixat mai el calendari de rebaixes**, no consta: seria un
-  decret, i **els decrets no són al recull**.
+- ~~**Si el Govern ha fixat mai el calendari de rebaixes**, no consta: seria un
+  decret, i **els decrets no són al recull**.~~ — **`resolt` el 17-09-2026 al
+  [BOPA](../../../fonts/bopa.md), que sí que els té.** **L'ha fixat vint-i-una
+  vegades des del 2014**, **dues per any**, **una per temporada**, **sense cap
+  forat des del 2016** —tret del 2015, en què només n'hi ha un—:
+
+  | Any | Decrets |
+  | --- | --- |
+  | **2014** | 7-05 i 26-11 |
+  | 2015 | 18-03 |
+  | 2016 | 23-11 |
+  | 2017 | 17-05 |
+  | 2018 | 23-05 |
+  | 2019 | 10-04 i 9-10 |
+  | 2020 | 18-11 |
+  | 2021 | **52/2021** (modificació), **178/2021**, **401/2021** |
+  | 2022 | **233/2022** i **525/2022** |
+  | 2023 | **270/2023** i **551/2023** |
+  | 2024 | **234/2024** i **466/2024** |
+  | 2025 | **201/2025** i **452/2025** |
+  | **2026** | **213/2026** |
+
+  **La base legal és l'article 74 de la Llei 12/2013 de comerç**, que dona al
+  Govern la facultat de fixar el calendari **«amb consulta prèvia al sector del
+  comerç»**. **La consulta consta a cada decret**: «després de consultar-ho
+  prèviament amb el sector, s'ha decidit establir les dates concretes».
+
+  **L'últim, el Decret 213/2026, del 3 de juny**
+  (`docs/raw/lleis/bopa/decret-213-2026-rebaixes.txt`), dona les dates de
+  l'estiu del 2026: **rebaixes del divendres 19 de juny al diumenge 30
+  d'agost.**
+
+  **I hi ha una figura que el corpus no tenia i que no s'endevina: les
+  rebaixes privades.** **Són rebaixes que el comerciant pot fer els dies
+  anteriors a l'inici del període oficial** —**del 12 al 18 de juny del
+  2026**— **només per als clients dels seus programes de fidelització**, i
+  **«en cap cas no es poden comunicar en els locals destinats a l'activitat
+  comercial ni per altres mitjans publicitaris d'àmbit general»**. **Una
+  setmana de rebaixes legals i invisibles des del carrer**, **introduïda «a
+  petició del sector del comerç»**.
+
+  **Fer rebaixes no és obligatori**: «cada comerciant és lliure d'efectuar o no
+  la venda en rebaixes». **El que el decret fixa és quan es pot, no que s'hagi
+  de fer.**
 
 ## Related
 
