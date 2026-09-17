@@ -128,6 +128,59 @@ mortalitat baixa es llegeix habitualment com a indicador de salut** i aquí no h
 **Cinquanta anys de creixement per tornar a una distribució territorial semblant a
 la de partida.** La concentració a la capital va ser una fase, no el destí.
 
+## El dia que els capellans van deixar de comptar
+
+**La norma és la Llei del Registre Civil, de l'11 de juliol de 1996**, publicada
+al BOPA del **13 d'agost de 1996**
+([evidència](../../../raw/lleis/bopa/llei-registre-civil-1996.txt)). **Té dues
+dates i la font en fa servir la segona sense dir-ho.**
+
+> «**Disposició final.** La present Llei entrarà en vigor **el dia mateix de la
+> seva publicació** en el Butlletí Oficial del Principat d'Andorra.»
+
+> «**Disposició transitòria primera.** S'han d'inscriure tots els fets i els
+> actes d'estat civil esdevinguts a partir de **les 0 hores del 180è dia comptat
+> des de l'entrada en vigor** de la present Llei.»
+
+**La llei és vigent des del 13 d'agost de 1996 i el registre no comença a
+funcionar fins cent vuitanta dies després**, que cau el **8 o el 9 de febrer de
+1997** segons si es compta el mateix dia de publicació. `El text no diu si el
+dia de l'entrada en vigor compta com a primer, i la diferència és d'un dia.`
+
+**Això confirma el «febrer d'enguany» de la ponència** i li posa dia. **I explica
+per què la sèrie demogràfica andorrana es parteix el 1997 i no el 1996.**
+
+**El tall és a mitjanit i és net.** La disposició transitòria segona diu que els
+actes inscrits als registres eclesiàstics «**fins a les 24 hores del dia
+anterior**» a aquell poden seguir sent certificats pels seus encarregats,
+«segons les normes vigents del dret canònic». **Els capellans no perden els seus
+llibres: deixen d'afegir-hi fets nous amb efecte civil.** I el Govern tenia sis
+mesos per obrir negociacions amb l'autoritat eclesiàstica «per facilitar la
+transcripció al Registre Civil dels actes d'estat civil» anteriors.
+
+**L'exposició de motius diu per què no es podia esperar més**, i no és una raó
+d'eficiència administrativa:
+
+> «els fets i els actes d'estat civil de les persones que viuen al país i que
+> **no són batejats, que no es casen canònicament i que no reben les exèquies
+> religioses**, no poden ésser registrats civilment car el registre canònic no ha
+> estat concebut per a ells.»
+
+**Qui no era catòlic no existia estadísticament.** I la llei ho lliga a la
+Constitució: «la promulgació de la Constitució, i singularment els **articles 5,
+6, 11 i 13**, obliga necessàriament a establir un Registre Civil». **Van passar
+tres anys i dos mesos entre la Constitució i la llei, i tres anys i nou mesos
+fins al primer assentament.**
+
+**I la llei del 1996 ja no és la vigent.** La **Llei 9/2026, del 7 de maig, del
+Registre Civil** (BOPA del 2 de juny del 2026, en vigor l'endemà) **la deroga
+sencera**
+([evidència](../../../raw/lleis/bopa/llei-9-2026-registre-civil.txt)). Modifica de
+passada la Llei qualificada de la persona i de la família, el Codi de procediment
+civil i la llei de successions, i dona al Govern **sis mesos** per al desplegament
+reglamentari. **El registre civil andorrà té trenta anys i acaba d'estrenar la
+seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
+
 ## Buits registrats
 
 1. **El cens de 1989**: què conté, qui el va fer, i per què no va tenir
@@ -140,8 +193,10 @@ la de partida.** La concentració a la capital va ser una fase, no el destí.
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md).
 5. **Quan apareix la primera taxa d'atur andorrana** digna d'aquest nom.
 6. **Si el cens es va reprendre** després del 1997.
-7. **La Llei del Registre Civil** i la data exacta de la seva entrada en vigor: la
-   font diu «el febrer d'enguany» i **no dona el dia ni la norma**.
+7. ~~**La Llei del Registre Civil** i la data exacta de la seva entrada en vigor:
+   la font diu «el febrer d'enguany» i **no dona el dia ni la norma**.~~
+   `resolt` el 17-09-2026 — vegeu
+   [El dia que els capellans van deixar de comptar](#el-dia-que-els-capellans-van-deixar-de-comptar).
 
 ## Related
 
