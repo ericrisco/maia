@@ -206,9 +206,31 @@ tècnic del Museu Nacional de l'Automòbil.**
   ([què costa una multa](./que-costa-una-multa.md))— **i no té cap dada de cap
   dels dos.** `Requereix font externa: Estadística, o la memòria del Cos de
   Policia.`
-- **Les 2 versions consolidades no s'han comparat.** — **`obert`, i no es pot
-  tancar amb el que el corpus té.** **El fitxer del recull és una sola
-  instantània** —la del **2026-09-12**— i **diu quantes versions hi ha (2), no
-  quines eren.** **Comparar-les exigeix tornar a la font.**
-  `Requereix font externa: les dues versions consolidades a jurisprudencia.ad,
-  o el BOPA.`
+- ~~**Les 2 versions consolidades no s'han comparat.**~~ — **`resolt` el
+  17-09-2026, i s'han comparat sense tornar a jurisprudencia.ad**: **la primera
+  versió consolidada és el text original**, i **el BOPA el serveix sencer**
+  (butlletí 62 del 2021, `docs/raw/lleis/bopa/`). **Comparant els 132 articles
+  de la publicació oficial amb la instantània consolidada del 2026-09-12,
+  només un ha canviat.**
+
+  **És l'article 99, la inspecció tècnica de vehicles**, i el canvi és una
+  exempció que el text original no tenia:
+
+  > «**estan exempts de l'obligatorietat de les inspeccions tècniques
+  > periòdiques els vehicles especials utilitzats exclusivament per a les
+  > activitats agrícoles** i, en particular, **els tractors, remolcs, màquines i
+  > maquinàries agrícoles**»
+
+  **L'apartat 2 hi afegeix que el Govern els fixarà per reglament unes
+  obligacions de llibres de registre.** **Canvien l'ITV per un registre.**
+
+  **Qui ho va fer**: la **Llei 31/2022, del 21 de juliol, per al desenvolupament
+  i la diversificació dels sectors ramader i agrícola** (butlletí 98 del 2022).
+  **La modificació del Codi de la circulació no és una llei de circulació:
+  arriba dins d'una llei agrària.**
+
+  **I el mètode queda registrat perquè serveix per a les altres 44 lleis del
+  recull que depenen d'annexos o de versions**: **el BOPA dona el text de
+  partida i el consolidat dona l'estat actual; la diferència entre tots dos és
+  la llista de modificacions, article per article, sense demanar res a
+  ningú.**
