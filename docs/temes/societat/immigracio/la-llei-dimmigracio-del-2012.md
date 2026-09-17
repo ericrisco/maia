@@ -277,7 +277,12 @@ caure a la meitat el 2024 abans de recuperar-se parcialment.
    `Segueixen sense buidar les sèries de compte propi i de residència sense
    treball any per any, i els quinze anys entre el 1997 i el 2012.`
 4. **Quins estats tenen conveni** amb Andorra a efectes de l'article 40. **És la
-   clau del primer graó de la prioritat i el corpus no té la llista.**
+   clau del primer graó de la prioritat i el corpus no té la llista.** —
+   **`parcial` el 17-09-2026: el mecanisme està documentat i la llista no.**
+   **Els 105 reglaments de quota del 2012 al 2026 repeteixen la mateixa fórmula
+   de tres graons** —estats amb conveni signat i ratificat, després UE i EEE,
+   després la resta— **i cap no nomena un sol estat.** `La llista no és als
+   reglaments de quota: cal buscar-la als convenis mateixos o demanar-la.`
 5. **Si els anys de sojorn compten** per a la residència.
 6. **Les divuit modificacions**: què va canviar cadascuna.
 7. **La llei de nacionalitat vigent**, que és una altra norma i **el corpus no la
