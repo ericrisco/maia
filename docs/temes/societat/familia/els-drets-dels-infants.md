@@ -146,4 +146,48 @@ dopatge de totes les federacions.
   **I una peça material que hi lliga**: **no consta cap centre específic per a
   menors**, tot i que la llei penitenciària **exigeix separar majors i menors**
   ([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)).
-- **Els drets econòmics, socials i culturals** (capítol tercer) no s'han llegit.
+- ~~**Els drets econòmics, socials i culturals** (capítol tercer) no s'han llegit.~~
+  — **`resolt` el 17-09-2026** (`docs/raw/lleis/drets-infancia.txt`, articles
+  38 a 58). **Són vint-i-un articles en tres seccions —salut i benestar,
+  educació, lleure i cultura— i el que els distingeix és que cada secció acaba
+  amb un article de deures.**
+
+  **El dret al benestar està escrit com una obligació doble** (article 43):
+  **la primera és dels progenitors, tutors o guardadors**, i **la segona de les
+  administracions**, que han d'oferir «els programes, les prestacions i els
+  ajuts de protecció social i seguretat social necessaris per assolir-lo». **I
+  hi ha tres mandats concrets**: **reduir la taxa d'infants en vulnerabilitat
+  socioeconòmica**, **establir els criteris del nivell bàsic de benestar
+  «tant material com emocional»**, i **assegurar «una alimentació suficient,
+  saludable, nutritiva i adequada»**. **També hi ha un dret explícit «a viure
+  de forma estable en un habitatge i a accedir als subministraments bàsics»**.
+
+  **El consentiment informat és de l'infant, no del pare** (article 40.2): té
+  dret a informació completa sobre la seva salut, **a la confidencialitat de la
+  història clínica**, i **a participar en les decisions «a través del
+  consentiment informat»**, amb la informació **«en un llenguatge comprensible
+  i adequat i en un format accessible d'acord amb la seva edat i el seu grau de
+  maduresa»**. **I només es poden sotmetre a recerca biomèdica «quan no suposi
+  un perjudici per a la seva integritat o salut»** (article 40.3) —**una
+  condició més estricta que el risc mínim que la
+  [Llei de recerca biomèdica](../sanitat/donar-i-ser-ates.md) admet per als
+  adults.**
+
+  **Les proteccions de consum són dues i van en direccions contràries**: **dret
+  que els productes destinats a infants portin «de forma llegible» la
+  composició, les característiques, l'ús i l'edat recomanada** (article 53.3),
+  i **deure de l'Administració de vetllar per les prohibicions d'alcohol i
+  tabac, que s'han de fer constar «de forma visible» als locals**
+  (article 54.1). **I l'article 54.2 hi afegeix una categoria moderna**: **les
+  conductes addictives «tals com els jocs d'atzar o l'ús abusiu de les
+  tecnologies de la informació i la comunicació»**.
+
+  **El que fa singular aquest capítol són els deures.** **L'article 49** obliga
+  els infants **a assistir al centre en l'ensenyament obligatori**, **a
+  «mantenir una actitud positiva i proactiva»** i **a gestionar els conflictes
+  «a través del debat»**, amb la frase **«en cap cas han de fer servir
+  l'agressió física o verbal»**. **L'article 58** els demana **exercir «el seu
+  rol com a ciutadans actius»**, **fer bon ús dels espais i el mobiliari
+  urbà**, i **conèixer i respectar el medi ambient**. **Una llei de drets que
+  també diu què ha de fer un nen és poc habitual, i el corpus ho registra com
+  a tret propi d'aquesta.**
