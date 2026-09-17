@@ -93,7 +93,10 @@ Aquesta és la troballa institucional, i és gran:
 > **El contraban és, doncs, l'únic delicte respecte al qual el Consell ha tingut
 > competències judicials.**»
 
-**El parlament andorrà va ser tribunal per a una sola cosa: el contraban.**
+**El parlament andorrà va ser tribunal *penal* per a una sola cosa: el
+contraban.** **Al civil, no** —el corpus en té tres casos del segle XVI, i són
+al buit 7 d'aquesta mateixa fitxa; **la precisió és del 17-09-2026 i no
+desmenteix la font, l'acota.**
 Vegeu [el Consell General](../../institucions/consell-general/el-consell-general.md)
 i [la justícia d'abans](../../institucions/justicia/la-justicia-dabans.md), on viu el Tribunal de Corts.
 
@@ -191,7 +194,36 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 6. **Què va passar amb els dos capturats pels duaners espanyols** el 1757. La
    font només segueix els que van tornar.
 7. **Si el Consell General va tornar a jutjar mai res.** Mas diu que se n'ha
-   conservat **una sola sentència**: no diu que només en dictés una.
+   conservat **una sola sentència**: no diu que només en dictés una. —
+   **`parcial` el 17-09-2026, i cal precisar la pregunta abans de respondre-la.**
+   Font: les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md).
+
+   **Al penal, la troballa de Mas es manté**: **el contraban és l'única matèria
+   criminal que el Consell ha jutjat.** **Al civil, no**: **el corpus té ara
+   tres casos, i tots tres són anteriors a la concessió del 1733.**
+
+   | Data | Què jutja | Qui l'hi encarrega |
+   | --- | --- | --- |
+   | **10 de juliol de 1510**, era del Consell General | **El plet entre els homes de Canillo i els de la Massana per emprius de camins i orris** | **El bisbe d'Urgell**, per carta datada a Montsó el 6 de juliol. El Consell **cita les parts per santa Maria Magdalena** i els dona temps d'al·legar *(ANA, TCN, núm. 100)* |
+   | **23 i 29 d'agost de 1536**, casa del Consell General | **Un plet entre dos particulars** —Pere Màrtir Casal, de Canillo, hereu de Bartomeu Casal, contra Gervasi Moles— **per un censal de tres lliures i sis sous i per trenta-una lliures d'una venda** | **Ningú de fora: el Consell hi sentencia** *(ANA, TCN, núm. 304)* |
+   | **10 de juny de 1592**, Sant Julià | **Un conflicte internacional de bestiar**: els homes de Siguer i Vicdessos contra els del Pallars —Tírvia, Tor, vall Ferrera, vall d'Àneu, vall de Cardós, Civís i Os de Civís— **per preses de bestiar i quantitats mútues** | **Compromissaris elegits per les dues parts i pel Consell de la Terra** *(ANA, TCN, núm. 172)* |
+
+   **Els tres diuen tres coses diferents.** **El del 1510, que el copríncep
+   episcopal li podia delegar un plet entre parròquies.** **El del 1536, que
+   sentenciava causes entre particulars sense que ningú l'hi encarregués.** **I
+   el del 1592, que servia d'àrbitre entre valls de dos estats veïns** —**un
+   tribunal andorrà jutjant un conflicte entre gent del comtat de Foix i gent
+   del Pallars.**
+
+   **La frase que el corpus ha de corregir, doncs, no és la de Mas: és la
+   pregunta.** **El Consell General no va ser tribunal per a una sola cosa**;
+   **va ser tribunal penal per a una sola cosa.** **Al civil ho havia estat
+   dos-cents anys abans, i ho era per delegació, per costum i per
+   compromís.**
+
+   `Requereix saber quan deixa de jutjar al civil; entre el 1592 i el 1733 el
+   corpus no té res.`
 
 > **Afegit el 15-09-2026.** **El mateix bisbe havia manat exactament el
 > contrari, i està datat.** *La cuestión de Andorra* (1894), **p. 16**, copia
