@@ -144,8 +144,45 @@ de treball pactat** amb la persona (article 3.n).
   > inscrites](../../economia/comerc/qui-respon-duna-societat.md).
   > `Requereix font externa: el registre d'organitzacions d'obtenció i
   > trasplantament d'òrgans, o la memòria del SAAS.`
-- **La Llei de recerca i innovació biomèdica** (54 articles) només s'ha
-  identificat: comitès d'ètica, assaigs clínics i biobancs **queden per llegir**.
+- ~~**La Llei de recerca i innovació biomèdica** (54 articles) només s'ha
+  identificat: comitès d'ètica, assaigs clínics i biobancs **queden per llegir**.~~
+  — **`resolt` el 17-09-2026**, llegida la **Llei 3/2023** sencera
+  (`docs/raw/lleis/recerca-biomedica.txt`, **nou títols, una sola versió
+  consolidada**). **Les tres peces que el buit nomenava:**
+
+  **Els comitès d'ètica són de centre i han d'estar acreditats pel ministeri**
+  (article 4), **«per assegurar la seva independència i imparcialitat»**.
+  **Avaluen i validen els aspectes metodològics, ètics, legals i l'impacte
+  social** de cada projecte i n'emeten dictamen, **i han d'informar-ne una
+  Comissió d'Ètica de la Investigació** d'àmbit superior. **Els criteris
+  d'acreditació van a reglament**, que el corpus no té.
+
+  **El consentiment informat té una excepció d'urgència taxada en set
+  condicions acumulatives** (article 9), **i totes s'han de complir alhora**:
+  **que la urgència impedeixi al subjecte consentir**, **que hi hagi base
+  científica per esperar-ne un benefici clínic directe**, **que no doni temps
+  d'obtenir el consentiment del representant legal**, **que l'investigador
+  certifiqui que no consta cap objecció prèvia del subjecte**, **que la recerca
+  només es pugui fer en urgència**, **que el risc i la càrrega siguin mínims
+  comparats amb el tractament estàndard**, i **que no es pugui fer una recerca
+  d'eficàcia comparable amb persones que no estiguin en emergència.**
+  **Investigar sobre algú inconscient és possible i costa set panys.**
+
+  **Els biobancs tenen títol propi** (títol V, articles 33 i següents),
+  **incloent-hi l'organització i, cosa que no s'endevina, què passa quan es
+  clausuren** (article 36).
+
+  **I dos límits absoluts que val la pena registrar.** **«Es prohibeix la
+  constitució d'embrions in vitro i embrions humans amb fins
+  d'experimentació»** (article 38.1), remetent la recerca amb embrions
+  sobrants a l'article 13 de la Llei 12/2019 de reproducció humana assistida;
+  **però «es permet la utilització de qualsevol tècnica d'obtenció de cèl·lules
+  troncals humanes amb fins terapèutics o de recerca, que no comporti la
+  creació d'un embrió in vitro»** (article 38.2). **La frontera no és la
+  cèl·lula: és crear l'embrió.** I **el genoma** (article 39): només es pot
+  modificar **«per motius de prevenció, diagnòstic o terapèutics»** i **«només
+  si el propòsit no és introduir directament modificacions al genoma dels
+  descendents o a la línia germinal»**.
 - **El títol II de les professions de la salut** —que regula cada professió una
   per una— no s'ha buidat.
 - ~~**La Llei de reproducció humana assistida**, que la llei d'òrgans cita, **no
