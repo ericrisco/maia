@@ -150,11 +150,25 @@ de treball pactat** amb la persona (article 3.n).
   **I el que queda sempre a concurrència** inclou la **guarderia**, l'**esplai**,
   el **casal de gent gran**, el **taller ocupacional**, l'**assistència
   personal**, els **habitatges tutelats** i el **suport a la inclusió laboral**.
-- **Si Andorra fa trasplantaments** o si depèn d'acords amb l'exterior, no
-  consta; la llei regula **l'entrada i sortida d'òrgans del Principat** (article
-  20), cosa que suggereix que sí, però **el corpus no ho afirma**. —
-  **`parcial` des del 2026-09-13, rellegint la llei.** **La llei preveu les dues
-  coses alhora, i amb detall:**
+- ~~**Si Andorra fa trasplantaments** o si depèn d'acords amb l'exterior, no
+  consta.~~ — **`parcial` el 17-09-2026, i el que es tanca és una via.**
+  **Escombrat el [BOPA](../../../fonts/bopa.md)**: les cadenes «obtenció o el
+  trasplantament d'òrgans» i «coordinació hospitalària de trasplantaments»
+  **surten a un sol document cadascuna, i és la mateixa Llei 34/2018**. **Cap
+  decret d'autorització de centre de trasplantament, cap nomenament de
+  coordinador hospitalari, cap conveni d'intercanvi d'òrgans no s'ha publicat mai
+  al Butlletí.**
+
+  **La llei crea un règim complet per a una activitat de la qual el Butlletí no
+  registra cap acte d'aplicació.** `No és prova que no se'n faci —una
+  autorització administrativa individual pot no publicar-se—, però sí que la via
+  del BOPA queda descartada. Requereix el SAAS o el ministeri de Salut.`
+
+  **El que sí que consta al BOPA**: la **donació d'òrgans** apareix a la
+  **seguretat social** —la Llei 26/2018 i la Llei 6/2019 modifiquen la Llei
+  17/2008— i al **Reglament de prestacions d'incapacitat temporal** (Decret
+  224/2021). **La donació existeix com a fet cobert per la CASS abans que com a
+  activitat hospitalària registrada.**
 
   - **Preveu centres de trasplantament a Andorra.** L'autoritat competent
     **atorga les autoritzacions de funcionament «als centres on s'efectuï
