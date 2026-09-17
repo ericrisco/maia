@@ -231,6 +231,50 @@ que recapten puja**: són dues coses compatibles, i la sèrie ho mostra.
 > Dades del Departament d'Estadística del Govern d'Andorra, *Andorra en xifres
 > 2024*, publicació del 09-12-2025. Tractament propi.
 
+## Directes contra indirectes: el gir que la sèrie ensenya
+
+La liquidació impost per impost segueix sense ser al corpus, però **el
+desglossament en les dues grans famílies sí que es publica cada trimestre**
+(activitat **A134. Execució trimestral del pressupost del sector públic**).
+**Acumulat de gener a setembre de cada any, tot el sector públic:**
+
+| | 2021 | 2022 | 2023 | 2024 | 2025 | 2025/2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Impostos directes** | 341,5 M€ | 388,4 | 455,7 | 519,6 | **599,2** | **+15,3%** |
+| **Impostos indirectes** | 166,5 M€ | 235,4 | 232,3 | 280,8 | **272,1** | **−3,1%** |
+| Taxes i altres ingressos | 57,8 M€ | 83,3 | 84,0 | 82,4 | **85,9** | +4,2% |
+| Ingressos patrimonials | 29,4 M€ | 33,3 | 41,3 | 47,6 | **55,0** | +15,6% |
+| **Ingressos corrents** | **657,7 M€** | 798,7 | 863,1 | 983,4 | **1.068,1** | **+8,6%** |
+
+**El gir és net i recent.** El **2021 els directes eren 2,05 vegades els
+indirectes**; el **2025 en són 2,20**, i **els indirectes cauen en termes
+absoluts** per primera vegada de la sèrie. **Andorra es finança cada any una mica
+més amb impostos sobre la renda i el benefici i una mica menys amb impostos sobre
+el consum.**
+
+**I el gir és encara més marcat a l'Administració central sola** (S.1311a), on
+el **2021 els indirectes eren el 61% dels dos impostos** i el **2025 en són el
+52%**:
+
+| Administració central | 2021 | 2025 | Variació |
+| --- | --- | --- | --- |
+| Impostos directes | 104,5 M€ | **245,7 M€** | **+135%** en quatre anys |
+| Impostos indirectes | 161,3 M€ | **265,2 M€** | +64% |
+
+`Xifres publicades en euros; aquí arrodonides a la desena de milió. Els
+percentatges de composició són càlcul del corpus.`
+
+**Això lliga amb la pressió fiscal.** Els **27,5% del PIB del 2024** i el
+**+13,4% de recaptació** que dona *Andorra en xifres*
+([Quant pesa tot plegat](#quant-pesa-tot-plegat-275-del-pib)) **no vénen de
+l'IGI**: vénen de la banda directa, que és la que va créixer un 15,3% mentre la
+indirecta requeia.
+
+**El que encara falta, i on és.** Aquesta estadística **no separa l'IGI de
+l'impost sobre estades turístiques**, ni **l'IRPF de l'impost de societats o de
+l'IRNR**. Per a això cal **la liquidació del pressupost** o **els informes del
+Tribunal de Comptes**, que el corpus no té.
+
 ## Buits registrats
 
 - ~~**Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
@@ -245,11 +289,12 @@ que recapten puja**: són dues coses compatibles, i la sèrie ho mostra.
 - **Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
   els d'aquesta fitxa són els de la instantània.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
-  es finança l'Estat. — **`parcial` el 17-09-2026**: **la suma sí que consta**, i
-  la sèrie també, a «[Quant pesa tot plegat: 27,5% del
-  PIB](#quant-pesa-tot-plegat-275-del-pib)». `El desglossament per figura no és a
-  «Andorra en xifres»: requereix la liquidació del pressupost del Govern o els
-  informes del Tribunal de Comptes.`
+  es finança l'Estat. — **`parcial` el 17-09-2026, i amb dos graons guanyats**:
+  **la suma** a «[Quant pesa tot plegat](#quant-pesa-tot-plegat-275-del-pib)» i
+  ara **el desglossament en directes i indirectes**, amb sèrie 2021-2025, a
+  «[Directes contra indirectes](#directes-contra-indirectes-el-gir-que-la-serie-ensenya)»
+  (activitat **A134**). `El desglossament per figura —IGI, IRPF, IS, IRNR— segueix
+  requerint la liquidació del pressupost o els informes del Tribunal de Comptes.`
 - ~~**L'IRNR** (no-residents, 51 articles), les **bases de l'ordenament tributari**
   (159), els **impostos especials** i l'**impost sobre les estades turístiques**
   són al recull i **queden per llegir**.~~ — **`resolt` el 17-09-2026, els

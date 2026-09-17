@@ -1,0 +1,1684 @@
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+
+    A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                               1r trimestre del 2026
+                           Data de publicació: dilluns, 10/08/2026
+                                          www.estadistica.ad
+ Resum
+
+
+L’execució conjunta del pressupost de despeses dels subsectors institucionals del sector públic*
+ha estat de 307,357 milions d’euros per al primer trimestre del 2026, amb un increment del +9,1%
+respecte al primer trimestre de l’any anterior. L’execució dels ingressos ha estat de 351,07 milions
+d’euros, amb un increment del +11,5% respecte al primer trimestre de l’any anterior.
+
+Pel que fa als resultats de l’execució d’ingressos i despeses per al primer trimestre del 2026, el
+resultat de gestió (ingressos menys despeses sense tenir en compte les despeses financeres i
+sense actius ni passiu financers) ha estat d’un superàvit de 54,20 milions d’euros (+30,3%), el
+resultat de caixa (ingressos menys despeses, sense actius ni passiu financers) ha estat d’un
+superàvit de 50,14 milions d’euros, amb un increment del +34,4% respecte al primer trimestre de
+l’any passat. El resultat pressupostari (incloent-hi tots els ingressos i despeses) ha estat d’un
+superàvit de 43,72 milions d’euros, amb un increment del +31,8% respecte al primer trimestre de
+l’any passat.
+
+Sense tenir en compte les transferències internes que fa el Govern a favor dels comuns i de la
+CASS i les despeses de la CASS cap al Fons de Reserva de Jubilació (totes elles despeses
+internes que les diferents entitats preveuran com a ingressos per després fer les despeses
+pertinents i que, per tant, no es preveuen dos vegades), i sense tenir en compte els actius i
+passius financers d’ingressos i despeses, l’execució de despeses ha estat de 140,94 milions
+d’euros per al primer trimestre del 2026, amb un increment del +5,5% respecte al primer trimestre
+de l’any anterior.
+
+Pel que respecta als ingressos, amb les mateixes consideracions, l’execució ha estat de 313,18
+milions d’euros per al primer trimestre del 2026, amb un increment del +11,5% respecte al primer
+trimestre de l’any anterior.
+
+
+
+
+A134_20260810_A                                                                       Pàgina 1 de 28
+                A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                            1r trimestre del 2026
+
+
+
+Pel que fa als resultats de l’execució pressupostària d’ingressos i despeses, amb les
+consideracions anteriors, han estat pel resultat de gestió un superàvit de 176,30 milions d’euros
+(+16,2%), pel resultat de caixa un superàvit de 172,24 milions d’euros (+16,9%) i pel resultat
+pressupostari un superàvit de 165,82 milions d’euros (+15,8%).
+
+
+
+
+*: S’hi inclouen les dades de “S.1311. Administració central”, “S.1313 Administració local” i “S.1314 Fons de la Seguretat pública”.
+No s’hi inclouen dades dels subsectors “S.1311b Institucions sense finalitat de lucre” i “S.1311c Societats públiques no de mercat”.
+
+
+
+
+A134_20260810_A                                                                                                        Pàgina 2 de 28
+                 A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                             1r trimestre del 2026
+
+
+
+
+Índex
+
+
+
+1. Execució trimestral del pressupost del sector públic ........................................................ 4
+2. S.1311a. Adm. central, S.1313. Adm. local i S.1314. Fons de la seguretat social ........... 8
+   2.1. Execució de despeses 1r trimestre .................................................................................. 8
+   2.2. Distribució i variacions interanuals de les despeses ........................................................ 9
+   2.3. Execució d’ingressos 1r trimestre .................................................................................. 10
+   2.4. Distribució i variacions interanuals de dels ingressos .................................................... 11
+   2.5. Resultats 1r trimestre ..................................................................................................... 12
+   2.6. Variacions interanuals dels resultats .............................................................................. 12
+3. S.1311a. Administració central (Govern d’Andorra) ......................................................... 13
+   3.1. Execució de despeses 1r trimestre ................................................................................ 13
+   3.2. Distribució i variacions interanuals de les despeses ...................................................... 14
+   3.3. Execució d’ingressos 1r trimestre .................................................................................. 15
+   3.4. Distribució i variacions interanuals dels ingressos ......................................................... 16
+   3.5. Resultats 1r trimestre ..................................................................................................... 17
+   3.6. Variacions interanuals dels resultats .............................................................................. 17
+4. S.1313. Administració local (Comuns) ............................................................................... 18
+   4.1. Execució de despeses 1r trimestre ................................................................................ 18
+   4.2. Distribució i variacions interanuals de les despeses ...................................................... 18
+   4.3. Execució d’ingressos 1r trimestre .................................................................................. 19
+   4.4. Distribució i variacions interanuals dels ingressos ......................................................... 19
+   4.5. Resultats 1r trimestre ..................................................................................................... 20
+   4.6. Variacions interanuals dels resultats .............................................................................. 20
+5. S.1314. Fons de la seguretat social (CASS i Fons de Reserva de Jubilació) ................ 21
+   5.1. Execució de despeses 1r trimestre ................................................................................ 21
+   5.2. Distribució i variacions interanuals de les despeses ...................................................... 22
+   5.3. Execució d’ingressos 1r trimestre .................................................................................. 23
+   5.4. Distribució i variacions interanuals dels ingressos ......................................................... 24
+   5.5. Resultats 1r trimestre ..................................................................................................... 25
+   5.6. Variacions interanuals dels resultats .............................................................................. 25
+6. Metodologia .......................................................................................................................... 26
+7. Dates de properes publicacions previstes ........................................................................ 28
+
+
+
+
+A134_20260810_A                                                                                                         Pàgina 3 de 28
+                                                                     A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                                                                 1r trimestre del 2026
+
+
+
+1. Execució trimestral del pressupost del sector públic
+
+
+
+
+                                                                                                  S.1311a Adm.central - S.1313 Adm. Local - S.1314 Fons de la Seguretat Social
+
+
+
+
+                             (sense transf. Internes)
+  Resultat de gestió
+                                                                                Trimestre
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+                                                        Despeses corrents
+                                                        (sense transf. int. i sense desp. fin.)                 114,42     126,20     10,3% Ingressos corrents (sense transf. int.)            268,50      294,88     9,8%
+                                                        Despeses de capital (sense transf. int.)                 14,87      10,67     -28,2% Ingressos de capital (sense transf. int.)          12,47       18,30    46,7%
+                                                        Total (sense transf. int. i sense desp. fin.)           129,29     136,88       5,9% Total (sense transf. internes)                    280,97      313,18    11,5%
+
+                                                        Resultat de gestió (se nse tra nsf. int.)               151,69     176,30      16,2%
+
+
+
+
+              Resultat de gestió
+                                                                                Trimestre
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+                                                        Despeses corrents
+                                                        (sense despeses financeres)                             243,86     273,01     12,0% Ingressos corrents                                 294,36      326,52    10,9%
+                                                        Despeses de capital                                      25,63      22,21     -13,4% Ingressos de capital                               16,74       22,90    36,8%
+                                                        Total (sense despeses financeres)                       269,50     295,22       9,5% Total                                             311,10      349,42    12,3%
+                                                        Resultat de gestió                                       41,61      54,20      30,3%
+
+
+
+
+                             (sense transf. internes)
+  Resultat de caixa
+                                                                                Trimestre
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+                                                         Despeses corrents (sense transf. int.)                 118,71     130,26       9,7% Ingressos corrents (sense transf. int.)           268,50      294,88     9,8%
+                                                         Despeses de capital (sense transf. int.)                14,87      10,67     -28,2% Ingressos de capital (sense transf. int.)          12,47       18,30    46,7%
+                                                         Total (sense transf. internes)                         133,58     140,94       5,5% Total (sense transf. internes)                    280,97      313,18    11,5%
+                                                         Resultat de caixa (sense transf. int.)                 147,39     172,24      16,9%
+
+
+
+
+              Resultat de caixa
+                                                                                Trimestre
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+                                                         Despeses corrents                                      248,16     277,07     11,7% Ingressos corrents                                 294,36      326,52    10,9%
+                                                         Despeses de capital                                     25,63      22,21     -13,4% Ingressos de capital                               16,74       22,90    36,8%
+                                                         Total                                                  273,79     299,28       9,3% Total                                             311,10      349,42    12,3%
+                                                         Resultat de caixa                                       37,32      50,14      34,4%
+
+
+
+
+  Resultat pressupostari
+                                                                                Trimestre
+
+
+
+
+                             (sense transf. internes)
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+                                                         Despeses corrents (sense transf. Int.)                 118,71     130,26       9,7% Ingressos corrents (sense transf. int.)           268,50      294,88     9,8%
+                                                         Despeses de capital (sense transf. Int.)                14,87      10,67     -28,2% Ingressos de capital (sense transf. int.)          12,47       18,30    46,7%
+                                                         Total (sense transf. int. ni actius i passius fin.) 133,58        140,94       5,5% Total (sense transf. int. ni actius i passius fin.) 280,97    313,18    11,5%
+                                                         Actius i passius financers                               8,00       8,07       0,8% Actius i passius financers                           3,85       1,65    -57,3%
+                                                         Total (sense transf. internes)                         141,58     149,00       5,2% Total (sense transf. internes)                    284,83      314,82    10,5%
+                                                         Resultat press. (sense transf. int.)                   143,25     165,82      15,8%
+
+                                                                                Trimestre
+                                                                            (milions d'euros)                   1T 2025    1T 2026     %                                                       1T 2025     1T 2026   %
+     Resultat                                            Despeses corrents                                      248,16     277,07     11,7% Ingressos corrents                                 294,36      326,52    10,9%
+                                                         Despeses de capital                                     25,63      22,21     -13,4% Ingressos de capital                               16,74       22,90    36,8%
+
+  pressupostari
+                                                         Actius i passius financers                               8,00       8,07       0,8% Actius i passius financers                           3,85       1,65    -57,3%
+                                                         Total                                                  281,79     307,35       9,1% Total                                             314,96      351,07    11,5%
+                                                         Resultat pressupostari                                  33,17      43,72      31,8%
+
+
+
+
+A134_20260810_A                                                                                                                                                                                           Pàgina 4 de 28
+                                                                                        A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                                                                                    1r trimestre del 2026
+
+
+
+                                                                                                                                        S.1311a Administració central
+
+
+
+
+                              (sense transf. Internes)
+     Resultat de gestió
+                                                                                                      Trimestre
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+                                                                              Despeses corrents                                83,22       93,39      12,2% Ingressos corrents (sense transf. int.)   111,58     116,57     4,5%
+                                                                              (sense transf. int. i sense desp. fin.)
+
+                                                                               Despeses de capital (sense transf. int.)         7,98         6,73    -15,7% Ingressos de capital                         -         0,00     -
+
+                                                                              Total (sense transf. int. i sense desp. fin.)    91,20      100,12       9,8% Total (sense transf. internes)            111,58     116,57     4,5%
+                                                                               Resultat de gestió (sense transf. int.)         20,38       16,45      -19,3%
+
+
+
+
+               Resultat de gestió
+                                                                                                      Trimestre
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                               103,09      119,40      15,8%
+                                                                              (sense despeses financeres)                                                      Ingressos corrents                     129,45     139,20     7,5%
+                                                                              Despeses de capital                              14,48       13,66      -5,7% Ingressos de capital                         -         0,00     -
+                                                                              Total (sense despeses financeres)               117,57      133,06      13,2% Total                                     129,45     139,20     7,5%
+                                                                              Resultat de gestió                               11,88         6,15     -48,3%
+
+
+
+
+                              (sense transf. internes)
+     Resultat de caixa
+                                                                                                      Trimestre
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+
+                                                                              Despeses corrents (sense transf. int.)           87,20       97,22      11,5% Ingressos corrents (sense transf. int.)   111,58     116,57     4,5%
+                                                                              Despeses de capital (sense transf. int.)          7,98         6,73    -15,7% Ingressos de capital                         -         0,00     -
+                                                                              Total (sense transf. internes)                   95,18      103,95       9,2% Total (sense transf. internes)            111,58     116,57     4,5%
+                                                                              Resultat de caixa (sense transf. int.)           16,40       12,62      -23,0%
+
+
+
+
+               Resultat de caixa
+                                                                                                      Trimestre
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                               107,07      123,23      15,1% Ingressos corrents                        129,45     139,20     7,5%
+                                                                              Despeses de capital                              14,48       13,66      -5,7% Ingressos de capital                         -         0,00     -
+
+                                                                              Total                                           121,55      136,88      12,6% Total                                     129,45     139,20     7,5%
+                                                                              Resultat de caixa                                 7,90         2,32     -70,7%
+
+
+                                                                                                      Trimestre
+
+
+
+
+                                                   (sense transf. internes)
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+
+     Resultat                                                                 Despeses corrents (sense transf. Int.)           87,20       97,22      11,5% Ingressos corrents (sense transf. int.)   111,58     116,57     4,5%
+                                                                              Despeses de capital (sense transf. Int.)          7,98         6,73    -15,7% Ingressos de capital                         -         0,00     -
+
+  pressupostari
+                                                                              Actius i passius financers                        0,88         0,26     -71,0% Actius i passius financers                 0,04       0,10    155,4%
+                                                                              Total (sense transf. internes)                   96,06      104,21       8,5% Total (sense transf. internes)            111,62     116,67     4,5%
+                                                                              Resultat press. (sense transf. int.)             15,56       12,46      -19,9%
+
+
+                                                                                                      Trimestre
+                                                                                                  (milions d'euros)           1T 2025     1T 2026     %                                               1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                               107,07      123,23      15,1% Ingressos corrents                        129,45     139,20     7,5%
+        Resultat                                                              Despeses de capital                              14,48       13,66      -5,7% Ingressos de capital                         -         0,00     -
+
+                                                                              Actius i passius financers                        0,88         0,26     -71,0% Actius i passius financers                 0,04       0,10    155,4%
+
+     pressupostari
+                                                                              Total                                           122,43      137,14      12,0% Total                                     129,49     139,30     7,6%
+                                                                              Resultat pressupostari                            7,06         2,16     -69,3%
+
+
+
+
+A134_20260810_A                                                                                                                                                                                                 Pàgina 5 de 28
+                             A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                         1r trimestre del 2026
+
+
+
+
+                                                                S.1313 Administració local
+
+                                      Trimestre
+                                  (milions d'euros)   1T 2025   1T 2026     %                                 1T 2025      1T 2026   %
+                  Despeses corrents
+  Resultat de
+                                                       29,52     31,49      6,7%
+                  (sense despeses financeres)                                      Ingressos corrents          42,85        53,24    24,2%
+                  Despeses de capital                   6,05      3,82    -36,9% Ingressos de capital          12,47        18,30    46,7%
+    gestió        Total (sense despeses financeres)    35,57     35,30     -0,7% Total                         55,33        71,54    29,3%
+                   Resultat de gestió                  19,76     36,23     83,4%
+
+
+                                      Trimestre
+                                  (milions d'euros)   1T 2025   1T 2026     %                                 1T 2025      1T 2026   %
+
+  Resultat de
+                  Despeses corrents                    29,83     31,72      6,3% Ingressos corrents            42,85        53,24    24,2%
+                  Despeses de capital                   6,05      3,82    -36,9% Ingressos de capital          12,47        18,30    46,7%
+
+    caixa
+                  Total                                35,88     35,54     -1,0% Total                         55,33        71,54    29,3%
+                  Resultat de caixa                    19,45     36,00     85,1%
+
+
+                                      Trimestre
+                                  (milions d'euros)   1T 2025   1T 2026     %                                 1T 2025      1T 2026   %
+
+                  Despeses corrents                    29,83     31,72      6,3% Ingressos corrents            42,85        53,24    24,2%
+     Resultat     Despeses de capital                   6,05      3,82    -36,9% Ingressos de capital          12,47        18,30    46,7%
+                  Actius i passius financers            2,05      2,26     10,1% Actius i passius financers      -           0,96    -
+
+  pressupostari
+                  Total                                37,93     37,79     -0,4% Total                         55,33        72,50    31,0%
+                  Resultat pressupostari               17,40     34,70     99,5%
+
+
+
+
+A134_20260810_A                                                                                                         Pàgina 6 de 28
+                                                                                       A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                                                                                   1r trimestre del 2026
+
+
+
+                                                                                                                                       S.1314 Fons de la Seguretat social
+
+
+
+
+                             (sense transf. Internes)
+    Resultat de gestió
+                                                                                          trimestres acumulatius
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+                                                                             Despeses corrents                               111,25          122,12      9,8%
+                                                                             (sense despeses financeres)                                                         Ingressos corrents (sense transf. int.)   114,07     125,07    9,6%
+                                                                              Despeses de capital (sense transf. int.)         0,84            0,14    -83,8% Ingressos de capital (sense transf. int.)       -          -            -
+                                                                             Total (sense transf. int. i sense desp. fin.)   112,09          122,26      9,1% Total (sense transf. internes)               114,07     125,07    9,6%
+                                                                              Resultat de gestió (sense transf. int.)          1,98            2,81     42,2%
+
+
+
+
+              Resultat de gestió
+                                                                                          trimestres acumulatius
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+
+                                                                             Despeses corrents
+                                                                             (sense despeses financeres)                     111,25          122,12      9,8% Ingressos corrents                           122,06     134,08    9,8%
+                                                                              Despeses de capital                              5,10            4,74     -7,2% Ingressos de capital                           4,27       4,60    7,8%
+                                                                             Total (sense despeses financeres)               116,36          126,86      9,0% Total                                        126,32     138,68    9,8%
+                                                                              Resultat de gestió                               9,97           11,82     18,6%
+
+
+
+
+                             (sense transf. internes)
+    Resultat de caixa
+                                                                                          trimestres acumulatius
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                              111,25          122,12      9,8% Ingressos corrents (sense transf. int.)      114,07     125,07    9,6%
+                                                                              Despeses de capital (sense transf. int.)         0,84            0,14    -83,8% Ingressos de capital (sense transf. int.)       -          -            -
+                                                                              Total (sense transf. internes)                 112,09          122,26      9,1% Total (sense transf. internes)               114,07     125,07    9,6%
+                                                                              Resultat de caixa (sense transf. int.)           1,98            2,81     42,2%
+
+
+
+
+              Resultat de caixa
+                                                                                          trimestres acumulatius
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                              111,25          122,12      9,8% Ingressos corrents                           122,06     134,08    9,8%
+                                                                              Despeses de capital                              5,10            4,74     -7,2% Ingressos de capital                           4,27       4,60    7,8%
+                                                                              Total                                          116,36          126,86      9,0% Total                                        126,32     138,68    9,8%
+                                                                              Resultat de caixa                                9,97           11,82     18,6%
+
+
+                                                                                          trimestres acumulatius
+
+
+
+
+                                                  (sense transf. internes)
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+
+    Resultat                                                                  Despeses corrents                              111,25          122,12      9,8% Ingressos corrents (sense transf. int.)      114,07     125,07    9,6%
+                                                                              Despeses de capital (sense transf. Int.)         0,84            0,14    -83,8% Ingressos de capital (sense transf. int.)       -          -            -
+
+ pressupostari
+                                                                              Actius i passius financers                       5,07            5,55      9,6% Actius i passius financers                     3,82       0,59          -
+                                                                              Total (sense transf. internes)                 117,16          127,81      9,1% Total (sense transf. internes)               117,88     125,66    6,6%
+                                                                              Resultat press. (sense transf. int.)             0,72      -     2,16    -398,7%
+
+
+                                                                                          trimestres acumulatius
+                                                                                              (milions d'euros)              1T 2025         1T 2026     %                                                 1T 2025    1T 2026   %
+
+                                                                              Despeses corrents                              111,25          122,12      9,8% Ingressos corrents                           122,06     134,08    9,8%
+       Resultat                                                               Despeses de capital                              5,10            4,74     -7,2% Ingressos de capital                           4,27       4,60    7,8%
+                                                                              Actius i passius financers                       5,07            5,55          - Actius i passius financers                    3,82       0,59          -
+
+    pressupostari
+                                                                              Total                                          121,42          132,41      9,0% Total                                        130,14     139,26    7,0%
+                                                                              Resultat pressupostari                           8,71            6,85    -21,4%
+
+
+
+
+A134_20260810_A                                                                                                                                                                                                      Pàgina 7 de 28
+                       A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                   1r trimestre del 2026
+
+
+
+2. S.1311a. Adm. central, S.1313. Adm. local i S.1314. Fons de la seguretat social
+
+       2.1. Execució de despeses 1r trimestre
+
+
+       S.1311a + S.1313 + S.1314                   1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+                                                                                                                              Variació absoluta Variació
+                   (Trimestre)                                                                                                   2026 - 2025 2026 - 2025
+
+ 1. Despeses de personal                           41.993.839 €   46.095.648 €   49.890.994 €   53.838.051 €   57.592.843 €       3.754.793 €      7,0%
+ 2. Consum de béns corrents i serveis              14.261.969 €   17.876.486 €   17.331.413 €   19.889.567 €   21.292.056 €       1.402.489 €      7,1%
+ 3. Despeses financeres                             1.942.353 €    4.457.092 €    4.446.745 €    4.291.682 €    4.061.598 €        -230.084 €     -5,4%
+ 4. Transferències corrents                       126.568.770 € 132.589.310 € 138.005.144 € 170.136.152 € 194.123.667 €          23.987.514 €     14,1%
+ 4. Transferències corrents                       104.920.463 € 122.641.482 €    26.486.125 €   40.690.467 €   47.317.490 €       6.627.024 €     16,3%
+ (sense transf. Gov. a CC i CASS)
+
+ Despeses corrents                                184.766.931 € 201.018.535 € 209.674.296 € 248.155.452 € 277.070.164 €          28.914.711 €     11,7%
+ Despeses corrents
+                                                  163.118.625 € 191.070.707 €    98.155.277 € 118.709.766 € 130.263.987 €        11.554.221 €      9,7%
+ (sense transf. Gov. a CC i CASS)
+
+ 6. Inversions reals                                4.992.159 €    5.177.209 €    9.069.093 €   13.392.453 €    9.655.132 €       -3.737.321 €   -27,9%
+ 7. Transferències de capital                       9.792.894 €   11.851.645 €   14.562.070 €   12.239.674 €   12.554.332 €         314.657 €      2,6%
+ 7. Transferències de capital                        271.515 €      515.304 €      660.659 €     1.474.990 €    1.019.313 €        -455.677 €    -30,9%
+ (sense transf. Gov. a CC i CASS ni CASS a FRJ)
+
+ Despeses de capital                               14.785.052 €   17.028.854 €   23.631.163 €   25.632.128 €   22.209.464 €       -3.422.664 €   -13,4%
+ Despeses de capital
+ (sense transf. Gov. a CC i CASS ni CASS a          5.263.674 €    5.692.513 €    9.729.752 €   14.867.443 €   10.674.445 €       -4.192.998 €   -28,2%
+ FRJ)
+ 8. Actius financers                                6.069.104 €    6.245.132 €    9.587.689 €    6.174.448 €    7.072.706 €         898.258 €     14,5%
+ 9. Passius financers                             262.145.567 €    2.437.550 €    2.091.256 €    1.826.041 €     993.466 €         -832.575 €    -45,6%
+ Actius i passius financers                       268.214.671 €    8.682.682 €   11.678.945 €    8.000.489 €    8.066.172 €          65.683 €      0,8%
+                     Total                        467.766.654 € 226.730.072 € 244.984.403 € 281.788.069 € 307.345.799 €          25.557.730 €      9,1%
+                     Total                        199.551.983 € 218.047.390 € 233.305.459 € 273.787.580 € 299.279.627 €          25.492.048 €      9,3%
+        (sense actius ni passius financers)
+
+                     Total                        436.596.970 € 205.445.902 € 119.563.974 € 141.577.699 € 149.004.604 €           7.426.905 €      5,2%
+            (sense transf. Gov. a CC)
+
+                     Total                        168.382.298 € 196.763.220 € 107.885.029 € 133.577.210 € 140.938.433 €           7.361.223 €      5,5%
+         (sense transf. Gov. a CC ni APF)
+
+
+
+
+A134_20260810_A                                                                                                                      Pàgina 8 de 28
+           A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                       1r trimestre del 2026
+
+
+
+    2.2. Distribució i variacions interanuals de les despeses
+
+
+
+                                         Despesa 1r trimestre S.1311a + S.1313 + S.1314
+                                                          (distribució)
+
+             100%          3,9%                                3,8%                4,8%                    2,8%        2,6%
+                                                               7,5%                                        9,1%        7,2%
+              90%         11,8%                                                    9,6%
+              80%
+              70%                           57,3%
+              60%
+              50%
+                          84,3%                               88,7%               85,6%                   88,1%       90,1%
+              40%                            3,2%
+              30%
+              20%                           39,5%
+              10%
+               0%
+                          1T 2021          1T 2022            1T 2023           1T 2024                   1T 2025     1T 2026
+
+                                          Despeses corrents    Despeses de capital       Actius i passius financers
+
+
+
+
+                                           Despesa 1r trimestre S.1311a + S.1313 + S.1314
+                                                      (variacions interanuals)
+
+                    80%
+
+                    60%
+
+                    40%
+
+                    20%
+
+                    0%
+
+                  -20%
+
+                  -40%
+
+                  -60%
+                               1T 2021         1T 2022           1T 2023            1T 2024                1T 2025    1T 2026
+                                                    Despeses corrents                     Despeses de capital
+
+
+
+
+                                               Despesa 1r trimestre S.1311a + S.1313 + S.1314
+                                                          (variacions interanuals)
+
+                     3500%
+                     3000%
+                     2500%
+                     2000%
+                     1500%
+                     1000%
+                      500%
+                          0%
+                     -500%
+                                  1T 2021         1T 2022           1T 2023            1T 2024              1T 2025    1T 2026
+
+                                                                           Acti us i passiu s financers
+
+
+
+
+A134_20260810_A                                                                                                                  Pàgina 9 de 28
+                             A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                         1r trimestre del 2026
+
+
+
+        2.3. Execució d’ingressos 1r trimestre
+
+
+
+      S.1311a + S.1313 + S.1314               1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+                                                                                                                         Variació absoluta Variació
+                   (Trimestre)                                                                                              2026 - 2025    2026 - 2025
+
+ 1. Impostos directes                        100.772.200 € 119.187.161 € 127.598.660 € 143.188.362 € 165.700.398 €           22.512.036 €       15,7%
+ 2. Impostos indirectes                       87.248.739 €   82.875.594 €   94.050.435 €   97.510.685 €   98.099.319 €          588.634 €         0,6%
+ 2. Impostos indirectes                       73.829.226 €   68.099.388 €   76.936.757 €   79.634.437 €   75.464.830 €       -4.169.607 €        -5,2%
+ (sense ingrés CC de Gov.)
+
+ 3. Taxes i altres ingressos                  25.691.613 €   29.798.455 €   25.465.053 €   30.765.298 €   37.091.391 €        6.326.093 €       20,6%
+ 4. Transferències corrents                   19.052.294 €   12.570.670 €   13.815.286 €   16.900.180 €   20.203.575 €        3.303.395 €       19,5%
+ 4. Transferències corrents                    8.569.628 €    9.153.510 €    7.798.438 €    8.909.656 €   11.196.456 €        2.286.800 €       25,7%
+ (sense ingrés CASS de Gov.)
+
+ 5. Ingressos patrimonials                     4.490.768 €    5.665.300 €    5.071.341 €    5.998.857 €    5.426.680 €         -572.177 €        -9,5%
+ Ingressos corrents                          237.255.614 € 250.097.180 € 266.000.774 € 294.363.383 € 326.521.362 €           32.157.980 €       10,9%
+ Ingressos corrents                          213.353.436 € 231.903.814 € 242.870.249 € 268.496.611 € 294.879.754 €           26.383.144 €         9,8%
+ (sense ingrés CC i CASS de Gov.)
+
+ 6. Alienació d'inversions reals                   1.875 €        9.000 €     172.748 €              0€        2.466 €            2.466 € -
+ 7. Transferències de capital                 11.999.592 €   14.486.934 €   20.246.599 €   16.740.111 €   22.897.521 €        6.157.410 €       36,8%
+ 7. Transferències de capital                  7.277.082 €    8.486.934 €   12.396.599 €   12.474.037 €   18.297.521 €        5.823.484 €       46,7%
+ (sense ingrés FRJ de CASS)
+
+ Ingressos de capital                         12.001.467 €   14.495.934 €   20.419.347 €   16.740.111 €   22.899.987 €        6.159.876 €       36,8%
+ Ingressos de capital                          7.278.957 €    8.495.934 €   12.569.347 €   12.474.037 €   18.299.987 €        5.825.950 €       46,7%
+ (sense ingrés FRJ de CASS)
+
+ 8. Actius financers                          17.879.757 €      28.752 €      728.164 €     3.815.282 €    1.548.365 €       -2.266.917 €       -59,4%
+ 9. Passius financers                        500.061.540 €        4.533 €      15.439 €       39.284 €       96.755 €            57.471 €      146,3%
+ Actius i passius financers                  517.941.297 €      33.285 €      743.603 €     3.854.566 €    1.645.120 €       -2.209.446 €       -57,3%
+                     Total                   767.198.377 € 264.626.400 € 287.163.725 € 314.958.060 € 351.066.469 €           36.108.410 €       11,5%
+                      Total
+                                             249.257.081 € 264.593.114 € 286.420.121 € 311.103.493 € 349.421.349 €           38.317.856 €       12,3%
+       (sense actius ni passius financers)
+
+                     Total
+                                             738.573.689 € 240.433.034 € 256.183.199 € 284.825.214 € 314.824.862 €           29.999.648 €       10,5%
+            (sense transf. internes)
+
+                     Total
+                                             220.632.392 € 240.399.748 € 255.439.596 € 280.970.648 € 313.179.742 €           32.209.094 €       11,5%
+        (sense transf. internes ni APF)
+
+
+
+
+A134_20260810_A                                                                                                                   Pàgina 10 de 28
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+    2.4. Distribució i variacions interanuals de dels ingressos
+
+
+
+                                     Ingressos 1r trimestre S.1311a + S.1313 + S.1314
+                                                       (distribució)
+               100%                                            5,5%
+                             8,1%                                                      7,1%               5,3%              6,5%
+                  90%
+                  80%
+                  70%
+                                           67,5%
+                  60%
+                  50%                                         94,5%
+                             91,4%                                                    92,6%              93,5%              93,0%
+                  40%
+                  30%                       1,6%
+                  20%
+                                           30,9%
+                  10%
+                   0%
+                         1T 2021          1T 2022            1T 2023                  1T 2024           1T 2025            1T 2026
+
+                                             Ingressos corren ts    Ingressos de capital      Actius i passius financers
+
+
+
+
+                                      Ingressos 1r trimestre S.1311a + S.1313 + S.1314
+                                                  (variacions interanuals)
+                  60%
+                  50%
+                  40%
+                  30%
+                  20%
+                  10%
+                  0%
+               -10%
+               -20%
+               -30%
+                         1T 2021          1T 2022           1T 2023               1T 2024              1T 2025             1T 2026
+
+                                                   Ingressos corrents           Ingressos de capital
+
+
+
+
+                                          Ingressos 1r trimestre S.1311a + S.1313 + S.1314
+                                                      (variacions interanuals)
+
+                   60000%
+
+                   50000%
+
+                   40000%
+
+                   30000%
+
+                   20000%
+
+                   10000%
+
+                        0%
+
+                   -10000%
+                                1T 2021       1T 2022              1T 2023              1T 2024           1T 2025           1T 2026
+                                                         Actius i passius financers
+
+
+
+
+A134_20260810_A                                                                                                                       Pàgina 11 de 28
+                  A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                              1r trimestre del 2026
+
+
+
+      2.5. Resultats 1r trimestre
+
+
+
+   S.1311a + S.1313 + S.1314                                                                                               Variació absoluta Variació
+                                    1T 2022               1T 2023         1T 2024             1T 2025       1T 2026
+           (Trimestre)                                                                                                        2026 - 2025 2026 - 2025
+
+  Resultat pressupostari          299.431.723 €          37.896.328 €    42.179.321 €        33.169.991 €   43.718.314 €         10.548.323 €   31,8%
+  Resultat de caixa                49.705.098 €          46.545.724 €    53.114.663 €        37.315.914 €   50.139.366 €         12.823.452 €   34,4%
+  Resultat de gestió               51.647.451 €          51.002.816 €    57.561.408 €        41.607.596 €   54.200.963 €         12.593.368 €   30,3%
+
+
+
+
+      2.6. Variacions interanuals dels resultats
+
+
+
+
+                                                  Resultats 1r trimestre S.1311a + S.1313 + S.1314
+                                                                 (variació interanual)
+               200%
+
+                  0%
+
+              -200%
+
+              -400%
+
+              -600%
+
+              -800%
+
+             -1000%
+
+             -1200%
+                               1T 2021           1T 2022             1T 2023          1T 2024           1T 2025          1T 2026
+
+                                         Re sultat p ressup ostari             Re sultat d e caixa            Re sultat d e g estió
+
+
+
+
+A134_20260810_A                                                                                                                        Pàgina 12 de 28
+                        A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                    1r trimestre del 2026
+
+
+
+3. S.1311a. Administració central (Govern d’Andorra)
+
+       3.1. Execució de despeses 1r trimestre
+
+
+
+    S.1311a Administració central             1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+                                                                                                                         Variació absoluta Variació
+                  (Trimestre)                                                                                               2026 - 2025 2026 - 2025
+
+1. Despeses de personal                       28.169.371 €   31.757.615 €   34.016.685 €   36.536.021 €   39.277.949 €       2.741.928 €      7,5%
+2. Consum de béns corrents i serveis           4.166.732 €    5.061.734 €    6.554.120 €    5.989.281 €    6.794.421 €         805.141 €     13,4%
+3. Despeses financeres                         1.772.336 €    4.213.048 €    4.034.391 €    3.980.169 €    3.829.071 €        -151.098 €      -3,8%
+4. Transferències corrents                    43.657.706 €   45.463.009 €   41.383.905 €   60.563.428 €   73.324.761 €      12.761.333 €     21,1%
+4. Transferències corrents                    22.009.400 €   35.515.181 €   26.486.125 €   40.690.467 €   47.317.490 €       6.627.024 €     16,3%
+(sense transf. Gov. a CC i CASS)
+
+Despeses corrents                             77.766.144 €   86.495.407 €   85.989.101 € 107.068.898 € 123.226.203 €        16.157.304 €     15,1%
+Despeses corrents
+                                              56.117.838 €   76.547.578 €   71.091.321 €   87.195.937 €   97.218.932 €      10.022.995 €     11,5%
+(sense transf. Gov. a CC i CASS)
+
+6. Inversions reals                               25.313 €     443.241 €     1.568.127 €    6.508.384 €    5.711.909 €        -796.475 €     -12,2%
+7. Transferències de capital                   4.984.562 €    5.851.645 €    6.712.070 €    7.973.600 €    7.946.832 €          -26.769 €     -0,3%
+7. Transferències de capital                    185.694 €      515.304 €      660.659 €     1.474.990 €    1.019.313 €        -455.677 €     -30,9%
+(sense transf. Gov. a CC)
+
+Despeses de capital                            5.009.876 €    6.294.886 €    8.280.196 €   14.481.985 €   13.658.741 €        -823.244 €      -5,7%
+Despeses de capital
+                                                211.007 €      958.544 €     2.228.785 €    7.983.375 €    6.731.222 €       -1.252.152 €    -15,7%
+(sense transf. Gov. a CC i CASS)
+
+8. Actius financers                                     0€             0€     276.033 €              0€      45.000 €           45.000 € -
+9. Passius financers                         260.520.364 €    1.063.221 €     827.165 €      881.788 €      210.526 €         -671.262 €     -76,1%
+Actius i passius financers                   260.520.364 €    1.063.221 €    1.103.198 €     881.788 €      255.526 €         -626.262 €     -71,0%
+                     Total                   343.296.384 €   93.853.513 €   95.372.495 € 122.432.672 € 137.140.470 €        14.707.798 €     12,0%
+                     Total                    82.776.020 €   92.790.293 €   94.269.298 € 121.550.883 € 136.884.944 €        15.334.060 €     12,6%
+       (sense actius ni passius financers)
+
+                     Total                   316.849.210 €   78.569.344 €   74.423.304 €   96.061.100 € 104.205.681 €        8.144.581 €      8,5%
+             (sense transf. internes)
+
+                     Total
+                                              56.328.845 €   77.506.123 €   73.320.106 €   95.179.312 € 103.950.154 €        8.770.843 €      9,2%
+        (sense transf. internes ni APF)
+
+
+
+
+A134_20260810_A                                                                                                                Pàgina 13 de 28
+           A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                       1r trimestre del 2026
+
+
+
+
+    3.2. Distribució i variacions interanuals de les despeses
+
+
+
+                                            Despesa 1r trimestre S.1311a Administració central
+                                                               (distribució)
+                  100%                                                 1,1%                                           0,7%               0,2%
+                                14,8%                                  6,7%                   8,7%                    11,8%              10,0%
+
+                  80%
+
+                  60%
+
+                                88,9%                                 92,2%                  90,2%                    87,5%              89,9%
+                  40%
+
+                  20%                              1,5%
+                                                22,7%
+                   0%           -3,7%
+
+                  -20%
+                               1T 2021         1T 2022               1T 2023                1T 2024                  1T 2025          1T 2026
+
+                                             Despeses corrents      Despeses de capital        Actius i passius financers
+
+
+
+                                             Despesa 1r trimestre S.1311a Administració central
+                                                           (variacions interanuals)
+                     50%
+
+                     40%
+
+                     30%
+
+                     20%
+
+                     10%
+
+                         0%
+
+                     -10%
+
+                     -20%
+                                  1T 2021       1T 2022             1T 2023             1T 2024              1T 2025           1T 2026
+
+                                                                                 Despeses corren ts
+
+
+
+
+                                                       Despesa 1r trimestre S.1311a Administració central
+                                                                     (variacions interanuals)
+                              10000%
+
+                                  0%
+
+                              -10000%
+
+                              -20000%
+
+                              -30000%
+
+                              -40000%
+
+                              -50000%
+
+                              -60000%
+
+                              -70000%
+                                         1T 2021          1T 2022          1T 2023           1T 2024               1T 2025      1T 2026
+
+                                                           Despeses de capital        Actius i passius financers
+
+
+
+
+A134_20260810_A                                                                                                                              Pàgina 14 de 28
+                         A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                     1r trimestre del 2026
+
+
+
+       3.3. Execució d’ingressos 1r trimestre
+
+
+
+   S.1311a Administració central              1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+                                                                                                                         Variació absoluta Variació
+                   (Trimestre)                                                                                              2026 - 2025    2026 - 2025
+
+ 1. Impostos directes                          9.324.285 €   14.149.866 €   17.861.290 €   21.937.645 €   28.883.838 €        6.946.193 €       31,7%
+ 2. Impostos indirectes                       86.600.160 €   81.571.581 €   93.892.001 €   95.994.303 €   96.662.363 €          668.060 €           0,7%
+ 2. Impostos indirectes                       73.180.647 €   66.795.375 €   76.778.324 €   78.118.055 €   74.027.874 €       -4.090.181 €        -5,2%
+ (sense ingrés CC de Gov.)
+
+ 3. Taxes i altres ingressos                   9.913.342 €    9.907.518 €   11.803.326 €   11.027.125 €   12.703.255 €        1.676.130 €       15,2%
+ 4. Transferències corrents                             0€             0€             0€      11.748 €              0€          -11.748 €     -100,0%
+ 5. Ingressos patrimonials                     1.106.421 €    2.229.614 €     775.633 €      483.950 €      952.685 €           468.735 €       96,9%
+ Ingressos corrents                          106.944.208 € 107.858.580 € 124.332.250 € 129.454.771 € 139.202.141 €            9.747.370 €           7,5%
+ Ingressos corrents                           93.524.695 €   93.082.374 € 107.218.572 € 111.578.523 € 116.567.652 €           4.989.129 €           4,5%
+ (sense ingrés CC de Gov.)
+
+ 6. Alienació d'inversions reals                        0€        9.000 €             0€             0€        2.356 €            2.356 € -
+ 7. Transferències de capital                           0€             0€             0€             0€             0€                0€        -
+ Ingressos de capital                                   0€        9.000 €             0€             0€        2.356 €            2.356 € -
+ 8. Actius financers                          16.447.402 €             0€      23.850 €              0€      79.516 €            79.516 € -
+ 9. Passius financers                        500.061.540 €        4.533 €      15.439 €       39.284 €       20.811 €           -18.473 €       -47,0%
+ Actius i passius financers                  516.508.941 €        4.533 €      39.289 €       39.284 €      100.328 €            61.044 €      155,4%
+                     Total                   623.453.149 € 107.872.113 € 124.371.539 € 129.494.055 € 139.304.825 €            9.810.770 €           7,6%
+                      Total                  106.944.208 € 107.867.580 € 124.332.250 € 129.454.771 € 139.204.498 €            9.749.727 €           7,5%
+       (sense actius ni passius financers)
+
+                     Total
+                                             610.033.636 €   93.095.907 € 107.257.861 € 111.617.807 € 116.670.336 €           5.052.529 €           4,5%
+            (sense transf. internes)
+                     Total
+                                              93.524.695 €   93.091.374 € 107.218.572 € 111.578.523 € 116.570.009 €           4.991.485 €           4,5%
+        (sense transf. internes ni APF)
+
+
+
+
+A134_20260810_A                                                                                                                    Pàgina 15 de 28
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+    3.4. Distribució i variacions interanuals dels ingressos
+
+
+
+
+                                    Ingressos 1r trimestre S.1311a Administració central
+                                                         (distribució)
+
+            100%
+             90%
+             80%
+             70%
+             60%
+                                          82,8%
+             50%            98,7%                                100,0%              100,0%               100,0%              99,9%
+             40%
+             30%
+             20%
+             10%                          17,2%
+              0%
+                        1T 2021          1T 2022             1T 2023                1T 2024              1T 2025             1T 2026
+
+                                            Ingressos corrents      Ingressos de capital    Actius i passius financers
+
+
+
+                                    Ingressos 1r trimestre S.1311a Administració central
+                                                    (variacions interanuals)
+             80%
+             60%
+             40%
+             20%
+              0%
+            -20%
+            -40%
+            -60%
+            -80%
+           -100%
+           -120%
+                       1T 2021           1T 2022           1T 2023               1T 2024              1T 2025              1T 2026
+                                                   Ingressos corren ts               Ingressos de capital
+
+
+
+
+                                     Ingressos 1r trimestre S.1311a Administració central
+                                                     (variacions interanuals)
+              300000%
+
+              250000%
+
+              200000%
+
+              150000%
+
+              100000%
+
+                  50000%
+
+                      0%
+
+                  -50000%
+                               1T 2021      1T 2022              1T 2023          1T 2024           1T 2025              1T 2026
+
+                                                             Actius i passius financers
+
+
+
+
+A134_20260810_A                                                                                                                      Pàgina 16 de 28
+                 A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                             1r trimestre del 2026
+
+
+
+     3.5. Resultats 1r trimestre
+
+
+
+ S.1311a Administració central                                                                                                     Variació absoluta Variació
+                                    1T 2022                1T 2023          1T 2024               1T 2025         1T 2026
+          (Trimestre)                                                                                                                 2026 - 2025 2026 - 2025
+
+  Resultat pressupostari           280.156.765 €          14.018.599 €     28.999.044 €           7.061.383 €     2.164.355 €             -4.897.028 €   -69,3%
+  Resultat de caixa                 24.168.188 €          15.077.287 €     30.062.952 €           7.903.888 €     2.319.554 €             -5.584.334 €   -70,7%
+  Resultat de gestió                25.940.524 €          19.290.336 €     34.097.344 €          11.884.057 €     6.148.625 €             -5.735.432 €   -48,3%
+
+
+
+
+     3.6. Variacions interanuals dels resultats
+
+
+
+
+                                                Resultats 1r trimestre S.1311a Administració central
+                                                                 (variació interanual)
+
+                   200%
+
+                       0%
+
+                  -200%
+
+                  -400%
+
+                  -600%
+
+                  -800%
+
+                -1000%
+                                 1T 2021           1T 2022             1T 2023          1T 2024             1T 2025          1T 2026
+
+                                           Re sultat p ressup ostari             Re sultat d e caixa              Re sultat d e g estió
+
+
+
+
+A134_20260810_A                                                                                                                                 Pàgina 17 de 28
+                       A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                   1r trimestre del 2026
+
+
+
+4. S.1313. Administració local (Comuns)
+
+         4.1. Execució de despeses 1r trimestre
+
+
+
+         S.1313 Administració local                         1T 2022                     1T 2023              1T 2024                1T 2025                1T 2026
+                                                                                                                                                                            Variació absoluta Variació
+                    (Trimestre)                                                                                                                                                2026 - 2025 2026 - 2025
+
+  1. Despeses de personal                                  12.400.667 €               12.804.486 €           14.164.028 €         15.428.569 €             16.232.481 €                  803.912 €        5,2%
+  2. Consum de béns corrents i serveis                      8.753.296 €               11.250.330 €            9.084.098 €         11.770.607 €             12.631.091 €                  860.484 €        7,3%
+  3. Despeses financeres                                      169.454 €                      243.668 €          412.073 €              311.183 €             232.267 €                   -78.916 €       -25,4%
+  4. Transferències corrents                                2.726.173 €                     3.181.751 €       1.730.360 €           2.323.243 €             2.625.121 €                  301.878 €       13,0%
+  Despeses corrents                                        24.049.590 €               27.480.235 €           25.390.559 €         29.833.602 €             31.720.959 €                1.887.357 €        6,3%
+  6. Inversions reals                                       4.909.466 €                     4.682.354 €       6.902.864 €           6.047.651 €             3.807.823 €                -2.239.827 €      -37,0%
+  7. Transferències de capital                                 85.821 €                             0€                   0€                     0€              7.500 €                    7.500 € -
+  Despeses de capital                                       4.995.287 €                     4.682.354 €       6.902.864 €           6.047.651 €             3.815.323 €                -2.232.327 €      -36,9%
+  8. Actius financers                                       1.231.346 €                             0€          601.397 €           1.105.000 €             1.472.706 €                  367.706 €       33,3%
+  9. Passius financers                                      1.625.203 €                     1.374.329 €       1.264.091 €              944.253 €             782.940 €                  -161.313 €       -17,1%
+  Actius i passius financers                                2.856.549 €                     1.374.329 €       1.865.488 €           2.049.253 €             2.255.646 €                  206.393 €       10,1%
+                      Total                                31.901.426 €               33.536.918 €           34.158.911 €         37.930.506 €             37.791.928 €                 -138.577 €        -0,4%
+                      Total                                29.044.877 €               32.162.590 €           32.293.423 €         35.881.253 €             35.536.283 €                 -344.970 €        -1,0%
+         (sense actius ni passius financers)
+
+
+
+
+         4.2. Distribució i variacions interanuals de les despeses
+
+                                                                                    Despesa 1r trimestre S.1313 Administració local
+                                                                                                     (distribució)
+                                      100%                                                            4,1%
+                                                                                 9,0%                                    5,5%                  5,4%              6,0%
+                                                         15,9%
+                                                                                                      14,0%                                   15,9%              10,1%
+                                                                                15,7%                                    20,2%
+                                        80%
+                                                         13,9%
+
+
+                                        60%
+
+
+                                        40%                                                           81,9%                                   78,7%              83,9%
+                                                         70,2%                  75,4%                                    74,3%
+
+
+                                        20%
+
+
+                                          0%
+                                                         1T 2021              1T 2022                1T 2023            1T 2024              1T 2025            1T 2026
+                                                                       Despeses corren ts         Despeses de capital   Acti us i passiu s financers
+
+
+
+                             Despesa 1r trimestre S.1313 Administració local                                                                 Despesa 1r trimestre S.1313 Administració local
+                                         (variacions interanuals)                                                                                        (variacions interanuals)
+ 200%                                                                                                                   60%
+                                                                                                                        50%
+ 150%                                                                                                                   40%
+                                                                                                                        30%
+ 100%
+                                                                                                                        20%
+                                                                                                                        10%
+  50%
+                                                                                                                         0%
+   0%                                                                                                                   -10%
+                                                                                                                        -20%
+ -50%                                                                                                                   -30%
+                                                                                                                        -40%
+ -100%
+                                                                                                                        -50%
+           1T 2021          1T 2022            1T 2023       1T 2024              1T 2025          1T 2026
+                                                                                                                                 1T 2021         1T 2022       1T 2023          1T 2024        1T 2025     1T 2026
+                             Despeses corrents               Acti us i passiu s financers
+                                                                                                                                                                 Despeses de capital
+
+
+
+
+A134_20260810_A                                                                                                                                                                            Pàgina 18 de 28
+                       A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                   1r trimestre del 2026
+
+
+
+
+        4.3. Execució d’ingressos 1r trimestre
+
+
+
+    S.1313 Administració local                                                                                                                             Variació absoluta Variació
+                                                        1T 2022                  1T 2023             1T 2024          1T 2025         1T 2026
+                (Trimestre)                                                                                                                                   2026 - 2025    2026 - 2025
+
+1. Impostos directes                                     8.978.569 €            12.186.360 €         7.793.385 €      11.735.854 €   17.935.288 €               6.199.434 €                52,8%
+2. Impostos indirectes                                     648.579 €              1.304.013 €          158.434 €       1.516.382 €     1.436.956 €                 -79.426 €                -5,2%
+3. Taxes i altres ingressos                            15.089.831 €             19.284.717 €        13.038.836 €      19.069.449 €   23.661.972 €               4.592.522 €                24,1%
+4. Transferències corrents                               6.170.677 €              6.320.366 €        4.730.174 €       5.786.104 €     6.465.864 €                 679.760 €               11,7%
+5. Ingressos patrimonials                                2.781.237 €              2.755.973 €        3.573.470 €       4.744.665 €     3.742.745 €             -1.001.919 €               -21,1%
+Ingressos corrents                                     33.668.894 €             41.851.428 €        29.294.298 €      42.852.454 €   53.242.825 €              10.390.371 €                24,2%
+6. Alienació d'inversions reals                                1.875 €                         0€      172.748 €                0€             110 €                     110 € -
+7. Transferències de capital                             7.277.082 €              8.486.934 €       12.396.599 €      12.474.037 €   18.295.165 €               5.821.128 €                46,7%
+Ingressos de capital                                     7.278.957 €              8.486.934 €       12.569.347 €      12.474.037 €   18.295.274 €               5.821.237 €                46,7%
+8. Actius financers                                                  0€                        0€               0€              0€         882.706 €               882.706 €               -
+9. Passius financers                                                 0€                        0€               0€              0€          75.944 €                 75.944 €              -
+Actius i passius financers                                           0€                        0€               0€              0€         958.650 €               958.650 €               -
+                  Total                                40.947.851 €             50.338.362 €        41.863.645 €      55.326.491 €   72.496.750 €              17.170.259 €                31,0%
+                  Total                                40.947.851 €             50.338.362 €        41.863.645 €      55.326.491 €   71.538.100 €              16.211.609 €                29,3%
+     (sense actius ni passius financers)
+
+
+
+
+        4.4. Distribució i variacions interanuals dels ingressos
+
+
+
+
+                        Ingressos 1r trimestre S.1313 Administració local
+                                          (distribució)                                                                          Ingressos 1r trimestre S.1313 Administració local
+                                                                                                                                              (variacions interanuals)
+ 100%
+                                                                                                               60%
+  90%                           17,8%             16,9%                                22,5%
+             23,8%                                                   30,0%                           25,2%     50%
+  80%                                                                                                          40%
+  70%                                                                                                          30%
+  60%                                                                                                          20%
+  50%                                                                                                          10%
+  40%                           82,2%             83,1%                                77,5%                    0%
+             76,2%                                                   70,0%                           73,4%
+  30%                                                                                                          -10%
+  20%                                                                                                          -20%
+  10%                                                                                                          -30%
+   0%                                                                                                          -40%
+            1T 2021           1T 2022            1T 2023           1T 2024            1T 2025       1T 2026           1T 2021    1T 2022        1T 2023          1T 2024              1T 2025       1T 2026
+
+                                                                                                                                      Ingressos corrents       Ingressos de capital
+                              Ingressos corrents Ingressos de capital Actius i passius financers
+
+
+
+
+A134_20260810_A                                                                                                                                                       Pàgina 19 de 28
+                 A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                             1r trimestre del 2026
+
+
+
+    4.5. Resultats 1r trimestre
+
+
+
+
+     S.1313 Administració local                                                                                                     Variació absoluta
+                                      1T 2022           1T 2023                 1T 2024              1T 2025         1T 2026                          Variació
+             (Trimestre)                                                                                                               2026 - 2025
+
+    Resultat pressupostari             9.046.425 €     16.801.444 €              7.704.734 €         17.395.985 €    34.704.821 €         17.308.836 €       99,5%
+    Resultat de caixa                 11.902.974 €     18.175.773 €              9.570.222 €         19.445.238 €    36.001.817 €         16.556.579 €       85,1%
+    Resultat de gestió                12.072.428 €     18.419.441 €              9.982.295 €         19.756.421 €    36.234.084 €         16.477.662 €       83,4%
+
+
+
+    4.6. Variacions interanuals dels resultats
+
+
+
+
+                                                     Resultats 1r trimestre S.1313 Administració local
+                                                                             (variació interanual)
+
+
+                             600 %
+
+                             500 %
+
+                             400 %
+
+                             300 %
+
+                             200 %
+
+                             100 %
+
+                               0%
+
+                             -100 %
+
+                             -200 %
+                                       1T 2021          1T 2022                 1T 2023              1T 2024         1T 2025             1T 2026
+
+                                                 Re sultat p ressup ostari                     Re sultat d e caixa             Re sultat d e g estió
+
+
+
+
+A134_20260810_A                                                                                                                                        Pàgina 20 de 28
+                        A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                    1r trimestre del 2026
+
+
+
+5. S.1314. Fons de la seguretat social (CASS i Fons de Reserva de Jubilació)
+
+       5.1. Execució de despeses 1r trimestre
+
+
+
+ S.1314 Fons de la Seguretat Social          1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+                                                                                                                        Variació absoluta Variació
+                  (Trimestre)                                                                                              2026 - 2025 2026 - 2025
+
+1. Despeses de personal                       1.423.802 €    1.533.546 €    1.710.281 €   1.873.461 €    2.082.413 €          208.952 €     11,2%
+2. Consum de béns corrents i serveis          1.341.941 €    1.564.423 €    1.693.195 €   2.129.679 €    1.866.543 €         -263.136 €    -12,4%
+3. Despeses financeres                             563 €          375 €          281 €          330 €          260 €              -70 €    -21,1%
+4. Transferències corrents                   80.184.891 €   83.944.550 €   94.890.879 € 107.249.482 € 118.173.785 €        10.924.303 €     10,2%
+Despeses corrents                            82.951.197 €   87.042.894 €   98.294.636 € 111.252.952 € 122.123.001 €        10.870.050 €      9,8%
+6. Inversions reals                             57.380 €       51.614 €      598.102 €      836.418 €      135.400 €         -701.019 €    -83,8%
+7. Transferències de capital                  4.722.510 €    6.000.000 €    7.850.000 €   4.266.074 €    4.600.000 €          333.926 €      7,8%
+7. Transferències de capital
+(sense transf. CASS a FRJ)
+                                                       0€             0€             0€             0€             0€               0€-
+
+Despeses de capital                           4.779.890 €    6.051.614 €    8.448.102 €   5.102.492 €    4.735.400 €         -367.093 €     -7,2%
+Despeses de capital                             57.380 €       51.614 €      598.102 €      836.418 €      135.400 €         -701.019 €    -83,8%
+(sense transf. CASS a FRJ)
+
+8. Actius financers                           4.837.758 €    6.245.132 €    8.710.259 €   5.069.448 €    5.555.000 €          485.552 €      9,6%
+9. Passius financers                                   0€             0€             0€             0€             0€               0€-
+Actius i passius financers                    4.837.758 €    6.245.132 €    8.710.259 €   5.069.448 €    5.555.000 €          485.552 €      9,6%
+                    Total                    92.568.845 €   99.339.640 € 115.452.997 € 121.424.892 € 132.413.401 €         10.988.509 €      9,0%
+                    Total                    87.731.086 €   93.094.508 € 106.742.738 € 116.355.444 € 126.858.401 €         10.502.957 €      9,0%
+       (sense actius ni passius financers)
+
+                    Total
+                                             87.846.335 €   93.339.640 € 107.602.997 € 117.158.818 € 127.813.401 €         10.654.583 €      9,1%
+           (sense transf. internes)
+
+                    Total
+                                             83.008.577 €   87.094.508 €   98.892.738 € 112.089.370 € 122.258.401 €        10.169.031 €      9,1%
+       (sense transf. internes ni APF)
+
+
+
+
+A134_20260810_A                                                                                                               Pàgina 21 de 28
+           A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                       1r trimestre del 2026
+
+
+
+    5.2. Distribució i variacions interanuals de les despeses
+
+
+
+                                      Despesa 1r trimestre S.1314 Fons de la Seguretat Social
+                                                            (distribució)
+                  100%
+                                          5,2%                                                            4,2%                  4,2%
+                                                             6,3%                 7,5%
+                            7,8%
+                  95%
+                                                                                                          4,2%                  3,6%
+                                          5,2%
+                  90%                                        6,1%
+                            7,9%                                                   7,3%
+
+                  85%
+                                                                                                         91,6%                 92,2%
+                                          89,6%
+                                                             87,6%
+                  80%      84,3%                                                  85,1%
+
+
+                  75%
+                           1T 2021       1T 2022           1T 2023              1T 2024                 1T 2025               1T 2026
+
+                                              Despeses corrents      Despeses de capital      Actius i passius financers
+
+
+
+
+                                       Despesa 1r trimestre S.1314 Fons de la Seguretat Social
+                                                       (variacions interanuals)
+                    900%
+
+
+
+                    600%
+
+
+
+                    300%
+
+
+
+                      0%
+
+
+
+                   -300%
+                            1T 2021       1T 2022          1T 2023            1T 2024               1T 2025                1T 2026
+                                                    Despeses corren ts         Acti us i passiu s financers
+
+
+
+
+                                      Despesa 1r trimestre S.1314 Fons de la Seguretat Social
+                                                      (variacions interanuals)
+                  700%
+                  600%
+                  500%
+                  400%
+                  300%
+                  200%
+                  100%
+                    0%
+                  -100%
+                  -200%
+                           1T 2021       1T 2022           1T 2023             1T 2024                1T 2025                1T 2026
+
+                                                                     Despeses de capital
+
+
+
+
+A134_20260810_A                                                                                                                      Pàgina 22 de 28
+                       A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                                   1r trimestre del 2026
+
+
+
+       5.3. Execució d’ingressos 1r trimestre
+
+
+   S.1314 Fons de la Seguretat                                                                                          Variació absoluta Variació
+                                             1T 2022        1T 2023        1T 2024        1T 2025        1T 2026
+        Social (Trimestre)                                                                                                 2026 - 2025    2026 - 2025
+
+1. Cotitzacions socials                      82.469.346 €   92.850.935 € 101.943.985 € 109.514.864 € 118.881.272 €           9.366.408 €           8,6%
+2. Impostos indirectes                                 0€             0€             0€             0€             0€                0€        -
+3. Taxes i altres ingressos                    688.440 €      606.220 €      622.891 €      668.724 €      726.164 €            57.440 €           8,6%
+4. Transferències corrents                   12.881.616 €    6.250.304 €   9.085.112 €    11.102.328 €   13.737.711 €        2.635.382 €       23,7%
+4. Transferències corrents                    2.398.951 €    2.833.144 €   3.068.264 €     3.111.804 €    4.730.592 €        1.618.788 €       52,0%
+(sense ingres CASS de Gov.)
+
+5. Ingressos patrimonials                      603.110 €      679.713 €      722.238 €      770.242 €      731.249 €           -38.993 €        -5,1%
+Ingressos corrents                           96.642.512 € 100.387.172 € 112.374.226 € 122.056.158 € 134.076.396 €           12.020.238 €           9,8%
+Ingressos corrents
+                                             86.159.847 €   96.970.012 € 106.357.379 € 114.065.634 € 125.069.277 €          11.003.643 €           9,6%
+(sense ingrés CASS de Gov.)
+
+6. Alienació d'inversions reals                        0€             0€             0€             0€             0€                0€        -
+7. Transferències de capital                  4.722.510 €    6.000.000 €   7.850.000 €     4.266.074 €    4.600.000 €          333.926 €           7,8%
+7. Transferències de capital
+                                                       0€             0€             0€             0€             0€                0€        -
+(sense ingrés FRJ de CASS)
+Ingressos de capital                          4.722.510 €    6.000.000 €   7.850.000 €     4.266.074 €    4.600.000 €          333.926 €           7,8%
+Ingressos de capital
+                                                       0€             0€             0€             0€             0€                0€        -
+(sense ingrés FRJ de CASS)
+
+8. Actius financers                           1.432.356 €      28.752 €      704.314 €     3.815.282 €     586.142 €        -3.229.140 €       -84,6%
+9. Passius financers                                   0€             0€             0€             0€             0€                0€-
+Actius i passius financers                    1.432.356 €      28.752 €      704.314 €     3.815.282 €     586.142 €        -3.229.140 €       -84,6%
+                   Total                    102.797.378 € 106.415.925 € 120.928.540 € 130.137.514 € 139.262.538 €            9.125.024 €           7,0%
+                   Total                    101.365.022 € 106.387.172 € 120.224.226 € 126.322.232 € 138.676.396 €           12.354.164 €           9,8%
+      (sense actius ni passius financers)
+
+                   Total
+                                             87.592.203 €   96.998.765 € 107.061.693 € 117.880.916 € 125.655.419 €           7.774.504 €           6,6%
+          (sense transf. internes)
+
+                   Total
+                                             86.159.847 €   96.970.012 € 106.357.379 € 114.065.634 € 125.069.277 €          11.003.643 €           9,6%
+      (sense transf. internes ni APF)
+
+
+
+
+A134_20260810_A                                                                                                               Pàgina 23 de 28
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+    5.4.   Distribució i variacions interanuals dels ingressos
+
+
+
+
+                                         Ingressos 1r trimestre S.1314 Fons de la Seguretat Social
+                                                                (distribució)
+                  100%           0,9%                                                      0,6%                                   0,4%
+                                                1,4%
+                                                                                                                   2,9%
+                  98%                                                                                                             3,3%
+                                                                     5,6%
+                  96%                           4,6%                                       6,5%
+                                 7,4%                                                                              3,3%
+                  94%
+
+                  92%
+                                                                                                                                 96,3%
+                  90%                           94,0%                94,3%                                         93,8%
+                                                                                           92,9%
+                             91,7%
+                  88%
+
+                  86%
+                            1T 2021           1T 2022               1T 2023             1T 2024               1T 2025           1T 2026
+
+                                              Ingressos corren ts   Ingressos de capital     Acti us i passiu s financers
+
+
+
+
+                                        Ingressos 1r trimestre S.1314 Fons de la Seguretat Social
+                                                         (variacions interanuals)
+                   14%
+                   12%
+                   10%
+                    8%
+                    6%
+                    4%
+                    2%
+                    0%
+                    -2%
+                    -4%
+                    -6%
+                             1T 2021           1T 2022              1T 2023             1T 2024             1T 2025           1T 2026
+
+                                                                      Ingressos corrents
+
+
+
+
+                                              Ingressos 1r trimestre S.1314 Fons de la Seguretat Social
+                                                               (variacions interanuals)
+
+                         2500%
+
+                         2000%
+
+                         1500%
+
+                         1000%
+
+                          500%
+
+                           0%
+
+                         -500%
+                                    1T 2021        1T 2022           1T 2023            1T 2024           1T 2025           1T 2026
+
+                                                           Actius i passius financers       Ingressos de capital
+
+
+
+
+A134_20260810_A                                                                                                                           Pàgina 24 de 28
+                 A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                             1r trimestre del 2026
+
+
+
+     5.5. Resultats 1r trimestre
+
+
+
+   S.1314 Fons de la Seguretat                                                                                                       Variació absoluta Variació
+                                   1T 2022               1T 2023               1T 2024              1T 2025         1T 2026
+        Social (Trimestre)                                                                                                              2026 - 2025 2026 - 2025
+
+  Resultat pressupostari           10.228.533 €           7.076.285 €          5.475.543 €           8.712.622 €    6.849.137 €              -1.863.485 €   -21,4%
+  Resultat de caixa                13.633.936 €         13.292.665 €          13.481.488 €           9.966.788 €   11.817.995 €              1.851.207 €    18,6%
+  Resultat de gestió               13.634.499 €         13.293.040 €          13.481.769 €           9.967.117 €   11.818.255 €              1.851.137 €    18,6%
+
+
+
+     5.6. Variacions interanuals dels resultats
+
+
+
+                                             Resultats 1r trimestre S.1314 Fons de la Seguretat Social
+                                                                      (variació interanual)
+
+
+                       800%
+
+                       700%
+
+                       600%
+
+                       500%
+
+                       400%
+
+                       300%
+
+                       200%
+
+                       100%
+
+                         0%
+
+                       -100%
+
+                       -200%
+                                 1T 2021           1T 2022             1T 2023            1T 2024             1T 2025           1T 2026
+
+                                             Resultat pressupostari                  Re sultat d e caixa                Resultat de gestió
+
+
+
+
+A134_20260810_A                                                                                                                                    Pàgina 25 de 28
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+6. Metodologia
+
+ • Font: dades trimestrals d’ingressos i despeses del Govern, dels comuns, de la CASS i del
+   Fons de Reserva de Jubilació.
+
+
+ • Definicions:
+   . Resultat pressupostari: ingressos corrents (capítols 1 a 5) més ingressos de capital (cap.
+   6 i 7) més actius i passius financers (cap. 8 i 9) menys despeses corrents (cap. 1 a 4) menys
+   despeses de capital (cap. 6 i 7) menys actius i passius financers (cap. 8 i 9).
+   . Resultat de caixa: ingressos corrents (capítols 1 a 5) més ingressos de capital (cap. 6 i 7)
+   menys despeses corrents (cap. 1 a 4) menys despeses de capital (cap. 6 i 7).
+   . Resultat de gestió: Ingressos corrents (capítols 1 a 5) més ingressos de capital (cap. 6 i 7)
+   menys despeses corrents (cap. 1 a 4) més interessos (cap. 3) menys despeses de capital
+   (cap. 6 i 7).
+
+
+ • Metodologia i referències metodològiques:
+   Es consideren la totalitat de les despeses i dels ingressos a 31 de desembre (quart
+   trimestre) dels anys analitzats, tant acumulativament (de l’1 de gener al 31 de desembre)
+   com estrictament (de l’1 d’octubre al 31 de desembre).
+
+
+   El Departament d’Estadística utilitza la metodologia del Sistema europeu de comptes en la
+   seva darrera versió del 2010 (SEC 2010), que permet disposar de dades econòmiques del
+   sector públic que siguin comparables sobre l’estructura de l’economia i l’evolució de la situació
+   econòmica de cada estat europeu. Un tret significatiu d’aquesta presentació dels comptes
+   radica en la divisió de l’economia nacional per sectors institucionals, els quals inclouen unitats
+   institucionals amb autonomia de decisió que disposen d’un conjunt complet de comptes.
+   Els comptes del sector públic es distribueixen en tres sectors: les societats no financeres
+   (S.11), amb la subdivisió “Públiques (S.11001)”, les institucions financeres (S.12), amb la
+   subdivisió “Auxiliars financeres (S.12601)” i les administracions públiques (S.13), amb les
+   seves subdivisions “ Administració central (S.1311a)”, “Institucions sense finalitat de lucre i
+   productores no de mercat (S.1311b)”, “Societats públiques no de mercat (S.1311c)”,
+   “Administració local (S.1313)” i els “Fons de la seguretat social (S.1314)”.
+
+
+   Per aquesta activitat estadística trimestral es tenen en compte només els subsectors
+   “ Administració central (S.1311a)”, “Administració local (S.1313)” i els “Fons de la seguretat
+   social (S.1314)”.
+
+
+• Altres consideracions: la informació trimestral del Comú de Canillo per conceptes no està
+   disponible fins al 2021. L'estimació trimestral de la seva liquidació per conceptes s'ha basat
+   en la distribució trimestral per conceptes d’un comú amb un nivell de liquidació similar i
+
+
+
+A134_20260810_A                                                                        Pàgina 26 de 28
+            A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                        1r trimestre del 2026
+
+
+
+   aplicant-la a la liquidació anyal de Comú de Canillo. Pel que fa a la liquidació del 1r trimestre
+   del 2026 de Sant Julià, de moment no està disponible i es fa una estimació de la seva
+   liquidació en base a les seves liquidacions del 1r trimestre dels darrers tres anys.
+
+
+   Durant aquest any s’han revisat les dades anteriors i s’han aplicat diverses millores
+   metodològiques a tota la sèrie històrica i, en conseqüència, els resultats obtinguts en aquesta
+   edició difereixen dels de l’edició anterior.
+
+
+• Citació: Per a qualsevol utilització de la informació continguda en aquesta nota de premsa
+   gràcies de citar “Dades del Departament d’Estadística per a la Nota de Premsa ref.
+   A134_20260810_A”.
+
+
+• Marc legal: D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+   desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a
+   l’activitat estadística A134 Estadística de l’execució trimestral del pressupost del sector públic.
+
+
+• Difusió: Dades disponibles al web www.estadistica.ad a l’apartat Estadístiques/Dades/Sector
+   públic/Comptes administració (liquidació trimestral). Per estar informat en qualsevol moment
+   de les noves publicacions us podeu inscriure a la nostra “Alerta informativa”. Amb l’objectiu
+   de maximitzar la difusió de la informació estadística d’Andorra, les notes de Premsa del
+   Departament d’Estadística es podran seguir també per TWITTER actualment X) .
+
+
+
+
+A134_20260810_A                                                                        Pàgina 27 de 28
+           A134. Estadística de l’execució trimestral del pressupost del sector públic.
+                                       1r trimestre del 2026
+
+
+
+7. Dates de properes publicacions previstes
+   Nota de premsa “A134. Estadística de l’execució trimestral del pressupost del sector públic.
+   2n trimestre del 2025”: 12 de novembre del 2026.
+
+
+
+
+A134_20260810_A                                                                  Pàgina 28 de 28
+
