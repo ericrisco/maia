@@ -328,8 +328,48 @@ en una de gran ocuparien estructures diferents.**
 
 ## Buits registrats
 
-- **La Llei qualificada de la funció pública**: es va aprovar? quan? què hi diu?
-  **Buit prioritari.**
+- ~~**La Llei qualificada de la funció pública**: es va aprovar? quan? què hi diu?
+  **Buit prioritari.**~~ — **`resolt` el 17-09-2026, i la resposta és que
+  aquesta llei no existeix ni ha existit mai.** **La funció pública andorrana
+  no és matèria reservada a llei qualificada.**
+
+  **La comprovació té dues potes.** **La Constitució** reserva a llei
+  qualificada **catorze matèries**, article per article —nacionalitat (7),
+  estats d'alarma i emergència (42), règim electoral (51.4), competències
+  comunals (80), transferències als comuns (81), organització judicial (85.2),
+  Consell Superior de la Justícia (89.4), estatut dels batlles (90-91),
+  Tribunal Constitucional (95, 96, 104) i els drets dels **capítols III i IV**
+  del títol II (article 40)— **i la funció pública no hi és**
+  (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`). **I al
+  [BOPA](../../../fonts/bopa.md) no hi ha cap llei titulada «qualificada de la
+  funció pública»**: **les que hi ha són ordinàries.**
+
+  **La sèrie real, que és la resposta útil a la pregunta:**
+
+  | Data | Norma | Rang |
+  | --- | --- | --- |
+  | **15-12-2000** | **Llei de la funció pública** (BOPA del 09-01-2001) | **ordinària** |
+  | 27-05-2004 | Llei 9/2004, de la funció pública de l'Administració de Justícia (LFPAJ) | ordinària |
+  | **30-10-2014** | **Llei 23/2014, qualificada** de creació i regulació del **pla de pensions** de la funció pública | **qualificada** |
+  | **17-01-2019** | **Llei 1/2019, de la funció pública** —la vigent | **ordinària** |
+  | 21-07-2022 | Llei 29/2022, de modificació de la Llei 1/2019 | ordinària |
+  | 27-05-2024 | Llei 8/2024, qualificada, de modificació de la Llei 23/2014 | qualificada |
+  | 13-11-2025 | Llei 21/2025, de modificació de les normes reguladores dels cossos especials | ordinària |
+
+  **L'única cosa qualificada de tot el bloc són les pensions dels
+  funcionaris.** **La carrera, el règim disciplinari i els cossos especials es
+  regulen per llei ordinària.** `Requereix saber per què el pla de pensions
+  sí que ho és: la llista de l'article 40 i dels articles concrets de la
+  Constitució no l'hi posa, i el motiu ha de ser a l'exposició de motius de la
+  Llei 23/2014, que no s'ha llegit.`
+
+  **Per tant la ponència del 2000 que obre aquesta fitxa parlava d'una llei
+  que s'estava tramitant aleshores mateix**: **es va aprovar el 15 de desembre
+  d'aquell any**, **dies o setmanes després de la Diada**
+  (`docs/raw/lleis/bopa/llei-15-12-2000-funcio-publica.txt`), i **la substitueix
+  la Llei 1/2019** (`docs/raw/lleis/bopa/llei-1-2019-funcio-publica.txt`).
+  `Requereix llegir-ne el contingut; aquest tancament resol el «si» i el
+  «quan», no el «què hi diu».`
 - **L'Associació de Personal Adscrit a l'Administració general**: quan es crea,
   quants socis té, si existeix encara. **No apareix a cap altra fitxa del
   corpus.**

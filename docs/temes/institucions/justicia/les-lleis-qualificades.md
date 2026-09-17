@@ -84,10 +84,82 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
 
 ## Buits registrats
 
-- **La llista de matèries reservades la fa la Constitució, article per article**,
+- ~~**La llista de matèries reservades la fa la Constitució, article per article**,
   i aquest recompte surt del títol de les normes, no d'aquell inventari. **Pot
   haver-hi matèries reservades sense llei qualificada aprovada, i el corpus no
-  ho sap.**
+  ho sap.**~~ — **`resolt` el 17-09-2026**, buidada la Constitució ocurrència
+  per ocurrència (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`). **La
+  reserva no és una llista: és una dotzena llarga de remissions escampades, i
+  una clàusula general.**
+
+  | Article | Matèria reservada |
+  | --- | --- |
+  | **7.1** | **Nacionalitat**: com s'adquireix, es conserva i es perd |
+  | **40** | **Els drets dels capítols III i IV del títol II** —**la clàusula general, i la que més matèries cobreix** |
+  | **42.1** | **Estats d'alarma i d'emergència** |
+  | **51.4** | **Règim electoral**, amb les causes d'inelegibilitat i incompatibilitat |
+  | **80.1** | **Competències dels comuns**, «almenys» en dotze matèries que la Constitució enumera |
+  | **80.2** | **Facultats econòmiques i fiscals dels comuns** |
+  | **81** | **Transferències de capital del Pressupost General als comuns** |
+  | **85.2** | **Estructura, composició i funcionament de l'organització judicial** i estatut dels seus membres |
+  | **89.4** | **Funcions i competències del Consell Superior de la Justícia** |
+  | **90** | **Mandat i condicions d'elegibilitat** dels batlles i magistrats |
+  | **91** | **Responsabilitat penal, disciplinària i civil del jutge** |
+  | **95.2**, **96.1**, **104** | **Tribunal Constitucional**: la llei que el regeix, el règim d'incompatibilitats, l'estatut dels magistrats, els processos constitucionals i el funcionament |
+  | **97.2** | **L'abast i l'extensió dels efectes de les seves sentències** |
+
+  **Dues conseqüències que el recompte per títols no podia donar.**
+
+  **La primera**: **l'article 40 és el que més matèries reserva i no en
+  nomena cap.** «La regulació de l'exercici dels drets reconeguts en aquest
+  Títol només es pot dur a terme per llei. **Els drets dels capítols III i IV
+  s'han de regular mitjançant lleis qualificades.**» **Per saber què és
+  matèria reservada cal llegir aquells dos capítols, no la llista de
+  remissions.** **Això explica per què hi ha lleis qualificades de protecció de
+  dades, d'associacions, d'acció sindical o dels drets dels infants sense que
+  cap article de la Constitució les anomeni.**
+
+  **La segona**: **la funció pública no és matèria reservada** —comprovat, i
+  amb conseqüència registrada a
+  [la funció pública](../govern/la-funcio-publica.md): **la llei que la regula
+  és ordinària i sempre ho ha estat.**
+
+  **I una cosa que la fitxa ja insinuava i ara queda datada i comprovada**: **la
+  disposició transitòria primera obligava el mateix Consell General que va
+  aprovar la Constitució a aprovar, abans del 31 de desembre de 1993**, el
+  Reglament del Consell General i les lleis qualificades **del règim electoral,
+  de les competències i el finançament dels comuns, de la Justícia i del
+  Tribunal Constitucional**.
+
+  **S'hi va arribar, i amb marge.** Comprovat al [BOPA](../../../fonts/bopa.md)
+  el 17-09-2026, **totes sis normes són del mateix any i estan baixades**:
+
+  | Data d'aprovació | Norma |
+  | --- | --- |
+  | **3 de setembre de 1993** | **Reglament del Consell General** |
+  | **3 de setembre de 1993** | **Llei qualificada de la Justícia** |
+  | **3 de setembre de 1993** | **Llei qualificada del Tribunal Constitucional** |
+  | **3 de setembre de 1993** | Llei qualificada del **règim electoral i del referèndum** |
+  | **4 de novembre de 1993** | **Llei qualificada de delimitació de competències dels comuns** |
+  | **4 de novembre de 1993** | **Llei qualificada de transferències als comuns** |
+
+  **Quatre normes en una sola sessió, el 3 de setembre**, i **les dues comunals
+  dos mesos després.** **La Constitució havia entrat en vigor el 28 d'abril**:
+  **el termini era de vuit mesos i es va complir en set.**
+
+  **I aquí hi ha una anomalia que val la pena deixar registrada.** **Tres
+  d'aquestes sis normes —l'electoral, la de competències comunals i la de
+  transferències— són precisament les que l'article 57.3 sotmet a la doble
+  majoria**: **majoria absoluta dels consellers elegits en circumscripció
+  parroquial i majoria absoluta dels elegits en circumscripció nacional.**
+  **Però el Consell General que les va aprovar no tenia circumscripció
+  nacional**: **es va elegir l'abril del 1992, quatre per parròquia**, i **la
+  primera elecció amb llista nacional és la del 12 de desembre de 1993**
+  ([la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md)).
+  **La regla de la doble majoria no es podia aplicar a les lleis que la van
+  crear.** `Requereix el Diari de Sessions del 3 de setembre i del 4 de
+  novembre de 1993 per saber amb quina majoria es van aprovar de fet, i si algú
+  hi va plantejar la qüestió.`
 - **Falta la llei qualificada de competències comunals** al fons. **Però la
   regla que la governa queda `resolta` el 17-09-2026 amb el text constitucional
   al davant** (`docs/raw/lleis/constitucio.txt`, article 57.3): **les lleis
