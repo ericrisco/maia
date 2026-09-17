@@ -6,8 +6,8 @@ titular: Govern del Principat d'Andorra
 autor: institucional
 publicacio: "BOPA, des del 1989. Arxiu en linia complet."
 url: https://www.bopa.ad/
-llicencia: "Publicacio oficial de l'Estat andorra. Sense llicencia explicita al portal; es la font autentica del dret publicat."
-redistribucio: pendent
+llicencia: "Publicacio oficial de l'Estat andorra. Les bases reguladores publicades al BOPA num. 1 del 1989 (base d) diuen: les disposicions reproduides al BOPA es poden inserir total o parcialment en altres publicacions sempre que convingui citar-les o transcriure-les, pero NO es poden publicar soles o en colleccio sense autoritzacio escrita previa de l'autoritat de que emanin."
+redistribucio: citacio
 data_consulta: 2026-09-17
 abast: >
   Font oficial per a tot el bloc normatiu del corpus. Consultada per primera
@@ -83,6 +83,26 @@ desembre del 1975**. **No són buits de cerca: són anteriors al medi.**
 
 **La regla que se'n deriva**: **abans de declarar que una norma andorrana no es
 pot trobar, mirar-ne la data.** **Del 1989 ençà, hi és.**
+
+## La llicència, que no era pendent: era al primer número
+
+**El BOPA núm. 1 del 1989 publica les «bases reguladores» del mateix Butlletí**,
+i **la base d fixa què se'n pot fer**
+(`docs/raw/lleis/bopa/bopa-1989-bases-reguladores.txt`):
+
+> «Les disposicions reproduïdes en el Butlletí Oficial del Principat d'Andorra
+> **podran inserir-se, totalment o parcial, en periòdics i altres publicacions,
+> sempre que convingui citar-les o transcriure-les**, però **no podran ésser
+> publicades soles o en col·lecció sense la prèvia autorització escrita de
+> l'autoritat o òrgan de què emanin**.»
+
+**Això és exactament el règim amb què el corpus treballa i el que no pot fer.**
+**Citar i transcriure dins d'un text que les comenta: permès i escrit.**
+**Republicar-les soles o com a recull: no, sense autorització.**
+
+**Per tant `redistribucio: citacio`**: **el text del BOPA entra al corpus com a
+evidència citada dins d'articles**, **i els fitxers de `docs/raw/` no són un
+recull publicable per ells mateixos.**
 
 ## Buscar-hi i no trobar-hi també és un resultat
 

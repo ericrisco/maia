@@ -163,7 +163,25 @@ consta:
    articles**, amb **85 de les 93 datables del 2010 endavant**. **El que falta és
    la cronologia any per any**, no el volum.
 5. Per què **1969, fallides** és de les primeres normes econòmiques.
-6. **El BOPA**: per què es regula dues vegades, el 1983 i el 1989.
+6. ~~**El BOPA**: per què es regula dues vegades, el 1983 i el 1989.~~ —
+   **`resolt` el 17-09-2026, i la resposta és al primer document que el BOPA va
+   publicar mai**: el **Decret del 17 de gener del 1989**, butlletí **núm. 1**
+   (`docs/raw/lleis/bopa/bopa-1989-decret-publicacio.txt`).
+
+   > «La necessitat de fer plenament efectiva l'exigència de publicitat de les
+   > disposicions de caràcter general, **fins ara només assegurada per la
+   > pràctica consuetudinària de fixació dels textos legals en els taulers
+   > públics**, aconsella la publicació d'un Butlletí Oficial.»
+
+   **No es regula dues vegades: es regula i després es posa en marxa.** **La
+   Llei del 1983 crea el Butlletí** —el decret la cita: «tenint en compte les
+   previsions de la Llei del Butlletí Oficial del Principat d'Andorra»— **i el
+   decret del 1989 ordena que les disposicions s'hi publiquin efectivament.**
+   **Sis anys entre la llei i el primer número.**
+
+   **I dona el que hi havia abans, que el corpus no tenia**: **la publicitat de
+   les lleis andorranes era, fins al 1989, clavar-les al tauler.** **Per
+   costum, no per norma.**
 
 ## Related
 
