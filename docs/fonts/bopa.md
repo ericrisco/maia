@@ -128,6 +128,37 @@ procediments judicials**: **la pàgina fa 24.487 caràcters i el document,
 **el fitxer sembla baixat.** **El client ja prova primer el nom sense prefix i
 només cau a la pàgina si aquell no existeix.**
 
+## Una norma molt citada s'amaga darrere les seves pròpies citacions
+
+**Trobat el 17-09-2026, i contradiu a mitges la regla anterior d'aquesta
+fitxa.** Fins ara el corpus tenia escrit que **l'`orderBy` buit —per
+rellevància— és l'única manera de trobar un document antic**, perquè l'ordre
+per data l'enterra sota els edictes del mes. **Això val quan la frase buscada
+és rara. Quan és el nom d'una norma que centenars d'actes citen, passa el
+contrari.**
+
+**El cas: la Llei 18/2023, del 2 d'octubre, de text consolidat del saig.**
+
+| Cerca | Resultats | La llei hi surt? |
+| --- | --- | --- |
+| `"text consolidat del saig"`, per rellevància | **740** | **No**, ni a les 400 primeres |
+| `"Llei 18/2023"`, per rellevància | 739 | **No** |
+| La mateixa frase, **ordenada per data**, pàgina 14 | 740 | **Sí**, a la posició ~680 |
+
+**Els 739 resultats que la tapen són els edictes del saig**, que la citen tots
+com a base legal. **La norma queda a la cua del seu propi rastre.**
+
+**La regla, doncs, té dues cares:**
+
+- **Frase rara** —una expressió del text, un nom propi, una xifra—: **per
+  rellevància.**
+- **Nom d'una norma molt aplicada** —una llei que els actes d'execució citen
+  cada setmana—: **per data, i paginant fins a l'any de publicació.**
+
+**I el símptoma que indica quin cas és**: **si el nombre total de resultats és
+molt més gran del que la pregunta fa esperar, la norma hi és i està tapada.**
+**No s'ha de concloure que no hi és.**
+
 ## Related
 
 - [El Concordat del 2008](../temes/institucions/coprincipat/el-concordat-del-2008.md) — el primer buit que aquesta via va tancar.

@@ -164,6 +164,19 @@ Vegeu
    racionalitzar les despeses públiques i reduir els terminis d'execució**»,
    **mentre s'esperava el Codi de procediment civil**, que no arribaria fins al
    2018.
+
+   **Nota de vigència, afegida el 17-09-2026.** **La Llei 43/2014 ja no és el
+   text en vigor**, i aquesta fitxa la citava com si ho fos. **S'ha modificat
+   dues vegades** —**Llei 8/2017, del 20 d'abril**, i **Llei 20/2022, del 9 de
+   juny**, aquesta darrera **amb vint-i-vuit articles que en toquen
+   vint-i-set**— i **s'ha refós en la Llei 18/2023, del 2 d'octubre, de text
+   consolidat del saig, de quaranta-set articles**
+   (`docs/raw/lleis/bopa/llei-18-2023-saig-consolidat.txt`). **El que aquesta
+   fitxa en cita —l'exposició de motius del 2014 sobre l'origen del mot— no
+   queda afectat**, perquè és la justificació històrica del nom i no una regla;
+   **el règim de l'ofici, sí**, i és a
+   [l'execució forçosa](./lexecucio-forcosa.md), que ja treballava sobre el
+   text del 2023 sense dir-ho.
 2. **La data exacta del canvi de saig a batlle.** El Politar **la deixa en blanc**
    i el corpus tampoc la té.
    - **Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del
