@@ -112,8 +112,46 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
   és efectiva o formal.
 - **El Procediment Contenciós Administratiu** només s'ha llegit per la porta
   d'entrada: terminis, legitimació i mesures cautelars **queden pendents**.
-- **La carrera i el règim disciplinari** dels funcionaris (les 10 versions de la
-  Llei 1/2019) no s'han buidat.
+- ~~**La carrera i el règim disciplinari** dels funcionaris (les 10 versions de la
+  Llei 1/2019) no s'han buidat.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/funcio-publica.txt`, **Llei 1/2019, 125 articles**;
+  l'original al [BOPA](../../../fonts/bopa.md) és a
+  `docs/raw/lleis/bopa/llei-1-2019-funcio-publica.txt`). **Les 10 versions
+  segueixen sense comparar-se; el que sí que s'ha buidat és el contingut
+  vigent.**
+
+  **La carrera va en dues direccions i només una fa canviar de lloc.** **La
+  horitzontal** (article 61) **és «l'ascens o la progressió en un escalat de
+  graus consecutius sense necessitat de canviar de lloc de treball»**, i
+  **comporta pujar dins de la banda salarial del lloc**; **s'hi concorre
+  voluntàriament per convocatòria periòdica**, i **els graus, un cop assolits,
+  són consolidables**. **La vertical** (article 62) **és l'ascens dins de
+  l'estructura de llocs i s'instrumenta per concurs intern.**
+
+  **L'avaluació de l'acompliment és la frontissa** (article 63): **valora «la
+  iniciativa i la participació en la millora dels serveis», el rendiment,
+  l'activitat extraordinària i l'assoliment de resultats**, i **té efectes en
+  la carrera, la formació, la mobilitat i el sou**. **Un resultat positiu és
+  condició necessària per assolir graus**; **un de negatiu «comporta la no
+  valoració del mèrit durant el corresponent període» als processos de selecció
+  o promoció interna.** **No és una sanció: és perdre el període.**
+
+  **El règim disciplinari té un catàleg de sancions inusualment llarg**
+  (article 103), **i la majoria no són econòmiques sinó de trajectòria**:
+
+  | Falta | Sancions possibles |
+  | --- | --- |
+  | **Molt greu** | **Separació del servei i inhabilitació temporal o definitiva**; **reubicació obligatòria definitiva** amb el sou del nou lloc; **suspensió d'un mes i un dia fins a sis mesos**; **no progressar en carrera, promoció ni mobilitat voluntària durant dos a quatre anys**; **prohibició d'ocupar llocs de comandament dos a quatre anys**; **destitució definitiva del comandament** |
+  | **Greu** | **Suspensió de quinze dies a un mes**; **adscripció temporal a un altre lloc fins a un any**; **no progressar durant un màxim de dos anys**; **destitució temporal del comandament** |
+
+  **Es pot sancionar un funcionari congelant-li la carrera quatre anys sense
+  tocar-li el sou d'avui.**
+
+  **I les sancions s'anoten i es cancel·len d'ofici** (article 107): **un any
+  les lleus, dos les greus i quatre les molt greus** des que la sanció s'ha
+  complert, **sempre que no hi hagi hagut cap nova responsabilitat
+  disciplinària** i **llevat de l'acomiadament i la inhabilitació definitiva**,
+  que no es cancel·len mai.
 - **Quants contractes menors i quants directes** s'adjudiquen l'any, tampoc. —
   **`obert`, confirmat el 2026-09-14**, i **bessó** del que declara
   [la contractació directa](./la-contractacio-directa.md). **Comptat un sol
