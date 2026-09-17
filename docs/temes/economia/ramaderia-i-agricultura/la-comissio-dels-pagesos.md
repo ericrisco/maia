@@ -58,6 +58,23 @@ desaparèixer quan van arribar el comerç i la neu.
 
 - **Quantes explotacions hi ha inscrites** al Registre d'Explotacions Agràries,
   no consta.
-- **Quines lleis modifica exactament** la 31/2022 i en quins termes: el text
-  consolidat del recull en té **només els cinc articles de la part dispositiva**.
+- ~~**Quines lleis modifica exactament** la 31/2022 i en quins termes.~~ —
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+  **98 del 2022** (`docs/raw/lleis/bopa/llei-31-2022-sectors-ramader-agricola.txt`).
+  **En modifica sis, i cap no és de ramaderia excepte la primera:**
+
+  | Llei modificada | Articles |
+  | --- | --- |
+  | **Llei d'agricultura i ramaderia**, del 22 de juny del 2000 | **22, 23, 24 i 25** |
+  | **Llei 29/2008 del cadastre** | **32** |
+  | **Llei per al foment de la rehabilitació del parc immobiliari** i l'eficiència energètica | — |
+  | **Llei 16/2017 general de l'allotjament turístic** | **21, 22 i 30** |
+  | **Llei sobre la utilització dels signes d'Estat**, del 20 de juny del 1996 | **2** |
+  | **Llei 12/2021 del Codi de la circulació** | **99** — [l'exempció d'ITV dels vehicles agrícoles](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) |
+
+  **Això és el que val la pena retenir d'aquesta llei**: **per fer viable la
+  pagesia, el legislador del 2022 no toca la llei agrària i prou.** **Toca el
+  cadastre, l'allotjament turístic, els signes d'Estat, la rehabilitació
+  d'edificis i el codi de la circulació.** **Una llei de sector que arriba a sis
+  lleis de matèries diferents, i la meitat no tenen res a veure amb el camp.**
 - **Si la CNRA s'ha reunit** des del 2022, i amb quin resultat, tampoc.

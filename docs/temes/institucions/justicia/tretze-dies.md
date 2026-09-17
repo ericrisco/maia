@@ -138,8 +138,21 @@ judicial** amb els mitjans al seu abast.
 
 ## Buits registrats
 
-- **Per què el Codi de Procediment Civil no porta número de llei** al text
-  consolidat consultat: el recull el titula només «Codi de Procediment Civil».
+- ~~**Per què el Codi de Procediment Civil no porta número de llei** al text
+  consolidat consultat.~~ — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: **en té dos, i per això el recull no en posa
+  cap.**
+
+  | | |
+  | --- | --- |
+  | **Llei 24/2018, del 18 d'octubre** | **el Codi original** |
+  | **Llei 19/2019** i **Llei 5/2021** | les modificacions |
+  | **Llei 22/2021, del 17 de setembre** | **el text consolidat**, butlletí 107 del 2021 |
+
+  **El text que el recull serveix és la Llei 22/2021, que consolida la Llei
+  24/2018.** **Titular-lo amb qualsevol dels dos números seria inexacte**, i
+  **el recull opta per no posar-ne cap.** **No és una omissió: és el que passa
+  quan una llei de consolidació substitueix la que porta el contingut.**
 - **Què queda viu de la Llei transitòria** i què ha estat substituït pel Codi:
   **el corpus no ho ha determinat**, i amb **11 versions consolidades** la
   resposta no és òbvia. — **`parcial` des del 2026-09-13.** **D'un tros se'n té

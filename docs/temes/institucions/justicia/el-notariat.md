@@ -93,7 +93,30 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
 
 ## Buits registrats
 
-1. **La Llei del notariat de 1996**, sencera. **La vigent sí que hi és**: la
+1. ~~**La Llei del notariat de 1996**, sencera.~~ — **`resolt` el 17-09-2026 des
+   del [BOPA](../../../fonts/bopa.md)**, butlletí **83 del 1996**, del
+   **26 de desembre** (`docs/raw/lleis/bopa/llei-1996-notariat.txt`).
+   **Aprovada el 28 de novembre del 1996.**
+
+   **L'exposició de motius aporta dues dates que el corpus buscava i una
+   tercera que no sabia que existís:**
+
+   | | |
+   | --- | --- |
+   | **6 de desembre del 1288** | **El segon Pareatge**, d'on la llei fa arrencar la figura del notari a Andorra |
+   | **20 de desembre del 1900** | **Un Acord del Consell General** que ja declarava **la titularitat pública dels protocols**, i que la llei del 1996 «ratifica» |
+   | **1993** | La **Llei qualificada de la Justícia** ja anunciava que caldria adequar l'estatut dels notaris; **es triga tres anys** |
+
+   **L'Acord del 1900 és la troballa**: **la propietat pública dels protocols
+   notarials no la decideix la llei del 1996, la confirma** — **i això situa
+   noranta-sis anys abans la decisió que fa que els protocols acabin a
+   [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md).**
+
+   **I la llei del 1996 defineix el notari amb la mateixa fórmula de doble
+   dependència que la vigent**: **autonomia en l'exercici de les funcions**,
+   **dependència jeràrquica del Ministeri de Justícia**, **retribució per
+   honoraris** i **actuació com a coadjuvador de l'Estat en la recaptació**
+   dels tributs sobre actes jurídics documentats. **La vigent sí que hi és**: la
    **Llei 14/2021**, 74 articles, en text consolidat — i hi diu una cosa que el
    corpus buscava per una altra banda: els notaris donen fe «amb subjecció a les
    lleis... **i, subsidiàriament, d'acord amb el costum**».

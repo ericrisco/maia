@@ -133,9 +133,37 @@ Vegeu
 
 ## Buits registrats
 
-1. **Quan i per què va tornar el mot.** La Llei del saig és del **2023** en text
-   consolidat, però la professió es va crear abans: **cal la llei originària i la
-   seva exposició de motius**.
+1. ~~**Quan i per què va tornar el mot.**~~ — **`resolt` el 17-09-2026 des del
+   [BOPA](../../../fonts/bopa.md)**: la llei originària és la **Llei 43/2014,
+   del 18 de desembre, del saig**, butlletí **4 del 2015**
+   (`docs/raw/lleis/bopa/llei-43-2014-del-saig.txt`), **quaranta-sis articles**.
+
+   **El «per què» és explícit a l'exposició de motius, i el corpus no podia
+   endevinar-lo**:
+
+   > «**El nom de saig que es dóna a l'executor és un terme manllevat d'una
+   > figura existent en la nostra tradició jurídica històrica**, de la qual es
+   > fan ressò tant **el Manual Digest** com **el Politar Andorrà**, escrit el
+   > 1763 per Antoni Puig, i també **La Coutume d'Andorre**, publicat el 1904
+   > per **Jean-Auguste Brutails**.»
+
+   **El legislador del 2014 cita les tres fonts que aquest corpus també té**, i
+   **fa una cosa que convé llegir amb precisió**: **reconeix que la
+   identificació no és neta.**
+
+   > «**els batlles van succeir els saigs**, però **no és menys cert que el terme
+   > llatí de *saio* es tradueix sovint per uixer**, que és un agent executiu,
+   > **motiu pel qual s'ha considerat que es tracta d'un referent oportú**.»
+
+   **«Un referent oportú» no és «la mateixa figura».** **El mot no torna perquè
+   la institució hagi ressuscitat: torna perquè calia un nom per a un executor
+   nou i la tradició en tenia un de disponible.**
+
+   **I el motiu real és pressupostari i de terminis**, dit sense embuts:
+   externalitzar l'execució en un professional independent «**a l'efecte de
+   racionalitzar les despeses públiques i reduir els terminis d'execució**»,
+   **mentre s'esperava el Codi de procediment civil**, que no arribaria fins al
+   2018.
 2. **La data exacta del canvi de saig a batlle.** El Politar **la deixa en blanc**
    i el corpus tampoc la té.
    - **Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del

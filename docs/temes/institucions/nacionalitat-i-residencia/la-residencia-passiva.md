@@ -191,8 +191,35 @@ les dels articles 91, 93 i 94 i les persones exemptes de l'article 97.
 1. **Els reglaments de quota**: quants permisos s'aproven cada any i per a quins
    sectors. **La llei diu qui decideix i no quant.**
 2. **Quantes residències sense activitat lucrativa hi ha** concedides.
-3. **Quan es va crear la figura** i com han evolucionat els imports. El text
-   consolidat dona el **vigent**, no la sèrie.
+3. ~~**Quan es va crear la figura** i com han evolucionat els imports.~~ —
+   **`parcial` el 17-09-2026, i la creació queda datada** des del
+   [BOPA](../../../fonts/bopa.md): **Llei qualificada de residències passives,
+   del 30 de juny del 1995**, butlletí **42 del 1995**
+   (`docs/raw/lleis/bopa/llei-1995-residencies-passives.txt`).
+
+   **L'exposició de motius diu per què es fa, i el motiu és doble**: **«omplir
+   el buit legal fins ara existent»** i **«acotar el nombre de residents d'aquesta
+   condició».** **La figura existia de fet abans de tenir llei**, i **la llei
+   neix tant per ordenar-la com per limitar-la.**
+
+   **Les tres finalitats que la llei es fixa** són **la seguretat jurídica, la
+   interdicció de tota arbitrarietat i acotar el nombre**. **La segona és una
+   cita constitucional literal**: abans del 1995, atorgar o denegar una
+   residència passiva **era discrecional**, i **la renovació era una
+   autorització nova d'obtenció incerta**; la llei la converteix en «un control
+   pràcticament rutinari del compliment dels requisits».
+
+   **I els imports d'origen, que el corpus no tenia** (art. 9): **un dipòsit
+   d'un milió de pessetes no remunerat a l'INAF**, i **una taxa anual d'un altre
+   milió** per a la residència passiva ordinària. **En euros del 1995, uns
+   6.010 € de dipòsit i 6.010 € l'any.**
+
+   **La cadena normativa posterior queda establerta**: **modificació del
+   28-11-1996**, **Llei 17/2006 del 30 de novembre**, i després els **reglaments
+   de quota** (2007, 2011, 2012).
+
+   `El que segueix obert és la sèrie d'imports entre el 1995 i el vigent: caldria
+   buidar la Llei 17/2006 i les modificacions posteriors.`
 4. **Els articles 91, 93 i 94** que queden fora del còmput de quota: per què.
 5. **Si el Fons d'Habitatge ha atret inversió** per la via dels 400.000 €.
 6. **Quanta gent ha perdut la renovació per no acreditar el català.**
