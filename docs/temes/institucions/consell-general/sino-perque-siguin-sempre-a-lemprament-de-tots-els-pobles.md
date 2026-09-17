@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: rios-urruti-andorra-1920
-timestamp: 2026-09-17T23:30:00Z
+timestamp: 2026-09-17T23:50:00Z
 tags: [consell-general, coprincipat, sobirania, domini-public, aigua, comunals, usatges, historiografia, font-primaria, prioritari]
 ---
 
@@ -301,9 +301,10 @@ català** *(p. 125)*:
    que diu Ríos ni el que diu Brutails**: Brutails titula el seu article
    ***loi Stratae***. **Tres formes del mateix nom en tres llocs**, i **només una
    —*Strate*— és la paraula amb què l'usatge comença.**
-4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260; **Balari**, pp.
-   319-320; ~~**Costa**, *Colectivismo agrario*, pp. 257 i seg.~~; **Du Cange**,
-   entrades *Bosiga* i *Scalia*. — **Costa `resolt` el 17-09-2026**
+4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260;
+   ~~**Balari**, pp. 319-320~~; ~~**Costa**, *Colectivismo agrario*, pp. 257 i
+   seg.~~; **Du Cange**, entrades *Bosiga* i *Scalia* —**la primera resolta per
+   Balari, la segona oberta**—. **Costa i Balari `resolts` el 17-09-2026**
    ([fitxa](../../../fonts/costa-colectivismo-1898.md)); **els altres tres
    segueixen oberts.**
 
@@ -330,6 +331,37 @@ català** *(p. 125)*:
    **podien obligar els ramaders a femar-los**. **Les pp. 259-261 tracten el
    «rompimiento de emprius en la costumbre actual del Pirineo catalán»**, que és
    **el tram exacte que la cita de Ríos assenyalava.**
+
+   **I [Balari](../../../fonts/balari-origenes-1899.md) tanca, de passada, una
+   de les dues entrades de Du Cange que aquest mateix buit demanava.**
+
+   > **Du Cange interpreta *bosiga* com a «casa, mansión, habitación»**, i ho
+   > recolza en el **foli 7 del *Tabularium* de l'Església d'Urgell**:
+   > *«ut ibi Bozigas et culta faciant... et ligna colligant»*.
+   >
+   > **Balari demostra que s'equivoca**: *«bosigas et culta* **es refereixen a
+   > les dues operacions successives de ROTURA i CULTIU**, i de cap manera a
+   > casa o habitació*». **Les formes antigues són *búdica*, *budiga*,
+   > *bosiga*, *bofiga* i *bodia***; **la moderna, *boïga*.**
+
+   **El corpus reté que la font del passatge és el cartulari d'Urgell**, i
+   **que l'error de Du Cange el corregeix qui el cita.** **L'entrada *Scalia*
+   segueix oberta.**
+
+   **Dues coses més que Balari dona sobre Andorra i el corpus no tenia**, i que
+   **no són del tram citat**:
+
+   - **La vall d'Andorra donava al comte de Barcelona vuit *pernas bonas* cada
+     any** —pernils—, **contra les 159 de Prats de Molló, 72 de Molló, 34 de
+     Llagostera i 26 de Llívia.** **És, amb diferència, el cens més petit de la
+     llista.** `Requereix la data i el document: Balari no els dona aquí.`
+   - **Una escriptura del 1022** que diu **«*in ualle andorra... in locum que
+     dicitur illa trapa*»**, i **Balari identifica la *trapa* com un lloc
+     destinat a la caça d'ocells**, per paral·lel amb la Llei Sàlica.
+     `Requereix el document.`
+
+   **Les disset mencions d'Andorra de l'obra —Encamp, Sant Julià de Lòria, Boet,
+   Arinsal, Altavaca— no s'han destil·lat.** **Buit nou i acotat.**
 5. **Quan es va prohibir l'explotació en comú de les fustes**: **`resolt` el
    16-09-2026 a favor del 1853, amb el document al davant** (peça justificativa
    I, article 8, PDF 27). **El decret del 30 de setembre de 1853 del bisbe Josep
