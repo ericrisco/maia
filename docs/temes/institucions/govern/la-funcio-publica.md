@@ -326,6 +326,122 @@ personal públic**, i és **el mateix nom** que el corpus troba associat al
 aquesta fitxa**: en una administració petita, **la mateixa persona fa feines que
 en una de gran ocuparien estructures diferents.**
 
+## Què cobra un funcionari andorrà, el 2026
+
+**El llibre del pressupost publica nou taules retributives**, una per cos
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`, annexos 1-9).
+**Totes tenen la mateixa estructura**: **sou base (A)** + **complement específic
+(B)** + **banda de complement de carrera (C)**, i **el màxim és A+B+C.**
+
+### El Cos General: setze nivells i una escala de 3,7 a 1
+
+| Nivell | Sou base | Màxim amb carrera |
+| --- | ---: | ---: |
+| **XVI** | **72.527,70 €** | **108.791,55 €** |
+| XV | 64.508,06 € | 96.762,09 € |
+| XIV | 57.942,81 € | 86.914,22 € |
+| XIII | 51.634,31 € | 77.451,47 € |
+| XII | 46.600,07 € | 69.900,11 € |
+| XI | 42.170,07 € | 63.255,11 € |
+| X | 38.253,12 € | 57.379,68 € |
+| IX | 34.480,27 € | 51.720,41 € |
+| VIII | 30.682,38 € | 46.023,57 € |
+| VII | 27.646,41 € | 41.469,61 € |
+| VI | 25.055,36 € | 37.583,04 € |
+| V | 22.821,09 € | 34.231,64 € |
+| IV | 20.775,23 € | 31.162,85 € |
+| **III i II** | **19.657,65 €** | **29.486,48 €** |
+
+**El màxim de l'escala és 3,69 vegades el mínim.** I **els nivells II i III
+cobren exactament el mateix**: **setze nivells i quinze esglaons de debò.**
+
+**La banda de complement de carrera és sempre la meitat del sou base**, a tota
+l'escala: **un funcionari andorrà pot arribar a cobrar un 50% més del que li
+toca pel seu nivell, i ni un euro més.**
+
+### Els cossos especials, comparats
+
+**El màxim de cada cos el 2026**, al nivell més alt de cadascun:
+
+| Cos | Nivell més alt | Màxim |
+| --- | --- | ---: |
+| **Cos General** | XVI | **108.791,55 €** |
+| **Policia** *(entrada després de la Llei 2/2017)* | A1 | **96.244,41 €** |
+| Policia *(entrada abans)* | A1 | 93.243,36 € |
+| **Duana** | A1 | **90.728,79 €** |
+| Educació | A1 | 86.914,22 € |
+| **Diplomàtic** | 1A | **76.182,21 €** |
+| Penitenciari *(entrada després de la Llei 6/2017)* | B1 | 74.403,35 € |
+| **Banders** | B1 | **73.391,04 €** |
+| Bombers | B1 | 73.260,14 € |
+| Penitenciari *(entrada abans)* | B1 | 71.402,30 € |
+
+**Cap cos especial no arriba al sostre del Cos General.** **El màxim de la
+policia és el 88,5% del màxim general**, i **el dels banders, el 67,5%.**
+
+### Els banders, que el corpus no tenia
+
+Era un buit d'aquesta fitxa: «**els banders: cos especial i cap fitxa al
+corpus**». **La taula retributiva en dona l'estructura sencera**, i **és el cos
+més petit de tots: tres nivells.**
+
+| Nivell | Sou base | + específic | Màxim |
+| --- | ---: | ---: | ---: |
+| **B1** | 48.226,66 € | 700,70 € | **73.391,04 €** |
+| B2 | 35.955,28 € | 1.773,20 € | 56.592,72 € |
+| **C1** | 27.473,42 € | 1.773,20 € | **43.869,93 €** |
+
+**Tres nivells i prou.** Per comparació, **la duana en té vuit**, **la policia
+set** i **el Cos General setze**. **El cos que vigila el bosc i la muntanya és
+el que té la carrera més curta de l'Administració andorrana.**
+
+`El corpus no té encara quants banders hi ha, ni què fan exactament: la taula
+retributiva en dona l'escala, no la plantilla.`
+
+### Dues persones, la mateixa feina, tres mil euros de diferència
+
+**La policia i el cos penitenciari tenen DUES taules cadascun**, i **el que les
+separa és la data d'entrada**:
+
+| | Complement específic |
+| --- | ---: |
+| **Policia, entrada després de la Llei 2/2017** | **2.000,70 €** |
+| Policia, entrada abans | **0,00 €** |
+| **Penitenciari, entrada després de la Llei 6/2017** | **4.145,70 €** |
+| Penitenciari, entrada abans | **2.145,00 €** |
+
+**La diferència és exactament la mateixa als dos cossos: 2.000,70 € l'any de
+complement específic**, que **al màxim de l'escala es converteix en 3.001,05 €**
+—perquè la banda de carrera és la meitat del que hi ha a sota.
+
+> **Dos agents del mateix rang, amb el mateix sou base, cobren 3.001,05 € l'any
+> de diferència segons si van entrar abans o després del 2017.** **I els qui
+> van entrar després cobren més.**
+
+`Comprovació del corpus: 96.244,41 − 93.243,36 = 3.001,05 a la policia, i
+74.403,35 − 71.402,30 = 3.001,05 al cos penitenciari. La mateixa xifra, als dos
+cossos.`
+
+### El cos diplomàtic és el cas rar
+
+| Nivell | Sou base | Complement específic | % del base |
+| --- | ---: | ---: | ---: |
+| **1A** | 36.080,20 € | **14.707,94 €** | **40,8%** |
+| 2C | 30.336,17 € | 2.697,37 € | 8,9% |
+| 3E | 18.594,68 € | 5.900,18 € | 31,7% |
+
+**El nivell més alt del cos diplomàtic té el sou base més baix de tots els
+nivells superiors** —36.080,20 €, menys que un XIII del Cos General— **i el
+complement específic més gran de tota l'Administració**: **14.707,94 €, el 40,8%
+del base.** **La diplomàcia andorrana no paga el càrrec: paga el destí.**
+
+### I una pujada ja aprovada per al 2027
+
+**Cada annex porta dues taules**: la del 2026 i la **«a partir de l'any 2027»**.
+**Els banders hi guanyen un 5,8% de sou base** —48.226,66 → 51.031,19 al B1— i
+**el cos penitenciari un 8,4%** —45.456,53 → 49.260,80. **La llei de pressupost
+del 2026 ja fixa el que es cobrarà el 2027.**
+
 ## Buits registrats
 
 - ~~**La Llei qualificada de la funció pública**: es va aprovar? quan? què hi diu?
@@ -376,7 +492,12 @@ en una de gran ocuparien estructures diferents.**
 - ~~Quants funcionaris té Andorra el 2000~~ — **tancat per a l'Administració
   general: 1.490.** **Segueix obert** quants n'hi ha als **comuns**, i quants
   n'hi ha avui.
-- **Els banders**: cos especial i cap fitxa al corpus.
+- **Els banders**: cos especial i cap fitxa al corpus. — **`parcial` el
+  2026-09-18**: **l'escala retributiva sí que hi és** —**tres nivells, de
+  27.473,42 a 48.226,66 € de sou base**, **el cos amb la carrera més curta de
+  l'Administració**— a
+  «[Els banders, que el corpus no tenia](#els-banders-que-el-corpus-no-tenia)».
+  **Quants són i què fan, segueix obert.**
 - **Tràmits**, la finestreta única oberta el gener del 1999.
 - ~~**El Reglament de formació del 14 d'agost de 1996** i per què va estar
   suspès.~~ — **`parcial` el 17-09-2026, i el motiu pel qual no es trobava és que
