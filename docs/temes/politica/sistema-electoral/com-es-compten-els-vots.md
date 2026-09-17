@@ -172,10 +172,16 @@ dins de la inhabilitació per a l'exercici de drets públics.
   consideració legal que les candidatures» i **han de reunir les mateixes
   signatures** (article 73).
 
-  **Una errata del text consolidat, registrada.** L'exposició de motius data la
-  llei que crea la Junta Electoral el **15 de desembre del 2000**; la disposició
-  derogatòria, el **15 de febrer del 2000**. **El mateix text dona dues dates
-  per a la mateixa norma.** `Requereix el BOPA del 2000 per decidir quina és.`
+  **Una errata del text consolidat, trobada i resolta el mateix dia.**
+  L'exposició de motius data la llei que crea la Junta Electoral el **15 de
+  desembre del 2000**; la disposició derogatòria, el **15 de febrer del 2000**.
+  **El mateix text dona dues dates per a la mateixa norma.** **Guanya
+  l'exposició de motius**: el BOPA la publica el **4 de gener del 2001** amb el
+  peu «**de 15-12-2000**», i el text diu «Atès que el Consell General **en la
+  seva sessió del dia 15 de desembre del 2000** ha aprovat la següent»
+  (`docs/raw/lleis/bopa/llei-15-12-2000-junta-electoral.txt`). **La disposició
+  derogatòria de la Llei 44/2022 té una data equivocada**, i **la norma que
+  deroga existeix igualment**, de manera que l'error no en canvia l'efecte.
 - ~~**Qui pot ser candidat** —requisits, incompatibilitats— és al capítol tercer i
   queda fora d'aquesta fitxa.~~ — **`resolt` el 17-09-2026** (articles 15-26).
   **Elegible és tot andorrà major d'edat inscrit al registre electoral** i no
