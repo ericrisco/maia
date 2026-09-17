@@ -115,4 +115,47 @@ La llei d'associacions és **qualificada**: modificar-la demana majoria absoluta
   i les **sis conductes deslleials** de l'article 19. **El que queda obert és el
   títol V**, el procediment judicial civil.
 - **La Llei de fundacions** (42 articles) tampoc.
-- **Quantes societats, associacions i fundacions hi ha**, no consta.
+- ~~**Quantes societats, associacions i fundacions hi ha**, no consta.~~ —
+  **`parcial` el 17-09-2026, i només per a les fundacions**, **perquè és
+  l'únic dels tres registres que el [BOPA](../../../fonts/bopa.md) publica
+  sencer.**
+
+  **El reglament del Registre de Fundacions obliga a publicar al Butlletí les
+  resolucions d'inscripció**, i **l'edicte del 3 de juny del 2026 en dona la
+  llista completa**
+  (`docs/raw/lleis/bopa/edicte-fundacions-2026-06-16.txt`):
+
+  | Secció | Quantes |
+  | --- | ---: |
+  | **I — fundacions privades d'interès general** | **22** |
+  | **II — fundacions del sector públic** | **5** |
+  | **Total inscrites** | **27** |
+
+  **Vint-i-set fundacions en un país de vuitanta mil habitants**, i **la sèrie
+  de números de registre arriba al 32**, de manera que **almenys cinc han
+  causat baixa o s'han liquidat pel camí** —**l'edicte del 2017 en cita una,
+  la Fundació Privada Grandalla, «actualment en liquidació».**
+
+  **La forma del registre diu qui fa fundacions a Andorra.** **La majoria de la
+  secció I porten nom de persona** —Maria Teresa Ricart, Valentí Claverol,
+  Carles Maestre, Aurora Fornés, Marcel Chevalier, Jacqueline Pradère, Anna
+  Riera, Clara Rabassa, Maria Maestre, Bartomeu Rebés, Família Cierco—, **i les
+  poques que porten nom d'empresa o de causa són les conegudes**: **Crèdit
+  Andorrà**, **Reig Fundació** —inscrita inicialment com a «Fundació Privada
+  Julià Reig»—, **Nostra Senyora de Meritxell**, **Sant Romà**, **Ibo-Àfrica**,
+  **Kailash Home**.
+
+  **I la secció pública són cinc i totes són institucions culturals o de
+  recerca**: **Fundació OMT.Themis**, **Fundació Ramon Llull**, **Orquestra
+  Nacional Clàssica d'Andorra (ONCA)**, **Escena Nacional d'Andorra (ENA)** i
+  **Andorra Recerca i Innovació**.
+
+  **Una de la secció I és de calendari**: **la «Fundació Privada Jocs dels Petits
+  Estats d'Europa Andorra 2025»**, **inscrita el 2019 amb el nom “Andorra
+  2021”** ([els jocs dels petits estats](../../esports/competicio/els-jocs-dels-petits-estats.md)).
+  **El canvi de nom al registre és la traça administrativa d'uns jocs ajornats
+  quatre anys.**
+
+  `Segueix obert per a societats i associacions: el Registre de Societats i el
+  d'Associacions no publiquen les inscripcions al Butlletí, i els seus recomptes
+  requereixen font externa.`
