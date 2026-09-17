@@ -309,6 +309,19 @@ urbanitzable la balança torna a caure del costat del Govern: l'article 139.3 di
 que **el ministeri informa «motivadament i amb caràcter vinculant»** sobre si
 escau l'autorització, i **retorna l'expedient al comú perquè el resolgui**.
 
+**I la llista que decideix quan el comú perd el vet és del 2018.** La disposició
+addicional primera, **afegida per la Llei 7/2018**, diu que l'informe del comú
+**no és vinculant** quan el projecte d'interès nacional o el pla sectorial té per
+objecte **centres escolars i universitaris**; **equipaments culturals** —museus,
+sales d'exposicions, biblioteques, arxius, centres culturals, teatres,
+auditoris—; **equipaments sanitaris**; **assistencials i sociosanitaris**;
+**esportius**; **infraestructures viàries i de protecció de riscos naturals**;
+**edificis administratius**; **equipaments energètics integrats** —gestió,
+transport, emmagatzematge, transformació i distribució, generació renovable
+**excepte aerogeneradors eòlics**, cogeneració i trigeneració, biomassa—; i
+**equipaments multifuncionals que en combinin diversos**. **Nou epígrafs que, en
+la pràctica, cobreixen gairebé tot el que un Govern vol construir.**
+
 **El resum honest és que la llei reparteix la decisió en tres.** El comú aprova,
 el Govern verifica la legalitat i la coordinació supracomunal, i **quan els dos
 xoquen sobre una obra d'interès nacional, la desfà el Consell General amb una
@@ -320,10 +333,11 @@ llei**. Això és el que la font citava; el que aquesta lectura hi afegeix és q
 1. ~~**La Llei del sòl.** Citada i no descrita.~~ — **`resolt` el 17-09-2026** a
    «[Què diu la Llei del sòl sobre els comuns](#que-diu-la-llei-del-sol-sobre-els-comuns)»:
    Llei general d'ordenació del territori i urbanisme del 29-12-2000, 178
-   articles. `Requereix la disposició addicional primera —la llista
-   d'equipaments que decideix quan l'informe del comú deixa de ser vinculant—,
-   que la instantània consolidada no porta, i les vint versions consolidades
-   sense comparar.`
+   articles. **La disposició addicional primera és
+   llegida** al text refós del 19-6-2019
+   (`docs/raw/lleis/bopa/decret-legislatiu-2019-text-refos-ordenacio-territori-urbanisme.txt`).
+   `Requereix, encara, comparar les vint versions consolidades: la llista
+   d'equipaments és del 2018 i no se sap què hi havia abans.`
 2. **La sentència del Tribunal Constitucional sobre béns comunals.**
 3. ~~**El Tribunal Constitucional** en general: el corpus no en té fitxa.~~
    `resolt`: [El Tribunal Constitucional](../../institucions/justicia/el-tribunal-constitucional.md).
