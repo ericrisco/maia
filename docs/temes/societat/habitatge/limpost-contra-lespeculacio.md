@@ -156,7 +156,48 @@ error: és una escala d'arrelament, amb dos esglaons.
   que descriu ([els recomptes del parc públic el 2026](./els-recomptes-del-parc-public-el-2026.md)).
   **Marcat com a deducció del corpus, no com a definició**: **un criteri
   d'admissió de sol·licitants no és el mateix que la fórmula del preu.**
-  `Requereix font externa: el text de la Llei 30/2021.`
+  ~~`Requereix font externa: el text de la Llei 30/2021.`~~ — **`resolt` el
+  17-09-2026** des del [BOPA](../../../fonts/bopa.md), butlletins **126 del
+  2021** i **132 del 2024**
+  (`docs/raw/lleis/bopa/llei-30-2021-arrendament-habitatge.txt` i
+  `docs/raw/lleis/bopa/decret-454-2024-preus-assequibles.txt`). **I la deducció
+  que el corpus havia marcat com a seva era bona: el 30% hi és, però al final,
+  no a la definició.**
+
+  **La definició legal és una sola frase, i té un topall dur** (Llei 30/2021,
+  article 3.1):
+
+  > «Es considera **preu assequible** la renda de lloguer **igual o inferior a
+  > l'aprovada per a aquesta finalitat pel Govern**, a proposta del ministeri
+  > responsable de l'habitatge, **prenent com a referència les dades relatives
+  > al fitxer de dades dels contractes d'arrendament d'habitatges** i que, **en
+  > qualsevol cas, ha de ser un 25% inferior a la del mercat**.»
+
+  **I des del 20 de novembre del 2024 hi ha les xifres** *(Decret 454/2024)*:
+
+  | | |
+  | --- | --- |
+  | **Preu de mercat de referència** | **16,60 €/m²** — **mitjana dels contractes d'arrendament signats el 2024**, presos del sistema **SICAR** on els comuns els enregistren |
+  | **Topall del preu assequible** | **12,45 €/m²** — **el mateix menys el 25%** |
+  | **Actualització** | **anual, per IPC** |
+
+  **El preu no surt d'una sola regla sinó de tres eixos** *(Decret 316/2024,
+  articles 13 i 14)*: **el preu de mercat**, **la sostenibilitat financera del
+  parc públic** —amortització del cost d'adquirir, rehabilitar i construir
+  dotze immobles, més manteniment i gestió—, i **l'assequibilitat per a qui hi
+  viurà.** **Al valor unitari s'hi aplica un factor corrector segons la
+  distància de cada edifici al centre del país**, **amb ajust homogeni per a
+  Andorra la Vella i Escaldes-Engordany.**
+
+  **I el 30% que el corpus havia trobat per l'altra banda encaixa aquí, a
+  l'últim pas**: **si el 30% dels ingressos de l'adjudicatari és superior al
+  preu assequible, la renda puja fins a aquell import** —**sense passar mai del
+  preu de mercat menys el 25%**—; **i si el preu assequible supera el 30% dels
+  ingressos, la diferència la pot cobrir un ajut**, **que es paga directament a
+  l'INH i no a la persona.**
+
+  **Dit curt: el 25% fixa el sostre del pis i el 30% fixa el sostre de la
+  persona, i la renda és el que quedi entremig.**
 
 ## Related
 
