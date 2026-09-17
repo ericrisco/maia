@@ -269,7 +269,7 @@ tenien **1.939 alumnes**, **més que tot el sistema públic espanyol del país**
 
 **El 17 de maig del 2007 el Consell General va aprovar la ratificació del
 Conveni entre el Govern d'Andorra i el Govern del Regne d'Espanya en matèria
-educativa** (`docs/raw/societat/ensenyament-confessional-conveni-2007.txt`, dotze
+educativa** (`docs/raw/societat/ensenyament-espanyol/conveni-2007-05-17.txt`, dotze
 articles). És la peça que el corpus buscava, i **no resol la qüestió confessional
 signant amb cada col·legi: la resol posant-los tots dins del sistema espanyol**.
 

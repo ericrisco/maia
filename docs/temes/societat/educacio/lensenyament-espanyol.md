@@ -205,16 +205,52 @@ amb la de l'índex** —que és la que dona número de butlletí— **però no e
 l'altra**, perquè podria correspondre a l'aprovació o a una altra publicació.
 **Desacord registrat.**
 
+## Tres acords en vint-i-sis anys, i el primer el signa la Mitra
+
+**La cadena està completa i és aquesta**
+(`docs/raw/societat/ensenyament-espanyol/`):
+
+| Data | Qui signa | Què |
+| --- | --- | --- |
+| **9 de juliol del 1981** | **el Govern espanyol i la Mitra d'Urgell** | el «règim de col·laboració» |
+| **11 de gener del 1993**, a Madrid | **el Ministeri d'Educació i Ciència i el d'Assumptes Exteriors espanyols, d'una part; la Mitra d'Urgell i el Govern andorrà, de l'altra** | Conveni Hispano-Andorrà en matèria educativa |
+| **signat el 2007**, ratificat el **17 de maig del 2007**, **en vigor el 10 d'octubre del 2007** | **el Govern d'Andorra i el Govern del Regne d'Espanya** | Conveni en matèria educativa |
+
+**El que canvia entre el primer i el darrer és qui hi seu.** **El 1981 Andorra no
+hi és**: l'acord és entre Espanya i la Mitra d'Urgell. **El 1993 el Govern
+andorrà hi entra, però la Mitra hi segueix com a part signant.** **El 2007 és un
+tractat entre dos estats i la Mitra ja no hi signa** — hi conserva una funció,
+la de determinar el programa de religió catòlica i proposar-ne el professorat,
+però **com a contingut del conveni, no com a part**.
+
+**El 1993 diu literalment què venia a corregir.** El seu preàmbul parla de
+**«la necessitat d'introduir aspectes importants no contemplats en el règim de
+col·laboració actualment vigent, plasmats en l'acord de 9 de juliol de 1981 entre
+el Govern espanyol i la Mitra d'Urgell»**, i recull **la voluntat manifestada pel
+Consell General** que l'ensenyament espanyol al Principat **sigui compatible amb
+la formació de tots els nens i joves en la llengua i la cultura andorranes**. La
+seva estipulació primera obliga el ministeri espanyol a **acomodar el règim dels
+centres a la legislació vigent a Espanya i al conveni**.
+
+**I el 2007 diu per què calia refer-ho.** Perquè **s'havia implantat un sistema
+educatiu propi andorrà** i perquè **havia acabat el procés autonòmic espanyol**,
+amb administracions educatives a les comunitats autònomes. A més, invoca
+**l'article cinquè de la Llei qualificada d'educació del 1993**, que estableix que
+**l'existència de centres que segueixen altres sistemes educatius ha de ser
+reconeguda per conveni internacional**: **el conveni no és una cortesia, és el
+requisit legal perquè els centres espanyols puguin existir aquí**.
+
 ## Buits registrats
 
-- **El règim de col·laboració de 1981** entre el copríncep episcopal i el govern
-  espanyol: text i contingut. — **`obert`, confirmat el 2026-09-14, i declarat
-  des dels dos extrems**: **[el marc legal de l'educació](./el-marc-legal-de-leducacio.md)
-  el demana com a «conveni de 1981 entre la Mitra d'Urgell i el Govern
-  espanyol», i el situa com una de les dues peces que expliquen per què calia
-  el 1993.** **L'altra peça, el decret francès, ja té data: 25 de gener i 7 de
-  maig del 1982.** **La del 1981 no.**
-  `Requereix font externa: el BOE del 1981 o l'arxiu de la Mitra.`
+- ~~**El règim de col·laboració de 1981** entre el copríncep episcopal i el govern
+  espanyol: text i contingut.~~ — **`parcial` el 17-09-2026, i ara té data
+  exacta**: **acord del 9 de juliol del 1981 entre el Govern espanyol i la Mitra
+  d'Urgell**, nomenat així pel preàmbul del Conveni Hispano-Andorrà de l'11 de
+  gener del 1993
+  (`docs/raw/societat/ensenyament-espanyol/conveni-1993-01-11.txt`). Vegeu «[Tres
+  acords en vint-i-sis anys, i el primer el signa la Mitra](#tres-acords-en-vint-i-sis-anys-i-el-primer-el-signa-la-mitra)».
+  `El text de l'acord del 1981 no és al Butlletí —és anterior i és entre Espanya
+  i la Mitra—: requereix l'arxiu del Bisbat d'Urgell o el BOE.`
 - **El Reial decret 1027/93** sencer, i **la Consejería de Educación de
   l'ambaixada d'Espanya**: què fa exactament a Andorra.
 - **Per què el 90% fa religió** en centres aconfessionals.
