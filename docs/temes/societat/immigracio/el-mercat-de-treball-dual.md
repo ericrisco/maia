@@ -246,8 +246,51 @@ el 2012 **el país va perdre població**
    «queda sense contingut»**: **el mateix any en què s'obre la mà als temporers
    d'hivern, es tanca del tot la porta de la residència passiva.**
 
-   `El que segueix obert són les quotes del 1998 al 2019 i les posteriors, que
-   el BOPA té com a reglaments del Govern i no s'han buidat.`
+   ~~`El que segueix obert són les quotes del 1998 al 2019 i les posteriors, que
+   el BOPA té com a reglaments del Govern i no s'han buidat.`~~ — **`resolt` el
+   17-09-2026.** Les del **2012 al 2026** ja eren a
+   [la llei d'immigració del 2012](./la-llei-dimmigracio-del-2012.md); les del
+   **2002 al 2011** es tanquen aquí, amb **cent un textos baixats del
+   [BOPA](../../../fonts/bopa.md)**
+   (`docs/raw/lleis/bopa/quotes-immigracio-1989-2011/`).
+
+   **Entre l'agost del 1997 i el setembre del 2002 el Butlletí no en publica cap.**
+   Cinc anys de silenci que s'acaben amb **la Llei qualificada d'immigració del
+   14 de maig del 2002**, que és la que faculta el Govern a fixar les quotes
+   «periòdicament i per via reglamentària». **Des d'aleshores no són anuals**: el
+   Govern en publica **dues o més l'any**, cadascuna per a un període de pocs
+   mesos, de manera que **no hi ha cap xifra anual a sumar**. La sèrie és la dels
+   decrets, no la dels anys:
+
+| Any | Decrets de quota general | Xifres, per ordre de publicació |
+| --- | --- | --- |
+| 2002 | 2 | 800 · 950 |
+| 2003 | 2 | 1900 · 3350 |
+| 2004 | 2 | 3400 · 2660 |
+| 2005 | 2 | 3000 · 4750 |
+| 2006 | 1 | 2000 |
+| 2007 | 2 | 620 · 900 |
+| 2008 | 6 | 95 · 155 · 290 · 110 · 195 · 96 |
+| 2009 | 6 | 35 · 90 · 66 · 85 · 185 · 88 |
+| 2010 | 4 | 90 · 168 · 116 · 160 |
+| 2011 | 4 | 86 · 160 · 102 · 183 |
+
+   **El que la sèrie ensenya és la crisi, i la data exacta.** La quota general
+   passa de **4.750 el setembre del 2005** —el màxim de tota la sèrie— a **2.000
+   l'octubre del 2006**, a **620 el juliol del 2007**, i **l'abril del 2008 cau a
+   95**. **Des d'aquell moment i fins al 2011 cap decret de quota general no
+   arriba a les tres-centes autoritzacions.** El 2006 el Govern havia arribat a
+   **suspendre parcialment** el reglament de quota general i a prorrogar-ne la
+   suspensió tres vegades.
+
+   **I la quota especial no cau igual.** Mentre la general es desploma, les
+   **quaranta-tres quotes especials** —temporada d'hivern a les estacions
+   d'esquí, sector hoteler, comerços de lloguer de material, agències de
+   viatges, cuidadors a domicili, agricultura i ramaderia— **es mantenen entre
+   mil i tres mil places** cada temporada: **1.220 a les estacions d'esquí i
+   2.500 al sector hoteler el setembre del 2008**, **1.030 i 2.075 l'octubre del
+   2011**. **El país retalla la immigració que es queda i no la que ve per
+   l'hivern.**
 4. ~~**Mojácar, Lalín i Viana do Castelo**: quanta gent, quan.~~ — **`parcial`,
    i les tres xarxes tenen rastre al corpus, encara que cap no tingui xifra.**
 

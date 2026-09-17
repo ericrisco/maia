@@ -1,0 +1,55 @@
+Correcció d’errata
+ Vist que s’ha constatat un error d’omissió en la publicació de la Taula I de l’Annex I del Decret del 12-05-2010 pel qual s’aprova el Reglament de quota general d’autoritzacions de residència i treball i d’autoritzacions de treball fronterer per a les ocupacions professionals corresponents als grups 1, 2, 30, 31, 32, 3314, 3544011, 3545, 4522004, 5010001, 5030, 5111, 5112, 5143005, 5150010, i 7613020 de la Classificació nacional d’ocupacions (CNO), publicat al Butlletí Oficial del Principat d’Andorra núm. 29, any 22, del 19 de maig del 2010, cal modificar la taula I de l’Annex I:
+ On hi diu
+ “ Taula I. Classificació salarial d’immigració (CSI)
+
+Grup CNO | Ocupació | Salaris 2010
+1 | Personal directiu de les empreses i de les Administracions públiques | 2.013,00
+2 | Tècnics i professionals científics i intel·lectuals | 2.224,00
+30 | Delineants i dissenyadors tècnics, tècnics en ciències físiques, químiques, enginyeria i informàtica, tècnics d’equips òptics i electrònics, professionals de la navegació marítima i aeronàutica, i tècnics en edificació, seguretat en el treball i control de qualitat | 1.430,00
+31 i 32 | Tècnics en ciències naturals, en sanitat i en educació infantil | 1.335,00
+3314 | Agents de viatges | 1.271,00
+3544011 | Acròbates | 1.200,00
+3545 | Esportistes i professionals similars | 1.200,00
+4522004 | Recepcionistes d’hotel | 1.200,00
+5010001 | Cuiners en general | 1.208,00
+5030 | Caps de cuina, de menjador i similars | 1.467,00
+5111 i 5112 | Auxiliars d’infermeria | 1.200,00
+5143005 | Guies de turisme | 1.200,00
+5150010 | Governants (hoteleria) | 1.200,00
+7613020 | Mecànics reparadors de bicicletes | 1.239,00
+
+ Nota: Aquesta graella es compon dels subgrups principals de la Classificació nacional d’ocupacions, els quals estan integrats pels diversos nivells que es preveuen de forma piramidal i jeràrquica als articles 3 i 4 del Reglament regulador de la Classificació nacional d’ocupacions d’Andorra (CNO), publicada al BOPA núm. 76, de l’any 6, del 8 de novembre del 2004.”
+ Ha de dir
+ “ Taula I. Classificació salarial d’immigració (CSI)
+
+Grup CNO | Ocupació | Salaris 2010
+10 al 17 | Personal directiu de les empreses i de les Administracions públiques | 2.013,00
+20 | Professionals de les ciències físiques, químiques i matemàtiques, d’enginyeria i informàtica, arquitectes i urbanistes, associats a titulacions de 2n i 3r cicle universitari | 2.224,00
+21 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 2n i 3r cicle universitari | 3.665,00
+22 | Professionals de l’ensenyament associats a titulacions de 2n i 3r cicle universitari | 1.716,00
+23 | Professionals del dret | 2.119,00
+24 | Professionals de l’organització d’empreses i professionals de les ciències socials i humanes, associats a titulacions de 2n i 3r cicle universitari | 1.562,00
+25 | Escriptors, artistes i altres professionals de les administracions públiques, associats a titulacions de 2n i 3r cicle universitari i similars | 1.271,00
+26 | Professionals de les ciències físiques, químiques i matemàtiques, d’informàtica, i enginyeria, arquitectes tècnics i similars, associats a titulacions de 1r cicle universitari | 1.335,00
+27 | Professionals de les ciències naturals i la sanitat, associats a titulacions de 1r cicle universitari, llevat dels òptics, els fisioterapeutes i similars | 1.885,00
+28 | Professionals de l’ensenyament associats a titulacions de 1r cicle universitari | 1.536,00
+29 | Altres professionals associats a titulacions de 1r cicle universitari | 1.668,00
+30 | Delineants i dissenyadors tècnics, tècnics en ciències físiques, químiques, enginyeria i informàtica, tècnics d’equips òptics i electrònics, professionals de la navegació marítima i aeronàutica, i tècnics en edificació, seguretat en el treball i control de qualitat | 1.430,00
+31 i 32 | Tècnics en ciències naturals, en sanitat i en educació infantil | 1.335,00
+3314 | Agents de viatges | 1.271,00
+3544011 | Acròbates | 1.200
+3545 | Esportistes i professionals similars | 1.200
+4522004 | Recepcionistes d’hotel | 1.200
+5010001 | Cuiners en general | 1.208
+5030 | Caps de cuina, de menjador i similars | 1.467
+5111 i 5112 | Auxiliars d’infermeria | 1.200
+5143005 | Guies de turisme | 1.200
+5150010 | Governants (hoteleria) | 1.200
+7613020 | Mecànics reparadors de bicicletes | 1.239
+
+ Nota: Aquesta graella es compon dels subgrups principals de la Classificació nacional d’ocupacions, els quals estan integrats pels diversos nivells que es preveuen de forma piramidal i jeràrquica als articles 3 i 4 del Reglament regulador de la Classificació nacional d’ocupacions d’Andorra (CNO), publicada al BOPA núm. 75, de l’any 16, del 8 de novembre del 2004”.
+ Cosa que es fa pública per a coneixement general.
+ Andorra la Vella, 19 de maig del 2010
+ Jaume Bartumeu Cassany
+ Cap de Govern

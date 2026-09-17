@@ -274,8 +274,16 @@ caure a la meitat el 2024 abans de recuperar-se parcialment.
    **`parcial` el 17-09-2026**: **baixats els 105 reglaments** i extreta la sèrie
    de la quota general de treball — vegeu
    [Quinze anys de quota, i el pic del 2023](#quinze-anys-de-quota-i-el-pic-del-2023).
+   ~~`Segueixen sense buidar les sèries de compte propi i de residència sense
+   treball any per any, i els quinze anys entre el 1997 i el 2012.`~~ —
+   **els quinze anys entre el 1997 i el 2012 estan tancats el 17-09-2026**:
+   **cent un textos més**, del 1989 al 2011
+   (`docs/raw/lleis/bopa/quotes-immigracio-1989-2011/`), buidats a
+   [El mercat de treball dual](./el-mercat-de-treball-dual.md). **Entre l'agost
+   del 1997 i el setembre del 2002 el Butlletí no en publica cap**, i des del
+   2002 la quota general cau de **4.750** a **95** en tres anys.
    `Segueixen sense buidar les sèries de compte propi i de residència sense
-   treball any per any, i els quinze anys entre el 1997 i el 2012.`
+   treball any per any.`
 4. **Quins estats tenen conveni** amb Andorra a efectes de l'article 40. **És la
    clau del primer graó de la prioritat i el corpus no té la llista.** —
    **`parcial` el 17-09-2026: el mecanisme està documentat i la llista no.**
