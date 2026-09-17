@@ -334,7 +334,54 @@ de cada moment i no pas a un programa preordenat»**
     període constituent amb una sola consellera, i sis mesos de parlament en
     femení el 2011**
     ([el sistema electoral](../../politica/sistema-electoral/README.md)).
-    `Requereix font externa: les actes del Consell General, o Estadística.`
+    **`parcial` el 17-09-2026, i la cronologia es tanca encara que la sèrie
+    no.** Les [actes històriques del Consell
+    General](../../../fonts/actes-historiques-consell-general.md) **daten cada
+    pas amb la signatura d'arxiu**, i **corregeixen l'any que el corpus tenia
+    per al vot**:
+
+    | | |
+    | --- | --- |
+    | **14 de gener del 1970** | **Decret dels delegats permanents que concedeix el dret a vot a les dones andorranes** amb ciutadania. El Consell n'és informat el **23 d'abril** *(ANA ASC 9.488, fol. 1.110)* |
+    | **24 de maig del 1973** | El Consell **acorda reconèixer el dret de les dones a ser elegides**, i tramet l'acord a les delegacions permanents *(fol. 1.505)* |
+    | **20 de novembre del 1984** | **Primera dona consellera: Mercè Bonell Bertran, d'Andorra**, que **substitueix Bonaventura Riberaygua** *(ANA ASC 9.491, fol. 4.889)* |
+    | **2019** | **Roser Suñé, primera dona síndica** |
+
+    **Tres coses que el corpus no tenia així.** **El vot arriba per decret dels
+    delegats permanents, no per acord del Consell** —**el Consell se n'assabenta
+    tres mesos després**—. **Votar i poder ser elegida van separades per tres
+    anys i mig.** **I la primera consellera hi entra per substitució amb nom i
+    cognoms i sabent a qui substitueix**, cosa que el corpus registrava com «la
+    primera per substitució» sense cap dels dos.
+
+    **I la sèrie, que era el buit de debò, ja existeix per al període que la
+    síntesi detalla.** **Comptats els noms validats a cada elecció, un per un:**
+
+    | Legislatura | Persones | Dones |
+    | --- | --- | --- |
+    | **1980-1981** | 32 | **0** |
+    | **1982-1985** | 39 | **1** — Mercè Bonell Bertran |
+    | **1986-1989** | 33 | **1** — Maria Teresa Armengol Bonet |
+    | **1990-1992** | 31 | **0** |
+    | **1992-1993** | 39 | **3** — Maria Reig Moles, Olga Adellach Coma, Rosa Maria Mandicó Alcobé |
+
+    **La forma de la sèrie no és una rampa: és intermitent.** **Del 1970, quan
+    les dones voten, al 1984 no n'hi ha cap.** **Després n'hi ha una, una, i cap
+    altra vegada.** **El salt a tres arriba el 1992-1993**, **la legislatura
+    constituent**, i **és el primer cop que n'hi ha més d'una alhora.**
+
+    **Nou anys amb el dret a ser elegida i cap dona al Consell.** **El dret del
+    1973 no es fa efectiu fins al 1984, i per substitució.**
+
+    > **Com s'ha comptat, perquè es pugui refer.** Els noms s'han extret dels
+    > blocs «Legislatura» de la síntesi, que llisten els càrrecs validats a cada
+    > elecció amb la forma `Cognoms, Nom; de Lloc; càrrec`. **S'han deduplicat
+    > les persones** —un mateix nom hi surt diverses vegades entre validacions i
+    > substitucions— i **el sexe s'ha assignat pel prenom**. **La síntesi
+    > detalla per legislatura del 1980 al 1993 i no més enllà**, i **per això la
+    > sèrie s'atura el 1993 i no perquè falti comptar.**
+
+    `Requereix les legislatures posteriors al 1993, que la síntesi no desglossa.`
 
 > **Defecte d'estructura registrat el 2026-09-14, no corregit**: **aquesta
 > llista té dos punts numerats «8»**. **La numeració no s'ha tocat** —canviar-la
