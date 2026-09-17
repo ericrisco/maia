@@ -86,8 +86,36 @@ travessa tot el que descriu
 
 ## Buits registrats
 
-- **L'annex I** —la llista de projectes que obliguen a avaluació— **no s'ha
-  llegit**; és on hi ha la resposta pràctica de si una obra concreta hi entra.
+- ~~**L'annex I** —la llista de projectes que obliguen a avaluació— **no s'ha
+  llegit**.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+  butlletí **15 del 2023**
+  (`docs/raw/lleis/bopa/llei-4-2023-avaluacio-ambiental.txt`). **No era al
+  recull perquè el recull serveix articles i no annexos**, la mateixa limitació
+  que amb [l'annex de velocitats](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md).
+
+  **I no és un annex: són tres**, i **el llindar és el que decideix**:
+
+  | | |
+  | --- | --- |
+  | **Annex I a** | **Impacte destacable** — tala o plantació forestal **d'1 ha o més**, ramaderia intensiva, electricitat **de 500 a 2.000 kW**, línies **de 20 a 110 kV** |
+  | **Annex I b** | **Impacte molt important** — línies **de 110 kV o més**, electricitat **de més de 2.000 kW**, **túnels i viaductes**, **vies ferroviàries**, **aeròdroms, aeroports i heliports**, telefèrics, abocadors, depuradores **de 10.000 habitants-equivalents o més**, i **extracció d'àrids, tarteres, lloseres i mineria** |
+  | **Annex II** | **No sotmesos a avaluació**, només a pla de restauració i vigilància — pistes forestals **de menys de 500 m**, xarxes soterrades **de menys de 500 m**, millores de finca **de menys d'1 ha** |
+
+  **Una hectàrea, cinc-cents metres i cinc-cents quilowatts són les tres
+  frontieres pràctiques de tot el sistema.**
+
+  **Dues coses que val la pena subratllar.** **L'annex II exclou expressament
+  les modificacions i remodelacions de pistes d'esquí existents i autoritzades**
+  —rases, canvi de remuntadors en la mateixa traça, millores puntuals—: **en un
+  país on l'esquí és la indústria, la llei el treu del procediment sempre que
+  no canviï la traça.**
+
+  **I l'annex I b acaba amb una clàusula de tancament que remet a Europa**:
+  **«qualsevol projecte inclòs en els annexos de la directiva europea [...] i no
+  recollit en els annexos d'aquesta Llei».** **Andorra no és membre de la UE i
+  la seva llista d'impacte ambiental és, per remissió, la de la UE.** És la
+  mateixa arquitectura que aquesta fitxa ja descriu per als percentatges de
+  reciclatge.
 - **Quin percentatge de reciclatge assoleix Andorra avui**, no consta al recull
   de lleis.
 - **La Llei 25/2004 de residus**, que la d'economia circular cita com a norma
