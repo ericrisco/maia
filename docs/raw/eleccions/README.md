@@ -41,6 +41,13 @@ taules de resultats són imatges. Per llegir-ne una cal renderitzar la pàgina.
 | `eg-2023-participacio-10.png` … `-14.png` | participació hora per hora, nacional i les set parròquies, amb les columnes EG2019 i EC2019 |
 | `eg-2023-resultats-25.png`, `-26.png` | escrutini de la circumscripció nacional per partit i parròquia |
 | `eg-2023-composicio-24.png` | composició del Consell General: les set llistes parroquials guanyadores |
+| `eg-1997-resultats-06.png` | resultats nacionals del 1997 per candidatura, i els catorze electes |
+| `eg-2001-resultats-22.png` | íd. del 2001 |
+| `eg-2005-resultats-06.png` | **la casella nacional en blanc («N/D»)** i la parroquial de les set parròquies |
+| `eg-2009-resultats-21.png` | percentatges nacionals i de les set parròquies |
+| `eg-2011-escrutini-19.png` | escrutini nacional del 2011 i el de Canillo |
+| `eg-2015-escrutini-19.png` | íd. del 2015 |
+| `eg-2019-escrutini-13.png` | íd. del 2019 |
 
 ## El que el dossier del 2005 no porta
 

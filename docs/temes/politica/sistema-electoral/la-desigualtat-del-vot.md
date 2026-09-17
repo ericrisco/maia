@@ -543,6 +543,163 @@ la capital al 62,2%. Comptant **vots** en comptes d'electors:
 capital vota menys. **Que la capital s'abstingui és l'únic factor que estreny la
 desigualtat**, i és evidentment el pitjor consol possible.
 
+## Els resultats oficials, elecció per elecció
+
+Era el buit 1 d'aquesta fitxa: **«els resultats oficials de les eleccions
+generals, de qualsevol any. Prioritari i elemental.»** Els dossiers
+d'[eleccions.ad](../../../fonts/eleccions-ad.md) els publiquen des del 1997.
+**La circumscripció nacional, set de les vuit convocatòries:**
+
+### 1997 — quatre llistes
+
+| Candidatura | Cap de llista | Vots | % |
+| --- | --- | ---: | ---: |
+| **Unió Liberal (UL)** | Marc Forné Molné | **3.543** | **42,3%** |
+| Agrupament Nacional Democràtic (AND) | Ladislau Baró Solà | 2.374 | 28,3% |
+| Nova Democràcia (ND) | Jaume Bartumeu Cassany | 1.471 | 17,6% |
+| Iniciativa Democràtica Nacional (IDN) | Vicenç Mateu Zamora | 993 | 11,8% |
+| **Vàlids** | | **8.381** | |
+
+Electors 10.837 · participació **81,6%** · blancs **367** · nuls **92**.
+
+### 2001 — tres llistes
+
+| Cap de llista | Vots | % |
+| --- | ---: | ---: |
+| **Marc Forné Molné** | **4.739** | **46,2%** |
+| Jaume Bartumeu Cassany | 3.083 | 30,0% |
+| Jordi Mas Torres | 2.441 | 23,8% |
+| **Vàlids** | **10.263** | |
+
+Electors 13.342 · participació **81,6%** · blancs **488** · nuls **138**.
+`El dossier del 2001 etiqueta les llistes pel cap de llista i no pel partit.`
+
+### 2005 — la circumscripció nacional no és publicada
+
+**El dossier del 2005 diu «N/D» a la casella de resultats nacionals.** Sí que
+dona la **circumscripció parroquial**, en percentatge:
+
+| Parròquia | Primera | Segona | Tercera |
+| --- | --- | --- | --- |
+| Canillo | PLA **53,5%** | CDA + Segle 21 46,5% | — |
+| Encamp | L'Alternativa PS-RD **52,8%** | PLA-Independents 47,2% | — |
+| Ordino | PLA **38,9%** | L'Alternativa PS-GUPI 35,5% | CDA + Segle 21 25,6% |
+| La Massana | PLA **46,2%** | PS-RD 33,1% | CDA + Segle 21 20,7% |
+| Andorra la Vella | PS-RD **50,1%** | PLA 37,7% | CDA + Segle 21 12,2% |
+| Sant Julià de Lòria | PLA **65,4%** | PS-RD 34,6% | — |
+| Escaldes-Engordany | PS-RD **54,4%** | PLA 45,6% | — |
+
+`Les set files sumen 100,0%.` **PLA guanya quatre parròquies i el PS-RD tres**,
+i **la capital i Escaldes van amb el PS**: el mateix mapa que el 2009 repetirà
+amb més força.
+
+### 2009 — la victòria socialdemòcrata
+
+El dossier del 2009 dona **percentatges i no vots**, i **els dona de les set
+parròquies**, que és l'única elecció del corpus amb el vot nacional obert
+parròquia per parròquia abans del 2023.
+
+| | Nacional | Canillo | Encamp | Ordino | La Massana | And. la Vella | St. Julià | Escaldes |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **PS** | **45,03%** | 33,8 | 43,3 | 40,6 | 40,5 | **53,9** | 36,0 | 46,3 |
+| **Coalició Reformista** | **32,34%** | **50,3** | 20,6 | 34,9 | **44,6** | 25,5 | **44,9** | 30,1 |
+| Andorra pel Canvi | 18,86% | 12,2 | **31,8** | 22,0 | 12,1 | 16,0 | 15,9 | 19,9 |
+| Verds d'Andorra | 3,17% | 3,1 | 3,6 | 2,0 | 2,3 | 3,8 | 2,8 | 3,2 |
+| Unió Nacional de Progrés | 0,60% | 0,5 | 0,7 | 0,5 | 0,5 | 0,8 | 0,4 | 0,5 |
+
+`Comprovació del corpus.` **Les set columnes i la nacional sumen 100,0% cada
+una.**
+
+**El PS guanya el país i perd tres parròquies** —Canillo, La Massana i Sant
+Julià, on la Coalició Reformista és primera— i **treu el seu millor resultat a
+la capital, amb el 53,9%**. **Andorra pel Canvi és un fenomen d'Encamp**: 31,8%
+allà contra 18,86% al país, i **12,1% a la Massana**.
+
+### 2011 — la majoria de Demòcrates
+
+| Candidatura | Vots | % |
+| --- | ---: | ---: |
+| **Demòcrates per Andorra** | **8.553** | **55,14%** |
+| Partit Socialdemòcrata | 5.397 | 34,79% |
+| Andorra pel Canvi | 1.040 | 6,70% |
+| Verds d'Andorra | 520 | 3,35% |
+| **Vàlids** | **15.510** | **100,00%** |
+
+Electors 21.852 · participació **74,1%** · blancs **523** · nuls **164**.
+
+### 2015 — quatre llistes i mil blancs
+
+| Candidatura | Vots | % |
+| --- | ---: | ---: |
+| **Demòcrates per Andorra** | **5.448** | **37,03%** |
+| Liberals d'Andorra | 4.073 | 27,68% |
+| PS + Verds + IC + I | 3.462 | 23,53% |
+| Socialdemocràcia i Progrés | 1.728 | 11,74% |
+| **Vàlids** | **14.711** | **100,00%** |
+
+Electors 24.512 · participació **65,6%** · blancs **1.064** · nuls **309**.
+
+**Els mil seixanta-quatre vots en blanc del 2015 són el rècord de la sèrie**:
+**el 6,7% de tot el que es va escrutar**, contra el 2,9% del 2019 i el 2,7% del
+2023. **L'any de la participació més baixa és també el de més gent que hi va
+anar per no triar ningú.**
+
+### 2019 — set llistes
+
+| Candidatura | Vots | % |
+| --- | ---: | ---: |
+| **Demòcrates + Independents** | **6.248** | **35,13%** |
+| Partit Socialdemòcrata | 5.445 | 30,62% |
+| Liberals d'Andorra | 2.219 | 12,48% |
+| TerceraVia + Unió Laurediana + Independents | 1.853 | 10,42% |
+| Progressistes SDP | 1.044 | 5,87% |
+| Andorra Sobirana | 825 | 4,64% |
+| Units pel Progrés d'Andorra | 149 | 0,84% |
+| **Vàlids** | **17.783** | **100,00%** |
+
+Electors 27.278 · participació **68,3%** · blancs **531** · nuls **324**.
+
+### 2023
+
+La taula sencera, per partit i per parròquia, és a
+[On sí que és publicat](#on-si-que-es-publicat-eleccionsad).
+
+### El repartiment del 2023, refet amb la llei a la mà
+
+La llei electoral reparteix els catorze escons nacionals per **resta més
+elevada** i **reserva els escons de resta a les candidatures que ja tinguin
+representació** (article 62.2, [com es compten els vots](./com-es-compten-els-vots.md)).
+**Amb els vots del 2023 el càlcul dona exactament la cambra proclamada:**
+
+> quocient electoral = 19.172 / 14 = 1.369,4 → **1.370**
+
+| Candidatura | Vots | Escons de quocient | Resta | **Total** |
+| --- | ---: | ---: | ---: | ---: |
+| Demòcrates + CC + ACO + UN | 6.262 | 4 | 782 | **5** |
+| Concòrdia | 4.109 | 2 | **1.369** | **3** |
+| PS + Progressistes SDP | 4.036 | 2 | 1.296 | **3** |
+| Andorra Endavant | 3.067 | 2 | 327 | **3** |
+| Liberals d'Andorra | 893 | 0 | *893* | **0** |
+| Acció | 805 | 0 | *805* | **0** |
+
+`Comprovació del corpus.` **Deu escons es reparteixen per quocient i els quatre
+restants van a les quatre restes més altes d'entre les llistes que ja en tenien:
+5-3-3-3, que és la composició nacional proclamada.**
+
+**I aquí es veu la barrera.** **Els Liberals tenien una resta de 893 vots, més
+alta que la de Demòcrates (782)**, i **no van cobrar cap escó** mentre
+Demòcrates en cobrava un de resta. **No és una qüestió de vots: és la clàusula
+«que ja tinguessin representació».** **Amb el 4,7% dels vots no s'entra, i qui
+no entra tampoc no participa del repartiment de sobres.**
+
+### Una diferència de dues o tres paperetes que té explicació
+
+Al 1997 i al 2001 **la suma de les candidatures no quadra amb els votants per dos
+i tres vots**. **No és un error de lectura.** El dossier del 2011 ho ensenya
+explícitament: aquell dia hi va haver **16.197 vots emesos a la urna nacional i
+16.185 a la parroquial**, amb **16.192 votants**. **Hi ha gent que vota a una
+urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
+
 ## Buits registrats
 
 1. **Els resultats oficials de les eleccions generals**, de qualsevol any.
@@ -553,13 +710,17 @@ desigualtat**, i és evidentment el pitjor consol possible.
    `decret-150-2023-proclamacio-elegits.txt`): **252 noms, 28 per elecció, cap
    xifra.** **Les xifres no hi són perquè l'article 57.2 de la llei electoral
    només obliga a proclamar el nom**, i **cap decret no diu quins són
-   territorials i quins nacionals.** **Queden oberts els vots per candidatura i
-   per parròquia de qualsevol elecció des del 1993**, i **no es poden tancar pel
-   BOPA** — **però sí pel lloc oficial `eleccions.ad`**, `resolt` el 18-09-2026
-   per al **2023** i **amb la via oberta per al 1997-2019**: vegeu
-   [On sí que és publicat](#on-si-que-es-publicat-eleccionsad). **En canvi, el corpus ja té els
-   resultats numèrics complets de les eleccions del 1989 i del 1992**, que sí
-   que sortien al butlletí.
+   territorials i quins nacionals.** ~~Queden oberts els vots per candidatura i
+   per parròquia de qualsevol elecció des del 1993.~~ **`resolt` el 18-09-2026
+   pel lloc oficial `eleccions.ad`**: la circumscripció nacional de **1997,
+   2001, 2009, 2011, 2015, 2019 i 2023**, i la parroquial del **2005** i del
+   **2009**, a
+   [Els resultats oficials, elecció per elecció](#els-resultats-oficials-eleccio-per-eleccio).
+   **El 2005 nacional no es tanca perquè el dossier oficial diu «N/D»**, i
+   **queda obert el detall per parròquia del vot nacional del 2011, del 2015 i
+   del 2019**, que és a les pàgines 19-25, 19-25 i 13-16 dels dossiers
+   respectius. **En canvi, el corpus ja té els resultats numèrics complets de
+   les eleccions del 1989 i del 1992**, que sí que sortien al butlletí.
 2. **L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
    **Prioritari.**
 3. **Els informes del Consell d'Europa** sobre el sistema electoral andorrà.
