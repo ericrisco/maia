@@ -152,6 +152,23 @@ protecció de dades personals, propietat intel·lectual i industrial, i relacion
 contractuals preexistents**. El títol XI hi afegeix la **Passarel·la d'intercanvi
 de dades**, construïda sobre el **principi «només una vegada»**.
 
+**El sandbox té reglament propi i el de les zones econòmiques no existeix.** El
+**Decret 211/2023, del 10-5-2023**, desplega el títol VIII
+(`docs/raw/lleis/bopa/decret-211-2023-reglament-sandbox.txt`, dotze articles).
+Per entrar-hi, l'article 3 demana **vuit requisits**, entre els quals **estar
+alineada amb l'estratègia del Govern**, **tenir un prototip** —«un estat
+suficientment avançat»—, **un pla de negoci que mostri que es pot desplegar amb
+èxit en sortir**, **salvaguardes per als participants amb un procés de queixes**,
+i **contribuir «a la millora de la normativa»**. L'article 10 resol qui
+supervisa: **si el sector té una entitat reguladora amb personalitat jurídica
+pròpia, és ella; si no, el departament o l'agència del Govern que porti el
+sector**. A la **Comissió de Coordinació** hi són sempre l'autoritat supervisora i,
+com a **membres permanents**, **Andorra Recerca i Innovació, Andorra
+Desenvolupament i Inversió i Andorra Digital**. I el **Registre del sandbox** és
+**de caràcter privat**: només qui acrediti **interès legítim** en pot demanar
+certificats, i el responsable **els denega si considera que no hi concorre o que
+la sol·licitud és abusiva**.
+
 **Una disposició addicional decideix qui mana al domini nacional.** Atribueix a
 **Andorra Telecom, SAU** la gestió del registre dels noms de domini **«.ad»**, la
 condició d'**autoritat d'assignació** i **la participació als òrgans de l'ICANN**,
@@ -160,9 +177,16 @@ dels serveis.
 
 ## Buits registrats
 
-- **Si les zones econòmiques especials existeixen**, quants nòmades digitals i
-  quants visats emprenedors s'han concedit, i si el sandbox s'ha fet servir mai:
-  **cap dada al corpus**. La llei és del 2022 i el corpus no en té resultats.
+- ~~**Si les zones econòmiques especials existeixen**, quants nòmades digitals i
+  quants visats emprenedors s'han concedit, i si el sandbox s'ha fet servir.~~ —
+  **`parcial` el 17-09-2026, i dues de les quatre tenen resposta.** **Cap zona
+  econòmica especial no s'ha creat**: la cerca de «zona econòmica especial» a tot
+  el [BOPA](../../../fonts/bopa.md) torna **dos documents**, i són la llei
+  mateixa i un decret de sancions contra Rússia que fa servir l'expressió per una
+  altra cosa. **El sandbox sí que s'ha desplegat**, amb el Decret 211/2023.
+  `Quants nòmades digitals i quants visats emprenedors s'han concedit segueix
+  obert: «nòmada digital» i «visat emprenedor» no tornen cap document al
+  Butlletí, perquè són autoritzacions individuals que no es publiquen.`
 - ~~**Els 165 articles de la Llei 42/2022 només s'han llegit pel seu article
   primer.** Cada títol —startups, crowdfunding, dades obertes— demana la seva
   pròpia lectura.~~ — **`parcial` el 17-09-2026** a «[Els onze títols de la llei
