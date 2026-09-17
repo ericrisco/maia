@@ -66,9 +66,9 @@ llibre del pressupost
 (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`).
 
 **Per situar-ho**: **la ràdio i la televisió públiques andorranes costen a
-l'Estat gairebé la meitat del que costa tot el Ministeri d'Afers Exteriors**
-—10,6 M€— i **el doble del que l'Estat preveu recaptar amb els impostos sobre
-el joc** —2,4 M€
+l'Estat just la meitat del que costa tot el Ministeri d'Afers Exteriors**
+—10,6 M€— i **més del doble del que l'Estat preveu recaptar amb els impostos
+sobre el joc** —2,4 M€
 ([què aprova el pressupost](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)).
 
 **Surt del capítol 4 del pressupost, transferències corrents**: **l'Estat no

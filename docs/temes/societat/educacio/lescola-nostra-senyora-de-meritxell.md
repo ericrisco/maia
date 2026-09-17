@@ -289,8 +289,8 @@ andorrà**, després de **la Caixa Andorrana de Seguretat Social (59,5 M€)** i
 **les transferències als comuns (49,4 M€)**
 ([què aprova el pressupost](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)).
 **Una fundació privada rep més diners públics que tot el Ministeri d'Afers
-Exteriors** —10,6 M€.—, **i un 9% més que el que l'Estat preveu recaptar amb
-l'impost de les emissions de CO₂ i el de les estades turístiques junts.**
+Exteriors** —10,6 M€—, **i més de la meitat del que costa el Ministeri de
+Cultura, Joventut i Esports sencer** —22,4 M€.
 
 ## Buits registrats
 
