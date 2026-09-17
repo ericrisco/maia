@@ -15,14 +15,22 @@ tags: [educacio, infancia, dret-vigent, societat]
 
 ## La unitat llegida
 
-**Llei de guarderies infantils, de l'11 de maig de 1995** (BOPA del 23-5-1995) i
-**Decret del 27 d'abril del 2005 d'aprovació del Reglament de guarderies
-infantils** (BOPA del 3-5-2005)
+**Llei de guarderies infantils, de l'11 de maig de 1995** i **Decret del 27
+d'abril del 2005 d'aprovació del Reglament de guarderies infantils**
 ([font](../../../fonts/bopa.md);
 [evidència](../../../raw/lleis/bopa/llei-guarderies-infantils-1995.txt),
 [evidència](../../../raw/lleis/bopa/decret-2005-reglament-guarderies-infantils.txt)).
 
 **El corpus no tenia res sobre primera infància.**
+
+**Una discrepància de data, registrada i no arbitrada.** L'API del BOPA data la
+publicació de la Llei el **23 de maig de 1995**;
+[l'índex legislatiu oficial](./index-legislatiu-en-educacio.md) la data al **BOPA
+núm. 29, any 7, del 24.5.1995**. **És el mateix desfasament d'un dia que el
+corpus ja té registrat en altres butlletins**
+([les portes d'entrada a la via preferent](../sanitat/les-portes-dentrada-a-la-via-preferent.md)).
+Es conserven les dues indicacions. El mateix passa amb el reglament del 1995: API
+**5-12-1995**, índex **6.12.1995**.
 
 ## Abans del 1995 no hi havia res
 
