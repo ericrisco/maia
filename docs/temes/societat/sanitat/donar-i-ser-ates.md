@@ -183,8 +183,44 @@ de treball pactat** amb la persona (article 3.n).
   modificar **«per motius de prevenció, diagnòstic o terapèutics»** i **«només
   si el propòsit no és introduir directament modificacions al genoma dels
   descendents o a la línia germinal»**.
-- **El títol II de les professions de la salut** —que regula cada professió una
-  per una— no s'ha buidat.
+- ~~**El títol II de les professions de la salut** —que regula cada professió una
+  per una— no s'ha buidat.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/professions-salut.txt`, **Llei 39/2022**, articles 55 a 76).
+  **Són onze capítols i dotze professions**, **amb dos articles cadascuna**
+  —**definició i funcions, i requisits formatius**— **i una simetria que és, en
+  si mateixa, la troballa: la llei tracta totes les professions amb la mateixa
+  extensió.**
+
+  | | Professions titulades de la salut |
+  | --- | --- |
+  | **1** | **Dietista-nutricionista** |
+  | **2** | **Farmacèutic** |
+  | **3** | **Fisioterapeuta** |
+  | **4** | **Infermer generalista i especialista** |
+  | **5** | **Llevador** —**secció pròpia dins del capítol d'infermeria** |
+  | **6** | **Logopeda o ortofonista** |
+  | **7** | **Metge** |
+  | **8** | **Odontòleg** |
+  | **9** | **Òptic optometrista** |
+  | **10** | **Podòleg** |
+  | **11** | **Psicòleg** |
+  | **12** | **Tècnic ortopèdic** |
+
+  **El metge no té més articles que el podòleg.** **El llevador té secció
+  pròpia dins de l'infermeria**, que és la petja de
+  [l'Escola d'Infermeria](./lescola-dinfermeria.md) i de l'ofici antic al
+  país.
+
+  **La definició del metge porta una clàusula de no-interferència**
+  (article 65.2): **«en cap cas es pot limitar l'activitat professional i la
+  capacitat d'actuació dels metges més enllà del que suposa la perícia exigible
+  en les mateixes»**. **I la del psicòleg és la més ampla en àmbits**
+  (article 73.3): **salut, educació, tribunals de justícia, social, treball i
+  organitzacions, i esport** —**l'única professió de la llista que la llei
+  situa expressament dins d'un jutjat.**
+
+  `Requereix els requisits formatius concrets de cada professió, que són el
+  segon article de cada capítol i que aquesta lectura no ha buidat un per un.`
 - ~~**La Llei de reproducció humana assistida**, que la llei d'òrgans cita, **no
   és al recull de les 104**.~~ — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: la **Llei 12/2019, del 15 de febrer,
