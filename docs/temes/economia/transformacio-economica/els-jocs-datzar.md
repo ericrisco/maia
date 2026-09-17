@@ -116,14 +116,65 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
 
 ## Buits registrats
 
-- **El tipus de l'impost** no s'ha llegit: aquesta fitxa cobreix el fet generador
-  i les exempcions, no la quota.
+- ~~**El tipus de l'impost** no s'ha llegit: aquesta fitxa cobreix el fet generador
+  i les exempcions, no la quota.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/jocs-atzar.txt`, article 51). **No hi ha un tipus: n'hi ha
+  un per categoria, i la base tampoc és la mateixa.**
+
+  | Categoria | Base de tributació | Tipus |
+  | --- | --- | --- |
+  | **1 — casino** | **Producte brut del joc** | **10%**, amb un **mínim meritat de 2.000.000 € per exercici** |
+  | **2 — bingo** | **Quantitats jugades** (bingo presencial) i **producte brut** (videobingo i màquines) | **10%** |
+  | **3** | **Quantitats jugades** | **25%** |
+  | **4** | Producte brut del joc | **3%** |
+  | 5 | Producte brut del joc, tret de les combinacions aleatòries amb finalitat publicitària | — |
+
+  **Dues coses que la taula no diu sola.** **La categoria 1 té un terra, no un
+  sostre**: **el casino paga com a mínim dos milions d'euros l'any encara que
+  perdi diners**, o la part proporcional si l'exercici és més curt. **I la
+  categoria 3 tributa el 25% sobre les quantitats jugades, no sobre el que hi
+  guanya l'operador** —**és el tipus més alt de tots i sobre la base més
+  ampla.**
 - **Quants operadors hi ha**, de quines categories, i si el casino de categoria 1
   està en funcionament, **no consta**. La llei crea el marc; el corpus no té el
   mapa.
 - **Quantes persones figuren als registres d'interdicció**, tampoc.
-- **El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
-  d'Inspecció** (títol V) queden per llegir.
+- ~~**El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
+  d'Inspecció** (títol V) queden per llegir.~~ — **`resolt` el 17-09-2026, i
+  el que hi ha és un regulador que és el Govern.**
+
+  **El Consell Regulador Andorrà del Joc el presideix el ministre de Finances**
+  i **n'és president suplent el ministre d'Interior** (article 41.2). **Hi
+  seuen, a més, un representant de cadascun dels ministeris de salut,
+  benestar, economia, turisme i cultura.** **Els ministres poden delegar en un
+  alt càrrec, un director de departament o fins i tot en «un director o gerent
+  d'una societat pública o parapública de la qual el ministre sigui el
+  president».** **I el Govern hi pot afegir, optativament, fins a dos membres
+  de lliure designació que «no han de ser necessàriament de nacionalitat
+  andorrana».**
+
+  **Set membres fixos, tots de l'executiu, i fins a dos de lliure
+  designació.** **El mandat dura el dels càrrecs electes**, de manera que
+  **el regulador es renova amb el Govern.** **És el mateix patró que la
+  Comissió Tècnica Tributària** ([els altres impostos](../banca-i-fiscalitat/els-altres-impostos.md)):
+  **l'òrgan que decideix sobre el sector el componen els qui el governen.**
+
+  **El Servei d'Inspecció, en canvi, té el filtre de neteja més detallat que el
+  corpus ha llegit en cap llei andorrana** (article 57.5). **Els agents són
+  agents de l'autoritat**, els habilita el director general, i **no pot
+  ser-ho qui:**
+
+  | | |
+  | --- | --- |
+  | **a)** | Tingui antecedents penals per delictes dolosos, falsedat, infidelitat en la custòdia de documents, malbaratament de cabals públics, delictes contra el patrimoni o **blanqueig i finançament del terrorisme** |
+  | **b)** | **Hagi treballat en els darrers cinc anys** en una empresa de jocs d'atzar sota el perímetre del Consell, **o hi tingui interès personal directe o indirecte, per si, pel cònjuge, per la parella de fet o per un ascendent o descendent de primer grau** |
+  | **c)** | Hagi estat incapacitat judicialment |
+  | **d)** | Hagi estat inhabilitat per exercir càrrecs públics o d'administració |
+  | **e)** | **No tingui els coneixements idonis** |
+
+  **El conflicte d'interès s'estén a la família de primer grau i mira cinc anys
+  enrere.** **A l'inspector se li exigeix una distància del sector que al
+  regulador no se li demana.**
 - **Què hi havia abans d'aquesta llei** —quan i com es va autoritzar el joc a
   Andorra— és una història que el corpus encara no té. **Té el començament, des
   del 15-09-2026.** *La cuestión de Andorra* (1894), **pp. 24-25**, narra que **la
