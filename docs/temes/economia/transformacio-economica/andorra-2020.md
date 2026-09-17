@@ -144,11 +144,77 @@ I el judici sobre el salt que caldria:
 
 **«Fins i tot pot ser irreal», dit d'un pla de govern, en públic, el 2007.**
 
+## La llei que el pla demanava, i les dues que van caldre
+
+**El pla del 2007 demanava «una llei d'inversions estrangeres sense fiscalitat».
+El que va passar va ser una llei l'any següent, una segona quatre anys després
+perquè la primera no havia funcionat, i un impost setze anys després.**
+
+| Any | Norma | Què fa |
+| --- | --- | --- |
+| **2008** | **Llei 2/2008, del 8 d'abril**, d'inversions estrangeres | Obre **el 100% del capital estranger a algunes activitats**; manté l'autorització prèvia del Govern per a les dels **annexos I i II** |
+| 2008 | Llei 36/2008, del 18 de desembre | La modifica |
+| **2012** | **Llei 10/2012, del 21 de juny**, d'inversió estrangera | **Liberalització general.** Deroga la 2/2008, la 36/2008 i l'**Ordinació núm. 3 de Foment del 25 de juny de 1976** sobre autoritzacions comercials a estrangers |
+| 2018 | Decret legislatiu del 5-9-2018 | Text refós de la 10/2012 |
+| **2024** | **Llei 3/2024, de l'1 de febrer** | Crea l'**impost sobre la inversió estrangera immobiliària** |
+| 2025 | Decret 137/2025, del 9-4-2025 | Nou Reglament d'inversió estrangera |
+
+([evidència](../../../raw/lleis/bopa/llei-2-2008-inversions-estrangeres.txt),
+[evidència](../../../raw/lleis/bopa/llei-10-2012-inversio-estrangera.txt),
+[evidència](../../../raw/lleis/bopa/llei-3-2024-impost-inversio-estrangera-immobiliaria.txt)).
+
+**La llei del 2008 declara el seu propòsit en els termes del pla**: «augmentar
+significativament el vigent grau de liberalització d'aquestes inversions al
+Principat, **eliminant el requisit de l'autorització administrativa prèvia en un
+nombre més alt de casos**». Però la mateixa exposició de motius hi posa el límit:
+la liberalització val «únicament quan s'assoleixen percentatges **notablement
+superiors als vigents**», i els sectors dels dos annexos segueixen necessitant
+autorització del Govern.
+
+**I quatre anys després, la llei següent escriu el balanç de l'anterior.** És la
+frase que tanca aquest buit:
+
+> «la Llei 2/2008 […] va comportar l'obertura del 100 per cent d'algunes
+> activitats al capital estranger. Tanmateix, **quatre anys després del camí
+> encetat per aquella reforma** que pretenia atreure empreses d'activitats
+> essencialment no presents a Andorra, **s'ha constatat que les mesures
+> impulsades no han estat suficients per assolir els objectius que s'havien
+> previst**.»
+
+**El legislador del 2012 diu que la llei del 2007-2008 no va funcionar.** I ho
+diu «en un context de crisi en què **la majoria dels indicadors econòmics del
+Principat presenten encara una tendència a la baixa**» —cinc anys després d'un
+pla que es proposava **doblar el PIB**.
+
+**El «sense fiscalitat» del pla és exactament el que no va passar.** La llei del
+2012 presenta la liberalització com el complement d'una fiscalitat que ja
+existia: ve «després de la **recent aplicació d'una fiscalitat directa sobre les
+societats i les activitats econòmiques**». I el 2024 s'hi afegeix un impost
+específic i **progressiu per nombre d'immobles**:
+
+| Inversió immobiliària estrangera | Tipus |
+| --- | --- |
+| El primer habitatge (o una parcel·la), amb fins a dos trasters i dues places | **3%** |
+| Del segon al cinquè | **5%** |
+| Del sisè al novè | **8%** |
+| A partir d'aquí, més d'una parcel·la, o **promoció urbanística o immobiliària** | **10%** |
+
+Amb una **bonificació** si l'immoble va al **lloguer de residència habitual i
+permanent durant deu anys com a mínim**, i clàusules antiabús.
+
+**El recorregut sencer, en una frase**: es demanava obrir el país a la inversió
+estrangera sense impostos; s'ha obert del tot i s'hi ha posat un impost que
+arriba al 10% i que penalitza acumular pisos.
+
 ## Buits registrats
 
 1. **El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
    per aquesta crítica.
-2. **La llei d'inversions estrangeres** que el pla preveia i què se'n va fer.
+2. ~~**La llei d'inversions estrangeres** que el pla preveia i què se'n va fer.~~
+   `resolt` el 17-09-2026 — vegeu
+   [La llei que el pla demanava, i les dues que van caldre](#la-llei-que-el-pla-demanava-i-les-dues-que-van-caldre).
+   `Segueix obert si el pla i la llei del 2008 estaven relacionats de fet: la llei
+   no cita el pla Andorra 2020 enlloc.`
 3. ~~**El sometent andorrà**: fitxa pendent.~~ **TANCAT.** Queda obert **quan
    deixa de ser policial i passa a protecció civil**: entre l'atestació de
    Brutails (1904) i la llei del 2022 hi ha una història sense documentar.
