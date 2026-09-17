@@ -168,11 +168,82 @@ es transmet mirant no deixa document.**
 abans que es negociés
 [l'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md).
 
+## La norma, i la frase que la buida
+
+**Hi ha hagut quatre reglaments i la reacreditació hi és des del primer.**
+
+| Data | Norma | Què hi passa |
+| --- | --- | --- |
+| **28-12-1989** | Reglament del personal mèdic, aprovat pel Consell Directiu del SAAS | La norma que hi havia abans; **derogada el 2016** |
+| **12-7-2000** (BOPA 18-7-2000) | **Reglament d'estructura i funcionament del CHA** | Hi apareix la **reacreditació**; en vigor **quinze dies** després de la publicació |
+| **4-1-2001** (BOPA 4-1-2001) | Reglament **general** d'estructura i funcionament del CHA | El substitueix **sis mesos després**; manté la reacreditació |
+| 5-6-2013 i 6-11-2013 | Reglaments de modificació | |
+| **14-12-2016** (BOPA 21-12-2016) | Reglament d'estructura i funcionament del CHA | Deroga el del 2001, els dos del 2013 i el del 1989. **La paraula «acreditació» desapareix del text** |
+| 3-5-2017 i 14-5-2019 | Decrets de modificació | El del 2019 suprimeix la Junta de Representants |
+
+([evidència](../../../raw/lleis/bopa/reglament-cha-2000.txt),
+[evidència](../../../raw/lleis/bopa/reglament-general-cha-2001.txt),
+[evidència](../../../raw/lleis/bopa/reglament-cha-2016.txt),
+[evidència](../../../raw/lleis/bopa/decret-2019-mod-reglament-cha.txt)).
+
+**La regla del 2000, literal:**
+
+> «Després dels **65 anys**, qualsevol facultatiu que desitgi continuar exercint a
+> l'Hospital ha de **sol·licitar anualment la seva reacreditació**, i la Comissió
+> d'Acreditació ha de verificar que **no s'aprecia cap disminució significativa en
+> la qualitat dels actes mèdics** del sol·licitant ni en les seves capacitats.
+> Inversament, la Comissió d'Acreditació pot proposar a la Direcció Mèdica la
+> **pèrdua de l'acreditació d'un facultatiu abans dels 65 anys**, si es fa evident
+> una disminució de les seves facultats professionals.»
+
+**I la frase que la buida, a la disposició transitòria primera del mateix
+reglament:**
+
+> «Per als facultatius **que ja estiguin acreditats** a l'entrada en vigor
+> d'aquest Reglament, la reacreditació periòdica ha de ser **opcional i
+> voluntària**.»
+
+**La reacreditació va néixer obligatòria per als que vinguessin i voluntària per
+als que ja hi eren.** Al cos mèdic existent el 2000 —el que la crítica de la font
+tenia al davant— la norma no se li aplicava si no ho demanava ell.
+
+**El calendari també hi diu alguna cosa.** El reglament del 12 de juliol del 2000
+va durar **menys de sis mesos**: el 4 de gener del 2001 se'n publica un de
+«general» que el substitueix. Entre l'un i l'altre, la reacreditació sobreviu
+intacta; el que canvia és que rellevar algú de guàrdies a partir dels 60 anys
+passa a exigir **escoltar la Comissió d'Acreditació**.
+
+**El 2016 la paraula canvia i l'òrgan també.** Al reglament vigent, «acreditació»
+**no surt ni una sola vegada**. Al seu lloc hi ha la **recertificació** i un
+**Comitè de Recertificació** (article 30), que actua en **dos supòsits**: quan el
+cap de servei demana l'avaluació d'un facultatiu, i quan el facultatiu que arriba
+als **65 anys** vol continuar-hi. El comitè el presideix el director assistencial
+i el formen dos membres del Consell de Metges, dos de la Junta Facultativa i el
+cap de Recursos Humans amb veu i sense vot; **el cap de servei del facultatiu
+avaluat n'està exclòs**, i cal un mínim de **tres anys d'exercici al centre** per
+ser-ne membre. Les conclusions van a la Direcció General, l'interessat pot
+al·legar, i la Direcció General resol.
+
+**Tres diferències que compten respecte del 2000:**
+
+1. **La sol·licitud anual desapareix.** El 2000 calia demanar la reacreditació
+   **cada any** després dels 65. El 2016 és **un procés únic** en arribar-hi, i si
+   se supera, «el facultatiu i el Servei Andorrà d'Atenció Sanitària **poden
+   atorgar una pròrroga al seu contracte**».
+2. **La via del cap de servei és nova.** El 2000, qui podia obrir un expedient
+   abans dels 65 era la pròpia Comissió d'Acreditació. El 2016 ho pot demanar el
+   **cap de servei**.
+3. **Ja no hi ha transitòria de voluntarietat.** La frase que buidava la norma no
+   es repeteix.
+
 ## Buits registrats
 
-- **El Reglament d'estructura i funcionament del centre hospitalari andorrà**:
+- ~~**El Reglament d'estructura i funcionament del centre hospitalari andorrà**:
   data exacta, text, i **si la reacreditació es va arribar a aplicar**. **Buit
-  prioritari.**
+  prioritari.**~~ `resolt` el 17-09-2026 — vegeu
+  [La norma, i la frase que la buida](#la-norma-i-la-frase-que-la-buida).
+  `Segueix obert si el Comitè de Recertificació ha avaluat mai ningú: cap
+  resolució no és al BOPA.`
 - **L'ACMA**: quan es funda exactament, quants membres, si existeix encara.
 - **Es va signar el conveni amb la Fundació Les Heures?**
 - **El conveni SAC–Universitat d'Andorra de maig del 2000.**
