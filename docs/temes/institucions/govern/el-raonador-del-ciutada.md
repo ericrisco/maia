@@ -227,3 +227,12 @@ Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13)
   institucional específica»—. **No controla la legalitat de l'actuació
   administrativa, que ja té control jurisdiccional (art. 72.3): vetlla per la
   seva eficàcia.** **Neix com a institució complementària, no com a contrapès.**
+
+  > **Una precisió afegida el mateix dia, i és una divergència.** Les [actes
+  > històriques del Consell General](../../../fonts/actes-historiques-consell-general.md)
+  > donen **setanta-tres ocurrències** de *rahonador* entre **1614 i 1802**, i
+  > **el que hi fan no és el que la llei del 1998 diu**: **el Consell General en
+  > nomena dos, consellers en actiu, per a unes Corts concretes**, i **hi
+  > representen la Terra**, no els acusats. **La Terra els defensa a càrrec seu
+  > si algú els demanda per aquell ofici.** **El corpus registra la divergència
+  > i no l'arbitra**: vegeu [el dret supletori](../justicia/el-dret-supletori.md).

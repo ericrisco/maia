@@ -269,8 +269,56 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
    una analogia de caràcter —mediar, no decidir—, no per continuïtat de
    funció.** **Els dos extrems del fil es toquen aquí i no abans.**
 
-   `El que segueix obert és la memòria dels rahonadors del 1877 mateixa, que
-   Brutails cita i que és anterior al BOPA.`
+   **I el 17-09-2026, poques hores després, el fil es tanca del tot per
+   l'altre cap.** Les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), baixades el
+   mateix dia, **contenen l'ofici en funcionament**: **setanta-tres
+   ocurrències** d'*arrahonador*, *anrahonador* i *rahonador* als quatre
+   llibres d'actes.
+
+   **La més antiga és del 1614**, i ja el dona per antic:
+
+   > «arreste lo Consell que la Terra pendrà **la defensa de Nicolau Torres**
+   > per lo que li demanen **com arrahonador que ere en dies passats en altres
+   > Corts**» *(Llibre I, 1614)*
+
+   **I la fórmula de nomenament és sempre la mateixa durant dos-cents cinquanta
+   anys:**
+
+   > «Dit dia **trobe la Terra per rahonador** Nicolau Torres i Pere
+   > Pontsernalt» *(1622)*
+   >
+   > «areste lo Consell i **pose per rahonadors a les Corts**, la primera
+   > setmana [...] a Gabriel Moles i Nicolau Torres, **segona setmana** a Joan
+   > Colat i Pere Torres, **la tersera setmana** [...] i **si dit Areny no i pot
+   > ser, los rahonadors hixiran n'i posen altre a son lloch**» *(1651)*
+   >
+   > «lo Il·lustre Consell **anomena per anrahonadors de las presents Corts** a
+   > Miquel Puitg, conseller de la parròquia de Andorra, y a Bonaventura Riba»
+   > *(1802)*
+
+   **Ara es pot dir què eren, i no és ben bé el que la llei del 1998 suposava.**
+
+   | | |
+   | --- | --- |
+   | **Qui els nomena** | **El Consell General**, no cap tribunal ni cap part |
+   | **Qui són** | **Consellers generals en actiu**, normalment **dos**, **d'una parròquia cadascun** |
+   | **Per a què** | **Per a unes Corts concretes**, i sovint **setmana per setmana**, amb **substitut previst** si un no hi pot ser |
+   | **Què hi fan** | Hi **raonen** —d'aquí el nom—: presten jurament davant el veguer «per a fer sa del·liberatió de Corts» |
+   | **Quina protecció tenen** | **La Terra els defensa a càrrec seu** si algú els demanda pel que van fer com a rahonadors (1614) |
+
+   **No eren advocats d'ofici dels acusats: eren els representants de la Terra a
+   les Corts**, nomenats pel Consell i protegits per ell. **La llei del 1998
+   diu que el nom «entronca amb les seves funcions, que no són decisòries, sinó
+   purament mediadores»**, i **això sí que quadra**: **el rahonador històric
+   raonava i no decidia.** **El que no quadra és «defensaven d'ofici en nom del
+   poble els acusats»** —**les actes els mostren defensant la Terra, no els
+   acusats.**
+
+   **El corpus registra la discrepància i no l'arbitra**: **pot ser que
+   l'exposició de motius del 1998 simplifiqués, o que l'ofici canviés de
+   contingut entre el 1802 i el 1877.** `Requereix la memòria dels rahonadors
+   del 1877, que Brutails cita i que és anterior al BOPA.`
 5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
    mostra que **no esmenta el costum** fora de l'article 84. **Però una llei del
    2021 sí:** la del notariat diu que els notaris donen fe «amb subjecció a les
