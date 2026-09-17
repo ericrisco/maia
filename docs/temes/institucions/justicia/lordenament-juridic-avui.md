@@ -308,10 +308,32 @@ estrangers no residents que participin en actes que pertorbin l'ordre públic**
 **separades per un mínim de vint-i-quatre hores** i **d'acord amb la capacitat
 econòmica** de qui la rep (article 24). **Es poden encadenar.**
 
-`Requereix la Sentència del Tribunal Constitucional del 19-4-2021 (recurs
-directe d'inconstitucionalitat 2021-2-L)`, **que el corpus ja té baixada**
-(`tc-2021-2-L-inconstitucionalitat.txt`) **i encara no ha llegit**: **és
-l'única impugnació constitucional que apareix associada a aquesta llei.**
+**La sentència del 19-4-2021 (causa 2021-2-L), llegida el mateix dia, no era
+contra aquesta llei**: era **contra la Llei 19/2020**, de mesures obligatòries
+de salut pública, que modifica la de seguretat pública i la Llei general de
+sanitat del 1989. **La via de l'estat d'alarma i la de la llei sanitària
+ordinària són dues, i el conflicte del 2020-21 va anar per la segona.** **El
+Tribunal la va desestimar sense entrar en el fons, per manca de legitimació
+activa**, i **d'aquella desestimació en surt la doctrina més citable que el
+corpus té d'aquest Tribunal**:
+[el Tribunal Constitucional](./el-tribunal-constitucional.md).
+
+**I la pregunta que segueix —s'ha declarat mai?— té resposta, i és no.**
+**Escombrant el Butlletí, «estat d'alarma» només apareix en onze documents**, i
+**cap no és un decret de declaració**: **hi és la llei mateixa, la reforma del
+Reglament del Consell General del mateix dia, la sentència del 2021, la llei de
+protecció civil del 2022, el Reglament del Consell General del 2026, la
+Constitució i tres convenis de drets humans.**
+
+**Ni tan sols durant la pandèmia.** **Els dos decrets de mesures excepcionals
+del 17 i el 18 de març del 2020 són anteriors a la llei** —del 23— i **es
+declaren fets «per la situació d'emergència sanitària»**, **no per un estat
+d'alarma.** **Andorra va governar la covid amb la llei sanitària i la de
+seguretat pública**, i **la impugnació constitucional del 2021 va contra
+aquella via, no contra aquesta.**
+
+**El país es va dotar de l'instrument enmig de la crisi i no l'ha fet servir
+mai.** **El corpus ho registra com a negatiu comprovat, no com a ignorància.**
 
 ### Què és, exactament, la que falta
 

@@ -43,6 +43,47 @@ causes de nul·litat civil (article 90). **La nul·litat la governa el dret
 canònic; tota la resta, la llei de l'Estat.** Un matrimoni canònic andorrà **es
 divorcia civilment**.
 
+## Per què l'article 77 diu «forma» i no «casament»
+
+**Afegit el 17-09-2026 des del [BOPA](../../../fonts/bopa.md).** **El text que
+es cita més amunt és el que va quedar després d'una sentència del Tribunal
+Constitucional**, i **el corpus el llegia sense saber-ho.**
+
+**La Llei 30/2022, tal com es va aprovar, no deia «forma civil» i «forma
+canònica»**: deia **«casament civil»** i **«matrimoni canònic»** —**dos noms
+diferents per a dues unions amb exactament els mateixos efectes.** **Set
+consellers generals la van impugnar** i **la sentència del 20 de desembre del
+2022 (causa 2022-1-L) els va donar la raó en aquest punt**
+(`docs/raw/lleis/bopa/tc-2022-1-L-inconstitucionalitat.txt`).
+
+**L'argument del Tribunal és d'una simplicitat que es pot retenir sencera:**
+
+> «L'adjectiu "**canònic**" implica, per definició, necessàriament i solament
+> les unions entre els contraents catòlics […] **aquesta diferència serà pública
+> i visible, atès que el Registre Civil indicarà** si la unió s'ha realitzat en
+> forma de "casament civil" o de "matrimoni canònic" **i posarà en evidència les
+> creences religioses dels cònjuges**.»
+
+> «Per consegüent, l'article 77 […] **ha establert una discriminació pública per
+> raó de conviccions religioses contrària als articles 6, 11 i 14 de la
+> Constitució**.»
+
+**El que es va declarar nul no és la doble forma de matrimoni: és el doble
+nom.** **El Tribunal diu expressament que el legislador pot reconèixer dues
+formes** i **que pot donar efectes civils immediats a la canònica, conformement
+amb l'Acord amb la Santa Seu.** **El que no pot és que el Registre Civil
+publiqui, amb la paraula que tria, quina és la religió de qui s'hi casa.**
+
+**Van caure l'article 77 i la disposició transitòria quarta**; **la resta
+d'articles impugnats —90, 91, 92 i 245— es van declarar conformes.**
+
+**I hi ha un detall de llengua que és el nervi del cas.** **La llei del
+matrimoni del 30 de juny de 1995 deia «matrimoni civil».** **La del 2022 ho va
+canviar a «casament civil»**, i **la síndica general ho va defensar com «un
+simple canvi tècnic».** **El Tribunal no ho va veure així**: **el mot que
+l'Estat tria per anomenar una unió no és tècnica, és publicitat d'una
+creença.**
+
 ## Qui es pot casar
 
 > «El matrimoni contret en forma civil té els **mateixos requisits i efectes**

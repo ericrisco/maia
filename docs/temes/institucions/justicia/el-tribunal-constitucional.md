@@ -104,7 +104,81 @@ exclusiva permanent, hi ha retribució per activitat.
   llegit**.~~ **Tancat**: vegeu [el recurs d'empara](./el-recurs-dempara.md).
   El que en va sortir i no s'esperava: **l'empara exclou pel seu nom el dret de
   l'article 22 de la Constitució**, el de qui pot ser expulsat del país.
-- **Quantes sentències ha dictat** i sobre què, no consta.
+- ~~**Quantes sentències ha dictat** i sobre què, no consta.~~ — **`parcial` el
+  17-09-2026**, i **per a una via sencera**: **el recurs directe
+  d'inconstitucionalitat**. **El propi Tribunal en fa el recompte** dins la
+  sentència del **19 d'abril del 2021** (causa 2021-2-L), on diu haver examinat
+  **tots** els recursos directes interposats des de l'entrada en vigor de la
+  Constitució:
+
+  > «Són **tretze** (les causes **1993-1-L, 1994-1-L, 1997-1-L, 1997-2-L,
+  > 1999-1-L, 2000-1-L, 2001-1-L, 2002-1-L, 2002-2-L, 2017-1-L, 2017-2-L,
+  > 2019-1-L i 2019-2-L**) i n'hi ha dos […] **pendents de resolució** (les
+  > causes **2021-1-L i 2021-2-L**).»
+
+  **Escombrant el [BOPA](../../../fonts/bopa.md) fins avui n'hi surt un de més i
+  cap altre**: **la causa 2022-1-L**, resolta el **20 de desembre del 2022**.
+  **Setze recursos directes d'inconstitucionalitat en trenta-tres anys de
+  Constitució**, i **cap des del 2022**.
+
+  **La forma de la sèrie diu alguna cosa**: **nou recursos entre el 1993 i el
+  2002**, **cap entre el 2003 i el 2016** —**catorze anys sense**— i **set del
+  2017 ençà.** `Requereix les altres dues vies —el procés incidental i
+  l'empara—, que no s'han comptat, i la matèria de cada causa, que només es té
+  per a tres.`
+
+- **Afegit el 17-09-2026: qui pot recórrer no és només una qüestió de
+  nombre.** **La sentència 2021-2-L és la peça doctrinal més forta que el
+  corpus té d'aquest Tribunal**, i **tanca un buit que no estava escrit.**
+
+  **El cas**: **sis consellers generals** —la cinquena part exacta de
+  vint-i-vuit, que és el que demana l'article 99 de la Constitució— impugnen la
+  **Llei 19/2020**, de mesures obligatòries de salut pública. **Però dos
+  d'aquells sis havien votat a favor de la llei.**
+
+  **El Tribunal desestima el recurs sense entrar en el fons**, i ho fa amb una
+  lectura finalista:
+
+  > «El sistema jurídic andorrà **no admet allò que s'anomena "impugnació de
+  > complaença"**, que és allò que s'ha pretès en aquest cas mitjançant **la
+  > cessió o el préstec de dos consellers generals** per assolir el quòrum.»
+
+  **La regla que en surt**: **els consellers que voten a favor d'una llei no
+  poden impugnar-la després.** **El quòrum d'una cinquena part s'ha de completar
+  amb consellers que no l'hagin votada.** **Si es votés per unanimitat, la llei
+  seria irrecurrible per aquesta via** —**i el Tribunal ho diu obertament**,
+  remetent el remei al procés incidental i a l'empara.
+
+  **El raonament és una petita lliçó de com decideix aquest Tribunal**, perquè
+  hi apila fonts de tres mons:
+
+  | Font invocada | Per a què |
+  | --- | --- |
+  | **El Manual Digest**, llibre 3, capítol 5 | **la regla del *gravamen***: no recorre qui no pateix perjudici |
+  | **Ulpià**, Digest 1.7.25 | **la doctrina dels actes propis** |
+  | *Volenti non fit iniuria*, *fraus legis*, *détournement de pouvoir* | qualificar la maniobra |
+  | **Sentència del Jutge Delegat d'Apel·lacions del 30 d'octubre de 1951** | que la interpretació finalista és andorrana «des de temps immemorials» |
+
+  **Un tribunal constitucional del segle XXI cita el Manual Digest com a dret
+  andorrà viu**, al costat del dret romà i del francès
+  ([el Manual Digest](../../historia/manual-digest/manual-digest.md)).
+
+  **I hi ha una frase que val com a definició del que és aquesta institució:**
+
+  > «El Tribunal Constitucional d'Andorra **no és un Consell, ni Constitucional,
+  > ni Consultiu, ni de Garanties**, sinó que **és un autèntic Tribunal**.»
+
+  **El corpus la reté perquè respon a una confusió freqüent**: **aquí no es
+  demanen dictàmens, es guanyen o es perden processos.**
+
+- **I una llei sí que ha caigut, en part — 17-09-2026.** **La sentència del 20
+  de desembre del 2022 (causa 2022-1-L) estima parcialment el recurs de set
+  consellers generals contra la Llei 30/2022, qualificada de la persona i de la
+  família**, i **declara nuls i sense efecte l'article 77 i la disposició
+  transitòria quarta** per vulnerar els **articles 6, 11 i 14 de la
+  Constitució**. **La matèria és el nom del matrimoni**, i és a
+  [casar-se a Andorra](../../societat/familia/casar-se-a-andorra.md).
+  **La resta de disposicions impugnades es declaren conformes.**
 - **Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
   [l'ordenament jurídic avui](lordenament-juridic-avui.md) deixava oberta
   precisament la pregunta de què passa quan un copríncep no sanciona.
