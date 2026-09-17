@@ -109,6 +109,52 @@ folklore, és una categoria aranzelària vigent.
 - **Reorganització empresarial** (17/2017): règim fiscal per a fusions,
   escissions i aportacions, que l'IRPF cita a les seves exempcions.
 
+## L'impost dels que no viuen aquí
+
+**L'IRNR grava la renda obtinguda a Andorra per qui no hi és resident fiscal**,
+persona física o jurídica (article 1 de la **Llei 94/2010**, 51 articles,
+`docs/raw/lleis/irnr.txt`). El **fet generador** és obtenir renda, **dinerària o
+en espècie**, al territori, i hi ha una presumpció que decideix molts casos:
+**«es presumeixen retribuïdes, llevat de prova en contrari, les prestacions o
+cessions de béns, drets i serveis»** susceptibles de generar renda subjecta
+(article 8.2).
+
+**Què és «renda obtinguda a Andorra» té una definició ampla i una excepció
+estreta.** Ho és tot el que ve d'activitats fetes al territori, de béns situats
+aquí o de drets exercitables aquí; **i, en particular, tot el que paga una
+persona jurídica resident o un empresari o professional resident**, **excepte si
+correspon a drets o prestacions contractades, realitzades i utilitzades fora del
+territori** (article 9). **Les tres condicions són cumulatives**: n'hi ha prou que
+una es compleixi a Andorra perquè la renda hi tributi.
+
+**El tipus general és el 10%, i la resta de l'escala parla d'immobles.**
+
+| Renda | Tipus |
+| --- | --- |
+| **General** | **10%** |
+| **Reassegurança** | **1,5%** |
+| **Cànons** | **5%** |
+| **Transmissió d'immoble abans de 2 anys** | **25%** |
+| **Transmissió d'immoble entre 2 i 5 anys** | **20%** |
+| **Transmissió d'immoble entre 5 i 10 anys** | **15%** |
+
+**L'escala immobiliària és la mateixa lògica de
+[l'impost contra l'especulació](./limpost-contra-lespeculacio.md) aplicada a qui
+no viu aquí**: com més aviat es revèn, més es paga. **I a partir dels deu anys
+l'escala s'acaba**: hi torna a jugar el tipus general.
+
+**Les exempcions són on hi ha la política fiscal.** Estan exemptes **totes les
+rendes del capital mobiliari** (lletra b); **els guanys per transmetre accions o
+participacions en entitats residents, sempre que el titular no hagi tingut més
+del 25% del capital o dels drets de vot els dotze mesos anteriors**; **els guanys
+per transmetre participacions en organismes d'inversió col·lectiva de dret
+andorrà**; **els premis dels jocs d'atzar**; **els rendiments de serveis
+d'inversió i de pagament prestats a entitats del sistema financer andorrà**; i,
+per a les persones físiques, **les indemnitzacions per danys personals**, **les
+compensacions obligatòries per acomiadament**, **les beques d'estudis reglats** i
+**els guanys que es posin de manifest per una transmissió lucrativa
+*mortis causa***.
+
 ## Buits registrats
 
 - ~~**La Llei de bases de l'ordenament tributari** (159 articles) és **la norma
@@ -168,7 +214,11 @@ folklore, és una categoria aranzelària vigent.
   dada d'execució que la llei no dona.`
 - **Els tipus de l'alcohol i dels hidrocarburs** no s'han extret; ni **quant val
   l'element de CO₂**.
-- **L'IRNR** només s'ha identificat, no llegit.
+- ~~**L'IRNR** només s'ha identificat, no llegit.~~ — **`resolt` el 17-09-2026** a
+  «[L'impost dels que no viuen aquí](#limpost-dels-que-no-viuen-aqui)»
+  (`docs/raw/lleis/irnr.txt`, **Llei 94/2010**, 51 articles). `Queden els
+  capítols de retencions i ingressos a compte —articles 34 a 36— i el règim
+  sancionador propi —37 a 41—.`
 - ~~**Les finances comunals** (115 articles): com pressuposten i gasten els comuns
   els diners que reben ([els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md))
   **queda per llegir**.~~ — **`resolt` el 17-09-2026**
