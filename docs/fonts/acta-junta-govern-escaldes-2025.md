@@ -73,6 +73,30 @@ un segle o de fa trenta anys.
 2. **L'Ordinació del 20-3-2025 d'ajut per al foment i suport del petit comerç**,
    i el seu **annex 1**, que és el que decideix qui cobra i qui no. El corpus en
    té els efectes i no en té el text.
+
+   **`resolt` el 17-09-2026 des del [BOPA](./bopa.md)**, butlletí **34 del
+   2025** (`docs/raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt`).
+   **Les ordinacions comunals es publiquen al Butlletí i no calia demanar-les al
+   Comú.**
+
+   **L'annex 1, que és el que decideix qui cobra i qui no, posa tres
+   condicions:**
+
+   | | |
+   | --- | --- |
+   | **Antiguitat** | **Haver estat autoritzat a exercir l'activitat abans o durant l'any 2022** |
+   | **Sostre d'ingressos** | **Menys de 150.000 €** el 2024 si l'activitat és empresarial o professional, **menys de 300.000 €** si és **estrictament comercial** |
+   | **Estat fiscal** | Estar al corrent de les obligacions tributàries **i no tenir deutes amb el Comú** |
+
+   **L'ajut és una bonificació del 25% de la quota tributària** (art. 3), i **el
+   termini de sol·licitud acabava el 31 de juliol del 2025.**
+
+   **La condició d'antiguitat és la que més selecciona**: **un comerç obert el
+   2023 o el 2024 no hi entra.** **L'ajut al petit comerç exclou el comerç nou.**
+
+   **I el sostre doble diu una cosa que el corpus no tenia**: **el Comú
+   distingeix «activitat empresarial o professional» de «activitat estrictament
+   comercial» i dona a la segona el doble de marge.**
 3. **Les altres actes.** Aquesta és la número 18 de l'any: **n'hi ha disset
    abans i les que vinguin després**, i el corpus no en té cap.
 4. **Els altres sis comuns.** Res del que hi ha aquí no és extrapolable sense

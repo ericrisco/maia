@@ -220,6 +220,30 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
 
 1. **L'Ordinació del 20-3-2025** i el seu **annex 1**. **Prioritari**: és la
    norma que decideix qui cobra l'ajut, i el corpus només en veu els efectes.
+
+   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí **34 del
+   2025** (`docs/raw/societat/bopa/ordinacio-2025-petit-comerc-escaldes.txt`).
+   **Les ordinacions comunals es publiquen al Butlletí i no calia demanar-les al
+   Comú.**
+
+   **L'annex 1, que és el que decideix qui cobra i qui no, posa tres
+   condicions:**
+
+   | | |
+   | --- | --- |
+   | **Antiguitat** | **Haver estat autoritzat a exercir l'activitat abans o durant l'any 2022** |
+   | **Sostre d'ingressos** | **Menys de 150.000 €** el 2024 si l'activitat és empresarial o professional, **menys de 300.000 €** si és **estrictament comercial** |
+   | **Estat fiscal** | Estar al corrent de les obligacions tributàries **i no tenir deutes amb el Comú** |
+
+   **L'ajut és una bonificació del 25% de la quota tributària** (art. 3), i **el
+   termini de sol·licitud acabava el 31 de juliol del 2025.**
+
+   **La condició d'antiguitat és la que més selecciona**: **un comerç obert el
+   2023 o el 2024 no hi entra.** **L'ajut al petit comerç exclou el comerç nou.**
+
+   **I el sostre doble diu una cosa que el corpus no tenia**: **el Comú
+   distingeix «activitat empresarial o professional» de «activitat estrictament
+   comercial» i dona a la segona el doble de marge.**
 2. **Les altres actes.** Aquesta és la **núm. 18** de l'any; n'hi ha **disset
    abans** i les posteriors. Amb dues o tres més es podria dir si el repartiment
    de 69/79 acords a Finances és **l'estructura** o **una casualitat d'aquell
