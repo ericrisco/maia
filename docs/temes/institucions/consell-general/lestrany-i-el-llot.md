@@ -82,6 +82,51 @@ comerciants forasters a Sant Julià per fer-ne una font d'ingressos**.
 > 5 sous fan **0,665** pessetes i 6 diners en fan **0,0665**. **Brutails arrodoneix
 > a 0,67 i 0,06, i quadra.**
 
+### El 1686 hi ha un cas amb les dues xifres, i la tarifa es pot deduir
+
+**Afegit el 17-09-2026** des dels [llibres d'actes del Consell
+General](../../../fonts/actes-historiques-consell-general.md). **Al Consell de
+Sant Andreu del 25 de novembre de 1686** (Llibre III), el Consell mana als
+cònsols de Canillo que facin pagar **l'estrany dels ramats d'Armany que havien
+estat a Engaït i Montmalús**:
+
+> «sobre dels **estranis de Armany**, que an estat a Engaït y Momulós, **mil
+> sis-sentes quaranta-y-nou** que deuen lo estrany a esta Casa […] que li mànon
+> que pague dit estrany, que és **13 lliures, 14 sous, 10 dinés**»
+
+**Les dues xifres hi són juntes, i la divisió surt exacta:**
+
+| | |
+| --- | --- |
+| **Caps** | **1.649** |
+| **Deute** | **13 ll. 14 s. 10 d.** = **3.298 diners** |
+| **Per cap** | **2 diners, justos** |
+
+**No hi ha arrodoniment: 3.298 dividit per 1.649 fa dos.** **La tarifa de
+l'estrany sobre bestiar forà el 1686 era de dos diners per cap.**
+
+**I això posa una sèrie on el corpus tenia un punt**: **dos diners el 1686** i
+**sis diners el 1904** per ovella o cabra. **L'estrany es va triplicar en dos-cents
+divuit anys**, **i es cobrava per cap, no per ramat** —a diferència del dret de
+pas que Andorra pagava a l'Urgellet, que era **un parell de formatges per ramat
+tant si era petit com si era gros**
+([la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md)).
+**Andorra cobrava per cap i pagava per ramat.**
+
+**El mateix llibre I conserva també la tarifa de les persones**, que el corpus
+no tenia:
+
+> «Primo, vol la Tera que **pac tot home estrani** […] **I diner**, y **ab
+> quabalquadura III dinés**, y lo reo, si **porte paquet, II dinés**.»
+
+**Un diner l'home a peu, tres si va amb cavalcadura, dos si porta paquet.**
+
+> **Avís de lectura**: aquest darrer passatge prové d'una transcripció impresa a
+> dues columnes i **el bolcat a text n'intercala línies d'una columna veïna**.
+> **Les tres tarifes i l'estructura de la frase són llegibles**; **un mot
+> —«lo reo»— no s'ha pogut confirmar** i **els punts suspensius són de l'edició,
+> no del corpus.** `Requereix la pàgina impresa per fixar aquell mot.`
+
 ### I aquí hi ha la frase que val més de tota la secció
 
 Brutails explica la divisòria: **el bestiar andorrà paga quèstia, l'estranger
