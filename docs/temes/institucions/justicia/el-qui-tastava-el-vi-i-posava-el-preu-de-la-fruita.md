@@ -241,11 +241,56 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
    l'origen andalusí de l'ofici, i la font hi arriba per resum.**
    `Requereix font externa.`
 2. **Fins quan el mostafà va posar preus als aplecs**, **i si l'atribució
-   sobreviu en alguna norma comunal.** **El corpus no té res de posterior al
-   1904.**
-3. **Qui era el *veedor*** que es nomenava alhora que el mostafà i el capità.
-   **El corpus no el té com a càrrec i no sap si és el mateix que els *vehedors*
-   de les visures.**
+   sobreviu en alguna norma comunal.** ~~**El corpus no té res de posterior al
+   1904.**~~ — **`parcial` el 17-09-2026: ara en té del 1910, i el mostafà ja no
+   hi és.**
+
+   **Les ordinacions aprovades al Consell de Sancogesma del 9 de maig del 1910**
+   ([actes del Consell General](../../../fonts/actes-historiques-consell-general.md),
+   ANA FCV 9.485, fol. 206 v.-207 v.) **reparteixen les seves funcions entre els
+   comuns i el Consell, i no el nomenen ni un cop**:
+
+   > **V.** «Los honorables comuns cuidaran y vigilaran rigurosament […]
+   > **revisió de pesos, mesuras y medidas marcadas ab contrasenya de la Vall**,
+   > a fi de evitar **los fraus** y reclamacions que són motiu de queixa
+   > justificada.»
+   >
+   > **IX.** «Los honorables comuns **podran imposar**, si ho jutjen útil y
+   > necessari, **als venedors ambulants** de cualsevol clase que sian,
+   > **prudentas cuotas de pago** en calitat de dret o matrícula per la
+   > llibertat que disfrutan.»
+
+   **La verificació de pesos i mesures sobreviu; qui la fa, no.** **El 1910 la
+   fan els comuns, i la marca segueix sent «de la Vall».** **I el que el
+   mostafà feia als aplecs —posar preu al marxant forà— el 1910 ja no és un
+   preu màxim sinó una quota**: **de fixar què pot cobrar el venedor ambulant
+   s'ha passat a cobrar-li per deixar-lo vendre.**
+
+   `Requereix una norma comunal que encara el nomeni; les del 1910 no ho fan.`
+3. ~~**Qui era el *veedor*** que es nomenava alhora que el mostafà i el capità.
+   **El corpus no el té com a càrrec**~~ — **`resolt` el 17-09-2026, i el nom
+   sencer diu de què anava**: **és el *veador de les aigües*.** Font: **els
+   llibres d'actes del Consell**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   **Els nomenaments van sempre en parella, parròquia per parròquia, al Consell
+   de Sancogesma**, i s'escriuen tal com sonen:
+
+   > «Ancamp **mostasaf** Toni Torres i **veador de les aigües** Joan Pont.»
+   > «A Ordino **mostafàs** Guillem Areny, **veedor de aigües** Guillem Bons.»
+   > (Llibre I, 1529-1639.)
+
+   **Dos oficis, un acte, sis parròquies** —Canillo, Encamp, Ordino, la Massana,
+   Andorra i Sant Julià—, **i de vegades una sola persona per als dos**: «a
+   Canillo **mostafàs y vehedor** a Mora».
+
+   **El que el corpus tenia com un càrrec sense contingut és el guardià de
+   l'aigua**: **al costat del qui mesura el que es ven, el qui mira per on
+   passa el rec.** **Les dues coses que una parròquia de muntanya no es pot
+   permetre que vagin a la seva.**
+
+   `Requereix saber si és el mateix que els vehedors de les visures; això
+   segueix obert.`
 4. **Quan van desaparèixer els *pregoners***. **La font ho constata i no ho
    data.**
 5. **El reglament dels Veguers del 19 de maig de 1608** sobre les vendes de
