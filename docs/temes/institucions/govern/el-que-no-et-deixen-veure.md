@@ -106,6 +106,86 @@ Hi ha, a més, una obligació de rastre: les administracions han de crear un
 **registre de consultes** que inscrigui **les sol·licituds, les consultes
 efectuades i les denegades** (20.6). **Les negatives queden escrites.**
 
+## El govern obert, i el 10% que fa falta
+
+**El títol de govern obert (articles 29 a 35) promet molt i regula poc**: gairebé
+tot el que hi ha d'operatiu **queda remès a un reglament que la llei no escriu**.
+L'article 29.2 diu que «s'han d'establir **per reglament** les diferents formes de
+participació ciutadana», i l'article 31.2 repeteix la remissió per als
+procediments de participació en plans, programes i polítiques. **El títol és una
+declaració de principis amb un únic mecanisme concret.**
+
+**Aquest mecanisme és l'article 33, les iniciatives reglamentàries populars**, i
+la xifra és la que compta:
+
+> «3. Les propostes han de tenir el suport de, com a mínim **el 10% del cens
+> electoral**, per a les iniciatives que es presenten davant el Govern.»
+
+**Deu per cent del cens per demanar que el Govern es plantegi fer un reglament.**
+I «plantejar-se» és literal: l'òrgan competent valora «la necessitat de la norma,
+els costos que comportaria, l'oportunitat de la regulació per a l'interès públic i
+els efectes que produiria», i **resol en tres mesos**. Si no resol, **silenci
+administratiu desestimatori**, i llavors **ni tan sols cal motivar-ho**
+(article 33.5).
+
+**El recurs està tancat pel fons.** L'apartat 6:
+
+> «La decisió sobre la proposta només pot ser objecte de recurs fonamentat en la
+> **vulneració dels elements reglats** aplicables a l'exercici del dret, **però no
+> pel que fa a l'oportunitat de la decisió d'iniciar o no la tramitació** de la
+> iniciativa.»
+
+**Es pot recórrer com s'ha comptat el 10%; no es pot recórrer que el Govern hagi
+dit que no li sembla oportú.** El resultat és un dret a ser escoltat amb un
+llindar alt i sense recurs efectiu sobre el resultat.
+
+**Tres límits més, i un són les eleccions.** L'article 34 prohibeix convocar o
+celebrar processos de participació **entre la convocatòria d'eleccions generals i
+els seixanta dies posteriors a l'elecció del cap de Govern**, i mentre es tramita
+un referèndum sobre la mateixa matèria. I l'article 31.4 exclou del deure de
+participació el que es tramita **per urgència**, el que té per objecte la
+seguretat i la salut pública, i el que pot caure sota els límits d'accés a la
+informació de la mateixa llei.
+
+**El que aquest títol no toca**, i ho diu ell mateix a l'article 32.2: les
+competències dels comuns en participació ciutadana, **les iniciatives legislatives
+populars de la Constitució i del Reglament del Consell General**, i els
+referèndums de la Llei qualificada del règim electoral. **La iniciativa
+reglamentària popular no és la iniciativa legislativa popular**: aquesta demana un
+reglament al Govern, aquella demana una llei al Consell General
+([com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md)).
+
+**I una obligació amb data que val la pena registrar.** La disposició addicional
+segona donava al **Consell General i als comuns un any** des de l'entrada en
+vigor de la llei —és a dir, **fins al 28 de juny del 2023**— per dictar els
+**codis de conducta i bones pràctiques** sobre incompatibilitats i conflictes
+d'interessos dels consellers generals, dels cònsols i dels consellers de comú,
+**i determinar les conseqüències d'incomplir-los**.
+
+**Comprovat al [BOPA](../../../fonts/bopa.md) el 17-09-2026: n'hi ha cinc de
+vuit, i només un va arribar a temps.**
+
+| Qui | Codi publicat | Dins del termini (28-6-2023)? |
+| --- | --- | --- |
+| **Consell General** | Codi de conducta dels consellers generals, BOPA del **3-1-2023** | **Sí** |
+| **Encamp** | Ordinació del **28-7-2023** | No, **un mes tard** |
+| **Ordino** | Ordinació del **22-12-2023** | No, **sis mesos tard** |
+| **La Massana** | Ordinació del **28-12-2023** | No, **sis mesos tard** |
+| **Andorra la Vella** | Ordinació del **26-9-2024** | No, **quinze mesos tard** |
+| **Canillo** | — | **No consta** |
+| **Sant Julià de Lòria** | — | **No consta** |
+| **Escaldes-Engordany** | — | **No consta** |
+
+**Tres comuns de set no tenen codi de conducta publicat al Butlletí**, quatre
+anys després del termini. I **el Govern se'n va fer un que la llei no li
+demanava**: el **Codi de conducta dels membres del Govern i alts càrrecs, del 15
+de novembre del 2023**. La disposició addicional segona nomena el Consell General
+i els comuns; **l'executiu no hi és, i és l'únic que ha complert voluntàriament**.
+
+`El BOPA no acredita l'absència d'una ordinació, però sí la seva ineficàcia: una
+ordinació comunal no publicada al Butlletí no és oposable. Els tres que no hi
+consten, o no existeixen o no s'han publicat.`
+
 ## Buits registrats
 
 - **Quantes sol·licituds d'accés es deneguen** i per quina lletra de l'article
@@ -135,8 +215,13 @@ efectuades i les denegades** (20.6). **Les negatives queden escrites.**
   membres**. **Segueix obert**: cap resolució de la CNAAD ni cap memòria anual
   no s'ha localitzat, tot i que l'article 26.7 obliga a publicar-les al BOPA en
   quinze dies hàbils.
-- **El títol de govern obert i participació ciutadana** (articles 29-35), amb les
-  **iniciatives reglamentàries populars**, segueix **sense llegir**.
+- ~~**El títol de govern obert i participació ciutadana** (articles 29-35), amb
+  les **iniciatives reglamentàries populars**, segueix **sense llegir**.~~
+  `resolt` el 17-09-2026 — vegeu
+  [El govern obert, i el 10% que fa falta](#el-govern-obert-i-el-10-que-fa-falta).
+  `Segueix obert el reglament que l'article 29.2 encarrega —les formes de
+  participació ciutadana—, i si s'ha presentat mai cap iniciativa reglamentària
+  popular.`
 
 ## Related
 
