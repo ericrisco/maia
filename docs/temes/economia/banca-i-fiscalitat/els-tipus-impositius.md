@@ -196,6 +196,41 @@ l'OCDE considera **susceptibles de «generar un risc potencial d'erosió de les
 bases de tributació» i de permetre «la deslocalització artificial de
 beneficis»**. **És l'única de les sis que no decideix Andorra sola.**
 
+## Quant pesa tot plegat: 27,5% del PIB
+
+**El corpus no té la recaptació impost per impost, però sí la suma i la sèrie.**
+*Andorra en xifres 2024*, publicat pel Departament d'Estadística el **9 de
+desembre del 2025** (`docs/raw/estadistica-xifres/andorra-en-xifres-2024.txt`):
+
+| | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- |
+| **PIB nominal** (milions €) | 2.810,97 | 3.210,31 | 3.500,58 | **3.732,36** |
+| **PIB per càpita** (€) | 35.342 | 39.348 | 41.134 | **42.853** |
+| **Ingressos liquidats del Govern** (milions €) | 414,27 | 544,47 | 550,58 | **641,24** |
+| **Ingressos liquidats dels comuns** (milions €) | 157,86 | 187,56 | 210,77 | **219,98** |
+| **Pressió fiscal** (% del PIB) | 24,7 | 26,7 | 25,9 | **27,5** |
+| **Deute públic total** (% del PIB) | 48,6 | 38,9 | 35,4 | **32,9** |
+| **IPC** (%) | 3,3 | 7,1 | 4,6 | **2,6** |
+
+**El 27,5% del 2024 és un màxim històric**, i el document n'explica el mecanisme:
+**la recaptació impositiva va créixer un 13,4% i el PIB nominal un 6,6%**, de
+manera que la ràtio puja perquè el numerador corre més que el denominador. Hi
+atribueix dues causes: **la bona evolució econòmica** i **les figures tributàries
+noves, com l'impost sobre la inversió estrangera immobiliària**.
+
+**La comparació que el document fa servir per situar-ho.** La pressió fiscal
+europea el 2024 és del **40,4% de mitjana a la UE-27**: **Andorra n'està gairebé
+tretze punts per sota**, i el propi document en treu la conclusió —**«manté
+Andorra com un país tax friendly»**.
+
+**I el context llarg que dona la mateixa font**: la pressió fiscal puja de manera
+sostinguda **des del 2010**, lligada al desplegament de les figures directes, que
+**es completa el 2015 amb l'IRPF**. **Els tipus d'aquesta fitxa són baixos i el
+que recapten puja**: són dues coses compatibles, i la sèrie ho mostra.
+
+> Dades del Departament d'Estadística del Govern d'Andorra, *Andorra en xifres
+> 2024*, publicació del 09-12-2025. Tractament propi.
+
 ## Buits registrats
 
 - ~~**Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
@@ -210,7 +245,11 @@ beneficis»**. **És l'única de les sis que no decideix Andorra sola.**
 - **Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
   els d'aquesta fitxa són els de la instantània.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
-  es finança l'Estat.
+  es finança l'Estat. — **`parcial` el 17-09-2026**: **la suma sí que consta**, i
+  la sèrie també, a «[Quant pesa tot plegat: 27,5% del
+  PIB](#quant-pesa-tot-plegat-275-del-pib)». `El desglossament per figura no és a
+  «Andorra en xifres»: requereix la liquidació del pressupost del Govern o els
+  informes del Tribunal de Comptes.`
 - ~~**L'IRNR** (no-residents, 51 articles), les **bases de l'ordenament tributari**
   (159), els **impostos especials** i l'**impost sobre les estades turístiques**
   són al recull i **queden per llegir**.~~ — **`resolt` el 17-09-2026, els
