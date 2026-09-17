@@ -92,7 +92,40 @@ mateix dubte.**
 ## El que falta
 
 - **Quan es va fundar el COA**, i qui el presideix.
-- **El pressupost**, i com es reparteix entre federacions.
+- **El pressupost**, i com es reparteix entre federacions. — **`parcial` el
+  17-09-2026: el «com» es tanca, el «quant» no.** El **Decret 141/2023, del
+  29-3-2023**, aprova el **Reglament de subvencions i altres ajuts a l'esport**
+  ([BOPA](../../../fonts/bopa.md), butlletí 47 del 2023,
+  `docs/raw/esports/bopa/`), i **l'article 14 llista els vuit criteris**, dits
+  expressament **«sense prelació entre ells»**:
+
+  | | |
+  | --- | --- |
+  | **a** | **La vinculació de la disciplina amb la neu, la muntanya, el medi natural i les característiques geopolítiques del Principat** |
+  | **b** | La prioritat dins els plans nacionals de foment de l'esport |
+  | **c** | **Els resultats internacionals**, inclosa la participació als Jocs Olímpics i als **Jocs dels Petits Estats**, i el lloc a la classificació de la federació internacional |
+  | **d** | La incidència social, mediambiental i econòmica |
+  | **e** | El **Codi de bones pràctiques**, la transparència i **el funcionament democràtic de l'entitat** |
+  | **f** | El nombre d'esportistes federats i **l'ús que facin de les instal·lacions del Govern** |
+  | **g** | **La capacitat de generar recursos propis** |
+  | **h** | El nombre i la importància de les competicions organitzades |
+
+  **El criteri a) és el que val la pena subratllar**: **el primer criteri de
+  repartiment del diner públic esportiu andorrà és si l'esport té a veure amb la
+  neu i la muntanya.** **Està escrit a la norma, no és una inferència.**
+
+  **I el criteri g) diu una cosa incòmoda**: **com més capaç és una federació de
+  generar recursos propis, més pesa aquest fet** —el reglament no diu en quin
+  sentit—. **El corpus ho registra i no ho arbitra.**
+
+  **El paper del COA queda definit a l'article 3.2**: **el COA i les federacions
+  poden rebre els ajuts com a beneficiàries o com a col·laboradores**, i **en
+  aquest segon cas distribueixen els fons públics als altres beneficiaris
+  actuant per compte del Govern.** **El COA és, per norma, també una finestreta
+  de pagament.**
+
+  `Requereix els edictes d'adjudicació anuals per als imports; la convocatòria
+  els remet al pressupost de l'any i no els publica.`
 - **Les set federacions de les quals el corpus no té res.**
 - **Si el COA és el mateix òrgan que porta els Jocs dels Petits Estats.**
 
