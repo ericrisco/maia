@@ -253,8 +253,34 @@ enunciat:**
    territorial de les intimacions i dels testimonis.** **Prioritari per
    acumulació i ara també per contingut.**
 3. **L'afer de 1749-1753** davant del Consell Sobirà del Rosselló, **i l'acord
-   dictat «prop del rierol de la Palomera»**. **On és aquest rierol** i **quins
-   són els «privilegis dels habitants»** que exigien dictar dins del territori.
+   dictat «prop del rierol de la Palomera»**. ~~**On és aquest rierol**~~ i
+   **quins són els «privilegis dels habitants»** que exigien dictar dins del
+   territori. — **`parcial` el 17-09-2026: el rierol ja té situació, i és
+   exactament la que explica per què s'hi va dictar.** Font: el **Llibre IV
+   d'actes del Consell General**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   **Una acta del mateix segle situa la Palomera «a la ralla de la jurisdicció
+   de Andorra»** —**sobre la ratlla, el límit jurisdiccional**—, i **ho fa
+   precisament arran d'un dubte de competència**: el cirurgià d'Andorra **Pere
+   Capdevila** presenta una súplica perquè li han promogut una causa **«en lo
+   riu de la Palomera, a la ralla de la jurisdicció de Andorra»**, i **el
+   Consell ho encomana als síndics per veure «si contravé dita promulgació
+   contra los privilegis, usos»** de les Valls.
+
+   **Dues vegades, doncs, el mateix rierol i el mateix problema**: **actuar
+   just a la ratlla obliga a preguntar-se de quina banda s'és.** **L'acord del
+   Jutge del 1749-1753 es va dictar allà per estar dins del territori**, i **la
+   súplica del cirurgià es presenta perquè potser s'hi va actuar des de fora.**
+
+   **I una segona ocurrència en dona el veïnatge geogràfic**: una resolució
+   posterior parla dels estranys de la muntanya **«entre la Palomera y Riu de
+   Rech»**, que és **el tram de pastures pel qual els comuns de Canillo i
+   Encamp van obtenir vint-i-vuit anys d'exempció.** **La Palomera és, doncs,
+   un punt del límit oriental, en terreny de pastura.**
+
+   `Requereix encara quins són els «privilegis dels habitants» que exigien
+   dictar dins del territori.`
 4. **El cas de les dues parts apel·lant cadascuna a un copríncep** cap al 1749, i
    **el desistiment de 1753.**
 5. **Quin jutge d'apel·lacions va rebutjar una demanda per no ser «en forma»** cap
