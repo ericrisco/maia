@@ -159,6 +159,41 @@ com a base legal. **La norma queda a la cua del seu propi rastre.**
 molt més gran del que la pregunta fa esperar, la norma hi és i està tapada.**
 **No s'ha de concloure que no hi és.**
 
+## La data que dona l'API no és la data del butlletí
+
+**Mesurat el 17-09-2026 amb nou comprovacions dels anys noranta, nou de nou.** El
+camp `dataPublicacioButlleti` que retorna l'API **va sempre un dia abans** de la
+data amb què el butlletí consta a l'índex legislatiu oficial del Govern:
+
+| Norma | API | Índex oficial |
+| --- | --- | --- |
+| Llei de beques i crèdits d'estudis | 1992-12-01 | **2.12.1992** |
+| Reglament de centres privats | 1994-12-13 | **14.12.1994** |
+| Llei qualificada d'educació | 1993-09-27 | **28.9.1993** |
+| Llei de guarderies infantils | 1995-05-23 | **24.5.1995** |
+| Reglament de guarderies infantils | 1995-12-05 | **6.12.1995** |
+| Llei de l'ensenyament de l'esquí | 1996-07-09 | **10.7.1996** |
+| Llei d'universitats | 1997-08-19 | **20.8.1997** |
+| Reglament del transport escolar | 1998-09-08 | **9.9.1998** |
+| Llei de l'Escola Nacional Andorrana d'Esquí | 1996-07-09 | **10.7.1996** |
+
+**No és un error de l'API: és que el butlletí té dues dates.** El corpus ja
+havia trobat el mateix desfasament el 2022 entre **la fitxa web d'un butlletí i
+la capçalera del seu PDF**
+([les portes d'entrada a la via preferent](../temes/societat/sanitat/les-portes-dentrada-a-la-via-preferent.md)).
+**L'API i el PDF donen la data primerenca; la fitxa web i l'índex oficial donen
+la tardana.**
+
+**Comprovat que no sempre passa**: la **Llei 33/2021** consta 2021-12-28 a l'API i
+28-12-2021 a la mateixa llei. **El desfasament és constant als anys noranta i no
+es dona sempre als anys recents.**
+
+**Regla per a aquest corpus**: en citar la publicació d'una norma dels **anys
+noranta** baixada per l'API, **escriure la data de l'API i advertir que l'índex
+oficial en dona una de l'endemà**, o citar les dues. **Mai fer un càlcul de
+terminis sobre la data de l'API sense dir-ho**, perquè el resultat es desplaça un
+dia.
+
 ## Related
 
 - [El Concordat del 2008](../temes/institucions/coprincipat/el-concordat-del-2008.md) — el primer buit que aquesta via va tancar.

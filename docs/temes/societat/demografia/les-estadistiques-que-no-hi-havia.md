@@ -142,10 +142,18 @@ dates i la font en fa servir la segona sense dir-ho.**
 > actes d'estat civil esdevinguts a partir de **les 0 hores del 180è dia comptat
 > des de l'entrada en vigor** de la present Llei.»
 
-**La llei és vigent des del 13 d'agost de 1996 i el registre no comença a
-funcionar fins cent vuitanta dies després**, que cau el **8 o el 9 de febrer de
-1997** segons si es compta el mateix dia de publicació. `El text no diu si el
-dia de l'entrada en vigor compta com a primer, i la diferència és d'un dia.`
+**La llei és vigent des del dia que es publica i el registre no comença a
+funcionar fins cent vuitanta dies després**, que cau **entre el 8 i el 10 de
+febrer de 1997**.
+
+`Dues incerteses d'un dia cadascuna, i totes dues registrades.` **La primera**: el
+text no diu si el dia de l'entrada en vigor compta com a primer. **La segona**:
+la data de publicació mateixa. L'API del BOPA la dona el **13 d'agost de 1996**, i
+el corpus ha mesurat que **per als anys noranta l'índex legislatiu oficial dona
+sempre l'endemà** de la data de l'API —nou comprovacions de nou—, de manera que
+la data oficial seria el **14 d'agost**
+([la fitxa del BOPA](../../../fonts/bopa.md)). **El corpus no arbitra i dona el
+ventall.**
 
 **Això confirma el «febrer d'enguany» de la ponència** i li posa dia. **I explica
 per què la sèrie demogràfica andorrana es parteix el 1997 i no el 1996.**
