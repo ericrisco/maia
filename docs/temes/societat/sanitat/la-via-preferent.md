@@ -127,14 +127,63 @@ tenir **el cònjuge difunt** (article 133.3).
 
 **Cotitzar poc no et deixa només sense pensió: et pot deixar sense sanitat.**
 
+## El punt de jubilació, setze anys de sèrie
+
+**El Govern fixa cada gener, per decret, dos preus del punt de jubilació**, en
+aplicació dels articles 200 i 201 de la Llei 17/2008 de la seguretat social i
+«vista la variació percentual de l'IPC» de l'any anterior
+([evidència](../../../raw/lleis/bopa/punt-jubilacio/)):
+
+| Any | **Preu de venda** (el que val quan es cobra) | **Preu de compra** (el que costa acumular-ne un) |
+| --- | ---: | ---: |
+| 2011 | 2,09500 € | 16,76000 € |
+| 2012 | 2,14737 € | 17,17900 € |
+| 2013 | 2,17099 € | 17,36792 € |
+| 2014 | 2,17099 € | 17,36792 € |
+| 2015 | 2,17099 € | 17,36792 € |
+| **2016** | 2,17099 € | **20,84150 €** |
+| 2017 | 2,17967 € | 20,92483 € |
+| 2018 | 2,23634 € | 21,46886 € |
+| 2019 | 2,25199 € | 21,61910 € |
+| 2020 | 2,27451 € | 21,83530 € |
+| 2021 | 2,27451 € | 21,83530 € |
+| 2022 | 2,34957 € | 22,55587 € |
+| 2023 | 2,51639 € | 24,15734 € |
+| 2024 | 2,63214 € | 25,26854 € |
+| 2025 | 2,70058 € | 25,92557 € |
+| **2026** | **2,77350 €** | **26,62560 €** |
+
+**Dues coses que la sèrie diu.**
+
+**Primera: el 2016 el punt es va encarir un 20% per a qui cotitza i no va pujar
+gens per a qui cobra.** El preu de compra salta de **17,37 a 20,84 €** mentre el
+de venda es queda clavat a **2,17099 €**, on ja portava tres anys. **És l'any en
+què acumular pensió es va fer més car sense que la pensió pugés.**
+
+**Segona: el punt de venda va estar congelat cinc anys (2013-2016) i un altre any
+el 2021.** Del 2011 al 2026 ha pujat un **32%**; el de compra, un **59%**.
+
+**La relació entre els dos preus és el que mesura la generositat del sistema**:
+calen **9,6 euros de cotització per cada euro anual de pensió** el 2026 (26,6256
+/ 2,7735), contra **8,0** el 2011. `Càlcul del corpus sobre les xifres dels
+decrets.`
+
 ## Buits registrats
 
 - **La via preferent, la llei no la defineix.** Diu «la via que s'estableixi com
   a preferent **per reglament**», i els reglaments no són al corpus. El corpus
   sap què costa saltar-se-la i no sap exactament quina és.
-- **Les tarifes de responsabilitat tampoc hi són**: els percentatges s'apliquen
-  sobre una nomenclatura que fixa el Govern i es publica a part.
-- **Quant val un punt de jubilació**, no consta.
+- ~~**Les tarifes de responsabilitat tampoc hi són**: els percentatges s'apliquen
+  sobre una nomenclatura que fixa el Govern i es publica a part.~~ — **`parcial`
+  el 17-09-2026: ara se sap on es publiquen i amb quin ritme.** **Les tarifes de
+  responsabilitat de la CASS es fixen per decret propi**, diverses vegades l'any
+  —**Decret 73/2022, 189/2023, 79/2024, 69/2025, 79/2025, 55/2026 i 307/2026**—,
+  i la **«Nomenclatura general d'actes professionals» és l'annex del Reglament
+  d'aplicació núm. 20**, que es modifica per decret a part (551/2022, 139/2023,
+  246/2025). `El corpus n'ha identificat la sèrie i no n'ha baixat cap.`
+- ~~**Quant val un punt de jubilació**, no consta.~~ — **`resolt` el 17-09-2026,
+  i no és un valor sinó dos** — vegeu
+  [El punt de jubilació, setze anys de sèrie](#el-punt-de-jubilacio-setze-anys-de-serie).
 - **Els percentatges es poden canviar per llei del pressupost** (articles 139.2
   i 139 bis.2). Els d'aquesta fitxa són els de la instantània del 2026-09-12.
 - **Les 34 versions no s'han comparat.** Aquesta és la llei que més ha canviat
