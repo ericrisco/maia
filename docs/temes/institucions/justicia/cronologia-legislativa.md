@@ -156,7 +156,17 @@ consta:
    referència creuada, no de coneixement.*
 3. **Les lleis de nacionalitat de 1939 i 1977** — el corpus té el resultat
    ([els andorrans de primera generació](../nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md))
-   i no les normes.
+   i no les normes. — **`parcial` el 17-09-2026: ara en tenim el nom i la data
+   exactes, dits per la llei vigent.** L'exposició de motius de la **Llei
+   8/2026** anomena l'antecedent «**Decret del 17 de juny de 1939 de Nacionalitat
+   andorrana d'origen i modes de la seva adquisició**», i la Llei del 1993
+   anomena el **Codi de la Nacionalitat Andorrana de l'11 de març de 1977** i la
+   seva **Llei de modificació del 7 de setembre de 1985**, promulgada per les
+   **Delegacions Permanents dels coprínceps**
+   ([evidència](../../../raw/lleis/bopa/llei-8-2026-mod-nacionalitat.txt),
+   [evidència](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt)).
+   `Els textos de 1939, 1977 i 1985 són anteriors al BOPA i segueixen sense
+   localitzar-se.`
 4. **Què passa del 1993 al 2026.** Aquesta cronologia **s'atura el 1991**, i el
    corpus ja en té el retrat quantitatiu:
    [el dret andorrà vigent](./el-dret-vigent.md) compta **104 normes i 8.956

@@ -158,6 +158,16 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
   cop, és un buit i no dos.** **I val la pena dir què mesuraria**: **l'article 30.1 obre
   nou circumstàncies d'adjudicació directa, de la a) a la i), i el corpus no sap
   per quina se n'adjudica cap.**
+
+  **`parcial` el 17-09-2026, i el que canvia és que ara es pot comptar.**
+  L'article 19.2.d del **Reglament de la Llei de contractació pública (Decret
+  38/2026, del 4 de febrer del 2026)** obliga l'edicte d'adjudicació a fer
+  constar «**la lletra de l'apartat 1 de l'article 30 de la Llei a la qual
+  s'acull la contractació directa**»
+  ([la contractació directa](./la-contractacio-directa.md)). **Des del febrer del
+  2026, el BOPA diu per quina lletra s'adjudica cada contracte directe.**
+  `Requereix escombrar els edictes d'adjudicació posteriors i comptar-los; i per
+  als anteriors, la via segueix tancada.`
 - **El Codi de l'Administració té 147 articles i n'hem llegit dos.** És la norma
   general de tot el dret administratiu andorrà i queda majoritàriament per llegir.
   — **`parcial` el 17-09-2026**: **recorregut sencer i buidat pel que aquesta

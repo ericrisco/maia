@@ -250,8 +250,13 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   **I una regla que decideix qui perd quan no hi ha res a cobrar**: **si del
   procediment no se'n treu res, o menys que la provisió, el saig cobra la
   provisió igual** i **el que s'hagi pogut percebre va íntegre a l'executant.**
-- **Quin és el salari mínim interprofessional** —la unitat sobre la qual descansa
-  tota la protecció de l'article 8— **no és en aquestes lleis**.
+- ~~**Quin és el salari mínim interprofessional** —la unitat sobre la qual
+  descansa tota la protecció de l'article 8— **no és en aquestes lleis**.~~
+  `resolt` el 17-09-2026: no hi és perquè **es fixa cada any per decret**, i el
+  corpus en té la sèrie sencera del **1989 al 2026** a
+  [El salari mínim, de 362 pessetes a 9,05 euros](../../societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md).
+  **El mínim inembargable de l'article 8 és, doncs, una xifra que canvia cada
+  gener** —i el 2026, dues vegades.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
   consta.
 - **L'antecedent històric ja és al corpus des del 14-09-2026, i no és una

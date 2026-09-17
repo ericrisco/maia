@@ -172,9 +172,18 @@ l'[andorranització](../../societat/educacio/landorranitzacio.md) tres anys aban
    denuncia. **Prioritari i sense confirmar.**
 2. **Enric París, segon síndic el 1979**, i quina va ser la seva intervenció
    sobre integració. El corpus no en té res.
-3. **Si la regla dels vint-i-cinc anys s'ha escurçat** i quan. La fitxa de
-   [nacionalitat i residència](./nacionalitat-i-residencia.md) parla de **vint**:
-   **el corpus no sap quan ni com va canviar la xifra**.
+3. ~~**Si la regla dels vint-i-cinc anys s'ha escurçat** i quan.~~ `resolt` el
+   17-09-2026: **la va escurçar la Llei 10/2004, del 27 de maig**, que —segons
+   l'exposició de motius de la Llei 8/2026— «va fixar en **vint anys** el període
+   de residència per demanar la naturalització amb caràcter general, i va
+   establir un període específic per als joves que han assistit a centres
+   educatius del país durant l'escolaritat obligatòria; en aquest cas el termini
+   de residència **es va reduir a deu anys**»
+   ([evidència](../../../raw/lleis/bopa/llei-8-2026-mod-nacionalitat.txt)).
+   **De vint-i-cinc a vint el 2004, i a deu per als escolaritzats aquí.** El 2026
+   s'hi afegeix que els vint anys poden ser **interromputs**, si els cinc
+   anteriors a la sol·licitud són continus
+   ([la cadena sencera](./el-codi-de-la-nacionalitat-de-1977.md)).
 4. **La «repudiació» de la nacionalitat francesa**: com funciona el tràmit i si
    es fa servir encara.
 5. **Quantes naturalitzacions hi ha hagut** cada any. Cap font del corpus no en
