@@ -1,12 +1,13 @@
 ---
 type: article
 title: L'abstenció
-description: "Del 80% de participació abans de la Constitució al 66% el 2015. La sèrie sencera, any per any, i el que no explica."
+description: "Del 81,6% del 1997 al 66,9% del 2023. La sèrie oficial sencera, per any i per parròquia, i qui vota de debò: una de cada quatre persones que viuen al país."
 tema: temes/politica/sistema-electoral
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: dalleres-coprincipat-parlamentari
+fonts_addicionals: [eleccions-ad, estadistica-ad]
 timestamp: 2026-09-13T10:50:00Z
 tags: [politica, sistema-electoral, participacio, societat, debat-obert]
 ---
@@ -109,15 +110,208 @@ d'Europa**, i el president del PS la posa al centre de la seva ponència
 ([la desigualtat del vot](./la-desigualtat-del-vot.md)). **Falta la xifra, no
 la constatació.**
 
+## La sèrie oficial, vuit eleccions generals: 1997-2023
+
+**La sèrie que Dallerès citava d'oïda és publicada, i el corpus ja la té
+sencera.** Surt dels dossiers oficials de
+[eleccions.ad](../../../fonts/eleccions-ad.md), un per convocatòria.
+
+| Any | Electors | Votants | Participació |
+| --- | ---: | ---: | ---: |
+| **1997** | 10.837 | 8.842 | **81,6%** |
+| **2001** | 13.342 | 10.892 | **81,6%** |
+| **2005** | 16.032 | — | **no publicada** |
+| **2009** | 20.298 | 15.289 | **75,3%** |
+| **2011** | 21.852 | 16.192 | **74,1%** |
+| **2015** | 24.512 | 16.084 | **65,6%** |
+| **2019** | 27.278 | 18.639 | **68,3%** |
+| **2023** | 29.958 | 20.057 | **66,9%** |
+
+`Comprovacions del corpus.` **Cada any quadra pel seu compte** —8.842/10.837 =
+81,6%, 15.289/20.298 = 75,3%, 16.192/21.852 = 74,1%, 16.084/24.512 = 65,6%— i
+**el cens de cada any surt de dos dossiers diferents**: la columna d'electors del
+dossier del 2023 dona 13.342 per al 2001, 20.298 per al 2009, 21.852 per al 2011
+i 24.512 per al 2015, exactament les mateixes xifres que imprimeix cada dossier
+d'aquell any. **Vuit convocatòries, dues fonts independents, cap discrepància.**
+
+Dues precisions de lectura. **El 2005 no hi és perquè el dossier oficial no el
+porta**: té sis pàgines, cap secció de participació, i la seva caixa de resultats
+nacionals diu «N/D». I **els votants del 2019 i del 2023 són la suma de la taula
+horària** —onze hores, de les 9 a les 19— mentre que l'escrutini del 2023 compta
+**20.050 vots escrutats**: set paperetes de diferència entre el recompte de
+l'hora i el de la taula.
+
+### Les dues coses que la citació no deia
+
+**El percentatge del 1997 i el del 2009**, que eren el buit 6 d'aquesta fitxa:
+**81,6% i 75,3%**. La citació de Dallerès deia «similar» per al 1997 i «primeres
+dades que anuncien la davallada» per al 2009. **Totes dues eren bones
+descripcions i cap de les dues era una xifra.**
+
+**I que el 2009 ja havia caigut sis punts.** Dallerès el presenta com l'any que
+*anuncia* la davallada; la xifra diu que **el 2009 la davallada ja havia passat**
+—de 81,6% a 75,3%, sis punts i tres dècimes— i que el que ve després és la
+segona meitat del pendent.
+
+### La caiguda no continua després del 2015
+
+És la correcció més gran que la sèrie oficial fa a aquesta fitxa. **El corpus
+tenia una línia que baixava i s'acabava el 2015 al 66%.** La línia sencera no
+baixa fins al final:
+
+> **65,6% (2015) → 68,3% (2019) → 66,9% (2023)**
+
+**El mínim de la sèrie és el 2015**, no l'última elecció. Les dues següents
+**pugen i tornen a baixar dins d'una forquilla de dos punts i set dècimes**.
+Dit d'una altra manera: **la participació andorrana va caure quinze punts entre
+el 2001 i el 2015 i des d'aleshores no s'ha mogut.**
+
+**El que sí que no para de créixer és l'abstenció en persones**, perquè el cens
+creix:
+
+| Any | Qui no vota |
+| --- | ---: |
+| 1997 | 1.995 |
+| 2001 | 2.450 |
+| 2009 | 5.009 |
+| 2011 | 5.660 |
+| 2015 | 8.428 |
+| 2019 | 8.639 |
+| **2023** | **9.901** |
+
+**Entre el 2011 i el 2015 el cens guanya 2.660 electors i els votants en perden
+108.** És l'únic tram de la sèrie on **el nombre absolut de gent que vota
+baixa**, i explica per què el salt de participació d'aquells quatre anys és de
+vuit punts i mig, el més gran de tots.
+
+## Per parròquia: com més petita, més vota
+
+Era el buit 5. Els dossiers del 1997, del 2001, del 2009 i del 2023 donen la
+participació de les set parròquies.
+
+| Parròquia | 1997 | 2001 | 2009 | 2023 | 1997 → 2023 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Canillo | 78,8% | 88,3% | 81,9% | **72,1%** | **−6,7** |
+| Encamp | 81,5% | 82,3% | 76,4% | **64,6%** | **−16,9** |
+| Ordino | 81,8% | 87,7% | 86,2% | **76,3%** | **−5,5** |
+| La Massana | 82,3% | 86,6% | 79,8% | **71,4%** | **−10,9** |
+| Andorra la Vella | 79,8% | 77,9% | 70,3% | **62,2%** | **−17,6** |
+| Sant Julià de Lòria | 84,6% | 82,8% | 75,2% | **67,6%** | **−17,0** |
+| Escaldes-Engordany | 82,3% | 80,7% | 75,5% | **68,6%** | **−13,7** |
+| **Nacional** | **81,6%** | **81,6%** | **75,3%** | **67,0%** | **−14,7** |
+
+`Comprovació del corpus.` **La mitjana del 2023 ponderada pel cens de cada
+parròquia dona 66,94%**, contra el 66,95% imprès: les set xifres i el total són
+coherents entre ells.
+
+**El 2023 la participació va de menys a més amb la mida de la parròquia**, amb
+una sola excepció. Les tres parròquies més petites —Ordino, Canillo, La
+Massana— són les tres primeres; **la capital és l'última**. L'excepció és
+**Encamp**, que amb 4.341 electors vota menys que Sant Julià, que en té 4.476.
+
+**El 1997 no era així.** Aleshores **Canillo era l'última** (78,8%) i **Sant
+Julià la primera** (84,6%). L'ordre s'ha capgirat, i el motiu és que **la
+desafecció no ha estat igual per a tothom**: la capital, Sant Julià i Encamp
+perden disset punts, i Ordino i Canillo en perden menys de set.
+
+**Per això el ventall s'ha obert.** El 1997 hi havia **5,8 punts** entre la
+parròquia que més votava i la que menys. El 2023 n'hi ha **14,1**.
+
+## Quanta gent del país vota de debò
+
+Era el buit 4, i és la pregunta que aquesta fitxa deixava escrita: **«una
+participació del 66% del cens andorrà és quin percentatge dels adults que viuen
+al país?»**
+
+Les dues xifres del mateix any:
+
+| | |
+| --- | ---: |
+| Població resident (juny del 2023, [A001](../../societat/demografia/la-composicio-per-nacionalitats.md)) | **83.523** |
+| Andorrans (juny del 2023) | **38.876** |
+| **Electors convocats (abril del 2023)** | **29.958** |
+| **Vots escrutats** | **20.050** |
+
+> **29.958 / 83.523 = 35,9% dels residents poden votar.**
+> **20.050 / 83.523 = 24,0% dels residents van votar.**
+> **29.958 / 38.876 = 77,1% dels andorrans són al cens** —la resta, menors.
+
+**El Consell General del 2023 el van triar una de cada quatre persones que viuen
+al país.** La xifra no és una crítica: és aritmètica de dues fonts oficials
+—el cens electoral d'eleccions.ad i la població estimada del Departament
+d'Estadística— llegides per al mateix any.
+
+`El corpus marca que les dues sèries no són la mateixa: la població és estimada
+i és de juny, i el cens és de convocatòria i és d'abril. A aquesta escala la
+diferència no mou cap de les tres fraccions.`
+
+### I la comparació que fa mal
+
+**El 2007 Andorra tenia 83.137 habitants**
+([la sèrie de població](../../societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md)).
+**El juny del 2023 en tenia 83.523**: tres-cents vuitanta-sis més, un 0,5%.
+
+**I el cens electoral havia passat de 16.032 a 29.958.**
+
+> **Mateixa població, 13.926 electors més.**
+
+**El cens no ha crescut perquè hagi crescut el país.** Ha crescut perquè **la
+gent que ja hi vivia s'ha anat fent andorrana** —[les naturalitzacions](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md)—
+i perquè els fills dels immigrats dels vuitanta han arribat als divuit anys.
+**El cos electoral andorrà s'ha gairebé doblat sense que el país guanyi
+habitants.**
+
+## La participació comunal del 2023, que el portal dona en text
+
+La portada d'eleccions.ad publica les **comunals del desembre del 2023** en text
+pla, sense PDF:
+
+| Parròquia | Electors | Votants | Participació | Vots blancs |
+| --- | ---: | ---: | ---: | ---: |
+| Canillo | 1.220 | 684 | 56,1% | **218 (31,9%)** |
+| Encamp | 4.440 | 2.332 | 52,5% | 202 (8,7%) |
+| Ordino | 1.947 | 1.335 | **68,6%** | 138 (10,3%) |
+| La Massana | 3.552 | 2.114 | 59,5% | 159 (7,5%) |
+| Andorra la Vella | 8.784 | 4.124 | **47,0%** | 244 (5,9%) |
+| Sant Julià de Lòria | 4.559 | 2.699 | 59,2% | 114 (4,2%) |
+| Escaldes-Engordany | 5.899 | 3.356 | 56,9% | 177 (5,3%) |
+| **Total** | **30.401** | **16.644** | **54,7%** | **1.252** |
+
+`Comprovació del corpus.` **Les set files sumen 30.401 electors i 16.644
+votants, i 16.644/30.401 = 54,75%.
+
+**Dallerès tenia raó en la direcció**: les comunals voten dotze punts menys que
+les generals del mateix any —54,7% contra 66,9%— i **a la capital menys de la
+meitat de la gent hi va**.
+
+**I el blanc de Canillo explica per què el blanc és una dada.** A Canillo hi
+havia **una sola llista**, DEMÒCRATES + INDEPENDENTS, que va treure els deu
+consellers amb el 100% dels vots vàlids. **Dels 684 canillencs que van anar a
+votar, 218 —gairebé un de cada tres— van posar el sobre buit.** És de cinc a set
+vegades el blanc de qualsevol altra parròquia, i **és l'única manera que tenien
+de votar que no.**
+
 ## Buits registrats
 
 1. **L'estudi *L'abstenció al Principat d'Andorra*** de l'IEA, sencer.
-   **Prioritari.**
-2. **La sèrie des del 2015** — el corpus s'atura el 2018.
-3. **Les xifres de participació anteriors al 1993**, concretes.
-4. **Participació creuada amb el cens total de residents.**
-5. **Participació per parròquia** i **per edat**.
-6. **El percentatge exacte del 1997 i del 2009**, que la citació no dona.
+   **Prioritari.** `Requereix demanar-lo a l'Institut d'Estudis Andorrans: no és
+   al web.` **Les xifres ja no en depenen** —les dona el portal electoral— però
+   **la lectura i la metodologia sí.**
+2. ~~**La sèrie des del 2015** — el corpus s'atura el 2018.~~ `resolt`
+   **2019: 68,3%. 2023: 66,9%.** I la sèrie sencera des del 1997, a dalt.
+3. **Les xifres de participació anteriors al 1993**, concretes. `Requereix una
+   font anterior a eleccions.ad: el portal comença el 1995 (comunals) i el 1997
+   (generals).` **El que sí que hi ha és la corba horària del 1993 i del 1995**,
+   dibuixada al dossier del 1997, **sense els totals.**
+4. ~~**Participació creuada amb el cens total de residents.**~~ `resolt`
+   **35,9% dels residents poden votar; 24,0% van votar el 2023.**
+5. ~~**Participació per parròquia**~~ `resolt` —quatre anys, a dalt— **i per
+   edat**, que segueix obert. `Requereix una explotació del cens electoral per
+   edats: cap dossier no la publica.`
+6. ~~**El percentatge exacte del 1997 i del 2009**, que la citació no dona.~~
+   `resolt` **81,6% i 75,3%.**
+7. **El 2005**, que és l'únic any sense participació publicada. `Requereix una
+   font que no sigui el dossier oficial: el dossier no la porta i ho diu.`
 
 ## Related
 

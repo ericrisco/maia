@@ -457,6 +457,92 @@ fets atribuïts** i **el corpus no en publica cap extracció massiva**.`
 les taules en imatge**, com el del 2023, i **cal renderitzar-los pàgina a pàgina
 per llegir-los**. **El del 2023 és l'únic que s'ha buidat.**
 
+## El cens electoral parròquia per parròquia, del 2001 al 2023
+
+El dossier oficial de les generals del 2023
+([eleccions.ad](../../../fonts/eleccions-ad.md)) publica **el cens de les tretze
+convocatòries des del 2001** —generals i comunals— en una sola taula. És la
+resposta directa a la pregunta que aquesta fitxa tenia oberta: **la desviació
+del 400% que l'OSCE va mesurar el 2011, s'ha mogut?**
+
+| Parròquia | 2001 | 2005 | 2009 | 2011 | 2015 | 2019 | **2023** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Canillo | 562 | 595 | 750 | 794 | 908 | 1.003 | **1.199** |
+| Encamp | 1.845 | 2.172 | 2.793 | 3.004 | 3.374 | 3.928 | **4.341** |
+| Ordino | 740 | 945 | 1.200 | 1.379 | 1.586 | 1.753 | **1.903** |
+| La Massana | 1.235 | 1.567 | 2.104 | 2.311 | 2.656 | 3.067 | **3.483** |
+| Andorra la Vella | 4.014 | 4.830 | 6.204 | 6.604 | 7.372 | 8.097 | **8.693** |
+| Sant Julià de Lòria | 1.963 | 2.406 | 2.949 | 3.173 | 3.588 | 4.029 | **4.476** |
+| Escaldes-Engordany | 2.983 | 3.517 | 4.298 | 4.587 | 5.028 | 5.401 | **5.863** |
+| **Total** | **13.342** | **16.032** | **20.298** | **21.852** | **24.512** | **27.278** | **29.958** |
+
+`Comprovacions del corpus.` **Les set files sumen exactament el total imprès als
+set anys.** I **el 794 de Canillo i el 6.604 d'Andorra la Vella del 2011 són
+literalment els que l'OSCE cita**, de manera que la taula i l'informe parlen del
+mateix cens.
+
+### La desviació, mesurada amb el mètode de l'OSCE
+
+L'informe diu que el nombre de vots necessari per a ser elegit estava **«desviat
+fins a un 400% del quocient mitjà»** i que **només dues parròquies de set** eren
+dins del marge del 15% que recomana el Consell d'Europa. El quocient mitjà és
+el cens total dividit pels catorze escons parroquials; el de cada parròquia, el
+seu cens dividit per dos.
+
+**Refent el càlcul del 2011 amb aquesta taula surt exactament el que l'informe
+publica:**
+
+> quocient mitjà 2011 = 21.852 / 14 = **1.560,9**
+> quocient de Canillo = 794 / 2 = **397** → **el mitjà n'és 3,93 vegades: el 400% de l'informe**
+> dins de ±15% del mitjà: **Encamp (1.502) i Sant Julià (1.586,5)** → **dues de set**
+
+`El corpus fa servir el 2011 com a control: si el mètode reprodueix les dues
+xifres que l'informe imprimeix, es pot aplicar al 2023.`
+
+**I aplicat al 2023:**
+
+> quocient mitjà 2023 = 29.958 / 14 = **2.139,9**
+> quocient de Canillo = 1.199 / 2 = **599,5** → **3,57 vegades**
+> dins de ±15% del mitjà: **Encamp (2.170,5) i Sant Julià (2.238)** → **dues de set**
+
+**La desviació ha baixat del 393% al 357% i el nombre de parròquies dins del
+marge no s'ha mogut: segueixen sent dues de set, i són les mateixes dues.**
+
+### Per què baixa, i per què això no vol dir que millori
+
+La raó és que **Canillo és la parròquia que més ha crescut en percentatge**: el
+seu cens es multiplica per **2,13** del 2001 al 2023, i **+19,5% només en els
+quatre últims anys**, contra el **+7,4%** de la capital. **El desequilibri
+s'estreny des de baix**, perquè el denominador petit creix, no perquè s'hagi
+tocat el repartiment.
+
+**El rang de tota la sèrie ho ensenya:**
+
+| Any | Andorra la Vella ÷ Canillo |
+| --- | ---: |
+| 2001 | 7,14 |
+| 2007 | **8,45** (màxim) |
+| 2011 | 8,32 |
+| 2015 | 8,12 |
+| 2019 | 8,07 |
+| **2023** | **7,25** (mínim des del 2001) |
+
+**Vint-i-dues anys i la forquilla no surt mai d'entre 7 i 8,5.** El 2023 és el
+millor any de la sèrie i **segueix sent set vegades i quart**.
+
+### I la participació encara ho complica
+
+Les parròquies petites **no només tenen menys electors per escó: també en porten
+més a votar** ([l'abstenció](./labstencio.md)). El 2023 Canillo vota al 72,1% i
+la capital al 62,2%. Comptant **vots** en comptes d'electors:
+
+> Canillo: 1.199 × 72,1% = **865 vots** → **432 per escó parroquial**
+> Andorra la Vella: 8.693 × 62,2% = **5.404 vots** → **2.702 per escó**
+
+**La ràtio en vots és 6,25**, una mica més baixa que la de cens perquè la
+capital vota menys. **Que la capital s'abstingui és l'únic factor que estreny la
+desigualtat**, i és evidentment el pitjor consol possible.
+
 ## Buits registrats
 
 1. **Els resultats oficials de les eleccions generals**, de qualsevol any.
@@ -502,8 +588,10 @@ per llegir-los**. **El del 2023 és l'únic que s'ha buidat.**
 7. **La Llei de competències i transferències**, l'única vegada citada en què la
    distinció territorial/nacional va comptar.
 8. **Verificar** que els consellers territorials voten sempre amb el seu grup.
-9. **El cens electoral per parròquia** avui, per veure si la desviació del 400%
-   s'ha mogut.
+9. ~~**El cens electoral per parròquia** avui, per veure si la desviació del
+   400% s'ha mogut.~~ `resolt` **Sí, i poc: del 393% del 2011 al 357% del
+   2023**, amb **les mateixes dues parròquies de set** dins del marge
+   recomanat. La sèrie sencera del 2001 al 2023, a dalt.
 10. **Ordino el 2015**: els seus dos escons territorials, decisius segons la
     font.
 

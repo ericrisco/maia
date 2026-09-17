@@ -163,34 +163,47 @@ que es va cobrar l'elecció anterior, **només** per a qui ja tenia representant
 
 ### El sostre és pla, i les parròquies no
 
-**El corpus pot fer aquí una operació que la llei no fa**, i la fa amb les úniques
-xifres de cens que té: les que l'**OSCE** va publicar el **2011** a
+**El corpus pot fer aquí una operació que la llei no fa.** Ara la fa amb **el
+cens de la convocatòria a la qual la llei del 2022 es va aplicar per primera
+vegada**: les generals del **2 d'abril del 2023**, publicades a
+[eleccions.ad](../../../fonts/eleccions-ad.md) i recollides a
 [la desigualtat del vot](./la-desigualtat-del-vot.md).
 
-> **Avís: són xifres del 2011 i la llei és del 2022.** L'exercici **no dona el
-> sostre real de cap campanya**; ensenya **la forma** d'una fórmula gairebé
-> plana. **El corpus no té el cens electoral vigent per parròquia. Buit
-> registrat.**
+| Parròquia | Electors 2023 | Sostre = 30.000 € + 0,30 €/elector | **Per elector** |
+| --- | ---: | ---: | ---: |
+| **Canillo** | 1.199 | 30.359,70 € | **25,32 €** |
+| Ordino | 1.903 | 30.570,90 € | **16,06 €** |
+| La Massana | 3.483 | 31.044,90 € | **8,91 €** |
+| Encamp | 4.341 | 31.302,30 € | **7,21 €** |
+| Sant Julià de Lòria | 4.476 | 31.342,80 € | **7,00 €** |
+| Escaldes-Engordany | 5.863 | 31.758,90 € | **5,42 €** |
+| **Andorra la Vella** | 8.693 | 32.607,90 € | **3,75 €** |
+
+**El cens de la parròquia gran és set vegades i quart el de la petita, i el
+sostre de despesa només és un 7,4% més alt.** Per elector, la diferència és de
+**6,75 vegades**: **25,32 € a Canillo contra 3,75 € a Andorra la Vella.**
+
+El motiu és que **el sostre és essencialment un import fix**: dels 30.359,70 €
+de Canillo, **30.000 no depenen de ningú** i **359,70 € sí**. La part variable
+és **l'1,2% del sostre a la parròquia petita i el 8,0% a la gran**.
+
+Això **se suma** a la desigualtat que el corpus ja tenia documentada: cada
+parròquia tria dos consellers, en tingui 1.199 d'electors o 8.693.
+
+I la subvenció, que **sí que és proporcional als vots**, es comporta a
+l'inrevés. Com que ningú no pot treure més vots que electors hi ha, es pot
+acotar el màxim concebible:
 
 | | Canillo | Andorra la Vella |
 | --- | --- | --- |
-| Electors (2011) | **794** | **6.604** |
-| Sostre = 30.000 € + 0,30 €/elector | **30.238,20 €** | **31.981,20 €** |
-| **Sostre per elector** | **38,08 €** | **4,84 €** |
+| Electors (2023) | **1.199** | **8.693** |
+| Subvenció màxima imaginable (5 €/vot × electors + 2 escons × 150 €) | **6.295 €** | **43.765 €** |
+| Respecte al sostre de despesa | **com a molt un 21%** | **el superaria en un 34%** |
 
-**Vuit vegades més euros permesos per elector en una parròquia que en una
-altra**, perquè el sostre és essencialment **un import fix**. Això **se suma** a
-la desigualtat que el corpus ja tenia documentada: cada parròquia tria dos
-consellers, en tingui 794 d'electors o 6.604.
-
-I la subvenció, que **sí que és proporcional als vots**, es comporta a l'inrevés.
-Com que ningú no pot treure més vots que electors hi ha, es pot acotar el màxim
-concebible:
-
-| | Canillo | Andorra la Vella |
-| --- | --- | --- |
-| Subvenció màxima imaginable (5 €/vot × electors + 2 escons × 150 €) | **4.270 €** | **33.320 €** |
-| Respecte al sostre de despesa | **com a molt un 14%** | **el superaria** |
+I amb **els vots que de fet s'hi van emetre** —865 a Canillo i 5.404 a la
+capital ([l'abstenció](./labstencio.md))— la cota es tanca encara més: **4.625 €
+contra 27.320 €**, és a dir **un 15% del sostre a Canillo i un 84% a Andorra la
+Vella**.
 
 **A la parròquia petita, la subvenció no pot arribar mai ni a la setena part del
 que s'hi pot gastar; a la gran, en teoria el cobriria tot.** Són **cotes
@@ -382,7 +395,9 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
 
    `Requereix creuar aquestes xifres amb els comptes electorals que el mateix
    Tribunal fiscalitza, per saber quina fracció de la campanya cobreixen.`
-4. **El cens electoral vigent per parròquia**, per calcular els sostres reals.
+4. ~~**El cens electoral vigent per parròquia**, per calcular els sostres
+   reals.~~ `resolt` **El cens del 2 d'abril del 2023, les set parròquies**, i
+   els sostres calculats a dalt.
 5. **Si s'ha sancionat mai cap partit** per aquesta llei, o si s'ha dissolt o
    suspès cap. — **`obert`, però ara és un negatiu comprovat i no una
    ignorància.** Cercat al BOPA el 17-09-2026 —«expedient sancionador» +
