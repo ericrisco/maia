@@ -175,10 +175,56 @@ revocar acords del parlament**
    `Requereix el text, que no és al BOPA perquè el butlletí comença el 1989.`
 3. **Els partits polítics andorrans.** **Prioritari.**
 4. **Resultats electorals**, cap.
-5. **El Reglament del Consell General**, criticat per tots dos autors i no
-   descrit per cap font del corpus.
+5. ~~**El Reglament del Consell General**, criticat per tots dos autors i no
+   descrit per cap font del corpus.~~ — **`resolt` el 17-09-2026, i el corpus
+   el tenia sense saber-ho.** **Ara n'hi ha quatre textos sencers**, baixats del
+   [BOPA](../../../fonts/bopa.md) i descrits a
+   [com funciona el Consell General](../parlamentarisme/com-funciona-el-consell-general.md):
+   **el del 3 de setembre de 1993** —el primer, per mandat de la disposició
+   transitòria primera de la Constitució—, **el del 7 de febrer del 2019**,
+   **les reformes del 2020 i del 2022** i **el del 4 de juny del 2026, que és el
+   vigent.**
+
+   **El que l'aparició dels quatre textos permet dir, i no es podia abans**:
+   **el Reglament ha crescut d'escala.** **El del 2019 fa 94.598 caràcters i el
+   del 2026 en fa 168.391**: **s'ha gairebé duplicat en set anys.** **La crítica
+   dels dos autors era a un text molt més prim que el d'avui**, i **qualsevol
+   valoració seva s'ha de datar.**
+
+   `Requereix el Reglament anterior al 1993, que és el que aquells autors
+   criticaven i que no és al Butlletí perquè el BOPA comença el 1989.`
 6. **Per què 28 i no una altra xifra**: la Constitució permet **entre 28 i 42**
-   parlamentaris i **mai s'ha passat de 28**.
+   parlamentaris i **mai s'ha passat de 28**. — **`parcial` el 17-09-2026, i el
+   *per què* segueix obert, però ara se sap *com*.**
+
+   **La llei electoral fixa la xifra i no la raona.** **L'article 52 de la Llei
+   44/2022 diu, sencer**: «El Consell General es compon de **vint-i-vuit
+   consellers generals**, la meitat dels quals són elegits a raó d'un nombre
+   igual per cadascuna de les set parròquies i l'altra meitat s'elegeix en
+   circumscripció nacional.» **Cap exposició de motius no explica per què 28 i
+   no 42.**
+
+   **El que sí que apareix, comparant, és una asimetria que el corpus no
+   tenia.** **Els comuns sí que poden canviar la seva pròpia mida, i sols**
+   (article 64):
+
+   > «Els consells de comú estaran compostos per **entre deu i setze consellers
+   > de comú, sempre en nombre parell**. […] **podran modificar el nombre de
+   > consellers de comú dins els marges expressats**, sempre que la modificació
+   > **sigui aprovada per 2/3 parts dels seus membres**» i **amb un any
+   > d'antelació** a les eleccions següents.
+
+   **Una parròquia pot decidir per si mateixa quants consellers vol, dins d'una
+   forquilla, per majoria de dos terços.** **El Consell General no pot fer el
+   mateix**: **la seva xifra és a una llei qualificada de doble majoria**
+   ([les lleis qualificades](../../institucions/justicia/les-lleis-qualificades.md)),
+   i **canviar-la exigeix, a més de la majoria de la cambra, la majoria del
+   territori.**
+
+   **Això reformula el buit**: **la pregunta no és per què el legislador va
+   triar 28, sinó per què ningú no ha reunit mai la doble majoria per pujar-ne
+   el nombre**, **tenint la Constitució el marge obert des del 1993.**
+   `Requereix el debat parlamentari, que el corpus no té.`
 
 ## Related
 
