@@ -185,8 +185,22 @@ registra i no ho corregeix: **buit registrat**, a comprovar contra el BOPA.
    la consolidació, o una lletra suprimida en una modificació sense
    renumerar.** **El que sí que registra és que el text consolidat que circula
    té un forat**, i **que qui citi «l'article 41.7.j» estarà citant una lletra
-   que no hi és.** `Requereix el BOPA de publicació per saber de quina de les
-   tres es tracta.`
+   que no hi és.** **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+   **59 del 2024**, del 28 de maig
+   (`docs/raw/lleis/bopa/llei-6-2024-llengua-propia-i-oficial.txt`).
+   **De les tres hipòtesis, en queda una: l'errata és a la publicació oficial
+   mateixa.** **El BOPA imprimeix a) b) c) d) e) f) g) h) i) k) l)**, exactament
+   igual que el text consolidat. **No és cap defecte de la consolidació ni cap
+   lletra suprimida per una modificació posterior** —**la Llei 6/2024 no n'ha
+   tingut cap**—: **va sortir així el primer dia i ningú no ho ha corregit en
+   dos anys.**
+
+   **I el BOPA acredita que corregir-ho es fa, quan es vol**: la **llei de
+   llengua anterior, la del 1999**, **es va tornar a publicar sencera al març
+   del 2000 per una errata molt més petita** —«l'omissió dels guionets»—
+   (`docs/raw/lleis/bopa/correccio-errata-2000-llei-llengua.txt`). **Per uns
+   guionets es va reeditar tota la llei; per una lletra de la llista del Consell
+   Nacional per la Llengua, res.**
 6. ~~**Qui forma la comissió de toponímia** de l'article 15.~~ — **`resolt` el
    17-09-2026.** **La formen «representants del Govern i dels comuns i experts
    en la matèria»**, i **li correspon determinar la grafia dels noms oficials
