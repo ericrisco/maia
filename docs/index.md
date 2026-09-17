@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**999** documents · **206** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1000** documents · **206** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1437,6 +1437,7 @@
 | [El barem patrimonial i els ajuts](temes/societat/treball/el-barem-patrimonial-i-els-ajuts.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [El dret de vaga](temes/societat/treball/el-dret-de-vaga.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El salari mínim, de 362 pessetes a 9,05 euros](temes/societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa` |
 | [El sindicalisme](temes/societat/treball/el-sindicalisme.md) | `temes/societat/treball` | compilada | contemporania | no | `ubach-moviments-socials` |
 | [El Sindicat Andorrà de Treballadors](temes/societat/treball/el-sindicat-andorra-de-treballadors.md) | `temes/societat/treball` | compilada | contemporania | no | `wikipedia-sat-andorra` |
 | [La flexibilització de la desocupació el 2021](temes/societat/treball/la-flexibilitzacio-de-la-desocupacio-el-2021.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |

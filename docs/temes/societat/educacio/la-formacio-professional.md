@@ -248,7 +248,14 @@ volum expliquen com els pares trien sistema educatiu.
   > començat](../treball/lajut-per-la-feina-que-no-havia-comencat.md) —
   > **i no té la xifra sobre la qual es calculen.** **És, en nombre d'articles
   > afectats, el buit transversal més gran que aquesta auditoria ha trobat.**
-  > `Requereix font externa: el decret anual del salari mínim, o Estadística.`
+  > `Requereix font externa: el decret anual del salari mínim, o Estadística.` — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**, i **era tot al Butlletí des del primer número**: **seixanta-un
+decrets i edictes entre el 1989 i el 2026**. **La sèrie sencera és a
+[el salari mínim, de 362 pessetes a 9,05 euros](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md)**. **El vigent és de
+9,05 €/hora des de l'1 de juliol del 2026** —**1.568,67 € mensuals a jornada de
+quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
+del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
+amb una sola cerca.**
 - **Si el sector hoteler ha canviat de criteri** sobre la formació.
 - **Quantes noies** hi ha hagut a cada branca.
 

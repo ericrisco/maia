@@ -166,7 +166,14 @@ on **tretze anys després** el temporer segueix sent la peça central del sistem
    del 1989 ni de cap any. **El corpus té el salari mínim de Luxemburg i de
    Malta i no el d'Andorra**
    ([els petits estats comparats](../../institucions/petits-estats/els-petits-estats-comparats.md)).
-   `Requereix font externa: Estadística, o el decret anual del salari mínim.`
+   `Requereix font externa: Estadística, o el decret anual del salari mínim.` — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**, i **era tot al Butlletí des del primer número**: **seixanta-un
+decrets i edictes entre el 1989 i el 2026**. **La sèrie sencera és a
+[el salari mínim, de 362 pessetes a 9,05 euros](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md)**. **El vigent és de
+9,05 €/hora des de l'1 de juliol del 2026** —**1.568,67 € mensuals a jornada de
+quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
+del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
+amb una sola cerca.**
 2. **Quantes persones vivien en càmpings** i on. — **`obert`, confirmat, i el
    motiu és de font**: **Font ho dona com a denúncia, no com a recompte** —«fet
    que algunes vegades hem denunciat»—, **i el corpus no té cap altra ocurrència
