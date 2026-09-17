@@ -242,9 +242,59 @@ manera:**
    documental**: diu «potser» i «devien», i **no dona cap document que separi
    les dues figures**. **Segueix obert** quines eren originàriament, que la
    font no ho diu.
-3. **Les doleances dels habitants d'Andorra a les Corts de maig de 1364**, **en
-   una còpia millor que la que la font titlla de sospitosa.** **Prioritari**:
-   **és el text que dataria el sistema al segle XIV.**
+3. ~~**Les doleances dels habitants d'Andorra a les Corts de maig de 1364**, **en
+   una còpia millor que la que la font titlla de sospitosa.**~~ — **`resolt` el
+   17-09-2026, i no amb una còpia millor sinó amb l'original**: **ANA, ASC,
+   pergamí núm. 1.190**, dins les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md). **El text que
+   datava el sistema al segle XIV ja no depèn d'una transcripció sospitosa.**
+
+   **I la primera cosa que l'original corregeix és el nom del document.** **No
+   són doleances presentades a unes Corts**: **és una apel·lació —*appellatio*—
+   presentada el 2 i el 3 de maig de 1364 perquè la cort no existia aquell
+   dia.** Els síndics **Ramon Oliba, de Llorts, Guillem Ricard, de Canillo, i
+   Joan Torrens, de Pal**, van a l'hostal de Pere de la Mora d'Andorra, «*ubi
+   curia seu vicarii […] solent assidue hospitari et curiam tenere*», i
+   pregunten si els veguers hi són. **Els responen que no**: **que són absents
+   no ja de la parròquia, sinó de les valls d'Andorra.** **Llavors fan llegir
+   l'apel·lació davant dels rectors de les esglésies com a «persones públiques i
+   autèntiques»**, i **repeteixen l'acte a Encamp i a Canillo.**
+
+   **Els dos senyors són el bisbe d'Urgell i el comte de Foix**, i **pel comte
+   hi governa «nobili et potenti domina Elionore de Convenis, Dei gratia
+   comitissa Ffucxi»** —**Elionor de Comenge, comtessa, regint les Valls en lloc
+   del comte.**
+
+   **Les vuit greuges, que és el que el corpus volia:**
+
+   | | |
+   | --- | --- |
+   | **1** | Les disputes de veí a veí o de poble a poble sobre ***antipeu***, ***vieró*** o **tancament** **es resolen entre ells**, i la cort ara els castiga per fer-ho |
+   | **2** | Als **comunals** —«*qui consueverunt vocari in vulgari **los comunals***»— **qualsevol pot *apradar*, apropiar-se prat i regar-lo** en la quantitat que la majoria vulgui |
+   | **3** | **Qualsevol pot *aboygar* i *acortalar* el bestiar** als comunals, i **vendre o permutar els cortals fets**, «*licencia dominorum non petita*» |
+   | **4** | Les universitats poden **vendre pastures, fer carbó als boscos comunals i pactar amb gent de fora** l'extracció de fusta i bigues, **posant el preu al comú** |
+   | **5** | **Poden moure un camí públic de lloc** si els sembla que hi estaria millor, **jutjant-ho ells mateixos** |
+   | **6** | Els **jurats** poden **obligar sota jurament** cada particular **a dir la veritat del que té**, perquè la quèstia es taxi bé, **sense llicència dels senyors** |
+   | **7** | La cort ha posat **creus** als comunals **en senyal d'empara**, **sense citar ni escoltar ningú** |
+   | **8** | La cort ha **obligat tres o quatre homes de cada parròquia a jurar que espiarien i denunciarien** els delictes dels altres |
+
+   **El vuitè és el que té frase pròpia, i és una definició de com es trenca un
+   poble**: «*hec via est **materia seminandi dissenssiones inter habitatores**
+   dictarum Vallium, quod **unus vecinus alium habeat necessario accusare** ad
+   quod de iure non tenetur*» — **aquesta via és matèria de sembrar dissensions
+   entre els habitants, que un veí hagi d'acusar l'altre per força, a la qual
+   cosa no està obligat de dret.**
+
+   **El fil comú de les vuit és un de sol**: **cada greuge acaba dient que allò
+   es feia «sense demanar llicència als senyors» i que ara la cort ho
+   castiga.** **El que Andorra defensa el 1364 no és cap dret concret: és el
+   dret a no haver de demanar permís.**
+
+   **I una troballa col·lateral que el corpus registra aquí i porta a [el
+   saig](./el-saig.md)**: **el 1364 hi ha dos saigs alhora**, **Pere de l'Areny
+   pel comte de Foix** —a Encamp— **i Bernat Soler pel bisbe d'Urgell** —a
+   Canillo. **Vint-i-sis anys abans dels dos saigs del 1390, i amb un Areny
+   altra vegada al costat comtal.**
 4. **El manuscrit del senyor Palmitjavila** —**quarta tanda seguida**— i **el
    registre del segle XVI** amb el procés de pastura arbitrat pel Consell.
 5. **El *Politar*, pp. 243-244 i 251-252**, i **l'*Instructa* als batlles, pièce
@@ -256,8 +306,21 @@ manera:**
    i no ho explica.**
 8. **Fins on arriba la submissió voluntària** en aquesta jurisdicció: **quan
    jutja per imperi i quan per compromís de les parts.**
-9. **Què són ***antipeu*** i ***vicrono*** al text de 1364. — **`obert`, i el
-   16-09-2026 amb la via lexicogràfica descartada.** **`antipeu` no és al
+9. **Què són ***antipeu*** i ***vicrono*** al text de 1364. — **`parcial` el
+   17-09-2026: un dels dos mots no existia.** **L'original —ANA, ASC, pergamí
+   1.190— no diu *vicrono*: diu *vierono***, «*de antipeu vel de aliquo
+   **vierono** vel de aliqua clausura*». **La `hipòtesi de corrupció de còpia`
+   que aquesta fitxa mantenia queda confirmada per a aquest mot**, i **la forma
+   bona apunta a un *vieró***, **que en el veïnatge de *clausura* i del greuge
+   cinquè —moure un camí públic de lloc— es llegeix com un pas o camí
+   estret.** **El corpus dona la lectura del pergamí i no n'afirma la
+   definició.**
+
+   ***Antipeu*, en canvi, és al pergamí tal com el corpus el tenia**, i
+   **segueix sense sortir enlloc**: `Requereix una segona ocurrència
+   d'antipeu.` — **el que segueix és el registre de la via ja descartada.**
+
+   **`obert`, i el 16-09-2026 amb la via lexicogràfica descartada.** **`antipeu` no és al
    [DCVB](../../../fonts/dcvb.md) ni al [DIEC2](../../../fonts/diec2.md).**
    **Això reforça la hipòtesi que aquesta fitxa ja plantejava**: **que siguin
    corrupcions de còpia**, no mots. **El text que els conté és llatí de
