@@ -119,4 +119,10 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
   ([el que no et deixen veure](../../institucions/govern/el-que-no-et-deixen-veure.md)).
   **El corpus sap com s'amaga i no com es persegueix.**
   `Requereix font externa: el text de la LEVG.`
+
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: és la
+  **Llei 1/2015, del 15 de gener, per l'eradicació de la violència de gènere i
+  de la violència domèstica**, butlletí **12 del 2015**
+  (`docs/raw/lleis/bopa/llei-1-2015-violencia-de-genere.txt`). **La LEVG que la
+  font citava ja és al corpus.**
 - **Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.

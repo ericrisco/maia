@@ -86,4 +86,11 @@ donar dades veraces** (article 43.2).
   carrer.
 - **El percentatge de places d'aparcament reservades** és reglamentari: **no és
   al recull**.
+
+  **`parcial` el 17-09-2026**: **la Llei d'accessibilitat, del 6 d'abril del
+  1995, és al [BOPA](../../../fonts/bopa.md)**, butlletí **24 del 1995**
+  (`docs/raw/lleis/bopa/llei-1995-accessibilitat.txt`), **i el corpus ja la té
+  sencera.** **El percentatge concret segueix essent reglamentari** —el
+  desplega el **Reglament d'accessibilitat**, modificat per Decret de l'11-3-2014
+  (butlletí 21 del 2015)—, **i aquesta és la peça que encara falta.**
 - **Si la Comissió ha emès cap informe** des del 2025, no consta.

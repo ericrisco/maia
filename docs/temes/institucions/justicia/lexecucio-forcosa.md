@@ -145,8 +145,38 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   senyor batlle* de la *Instructa* del **1740**, amb els repartiments entre
   batlle, notari i nunci acte per acte
   ([una creu al prat, sis sous i sis diners](./una-creu-al-prat-sis-sous-i-sis-diners.md)).
-  **El buit d'avui segueix intacte**: entre aquell aranzel i el reglament que
-  desplega la Llei del saig **no hi ha cap peça.**
+  **El buit d'avui es tanca el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: el **Decret del 3-5-2016 d'aprovació del
+  Reglament regulador dels barems dels honoraris del saig**, butlletí **30 del
+  2016** (`docs/raw/lleis/bopa/decret-2016-barems-honoraris-saig.txt`).
+  **Entre l'aranzel del 1740 i avui ja hi ha la peça.**
+
+  **La provisió de fons és regressiva per trams**, i **la regressivitat és
+  brutal**: **de 0 a 50 €, quinze euros fixos** —**el 30% del deute**—;
+  **a partir d'un milió, 1.050 € més el 0,05%** —**el 0,1%**. **Executar un
+  deute petit costa, proporcionalment, gairebé tres-centes vegades més que executar-ne
+  un de gros.**
+
+  | Deute a executar | Provisió de fons |
+  | --- | --- |
+  | **De 0 a 50 €** | **15 €** |
+  | De 100,01 a 200 € | 20 € + 4% de l'escreix |
+  | De 1.000,01 a 2.000 € | 45 € + 0,90% |
+  | De 10.000,01 a 20.000 € | 150 € + 0,50% |
+  | De 100.000,01 a 200.000 € | 500 € + 0,20% |
+  | **A partir d'1.000.000,01 €** | **1.050 € + 0,05%** |
+
+  **I els honoraris sobre el que s'acaba cobrant tornen a ser regressius**:
+  **10% fins a 20.000 €**, **8% fins a 100.000**, **6% fins a 300.000**, **4%
+  fins a un milió** i **2% a partir d'aquí.**
+
+  **Dues reduccions del 30% que val la pena retenir**: **si l'alienació és per
+  adjudicació directa en comptes de subhasta**, i **en el supòsit de l'article
+  9.1**, amb **un sostre de 300 euros** en aquest segon cas.
+
+  **I una asimetria entre mobles i immobles**: per subhasta fins a 200.000 €,
+  **5% sobre mobles i 1,5% sobre immobles** —**els immobles paguen la tercera
+  part**.
 - **Quin és el salari mínim interprofessional** —la unitat sobre la qual descansa
   tota la protecció de l'article 8— **no és en aquestes lleis**.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
