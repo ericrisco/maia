@@ -81,9 +81,66 @@ donar dades veraces** (article 43.2).
 
 ## Buits registrats
 
-- **Els terminis d'adaptació** del que ja està construït —les disposicions
+- ~~**Els terminis d'adaptació** del que ja està construït —les disposicions
   transitòries— **no s'han llegit**, i són la part que decideix quan canvia el
-  carrer.
+  carrer.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+  butlletí del **9 de desembre del 2025**
+  (`docs/raw/lleis/bopa/llei-24-2025-accessibilitat-universal.txt`).
+
+  > **I per què no eren al corpus**: **la instantània consolidada de
+  > [jurisprudencia.ad](../../../fonts/jurisprudencia-ad.md) recull l'articulat
+  > i no les disposicions.** **Les transitòries, les finals i les derogatòries
+  > s'han d'anar a buscar al Butlletí.** **És una limitació de la font, no de la
+  > llei**, i val per a tot el recull.
+
+  **La resposta a «quan canvia el carrer» és un encadenament de terminis, no una
+  data**, i **el rellotge no comença amb la llei:**
+
+  | Fita | Termini | Des de |
+  | --- | --- | --- |
+  | **Reglament de la Comissió per al Foment de l'Accessibilitat** | **3 mesos** | entrada en vigor de la Llei |
+  | **Reglament de condicions d'accessibilitat**, amb procés participatiu | **1 any** | entrada en vigor de la Llei |
+  | **Reglament dels distintius de qualitat** | **1 any** | entrada en vigor de la Llei |
+  | **Elaborar i registrar els plans d'accessibilitat** (Govern, comuns i entitats privades) | **3 anys** | **aprovació de la modificació del reglament** |
+  | **Executar les actuacions previstes als plans** | **7 anys** | **registre del pla** |
+
+  **Sumat pel camí llarg, l'última obra obligatòria pot arribar onze anys
+  després de la llei**: un any fins al reglament, tres fins al pla, set fins a
+  l'execució. **La llei és del 13 de novembre del 2025.**
+
+  **Els dos primers terminis ja s'han complert.** **El Decret 211/2026, del
+  3-6-2026, aprova el Reglament de la Comissió per al Foment de
+  l'Accessibilitat**, i **el 2026 el Butlletí en publica la designa de
+  representants i la composició** (edictes del 29-6-2026 i del 22-7-2026).
+
+  **Mentrestant, el que s'aplica és el reglament vell** (disposició transitòria
+  primera): **«mentre el Govern no desenvolupi reglamentàriament aquesta Llei,
+  és aplicable el Reglament de la Llei d'accessibilitat, del 31 de maig de
+  1995».** **Una llei del 2025 que funciona amb el reglament del 1995.**
+
+  **I hi ha una excepció que val la pena registrar** (disposició transitòria
+  segona): **les llicències de rehabilitació o reforma atorgades a l'empara de
+  la disposició transitòria sisena de la Llei 5/2025 de creixement sostenible i
+  habitatge queden fora del règim de l'article 15.** **Quan xoquen l'objectiu
+  d'habitatge i el d'accessibilitat, guanya el d'habitatge**
+  ([els habitatges buits](../habitatge/els-habitatges-buits.md)).
+
+  **Dues coses més de les disposicions, que no són terminis però decideixen
+  qui paga i qui mana:**
+
+  - **El Govern ha de publicar, alhora que el reglament, un sistema d'ajuts,
+    subvencions i incentius fiscals per a les empreses que s'hagin d'adaptar**,
+    amb **desgravacions fiscals per inversió en accessibilitat i línies de
+    finançament preferencial** (disposició addicional segona).
+  - **Es crea un sistema de representació del sector empresarial** perquè
+    participi en l'elaboració dels reglaments que els imposin càrregues
+    (disposició addicional tercera). **Els obligats tenen seient on es
+    concreta l'obligació.**
+
+  **La llei toca sis normes més** —arrendaments urbans, ordenació del territori,
+  els codis de procediment civil, penal i administratiu—, i **només una
+  disposició té caràcter de llei qualificada**: **la que modifica el Codi de
+  procediment penal** (disposició final novena). **La resta és llei ordinària.**
 - **El percentatge de places d'aparcament reservades** és reglamentari: **no és
   al recull**.
 

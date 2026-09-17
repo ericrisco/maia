@@ -87,6 +87,32 @@ salt de línia**. Es va reescriure i es va tornar a baixar tot el **2026-09-12**
 **Queda escrit perquè és el tipus d'error que no crida l'atenció**: un corpus
 amb un terç dels articles buits pesa i s'indexa com un corpus sencer.
 
+## El que aquesta font no porta: les disposicions
+
+**Mesurat el 17-09-2026, i és una limitació estructural, no un defecte de
+descàrrega.** **La instantània recull l'articulat de cada llei i sovint no les
+disposicions que l'acompanyen**: **transitòries, addicionals, derogatòries i
+finals.**
+
+**De les 104 normes del recull, 77 no en tenen cap.**
+
+**Això no és un detall de format**, perquè **és exactament on viuen quatre coses
+que el corpus necessita:**
+
+- **l'entrada en vigor** —una llei publicada pot no ser vigent
+  ([les penes del Codi Penal](../temes/institucions/justicia/les-penes-del-codi-penal.md),
+  amb un codi nou que entra en vigor quatre mesos després de publicar-se);
+- **els terminis d'adaptació**, que decideixen quan una obligació és exigible
+  ([arribar a tot arreu](../temes/societat/vida-civica/arribar-a-tot-arreu.md),
+  on l'última obra obligatòria pot arribar onze anys després de la llei);
+- **què deroga**, i per tant quina norma anterior ja no compta;
+- **quines altres lleis modifica de passada**, que és com el dret andorrà es
+  toca a si mateix sense canviar de títol.
+
+**La regla operativa que en surt**: **per a qualsevol afirmació sobre vigència,
+terminis o derogacions, la instantània no és suficient i cal el
+[BOPA](./bopa.md).** **Per al contingut dels articles, sí que ho és.**
+
 ## Advertiment d'ús
 
 Aquesta font **descriu dret vigent**, i això la fa diferent de totes les altres
