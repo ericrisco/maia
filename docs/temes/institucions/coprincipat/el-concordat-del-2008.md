@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: serra-vatica-microestat
-timestamp: 2026-09-17T21:30:00Z
+timestamp: 2026-09-18T00:30:00Z
 tags: [institucions, coprincipat, religio, dret, relacions-exteriors]
 ---
 
@@ -123,17 +123,31 @@ diplomàtic andorrà.** El corpus no en treu conclusió: **enuncia que la tensi�
 està escrita a la mateixa Constitució i que qui la va assenyalar és un
 representant de l'Estat.**
 
-## El que diu el Concordat, article per article
+## El text del Concordat, llegit
 
-**El text literal segueix sense llegir-se** —és al BOPA núm. 47— **però el
-contingut ja no és desconegut.** El corpus l'ha reconstruït des d'un
-[informe acadèmic](../../../fonts/icnl-religio-estat-andorra.md) que el
-descriu article per article.
+**Llegit el 17-09-2026 al [BOPA](../../../fonts/bopa.md)**, número **47** de
+l'any 2008, document `5472E`
+(`docs/raw/relacions-exteriors/concordat-2008/`). **Setze articles en sis
+parts.**
 
-**Signat el 17 de març del 2008** i **publicat al BOPA l'11 de juny**.
-**Preàmbul i setze articles, en sis parts**: el bisbe d'Urgell, l'estatut
-jurídic de l'Església, el matrimoni canònic, l'ensenyament religiós i el règim
-econòmic.
+### Les dues dates, que no es contradiuen
+
+**El corpus havia registrat una discrepància entre fonts i no n'hi ha cap.**
+**El document en porta les dues i cadascuna és una cosa diferent:**
+
+| | |
+| --- | --- |
+| **17 de març del 2008** | **Signatura**, a **Ciutat del Vaticà**, per **Albert Pintat**, cap de Govern, i el **cardenal Tarcisio Bertone**, secretari d'Estat. *«Fet en dos originals.»* |
+| **15 de maig del 2008** | **Ratificació pel Consell General**, a **Casa de la Vall**, signada pel síndic general **Joan Gabriel i Estany** |
+| **10 de juny del 2008** | **Publicació al BOPA** núm. 47 |
+| **L'endemà de l'intercanvi d'instruments** | **Entrada en vigor** (article XVI) |
+
+**I una data d'origen que el corpus no tenia**: el preàmbul diu **«Vistes les
+negociacions iniciades l'any 1998»**. **Deu anys de negociació.**
+
+**El publiquen els dos coprínceps** —**Nicolas Sarkozy** i **Joan Enric Vives
+Sicília**— amb la fórmula: *«Nosaltres els coprínceps manifestem el consentiment
+de l'Estat per obligar a través d'ell.»*
 
 | Article | Què estableix |
 | --- | --- |
@@ -141,12 +155,36 @@ econòmic.
 | **Article 2** | **La Santa Seu ha de comunicar el nom del bisbe designat al Govern d'Andorra ABANS de nomenar-lo** |
 | **Article IV** | Reconeix a l'Església el dret a **dur a terme la seva missió apostòlica** i li garanteix l'**exercici lliure i públic**; dona a la Santa Seu el dret de **crear, modificar o suprimir ordes, congregacions i institucions eclesiàstiques**, de **comunicar-s'hi lliurement** i de **publicar i difondre** el que les governa |
 | **Article IV, secció 2** | **I el límit**: les manifestacions públiques i socials del catolicisme queden **subjectes a les disposicions de seguretat, ordre públic, salut i als drets fonamentals dels altres** |
-| **Article XI, 3 a)** | **Obliga TOTS els centres educatius a ensenyar catolicisme** |
+| **Article XI, 3 a)** | **Durant tota l'educació bàsica, els centres «han d'oferir l'ensenyament de la religió catòlica dins de l'horari escolar»**, i **«aquest ensenyament és d'opció voluntària per als alumnes»**. **L'Autoritat eclesiàstica autoritza els docents i fixa els continguts i els llibres** |
 
-**L'article 2 és menys del que sembla i el corpus ho vol dir amb precisió.**
-**No és un dret de veto.** És un **avís previ**: el Govern pot fer objeccions
-d'ordre polític, i **la decisió final correspon enterament a la Santa Seu.**
-**Andorra és informada, no consultada.**
+**L'article II és menys del que sembla i ara es pot dir amb el text davant.**
+**No és un dret de veto ni una consulta**: *«El nomenament del Bisbe d'Urgell és
+de la competència exclusiva de la Santa Seu. **Abans de nomenar-lo, la Santa Seu
+notificarà el nom del designat al Govern andorrà.** L'anunci del nomenament es
+farà simultàniament al Vaticà i a Andorra la Vella.»* **Notificarà. No
+consultarà.** **Andorra s'assabenta abans que ningú i no hi té veu.**
+
+### Els articles que el corpus no tenia de cap manera
+
+| Article | Què estableix |
+| --- | --- |
+| **V** | **Els llocs de culte són inviolables** i **no poden ser enderrocats sense ser privats prèviament del seu caràcter sagrat.** **L'Estat protegeix la inviolabilitat dels arxius i registres dipositats a les parròquies** |
+| **VI** | L'Església proveirà **assistència religiosa** a internats en presons, hospitals i sanatoris que ho desitgin |
+| **VII** | **Nou dies festius reconeguts**: 1 i 6 de gener, Divendres Sant, Pasqua, 15 d'agost, **8 de setembre (Meritxell, patrona)**, 1 de novembre, 8 i 25 de desembre |
+| **VIII** | **S'atorga la nacionalitat andorrana als sacerdots amb ofici eclesiàstic**, **mentre exerceixin les seves funcions** |
+| **IX-X** | **Efectes civils al matrimoni canònic** des de la celebració; el rector lliura l'acta al Registre Civil **en cinc dies**; les **nul·litats dels tribunals eclesiàstics** tenen plena eficàcia civil a petició de part |
+| **XII-XIII** | Dret a **col·lectes públiques**; **exempció tributària** llevat dels **impostos indirectes**, i **cap exempció per a activitats lucratives** |
+| **XIV** | **L'Estat mantindrà «la seva col·laboració secular i tradicional» en el sosteniment econòmic de l'Església** |
+| **XV** | **Comissió paritària** Santa Seu-Govern per a divergències |
+| **XVI** | **Els textos català i italià són igualment fefaents** |
+
+**L'article VIII és el que el corpus vol subratllar**: **la nacionalitat
+andorrana atorgada per raó de l'ofici i limitada a la seva durada.** **No és una
+naturalització: és un atribut del càrrec.**
+
+**I l'article XIV és el que queda més obert del tractat**: **«la col·laboració
+secular i tradicional»** no es quantifica enlloc. `Requereix saber què és,
+en euros, aquesta col·laboració.`
 
 ## El recurs que el Concordat va rebre, i com va acabar
 
@@ -194,13 +232,14 @@ altres, per registre.**
 
 ## Buits registrats
 
-- **El text del Concordat del 2008** (BOPA núm. 47, 11.6.2008). — **`parcial`
-  el 17-09-2026**: **el text literal segueix sense llegir-se**, però
-  **l'estructura i cinc articles ja són al cos d'aquest article**, des d'un
-  [informe acadèmic](../../../fonts/icnl-religio-estat-andorra.md). **Setze
-  articles en sis parts**, i **l'article 2, el IV i el XI.3.a) amb el seu
-  contingut.** `Requereix el BOPA núm. 47 per al text literal i per als onze
-  articles que segueixen sense descriure's.`
+- ~~**El text del Concordat del 2008** (BOPA núm. 47).~~ — **`resolt` el
+  17-09-2026**, i **el camí val tant com el text**: **l'API del
+  [BOPA](../../../fonts/bopa.md) respon sense clau ni permís.** El document
+  `5472E` del butlletí **47 del 2008** és **el tractat sencer, setze articles**,
+  i és a `docs/raw/relacions-exteriors/concordat-2008/`. **Els onze articles que
+  no es coneixien són ara al cos d'aquest article**, i **la discrepància de
+  dates que el corpus registrava no existia**: 17 de març signatura, 15 de maig
+  ratificació.
 - **La sentència del Tribunal Constitucional del 4 de setembre del 2008** sobre
   l'article XI.3.a). **Nova al corpus, i se'n coneix el sentit i les dues
   excepcions, no el text.** `Requereix el BOPA o el portal del Tribunal.`
