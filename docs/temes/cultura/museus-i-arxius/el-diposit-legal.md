@@ -131,6 +131,30 @@ obligació**, si el que produeix és publicació.
 - **La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
   amb quin abast, no es diu enlloc del text.
 - **Les sancions** i el règim d'inspecció no s'han llegit.
-- **La [Llei 9/2003 del patrimoni cultural](../../institucions/justicia/el-dret-vigent.md)**
+- ~~**La [Llei 9/2003 del patrimoni cultural](../../institucions/justicia/el-dret-vigent.md)**
   (43 articles), que regula arxius, biblioteques i museus al seu capítol quart,
-  és al recull i **queda per llegir**.
+  és al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**, llegida al
+  [BOPA](../../../fonts/bopa.md), butlletí **55 del 2003**
+  (`docs/raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt`). **El capítol quart
+  són quatre articles i el que hi ha és més prim del que el nom promet.**
+
+  | Article | Què fa |
+  | --- | --- |
+  | **31** | **Defineix arxiu** —tant el conjunt de documents com la institució— i **dona les funcions de l'Arxiu Nacional**: recollir, conservar i difondre la documentació de l'Estat, **i «la documentació rellevant relacionada amb Andorra i amb la seva història»**, **donar suport tècnic a la resta d'arxius** i **vetllar per la conservació del patrimoni documental**. **I remet l'accés a «una regulació específica»** |
+  | **32** | **La Biblioteca Nacional** recull, conserva i difon **la producció bibliogràfica d'Andorra i la relacionada amb el Principat**. **Són d'accés públic els fons de titularitat pública i els de les biblioteques privades que rebin ajuts**; **la consulta es pot denegar transitòriament pel mal estat de conservació** |
+  | **33** | **Defineix museu** i diu que **és el ministeri de cultura qui determina quines institucions ho són** |
+  | **34** | **Les condicions les fixa un reglament del Govern**, i **el ministeri les inspecciona** |
+
+  **Tres coses que val la pena retenir.** **Que rebre un ajut públic converteix
+  una biblioteca privada en biblioteca d'ús públic** —**la subvenció obre la
+  porta**, igual que a
+  [la llei de transparència](../../institucions/govern/la-llei-de-transparencia.md).
+  **Que ser museu no depèn del que faci la institució sinó d'una decisió del
+  ministeri.** **I que l'accés a l'Arxiu Nacional la llei no el regula: el
+  remet**, que és exactament el buit que el corpus ja tenia obert a
+  [sèries senceres, no](./series-senceres-no.md).
+
+  **I el preàmbul dona la cadena normativa anterior, que el corpus no tenia**:
+  **les ordinacions del 13 de juliol de 1964, del 4 de juny de 1970 i del 5 de
+  juliol de 1988**, i **la Llei de protecció del patrimoni cultural-natural del
+  9 de novembre de 1983**. `Requereix aquells quatre textos.`
