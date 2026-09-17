@@ -123,7 +123,48 @@ frase de llei vigent**, no d'un llibre de folklore.
 2. **Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
    parròquies, set normes**, i el corpus no n'ha vist cap.
 3. **Quantes persones el formen** avui, per parròquia.
-4. **Quan s'ha mobilitzat** i per què. **Cap cas documentat al corpus.**
+4. **Quan s'ha mobilitzat** i per què. ~~**Cap cas documentat al corpus.**~~ —
+   **`parcial` el 17-09-2026: ara en té un, i és un cas de negativa.** Font: les
+   [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) *(ANA, TC, núm.
+   7.860)*.
+
+   **El 13 de juny de 1463**, **Pere Rusca, lloctinent del veguer comtal**, mana
+   al Consell que li tingui a punt **«serta quantitat d'òmens que fosen prets amb
+   lur[s] armes la on els volguesen»** — **homes armats allà on ells vulguin.**
+   **El Consell, reunit a vista general, respon que sí i que no**, i **la
+   distinció és tota la doctrina**:
+
+   > «que ells **són prets he aparelyats de fer tot so que sien tenguts ni
+   > obbligats al[s] senyós** tan quom toque de la quantitat de la gent que
+   > demane la Tera, e que·ls són **prets he aparelyats de seguir dins** he los
+   > altros, **tant quom toque, defora**».
+
+   **Dins, tot; fora, el que toqui.** **I la raó que en donen és una descripció
+   del país que val per ella mateixa:**
+
+   > «atenent que **som poqua gent** he **la Tera sense neguna muràlya ni castel
+   > que·ns púguam retraure** sinó tant quom **la temor del senyor he la gent de
+   > la val la goarde**. He **som en frontera dels enemichs**, he quom **som
+   > estats quoreguts he presos en algunes parts**…»
+
+   **Un país sense muralla ni castell, guardat només per la por que fa el senyor
+   i per la gent que hi viu.** **Si aquella gent surt, no queda res.**
+
+   **I acaben apel·lant**: «los dits quònsols he quonselyés **se apelen de tots
+   manaments posats he enposadós per aquela quausa al[s] senyós de les Vals**»
+   — **no desobeeixen: recorren al senyor contra l'oficial del senyor**, que és
+   la mateixa maniobra del [1364](../justicia/si-nomes-volien-ballar-era-un-altre-tribunal.md)
+   i del [1390](../justicia/el-saig.md).
+
+   **L'endemà, 14 de juny, a la plaça de la Mosquera**, els cònsols hi van a
+   presentar-li la cèdula en persona, **i el lloctinent en demana còpia i
+   protesta «de omnibus dampnis, scandalis et sinistris propter eorum
+   inhobedienciam»** — **de tots els danys que la seva desobediència pugui
+   causar.** **El document es tanca sense que consti com va acabar.**
+
+   `Requereix un cas de mobilització efectiva; el que el corpus té és el cas
+   d'una que no es va fer.`
 5. **«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
    [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md). —
    **`parcial` des del 16-09-2026: l'ofici sí, el mot no.** El **capítol VII del
