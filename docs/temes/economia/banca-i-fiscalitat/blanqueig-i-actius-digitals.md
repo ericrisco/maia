@@ -87,9 +87,55 @@ supervisor queda dins de la llei, no fora.**
 - **Si l'AndorraDex existeix**, si s'ha emès mai un DDSP i quantes empreses
   d'actius digitals hi ha registrades, **no consta**. La llei crea el marc; el
   corpus no té cap dada del que s'hi ha construït.
-- **Les obligacions concretes** de diligència deguda, comunicació d'operacions
+- ~~**Les obligacions concretes** de diligència deguda, comunicació d'operacions
   sospitoses i conservació de documents (el gruix dels 94 articles de la llei de
-  blanqueig) **no s'han llegit**.
+  blanqueig) **no s'han llegit**.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/blanqueig.txt`, **Llei 14/2017**, articles 8 a 37).
+
+  **La diligència deguda s'activa per llindars, i el llindar depèn de qui la
+  fa** (article 8):
+
+  | Situació | Llindar |
+  | --- | --- |
+  | **Establir una relació de negocis** | **sempre** |
+  | Operació ocasional | **15.000 €** |
+  | **Transferència de fons** | **1.000 €** |
+  | **Comerciants, en efectiu** | **10.000 €** |
+  | **Casinos i proveïdors de joc**, en cobrar guanys o fer apostes | **2.000 €** |
+  | **Sospita de blanqueig o finançament del terrorisme** | **sense cap llindar ni excepció** |
+  | Dubtes sobre les dades d'identificació ja obtingudes | sempre |
+
+  **I els llindars es miren en conjunt**: compten «en una operació o en
+  diverses operacions entre les quals sembli existir algun tipus de relació»
+  —**fraccionar no serveix.**
+
+  **Què inclou la diligència deguda** (article 9.1): **identificar el client i
+  verificar-ho amb fonts fiables i independents**; **identificar el beneficiari
+  efectiu** i, per a persones jurídiques, fideïcomisos, societats i fundacions,
+  **«comprendre l'estructura de propietat i control del client»**; i
+  **avaluar i entendre «el propòsit i l'índole prevista de la relació de
+  negocis»**. **Quan el beneficiari efectiu identificat acaba sent el conseller
+  delegat** —perquè no s'ha pogut arribar a ningú més— **cal consignar al
+  registre les mesures preses i «qualsevol dificultat trobada»**: **la llei
+  obliga a deixar escrit que no s'ha pogut saber.**
+
+  **L'obligació del beneficiari efectiu és de tres bandes** (article 19): **les
+  societats andorranes l'han d'obtenir i conservar**, **els beneficiaris
+  efectius l'han de subministrar a la societat**, i **els registres de
+  societats, associacions i fundacions l'han d'exigir i mantenir actualitzada**.
+  **La UIFAND i les altres autoritats hi poden accedir «en qualsevol moment».**
+
+  **La conservació és de cinc anys** des del final de la relació de negocis o
+  des de l'operació ocasional (article 37.1), **i inclou la identitat, la
+  naturalesa i la data de la transacció, l'origen dels fons, la divisa,
+  l'import i el propòsit de la relació**. **La UIFAND pot allargar-ho «de
+  manera individual i motivada» fins a cinc anys més.**
+
+  **I una regla que capgira el defecte de la informació** (article 33): per al
+  prestador de serveis de pagament del beneficiari, **la manca d'informació
+  sobre l'ordenant o el beneficiari, o que sigui incompleta, «constitueixen
+  factors per avaluar si la transferència […] resulta sospitosa»**. **No saber
+  qui hi ha a l'altra punta és, en si mateix, un indici.**
 - **La UIFAND** —Unitat d'Intel·ligència Financera— apareix citada per altres
   lleis del recull però **no té fitxa al corpus** ni llei pròpia entre les 104.
 - ~~**Les zones franques** andorranes, que la llei de blanqueig dona per
