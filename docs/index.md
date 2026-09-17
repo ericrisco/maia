@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1000** documents · **206** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1000** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1695,6 +1695,7 @@
 | [`fiba-andorra-basquet-2014`](fonts/fiba-andorra-basquet-2014.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra · MaltaToday | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`fis-ski`](fonts/fis-ski.md) | International Ski and Snowboard Federation (FIS) | Tots els drets reservats. Sense llicència d'ús. Prohibició expressa de scraping. | False |
 | [`fis-ski-db`](fonts/fis-ski-db.md) | Fédération Internationale de Ski et de Snowboard (FIS) | Sense llicència oberta. El peu de pàgina declara «Copyright © FIS. All rights reserved.» | False |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`frases-educadors-esportius`](fonts/frases-educadors-esportius.md) | Pere Frases i Homedes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1796,6 +1797,7 @@
 | [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikidata`](fonts/wikidata.md) | Wikimedia Foundation · comunitat de Wikidata | CC0 1.0 (domini públic) | si |
 | [`wikipedia-aeroport-andorra`](fonts/wikipedia-aeroport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-aiguats-1982`](fonts/wikipedia-aiguats-1982.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-andosins`](fonts/wikipedia-andosins.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

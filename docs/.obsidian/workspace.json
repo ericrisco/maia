@@ -184,6 +184,8 @@
   },
   "active": "3d8656069610fbc6",
   "lastOpenFiles": [
+    "fonts/wikidata.md",
+    "fonts/fis-ski.md",
     "raw/lleis/bopa/pressupostos-comunals-2026/6.txt",
     "raw/lleis/bopa/pressupostos-comunals-2026/5.txt",
     "raw/lleis/bopa/pressupostos-comunals-2026/4.txt",
@@ -194,7 +196,6 @@
     "raw/lleis/bopa/pressupostos-comunals-2026",
     "raw/lleis/bopa/edicte-2015-constitucio-craj.txt",
     "raw/lleis/bopa/edicte-2026-llicencies-joc.txt",
-    "raw/lleis/bopa/edicte-fundacions-2012-08-28.txt",
     "temes/societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md",
     "fonts/actes-historiques-consell-general.md",
     "raw/politica/donacions-partits/README.md",
@@ -229,7 +230,6 @@
     "temes/llengua/contacte-de-llengues/un-de-cada-cinc-no-sabia-quina-era-la-llengua-oficial.md",
     "temes/societat/immigracio/a-la-segona-convocatoria-no-a-la-primera.md",
     "temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md",
-    "fonts/margarit-monne-joves-i-llengues-2010.md",
     "Sense títol.canvas"
   ]
 }

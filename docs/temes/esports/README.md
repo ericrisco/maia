@@ -90,6 +90,46 @@ Gairebé tot. El corpus **no té res** sobre:
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.
 
+## La via que tancaria dos-cents buits d'aquesta branca, i per què està tancada
+
+**Escrit el 17-09-2026, després de comprovar-ho.**
+
+**Aquesta branca té més de dues-centes preguntes obertes de la mateixa forma**:
+quins resultats va fer, quantes Copes del Món, quins campionats, quins partits,
+quina marca. **El bolcat de la Viquipèdia amb què es van fer les fitxes és una
+instantània curta, i el corpus ja havia registrat que aquests buits «no es
+tanquen destil·lant millor: es tanquen amb una font nova».**
+
+**S'ha anat a buscar la font nova. Existeix, se sap on és, i no es pot fer
+servir.**
+
+| Font | Què tindria | Drets |
+| --- | --- | --- |
+| **[FIS](../../fonts/fis-ski.md)** — biografies d'atleta | **els resultats cursa a cursa** de tots els esquiadors | **tots els drets reservats**; **prohibició expressa de scraping** |
+| **Olympedia** | resultats olímpics complets | **© OlyMADMen**, sense llicència declarada |
+| **olympics.com** | fitxes d'atleta del COI | drets del COI |
+| **[Viquipèdia](../../fonts/wikipedia-esquiadors-andorrans.md)** | esquelet biogràfic; taules només per a quatre o cinc | **CC BY-SA 4.0** — ja explotada |
+| **[Wikidata](../../fonts/wikidata.md)** | identificadors, dates, participacions | **CC0** — **l'única plenament reutilitzable**, i **no té els resultats** |
+
+**Els termes de la FIS, textuals**: «**No commercial reproduction, adaptation,
+distribution or transmission of any part or parts of this Website or any
+information contained, herein by any means whatsoever is permitted without the
+prior written permission of FIS**» i «**You may not scrape the content on this
+Website**», amb *scraping* definit com «*extracting data from this Website via
+an automated process, such as a bot or web crawler*».
+
+**Què vol dir això per a l'estat dels buits.** **Deixen de ser buits de recerca
+i passen a ser buits de permís.** **No cal tornar-hi a buscar**: **cal
+demanar-ho.** **Una petició escrita a la FIS és la mateixa mena de gestió que
+les cartes als arxius que el projecte té pendents**, i **desbloquejaria més
+fitxes que cap altra cosa d'aquesta branca.**
+
+**El que sí que s'ha fet mentrestant**: **consultar-ne una com a lector, per
+saber què hi ha.** **La de [Nahum Orobitg](./esqui/esquiadors/nahum-orobitg.md)
+dona dues dades que el corpus no tenia i, alhora, no dona una que el corpus sí
+que té.** **Cap de les bases és completa**, de manera que **el dia que hi hagi
+permís caldrà creuar-les, no substituir-ne una per l'altra.**
+
 ## Related
 
 - [Els Jocs dels Petits Estats d'Europa](./competicio/els-jocs-dels-petits-estats.md) — on Andorra competeix amb els seus iguals.

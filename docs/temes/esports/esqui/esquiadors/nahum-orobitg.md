@@ -42,8 +42,42 @@ de les dues dones, de qui la font no dona resultats.
 - **On va néixer.** La font deixa el camp buit. — **`obert`, confirmat llegint
   l'infobox sencer**: **no hi ha camp `birth_place`.** **Data: 18 de novembre
   del 1971.**
+  - **Comprovat el 17-09-2026 contra una segona base independent**:
+    **[Wikidata](../../../../fonts/wikidata.md) (element Q11789232) tampoc no
+    en té el lloc de naixement** —la propietat P19 hi és absent—, **i sí que hi
+    ha la data, el sexe, la nacionalitat, l'esport, les dues participacions
+    olímpiques i els identificadors de la FIS i d'Olympedia.** **No és, doncs,
+    una dada perduda en una transcripció: no està publicada a cap de les
+    dues.**
 - **Copes del Món, campionats del món, campionats d'Andorra**: cap dada. —
-  **`obert`, confirmat**: **el bolcat és d'una línia.**
+  **`parcial` el 17-09-2026, i el que impedeix tancar-lo del tot no és la
+  ignorància sinó els drets.**
+
+  **La base que ho respondria és la [FIS](../../../../fonts/fis-ski.md)**, i
+  **una consulta puntual de la seva biografia d'atleta (competitorid 45345)
+  dona dues dades que aquesta fitxa no tenia:**
+
+  | Data | Lloc | Prova | Competició | Resultat |
+  | --- | --- | --- | --- | --- |
+  | **22-03-1990** | **Zinal (Suïssa)** | **Súper-G** | **Campionats del món júnior de la FIS** | **40è** |
+  | **27-02-1988** | Calgary | Eslàlom | Jocs Olímpics | **no surt (DNS)** |
+
+  **Dues coses que això canvia.** **La primera: a Calgary no va fer una sola
+  prova sinó dues**, i **de la segona no va arribar a sortir.** **La segona: té
+  una participació internacional fora dels Jocs**, uns campionats del món
+  júnior, **que cap font del corpus no recollia.**
+
+  **I una tercera, de mètode**: **la fitxa de la FIS no inclou el súper-G de
+  Calgary que el corpus sí que té per la Viquipèdia.** **Cap de les dues bases
+  és completa, i el corpus les ha de creuar en comptes de triar-ne una.**
+
+  **Per què segueix obert**: **els termes d'ús de la FIS prohibeixen
+  expressament el buidatge automatitzat i la redistribució sense permís
+  escrit** ([la fitxa de font ho recull verbatim](../../../../fonts/fis-ski.md)).
+  **El corpus hi ha entrat un cop, com a lector, per saber què hi havia; no en
+  farà el buidatge sistemàtic que tancaria aquest buit i els dos-cents que se
+  li assemblen.** `Requereix permís escrit de la FIS, o una font de resultats
+  amb llicència reutilitzable.`
 - **Per què només dos Jocs**, quan els seus companys de generació en van fer
   quatre. — **`obert`, confirmat, i el contrast es pot datar**: **ell va fer el
   1988 i el 1992**, mentre que **[Victor Gómez](./victor-gomez.md) i
