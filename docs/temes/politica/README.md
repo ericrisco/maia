@@ -30,7 +30,7 @@ escrites per gent que l'ha exercit:
 | **Domènec Bascompte i Grau** | historiador i **arxiver del Comú de Canillo** |
 | **Pere Cavero i Muñoz** | cap de la secció d'Història de la SAC |
 | **Antoni Morell i Mora**, **Albert Villaró i Boix** | escriptors |
-| **Joan-Enric Vives i Sicília** | **Copríncep Episcopal** |
+| **Joan-Enric Vives i Sicília** | **Copríncep Episcopal** *(ho era el dia de la Diada; el relleu és del 2025)* |
 
 **Un país sencer parlant del seu parlament, el mateix dia.** El corpus no té cap
 altra font amb aquesta densitat d'actors de primera mà, i **això vol dir que

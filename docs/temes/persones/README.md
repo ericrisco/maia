@@ -102,7 +102,8 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Josep Caixal** | Bisbe que **aprova la Nova Reforma**, 1866 — i que hi estava **en contra**: **afiliat a la causa carlina**, «negava categòricament el progrés» | [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md) · **biografia encara buida** |
 | **Joan Benlloch i Vivó** | Copríncep; **escriu el text de l'himne**, 1914. Té **monument a Andorra la Vella des del 1966**, de Josep Viladomat | [l'escultor](../cultura/arts-visuals/josep-viladomat.md) |
 | **Simeón de Guinda y Apeztegui** | Copríncep del **1714**, «es reconeix amb els andorrans com a diferent dels espanyols i francesos» | **buit** |
-| **Joan-Enric Vives i Sicília** | Copríncep Episcopal | **buit** |
+| **Joan-Enric Vives i Sicília** | Copríncep Episcopal **fins al 2025** | **buit** |
+| **Josep-Lluís Serrano Pentinat** | **Bisbe d'Urgell i Copríncep Episcopal des del 2025** | **buit** |
 | **Joan I, comte de Foix** | Copríncep que **ratifica el 1419** | **buit** |
 | **Francisco Catalán de Ocón** | Bisbe de **la crisi del 1762** | **buit** |
 

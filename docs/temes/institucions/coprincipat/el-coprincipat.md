@@ -156,6 +156,29 @@ Es diu «el copríncep», no «el príncep». I n'hi ha dos, sempre, alhora, mai
 Qui ve de fora tendeix a buscar quin dels dos mana de veritat, i la pregunta no
 té resposta perquè està mal feta: manen tots dos o no mana cap.
 
+## El relleu episcopal del 2025, datat pel Butlletí
+
+**Afegit el 17-09-2026.** **El corpus tenia Joan-Enric Vives i Sicília com a
+copríncep episcopal i no tenia el relleu.** **El [BOPA](../../../fonts/bopa.md)
+el data sense necessitat de cap altra font**, perquè **cada llei sancionada
+porta els noms dels dos coprínceps al peu**:
+
+| Signatura | Document | Publicat |
+| --- | --- | --- |
+| **Darrera de Joan Enric Vives Sicília** | **Llei 10/2025, del 13 de maig, del Codi de Duana** | 03-06-2025 |
+| **Primera de Josep-Lluís Serrano Pentinat** | **Decret 211/2025, de l'11 de juny, d'atorgament de la Creu dels Set Braços** | 17-06-2025 |
+
+**El relleu, doncs, és entre el 13 de maig i l'11 de juny del 2025.** **El
+copríncep episcopal d'Andorra és avui Josep-Lluís Serrano Pentinat, bisbe
+d'Urgell**, i **signa amb Emmanuel Macron** —per exemple, **el Codi penal del
+15 de juliol del 2026**
+([les penes del Codi Penal](../justicia/les-penes-del-codi-penal.md)).
+
+**El mètode val la pena retenir-lo**: **la signatura d'una llei és una font de
+datació institucional**, i **el Butlletí en publica una cada poques setmanes.**
+`Requereix la data exacta de la presa de possessió i el document que la recull,
+que no és una llei i el corpus no té.`
+
 ## Buits registrats
 
 - **La ficció de nacionalitat**: **quina norma la fixa, si n'hi ha cap.** **Becat

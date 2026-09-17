@@ -112,6 +112,66 @@ població pot rebre i els andorrans no**.
   major, i el tribunal pot estendre-la a no residir «a la mateixa vila»
   (article 51). **En un país de 468 km², dir «la mateixa vila» és dir molt.**
 
+## Avís de vigència: hi ha un Codi penal nou, i encara no és en vigor
+
+**Afegit el 17-09-2026 des del [BOPA](../../../fonts/bopa.md).** **El 13
+d'agost del 2026 es va publicar la Llei 18/2026, del 15 de juliol, qualificada
+del Codi penal** (`docs/raw/lleis/bopa/llei-18-2026-codi-penal.txt`), **que
+deroga sencera la Llei 9/2005** amb una disposició derogatòria única de dues
+línies.
+
+**Però avui encara no s'aplica**, i la data importa:
+
+> «Aquesta Llei entrarà en vigor **al cap de quatre mesos** de la seva
+> publicació […] excepte: 1. La disposició final segona, **al cap de sis
+> mesos** […] i 2. Les disposicions relatives al **règim de responsabilitat
+> penal de les persones jurídiques**, **al cap d'un any**» (disposició final
+> cinquena).
+
+**Tot el que hi ha en aquesta fitxa continua sent el dret vigent el
+17-09-2026**, **i deixarà de ser-ho al desembre.** **El corpus ho registra
+així a propòsit**: **una norma publicada no és una norma vigent**, i **aquesta
+n'és el cas de manual.**
+
+**El codi nou té 560 articles i tres llibres** —part general, delictes,
+contravencions penals—, **dos més que el del 2005**, i **porta un annex que val
+per si sol**: **una taula d'equivalències article per article entre el Codi del
+2005 i aquest.** `Requereix buidar aquesta taula, que és el diff que el corpus
+demanava des del setembre i no havia pogut fer.`
+
+**Els sostres de pena no es mouen** (article 41): **presó fins a vint-i-cinc
+anys** —amb l'excepció de l'acumulació i dels delictes de **genocidi i contra
+la humanitat**—, **multa fins a 300.000 €** o **fins al quàdruple del perjudici
+o del benefici**, i **inhabilitació fins a vint anys.** **La classificació en
+tres calaixos també es manté.**
+
+**El canvi de fons és un altre: les persones jurídiques passen a respondre
+penalment.** **No per tot**: **l'article 27 en fa una llista tancada** —tràfic
+d'éssers humans, prostitució i explotació sexual, corrupció, blanqueig,
+delictes mediambientals, terrorisme i finançament del terrorisme, entre
+altres—, **i l'article 29 n'exclou expressament l'Administració general, els
+comuns i els òrgans que en depenen, els organismes públics i les entitats
+parapúbliques.** **L'Estat andorrà no es pot processar a si mateix.**
+
+**Quatre novetats més, segons l'exposició de motius:**
+
+- **Es tipifica la corrupció privada i la corrupció esportiva**, i **la
+  temptativa en els delictes de corrupció**, per poder ratificar el **Conveni de
+  Mèrida** de les Nacions Unides.
+- **El consentiment de la víctima esdevé irrellevant** en el tràfic d'éssers
+  humans amb finalitat d'extracció d'òrgans, treball forçat, esclavatge o
+  explotació sexual, **per recomanació del tercer informe del GRETA**.
+- **L'edat de consentiment sexual puja a setze anys**, **amb una excepció de
+  proximitat d'edat**: **relacions entre menors de catorze anys o més, sempre
+  que la diferència d'edat no passi de tres anys.**
+- **S'incorpora un tipus propi per a l'afavoriment de serveis sexuals en
+  l'entorn digital**, equiparat penalment als delictes de prostitució.
+
+**I una dada institucional que la signatura dona de passada**: **la llei la
+sancionen «Emmanuel Macron, president de la República Francesa» i
+«Josep-Lluís Serrano Pentinat, bisbe d'Urgell»**, **tots dos coprínceps**.
+`Requereix datar el relleu al bisbat d'Urgell, que el corpus no té.`
+
 ## Buits registrats
 
 - **Com s'apliquen aquestes penes, no se sap.** El corpus té el text i cap dada
