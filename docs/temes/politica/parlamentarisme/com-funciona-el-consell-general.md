@@ -321,7 +321,28 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    legislatura actual: la seu publica el Butlletí del 2023 ençà.`
 7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
    descrits. Cap fitxa al corpus. — **`parcial` el 17-09-2026: segueixen sense
-   fitxa i ja no són sense font.** **El Raonador del Ciutadà** té la seva llei
+   fitxa i ja no són sense font.**
+
+   **I el 2026-09-18 s'hi afegeix com pengen del Consell General, que és el que
+   aquesta fitxa necessitava.** **La Llei del pressupost del 2026**, disposició
+   addicional segona, diu que **s'annexen a la llei els pressupostos del Consell
+   General i dels òrgans que es financen amb càrrec al seu pressupost**:
+
+   > **la Institució del Raonador del Ciutadà, el Tribunal de Comptes, l'Agència
+   > Andorrana de Protecció de Dades i l'Agència de Qualitat de l'Ensenyament
+   > Superior d'Andorra (AQUA)**
+
+   **Quatre organismes viuen del pressupost del parlament, no del Govern.** I
+   **el Tribunal Constitucional i el Consell Superior de la Justícia també tenen
+   el seu pressupost annexat a la mateixa llei**, encara que no es financin del
+   Consell General.
+
+   **Això explica la independència d'una manera concreta**: **qui els paga és
+   la cambra que els nomena, i no l'Administració que fiscalitzen.**
+
+   **I una xifra de procediment que el corpus no tenia**: **les entitats que
+   reben més de 300.000 € han de trametre els seus comptes al Tribunal de
+   Comptes, per mitjà del Govern.** **El Raonador del Ciutadà** té la seva llei
    al corpus des d'abans (`docs/raw/lleis/bopa/llei-1998-raonador-del-ciutada.txt`)
    i fitxa pròpia a [el Raonador del Ciutadà](../../institucions/govern/el-raonador-del-ciutada.md).
    **El Tribunal de Comptes**, no: **s'ha baixat avui la Llei del Tribunal de
