@@ -148,12 +148,41 @@ la suma abonada amb els interessos legals meritats.
 - [Els diners dels comuns](els-diners-dels-comuns.md).
 - [Quan una sentència confon el precedent](quan-una-sentencia-confon-el-precedent.md): litigi de classificació urbanística; no acredita els expedients de cessió pendents aquí.
 
+## La cadena sencera: tres lleis en vint-i-quatre anys
+
+**La Llei qualificada de delimitació de competències dels comuns és del 4 de
+novembre del 1993, i al [Butlletí](../../../fonts/bopa.md) només té dues
+modificacions.**
+
+| Data | Norma | Abast |
+| --- | --- | --- |
+| **4-11-1993** | Llei qualificada de delimitació de competències dels Comuns | text base |
+| **22-3-2007** | **Llei 6/2007** | **un sol apartat**: l'article 9.5 |
+| **20-10-2017** | **Llei 19/2017** | modificació general, publicada al BOPA 73 del 15-11-2017 |
+
+**La cerca a text complet de «Llei qualificada de delimitació de competències» no
+en retorna cap altra norma modificadora**, i **no n'hi ha cap text refós ni text
+consolidat publicat**: aquesta llei és de les que el Butlletí no ha tornat a
+publicar sencera mai més. **Per saber què diu avui cal llegir les tres peces
+seguides**, que és el que aquesta fitxa fa.
+
+**Que la modificació del 2007 sigui d'un sol apartat és el fet.** Catorze anys
+amb un únic retoc, i després la reforma del 2017. **La delimitació de
+competències entre el Govern i els comuns es toca poc, i quan es toca és per
+llei qualificada** — cosa que, com mostra
+[el dia que el Consell General va refusar la xifra](./els-diners-dels-comuns.md#el-dia-que-el-consell-general-va-refusar-la-xifra),
+no sempre surt.
+
 ## Buits registrats
 
-- Lectura íntegra del text normatiu de 1993 i de les set pàgines de la
+- ~~Lectura íntegra del text normatiu de 1993 i de les set pàgines de la
   Llei 19/2017, publicada al BOPA 73 del 15-11-2017. La final fixa l’entrada
   en vigor l’endemà. Aquesta lectura no certifica la vigència consolidada
-  actual ni totes les modificacions sectorials.
+  actual ni totes les modificacions sectorials.~~ — **`resolt` el 17-09-2026** a
+  «[La cadena sencera: tres lleis en vint-i-quatre anys](#la-cadena-sencera-tres-lleis-en-vint-i-quatre-anys)»:
+  **la cadena són tres peces i cap més**, i **no hi ha text refós publicat**.
+  `Les modificacions sectorials —lleis que toquen competències comunals sense
+  dir-ho al títol— segueixen sense inventariar.`
 - Tancat el buit de l’exemplar BOPA de la sentència 2017-2-L: el PDF de
   deu pàgines s’ha obtingut i les cites anteriors del portal s’han substituït
   després de llegir els apartats 1.1, 2.2–2.4 i la decisió. Pàgines 7, 9 i
