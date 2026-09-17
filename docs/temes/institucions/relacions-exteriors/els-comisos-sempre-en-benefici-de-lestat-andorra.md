@@ -249,8 +249,79 @@ ningú.**
 - **L'extradició no és en aquesta llei.** El títol diu «cooperació judicial
   internacional en matèria penal» i **el text la esmenta tres vegades com a cosa
   que pot no ser possible** (articles 25 i 30) **sense regular-la mai**.
-  **La llei d'extradició andorrana no és al recull que el corpus té.**
-  `Requereix el text de la Llei d'extradició.` **Buit prioritari.**
+  ~~**La llei d'extradició andorrana no és al recull que el corpus té.**~~ —
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: és la
+  **Llei qualificada d'extradició, del 28 de novembre de 1996**, butlletí del
+  **26 de desembre de 1996**
+  (`docs/raw/lleis/bopa/llei-qualificada-extradicio-1996.txt`). **Vint articles
+  i tres títols**, **anterior a l'adhesió d'Andorra al Conveni europeu
+  d'extradició** —la llei diu obertament que s'hi ha inspirat i que vol «obrir
+  la possibilitat d'adhesió»— i **encara vigent**: **el Butlletí no en publica
+  cap modificació.**
+
+  **És subsidiària per disseny.** «**A falta de tractats internacionals** en la
+  matèria, les jurisdiccions penals andorranes la demanen o l'atorguen sota les
+  condicions i segons les regles d'aquesta Llei. **En cas d'existència de
+  tractats, les regles d'aquesta Llei s'apliquen en les situacions no previstes
+  per aquests**» (article 1). **És la xarxa, no el règim.**
+
+  **El llindar és baix**: **un any de privació de llibertat en grau màxim** a
+  totes dues legislacions, o **quatre mesos de condemna ja dictada** (article
+  2).
+
+  **I hi ha un pas polític abans del judicial que el corpus no s'esperava.**
+  **El Govern decideix si tramet o no el dossier al Ministeri Fiscal**, i
+  **només a partir d'aquesta tramesa els tribunals hi tenen competència**:
+
+  > «Oït el Ministeri Fiscal, **el Govern aprecia l'oportunitat de trametre o no
+  > el dossier complet** al Ministeri Fiscal. **La transmissió dóna competència
+  > exclusiva als tribunals** per prendre la decisió d'atorgar o de refusar
+  > l'extradició» (article 8).
+
+  **El Govern pot aturar una extradició abans que cap jutge la vegi; el que no
+  pot és concedir-la.**
+
+  **Els motius de denegació són quinze i taxats** (article 14), i **el primer
+  és el que defineix el país**:
+
+  | Núm. | No s'atorga l'extradició quan… |
+  | ---: | --- |
+  | **1** | **la persona és de nacionalitat andorrana** |
+  | 2 | els fets són **de caràcter polític** o la demanda té finalitat política |
+  | 3 | l'Estat sol·licitant **no és competent** per territorialitat o personalitat |
+  | 4 | hi ha motius seriosos de creure que es persegueix per **raça, religió, nacionalitat o opinions polítiques** |
+  | 5 | són **infraccions militars** que no ho són de dret comú |
+  | 6 | **els fets no són castigats per la llei penal andorrana** |
+  | 7-8 | **ja hi ha acció judicial o cosa jutjada a Andorra** |
+  | 9 | hi ha **prescripció** en qualsevol dels dos Estats |
+  | **10** | **l'Estat sol·licitant hi té pena de mort**, llevat que asseguri que no s'executarà |
+  | 11 | aquell Estat **no garanteix la regla d'especialitat** de l'article 3 |
+  | **12-13** | **la culpabilitat «no és versemblant»** o **la condemna resulta d'«un error manifest»** |
+  | 14 | l'extradició tindria **conseqüències d'una gravetat excepcional** per l'edat o la salut |
+  | 15 | jutjaria **un tribunal sense garanties** o **constituït especialment per al cas** |
+
+  **Dues d'aquestes quinze són extraordinàries en una llei d'extradició**: **la
+  12 i la 13**. **Obliguen el tribunal andorrà a mirar el fons** —si els
+  càrrecs són versemblants, si la condemna estrangera és un error— **i no
+  només la forma.** **Andorra es reserva revisar el cas, no només el
+  procediment.**
+
+  **I l'article 20 tanca el forat que obre el 14.2**: **no compten com a fets
+  polítics** els **crims contra la humanitat** del Conveni del genocidi de 1948
+  ni les infraccions greus dels **quatre Convenis de Ginebra de 1949** (articles
+  50, 51, 130 i 147), ni «**totes aquelles altres violacions anàlogues de les
+  lleis de la guerra**» que els Convenis no prevegin. **Un criminal de guerra no
+  es pot dir perseguit polític a Andorra.**
+
+  **Terminis de la detenció provisional**, que és on la llei és més concreta:
+  **el president del Tribunal de Corts la pot aixecar si als 18 dies no ha
+  arribat la demanda**, i **en cap cas pot passar dels 40 dies** fins que el
+  Tribunal de Corts rebi el dossier (article 9). **I la regla d'especialitat té
+  data**: **45 dies** després de l'excarceració definitiva sense sortir del país
+  i decau (article 3.1.b).
+
+  `Requereix saber quantes extradicions s'han demanat i atorgat, que la llei no
+  pot dir i el Butlletí no publica.`
 - ~~**La instantània no porta disposicions.**~~ — **`resolt` el 17-09-2026 des
   del [BOPA](../../../fonts/bopa.md)**, butlletí **134 del 2021**, del
   **14 de desembre** (`docs/raw/lleis/bopa/`). **La llei és de Casa de la Vall,

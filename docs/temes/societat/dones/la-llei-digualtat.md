@@ -109,9 +109,84 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
 - **Cap dada**: quants plans d'igualtat existeixen, quantes empreses passen de
   50 persones, quina és la bretxa salarial andorrana. La llei ordena mesurar;
   el corpus no té les mesures.
-- **La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
-  **no és al recull de normes consolidades**. És un buit important. —
-  **`obert`, confirmat el 2026-09-14, i el corpus n'és més buit del que semblava:**
+- ~~**La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
+  **no és al recull de normes consolidades**. És un buit important.~~ —
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **el
+  text vigent té dos mesos**: **Llei 14/2026, del 15 de juny, de text
+  consolidat per l'erradicació de la violència de gènere i de la violència
+  domèstica**, publicada el **14 de juliol del 2026**
+  (`docs/raw/lleis/bopa/llei-14-2026-violencia-genere-consolidat.txt`).
+  **Trenta-quatre articles i cinc capítols.**
+
+  **La cadena, perquè el corpus no repeteixi l'error de citar el text
+  fundacional**: **Llei 1/2015, del 15 de gener** → **text refós pel Decret
+  legislatiu del 27-11-2019** → **Llei 17/2025, del 9 d'octubre**
+  (`docs/raw/lleis/bopa/llei-17-2025-mod-violencia-genere.txt`) → **Llei
+  14/2026**.
+
+  **La llei defineix coses que normalment no es defineixen.** **La
+  «victimització secundària»** hi és una definició legal: «**el maltractament
+  addicional exercit contra les víctimes com a conseqüència** directa o indirecta
+  **dels dèficits** —qualitatius o quantitatius— **de les intervencions
+  desencertades** dutes a terme pels organismes responsables» —i **hi enumera
+  serveis socials, sanitaris, el sistema jurídic, els mitjans de comunicació i
+  la policia** (article 2.5). **Una llei que anomena com a violència el que en
+  fa la seva pròpia administració.**
+
+  **I el que el corpus no tenia: la via civil.** **Tota víctima pot demanar
+  tutela a la jurisdicció civil «a banda de les accions penals que
+  escaiguin»** (article 23.1), i **el jutge civil pot acordar nou mesures**,
+  cautelars o definitives: **ordre de protecció, sortida obligatòria del
+  domicili, ordre d'allunyament, impediment de comunicacions, ocultació de les
+  dades del domicili, protecció dins les oficines judicials sense confrontació
+  visual, suspensió del dret a tenir i portar armes, seguiment de tractament
+  mèdic o psicològic**, i **qualsevol altra que calgui.** **No cal denúncia
+  penal per obtenir una ordre d'allunyament.**
+
+  **Tres regles més que val la pena retenir:**
+
+  - **Nul·litat de ple dret** (article 22): **són nuls els actes i les clàusules
+    de negocis jurídics que «constitueixin o causin» situacions d'aquesta
+    violència.**
+  - **Legitimació activa de les entitats** (article 25): **associacions i
+    organitzacions de defensa dels drets humans poden promoure accions
+    judicials per les persones associades**, **sempre amb autorització
+    expressa.**
+  - **Obligacions de la policia** (article 21): **un grup d'atenció a les
+    víctimes a cada despatx de policia**, i **el registre de dades de totes les
+    formes de violència contra les dones «diferenciant-les de les relatives a
+    la violència domèstica»**, amb sexe, edat, vincle i tipus d'actuació.
+    **La llei ordena comptar-ho separat.**
+
+  **El capítol cinquè és nou del 2025 i és el canvi de fons: l'Estat paga.**
+  L'exposició de motius de la Llei 17/2025 ho lliga al **Conveni d'Istanbul**,
+  al qual Andorra s'ha adherit, i **instaura «per primera vegada» un sistema de
+  prestacions econòmiques**. **Té quatre traves deliberades:**
+
+  | Regla | On és |
+  | --- | --- |
+  | **És subsidiari**: primer respon l'autor del delicte, i **l'Estat li reclama després el que ha pagat** | articles 26.2-3 |
+  | **Cal sentència condemnatòria ferma** per acreditar la condició de víctima | article 27.2 |
+  | **Llindar de dany**: **33% de menyscabament permanent** o **incapacitat temporal de més de tres mesos** | article 28.2 |
+  | **Sostre**: **la prestació no pot superar mai la indemnització fixada a la sentència** | article 30.1 |
+
+  **Víctimes directes són les dones, menors d'edat incloses**; **indirectes,
+  en cas de mort, els fills menors i els majors amb discapacitat que en
+  depenien econòmicament** (article 27.3-4).
+
+  **I hi ha una definició legal nova que el corpus no tenia en cap altre lloc**:
+  **la violència vicària**, que és un dels coeficients correctors de l'import
+  —«**el tipus de violència de gènere que, amb l'objectiu de causar perjudici o
+  dany a una dona, sigui exercida sobre els seus familiars menors d'edat** per
+  part del cònjuge o parella de fet, antic o actual**» (article 30.3).
+
+  `Requereix el Decret 136/2026, del 15-4-2026, que desplega reglamentàriament
+  el capítol cinquè i és on han d'anar els imports i els coeficients, i el
+  Decret 154/2025 de la Comissió Nacional de Prevenció.` **Sense el reglament,
+  el corpus té el dret a la prestació i no la seva quantia.**
+
+  **El que hi havia abans d'aquest tancament, que es conserva perquè diu com
+  s'havia buscat:** **el corpus n'era més buit del que semblava:**
   **de tot el corpus, l'única altra ocurrència de «violència de gènere» no és
   una norma de protecció sinó una causa de secret** —la **lletra k** de les
   excepcions de la llei de transparència, que protegeix la intimitat **«amb
