@@ -106,10 +106,72 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
 
 1. **On és el Llibre de la Terra** avui i si està editat o transcrit.
 2. **Qui era Miquel Ribot d'Aixirivall.**
-3. **Les set ordinacions senceres**, una per una.
+3. **Les set ordinacions senceres**, una per una. — **`parcial` el 17-09-2026:
+   **dues de les set ja són al corpus, senceres i transcrites**, des de les
+   [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), **totes dues
+   preses del mateix manuscrit**: **ANA, ASC, núm. 5, *Llibre d'Ordinacions del
+   Consell de la Terra*, còpia de principis del segle XVI.**
+
+   **La de 1289, del 20 de maig, «en la vista de Cincogèsima»**, és **el text
+   normatiu andorrà més antic que el corpus té sencer**, i **té dues parts**:
+
+   **Sobre les muntanyes** —tres articles—: **qui fa una cabana o un *aprés* nou
+   el pot tenir sis anys i ningú no l'en pot treure**; **no es pot senyalar cap
+   cabana abans del dia de sant Barnabé i ha de ser «jorn clar, que·s pusqua
+   conèyxer tota moneda corible a pa he a vi»**; i **una casa només pot senyalar
+   un *aprés*, i si no el pot mantenir no el pot vendre ni arrendar.**
+
+   **Sobre la quèstia** —deu articles—, que és **un impost sobre el bestiar amb
+   un calendari de comptar**: **es compta del dilluns de Sincogesma fins a sant
+   Lluc**, i **fins a sant Andreu si el bestiar és fora de la Terra**; **el
+   bestiar venut o barat entremig el paga qui el ven**; **qui té bestiar propi
+   fora d'Andorra el paga igual «axí com si fos dins la Terra»**; i **hi ha una
+   taula de conversió que val la pena**:
+
+   | Qui té | Paga |
+   | --- | --- |
+   | **Sis feixos de delme de bon blat** | **un metador de quèstia** |
+   | **Sis quintars de verema de delme** | **un metador** |
+   | **Cada bèstia grossa** | **un metador** |
+   | **Cada persona de casa** | **un metador** —**excepte el malalt o qui «no pusque afanar sa vida»** |
+   | **Un colomer amb coloms a dins** | **un metador** |
+
+   **I tres franquícies que diuen com es volia que funcionés el país**: **el
+   mercader forà o de la Terra té vuit dies francs**; **el pastor que entra
+   bestiar, vuit dies**; **el missatger, un mes.** **I la clàusula que tanca:
+   cap bestiar, ni estrany ni privat, no pot ser franc de quèstia «sinó que tot
+   lo Consel de la Terra la afranquesque».**
+
+   **L'altra és la de 1390, també «en la vista de Cincogesma»**, i és **una
+   tarifa de primes per matar depredadors**:
+
+   | | |
+   | --- | --- |
+   | **Un llop o una cadellada de llops** | **20 sous** |
+   | **Un ós o una cadellada** | **10 sous** |
+   | **Un llop cerver** —el linx— | **5 sous** |
+
+   **El llop val el doble que l'ós**, i **l'ós el doble que el linx.** **La por
+   es pot llegir en moneda.**
+
+   `Requereix les altres cinc: 1354, 1454, 1489, 1493 i 1505.`
 4. **Què vol dir exactament «vistes»** en aquest context.
-5. **L'arbitratge de 1289** i el **requeriment de 1390** — documents reals, no
-   consultats.
+5. **L'arbitratge de 1289** i el **requeriment de 1390** — ~~documents reals, no
+   consultats~~ — **`resolt` el 17-09-2026 quant al requeriment, i amb una
+   correcció quant a l'arbitratge.**
+
+   **El requeriment del 1390 és del 23 de febrer** *(ANA, ASC, núm. 5.431, i
+   còpia al Llibre de la Terra, doc. 18)*, i el corpus ara en té **el text
+   llatí sencer amb les cartes occitanes inserides**
+   ([el saig](../justicia/el-saig.md), on s'explica què hi passa).
+
+   **L'arbitratge, en canvi, no és el que hi ha sota la data del 1289.** **El
+   document del 20 de maig de 1289 que el corpus ha obtingut són les
+   ordinacions sobre muntanyes i quèstia** —punt 3 d'aquesta llista—, **no el
+   plet de Perafita i Frontanya entre Andorra la Vella i Sant Julià.**
+   **Mateix any, mateixos senyors, document diferent.** `Requereix encara
+   l'arbitratge de Roger Bernat III.`
 6. **Perafita i Frontanya**: on són i per què s'hi barallaven Andorra la Vella i
    Sant Julià. Creuar amb
    [la lògica pastoral dels límits](../../territori/geografia-fisica/la-logica-pastoral-dels-limits.md).
