@@ -162,8 +162,16 @@ que arriben per **cessió obligatòria** dels habitatges buits— i que disposa 
   **Una llei d'arrendaments que toca el notariat, l'embargament, el cadastre, el
   cens, dos impostos i els animals de companyia.** I **encarrega tres coses amb
   data**: la llei del dret a l'habitatge (dos anys), el protocol de desnonaments
-  (un any) i el protocol dels animals (tres mesos). `Requereix comprovar si
-  aquestes tres s'han fet.`
+  (un any) i el protocol dels animals (tres mesos).
+
+  **Comprovat al [BOPA](../../../fonts/bopa.md) el 17-09-2026: cap de les tres no
+  hi consta.** La cadena «dret a l'habitatge i a la propietat privada» surt a
+  **dos documents** i tots dos són la mateixa Llei 41/2022: **la llei encomanada
+  no s'ha aprovat**, i el termini de dos anys va vèncer **l'1 de gener del 2025**.
+  Dels dos protocols —desnonaments i animals— **tampoc no n'hi ha rastre**, tot i
+  que **un protocol interministerial no és necessàriament una norma que es
+  publiqui al Butlletí**: per a la llei la prova és concloent, per als protocols
+  només indicativa. `Requereix el ministeri per als dos protocols.`
 - **Les majories concretes** de la propietat horitzontal (article 26) no s'han
   buidat: quines decisions demanen unanimitat i quines majoria.
 - ~~**Quants habitatges té el parc públic** i quants n'adjudica l'INH, no
