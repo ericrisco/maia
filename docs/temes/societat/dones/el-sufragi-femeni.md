@@ -24,7 +24,7 @@ Viquipèdia en català.
 | **30 d'abril de 1967** | **Set dones** —**una per cada parròquia**, Escaldes-Engordany inclosa— presenten una petició **demanant permís per recollir signatures** |
 | **15 de maig de 1968** | Presenten la petició ampliada, amb **signatures de més de 370 dones andorranes** |
 | **4 de juliol de 1969** | **El Consell General vota.** Concedeix **el dret de vot per 10 a 8 amb una abstenció**; **rebutja el dret a ser elegides per 12 a 6 amb una abstenció** |
-| **14 d'abril de 1970** | **Els delegats permanents dels coprínceps signen el decret** que concedeix el vot a les dones |
+| **14 d'abril de 1970** ⚠ | **Els delegats permanents dels coprínceps signen el decret** que concedeix el vot a les dones. **Divergència oberta el 17-09-2026**: **l'acta del Consell diu que el decret és del 14 de *gener*** i que el Consell n'és informat el **23 d'abril** ([actes](../../../fonts/actes-historiques-consell-general.md), ANA ASC 9.488, fol. 1.110). **Coincideix el dia 14 i no el mes**, i **la font d'aquesta fitxa no diu d'on treu l'abril.** **No s'arbitra: el decret no és al corpus.** |
 | **14 de desembre de 1971** | **Les dones voten per primera vegada**, a les eleccions generals i comunals |
 | **17 de maig de 1973** | Els consellers **Jaume Bartumeu Canturri** i **Òscar Ribas Reig** presenten una moció pel **sufragi passiu** |
 | **24 de maig de 1973** | **El Consell General aprova** que les dones puguin ser elegides |
@@ -238,7 +238,15 @@ de cada moment i no pas a un programa preordenat»**
    que cap font consultada no dona.
 3. ~~Si hi va haver **alguna consellera general abans del 1985** per una via que
    no fos l'elecció democràtica~~ — **tancat**: **Mercè Bonell, 1984**, per
-   substitució. **Segueix obert qui era i a qui substituïa.**
+   substitució. ~~**Segueix obert qui era i a qui substituïa.**~~ — **a qui
+   substituïa, `resolt` el 17-09-2026** des de les
+   [actes](../../../fonts/actes-historiques-consell-general.md): **Mercè Bonell
+   Bertran, d'Andorra, substitueix Bonaventura Riberaygua en passar aquest a
+   conseller de Govern**, en sessió ordinària del **20 de novembre del 1984**
+   *(ANA ASC 9.491, fol. 4.889)*.
+
+   **La primera dona al Consell General hi entra per la porta que obre un home
+   que se'n va al Govern.** `Requereix qui era ella; això segueix obert.`
 4. **Maria Teresa Armengol i Bonet**: biografia, parròquia, any de naixement.
    La primera parlamentària del país **i no en sabem la parròquia**.
 5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
@@ -302,7 +310,7 @@ de cada moment i no pas a un programa preordenat»**
 
     | Qui | Què en té el corpus | On |
     | --- | --- | --- |
-    | **Mercè Bonell** | **Primera consellera general, 1984, per substitució.** Res més: ni partit, ni parròquia, ni a qui substituïa | [les persones](../../persones/README.md) |
+    | **Mercè Bonell Bertran** | **Primera consellera general**, **20 de novembre del 1984**, **per substitució**. **Parròquia: d'Andorra** —Andorra la Vella—, i **substitueix Bonaventura Riberaygua**, que passa a **conseller de Govern** *(actes, ANA ASC 9.491, fol. 4.889; ampliat el 17-09-2026)*. **Segueix sense partit ni biografia** | [les persones](../../persones/README.md) |
     | **Maria Reig i Moles (1951)** | **Empresària i política**, **filla de Serafí Reig i Ribó i de Maria Moles i Pasques**, **cosina d'Òscar Ribas Reig**, el primer cap de Govern, i **neboda de Julià Reig i Ribó**, síndic general dues vegades. **Única consellera de tot el període constituent** | [els Reig](../../economia/les-grans-families/els-reig.md) |
     | **Rosa Ferrer** | Només la frase «l'únic element femení al Consell» | [les persones](../../persones/README.md) |
     | **Montse Gil** | **Res.** Cap altra ocurrència a tot el corpus | — |
