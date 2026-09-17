@@ -351,6 +351,112 @@ amb «tot per al guanyador, encara que sigui per un sol vot»**.
 
 > «**Potser és moment de reflexionar per què a Andorra sí.**»
 
+## On sí que és publicat: eleccions.ad
+
+**L'article 57.2 explica què no arriba al BOPA; no explica que no es publiqui
+enlloc.** **Es publica**, al lloc oficial del Govern **`eleccions.ad`**, que
+conserva els **dossiers complets** de **totes les eleccions generals del 1997 al
+2023** i de **totes les comunals del 1995 al 2019**:
+
+| Generals | Comunals |
+| --- | --- |
+| **1997 · 2001 · 2005 · 2009 · 2011 · 2015 · 2019 · 2023** | 1995 · 1999 · 2003 · 2007 · 2011 · 2015 · 2019 |
+
+**Cada dossier porta candidatures, electors, participació, escrutini i
+resultats**, per circumscripció nacional i per les set parroquials.
+
+### Els resultats del 2023, per candidatura i per parròquia
+
+**Circumscripció nacional.** **29.958 electors convocats · participació
+66,93% · 20.050 vots escrutats · 19.172 vàlids · 537 blancs · 341 nuls.**
+
+| Candidatura | Canillo | Encamp | Ordino | La Massana | And. la Vella | St. Julià | Escaldes | **Total** | **%** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Demòcrates + Ciutadans Compromesos + Acció Comunal d'Ordino + UN** | 387 | 921 | 415 | 805 | 1.520 | 758 | 1.456 | **6.262** | **32,7%** |
+| **Concòrdia** | 142 | 490 | 373 | 568 | 1.000 | 745 | 791 | **4.109** | **21,4%** |
+| **PS + Progressistes SDP** | 108 | 568 | 319 | 381 | 1.375 | 521 | 764 | **4.036** | **21,1%** |
+| **Andorra Endavant** | 117 | 445 | 199 | 344 | 877 | 552 | 533 | **3.067** | **16,0%** |
+| Liberals d'Andorra | 40 | 102 | 57 | 87 | 260 | 196 | 151 | **893** | 4,7% |
+| Acció | 23 | 133 | 34 | 199 | 183 | 97 | 136 | **805** | 4,2% |
+| **Vots vàlids** | **817** | **2.659** | **1.397** | **2.384** | **5.215** | **2.869** | **3.831** | **19.172** | 100% |
+
+`Les columnes per parròquia i les capçaleres són les publicades; els totals per
+candidatura i per parròquia són suma del corpus. La comprovació és que **totes
+dues sumes donen 19.172**, exactament els vots vàlids que el dossier declara.`
+
+**I aquí la taula toca directament el que aquesta fitxa argumenta.**
+
+**Andorra la Vella aporta 5.215 vots vàlids i Canillo 817**: **6,4 vegades més**.
+A la **circumscripció nacional** aquesta diferència es respecta —cada vot pesa
+igual—, però **a la parroquial les dues parròquies elegeixen dos consellers
+cadascuna**. **El mateix elector de Canillo té, doncs, un vot que val el que val
+a la meitat nacional del Consell i sis vegades i escaig a l'altra meitat.**
+
+**La distribució territorial del vot tampoc és uniforme.** Els **Demòcrates**
+guanyen **les set parròquies**, però amb marges que van del **doble** al
+**empat tècnic**:
+
+| Parròquia | Primer | Segon | Diferència |
+| --- | --- | --- | ---: |
+| **Sant Julià de Lòria** | Demòcrates 758 | Concòrdia 745 | **13** |
+| **Ordino** | Demòcrates 415 | Concòrdia 373 | **42** |
+| **Andorra la Vella** | Demòcrates 1.520 | PS+SDP 1.375 | **145** |
+| La Massana | Demòcrates 805 | Concòrdia 568 | 237 |
+| Canillo | Demòcrates 387 | Concòrdia 142 | 245 |
+| Encamp | Demòcrates 921 | Concòrdia 490 | 431 |
+| **Escaldes-Engordany** | Demòcrates 1.456 | Concòrdia 791 | **665** |
+
+**I el segon lloc no és el mateix arreu**: és de **Concòrdia a sis parròquies**
+i del **PS + Progressistes SDP a Andorra la Vella**, que és **on l'esquerra fa
+el seu millor resultat absolut de tot el país**.
+
+### La mateixa gent, el mateix dia, dos guanyadors
+
+**Les dues urnes no porten les mateixes candidatures**, i el resultat ho ensenya.
+A la **parroquial** les llistes són coalicions diferents a cada parròquia:
+
+| Parròquia | Llista que hi guanya els dos escons |
+| --- | --- |
+| Canillo | Demòcrates + Independents |
+| Encamp | Units per al Progrés + Demòcrates + Independents |
+| Ordino | Acció Comunal d'Ordino + Demòcrates + Liberals |
+| La Massana | Ciutadans Compromesos + Demòcrates |
+| Andorra la Vella | Demòcrates + Liberals |
+| **Sant Julià de Lòria** | **Concòrdia + Desperta Laurèdia** |
+| Escaldes-Engordany | Demòcrates - Acció + Independent |
+
+**Sant Julià de Lòria va votar Demòcrates a la urna nacional —per tretze vots—
+i Concòrdia a la parroquial.** **El mateix electorat, el mateix dia, dos
+guanyadors.** És la prova més neta que **les dues meitats del Consell no mesuren
+la mateixa cosa**: a la nacional es vota un projecte de país, a la parroquial
+una coalició local que pot no coincidir-hi.
+
+### I la proporcionalitat de la meitat nacional
+
+| Candidatura | % de vots | Escons de 14 | % d'escons |
+| --- | ---: | ---: | ---: |
+| Demòcrates + CC + ACO + UN | 32,7% | **5** | 35,7% |
+| Concòrdia | **21,4%** | **3** | 21,4% |
+| PS + Progressistes SDP | 21,1% | 3 | 21,4% |
+| **Andorra Endavant** | **16,0%** | **3** | **21,4%** |
+| Liberals d'Andorra | 4,7% | **0** | 0% |
+| Acció | 4,2% | **0** | 0% |
+
+**Andorra Endavant treu els mateixos tres escons que Concòrdia amb cinc punts i
+mig menys de vot**, i **els Liberals i Acció es queden a zero amb un 8,9%
+sumat**. **La meitat «proporcional» del Consell reparteix catorze escons entre
+sis llistes i n'hi deixa dues fora**, que és exactament el que aquesta fitxa
+explica a
+[No és la llei d'Hondt](#no-es-la-llei-dhondt-i-la-diferencia-te-consequencies).
+
+`Rights: el lloc porta «© 2023 Govern d'Andorra». Els vuit dossiers de generals
+són a `raw/eleccions/`, amb **`apte_dataset: no`**: **les xifres es citen com a
+fets atribuïts** i **el corpus no en publica cap extracció massiva**.`
+
+**El que queda per fer en aquesta via**: **els dossiers del 1997 al 2019 tenen
+les taules en imatge**, com el del 2023, i **cal renderitzar-los pàgina a pàgina
+per llegir-los**. **El del 2023 és l'únic que s'ha buidat.**
+
 ## Buits registrats
 
 1. **Els resultats oficials de les eleccions generals**, de qualsevol any.
@@ -363,8 +469,9 @@ amb «tot per al guanyador, encara que sigui per un sol vot»**.
    només obliga a proclamar el nom**, i **cap decret no diu quins són
    territorials i quins nacionals.** **Queden oberts els vots per candidatura i
    per parròquia de qualsevol elecció des del 1993**, i **no es poden tancar pel
-   BOPA**: `Requereix l'acta nacional del Govern o les certificacions de les
-   meses (article 48.2), que no es publiquen.` **En canvi, el corpus ja té els
+   BOPA** — **però sí pel lloc oficial `eleccions.ad`**, `resolt` el 18-09-2026
+   per al **2023** i **amb la via oberta per al 1997-2019**: vegeu
+   [On sí que és publicat](#on-si-que-es-publicat-eleccionsad). **En canvi, el corpus ja té els
    resultats numèrics complets de les eleccions del 1989 i del 1992**, que sí
    que sortien al butlletí.
 2. **L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
