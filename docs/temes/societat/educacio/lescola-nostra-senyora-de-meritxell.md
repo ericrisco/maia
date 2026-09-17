@@ -215,6 +215,43 @@ l'educació i la sanitat, com
 [l'Escola d'Infermeria](../sanitat/lescola-dinfermeria.md) —que hi envia
 titulades— i com bona part del que es fa amb persones amb discapacitat.
 
+## De conveni educatiu a contracte renovat cada sis mesos
+
+**El conveni nou que s'anunciava el 2000 no consta enlloc.** El que sí que consta
+al [BOPA](../../../fonts/bopa.md) és que **el del 1995 no calia substituir-lo**:
+la seva clàusula **tretzena** diu que **«aquest Conveni s'estableix per a una
+durada indefinida i és d'aplicació mentre les parts no manifestin la seva voluntat
+resolutòria»**, per escrit i **almenys tres mesos abans d'acabar el curs escolar**
+(`docs/raw/societat/meritxell/conveni-1995-11-30.txt`).
+
+**El que hi ha hagut després no és un conveni educatiu: és un contracte.** Des del
+desembre del 2023 el Butlletí publica, una darrere l'altra, **set edictes
+d'«ampliació de la durada del conveni amb la Fundació Privada Nostra Senyora de
+Meritxell»** —desembre del 2023, desembre del 2023 de nou, dos el juny del 2024,
+desembre del 2024, agost del 2025 i desembre del 2025—. L'últim, del **17 de
+desembre del 2025**, mostra què són de debò
+(`docs/raw/societat/meritxell/edicte-2025-12-17-ampliacio-conveni.txt`):
+
+- **objecte: «ampliació de contracte»**, no de conveni;
+- **tres ministeris contractants**: Afers Socials, Presidència-Economia-Treball-Habitatge i Relacions Institucionals-Educació-Universitats;
+- **adjudicació principal**: BOPA del **18-3-2020** i del **3-3-2021**;
+- **nou termini: de l'1 de gener al 30 de juny del 2026**;
+- **base legal: article 3.1.l de la Llei 14/2022 de contractació pública** —una de les exclusions de la llei.
+
+**El canvi de figura és el fet.** El 1995 la relació era **un conveni de
+col·laboració educativa de durada indefinida** amparat per la disposició
+addicional segona de la Llei d'ordenament del sistema educatiu. El 2026 és **una
+prestació de serveis contractada i prorrogada en trams de sis mesos**. **La
+institució que educa els alumnes amb necessitats especials del país treballa amb
+un horitzó de mig any.**
+
+**I entremig hi ha dues lleis de diners i una de forma.** El **Decret del
+3-12-2008** autoritza un avenç de fons per a les obres de renovació i ampliació;
+la **Llei 53/2010** és un crèdit extraordinari per a les despeses d'inversió; i la
+**Llei 2/2019, del 17 de gener, de la Fundació Privada Nostra Senyora de
+Meritxell** converteix l'associació de 1970 en fundació privada, que és el nom amb
+què el Butlletí l'anomena d'ençà.
+
 ## Per què el corpus li dedica fitxa
 
 Perquè és **de les poques institucions andorranes que el corpus ha trobat
@@ -235,8 +272,15 @@ Andorra **no sabrà que existeix**.
   obert** — la font hi remet constantment i no el descriu.
 - **Els gràfics d'evolució i de distribució per edats i sexe** de la ponència:
   són imatges i l'OCR els destrueix. **Cal l'original.**
-- **Si el conveni nou anunciat el 2000 es va signar.**
-- **Com és avui** — si continua, amb quin nom i amb quin model.
+- ~~**Si el conveni nou anunciat el 2000 es va signar.**~~ — **`resolt` el
+  17-09-2026**: **no consta**, i **no calia**: el del 1995 és de durada
+  indefinida. Vegeu «[De conveni educatiu a contracte renovat cada sis
+  mesos](#de-conveni-educatiu-a-contracte-renovat-cada-sis-mesos)».
+- **Com és avui** — si continua, amb quin nom i amb quin model. — **`parcial` el
+  17-09-2026**: **continua**, es diu **Fundació Privada Nostra Senyora de
+  Meritxell** des de la **Llei 2/2019**, i el vincle amb el Govern és **un
+  contracte prorrogat cada sis mesos**. `El model educatiu d'avui segueix sense
+  descriure's: els edictes diuen què es paga, no què es fa.`
 - **La secció SES del Liceu Comte de Foix**
   ([el mapa escolar](./el-mapa-escolar-del-2000.md)): el circuit francès
   d'ensenyament especialitzat, en paral·lel a aquest. — **`obert`, confirmat el
