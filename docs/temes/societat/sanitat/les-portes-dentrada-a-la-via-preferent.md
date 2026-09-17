@@ -227,6 +227,38 @@ una esmena del reglament ni com una resolució de la remissió transitòria**.
 ([CASS, motius de derivació externa i avís al peu](../../../raw/desocupacio/cass-hospitals-catalunya-20260913.txt);
 [fitxa de font CASS](../../../fonts/cass-ad.md).)
 
+## La Conava: el reglament del 2004 i les seves quatre retallades
+
+**El «reglament Conava del 10-6-2004» existeix, es diu llarg i s'ha modificat
+quatre vegades.** El títol complet és **Reglament de regulació de la Comissió
+Nacional de Valoració (Conava) i d'establiment dels criteris i els barems per al
+diagnòstic i la valoració de les disfuncions, les discapacitats i els hàndicaps**,
+i el [Butlletí](../../../fonts/bopa.md) en registra modificacions el **17 de
+febrer del 2010**, el **16 de febrer del 2011**, el **10 de gener del 2018** i el
+**4 de juliol del 2022** (`docs/raw/desocupacio/conava/`).
+
+**La del 2018 és la que més hi toca, i és una reforma feta esperant-ne una
+altra.** Neix del **Conveni relatiu als drets de les persones amb discapacitat**,
+que el decret diu que **«suposa un canvi de paradigma […] i incideix en la mateixa
+definició del que s'entén per discapacitat»**. La **Llei 27/2017**, disposició
+final vuitena, encarregava al Govern **un reglament nou en un any**; **com que no
+va arribar**, el Govern va fer **«una modificació puntual»** per guanyar temps.
+Què hi canvia: **redueix el nombre de membres de la Comissió**, **n'amplia la
+dedicació**, **atribueix la presidència al cap de l'Àrea de Promoció de
+l'Autonomia Personal**, i hi afegeix **dos vocals per a casos concrets** —un
+psicopedagog per a infants i adolescents en edat escolar i un expert en inclusió
+social per a persones en edat laboral—. I fa un canvi que afecta tothom qui hi
+passa: **l'«informe individualitzat» passa a dir-se «proves»**, i això
+**«suposarà practicar aquestes exploracions i proves a totes les persones
+sol·licitants»**, no només a algunes. Com a contrapartida, **el termini per
+resoldre s'interromp si la persona no es presenta sense justificació**.
+
+**La del 2022 hi afegeix dos metges.** Un **psiquiatre** i un **especialista en
+valoració** com a vocals assessors, per cobrir **els trastorns mentals d'origen
+genètic o neurològic** segons la classificació de l'OMS.
+
+**El reglament nou que la Llei 27/2017 ordenava segueix sense publicar-se.**
+
 ## Buits registrats
 
 - Decret i reglament llegits complets en les tretze pàgines. Renders de
@@ -259,9 +291,16 @@ una esmena del reglament ni com una resolució de la remissió transitòria**.
   [PDF, p. 1–3](../../../raw/desocupacio/bopa-decret542-2022-acces-sanitari.pdf).)
 - L’acord del Consell General de 30-06-2022 i els informes de la CASS de
   26-07-2022, 20-12-2022 i 27-06-2023 apareixen esmentats als decrets,
-  però no s’han consultat. Tampoc el reglament Conava de 10-06-2004 o
-  expedients que permetin interpretar la diferència entre «igual o
-  superior» i «majors» de 65 anys de les disposicions de 2022 i 2023.
+  però no s’han consultat. — **`parcial` el 17-09-2026, i amb dues vies
+  separades.** **El reglament Conava sí que s'ha localitzat i buidat** a «[La
+  Conava: el reglament del 2004 i les seves quatre
+  retallades](#la-conava-el-reglament-del-2004-i-les-seves-quatre-retallades)».
+  **L'acord del Consell General i els informes de la CASS no es publiquen al
+  Butlletí**: els decrets els citen com a antecedents i la cerca no en torna cap.
+  `Requereix el Butlletí del Consell General per a l'acord i una petició a la
+  CASS per als informes.` Tampoc s'han trobat expedients que permetin interpretar
+  la diferència entre «igual o superior» i «majors» de 65 anys de les
+  disposicions de 2022 i 2023.
 - L’article 15.2.b remet a una «disposició transitòria segona», però
   l’exemplar de tretze pàgines llegit no conté aquesta disposició.
   L’antecedent de 2018 i el canvi de remissió de 2019 ja s’han contrastat
