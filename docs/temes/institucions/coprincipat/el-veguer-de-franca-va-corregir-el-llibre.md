@@ -219,7 +219,65 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    després la delegació va passar del sotsprefecte de Prada al prefecte.**
 4. **Quan el veguer francès va passar de dependre d'Interior a dependre d'Afers
    Estrangers.** **La font dona els dos estats i no la data del canvi.**
-5. **La fórmula exacta del jurament dels veguers** davant del Consell General.
+5. **La fórmula exacta del jurament dels veguers** davant del Consell General. —
+   **`parcial` el 17-09-2026: la fórmula segueix sense aparèixer, i l'acte
+   sencer sí.** **Quatre actes notarials del segle XV**, a les [actes
+   històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), **mostren com
+   anava, i dos d'ells són negatives.**
+
+   **Com anava.** **El veguer nomenat es presenta davant del Consell reunit**
+   —**al cementiri o al porxo de Sant Esteve d'Andorra**— **i hi exhibeix la
+   carta del seu nomenament**; **el notari la llegeix en veu alta**; i
+   **llavors els jurats i consellers li requereixen el jurament.** **L'ordre
+   importa: el Consell no rep un veguer i després li pren jurament, sinó que
+   l'admet perquè jura.** El 3 d'abril de 1442, **Menaud de Lubies, senyor de
+   Milglòs**, «*ilico iuravit*» — **jura allà mateix** *(ANA, TCN, núm. 39)*.
+
+   **Què jurava.** **No només els privilegis escrits.** La fórmula que els
+   notaris resumeixen diu **«*privilegia, usancias, ffranquitates et libertates
+   tam scriptas quam non scriptas*»** —**escrites i no escrites**— i el 1447
+   **«*privilegia, usancias, consuetudines et constituciones*»**. **El veguer
+   jurava el costum que ningú no havia posat per escrit.**
+
+   **I el que els notaris no escriuen mai és el text**: **sempre el despatxen
+   amb «*prout sui antecessores usitati fuerunt iurare*»** —com els seus
+   antecessors acostumaven a jurar. `La fórmula segueix sense aparèixer, i ara
+   se sap per què: era tan sabuda que no la copiaven.`
+
+   **La primera negativa, i és parcial: el 17 de desembre de 1442.** **Bernat
+   Pallerols, mercader de Puigcerdà**, acabat de nomenar, es presenta i diu que
+   està a punt de jurar. **Ramon Capella, en nom de tot el Consell, li demana
+   que juri els privilegis acostumats *i* que no és arrendador.** Pallerols hi
+   accedeix a mitges:
+
+   > «Que ell **és prest e aparellat de jurar aqueg privilegi et tots los altres
+   > en la forma e manera qui mos predecessós an acustumat**, però com ells me
+   > demanen **cosa que és fora lo privilegi**, com me requiren **que jo jure
+   > que no soc arendador**, e com lo privilegi no·n face menció, **no u dech
+   > jurar, car serie perjudici gran del senyor**.»
+
+   **I el Consell no cedeix ni s'hi encara**: respon que no li volen demanar
+   res que no sigui al privilegi, **«emperò que·n demanen e volen acort si y és
+   tengut ho no»** — **que s'ho volen fer mirar.** **Totes dues parts
+   protesten.**
+
+   **Que el Consell exigís al veguer jurar que no era arrendador diu quina por
+   tenien**: **un veguer que alhora arrendés els drets del senyor seria jutge i
+   part del que cobra.**
+
+   **La segona negativa és sencera: el 25 de juny de 1447.** **Guillem Arnau de
+   Leore, senyor de Milglòs, veguer comtal**, es nega a jurar davant del
+   Consell **perquè ja ho havia jurat davant del comte en entrar al càrrec**, i
+   **afegeix que, si al comte li plau, pot estar vint-i-cinc anys més a les
+   Valls sense prestar-ne cap altre.**
+
+   **Els andorrans no discuteixen: demanen permís.** **Supliquen als dos
+   veguers —el comtal i l'episcopal, Guillem de Campa, que hi era present— que
+   els donin llicència per prendre un jurista com a advocat, «*prout in
+   instrumento eorum previlegiorum continetur*»** — **tal com els seus
+   privilegis preveuen.** **Per poder discutir amb el veguer calia demanar-li
+   permís per contractar un advocat.**
 6. **Quan es van suprimir les revistes del dilluns de Pentecosta**, i **quines
    «manifestacions tumultuoses» hi va haver.**
 7. **Si l'obligació de tenir fusell i municions constava en algun text**, o **era
