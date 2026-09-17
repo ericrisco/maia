@@ -244,6 +244,21 @@ ara** — amb datació document a document, del 1176 al 1978.
   Escaldes-Engordany»**. **El setè pany de l'armari arriba al final d'un debat
   de quasi vint anys.**
 
+  > **Un parany d'aquesta font, comprovat i escrit perquè no hi caigui ningú.**
+  > **Les llistes de càrrecs de les actes diuen «d'Escaldes-Engordany» molt
+  > abans del 1978** —el 1753, el 1758, el 1772, el 1775 i abans—, **i això no
+  > vol dir que Escaldes fos parròquia.** **L'edició normalitza el lloc de
+  > residència amb el nom de la parròquia d'avui**, i **per això hi apareixen
+  > cònsols «d'Escaldes-Engordany» i «de Santa Coloma d'Andorra» a la mateixa
+  > llista.** **La comprovació és aritmètica i no falla**: **el 23 de desembre
+  > del 1772 hi ha dotze cònsols**, **dos per parròquia**, i **els dos
+  > d'Andorra són justament aquell «de Santa Coloma» i aquell
+  > «d'Escaldes-Engordany».** **Sis parròquies, dotze cònsols, i dos noms de
+  > lloc que avui són parròquies i llavors eren quarts.**
+  >
+  > **Comptar parròquies pels topònims d'aquesta edició dona set on n'hi havia
+  > sis.** **Comptar-les pel nombre de càrrecs, no.**
+
 ## Related
 
 - [Dues portes, sis panys i un secret](./dues-portes-sis-panys-i-un-secret.md) — com el Politar manava que fos aquest armari, i què hi havia a cada calaix.
