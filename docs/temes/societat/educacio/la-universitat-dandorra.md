@@ -21,7 +21,8 @@ tags: [educacio, universitat, institucions, joves, pais-petit]
 
 La **Universitat d'Andorra** és **l'única universitat pública estatal del país**.
 Es constitueix a partir de la **Llei d'universitats**, **aprovada el 30 de juliol
-de 1997** i **publicada al BOPA núm. 53, any 9, el 20 d'agost de 1997**. (El
+de 1997** i **publicada al BOPA núm. 53, any 9, el 19 d'agost de 1997**
+—**data verificada al BOPA el 17-09-2026; la fitxa deia 20**—. (El
 rector en dona la data de publicació; la ponència de
 [Roser Bastida](./el-marc-legal-de-leducacio.md) en dona la d'aprovació —
 **no es contradiuen**.)
@@ -199,8 +200,33 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
 
 ## Buits registrats
 
-- **El text de la Llei d'universitats del 20 d'agost de 1997** (BOPA núm. 53, any
-  9). El corpus té la referència i no el text.
+- ~~**El text de la Llei d'universitats del 20 d'agost de 1997** (BOPA núm. 53,
+  any 9).~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**
+  (`docs/raw/lleis/bopa/llei-1997-universitats.txt`), **i amb una correcció de
+  data**: el butlletí **53 del 1997** es publica el **19 d'agost**, **no el 20**.
+  **La llei s'aprova el 30 de juliol i entra en vigor el dia de la publicació.**
+
+  **L'article que crea la institució és una sola frase**, i diu més del que
+  sembla:
+
+  > **Article 8.** «**Es crea una única universitat pública estatal** amb el nom
+  > d'Universitat d'Andorra.»
+
+  **«Única» és una decisió, no una descripció.** **La llei permet expressament la
+  creació de centres privats d'ensenyament superior** (art. 2.3) **i es reserva
+  que de pública només n'hi pugui haver una.**
+
+  **Tres peces més que el corpus no tenia:**
+
+  | | |
+  | --- | --- |
+  | **La llengua** (art. 7) | **«La llengua oficial dels centres d'ensenyament superior és el català»**, i **se'n poden fer servir d'altres com a vehicular** — **no és una obligació d'exclusivitat** |
+  | **Els títols** (art. 5) | **Els expedeix el ministre d'Educació**, no la universitat. Graus: **diplomatura, llicenciatura, doctorat**, més postgrau i extensió universitària. **Les universitats poden expedir títols propis sense caràcter estatal** |
+  | **El repartiment de poder** (art. 10) | La llei parteix les competències en dos: **les acadèmiques, fundades en la llibertat de càtedra i l'autonomia universitària**, i **les administratives, que deriven de considerar l'ensenyament superior un servei públic** |
+
+  **Aquesta partició de l'article 10 és la peça interessant**: **no diu que la
+  universitat sigui autònoma**, **diu de què ho és.** **Programes, professorat,
+  admissió i relacions exteriors, sí; plantilles, pressupost i gestió, no.**
 - **Què va passar amb el campus nou.**
 - **Quina és la Universitat d'Andorra avui**: centres, titulacions, nombre
   d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.** —

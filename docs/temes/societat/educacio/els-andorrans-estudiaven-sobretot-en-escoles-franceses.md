@@ -346,12 +346,54 @@ dos textos, dos anys, dos editors.**
 - **El projecte lingüístic de l'Escola Andorrana del 2 de maig del 1989**, sencer.
   El llibre en cita quatre línies i el resumeix en quatre punts. **No consta si és
   un decret, un acord del Govern o un document intern.**
-- **El conveni de cooperació educativa Andorra-Portugal**, text complet i estat de
-  vigència. El corpus en té **dos articles per citació** i **la referència de
-  butlletí sense verificar** (BOPA 7, any 13, 17.01.2001). **Tampoc no consta si
-  el buit de segona ensenyança que la font detecta s'ha tancat després del 2010.**
-- **La publicació de la Convenció sobre els drets de l'infant al BOPA** (7, any
-  8, 24.01.1996): **referència de segona mà, per verificar.**
+- ~~**El conveni de cooperació educativa Andorra-Portugal**, text complet i
+  estat de vigència.~~ — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**
+  (`docs/raw/societat/educacio-bopa/conveni-2000-andorra-portugal.txt`).
+  **La referència del llibre era bona, amb un dia de diferència**: butlletí
+  **núm. 7 del 2001**, publicat el **16 de gener** —**tot i que el BOPA mateix,
+  quan s'hi refereix, en diu 17**. **El conveni és del 15 de novembre del 2000.**
+
+  **I l'estat de vigència es tanca del tot**: un segon document, el **butlletí
+  111 del 2001**, en publica **l'entrada en vigor**, que és el **29 de desembre
+  del 2001**, trenta dies després de la notificació portuguesa del 29 de
+  novembre. **Andorra havia notificat el 29 de gener; Portugal va trigar deu
+  mesos.** **El conveni és de durada indefinida** i **es pot denunciar amb dotze
+  mesos de preavís** (art. 10). **Ningú no l'ha denunciat.**
+
+  **El que el conveni realment estableix és més petit del que el corpus
+  suposava**, i convé dir-ho exacte (art. 2): **l'ensenyament del portuguès és
+  voluntari i gratuït**, **fora de l'horari lectiu**, **una hora setmanal**, i
+  **només a primera ensenyança a partir del segon cicle, als vuit anys.**
+  **El paga el Govern de Portugal** (art. 3).
+
+  **Això respon el «buit de segona ensenyança» que la font detectava**: **no és
+  un buit d'aplicació, és el que el conveni diu.** **Mai no va cobrir la segona
+  ensenyança.**
+
+  **Dues peces més que el corpus no tenia.** **L'article 4**: Andorra es
+  compromet a donar permís de sojorn i treball als docents **i també als
+  cònjuges i als ascendents i descendents en primer grau que hi convisquin**,
+  mentre durin les funcions. **I l'annex I**, que és **una taula d'equivalències
+  curs per curs entre els sistemes andorrà i portuguès**, dels 3 anys al
+  batxillerat — **la primera taula d'equivalències educatives internacionals que
+  entra al corpus.**
+
+  **I una frase de l'article 8 que val per a tota aquesta fitxa**: la Comissió
+  tècnica s'integra amb **«un representant de cadascun dels tres sistemes
+  educatius que existeixen a Andorra»**. **Un tractat bilateral amb Portugal ha
+  de seure tres sistemes educatius a la mateixa taula.**
+- ~~**La publicació de la Convenció sobre els drets de l'infant al BOPA** (7,
+  any 8, 24.01.1996): **referència de segona mà, per verificar.**~~ —
+  **`resolt` el 17-09-2026, i la referència és correcta amb un dia de
+  diferència**: **butlletí núm. 7 del 1996, publicat el 23 de gener**, i el que
+  s'hi publica és **la ratificació, de data 22 de novembre del 1995**
+  (`docs/raw/societat/educacio-bopa/bopa-1996-ratificacio-drets-infant.txt`).
+
+  **Les dues referències de segona mà d'aquesta fitxa eren bones i totes dues
+  estaven un dia desplaçades.** **El corpus ho registra com a patró, no com a
+  coincidència**: **una data copiada d'un llibre s'ha de verificar encara que
+  el número de butlletí quadri.**
 - **Els percentatges del 2007 per nacionalitat no existeixen.** La taula creuada
   és només del 1999-2000. **La pregunta «on estudien avui els andorrans» no té
   resposta al corpus per a cap any posterior al 2000.** **Buit prioritari.**
