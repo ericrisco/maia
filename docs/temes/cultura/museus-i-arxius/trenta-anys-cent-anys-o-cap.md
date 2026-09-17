@@ -187,6 +187,64 @@ el bé es podia valorar, **els 300.000 euros no són el sostre**.
 I l'article 43 posa les prescripcions: **un any** les lleus, **quatre** les
 greus, **cinc** les molt greus.
 
+## El que la instantània no portava: d'on ve i què li van canviar
+
+**Aprovada el 12 de juny del 2003, publicada el 15 de juliol, en vigor el 16**
+—«l'endemà de la seva publicació», disposició final segona
+([evidència](../../../raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt)).
+
+**El règim anterior eren tres ordinacions i una llei.** La disposició
+derogatòria deroga l'**Ordinació II del 13 de juliol del 1964**, l'**Ordinació I,
+apartat 2n, del 4 de juny del 1970**, i l'**acord del Consell General del 5 de
+juliol del 1988** que la modificava. Aquestes tres són alhora la **font de la
+llista**: la disposició addicional primera converteix en béns d'interès cultural
+«les capelles romàniques, els monuments artístics, els monuments
+artístics-arqueològics i zones d'interès històric i prehistòric d'interès
+nacional» que hi eren compresos, i els publica com a **annex de la Llei**. El
+patrimoni protegit del 2003 **és el del 1964 i el 1970, traspassat en bloc**.
+
+**I una llei del 1983 que segueix viva.** L'apartat 2 de la derogatòria deroga
+**només l'article 2** de la **Llei del 9 de novembre de 1983, de protecció del
+patrimoni cultural-natural d'Andorra**, i afegeix: «La resta dels articles de la
+Llei esmentada es mantenen en vigor amb aplicació exclusivament als béns
+integrants del **patrimoni natural**». Una llei de fa quaranta-tres anys que va
+perdre la meitat del seu objecte i conserva l'altra.
+
+**Dues coses més que la instantània no deia.** La disposició transitòria fixa un
+**entorn de protecció automàtic de cent metres de radi** des del perímetre
+exterior de cada monument de la llista, mentre no es delimiti expressament, i
+prohibeix mentrestant qualsevol construcció nova o ampliació sense informe previ
+favorable del Patrimoni cultural. I la disposició final primera donava al Govern
+**dos anys** per aprovar els decrets de delimitació de tots els monuments de
+l'annex.
+
+**L'acte modificatiu és un: la Llei 15/2014, del 24 de juliol** (BOPA del
+26-8-2014,
+[evidència](../../../raw/lleis/bopa/llei-15-2014-mod-patrimoni-cultural.txt)).
+Toca els **articles 2, 3.2, 4.1, 12, 13.2, 14.2, 15 i 16** i reescriu la
+disposició transitòria. **No és una llei de cultura: és una llei de
+competències.** L'exposició de motius ho diu sense embuts: els entorns de
+protecció i els criteris aprovats des del 2003 «han tingut un abast i un nivell
+de detall que ha condicionat en excés l'ordenació urbanística que correspon
+definir als comuns, fins al punt d'originar-se **conflictes competencials** entre
+ambdues administracions».
+
+**El repartiment que en surt.** L'entorn de protecció es parteix en **zona 1
+(d'acompanyament)** i **zona 2 (preventiva)**. Sobre el bé i la zona 1 els
+criteris del Govern són **prescripcions**, executives des de la publicació, i el
+POUP s'hi ha d'adaptar. Sobre la zona 2 són **propostes al comú**, que només
+vinculen si el comú decideix incorporar-les al planejament. A més, cal **informe
+del comú afectat** abans de declarar un bé immoble d'interès cultural i abans
+d'incloure'l a l'Inventari general, i les autoritzacions d'obres de l'article 14
+passen a **silenci administratiu positiu**.
+
+**I la llei del patrimoni va acabar modificant la llei del territori.** La seva
+disposició derogatòria deroga l'**article 47** de la Llei general d'ordenació del
+territori i urbanisme, i la disposició final en reescriu els **articles 42, 51.2.c
+i 77**. L'article 77 reformat és el que tanca el cercle: els béns d'interès
+cultural es protegeixen per la llei del patrimoni, i **els altres béns que el comú
+vulgui llistar al POUP els gradua el mateix comú**.
+
 ## Buits registrats
 
 **Aquesta fitxa no acredita quan es va crear l'Arxiu Nacional.** La
@@ -240,13 +298,15 @@ Llei**». **Andorra no té llei d'arxius**, i qui ho diu és el legislador
 **Segueix obert el reglament d'arxius, biblioteques i museus que l'article 34
 encarrega al Govern.**
 
-**El fitxer llegit no porta ni la data d'aprovació de la Llei 9/2003 ni
+~~El fitxer llegit no porta ni la data d'aprovació de la Llei 9/2003 ni
 l'exposició de motius ni les disposicions addicionals, transitòries,
-derogatòries i finals.** La font publica **els articles**. Per tant el corpus
-**no diu** quina norma anterior va derogar aquesta llei ni què deia el règim
-previ dels arxius. **Quatre versions consolidades** consten, i **cap acte
-modificatiu no s'ha llegit**: no se sap quins articles d'aquests van canviar ni
-quan.
+derogatòries i finals~~ `resolt` — **el BOPA sí que les porta**, i són a la
+secció següent. ~~No se sap quins articles van canviar ni quan~~ `resolt`:
+**un sol acte modificatiu**, la **Llei 15/2014**, i s'hi diu quins articles toca.
+
+`Requereix les altres tres versions consolidades: el BOPA només dóna una llei
+modificativa, i la instantània en compta quatre. Les altres tres han de venir
+d'actes que no citen la Llei 9/2003 pel nom.`
 
 **Els articles 1 a 27, 35, 36, 41 i 42 no s'han destil·lat aquí.** Entre ells,
 l'Inventari general (art. 1.4), els drets de tempteig i retracte (art. 10, que
