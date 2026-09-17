@@ -75,10 +75,74 @@ Escrit el 2008, abans que
   oferir a tercers **han de ser acreditades** pel departament de treball, amb
   projecte raonat, i comunicar-hi qualsevol canvi de condicions (articles 15-17).
 
+## Mil tres-cents dos accidents, i cap mort
+
+El recull de lleis no els compta; el Departament d'Estadística sí (activitat
+**A039**). **L'any 2025: 1.302 accidents laborals**, un **−13,7%** respecte del
+2024.
+
+**Compta el que compta Eurostat**, i això limita la xifra: és accident de treball
+el que **provoca una absència de més de tres dies o la mort**, i que **passa al
+lloc de feina o en un desplaçament laboral** — **no** l'anada i la tornada de
+casa a la feina.
+
+| Gravetat (dies de baixa) | 2021 | 2023 | 2025 | % 2025 |
+| --- | --- | --- | --- | --- |
+| **Fatals** | 1 | 2 | **0** | **0,0%** |
+| 4-7 dies | 199 | 227 | 205 | 15,7% |
+| 8-14 dies | 264 | 288 | 217 | 16,7% |
+| 15-30 dies | 256 | 283 | 235 | 18,0% |
+| **Més de 30 dies** | 616 | 663 | **645** | **49,5%** |
+| **Total** | **1.336** | **1.463** | **1.302** | 100% |
+
+**La meitat dels accidents deixa la víctima més d'un mes de baixa.** En total,
+**56.833 jornades no treballades** el 2025, que són **43,7 dies de mitjana per
+accident**.
+
+**El 2025 no hi va haver cap accident laboral mortal.** La sèrie en dona **1 el
+2021, 0 el 2022, 2 el 2023, 1 el 2024 i 0 el 2025**: una mitjana quinquennal
+d'**un accident fatal l'any**.
+
+### On passen: la construcció, tres vegades més del que li tocaria
+
+| Sector | Accidents 2025 | % dels accidents | % de la població ocupada |
+| --- | --- | --- | --- |
+| **Construcció** | **405** | **31,1%** | **9,41%** |
+| Altres activitats socials i serveis personals | 227 | 17,4% | 8,81% |
+| **Comerç** | 215 | **16,5%** | **19,68%** |
+| Activitats immobiliàries i serveis empresarials | 122 | 9,4% | 15,02% |
+| Hoteleria | 93 | 7,1% | 8,85% |
+| Administració pública i seguretat social | 69 | 5,3% | 8,61% |
+| Indústries manufactureres | 64 | 4,9% | 1,96% |
+| Activitats sanitàries i serveis socials | 42 | 3,2% | 6,44% |
+| Transports i comunicacions | 37 | 2,8% | 7,66% |
+| Agricultura, ramaderia, caça i silvicultura | 8 | 0,6% | 0,43% |
+| Llars que ocupen personal domèstic | 8 | 0,6% | 1,53% |
+
+**La columna de la dreta és la que fa parlar la taula.** La **construcció** dona
+el **31,1%** dels accidents amb el **9,41%** dels ocupats: **3,3 vegades el que
+li correspondria**. Les **indústries manufactureres** en fan **2,5 vegades**. En
+canvi el **comerç** —el sector més gran del país en ocupació— **en té menys dels
+que li tocarien** (16,5% contra 19,68%), i els **transports** encara menys (2,8%
+contra 7,66%).
+
+**Qui els pateix.** **Tres de cada quatre accidentats són homes** (75,1%). Per
+nacionalitat, **altres nacionalitats 29,3%** i **espanyols 25,0%**. Per
+parròquia, **Andorra la Vella en concentra el 32,3%**.
+
+**La ràtio internacional.** Per cada **100.000 treballadors**, Andorra registra
+el 2025 **0 accidents fatals** i **2.327 no fatals**. La sèrie va de **2.820
+(2021)** a **2.416 (2025)**: **la sinistralitat baixa**.
+
 ## Buits registrats
 
-- **Quants accidents laborals i malalties professionals es declaren a Andorra**,
-  no consta al recull de lleis.
+- ~~**Quants accidents laborals i malalties professionals es declaren a Andorra**,
+  no consta al recull de lleis.~~ — **`resolt` el 17-09-2026 per als
+  accidents** (activitat **A039**, nota del 02-07-2026): vegeu
+  [Mil tres-cents dos accidents, i cap mort](#mil-tres-cents-dos-accidents-i-cap-mort).
+  `Segueixen obertes les malalties professionals: la nota no les compta, i al
+  Pla d'estadística del 2026 l'única activitat de malalties és l'A034, de
+  declaració obligatòria, que és epidemiologia i no salut laboral.`
 - ~~**El règim sancionador** de la llei (els articles finals) **no s'ha llegit**.~~
   — **`resolt` el 17-09-2026**
   (`docs/raw/lleis/bopa/llei-34-2008-seguretat-salut-treball.txt`, articles 37 a

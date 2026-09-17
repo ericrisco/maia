@@ -1,0 +1,1105 @@
+                                    A039. Estadística d’accidents. Any 2025
+                                      Data de publicació: dijous, 02/07/2026
+                                               www.estadistica.ad
+
+
+         Resum
+
+         El nombre d’accidents laborals ocorreguts durant l’any 2025 ha estat de 1.302, un 13,7%
+         menys respecte a l’any anterior. Cal tenir en compte que, segons la metodologia europea, es
+         considera accident de treball aquell que deriva en l’absència del treballador per un període
+         superior a 3 dies o en la mort del mateix, i que es produeix en el lloc de feina o en el transcurs
+         de qualsevol desplaçament laboral i no en el desplaçament cap o des del lloc de feina.
+
+         D’acord amb l’anterior, el total de jornades no treballades per a l’any 2025 és de 56.833. Això
+         suposa que la mitjana de jornades no treballades per accident laboral és de 43,7 dies.
+
+         Els homes pateixen la major part dels accidents laborals, al voltant de 3 de cada 4 casos
+         (75,1%). Per nacionalitat, les persones d’altres nacionalitats i els espanyols són els que
+         pateixen la major part dels accidents laborals amb un 29,3% i un 25,0%, respectivament.
+
+         La parròquia on es concentren la majoria d’accidents laborals és Andorra la Vella amb el 32,3%
+         del total.
+
+         La majoria dels accidents laborals són a causa de contusions (22,6%) o esquinçades (22,1%) i
+         es concentren majoritàriament als genolls (14,4%), als dits de la mà (14,2%) i als turmells
+         (11,8%).
+
+         Pel que fa al nombre d’accidents de trànsit amb danys materials o corporals registrats pel
+         Departament de Policia durant l’any 2025, ha estat de 533, un +16,9% respecte al 2024.
+
+
+
+
+NP_A039_20260702                                                                                          Pàgina 1 de 19
+                                               A039. Estadística d’accidents. Any 2025
+
+
+
+
+         Índex
+
+         1. Accidents laborals .................................................................................................................... 3
+            1.1. Històric d’accidents laborals ............................................................................................. 3
+            1.2. Comparativa internacional ................................................................................................ 4
+            1.3. Accidents laborals per sexe .............................................................................................. 5
+            1.4. Accidents laborals per tram d’edat ................................................................................... 6
+            1.5. Accidents laborals per nacionalitat de la víctima.............................................................. 7
+            1.6. Accidents laborals per parròquia ...................................................................................... 8
+            1.7. Accidents laborals per gravetat ........................................................................................ 9
+            1.8. Accidents laborals per sector de treball ......................................................................... 10
+            1.9. Accidents laborals per tipus de lesió .............................................................................. 11
+            1.10. Accidents laborals per part del cos accidentada ............................................................ 12
+            1.11. Accidents laborals per lloc de l’accident ......................................................................... 13
+         2. Jornades no treballades ......................................................................................................... 14
+            2.1. Jornades no treballades per sexe .................................................................................. 14
+            2.2. Jornades no treballades per tram d’edat ........................................................................ 15
+            2.3. Jornades no treballades per nacionalitat ........................................................................ 16
+         3. Accidents de trànsit ................................................................................................................ 17
+            3.1. Accidents per tipus ......................................................................................................... 17
+         4. Nota metodològica ................................................................................................................. 18
+         5. Dates de les publicacions previstes ....................................................................................... 19
+
+
+
+
+NP_A039_20260702                                                                                                                                   Pàgina 2 de 19
+                                           A039. Estadística d’accidents. Any 2025
+
+
+         1     Accidents laborals
+
+         1.1       Històric d’accidents laborals
+
+         El nombre d’accidents laborals comptabilitzats per la CASS durant l’any 2025 ha estat de
+         1.302. Aquesta xifra representa una disminució respecte a l’any anterior del 13,7%. Segons la
+         metodologia europea, en aquest informe s’analitzen els accidents laborals en el lloc de feina:
+         els que causen més de tres dies de baixa i els que deriven en la mort de l’accidentat dins l’any
+         immediatament posterior a l’accident. Per a més detall, vegeu la nota metodològica.
+
+
+
+                   Accidents laborals                            2021      2022           2023    2024        2025
+                   Total                                        1.336      1.354       1.463      1.509       1.302
+                   Variació anual                                8,3%      1,3%        8,1%       3,1%       -13,7%
+
+
+
+
+         L’any 2025, el 100,0% dels accidents laborals han estat no fatals, és a dir, no han derivat en la
+         mort de la persona accidentada.
+
+                   Accidents laborals                            2021      2022           2023    2024        2025
+                   Accidents fatals                                 1         0              2           1       0
+                   Accidents no fatals                          1.335      1.354       1.461      1.508       1.302
+                   Total                                        1.336      1.354       1.463      1.509       1.302
+
+
+
+
+         La mitjana d’accidents laborals del període 2021-2025 és de 1.393 accidents per any i la
+         tendència en el darrer any és a la baixa, trencant d’aquesta manera la tendència alcista
+         registrada en els darrers anys.
+
+
+
+                                                 Accidents laborals. Període 2021-2025
+                           1.550
+                                                                                   1.509
+                           1.500
+                                                                   1.463
+                           1.450
+
+                           1.400
+                                                      1.354
+                           1.350         1.336
+                                                                                                 1.302
+                           1.300
+
+                           1.250
+
+                           1.200
+
+                           1.150
+                                         2021          2022         2023           2024          2025
+
+
+
+
+NP_A039_20260702                                                                                                      Pàgina 3 de 19
+                                           A039. Estadística d’accidents. Any 2025
+
+
+         1.2        Comparativa internacional
+
+         El rati d’incidència indica la importància relativa d’accidents laborals fatals i no fatals entre la
+         població ocupada per cada 100.000 treballadors. Per a l’any 2025, les ràtios a Andorra han
+         estat de 0 accidents fatals per cada 100.000 treballadors i de 2.327 accidents sense víctimes
+         mortals per cada 100.000 treballadors.
+
+
+
+                   Rati d'incidència                             2021      2022       2023      2024    2025
+                   Accidents fatals                              2,08       0,00      3,77       1,83    0,00
+                   Accidents no fatals                          2.772      2.719     2.756      2.762   2.327
+                   Rati d'incidència                            2.820      2.767     2.818      2.881   2.416
+
+
+
+
+         En els següents gràfics es mostra la importància relativa dels accidents fatals, és a dir, els que
+         deriven en la mort de la víctima, i dels no fatals, en tots els països de la Unió Europea per a
+         l’any 2023. No hi ha dades a escala europea per a poder realitzar una comparativa dels anys
+         2024 i 2025.
+
+                                              Nombre d'accidents laborals fatals. Any 2023.
+                                          (ràtios d'incidència per 100.000 persones ocupades)
+                                    4
+
+
+
+                                    3
+
+
+
+
+                   Valor del rati
+                                    2
+
+
+
+                                    1
+
+
+
+                                    0       Andorra
+                                             France
+                                            Bulgaria
+                                             Cyprus
+                                               Latvia
+                                              Austria
+                                        Luxembourg
+                                            Portugal
+                                             Croatia
+                                           Romania
+                                           Lithuania
+                                           Slovenia
+                                                 Italy
+                                                Spain
+                                                Malta
+                                            Czechia
+                                               EU-27
+                                             Estonia
+                                            Hungary
+                                              Ireland
+                                             Norway
+                                              Poland
+                                         Switzerland
+                                            Belgium
+                                            Slovakia
+                                             Finland
+                                            Sweden
+                                           Denmark
+                                             Greece
+                                           Germany
+                                        Netherlands
+
+
+
+
+         S’observa com a l’any 2023 la ràtio d’accidents fatals d’Andorra se situa en 3,77. Aquest valor
+         es troba per sobre de la mitjana de la UE-27 (1,63) per a aquell any. Comparat amb els països
+         veïns, França i Espanya obtenen un rati d’accidents fatals del 3,60 i de l’1,71, respectivament.
+
+
+
+
+NP_A039_20260702                                                                                                Pàgina 4 de 19
+                                                     A039. Estadística d’accidents. Any 2025
+
+
+         Quant als accidents no fatals, s’observa com Andorra (2.756) té la major ràtio d’accidents de la
+         Unió Europea per a l’any 2023, una ràtio similar a França (2.725), que es troba en segona
+         posició. En tercera posició trobem a Portugal (2.494).
+
+                                                     Nombre d'accidents laborals no fatals. Any 2023.
+                                                    (ratis d'incidència per 100.000 persones ocupades)
+                                    3.000
+
+                                    2.500
+
+                                    2.000
+
+
+
+                   Valor del rati
+                                    1.500
+
+                                    1.000
+
+                                     500
+
+                                       0         Andorra
+                                                  France
+                                                 Portugal
+                                              Switzerland
+                                                     Spain
+                                                Denmark
+                                             Luxembourg
+                                                Slovenia
+                                                 Belgium
+                                                   Austria
+                                                Germany
+                                                    EU-27
+                                                  Finland
+                                                      Italy
+                                             Netherlands
+                                                 Sweden
+                                                  Estonia
+                                                   Ireland
+                                                 Czechia
+                                                 Hungary
+                                                  Croatia
+                                                  Norway
+                                                     Malta
+                                                   Poland
+                                                 Slovakia
+                                                Lithuania
+                                                  Cyprus
+                                                    Latvia
+                                                  Greece
+                                                 Bulgaria
+                                                Romania
+
+
+         1.3           Accidents laborals per sexe
+
+         Per sexe de la persona accidentada, l’any 2025 els homes han reportat un total de 978
+         accidents laborals (equivalent a un 75,1% del total i un -16,6% respecte a l’any anterior),
+         mentre que les dones n’han reportat 324 (un 24,9% del total i un -3,9% respecte a l’any
+         anterior). Durant el període 2021-2025, de mitjana, els homes van reportar un total de 1.068
+         accidents laborals a l’any, mentre que les dones, de mitjana, en van reportar 324.
+
+         S’observa en tot el període analitzat que, de forma general, els homes pateixen més accidents
+         laborals que les dones.
+
+         Per a l’any 2025, destaca el fet que els homes concentren al voltant de 3 de cada 4 accidents
+         laborals, sent el 52,2% de la població major o igual a 16 anys.
+
+         Accidents laborals per sexe                             2021      2022       2023       2024    2025    Dist. % % Població
+         Home                                                   1.039      1.055     1.098      1.172     978    75,1%       52,2%
+         Dona                                                     297        299          365     337     324    24,9%       47,8%
+         Total                                                  1.336      1.354     1.463      1.509    1.302    100%        100%
+
+
+
+
+                                                           Accidents laborals per sexe.
+                                                                Període 2021-2025.
+                                            1.400
+
+                                            1.200
+
+                                            1.000
+
+                                             800
+                                                                                                          Home
+                                             600                                                          Dona
+
+                                             400
+
+                                             200
+
+                                               0
+                                                    2021      2022       2023        2024       2025
+
+
+
+
+NP_A039_20260702                                                                                                                 Pàgina 5 de 19
+                                       A039. Estadística d’accidents. Any 2025
+
+
+         1.4       Accidents laborals per tram d’edat
+
+         Segons l’edat de la persona accidentada, l’any 2025 les persones que han patit un nombre més
+         elevat d’accidents són les que es troben en la franja d’edat entre 25 i 34 anys amb un 24,2%
+         del total d’accidents, seguits dels quals es troben entre els 45 i els 54 anys amb un 23,1%. Els
+         d’entre 35 i 44 anys representen un 23,0%, els d’entre 55 i 64 anys un 18,8% i els d’entre 16 i
+         24 anys un 9,0%. La franja d’edat que menys accidents va patir l’any 2025 és la situada per
+         sobre dels 65 anys, amb tan sols un 1,8% del total d’accidents laborals.
+
+         Destaca el grup d’edat de 25 a 34 anys que, essent un 16,5% de la població activa (16 anys o
+         més), concentra el 24,2% dels accidents laborals. Per altra banda, també destaca que el grup
+         d’edat major de 65 anys només pateix l’1,8% d’accidents, essent el 18,0% de la població activa,
+         fet motivat a causa que moltes persones en aquesta franja d’edat es trobin jubilades.
+
+
+
+                                                     2021       2022         2023       2024   2025    Dist. % % Població
+         Accidents laborals per tram d'edat
+         16-24                                          135          130      143        148    117     9,0%       10,8%
+         25-34                                          327          341      347        378    315    24,2%       16,5%
+         35-44                                          307          310      317        348    300    23,0%       17,7%
+         45-54                                          298          311      353        341    301    23,1%       19,8%
+         55-64                                          238          241      266        257    245    18,8%       17,2%
+         65+                                            31           21           37      37     24     1,8%       18,0%
+         Total                                      1.336       1.354       1.463      1.509   1.302    100%        100%
+
+
+
+
+         L’anàlisi del quinquenni 2021-2025 reflecteix que, de mitjana, el grup d’edat que reporta més
+         accidents laborals és el d’entre 25 i 34 anys amb 342 accidents a l’any, seguit del grup de la
+         franja d’entre 45 i 54 anys amb 321 casos.
+
+
+
+                                           Accidents laborals per tram d'edat.
+                                                  Històric 2021-2025.
+                           400
+
+                           350
+
+                           300                                                                 16-24
+                           250                                                                 25-34
+
+                           200                                                                 35-44
+                                                                                               45-54
+                           150
+                                                                                               55-64
+                           100
+                                                                                               65+
+                            50
+
+                              0
+                                    2021         2022         2023         2024        2025
+
+
+
+
+NP_A039_20260702                                                                                                      Pàgina 6 de 19
+                                        A039. Estadística d’accidents. Any 2025
+
+
+         1.5          Accidents laborals per nacionalitat de la víctima
+
+         Segons la nacionalitat de les persones afectades per un accident de treball, l’any 2025
+         s’observa que les persones d’altres nacionalitats i els espanyols suposen el 29,3% i el 25,0%,
+         respectivament, seguides de les persones de nacionalitat andorrana amb el 23,7%, les de
+         nacionalitat portuguesa amb el 21,0% i les persones de nacionalitat francesa amb el 0,9%
+         restant.
+
+         Cal destacar, per una banda, el fet que les persones de nacionalitat andorrana i espanyola,
+         que representen el 68,3% de la població activa (de 16 anys i més), concentren el 48,7% del
+         total d’accidents laborals. Per altra banda, la població portuguesa, que suposa un 9,5% de la
+         població activa, concentra al voltant d’1 de cada 5 accidents laborals (21,0%). Aquest últim fet
+         s’explica, en part, per l’elevat nombre d’accidents laborals de persones d’aquesta nacionalitat
+         dins del sector de la construcció.
+         Accidents laborals per nacionalitat
+                                                      2021           2022           2023           2024         2025      Dist. % % Població
+         de la víctima
+         Andorrana                                     339            354            363            376             308   23,7%       44,7%
+         Espanyola                                     391            405            410            401             326   25,0%       23,6%
+         Portuguesa                                    390            338            335            305             274   21,0%        9,5%
+         Francesa                                       25             20             22             20             12     0,9%        4,6%
+         Altres                                        191            237            333            407             382   29,3%       17,6%
+         Total                                        1.336          1.354          1.463          1.509       1.302       100%        100%
+
+
+
+
+         Si s’analitza la mitjana del quinquenni 2021-2025, s’observa com les persones de nacionalitat
+         espanyola són les que reporten un nombre més alt d’accidents de treball, 387 per any,
+         seguides de les persones de nacionalitat andorrana, que reporten 348 accidents. Les persones
+         de nacionalitat portuguesa reporten, de mitjana, 328 accidents, i els d’altres nacionalitats, 310.
+         Per a aquest període, els que reporten una menor quantitat d’accidents de treball són les
+         persones de nacionalitat francesa amb tan sols 20 accidents per any, de mitjana.
+
+
+
+                                           Accidents laborals per nacionalitat.
+                                                   Històric 2021-2025.
+                            450
+                            400
+                            350
+                            300                                                                            Andorrana
+                            250                                                                            Espanyola
+
+                            200                                                                            Portuguesa
+
+                            150                                                                            Francesa
+                                                                                                           Altres
+                            100
+                             50
+                              0
+                                    2021       2022           2023           2024           2025
+
+
+
+
+NP_A039_20260702                                                                                                                         Pàgina 7 de 19
+                                             A039. Estadística d’accidents. Any 2025
+
+
+         1.6         Accidents laborals per parròquia
+
+         Quant als accidents laborals per parròquia durant l’any 2025 podem destacar que Andorra la
+         Vella és on es van concentrar el nombre més alt d’accidents laborals, un total de 420,
+         equivalents al 32,3% del total. D’altra banda, a La Massana hi van ocórrer el 15,8%, a Encamp
+         el 13,8%, a Escaldes-Engordany l’11,9%, a Canillo l’11,5%, a Sant Julià de Lòria el 8,4% i a
+         Ordino el 5,5%. Un 0,8% dels accidents de treball van tenir lloc en altres localitzacions fora del
+         Principat.
+
+         Destaca la parròquia d’Andorra la Vella, on resideix el 27,9% de la població activa (de 16 anys i
+         més), que concentra la major part dels accidents laborals, el qual es podria explicar pel fet que
+         és la parròquia on es troben la major part dels llocs de treball.
+
+                                                        2021           2022     2023     2024        2025       Dist. % % Població
+           Accidents laborals per parròquia
+           Canillo                                         104          129      156      194          150      11,5%        7,4%
+           Encamp                                          159          159      181      214          180      13,8%       15,4%
+           Ordino                                          55            54       73        60             71    5,5%        6,2%
+           La Massana                                      155          177      205      207          206      15,8%       13,6%
+           Andorra la Vella                                498          498      523      489          420      32,3%       27,9%
+           Sant Julià de Lòria                             104          108      111      131          110       8,4%       11,5%
+           Escaldes-Engordany                              244          217      193      200          155      11,9%       18,1%
+           Altres                                          17            12       21        14             10    0,8%
+           Total                                       1.336           1.354    1.463   1.509        1.302 100,0%          100,0%
+
+
+
+         L’anàlisi del quinquenni 2021-2025 reflecteix que, de mitjana, la parròquia on es concentra el
+         nombre més gran d’accidents laborals és Andorra la Vella amb un total de 486 accidents per
+         any, seguida, a molta distància, d’Escaldes-Engordany amb 202 i de La Massana amb 190. A
+         Encamp, Canillo, Sant Julià de Lòria i Ordino, de mitjana, es donen 179, 147, 113 i 63
+         accidents laborals, respectivament. Els accidents laborals que es registren en altres
+         localitzacions suposen, de mitjana, 15 casos per any.
+
+
+
+                                               Accidents laborals per lloc de l'accident.
+                                                          Històric 2021-2025.
+
+
+                                 2025
+                                                                                        Canillo
+                                 2024                                                   Encamp
+                                                                                        Ordino
+
+                                 2023                                                   La Massana
+                                                                                        Andorra la Vella
+
+                                 2022                                                   Sant Julià de Lòria
+                                                                                        Escaldes-Engordany
+
+                                 2021                                                   Altres
+
+
+                                        0%    20%    40%         60%      80%   100%
+
+
+
+
+NP_A039_20260702                                                                                                                     Pàgina 8 de 19
+                                        A039. Estadística d’accidents. Any 2025
+
+
+         1.7        Accidents laborals per gravetat
+
+         La gravetat dels accidents laborals, segons la metodologia de l’Eurostat, es mesura segons la
+         quantitat de dies de baixa que la víctima ha hagut d’estar absent del seu lloc de treball durant
+         l’any immediatament posterior a la data de l’accident. Quant al nombre de dies d’absència en el
+         lloc de treball, l’oficina d’Estadística de la Unió Europea només considera com accident laboral
+         aquell accident que requereix, com a mínim, 4 dies de baixa mèdica.
+
+         Així, per a l’any 2025, la majoria de les víctimes d’accidents laborals, un 49,5%, van necessitar
+         més de 30 dies d’absència per a estar en plenes condicions per a retornar al seu lloc de treball,
+         mentre que el 18,0% van ser de 15 a 30 dies. Un 16,7% de les víctimes va necessitar entre 8 i
+         14 dies i un 15,7% en va necessitar entre 4 i 7. En el transcurs de l’any no s’ha comptabilitzat
+         cap accident fatal.
+
+
+               Accidents laborals per dies perduts
+                                                            2021       2022        2023       2024           2025   Dist. %
+               (baixa)
+               Fatals                                             1          0          2            1         0      0,0%
+               4-7 dies                                      199         206        227        248           205     15,7%
+               8-14 dies                                     264         252        288        271           217     16,7%
+               15-30 dies                                    256         315        283        285           235     18,0%
+               Més de 30 dies                                 616        581         663       704         645 49,5%
+               Total                                        1.336      1.354       1.463     1.509       1.302 100,0%
+
+
+         Durant el quinquenni 2021-2025, de mitjana, la majoria de les víctimes d’accidents laborals, un
+         46,1%, van necessitar més de 30 dies d’absència laboral. El 19,7% van necessitar entre 15 i 30
+         dies, el 18,6% entre 8 i 14 dies i el 15,6% entre 4 i 7 dies. Com a fet positiu, destaca la reduïda
+         significació dels accidents laborals fatals, amb una mitjana quinquennal de tan sols 1 accident
+         (0,1%).
+
+
+                                             Accidents laborals per gravetat.
+                                                   Històric 2021-2025.
+                            100%
+                                90%
+                                80%
+                                70%                                                         Més de 30 dies
+                                60%
+                                                                                            15-30 dies
+                                50%
+                                                                                            8-14 dies
+                                40%
+                                                                                            4-7 dies
+                                30%
+                                                                                            Fatals
+                                20%
+                                10%
+                                0%
+                                      2021        2022     2023       2024       2025
+
+
+
+
+NP_A039_20260702                                                                                                              Pàgina 9 de 19
+                                                                                                           A039. Estadística d’accidents. Any 2025
+
+
+         1.8              Accidents laborals per sector de treball
+
+         Per sector de treball, l’any 2025 el sector Construcció ha estat el que ha acumulat un nombre
+         més gran d’accidents laborals amb 405, un 31,1% del total. Els sectors que continuen amb una
+         proporció més destacada són Altres activitats socials i serveis personals amb 227 accidents, un
+         17,4%, i Comerç amb 215, un 16,5%.
+                                                                                                                                                                                                                                                                                                                                                                                                                                             % Pob.
+         Accidents laborals per sector de treball                                                                                         2021                                              2022                                                             2023                                         2024                                     2025                                        % Dist.
+                                                                                                                                                                                                                                                                                                                                                                                                                                            ocupada
+         A-Agricultura,ramaderia,caça i silvicultura                                                                                                          11                                                   8                                           5                                                       8                                                                   8                                0,6%              0,43%
+         D-Indústries manufactureres                                                                                                                          63                                               73                                             86                                             94                                                                   64                                        4,9%              1,96%
+         F-Construcció                                                                                                                       472                                                     458                                                     421                                          472                                                405                                        31,1%                                 9,41%
+         G-Comerç                                                                                                                            204                                                     203                                                     237                                          224                                                215                                        16,5%                                19,68%
+         H-Hoteleria                                                                                                                                          99                                     118                                                     123                                          133                                                                     93                                        7,1%              8,85%
+         I-Transports i comunicacions                                                                                                                         33                                               32                                             37                                             44                                                                   37                                        2,8%              7,66%
+         K-Activitats immobiliàries i serveis empresarials                                                                                   119                                                     111                                                     129                                          113                                                122                                                            9,4%             15,02%
+         L-Administració pública i seguretat social                                                                                                           82                                               62                                             75                                             96                                                                   69                                        5,3%              8,61%
+         N-Activitats sanitàries i veterinàries, serveis socials                                                                                              50                                               46                                             48                                             51                                                                   42                                        3,2%              6,44%
+         O-Altres activitats socials i serveis personals                                                                                     168                                                     207                                                     269                                          246                                                227                                        17,4%                                 8,81%
+         P-Llars que ocupen personal domèstic                                                                                                                 18                                               23                                             20                                             15                                                                            8                                0,6%              1,53%
+         Altres                                                                                                                                               17                                               14                                             13                                             13                                                                   12                                        0,9%             11,61%
+          Total                                                     1.336     1.355       1.463       1.509                                                                                                                                                                                                                                        1.302                                       100,0%                                       100,00%
+         * Els sectors de treball amb menys de 5 observacions s’han agrupat en la categoria ‘Altres’.
+
+
+
+
+                                                                                                             Accidents laborals per sector d'activitat.
+                                                                                                                           Any 2025.
+                  35,0%
+
+                  30,0%
+
+                  25,0%
+
+                  20,0%
+
+                  15,0%
+
+                  10,0%
+
+                  5,0%
+
+                  0,0%
+
+
+
+
+                                                                                                                                                                            K-Activitats immobiliàries i serveis
+                                                                                                                                                                                                                                                                                                                                                                                                                                   Altres
+
+
+
+
+                                                                                                                                            I-Transports i comunicacions
+                            A-Agricultura,ramaderia,caça i
+                                                                                                                          H-Hoteleria
+                                                                                           F-Construcció
+                                                                                                                                                                                                                                                                N-Activitats sanitàries i veterinàries,
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                    P-Llars que ocupen personal domèstic
+                                                                                                               G-Comerç
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                               T-Treball domèstic a la comunitat
+                                                                                                                                                                                                                       L-Administració pública i seguretat
+
+
+
+                                                             D-Indústries manufactureres
+                                                                                                                                                                                                                                                                                                           O-Altres activitats socials i serveis
+
+
+
+
+                                      silvicultura
+                                                                                                                                                                                       empresarials                                  social                                                                             personals
+                                                                                                                                                                                                                                                                           serveis socials
+
+
+
+                                                                                                                                        % Dist.                            % Assalariats
+
+
+
+
+         Analitzant el quinquenni 2021-2025 s’observa com, de mitjana, els dos sectors en els quals es
+         pateix un nombre més elevat d’accidents laborals són Construcció i Altres activitats socials i
+         serveis personals amb 446 i 223, respectivament, seguits de Comerç amb 217, i d’Activitats
+         immobiliàries i serveis empresarials amb 119 accidents.
+
+
+
+
+NP_A039_20260702                                                                                                                                                                                                                                                                                                                                                                                                                                 Pàgina 10 de 19
+                                            A039. Estadística d’accidents. Any 2025
+
+
+         1.9        Accidents laborals per tipus de lesió
+
+         Quant als tipus de lesió, l’any 2025 la majoria d’accidents laborals han estat a causa de
+         contusions (22,6%) o esquinçades (22,1%). El 20,6% d’accidents van ser a causa de
+         sobreesforç/estirament, el 12,6% de fractures simples, el 10,1% de ferides simples i el 2,8% de
+         torçades. El 9,2% d’accidents restants han reportat altres lesions.
+
+
+
+                                                               2021          2022     2023        2024        2025   Dist. %
+               Accidents laborals per tipus de lesió
+               Contusió                                         329           512      397         430         294    22,6%
+               Esquinçada                                       537           511      590         596         288    22,1%
+               Sobreesforç/Estirament                            85            68        69          92        268    20,6%
+               Fractura Simple                                  142           148      169         141         164    12,6%
+               Ferida Simple                                    100           105        95        112         132    10,1%
+               Torçada                                            1             0         0           0         36     2,8%
+               Altres                                           142             10      143        138          120   9,2%
+               Total                                          1.336          1.354    1.463      1.509        1.302 100,0%
+
+
+
+
+         Si s’analitza el quinquenni 2021-2025, de mitjana, la principal lesió en accidents laborals
+         correspon a esquinçades amb 504 accidents per any, seguit de contusions amb 392 i fractures
+         simples amb 153 lesions.
+
+
+
+                                              Accidents laborals per tipus de lesió.
+                                                      Històric 2021 - 2025.
+                          700
+                          600
+                          500
+                          400
+                          300
+                          200
+                          100
+                               0
+                                     2021             2022            2023            2024            2025
+
+                                   Contusió                  Esquinçada              Sobreesforç/Estirament
+                                   Fractura Simple           Ferida Simple           Torçada
+                                   Altres
+
+
+
+
+NP_A039_20260702                                                                                                               Pàgina 11 de 19
+                                           A039. Estadística d’accidents. Any 2025
+
+
+         1.10          Accidents laborals per part del cos accidentada
+
+         Segons la part del cos accidentada, els genolls i els dits de la mà (amb 188 i 185 lesions,
+         respectivament) han estat afectats en el 28,6% dels accidents laborals reportats durant l’any
+         2025. Els turmells, la columna lumbar i les espatlles han estat presents com a part del cos
+         afectada amb 154, 146 i 108 accidents, respectivament.
+
+
+
+                Accidents laborals per lloc
+                                                                2021      2022       2023       2024           2025   Dist. %
+                accidentat
+                Genolls                                          161           162    195         199           188    14,4%
+                Dits Mà                                          167           174    161         171           185    14,2%
+                Turmells                                         163           193    190         143           154    11,8%
+                Columna Lumbar                                   148           163    181         175           146    11,2%
+                Espatlles                                         91           94     129         138           108     8,3%
+                Canells                                           69           65      83         85             69     5,3%
+                Cames                                             74           58      65         66             57     4,4%
+                Mans                                              60           55      66         94             52     4,0%
+                Peus                                              49           41      57         51             44     3,4%
+                Altres                                           354           349    336         387           299    23,0%
+                Total                                           1.336     1.354      1.463      1.509          1.302 100,0%
+
+
+
+
+                                               Accidents laborals per part del cos accidentada.
+                                                            Històric 2021 - 2025.
+
+                            100%
+                            90%
+                            80%
+                            70%
+                            60%
+                            50%
+                            40%
+                            30%
+                            20%
+                            10%
+                             0%
+                                    2021              2022              2023          2024              2025
+
+                                   Genolls            Dits Mà            Turmells        Columna Lumbar
+                                   Espatlles          Canells            Cames           Mans
+                                   Peus               Altres
+
+
+
+
+NP_A039_20260702                                                                                                                Pàgina 12 de 19
+                                         A039. Estadística d’accidents. Any 2025
+
+
+         1.11           Accidents laborals per lloc de l’accident
+
+         La metodologia utilitzada per l’Eurostat marca que cal diferenciar aquells accidents que ocorren
+         en el desplaçament (cap al lloc de treball o des del lloc de treball) dels accidents laborals que
+         tenen lloc en el transcurs de les activitats laborals, comptabilitzant únicament aquests últims en
+         aquesta activitat estadística. És per aquest motiu que se’n fa una anàlisi de forma separada i
+         no es comptabilitzen els accidents in itinere (en el desplaçament) en el còmput global
+         d’accidents laborals.
+
+         Durant l’any 2025 hi ha hagut un total de 194 accidents in itinere, un +10,2% respecte a l’any
+         anterior.
+
+                                                       2021    2022    2023        2024   2025 Variació
+                Accidents laborals per desplaçament
+                Desplaçament                           236      196     138         176    194    10,2%
+                Total                                  236      196     138         176    194
+
+
+
+         Per altra banda, durant l’any 2025, 1.302 accidents laborals han ocorregut en el mateix lloc de
+         treball.
+
+
+                                                       2021    2022    2023        2024   2025   Dist. %
+                Accidents laborals per lloc
+                En el lloc de treball                 1.336    1.354   1.463   1.509      1.302 100,0%
+                Total                                 1.336    1.354   1.463   1.509      1.302 100,0%
+
+
+
+
+NP_A039_20260702                                                                                           Pàgina 13 de 19
+                                          A039. Estadística d’accidents. Any 2025
+
+
+         2      Jornades no treballades
+
+
+         El nombre total de jornades no treballades és de 56.833 dies per a l’any 2025. Això vol dir que,
+         entre totes les víctimes d’accidents laborals, s’han deixat de treballar aquesta quantitat de dies.
+         Aquesta xifra representa una disminució del 13,7% en comparació a l’any anterior.
+
+         El nombre de jornades no treballades per accident laboral és, per tant, de 43,7 dies per a l’any
+         2025, xifra un 0,02% més alta que a l’any anterior.
+
+
+                                                                    2021      2022      2023         2024      2025
+                 Total jornades no treballades                    51.717    46.927     59.727      65.857    56.833
+                 Variació anual                                   -31,2%     -9,3%     27,3%       10,3%     -13,7%
+                 Nombre total d'accidents laborals                  1.336     1.354     1.463       1.509      1.302
+                 Jornades no treballades per accident                38,7      34,7      40,8         43,6      43,7
+                 Variació anual                                   -36,5%    -10,5%     17,8%        6,9%      0,02%
+
+
+
+
+                                                  Nombre de jornades no treballades.
+                                                         Històric 2021-2025.
+
+                              70.000                                          65.857
+                                                                  59.727
+                              60.000                                                       56.833
+                                         51.717
+                              50.000                    46.927
+
+                              40.000
+
+                              30.000
+
+                              20.000
+
+                              10.000
+
+                                   0
+                                          2021          2022       2023        2024         2025
+
+
+
+
+         2.1         Jornades no treballades per sexe
+
+         Quant al sexe de la persona, durant el 2025, el 76,6% de les jornades no treballades
+         corresponen a homes, mentre que el 23,4% corresponen a dones. La variació respecte a l’any
+         anterior és negativa d’un 13,3% en el cas dels homes i d’un 15,0% en el cas de les dones.
+
+
+
+               Nombre total de jornades no
+                                                         2021      2022      2023        2024         2025    V. Anual
+               treballades per sexe
+               Home                                     38.922   36.793     43.643     50.235       43.553     -13,3%
+               Dona                                     12.795   10.134     16.084     15.622       13.280     -15,0%
+               Total                                    51.717   46.927     59.727     65.857       56.833     -13,7%
+
+
+
+
+NP_A039_20260702                                                                                                         Pàgina 14 de 19
+                                        A039. Estadística d’accidents. Any 2025
+
+
+         2.2         Jornades no treballades per tram d’edat
+
+         Quant al grup d’edat, i per a l’any 2025, el 24,6% de les jornades no treballades corresponen a
+         les persones d’entre 45 i 54 anys, seguidament trobem les de 25 a 34 anys amb el 22,4% i les
+         de 35 a 44 anys amb el 22,1%. Fins als 64 anys, la mitjana de jornades no treballades és més
+         gran com més més alta és l’edat de la persona, essent de 50,9 dies per a les persones que
+         tenen entre 55 i 64 anys.
+
+
+
+               Nombre total de jornades no
+                                                    2021      2022      2023        2024       2025    V. Anual
+               treballades per tram d'edat
+               16-24                               3.479      3.647     4.723       4.968     3.913     -21,2%
+               25-34                              11.959     10.949    11.477      14.815    12.756     -13,9%
+               35-44                              12.377     10.402    13.077      15.029    12.541     -16,6%
+               45-54                              11.825     11.299    15.266      15.326    13.986      -8,7%
+               55-64                              10.618      9.818    13.228      13.958    12.478     -10,6%
+               65 o més                            1.459        812     1.956       1.761     1.159     -34,2%
+               Total                              51.717     46.927    59.727      65.857    56.833     -13,7%
+
+
+
+
+                                        Jornades no treballades per tram d'edat.
+                                                 Històric 2021-2025.
+
+
+                         2025
+
+
+                         2024                                                               16-24
+                                                                                            25-34
+
+                         2023                                                               35-44
+                                                                                            45-54
+                                                                                            55-64
+                         2022
+                                                                                            65 o més
+
+                         2021
+
+
+                                0%      20%       40%        60%       80%         100%
+
+
+
+
+NP_A039_20260702                                                                                                  Pàgina 15 de 19
+                                         A039. Estadística d’accidents. Any 2025
+
+
+         2.3         Jornades no treballades per nacionalitat
+
+         Durant l’any 2025, del total de jornades no treballades, un 27,5% corresponen a persones
+         d’altres nacionalitats, un 26,8% a persones de nacionalitat espanyola, un 23,2% a persones
+         amb nacionalitat andorrana, un 21,8% a persones de nacionalitat portuguesa i un 0,8% a
+         persones de nacionalitat francesa.
+
+
+               Nombre total de jornades no
+                                                      2021        2022       2023     2024       2025      V. Anual
+               treballades per nacionalitat
+               Andorrana                            12.789      11.979      14.656   17.270    13.162       -23,8%
+               Espanyola                            15.372      14.265      17.010   18.661    15.221       -18,4%
+               Portuguesa                           15.286      12.390      15.983   15.100    12.385       -18,0%
+               Francesa                              1.018         616         827      509       456       -10,4%
+               Altres                                7.252       7.677      11.251   14.317    15.609         9,0%
+               Total                                51.717      46.927      59.727   65.857    56.833       -13,7%
+
+
+                                       Jornades no treballades per nacionalitat.
+                                                 Històric 2021-2025.
+
+
+                       2025
+
+
+
+                       2024
+                                                                                              Andorrana
+                                                                                              Espanyola
+                       2023
+                                                                                              Portuguesa
+                                                                                              Francesa
+
+                       2022                                                                   Altres
+
+
+
+                       2021
+
+
+                              0%       20%         40%          60%         80%      100%
+
+
+
+
+NP_A039_20260702                                                                                                      Pàgina 16 de 19
+                                                 A039. Estadística d’accidents. Any 2025
+
+
+         3     Accidents de trànsit
+
+
+         Segons les dades del Departament de Policia, el nombre d’accidents de trànsit amb danys
+         materials i/o corporals durant l’any 2025 ha estat de 533, un 16,9% més en comparació amb
+         l’any anterior.
+
+
+                          Any                                           2021          2022       2023     2024      2025
+                          Nombre total d'accidents                       496           536        438      456       533
+                          Variació anual                               18,4%          8,1%     -18,3%     4,1%     16,9%
+
+
+
+
+         3.1          Accidents per tipus
+
+         Durant l’any 2025, la tipologia d’accident més comuna ha estat el xoc amb un 10,7% del total
+         d’accidents, seguit de l’atropellament amb un 8,6%, la sortida de la via amb un 8,3%, la col·lisió
+         per abast amb un 6,6% i, finalment, la caiguda de moto amb un 1,5%. El 64,4% dels accidents
+         són sense tipologia o altres.
+
+
+               Nombre d'accidents per tipus                                                                             Variació
+               Any                                           2021            2022       2023       2024     2025      2024/2025
+               Col·lisió per abast                             67              88         67         84       35         -58,3%
+               Sortida de via                                  39              28         61         61       44         -27,9%
+               Xoc                                             36              65         53         64       57         -10,9%
+               Atropellament                                   42              39         48         49       46          -6,1%
+               Caiguda de moto                                 14              20          9         10        8         -20,0%
+               Altres                                         298             296        200        188      343          82,4%
+               TOTAL                                          496             536        438        456      533          16,9%
+               Nota: Els accidents sense tipologia descrita s'inclouen en "Altres".
+
+
+
+
+NP_A039_20260702                                                                                                                   Pàgina 17 de 19
+                                      A039. Estadística d’accidents. Any 2025
+
+
+         4   Nota metodològica
+
+             •     Font. Dades d’accidents laborals enviades amb periodicitat mensual per la CASS i
+                   tractades pel Departament d’Estadística. Dades d’accidents de trànsit enviades amb
+                   periodicitat anual pel Departament de Policia i revisades i tractades pel Departament
+                   d’Estadística.
+
+             •     Definicions.
+
+                       -   Accident laboral: segons la definició de l’Eurostat, aquella ocurrència en el
+                           decurs de les tasques relacionades amb el treball que deriva en una lesió física
+                           o psíquica i que implica més de tres dies d’absència en el lloc de treball.
+                       -   Accident fatal: accident que comporta la mort de la víctima dins el període d’un
+                           any immediatament posterior a la data de l’accident.
+                       -   Accident no fatal: accident que no comporta la mort de la víctima dins el
+                           període d’un any immediatament posterior a la data de l’accident.
+                       -   Rati d’incidència: el resultat de realitzar el càlcul del nombre d’accidents
+                           ocorreguts durant l’any entre la població ocupada.
+                       -   Jornades totals no treballades: el sumatori del producte entre el nombre de
+                           dies de baixa requerits i el nombre de persones que requereixen aquests dies
+                           de baixa.
+
+             •     Referències metodològiques.
+
+                   Eurostat:
+                   Les dades incloses en aquest informe inclouen accidents fatals (comporten la mort de
+                   la víctima) i no fatals (no comporten la mort de la víctima) que derivin en més de tres
+                   dies d’absència en el lloc de treball que hagin ocorregut sobre el lloc de treball. Les
+                   variables recollides en matèria d’accidents de treball inclouen l’activitat econòmica de
+                   l’empresari, edat, sexe i nacionalitat de la víctima, la situació geogràfica, tipus de lesió,
+                   part del cos afectada i la gravetat de l’accident, així com altres variables relacionades
+                   amb causes o circumstàncies de l’accident.
+
+                   Aquestes dades inclouen tots els accidents en el transcurs del treball, ocorrin dins o
+                   fora les premisses de l’empresari, en les premisses d’un altre empresari, en espais
+                   públics o en el transcurs dels desplaçaments laborals, així com dins la llar de l’empleat
+                   en el cas del teletreball. No s’inclouen els accidents en el desplaçament cap al treball o
+                   des del treball, accidents auto-provocats, accidents provocats per problemes mèdics
+                   (atacs de cor, etc.) que hagin ocorregut durant el desenvolupament de la feina que no
+                   hagin estat causats, al menys en part, degut a l’activitat de l’ocupació de la víctima.
+
+                   Per a més detalls, veure la informació continguda en l’enllaç següent:
+                   https://ec.europa.eu/eurostat/cache/metadata/en/hsw_acc_work_esms.htm
+
+                   L’Eurostat (en anglès: Statistical Office of the European Communities) és
+                   l’oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+                   Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+                   Les dades inclouen únicament aquells accidents fatals i no fatals que impliquen més de
+                   tres dies d’absència en el lloc de treball.
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa demanem de citar “Dades de la CASS i del Departament de Policia, tractades
+                   pel Departament d’Estadística en la Nota de Premsa ref. NP_A039_20260702”.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A039: Estadística d’accidents.
+
+
+
+
+NP_A039_20260702                                                                                              Pàgina 18 de 19
+                                     A039. Estadística d’accidents. Any 2025
+
+
+             •     Difusió.     Dades     disponibles    al  web    www.estadistica.ad,      a    l’apartat
+                   Estadístiques/Dades/Salut/Indicadors de salut/Estadística d’accidents. Per estar
+                   informat en qualsevol moment de les noves publicacions us podeu inscriure a la nostra
+                   “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de
+                   premsa d’aquest tema: http://www.estadistica.ad
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                   (actualment X)
+
+
+
+         5   Dates de les publicacions previstes
+
+             Nota de premsa A039. Estadística d’accidents. Any 2026: 2n trimestre del 2027
+
+
+
+
+NP_A039_20260702                                                                                          Pàgina 19 de 19
+
