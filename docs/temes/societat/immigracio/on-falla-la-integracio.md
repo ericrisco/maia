@@ -191,8 +191,35 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
 > **Auditats contra la resta del corpus el 2026-09-13.**
 
 1. **La Llei general de sanitat de 1989**, articles 7 i 8, **i si es va
-   reglamentar mai**. **Prioritari.** — **`obert`, confirmat.** `Requereix font
-   externa: el BOPA.`
+   reglamentar mai**. **Prioritari.** — **`parcial` el 17-09-2026, i el que no
+   es tanca té un motiu concret.** **La Llei General de Sanitat és al
+   [BOPA](../../../fonts/bopa.md)**, butlletí **6 del 1989**, del 9 d'abril
+   (`docs/raw/lleis/bopa/llei-1989-general-de-sanitat.txt`), **aprovada pel
+   Consell General en la sessió tradicional de Setmana Santa del 20 de març del
+   1989.**
+
+   **Però el blob del BOPA d'aquest document porta només l'exposició de motius i
+   una remissió a un «text refós» que no s'ha localitzat**: **els articles 7 i 8
+   no hi són.** **És el primer document en què la via del BOPA no serveix el
+   text**, i queda registrat com a límit conegut.
+
+   **El que l'exposició de motius sí que dona, i el corpus no tenia, és la
+   genealogia de la matèria.** La norma que la llei del 1989 ve a substituir és
+   el **Reglament de Sanitat del 1936** —«força innovador en el moment de la
+   seva aprovació»—, i **entre el 1983 i el 1985 s'havien aprovat sis lleis
+   soltes**: malalties infeccioses de declaració obligatòria, aliments
+   refrigerats i congelats, residus sòlids, protecció del consumidor, policia i
+   protecció de les aigües, i contaminació atmosfèrica i sorolls. **La Llei
+   General de Sanitat s'escriu per aglutinar-les mantenint-les vigents.**
+
+   **I dona la data de la reforma institucional**: **el procés comença el 1986**,
+   i **el primer pas és la creació del Servei Andorrà d'Atenció Sanitària**,
+   definit ja a la seva llei de creació com a **entitat parapública amb
+   personalitat jurídica i autonomia financera**, que **assumeix la gestió de
+   tots els recursos públics d'atenció sanitària.**
+
+   `Requereix el text refós de la Llei General de Sanitat per als articles 7 i 8;
+   el blob del BOPA d'aquest document no els porta.`
 2. ~~**El termini real de pèrdua de cobertura de la CASS**: vint dies o
    vint-i-cinc.~~ — **`obert`, i ara se sap que la divergència és entre dues
    fonts del corpus i no dins una.** **Aquesta fitxa en dona 25**;
