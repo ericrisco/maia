@@ -122,10 +122,39 @@ retenir:
 - els **rendiments del deute públic** emès per Andorra;
 - els **premis dels jocs d'atzar** autoritzats.
 
+## Les vint-i-quatre versions no són vint-i-quatre lleis
+
+**El [Butlletí](../../../fonts/bopa.md) permet comptar la cadena de cada impost,
+i el resultat no s'assembla al recompte del consolidat comercial.**
+
+| Impost | Llei base | Lleis que la modifiquen | Textos refosos publicats |
+| --- | --- | --- | --- |
+| **IGI** | **Llei 11/2012**, del 21 de juny | **tres** — 29/2012, 11/2013 i 10/2014 | **cinc**: 2014, 2015, 2016, 2017 i 2019 |
+| **IRPF** | **Llei 5/2014**, del 24 d'abril | **una** — 42/2014 | **quatre**: 2015, febrer i agost del 2018, i 2019 |
+| **Impost sobre societats** | **Llei 95/2010**, del 29 de desembre | **dues** — 17/2011 i 6/2018 | **quatre**: 2015, febrer i agost del 2018, i 2019 |
+
+**El gruix del moviment és dels dos primers anys de cada impost.** L'IGI es
+modifica **tres vegades entre el 2012 i el 2014** —la primera, quatre mesos
+després d'aprovar-se— i **cap més des d'aleshores**. L'IRPF **només una vegada**,
+i set mesos després de néixer. **Des del 2018 cap dels tres impostos no té una
+llei modificadora nova**: el que hi ha són **textos refosos**, que no canvien res
+i només reordenen.
+
+**I la data que més diu és una que es repeteix.** **El 5 de juny del 2019 el
+Govern publica el text refós dels tres impostos el mateix dia**, i el **29 d'abril
+del 2015** també. **Les consolidacions es fan per tandes, no impost a impost**:
+el que el corpus té com «24, 22 i 14 versions» és el recompte d'un consolidador
+comercial que compta cada retoc indirecte, **no lleis del Butlletí**.
+
 ## Buits registrats
 
-- **Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
-  comparació de versions**: el corpus té els tipus d'avui i no la seva història.
+- ~~**Aquestes lleis són joves i han canviat molt**: 24, 22 i 14 versions. **Cap
+  comparació de versions**: el corpus té els tipus d'avui i no la seva
+  història.~~ — **`parcial` el 17-09-2026** a «[Les vint-i-quatre versions no són
+  vint-i-quatre lleis](#les-vint-i-quatre-versions-no-son-vint-i-quatre-lleis)»:
+  **la cadena del Butlletí són sis lleis modificadores en total per als tres
+  impostos, i tretze textos refosos**. `El contingut de cada modificació —quin
+  tipus va canviar i quan— segueix sense buidar-se: demana llegir les sis lleis.`
 - **Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
   els d'aquesta fitxa són els de la instantània.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
