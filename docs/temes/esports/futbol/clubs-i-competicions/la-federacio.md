@@ -67,13 +67,51 @@ andorrana amb aquesta concentració, i no sap si n'hi ha cap més a Europa.**
 constitucional.** **Vint-i-quatre anys de clubs sense federació, i després tot
 en tres anys: federació el 94, lliga el 95, FIFA i selecció el 96.**
 
+## Els tres estadis del país
+
+El bolcat propi del corpus
+([`Football_in_Andorra.wiki`](../../../../raw/web/esport/estructura/Football_in_Andorra.wiki))
+llista **els camps de futbol d'Andorra**, i **són tres**:
+
+| Estadi | Capacitat | Parròquia |
+| --- | ---: | --- |
+| **Estadi de la FAF** | **5.108** | Encamp |
+| Estadi Nacional | 3.306 | Andorra la Vella |
+| Estadi Comunal d'Andorra la Vella | 1.249 | Andorra la Vella |
+
+**El camp més gran del país és de la federació, i és a Encamp.** **Els tres
+junts fan 9.663 places** —**menys de l'11% de la població.**
+
+**I confirma el que aquesta fitxa deia**: **el propietari del camp gran no és
+cap club ni cap comú, sinó la federació.**
+
+## El futbol sala també és seu
+
+Era un buit d'aquesta fitxa: «la font categoritza la federació també com a
+rectora del futbol sala, i el corpus no en té cap fitxa».
+
+**Ara sí**: [el futbol sala](../../seleccions/el-futbol-sala.md), amb **dinou
+fases de classificació, seixanta-tres partits oficials i cap classificació**, i
+**els catorze convocats del 2026**. **La selecció de futbol sala la controla
+aquesta mateixa federació** i **el seu sobrenom és el mateix que el del futbol,
+«els Tricolors»**.
+
+**I hi ha un tercer detall que lliga les dues coses**: **tres clubs de la lliga
+de futbol hi posen internacionals de futbol sala** —**ENFAF CM Andorra, FC
+Rànger's i FC Encamp**—, de manera que **l'ENFAF que aquesta fitxa ja
+identificava com a club de la federació també té secció de futbol sala**, i
+**hi posa sis dels catorze convocats.**
+
 ## El que falta
 
-- **Qui és Fèlix Álvarez**, i quants presidents ha tingut la federació.
+- **Qui és Fèlix Álvarez**, i quants presidents ha tingut la federació. —
+  **`obert`, i el bolcat només confirma el càrrec**: **no en dona ni biografia
+  ni data d'inici ni cap predecessor.**
 - **El pressupost.** El corpus no té ni un import.
-- **El futsal**: la font categoritza la federació també com a rectora del
-  **futbol sala**, i el corpus no en té cap fitxa
-  ([Joaquim Besora](../joaquim-besora.md) n'és l'únic rastre).
+- ~~**El futsal**: la font categoritza la federació també com a rectora del
+  **futbol sala**, i el corpus no en té cap fitxa.~~ `resolt` **el 2026-09-18**:
+  [el futbol sala](../../seleccions/el-futbol-sala.md). **Segueix obert si
+  [Joaquim Besora](../joaquim-besora.md) en va ser internacional.**
 - **L'arbitratge.** [Ainhoa Fernández](../femeni/ainhoa-fernandez.md) apunta que
   hi ha arbitratge femení andorrà i el corpus no n'ha llegit res.
 

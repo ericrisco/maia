@@ -109,9 +109,101 @@ subcampió crònic de la lliga andorrana**, i el corpus ho registra perquè
 El corpus ho deixa dit tal com ho diu la font: **és una decisió de la federació,
 no un fet del calendari.**
 
+## La Segona Divisió, i per què la lliga va encongir el 1999
+
+Eren dos buits d'aquesta fitxa, i **es tanquen l'un amb l'altre**. El bolcat
+propi del corpus
+([`Segona_Divisió_d_Andorra-ca.wiki`](../../../../raw/web/esport/estructura/Segona_Divisió_d_Andorra-ca.wiki))
+diu la data:
+
+> **La Segona Divisió «es disputa des del 1999».**
+
+**La Primera Divisió no va perdre cinc equips el 1999: els va col·locar en una
+categoria nova.** **La lliga no va encongir, es va partir en dues.** El bolcat
+anglès ho confirma per l'estructura: **hi ha ascensos i descensos d'un o dos
+clubs entre les dues divisions.**
+
+`El corpus registra que el bolcat no diu explícitament que els equips sortints
+de Primera fundessin la Segona: el que hi ha provat és la coincidència d'any i
+l'existència de promoció entre categories.`
+
+### El nom comercial de cadascuna
+
+| Divisió | Nom de patrocini | Des de |
+| --- | --- | --- |
+| Primera Divisió | **Lliga Multisegur Assegurances** | 13 de setembre del 2017 |
+| Segona Divisió | **Lliga UNIDA** | — |
+
+**El nom oficial de la Primera és «Lliga Nacional de Futbol».**
+
+### El palmarès de la Segona, 1999-2021
+
+| Temporada | Campió |
+| --- | --- |
+| 1999-00 | FC Lusitans |
+| 2000-01 | FC Rànger's |
+| 2001-02 | **Racing d'Andorra** |
+| 2002-03 | UE Engordany |
+| 2003-04 | Atlètic Club d'Escaldes |
+| 2004-05 | **FC Santa Coloma B** |
+| 2005-06 | FC Encamp |
+| 2006-07 | Casa Estrella del Benfica |
+| 2007-08 | UE Santa Coloma |
+| 2008-09 | FC Encamp |
+| 2009-10 | Casa Estrella del Benfica |
+| 2010-11 | FC Lusitanos B |
+| 2011-12 | **FC Encamp** |
+| 2012-13 | FC Ordino |
+| 2013-14 | UE Engordany |
+| 2014-15 | Penya Encarnada d'Andorra |
+| 2015-16 | CE Jenlai |
+| 2016-17 | **Inter Club d'Escaldes** |
+| 2017-18 | FC Ordino |
+| 2018-19 | Atlètic Club d'Escaldes |
+| 2019-20 | Penya Encarnada d'Andorra |
+| 2020-21 | La Massana |
+
+**Dos campions de Segona no van pujar**, i el bolcat ho diu:
+
+- **El Racing d'Andorra (2001-02) es va dissoldre al final de la temporada** i
+  **va pujar el FC Cerni al seu lloc.**
+- **El FC Santa Coloma B (2004-05) no va pujar per ser filial** i **va ocupar el
+  seu lloc la UE Extremenya.**
+
+**El FC Encamp és el que més vegades l'ha guanyada: tres** (2005-06, 2008-09,
+2011-12). **I l'Inter Club d'Escaldes hi era el 2016-17**, set anys abans de
+guanyar copes i supercopes
+([la copa](./la-copa.md)): **el camí de baix a dalt sí que existeix.**
+
+### Quants equips hi ha, segons qui ho digui
+
+**El bolcat català diu onze equips** i **en llista onze per a la temporada
+2022-23**; **el bolcat anglès diu vuit, dos dels quals filials.** **Són dues
+instantànies de dates diferents i el corpus no en tria cap**: **la llista de
+2022-23 sí que es pot donar sencera**, i **hi ha quatre filials, no dos** —FC
+Ordino B, FC Santa Coloma B, UE Engordany B i UE Santa Coloma B.
+
+| Equip | Localitat |
+| --- | --- |
+| CE Carroi | Andorra la Vella |
+| CF Atlètic Amèrica | Escaldes |
+| CF Esperança d'Andorra | Andorra la Vella |
+| FC Encamp | Encamp |
+| **FC Ordino B** | Ordino |
+| **FC Santa Coloma B** | Santa Coloma |
+| FC Pas de la Casa | Encamp |
+| FS La Massana | La Massana |
+| FC Rànger's | Andorra la Vella |
+| **UE Engordany B** | Escaldes-Engordany |
+| **UE Santa Coloma B** | Andorra la Vella |
+
+**Quatre dels onze equips de Segona són filials d'equips de Primera.**
+
 ## El que falta
 
-- **La Segona Divisió**: vuit clubs, dos dels quals filials. Res més.
+- ~~**La Segona Divisió**: vuit clubs, dos dels quals filials. Res més.~~
+  `resolt` **el 2026-09-18**: **des del 1999**, **el palmarès sencer fins al
+  2020-21** i **els onze equips del 2022-23**, a dalt.
 - ~~**Els clubs un per un.**~~ i ~~**els noms dels clubs són un mapa del país
   i de les seves comunitats**~~ — **tancats el mateix dia**:
   **[els clubs](./els-clubs.md)**, setze fitxats. **El mapa hi és**: **tres
@@ -119,7 +211,9 @@ no un fet del calendari.**
   porta el nom d'una comunitat espanyola i un va néixer d'una penya del Reial
   Madrid.** **El que segueix obert són els clubs que no tenen article**: Casa de
   Portugal, Sporting d'Escaldes, Pas de la Casa i Penya Encarnada.
-- **Per què la lliga va passar de dotze equips a set el 1999.**
+- ~~**Per què la lliga va passar de dotze equips a set el 1999.**~~ `resolt`
+  quant al fet: **el 1999 és l'any en què es crea la Segona Divisió**, amb
+  promoció i descens entre les dues. **La lliga no va encongir: es va partir.**
 
 ## Related
 
