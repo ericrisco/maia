@@ -110,8 +110,46 @@ de treball pactat** amb la persona (article 3.n).
 
 ## Buits registrats
 
-- **Quines prestacions són garantides i quines de concurrència**: la Cartera de
-  serveis socials **no és a la llei** i el corpus no la té.
+- ~~**Quines prestacions són garantides i quines de concurrència**: la Cartera de
+  serveis socials **no és a la llei** i el corpus no la té.~~ — **`resolt` el
+  17-09-2026: la Cartera és un reglament, i el corpus ja el té.**
+
+  **Decret 495/2023, del 25 d'octubre**, d'aprovació del **Reglament de la Cartera
+  de serveis socials i sociosanitaris**, modificat pel **Decret 91/2024**
+  ([evidència](../../../raw/lleis/bopa/decret-495-2023-cartera-serveis-socials.txt)).
+  N'hi havia hagut un d'anterior, el **Decret 519/2022**, substituït al cap
+  d'onze mesos.
+
+  **De quaranta serveis, setze són garantits i la resta de concurrència o
+  mixtos.** Els **garantits sense condicions**:
+
+  - **atenció primària**;
+  - **acolliment residencial d'infants i adolescents** i **de protecció
+    intensiva**;
+  - **provisió de suports**, **atenció precoç**, **servei telefònic d'urgència**,
+    **trobada familiar**, **interpretació de llenguatge de signes**;
+  - **atenció a la infància i l'adolescència**, **acolliments familiars**,
+    **adopcions**, **prevenció i atenció als joves**;
+  - **igualtat**, **atenció a les víctimes de violència de gènere**, **de
+    violència domèstica i familiar**, **a les persones refugiades** i **a les
+    víctimes del tràfic d'éssers humans**.
+
+  **I sis són mixtos, amb el mateix criteri: la dependència greu els converteix en
+  garantits.** Atenció domiciliària, teleatenció, servei de dia i residència
+  assistida són **garantits per a la dependència greu** —la residència assistida,
+  també per a la molt greu— **i de concurrència per a la resta**. El **servei
+  d'acollida** i el d'**acolliments familiars** són garantits **per a infants,
+  adolescents i dones víctimes de violència de gènere i els seus fills**, i de
+  concurrència per a la resta.
+
+  **La frontera del sistema és la dependència greu**, definida al mateix
+  reglament com la situació en què la persona «necessita ajuda per dur a terme la
+  majoria de les activitats bàsiques de la vida diària, almenys una vegada al
+  dia».
+
+  **I el que queda sempre a concurrència** inclou la **guarderia**, l'**esplai**,
+  el **casal de gent gran**, el **taller ocupacional**, l'**assistència
+  personal**, els **habitatges tutelats** i el **suport a la inclusió laboral**.
 - **Si Andorra fa trasplantaments** o si depèn d'acords amb l'exterior, no
   consta; la llei regula **l'entrada i sortida d'òrgans del Principat** (article
   20), cosa que suggereix que sí, però **el corpus no ho afirma**. —
