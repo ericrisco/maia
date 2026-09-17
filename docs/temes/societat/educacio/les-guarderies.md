@@ -185,6 +185,55 @@ infància.**
 partir de **vint infants simultanis**, i **rampa interior obligatòria** a les
 guarderies de més de cent infants amb dos nivells.
 
+## Llum, vacunes i un reglament de règim interior
+
+**El reglament del 2005 regula la llum en lux.** L'article 10 diu que als centres
+que tenen cura d'infants **fins a un any** la il·luminació natural **és la
+preferent**, que si s'usa artificial ha de ser **semidirecta i entre 150 i 300
+lux**, i que **a les sales de menors d'un any es prohibeix el fluorescent i la
+llum halògena directa o sense protecció dels raigs ultraviolats**. Els tres
+articles següents tanquen el capítol d'ambient: **dormitoris i sales de joc
+aïllats acústicament**, **evacuació d'olors i vapors** a cuina, sales de canvi i
+sanitaris, i **ventilació regulable** a totes les aules i dormitoris.
+
+**Per treballar-hi cal certificat mèdic i vacunes al dia.** L'article 14 exigeix
+al personal un **certificat mèdic oficial** que acrediti que no pateix cap malaltia
+infectocontagiosa, amb **l'estat de les vacunes especificat al mateix
+certificat**, i la vacunació **segons el calendari oficial del país**. Si hi ha
+contraindicació, s'ha d'acreditar mèdicament i **és l'autoritat competent qui
+valora i resol**. I **si s'afegeix una vacuna nova al calendari, tot el personal
+l'ha d'acreditar**.
+
+**Per als infants, la regla depèn del tipus de guarderia.** A les **ordinàries**
+(article 15) cal certificat mèdic del pediatre, acreditació de vacunes amb el
+carnet de salut, i **en cas de malaltia contagiosa l'infant ha d'abandonar la
+guarderia**; per tornar-hi cal informe del metge que l'ha atès, **llevat que
+sigui un procés curt, inferior a una setmana, que no hagi requerit consulta**. A
+les **altres modalitats** (article 16) no hi ha certificat: hi ha una
+**declaració responsable dels pares**, i **si la declaració diu que sí a qualsevol
+dels dos primers punts, l'infant no pot ser acceptat**.
+
+**Les titulacions són tres graons, i el quart no en té.** **Dirigir** una
+guarderia demana **titulació universitària**, com a mínim un Diploma Professional
+Avançat, i el director **ha de ser present almenys mitja jornada** (article 18).
+El **personal educatiu responsable** necessita **batxillerat professional**
+(article 19) i **l'auxiliar**, un **Diploma d'Ensenyament Professional** (article
+20). **A les guarderies esporàdiques no s'exigeix cap titulació**: n'hi ha prou
+amb superar les proves d'idoneïtat de l'entitat titular i **deu hores de
+formació** (article 21). En els tres primers casos **el ministeri d'educació
+informa de la validesa de cada títol**, un per un.
+
+**I tota guarderia ha de tenir un reglament de règim interior escrit.** L'article
+24 n'enumera el contingut mínim: **un pla d'autoprotecció** amb els protocols
+d'emergència, les normes de seguretat, **una llista d'objectes d'entrada
+prohibida**, **una llista de materials de risc** amb les seves normes de
+manipulació, les **normes de rotació i coordinació de la vigilància de patis**,
+d'acollida i de sortida, i els protocols en cas de malaltia. Se n'ha de donar
+còpia **a tot el personal** i estar **a disposició dels pares**. A més, les
+guarderies ordinàries i extraescolars han de tenir un **projecte pedagògic que el
+ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
+**comunicar les tarifes al Govern cada any** (article 23.3).
+
 ## Buits registrats
 
 - **Quantes guarderies hi ha, quantes places i quants infants**, no consta.
@@ -224,9 +273,12 @@ guarderies de més de cent infants amb dos nivells.
 - ~~**El reglament del 30 de novembre de 1995**, anterior al del 2005, **no s'ha
   llegit**.~~ — **`resolt` el 17-09-2026** — vegeu
   [El reglament del 1995, i el que va canviar el 2005](#el-reglament-del-1995-i-el-que-va-canviar-el-2005).
-- **Els capítols III, IV i VI del reglament del 2005** —condicions
+- ~~**Els capítols III, IV i VI del reglament del 2005** —condicions
   higienicosanitàries, personal i titulacions, condicions funcionals— **no s'han
-  buidat aquí**.
+  buidat aquí**.~~ — **`resolt` el 17-09-2026** a «[Llum, vacunes i un reglament
+  de règim interior](#llum-vacunes-i-un-reglament-de-regim-interior)». `Queden
+  els capítols VII (procediment d'autorització), VIII (funcions i
+  responsabilitats) i IX (inspecció i règim sancionador), articles 28 a 40.`
 - **Les escoles bressol comunals** (la Baldufa, Prada Casadet, les Orenetes, la
   Guarderia comunal dels Serradells) tenen decrets de creació propis al BOPA i
   **no s'han llegit**.
