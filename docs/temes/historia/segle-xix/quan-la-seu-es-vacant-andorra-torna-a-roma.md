@@ -253,8 +253,30 @@ excepció que el resum no duia:**
 
 ## Buits registrats
 
-1. **Per què signen dos «Síndics Generals Presidents» alhora** i **quin era el
-   paper del «Síndic Segon»** el 1894. **La font no ho explica.**
+1. ~~**Per què signen dos «Síndics Generals Presidents» alhora** i **quin era el
+   paper del «Síndic Segon»** el 1894.~~ — **`resolt` el 17-09-2026** des de les
+   [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), **i no era
+   una anomalia del 1894 sinó l'estructura normal:**
+
+   > «**Apareixen amb regularitat dos síndics**, el **síndic general o síndic
+   > procurador general**, i el **subsíndic, síndic menor o síndic segon**. **A
+   > final de segle, i de manera excepcional, hi ha tres síndics.**»
+
+   **Dos síndics són la regla, no l'excepció**, i **el «Síndic Segon» és el
+   subsíndic amb un altre nom** —la síntesi en registra **tres denominacions per
+   al mateix càrrec**: subsíndic, síndic menor i síndic segon.
+
+   **El que sí que és excepcional és el tercer**, i **la síntesi el situa
+   precisament «a final de segle»**: **el document del 1894 que aquesta fitxa
+   llegeix cau exactament dins d'aquella finestra.** **Els dos «Síndics Generals
+   Presidents» més el Síndic Segon són el cas excepcional de tres, documentat.**
+
+   **I el càrrec de síndic segon es veu funcionant a les actes**: el 1841 i el
+   1842, **Bonaventura Riba Sacases, de Sant Julià, «síndic segon», és qui paga
+   les regalies a la sagristia de la catedral d'Urgell** *(ANA ASC 2.161 i
+   2.162)*. **El segon síndic no és honorífic: és qui fa els pagaments a la
+   mitra.**
 2. **La butlla de Pau V de 1607** sobre l'excomunió per deutes civils. **Citada i
    no vista.** **Prioritari**: **és una limitació pontifícia d'una pena canònica
    per raó de matèria civil, i el corpus no en té cap altra.**

@@ -206,7 +206,36 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    **Defensor dels pobres, vigilant dels privilegis, intendent i auditor de
    multes, tot alhora.** **Segueixen oberts l'origen —el privilegi que els crea
    no és al corpus i el Politar només hi remet— i la data final.**
-2. **El Tribunal de Visures** — composició i procediment.
+2. ~~**El Tribunal de Visures** — composició i procediment.~~ — **`resolt` el
+   17-09-2026** des de les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), que en donen
+   **el procediment sencer en una nota**:
+
+   > «**Les visures o tribunals de veeduria dictaven sentències en causes entre
+   > veïns. Hi havia tres instàncies.**
+   >
+   > En la **primera** acostuma a actuar **un cònsol o un conseller**.
+   >
+   > Es podia recórrer a **segona instància**. Aleshores hi havia **un
+   > representant de cada parròquia nomenat pel Consell General i el síndic**.
+   > Acostumaven a ser **prohoms**.
+   >
+   > Finalment, la **tercera instància** estava formada per **cònsols i
+   > consellers de les parròquies els membres de les quals no estaven implicats
+   > en el litigi**.»
+
+   **La tercera instància és la peça que val la pena.** **No és un tribunal
+   superior: és el mateix nivell, filtrat per desinterès.** **La imparcialitat
+   no s'obté per jerarquia sinó excloent les parròquies implicades** —**en un
+   país de sis parròquies, una recusació territorial.**
+
+   **I la gradació completa és la contrària de la que s'esperaria**: **comença
+   amb una sola persona** i **acaba amb un col·legi ampli**. **Com més amunt,
+   més gent.**
+
+   **La nota remet a Brutails**, *La coutume d'Andorre*, **pp. 247-250** de
+   l'edició de Casal i Vall del 1965 — **i el corpus té Brutails sencer**, de
+   manera que aquesta via es pot aprofundir sense demanar res.
 3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
    s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció
    no.** **Creat per decret del 13 de juliol del 1888**, publicat al *Journal
