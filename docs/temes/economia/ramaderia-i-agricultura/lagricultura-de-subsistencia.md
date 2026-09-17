@@ -160,7 +160,34 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
 ## Buits registrats
 
 1. **S. Llobet** — qui és i quin estudi dona el 4%.
-2. Les **importacions d'urgència organitzades per les institucions**: quines, quan, com es pagaven.
+2. Les **importacions d'urgència organitzades per les institucions**: quines,
+   quan, com es pagaven. — **`parcial` el 17-09-2026, i el que apareix no és
+   d'urgència: és un abastament permanent, amb contracte.** Font: els [llibres
+   d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md).
+
+   **El producte és la sal, i el mecanisme es diu *encabeçament*.** **El Consell
+   General contractava amb l'administració de les salines una quota tancada per
+   a tot el país**, i **quan la quota s'esgotava calia tornar-hi.**
+
+   | Data | Què hi passa |
+   | --- | --- |
+   | **23 de juny de 1717** | Consell de la Terra **«per la acòpio de la sal de Cardona»**, perquè **l'endemà s'acaba «lo fet dels 400 quintars»**; es fa sindicat al doctor Joan Guillem Torres |
+   | **9 de desembre de 1718** | Consell **per poder treure sal de Cardona, «attès lo encabeçament fet està finit»**, i **per consumir «les 100 fanegas encabeçadas de l'alfolí de Gerri»**; **qui vulgui anar a Gerri ha de prendre certificat del notari Josep Areny** |
+   | **27 de febrer de 1719** | **Nou encabeçament de sal de Cardona** |
+   | **1732** | El Consell **dona poder per fer l'encabeçament «y que mírie se fasse tant curt que pugue»** —**que el contracti tan curt com pugui** |
+
+   **Tres coses que això ensenya.** **Que hi havia dues fonts** —**Cardona i
+   l'alfolí de Gerri**—, **i el corpus no en tenia cap.** **Que l'accés
+   individual estava documentat**: **per anar a buscar sal calia un certificat
+   o una guia de la Vall**, i **el Llibre IV encara hi insisteix** —**no es podia
+   comprar sal de Cardona «que no vingue acompañada ab la guia».** **I que es
+   pagava a lots**: el 1718 es reparteix **1 lliura 10 sous per parròquia**, de
+   les quals **6 lliures van a les despeses del camí** i la resta a reposar el
+   que algú havia bestret **«per lo propi se féu a Cardona»**.
+
+   **El Consell General feia de central de compres del país per a la sal**, i
+   **ho feia amb quota, contracte i guies nominals.** `Requereix les
+   importacions de gra en anys de fam, que segueixen obertes.`
 3. El **dot** com a mecanisme: contractes matrimonials, quantitats, a quines cases.
 4. **Quantes cases noves** es funden al segle XVIII i on.
 5. L'**artigatge**: tècnica, dret sobre la terra artigada, si calia permís.
