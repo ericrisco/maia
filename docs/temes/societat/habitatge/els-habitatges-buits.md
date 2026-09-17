@@ -135,9 +135,36 @@ d'immigració (article 1).
   [l'impost contra l'especulació](./limpost-contra-lespeculacio.md). Modifica
   **sis impostos alhora**, i la peça que no s'esperava és que **un resident nou
   paga com un estranger** si no acredita tres anys de residència efectiva.
-- **El reglament del parc públic d'habitatge** del 21 d'agost del 2024, que la
-  llei cita per fixar els cinc anys, **no és al corpus**. — **`obert`,
-  confirmat el 2026-09-14.** `Requereix font externa: el BOPA del 2024.`
+- ~~**El reglament del parc públic d'habitatge** del 21 d'agost del 2024, que la
+  llei cita per fixar els cinc anys, **no és al corpus**.~~ — **`resolt` el
+  17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: és el **Decret
+  316/2024**, butlletí **94 del 2024**
+  (`docs/raw/societat/habitatge/decret-316-2024-parc-public-habitatge.txt`).
+
+  **Els «cinc anys» que la llei cita són dos de diferents**, i **convé no
+  confondre'ls**:
+
+  | | |
+  | --- | --- |
+  | **Art. 6.5.a)** | **Cinc anys de residència legal, efectiva i permanent i ininterrompuda** a Andorra, **immediatament anteriors a la inscripció**, i **de tots els membres majors d'edat** de la llar. L'estada a l'estranger per estudis o tractament mèdic **sí que compta** |
+  | **Art. 12.5** | **Cinc anys de durada del contracte**, prorrogables d'any en any mentre es continuïn complint els requisits **i no hi hagi ningú al Registre que pugui ocupar l'habitatge** |
+
+  **I el reglament té tres peces que el corpus no tenia de cap manera:**
+
+  **Primera, hi ha un sostre d'ingressos i també un terra.** Cal guanyar
+  **més d'1,01 vegades el salari mínim i menys de 2,2** —**2,5 amb dos fills o
+  més a càrrec**—. **Qui guanya menys del salari mínim no hi entra.**
+
+  **Segona, això no és un lloguer.** L'article 12.1 ho diu: la relació és **de
+  naturalesa pública**, es regeix pel **Codi de l'Administració**, i **«resta
+  exclosa l'aplicació de la Llei d'arrendaments de finques urbanes»**. **Els
+  adjudicataris no són arrendataris i no tenen els drets d'arrendatari.**
+
+  **Tercera, si dues sol·licituds empaten, es decideix per sorteig
+  d'insaculació notarial** (art. 11.5). **Deu punts per discapacitat, família
+  monoparental, víctima de violència de gènere, tenir 65 anys o més, o tenir-ne
+  35 o menys** —**amb un màxim de trenta**—, **i deu més per estar inscrit dos
+  anys a la parròquia on és el pis.**
 
 > **Auditats la resta el 2026-09-14.** **Els tres primers segueixen oberts, i
 > dos canvien de motiu.**

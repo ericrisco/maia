@@ -203,10 +203,33 @@ on **tretze anys després** el temporer segueix sent la peça central del sistem
    | **Llei 10/2026**, superàvit de 2025 | **35 milions d'euros** en quatre partides d'**habitatge social**: terrenys, edificis, construcció i projectes | [el superàvit que finança habitatge i hospital](../../economia/banca-i-fiscalitat/el-superavit-que-financa-habitatge-i-hospital.md) |
 
    **Trenta-set anys després de la pregunta de Font —«és impossible a Andorra un
-   habitatge social?»— la resposta pressupostària són 35 milions.** **El que
-   segueix `obert` és la data del primer**: **el corpus salta del debat de 1989
-   a la llei del 2026 sense res al mig.**
-   `Requereix font externa: el BOPA anterior al 2026.`
+   habitatge social?»— la resposta pressupostària són 35 milions.**
+
+   **El salt de 1989 al 2026 queda omplert el 17-09-2026, i la data és el
+   2006.** **El [BOPA](../../../fonts/bopa.md) cercat des del 1989 dona dues
+   sèries que comencen el mateix any i cap abans**
+   (`docs/raw/societat/habitatge/`):
+
+   | | |
+   | --- | --- |
+   | **22 de febrer del 2006** | Primera aparició al Butlletí de **«habitatges de protecció pública»**, al Decret d'aprovació de les **directrius d'ordenació** |
+   | **10 de maig del 2006** | **Decret de creació de la Borsa d'Habitatge d'Andorra** — **el primer instrument públic d'habitatge del país** |
+   | **21 de juny del 2006** | **Llei 8/2006**, que introdueix els habitatges de protecció pública a la **Llei general d'ordenació del territori** |
+
+   **Disset anys de silenci entre la pregunta de Font i la primera resposta.**
+
+   **I la primera resposta no és construir: és demanar.** La Borsa d'Habitatge
+   del 2006 **no edifica res**. **Vol que els pisos buits de propietat privada
+   surtin al mercat de lloguer per cessió voluntària** al Ministeri, **per un
+   termini no inferior a cinc anys**, i ho fa **«sense entrar en competència
+   directa amb el sector immobiliari»**.
+
+   **Aquella frase és la que val la pena conservar**, perquè **la llei òmnibus
+   del 2026 fa exactament el contrari**: **cedeix pisos buits per incompliment
+   de la funció social de la propietat** ([els habitatges
+   buits](./els-habitatges-buits.md)). **El 2006 es demana; el 2026 es
+   pot prendre.** **El mateix problema, el mateix parc de pisos buits, i
+   vint anys de distància entre demanar-ho i obligar-hi.**
 6. **Sèrie històrica** del lloguer sobre el salari. — **`obert`, confirmat, i és
    el mateix buit que el número 1 mirat en el temps**: **sense la sèrie del
    salari mínim no hi ha fracció que valgui.** **El corpus té els dos extrems
