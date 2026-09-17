@@ -87,6 +87,17 @@ Les regles les aprova el **Consell de l'AGAD** (article 69), i el Govern hi ha d
 prestar suport i impulsar «una política pública activa» en compliment del
 **Conveni internacional contra el dopatge en l'esport del 2005** (article 70).
 
+**I té preu conegut: 182.239,48 € el 2026**
+([llibre del pressupost 2026](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.txt),
+subconcepte 41265). **És la partida més petita de les deu entitats del seu
+article pressupostari** —per sota del Fòrum Nacional de la Joventut
+(144.605,93 €) només hi ha el Fòrum mateix— i **el 3,4% del que el mateix
+pressupost transfereix a federacions i clubs esportius (5.365.032,70 €)**.
+
+> **El preu d'entrada a la competició internacional, per a Andorra, són
+> cent-vuitanta-dos mil euros l'any: menys del 4% del que el país gasta en
+> l'esport que aquesta agència fa possible.**
+
 ## La formació té escola pròpia
 
 L'**[Escola de Formació de Professions Esportives i de Muntanya](../formacio-esportiva/lefpem.md)**

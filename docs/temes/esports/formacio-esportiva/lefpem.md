@@ -165,6 +165,23 @@ amb el que el rector de la Universitat d'Andorra deia que caldria: trobar
 **«temes en els quals Andorra pugui fer aportacions significatives al
 coneixement»**. **Potser ja n'hi havia un, i no era a la universitat.**
 
+## Què costa l'Efpem, el 2026
+
+**290.542,76 €.** És la transferència corrent que el pressupost del 2026
+destina a l'Efpem com a organisme autònom administratiu
+([llibre del pressupost 2026](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.txt),
+subconcepte 41260).
+
+**És la vuitena de les deu entitats del seu article**, i **per escala**: **el
+0,5% del que rep la Universitat d'Andorra (4.994.890,00 €)** i **un 59% més que
+l'Agència Andorrana Antidopatge (182.239,48 €)**.
+
+**Aquesta fitxa era, fins ara, previsions del 2000.** **Aquesta xifra és la
+primera dada del segle XXI que hi entra amb font oficial.**
+
+`Segueix obert quants alumnes i quants monitors hi ha darrere d'aquests
+diners: el pressupost dona l'import i cap indicador d'activitat.`
+
 ## Buits registrats
 
 - **Quants monitors hi ha titulats en total** des del 1996.
@@ -175,7 +192,10 @@ coneixement»**. **Potser ja n'hi havia un, i no era a la universitat.**
   pròpia ([índex legislatiu](../../societat/educacio/index-legislatiu-en-educacio.md)).
 - **La hípica**: es va acabar reconeixent?
 - **Què va passar realment** del 2001 ençà. Aquesta fitxa són **previsions del
-  2000**.
+  2000**. — **`parcial` el 18-09-2026**: **l'escola existeix i està finançada el
+  2026 amb 290.542,76 €**, vegeu
+  [Què costa l'Efpem](#que-costa-lefpem-el-2026). `Els vint-i-cinc anys de
+  mig segueixen sense relat.`
 - **El lèxic de l'esquí i de la muntanya en català andorrà**, que aquesta escola
   ha d'estar produint i transmetent. **Buit important per a la fase 3.**
 

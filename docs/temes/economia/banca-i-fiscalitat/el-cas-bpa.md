@@ -122,6 +122,28 @@ I una nota per al lèxic: el corpus ja té **parapública**
 ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)); l'AREB
 és exactament aquest tipus de figura.
 
+## Onze anys després, l'AREB encara és una partida del pressupost
+
+**El pressupost del 2026 transfereix 1.751.323,79 € a l'Agència Estatal de
+Resolució d'Entitats Bancàries**, dins de l'article 41 —organismes autònoms i
+entitats parapúbliques—
+([llibre del pressupost 2026](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.txt),
+subconcepte 41119).
+
+> **L'organisme creat per resoldre BPA el 2015 continua finançat l'any 2026.**
+> **Onze exercicis després, la resolució encara no s'ha acabat de tancar prou
+> com per apagar-ne l'agència.**
+
+**Per fer-se'n una idea de la mida**: l'AREB rep **més que la Cambra de Comerç
+(936.983,61 €)**, **més que l'Institut de l'Habitatge (353.972,30 €)** i
+**gairebé deu vegades l'Institut Andorrà de les Dones (185.982,37 €)**. Dins
+del seu article només la superen **la CASS, el SAAS i la Universitat
+d'Andorra**.
+
+`El pressupost dona l'import, no l'activitat: quantes causes queden obertes,
+quant s'ha recuperat i quan es preveu dissoldre l'agència segueix sense font al
+corpus.`
+
 ## Buits registrats
 
 1. **Els FinCEN Files**: consta que **tota la banca andorrana excepte Banc
