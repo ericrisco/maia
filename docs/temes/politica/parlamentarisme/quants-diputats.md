@@ -212,11 +212,104 @@ Vella, que és la que menys creix** (+0,5%), mentre **Canillo fa +5,0%** i
 **Ordino +3,2%**. **El desequilibri es redueix per la banda de dalt, no per la de
 baix.**
 
+## El debat del 1993: 21 contra 7, i el número era un compromís previ
+
+El corpus registrava com a buit **qui va proposar 28 i qui 42**. **El debat és al
+Diari Oficial del Consell General núm. 7/1993, sessió ordinària dels dies 2 i 3
+de setembre de 1993**, dins de la Proposició de llei qualificada del règim
+electoral i del referèndum. **No és una qüestió tècnica: el diari deixa per
+escrit que era política, i que estava decidida abans.**
+
+**Les dues propostes.**
+
+| | Qui | Argument |
+| --- | --- | --- |
+| **28** | **la Comissió**, al text de la proposició | El ponent **Miquel Aleix** diu que el redactat surt «**després de llargs debats i de posicions possiblement contraposades**» i que la Comissió va entendre que **el debat s'havia de deixar obert al ple** |
+| **42** | **esmena núm. 3** | «La composició **més àmplia** del Consell General, de les dues previstes en la Constitució, **afavoreix un Parlament més plural amb les minories representades**», i **hi ha dos parlamentaris menys a la pràctica** perquè el Síndic i el Subsíndic surten d'entre els consellers |
+
+**El Govern hi va prendre partit, i pels 42.** El **Cap de Govern** hi va
+intervenir abans del debat:
+
+> «És evident que potser aquest és **l'eix central i bàsic** i és una opinió
+> totalment política i de decisió política. […] es considera que **un Parlament
+> més ampli afavoreix la participació de les minories electorals**, però hi ha un
+> altre aspecte […]: **també afavoreix la coherència política o la facilitat
+> d'estructurar el Parlament en majories i minories**. […] al nostre criteri,
+> subjectiu sempre, **els 42 faciliten el funcionament d'una assemblea
+> parlamentària estructurada en majories i minories**.»
+
+**El resultat.**
+
+> «El resultat de la votació és: **21 vots a favor de la proposta número 1 i 7
+> vots a favor de la proposta número 2**.» — «Doncs, **quedaria en 28
+> Consellers**.»
+
+**Vint-i-un contra set.** I aquí ve el que el corpus no podia saber: **les
+explicacions de vot diuen que la xifra estava pactada mesos abans, per aprovar la
+Constitució.**
+
+**Miquel Aleix**, ponent de la Comissió i conseller d'Escaldes, explica per què va
+votar 28 quan el seu programa deia 42:
+
+> «**veieu escrit en el programa electoral que n'hi hauria d'haver 42** […] perquè
+> ho hem escrit amb **l'íntima convicció que el Parlament amb 42 hauria funcionat
+> molt millor**, però que aquí quedi constància pública que **l'essencial que vam
+> venir a fer en aquesta legislatura era aprovar la Constitució**, i **per buscar
+> la unanimitat de la Constitució**, vist que **des de certes parròquies hi havia
+> un cert recel** amb que quedés determinat **abans del Referèndum** […] com havia
+> de quedar definit l'article 57, **em vaig comprometre a nivell de la Comissió a
+> que la Parròquia d'Escaldes votaria dos i dos**.»
+
+**Albert Pujal** diu el mateix en una frase:
+
+> «Prescindint de les meves conviccions personals, **vaig pactar en el moment de
+> la Constitució amb companys, particularment de la Parròquia, que recolzaria la
+> proposta de 28 Consellers**. […] la Constitució és una eina transcendental i va
+> quedar ben lligada, **es va tenir la precaució de posar 28 o 42**. […] **si la
+> necessitat a la pròxima legislatura porta a fer-ne 42, sense modificar la
+> Constitució es podrà fer.**»
+
+**I Rosa Maria Mandicó va votar 42 sabent que li costaria a casa:**
+
+> «He dubtat moltíssim entre votar 28 o votar 42. […] **molt espontàniament he
+> votat 42**. […] sóc molt conscient que **el meu vot no serà gens popular dins la
+> meva Parròquia**, però **crec en el país** i crec que **42 en el futur ens pot
+> ajudar**.»
+
+**Tres coses que això canvia.**
+
+**Primera, la forquilla 28-42 de la Constitució era deliberada i tots ho sabien.**
+Pujal ho diu amb totes les lletres: **«es va tenir la precaució de posar 28 o
+42»**, i **pujar-hi no exigeix reformar la Constitució**.
+
+**Segona, el 28 no va guanyar un debat: va executar un pacte.** El nombre es va
+fixar **per no posar en risc la unanimitat constitucional**, i **el recel venia
+de les parròquies**, que és exactament l'eix que
+[el desequilibri parroquial](#el-desequilibri-mesurat-un-vot-dordino-val-43-vots-de-la-capital)
+mesura avui.
+
+**Tercera, hi havia un argument aritmètic que el corpus no tenia**: amb 28
+consellers, **descomptats el Síndic i el Subsíndic**, **queden 26 parlamentaris
+de fet** per a comissions i tasques ordinàries. Amb 42 en quedarien 40.
+
+`Font: Diari Oficial del Consell General, Acta núm. 7/1993, sessió ordinària dels
+dies 2 i 3 de setembre de 1993
+([PDF](../../../raw/consell-general/dcg-1993/dcg-7-1993.pdf),
+[text](../../../raw/consell-general/dcg-1993/dcg-7-1993-raw.txt)). El document és
+a dues columnes i les cites surten de l'extracció en ordre de lectura, amb
+l'espaiat restituït. Drets del Diari **pendents de determinar**; **no entra en cap
+dataset**.`
+
 ## Buits registrats
 
 1. **Per què Andorra no ha passat mai de 28** havent-hi marge fins a 42. Cap
    font ho explica.
-2. **El debat constituent sobre el nombre**: qui va proposar 28 i qui 42.
+2. ~~**El debat constituent sobre el nombre**: qui va proposar 28 i qui 42.~~ —
+   **`resolt` el 17-09-2026 pel Diari Oficial del Consell General**, acta
+   **7/1993**, sessió del **2-3 de setembre de 1993**: vegeu
+   [El debat del 1993](#el-debat-del-1993-21-contra-7-i-el-numero-era-un-compromis-previ).
+   **21 contra 7**, i **el número estava pactat abans del referèndum
+   constitucional**.
 3. ~~**Les xifres de població per parròquia** avui, per mesurar el
    desequilibri real.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**
    (activitat **A001**, juliol del 2026): vegeu
