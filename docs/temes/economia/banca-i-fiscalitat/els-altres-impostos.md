@@ -111,9 +111,61 @@ folklore, és una categoria aranzelària vigent.
 
 ## Buits registrats
 
-- **La Llei de bases de l'ordenament tributari** (159 articles) és **la norma
+- ~~**La Llei de bases de l'ordenament tributari** (159 articles) és **la norma
   general de tot el sistema fiscal** —procediment, inspecció, sancions,
-  prescripció— i **queda sencera per llegir**.
+  prescripció— i **queda sencera per llegir**.~~ — **`resolt` el 17-09-2026**,
+  llegida sencera (**Llei 21/2014**, `docs/raw/lleis/bases-tributari.txt`).
+  **Cinc títols. El que segueix és el que un contribuent hi busca.**
+
+  **Tot prescriu als tres anys** (article 54.1), **i el termini val igual per
+  a les dues bandes**: el dret de l'Administració a liquidar, a sancionar i a
+  cobrar el que ja ha liquidat, **i el dret del contribuent a demanar i obtenir
+  devolucions**. **El termini és igual per a l'Estat i per al
+  contribuent, que no és el cas a tot arreu**, i `requereix una comparació amb
+  els estats veïns que el corpus no té documentada.`
+
+  **Les infraccions es parteixen en dues famílies i la frontera és si hi ha
+  perjudici econòmic.**
+
+  | | **Infracció simple** (art. 127) | **Infracció de defraudació** (art. 129) |
+  | --- | --- | --- |
+  | **Què és** | Incomplir un deure formal **sense transcendència en la liquidació** | Acció o omissió **dolosa o culposa** que **comporta perjudici econòmic** |
+  | **Multa** | **Fixa, de 150 a 3.000 €** | **Proporcional a la quota defraudada** |
+  | **Barem** | 250 € per declaració no presentada; 150 € el primer requeriment desatès, 600 € els següents | **50% si és lleu, 100% si és greu, 150% si és molt greu** (art. 131.2), **mínim 250 €** |
+
+  **I hi ha dues rebaixes que es poden acumular** (article 132): **–30% si
+  s'accepta la liquidació i es paga voluntàriament**, i **–25% més sobre el
+  que quedi si s'ingressa dins del període voluntari i no s'impugna ni la
+  liquidació ni la sanció**. **Discutir costa un 55% del que costa acceptar.**
+  **I si després s'impugna, la rebaixa es reclama de nou «amb l'únic requisit
+  de la notificació».**
+
+  **L'abús de la norma tributària té article propi** (article 13) i **una
+  conseqüència que convé llegir dues vegades**: s'exigeix el tribut que hauria
+  correspost **més interessos moratoris**, **«sense que procedeixi la imposició
+  de sancions»**. **L'elusió artificiosa es corregeix, no es castiga.** A
+  canvi, **l'Administració ha de motivar-ho «especialment»** i **donar un
+  tràmit d'al·legacions previ**.
+
+  **La peça institucional és la Comissió Tècnica Tributària**, que **«resol
+  tots els recursos administratius que s'interposin contra els actes dictats
+  per l'Administració tributària»** (article 140.a). **La seva composició és
+  l'article 138, i és tota d'una banda:**
+
+  | Membre |
+  | --- |
+  | **El ministre encarregat de les finances** (pot delegar) |
+  | **El director del departament competent en matèria tributària** |
+  | **El cap del gabinet jurídic del Govern** |
+  | **El director adjunt competent en matèria d'inspecció tributària** |
+
+  **Qui resol el recurs contra l'Administració tributària és l'Administració
+  tributària**, **amb el seu ministre, el seu director, el seu inspector en cap
+  i l'advocat del Govern.** **No hi ha cap membre extern, ni un magistrat, ni
+  un representant dels contribuents.** **La via imparcial arriba després, al
+  recurs davant la jurisdicció administrativa** (article 147). `Requereix
+  saber quants recursos resol la Comissió cada any i quants n'estima; és una
+  dada d'execució que la llei no dona.`
 - **Els tipus de l'alcohol i dels hidrocarburs** no s'han extret; ni **quant val
   l'element de CO₂**.
 - **L'IRNR** només s'ha identificat, no llegit.
