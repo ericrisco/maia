@@ -99,6 +99,54 @@ continuïtat de les dones en l'esport **en totes les etapes de la vida**», i
 facilitar-hi **recursos materials i econòmics** (article 42.1) — al costat del
 que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
 
+## La bretxa salarial andorrana, mesurada: 547 euros al mes
+
+La llei ordena mesurar. La mesura existeix i la publica el Departament
+d'Estadística (activitat **A165. Estadístiques de gènere**, nota del 05-03-2026).
+**Salari mitjà mensual, mitjana anual:**
+
+| Any | Dones | Homes | Diferència | Les dones cobren |
+| --- | --- | --- | --- | --- |
+| 2020 | 1.906 € | 2.407 € | **−501 €** | **79,2%** del que cobren els homes |
+| 2021 | 1.912 € | 2.461 € | −549 € | 77,7% |
+| 2022 | 2.016 € | 2.574 € | −558 € | 78,3% |
+| 2023 | 2.158 € | 2.703 € | −545 € | 79,8% |
+| **2024** | **2.286 €** | **2.832 €** | **−547 €** | **80,7%** |
+
+`Les dues darreres columnes són càlcul del corpus a partir de les xifres
+publicades. La nota escriu «una diferència de −547 €» per al 2024 mentre la
+resta dels imports arrodonits en dona 546: la diferència d'un euro és
+d'arrodoniment de la font, no d'aquesta lectura.`
+
+**La bretxa és de 547 euros al mes i s'estreny molt a poc a poc**: les dones
+passen del **79,2% del salari masculí el 2020 al 80,7% el 2024**. **Un punt i mig
+en cinc anys.** El 2024 el salari de les dones creix un **5,9%** i el dels homes
+un **4,8%**, i és per això que la distància relativa baixa mentre **la distància
+en euros es manté** —era de 501 € el 2020 i és de 547 € el 2024.
+
+**Sobre la mitjana quinquennal la distància és més gran encara**: **2.055 € per a
+les dones contra 2.595 € per als homes**.
+
+**L'avís el posa la font mateixa, i és important per no dir més del que la xifra
+diu**:
+
+> «Les dades facilitades per la CASS **no permeten diferenciar entre conceptes
+> remuneratius ni hores de treball** a les quals es refereixen aquests salaris.
+> **Les diferències, doncs, es basen únicament en el total del salari
+> declarat.**»
+
+**No és, doncs, una bretxa per hora treballada ni a igualtat de feina**: és la
+diferència entre el que declaren cobrar els uns i les altres. **Part de la
+distància pot ser jornada parcial, antiguitat o composició sectorial.** Que la
+llei ordeni mesurar i la mesura disponible no permeti separar aquests factors
+**és, en si mateix, part de la resposta al buit**.
+
+**El context del sector hi encaixa**: els sectors amb salari mitjà més baix del
+país —**hoteleria 2.151,69 €** i **llars que ocupen personal domèstic 1.936,45
+€**— són també els de composició més femenina
+([els salaris](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat)),
+i el més ben pagat, **el sistema financer amb 4.972,10 €**, és el contrari.
+
 ## Buits registrats
 
 - ~~**Només cobreix el sexe.** La discriminació per origen, raça, religió,
@@ -142,8 +190,11 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
 - **Els títols IV a VII** —ocupació pública, treball, mitjans i publicitat,
   responsabilitat social corporativa— **només s'han llegit en part**.
 - **Cap dada**: quants plans d'igualtat existeixen, quantes empreses passen de
-  50 persones, quina és la bretxa salarial andorrana. La llei ordena mesurar;
-  el corpus no té les mesures.
+  50 persones, quina és la bretxa salarial andorrana. — **`parcial` el
+  17-09-2026: la bretxa salarial sí que hi és**, vegeu
+  [La bretxa salarial andorrana, mesurada](#la-bretxa-salarial-andorrana-mesurada-547-euros-al-mes).
+  `Segueixen oberts els plans d'igualtat i el nombre d'empreses de més de 50
+  persones: cap activitat del Pla d'estadística del 2026 no els compta.`
 - ~~**La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
   **no és al recull de normes consolidades**. És un buit important.~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **el

@@ -1,0 +1,1051 @@
+                                 A222. Sistema d’indicadors d’igualtat. Any 2024
+                                      Data de publicació: dimarts, 17/03/2026
+                                               www.estadistica.ad
+
+
+         Introducció
+
+
+
+         El Sistema d’indicadors d’igualtat del Principat d’Andorra és un estudi que elabora el
+         Departament d’Estadística, conjuntament i de manera consensuada, amb l’Observatori de la
+         Igualtat, format per la Secretaria d’Estat d’Igualtat, l’Institut Andorrà de les Dones, Andorra
+         Recerca + Innovació i el propi Departament d’Estadística com a principals organismes experts
+         en les diverses dimensions d’anàlisi, sobre la situació de la població d’Andorra des de la
+         perspectiva de gènere.
+
+         La raó d’aquest informe neix de les desigualtats constatades entre dones i homes i el seu
+         objectiu és identificar, recollir i permetre l’anàlisi de les dades en l’àmbit públic i privat, per tal
+         de conèixer la realitat estadística d’aquestes desigualtats i d’afavorir la definició de polítiques,
+         estratègies i accions per anar assolint una societat cada vegada més igualitària i justa.
+
+         El Sistema d’indicadors d’igualtat es desglossa, actualment, en 9 grans blocs, i cadascun d’ells
+         consta de diversos indicadors pels quals s’analitza la desigualtat de gènere entre l’any 2020 i el
+         2024. Cal mencionar que l’Observatori de la Igualtat està treballant en ampliar aquests
+         indicadors per arribar a una radiografia cada cop més fidedigna de la situació real sobre les
+         diferències existents en temes de gènere i poder facilitar la presa de mesures amb l’objectiu
+         d’aconseguir una igualtat real i efectiva.
+
+
+
+
+NP_A222_20260317                                                                                               Pàgina 1 de 18
+                                          A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+         Índex
+
+
+
+           1.      Persones migrades............................................................................................................... 3
+           2.      Dades demogràfiques .......................................................................................................... 4
+           3.      Treball ................................................................................................................................... 5
+           4.      Formació ............................................................................................................................... 9
+           5.      Esport ................................................................................................................................. 10
+           7.      Òrgans de decisió i poder .................................................................................................. 12
+           8.      Violència de gènere ............................................................................................................ 13
+           9.      Col·lectiu LGTBI+ ............................................................................................................... 15
+           10.     Indicadors del Gender Equality Índex (GEI) ....................................................................... 16
+           11.     Nota metodològica.............................................................................................................. 17
+           12.     Dates de les publicacions previstes ................................................................................... 18
+
+
+
+
+NP_A222_20260317                                                                                                                                            Pàgina 2 de 18
+                                           A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+           1. Persones migrades
+
+
+             En aquest bloc s’analitzen les principals característiques de la població resident a Andorra,
+             agrupada segons els grans grups de nacionalitat, així com l’evolució del nombre d’immigrants i
+             emigrants.
+
+             En relació amb la població, i en comparació amb l’any anterior, destaca l’increment tant dels
+             homes (12,5%) com de les dones (8,3%) d’altres nacionalitats. Pel que fa al nombre
+             d’immigrants, l’any 2024 es constata una reducció del 19,4% en el nombre d’homes i del 30,2%
+             en el de dones.
+
+
+                                         2020                       2021                    2022                   2023                     2024
+   PERSONES MIGRADES                  Home          Dona         Home        Dona        Home        Dona       Home        Dona         Home         Dona
+   Població per nacionalitat
+             Andorrana                19.381    18.618           19.607     18.822       19.819     19.048      19.853     19.124       20.090       19.380
+             Espanyola                 9.527     9.684            9.912      9.804       10.304      9.912      10.476      9.975       10.691       10.008
+             Portuguesa                4.832     4.251            4.726      4.159        4.673      4.104       4.628      4.051        4.547        3.982
+             Francesa                  1.925     1.498            2.034      1.515        2.108      1.557       2.219      1.626        2.250        1.624
+             Altres                    4.075     4.224            4.452      4.504        5.071      4.992       6.714      6.435        7.555        6.970
+   Migracions
+             Immigrants                1.453        1.067         2.138      1.398        2.597      1.673       3.439      2.606        2.772        1.819
+             Emigrants                 1.188          949         1.215        920        1.390      1.000       1.557      1.081        1.569        1.148
+
+
+
+
+                                                                           Migracions
+               4.000
+
+               3.500
+
+               3.000
+                                                                                                                                      2.772
+               2.500
+
+               2.000
+                                                                                                                                      1.819
+               1.500                                                                                                                  1.569
+
+               1.000                                                                                                                  1.148
+
+                 500
+
+                    0
+                               2020                     2021                      2022                   2023                   2024
+
+                                Immigrants - Home              Emigrants - Home          Immigrants - Dona         Emigrants - Dona
+
+
+
+
+NP_A222_20260317                                                                                                                                   Pàgina 3 de 18
+                                                                  A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+              2. Dades demogràfiques
+
+
+                Del bloc de dades demogràfiques, destaca l’increment de la població en la franja d’edat de 65
+                anys o més, on els homes han augmentat un 4,7% i les dones un 4,4% en relació amb l’any
+                anterior. També sobresurt l’evolució de la taxa de fecunditat: la corresponent a les mares
+                d’entre 15 i 19 anys ha disminuït un 37,5%, mentre que la de les mares d’entre 20 i 24 anys ha
+                registrat un augment del 5,6%. Tot i això, en comparació amb fa cinc anys, aquest indicador
+                mostra una reducció del 15,9%.
+
+                                                                2020                            2021                           2022                           2023                          2024
+   DADES DEMOGRÀFIQUES                                       Home             Dona           Home            Dona           Home            Dona           Home           Dona           Home         Dona
+   Població per edat
+              Menys de 15 anys                                5.277           5.053          5.218           4.977          5.116           4.978          5.038          4.908          4.995       4.808
+              De 15 a 24 anys                                 4.414           3.978          4.557           4.053          4.610           4.127          4.830          4.335          4.908       4.345
+              De 25 a 34 anys                                 5.118           4.687          5.407           4.775          5.823           4.924          6.580          5.550          6.797       5.772
+              De 35 a 44 anys                                 6.396           6.380          6.401           6.289          6.516           6.198          6.812          6.428          7.080       6.498
+              De 45 a 54 anys                                 7.272           6.968          7.376           7.055          7.600           7.185          7.801          7.291          8.005       7.385
+              De 55 a 64 anys                                 5.837           5.399          6.074           5.625          6.340           5.872          6.587          6.098          6.810       6.264
+              65 anys o més                                   5.426           5.810          5.698           6.030          5.970           6.329          6.242          6.601          6.538       6.892
+   Índex de feminitat
+                                                                               0,96                           0,95                           0,94                          0,94                       0,91
+   Taxa de fecunditat
+                                                                              28,84                          28,84                          26,48                         26,65                      24,63
+   Taxa de fecunditat per edat de la mare
+              De 15 a 19 anys*                                                 0,51                           1,55                           1,03                          0,00                       0,70
+              De 20 a 24 anys                                                 13,47                          10,39                           7,30                         11,29                      11,33
+              De 25 a 29 anys                                                 40,48                          39,78                          35,32                         31,10                      34,47
+              De 30 a 34 anys                                                 72,03                          75,35                          71,08                         51,04                      66,46
+              De 35 a 39 anys                                                 60,09                          54,62                          57,58                         51,75                      53,74
+              De 40 a 44 anys                                                 15,51                          10,78                          14,70                         11,07                      13,18
+              45 anys o més                                                    3,02                           0,81                           0,81                          1,87                       1,51
+   Edat mitjana a la maternitat
+                                                                              33,54                          32,98                          33,50                         33,27                      33,10
+   Edat mitjana a la maternitat per nacionalitat
+              Andorrana                                                       32,84                          32,59                          33,60                         33,02                      32,99
+              Espanyola                                                       34,33                          33,49                          33,66                         34,23                      33,64
+              Portuguesa                                                      32,79                          34,71                          31,44                         32,10                      31,26
+              Francesa                                                        32,64                          32,63                          32,77                         34,88                      33,00
+              Altres                                                          34,33                          32,86                          33,53                         32,95                      33,44
+   Defuncions
+                                                               255             164            207             179            203             168            191             166           207          166
+   Taxa de mortalitat
+                                                               6,42            4,28           5,08            4,61           4,84            4,24           4,35           4,03           4,59        3,96
+   Esperança de vida **
+                                                               80,7            86,0           80,8            86,1           80,8            85,9           81,0           86,3           81,1        86,2
+   * Inclou els naixements de menor de 15 anys, si n'hi ha
+   ** La dada correspon a la mitjana dels darrers cinc anys
+
+
+
+
+                                                                                                         Mortalitat
+                    350                                                                                                                                                                     7,00
+
+                    300                                                                                                                                                                     6,00
+
+                    250                                                                                                                                                                     5,00
+
+                    200             255                                                                                                                                                     4,00
+
+                                                                                                       203                                                          207
+                    150                                                 207                                                           191                                                   3,00
+                                                                                       179                                                           166                           166
+                                                       164                                                            168
+                    100                                                                                                                                                                     2,00
+
+                      50                                                                                                                                                                    1,00
+
+                        0                                                                                                                                                                   0,00
+                                 Home                Dona              Home           Dona           Home            Dona           Home            Dona           Home           Dona
+                                           2020                                2021                          2022                           2023                          2024
+
+                                                                                                         Taxa de mortalitat
+
+
+
+
+NP_A222_20260317                                                                                                                                                                                   Pàgina 4 de 18
+                                   A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+        3. Treball
+
+
+         Dins del bloc de treball, i centrant l’atenció en l’indicador de persones assalariades per sector
+         d’activitat, s’analitzen tres sectors que presenten una marcada diferència d’ocupació per
+         gènere, la qual no s’ha reduït durant el període 2020-2024.
+
+         En primer lloc, el sector F: Construcció, tradicionalment associat a feines que requereixen una
+         major força física, registra una notable concentració masculina. En el quinquenni analitzat,
+         aquest sector presenta una mitjana anual de 3.916 persones assalariades, de les quals
+         aproximadament nou de cada deu són homes, proporció que es manté estable al llarg del
+         període.
+
+         Pel que fa a l’evolució, el sector ha experimentat un creixement mitjà anual de 211 persones
+         durant els darrers cinc anys, amb un increment mitjà de 177 homes i 34 dones per any. En
+         termes absoluts, el nombre total de persones assalariades ha augmentat en 912 treballadors,
+         dels quals 764 són homes i 149 dones, mantenint-se així la diferència de gènere en aquest
+         sector econòmic.
+
+
+
+                                    Persones assalariades per sector d'activitat F: Construcció
+
+                                                       Home              Dona
+                                                                                                  3.898
+          4.000
+                                                                                    3.633
+                                                              3.521
+          3.500                          3.345
+                     3.134
+          3.000
+
+          2.500
+
+          2.000
+
+          1.500
+
+          1.000
+                                                                                            443           492
+                             343                 373                  398
+           500
+
+             0
+                        2020                2021                  2022                 2023          2024
+
+
+
+
+NP_A222_20260317                                                                                                Pàgina 5 de 18
+                                   A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+         Tanmateix, en el sector N: Activitats sanitàries i veterinàries, i serveis socials, àmbit en què la
+         principal funció és l’atenció i la cura de les persones, hi predomina clarament la presència
+         femenina. Durant el període analitzat, el sector ha comptat amb una mitjana anual de 2.448
+         persones assalariades, de les quals aproximadament vuit de cada deu són dones.
+
+         Tot i aquesta majoria femenina, entre els anys 2021 i 2024 s’observa un lleu increment en la
+         proporció d’homes, que arriba al 22,5% del total el 2024. En aquest període, el sector ha
+         registrat un augment mitjà de 98 persones assalariades, dels quals 30 són homes i 68 dones.
+
+         Pel que fa al creixement anual, aquest se situa en 116 persones respecte al 2023, amb una
+         distribució del 61,7% de dones (71 treballadores) i el 38,3% d’homes (44 treballadors).
+
+
+
+                                          Persones assalariades per sector d'activitat
+                                      N: Activitats sanitàries i veterinàries, serveis socials
+
+                                                        Home             Dona
+
+
+          2.000
+
+                                                                                                               2.049
+          1.750                                                                                  1.978
+                                                1.895                  1.896
+          1.500            1.782
+
+          1.250
+
+          1.000
+
+           750
+
+           500
+                                                                                                         595
+           250       465                 510                    518                    551
+
+             0
+                       2020                2021                   2022                   2023              2024
+
+
+
+
+NP_A222_20260317                                                                                                       Pàgina 6 de 18
+                               A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+         Finalment, en el sector P: Llars que ocupen personal domèstic, àmbit en què la principal
+         activitat és la neteja i el manteniment de la llar, també hi predomina àmpliament la presència
+         femenina. Al llarg de tot l’històric analitzat, el sector registra una mitjana anual de 1.041
+         persones assalariades, entre les quals els homes no arriben ni a representar un de cada deu
+         treballadors, malgrat que la seva presència mostra una lleugera tendència a l’alça.
+
+         Pel que fa a l’evolució del sector, aquest ha experimentat un lleu decreixement durant el
+         període 2020-2024, amb una pèrdua mitjana de 21 persones assalariades per any. D’aquestes,
+         22 corresponen a dones que abandonen el sector, mentre que 1 home s’hi incorpora.
+
+
+
+                                      Persones assalariades per sector d'activitat
+                                        P: Llars que ocupen personal domèstic
+
+                                                  Home                Dona
+          1.200
+
+                         978              973
+          1.000                                                 940                     927
+                                                                                                   897
+
+           800
+
+
+           600
+
+
+           400
+
+
+           200
+                    98               98                  100                    97            96
+
+             0
+                      2020             2021                 2022                     2023      2024
+
+
+
+
+NP_A222_20260317                                                                                         Pàgina 7 de 18
+                                                                   A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+                                                              2020                                   2021                                   2022                                 2023                               2024
+   TREBALL                                                 Home                 Dona              Home                 Dona              Home               Dona              Home               Dona            Home            Dona
+   Taxa d'activitat
+                                                           85,6%               79,2%              86,6%              81,9%               86,8%             81,7%             86,8%              82,5%            86,2%          80,9%
+   Taxa d'ocupació
+                                                           83,2%               76,6%              83,8%              79,0%               85,1%             79,8%             85,1%              81,4%            84,6%          80,0%
+   Taxa d'inactivitat
+                                                           14,5%               20,8%              13,4%              18,1%               13,3%             18,3%             13,2%              17,6%            13,8%          19,1%
+   Demandants recerca
+                                                              493                 493                438                 448                204               201               167                   174          146            163
+   Demandants millora
+                                                217            271         271                                           369                138               222               101                   163           87            137
+   Taxa d'ocupació per edat
+               De 15 a 24 anys               32,0%          22,4%       33,5%                                        24,1%               37,1%             30,2%             32,4%              28,2%            26,6%          22,1%
+               De 25 a 34 anys               88,2%          84,2%       90,7%                                        89,3%               91,0%             90,7%             89,1%              90,5%            93,0%          89,3%
+               De 35 a 44 anys               96,8%          93,1%       97,4%                                        93,9%               97,9%             93,7%             98,8%              96,6%            97,3%          94,5%
+               De 45 a 54 anys               97,3%          87,1%       96,7%                                        93,1%               96,8%             91,8%             96,4%              91,2%            95,8%          90,9%
+               De 55 a 64 anys               84,8%          76,3%       85,4%                                        75,2%               87,7%             76,1%             92,1%              82,9%            92,0%          83,0%
+               65 anys o més                 17,1%          11,7%       18,5%                                        10,0%               18,5%              7,7%             23,0%              11,2%            22,9%          13,5%
+   Persones assalariades per sector d'activitat (mitjana mensual) *
+               Sector A                          99             58          99                                           55                 107                52               106                 53             104             53
+               Sector B                           0              0           0                                            0                   0                 0                 0                  0               0              0
+               Sector C                           0              0           0                                            0                   0                 0                 0                  0               0              0
+               Sector D                         990            590         955                                          566               1.008               609             1.036                613           1.074            627
+               Sector E                         124             46         122                                           49                 123                51               132                 56             135             53
+               Sector F                       3.134            343       3.345                                          373               3.521               398             3.633                443           3.898            492
+               Sector G                       4.396          4.284       4.133                                        4.041               4.484             4.388             4.798              4.595           4.840          4.617
+               Sector H                       2.198          2.129       1.838                                        1.801               2.621             2.573             2.760              2.658           2.837          2.678
+               Sector I                         856            416         812                                          352                 908               419               984                456           1.026            476
+               Sector J                         861            897         862                                          903                 827               889               809                887             812            902
+               Sector K                       2.564          2.917       2.616                                        3.014               3.050             3.453             3.243              3.672           3.539          3.845
+               Sector L                       2.045          2.476       2.124                                        2.550               2.109             2.544             2.105              2.548           2.138          2.587
+               Sector M                         176            428         181                                          442                 179               443               195                483             203            494
+               Sector N                         465          1.782         510                                        1.895                 518             1.896               551              1.978             595          2.049
+               Sector O                       1.610          1.290       1.538                                        1.227               1.880             1.417             2.020              1.484           2.020          1.528
+               Sector P                          98            978          98                                          973                 100               940                97                927              96            897
+               Sector Q                           4              9           4                                            8                   4                 8                 4                  9               5              9
+               Sector T                          43            156          45                                          151                  41               139                43                133              40            127
+               Sector Z                           0              0           0                                            0                   0                 0                 0                  0               0              0
+   Persones assalariades per sector (primari, etc)
+               Primari                           99             58          99                                           55                107                 52               106                 53             104             53
+               Indústria, Energia             1.114            636       1.077                                          615              1.131                661             1.168                668           1.209            680
+               Construcció                    3.134            343       3.345                                          373              3.521                398             3.633                443           3.898            492
+               Serveis                       15.316         17.763      14.761                                       17.357             16.722             19.109            17.609             19.830          18.151         20.209
+   Ingressos bruts mitjans per assalariat**
+                                       22.774,84 € 18.367,17 € 22.788,71 €                                    18.105,53 €         23.670,47 €         19.028,66 €     25.061,03 €        20.485,61 €        26.418,87 €    21.789,56 €
+   Ingressos bruts medians per assalariat**
+                                       19.222,77 € 16.629,55 € 19.297,94 €                                    16.383,26 €         20.177,43 €         17.574,63 €     21.648,87 €        18.961,12 €        22.935,79 €    20.173,25 €
+   Salari mitjà brut mensual (1)
+                                         2.407,00 €     1.905,50 €  2.460,80 €                                  1.912,40 €          2.574,40 €         2.015,80 €       2.703,30 €         2.157,70 €        2.832,40 €     2.285,80 €
+   Salari mitjà brut mensual (2)
+                                         2.407,00 €     1.906,00 €  2.467,21 €                                  1.919,80 €          2.578,84 €         2.020,45 €       2.707,47 €         2.161,37 €        2.836,88 €     2.289,93 €
+   Salari mitjà brut anual (2)*12
+                                       28.703,00 € 22.334,00 € 28.784,00 €                                    22.649,00 €         28.880,00 €         22.871,00 €     29.607,00 €        23.038,00 €        30.946,00 €    24.245,00 €
+   Baixes per accident laboral
+                                              1.187          1.543         616                                           856              1.055               299             1.098                   365        1.171            337
+   Temporers per sexe (mitjana mensual)
+                                                791          1.029         359                                           500              1.199             1.472             1.733              1.403           1.327          1.059
+   * Vegeu la correspondència amb la CAEA a la Nota metodològica. Pot ser que els totals no coincideixin pels decimals.
+   ** Aquest valor s'ha calculat amb el salari total percebut des de gener fins al desembre de l'any per a cada assalariat. Es poden donar casos en els què hi hagi menys de dotze mesos declarats.
+   (1) Valor calculat mitjançant la mitjana de salaris mitjans de cada mes de l'any
+   (2) Valor calculat amb el quocient entre la mitjana de la massa salarial mensual de l'any entre la mitjana del nombre d'assalariats mensuals de l'any
+
+
+
+
+NP_A222_20260317                                                                                                                                                                                                            Pàgina 8 de 18
+                                               A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+         4. Formació
+
+
+           Dins del bloc de formació, la comparativa amb l’any anterior mostra una davallada significativa
+           en el nombre de persones matriculades a estudis de Bàtxelor, amb un decrement del 25,4% en
+           els homes i del 33,7% en les dones.
+
+           Pel que fa als estudis de Màster, s’observa un creixement tant per als homes com per a les
+           dones, del 48,4% i 28,6%, respectivament.
+
+           Per altra banda, per a les persones matriculades a FP, les dones presenten un augment del
+           5,1% i els homes del 8,1%.
+
+
+                                              2020                      2021                         2022                        2023                     2024
+    FORMACIÓ                               Home          Dona        Home             Dona        Home         Dona           Home        Dona         Home          Dona
+    Persones matriculades a FP
+                                               320          203           345           215            345      188            334         181           320          206
+    Persones matriculades a Bàtxelor
+                                               268          295           690           650       1.235        1.282          1.392       1.416        1.039          939
+    Persones matriculades a Màster
+                                               21           33            39             63            43           72            64        70           95            90
+
+
+
+
+                                                          Persones matriculades en estudis superiors
+
+                                                     Bàtxelor                   Formació Professional                Màster
+
+
+            1.400
+
+            1.200
+
+            1.000
+
+              800
+
+              600
+
+              400
+
+              200
+
+                 0
+                        Home            Dona         Home          Dona           Home          Dona         Home          Dona         Home          Dona
+                                 2020                       2021                         2022                       2023                       2024
+
+
+
+
+NP_A222_20260317                                                                                                                                               Pàgina 9 de 18
+                                               A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+           5. Esport
+
+
+             En el bloc d’Esports encara manca molta informació referent a les llicències d’entrenadors, de
+             junta directiva i d’àrbitre, de les quals només es té informació de l’any 2022 al 2024. Tot i això,
+             es disposa d’informació històrica sobre les llicències esportives. Per l’any 2024, un 22,3% de
+             les llicències d’entrenador eren de dones, mentre que un 77,7% eren d’homes. Quant a les
+             juntes directives, la proporció es manté estable respecte a l’any anterior; les llicències
+             femenines suposen un 30,7% i les masculines el 69,3% restant. Finalment, del total d’àrbitres
+             federats al país, un 20,9% eren dones per un 79,1% d’homes.
+
+             En comparació amb l’any 2023, el total de llicencies esportives per a homes ha augmentat un
+             8,1% i per a les dones ha augmentat un 5,1%. Quant a la resta de llicències i respecte a l’any
+             anterior, les d’entrenador/a augmenten notablement en les dones, sent un augment del 40,3%,
+             en canvi, per als homes disminueix un 18,7%. Les llicències femenines de junta directiva
+             augmenten un 29,7%, mentre que les d’homes augmenten un 24,9%. Finalment, les llicències
+             d’àrbitre disminueixen un 21,1% en el cas dels homes i un 17,7% en el cas de les dones.
+
+
+                                              2020                      2021                      2022                           2023                    2024
+   ESPORT                                  Home      Dona            Home           Dona       Home         Dona              Home            Dona    Home          Dona
+   Llicències esportives
+                                           5.708     1.990           6.085          2.239      6.312        2.290             6.524           2.669   7.051        2.806
+   Llicències d'entrenador
+                                             ND        ND              ND             ND        387          107               925             154     752           216
+   Llicències de junta directiva
+                                             ND        ND              ND             ND        258              83            237             101     296           131
+   Llicències d'àrbitre
+                                             ND        ND              ND             ND        275              90            379              96     299            79
+
+
+
+             Quant a les dades històriques de les llicències esportives, s’extreu la conclusió que els homes
+             són àmplia majoria en el total de llicències esportives del país, amb una mitjana del 63,8% del
+             total de llicències esportives del país en el període 2020-2024. Les llicències femenines
+             suposen una mitjana del 36,2%, és a dir, una de cada quatre llicències. L’evolució de la
+             proporció de llicències esportives de dones durant aquests darrers 5 anys mostra una lleugera
+             tendència a l’alça.
+
+
+                                                                        Llicències esportives
+
+                                                                             Home            Dona
+
+
+               2024                                            7.051                                                                  2.806
+
+
+
+               2023                                          6.524                                                        2.669
+
+
+
+               2022                                      6.312                                                        2.290
+
+
+
+               2021                                    6.085                                                     2.239
+
+
+
+               2020                                  5.708                                               1.990
+
+
+                      0            1.000     2.000     3.000           4.000         5.000      6.000       7.000             8.000           9.000   10.000
+
+
+
+
+NP_A222_20260317                                                                                                                                              Pàgina 10 de 18
+                                                      A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+              6.        Economia
+
+
+
+              Dins del bloc d’economia, l’indicador “Dificultat per arribar a final de mes”, extret de l’Enquesta
+              de Condicions de Vida, posa de manifest que, al llarg de tot l’històric 2020-2024, la proporció
+              de dones que declaren tenir dificultats per arribar a final de mes és superior a la dels homes.
+
+              Concretament, l’any 2024, un 48,4% dels homes afirma tenir dificultats econòmiques, mentre
+              que aquesta proporció s’eleva fins al 51,6% en el cas de les dones. Pel que fa a la renda
+              mitjana neta de les llars, la dels homes se situa en 40.534 €, mentre que la de les dones és de
+              33.895 €, és a dir, un 16,4% inferior.
+
+              A més, segons la mateixa enquesta, un 21,4% de les dones es troba en risc de pobresa o
+              exclusió social, enfront del 17,5% dels homes.
+
+
+                                                 2020                         2021                          2022                          2023                         2024
+ ECONOMIA                                     Home           Dona          Home           Dona           Home            Dona          Home           Dona          Home            Dona
+ Dificultat per arribar a fi de mes
+                                             48,1%          51,9%         46,1%           53,9%         48,5%           51,5%         48,2%          51,8%          48,4%          51,6%
+ Renda mitjana neta llars
+                                        30.360,00 €    26.573,00 €   29.631,00 €   25.741,00 €    32.176,00 €     28.365,00 €   38.243,00 €    33.945,00 €    40.534,00 €    33.895,00 €
+ Risc de pobresa o exclusió social
+                                             12,3%          13,6%         14,2%           15,3%         18,6%           21,7%         17,6%          20,2%          17,5%          21,4%
+ Nota: aquests indicadors desglossats per sexe provenen de l’Enquesta de condicions de vida i s’extreuen únicament per al Sistema d’indicadors d’igualtat. No es publiquen en l’informe
+ de l’Enquesta de condicions de vida.
+
+
+
+
+                                                                               Indicadors econòmics
+
+                                              Dificultat per arribar a fi de mes - Dona                         Risc de pobresa o exclusió social
+                                              Dificultat per arribar a fi de mes - Home                         Risc de pobresa o exclusió social
+
+                60%
+
+
+                50%
+
+
+                40%
+
+
+                30%
+
+
+                20%
+
+
+                10%
+
+
+                   0%
+                                      2020                       2021                         2022                         2023                          2024
+
+
+
+
+NP_A222_20260317                                                                                                                                                         Pàgina 11 de 18
+                                                A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+           7.        Òrgans de decisió i poder
+
+
+           Pel que fa al bloc d’Òrgans de decisió i poder, i més concretament als Cossos Especials, les
+           dades evidencien una presència clarament majoritària d’homes tant al Cos de Policia com als
+           Cossos Penitenciari i de Bombers.
+
+           Durant el període 2020-2024, el Cos de Policia ha comptat amb una mitjana de 250 homes i 69
+           dones, fet que representa una ràtio de 3,63 homes per a cada dona. En el cas del Centre
+           Penitenciari, la mitjana ha estat de 57 homes i 12 dones, amb una ràtio de 4,86 homes per a
+           cada dona.
+
+           Finalment, al Cos de Bombers, la diferència és encara més acusada: la mitjana d’homes és de
+           125 davant de 12 dones, la qual cosa suposa una ràtio de 10,78 homes per a cada dona, la
+           més elevada de tots els Cossos Especials analitzats.
+
+
+                                                 2020                     2021                        2022                      2023                     2024
+    ÒRGANS DE DECISIÓ I PODER                 Home      Dona           Home           Dona         Home         Dona         Home       Dona          Home         Dona
+    Membres del Consell General
+                                                ND          ND            ND              ND            15           13        15         13            14           14
+    Membres del Govern
+                                                ND          ND            ND              ND             5           6             5       6             6            6
+    Membres dels comuns
+             Canillo                            ND          ND            ND              ND            ND        ND               6       4             6            4
+             Encamp                             ND          ND            ND              ND            ND        ND               6       6             6            6
+             Ordino                             ND          ND            ND              ND            ND        ND               5       5             5            5
+             La Massana                         ND          ND            ND              ND            ND        ND               7       5             7            5
+             Andorra La Vella                   ND          ND            ND              ND            ND        ND               7       5             7            5
+             Sant Julià de Lòria                ND          ND            ND              ND            ND        ND               7       6             6            6
+             Escaldes-Engordany                 ND          ND            ND              ND            ND        ND               6       6             6            6
+    Membres de la justícia
+             Magistrats                         10            8           11               8             1            8            8       8             8            7
+             Batlles                             6           11            6              11             6           11            6      11             6           11
+             Fiscals                             4            2            4               2             4            4            2       3             5            5
+    Cossos especials
+             Policies                          239           68           259             72            254          71        248        67            252          67
+             Efectius penitenciaris             64           11            58             11             59          15         45         4             61          18
+             Bombers                           125           11           126             12            123          12        123        13            128          10
+
+
+
+
+                                                                                Cossos especials
+
+                                                            Policies            Bombers           Efectius penitenciaris
+             300
+
+
+             250
+
+
+             200
+
+
+             150
+
+
+             100
+
+
+                50
+
+
+                0
+                        Home           Dona          Home          Dona           Home           Dona         Home          Dona       Home           Dona
+                                2020                        2021                          2022                       2023                      2024
+
+
+
+
+NP_A222_20260317                                                                                                                                              Pàgina 12 de 18
+                               A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+
+        8. Violència de gènere
+
+
+         Dins del bloc de violència de gènere, segons les dades del Servei d’Atenció a les Víctimes de
+         Violència de Gènere, es constata que el nombre de casos atesos ha augmentat l’any 2024,
+         trencant així la tendència baixista de l’any 2020 al 2023.
+
+         Pel que fa al tipus de violència patida per les dones, destaca que la totalitat de les víctimes
+         declaren haver sofert maltractament psicològic, mentre que les formes de violència física i
+         social afecten aproximadament una de cada dues dones.
+
+         Quant a l’edat de la dona, la majoria dels casos atesos tenen entre 28 i 51 anys, concentrant el
+         70,6% dels total, seguides de les dones d’entre 18 i 27 anys, amb el 14,7% i les d’entre 52 i 63
+         anys, amb el 9,8% del total.
+
+         Segons l’estat civil de la dona, el 40% són solteres, mentre que el 27,5% són casades i el 22%
+         són separades. Les divorciades suposen un 6,4% i les vídues un 0,9%. En un 2,8% dels casos
+         es desconeix l’estat civil de la dona.
+
+         Si s’analitzen altres factors com si la dona té un menyscabament reconegut o si ha retornat
+         amb la parella, les dades mostren que el 94,5% dels casos atesos no tenen cap discapacitat
+         reconeguda. Un 5,5% sí que la tenen. Un 20,2% de les dones ateses han retornat amb la seva
+         parella mentre que un 70,3% no ho han fet. En la resta de casos, la informació no consta
+         perquè les dones s’han desvinculat del servei i, per tant, es desconeix la seva situació actual.
+
+         Segons el canal d’entrada al servei, una de cada dues (50,2%) dones ateses ho ha fet per
+         iniciativa pròpia, mentre que un 18,3% ha estat derivada pel Departament d’Afers Socials, un
+         13,1% a través de la Policia, un 12,2% de l’Hospital Nostra Senyora de Meritxell i un 6,1%
+         mitjançant altres canals. Pràcticament una de cada dues (45,3%) dones ateses al servei durant
+         el 2024 havia interposat una denúncia prèvia.
+
+         Finalment, segons l’assessorament jurídic rebut, un 11,6% dels casos havien rebut
+         assessorament civil o penal i un 0,6% laboral o administratiu.
+
+         Pel que fa a les detencions d’homes per violència de gènere, s’ha registrat un increment del
+         28,6% respecte a l’any anterior.
+
+
+
+
+NP_A222_20260317                                                                                       Pàgina 13 de 18
+                                                  A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+                                                     2020                       2021                        2022              2023                   2024
+         VIOLÈNCIA DE GÈNERE                      Home         Dona          Home          Dona          Home       Dona   Home            Dona   Home      Dona
+         Nombre de casos atesos per SAVVG
+                                                                  332                        325                     324                    301              327
+         Nombre de casos atesos per SAVVG per tipus de violència (pot haver-hi més d'un cas per cada dona)
+                  Físic                                           196                        194                     182                    169              182
+                  Psicològic                                      313                        325                     308                    288              327
+                  Sexual                                           70                         87                      68                     65               68
+                  Econòmic                                        144                        127                     154                    117              146
+                  Social                                          180                        115                     158                    137              157
+                  Ambiental                                       100                         99                     107                    143              144
+                  Vicari                                            -                           -                      -                     54               88
+                  Ciberviolència                                    -                           -                      -                      3                6
+         Nombre de casos atesos per SAVVG per edat de la dona
+                  Menys de 18                                     ND                          ND                       4                      0                3
+                  18-27                                           ND                          ND                      42                     48               48
+                  28-39                                           ND                          ND                      99                     96              119
+                  40-51                                           ND                          ND                     113                    113              112
+                  52-63                                           ND                          ND                      44                     28               32
+                  64-73                                           ND                          ND                       7                      6                4
+                  Més de 75                                       ND                          ND                      15                      0                3
+                  NS/NC                                           ND                          ND                     324                     10                6
+         Nombre de casos atesos per SAVVG per estat civil de la dona
+                  Soltera                                         ND                          ND                     108                    104              132
+                  Casada                                          ND                          ND                      82                     90               90
+                  Divorciada                                      ND                          ND                      14                     15               21
+                  Separada                                        ND                          ND                     109                     87               72
+                  Víuda                                           ND                          ND                       7                      3                3
+                  NS/NC                                           ND                          ND                       4                      2                9
+         Nombre de casos atesos per SAVVG per si la dona té discapacitat reconeguda
+                  Sí                                              ND                          ND                      ND                     14               18
+                  No                                              ND                          ND                      ND                    287              309
+         Nombre de casos atesos per SAVVG per si hi ha hagut retorn amb la parella
+                  Sí                                              ND                          ND                      66                     75               66
+                  No                                              ND                          ND                     233                    218              230
+                  NS/NC                                           ND                          ND                      25                      8               31
+         Nombre de casos atesos per SAVVG per si hi ha hagut denúncia prèvia al SAVVG
+                  Sí                                              ND                          ND                     133                    126              148
+                  No                                              ND                          ND                     186                    172              173
+                  NS/NC                                           ND                          ND                       4                      3                6
+         Nombre de casos atesos per SAVVG per canal d'entrada al SAVVG
+                  Afers Socials                                   ND                          ND                      36                     66               60
+                  Policia                                         ND                          ND                      39                     42               43
+                  Pròpia iniciativa                               ND                          ND                     165                    147              164
+                  HNSM                                            ND                          ND                      27                     17               40
+                  Altres                                          ND                          ND                      57                     29               20
+         Nombre de casos atesos per SAVVG segons l'assessorament jurídic rebut
+                  Civil                                           ND                          ND                      ND                     34               19
+                  Penal                                           ND                          ND                      ND                     30               19
+                  Laboral                                         ND                          ND                      ND                      1                1
+                  Adminstratiu                                    ND                          ND                      ND                      1                1
+
+
+
+
+                                                                        Nombre de casos atesos per SAVVG
+                           350
+
+
+                           300             332                                               324
+                                                                    325                                                              327
+                                                                                                                   301
+                           250
+
+
+                           200
+
+
+                           150
+
+
+                           100
+
+
+                            50
+
+
+                             0
+                                           2020                    2021                     2022                   2023              2024
+
+
+
+
+NP_A222_20260317                                                                                                                                            Pàgina 14 de 18
+                                                        A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+                                   Nombre de casos atesos per SAVVG per tipus de violència (pot haver-hi més d'un cas per
+                                                                      cada dona)
+
+                                                  Psicològic            Físic             Ambiental                   Social              Econòmic                  Sexual
+
+
+                2024                        327                               182                   157
+
+
+
+                2023                     288                            169               137
+
+
+
+                2022                        308                           182               107                 158
+
+
+
+                2021                        325                               194               99              115            87
+
+
+
+                2020                        313                               196            100                    180                     144             70
+
+
+                        0                         200                     400                           600                        800                       1.000                      1.200
+
+
+
+
+            9. Col·lectiu LGTBI+
+
+
+              L’any 2024 es van registrar un total de 14 matrimonis homosexuals, dels quals 8 entre homes i
+              6 entre dones. En comparació amb l’any anterior, 2023, s’observa un increment significatiu, ja
+              que aleshores es van celebrar 10 matrimonis (3 entre homes i 7 entre dones). Per tant, el
+              nombre total augmenta en quatre unions, amb un creixement especialment destacat en els
+              matrimonis entre dones, que passen de 3 a 6, mentre que els matrimonis entre homes
+              augmenten lleugerament, de 7 a 8.
+
+
+
+                                                     2020                          2021                            2022                              2023                           2024
+   COL·LECTIU LGTBI+                              Home         Dona             Home         Dona               Home               Dona           Home             Dona          Home           Dona
+   Nombre de matrimonis homosexuals
+                                                     3             2                5               6                 2               9              7                3             8              6
+   Nota: s’hi inclouen matrimonis i unions civils.
+
+
+
+
+                                                                                Nombre de matrimonis homosexuals
+                             10
+
+                               9
+                                                                                                                9
+                               8
+                                                                                                                                                             8
+                               7
+                                                                                                                               7
+                               6
+                                                                                    6                                                                                      6
+                               5
+                                                                    5
+                               4
+
+                               3
+                                        3                                                                                                    3
+                               2
+                                                         2                                      2
+                               1
+
+                               0
+                                      Home           Dona        Home            Dona       Home               Dona        Home             Dona            Home          Dona
+                                              2020                       2021                           2022                         2023                          2024
+                            Nota: s’hi inclouen matrimonis i unions civils.
+
+
+
+
+NP_A222_20260317                                                                                                                                                                        Pàgina 15 de 18
+                                               A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+          10. Indicadors del Gender Equality Índex (GEI)
+
+
+          Els Gender Equality Index (GEI), o Índexs d’Igualtat de Gènere, són indicadors que mesuren el
+          nivell d’igualtat entre dones i homes en diferents àmbits de la societat. Aquests índexs
+          permeten analitzar les desigualtats existents i fer un seguiment de l’evolució al llarg del temps.
+
+          A la Unió Europea, l’índex més reconegut és el que elabora l’European Institute for Gender
+          Equality (EIGE). Aquest índex avalua sis grans àrees: treball, diners, coneixement, temps,
+          poder i salut, i assigna una puntuació de 0 a 100, on 100 representa la plena igualtat de
+          gènere.
+
+          Els GEI són eines fonamentals per a les administracions públiques i les organitzacions, ja que
+          permeten identificar àrees de millora, dissenyar polítiques públiques més efectives i avaluar
+          l’impacte de les mesures adoptades per reduir les desigualtats de gènere.
+
+          Actualment a Andorra es disposa dels indicadors mostrats a continuació.
+
+
+
+      INDICADORS GEI
+      Any                                                   2020               2021               2022               2023               2024
+      Sexe                                                Home      Dona    Home       Dona    Home       Dona    Home       Dona    Home       Dona
+      Persones ocupades en Educació, activitats
+      sanitàries i serveis socials (%, població ocupada      2,6     10,2      2,7      10,4      2,6      10,2      2,6      10,1      2,7      10,2
+      de 15 anys o més)
+
+      Població no en risc de pobresa (≥60% de la
+      mediana d’ingressos) (%, població de 16 anys o        88,6     86,6     85,6      84,7     87,1      86,2     86,3      86,1     85,1      82,9
+      més)
+
+
+      Ràtio S20/S80 de distribució per quintils
+                                                            18,5     23,3     14,8      19,0     15,6      19,5     12,6      15,3     12,3      15,0
+      d’ingressos (%, població de 16 anys o més)
+
+      Estudiants d’educació terciària en els àmbits
+      d’Educació, Salut i Benestar, Humanitats i Arts
+                                                            18,3     41,6     11,4      22,8     17,4      43,1     15,2      33,9     19,3      48,6
+      (%, estudiants d’educació terciària de 15 anys o
+      més)
+      Autopercepció de l’estat de salut: bona o molt
+                                                             ND       ND       ND        ND       ND        ND       ND        ND      82,8      76,7
+      bona (%, població de 16 anys o més)
+      Esperança de vida al naixement (anys)                 79,4     85,7     81,3      86,0     81,1      85,7     82,1      86,9     81,4      86,7
+
+      Població amb necessitats mèdiques no cobertes
+      per motius econòmics (%, població de 16 anys o         ND       ND       ND        ND       ND        ND       ND        ND       4,1       6,3
+      més)
+
+      Població amb necessitats d’atenció dental no
+      cobertes per motius econòmics (%, població de          ND       ND       ND        ND       ND        ND       ND        ND       7,2      10,4
+      16 anys o més)
+
+
+      Població de 18 anys o més                           33.189   32.069   34.196    32.700   35.527    33.495   37.479    35.065   38.772    35.829
+
+
+
+
+NP_A222_20260317                                                                                                                          Pàgina 16 de 18
+                                 A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+         11. Nota metodològica
+
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa demanem de citar “Dades tractades pel Departament d’Estadística per a la
+                   Nota de Premsa ref. NP_A222_20260317”.
+
+
+             •     Font. Les dades presentades en aquesta nota de premsa estan elaborades i tractades
+                   pel Departament d’Estadística i provenen de:
+
+                       -   Persones migrades: Dades extretes de la població estimada.
+
+                       -   Dades demogràfiques: Dades extretes de la població estimada i del registre
+                           de naixements i defuncions.
+
+                       -   Treball: Dades extretes de l’Enquesta de Forces de Treball així com dels
+                           registres del Servei d’Ocupació i de la CASS.
+
+                       -   Formació: Dades del Departament de Sistemes Educatius i Relacions
+                           Internacionals.
+
+                       -   Esport: Dades extretes del Ministeri de Cultura, Joventut i Esports.
+
+                       -   Economia: Dades extretes de l’“Enquesta de Condicions de Vida”.
+
+                       -   Òrgans de decisió i poder: Dades extretes de l’Observatori de l’ARI, alhora
+                           extretes dels portals web dels Comuns i del Consell General.
+
+                       -   Violència de gènere: Secretaria d'Estat d'Igualtat i Participació Ciutadana
+
+             •     Altres consideracions.
+
+
+                   Correspondència amb la CAEA (Classificació d’activitats econòmiques
+                   d’Andorra).
+                         Sector A: Agricultura, ramaderia, caça i silvicultura.
+                         Sector B: Pesca.
+                         Sector C: Indústries extractives.
+                         Sector D: Indústries manufactureres.
+                         Sector E: Producció i distribució d'energia elèctrica, gas i aigua.
+                         Sector F: Construcció.
+                         Sector G: Comerç i reparació de vehicles de motor.
+                         Sector H: Hoteleria.
+                         Sector I: Transport i comunicacions.
+                         Sector J: Sistema financer.
+                         Sector K: Activitats immobiliàries i serveis empresarials.
+                         Sector L: Administració pública i seguretat social.
+                         Sector M: Educació.
+                         Sector N: Activitats sanitàries i veterinàries, serveis socials.
+                         Sector O: Altres activitats socials i serveis personals.
+                         Sector P: Llars que ocupen personal domèstic.
+                         Sector Q: Organismes extraterritorials.
+                         Sector T: Treball domèstic a la comunitat.
+                         Sector Z: Declarant voluntari sense activitat.
+
+
+
+
+NP_A222_20260317                                                                                         Pàgina 17 de 18
+                                 A222. Sistema d’indicadors d’igualtat. Any 2024
+
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el
+                   seu desplegament en el Programa estadístic per a l’any 2025, aquest informe dona
+                   resposta a l’activitat estadística: A222: Sistema d’indicadors d’igualtat
+
+             •     Contactes. Perquè estigueu informats en qualsevol moment de les noves publicacions
+                   us podeu inscriure al butlletí d’informació de la nostra web, on també, podeu trobar
+                   l’historial de les notes de premsa d’aquest tema: http://www.estadistica.ad.
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                   (actualment X).
+
+        12. Dates de les publicacions previstes
+
+             Nota de premsa A222. Sistema d’indicadors d’igualtat. Any 2025: 4t trimestre del 2026
+
+
+
+
+NP_A222_20260317                                                                                          Pàgina 18 de 18
+

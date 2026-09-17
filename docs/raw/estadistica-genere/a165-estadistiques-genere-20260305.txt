@@ -1,0 +1,1239 @@
+                                  A165. Estadístiques de gènere. Any 2024
+                                    Data de publicació: dijous, 05/03/2026
+                                             www.estadistica.ad
+
+
+         Introducció
+
+         Les estadístiques de gènere són indispensables per a identificar les desigualtats entre dones i
+         homes, i són necessàries per al desenvolupament i la implementació de polítiques de gènere a
+         nivell nacional, europeu i mundial.
+
+         La igualtat entre dones i homes és un valor fundacional de la Unió Europea, així com un dret
+         fonamental (Art. 23 de la Carta dels Drets Fonamentals de la Unió Europea). Després de la
+         conferència de Pequín de 1995, el Consell Europeu va demanar una revisió anual de com els
+         Estats membres de la UE estaven implementant la Plataforma d'Acció de Pequín.
+
+         Al març del 2010, amb motiu del 15è aniversari de la conferència de Pequín, la Comissió
+         Europea va adoptar la Carta de la Dona. En aquesta carta, l’organisme europeu va reiterar el
+         seu “compromís de fer realitat la igualtat entre dones i homes” reforçant la perspectiva de
+         gènere en totes les seves polítiques i avançant mesures específiques per promoure la igualtat
+         de gènere.
+
+         Al desembre del 2015, la Comissió Europea va adoptar el compromís estratègic per a la
+         igualtat de gènere 2016-2019. En aquest programa de treball, la Comissió ha reafirmat el seu
+         compromís de continuar la seva tasca per promoure la igualtat entre homes i dones. Això
+         significa mantenir el focus en la política d'igualtat de gènere en les cinc àrees temàtiques
+         prioritàries existents:
+
+             1- Augmentar la participació femenina en el mercat de treball i la igualtat d'independència
+                econòmica de dones i homes.
+             2- Reduir la bretxa de gènere en salaris, ingressos i pensions i lluitar així contra la
+                pobresa femenina.
+             3- Promoure la igualtat entre dones i homes en la presa de decisions.
+             4- Lluitar contra la violència masclista, així com protegir i donar suport a les víctimes.
+             5- Promoure la igualtat de gènere i els drets de les dones a tot el món.
+
+         El programa de treball de la Comissió inclou una llista completa d'indicadors que mesuren la
+         igualtat de gènere (per exemple, la taxa d'ocupació, la bretxa salarial de gènere, el risc de
+         pobresa i la taxa d'inclusió social).
+
+         Els objectius a escala de la UE s'han traduït en objectius nacionals a cada país de la UE,
+         reflectint diferents situacions i circumstàncies.
+
+
+
+
+NP_A165_20260305                                                                                       Pàgina 1 de 24
+                                                A165. Estadístiques de gènere. Any 2024
+
+
+
+         Índex
+
+         1. Característiques demogràfiques ........................................................................................... 3
+         1.1. Població estimada del Principat d’Andorra ........................................................................... 3
+         1.2. Naixements ............................................................................................................................ 4
+         1.3. Defuncions ............................................................................................................................. 5
+         2. Característiques educatives .................................................................................................. 6
+         2.1. Estudiants escolars de pre-ensenyament superior ............................................................... 6
+         2.2. Estudiants no universitaris a l’estranger ............................................................................... 7
+         2.3. Estudiants en educació superior ........................................................................................... 8
+         2.4. Llicències esportives ............................................................................................................. 9
+         2.5. Esportistes d’Alt Rendiment d’Andorra becats .................................................................... 10
+         3. Característiques sanitàries .................................................................................................. 11
+         3.1. Esperança de vida de la població ....................................................................................... 11
+         3.2. Víctimes d’accidents de circulació ....................................................................................... 14
+         4. Relació amb l’activitat econòmica ....................................................................................... 15
+         4.1. Mitjana anual d’assalariats .................................................................................................. 15
+         4.2. Salari mitjà mensual. Mitjana anual ..................................................................................... 16
+         4.3. Personal de l’Administració General ................................................................................... 17
+         4.4. Immigració ........................................................................................................................... 18
+         4.5. Emigració ............................................................................................................................. 19
+         4.6. Saldo migratori .................................................................................................................... 20
+         5. Voluntaris ............................................................................................................................. 21
+         6. Efectius judicials .................................................................................................................. 22
+         7. Nota metodològica............................................................................................................... 23
+         8. Dates de les publicacions previstes .................................................................................... 24
+
+
+
+
+NP_A165_20260305                                                                                                                                      Pàgina 2 de 24
+                                         A165. Estadístiques de gènere. Any 2024
+
+
+
+         1. Característiques demogràfiques
+
+
+             1.1. Població estimada del Principat d’Andorra
+
+         En data 31 de desembre de l’any 2024, a Andorra vivien 45.133 homes (un 2,8% més que l’any
+         2023) i 41.964 dones (un 1,8% més que l’any anterior). Durant els darrers cinc anys, la mitjana
+         de la població masculina ha estat de 42.294 homes, representant un 51,4% del total; i ha estat
+         sempre major que la població femenina, amb una mitjana de 39.973 dones i un 48,6% del total.
+
+
+
+              Població estimada                           2020            2021              2022                   2023            2024
+              Dones                                   38.275           38.804             39.613             41.211          41.964
+              Homes                                   39.740           40.731             41.975             43.890          45.133
+              Total                                   78.015           79.535             81.588             85.101          87.097
+
+
+                                             Població del Principat d'Andorra
+           50.000
+
+
+
+
+                                                                                                                                     45.133
+           40.000
+
+                                                                                                          43.890
+                                                      40.731                    41.975           41.211                   41.964
+           30.000      38.275   39.740       38.804                    39.613
+
+
+           20.000
+
+
+           10.000
+
+
+               0
+                           2020                  2021                      2022                      2023                     2024
+                                                               Dones                     Homes
+
+
+
+
+NP_A165_20260305                                                                                                                              Pàgina 3 de 24
+                                     A165. Estadístiques de gènere. Any 2024
+
+
+
+             1.2. Naixements
+
+         Durant l’any 2024 van néixer 254 nenes i 247 nens, la qual cosa representa un 14,9% més en
+         el cas de les nenes i un 4,2% en el cas dels nens, en comparació amb l’any 2023. En els
+         darrers cinc anys, la mitjana de nenes nascudes a Andorra és de 250, mentre que la de nens
+         és de 251.
+
+
+
+                 Naixements                        2020            2021          2022           2023         2024
+                 Nenes                             273             246           254            221          254
+                 Nens                              266             257           248            237          247
+                 Total                             539             503           502            458          501
+
+
+                                                          Naixements
+           300
+                         273   266
+                                             257             254                                       254
+                                       246                          248                                       247
+           250                                                                            237
+                                                                                   221
+
+           200
+
+
+           150
+
+
+           100
+
+
+            50
+
+
+             0
+                          2020           2021                  2022                     2023            2024
+                                                    Nenes                 Nens
+
+
+
+
+NP_A165_20260305                                                                                                    Pàgina 4 de 24
+                                  A165. Estadístiques de gènere. Any 2024
+
+
+
+             1.3. Defuncions
+
+         L’any 2024 van traspassar 207 homes i 166 dones, un +8,4% en el cas dels homes comparat
+         amb l’any anterior. La variació anual pel que fa a les defuncions de les dones és nul·la. La
+         mitjana de defuncions dels darrers cinc anys reflecteix uns valors molt similars als de l’any
+         2024, amb 213 defuncions d’homes i 169 de dones.
+
+
+
+              Defuncions                          2020         2021          2022             2023         2024
+              Dones                               164              179        168             166          166
+              Homes                               255              207        203             191          207
+              Total                               419              386        371             357          373
+
+
+
+                                                         Defuncions
+            300
+                            255
+            250
+                                            207                     203                                     207
+                                                                                        191
+            200                       179
+                      164                                    168                  166                166
+
+            150
+
+            100
+
+             50
+
+              0
+                       2020             2021                  2022                  2023              2024
+
+                                                     Dones                Homes
+
+
+
+
+NP_A165_20260305                                                                                                  Pàgina 5 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+         2. Característiques educatives
+
+
+             2.1. Estudiants escolars de pre-ensenyament superior
+
+         Durant el curs acadèmic 2024-2025, hi havia 5.751 estudiants masculins (un 1,5% menys que
+         al curs acadèmic anterior) i 5.508 estudiants escolars femenines (un 0,5% menys que al curs
+         acadèmic 2023-2024). Tenint en compte els cinc darrers cursos acadèmics, el nombre de nois
+         ha estat sempre major que el nombre de noies, amb una mitjana de 5.730 nois (un 51,4%) per
+         5.415 noies, el 48,6% restant.
+
+
+
+              Estudiants escolars                 2020-2021       2021-2022            2022-2023       2023-2024        2024-2025
+              Noies                                    5.291             5.263             5.479                5.535         5.508
+              Nois                                     5.619             5.624             5.821                5.837         5.751
+              Total                                   10.910            10.887            11.300               11.372        11.259
+
+
+                                                            Estudiants escolars
+
+           7.000
+
+           6.000
+
+
+                                                                                               5.535
+           5.000
+                              5.619       5.263     5.624              5.479   5.821                   5.837             5.508   5.751
+           4.000      5.291
+
+
+           3.000
+
+           2.000
+
+           1.000
+
+              0
+                      2020-2021          2021-2022                     2022-2023               2023-2024                2024-2025
+
+                                                               Noies                    Nois
+
+
+
+
+NP_A165_20260305                                                                                                                         Pàgina 6 de 24
+                                       A165. Estadístiques de gènere. Any 2024
+
+
+
+             2.2. Estudiants no universitaris a l’estranger
+
+         El curs acadèmic 2024-2025 hi va haver 79 estudiants masculins (17 menys que al curs
+         acadèmic 2023-2024) i 87 estudiants femenines (1 noia menys que al curs acadèmic anterior)
+         que van cursar els seus estudis no universitaris a l’estranger.
+
+
+                Estudiants no universitaris
+                                               2020-2021    2021-2022     2022-2023     2023-2024   2024-2025
+                a l'estranger
+                Noies                                  44            35            78          88         87
+                Nois                                   65            56            88          96         79
+                Total                                 109            91           166         184        166
+
+
+
+                                        Estudiants no universitaris a l'estranger
+          120
+
+          100
+
+           80
+                                                                     88                  96         87
+                                                                                   88
+           60                                                   78                                        79
+
+                             65
+           40                                   56
+                      44
+                                          35
+           20
+
+            0
+                      2020-2021           2021-2022          2022-2023            2023-2024         2024-2025
+
+                                                        Noies              Nois
+
+
+
+
+NP_A165_20260305                                                                                                Pàgina 7 de 24
+                                          A165. Estadístiques de gènere. Any 2024
+
+
+
+             2.3. Estudiants en educació superior
+
+         El nombre d’estudiants en educació superior a Andorra durant el curs acadèmic 2024-2025 es
+         va distribuir entre 1.064 dones (un 30,4% menys que al curs acadèmic 2023-2024) i 1.167
+         homes (un 21,5% menys que al curs acadèmic anterior). Al llarg dels últims cinc cursos
+         acadèmics, la mitjana de dones estudiants ha estat lleugerament més alta que la dels homes
+         (1.013 i 1.004 estudiants, respectivament).
+
+
+              Estudiants en educació
+                                                      2020-2021       2021-2022          2022-2023       2023-2024        2024-2025
+              superior
+              Dones                                             346           732            1.396                1.528             1.064
+              Homes                                             309           751            1.305                1.487             1.167
+              Total                                             655         1.483            2.701                3.015             2.231
+             Vegeu notes informatives a la nota metodològica.
+
+
+
+                                                 Estudiants en educació superior
+          1.800
+          1.600
+          1.400
+                                                                                                 1.528    1.487
+                                                                         1.396
+          1.200
+          1.000                                                                  1.305
+                                                                                                                                       1.167
+            800                                                                                                             1.064
+            600
+                                                732     751
+            400
+            200
+                        346    309
+              0
+                       2020-2021               2021-2022                 2022-2023               2023-2024                 2024-2025
+
+                                                                 Dones                   Homes
+
+
+
+
+                                      Estudiants en educació superior. Curs 2024-2025
+
+
+
+
+                                                                                    47,7%
+                                                              52,3%
+
+
+
+
+                                                              Dones                 Homes
+
+
+
+
+NP_A165_20260305                                                                                                                               Pàgina 8 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+             2.4. Llicències esportives
+
+         Durant la temporada 2024-2025, del total de 9.857 llicències esportives tramitades, 7.051
+         pertanyen a homes, el que representa un 71,5% del total de llicències tramitades la temporada
+         2024-2025 i un 8,1% més que a la temporada 2023-2024, mentre que 2.806 corresponen a
+         dones (un 5,1% més que a la temporada anterior). La mitjana de les llicències tramitades
+         durant les darreres cinc temporades reflecteix un total de 6.336 llicències per homes, un 72,5%
+         del total, i 2.399 llicències per dones.
+
+         Llicències esportives              2020-2021         2021-2022            2022-2023            2023-2024           2024-2025
+         Dones                                     1.990               2.239           2.290                2.669                    2.806
+         Homes                                     5.708               6.085           6.312                6.524                    7.051
+         Total                                     7.698               8.324           8.602                9.193                    9.857
+
+
+
+
+                                                     Llicències esportives
+           8.000
+
+           7.000
+
+                                                                                                                             7.051
+           6.000
+                                                                                                    6.524
+                                                  6.085                    6.312
+                              5.708
+           5.000
+
+           4.000
+
+           3.000
+
+
+                                                                                            2.669                   2.806
+           2.000
+
+                                          2.239                    2.290
+           1.000      1.990
+               0
+                     2020-2021           2021-2022             2022-2023                   2023-2024            2024-2025
+
+                                                           Dones                   Homes
+
+
+
+
+NP_A165_20260305                                                                                                                         Pàgina 9 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+                2.5. Esportistes d’Alt Rendiment d’Andorra becats
+
+         L’any 2024 hi va haver 34 homes (8 més que a l’any anterior) i 19 dones (1 més que a l’any
+         2023) que van disposar d’una beca econòmica com esportistes d’Alt Rendiment. Durant els
+         cinc últims anys, han rebut beques una mitjana de 30 esportistes d’Alt Rendiment masculins
+         (un 65,8% sobre el total) mentre que, de mitjana, 16 esportistes d’Alt Rendiment femenines han
+         estat becades.
+
+
+                Esportistes d'Alt Rendiment
+                                                      2020           2021           2022           2023        2024
+                becats
+                Dones                                  17             14              10            18          19
+                Homes                                  34             35              21            26          34
+                Total                                  51             49              31            44          53
+
+
+
+                                          Esportiste s d'Alt Rendiment becats
+           40
+
+           35
+
+           30              34                    35                                                             34
+
+           25
+
+           20                                                                                 26
+                                                                      21
+           15                                                                                             19
+                      17                                                              18
+           10                            14
+                                                                10
+            5
+
+            0
+                        2020                  2021               2022                      2023            2024
+                                                       Dones                  Homes
+
+
+
+
+                                       Esportiste s d'Alt Rendiment becats. Any 2024
+
+
+
+
+                                                                        35,8%
+
+                                                        64,2%
+
+
+
+
+                                                      Dones                 Homes
+
+
+
+
+NP_A165_20260305                                                                                                      Pàgina 10 de 24
+                                   A165. Estadístiques de gènere. Any 2024
+
+
+
+         3. Característiques sanitàries
+
+
+             3.1. Esperança de vida de la població
+
+         Per la casuística d’Andorra, seguint les recomanacions per les poblacions de mida petita,
+         malgrat obtenir l’esperança de vida anual, es pren com a indicador la mitjana dels darrers cinc
+         anys. La mitjana dels anys 2020-2024 per l’esperança de vida en néixer és 5,1 anys major per
+         les dones (86,2) que pels homes (81,1). Quant al tram de 30-34 anys, la diferència continua
+         sent favorable a les dones en 4,7 anys, i al tram de 60-64 anys l’esperança de vida de les
+         dones és de 27,4 anys, mentre que pels homes és de 23,1 anys, és a dir, 4,3 anys major per a
+         les dones.
+
+
+                                                Mitjana 2020-2024
+                                Edat               Dones       Homes       Global
+                                0 anys               86,2         81,1       83,7
+                                1-4 anys             85,2         80,3       82,8
+                                5-9 anys             81,2         76,3       78,8
+                                10-14 anys           76,3         71,4       73,9
+                                15-19 anys           71,3         66,4       68,9
+                                20-24 anys           66,4         61,5       64,0
+                                25-29 anys           61,4         56,6       59,0
+                                30-34 anys           56,4         51,7       54,1
+                                35-39 anys           51,5         46,7       49,1
+                                40-44 anys           46,5         41,9       44,3
+                                45-49 anys           41,7         37,1       39,4
+                                50-54 anys           36,8         32,2       34,6
+                                55-59 anys           32,0         27,6       29,9
+                                60-64 anys           27,4         23,1       25,4
+                                65-69 anys           23,0         19,1       21,2
+                                70-74 anys           18,7         15,4       17,2
+                                75-79 anys           14,5         11,9       13,4
+                                80-84 anys           10,7          8,8        9,9
+                                85-89 anys            7,4          6,1        6,9
+                                90 i més anys         4,8          4,1        4,6
+
+
+
+
+NP_A165_20260305                                                                                      Pàgina 11 de 24
+                                   A165. Estadístiques de gènere. Any 2024
+
+
+
+         L’esperança de vida en néixer de l’any 2024 pel conjunt de la població d’Andorra, calculada
+         com la mitjana dels darrers cinc anys, és de 83,7 anys, mentre que per les dones és de 86,2
+         anys i pels homes disminueix fins als 81,1 anys.
+
+
+                      Esperança de vida en nèixer                  Dones       Homes             Global
+                      2020                                           85,7        79,4              82,5
+                      2021                                           86,0        81,3              83,7
+                      2022                                           85,7        81,1              83,5
+                      2023                                           86,9        82,1              84,6
+                      2024                                           86,7        81,4              84,1
+                      Mitjana 2020-2024                              86,2        81,1              83,7
+
+
+
+                                                      Esperança de vida en nèixer
+
+                      88                                                                86,9              86,7
+                                                    86,0              85,7
+                                85,7
+                      86
+                                                                                        84,6
+                                                                                                          84,1
+                                                    83,7              83,5
+                      84
+                                82,5
+                                                                                        82,1
+                      82                            81,3              81,1                                81,4
+
+
+                      80        79,4
+
+
+                      78
+                               2020              2021                2022               2023              2024
+
+                                                           Dones       Homes            Global
+
+
+
+
+         Pel que fa a l’esperança de vida als 30-34 anys de l’any 2024, calculada com la mitjana dels
+         darrers cinc anys, és de 56,4 anys per les dones, de 51,7 anys pels homes, mentre que pel
+         total de la població és de 54,1 anys.
+
+
+                      Esperança de vida als 30-34 anys             Dones       Homes             Global
+                      2020                                           55,7        50,5              53,2
+                      2021                                           56,6        51,6              54,1
+                      2022                                           56,0        51,4              53,8
+                      2023                                           56,9        52,3              54,7
+                      2024                                           57,1        52,5              54,8
+                      Mitjana 2020-2024                              56,4        51,7              54,1
+
+
+
+
+NP_A165_20260305                                                                                                 Pàgina 12 de 24
+                                   A165. Estadístiques de gènere. Any 2024
+
+
+
+
+                                         Esperança de vida als 30-34 anys
+
+                60
+
+                58                                                                 56,9        57,1
+                                         56,6
+                         55,7                            56,0
+                56                                                                             54,8
+                                         54,1            53,8            54,7
+                54       53,2
+                                                                                               52,5
+                                         51,6            51,4
+                52       50,5
+                                                                                52,3
+                50
+
+                48
+                         2020            2021            2022                   2023           2024
+
+                                                Dones     Homes                 Global
+
+
+
+
+         Quant a l’esperança de vida als 60-64 anys de l’any 2024, calculada com la mitjana dels
+         darrers cinc anys, pel global de la població és de 25,4 anys, mentre que per les dones és de
+         27,4 anys i pels homes es redueix als 23,1 anys.
+
+
+                      Esperança de vida als 60-64 anys          Dones           Homes       Global
+                      2020                                        26,7            22,3        24,5
+                      2021                                        27,4            22,9        25,2
+                      2022                                        27,3            23,0        25,2
+                      2023                                        27,8            23,6        25,8
+                      2024                                        28,0            23,9        26,1
+                      Mitjana 2020-2024                           27,4            23,1        25,4
+
+
+
+                                        Esperança de vida als 60-64 anys
+
+           30
+                                                                                   27,8               28,0
+           28                           27,4              27,3
+                      26,7
+                                                                                   25,8               26,1
+           26                           25,2              25,2
+                      24,5
+                                                                                   23,6               23,9
+           24                           22,9              23,0
+                      22,3
+           22
+
+           20
+                     2020               2021              2022                     2023               2024
+
+                                            Dones           Homes                  Global
+
+
+
+
+NP_A165_20260305                                                                                             Pàgina 13 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+                3.2. Víctimes d’accidents de circulació
+
+         El total de víctimes d’accidents de circulació durant l’any 2024 va ser de 259. D’aquestes, 175
+         van ser homes i les 84 restants van ser dones. Això significa una variació anual positiva de
+         l’1,2% en el cas dels homes i del -21,5% en el cas de les dones. Pel que fa a la mitjana dels
+         darrers cinc anys, els homes van patir 182 accidents de circulació, un 63,8% de mitjana sobre
+         el total d’accidents, mentre que en van ser víctimes 103 dones.
+
+
+                Víctimes d'accidents de
+                                                      2020           2021           2022           2023        2024
+                circulació
+                Dones                                  92            122            112            107          84
+                Homes                                 168            184            211            173         175
+                Total                                 260            306            323            280         259
+
+
+                                           Víctimes d'accidents de circulació
+          250
+                                                                      211
+          200                                   184
+                                                                                             173                175
+                           168
+
+          150
+                                          122
+                                                               112                    107
+          100         92
+                                                                                                          84
+
+
+           50
+
+
+            0
+                        2020                2021                 2022                      2023            2024
+                                                       Dones                Homes
+
+
+
+
+NP_A165_20260305                                                                                                      Pàgina 14 de 24
+                                          A165. Estadístiques de gènere. Any 2024
+
+
+
+         4. Relació amb l’activitat econòmica
+
+
+             4.1. Mitjana anual d’assalariats
+
+         La mitjana d’homes assalariats durant l’any 2024 és de 23.361 (un 3,8% més respecte a l’any
+         2023), mentre que la mitjana de dones assalariades és de 21.436 (un 2,1% més en comparació
+         amb l’any anterior). La mitjana dels darrers cinc anys pels homes assalariats és de 21.260 i,
+         quant a les dones assalariades, se situa en 19.970.
+
+
+
+              Mitjana anual d'assalariats                     2020                2021           2022                     2023              2024
+              Dones                                       18.799             18.401             20.219                   20.995            21.436
+              Homes                                       19.664             19.282             21.477                   22.516            23.361
+              Total                                       38.463             37.683             41.696                   43.511            44.797
+
+
+                                                       Mitjana anual d'assalariats
+           25.000
+
+
+
+                                                                                                                                             23.361
+                                                                                                                22.516
+           20.000
+
+                                                                                      21.477
+                                 19.664                                                                                           21.436
+                                                         19.282                                        20.995
+                                                                             20.219
+           15.000
+
+                        18.799
+           10.000                             18.401
+
+
+            5.000
+
+
+               0
+                            2020                  2021                           2022                      2023                       2024
+                                                                     Dones                     Homes
+
+
+
+
+NP_A165_20260305                                                                                                                                      Pàgina 15 de 24
+                                                A165. Estadístiques de gènere. Any 2024
+
+
+
+              4.2. Salari mitjà mensual. Mitjana anual
+
+         La mitjana anual del salari mitjà mensual dels homes assalariats per a l’any 2024 ha estat de
+         2.832 € i per les dones ha estat de 2.286 €, amb una diferència de -547 € respecte al salari
+         mitjà mensual dels homes. La variació anual és positiva per a ambdós sexes, d’un 4,8% en els
+         homes i d’un 5,9% en les dones. Quant a la mitjana dels darrers cinc anys, l’import per les
+         dones assalariades és igualment molt inferior, de 2.055 €, en contraposició als 2.595 € pels
+         homes assalariats.
+
+         Les dades facilitades per la CASS no permeten diferenciar entre conceptes remuneratius
+         ni hores de treball a les que es refereixen aquests salaris. Les diferències, doncs, es
+         basen únicament en el total del salari declarat.
+
+
+              Salari mitjà mensual.
+                                                                   2020               2021               2022                     2023             2024
+              Mitjana anual
+              Dones                                            1.906 €        1.912 €                  2.016 €             2.158 €         2.286 €
+              Homes                                            2.407 €        2.461 €                  2.574 €             2.703 €         2.832 €
+              Total                                            2.162 €        2.193 €                  2.304 €             2.440 €         2.635 €
+              Nota: salari calculat com la mitjana dels salaris mitjans de gener a desembre.
+
+
+
+
+                                                          Salari mitjà mensual. Mitjana anual
+           3.000 €
+
+           2.500 €
+
+                                                                                                                        2.703 €                     2.832 €
+                                                                                            2.574 €
+                                                               2.461 €
+                                      2.407 €
+           2.000 €
+
+                                                                                                                                         2.286 €
+                                                                                                              2.158 €
+                                                                                  2.016 €
+           1.500 €
+
+                            1.906 €                  1.912 €
+           1.000 €
+
+            500 €
+
+               0€
+                                 2020                    2021                         2022                         2023                      2024
+                                                                          Dones                       Homes
+
+
+
+
+NP_A165_20260305                                                                                                                                              Pàgina 16 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+              4.3. Personal de l’Administració General
+
+         Al tancament de l’any 2024, hi va haver 1.681 dones (un 3,2% més que l’any anterior) i 1.187
+         homes (un 3,8% més amb relació a l’any 2023) treballant per a l’Administració General.
+         Aquestes xifres suposen que la proporció del personal de l’Administració per l’any 2024 va ser
+         d’un 58,6% de dones i un 41,4% d’homes. L’esmentada distribució per sexe s’ha mantingut
+         estable durant els darrers cinc anys.
+
+
+              Personal de l'Administració
+                                                            2020           2021           2022                 2023            2024
+              General
+              Dones                                     1.603            1.613            1.630                1.629       1.681
+              Homes                                     1.123            1.130            1.142                1.144       1.187
+              Total                                     2.726            2.743            2.772                2.773       2.868
+
+
+                                        Personal de l'Administració General
+           1.750
+
+           1.500
+                                                                                               1.629                   1.681
+                                            1.613                      1.630
+           1.250      1.603
+
+           1.000
+                                                                                                                                 1.187
+                              1.123                                                                    1.144
+            750                                     1.130                      1.142
+
+            500
+
+            250
+
+              0
+                         2020                  2021                       2022                    2023                    2024
+
+                                                               Dones                   Homes
+
+
+
+
+NP_A165_20260305                                                                                                                         Pàgina 17 de 24
+                                      A165. Estadístiques de gènere. Any 2024
+
+
+
+             4.4. Immigració
+
+         El nombre de persones que van immigrar al Principat d’Andorra durant l’any 2024 va ser de
+         2.772 homes (un 19,4% menys en comparació amb l’any anterior), que representen un 60,4%
+         del total de 4.591 persones que van arribar al país, i de 1.819 dones (un 30,2% menys respecte
+         a l’any 2023). Quant a la mitjana dels darrers cinc anys, és de 4.192, dels quals, en proporció,
+         el 59,1% (2.480 immigrants) són homes i el 40,9% (1.713) són dones.
+
+
+
+              Immigració                                  2020           2021            2022                 2023            2024
+              Dones                                  1.067              1.398            1.673                2.606           1.819
+              Homes                                  1.453              2.138            2.597                3.439           2.772
+              Total                                  2.520              3.536            4.270                6.045           4.591
+
+
+                                                                 Immigració
+           4.000
+
+           3.500
+
+           3.000
+                                                                                                      3.439
+           2.500
+
+                                                                              2.597                                             2.772
+                                                                                              2.606
+           2.000
+
+           1.500                                  2.138
+                                                                                                                      1.819
+           1.000
+                              1.453                                   1.673
+                                          1.398
+             500      1.067
+
+               0
+                          2020                2021                       2022                    2023                    2024
+                                                            Dones                     Homes
+
+
+
+
+NP_A165_20260305                                                                                                                        Pàgina 18 de 24
+                                     A165. Estadístiques de gènere. Any 2024
+
+
+
+             4.5. Emigració
+
+         Durant l’any 2024 van emigrar 1.569 homes (un 0,8% més respecte a l’any 2023) i 1.148 dones
+         (un 6,2% més amb relació a l’any anterior). En els últims cinc anys, la mitjana de persones que
+         han marxat del país és de 2.403 de les quals, de mitjana, el 57,7% són homes i el 42,3% són
+         dones.
+
+
+
+              Emigració                                2020           2021           2022                 2023            2024
+              Dones                                  949               920           1.000                1.081           1.148
+              Homes                                1.188             1.215           1.390                1.557           1.569
+              Total                                2.137             2.135           2.390                2.638           2.717
+
+
+
+                                                              Emigració
+           1.750
+
+           1.500
+
+                                                                                                  1.557                      1.569
+           1.250
+                                                                          1.390
+
+                             1.188             1.215
+           1.000
+                                                                                                                  1.148
+                                                                                          1.081
+                                         920
+                                                                  1.000
+            750
+                      949
+            500
+
+            250
+
+              0
+                          2020             2021                      2022                    2023                    2024
+                                                         Dones                    Homes
+
+
+
+
+NP_A165_20260305                                                                                                                     Pàgina 19 de 24
+                                    A165. Estadístiques de gènere. Any 2024
+
+
+
+             4.6. Saldo migratori
+
+         El saldo migratori de l’any 2024 pel que fa als homes és de +1.203 (un 36,1% menys amb
+         relació a l’any anterior), mentre que per les dones és de +671 persones (un 56,0% menys en
+         comparació amb l’any 2023). La mitjana del saldo migratori per als darrers cinc anys és de
+         +1.096 persones pels homes i de +693 persones per les dones.
+
+
+
+              Saldo migratori                       2020        2021           2022                 2023          2024
+              Dones                                 118          478             673                1.525           671
+              Homes                                 265          923           1.207                1.882         1.203
+              Total                                 383        1.401           1.880                3.407         1.874
+
+
+                                                      Saldo migratori
+           2.000
+
+           1.750
+                                                                                            1.882
+           1.500
+
+           1.250                                                                    1.525
+           1.000
+                                                                    1.207                                           1.203
+            750
+                                              923
+            500
+                                                              673
+                                                                                                            671
+            250        118              478
+                             265
+              0
+                         2020             2021                  2022                   2023                   2024
+                                                      Dones                 Homes
+
+
+
+
+NP_A165_20260305                                                                                                            Pàgina 20 de 24
+                                   A165. Estadístiques de gènere. Any 2024
+
+
+
+         5. Voluntaris
+
+         El nombre de voluntaris durant l’any 2024 ha estat de 198 dones (un 8,8% més respecte a l’any
+         anterior) i de 83 homes (un 6,4% més pel que fa a l’any 2023). Tenint en compte els darrers
+         cinc anys, la mitjana de dones voluntàries ha estat de 224, mentre que pels homes la mitjana
+         ha estat de 105, és a dir, dos de cada tres voluntaris han sigut dones en el còmput dels últims
+         cinc anys.
+
+
+
+              Voluntaris                        2020         2021             2022           2023         2024
+              Dones                             502              65            172           182          198
+              Homes                             260              35             70            78           83
+              Total                             762             100            242           260          281
+
+
+
+                                                       Voluntaris
+           600
+                      502
+           500
+
+
+           400
+
+
+           300              260
+
+                                                                                182
+                                                                                                    198
+           200                                            172
+
+
+                                                                 70                     78                 83
+           100                        65
+                                           35
+
+             0
+                        2020            2021                2022                     2023             2024
+                                                 Dones                 Homes
+
+
+
+
+                                                Voluntaris. Any 2024
+
+
+
+
+                                                 29,5%
+
+                                                                      70,5%
+
+
+
+
+                                                Dones                 Homes
+
+
+
+
+NP_A165_20260305                                                                                                 Pàgina 21 de 24
+                                        A165. Estadístiques de gènere. Any 2024
+
+
+
+         6. Efectius judicials
+
+         El nombre d’efectius judicials de l’any 2024 ha estat de 23 dones (una menys que a l’any
+         anterior) i 18 homes (el mateix nombre que a l’any 2023). Per tipologia, hi ha 7 dones
+         magistrades i 8 homes magistrats. En canvi, hi ha pràcticament el doble de batllesses que
+         batlles i, quant als fiscals, hi ha una dona més que homes.
+
+
+
+                Efectius judicials                     2020            2021     2022           2023        2024
+                Magistrats           Dones               8                8       8              8           7
+                                       Homes            10               11      10              8           8
+                Batlles              Dones              12               11      11             11          11
+                                       Homes             6                6       6              6           6
+                Fiscals              Dones               2                2       4              5           5
+                                       Homes             4                4       4              4           4
+                Total                                   42               42      43             42          41
+
+
+                                                       Efectius judicials
+
+           30
+
+
+           25
+
+
+           20                                                    23               24
+                                                                                                      23
+                          22              21      21
+                               20                                        20
+           15                                                                             18                18
+
+
+           10
+
+
+            5
+
+
+            0
+                           2020                2021                   2022             2023            2024
+                                                              Dones           Homes
+
+
+
+
+NP_A165_20260305                                                                                                  Pàgina 22 de 24
+                                     A165. Estadístiques de gènere. Any 2024
+
+
+
+         7. Nota metodològica
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa gràcies de citar “Dades del Departament de Tributs i Fronteres, tractades pel
+                   Departament d’Estadística per a la Nota de Premsa ref. NP-A165_20260305”.
+
+             •     Font. Elaboració pròpia d’acord amb les dades de població estimada, estudiants,
+                   llicències esportives, esportistes d’alt rendiment becats, naixements, defuncions,
+                   esperança de vida, víctimes d’accidents de circulació, nombre d’assalariats, salari
+                   mitjà, personal de l’administració general, immigració, emigració, saldo migratori,
+                   voluntariat disponibles a la web www.estadistica.ad.
+
+             •     Definicions.
+
+                   Població estimada: És l’estimació de la població resident en el Principat que realitza el
+                   Departament d’Estadística a partir dels censos parroquials i el seu encreuament amb
+                   altres fonts d’informació disponibles.
+
+                   Esportista d’alt rendiment: Es considera esportista d’alt nivell la persona que practica
+                   una modalitat o especialitat esportiva caracteritzada per les altes exigències tècniques i
+                   científiques de la preparació, per l’excel·lència esportiva i per la participació en
+                   competicions d’àmbit internacional en condicions de màxim rendiment i competitivitat.
+
+                   Esperança de vida en néixer: L'esperança de vida en néixer es defineix com la
+                   mitjana d'anys que pot esperar viure un nounat si està sotmès al llarg de la seva vida a
+                   les condicions de mortalitat actuals (probabilitats de defunció per a cada edat).
+
+                   Esperança de vida al l’edat X: L'esperança de vida als X anys s'interpreta com el
+                   nombre d'anys que, de mitjana, pot esperar viure una generació de persones de X anys
+                   si les condicions de mortalitat per edat de l'any o del període especificat no varien
+                   durant la resta de la seva vida.
+
+                   El nombre d’assalariats es calcula com una estimació del nombre equivalent
+                   d’assalariats a temps complet. Com que no es disposa d’informació sobre les hores
+                   treballades, per fer l’estimació de les persones amb més d’una feina durant el mes,
+                   s’assigna una part d’assalariats a cada feina segons la proporció del salari
+                   corresponent.
+
+                   El salari mitjà és la massa salarial dividida entre el nombre d’assalariats. Inclou les
+                   cotitzacions dels assalariats a la CASS per malaltia i jubilació.
+
+                   Immigració: Altes registrades al cens de població durant un any determinat per canvi
+                   de residència quan el país de procedència és estranger i la destinació és qualsevol de
+                   les poblacions del Principat d’Andorra.
+                   La immigració inclou l’arribada tant de persones de nacionalitat andorrana com
+                   estrangera que procedeixen de l’estranger.
+
+                   Emigració: Baixes registrades al cens de població durant un any determinat per canvi
+                   de residència quan el país de destinació és estranger i la procedència és qualsevol de
+                   les poblacions del Principat d’Andorra.
+                   L’emigració inclou la sortida de persones tant de nacionalitat andorrana com estrangera
+                   amb destí a l’estranger.
+
+                   Saldo migratori: Diferència entre la immigració i l’emigració.
+
+
+
+
+NP_A165_20260305                                                                                           Pàgina 23 de 24
+                                     A165. Estadístiques de gènere. Any 2024
+
+
+
+
+             •     Altres consideracions.
+
+                   Nota. A la nota de premsa “A086. Estadística sobre el voluntariat, Any 2021” hi ha una
+                   explicació més extensa de la reducció del nombre de voluntaris durant l’any 2021.
+
+                   Nota. Cal tenir en compte que, degut a que el curs 2021-2022 va ser el primer del que
+                   es tenien dades dels estudiants matriculats a la Universitat Carlemany, les variacions
+                   anuals que es presenten en aquesta nota són atípiques.
+
+                   Nota. Les dades proporcionades pel Ministeri d’Educació del Govern d’Andorra pel
+                   curs 2022-2023 reflecteixen un augment atípic quant al nombre d’estudiants matriculats
+                   en educació superior a Andorra respecte al curs anterior. Aquest augment s’explica,
+                   principalment, pel fet de què un dels centres educatius ha augmentat les titulacions
+                   ofertes.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el
+                   seu desplegament en el Programa estadístic per a l’any 2025, aquest informe dona
+                   resposta a l’activitat estadística: A165: Estadístiques de gènere
+
+             •     Contactes. Per estar informat en qualsevol moment de les noves publicacions us
+                   podeu inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar
+                   l’històric de les notes de premsa d’aquest tema: http://www.estadistica.ad.
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per X (antic
+                   TWITTER).
+
+         8. Dates de les publicacions previstes
+
+
+         Nota de premsa A165: Estadístiques de gènere. Any 2025: 4t trimestre del 2026
+
+
+
+
+NP_A165_20260305                                                                                          Pàgina 24 de 24
+

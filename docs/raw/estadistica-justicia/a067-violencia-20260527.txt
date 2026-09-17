@@ -1,0 +1,528 @@
+            A067. Estadística de la violència domèstica i de gènere. Any 2025
+                         Data de publicació: dimecres, 27/05/2026
+                                    www.estadistica.ad
+
+
+Resum
+
+Segons les dades del Departament de Policia, l’any 2025 s’han efectuat un total de 759
+intervencions per requeriments telefònics d’àmbit domèstic, un 3,3% menys respecte a l’any
+2024 (785).
+
+En el mateix període, hi ha hagut un total de 189 infraccions registrades en l’àmbit domèstic i
+de violència de gènere, un 34,0% més respecte a l’any anterior.
+
+Quant a les detencions amb imputació d’una infracció de caràcter domèstic o violència de
+gènere, se n’han registrat 59, un 1,7% menys que a l’any anterior. D’aquestes, la majoria, un
+86,4%, són a causa de violència física. La majoria dels detinguts són homes (71,2%) i es troben
+majoritàriament en la franja d’entre 30 i 49 anys (61,0%). El 72,9% dels detinguts per imputació
+d’infraccions en l’àmbit domèstic i violència de gènere són residents al Principat.
+
+Pel que fa a les víctimes de violència de gènere en procediments amb detinguts en l’àmbit
+domèstic i violència de gènere, hi ha hagut un total de 61 víctimes al 2025, un 1,6% menys
+respecte a l’any 2024, quan n’hi va haver 62. D’aquestes, la majoria són de nacionalitat
+andorrana (18,0%), colombiana (16,4%) i espanyola (11,5%) i es troben majoritàriament en els
+trams d’edat de 22 a 29 anys (27,9%), 30 a 39 anys (31,1%) i 40 a 49 anys (16,4%).
+
+
+
+
+NP_A067_20260527
+                A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+
+Índex
+
+   1. Intervencions SICC .................................................................................................................3
+   2. Infraccions en l’àmbit domèstic i de violència de gènere .......................................................3
+   3. Detencions per imputació d’infracció d’àmbit domèstic i violència de gènere .......................4
+   3.1. Detencions per imputació d’infracció d’àmbit domèstic per sexe ...........................................5
+   3.2. Detencions per imputació d’infracció d’àmbit domèstic per grup d’edat ................................6
+   3.3. Detencions per imputació d’infracció d’àmbit domèstic per situació de residència ...............7
+   4. Víctimes en procediments amb detencions d'àmbit domèstic i violència de gènere
+   per rang d’edat i nacionalitat .........................................................................................................8
+   5. Nota metodològica ................................................................................................................10
+   6. Dates de les publicacions previstes .....................................................................................11
+
+
+
+
+NP_A067_20260527                                                                                                  Pàgina 2 de 11
+              A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+    1. Intervencions SICC
+
+Durant l’any 2025, hi ha hagut un total de 759 intervencions del SICC pel que fa a l’àmbit de
+violència domèstica i de gènere, un 3,3% menys que a l’any 2024. Tot i que hi ha hagut una
+lleugera reducció respecte a l’any anterior, més de dos terços de lesintervencions han estat a
+causa de problemes en l’àmbit domèstic (74,7%), seguit de conflictes deguts a la custòdia de
+menors amb un 15,3% del total. Els casos de violència domèstica han suposat un 6,2% de les
+intervencions i els de violència de gènere un 3,8%.
+
+
+
+                                                       Intervencions SICC
+
+                                                            2021          2022        2023        2024     2025 Var. 24/25
+      Problemàtica amb custòdia de menors                    166           149         202         141      116    -17,7%
+      Problemes àmbit domèstic                               560           589         588         572      567      -0,9%
+      Violència domèstica                                     65            39          23          43       47       9,3%
+      Violència de gènere                                     44            61          37          29       29       0,0%
+      Total                                                  835           838         850         785      759      -3,3%
+
+
+
+
+    2. Infraccions en l’àmbit domèstic i de violència de gènere
+
+El nombre d’infraccions en l’àmbit domèstic registrades l’any 2025 ha estat de 189, el que
+significa un augment del 34,0% enfront de les 141 infraccions del 2024. El tipus d’infracció més
+comú ha estat l’agressió física amb un 40,7% del total.
+
+
+
+                               Infraccions en l'àmbit domèstic i de violència de gènere
+
+                                                         2021        2022        2023           2024     2025 Var. 24/25
+        Homicidi intencionat o assassinat                   0           0           0              3        0  -100,0%
+        Agressions físiques                                69          71          56             61       77     26,2%
+        Agressions psíquiques                              39          44          39             33       54     63,6%
+        Agressions físiques i psíquiques                   57          61          57             44       58     31,8%
+        Total                                             165         176         152            141      189     34,0%
+
+
+
+                             Infraccions en l'àmbit domèstic i de violència de gènere
+
+         90
+         80                                                                                                77
+                   69                   71
+         70
+                                                  61                                  61
+                             57                                 56        57                                         58
+         60                                                                                                     54
+         50                                  44                                                 44
+                        39                                           39
+         40                                                                                33
+         30
+         20
+         10                                                                       3
+          0
+                   2021                 2022                    2023                   2024                2025
+                    Homicidi intencionat o assassinat                     Agressions físiques
+                    Agressions psíquiques                                 Agressions físiques i psíquiques
+
+
+
+
+NP_A067_20260527                                                                                                     Pàgina 3 de 11
+              A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+   3. Detencions per imputació d’infracció d’àmbit domèstic i violència de gènere
+
+Quant al nombre de detencions per imputació d’infraccions d’àmbit domèstic, l’any 2025 se
+n’han efectuat un total de 59, un 1,7% menys en comparació amb l’any 2024. Més de vuit de
+cada deu de les detencions s’han efectuat per casos de violència física (86,4%).
+
+
+
+                  Detencions per imputació d'infracció d'àmbit domèstic i violència de gènere
+
+                                                               2021      2022        2023      2024        2025 Var. 24/25
+  Persones detingudes per homicidi o assassinat                   0         0           0         3           0 -100,0%
+  Persones detingudes per violència física                       61        75          39        45          51     13,3%
+  Persones detingudes per violència psíquica                      3         3           4         2           1    -50,0%
+  Persones detingudes per violència física i psíquica            21        19          12        10           7    -30,0%
+  Total                                                          85        97          55        60          59      -1,7%
+
+
+
+
+                 Detencions per imputació d'infracció en àmbit domèstic i de violència de
+                                                 gènere
+
+       80                             75
+
+       70
+                  61
+       60
+                                                                                                      51
+       50                                                                       45
+                                                          39
+       40
+
+       30
+                           21                  19
+       20
+                                                                    12                    10
+       10                                                                                                       7
+                                           3                    4           3         2
+                       3                                                                                    1
+        0
+                  2021                2022                 2023                 2024                  2025
+
+                                   Persones detingudes per homicidi o assassinat
+                                   Persones detingudes per violència física
+                                   Persones detingudes per violència psíquica
+                                   Persones detingudes per violència física i psíquica
+
+
+
+
+NP_A067_20260527                                                                                             Pàgina 4 de 11
+                 A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+
+     3.1.        Detencions per imputació d’infracció d’àmbit domèstic per sexe
+
+Si s’analitzen les detencions pel sexe de la persona detinguda, en el 71,2% dels casos s’ha
+detingut a homes, mentre que en el 28,8% s’ha detingut a dones.
+
+
+
+                       Detencions per imputació d'infracció d'àmbit domèstic i de gènere
+
+                    Gènere          2021        2022    2023     2024     2025       Var. 24/25
+                    Homes             66          69      42       46       42            -8,7%
+                    Dones             19          28      13       14       17           21,4%
+                    Total             85          97      55       60       59            -1,7%
+
+
+
+                             Detencions per imputació d'infracció d'àmbit domèstic
+
+
+
+        100
+
+
+                                           28
+            80
+                       19
+
+            60
+                                                                                14           17
+                                                           13
+            40
+                       66                  69
+
+                                                           42                   46           42
+            20
+
+
+            0
+                      2021              2022              2023              2024            2025
+
+                                                Homes                   Dones
+
+
+
+
+NP_A067_20260527                                                                                   Pàgina 5 de 11
+                 A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+     3.2.         Detencions per imputació d’infracció d’àmbit domèstic per grup d’edat
+
+El grup d’edat en què s’han efectuat un major nombre de detencions és el comprès entre 30 i
+39 anys amb un 39,0% del total de detencions, seguit del grup d’entre 22 a 29 anys, amb un
+23,7% del total, del d’entre 40 a 49 anys, amb el 22,0% del total i el de 50 a 59 anys, amb el
+15,3% del total.
+
+
+
+                 Detencions per imputació d'infracció d'àmbit domèstic i violència de gènere
+
+                 Edat                           2021    2022          2023     2024            2025      Var. 24/25
+                 16 a 17 anys                      0       0             0        0               0                -
+                 18 a 21 anys                      9       3             3        6               0       -100,0%
+                 22 a 29 anys                     15      25            15        6              14        133,3%
+                 30 a 39 anys                     28      29            17       24              23           -4,2%
+                 40 a 49 anys                     22      27            11       15              13         -13,3%
+                 50 a 59 anys                     11       7             7        6               9          50,0%
+                 60 anys o més                    0        6             2            3          0        -100,0%
+                 Total                           85       97            55           60         59           -1,7%
+
+
+
+
+                              Detencions per imputació d'infracció d'àmbit domèstic
+
+        100
+                                            6
+            90                              7
+            80          11
+            70                             27
+                        22                                                                3
+            60                                                   2
+                                                                                          6                  9
+            50                                                   7
+                                           29                                             15                 13
+            40          28                                       11
+            30
+                                                                 17                       24                 23
+            20
+                        15                 25
+            10                                                   15                       6
+                         9                                                                                   14
+                                           3                    3                         6
+            0
+                       2021               2022                 2023                   2024                  2025
+
+                                 16 a 17 anys     18 a 21 anys        22 a 29 anys        30 a 39 anys
+                                 40 a 49 anys     50 a 59 anys        60 anys o més
+
+
+
+
+NP_A067_20260527                                                                                                   Pàgina 6 de 11
+              A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+3.3.    Detencions per imputació d’infracció d’àmbit domèstic per situació de residència
+
+Finalment, la major part dels detinguts són residents al país (72,9%), mentre que la resta són
+no residents (27,1%).
+
+
+
+                 Detencions per imputació d'infracció d'àmbit domèstic i violència de gènere
+              Situació immigració         2021     2022        2023       2024        2025   Var. 24/25
+              Residents                     74       88          48         49          43      -12,2%
+              No residents                  11        9           7         11          16       45,5%
+              Total                         85       97          55         60          59        -1,7%
+
+
+
+
+                          Detencions per imputació d'infracció d'àmbit domèstic
+
+
+
+        100
+                                      9
+
+         80          11
+
+
+         60
+                                                                                 11
+                                                           7                                    16
+                                      88
+         40
+                     74
+
+                                                          48                     49
+         20                                                                                     43
+
+
+          0
+                    2021             2022                 2023                2024             2025
+
+                                       Residents                      No residents
+
+
+
+
+NP_A067_20260527                                                                                      Pàgina 7 de 11
+             A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+   4. Víctimes en procediments amb detencions d'àmbit domèstic i violència de gènere
+      per rang d’edat i nacionalitat
+
+Pel que fa a les víctimes en procediments amb detencions relacionades amb l’àmbit domèstic i
+la violència de gènere, el grup d’edat més afectat és el de 30 a 39 anys, que representa el
+31,1% del total. En segon lloc se situa la franja de 22 a 29 anys, amb 17 persones detingudes,
+equivalents al 27,9%. El grup de 40 a 49 anys concentra el 16,4% dels casos, mentre que el
+24,6% restant correspon a altres grups d’edat..
+
+
+
+              Víctimes en procediments amb detencions d'àmbit domèstic i violència de
+                                      gènere per rang d’edat
+                                              2023          2024            2025          Var. 24/25
+              22 a 29 anys                     17               12             17              41,7%
+              30 a 39 anys                     11               15             19              26,7%
+              40 a 49 anys                      7               19             10             -47,4%
+              Altres                           20               16             15              -6,3%
+              Total                            55               62             61              -1,6%
+              La categoria “Altres” inclou aquells grups d’edat en què, durant almenys un dels anys
+              del període analitzat, el nombre d’observacions registrades ha estat inferior a cinc.
+
+
+
+
+                      Víctimes en procediments amb detencions d'àmbit domèstic i
+                                   violència de gènere per rang d’edat
+
+        60
+
+
+        50
+                                                                                                      15
+        40
+                      17
+                                                19
+        30                                                                10
+                                                                                                      16
+                      12
+        20                                      15
+                                                                          19
+        10                                                                                            20
+                      17
+                                                11
+                                                                          7
+         0
+                 22 a 29 anys             30 a 39 anys               40 a 49 anys                 Altres
+
+                                       2023              2024                 2025
+
+
+
+
+NP_A067_20260527                                                                                           Pàgina 8 de 11
+             A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+Pel que fa a la nacionalitat de les víctimes de violència de gènere en procediments amb
+detencions relacionades amb l’àmbit domèstic i la violència de gènere, la majoria són de
+nacionalitat andorrana, amb un 18,0% del total. Dins el grup d’altres nacionalitats, destaca
+l’augment de les víctimes de nacionalitat colombiana, amb un 16,4% del total de víctimes. A
+continuació, se situen les víctimes de nacionalitat francesa, que representen l’11,5%. Les
+nacionalitats espanyola i portuguesa presenten el mateix pes relatiu, amb un 9,8% cadascuna.
+La resta de víctimes són d’altres nacionalitats.
+
+
+
+                             Víctimes en procediments amb detencions d'àmbit
+                               domèstic i violència de gènere per nacionalitat
+                                                           2024         2025       Var. 24/25
+                          Andorra                             15          11          -26,7%
+                          Espanya                             15           6          -60,0%
+                          França                               6           7           16,7%
+                          Portugal                             8           6          -25,0%
+                          Altres                              18          31           72,2%
+                          Total                               62          61              -1,6%
+                        La categoria “Altres” inclou aquelles nacionalitats què, durant almenys
+                        un dels anys del període analitzat, el nombre d’observacions
+                        registrades ha estat inferior a cinc.
+
+
+
+
+                    Víctimes en procediments amb detencions d'àmbit domèstic i
+                                violència de gènere per nacionalitat
+
+
+        60
+
+        50
+
+        40
+                                                                                                   31
+        30
+
+        20         11
+                                        6
+
+        10                                                   7                    6
+                   15                  15                                                          18
+                                                             6                    8
+         0
+                Andorra              Espanya              França               Portugal           Altres
+
+                                               2024                        2025
+
+
+
+
+NP_A067_20260527                                                                                           Pàgina 9 de 11
+             A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+    5. Nota metodològica
+
+•   Font. Registre de les detencions del Departament de Policia, Ministeri de Justícia i Interior,
+    tractat pel Departament d’Estadística. Dades disponibles al web www.estadistica.ad, en el
+    banc de dades dins de l’apartat Estadístiques i Dades/Justícia i seguretat/Seguretat
+    ciutadana.
+
+•   Nota. Algunes dades s’han dividit en dossiers diferents i per tant s’ha produït un
+    trencament de sèries històriques. És per això que algunes dades comencen a l’any 2021 i
+    altres al 2024.
+
+•   Definicions.
+
+    -   Detenció: Mesura cautelar personal que consisteix en la privació temporal de la llibertat
+        ambulatòria ordenada per una autoritat competent.
+    -   Homicidi: Comet homicidi qui mata una persona. Pot ser dolós o per imprudència.
+    -   Assassinat: Comet assassinat qui mata una persona (dolós), concorrent almenys
+        alguna de les següents circumstàncies:
+        1) Crueltat o acarnissament, que consisteix a augmentar intencionadament el
+            sofriment de la víctima causant-li patiments que excedeixen dels necessaris per a
+            l'execució del delicte.
+        2) Traïdoria, que consisteix en emprar mitjans tendents directament a assegurar
+            l'acció o a evitar el risc que pugui procedir de la defensa per part de la víctima.
+        3) Realitzar el fet per preu o per obtenir una recompensa.
+        4) Realitzar el fet per preparar, facilitar o executar un altre delicte o per afavorir la
+            fugida o assegurar la impunitat dels autors o còmplices del delicte.
+        5) La temptativa d’assassinat també és punible.
+
+    -   Maltractaments en àmbit domèstic (Art. 114 del Codi Penal): el qui exerceixi violència
+        física o psíquica sobre el qui sigui o hagi estat el seu cònjuge o la persona amb la qual
+        mantingui o hagi mantingut una relació anàloga o sobre els ascendents, descendents,
+        germans propis o d’aquesta persona, o qualsevol altra persona subjecta a la guarda de
+        l’un o de l’altre, o amb la qual convisqui.
+    -   Article 114 bis. Violència de gènere
+             o 1. El qui exerceixi violència física o psicològica basada en una discriminació
+                 per motiu del sexe o gènere, envers una dona per la simple raó de ser dona,
+                 que comporti o sigui susceptible de comportar danys o patiments físics,
+                 sexuals, psicològics o econòmics, així com l’amenaça de dur-los a terme, la
+                 coacció o la privació arbitrària de llibertat, tant en l’àmbit privat com en el
+                 públic.
+             o 2. El cònjuge o qui està o hagi estat lligat a una dona per similar relació
+                 d’afectivitat, que exerceixi violència sobre la dona, com a manifestació de la
+                 situació de desigualtat i de les relacions de poder dels homes sobre les dones.
+    -   SICC: Sala d’Informació, Control i Comandament del Departament de Policia
+
+•   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+    preguem citeu: “Dades del Departament de Policia, tractades pel Departament d’Estadística
+    per a la Nota de Premsa ref. NP_A067_20260527”.
+
+•   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+    desplegament en el Programa estadístic per a l’any 2026, el present informe dona resposta
+    a la següent activitat estadística del Programa: A068: Estadística de violència domèstica i
+    de gènere.
+
+
+
+
+NP_A067_20260527                                                                  Pàgina 10 de 11
+            A067. Estadística de la violència domèstica i de gènere. Any 2025
+
+
+•   Difusió.     Dades      disponibles    al web     www.estadistica.ad,     a    l’apartat
+    Estadístiques/Dades/Justícia i seguretat/Seguretat ciutadana. Per estar informat en
+    qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+    informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+    d’aquest tema: http://www.estadistica.ad
+
+   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+   Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+____________________________________________________________________________
+
+    6. Dates de les publicacions previstes
+
+Nota de premsa A067. Estadística de violència domèstica i de gènere. 1r Semestre Any 2026:
+2n semestre del 2026
+
+
+
+
+NP_A067_20260527                                                               Pàgina 11 de 11
+

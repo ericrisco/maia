@@ -1,0 +1,738 @@
+                         A066. Estadística d’estupefaents. Any 2025
+                            Data de publicació: dilluns, 08/06/2026
+                                     www.estadistica.ad
+
+
+
+
+Resum
+
+Durant l’any 2025, la Policia va intervenir un total de 4.248,0 grams d’estupefaents al Principat
+d’Andorra. Aquesta xifra representa una disminució del 30,7% respecte a la quantitat
+intervinguda l’any 2024, que va ser de 6.126,4 grams. Si es compara amb les xifres de fa 10
+anys, s’ha produït una disminució del 86,9% respecte a l’any 2016 (32.309,5 grams). En tot
+cas, les dades de l’any 2025 estan per sota de la mitjana del període 2016-2025 (11.589,4
+grams) i de la mitjana dels darrers cinc anys (6.875,6 grams).
+
+Durant aquest any 2025, el 41,2% d’estupefaents intervinguts corresponen a l‘haixix, amb un
+total de 1.749,2 grams, seguit de la marihuana, amb 1.637,4 grams (38,5%). Més lluny, se
+situen les intervencions de la cocaïna (697,7 grams) i d’altres estupefaents (163,7 grams).
+
+Per lloc d’intervenció, durant l’any 2025, el 40,2% dels estupefaents es van intervenir a la
+frontera hispanoandorrana, el 39,2% a l’interior del Principat i el 20,5% restant a la frontera
+francoandorrana.
+
+El nombre de detencions amb imputació d’estupefaents durant l’any 2025 va ser de 189, un
+37,0% menys respecte a l’any 2024 (300 detencions). Un total de 123 detencions (65,1%) van
+ser efectuades a persones no residents, 47 a residents no andorrans (24,9%) i 19 a persones
+de nacionalitat andorrana (10,1%). Al llarg de l’any 2025 també es van efectuar 711 controls
+amb intervenció de cànnabis i derivats, un 1,4% més respecte a l’any 2024, i la major part d’ells
+(79,0%) s’han aplicat a no residents.
+
+
+
+
+NP_A066_20260608
+                                  A066. Estadística d’estupefaents. Any 2025
+
+
+Índex
+
+1       Quantitat intervinguda d’estupefaents ................................................................................... 3
+1.1     Per tipus d’estupefaent .......................................................................................................... 3
+1.2     Per lloc d’intervenció ............................................................................................................. 4
+1.3     Principals estupefaents intervinguts per tipologia i lloc d’intervenció.................................... 5
+1.3.1   Marihuana .............................................................................................................................. 5
+1.3.2   Haixix ..................................................................................................................................... 6
+1.3.3   Cocaïna ................................................................................................................................. 7
+2       Detencions per nacionalitat i residència ................................................................................ 8
+3       Controls amb intervenció per cànnabis i derivats.................................................................. 9
+3.1     Per lloc d’intervenció ............................................................................................................. 9
+3.2     Per nacionalitat i residència ................................................................................................... 9
+4       Nota metodològica ............................................................................................................... 10
+5       Dates de les publicacions previstes .................................................................................... 11
+
+
+
+
+NP_A066_20260608                                                                                                              pàgina 2 de 11
+                                A066. Estadística d’estupefaents. Any 2025
+
+
+1    Quantitat intervinguda d’estupefaents
+
+     1.1    Per tipus d’estupefaent
+
+
+                                            Quantitat intervinguda (grams)
+                Tipus d'estupefaent      2021     2022        2023      2024       2025    Distrib. Var. 24/25
+            Marihuana                 5.691,0 4.544,5 3.492,2 2.489,5           1.637,4     38,5%      -34,2%
+            Haixix                    1.002,4 2.188,9 5.854,4 2.886,5           1.749,2     41,2%      -39,4%
+            Heroïna                       18,0     40,6         8,7      24,7       35,8     0,8%       45,1%
+            Opi                            0,0      0,0         0,0       0,0        0,0     0,0%            -
+            Cocaïna                       79,0   142,7       630,3     511,7      697,7     16,4%       36,3%
+            Amfetamines                    2,6     35,9         1,6      17,7        0,0     0,0%    -100,0%
+            Tusi-2cb                       0,0      7,1        21,5      67,9       46,9     1,1%      -30,9%
+            Speed                          0,0      3,5         1,0       4,8        2,5     0,1%      -47,9%
+            MDMA/Èxtasi                    3,0     28,4        49,6      41,6       30,2     0,7%      -27,5%
+            Metamfetamina                  0,0      0,0        44,4       6,3       33,2     0,8%     427,3%
+            Psicòtrops                     0,0      0,0         1,8       0,0        0,0     0,0%            -
+            LSD                           13,0      0,0         0,0       0,0        0,3     0,0%            -
+            Crack                          0,0      0,0         0,0       0,0        0,0     0,0%            -
+            Ketamina                       2,0      6,6        17,9      75,7       10,3     0,2%      -86,5%
+            Bolets                         0,0     60,5        12,1       0,0        4,6     0,1%            -
+            TOTAL                     6.811,0 7.058,7 10.135,5 6.126,4          4.248,0    100,0%      -30,7%
+
+
+
+                          Quantitat intervinguda per tipus d'estupefaent. Any 2025
+           2.000,0
+           1.800,0
+           1.600,0
+           1.400,0
+           1.200,0
+           1.000,0
+            800,0
+            600,0
+            400,0
+            200,0
+               0,0
+                         Marihuana            Haixix               Cocaïna                 Altres
+
+
+
+
+                                          Quantitat intervinguda (unitats)
+                Tipus d'estupefaent     2021    2022        2023      2024        2025     Distrib. Var. 23/24
+            Marihuana                     61     243         211       207         160      41,7%      -22,7%
+            Haixix                        39       75         78        58          49      12,8%      -15,5%
+            Heroïna                        0       55          6         7           5       1,3%      -28,6%
+            Opi                            0         0         0         0           0       0,0%            -
+            Cocaïna                        0         0         1         2           0       0,0%    -100,0%
+            Amfetamines                    0         0         4         0           0       0,0%            -
+            Tusi-2cb                       0       16          0         0           0       0,0%            -
+            Speed                          0         0         0         0           0       0,0%            -
+            MDMA/Èxtasi                    5     140         150       687         162      42,2%      -76,4%
+            Metamfetamina                  0         0         5         1           1       0,3%        0,0%
+            Psicòtrops                     0         0         0         0           0       0,0%            -
+            LSD                            0       17          0       124           7       1,8%      -94,4%
+            Ketamina                       0         0         0         0           0       0,0%            -
+            Bolets                         0         0         1         0           0       0,0%            -
+            TOTAL                        105     546         456     1.086         384     100,0%      -64,6%
+
+
+
+
+    NP_A066_20260608                                                                                    pàgina 3 de 11
+                                             A066. Estadística d’estupefaents. Any 2025
+
+
+
+ 1.2                    Per lloc d’intervenció
+
+
+                                                                 Quantitat intervinguda (grams)
+                              Lloc d'intervenció                2021      2022        2023      2024          2025 Distrib. Var. 24/25
+                       Interior Principat                    5.283,1   1.904,8     5.352,4   2.763,2        1.666,9 39,2%      -39,7%
+                       Frontera hispanoandorrana             1.206,0   4.127,8     3.697,0   2.627,5        1.709,7 40,2%      -34,9%
+                       Frontera francoandorrana                321,9   1.026,1     1.086,1      735,7         871,4 20,5%       18,4%
+                       TOTAL                                 6.811,0   7.058,7 10.135,5      6.126,4        4.248,0 100,0%     -30,7%
+
+
+
+
+                                                        Proporció intervinguda per lloc d'intervenció
+                       120%
+
+
+                       100%          4,7%
+                                                             14,5%                10,7%             12,0%
+                                                                                                                         20,5%
+                                    17,7%
+
+
+
+
+       Proporció (%)
+                        80%
+                                                                                  36,5%
+                                                                                                    42,9%
+                        60%                                                                                              40,2%
+                                                             58,5%
+
+                        40%         77,6%
+
+                                                                                  52,8%
+                        20%                                                                         45,1%
+                                                                                                                         39,2%
+                                                             27,0%
+
+                         0%
+                                    2021                     2022                 2023              2024                 2025
+
+                                        Interior Principat           Frontera hispanoandorrana      Frontera francoandorrana
+
+
+
+
+NP_A066_20260608                                                                                                               pàgina 4 de 11
+                                                                                A066. Estadística d’estupefaents. Any 2025
+
+
+  1.3                           Principals estupefaents intervinguts per tipologia i lloc d’intervenció
+
+                                1.3.1                 Marihuana
+
+
+                                                                     Quantitat intervinguda de marihuana (grams)
+                                                  Lloc d'intervenció        2021      2022    2023    2024     2025 Distrib. Var. 24/25
+                                            Interior Principat          4.784,1 1.169,9      918,8    984,4   414,6 25,3%       -57,9%
+                                            Frontera hispanoandorrana      734,2 2.847,3 2.108,4 1.109,6      867,9 53,0%       -21,8%
+                                            Frontera francoandorrana       172,7     527,3   465,0    395,6   355,0 21,7%       -10,3%
+                                            Total                       5.691,0 4.544,5 3.492,2 2.489,5 1.637,4 100,0%          -34,2%
+
+
+                                                    4.784,1
+                                5.000
+
+                                4.000
+
+
+
+
+        Quantitat (grams)
+                                                                                                                 2.847,3
+                                3.000
+                                                                                                                                                                     2.108,4
+                                2.000
+                                                                                                    1.169,9
+                                                                                                                                                         918,8                                                984,4 1.109,6                                                       867,9
+                                1.000                        734,2
+                                                                                                                                   527,3                                                465,0                                              395,6                 414,6
+                                                                          172,7                                                                                                                                                                                                                 355,0
+                                      0
+                                                             2021                                                 2022                                                    2023                                                  2024                                              2025
+                                                                          Interior Principat                                       Frontera hispanoandorrana                                                  Frontera francoandorrana
+
+
+
+                                                                                      Quantitat intervinguda de marihuana a la UE. Any 2023
+      100.000
+
+
+
+
+       10.000
+
+
+
+
+        1.000
+
+
+ Kg
+
+              100
+
+
+
+
+                       10
+
+
+
+
+                            1
+
+                                                                                                                         Austria
+                                  Türkiye                                                                                            Sweden                                                                            Norway                                                      Slovakia
+                                                             France                        Greece
+                                                                                                                                                                                                                                                                          Malta
+                                                                                                                Poland                                                                              Czechia                                Denmark
+                                                                                                                                                          Finland
+                                                     Italy
+                                            Spain
+                                                                                                      Croatia                                 Portugal                                                        Cyprus                                                                                                 Andorra
+                                                                                                                                                                                                                                                     Lithuania
+                                                                                                                                                                                                                                                                                              Luxembourg
+                                                                                                                                                                                                                                                                 Latvia
+                                                                      Germany   Bulgaria                                                                            Romania   Belgium    Slovenia                                Hungary                                                                   Estonia
+
+
+
+
+*Font: EUDA, European Union Drugs Agency.
+*Nota: La informació del gràfic correspon a l’any 2023, ja que són les dades més actuals de l’EUDA.
+*A causa de la gran variabilitat en les dades, l’eix vertical del gràfic està en una escala logarítmica en base 10.
+
+
+
+
+NP_A066_20260608                                                                                                                                                                                                                                                                   pàgina 5 de 11
+                                                                               A066. Estadística d’estupefaents. Any 2025
+
+
+                             1.3.2               Haixix
+
+
+                                                                                                       Quantitat intervinguda d'haixix (grams)
+                                       Lloc d'intervenció                                                 2021       2022    2023      2024    2025 Distrib. Var. 24/25
+                                 Interior Principat                                                       403,7     596,5 3.837,0 1.301,7      547,3 31,3%      -58,0%
+                                 Frontera hispanoandorrana                                                454,3 1.109,2 1.420,8 1.278,1        711,9 40,7%      -44,3%
+                                 Frontera francoandorrana                                                 144,4     483,2   596,6     306,7    490,1 28,0%       59,8%
+                                 Total                                                                  1.002,4 2.188,9 5.854,4 2.886,5 1.749,2 100,0%          -39,4%
+
+
+
+
+                             4.500
+                             4.000                                                                                                                   3.837,0
+
+                             3.500
+                             3.000
+
+
+
+
+         Quantitat (grams)
+                             2.500
+                             2.000
+                                                                                                                                                                            1.420,8
+                             1.500                                                                                                                                                                           1.301,7 1.278,1
+                                                                                                               1.109,2
+                             1.000                                                                                                                                                                                                                                                     711,9
+                                                 403,7 454,3                                       596,5                         483,2                                                  596,6                                                                       547,3                            490,1
+                              500                                                                                                                                                                                                             306,7
+                                                                         144,4
+                                  0
+                                                             2021                                               2022                                                   2023                                                        2024                                                2025
+                                                                         Interior Principat                                  Frontera hispanoandorrana                                                        Frontera francoandorrana
+
+
+
+
+                                                                                        Quantitat intervinguda d'haixix a la UE. Any 2023
+1.000.000,0
+
+
+
+  100.000,0
+
+
+
+      10.000,0
+
+
+
+ Kg    1.000,0
+
+
+
+        100,0
+
+
+
+          10,0
+
+
+
+                     1,0
+
+
+                                                                                                                                                                                                                                                        Slovakia
+                                        France               Türkiye           Sweden                                   Norway                           Greece               Austria
+                                                                                                                                                                                                                                                                                                                       Malta
+                                                                                                                                   Poland                         Finland                                                                                                                                    Czechia
+                                                                                                    Denmark
+                                                  Portugal                                                                                                                                                                          Cyprus
+                                                                       Italy
+                                Spain
+                                                                                                                                                                                         Croatia                                                                   Andorra
+                                                                                                                                            Luxembourg
+                                                                                                                                                                                                                                                                                        Lithuania
+                                                                                                                                                                                                                                                                                                    Latvia
+                                                                                                              Germany                                                                                         Romania   Bulgaria             Slovenia
+                                                                                         Belgium                                                                                                   Estonia                                                                   Hungary
+
+
+
+*Font: EUDA, European Union Drugs Agency.
+*Nota: La informació del gràfic correspon a l’any 2023, ja que són les dades més actuals de l’EUDA.
+*A causa de la gran variabilitat en les dades, l’eix vertical del gràfic està en una escala logarítmica en base 10.
+
+
+
+
+NP_A066_20260608                                                                                                                                                                                                                                                                       pàgina 6 de 11
+                                                                                         A066. Estadística d’estupefaents. Any 2025
+
+
+
+                                 1.3.3                   Cocaïna
+
+
+                                                                                                             Quantitat intervinguda de cocaïna (grams)
+                                            Lloc d'intervenció                                                   2021       2022     2023    2024      2025 Distrib. Var. 24/25
+                                      Interior Principat                                                          58,4       78,3   501,1    387,4   623,5 89,4%         61,0%
+                                      Frontera hispanoandorrana                                                                16,8                 54,6                   110,5               114,2                       59,9                 8,6%                            -47,5%
+                                      Frontera francoandorrana                                                                  3,8                  9,8                    18,7                10,2                        14,3   2,0%                                         40,3%
+                                      Total                                                                                    79,0                142,7                   630,3               511,7                       697,7 100,0%                                         36,3%
+
+
+
+
+                                  700
+                                                                                                                                                                                                                                                                                 623,5
+                                  600
+                                                                                                                                                                   501,1
+                                  500
+
+
+
+
+         Quantitat (grams)
+                                                                                                                                                                                                                           387,4
+                                  400
+
+                                  300
+
+                                  200
+                                                                                                                                                                                       110,5                                             114,2
+                                  100                     58,4                                                 78,3                                                                                                                                                                                59,9
+                                                                                                                                54,6
+                                                                            16,8 3,8                                                        9,8                                                   18,7                                                     10,2                                                    14,3
+                                             0
+                                                                      2021                                                     2022                                                  2023                                                 2024                                                     2025
+                                                                                         Interior Principat                               Frontera hispanoandorrana                                                        Frontera francoandorrana
+
+
+
+
+                                                                                                   Quantitat intervinguda de cocaïna a la UE. Any 2023
+
+  1.000.000
+
+
+
+      100.000
+
+
+
+       10.000
+
+
+
+        1.000
+
+ Kg
+              100
+
+
+
+                       10
+
+
+
+                             1
+
+
+
+                             0
+
+                                                                                                                                                                                     Malta
+                                                                                                                                                                                                       Denmark
+                                                                   France                          Türkiye   Norway   Poland     Greece   Sweden                           Czechia                                          Austria   Finland                                                                    Slovakia
+                                                                                                                                                                                                                                                                                                    Luxembourg
+                                                                                                                                                     Lithuania                                                                                                                                                              Andorra
+                                                 Spain
+                                                                                           Italy
+                                                                              Portugal                                                                           Croatia                                                                                                         Cyprus
+                                                         Germany
+                                   Belgium                                                                                                                                                   Estonia             Hungary                        Bulgaria   Slovenia   Romania
+                                                                                                                                                                                                                                                                                          Latvia
+
+
+
+
+*Font: EUDA, European Union Drugs Agency.
+*Nota: La informació del gràfic correspon a l’any 2023, ja que són les dades més actuals de l’EUDA.
+*A causa de la gran variabilitat en les dades, l’eix vertical del gràfic està en una escala logarítmica en base 10.
+
+
+
+
+NP_A066_20260608                                                                                                                                                                                                                                                                          pàgina 7 de 11
+                                                                                                                    A066. Estadística d’estupefaents. Any 2025
+
+
+2               Detencions per nacionalitat i residència
+
+
+                                                                                  Detencions amb imputació d'estupefaents per situació d'immigració
+                                                                      Nacionalitat i residència    2021    2022     2023     2024      2025 Distrib. Var. 24/25
+                                                                     Andorrans                       43       38      35        50        19 10,1%      -62,0%
+                                                                     Residents no andorrans          27       55      63        69        47 24,9%      -31,9%
+                                                                     Fronterers                       0        0       1          0        0   0,0%           -
+                                                                     No residents                    30       92     160       181      123 65,1%       -32,0%
+                                                                     Total                          100      185     259       300      189 100,0%      -37,0%
+
+
+
+
+                                                                 200
+                                                                                                                                                                                                                                                                 181
+                                                                 180
+                                                                                                                                                                                                         160
+                                                                 160
+                                                                 140
+                                                                                                                                                                                                                                                                                                            123
+
+
+
+
+                                           Quantitat (grams)
+                                                                 120
+                                                                 100                                                                                   92
+                                                                     80                                                                                                                       63                                                   69
+                                                                                                                                             55
+                                                                     60                43                                                                                                                                             50                                                          47
+                                                                                                                                   38                                         35
+                                                                     40                               27   30
+                                                                                                                                                                                                                                                                                    19
+                                                                     20
+                                                                                                                                                                                                                  1
+                                                                         0
+                                                                                                      2021                                    2022                                            2023                                                 2024                                                  2025
+                                                                                                                    Andorrans                        Residents no andorrans                                             No residents                              Fronterers
+
+
+
+
+                                                                                   Índex de detencions amb imputació d'estupefaents a la UE. Any 2023
+                                              6
+
+
+
+
+     Detencions per cada 1.000 habitants
+                                              5
+
+
+
+                                              4
+
+
+
+                                              3
+
+
+
+                                              2
+
+
+
+                                              1
+
+
+
+                                              0
+
+                                                                                            Finland                                                                                                                                                     Poland
+                                                               Denmark
+                                                                                                           France      Türkiye   Andorra                                                                                    Czechia                                                                         Slovakia
+                                                                                                                                                                                                                                           Italy
+                                                                                                                                           Croatia                                 Portugal                    Cyprus
+                                                                                                                                                                 Luxembourg
+                                                                                                                                                                                              Slovenia
+                                                                                                                                                        Latvia
+                                                                             Belgium                                                                                                                                                                                   Hungary   Romania      Bulgaria
+
+
+
+
+    *Font: EUDA, European Union Drugs Agency.
+    *Nota: La informació del gràfic correspon a l’any 2023, ja que són les dades més actuals de l’EUDA.
+
+
+
+
+    NP_A066_20260608                                                                                                                                                                                                                                                                       pàgina 8 de 11
+                                                      A066. Estadística d’estupefaents. Any 2025
+
+
+3    Controls amb intervenció per cànnabis i derivats
+
+    En aquest apartat, només es comptabilitzen els controls en què s’ha intervingut una quantitat
+    inferior a 100 grams de cànnabis i derivats. Si s’intervenen més de 100 grams d’aquesta
+    substància, si hi ha indicis de tràfic d’estupefaents o si s’intervenen altres tipus d’estupefaents
+    més potents, aleshores es considera una detenció, i no pas un control.
+
+
+     3.1                       Per lloc d’intervenció
+
+
+                                                        Controls per Cannabis i derivats per lloc d'incautació
+                                        Lloc d'intervenció         2021    2022      2023       2024     2025 Distrib. Var. 24/25
+                                  Interior Principat                125     169       200        141      206 20,1%        46,1%
+                                  Frontera hispanoandorrana         216     524       468        376      294 53,6%       -21,8%
+                                  Frontera francoandorrana          132     378       258        184      211 26,2%        14,7%
+                                  Total                             473   1.071       926        701      711 100,0%        1,4%
+
+
+
+
+                                600
+                                                                            524
+                                500                                                                   468
+
+                                400                                               378                                    376
+
+
+
+
+           Quantitat (grams)
+                                                                                                                                                   294
+                                300                                                                         258
+                                               216                                           200                                             206          211
+                                                                   169                                                           184
+                                200
+                                         125          132                                                         141
+                                100
+
+                                  0
+                                               2021                        2022                     2023                 2024                      2025
+                                                      Interior Principat          Frontera hispanoandorrana       Frontera francoandorrana
+
+
+
+
+     3.2                       Per nacionalitat i residència
+
+
+                                                     Controls per Cannabis i derivats per situació d'immigració
+                                   Nacionalitat i residència      2021     2022      2023      2024    2025 Distrib. Var. 24/25
+                                  Andorrans                         74        93       88        59       81 11,4%       37,3%
+                                  Residents no andorrans            64        74       83        60       68    9,6%     13,3%
+                                  No residents                     335       904      755       582     562 79,0%         -3,4%
+                                  Total                            473    1.071       926       701     711 100,0%         1,4%
+
+
+
+                               1.000
+                                                                                  904
+                                900
+                                800                                                                         755
+                                700
+
+
+
+
+           Quantitat (grams)
+                                                                                                                                 582                      562
+                                600
+                                500
+                                400                   335
+                                300
+                                200
+                                          74    64                  93      74               88       83                                     81     68
+                                100                                                                                59     60
+                                  0
+                                               2021                        2022                     2023                 2024                      2025
+                                                            Andorrans                   Residents no andorrans           No residents
+
+
+
+
+    NP_A066_20260608                                                                                                                           pàgina 9 de 11
+                               A066. Estadística d’estupefaents. Any 2025
+
+
+4       Nota metodològica
+
+    •     Font. Registre de les detencions del Departament de Policia, Ministeri de Justícia i Interior,
+          revisat i tractat pel Departament d’Estadística. Dades disponibles al web
+          www.estadistica.ad, en el banc de dades dins de l’apartat Estadístiques i Dades/Justícia i
+          seguretat/Seguretat ciutadana.
+
+
+    •    Definicions.
+
+         -    Estupefaent: Substància que, en ser introduïda en l’organisme, actua sobre el sistema
+              nerviós central i li provoca canvis que poden afectar la conducta, l’estat d’ànim o la
+              percepció, de manera que predisposa a repetir-ne el consum.
+         -    Marihuana: Droga que s’obté de la mescla de fulles i flors seques del cànem índic amb
+              substàncies aromàtiques i ensucrades.
+         -    Haixix: Droga que s’obté de la resina de la planta femenina del cànnabis, la qual s’ha
+              separat de la pròpia planta a través de mitjans mecànics o químics.
+         -    Heroïna: Droga depressora del sistema nerviós central. Considerada com una de les
+              més addictives, pertany a la categoria dels opiacis i els seus efectes són immediats.
+         -    Opi: Substància que es troba a la planta de l’opi, anomenada cascall, i que afecta
+              l’activitat del sistema nerviós central. L’heroïna és un opiaci utilitzat com a droga de
+              consum.
+         -    Metadona: Opiaci sintètic que s’utilitza en el tractament de manteniment de les
+              persones amb dependència d’opiacis, com l’heroïna. Pot administrar-se un cop al dia
+              per via oral, sempre sota supervisió.
+         -    Cocaïna: Substància que s’obté de les fulles de la coca o que se sintetitza a partir de la
+              ecgonina o els seus derivats. És una potent droga estimulant del sistema nerviós
+              central.
+         -    Amfetamina: Droga estimulant (coneguda també amb el nom de “Speed”) que provoca
+              inicialment estats d’eufòria i excitació, increment de l’energia i disminució de la gana i
+              de la fatiga. Quan passen aquests efectes, s’experimenta una sensació de baixada
+              amb fatiga, depressió, insomni, somnolència, ansietat, etc.
+         -    “Speed”: Substància química que té un efecte estimulant sobre el sistema nerviós,
+              augmenta la resistència física i fa disminuir la sensació de gana.
+         -    MDMA/Èxtasi: Substància psicoactiva derivada de les amfetamines (3,4-
+              metilendioximetamfetamina) i sintetitzada en laboratoris. Aquesta droga il·legal exerceix
+              una acció estimulant sobre el sistema nerviós central, tot i que també té alguns efectes
+              sobre la percepció.
+         -    Benzodiazepina: Substància psicotròpica que té efectes sedants i somnífers,
+              ansiolítics, anticonvulsius, amnèsics i relaxants musculars.
+         -    Psicòtrop: Substància química que actua principalment sobre el sistema nerviós
+              central. La seva acció comporta canvis temporals sobre la percepció, l’estat d’ànim,
+              l’estat de consciència i el comportament.
+         -    LSD: Substància al·lucinògena coneguda també amb el nom de “tripi” que modifica la
+              percepció, el pensament i l’estat d’ànim.
+         -    Bolet: Bolets que contenen substàncies al·lucinògenes. En la major part dels casos els
+              seus principis actius són la psilocibina o la psilocina.
+         -    Crack: Derivat de la cocaïna que s’obté dissolent aquesta en amoníac,
+              hidrogencarbonat de sodi o dietilèter. Els seus efectes són immediats: eufòria,
+              hiperactivitat i augment de la temperatura corporal.
+         -    Ketamina: Droga dissociativa amb potencial al·lucinogen, encara que té altres efectes
+              subjectius, utilitzada originalment en medicina per les seves propietats analgèsiques i,
+              sobretot, anestèsiques.
+
+
+
+
+    NP_A066_20260608                                                                      pàgina 10 de 11
+                               A066. Estadística d’estupefaents. Any 2025
+
+
+    •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+          preguem citeu: “Dades del Dades del Departament de Policia, tractades pel Departament
+          d’Estadística per a la Nota de Premsa ref. NP_A066_20260608”.
+
+    •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+          desplegament en el Programa estadístic per a l’any 2026, el present informe dona resposta
+          a la següent activitat estadística del Programa: A066: Estadística d’estupefaents
+
+    •     Difusió.      Dades      disponibles      al     web     www.estadistica.ad,   a      l’apartat
+          Estadístiques/Dades/Justícia i seguretat/Seguretat ciutadana/Estupefaents i contraban de
+          tabac. Per estar informat en qualsevol moment de les noves publicacions us podeu
+          inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de
+          les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+          Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+          Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+
+
+5       Dates de les publicacions previstes
+
+    Nota de premsa A066. Estadística d’estupefaents. Any 2026: 2n trimestre del 2027
+
+
+
+
+    NP_A066_20260608                                                                       pàgina 11 de 11
+
