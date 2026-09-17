@@ -124,5 +124,59 @@ l'alçada d'un mur de pedra seca.
   ([els habitatges buits](../../societat/habitatge/els-habitatges-buits.md)).
 - **Les 7 versions consolidades no s'han comparat.**
 - **Els requisits tècnics dels HUT** van a reglament i no són al corpus.
-- **L'impost sobre les estades en allotjaments turístics** (Llei 19/2022, 47
-  articles) és al recull i **queda per llegir**.
+- ~~**L'impost sobre les estades en allotjaments turístics** (Llei 19/2022, 47
+  articles) és al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**
+  al [BOPA](../../../fonts/bopa.md), butlletí **76 del 2022**
+  (`docs/raw/lleis/bopa/llei-19-2022-impost-estades-allotjaments-turistics.txt`).
+  **I el títol de la llei ja diu que no és només un impost**: reguladora de
+  l'impost **i de modificació de la Llei 16/2017 general de l'allotjament
+  turístic i de la Llei 13/2007 d'Andorra Turisme**. **Dels 47 articles, 22 són
+  l'impost i 25 modifiquen aquelles dues lleis.**
+
+  **La tarifa és per persona i dia, i l'HUT paga com un quatre estrelles:**
+
+  | Allotjament | Euros per dia |
+  | --- | --- |
+  | **5 estrelles** | **3,00** |
+  | **4 estrelles / 4 espigues** | **2,00** |
+  | **Habitatges d'ús turístic** | **2,00** |
+  | 2 o 3 estrelles / espigues, o en procés de classificació | 1,50 |
+  | Resta d'allotjaments turístics | 1,00 |
+
+  **Un pis turístic tributa el doble que una fonda i el mateix que un hotel de
+  quatre estrelles.**
+
+  **Quatre decisions que fan l'impost menys recaptador del que sembla:**
+
+  - **Els residents andorrans no el paguen** (article 4.1.a) —**és un impost
+    sobre el visitant, no sobre l'estada**.
+  - **Els menors de 16 anys tampoc**, i **si no tenen document, val la
+    declaració de l'acompanyant** (article 4.3).
+  - **Només es paguen els set primers dies**: «per a les estades d'una durada
+    superior a 7 dies en un mateix allotjament turístic, **la superació de
+    l'esmentat termini**» queda exempta (article 4.1.c). **El sostre per estada
+    és, doncs, de 21 € en un cinc estrelles i 14 € en un HUT.**
+  - **Les àrees d'acollida d'autocaravanes queden fora del fet generador**
+    (article 3).
+
+  **Qui paga i qui ingressa no són el mateix.** **El contribuent és qui s'hi
+  allotja**; **el substitut és qui explota l'allotjament**, i **es presumeix,
+  llevat de prova en contrari, que és el titular de la llicència de turisme**
+  (article 5.3). **L'impost s'ha de consignar a la factura separat del preu**
+  (article 11). **Per a un HUT això vol dir que el propietari és qui declara,
+  cobra i respon.**
+
+  **I hi ha una arma contra qui no declara**: si el substitut no presenta
+  l'autoliquidació o no aporta les dades d'ocupació, **l'Administració pot
+  estimar-li els dies d'estada per mètode indirecte**, **a partir de les dades
+  estadístiques d'ocupació d'allotjaments del mateix tipus** (article 9.4).
+  **No declarar no evita la quota: la fa calcular per comparació amb els
+  veïns.**
+
+  **La recaptació té destinació finalista.** Va al **Fons per a l'impuls del
+  turisme** (articles 20-22) —promoció, turisme sostenible, infraestructures,
+  desestacionalització, formació—, **però els recàrrecs i interessos de mora
+  no hi entren** (article 21.2) i **el Govern el pot desviar «a altres
+  finalitats d'interès general» si s'activa la Llei qualificada dels estats
+  d'alarma i d'emergència** (article 22.2). `Requereix la xifra recaptada i la
+  liquidació del Fons, que no són en aquesta llei.`

@@ -98,10 +98,26 @@ parla dels **béns mobles** i afegeix l'exclusió dels d'ús personal.
 - La [correcció del 31-08-2016, p. 1](../../../raw/desocupacio/bopa-errata-2016-08-31.pdf)
   ja s'ha llegit: corregeix l'edat mínima del primer guió del 15.2.a.ii,
   de tres a zero anys. Aquesta peça no modifica el 5.2.a.iii.
-- **Data discrepant preservada:** el preàmbul de la Llei 5/2018, p. 1,
+- ~~**Data discrepant preservada:** el preàmbul de la Llei 5/2018, p. 1,
   remet a la Llei 3/2017 com del **19 de febrer**; l'original de la
   Llei 3/2017, p. 1 i 30, diu **9 de febrer**. Queda per comprovar si
-  existeix una correcció formal d'aquesta remissió.
+  existeix una correcció formal d'aquesta remissió.~~ — **`resolt` el
+  17-09-2026 al [BOPA](../../../fonts/bopa.md).** **La data bona és el 9 de
+  febrer** i **no existeix cap correcció formal.**
+
+  **Tres comprovacions, totes al mateix lloc.** **El sumari oficial del BOPA**
+  titula la norma **«Llei 3/2017, del 9 de febrer, del pressupost per a
+  l'exercici del 2017»**. **El text de la Llei 5/2018 publicat al BOPA**
+  reprodueix l'error del preàmbul —«Llei 3/2017, del **19 de febrer**»—
+  (`docs/raw/lleis/bopa/llei-5-2018-mod-serveis-socials.txt`): **no és una
+  errata de la còpia que el corpus tenia, és del text oficial.** I **la cerca
+  de «correcció d'errata» amb «Llei 5/2018» dona zero resultats a tot el
+  Butlletí**: **l'error no s'ha esmenat mai.**
+
+  **L'origen més probable de l'error és mecànic**: **la Llei 5/2018 és «del 19
+  d'abril»**, i el preàmbul sembla haver arrossegat el seu propi dia a la data
+  de la norma citada. **El corpus es queda amb el 9 de febrer i deixa
+  registrat que la remissió oficial segueix dient una altra cosa.**
 - Les regles de valoració del decret d'abril de 2017 ja estan llegides;
   queden pendents l'aplicació administrativa, els indicadors concrets,
   eventuals correccions i les modificacions posteriors. L'exclusió indicada
