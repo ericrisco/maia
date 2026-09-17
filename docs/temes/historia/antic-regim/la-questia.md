@@ -312,7 +312,44 @@ avèria**; i **cent vint cavallons de blat com un metado**
    hagi combregat, i amb quina norma. **Prioritari.**
 4c. **Quants metadors hi havia**, que és el que faria calculable tota la
    recaptació.
-5. **Quant recaptava** en total.
+5. **Quant recaptava** en total. — **`parcial` el 17-09-2026, i per la banda que
+   es podia documentar: no el que es recaptava dins, sinó el que se n'havia de
+   treure per pagar-la.** Font: les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md).
+
+   **Set actes del segle XV donen la sèrie de la quèstia comtal**, i **totes
+   menys una són operacions de deute**:
+
+   | Any | Quantitat | Què hi passa |
+   | --- | --- | --- |
+   | **1446** | **3.000 florins** | **El lloctinent del veguer comtal presenta la carta del comte** que fixa la quèstia de l'any. **El Consell apel·la al comte i a la comtessa perquè els la rebaixin «a una suma assumible»** |
+   | **1456** | **1.800 florins d'or d'Aragó** | **El Consell nomena procuradors per negociar un préstec** per pagar-la. La quantitat l'havien acordada amb **Joan de Rocafort, jutge major del comtat de Foix**, comissari del comte. **Meitat al gener del 1457, meitat quinze dies després de Pasqua** |
+   | **1467** | **1.100 florins d'or d'Aragó** | **Reconeixement de deute** al príncep de Navarra i comte de Foix. **Meitat quinze dies després de Pasqua, meitat per Tots Sants** |
+   | **1467** | **550 florins d'or** | **La meitat ja no es paga al comte: està consignada a Ramon d'Anolles, mercader d'Acs**, i el Consell es compromet a pagar-li a ell |
+   | **1471** | **750 florins d'or** | **Préstec per pagar el *segon* lliurament** de la quèstia de l'any |
+   | **1498** | **1.300 florins d'or d'Aragó** | **Préstec per pagar la quèstia a la reina de Navarra** |
+
+   **El que la sèrie ensenya no és una xifra: és un mecanisme.** **Andorra no
+   pagava la quèstia amb el que recaptava: la pagava demanant-la prestada**, i
+   **el Consell General existia, en bona part, per poder-se endeutar en nom de
+   tothom** —**que és exactament la facultat que el privilegi del
+   [1419](../../institucions/consell-general/el-consell-de-la-terra.md) li
+   havia de donar.**
+
+   **I la del 1446 mostra que la xifra era negociable**: **el comte en demana
+   tres mil i el Consell hi apel·la per rebaixar-la.** **Deu anys després la
+   quantitat l'acorden amb un comissari.** **De manament a negociació.**
+
+   **Dos canvis de moneda que el buit 1 necessitava**, tots dos de les mateixes
+   actes:
+
+   | Any | Equivalència |
+   | --- | --- |
+   | **1467** | **1 florí d'or = 13 sous i 4 ardits**; **1 escut d'or = 18 sous i 2 ardits**, en moneda corrent del comtat de Foix |
+   | **1471** | **1 florí d'or = 13 sous i mig** |
+
+   `Requereix el que es recaptava dins del país; això segueix obert, i el que
+   ara hi ha és el que se n'havia de pagar a fora.`
 6. La relació entre **quèstia, delme i talla** — són tres coses i aquí es toquen.
 
 ## Related
