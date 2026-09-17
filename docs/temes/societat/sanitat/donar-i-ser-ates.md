@@ -148,5 +148,23 @@ de treball pactat** amb la persona (article 3.n).
   identificat: comitès d'ètica, assaigs clínics i biobancs **queden per llegir**.
 - **El títol II de les professions de la salut** —que regula cada professió una
   per una— no s'ha buidat.
-- **La Llei de reproducció humana assistida**, que la llei d'òrgans cita, **no és
-  al recull de les 104**.
+- ~~**La Llei de reproducció humana assistida**, que la llei d'òrgans cita, **no
+  és al recull de les 104**.~~ — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: la **Llei 12/2019, del 15 de febrer,
+  qualificada de tècniques de reproducció humana assistida**, butlletí **27 del
+  2019** (`docs/raw/lleis/bopa/llei-12-2019-reproduccio-humana-assistida.txt`).
+
+  **La decisió de fons que el corpus no tenia és la del donant**, i la llei la
+  formula amb una precisió que val la pena conservar: **no estableix
+  «l'anonimat del donant sinó un caràcter reservat o confidencial de la seva
+  donació»**, i per això **preveu l'accés a les informacions «que puguin
+  resultar necessàries o rellevants»** i **crea un registre de reproducció
+  humana assistida**.
+
+  **Reservat no és anònim**, i **la llei ho diu perquè la diferència decideix si
+  una persona nascuda per donació pot arribar a saber d'on ve.**
+
+  **I l'article 5 posa tres condicions acumulatives a l'aplicació de les
+  tècniques**: **possibilitats raonables d'èxit**, **cap risc greu per a la
+  salut física o psíquica de la dona ni de la possible descendència**, i
+  **acceptació prèvia lliure i conscient.**

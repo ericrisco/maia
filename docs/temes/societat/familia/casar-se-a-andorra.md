@@ -148,7 +148,21 @@ institucions dins la llei vigent.**
 - **El divorci**: la llei el regula a la secció tretzena i aquí només se'n diu
   que existeix per al matrimoni canònic. **Queda per llegir.**
 - **La Llei del Registre Civil**, a la qual aquesta remet per a la inscripció,
-  **no és al recull de normes del corpus**.
+  **no és al recull de normes del corpus**. — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: la **Llei del Registre Civil, de l'11 de
+  juliol del 1996**, butlletí **57 del 1996**
+  (`docs/raw/lleis/bopa/llei-1996-registre-civil.txt`).
+
+  **I el seu preàmbul diu una cosa que lliga directament amb
+  [el Concordat](../../institucions/coprincipat/el-concordat-del-2008.md)**:
+  el Registre neix reconeixent **«el matrimoni canònic, la validesa del qual
+  reconeix la Constitució»**, i **estableix que «al Registre Civil seran
+  sotmesos tots els actes i els fets que concerneixin la persona i la seva vida
+  en societat, independentment del fet que professin o no una religió»**.
+
+  **Dotze anys abans del Concordat, la llei del Registre ja havia resolt la
+  qüestió** que l'acord amb la Santa Seu tornaria a escriure el 2008: **el
+  matrimoni canònic té efectes civils, i el Registre és civil per a tothom.**
 - **Què deia la norma de 1975** sobre els drets civils de la dona casada —el
   buit que va deixar obert
   [la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)—

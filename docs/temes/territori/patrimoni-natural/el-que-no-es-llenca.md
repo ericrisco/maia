@@ -91,6 +91,10 @@ travessa tot el que descriu
 - **Quin percentatge de reciclatge assoleix Andorra avui**, no consta al recull
   de lleis.
 - **La Llei 25/2004 de residus**, que la d'economia circular cita com a norma
-  base i de la qual pren les definicions, **no és al recull**.
+  base i de la qual pren les definicions, **no és al recull**. — **`resolt` el
+  17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: la **Llei 25/2004, del 14
+  de desembre, de residus**, butlletí **3 del 2005**
+  (`docs/raw/lleis/bopa/llei-25-2004-residus.txt`). **La norma base de la qual
+  l'economia circular pren les definicions ja és al corpus.**
 - **El Pla nacional de residus** i l'**Estratègia d'economia circular** són
   instruments, no lleis: no hi són.

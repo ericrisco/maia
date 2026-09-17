@@ -88,7 +88,18 @@ Dues coses que un lector no esperaria trobar al mateix text:
   `Requereix font externa: el registre de comunicacions del ministeri
   d'Interior.`
 - **El reglament d'armes** —la classificació i quines són prohibides— és
-  reglamentari i **no és al recull de lleis**.
+  reglamentari i **no és al recull de lleis**. — **`resolt` el 17-09-2026 des
+  del [BOPA](../../../fonts/bopa.md)**: el **Decret 447/2022, del 2-11-2022,
+  d'aprovació del Reglament d'armes**, butlletí **131 del 2022**
+  (`docs/raw/lleis/bopa/decret-447-2022-reglament-armes.txt`), **el segon del
+  mateix any** —el primer és el Decret 263/2022, del 22 de juny.
+
+  **La classificació que el buit demanava és als articles 3 a 5**: **armes
+  prohibides** (art. 3), **armes reglamentades** (art. 4) i **armes
+  reglamentades el port de les quals està prohibit** (art. 5) —**tres
+  categories, no dues**—, amb **un Registre integrat d'armes del Principat
+  d'Andorra (RIAPA)** a l'article 7. **Les disposicions transitòries parlen de
+  categories numerades fins a la desena.**
 - Els **66 articles** de la llei cobreixen molt més (espectacles, animals
   perillosos, sortida del territori): només se n'han llegit els capítols de
   reunió, manifestació, armes i prostitució.

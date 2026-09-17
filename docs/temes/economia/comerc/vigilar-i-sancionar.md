@@ -121,4 +121,9 @@ coherent amb un país la banca del qual viu de la seva homologació
 - **Quants decrets de mesures restrictives ha aprovat el Govern** des del 2022 i
   contra qui: **no consta al recull de lleis** —els decrets no hi són.
 - **La Llei qualificada del Cos de Policia**, que la de seguretat pública cita
-  com a norma germana, **no és al recull**.
+  com a norma germana, **no és al recull**. — **`resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**: és la **Llei 8/2004, del 27 de maig,
+  qualificada del Cos de Policia**, butlletí **39 del 2004**
+  (`docs/raw/lleis/bopa/llei-8-2004-cos-de-policia.txt`), **amb text refós
+  publicat per Decret legislatiu del 24-5-2017**. **La norma germana ja no
+  falta.**
