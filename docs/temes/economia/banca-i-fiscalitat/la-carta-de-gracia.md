@@ -112,7 +112,10 @@ preu del segle XIX.** **En una Andorra que just llavors es posava a urbanitzar**
 > ordenar la restitució d'unes terres venudes el 1691.**»
 > (Assier-Andrieu, 1984, p. 14, citant Brutails, 1904, p. 213)
 
-**Dos-cents vuit anys.** **I la frase té una segona meitat que val tant com el
+> **La data d'aquesta citació és errònia i el corpus ho comprova més avall**:
+> **Brutails escriu 1898**, no 1899.
+
+**Dos-cents set anys.** **I la frase té una segona meitat que val tant com el
 cas**: **a Andorra la clàusula de retrovenda era *implícita a tota venda
 immobiliària***. **No calia pactar-la: hi era.**
 
@@ -325,10 +328,20 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
   `Requereix font externa.`
 - **Assier-Andrieu 1984**, citat i no llegit. **Localitzat: *Quaderns de
   l'I.C.A.*, 5, p. 9-27.**
-- **Brutails, *La Coutume d'Andorre*, p. 213** — **el cas del 1691 restituït el
-  1899**. **El corpus té el llibre sencer a `raw/llibres/brutails-coutume.txt`**
-  i **aquesta pàgina no s'ha llegit.** **Buit barat i d'alt rendiment**: és
-  l'única prova documental que el corpus té del termini il·limitat.
+- ~~**Brutails, *La Coutume d'Andorre*, p. 213** — **el cas del 1691 restituït el
+  1899**. **El corpus té el llibre sencer** i **aquesta pàgina no s'ha
+  llegit.**~~ — **`resolt`, i abans del que aquesta llista deia**: **la pàgina
+  ja és llegida i buidada al cos d'aquesta fitxa** —la citació sencera, la
+  correcció de la data a **1898**, «la faculté perpétuelle de rachat» i el
+  càlcul monetari de Brutails.
+
+  **L'entrada s'havia quedat oberta per descuit i es tanca el 17-09-2026 en
+  rellegir-la.** **El corpus ho registra com el que és**: **un buit que no era
+  un buit**, i **el tercer d'aquest tipus que l'auditoria troba** —llistes de
+  buits que no es van actualitzar quan el cos de la fitxa va créixer.
+  `Requereix, encara, revisar sistemàticament si hi ha més entrades tancades al
+  cos i obertes a la llista.`
+
 - **Maluquer i Rosés 1962** i **Camps i Arboix**, citats i no llegits.
 - **El *censal***, l'altra figura de crèdit que
   [el notariat](../../institucions/justicia/el-notariat.md) declara i que **cap
