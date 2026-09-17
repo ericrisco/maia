@@ -124,11 +124,46 @@ marca la relació de forces.
 
 **El que cau és «sense cap mena de compensació».** Avui té preu, i té sostre.
 
+## La compensació no és nova: ve del Codi del 2008
+
+**Les «vuit versions consolidades» no són vuit lleis.** Al
+[Butlletí](../../../fonts/bopa.md) la cadena d'aquesta matèria són **quatre
+documents**: el **Codi de relacions laborals, Llei 35/2008**; el seu **text refós
+del 30-5-2018**; la **Llei 31/2018 de relacions laborals**, que és una llei nova i
+no una modificació; i la **Llei 3/2026**, que la modifica
+(`docs/raw/lleis/bopa/`).
+
+**I la compensació de 25 dies per any ja hi era el 2008, amb el mateix sostre.**
+L'article 90 del Codi, tal com el publica el text refós del 2018, diu que en els
+contractes indefinits l'empresa pot acomiadar **amb un preavís d'un dia per mes
+treballat fins a un màxim de 90 dies** i **«el pagament d'una compensació
+econòmica equivalent al salari de 25 dies per any treballat […], fins a un màxim
+de 365 dies»**. **La xifra que aquesta fitxa explica té divuit anys**, i **la Llei
+31/2018 la va traslladar sense tocar-la** —hi canvia la numeració, de l'article 90
+al 84, i la redacció de l'entorn, no l'import.
+
+**Les dues proteccions nul·les també vénen del 2008.** L'article 90 del Codi ja
+declarava **nul i sense efecte** l'acomiadament no causal **d'una treballadora
+embarassada** que ho notifiqui en quinze dies amb certificat mèdic, i el **d'un
+representant dels treballadors** que no l'accepti.
+
+**El que sí que és nou és del 2026.** La **Llei 3/2026** reescriu set articles
+—67 i 68 (permisos retribuïts i no retribuïts), **84 (acomiadament no causal)**,
+88 (formalitats del disciplinari), 92 (indemnitzacions), 99 (faltes molt greus) i
+101 (formalitats)—, i al 84 **estén la nul·litat**: ja no protegeix només el
+representant dels assalariats, sinó també **qui hagi presentat la seva
+candidatura a les eleccions de representants**. **La protecció comença amb la
+candidatura, no amb el càrrec.**
+
 ## Buits registrats
 
-- **Des de quan.** Aquesta és la llei consolidada del 2026 i el corpus **no ha
+- ~~**Des de quan.** Aquesta és la llei consolidada del 2026 i el corpus **no ha
   comparat les 8 versions**: no sap en quina es va introduir la compensació ni
-  què deia la norma que va llegir la font antiga.
+  què deia la norma que va llegir la font antiga.~~ — **`resolt` el 17-09-2026** a
+  «[La compensació no és nova: ve del Codi del 2008](#la-compensacio-no-es-nova-ve-del-codi-del-2008)»:
+  **els 25 dies per any i el sostre de 365 ja són a l'article 90 del Codi del
+  2008**. `Les vuit versions del consolidat comercial segueixen sense
+  identificar-se una a una; al Butlletí la cadena són quatre documents.`
 - **Quantes vegades s'aplica cada via**, no consta. Sense dades d'inspecció ni
   de sentències, no se sap si el no causal és la porta habitual o l'excepció.
 - ~~**L'article 99**, que taxa les causes disciplinàries, no s'ha llegit.~~ —
