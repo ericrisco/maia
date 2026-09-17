@@ -79,8 +79,41 @@ període d'execució** de la sentència» (article 1.2).
 
 ## Buits registrats
 
-- **La presó provisional** —requisits, durada màxima, revisió— és a l'article 29
-  i següents i **no s'ha llegit**.
+- ~~**La presó provisional** —requisits, durada màxima, revisió— és a l'article
+  29 i següents i **no s'ha llegit**.~~ — **`resolt` el 17-09-2026**, llegida al
+  material que el corpus ja tenia (`docs/raw/lleis/codi-procediment-penal.txt`).
+
+  **El rellotge d'entrada són 24 hores** (art. 29): el batlle ha de dictar aute
+  de processament o deixar la detenció sense efecte **dins les 24 hores**
+  des del lliurament, **després d'escoltar el Ministeri Fiscal i l'advocat**.
+  **Es prorroga fins a 72 hores** per a una llista tancada de delictes
+  —homicidi, assassinat, tortura, esclavatge, agressió o abús sexual, tràfic de
+  drogues, segrest, tràfic d'infants, tràfic d'armes, proxenetisme, terrorisme i
+  el seu finançament, blanqueig, associació contra el Principat o l'ordre
+  constitucional, i delictes contra la comunitat internacional—, **i durant la
+  pròrroga la persona va al Centre Penitenciari, en unitat separada.**
+
+  **La durada màxima va per escales** (art. 108):
+
+  | | |
+  | --- | --- |
+  | **Termini base** | **Quatre mesos** de presó o arrest provisional |
+  | **Delictes menors** | **Una pròrroga** de quatre mesos, i després **llibertat provisional preceptiva** |
+  | **Delictes majors** | **Dues pròrrogues** de quatre mesos |
+  | **La llista tancada de delictes greus** | **Una tercera**, i **excepcionalment una quarta** a petició del Ministeri Fiscal |
+  | **Un cop al tribunal jutjador** | **Sis mesos** (delictes menors) o **dotze** (majors) des de l'aute de conclusió |
+
+  **I el sostre que ho tanca tot, i és el que val la pena retenir**: **el
+  termini de presó provisional no pot excedir mai la meitat de la pena màxima
+  del delicte**, **i l'arrest no pot passar de vuit mesos.** **Arribat a aquella
+  meitat, la llibertat provisional és preceptiva** —no discrecional.
+
+  **La revisió no depèn de demanar-la** (art. 109): **el batlle pot decretar
+  d'ofici la llibertat provisional en qualsevol moment**, i el processat la pot
+  demanar **en tot moment**; el Fiscal informa **en cinc dies** i la resolució
+  s'ha de dictar **en deu**, **hagi informat o no**. **Si no es resol dins del
+  termini, es pot demanar al Tribunal directament**, sens perjudici de la
+  responsabilitat del batlle.
 - **Les mesures aplicables als menors** (internament, llibertat vigilada,
   prestacions en benefici de la comunitat) i les seves durades **queden
   pendents**: el corpus sap qui els jutja, no què els pot passar.
