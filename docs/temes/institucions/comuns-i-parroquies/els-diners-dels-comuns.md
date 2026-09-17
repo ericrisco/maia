@@ -105,6 +105,39 @@ circumscripció nacional— segons l'article 57.3 de la Constitució
 **Canviar aquesta fórmula demana el consentiment de les parròquies**, i per això
 el 38% és difícil de moure.
 
+## El dia que el Consell General va refusar la xifra
+
+**El 9 de febrer del 2017 el Consell General va votar l'article de les
+transferències i el va tombar.** El projecte de pressupost del 2017 fixava la
+transferència als comuns en **54.600.000 euros** i atribuïa a aquell apartat
+**rang de llei qualificada**, com ja havia fet el 2015 i el 2016. Per aprovar-lo
+calia **doble majoria absoluta** —vuit consellers de circumscripció parroquial i
+vuit de nacional—, i **no s'hi va arribar**. La conseqüència la diu la mateixa
+Llei 28/2018: **«en no prosperar l'apartat segon de l'article primer […], la Llei
+qualificada de transferències als comuns, del 4 de novembre del 1993, va esdevenir
+plenament vigent per a l'exercici 2017»**
+(`docs/raw/institucions/transferencies-comuns/llei-28-2018-suplement.txt`).
+
+**El crèdit pressupostat no va canviar; el que havia de pagar el Govern, sí.** Els
+54.600.000 euros es van mantenir com a crèdit inicial, però **es van liquidar
+segons els paràmetres de la llei del 1993**, no segons la xifra tancada. I com que
+l'article 3.5 d'aquella llei obliga a **regularitzar un cop el Consell General
+aprova la liquidació del pressupost de l'any anterior** —cosa que va passar el
+**13 de setembre del 2018**—, va caldre pagar la diferència.
+
+**La diferència va ser de 7.549.486,55 euros**, aprovada per la Llei 28/2018 com a
+suplement de crèdit. **I es va finançar amb deute nou**: l'article 2 diu
+literalment que **«aquest suplement de crèdit es finança mitjançant un nou
+endeutament»**.
+
+**Això és el que passa quan la xifra es fixa per llei qualificada i la majoria no
+hi és.** No és que els comuns cobrin menys: és que **es torna a la fórmula
+automàtica**, i la fórmula surt més cara. **Vuit lleis de suplement de crèdit per
+regularitzar transferències** —del 1999 al 2018— mostren que el mecanisme s'ha
+activat sovint. Per a aquesta fitxa importa perquè explica **per què la Llei
+18/2017 va canviar el sistema**: fixar un import base i una indexació al PIB **és
+la manera d'evitar la votació anual que el 2017 va fracassar**.
+
 ## Buits registrats
 
 - **Quant es transfereix avui**, no consta: la llei dona la xifra del **2018**
