@@ -54,9 +54,10 @@ Consell General**
 > calien […]: **30, 25, 20, 18 o 15 anys**, aquests van ser els números amb què
 > **es va especular durant mesos** i, finalment, **van quedar en 25**.»
 
-**Cinc xifres sobre la taula durant mesos.** El corpus no tenia constància que hi
-hagués hagut debat parlamentari sobre això. **Buit registrat:** les actes del
-Consell General de **1995**.
+**Cinc xifres sobre la taula durant mesos.** ~~El corpus no tenia constància que
+hi hagués hagut debat parlamentari sobre això.~~ — **`resolt` el 17-09-2026**:
+n'hi va haver, i les cinc xifres tenen nom, article i resultat de votació a
+[Les cinc xifres, al Diari de Sessions](#les-cinc-xifres-al-diari-de-sessions).
 
 I una nota per al corpus mateix: **la fitxa de
 [nacionalitat i residència](./nacionalitat-i-residencia.md) parla de vint anys
@@ -148,12 +149,81 @@ I l'argument que la sosté, que és la resposta directa a
 
 **Les dues ponències són al mateix llibre i es contesten sense citar-se.**
 
+## Les cinc xifres, al Diari de Sessions
+
+El corpus no tenia constància que hi hagués hagut debat parlamentari. **N'hi va
+haver, i està publicat.** El **Diari Oficial del Consell General núm. 10/1995,
+sessió ordinària del 5 d'octubre de 1995**, recull la votació article per article
+de la Llei qualificada de la nacionalitat, i **les cinc xifres hi són totes cinc,
+amb nom i resultat**.
+
+| Anys | Qui la proposava | On | Què va passar |
+| --- | --- | --- | --- |
+| **30** | **Agrupament Canillo-Massana**, esmena núm. 30 | article 11, regla general | **Va obtenir majoria en comissió** i el grup la va deixar caure «per fer un consens més ampli» |
+| **25** | el text de la proposició de llei | article 11 | **És el que va quedar** |
+| **20** | **Nova Democràcia**, esmena núm. 28 | article 11 | **Rebutjada: 7 sí, 21 no** |
+| **18** | esmena del **Sr. Francesc Rodríguez**, aprovada en comissió | article 6, **néts de nacionals** | **Va quedar al text**, com a termini més curt per a aquest supòsit |
+| **15** | **Vicenç Alay**, esmena núm. 7 | article 6 | **Rebutjada dins d'un bloc: 3 sí, 25 no** |
+
+**La primera cosa que la taula corregeix és una confusió possible**: **les cinc
+xifres no són cinc versions de la mateixa regla**. **El 30, el 25 i el 20** es
+discuteixen sobre **l'article 11**, la naturalització general; **el 18 i el 15**
+sobre **l'article 6**, els néts de nacionals. **El corpus ja pot dir que la llei
+del 1995 no té un sol rellotge, sinó dos.**
+
+**La segona és qui va cedir.** L'Agrupament Canillo-Massana explica al ple que la
+seva esmena dels trenta anys **«va obtenir majoria per poder prosperar»** i que
+van assumir els vint-i-cinc:
+
+> «Com podran comprendre els consellers de Nova Democràcia, el nostre grup
+> parlamentari ja ha demostrat bona voluntat per fer un **consens més ampli**, en
+> una llei tan important com és la de la nacionalitat, en **assumir els 25 anys**
+> de residència per a l'obtenció de la nacionalitat andorrana per naturalització,
+> però **no podem votar avui els 20 anys** que proposen en la seva esmena.»
+
+**Els vint-i-cinc anys no són el resultat d'una convicció: són el punt mig entre
+trenta i vint**, acceptat pel grup que en volia trenta i negat al grup que en
+volia vint.
+
+**L'argument dels qui en volien vint** era d'encaix amb un altre termini que ja
+existia:
+
+> «aquest termini permet **equiparar el ple exercici dels drets econòmics,
+> establert als vint anys de residència, amb la possibilitat d'accedir als drets
+> polítics** lligats a la ciutadania andorrana.»
+
+**I la tercera cosa és com va acabar.** Rebutjades les esmenes, **la llei es va
+aprovar per unanimitat**:
+
+> «En tractar-se d'una llei qualificada mereix una votació conjunta […] **Resta
+> aprovada per unanimitat.**»
+
+**Set consellers havien votat mitja hora abans a favor de baixar a vint anys i
+tots van votar a favor de la llei amb vint-i-cinc.**
+
+**El debat de globalitat havia estat abans**, el **25 de maig del 1995**
+(**DCG 5/1995**), i el diari d'octubre hi remet expressament: la posició de
+Coalició Nacional Andorrana «va quedar a bastament expressada el proppassat 25 de
+maig en el moment del debat de globalitat».
+
+`Font: Diari Oficial del Consell General núm. 10/1995
+([PDF](../../../raw/consell-general/dcg-1995/dcg-10-1995.pdf),
+[text](../../../raw/consell-general/dcg-1995/dcg-10-1995-raw.txt)). El PDF és a
+dues columnes: les cites s'han pres de l'extracció en ordre de lectura
+(`pdftotext -raw`) i se n'ha restituït l'espaiat, que la justificació del
+document menja. Drets del Diari **pendents de determinar**; **no entra en cap
+dataset**.`
+
 ## Buits registrats
 
 1. **Com datava el Servei d'Immigració la inscripció de residència** i si els
    anys de sojorn comptaven. **Prioritari i comprovable.**
-2. **Les actes del debat de la Llei de la nacionalitat de 1995** i les cinc
-   xifres.
+2. ~~**Les actes del debat de la Llei de la nacionalitat de 1995** i les cinc
+   xifres.~~ — **`resolt` el 17-09-2026 pel Diari Oficial del Consell General**,
+   **núm. 10/1995, sessió del 5 d'octubre**: vegeu
+   [Les cinc xifres, al Diari de Sessions](#les-cinc-xifres-al-diari-de-sessions).
+   `El debat de globalitat del 25 de maig del 1995 (DCG 5/1995) està baixat i
+   encara no llegit.`
 3. **Quan i com es passa de vint-i-cinc anys a vint.**
 4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
 5. **El Sindicat andorrà de treballadors** impulsat per l'ARA als anys vuitanta,
