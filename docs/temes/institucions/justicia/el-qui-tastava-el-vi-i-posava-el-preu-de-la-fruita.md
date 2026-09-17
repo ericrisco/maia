@@ -292,7 +292,21 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
    `Requereix saber si és el mateix que els vehedors de les visures; això
    segueix obert.`
 4. **Quan van desaparèixer els *pregoners***. **La font ho constata i no ho
-   data.**
+   data.** — **`parcial` el 17-09-2026, amb una fita per baix.** **Els [llibres
+   d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md)
+   el documenten viu el 23 de març de 1775**: l'edicte contra la gent vaga mana
+   que es publiqui i es fixi un exemplar a cada parròquia, i **encarrega al
+   notari que, «prenent relació del pregoner de aver-se així cumplert», ho noti
+   per diligència al Registre de Resolucions.**
+
+   **El pregoner, doncs, encara pregonava el 1775, i la seva relació feia fe.**
+   **El Llibre IV arriba al 1864 i no el torna a nomenar cap més vegada**, i
+   **el que hi apareix arreu és l'altra via, el manament porta per porta que
+   fan els *manadors***
+   ([definir el costum és legislar](../../consell-general/definir-el-costum-es-legislar.md)).
+
+   `Requereix una data de desaparició; el que hi ha és l'última vegada que
+   consta, i la via que el va substituir.`
 5. **El reglament dels Veguers del 19 de maig de 1608** sobre les vendes de
    justícia, **i els «precedents recents» que la font invoca sense citar.**
 6. **La prohibició de comerç de 1638 i la carta del Bisbe del 28 de juny**:

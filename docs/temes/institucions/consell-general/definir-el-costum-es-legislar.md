@@ -355,8 +355,38 @@ font és un present** *(pp. 108-109)*:
    la caça**, i **ho feia amb el mostassàs vigilant-ho a cada parròquia.**
 6. **Du Cange, *Glossarium*, entrada *Cotus***, que la font cita per al mot
    *cot*. **El corpus no el té.**
-7. **Els *manadors*** com a càrrec: **el corpus no en té res** fora d'aquesta
-   menció.
+7. ~~**Els *manadors*** com a càrrec: **el corpus no en té res** fora d'aquesta
+   menció.~~ — **`resolt` el 17-09-2026** des dels [llibres d'actes del Consell
+   General](../../../fonts/actes-historiques-consell-general.md), **i l'ofici
+   resulta ser l'esglaó de baix de tot el sistema.**
+
+   **Què fa.** **És qui porta els *manaments* casa per casa dins la seva
+   parròquia.** Quan el Consell mana una cosa «porta per porta», **qui truca a
+   la porta és el manador**: «*cada consolat ho fasse **manar als manadors** en
+   ses parròquies*» (Llibre II). **I la seva intimació val com a notificació
+   formal**: el Llibre III recull un cot imposat perquè **«se lí féu manament
+   per lo manador»**, i **una multa per «aver tingut mala correspondènsia al
+   manadó»** —**faltar-li al respecte tenia preu.**
+
+   **Com es proveïa: per torn de casa, i era obligatori.** El **25 de novembre
+   de 1720** el Consell mana als cònsols d'Ordino, **sota pena del cot de la
+   Terra**, que **«sòltien de manadós a la Rosella»** i que **dins de vuit dies
+   n'elegeixin un altre «a qui toque per torn»**.
+
+   **I hi afegeix una regla de gènere que val la pena llegir sencera**: que
+   alliberin la Rosella **«menos no sie viuda, que no tindrà altra persona en sa
+   casa»** —**la vídua sense ningú a casa no se n'escapa**—, i **una prohibició
+   general**: **«que ningun cònsol pugue fer fer manar per dones».**
+
+   **Les dues coses juntes diuen com funcionava el torn**: **queia sobre la
+   casa, no sobre la persona**, i **quan la casa no tenia home, el Consell
+   preferia prohibir-ho a admetre-ho** —**excepte quan no hi havia més remei.**
+
+   **I l'ofici es discutia.** Cap al **1761** els cònsols de la Massana fan una
+   representació **per eximir-ne els prohoms de les parròquies**, i **el Consell
+   resol «que quede a la llibertat de les parròquies lo eximir-se»**. **Ni hi
+   diu que sí ni que no: ho deixa a cada parròquia.** **El càrrec més humil del
+   país és l'únic del qual els notables van demanar per escrit de no fer-lo.**
 8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **cap cas.** —
    **`obert` encara pel que fa a les apel·lacions**, i **`parcial` per a tot el
    que l'envolta**, des de les [actes històriques del Consell
