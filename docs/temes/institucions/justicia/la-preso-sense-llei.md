@@ -311,6 +311,54 @@ penitenciària del 2023 hi afegeix —separar majors i menors dins el centre— 
 substitueix l'obligació d'instal·lacions específiques**; **conviu amb ella**, i
 la distància entre les dues és exactament el buit que queda.
 
+## La presó s'està ampliant, i no és plena
+
+**La Llei del pressupost del 2026** publica, per obligació de l'article 29.8 de
+la Llei general de les finances públiques, **les anualitats d'un contracte
+d'arrendament «per a l'ampliació del Centre Penitenciari»**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`).
+
+| | |
+| --- | --- |
+| **Ministeri** | Justícia i Interior |
+| **Inici** | **2026** |
+| **Acabament** | **2035** |
+| **Import total** | **402.582,33 €** |
+| **Partida** | `O00150520520-PR0227-D/20200/034001`, subconcepte **20200, lloguers d'edificis** |
+
+**Les deu anualitats, publicades una per una:**
+
+| 2026 | 2027 | 2028 | 2029 | 2030 |
+| ---: | ---: | ---: | ---: | ---: |
+| 28.215,00 € | 38.221,92 € | 39.101,02 € | 39.922,15 € | 40.760,51 € |
+
+| 2031 | 2032 | 2033 | 2034 | 2035 |
+| ---: | ---: | ---: | ---: | ---: |
+| 41.575,72 € | 42.407,24 € | 43.255,38 € | 44.120,49 € | 45.002,90 € |
+
+`Comprovació del corpus.` **Les deu anualitats sumen 402.582,33 €**, exactament
+l'import total imprès.
+
+### El que això obre, i el que no
+
+**El corpus té documentat que el centre tenia cinquanta-cinc persones en
+cent cinquanta-tres places** —**un terç d'ocupació**. **I alhora l'Estat
+arrenda espai per ampliar-lo, amb un contracte que arriba al 2035.**
+
+**El corpus no infereix per a què és l'espai.** El pressupost **dona el títol
+del contracte i prou**: «ampliació del Centre Penitenciari». **No diu si és per
+a més places, per a serveis, o per a la separació de menors que la llei exigeix
+des del 1999** («[la llei de menors ja exigeix instal·lacions
+específiques](#la-llei-de-menors-ja-exigeix-installacions-especifiques)»).
+
+**El que sí que es pot dir és que hi ha una decisió pressupostària presa, amb
+data i import**, i **que l'anomalia val la pena retenir**: **s'amplia un
+equipament ocupat a un terç.**
+
+`Una incoherència del document, registrada: la taula es titula «previsió de les
+quotes pluriennals a 35 anys» i en llista deu, del 2026 al 2035. El corpus fa
+servir les deu files, que sumen el total imprès.`
+
 ## Buits registrats
 
 1. ~~**La Llei qualificada penitenciària del 4 de març de 2007** i la **Llei del
@@ -329,7 +377,10 @@ la distància entre les dues és exactament el buit que queda.
 6. **La presó actual**: on és, quants interns té, i què ha passat des del 2007.
 7. **El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
    del 2023 **exigeix separar majors i menors dins el centre**, que no és el
-   mateix que **un centre específic**. — **`parcial` el 17-09-2026, i el que es
+   mateix que **un centre específic**. **I el 2026-09-18 s'hi afegeix una dada
+   que no el tanca però el situa**: **hi ha un contracte d'arrendament per a
+   l'ampliació del Centre Penitenciari, del 2026 al 2035, per 402.582,33 €**
+   —vegeu més amunt—, **i el pressupost no en diu la destinació.** — **`parcial` el 17-09-2026, i el que es
    tanca és l'origen de l'exigència**: **no la demanava només Canturri, la demana
    la llei des del 1999**. La **Llei qualificada de la jurisdicció de menors**
    obliga a fer l'internament **«en instal·lacions específiques per a menors, amb
