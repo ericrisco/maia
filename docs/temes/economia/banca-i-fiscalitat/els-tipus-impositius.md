@@ -130,8 +130,64 @@ retenir:
   els d'aquesta fitxa són els de la instantània.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
   es finança l'Estat.
-- **L'IRNR** (no-residents, 51 articles), les **bases de l'ordenament tributari**
+- ~~**L'IRNR** (no-residents, 51 articles), les **bases de l'ordenament tributari**
   (159), els **impostos especials** i l'**impost sobre les estades turístiques**
-  són al recull i **queden per llegir**.
+  són al recull i **queden per llegir**.~~ — **`resolt` el 17-09-2026, els
+  quatre.**
+
+  **Les bases de l'ordenament tributari** són a
+  [els altres impostos](./els-altres-impostos.md) —**prescripció de tres anys,
+  infraccions simples i de defraudació, i la Comissió Tècnica Tributària**— i
+  **l'impost sobre les estades turístiques**, a
+  [els pisos turístics](../turisme-i-neu/els-pisos-turistics.md) —**de 1 a 3 €
+  per persona i dia, només els set primers dies.**
+
+  **L'IRNR** (`docs/raw/lleis/irnr.txt`, **Llei 94/2010**): **el tipus és del
+  10% per als no-residents que operen mitjançant establiment permanent**
+  (article 20.1), **el mateix que l'impost de societats**, i **s'hi apliquen
+  les mateixes deduccions**. **El que el fa diferent són les exempcions de
+  l'article 15**, que dibuixen una política:
+
+  | Exempt | Per què importa |
+  | --- | --- |
+  | **Totes les rendes del capital mobiliari** de l'article 13 | **Els interessos i dividends cobrats des de fora no tributen aquí** |
+  | **Guanys per transmissió d'accions andorranes** si la participació **no ha superat el 25%** en els dotze mesos anteriors | **Vendre una participació petita d'una societat andorrana és lliure d'impost** |
+  | Guanys per transmissió de participacions en **organismes d'inversió col·lectiva** | **Sense llindar**, tret de les gestores |
+  | Indemnitzacions per danys personals, compensacions per acomiadament, **beques**, **premis literaris, artístics o científics rellevants** | |
+  | **Guanys de capital per transmissió lucrativa *mortis causa*** | **Heretar no genera guany gravable** |
+
+  **Els impostos especials** (`docs/raw/lleis/impostos-especials.txt`, **Llei
+  27/2008**) **són tres i cadascun es calcula amb una unitat diferent**:
+
+  | Impost | Unitat i tipus |
+  | --- | --- |
+  | **Tabac** | **Per paquet de 20 cigarretes o per quilogram**, amb **tipus específic i tipus *ad valorem***; **el tabac en branca, a 1 €/kg** |
+  | **Alcohol** | **Tipus normal de 25 € per hectolitre d'alcohol pur**, però **la cervesa a 0,0136 €/litre** i **el vi a 0,0312 €/litre** |
+  | **Hidrocarburs** | **Euros per unitat**, **els líquids mesurats a 15 °C**, **amb un element de CO₂** que surt del tipus per tona multiplicat pel factor d'emissió de l'annex 1 |
+
+  **La cervesa i el vi no tributen per alcohol sinó per volum de beguda**, i
+  **això canvia el resultat.** **L'aritmètica, feta:** 25 € per hectolitre
+  d'alcohol pur són **0,25 € per litre d'alcohol pur**; **un litre d'un
+  destil·lat de 40° en porta 0,4 i paga, doncs, 10 cèntims.** **Un litre de
+  vi en paga 3,12 i un de cervesa, 1,36.**
+
+  | Beguda | Impost per litre de producte |
+  | --- | --- |
+  | **Cervesa** | **1,36 cèntims** |
+  | **Vi** | **3,12 cèntims** |
+  | **Destil·lat de 40°** | **10 cèntims** |
+
+  **El destil·lat paga unes tres vegades el vi i unes set la cervesa**, **però
+  en porta molt més alcohol**: **per grau d'alcohol, el vi de 12° paga 0,26
+  cèntims i el destil·lat, 0,25.** **Les dues fórmules —per volum de beguda i
+  per alcohol pur— donen, de fet, una càrrega semblant per grau**, i **la
+  cervesa hi queda lleugerament per damunt**: **0,27 cèntims per grau si és de
+  5°**.
+  **El corpus registra el càlcul perquè es pugui revisar.**
+
+  **I el gasoil de calefacció té tipus reduït amb marcatge**: **ha de portar
+  colorant i traçador**, i **no es pot fer servir com a carburant de cap motor
+  autopropulsat** (article 28.4-5). `Requereix les taules senceres de tipus,
+  que són annexos llargs, i el valor de l'element de CO₂ per producte.`
 - **Quan i per què Andorra va passar de no tenir impostos directes a tenir-ne**
   és una història que el corpus encara no té.
