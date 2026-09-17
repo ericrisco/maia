@@ -247,11 +247,29 @@ i l'original quan diu «deia».**
 
 ## Buits registrats
 
-**El text autèntic en català no s'ha localitzat, i és la peça que aquest corpus
-més necessita d'aquest tractat.** L'article 26 el declara igualment autèntic.
-EUR-Lex **no l'ofereix**. `Requereix cercar-lo al BOPA o a l'arxiu del Consell
-General.` **Mentre no hi sigui, el corpus té el tractat en anglès i no en la seva
-pròpia llengua oficial.**
+~~**El text autèntic en català no s'ha localitzat, i és la peça que aquest
+corpus més necessita d'aquest tractat.**~~ — **`resolt` el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md)**, butlletí **105 del 1991**, del 13 de juny
+(`docs/raw/relacions-exteriors/acord-duaner/bopa-1991-acord-duaner-cee.txt`).
+**El tractat sencer en català, amb les dues cartes, els vint-i-sis articles i
+els annexos.** **EUR-Lex no l'ofereix i el BOPA sí**: **el corpus tenia el
+tractat en anglès i ara el té en la seva llengua oficial.**
+
+**L'article 26, en la seva pròpia redacció catalana, diu:**
+
+> «El present acord s'ha redactat en dos exemplars, en les llengües alemanya,
+> anglesa, danesa, espanyola, francesa, grega, italiana, neerlandesa,
+> portuguesa **i catalana**; **cada un d'aquests texts fa fe igualment**.»
+
+**Deu llengües, i el català és l'única que no era oficial de la Comunitat.**
+
+**Dues coses que la versió anglesa no deixava veure.** **La primera és qui
+signa**: la carta andorrana la firmen **«Pel President de la República
+Francesa», «Pel Bisbe de La Seu d'Urgell» i «Pel Govern d'Andorra»** —**tres
+signatures per una sola part**, i **és el 1990, abans de la Constitució: Andorra
+encara no pot comparèixer sola.** **La segona és l'annex I**, que llista les
+oficines de duana de l'article 8.1 amb **la toponímia en català**: **Tolosa
+Portet, L'Hospitalet - Pas de la Casa, La Tor de Querol, Perpinyà, Madrid.**
 
 **Cap dels vuit actes modificadors no s'ha llegit.** El corpus en té **la llista i
 el resultat**, no **què va decidir cada decisió del Comitè Mixt ni per què**. Les

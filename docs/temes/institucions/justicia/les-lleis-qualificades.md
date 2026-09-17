@@ -101,7 +101,35 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
   sola llei i aquest buit la comptava com una.** **La doble majoria protegeix
   exactament el que toca les parròquies**, i **per això les tres que hi entren
   a més de l'electoral són totes de règim comunal.**
-  **Segueix obert el text de la llei mateixa**: `requereix el BOPA`.
+  ~~**Segueix obert el text de la llei mateixa.**~~ — **`resolt` el 17-09-2026
+  des del [BOPA](../../../fonts/bopa.md)**, butlletí **51 del 1993**
+  (`docs/raw/lleis/bopa/llei-1993-regim-electoral-i-referendum.txt`). **La
+  Llei qualificada del règim electoral i del referèndum, aprovada en la sessió
+  del 2 i 3 de setembre del 1993**, i **la primera cosa que diu és que en
+  substitueix una altra que el corpus no tenia**: **la Llei Electoral adoptada
+  pel Consell General de les Valls l'any 1987.**
+
+  **L'exposició de motius explica per què hi ha dues circumscripcions**, i ho
+  diu amb una franquesa que no és habitual: la combinació de criteris
+  majoritaris i proporcionals busca alhora «l'adequada fidelitat a la voluntat
+  de l'elector i l'estabilitat de les institucions, **impedint la proliferació
+  de fraccionaments partidistes excessius** que fessin difícil l'existència
+  d'unes majories de govern sòlides».
+
+  **I els dos sistemes són efectivament oposats:**
+
+  | | |
+  | --- | --- |
+  | **Circumscripció parroquial** (art. 66) | **Ho guanya tot la candidatura més votada.** Si hi ha empat, **nova votació el diumenge següent**; si torna a empatar, **sorteig amb paperetes dins l'urna**, extretes pel president de la mesa |
+  | **Circumscripció nacional** (art. 67) | **Proporcional de «resta més elevada»** per als catorze escons, **i les restes només s'adjudiquen a candidatures que ja tinguin representació** |
+
+  **Les llistes són tancades i bloquejades a les dues**: alterar-les o indicar-hi
+  preferències **fa el vot nul** (arts. 64 i 65).
+
+  **I una escala de penes que el corpus no tenia**: **fins a tres anys de presó
+  per comprar vots** amb diners, espècies o promeses de feina; **fins a un any
+  per atemptar contra el secret del vot**; **multa de fins a 500.000 pessetes**
+  per la resta.
 - **No s'ha comprovat cap votació real.** Que la regla existeixi no diu com s'ha
   aplicat ni si alguna llei qualificada ha decaigut per no arribar-hi.
 
