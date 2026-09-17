@@ -136,9 +136,52 @@ Les dues coses queden registrades tal com apareixen.
   diu «fins on és permès», el llindar del registre continua sent de 183 dies, i
   l'instrument que aplicaria el concepte —el cens estadístic— es descriu en
   futur. Què impedeix aplicar-la del tot, el document no ho explica.
-- No s'ha llegit la Llei 13/2022 ni la Llei 9/2012 en original. Les dues
+- ~~No s'ha llegit la Llei 13/2022 ni la Llei 9/2012 en original. Les dues
   s'esmenten aquí perquè la metodologia les cita, no perquè se n'hagi
-  comprovat el text, la vigència ni els articles aplicables.
+  comprovat el text, la vigència ni els articles aplicables.~~ — **`resolt` el
+  17-09-2026**: totes dues baixades del [BOPA](../../../fonts/bopa.md) i
+  llegides pels articles que hi fan, **i la comprovació de vigència ha
+  canviat una de les dues cites.**
+
+  **La Llei 9/2012** (`docs/raw/lleis/bopa/llei-9-2012-mod-immigracio.txt`)
+  **defineix la residència legal a l'article 34**, i **la definició del 2012 ja
+  no és la vigent**. Les dues redaccions, l'una sobre l'altra:
+
+  | Versió | Text |
+  | --- | --- |
+  | **Llei 9/2012**, art. 34 | «La condició de resident […] s'atribueix a tots els estrangers titulars d'una **autorització d'immigració vigent**, **a excepció dels treballadors fronterers**.» |
+  | **Llei 16/2013**, art. 10, que el reescriu | «…a excepció dels treballadors fronterers **i dels estrangers titulars d'una autorització de treball sense residència**.» |
+
+  **L'exclusió que s'afegeix el 2013 és exactament la figura que fa divergir el
+  recompte legal del recompte estadístic**: **algú que treballa aquí i no hi
+  resideix legalment, però que pot ser-hi més de dotze mesos.**
+  (`docs/raw/lleis/bopa/llei-16-2013-mod-llei-9-2012-immigracio.txt`).
+
+  **Comprovada tota la cadena** —Llei 16/2013, Llei 14/2016, Llei 10/2018,
+  Llei 11/2022 i el títol II de la Llei 5/2025—: **només la del 2013 toca
+  l'article 34**; **les altres quatre, no**, i **el títol II de la Llei 5/2025
+  en modifica vint articles sense arribar-hi.** **La Llei 9/2012 no té text
+  consolidat**, de manera que **la definició vigent només es pot llegir
+  encaixant les modificacions una per una**.
+
+  **I la definició legal segueix sent de perímetre, no de permanència**: **és
+  resident qui té el paper**, no qui hi viu. **La definició estadística fa el
+  contrari** —dotze mesos de residència habitual, del Reglament europeu
+  763/2008—, i **aquesta fitxa existeix perquè les dues no compten el mateix.**
+
+  **La Llei 13/2022, del 12 de maig, del Pla d'estadística 2022-2025**
+  (`docs/raw/lleis/bopa/llei-13-2022-pla-estadistica-2022-2025.txt`) **no
+  defineix cap concepte de resident**: **és un pla d'actuacions.** El que sí
+  que fa, i és el que la metodologia hi busca, és **comprometre la creació del
+  registre estadístic de població**: «posar en producció el **registre
+  estadístic de població** basat en la integració estructurada de la informació
+  individual provinent dels **registres administratius**, com els **censos
+  parroquials**, el **moviment natural de la població** i els **fluxos
+  migratoris**», per articular «el **cens estadístic de la població** d'acord
+  amb els estàndards europeus i internacionals» (actuació 11). **El pla
+  cobreix 2022-2025 i el corpus el llegeix el 2026**: `Requereix saber si el
+  registre estadístic de població va arribar a entrar en producció i si hi ha
+  un pla d'estadística posterior al 2025.`
 - No s'ha identificat cap data de publicació ni historial de revisions de la
   metodologia. Es presenta com a A001 del Pla 2022-2025, mentre que la nota
   mensual del juliol de 2026 remet al Pla 2026-2029. No s'ha comprovat si els
