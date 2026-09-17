@@ -114,11 +114,11 @@ Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419, i
 | **1933, juliol** | El **Tribunal de Corts destitueix el Consell General** i inhabilita la Sindicatura. Noves eleccions | C |
 | **1933-34** | Els coprínceps regulen el **recurs en queixa**, que pot **revocar un acord del Consell** | C |
 | **1934** | **Boris Skossyreff** es proclama rei | B |
-| **1935** | Concessió de **Ràdio Andorra**; emet des del **1939** | P |
+| **1935** | Concessió de **Ràdio Andorra**, **el 19 d'agost** *(actes, ANA FCV 7.291; datada el 17-09-2026)*; emet des del **1939** | P + **actes** |
 | **1935, novembre** | **El síndic Pere Torres suspèn una obra de teatre** per la disputa entre els dos veguers | [la vida teatral](../../cultura/teatre/la-vida-teatral.md) |
 | **1937-1960** | **Francesc Cairat**, síndic **23 anys**: **es treu el límit de mandat** | B |
 | **1938** | **Oficialitat del català**. «Abans no n'hi havia hagut necessitat». **Documentat el 17-09-2026**: **dos acords del Consell, l'1 i el 20 de juny**, que **no declaren l'oficialitat sinó que n'obliguen l'ús** en súpliques, cartells i rètols ([la consciència nacional](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)) | P + **actes** |
-| **1946** | ***Les Valls d'Andorra***, de **Bonaventura Riberaygua** | P |
+| **1946** | ***Les Valls d'Andorra. Recull documental***, de **Bonaventura Riberaygua i Argelich**, Barcelona, Bosch. **Era el secretari del Consell General** del 1935 al 1950 *(actes, 17-09-2026)* | P + **actes** |
 | **1951 · 1954** | **6.310** i **5.503 habitants** | [demografia](../../societat/demografia/la-composicio-per-nacionalitats.md) |
 | **1958 → 1962** | **Ràdio de les Valls**, després **Sud Radio** | P |
 | **1959** | El Consell General demana **tancar les dues emissores** | P |

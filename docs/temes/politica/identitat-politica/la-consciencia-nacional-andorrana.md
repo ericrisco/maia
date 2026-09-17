@@ -322,7 +322,28 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    hi surt, amb una divergència ja registrada** a la fitxa de Ràdio Andorra.
    **El que segueix obert és Ràdio de les Valls**, **de la qual el corpus només
    té el nom dins aquesta cronologia.**
-9. Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**.
+9. Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**. —
+   **`parcial` el 17-09-2026: del primer ja se sap la referència i, sobretot,
+   qui el va escriure.** Font: les [actes del Consell
+   General](../../../fonts/actes-historiques-consell-general.md).
+
+   **Riberaygua Argelich, Bonaventura (1946). *Les Valls d'Andorra. Recull
+   documental*. Barcelona: Bosch, Casa Editorial.**
+
+   **I l'autor no era un estudiós de fora: era el secretari del Consell
+   General.** **Es presenta a la plaça el 18 de desembre del 1934** —**amb dos
+   competidors, Candido Rossell i Roc Rossell**—, **la guanya el 23 de febrer
+   del 1935 per tres anys**, **signa la primera acta el 15 d'abril del 1935**,
+   **el 21 de març del 1938 el Consell el fa secretari «per temps indefinit»** i
+   **hi és fins al 1950.**
+
+   **Un «recull documental» publicat el 1946 per qui portava quinze anys tenint
+   les actes a les mans.** **No és una font externa que mira Andorra: és
+   l'arxiu del Consell parlant en nom propi**, i **això canvia com s'ha de
+   llegir.**
+
+   **De Puigoriol (1963) la síntesi no en diu res**: `Requereix el segon llibre
+   de país.`
 10. **El conveni postal de 1930** signat sense Andorra.
 11. ~~**L'oficialitat del català el 1938**: quina norma, i per què just
     llavors.~~ — **`resolt` el 17-09-2026 quant a la norma**, i **la font
