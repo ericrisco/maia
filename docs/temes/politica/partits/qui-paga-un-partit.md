@@ -78,9 +78,31 @@ dels 16 anys** (article 6.4).
 
 ## Buits registrats
 
-- **El finançament públic** dels partits —si n'hi ha i amb quin criteri— no s'ha
+- ~~**El finançament públic** dels partits —si n'hi ha i amb quin criteri— no s'ha
   llegit: els 50 articles inclouen un capítol de finançament electoral que el
-  corpus **només ha tocat pel costat privat**.
+  corpus **només ha tocat pel costat privat**.~~ — **`resolt` el 17-09-2026**,
+  llegit a la **Llei 43/2022 de text consolidat**
+  (`docs/raw/lleis/bopa/llei-43-2022-partits-politics-finançament.txt`) i
+  buidat a
+  [el finançament dels partits](../sistema-electoral/el-financament-dels-partits.md).
+  **N'hi ha, i té dos canals amb criteris diferents.**
+
+  **La subvenció de representació és l'únic finançament públic ordinari**, i
+  **s'obté amb el 10% dels vots emesos a la circumscripció encara que no es
+  tregui cap escó**: **5.000 € de base per a la llista nacional al Consell
+  General**, **1.400 € per a la parroquial** i **1.400 € per a la comunal**.
+  **I les candidatures no presentades per cap partit no la poden rebre, ni
+  que obtinguin representació.**
+
+  **La subvenció electoral es paga per resultat**: **150 € per escó i 5 € per
+  vot a les generals**, **30 € per lloc de conseller de comú i 5 € per vot a
+  les comunals**, **amb el topall de les despeses declarades i justificades pel
+  Tribunal de Comptes.**
+
+  **El criteri de fons, doncs, no és el mateix als dos canals**: **el primer
+  premia arribar al 10% i tenir partit**, **el segon paga per vot i per escó**.
+  **Un partit pot cobrar sense representació i una candidatura independent pot
+  tenir-ne i no cobrar la de representació.**
 - **Si mai s'ha instat la suspensió o dissolució d'un partit andorrà**, no consta.
 - **Quantes donacions publica el Tribunal de Comptes** i de quin ordre de
   magnitud, tampoc.
