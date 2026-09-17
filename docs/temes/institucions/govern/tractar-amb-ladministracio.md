@@ -208,7 +208,80 @@ fins i tot les subvencions atorgades sense publicitat ni concurrència.
   graduar «però no poden establir noves infraccions o sancions ni alterar la
   naturalesa ni els límits» de les legals.**
 
-  `Requereix, encara, els capítols de contractes administratius (quart), de
+  ~~`Requereix, encara, els capítols de contractes administratius (quart), de
   responsabilitat administrativa (cinquè) i de béns de les persones públiques
   (sisè), que inclou els béns comunals i que aquesta lectura només ha
-  localitzat.`
+  localitzat.`~~ — **`resolt` el mateix 17-09-2026: els tres, llegits.**
+
+  **Capítol quart, contractes (articles 56 a 61).** **Publicitat i concurrència
+  són la regla i la nul·litat és la sanció**: els contractes que les
+  transgredeixin **«seran nuls, llevat que motius d'urgència i d'extrema
+  necessitat en justifiquin l'adjudicació sense formalitats prèvies»**
+  (article 56). **S'exceptuen els que requereixen qualificació especial i els de
+  petita quantia.**
+
+  **I l'equilibri del contracte administratiu hi és, sencer, en dos articles
+  seguits.** **L'Administració pot modificar o rescindir el contracte «si les
+  necessitats del servei públic ho exigeixen»**, indemnitzant els danys
+  efectivament ocasionats (article 59.2); **a canvi, el contractant té dret a
+  indemnització per les mesures generals que afectin greument un element del
+  contracte i pels «fets nous, estranys a la voluntat de les parts», que alterin
+  les condicions econòmiques previstes** (article 60). **I mentre es discuteix,
+  no es pot parar**: **els concessionaris «estan obligats a garantir l'execució
+  de llurs obligacions sense cap interrupció»** (article 61).
+
+  **Capítol cinquè, responsabilitat (articles 62 a 68), i és el més ric.**
+  **Andorra enumera quatre causes de responsabilitat administrativa** (article
+  63), **i dues no són gens òbvies**:
+
+  | Causa | Què vol dir |
+  | --- | --- |
+  | **Falta de servei** | mala organització, funcionament il·legal o tècnicament defectuós, **o manca de funcionament quan hi estava obligat** |
+  | **Risc anormal** | activitats que exposen alguns administrats **«a un perill particular i excepcional, àdhuc si aquelles activitats es portaven a terme en interès general»** |
+  | **Trencament de la igualtat** | **refusar a algú avantatges donats a d'altres en la mateixa situació**, o imposar-li càrregues superiors, sense motiu legítim |
+  | **Retard en el compliment de sentències fermes i executives** | l'Administració respon **per no obeir el jutge a temps** |
+
+  **Que el retard a complir una sentència sigui, en si mateix, causa
+  d'indemnització és una peça que el corpus no tenia.**
+
+  **El perjudici ha de ser «cert, avaluable econòmicament», individualitzable i
+  ha de lesionar una situació protegida pel dret** (article 62), i **la
+  indemnització «ha de cobrir exactament el perjudici causat […] i no ha de
+  produir un enriquiment» de la víctima** (article 64), **avaluada a la data de
+  la reparació, no a la del dany.**
+
+  **El termini per reclamar és d'un any des del fet** (article 65) —**curt**—, i
+  **cal esgotar la via administrativa abans d'anar al jutjat.**
+
+  **I hi ha la porta personal contra el funcionari** (articles 62 i 67): **si el
+  dany ve de dol o negligència greu deslligable de la funció**, se'n pot exigir
+  la responsabilitat personal; **l'Administració pot demanar que l'emplacin com
+  a part**, i **si la condemnen sense haver-ho fet, pot repetir contra ell amb
+  una acció de rescabalament**
+  ([a Andorra es pot perseguir els funcionaris](../comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md)).
+
+  **Capítol sisè, béns (articles 69 a 98), amb tres coses que valen per al
+  país.**
+
+  - **Els béns de domini públic són inalienables, imprescriptibles i
+    inembargables** (article 79), i **la desafectació es pot produir sola**:
+    **vint anys sense fer-ne ús públic** i el bé passa al patrimoni privat de
+    l'ens (article 71.b). **A l'inrevés n'hi ha prou amb un any d'ús de fet**
+    (article 72.b). **El domini públic andorrà s'adquireix per la pràctica en un
+    any i es perd per l'oblit en vint.**
+  - **El domini públic no cobreix tothom**: **«les disposicions del present
+    capítol no són aplicables als béns pertanyents als Coprínceps o a
+    l'Església»** (article 69). **Dos patrimonis queden fora del règim general
+    de béns públics del país.**
+  - **Els béns comunals van al règim de domini públic sempre**, afectats o no
+    (article 98), **i l'ús privatiu n'és concessió administrativa de fins a
+    noranta-nou anys** —**el mateix sostre que per a qualsevol ocupació
+    privativa amb obres permanents** (article 97). **La permuta de territori
+    comunal per territori privat és possible amb taxació judicial, informació
+    pública i el límit que la diferència de valor no passi del cinquanta per
+    cent del bé més alt.**
+
+  **L'ús comú especial del domini públic té una regla de repartiment que val la
+  pena retenir** (article 95): **les autoritzacions s'atorguen directament**;
+  **si el nombre s'ha de limitar, per licitació**; i **si tots els candidats
+  reuneixen les mateixes condicions, per sorteig.**
