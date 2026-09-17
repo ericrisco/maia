@@ -325,17 +325,18 @@ sis anys.`
 **Quatre lectures que la sèrie imposa.**
 
 **Primera, els andorrans creixen en nombre i baixen en proporció.** Passen de
-**38.213 a 40.113** —**+1.900 persones**— i alhora de **48,6% a 44,7%**. **Van
-deixar de ser majoria absoluta del país entre el 2021 i el 2022.**
+**38.213 a 40.113** —**+1.900 persones**— i alhora de **48,6% a 44,7%**. **Ja el
+2021 no eren majoria absoluta, i en cinc anys n'han perdut gairebé quatre punts
+més.**
 
 **Segona, el creixement del país és el bloc «altres».** De **8.537 a 15.932**:
-**+7.395 persones en cinc anys, un +86,6%**. Això és **el 63% de tot el
+**+7.395 persones en cinc anys, un +86,6%**. Això és **el 66% de tot el
 creixement de la població** del període, que va ser d'11.174 persones.
 
 **Tercera, la comunitat portuguesa és l'única que perd gent cada any.** De
 **8.979 a 8.324**: **−655 persones**, **−7,3%**, **sense cap any de repunt**.
-Passa del tercer lloc a mantenir-lo per poc marge sobre un bloc «altres» que ja
-la dobla.
+Continua sent la tercera comunitat estrangera, però el bloc «altres» ja és
+**1,9 vegades** més gran que ella.
 
 **Quarta, la francesa creix més de pressa que l'espanyola**, en percentatge:
 **+23,2%** contra **+8,9%** en cinc anys — encara que en nombres absoluts
