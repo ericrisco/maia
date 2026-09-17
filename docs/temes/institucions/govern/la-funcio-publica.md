@@ -378,7 +378,26 @@ en una de gran ocuparien estructures diferents.**
   n'hi ha avui.
 - **Els banders**: cos especial i cap fitxa al corpus.
 - **Tràmits**, la finestreta única oberta el gener del 1999.
-- **El Reglament de formació del 14 d'agost de 1996** i per què va estar suspès.
+- ~~**El Reglament de formació del 14 d'agost de 1996** i per què va estar
+  suspès.~~ — **`parcial` el 17-09-2026, i el motiu pel qual no es trobava és que
+  no era públic.** El **Reglament de formació del personal de l'Administració
+  general del 22-3-2000**
+  (`docs/raw/institucions/funcio-publica/reglament-formacio-2000-03-22.txt`) el
+  nomena a la seva **disposició derogatòria primera**: **«Queda derogat l'anterior
+  Reglament intern de formació del personal de l'Administració general, de data 14
+  d'agost de 1996.»** **Era un reglament intern**, i per això **no és al
+  [BOPA](../../../fonts/bopa.md)**: la cerca de tot el 1996 no en retorna cap.
+  **El que el va substituir sí que es publica**, i amb ell arriba una tipologia de
+  formació en tres eixos —**per elecció** (relacionada amb el lloc de treball, que
+  pot ser decidida pel superior o de lliure elecció, i **en tots dos casos «té
+  caràcter obligatori a requeriment» de l'Administració**; o no relacionada, que
+  és voluntària), **per temporalitat** (de base per als nous i per als canvis de
+  lloc, i continuada) i **per contingut** (general i específica)—, i el dret a
+  fer-la **dins de l'horari laboral «sempre que sigui possible», excepte la
+  formació continuada general, que es fa sempre fora**. **Deroga també els
+  articles 12 a 15 del Reglament del Cos de Banders.** `Per què el del 1996 va
+  estar suspès segueix sense resposta: el text intern no és al Butlletí i el del
+  2000 no ho explica.`
 - **El Pla integral de formació del 2001**: es va fer?
 - **Es va crear mai una escola d'administració pública**, ni que fos temporal?
 - **Si Xavier Llovera** és el mateix del patrimoni cultural.
