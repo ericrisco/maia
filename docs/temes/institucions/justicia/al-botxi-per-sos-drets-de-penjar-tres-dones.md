@@ -297,6 +297,33 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    **El corpus no afirma quantes dones van ser penjades el 1621**: **el full
    compta imports, no persones**, i **posa al mateix sac penjades, desterrades i
    fugides.** `Requereix les sentències; el que hi ha és la comptabilitat.`
+
+   **I hi ha una quarta data que el corpus no tenia: 1666.** El **Llibre II
+   d'actes** la porta, i **és la peça més dura de totes**, perquè **ja no és una
+   despesa sinó un incentiu.** **El 16 d'agost de 1666, essent Corts obertes**,
+   el Consell mana als seus *raonadors* que diguin als veguers i al jutge que
+
+   > **en cas se fàcia instància de bruixes i continuïn de fer justícia**, **de
+   > cada una que es penjarà** el Consell farà **d'ajuda de costa per al gasto
+   > de la Cort **vint-i-cinc escuts***, **i de cada una que desterraran la
+   > meitat menys**, **«y assò perquè s'és usat en altra ocasió»**
+
+   **El parlament andorrà oferia al tribunal vint-i-cinc escuts per cada dona
+   penjada i la meitat per cada dona desterrada**, **i ho justificava dient que
+   ja s'havia fet abans.**
+
+   **Dues precisions que l'acta mateixa posa i que el corpus no suavitza ni
+   amplia.** **El pagament es diu «ajuda de costa per al gasto de la Cort»**:
+   **formalment és una contribució a les despeses del tribunal, no un preu.**
+   **I s'aplica només «per les que no tindran entre lo Consell fiador»** —
+   **només per a les que no tenien qui les avalés davant del Consell.**
+   **Qui tenia qui responia per ella no entrava al tracte.**
+
+   **Amb això, la sèrie andorrana de la bruixeria que el corpus té passa de tres
+   dates a quatre** —**1604, 1621, 1630 i 1666**— i **la darrera mostra el
+   mecanisme funcionant al revés del que s'esperaria**: **no és el senyor qui
+   empeny el país a perseguir, és el país qui ofereix diners al tribunal perquè
+   continuï.**
 2. **A qui van anar les 219 lliures restants** de les 260 de composicions.
    **El full només n'atribueix 41.**
 3. **Com va acabar el plet de 1608** portat a la Inquisició de Barcelona.
