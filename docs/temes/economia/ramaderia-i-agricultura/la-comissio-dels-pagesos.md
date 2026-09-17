@@ -61,20 +61,41 @@ desaparèixer quan van arribar el comerç i la neu.
 - ~~**Quines lleis modifica exactament** la 31/2022 i en quins termes.~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
   **98 del 2022** (`docs/raw/lleis/bopa/llei-31-2022-sectors-ramader-agricola.txt`).
-  **En modifica sis, i cap no és de ramaderia excepte la primera:**
+  > **Correcció del 17-09-2026, i el corpus n'explica la causa.** **Aquesta
+  > fitxa deia «en modifica sis».** **En modifica onze.** **La xifra sortia d'un
+  > fitxer que semblava sencer i era una sola pàgina del document**: **la cerca
+  > del BOPA torna, per a alguns documents, la URL d'una pàgina amb prefix
+  > numèric al nom, i es baixa sense cap error**
+  > ([la fitxa del BOPA](../../../fonts/bopa.md)). **El fitxer començava a
+  > mitja frase i ningú no ho va mirar.** **El client ja baixa el document
+  > sencer.**
 
-  | Llei modificada | Articles |
+  **En modifica onze, i només una és de ramaderia:**
+
+  | # | Llei modificada |
   | --- | --- |
-  | **Llei d'agricultura i ramaderia**, del 22 de juny del 2000 | **22, 23, 24 i 25** |
-  | **Llei 29/2008 del cadastre** | **32** |
-  | **Llei per al foment de la rehabilitació del parc immobiliari** i l'eficiència energètica | — |
-  | **Llei 16/2017 general de l'allotjament turístic** | **21, 22 i 30** |
-  | **Llei sobre la utilització dels signes d'Estat**, del 20 de juny del 1996 | **2** |
-  | **Llei 12/2021 del Codi de la circulació** | **99** — [l'exempció d'ITV dels vehicles agrícoles](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) |
+  | **1a** | **Llei general d'ordenació del territori i urbanisme** — per facilitar edificacions agrícoles i ramaderes, **i per permetre llicències de rehabilitació i canvi d'ús d'edificis anteriors al 1950** |
+  | **2a** | **Els estatuts de Ramaders d'Andorra, SA** |
+  | **3a** | **Llei del comerç** — **les explotacions inscrites al REA no s'han d'inscriure al Registre de Comerç** per vendre directament el que produeixen |
+  | **4a** | **Llei d'agricultura i ramaderia** — **i hi afegeix que els ajuts s'incrementin cada any per IPC** |
+  | **5a** | **Llei del cadastre** |
+  | **6a** | **Llei de foment de la rehabilitació del parc immobiliari** |
+  | **7a** | **Llei general de l'allotjament turístic** — **crea el grup d'*agroturisme*** |
+  | **8a** | **Llei de marques** — **hi afegeix un capítol de marques de garantia o de certificació** |
+  | **9a** | **Llei de taxes de l'Oficina de Marques** |
+  | **10a** | **Llei sobre la utilització dels signes d'Estat** |
+  | **11a** | **Llei del Codi de la circulació** — [l'exempció d'ITV dels vehicles agrícoles](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md) |
+
+  **I una dotzena que no modifica res**: **encomana al Govern que en un any
+  presenti els textos consolidats de les onze lleis tocades.**
 
   **Això és el que val la pena retenir d'aquesta llei**: **per fer viable la
-  pagesia, el legislador del 2022 no toca la llei agrària i prou.** **Toca el
-  cadastre, l'allotjament turístic, els signes d'Estat, la rehabilitació
-  d'edificis i el codi de la circulació.** **Una llei de sector que arriba a sis
-  lleis de matèries diferents, i la meitat no tenen res a veure amb el camp.**
+  pagesia, el legislador del 2022 gairebé no toca la llei agrària.** **Toca
+  l'urbanisme, el comerç, el cadastre, el turisme, les marques, els signes
+  d'Estat i el codi de la circulació.** **Una llei de sector que arriba a onze
+  lleis de matèries diferents, i deu no tenen res a veure amb el camp.**
+
+  **El mecanisme de fons és un de sol i es repeteix a cada disposició**: **no
+  crea drets nous per als pagesos, sinó que fa que l'estar inscrit al Registre
+  d'Explotacions Agràries valgui davant de cada una d'aquelles lleis.**
 - **Si la CNRA s'ha reunit** des del 2022, i amb quin resultat, tampoc.
