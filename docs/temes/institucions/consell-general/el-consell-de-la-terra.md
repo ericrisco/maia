@@ -214,6 +214,77 @@ l'assemblea de tots:
 
 **El parlament d'Andorra neix d'una queixa logística.**
 
+### I des del 17-09-2026 el corpus té els dos documents, no el resum
+
+**Les [actes històriques del Consell
+General](../../../fonts/actes-historiques-consell-general.md) en donen el text
+sencer**, i **canvien cinc coses.**
+
+**Primera, una esmena de lletra que canvia la imatge.** **No és «tants camps
+tants enteniments»: és «tants caps tants enteniments».** **Caps, no camps.** El
+pergamí episcopal diu: **«sia perillosa cosa fer ajustament de moltes gents,
+majorment axí grosseres e **on tants caps tants enteniments se demostren**»**.
+**No parlen de la dispersió de les finques: parlen que com més gent, més
+parers.** **La versió del corpus feia geografia d'una frase que era política.**
+
+**Segona, on són.** **El privilegi episcopal és a l'ANA, fons Casa Rossell,
+pergamí núm. 40.529**, 259 × 537 mm, **amb restes del fil de llana blanc, verd i
+taronja que sostenia el segell del bisbe**. **La ratificació comtal és a l'ANA,
+ASC, pergamí núm. 1.222**, amb restes de la tira que sostenia el segell del comte
+de Foix.
+
+**Tercera, la llengua.** **La súplica dels andorrans va inserida en català dins
+un privilegi llatí**, i **la ratificació comtal del desembre és tota en
+català.** **El document fundacional del parlament d'Andorra és bilingüe perquè
+la petició es va escriure en la llengua del país i la concessió en la de la
+cúria.**
+
+**Quarta, i és la que més pesa: el privilegi neix amb una excepció i amb data de
+caducitat.** El bisbe els autoritza a defensar els drets de les valls «*in
+iudicio vel extra, contra et adversus quascumque personas*» —contra qualsevol
+persona de qualsevol estat, sexe, grau, condició o preeminència— i tot seguit
+posa el límit:
+
+> «*…**excepto quod hec nequeant facere seu exercere contra nos ac successores
+> nostros in ecclessia Urgellensi ullo modo**.*»
+
+**Contra qualsevol menys contra nós i els nostres successors a l'església
+d'Urgell.** **El parlament andorrà neix amb la prohibició expressa d'actuar
+contra un dels seus dos senyors.**
+
+I dues vegades, a l'obertura i al tancament, el bisbe hi afegeix que la
+concessió val **«*dum de nostro processerit beneplacito voluntatis et non
+ultra*»** — **mentre ens plagui, i no més.** **El lloctinent comtal ho repeteix
+en català al desembre**: **«E açò per tant com a dit senyor comte plaurà, e no
+pus.»** **Els dos coprínceps concedeixen el parlament a precari.**
+
+**Cinquena, per què calien dos documents.** **El de desembre ho diu sense
+embuts**: de la llicència episcopal **«no poden ni deuen usar sens consentiment
+del senyor comte o de son veguer»**. **Mig privilegi no servia de res.** I el
+lloctinent hi afegeix la raó de la pressa: **el comte era «en les partides de
+Monpayler e devers Avinyó»** i **el plet de Puigcerdà ja s'estava menant**, de
+manera que esperar-lo hauria portat perill.
+
+**I una sisena cosa, que el corpus no tenia enlloc**: **el mateix privilegi de
+l'11 de febrer conté una segona concessió que no té res a veure amb el
+parlament**, i és **una norma de justícia**:
+
+> Que **cap habitant de les Valls no hagi de pagar salari ni despeses al notari
+> ni al saig** per informacions, enquestes i processos **si la persona és
+> trobada innocent**.
+
+**La raó que en donen els prohoms és una frase de dret que es podria firmar
+avui**: **«indirectament per llur innocència e no culpa són punits»**, i **«baste
+que per la sola accusació e per veure la veritat de lur innocència sien prou
+affligits»**. **El 1419 Andorra va demanar, el mateix dia que el seu parlament,
+que ser absolt no costés diners.**
+
+> **Una diferència de xifres que el corpus registra i no arbitra**: **la súplica
+> demana «dos o tres hòmens de cascuna parròquia»**, i **aquesta fitxa diu «tres
+> o quatre representants»**. **El privilegi no en fixa cap nombre**: diu
+> «*certas personas*» i deixa el compte a la congregació. `Requereix saber quan
+> es fixa el nombre en quatre per parròquia.`
+
 I abans, el **1364**, ja hi havia hagut representació: **tres síndics i
 procuradors de les universitats de les valls adrecen una cèdula a la Cort per
 protestar pels abusos dels veguers**.
