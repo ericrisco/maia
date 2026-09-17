@@ -1,0 +1,2235 @@
+                            A092. Comptabilitat Nacional Bàsica d’Andorra
+                       Estimació semi-definitiva del PIB 2024: valor real i nominal
+                                       Data de publicació: dijous, 18/12/2025
+                                                www.estadistica.ad
+
+
+   Resum
+
+   Segons l’estimació semi-definitiva per a l’any 2024, el PIB nominal se situa en els 3.736,4 milions
+   d’euros, el que suposa una variació interanual del +6,7% respecte l’any 2023. D’altra banda, el PIB
+   real s’ha situat per aquest mateix any en 3.002,3 milions d’euros, amb una variació anual del
+   +3,8%.
+
+
+   En comparació a l’estimació avançada que estimà un creixement nominal del +6,6%, la variació del
+   PIB, segons l’estimació semi-definitiva, finalment és de 0,1 punts percentuals més, degut
+   principalment en l’obtenció d’informació directa per diferents sectors d’activitats entre les dues
+   estimacions.
+
+
+   L’anàlisi sectorial, en termes nominals, mostra la continuïtat de creixement de gairebé la totalitat dels
+   sectors. Es consolida l’estabilització de creixement de sectors destacats com ara, el sector de la
+   construcció, amb un creixement del +13,9%, el sector de les activitats professionals, científiques i
+   tècniques amb una variació del +12,3%. El sector de l’Administració pública, educació, salut i treballs
+   socials i de l’hoteleria i restauració també experimenten un creixement destacable, amb una variació
+   del +10,6% i del +8,3% respectivament. El sector d’activitats immobiliàries i el sector del comerç a
+   l’engròs i al detall i reparació de vehicles, continuen experimentant un creixement positiu, amb una
+   variació del +6,0% i del +4,4% per aquest 2024.
+
+
+   D’acord amb la població estimada, el PIB nominal per càpita suposa un total de 42.900 euros l’any
+   2024, és a dir, una variació anual del +4,3%, mentre que el PIB real per càpita se situa en 34.471
+   euros, amb un increment del +1,5% respecte l’any anterior.
+
+
+   Finalment, pel que fa a la pressió fiscal de l’any 2024, i segons el principi de meritament, l’estimació
+   semi-definitiva del PIB confirma la xifra del 27,5%, amb un increment de 1,6 punts percentuals
+   respecte a la pressió fiscal enregistrada l’any 2023 (25,9%).
+
+
+
+
+NP-A092_20251218                                                                                    Pàgina 1 de 26
+                                     Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   Índex
+
+   1        Producte Interior Brut (PIB) ..................................................................................................... 3
+   1.1      PIB nominal ................................................................................................................................. 3
+
+   1.2      PIB real ....................................................................................................................................... 4
+
+   2        PIB per càpita ............................................................................................................................ 5
+   2.1      PIB per càpita (nominal i real) .................................................................................................... 5
+
+   3        Components del PIB: VAB i impostos nets ........................................................................... 6
+   4        Estimació avançada vs estimació semi-definitiva del PIB ................................................... 8
+   5        Valor afegit brut (VAB): nominal per sectors ......................................................................... 9
+   5.1      Sector A: Agricultura, Silvicultura i Pesca................................................................................... 9
+
+   5.2      Sector B: Indústria .................................................................................................................... 10
+
+   5.3      Sector C: Manufactura .............................................................................................................. 11
+
+   5.4      Sector F: Construcció ............................................................................................................... 12
+
+   5.5      Sector G: Comerç a l’engròs i al detall i Reparació de vehicles ............................................... 13
+
+   5.6      Sector H: Transport i Emmagatzematge .................................................................................. 14
+
+   5.7      Sector I: Hoteleria i Restauració ............................................................................................... 15
+
+   5.8      Sector J: Informació i Comunicacions ...................................................................................... 16
+
+   5.9      Sector K: Activitats Financeres i Asseguradores ...................................................................... 17
+
+   5.10 Sector L: Activitats Immobiliàries .............................................................................................. 18
+
+   5.11 Sector M-N: Activitats Professionals, Científiques i Tècniques, Activitats Administratives i
+   de Serveis ........................................................................................................................................... 19
+
+   5.12 Sector O-Q: Administració Pública, Educació, Salut i Treballs Socials .................................... 20
+
+   5.13 Sector R-U: Altres Activitats i Serveis Personals ..................................................................... 21
+
+   6        Valor afegit brut (VAB): real per sectors .............................................................................. 22
+   7        Pressió fiscal ........................................................................................................................... 23
+   8        Notes metodològiques ........................................................................................................... 24
+   9        Dates de les publicacions previstes ..................................................................................... 26
+
+
+
+
+NP-A092_20251218                                                                                                                                     Pàgina 2 de 26
+                                                                     Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   1          Producte Interior Brut (PIB)
+
+
+   1.1           PIB nominal
+
+
+   Taula 1: Evolució anual del PIB. Volum i taxes de variació nominals. Sèrie 2018-2024
+
+                                                                                          2018                2019              2020         2021               2022          2023       2024
+                                                                                        2.725,3             2.818,4           2.531,1      2.811,0            3.210,3       3.500,6    3.736,4
+                                                     PIB nominal
+                                                                                          2,6%                3,4%            -10,2%        11,1%              14,2%          9,0%       6,7%
+       Unitats: Les magnituds econòmiques s'expressen en milions d'euros
+
+
+   L’estimació semi-definitiva del PIB nominal (euros corrents) de l’any 2024 suposa un augment del
+   +6,7% respecte a l’any 2023, amb un valor de 3.736,4 milions d’euros.
+                                                                                                      PIB Nominal
+
+
+                                                   4.000
+                                                                                                                                                                            3.736
+
+                                                                                                                                                                   3.501
+                                                   3.500
+                                                                                                                                                      3.210
+
+                                                   3.000
+                                                                                                                      2.818               2.811
+                                                                                                     2.725
+                                                                                2.617   2.656
+                                                                        2.515                                                    2.531
+
+
+
+
+                            Milions d'euros
+                                                             2.463
+                                                   2.500
+
+
+
+                                                   2.000
+
+
+
+                                                   1.500
+
+
+
+                                                   1.000
+
+
+
+                                                    500
+
+
+
+                                                      0
+                                                             2014       2015     2016   2017          2018            2019       2020     2021        2022         2023      2024
+
+
+
+
+                                                                                               PIB Nominal. Variació anual
+                                                   20%
+
+
+
+
+                                                   15%                                                                                               14,2%
+
+
+
+
+                                                                                                                                            11,1%
+                                                   10%
+                                                                                                                                                                 9,0%
+
+
+
+
+                              Variació anual (%)
+                                                                                                                                                                           6,7%
+
+                                                    5%                          4,1%
+                                                             2,4%                                                      3,4%
+                                                                        2,1%                        2,6%
+                                                                                        1,5%
+
+                                                    0%
+
+
+
+
+                                                    -5%
+
+
+
+
+                                                   -10%
+                                                                                                                              -10,2%
+
+
+                                                   -15%
+                                                            2014        2015    2016    2017         2018         2019         2020      2021        2022        2023      2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                      Pàgina 3 de 26
+                                                                                          Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   1.2         PIB real
+
+   Taula 2: Evolució anual del PIB. Volum i taxes de variació reals. Sèrie 2018-2024
+
+     Base 100=2010                                                                                             2018                2019             2020         2021              2022        2023       2024
+                                                                                                             2.621,6             2.674,5          2.375,3      2.572,2           2.818,2     2.891,0    3.002,3
+                                                                        PIB real
+                                                                                                               1,6%                2,0%           -11,2%         8,3%              9,6%        2,6%       3,8%
+     Unitats: Les magnituds econòmiques s'expressen en milions d'euros
+
+
+   El PIB en termes reals (euros constants), segons l’estimació semi-definitiva, ha augmentat dels
+   2.891,0 milions d’euros l’any 2023 a 3.002,3 milions d’euros l’any 2024, amb una variació del +3,8%.
+
+
+
+                                                                                                                             PIB Real
+                                                                3.250
+                                                                                                                                                                                            3.002
+                                                                                                                                                                                    2.891
+                                                                                                                                                                         2.818
+                                                                2.750                                                                  2.674
+                                                                                                             2.581       2.622
+                                                                                                     2.572                                                  2.572
+                                                                              2.445          2.480
+                                                                                                                                                   2.375
+
+                                                                2.250
+
+
+
+
+                         Milions d'euros
+                                                                1.750
+
+
+
+
+                                                                1.250
+
+
+
+
+                                                                     750
+
+
+
+
+                                                                     250
+
+
+
+                                                                              2014           2015    2016    2017        2018          2019        2020     2021         2022        2023   2024
+                                                                     -250
+
+
+
+
+                                                                                                                     PIB Real. Variació anual
+
+                                                                      15%
+
+
+
+
+                                                                                                                                                                         9,6%
+                                                                      10%
+                                                                                                                                                            8,3%
+
+
+
+
+                                           Variació interanual (%)
+                                                                       5%                             3,7%                                                                                  3,8%
+                                                                               2,5%                                                                                                  2,6%
+                                                                                                                                           2,0%
+                                                                                              1,4%                       1,6%
+                                                                                                              0,3%
+                                                                       0%
+
+
+
+
+                                                                      -5%
+
+
+
+
+                                                                     -10%
+
+                                                                                                                                                   -11,2%
+
+
+                                                                     -15%
+                                                                                   2014       2015    2016    2017       2018              2019     2020    2021         2022        2023   2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                       Pàgina 4 de 26
+                                                     Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   2         PIB per càpita
+
+   2.1           PIB per càpita (nominal i real)
+
+
+   Taula 3: Evolució anual del PIB per càpita. Volum i taxes de variació nominals i reals. Sèrie 2018-
+   2024
+
+                                                                                     2018                2019            2020          2021              2022         2023      2024
+       Població estimada                                                           76.177              77.543          78.015        79.535            81.588       85.101    87.097
+       Població estimada (taxa de variació)                                         1,8%                1,8%            0,6%          1,9%              2,6%         4,3%      2,3%
+       PIB Nominal per càpita                                                      35.775              36.347          32.444        35.342            39.348       41.134    42.900
+       PIB Nominal per càpita (taxa de variació)                                    0,8%                1,6%           -10,7%         8,9%             11,3%         4,5%      4,3%
+       PIB Real per càpita                                                         34.415              34.490          30.447        32.340            34.542       33.972    34.471
+       PIB Real per càpita (taxa de variació)                                       -0,3%               0,2%           -11,7%         6,2%              6,8%         -1,7%     1,5%
+       Unitats: Les magnituds econòmiques s'expressen en euros
+
+   El PIB nominal per càpita de l’any 2024 augmenta en +4,3%, situant-se en 42.900 euros.
+                                                                                            PIB Nominal per càpita
+                                        45.000
+                                                                                                                                                                  42.900
+                                                                                                                                                         41.134
+                                        40.000                                                                                                39.348
+
+
+                                                                          35.796                35.775      36.347
+                                                                 35.054            35.508                                        35.342
+                                                 34.897
+                                        35.000
+                                                                                                                        32.444
+
+
+                                        30.000
+
+
+
+                                        25.000
+
+                                Euros
+                                        20.000
+
+
+
+                                        15.000
+
+
+
+                                        10.000
+
+
+
+                                         5.000
+
+
+
+                                             0
+                                                  2014           2015      2016     2017        2018            2019    2020     2021         2022       2023     2024
+
+
+
+
+   En termes reals, el PIB real per càpita se situa l’any 2024 en 34.471 euros, una variació del +1,5%
+   respecte l’any anterior.
+                                                                                             PIB Real per càpita
+                                        40.000
+
+
+                                                                          35.178
+                                                 34.642      34.569                34.503       34.415      34.490                            34.542              34.471
+                                        35.000                                                                                                           33.972
+                                                                                                                                 32.340
+                                                                                                                        30.447
+                                        30.000
+
+
+
+                                        25.000
+
+
+
+                            Euros       20.000
+
+
+
+                                        15.000
+
+
+
+                                        10.000
+
+
+
+                                         5.000
+
+
+
+                                            0
+                                                 2014            2015     2016     2017         2018            2019     2020     2021         2022       2023     2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                             Pàgina 5 de 26
+                                                         Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   3    Components del PIB: VAB i impostos nets
+
+
+   El Valor Afegit Brut (VAB) durant l’any 2024 ha experimentat una crescuda del +6,3%.
+   Pel que fa als impostos nets sobre els productes, el segon component del PIB des de la vessant de
+   l’oferta, presenten un taxa de variació interanual del +11,0%.
+
+
+
+
+                                                                                 Components del PIB nominal: VAB
+
+                                          15%
+
+
+
+                                                                                                                                  11,2%
+                                                                                                                                                10,7%
+                                                                                                                      10,2%
+                                          10%
+
+
+
+
+                    Variació anual (%)
+                                                                                                                                                         6,3%
+                                           5%                                                     4,0%
+                                                                      3,6%
+                                                                                         3,1%
+                                                  2,1%      2,4%
+                                                                               1,6%
+
+
+                                           0%
+
+
+
+
+                                          -5%
+
+
+                                                                                                             -6,9%
+
+
+                                          -10%
+                                                  2014      2015      2016     2017      2018     2019       2020     2021            2022      2023     2024
+
+
+
+
+                                                                   Components del PIB nominal: Impostos nets sobre els productes
+
+
+                                         60%
+                                                                                                                                        50,5%
+                                         50%
+
+
+                                         40%
+
+
+                                         30%
+
+                                                                                                                              23,2%
+                                         20%
+
+
+
+
+               Variació anual (%)
+                                                                                                                                                           11,0%
+                                                                      7,9%
+                                         10%
+                                                 5,2%
+                                                                                0,9%
+                                                                                                     -1,4%
+                                          0%
+                                                            0,0%
+                                                                                         -1,6%
+                                         -10%                                                                                                    -5,9%
+
+
+                                         -20%
+
+
+                                         -30%
+
+
+                                         -40%
+                                                                                                             -38,8%
+
+                                         -50%
+                                                 2014      2015       2016      2017     2018      2019       2020      2021            2022      2023     2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                   Pàgina 6 de 26
+                                                                                             Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   En termes nominals, el VAB ha presentat un valor de 3.395 milions d’euros. Pel que fa a als impostos
+   nets sobre els productes, s’han situat en 341 milions d’euros.
+                                                                                                                                                   Components del PIB Nominal
+
+                                                                                 3.500                                                                                                                                                                    3.395
+
+                                                                                                                                                                                                                                          3.193
+
+
+                                                                                 3.000                                                                                                                                    2.884
+
+                                                                                                                                                                                                          2.594
+                                                                                                                                                                          2.530
+                                                                                                                                                           2.433
+                                                                                 2.500                                     2.323           2.359                                          2.355
+                                                                                                            2.242
+                                                                                             2.190
+
+
+                                                                                 2.000
+
+
+
+
+                                                               Milions d'euros   1.500
+
+
+
+
+                                                                                 1.000
+
+
+
+
+                                                                                  500                                                                                                                                     327                             341
+                                                                                             273             273            294            297              292            288                                                            307
+                                                                                                                                                                                          176             217
+
+
+                                                                                    0
+                                                                                             2014            2015          2016            2017            2018            2019           2020            2021            2022            2023            2024
+                                                                                                                                         VAB                         Impostos nets sobre els productes
+
+
+
+
+   Com en altres economies, el creixement del PIB des de la vessant de l’oferta es deu principalment als
+   augments del VAB i cal notar que els pesos del VAB i dels impostos nets sobre productes en la
+   contribució al PIB són molt estables. Per l’any 2024 el pes del VAB se situa en un 90,9%.
+   Pel que fa als impostos nets sobre els productes, representen el 9,1% del PIB pel 2024.
+
+
+                                                                                                                                         Components del PIB Nominal
+                                                             120%
+
+
+
+
+                                                             100%
+                                                                                                                                                                   89,8%          93,0%           92,3%
+                                                                                     88,9%           89,2%          88,8%          88,8%           89,3%                                                          89,8%           91,2%           90,9%
+
+
+
+
+              Percentatge dels components sobre el PIB (%)
+                                                             80%
+
+
+
+
+                                                             60%
+
+
+
+
+                                                             40%
+
+
+
+
+                                                             20%
+                                                                                     11,1%           10,8%          11,2%          11,2%            10,7%          10,2%
+                                                                                                                                                                                                                  10,2%                            9,1%
+                                                                                                                                                                                  7,0%            7,7%                            8,8%
+
+
+                                                              0%
+                                                                                     2014            2015           2016           2017            2018            2019           2020            2021            2022            2023            2024
+
+                                                                                                                                   VAB              Impostos nets sobre els productes
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                                                                  Pàgina 7 de 26
+                              Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   4    Estimació avançada vs estimació semi-definitiva del PIB
+
+
+   Si es comparen els resultats de l’estimació semi-definitiva del PIB de l’any 2024 amb l’avanç publicat
+   al març del 2025, es pot apreciar una diferència de +0,1 punts entre l’estimació avançada i l’estimació
+   semi-definitiva en termes nominals. Pel que fa en termes reals, la diferència també és de +0,4 punts
+   percentuals.
+
+
+   Taula 4: Comparativa estimació avançada vs estimació semi-definitiva. Taxes de variació interanual
+
+
+
+                                                          2024
+                                         Nominal                       Real
+                                Avançada   Semi-definitiva   Avançada   Semi-definitiva
+            VAB                      6,1%              6,3%       2,9%              3,5%
+            Impostos                11,6%            11,0%        8,6%              8,0%
+            PIB                      6,6%              6,7%       3,4%              3,8%
+            Unitat: taxa de variació interanual
+
+
+
+
+NP-A092_20251218                                                                                        Pàgina 8 de 26
+                                                             Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5     Valor afegit brut (VAB): nominal per sectors
+
+
+   5.1    Sector A: Agricultura, Silvicultura i Pesca
+
+
+   El sector Agricultura, Silvicultura i Pesca és el sector més petit de l’economia andorrana, amb un pes
+   del 0,5% del VAB l’any 2024, la qual cosa fa que les variacions en aquest sector no afectin
+   significativament al PIB. L’any 2024 presenta una variació del +9,5%.
+
+
+                                                                                              Agricultura, Silvicultura i Pesca
+                                              20                                                                                                                                                     2%
+                                                                                                                                                                                           18,3
+                                              18
+                                                                                                                                                                             16,8
+
+                                              16                                                                                                               15,7
+                                                                                       14,9         14,9          14,7                           15,0
+                                                                                                                                                                                                     2%
+                                                                                                                                  14,2
+                                              14                              13,7
+                                                     13,2
+                                                               12,9
+
+                                              12
+
+
+
+
+               Milions d'euros
+                                                                                                                                                                                                          VAB (%)
+                                              10                                                                                                                                                     1%
+
+
+                                               8
+                                                                                       0,6%
+                                                     0,6%                     0,6%                  0,6%          0,6%            0,6%
+                                                               0,6%
+                                                                                                                                                 0,6%          0,5%                        0,5%
+                                               6                                                                                                                             0,5%
+                                                                                                                                                                                                     1%
+                                               4
+
+
+                                               2
+
+
+                                               0                                                                                                                                                     0%
+                                                     2014      2015           2016     2017         2018          2019        2020               2021          2022          2023          2024
+
+                                                                                              Agricultura, Silvicultura i Pesca             %VAB
+
+
+
+
+                                                                                              Agricultura, Silvicultura i Pesca
+
+                                              20%
+
+
+
+
+                                              15%
+
+
+
+                                                                                                                                                                                                  9,5%
+                                              10%                                         8,8%
+                                                                                                                                                                                    7,0%
+
+
+
+
+                    Variació Interanual (%)
+                                                                              5,8%                                                                      5,6%
+                                                                                                                                                                      4,7%
+                                               5%
+
+
+
+                                                                                                           0,2%
+                                               0%
+
+                                                                                                                  -1,1%
+                                                                      -2,5%
+                                              -5%                                                                                        -3,9%
+
+                                                       -5,9%
+
+
+                                              -10%
+
+
+
+
+                                              -15%
+                                                      2014      2015            2016     2017           2018          2019               2020           2021          2022          2023          2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                    Pàgina 9 de 26
+                                                             Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.2    Sector B: Indústria
+
+
+   Respecte al sector Indústria, que representa prop del 1,5% del VAB al 2024, s’observa que el seu
+   motor està format principalment pel sector productor i distribuïdor energètic al Principat. Des de l’any
+   2016 presenta un ritme sostingut de creixement que es va veure afectat per l’augment del cost de
+   l’energia al 2021 i 2022. Per aquest 2024 presenta un VAB estimat de 51,6 milions d’euros.
+
+
+
+
+                                                                                                                Indústria
+                                         60                                                                                                                                                            5%
+
+
+
+                                                                                                                                                                                              51,6
+                                         50
+                                                                                                                                                                                                       4%
+                                                                                                                                                                               44,0
+
+
+                                         40                                                                         37,7
+                                                                                                      35,7
+                                                                                                                                                                                                       3%
+                                                                                                                                  32,7
+
+
+
+                      Milions d'euros
+                                                   30,6                  30,8          30,6
+
+                                                                                                                                                                                                            VAB (%)
+                                         30                   28,6
+
+
+                                                                                                                                                                                                       2%
+
+                                         20        1,4%                                               1,5%          1,5%                                                                      1,5%
+                                                               1,3%      1,3%          1,3%                                       1,4%                                         1,4%
+                                                                                                                                                15,0
+
+                                                                                                                                                                                                       1%
+                                         10                                                                                                     0,6%
+
+
+
+                                                                                                                                                                1,2
+
+                                          0                                                                                                                      0,0%                                  0%
+                                                   2014       2015       2016          2017           2018          2019          2020          2021            2022           2023           2024
+
+                                                                                                Indústria (excepte construcció)            %VAB
+
+
+
+
+                                                                                                                Indústria
+
+                                        4000%
+                                                                                                                                                                                      3585,2%
+                                        3500%
+
+
+                                        3000%
+
+
+                                        2500%
+
+
+
+
+              Variació Interanual (%)
+                                        2000%
+
+
+                                        1500%
+
+
+                                        1000%
+
+
+                                         500%
+
+                                                     6,8%                       8,0%                     16,7%             5,7%                                                                         17,2%
+                                              0%
+                                                                 -6,8%                        -0,8%                                  -13,2%
+                                                                                                                                                       -54,1%            -92,0%
+                                        -500%
+
+
+                                        -1000%
+                                                      2014       2015       2016              2017           2018          2019          2020          2021             2022           2023          2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                      Pàgina 10 de 26
+                                                             Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.3    Sector C: Manufactura
+
+
+   El sector Manufactura representa el 3,4% del VAB durant l’any 2024. Durant els últims deu anys,
+   experimenta un comportament volàtil, amb períodes de creixement positiu i d’altres amb variacions
+   negatives. A l’any 2024 experimenta una variació del -1,8%, amb un VAB de 116,8 milions d’euros.
+
+
+                                                                                                        Manufactura
+                                             140                                                                                                                                               10%
+
+
+
+                                                                                                                                                                          118,9
+                                             120                                                                                                                                     116,8
+                                                                                                                                            114,2          114,8
+                                                                                                                                                                                               8%
+                                                                                                               103,5
+                                                                        97,9      99,6          98,4
+                                             100                                                                              94,5
+                                                               93,2
+                                                    90,5
+
+                                                                                                                                                                                               6%
+                                              80
+
+
+
+               Milions d'euros
+                                                                                                                                                                                                     VAB (%)
+                                                                                                                                            4,4%
+                                                    4,1%       4,2%     4,2%      4,2%
+                                                                                                4,0%           4,1%           4,0%                         4,0%
+                                              60
+                                                                                                                                                                          3,7%                 4%
+                                                                                                                                                                                     3,4%
+
+
+                                              40
+
+
+                                                                                                                                                                                               2%
+
+                                              20
+
+
+
+
+                                               0                                                                                                                                               0%
+                                                    2014       2015     2016      2017          2018           2019           2020          2021           2022           2023       2024
+                                                                                                Manufactura              %VAB
+
+
+
+
+                                                                                                        Manufactura
+                                              25%
+
+                                                                                                                                                    20,9%
+                                              20%
+
+
+
+                                              15%
+
+
+
+                                              10%
+
+
+
+
+                   Variació Interanual (%)
+                                                                                                                       5,2%
+                                                                           5,1%
+                                               5%                                                                                                                                 3,6%
+                                                                2,9%
+                                                                                         1,7%
+
+                                               0%
+                                                                                                                                                                   0,5%
+                                                                                                       -1,2%                                                                                 -1,8%
+                                                      -1,9%
+                                              -5%
+
+
+
+                                             -10%                                                                                    -8,7%
+
+
+
+                                             -15%
+                                                      2014       2015      2016      2017              2018            2019          2020           2021           2022           2023       2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                               Pàgina 11 de 26
+                                                                     Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.4    Sector F: Construcció
+
+
+   El sector Construcció, que representa el 9,1% del VAB al 2024, presenta un increment nominal del
+   +13,9% assolint un VAB de 309,8 milions d’euros.
+
+
+                                                                                                                Construcció
+                                                     350                                                                                                                                        40%
+
+
+                                                                                                                                                                                       309,8
+
+                                                     300
+                                                                                                                                                                            272,1
+
+                                                                                                                                                                                                30%
+                                                     250                                                                                                         241,8
+
+                                                                                                                                                  218,3
+
+                                                     200                                                                           193,2
+                                                                                                                    188,5
+
+
+
+               Milions d'euros
+                                                                                                                                                                                                       VAB (%)
+                                                                                                     167,8                                                                                      20%
+
+                                                                                          145,9
+                                                     150                        136,6
+                                                            128,9     129,2
+
+
+
+                                                     100
+                                                                                                                                    8,2%          8,4%           8,4%       8,5%       9,1%     10%
+                                                                                                                    7,4%
+                                                                                 5,9%                    6,9%
+                                                            5,9%       5,8%               6,2%
+
+                                                      50
+
+
+
+
+                                                       0                                                                                                                                        0%
+                                                            2014      2015      2016      2017           2018       2019        2020              2021           2022       2023       2024
+                                                                                                            Construcció        %VAB
+
+
+
+
+                                                                                                                Construcció
+                                                      20%
+
+
+                                                                                                            15,0%
+                                                      15%                                                                                                                                      13,9%
+                                                                                                                                                      13,0%                         12,5%
+                                                                                                                             12,3%
+
+
+                                                      10%                                                                                                                10,8%
+
+                                                                                   5,7%
+                                                                                                  6,8%
+                                                       5%
+
+
+
+
+                           Variació Interanual (%)
+                                                                        0,3%                                                               2,5%
+                                                       0%
+
+                                                            -4,1%
+                                                      -5%
+
+
+
+                                                     -10%
+
+
+
+                                                     -15%
+
+
+
+                                                     -20%
+                                                              2014       2015      2016       2017           2018           2019           2020           2021           2022       2023       2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                 Pàgina 12 de 26
+                                                                   Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.5    Sector G: Comerç a l’engròs i al detall i Reparació de vehicles
+
+
+   El sector Comerç a l’engròs i al detall i Reparació de vehicles és un dels quatre àmbits d’activitat que
+   més contribueix al VAB, amb una aportació del 15,8% l’any 2024. Presenta des de l’any 2015 un
+   creixement sostingut, no obstant això, arran de la crisi sanitària viscuda al 2020, va experimentar una
+   davallada. Pel 2024 es produeix un creixement del +4,4% amb un VAB de 535,9 milions d’euros.
+
+
+                                                                                                     Comerç a l'engròs i al detall
+                                                  600                                                                                                                                      50%
+
+                                                                                                                                                                                   535,9
+                                                                                                                                                                          513,3
+                                                  500
+                                                                                                                                                                470,1                      40%
+
+                                                                                                                        420,6
+                                                                                                         410,9                                    407,6
+                                                                                          400,8
+                                                  400                         387,4                                                    383,8
+                                                         372,0      375,4
+                                                                                                                                                                                           30%
+
+
+
+
+              Milions d'euros
+                                                                                                                                                                                                  VAB (%)
+                                                  300
+
+
+
+                                                                                           17,0%         16,9%                                                                             20%
+                                                         17,0%       16,7%     16,7%                                    16,6%          16,3%
+                                                                                                                                                  15,7%        16,3%      16,1%    15,8%
+                                                  200
+
+
+
+                                                                                                                                                                                           10%
+                                                  100
+
+
+
+
+                                                    0                                                                                                                                      0%
+                                                         2014       2015      2016         2017          2018           2019           2020           2021      2022      2023      2024
+                                                                                       Comerç a l'engròs i al detall i reparació de vehicles                 %VAB
+
+
+
+
+                                                                                                  Comerç a l'engròs i al detall
+                                                   17%
+                                                                                                                                                                        15,3%
+
+
+                                                   14%
+
+
+
+                                                   11%
+                                                                                                                                                                                   9,2%
+
+                                                    8%
+
+
+
+
+                        Variació Interanual (%)
+                                                                                                                                                               6,2%
+                                                    5%
+                                                                                 3,2%             3,5%                                                                                          4,4%
+                                                                                                                 2,5%
+                                                                                                                                 2,4%
+                                                    2%                 0,9%
+                                                            0,0%
+
+                                                   -1%
+
+
+
+                                                   -4%
+
+
+
+                                                   -7%
+
+
+                                                                                                                                               -8,7%
+                                                  -10%
+                                                           2014        2015       2016            2017           2018           2019           2020          2021       2022      2023     2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                            Pàgina 13 de 26
+                                                                       Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.6    Sector H: Transport i Emmagatzematge
+
+
+   El sector Transport i Emmagatzematge representa el 2,1% del VAB durant l’any 2024, proporció força
+   estable al llarg del temps. L’any 2024 experimenta un creixement positiu, amb una variació del +1,6%
+   respecte el 2023, i un VAB de 70,5 milions d’euros.
+
+
+                                                                                                                   Transport i Emmagatzematge
+                                                 80                                                                                                                                            10%
+
+
+                                                                                                                                                                                      70,5
+                                                                                                                                                                              69,4
+                                                 70
+
+
+                                                                                                                                                                   59,4
+                                                 60
+
+                                                                                                                                  51,5
+                                                 50                                                                     48,1                              47,8
+                                                                                                         45,3
+                                                                                                                                                42,8
+
+
+
+              Milions d'euros
+                                                             39,5                         40,3
+
+                                                                                                                                                                                                     VAB (%)
+                                                                           39,3
+                                                 40                                                                                                                                            5%
+
+
+
+                                                 30
+
+
+
+                                                 20                                                                                   2,0%                         2,1%       2,2%
+                                                                                          1,7%            1,9%      2,0%                                                             2,1%
+                                                             1,8%          1,8%                                                                 1,8%
+                                                                                                                                                          1,8%
+
+
+                                                 10
+
+
+
+                                                  0                                                                                                                                            0%
+                                                         2014              2015           2016           2017       2018          2019         2020       2021    2022        2023   2024
+                                                                                                        Transport i Emmagatzematge                     %VAB
+
+
+
+
+                                                                                                                   Transport i Emmagatzematge
+
+
+                                                      30%
+
+
+                                                      25%                                                                                                                   24,2%
+
+
+
+                                                      20%
+                                                                                                                                                                                       16,8%
+                                                      15%
+                                                                                                                 12,3%
+
+
+
+
+                       Variació Interanual (%)
+                                                                                                                                                                    11,8%
+                                                      10%
+                                                                                                                                               7,1%
+                                                                                                                                6,2%
+                                                       5%           4,3%
+                                                                                                 2,6%
+                                                                                                                                                                                                    1,6%
+                                                       0%
+                                                                                  -0,5%
+
+                                                      -5%
+
+
+                                                      -10%
+
+
+                                                      -15%
+
+                                                                                                                                                        -16,9%
+                                                      -20%
+                                                                    2014          2015            2016           2017          2018          2019      2020      2021        2022    2023      2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                               Pàgina 14 de 26
+                                                        Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.7    Sector I: Hoteleria i Restauració
+
+
+   En el decurs de l’any 2024, el sector Hoteleria i restauració suposa el 7,2% del VAB. Per l’any 2024 el
+   valor del VAB va ser de 243,9 milions d’euros i amb una variació de +8,3% respecte l’any 2023.
+
+
+                                                                                          Hoteleria i Restauració
+
+                                         250                                                                                                                                      243,9    30%
+
+                                                                                                                                                                   225,3
+
+                                                                                                       210,7
+                                                                                          206,8                                                     206,6
+                                                                                                                                                                                           25%
+                                                                           197,4
+                                         200
+                                                                  181,7
+                                                167,7    171,2
+                                                                                                                                                                                           20%
+                                                                                                                                     153,3
+                                                                                                                      147,6
+                                         150
+
+
+
+
+                       Milions d'euros
+                                                                                                                                                                                                 VAB (%)
+                                                                                                                                                                                           15%
+
+
+                                         100
+
+                                                                            8,4%          8,5%          8,3%                                                                               10%
+                                                 7,7%      7,6%    7,8%
+                                                                                                                                                    7,2%
+                                                                                                                      6,3%                                         7,1%           7,2%
+                                                                                                                                     5,9%
+                                          50
+                                                                                                                                                                                           5%
+
+
+
+
+                                           0                                                                                                                                               0%
+                                                2014      2015    2016     2017           2018         2019           2020           2021           2022           2023           2024
+                                                                                   Hoteleria i restauració              %VAB
+
+
+
+
+                                                                                          Hoteleria i Restauració
+                                         40%
+                                                                                                                                                            34,7%
+
+
+                                         30%
+
+
+
+                                         20%
+
+
+
+                                                                              8,6%                                                                                                        8,3%
+                                         10%
+
+
+
+
+               Variació Interanual (%)
+                                                                    6,1%
+                                                                                              4,8%                                                                         9,1%
+                                                           2,1%                                                1,9%                            3,8%
+                                                 0,0%
+                                          0%
+
+
+
+                                         -10%
+
+
+
+                                         -20%
+
+
+
+                                         -30%
+                                                                                                                          -29,9%
+
+
+                                         -40%
+                                                 2014      2015     2016      2017            2018           2019             2020           2021           2022           2023           2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                           Pàgina 15 de 26
+                                                         Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.8    Sector J: Informació i Comunicacions
+
+
+   El sector Informació i Comunicacions, representa el 2,9% del VAB del 2024. L’any 2024 presenta un
+   comportament negatiu amb una variació del -5,6%, i amb un valor de 99,9 milions d’euros.
+
+
+                                                                                          Informació i Comunicacions
+
+                                          120                                                                                                                                         20%
+
+
+                                                                                                                                                                   105,9
+                                                                                                                                                        103,3
+                                                                   101,1                                                                                                      99,9
+                                          100                                  97,4         96,2          97,6                           96,3
+
+                                                          89,3                                                             89,2
+                                                                                                                                                                                      15%
+                                                 81,2
+                                           80
+
+
+
+
+               Milions d'euros
+                                                                                                                                                                                             VAB (%)
+                                           60                                                                                                                                         10%
+
+
+
+
+                                           40
+
+                                                                    4,4%       4,1%
+                                                           4,0%                            4,0%              3,9%          3,8%                                                       5%
+                                                 3,7%                                                                                    3,7%            3,6%
+                                                                                                                                                                   3,3%
+                                                                                                                                                                              2,9%
+                                           20
+
+
+
+
+                                            0                                                                                                                                         0%
+                                                 2014     2015     2016        2017        2018           2019             2020          2021           2022       2023       2024
+
+                                                                                   Informació i Comunicacions                 %VAB
+
+
+
+
+                                                                                          Informació i Comunicacions
+                                          15%
+
+                                                                           13,2%
+
+
+                                                          10,0%
+                                          10%
+
+                                                                                                                                                8,0%
+                                                 7,1%                                                                                                           7,3%
+
+
+
+
+                Variació Interanual (%)
+                                           5%
+
+                                                                                                                                                                            2,5%
+                                                                                                                    1,4%
+
+
+                                           0%
+
+                                                                                                     -1,2%
+
+
+                                                                               -3,6%
+                                           -5%
+
+                                                                                                                                                                                     -5,6%
+
+
+
+                                                                                                                                   -8,6%
+                                          -10%
+                                                  2014      2015      2016         2017            2018          2019             2020           2021           2022       2023      2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                       Pàgina 16 de 26
+                                                                         Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.9    Sector K: Activitats Financeres i Asseguradores
+
+
+   L’any 2024 el sector Activitats Financeres i Asseguradores representa el 12,9% del VAB amb una
+   variació del +2,4%, i un VAB de 439,4 milions d’euros.
+
+
+                                                                                                          Activitats Financeres i Asseguradores
+                                               500                                                                                                                                                            60%
+
+
+                                               450                                                                                                                                                    439,4
+                                                                                                                                                                                           429,1
+                                                                          407,8                                                                                                                               50%
+                                               400             390,7
+                                                                                     378,8                                                                                      382,9
+                                                                                                                                                                 357,0
+                                               350
+                                                                                                       328,1
+                                                                                                                                                                                                              40%
+                                                                                                                                      296,7
+                                               300                                                                     289,6                         289,1
+
+
+
+
+               Milions d'euros
+                                                                                                                                                                                                                     VAB (%)
+                                               250                                                                                                                                                            30%
+
+
+                                               200
+                                                               17,8%       18,2%
+                                                                                                                                                                                                              20%
+                                                                                          16,3%
+                                               150                                                      13,9%
+                                                                                                                                                                 13,8%          13,3%     13,4%
+                                                                                                                        11,9%          11,7%          12,3%                                          12,9%
+                                               100
+                                                                                                                                                                                                              10%
+
+                                                     50
+
+
+                                                      0                                                                                                                                                       0%
+                                                               2014       2015           2016          2017            2018           2019           2020            2021       2022       2023       2024
+
+                                                                                                       Activitats Financeres i Asseguradores                 %VAB
+
+
+
+
+                                                                                                          Activitats Financeres i Asseguradores
+
+                                                      30%
+
+
+                                                                                                                                                                            23,5%
+
+
+                                                      20%
+
+
+
+                                                                                                                                                                                                   12,1%
+
+
+
+
+                           Variació Interanual (%)
+                                                      10%
+
+                                                                 4,5%             4,4%                                                                                                  7,2%
+                                                                                                                                              2,5%
+
+                                                                                                                                                                                                              2,4%
+                                                          0%
+
+
+                                                                                                                                                              -2,6%
+                                                                                                  -7,1%
+
+                                                     -10%
+
+                                                                                                                               -11,7%
+                                                                                                              -13,4%
+
+
+                                                     -20%
+                                                                  2014        2015              2016           2017            2018           2019            2020          2021        2022       2023       2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                               Pàgina 17 de 26
+                                                                              Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.10 Sector L: Activitats Immobiliàries
+
+
+   En relació al sector Activitats Immobiliàries, el seu pes al 2024 és de 15,5% sobre el VAB. La taxa de
+   variació nominal és del +6,0%, al 2024, amb un valor de 527,3 milions d’euros.
+
+
+                                                                                                                            Activitats Immobiliàries
+                                         550                                                                                                                                                                             40%
+                                                                                                                                                                                                                527,3
+                                                                                                                                                                                                      497,6
+                                         500
+                                                                                                                                                                                                                         35%
+                                                                                                                                                                                     452,6
+                                         450
+                                                                                                                                                                         420,7
+                                                                                                                                                                                                                         30%
+                                         400
+                                                                                                                                           369,3          372,5
+                                                                                                                            355,5
+                                         350                                                                 332,3                                                                                                       25%
+                                                                                              323,9
+
+                                                                               289,3
+
+
+
+               Milions d'euros
+                                         300
+                                                                    276,8
+
+                                                                                                                                                                                                                               VAB (%)
+                                                                                                                                                                                                                         20%
+                                         250
+                                                                                                                                                          15,8%      16,2%           15,7%            15,6%     15,5%
+                                                                                                             14,1%          14,6%          14,6%
+                                                                                              13,9%                                                                                                                      15%
+                                         200                                   12,9%
+                                                                    12,6%
+
+                                         150
+                                                                                                                                                                                                                         10%
+
+                                         100
+
+                                                                                                                                                                                                                         5%
+                                                       50
+
+
+                                                           0                                                                                                                                                             0%
+                                                                    2014       2015           2016           2017           2018           2019           2020           2021           2022          2023       2024
+                                                                                                         Activitats Immobiliàries                   %VAB
+
+
+
+
+                                                                                                                            Activitats Immobiliàries
+                                                           14%
+                                                                                                                                                                                 12,9%
+
+                                                                                                     12,0%
+                                                           12%
+
+
+
+                                                                                                                                                                                                              9,9%
+                                                           10%
+
+
+
+
+                                 Variació Interanual (%)
+                                                               8%
+
+                                                                                                                                    7,0%                                                       7,6%
+
+                                                               6%                                                                                                                                                          6,0%
+                                                                      5,2%
+
+
+                                                                                                                                                    3,9%
+                                                               4%                      4,5%
+
+
+
+
+                                                                                                                     2,6%
+                                                               2%
+
+
+                                                                                                                                                                    0,9%
+                                                               0%
+                                                                       2014        2015           2016               2017           2018           2019           2020           2021           2022          2023      2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                                                         Pàgina 18 de 26
+                                                       Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.11 Sector M-N: Activitats Professionals, Científiques i Tècniques, Activitats Administratives
+        i de Serveis
+
+
+   En el decurs de l’any 2024 el sector Activitats Professionals, Científiques i Tècniques, Activitats
+   Administratives i de Serveis representa el 9,1% del VAB amb un pes estable. L’any 2024, presenta
+   una taxa de creixement nominal positiva del +12,3%, amb un valor de 307,9 milions d’euros.
+
+
+                                                                           Activitats Professionals, Científiques i Tècniques
+                                        350                                                                                                                                                40%
+
+
+                                                                                                                                                                                  307,9
+                                                                                                                                                                                           35%
+                                        300
+                                                                                                                                                                       274,2
+
+                                                                                                                                                            249,7                          30%
+                                        250
+
+
+                                                                                                                                                                                           25%
+                                                                                                              201,6                         196,8
+                                        200
+
+
+
+                 Milions d'euros
+                                                                                              186,6
+                                                                                                                             181,1
+
+                                                                                                                                                                                                  VAB (%)
+                                                                                167,5                                                                                                      20%
+                                                                 150,6
+                                        150    139,9    143,0
+
+                                                                                                                                                                                           15%
+
+
+                                        100
+                                                                                                              8,0%                                      8,7%           8,6%       9,1%     10%
+                                                                                7,1%          7,7%                           7,7%             7,6%
+                                               6,4%     6,4%     6,5%
+
+                                         50
+                                                                                                                                                                                           5%
+
+
+
+                                          0                                                                                                                                                0%
+                                               2014     2015     2016           2017          2018            2019           2020           2021            2022       2023       2024
+
+                                                                                        Activitats Professionals, Científiques i Tècniques
+
+
+
+
+                                                                           Activitats Professionals, Científiques i Tècniques
+                                        30%
+                                                                                                                                                                    26,9%
+
+                                        25%
+
+
+
+                                        20%
+
+
+
+                                        15%
+                                                                                                                                                                                          12,3%
+                                                                                   11,2%              11,4%
+
+
+
+
+              Variació Interanual (%)
+                                        10%
+                                                                                                                        8,0%                                                   9,8%
+                                                                                                                                                       8,7%
+                                                4,6%
+                                         5%
+                                                                         5,3%
+                                                          2,3%
+
+                                         0%
+
+
+
+                                        -5%
+
+
+
+                                        -10%
+                                                                                                                                     -10,2%
+
+                                        -15%
+                                                2014      2015      2016           2017            2018               2019           2020            2021           2022       2023       2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                            Pàgina 19 de 26
+                                                            Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.12 Sector O-Q: Administració Pública, Educació, Salut i Treballs Socials1
+
+
+   El sector Administració Pública, Educació, Salut i Treballs Socials representa el 13,9% del VAB de
+   l’any 2024. Per aquest any presenta una taxa de variació del +10,6% i un VAB de 472,7 milions
+   d’euros.
+
+
+                                                                              Administració Publica, Educació, Salut i Treballs Socials
+
+                                            500                                                                                                                                                    45%
+                                                                                                                                                                                       472,7
+
+                                            450
+                                                                                                                                                                            427,3
+
+                                                                                                                                                                 398,4
+                                            400                                                                                                   384,7                                            35%
+
+                                                                                                     353,3          360,0          358,3
+                                            350                                       336,3
+                                                                         325,9
+                                                   315,0     315,2
+
+                                            300                                                                                                                                                    25%
+
+
+
+
+                Milions d'euros
+                                                                                                                                                                                                          VAB (%)
+                                            250
+
+                                                             14,1%                                   14,5%                         15,2%          14,8%
+                                                   14,4%                 14,0%       14,3%                          14,2%                                    13,8%                     13,9%
+                                            200                                                                                                                             13,4%                  15%
+
+
+                                            150
+
+
+                                            100                                                                                                                                                    5%
+
+
+                                             50
+
+
+                                              0                                                                                                                                                    -5%
+                                                   2014      2015        2016         2017           2018           2019           2020           2021           2022       2023           2024
+
+                                                                     Administració Pública, Educació, Salut i Treballs Socials                            %VAB
+
+
+
+
+                                                                              Administració Publica, Educació, Salut i Treballs Socials
+                                             12%
+
+                                                                                                                                                                                                  10,6%
+
+                                             10%
+
+
+
+
+                                              8%
+                                                                                                                                                          7,4%
+                                                                                                                                                                                    7,2%
+
+
+
+
+                  Variació Interanual (%)
+                                              6%
+                                                                                                             5,1%
+
+
+                                              4%
+                                                                           3,4%
+                                                                                                                                                                         3,6%
+                                                                                              3,2%
+                                                                                                                             1,9%
+                                              2%
+                                                     1,0%
+
+
+                                              0%
+                                                                 0,1%
+                                                                                                                                             -0,5%
+
+
+                                             -2%
+                                                     2014       2015         2016          2017             2018            2019           2020           2021           2022       2023          2024
+
+
+
+
+   1
+    Aquest sector està compost per l’Administració Central, Comunal i Seguretat Social, Defensa, Educació, Salut Pública i
+   Privada i Treball Socials.
+
+NP-A092_20251218                                                                                                                                                                                                    Pàgina 20 de 26
+                                                              Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   5.13 Sector R-U: Altres Activitats i Serveis Personals
+
+
+   El sector Altres Activitats i Serveis Personals representa el 5,9% del VAB al 2024, amb un pes
+   estable en els darrers anys. Presenta una variació del +1,0% l’any 2024 i un VAB de 201,2 milions
+   d’euros.
+                                                                                             Altres Activitats i Serveis Personals
+                                         225                                                                                                                                                20%
+
+
+                                                                                                                                                                          199,3     201,2
+                                         200
+                                                                                                                                                               187,1
+                                                                                                                       177,8
+                                         175                                                            169,3                                     167,1
+                                                                                         163,0                                                                                              15%
+                                                                          154,1                                                       155,8
+                                                               147,6
+                                         150        144,2
+
+
+
+                                         125
+
+
+
+               Milions d'euros
+                                                                                                                                                                                            10%
+
+                                         100                                                                                                                                                       VAB (%)
+                                                                                         6,9%           7,0%           7,0%
+                                                    6,6%       6,6%       6,6%                                                         6,6%                    6,5%
+                                                                                                                                                     6,4%                 6,2%
+                                          75                                                                                                                                        5,9%
+
+                                                                                                                                                                                            5%
+                                          50
+
+
+
+                                          25
+
+
+
+                                           0                                                                                                                                                0%
+                                                    2014       2015       2016           2017           2018           2019           2020           2021      2022       2023      2024
+                                                                                    Altres Activitats i Serveis Personals                        %VAB
+
+
+
+
+                                                                                             Altres Activitats i Serveis Personals
+                                           20%
+
+
+
+
+                                           15%
+
+                                                                                                                                                                       12,0%
+
+
+                                           10%
+                                                                                                                                                        7,3%
+                                                                                            5,8%                                                                                   6,5%
+
+
+
+
+               Variació Interanual (%)
+                                                                                                                                5,0%
+                                               5%
+                                                                  2,4%            4,4%
+                                                                                                                3,9%
+                                                       2,8%                                                                                                                                   1,0%
+                                               0%
+
+
+
+
+                                           -5%
+
+
+
+
+                                          -10%
+
+
+                                                                                                                                              -12,3%
+                                          -15%
+                                                       2014        2015          2016            2017           2018           2019           2020          2021       2022       2023      2024
+
+
+
+
+NP-A092_20251218                                                                                                                                                                                             Pàgina 21 de 26
+                                                      Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   6          Valor afegit brut (VAB): real per sectors
+
+
+   Taula 5: Evolució anual del VAB. Volum en termes reals. Sèrie 2018-2024
+
+                                                                            2018       2019       2020       2021       2022        2023       2024
+    Agriculture, Silvicultura i Pesca                                      14,33      13,98      13,29      13,68      13,74       13,84      14,74
+    Indústria (excepte construció)                                         34,34      35,80      30,72      13,75        1,05      36,37      41,47
+    Manufactura                                                            94,64      98,25      88,68     104,53     100,77       98,22      93,83
+    Construcció                                                           161,40     178,85     181,31     199,72     212,28      224,72     248,95
+    Comerç a l'engròs i al detall i reparació de vehicles                 395,28     399,16     360,23     373,01     412,72      423,89     430,62
+    Hoteleria i restauració                                               198,93     199,98     138,55     140,29     181,33      186,04     195,99
+    Transport i Emmagatzematge                                             46,25      48,86      40,15      43,77      52,15       57,32      56,63
+    Informació i Comunicacions                                             92,58      92,59      83,69      88,12      90,72       87,46      80,29
+    Activitats Financeres i Asseguradores                                 278,60     281,59     271,35     326,68     336,11      354,42     353,05
+    Activitats Immobiliàries                                              341,97     350,44     349,57     384,97     397,33      410,93     423,68
+    Activitats Professionals, Científiques i Tècniques                    179,51     191,27     169,91     180,05     219,20      226,47     247,40
+    Administració Pública, Educació, Salut i Treballs Socials             339,89     341,61     336,24     352,05     349,77      352,88     379,85
+    Altres Activitats i Serveis Personals                                 162,82     168,68     146,22     152,93     164,29      164,58     161,69
+    VAB                                                                 2.340,55   2.401,07   2.209,92   2.373,54   2.531,46    2.637,13   2.728,19
+    Unitats: Les magnituds econòmiques s'expressen en milions d'euros
+
+
+   Taula 6: Evolució anual del VAB. Taxes de variació reals. Sèrie 2018-2024
+
+                                                                           2018       2019       2020       2021       2022        2023       2024
+    Agriculture, Silvicultura i Pesca                                     -0,8%      -2,4%      -4,9%       3,0%       0,4%        0,7%       6,5%
+    Indústria (excepte construció)                                        15,5%       4,3%     -14,2%     -55,2%     -92,4%     3367,0%      14,0%
+    Manufactura                                                           -2,2%       3,8%      -9,7%      17,9%      -3,6%       -2,5%      -4,5%
+    Construcció                                                           13,8%      10,8%       1,4%      10,1%       6,3%        5,9%      10,8%
+    Comerç a l'engròs i al detall i reparació de vehicles                  1,5%       1,0%      -9,8%       3,5%      10,6%        2,7%       1,6%
+    Hoteleria i restauració                                                3,7%       0,5%     -30,7%       1,3%      29,3%        2,6%       5,3%
+    Transport i Emmagatzematge                                             5,1%       5,6%     -17,8%       9,0%      19,1%        9,9%      -1,2%
+    Informació i Comunicacions                                            -2,2%       0,0%      -9,6%       5,3%       3,0%       -3,6%      -8,2%
+    Activitats Financeres i Asseguradores                                -12,6%       1,1%      -3,6%      20,4%       2,9%        5,4%      -0,4%
+    Activitats Immobiliàries                                               5,9%       2,5%      -0,3%      10,1%       3,2%        3,4%       3,1%
+    Activitats Professionals, Científiques i Tècniques                    10,3%       6,6%     -11,2%       6,0%      21,7%        3,3%       9,2%
+    Administració Pública, Educació, Salut i Treballs Socials              4,0%       0,5%      -1,6%       4,7%      -0,6%        0,9%       7,6%
+    Altres Activitats i Serveis Personals                                  2,8%       3,6%     -13,3%       4,6%       7,4%        0,2%      -1,8%
+    VAB                                                                    2,1%       2,6%      -8,0%       7,4%       6,7%        4,2%       3,5%
+
+
+
+
+NP-A092_20251218                                                                                                                           Pàgina 22 de 26
+                              Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   7     Pressió fiscal
+
+
+   Pel que fa a la pressió fiscal de l’any 2024, i segons el principi de meritament, l’estimació semi-
+   definitiva del PIB confirma la xifra del 27,5%, amb un increment de 1,6 punts percentuals respecte a
+   la pressió fiscal enregistrada l’any 2023 (25,9%).
+
+
+
+                                                           Pressió fiscal
+                                                        Principat d'Andorra
+        30%
+
+
+                                                                                                              27,5%
+                                                                              26,7%
+                                                                                                   25,9%
+                                    25,3%
+                    25,0%                                24,7%
+        25%
+
+
+
+
+        20%
+
+
+
+
+        15%
+                    2019            2020                  2021                2022                 2023       2024
+
+
+
+
+                                                           PIB i Impostos
+                                                         Principat d'Andorra
+       4.500
+
+       4.000                                                                                                  3.736,44
+                                                                                                   3.500,58
+       3.500
+                                                                              3.210,31
+
+       3.000       2.818,42                             2.810,97
+                                   2.531,08
+       2.500
+
+       2.000
+
+       1.500
+                                                                                                              1.027,35
+                                                                              857,39                906,17
+       1.000        703,23
+                                    640,20                694,26
+
+        500
+
+          0
+                    2019            2020                  2021                 2022                 2023       2024
+                                              PIB (milions €)      Impostos meritats (milions €)
+
+
+
+
+NP-A092_20251218                                                                                                         Pàgina 23 de 26
+                            Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   8       Notes metodològiques
+
+
+   Definicions i acrònims:
+
+   •   PIB Real: Producte Interior Brut a preus constants
+   •   PIB Nominal: Producte Interior Brut a preus corrents
+   •   VAB: Valor Afegit Brut
+   •   Població registrada: població inscrita als registres dels censos parroquials.
+   •   Població estimada: població resident estimada, per part del Departament d’Estadística, a partir de
+       l’encreuament de diferents registres administratius, partint de la informació de base dels censos
+       parroquials.
+   •   Eurostat (Statistical Office of the European Communities): oficina estadística de la Comissió
+       Europea http://ec.europa.eu/eurostat/data/database
+   •   OCDE: Organització per a la Cooperació i el Desenvolupament Econòmic
+       http://stats.oecd.org/Index.aspx?Dataset%20Code=SNA_TABLE4
+
+
+   Metodologies:
+
+   Referent al PIB:
+
+       •     Desagregació sectorial i informació primària:
+
+   Seguint les indicacions d’Eurostat, s’han establert 10 sectors d’activitat derivats de la classificació
+   europea d’activitats econòmiques NACE Rev.2. Tot i així, es considera oportú ampliar a 13 àmbits
+   sectorials desagregant el sector “Comerç a l’Engròs i al Detall, Transport, Hoteleria i Sector
+   Restaurador” en tres subsectors: “Comerç a l’Engròs i al Detall i Reparació de Vehicles”, “Transport i
+   Emmagatzematge” i “Hoteleria i Sector Restauració”.
+
+
+   Pel que fa la informació primària, el procés d’estimació semi-definitiva, a diferència de l’estimació
+   avançada, incorpora informació directa d’alguns sectors d’activitat econòmica. Aquestes dades
+   s’obtenen de les següents fonts:
+       -     La massa salarial bruta declarada a la Caixa Andorrana de Seguretat Social (CASS)
+             distribuïda per nivells d’activitats (Nivell 2 i 6 de la CAEA).
+       -     Les liquidacions pressupostàries de FEDA i ANDORRA TELECOM.
+       -     Dades sobre els Comptes Anuals del sector financer.
+       -     Les liquidacions pressupostàries de les administracions públiques, del Govern Andorra i dels
+             Comuns, en base als ingressos liquidats per “Impostos sobre els Productes” (D.21) i les
+             subvencions sobre els productes (D.31). .
+
+
+   Altres informacions directes dels sectors d’activitats econòmiques presentats es poden trobar a:
+   https://www.estadistica.ad/portal/apps/sites/#/estadisticaca/pages/publicacio?Idioma=ca&Id=26979&I
+   dCat=4,5
+
+
+NP-A092_20251218                                                                                 Pàgina 24 de 26
+                         Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+       •   Deflactor:
+
+
+   L’any base del deflactor del PIB real és l’any 2010 (2010=100). Atesa l’alta relació del país amb les
+   dues economies de l’entorn i la disponibilitat dels deflactors implícits del PIB espanyol i francès
+   s’estima el deflactor andorrà més plausible a partir de la mitjana ponderada dels deflactors de les
+   dues economies veïnes.
+
+
+
+   Programa estadístic: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+   desplegament en el Programa estadístic per a l’any 2024, aquest informe dona resposta a l’activitat
+   estadística: A092. Comptabilitat Nacional Bàsica d’Andorra.
+
+
+   Citació: Per a qualsevol utilització de la informació continguda en aquesta nota de premsa gràcies de
+   citar “Dades del Departament d’Estadística per a la Nota de Premsa ref. NP-A092_20251218”.
+
+
+   Contactes: Per estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la
+   nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+   d’aquest tema: http://www.estadistica.ad. Amb l’objectiu de maximitzar la difusió de la informació
+   estadística d’Andorra, les Notes de Premsa del Departament d’Estadística es podran seguir també
+   per X (antic TWITTER).
+
+
+
+
+NP-A092_20251218                                                                                Pàgina 25 de 26
+                         Estimació semi-definitiva del PIB 2024: valor real i nominal
+
+
+
+
+   9       Dates de les publicacions previstes
+
+
+   Nota de premsa “A092. Estimació semi-definitiva del PIB 2025: valor real i nominal”: 4t trimestre del
+   2026
+
+
+
+
+NP-A092_20251218                                                                                Pàgina 26 de 26
+

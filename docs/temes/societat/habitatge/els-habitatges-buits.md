@@ -123,13 +123,70 @@ obtenir-ne una altra fins que passi el termini reglamentari, ni tornar-hi si la
 temporada anterior se li va constatar **qualsevol incompliment** de la normativa
 d'immigració (article 1).
 
+## Quant val un metre quadrat, parròquia per parròquia
+
+El corpus arrossegava un forat a tota la branca de l'habitatge: **tenia
+variacions i no tenia cap preu absolut**. El Departament d'Estadística el publica
+cada trimestre, en la nota que ajunta **A117 transaccions immobiliàries** i
+**A145 preus de l'habitatge i el sòl**.
+
+**Preu mitjà per metre quadrat dels pisos transmesos**, en euros:
+
+| Parròquia | 2024 | 2025 | Variació |
+| --- | --- | --- | --- |
+| Canillo | 3.566,3 | 3.752,4 | +5,2% |
+| Encamp | 3.123,2 | 3.242,0 | +3,8% |
+| Ordino | 3.691,7 | 4.134,5 | +12,0% |
+| La Massana | 3.296,0 | 3.663,0 | +11,1% |
+| Andorra la Vella | 5.063,6 | **4.885,9** | **−3,5%** |
+| Sant Julià de Lòria | 2.524,4 | 3.335,1 | **+32,1%** |
+| Escaldes-Engordany | 5.282,4 | **6.117,0** | +15,8% |
+| **Tot el país** | **4.053,1** | **4.479,4** | **+10,5%** |
+
+**Tres coses que la taula diu i que no s'endevinen.**
+
+**Primera, la distància entre parròquies és de gairebé el doble.** Escaldes
+(6.117 €/m²) val **1,83 vegades** Encamp (3.242 €/m²). Un pis de 80 m² costa
+**489.000 euros** a Escaldes i **259.000** a Encamp.
+
+**Segona, l'única parròquia que baixa és la capital.** Andorra la Vella perd un
+**3,5%** el 2025 mentre el país puja un 10,5% — i deixa de ser la parròquia més
+cara per primera vegada, superada per Escaldes.
+
+**Tercera, la parròquia que més puja és la més barata.** Sant Julià de Lòria fa
+**+32,1%** en un any i continua sent l'última de la llista.
+
+**I la resta de béns**, per contrast: habitatge unifamiliar **3.664,6 €/m²**,
+terreny **1.287,9** (que fa **+66,9%** en un any), plaça d'aparcament
+**1.976,4**, local comercial **3.029,5** (l'única categoria que també baixa,
+**−5,2%**).
+
+**El mercat s'ha mogut molt**: **2.175 transaccions el 2025** contra 1.608 el
+2024, un **+35,3%**. Escaldes gairebé les dobla (+98,2%) i Canillo fa +63,3%;
+**Andorra la Vella es queda exactament igual** (313 i 313) i Sant Julià baixa.
+
+**Qui compra.** El **75,1%** de les adquisicions de persones físiques són de
+**residents**; el 24,9% de no residents. De les societats compradores, el
+**70,0%** són **íntegrament de residents**.
+
+**Un avís sobre què és aquesta xifra.** És el **preu mitjà del que s'ha
+transmès**, no el «**preu estadístic de mercat per parròquia**» que la llei
+d'habitatges buits fa servir com a sostre per quedar exempt. Són la mateixa
+matèria i no són el mateix acte: **la llei remet a una publicació del Govern amb
+efectes jurídics**, i aquesta és una estadística. **El corpus ja té el preu; el
+que encara no té és la publicació que el converteix en llindar legal.**
+
 ## Buits registrats
 
 - **Si s'ha aplicat mai**, no consta. El corpus té el procediment i cap cas.
 - **Quants habitatges buits hi ha** a Andorra, tampoc. La llei els defineix i no
   els compta.
-- **El preu estadístic de mercat per parròquia** és la peça que decideix qui
-  queda fora, i **el publica el Govern a part**: no és a la llei.
+- ~~**El preu estadístic de mercat per parròquia** és la peça que decideix qui
+  queda fora, i **el publica el Govern a part**: no és a la llei.~~ — `resolt`
+  el 17-09-2026 pel que fa al **preu**: vegeu
+  [Quant val un metre quadrat, parròquia per parròquia](#quant-val-un-metre-quadrat-parroquia-per-parroquia).
+  `Segueix obert quin acte del Govern fixa el «preu estadístic de mercat» amb
+  efectes jurídics, que no és la nota d'Estadística.`
 - ~~**El títol V**, amb els impostos contra l'especulació, **no s'ha llegit**.~~
   **Tancat**: vegeu
   [l'impost contra l'especulació](./limpost-contra-lespeculacio.md). Modifica
@@ -182,13 +239,15 @@ d'immigració (article 1).
 >   que no existeix enlloc del corpus.** **La llei els defineix i no els compta**,
 >   i **cap altre article del corpus no dona un recompte del parc d'habitatge
 >   andorrà**, ni buit ni ple.
-> - **«El preu estadístic de mercat per parròquia»** — **`obert`, i el corpus
->   arrossega el mateix forat a tota la branca**: **no té cap preu absolut de
->   l'habitatge andorrà, només variacions**
->   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md)).
->   `Requereix font externa: la publicació del Govern que fixa el preu
->   estadístic, o Estadística.`
+> - ~~**«El preu estadístic de mercat per parròquia»** — el corpus arrossega el
+>   mateix forat a tota la branca: **no té cap preu absolut de l'habitatge
+>   andorrà, només variacions**.~~ — **`resolt` el 17-09-2026 per la via
+>   d'Estadística**: la nota **A117/A145 del 09-02-2026** dona el **preu mitjà per
+>   metre quadrat de les set parròquies**, del **3.242 €/m² d'Encamp als 6.117
+>   d'Escaldes**. `El que queda obert és l'acte del Govern que en fa un llindar
+>   legal.`
 
 ## Related
 
 - [L'impost contra l'especulació](./limpost-contra-lespeculacio.md) — el rellotge de cinc anys i l'exempció del primer habitatge.
+- [El Departament d'Estadística](../../../fonts/estadistica-ad.md) — d'on surten els preus per parròquia.

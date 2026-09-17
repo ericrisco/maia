@@ -218,14 +218,17 @@ doblar: el 2019 el PIB nominal encara era inferior al del 2007**.
 | 2016 | 2.616,9 | publicat |
 | 2017 | 2.655,8 | publicat |
 | 2018 | 2.725,3 | publicat |
-| 2019 | **2.818,4** | publicat |
-| 2021 | 2.810,97 | publicat |
+| 2019 | 2.818,4 | publicat |
+| **2020** | **2.531,1** | publicat — **l'any en què el pla es mesurava** |
+| 2021 | 2.811,0 | publicat |
 | 2024 | 3.732,36 | publicat |
 
-**Dotze anys després del pic, el país encara no havia recuperat la xifra de
-partida.** El 2021 —primer any que l'edició del 2024 publica— el PIB nominal
-seguia per sota del 2007. La xifra del 2007 només se supera de manera clara cap
-al 2023-2024, i aleshores l'excés sobre el 2007 és d'**un 30%**, no del 100%.
+**L'any de la diana, el PIB era un 12% més baix que tretze anys abans.** El 2020
+—l'any que el pla es posava com a termini— el PIB nominal va ser de **2.531,1
+milions d'euros**, amb una caiguda del **−10,2%** per la pandèmia. El 2007 ja
+havia estat d'uns **2.880**. La xifra del 2007 no se supera de manera clara fins
+al **2022** (3.210,3), i el 2024 l'excés sobre el 2007 és d'**un 30%**, no del
+100%.
 
 **Què va passar el 2008.** La sèrie cau dos anys seguits (2008 i 2009), es queda
 plana el 2010-2011 i torna a caure el 2012-2013. El mínim del període és el
@@ -249,6 +252,14 @@ el calibratge els reprodueix amb un error màxim de **5 milions d'euros (0,2%)**
 Les xifres no publicades es donen, per tant, **arrodonides a la desena de
 milions** i valen com a ordre de magnitud, no com a dada oficial.
 
+**Comprovació posterior.** La nota **A092. Comptabilitat Nacional Bàsica**
+del **18-12-2025** publica en taula la sèrie **2018-2024** i, en etiquetes de
+gràfic, el **2014 (2.463)** i el **2015 (2.515)**. La lectura del gràfic del 2020
+dona 2.490 i 2.530 per aquests dos anys: **un 1% per sobre**. La xifra del 2007
+s'ha de llegir, doncs, amb aquesta tolerància — i **el marge no toca la
+conclusió**, perquè entre 2.880 i el doble hi ha 2.900 milions de diferència.
+([nota A092](../../../raw/estadistica-macro/a092-comptabilitat-nacional-20251218.txt))
+
 **La comparació és vàlida perquè és interna a una mateixa edició**: el 2007 i el
 2019 surten del mateix gràfic, de la mateixa metodologia i de la mateixa
 revisió de la sèrie.
@@ -269,8 +280,7 @@ revisió de la sèrie.
 5. ~~**Si el PIB es va doblar** entre 2007 i 2020, i què va passar el 2008.~~
    `resolt` el 17-09-2026 — vegeu
    [El PIB no es va doblar: el 2019 encara era per sota del 2007](#el-pib-no-es-va-doblar-el-2019-encara-era-per-sota-del-2007).
-   `Segueix obert el PIB del 2020 mateix: l'edició del 2020 d'Andorra en xifres
-   arriba al 2019 i la del 2024 comença el 2021.`
+
 6. **Les obres citades** —Bourdieu, Coleman, Putnam, Fukuyama, Kliksberg— no s'han
    llegit; el corpus només en té els noms i els anys.
 

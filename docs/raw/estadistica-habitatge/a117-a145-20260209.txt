@@ -1,0 +1,1627 @@
+       A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025
+      i A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre 2025 i any 2025
+
+                              Data de publicació: dilluns, 09/02/2026
+                                       www.estadistica.ad
+
+
+Resum
+
+Es constata un augment del +35,3% en el nombre de transaccions immobiliàries l’any 2025
+respecte de l’any anterior, on a Andorra la Vella (0,0%) i Sant Julià de Lòria (-1,8%) són les
+úniques parròquies on no augmenta el nombre de transaccions.
+
+
+En relació amb el nombre de béns immobles transmesos l’any 2025 la variació ha augmentat
+el +37,3% respecte a l’any anterior, on tots els béns immobles han sofert un augment de les
+seves transaccions amb l’excepció dels terrenys (-35,1%) i Edificis (-30,0%). Per parròquies, tres
+parròquies presenten disminucions mentre que a Escaldes-Engordany (+160,6%), Canillo
+(+87,6%), Ordino (+62,7%) i La Massana (+12,3%) les seves transmissions han incrementat
+respecte de l’any anterior.
+Segons el tipus de comprador, tant les persones físiques com les persones jurídiques mostren
+un augment significatiu de les adquisicions. Les persones físiques incrementen les seves
+compres en un 37,8%, i continuen sent el col·lectiu majoritari. D’aquestes operacions, el 75,1%
+corresponen a residents, mentre que el 24,9% restant són realitzades per no residents. Pel que
+fa a les persones jurídiques, les adquisicions augmenten un 36,4% respecte a l’any anterior. La
+major part d’aquestes operacions (70,0%) corresponen a societats íntegrament formades per
+residents, mentre que un 10,6% són societats amb una participació resident superior al 50%. El
+19,4% restant correspon a persones jurídiques amb una participació resident inferior al 50%.
+En relació amb l’edat del comprador, el grup d’edat més representatiu és el de 30 a 59 anys,
+que concentra el 64,0% del total de béns immobles adquirits.
+Per nacionalitat, totes les categories presenten increments l’any 2025, destacant especialment
+les compres realitzades per compradors d’altres nacionalitats (+61,2%), espanyols (+56,4%) i
+francesos (+43,9%).
+Segons el sexe del comprador, el nombre de béns immobles adquirits per homes augmenta
+un 41,1%, mentre que les adquisicions realitzades per dones creixen un 35,3% respecte a l’any
+anterior.
+
+
+
+A117_A145_20260209                                                                   Pàgina 1 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+Pel que fa al valor dels béns immobles transmesos l’any 2025, la variació ha augmentat un
++33,9% respecte de l’any anterior, on tots els béns transmesos han tingut un augment del valor
+en els béns transmesos a excepció dels edificis (-85,2%) i altres construccions (-23,7%) que han
+disminuït el valor dels béns transmesos respecte l’any anterior. Per parròquies, quatre parròquies
+han vist incrementat el valor dels béns transmesos respecte l’any passat mentre que a Sant Julià
+de Lòria (-49,5%), Andorra la Vella (-18,9%) i Ordino (-0,8%) han disminuït el valor dels béns
+transmesos respecte l’any anterior.
+
+
+En referència a la superfície transmesa l’any 2025, la variació ha disminuït el -9,0% respecte
+de l’exercici anterior. Cinc béns transmesos han augmentat la seva superfície transmesa a
+excepció dels Edificis (-88,0%), els Terrenys (-25,9%) i Altres construccions (-3,0%). Per
+parròquies, cinc parròquies disminueixen la superfície dels béns transmesos mentre que a
+Escaldes-Engordany (+102,3%) i La Massana (+3,4%) incrementa la superfície dels béns
+transmesos respecte l’any anterior.
+
+
+Pel que fa al preu mitjà per metre quadrat dels béns immobles transmesos al llarg de l’any
+2025, el preu mitjà per metre quadrat dels pisos incrementa el +10,5% i la resta de béns
+transmesos també presenten increments en el seu preu per metre quadrat, a excepció d’altres
+construccions (-21,3%) i locals comercials (-5,2%).
+Pel que respecta als pisos per parròquies, el preu per metre quadrat de pisos que més incrementa
+en termes relatius és a Sant Julià de Lòria (+32,1%) i Escaldes-Engordany (+15,8%). La única
+parròquia on disminueix és a Andorra la Vella (-3,5%).
+
+
+Cal tenir en compte que durant el període comprès entre el 3r trimestre del 2023 i el 1r trimestre del
+2024 va estar vigent la suspensió transitòria de la inversió estrangera en immobles, establerta per
+la Llei 16/2023, del 7 de setembre, de suspensió transitòria de la inversió estrangera en immobles al
+Principat d’Andorra. Aquesta suspensió va mantenir els seus efectes fins a l’entrada en vigor de la
+Llei 3/2024, de l’1 de febrer, de l’impost sobre la inversió estrangera immobiliària al Principat
+d’Andorra.
+
+
+Aquest marc normatiu excepcional pot haver condicionat significativament la distribució observada
+de les compres de béns immobles entre residents i no residents durant aquest període, així com
+influir en les variacions que es puguin observar en períodes posteriors, un cop aixecada la
+suspensió i restablerta progressivament l’activitat sota el nou règim legal.
+
+
+
+
+A117_A145_20260209                                                                        Pàgina 2 de 26
+            A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+           A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+Índex
+
+1.   Transaccions immobiliàries. ........................................................................................... 4
+ 1.1.      Nombre de transaccions immobiliàries ....................................................................... 4
+ 1.2.      Nombre de transaccions immobiliàries per parròquia .................................................. 5
+ 1.3.      Transmissió mitjana de béns immobles per transaccions immobiliàries ....................... 5
+ 1.4.      Transmissió mitjana de béns immobles per parròquia ................................................. 5
+2.   Béns immobles transmesos............................................................................................ 6
+ 2.1.      Per tipologia de bé immoble i parròquia ...................................................................... 6
+ 2.2.      Per tipus de comprador i residència............................................................................ 8
+ 2.3.      Per edat del comprador ............................................................................................ 10
+ 2.4.      Per nacionalitat del comprador ................................................................................. 11
+ 2.5.      Per sexe del comprador ........................................................................................... 12
+3.   Valor dels béns immobles transmesos ........................................................................ 13
+ 3.1.      Per tipologia de bé immoble i per parròquia .............................................................. 13
+ 3.2.      Per tipus de comprador i residència.......................................................................... 15
+ 3.3.      Per edat del comprador ............................................................................................ 17
+ 3.4.      Per nacionalitat del comprador ................................................................................. 18
+ 3.5.      Per sexe del comprador ........................................................................................... 19
+4.   Superfície transmesa..................................................................................................... 20
+ 4.1.      Per tipologia de bé immoble ..................................................................................... 20
+5.   Preu mitjà per metre quadrat dels pisos. 4t trimestre 2024 ......................................... 22
+ 5.1.      Preu mitjà per metre quadrat dels pisos. per parròquia ............................................. 23
+6.   Metodologia ................................................................................................................... 24
+7.   Dates de properes publicacions previstes ................................................................... 26
+
+
+
+
+A117_A145_20260209                                                                                                   Pàgina 3 de 26
+           A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+1. Transaccions immobiliàries.
+
+    1.1. Nombre de transaccions immobiliàries
+
+El nombre de transaccions immobiliàries efectuades durant el quart trimestre del 2025 ha
+disminuït un -7,2% respecte al quart trimestre de l’any anterior.
+
+
+
+                                                                  4t            4t
+                                                                                        Variació     Variació                              Variació    Variació
+                                                              Trimestre     Trimestre                            Any 2024     Any 2025
+                                                                                        absoluta    percentual                             absoluta   percentual
+                                                                 2024          2025
+Transaccions
+                                                                      596         553         -43       -7,2%       1.608        2.175          567       35,3%
+immobiliàries
+
+
+
+
+                                                                  Nombre de transaccions immobiliàries (interanual)
+                                                        800
+
+                                                        700
+                                                                                            625
+
+
+
+
+                Nombre de transaccions
+                                                                               596                                   596
+                                                        600                                                                        553
+                                                                 493                                     511
+                                                        500
+
+                                                        400
+
+                                                        300
+
+                                                        200
+
+                                                        100
+
+                                                          0
+                                                               4T 2020        4T 2021     4T 2022      4T 2023      4T 2024      4T 2025
+
+
+
+
+                                                                  Nombre de transaccions immobiliàries (intertrimestral)
+                                                        800
+
+
+                                                        700
+
+                                                                               596
+                                                        600                                                          575
+                                                                                                                                   553
+
+
+
+
+                               Nombre de transaccions
+                                                                                                         536
+                                                                                           511
+                                                        500
+
+
+                                                        400
+                                                                348
+
+                                                        300
+
+
+                                                        200
+
+
+                                                        100
+
+
+                                                          0
+                                                               3T 2024       4T 2024      1T 2025      2T 2025      3T 2025      4T 2025
+
+
+
+
+A117_A145_20260209                                                                                                                              Pàgina 4 de 26
+            A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+          A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+   1.2. Nombre de transaccions immobiliàries per parròquia
+
+
+
+
+          Transaccions immobiliàries                                                    Variació           Variació
+                                     Any 2024                          Any 2025
+                per parròquia                                                           absoluta          percentual
+
+          Canillo                                           259                423               164          63,3%
+          Encamp                                            327                379                52          15,9%
+          Ordino                                            110                169                59          53,6%
+          La Massana                                        218                299                81          37,2%
+          Andorra la Vella                                  313                313                 0           0,0%
+          Sant Julià de Lòria                               163                160                -3          -1,8%
+          Escaldes-Engordany                                218                432               214          98,2%
+                     Total                                1.608              2.175               567          35,3%
+
+
+
+
+   1.3. Transmissió mitjana de béns immobles per transaccions immobiliàries
+
+
+
+
+     Transmissió mitjana de       4t            4t
+                                                         Variació     Variació                             Variació     Variació
+       béns immobles per      Trimestre     Trimestre                             Any 2024     Any 2025
+                                                         absoluta    percentual                            absoluta    percentual
+  transmissions immobiliàries    2024          2025
+
+            Total                     3,1          2,8        -0,2       -7,5%           2,9         2,9         0,0        1,5%
+
+
+
+
+   1.4. Transmissió mitjana de béns immobles per parròquia
+
+
+
+
+                        Transmissió mitjana de
+                                                                                                Variació
+                          béns immobles per                   Any 2024        Any 2025
+                                                                                               percentual
+                      transaccions immobiliàries
+                     Canillo                                           2,7             3,1           14,8%
+                     Encamp                                            2,4             1,8          -26,6%
+                     Ordino                                            2,8             3,0            5,9%
+                     La Massana                                        2,7             2,2          -18,1%
+                     Andorra la Vella                                  3,6             3,1          -12,7%
+                     Sant Julià de Lòria                               2,5             2,4           -6,8%
+                     Escaldes-Engordany                                3,3             4,3           31,5%
+                                Total                                  2,9             2,9            1,5%
+                      L'import amb decimals és només com a referència per la seva comparabilitat.
+
+
+
+
+A117_A145_20260209                                                                                                    Pàgina 5 de 26
+            A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+           A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+2. Béns immobles transmesos
+
+   2.1. Per tipologia de bé immoble i parròquia
+
+El total de béns immobles transmesos durant el quart trimestre del 2025 ha disminuït el -14,2%
+respecte al quart trimestre de l’any anterior, on totes les agrupacions de béns immobles han
+disminuït la seva transacció respecte al quart trimestre de l’any 2024 excepte els Locals
+comercials i Magatzems (+15,0%).
+
+
+
+
+                                                               4t            4t
+                                                                                        Variació       Variació                             Variació    Variació
+     Béns immobles transmesos                              Trimestre     Trimestre                                 Any 2024    Any 2025
+                                                                                        absoluta      percentual                            absoluta   percentual
+                                                              2024          2025
+  Pis, habitage unifamiliar i edifici                              606           518            -88      -14,5%        1.489      2.148          659       44,3%
+  Terreny i plaça d'aparcament                                     806           656           -150      -18,6%        2.133      2.780          647       30,3%
+  Local comercial i magatzem (nau)                                  20            23              3       15,0%           69         79           10       14,5%
+  Altres construccions                                             386           363            -23       -6,0%          938      1.349          411       43,8%
+                 Total                                           1.818         1.560           -258      -14,2%        4.629      6.356        1.727       37,3%
+
+
+
+
+                                                                  Béns immobles transmesos (interanual)
+                                            2.000
+                                            1.800
+                                            1.600                                                                    386
+
+
+
+
+                  Nombre de béns immobles
+                                                                                       401
+                                                                       332
+                                            1.400                                                                                     363
+                                                     292
+                                            1.200                                                      289
+                                            1.000                                      751                           806
+                                                                       755
+                                             800                                                                                      656
+                                                     599                                               542
+                                             600
+                                             400
+                                                                       535             590                           606              518
+                                             200     489                                               470
+
+                                               0
+                                                    4T 2020         4T 2021          4T 2022          4T 2023      4T 2024       4T 2025
+
+                                                              Pis, habitage unifamiliar i edifici       Terreny i plaça d'aparcament
+                                                              Local comercial i magatzem (nau)          Altres construccions
+
+
+
+
+                                                                  Béns immobles transmesos (intertrimestral)
+                                            2.000
+                                            1.800
+                                            1.600                      386                                           377
+
+
+
+
+                  Nombre de béns immobles
+                                                                                                       347
+                                            1.400                                                                                  363
+                                            1.200                                      262
+                                            1.000                      806                                           817
+                                                     196                                               728
+                                             800                                                                                   656
+                                                                                       579
+                                             600     537
+                                             400
+                                                                       606                             588           604           518
+                                             200                                       438
+                                                     293
+                                                0
+                                                    3T 2024         4T 2024          1T 2025          2T 2025      3T 2025       4T 2025
+                                                           Pis, habitage unifamiliar i edifici         Terreny i plaça d'aparcament
+                                                           Local comercial i magatzem (nau)            Altres construccions
+
+
+
+
+A117_A145_20260209                                                                                                                                 Pàgina 6 de 26
+          A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+                  Béns immobles transmesos                           Variació    Variació
+                                               Any 2024   Any 2025
+                          tipologia                                  absoluta   percentual
+               Pis                                1.374      2.004        630      45,9%
+               Habitatge unifamiliar                105        137         32      30,5%
+               Terreny                              425        276       -149     -35,1%
+               Plaça aparcament                   1.708      2.504        796      46,6%
+               Local comercial                       68         76          8      11,8%
+               Magatzem (nau)                         1          3          2     200,0%
+               Edifici                               10          7         -3     -30,0%
+               Altres construccions                 938      1.349        411      43,8%
+                              Total               4.629      6.356      1.727      37,3%
+
+
+
+
+                Béns immobles transmesos per                         Variació    Variació
+                                               Any 2024   Any 2025
+                         parròquia                                   absoluta   percentual
+               Canillo                              692      1.298        606      87,6%
+               Encamp                               785        668       -117     -14,9%
+               Ordino                               311        506        195      62,7%
+               La Massana                           592        665         73      12,3%
+               Andorra la Vella                   1.123        980       -143     -12,7%
+               Sant Julià de Lòria                  411        376        -35      -8,5%
+               Escaldes-Engordany                   715      1.863      1.148     160,6%
+                              Total               4.629      6.356      1.727      37,3%
+
+
+
+
+A117_A145_20260209                                                                           Pàgina 7 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+           A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    2.2. Per tipus de comprador i residència
+
+
+                                                             4t        4t
+Béns immobles adquirits per                                                  Variació  Variació                                   Variació     Variació
+                                                         Trimestre Trimestre                              Any 2024     Any 2025
+comprador i residència                                                       absoluta percentual                                  absoluta    percentual
+                                                            2024      2025
+Persona Física                                                  1.117         1.054       -63    -5,6%        3.071       4.231       1.160       37,8%
+    Resident                                                      835           751       -84   -10,1%        2.546       3.179         633       24,9%
+    No Resident                                                   281           303        22     7,7%          525       1.052         527      100,3%
+Persona Jurídica                                                  702           506      -196   -27,9%        1.558       2.125         567       36,4%
+    100% Resident                                                 527           378      -149   -28,2%        1.011       1.487         476       47,1%
+    >= 50% Resident                                                96            15       -81   -84,4%          259         226         -33      -12,7%
+    < 50% Resident                                                 79           113        34    43,0%          288         412         124       43,1%
+             Total                                              1.818         1.560      -258   -14,2%        4.629       6.356       1.727       37,3%
+
+
+
+
+                                                             Béns immobles transmesos per comprador i residència
+                                              2.000
+                                                                                 (interanual)
+
+                                              1.800
+                                              1.600                                              183
+
+
+
+
+                  Nombre de béns immobles
+                                              1.400                                                            476
+                                                                        527
+                                              1.200                                              387                         378
+                                                                                       246
+                                              1.000    179
+                                               800
+                                                       187              835                                    963           751
+                                               600                                     674       791
+                                               400     513
+                                               200                                     297                                   303
+                                                                        281                      215           238
+                                                       129
+                                                 0
+                                                      3T 2024       4T 2024           1T 2025   2T 2025      3T 2025        4T 2025
+
+
+                                                          Persona Física No Residents             Persona Física Residents
+                                                          Persona Jurídica 100% Resident          Persona Jurídica >= 50% Resident
+                                                          Persona Jurídica < 50% Resident
+
+
+
+
+                                                             Béns immobles transmesos per comprador i residència
+                                              2.000
+                                                                               (intertrimestral)
+
+                                              1.800
+                                              1.600
+
+
+
+
+                    Nombre de béns immobles
+                                              1.400                                                            527
+                                                       206              296            366
+                                              1.200                                              230                         378
+                                                       183
+                                              1.000
+                                                                                                 199
+                                               800
+                                                                        902                                    835           751
+                                                                                       999
+                                               600     779
+                                                                                                 708
+                                               400
+                                               200                                                                           303
+                                                       199              276                                    281
+                                                  0
+                                                      4T 2020       4T 2021           4T 2022   4T 2023      4T 2024       4T 2025
+
+                                                        Persona Física No Residents               Persona Física Residents
+                                                        Persona Jurídica 100% Resident            Persona Jurídica >= 50% Resident
+                                                        Persona Jurídica < 50% Resident
+
+
+
+
+A117_A145_20260209                                                                                                                             Pàgina 8 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+D’aquells immobles adquirits per una persona física.
+
+                                     Béns immobles transmessos per Persona Física i Residència
+
+                              100%
+                              90%
+                              80%
+                              70%
+
+
+
+                Percentatge
+                              60%
+                              50%
+                              40%
+                              30%
+                              20%
+                              10%
+                               0%
+
+
+
+                                        Persona Física Residents   Persona Física No Residents
+
+
+
+
+Cal tenir en compte que durant el període comprès entre el 3r trimestre del 2023 i el 1r trimestre del
+2024 va estar vigent la suspensió transitòria de la inversió estrangera en immobles, establerta per
+la Llei 16/2023, del 7 de setembre, de suspensió transitòria de la inversió estrangera en immobles al
+Principat d’Andorra. Aquesta suspensió va mantenir els seus efectes fins a l’entrada en vigor de la
+Llei 3/2024, de l’1 de febrer, de l’impost sobre la inversió estrangera immobiliària al Principat
+d’Andorra.
+
+
+Aquest marc normatiu excepcional pot haver condicionat significativament la distribució observada
+de les compres de béns immobles entre residents i no residents durant aquest període, així com
+influir en les variacions que es puguin observar en períodes posteriors, un cop aixecada la
+suspensió i restablerta progressivament l’activitat sota el nou règim legal.
+
+
+
+
+A117_A145_20260209                                                                               Pàgina 9 de 26
+           A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    2.3. Per edat del comprador
+
+D’aquells immobles adquirits per una persona física.
+
+
+                                4t          4t
+  Béns immobles adquirits                             Variació     Variació                               Variació    Variació
+                            Trimestre   Trimestre                                   Any 2024   Any 2025
+  per edat del comprador                              absoluta    percentual                              absoluta   percentual
+                               2024        2025
+  De 0 a 29 Anys                  143         105           -38         -26,7%           299        331         32       10,5%
+  De 30 a 59 Anys                 615         669            54           8,8%         1.870      2.709        838       44,8%
+  60 Anys o més                   319         247           -71         -22,4%           776      1.052        276       35,6%
+  Sense Informació                 40          33            -7         -18,3%           126        140         14       11,2%
+           Total                1.117       1.054           -62          -5,6%         3.071      4.231      1.160       37,8%
+
+
+
+
+                                           Béns immobles transmesos per edat
+
+                                                                 33
+                                                                        105
+
+                                                    247
+
+
+
+
+                                                                              669
+
+
+
+
+                       De 0 a 29 Anys      De 30 a 59 Anys            60 Anys o més       Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                               Pàgina 10 de 26
+           A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+          A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    2.4. Per nacionalitat del comprador
+
+
+Béns immobles adquirits                               4t          4t
+                                                                           Variació    Variació                            Variació    Variació
+  per nacionalitat del                            Trimestre   Trimestre                            Any 2024    Any 2025
+                                                                           absoluta   percentual                           absoluta   percentual
+      comprador                                      2024        2025
+Andorrana                                               339          237       -102      -30,1%       1.051       1.178         127       12,1%
+Espanyola                                               367          345        -23       -6,2%         961       1.504         542       56,4%
+Francesa                                                198          170        -27      -13,9%         354         509         155       43,9%
+Portuguesa                                               32           15        -17      -53,1%          80          97          17       20,6%
+Altres                                                  140          254        114       81,3%         499         805         305       61,2%
+Sense Informació                                         40           33         -7      -18,3%         126         139          13       10,4%
+         Total                                        1.117        1.054        -63       -5,6%       3.071       4.231       1.160       37,8%
+
+
+
+
+                                                               Béns immobles transmesos per nacionalitat
+                                          1.400                              (interanual)
+
+                                          1.200
+
+
+
+
+                Nombre de béns immobles
+                                          1.000                   165         148                      140
+                                                                                                                   254
+                                           800        176         111                                  198
+                                                                              286           124                    170
+                                           600                    377
+                                                                                                       367
+                                                      296
+                                           400                                              222                    345
+                                                                              528
+                                           200                    398                                  339
+                                                      309                                   284                    237
+                                              0
+                                                    4T 2020     4T 2021     4T 2022      4T 2023     4T 2024     4T 2025
+                                                            Andorrana           Espanyola             Francesa
+                                                            Portuguesa          Altres                Sense Informació
+
+
+
+
+                                                               Béns immobles transmesos per nacionalitat
+                                          1.400                            (intertrimestral)
+
+                                          1.200
+
+
+
+
+                Nombre de béns immobles
+                                                                                                       177
+                                          1.000                   140
+                                                                                            202                    254
+                                                                              171
+                                           800                    198
+                                                                                                                   170
+                                           600                                                         421
+                                                     136          367
+                                                                              365           373
+                                           400                                                                     345
+                                                     231
+                                           200                    339                                  397
+                                                                              283           261                    237
+                                                     182
+                                             0
+                                                    3T 2024     4T 2024     1T 2025      2T 2025     3T 2025     4T 2025
+                                                            Andorrana           Espanyola             Francesa
+                                                            Portuguesa          Altres                Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                                              Pàgina 11 de 26
+           A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+   2.5. Per sexe del comprador
+
+        D’aquells immobles adquirits per una persona física.
+
+
+                                                        4t          4t
+  Béns immobles adquirits                                                   Variació     Variació                               Variació    Variació
+                                                    Trimestre   Trimestre                             Any 2024     Any 2025
+  per sexe del comprador                                                    absoluta    percentual                              absoluta   percentual
+                                                       2024        2025
+  Home                                                    700         675         -25       -3,6%         1.843         2.601        758       41,1%
+  Dona                                                    376         347         -30       -7,9%         1.102         1.491        389       35,3%
+  Sense Informació                                         40          33          -7      -18,3%           126           139         13       10,4%
+           Total                                        1.117       1.054         -63       -5,6%         3.071         4.231      1.160       37,8%
+
+
+
+
+                                                                Béns immobles transmesos per sexe
+                                            1.400                         (interanual)
+
+                                            1.200
+
+
+
+
+                  Nombre de béns immobles
+                                            1.000
+                                                                   382                                     376           347
+                                             800                               435
+                                                      305
+                                             600                                             291
+
+                                             400
+                                                                   681                                     700           675
+                                                      583                      616
+                                             200                                             435
+
+                                               0
+                                                    4T 2020      4T 2021     4T 2022       4T 2023       4T 2024        4T 2025
+
+                                                                  Home            Dona               Sense Informació
+
+
+
+
+                                                                Béns immobles transmesos per sexe
+                                            1.400                        (intertrimestral)
+
+                                            1.200
+
+
+
+
+                Nombre de béns immobles
+                                            1.000
+                                                                   376                                     467
+                                                                                             322                         347
+                                             800
+                                                                               355
+                                             600
+                                                      232
+                                             400
+                                                                   700                       661           686           675
+                                                                               579
+                                             200      387
+
+                                                0
+                                                    3T 2024      4T 2024     1T 2025       2T 2025       3T 2025        4T 2025
+
+                                                                  Home            Dona               Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                                                     Pàgina 12 de 26
+                 A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+               A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+3. Valor dels béns immobles transmesos
+
+    3.1. Per tipologia de bé immoble i per parròquia
+
+            El valor total dels béns immobles transmesos el quart trimestre del 2025 ha disminuït el
+            -17,7% respecte al quart trimestre de l’any anterior.
+
+
+                                                               4t          4t
+         Valor dels béns immobles                                                    Variació        Variació                               Variació    Variació
+                                                           Trimestre   Trimestre                                 Any 2024       Any 2025
+                transmesos                                                           absoluta       percentual                              absoluta   percentual
+                                                              2024        2025
+  Pis, habitage unifamiliar i edifici                          272,7        231,5           -41,2      -15,1%        622,0          866,7      244,7       39,3%
+  Terreny i plaça d'aparcament                                 136,3        108,7           -27,6      -20,3%        371,2          474,2      103,1       27,8%
+  Local comercial i magatzem (nau)                              13,2         12,5            -0,7       -5,3%         26,8           38,9       12,1       45,2%
+  Altres construccions                                          12,1          4,7            -7,5      -61,4%         23,7           18,1       -5,6      -23,7%
+                 Total                                         434,3        357,3           -77,0      -17,7%      1.043,7        1.397,9      354,3       33,9%
+  Unitat: milions d'euros
+
+
+
+
+                                                      Valor dels béns immobles transmesos (interanual)
+                                             500
+                                             450
+                                             400
+
+
+
+
+                        Import (milions €)
+                                             350                                                                  136,31
+                                             300
+                                                                                                                                  108,67
+                                                                                 126,78
+                                             250
+                                                                                                    119,04
+                                             200                  149,07
+                                                   121,59
+                                             150
+                                                                                                                  272,70
+                                                                                                                                  231,50
+                                             100                                 204,45
+                                                                                                    168,24
+                                                   123,16         136,03
+                                              50
+                                               0
+                                                   4T 2020       4T 2021         4T 2022            4T 2023      4T 2024         4T 2025
+                                                      Pis, habitage unifamiliar i edifici                Terreny i plaça d'aparcament
+                                                      Local comercial i magatzem (nau)                   Altres construccions
+
+
+
+
+                                                      Valor dels béns immobles transmesos (intertrimestral)
+                                             500
+                                             450
+                                             400
+
+
+
+
+                        Import (milions €)
+                                             350                 136,31
+                                             300
+                                                                                                    96,96                         108,67
+                                                                                 182,58                           86,02
+                                             250
+                                             200
+                                             150   82,77
+                                                                 272,70
+                                                                                                    232,99        227,99          231,50
+                                             100                                 174,25
+                                              50   116,33
+
+                                               0
+                                                   3T 2024       4T 2024         1T 2025            2T 2025      3T 2025         4T 2025
+                                                      Pis, habitage unifamiliar i edifici             Terreny i plaça d'aparcament
+                                                      Local comercial i magatzem (nau)                Altres construccions
+
+
+
+
+A117_A145_20260209                                                                                                                               Pàgina 13 de 26
+          A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+
+                      Valor dels béns immobles                         Variació    Variació
+                                                 Any 2024   Any 2025
+                      transmesos per tipologia                         absoluta   percentual
+
+               Pis                                  482,4      698,1      215,6      44,7%
+               Habitatge unifamiliar                108,9      164,1       55,2      50,7%
+               Terreny                              324,0      400,8       76,8      23,7%
+               Plaça aparcament                      47,2       73,5       26,3      55,7%
+               Local comercial                       25,9       35,8        9,9      38,1%
+               Magatzem (nau)                         0,9        3,1        2,2     254,3%
+               Edifici                               30,7        4,5      -26,1     -85,2%
+               Altres construccions                  23,7       18,1       -5,6     -23,7%
+                              Total               1.043,7    1.397,9      354,3      33,9%
+               Unitat: milions d'euros
+
+
+
+
+                      Valor dels béns immobles                         Variació    Variació
+                                                 Any 2024   Any 2025
+                      transmesos per parròquia                         absoluta   percentual
+               Canillo                               99,9      177,7       77,8      78,0%
+               Encamp                                98,7      148,5       49,8      50,5%
+               Ordino                               127,1      126,0       -1,1      -0,8%
+               La Massana                           171,6      248,4       76,8      44,8%
+               Andorra la Vella                     245,3      198,9      -46,4     -18,9%
+               Sant Julià de Lòria                  132,1       66,7      -65,4     -49,5%
+               Escaldes-Engordany                   169,1      431,7      262,6     155,3%
+                               Total              1.043,7    1.397,9      354,3      33,9%
+
+
+
+
+A117_A145_20260209                                                                             Pàgina 14 de 26
+                  A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+                A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+      3.2. Per tipus de comprador i residència
+
+
+
+
+                                       4t                                  4t
+Valor dels béns immobles adquirits                                                   Variació        Variació                             Variació    Variació
+                                   Trimestre                           Trimestre                                   Any 2024 Any 2025
+per comprador i residència                                                           absoluta       percentual                            absoluta   percentual
+                                      2024                                2025
+Persona Física                                                 254,8        210,9           -44,0        -17,3%        679,5      884,0      204,5       30,1%
+    Resident                                                   212,0        162,1           -50,0        -23,6%        591,7      692,4      100,7       17,0%
+    No Resident                                                 42,8         48,8             6,0         14,0%         87,8      191,6      103,8      118,3%
+Persona Jurídica                                               179,5        146,5           -33,0        -18,4%        364,1      513,9      149,8       41,1%
+    100% Resident                                              124,2         90,5           -33,7        -27,1%        220,8      312,0       91,2       41,3%
+    >= 50% Resident                                             32,1         14,3           -17,8        -55,5%         62,2       77,8       15,6       25,1%
+    < 50% Resident                                              23,2         41,7            18,5         79,9%         81,2      124,1       43,0       53,0%
+             Total                                             434,3        357,3           -77,0        -17,7%      1.043,7    1.397,9      354,3       33,9%
+Unitat: milions d'euros
+
+
+
+
+                                                      Valor dels béns immobles transmesos per comprador i residència
+                                                                                (interanual)
+                                               500
+                                               450
+                                               400
+
+
+
+
+                          Import (milions €)
+                                               350
+                                                                                                                                41,70
+                                                                  124,16            55,24
+                                               300
+                                               250                                                                              90,46
+                                                                                                     86,35         79,92
+                                               200    37,29
+                                                                                   218,12
+                                               150                212,05
+                                                                                                    157,45        154,75       162,06
+                                               100
+                                                     111,49
+                                                50
+                                                                   42,79            60,62            39,84         42,36        48,80
+                                                 0
+                                                     3T 2024      4T 2024       1T 2025             2T 2025       3T 2025      4T 2025
+                                                     Persona Física No Residents                    Persona Física Residents
+                                                     Persona Jurídica 100% Resident                 Persona Jurídica >= 50% Resident
+                                                     Persona Jurídica < 50% Resident
+
+
+
+
+                                                        Valor dels béns immobles transmesos per comprador i residència
+                                                                               (intertrimestral)
+                                               500
+                                               450
+                                               400
+
+
+
+
+                          Import (milions €)
+                                               350
+                                                                                                                                41,70
+                                                                                                                  124,16
+                                               300
+                                               250                                  91,48                                       90,46
+                                                                   58,79                             46,45
+                                               200    52,63
+                                               150                                                                212,05
+                                                                                                                               162,06
+                                                                  163,13           179,34           176,62
+                                               100   147,43
+                                                50
+                                                                                                                   42,79        48,80
+                                                 0
+                                                     4T 2020      4T 2021       4T 2022             4T 2023       4T 2024      4T 2025
+                                                     Persona Física No Residents                    Persona Física Residents
+                                                     Persona Jurídica 100% Resident                 Persona Jurídica >= 50% Resident
+                                                     Persona Jurídica < 50% Resident
+
+
+
+
+A117_A145_20260209                                                                                                                            Pàgina 15 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+D’aquells immobles adquirits per una persona física
+
+                                     Valor dels béns immobles transmessos per Persona Física i
+                                                            Residència
+                              100%
+                              90%
+                              80%
+                              70%
+
+
+
+                Percentatge
+                              60%
+                              50%
+                              40%
+                              30%
+                              20%
+                              10%
+                               0%
+
+
+
+                                        Persona Física Residents   Persona Física No Residents
+
+
+
+
+Cal tenir en compte que durant el període comprès entre el 3r trimestre del 2023 i el 1r trimestre del
+2024 va estar vigent la suspensió transitòria de la inversió estrangera en immobles, establerta per
+la Llei 16/2023, del 7 de setembre, de suspensió transitòria de la inversió estrangera en immobles al
+Principat d’Andorra. Aquesta suspensió va mantenir els seus efectes fins a l’entrada en vigor de la
+Llei 3/2024, de l’1 de febrer, de l’impost sobre la inversió estrangera immobiliària al Principat
+d’Andorra.
+
+
+Aquest marc normatiu excepcional pot haver condicionat significativament la distribució observada
+de les compres de béns immobles entre residents i no residents durant aquest període, així com
+influir en les variacions que es puguin observar en períodes posteriors, un cop aixecada la
+suspensió i restablerta progressivament l’activitat sota el nou règim legal.
+
+
+
+
+A117_A145_20260209                                                                               Pàgina 16 de 26
+                  A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+                A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+      3.3. Per edat del comprador
+
+D’aquells immobles adquirits per una persona física
+
+
+
+                                          4t           4t
+ Valor dels béns immobles adquirits                              Variació       Variació                           Variació    Variació
+                                      Trimestre    Trimestre                                Any 2024    Any 2025
+       per edat del comprador                                    absoluta      percentual                          absoluta   percentual
+                                         2024         2025
+De 0 a 29 Anys                              67,5          20,8         -46,7      -69,2%        89,8        61,8      -28,0      -31,2%
+De 30 a 59 Anys                            109,4         129,8          20,4       18,6%       366,8       527,0      160,2       43,7%
+60 Anys o més                               72,9          51,5         -21,4      -29,3%       205,0       271,5       66,5       32,4%
+Sense Informació                             5,0           8,8           3,7       74,0%        17,8        23,7        5,9       33,0%
+               Total                       254,8         210,9         -44,0      -17,3%       679,5       884,0      204,5       30,1%
+Unitat: milions d'euros
+
+
+
+
+                               Valor dels béns immobles transmesos per edat
+                                              (milions d'euros)
+
+
+                                                                 8,8      20,8
+
+
+                                                  51,5
+
+
+
+
+                                                                                 129,8
+
+
+
+
+                          De 0 a 29 Anys      De 30 a 59 Anys                  60 Anys o més           Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                                    Pàgina 17 de 26
+                 A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+              A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    3.4. Per nacionalitat del comprador
+
+
+
+
+                                                                4t          4t
+   Valor dels béns immobles adquirits                                                 Variació       Variació                          Variació    Variació
+                                                            Trimestre   Trimestre                                Any 2024   Any 2025
+     per nacionalitat del comprador                                                   absoluta      percentual                         absoluta   percentual
+                                                               2024        2025
+  Andorrana                                                     112,6        51,5           -61,1      -54,3%       288,4      245,1      -43,3      -15,0%
+  Espanyola                                                      54,8        50,7            -4,1       -7,4%       146,3      240,2       93,9       64,2%
+  Francesa                                                       38,0        33,8            -4,2      -11,0%        71,7      115,6       44,0       61,3%
+  Portuguesa                                                      2,6         4,6             2,0       75,4%         9,2       15,8        6,6       72,5%
+  Altres                                                         41,8        61,5            19,7       47,2%       146,2      243,8       97,6       66,8%
+  Sense Informació                                                5,0         8,8             3,7       74,0%        17,8       23,5        5,7       31,8%
+                Total                                           254,8       210,9           -44,0      -17,3%       679,5      884,0      204,5       30,1%
+  Unitat: milions d'euros
+
+
+
+
+                                                            Valor dels béns immobles transmesos per nacionalitat
+                                             300                                (interanual)
+
+                                             250
+
+
+
+
+                        Import (milions €)
+                                                                                                                  41,76
+                                             200
+                                                                                                                  37,99
+                                                                                    30,18           44,54                     61,48
+                                                                   22,42
+                                             150
+                                                    32,96          27,12                                          54,80
+                                                                                    49,30           60,92                     33,79
+                                             100                   37,50
+                                                    37,03
+                                                                                                                              50,73
+                                              50                                    99,32           39,77        112,63
+                                                    74,17          89,71
+                                                                                                    36,21                     51,49
+                                               0
+                                                   4T 2020       4T 2021       4T 2022           4T 2023         4T 2024     4T 2025
+                                                            Andorrana                 Espanyola                   Francesa
+                                                            Portuguesa                Altres                      Sense Informació
+
+
+
+
+                                                       Valor dels béns immobles transmesos per nacionalitat
+                                             300                          (intertrimestral)
+
+                                             250
+
+
+
+
+                        Import (milions €)
+                                                                   41,76        100,65
+                                             200
+                                                                   37,99
+                                                                                                    45,46         36,20       61,48
+                                             150
+                                                                   54,80
+                                                    29,43                           57,63                                     33,79
+                                             100
+                                                                                                                  68,02
+                                                    37,81                                           63,81                     50,73
+                                              50                  112,63
+                                                                                    88,69
+                                                    51,87                                           47,61         57,31       51,49
+                                               0
+                                                   3T 2024       4T 2024       1T 2025           2T 2025         3T 2025     4T 2025
+                                                            Andorrana                  Espanyola                  Francesa
+                                                            Portuguesa                 Altres                     Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                                                          Pàgina 18 de 26
+                 A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+              A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    3.5. Per sexe del comprador
+                                                                4t          4t
+   Valor dels béns immobles adquirits                                               Variació      Variació                             Variació    Variació
+                                                            Trimestre   Trimestre                             Any 2024    Any 2025
+         per sexe del comprador                                                     absoluta     percentual                            absoluta   percentual
+                                                               2024        2025
+  Home                                                          181,7       138,5        -43,2      -23,8%        461,7        595,6      133,9       29,0%
+  Dona                                                           68,1        63,6         -4,5       -6,6%        200,0        264,9       64,9       32,4%
+  Sense Informació                                                5,0         8,8          3,7       74,0%         17,8         23,5        5,7       31,8%
+                Total                                           254,8       210,9        -44,0      -17,3%        679,5        884,0      204,5       30,1%
+  Unitat: milions d'euros
+
+
+
+
+                                                            Valor dels béns immobles transmesos per sexe
+                                             300                              (interanual)
+
+                                             250
+
+
+
+
+                        Import (milions €)
+                                                                                                               68,07
+                                             200
+                                                                                                 44,54                        63,60
+                                             150                   44,94        65,40
+                                                    54,33                                        50,18
+                                             100
+                                                                                                               181,74
+                                                                  132,65        123,04                                       138,51
+                                              50    99,90                                        103,47
+
+                                               0
+                                                   4T 2020       4T 2021       4T 2022         4T 2023        4T 2024        4T 2025
+
+                                                                   Home             Dona                  Sense Informació
+
+
+
+
+                                                        Valor dels béns immobles transmesos per sexe
+                                             300                        (intertrimestral)
+
+
+                                             250
+                                                                                67,35
+
+
+
+
+                        Import (milions €)
+                                                                   68,07
+                                             200
+
+                                                                                                 58,90                        63,60
+                                             150                                                               75,06
+
+                                                    41,11                       206,89
+                                             100
+                                                                  181,74
+                                                                                                 134,31                      138,51
+                                              50                                                               115,89
+                                                    91,34
+
+                                               0
+                                                   3T 2024       4T 2024       1T 2025         2T 2025        3T 2025        4T 2025
+
+                                                                   Home             Dona                  Sense Informació
+
+
+
+
+A117_A145_20260209                                                                                                                          Pàgina 19 de 26
+              A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+            A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+4. Superfície transmesa
+
+     4.1. Per tipologia de bé immoble
+
+           La superfície transmesa (en metres quadrats) el quart trimestre del 2025 en total ha
+           disminuït el -17,7% respecte al quart trimestre de l’any anterior.
+
+
+
+                                                      4t            4t
+                                                                             Variació       Variació                              Variació    Variació
+       Superfície transmesa                       Trimestre     Trimestre                               Any 2024    Any 2025
+                                                                             absoluta      percentual                             absoluta   percentual
+                                                     2024          2025
+Pis, habitage unifamiliar i edifici                  70.348        55.045       -15.303       -21,8%      165.134       201.956     36.822       22,3%
+Terreny i plaça d'aparcament                        109.468        93.854       -15.615       -14,3%      445.998       348.364    -97.634      -21,9%
+Local comercial i magatzem (nau)                      3.248         3.785           536        16,5%        8.465        12.854      4.390       51,9%
+Altres construccions                                  6.285         3.132        -3.153       -50,2%       14.392        13.956       -436       -3,0%
+               Total                                189.350       155.815       -33.535       -17,7%      633.989       577.131    -56.859       -9,0%
+
+
+
+
+                                                              Superfície transmesa (interanual)
+                                        250.000
+
+
+                                        200.000
+
+
+
+
+                    Superfície en m2
+                                        150.000                                  151.997
+                                                                                                              109.468
+                                                                 132.546
+                                        100.000   102.335                                        86.301                        93.854
+
+
+                                         50.000
+                                                                                 68.763          63.267        70.348
+                                                  49.899          50.046                                                       55.045
+
+                                              0
+                                                  4T 2020        4T 2021         4T 2022        4T 2023       4T 2024        4T 2025
+                                                    Pis, habitage unifamiliar i edifici           Terreny i plaça d'aparcament
+                                                    Local comercial i magatzem (nau)              Altres construccions
+
+
+
+
+                                                              Superfície transmesa (intertrimestral)
+                                        250.000
+
+
+                                        200.000
+
+
+
+
+                     Superfície en m2
+                                        150.000
+                                                  198.542        109.468
+                                        100.000                                 123.638                                      93.854
+                                                                                                70.143        60.729
+
+                                         50.000
+                                                                 70.348
+                                                                                                53.618        51.803         55.045
+                                                  31.561                         41.490
+                                             0
+                                                  3T 2024        4T 2024        1T 2025         2T 2025       3T 2025        4T 2025
+                                                     Pis, habitage unifamiliar i edifici         Terreny i plaça d'aparcament
+                                                     Local comercial i magatzem (nau)            Altres construccions
+
+
+
+
+A117_A145_20260209                                                                                                                           Pàgina 20 de 26
+          A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+                Superfície transmesa per tipus de                         Variació    Variació
+                                                    Any 2024   Any 2025
+                           bé immoble                                     absoluta   percentual
+               Pis                                  119.027    155.838      36.811      30,9%
+               Habitatge unifamiliar                 35.051     44.790       9.739      27,8%
+               Terreny                              419.762    311.180    -108.582     -25,9%
+               Plaça aparcament                      26.236     37.184      10.948      41,7%
+               Local comercial                        8.108     11.810       3.703      45,7%
+               Magatzem (nau)                           357      1.044         687     192,4%
+               Edifici                               11.056      1.329      -9.728     -88,0%
+               Altres construccions                  14.392     13.956        -436      -3,0%
+                              Total                 633.989    577.131     -56.859      -9,0%
+
+
+
+
+                                                                          Variació    Variació
+               Superfície transmesa per parròquia   Any 2024   Any 2025
+                                                                          absoluta   percentual
+               Canillo                               84.091     80.977      -3.114      -3,7%
+               Encamp                               110.973     99.412     -11.562     -10,4%
+               Ordino                                84.737     64.315     -20.422     -24,1%
+               La Massana                           139.829    144.636       4.807       3,4%
+               Andorra la Vella                      66.278     53.608     -12.670     -19,1%
+               Sant Julià de Lòria                  103.533     44.061     -59.472     -57,4%
+               Escaldes-Engordany                    44.549     90.122      45.574     102,3%
+                               Total                633.989    577.131     -56.859      -9,0%
+
+
+
+
+A117_A145_20260209                                                                                Pàgina 21 de 26
+                      A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+                    A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+5. Preu mitjà per metre quadrat dels pisos. 4t trimestre 2024
+
+
+
+                                                                4t                4t
+                                                                                                  Variació     Variació
+                               (preu m2)                    Trimestre         Trimestre
+                                                                                                  absoluta    percentual
+                                                               2024              2025
+   Pis                                                      4.201,3 € 4.547,3 €                    346,0 €           8,2%
+   Pis, habitage unifamiliar i edifici                        3.620,1 €         3.404,6 € -         215,6 €          -6,0%
+
+
+
+
+                                                       Preu m2 (interanual)
+
+                       5.000                                                                             4.547,3 €
+                       4.500                                                                4.201,3 €
+
+                       4.000
+                                                                                                         4.205,6 €
+                                                           3.321,5 €       3.220,9 €
+                       3.500                                                                3.876,4 €
+
+           Euros/m2
+                                             2.795,4 €
+                       3.000
+                                2.369,2 €                  2.973,3 €
+                       2.500
+                                             2.718,1 €                     2.659,2 €
+                       2.000    2.468,2 €
+
+                       1.500
+                       1.000
+                        500
+                          0
+                                 4T 2020     4T 2021        4T 2022         4T 2023          4T 2024     4T 2025
+
+                                                 Pis        Pis, habitage unifamiliar i edifici
+
+
+
+
+                                                    Preu m2 (intertrimestral)
+
+                       5.000
+                                                                            4.559,9 €       4.481,4 €    4.547,3 €
+                       4.500                                4.289,0 €
+                                 4.137,7 €   4.201,3 €
+                                                                            4.345,4 €       4.401,1 €
+
+
+         Euros/m2
+                       4.000                                4.199,9 €                                    4.205,6 €
+
+                                             3.876,4 €
+                       3.500     3.686,0 €
+
+                       3.000
+
+
+                       2.500
+
+
+                       2.000
+                                 3T 2024      4T 2024       1T 2025         2T 2025          3T 2025      4T 2025
+
+                                                 Pis        Pis, habitage unifamiliar i edifici
+
+
+
+
+A117_A145_20260209                                                                                             Pàgina 22 de 26
+            A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+   5.1. Preu mitjà per metre quadrat dels pisos. per parròquia
+
+
+                                                                       Variació    Variació
+                         preu m2               Any 2024    Any 2025
+                                                                       absoluta   percentual
+            Pis                                4.053,1 €   4.479,4 €    426,3 €       10,5%
+             Canillo                           3.566,3 €   3.752,4 €   186,1 €         5,2%
+             Encamp                            3.123,2 €   3.242,0 €   118,8 €         3,8%
+             Ordino                            3.691,7 €   4.134,5 €   442,7 €        12,0%
+             La Massana                        3.296,0 €   3.663,0 €   367,1 €        11,1%
+             Andorra la Vella                  5.063,6 €   4.885,9 € - 177,7 €        -3,5%
+             Sant Julià de Lòria               2.524,4 €   3.335,1 €   810,7 €        32,1%
+             Escaldes-Engordany                5.282,4 €   6.117,0 €   834,6 €        15,8%
+            Habitatge Unifamiliar              3.107,2 €   3.664,6 €   557,4 €        17,9%
+            Terreny                              771,8 €   1.287,9 €   516,0 €        66,9%
+            Plaça Aparcament                   1.798,8 €   1.976,4 €   177,6 €         9,9%
+            Local Comercial                    3.195,7 €   3.029,5 € - 166,2 €        -5,2%
+            Magatzem (Nau)                     2.450,8 €   2.969,8 €   519,0 €        21,2%
+            Edifici Sencer                     2.773,5 €   3.421,5 €   648,0 €        23,4%
+            Altres Construccions               1.645,7 €   1.294,9 € - 350,9 €       -21,3%
+
+
+
+
+                                Preu mitjà dels pisos per parròquia
+
+  7.000 €
+
+  6.000 €
+
+  5.000 €
+
+  4.000 €
+
+  3.000 €
+
+  2.000 €
+
+  1.000 €
+
+      -€
+
+
+
+
+                                       Any 2024         Any 2025
+
+
+
+
+A117_A145_20260209                                                                      Pàgina 23 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+            A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+6. Metodologia
+
+   •   Font: Base de dades del Departament de Tributs, provinents de les liquidacions
+       trimestrals tramitades pels notaris respecte a:
+
+       1.      L’impost sobre transmissions patrimonials, és a dir, les transmissions patrimonials
+               oneroses i les transmissions patrimonials lucratives inter vivos de béns immobles,
+               així com la constitució i la cessió de drets reals sobre els béns immobles.
+       2.      L’impost general indirecte relatiu a les transmissions patrimonials, és a dir, les
+               transmissions patrimonials de béns immobles realitzades pels empresaris i els
+               professionals en el marc de la seva activitat empresarial o professional.
+       3.      Les transmissions que restin exemptes de l’impost de transmissions patrimonials
+               determinades segons el Decret legislatiu de publicació del text refós de la Llei de
+               l’impost sobre transmissions patrimonials del 29 de desembre del 2000 de data 12
+               d’abril del 2017.
+
+
+       Dades tractades i revisades pel Departament d’Estadística del Govern i disponibles al
+       web www.estadistica.ad, a la secció Banc de dades, Tema: Construcció.
+
+
+   •   Definicions:
+
+               -   Pis: unitat immobiliària destinada a habitatge independent que fa part del conjunt
+                   d’un edifici.
+               -   Habitatge unifamiliar: edifici que acull només una llar en cada parcel·la.
+               -   Terreny: qualsevol superfície que fa part del territori, no construïda, ja sigui
+                   parcel·la, solar, finca inicial o sistema.
+               -   Plaça aparcament: espai delimitat destinat a l’estacionament d’un vehicle.
+               -   Local comercial: unitat immobiliària, que fa part d’un edifici, destinada a ús
+                   comercial.
+               -   Magatzem (nau): unitat immobiliària destinada a l’ús de magatzem.
+               -   Edifici: qualsevol construcció que disposi d’espai permetent acollir en el seu
+                   interior els diferents usos de tipus urbanístic.
+               -   Altres construccions: béns immobles no inclosos en cap altres apartat anterior.
+               -   Persona Física: tota persona individual que adquireix un bé immoble actuant en
+                   nom propi, com a subjecte de drets i obligacions.
+               -   Persona Jurídica: tota entitat amb personalitat jurídica pròpia, constituïda
+                   d’acord amb la normativa vigent, amb drets i obligacions diferenciat de les
+                   persones físiques que la integren.
+               -   Persona Física Resident: en el cas de persones físiques el criteri de residència
+                   s’agafa de les liquidacions trimestrals tramitades pels notaris.
+
+
+
+
+A117_A145_20260209                                                                         Pàgina 24 de 26
+          A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+            -   Persona Jurídica Resident: en el cas de persones jurídiques s’analitza la
+                composició de l’accionariat i és comprova la seva residència en el moment de la
+                compra, després s’agreguen les dades per persona jurídica.
+
+
+
+
+   •    Metodologies i referències metodològiques: Es tenen en compte els béns immobles
+        que han estat objecte d’alguna transacció immobiliària. El criteri emprat per determinar
+        la inclusió o no dins el període ha estat la data de tancament de la transmissió per part
+        del notari de la transacció immobiliària. Les dades relatives als compradors dels béns
+        immobles fan referència al moment del compra i s’obtenen combinant diferents
+        registres administratius.
+
+
+    •   Àmbit de la estadística:
+
+            -   Poblacional: transaccions de béns immobles recollides davant notari mitjançant
+                escriptura pública.
+            -   Geogràfic: tot el Principat d’Andorra.
+            -   Temporal: el període de referència és anual.
+
+
+   •    Nota: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+        desplegament en el Programa estadístic per a l’any 2025, aquest informe dona resposta
+        a les activitats estadístiques següents:
+                - A117. Estadística de transaccions immobiliàries
+                - A145. Estadística de preus de l’habitatge i el sòl
+
+   •    Transaccions a més d’una parròquia: el criteri adoptat en el cas de que una mateixa
+        transacció reculli béns immobles relatius a dos o més parròquies ha estat la d’adscriure
+        a cada parròquia afectada els béns que li pertoquen i la mateixa transacció a ambdues
+        parròquies. En tot cas, no afecta al còmput total de béns immobles transmesos en el
+        Principat d’Andorra.
+
+
+   •    Citació: Per a qualsevol utilització de la informació continguda en aquesta nota de
+        premsa citeu “Dades del Departament d’Estadística per a la Nota de Premsa ref.
+        “A117_A145_20260209_A”.
+
+   •    Durant aquest any, s’han revisat les dades anteriors i s’han aplicat varies millores
+        metodològiques a tota la sèrie històrica, i en conseqüència els resultats obtinguts
+        en aquesta edició poden diferir amb els de l’anterior edició.
+
+
+   •    Revisió de dades: Les dades estan subjectes a revisió periòdica, la última validació del
+        conjunt és de gener del 2026.
+
+
+
+
+A117_A145_20260209                                                                      Pàgina 25 de 26
+             A117. Estadística de transaccions immobiliàries. 4t trimestre 2025 i any 2025 i
+         A145. Estadística de preus de l’habitatge i el sòl. 4t trimestre del 2025 i any 2025
+
+
+    •   Difusió.       Dades      disponibles        al         web   www.estadistica.ad,   a      l’apartat
+        Estadístiques/Dades/X/X/X. Per estar informat en qualsevol moment de les noves
+        publicacions us podeu inscriure a la nostra “Alerta informativa” a la nostra web. També
+        hi     podeu     trobar   l’històric    de        les     notes   de   premsa   d’aquest     tema:
+        http://www.estadistica.ad/
+
+
+        Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+        de Premsa del Departament d’Estadística es podran seguir també per Twitter
+        (actualment X)
+
+
+
+
+7. Dates de properes publicacions previstes
+
+Nota de premsa “A117. Estadística de transaccions immobiliàries. 1r trimestre 2026” i “A145.
+Estadística de preus de l’habitatge i el sòl. 1r trimestre 2026”: Abril del 2026.
+
+
+
+
+A117_A145_20260209                                                                          Pàgina 26 de 26
+

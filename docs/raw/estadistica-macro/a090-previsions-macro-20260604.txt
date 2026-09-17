@@ -1,0 +1,494 @@
+                      A090. Previsions macroeconòmiques. Període 2026-2031
+                                         Data de publicació: dijous, 04/06/2026
+                                                  www.estadistica.ad
+
+
+
+      Resum
+
+      Les previsions es basen en diferents modelitzacions i tractaments estadístics de sèries històriques
+      disponibles i, més enllà de les xifres concretes anuals per a cada variable, el seu principal valor rau
+      en la tendència i l’ordre de magnitud que dibuixen. Aquest és també el propòsit de les agències de
+      caràcter nacional i internacional que formulen previsions d’aquesta naturalesa.
+
+      La selecció de les variables macroeconòmiques que són objecte de previsions plurianuals està
+      determinada a la Llei 27/2025, del 11 de desembre, del Pla d’estadística 2026-2029. En aquest
+      sentit, juntament amb el pronòstic sobre el Producte Interior Brut (PIB), el Valor Afegit Brut (VAB) i
+      la inflació mesurada amb l’Índex de Preus de Consum (IPC) com les principals variables del
+      comportament econòmic, s’hi afegeix la massa salarial, el nombre d’assalariats i el comerç
+      internacional de béns (importacions i exportacions) en la mesura que constitueixen variables clau
+      en l’estimació del PIB pel costat de les rendes i la demanda, respectivament, i de les quals es
+      disposa de sèries històriques mensuals molt àmplies.
+
+      El període temporal del qual ara es formulen previsions correspon al sexenni 2026-2031.
+
+
+
+
+NP-A090_20260604                                                                                 Pàgina 1 de 11
+                                           A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+      Índex
+
+
+      1.   Producte interior brut .................................................................................................................. 3
+      2.   Valor afegit brut .......................................................................................................................... 5
+      3.   Massa salarial i nombre d’assalariats ........................................................................................ 6
+      4.   Comerç internacional de béns .................................................................................................... 7
+      5.   Índex de preus de consum ......................................................................................................... 8
+      6.   Resum de previsions per a l’economia andorrana 2025-2030 ................................................ 10
+      7.   Dates de properes publicacions previstes ............................................................................... 11
+
+
+
+
+NP-A090_20260604                                                                                                                       Pàgina 2 de 11
+                                 A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+          1. Producte interior brut
+
+
+      El procés d’estimació i previsió de l’evolució del PIB d’Andorra pels propers anys ha requerit de
+      diferents processos de modelització, tant pel pronòstic de les variacions en termes reals com la seva
+      posterior deflactació en termes nominals.
+
+      En primer lloc, la previsió del període 2026-2031 es fonamenta en la modelització del PIB andorrà
+      en funció dels creixements previstos en les economies de l’entorn (per a les quals es disposen de
+      previsions del FMI). En les diferents modelitzacions efectuades es constata un ajustament millor a
+      les variacions reals que a les taxes en termes nominals, a partir de la selecció d’un seguit de models
+      estimats.
+
+      En segon lloc, per tal de comptar amb les previsions 2026-2031 del creixement del PIB en termes
+      nominals, s’ha procedit a generar un deflactor implícit del PIB d’Andorra pel mateix període tenint la
+      disponibilitat de previsions dels deflactors implícits de les economies de l’entorn en el mateix període
+      i estimant els valors més plausibles del deflactor implícit del PIB andorrà per al període esmentat
+      d’acord amb el pes que representen les dues economies de l’entorn més immediat.
+
+      Així doncs, el conjunt d’aquestes previsions es fonamenten en el compliment de dues hipòtesis:
+
+      1) La relació estructural entre el creixement d'Andorra i el de França, Espanya i UE (zona Euro) es
+      manté (és a dir, no hi ha un canvi estructural).
+
+      2) Les previsions de creixement de França, Espanya i UE (zona Euro) són correctes.
+
+      Per tant, la Taula 1 que segueix presenta les previsions del FMI de les variables que s’han utilitzat
+      en l’horitzó 2026-2031, mentre que la Taula 2 ofereix les previsions del PIB d’Andorra pel període
+      2026-2031, tant en les variacions nominals com reals.
+
+
+
+
+NP-A090_20260604                                                                                  Pàgina 3 de 11
+                                                           A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+      Taula 1. Previsions de creixement del PIB i deflactors en economies de l’entorn
+
+                                    2026                          2027                           2028                                2029                             2030                                2031
+                          Nominal          Real        Nominal           Real          Nominal              Real           Nominal           Real           Nominal              Real           Nominal          Real
+      PIB Espanya          5,2             2,1             4,8            1,8            4,8                1,8             4,0              1,7              4,1                1,7             4,1             1,7
+      PIB França           2,2             0,9             2,3            0,9            3,1                1,2             3,0              1,2              3,0                1,1             2,8             1,1
+      PIB Zona Euro        3,1             1,1             3,3            1,2            3,5                1,4             3,3              1,2              3,2                1,1             3,1             1,1
+      Deflactor del PIB
+
+      Espanya                       3,0                           2,9                            2,9                                  2,3                                2,3                              2,3
+      França                        1,4                           1,5                            1,9                                  1,9                                1,9                              1,8
+      Zona Euro                     2,4                           2,3                            2,2                                  2,1                                2,1                              2,0
+      Unitat: taxa de variació interanual (%)
+
+      Font:
+      FMI: World Economic Outlook Database April 2026 https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0)
+
+
+
+
+      Taula 2. Previsions de creixement del PIB d’Andorra pel període 2026-2031
+
+                                                  Nominal                              Real
+                   2026                               5,4                              2,6
+                   2027                               4,8                              2,0
+                   2028                               4,7                              1,9
+                   2029                               4,0                              1,7
+                   2030                               4,0                              1,7
+                   2031                               4,0                              1,7
+      Unitat: taxa de variació interanual (%)
+
+
+
+
+                                                                                                        PIB
+                                 n/n-1
+                                 20,0
+
+                                 15,0
+
+                                 10,0
+
+                                    5,0
+
+                                    0,0
+
+                                 -5,0
+
+                              -10,0
+
+                              -15,0
+                                             2011   2012   2013   2014   2015   2016   2017   2018   2019    2020   2021    2022     2023   2024    2025   2026   2027    2028    2029   2030    2031
+
+                                                                                          PIB nominal                                   PIB real
+
+
+
+
+NP-A090_20260604                                                                                                                                                                                          Pàgina 4 de 11
+                                              A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+           2. Valor afegit brut
+
+
+      El valor afegit brut (VAB) s’identifica com el component principal de la magnitud del PIB pel costat
+      de l’oferta. Per aquest motiu, el procés d’estimació i previsió de l’evolució d’aquesta variable
+      macroeconòmica es fonamenta en la seva modelització en funció de l’evolució que presenta el PIB
+      durant el període 2026-2031.
+
+      Taula 3. Previsions de creixement del VAB d’Andorra pel període 2026-2031
+
+                            Nominal                           Real
+            2026              5,3                              2,4
+            2027              4,7                              2,0
+            2028              4,6                              1,8
+            2029              4,0                              1,7
+            2030              4,0                              1,7
+            2031              4,0                              1,7
+      Unitat: taxa de variació interanual (%)
+
+
+
+
+                                                                             Valor afegit brut
+                        n/n-1
+                        15,0
+
+
+                        10,0
+
+
+                         5,0
+
+
+                         0,0
+
+
+                         -5,0
+
+
+                       -10,0
+                                2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+                                                                                  VAB nominal                                 VAB real
+
+
+
+
+NP-A090_20260604                                                                                                                                                                   Pàgina 5 de 11
+                                             A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+           3. Massa salarial i nombre d’assalariats
+
+
+      La massa salarial s’identifica com un dels components principals de l’estimació del PIB pel costat
+      de la renda. Per al període 2026-2031 s’ha decidit incorporar l’estimació del PIB pel mateix període
+      degut a la correlació entre les dues variables, podent així captar la tendència per al període en
+      qüestió.
+
+      Taula 4. Previsions de creixement de la massa salarial i del nombre d’assalariats pel període
+      2026-2031
+
+
+                             Massa                         Nombre
+                             salarial                   d'assalariats
+            2026                   6,8                          2,0
+            2027                   5,1                          2,2
+            2028                   5,0                          2,1
+            2029                   4,5                          1,8
+            2030                   4,5                          1,8
+            2031                   4,5                          1,8
+      Unitat: taxa de variació interanual (%)
+
+
+                                                                             Massa salarial
+                   n/n-1
+                    20,0
+
+                    15,0
+
+                    10,0
+
+                     5,0
+
+                     0,0
+
+                     -5,0
+
+                   -10,0
+                            2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+                                                                      Nombre d'assalariats
+                   n/n-1
+                    12,0
+                    10,0
+                      8,0
+                      6,0
+                      4,0
+                      2,0
+                      0,0
+                     -2,0
+                     -4,0
+                     -6,0
+                            2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+NP-A090_20260604                                                                                                                                                        Pàgina 6 de 11
+                                               A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+           4. Comerç internacional de béns
+
+
+      El comerç internacional de béns s’identifica com un dels components fonamentals de l’estimació del
+      PIB pel costat de la demanda i tant les importacions com les exportacions de mercaderies disposen
+      d’una sèrie temporal des dels anys noranta.
+
+      Per a l’estimació de les importacions i exportacions de béns del període 2026, s’utilitza una
+      modelització univariant de les dades de la sèrie mensual, degut a la disponibilitat de part de les
+      dades pel període en qüestió. Per al període 2027-2031, també es modelitzen les variables en funció
+      dels creixements previstos en les economies de l’entorn i el creixement estimat del PIB. Al mateix
+      temps en el cas de les exportacions, per l’estimació del període 2026-2031 no s’han tingut en compte
+      unes exportacions excepcionals fetes al febrer del 2022 i al març del 2023, per tal de no distorsionar
+      les dades del període estimat.
+
+      Taula 5. Previsions de creixement del comerç internacional de béns pel període 2026-2031
+
+                                Importacions de                        Exportacions de
+                                     béns                                   béns
+             2026                     2,7                                    4,6
+             2027                          3,5                                           6,4
+             2028                          3,3                                           6,5
+             2029                          2,7                                           5,9
+             2030                          2,8                                           6,0
+              2031                     2,8                                               6,0
+      Unitat: taxa de variació interanual (%)
+
+
+                                                                       Importacions de béns
+                        n/n-1
+                        40,0
+                        35,0
+                        30,0
+                        25,0
+                        20,0
+                        15,0
+                        10,0
+                         5,0
+                         0,0
+                         -5,0
+                       -10,0
+                                 2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+                                                                       Exportacions de béns
+                        n/n-1
+                       200,0
+
+
+                       150,0
+
+
+                       100,0
+
+
+                        50,0
+
+
+                         0,0
+
+
+                       -50,0
+                                 2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+NP-A090_20260604                                                                                                                                                                    Pàgina 7 de 11
+                                               A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+           5. Índex de preus de consum
+
+
+      Les projeccions realitzades per a la mitjana anual de l’índex de preus de consum de l’economia
+      andorrana parteixen de les previsions dels índexs de preus de consum de l’entorn que proporciona
+      el FMI en el mes d’abril del 2026, així com de les dades anuals disponibles de l’esmentat mes de
+      l’IPC de les economies de l’entorn i indicadors macroeconòmics, per tal d’estimar els paràmetres del
+      model de previsió.
+
+      Taula 6. Previsions de l’IPC de les economies de l’entorn
+
+                                                                    2026                   2027                  2028                     2029                 2030                  2031
+      IPC Espanya desembre (%)                                        3,0                   2,2                      2,5                  2,0                    2,0                  2,0
+      IPC França desembre (%)                                         2,6                   1,3                      2,1                  1,7                    2,1                  1,4
+      IPC UE desembre (%)                                             3,0                   2,1                      2,2                  2,0                    2,1                  1,8
+      Unitat: taxa de variació interanual (%)
+
+                                                                    2026                   2027                  2028                     2029                 2030                  2031
+      Mitjana anual IPC Espanya (%)                                   3,0                   2,3                      2,5                  2,0                    2,0                  2,0
+      Mitjana anual IPC França (%)                                    1,8                   1,7                      1,9                  1,9                    1,9                  1,8
+      Mitjana anual IPC UE (%)                                        2,6                   2,2                      2,1                  2,0                    2,0                  2,0
+      Unitat: taxa de variació interanual (%)
+
+      Font:
+
+      FMI: World Economic Outlook Database April 2026 https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0)
+
+
+
+      Taula 7. Previsions de l’IPC d’Andorra pel període 2025-2030
+
+                                                                    2026                   2027                  2028                     2029                 2030                  2031
+      Predicció IPC desembre (%)                                      3,1                   2,5                      2,3                  2,0                    2,0                  2,0
+      Unitat: taxa de variació interanual (%)
+
+
+
+                                                      Índex de preus de consum (desembre)
+                       n/n-1
+                         8,0
+                         7,0
+                         6,0
+                         5,0
+                         4,0
+                         3,0
+                         2,0
+                         1,0
+                         0,0
+                        -1,0
+                        -2,0
+                                 2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+NP-A090_20260604                                                                                                                                                                    Pàgina 8 de 11
+                                             A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+                                                                  2026                   2027                  2028                     2029                 2030                  2031
+      Predicció IPC mitjana anual (%)                               3,8                   2,8                      2,4                  2,1                    2,0                  2,0
+      Unitat: taxa de variació interanual (%)
+
+
+
+
+                                              Índex de preus de consum (mitjana anual)
+                       n/n-1
+                         7,0
+                         6,0
+                         5,0
+                         4,0
+                         3,0
+                         2,0
+                         1,0
+                         0,0
+                        -1,0
+                        -2,0
+                               2011   2012   2013   2014   2015   2016   2017   2018   2019   2020   2021   2022   2023   2024   2025   2026   2027   2028   2029   2030   2031
+
+
+
+
+NP-A090_20260604                                                                                                                                                                  Pàgina 9 de 11
+                                           A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+           6. Resum de previsions per a l’economia andorrana 2026-2031
+
+
+                                                                     Massa                      Comerç internacional
+                     Producte interior brut      Valor afegit brut                                                                     IPC
+                                                                     salarial      Nombre        de béns (nominal)            IPC
+                                                                                                                                     (mitjana
+                                                                                d'assalariats                             (desembre)
+           Any        Nominal       Real        Nominal       Real   Nominal                    Importacions Exportacions             anual)
+
+          2026          5,4          2,6         5,3          2,4      6,8          2,0            2,7         4,6         3,1         3,8
+          2027          4,8          2,0         4,7          2,0      5,1          2,2            3,5         6,4         2,5         2,8
+          2028          4,7          1,9         4,6          1,8      5,0          2,1            3,3         6,5         2,3         2,4
+          2029          4,0          1,7         4,0          1,7      4,5          1,8            2,7         5,9         2,0         2,1
+          2030          4,0          1,7         4,0          1,7      4,5          1,8            2,8         6,0         2,0         2,0
+          2031          4,0          1,7         4,0          1,7      4,5          1,8            2,8         6,0         2,0         2,0
+      Unitat: taxa de variació interanual (%)
+
+
+
+
+NP-A090_20260604                                                                                                           Pàgina 10 de 11
+                                   A090. Previsions macroeconòmiques. Període 2026-2031
+
+
+
+
+          7. Dates de properes publicacions previstes
+
+      Nota de premsa “A090. Previsions macroeconòmiques. Període 2026-2031”: 4t trimestre del 2026.
+
+
+
+      Citació: Per a qualsevol utilització de la informació continguda en aquesta nota de premsa gràcies
+      de citar “Dades del Departament d’Estadística per a la Nota de Premsa ref. NP-A090_20260604”.
+
+      Marc legal: D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+      desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a l’activitat
+      estadística: A090. Previsions macroeconòmiques.
+
+      Difusió.     Les   dades     estan   disponibles     al   web     http://www.estadistica.ad   a   l’apartat
+      Estadístiques/Dades/Preus i relacions internacionals/Comerç internacional de béns. Per estar
+      informat en qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+      informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa d’aquest tema:
+      http://www.estadistica.ad.
+      Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de Premsa
+      del Departament d’Estadística es podran seguir també per X (antic TWITTER).
+
+
+
+
+NP-A090_20260604                                                                                    Pàgina 11 de 11
+
