@@ -301,8 +301,17 @@ altres, per registre.**
   i **hi són tots pel seu nom al cos d'aquest article.**
 - **Amb quins vots es va aprovar el Concordat al Consell General** el 15 de maig
   del 2008. **Els autes donen els noms dels dotze requeridors i cap recompte de
-  la votació.** `Requereix el Diari de Sessions del Consell General, no el
-  BOPA.`
+  la votació.** — **`obert`, i amb la via provada el 17-09-2026.**
+
+  **El Diari de Sessions del Consell General és consultable en línia**
+  —`consellgeneral.ad/ca/portlet-portada/diari-del-consell-general`, sobre
+  Plone, amb cerca oberta a `@@search`— **però el seu índex públic no arriba al
+  2008**: les entrades llegides són del **2017 endavant**, i tres cerques
+  diferents («Acord entre el Principat d'Andorra i la Santa Seu», «sessió 15 de
+  maig del 2008», «2008») **no en tornen cap document d'aquell any.**
+
+  **La via existeix i no arriba fins aquí.** `Requereix l'arxiu del Consell
+  General, no el seu web.`
 - ~~**L'article 11.3 de la Constitució**, literal.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/constitucio.txt`). **Són dos paràgrafs i tots
   dos importen aquí:**
