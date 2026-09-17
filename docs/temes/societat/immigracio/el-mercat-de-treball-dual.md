@@ -200,11 +200,20 @@ el 2012 **el país va perdre població**
    espanyols i francesos.** **La divergència de data —2007 aquí, setembre del
    2008 allà— queda registrada sense arbitrar.** `El que segueix obert és el
    text dels instruments.`
-3. **Les quotes d'immigració** any per any. — **`obert`, confirmat**, i **és el
-   mateix buit que declaren [la llei d'immigració del
+3. ~~**Les quotes d'immigració** any per any.~~ — **`resolt` el 2026-09-18**, i
+   **és el mateix buit que declaren [la llei d'immigració del
    2012](./la-llei-dimmigracio-del-2012.md) i [les comunitats](./les-comunitats.md)**.
    **Comptat un sol cop, aquesta branca en té un i no tres.**
-   **`parcial` el 17-09-2026, i la part que es tanca són els nou primers anys**,
+
+   **La sèrie és sencera i té una interrupció documentada, no un forat.**
+   **1989-1997** des dels edictes i les lleis; **1998-2001 el Butlletí no en
+   publica cap** —cinc anys de silenci que la Llei qualificada d'immigració del
+   14 de maig del 2002 tanca—; **2002-2011** amb els cent un decrets baixats;
+   **2012-2026** a la fitxa de la llei del 2012. **El que queda obert no és la
+   sèrie: és per què el Butlletí no en publica cap entre l'agost del 1997 i el
+   setembre del 2002.**
+
+   **El detall, tal com es va aixecar**, comença pels nou primers anys,
    baixats del [BOPA](../../../fonts/bopa.md)
    (`docs/raw/societat/immigracio-quotes/`).
 
