@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-24T09:00:00Z
+timestamp: 2026-09-17T22:45:00Z
 tags: [economia, carta-de-gracia, propietat, esglesia, metrologia, alfabetitzacio, fonts, metodologia, segle-xviii, font-primaria, prioritari]
 ---
 
@@ -187,20 +187,119 @@ d'Ansalonga— afronta així:**
 > acte, i l'editor n'ha buidat el nom.** **Registra el mecanisme, que és el que
 > es repetiria en qualsevol altre cas.**
 
+## Les quatre pàgines, llegides
+
+**El 17-09-2026 el forat es tanca**, i **no amb l'exemplar imprès que aquesta
+unitat demanava sinó amb la segona digitalització**: un exemplar d'Internet
+Archive, **marcat domini públic sense reserves**
+([fitxa](../../../fonts/brutails-coutume-ia.md)). **Porta les quatre pàgines.**
+
+### La peça XXII sencera, i la clàusula que se'n buscava
+
+**18 de desembre del 1788, a Ordino.** **Domingo T., pagès del lloc
+d'Ansalonga**, ven **al reverend Guillem Puig, prevere i ecònom d'Ordino**, i a
+**Romà G., ferrer**, i **Bonaventura C. i D., pagès**, tots dos de la Cortinada,
+**com a sagristans i administradors de l'església de Sant Martí de la
+Cortinada** —**comprant en nom de l'església i amb diners dels seus rèdits**—
+un tros de terra al **camp del Sero**, partida d'Ansalonga, **anomenat lo
+Formental de T.**
+
+**I aquí hi ha el que el corpus buscava**, en una sola frase del document:
+
+> «...ab lo pacte seguent: que **menant jo be y conreant dit tros de terra a us y
+> costum de bon pages** y **pagant a ladita iglesia de Sant-Marti eo a sos
+> administradors lo ters de tots los fruits de ell resultants**, **no pugan dits
+> compradors [...] llevarme o traurer de mon poder lo sobre confrontat tros de
+> terra**.»
+
+**El mecanisme, dit amb les paraules del corpus.** **El pagès ven la terra i es
+queda a treballar-la.** **Paga a l'església un terç de la collita.** **Mentre
+pagui, no el poden fer fora.** **El domini canvia de mans i la feina no**, i
+**el que abans era el fruit del propietari passa a ser una renda perpètua de la
+parròquia.** **Això és el que la Conclusió de l'obra qualifica de causa de les
+pitjors situacions de fet del país**, i **ara el corpus en té el text.**
+
+**La resta de l'acte:**
+
+| | |
+| --- | --- |
+| **Preu** | **52 lliures 12 sous** moneda barcelonesa, **salari dels judicadors inclòs** |
+| **Taxadors** | **Nicolau Torres Pal** i **Joan Bons Rossa**, **prohoms de la parròquia d'Ordino** |
+| **Notari** | **Ignasi Soldevila**, notari públic de la vila d'Andorra |
+| **Testimonis** | **Lluís G.**, ferrer d'Ordino, i **Carlos A. àlies F.**, pagès de Llorts |
+| **Pagament** | Rebut **en diner comptant**, per mans de **Romà G.** |
+
+**Una cosa que el preu diu i que val la pena retenir**: **el preu inclou el
+salari dels taxadors**, de manera que **el venedor paga la taxació del seu propi
+bé.** **I la taxació la fan prohoms de la parròquia, no experts externs.**
+
+### La tramuntana del «Formental de T.»
+
+**Buit tancat de passada.** Les quatre afrontacions són:
+
+| | |
+| --- | --- |
+| **Sol ixent** | terra del mateix venedor, **que avui posseeix l'església de Sant Martí** |
+| **Migdia** | **sendera i escala del noble D. Guillem de Areny** |
+| **Ponent** | terra de Vila, **que avui posseeix la sagristania de Sant Corneli d'Ordino** |
+| **Tramuntana** | terra del mateix venedor, **que avui posseeix la vicaria perpètua d'Ordino** |
+
+**Tres de les quatre confrontacions són ja d'institucions eclesiàstiques**, i
+**dues eren del mateix venedor.** **La parcel·la que es ven és l'última que li
+queda enmig de terres que ja havien passat a l'Església.**
+
+### Les peces XXIII i XXV, que el corpus donava per il·legibles
+
+**La XXIII** —*«Autre vente à réméré combinée avec bail»*— **porta una nota de
+Brutails que el corpus no tenia i que és una troballa per si sola**:
+
+> «Il est à noter que cet acte, qui date de 1875 environ, **n'est pas rédigé en
+> conformité du décret épiscopal de 1853**, prescrivant pour les contrats de ce
+> genre **une évaluation préalable par experts**.»
+
+**Vuitanta anys després, el mecanisme segueix viu i ja no compleix la norma que
+el regulava.** **El
+[decret del bisbe Caixal de 1853](../../historia/segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md)
+exigia taxació prèvia per experts**, i **l'acte de cap al 1875 no en porta.**
+**Brutails ho assenyala ell mateix.**
+
+> **Compte amb la data.** La capa d'OCR d'aquest exemplar imprimeix **«1875»**
+> tant al títol com a la nota. **El corpus no la dona per bona sense llegir la
+> pàgina**: al mateix exemplar hi ha **«Joan KR.»** per «Joan R.» i altres
+> defectes del mateix tipus. `La data de la peça XXIII requereix lectura sobre
+> la pàgina renderitzada.`
+
+**La XXV** —*«Cession d'un droit de réméré»*, **10 d'agost del 1788**, a la vila
+d'Andorra— **és sencera.** **Joan R., treballador, i Theresa R. i D., cònjuges**,
+usufructuari i propietària, **cedeixen a Miquel P., treballador del Puy**, **el
+dret de redimir** una peça de terra **a la partida d'Ancorces, anomenada lo
+Barre**, que tenen els hereus del difunt **Jaume B.** **El dret els pertocava
+per la reserva que van fer en vendre-li aquella terra el 13 de desembre del
+1787.**
+
+**És a dir: venen el dret a recomprar.** **Vuit mesos després de vendre la terra
+amb pacte de gràcia, venen la gràcia mateixa a un tercer** — i **amb això perden
+la terra per sempre.**
+
 ## Buits registrats
 
-1. **Les pàgines XLII i XLIII de les peces justificatives**, **que contenen el
-   cos de la peça XXII** —**la clàusula d'arrendament a favor del venedor**.
-   **Prioritat màxima**: **és el mecanisme que la Conclusió de l'obra qualifica
-   de causa de les pitjors situacions de fet del país**, i **el corpus no en té
-   ni una línia de text.** `Requereix un exemplar imprès o una segona
-   digitalització.`
-2. **Les pàgines XLVI i XLVII**, **entre la peça XXIV i la XXV.**
-   **Prioritari.**
+1. ~~**Les pàgines XLII i XLIII de les peces justificatives**, que contenen el
+   cos de la peça XXII i la clàusula d'arrendament a favor del venedor.~~ —
+   **`resolt` el 17-09-2026 amb una segona digitalització**, de domini públic
+   ([fitxa](../../../fonts/brutails-coutume-ia.md)). **La clàusula és al cos
+   d'aquest article**: **el venedor segueix conreant i paga a l'església
+   el terç de tots els fruits**, i **mentre pagui no el poden fer fora.**
+2. ~~**Les pàgines XLVI i XLVII**, entre la peça XXIV i la XXV.~~ — **`resolt`
+   el mateix dia i pel mateix exemplar.** **Les peces XXIII i XXV són senceres**
+   i **la XXIII porta una nota de Brutails que el corpus no tenia**: l'acte de
+   cap al 1875 **no compleix el decret episcopal de 1853.**
 3. **Si l'evidència té més forats** a les parts de l'obra ja destil·lades.
    **El corpus ha comprovat la seqüència de les peces justificatives i **no ha
    comprovat la del cos**.** **Pendent.**
-4. **La tramuntana del «*Formental de T.*»**, **que cau al forat.**
+4. ~~**La tramuntana del «*Formental de T.*»**, que cau al forat.~~ —
+   **`resolt`**: **terra del mateix venedor, que aleshores ja posseïa la
+   vicaria perpètua d'Ordino.** **Tres de les quatre afrontacions són
+   eclesiàstiques.**
 5. **Qui era «*lo noble D. Guillem de Areny*»**, d'Ordino, 1788, **i quina
    relació té amb els altres Areny que el corpus té registrats.**
    **`El corpus no n'afirma cap.`**
