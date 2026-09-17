@@ -83,10 +83,33 @@ parla dels **béns mobles** i afegeix l'exclusió dels d'ús personal.
 ([Reglament del 18-05-2016, article 5.2.a.iii, p. 4](../../../raw/desocupacio/bopa-reglament-2016-original.pdf);
 [Decret del 26-04-2017, article únic, cinquè guió del 5.2.a.iii, p. 2](../../../raw/desocupacio/bopa-decret-2017-04-26-original.pdf).)
 
+## Què va passar amb el decret del 2017
+
+**El decret d'abril del 2017 ja no és dret vigent, i qui el va matar ho diu
+amb noms.** El **Decret del 3-7-2019** deroga expressament **«el Decret del
+18-5-2016 d'aprovació del Reglament regulador de les prestacions econòmiques dels
+serveis socials i sociosanitaris **i les seves modificacions successives**»** —el
+decret d'abril del 2017 n'és una— i, a part, **el capítol cinquè del Decret del 18
+de setembre del 2013** de prestacions econòmiques d'atenció social. Un any i mig
+després, el **Decret del 7-10-2020** deroga expressament **el del 3-7-2019**
+sencer.
+
+**La cadena, doncs, és 2013 → 2016 (amb l'errata del 31-8-2016 i el decret d'abril
+del 2017) → 2019 → 2020**, i sobre l'últim hi ha [set modificacions més, cap de
+les quals toca l'article 26](lajut-per-desocupacio-involuntaria.md#set-modificacions-despres-del-2020-i-cap-toca-larticle-26).
+**Les dues derogatòries són, a més, del mateix tipus**: una llista expressa i, a
+continuació, una clàusula general contra tot el que s'hi oposi «de rang igual o
+inferior». **El que aquest article llegeix del 2016 i del 2017 és, per tant,
+història del barem, no regla aplicable avui.**
+
 ## Buits registrats
 
-- Lectura històrica: no s'ha reconstruït tota la vigència posterior ni
-  calculat imports o elegibilitat individuals del 2026.
+- ~~Lectura històrica: no s'ha reconstruït tota la vigència posterior ni
+  calculat imports o elegibilitat individuals del 2026.~~ — **`parcial` el
+  17-09-2026**: **la vigència posterior sí que està reconstruïda** a «[Què va
+  passar amb el decret del 2017](#que-va-passar-amb-el-decret-del-2017)»; **el
+  que segueix obert són els imports i l'elegibilitat individual del 2026**, que
+  no es deriven del text.
 - El [debat parlamentari del 19-04-2018](../../institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md)
   ja s'ha llegit: documenta el desacord sobre l'habilitació del reglament,
   però no tanca el buit d'interpretació judicial ni d'aplicació efectiva.
@@ -118,10 +141,14 @@ parla dels **béns mobles** i afegeix l'exclusió dels d'ús personal.
   d'abril»**, i el preàmbul sembla haver arrossegat el seu propi dia a la data
   de la norma citada. **El corpus es queda amb el 9 de febrer i deixa
   registrat que la remissió oficial segueix dient una altra cosa.**
-- Les regles de valoració del decret d'abril de 2017 ja estan llegides;
+- ~~Les regles de valoració del decret d'abril de 2017 ja estan llegides;
   queden pendents l'aplicació administrativa, els indicadors concrets,
   eventuals correccions i les modificacions posteriors. L'exclusió indicada
-  no demostra que l'habitatge sigui irrellevant per a qualsevol prestació.
+  no demostra que l'habitatge sigui irrellevant per a qualsevol prestació.~~ —
+  **`parcial` el 17-09-2026**: **les modificacions posteriors estan tancades**
+  —el decret del 2017 va quedar derogat el 2019 com a modificació del reglament
+  del 2016, i el reglament del 2019 ho va ser al seu torn el 2020—. `Requereix,
+  encara, l'aplicació administrativa i els indicadors concrets.`
 - El reglament de 2020 diu que el patrimoni iguala el barem, mentre que la
   definició legal de precarietat diu que no el supera. Els originals
   confirmen les dues formulacions; el contrast i les correccions pendents
