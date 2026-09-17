@@ -324,13 +324,38 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    té el nom dins aquesta cronologia.**
 9. Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**.
 10. **El conveni postal de 1930** signat sense Andorra.
-11. **L'oficialitat del català el 1938**: quina norma, i per què just llavors. —
-    **`obert`, confirmat.** **La [cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)
-    la recull amb la mateixa frase i la mateixa font** —«abans no n'hi havia
-    hagut necessitat»— i **cap document de
-    [política lingüística](../../llengua/politica-linguistica/la-llei-de-la-llengua.md)
-    no esmenta el 1938.** **És un buit d'una sola font repetida dues vegades.**
-    `Requereix font externa: l'acord del Consell General del 1938.`
+11. ~~**L'oficialitat del català el 1938**: quina norma, i per què just
+    llavors.~~ — **`resolt` el 17-09-2026 quant a la norma**, i **la font
+    externa que el buit demanava és ara al corpus**: les [actes del Consell
+    General](../../../fonts/actes-historiques-consell-general.md).
+
+    **No és una norma: en són dues, del mateix mes, i cap de les dues no declara
+    res.**
+
+    | Data | Acord | Foli |
+    | --- | --- | --- |
+    | **1 de juny de 1938**, continuació del Consell de Sancogesma | **«Totes les súpliques adreçades al Consell General hauran de ser redactades en llengua catalana»** | ANA FCV 9.485, fol. 346 v. |
+    | **20 de juny de 1938**, sessió extraordinària | **«Tots els cartells i rètols oficials o semioficials hauran d'ésser redactats en llengua oficial catalana»** | ANA FCV 9.485, fol. 346 v. |
+
+    **El segon acord diu «llengua oficial catalana» com qui diu una cosa
+    sabuda.** **No proclama l'oficialitat: la dona per feta i n'ordena l'ús.**
+    **El que passa el 1938 no és que el català es declari oficial, és que
+    s'imposa on abans no calia dir-ho**: **en el que entra al Consell —les
+    súpliques— i en el que es llegeix al carrer —cartells i rètols.**
+
+    **I això dona sentit a la frase que el corpus arrossegava d'una sola font**
+    —«abans no n'hi havia hagut necessitat»—: **la necessitat és la d'obligar,
+    no la de declarar.**
+
+    **Del *per què just llavors*, les actes no diuen res.** **El que sí que diuen
+    és què més es feia aquelles setmanes**: **el 31 de maig el síndic demana
+    reformar la sala de sessions «posant-la en condicions decoroses»** i **l'1 de
+    juny, la mateixa sessió que acorda el català de les súpliques, aprova el
+    primer reglament interior del Consell** —sabates i corbata negra, el cap
+    descobert, vint pessetes de multa per faltar-hi, **i el càstig per revelar
+    el que es diu en sessió secreta.** **El 1938, amb la guerra al sud, el
+    Consell es posa regles a si mateix i llengua a la porta.**
+    `Requereix una font que digui per què el 1938 i no abans.`
 
 ## Related
 

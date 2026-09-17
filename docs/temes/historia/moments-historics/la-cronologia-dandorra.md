@@ -117,7 +117,7 @@ Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419, i
 | **1935** | Concessió de **Ràdio Andorra**; emet des del **1939** | P |
 | **1935, novembre** | **El síndic Pere Torres suspèn una obra de teatre** per la disputa entre els dos veguers | [la vida teatral](../../cultura/teatre/la-vida-teatral.md) |
 | **1937-1960** | **Francesc Cairat**, síndic **23 anys**: **es treu el límit de mandat** | B |
-| **1938** | **Oficialitat del català**. «Abans no n'hi havia hagut necessitat» | P |
+| **1938** | **Oficialitat del català**. «Abans no n'hi havia hagut necessitat». **Documentat el 17-09-2026**: **dos acords del Consell, l'1 i el 20 de juny**, que **no declaren l'oficialitat sinó que n'obliguen l'ús** en súpliques, cartells i rètols ([la consciència nacional](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)) | P + **actes** |
 | **1946** | ***Les Valls d'Andorra***, de **Bonaventura Riberaygua** | P |
 | **1951 · 1954** | **6.310** i **5.503 habitants** | [demografia](../../societat/demografia/la-composicio-per-nacionalitats.md) |
 | **1958 → 1962** | **Ràdio de les Valls**, després **Sud Radio** | P |
