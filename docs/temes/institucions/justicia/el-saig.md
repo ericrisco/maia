@@ -221,6 +221,20 @@ Vegeu
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)).
      **El nom de l'ofici, el seu termini i el dret de terna del parlament
      andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**
+   - **I Ramon de l'Areny és nou anys més antic del que el corpus el tenia.**
+     **No apareix el 1390: ja és saig el 7 de desembre de 1381** *(ANA, ASC,
+     perg. 5.606)*, quan **mana a dotze homes de les parròquies que es presentin
+     a Masseres en sis dies**, davant el procurador comtal, **per respondre del
+     que s'havia fet a Pere de Bearn quan tornava d'Aragó.** **Nou anys abans
+     que el comte l'obligui a pagar la quèstia, el mateix saig feia complir els
+     manaments del comte contra els andorrans.**
+
+     **I el 1383 en surt un segon pel mateix senyor.** Gastó III mana al veguer
+     Arnau de Cos que faci complir un manament favorable als andorrans, i el
+     veguer ho trasllada **«als seus saig a les Valls, Ramon de l'Areny i
+     Guillem de Culties»** *(perg. 5.607)*. **No eren un per senyor i prou: el
+     comte en podia tenir dos alhora.**
+
    - **I el mateix 17-09-2026 la parella de saigs es fa vint-i-sis anys més
      vella.** **A l'apel·lació andorrana del 2 i 3 de maig de 1364** *(ANA, ASC,
      perg. 1.190)* **hi ha ja dos saigs en exercici**: **Pere de l'Areny, «*sagio
