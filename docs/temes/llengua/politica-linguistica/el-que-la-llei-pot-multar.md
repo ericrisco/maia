@@ -169,12 +169,52 @@ j)**.
 **No se sap si és un error de la llei o de la instantània.** El corpus ho
 registra i no ho corregeix: **buit registrat**, a comprovar contra el BOPA.
 
+## Què costa la política lingüística el 2026
+
+El **llibre del pressupost del 2026**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) dona **el
+Departament de Política Lingüística sencer**, i **el reparteix en dos
+programes**:
+
+| Programa | Funció | 2026 |
+| --- | --- | ---: |
+| **PR0265. Llengua Catalana** | **09.5.0.01 Formació d'adults** | **1.615.184,46 €** |
+| **PR0071. Política lingüística i promoció del català** | **08.6.0.01 Difusió de la llengua** | **519.800,15 €** |
+| **Total del Departament** | | **2.134.984,61 €** |
+
+`Comprovació del corpus.` **Els dos programes sumen exactament el total del
+departament.**
+
+> **Tres quartes parts dels diners de la política lingüística andorrana —el
+> 75,7%— van a ensenyar català a adults.** **La difusió i la promoció de la
+> llengua se'n queden una quarta part.**
+
+**Al pressupost, la política lingüística no és una política: és una escola.**
+
+### I els dos òrgans de la llei no hi surten
+
+**El buit 2 d'aquesta fitxa pregunta per la dotació pressupostària de la JCLF i
+del Consell Nacional per la Llengua.**
+
+**No n'hi ha cap.** **Ni la Junta de Coordinació sobre Llengua i Formació ni el
+Consell Nacional per la Llengua apareixen cap vegada al llibre del pressupost
+del 2026** —ni pel nom, ni per la sigla, ni com a programa.
+
+**Això no vol dir que no tinguin diners**: **vol dir que no en tenen de
+propis.** **Si en gasten, surten del Departament**, i **el pressupost no ho
+desglossa.** `El corpus registra el negatiu amb l'abast: llibre del pressupost
+del 2026, cerca per nom i per sigla.`
+
 ## Buits registrats
 
 1. **Si s'ha sancionat mai** algú sota aquesta llei, i quantes vegades.
-2. **El desplegament reglamentari**: el règim de funcionament i la dotació
-   pressupostària de la JCLF i del CNL **s'estableixen per reglament**, i el
-   corpus no en té cap.
+2. **El desplegament reglamentari**: el règim de funcionament ~~i la dotació
+   pressupostària~~ de la JCLF i del CNL **s'estableixen per reglament**, i el
+   corpus no en té cap. — **`parcial` el 2026-09-18**: **la dotació no existeix
+   com a partida.** **Cap dels dos òrgans no surt al llibre del pressupost del
+   2026**, que sí que dona **2.134.984,61 € al Departament de Política
+   Lingüística**, repartits a dalt. **El reglament de funcionament segueix
+   obert.**
 3. **El Pla d'acció nacional per la llengua** vigent.
 4. **Els informes anuals** de l'article 31: n'hi ha hagut, i què diuen.
 5. ~~**La lletra j)** de l'article 41.7.~~ — **`resolt` el 17-09-2026: no
