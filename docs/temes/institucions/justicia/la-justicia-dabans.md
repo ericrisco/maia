@@ -254,9 +254,33 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    cada litigi nomenava **un prevere amb mandat especial**. **Abans havien estat
    designats el Consell Sobirà del Rosselló i la Cour de Tolosa**, i el motiu
    escrit de la primera designació és lingüístic: **era l'única cort sobirana de
-   França capaç d'entendre expedients en català**. **Segueix obert quan
-   s'extingeix**: Brutails escriu el 1904 i **el corpus no té cap norma de
-   supressió**, ni els textos dels dos decrets.
+   França capaç d'entendre expedients en català**. **I des del 17-09-2026 se sap quan s'extingeix**, amb la norma al
+   davant: **la Llei qualificada de la Justícia, del 3 de setembre de 1993**
+   ([BOPA](../../../fonts/bopa.md) del 27-09-1993,
+   `docs/raw/lleis/bopa/llei-qualificada-justicia-1993.txt`).
+
+   **No el suprimeix per nom: el substitueix.** L'exposició de motius parla de
+   «la Sala Civil, **que ve a substituir els dos Tribunals Superiors de la
+   Mitra i de Perpinyà**», i **les disposicions transitòries setena a novena
+   reparteixen els afers pendents**: els que eren «davant dels actuals
+   Tribunals Superior de la Mitra o Superior de Perpinyà» **passen a la Sala
+   Civil del Tribunal Superior de Justícia**.
+
+   **La data operativa no és la de la llei sinó la del calendari que ella
+   fixa**: entra en vigor **quinze dies després de publicar-se**, però
+   **«totes les institucions judicials i procediments regulats en la present
+   Llei es posaran en funcionament el dia 2 de gener de 1994»**. **El Tribunal
+   Superior d'Andorra a Perpinyà funciona, doncs, del 13 de juliol de 1888 al
+   31 de desembre de 1993: cent cinc anys.**
+
+   **I el que la llei diu de per què desapareix val per a tota aquesta
+   fitxa**: la Sala Civil ha de fer «la funció reguladora del Dret que pertany,
+   en altres països, al Tribunal de Cassació», amb **«la Jurisprudència, font
+   del dret ara unificada»**. **El que s'acaba el 1993 no és un tribunal: és
+   tenir-ne dos que no es parlaven.**
+
+   `Segueixen oberts els textos dels dos decrets francesos, del 1888 i del
+   1898.`
 4. **Casos concrets** jutjats sense advocat. **Hi ha memòria viva d'això.**
 5. **Les presons** andorranes d'aquell període. — **`parcial` des del
    15-09-2026: una, amb data.** Un acte de manlleuta del **12 d'octubre del
