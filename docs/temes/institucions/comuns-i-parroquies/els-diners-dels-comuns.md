@@ -149,8 +149,45 @@ el 38% és difícil de moure.
   partida a parts iguals va ser del **32,75%** i la de solidaritat del **12%**
   —**no del 38% i el 6,75%**—, amb **1 punt addicional per als comuns que el
   2015 tinguessin un endeutament entre el 190% i el 200%** de la mitjana
-  d'ingressos, **segons informe del Tribunal de Comptes.** `Requereix la
-  sentència 2017-1-L sencera i saber qui va presentar el recurs.`
+  d'ingressos, **segons informe del Tribunal de Comptes.**
+
+  **La sentència, llegida el mateix dia**
+  (`docs/raw/lleis/bopa/tc-2018-1L-transferencies-comuns.txt`, BOPA del
+  20-03-2018). **El recurs el van presentar sis consellers generals**: **Gerard
+  Alís Eroles, Ferran Costa Marimon, Jordi Gallardo Fernàndez, Rosa Gili
+  Casals, Pere López Agràs i Víctor Naudi Zamora**, contra **els articles 15,
+  16, 17 i 18 i la disposició addicional tercera**. **Ponent: Laurence
+  Burgorgue-Larsen.**
+
+  **El Tribunal els va donar la raó en tot menys en l'article 17** —**el de la
+  partida de solidaritat, que sobreviu i és el que aquesta fitxa descriu més
+  amunt**— i **va estendre la inconstitucionalitat per connexitat als articles
+  2.1 i 8.3.a) i b).**
+
+  **El motiu és una sola frase, i val per entendre tot el finançament
+  comunal:**
+
+  > «L'examen dels articles 15, 16 i 18 permet constatar que **manca
+  > l'exigència de proporcionalitat**. […] aquesta exigència desapareix en
+  > benefici de l'establiment d'una **condicionalitat** de la recepció dels
+  > recursos de "redistribució sostenible". **Aquest sistema condicional** […]
+  > **vulnera de manera directa el principi constitucional de l'autogovern dels
+  > comuns** (article 79) interpretat de manera combinada amb l'article 81 de
+  > la Constitució.» (2.21)
+
+  **El que la Constitució no permet no és repartir per indicadors: és
+  condicionar.** **El Tribunal accepta expressament els indicadors
+  demogràfics i de pernoctacions** com a «altres indicadors» de l'article 81 «perquè
+  respecten alhora les exigències de proporcionalitat i d'objectivitat» (2.17),
+  i **rebutja que el Govern pugui supeditar el lliurament a què el comú faci
+  o deixi de fer alguna cosa.**
+
+  **I hi ha una frase sobre el rang de la norma que el corpus reté**: **«en
+  l'ordenament jurídic andorrà, les lleis qualificades de transferències als
+  comuns són l'Alfa i l'Omega de la seva capacitat d'autogovern»**, i **per
+  això la Constitució n'exclou qualsevol intervenció reglamentària (article
+  60.2) i n'exigeix la doble majoria (article 57.3)** —**vegeu
+  [les lleis qualificades](../justicia/les-lleis-qualificades.md)**.
 - **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
   —població, superfície, pernoctacions— no.
 - ~~**La partida de solidaritat** (6,75%, article 17) és l'única sense criteri
