@@ -118,8 +118,48 @@ coherent amb un país la banca del qual viu de la seva homologació
 ## Buits registrats
 
 - **Quantes empreses de seguretat privada hi ha inscrites**, no consta.
-- **Quants decrets de mesures restrictives ha aprovat el Govern** des del 2022 i
-  contra qui: **no consta al recull de lleis** —els decrets no hi són.
+- ~~**Quants decrets de mesures restrictives ha aprovat el Govern** des del 2022 i
+  contra qui: **no consta al recull de lleis** —els decrets no hi són.~~ —
+  **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, que **sí que
+  els té.** **Són setze decrets i una correcció d'errata, i tots contra el
+  mateix**: **el conflicte entre Ucraïna i la Federació Russa.** **Cap altre
+  destinatari, en quatre anys.**
+
+  | Data del butlletí | Decret |
+  | --- | --- |
+  | **25-03-2022** | **Decret 111/2022** — **el primer** |
+  | 13-04-2022 | Decret 147/2022 (modificació) |
+  | 04-05-2022 | Decret 179/2022 (modificació) |
+  | 14-06-2022 | Decret 247/2022 (modificació) |
+  | 28-06-2022 | *Correcció d'errata del 247/2022* |
+  | 29-11-2022 | Decret 480/2022 (modificació) |
+  | 14-02-2023 | Decret 71/2023 (modificació) |
+  | 16-05-2023 | Decret 203/2023 (modificació) |
+  | 26-07-2023 | Decret 378/2023 (modificació) |
+  | 22-08-2023 | Decret 405/2023 (modificació) |
+  | 01-11-2023 | Decret 500/2023 (modificació) |
+  | **23-01-2024** | **Decret 16/2024** — **decret nou, no modificació** |
+  | 12-03-2024 | Decret 87/2024 (modificació del 16/2024) |
+  | **01-01-2025** | **Decret 491/2024** — **decret nou** |
+  | **05-08-2025** | **Decret 268/2025** — **decret nou** |
+  | **04-11-2025** | **Decret 389/2025** — **decret nou** |
+  | **26-05-2026** | **Decret 182/2026** — **decret nou** |
+
+  **La forma de la sèrie diu com funciona l'instrument.** **Els dos primers anys
+  es va anar modificant un sol decret** —**el 111/2022, tocat vuit vegades**—;
+  **des del 2024 el Govern deixa de modificar i en dicta un de nou cada
+  vegada**, **fins a quatre en dos anys.** **Es passa d'esmenar una llista a
+  reemplaçar-la.**
+
+  **I la conclusió que el buit demanava, «contra qui», és d'una sola línia**:
+  **contra Rússia, i contra ningú més.** **El règim andorrà de mesures
+  restrictives existeix des del 2022 i no s'ha fet servir per a cap altre
+  conflicte.**
+
+  > **Com s'ha comptat, perquè es pugui refer**: cerca a l'API pública del BOPA
+  > de la frase exacta **«de mesures restrictives»**, paginada de vint en vint
+  > fins a esgotar-la, **deduplicant pel sumari**. `Requereix el contingut dels
+  > decrets, que no s'ha llegit: això és la sèrie, no la matèria.`
 - **La Llei qualificada del Cos de Policia**, que la de seguretat pública cita
   com a norma germana, **no és al recull**. — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: és la **Llei 8/2004, del 27 de maig,
