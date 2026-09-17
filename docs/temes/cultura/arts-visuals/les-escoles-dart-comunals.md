@@ -182,9 +182,13 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   **I la fitxa guanya dues coses més.** **La més antiga documentada és la de
   Sant Julià de Lòria, el 1994**, amb **contractacions de professorat a
   l'«Escola d'Art» ja el 1991** —**abans que el BOPA especifiqués parròquia.**
-  **I la de la Massana apareix el 2022 com a «Escola d'Art i l'Aula de Teatre i
-  Dansa»**, senyal que **les escoles d'art comunals han anat absorbint altres
-  ensenyaments artístics.**
+  **I des del 2022 hi ha una «Escola d'Art i l'Aula de Teatre i Dansa»** que
+  convoca desenes de places de professorat cada any —**10 el 2022, 13 el 2023,
+  10 el 2024, 9 el 2025 i 12 el 2026**— i que **els edictes no atribueixen a
+  cap comú pel nom**. **El corpus no diu de quina parròquia és**: `requereix
+  identificar el comú d'aquests edictes, que el Butlletí dona pel codi del
+  document i no pel text.` **El que sí que mostren és que les escoles d'art
+  comunals han anat absorbint altres ensenyaments artístics.**
 - **Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
   artistes. **Un ja té nom**: el taller de ceràmica que **Sergi Mas i Maria
   Canalís obren a Sant Julià de Lòria el 1966**. Vegeu
