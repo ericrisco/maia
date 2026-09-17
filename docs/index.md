@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**999** documents · **199** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**999** documents · **200** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1702,6 +1702,7 @@
 | [`govern-pressupost-2026`](fonts/govern-pressupost-2026.md) | Govern d'Andorra | drets específics del llibre pendents; portal general amb drets reservats | pendent |
 | [`goya-integracio-democratica-1997`](fonts/goya-integracio-democratica-1997.md) | Ferran Goya Rodríguez de Castro · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`icnl-religio-estat-andorra`](fonts/icnl-religio-estat-andorra.md) | International Center for Not-for-Profit Law (ICNL), que n'allotja la còpia | Cap llicència declarada a l'exemplar. | pendent |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

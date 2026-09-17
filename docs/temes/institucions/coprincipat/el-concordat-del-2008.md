@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: serra-vatica-microestat
-timestamp: 2026-09-17T10:30:00Z
+timestamp: 2026-09-17T21:30:00Z
 tags: [institucions, coprincipat, religio, dret, relacions-exteriors]
 ---
 
@@ -123,10 +123,89 @@ diplomàtic andorrà.** El corpus no en treu conclusió: **enuncia que la tensi�
 està escrita a la mateixa Constitució i que qui la va assenyalar és un
 representant de l'Estat.**
 
+## El que diu el Concordat, article per article
+
+**El text literal segueix sense llegir-se** —és al BOPA núm. 47— **però el
+contingut ja no és desconegut.** El corpus l'ha reconstruït des d'un
+[informe acadèmic](../../../fonts/icnl-religio-estat-andorra.md) que el
+descriu article per article.
+
+**Signat el 17 de març del 2008** i **publicat al BOPA l'11 de juny**.
+**Preàmbul i setze articles, en sis parts**: el bisbe d'Urgell, l'estatut
+jurídic de l'Església, el matrimoni canònic, l'ensenyament religiós i el règim
+econòmic.
+
+| Article | Què estableix |
+| --- | --- |
+| **Preàmbul** | Es funda en el **reconeixement mutu de la independència i la llibertat** d'Església i Estat |
+| **Article 2** | **La Santa Seu ha de comunicar el nom del bisbe designat al Govern d'Andorra ABANS de nomenar-lo** |
+| **Article IV** | Reconeix a l'Església el dret a **dur a terme la seva missió apostòlica** i li garanteix l'**exercici lliure i públic**; dona a la Santa Seu el dret de **crear, modificar o suprimir ordes, congregacions i institucions eclesiàstiques**, de **comunicar-s'hi lliurement** i de **publicar i difondre** el que les governa |
+| **Article IV, secció 2** | **I el límit**: les manifestacions públiques i socials del catolicisme queden **subjectes a les disposicions de seguretat, ordre públic, salut i als drets fonamentals dels altres** |
+| **Article XI, 3 a)** | **Obliga TOTS els centres educatius a ensenyar catolicisme** |
+
+**L'article 2 és menys del que sembla i el corpus ho vol dir amb precisió.**
+**No és un dret de veto.** És un **avís previ**: el Govern pot fer objeccions
+d'ordre polític, i **la decisió final correspon enterament a la Santa Seu.**
+**Andorra és informada, no consultada.**
+
+## El recurs que el Concordat va rebre, i com va acabar
+
+**Això el corpus no ho tenia, i és el fet més important d'aquesta unitat
+després del tractat mateix.**
+
+**Poc després de signar-se, un grup de consellers generals el va impugnar
+davant del Tribunal Constitucional.** **El blanc era l'article XI, 3 a)** —el
+que obliga tots els centres a ensenyar catolicisme— i **els motius eren tres**:
+
+1. Que contravenia el **dret dels pares a escollir l'educació dels fills i la
+   seva formació moral i religiosa** d'acord amb les seves conviccions
+   (**Constitució, article 20.3**).
+2. Que xocava amb la **llibertat d'ensenyament i de creació de centres
+   docents** (**article 20.2**).
+3. Que contradeia el **principi d'aconfessionalitat de l'Estat**.
+
+**El 4 de setembre del 2008 el Tribunal el va declarar CONSTITUCIONAL** —i
+**això és el que cal llegir amb cura, perquè no és una victòria neta**:
+**el va salvar posant-hi dues excepcions d'interpretació.**
+
+| «Tots els centres» no inclou | |
+| --- | --- |
+| **Els centres estrangers** que no formen part del sistema educatiu andorrà i es regeixen per **acords internacionals propis** | El francès i l'espanyol en queden fora |
+| **Els centres privats el caràcter dels quals quedaria greument afectat** si se'ls obligués a ensenyar catolicisme | Una escola de conviccions pròpies no hi entra |
+
+**El resultat pràctic**: **l'obligació es manté escrita i es buida per a bona
+part dels centres del país**, perquè **el sistema educatiu andorrà conviu amb
+el francès i l'espanyol** ([els sistemes
+educatius](../../societat/educacio/educacio.md)). **La norma diu «tots» i el
+Tribunal va dir que «tots» vol dir menys.**
+
+## El que el Concordat NO ha generat
+
+**Disset anys després, cap llei el desplega.** L'informe ho diu sense
+matisos: **«no s'ha aprovat cap llei per desenvolupar aquesta legislació, ni
+acords de rang inferior»**, i **«no hi ha acords amb cap altre grup religiós».**
+
+**Això situa el
+[Registre d'entitats religioses del 2025](../../costums/religiositat/el-registre-dentitats-religioses.md)
+al seu lloc exacte**: **no és el desplegament del Concordat** —que segueix sense
+desplegar-se— sinó **la via per la qual les altres confessions obtenen
+personalitat jurídica sense tractat.** **L'Església la té per concordat; les
+altres, per registre.**
+
 ## Buits registrats
 
-- **El text del Concordat del 2008** (BOPA núm. 47, 11.6.2008). **Localitzat i no
-  llegit. Buit prioritari.**
+- **El text del Concordat del 2008** (BOPA núm. 47, 11.6.2008). — **`parcial`
+  el 17-09-2026**: **el text literal segueix sense llegir-se**, però
+  **l'estructura i cinc articles ja són al cos d'aquest article**, des d'un
+  [informe acadèmic](../../../fonts/icnl-religio-estat-andorra.md). **Setze
+  articles en sis parts**, i **l'article 2, el IV i el XI.3.a) amb el seu
+  contingut.** `Requereix el BOPA núm. 47 per al text literal i per als onze
+  articles que segueixen sense descriure's.`
+- **La sentència del Tribunal Constitucional del 4 de setembre del 2008** sobre
+  l'article XI.3.a). **Nova al corpus, i se'n coneix el sentit i les dues
+  excepcions, no el text.** `Requereix el BOPA o el portal del Tribunal.`
+- **Qui eren els consellers generals que van impugnar el Concordat**, i **amb
+  quins vots.** **Buit nou.** `Requereix l'arxiu del Consell General.`
 - ~~**L'article 11.3 de la Constitució**, literal.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/constitucio.txt`). **Són dos paràgrafs i tots
   dos importen aquí:**
