@@ -135,8 +135,35 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
 
 ## Buits registrats
 
-- **Quants saigs hi ha** i com es reparteixen la feina, no consta. La llei crea
-  la **Cambra de Saigs** i el corpus no en té la composició.
+- ~~**Quants saigs hi ha** i com es reparteixen la feina, no consta. La llei crea
+  la **Cambra de Saigs** i el corpus no en té la composició.~~ — **`resolt` el
+  17-09-2026 des del [BOPA](../../../fonts/bopa.md)** i **del text consolidat.**
+
+  **Són tres, i sempre han estat tres.** **El nombre el fixa un acord del Govern
+  —no la llei—, amb un mínim de tres**, i **l'únic acord publicat és el del 25
+  de març del 2015, que en va fixar tres**; **l'únic decret de nomenament és el
+  del 27 d'abril del 2016.** **La Cambra, doncs, té tres membres**, perquè
+  **tots els saigs hi han de pertànyer obligatòriament**
+  ([el saig](./el-saig.md), on hi ha la sèrie documental sencera).
+
+  **I «com es reparteixen la feina» té una resposta que el corpus no
+  esperava: no se la reparteixen.** **L'article 17 del text consolidat
+  garanteix «el dret a la lliure elecció del saig»**, i **hi posa dues
+  prohibicions per fer-lo efectiu**:
+
+  > «**resten prohibides les associacions professionals entre saigs** i també
+  > que **dos o més saigs estableixin el seu despatx professional en un mateix
+  > immoble**» (article 17.1), **i també les associacions «amb altres
+  > professionals titulats o mercantils»** (article 17.2).
+
+  **No hi ha torn ni repartiment territorial: qui executa tria saig**, i **la
+  llei prohibeix fins i tot que comparteixin edifici perquè aquesta tria sigui
+  real.** **És l'oposat exacte del batlle**, que **la mateixa llei assigna
+  «per torn»** cada vegada que cal impugnar el saig davant la jurisdicció.
+  **El que la Cambra sí que reparteix són els torns de guàrdia** —«organitzar i
+  gestionar els torns necessaris per garantir la cobertura i la continuïtat […]
+  en els supòsits d'absència, impossibilitat o vacances» (article 16.1.f)—,
+  **que és cobrir-se les absències, no distribuir els assumptes.**
 - **Els barems d'honoraris** els fixa un reglament que no és al corpus: **quant
   costa executar una sentència a Andorra, no se sap**. — **`parcial` des del
   15-09-2026, i només per la banda històrica.** **El barem de l'ofici

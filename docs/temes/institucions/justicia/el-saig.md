@@ -339,7 +339,67 @@ Vegeu
      **El corpus segueix sense afirmar cap relació ni cap caràcter hereditari**,
      **i fa constar que la recurrència ja és prou densa per merèixer
      comprovació**: **cinc aparicions, tres segles, un sol ofici.**
-4. **La Cambra de Saigs**: quants n'hi ha i des de quan.
+4. ~~**La Cambra de Saigs**: quants n'hi ha i des de quan.~~ — **`resolt` el
+   17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, que **té la sèrie
+   sencera i és curta**.
+
+   **La Cambra la crea la llei mateixa** —**article 15.1 de la Llei 43/2014**,
+   avui article 15 del text consolidat— **com a «organisme de dret públic i de
+   caràcter professional, dotat de personalitat jurídica pròpia»**, i **la
+   pertinença hi és obligatòria**: «**tots els saigs han de pertànyer
+   obligatòriament a la Cambra de Saigs**». **La presidència s'elegeix entre els
+   saigs per majoria simple i per dos anys**, i **si no hi ha candidats o hi ha
+   empat després de tres votacions, recau en el saig amb més anys d'exercici o,
+   subsidiàriament, en el de més edat.** **Amb tan pocs membres, la llei preveu
+   que l'elecció pugui no resoldre's.**
+
+   **Quants n'hi ha: tres, i sempre han estat tres.** **El nombre no el fixa la
+   llei sinó un acord del Govern**, «amb la consulta prèvia de la Cambra de
+   Saigs i del Consell Superior de la Justícia, en funció de les necessitats del
+   país», **amb un mínim de tres** (article 82 del text consolidat).
+
+   | Data | Document |
+   | --- | --- |
+   | **25-03-2015** | **Acord del Govern que fixa el nombre de 3 saigs**, amb consulta prèvia al Consell Superior de la Justícia, i convocatòria del concurs oposició (`edicte-2015-seleccio-3-saigs.txt`) |
+   | 03-06-2015 | Segona convocatòria, **d'un saig** (`edicte-2015-seleccio-un-saig.txt`) |
+   | **27-04-2016** | **Decret de nomenament de tres saigs** (`decret-2016-nomenament-tres-saigs.txt`) |
+   | 27-04-2016 | Avís de presa de possessió (`avis-2016-presa-possessio-saigs.txt`) |
+   | 07-06-2017 | Decret que aprova el Reglament de normes internes de la Cambra, **quatre capítols i trenta-vuit articles** (`decret-2017-normes-internes-cambra-de-saigs.txt`) |
+
+   **Els tres primers saigs es diuen, al decret, Xavier Granyó Ribes, Lourdes
+   Alonso Martínez i Goretti López Jauregui**, i **van prendre possessió el 13 de
+   maig del 2016**. **El Butlletí no publica cap altre decret de nomenament de
+   saigs**: `Requereix saber si la segona convocatòria del juny del 2015 va
+   quedar deserta o si en va sortir un dels tres nomenats.` **El que sí que
+   consta és que del 2016 ençà no se n'ha nomenat cap més.**
+
+   **I la data de la Cambra no és la de la llei.** **La llei és del desembre del
+   2014**, **els saigs prenen possessió el maig del 2016** i **les normes
+   internes de la Cambra no s'aproven fins al juny del 2017**: **dos anys i mig
+   entre crear l'organisme i donar-li estatuts.** **I amb retard sobre el
+   termini legal**: **la llei donava a la Cambra «un termini no superior a sis
+   mesos a comptar del primer nomenament dels saigs» per proposar les normes
+   internes i les deontològiques** (article 16.1.b, ja a la redacció del 2014).
+   **Del 27 d'abril del 2016 al 7 de juny del 2017 hi ha tretze mesos**, i
+   **l'aprovació és del Govern, no de la Cambra**: `Requereix saber quan la
+   Cambra les va proposar, que és el que compta pel termini i el decret no ho
+   diu.`
+
+   **De passada, l'avís del 27-4-2016 explica una cosa que el corpus no tenia:
+   la llei del saig no va entrar en vigor amb la seva publicació.** **La
+   disposició final sisena la deixava suspesa fins a l'endemà de la presa de
+   possessió dels primers saigs**, i **el mateix feien la Llei 44/2014 de
+   l'embargament i la Llei 45/2014 de modificació del Codi de
+   l'Administració.** **El dia és el 16 de maig del 2016** —**el primer dia
+   hàbil després del 13**—, i **aquell dia van entrar en vigor alhora el títol
+   II de la llei del saig, la seva disposició derogatòria i les referències al
+   saig de les altres dues lleis.** **Una llei del 2014 que espera setze mesos
+   que existeixi la professió que regula.**
+
+   **I la cadena de textos té una baula més de les que aquesta fitxa deia**:
+   entre la Llei 8/2017 i la Llei 20/2022 hi ha un **Decret legislatiu del
+   25-4-2018 de publicació del text refós de la Llei 43/2014**. **La llei del
+   saig s'ha refós dues vegades en nou anys**, el 2018 i el 2023.
 5. ~~**Què vol dir *saig* en català general**, segons el diccionari normatiu.~~
    — **`resolt` el 16-09-2026** ([DIEC2](../../../fonts/diec2.md)). **El diccionari
    normatiu en dona dues coses i totes dues importen aquí.** **Accepció 1**,
