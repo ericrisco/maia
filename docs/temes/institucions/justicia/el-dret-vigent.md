@@ -175,7 +175,34 @@ un**.
   `Requereix triar per on començar: la via natural és l'ordinació de
   pressupost d'un comú, que és anual i dona sèrie.`
 - **Ni els tractats internacionals ni la jurisprudència.** Saber què diu el dret
-  és saber també què n'han dit els tribunals.
+  és saber també què n'han dit els tribunals. — **`parcial` el 17-09-2026, i
+  és el tercer forat del mateix tipus: del fons, no del país.** **El
+  [BOPA](../../../fonts/bopa.md) publica totes dues coses**, i **la
+  jurisprudència constitucional hi surt sencera i al dia**:
+
+  | Cerca al Butlletí | Documents |
+  | --- | --- |
+  | **«Conveni»** | **10.020** |
+  | «Tractat» | 753 |
+  | **«Sentència del Tribunal Constitucional»** | **467** |
+  | «recurs d'empara» | 2.339 |
+  | «Sentència» + «Tribunal Superior de Justícia» | 5.462 |
+
+  **Les sentències del Tribunal Constitucional es publiquen amb el text
+  íntegre**, no en extracte: **s'hi llegeixen els antecedents, els arguments de
+  cada part, els del Ministeri Fiscal i la decisió.** **Mostrejat el
+  17-09-2026**, l'últim butlletí en porta **sis d'un sol dia** —causes
+  2026-42-RE a 2026-52-RE, totes del 9 de setembre—, i **el corpus n'ha llegit
+  una de sencera** com a prova de la via: la del **13 de juliol del 2020**,
+  sobre si el Consell Superior de la Justícia ha de motivar el nomenament d'un
+  magistrat (`docs/raw/lleis/bopa/tc-2020-2-3-re-nomenament-magistrades.txt`).
+  **El Tribunal la va desestimar íntegrament i va imposar les costes a la
+  recurrent.**
+
+  **Les xifres són de documents que contenen la paraula, no de sentències
+  distintes**, i no s'han de llegir com un cens. `Requereix un criteri de
+  selecció: 467 sentències constitucionals són una biblioteca, i el corpus no
+  té cap regla sobre quines llegir.`
 - ~~**La Llei d'inversió estrangera falta.** La font la marca amb vigència no
   confirmada i la seva pàgina retorna error. És l'única de les 105 que no s'ha
   pogut llegir.~~ — **`resolt` el 17-09-2026 des del
