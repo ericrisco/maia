@@ -26,6 +26,20 @@ notes: >
   `anyFilter` i `dateFilter` van donar 400 en totes les formes provades.
   L'HTML del blob ve en UTF-16: cal descodificar-lo abans de res.
   `GetFilters` retorna l'arbre d'organismes i temes, tambe sense clau.
+  RESPOSTA: {"totalCount": N, "paginatedDocuments": [{"document": {...}}]}.
+  Els `highlights` arriben amb la codificacio trencada; les metadades i el blob,
+  no. No fer servir mai els highlights: el text bo es llegeix del blob.
+  CERCA (les dues regles que decideixen si trobes una cosa o no):
+    1) Entre COMETES es cerca la frase sencera. Sense cometes es un OR de
+       paraules i dona centenars de resultats inutils.
+    2) `orderBy` BUIT ordena per rellevancia, i es l'unica manera de trobar un
+       document antic: amb l'ordre per data, una llei del 1993 queda enterrada
+       sota mil edictes del 2026 que comparteixen una paraula.
+  El script amb les dues regles aplicades:
+  `02-DOCS/raw/operations/gap-audit-scripts/bopa.py cerca | baixa`.
+  TAULES: cal convertir-les abans d'esborrar les etiquetes HTML, o una matriu
+  de sancions queda com una columna de xifres soltes i el document sembla
+  llegit quan no ho es.
 tema: fonts
 veu: compilada
 epoca: contemporania
@@ -51,6 +65,33 @@ instruccions per fer-la servir són a les notes d'aquesta fitxa.
 sumari, el número de butlletí, l'any, la data de publicació i l'enllaç al
 document. **És la font autèntica**, i **substitueix els reculls de tercers per a
 qualsevol pregunta sobre què diu una norma i quan es va publicar.**
+
+## Fins on arriba enrere, i què vol dir
+
+**El BOPA comença el 1989**, i **això té dues conseqüències que el corpus ha
+comprovat les dues el mateix dia.**
+
+**La primera és que hi ha coses que s'hi donaven per absents i hi són.** **La
+Llei de l'Escola Andorrana del 2 de maig del 1989** es donava per «anterior a la
+sèrie consultable»: **surt al butlletí núm. 9, del 19 de maig del 1989**. **Hi
+és per dos mesos.**
+
+**La segona és que hi ha coses que no hi seran mai, i ara es pot dir per què.**
+**La llei de creació de l'Escola nacional andorrana d'esquí és del 23 de
+setembre del 1988** i **el reglament de creació dels Arxius Nacionals, del 22 de
+desembre del 1975**. **No són buits de cerca: són anteriors al medi.**
+
+**La regla que se'n deriva**: **abans de declarar que una norma andorrana no es
+pot trobar, mirar-ne la data.** **Del 1989 ençà, hi és.**
+
+## Buscar-hi i no trobar-hi també és un resultat
+
+**Dues vegades el 17-09-2026, la cerca exhaustiva al BOPA va tancar un buit
+dient que no.** **La memòria anual de la CNAAD**, obligatòria des del 2022, **no
+s'hi ha publicat mai**; i **la frase «informació reservada d'Estat» dona dos
+documents a tot el Butlletí i tots dos són lleis, cap acte de declaració.**
+**En tots dos casos la via queda descartada, no pendent**, i **això val tant com
+trobar el document.**
 
 ## Related
 
