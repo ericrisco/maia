@@ -95,7 +95,12 @@ lucrativa»**, i demana **90 dies l'any** al país, **un milió d'euros** invert
   termes i terminis fixats per la llei.» I l'article **7.1** reserva tota la
   matèria a **llei qualificada**. Vegeu
   [l'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md), que
-  registra que **aquesta llei qualificada no és al recull de normes del corpus**.
+  registrava que **aquesta llei qualificada no era al recull de normes del
+  corpus**. — **Ja no ho és: `resolt` el 17-09-2026 des del
+  [BOPA](../../../fonts/bopa.md)**, **Llei qualificada de la nacionalitat, del
+  5 d'octubre de 1995**, amb la cadena sencera de modificacions fins a la
+  **Llei 8/2026, del 7 de maig**
+  ([la política de nacionalitat](./la-politica-de-nacionalitat.md)).
 
 ## Related
 

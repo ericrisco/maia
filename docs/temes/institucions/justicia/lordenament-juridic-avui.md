@@ -227,13 +227,91 @@ de **tres absències**:
 | Justícia | 85.2, 89.4 | **sí** |
 | Tribunal Constitucional | 95.2 | **sí** |
 | Transferències als Comuns | 81 | **sí** — Llei 18/2017 |
-| **Nacionalitat** | **7.1** | **no** |
-| **Estats d'alarma i emergència** | **42.1** | **no** |
-| **Competències comunals** | **57.3** | **no** |
+| **Nacionalitat** | **7.1** | **no al recull** — *localitzada el 17-09-2026* |
+| **Estats d'alarma i emergència** | **42.1** | **no al recull** — *localitzada el 17-09-2026* |
+| **Competències comunals** | **57.3** | **no al recull** — *localitzada el 17-09-2026* |
 
-**Buit registrat:** les tres normes que falten. Dues d'elles regulen coses de
+~~**Buit registrat:** les tres normes que falten. Dues d'elles regulen coses de
 primer ordre —**qui és andorrà** i **què pot fer el Govern quan suspèn drets**—
-i el corpus no té el text de cap de les dues.
+i el corpus no té el text de cap de les dues.~~ — **`resolt` el 17-09-2026 des
+del [BOPA](../../../fonts/bopa.md). Les tres existeixen i ara el corpus les
+té.** **L'absència era del recull de normes consolidades, no de l'ordenament**,
+i **aquesta distinció és la lliçó del tancament**: **una matèria que la
+Constitució reserva a llei qualificada i no surt al catàleg no vol dir que
+ningú no l'hagi legislada.**
+
+| Matèria | Norma | Fitxer |
+| --- | --- | --- |
+| **Nacionalitat** | **Llei qualificada de la nacionalitat, del 5 d'octubre de 1995** —amb una cadena llarga: modificacions del 1994, 2004 i 2006, **text refós del 28-3-2007** i **Llei 8/2026, del 7 de maig** | `llei-qualificada-nacionalitat-1995.txt`, `llei-8-2026-mod-nacionalitat.txt` |
+| **Estats d'alarma i emergència** | **Llei 4/2020, del 23 de març, qualificada dels estats d'alarma i d'emergència** —**vint-i-cinc articles, tres capítols**, sense cap modificació posterior | `llei-4-2020-estats-alarma-i-emergencia.txt` |
+| **Competències comunals** | **Llei qualificada de delimitació de competències dels Comuns, del 4 de novembre de 1993** —modificada com a mínim per la **Llei 6/2007, del 22 de març**, sobre l'apartat 5 de l'article 9 | `llei-qualificada-competencies-comuns-1993.txt` |
+
+**La de nacionalitat es treballa a**
+[la política de nacionalitat](../nacionalitat-i-residencia/la-politica-de-nacionalitat.md);
+**la de competències comunals, a**
+[els diners dels comuns](../comuns-i-parroquies/els-diners-dels-comuns.md).
+**La dels estats d'alarma no en tenia cap, i el que segueix és el seu resum.**
+
+### La llei que el país va escriure amb el confinament a sobre
+
+**La Llei 4/2020 és del 23 de març del 2020.** **Andorra va arribar a la
+pandèmia sense la llei que havia de regular-la**, i **la va aprovar amb la
+crisi ja començada** —**el mateix dia que el Consell General reformava el seu
+propi Reglament** per poder funcionar (`reforma-reglament-consell-general-2020-03-23.txt`).
+
+**Els dos estats no són graus del mateix**: **es distingeixen pel que els
+provoca i per qui els autoritza.**
+
+| | **Alarma** | **Emergència** |
+| --- | --- | --- |
+| **Supòsit** | **terratrèmols, inundacions, allaus, incendis, accidents de gran magnitud, epidèmies, pandèmies** i altres catàstrofes | **interrupció del normal funcionament de la convivència democràtica** |
+| **Qui el declara** | **el Govern, per decret**, i **ho notifica** al Consell General | **el Govern, però amb autorització prèvia** del Consell General |
+| **Durada** | **15 dies naturals** | **fins a 30 dies naturals** |
+| **Pròrrogues** | **només amb autorització expressa** del Consell General, de 15 dies cadascuna | igual, de 30 dies cadascuna |
+| **Drets tocats** | **limitar** els articles 21 i 27 | **suspendre o limitar** els articles 9.2, 12, 15, 16, 19 i 21 |
+
+**A l'alarma el parlament s'assabenta; a l'emergència, autoritza.** **I la
+diferència de verb —limitar contra suspendre— és la diferència entre les dues
+llistes de drets.**
+
+**Dues coses que el corpus no sabia que hi eren.** **La primera**: **un cònsol
+major pot demanar al Govern que declari l'estat d'alarma a la seva parròquia**
+(article 2.2). **L'alarma pot ser d'una parròquia sola, i la pot demanar el
+comú.** **La segona**: **l'autoritat competent és el cap de Govern**, i **pot
+delegar-la en un o diversos ministres** (article 20).
+
+**El que es pot fer amb l'alarma** (article 5): **prohibir o limitar la
+circulació**, **limitar l'entrada i sortida de persones i mercaderies**,
+**requises temporals de béns i prestacions personals obligatòries**, **racionar
+articles de primera necessitat** i **ocupar transitòriament indústries, tallers
+i locals** —**amb una excepció escrita: «a excepció de domicilis privats».**
+
+**El que s'hi afegeix amb l'emergència** és d'un altre ordre: **la detenció
+governativa pot arribar a vuit dies** abans de passar a disposició judicial
+—**amb comunicació al batlle de guàrdia en 24 hores i amb l'*habeas corpus*
+intacte** (article 11)—, **registres domiciliaris**, **intervenció de
+comunicacions**, **prohibició de reunions i manifestacions**, **prohibició de
+vagues i tancaments patronals** (article 16) i **expulsió immediata dels
+estrangers no residents que participin en actes que pertorbin l'ordre públic**
+(article 17.2).
+
+**I tres contrapesos que la llei escriu expressament:**
+
+- **Els poders constitucionals no s'interrompen** (article 22).
+- **La responsabilitat dels poders públics no es modifica**, i **les
+  resolucions es poden impugnar** —**tot i que la impugnació no en suspèn
+  l'execució** (article 23).
+- **La declaració s'ha de difondre obligatòriament per tots els mitjans de
+  comunicació, públics i privats** (article 19.2).
+
+**L'eina d'execució és la multa coercitiva**: **fins a 15.000 € cada una**,
+**separades per un mínim de vint-i-quatre hores** i **d'acord amb la capacitat
+econòmica** de qui la rep (article 24). **Es poden encadenar.**
+
+`Requereix la Sentència del Tribunal Constitucional del 19-4-2021 (recurs
+directe d'inconstitucionalitat 2021-2-L)`, **que el corpus ja té baixada**
+(`tc-2021-2-L-inconstitucionalitat.txt`) **i encara no ha llegit**: **és
+l'única impugnació constitucional que apareix associada a aquesta llei.**
 
 ### Què és, exactament, la que falta
 
@@ -259,8 +337,13 @@ recull**, i el corpus no sap si existeix ni què hi diu.
 
 ## Buits registrats
 
-1. **Les tres lleis qualificades absents**: nacionalitat, estats d'alarma i
-   emergència, competències comunals.
+1. ~~**Les tres lleis qualificades absents**: nacionalitat, estats d'alarma i
+   emergència, competències comunals.~~ — **`resolt` el 17-09-2026**: les tres
+   són al [BOPA](../../../fonts/bopa.md) i ara al corpus. **Vegeu la taula i el
+   resum de la Llei 4/2020 més amunt.** **Segueix obert** el que el catàleg de
+   normes consolidades no explica: `requereix saber per què tres lleis
+   qualificades vigents no hi surten, que és una pregunta sobre la font i no
+   sobre el dret.`
 2. **Tancat el 2026-09-12.** Els cinc articles que la primera instantània va
    baixar buits (45, 46, 56, 68, 80) es van recuperar en reextreure el fons
    sencer. Cap article del recull està buit ara.
