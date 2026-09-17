@@ -229,8 +229,10 @@ llegir París:**
 5. **L'exposició de motius de la proposició de llei de Carvajal de 1895**,
    sencera. **El corpus en té frases per dues vies —les actes del Congrés i
    aquesta font— i no el text.**
-6. **L'obra de Joan de Déu Trias**, *Constitución política y personal
-   internacional del Principado de Andorra* (1890). **Tercera tanda que surt
+6. **L'obra de Joan de Déu Trias**, *Constitución política y **personalidad**
+   internacional del Principado de Andorra* (1890, Barcelona, Subirana
+   Hermanos; títol corregit el 17-09-2026 des de la bibliografia de la
+   [síntesi d'actes](../../../fonts/actes-historiques-consell-general.md)). **Tercera tanda que surt
    citada i segueix sense llegir-se.** **Prioritari**: **és l'autoritat
    episcopal que totes dues fonts franceses combaten.** — **Actualitzat el
    16-09-2026**: **una font espanyola del 1920 el cita per una pàgina i una tesi

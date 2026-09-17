@@ -318,9 +318,11 @@ faisait l'Andorran*».**
 
 1. **La còpia del document del 843** i **la polèmica Brutails-Trias sobre la seva
    lectura.** **Prioritari i doble**: **dos articles del corpus hi descansen.**
-2. **Joan de Déu Trias**, *Constitución política y personal internacional del
-   Principado de Andorra* (1890). **Quarta tanda consecutiva que surt citat.**
-   **Prioritari.**
+2. **Joan de Déu Trias**, *Constitución política y **personalidad** internacional
+   del Principado de Andorra* (1890, Barcelona, Subirana Hermanos; títol
+   corregit el 17-09-2026 des de la bibliografia de la [síntesi
+   d'actes](../../fonts/actes-historiques-consell-general.md)). **Quarta tanda
+   consecutiva que surt citat.** **Prioritari.**
 3. **Baudon de Mony**, *Les origines historiques de la question d'Andorre*.
    **Nou, i és l'altra font episcopal.** **Prioritari.**
 4. **Brutails, *Étude critique sur la question d'Andorre*, *Revue des Pyrénées*,
