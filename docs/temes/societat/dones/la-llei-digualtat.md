@@ -101,9 +101,44 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
 
 ## Buits registrats
 
-- **Només cobreix el sexe.** La discriminació per origen, raça, religió,
+- ~~**Només cobreix el sexe.** La discriminació per origen, raça, religió,
   orientació, edat o discapacitat **no és l'objecte d'aquesta llei**; on és
-  regulada, el corpus no ho ha comprovat.
+  regulada, el corpus no ho ha comprovat.~~ — **`resolt` el 17-09-2026: és una
+  altra llei, i és anterior.**
+
+  La **Llei 13/2019, del 15 de febrer, per a la igualtat de tracte i la
+  no-discriminació** (BOPA del 19-3-2019,
+  [evidència](../../../raw/lleis/bopa/llei-13-2019-igualtat-de-tracte-i-no-discriminacio.txt))
+  desplega els **articles 1.2 i 6 de la Constitució** i té una llista de motius
+  molt més ampla que la del sexe:
+
+  > «Ningú no pot ser discriminat per raó de **naixement, nacionalitat o manca de
+  > nacionalitat, origen racial o ètnic, sexe o gènere femení, religió, convicció
+  > o opinió filosòfica, política o sindical, llengua, edat, discapacitat,
+  > orientació sexual, identitat o expressió de gènere**, o qualsevol altra
+  > condició o circumstància personal o social.» (art. 4.2)
+
+  **Catorze motius nomenats i una clàusula oberta.** I un **àmbit objectiu** que
+  cobreix onze esferes, entre elles l'habitatge, l'atenció sanitària, l'accés a
+  la justícia, l'educació i «els establiments i els espais oberts al públic»
+  (art. 3).
+
+  **La llei tria col·lectius i ho diu.** L'article 2.3 s'adreça «especialment a
+  les dones, que pateixen històricament una situació de desigualtat estructural
+  […] derivada d'un sistema de relacions de poder dels homes sobre les dones», i
+  llista com a col·lectius en situació de més vulnerabilitat **infants i joves,
+  gent gran, persones amb discapacitat, persones nouvingudes i persones
+  LGTBI**.
+
+  **La diferència de tracte no sempre és discriminació** (art. 4.4): no ho és
+  quan es justifica «objectivament per una **finalitat legítima**» i és un mitjà
+  «**idoni, necessari i proporcionat**».
+
+  **I hi ha una tercera llei a la sèrie**: la **Llei 6/2022, del 31 de març, per
+  a l'aplicació efectiva del dret a la igualtat de tracte i d'oportunitats i a la
+  no-discriminació**
+  ([evidència](../../../raw/lleis/bopa/llei-6-2022-aplicacio-efectiva-igualtat-de-tracte.txt)),
+  de 148 KB, que **no s'ha destil·lat**. `Unitat pendent.`
 - **Els títols IV a VII** —ocupació pública, treball, mitjans i publicitat,
   responsabilitat social corporativa— **només s'han llegit en part**.
 - **Cap dada**: quants plans d'igualtat existeixen, quantes empreses passen de
