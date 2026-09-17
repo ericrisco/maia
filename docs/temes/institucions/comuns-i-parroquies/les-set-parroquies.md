@@ -84,6 +84,75 @@ Per als [quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md), l'article
 les competències i les relacions amb els comuns.
 ([P. 455, art. 84](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
 
+## Com s'elegeix un comú, i què hi diu la llei
+
+El títol III de la **Llei qualificada del règim electoral i del referèndum**
+([text](../../../raw/lleis/regim-electoral.txt)) tanca tres coses que aquesta
+fitxa tenia obertes.
+
+| Qüestió | Article | Què diu |
+| --- | --- | --- |
+| **Durada del mandat** | **63.1** | **quatre anys** |
+| **Quan es vota** | **63.2** | **els vint primers dies de desembre** de l'any electoral, per decret del cap de Govern |
+| **Mida del comú** | **64.1** | **entre deu i setze consellers, sempre parell** |
+| **Qui la canvia** | **64.2** | **el mateix comú**, per **dos terços**, i **amb un any d'antelació** |
+| **Les llistes** | **65** | **tancades i blocades**: l'elector vota la llista sencera, **sense poder alterar-ne l'ordre** |
+| **Qui les presenta** | **65** | **el 0,5% del cens parroquial** i **mai menys de deu presentadors** |
+| **Els cònsols** | **68.1** | elegits **d'entre i pels consellers de comú**; **màxim dos mandats consecutius complets** |
+| **Moció de censura** | **68.2-3** | cal **un conseller com a candidat alternatiu** i **majoria absoluta**; si falla, **aquell candidat no es pot tornar a presentar en tot el mandat** |
+
+**El cònsol no el tria la parròquia: el trien els consellers.** I **el límit de
+dos mandats és del cònsol, no del conseller.**
+
+### La prima de majoria: mitja sala per al primer, decideixi per quant decideixi
+
+L'article **66.1** és la peça que dona forma a tots els comuns d'Andorra:
+
+> «Correspondrà directament a la candidatura més votada en cada parròquia **la
+> meitat del nombre total de consellers** que integrin el consell de comú,
+> **sigui quina sigui la diferència en vots** amb la resta de candidatures.
+> L'altra meitat s'ha de distribuir **proporcionalment entre totes les
+> candidatures, inclosa la més votada**.»
+
+**Guanyar per un vot i guanyar per mil donen la mateixa prima.** I com que la
+llista guanyadora també entra al repartiment proporcional de l'altra meitat,
+**acaba sempre amb força més de la meitat.**
+
+### Les comunals del desembre del 2023, i la comprovació
+
+El portal [eleccions.ad](../../../fonts/eleccions-ad.md) publica els resultats de
+les comunals del 2023 en text. **Aplicant l'article 66 a cada parròquia surten
+exactament els escons proclamats:**
+
+| Parròquia | Consellers | Guanyadora | % vots vàlids | Escons | Segona | Escons |
+| --- | ---: | --- | ---: | ---: | --- | ---: |
+| Canillo | 10 | Demòcrates + Independents | **100,00%** | **10** | *(no n'hi havia)* | — |
+| Encamp | 12 | Units per al Progrés + DA + Ind. | 68,24% | **10** | Avancem | **2** |
+| Ordino | 10 | Acció Comunal d'Ordino + DA + Ind. + SDP | 55,64% | **8** | Units per Ordino | **2** |
+| La Massana | 12 | Ciutadans Compromesos + DA + Ind. | 58,73% | **10** | Amb Seny | **2** |
+| Andorra la Vella | 12 | Enclar | 52,47% | **9** | Demòcrates + SDP + Ind. | **3** |
+| Sant Julià de Lòria | 12 | Desperta Laurèdia | 53,26% | **9** | Unió Laurediana + DA + Acció + Ind. | **3** |
+| Escaldes-Engordany | 12 | Consens per Escaldes-Engordany | 51,49% | **9** | Demòcrates + Acció + SDP + Ind. | **3** |
+
+`Comprovació del corpus.` **Les set parròquies s'han recalculat des de zero**:
+mitja sala directa a la primera llista i l'altra mitja repartida amb el sistema
+de l'article 62. **A Escaldes, 1.606 vots contra 1.513 —noranta-tres de
+diferència, un 51,5% contra un 48,5%— donen 9 escons contra 3.** El mateix a
+Andorra la Vella, amb 187 vots de marge. **Cap de les set no s'aparta del que la
+llei imposa.**
+
+**Amb el 51,5% dels vots es governa amb el 75% de la sala.** És la mateixa
+lògica que la [desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md)
+documenta per al Consell General, aplicada al comú i encara més marcada.
+
+### I la parròquia on no hi havia res a triar
+
+**A Canillo el 2023 només s'hi va presentar una llista.** Va treure els deu
+consellers amb el 100% dels vots vàlids. **Dels 684 canillencs que van anar a
+votar, 218 van posar el sobre buit** —un de cada tres, de cinc a set vegades el
+blanc de qualsevol altra parròquia
+([l'abstenció](../../politica/sistema-electoral/labstencio.md)).
+
 ## Related
 
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md).
@@ -99,10 +168,16 @@ les competències i les relacions amb els comuns.
   de desplegament competencial queda parcialment tancat amb la llei de
   1993, la reforma 19/2017 i la [sentència 2017-2-L](quan-linforme-del-comu-no-es-vinculant.md).
   Continuen obertes la cadena completa de normes de competències,
-  transferències, finances comunals i règim electoral, i la vigència actual.
-- Queden per contrastar la durada de quatre anys del mandat, el règim dels
-  cònsols i la creació d'Escaldes-Engordany el 1978 que afirmava la versió
-  anterior. L'article 79.3 només acredita l'elecció democràtica.
+  transferències i finances comunals, i la vigència actual. **El règim
+  electoral ja no hi és: vegeu el punt següent.**
+- ~~Queden per contrastar la durada de quatre anys del mandat i el règim dels
+  cònsols.~~ `resolt` **Articles 63.1 i 68 de la Llei qualificada del règim
+  electoral**, llegits i recollits a dalt. **Segueix oberta la creació
+  d'Escaldes-Engordany el 1978** que afirmava la versió anterior; l'article 79.3
+  només acredita l'elecció democràtica. `Requereix la norma de creació del 1978.`
+- ~~El règim electoral comunal, dins de la cadena de normes pendents.~~ `resolt`
+  **Títol III de la Llei qualificada del règim electoral**, articles 63-68, amb
+  el repartiment d'escons comprovat contra les set parròquies del 2023.
 - Retirada la taula atribuïda genèricament a Viquipèdia com a dades de 2023:
   faltaven la peça, la data de referència i la definició de població i
   superfície. No s'ha acreditat tampoc l'abast de l'ordre protocol·lari ni
