@@ -106,8 +106,53 @@ ensenya abans que l'aula, no és un detall menor.
 
 - **Quantes federacions hi ha** i si n'hi pot haver més d'una per esport, la
   llei no ho diu en el que s'ha llegit.
-- **El règim disciplinari** (títol V) i la **Comissió Jurídica Esportiva** queden
-  per llegir.
+- ~~**El règim disciplinari** (títol V) i la **Comissió Jurídica Esportiva** queden
+  per llegir.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/esport.txt`,
+  articles 86 a 95).
+
+  **La potestat disciplinària té quatre graons i el quart és administratiu**
+  (article 86.1): **els clubs i les SAOE** pels seus estatuts; **les
+  federacions** sobre els seus esportistes, tècnics, directius, jutges i
+  àrbitres; **l'òrgan governamental d'esports** sobre les federacions; i **la
+  Comissió Jurídica Esportiva, que exhaureix la via administrativa**. **Després
+  només queda el jutjat.** **La decisió arbitral dins del joc no compta com a
+  potestat disciplinària** (article 86.2).
+
+  **Les infraccions molt greus** (article 87.2) **inclouen coses que no són
+  esportives.** **Amanyagar el resultat hi és tres vegades**: **«modificacions
+  fraudulentes del resultat […] incloses les conductes prèvies a la celebració
+  que intentin influir en el resultat mitjançant acord, intimidació, preu o
+  qualsevol altre mitjà fraudulent»**, **manipular el material d'equipament** i
+  **«actes dirigits a predeterminar no esportivament el resultat»**. **I hi
+  són les declaracions públiques** de directius, tècnics, àrbitres, esportistes
+  **o afeccionats** **«que incitin els seus equips o els espectadors a la
+  violència, el racisme, la xenofòbia o la intolerància en l'esport»**.
+
+  **El catàleg de sancions** (article 89.1) **va molt més enllà de la multa**:
+  inhabilitació o privació de llicència, **clausura del recinte**, **porta
+  tancada**, **pèrdua de la condició de soci**, **destitució del càrrec**,
+  **descens de categoria**, **pèrdua de punts** i **pèrdua del partit**. **I la
+  sanció econòmica té un límit de justícia poc habitual: «només es pot imposar
+  a les persones infractores que perceben retribució econòmica per la seva
+  tasca»** —**a l'amateur no se'l multa.**
+
+  **Els òrgans disciplinaris poden alterar el resultat** d'una prova per
+  predeterminació no esportiva o alineació indeguda (article 89.3).
+
+  **La prescripció és molt curta per baix** (article 91): **un mes les lleus**,
+  **un any les greus**, **tres anys les molt greus**, i **el mateix per a les
+  sancions**.
+
+  **La Comissió Jurídica Esportiva** (articles 93-95) és **«adscrita
+  orgànicament a l'òrgan governamental competent en matèria d'esports» i
+  actua «amb total independència»**. **Són tres membres i un secretari,
+  nomenats pel Govern**, amb «experiència acreditada en la matèria». **Pot
+  actuar d'ofici** sobre qualsevol acció o omissió «que, per la seva
+  transcendència dins l'activitat esportiva, estimi oportú tractar»
+  (article 94.2), **i abans de resoldre ha d'instruir expedient i donar
+  audiència**, on l'interessat **pot comparèixer amb la persona que designi**
+  —**no diu advocat**. `Requereix el reglament que en fixa el mandat i el
+  funcionament, i saber quantes resolucions ha dictat.`
 - **Les instal·lacions esportives** (capítol segon del títol III) i les
   **subvencions** (capítol segon del títol II), tampoc.
 - **Quants esportistes d'alt nivell** hi ha a la llista anual, i si algú ha fet
