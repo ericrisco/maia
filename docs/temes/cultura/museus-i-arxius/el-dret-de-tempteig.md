@@ -58,7 +58,35 @@ expliquen els articles d'arquitectura i patrimoni construït del corpus.
 ## Buits registrats
 
 - **Quants béns d'interès cultural hi ha declarats** i quants inventariats, no
-  consta.
+  consta. — **`parcial` el 17-09-2026: el punt de partida sí que es pot
+  comptar.**
+
+  **L'annex de la Llei 9/2003 en declara seixanta-nou d'un cop** —**57 monuments
+  i 12 zones arqueològiques**— traspassats en bloc des de l'Ordinació II del 1964
+  i l'Ordinació I del 1970
+  ([evidència](../../../raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt);
+  [d'on ve la llei](./trenta-anys-cent-anys-o-cap.md)):
+
+  | Parròquia | Monuments | Zones arqueològiques |
+  | --- | ---: | ---: |
+  | **Ordino** | **14** | 4 |
+  | la Massana | 9 | **0** |
+  | Canillo | 8 | 2 |
+  | Sant Julià de Lòria | 8 | 1 |
+  | Escaldes-Engordany | 7 | 3 |
+  | Encamp | 6 | 1 |
+  | Andorra la Vella | 5 | 1 |
+  | **Total** | **57** | **12** |
+
+  **Ordino en té gairebé el triple que Andorra la Vella**, i **la Massana és
+  l'única parròquia sense cap zona arqueològica declarada**.
+
+  **Després del 2003 s'hi han anat afegint béns un per un**, per decret publicat
+  al BOPA: **l'Hotel Rosaleda** (11-2-2004), la **Casa Rull** de Sispony i una
+  **zona arqueològica** (tots dos el 2009), entre d'altres. `Requereix escombrar
+  el BOPA decret a decret per tenir la xifra d'avui; el corpus té la del 2003.`
+  `I la xifra d'inventariats —que és una altra cosa que la de declarats— segueix
+  sense constar.`
 - **Si mai s'ha exercit el tempteig o el retracte**, tampoc.
 - ~~**El patrimoni immaterial**: la llei el nomena i li dona secció a
   l'Inventari, però **el corpus no n'ha llegit el règim**.~~ — **`resolt` el
