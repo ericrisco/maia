@@ -79,14 +79,18 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   **I les millors són totes del 2015 al 2017**, cosa que **matisa el buit de
   «si segueix competint»**: **la darrera marca que el bolcat li registra és de
   la temporada coberta del 2017.**
-- ~~**El bàsquet femení andorrà**~~ — **i aquí el bolcat dona un fil que el
-  corpus no tenia**: **abans de l'atletisme, Claudia Guri va ser jugadora de
-  bàsquet i va jugar a la selecció andorrana sub-16.** **El buit del bàsquet
-  femení segueix `obert`**, **però ara té un nom a dins.**
+- ~~**El bàsquet femení andorrà**~~ `resolt` **el 2026-09-18** —
+  [el bàsquet femení](../seleccions/el-basquet-femeni.md): **onze Europeus de
+  països petits, 48 partits, 13 victòries i un bronze del 2000**. **I el fil que
+  el bolcat donava segueix sent l'únic nom que el corpus hi té**: **abans de
+  l'atletisme, Claudia Guri va jugar a la selecció andorrana sub-16.**
 - **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
   és una instantània amb data i no diu res del que ha passat després.**
-- **El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
-  fitxa**.
+- ~~**El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
+  fitxa**.~~ `resolt` per a la de bàsquet i **`parcial` per al compte**: el
+  corpus en té ara **dues de fitxades** —bàsquet i futbol— i **la tercera
+  segueix sense identificar**. `Requereix la llista oficial de seleccions del
+  Comitè Olímpic Andorrà.`
 
 ## Related
 

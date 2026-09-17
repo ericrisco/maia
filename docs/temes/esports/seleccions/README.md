@@ -15,7 +15,7 @@ tags: [esports]
 
 **El corpus tenia registrat que Andorra té vint-i-tres seleccions nacionals**
 ([els altres Jocs](../competicio/els-altres-jocs.md)) **i no en tenia cap
-fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
+fitxada tret de les dues de futbol.** Aquesta subbranca n'obre vuit més.
 
 ## Les fitxes
 
@@ -34,6 +34,7 @@ fitxada tret de les dues de futbol.** Aquesta subbranca n'obre cinc més.
 | [L'handbol](./lhandbol.md) | **La selecció més nova**: 2011. Primer partit perdut als últims segons davant de 350 persones |
 | **[El rugbi](./el-rugbi.md)** | **Els Isards.** Va debutar guanyant 24-3 el 1987, i **juga alguns partits de casa a França** |
 | **[El futbol sala](./el-futbol-sala.md)** | Primer partit el 1998, 0-4 contra Portugal. **La mateixa federació que el futbol** |
+| **[El bàsquet femení](./el-basquet-femeni.md)** | **Onze Europeus de països petits, 48 partits i 13 victòries.** **Un bronze el 2000**, i **cap presència el 2012 ni el 2014**, els dos anys que els homes van guanyar |
 
 ## La correcció que això obliga a fer
 
@@ -89,9 +90,9 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   resta del detall de les edicions no guanyades.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
-- **Les altres catorze seleccions** de les vint-i-tres que Andorra declara.
-  **Ara el corpus en té nou**: futbol masculí i femení, bàsquet, hoquei gel,
-  hoquei patins, rugbi, tennis, futbol sala i handbol.
+- **Les altres tretze seleccions** de les vint-i-tres que Andorra declara.
+  **Ara el corpus en té deu**: futbol masculí i femení, bàsquet masculí i
+  **femení**, hoquei gel, hoquei patins, rugbi, tennis, futbol sala i handbol.
 - ~~**El BC Andorra / MoraBanc**, club de l'ACB.~~ **Tancat:**
   [el BC Andorra](../altres-esports/bc-andorra.md).
 

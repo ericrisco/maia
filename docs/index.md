@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1003** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1004** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -656,6 +656,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El bàsquet femení: onze campionats, una medalla i dues absències que diuen molt](temes/esports/seleccions/el-basquet-femeni.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [El bàsquet: sis títols europeus que el corpus no sabia que existien](temes/esports/seleccions/el-basquet.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [El futbol sala](temes/esports/seleccions/el-futbol-sala.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [El rugbi: Els Isards, i un camp a França](temes/esports/seleccions/el-rugbi.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
