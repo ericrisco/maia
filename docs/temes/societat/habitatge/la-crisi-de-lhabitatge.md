@@ -109,6 +109,48 @@ publica dades de contractes des del registre d'arrendaments.
 > Dades del Departament d'Estadística del Govern d'Andorra, publicació del
 > 28-07-2025, sota llicència CC BY 4.0. Tractament propi.
 
+## Tretze euros i mig el metre quadrat
+
+**La xifra absoluta existeix i és del Govern.** La presentació del projecte de
+llei d'arrendaments, de **gener-febrer del 2026**
+(`docs/raw/societat/habitatge-preus/presentacio-pl-arrendaments-2026-03-11.txt`),
+dona el retrat complet del parc de lloguer andorrà:
+
+| | |
+| --- | --- |
+| **Contractes de lloguer al país** | **~25.000** (Departament d'Estadística, 2024) |
+| **Afectats per les pròrrogues forçoses des del 2019** | **~20.000** |
+| **Preu mitjà de tots els contractes** | **13,5 €/m²** (SICAR) |
+| **Contractes anteriors al 2012** | **7.000**, amb preu mitjà de **7,9 €/m²** (Enquesta de pressupostos familiars, 2024) |
+
+**Vuitanta de cada cent contractes de lloguer del país estan congelats per llei.**
+I **els més antics valen gairebé la meitat que la mitjana**: 7,9 € contra 13,5 €.
+**La crisi de l'habitatge andorrana no és només que els preus pugin; és que hi ha
+dos mercats**, un de congelat i un de lliure, i el segon paga el preu del primer.
+
+**El projecte de llei del 2026 desfà la congelació per trams, i l'ordre és el
+preu.** Allibera primer els contractes més barats i més antics:
+
+| Contractes | S'alliberen el |
+| --- | --- |
+| signats el **2012 o abans**, o **per sota de 6 €/m²** | **2027** |
+| **2013-2015**, o per sota de **7 €/m²** | **2028** |
+| **2016-2018**, o per sota de **8 €/m²** | **2029** |
+| **2019-2021** | **2030** |
+
+**I quan s'alliberen, la pujada també va per trams, i és inversa.** Com **més
+barat era el contracte, més pot pujar cada any**: **6% + IPC** per sota de 7 €/m²,
+**5%** entre 7 i 8, **4%** entre 8 i 9, **3%** entre 9 i 10, **2%** entre 10 i 12
+i **1% + IPC** per damunt de 12 €/m². **Durant cinc anys.** El propietari pot
+**conservar el llogater o canviar-lo amb sis mesos de preavís**, i **el límit de
+pujada s'aplica igual en tots dos casos**.
+
+**Hi ha una excepció que enganxa amb el parc públic.** Si el preu per metre
+quadrat és **inferior al preu assequible del parc públic d'habitatge de la
+parròquia**, la renda pot pujar **per terceres parts durant tres anualitats fins
+a assolir-lo**, a banda de l'IPC. **El preu del parc públic actua com a terra del
+mercat lliure.**
+
 ## El que falta
 
 > **Auditats el 2026-09-14 contra el corpus.** **Tres dels sis eren buits de
@@ -136,9 +178,13 @@ publica dades de contractes des del registre d'arrendaments.
   nou paga com un estranger** si no acredita tres anys de residència efectiva
   ([l'impost contra l'especulació](./limpost-contra-lespeculacio.md)).
   **La resta de l'articulat segueix sense llegir.**
-- **Preus absoluts, no només variacions: quant costa de llogar un pis a Andorra
-  la Vella.** — **`parcial` el 17-09-2026, i la via d'Estadística queda
-  oberta.** **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
+- ~~**Preus absoluts, no només variacions: quant costa de llogar un pis a Andorra
+  la Vella.**~~ — **`resolt` el 17-09-2026** a «[Tretze euros i mig el metre
+  quadrat](#tretze-euros-i-mig-el-metre-quadrat)»: **13,5 €/m² de mitjana de tots
+  els contractes** i **7,9 €/m² els anteriors al 2012**. `El desglossament per
+  parròquia —que és el que la pregunta demanava per a Andorra la Vella— segueix
+  obert; el SICAR el té i la presentació no el publica.` **A més**, la via
+  d'Estadística queda oberta: **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
   i la sobrecàrrega dels costos de l'habitatge— a «[Dues xifres oficials que el
   corpus no tenia](#dues-xifres-oficials-que-el-corpus-no-tenia)», **però cap
   d'elles no és un preu**. `Requereix la nota de premsa de la sèrie de preus del
