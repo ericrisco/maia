@@ -269,10 +269,14 @@ són **85 alumnes**.
 - **L'escola andorrana d'Ordino** (prevista per al 2002-03) i el **tercer centre
   de segona ensenyança**: existeixen?
 - **L'aval de l'Institut de Llengües Romàniques de Basilea**: quin informe és.
-- **Els programes publicats** (1998 maternal i primera ensenyança; setembre de
+- ~~**Els programes publicats** (1998 maternal i primera ensenyança; setembre de
   1999 segona ensenyança; batxillerat previst per al 2003-04). **Són documents
-  públics del Govern i el corpus no els ha llegit** — i, com els decrets de
-  formació andorrana, **són el país explicant-se als seus nens**.
+  públics del Govern i el corpus no els ha llegit.**~~ — **`parcial` el
+  17-09-2026**: els de **formació andorrana** sí que s'han llegit
+  ([El que s'ensenya als nens sobre Andorra](./el-que-sensenya-als-nens-sobre-andorra.md)),
+  **i el de maternal és del 1997, no del 1998**. `Segueixen sense localitzar-se
+  els de segona ensenyança del 1999 i els de batxillerat, i els programes propis
+  de l'Escola Andorrana, que són una altra sèrie.`
 - **Tot això el 2026.**
 
 ## Related

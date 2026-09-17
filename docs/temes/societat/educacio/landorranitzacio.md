@@ -178,8 +178,14 @@ va haver de fer **per la via del conveni**— i això deixa marca.
   càtedra».** **El país s'explica als seus nens amb un programa que reconeix
   per escrit que és una ordre i alhora no ho és del tot.**
 
-  `Requereix buidar els altres 243 decrets de programa, que ara se sap que són
-  tots al BOPA.`
+  **Ampliat el 17-09-2026** amb el **decret de maternal del 10-9-1997**, els
+  objectius de tots dos, el registre d'«actituds, valors i normes» i el
+  desmuntatge per àrees del 2021-2025:
+  [El que s'ensenya als nens sobre Andorra](./el-que-sensenya-als-nens-sobre-andorra.md).
+
+  `Requereix buidar els altres decrets de programa, que ara se sap que són tots
+  al BOPA —i que des del 2021 porten el programa en un PDF annex que l'edicte no
+  conté.`
 - **Si algun centre s'hi va resistir**, i què va passar.
 
 ## Related

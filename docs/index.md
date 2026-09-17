@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1001** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1002** documents · **208** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1335,6 +1335,7 @@
 | [El mapa escolar del 2000](temes/societat/educacio/el-mapa-escolar-del-2000.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [El marc legal de l'educació](temes/societat/educacio/el-marc-legal-de-leducacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
 | [El que decideix si un escolar parla català](temes/societat/educacio/el-que-decideix-si-un-escolar-parla-catala.md) | `temes/societat/educacio` | compilada | contemporania | no | `margarit-escenari-escolar-2017` |
+| [El que s'ensenya als nens sobre Andorra](temes/societat/educacio/el-que-sensenya-als-nens-sobre-andorra.md) | `temes/societat/educacio` | compilada | contemporania | no | `bopa` |
 | [Els andorrans estudiaven sobretot en escoles franceses](temes/societat/educacio/els-andorrans-estudiaven-sobretot-en-escoles-franceses.md) | `temes/societat/educacio` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 | [Els tres sistemes educatius](temes/societat/educacio/els-tres-sistemes.md) | `temes/societat/educacio` | compilada | contemporania | no | `molla-catala-andorra` |
 | [Índex legislatiu en educació](temes/societat/educacio/index-legislatiu-en-educacio.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |

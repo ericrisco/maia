@@ -143,8 +143,10 @@ de 1997**, són **el contingut oficial del que Andorra ensenya als seus nens sob
 Andorra** ([l'andorranització](./landorranitzacio.md)).
 
 **Per a un corpus que vol saber com el país s'explica a si mateix, això és
-probablement el document individual més valuós d'aquesta llista.** Està
-localitzat i no llegit. **Buit prioritari absolut.**
+probablement el document individual més valuós d'aquesta llista.** ~~Està
+localitzat i no llegit. **Buit prioritari absolut.**~~ — **llegit el
+17-09-2026**:
+[El que s'ensenya als nens sobre Andorra](./el-que-sensenya-als-nens-sobre-andorra.md).
 
 ### L'entrada 39 dona la data que faltava
 
@@ -172,10 +174,15 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
 ## Buits registrats
 
 - **Tot el que hi ha després del 2000.** Aquest índex es tanca aquell any.
-- **Els decrets de programa de formació andorrana (42 i 43).** **Màxima
-  prioritat.** — **`obert`, confirmat el 2026-09-14, i registrat com el buit
-  més declarat de la branca: TRES articles el demanen per separat i cap no
-  sabia dels altres.**
+- ~~**Els decrets de programa de formació andorrana (42 i 43).** **Màxima
+  prioritat.**~~ — **`resolt` el 17-09-2026**: tots dos llegits des del
+  [BOPA](../../../fonts/bopa.md) a
+  [El que s'ensenya als nens sobre Andorra](./el-que-sensenya-als-nens-sobre-andorra.md).
+  **I la data d'aquest índex era mig errònia**: no són dos decrets del 17 de
+  setembre del 1997, sinó **un del 10 de setembre del 1997** (maternal) i **un
+  del 7 d'octubre del 1998** (primera ensenyança).
+  `El que segueix obert és el contingut vigent: des del 2021 els programes es
+  publiquen com a PDF annex i el text de l'edicte no els porta.`
 
   | Article | Com el demana |
   | --- | --- |
