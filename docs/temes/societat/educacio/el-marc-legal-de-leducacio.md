@@ -185,13 +185,12 @@ dona el rector. **Aprovada el 30 de juliol, publicada el 20 d'agost.**
 
 - **Els textos de les dues lleis educatives** (qualificada 1993, ordenament
   1994) i **dels dos convenis de 1993**. Tot està identificat i res llegit.
-- **Es van signar mai els convenis amb Sant Ermengol i la Sagrada Família?** —
-  **`obert`, confirmat el 2026-09-14, i declarat des dels dos extrems**:
-  **[l'ensenyament confessional](./lensenyament-confessional.md) pregunta «Es va
-  signar mai el conveni?»** i **[l'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md)
-  pregunta «Si el conveni nou anunciat el 2000 es va signar».** **Tres articles,
-  tres convenis diferents, la mateixa pregunta i el mateix any de tall: el
-  2000.** **El corpus s'atura on s'atura la seva font.**
+- ~~**Es van signar mai els convenis amb Sant Ermengol i la Sagrada Família?**~~ —
+  **`resolt` el 17-09-2026**: **no amb cada col·legi**. El **Conveni entre Andorra
+  i Espanya en matèria educativa, ratificat el 17 de maig del 2007**, **inclou
+  les escoles congregacionals dins del sistema educatiu espanyol** i deixa el
+  programa de religió catòlica al **Bisbat d'Urgell**. Vegeu
+  [l'ensenyament confessional](./lensenyament-confessional.md#el-conveni-si-que-va-arribar-i-es-del-2007).
 - ~~**El conveni de 1981 entre la Mitra d'Urgell i el Govern espanyol** i **el
   decret del copríncep francès de 1982**: els dos règims anteriors, que són el
   que realment explica per què calia el 1993.~~ — **`parcial`: el decret francès

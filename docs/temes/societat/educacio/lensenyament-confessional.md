@@ -265,6 +265,36 @@ Madrid.**
 Vegeu [el mapa escolar del 2000](./el-mapa-escolar-del-2000.md): aquests centres
 tenien **1.939 alumnes**, **més que tot el sistema públic espanyol del país**.
 
+## El conveni sí que va arribar, i és del 2007
+
+**El 17 de maig del 2007 el Consell General va aprovar la ratificació del
+Conveni entre el Govern d'Andorra i el Govern del Regne d'Espanya en matèria
+educativa** (`docs/raw/societat/ensenyament-confessional-conveni-2007.txt`, dotze
+articles). És la peça que el corpus buscava, i **no resol la qüestió confessional
+signant amb cada col·legi: la resol posant-los tots dins del sistema espanyol**.
+
+**L'article primer ho diu en dos apartats.** El sistema educatiu **públic**
+espanyol a Andorra són **els centres de titularitat de l'Estat espanyol** de
+l'annex I; **i, a més, «formen part del sistema educatiu espanyol les escoles
+congregacionals i qualssevol altres centres docents de titularitat privada que
+imparteixin ensenyaments d'acord amb aquest sistema»**. Els estudis **condueixen
+a titulacions oficials vàlides a tot el territori espanyol** i estan **sotmesos a
+la regulació vigent a Espanya**. **Qui els supervisa és la Inspecció d'Educació
+del ministeri espanyol**, amb funcions d'assessorament, supervisió i avaluació.
+
+**I l'article segon reparteix el que s'hi ensenya entre tres mans.**
+L'ordenament acadèmic és el de l'annex II i **inclou l'àrea de formació
+andorrana**, amb la dedicació horària que l'annex fixa. **El programa de l'opció
+confessional de religió catòlica** —dins l'àrea de societat, cultura i religió—
+**el determina el Bisbat d'Urgell**, que **també proposa el nomenament del
+professorat** que l'imparteix, **«respectant en tot cas el dret de llibertat
+religiosa»**.
+
+**Això és el que substitueix el conveni que no es va signar amb cada escola.** La
+relació no passa per un acord bilateral entre el Govern andorrà i un col·legi:
+passa per **un tractat entre dos estats**, amb **el Bisbat d'Urgell fixant el
+contingut religiós** i **la inspecció espanyola controlant la resta**.
+
 ## Buits registrats
 
 - **Quan tanca el col·legi d'Encamp.** La font diu que no en queda constància i
@@ -310,13 +340,12 @@ tenien **1.939 alumnes**, **més que tot el sistema públic espanyol del país**
   **El que segueix obert** és la trajectòria educativa de cadascun fora
   d'aquests episodis. Vegeu
   [els bisbes d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md).
-- **Es va signar mai el conveni?** L'estat de la qüestió després del 2000. —
-  **`obert`, confirmat el 2026-09-14, i és el mateix buit a tres articles**:
-  [el marc legal](./el-marc-legal-de-leducacio.md),
-  [l'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md)
-  i aquest. **Tots tres s'aturen l'any 2000 perquè la ponència de la Diada
-  Andorrana que els alimenta és d'aquell any.** **No són tres buits: és una data
-  de tall de font que es repeteix.**
+- ~~**Es va signar mai el conveni?** L'estat de la qüestió després del 2000.~~ —
+  **`resolt` el 17-09-2026** a «[El conveni sí que va arribar, i és del
+  2007](#el-conveni-si-que-va-arribar-i-es-del-2007)»: **no amb cada escola, sinó
+  amb l'Estat espanyol**, el 17 de maig del 2007. `El que segueix obert és què hi
+  ha als annexos I i II —la llista de centres i la dedicació horària de la
+  formació andorrana—, que el Butlletí no publica amb el text.`
 - **El col·legi Meritxell dels benedictins (1931-1943)** i **els jesuïtes**: què
   hi van fer i per què van marxar.
 - **Quantes nenes** hi van passar, en total. La font diu «milers» i no compta.
