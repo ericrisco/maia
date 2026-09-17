@@ -185,6 +185,60 @@ treballs d'urbanització estan executats.**
 i el desbrossament per aprofitar la llenya**, sempre que **no comportin tala
 d'arbres**.
 
+## Onze persones i set són dels comuns
+
+**La Comissió Tècnica d'Urbanisme té onze membres i la majoria són comunals**
+(article 131): **un per cada comú** —set—, **el ministre o el director
+d'urbanisme**, **un tècnic del ministeri**, i **un tècnic i un jurista designats
+pel ministre**. **Tots els representants comunals han de ser arquitectes o
+enginyers de camins** amb titulació superior. **Els comuns paguen els seus
+representants i el Govern els dos que designa el ministre.** El mandat dura el
+mateix que el comunal, i **el representant pot ser separat pel comú que el va
+nomenar o per majoria absoluta de la mateixa Comissió**.
+
+**Informa quan no decideix i decideix quan no informa.** Informa **preceptivament
+i sense vincular** sobre els plans parroquials, els plans sectorials
+supracomunals i la reglamentació urbanística, i sobre els recursos de reposició
+davant del Govern. Però **resol decisòriament tots els recursos d'alçada contra
+actes dels comuns** en urbanisme, **verifica de manera vinculant** els plans
+especials i parcials de participació obligatòria, i **pot decretar la suspensió de
+llicències i l'aturada d'obres en curs**.
+
+## Qui pot denunciar una obra, i qui la paga
+
+**L'acció és pública.** L'article 143: **«És pública l'acció per exigir el
+compliment de les disposicions urbanístiques i de l'edificació en general»** — i
+es pot exercir **durant tota l'execució de l'obra i fins a un any després**, a
+comptar del certificat final d'obra.
+
+**Les multes van de mil a cent mil euros.**
+
+| Grau | Multa |
+| --- | --- |
+| **Molt greu** | **50.001 a 100.000 €** |
+| **Greu** | **5.001 a 50.000 €** |
+| **Lleu** | **1.000 a 5.000 €** |
+
+**És molt greu el que toca el que és de tots**: parcel·lacions, urbanització o
+edificació contràries al planejament **que afectin domini públic,
+infraestructures, equipaments socials, serveis públics, zones verdes o béns
+protegits**. **És greu** el que afecta l'ús del sòl i la **situació, el volum,
+l'ocupació i l'alçada** de les edificacions. I **és sempre lleu, com a mínim,
+construir sense la llicència preceptiva**.
+
+**La responsabilitat no s'acaba al propietari.** Responen **el propietari i els
+agents de l'obra**; i **si la llicència mateixa era manifestament contrària a la
+llei** en grau greu o molt greu, **també el facultatiu i el secretari que en van
+informar favorablement** —i **si no, la corporació que la va atorgar**. **Les
+persones jurídiques responen pels seus òrgans i assumeixen el cost de restaurar
+l'ordre urbanístic.**
+
+**I hi ha una sanció que no és una multa.** Qui **signa una declaració jurada de
+conformitat amb la normativa que incorre en falsedat** —l'arquitecte o tècnic
+autoritzat— és **inhabilitat per exercir la professió liberal dos anys** si la
+infracció és molt greu **i un any** si és greu. **L'expedient l'incoa i el resol
+el Govern**, no el comú.
+
 ## Buits registrats
 
 - **Els comuns poden ser més restrictius** que la llei (article 27.2, final), i
@@ -196,7 +250,10 @@ d'arbres**.
   llegit.~~ — **`resolt` el 17-09-2026** a «[El sòl que no es pot tocar, i les set
   portes per tocar-lo](#el-sol-que-no-es-pot-tocar-i-les-set-portes-per-tocar-lo)»
   (`docs/raw/lleis/ordenacio-territorial.txt`, articles 28 a 30 i 38 a 52).
-- **La Comissió Tècnica d'Urbanisme** (títol VIII) i el règim sancionador
-  (títol XI) queden pendents.
+- ~~**La Comissió Tècnica d'Urbanisme** (títol VIII) i el règim sancionador
+  (títol XI) queden pendents.~~ — **`resolt` el 17-09-2026** a «[Onze persones i
+  set són dels comuns](#onze-persones-i-set-son-dels-comuns)» i «[Qui pot
+  denunciar una obra, i qui la paga](#qui-pot-denunciar-una-obra-i-qui-la-paga)»
+  (`docs/raw/lleis/ordenacio-territorial.txt`, articles 130 a 133 i 143 a 160).
 - **Cap dada**: quant sòl hi ha de cada classe, quanta edificabilitat s'ha
   consumit, quantes llicències provisionals s'han revocat.
