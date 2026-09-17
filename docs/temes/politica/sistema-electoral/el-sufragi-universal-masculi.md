@@ -105,11 +105,53 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
 
 ## Buits registrats
 
-1. **La data exacta del 1941 i del 1947**, i **el text de les dues decisions**.
+1. **La data exacta del 1941 i del 1947**, i **el text de les dues decisions**. —
+   **`parcial` el 17-09-2026: la del 1947 ja té dia, i la del 1941 segueix
+   sense.** Font: les [actes del Consell General](../../../fonts/actes-historiques-consell-general.md).
+
+   **23 d'agost de 1947**, **sessió extraordinària del Consell**:
+
+   > Es llegeix **un decret dels veguers que, delegats pels coprínceps,
+   > restableix el sufragi universal** i regula les eleccions al país. **Podran
+   > votar els andorrans majors de 25 anys i ser elegits els majors de 30.**
+   > Al mateix temps, **es convoquen les eleccions per a la primera quinzena de
+   > desembre** (ANA FCV 9.486, fol. 100 v.).
+
+   **Tres coses que el corpus no tenia.** **Que el restabliment arriba al Consell
+   com a lectura d'un decret aliè** —**el Consell no el vota, l'escolta**—;
+   **que els veguers hi actuen «delegats pels coprínceps»**, cosa que la fitxa
+   deia i ara té suport documental; i **que el decret no restableix i prou:
+   regula les eleccions i fixa les dues edats**, **25 per votar i 30 per ser
+   elegit.**
+
+   **I hi ha una quarta: el calendari.** **El 19 de novembre de 1947**, al
+   Consell de Sant Andreu, **es convoquen les eleccions per al 12 de desembre**
+   amb un avís que val la pena llegir sencer:
+
+   > «Es crida l'atenció sobre **l'absoluta necessitat d'evitar qualsevol
+   > maniobra torbada**, que cada ciutadà faci **lliurement bon ús del seu dret
+   > d'elector** i que **per cap motiu s'alteri l'ordre públic**, tot en benefici
+   > i **per la bona reputació d'Andorra**» (ANA FCV 9.486, fol. 100 v.).
+
+   **El Consell que rep el sufragi restablert té por de com sortirà.**
+
+   **Del 1941 les actes no en diuen res**: la sessió del **30 de desembre de
+   1941** es limita a llegir **quins membres formen «definitivament» el Consell
+   General**, sense dir d'on surten ni per quina regla.
+   `Requereix el decret dels delegats permanents del 1941.`
 2. **Qui eren els delegats permanents** d'aquells anys.
 3. **En què va consistir «la pressió de part de la població»** del 1947.
 4. **Si el 1945 de Duró correspon a algun fet real** —una llei electoral
-   intermèdia?— o és un error de memòria.
+   intermèdia?— o és un error de memòria. **Les actes del Consell no tenen res
+   del 1945 que hi pugui correspondre**: l'única sessió de l'any és la del **15
+   de novembre**. **El 1945 segueix sol.**
+
+   **En canvi el 1948 ara té una explicació possible, i és de calendari**: **les
+   eleccions del decret del 1947 es van fer el 12 de desembre**, i **el Consell
+   que en surt no queda relacionat fins al 22 de març de 1948**, al Consell de
+   Setmana Santa, amb els seus càrrecs per al trienni **1948-1950**. **Qui dati
+   el sufragi pel Consell que en resulta, i no pel decret que el restableix,
+   escriurà 1948.** **Hipòtesi del corpus, no de les actes.**
 5. **El sufragi censatari de 1866** i com funcionava exactament.
 6. **Els tribunals superiors de la Mitra i de Perpinyà** (1888).
 
