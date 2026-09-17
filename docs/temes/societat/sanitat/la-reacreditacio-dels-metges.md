@@ -246,7 +246,12 @@ al·legar, i la Direcció General resol.
   resolució no és al BOPA.`
 - **L'ACMA**: quan es funda exactament, quants membres, si existeix encara.
 - **Es va signar el conveni amb la Fundació Les Heures?**
-- **El conveni SAC–Universitat d'Andorra de maig del 2000.**
+- **El conveni SAC–Universitat d'Andorra de maig del 2000.** — **`obert` el
+  17-09-2026, i amb la via del [BOPA](../../../fonts/bopa.md) descartada.**
+  **Els convenis entre una entitat privada i la Universitat no es publiquen al
+  Butlletí**: la cerca no en torna cap, ni d'aquest ni de cap altre del mateix
+  tipus. `Requereix demanar-lo a la Universitat d'Andorra o al Col·legi de
+  Metges; no hi ha ruta documental pública.`
 - **Quants metges hi ha a Andorra** i d'on vénen — el corpus sap que **el 1987
   el 90% de les infermeres eren de fora**
   ([l'Escola d'Infermeria](./lescola-dinfermeria.md)) i **no sap res dels
