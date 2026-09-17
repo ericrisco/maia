@@ -152,9 +152,13 @@ una pràctica legal i comuna, i és com funciona.**
   ([David Navarro](./david-navarro.md)).
 - **El motor**: federació, el ral·li d'Andorra, quants pilots. — **`parcial`**:
   **hi ha [Xavier Cardelús](./xavier-cardelus.md)** —**Mundial de Supersport el
-  2026**— **i [Cyril Despres](./cyril-despres.md)**, **i a
+  2026**— **i [Cyril Despres](./cyril-despres.md)**. ~~**I a
   `raw/web/esport/estructura/` hi ha el bolcat del Campionat d'Andorra de
-  trial, que encara no s'ha destil·lat.** **Buit barat.**
+  trial, que encara no s'ha destil·lat.**~~ `resolt` **el 2026-09-18**:
+  **[el Campionat d'Andorra de trial](./el-campionat-de-trial.md)**, **del 1987
+  ençà** —**la competició nacional andorrana més antiga que el corpus
+  documenta**— amb **vint-i-quatre campions coneguts i catorze anys que la font
+  declara sense dades.**
 - ~~**Els esports de gel.** Andorra té **pista de gel a Canillo** i **dues
   seleccions d'hoquei**, i el corpus només té
   **[Melissandre Fuentes](./melissandre-fuentes.md)**.~~ — **`parcial`**: **el
@@ -194,8 +198,11 @@ una pràctica legal i comuna, i és com funciona.**
   futbol** — **més les vuit pàgines dels Jocs Paralímpics**, que **han obert
   [una fitxa nova](../competicio/andorra-als-jocs-paralimpics.md)** i **una
   altra per al [bàsquet femení](../seleccions/el-basquet-femeni.md)**.
-  **Queden per destil·lar**: **la Primera Divisió**, **l'hoquei patins**, **el
-  Campionat d'Andorra de trial**, **l'Obert Internacional d'Escacs** i **les
+  **Destil·lats també el 2026-09-18**: **la Primera Divisió** —el repartiment
+  per parròquia i el format de la lliga— i **el Campionat d'Andorra de trial**,
+  amb fitxa nova. **L'hoquei patins i el Campionat d'escacs ja ho estaven**, i
+  **la cerca per nom de fitxer no ho detectava** perquè les fitxes no citen el
+  bolcat pel seu camí. **Queden**: **l'Obert Internacional d'Escacs** i **les
   fitxes individuals de futbolistes i escaquistes.**
 
 ## Related

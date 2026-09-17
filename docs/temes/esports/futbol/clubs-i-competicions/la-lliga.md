@@ -199,7 +199,71 @@ Ordino B, FC Santa Coloma B, UE Engordany B i UE Santa Coloma B.
 
 **Quatre dels onze equips de Segona són filials d'equips de Primera.**
 
+## Tres parròquies de set no han guanyat mai la lliga
+
+El bolcat propi del corpus
+([`Primera_Divisió.wiki`](../../../../raw/web/esport/estructura/Primera_Divisió.wiki))
+reparteix els trenta-dos títols per parròquia del club campió.
+
+| Parròquia | Títols | Clubs campions |
+| --- | ---: | --- |
+| **Andorra la Vella** | **22** | FC Santa Coloma (13), CE Principat (3), FC Rànger's (2), FC Lusitanos (2), Constel·lació Esportiva (1), UE Santa Coloma (1) |
+| **Escaldes-Engordany** | **6** | Inter d'Escaldes (5), Atlètic d'Escaldes (1) |
+| Sant Julià de Lòria | 2 | UE Sant Julià (2) |
+| Encamp | 2 | FC Encamp (2) |
+| **Canillo · Ordino · La Massana** | **0** | **cap** |
+
+> **Dues parròquies s'han repartit vint-i-vuit dels trenta-dos títols**, i
+> **tres no n'han guanyat mai cap.**
+
+**Andorra la Vella en té més del doble que totes les altres juntes**, i **hi
+posa sis clubs campions diferents**. **Les tres parròquies altes —Canillo,
+Ordino, la Massana— no han estat mai campiones en trenta-dues temporades**, i
+**tampoc no surten a la llista de subcampiones ni de terceres** que la mateixa
+font publica.
+
+`Una taula que no suma, registrada.` **La fila d'Escaldes del bolcat diu quatre
+títols i n'atribueix tres a l'Inter**; **la taula de clubs de la mateixa pàgina
+en dona cinc a l'Inter**, i **la suma per parròquia dona 30 quan els títols són
+32.** **Amb els sis d'Escaldes, quadra.** **El corpus fa servir la taula de
+clubs, que és la que coincideix amb el nombre de temporades.**
+
+## Com es juga: vint-i-set partits i una lliga partida pel mig
+
+| | |
+| --- | --- |
+| **Equips** | **10** des del 2023-24 |
+| **Primera fase** | **cada equip juga tres vegades contra cadascun** — 21 jornades |
+| **Segona fase** | **la lliga es parteix en dos grups de quatre**: el de dalt i el de baix |
+| | dins de cada grup, **dos partits més contra cada rival** |
+| **Total** | **27 partits** |
+| **Descens** | **l'últim del grup de baix baixa directament** |
+| **Promoció** | **el penúltim juga una eliminatòria a doble partit** contra el subcampió de Segona |
+
+**Una lliga on tothom juga al mateix camp i on s'hi juga tres vegades contra
+cada rival abans de partir-la pel mig**: **el format existeix perquè hi ha pocs
+equips i un sol lloc on jugar** ([el fet que cap altra lliga europea
+comparteix](#el-fet-que-cap-altra-lliga-europea-comparteix)).
+
+### I què s'hi guanya
+
+| Posició | On va |
+| --- | --- |
+| **Campió** | prèvia de la **Lliga de Campions** |
+| **Subcampió** | prèvia de la **Conference League** |
+| **Campió de la [Copa](./la-copa.md)** | prèvia de la **Conference League** |
+
+**Tres places europees per a una lliga de deu equips que juguen tots al mateix
+estadi.**
+
 ## El que falta
+
+- **Els subcampions i els tercers**, temporada per temporada. **El bolcat en
+  dona el recompte per club** —**la UE Sant Julià és la gran perdedora amb 9
+  subcampionats i 7 tercers llocs contra 2 títols**— **i no la sèrie any per
+  any.**
+- **Per què Canillo, Ordino i la Massana no han guanyat mai**, i **si hi han
+  tingut mai equip a Primera.**
 
 - ~~**La Segona Divisió**: vuit clubs, dos dels quals filials. Res més.~~
   `resolt` **el 2026-09-18**: **des del 1999**, **el palmarès sencer fins al

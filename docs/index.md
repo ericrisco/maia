@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1005** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1006** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -366,6 +366,7 @@
 | [David Albós i Cavaliere](temes/esports/altres-esports/david-albos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Navarro i Brugal](temes/esports/altres-esports/david-navarro.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [David Robert Norwood](temes/esports/altres-esports/david-norwood.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [El Campionat d'Andorra de trial](temes/esports/altres-esports/el-campionat-de-trial.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [El Palau de Gel de Canillo](temes/esports/altres-esports/el-palau-de-gel.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Èric Cervós i Noguer](temes/esports/altres-esports/eric-cervos.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Estefania Sebastian](temes/esports/altres-esports/estefania-sebastian.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
