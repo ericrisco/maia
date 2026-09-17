@@ -36,3 +36,41 @@ i l'annex de residència habitual. Conserva sense arbitrar la diferència entre
 l'esquema de la p. 3, que dibuixa la població registrada dins de l'estimada, i
 els totals del juliol de 2026, on la registrada és més gran. Les lleis citades
 per la metodologia no s'han llegit en original.
+
+## Les notes de juny, 2022-2025: com es fa una sèrie amb notes mensuals
+
+Cada nota **A001** publica **tres columnes**: el mes de referència, el mes
+anterior i **el mateix mes de l'any anterior**. Encadenant les notes de **juny**
+surt una sèrie anual sense haver de baixar-les totes:
+
+| Fitxer | Mes de referència | Publicació |
+| --- | --- | --- |
+| `a001-20220718` | juny 2022 (i juny 2021) | 18-07-2022 |
+| `a001-20230720` | juny 2023 | 20-07-2023 |
+| `a001-20240718` | juny 2024 | 18-07-2024 |
+| `a001-20250717` | juny 2025 | 17-07-2025 |
+| `a001-a003-2026-07` | juliol 2026 (i juny 2026) | juliol 2026 |
+
+**Població estimada per nacionalitat, juny de cada any:**
+
+| | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Andorrana | 38.213 | 38.678 | 38.876 | 39.210 | 39.556 | **40.113** |
+| Espanyola | 19.402 | 19.920 | 20.370 | 20.465 | 20.828 | **21.137** |
+| Portuguesa | 8.979 | 8.832 | 8.754 | 8.626 | 8.484 | **8.324** |
+| Francesa | 3.447 | 3.559 | 3.763 | 3.795 | 3.989 | **4.246** |
+| Altres | 8.537 | 9.360 | 11.760 | 14.000 | 15.114 | **15.932** |
+| **Total** | **78.578** | **80.349** | **83.523** | **86.096** | **87.971** | **89.752** |
+
+**Cada columna suma el total publicat**; comprovat als sis anys.
+
+## Fins on arriba l'arxiu del servidor
+
+**No hi ha cap nota A001 anterior al juliol del 2022.** Sondejades totes les
+dates **del juliol al 15 d'octubre** de **cada any del 2016 al 2025**, amb els
+noms `A001_`, `A001_A003_` i `A001_A002_A003_`, i amb sufix `_A.pdf` i sense:
+**només responen el 2022, 2023, 2024 i 2025**. Per a la sèrie anterior cal una
+altra font.
+
+**On s'usa també**: [`temes/societat/demografia/la-composicio-per-nacionalitats.md`](../../temes/societat/demografia/la-composicio-per-nacionalitats.md) ·
+[`temes/politica/parlamentarisme/quants-diputats.md`](../../temes/politica/parlamentarisme/quants-diputats.md).
