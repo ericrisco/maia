@@ -115,10 +115,107 @@ la que té dents: **qui encarrega respon**, no només qui executa.
 
 ## Buits registrats
 
-- **El règim sancionador** de la Llei del comerç i el seu quadre de multes **no
-  s'han llegit**.
-- **Els grans establiments** (art. 11 i 17), amb autorització prèvia pròpia, i el
-  procediment d'obertura **queden per llegir**.
+- ~~**El règim sancionador** de la Llei del comerç i el seu quadre de multes **no
+  s'han llegit**.~~ — **`resolt` el 17-09-2026**, llegit el **títol V sencer**
+  (`docs/raw/lleis/comerc.txt`, articles 102 a 109). **El text ja era al corpus.**
+
+  **Tres graus i tres forquilles** (article 107.1):
+
+  | Grau | Multa | Prescripció |
+  | --- | ---: | ---: |
+  | **Molt greu** | **de 6.001 a 60.000 €** | **tres anys** |
+  | **Greu** | **de 1.201 a 6.000 €** | **dos anys** |
+  | **Lleu** | **fins a 1.200 €** | **un any** |
+
+  **I un sostre que no és el sostre**: **les multes es poden augmentar fins al
+  triple del benefici obtingut** (article 107.2). **Per a un negoci que guanya
+  prou amb la infracció, el màxim de 60.000 € no lliga.**
+
+  **El que fa que una cosa sigui molt greu no és el dany, és la falta de
+  títol.** **Set de les dotze infraccions molt greus de l'article 102 són
+  variants d'exercir sense autorització**: sense demanar-la, **en nom propi per
+  compte de qui no pot exercir el comerç**, en un lloc o amb un nom diferents
+  dels autoritzats, o fent **venda especial** o **venda prohibida** sense
+  permís. **Les altres cinc són falsedat en informes, cobrar per sobre dels
+  preus fixats pel Govern, «actes d'intrusisme empresarial», vendre productes
+  falsificats o no identificables, i resistir-se a la inspecció.**
+
+  **La categoria que descriu el país és «intrusisme empresarial»**, i **la llei
+  hi posa una mesura cautelar que no té cap altra infracció** (article 106.4):
+  **si qui hi pot ser responsable no resideix a Andorra, l'Administració li
+  exigeix un dipòsit equivalent a la sanció màxima proposada** i, **si no el pot
+  pagar, immobilitza els vehicles, la maquinària o els béns de l'activitat.**
+  **És la norma d'un país envoltat de proveïdors de fora.**
+
+  **La reincidència té data**: **la mateixa infracció dins dels 365 dies
+  següents a la notificació de la primera**, i **només si aquella primera
+  resolució ja és ferma** (article 108).
+
+  **Deu criteris de graduació** (article 109), i **dos que no són habituals**:
+  **«la situació de predomini de l'infractor en el mercat»** i **«la
+  generalització de la infracció».** **I una regla dura**: **si la infracció és
+  una persistència continuada, se sanciona directament en el grau màxim.**
+
+  **Qui sanciona depèn del grau**: **el ministre de comerç** les lleus i greus;
+  **el Govern** les molt greus **i totes les que comportin tancament o
+  suspensió** (article 105). **El tancament definitiu amb revocació de
+  l'autorització, o la suspensió fins a tres anys, poden acompanyar qualsevol
+  multa greu o molt greu** (article 107.3).
+
+  **I hi ha una sanció lingüística** (article 107.5): **incomplir els requisits
+  de llengua dels noms comercials i dels rètols obliga a retirar-ne tots els
+  suports físics en quinze dies, a càrrec de l'infractor**
+  ([la llei de la llengua](../../llengua/politica-linguistica/la-llei-de-la-llengua.md)).
+- ~~**Els grans establiments** (art. 11 i 17), amb autorització prèvia pròpia, i el
+  procediment d'obertura **queden per llegir**.~~ — **`resolt` el 17-09-2026**
+  (`docs/raw/lleis/comerc.txt`, articles 11 a 17).
+
+  **Un gran establiment són 2.500 m² de superfície de venda**, «individuals o
+  col·lectius» (article 11). **Per sota d'aquesta xifra, el règim és el comú.**
+
+  **La peça institucional és que l'autorització la donen dues administracions
+  alhora, i el comú té l'última paraula.** **Hi ha una sola sol·licitud,
+  tramitada «de forma simultània i conjunta entre Govern i Comú»** (article 13),
+  i **la resolució comunal és vinculant**:
+
+  > «El comú ha d'emetre i lliurar […] **la resolució comunal, que té caràcter
+  > vinculant** i que, en cas de ser negativa, s'ha de motivar» (article 12.3).
+
+  **El ministre resol desfavorablement si el comú diu que no, «amb independència
+  de si la documentació dona compliment als requisits»** (article 13 bis.2).
+  **Un comú pot vetar un comerç encara que compleixi tota la normativa
+  estatal.**
+
+  **Tres procediments, i el més comú es guanya pel silenci** (article 14):
+
+  | Procediment | Quan | Termini |
+  | --- | --- | --- |
+  | **Comunicació** | modificacions menors fixades per reglament | acaba amb la inscripció, **sense resolució** |
+  | **Ordinari** | activitats sense risc raonable per a persones, béns o medi ambient | **15 dies naturals**, prorrogables la meitat; **passats, s'entén concedida** |
+  | **Inspecció prèvia** | la resta: cal verificar-ho tot abans d'obrir | sense termini fixat a la llei |
+
+  **El silenci administratiu hi és positiu** i **l'activitat es pot començar un
+  cop admesa la sol·licitud**, «sense perjudici dels controls que en qualsevol
+  moment poden efectuar els òrgans competents».
+
+  **Els grans establiments no tenen res d'això.** **Necessiten una autorització
+  prèvia específica del Govern**, valorada «en criteris d'interès general»
+  sobre quatre eixos (article 17.1): **accessibilitat, circulació i mobilitat**;
+  **les característiques comercials i els efectes sobre el sector**; **el medi
+  ambient i l'entorn urbanístic**; i **l'impacte sobre el mercat laboral i les
+  polítiques de contractació de l'empresa**. **Han d'acreditar les places
+  d'aparcament** fixades al POUP de la parròquia. **I només després d'obtenir
+  aquesta autorització prèvia poden començar la tramitació ordinària davant de
+  les dues administracions.**
+
+  **L'article 12.1 és el que dona la clau de per què això existeix**: el Govern
+  pot posar limitacions per reglament a les activitats amb impacte significatiu
+  **«a l'efecte de garantir un creixement urbanístic i demogràfic sostenible i
+  ordenat»** ([els habitatges buits](../../societat/habitatge/els-habitatges-buits.md)).
+  **La llei de comerç és, en aquest punt, una llei de contenció del creixement.**
+
+  `Requereix saber quants grans establiments hi ha autoritzats, que la llei no
+  pot dir.`
 - ~~**La venda ambulant, automàtica, domiciliària i en subhasta pública** (art.
   60-69) s'han identificat i **no s'han llegit**.~~ — **`resolt` el
   17-09-2026.**
