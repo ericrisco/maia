@@ -86,11 +86,35 @@ un dret» passa a ser dret **precisament perquè era un fet**.
   de França, groc i vermell del bisbat i de la Corona d'Aragó— **segueix sense
   font**. Vilar en dona **la data i l'autor**, no **el perquè dels colors**.
 - La versió amb escut i la versió sense, i quan s'usa cadascuna.
-- Les proporcions i la data d'oficialització.
+- Les proporcions. — **La data d'oficialització ja no és un buit: `resolt` el
+  17-09-2026.**
 - ~~Si la bandera de 1866 és la mateixa d'avui o ha canviat.~~ **Tancat:** el 1904
   ja era **blau, groc i vermell amb l'escut al centre**.
-- **Si hi ha cap decret o acord del Consell General** que l'adopti formalment,
-  entre el 1866 i el 1993.
+- ~~**Si hi ha cap decret o acord del Consell General** que l'adopti formalment,
+  entre el 1866 i el 1993.~~ — **`resolt` el 17-09-2026 des de les [actes del
+  Consell General](../../../fonts/actes-historiques-consell-general.md).** **N'hi ha
+  dos, i cap dels dos és del 1866.**
+
+  | Data | Acord | Foli |
+  | --- | --- | --- |
+  | **9 de març de 1937** | **Posar la bandera a la façana de Casa de la Vall** tots els dies que se celebri Consell General, els dies de festa oficial i «altres festes assenyalades de precepte» | ANA FCV 9.485, fol. 331 |
+  | **22 de desembre de 1942** | **«Es declara oficial l'himne, la bandera i l'escut tal com està sobre la porta de Casa de la Vall»** | ANA FCV 9.486, fol. 43 |
+
+  **La data d'oficialització de la bandera andorrana és el 22 de desembre de
+  1942**, al **Consell ordinari de Sant Tomàs**, **i és la mateixa data per als
+  tres símbols alhora.**
+
+  **Això tanca, per la punta de baix, l'objecció de Vilar.** **El 1904 li podia
+  retreure que no tingués «aucun caractère officiel»** —**i tenia raó de
+  fet**—; **el 1942 el Consell el hi dona**, **cinquanta-un anys abans que la
+  Constitució l'hi confirmés per remissió.** **Entre el 1866 i el 1937 les actes
+  del Consell no en diuen res**: **ni l'acta de la Nova Reforma del 28 de maig
+  de 1866 ni cap de les del seu voltant esmenten la bandera.** **Setanta-un anys
+  onejant sense acord.**
+
+  **I el decret del 1942 remet a la pedra**: **el que es declara oficial no és un
+  dibuix adjunt sinó l'escut «tal com està sobre la porta de Casa de la Vall»**
+  ([l'escut](./lescut.md)).
 
 ## Related
 

@@ -39,18 +39,40 @@ pareatge i la festivitat mariana; ara s'hi suma una tercera coincidència, i amb
 aquesta la hipòtesi és més fàcil: **adoptar l'himne el dia de la festa nacional
 és una decisió òbvia**, no una coincidència.
 
-## Un punt a verificar
+## El punt a verificar: verificat
 
-**Joan Benlloch i Vivó va ser bisbe d'Urgell** i, per tant,
+~~**Joan Benlloch i Vivó va ser bisbe d'Urgell** i, per tant,
 [copríncep d'Andorra](../coprincipat/el-coprincipat.md). Si és així, la lletra de
-l'himne nacional la va escriure un dels dos caps d'estat del país.
+l'himne nacional la va escriure un dels dos caps d'estat del país. **No
+s'afirma aquí.**~~ — **`resolt` el 17-09-2026** amb **l'acta del Consell**
+([síntesi d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md)).
 
-**No s'afirma aquí.** Les dates del seu episcopat i la de l'adopció de l'himne
-s'han de comprovar per saber si era copríncep quan la va escriure, si ho havia
-estat abans, o si es va escriure abans d'adoptar-se. La diferència és rellevant i
-la font consultada no la resol.
+**El 2 d'abril de 1917, al Consell de Setmana Santa:**
 
-**Buit registrat, prioritari.**
+> «**El Consell admet com a himne nacional de Andorra el que ha compost el Sr.
+> Bisbe dr. Benlloch y qual música és deguda al autor andorrà mossèn Enrich
+> Marfany**» (ANA FCV 9.485, fol. 234 v.).
+
+**Benlloch presidia aquella mateixa sessió com a bisbe** —hi va lliurar al
+Consell una foto del papa Benet XV—, **i és el Consell qui diu que la lletra és
+seva.** **La lletra de l'himne nacional d'Andorra la va escriure un copríncep en
+exercici**, i el Consell la va acceptar **en presència seva**.
+
+**I la mateixa acta diu una segona cosa el mateix dia**: **el Consell declara que
+el subsol de les Valls és propietat de l'Estat andorrà.**
+
+### Tres dates, i no es contradiuen
+
+| Data | Què hi passa | D'on surt |
+| --- | --- | --- |
+| **2 d'abril de 1917** | **El Consell l'admet** com a himne nacional | **acta del Consell** |
+| 8 de setembre de 1921 | Adopció | [Viquipèdia](../../../fonts/viquipedia-ca.md) |
+| **22 de desembre de 1942** | **Es declara oficial**, amb la bandera i l'escut | **acta del Consell** |
+
+**La data que aquesta fitxa donava com a única era la del mig.** **L'acceptació
+és quatre anys anterior i l'oficialitat, vint-i-un anys posterior.**
+`Requereix saber què va passar exactament el 8 de setembre de 1921; l'acta del
+Consell no en diu res.`
 
 ## El contingut
 

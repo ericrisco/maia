@@ -114,7 +114,31 @@ descrigui**.
 2. **Qui va gravar l'escut del portal i quan.** Vilar diu que l'edifici és del
    segle XVI i **no data la pedra**.
 3. **Qui va escriure els quatre versos llatins**, i quan.
-4. **Si l'escut d'avui és el mateix** que el de la pedra.
+4. ~~**Si l'escut d'avui és el mateix** que el de la pedra.~~ — **`resolt` el
+   17-09-2026, i la resposta és que sí per decisió expressa**, des de les [actes
+   del Consell General](../../../fonts/actes-historiques-consell-general.md).
+
+   **El 22 de desembre de 1942 el Consell declara oficials l'himne, la bandera i
+   l'escut «tal com està sobre la porta de Casa de la Vall».** **L'escut oficial
+   d'Andorra es defineix per remissió a la pedra d'aquesta fitxa**, no per un
+   blasonament escrit.
+
+   **I hi ha un pas previ que explica per què calia triar.** **El 29 de juliol de
+   1914**, fent unes medalles commemoratives de la patrona, el Consell es troba
+   que **n'usa dos**:
+
+   > «**Entre els dos escuts d'armes que s'han vingut usant aquestos últims
+   > anys** escolleix y accepta el Consell com a **úniques armes d'Andorra,
+   > l'antich** o sia el que està **gravat en el segell** que va adjunt, si és
+   > del beneplàcit de V.I., **per ser l'únich que s'usava antigament** y el que
+   > millor s'acomoda a la tradició y millor representa lo modo de ser d'aquest
+   > Principat» (ANA FCV 9.485, fol. 231).
+
+   **Dues coses.** **El criteri de la tria és l'antiguitat, no l'heràldica**, i
+   **la tria se sotmet al beneplàcit del bisbe** —«V.I.»—: **el Consell tria les
+   armes del país i demana permís a un dels dos coprínceps.**
+
+   `Requereix el segell adjunt del 1914, que fixaria el dibuix triat.`
 5. **La versió amb escut i sense** de la bandera, i quan s'usa cadascuna.
 
 ## Related
