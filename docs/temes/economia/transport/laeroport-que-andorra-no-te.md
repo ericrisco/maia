@@ -167,11 +167,53 @@ rebuig.**
 > espanyol, finançada a mitges, explotada comercialment per Andorra i batejada
 > amb el nom d'Andorra.** **Que el nom molestés no és un detall menor.**
 
+## El tractat no va existir; hi ha un conveni amb la Generalitat
+
+**La declaració del 2004 deia que es faria per tractat internacional, i el
+tractat no consta enlloc.** La cerca al [BOPA](../../../fonts/bopa.md) no torna
+cap acord del Consell General d'aprovació de la ratificació d'un tractat sobre
+l'aeroport, ni cap norma que en publiqui el text. **L'únic tractat aeri que el
+Butlletí registra és l'adhesió al Conveni sobre l'aviació civil internacional**
+(proposta del 2000) i, el 2005, l'adhesió als convenis de repressió d'actes
+il·lícits contra la seguretat de l'aviació.
+
+**El que hi ha, en lloc del tractat, és un conveni administratiu i és amb una
+comunitat autònoma.** El Decret 386/2023 el cita pel seu nom: **«el Conveni entre
+l'Administració de la Generalitat de Catalunya, mitjançant el Departament de
+Territori i Sostenibilitat, i el Ministeri de Presidència, Economia i Empresa
+relatiu a la gestió, l'explotació i la promoció de l'Aeroport d'Andorra - La Seu
+d'Urgell»**, i la seva **clàusula cinquena punt quart** crea una **Comissió Mixta
+per a la Gestió, l'Explotació i la Promoció de l'Aeroport**, on el Govern nomena
+**tres representants**: el secretari d'Estat de Transició Energètica, Transports i
+Mobilitat, el director del Departament d'Energia i Transports i un representant
+del ministeri de turisme
+(`docs/raw/economia/aeroport/bopa-decret-386-2023-comissio-mixta.txt`).
+
+**Andorra hi participa pagant, i es veu al Butlletí.** Des del **setembre del
+2021** el Govern hi convoca i adjudica concursos públics: **llançament de noves
+rutes** (2021, 2022, 2023, 2024, 2026), **una indemnització del 2022 per la
+prestació efectivament realitzada**, i **un servei de llançadora de viatgers entre
+Andorra i l'aeroport** que **es va declarar desert el gener del 2024** i es va
+tornar a treure el 2025. **Vint-i-tres documents del Butlletí parlen de
+l'aeroport, i cap no és un tractat**: són contractes, subvencions, despeses
+pluriennals i nomenaments.
+
+**Que l'instrument sigui un conveni amb la Generalitat i no un tractat entre
+estats és el fet, no un detall de forma.** Vol dir que **la infraestructura no
+entra a l'ordenament andorrà per la porta de l'article 64 de la Constitució**, que
+**el Consell General no l'ha ratificada**, i que el vincle d'Andorra amb un
+aeroport que porta el seu nom **es renova per pressupost cada any**.
+
 ## El que falta
 
 - **Qui era el coronel Pellejero.**
 - **Què va ser de Dausa.**
-- **Si el tractat internacional del 2004 es va arribar a signar.**
+- ~~**Si el tractat internacional del 2004 es va arribar a signar.**~~ —
+  **`resolt` el 17-09-2026**: **no consta que s'hagi signat cap tractat**, i
+  l'instrument viu és **un conveni amb la Generalitat de Catalunya** amb una
+  Comissió Mixta. Vegeu «[El tractat no va existir; hi ha un conveni amb la
+  Generalitat](#el-tractat-no-va-existir-hi-ha-un-conveni-amb-la-generalitat)».
+  `Requereix el text del conveni, que el Butlletí cita i no publica.`
 - **Les xifres de passatgers reals** des del 2021.
 - **Francesc Betriu**, el germà.
 - **Per què la valoració dels terrenys va passar de 40 a 8 milions.**
