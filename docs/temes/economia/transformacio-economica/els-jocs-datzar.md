@@ -135,9 +135,52 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   categoria 3 tributa el 25% sobre les quantitats jugades, no sobre el que hi
   guanya l'operador** —**és el tipus més alt de tots i sobre la base més
   ampla.**
-- **Quants operadors hi ha**, de quines categories, i si el casino de categoria 1
+- ~~**Quants operadors hi ha**, de quines categories, i si el casino de categoria 1
   està en funcionament, **no consta**. La llei crea el marc; el corpus no té el
-  mapa.
+  mapa.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+  **perquè el Consell Regulador hi ha de publicar cada any la llista dels
+  titulars de llicència** (article 28 de la Llei 14/2024) **i ho fa des del
+  2016.**
+
+  **Sí que està en funcionament, i des de fa una dècada.** **El Consell
+  Regulador es constitueix el 22 de juliol del 2015**
+  (`docs/raw/lleis/bopa/edicte-2015-constitucio-craj.txt`), **presidit pel
+  ministre de Finances, amb el d'Interior com a suplent**, i **amb Xavier
+  Bardina Pau nomenat director general i secretari general el mateix dia** —
+  **càrrec que encara ocupa el 2025**, segons els edictes de delegació.
+
+  **El mapa d'operadors, de la llista publicada el 27 de gener del 2026 sobre
+  les llicències atorgades el 2025**
+  (`docs/raw/lleis/bopa/edicte-2026-llicencies-joc.txt`):
+
+  | Classe | Què és | Titulars |
+  | --- | --- | ---: |
+  | **E** | concursos amb atzar, rifes, participacions de loteria i **loteries de promoció o publicitàries** | **65** |
+  | **F** | **quinto tradicional** i jocs benèfics sense ànim de lucre | **55** |
+  | **H** | **distribuïdors mixtos** | bars, restaurants i associacions |
+  | **I** | **persones físiques** vinculades al **casino** (categoria 1) i al **bingo** (categoria 2) | una per persona |
+  | **J** | proveïdors dels operadors 1 i 2 | **Apostes d'Andorra**, **Logical Games 46** i **Novomatic Gaming Spain** |
+
+  **Cent disset titulars i cent vuitanta-una llicències**, `recompte del corpus
+  sobre la taula publicada`. **I el repartiment per modalitat diu què és de debò
+  el joc d'atzar autoritzat a Andorra**: **59 loteries de promoció o
+  publicitàries**, **43 rifes benèfiques**, **12 quintos**, **4 participacions
+  de loteria**. **La immensa majoria de llicències del país són sortejos
+  publicitaris d'empreses i rifes d'entitats**, no joc comercial.
+
+  **Els noms de la classe E són el teixit econòmic andorrà sencer**: **Andorra
+  Telecom, Crèdit Andorrà, Andbank, FEDA, Andorra Turisme, Camprabassa, Centre
+  Comercial Andorrà, farmàcies, concessionaris i botigues.**
+
+  **El casino existeix i és un de sol.** **Hi ha una única categoria 1** —**la
+  llicència es va adjudicar per concurs internacional el 2018**— i **les
+  llicències de classe I que s'hi relacionen són nominals, una per cada persona
+  que hi treballa.** **El mateix passa amb el bingo.** **El registre de qui pot
+  treballar en una sala de joc és públic al Butlletí.**
+
+  `Requereix el nom de l'operador del casino i del bingo, que aquesta llista
+  dona per categoria i no per raó social, i la sèrie any per any des del 2016,
+  que permetria veure si el nombre de llicències creix.`
 - **Quantes persones figuren als registres d'interdicció**, tampoc.
 - ~~**El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
   d'Inspecció** (títol V) queden per llegir.~~ — **`resolt` el 17-09-2026, i
