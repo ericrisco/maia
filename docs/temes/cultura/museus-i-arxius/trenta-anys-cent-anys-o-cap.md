@@ -194,8 +194,30 @@ greus, **cinc** les molt greus.
 **1975 pel Consell General** i **2005** l'entrada al patrimoni del Govern.
 **La llei no dona cap d'aquestes dues dates ni cap altra**: es limita a
 enunciar-ne les funcions. **El corpus no arbitra**: registra que la font
-primària llegida **no confirma ni desmenteix** aquelles dates i que la norma de
-creació segueix sense localitzar-se. `Requereix el BOPA de la norma de creació.`
+primària llegida **no confirma ni desmenteix** aquelles dates.
+
+**`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **no des de
+la norma de creació sinó des de la que la va substituir**: el **Decret del
+6-4-2005 d'aprovació del Reglament de l'Arxiu Nacional d'Andorra** (butlletí
+**33 del 2005**, `docs/raw/lleis/bopa/`) **l'explica a la seva exposició de
+motius**:
+
+> «**El 22 de desembre de 1975 el Consell General creava per reglament els
+> Arxius Nacionals d'Andorra** amb un text que definia de forma general la
+> concepció dels arxius nacionals així com la natura dels documents que els
+> composaven i determinava els càrrecs i les atribucions del personal
+> encarregat del funcionament d'aquest servei.»
+
+**Tres coses que el corpus no tenia:** **la data exacta és el 22 de desembre del
+1975**; **l'instrument és un reglament del Consell General**, no una llei; i
+**el nom original era en plural**, «els Arxius Nacionals d'Andorra».
+
+**I situa el 2005 al seu lloc**: **no és cap entrada al patrimoni del Govern**
+sinó **la reestructuració**, motivada perquè «l'estructura establerta resulta
+inapropiada per a les necessitats actuals». **El 2005 no crea res: redefineix.**
+
+`Requereix el text del reglament del 22-12-1975 mateix, que és anterior al BOPA
+i per tant no hi és.`
 
 ~~La «regulació específica» de l'accés a l'Arxiu Nacional que anuncia l'article
 31.2 no s'ha localitzat~~ — **localitzada el 14-09-2026**: el **Decret del 6

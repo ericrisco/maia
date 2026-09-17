@@ -101,10 +101,19 @@ funcions més que la fitxa no recollia: **donar suport tècnic a la resta d'arxi
 públics o d'interès públic** del Principat i **vetllar per la conservació del
 patrimoni documental d'Andorra**.
 
-**No confirmat: cap de les dues dates.** La llei **no diu** que l'Arxiu Nacional
-es creés el **1975** ni que passés al patrimoni del Govern el **2005**. No les
-desmenteix: **no en parla**. Les dues dates segueixen tenint com a únic suport
-la Viquipèdia, i **la norma de creació no s'ha localitzat**.
+**Les dues dates, resoltes el 17-09-2026 des del
+[BOPA](../../../fonts/bopa.md).** La llei del patrimoni **no en parla**, però
+**el Decret del 6-4-2005 sí, a la seva exposició de motius**
+(`docs/raw/lleis/bopa/decret-2005-reglament-arxiu-nacional.txt`):
+
+> «**El 22 de desembre de 1975 el Consell General creava per reglament els
+> Arxius Nacionals d'Andorra**»
+
+**El 1975 queda confirmat i guanya dia i instrument**: **22 de desembre**, **per
+reglament del Consell General**, i **amb el nom en plural.** **El 2005, en
+canvi, queda corregit**: **no és cap entrada al patrimoni del Govern** sinó
+**la reestructuració**, perquè «l'estructura establerta resulta inapropiada per
+a les necessitats actuals».
 
 **Buit nou, i és el que decideix tota la resta.** L'última frase de l'article
 31.2 diu: «**El dret i les condicions d'accés al patrimoni documental conservat
@@ -114,13 +123,43 @@ que aquesta fitxa enumera com a «feina pendent» —les actes de 1933 i 1934, e
 manuals notarials, els fons orals— **té una porta abans, i és documental, no
 tècnica**.
 
-**Localitzada el 14-09-2026, i encara no llegida.** Aquella regulació
+**Llegida el 17-09-2026**, des del butlletí **33 del 2005**. La regulació
 específica és el **Decret del 6 d'abril del 2005 pel qual s'aprova el Reglament
-de l'Arxiu Nacional d'Andorra**, publicat al BOPA, amb **un segon decret del
-mateix dia** sobre el **Sistema d'Arxius i l'Àrea d'Arxius del Govern**. Tots dos
-són a l'[evidència del corpus](../../../raw/historia-arxiu/README.md) i **cap
-dels dos no s'ha destil·lat**: aquesta fitxa **no diu encara** quines són les
-condicions d'accés.
+de l'Arxiu Nacional d'Andorra**, i **la regla de base és la contrària del que es
+podria témer**:
+
+> **Article 18.** «La documentació, des de la seva entrada a l'arxiu, **és de
+> lliure accés** llevat la que resulta exclosa segons les disposicions
+> contingudes en els articles següents.»
+
+**Lliure accés per defecte, i cinc portes que el tanquen:**
+
+| | |
+| --- | --- |
+| **Art. 19** | **Matèries classificades** per la legislació de secrets oficials, les excloses per llei, i les que puguin suposar **risc per a la defensa, la seguretat de l'Estat o l'esbrinament dels delictes**. **L'autoritat que va declarar el secret pot autoritzar-hi l'accés**; en la resta de casos, **el cap de l'Àrea d'Arxius** |
+| **Art. 20** | **Dades personals** de caràcter policial, processal, clínic o de qualsevol altra naturalesa que afectin la seguretat, l'honor, la intimitat o la pròpia imatge: **cal consentiment exprés dels afectats**, **llevat que hagin passat cinquanta anys des de la seva mort** o hi hagi manament judicial |
+| **Art. 21** | **Les condicions posades pel donant o dipositant** s'han de respectar |
+| **Art. 23** | **L'original es pot denegar** si la consulta en posa en perill la conservació — **amb la reproducció sempre disponible com a alternativa** |
+| **Art. 24** | **Es pot denegar mentre el document no estigui classificat, restaurat o tractat** |
+
+**La regla dels cinquanta anys de l'article 20 és la que més pesa per a aquest
+corpus**, i **conviu amb una altra que diu una cosa diferent**: la
+[Llei 30/2014](../../institucions/justicia/un-corpus-no-es-un-organisme-competent.md)
+dona acció **als familiars fins a tercer grau** d'una persona morta **sense
+posar-hi cap termini**. **L'arxiu obre als cinquanta anys; la llei d'intimitat
+no diu que tanqui mai.** **El corpus ho registra i no ho arbitra.**
+
+**I la porta física no demana res que no es pugui complir**: **carnet
+d'investigador o passaport**, **divuit anys**, **una fitxa i dues fotografies**
+(art. 31). **La consulta a la sala és gratuïta**; **les còpies van a càrrec del
+sol·licitant** (art. 26). **L'accés directe als dipòsits està reservat al
+personal** (art. 30).
+
+**Una definició de l'article 6 que val per a tot el corpus**, perquè diu què
+acaba entrant en aquest arxiu: **els documents de més de trenta anys de les
+entitats privades sense afany de lucre**, **els de més de cent anys de
+qualsevol persona física o empresa**, i **els protocols notarials**, que hi
+entren per ser documents de particulars en exercici de funcions públiques.
 
 **I el marc legal d'aquesta institució té un buit que no és del corpus.** El
 2017 el Consell General va encarregar al Govern un **projecte de llei que reguli
