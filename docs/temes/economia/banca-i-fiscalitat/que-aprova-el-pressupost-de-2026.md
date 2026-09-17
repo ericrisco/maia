@@ -80,6 +80,74 @@ tramitar separadament Andorra Digital.
 ([Llibre](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.pdf),
 art. 1–2 p. 12–15 i disposicions addicionals p. 58–59.)
 
+## Les partides ministerials, una per una
+
+El **llibre del pressupost**
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) porta la
+**classificació administrativa-econòmica**, que és el repartiment del pressupost
+entre els tretze ministeris.
+
+| Ministeri | 2026 | % |
+| --- | ---: | ---: |
+| **Finances** | **163.722.589,58 €** | **20,3%** |
+| **Salut** | **121.413.814,34 €** | **15,1%** |
+| Relacions Institucionals | 94.394.842,35 € | 11,7% |
+| **Territori i Urbanisme** | 87.964.633,36 € | 10,9% |
+| Justícia i Interior | 68.776.699,10 € | 8,5% |
+| Afers Socials | 54.649.402,65 € | 6,8% |
+| Funció Pública i Transformació Digital | 53.210.915,60 € | 6,6% |
+| Cap de Govern | 51.046.694,51 € | 6,3% |
+| Medi Ambient, Agricultura i Ramaderia | 28.943.679,17 € | 3,6% |
+| Presidència | 25.880.323,62 € | 3,2% |
+| Turisme | 23.007.100,91 € | 2,9% |
+| Cultura, Joventut i Esports | 22.447.828,32 € | 2,8% |
+| **Afers Exteriors** | **10.578.498,24 €** | **1,3%** |
+| **TOTAL** | **806.037.021,75 €** | **100%** |
+
+`Comprovació del corpus.` **Els tretze ministeris sumen exactament
+806.037.021,75 €**, **que és també el total de l'estat d'ingressos**
+([els tipus impositius](./els-tipus-impositius.md)): **el pressupost quadra a
+l'euro.**
+
+### I per capítol econòmic
+
+| Capítol | 2026 | % |
+| --- | ---: | ---: |
+| **4. Transferències corrents** | **327.003.280,20 €** | **40,6%** |
+| 1. Despeses de personal | 185.324.251,75 € | 23,0% |
+| 2. Consum de béns corrents i serveis | 83.509.682,57 € | 10,4% |
+| 6. Inversions reals | 81.167.341,99 € | 10,1% |
+| 7. Transferències de capital | 56.411.032,76 € | 7,0% |
+| 8. Actius financers | 50.178.191,69 € | 6,2% |
+| 3. Despeses financeres | 16.766.213,55 € | 2,1% |
+| 9. Passius financers | 5.677.027,24 € | 0,7% |
+
+`Els vuit capítols sumen 806.037.021,75 €. Les tres agrupacions que el llibre
+imprimeix —despeses corrents 612.603.428,07, de capital 137.578.374,75 i
+d'actius i passius 55.855.218,93— també hi sumen.`
+
+### Quatre coses que el repartiment diu
+
+**El Govern andorrà transfereix més del que gasta.** **El capítol de
+transferències corrents és de 327 milions, el 40,6%**, **molt per damunt de les
+despeses de personal (185,3 M€).** **L'Estat és, sobretot, un pagador.**
+
+**El cas extrem és Salut**: dels seus **121,4 milions**, **110,3 són
+transferències corrents** —**el 90,9%**— i **només 2,7 van a personal**. **El
+Ministeri de Salut gairebé no té empleats: té destinataris.**
+
+**El contrari és Justícia i Interior**: **52,9 dels seus 68,8 milions són
+personal**, **el 76,9%**. **És el ministeri de la gent amb uniforme.**
+
+**I Territori i Urbanisme és el ministeri de les obres**: **76,8 dels seus 88,0
+milions són inversió i transferències de capital**, **el 87,3%.**
+
+**El ministeri més petit és Afers Exteriors**, amb **10,6 milions, l'1,3% del
+pressupost**: **la diplomàcia d'Andorra costa menys de la meitat que el
+Ministeri de Cultura, Joventut i Esports**, i **menys que el que l'Estat preveu
+recaptar amb l'impost sobre les emissions de CO₂ i l'impost d'allotjament
+junts.**
+
 ## Buits registrats
 
 - **Contrast BOPA tancat per als articles 1, 2 i 18:** mateix text després
@@ -94,6 +162,15 @@ art. 1–2 p. 12–15 i disposicions addicionals p. 58–59.)
   Falta verificar la metodologia de consolidació i les eliminacions
   entre entitats; no s'han sumat els seus totals com si fossin independents.
 - Només s'han llegit les pàgines delimitades a la
-  [fitxa](../../../fonts/govern-pressupost-2026.md). Resta de l'articulat,
-  partides ministerials, justificacions i pluriennals pendents.
+  [fitxa](../../../fonts/govern-pressupost-2026.md). ~~Resta de l'articulat,
+  partides ministerials, justificacions i pluriennals pendents.~~ — **`parcial`
+  el 2026-09-18**: **les partides ministerials es tanquen** —els tretze
+  ministeris i els vuit capítols econòmics, a dalt— **i també l'estat
+  d'ingressos figura per figura**
+  ([els tipus impositius](./els-tipus-impositius.md)). **Segueixen pendents la
+  resta de l'articulat, les justificacions i els pluriennals**, **tret dels tres
+  que ja s'han llegit**: **l'ampliació del Centre Penitenciari**
+  ([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)),
+  **els arrendaments del SAAS** i **l'eficiència energètica del pavelló
+  poliesportiu** ([el Comitè Olímpic](../../esports/competicio/el-comite-olimpic.md)).
 - Drets del llibre pendents; originals i lectura no s'exporten a datasets.
