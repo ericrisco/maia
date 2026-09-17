@@ -154,7 +154,20 @@ ensenya abans que l'aula, no és un detall menor.
   —**no diu advocat**. `Requereix el reglament que en fixa el mandat i el
   funcionament, i saber quantes resolucions ha dictat.`
 - **Les instal·lacions esportives** (capítol segon del títol III) i les
-  **subvencions** (capítol segon del títol II), tampoc.
+  **subvencions** (capítol segon del títol II), tampoc. — **`parcial` el
+  2026-09-18 per la via dels diners, no de la llei**: **els criteris de
+  subvenció són al Decret 141/2023** i **els imports al pressupost del 2026**
+  ([el Comitè Olímpic](./el-comite-olimpic.md)):
+
+  | | 2026 |
+  | --- | ---: |
+  | Federacions i clubs esportius | **5.278.369,70 €** |
+  | **Subvenció esport professional** | **2.000.000,00 €** |
+  | Instal·lacions esportives *(PR0172)* | **1.331.995,55 €** |
+  | Eficiència energètica del pavelló poliesportiu | 0,00 € el 2026, **6.000.000,00 € compromesos** |
+
+  **El capítol de la llei segueix sense llegir**; **el que hi ha ara és què es
+  paga i amb quins criteris, no què diu l'articulat.**
 - **Quants esportistes d'alt nivell** hi ha a la llista anual, i si algú ha fet
   servir mai els mèrits de l'article 55.4, no consta.
 - ~~**La [Llei d'esports electrònics](../../institucions/justicia/el-dret-vigent.md)**
