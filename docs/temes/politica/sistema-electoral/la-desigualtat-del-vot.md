@@ -36,7 +36,7 @@ mateixa cambra**:
 | --- | --- | --- |
 | **Circumscripció** | **Una de sola, tot el país** | **Set, una per parròquia** |
 | **Llista** | **17 noms**: 14 titulars + **3 suplents** | **2 per parròquia** |
-| **Repartiment** | **Proporcional, llei d'Hondt** | **Tots dos a la llista més votada** |
+| **Repartiment** | **Proporcional, de «resta més elevada»** —**no és la llei d'Hondt**, vegeu més avall | **Tots dos a la llista més votada** (art. 61.1) |
 | **Efecte** | «Representa de forma **força fidedigna** el resultat sorgit de les urnes» | **«Per un sol sufragi de més un partit s'emporta aquests dos escons»** |
 
 **La meitat del parlament andorrà s'escull amb un sistema que no reparteix res:
@@ -45,6 +45,134 @@ guanya tot qui queda primer**, encara que sigui per un vot.
 I **als comuns encara és més fort**: **la llista més votada s'emporta
 directament la meitat dels escons del Consell de Comú**, sigui quin sigui el
 percentatge.
+
+## No és la llei d'Hondt, i la diferència té conseqüències
+
+**Llegida la llei el 17-09-2026** —**Llei 44/2022, del 12 de desembre, de text
+consolidat qualificada del règim electoral i del referèndum**
+([font](../../../fonts/bopa.md), BOPA del 10-01-2023;
+`docs/raw/lleis/bopa/llei-44-2022-regim-electoral-consolidat.txt`)— **el
+repartiment dels catorze escons nacionals no és el d'Hondt.**
+
+> «Per a la determinació dels consellers generals en la circumscripció nacional,
+> **s'utilitzarà el sistema proporcional denominat de "resta més elevada"**»
+> (article 62.1).
+
+**El mecanisme, literal (article 62.2 i 62.3):**
+
+| Pas | Regla |
+| --- | --- |
+| **1** | **Quocient electoral** = vots vàlids **÷ 14**, arrodonit **a l'enter superior** |
+| **2** | Cada candidatura rep **tants escons com vegades hi cap el quocient** |
+| **3** | Els escons que sobren van **a les restes més altes** |
+| **4** | **Empat de restes**: guanya qui tingui **més vots absoluts**; si torna a empatar, **sorteig** |
+
+**I aquí hi ha la peça que ningú no cita.** El pas 3 no s'obre a tothom:
+
+> «els escons restants s'adjudicarien a aquella o aquelles candidatures **que ja
+> tinguessin representació** i que tinguessin la resta o restes més elevades»
+> (article 62.2).
+
+**Una llista que no arriba a un quocient sencer no pot rebre cap escó de
+resta.** **El llindar efectiu és, doncs, un quocient complet: 1/14 dels vots
+vàlids, un 7,14%.** No és un llindar escrit com a percentatge enlloc —és una
+conseqüència de com està redactat el repartiment de restes.
+
+**La llei posa el seu propi exemple numèric** (article 62.4), i **quadra**:
+
+| Candidatura | Vots | Escons per quocient | Resta | Total |
+| --- | --- | --- | --- | --- |
+| **A** | 3.000 | 5 | 15 | **5** |
+| **B** | 2.550 | 4 | 162 | **4** |
+| **C** | 1.975 | 3 | 184 | **3** |
+| **D** | 825 | 1 | **228** | **2** |
+| | **8.350** | **13** | | **14** |
+
+Quocient = **8.350 ÷ 14 = 596,42 → 597**. Comprovat: **3.000 + 2.550 + 1.975 +
+825 = 8.350**, i **5 + 4 + 3 + 2 = 14**. **L'escó sobrant se l'emporta D**, que
+té la resta més alta.
+
+**Dues fonts publicades diuen «llei d'Hondt»** —la ponència que obre aquesta
+fitxa i **la ponència del parlamentarisme de la 31a Diada Andorrana (2018)**
+(`docs/raw/sac-diades/31a-2018-el-parlamentarisme-andorra.txt`)— **i la llei
+en diu una altra cosa.** **El corpus es queda amb la llei.** Amb catorze escons
+la diferència pràctica entre Hondt i resta més elevada és petita, però **no és
+la mateixa regla i el llindar no és el mateix**: **d'Hondt afavoreix la llista
+gran, la resta més elevada afavoreix la petita —llevat que aquesta clàusula de
+«ja tinguessin representació» l'exclogui.**
+
+## El que l'Estat publica d'unes eleccions generals: els noms
+
+**Els resultats oficials existeixen i estan signats, i el BOPA no els publica.**
+
+**La cadena, segons la llei:**
+
+| Article | Qui | Què fa |
+| --- | --- | --- |
+| **48.1-2** | La **mesa electoral** | Acta signada amb **electors, votants, nuls, blancs i vots de cada candidatura** |
+| **49** | El **Govern** | Recompte general, **acta nacional**; «el cap de Govern **en proclamarà els resultats**» |
+| **57.2** | El **cap de Govern** | Proclama **«el nom de tots els candidats elegits, sigui quin sigui l'origen de la seva elecció»** |
+
+**L'article 49 diu «els resultats» i l'article 57.2 en diu «el nom».** **El que
+arriba al BOPA és l'article 57.2.**
+
+**Comprovat un per un** (BOPA, 17-09-2026): **els nou decrets de proclamació
+des del 1993 tenen tots exactament 28 noms i cap xifra.**
+
+| Elecció | Decret |
+| --- | --- |
+| **12-12-1993** | Decret del 14-12-1993 |
+| **16-02-1997** | Decret del 17-2-97 |
+| **04-03-2001** | Decret del 5-3-2001 |
+| **24-04-2005** | Decret del 25-4-2005 |
+| **26-04-2009** | Decret del 27-4-2009 |
+| **03-04-2011** | Decret del 3-04-2011 |
+| **01-03-2015** | Decret del 2-3-2015 |
+| **07-04-2019** | Decret del 8-4-2019 |
+| **02-04-2023** | **Decret 150/2023**, del 3-4-2023 |
+
+**Ni vots, ni percentatges, ni circumscripció.** La fórmula **«sigui quin sigui
+l'origen de la seva circumscripció»** —literal de la llei— **fa que el document
+oficial de proclamació no digui quins dels 28 són territorials i quins
+nacionals.** **Per a una fitxa sobre la desigualtat entre les dues
+circumscripcions, això és la dada que falta, i falta per disseny.**
+
+### I abans del 1993 sí que es publicaven
+
+**Aquest és el contrast que tanca el buit.** Fins a les eleccions del 1992, **el
+resultat numèric sortia al BOPA, parròquia per parròquia, signat pel comú.**
+
+Exemple literal, **eleccions del 5 d'abril de 1992**
+(`docs/raw/lleis/bopa/resultats-eleccions-1992-04-05.txt`):
+
+| | |
+| --- | --- |
+| **Nombre d'electors** | **2.721** |
+| **Nombre de votants** | **2.225** |
+| **Vots en blanc** | **126** |
+| **Vots nuls** | **28** |
+| **Vots vàlids** | **2.071** |
+| **Majoria absoluta** | **1.036** |
+
+…i **el recompte nominal de cada candidat**: Jordi Farràs Forné 1.517 (E), Miquel
+Armengol Pons 1.493 (E), Jaume Bartumeu Cassany 1.400 (E), Robert Cassany Vila
+1.378 (E), Marc Forné Molné 711, Mercè Bonell Bertran 707, Josep Ma. Rossell
+Sellart 542, Gerard Sasplugas Mateu 536. **La «E» vol dir elegit.**
+
+**El sistema d'aleshores era de majoria absoluta amb segona volta**, i el BOPA
+en publicava les dues: el **10 de desembre de 1989** («vist que ha quedat un
+càrrec de Conseller General per cobrir», per l'**article 38 de l'aleshores Llei
+Electoral**) i el **17 de desembre**, on **J. A. Ribes Roca fa 856 vots i J.
+Tomàs Roca 817** i s'endú l'escó per 39 vots.
+
+**El document no diu de quina parròquia és** —signa «Casa Comuna» i prou—, i el
+corpus no ho endevina. `Requereix identificar la parròquia d'aquests avisos;
+són butlletins del 1989 i el 1992 amb 2.248 i 2.721 electors.`
+
+**La conclusió és neta: el corpus no ha perdut les xifres oficials modernes;
+l'Estat no les publica.** **Les publicava quan el recompte el feia el comú i el
+signava el secretari, i va deixar de fer-ho quan el recompte va passar a una
+acta nacional del Govern.**
 
 ## La cita que val més que tota la ponència
 
@@ -226,13 +354,44 @@ amb «tot per al guanyador, encara que sigui per un sol vot»**.
 ## Buits registrats
 
 1. **Els resultats oficials de les eleccions generals**, de qualsevol any.
-   **Prioritari i elemental.**
+   **Prioritari i elemental.** — **`parcial` el 17-09-2026.** **Tancada la part
+   nominal i identificada la causa de la resta.** El corpus té ara **els nou
+   decrets de proclamació del 1993 al 2023**
+   (`docs/raw/lleis/bopa/decret-proclamacio-elegits-*.txt` i
+   `decret-150-2023-proclamacio-elegits.txt`): **252 noms, 28 per elecció, cap
+   xifra.** **Les xifres no hi són perquè l'article 57.2 de la llei electoral
+   només obliga a proclamar el nom**, i **cap decret no diu quins són
+   territorials i quins nacionals.** **Queden oberts els vots per candidatura i
+   per parròquia de qualsevol elecció des del 1993**, i **no es poden tancar pel
+   BOPA**: `Requereix l'acta nacional del Govern o les certificacions de les
+   meses (article 48.2), que no es publiquen.` **En canvi, el corpus ja té els
+   resultats numèrics complets de les eleccions del 1989 i del 1992**, que sí
+   que sortien al butlletí.
 2. **L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
    **Prioritari.**
 3. **Els informes del Consell d'Europa** sobre el sistema electoral andorrà.
-4. **La Llei electoral** vigent.
+4. ~~**La Llei electoral** vigent.~~ — **`resolt` el 17-09-2026.** És la
+   **Llei 44/2022, del 12 de desembre, de text consolidat qualificada del règim
+   electoral i del referèndum** (BOPA del 10-01-2023, **78 articles**,
+   `docs/raw/lleis/bopa/llei-44-2022-regim-electoral-consolidat.txt`).
+   **Aplicada la regla dels dos passos**: cercada «modificació de la Llei
+   44/2022» al BOPA, **cap resultat** —**el text consolidat del 2022 és el
+   vigent**. **Consolida vuit reformes de la llei del 3 de setembre de
+   1993**, segons la seva pròpia exposició de motius: **1999** (articles 6.1 i
+   7.1), **15-12-2000** (crea la Junta Electoral), **Llei 9/2005** (li treu el
+   capítol penal), **Llei 28/2007**, **Llei 9/2008** (escons comunals), **Llei
+   7/2014** (vot per dipòsit judicial per correu), **Llei 16/2021**
+   (discapacitat i vot per delegació) i **Llei 6/2022** (composició equilibrada
+   de dones i homes a les candidatures). **I deroga el text refós del Decret legislatiu del 26-11-2014**,
+   que era refós i no consolidat.
 5. **Els partits polítics**: DA, PS, Liberals, SDP, UL. **Segueix obert.**
-6. **La llei d'Hondt aplicada a 14 escons**: quin llindar efectiu imposa.
+6. ~~**La llei d'Hondt aplicada a 14 escons**: quin llindar efectiu imposa.~~
+   — **`resolt` el 17-09-2026, i la pregunta estava mal plantejada.** **No és
+   la llei d'Hondt**: l'article 62.1 diu **«resta més elevada»**. **El llindar
+   efectiu és un quocient sencer —1/14 dels vots vàlids, el 7,14%—** perquè
+   l'article 62.2 reserva els escons de resta a les candidatures **«que ja
+   tinguessin representació»**. **Una llista per sota del quocient no entra al
+   repartiment de restes.**
 7. **La Llei de competències i transferències**, l'única vegada citada en què la
    distinció territorial/nacional va comptar.
 8. **Verificar** que els consellers territorials voten sempre amb el seu grup.
