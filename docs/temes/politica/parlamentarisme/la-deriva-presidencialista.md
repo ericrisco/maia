@@ -267,9 +267,63 @@ del síndic general, del cap de Govern o d'un antic cap d'Estat. **Festes
 nacionals: el 14 de març, Dia de la Constitució, i el 8 de setembre, Dia de
 Meritxell.**
 
+## Què diu la Llei del sòl sobre els comuns
+
+**La norma es diu Llei general d'ordenació del territori i urbanisme**, és del
+**29 de desembre del 2000** i té **178 articles**
+(`docs/raw/lleis/ordenacio-territorial.txt`). L'afirmació que «en alguns punts
+dona preponderància a la decisió del Govern sobre els comuns» **es pot verificar
+article per article**, i el que se'n treu és que la preponderància existeix però
+sempre **amb un contrapès escrit al costat**.
+
+**El comú aprova el seu pla, però el Govern hi ha de dir que sí abans.**
+L'article 99 diu que **el Govern aprova la conformitat del projecte de Pla
+d'ordenació i urbanisme parroquial amb la Llei** i pot proposar-hi modificacions,
+però **«degudament justificades en motius de legalitat o de coordinació
+territorial supracomunal»** —no d'oportunitat—, i **el silenci de seixanta dies és
+positiu**. Només després, per l'article 100, **el comú aprova definitivament el
+pla i el publica**.
+
+**Si el comú no fa la feina, el Govern la fa per ell.** L'article 14 és la
+competència subsidiària: **«en cas d'inactivitat injustificada de l'Administració
+comunal»**, el Govern pot adoptar totes les mesures necessàries **«en substitució
+i per compte del comú»**.
+
+**Per als projectes d'interès nacional, l'informe del comú pot ser vinculant o
+no, i qui decideix quina cosa és és la llista de la llei.** L'article 63.2:
+**si el projecte o el pla sectorial toca un dels equipaments de la disposició
+addicional primera, l'informe dels comuns és preceptiu però no vinculant; en la
+resta de casos, és preceptiu i vinculant**. I l'apartat 3 és la clau de tot el
+sistema: **si un informe vinculant és negatiu, el Govern no pot executar el
+projecte, però pot presentar al Consell General un projecte de llei que
+l'autoritzi a fer-ho**. **La paraula final no és del Govern ni del comú: és del
+Consell General.**
+
+**I els recursos contra els actes dels comuns no van al comú.** La **Comissió
+Tècnica d'Urbanisme** de l'article 132 **«resol decisòriament tots els recursos
+d'alçada que s'interposin contra actes de l'Administració comunal»** en matèria
+d'ordenació del territori, urbanisme i construcció, i pot **decretar la suspensió
+de llicències i l'aturada d'obres en curs**. En canvi, quan informa sobre els
+plans parroquials, el seu informe **és preceptiu i no vinculant**. En sòl no
+urbanitzable la balança torna a caure del costat del Govern: l'article 139.3 diu
+que **el ministeri informa «motivadament i amb caràcter vinculant»** sobre si
+escau l'autorització, i **retorna l'expedient al comú perquè el resolgui**.
+
+**El resum honest és que la llei reparteix la decisió en tres.** El comú aprova,
+el Govern verifica la legalitat i la coordinació supracomunal, i **quan els dos
+xoquen sobre una obra d'interès nacional, la desfà el Consell General amb una
+llei**. Això és el que la font citava; el que aquesta lectura hi afegeix és que
+**el mecanisme de desempat existeix i està escrit**.
+
 ## Buits registrats
 
-1. **La Llei del sòl.** Citada i no descrita.
+1. ~~**La Llei del sòl.** Citada i no descrita.~~ — **`resolt` el 17-09-2026** a
+   «[Què diu la Llei del sòl sobre els comuns](#que-diu-la-llei-del-sol-sobre-els-comuns)»:
+   Llei general d'ordenació del territori i urbanisme del 29-12-2000, 178
+   articles. `Requereix la disposició addicional primera —la llista
+   d'equipaments que decideix quan l'informe del comú deixa de ser vinculant—,
+   que la instantània consolidada no porta, i les vint versions consolidades
+   sense comparar.`
 2. **La sentència del Tribunal Constitucional sobre béns comunals.**
 3. ~~**El Tribunal Constitucional** en general: el corpus no en té fitxa.~~
    `resolt`: [El Tribunal Constitucional](../../institucions/justicia/el-tribunal-constitucional.md).
