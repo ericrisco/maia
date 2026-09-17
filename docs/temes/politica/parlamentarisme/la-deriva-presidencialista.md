@@ -215,14 +215,72 @@ infiltrades o sotmeses al poder presidencial».
 **El corpus reté aquests exemples com a retòrica de l'autor**, no com a
 comparació històrica que subscrigui.
 
+## Vint-i-vuit anys després, la llei de protocol
+
+**S'ha aprovat.** És la **Llei 12/2022, del 12 de maig, de protocol i
+cerimonial** (BOPA del 31-5-2022,
+[evidència](../../../raw/lleis/bopa/llei-12-2022-protocol-i-cerimonial.txt)).
+**Vint-i-vuit anys després del pacte «per sortir del pas» del 1994** i onze
+després del text consensuat del 2010-2011 que no es va tramitar.
+
+**I el que hi diu val directament per a la tesi d'aquesta fitxa.** La Llei no fa
+una sola llista de precedències: en fa **set**, una per cada tipus d'amfitrió. I
+la pregunta que aquesta fitxa persegueix —qui va primer, el síndic o el cap de
+Govern— **té dues respostes segons qui convoca l'acte**.
+
+| Qui convoca l'acte | Posició 2 | Posició 3 |
+| --- | --- | --- |
+| **Els coprínceps** (art. 7) | **Cap de Govern** | Síndic/a general |
+| El Consell General (art. 8) | Síndic/a general | Cap de Govern |
+| **El Govern** (art. 9) | **Cap de Govern** | Síndic/a general |
+| El Consell Superior de la Justícia (art. 10) | Síndic/a general | Cap de Govern |
+| El Tribunal Constitucional (art. 11) | Síndic/a general | Cap de Govern |
+| **Els comuns** (art. 12) | **Cap de Govern** | Síndic/a general |
+| **Actes no oficials** (art. 13) | **Cap de Govern** | Síndic/a general |
+
+**Cada institució es posa al davant a casa seva** —el Consell General puja el
+síndic, el Govern puja el cap de Govern—, i **això és simètric i esperable**. El
+que no és simètric és la resta: **als actes dels coprínceps, als dels comuns i
+als no oficials, el cap de Govern va abans que el síndic**. Dels set règims, **el
+cap de Govern precedeix el síndic en quatre**, i **en tots els casos en què
+l'amfitrió no és ni el Govern ni una institució de la justícia o del
+parlament**.
+
+**Als actes convocats pels coprínceps, que és el cas més neutre que la llei
+preveu, l'ordre és: coprínceps, cap de Govern, síndic general.** La jerarquia que
+el debat del 2018 discutia està escrita al Butlletí Oficial des del 2022.
+
+**Dues coses més que la llei fixa i que el corpus no tenia:**
+
+- **L'ordre protocol·lari tradicional de les parròquies**, ara per llei:
+  **Canillo, Encamp, Ordino, la Massana, Andorra la Vella, Sant Julià de Lòria i
+  Escaldes-Engordany**, «essent Andorra la Vella la capital del país». I el
+  **cònsol major de Canillo** és qui actua «en representació de totes les
+  parròquies» —per això apareix a totes les llistes.
+- **La rebuda dels coprínceps** (article 14): el síndic i el cap de Govern el
+  reben **al primer punt del país on arriba**, i **si entren els dos coprínceps
+  alhora, un el rep el síndic i l'altre el cap de Govern**. La simetria que la
+  precedència no manté, aquí sí.
+
+**I el dol nacional** (article 24): tres dies per la defunció d'un cap d'Estat,
+del síndic general, del cap de Govern o d'un antic cap d'Estat. **Festes
+nacionals: el 14 de març, Dia de la Constitució, i el 8 de setembre, Dia de
+Meritxell.**
+
 ## Buits registrats
 
 1. **La Llei del sòl.** Citada i no descrita.
 2. **La sentència del Tribunal Constitucional sobre béns comunals.**
-3. **El Tribunal Constitucional** en general: el corpus no en té fitxa.
+3. ~~**El Tribunal Constitucional** en general: el corpus no en té fitxa.~~
+   `resolt`: [El Tribunal Constitucional](../../institucions/justicia/el-tribunal-constitucional.md).
 4. **El Butlletí del Consell General** com a font directa.
-5. **Si la llei de protocol s'ha aprovat des del 2018.** El corpus s'atura aquí.
-6. **Els partits polítics andorrans**, que aquesta fitxa necessita i no té.
+5. ~~**Si la llei de protocol s'ha aprovat des del 2018.** El corpus s'atura
+   aquí.~~ `resolt` el 17-09-2026: **sí, el 12 de maig del 2022** — vegeu
+   [Vint-i-vuit anys després, la llei de protocol](#vint-i-vuit-anys-despres-la-llei-de-protocol).
+6. ~~**Els partits polítics andorrans**, que aquesta fitxa necessita i no té.~~
+   `parcial`: la llista comprovada de partits i agrupacions és a
+   [El finançament dels partits](../sistema-electoral/el-financament-dels-partits.md).
+   `Segueix sense fitxa pròpia cada partit.`
 
 ## Related
 
