@@ -159,8 +159,26 @@ supervisor queda dins de la llei, no fora.**
   porositat la que explica per què la llei de blanqueig hi posa obligacions
   pròpies** —als qui hi comercien amb obres d'art, i als gestors i operadors de
   la zona.
-  **El que segueix obert és si n'hi ha cap de designada**: **el Codi en dona el
+  ~~**El que segueix obert és si n'hi ha cap de designada**: **el Codi en dona el
   règim i cap zona concreta**, i **el corpus no té cap decret de designació.**
-  `Requereix els decrets del Govern.`
+  `Requereix els decrets del Govern.`~~ — **`resolt` el 17-09-2026, i la
+  resposta és que no n'hi ha cap.**
+
+  **Escombrant el [BOPA](../../../fonts/bopa.md)**, **«zona franca» surt a 41
+  documents i «zones franques» a 44**, i **cap no és un decret de designació**:
+  **hi ha el Codi de Duana del 2025 i el del 2004, els seus reglaments
+  d'aplicació del 1996, 1997, 2005 i 2025, els textos refosos de l'IGI, la llei
+  de prevenció del blanqueig i una decisió del Comitè Mixt Andorra-UE.**
+  **Tots defineixen el règim; cap no l'aplica a un lloc.**
+
+  **Andorra té el dret de les zones franques i no té cap zona franca.** **Les
+  obligacions de blanqueig que aquesta fitxa descriu per als operadors de zona
+  franca són, avui, obligacions sense destinatari.**
+
+  > **Com s'ha comprovat**: cerca de les frases exactes «zona franca», «zones
+  > franques» i «dipòsit franc» a l'API pública del BOPA, **revisant tots els
+  > sumaris que en resulten.** **És un negatiu comprovat, no una absència
+  > suposada.** `Requereix vigilància: una designació futura seria un decret i
+  > apareixeria en aquesta mateixa cerca.`
 - **Les 10 versions** de la llei de blanqueig **no s'han comparat**: serien la
   cronologia de com Andorra s'ha anat adaptant a les exigències internacionals.
