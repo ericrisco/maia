@@ -289,6 +289,27 @@ I abans, el **1364**, ja hi havia hagut representació: **tres síndics i
 procuradors de les universitats de les valls adrecen una cèdula a la Cort per
 protestar pels abusos dels veguers**.
 
+**I encara abans, i el 17-09-2026 el corpus en té el document**: **el 28 de
+desembre de 1331**, **cinc síndics i procuradors dels homes de la Vall** —Durand
+Blanquer, de Prats; Pere Calva, de Vila; Arnau Isern, de la Margineda; Ferrer de
+Llumeneres; i Ramon de la Mora, de Sispony— **reunits a Andorra, a l'era del
+Puial**, **apel·len contra un manament del veguer comtal** *(actes històriques,
+ANA/ASC)*.
+
+**El manament valia la pena d'apel·lar-lo**: ordenava que **els sis homes
+millors i més rics de cada parròquia es traslladessin a Foix** l'endemà de Cap
+d'Any, **sota multa de mil sous per parròquia**, **per garantir el pagament de
+la quèstia de l'any vinent** ([la quèstia](../../historia/antic-regim/la-questia.md)).
+**Trenta-sis homes fora del país com a penyora d'un impost.**
+
+**I la manera com hi responen és la mateixa que el corpus veurà després el 1364,
+el 1390 i el 1463**: **apel·len, posen els seus béns i els dels homes de la Vall
+sota la protecció del comte, i es comprometen a pagar la quèstia «tal com han
+acostumat».** **No es neguen a pagar: es neguen a la forma.**
+
+**La representació andorrana documentada, doncs, no comença el 1364 sinó el
+1331**, **i vuitanta-vuit anys abans del privilegi que la va fer permanent.**
+
 ## Què va canviar el 1419
 
 **L'assemblea passa a ser representació.** La reunió de prohoms **deixa de ser
