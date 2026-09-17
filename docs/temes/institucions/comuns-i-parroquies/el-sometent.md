@@ -163,8 +163,42 @@ frase de llei vigent**, no d'un llibre de folklore.
    inhobedienciam»** — **de tots els danys que la seva desobediència pugui
    causar.** **El document es tanca sense que consti com va acabar.**
 
-   `Requereix un cas de mobilització efectiva; el que el corpus té és el cas
-   d'una que no es va fer.`
+   ~~`Requereix un cas de mobilització efectiva; el que el corpus té és el cas
+   d'una que no es va fer.`~~ — **`resolt` el mateix dia, al Llibre I d'actes:
+   el corpus ja té la mobilització efectiva, i és de contagi, no de guerra.**
+
+   **El 5 de juny de 1628 el Consell General tanca el país.** L'acord munta, en
+   una sola sessió, **un exèrcit, una frontera i un protocol**:
+
+   | | |
+   | --- | --- |
+   | **La tropa** | **«trobe la Terra trenta-i-sis soldats, so és, sis de cada paròquia»**, repartits en **dues companyies** —Canillo, Encamp i Sant Julià l'una; Ordino, la Massana i Andorra l'altra— que **pugen a la muntanya per torn** i **hi estan dos o tres dies** |
+   | **Qui els tria** | **«los quatre de Consell de cada paròquia»**, i **els capitans també**, amb substitut quan el titular té «justa escusa» |
+   | **Les guardes** | **dos homes a Prat-redó** (Canillo) i **dos a Llorts** (Ordino) |
+   | **Qui pot entrar** | **només amb certificat**: **pels de Llorts, signat i segellat pels cònsols de Siguer o de Vicdessos**; **pels de Canillo, pels cònsols d'Ax, de les Cabanes o de Tarascó** |
+   | **Si algú passa sense** | **se'l fa tornar**; i si s'hi nega, **una de les guardes el segueix i fa repicar les campanes de lloc en lloc fins a tenir prou gent**, i llavors **«los detinguen i·ls ne fasen tornar a bastonades»** |
+   | **Espies** | **els cònsols poden fer pujar espies on convingui** i **la Terra els paga el jornal** |
+   | **La població** | **ningú no pot sortir de casa més enllà de dues o tres-centes passes sense portar armes** —**«los pedrenials qui·n tingue»**— **sota pena del cot de la Terra** |
+
+   **Això és el sometent funcionant**: **la campana convoca, el veïnat acudeix,
+   i qui es resisteix torna a bastonades.** **El corpus tenia la teoria del
+   Politar i ara té l'acta d'un dia que es va fer.**
+
+   **I la causa es llegeix dos anys després, amb el nom escrit.** **El 15
+   d'abril de 1630** el Consell nomena **Guillem Torres, dit Perenalt**, perquè
+   **«vage a fer guarda del morgo i mal contagiós a Ordino»**, **a Llorts**, amb
+   un altre home; **i organitza el relleu per setmanes i per parròquies** —**la
+   segona setmana un de Sant Julià, la tercera un de la Massana, la quarta un
+   altre**—, **tots sota pena del cot de la Terra.** **El mateix dia torna a
+   manar que no entri cap francès sense certificat dels cònsols de Siguer**, i
+   **que la guarda hi posi la seva firma.**
+
+   **Cinc dies després**, el 20 d'abril de 1630, **cada parròquia ha de comprar
+   «una roba de pólvora»**.
+
+   **La mobilització andorrana documentada, doncs, no és contra un exèrcit: és
+   contra la pesta.** **I dura, com a mínim, del juny de 1628 a l'abril de
+   1630.**
 5. **«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
    [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md). —
    **`parcial` des del 16-09-2026: l'ofici sí, el mot no.** El **capítol VII del
