@@ -172,11 +172,88 @@ sancionen «Emmanuel Macron, president de la República Francesa» i
 «Josep-Lluís Serrano Pentinat, bisbe d'Urgell»**, **tots dos coprínceps**.
 `Requereix datar el relleu al bisbat d'Urgell, que el corpus no té.`
 
+## Com s'apliquen de fet: 2.304 penes principals i 187 de fermes
+
+El Codi diu què es pot imposar; **la Memòria de la Fiscalia General de l'any
+judicial 2025** diu què s'imposa. **L'any 2025** els tribunals andorrans van
+dictar **2.304 penes principals** —comptant les ordenances penals i el Tribunal
+de Corts—, i el repartiment desmenteix la intuïció:
+
+| Pena principal | Vegades | % |
+| --- | --- | --- |
+| **Multa** | **721** | **31,3%** |
+| **Arrest nocturn o parcial diari condicional simple** | **476** | 20,7% |
+| Privació del permís de conduir | 363 | 15,8% |
+| Arrest domiciliari condicional | 217 | 9,4% |
+| Presó condicional simple | 170 | 7,4% |
+| **Presó ferma** | **133** | **5,8%** |
+| Arrest nocturn o parcial diari condicional qualificat | 62 | 2,7% |
+| Presó condicional qualificada | 47 | 2,0% |
+| Prohibició de conduir en territori andorrà | 40 | 1,7% |
+| Arrest nocturn o parcial diari ferm al centre penitenciari | 32 | 1,4% |
+| Arrest domiciliari ferm al centre penitenciari | 17 | 0,7% |
+| Arrest domiciliari condicional qualificat | 6 | 0,3% |
+| **Arrest de temps festiu** (condicional simple 5, qualificat 1) | **6** | 0,3% |
+| Arrest domiciliari ferm al domicili | 3 (+1 amb control monitoritzat) | 0,2% |
+| Amonestació pública 3 · privada 1 | 4 | 0,2% |
+| Inhabilitació per a drets públics 3 · per a ofici o càrrec 1 | 4 | 0,2% |
+| Arrest nocturn ferm al domicili 1 · prohibició d'obtenir el permís 1 | 2 | 0,1% |
+
+`Recompte fet pel corpus sumant totes les línies «P.Principal:» de l'apartat
+«Detall dels judicis i penes imposades» de la Memòria. La Memòria les publica
+desglossades per títol del Codi penal i no en dona el total agregat.`
+
+**El resum en una línia: 8,1% de fermes, 42,7% de condicionals i 49,2% de penes
+que no priven de llibertat.**
+
+| | Penes | % |
+| --- | --- | --- |
+| **Fermes** (presó o arrest efectius) | **187** | **8,1%** |
+| **Condicionals** | **984** | **42,7%** |
+| Multa, permís de conduir, amonestació, inhabilitació | **1.133** | 49,2% |
+
+**Tres lectures.**
+
+**Primera, la pena més freqüent d'Andorra és la multa**, i de llarg: **una de
+cada tres**.
+
+**Segona, l'arrest nocturn o parcial diari és la pena privativa de llibertat que
+es fa servir de debò.** Amb **571 imposicions** de totes les seves variants,
+supera de molt **les 350 de presó** (ferma i condicional sumades): **un 63%
+més**. **El Codi preveu una graella de règims d'arrest i els tribunals la fan
+servir.**
+
+**Tercera, l'arrest de cap de setmana —«arrest de temps festiu»— pràcticament no
+s'imposa: sis vegades l'any**, i **cap d'elles ferma**.
+
+**I la presó ferma són 133 penes**, que casen amb l'ordre de magnitud de la
+[població reclusa](./la-llei-penitenciaria.md#cinquanta-cinc-persones-en-un-centre-de-cent-cinquanta-tres-places):
+**55 persones a la Comella**, amb condemnes majoritàriament **de tres mesos o
+menys**.
+
+**Les sentències, per contrast, són poques**: el **Tribunal de Corts** en va
+dictar **61** el 2025 —**52 condemnes i 9 absolucions**— i la **Sala Penal del
+Tribunal Superior** **26** en apel·lació, de les quals **19 revocatòries i 7
+confirmatòries**. **La immensa majoria de les penes surten d'ordenança penal, no
+de judici.**
+
+`Font: Memòria de la Fiscalia, any judicial 2025, presentada el 29-01-2026
+(justicia.ad). **Citada, no reproduïda**: l'avís legal del portal prohibeix la
+reproducció total o parcial sense consentiment escrit, i per això el corpus no
+en conserva còpia — vegeu
+[`raw/estadistica-justicia/README.md`](../../../raw/estadistica-justicia/README.md).`
+
 ## Buits registrats
 
-- **Com s'apliquen aquestes penes, no se sap.** El corpus té el text i cap dada
+- ~~**Com s'apliquen aquestes penes, no se sap.** El corpus té el text i cap dada
   d'execució: quantes condemnes, de quina durada, quants arrestos de cap de
-  setmana, quantes expulsions.
+  setmana, quantes expulsions.~~ — **`resolt` el 17-09-2026** amb la **Memòria
+  de la Fiscalia General de l'any judicial 2025**, que és on l'activitat
+  estadística **A071** remet: vegeu
+  [Com s'apliquen de fet](#com-sapliquen-de-fet-2304-penes-principals-i-187-de-fermes).
+  **L'arrest de cap de setmana s'imposa sis vegades l'any.** `La durada de cada
+  condemna no hi consta pena a pena; les expulsions hi surten com a pena
+  complementària o substitutiva i no s'han agregat.`
 - ~~**La presó real no hi surt.** El Codi diu «establiment penitenciari especial
   o unitat separada» i la **llei qualificada penitenciària** és al recull, però
   el corpus encara no l'ha llegida.~~ — **`incorrecte` des del 2026-09-13: sí que
