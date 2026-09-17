@@ -311,7 +311,29 @@ avèria**; i **cent vint cavallons de blat com un metado**
 4b. **Quan es va eixamplar el *metadó de pa***, d'adults no casats a tothom que
    hagi combregat, i amb quina norma. **Prioritari.**
 4c. **Quants metadors hi havia**, que és el que faria calculable tota la
-   recaptació.
+   recaptació. — **`parcial` el 17-09-2026: no el nombre, però sí una liquidació
+   real amb el total i els tipus.** Font: el **Llibre III d'actes del Consell
+   General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   **El 13 de desembre de 1723** el Consell assenta:
+
+   > «se ha pagat **los metedors y averies** que i [ha] agut, **69 lliures, 10
+   > sous, 3**, **contant los metedors a 3 sous quiscun, les averies a quatre
+   > dinés**»
+
+   **Hi ha, doncs, el total d'un any i els dos tipus unitaris**, i **d'això se'n
+   pot treure el volum si es fixa una de les dues quantitats.** **El corpus no
+   la fixa**: **amb una sola equació i dues incògnites, qualsevol repartiment
+   seria inventat.**
+
+   > **Divergència registrada i no arbitrada.** Aquesta fitxa dona, per a l'any
+   > del bisbe, **tres sous per cent caps d'averies** i **tres diners per metador
+   > de bèstia grossa**, i **una equivalència de cinc averies per metadó**.
+   > **L'acta del 1723 dona tres sous per metador i quatre diners per avaria**,
+   > que **fan nou averies per metadó**, **i el metador hi val dotze vegades
+   > més.** **No es pot saber si és un any diferent, una unitat diferent o una
+   > liquidació d'una altra cosa**: **l'acta no ho diu.** `Requereix saber a
+   > quin dels dos anys correspon aquesta liquidació.`
 5. **Quant recaptava** en total. — **`parcial` el 17-09-2026, i per la banda que
    es podia documentar: no el que es recaptava dins, sinó el que se n'havia de
    treure per pagar-la.** Font: les [actes històriques del Consell

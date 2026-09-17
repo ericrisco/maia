@@ -279,6 +279,31 @@ surt d'una ordinació del **jutge Vidal Seré**, «**loqual jutge entonces resid
 la vila de Andorra exercint Corts**», dictada a petició del Consell General i
 **aprovada pel bisbe**.
 
+## El Consell General fixant el canvi, el 1723
+
+**Afegit el 17-09-2026** des del **Llibre III d'actes del Consell General**
+([actes](../../fonts/actes-historiques-consell-general.md)). **No és una taula
+d'historiador: és un acord executiu, amb pena.**
+
+**El 13 de desembre de 1723:**
+
+> «arreste la Vall [que] **de aquesta ora en avant totom prengue la moneda de
+> Fransa comforme corre en Fransa**, que són **les pesetes de franch a vint-y-tres
+> sous**, y **les que valien dos frans, a quaranta-y-sis sous** […] y **la moneda
+> de plata la ajen de pendre, tan vella com nova** […] **de aquí tinguen altre
+> avís del síndich**. Y los cònsols que o fàcien manar cada un en ses
+> parròquies **en pena del cot de la Terra**.»
+
+**Quatre coses.** **Que el criteri no és andorrà**: la moneda francesa val el que
+val a França. **Que el canvi s'imposa a tothom sota pena**, no es recomana.
+**Que la plata s'ha d'acceptar «tan vella com nova»**, que és la mesura contra
+qui tria les peces bones. **I que la vigència dura «fins que tinguen altre avís
+del síndich»**: **el síndic general podia refixar el canvi tot sol.**
+
+> **Avís de lectura**: el passatge conté també una tarifa per a les **lluïses**
+> que **el bolcat a dues columnes talla**, i **el corpus no la transcriu**
+> perquè no la pot llegir sencera. `Requereix la pàgina impresa.`
+
 ## Buits registrats
 
 1. **La taula de monedes de la pàgina 20**, contra l'imprès. **Prioritari.** —
