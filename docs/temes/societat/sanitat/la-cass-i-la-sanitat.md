@@ -168,6 +168,41 @@ els fa necessaris és **que hi ha gent que creua cada dia per treballar**, i el
 mecanisme que hi construeixen —el dret d'opció del fronterer— **només té sentit en
 una frontera terrestre**.
 
+## Quant hi posa el Govern, el 2026
+
+**59.464.161,61 euros.** És el subconcepte **41112, «Caixa Andorrana de
+Seguretat Social»**, del llibre del pressupost
+(`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`), i **la llei
+n'explica el títol**:
+
+> per atendre **«les despeses a càrrec del Govern del sistema de seguretat
+> social»**, d'acord amb els **articles 86.3 i 220.6 de la Llei 17/2008, del 3
+> d'octubre, de la seguretat social.**
+
+| D'on surt | 2026 |
+| --- | ---: |
+| Ministeri de **Salut** | **58.917.400,61 €** |
+| Programa **PR0253. Polítiques d'Igualtat** *(no exclusió social)* | **546.761,00 €** |
+| **Total** | **59.464.161,61 €** |
+
+`Comprovació del corpus.` **Les dues partides sumen exactament el total del
+subconcepte.**
+
+### És la transferència més gran del pressupost andorrà
+
+**Cap altra partida de transferència del pressupost del 2026 no arriba als
+59,5 milions.** Les que la segueixen són **les transferències als comuns (49,4
+M€)** i **la Fundació Nostra Senyora de Meritxell (13,4 M€)**
+([què aprova el pressupost](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)).
+
+**I explica la forma del Ministeri de Salut.** Dels seus **121,4 milions**,
+**110,3 són transferències corrents** —el 90,9%— i **només 2,7 van a personal**.
+**El Ministeri de Salut andorrà gairebé no té plantilla: el seu pressupost és,
+sobretot, el que passa a la CASS i al SAAS.**
+
+`El corpus registra el que la xifra NO diu: no és el pressupost de la CASS, que
+es finança principalment amb cotitzacions. És la part que hi posa el Govern.`
+
 ## Buits registrats
 
 - Tancat el buit genèric «la CASS mateixa no s’ha obert»: la
