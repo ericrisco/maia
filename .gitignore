@@ -51,3 +51,8 @@ docs/raw/llengua-usos-linguistics/pages-2009/
 docs/raw/llengua-usos-linguistics/pages-2022/
 docs/raw/llibres/brutails-ia/*.pdf
 docs/raw/llibres/brutails-ia/*.djvu
+
+# Els PDF de les actes històriques del Consell General no es versionen (R014):
+# 26 MB de binaris. El text extret sí que hi és, a docs/raw/consell-general/
+# actes-historiques/text/, que és el que el corpus cita.
+docs/raw/consell-general/actes-historiques/**/*.pdf

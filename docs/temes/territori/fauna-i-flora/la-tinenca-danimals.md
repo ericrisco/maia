@@ -101,9 +101,39 @@ climàtiques fortes» (article 5.4).
 
 ## Buits registrats
 
-- **Els animals de renda** tenen capítol propi (títol III, capítol segon) i
-  **no s'ha llegit**.
-- **La fauna salvatge** (títol IV) tampoc.
+- ~~**Els animals de renda** tenen capítol propi (títol III, capítol segon) i
+  **no s'ha llegit**.~~ — **`resolt` el 17-09-2026**, llegit al material que el
+  corpus ja tenia (`docs/raw/lleis/tinenca-animals.txt`). **Són dos articles i
+  el segon és el que importa.**
+
+  **L'article 27 no crea règim propi: hi estén el general.** Les condicions
+  higièniques, sanitàries i de tracte dels títols I i II **s'apliquen igual** al
+  bestiar, i s'hi afegeixen sis requisits per a corts i estables —**zona
+  protegida del medi exterior, ventilació, dimensions mínimes per animal en
+  superfície i alçada, tanques que evitin fugues sense fer mal, i aigua potable
+  a pressió** per a les espècies que ho requereixin.
+
+  **L'article 28 crea el Padral**, i **el corpus no tenia aquest mot**:
+
+  > «**El Padral és el registre d'animals de renda** que es crien a les
+  > explotacions que es troben dins el territori del Principat d'Andorra.»
+
+  **S'adscriu al Departament d'Agricultura**, i la llei repeteix dues vegades
+  **«sense perjudici del Padral dels comuns respectius»**. **Hi ha un padral
+  nacional i set de comunals, i la llei no els fusiona: els superposa.**
+  **Tot animal de renda s'ha de registrar als dos.**
+- ~~**La fauna salvatge** (títol IV) tampoc.~~ — **`resolt` el 17-09-2026.**
+  **L'article 29 prohibeix quatre coses i la quarta és la que sorprèn:**
+  **molestar intencionalment la fauna salvatge** —especialment en reproducció,
+  dependència i hibernació—; **capturar, prendre, transportar, vendre i comprar
+  nius, ous i cries** d'espècies autòctones; **capturar exemplars amb finalitat
+  comercial, d'exhibició o de cria en captivitat**; i **exigir autorització del
+  ministeri per a «les activitats audiovisuals, científiques, esportives i de
+  lleure» que puguin afectar la fauna autòctona.**
+
+  **La quarta converteix una excursió o un rodatge en una activitat
+  autoritzable.** **El reglament ha de fixar les condicions «basant-se en el
+  grau d'amenaça» de cada espècie** —i **aquest reglament no és al corpus.**
 - **Les sancions** i la taxa d'autoritzacions queden pendents.
 - **Quantes autoritzacions d'entrada i sortida es donen**, no consta.
 - **Si hi ha obligació d'identificació i registre** dels animals de companyia

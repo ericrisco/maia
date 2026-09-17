@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**999** documents · **205** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**999** documents · **206** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1623,6 +1623,7 @@
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
 | [`acta-junta-govern-escaldes-2025`](fonts/acta-junta-govern-escaldes-2025.md) | Comú d'Escaldes-Engordany | acta formalitzada d'una administració comunal andorrana; document públic | pendent |
+| [`actes-historiques-consell-general`](fonts/actes-historiques-consell-general.md) | Consell General del Principat d'Andorra | Publicacio institucional en obert, sense llicencia declarada als llibres d'actes. La sintesi de Guillamet (2024) SI que porta prohibicio expressa de reproduccio. | pendent |
 | [`allaus-ad`](fonts/allaus-ad.md) | Fundació Privada del Sector Públic Andorra Recerca i Innovació | drets reservats; reutilització sotmesa a autorització expressa | no |
 | [`allen-punt-de-vista-angles-1997`](fonts/allen-punt-de-vista-angles-1997.md) | Desmond Allen · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`anaesports`](fonts/anaesports.md) | Agència de Notícies Andorrana (ANA) | drets reservats · citació breu amb atribució | False |
