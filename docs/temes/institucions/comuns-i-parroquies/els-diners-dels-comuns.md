@@ -150,8 +150,48 @@ el 38% és difícil de moure.
   **I el primer punt és una sanció encoberta**: **un comú que perdoni un impost
   comunal, encara que sigui posant-lo a zero, perd el punt.** **La llei de
   transferències disciplina la política fiscal comunal sense prohibir-li res.**
-- **La [Llei de les finances comunals](../justicia/el-dret-vigent.md)** (Llei
+- ~~**La [Llei de les finances comunals](../justicia/el-dret-vigent.md)** (Llei
   36/2021, 115 articles), que regula com gasten aquests diners, és al recull i
-  **queda per llegir**.
+  **queda per llegir**.~~ — **`parcial` el 17-09-2026**: llegida al
+  [BOPA](../../../fonts/bopa.md), butlletí **1 del 2022**
+  (`docs/raw/lleis/bopa/llei-36-2021-finances-comunals.txt`). **S'ha buidat el
+  que aquesta fitxa necessitava —els límits— i no els cent quinze articles.**
+
+  **El sostre de l'endeutament comunal és una proporció, no una xifra**
+  (article 56):
+
+  | | |
+  | --- | --- |
+  | **Deute total** | **no pot passar del 200% de la mitjana dels ingressos totals liquidats dels tres anys anteriors**, **excloent-ne el que vingui d'endeutament i de vendre patrimoni** |
+  | **Deute a curt termini** | **màxim el 40%** de la mateixa mitjana |
+  | **Si se supera** | **el comú no pot formalitzar cap operació d'endeutament net**, i **cal formular i aprovar un pla d'equilibri financer** |
+
+  **I el preàmbul declara un canvi que val la pena retenir**: **la llei
+  **elimina el sostre del 20% sobre els ingressos** que hi havia per a la
+  càrrega financera anual**, i **el substitueix per l'obligació de fer un Pla
+  Econòmic Financer si es passa del màxim d'endeutament.** **Es passa d'un
+  límit a la quota anual a un límit al deute acumulat.**
+
+  **Què passa si un comú tanca en negatiu** (article 91): **el Ple, a la primera
+  sessió, ha de retallar despesa del nou pressupost per l'import exacte del
+  dèficit**; **si no pot retallar, pot endeutar-se per la mateixa quantitat
+  dins dels límits de dalt**; i **si no fa ni una cosa ni l'altra, el pressupost
+  de l'any següent s'ha d'aprovar amb un superàvit inicial no inferior al
+  dèficit.** **Les tres sortides tanquen el forat; cap no permet deixar-lo
+  obert.**
+
+  **I tres límits més que la llei posa a la fiscalitat comunal**, per si serveix
+  a [els tributs propis](../../economia/banca-i-fiscalitat/els-altres-impostos.md):
+  **les contribucions especials no poden passar del 90% del cost efectiu de
+  l'obra**; **l'impost sobre rendiments arrendataris va del 0,1% al 4%, a fixar
+  per ordinació de cada comú**; i **els tipus de l'impost de radicació no poden
+  ser inferiors al 0,50% ni superiors al 3%.**
+
+  **Amb una bonificació que és una política i no una tècnica**: **el 100% de la
+  quota per a les activitats agrícoles i ramaderes** —**apicultura inclosa**—
+  **sempre que el titular consti al Registre d'Explotacions Agràries.**
+
+  `Requereix la resta dels cent quinze articles; el que s'ha llegit són els
+  límits d'endeutament, el tancament en dèficit i els topalls dels tributs.`
 - **Els tributs propis dels comuns** —que l'article 80.2 de la Constitució els
   reserva, incloent-hi els «tributs tradicionals»— són una altra fitxa.
