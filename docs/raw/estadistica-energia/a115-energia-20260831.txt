@@ -1,0 +1,624 @@
+                                A115. Estadística de l’energia. Juliol del 2026
+                                    Data de publicació: dilluns, 31/08/2026
+                                             www.estadistica.ad
+
+
+
+
+         Resum
+
+         La demanda d’energia a Andorra durant el mes de juliol del 2026 ha estat de 41.566,0 MWh
+         (megawatts hora), un +5,8% respecte al mateix mes de l’any anterior. A més, hi ha hagut una
+         demanda elèctrica acumulada de 345.820,0 MWh de gener a juliol (+0,2%) i de 584.806,0 MWh
+         durant els darrers 12 mesos, xifra que representa una variació del +1,3% respecte al mateix
+         període anterior.
+
+         Pel que fa a les dades expressades en tones equivalents de petroli (TEP), la demanda total del
+         mes de juliol ha estat de 14.336,5 TEP, amb una variació interanual del -0,7%. D’altra banda, la
+         demanda acumulada de gener a juliol se situa en 111.795,2 TEP (-5,0%), mentre que el
+         consum acumulat durant els darrers 12 mesos ha estat de 195.506,8 TEP, amb una variació
+         del -2,7% respecte al mateix període anterior.
+
+         Quant a la demanda dels clients de FEDA, la demanda total pel mes de juliol del 2026
+         ascendeix a 27.839,2 MWh, amb una variació del +8,6% respecte al mateix mes de l’any 2025.
+         Quant a l’acumulat de gener fins al juliol, ha sigut de 220.900,9 MWh, un +1,3% respecte al
+         mateix període de l’any anterior. Pel que fa a les dades acumulades durant els darrers 12
+         mesos, la demanda ha estat de 373.671,7 MWh, xifra que suposa una variació positiva de
+         l’1,6% respecte a la dada acumulada del mateix període anterior.
+
+
+
+
+NP_A115_20260831                                                                                        Pàgina 1 de 12
+                                             A115. Estadística de l’energia. Juliol del 2026
+
+
+
+
+         Índex
+
+
+
+         1. Demanda d’energia nacional (dades originals) ........................................................................ 3
+           1.1. Demanda d’energia elèctrica en MWh ................................................................................ 3
+           1.2. Demanda d’energia en TEP ................................................................................................ 4
+         2. Demanda per activitat econòmica (només clients de FEDA) .................................................. 5
+         3. Demanda d’energia (dades ajustades) .................................................................................... 7
+         4. Gràfics ...................................................................................................................................... 8
+         5. Nota metodològica ................................................................................................................. 11
+         6. Dates de les publicacions previstes ....................................................................................... 12
+
+
+
+
+NP_A115_20260831                                                                                                                                          Pàgina 2 de 12
+                                    A115. Estadística de l’energia. Juliol del 2026
+
+
+         1. Demanda d’energia nacional (dades originals)
+
+             1.1. Demanda d’energia elèctrica en MWh
+
+         En el mes de juliol del 2026, la demanda total d’energia al país ha estat de 41.566,0 MWh
+         (megawatts hora), dada que suposa una variació positiva del 5,8% respecte al mateix mes de
+         l’any passat. Quant a la importació d’energia, les dades de juliol, amb 33.747,0 MWh, mostren
+         un creixement del 15,1% respecte al mateix mes del 2025. Pel que fa a l’energia produïda a
+         Andorra, presenta una variació interanual negativa del 21,5%.
+
+
+                                                                                         Variació
+               Energia (MWh)                                 jul-25          jul-26                      Variació
+                                                                                         absoluta
+               Producció                                   9.956,0        7.820,0           -2.136         -21,5%
+               Importació                                 29.321,0       33.747,0            4.426          15,1%
+               Demanda                                    39.273,0       41.566,0            2.293           5,8%
+               Nota: dades mesurades en línies d’alta tensió (B 110kV)
+               La demanda inclou producció, importació i exportació (en negatiu). Les dades d'exportació no es mostren
+               perquè no són representatives.
+
+
+         Respecte a les dades acumulades dels set primers mesos de l’any 2026, la demanda ha estat
+         de 345.820,0 MWh, la qual cosa suposa una variació del +0,2% respecte al mateix període de
+         l’any anterior. D’aquesta demanda, 248.454,0 MWh han estat importats, reflectint una variació
+         interanual del -2,4%, mentre que 97.377,0 MWh han estat produïts al país, un 7,4% més
+         respecte al mateix període de l’any anterior.
+
+
+                                                       gen 2025 a gen 2026 a             Variació
+               Energia (MWh)                                                                             Variació
+                                                         jul 2025   jul 2026             absoluta
+               Producció                                 90.644,0        97.377,0          6.733,0           7,4%
+               Importació                               254.691,0       248.454,0         -6.237,0          -2,4%
+               Demanda                                  345.247,0       345.820,0            573,0           0,2%
+               Nota: dades mesurades en línies d’alta tensió (B 110kV)
+               La demanda inclou producció, importació i exportació (en negatiu). Les dades d'exportació no es mostren
+               perquè no són representatives.
+
+
+
+         Pel que fa a les dades acumulades al llarg dels darrers 12 mesos, la demanda elèctrica ha
+         estat de 584.806,0 MWh, la qual cosa suposa un augment de l’1,3% respecte al mateix període
+         anterior. D’aquesta demanda, 442.147,0 MWh han estat importats, reflectint una variació
+         interanual negativa del 0,9%, mentre que 142.692,0 MWh han estat produïts al país, un +8,7%
+         respecte al mateix període anterior.
+
+                                                       ago 2024 a ago 2025 a             Variació
+               Energia (MWh)                                                                             Variació
+                                                         jul 2025   jul 2026             absoluta
+               Producció                                131.231,0       142.692,0        11.461,0            8,7%
+               Importació                               446.286,0       442.147,0        -4.139,0           -0,9%
+               Demanda                                  577.412,0       584.806,0         7.394,0            1,3%
+               Nota: dades mesurades en línies d’alta tensió (B 110kV)
+               La demanda inclou producció, importació i exportació (en negatiu). Les dades d'exportació no es mostren
+               perquè no són representatives.
+
+
+
+
+NP_A115_20260831                                                                                                         Pàgina 3 de 12
+                                      A115. Estadística de l’energia. Juliol del 2026
+
+
+            1.2. Demanda d’energia en TEP
+
+         La demanda d’energia al país, expressada en tones equivalents de petroli (TEP), durant el mes
+         de juliol ha estat de 14.336,5 TEP, el que representa una variació percentual negativa del 0,7%
+         respecte al mes de juliol de l’any anterior. Els grups amb dades significatives que presenten
+         variacions positives respecte al mateix mes del 2025 són "Propà" amb un +51,1% i "Electricitat"
+         amb un +6,8%. D'altra banda, "Gasolina" amb un -5,7%, "Gasoil locomoció" amb un -2,4% i
+         "Fuel domèstic" amb un -1,9% presenten variacions negatives destacables.
+
+                   Demanda d'energia en TEP                                    Variació
+                                                         jul-25       jul-26               Variació
+                   (Dades mensuals)                                            absoluta
+                   Electricitat                         3.347,5     3.574,7       227,2       6,8%
+                   Gasolina                             3.161,3     2.981,8      -179,5      -5,7%
+                   Gasoil locomoció                     6.990,8     6.823,8      -167,0      -2,4%
+                   Fuel domèstic                          810,2       795,1       -15,1      -1,9%
+                   Butà                                    23,0        10,0       -13,0     -56,5%
+                   Propà                                   94,0       142,0        48,0      51,1%
+                   Carbó                                    8,0         9,0         1,0      12,5%
+                   Total                               14.434,8    14.336,5       -98,3      -0,7%
+
+
+         De gener a juliol del 2026 hi ha hagut una demanda d'energia en TEP de 111.795,2 és a dir, un
+         -5,0% respecte al mateix període de l'any 2025. L'únic grup amb dades significatives que
+         presenta una variació positiva respecte al mateix període del 2025 és "Electricitat" amb un
+         +0,5%. D’altra banda, presenten variacions negatives respecte al mateix període de l’any
+         anterior: “Gasoil locomoció” amb un -9,0%, “Gasolina” amb un -5,3% i “Fuel domèstic” amb un
+         -4,0%.
+
+                   Demanda d'energia en TEP         gen 2025 a gen 2026 a      Variació
+                                                                                           Variació
+                   (Dades acumulades)                 jul 2025   jul 2026      absoluta
+                   Electricitat                       29.589,2   29.740,5          151,4      0,5%
+                   Gasolina                           18.410,3   17.428,3         -982,0     -5,3%
+                   Gasoil locomoció                   43.603,2   39.678,7       -3.924,5     -9,0%
+                   Fuel domèstic                      24.620,2   23.633,7         -986,5     -4,0%
+                   Butà                                  183,0       91,0          -92,0    -50,3%
+                   Propà                               1.180,0    1.172,0           -8,0     -0,7%
+                   Carbó                                  51,0       51,0            0,0      0,0%
+                   Total                             117.636,8  111.795,2       -5.841,6     -5,0%
+
+
+         Pel que fa a les dades acumulades al llarg dels darrers 12 mesos, la demanda d’energia ha
+         estat de 195.506,8 TEP, fet que suposa una variació percentual negativa respecte al mateix
+         període anterior del 2,7%. Els grups que presenten variacions positives respecte al mateix
+         període anterior són "Electricitat" amb un +1,4% i "Fuel domèstic" amb un +0,1%. En canvi,
+         "Gasoil locomoció" amb un -7,4% i "Gasolina" amb un -1,5% presenten variacions negatives
+         destacables.
+
+
+                   Demanda d'energia en TEP         ago 2024 a ago 2025 a      Variació
+                                                                                           Variació
+                   (Dades acumulades)                 jul 2025   jul 2026      absoluta
+                   Electricitat                       49.555,4   50.231,5          676,1      1,4%
+                   Gasolina                           31.777,8   31.287,0         -490,8     -1,5%
+                   Gasoil locomoció                   76.199,9   70.533,0       -5.666,8     -7,4%
+                   Fuel domèstic                      41.198,5   41.243,4           44,9      0,1%
+                   Butà                                  291,0      188,0         -103,0    -35,4%
+                   Propà                               1.888,0    1.923,0           35,0      1,9%
+                   Carbó                                  85,0      101,0           16,0     18,8%
+                   Total                             200.995,5  195.506,8       -5.488,6     -2,7%
+
+
+
+
+NP_A115_20260831                                                                                       Pàgina 4 de 12
+                                  A115. Estadística de l’energia. Juliol del 2026
+
+
+         2. Demanda per activitat econòmica (només clients de FEDA)
+
+         La demanda d’energia elèctrica dels clients de FEDA durant el mes de juliol ha estat de
+         27.839,2 MWh, la qual cosa suposa una variació del +8,6% respecte al mes de juliol de l’any
+         anterior. Segons l’activitat econòmica, destaquen l’increment de ”Distribució” i “Altres serveis”
+         amb un +16,4% i un +13,2%, respectivament. D’altra banda, la variació negativa més notòria és
+         per a “Estacions d’esquí” amb un -18,5%.
+
+
+                   Demanda d'energia elèctrica                              Variació
+                                                      jul-25      jul-26                 Variació
+                   (MWh) (Clients FEDA)                                     absoluta
+                   Usos domèstics                   7.787,6      8.186,6       398,9         5,1%
+                   Construcció i annexes              197,4        219,8        22,4        11,4%
+                   Indústries                       1.527,7      1.550,2        22,5         1,5%
+                   Distribució                      4.782,3      5.567,0       784,6        16,4%
+                   Hoteleria i restauració          5.700,9      6.236,1       535,2         9,4%
+                   Serveis financers                1.227,4      1.385,1       157,7        12,8%
+                   Altres serveis                   1.053,9      1.193,5       139,6        13,2%
+                   Enllumenat públic                  300,0        287,7       -12,3        -4,1%
+                   Estacions esquí                    341,1        277,9       -63,2       -18,5%
+                   Administracions                  2.722,0      2.935,3       213,3         7,8%
+                   Total                           25.640,5     27.839,2     2.198,7         8,6%
+
+
+         De gener a juliol del 2026 hi ha hagut una demanda d’energia elèctrica de 220.900,9 MWh, la
+         qual cosa suposa una variació positiva de l’1,3% respecte al mateix període de l’any 2025.
+         Destaquen especialment l’increment de “Serveis financers” i “Distribució” amb un +7,1% i un
+         +5,0%, respectivament. D’altra banda, la variació negativa més remarcable és per a “Estacions
+         d’esquí” amb un -17,6%.
+
+
+                   Demanda d'energia elèctrica   gen 2025 a gen 2026 a      Variació
+                                                                                         Variació
+                   (MWh) (Clients FEDA)            jul 2025   jul 2026      absoluta
+                   Usos domèstics                  75.713,2   77.938,7        2.225,5        2,9%
+                   Construcció i annexes            2.244,8    2.231,2          -13,6       -0,6%
+                   Indústries                       9.901,4    9.714,2         -187,1       -1,9%
+                   Distribució                     34.570,1   36.296,9        1.726,8        5,0%
+                   Hoteleria i restauració         41.550,2   42.243,9          693,8        1,7%
+                   Serveis financers                9.101,9    9.750,8          649,0        7,1%
+                   Altres serveis                   8.493,7    8.834,8          341,0        4,0%
+                   Enllumenat públic                2.426,8    2.392,7          -34,1       -1,4%
+                   Estacions esquí                 13.394,4   11.040,4       -2.354,0      -17,6%
+                   Administracions                 20.628,8   20.457,1         -171,7       -0,8%
+                   Total                          218.025,2  220.900,9        2.875,7        1,3%
+
+
+
+
+NP_A115_20260831                                                                                         Pàgina 5 de 12
+                                  A115. Estadística de l’energia. Juliol del 2026
+
+
+         Pel que fa a les dades acumulades al llarg dels darrers 12 mesos, la demanda ha estat de
+         373.671,7 MWh, el que equival a una variació percentual positiva de l’1,6% respecte al mateix
+         període anterior. Per activitats econòmiques, les variacions positives més notòries són: “Serveis
+         financers” i “Distribució” amb un +3,2% i un +2,4%, respectivament. La variació negativa més
+         notòria ha estat per a “Estacions d’esquí” amb un -15,4%.
+
+
+                   Demanda d'energia elèctrica   ago 2024 a ago 2025 a      Variació
+                                                                                         Variació
+                   (MWh) (Clients FEDA)            jul 2025   jul 2026      absoluta
+                   Usos domèstics                 134.667,6  131.150,9       -3.516,7       -2,6%
+                   Construcció i annexes            3.717,8    3.630,8          -87,0       -2,3%
+                   Indústries                      16.867,1   17.195,3          328,3        1,9%
+                   Distribució                     59.444,2   60.862,8        1.418,6        2,4%
+                   Hoteleria i restauració         71.137,4   71.089,3          -48,1       -0,1%
+                   Serveis financers               15.838,1   16.345,1          507,0        3,2%
+                   Altres serveis                  14.844,6   14.836,7           -7,9       -0,1%
+                   Enllumenat públic                4.457,5    4.324,4         -133,1       -3,0%
+                   Estacions esquí                 21.417,7   18.127,2       -3.290,5      -15,4%
+                   Administracions                 35.355,1   36.109,2          754,0        2,1%
+                   Total                          367.773,7  373.671,7        5.897,9        1,6%
+
+
+
+
+NP_A115_20260831                                                                                         Pàgina 6 de 12
+                                      A115. Estadística de l’energia. Juliol del 2026
+
+
+         3. Demanda d’energia (dades ajustades)
+
+         La demanda d’energia nacional, amb dades ajustades, un cop eliminades les variacions
+         causades pels efectes del calendari i del període de l’any en què ens trobem, presenta una
+         tendència a l'alça en els darrers cinc mesos, situant-se en un +0,4%.
+
+
+            Demanda d'energia en TEP
+                                                      feb-26      mar-26       abr-26      mai-26        jun-26       jul-26
+            (Dades ajustades)
+            Electricitat                               -0,7%       -0,5%         0,0%         0,4%        0,7%         0,7%
+            Gasolina                                   -0,2%       -0,3%        -0,2%        -0,2%       -0,1%         0,1%
+            Gasoil locomoció                           -0,5%       -0,4%        -0,3%        -0,3%       -0,3%        -0,3%
+            Fuel domèstic                              -0,8%       -0,9%        -1,1%        -1,0%       -0,7%        -0,3%
+            Butà                                       -5,0%       -4,0%        -2,6%        -1,0%        0,3%         1,2%
+            Propà                                      -0,5%       -0,7%        -0,6%        -0,4%       -0,1%         0,3%
+            Carbó                                      -3,5%       -3,7%        -3,4%        -2,6%       -1,3%         0,1%
+            Total                                      -0,8%       -0,7%        -0,5%        -0,2%        0,1%         0,4%
+            Nota: Les dades ajustades estacionalment donen una visió complementària de l’evolució mensual de les
+            dades, sense la influència dels festius, ponts o altres efectes estacionals i de calendari. Les sèries ajustades
+            estacionalment s’han calculat utilitzant una metodologia harmonitzada. Vegeu la nota metodològica al final.
+
+
+
+         La demanda d’energia de clients de FEDA per activitat econòmica amb dades ajustades, un
+         cop eliminades les variacions causades pels efectes del calendari i del període de l’any en què
+         ens trobem, presenta una tendència estable en el darrer mes i es manté en un +0,5%.
+
+
+             Demanda d'energia en TEP
+                                                      feb-26      mar-26       abr-26      mai-26       jun-26        jul-26
+             (Dades ajustades)
+             Usos domèstics                             2,2%        1,1%         0,0%        -0,8%       -1,5%        -2,1%
+             Construcció i annexes                      3,3%        0,5%        -1,0%        -1,3%       -0,2%         1,4%
+             Indústries                                -0,4%       -0,2%         0,0%         0,3%        0,5%         0,6%
+             Distribució                                1,0%        0,4%        -0,1%        -0,2%       -0,3%        -0,7%
+             Hoteleria i restauració                    0,6%        0,4%         0,1%        -0,2%       -0,4%        -0,6%
+             Serveis financers                          0,9%        0,7%         0,4%         0,2%       -0,1%        -0,3%
+             Altres serveis                             0,1%        0,0%         0,3%         0,8%        1,3%         1,4%
+             Enllumenat públic                         -8,3%        0,8%         0,5%         0,3%        0,2%         0,0%
+             Estacions esquí                            0,2%        0,7%         1,0%         1,1%        1,0%         0,6%
+             Administracions                           -1,1%       -1,4%        -1,2%        -0,8%       -0,3%         0,2%
+
+             Total                                     -0,5%       -0,3%         0,0%         0,3%        0,5%         0,5%
+            Nota: Les dades ajustades estacionalment donen una visió complementària de l’evolució mensual de les
+            dades, sense la influència dels festius, ponts o altres efectes estacionals i de calendari. Les sèries ajustades
+            estacionalment s’han calculat utilitzant una metodologia harmonitzada. Vegeu la nota metodològica al final.
+
+
+
+
+NP_A115_20260831                                                                                                               Pàgina 7 de 12
+                                                                A115. Estadística de l’energia. Juliol del 2026
+
+
+         4.Gràfics
+
+
+
+                                                                                                 Evolució de la demanda total d'energia
+
+               25.000
+
+
+
+               22.000
+
+
+
+               19.000
+
+
+         TEP
+               16.000
+
+
+
+               13.000
+
+
+
+               10.000
+
+                        jul-22    set-22    nov-22     gen-23     mar-23     mai-23
+                                                                                        jul-23      set-23      nov-23      gen-24      mar-24       mai-24
+                                                                                                                                                                  jul-24       set-24   nov-24    gen-25    mar-25    mai-25
+                                                                                                                                                                                                                               jul-25       set-25       nov-25       gen-26      mar-26      mai-26
+                                                                                                                                                                                                                                                                                                          jul-26
+
+
+
+               Demanda total d'energia en TEP (dades originals)                                                                                  Demanda total d'energia en TEP (dades ajustades estacionalment)
+
+
+
+
+                                                                           Evolució de la demanda total d'energia elèctrica
+               75.000
+
+               70.000
+
+               65.000
+
+               60.000
+
+               55.000
+
+         MWh
+               50.000
+
+               45.000
+
+               40.000
+
+               35.000
+
+               30.000
+
+               25.000
+
+                         jul-22    set-22     nov-22     gen-23     mar-23     mai-23
+                                                                                           jul-23      set-23      nov-23      gen-24       mar-24       mai-24
+                                                                                                                                                                      jul-24       set-24    nov-24    gen-25    mar-25    mai-25
+                                                                                                                                                                                                                                        jul-25       set-25       nov-25       gen-26      mar-26      mai-26
+                                                                                                                                                                                                                                                                                                                   jul-26
+
+
+               Demanda total d'energia elèctrica (dades originals)                                                                                    Demanda total d'energia elèctrica (dades ajustades estacionalment)
+
+
+
+
+NP_A115_20260831                                                                                                                                                                                                                                                                                                Pàgina 8 de 12
+                                                                        A115. Estadística de l’energia. Juliol del 2026
+
+
+                                                                                                        Evolució de la demanda de gasolina
+               4.000
+
+               3.500
+
+               3.000
+
+               2.500
+
+               2.000
+         TEP
+               1.500
+
+               1.000
+
+                500
+
+                   0
+
+                                                           gen-23                                                            gen-24                                                           gen-25                                                      gen-26
+                       jul-22      set-22                                                   jul-23     set-23                                                 jul-24     set-24                                             jul-25    set-25                                            jul-26
+                                               nov-22                 mar-23     mai-23                           nov-23                mar-24     mai-24                           nov-24              mar-25    mai-25                        nov-25              mar-26    mai-26
+
+
+                                                  Gasolina (dades originals)                                                                                       Gasolina (dades ajustades estacionalment)
+
+
+
+
+                                                                                             Evolució de la demanda de gasoil locomoció
+               10.000
+
+
+
+
+                8.000
+
+
+
+
+                6.000
+         TEP
+
+
+
+                4.000
+
+
+
+
+                2.000
+
+                          jul-22      set-22      nov-22     gen-23     mar-23     mai-23
+                                                                                              jul-23     set-23     nov-23     gen-24     mar-24     mai-24
+                                                                                                                                                                jul-24     set-24    nov-24    gen-25    mar-25    mai-25
+                                                                                                                                                                                                                             jul-25    set-25    nov-25    gen-26    mar-26    mai-26
+                                                                                                                                                                                                                                                                                        jul-26
+
+
+
+                                     Gasoil locomoció (dades originals)                                                                                       Gasoil locomoció (dades ajustades estacionalment)
+
+
+
+
+NP_A115_20260831                                                                                                                                                                                                                                                                         Pàgina 9 de 12
+                                                           A115. Estadística de l’energia. Juliol del 2026
+
+
+
+                                                                                      Evolució de la demanda de fuel domèstic
+               9.000
+
+               8.000
+
+               7.000
+
+               6.000
+
+               5.000
+
+         TEP   4.000
+
+               3.000
+
+               2.000
+
+               1.000
+
+                   0
+
+                                                  gen-23                                                 gen-24                                                gen-25                                                gen-26
+                       jul-22   set-22                                       jul-23    set-23                                       jul-24   set-24                                       jul-25   set-25                                       jul-26
+                                         nov-22            mar-23   mai-23                      nov-23            mar-24   mai-24                     nov-24            mar-25   mai-25                     nov-25            mar-26   mai-26
+
+
+                                     Fuel domèstic (dades originals)                                                                  Fuel domèstic (dades ajustades estacionalment)
+
+
+
+
+NP_A115_20260831                                                                                                                                                                                                                                Pàgina 10 de 12
+                                   A115. Estadística de l’energia. Juliol del 2026
+
+
+         5. Nota metodològica
+
+             •     Font. Dades generades i enviades amb periodicitat mensual per FEDA i pel
+                   Departament de Duana, tractades i revisades pel Departament d’Estadística del
+                   Govern d’Andorra i disponibles al web www.estadistica.ad, en el banc de dades dins de
+                   l’apartat Estadístiques sectorials/Energia.
+
+             •     Definicions. La demanda per a les diferents fonts d’energia s’expressa en magnitud
+                   T.E.P. (tones equivalents de petroli). Per a la realització de la conversió a TEP de les
+                   magnituds originals de les fonts tractades, s’utilitza la taula d’equivalències proposada
+                   per l’OCDE, d’on resulten els factors de conversió següents:
+
+                               ▪    Electricitat = 0,086 TEP/MWh
+                               ▪    Gasolina = 0,74 kg/litre i 1,10 TEP/tona
+                               ▪    Gasoil = 0,84 kg/litre i 1,12 TEP/tona
+                               ▪    Fuel domèstic = 0,84 kg/litre i 1,11 TEP/tona
+                               ▪    Butà = 1,05 TEP/tona
+                               ▪    Propà = 1,05 TEP/tona
+                               ▪    Carbó = 0,26 TEP/tona
+
+                   Per expressar la demanda d’energia elèctrica s’utilitza la magnitud MWh (megawatts
+                   hora). L’energia elèctrica consumida al país està distribuïda per FEDA, tot i que una
+                   part és subministrada per altres companyies de distribució.
+
+             •     Metodologies i referències metodològiques.
+
+                   Càlcul de les sèries mensuals ajustades estacionalment: a partir del mes de
+                   desembre del 2010, i per tal d’adaptar-se als formats i les metodologies de càlcul amb
+                   estàndards internacionals, el Departament d’Estadística aplica la desestacionalització
+                   de totes les sèries mensuals basada en la metodologia X12 ARIMA de l’Eurostat i de
+                   l’US Census Bureau. Aquesta metodologia permet estimar la sèrie ajustada de l’efecte
+                   del calendari i efectes estacionals per tal de poder comparar les dades mensuals amb
+                   mesos d’anys anteriors (per exemple, no s’haurien de comparar les dades originals
+                   d’un mes de juliol amb Setmana Santa amb el mateix mes de juliol sense Setmana
+                   Santa, o no serien comparables les xifres d’un mes amb cinc caps de setmana i les
+                   xifres del mateix mes d’un altre any amb quatre caps de setmana).
+
+                   Els valors resultants són estimacions provisionals, subjectes als ajustaments en funció
+                   de l’evolució dels nous valors mensuals de la sèrie. Per a més detall de la informació
+                   es pot consultar la nota metodològica a la pàgina web https://bit.ly/3addfLD.
+
+                   Referències metodològiques:
+
+                   Eurostat:
+                   L’Eurostat (en anglès: Statistical Office of the European Communities) és
+                   l’oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+                   Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+                   https://joinup.ec.europa.eu/software/demetraplus/description
+
+                   US Census Bureau:
+                   L'Oficina del Cens dels Estats Units (de l’anglès United States Census Bureau) forma
+                   part del Departament de Comerç dels Estats Units. És l’organisme governamental que
+                   s’encarrega principalment dels censos de població als Estats Units, amb l’objectiu de
+                   proporcionar dades sobre població i economia. http://www.census.gov
+
+
+
+
+NP_A115_20260831                                                                                          Pàgina 11 de 12
+                                   A115. Estadística de l’energia. Juliol del 2026
+
+
+
+             •     Altres consideracions.
+
+                   Nota. La classificació d'activitats econòmiques mostra una distribució atribuïble només
+                   a les parròquies de Canillo, Encamp (excepte el Pas de la Casa), Andorra la Vella i
+                   Escaldes-Engordany. La demanda dels clients de FEDA sumat al facturat a "altres
+                   distribuïdores" no coincideix amb el total de la Demanda d'Andorra ja que es mesura en
+                   punts diferents de la xarxa elèctrica.
+
+                   Nota. En data 27 de juliol del 2017 s'han recalculat les sèries històriques del Banc de
+                   dades donat que les conversions en TEP s'han modificat.
+                   En data 21 de juliol del 2022 s’han modificat el tractament de les dades i les sèries
+                   relacionades amb la demanda d’energia. En data 17 de juliol del 2023 s’han revisat les
+                   dades compreses en el període històric 2018-2022.
+
+                   Nota. Degut a les modificacions fetes per FEDA en les dades de consum d'energia de
+                   tot l’històric de l'any 2025, pot ser que les variacions dels acumulats no coincideixin
+                   amb les de les dades d'importació de carburants.
+
+             •     Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+                   premsa, preguem citeu: “Dades del Dpt. d’Indústria, tractades pel Departament
+                   d’Estadística per a la Nota de Premsa ref. NP_A115_20260831”.
+
+             •     Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+                   seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+                   resposta a l’activitat estadística: A115: Estadística de l’energia
+
+             •     Difusió.    Dades      disponibles   al  web     www.estadistica.ad,      a    l’apartat
+                   Estadístiques/Dades/Estadístiques sectorials/Energia/Consum. Per estar informat en
+                   qualsevol moment de les noves publicacions us podeu inscriure a la nostra “Alerta
+                   informativa” a la nostra web. També hi podeu trobar l’històric de les notes de premsa
+                   d’aquest tema: http://www.estadistica.ad
+
+                   Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+                   de Premsa del Departament d’Estadística es podran seguir també per Twitter
+                   (actualment X)
+
+
+
+         6. Dates de les publicacions previstes
+
+            Nota de premsa A115. Estadística de l’energia. Agost del 2026: 28 de setembre del 2026
+
+
+
+
+NP_A115_20260831                                                                                          Pàgina 12 de 12
+
