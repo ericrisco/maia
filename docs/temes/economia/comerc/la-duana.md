@@ -109,14 +109,36 @@ unió duanera industrial; *lliure disposició*, el del règim agrícola propi.
   en una norma de rang inferior** que el recull no conté — vegeu també
   [conduir a Andorra](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md)
   i [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).
-- **Què deroga exactament** la Llei 10/2025 i des de quina data és aplicable,
-  **no comprovat**. — **`obert`, confirmat.**
+- ~~**Què deroga exactament** la Llei 10/2025 i des de quina data és aplicable.~~
+  — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
+  **68 del 2025** (`docs/raw/lleis/bopa/llei-10-2025-codi-de-duana.txt`).
+  **La disposició derogatòria és una excepció, no una derogació neta:**
+
+  > «queden derogades totes les disposicions legals que s'oposin a aquest Codi i,
+  > en especial, **la Llei 17/2020, del 4 de desembre, de text consolidat del
+  > Codi de Duana, EXCEPTE els articles 1 a 14 i 93 bis a 93 undecies**, i els
+  > articles 1 i 2 de la **Llei de taxes sobre el consum, del 30 de desembre de
+  > 1985**.»
+
+  **Vint-i-cinc articles del Codi anterior segueixen vius dins del nou.** **El
+  corpus ho registra sense arbitrar per què**, i **ho assenyala com a cosa a
+  vigilar**: **qui citi «el Codi de Duana» per als articles 1 a 14 està citant
+  el del 2020, no el del 2025.**
+
+  **I l'entrada en vigor no és l'endemà**: **«el primer dia del mes següent als
+  tres mesos posteriors a la publicació»** —**una fórmula que el corpus no havia
+  vist en cap altra llei andorrana**, i que dona **l'1 de setembre del 2025** per
+  a un butlletí del maig.
 - ~~**El règim dels productes agrícoles** (capítols 1-24), exclosos de la lliure
   pràctica, **no s'ha llegit**.~~ — **`parcial`.** **L'esquelet és al Codi i ara
   és a dalt** (arts. 5 i 69.2). **El que no hi és —i no hi pot ser— és el
   contingut de l'Acord Comunitat Europea - Andorra**, que el Codi cita cinc
-  vegades i **el corpus no té.** `Requereix font externa: l'Acord CE-Andorra
-  del 1990 i els seus annexos.`
+  vegades. — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
+  butlletí **105 del 1991**: **el text autèntic en català, els vint-i-sis
+  articles i els annexos**
+  (`docs/raw/relacions-exteriors/acord-duaner/bopa-1991-acord-duaner-cee.txt`).
+  **EUR-Lex no l'ofereix i el BOPA sí.** Vegeu
+  [l'acord duaner del 1990](../../institucions/relacions-exteriors/lacord-duaner-del-1990.md).
 
 ### Una data que el corpus dona de dues maneres
 
@@ -128,6 +150,21 @@ unió duanera industrial; *lliure disposició*, el del règim agrícola propi.
 | **1991** | [L'economia el 1997](../transformacio-economica/leconomia-el-1997.md) («l'acord duaner de 1991») |
 
 **Cap dels tres documents no diu si la data és la de la signatura o la de
-l'entrada en vigor**, i **un acord internacional en té sempre dues.** **El
-corpus registra les dues dates i no en tria cap.** `Requereix font externa: el
+l'entrada en vigor**, i **un acord internacional en té sempre dues.**
+
+**`resolt` el 17-09-2026, i les dues dates són bones**: **l'article 24.1 de
+l'acord, llegit al BOPA, diu que «el present acord entra en vigor l'1 de juliol
+de 1990»**, i **l'acord es publica al BOPA el 13 de juny del 1991.**
+
+| | |
+| --- | --- |
+| **1990** | **L'entrada en vigor**, 1 de juliol |
+| **1 de gener del 1991** | **La data operativa**: quan Andorra suprimeix els drets de duana sobre les importacions de la Comunitat (art. 6.2) |
+| **13 de juny del 1991** | La publicació al BOPA |
+
+**Els tres documents del corpus tenien raó i parlaven de coses diferents.**
+**La divergència es tanca sense que cap dels tres s'hagi d'esmenar**, i
+**s'hi afegeix el que cap no deia**: **l'acord substitueix els intercanvis de
+cartes del 1967 amb França i Espanya** (art. 25). **La relació duanera no
+comença el 1990: es formalitza el 1990.** `Requereix font externa: el
 text de l'Acord amb les seves dates de signatura i de vigència.`
