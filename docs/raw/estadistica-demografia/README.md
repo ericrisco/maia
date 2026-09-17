@@ -45,4 +45,37 @@ separacions i nul·litats, i **A007** indicadors demogràfics bàsics. **Buscar
 **Els emigrants pugen cada any de la sèrie** (+35,7% en quatre anys). **El saldo
 és negatiu a partir dels 70 anys** i per a **andorrans i portuguesos**.
 
-**On s'usa**: [`temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md`](../../temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md).
+## La sèrie de naturalitzacions (A009)
+
+La nota **anual** (`a009-adquisicions-nacionalitat-20260330`, any 2025) porta
+l'**històric 2004-2025 segons la metodologia europea** del Reglament 862/2007,
+en gràfic amb **etiqueta de valor sobre cada punt**. El PNG
+`a009-serie-2004-2025-05.png` n'és el render.
+
+**Màxim 2009: 354 per residència. Mínim 2020: 107. El 2025: 208.**
+Per matrimoni, de **99 el 2004 a 45 el 2025**.
+
+**Tres recomptes diferents per al mateix any**, i cal dir quin es cita:
+
+| 2025 | |
+| --- | --- |
+| **Nacionalitat atorgada en total** | **1.187** |
+| Amb plenitud de drets | 719 (456 per origen + 263 per naturalització) |
+| Reconeixement del dret d'adquisició (provisional) | 463 |
+| **El que compta la sèrie europea** | **263** |
+
+**Verificació aritmètica de la lectura del gràfic**: 208 + 45 = 253, i la nota diu
+263 amb **79,1% per residència** i **17,1% per matrimoni** — 208/263 i 45/263
+donen exactament aquests percentatges.
+
+**Una errata de la font**: el títol del gràfic diu «2003-2024» i l'apartat i
+l'eix diuen 2004-2025. El corpus segueix l'eix, que porta les etiquetes d'any.
+
+## Les quatre notes trimestrals
+
+`20251006` (2n trim. 2025, **153**) · `20251111` (3r trim. 2025, **426**) ·
+`20260330` (**any 2025, 1.187**) · `20260511` (1r trim. 2026, **285**) ·
+`20260727` (2n trim. 2026, **359**).
+
+**On s'usa**: [`temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md`](../../temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md) ·
+[`temes/institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md`](../../temes/institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md).

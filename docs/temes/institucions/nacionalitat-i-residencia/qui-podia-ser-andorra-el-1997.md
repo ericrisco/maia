@@ -166,6 +166,63 @@ la mateixa constatació que fa **Antoni López Montanya** sobre
 l'[andorranització](../../societat/educacio/landorranitzacio.md) tres anys abans
 ([les respostes de 1994](../../politica/identitat-politica/les-respostes-de-1994.md)).
 
+## La sèrie que les dues ponències no tenien: 2004-2025
+
+Totes dues ponències discuteixen la naturalització sense cap xifra. El
+Departament d'Estadística en publica la sèrie des del **2004** (activitat
+**A009**), **segons la metodologia europea** del Reglament 862/2007 — és a dir,
+**només els processos que impliquen un canvi de nacionalitat, i només de persones
+residents**.
+
+| Any | Per residència | Per matrimoni | | Any | Per residència | Per matrimoni |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2004 | 234 | **99** | | 2015 | 186 | 29 |
+| 2005 | **311** | 73 | | 2016 | 168 | 33 |
+| 2006 | 310 | 66 | | 2017 | **148** | 47 |
+| 2007 | 280 | 52 | | 2018 | 161 | 41 |
+| 2008 | 258 | 47 | | 2019 | 171 | 59 |
+| **2009** | **354** | 63 | | **2020** | **107** | **25** |
+| 2010 | 304 | 59 | | 2021 | 210 | 53 |
+| 2011 | 272 | **76** | | 2022 | 180 | 37 |
+| 2012 | 236 | 42 | | 2023 | 136 | 37 |
+| 2013 | 209 | 44 | | 2024 | 162 | 38 |
+| 2014 | 218 | 43 | | **2025** | **208** | 45 |
+
+`Xifres llegides del gràfic de la nota, que porta l'etiqueta de valor sobre cada
+punt. Verificades: 208 + 45 = 253, i el text de la nota diu que el 2025 hi va
+haver 263 naturalitzacions amb el 79,1% per residència i el 17,1% per matrimoni
+— 208/263 = 79,1% i 45/263 = 17,1% exactes. El 3,8% restant són «altres».`
+
+**El que la sèrie diu, i que la ponència del 1997 no podia saber.**
+
+**El màxim és el 2009, amb 354 naturalitzacions per residència.** A partir
+d'aquell any la corba cau de manera sostinguda durant onze anys, fins al **mínim
+del 2020: 107**. **Un terç del màxim.**
+
+**La caiguda no és només la pandèmia.** El 2017 ja s'era a **148** i el 2019 a
+**171**: la sèrie ja havia perdut més de la meitat **abans** del 2020.
+
+**Des del 2021 torna a pujar**, amb un sotrac el 2023 (**136**), i el **2025 es
+tanca a 208** — encara **un 41% per sota del 2009**.
+
+**La naturalització per matrimoni és una via petita i que s'encongeix.** Va
+passar de **99 el 2004 a 45 el 2025**: **menys de la meitat**, en un país que
+mentrestant ha crescut en població.
+
+**Les xifres totals són molt més grans que aquestes.** El **2025 es va atorgar la
+nacionalitat a 1.187 persones** (+2,6% respecte del 2024, i **−5,4% respecte del
+2015**). D'aquestes, **719 amb plenitud de drets** i **463 amb reconeixement del
+dret d'adquisició, és a dir, provisional**. De les 719, **456 per origen** i
+**263 per naturalització**. **La sèrie del gràfic només compta aquestes darreres
+263**, que són les úniques que Europa considera adquisició de nacionalitat.
+
+**Aquesta distinció és la que fa que les xifres «no quadrin» segons on es
+llegeixin**, i és la primera cosa a fixar abans de citar-ne cap.
+
+`Un detall de la font: el títol del gràfic diu «2003-2024» mentre l'encapçalament
+de l'apartat i l'eix del gràfic mateix diuen 2004-2025. El corpus segueix l'eix,
+que és el que porta les etiquetes d'any al costat de cada valor.`
+
 ## Buits registrats
 
 1. **El règim transitori de l'article 7.2** i l'efecte retroactiu que Duró
@@ -186,8 +243,11 @@ l'[andorranització](../../societat/educacio/landorranitzacio.md) tres anys aban
    ([la cadena sencera](./el-codi-de-la-nacionalitat-de-1977.md)).
 4. **La «repudiació» de la nacionalitat francesa**: com funciona el tràmit i si
    es fa servir encara.
-5. **Quantes naturalitzacions hi ha hagut** cada any. Cap font del corpus no en
-   dona sèrie.
+5. ~~**Quantes naturalitzacions hi ha hagut** cada any. Cap font del corpus no en
+   dona sèrie.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**
+   (activitat **A009**, nota anual del 30-03-2026): vegeu
+   [La sèrie que les dues ponències no tenien](#la-serie-que-les-dues-ponencies-no-tenien-2004-2025).
+   `Segueixen obertes les naturalitzacions anteriors al 2004.`
 6. **Si hi ha hagut mai el debat** que totes dues ponències reclamen.
 
 ## Related

@@ -1,0 +1,979 @@
+               A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+                                  Data de publicació: dilluns, 30/03/2026
+                                           www.estadistica.ad
+
+
+
+         Resum
+
+
+
+         Durant l’any 2025, un total de 1.187 persones residents van obtenir la nacionalitat andorrana,
+         fet que suposa una variació del +2,6% respecte a l’any 2024 i del -5,4% respecte a fa deu anys
+         (2015).
+
+         Del total d’obtencions, 719 van ser atorgades amb plenitud de drets (60,6%) i 463 van ser
+         resoltes amb el reconeixement del dret d’adquisició de la nacionalitat, és a dir, a títol provisional
+         (39,0%) i en espera que la persona interessada, en el termini legalment establert, acredités la
+         pèrdua de la nacionalitat o nacionalitats d’origen.
+
+         De les sol·licituds atorgades amb plenitud de drets, 456 persones van adquirir la nacionalitat
+         per origen i 263 per naturalització. Aquests darrers casos van haver de renunciar a la seva
+         nacionalitat anterior.
+
+         Seguint la normativa europea en matèria d’estadístiques de migració i protecció internacional,
+         l’estadística d’adquisicions de nacionalitat de residents només considera els processos que
+         impliquen un canvi de nacionalitat i que es refereixen a persones residents. Així, durant l’any
+         2025, de les 263 adquisicions de nacionalitat per naturalització, el 79,1% es van obtenir per
+         l’opció de residència, el 17,1% per matrimoni i el 3,8% per altres motius.
+
+         El 51,4% de les adquisicions per residència corresponen a homes, mentre que el 48,6%
+         restant, a dones. Pel que fa a les adquisicions de la nacionalitat per matrimoni, entre les
+         persones que van obtenir la nacionalitat andorrana l’any 2025 va haver-hi més dones (57,8%)
+         que homes (42,2%).
+
+
+
+
+NP_A009_20260330                                                                                             Pàgina 1 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         Índex
+
+         1.    Obtenció de la nacionalitat andorrana ....................................................................................... 3
+            1.1.     Obtenció de la nacionalitat andorrana segons el sexe .....................................................4
+         2.    Adquisicions de la nacionalitat andorrana segons la metodologia europea. Històric 2004-
+                2025 ......................................................................................................................................... 5
+            2.1.     Adquisicions de la nacionalitat andorrana segons el sexe (dades segons
+            la metodologia europea) .................................................................................................................6
+            2.2.     Adquisicions de la nacionalitat andorrana segons els anys de residència .......................6
+            2.3.     Adquisicions de la nacionalitat andorrana per edat ..........................................................6
+         3.    Baixes en el Registre de nacionalitat ........................................................................................ 8
+         4.    Gràfics anuals ............................................................................................................................ 9
+         5.    Nota metodològica ................................................................................................................... 10
+         6.    Dates de les publicacions previstes ........................................................................................ 11
+         7.    Annex. Formes d’obtenció de la nacionalitat andorrana ......................................................... 12
+
+
+
+
+NP_A009_20260330                                                                                                                                         Pàgina 2 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         1.    Obtenció de la nacionalitat andorrana
+
+
+         Durant l’any 2025 es va atorgar la nacionalitat andorrana a 1.187 persones. Aquest total es pot
+         desglossar en funció de l’article que sustenta l’adquisició de la nacionalitat d’acord amb la
+         previsió de la vigent Llei qualificada de la nacionalitat.
+
+         Resumidament, 719 persones van obtenir la nacionalitat definitiva. A més, 463 persones van
+         obtenir la nacionalitat andorrana de manera provisional i 5 la van obtenir en virtut de les seves
+         funcions.
+
+
+                                                                                          2024         2025   Var. 2024/2025
+                             Amb plenitud de drets polítics                                674          719             6,7%
+                             Adquisició per origen                                         463          456            -1,5%
+                             Adquisició per naturalització                                 211          263           24,6%
+                             Dret d'adquisició                                             481          463            -3,7%
+                             En l'espera de la renúncia                                    329          316            -4,0%
+                             En l'espera de la confirmació                                 152          147            -3,3%
+                             En virtut de les seves funcions                                 2            5          150,0%
+                             Total                                                       1.157        1.187             2,6%
+                              Dades extretes el dia 9 de gener del 2026.
+
+
+
+         De les 719 persones que van obtenir la nacionalitat amb plenitud de drets, 456 van ser
+         adquisicions de nacionalitat per origen (articles 1, 2, 3, 6, 35), mentre que 263 la van adquirir en
+         renunciar a la seva nacionalitat d’origen (articles 9.1, 10, 11.1 i 11.2).
+
+         Si s’analitzen els articles mitjançant els quals s’ha adquirit definitivament la nacionalitat
+         andorrana, destaquen l’article 1, l’article 11.1 i l’article 6, amb el 30,5%, el 24,8% i el 20,9% del
+         total d’adquisicions definitives, respectivament.
+
+
+              Amb plenitud de drets polítics
+              Article    Descripció article                                                                      2024    2025 Var. 2024/2025
+              Adquisició per origen                                                                               463     456          -1,5%
+                   1     Persona nascuda a Andorra (per filiació)                                                 218     219           0,5%
+                   2     Persona nascuda a l'estranger i de pare o mare andorrana                                  53      64          20,8%
+                   3     Persona nascuda a Andorra de pare o mare no andorrana nascut a Andorra                     1       2        100,0%
+                   6     Persona nascuda a Andorra de pares amb més de 10 anys de residència                      174     150         -13,8%
+                  35     Persona nascuda accidentalment a l'estranger                                              17      21          23,5%
+              Adquisició per naturalització                                                                       211     263          24,6%
+                  9.1    Segona generació nascuda a l'estranger                                                    11      10          -9,1%
+                  10     Persona casada amb andorrà/na i més de 3 anys de residència                               38      45          18,4%
+                 11.1    Persona estrangera amb més de 20 anys de residència                                      127     178          40,2%
+                 11.2    Persona estrangera amb més de 10 anys de residència i escolarització obligatòria          35      30         -14,3%
+              Total plenitud de drets polítics                                                                    674     719           6,7%
+
+
+
+         Altrament, 463 persones van veure reconegut el dret d’adquirir la nacionalitat andorrana, també
+         anomenada nacionalitat provisional, fins que no es prova la pèrdua de la nacionalitat o
+         nacionalitats d’origen o es confirma la nacionalitat andorrana a la majoria d’edat més un any.
+         D’aquest total, d’una banda, 316 persones encara no han acreditat la pèrdua de la nacionalitat
+         o nacionalitats d’origen (articles 9, 10, 11.1 i 11.2) i, de l’altra, 147 persones retenen la
+         nacionalitat provisional fins que confirmin la nacionalitat andorrana (articles 6 i 35), actuació
+         formal que es pot mantenir fins al moment de complir la majoria d’edat i un any més, és a dir,
+         fins als 19 anys. A més, hi ha cinc persones que han obtingut la nacionalitat provisional en virtut
+         de les seves funcions.
+
+         El 37,8% de les persones que han obtingut el dret d’adquisició ho han fet mitjançant l’article
+         11.1 (175) i estan en espera de provar la renúncia a la seva nacionalitat d’origen. El 30,5% ha
+         obtingut el dret d’adquisició mitjançant l’article 6 i estan en espera de confirmar la nacionalitat
+         en els terminis legalment establerts.
+
+
+
+NP_A009_20260330                                                                                                                           Pàgina 3 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         Dret d'adquisició
+         Article    Descripció article                                                                  2024       2025 Var. 2024/2025
+         En espera de la renúncia                                                                        329        316          -4,0%
+             9.1    Segona generació nascuda a l'estranger (dret d'adquisició)                            13         10         -23,1%
+             10     Persona casada amb andorrà/na i més de 3 anys de residència                           58         43         -25,9%
+            11.1    Persona estrangera amb més de 20 anys de residència                                  169        175           3,6%
+            11.2    Persona estrangera amb més de 10 anys de residència i escolaritat                     72         62         -13,9%
+           11.2*    Persona estrangera menor amb més de 10 anys de residència i escolaritat               17         26          52,9%
+         En espera de la confirmació                                                                     152        147          -3,3%
+              6     Persona nascuda a Andorra de pares amb menys de 10 anys de residència                142        141          -0,7%
+             35     Persona nascuda accidentalment a l'estranger                                          10          6         -40,0%
+         Total dret d'adquisició                                                                         481        463          -3,7%
+             14     En virtut de les funcions que exerceixen                                               2          5        150,0%
+           Total                                                                                         483        468          -3,1%
+
+
+
+
+         Quant a la via d’obtenció del dret d’adquisició de la nacionalitat andorrana en espera de la
+         renúncia a la nacionalitat o nacionalitats anteriors (articles 9.1, 10, 11.1 i 11.2), durant l’any
+         2025 hi ha hagut 88 persones que l’han obtingut per escolaritat obligatòria al Principat (article
+         11.2), mentre que les 218 persones restants l’han aconseguit bé mitjançant l’obtenció del
+         diploma de ciències humanes i socials d’Andorra o mitjançant la prova d’integració a la
+         Comissió (articles 10 i 11.1).
+
+         Quant a la via d’obtenció del dret d’adquisició de la nacionalitat andorrana en espera de la
+         confirmació de nacionalitat, hi ha hagut 141 persones que l’han obtingut mitjançant l’article 6, i
+         6 persones, mitjançant l’article 35.
+
+
+         1.1     Obtenció de la nacionalitat andorrana segons el sexe
+
+
+                     Reconeixement de la nacionalitat andorrana segons el                                         Variació
+                                                                                                2024    2025
+                     sexe                                                                                       2024/2025
+                                      Amb plenitud de drets polítics (definitiva) per origen      232     208     -10,3%
+                                      Amb plenitud de drets polítics (definitiva) per
+                                                                                                  114     132      15,8%
+                         Homes        adquisició
+                                      Reconeixement del dret d'adquisició (provisional)           231     228      -1,3%
+                                      Altres                                                        2       5     150,0%
+                     Total homes                                                                  579     573      -1,0%
+                                      Amb plenitud de drets polítics (definitiva) per origen      231     248       7,4%
+                                      Amb plenitud de drets polítics (definitiva) per
+                                                                                                   97     131      35,1%
+                         Dones        adquisició
+                                      Reconeixement del dret d'adquisició (provisional)           250     235      -6,0%
+                                      Altres                                                        0       0           -
+                     Total dones                                                                  578     614       6,2%
+                     Total                                                                      1.157   1.187       2,6%
+
+                     Reconeixement de la nacionalitat andorrana segons el
+                                                                                                                  Variació
+                     sexe                                                                       2024    2025
+                                                                                                                2024/2025
+                     (% sobre el total)
+                                      Amb plenitud de drets polítics (definitiva) per origen    20,1% 17,5%        -12,6%
+                                      Amb plenitud de drets polítics (definitiva) per
+                                                                                                 9,9% 11,1%         12,9%
+                         Homes        adquisició
+                                      Reconeixement del dret d'adquisició (provisional)         20,0% 19,2%         -3,8%
+                                      Altres                                                     0,2%   0,4%             -
+                     Total homes                                                                50,0% 48,3%         -3,5%
+                                      Amb plenitud de drets polítics (definitiva) per origen    20,0% 20,9%          4,6%
+                                      Amb plenitud de drets polítics (definitiva) per
+                                                                                                 8,4% 11,0%         31,6%
+                         Dones        adquisició
+                                      Reconeixement del dret d'adquisició (provisional)         21,6% 19,8%         -8,4%
+                                      Altres                                                     0,0%   0,0%             -
+                     Total dones                                                                50,0% 51,7%          3,5%
+                     Total                                                                     100,0% 100,0%
+
+
+
+
+NP_A009_20260330                                                                                                                     Pàgina 4 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+
+                                                               Reconeixement de la nacionalitat andorrana segons el sexe.
+                                                                                       Any 2025
+
+
+
+
+                                                                 21,0%
+                                                                                                                                            19,3%     19,9%
+
+                                                      17,6%
+
+
+
+
+                                                                                            11,2%          11,1%
+
+
+
+
+                                            Amb plenitud de drets polítics           Amb plenitud de drets polítics                   Reconeixement del dret
+                                               (definitiva) per origen                (definitiva) per adquisició                     d'adquisició (provisional)
+                                                                                            Home               Dona
+
+                                   No s’hi inclouen les cinc persones que han adquirit la nacionalitat en virtut de les seves funcions.
+
+
+
+
+         2.        Adquisicions de la nacionalitat andorrana segons la metodologia europea. Històric
+                   2004-2025
+
+
+         En aquest apartat s’examinen amb detall les dades d’adquisicions de la nacionalitat andorrana
+         de persones residents en els mateixos termes previstos en l’estadística oficial en l’àmbit
+         europeu i l’internacional (i, per tant, comparable), la qual es regeix pel Reglament 862/2007 del
+         Parlament Europeu i del Consell sobre les estadístiques de migració i protecció internacional.
+
+         Seguint la normativa europea en matèria d’estadístiques de migració i protecció internacional,
+         l’estadística d’adquisicions de nacionalitat de residents només considera els processos que
+         impliquen un canvi de nacionalitat i que es refereixen a persones residents. Així, durant l’any
+         2025, hi ha hagut 263 persones residents que han adquirit la nacionalitat amb plenitud de drets
+         després d’haver renunciat a la nacionalitat o nacionalitats d’origen que posseïen i haver-ne
+         provat la pèrdua. El 79,1% s’obtenen per l’opció de residència (article 11.1), el 17,1% per
+         matrimoni (article 10) i el 3,8% restant per altres opcions.
+
+         A causa de la baixa significació de les dades, en el gràfic inferior no s’hi inclouen els casos de
+         naixements a l’estranger de pare o mare andorrans, també nascuts a l’estranger i residents al
+         Principat (article 9), ni els d’adopció per part d’una persona andorrana nascuda a l’estranger o
+         adopció de pares residents (article 8, relatiu als menors de catorze anys), integrats dins el grup
+         “Altres”.
+
+                                                                  Adquisicions de la nacionalitat andorrana segons els motius.
+                                                                                           2003-2024
+
+          400
+                                                                354
+          350              311
+                                                                       304
+          300                                280       258
+                                   310
+                   234
+          250                                                                         236           218
+                                                                              272            209                                                             210
+                                                                                                            186                                171                   180                         208
+          200                                                                                                       168                                                            162
+                                                                                                                               148 161                                      136
+          150
+                                                                                                                                                      107
+          100                                                                 76
+                                                        47                                  44                                                 59             53
+                   99                                                                42            43               33        47       41             25             37     37     38        45
+              50           73                                                                                29
+                                     66        52               63     59
+              0
+
+                    2004    2005     2006      2007     2008    2009   2010   2011   2012   2013    2014     2015   2016       2017     2018   2019   2020    2021   2022   2023   2024   2025
+
+
+                                                                                       Per residència                      Per matrimoni
+
+
+
+
+NP_A009_20260330                                                                                                                                                                                 Pàgina 5 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         2.1   Adquisicions de la nacionalitat andorrana segons el sexe (dades segons la
+               metodologia europea)
+
+         L’any 2025, un total 263 persones van adquirir la nacionalitat andorrana definitiva després
+         d’haver renunciat a la seva nacionalitat anterior. D’aquestes, 132 van ser homes i 131 van ser
+         dones. En ambdós sexes s’observa un increment en relació amb l’any anterior.
+
+
+
+                                                                                Variació
+                             Sexe                            2024     2025
+                                                                              2024/2025
+                             Home                             114      132        15,8%
+                             Dona                              98      131        33,7%
+                             Total                            212      263        24,1%
+
+                                                                                Variació
+                             Sexe                            2024     2025
+                                                                              2024/2025
+                             Home                         53,8%      50,2%        -6,7%
+                             Dona                         46,2%      49,8%         7,8%
+                             Total                       100,0%     100,0%
+
+
+
+         2.2   Adquisicions de la nacionalitat andorrana segons els anys de residència
+
+         Segons els anys de residència, s’observa com la gran majoria de persones (77,9%) que van
+         adquirir la nacionalitat andorrana després de renunciar a la seva nacionalitat d’origen ho van fer
+         després de vint anys de residència.
+
+
+                                                                                         Variació
+                     Anys de residència                                2024    2025
+                                                                                       2024/2025
+                     Menys de 5 anys                                     13        5       -61,5%
+                     De 5 a 9 anys                                       15      14         -6,7%
+                     De 10 a 14 anys                                     13      17        30,8%
+                     De 15 a 19 anys                                     25      22        -12,0%
+                     20 anys o més                                      146     205        40,4%
+                     Total                                              212     263        24,1%
+
+                                                                                         Variació
+                     Anys de residència (% sobre el total)             2024    2025
+                                                                                       2024/2025
+                     Menys de 5 anys                                   6,1%    1,9%        -69,0%
+                     De 5 a 9 anys                                     7,1%    5,3%        -24,8%
+                     De 10 a 14 anys                                   6,1%    6,5%         5,4%
+                     De 15 a 19 anys                                 11,8%     8,4%        -29,1%
+                     20 anys o més                                   68,9% 77,9%           13,2%
+                     Total                                          100,0% 100,0%
+
+
+
+
+         2.3   Adquisicions de la nacionalitat andorrana per edat
+
+
+         Segons el tram d’edat de la persona, s’observa com una de cada quatre persones (26,4%) que
+         van adquirir la nacionalitat andorrana postrenúncia tenien entre 50 i 54 anys, seguides de les
+         persones de 45 a 49 i 55 a 59, ambdós amb un 19,3%. Respecte a l’any anterior, destaca
+         l’augment de les persones d’entre 50 i 54 anys, que és del +154,5%.
+
+
+
+
+NP_A009_20260330                                                                                          Pàgina 6 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+                                                                                           Variació
+                        Edat                                 2024              2025
+                                                                                         2024/2025
+                        Menys de 25 anys                       26                17         -34,6%
+                        De 25 a 29 anys                         9                11          22,2%
+                        De 30 a 34 anys                        13                12          -7,7%
+                        De 35 a 39 anys                        17                17           0,0%
+                        De 40 a 44 anys                        23                27          17,4%
+                        De 45 a 49 anys                        32                41          28,1%
+                        De 50 a 54 anys                        22                56         154,5%
+                        De 55 a 59 anys                        29                41          41,4%
+                        De 60 a 64 anys                        17                16          -5,9%
+                        De 65 a 69 anys                         7                12          71,4%
+                        70 anys o més                          17                13         -23,5%
+                        Total                                 212               263          24,1%
+
+
+                                                                                           Variació
+                         Edat                               2024             2025
+                                                                                         2024/2025
+                         Menys de 25 anys               12,3%                 8,0%          -34,6%
+                         De 25 a 29 anys                 4,2%                 5,2%           22,2%
+                         De 30 a 34 anys                 6,1%                 5,7%           -7,7%
+                         De 35 a 39 anys                 8,0%                 8,0%            0,0%
+                         De 40 a 44 anys                10,8%                12,7%           17,4%
+                         De 45 a 49 anys                15,1%                19,3%           28,1%
+                         De 50 a 54 anys                10,4%                26,4%          154,5%
+                         De 55 a 59 anys                13,7%                19,3%           41,4%
+                         De 60 a 64 anys                 8,0%                 7,5%           -5,9%
+                         De 65 a 69 anys                 3,3%                 5,7%           71,4%
+                         70 anys o més                   8,0%                 6,1%          -23,5%
+                         Total                         100,0%               100,0%
+
+
+
+                            Nombre d'adquisicions per trams d'edat en percentatge. Anys
+                                                   2024 i 2025
+                                                                       12,3%
+                   Menys de 25 anys
+                                                      6,5%
+                                              4,2%
+                    De 25 a 29 anys
+                                              4,2%
+                                                   6,1%
+                    De 30 a 34 anys
+                                               4,6%
+                                                          8,0%
+                    De 35 a 39 anys
+                                                      6,5%
+                                                                    10,8%
+                    De 40 a 44 anys
+                                                                   10,3%
+                                                                               15,1%
+                    De 45 a 49 anys
+                                                                                15,6%
+                                                                   10,4%
+                    De 50 a 54 anys
+                                                                                              21,3%
+                                                                            13,7%
+                    De 55 a 59 anys
+                                                                                 15,6%
+                                                            8,0%
+                    De 60 a 64 anys
+                                                     6,1%
+                                            3,3%
+                    De 65 a 69 anys
+                                               4,6%
+                                                            8,0%
+                      70 anys o més
+                                                4,9%
+
+
+
+
+NP_A009_20260330                                                                                      Pàgina 7 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         3.       Baixes en el Registre de Nacionalitat
+
+         El nombre total de baixes que s’han produït i reflectit al Registre de Nacionalitat en el decurs de
+         l’any 2025 va ser de 154, la gran majoria d’elles per defunció (95,5% del total). L’1,9% són
+         conseqüència o bé de la pèrdua de la nacionalitat, o bé perquè ha caducat la nacionalitat
+         atorgada a títol provisional, és a dir, es va obtenir un dret d’adquisició i no es va renunciar en el
+         termini legal a la nacionalitat o nacionalitats d’origen, o bé perquè, arribats a l’edat de dinou
+         anys, no va confirmar la nacionalitat andorrana. El 2,6% restant dels casos es deuen a la
+         renúncia de la nacionalitat andorrana.
+
+
+                                                                  Baixes en el Registre de Nacionalitat. 2004-2025
+          350
+                                                                                                                                   317     313        310
+          300                                                                                     281                                                        285
+
+                                  244
+          250
+                                                                                                                214                                                 220
+
+          200                                                                181                         188
+                         172                                                                                            175                                                175
+                  167                                          165    164           160    170
+                                                                                                                                                                                  154
+          150                                           127
+                                          124    117
+
+          100
+
+
+           50
+
+
+              0
+
+                  2004   2005      2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017    2018       2019    2020       2021   2022   2023   2024   2025
+
+
+
+
+                                                                                                                                                 Variació
+                                Motiu de baixa                                                                         2024               2025
+                                                                                                                                               2024/2025
+                                Defunció                                                                                164                147    -10,4%
+                                No ha presentat renuncia a nacionalitat(s) d'origen
+                                                                                                                               5                  3          -40,0%
+                                o no ha confirmat la nacionalitat andorrana
+                                Altres*                                                                                   6                  4               -33,3%
+                                Total                                                                                   175                154               -12,0%
+
+                                                                                                                                              Variació
+                                Motiu de baixa (% sobre el total)                                                      2024               2025
+                                                                                                                                            2024/2025
+                                Defunció                                                                          93,7%               95,5%      1,9%
+                                No ha presentat renuncia a nacionalitat(s) d'origen
+                                                                                                                       2,9%               1,9%               -31,8%
+                                o no ha confirmat la nacionalitat andorrana
+                                Altres*                                                                           3,4%   2,6%                                -24,2%
+                                Total                                                                           100,0% 100,0%
+                                * Altres motius inclou: Renúncia de la nacionalitat andorrana.
+
+
+
+
+NP_A009_20260330                                                                                                                                                                         Pàgina 8 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         4.         Gràfics anuals
+
+
+                                                                                       Adquisicions de la nacionalitat. 2004-2025
+           2.500                  2.355
+                                           2.192
+                                                     2.000
+           2.000       1.900                                  1.929 1.960
+                                                                              1.705
+                                                                                       1.592
+                                                                                                1.474
+           1.500                                                                                        1.379
+                                                                                                                1.296 1.255
+                                                                                                                               1.147 1.093              1.170                                  1.157 1.187
+                                                                                                                                                                       1.065 1.087 1.039
+                                                                                                                                                990
+           1.000                                                                                                                                                849
+
+
+              500
+
+
+
+                0
+
+                         2004      2005      2006      2007    2008    2009    2010      2011    2012    2013    2014   2015    2016     2017    2018    2019   2020    2021    2022    2023    2024    2025
+
+
+
+
+                                                                      Obtencions de la nacionalitat. Principals motius d'atorgament.
+                                                                                       Valors absoluts. 2004-2025
+
+           1.200                 1.117        1.114
+
+           1.000                                      902      908
+                        836       848
+                                                                      788     769
+                                                                                        714      739
+              800                           691                                                         675
+                                                      756 701                                                   598     599
+                        720                                           742                                                      540     519
+              600                                                                                                                                       508                    490
+                                                                                                                                                432             413                    454     463          463
+                                                                              560                                       432 392                                        395
+              400                                                                       514                                            373                                                                 456
+                                                                                                444     438     427                                     425                                     481
+                                                                      429                                                                       347                    401             407
+                                   389      387                               375       364                                                                                    368
+              200       344                           342      318                                                                                              295                                       263
+                                                                                                 290    265     269                                                    269                     211
+                                                                                                                        224    210              211     237                    228
+                                                                                                                                       201                      141                    177
+                   0
+
+                          2004      2005      2006     2007    2008    2009     2010     2011    2012    2013    2014   2015    2016     2017    2018    2019   2020    2021    2022   2023     2024    2025
+
+                                           Amb plenitud de drets polítics (definitiva) per origen                                 Amb plenitud de drets polítics (definitiva) per adquisició
+
+                                           Reconeixement del dret d'adquisició (provisional)
+
+
+         Nota: El gràfic no inclou el motiu d’atorgament “Altres” degut a la poca significació de les dades.
+
+
+
+
+                                                                       Obtencions de la nacionalitat. Principals motius d'atorgament.
+                                                                                     Distribució percentual. 2004-2025
+
+          100%
+
+           80%                   36,0% 31,5% 37,8% 36,3% 37,9% 32,8% 32,3% 30,1% 31,8% 32,9% 34,4% 34,2% 34,1% 35,1% 36,3% 34,7% 37,7% 33,9%
+                       44,0%                                                                                                                                                           43,7% 41,6% 39,0%
+
+           60%                             17,7%                                                19,7% 19,2% 20,8% 17,8%
+                                 16,5%               17,1% 16,5% 21,9% 22,0% 22,9%                                             18,3% 18,4% 21,3% 20,3% 16,6%                   21,0%
+                       18,1%                                                                                                                                           25,3%           17,0% 18,2% 22,2%
+           40%
+
+           20%                   47,4% 50,8% 45,1% 47,1% 40,2% 45,1% 44,8% 50,1% 48,9% 46,1% 47,7% 47,1% 47,5% 43,6% 43,4% 48,6%                                               45,1% 39,2% 40,0% 38,4%
+                       37,9%                                                                                                                                           37,1%
+
+              0%
+
+                        2004      2005      2006      2007    2008    2009     2010     2011     2012    2013    2014   2015    2016     2017    2018    2019   2020    2021    2022    2023     2024    2025
+
+                   Amb plenitud de drets polítics (definitiva) per origen               Amb plenitud de drets polítics (definitiva) per adquisició        Reconeixement del dret d'adquisició (provisional)
+
+
+
+
+NP_A009_20260330                                                                                                                                                                                                  Pàgina 9 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         5.   Nota metodològica
+
+         • Font. Dades obtingudes de la Unitat de Nacionalitat i Passaports revisades i tractades pel
+         Departament d’Estadística del Govern d’Andorra i disponibles a la web www.estadistica.ad, en
+         l’apartat Estadístiques i Dades/Població i migració/Estadístiques de migracions i nacionalitat.
+
+         • Definició de nacionalitat. Vincle legal entre un individu i un Estat, ja sigui adquirit per
+         origen, naixement al Principat d’Andorra, ja sigui per adquisició, naturalització, matrimoni o
+         altres formes segons la legislació nacional. Es refereix a la nacionalitat a la data de referència,
+         classificant-la com andorrana sempre que l’individu tingui aquesta nacionalitat.
+
+         • Metodologies i referències metodològiques.
+
+                       o   Reglament Europeu. El Reglament CE núm. 862/2007 del Parlament Europeu
+                           i del Consell d’11 de juliol de 2017, sobre les estadístiques comunitàries en
+                           l’àmbit de la migració i la protecció internacional, exigeix als Estats Membres
+                           proporcionar informació anual sobre les persones que tenen la seva residència
+                           habitual en el territori de l’Estat Membre i que han adquirit la nacionalitat de
+                           l’Estat membre durant l’any de referència, havent tingut prèviament la
+                           nacionalitat d’un altre país o la condició d’apàtrida. S’exclouen, per tant, a les
+                           persones que han adquirit la nacionalitat andorrana residint a altres països, i
+                           s’exclouen aquells processos en els quals s’obté la nacionalitat andorrana per
+                           causa d’origen (per simple presumpció o adopció) o per consolidació
+                           (possessió d’estat a aquells que ja actuen com a andorrans).
+
+         L’estadística de les adquisicions de la nacionalitat andorrana de residents té com a finalitat
+         principal proporcionar una quantificació de les obtencions de la nacionalitat andorrana des de
+         l’any 1996 fins a l’actualitat. Igualment, s’ocupa de la quantificació i l’evolució temporal de les
+         obtencions de nacionalitat que són per adquisició i de com es caracteritzen, en els mateixos
+         termes previstos en l’estadística oficial europea i internacional, basada en el tractament de les
+         inscripcions d’expedients de nacionalitat en la Unitat de Passaports i Nacionalitat.
+
+         Amb motiu de l’actualització contínua dels registres administratius, anualment es revisen les
+         dades publicades dels tres anys anteriors.
+
+         • Legislació nacional
+
+                   En el decurs dels anys, la normativa en matèria de nacionalitat ha evolucionat
+                   i ho ha fet de manera rellevant en alguns aspectes. L’any 1995, per exemple,
+                   es va introduir una modificació que reduïa els anys de residència per obtenir la
+                   nacionalitat andorrana per naturalització, en concret, la llei de referència va
+                   passar de requerir 30 a 25 anys. Ulteriorment, l’any 2004 també es van
+                   produir dos canvis significatius, en primer lloc, novament es van disminuir els
+                   anys de residència, requeriment que es manté fins a l’actualitat i que exigeix
+                   haver tingut la residència principal i permanent al Principat d’Andorra durant
+                   els 20 anys que precedeixen la demanda de la nacionalitat; i, en segon lloc, es
+                   va habilitar l’adquisició de la nacionalitat a les personen que acrediten una
+                   residència principal i permanent al Principat d’Andorra durant els deu anys
+                   precedents al moment d’entrar la sol·licitud i alhora han cursat íntegrament
+                   l’escolaritat obligatòria, excepció feta dels cursos que no s’imparteixin a
+                   Andorra.
+
+         ✓Llei qualificada de la nacionalitat, del 3/09/1993:
+         https://www.bopa.ad/bopa/005051/Pagines/E8AA.aspx
+         ✓Llei qualificada de la nacionalitat, del 5/10/1995:
+         https://www.bopa.ad/bopa/008008/Pagines/4852.aspx
+
+
+
+NP_A009_20260330                                                                                           Pàgina 10 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         ✓Llei 10/2004, del 27 de maig, qualificada de modificació de la Llei qualificada de la
+         nacionalitat:
+         https://www.bopa.ad/bopa/016039/Pagines/3696A.aspx
+         ✓Decret legislatiu de 28 de març del 2007, de publicació del text refós de la Llei qualificada de
+         la nacionalitat, del 5 d’octubre de 1995, amb les seves modificacions successives:
+          https://www.bopa.ad/bopa/019029/Pagines/4ACDE.aspx
+         • Altres consideracions.
+
+
+                   Nota. Dades extretes a 9 de gener del 2026.
+
+         • Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+         preguem citeu: “Dades del Dpt. d’Indústria, tractades pel Departament d’Estadística per a la
+         Nota de Premsa ref. NP_A009_20260330”.
+         • Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+         desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a
+         l’activitat estadística: A009. Adquisicions de nacionalitat andorrana.
+
+         •Difusió.      Dades       disponibles      al     web      www.estadistica.ad,     a      l’apartat
+         Estadístiques/Dades/Població i migració/Estadístiques de migracions i nacionalitat/Obtencions
+         de nacionalitat. Per estar informat en qualsevol moment de les noves publicacions us podeu
+         inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les
+         notes de premsa d’aquest tema: http://www.estadistica.ad
+
+         Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+         Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X)
+
+         ____________________________________________________________________________
+
+
+         6.   Dates de les publicacions previstes
+
+         Nota de premsa A009. Adquisicions de la nacionalitat andorrana. 1r trimestre 2026: 30 d’abril
+         del 2026
+
+
+
+
+NP_A009_20260330                                                                                          Pàgina 11 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         7.   Annex: Formes d’obtenció de la nacionalitat andorrana
+
+         Formes d’obtenir la nacionalitat andorrana:
+
+         I. La nacionalitat andorrana d’origen
+
+         És andorrà l’infant:
+
+         1. Nascut al Principat d’Andorra, si almenys un dels pares és andorrà.
+
+         2. Nascut a l’estranger, si almenys un dels pares és andorrà i nascut al Principat
+         d’Andorra.
+
+         3. Nascut al Principat d’Andorra, si almenys un dels pares és nascut al Principat
+         d’Andorra, a condició que el progenitor o els progenitors sota l’autoritat del qual o dels
+         quals està legalment sotmès tinguin la seva residència principal i permanent al
+         Principat d’Andorra a la data del naixement de l’infant.
+
+         4. Trobat al Principat d’Andorra o nascut al Principat d’Andorra de pares desconeguts.
+         Aquesta nacionalitat es perd a la data en què s’estableixi la filiació de l’infant respecte
+         a una persona estrangera, a condició que dita filiació esdevingui durant la minoria
+         d’edat de l’infant i que aquest obtingui la nacionalitat de la persona estrangera, segons
+         la llei nacional d’aquesta darrera.
+
+         5. Nascut al Principat d’Andorra de pares apàtrides o de pares estrangers i a qui les
+         lleis estrangeres no li atribueixen la nacionalitat de cap dels pares.
+
+         Aquesta nacionalitat es perd si, durant la minoria d’edat de l’infant, la nacionalitat d’un
+         dels pares li és atribuïda en compliment de la Llei nacional d’aquest progenitor i si
+         aquest progenitor o, si és el cas, l’infant, no compleixen les condicions de residència,
+         la nacionalitat andorrana se li atribueix a títol provisional.
+
+         6. Nascut al Principat d’Andorra de pare i mare estrangers, si almenys un dels seus
+         progenitors, a l’autoritat del qual està legalment sotmès, té la seva residència principal
+         i permanent al Principat d’Andorra a la data de naixement de l’infant i l’ha tinguda
+         durant els deu anys que han precedit aquest naixement. Si l’esmentat període de deu
+         anys no s’ha complert el dia del naixement de l’infant, la nacionalitat andorrana se li
+         atribueix a títol provisional.
+
+         Aquesta nacionalitat a títol provisional s’ha de confirmar, abans que l’infant arribi a la
+         majoria d’edat, o dins de l’any següent a la majoria, pel propi interessat. La
+         confirmació no pot tenir lloc fins que el progenitor pugui acreditar un període de
+         residència principal i permanent al Principat d’Andorra de deu anys de forma
+         ininterrompuda, o, si és el cas, fins que l’interessat pugui acreditar que ha residit ell
+         mateix de forma principal i permanent al Principat d’Andorra durant l’esmentat
+         període, de forma ininterrompuda els cinc darrers anys.
+         La manca de confirmació en les condicions de l’apartat precedent comporta la pèrdua
+         de la nacionalitat andorrana atribuïda a títol provisional per les disposicions d’aquest
+         article.
+
+         El passaport que es lliura per aquesta tipologia d’adquisició, acredita que adquireix la
+         nacionalitat andorrana a títol provisional i mentre no es compleixin els requisits de
+         residència del pare o de la mare i es confirmi la nacionalitat andorrana, ja sigui pels
+         pares ja sigui pel sol·licitant, cal que els progenitors i la persona amb nacionalitat
+         provisional mantinguin la seva inscripció en el Registre Central d’Immigració i que, per
+         tant, renovin si escau l’autorització d’immigració de la qual són titulars.
+
+
+
+
+NP_A009_20260330                                                                                       Pàgina 12 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         II. Adquisició de la nacionalitat andorrana
+
+
+         II.1. Adquisició de la nacionalitat andorrana per adopció plena
+
+         L’adquisició de la nacionalitat andorrana per adopció requereix que l’adopció hagi
+         estat judicialment declarada abans que l’infant tingui catorze anys d’edat i que ho hagi
+         estat en aplicació de la llei andorrana o d’una llei estrangera que no contravingui
+         l’ordenament jurídic del Principat d’Andorra.
+
+         Adquireix la nacionalitat andorrana per adopció:
+
+         a) L’infant adoptat en adopció plena per una persona de nacionalitat andorrana
+         nascuda al Principat d’Andorra.
+
+         b) L’infant adoptat en adopció plena per una persona de nacionalitat andorrana
+         nascuda a l’estranger i resident al Principat d’Andorra.
+
+         c) L’infant adoptat en adopció plena per una persona de nacionalitat estrangera que
+         tingui la seva residència principal i permanent al Principat d’Andorra a la data de
+         l’adopció i l’hagi tinguda durant els deu anys que han precedit l’adopció.
+
+         Si la durada de deu anys no s’ha complert el dia de la sol·licitud, la nacionalitat
+         andorrana li és atorgada a títol provisional; en tal cas, la nacionalitat s’ha de confirmar,
+         abans que l’infant arribi a la majoria d’edat, o dins de l’any següent a la majoria o al
+         que es compleixi el termini de deu anys, pel propi interessat. La confirmació no pot
+         tenir lloc fins que la persona adoptant pugui acreditar un període de residència
+         principal i permanent al Principat d’Andorra de deu anys, o, si és el cas, fins que
+         l’interessat pugui acreditar que ha residit ell mateix de forma principal i permanent al
+         Principat d’Andorra durant l’esmentat període, de forma ininterrompuda els cinc
+         darrers anys. La manca de confirmació en les condicions d’aquest apartat comporta la
+         pèrdua de la nacionalitat andorrana adquirida a títol provisional per les disposicions
+         d’aquest article.
+
+         El passaport que es lliura per aquesta tipologia d’adquisició, acredita que adquireix la
+         nacionalitat andorrana a títol provisional i mentre no es compleixin els requisits de
+         residència del pare o de la mare i es confirmi la nacionalitat andorrana, ja sigui pels
+         pares ja sigui pel sol·licitant, cal que els progenitors i la persona amb nacionalitat
+         provisional mantinguin la seva inscripció en el Registre Central d’Immigració i que, per
+         tant, renovin si escau l’autorització d’immigració de la qual són titulars.
+
+
+         II.2. Adquisició de la nacionalitat per la nacionalitat andorrana d’un progenitor o
+         d’un avi.
+
+
+         Poden adquirir la nacionalitat andorrana:
+
+         a) La persona nascuda a l’estranger, filla biològica o adoptada de pare o mare andorrà
+         nascut també a l’estranger que no resideix al Principat d’Andorra.
+
+         b) Els néts d’una persona de nacionalitat andorrana, si justifiquen una residència
+         principal i permanent de quinze anys al Principat d’Andorra.
+
+         Requisits que s’han de complir:
+
+         - Establir prèviament la residència principal i permanent al Principat d’Andorra i, en el
+         termini previst de cinc anys aportar, a satisfacció del Govern, la prova d’haver perdut
+         la o les nacionalitats que té en aquest moment i declara sota jurament, per escrit
+         adreçat al Govern, no haver fet cap acte destinat a deixar sense efecte la pèrdua.
+
+
+NP_A009_20260330                                                                                        Pàgina 13 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+
+         El passaport que es lliura a la persona interessada acredita la nacionalitat andorrana
+         provisional i estableix un dret d’adquisició de la nacionalitat andorrana si en el termini
+         de cinc anys aporta la prova d’haver perdut la nacionalitat o les nacionalitats que té
+         actualment. En conseqüència, mentre no acrediti aquesta pèrdua, cal que es
+         mantingui la seva inscripció en el Registre Central d’Immigració i que, per tant, renovi
+         si escau l’autorització d’immigració de la qual és titular.
+
+
+         II.3. Adquisició de la nacionalitat per matrimoni.
+
+         Pot adquirir la nacionalitat andorrana la persona estrangera que ha contret matrimoni
+         amb una persona de nacionalitat andorrana, si acredita tenir la seva residència
+         principal i permanent al Principat d’Andorra ininterrompudament des d’almenys tres
+         anys, abans o després de la celebració del matrimoni, i si prova la seva integració al
+         Principat d’Andorra.
+
+         Per adquirir la nacionalitat per matrimoni és necessari:
+
+         - Aportar, en el termini previst de cinc anys, la prova d’haver perdut la o les
+         nacionalitats que té en aquest moment i declarar, sota jurament, no haver fet cap acte
+         destinat a deixar sense efecte la pèrdua.
+
+         - No haver cessat la convivència dels cònjuges en el moment de presentar la
+         sol·licitud.
+
+         - No haver estat prèviament condemnat per delicte dolós a una pena igual o superior a
+         quatre anys de privació de llibertat, o per dos o més delictes dolosos, mentre no s’ha
+         cancel·lat la inscripció de la condemna en el registre d’antecedents penals.
+
+         El Govern pot denegar la naturalització en virtut del present article per raons d’ordre
+         públic o d’interès nacional.
+
+         El passaport que es lliura estableix un dret d’adquisició de la nacionalitat andorrana si
+         en el termini de cinc anys, la persona interessada aporta la prova d’haver perdut la
+         nacionalitat o les nacionalitats que té. En conseqüència, mentre no acrediti aquesta
+         pèrdua, cal que es mantingui la seva inscripció en el Registre Central d’Immigració i
+         que, per tant, renovi si escau l’autorització d’immigració de la qual és titular.
+
+
+         II.4. Adquisició de la nacionalitat per naturalització.
+
+         Pot adquirir la nacionalitat andorrana per naturalització la persona estrangera que ho
+         demana per escrit adreçat al Govern, i que acredita:
+
+         1. Haver tingut la residència principal i permanent al Principat d’Andorra durant els vint
+         anys que precedeixen la presentació de la seva demanda, i prova la seva integració.
+
+         2. Haver tingut la residència principal i permanent al Principat d’Andorra durant els deu
+         anys que precedeixen la presentació de la seva demanda i haver cursat íntegrament
+         l’escolaritat obligatòria, excepció feta dels cursos que no s’imparteixin a Andorra, en
+         centres educatius del Principat que integrin en el seu currículum escolar totes les
+         matèries específiques de formació andorrana.
+
+         Per adquirir la nacionalitat andorrana per naturalització és necessari que la persona
+         estrangera:
+
+
+
+NP_A009_20260330                                                                                      Pàgina 14 de 15
+         A009. Estadística de les adquisicions de nacionalitat andorrana. Any 2025
+
+
+
+         - En el termini previst de cinc anys aporti, a satisfacció del Govern, la prova d’haver
+         perdut la o les nacionalitats que té en aquest moment i declara sota jurament, no
+         haver fet cap acte destinat a deixar sense efecte la pèrdua.
+
+         - No hagi estat prèviament condemnat per delicte dolós a una pena igual o superior a
+         quatre anys de privació de llibertat, o per dos o més delictes dolosos, mentre no s’ha
+         cancel·lat la inscripció de la condemna en el registre d’antecedents penals.
+
+         El Govern pot denegar la naturalització en virtut del present article per raons d’ordre
+         públic o d’interès nacional.
+         El passaport que es lliura estableix un dret d’adquisició de la nacionalitat andorrana si
+         en el termini de cinc anys, aporta la prova d’haver perdut la nacionalitat o les
+         nacionalitats que tingui. En conseqüència, mentre no aporti la prova de la pèrdua, cal
+         que mantingui la seva inscripció en el Registre Central d’Immigració i que, per tant,
+         renovi si escau l’autorització d’immigració de la qual és titular.
+
+
+         II.5. Adquisició de la nacionalitat per naturalització d’un dels progenitors.
+
+         Adquireix la nacionalitat andorrana l’infant menor d’edat no casat, en el cas que el
+         progenitor o un dels progenitors a l’autoritat del qual està legalment sotmès adquireixi
+         la nacionalitat andorrana, si ha nascut al Principat d’Andorra o si hi ha tingut la seva
+         residència principal i permanent almenys des del mateix temps que aquest progenitor.
+
+         La mateixa regla s’aplica a l’infant que hagi estat objecte d’una adopció plena, en el
+         cas d’adquisició per part de la persona adoptant o per part d’un dels adoptants de la
+         nacionalitat andorrana.
+
+         L’expedient del menor d’edat pot ser tramitat conjuntament amb el de la persona que
+         adquireix la nacionalitat andorrana.
+
+         Per adquirir la nacionalitat per naturalització d’un dels progenitors és necessari:
+
+         Haver establert, prèviament, la residència principal i permanent al Principat d’Andorra i
+         si, en el termini previst de cinc anys a partir del dia què arriba a la majoria d’edat,
+         aporta, a satisfacció del Govern, la prova d’haver perdut la o les nacionalitats que té
+         en aquest moment i declara sota jurament, no haver fet cap acte destinat a deixar
+         sense efecte la pèrdua.
+
+         El passaport que es lliura per aquesta tipologia d’adquisició, acredita que adquireix la
+         nacionalitat andorrana a títol provisional i mentre no es compleixin els requisits de
+         residència del pare o de la mare i es confirmi la nacionalitat andorrana, ja sigui pels
+         pares ja sigui pel sol·licitant, cal que els progenitors i la persona amb nacionalitat
+         provisional mantinguin la seva inscripció en el Registre Central d’Immigració i que, per
+         tant, renovin si escau l’autorització d’immigració de la qual són titulars.
+
+
+
+
+NP_A009_20260330                                                                                     Pàgina 15 de 15
+
