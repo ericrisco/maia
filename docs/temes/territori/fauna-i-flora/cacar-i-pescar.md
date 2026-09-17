@@ -100,24 +100,55 @@ I la llei arriba més enllà dels pescadors: s'aplica també a qui, **«sense
 exercir el dret de pesca, realitza actuacions que afecten els recursos piscícoles
 i els ecosistemes aquàtics»** (article 4).
 
+## Els quatre vedats, i la llei que els crea
+
+**Hi ha una llei que es diu exactament així: la Llei dels vedats de caça, del 13
+d'abril del 2000** (`docs/raw/territori/caca/llei-vedats-de-caca-2000.txt`, set
+articles). El seu article 1 no s'amaga: **«La present Llei té per objecte crear i
+fixar els límits territorials dels vedats de caça.»** És l'única, i **no n'hi ha
+cap de posterior** que en creï més.
+
+**En crea quatre**, amb els límits descrits un a un:
+
+| Vedat | On |
+| --- | --- |
+| **Enclar** | la Massana, Sant Julià de Lòria, Andorra la Vella i Escaldes-Engordany |
+| **Xixerella** | — |
+| **La vall de Ransol** | — |
+| **El Parc natural de la vall de Sorteny** | — |
+
+**Dos d'ells són més antics que la llei.** L'exposició de motius ho diu:
+**«L'any 1987, el Consell General creava el vedat reserva d'Enclar i l'any 1990
+el vedat reserva de Xixerella.»** **La llei del 2000 no els inventa: els posa tots
+quatre sota un mateix règim** i n'afegeix dos de nous.
+
+**Què vol dir ser vedat.** **La caça hi és prohibida amb caràcter permanent**
+(article 2), **però es pot acordar la captura de determinades unitats** per via
+reglamentària — i és per aquí que hi entren les **ordres ministerials de plans de
+caça** sobre isards, cabirols i mufló que el Butlletí publica cada estiu des del
+2001. **Cada vedat té la seva comissió tècnica** (article 3), amb estructura i
+composició fixades per reglament.
+
+**I hi ha una cautela territorial que explica el disseny.** Com que **els vedats
+s'ubiquen majoritàriament en domini públic comunal**, la llei diu que **«es
+tindrà en compte el parer dels comuns de les parròquies afectades per fixar-ne els
+límits»**, i que la seva creació **no limita cap altra activitat, actual o futura,
+diferent de les relacionades amb el motiu de la creació**, ni **els drets de la
+propietat privada**.
+
 ## Buits registrats
 
 - **Quines espècies són caçables, la llei no ho diu.** Ho remet al reglament i
   als convenis internacionals (article 3). El corpus té el marc i no la llista.
 - **Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
   no consta.
-- **Quins vedats existeixen** —que són llei— **`obert`, i el 16-09-2026 se sap
-  per què no es troben.** **La mateixa Llei de caça ho diu a l'article 14**
-  (`docs/raw/lleis/caca.txt`): **els vedats de caça són «zones geogràfiques,
-  determinades per llei»**, **i aquesta Llei no en determina cap** — **només
-  en defineix la figura i el règim.**
-  **La llista, doncs, no és en aquest text sinó en les lleis que creen cada
-  vedat**, que el corpus no té. **I la Llei n'estableix una segona categoria que
-  va per una altra via**: **els *vedats temporals de caça*, que es determinen
-  per ordre ministerial** (article 15), **no per llei.**
-  **Per tant són dues cerques diferents i no una**: `requereix les lleis de
-  creació de cada vedat` i `requereix les ordres ministerials de vedats
-  temporals`.
+- ~~**Quins vedats existeixen** —que són llei—~~ — **`resolt` el 17-09-2026** a
+  «[Els quatre vedats, i la llei que els crea](#els-quatre-vedats-i-la-llei-que-els-crea)»:
+  **la Llei dels vedats de caça del 13-4-2000 en crea quatre** —Enclar, Xixerella,
+  la vall de Ransol i el Parc natural de la vall de Sorteny— **i no n'hi ha cap
+  llei posterior que en creï més**. `Els vedats temporals, que van per ordre
+  ministerial (article 15 de la Llei de caça), segueixen sense inventariar: el
+  Butlletí en publica una tirallonga anual.`
 - **Els articles de la Llei de pesca arriben amb el títol malmès** a la font: en
   molts casos el títol repeteix la primera frase de l'article, truncada. El text
   és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.
