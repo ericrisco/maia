@@ -185,6 +185,57 @@ llei: és el pressupost de cada any.** El corpus **no té cap llei de pressupost
 cap ordinació pressupostària**, i per tant **no pot dir a partir de quin import
 un contracte menor andorrà es fa visible**. **Buit registrat.**
 
+## El reglament que obliga a dir per quina lletra
+
+**Existeix i és recent**: el **Decret 38/2026, del 4 de febrer del 2026**, que
+aprova el **Reglament de la Llei de contractació pública** (BOPA del 10-2-2026,
+[evidència](../../../raw/lleis/bopa/decret-38-2026-reglament-contractacio-publica.txt)).
+El seu **article 19** és el desplegament de l'article 30.6 de la Llei.
+
+**El contingut mínim de l'edicte d'adjudicació d'una contractació directa**, per
+apartats:
+
+| | Què hi ha de constar |
+| --- | --- |
+| a) | La fase: «adjudicació» |
+| b) | Data de l'acord de l'òrgan competent; òrgan contractant i òrgan que gestiona l'expedient |
+| c) | **Identitat de l'adjudicatari**, objecte, localització, **preu**, **partida pressupostària**, durada, forma d'adjudicació («contractació directa»), àmbit nacional o internacional, procediment («negociat») i modalitat de tramitació |
+| d) | **«La circumstància que justifica la contractació directa […] esmentant la lletra de l'apartat 1 de l'article 30 de la Llei a la qual s'acull»** |
+| e) | Vies de recurs |
+
+**La lletra d) és la que canvia què es pot saber.** Fins ara, un edicte
+d'adjudicació directa podia no dir per quin motiu s'havia adjudicat sense
+concurrència; **des del febrer del 2026 ha de nomenar la lletra**. El
+[buit 3](#buits-registrats) —quants contractes s'adjudiquen per cada lletra—
+**deixa de ser impossible de comptar des del BOPA**, per als contractes
+posteriors a aquesta data.
+
+`Requereix escombrar els edictes d'adjudicació des del febrer del 2026 i comptar
+per lletra. El corpus no ho ha fet.`
+
+**Dues exclusions de publicació**, al mateix article 19.1: els contractes «de
+caràcter sensible o reservat, que afecten la protecció d'**interessos essencials
+de l'Estat** per a la seguretat de l'Estat», i els d'**import inferior al de
+contracte menor**. **Els dos forats que la llei ja obria, el reglament els
+confirma.**
+
+**I la regla de les tres ofertes queda fixada per lletres.** L'article 16:
+
+> «en els supòsits dels contractes enumerats en les **lletres a, c i h** de
+> l'apartat 1 del mateix article 30, el poder adjudicador **ha de demanar
+> pressupost o oferta per escrit a un mínim de tres operadors econòmics** […] En
+> els altres supòsits de contractació directa, **inclòs el dels restants
+> contractes menors, aquesta petició és facultativa**.»
+
+**Tres lletres de deu obliguen a demanar tres pressupostos.** A la resta
+—inclosa la **g)**, la dels encàrrecs i els interessos essencials de l'Estat— **es
+pot adjudicar amb una sola oferta i sense demanar-ne cap altra**.
+
+**Els contractes menors, a més, no duren ni es prorroguen**: l'article 17.2.c diu
+que «no poden tenir una durada superior a un any, ni ser objecte de pròrroga ni
+de revisió de preus», i el 17.2.a que **la factura substitueix el document
+contractual i l'acta de recepció**.
+
 ## Buits registrats
 
 1. **A partir de quin import** un contracte menor passa per la Plataforma de
@@ -208,15 +259,24 @@ un contracte menor andorrà es fa visible**. **Buit registrat.**
    l'import de menor**, i **les modificacions, igual.** **Per sota de 15.000
    euros, un contracte de serveis no deixa rastre públic.**
 
-   `El que segueix obert és la Plataforma mateixa: la llei la regula a l'article
-   129 i no diu a partir de quin import s'hi ha de publicar; això sí que depèn
-   del desplegament.`
+   ~~`El que segueix obert és la Plataforma mateixa: la llei la regula a
+   l'article 129 i no diu a partir de quin import s'hi ha de publicar.`~~
+   **`resolt` el 17-09-2026, i la llei tampoc no era el lloc.** L'article 17.2.b
+   del **Reglament del 4 de febrer del 2026** diu que en els contractes menors
+   «la tramitació de l'expedient s'efectua per mitjà de la Plataforma de
+   contractació del sector públic **quan es tracta d'imports superiors als
+   llindars establerts en la Llei del pressupost anual o en les ordinacions del
+   pressupost**». **El llindar no és a la llei de contractació ni al seu
+   reglament: es fixa cada any al pressupost, i cada comú el seu.**
+   `Requereix la Llei del pressupost vigent per tenir la xifra d'enguany.`
 2. **Si la branca d'«encàrrecs» de la lletra g) exigeix declaració expressa**, o
    si només l'exigeix la d'interessos essencials de l'Estat. **Prioritari.**
 3. **Quants contractes s'adjudiquen per cada lletra.** La llei diu què es pot
    fer; **el corpus no té cap dada del que es fa**.
-4. **El reglament** que ha de determinar el contingut de l'edicte d'adjudicació
-   (30.6).
+4. ~~**El reglament** que ha de determinar el contingut de l'edicte d'adjudicació
+   (30.6).~~ `resolt` el 17-09-2026: **Decret 38/2026, del 4 de febrer del 2026,
+   d'aprovació del Reglament de la Llei de contractació pública** — vegeu
+   [El reglament que obliga a dir per quina lletra](#el-reglament-que-obliga-a-dir-per-quina-lletra).
 5. **Els altres 129 articles** d'aquesta llei.
 6. **Si hi ha hagut litigi** sobre l'article 30.
 
