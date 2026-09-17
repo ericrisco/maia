@@ -161,18 +161,82 @@ línia de signatura andorrana hi surt **en català**:
 **Al mateix document on el selector d'EUR-Lex no ofereix el català, el català hi
 és imprès.**
 
+## En quines condicions hi seu: la Decisió 1/2003, articles 65 a 68
+
+El protocol remet *mutatis mutandis* a tres articles d'una decisió del **Comitè
+Mixt CE-Andorra** del **3 de setembre del 2003**, publicada al **DOUE L 253 del
+07-10-2003, p. 3-21** (CELEX **22003D0692**). Ara el corpus la té
+([evidència](../../../raw/relacions-exteriors/decisio-1-2003-comite-mixt-en.txt)),
+i les condicions són quatre frases.
+
+**Primer, quins comitès.** L'**article 65** en nomena **dos i només dos**:
+
+> «— the **Customs Code Committee**, — the **Committee on External Trade
+> Statistics**.»
+
+I hi posa una condició de matèria: els experts andorrans hi participen **«in
+areas of direct relevance to the functioning of the Customs Union where this is
+required to ensure the proper functioning of the Customs Union»**.
+
+**Segon, qui hi va i què pot fer.** L'**article 66**, sencer:
+
+> «The Principality of Andorra shall appoint **an expert** to represent it in
+> meetings of each of the committees referred to in Article 65. The expert, **who
+> must be a member of the Andorran administration**, shall be involved in the
+> work of the said committees **when it concerns the functioning of the Customs
+> Union**. He shall express the position of the Principality of Andorra. **He
+> shall not be entitled to vote.** The expert's opinion **shall be put on record
+> separately**.»
+
+**Quatre limitacions en una sola frase**: **un sol expert** per comitè, **ha de
+ser funcionari andorrà**, **només intervé en el que toca la unió duanera**, i
+**no vota**. I una garantia: **la seva opinió consta a l'acta a part**.
+
+**Tercer, què li han de donar.** L'**article 67** obliga la Comissió a informar
+l'expert **«in good time»** de les dates de les reunions i de **tots els punts de
+l'ordre del dia**, i a transmetre-li **«any relevant information»**.
+
+**Quart, quan el poden deixar fora.** L'**article 68** és la contrapartida:
+
+> «**On the initiative of its chairman, each committee may meet without the
+> expert** representing the Principality of Andorra. In that case, the
+> Principality of Andorra **shall be informed**.»
+
+**El president del comitè pot reunir-lo sense Andorra, sense donar cap motiu.**
+L'única obligació és **avisar-ne després**.
+
+**El resum de les condicions, doncs, és aquest**: Andorra hi és **per invitació
+permanent i no per dret**, **hi parla i no hi vota**, **queda constància del que
+hi diu**, i **la pot excloure de la sala qui presideix**.
+
+**I hi ha una cosa que el protocol del 2011 no diu i la decisió sí**: l'**article
+69.1** obliga Andorra a fer el mirall de cada decisió de la Comissió —«**an
+equivalent Decision shall be taken by the authorities of the Principality of
+Andorra**»— i el **69.2** mana interpretar les disposicions duaneres comunes
+**«in accordance with the case law of the Court of Justice»**. **Andorra no vota
+la norma, l'ha de copiar, i l'ha de llegir com la llegeix un tribunal on tampoc
+no és.**
+
+`La decisió del 2003 en va derogar dues d'anteriors: la Decisió 2/91 del Comitè
+Mixt CEE-Andorra i la Decisió 1/96 del Comitè Mixt CE-Andorra, que hi queden
+incorporades.`
+
 ## Buits registrats
 
 **Els dos actes que el protocol invoca no són al corpus**, i tots dos són
 identificables amb referència exacta:
 
-- **Decisió 2010/625/UE**, adequació de la protecció de dades personals a
-  Andorra, DOUE L 277, 21-10-2010, p. 27. **Rellevant per a les decisions de
-  privacitat d'aquest corpus.**
-- **Decisió núm. 1/2003 del Comitè Mixt CE-Andorra**, DOUE L 253, 07-10-2003,
-  p. 3, articles **66 a 68**, que regeixen *mutatis mutandis* **com participa
-  Andorra al Comitè del Codi Duaner**. Sense això, **el corpus sap que Andorra hi
-  seu i no sap en quines condicions.**
+- ~~**Decisió 2010/625/UE**, adequació de la protecció de dades personals a
+  Andorra, DOUE L 277, 21-10-2010, p. 27.~~ — **`resolt`, i era un buit de
+  navegació**: el corpus ja la tenia llegida a
+  [Andorra és adequada](./andorra-es-adequada.md), amb el text consolidat del
+  2016 a `raw/relacions-exteriors/adequacio-2010-consolidat-2016.txt`.
+- ~~**Decisió núm. 1/2003 del Comitè Mixt CE-Andorra**, DOUE L 253, 07-10-2003,
+  p. 3, articles **66 a 68**.~~ — **`resolt` el 17-09-2026 des d'EUR-Lex**
+  (CELEX **22003D0692**): vegeu
+  [En quines condicions hi seu](#en-quines-condicions-hi-seu-la-decisio-12003-articles-65-a-68).
+  **Són dos comitès, un sol expert funcionari, sense vot, i el president el pot
+  deixar fora de la sala.**
 
 **No consta quan el protocol va deixar de ser provisional.**
 

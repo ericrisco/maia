@@ -39,15 +39,21 @@ mesures de reequilibri.
 
 **Dos actes que el protocol invoca no són al corpus:**
 
-- **Decisió 2010/625/UE de la Comissió, de 19 d'octubre del 2010**, sobre
+- ~~**Decisió 2010/625/UE de la Comissió, de 19 d'octubre del 2010**, sobre
   **l'adequació de la protecció de dades personals a Andorra** (DOUE L 277,
-  21-10-2010, p. 27). El protocol la cita al preàmbul per afirmar que «Andorra
-  té un nivell adequat de protecció de dades personals». **No s'ha llegit**, i és
-  directament rellevant per a les decisions de privacitat d'aquest corpus.
-- **Decisió núm. 1/2003 del Comitè Mixt CE-Andorra** (DOUE L 253, 07-10-2003,
-  p. 3), els articles **66 a 68** de la qual s'apliquen *mutatis mutandis* a la
-  participació andorrana al Comitè del Codi Duaner. **No s'ha llegit**, i és on
-  han de constar les condicions reals d'aquella participació.
+  21-10-2010, p. 27).~~ — **`resolt`, i era un buit de navegació**: el corpus ja
+  la tenia llegida a
+  [Andorra és adequada](../temes/institucions/relacions-exteriors/andorra-es-adequada.md),
+  amb el text consolidat del 2016 a
+  `raw/relacions-exteriors/adequacio-2010-consolidat-2016.txt` i fitxa pròpia a
+  [`eur-lex-adequacio-dades-andorra-2010`](./eur-lex-adequacio-dades-andorra-2010.md).
+- ~~**Decisió núm. 1/2003 del Comitè Mixt CE-Andorra** (DOUE L 253, 07-10-2003,
+  p. 3), els articles **66 a 68**.~~ — **`resolt` el 17-09-2026 des d'EUR-Lex**,
+  CELEX **22003D0692**
+  (`raw/relacions-exteriors/decisio-1-2003-comite-mixt-en.txt`). Buidat a
+  [Andorra a la Comissió on no vota](../temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md):
+  **dos comitès, un sol expert funcionari, sense vot, opinió a l'acta a part, i
+  el president el pot excloure de la reunió avisant-ne després.**
 
 **El text autèntic en català no s'ha localitzat**, com en l'acord de 1990. Aquí
 la línia de signatura andorrana **sí que surt en català** dins del text anglès

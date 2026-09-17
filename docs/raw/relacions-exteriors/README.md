@@ -25,3 +25,33 @@ de digitalització** del DOUE en paper: *«tirade relations»* per *trade*, *«a
 free circulation»* per *are*, *«accept! the Agreement»* per *accepts*, *«General
 and final provisionsb»*. **La versió consolidada no les té.** Cap citació no s'ha
 pres del render del text original sense comprovar-la contra el consolidat.
+
+
+## `decisio-1-2003-comite-mixt-en` — la Decisió 1/2003 del Comitè Mixt
+
+**Decision No 1/2003 of the EC-Andorra Joint Committee of 3 September 2003 on
+the laws, regulations and administrative provisions necessary for the proper
+functioning of the Customs Union** (2003/692/EC), **DOUE L 253 de 07-10-2003,
+p. 3-21**, CELEX **22003D0692**.
+
+| | |
+| --- | --- |
+| **URL** | `https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22003D0692` |
+| **Llengua** | **anglès** — no n'hi ha versió catalana, com a la resta d'EUR-Lex |
+| **Reutilització** | autoritzada amb indicació de la font (Decisió 2011/833/UE), avís legal a `eurlex-legal-notice-2026-09-13.txt` |
+| **Data de consulta** | 2026-09-17 |
+| **`apte_dataset`** | **sí** |
+
+**Per què importa**: el protocol de seguretat duanera del 2011 hi remet *mutatis
+mutandis* per fixar **com participa Andorra als comitès de la Comissió**. Els
+articles rellevants són el **65** (quins comitès: Codi Duaner i Estadístiques de
+Comerç Exterior), el **66** (un expert funcionari, sense vot, opinió a l'acta a
+part), el **67** (què li ha de comunicar la Comissió) i el **68** (el president
+pot reunir el comitè sense ell). El **69** hi afegeix l'obligació andorrana
+d'adoptar una decisió equivalent a cada decisió de la Comissió i d'interpretar
+les disposicions duaneres segons la jurisprudència del Tribunal de Justícia.
+
+**Deroga** la Decisió 2/91 del Comitè Mixt CEE-Andorra i la Decisió 1/96 del
+Comitè Mixt CE-Andorra, que hi queden incorporades.
+
+**On s'usa**: [`temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md`](../../temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md).
