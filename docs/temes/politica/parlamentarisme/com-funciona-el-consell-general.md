@@ -270,9 +270,9 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    de cobrir nou comissions amb pocs membres.** `Requereix la composició real
    d'una legislatura per veure quants consellers en fan tres o quatre.`
 5. **La comissió d'enquesta del cas BPA**: composició, conclusions.
-6. **Si hi ha hagut mai una ILP** a Andorra, i quantes. — **`parcial` el
-   17-09-2026, i la resposta provisional és que no n'hi pot haver hagut gaires,
-   perquè fins fa tres anys no estava regulada.** **La Llei 8/2023, del 30 de
+6. ~~**Si hi ha hagut mai una ILP** a Andorra, i quantes.~~ — **`resolt` el
+   18-09-2026: cap.** El dret existeix des del 1993, **el procediment des del
+   2023**, i **a la legislatura actual no se n'ha presentat ni una**. **La Llei 8/2023, del 30 de
    gener, reguladora de la iniciativa legislativa popular**
    (`docs/raw/lleis/bopa/llei-8-2023-iniciativa-legislativa-popular.txt`) ho
    diu ella mateixa, amb una frase que val per tota aquesta fitxa:
@@ -293,10 +293,32 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
 
    **Cercat al [BOPA](../../../fonts/bopa.md) el 17-09-2026, «comissió
    promotora» amb «iniciativa legislativa popular» dona un sol document, que
-   és la llei mateixa**: **cap ILP publicada al Butlletí.** **Això no prova
-   que no se n'hagi presentat cap** —la presentació es fa a la Sindicatura i
-   pot no passar pel BOPA—: `Requereix el registre de la Sindicatura o el
-   Butlletí del Consell General.`
+   és la llei mateixa**: **cap ILP publicada al Butlletí Oficial.**
+
+   **I el 18-09-2026 es tanca amb la font que el buit demanava**: el
+   **Butlletí del Consell General**, a la seu electrònica
+   (`seu.consellgeneral.ad`), publica **l'arbre sencer del procediment
+   legislatiu** amb una carpeta per a cada via d'iniciativa. **Les dues
+   carpetes d'iniciativa popular són buides:**
+
+   | Via d'iniciativa | Documents a la seu (18-09-2026) |
+   | --- | --- |
+   | Proposició de llei **d'iniciativa parlamentària** | **81** |
+   | Proposició de llei **qualificada d'iniciativa parlamentària** | **28** |
+   | Proposició de llei **d'iniciativa comunal** | **15** |
+   | **Proposició de llei d'iniciativa popular** | **0** |
+   | **Proposició de llei qualificada d'iniciativa popular** | **0** |
+
+   **Les carpetes existeixen i estan buides**, i les germanes no ho estan:
+   **no és que la seu no publiqui aquesta via, és que no hi ha res a
+   publicar.** **Des que el 2023 es va regular el procediment, no s'ha
+   presentat ni una sola iniciativa legislativa popular.**
+
+   **I la iniciativa comunal, que el corpus subratllava com a excepcional,
+   sí que s'exerceix**: **quinze documents**, entre ells la **Proposició de
+   llei de concertació i consulta institucional dels comuns** i la de
+   **modificació de la Llei del cens**. `L'abast d'aquesta comprovació és la
+   legislatura actual: la seu publica el Butlletí del 2023 ençà.`
 7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
    descrits. Cap fitxa al corpus. — **`parcial` el 17-09-2026: segueixen sense
    fitxa i ja no són sense font.** **El Raonador del Ciutadà** té la seva llei
