@@ -169,6 +169,38 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 5. **«Fer la cisena»** — el privilegi que la regula. El document de 1894 l'anomena
    «el llamado privilegio de **Sisena**, dado por el Sr. Obispo Urries y
    restaurado más tarde por el Obispo Capella», i el corpus **no en té el text**.
+   — **`parcial` el 17-09-2026: el privilegi segueix sense text, i l'operació ja
+   no és una descripció de segona mà.** Les [actes històriques del Consell
+   General](../../../fonts/actes-historiques-consell-general.md) **la mostren
+   feta, any rere any, des del 1610**:
+
+   > «trobe lo Consel a Bortomeu Molles vaje a la Seu per a **presentar la
+   > nominasió de la sisena de balle** al senyor col·lector de la Cambra
+   > Apostòlica» *(1610)*
+   >
+   > «Dit dia **fa lo Consel sisena de balle del Senyor Rei Cristianí[si]m**,
+   > senyor nostre. **Primo, a Canillo** Mora. **A Sant Julià** Bonet, lo jove,
+   > d'Eixirovall. [...] **A la Massana** Fonta, lo jove, de Sisponi.
+   > **Andorra** Pere Joan Montània.» *(Llibre II, vers 1649)*
+
+   **Tres coses que això estableix i que el Politar no deia:**
+
+   **Primera, es feia per als dos coprínceps per separat**, i les actes en
+   distingeixen les fórmules: **«la sisena del senyor bisbe»** va **a la Seu**,
+   al col·lector de la Cambra Apostòlica; **«la sisena de balle del Senyor Rei
+   Cristianíssim»** va **a França**.
+
+   **Segona, els noms s'inscriuen a l'acta un per parròquia, amb el lloc
+   d'origen**, i **és així com es comprova que el «un de cada parròquia» del
+   Politar es complia a la pràctica**, no només sobre el paper.
+
+   **Tercera, i és la que data el final**: la introducció del Llibre IV diu que
+   **amb la interrupció francesa —del 1793 al 1806— «es va deixar d'enviar la
+   sisena pel nomenament de batlle a França»**. **La pràctica té, doncs, dos
+   segles llargs documentats i una interrupció datada.**
+
+   `Requereix encara el text del privilegi d'Urries i de la restauració de
+   Capella; el que ja no falta és l'operació.`
 6. **Capitans, deseners i guardes**: el capítol VII hi és i encara no s'ha
    llegit. — **`obert` pel que fa a la lectura, i ara se sap per què val la pena
    fer-la.** **Dos d'aquests tres càrrecs són vigents.** La **Llei 28/2022,
