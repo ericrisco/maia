@@ -1,0 +1,382 @@
+L_2008218ES.01001401.xml
+13.8.2008
+ES
+Diario Oficial de la Unión Europea
+L 218/14
+REGLAMENTO (CE) N
+o
+763/2008 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 9 de julio de 2008
+relativo a los censos de población y vivienda
+(Texto pertinente a efectos del EEE)
+EL CONSEJO DE LA UNIÓN EUROPEA,
+Visto el Tratado constitutivo de la Comunidad Europea y, en particular, su artículo 285, apartado 1,
+Vista la propuesta de la Comisión,
+De conformidad con el procedimiento establecido en el artículo 251 del Tratado
+(
+1
+)
+,
+Considerando lo siguiente:
+(1)
+La Comisión (Eurostat) necesita disponer de datos sobre la población y la vivienda suficientemente fidedignos, detallados y comparables para capacitar a la Comunidad para cumplir las tareas que le han sido asignadas, especialmente en virtud de los artículos 2 y 3 del Tratado. Conviene asegurar una comparabilidad suficiente a nivel comunitario por lo que respecta a la metodología, las definiciones y el programa de los datos y de los metadatos estadísticos.
+(2)
+Para el estudio y la definición de políticas regionales, sociales y ambientales que afectan a sectores particulares de la Comunidad se requieren datos estadísticos periódicos sobre la población y las principales características familiares, sociales y económicas de los ciudadanos, así como sobre las condiciones de su vivienda. En particular, es necesario recopilar información detallada sobre la vivienda como apoyo a diversas actividades de la Comunidad, como son el fomento de la inclusión social y el seguimiento de la cohesión social a escala regional o la protección del medio ambiente y la promoción de la eficacia energética.
+(3)
+Teniendo en cuenta los avances metodológicos y tecnológicos, deben identificarse las mejores prácticas y debe fomentarse el perfeccionamiento de las fuentes de datos y de las metodologías utilizadas para los censos en los Estados miembros.
+(4)
+A fin de garantizar la comparabilidad de los datos facilitados por los Estados miembros y de elaborar síntesis fiables a nivel comunitario, los datos utilizados deben corresponder a un mismo año de referencia.
+(5)
+De conformidad con el Reglamento (CE) n
+o
+322/97 del Consejo, de 17 de febrero de 1997, sobre la estadística comunitaria
+(
+2
+)
+, que constituye el marco de referencia para las disposiciones del presente Reglamento, la recopilación de estadísticas se guiará por los principios de imparcialidad, concretamente objetividad e independencia científica, así como de transparencia, fiabilidad, pertinencia, relación coste/eficacia y secreto estadístico.
+(6)
+La transmisión de informaciones amparadas por el secreto estadístico se rige por el Reglamento (CE) n
+o
+322/97 y el Reglamento (Euratom, CEE) n
+o
+1588/90 del Consejo, de 11 de junio de 1990, relativo a la transmisión a la Oficina Estadística de las Comunidades Europeas de las informaciones amparadas por el secreto estadístico
+(
+3
+)
+. Las medidas adoptadas con arreglo a estos Reglamentos garantizan la protección física e informática de los datos confidenciales y evitan la divulgación ilícita o la utilización para fines no estadísticos cuando se realicen o divulguen estadísticas comunitarias.
+(7)
+A la hora de elaborar y divulgar las estadísticas comunitarias en virtud del presente Reglamento, las autoridades estadísticas nacionales y comunitarias deben tener en cuenta los principios establecidos en el Código de buenas prácticas de las estadísticas europeas de 24 de febrero de 2005, adoptado por el Comité del programa estadístico, establecido por la Decisión 89/382/CEE, Euratom del Consejo
+(
+4
+)
+, y adjunto a la Recomendación de la Comisión relativa a la independencia, la integridad y la responsabilidad de las autoridades estadísticas de los Estados miembros y de la Comunidad.
+(8)
+Dado que los objetivos del presente Reglamento, a saber, la recopilación y compilación de estadísticas comunitarias comparables y completas sobre población y vivienda, no pueden ser suficientemente alcanzados por los Estados miembros debido a la ausencia de características estadísticas y requisitos de calidad comunes, así como a la falta de transparencia metodológica, y, por consiguiente, pueden alcanzarse mejor a escala comunitaria mediante un marco estadístico común, la Comunidad puede adoptar medidas de conformidad con el principio de subsidiariedad consagrado en el artículo 5 del Tratado. Con arreglo al principio de proporcionalidad enunciado en ese mismo artículo, el presente Reglamento no excede de lo necesario para alcanzar dichos objetivos.
+(9)
+Conviene que las medidas necesarias para la ejecución del presente Reglamento sean adoptadas con arreglo a la Decisión 1999/468/CE del Consejo, de 28 de junio de 1999, por la que se establecen los procedimientos para el ejercicio de las competencias de ejecución atribuidas a la Comisión
+(
+5
+)
+.
+(10)
+Conviene, en particular, conferir competencias a la Comisión para que establezca las condiciones de establecimiento de los años de referencia siguientes y de adopción del programa de los datos y de los metadatos estadísticos. Dado que estas medidas son de alcance general y están destinadas a modificar elementos no esenciales del presente Reglamento, incluso completándolo con nuevos elementos no esenciales, deben adoptarse con arreglo al procedimiento de reglamentación con control previsto en el artículo 5
+bis
+de la Decisión 1999/468/CE.
+(11)
+El Comité del programa estadístico ha sido consultado con arreglo al artículo 3 de la Decisión 89/382/CEE, Euratom.
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objeto
+El presente Reglamento establece normas comunes para la presentación decenal de datos exhaustivos sobre población y vivienda.
+Artículo 2
+Definiciones
+A los efectos del presente Reglamento se entenderá por:
+a)
+«población»: la población nacional, regional y local en su residencia habitual en la fecha de referencia;
+b)
+«vivienda»: las viviendas convencionales y los edificios, así como los alojamientos y la relación entre la población y los mismos a nivel nacional, regional y local en la fecha de referencia;
+c)
+«edificios»: los edificios permanentes que contienen viviendas convencionales destinadas al alojamiento de personas, y las viviendas convencionales que se reservan para uso estacional o secundario, o que están desocupadas;
+d)
+«residencia habitual»: el lugar en que una persona pasa normalmente el período diario de descanso, independientemente de ausencias temporales con fines de ocio, vacaciones, visitas a amigos o parientes, negocios, tratamiento médico o peregrinaje religioso.
+Deberán considerarse residentes habituales de la zona geográfica en cuestión únicamente:
+i)
+aquellas personas que hayan vivido en su lugar de residencia habitual durante un período ininterrumpido de al menos doce meses antes de la fecha de referencia, o
+ii)
+aquellas personas que hayan llegado a su lugar de residencia habitual durante los doce meses anteriores a la fecha de referencia con la intención de permanecer en él durante al menos un año.
+Cuando no se puedan determinar las circunstancias descritas en los incisos i) o ii), se entenderá por «residencia habitual» el lugar de residencia legal o registrado;
+e)
+«fecha de referencia»: la fecha a la que hacen referencia los datos del Estado miembro de que se trate, de conformidad con lo dispuesto en el artículo 5, apartado 1;
+f)
+«nacional»: relativo al territorio de un Estado miembro;
+g)
+«regional»: a nivel NUTS 1, a nivel NUTS 2 y a nivel NUTS 3, tal y como se definen en la versión aplicable, en la fecha de referencia, de la nomenclatura de unidades territoriales estadísticas (NUTS), establecida en el Reglamento (CE) n
+o
+1059/2003 del Parlamento Europeo y del Consejo
+(
+6
+)
+;
+h)
+«local»: el nivel 2 de las unidades administrativas locales (nivel UAL 2);
+i)
+«características esenciales de los censos de población y vivienda»: la enumeración individual, la simultaneidad, la universalidad en un territorio definido, la disponibilidad de datos relativos a áreas pequeñas y la periodicidad definida.
+Artículo 3
+Presentación de los datos
+Los Estados miembros facilitarán a la Comisión (Eurostat) datos sobre población relativos a determinadas características demográficas, sociales y económicas de personas, familias y hogares, así como sobre vivienda a nivel nacional, regional y local según las modalidades que se establecen en el anexo.
+Artículo 4
+Fuentes de datos
+1.   Los Estados miembros podrán basar las estadísticas en diferentes fuentes de datos, en particular en:
+a)
+censos clásicos;
+b)
+censos basados en registros;
+c)
+una combinación de censos clásicos y encuestas por muestreo;
+d)
+una combinación de censos basados en registros y encuestas por muestreo;
+e)
+una combinación de censos basados en registros y censos clásicos;
+f)
+una combinación de censos basados en registros, encuestas por muestreo y censos clásicos, y
+g)
+encuestas apropiadas con muestras rotatorias (censos continuos).
+2.   Los Estados miembros adoptarán todas las medidas necesarias para cumplir los requisitos en materia de protección de datos. Las disposiciones de los Estados miembros sobre protección de datos no se verán afectadas por el presente Reglamento.
+3.   Los Estados miembros informarán a la Comisión (Eurostat) de las revisiones o correcciones que se hayan introducido en las estadísticas transmitidas de conformidad con el presente Reglamento, así como sobre cualquier cambio en las fuentes de datos y la metodología elegidas, a más tardar en el plazo de un mes antes de la publicación de los datos revisados.
+4.   Los Estados miembros velarán por que las fuentes de datos y la metodología que se utilicen para cumplir los requisitos del presente Reglamento se atengan, en la medida de lo posible, a las características esenciales de los censos de población y vivienda, tal y como se definen en el artículo 2, letra i). Harán esfuerzos de manera continuada para incrementar el grado de cumplimiento de esas características esenciales.
+Artículo 5
+Transmisión de datos
+1.   Cada Estado miembro determinará una fecha de referencia. La fecha de referencia deberá pertenecer a un año definido sobre la base del presente Reglamento (año de referencia). El primer año de referencia será 2011. La Comisión (Eurostat) establecerá los años de referencia siguientes con arreglo al procedimiento de reglamentación con control contemplado en el artículo 8, apartado 3. Los años de referencia se situarán al inicio de cada decenio.
+2.   Los Estados miembros transmitirán a la Comisión (Eurostat) datos finales, validados y agregados, y metadatos, según lo especificado en el presente Reglamento, en un plazo de 27 meses a partir del final del año de referencia.
+3.   La Comisión (Eurostat) adoptará un programa de los datos y de los metadatos estadísticos que deben transmitirse para cumplir los requisitos del presente Reglamento, con arreglo al procedimiento de reglamentación con control contemplado en el artículo 8, apartado 3.
+4.   La Comisión (Eurostat) adoptará las especificaciones técnicas de los temas que requiere el presente Reglamento, así como sus desagregaciones, con arreglo al procedimiento de reglamentación contemplado en el artículo 8, apartado 2.
+5.   Los Estados miembros transmitirán a la Comisión (Eurostat) los datos y metadatos validados en formato electrónico. La Comisión (Eurostat) adoptará el formato técnico apropiado que deberá utilizarse para la transmisión de los datos requeridos de conformidad con el procedimiento de reglamentación contemplado en el artículo 8, apartado 2.
+6.   En caso de que se proceda a revisiones o correcciones de conformidad con lo dispuesto en el artículo 4, apartado 3, los Estados miembros transmitirán los datos modificados a la Comisión (Eurostat) a más tardar en la fecha de emisión de los datos revisados.
+Artículo 6
+Evaluación de la calidad
+1.   A los efectos del presente Reglamento, se aplicarán los siguientes aspectos de la evaluación de la calidad a los datos que deben transmitirse:
+—
+«pertinencia» se refiere al grado en que las estadísticas responden a las necesidades actuales y potenciales de los usuarios,
+—
+«precisión» se refiere a la concordancia de las estimaciones con los valores auténticos desconocidos,
+—
+«oportunidad» y «puntualidad» se refieren al tiempo transcurrido entre el período de referencia y la disponibilidad de los resultados,
+—
+«accesibilidad» y «claridad» se refieren a las condiciones y disposiciones según los cuales los usuarios pueden obtener, usar e interpretar los datos,
+—
+«comparabilidad» se refiere a la medida del impacto de las diferencias en los conceptos estadísticos aplicados y en los instrumentos y procedimientos de medición cuando se comparan estadísticas entre zonas geográficas, ámbitos sectoriales o a lo largo del tiempo,
+—
+«coherencia» se refiere a la adecuación de los datos para ser combinados con fiabilidad en diferentes formas y para diversos usos.
+2.   Los Estados miembros presentarán un informe a la Comisión (Eurostat) sobre la calidad de los datos transmitidos. En este contexto, los Estados miembros explicarán en qué medida las fuentes de datos y la metodología elegidas se atienen a las características esenciales de los censos de población y vivienda, tal y como se definen en el artículo 2, letra i).
+3.   Cuando se apliquen los aspectos de la evaluación de la calidad contemplados en el apartado 1 a los datos cubiertos por el presente Reglamento, las modalidades y la estructura de los informes sobre la calidad quedarán definidos con arreglo al procedimiento de reglamentación contemplado en el artículo 8, apartado 2. La Comisión (Eurostat) evaluará la calidad de los datos transmitidos.
+4.   La Comisión (Eurostat), en cooperación con las autoridades competentes de los Estados miembros, formulará recomendaciones metodológicas que permitan asegurar la calidad de los datos y metadatos producidos, teniendo en cuenta, en particular, las Recomendaciones de la Conferencia de Estadísticos Europeos para los censos de población y vivienda de 2010.
+Artículo 7
+Medidas de aplicación
+1.   Las medidas que figuran a continuación, necesarias para la aplicación del presente Reglamento, se adoptarán con arreglo al procedimiento contemplado en el artículo 8, apartado 2:
+a)
+las especificaciones técnicas de los temas que requiere el presente Reglamento, así como sus desagregaciones, de conformidad con el artículo 5, apartado 4;
+b)
+la adopción del formato técnico apropiado, tal y como se establece en el artículo 5, apartado 5, y
+c)
+las modalidades y la estructura de los informes sobre la calidad, tal y como se establece en el artículo 6, apartado 3.
+2.   Las medidas que figuran a continuación, necesarias para la aplicación del presente Reglamento, destinadas a modificar elementos no esenciales del presente Reglamento completándolo con nuevos elementos, se adoptarán con arreglo al procedimiento de reglamentación con control contemplado en el artículo 8, apartado 3:
+a)
+la fijación de los años de referencia, tal y como se establece en el artículo 5, apartado 1, y
+b)
+la adopción del programa de los datos y de los metadatos estadísticos, tal y como se establece en el artículo 5, apartado 3.
+3.   Se tendrá en cuenta el principio de que los beneficios de las medidas adoptadas deben compensar los costes de las mismas, así como el de que los costes y cargas adicionales deben mantenerse dentro de límites razonables.
+Artículo 8
+Procedimiento de comité
+1.   La Comisión estará asistida por el Comité del programa estadístico.
+2.   En los casos en que se haga referencia al presente apartado, se aplicarán los artículos 5 y 7 de la Decisión 1999/468/CE del Consejo, sin perjuicio de lo dispuesto en el artículo 8 de la misma.
+El plazo contemplado en el artículo 5, apartado 6, de la Decisión 1999/468/CE queda fijado en tres meses.
+3.   En los casos en que se haga referencia al presente apartado, se aplicarán el artículo 5
+bis,
+apartados 1 a 4, y el artículo 7 de la Decisión 1999/468/CE, sin perjuicio de lo dispuesto en el artículo 8 de la misma.
+Artículo 9
+Entrada en vigor
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el
+Diario Oficial de la Unión Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Estrasburgo, el 9 de julio de 2008.
+Por el Parlamento Europeo
+El Presidente
+H.-G. PÖTTERING
+Por el Consejo
+El Presidente
+J.-P. JOUYET
+(
+1
+)
+Dictamen del Parlamento Europeo de 20 de febrero de 2008 (no publicado aún en el Diario Oficial) y Decisión del Consejo de 23 de junio de 2008.
+(
+2
+)
+DO L 52 de 22.2.1997, p. 1
+. Reglamento modificado por el Reglamento (CE) n
+o
+1882/2003 del Parlamento Europeo y del Consejo (
+DO L 284 de 31.10.2003, p. 1
+).
+(
+3
+)
+DO L 151 de 15.6.1990, p. 1
+. Reglamento modificado en último lugar por el Reglamento (CE) n
+o
+1882/2003.
+(
+4
+)
+DO L 181 de 28.6.1989, p. 47
+.
+(
+5
+)
+DO L 184 de 17.7.1999, p. 23
+. Decisión modificada por la Decisión 2006/512/CE (
+DO L 200 de 22.7.2006, p. 11
+).
+(
+6
+)
+DO L 154 de 21.6.2003, p. 1
+. Reglamento modificado en último lugar por el Reglamento (CE) n
+o
+176/2008 del Parlamento Europeo y el Consejo (
+DO L 61 de 5.3.2008, p. 1
+).
+ANEXO
+Temas que deben incluirse en los censos de población y vivienda
+1.
+Temas relativos a la población
+1.1.
+Temas obligatorios para los niveles geográficos: NUTS 3 y UAL 2
+1.1.1.
+Temas no derivados
+—
+Lugar de residencia habitual
+—
+Sexo
+—
+Edad
+—
+Estado civil legal
+—
+País/Lugar de nacimiento
+—
+País de nacionalidad
+—
+Lugar de residencia habitual anterior y fecha de llegada al lugar actual, o lugar de residencia habitual un año antes del censo
+—
+Relación entre los miembros del hogar
+1.1.2.
+Temas derivados
+—
+Población total
+—
+Localidad
+—
+Situación en cuanto al hogar
+—
+Situación en cuanto a la familia
+—
+Tipo de núcleo familiar
+—
+Tamaño del núcleo familiar
+—
+Tipo de hogar privado
+—
+Tamaño del hogar privado
+1.2.
+Temas obligatorios para los niveles geográficos: nacional, NUTS 1 y NUTS 2
+1.2.1.
+Temas no derivados
+—
+Lugar de residencia habitual
+—
+Ubicación del lugar de trabajo
+—
+Sexo
+—
+Edad
+—
+Estado civil legal
+—
+Situación de actividad actual
+—
+Ocupación
+—
+Sector (rama de actividad económica)
+—
+Situación en el empleo
+—
+Nivel de estudios
+—
+País/Lugar de nacimiento
+—
+País de nacionalidad
+—
+Residencia en algún momento en el extranjero y año de llegada al país (desde 1980)
+—
+Lugar de residencia habitual anterior y fecha de llegada al lugar actual o lugar de residencia habitual un año antes del censo
+—
+Relación entre los miembros del hogar
+—
+Régimen de tenencia de la vivienda
+1.2.2.
+Temas derivados
+—
+Población total
+—
+Localidad
+—
+Situación en cuanto al hogar
+—
+Situación en cuanto a la familia
+—
+Tipo de núcleo familiar
+—
+Tamaño del núcleo familiar
+—
+Tipo de hogar privado
+—
+Tamaño del hogar privado
+2.
+Temas relativos a la vivienda
+2.1.
+Temas obligatorios para los niveles geográficos: NUTS 3 y UAL 2
+2.1.1.
+Temas no derivados
+—
+Tipo de local de habitación
+—
+Ubicación del local de habitación
+—
+Régimen de ocupación de viviendas convencionales
+—
+Número de ocupantes
+—
+Superficie útil y/o número de habitaciones de las unidades de vivienda
+—
+Viviendas por tipo de edificio
+—
+Viviendas por período de construcción
+2.1.2.
+Temas derivados
+—
+Estándar de densidad
+2.2.
+Temas obligatorios para los niveles geográficos: nacional, NUTS 1 y NUTS 2
+2.2.1.
+Temas no derivados
+—
+Condiciones de vivienda
+—
+Tipo de local de habitación
+—
+Ubicación del local de habitación
+—
+Régimen de ocupación de viviendas convencionales
+—
+Tipo de propiedad
+—
+Número de ocupantes
+—
+Superficie útil y/o número de habitaciones de las unidades de vivienda
+—
+Sistema de suministro de agua
+—
+Instalaciones de retretes
+—
+Instalaciones de baños
+—
+Tipo de calefacción
+—
+Viviendas por tipo de edificio
+—
+Viviendas por período de construcción
+2.2.2.
+Temas derivados
+—
+Estándar de densidad

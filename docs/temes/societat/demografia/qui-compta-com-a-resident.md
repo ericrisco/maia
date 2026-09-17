@@ -126,6 +126,38 @@ Les dues coses queden registrades tal com apareixen.
 - [Les xifres que no quadren](les-xifres-que-no-quadren.md): el buit històric sobre la definició de resident que aquesta lectura tanca en part.
 - [Demografia](demografia.md): població, origen i límits de les inferències.
 
+## La definició original, llegida a la font europea
+
+**El Reglament (CE) 763/2008 defineix «residència habitual» en dos incisos i una
+clàusula de tancament**, i el text és curt i decisiu
+(`docs/raw/estadistica-poblacio/eurlex/reglament-763-2008-es.txt`):
+
+> **«residència habitual»: el lloc on una persona passa normalment el període
+> diari de descans, independentment d'absències temporals amb finalitats d'oci,
+> vacances, visites a amics o parents, negocis, tractament mèdic o pelegrinatge
+> religiós.**
+
+**Els dos incisos són els que decideixen qui compta.** Només es consideren
+residents habituals d'una zona:
+
+- **qui hi hagi viscut de manera ininterrompuda com a mínim dotze mesos** abans de
+  la data de referència, **o**
+- **qui hi hagi arribat durant els dotze mesos anteriors amb la intenció de
+  quedar-s'hi almenys un any**.
+
+**I la clàusula de tancament és la que importa a Andorra**: **«Quan no es puguin
+determinar les circumstàncies descrites en els incisos i) o ii), s'entendrà per
+residència habitual el lloc de residència legal o registrada.»** **La residència
+registrada no és la definició: és el que s'aplica quan la definició no es pot
+comprovar.** Això és exactament la distància que aquesta fitxa documenta entre
+**població registrada** i **població estimada**.
+
+**El Reglament és de censos i és decennal.** L'article 1 diu que estableix normes
+comunes per a **«la presentació decennal de dades exhaustives sobre població i
+habitatge»**. **Andorra no és estat membre de la Unió Europea i no hi està
+obligada**: el Departament d'Estadística n'adopta el concepte per
+comparabilitat, no per obligació.
+
 ## Buits registrats
 
 - **La pregunta «Andorra ha adoptat mai una definició estadística de resident,
@@ -193,9 +225,14 @@ Les dues coses queden registrades tal com apareixen.
 - No s'ha trobat en aquesta lectura quantes persones afecten els segments que
   el registre estadístic «pot arribar a incloure» —fronterers i permisos de
   residència temporal—, ni si alguna publicació els quantifica per separat.
-- El Reglament 763/2008 i el recull internacional de recomanacions dels censos
+- ~~El Reglament 763/2008 i el recull internacional de recomanacions dels censos
   que l'annex esmenta no s'han consultat en original. La redacció de l'annex
-  és la del Departament.
+  és la del Departament.~~ — **`parcial` el 17-09-2026**: **el Reglament sí que
+  s'ha llegit en original** (EUR-Lex, versió castellana; **no n'hi ha de
+  catalana**, perquè el català no és llengua oficial de la Unió) a «[La definició
+  original, llegida a la font europea](#la-definicio-original-llegida-a-la-font-europea)».
+  `El recull internacional de recomanacions dels censos —el de la UNECE— segueix
+  sense consultar-se.`
 - La discrepància entre l'esquema de la p. 3 i els totals del juliol de 2026
   queda oberta: no s'ha buscat cap nota editorial ni cap versió posterior de
   la figura.
