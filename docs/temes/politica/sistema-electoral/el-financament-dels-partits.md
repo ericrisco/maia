@@ -250,8 +250,57 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    [el parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
    **segueix obert**.
 2. **El Registre de partits polítics**: quants n'hi ha inscrits i des de quan.
-3. **Els llistats de donacions publicats al BOPA cada sis mesos.** Existeixen per
-   llei i **el corpus no n'ha vist cap**. **Prioritari i comprovable.**
+3. ~~**Els llistats de donacions publicats al BOPA cada sis mesos.**~~ —
+   **`resolt` el 17-09-2026**: **n'hi ha tretze**, del **juliol del 2020** al
+   **juliol del 2026**, **un per semestre i sense cap forat**
+   (`docs/raw/politica/donacions-partits/`). **Els publica el Tribunal de
+   Comptes per l'article 26.12**, i **els signa tots el mateix president,
+   Francesc d'Assís Pons Tomàs.**
+
+   **El que el corpus n'extreu són les xifres, no les persones.** **Els llistats
+   porten el nom, el número d'identificació fiscal i la parròquia de cada
+   donant**, i **aquesta fitxa no en reprodueix cap identificació fiscal**: el
+   motiu és a [la nota del fitxer](../../../raw/politica/donacions-partits/README.md)
+   i es recolza en [la Llei 30/2014](../../institucions/justicia/un-corpus-no-es-un-organisme-competent.md),
+   que **no té excepció acadèmica**.
+
+   | Semestre | Donacions | Import | Partits |
+   | --- | --- | --- | --- |
+   | **1r del 2020** | **68** | **125.810,40 €** | Demòcrates per Andorra, Partit Liberal |
+   | 2n del 2020 | 22 | 43.022,51 € | Demòcrates per Andorra, Partit Liberal |
+   | 1r del 2021 | 1 | 5.000,00 € | Progressistes SDP |
+   | **2n del 2021** | **0** | — | **cap donació** |
+   | 1r del 2022 | 1 | **204,71 €** | Agrupament Encampadà |
+   | **2n del 2022** | **0** | — | **cap donació** |
+   | 1r del 2023 | 11 | 28.466,67 € | Demòcrates, Socialdemòcrata, Andorra Endavant |
+   | 2n del 2023 | 29 | 79.690,47 € | Demòcrates, Acció per Andorra |
+   | 1r del 2024 | 40 | 74.292,26 € | Demòcrates, Acció per Andorra |
+   | 2n del 2024 | 1 | 5.000,00 € | Unió Laurediana |
+   | 1r del 2025 | 4 | 2.859,21 € | Socialdemòcrata |
+   | 2n del 2025 | 3 | 13.879,47 € | Demòcrates, Unió Laurediana, Units per al Progrés |
+   | 1r del 2026 | 5 | 6.300,00 € | Socialdemòcrata, Unió Laurediana |
+   | **Total** | **185** | **384.525,70 €** | **deu formacions** |
+
+   **Tres coses que aquesta sèrie diu i que cap altra font del corpus deia.**
+
+   **Primera: el finançament declarat és electoral, no continu.** **Els dos pics
+   —noranta donacions el 2020 i seixanta-nou entre el 2023 i el 2024— cauen els
+   anys d'eleccions**, i **els semestres d'entremig baixen a una donació o a
+   cap.** **No hi ha finançament privat de fons: hi ha campanyes.**
+
+   **Segona: dos semestres sencers amb zero donacions declarades a tot el país**
+   —**la segona meitat del 2021 i la del 2022**—, **i el Tribunal els publica
+   igual, amb un edicte que diu que no n'hi ha hagut cap.** **El document
+   existeix precisament per dir que no hi ha res.**
+
+   **Tercera: l'escala.** **Cent vuitanta-cinc donacions en sis anys i mig, i
+   384.525,70 euros en total.** **La més petita és de 204,71 €** i **la més
+   gran, de 6.000 €** —**una d'elles declarada «en espècie»**. **El sostre legal
+   no s'apura mai amb donacions grosses: el que hi ha són moltes donacions
+   mitjanes concentrades en campanya.**
+
+   `Requereix creuar aquestes xifres amb els comptes electorals que el mateix
+   Tribunal fiscalitza, per saber quina fracció de la campanya cobreixen.`
 4. **El cens electoral vigent per parròquia**, per calcular els sostres reals.
 5. **Si s'ha sancionat mai cap partit** per aquesta llei, o si s'ha dissolt o
    suspès cap.
