@@ -86,12 +86,23 @@ res del 2018 ençà.**
 Era un buit d'aquesta fitxa. **És el president de la Federació Andorrana
 d'Handbol**, que té web propi: **`fahandbol.ad`**.
 
-**Això canvia com s'ha de llegir la contradicció que aquesta fitxa registrava.**
-**La Federació Andorrana d'Handbol existeix, té seu digital i té president**, de
-manera que **la pregunta ja no és si hi és, sinó per què no surt a la llista de
-les vint-i-sis federacions** del
-[Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md). **O la llista del
-corpus és incompleta, o la federació d'handbol no és membre del Comitè.**
+**Això arbitra la contradicció que aquesta fitxa registrava.**
+**La Federació Andorrana d'Handbol existeix, té seu digital i té president.** I
+**la llista de les vint-i-sis federacions del
+[Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md) no és una llista
+incompleta del corpus: és la llista de membres que el COA publica**, amb
+**divuit federacions olímpiques i vuit de no olímpiques, que sumen exactament
+vint-i-sis**
+([bolcat](../../../raw/web/esport/estructura/Comitè_Olímpic_Andorrà-ca.wiki),
+citant `coa.ad`).
+
+> **La federació d'handbol existeix i no és membre del Comitè Olímpic
+> Andorrà.**
+
+`Amb una reserva de data: la referència del bolcat a coa.ad és del 2013, i la
+federació d'handbol havia entrat a la Federació Europea el 2011. Que no hi sigui
+dos anys després és significatiu, però el corpus no pot dir que segueixi sent
+així avui.`
 
 ## El que falta
 
@@ -103,12 +114,12 @@ corpus és incompleta, o la federació d'handbol no és membre del Comitè.**
 - **Si hi ha lliga andorrana d'handbol.**
 - ~~**Qui és Gerrard Pifarré.**~~ `resolt`: **president de la Federació
   Andorrana d'Handbol.**
-- **La Federació Andorrana d'Handbol no surt a la llista de les vint-i-sis
-  federacions del Comitè Olímpic Andorrà** que el corpus té a
-  [la seva fitxa](../competicio/el-comite-olimpic.md). — **`parcial`**: **la
-  federació existeix, té president i té web (`fahandbol.ad`)**, de manera que
-  **la contradicció ja no és sobre la seva existència sinó sobre la seva
-  pertinença al Comitè.** **Segueix sense arbitrar.**
+- ~~**La Federació Andorrana d'Handbol no surt a la llista de les vint-i-sis
+  federacions del Comitè Olímpic Andorrà.**~~ `resolt` **el 2026-09-18, i
+  arbitrat**: **la federació existeix** (president, web `fahandbol.ad`) **i la
+  llista del COA és completa i pròpia** —divuit olímpiques més vuit no
+  olímpiques, vint-i-sis. **No hi és perquè no n'és membre**, no perquè la
+  llista estigui mal copiada. **Amb la reserva de data de la font: 2013.**
 
 ## Related
 

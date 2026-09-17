@@ -375,7 +375,10 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 5. ~~**Els esportistes d'estiu**~~ — **tancat**: la taula de delegacions d'estiu
    és completa. **Segueix obert el resultat detallat de cadascun.**
 6. **Les delegacions d'hivern de 1980 a 2006**, que aquesta fitxa no té.
-7. **Andorra als Jocs Paralímpics.** **El corpus no en sap res.**
+7. ~~**Andorra als Jocs Paralímpics.** **El corpus no en sap res.**~~ `resolt`
+   **el 2026-09-18**: [Andorra als Jocs Paralímpics](./andorra-als-jocs-paralimpics.md).
+   **Vuit Jocs des del 2002, sis esportistes, cap medalla**, i **el millor
+   resultat és un novè lloc de Paquita Ramírez a Vancouver 2010.**
 8. **El biatló**: Olympedia el llista i no se'n troba cap biatleta. **Desacord
    obert.**
 9. **Els Jocs Mediterranis**: hi va Andorra. Ho revela de retruc la fitxa

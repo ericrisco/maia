@@ -163,9 +163,16 @@ en una llista així.
   Europeus. Hi ha **xifres i cap nom**, tret de Liñán.
 - **En quins esports** hi va Andorra a cadascuna.
 - **Els Jocs de la Joventut**, sencers.
-- **Els Paralímpics d'estiu després del 2012.**
-- **Els guies** dels esquiadors deficients visuals.
-- **La FADEA**: quan es crea, què fa, quanta gent.
+- **Els Paralímpics d'estiu després del 2012.** — **`obert`, i ara amb el
+  registre a la mà**: **la pàgina general del Comitè Paralímpic llista
+  «2012, 2016-2024»** i **cap edició posterior al 2012 no té delegació
+  documentada** ([els Paralímpics](./andorra-als-jocs-paralimpics.md)).
+- **Els guies** dels esquiadors deficients visuals. **Andorra n'ha tingut
+  almenys una, Paquita Ramírez a Vancouver 2010, i el guia no consta.**
+- **La FADEA**: ~~què fa~~ **i** quan es crea, quanta gent. — **`parcial` el
+  2026-09-18**: **és la Federació Andorrana d'Esports Adaptats**, **el Comitè
+  Paralímpic Nacional d'Andorra**, amb codi **AND** i web **`fadea.ad`**.
+  **Quan es crea i quanta gent hi ha federada, segueix obert.**
 - **Les vint-i-tres seleccions nacionals.**
 
 ## Related

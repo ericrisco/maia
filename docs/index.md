@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1004** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1005** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -393,6 +393,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Andorra als Jocs Olímpics](temes/esports/competicio/andorra-als-jocs-olimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Andorra als Jocs Paralímpics](temes/esports/competicio/andorra-als-jocs-paralimpics.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [El Comitè Olímpic Andorrà](temes/esports/competicio/el-comite-olimpic.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [Els abanderats](temes/esports/competicio/els-abanderats.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Els altres Jocs](temes/esports/competicio/els-altres-jocs.md) | `temes/esports/competicio` | compilada | contemporania | no | `wikipedia-jocs-andorra` |

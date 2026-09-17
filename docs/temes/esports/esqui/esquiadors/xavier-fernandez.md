@@ -58,16 +58,28 @@ demostrar**.
 - **Quina discapacitat** i quina classe paralímpica. — **`obert`, confirmat**:
   **el bolcat no en diu res**, **a diferència del de
   [Xavier Barios](./xavier-barios.md), que almenys dona la classe LW10.**
-- **Quines dues proves** va córrer a Sotxi. — **`obert`, confirmat**: **el
-  bolcat dona les dues participacions —2010 i 2014— i cap prova.**
+- ~~**Quines dues proves** va córrer a Sotxi.~~ **`parcial` el 2026-09-18**:
+  **les de Sotxi segueixen sense nom** —el bolcat només diu que **no va marcar
+  temps en cap de les dues**— **però les de Vancouver 2010 sí que es tanquen**:
+  **eslàlom gegant masculí *sitting*, 3:40.16, 24è**, i **eslàlom masculí
+  *sitting*, 1:17.08 a la primera mànega i abandonament a la segona**
+  ([els Jocs Paralímpics](../../competicio/andorra-als-jocs-paralimpics.md)).
+  **I va ser abanderat d'Andorra el 2010 i a l'obertura i la clausura del
+  2014.**
 - **Si va competir en altres competicions** fora dels Jocs. — **`obert`,
   confirmat.**
-- **I el balanç de la subbranca paralímpica, que val la pena deixar escrit**:
-  **el corpus té DOS paralímpics andorrans, tots dos esquiadors, amb quatre
-  participacions entre els dos —2002, 2006, 2010 i 2014— i UN SOL resultat
-  completat.** **És, de tot l'esport andorrà, la branca amb menys informació
-  per participació.** **La Federació Andorrana d'Esports Adaptats (FADEA)
-  segueix sense fitxa i sense bolcat.**
+- ~~**I el balanç de la subbranca paralímpica**: **el corpus té DOS paralímpics
+  andorrans, tots dos esquiadors, amb quatre participacions.**~~ — **`resolt` i
+  **corregit el 2026-09-18**: **el balanç era curt.** **En són SIS**, i **un no
+  és esquiador**: Xavier Barios, **Miguel Llongueras**, **Francesca/Paquita
+  Ramírez**, Xavier Fernández, **el nedador Antonio Sánchez** i **Roger Puig**.
+  **I són VUIT Jocs** —2002, 2006, 2010, **2012 d'estiu**, 2014, 2018, 2022 i
+  **2026**— no quatre. **La fitxa sencera és a
+  [Andorra als Jocs Paralímpics](../../competicio/andorra-als-jocs-paralimpics.md)**,
+  i **la FADEA ja no és un nom buit: és la Federació Andorrana d'Esports
+  Adaptats, el Comitè Paralímpic del país, `fadea.ad`.**
+- **El que segueix sent cert**: **cap medalla en vuit Jocs**, i **el millor
+  resultat és un novè lloc.**
 
 ## Related
 
