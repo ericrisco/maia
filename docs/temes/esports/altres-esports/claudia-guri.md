@@ -87,10 +87,12 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
 - **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
   és una instantània amb data i no diu res del que ha passat després.**
 - ~~**El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
-  fitxa**.~~ `resolt` per a la de bàsquet i **`parcial` per al compte**: el
-  corpus en té ara **dues de fitxades** —bàsquet i futbol— i **la tercera
-  segueix sense identificar**. `Requereix la llista oficial de seleccions del
-  Comitè Olímpic Andorrà.`
+  fitxa**.~~ `resolt` **el 2026-09-18, i el compte era curt**: **no en són tres,
+  en són sis** —bàsquet, bàsquet 3x3, futbol, hoquei gel, rugbi i voleibol—
+  **més tres de base**, segons la llista oficial de seleccions
+  ([els altres Jocs](../competicio/els-altres-jocs.md)). **El corpus en té dues
+  de fitxades**: [bàsquet](../seleccions/el-basquet-femeni.md) i
+  [futbol](../futbol/femeni/la-seleccio-femenina.md).
 
 ## Related
 

@@ -179,14 +179,24 @@ una pràctica legal i comuna, i és com funciona.**
   fa Andorra. I **[Kevin Esteve Rigail](../esqui/esquiadors/kevin-esteve-rigail.md)**,
   esquiador olímpic reconvertit en **golfista professional**. — **`obert`,
   confirmat**: **no hi ha cap bolcat de golf ni de pitch and putt a
-  `raw/web/esport/`.**
-- **I un buit nou que surt d'aquesta passada, i és el més rendible de tots**:
+  `raw/web/esport/`.** **El 2026-09-18 s'hi afegeix la confirmació que la
+  selecció existeix**: **surt a la llista oficial de seleccions nacionals**
+  ([els altres Jocs](../competicio/els-altres-jocs.md)), **al costat del futbol
+  platja i del voleibol**, que el corpus tampoc no tenia. **La selecció hi és;
+  el que falta és qualsevol dada seva.**
+- ~~**I un buit nou que surt d'aquesta passada, i és el més rendible de tots**:
   **els trenta-nou bolcats de `raw/web/esport/estructura/` estan sense
-  destil·lar.** **Entre ells hi ha la Federació Andorrana de Futbol, la de
-  Rugbi, el Comitè Olímpic Andorrà, la Primera i la Segona Divisió, la Copa
-  Constitució, la Supercopa, les seleccions d'handbol, futsal, hoquei gel,
-  hoquei patins i bàsquet masculí i femení, i la selecció femenina de futbol.**
-  **Cap no necessita cap font externa.** **Buit prioritari de tota la branca.**
+  destil·lar.**~~ **`parcial` el 2026-09-18, i era rendible de debò.**
+  **Destil·lats**: **la Federació Andorrana de Futbol i la de Rugbi**, **el
+  Comitè Olímpic Andorrà**, **la Segona Divisió**, **la Copa Constitució i la
+  Supercopa**, **el FC Andorra**, **les seleccions d'handbol, futbol sala,
+  hoquei gel, bàsquet masculí i femení i rugbi**, i **la selecció femenina de
+  futbol** — **més les vuit pàgines dels Jocs Paralímpics**, que **han obert
+  [una fitxa nova](../competicio/andorra-als-jocs-paralimpics.md)** i **una
+  altra per al [bàsquet femení](../seleccions/el-basquet-femeni.md)**.
+  **Queden per destil·lar**: **la Primera Divisió**, **l'hoquei patins**, **el
+  Campionat d'Andorra de trial**, **l'Obert Internacional d'Escacs** i **les
+  fitxes individuals de futbolistes i escaquistes.**
 
 ## Related
 

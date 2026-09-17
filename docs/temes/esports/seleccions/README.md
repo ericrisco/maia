@@ -90,9 +90,15 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   resta del detall de les edicions no guanyades.
 - **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
   **Cap fitxa de cap.**
-- **Les altres tretze seleccions** de les vint-i-tres que Andorra declara.
-  **Ara el corpus en té deu**: futbol masculí i femení, bàsquet masculí i
-  **femení**, hoquei gel, hoquei patins, rugbi, tennis, futbol sala i handbol.
+- ~~**Les altres seleccions** de les vint-i-tres que Andorra declara.~~
+  **`parcial` el 2026-09-18: ja estan llistades**, a
+  [els altres Jocs](../competicio/els-altres-jocs.md) — **vint-i-set entrades
+  en dotze esports**. **El corpus en té deu de fitxades**: futbol masculí i
+  femení, bàsquet masculí i femení, hoquei gel, hoquei patins, rugbi, tennis,
+  futbol sala i handbol. **Les que no tenen fitxa i ara sí que tenen nom**:
+  **futbol platja**, **pitch and putt**, **voleibol masculí i femení**,
+  **bàsquet 3x3 masculí i femení**, **hoquei gel femení**, **rugbi femení i
+  masculí de set**, i **les sis seleccions de base de bàsquet i futbol.**
 - ~~**El BC Andorra / MoraBanc**, club de l'ACB.~~ **Tancat:**
   [el BC Andorra](../altres-esports/bc-andorra.md).
 

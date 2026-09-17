@@ -157,12 +157,77 @@ sub-21, sub-19, sub-17, femení, femení sub-17) · **futbol sala** · **handbol
 d'esports**, i especialment **el pitch and putt**, que és l'únic que no s'espera
 en una llista així.
 
+## Les seleccions nacionals, per fi llistades
+
+Era un buit d'aquesta fitxa i del [README de les seleccions](../seleccions/README.md):
+**«les vint-i-tres seleccions nacionals»**, citades i mai enumerades.
+
+**La caixa de navegació «National sports teams of Andorra» dels bolcats propis
+del corpus** —hi surt igual a `mediterranis.txt` i a `jocs-europeus.txt`— **les
+llista.** Són **vint-i-set entrades en dotze esports**:
+
+| Esport | Seleccions |
+| --- | --- |
+| **Bàsquet** | masculina, **sub-18**, **sub-16**, femenina, **femenina sub-18**, **femenina sub-16** |
+| **Bàsquet 3x3** | **masculina i femenina** |
+| **Futbol platja** | **una** |
+| **Futbol** | masculina, **sub-21**, **sub-19**, **sub-17**, femenina, **femenina sub-17** |
+| Futbol sala | una |
+| Handbol | una |
+| **Hoquei gel** | masculina i **femenina** |
+| **Pitch and putt** | **una** |
+| Hoquei patins | una |
+| **Rugbi** | masculina, **masculina de set** i **femenina** |
+| Tennis | una |
+| **Voleibol** | **masculina i femenina** |
+
+**El «vint-i-tres» que el corpus repetia no quadra amb aquesta llista**, que en
+dona vint-i-set. **Comptant només les absolutes** —una per sexe i esport, sense
+categories d'edat— **en surten dinou.** `El corpus registra les tres xifres i no
+n'arbitra cap: la de vint-i-tres ve d'una altra font i aquesta llista no la
+confirma ni la desmenteix.`
+
+**El que sí que fa la llista és ensenyar sis coses que el corpus no sabia:**
+
+1. **Andorra té selecció de futbol platja.**
+2. **Té selecció de pitch and putt** —cosa que
+   [altres esports](../altres-esports/README.md) ja havia registrat com a buit.
+3. **Té seleccions de voleibol, masculina i femenina.**
+4. **Té seleccions de bàsquet 3x3**, que és la modalitat olímpica des del 2020.
+5. **Té selecció femenina d'hoquei gel**, i el corpus només tenia la masculina
+   ([l'hoquei gel](../seleccions/lhoquei-gel.md)).
+6. **Té selecció femenina de rugbi i masculina de set**, cosa que el bolcat del
+   rugbi ja apuntava ([el rugbi](../seleccions/el-rugbi.md)).
+
+**I la tercera selecció femenina que el corpus buscava no és una: n'hi ha
+sis** —bàsquet, bàsquet 3x3, futbol, hoquei gel, rugbi i voleibol— **més les
+tres de base de bàsquet i futbol.**
+
+## Els Jocs Olímpics de la Joventut: un negatiu documentat
+
+Era un buit: «**els Jocs de la Joventut, sencers**».
+
+**El bolcat que el corpus en té és la pàgina que no existeix.** `joc-joventut.txt`
+recull literalment la resposta de la font:
+
+> «*Wikipedia does not have an article with this exact name*» — *Andorra at the
+> Youth Olympic Games*.
+
+**No és que la cerca tornés buida: és que la pàgina no ha estat mai escrita.**
+**Això no diu que Andorra no hi hagi anat** —[els Jocs
+Olímpics](./andorra-als-jocs-olimpics.md) registra que hi ha competit en
+**bàsquet 3x3, esquí de muntanya i esquí acrobàtic**— **diu que aquesta font no
+en porta el recompte**, i **que per tancar aquest buit cal anar al Comitè
+Olímpic Andorrà o al CIO.**
+
 ## El que falta
 
 - **Els noms de les delegacions** dels Jocs del Mediterrani i dels Jocs
   Europeus. Hi ha **xifres i cap nom**, tret de Liñán.
 - **En quins esports** hi va Andorra a cadascuna.
-- **Els Jocs de la Joventut**, sencers.
+- **Els Jocs de la Joventut**, sencers. — **`obert`, i ara amb el motiu
+  escrit**: **la font que el corpus fa servir no en té pàgina.** Vegeu més
+  amunt. `Requereix el Comitè Olímpic Andorrà o el CIO.`
 - **Els Paralímpics d'estiu després del 2012.** — **`obert`, i ara amb el
   registre a la mà**: **la pàgina general del Comitè Paralímpic llista
   «2012, 2016-2024»** i **cap edició posterior al 2012 no té delegació
@@ -173,7 +238,9 @@ en una llista així.
   2026-09-18**: **és la Federació Andorrana d'Esports Adaptats**, **el Comitè
   Paralímpic Nacional d'Andorra**, amb codi **AND** i web **`fadea.ad`**.
   **Quan es crea i quanta gent hi ha federada, segueix obert.**
-- **Les vint-i-tres seleccions nacionals.**
+- ~~**Les vint-i-tres seleccions nacionals.**~~ `resolt` **el 2026-09-18**:
+  **llistades a dalt**, **vint-i-set entrades en dotze esports**, i **el número
+  vint-i-tres no en surt.** **Segueix obert d'on ve la xifra de vint-i-tres.**
 
 ## Related
 
