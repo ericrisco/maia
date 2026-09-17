@@ -128,6 +128,39 @@ independència de l'Administració general**» (article 1).
 que arriben per **cessió obligatòria** dels habitatges buits— i que disposa de
 **sis mesos** per adjudicar-los abans que la cessió decaigui.
 
+## Les quatre majories d'una comunitat de propietaris
+
+**L'article 26 de la Llei 12/2004 de propietat horitzontal** (37 articles,
+`docs/raw/lleis/propietat-horitzontal.txt`) reparteix les decisions en quatre
+llindars, i cadascun demana **doble majoria**: de propietaris **i** de quotes de
+participació.
+
+| Decisió | Majoria |
+| --- | --- |
+| **Redistribuir quotes**; vincular o desafectar un element comú per donar-ne l'ús exclusiu a uns pisos | **unanimitat** |
+| Modificar el **títol constitutiu** o els **Estatuts** | **tres quartes parts** de propietaris i de quotes |
+| **Establir o suprimir serveis comuns d'interès general** —ascensor, porteria, consergeria, vigilància, calefacció, instal·lacions esportives— i **llogar béns comuns sense ús específic** | **tres cinquenes parts** |
+| **Suprimir barreres arquitectòniques** que dificultin l'accés o la mobilitat de persones amb discapacitat | **majoria simple**, «encara que impliqui modificar el títol constitutiu o els Estatuts» |
+
+**L'excepció d'accessibilitat és la peça política de l'article.** És l'única
+decisió que **pot modificar el títol constitutiu amb majoria simple**, i enllaça
+amb [les obres d'accessibilitat sense demanar permís](#obres-daccessibilitat-sense-demanar-permis)
+d'aquesta mateixa fitxa: **la llei treu obstacles al mateix objectiu per dues
+vies alhora**.
+
+**I hi ha una regla que decideix més que les majories: el silenci compta a
+favor.** L'apartat 4 diu que **els vots dels propietaris absents degudament
+citats es computen com a favorables** si, **informats de l'acord, no manifesten
+la seva discrepància per escrit al president o a l'administrador en trenta dies
+naturals**. **Qui no va i no contesta, hi vota a favor.**
+
+**Les telecomunicacions i l'energia van a part.** L'article 27 permet instal·lar
+infraestructures comunes de telecomunicacions o de nous subministraments
+energètics col·lectius **per majoria absoluta de quotes, a petició de qualsevol
+propietari**, i **el cost no es pot repercutir a qui no hi hagi votat
+expressament a favor** — però **si després en volen l'accés, l'han de pagar
+actualitzat amb els interessos legals**.
+
 ## Buits registrats
 
 - **Els preus reals** no hi són: la llei diu com es revisa la renda i no quant
@@ -172,8 +205,12 @@ que arriben per **cessió obligatòria** dels habitatges buits— i que disposa 
   que **un protocol interministerial no és necessàriament una norma que es
   publiqui al Butlletí**: per a la llei la prova és concloent, per als protocols
   només indicativa. `Requereix el ministeri per als dos protocols.`
-- **Les majories concretes** de la propietat horitzontal (article 26) no s'han
-  buidat: quines decisions demanen unanimitat i quines majoria.
+- ~~**Les majories concretes** de la propietat horitzontal (article 26) no s'han
+  buidat: quines decisions demanen unanimitat i quines majoria.~~ — **`resolt` el
+  17-09-2026** a «[Les quatre majories d'una comunitat de
+  propietaris](#les-quatre-majories-duna-comunitat-de-propietaris)». `Queda la
+  resta de la Llei 12/2004: despeses comunes, morositat i el règim del
+  president i l'administrador.`
 - ~~**Quants habitatges té el parc públic** i quants n'adjudica l'INH, no
   consta.~~ — **`parcial`, tancat en part amb el corpus el 2026-09-14, i amb un
   avís que val més que la xifra.** **La memòria d'Habitatge del 29 d'abril del
