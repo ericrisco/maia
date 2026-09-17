@@ -158,6 +158,33 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   fundar la societat Ceràmiques d'Andorra**
   ([font](../../../fonts/museus-itinerari-sergi-mas.md)). Vegeu
   [la seva fitxa](./sergi-mas.md).
+
+  **Ampliat el 17-09-2026 des del [BOPA](../../../fonts/bopa.md), que en
+  documenta cinc de set per nom i per acte administratiu propi**, i **no set**:
+
+  | Parròquia | Nom i rastre al Butlletí |
+  | --- | --- |
+  | **Andorra la Vella** | **Escola d'Art del Comú d'Andorra la Vella** — quotes publicades des del **2001**, i **Reglament de règim intern aprovat pel Decret del 9-10-2014** |
+  | **Sant Julià de Lòria** | **Escola d'Art del Centre Cultural i de Congressos Lauredià** — des del **1994**; el **2011** es convoca un responsable |
+  | **la Massana** | **Escola d'Art de la Massana** — obres i adjudicacions el **2002** |
+  | **Ordino** | **Escola d'Art d'Ordino** — preus públics i subministraments el **2004** |
+  | **Escaldes-Engordany** | **Escola d'Art del Comú** — **edicte del Comú del 15-6-2026** convocant places de professor per al curs 2026-2027 |
+  | Canillo | **cap rastre** |
+  | Encamp | **cap rastre** |
+
+  **Les cerques fetes** —«escola d'art» amb cada nom de parròquia, «taller
+  d'art» amb Canillo, «Comú d'Encamp» amb «escola d'art»— **no donen res per a
+  Canillo ni per a Encamp.** **Això no prova que no en tinguin**: **prova que
+  no han passat pel Butlletí Oficial**, on hi arriben els preus públics, els
+  reglaments i les convocatòries de professorat de les altres cinc. `Requereix
+  preguntar-ho als dos comuns; és l'única via que queda.`
+
+  **I la fitxa guanya dues coses més.** **La més antiga documentada és la de
+  Sant Julià de Lòria, el 1994**, amb **contractacions de professorat a
+  l'«Escola d'Art» ja el 1991** —**abans que el BOPA especifiqués parròquia.**
+  **I la de la Massana apareix el 2022 com a «Escola d'Art i l'Aula de Teatre i
+  Dansa»**, senyal que **les escoles d'art comunals han anat absorbint altres
+  ensenyaments artístics.**
 - **Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
   artistes. **Un ja té nom**: el taller de ceràmica que **Sergi Mas i Maria
   Canalís obren a Sant Julià de Lòria el 1966**. Vegeu
