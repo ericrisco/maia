@@ -306,7 +306,30 @@ parroquia»**.
    interrogant de l'editor, **mentre que la nota de la pàgina 36 que esmenta
    l'estrany el data al segle XVI**. **No consta si són el mateix manuscrit**, i
    **l'extracte publicat no esmenta l'estrany.**
-6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps.
+6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps. —
+   **`parcial` el 17-09-2026 per a la segona meitat: la quèstia encara es
+   pagava el 1864, i el corpus ja en té les dues xifres finals.** Font: el
+   **Llibre IV d'actes**
+   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   | Data | A qui | Quant |
+   | --- | --- | --- |
+   | **26 d'octubre de 1863**, Consell de Tots Sants | **«Sa Majestat Imperial lo rey de Fransa, com a compte de Foix»** —Napoleó III— | **960 francs**, **més 12 duros de despeses** per als cònsols d'Andorra i Sant Julià **que els havien de portar a França** |
+   | **21 de març de 1864**, Consell de Setmana Santa | **«la quístia del senyor bisbe»** | **319 lliures, 4 sous** |
+
+   **Vuit segles després del Pareatge, el Consell General encara enviava dos
+   homes a França amb els diners a sobre**, i **es pagaven les despeses del
+   viatge a part.**
+
+   **I la darrera acta del llibre és del mateix 1864**: **el corpus no pot dir
+   que la quèstia s'acabés aleshores, només que encara es pagava quan el llibre
+   es tanca.** `Requereix el llibre següent.`
+
+   **Una nota del mateix Consell del 1863 que val la pena retenir**: aquella
+   sessió **comissiona el síndic Joaquim de Riba i «l'Excel·lentíssim Don
+   Pascual Madoz» per anar a Madrid a defensar els drets i privilegis
+   d'Andorra**, **«que se troban perturbats»**. **El corpus no té cap fitxa de
+   Madoz ni d'aquesta gestió.** `Nou el 17-09-2026.`
 7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
    les dona. — **`explicat` el 16-09-2026, encara que no tancat**: **«*Los
    Consejos parroquiales no hacen presupuestos*»**, diu la font del 1918

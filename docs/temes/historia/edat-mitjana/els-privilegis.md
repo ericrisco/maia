@@ -341,7 +341,27 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 5. **El bovatge** i el **monedatge**: què eren.
 6. **La pega** — el delme del 860 la grava, i el corpus no sap què era ni qui la
    feia. *(Resina de pi? **No resolt.**)*
-7. **Vallcivera** — on és.
+7. ~~**Vallcivera** — on és.~~ — **`parcial` el 17-09-2026: ja se sap en quina
+   direcció i què hi separa.** Font: el **Llibre II d'actes del Consell
+   General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
+
+   **L'acord del 27 d'octubre de 1654**, que reparteix la guarda de les
+   fronteres entre les sis parròquies, **la fa servir com a fita**:
+
+   > «**Andorra i Sant Jullià los tendran a la part de Serdània fins a la
+   > collada de Vallcivera**, i **Encamp i Canillo de Fra Miquel a Fontargent**,
+   > **Ordino i la Massana port de Siguer y port de Rrat**»
+
+   **Vallcivera és, doncs, una collada**, **al sector de Cerdanya**, i **marca
+   el final del tram que guardaven Andorra i Sant Julià.** **El repartiment
+   sencer dona, de passada, el mapa de la frontera andorrana tal com es vigilava
+   al segle XVII**, de llevant a ponent: **Fra Miquel–Fontargent**, **el port de
+   Siguer i el port de Rat**, i **el sector de Cerdanya fins a Vallcivera.**
+
+   **Que l'empriu del 1280 caigui justament allà encaixa**: **l'empriu és un
+   dret d'ús sobre terres de fora**, i **Vallcivera és el punt on Andorra toca
+   la Cerdanya.** `Requereix la situació exacta en un mapa; el que hi ha és el
+   sector.`
 8. La **resta de la ponència**, que va fins al segle XX.
 
 ## Related
