@@ -125,4 +125,28 @@ que mana [la llei de l'esport](../../esports/competicio/la-llei-de-lesport.md).
   de la violència domèstica**, butlletí **12 del 2015**
   (`docs/raw/lleis/bopa/llei-1-2015-violencia-de-genere.txt`). **La LEVG que la
   font citava ja és al corpus.**
+
+  > **Esmena de vigència, el mateix dia.** **La 1/2015 ja no és el text que cal
+  > citar.** **Hi ha text consolidat: la Llei 14/2026, del 15 de juny**,
+  > butlletí **78 del 2026**
+  > (`docs/raw/lleis/bopa/llei-14-2026-violencia-genere-consolidat.txt`),
+  > **que integra totes les modificacions i n'ordena el contingut en
+  > trenta-quatre articles.**
+  >
+  > **I n'hi ha una que canvia el que la llei fa**: **la Llei 17/2025, del 9
+  > d'octubre, hi va instaurar un sistema de prestacions econòmiques de caràcter
+  > subsidiari** per a les víctimes de determinats delictes, **«sense desvirtuar
+  > el principi de responsabilitat de l'autor dels fets»** —**és l'Estat qui
+  > paga quan l'autor no ho fa.**
+  >
+  > **Amb una retroactivitat que val la pena**: **les prestacions s'apliquen a
+  > les resolucions penals dictades a partir del 12 de febrer del 2015**, amb la
+  > condició que **la sol·licitud es presenti dins de dos anys des de l'entrada
+  > en vigor de la 17/2025.** **Una llei del 2025 obre la porta a onze anys de
+  > sentències enrere, i la tanca el 2027.**
+  >
+  > **Això s'ha trobat aplicant la regla escrita el mateix dia**: *trobar el
+  > document no és trobar el document vigent.* `Requereix llegir els
+  > trenta-quatre articles del consolidat; el que s'ha llegit és què hi va
+  > canviar.`
 - **Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.
