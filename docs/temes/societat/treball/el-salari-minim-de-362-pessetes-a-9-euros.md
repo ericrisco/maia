@@ -128,6 +128,76 @@ publicada.` **Amb 40 hores en serien unes 62.700.** **El corpus el registra amb
 el càlcul a la vista perquè es pugui refer i perquè la setmana de referència
 canvia enmig.**
 
+## El mínim contra el que es cobra de veritat
+
+El decret fixa el terra. El que es paga de fet el compta el **Departament
+d'Estadística** amb la nota mensual **A149. Estadística de salaris**. **Maig del
+2026**, dades semidefinitives:
+
+| | |
+| --- | --- |
+| **Persones assalariades** | **44.729** (+2,5% en un any) |
+| **Massa salarial del mes** | **123,47 milions d'euros** (+10,4%) |
+| **Salari mitjà** | **2.760,46 €** (+7,7%) |
+| **Salari medià** | **2.235,73 €** — el **81,0%** del mitjà |
+| **Interval de salari més repetit** | **1.500 € a 1.600 €**, amb el **5,4%** dels assalariats |
+
+**La distància entre el mitjà i el medià és la desigualtat, i aquí és de 525
+euros.** La meitat dels assalariats cobra **menys de 2.236 €**, i la mitjana és
+un 23% més alta perquè uns quants cobren molt.
+
+**I el salari més repetit del país és, aproximadament, el salari mínim.** El maig
+del 2026 el mínim era de **8,80 €/hora**, que a quaranta hores setmanals fan
+**1.525,33 € al mes** (`càlcul del corpus: 8,80 × 40 × 52 ÷ 12`). Cau **dins de
+l'interval modal** 1.500-1.600 €, on hi ha el **5,4%** dels assalariats.
+
+### Per sectors: del 1.936 al 4.972
+
+**Salari mitjà del mes de maig del 2026**, per sector:
+
+| Sector | Salari mitjà | Assalariats |
+| --- | --- | --- |
+| **Sistema financer** | **4.972,10 €** | 1.762 |
+| Producció i distribució d'energia | 3.607,83 € | 209 |
+| Administració pública i seguretat social | 3.381,25 € | 4.894 |
+| Activitats sanitàries i veterinàries, serveis socials | 2.975,99 € | 2.775 |
+| Construcció | 2.961,12 € | **4.916** |
+| Transports i comunicacions | 2.814,89 € | 1.463 |
+| Educació | 2.682,57 € | 770 |
+| Venda i reparació de vehicles | 2.680,43 € | 1.296 |
+| Activitats immobiliàries i serveis empresarials | 2.648,58 € | **8.075** |
+| Indústries manufactureres | 2.605,93 € | 1.705 |
+| Comerç a l'engròs | 2.543,71 € | 3.019 |
+| Comerç al detall | 2.405,99 € | 4.952 |
+| Altres activitats socials i serveis personals | 2.377,18 € | 2.901 |
+| **Hoteleria** | **2.151,69 €** | **4.678** |
+| Agricultura, ramaderia, caça i silvicultura | 2.000,11 € | 176 |
+| **Llars que ocupen personal domèstic** | **1.936,45 €** | 960 |
+| **Tots els sectors** | **2.760,46 €** | **44.729** |
+
+**El sistema financer paga 2,57 vegades el que paguen les llars i 2,31 vegades
+el que paga l'hoteleria**, amb 1.762 assalariats contra els 4.678 de l'hoteleria.
+
+**Els tres sectors més grossos del país** —serveis empresarials (8.075),
+comerç al detall (4.952) i construcció (4.916)— **estan tots per sota o just al
+voltant del mitjà**, i el quart, l'hoteleria (4.678), és el penúltim de la
+llista per salari.
+
+### Per ocupació, encara més avall
+
+| Ocupació | Salari mitjà maig 2026 |
+| --- | --- |
+| Personal de neteja d'oficines i hotels | **1.868,52 €** |
+| Cambrers, bàrmans i similars | 1.888,56 € |
+| Dependents de botigues i mercats | 1.897,55 € |
+| Cuiners i altres preparadors de menjars | 2.123,77 € |
+| Secretaris administratius | 2.318,53 € |
+| Esportistes i professionals similars | 2.544,00 € |
+
+**Les quatre ocupacions que el turisme i el comerç ocupen de manera massiva
+cobren entre 1.869 i 2.124 euros**, és a dir **entre el 68% i el 77% del salari
+mitjà del país**.
+
 ## Buits registrats
 
 - **Els imports dels anys 1998-2013 no són en aquests decrets**: la norma remet a
@@ -135,7 +205,12 @@ canvia enmig.**
   de l'import exacte que el Govern feia al gener i que el Butlletí no sempre
   recull.`
 - **Quanta gent cobra el salari mínim**, no consta. La sèrie dona el sostre
-  inferior legal i cap dada de qui hi és.
+  inferior legal i cap dada de qui hi és. — **`parcial` el 17-09-2026**: la nota
+  **A149** dona l'**interval de salari modal**, que el maig del 2026 és
+  **1.500-1.600 €** amb el **5,4%** dels assalariats, i **el mínim mensual
+  equivalent cau dins d'aquest interval**. `Segueix obert el recompte exacte de
+  qui cobra el mínim: l'estadística publica intervals de cent euros, no el
+  llindar legal.`
 - **La conversió pesseta-euro del 2001** no s'explica a cap document: **674 PTA
   són 4,05 €** i **el primer import en euros és 4,24 €**. `Requereix saber si
   la diferència és un arrodoniment o una pujada, que el decret no diu.`

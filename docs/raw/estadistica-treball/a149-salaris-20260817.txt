@@ -1,0 +1,1307 @@
+                         A149. Estadística de salaris. Maig del 2026
+                           Data de publicació: dilluns, 17/08/2026
+                                     www.estadistica.ad
+
+
+
+
+Resum
+
+
+Segons les dades semi-definitives del mes de maig del 2026:
+
+- El nombre total de persones assalariades és de 44.729, fet que representa una variació del
++2,5% respecte al mateix mes de l’any anterior, en què n’hi va haver 43.617.
+
+- La massa salarial total és de 123,47 milions d’euros. La variació és positiva, del 10,4%,
+respecte al mateix mes de l’any anterior.
+
+- El salari mitjà total s’ha situat en 2.760,46 €, un +7,7% respecte al mes de maig de l’any
+anterior. Quant al salari medià total, s’ha situat en 2.235,73 €, el que representa un 81,0% del
+salari mitjà total.
+
+- L’interval de salari modal, és a dir, l’interval de salari amb més freqüència absoluta, és de
+“1.500 € a 1.600 €”.
+
+
+
+
+Nota: Cal recordar que les dades facilitades per la CASS no detallen els conceptes
+remuneratius. Això implica que les dades presentades en aquest informe inclouen la
+quantitat monetària bruta total que es declara a la CASS, sense distingir entre salaris,
+indemnitzacions o altres conceptes remuneratius.
+
+
+
+
+NP_A149_20260817                                                                   Pàgina 1 de 20
+                                      A149. Estadística de salaris. Maig del 2026
+
+
+Índex
+
+
+1. Dades semi-definitives ............................................................................................................. 3
+  1.1 Nombre de persones assalariades ..................................................................................... 3
+  1.2 Massa salarial ..................................................................................................................... 6
+  1.3 Salari mitjà........................................................................................................................... 9
+  1.4 Salari medià ...................................................................................................................... 12
+  1.5 Distribució dels salaris declarats i comparativa del salari mitjà, medià i modal ............... 14
+2 Dades ajustades estacionalment ........................................................................................... 15
+  2.1 Nombre de persones assalariades ................................................................................... 15
+  2.2 Massa salarial ................................................................................................................... 15
+  2.3 Salari mitjà......................................................................................................................... 16
+3 Dades provisionals del mes avançat ...................................................................................... 16
+4 Gràfics .................................................................................................................................... 17
+  4.1 Nombre de persones assalariades ................................................................................... 17
+  4.2 Massa salarial ................................................................................................................... 17
+  4.3 Salari mitjà......................................................................................................................... 17
+5 Nota metodològica ................................................................................................................. 18
+6 Dates de les publicacions previstes ....................................................................................... 20
+
+
+
+
+NP_A149_20260817                                                                                                              Pàgina 2 de 20
+                                          A149. Estadística de salaris. Maig del 2026
+
+
+1. Dades semi-definitives
+
+                        1.1 Nombre de persones assalariades
+
+El nombre total de persones assalariades del mes de maig del 2026 és de 44.729, la qual cosa
+representa una variació del +2,5% respecte al mateix mes de l’any anterior, en què hi va haver
+43.617 persones.
+
+El mes de maig del 2026 presenta l’increment més destacat del nombre de persones
+assalariades, comparat amb el mateix mes de l’any 2025, en els sectors d’“Agricultura,
+ramaderia, caça i silvicultura” amb un +8,2% i de “Construcció” amb un +5,6%. En canvi, el
+sector que presenta un decrement més remarcable en el nombre de persones assalariades
+respecte al mes de maig del 2025 és “Llars que ocupen personal domèstic” amb un -3,0%.
+
+
+Nombre de persones assalariades del mes per                                                           Variació
+                                                                           mai-25            mai-26                   Variació
+sector (Dades mensuals)                                                                               absoluta
+Agricultura, ramaderia, caça i silvicultura                                    162             176         14            8,2%
+Indústries manufactureres                                                    1.675            1.705        30            1,8%
+Producció i distribució d'energia elèctrica, gas i aigua                       200             209          9            4,3%
+Construcció                                                                  4.655            4.916       261            5,6%
+Venda i reparació de vehicles de motor                                       1.307            1.296        -11          -0,9%
+Comerç a l'engròs i intermediaris del comerç                                 2.937            3.019        82            2,8%
+Comerç al detall, llevat de vehicles de motor                                4.917            4.952        35            0,7%
+Hoteleria                                                                    4.625            4.678        53            1,1%
+Transports i comunicacions                                                   1.492            1.463        -29          -1,9%
+Sistema financer                                                             1.700            1.762        62            3,7%
+Activitats immobiliàries i serveis empresarials                              7.743            8.075       332            4,3%
+Administració pública i seguretat social                                     4.787            4.894       107            2,2%
+Educació                                                                       743             770         27            3,7%
+Activitats sanitàries i veterinàries, serveis socials                        2.701            2.775        74            2,7%
+Altres activitats socials i serveis personals                                2.798            2.901       103            3,7%
+ Llars que ocupen personal domèstic                                 990              960              -30           -3,0%
+ Tots els sectors                                                43.617         44.729              1.112            2,5%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això la
+suma dels sectors que es presenten pot ser diferent del total de persones assalariades per a tots els sectors.
+
+
+                                                   Persones assalariades. Tots els sectors
+                        50.000                                                                                         12%
+
+                        49.000                                                                                         10%
+
+                        48.000                                                                                         8%
+
+                                                                                                                       6%
+                        47.000
+
+
+
+
+ Nombre d'assalariats                                                                                                         Variació interanual
+                                                                                                                       4%
+                        46.000
+                                                                                                                       2%
+                        45.000
+                                                                                                                       0%
+                        44.000
+                                                                                                                       -2%
+                        43.000
+                                                                                                                       -4%
+                        42.000                                                                                         -6%
+
+                        41.000                                                                                         -8%
+
+                        40.000                                                                                         -10%
+
+
+
+
+NP_A149_20260817                                                                                                 Pàgina 3 de 20
+                                  A149. Estadística de salaris. Maig del 2026
+
+
+Pel que fa a les ocupacions amb més representació al mercat laboral, aquest mes l’increment
+més significatiu de persones assalariades es produeix a “Secretaris administratius i similars”
+amb un +7,6% respecte al maig del 2025, mentre que “Esportistes i professionals similars”
+presenta una variació interanual negativa del 2,2%.
+
+
+Nombre de persones assalariades per ocupació                                                        Variació
+                                                                     mai-25          mai-26                       Variació
+(Dades mensuals)                                                                                    absoluta
+Dependents i demostradors de botigues, magatzems,
+                                                                      3.734            3.732                 -2     -0,1%
+quioscos i mercats ambulants
+Personal de neteja d'oficines, hotels (cambrers de
+                                                                      2.794            2.956             162         5,8%
+planta) i establiments similars
+Cambrers, bàrmans i similars                                          2.017            2.051                 34      1,7%
+Secretaris administratius i similars                                  2.051            2.207             156         7,6%
+Esportistes i professionals similars                                    715              699              -16       -2,2%
+Cuiners i altres preparadors de menjars                                 942              962                 20      2,1%
+Altres                                                               24.877          26.248            1.371         5,5%
+Sense categoria declarada                                             6.488            5.873             -615       -9,5%
+Assalariats de tots els sectors                                      43.617          44.729            1.112         2,5%
+
+
+
+La mitjana de persones assalariades, d’acord amb les dades acumulades de gener a maig del
+2026, és de 47.965, un +2,1% comparat amb el mateix període de l’any anterior. Els sectors
+que presenten un increment més destacat són “Producció i distribució d'energia elèctrica, gas i
+aigua” amb un +10,0% i “Agricultura, ramaderia, caça i silvicultura” amb un +6,0%. En canvi, el
+sector que presenta un decrement més destacat és “Hoteleria” amb un -2,6%.
+
+
+Nombre de persones assalariades per sector                                                       Variació
+                                                           gen-mai 2025 gen-mai 2026                              Variació
+(Mitjana mensual)                                                                                absoluta
+Agricultura, ramaderia, caça i silvicultura                          153              162                9            6,0%
+Indústries manufactureres                                          1.673            1.698              25             1,5%
+Producció i distribució d'energia elèctrica, gas i aigua             191              210              19           10,0%
+Construcció                                                        4.550            4.809             259             5,7%
+Venda i reparació de vehicles de motor                             1.300            1.285              -15           -1,2%
+Comerç a l'engròs i intermediaris del comerç                       2.967            3.013              46             1,5%
+Comerç al detall, llevat de vehicles de motor                      5.178            5.165              -13           -0,2%
+Hoteleria                                                          6.197            6.037            -160            -2,6%
+Transports i comunicacions                                         1.518            1.503              -15           -1,0%
+Sistema financer                                                   1.694            1.735              41             2,4%
+Activitats immobiliàries i serveis empresarials                    7.891            8.337             446             5,7%
+Administració pública i seguretat social                           4.739            4.844             105             2,2%
+Educació                                                             732              758              26             3,5%
+Activitats sanitàries i veterinàries, serveis socials              2.697            2.765              68             2,5%
+Altres activitats socials i serveis personals                      4.344            4.493             149             3,4%
+ Llars que ocupen personal domèstic                                 976              975               -1            -0,1%
+ Tots els sectors                                                46.981          47.965               984             2,1%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això la
+suma dels sectors que es presenten pot ser diferent del total de persones assalariades per a tots els sectors.
+
+
+
+
+NP_A149_20260817                                                                                             Pàgina 4 de 20
+                                A149. Estadística de salaris. Maig del 2026
+
+
+Segons les dades acumulades al llarg dels darrers 12 mesos, la mitjana de persones
+assalariades és de 46.464 persones, un +2,5% comparat amb el mateix període anterior. Els
+sectors que presenten un increment més destacat són “Producció i distribució d'energia
+elèctrica, gas i aigua” amb un +10,5% i “Activitats immobiliàries i serveis empresarials” amb un
++7,2%. En canvi, el sector que presenta un decrement més destacat és “Comerç al detall, llevat
+de vehicles de motor” amb un -2,4%.
+
+
+Nombre de persones assalariades per sector                       jun 2024 -       jun 2025 -        Variació
+                                                                                                                 Variació
+(Mitjana mensual)                                                 mai 2025         mai 2026         absoluta
+Agricultura, ramaderia, caça i silvicultura                             159              166                7        3,9%
+Indústries manufactureres                                             1.698            1.708               10        0,6%
+Producció i distribució d'energia elèctrica, gas i aigua                190              210               20      10,5%
+Construcció                                                           4.506            4.764              258        5,7%
+Venda i reparació de vehicles de motor                                1.301            1.301                0        0,0%
+Comerç a l'engròs i intermediaris del comerç                          2.922            3.025              103        3,5%
+Comerç al detall, llevat de vehicles de motor                         5.211            5.087             -124       -2,4%
+Hoteleria                                                             5.559            5.489              -70       -1,3%
+Transports i comunicacions                                            1.501            1.499                -2      -0,2%
+Sistema financer                                                      1.711            1.742               31        1,8%
+Activitats immobiliàries i serveis empresarials                       7.602            8.152              550        7,2%
+Administració pública i seguretat social                              4.785            4.903              118        2,5%
+Educació                                                                707              742               35        4,9%
+Activitats sanitàries i veterinàries, serveis socials                 2.678            2.754               76        2,8%
+Altres activitats socials i serveis personals                         3.618            3.749              131        3,6%
+ Llars que ocupen personal domèstic                                    983              993               10         1,0%
+ Tots els sectors                                                   45.313           46.464            1.151         2,5%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això la
+suma dels sectors que es presenten pot ser diferent del total de persones assalariades per a tots els sectors.
+
+
+
+
+NP_A149_20260817                                                                                           Pàgina 5 de 20
+                                       A149. Estadística de salaris. Maig del 2026
+
+
+                  1.2 Massa salarial
+
+La massa salarial total del mes de maig del 2026 és de 123,47 milions d’euros. La variació és
+positiva, d’un 10,4%, respecte al mateix mes de l’any anterior.
+
+El sector que presenta una variació positiva més destacable és “Sistema financer” i “Comerç al
+detall, llevat de vehicles de motor” ambdós amb un +15,4%. No hi ha cap sector amb un
+decrement de la massa salarial respecte al maig del 2025.
+
+
+Massa salarial del mes per sector                                                                      Variació
+                                                                        mai-25             mai-26                      Variació
+(Dades mensuals)                                                                                       absoluta
+Agricultura, ramaderia, caça i silvicultura                         314.760 €           351.677 €      36.918 €           11,7%
+Indústries manufactureres                                         4.202.942 €          4.443.199 €    240.256 €            5,7%
+Producció i distribució d'energia elèctrica, gas i aigua            697.756 €           753.856 €      56.100 €            8,0%
+Construcció                                                     13.168.961 €          14.557.229 €   1.388.268 €          10,5%
+Venda i reparació de vehicles de motor                            3.108.864 €          3.472.491 €    363.627 €           11,7%
+Comerç a l'engròs i intermediaris del comerç                      6.999.115 €          7.678.881 €    679.767 €            9,7%
+Comerç al detall, llevat de vehicles de motor                   10.328.782 €          11.915.200 €   1.586.418 €          15,4%
+Hoteleria                                                         9.206.899 €         10.066.556 €    859.657 €            9,3%
+Transports i comunicacions                                        4.031.948 €          4.119.569 €     87.621 €            2,2%
+Sistema financer                                                  7.595.620 €          8.762.279 €   1.166.659 €          15,4%
+Activitats immobiliàries i serveis empresarials                 19.445.269 €          21.387.792 €   1.942.523 €          10,0%
+Administració pública i seguretat social                        14.923.909 €          16.548.025 €   1.624.116 €          10,9%
+Educació                                                          1.896.033 €          2.066.248 €    170.215 €            9,0%
+Activitats sanitàries i veterinàries, serveis socials             7.387.807 €          8.256.999 €    869.191 €           11,8%
+Altres activitats socials i serveis personals                     6.371.041 €          6.895.545 €    524.504 €            8,2%
+Llars que ocupen personal domèstic                                1.837.793 €          1.859.688 €     21.896 €            1,2%
+Tots els sectors                                         111.843.246 € 123.472.486 € 11.629.240 €                  10,4%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això la
+suma dels sectors que es presenten pot ser diferent del total la massa salarial per a tots els sectors.
+
+
+
+                                                   Massa salarial. Tots els sectors
+                  180.000.000 €                                                                                          25%
+
+                                                                                                                         20%
+                  160.000.000 €
+                                                                                                                         15%
+
+                                                                                                                         10%
+                  140.000.000 €
+
+
+
+
+ Massa salarial                                                                                                                 Variació interanual
+                                                                                                                         5%
+
+                  120.000.000 €                                                                                          0%
+
+                                                                                                                         -5%
+                  100.000.000 €
+                                                                                                                         -10%
+
+                                                                                                                         -15%
+                   80.000.000 €
+                                                                                                                         -20%
+
+                   60.000.000 €                                                                                          -25%
+
+
+
+
+NP_A149_20260817                                                                                                   Pàgina 6 de 20
+                                  A149. Estadística de salaris. Maig del 2026
+
+
+Referent a la massa salarial de les ocupacions amb més representació al mercat laboral, al
+maig del 2026 l’increment més significatiu es produeix a “Personal de neteja d’oficines, hotels i
+establiments similars” amb un +13,9% respecte al maig del 2025. No hi ha cap ocupació dins
+les més representades que reflecteixi una variació interanual negativa.
+
+
+Massa salarial del mes per ocupació                                                                Variació
+                                                                    mai-25           mai-26                     Variació
+(Dades mensuals)                                                                                   absoluta
+Dependents i demostradors de botigues, magatzems,
+                                                               6.771.190 €      7.081.558 €       310.368 €         4,6%
+quioscos i mercats ambulants
+Personal de neteja d'oficines, hotels (cambrers de
+                                                               4.849.905 €      5.523.793 €       673.888 €        13,9%
+planta) i establiments similars
+Cambrers, bàrmans i similars                                   3.459.475 €      3.873.038 €       413.563 €        12,0%
+Secretaris administratius i similars                           4.500.252 €      5.117.922 €       617.669 €        13,7%
+Esportistes i professionals similars                           1.691.198 €      1.779.458 €         88.259 €        5,2%
+Cuiners i altres preparadors de menjars                        1.927.577 €      2.043.303 €       115.726 €         6,0%
+Altres                                                        65.897.875 €     75.865.199 €     9.967.324 €        15,1%
+Sense categoria declarada                                     22.745.774 €     22.188.216 €       -557.558 €       -2,5%
+Massa salarial de tots els sectors                           111.843.246 € 123.472.486 €       11.629.240 €        10,4%
+
+
+
+D’acord amb les dades acumulades de gener a maig del 2026, la mitjana mensual de la massa
+salarial és de 133,20 milions d’euros, equivalent a una variació del +7,6% respecte al mateix
+període de l’any anterior. El sector que presenta la variació positiva més destacada és
+“Construcció” amb un +11,7% respecte al mateix període del 2025. Cap sector presenta un
+decrement en la massa salarial respecte al mateix període de l’any anterior.
+
+
+Massa salarial per sector                                                                       Variació
+                                                           gen-mai 2025 gen-mai 2026                             Variació
+(Mitjana mensual)                                                                               absoluta
+Agricultura, ramaderia, caça i silvicultura                    299.727 €       332.832 €         33.105 €           11,0%
+Indústries manufactureres                                    4.348.455 €      4.626.968 €       278.512 €            6,4%
+Producció i distribució d'energia elèctrica, gas i aigua       685.111 €       763.192 €         78.081 €           11,4%
+Construcció                                                 12.499.482 €     13.959.667 €     1.460.185 €           11,7%
+Venda i reparació de vehicles de motor                       3.085.536 €      3.307.218 €       221.682 €            7,2%
+Comerç a l'engròs i intermediaris del comerç                 7.145.521 €      7.608.028 €       462.507 €            6,5%
+Comerç al detall, llevat de vehicles de motor               10.928.810 €     11.646.891 €       718.081 €            6,6%
+Hoteleria                                                   12.563.180 €     13.065.073 €       501.893 €            4,0%
+Transports i comunicacions                                   4.337.584 €      4.470.402 €       132.818 €            3,1%
+Sistema financer                                            10.937.820 €     11.285.302 €       347.483 €            3,2%
+Activitats immobiliàries i serveis empresarials             20.150.692 €     22.449.595 €     2.298.903 €           11,4%
+Administració pública i seguretat social                    15.039.352 €     16.261.140 €     1.221.789 €            8,1%
+Educació                                                     1.892.782 €      2.039.588 €       146.807 €            7,8%
+Activitats sanitàries i veterinàries, serveis socials        7.468.936 €      8.270.088 €       801.152 €           10,7%
+Altres activitats socials i serveis personals               10.276.618 €     10.877.074 €       600.456 €            5,8%
+ Llars que ocupen personal domèstic                         1.790.951 €     1.902.475 €          111.524 €           6,2%
+ Tots els sectors                                        123.773.875 € 133.199.062 €           9.425.187 €           7,6%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això la
+suma dels sectors que es presenten pot ser diferent del total la massa salarial per a tots els sectors.
+
+
+
+
+NP_A149_20260817                                                                                            Pàgina 7 de 20
+                                A149. Estadística de salaris. Maig del 2026
+
+
+D’acord amb les dades acumulades al llarg dels darrers 12 mesos, la mitjana mensual de la
+massa salarial és de 127,57 milions d’euros, equivalent a una variació del +7,4% respecte al
+mateix període anterior. Els sectors que presenten la variació positiva més destacada són
+“Activitats immobiliàries i serveis empresarials” amb un +14,0% i “Construcció” amb un +11,4%.
+Cap sector presenta un decrement en la massa salarial respecte al mateix període anterior.
+
+
+Massa salarial per sector                                      jun 2024 -       jun 2025 -        Variació
+                                                                                                              Variació
+(Mitjana mensual)                                               mai 2025         mai 2026         absoluta
+Agricultura, ramaderia, caça i silvicultura                     309.011 €        334.288 €        25.277 €        8,2%
+Indústries manufactureres                                     4.482.562 €      4.705.361 €       222.799 €        5,0%
+Producció i distribució d'energia elèctrica, gas i aigua        802.123 €        886.421 €        84.297 €       10,5%
+Construcció                                                  12.548.739 €    13.977.157 €      1.428.418 €       11,4%
+Venda i reparació de vehicles de motor                        3.106.792 €      3.294.279 €       187.487 €        6,0%
+Comerç a l'engròs i intermediaris del comerç                  7.118.076 €      7.628.653 €       510.577 €        7,2%
+Comerç al detall, llevat de vehicles de motor                10.888.508 €    11.184.571 €        296.063 €        2,7%
+Hoteleria                                                    10.999.297 €    11.407.185 €        407.888 €        3,7%
+Transports i comunicacions                                    4.258.472 €      4.339.351 €        80.879 €        1,9%
+Sistema financer                                              9.160.472 €      9.363.450 €       202.978 €        2,2%
+Activitats immobiliàries i serveis empresarials              19.139.173 €    21.813.653 €      2.674.480 €       14,0%
+Administració pública i seguretat social                     15.872.870 €    17.001.879 €      1.129.009 €        7,1%
+Educació                                                      1.909.535 €      2.058.315 €       148.779 €        7,8%
+Activitats sanitàries i veterinàries, serveis socials         7.611.062 €      8.254.000 €       642.938 €        8,4%
+Altres activitats socials i serveis personals                 8.399.310 €      9.066.852 €       667.542 €        7,9%
+ Llars que ocupen personal domèstic                            1.797.718 €      1.911.748 €         114.030 €       6,3%
+ Tots els sectors                                           118.728.934 € 127.571.791 €           8.842.857 €       7,4%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”, per això
+la suma dels sectors que es presenten pot ser diferent del total la massa salarial per a tots els sectors.
+
+
+
+
+NP_A149_20260817                                                                                         Pàgina 8 de 20
+                                   A149. Estadística de salaris. Maig del 2026
+
+
+                1.3 Salari mitjà
+
+El salari mitjà total declarat a la CASS per al mes de maig del 2026 és de 2.760,46 €, un +7,7%
+respecte al mateix mes de l’any anterior.
+
+Aquest mes, els sectors que presenten una variació positiva més remarcable són “Comerç al
+detall, llevat de vehicles de motor” amb un +14,5% i “Venda i reparació de vehicles a motor”
+amb un +12,7%. Cap sector mostra una variació negativa respecte al mateix període de l’any
+anterior.
+
+Cal recordar que les dades facilitades per la CASS no detallen els conceptes
+remuneratius ni les hores treballades. El salari mitjà aquí descrit es basa en les
+quantitats totals brutes declarades a la CASS, sense distingir si s’hi inclouen
+indemnitzacions o altres remuneracions, o si les persones assalariades treballen a
+jornada completa o parcial.
+
+
+Salari mitjà del mes per sector                                                                   Variació
+                                                                        mai-25          mai-26                    Variació
+(Dades mensuals)                                                                                  absoluta
+Agricultura, ramaderia, caça i silvicultura                         1.937,05 €       2.000,11 €    63,06 €            3,3%
+Indústries manufactureres                                           2.509,73 €       2.605,93 €    96,20 €            3,8%
+Producció i distribució d'energia elèctrica, gas i aigua            3.483,30 €       3.607,83 €   124,53 €            3,6%
+Construcció                                                         2.829,13 €       2.961,12 €   131,99 €            4,7%
+Venda i reparació de vehicles de motor                              2.379,03 €       2.680,43 €   301,40 €          12,7%
+Comerç a l'engròs i intermediaris del comerç                        2.383,24 €       2.543,71 €   160,47 €            6,7%
+Comerç al detall, llevat de vehicles de motor                       2.100,60 €       2.405,99 €   305,39 €          14,5%
+Hoteleria                                                           1.990,54 €       2.151,69 €   161,15 €            8,1%
+Transports i comunicacions                                          2.701,51 €       2.814,89 €   113,38 €            4,2%
+Sistema financer                                                    4.468,51 €       4.972,10 €   503,59 €          11,3%
+Activitats immobiliàries i serveis empresarials                     2.511,45 €       2.648,58 €   137,13 €            5,5%
+Administració pública i seguretat social                            3.117,84 €       3.381,25 €   263,41 €            8,4%
+Educació                                                            2.552,13 €       2.682,57 €   130,44 €            5,1%
+Activitats sanitàries i veterinàries, serveis socials               2.734,95 €       2.975,99 €   241,04 €            8,8%
+Altres activitats socials i serveis personals                       2.276,82 €       2.377,18 €   100,36 €            4,4%
+Llars que ocupen personal domèstic                                  1.856,23 €       1.936,45 €    80,22 €            4,3%
+Tots els sectors                                            2.564,21 €      2.760,46 €           196,24 €             7,7%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”.
+
+
+
+                                                    Salari mitjà. Tots els sectors
+                3.400 €                                                                                             10%
+
+
+                3.200 €                                                                                             8%
+
+                3.000 €
+                                                                                                                    6%
+
+
+
+
+                                                                                                                          Variació interanual
+                2.800 €
+
+
+
+ Salari mitjà
+                                                                                                                    4%
+                2.600 €
+                                                                                                                    2%
+                2.400 €
+
+                                                                                                                    0%
+                2.200 €
+
+
+                2.000 €                                                                                             -2%
+
+
+                1.800 €                                                                                             -4%
+
+
+
+
+NP_A149_20260817                                                                                             Pàgina 9 de 20
+                                  A149. Estadística de salaris. Maig del 2026
+
+
+Quant al salari mitjà de les ocupacions amb més representació al mercat laboral, al mes de
+maig del 2026 l’increment més significatiu es produeix a “Cambrers, bàrmans i similars” amb un
++10,1% respecte al maig del 2025. No hi ha cap ocupació dins el grup de les més
+representades que presenti una variació negativa respecte el maig anterior.
+
+
+Salari mitjà del mes per ocupació                                                                 Variació
+                                                                    mai-25          mai-26                        Variació
+(Dades mensuals)                                                                                  absoluta
+Dependents i demostradors de botigues, magatzems,
+                                                                1.813,45 €      1.897,55 €          84,10 €          4,6%
+quioscos i mercats ambulants
+Personal de neteja d'oficines, hotels (cambrers de
+                                                                1.735,98 €      1.868,52 €         132,54 €          7,6%
+planta) i establiments similars
+Cambrers, bàrmans i similars                                    1.715,57 €      1.888,56 €         172,99 €         10,1%
+Secretaris administratius i similars                            2.194,22 €      2.318,53 €         124,31 €          5,7%
+Esportistes i professionals similars                            2.365,22 €      2.544,00 €         178,78 €          7,6%
+Cuiners i altres preparadors de menjars                         2.046,47 €      2.123,77 €          77,30 €          3,8%
+Altres                                                          2.648,95 €      2.890,34 €         241,39 €          9,1%
+Sense categoria declarada                                       3.379,75 €      3.777,86 €         398,11 €         11,8%
+Salari mitjà de tots els sectors                                2.564,21 €      2.760,46 €         196,24 €          7,7%
+
+
+
+D’acord amb les dades acumulades de gener a maig, el salari mitjà s’ha situat en
+2.777,01 €, equivalent a una variació del +5,4% respecte al mateix període de l’any anterior. El
+sector que presenta la variació positiva més remarcable és “Venda i reparació de vehicles a
+motor” amb un +8,5%. Cap sector presenta una variació negativa respecte al mateix període de
+l’any anterior.
+
+
+Salari mitjà per sector                                                                         Variació
+                                                           gen-mai 2025 gen-mai 2026                               Variació
+(Mitjana mensual)                                                                               absoluta
+Agricultura, ramaderia, caça i silvicultura                   1.956,62 €      2.050,60 €          93,97 €             4,8%
+Indústries manufactureres                                     2.599,46 €      2.725,71 €         126,25 €             4,9%
+Producció i distribució d'energia elèctrica, gas i aigua      3.589,68 €      3.636,12 €          46,44 €             1,3%
+Construcció                                                   2.746,87 €      2.903,10 €         156,23 €             5,7%
+Venda i reparació de vehicles de motor                        2.373,38 €      2.573,95 €         200,57 €             8,5%
+Comerç a l'engròs i intermediaris del comerç                  2.408,37 €      2.525,31 €         116,94 €             4,9%
+Comerç al detall, llevat de vehicles de motor                 2.110,67 €      2.254,86 €         144,19 €             6,8%
+Hoteleria                                                     2.027,42 €      2.164,05 €         136,63 €             6,7%
+Transports i comunicacions                                    2.857,02 €      2.975,10 €         118,08 €             4,1%
+Sistema financer                                              6.457,55 €      6.503,96 €          46,42 €             0,7%
+Activitats immobiliàries i serveis empresarials               2.553,78 €      2.692,81 €         139,03 €             5,4%
+Administració pública i seguretat social                      3.173,70 €      3.357,23 €         183,52 €             5,8%
+Educació                                                      2.585,56 €      2.691,79 €         106,23 €             4,1%
+Activitats sanitàries i veterinàries, serveis socials         2.769,63 €      2.991,09 €         221,46 €             8,0%
+Altres activitats socials i serveis personals                 2.365,65 €      2.420,64 €          54,99 €             2,3%
+Llars que ocupen personal domèstic                          1.835,64 €      1.951,67 €           116,03 €             6,3%
+Tots els sectors                                            2.634,54 €      2.777,01 €           142,46 €             5,4%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”.
+
+
+
+
+NP_A149_20260817                                                                                         Pàgina 10 de 20
+                                A149. Estadística de salaris. Maig del 2026
+
+
+
+D’acord amb les dades acumulades durant els darrers 12 mesos, el salari mitjà s’ha situat en
+2.745,62 €, equivalent a una variació del +4,8% respecte al mateix període anterior. El sector
+que presenta la variació positiva més remarcable és “Activitats immobiliàries i serveis
+empresarials” amb un +6,3%. Cap sector presenta una variació negativa respecte al mateix
+període de l’any anterior.
+
+
+Salari mitjà per sector                                         jun 2024 -       jun 2025 -        Variació
+                                                                                                                  Variació
+(Mitjana mensual)                                                mai 2025         mai 2026         absoluta
+Agricultura, ramaderia, caça i silvicultura                     1.937,97 €       2.018,75 €          80,78 €         4,2%
+Indústries manufactureres                                       2.640,03 €       2.755,52 €         115,49 €         4,4%
+Producció i distribució d'energia elèctrica, gas i aigua        4.224,66 €       4.226,05 €           1,38 €        0,03%
+Construcció                                                     2.785,16 €       2.934,15 €         148,99 €         5,3%
+Venda i reparació de vehicles de motor                          2.387,19 €       2.531,15 €         143,96 €         6,0%
+Comerç a l'engròs i intermediaris del comerç                    2.436,37 €       2.521,77 €          85,39 €         3,5%
+Comerç al detall, llevat de vehicles de motor                   2.089,66 €       2.198,71 €         109,05 €         5,2%
+Hoteleria                                                       1.978,76 €       2.078,22 €          99,47 €         5,0%
+Transports i comunicacions                                      2.836,24 €       2.895,13 €          58,89 €         2,1%
+Sistema financer                                                5.354,42 €       5.374,73 €          20,30 €         0,4%
+Activitats immobiliàries i serveis empresarials                 2.517,77 €       2.675,81 €         158,03 €         6,3%
+Administració pública i seguretat social                        3.316,88 €       3.467,54 €         150,66 €         4,5%
+Educació                                                        2.701,01 €       2.775,77 €          74,76 €         2,8%
+Activitats sanitàries i veterinàries, serveis socials           2.842,07 €       2.997,44 €         155,37 €         5,5%
+Altres activitats socials i serveis personals                   2.321,47 €       2.418,45 €          96,98 €         4,2%
+Llars que ocupen personal domèstic                           1.828,88 €         1.925,98 €            97,10 €        5,3%
+Tots els sectors                                             2.620,21 €         2.745,62 €           125,41 €        4,8%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”.
+
+
+
+
+NP_A149_20260817                                                                                         Pàgina 11 de 20
+                                   A149. Estadística de salaris. Maig del 2026
+
+
+                1.4 Salari medià
+
+El salari medià total declarat a la CASS per al mes de maig del 2026 és de 2.235,73 €, un
++5,2% respecte al mateix mes de l’any anterior. Això vol dir que la meitat dels assalariats han
+percebut un salari inferior a 2.235,73 € i l’altra meitat un salari superior a aquesta quantitat.
+
+Aquest mes, els sectors que presenten una variació positiva més remarcable són “Activitats
+sanitàries i veterinàries, serveis socials” amb un +8,2% i “Administració pública i seguretat
+social” amb un +7,6%. Cap sector presenta una variació negativa respecte al maig anterior.
+
+
+Salari medià del mes per sector                                                                   Variació
+                                                                       mai-25           mai-26                   Variació
+(Dades mensuals)                                                                                  absoluta
+Agricultura, ramaderia, caça i silvicultura                        1.722,77 €        1.797,00 €    74,23 €          4,3%
+Indústries manufactureres                                          2.157,00 €        2.270,59 €   113,59 €          5,3%
+Producció i distribució d'energia elèctrica, gas i aigua           3.363,16 €        3.473,16 €   110,00 €          3,3%
+Construcció                                                        2.724,94 €        2.881,33 €   156,39 €          5,7%
+Venda i reparació de vehicles de motor                             2.077,65 €        2.139,04 €    61,39 €          3,0%
+Comerç a l'engròs i intermediaris del comerç                       1.994,40 €        2.110,96 €   116,56 €          5,8%
+Comerç al detall, llevat de vehicles de motor                      1.847,25 €        1.935,70 €    88,45 €          4,8%
+Hoteleria                                                          1.785,62 €        1.917,60 €   131,98 €          7,4%
+Transports i comunicacions                                         2.310,08 €        2.408,78 €    98,70 €          4,3%
+Sistema financer                                                   3.551,71 €        3.655,75 €   104,04 €          2,9%
+Activitats immobiliàries i serveis empresarials                    2.010,80 €        2.139,04 €   128,24 €          6,4%
+Administració pública i seguretat social                           2.839,75 €        3.056,40 €   216,65 €          7,6%
+Educació                                                           2.404,50 €        2.444,62 €    40,12 €          1,7%
+Activitats sanitàries i veterinàries, serveis socials              2.344,16 €        2.536,85 €   192,69 €          8,2%
+Altres activitats socials i serveis personals                      1.776,00 €        1.896,66 €   120,66 €          6,8%
+Llars que ocupen personal domèstic                                 1.500,00 €        1.550,80 €    50,80 €          3,4%
+Tots els sectors                                            2.125,56 €      2.235,73 €           110,17 €           5,2%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”
+
+
+
+                                                    Salari medià. Tots els sectors
+                2.400 €                                                                                            10%
+
+
+                2.300 €                                                                                            8%
+
+
+                2.200 €                                                                                            6%
+
+
+
+
+                                                                                                                         Variació interanual
+                2.100 €                                                                                            4%
+
+
+
+ Salari medià
+                2.000 €                                                                                            2%
+
+
+                1.900 €                                                                                            0%
+
+
+                1.800 €                                                                                            -2%
+
+
+                1.700 €                                                                                            -4%
+
+
+                1.600 €                                                                                            -6%
+
+
+
+
+NP_A149_20260817                                                                                         Pàgina 12 de 20
+                                A149. Estadística de salaris. Maig del 2026
+
+
+La mitjana del salari medià, d’acord amb les dades acumulades de gener a maig del 2026, és
+de 2.203,08 €, un +4,8% comparat amb el mateix període de l’any anterior. El sector que
+presenta un increment més destacat és “Administració pública i seguretat social” amb un
++7,5%. Cap sector presenta una variació negativa respecte al mateix període de l’any anterior.
+
+Salari medià per sector                                                                            Variació
+                                                           gen-mai 2025 gen-mai 2026                             Variació
+(Mitjana mensual)                                                                                  absoluta
+Agricultura, ramaderia, caça i silvicultura                    1.727,22 €       1.780,56 €          53,34 €         3,1%
+Indústries manufactureres                                      2.140,47 €       2.261,04 €         120,57 €         5,6%
+Producció i distribució d'energia elèctrica, gas i aigua       3.424,99 €       3.462,69 €          37,70 €         1,1%
+Construcció                                                    2.596,69 €       2.767,75 €         171,06 €         6,6%
+Venda i reparació de vehicles de motor                         2.073,77 €       2.144,03 €          70,27 €         3,4%
+Comerç a l'engròs i intermediaris del comerç                   1.979,77 €       2.067,49 €          87,73 €         4,4%
+Comerç al detall, llevat de vehicles de motor                  1.855,58 €       1.948,91 €          93,32 €         5,0%
+Hoteleria                                                      1.830,41 €       1.941,63 €         111,21 €         6,1%
+Transports i comunicacions                                     2.380,56 €       2.460,31 €          79,74 €         3,3%
+Sistema financer                                               3.865,77 €       3.990,66 €         124,89 €         3,2%
+Activitats immobiliàries i serveis empresarials                1.997,95 €       2.109,92 €         111,98 €         5,6%
+Administració pública i seguretat social                       2.872,76 €       3.086,79 €         214,03 €         7,5%
+Educació                                                       2.396,15 €       2.446,95 €          50,80 €         2,1%
+Activitats sanitàries i veterinàries, serveis socials          2.316,61 €       2.461,20 €         144,59 €         6,2%
+Altres activitats socials i serveis personals                  1.936,61 €       1.974,97 €          38,36 €         2,0%
+Llars que ocupen personal domèstic                             1.472,83 €       1.557,27 €          84,43 €         5,7%
+Tots els sectors                                               2.102,47 €       2.203,08 €         100,62 €         4,8%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”
+
+
+
+La mitjana del salari medià, d’acord amb les dades acumulades durant els darrers 12 mesos,
+és de 2.177,94 €, un +4,7% comparat amb el mateix període anterior. El sector que presenta
+un increment més destacat és “Llars que ocupen personal domèstic” amb un +7,5%. “Producció
+i distribució d’energia elèctrica, gas i aigua” té una variació negativa del 0,6% respecte al
+mateix període de l’any anterior.
+
+Salari medià per sector                                        jun 2024 -       jun 2025 -         Variació
+                                                                                                                 Variació
+(Mitjana mensual)                                               mai 2025         mai 2026          absoluta
+Agricultura, ramaderia, caça i silvicultura                    1.709,81 €       1.745,64 €           35,83 €        2,1%
+Indústries manufactureres                                      2.163,83 €       2.272,12 €         108,28 €         5,0%
+Producció i distribució d'energia elèctrica, gas i aigua       4.015,06 €       3.990,52 €          -24,53 €       -0,6%
+Construcció                                                    2.610,73 €       2.769,19 €         158,46 €         6,1%
+Venda i reparació de vehicles de motor                         2.064,56 €       2.137,73 €           73,17 €        3,5%
+Comerç a l'engròs i intermediaris del comerç                   1.983,79 €       2.042,15 €           58,35 €        2,9%
+Comerç al detall, llevat de vehicles de motor                  1.808,17 €       1.906,83 €           98,66 €        5,5%
+Hoteleria                                                      1.780,39 €       1.878,09 €           97,70 €        5,5%
+Transports i comunicacions                                     2.340,72 €       2.405,82 €           65,10 €        2,8%
+Sistema financer                                               3.661,26 €       3.767,57 €         106,31 €         2,9%
+Activitats immobiliàries i serveis empresarials                1.972,84 €       2.070,05 €           97,21 €        4,9%
+Administració pública i seguretat social                       3.023,87 €       3.166,67 €         142,80 €         4,7%
+Educació                                                       2.453,46 €       2.517,22 €           63,75 €        2,6%
+Activitats sanitàries i veterinàries, serveis socials          2.369,38 €       2.515,87 €         146,49 €         6,2%
+Altres activitats socials i serveis personals                  1.813,49 €       1.890,12 €           76,63 €        4,2%
+Llars que ocupen personal domèstic                             1.431,02 €       1.538,34 €         107,32 €         7,5%
+Tots els sectors                                               2.080,70 €       2.177,94 €           97,24 €        4,7%
+Nota: En aquesta taula no es presenten els apartats “Organismes extraterritorials” i “Treballs a la comunitat”
+
+
+
+
+NP_A149_20260817                                                                                         Pàgina 13 de 20
+                                           A149. Estadística de salaris. Maig del 2026
+
+
+                      1.5 Distribució dels salaris declarats i comparativa del salari mitjà, medià i modal
+
+En el gràfic que hi ha a continuació, es representa la distribució dels salaris declarats en el mes
+de maig del 2026, així com el salari mitjà (vermell), el salari medià (groc), el salari més repetit
+(l’interval de salari amb la freqüència més elevada o, el que és equivalent, l’interval de salari
+modal, en verd) i la freqüència acumulada (en %) del nombre de persones assalariades segons
+el seu interval de salari (negre discontinu).
+
+L’interval de salari modal del mes de maig del 2026 és “1.500 € a 1.600 €”, en el qual es troben
+el 5,4% del total de persones assalariades.
+
+
+                                                 Distribució dels ingressos del mes de maig del 2026
+                      3.200                                                                                    100%
+                      3.000
+                                                                                                               90%
+                      2.800
+                      2.600
+
+
+
+
+                                                                                                                       % acumulat de la distribució dels ingressos
+                                                                                                               80%
+                      2.400
+                      2.200                                                                                    70%
+
+
+
+
+ Nombre de persones
+                      2.000
+                                                                                                               60%
+                      1.800
+                      1.600                                                                                    50%
+                      1.400
+                                                                                                               40%
+                      1.200
+                      1.000                                                                                    30%
+                       800
+                       600                                                                                     20%
+
+                       400
+                                                                                                               10%
+                       200
+                         0        0,01-100,01
+                                200,01-300,01
+                                                                                                               0%
+                                400,01-500,01
+                                600,01-700,01
+                                800,01-900,01
+                              1000,01-1100,01
+                              1200,01-1300,01
+                              1400,01-1500,01
+                              1600,01-1700,01
+                              1800,01-1900,01
+                              2000,01-2100,01
+                              2200,01-2300,01
+                              2400,01-2500,01
+                              2600,01-2700,01
+                              2800,01-2900,01
+                              3000,01-3100,01
+                              3200,01-3300,01
+                              3400,01-3500,01
+                              3600,01-3700,01
+                              3800,01-3900,01
+                              4000,01-4100,01
+                              4200,01-4300,01
+                              4400,01-4500,01
+                              4600,01-4700,01
+                              4800,01-4900,01
+                              5000,01-5100,01
+                              5200,01-5300,01
+                              5400,01-5500,01
+                              5600,01-5700,01
+                              5800,01-5900,01
+                              6000,01-6100,01
+                              6200,01-6300,01
+                              6400,01-6500,01
+                              6600,01-6700,01
+                              6800,01-6900,01
+                              7000,01-7100,01
+                              7200,01-7300,01
+                              7400,01-7500,01
+                              7600,01-7700,01
+                              7800,01-7900,01
+                              8000,01-8100,01
+                              8200,01-8300,01
+                              8400,01-8500,01
+                              8600,01-8700,01
+                              8800,01-8900,01
+                              9000,01-9100,01
+                              9200,01-9300,01
+                              9400,01-9500,01
+                              9600,01-9700,01
+                              9800,01-9900,01
+                                                                  Interval dels ingressos
+
+Nota: No tots els valors dels salaris són equivalents a jornades a temps complet.
+
+
+
+El salari medià total declarat a la CASS per al mes de maig del 2026 és de 2.235,73 €,
+corresponent a un 81,0% del salari mitjà.
+
+
+                                                       Comparativa del salari mitjà i medià
+
+                       3.500 €
+
+
+
+                       3.000 €
+
+
+                                                                                                          2.760,46 €
+                       2.500 €
+
+
+    Euros                                                                                                 2.235,73 €
+                       2.000 €
+
+
+
+                       1.500 €
+
+
+
+                       1.000 €
+
+
+
+
+                                                               Salari mitjà         Salari medià
+
+
+
+
+NP_A149_20260817                                                                                       Pàgina 14 de 20
+                                           A149. Estadística de salaris. Maig del 2026
+
+
+2. Dades ajustades estacionalment
+
+    2.1 Nombre de persones assalariades
+
+Quant a les dades mensuals ajustades, un cop eliminades les variacions causades pels efectes
+del calendari i del període de l’any en què ens trobem, es constata en el nombre de persones
+assalariades una lleugera tendència a la baixa en el darrer mes i se situa en un +0,4%.
+
+
+Nombre de persones assalariades del mes per
+                                                           des-25   gen-26   feb-26   mar-26      abr-26     mai-26
+sector (variació mensual dades ajustades)
+Agricultura, ramaderia, caça i silvicultura                 1,0%     0,6%     0,0%       -0,5%    -0,9%       -1,1%
+Indústries manufactureres                                   0,0%     0,0%     0,1%        0,1%     0,1%       0,1%
+Producció i distribució d'energia elèctrica, gas i aigua    0,4%     0,3%     0,1%        0,0%    -0,1%       -0,1%
+Construcció                                                 0,5%     0,6%     0,5%        0,5%     0,4%       0,4%
+Venda i reparació de vehicles de motor                      -0,1%    -0,2%   -0,2%       -0,1%    -0,1%       -0,1%
+Comerç a l'engròs i intermediaris del comerç                -0,2%    -0,4%   -0,3%        0,1%     0,5%       0,8%
+Comerç al detall, llevat de vehicles de motor               0,1%     0,0%     0,0%        0,1%     0,2%       0,2%
+Hoteleria                                                   -0,1%    0,0%     0,0%        0,1%     0,1%       0,1%
+Transports i comunicacions                                  -0,3%    -0,5%   -0,4%       -0,1%     0,1%       0,2%
+Sistema financer                                            0,1%     0,2%     0,3%        0,5%     0,6%       0,5%
+Activitats immobiliàries i serveis empresarials             0,3%     0,2%     0,0%        0,0%     0,2%       0,4%
+Administració pública i seguretat social                    0,2%     0,2%     0,3%        0,3%     0,3%       0,3%
+Educació                                                    -0,2%    -0,3%   -0,2%        0,1%     0,4%       0,7%
+Activitats sanitàries i veterinàries, serveis socials       -0,1%    0,1%     0,3%        0,5%     0,6%       0,5%
+Altres activitats socials i serveis personals               0,5%     0,4%     0,4%        0,3%     0,3%       0,3%
+Llars que ocupen personal domèstic                          -0,1%    -0,4%   -0,7%       -0,9%    -0,9%       -0,7%
+Tots els sectors                                             0,0%     0,0%    0,1%        0,4%     0,5%        0,4%
+
+
+
+
+    2.2 Massa salarial
+
+Pel que fa a la variació mensual de la massa salarial ajustada estacionalment presenta una
+lleugera tendència a la baixa en el darrer mes i se situa en un +0,5%.
+
+
+Massa salarial del mes per sector
+                                                           des-25   gen-26   feb-26      mar-26   abr-26     mai-26
+(variació mensual dades ajustades)
+Agricultura, ramaderia, caça i silvicultura                 0,6%      0,6%    0,6%        0,5%     0,5%        0,5%
+Indústries manufactureres                                   -0,3%    -0,4%    -0,3%       0,0%     0,3%        0,5%
+Producció i distribució d'energia elèctrica, gas i aigua    0,9%      0,6%    0,2%        0,0%     0,0%        0,2%
+Construcció                                                 1,1%      1,2%    1,2%        1,2%     1,2%        1,1%
+Venda i reparació de vehicles de motor                      0,4%      0,6%    0,7%        0,7%     0,7%        0,7%
+Comerç a l'engròs i intermediaris del comerç                -0,1%     0,0%    0,4%        0,8%     1,0%        1,2%
+Comerç al detall, llevat de vehicles de motor               0,5%      0,3%    0,2%        0,1%     0,1%        0,1%
+Hoteleria                                                   0,6%      0,4%    0,4%        0,5%     0,5%        0,6%
+Transports i comunicacions                                  -0,1%    -0,1%    0,0%        0,1%     0,1%        0,1%
+Sistema financer                                            0,7%      0,7%    0,7%        0,7%     0,5%        0,4%
+Activitats immobiliàries i serveis empresarials             0,6%      0,5%    0,4%        0,4%     0,5%        0,8%
+Administració pública i seguretat social                    0,6%      0,9%    1,1%        1,2%     1,0%        0,9%
+Educació                                                    -0,2%    -0,3%    0,0%        0,5%     1,0%        1,4%
+Activitats sanitàries i veterinàries, serveis socials       0,3%      0,4%    0,7%        1,0%     1,4%        1,6%
+Altres activitats socials i serveis personals               0,0%     -0,2%    -0,2%       0,2%     0,8%        1,2%
+Llars que ocupen personal domèstic                          0,4%      0,0%    -0,4%       -0,6%    -0,6%      -0,4%
+Tots els sectors                                            0,6%      0,7%     0,7%        0,6%     0,6%       0,5%
+
+
+
+
+NP_A149_20260817                                                                                    Pàgina 15 de 20
+                                           A149. Estadística de salaris. Maig del 2026
+
+
+    2.3 Salari mitjà
+
+La variació mensual del salari mitjà ajustat estacionalment presenta una tendència estable en
+els darrers cinc mesos i es manté en un +0,4%.
+
+
+Salari mitjà del mes per sector
+                                                                des-25     gen-26        feb-26           mar-26       abr-26     mai-26
+(variació mensual dades ajustades)
+Agricultura, ramaderia, caça i silvicultura                      0,2%        0,3%            0,3%          0,3%         0,4%        0,5%
+Indústries manufactureres                                        -0,3%      -0,2%            0,1%          0,4%         0,8%        1,0%
+Producció i distribució d'energia elèctrica, gas i aigua         0,6%        0,4%            0,2%          0,2%         0,3%        0,5%
+Construcció                                                      0,1%        0,4%            0,6%          0,7%         0,7%        0,6%
+Venda i reparació de vehicles de motor                           0,3%        0,3%            0,4%          0,4%         0,4%        0,4%
+Comerç a l'engròs i intermediaris del comerç                     0,4%        0,5%            0,6%          0,5%         0,5%        0,4%
+Comerç al detall, llevat de vehicles de motor                    0,2%        0,2%            0,2%          0,3%         0,3%        0,4%
+Hoteleria                                                        0,7%        0,7%            0,6%          0,5%         0,4%        0,4%
+Transports i comunicacions                                       0,3%        0,3%            0,3%          0,4%         0,4%        0,4%
+Sistema financer                                                 0,5%        0,6%            0,5%          0,5%         0,4%        0,2%
+Activitats immobiliàries i serveis empresarials                  0,3%        0,3%            0,4%          0,4%         0,5%        0,5%
+Administració pública i seguretat social                         0,3%        0,5%            0,7%          0,8%         0,9%        0,8%
+Educació                                                         0,6%        0,6%            0,4%          0,3%         0,2%        0,2%
+Activitats sanitàries i veterinàries, serveis socials            0,2%        0,2%            0,2%          0,3%         0,4%        0,4%
+Altres activitats socials i serveis personals                    0,0%       -0,3%            -0,4%         -0,5%        -0,3%       0,0%
+Llars que ocupen personal domèstic                               0,7%        0,7%            0,7%          0,6%         0,5%        0,3%
+Tots els sectors                                                 0,4%        0,4%            0,4%          0,4%         0,4%        0,4%
+Nota: Les dades ajustades donen una visió complementària de l’evolució mensual de les dades, sense la influència
+dels festius, els ponts o altres efectes estacionals i de calendari. Les sèries ajustades estacionalment s’han calculat
+utilitzant una metodologia harmonitzada. Vegeu la nota metodològica al final.
+
+
+
+
+3. Dades provisionals del mes avançat
+
+Segons dades avançades del mes de juny del 2026, el nombre de persones assalariades se
+situa en 45.707, el que representa una variació del +3,4% respecte al mes de juny avançat de
+l’any 2025.
+
+La massa salarial se situa en 126,89 milions d’euros, el que representa una variació del +8,4%
+respecte al mes de juny avançat de l’any 2025.
+
+Pel que fa al salari mitjà avançat del mes de juny del 2026, se situa en els 2.776,18 €, mentre
+que el salari medià avançat se situa en els 2.235,29 €. Aquestes xifres suposen unes
+variacions del +4,8% i del +4,5%, respectivament, respecte al mes de juny avançat de l’any
+2025.
+
+
+
+                Dades del mes avançat per                                                              Variació
+                                                                  jun-25            jun-26                         Variació
+                a tots els sectors                                                                     absoluta
+                Nombre d'assalariats                             44.211             45.707                1.496       3,4%
+                Massa salarial                             117.095.455 €   126.890.696 €             9.795.241 €      8,4%
+                Salari mitjà                                  2.648,56 €      2.776,18 €               127,62 €       4,8%
+                Salari medià                                  2.139,04 €      2.235,29 €                 96,25 €      4,5%
+
+
+
+
+NP_A149_20260817                                                                                                         Pàgina 16 de 20
+                                                                                         2.200 €   2.400 €   2.600 €    2.800 €   3.000 €   3.200 €    3.400 €
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            38.000   41.000   44.000         47.000   50.000
+                                                                               mai-24
+                                                                                                                                                                 Salari mitjà
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  mai-24
+                                                                                                                                                                                                                                                                                            100.000.000 €   110.000.000 €   120.000.000 €   130.000.000 €    140.000.000 €   150.000.000 €   160.000.000 €   170.000.000 €
+                                                                                                                                                                                                                                                                                                                                                                                                                                   Massa salarial
+                                                                               jun-24                                                                                                                                                                                             mai-24                                                                                                                                                                                                                                                          jun-24
+                                                                                jul-24                                                                                                                                                                                            jun-24                                                                                                                                                                                                                                                           jul-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          4. Gràfics
+                                                                               ago-24                                                                                                                                                                                              jul-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ago-24
+                                                                               set-24                                                                                                                                                                                            ago-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  set-24
+                                                                               oct-24                                                                                                                                                                                             set-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  oct-24
+                                                                               nov-24                                                                                                                                                                                             oct-24
+NP_A149_20260817
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  nov-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Nombre de persones assalariades
+
+
+
+                                                                               des-24                                                                                                                                                                                             nov-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  des-24
+                                                                                                                                                                                                                                                                                  des-24
+                                                                                                                                                                                                   4.3 Salari mitjà
+                                             SM Tots sectors
+                                                                               gen-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             gen-25
+                                                                                                                                                                                                                                                                                 gen-25
+                                                                                                                                                                                                                                                MS Tots sectors
+
+                                                                               feb-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Assalariats Tots sectors
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  feb-25
+                                                                                                                                                                                                                                                                                  feb-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4.2 Massa salarial
+
+                                                                               mar-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             mar-25
+                                                                                                                                                                                                                                                                                 mar-25
+                                                                               abr-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             abr-25
+                                                                                                                                                                                                                                                                                  abr-25
+                                                                               mai-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             mai-25
+                                                                                                                                                                                                                                                                                  mai-25
+                                                                               jun-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             jun-25
+                                                                                                                                                                                                                                                                                  jun-25
+                                                                                jul-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             jul-25
+                                                                                                                                                                                                                                                                                   jul-25
+                                                                               ago-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             ago-25
+                                                                                                                                                                                                                                                                                 ago-25
+                                                                               set-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             set-25
+                                                                                                                                                                                                                                                                                  set-25
+                                                                               oct-25                                                                                                                                                                                             oct-25                                                                                                                                                                                                                                                          oct-25
+                                                                               nov-25                                                                                                                                                                                             nov-25                                                                                                                                                                                                                                                          nov-25
+                                                                               des-25                                                                                                                                                                                             des-25                                                                                                                                                                                                                                                          des-25
+                                             Dades ajustades estacionalment
+                                                                                                                                                                                                                                                Dades ajustades estacionalment
+
+
+                                                                               gen-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Dades ajustades estacionalment
+
+
+                                                                                                                                                                                                                                                                                 gen-26                                                                                                                                                                                                                                                           gen-26
+                                                                               feb-26                                                                                                                                                                                             feb-26                                                                                                                                                                                                                                                          feb-26
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    4.1 Nombre de persones assalariades
+
+
+
+                                                                               mar-26                                                                                                                                                                                            mar-26                                                                                                                                                                                                                                                           mar-26
+                                                                               abr-26                                                                                                                                                                                             abr-26                                                                                                                                                                                                                                                          abr-26
+                                                                               mai-26                                                                                                                                                                                             mai-26                                                                                                                                                                                                                                                          mai-26
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           0%            5%            10%            15%
+                                                                                        0%            2%               4%          6%             8%                                                                                                                                                                                                        12%              16%                   20%
+                                                                                                                                                                                                                                                                                           0%                 4%                    8%
+                                                                              mai-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             mai-24
+                                                                                                                                                                                                                                                                                 mai-24
+                                                                              jun-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             jun-24
+                                                                                                                                                                                                                                                                                 jun-24
+                                                                               jul-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             jul-24
+                                                                                                                                                                                                                                                                                  jul-24
+                                                                              ago-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             ago-24
+                                                                                                                                                                                                                                                                                 ago-24
+                                                                              set-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             set-24
+                                                                                                                                                                                                                                                                                 set-24
+                                                                              oct-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             oct-24
+                                                                                                                                                                                                                                                                                 oct-24
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 nov-24
+                                                                                                                                                                 Salari mitjà - Tots els sectors
+
+
+                                                                              nov-24
+                                                                                                                                                                                                                                                                                 nov-24
+                                                                              des-24                                                                                                                                                                                                                                                                                                                                                                                                                                                             des-24
+                                                                                                                                                                                                                                                                                                                                                                                                                             Massa salarial - Tots els sectors
+
+
+                                                                                                                                                                                                                                                                                 des-24
+                                                                              gen-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             gen-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       A149. Estadística de salaris. Maig del 2026
+
+
+
+                                                                                                                                                                                                                                                                                 gen-25
+                                                                              feb-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             feb-25
+                                                                                                                                                                                                                                                                                 feb-25
+                                                                              mar-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             mar-25
+                                                                                                                                                                                                                                                                                 mar-25
+                                                                              abr-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             abr-25
+                                                                                                                                                                                                                                                                                 abr-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Nombre de persones assalariades - Tots els sectors
+
+
+
+
+                                                                              mai-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             mai-25
+                                                                                                                                                                                                                                                                                 mai-25
+                                                                              jun-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             jun-25
+                                                                                                                                                                                                                                                                                 jun-25
+                                                                               jul-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             jul-25
+                   Variació acum. 12 mesos                                                                                                                                                                                                                                                                                                                                                                                                                                            Variació acum. 12 mesos
+
+                                                                                                                                                                                                                                                                                  jul-25
+                                                                              ago-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             ago-25
+                                                                                                                                                                                                                      Variació acum. 12 mesos
+
+
+                                                                                                                                                                                                                                                                                 ago-25
+                                                                              set-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             set-25
+                                                                                                                                                                                                                                                                                 set-25
+                                                                              oct-25                                                                                                                                                                                                                                                                                                                                                                                                                                                             oct-25
+                                                                                                                                                                                                                                                                                 oct-25                                                                                                                                                                                                                                                          nov-25
+                                                                              nov-25
+                                                                                                                                                                                                                                                                                 nov-25                                                                                                                                                                                                                                                          des-25
+                                                                              des-25
+                                                                                                                                                                                                                                                                                 des-25                                                                                                                                                                                                                                                          gen-26
+                                                                              gen-26
+                                                                                                                                                                                                                                                                                 gen-26                                                                                                                                                                                                                                                          feb-26
+                                                                              feb-26
+                                                                                                                                                                                                                                                                                 feb-26                                                                                                                                                                                                                                                          mar-26
+                                                                              mar-26
+Pàgina 17 de 20
+
+                                                                                                                                                                                                                                                                                 mar-26                                                                                                                                                                                                                                                          abr-26
+                                                                              abr-26
+                                                                                                                                                                                                                                                                                 abr-26                                                                                                                                                                                                                                                          mai-26
+                                                                              mai-26
+                                                                                                                                                                                                                                                                                 mai-26
+                        A149. Estadística de salaris. Maig del 2026
+
+
+5. Nota metodològica
+
+   •   Font. Dades de la Caixa Andorrana de Seguretat Social, tractades i revisades pel
+       Departament d’Estadística del Govern d’Andorra.
+
+   •   Definicions.
+
+           -   El nombre de persones assalariades es calcula com una estimació del
+               nombre equivalent de persones assalariades a temps complet. Com que no es
+               disposa d’informació sobre les hores treballades, per fer l’estimació de les
+               persones amb més d’una feina durant el mes, s’assigna una part d’assalariats
+               a cada feina segons la proporció del salari corresponent.
+           -   La massa salarial és la suma dels salaris bruts rebuts pels treballadors,
+               declarats a la CASS.
+           -   El salari mitjà és la massa salarial dividida entre el nombre de persones
+               assalariades. Inclou les cotitzacions de les persones assalariades a la CASS
+               per malaltia i jubilació.
+           -   El salari medià s’ha calculat aplicant una ponderació que té en compte el pes
+               relatiu de cada feina dins del conjunt de salaris percebuts per una mateixa
+               persona. Aquesta metodologia permet que les persones amb més d’una feina
+               no estiguin sobrerepresentades en el càlcul i que el resultat reflecteixi amb més
+               precisió la distribució real dels salaris entre la població assalariada d’Andorra.
+               Així, el salari medià obtingut és una mesura més equilibrada i representativa de
+               la realitat salarial del país.
+           -   El salari modal és aquell salari que té una freqüència absoluta més gran, és a
+               dir, que es repeteix més cops. En aquesta nota es representa el salari modal
+               en intervals de 100 €. L’interval de salari modal és l’interval de salari que es
+               repeteix més cops.
+
+   •   Metodologies i referències metodològiques. El nombre d’assalariats, la massa
+       salarial, el salari mitjà i el salari medià són sèries temporals amb estacionalitat anual
+       que dificulten el tractament de les dades en valor original.
+
+       Càlcul de les sèries mensuals ajustades estacionalment: a partir del mes de
+       desembre del 2010, i per tal d’adaptar-se als formats i les metodologies de càlcul amb
+       estàndards internacionals, el Departament d’Estadística aplica la desestacionalització
+       de totes les sèries mensuals basada en la metodologia X12 ARIMA de l’Eurostat i del
+       US Census Bureau. Aquesta metodologia permet estimar la sèrie ajustada de l’efecte
+       del calendari i efectes estacionals per a comparar les dades mensuals amb mesos
+       d’anys anteriors (per exemple, no s’haurien de comparar les dades originals d’un mes
+       de maig amb Setmana Santa amb el mateix mes de maig sense Setmana Santa, o no
+       serien comparables les xifres d’un mes amb cinc caps de setmana i les xifres del
+       mateix mes d’un altre any amb quatre caps de setmana).
+       Els valors resultants són estimacions provisionals, subjectes als ajustaments en funció
+       de l’evolució dels nous valors mensuals de la sèrie. Per a més detall de la informació
+       es pot consultar la nota metodològica a la pàgina web https://bit.ly/3addfLD
+
+       Referències metodològiques:
+
+       Eurostat:
+       L’Eurostat (en anglès: Statistical Office of the European Communities) és
+       l’oficina estadística de la Comissió Europea, que produeix dades sobre la Unió
+       Europea (UE) i promou l’harmonització dels mètodes estadístics dels estats membres.
+       https://joinup.ec.europa.eu/software/demetraplus/description
+
+       US Census Bureau:
+       L'Oficina del Cens dels Estats Units (de l’anglès United States Census Bureau) forma
+       part del Departament de Comerç dels Estats Units. És l’organisme governamental que
+       s’encarrega principalment dels censos de població als Estats Units, amb l’objectiu de
+       proporcionar dades sobre població i economia. http://www.census.gov
+
+
+
+NP_A149_20260817                                                                   Pàgina 18 de 20
+                        A149. Estadística de salaris. Maig del 2026
+
+
+   •   Altres consideracions.
+
+       Nota. Les dades del mercat laboral, facilitades per la Caixa Andorrana de Seguretat
+       Social, corresponen a les declaracions de cotitzacions fetes durant el mes. S’agreguen
+       per calcular el nombre de persones assalariades de cada categoria seguint el criteri de
+       comptar cada persona una sola vegada independentment del nombre de llocs de
+       treball que ocupi. S’assigna la part proporcional d’assalariat a cada lloc de treball
+       segons la contribució d’aquest lloc de treball al salari total de la persona en tots els
+       llocs que ocupa.
+
+       Nota. Tant el salari mitjà com el medià tenen l’inconvenient de no ser equivalent a 40
+       hores de treball setmanal, en realitat correspon a la remuneració que rep una persona
+       assalariada, treballi les hores que treballi. Per tant, dificulta la comparació tant en
+       l’àmbit sectorial com a escala internacional i també influeix en l’evolució, ja que hi pot
+       haver un desfasament entre hores treballades i persones assalariades.
+
+   •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de
+       premsa, preguem citeu: “Dades de la Caixa Andorrana de Seguretat Social, tractades
+       pel Departament d’Estadística per a la Nota de Premsa ref. NP_A149_20260817”.
+
+   •   Marc legal. D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el
+       seu desplegament en el Programa estadístic per a l’any 2026, aquest informe dona
+       resposta a l’activitat estadística: A149: Estadística de salaris
+
+   •   Difusió. Dades disponibles al web www.estadistica.ad, a l’apartat Estadístiques i
+       dades/Treball. Per estar informat en qualsevol moment de les noves publicacions us
+       podeu inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar
+       l’històric de les notes de premsa d’aquest tema: http://www.estadistica.ad
+
+       Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes
+       de Premsa del Departament d’Estadística es podran seguir també per Twitter
+       (actualment X).
+
+
+
+
+NP_A149_20260817                                                                   Pàgina 19 de 20
+                         A149. Estadística de salaris. Maig del 2026
+
+
+Correspondència amb la CAEA99 (Classificació d’activitats econòmiques d’Andorra)
+
+
+        Grups de
+        publicació                Seccions de la CAEA
+        Agricultura i             A- Agricultura, ramaderia, caça i silvicultura
+        indústria                 B- Pesca
+                                  C- Indústries extractives
+                                  D- Indústries manufactureres
+                                  E- Producció i distribució d’energia, gas i
+                                  aigua
+        Construcció               F- Construcció
+        Comerç                    G- Comerç
+                                         50- Venda i reparació de vehicles
+                                         de motor
+                                         51- Comerç a l’engròs i
+                                         intermediaris del comerç
+                                         52- Comerç al detall, llevat de
+                                         vehicles de motor
+        Hoteleria i
+        turisme                   H- Hoteleria
+        Serveis                   I- Transport, emmagatzematge i
+                                  comunicacions
+                                  K- Serveis empresarials i activitats
+                                  immobiliàries
+                                  O- Altres activitats socials i de serveis
+                                  P- Llars que ocupen personal domèstic
+                                  Q- Organismes extraterritorials
+                                  T (CO)- Treball domèstic a la comunitat
+        Sistema
+        financer                  J- Sistema financer
+        Administració,            L- Administració pública
+        salut i                   M- Educació
+        educació                  N- Activitats sanitàries i veterinàries, serveis
+                                  socials
+
+
+6. Dates de les publicacions previstes
+
+   Nota de premsa A149. Estadística de salaris. Juny del 2026: 17 de setembre del 2026
+
+
+
+
+NP_A149_20260817                                                                     Pàgina 20 de 20
+

@@ -260,6 +260,54 @@ capital** sense remei, o **els òrgans socials queden paralitzats.**
 poden començar fins quinze dies després** (86.5). **El batlle pot donar fins a
 sis mesos** per regularitzar abans de dissoldre judicialment (86.3).
 
+## Quantes societats hi ha, i de quina forma
+
+El corpus tenia la llei i cap xifra. El **Registre de Societats Mercantils** les
+publica cada febrer a través del Departament d'Estadística (activitat **A099**).
+A **31 de desembre del 2025** hi havia **17.784 societats actives**, un **+9,0%**
+en un any.
+
+**Societats actives per forma jurídica, 2017-2025:**
+
+| Forma | 2017 | 2021 | 2025 | 2025/2017 |
+| --- | --- | --- | --- | --- |
+| **SL unipersonal** | 3.564 | 5.365 | **8.735** | **+145%** |
+| **SL** | 5.032 | 6.072 | **7.599** | +51% |
+| **SA** | 1.151 | 1.139 | **1.116** | **−3%** |
+| SA unipersonal | 316 | 314 | 315 | −0,3% |
+| Sucursal estrangera | 7 | 10 | 13 | +86% |
+| Societat cooperativa | 1 | 1 | **1** | **0%** |
+| SA amb objecte esportiu | 0 | 2 | 3 | — |
+| SL unipersonal *startup* | 0 | 0 | 1 | — |
+| **Total** | **10.071** | **12.903** | **17.784** | **+77%** |
+
+**Tres lectures que la taula imposa.**
+
+**Primera, la societat anònima està morta com a forma de creixement.** N'hi havia
+**1.151 el 2017 i n'hi ha 1.116 el 2025**: **menys que fa vuit anys**, mentre el
+total creix un 77%. Amb les unipersonals, les anònimes són **1.431 de 17.784**, el
+**8,0%** del registre.
+
+**Segona, el que creix és la societat d'un sol soci.** Les **unipersonals**
+—limitades i anònimes— són **9.050**, és a dir **el 50,9% de totes les societats
+actives del país**. El 2017 eren el 38,5%. **La forma dominant a Andorra és una
+persona amb una societat.**
+
+**Tercera, la cooperativa no existeix.** **N'hi ha una, i n'hi ha hagut una cada
+any des del 2017.**
+
+**El flux.** El 2025 es van constituir **1.670 societats** (+15,3% respecte de les
+1.449 del 2024) i se'n van dissoldre **208** (−12,2%). **Es creen vuit societats
+per cada una que es tanca.**
+
+**I un altre comptador, que no és el mateix.** La **demografia harmonitzada
+d'empreses** (activitat **A097**) en compta **23.939 el 2025** —una xifra més
+alta, perquè **empresa** i **societat inscrita** no són el mateix: hi ha negocis
+que no són societats mercantils. **Del 2025 se'n van crear 2.176 i en van
+desaparèixer 563**, i **el 89,99% de les empreses nascudes el 2023 seguien vives
+tres anys després**. De les 20.986 del 2023, **només el 63,58% eren
+econòmicament actives**.
+
 ## Buits registrats
 
 > **Auditats contra el text de la llei el 2026-09-13.** **Quatre dels cinc estan
@@ -281,12 +329,13 @@ sis mesos** per regularitzar abans de dissoldre judicialment (86.3).
   (arts. 85-87). **La liquidació pròpiament dita** (arts. 88 i següents) i **les
   modificacions estructurals** —fusió, escissió, transformació, capítol VI—
   **segueixen obertes**.
-- **Quantes societats hi ha inscrites** al Registre de Societats, no consta. —
-  **`obert`, confirmat.** **És una dada d'execució, no de norma.**
-  `Requereix font externa: Estadística, o el Registre de Societats.`
-  **Mateix cas que el parc de vehicles a
+- ~~**Quantes societats hi ha inscrites** al Registre de Societats, no consta.~~
+  — **`resolt` el 17-09-2026 per la via d'Estadística** (activitats **A099** i
+  **A097**): vegeu
+  [Quantes societats hi ha, i de quina forma](#quantes-societats-hi-ha-i-de-quina-forma).
+  **El mateix dia s'ha tancat el cas bessó**, el parc de vehicles a
   [conduir a Andorra](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md):
-  el corpus té els registres per llei i no en té cap xifra.**
+  **els registres que la llei crea, els compta Estadística.**
 
 ## Related
 

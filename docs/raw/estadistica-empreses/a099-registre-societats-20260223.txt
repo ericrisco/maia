@@ -1,0 +1,1750 @@
+                   A099. Estadística del Registre de Societats. Resultats Any 2025
+                                       Data de publicació: 23 de febrer del 2026
+                                                 www.estadistica.ad
+
+
+
+             Durant l’any 2025, el nombre de societats constituïdes experimenta un
+                   creixement positiu del 15,3%, arribant a un total de 1.670.
+
+      Resum
+
+      L’any 2025 s’ha tancat amb 17.784 societats actives inscrites en el Registre de Societats Mercantils,
+      cosa que representa 1.462 societats addicionals respecte a les que hi figuraven a finals del 2024
+      (16.322 societats actives), és a dir, un creixement anual del +9,0%.
+
+      Pel que fa a la creació de societats, l’any 2025 s’han registrat 1.670 societats, el +15,3% en
+      comparació de l’any anterior, en el qual se’n van crear 1.449.
+
+      Finalment, pel que fa al nombre de societats cancel·lades, l’any 2025 s’han dissolt 208, xifra que
+      suposa una disminució del -12,2% en comparació de l’any 2024, exercici en el qual se’n van dissoldre
+      237.
+
+
+
+
+NP-A099_20260223                                                                                     Pàg. 1 de 28
+                                         A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+      Índex
+
+
+      1. Societats actives .................................................................................................................................. 3
+          1.1. Per forma jurídica ......................................................................................................................... 3
+          1.2. Per parròquia ............................................................................................................................... 5
+          1.3. Per forma jurídica i per parròquia ................................................................................................ 7
+          1.4. En procés de dissolució ............................................................................................................... 8
+      2. Societats constituïdes........................................................................................................................ 10
+          2.1. Per forma jurídica ....................................................................................................................... 10
+          2.2. Per parròquia ............................................................................................................................. 12
+          2.3. Per forma jurídica i per parròquia .............................................................................................. 14
+      3. Societats cancel·lades....................................................................................................................... 15
+          3.1. Per forma jurídica ....................................................................................................................... 15
+          3.2. Per parròquia ............................................................................................................................. 17
+          3.3. Per forma jurídica i per parròquia .............................................................................................. 19
+      4. Creació neta de societats .................................................................................................................. 20
+          4.1. Per forma jurídica ....................................................................................................................... 20
+          4.2. Per parròquia ............................................................................................................................. 21
+          4.3. Per forma jurídica i per parròquia .............................................................................................. 23
+      5. Nota metodològica............................................................................................................................. 24
+      6. Dates de les properes publicacions previstes ................................................................................... 28
+
+
+
+
+NP-A099_20260223                                                                                                                                       Pàg. 2 de 28
+                                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+             1. Societats actives
+
+
+             Es comptabilitzen les societats que s’han constituït i inscrit al Registre de Societats Mercantils que no
+             han conclòs, si fos el cas, un procediment de dissolució.
+
+                    1.1. Per forma jurídica
+
+
+             A finals del 2025, el nombre de societats actives al Registre de Societats Mercantils ha sigut de
+             17.784, xifra que representa un augment del +9,0% (+1.462 societats) respecte al volum que hi havia
+             a finals de l’any anterior, en què el nombre de societats actives va ser de 16.322.
+
+
+
+
+             Taula 1. Societats actives per forma jurídica. Període 2017-2025
+
+                                                                                                                                                                                                                  Variació
+Societats actives                                                  2017                2018               2019           2020               2021               2022                2023        2024     2025
+                                                                                                                                                                                                                2025/2024
+Societat Anònima                                                 1.151                 1.158             1.153           1.151            1.139               1.124              1.121         1.112    1.116        0,4%
+Societat de Responsabilitat Limitada                             5.032                 5.318             5.501           5.709            6.072               6.411              6.728         7.118    7.599        6,8%
+Societat Anònima Unipersonal                                       316                   321               319             316              314                 318                318           319      315        -1,3%
+Societat de Responsabilitat Limitada Unipersonal                 3.564                 3.940             4.276           4.599            5.365               6.200              6.926         7.756    8.735       12,6%
+Sucursal Estrangera                                                  7                     7                 8               8               10                  10                 12            11       13       18,2%
+Societat Cooperativa                                                 1                     1                 1               1                1                   1                  1             1        1        0,0%
+Societat Anònima amb Objecte Esportiu                                0                     0                 1               1                2                   2                  3             3        3        0,0%
+Societat Anònima amb Objecte Esportiu Unipersonal                    0                     0                 0               0                0                   0                  1             1        1        0,0%
+Societat Limitada Unipersonal Startup                                0                     0                 0               0                0                   0                  0             1        1        0,0%
+Total                                                           10.071                10.745            11.259          11.785           12.903              14.066             15.110        16.322   17.784        9,0%
+Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                                                           Societats actives per forma jurídica.
+                                                                                                   Període 2017 - 2025
+                                                   20.000                                                                                                                               10%
+                                                                                                                 9,5%
+                                                   18.000                                                                                                                               9%
+                                                                                                                             9,0%                                           9,0%
+                                                   16.000                                                                                                                               8%
+                                                                                                                                                             8,0%
+                                                   14.000   6,7%          6,7%                                                                                                          7%
+                                                                                                                                             7,4%
+                                                   12.000                                                                                                                               6%
+
+                                                   10.000                                                                                                                               5%
+                                                                                           4,8%         4,7%
+                                                    8.000                                                                                                                               4%
+
+                                                    6.000                                                                                                                               3%
+
+                                                    4.000                                                                                                                               2%
+
+                                                    2.000                                                                                                                               1%
+
+                                                       0                                                                                                                                0%
+                                                            2017          2018             2019        2020       2021           2022        2023            2024          2025
+
+                                                               So cie ta t Anò nima                                               So cie ta t de Respon sa bilitat L imita da
+                                                               So cie ta t Anò nima Unipe rso nal                                 So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+                                                               Su cu rsa l E stra nger a                                          So cie ta t Coope rativa
+                                                               So cie ta t Anò nima amb Ob jecte Espo rtiu                        So cie ta t Anò nima amb Ob jecte Espo rtiu Un iperson al
+                                                               So cie ta t Limitada Unip ersona l S ta rtu p                      Va riació anu al
+
+
+
+
+NP-A099_20260223                                                                                                                                                                                        Pàg. 3 de 28
+                                       A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                            Distribució percentual de les societats actives per forma jurídica.
+                                                                   Període 2017 - 2025
+
+                         2025    6,3%                         42,7%                    1,8%                         49,1%                            0,1%
+
+                         2024    6,8%                          43,6%                    2,0%                        47,5%                            0,1%
+
+                         2023    7,4%                           44,5%                    2,1%                        45,8%                           0,1%
+                         2022    8,0%                            45,6%                    2,3%                        44,1%                          0,1%
+
+                         2021        8,8%                          47,1%                       2,4%                   41,6%                          0,1%
+
+                         2020        9,8%                             48,4%                     2,7%                    39,0%                        0,1%
+
+                         2019        10,2%                            48,9%                      2,8%                   38,0%                        0,1%
+
+                         2018        10,8%                             49,5%                         3,0%               36,7%                        0,1%
+
+                         2017        11,4%                              50,0%                         3,1%                  35,4%                    0,1%
+
+                                0%          10%       20%        30%          40%      50%       60%          70%       80%          90%       100%
+
+
+                                       Societat Anònima                                   Societat de Responsabilitat Limitada
+                                       Societat Anònima Unipersonal                       Societat de Responsabilitat Limitada Unipersonal
+                                       Altres tipus
+
+
+
+
+                                             Variació anual 2025-2024 de les societats actives segons la forma jurídica.
+
+                                                            Sucursal Estrangera                                                        18,2%
+
+                            Societat de Responsabilitat Limitada Unipersonal                                                   12,6%
+
+                                                                         TOTAL                                          9,0%
+
+                                            Societat de Responsabilitat Limitada                                     6,8%
+
+                                                               Societat Anònima                             0,4%
+
+                                          Societat Limitada Unipersonal Startup                             0,0%
+
+                         Societat Anònima amb Objecte Esportiu Unipersonal                                  0,0%
+
+                                       Societat Anònima amb Objecte Esportiu                                0,0%
+
+                                                            Societat Cooperativa                            0,0%
+
+                                                  Societat Anònima Unipersonal                 -1,3%
+
+                                                                                -15%           -5%             5%              15%             25%
+
+
+
+
+      Pel que fa a la forma jurídica de les societats actives, el 49,1% han sigut representades per les
+      societats de responsabilitat limitada unipersonals, amb un total de 8.735. Seguidament, s’han situat
+      les societats de responsabilitat limitada, amb 7.599 (el 42,7% del total de societats actives), les
+      societats anònimes, amb 1.116 (el 6,3% del total), i les societats anònimes unipersonals, amb 315 (el
+      1,8% del total).
+
+
+      Amb relació a l’any 2024, destaca en valors absoluts tant el creixement del nombre de societats de
+      responsabilitat limitada unipersonals actives, amb un creixement del +12,6% (+979 societats) com el
+      creixement del nombre de societats de responsabilitat limitada actives, amb una variació del +6,8%
+      (+481 societats).
+
+
+      Ampliant la perspectiva temporal de la sèrie s’observa que, fins a l’any 2022, havia predominat el
+      nombre de societats de responsabilitat limitada actives, amb una elevada estabilitat al llarg dels anys.
+
+
+
+
+NP-A099_20260223                                                                                                                                            Pàg. 4 de 28
+                                           A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+            No obstant, seguint amb la clara variació positiva registrada durant els anys anteriors, les societats de
+            responsabilitat limitada unipersonals passen a ser les que tenen més pes respecte al total de les
+            societats actives inscrites al Registre de Societats Mercantils.
+
+                    1.2. Per parròquia
+
+
+            Andorra la Vella ha sigut la parròquia on s’ha adscrit el màxim nombre de societats actives, amb un
+            total de 7.796 (el 43,8% del total) i amb una variació interanual del +10,3% (+729 societats). Destaca
+            també el nombre de societats actives a la parròquia d’Escaldes-Engordany, amb 3.137 societats
+            mercantils actives (el 17,6% del total) i amb una taxa de creixement interanual positiva del +10,0%
+            (+285 societats).
+
+
+            S’observa que des de l’any 2017, el 60% de les societats actives es concentren a les dues parròquies
+            esmentades anteriorment, en la mesura que segueixen sent el centre físic i neuràlgic empresarial del
+            país.
+
+
+
+
+            Taula 2. Societats actives per parròquia. Període 2017-2025
+
+                                                                                                                                                                                             Variació
+Societats actives                                 2017                 2018            2019                2020                 2021          2022               2023     2024     2025
+                                                                                                                                                                                           2025/2024
+Canillo                                            602                  649             697                  729                833             912                974    1.040    1.118        7,5%
+Encamp                                           1.269                1.338           1.401                1.442              1.574           1.675              1.762    1.884    2.012        6,8%
+Ordino                                             454                  490             520                  555                626             675                707      756      807        6,7%
+La Massana                                       1.086                1.180           1.257                1.333              1.457           1.570              1.679    1.795    1.931        7,6%
+Andorra la Vella                                 4.172                4.444           4.619                4.848              5.313           5.952              6.505    7.067    7.796       10,3%
+Sant Julià de Lòria                                675                  701             715                  745                777             812                868      928      983        5,9%
+Escaldes-Engordany                               1.813                1.943           2.050                2.133              2.323           2.470              2.615    2.852    3.137       10,0%
+Total                                           10.071               10.745          11.259               11.785             12.903          14.066             15.110   16.322   17.784        9,0%
+Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                             Societats actives per parròquia. Període 2017 - 2025
+
+                                      20.000                                                     9,5%                                                              10%
+
+                                      18.000                                                                                                                       9%
+                                                                                                                   9,0%                                  9,0%
+                                      16.000                                                                                                                       8%
+                                                                                                                                            8,0%
+                                      14.000   6,7%          6,7%                                                               7,4%                               7%
+
+                                      12.000                                                                                                                       6%
+                                                                           4,8%
+                                      10.000                                                                                                                       5%
+
+                                       8.000                                          4,7%                                                                         4%
+
+                                       6.000                                                                                                                       3%
+
+                                       4.000                                                                                                                       2%
+
+                                       2.000                                                                                                                       1%
+
+                                          0                                                                                                                        0%
+                                               2017          2018          2019       2020          2021           2022          2023       2024        2025
+
+
+                                                      Canil lo                    En ca mp                         Or dino                   La Massana
+
+
+
+                                                      An dorra la V ella          Sa nt Julià de L òria            Escalde s- Engo rdan y    Va riació anu al
+
+
+
+
+NP-A099_20260223                                                                                                                                                                  Pàg. 5 de 28
+                                  A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                        Distribució percentual de les societats actives per parròquia.
+                                                            Període 2017 - 2025
+                   2025    6,3%      11,3% 4,5% 10,9%                                  43,8%                         5,5%        17,6%
+
+                   2024    6,4%      11,5%     4,6%     11,0%                          43,3%                         5,7%        17,5%
+
+                   2023    6,4%      11,7%     4,7%      11,1%                           43,1%                       5,7%        17,3%
+
+                   2022    6,5%      11,9%     4,8%      11,2%                           42,3%                       5,8%        17,6%
+
+                   2021    6,5%       12,2%    4,9%      11,3%                           41,2%                      6,0%        18,0%
+
+                   2020    6,2%      12,2%     4,7%      11,3%                         41,1%                        6,3%        18,1%
+
+                   2019    6,2%      12,4%     4,6%      11,2%                         41,0%                        6,4%        18,2%
+
+                   2018    6,0%      12,5%     4,6%      11,0%                         41,4%                        6,5%        18,1%
+
+                   2017    6,0%      12,6%     4,5% 10,8%                              41,4%                        6,7%        18,0%
+
+                          0%         10%       20%           30%    40%            50%         60%         70%        80%       90%       100%
+
+                           Canillo    Encamp      Ordino      La Massana        Andorra la Vella     Sant Julià de Lòria    Escaldes-Engordany
+
+
+
+
+                                     Variació anual 2025-2024 de les societats actives segons la parròquia.
+
+                                     Andorra la Vella                                                   10,3%
+
+
+                               Escaldes-Engordany                                                    10,0%
+
+
+                                              TOTAL                                              9,0%
+
+
+                                        La Massana                                        7,6%
+
+
+                                              Canillo                                    7,5%
+
+
+                                             Encamp                                   6,8%
+
+
+                                              Ordino                                  6,7%
+
+
+                                  Sant Julià de Lòria                             5,9%
+
+                                                        0%                 5%                    10%                 15%
+
+
+
+
+NP-A099_20260223                                                                                                                                 Pàg. 6 de 28
+                                             A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+            1.3. Per forma jurídica i per parròquia
+
+
+         A la parròquia d’Andorra la Vella, les societats de responsabilitat limitada unipersonals han sigut les
+         societats més representatives amb un total de 3.806 (el 48,8% del total de la parròquia), superant el
+         registre de les societats de responsabilitat limitada (3.251) que han representat el 41,7% del total de
+         societats mercantils actives de la parròquia.
+
+
+         La parròquia d’Escaldes-Engordany ha comptat amb 1.551 societats de responsabilitat limitada
+         unipersonals actives, xifra que significa el 49,4% del total. Tot seguit, amb 1.326 societats (el 42,3%
+         del total de societats a la parròquia), s’han situat les societats de responsabilitat limitada.
+
+
+
+
+         Taula 3. Societats actives per forma jurídica i per parròquia. Any 2025
+
+                                                                                                       Parròquia
+
+                                                                                                            La Andorra la                      Sant Julià        Escaldes-
+ Forma jurídica                                          Canillo            Encamp          Ordino                                                                              Total
+                                                                                                       Massana     Vella                        de Lòria        Engordany
+ Societat Anònima                                                 34                  102      44               98                570                      74          194       1.116
+ Societat de Responsabilitat Limitada                            434                  963     347              819              3.251                     459        1.326       7.599
+ Societat Anònima Unipersonal                                     14                   22      12               25                159                      23           60         315
+ Societat de Responsabilitat Limitada
+                                                                 636                  925     403              987              3.806                     427        1.551       8.735
+ Unipersonal
+ Sucursal Estrangera                                               0                   0         1                 1                   6                    0           5          13
+ Societat Cooperativa                                              0                   0         0                 1                   0                    0           0           1
+ Societat Anònima amb Objecte Esportiu                             0                   0         0                 0                   2                    0           1           3
+ Societat Anònima amb Objecte Esportiu
+                                                                   0                   0         0                 0                   1                    0           0           1
+ Unipersonal
+ Societat Limitada Unipersonal Startup                             0                   0         0                 0                   1                    0           0           1
+ Total                                               1.118         2.012           807          1.931                            7.796                    983        3.137      17.784
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                               Societats mercantils actives per forma jurídica i per parròquia.
+                                                                          Any 2025
+                        4.000
+                        3.500
+                        3.000
+                        2.500
+                        2.000
+                        1.500
+                        1.000
+                         500
+                            0
+
+
+
+
+                                         Soci etat Anònima                                           Soci etat de Responsabilitat Limitada
+                                         Soci etat Anònima Unipersonal                               Soci etat de Responsabilitat Limitada Uniper sonal
+                                         Sucur sal Est rangera                                       Soci etat Cooperativa
+                                         Soci etat Anònima amb O bjecte Esportiu                     Soci etat Anònima amb O bjecte Esportiu Uniper sonal
+                                         Soci etat Limitada U niper sonal S tar tup
+
+
+
+
+NP-A099_20260223                                                                                                                                                         Pàg. 7 de 28
+                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+           1.4. En procés de dissolució
+
+
+      Durant l’any 2025, 198 societats han iniciat un procés de dissolució de les quals el 60,1% (119) han
+      sigut societats de responsabilitat limitada unipersonals.
+      Pel que fa a nivell parroquial, Andorra la Vella ha sigut la parròquia amb el nombre més elevat de
+      societats que han iniciat un procés de dissolució durant l’any 2025 i ha comptat amb 87 societats,
+      cosa que ha representat el 43,9% del total.
+
+
+
+
+      Taula 4. Societats que han iniciat un procés de dissolució per forma jurídica. Període 2017-2025
+
+                                                                    Any que han iniciat el procés de dissolució
+                                                                                                                                        Variació
+          Societats en disolució      2017        2018       2019        2020          2021         2022          2023   2024   2025
+                                                                                                                                       2025/2024
+      Societat Anònima                 7            1         3            1            4             2            3      4      7       75,0%
+      Societat de Responsabilitat
+                                      37           28         29          30            12           32           28     27     68      151,9%
+      Limitada
+      Societat Anònima Unipersonal     3            1         0            1            1             0            2      0      3         -
+      Societat de Responsabilitat
+                                      27           26         30          35            19           28           37     46     119     158,7%
+      Limitada Unipersonal
+      Sucursal Estrangera              0            0         0            0            0             0            0      0      1         -
+      Societat Cooperativa             0            1         0            0            0             0            0      0      0         -
+      Societat Anònima amb Objecte
+                                       0            0         0            0            0             0            0      0      0         -
+      Esportiu
+      Societat Anònima amb Objecte
+                                       0            0         0            0            0             0            0      0      0         -
+      Esportiu Unipersonal
+      Societat Limitada Unipersonal
+                                       0            0         0            0            0             0            0      0      0         -
+      Startup
+      Total                           74           57         62          67            36           62           70     77     198     157,1%
+      Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+      Taula 5. Societats que han iniciat un procés de dissolució per parròquia. Període 2017-2025
+
+                                                                    Any que han iniciat el procés de dissolució
+                                                                                                                                        Variació
+          Societats en disolució      2017        2018       2019        2020          2021         2022          2023   2024   2025
+                                                                                                                                       2025/2024
+      Canillo                           1           2          4           8             2             8            4      1     16     1500,0%
+      Encamp                            5           7         12           8             5            12            6      5     13      160,0%
+      Ordino                            3           4          6           3             3             3            6      1     14     1300,0%
+      La Massana                        8          11          4           9             5             8            4      5     28      460,0%
+      Andorra la Vella                 32          21         24          17             9            22           33     48     87       81,3%
+      Sant Juliá de Lòria               7           3          3           7             4             4            5      3     14      366,7%
+      Escaldes-Engordany               18           9          9          15             8             5           12     14     26       85,7%
+      Total                            74          57         62          67            36            62           70     77    198      157,1%
+      Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+NP-A099_20260223                                                                                                                          Pàg. 8 de 28
+                                      A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+      De les 17.784 societats actives, 874 han estat en procés de dissolució el que ha representat un 4,9%
+      del total. D’aquestes societats en procés de dissolució, cal destacar que el 47,8% han sigut societats
+      de responsabilitat limitada (418) i el 44,7%, societats de responsabilitat limitada unipersonals (391).
+
+
+                                     Distribució per forma jurídica de les societats actives que estan en procés de
+                                                                  liquidació. Any 2025
+
+
+
+
+                                                                                                                  418; 2,4%
+                                                                                                                          0; 0,0%
+                   16.910; 95,1%                                    874; 4,9%                                                              1; 0,0%
+                                                                                       13; 0,1%
+
+                                                                                                              391; 2,2%                  50; 0,3%
+
+
+
+
+                                                    Societats Anònimes en liquidació
+                                                    Societats de Responsabilitat Limitades en liquidació
+                                                    Societats Anònimes Unipersonals en liquidació
+                                                    Societats de Responsabilitat Limitada Unipersonals en liquidació
+                                                    Societats Cooperatives en liquidació
+                                                    Societat Limitada Unipersonal Startup en liquidació
+                                                    Societats que NO estan en liquidació
+
+
+
+
+      A finals de l’any 2025, el nombre de societats en procés de dissolució més elevat s’ha registrat a la
+      parròquia d’Andorra la Vella (378 societats) seguit d’Escaldes-Engordany amb 134.
+
+
+
+                                    Distribució per parròquia de les societats actives que estan en procés de
+                                                               liquidació. Any 2025
+
+
+                                                                                                                        58; 0,3%
+
+
+
+                                                                                                                               134; 0,8%
+                                                                                   378; 2,1%
+                                   16.910; 95,1%       874; 4,9%
+
+                                                                                                                                50; 0,3%
+
+
+
+                                                                                           103; 0,6%                          95; 0,5%
+                                                                                                           56; 0,3%
+
+                                          Canillo                                           Encamp
+                                          Ordino                                            La Massana
+                                          Andorra la Vella                                  Sant Julià de Lòria
+                                          Escaldes-Engordany                                Societats que NO estan en liquidació
+
+
+
+
+NP-A099_20260223                                                                                                                                     Pàg. 9 de 28
+                                                             A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+             2. Societats constituïdes
+
+             La societat es constitueix mitjançant l’atorgament d’una escriptura pública davant un notari del
+             Principat i adquireix la personalitat jurídica amb la inscripció de la referida escriptura al Registre de
+             Societats Mercantils. En aquest apartat es comptabilitzen les inscripcions de les societats durant el
+             període de referència.
+
+                       2.1. Per forma jurídica
+
+
+             L’any 2025 s’han constituït un total de 1.670 societats, el +15,3% respecte de l’any anterior.
+             Aquest augment s’explica, en part, per el fort creixement en el nombre de constitucions de les
+             societats de responsabilitat limitada unipersonals xifrades en 1.093 inscripcions l’any 2025, la qual
+             cosa ha suposat un augment del +13,6% (+131 societats) respecte de l’any anterior i el 65,4% del
+             total de les societats constituïdes.
+
+
+
+
+             Taula 6. Societats constituïdes per forma jurídica. Període 2017-2025
+
+                                                                                                                                                                                                                Variació
+Societats constituïdes                                                   2017              2018              2019          2020             2021                2022               2023     2024      2025
+                                                                                                                                                                                                              2025/2024
+Societat Anònima                                                           12                13                 7            3                 3                   2                  7          1        9      800,0%
+Societat de Responsabilitat Limitada                                      306               342               260          258               432                 413                401        479      558       16,5%
+Societat Anònima Unipersonal                                                6                 9                 8            2                 3                   7                  6          6        6        0,0%
+Societat de Responsabilitat Limitada Unipersonal                          451               437               405          378               865                 927                827        962    1.093       13,6%
+Sucursal Estrangera                                                         3                 0                 1            0                 2                   0                  2          0        4            -
+Societat Cooperativa                                                        0                 0                 0            0                 0                   0                  0        0          0            -
+Societat Anònima amb Objecte Esportiu                                       0                 0                 1            0                 1                   0                  1        0          0            -
+Societat Anònima amb Objecte Esportiu Unipersonal                           0                 0                 0            0                 0                   0                  1        0          0            -
+Societat Limitada Unipersonal Startup                                       0                 0                 0            0                 0                   0                  0        1          0     -100,0%
+Total                                                                     778               801               682          641             1.306               1.349              1.245    1.449      1.670       15,3%
+Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                                     Societats constituïdes per forma jurídica. Període 2017 - 2025
+                                        1.800                                                                                                                                             120%
+                                                                                                                 103,7%
+                                        1.600
+                                                                                                                                                                                          100%
+                                        1.400
+                                        1.200                                                                                                                                             80%
+
+                                        1.000
+                                                                                                                                                                                          60%
+                                         800
+                                                                                                                                                                                          40%
+                                         600
+                                         400                                                                                                                     16,4%                    20%
+                                         200                   3,0%                                                               3,3%                                            15,3%
+                                                                                                                                                                                          0%
+                                             0
+                                                    -12,2%                                          -6,0%                                      -7,7%
+                                         -200                                   -14,9%                                                                                                    -20%
+
+                                                    2017       2018               2019              2020            2021     2022              2023              2024             2025
+
+                                                               So cie ta t Anò nima                                           So cie ta t de Respon sa bilitat L imita da
+                                                               So cie ta t Anò nima Unipe rso nal                             So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+                                                               Su cu rsa l E stra nger a                                      So cie ta t Coope rativa
+                                                               So cie ta t Anò nima amb Ob jecte Espo rtiu Un iperson al      So cie ta t Limitada Unip ersona l S ta rtu p
+                                                               So cie ta t Anò nima amb Ob jecte Espo rtiu                    Va riació anu al to tal
+
+
+
+
+NP-A099_20260223                                                                                                                                                                                     Pàg. 10 de 28
+                                A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                               Distribució percentual de les societats constituïdes per forma jurídica.
+                                                        Període 2017 - 2025
+
+                   2025 0,5%              33,4%                0,4%                                    65,4%                                    0,2%
+
+                   2024 0,1%             33,1%                 0,4%                                    66,4%                                    0,1%
+
+                   2023 0,6%             32,2%                0,5%                                     66,4%                                    0,3%
+
+                   2022 0,1%            30,6%               0,5%                                      68,7%
+
+                   2021 0,2%             33,1%                 0,2%                                    66,2%                                    0,2%
+
+                   2020 0,5%                  40,2%                   0,3%                                 59,0%
+
+                   2019 1,0%                 38,1%                    1,2%                                59,4%                                 0,3%
+
+                   2018 1,6%                       42,7%                     1,1%                              54,6%
+
+                   2017 1,5%                      39,3%                0,8%                               58,0%                                 0,4%
+
+                        0%        10%             20%       30%       40%           50%         60%        70%         80%         90%        100%
+
+                                   Societat Anònima                                       Societat de Responsabilitat Limitada
+                                   Societat Anònima Unipersonal                           Societat de Responsabilitat Limitada Unipersonal
+                                   Altres tipus
+
+
+
+
+                                Variació anual 2025-2024 de les societats constituïdes segons la forma
+                                                               jurídica.
+
+                                                        Societat Anònima                                                                      800,0%
+
+
+                                 Societat de Responsabilitat Limitada                          16,5%
+
+
+                                                                  TOTAL                        15,3%
+
+
+                     Societat de Responsabilitat Limitada Unipersonal                          13,6%
+
+
+                                       Societat Anònima Unipersonal                           0,0%
+
+
+                               Societat Limitada Unipersonal Startup -100,0%
+
+                                                                           -200%          0%           200%       400%           600%        800%
+
+
+
+
+NP-A099_20260223                                                                                                                                       Pàg. 11 de 28
+                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                2.2. Per parròquia
+
+
+          En termes absoluts, l’any 2025, Andorra la Vella ha sigut la parròquia on s’han constituït més
+          societats (819), amb el 49,0% del total de les societats creades i una taxa de variació interanual
+          positiva del +23,2% (+154 societats).
+          Seguidament, s’ha situat la parròquia d’Escaldes-Engordany amb 315 constitucions, el 18,9% del
+          total, amb una taxa de variació positiva del +13,7% (+38 societats) respecte de l’any anterior.
+          A més a més, cal destacar que únicament les parròquies de Sant Julià de Lòria i d’Ordino han tingut
+          una variació interanual negativa pel que fa a les societats constituïdes.
+
+
+          Taula 7. Societats constituïdes per parròquia. Període 2017-2025
+
+                                                                                                                                                                                                 Variació
+ Societats constituïdes                                 2017             2018                2019          2020              2021           2022                2023          2024     2025
+                                                                                                                                                                                               2025/2024
+ Canillo                                                   82             54                   58           43                116             100                 71             83       99       19,3%
+ Encamp                                                    89             84                   82           57                154             128                113            141      154        9,2%
+ Ordino                                                    38             40                   36           37                 78              59                 51             65       57      -12,3%
+ La Massana                                                99            111                   92           83                149             129                124            140      161       15,0%
+ Andorra la Vella                                         282            321                  254          272                541             708                636            665      819       23,2%
+ Sant Julià de Lòria                                       45             36                   24           37                 40              44                 58             78       65      -16,7%
+ Escaldes-Engordany                                       143            155                  136          112                228             181                192            277      315       13,7%
+ Total                                                    778            801                  682          641              1.306           1.349              1.245          1.449    1.670       15,3%
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                      Societats constituïdes per parròquia. Període 2017 - 2025
+                          1.800                                                                                                                                                120%
+                                                                                                  103,7%
+                          1.600
+                                                                                                                                                                               100%
+                          1.400
+
+                          1.200                                                                                                                                                80%
+
+                          1.000
+                                                                                                                                                                               60%
+                           800
+                                                                                                                                                                               40%
+                           600
+
+                           400                                                                                                                  16,4%                15,3%     20%
+                                                                                                                  3,3%
+                           200               3,0%
+                                                                                                                                                                               0%
+                             0
+                                                                                  -6,0%                                             -7,7%
+                           -200   -12,2%                        -14,9%                                                                                                         -20%
+
+                                  2017       2018                2019           2020                2021          2022              2023        2024                  2025
+
+                                           Canil lo                             En ca mp                          Or dino                           La Massana
+
+
+                                           An dorra la V ella                   Sa nt Julià de L òria             Escalde s- Engo rdan y            Va riació anu al to tal
+
+
+
+
+NP-A099_20260223                                                                                                                                                                      Pàg. 12 de 28
+                                     A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                      Distribució percentual de les societats constituïdes per parròquia.
+                                                             Període 2017 - 2025
+                   2025    5,9% 9,2% 3,4% 9,6%                                      49,0%                          3,9%          18,9%
+
+                   2024 5,7% 9,7% 4,5% 9,7%                                         45,9%                         5,4%           19,1%
+
+                   2023 5,7% 9,1% 4,1% 10,0%                                         51,1%                                4,7%    15,4%
+
+                   2022     7,4%        9,5% 4,4% 9,6%                                  52,5%                               3,3% 13,4%
+
+                   2021        8,9%       11,8%        6,0%     11,4%                     41,4%                       3,1%       17,5%
+
+                   2020     6,7%       8,9% 5,8%          12,9%                        42,4%                         5,8%        17,5%
+
+                   2019        8,5%       12,0%        5,3%     13,5%                    37,2%                    3,5%           19,9%
+
+                   2018     6,7%       10,5% 5,0%             13,9%                     40,1%                     4,5%           19,4%
+
+                   2017        10,5%        11,4% 4,9%           12,7%                   36,2%                     5,8%          18,4%
+
+                          0%          10%          20%          30%      40%      50%        60%          70%        80%         90%       100%
+
+                           Canillo      Encamp         Ordino    La Massana    Andorra la Vella     Sant Julià de Lòria      Escaldes-Engordany
+
+
+
+
+                                      Variació anual 2025-2024 de les societats constituïdes segons la parròquia.
+
+                          Andorra la Vella                                                                                   23,2%
+
+                                      Canillo                                                                        19,3%
+
+                                     TOTAL                                                                   15,3%
+
+                               La Massana                                                                    15,0%
+
+                    Escaldes-Engordany                                                                    13,7%
+
+                                  Encamp                                                           9,2%
+
+                                      Ordino           -12,3%
+
+                      Sant Julià de Lòria -16,7%
+
+                                                -20%            -10%           0%                 10%             20%                30%
+
+
+
+
+NP-A099_20260223                                                                                                                                  Pàg. 13 de 28
+                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+            2.3. Per forma jurídica i per parròquia
+
+
+         S’observa que la constitució de societats es concentra, majoritàriament, a la parròquia d’Andorra la
+         Vella, on l’any 2025 s’han registrat un total de 542 inscripcions de societats de responsabilitat limitada
+         unipersonals (el 66,2% del total de societats mercantils constituïdes a la parròquia), seguides de 269
+         societats de responsabilitat limitada representant, el 32,8% del total parroquial.
+
+
+
+
+         Taula 8. Societats constituïdes per forma jurídica i per parròquia. Any 2025
+
+                                                                                                     Parròquia
+                                                                                                       La            Andorra la             Sant Julià de       Escaldes-
+ Forma jurídica                                       Canillo          Encamp        Ordino                                                                                    Total
+                                                                                                  Massana                Vella                     Lòria       Engordany
+ Societat Anònima                                             0                  0       0              0                     4                         0               5             9
+ Societat de Responsabilitat Limitada                        29                 62      15             52                  269                         26             105        558
+ Societat Anònima Unipersonal                                 0                  1       1              0                     2                         0               2             6
+ Societat de Responsabilitat Limitada
+                                                             70                 91      41                 108                  542                       39         202        1.093
+ Unipersonal
+ Sucursal Estrangera                                           0                0         0                   1                     2                     0            1              4
+ Societat Cooperativa                                          0                0         0                   0                     0                     0            0              0
+ Societat Anònima amb Objecte Esportiu                         0                0         0                   0                     0                     0            0              0
+ Societat Anònima amb Objecte Esportiu
+                                                               0                0         0                   0                     0                     0            0              0
+ Unipersonal
+ Societat Limitada Unipersonal Startup                         0                0         0                   0                     0                     0            0              0
+ Total                                                 99           154            57            161                             819                      65          315       1.670
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                         Societats mercantils constituïdes per forma jurídica i per parròquia.
+                                                                      Any 2025
+                        600
+
+                        500
+
+                        400
+
+                        300
+
+                        200
+
+                        100
+
+                          0
+
+
+
+
+                                           So cie ta t Anò nima                               So cie ta t de Respon sa bilitat L imita da
+
+                                           So cie ta t Anò nima Unipe rso nal                 So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+
+                                           Su cu rsa l E stra nger a
+
+
+
+
+NP-A099_20260223                                                                                                                                                      Pàg. 14 de 28
+                                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+           3. Societats cancel·lades
+
+           A l’efecte de caracteritzar les societats cancel·lades, es tenen en compte totes les societats en les
+           quals s’ha inscrit l’extinció de la societat al Registre de Societats Mercantils, una vegada conclòs el
+           procés de liquidació. Un cop determinada la cancel·lació, tota societat perd la personalitat jurídica.
+
+                    3.1. Per forma jurídica
+
+
+           L’any 2025 s’han cancel·lat un total de 208 societats, el que ha significat un descens del -12,2% (-29
+           societats) respecte de l’any anterior. Aquest fet s’explica, en part, per la reducció en les cancel·lacions
+           de les societats de responsabilitat limitada unipersonals, xifrades en 114, la qual cosa suposa una
+           variació negativa del -13,6% (-18 societats) respecte de l’any anterior i representa el 54,8% del total
+           de les societats cancel·lades.
+           També és important destacar l’elevada xifra de societats de responsabilitat limitada cancel·lades amb
+           77 societats, un -13,5% (-12 societats) en comparació amb el 2024.
+
+
+
+
+           Taula 9. Societats cancel·lades per forma jurídica. Període 2017-2025
+
+                                                                                                                                                                                                                Variació
+ Societats cancel·lades                                                   2017              2018             2019          2020              2021                2022              2023         2024    2025
+                                                                                                                                                                                                               2025/2024
+ Societat Anònima                                                            10                 6               12           5                  15                 17                 10          10       5      -50,0%
+ Societat de Responsabilitat Limitada                                        56                56               77          50                  69                 74                 84          89      77      -13,5%
+ Societat Anònima Unipersonal                                                 4                 4               10           5                   5                  3                  6           5      10      100,0%
+ Societat de Responsabilitat Limitada Unipersonal                            75                61               69          55                  99                 92                101         132     114      -13,6%
+ Sucursal Estrangera                                                          0                 0                0           0                   0                  0                  0           1       2      100,0%
+ Societat Cooperativa                                                         0                 0                0           0                  0                   0                  0           0       0           -
+ Societat Anònima amb Objecte Esportiu                                        0                 0                0           0                  0                   0                  0           0       0           -
+ Societat Anònima amb Objecte Esportiu Unipersonal                            0                 0                0           0                  0                   0                  0           0       0           -
+ Societat Limitada Unipersonal Startup                                        0                 0                0           0                  0                   0                  0           0       0           -
+ Total                                                                      145               127              168         115                188                 186                201         237     208     -12,2%
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+                                                                 Societats cancel·lades per forma jurídica. Període 2017 - 2025
+                                         250                                                                                                                                               80%
+                                                                                                                  63,5%
+                                         200
+                                                                                                                                                                                           60%
+                                         150
+                                                                                  32,3%                                                                                                    40%
+                                         100
+                                                                                                                                                                17,9%
+                                          50                                                                                                                                               20%
+                                                     9,0%                                                                                     8,1%
+                                           0
+                                                                                                                                                                                           0%
+                                          -50                                                                              -1,1%
+
+                                                             -12,4%                                                                                                             -12,2%     -20%
+                                         -100
+                                                                                                       -31,5%
+                                         -150                                                                                                                                              -40%
+                                                     2017     2018                2019              2020         2021       2022              2023              2024              2025
+
+                                                               So cie ta t Anò nima                                           So cie ta t de Respon sa bilitat L imita da
+
+                                                               So cie ta t Anò nima Unipe rso nal                             So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+
+                                                               Su cu rsa l E stra nger a                                      So cie ta t Coope rativa
+
+                                                               So cie ta t Anò nima amb Ob jecte Espo rtiu Un iperson al      So cie ta t Limitada Unip ersona l S ta rtu p
+
+                                                               So cie ta t Anò nima amb Ob jecte Espo rtiu                    Va riació anu al to tal
+
+
+
+
+NP-A099_20260223                                                                                                                                                                                       Pàg. 15 de 28
+                                      A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                       Distribució percentual de les societats cancel·lades per forma jurídica.
+                                                                Període 2017 - 2025
+
+                        2025 2,4%                      37,0%                  4,8%                           54,8%                           1,0%
+
+                        2024 4,2%                          37,6%              2,1%                           55,7%                           0,4%
+
+                        2023 5,0%                            41,8%                    3,0%                       50,2%
+
+                        2022        9,1%                        39,8%                  1,6%                      49,5%
+
+                        2021    8,0%                         36,7%               2,7%                          52,7%
+
+                        2020 4,3%                            43,5%                     4,3%                       47,8%
+
+                        2019    7,1%                               45,8%                      6,0%                    41,1%
+
+                        2018 4,7%                             44,1%                    3,1%                       48,0%
+
+                        2017    6,9%                         38,6%                   2,8%                       51,7%
+
+                               0%          10%         20%         30%     40%         50%       60%        70%         80%        90%       100%
+
+                                            Societat Anònima                                    Societat de Responsabilitat Limitada
+                                            Societat Anònima Unipersonal                        Societat de Responsabilitat Limitada Unipersonal
+                                            Altres tipus
+
+
+
+
+                                           Variació anual 2025-2024 de les societats cancel·lades segons la
+                                                                   forma jurídica.
+
+
+                                                      Sucursal Estrangera                                                                    100,0%
+
+
+                                           Societat Anònima Unipersonal                                                                      100,0%
+
+
+                                                                      TOTAL            -12,2%
+
+
+                                Societat de Responsabilitat Limitada                   -13,5%
+
+
+                   Societat de Responsabilitat Limitada Unipersonal                    -13,6%
+
+
+                                                           Societat Anònima -50,0%
+
+                                                                               -50%                  0%               50%                100%
+
+
+
+
+NP-A099_20260223                                                                                                                                      Pàg. 16 de 28
+                                           A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                 3.2. Per parròquia
+
+
+          El nombre de cancel·lacions de societats més elevat s’ha registrat a les parròquies d’Andorra la Vella
+          (90 societats) i d’Escaldes-Engordany (30 societats) l’any 2025, el conjunt de les quals han suposat el
+          57,7% del total de les cancel·lacions.
+
+
+
+
+          Taula 10. Societats cancel·lades per parròquia. Període 2017-2025
+
+                                                                                                                                                                                               Variació
+ Societats cancel·lades                               2017           2018              2019            2020             2021           2022          2023               2024          2025
+                                                                                                                                                                                             2025/2024
+ Canillo                                                10             7                  10            11               12             21               9               17            21        23,5%
+ Encamp                                                 19            15                  19            16               22             27              26               19            26        36,8%
+ Ordino                                                  4             4                   6             2                7             10              19               16             6       -62,5%
+ La Massana                                             16            17                  15             7               25             16              15               24            25         4,2%
+ Andorra la Vella                                       65            49                  79            43               76             69              83              103            90       -12,6%
+ Sant Julià de Lòria                                     8            10                  10             7                8              9               2               18            10       -44,4%
+ Escaldes-Engordany                                     23            25                  29            29               38             34              47               40            30       -25,0%
+ Total                                                 145           127                 168           115              188            186             201              237           208       -12,2%
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                      Societats cancel·lades per parròquia. Període 2017 - 2025
+                          250                                                                                                                                                  80%
+                                                                                               63,5%
+                          200
+                                                                                                                                                                               60%
+                          150
+
+                                                             32,3%                                                                                                             40%
+                          100
+
+                           50                                                                                                                 17,9%                            20%
+                                 9,0%                                                                                           8,1%
+                            0
+                                                                                                                                                                               0%
+                           -50                                                                                -1,1%
+
+                                        -12,4%                                                                                                                -12,2%           -20%
+                          -100
+                                                                            -31,5%
+                          -150                                                                                                                                                 -40%
+                                 2017     2018               2019            2020               2021          2022             2023           2024              2025
+
+                                        Canil lo                            En ca mp                          Or dino                         La Massana
+
+
+                                        An dorra la V ella                  Sa nt Julià de L òria             Escalde s- Engo rdan y          Va riació anu al to tal
+
+
+
+
+NP-A099_20260223                                                                                                                                                                      Pàg. 17 de 28
+                                    A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                    Distribució percentual de les societats cancel·lades per parròquia.
+                                                           Període 2017 - 2025
+                   2025        10,1%        12,5% 2,9% 12,0%                                43,3%                          4,8%       14,4%
+
+                   2024    7,2% 8,0% 6,8%              10,1%                           43,5%                         7,6%           16,9%
+
+                   2023 4,5%          12,9%        9,5%       7,5%                      41,3%                    1,0%           23,4%
+
+                   2022        11,3%          14,5%         5,4% 8,6%                      37,1%                     4,8%           18,3%
+
+                   2021    6,4%        11,7% 3,7%           13,3%                       40,4%                       4,3%           20,2%
+
+                   2020        9,6%         13,9% 1,7%
+                                                     6,1%                         37,4%                     6,1%                25,2%
+
+                   2019    6,0%        11,3% 3,6% 8,9%                                 47,0%                         6,0%           17,3%
+
+                   2018 5,5%          11,8% 3,1% 13,4%                                 38,6%                     7,9%              19,7%
+
+                   2017    6,9%         13,1% 2,8% 11,0%                                  44,8%                          5,5%         15,9%
+
+                          0%          10%        20%          30%       40%        50%         60%        70%         80%           90%       100%
+
+                          Canillo       Encamp      Ordino        La Massana    Andorra la Vella     Sant Julià de Lòria      Escaldes-Engordany
+
+
+
+
+                                 Variació anual 2025-2024 de les societats cancel·lades segons la parròquia.
+
+
+                                               Encamp                                                                              36,8%
+
+                                                 Canillo                                                                   23,5%
+
+                                            La Massana                                                       4,2%
+
+                                                 TOTAL                                   -12,2%
+
+                                       Andorra la Vella                                 -12,6%
+
+                                 Escaldes-Engordany                              -25,0%
+
+                                    Sant Julià de Lòria                -44,4%
+
+                                                 Ordino       -62,5%
+
+                                                           -80%      -60%       -40%      -20%         0%          20%          40%
+
+
+
+
+NP-A099_20260223                                                                                                                                     Pàg. 18 de 28
+                                               A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+            3.3. Per forma jurídica i per parròquia
+
+
+         L’any 2025 s’han cancel·lat 43 societats de responsabilitat limitada unipersonals a la parròquia
+         d’Andorra la Vella, el 47,8% de les societats mercantils cancel·lades en aquesta parròquia, seguides
+         de 36 societats de responsabilitat limitada (el 40,0% del total).
+
+
+         La parròquia d’Escaldes-Engordany ha comptat, en el mateix any, 16 societats de responsabilitat
+         limitada unipersonals donades de baixa (el 53,3% de les baixes), i 11 societats de responsabilitat
+         limitada representant el 36,7% del total parroquial.
+
+
+
+
+         Taula 11. Societats cancel·lades per forma jurídica i per parròquia. Any 2025
+
+                                                                                            Parròquia
+                                                                                                 La Andorra la              Sant Julià de              Escaldes-
+ Forma jurídica                                          Canillo        Encamp    Ordino                                                                              Total
+                                                                                           Massana      Vella                      Lòria              Engordany
+ Societat Anònima                                                   0        0         0          1          3                          0                      1             5
+ Societat de Responsabilitat Limitada                               7        7         2         12        36                           2                     11         77
+ Societat Anònima Unipersonal                                       0        1         0          0                    6                      1               2          10
+ Societat de Responsabilitat Limitada
+                                                                14           18        4        12                   43                       7              16         114
+ Unipersonal
+ Sucursal Estrangera                                                0        0         0          0                    2                      0               0              2
+ Societat Cooperativa                                               0        0         0          0                    0                      0               0              0
+ Societat Anònima amb Objecte Esportiu                              0        0         0          0                    0                      0               0              0
+ Societat Anònima amb Objecte Esportiu
+                                                                    0        0         0          0                    0                      0               0              0
+ Unipersonal
+ Societat Limitada Unipersonal Startup                              0        0         0          0                    0                      0               0              0
+ Total                                                 21            26             6            25                  90                      10               30        208
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                          Societats mercantils cancel·lades per forma jurídica i per parròquia.
+                                                                       Any 2025
+                        50
+                        45
+                        40
+                        35
+                        30
+                        25
+                        20
+                        15
+                        10
+                         5
+                         0
+
+
+
+
+                                        So cie ta t Anò nima                                   So cie ta t de Respon sa bilitat L imita da
+
+                                        So cie ta t Anò nima Unipe rso nal                     So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+
+                                        Su cu rsa l E stra nger a
+
+
+
+
+NP-A099_20260223                                                                                                                                             Pàg. 19 de 28
+                                                          A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+           4. Creació neta de societats
+
+           Es calcula com la diferència entre les inscripcions i les cancel·lacions de les societats.
+
+                    4.1. Per forma jurídica
+
+
+           Durant l’any 2025, la creació neta de societats ha sigut positiva degut a les 1.670 noves inscripcions i
+           a les 208 cancel·lacions, una diferència de +1.462 societats, fet que ha significat un augment
+           interanual del +20,6% (+250 societats).
+
+
+           D’entre les diverses formes jurídiques amb creació neta positiva, durant el darrer any, cal destacar les
+           societats de responsabilitat limitada unipersonals amb +979 i un augment interanual del +18,0%
+           (+149 societats); i les societats de responsabilitat limitada amb +481, i un augment del +23,3% (+91
+           societats) en comparació amb l’any anterior.
+
+
+           En canvi, les societats anònimes unipersonals han presentat una creació neta negativa, amb un valor
+           de -4, sent la única forma jurídica que ha presentat un saldo negatiu.
+
+
+
+
+           Taula 12. Creació neta de societats per forma jurídica. Període 2017-2025
+
+                                                                                                                                                                                              Variació
+ Creació neta de societats                                         2017         2018           2019           2020           2021            2022            2023           2024    2025
+                                                                                                                                                                                            2025/2024
+ Societat Anònima                                                     2            7            -5             -2              -12             -15              -3             -9       4      144,4%
+ Societat de Responsabilitat Limitada                               250          286           183            208              363             339             317            390     481       23,3%
+ Societat Anònima Unipersonal                                         2            5            -2             -3               -2               4               0              1      -4     -500,0%
+ Societat de Responsabilitat Limitada Unipersonal                   376          376           336            323              766             835             726            830     979       18,0%
+ Sucursal Estrangera                                                  3            0             1              0                2               0               2             -1       2      300,0%
+ Societat Cooperativa                                                 0            0             0              0                0               0               0              0       0            -
+ Societat Anònima amb Objecte Esportiu                                0            0             1              0                1               0               1              0       0            -
+ Societat Anònima amb Objecte Esportiu Unipersonal                    0            0             0              0                0               0               1              0       0            -
+ Societat Limitada Unipersonal Startup                                0            0             0              0                0               0               0              1       0     -100,0%
+ Total                                                              633          674           514            526            1.118           1.163           1.044          1.212   1.462       20,6%
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                         Variació anual 2025-2024 de la creació neta de societats segons la
+                                                                                  forma jurídica.
+
+                                                                      Sucursal Estrangera                                                                              300,0%
+
+
+                                                                          Societat Anònima                                                                   144,4%
+
+
+                                                      Societat de Responsabilitat Limitada                                                           23,3%
+
+
+                                                                                       TOTAL                                                         20,6%
+
+
+                                         Societat de Responsabilitat Limitada Unipersonal                                                        18,0%
+
+
+                                                     Societat Limitada Unipersonal Startup                              -100,0%
+
+
+                                                            Societat Anònima Unipersonal -500,0%
+
+                                                                                                      -500%          -300%           -100%           100%            300%
+
+
+
+
+NP-A099_20260223                                                                                                                                                                      Pàg. 20 de 28
+                                               A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                 4.2. Per parròquia
+
+
+          Durant l’any 2025, totes les parròquies han presentat un saldo positiu en la creació neta de societats,
+          seguint amb la tendència positiva registrada en els darrers anys.
+
+
+          En aquest sentit, la parròquia que ha tingut el valor més important en creació neta durant l’any 2025
+          ha sigut la parròquia d’Andorra la Vella, amb +729 societats i una variació interanual positiva del
+          +29,7% (+167 societats).
+
+
+          També destaquen la parròquia d’Escaldes-Engordany, en que la creació neta ha sigut de +285
+          societats (el que ha suposat una variació anual positiva del +20,3%); i la parròquia de la Massana
+          amb +136 societats, i un +17,2% en relació amb l’any anterior.
+
+
+
+
+          Taula 13. Creació neta de societats per parròquia. Període 2017-2025
+
+                                                                                                                                                                                                           Variació
+ Creació neta de societats                                2017            2018               2019            2020             2021             2022            2023               2024           2025
+                                                                                                                                                                                                         2025/2024
+ Canillo                                                    72               47               48              32                104               79              62                 66             78       18,2%
+ Encamp                                                     70               69               63              41                132              101              87                122            128        4,9%
+ Ordino                                                     34               36               30              35                 71               49              32                 49             51        4,1%
+ La Massana                                                 83               94               77              76                124              113             109                116            136       17,2%
+ Andorra la Vella                                          217              272              175             229                465              639             553                562            729       29,7%
+ Sant Julià de Lòria                                        37               26               14              30                 32               35              56                 60             55       -8,3%
+ Escaldes-Engordany                                        120              130              107              83                190              147             145                237            285       20,3%
+ Total                                                     633              674              514             526              1.118            1.163           1.044              1.212          1.462       20,6%
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                                         Creació neta de societats per parròquia. Període 2017 - 2025
+                             1.700                                                                  112,5%                                                                                120%
+
+                             1.500
+                                                                                                                                                                                          100%
+                             1.300
+                                                                                                                                                                                          80%
+                             1.100
+                                                                                                                                                                                          60%
+                              900
+
+                              700                                                                                                                                                         40%
+
+                              500                                                                                                                                         20,6%
+                                                                                                                                                       16,1%                              20%
+                                                6,5%
+                              300                                                                                     4,0%
+                                                                                  2,3%
+                                                                                                                                                                                          0%
+                              100
+                                                                                                                                      -10,2%                                              -20%
+                              -100   -15,9%                        -23,7%
+                              -300                                                                                                                                                        -40%
+
+                                     2017        2018              2019            2020               2021          2022               2023            2024               2025
+
+
+                                              Canil lo                            En ca mp                          Or dino                             La Massana
+
+
+                                              An dorra la V ella                  Sa nt Julià de L òria             Escalde s- Engo rdan y              Va riació anu al to tal
+
+
+
+
+NP-A099_20260223                                                                                                                                                                                    Pàg. 21 de 28
+                                    A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                                    Distribució percentual de la creació neta de societats per parròquia.
+                                                            Període 2017 - 2025
+                   2025 5,3% 8,8% 3,5% 9,3%                                        49,9%                          3,8%          19,5%
+
+                   2024 5,4% 10,1% 4,0% 9,6%                                       46,4%                          5,0%          19,6%
+
+                   2023 5,9% 8,3% 3,1% 10,4%                                         53,0%                               5,4%     13,9%
+
+                   2022    6,8% 8,7% 4,2% 9,7%                                           54,9%                            3,0% 12,6%
+
+                   2021        9,3%      11,8%         6,4%    11,1%                       41,6%                     2,9%        17,0%
+
+                   2020 6,1% 7,8% 6,7%                   14,4%                           43,5%                       5,7%        15,8%
+
+                   2019        9,3%      12,3%         5,8%      15,0%                     34,0%                  2,7%          20,8%
+
+                   2018    7,0%       10,2% 5,3%          13,9%                          40,4%                     3,9%         19,3%
+
+                   2017        11,4%        11,1% 5,4%           13,1%                    34,3%                   5,8%          19,0%
+
+                          0%          10%       20%           30%        40%      50%        60%         70%        80%          90%      100%
+                          Canillo      Encamp     Ordino       La Massana      Andorra la Vella    Sant Julià de Lòria    Escaldes-Engordany
+
+
+
+
+                               Variació anual 2025-2024 de la creació neta de societats segons la parròquia.
+
+
+                                    Andorra la Vella                                                                             29,7%
+
+
+                                             TOTAL                                                              20,6%
+
+
+                               Escaldes-Engordany                                                              20,3%
+
+
+                                             Canillo                                                       18,2%
+
+
+                                       La Massana                                                         17,2%
+
+
+                                            Encamp                                  4,9%
+
+
+                                             Ordino                               4,1%
+
+
+                                 Sant Julià de Lòria -8,3%
+
+                                                        -10%              0%             10%              20%               30%
+
+
+
+
+NP-A099_20260223                                                                                                                                 Pàg. 22 de 28
+                                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+            4.3. Per forma jurídica i per parròquia
+
+
+         A la parròquia d’Andorra la Vella, la creació neta de societats de responsabilitat limitada unipersonals
+         ha sigut de 499, degut a les 542 noves inscripcions i a les 43 societats donades de baixa.
+         Seguidament destaca la creació neta de les societats de responsabilitat limitada amb 233.
+         Per contra, es pot observar que les societats anònimes unipersonals presenten una creació neta
+         negativa, durant l’any 2025, amb -4.
+
+
+         A l’igual que passa amb Andorra la Vella, a la parròquia d’Escaldes-Engordany el valor més elevat en
+         creació neta es troba en les societats de responsabilitat limitada unipersonals amb 186, degut a les
+         202 noves inscripcions i a les 16 societats donades de baixa.
+
+
+
+
+         Taula 14. Creació neta de societats per forma jurídica i per parròquia. Any 2025
+
+                                                                                                 Parròquia
+                                                                                                    La            Andorra la          Sant Julià de           Escaldes-
+ Forma jurídica                                       Canillo        Encamp        Ordino                                                                                     Total
+                                                                                               Massana                Vella                  Lòria           Engordany
+ Societat Anònima                                             0                0       0            -1                     1                      0                   4          4
+ Societat de Responsabilitat Limitada                        22               55      13            40                  233                      24                  94        481
+ Societat Anònima Unipersonal                                 0                0       1             0                    -4                     -1                   0          -4
+ Societat de Responsabilitat Limitada
+                                                             56               73      37                 96                  499                        32         186         979
+ Unipersonal
+ Sucursal Estrangera                                            0             0         0                  1                    0                       0            1           2
+ Societat Cooperativa                                           0             0         0                  0                    0                       0            0           0
+ Societat Anònima amb Objecte Esportiu                          0             0         0                  0                    0                       0            0           0
+ Societat Anònima amb Objecte Esportiu
+                                                                0             0         0                  0                    0                       0            0           0
+ Unipersonal
+ Societat Limitada Unipersonal Startup                          0             0         0                  0                    0                       0            0           0
+ Total                                                 78          128             51           136                          729                        55          285       1.462
+ Font: Ministeri de Presidència, Economia, Treball i Habitatge; Registre de Societats Mercantils
+
+
+
+
+                                             Creació neta de societats mercantils per forma jurídica i per
+                                                                      parròquia.
+                                                                      Any 2025
+                        600
+
+                        500
+
+                        400
+
+                        300
+
+                        200
+
+                        100
+
+                          0
+
+                        -100
+
+
+
+
+                                         So cie ta t Anò nima                               So cie ta t de Respon sa bilitat L imita da
+
+                                         So cie ta t Anò nima Unipe rso nal                 So cie ta t de Respon sa bilitat L imita da Unipe rso nal
+
+                                         Su cu rsa l E stra nger a
+
+
+
+
+NP-A099_20260223                                                                                                                                                     Pàg. 23 de 28
+                              A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+      5. Nota metodològica
+
+          •   Font:
+
+              Dades generades a partir del Registre de Societats Mercantils del Govern d’Andorra, el qual
+              registra la inscripció de les societats mercantils, de les sucursals de societats estrangeres i de
+              les societats cooperatives d’acord amb el que està establert per la Llei 20/2007, del
+              18 d’octubre, de societats anònimes i de responsabilitat limitada i per la Llei 5/2016, del 15 de
+              gener, de societats cooperatives d’Andorra, i dels actes i contractes relatius a aquests actes
+              que determinen la Llei i el Reglament del Registre de Societats Mercantils, i la Llei de
+              societats cooperatives d’Andorra.
+
+
+          •   Definicions:
+
+              Societat mercantil: és una associació voluntària, amb personalitat jurídica pròpia, de
+              persones físiques o jurídiques que, a través d’un contracte mercantil, aporten capital per dur a
+              terme una o diverses activitats econòmiques a fi d’obtenir-ne un guany.
+
+
+              Generalment, la societat pot adoptar la forma de societat anònima (SA) o de societat de
+              responsabilitat limitada (SL), i qualsevol pot estar constituïda per un sol soci o més. En cas
+              que la societat la constitueixi un soci, es parlarà de societat anònima unipersonal (SAU) i
+              societat de responsabilitat limitada unipersonal (SLU). A més d’aquestes formes
+              jurídiques, n’hi ha d’altres, com; les societats cooperatives (S. Coop.); les sucursals de
+              societats estrangeres (Sucursal Estrangera); les societats anònimes amb objecte
+              esportiu (SAOE) i les societats anònimes amb objecte esportiu unipersonals (SAOEU);
+              les societats anònimes Startup (SAS) i les societats anònimes unipersonal Startup
+              (SAUS) i; les societats limitades Startup (SLS) i les societats limitades unipersonal
+              Startup (SLUS)
+
+
+                      -   Societat anònima: societat formada per una o més persones en la qual el capital
+                          està integrat per les aportacions dels socis i dividit en accions que concedeixen al
+                          seu titular la condició de soci, i en la qual la responsabilitat dels socis es limita a
+                          la seva aportació social.
+
+
+                      -   Societat anònima amb objecte esportiu: és un tipus especial de societat anònima
+                          que permet a les entitats, que tenen per objecte social el desenvolupament
+                          d'algun esport en competició de manera professional en un àmbit estatal,
+                          participar en competicions oficials estrangeres.
+
+
+                      -   Societat de responsabilitat limitada: societat formada per una o més persones en
+                          la qual el capital està integrat per les aportacions dels socis i dividit en parts
+
+
+
+NP-A099_20260223                                                                                          Pàg. 24 de 28
+                              A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+                           iguals, anomenades participacions, que concedeixen al seu titular la condició de
+                           soci, i en la qual els socis no són responsables pels deutes socials.
+
+
+                      -    Societat Startup: societat de recent inscripció constitutiva d’acord amb la
+                           normativa que regula les societats mercantils, que es caracteritza per
+                           desenvolupar una empresa o un model de negoci emergent, independent de
+                           l’activitat d’altres societats mercantils excepte que siguin també Startups o que
+                           provingui d’una fusió o d’una escissió d’una Startup, basat en la innovació en el
+                           desenvolupament de productes i serveis utilitzant la tecnologia com a element
+                           subjacent.
+
+
+                      -    Societat cooperativa: societat amb unes característiques pròpies basades en la
+                           gestió democràtica per part dels seus socis, per als quals la lliure adhesió i baixa
+                           voluntària a la societat impliquen un compromís de participació activa.
+
+
+                      -    Sucursal de societats estrangeres: societat estrangera que estableix una sucursal
+                           al territori del Principat d’Andorra i que ha d’inscriure’s al Registre de Societats
+                           Mercantils presentant els documents acreditatius de l’existència de la societat, els
+                           seus estatuts vigents, els seus administradors i totes les modificacions posteriors
+                           de qualsevol d’aquestes dades.
+
+
+              Societats actives: en aquest apartat es tenen en compte les societats que s’han constituït i
+              inscrit al Registre de Societats Mercantils, que no han conclòs el procediment de dissolució.
+
+
+              Societats constituïdes: en aquest apartat es tenen en compte totes les societats que
+              s’inscriuen en el Registre de Societats Mercantils. La referència que s’utilitza per determinar el
+              nombre de societats constituïdes és la data d’inscripció de les societats al Registre.
+
+
+              Societats cancel·lades: en aquest apartat es registren totes les societats de les quals s’ha
+              inscrit l’extinció al Registre, un cop conclòs el procés de liquidació, i les societats cancel·lades
+              d’ofici. La referència que s’utilitza per determinar aquesta variable és la data d’inscripció de la
+              cancel·lació de les societats que figuren al Registre de Societats Mercantils. Un cop
+              determinada la cancel·lació registral, tota societat perdrà la personalitat com a societat.
+
+
+          •   Normativa vigent:
+
+              El règim regulador de les societats mercantils de l’any 1983 es va modificar i modernitzar
+              substancialment amb l’entrada en vigor de la Llei del 2007.
+
+
+              L’evolució i la normalització del marc fiscal, amb la creació de l’impost sobre les societats i les
+              obligacions comptables, també han incidit sobre el tràfic jurídic.
+
+
+NP-A099_20260223                                                                                            Pàg. 25 de 28
+                               A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+              A més a més, l’obertura progressiva de l’economia a la inversió estrangera, primer de forma
+              limitada i sectorial l’any 2008 i posteriorment de manera més àmplia a partir de l’any 2012, ha
+              contribuït a transformar el teixit empresarial i societari del Principat. Aquest procés de
+              modernització ha permès reforçar la seguretat jurídica, la transparència i l’alineació del règim
+              societari andorrà amb els estàndards europeus i internacionals.
+
+
+              Paral·lelament, la normativa societària ha evolucionat per consolidar els mecanismes de bon
+              govern corporatiu, reforçar els deures i la responsabilitat dels administradors i millorar la
+              protecció dels socis i dels tercers en el tràfic mercantil.
+
+
+              Finalment, la Llei 42/2022, de l’1 de desembre, de l’economia digital, l’emprenedoria i la
+              innovació, actualitza el règim regulador de les societats mercantils i incorpora noves mesures
+              fiscals i de promoció del finançament amb l’objectiu de fomentar la creació de Startups i el
+              desenvolupament de les seves activitats relacionades.
+
+
+              En aquest context, el règim jurídic de les societats mercantils es configura actualment com un
+              instrument clau per a la competitivitat de l’economia andorrana, adaptat als reptes de la
+              digitalització, l’emprenedoria i les noves formes de finançament empresarial.
+
+
+          •   Metodologia:
+
+
+              La creació, dissolució i ampliació de societats mercantils són variables que presenten una
+              elevada variabilitat, especialment en les xifres mensuals, però constitueixen indicadors anuals
+              d’interès, clarament vinculats amb la situació econòmica i les expectatives percebudes pels
+              agents econòmics. Les estadístiques i recomptes corresponents s’elaboren a partir de la
+              informació anual que proporciona el Registre Societats Mercantils sobre constitucions (i
+              dissolucions) de societats mercantils.
+
+
+              Durant aquest any, s’han revisat les dades anteriors, i en conseqüència els resultats
+              obtinguts en aquesta edició poden diferir amb els de l’anterior edició.
+
+
+          •   Marc legal:
+
+              D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu desplegament
+              en el Programa estadístic per a l’any 2026, aquest informe dona resposta a l’activitat
+              estadística:
+
+
+                      - A099 Estadística del Registre de Societats
+
+
+
+
+NP-A099_20260223                                                                                       Pàg. 26 de 28
+                             A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+          •   Citació:
+
+
+              Per a qualsevol utilització de la informació continguda en aquesta nota de premsa gràcies de
+              citar “Dades del Departament d’Estadística per a la Nota de Premsa ref. NP-A099_20260223”.
+
+
+          •   Difusió:
+
+
+              Les dades trimestrals i anuals estan disponibles al web www.estadistica.ad a l’apartat
+              Estadístiques/Dades/Estadístiques de les empreses/Demografia Empresarial/Registre de
+              societats.
+
+
+          •   Contactes:
+
+
+              Per estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la
+              nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de
+              premsa d’aquest tema: www.estadistica.ad Amb l’objectiu de maximitzar la difusió de la
+              informació estadística d’Andorra, les Notes de Premsa del Departament d’Estadística es
+              podran seguir també per X (antic TWITTER).
+
+
+
+
+NP-A099_20260223                                                                                    Pàg. 27 de 28
+                            A099. Estadística del Registre de Societats. Resultats Any 2025
+
+
+
+
+      6. Dates de les properes publicacions previstes
+
+    Nota de premsa “A099. Estadística del Registre de Societats. Resultats Any 2026”: primer trimestre del
+    2027
+
+
+
+
+NP-A099_20260223                                                                                  Pàg. 28 de 28
+

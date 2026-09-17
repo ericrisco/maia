@@ -1,0 +1,806 @@
+                      A097. Demografia harmonitzada de les empreses. Any 2025
+                                         Data de publicació: 18 de maig del 2026
+                                                   www.estadistica.ad
+
+
+
+
+                           Durant el 2025 hi havia 23.939 empreses a Andorra
+
+       Es van crear 2.176 empreses i en van desaparèixer 563, la qual cosa va suposar una
+                               taxa neta de creixement del 6,74%
+
+          El 89,99% de les empreses nascudes el 2023 van sobreviure al cap de tres anys
+                                         d’observació
+
+               Respecte l’any 2023 en el que hi havia 20.986 empreses, el 63,58% eren
+                                      econòmicament actives
+
+
+
+
+      Resum
+
+
+      Durant l’any 2025 i tenint en compte les diverses fonts administratives (Registre de Societats, Registre
+      de Comerç, Registre de Professionals Titulats, declaracions d’impostos – IS, IGI, IRPF – i Registre de
+      Dipòsit de Comptes) que formen el Registre Estadístic d’Empreses, el nombre d’empreses ha estat de
+      23.939, la qual cosa ha representat un increment de 1.613 empreses en relació amb les 22.326
+      registrades durant el 2024; és a dir, un augment del 7,22%.
+      L’augment general del nombre d’empreses registrat durant l’any 2025 s’explica per les 2.176
+      empreses nascudes i les 563 que van morir.
+
+
+
+
+NP-A097_20260518                                                                                        Pàg. 1 de 15
+                                               Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      Índex
+
+
+
+      1. Estoc, naixements i morts d'empreses ................................................................................................ 3
+
+      2. Supervivències d’empreses ................................................................................................................ 8
+
+      3. Nota metodològica ............................................................................................................................. 10
+
+      4. Dates de les properes publicacions previstes ................................................................................... 15
+
+
+
+
+NP-A097_20260518                                                                                                                                   Pàg. 2 de 15
+                                               Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      1. Estoc, naixements i morts d'empreses
+
+
+      Es tenen en compte les empreses que han romàs actives durant tot o part de l’any seleccionat. Es
+      comptabilitzen aquelles que romanen actives al final del període més les que han cessat totalment les
+      seves activitats al llarg del mateix any.
+
+
+      L’estoc d’empreses que han operat a Andorra durant l’any 2025 ha estat de 23.939. Aquesta xifra
+      inclou tant les empreses que van estar actives durant tot l’any, més les que ho van fer part d’ell. En
+      relació amb l’any anterior en què hi havia treballant 22.326 empreses, això suposa un augment de
+      1.613 empreses i una variació anual positiva del 7,22%.
+
+
+
+          Taula 1. Estoc, naixements i morts d'empreses. Anys 2016-2025
+
+                                                                                                                                                    Variació
+      Indicador                   2016     2017      2018       2019       2020        2021        2022       2023       2024         2025
+                                                                                                                                                  2025/2024
+      Estoc                      14.205   14.920    15.654     16.241     16.919      18.249      19.796     20.986     22.326       23.939           7,22%
+      Naixements                  1.234    1.134     1.124      1.010       989        1.762       2.078      1.699      1.858        2.176         17,12%
+      Morts                         405     419       390        423        311         432         531        509        518          563            8,69%
+      Variació neta                 829     715       734        587        678        1.330       1.547      1.190      1.340        1.613         20,37%
+      Taxa de naixements (%)       8,69     7,60      7,18       6,22       5,85        9,66       10,50       8,10       8,32         9,09           9,22%
+      Taxa de morts (%)            2,85     2,81      2,49       2,60       1,84        2,37        2,68       2,43       2,32         2,35           1,36%
+      Taxa neta (%)                5,84     4,79      4,69       3,61       4,01        7,29        7,81       5,67       6,00         6,74         12,26%
+
+
+
+
+      Tal com es pot observar a la taula 2, el nombre d’empreses actives (empreses que durant l’any
+      d’anàlisi han tingut activitat econòmica) ha estat de 13.343 durant l’any 2023. En relació amb l’any
+      2022 en què hi havia 13.493 empreses actives, això suposa un descens de 150 empreses i una
+      variació anual negativa del 1,11%. A més a més, pel que fa al nombre d’empreses inactives
+      (empreses que no han tingut activitat almenys en els dos darrers anys) durant l’any 2023, aquestes
+      van augmentar el 21,26% en comparació amb l’any 2022 fins assolir les 7.643 empreses.
+
+
+      Finalment, cal destacar que durant el període 2016-2023, el percentatge d’empreses actives en
+      relació al total de l’estoc d’empreses ha estat superior al 60% per a cada any tal com es pot veure a la
+      taula 2.
+
+
+
+          Taula 2. Empreses actives i inactives. Anys 2016-2025
+
+                                                                                                                                                    Variació
+      Indicador empresarial       2016      2017       2018       2019        2020        2021       2022       2023       2024         2025
+                                                                                                                                                  2023/2022
+      Estoc Empreses             14.205   14.920     15.654      16.241     16.919      18.249      19.796    20.986     22.326       23.939         6,01%
+          - Actives               9.665    10.164     10.633     10.953      11.110      12.343     13.493     13.343       ND*          ND*         -1,11%
+          - Inactives             4.535     4.752      5.018      5.288       5.809       5.906      6.303      7.643       ND*          ND*        21,26%
+          - % Actives            68,04%   68,12%     67,93%      67,44%     65,67%      67,64%      68,16%     63,58%            -            -      -6,72%
+          - % Inactives          31,93%   31,85%     32,06%      32,56%     34,33%      32,36%      31,84%     36,42%            -            -     14,38%
+      * ND: Dada no disponible
+
+
+
+
+NP-A097_20260518                                                                                                                                  Pàg. 3 de 15
+                                                                                                          Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+               A la següent taula, es pot veure en més detall el comportament de les empreses inactives durant el
+               període 2016-2023 gràcies al creuament de totes les fonts d’informació inicials.
+
+
+               En aquest sentit i pel que fa a l’any 2023, de les 20.986 empreses que s’han pogut identificar, 7.643
+               han estat inactives; és a dir el 36,42% del total del teixit empresarial.
+               D’aquestes empreses inactives, 132 van perdre la seva activitat definitivament durant el 2023 tot i que
+               a nivell administratiu no estaven donades de baixa, i 23 van perdre l’activitat i a més, es van donar de
+               baixa administrativament.
+               A més a més, del total d’empreses inactives durant el 2023, 6.673 van perdre la seva activitat abans
+               del 2022 encara que estaven sense una baixa administrativa, però en canvi, 46 van perdre l’activitat i
+               es van donar de baixa administrativament l’any 2023.
+
+
+
+                     Taula 2.1. Detall de les empreses inactives. Anys 2016-2025
+
+                                                                                                                                                                                                        Variació
+ Indicador empresarial                                                                         2016                   2017     2018     2019     2020     2021     2022     2023     2024     2025
+                                                                                                                                                                                                      2023/2022
+ Estoc Empreses                                                                             14.205                   14.920   15.654   16.241   16.919   18.249   19.796   20.986   22.326   23.939      6,01%
+
+     - Actives                                                                                9.665                  10.164   10.633   10.953   11.110   12.343   13.493   13.343     ND*      ND*       -1,11%
+
+     - Inactives
+                                                                                              4.535                   4.752    5.018    5.288    5.809    5.906    6.303    7.643     ND*      ND*      21,26%
+        De les quals:
+
+        - la seva activitat
+        encara no ha                                                                             615                    620      611      886      696      581      622      769      ND*      ND*     23,63%
+        desaparegut
+
+
+                                              Sense baixa
+                                                                                                 139                    334      356      376      294      107      100      132      ND*      ND*     32,00%
+        - la seva activitat                   administrativa
+        desapareix durant el
+        mateix any**                          Baixa administrativa el
+                                                                                                   83                    83       79       92       44       26       46       23      ND*      ND*     -50,00%
+                                              mateix any***
+
+                                              Sense baixa
+                                                                                               3.631                  3.644    3.927    3.887    4.719    5.102    5.449    6.673      ND*      ND*     22,46%
+        - la seva activitat                   administrativa
+        desapareix abans de
+        l'any**                               Baixa administrativa el
+                                                                                                   67                    71       45       47       56       90       86       46      ND*      ND*     -46,51%
+                                              mateix any***
+
+
+     - % Actives                                                                             68,04%                  68,12%   67,93%   67,44%   65,67%   67,64%   68,16%   63,58%        -        -      -6,72%
+
+
+     - % Inactives                                                                           31,93%                  31,85%   32,06%   32,56%   34,33%   32,36%   31,84%   36,42%        -        -     14,38%
+
+ * ND: Dada no disponible
+ ** Es considera que l'activitat d'una empresa inactiva desapareix definitavement després de 3 anys d'inactivitat.
+ *** Aquestes baixes ja estan comptabilitzades a les morts totals de la taula 1
+
+
+
+
+NP-A097_20260518                                                                                                                                                                                Pàg. 4 de 15
+                                                         Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      D’altra banda, si s’analitza la tendència registrada durant el període 2016-2025 (gràfic 1), es pot
+      observar com l’estoc d’empreses ha anat augmentant constantment atès que a cada any, el nombre
+      de naixements d’empreses ha estat superior al de les morts tal i com es pot veure al gràfic 2.
+
+
+      Així, pel que fa a l’any 2025, les empreses nascudes han estat de 2.176, la qual cosa representa un
+      augment del 17,12% respecte a l’any anterior. En canvi, durant el mateix període el total de morts ha
+      arribat a les 563 empreses, cosa que ha suposat 45 morts més que les registrades durant el 2024; és
+      a dir un augment del 8,69%.
+
+
+
+
+       Gràfic 1. Estoc d'empreses. Anys 2016-2025
+
+
+                                                     28.000
+                                                                                                                                                        23.939
+                                                     24.000                                                                                   22.326
+                                                                                                                                     20.986
+                                                                                                                           19.796
+                                                     20.000                                                       18.249
+
+
+
+
+                                 Nombre d'empreses
+                                                                                    15.654   16.241 16.919
+                                                     16.000       14.205 14.920
+
+                                                     12.000
+
+                                                      8.000
+
+                                                      4.000
+
+                                                             0
+                                                                   2016     2017     2018     2019     2020       2021      2022     2023      2024     2025
+                                                                                                        Any
+                                                                                                        Estoc
+
+
+
+
+       Gràfic 2. Naixements i morts d'empreses. Anys 2016-2025
+
+
+                                                     2.500
+                                                                                                                                                       2.176
+                                                                                                                           2.078
+                                                     2.000                                                                                    1.858
+                                                                                                              1.762                 1.699
+
+
+
+
+                           Nombre d'empreses
+                                                     1.500
+                                                                 1.234
+                                                                          1.134    1.124
+                                                                                             1.010    989
+                                                     1.000
+
+                                                                                                                               531                518      563
+                                                                    405       419               423                 432                 509
+                                                      500                              390                  311
+
+
+                                                        0
+                                                                  2016     2017     2018     2019     2020        2021      2022     2023      2024     2025
+                                                                                                        Any
+                                                                                           Naixements               Morts
+
+
+
+
+      Durant l’any 2025, la variació neta d’empreses ha estat positiva continuant amb la tendència dels
+      darrers anys (gràfic 3) degut als 2.176 naixements i a les 563 empreses que han desaparegut, una
+      variació neta de +1.613 empreses. Així, aquesta xifra ha representant una variació interanual positiva
+      del 20,37% (+273 empreses en comparació amb la variació neta d’empreses de l’any anterior).
+
+
+
+NP-A097_20260518                                                                                                                                                 Pàg. 5 de 15
+                                                            Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+       Gràfic 3. Variació neta de naixements i morts d'empreses. Anys 2016-2025
+
+
+                                                        1.800
+                                                                                                                                                              1.613
+                                                                                                                                 1.547
+                                                        1.600
+                                                                                                                         1.330                       1.340
+                                                        1.400
+
+
+
+
+                                    Nombre d'empreses
+                                                                                                                                           1.190
+                                                        1.200
+                                                        1.000
+                                                                  829
+                                                         800                  715       734                      678
+                                                                                                    587
+                                                         600
+                                                         400
+                                                         200
+                                                           0
+                                                                  2016        2017      2018     2019        2020        2021     2022     2023      2024      2025
+                                                                                                                   Any
+                                                                                                            Variació neta
+
+
+
+      Tal com es pot veure en el gràfic 4, la taxa de naixements d’empreses (quocient entre les empreses
+      nascudes i l’estoc) ha estat del 9,09% i en comparació amb l’any anterior ha suposat una variació
+      positiva del 9,22%. Per la seva part, la taxa de morts d’empreses (quocient entre les empreses mortes
+      i l’estoc) ha estat del 2,35%, i durant l’any 2025 ha augmentat el 1,36% respecte a l’any anterior.
+
+
+      Com a resultat, durant l’any 2025 la taxa neta de naixements i morts d'empreses (diferència entre la
+      taxa de naixements i la taxa de morts) ha estat del 6,74%, la qual cosa, representa una variació anual
+      positiva del 12,26%.
+      A més a més, durant el període 2016-2025, aquesta taxa sempre ha estat positiva (gràfic 5) fet que
+      demostra l’augment constant d’empreses en els darrers anys.
+
+
+
+
+       Gràfic 4. Taxa de naixements i morts d'empreses (en percentatge). Anys 2016-2025
+
+
+                                        12,00
+                                                                                                                              10,50
+                                                                                                                       9,66
+                                        10,00                                                                                                                 9,09
+                                                           8,69
+                                                                                                                                          8,10      8,32
+                                                                       7,60
+                                                8,00                             7,18
+                                                                                             6,22
+                                                                                                          5,85
+                             Taxa               6,00
+
+                                                4,00
+                                                                2,85      2,81                   2,60                              2,68
+                                                                                      2,49                                2,37               2,43      2,32          2,35
+                                                                                                             1,84
+                                                2,00
+
+                                                0,00
+                                                            2016       2017         2018       2019       2020         2021      2022     2023      2024      2025
+                                                                                                                 Any
+                                                                              Taxa de naixements (%)                              Taxa de morts (%)
+
+
+
+
+NP-A097_20260518                                                                                                                                                            Pàg. 6 de 15
+                                       Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+       Gràfic 5. Taxa neta de naixements i morts d'empreses (en percentatge). Anys 2016-2025
+
+
+                                9,00
+                                                                                   7,81
+                                8,00                                       7,29
+                                                                                                        6,74
+                                7,00
+                                       5,84                                                      6,00
+                                6,00                                                      5,67
+                                              4,79   4,69
+                                5,00
+                         Taxa                               3,61
+                                                                   4,01
+                                4,00
+                                3,00
+                                2,00
+                                1,00
+                                0,00
+                                       2016   2017   2018   2019   2020   2021     2022   2023   2024   2025
+                                                                       Any
+                                                                   Taxa neta (%)
+
+
+
+
+NP-A097_20260518                                                                                               Pàg. 7 de 15
+                                             Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      2. Supervivències d’empreses
+
+
+      Es tenen en compte les empreses que continuen actives en cadascun dels sis anys següents.
+
+
+      El primer any de vida és quan es produeixen els descensos d’empreses més baixos, amb taxes de
+      supervivència del 97,18% (any 2017) o superiors.
+      És important destacar que el 89,99% de la població d’empreses nascudes el 2023 seguien vives a
+      finals de l’any 2025.
+
+
+      La taula 3 s’ha obtingut a partir del seguiment temporal de les poblacions d’empreses nascudes en un
+      any determinat. Els indicadors de supervivència s’han calculat per un període màxim de sis anys.
+
+
+
+       Taula 3. Supervivències de les empreses nascudes des de l'any 2016 (en %)
+
+                                                                         Any d'observació
+        Any de naixement
+                              2016           2017     2018     2019       2020           2021     2022         2023        2024      2025
+             2016             98,06          93,03   88,17    85,09      83,63          80,79     78,77        76,50       75,04     72,53
+             2017                 -          97,18   93,47    89,24      86,51          82,89     80,86        79,01       77,07     75,13
+             2018                 -              -   98,84    94,93      91,37          87,72     85,05        82,74       81,32     78,83
+             2019                 -              -       -    97,62      94,16          90,10     86,63        84,36       81,88     78,91
+             2020                 -              -       -        -      97,78          93,02     87,87        85,14       82,00     79,47
+             2021                 -              -       -        -          -          98,47     93,59        89,84       86,38     83,60
+             2022                 -              -       -        -          -              -     98,65        95,48       91,77     89,03
+             2023                 -              -       -        -          -              -            -     98,41       93,64     89,99
+             2024                 -              -       -        -          -              -            -         -       98,60     95,10
+             2025                 -              -       -        -          -              -            -         -           -     98,62
+
+
+
+
+      Analitzant amb més detall la pèrdua d’efectius, la taula 4 quantifica les desaparicions d’empreses en
+      els seus tres primers anys de vida, prenent com a referència els grups d’empreses nascudes en sis
+      anys consecutius.
+
+
+      En aquest sentit, el 3,50% (que es calcula com la diferència entre la taxa de supervivència a l’any t i la
+      taxa de supervivència a l’any t+1) de les empreses nascudes durant l’any 2024 han desaparegut
+      després del seu primer any de vida. En canvi, el 4,77% de les empreses nascudes durant l’any 2023
+      van desaparèixer després del seu primer any.
+
+
+
+       Taula 4. Desaparicions d'empreses en els tres primers anys de vida (en %)
+
+                           Grups segons l'any de
+                                                      Any 1 de vida   Any 2 de vida     Any 3 de vida        Acumulat
+                                naixement
+                                      2024                     3,50
+                                      2023                     4,77              3,65                -                 -
+                                      2022                     3,18              3,71            2,74              9,62
+                                      2021                     4,88              3,75            3,46            12,09
+                                      2020                     4,75              5,16            2,73            12,64
+                                      2019                     3,47              4,06            3,47            10,99
+                                      2018                     3,91              3,56            3,65            11,12
+                                      2017                     3,70              4,23            2,73            10,67
+                                      2016                     5,02              4,86            3,08            12,97
+
+
+
+
+NP-A097_20260518                                                                                                                   Pàg. 8 de 15
+                                               Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+       Gràfic 6. Desaparicions acumulades d'empreses en els tres primers anys de vida, per any de
+       naixement (en %)
+
+
+                                           14,00   12,97                                12,64
+                                                                                                  12,09
+                                           12,00                   11,12      10,99
+                                                           10,67
+                                                                                                          9,62
+                                           10,00
+
+
+
+
+                          Taxa acumulada
+                                            8,00
+
+                                            6,00
+
+                                            4,00
+
+                                            2,00
+
+                                            0,00
+                                                   2016    2017     2018      2019       2020     2021    2022
+                                                                       Any de naixement
+                                                                   Desaparicions acumulades (%)
+
+
+
+
+NP-A097_20260518                                                                                                 Pàg. 9 de 15
+                                   Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      3. Nota metodològica
+
+      L’objectiu general de la demografia harmonitzada de les empreses és proporcionar informació
+      agregada relativa a la població de les empreses implantades en el territori a partir de les principals
+      fonts administratives, prenent en consideració els aspectes vinculats al dinamisme empresarial i
+      aplicant una metodologia acordada en l’àmbit de la Unió Europea inclosa en el Reglament (UE) núm.
+      2019/2152 del Parlament Europeu i del Consell del 27 de novembre del 2019 relatiu a les
+      estadístiques empresarials europees que deroga deu actes jurídics en l’àmbit de les estadístiques
+      empresarials.
+
+
+
+
+          •   Font de dades i referència temporal:
+
+      Els processos desenvolupats per a l’obtenció dels indicadors demogràfics prenen com a punt de
+      partida les dades contingudes dins del registre estadístic d’empreses generat per el Departament
+      d’Estadística. Aquestes dades són revisades i tractades, tenint en compte els canvis més importants
+      relatius tant a l’existència com a les principals característiques de les empreses registrades, i es
+      troben disponibles a la web www.estadistica.ad
+
+
+      Aquest registre es nodreix principalment de:
+
+
+              -    Les dades anuals generades a partir del Registre de Societats Mercantils del Govern
+                   d’Andorra, el qual registra la inscripció de les societats mercantils, de les sucursals de
+                   societats estrangeres i de les societats cooperatives d’acord amb el que està establert per
+                   la Llei 20/2007, del 18 d’octubre, de societats anònimes i de responsabilitat limitada i per
+                   la Llei 5/2015, del 15 de gener, de societats cooperatives d’Andorra, i dels actes i
+                   contractes relatius a aquests actes que determinen la Llei i el Reglament del Registre de
+                   Societats Mercantils, i la Llei de societats cooperatives d’Andorra.
+
+
+              -    Les dades anuals generades a partir del Registre de Comerç del Govern d’Andorra, el
+                   qual estableix el règim substantiu per a l’exercici del comerç, la regulació administrativa
+                   de les activitats comercials i la disciplina de les noves tipologies específiques de venda.
+                   d’acord amb el que està establert per la Llei 12/2013, del 13 de juny, del comerç.
+
+
+              -    Les dades anuals generades a partir del Registre de Professionals Titulats, Col·legis i
+                   Associacions Professionals del Govern d’Andorra, el qual registra la inscripció de les
+                   persones físiques que sol·liciten l’autorització d’exercici d’una professió titulada d’acord
+                   amb el que estableix la Llei 6/2008, del 15 de maig, d'exercici de professions liberals i de
+                   col·legis i associacions professionals, i el Decret del 13-08-2014 d’aprovació del
+                   Reglament del Registre de Professionals Titulats, Col·legis i Associacions Professionals
+                   (BOPA núm. 49, 20-8-2014).
+
+
+
+NP-A097_20260518                                                                                        Pàg. 10 de 15
+                                   Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+              -    Les dades anuals generades per les diverses fonts tributàries:
+
+
+                       o   Impost de societats: es tracta d’un impost de caràcter directe i naturalesa
+                           personal que grava la renda de les persones jurídiques que tinguin la
+                           consideració de residents fiscals en territori andorrà, regulat per la Llei 95/2010,
+                           del 29 de desembre.
+
+
+                       o   Impost sobre la renda de les persones físiques: es tracta d’un tribut de caràcter
+                           directe i naturalesa personal que grava la renda obtinguda per les persones
+                           físiques que tinguin la consideració de residents fiscals en territori andorrà
+                           regulat, per la Llei 5/2014, del 24 d’abril.
+
+
+
+
+          •   Definicions:
+
+      Empresa: segons el Reglament del Consell 696/93 sobre unitats estadístiques, es defineix com la
+      més petita combinació d’unitats legals que constitueix una unitat organitzativa per a la producció de
+      béns o serveis i que gaudeix d’un cert grau d’autonomia en la presa de decisions, especialment per a
+      l’assignació dels seus recursos. L’empresa exerceix una o més activitats en un o en diversos llocs.
+      L’empresa pot correspondre a una unitat legal independent, a un grup de societats o a una part
+      autònoma d’un grup.
+
+
+      Estoc d’empreses: conjunt d’unitats que han romàs obertes i, que poden estar actives o inactives,
+      durant tot o part de l’any. Es comptabilitzen les empreses que romanen actives al final del període
+      més les empreses que han cessat totalment les seves activitats al llarg del mateix.
+
+
+              -    Empreses actives: conjunt d’unitats que estan legalment vives i tenen personalitat
+                   jurídica i que tenen alguna activitat econòmica.
+
+
+              -    Empreses inactives: conjunt d’unitats que estan legalment vives i tenen personalitat
+                   jurídica però no han tingut cap activitat durant un període d’almenys dos anys. A més,
+                   existeix la possibilitat que aquestes empreses puguin reiniciar la seva activitat d’una
+                   manera que compleixin amb la definició de continuïtat. En termes de demografia
+                   empresarial, aquest fet no constitueix un naixement o una mort d’empresa.
+
+
+      Naixements d’empreses: conjunt d’unitats que al llarg de l’any han creat una combinació de nous
+      factors de producció. No existeix vinculació amb altres empreses anteriorment existents.
+
+
+      Morts d’empreses: conjunt d’unitats que al llarg de l’any han dissolt tots els seus factors de
+      producció. No tenen vinculació amb altres empreses que podrien començar a operar.
+
+
+
+
+NP-A097_20260518                                                                                        Pàg. 11 de 15
+                                    Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      Supervivències d’empreses: restringit a cada cohort de naixements, correspon al conjunt d’unitats
+      que continuen actives en cadascun dels cinc anys següents.
+
+
+
+
+          •   Metodologia i procediments:
+
+      Aquesta metodologia proporciona les directrius que permeten identificar poblacions i generar
+      indicadors relatius a l’estoc, als naixements, a les morts i a les supervivències de les empreses
+      mitjançant l’explotació estadística harmonitzada del registre estadístic d’empreses gestionat pel
+      Departament d’Estadística.
+      La informació obtinguda a escala nacional té per objectiu satisfer els requeriments legals del
+      Reglament (CE) núm. 2019/2152 i forma part del conjunt d’indicadors estructurals de la Unió Europea,
+      essencials per avaluar anualment la situació i evolució de l’economia europea.
+
+
+      Pel que fa a l’estoc d’empreses, es determina una vegada han finalitzat els processos de revisió i
+      manteniment anual del registre estadístic creat, considerant el conjunt d’empreses actives a final
+      d’any més les empreses que han cessat totalment les seves activitats al llarg del mateix any.
+
+
+      En relació amb els naixements d’empreses, l’objectiu és produir dades sobre la creació d’empreses
+      que han començat des de zero i que realment han començat a mobilitzar nous factors de producció.
+      Per tant, s’exclouen del directori les altes d’unitats legals degudes a fusions, escissions o
+      reestructuracions internes d’un grup d’empreses a més dels casos següents, que no es consideren un
+      naixement:
+
+
+                   -   Canvis de forma legal d’una empresa existent.
+                   -   Empreses reactivades després d’un cessament de les seves activitats.
+                   -   Unions temporals d’empreses que no impliquen la creació de nous factors de
+                       producció.
+
+
+      En relació amb les morts d’empreses, i igual que amb els naixements, no s’han de comptabilitzar les
+      baixes degudes a fusions, escissions o reestructuracions internes d’un grup d’empreses.
+      Pel que fa a les supervivències d’empreses, una empresa activa l’any anterior es considera que ha
+      sobreviscut durant l’any en curs si:
+
+
+                   -   La unitat que serveix de suport legal principal de l’empresa roman activa durant l’any
+                       en curs (supervivència sense canvis).
+
+
+      Aquest fenomen de supervivència s’ha d’observar sempre entre dos anys consecutius. Així, una
+      empresa nascuda durant l’any t-2 s’ha de considerar que ha sobreviscut durant l’any t únicament si
+      també va estar activa durant l’any t-1.
+
+
+
+
+NP-A097_20260518                                                                                      Pàg. 12 de 15
+                                   Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+          •   Indicadors demogràfics:
+
+      Els indicadors següents quantifiquen la importància relativa dels fenòmens de creació o destrucció
+      d’empreses dins del teixit empresarial andorrà. El fenomen de supervivències és similar però prenent
+      com a referència la població de naixements detectats en el període inicial observat. Així, es troben els
+      indicadors següents:
+
+
+              Taxa de naixements
+
+
+
+
+              on Nt és igual als naixements d’empreses durant l’any t i Et és igual a l’estoc d’empreses
+              durant l’any t
+
+
+              Taxa de supervivències
+
+
+
+
+              on St+k és igual a les supervivències d’empreses a finals de l’any t+k amb k = 1,2,... i Nt és
+              igual als naixements d’empreses durant l’any t
+
+
+              Taxa de morts
+
+
+
+
+              on Mt és igual a les morts d’empreses durant l’any t i Et és igual a l’estoc d’empreses durant
+              l’any t
+
+
+              Desaparicions d’empreses
+
+
+      Les taxes de desaparicions de les empreses es calculen com la diferència entre les taxes de
+      supervivència de l’any t i les taxes de supervivències de l’any t+1.
+
+
+
+
+      Durant aquest any, s’han revisat les dades anteriors i s’han aplicat varies millores
+      metodològiques a tota la sèrie històrica, i en conseqüència els resultats obtinguts en aquesta
+      edició poden diferir amb els de l’anterior edició.
+
+
+
+
+NP-A097_20260518                                                                                       Pàg. 13 de 15
+                                     Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+          •   Referències metodològiques:
+
+                    -    Reglament (UE) núm. 2019/2152 del Parlament Europeu i del Consell del 27 de
+                         novembre del 2019 relatiu a les estadístiques empresarials europees que deroga deu
+                         actes jurídics en l’àmbit de les estadístiques empresarials.
+                    -    Eurostat Business Registers – Recommendations Manual. (2010).
+                    -    United Nations Guidelines on Statistical Business Registers (2020).
+
+
+
+
+          •   Marc legal:
+
+
+      D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu desplegament en el
+      Programa estadístic per a l’any 2026, aquest informe dona resposta a l’activitat estadística:
+
+
+                    -    A097 Demografia harmonitzada de les empreses
+
+
+
+
+          •   Citació:
+
+
+              Per a qualsevol utilització de la informació continguda en aquesta nota de premsa gràcies de
+              citar “Dades del Departament d’Estadística per a la Nota de Premsa ref. NP-A097_20260518”.
+
+
+
+
+          •   Difusió:
+
+
+              Les       dades   anuals    estan    disponibles    al   web     www.estadistica.ad   a   l’apartat
+              Estadístiques/Dades - Estadístiques de les empreses - Demografia Empresarial - Registre
+              d’empreses.
+
+
+
+
+          •   Contactes:
+
+
+              Per estar informat en qualsevol moment de les noves publicacions us podeu inscriure a la
+              nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les notes de
+              premsa d’aquest tema: www.estadistica.ad Amb l’objectiu de maximitzar la difusió de la
+              informació estadística d’Andorra, les Notes de Premsa del Departament d’Estadística es
+              podran seguir també per X (antic TWITTER).
+
+
+
+
+NP-A097_20260518                                                                                         Pàg. 14 de 15
+                                Demografia harmonitzada de les empreses. Any 2025
+
+
+
+
+      4. Dates de les properes publicacions previstes
+
+      Nota de premsa “A097. Demografia harmonitzada de les empreses. Any 2026”: segon trimestre del
+      2027
+
+
+
+
+NP-A097_20260518                                                                           Pàg. 15 de 15
+

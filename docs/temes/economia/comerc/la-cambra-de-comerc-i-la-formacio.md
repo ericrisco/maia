@@ -261,8 +261,14 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
 - **Quins bancs** van finançar els cursos i amb quant.
 - **Quantes empreses i quantes persones** van passar per la formació contínua.
 - **Es van crear les «vies de formació ocupacional»** més flexibles?
-- **Sèries salarials andorranes**, de qualsevol any. **Buit transversal
-  prioritari.**
+- ~~**Sèries salarials andorranes**, de qualsevol any. **Buit transversal
+  prioritari.**~~ — **`resolt` el 17-09-2026 per la via d'Estadística**: la nota
+  **A149. Estadística de salaris** és **mensual** i dona mitjà, medià, massa
+  salarial i desglossament per sector i per ocupació. El corpus en té el maig
+  del 2026 —**44.729 assalariats, mitjà 2.760,46 €, medià 2.235,73 €**— a
+  [el mínim contra el que es cobra de veritat](../../societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat).
+  `El calendari de publicació és a `raw/estadistica-treball/README.md`; les
+  sèries anteriors al 2025 encara s'han de baixar nota a nota.`
 - **Es van obrir «sectors nous»** per als universitaris? Aquesta pregunta té
   **vint-i-sis anys** i el corpus no en sap la resposta.
 - **La Cambra avui**: estructura, sectors, xifres.
