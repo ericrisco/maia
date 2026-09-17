@@ -129,6 +129,62 @@ règim (article 91).
 Les dues suspensions tenen **un any de sostre** (article 92). I la primera no pot
 afectar els terrenys que ja tenen els serveis bàsics ni els equipaments públics.
 
+## El sòl que no es pot tocar, i les set portes per tocar-lo
+
+**Dues regles fan sòl no urbanitzable sense que ningú ho hagi de decidir**
+(article 38): **els terrenys afectats per un nivell alt de perillositat natural**
+—que els plans parroquials «han de» qualificar així— i, sense matisos,
+**«tots els terrenys dels comuns i dels quarts»**. La segona és la que decideix el
+país: **el sòl comunal és no urbanitzable per definició legal**.
+
+**La prohibició és tan ampla com es pot escriure.** L'article 39: **cap treball o
+activitat que comporti modificació de l'estat natural del terreny, moviment de
+terres, extracció de pedra, grava o sorra, tala d'arbres, obertura de pistes o
+camins, construcció o instal·lació de cap mena** és autoritzat en sòl no
+urbanitzable. I l'article 41 hi afegeix que **aquestes limitacions «tenen el
+caràcter de mínimes»**: els plans parroquials **poden protegir més, mai menys**.
+
+**Els plans el divideixen en set categories** (article 42): **sòl forestal**,
+**agrícola i ramader**, **zones de protecció d'aigües**, **zones de protecció
+natural**, **itineraris d'interès**, **zones exposades a perillositats naturals**
+i **sòl sense designació específica**.
+
+**I l'article 51 hi obre set portes, una per categoria.** En sòl forestal,
+agrícola i ramader s'hi poden fer **pistes i camins de muntanya, tallafocs,
+bordes i cabanes de tipologia de muntanya no destinades a habitatge permanent,
+les instal·lacions agropecuàries** —cobert, cort, era o paller, galliner, celler,
+pleta, planter i hivernacle—, **pistes d'esquí amb les seves infraestructures**,
+**agençaments per a excursions i escalada** i, **en sòl públic, refugis de
+muntanya**. A les zones de perillositat, **només el que protegeix persones i béns
+i, amb un estudi detallat de risc, els usos agropecuaris i de magatzem**. I la
+porta més nova: **en zones amb potencial per a energies renovables, la
+instal·lació d'infraestructures energètiques**.
+
+**La diferència entre provisional i permanent és la que decideix què hi queda
+dret.** **Només les instal·lacions pròpies de les activitats forestals i
+agropecuàries** es permeten **en règim d'obres permanents** (article 51.4), i
+encara amb condicions dures: **no es poden construir accessos nous a través de
+terreny comunal ni dels quarts**, **ni murs de contenció, esculleres, gabions,
+ancoratges, cunetes formigonades ni pavimentació**, **la rasant no pot variar més
+de mig metre** i **els desmunts i terraplenats no poden pujar més d'un metre** i
+han de ser vegetalitzats. **La resta és provisional.** I quan l'activitat cessa,
+**el titular té dos anys per enderrocar-ho a càrrec seu i reposar el terreny a
+l'estat inicial**, prorrogables **dos anys més** si el comú ho concedeix.
+
+**El sòl urbanitzable és una categoria residual i un estat de trànsit.** L'article
+28 el defineix per exclusió: **tot el que no és urbà ni no urbanitzable**. L'article
+29 hi afegeix **els terrenys que necessiten obres d'urbanització que afectin més
+del 60% de la seva unitat d'actuació**, **sigui quina sigui la qualificació
+anterior**. I l'article 30 diu què s'hi pot fer mentre espera: **les mateixes
+actuacions d'excepció que en sòl no urbanitzable**, però **les dels apartats 4, 5
+i 6 de l'article 51 només en règim d'autorització provisional**. **Passa a ser
+urbà quan s'aprova el seu pla parcial o especial, i només es pot edificar quan els
+treballs d'urbanització estan executats.**
+
+**Dues coses no necessiten permís de ningú** (article 52): **la crema de vegetació
+i el desbrossament per aprofitar la llenya**, sempre que **no comportin tala
+d'arbres**.
+
 ## Buits registrats
 
 - **Els comuns poden ser més restrictius** que la llei (article 27.2, final), i
@@ -136,7 +192,10 @@ afectar els terrenys que ja tenen els serveis bàsics ni els equipaments públic
   parròquia es decideix allà.
 - **Les 20 versions no s'han comparat.** És una de les lleis més retocades del
   país i no en tenim la història.
-- **El sòl no urbanitzable** i el règim del **sòl urbanitzable** no s'han llegit.
+- ~~**El sòl no urbanitzable** i el règim del **sòl urbanitzable** no s'han
+  llegit.~~ — **`resolt` el 17-09-2026** a «[El sòl que no es pot tocar, i les set
+  portes per tocar-lo](#el-sol-que-no-es-pot-tocar-i-les-set-portes-per-tocar-lo)»
+  (`docs/raw/lleis/ordenacio-territorial.txt`, articles 28 a 30 i 38 a 52).
 - **La Comissió Tècnica d'Urbanisme** (títol VIII) i el règim sancionador
   (títol XI) queden pendents.
 - **Cap dada**: quant sòl hi ha de cada classe, quanta edificabilitat s'ha
