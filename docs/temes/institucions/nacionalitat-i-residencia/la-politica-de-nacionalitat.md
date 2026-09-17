@@ -225,7 +225,37 @@ ni al Vaticà.**
   per matrimoni ni per filiació i no dona accés als drets polítics.**
   **Andorrans mentre duri la feina, i sense vot.**
 - **Els drets econòmics dels estrangers a Andorra**: quin percentatge de societat
-  podien posseir i des de quan.
+  podien posseir i des de quan. — **`parcial` el 17-09-2026 al
+  [BOPA](../../../fonts/bopa.md)**: **el «des de quan» queda datat amb
+  precisió des del 2008; el límit clàssic d'abans, no.**
+
+  | Data | Norma | Què canvia |
+  | --- | --- | --- |
+  | **8 d'abril del 2008** | **Llei 2/2008, d'inversions estrangeres** (`docs/raw/lleis/bopa/llei-2-2008-inversions-estrangeres.txt`) | **Obre el 100% del capital, però només a les activitats d'un annex**, i **sotmet a autorització prèvia del Govern tota participació estrangera igual o superior al 50%** |
+  | 18 de desembre del 2008 | Llei 36/2008, de modificació de l'anterior | |
+  | **21 de juny del 2012** | **Llei 10/2012, d'inversió estrangera** (`docs/raw/lleis/bopa/llei-10-2012-inversio-estrangera.txt`) | **Suprimeix l'annex i el límit**: **l'obertura passa a ser general** |
+  | 7 de setembre del 2023 | Llei 16/2023 | **Suspèn transitòriament la inversió estrangera en immobles** |
+  | 1 de febrer del 2024 | Llei 3/2024 | **Crea l'impost sobre la inversió estrangera immobiliària** |
+
+  **La liberalització del 2012 no és de percentatge sinó de règim.** **Deixa
+  d'haver-hi un sostre de participació i el que queda és una autorització que
+  el ministeri «únicament pot denegar, sempre de forma motivada», quan la
+  inversió pugui perjudicar «l'exercici del poder públic, la sobirania i la
+  seguretat nacional, l'ordre públic i econòmic, el medi ambient…»**
+  (article 2.2), **més el veto automàtic als inversors de països no
+  cooperatius del GAFI** (article 2.1). **Es passa d'un límit numèric a un
+  filtre discrecional motivat.**
+
+  **I la mateixa llei del 2012 diu, en la seva exposició de motius, que la del
+  2008 no va funcionar**: «**quatre anys després del camí encetat per aquella
+  reforma [...] s'ha constatat que les mesures impulsades no han estat
+  suficients per assolir els objectius que s'havien previst**».
+
+  **El que segueix obert és el règim anterior al 2008** —**el percentatge
+  clàssic de participació màxima d'un estranger en una societat andorrana i la
+  norma que el fixava**. `Requereix una font anterior al 1989: el BOPA comença
+  aquell any i la Llei 2/2008 deroga «totes les disposicions d'igual o inferior
+  rang que s'hi oposin» sense anomenar-ne cap.`
 - **La bibliografia internacional sobre microestats**, que aquesta és l'única
   font que el corpus té que la nomeni:
   - **Armstrong & Read** (1998, 2000) — economia comparada de microestats.
