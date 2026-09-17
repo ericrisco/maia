@@ -353,12 +353,65 @@ ningú.**
   Superior de la Justícia o del Ministeri Fiscal.`
 - **Quant s'ha comissat en benefici de l'Estat andorrà** per l'article 39.
   **La regla és clara i la xifra no existeix al corpus.**
-- **L'article 194 del Codi de procediment penal**, que fixa les formes i els
+- ~~**L'article 194 del Codi de procediment penal**, que fixa les formes i els
   terminis del recurs en tres punts d'aquesta llei, i **els articles 190, 191 i
   192 del Codi penal**, que defineixen els secrets de l'article 35. **Els dos
-  codis són al recull i aquests articles no s'han llegit.**
-- **L'article 207.3 del Codi de procediment penal**, que regula com es recull el
-  consentiment de la persona detinguda que serà traslladada (article 12).
+  codis són al recull i aquests articles no s'han llegit.**~~ — **`resolt` el
+  17-09-2026: llegits tots quatre, i el 192 bis de propina.**
+
+  **L'article 194 del Codi de procediment penal és un article-llista**, i **el
+  termini és el mateix per a tot: cinc dies des de la notificació.** **Són
+  apel·lables davant del Tribunal de Corts les resolucions del batlle instructor
+  que arxiven les diligències, desestimen la denúncia o la querella, estimen una
+  querella impugnada per vicis de capacitat, **decreten el secret total o
+  parcial de les diligències o del sumari**, decreten el sobreseïment, acorden o
+  deneguen la presó o la llibertat provisional **o qualsevol mesura preventiva
+  de caràcter personal o econòmic**, o deneguen el processament.
+
+  **El que importa per a aquesta fitxa és que el secret del sumari i les mesures
+  econòmiques preventives —les que congelen béns abans del comís— són
+  recurribles en cinc dies.**
+
+  **Els articles 190 a 192 del Codi penal són tres i fan una escala:**
+
+  | Article | Conducta | Pena |
+  | --- | --- | --- |
+  | **190** | **revelar secrets aliens de caràcter personal** coneguts per ofici o relació laboral | **presó de 3 mesos a 3 anys** |
+  | **191** | **el professional** que revela secrets incomplint el deure de reserva | **3 mesos a 3 anys** i **inhabilitació fins a 6 anys** |
+  | **192** | **l'obligació no s'acaba amb la feina**: continua sent punible «malgrat que la persona hagi deixat d'exercir la professió o l'ofici, o hagi cessat la seva relació contractual» | — |
+  | **192 bis** | fer-ho **per mitjans de comunicació, Internet o altres tecnologies**, de manera accessible a moltes persones, **o amb ànim de lucre** | **la meitat superior** de les penes anteriors |
+
+  **I l'article 190 porta una excepció que retrata el país**: **no hi queda
+  compresa «la informació privada facilitada amb finalitat de garantia entre els
+  administradors d'establiments bancaris o financers del Principat, relativa
+  estrictament als crèdits acordats o als riscos assumits a un dels seus
+  clients».** **Els bancs andorrans es poden passar informació de risc dels
+  clients entre ells sense cometre revelació de secrets**, i **és una excepció
+  escrita a mida d'una plaça financera petita**
+  ([la supervisió financera](../../economia/banca-i-fiscalitat/la-supervisio-financera.md)).
+- ~~**L'article 207.3 del Codi de procediment penal**, que regula com es recull el
+  consentiment de la persona detinguda que serà traslladada (article 12).~~ —
+  **`resolt` el 17-09-2026.**
+
+  **El consentiment el rep el president del Tribunal de Corts o el seu delegat,
+  en presència del lletrat del condemnat**, i **la llei li imposa dues
+  comprovacions**: **«s'ha d'assegurar del caràcter realment voluntari d'aquesta
+  decisió i de que el condemnat és plenament conscient de les conseqüències
+  jurídiques que se'n deriven».**
+
+  **Després es dicta aute, es notifica a les parts i es tramet a Interior i a
+  Relacions Exteriors.** **I hi ha una verificació externa que el corpus no
+  tenia**: **abans del trasllat, «les autoritats andorranes han de permetre a
+  l'estat d'execució de verificar, per mitjà d'un cònsol o de qualsevol
+  funcionari designat a l'efecte», que el consentiment reuneix aquests
+  requisits.** **L'estat que rebrà el pres pot comprovar per si mateix que el
+  consentiment és bo.**
+
+  **I el 207.1 dona la regla general que emmarca tot això**: **el condemnat
+  ingressa en un establiment penal andorrà «llevat que, per convenis o acords
+  internacionals, es disposi altrament»**, i **quan compleix a l'estranger «li
+  són d'aplicació les normes d'aquest centre»**
+  ([la llei penitenciària](../justicia/la-llei-penitenciaria.md)).
 
 ## Related
 
