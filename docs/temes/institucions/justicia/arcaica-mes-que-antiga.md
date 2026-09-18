@@ -293,10 +293,13 @@ tandes.**
 3. **La campanya de les Corts contra els usurers del 75 %**: **quan, amb quins
    documents i amb quin resultat.** **La font l'esmenta a la Conclusió i el
    corpus no té la unitat que la documenti.** **Prioritari.**
-4. **El ***mostafà*** com a càrrec judicial.** **La Conclusió l'enumera entre els
+4. ~~**El ***mostafà*** com a càrrec judicial.** **La Conclusió l'enumera entre els
    oficis que evoquen l'antic dret** —**al costat dels *banders***— **i el corpus
-   el té per la branca de comuns i no per la de justícia.**
-   `Requereix creuar les dues fitxes.`
+   el té per la branca de comuns i no per la de justícia.**~~ — **`parcial` el
+   19-09-2026**: la fitxa dedicada [El qui tastava el vi i posava el preu de la
+   fruita](./el-qui-tastava-el-vi-i-posava-el-preu-de-la-fruita.md) ja documenta
+   les funcions i els nomenaments del *mostafà*; queda oberta només la
+   classificació exacta com a càrrec judicial.
 5. **Si el dret canònic es va afeblir efectivament** després de 1904, com la font
    preveia. **Fora de l'abast d'aquesta obra.**
 6. **La llista dels «aportaments castellans»**, **que el corpus té per
