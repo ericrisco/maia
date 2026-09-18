@@ -142,13 +142,27 @@ dues són andorranes.**
 
 ## El que falta
 
-- **Quins vins fa el celler**, quines varietats i des de quin any comercialitza.
-- **Si hi ha altres cellers** a Andorra, i quants.
+- ~~**Quins vins fa el celler**, quines varietats i des de quin any
+  comercialitza.~~ — **`resolt` el 18-09-2026**: **Evolució Pinot Noir i
+  Evolució Syrah** —**els primers negres monovarietals d'Andorra**— i el
+  blanc **Imagine Blanc de Neu** (Albariño, Viognier, Pinot Gris), **ben
+  qualificats en concursos internacionals des de l'anyada 2011**
+  ([font](../../../fonts/donasecret-celler-auvinya.md)). **Gestionat per
+  Esteve Tor** —**coincideix amb l'autor de la ponència font d'aquesta
+  fitxa**—, **Elena Clemente, Martí Magrinà i Cristina Tor.**
+- ~~**Si hi ha altres cellers** a Andorra, i quants.~~ — **`resolt` el
+  18-09-2026**: **cinc en total** —Borda Sabaté, Casa Auvinyà, Casa Beal,
+  Celler Mas Berenguer i Casus Belli
+  ([font](../../../fonts/wikipedia-ca-vi-andorra.md)).
 - **La taula d'índexs bioclimàtics** de la ponència —índex hidrotèrmic,
   producte heliotèrmic, ITE, possibilitat heliotèrmica, índex de Davitaja, valor
   bioclimàtic—, que és **una figura** i el text no en dona els valors.
 - **L'última referència documental** de la vinya històrica. **Prioritari.**
-- **La superfície de vinya d'Andorra** avui, en total.
+- ~~**La superfície de vinya d'Andorra** avui, en total.~~ — **`resolt` el
+  18-09-2026**: **prop de 20 hectàrees en total**, repartides entre els cinc
+  cellers, **majoritàriament varietats importades** —Riesling, Gewürztraminer,
+  Cornalin, Pinot Noir— **sense varietats autòctones des de la fil·loxera del
+  segle XIX** ([font](../../../fonts/wikipedia-ca-vi-andorra.md)).
 - **Si el ministeri d'Agricultura** ha fet més plans com el del 2005.
 - **Què passa amb la verema des del 2016.**
 
