@@ -572,7 +572,10 @@ precisament el que Joan Massa advertia al mateix volum.
    fitxa al corpus.
 5. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
    corpus no en té res.
-6. **L'any d'entrada d'Andorra a la UNESCO.**
+6. ~~**L'any d'entrada d'Andorra a la UNESCO.**~~ — **`resolt` el
+   18-09-2026**: **1993** ([font](../../../fonts/unesco-countries-andorra.md)),
+   **no confondre amb l'acceptació de la Convenció del Patrimoni Mundial, del
+   3 de gener del 1997.**
 7. ~~**De qui és la frase** «Andorra és un Estat, però no una nació».~~
    **TANCAT: és d'Antoni López Montanya**, que l'escriu gairebé literalment —
    «Andorra era un estat (entre cometes) i avui, un Estat, però no una nació.

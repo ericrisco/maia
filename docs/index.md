@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **234** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **237** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1729,6 +1729,7 @@
 | [`checkeredflag-llovera-2024`](fonts/checkeredflag-llovera-2024.md) | The Checkered Flag | desconeguda, ús informatiu | False |
 | [`coa-jocs-mediterrani`](fonts/coa-jocs-mediterrani.md) | Comitè Olímpic Andorrà | desconeguda, ús informatiu | False |
 | [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
+| [`comu-encamp-carnaval-2026`](fonts/comu-encamp-carnaval-2026.md) | Comú d'Encamp, Comunicació Encamp | Drets reservats; document institucional | False |
 | [`consell-general-bcg-2018-21`](fonts/consell-general-bcg-2018-21.md) | Consell General, publicador; Ponència i Comissió Legislativa d'Afers Socials | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-bcg-2021-23`](fonts/consell-general-bcg-2021-23.md) | Consell General, publicador; Govern d'Andorra, autor de la resposta | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-constituent`](fonts/consell-general-constituent.md) | Consell General d'Andorra | Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta. | pendent |
@@ -1869,6 +1870,7 @@
 | [`uda-canal`](fonts/uda-canal.md) | Universitat d'Andorra | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube. Verificada a 4 peces el 2026-09-14; no verificada a la resta. | si |
 | [`uda-model-sistemic-2010`](fonts/uda-model-sistemic-2010.md) | Grup de recerca en llengua catalana de la Universitat d'Andorra i els autors · publicat al portal del Govern d'Andorra | sense llicència declarada; el document no porta pàgina de crèdits, ni ISBN, ni dipòsit legal | no |
 | [`unesco-bear-festivities-pyrenees`](fonts/unesco-bear-festivities-pyrenees.md) | UNESCO, Sector de Cultura | Copyright UNESCO; citació i ús de recerca | limitada |
+| [`unesco-countries-andorra`](fonts/unesco-countries-andorra.md) | UNESCO | desconeguda, ús informatiu | False |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valls-enquesta-andorranitat-1994`](fonts/valls-enquesta-andorranitat-1994.md) | Àlvar Valls i Oliva · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1890,6 +1892,7 @@
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ball-ossa-encamp`](fonts/wikipedia-ball-ossa-encamp.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vi-andorra`](fonts/wikipedia-ca-vi-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vpc-andorra-rugby`](fonts/wikipedia-ca-vpc-andorra-rugby.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
