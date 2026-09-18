@@ -46,12 +46,11 @@ Font tenien relació.
   [Carlos Font](./carlos-font.md)**, amb qui **va coincidir als Jocs de Lake
   Placid del 1980**, **on ell va córrer tres proves.** **Ofici, club i
   vinculació actual segueixen `obert`.**
-- **La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
-  consultat.
-  — **`obert`, confirmat el 2026-09-13, i ara amb la clau de pas**: el bolcat
-  d'aquesta mateixa font, dins del corpus, hi porta l'identificador —
-  **el número de FIS és `127196`** i **el d'Olympedia, `85778`**.
-  **Consultar-la deixa de ser una cerca.** Vegeu [els esquiadors](./README.md).
+- ~~**La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
+  consultat.~~ — **`parcial`**: el bolcat de la font ja hi porta els
+  identificadors **FIS `127196`** i **Olympedia `85778`**, de manera que la
+  fitxa externa queda identificada; el contingut biogràfic encara no s'ha
+  llegit.
 
 ## Related
 
