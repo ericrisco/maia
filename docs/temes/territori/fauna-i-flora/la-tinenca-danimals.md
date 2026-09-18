@@ -136,8 +136,8 @@ climàtiques fortes» (article 5.4).
   grau d'amenaça» de cada espècie** —i **aquest reglament no és al corpus.**
 - **Les sancions** i la taxa d'autoritzacions queden pendents.
 - **Quantes autoritzacions d'entrada i sortida es donen**, no consta.
-- **Si hi ha obligació d'identificació i registre** dels animals de companyia
-  —xip, cens comunal— no s'ha comprovat en el que s'ha llegit. — **`parcial` el
+- ~~**Si hi ha obligació d'identificació i registre** dels animals de companyia
+  —xip, cens comunal— no s'ha comprovat en el que s'ha llegit.~~ — **`parcial` el
   18-09-2026, per l'altra banda**: **el registre existeix i es publica**. L'API
   del Departament d'Estadística en dona el recompte, **2010-2025**, font
   **Departament d'Agricultura i Ramaderia** (divisions 2489 i 2493):
