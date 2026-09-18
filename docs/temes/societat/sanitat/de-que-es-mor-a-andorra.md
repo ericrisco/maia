@@ -114,8 +114,25 @@ de 301 morts el 2019 a 419 el 2020**, un **+39,2%**, **el més gran des del
 
 **En canvi, les dues causes lligades a l'edat avançada són les úniques on les
 dones superen els homes a la llista**: sistema nerviós i trastorns mentals.
-`Això és compatible amb el fet que les dones viuen més i el corpus no en té
-l'esperança de vida per sexe en aquesta branca.`
+**I l'esperança de vida ho confirma** (`ESPERANÇA DE VIDA (HOMES) / (DONES) DE
+LA POBLACIÓ`, mateixa font, afegida el 18-09-2026):
+
+| Any | Homes | **Dones** | Diferència |
+| --- | ---: | ---: | ---: |
+| 2016 | 81,2 | 85,6 | **+4,4** |
+| 2019 | 81,1 | **86,9** | **+5,8** |
+| **2020** | **79,4** | 85,7 | +6,3 |
+| 2022 | 81,1 | 85,7 | +4,6 |
+| **2023** | **82,1** | **86,9** | +4,8 |
+| 2024 | 81,4 | 86,7 | **+5,3** |
+
+**Les dones andorranes viuen entre quatre i sis anys més que els homes, cada any
+dels nou mesurats.** **El 2020, l'any de la covid, els homes perden 1,7 anys
+d'esperança de vida i les dones 1,2**: **la diferència s'eixampla fins als 6,3
+anys, el màxim de la sèrie.**
+
+**El 2023 és el màxim per als dos sexes** —82,1 i 86,9— i **el conjunt del país
+arriba a 84,6 anys.**
 
 ## Un defecte de la font, registrat
 
@@ -139,7 +156,11 @@ posterior. **Les xifres es citen totes dues amb la seva font i no s'arbitra.**
   el 2021** sense restar quinquennis, que és una estimació i no una dada.
 - **La classificació exacta que es fa servir** —CIM-9, CIM-10 o una adaptació—
   i **on cau la demència.** `La taula no ho declara.`
-- **L'esperança de vida per sexe**, que no és en aquesta branca de l'API.
+- ~~**L'esperança de vida per sexe**, que no és en aquesta branca de l'API.~~ —
+  **`resolt` el 18-09-2026**: **era en una altra branca del mateix catàleg** i
+  ara és a l'apartat de dalt. **La sèrie va del 2016 al 2024.**
+- **L'esperança de vida anterior al 2016**, que la font no publica.
+  `serie_estadistica`
 - **Per què el total del quinquenni difereix en una o dues morts de la suma
   anual.**
 - **Els suïcidis**, que aquí van dins de «lesions i emmetzinaments» i no es
