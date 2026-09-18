@@ -430,7 +430,8 @@ doni per bones.
    que la fase 3 vol evitar**: **l'ASR no sent malament, sent cap a allò que
    coneix**, i **el que perd és justament el lèxic institucional andorrà.**
 3. **Pot ser llegida.** Si ho és, **no serveix com a mostra de llengua parlada**,
-   encara que el lèxic segueixi valent.
+   encara que el lèxic segueixi valent. `no-es-buit`: és una limitació d'ús de la
+   peça, no una pregunta pendent.
 4. **`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.
 5. **De la persona no consta** ni parròquia, ni generació, ni llengua primera.
 6. **La comparació escrit/parlat no s'ha fet.** Hi ha la mateixa autora en totes

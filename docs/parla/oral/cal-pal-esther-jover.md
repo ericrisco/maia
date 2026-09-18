@@ -379,7 +379,8 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
 
 1. **Les 52 marques no s'han verificat.**
 2. **Pot ser llegida.** Si ho és, el lèxic val igual però **no és mostra de
-   llengua parlada**.
+   llengua parlada**. `no-es-buit`: és una limitació d'ús de la peça, no una
+   pregunta pendent.
 3. **`[?os]`** dins la llista de propietats de la casa **no s'ha resolt**:
    podria ser *horts*, *hostals* o *boscos*, i **cap no s'ha de donar per bona**.
 4. **`Calpal`** hauria de ser **Cal Pal**, dues paraules. La màquina l'ajunta

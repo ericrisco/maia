@@ -305,7 +305,8 @@ està verificada contra l'àudio.**
 
 1. **Les 197 marques no s'han verificat.**
 2. **`esbar` i `ar` no són evidència fonètica.** Veure sobre. **No s'han de citar
-   com a pronúncia documentada.**
+   com a pronúncia documentada.** `no-es-buit`: és un avís d'interpretació, no
+   una pregunta pendent.
 3. **`[?pobilla]`** — **`obert`, i el 16-09-2026 contrastat: no és forma
    documentada.** **El [DCVB](../../fonts/dcvb.md) no té cap entrada `pobilla`**,
    i **el corpus escriu *pubilla* onze vegades**. **Per tant, o és una realització
