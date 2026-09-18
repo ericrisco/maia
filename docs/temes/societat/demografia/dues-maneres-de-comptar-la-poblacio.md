@@ -100,6 +100,8 @@ p. 1, advertiment, i p. 7.)
 - No s'ha comprovat la causa de la diferència negativa del grup andorrà
   ni l'execució de les millores anunciades. Les possibles altes descrites
   per a estrangers no són una explicació d'aquesta diferència.
-- El paràgraf de §3.1, p. 7, compara verbalment juliol de 2026 amb el mateix
+- ~~El paràgraf de §3.1, p. 7, compara verbalment juliol de 2026 amb el mateix
   mes de 2026; la taula identifica les columnes com 2026 07 i 2025 07.
-  Es conserva la discrepància: no s'ha buscat una correcció editorial.
+  Es conserva la discrepància: no s'ha buscat una correcció editorial.~~ —
+  **`no-es-buit` el 19-09-2026**: és una discrepància de redacció conservada
+  com a nota de lectura, no una pregunta de recerca autònoma.

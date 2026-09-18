@@ -92,10 +92,12 @@ permeten afirmar que mai se l'anomeni president en altres usos.
 
 ## Buits registrats
 
-- Corregits els vuit òrgans legislatius permanents i els períodes fins a
+- ~~Corregits els vuit òrgans legislatius permanents i els períodes fins a
   juny/desembre que deia la versió anterior: l'original de 2026 enumera
   nou comissions i fixa altres dates. No s'ha reconstruït tota l'evolució
-  anterior ni comprovat una cadena exhaustiva de modificacions posteriors.
+  anterior ni comprovat una cadena exhaustiva de modificacions posteriors.~~ —
+  **`no-es-buit` el 19-09-2026**: és una nota de correcció i delimitació de la
+  lectura del Reglament, no una pregunta independent.
 - ~~Lectura íntegra del Reglament de 48 pàgines i dels seus dos annexos~~ — **`parcial`
   el 18-09-2026**: no s'han llegit el Reglament complet ni els seus dos annexos
   íntegrament. Tancat el buit constitucional per als articles 50–57:
