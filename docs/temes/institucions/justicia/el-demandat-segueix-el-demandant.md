@@ -253,9 +253,18 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 
 ## Buits registrats
 
-1. **La divergència «Reforma de 1866» / «Reforma de 1886».** **Registrada i no
-   arbitrada.** **Prioritari**: **el corpus cita articles d'aquest text en tres
-   articles i no en té el text.** `Requereix la Reforma, apèndix pp. 12-14.`
+1. **La divergència «Reforma de 1866» / «Reforma de 1886».** — **`parcial` el
+   18-09-2026, i la premissa de la segona meitat era falsa**: **el corpus sí que
+   té el text.** **Les quatre bases i els setze articles són a l'apèndix D de
+   Ríos Urruti, pp. 150-161**, llegits i destil·lats
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)),
+   **i el text hi va datat del decret del bisbe Caixal del 22 d'abril de 1866**.
+
+   > **Això no arbitra la divergència, però la desplaça.** **Si el text que el
+   > corpus té és de 1866 i hi ha fonts que en diuen «Reforma de 1886», el que
+   > cal explicar ja no és quin text és sinó ***d'on surt la segona data***.**
+   > **Una errata de premsa i una reforma distinta són dues hipòtesis, i el
+   > corpus no en tria cap.**
 2. **Cap cas documentat de plet reprès davant de l'altre batlle** després
    d'haver-lo perdut. **La font ho dona com a temptació forçosa i no en cita
    cap.**

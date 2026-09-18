@@ -236,9 +236,25 @@ quart, «de tal manera que cada veïnat important hi sigui representat».**
 1. **La norma del referèndum que departeix els cosenyors.** **Vilar diu «legalment
    investit» i no cita cap llei, cap precedent ni cap cas.** **PRIORITARI**: **és
    l'afirmació de més abast de tot el capítol i la que menys suport porta.**
-2. **El text de la Reforma de 1866**, i **en particular els articles 8, 10 i 13 i
-   la Introducció.** **Segona tanda que el corpus els cita a través de Vilar.**
-   **Prioritari.**
+2. ~~**El text de la Reforma de 1866**, i **en particular els articles 8, 10 i
+   13 i la Introducció.** **Segona tanda que el corpus els cita a través de
+   Vilar.**~~ — **`resolt` el 18-09-2026**: **el text és al corpus des del 15 de
+   setembre**, a l'apèndix D de Ríos Urruti
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)), **i els tres
+   articles hi són tractats.**
+
+   **L'article 8è** organitza la renovació per meitats i **permet deduir el
+   nombre de consellers**: **«se posarán en un urna los noms de tots los
+   individuos del comú a excepció dels dos cónsuls… y sobre los vuit que's
+   posarán a la sort, se traurán cinch papeletes»** —**dos cònsols més vuit fan
+   deu, i cinc n'és la meitat**. **L'article 13è** dona **els tres graus de la
+   visura** —quatre persones, deu, vint-i-cinc—. **I l'article 16è** dona **el
+   règim de llicència per demandar l'autoritat, amb recurs al Príncep Sobirà si
+   la neguen.**
+
+   `El que segueix obert és la transcripció dels articles que la fitxa de
+   destil·lació no cita —el 2, 4, 6, 11, 14 i 15—, que és lectura pendent i no
+   document absent.`
 3. **Si la regla de l'article 10 es va aplicar mai**, en un cas o en l'altre.
 4. **Com es componien de fet les llistes dels grups de quart**, i **si la quota
    per veïnat era escrita o consuetudinària.**

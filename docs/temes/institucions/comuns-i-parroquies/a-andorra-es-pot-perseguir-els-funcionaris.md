@@ -274,9 +274,24 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
 
 ## Buits registrats
 
-1. **El text de la llei de Reforma de 1866**, i **si la data és el 22 d'abril o el
-   31 de maig**. **Dues fonts, dues dates.** **Prioritari**: **el corpus cita els
-   articles 4, 5, 6 i 8 a través de Vilar i no té la norma.**
+1. ~~**El text de la llei de Reforma de 1866**, i **si la data és el 22 d'abril o
+   el 31 de maig**.~~ — **`resolt` el 18-09-2026, i el corpus té la norma des del
+   15 de setembre.** **El text sencer** —**les quatre bases i els setze
+   articles**— **és a l'apèndix D de Ríos Urruti, pp. 150-161**, llegit i
+   destil·lat a
+   [que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
+
+   **La data que el text porta és la del decret del bisbe Caixal: el 22 d'abril
+   de 1866.** **I el corpus té documentat el calendari que hi ha al voltant**:
+   **la sol·licitud dels andorrans és del 14 d'abril** —«*han acudit a Nos en
+   sol·licitut de 14 del corrent Abril*»— **i el decret és del 22; vuit dies**
+   ([la Nova Reforma de 1866](../../historia/segle-xix/nova-reforma.md)).
+   `El 31 de maig segueix sense explicar-se: pot ser una data d'aprovació, de
+   publicació o un error de la font que la dona, i el corpus no arbitra.`
+
+   **Dels articles que aquesta fitxa citava per Vilar, el 5è i el 8è ja són
+   literals al corpus**; **el 4è i el 6è, no.** `Requereix acabar de transcriure
+   l'apèndix, que és una tasca de lectura i no un document que falti.`
 2. **Les dues convencions de 1903** que van extingir els delmes capitular i
    episcopal —**13 d'abril** i **8 de maig**— i **d'on surt la xifra de 4.685
    pessetes.** **Prioritari.**
