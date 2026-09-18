@@ -47,7 +47,7 @@ Bofill al damunt, basílica el 2014— n'és l'altre cas.
 ## El que hi ha i el corpus no té
 
 **La pintura mural romànica.** Andorra en conserva un conjunt de primer ordre, i
-el corpus **té cinc esglésies fitxades de sis**
+el corpus **té les sis esglésies de l'índex fitxades**
 ([romànic](../arquitectura/romanic.md)) i **cap fitxa dedicada a la pintura
 en si**.
 

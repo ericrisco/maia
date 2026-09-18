@@ -22,7 +22,7 @@ tags: [arquitectura, romanic, index, patrimoni]
 | **Sant Romà de les Bons** | Encamp | XII | [fitxa](./sant-roma-de-les-bons.md) |
 | **Santa Coloma** | Andorra la Vella | X-XII | [fitxa](./santa-coloma.md) |
 | **Sant Miquel d'Engolasters** | Escaldes-Engordany | XII | [fitxa](./sant-miquel-dengolasters.md) |
-| **Sant Serni de Canillo** | Canillo | — | **sense fitxa** |
+| **Sant Serni de Canillo** | Canillo | XII (avui, majoritàriament XVII) | [fitxa](./sant-serni-de-canillo.md) |
 
 ## El que uneix les tres primeres
 
@@ -46,11 +46,20 @@ que es conserva és el que va tenir sort.
 
 ## El que falta
 
-- Tres fitxes d'església com a mínim: Santa Coloma, Sant Miquel d'Engolasters,
-  Sant Serni.
+- ~~Tres fitxes d'església com a mínim: Santa Coloma, Sant Miquel d'Engolasters,
+  Sant Serni.~~ — **`resolt` el 18-09-2026**: **les sis esglésies de l'índex
+  tenen fitxa pròpia.** [Santa Coloma](./santa-coloma.md) hi aporta la
+  història de les pintures confiscades pels nazis i recuperades el 2007;
+  [Sant Miquel d'Engolasters](./sant-miquel-dengolasters.md), el campanar
+  llombard i les pintures avui al MNAC; [Sant Serni de Canillo](./sant-serni-de-canillo.md),
+  una església avui majoritàriament barroca amb vestigis romànics i la
+  dada nova que el 1312 tenia Sant Joan de Caselles sota jurisdicció.
 - La tesi doctoral *L'art romànic del Principat d'Andorra: la pintura mural en el
   seu context*, font acadèmica primària **no consultada**.
 - L'inventari complet del patrimoni cultural del Govern.
+- **Buit nou**: **Sant Miquel de Prats**, esmentat per Sant Serni de Canillo
+  com a església sota la mateixa jurisdicció el 1312 — el corpus no en té
+  cap fitxa ni referència prèvia.
 
 **Buit registrat.**
 

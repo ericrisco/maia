@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1076** documents · **318** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1077** documents · **319** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -150,6 +150,7 @@
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Miquel d'Engolasters](temes/cultura/arquitectura/sant-miquel-dengolasters.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-miquel-dengolasters` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Serni de Canillo](temes/cultura/arquitectura/sant-serni-de-canillo.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-serni-canillo` |
 | [Santa Coloma](temes/cultura/arquitectura/santa-coloma.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-santa-coloma` |
 
 ## temes/cultura/artesania
@@ -1805,6 +1806,7 @@
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-politar-antoni-puig`](fonts/enciclopedia-cat-politar-antoni-puig.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-sant-miquel-dengolasters`](fonts/enciclopedia-cat-sant-miquel-dengolasters.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
+| [`enciclopedia-cat-sant-serni-canillo`](fonts/enciclopedia-cat-sant-serni-canillo.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-santa-coloma`](fonts/enciclopedia-cat-santa-coloma.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
