@@ -234,10 +234,60 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
    els batlles els nomenen els coprínceps**. `parcial.`
 6. **Si el recurs als coprínceps es va exercir mai fora de les concessions**, i
    **què va passar després del 1904** amb aquesta doctrina. `obert.`
-7. **Què deia exactament el Politar a les pàgines 242, 250, 252, 275 i 280**
-   **sobre els punts pels quals Brutails les cita** — el corpus té les unitats
-   destil·lades, **però la destil·lació no és el text**, i **la correspondència
-   pàgina a pàgina no s'ha verificat línia a línia.** `parcial.`
+7. ~~**Què deia exactament el Politar a les pàgines 242, 250, 252, 275 i 280**
+   **sobre els punts pels quals Brutails les cita.**~~ — **`resolt` el
+   18-09-2026: les cinc pàgines s'han llegit, i la 275 és la que justifica el
+   títol d'aquesta fitxa.**
+
+   **P. 275 — l'autor adverteix ell mateix del que Brutails li retreu.** Abans de
+   començar les *proposicions*, escriu:
+
+   > «Observa: **dich mon sentir y dono ma resolucio, ***laqual no pretench
+   > servesca de opinio***, fundat en los privilegis de les Valls**; antes be
+   > **previnch que sempre y quant hi hage lloch se consulten, quant vingue lo
+   > cas, les proposicions y duptes, pues en moltas de ellas ***poden ser varies
+   > les opinions, segons la concretacio de circunstancias***.»
+
+   **I hi diu per a què serveix la llista**: **«per que, en un cas prompte y en
+   que sie dificil lo recurs a consultar, tingue lo Concell alguna guia per
+   governarse»**. **No és un repertori de dret: és un manual d'urgència, i
+   l'autor ho escriu.** **L'acusació de Brutails —que dedueix en comptes de
+   registrar— no cau, però perd força: el text ja es declara opinió i no font.**
+
+   **P. 242 — la composició, exacta.** **El Consell és «un cos delqual les parts
+   o constitutius que l' componen son totes les parroquies y sufraganeas de
+   ellas, representadas en ***dos Consols actuals y dos Consols del any
+   antecedent, vulgarment nomenats Concellers***, de quiscuna de ellas, que,
+   entre tots, fan lo numero de 24 persones»**, més el síndic o síndics. **I la
+   propietat hi va per graus**: **el Consell General és «duenyo, en quant a la
+   jurisdiccio o facultat economica, de tota la terra, montanyes, boscos y
+   comunals»**, **les parròquies tenen «lo domini de propietat de sos particulars
+   comuns»**, i **els quarts els seus.**
+
+   **P. 250 — el codi de vestir, i el motiu que hi dona.** Els del Consell hi van
+   sempre **«vestits ab capes de panyo de la terra o de burell, barret, corobata
+   o mocador y sabates»**, sense permetre a ningú entrar-hi d'una altra manera
+   **«per rich ni poderos que sie»**, i el motiu és escrit: **«per que alli tots
+   son iguals, y ayxi ningu deu portar distinctiu particular de capa»**. **N'hi
+   afegeix un de segon, econòmic**: **portar drap del país «fa honor a aquest
+   drap y facilita son despaitg o venda»**. **I la màxima de fons**: **«no
+   invertir cosa, encara que aparega la mes menuda, ni tollerar novas
+   introducsions, a no haberhi una gran y indispensable causa».**
+
+   > **La capa igualava perquè tapava.** **El Politar ho diu sense eufemisme**:
+   > **«molts de la roba de dessota van mal vestits o indecents ab correja,
+   > xarpo, &c., y la capa o cobreyx tot».**
+
+   **P. 252 — la delegació del Consell al síndic** per a les coses que demanen
+   «un prompte espedient», amb penes del cot i ordre de sobreseure fins al
+   consell següent
+   ([els cònsols els lliuren amb els ulls tancats](../justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md)).
+
+   **P. 280 — les facultats i els límits**: el Consell crea els oficials
+   d'economia amb recurs davant d'ell mateix, **el seu judici «no te lloch en
+   causes criminals, si sols en les causes civils politicas expressadas en sos
+   privilegis»**, i **dos pròmens seus, «vulgo rahonadors», assisteixen a les
+   Corts *ex privilegio et praxi***.
 
 **Un buit de la font no és un buit del món.** Que Brutails **no dati** cap dels
 casos de casino ni cap de les ordres als batlles **és una economia del seu
