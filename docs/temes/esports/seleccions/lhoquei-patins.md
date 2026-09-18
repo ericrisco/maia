@@ -89,9 +89,11 @@ Moçambic per 4-3.**
 
 ## El que falta
 
-- **Els jugadors.** **El corpus en té quatre noms** —Gerard Miquel, Bernat
+- ~~**Els jugadors.** **El corpus en té quatre noms** —Gerard Miquel, Bernat
   Picanyol, Pau Palacín i Nil Castellví— **i els té perquè estaven lesionats.**
-  **Cap fitxa de cap.** **L'entrenador es diu Borja López.**
+  **Cap fitxa de cap.** **L'entrenador es diu Borja López.**~~ **`parcial`:**
+  aquesta fitxa ja en dona els quatre noms, el motiu pel qual hi apareixen i el
+  nom de l'entrenador; encara no hi ha fitxa biogràfica de cap jugador.
 - ~~**La Federació Andorrana de Patinatge**, que la font esmenta i el
   corpus no té.~~ — **`parcial` el 18-09-2026, i amb una discrepància
   registrada**: el COA (2024-2028) hi llista **«Federació Andorrana de

@@ -53,8 +53,10 @@ l'estructura.**
 
 ## El que falta
 
-- **Els clubs un per un.** **Cap fitxa de cap**, i en surten a desenes a les
-  fitxes de futbolistes.
+- ~~**Els clubs un per un.** **Cap fitxa de cap**, i en surten a desenes a les
+  fitxes de futbolistes.~~ **`parcial`:** [*Els clubs*](./els-clubs.md) ja
+  ofereix el mapa general, les fundacions, els noms i les trajectòries; encara
+  no hi ha una fitxa monogràfica per club.
 - **La Segona Divisió i la Supercopa.**
 - **El futbol sala**, que la mateixa federació regeix.
 - **L'arbitratge.**
