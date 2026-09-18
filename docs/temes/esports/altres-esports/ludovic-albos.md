@@ -80,7 +80,8 @@ més** a la llista que aquesta branca va acumulant.
   del 2012.**
 - **On va néixer** — **`obert`, i el motiu és de font**: **l'infobox no té
   `birth_place`.** **Data: 4 de maig del 1979.**
-- **I el que fa fora de la neu, que el corpus no tenia**: **és comptable expert
+- **Nota `no-es-buit`** — **el que fa fora de la neu, que el corpus no tenia**:
+  **és comptable expert
   i assessor comercial**, **treballa en àrees comercials des del 1999**, i
   **l'esquí de muntanya el fa en el seu temps lliure.** **Formació: FP2 de
   tècnic administratiu comptable, diplomatura en turisme i llicenciatura en

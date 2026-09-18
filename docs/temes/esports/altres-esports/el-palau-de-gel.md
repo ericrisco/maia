@@ -85,7 +85,8 @@ casa dos serveis.**
   documenta al país, i és a Canillo.** **Cap font no diu expressament que s'hi
   entrenessin**, i **el corpus no ho escriu com a fet.**
   `deducció del corpus, no verificada.`
-- **I el que el bolcat dona i la fitxa no tenia**: **no és només una pista.**
+- **Nota `no-es-buit`** — **el que el bolcat dona i la fitxa no tenia**: **no és
+  només una pista.**
   **Hi ha piscina climatitzada, espai de fitness amb gimnàs, sauna i mur
   d'escalada, un espai d'empresa amb auditori i sales de reunions, espai
   infantil, botigues i restaurants**, i **s'hi fan cursos, sessions nocturnes
