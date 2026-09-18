@@ -292,7 +292,8 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
 
 ## Buits registrats
 
-1. **El decret episcopal del 30 de setembre de 1853, `parcial` el 16-09-2026**
+1. ~~**El decret episcopal del 30 de setembre de 1853**~~ — **`parcial` el
+   16-09-2026**
    (peça justificativa I, pàgines I-III, PDF 25-27). **L'article 8, que és el
    que aquesta fitxa citava de segona mà, diu això**:
    > «**Prohibim als Consuls, Consellers y als Comuns fer repartos vehinals dels
