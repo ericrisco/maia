@@ -305,8 +305,9 @@ la terra per sempre.**
    **`El corpus no n'afirma cap.`**
 6. **Quantes parcel·les havia venut aquell pagès d'Ansalonga a l'església de Sant
    Martí de la Cortinada**, i **si les va recuperar mai** pel pacte de gràcia.
-7. **Si els rèdits d'una parròquia es podien col·locar lliurement** o **hi havia
-   norma sobre en què.** **El corpus té dos actes de 1788 i cap regla.**
+7. ~~**Si els rèdits d'una parròquia es podien col·locar lliurement** o **hi havia
+   norma sobre en què.**~~ — **`parcial` el 18-09-2026**: **el corpus té dos
+   actes de 1788**, però **cap regla que permeti generalitzar la pràctica**.
 8. ~~**La relació entre l'onça i la lliura catalana fora d'aquest acte.**~~ —
    **`parcial` el 18-09-2026**: **el corpus té 1 onça = 30 lliures en una sola
    escriptura**, però **no una regla fora d'aquell acte**.

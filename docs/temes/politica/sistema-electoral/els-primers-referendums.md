@@ -167,7 +167,8 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
 
 ## El que falta
 
-- **El resultat de la proposta 3 del 1982.** **La font en dona dues de tres.**
+- ~~**El resultat de la proposta 3 del 1982.**~~ — **`parcial` el 18-09-2026**:
+  **la font dona els resultats de les propostes 1 i 2**, però **no el de la 3**.
 - **Qui era l'Agrupament Democràtic d'Andorra**, que va fer la proposta més
   votada dues vegades i **no consta a [l'arbre dels partits](../partits/larbre-dels-partits.md)**.
 - ~~**Les sis propostes del 1977 senceres**.~~ — **`parcial` el 18-09-2026**:

@@ -193,8 +193,10 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
 4. **Si es van fer més addicions de preu sobre els mateixos prats**, **i si el
    rescat es va arribar a exercir.** **L'escriptura preveu expressament «*las
    altras quantitats que sobre ells legitimament acreditia*».**
-5. **Si l'addició de preu era una figura reconeguda** o **una construcció
-   d'aquest notari.** **El corpus en té un sol acte.**
+5. ~~**Si l'addició de preu era una figura reconeguda** o **una construcció
+   d'aquest notari.**~~ — **`parcial` el 18-09-2026**: **el corpus en té un sol
+   acte**, suficient per documentar l'operació però **no per saber si era figura
+   reconeguda o pràctica d'aquest notari**.
 6. **Tomàs Palmitjavila, notari públic d'Encamp**: **exercia el 8 de desembre de
    1776 i era mort abans del 15 de juny de 1788.** **Quins protocols seus es
    conserven**, i **si és el mateix nom del manuscrit de procediment.**
