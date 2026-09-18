@@ -171,6 +171,98 @@ que el corpus citava com a «no llegides», només dues queden fora**: **la 163 
 per número de pàgina**, perquè **l'extracte comença per la *Instructa* (531-542)
 i només després va del 166 al 285**.
 
+## Capitans, deseners i guardes: el capítol VII, llegit
+
+> **Llegit el 18-09-2026** a `docs/raw/llibres/brutails-coutume.txt`, pàgines
+> internes **[232]-[236]**. **El corpus en tenia el títol i el terme final de la
+> sèrie** —la Llei 28/2022 de protecció civil— **i no el principi.**
+
+**El capítol s'obre dient què són**: **els únics oficials militars de les
+Valls.**
+
+> «**no habenthi en les Valls de Andorra altres oficials militars per la guarda
+> de ellas y tambe per la dels presoners que los mencionats capitans y
+> deseners**»
+
+**I diu, sense embuts, que el càrrec no compensa**: **«essent com es lo ofici de
+capita y desener oneros y no lucratiu»**. **Per això es reparteix**: **«per que
+lo repartiment de les cargues vage igual y no sempre portien les cargues unes
+mateyxes persones»**, i **qui tria són els cònsols i consellers, «per que ningu
+millo que los Consols y Consellers de les parroquies coneixen las qualitats dels
+individuos de ellas y las cargas que han sufert»**.
+
+### Qui els nomena, i quan
+
+| | |
+| --- | --- |
+| **Capitans** | **el Consell General**, «lo dilluns antes de Pentecostes», **un o més per parròquia**, a informe dels cònsols o consellers |
+| **Deseners** | **el Consell de cada parròquia**, al Consell que es té abans de la mateixa festa |
+
+**Tots dos juren davant dels ministres de justícia el dia de «la revista,
+ressenya o mostra de armes»**, i **abans de començar-la se'ls fa «una exortacio
+y explicassio de les obligacions de son respectiu carrech».**
+
+**I la jerarquia és plana cap endins i subordinada cap enfora**: **«tots los
+capitans de les Valls son iguals entre si, y los deseners ayxi mateyx, sens
+haberhi superioritat de capita a capita»**, però **tots són «subdits als
+Battles»**.
+
+### Què han de fer
+
+- **Capturar delinqüents en absència dels batlles** —els capitans— **i en
+  absència d'aquests, els deseners**; **entregar el pres a un batlle en 24
+  hores.**
+- **Escorcollar cases i caixes**, a instància de part **o pel seu compte**, i
+  **sempre «ab la major moderacio y discrecio».**
+- **Fer retirar** els que «galejan sens llicencia, o alborotan de nits per las
+  plassas y carrers», o els «acuadrillats», **amb manament de 25 ducats o
+  lliures i captura si es contravé.**
+- **Buidar els hostals** si «reparen crits, alborots, borratxeras, pendencias o
+  gent a desora passades les 10 horas de la nit».
+- **Al dia de mostres, anotar qui va faltat d'armes i municions** i donar-ne
+  part al batlle «pera que aquest li fasse mostra de penas trencadas».
+- **Posar guarda on hi hagi un cadàver o una ferida greu** i **entregar les
+  coses robades o les armes «en comanda a algun Consul, Conseller o prohom» fins
+  que el batlle decideixi.**
+
+**I una instrucció que el corpus subratlla, perquè és de tracte i no de
+procediment**: **detenir dones demana «major moderacio»**, **amb «special
+atencio respecte a casades, viudas, donsellas o plebeyas o senyoras de
+distincsio, prenyadas»**, i **la separació de presos «de un y altre sexo» es
+deixa «a sa madura discrecio».** **Les detencions de «persones de distincsio»
+s'han de fer «ab la major urbanitat», evitant «actes vergonyosos»** —**però
+només «tenint la persona ben segura o en cas de no ferlos esta resistencia»**.
+
+### Els gatges, amb un forat al mig
+
+**L'apartat de salaris comença amb una xifra que el manuscrit no dona:**
+
+> «Los capitans, deseners y guardes deuhen cobrar son jornal y gasto **a raho
+> de ...... per dia**»
+
+**Els punts suspensius són a l'original.** **El Politar deixa la tarifa en
+blanc**, i **a canvi dona la proporció**: **el capità cobra un terç més que un
+guarda**, amb l'exemple explícit —**«se acostuma donar a un guarda per gasto y
+jornal 4 s., se donaran 6 s. al capita»**— i **deseners i guardes cobren
+igual.**
+
+**Qui paga depèn de qui ho demana**: **la part que ho instà**, que ho recobra
+del reu; **i si actuen pel seu compte, «se l's deu pagar dels bens dels
+delinquents, si tenen, y si no tenen, paciencia».**
+
+**I hi ha una participació en el comís**: **d'armes o coses vedades, «la tercera
+part del valor» toca a qui fa l'execució**, i **la resta es diposita per les
+Corts.** **El mateix terç val per a les penes que la Cort imposa.**
+
+**La nota final del capítol fixa l'ordre de precedència**: **«en presencia de
+algun Batlle no deu obrar lo capita, sino per asistencia, en presencia de algun
+capita ningun desener, y ayxi dels demes per son ordre y qualitat».**
+
+**Dos d'aquests tres càrrecs són vigents.** **El sometent que la Llei 28/2022
+organitza «si escau i d'acord amb la tradició»**
+([el sometent](../../institucions/comuns-i-parroquies/el-sometent.md)) **té
+aquí, literalment, la tradició a la qual remet.**
+
 ## El Politar registra els seus propis buits
 
 I aquí hi ha la troballa que el corpus no esperava. El text diu, tal qual:
@@ -235,9 +327,13 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 
    `Requereix encara el text del privilegi d'Urries i de la restauració de
    Capella; el que ja no falta és l'operació.`
-6. **Capitans, deseners i guardes**: el capítol VII hi és i encara no s'ha
-   llegit. — **`obert` pel que fa a la lectura, i ara se sap per què val la pena
-   fer-la.** **Dos d'aquests tres càrrecs són vigents.** La **Llei 28/2022,
+6. ~~**Capitans, deseners i guardes**: el capítol VII hi és i encara no s'ha
+   llegit.~~ — **`resolt` el 18-09-2026**: vegeu
+   [el capítol VII, llegit](#capitans-deseners-i-guardes-el-capitol-vii-llegit).
+   **El que hi falta i no és del corpus és la tarifa**: **el manuscrit deixa el
+   jornal en blanc** —«a raho de ...... per dia»— **i només en dona la
+   proporció.**
+   **La nota que ho havia marcat com a barat i d'alt rendiment tenia raó:** **Dos d'aquests tres càrrecs són vigents.** La **Llei 28/2022,
    qualificada de protecció civil**, organitza el **sometent** de cada parròquia
    amb **un capità i els deseners**, nomenats pel Consell de Comú «**si escau i
    d'acord amb la tradició**» ([el sometent](../../institucions/comuns-i-parroquies/el-sometent.md)).
