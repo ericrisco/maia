@@ -141,6 +141,60 @@ propi grup només si són de nova construcció, a preu de mercat i sense passar 
 quin patrimoni sumen i quants són immobiliaris. El registre és públic i no s'ha
 consultat.` `font_externa`
 
+## El sector que té una autoritat dins d'una altra
+
+> **Llegida el 18-09-2026** la **Llei 12/2017 d'ordenació i supervisió
+> d'assegurances**, que **el corpus ja tenia consolidada**
+> (`docs/raw/lleis/assegurances.txt`).
+
+**La llei no parla de l'AFA: parla de l'«Autoritat Supervisora d'Assegurances i
+Reassegurances».** És **la mateixa casa amb un altre nom** —l'AFA és l'autoritat
+de control del sistema assegurador per l'article 1 de la seva pròpia llei—, i
+**el fet que el legislador li doni un nom propi aquí diu que la supervisió
+d'assegurances es vol llegir com una funció separada**, encara que l'exerceixi
+el mateix organisme.
+
+**El capital d'entrada està escrit en tres xifres** (article 21):
+
+| Entitat | Capital social mínim |
+| --- | ---: |
+| **Asseguradora, amb caràcter general** | **600.000 €** |
+| Asseguradora de prestació de serveis | 240.000 € |
+| **Reasseguradora** | **3.000.000 €** |
+
+**I el capital de permanència, en quatre més** (article 42): **el capital mínim
+obligatori no pot baixar d'1.000.000 € en rams de no-vida, d'1.500.000 € en
+vida i de 3.200.000 € en reassegurança** —i **si una entitat fa les dues coses,
+s'aplica la xifra de vida.** **Entre aquests mínims absoluts i el capital de
+solvència obligatori la llei posa una forquilla: el mínim ha d'estar entre el
+25% i el 45% del de solvència.**
+
+**El capital de solvència es calcula amb un nivell de confiança del 99,5% a un
+any**; **el mínim obligatori, amb un 85%.** **Són els paràmetres de Solvència
+II europea escrits en una llei andorrana.**
+
+**I hi ha una porta petita**, que és la que fa la llei andorrana: **una entitat
+amb menys de 5.000.000 € de primes meritades i menys de 25.000.000 € de
+provisions tècniques queda fora de tot el règim de solvència** i passa a un
+règim simplificat, **si ho ha complert tres exercicis i preveu complir-ho cinc
+més.** **En un mercat de la mida d'Andorra, aquest llindar no és una excepció:
+és, probablement, la regla.** `Quantes entitats andorranes estan acollides al
+règim especial de l'article 42.4. El registre és públic i el corpus no l'ha
+consultat.` `font_externa`
+
+**Les sancions tenen la mateixa forma que la resta del dret sancionador
+financer** (article 57): **per infracció molt greu, revocació de l'autorització,
+suspensió de cinc a deu anys, o multa de l'1% de la xifra neta de negocis amb un
+mínim de 240.001 €**; **greu, de 60.000 a 240.000 €**; **lleu, fins a 60.000 €**
+i **amonestació privada**. **I l'amonestació pública es publica al BOPA**, cosa
+que la converteix en una sanció reputacional amb registre.
+
+**El que la llei exclou també diu alguna cosa** (article 5): **queden fora la
+mediació d'assegurances, els contractes de manteniment i reparació, l'assistència
+mecànica dels clubs automobilístics als seus socis, la Seguretat Social
+obligatòria i els plans i fons de pensions.** **Els fons de pensions andorrans
+no són assegurances als efectes d'aquesta llei.**
+
 ## Buits registrats
 
 - **Quants bancs hi ha** i quina mida tenen, no consta al corpus. — **`parcial`
@@ -241,5 +295,7 @@ consultat.` `font_externa`
   de societats ([els tipus impositius](els-tipus-impositius.md))— tenen llei
   pròpia de 85 articles **sense llegir**.~~ **`resolt` el 18-09-2026**: vegeu
   [El zero que té 85 articles](#el-zero-que-te-85-articles).
-- **Les assegurances** (72 articles) tampoc.
+- ~~**Les assegurances** (72 articles) tampoc.~~ **`resolt` el 18-09-2026**:
+  vegeu [El sector que té una autoritat dins d'una
+  altra](#el-sector-que-te-una-autoritat-dins-duna-altra).
 - **Quant val el Fagadi** i si s'ha activat mai, no consta.
