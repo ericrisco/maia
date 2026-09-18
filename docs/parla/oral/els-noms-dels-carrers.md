@@ -344,6 +344,7 @@ no existeixi.
 1. **Les 95 marques no s'han verificat.**
 2. **Cap topònim d'aquesta peça no s'ha de citar**, i és una peça de noms.
    `[?Laura] [?Dia]`, `en Camp`, `Escalde`, `Sant Gordany`, `Canòlic`.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
 3. **`gojos`** (×3, netes) hauria de ser **goigs**. Pot ser grafia de la màquina
    i pot ser pronúncia. **Sense resoldre**, i el corpus només té *goigs* una
    vegada.
@@ -354,3 +355,4 @@ no existeixi.
    era laurediana**.
 6. **Cinc parlants no són una mostra dialectal.** Que *padrí* domini aquí no vol
    dir que domini a Andorra: vol dir que domina **en aquests disset enregistraments**.
+   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
