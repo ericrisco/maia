@@ -151,6 +151,51 @@ vuit i mig**.
 **Els homes es veuen amb amics cada dia gairebé el doble que les dones.** **En
 tota la resta de freqüències la diferència és d'un o dos punts.**
 
+## Ningú no diu que no hagi estat feliç mai
+
+**La mateixa enquesta pregunta amb quina freqüència s'ha sentit feliç en les
+darreres quatre setmanes**, i **la resposta que més diu és la que no fa servir
+ningú.**
+
+| Freqüència (2022) | Homes | Dones | **Total** |
+| --- | ---: | ---: | ---: |
+| Tot el temps | 6,22% | 4,87% | **5,56%** |
+| **La major part del temps** | 56,64% | 55,27% | **55,97%** |
+| De vegades | 31,35% | 33,53% | **32,41%** |
+| Rarament | 5,79% | 6,34% | **6,06%** |
+| **Mai** | **0%** | **0%** | **0%** |
+
+**Sis de cada deu andorrans diuen que han estat feliços tot el temps o la major
+part del temps**, **un de cada setze diu que rarament**, i **cap no diu que
+mai.** `Un zero exacte en una enquesta de mostra vol dir «cap dels enquestats»,
+no «ningú del país».`
+
+**Per edat, la felicitat baixa amb els anys, i baixa sencera:**
+
+| Edat | Tot el temps | La major part | **Suma** | Rarament |
+| --- | ---: | ---: | ---: | ---: |
+| **16-24** | **8,16%** | **72,17%** | **80,33%** | **1,15%** |
+| 25-34 | 5,65% | 60,89% | 66,54% | 3,62% |
+| 35-49 | 4,76% | 59,44% | 64,20% | 6,67% |
+| 50-64 | 6,68% | 49,00% | 55,68% | 5,76% |
+| **65 o més** | **3,21%** | **45,60%** | **48,81%** | **10,93%** |
+
+**Entre els joves de 16 a 24 anys, vuit de cada deu han estat feliços la major
+part del temps o més; entre els de 65 o més, menys de cinc de cada deu.**
+**I els que diuen «rarament» passen de l'1,15% al 10,93%: gairebé deu vegades
+més.**
+
+**Per decils d'ingressos, en canvi, l'escala no és neta.** **La suma de «tot el
+temps» i «la major part» va del 50,2% del primer decil al 73,4% del desè**,
+**però pel mig fa dents de serra**: **el sisè decil (72,97%) està per sobre del
+novè (65,07%).** `Amb un sol any i una mostra petita per decil, el corpus llegeix
+la tendència i no els graons.`
+
+**Tot això contrasta amb la resta de la fitxa**: **la satisfacció amb la vida i
+la satisfacció econòmica pugen amb els diners de manera ordenada, i la felicitat
+declarada baixa amb l'edat de manera encara més ordenada.** **Són dues escales
+diferents i la font les publica totes dues.**
+
 ## Buits registrats
 
 - **No hi ha sèrie.** **Cada indicador té el seu any** i **la majoria en tenen
@@ -169,3 +214,8 @@ tota la resta de freqüències la diferència és d'un o dos punts.**
   91,7% al costat de la crisi de lloguer. `La font no ho desagrega.`
 - **Els dos homicidis del 2020** no tenen cap altra dada a la sèrie: ni sexe, ni
   edat, ni relació. `La font no ho desagrega.`
+- **La felicitat declarada només existeix per al 2022**, i **no es creua ni amb
+  la salut ni amb la situació laboral**, que és el creuament que la faria
+  llegible. `La font no ho desagrega.`
+- **Per què la felicitat per decils d'ingressos fa dents de serra** mentre la
+  satisfacció amb la vida no en fa. `pregunta_oberta`
