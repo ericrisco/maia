@@ -284,9 +284,19 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    consuetudinària.**
 8. **Si algun veguer va refusar mai una primera llista de sis**, i **què va passar
    amb la segona.**
-9. **Charles Romeu**: **veguer francès des del 1887**. **El corpus el registra com
-   a càrrec en exercici**, i **no en té res més.** **Interessa la sèrie de veguers
-   francesos, que el corpus no té.**
+9. ~~**Charles Romeu**: **veguer francès des del 1887**. **El corpus el registra
+   com a càrrec en exercici**, i **no en té res més.**~~ — **`parcial` el
+   18-09-2026**: **Charles Jean-Baptiste Marie Joseph Romeu**, nascut a
+   **Prades de Conflent el 24 d'agost del 1854**, mort **a Prades el 5 de març
+   del 1933**. **Veguer 47 anys, del 1887 al 1933** —tot el període que aquesta
+   fitxa cobreix i més enllà—, **va desenvolupar les escoles franceses**,
+   **va organitzar la participació d'Andorra a l'Exposició Universal de París
+   del 1889** (medalla de bronze) i **va rebre la Legió d'Honor el 1902**
+   ([font](../../../fonts/wikipedia-fr-charles-romeu.md)). **Hi ha una
+   biografia novel·lada**: Ludmilla Lacueva Canut, *L'home de mirada clara.
+   Charles Romeu, veguer francès de 1887 a 1933* (Editorial Andorra, 2014),
+   **no llegida pel corpus. Segueix oberta la sèrie de veguers francesos
+   anteriors i posteriors.**
 
 ## Related
 

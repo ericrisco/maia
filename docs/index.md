@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **220** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **221** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1891,6 +1891,7 @@
 | [`wikipedia-estripagecs`](fonts/wikipedia-estripagecs.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-perich`](fonts/wikipedia-familia-perich.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-familia-reig`](fonts/wikipedia-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-fr-charles-romeu`](fonts/wikipedia-fr-charles-romeu.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-futbol-femeni-andorra`](fonts/wikipedia-futbol-femeni-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-llegendes-andorra`](fonts/wikipedia-llegendes-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
