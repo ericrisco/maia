@@ -349,9 +349,42 @@ tandes.**
    corpus no sap a què.**
 9. **El manuscrit de M. Palmitjavila**, **citat dues vegades més en aquesta
    unitat.** **Segueix sent la pista de prioritat màxima del corpus.**
-10. **El *Politar*, pp. 194, 196, 197 i 201.** — **Les pp. 177, 337, 339, 340,
-    341 i 346, `resoltes` el 18-09-2026**, i **de la 339 en surt una cosa que no
-    era a cap buit: com estava moblat el tribunal.**
+10. ~~**El *Politar*, pp. 194, 196, 197 i 201.**~~ — **`resolt` el 18-09-2026,
+    amb les pp. 177, 337, 339, 340, 341 i 346.** **De la 339 en surt com estava
+    moblat el tribunal; de la 201, què hi havia a la sala de la tortura.**
+
+    > «Se ha acostumat tenir en lo lloch de la tortura **pa, vi, llum y aygua
+    > beneyta**.»
+
+    **Quatre coses, i la darrera no és de confort.** **A la sessió hi assisteixen
+    un o els dos Veguers, el Jutge —**«que exorta, parla y interroga en nom de
+    aquells»**—, els raonadors, els batlles, l'escrivà **i un cirurgià, que hi
+    està dret «sinos que los Veguers li donian llicencia per asentarse»**.
+
+    **I l'interrogatori ordinari té un repartiment de paraula que val la pena
+    retenir**: **el reu jura «en poder de un dels Veguers»**, **el Jutge
+    «demana e interroga en nom de estos»**, i **l'escrivà assenta preguntes i
+    respostes**. **El Jutge parla; la potestat és d'un altre.**
+
+    **La p. 339 dona els mobles, i els mobles són la doctrina:**
+
+    > «una taula gran cuberta de un bon tapete, **3 cadires ab brassos**, dos per
+    > los dos Veguers […] y altra per lo **Jutge, que estara en mitg dels dos
+    > Veguers, pera denotar que se administre la justicia en nom dels dos Senyors
+    > Princeps** y demostrar que **es consultor de un y altre Veguer**; despues un
+    > poch mes aball de eyxa taula gran, sobre la dreta de ella, ne compondran
+    > **altra de petita, cuberta ab son tapete de inferior calitat y una cadira
+    > sens brassos per lo escriva o notari**.»
+
+    **El notari té taula menor, tapet de qualitat inferior i cadira sense
+    braços.** **I el Politar hi afegeix un advertiment de protocol**: assentar-se
+    **«procurant a fugir contencions de dreta o esquerra, que sols serveyxen per
+    retardar lo curs de la justicia»**. **Si només hi ha un Veguer, el Jutge se
+    li posa a la dreta** (p. 200).
+
+    **La p. 201 situa els raonadors «sobre la esquerra» i el reu en una banqueta
+    «dos o tres passos mes havall»**, amb **guardes a la porta de casa, al cap de
+    l'escala, a les portes de la sala i a les finestres.**
 
     > «una taula gran cuberta de un bon tapete, **3 cadires ab brassos**, dos per
     > los dos Veguers […] y altra per lo **Jutge, que estara en mitg dels dos

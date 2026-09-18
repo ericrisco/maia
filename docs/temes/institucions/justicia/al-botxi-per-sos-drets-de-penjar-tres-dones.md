@@ -370,6 +370,27 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
 
    **P. 244 — el *cot*, atribuït a una concessió del bisbe D. Francisco de
    Urries**, amb les seves tres menes territorials i el *cot de fallits*.
+
+   **I un afegit del 18-09-2026 que va al nucli d'aquesta fitxa: Andorra no
+   tenia botxí.** **La p. 201 del *Politar* diu d'on el feien venir i com el
+   tractaven:**
+
+   > «**Al executor se envia a buscar a Fransa o Espanya**, (haon tindran ja
+   > previngut los Veguers), **per un cabo y una escolta de 6 o mes homens
+   > armats, que lo guardan, tan en lo venir com al anar**; **se pague antes de
+   > qualsevol execussio**, y **sera bo sempre haberse convingut del que se li
+   > dega donar**.»
+
+   **Tres coses hi són escrites.** **Que l'executor és estranger i s'ha d'anar a
+   buscar fora.** **Que l'escorten sis homes armats o més a l'anada i a la
+   tornada** —**i «que lo guardan» admet les dues lectures: que el custodien i
+   que el protegeixen**. **I que se li paga per endavant, amb preu convingut
+   abans.**
+
+   > **Això és el marc del que aquesta fitxa documenta**: **si el botxí cobrava
+   > per drets de penjar, cobrava com a proveïdor forà contractat per acte, no
+   > com a oficial de la Cort.** **El pagament anticipat i el preu pactat són de
+   > contracte, no d'aranzel.**
 7. **Si les Corts van durar realment fins a vuit mesos**, i **quin any.**
    **El *Manual Digest* ho diu i no ho data.**
 8. **Els decrets del 2 de juliol de 1887 i del 12 d'abril de 1897** sencers, i **si
