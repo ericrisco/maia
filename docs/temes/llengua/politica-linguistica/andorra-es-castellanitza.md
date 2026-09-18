@@ -138,7 +138,15 @@ sector principal del país?**
 
 ## Buits registrats
 
-1. **Dades** sobre l'ús del català al comerç i l'hoteleria, sèrie històrica.
+1. ~~**Dades** sobre l'ús del català al comerç i l'hoteleria, sèrie
+   històrica.~~ — **`resolt` el 18-09-2026**: **la sèrie existeix i el corpus la
+   té**, a
+   [La sèrie que no és una sèrie](./la-serie-que-no-es-una-serie.md) —**botiga,
+   restaurant, bar, grans magatzems i perruqueria, onada per onada**, amb **el
+   català com a categoria més gran de l'atenció en quatre àmbits el 2014 i només
+   al restaurant el 2018**, i **el 9,6% que pot fer tota la seva vida comercial
+   només en català**. Vegeu també
+   [La sèrie històrica del català a Andorra](./la-serie-historica.md).
 2. Si **plantar cara al client que parla català** segueix passant, i amb quina
    freqüència.
 3. **Joan Becat** — qui és i què més ha escrit sobre això.

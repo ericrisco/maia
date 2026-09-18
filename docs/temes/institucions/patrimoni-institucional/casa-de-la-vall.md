@@ -36,9 +36,11 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
 - **Quan es va construir** i per a qui. Consta com a casa forta d'una família
   abans de ser seu del Consell, i cal documentar-ho.
 - Quan la va adquirir el Consell General i en quines circumstàncies.
-- L'**armari de les set claus**, que la tradició situa aquí i que caldria
-  verificar i descriure: se'n diu que guarda l'arxiu i que cal una clau per
-  parròquia per obrir-lo. **Cap font consultada ho confirma encara.**
+- ~~L'**armari de les set claus**, que la tradició situa aquí i que caldria
+  verificar i descriure.~~ — **`resolt` el 18-09-2026**: **ja té fitxa pròpia**,
+  [L'Armari de les Set Claus](./larmari-de-les-set-claus.md) —**un armari que
+  només s'obre amb les set claus dels set cònsols alhora**, i **que fins al 1978
+  en tenia sis**, perquè les parròquies eren sis.
 - La sala del Consell, la cúria, la capella, la cuina.
 
 > **Per què hi ha cuina — 17-09-2026.** **Un jurista espanyol que hi va ser el

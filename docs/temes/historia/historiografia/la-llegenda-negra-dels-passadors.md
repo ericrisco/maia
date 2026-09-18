@@ -242,10 +242,21 @@ evitar que un relat s'escampi sobre un altre període per contagi.
 - **La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
   revista *Reporter*** (segons [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md)).
 - Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).
-- ***Entre el torb i la Gestapo***, de **Francesc Viadiu**.
+- ***Entre el torb i la Gestapo***, de **Francesc Viadiu**, **sencer**. —
+  **`parcial` el 18-09-2026**: **l'autor i el llibre ja són al corpus per tres
+  bandes** —[Els passadors](../guerres-i-neutralitat/els-passadors.md) el fa
+  servir per documentar que **hi havia més d'una xarxa**,
+  [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md)
+  el tracta com a **novel·la**, i
+  [Andorra, entre el torb i la Gestapo](../guerres-i-neutralitat/el-torb-i-la-gestapo.md)
+  descriu **la minisèrie del 2000 que se'n va fer**. `El que segueix obert és el
+  text original, que el corpus no ha llegit.`
 - L'entrevista a **Baldrich** a *Informacions* (2004), sencera.
-- **Andorrans als camps de concentració nazis** — el corpus no té res sobre
-  andorrans deportats. **Buit greu.**
+- ~~**Andorrans als camps de concentració nazis** — el corpus no té res sobre
+  andorrans deportats. **Buit greu.**~~ — **`resolt` el 18-09-2026**: **sí que en
+  té**, [Andorrans als camps nazis](../guerres-i-neutralitat/andorrans-als-camps-nazis.md)
+  —**eren tretze, després catorze, i ara quinze**; **eren emigrants econòmics a
+  França**, i **sis no van tornar**.
 
 ## Related
 

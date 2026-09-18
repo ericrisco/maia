@@ -62,7 +62,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 ## El que falta
 
 - **On va néixer.**
-- **Qui és Alexandre Martínez Palau.** — **`obert`, confirmat.**
+- ~~**Qui és Alexandre Martínez Palau.**~~ — **`resolt` el 18-09-2026**: **ja té
+  fitxa al corpus**,
+  [Alexandre «Àlex» Martínez i Palau](./alex-martinez.md) —**davanter
+  internacional des del 2016, i també jugador de futbol platja**.
 - **Els seus set partits.** — **`obert`**: el bolcat en dona el compte i no el
   detall. **El que sí que hi és ara és la carrera de club** (taula de dalt).
 
