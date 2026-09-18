@@ -136,8 +136,72 @@ n'és el cas de manual.**
 **El codi nou té 560 articles i tres llibres** —part general, delictes,
 contravencions penals—, **dos més que el del 2005**, i **porta un annex que val
 per si sol**: **una taula d'equivalències article per article entre el Codi del
-2005 i aquest.** `Requereix buidar aquesta taula, que és el diff que el corpus
-demanava des del setembre i no havia pogut fer.`
+2005 i aquest.**
+
+### El diff, buidat
+
+> **Buidat el 18-09-2026** de l'**annex 1** de la Llei 18/2026
+> (`docs/raw/lleis/bopa/llei-18-2026-codi-penal.txt`). **És el diff que el
+> corpus demanava des del setembre.**
+
+| | |
+| --- | ---: |
+| **Articles del Codi del 2005 amb equivalent** | **502** |
+| **Articles del 2005 sense equivalent** | **13** |
+| **Articles nous, sense precedent al 2005** | **17** |
+
+**I la troballa és que els tretze que desapareixen no desapareixen**: **tots
+tretze ja eren «Sense contingut» al text consolidat del 2005.** **Són articles
+buidats per reformes anteriors** —**147, 148 i 149** (actes sexuals sense
+consentiment i abusos amb prevalença), **426** (deslleialtat professional) i
+nou números del llibre de contravencions—. **Cap article viu del Codi del 2005
+es queda sense equivalent.**
+
+**Els disset nous, en canvi, diuen on ha crescut el dret penal andorrà:**
+
+| Bloc | Articles nous |
+| --- | --- |
+| **Responsabilitat penal de les persones jurídiques** | 26, 27, 28, 29, 45, 46, 95 — **set** |
+| **Sexualitat i entorn digital** | **166** difusió no consentida de material íntim **o manipulat** · **173** afavoriment de la prestació de serveis sexuals en l'entorn digital · **174** tipus qualificat · **175** actes sexuals en l'entorn digital amb menors o persones amb discapacitat |
+| **Corrupció** | **268** corrupció privada |
+| **Altres** | 131 pràctiques de conversió · 160 tipus agreujats · 201 tipus qualificat · 350 tràfic de béns d'interès cultural · 495 falsedats sobre certificacions, taxacions i traçabilitat de béns d'alt valor |
+
+**Set dels disset són les persones jurídiques i quatre són el sexe en línia.**
+**«Material íntim o manipulat» és la porta que el Codi obre als deepfakes**, i
+**«pràctiques de conversió» entra al Codi penal per primera vegada.**
+
+**I una cosa que la taula no diu i el text sí**: **l'agressió sexual es
+redefineix sobre el consentiment.** **L'article 162 del codi nou** —equivalent
+del 144 del 2005— **diu «El qui, **sense consentiment**, amb un consentiment
+viciat, o mitjançant violència o intimidació, determina una persona a prendre
+part en un comportament o relació sexual…»**. **La violència passa a ser una de
+tres vies i no la principal.**
+
+### Els articles que l'estadística fa servir, renumerats
+
+**Des del desembre del 2026, les sèries d'infraccions per article canvien de
+número** ([les infraccions](./dues-mil-dues-centes-cinquanta-cinc-i-mil-set-centes-cinquanta-quatre.md)):
+
+| Fet | 2005 | **2026** |
+| --- | ---: | ---: |
+| Consum, possessió o cultiu de droga per al consum propi *(contravenció)* | 499 | **545** |
+| Conducció sota l'efecte de drogues | 268 | **300** |
+| Droga tòxica, tipus privilegiats | 284 | **317** |
+| Furt *(contravenció)* | 481 | **533** |
+| Furt *(delicte)* | 197 | **223** |
+| Danys *(contravenció)* | 484 | **536** |
+| Danys, tipus privilegiat | 224 | **250** |
+| Defraudacions *(contravenció)* | 482 | **534** |
+| Estafes privilegiades | 211 | **237** |
+| Maltractament i lesió, tipus bàsic | 113 | **122** |
+| Injúria | 174 | **198** |
+| Obstaculització d'execució de resolucions judicials | 427 | **473** |
+
+**Qui compari la sèrie d'infraccions del 2026 amb la del 2027 sense aquesta
+taula llegirà un canvi que no hi ha.** `I hi ha una col·lisió que val la pena:
+l'article 174 del Codi del 2005 és la injúria, i l'article 174 del codi nou és
+un tipus qualificat de delicte sexual. El mateix número, dues coses diferents,
+segons quin any es cita.`
 
 **Els sostres de pena no es mouen** (article 41): **presó fins a vint-i-cinc
 anys** —amb l'excepció de l'acumulació i dels delictes de **genocidi i contra
