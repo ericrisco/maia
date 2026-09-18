@@ -416,9 +416,11 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
   és completa i baixada del Butlletí**, i **cap modificació no entra a l'article
   26**. `Queda obert per què el consolidat n'anuncia deu i el Butlletí en dona
   vuit.`
-- **Errata llegida:** la [correcció del 03-03-2021](../../../raw/desocupacio/bopa-2021-03-03-errata.txt)
+- ~~**Errata llegida:** la [correcció del 03-03-2021](../../../raw/desocupacio/bopa-2021-03-03-errata.txt)
   preserva expressament el decret sobre l'ajut per cuidar menors o persones
-  amb discapacitat en aïllament; no corregeix l'article 26.
+  amb discapacitat en aïllament; no corregeix l'article 26.~~ —
+  **`no-es-buit`**: és una nota de lectura de l'errata, no una pregunta
+  pendent.
 - **Requisits econòmics sense reconciliar; originals comprovats:** l'article
   14.1.a.i del [PDF original de 2020, p. 11–12](../../../raw/desocupacio/bopa-reglament-2020-original.pdf)
   diu que el patrimoni «iguala el barem de valoració patrimonial»; l'article

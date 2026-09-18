@@ -118,9 +118,11 @@ història del barem, no regla aplicable avui.**
   dues peces. **Antecedents de 2016 també contrastats:** final setena de
   la Llei 2/2016 i article 5.2.a.iii del reglament del 18-05-2016 llegits
   als originals; això no equival a llegir les dues normes senceres.
-- La [correcció del 31-08-2016, p. 1](../../../raw/desocupacio/bopa-errata-2016-08-31.pdf)
+- ~~La [correcció del 31-08-2016, p. 1](../../../raw/desocupacio/bopa-errata-2016-08-31.pdf)
   ja s'ha llegit: corregeix l'edat mínima del primer guió del 15.2.a.ii,
-  de tres a zero anys. Aquesta peça no modifica el 5.2.a.iii.
+  de tres a zero anys. Aquesta peça no modifica el 5.2.a.iii.~~ —
+  **`no-es-buit`**: és una nota sobre una errata ja llegida, no una pregunta
+  pendent.
 - ~~**Data discrepant preservada:** el preàmbul de la Llei 5/2018, p. 1,
   remet a la Llei 3/2017 com del **19 de febrer**; l'original de la
   Llei 3/2017, p. 1 i 30, diu **9 de febrer**. Queda per comprovar si

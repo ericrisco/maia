@@ -245,9 +245,12 @@ ensenya on és la frontera:
 3. **Què volia dir exactament ser tingut i reputat per ***bar i traïdor***, i
    **quines conseqüències jurídiques efectives tenia** a Andorra.
    **Prioritari**: **el corpus té la clàusula i cap cas d'aplicació.**
-4. **L'*Instructa* de 1740, peces justificatives p. LIII** —**dissetena
+4. ~~**L'*Instructa* de 1740, peces justificatives p. LIII** —**dissetena
    citació**—, **amb el règim de la denúncia amb instància i sense.**
-   **Prioritari.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+   **Prioritari.**~~ — **`no-es-buit`**: la correcció ja constata que la peça
+   està destil·lada i que el recompte de citacions sense llegir era erroni; el
+   contingut sobre la denúncia amb instància ja apareix al cos de la fitxa i a
+   les referències creuades indicades.
    **La *Instructa* **no** és un document sense llegir**: el corpus la té
    destil·lada des del 15-09-2026 a
    [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)
