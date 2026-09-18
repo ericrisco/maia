@@ -222,7 +222,9 @@ sobirania. **El va rebutjar al maig.** Al juliol el va votar.
 
 ## El que en queda a Andorra
 
-- ***Boris I, rei d'Andorra***, novel·la d'**Antoni Morell** (**1984**)
+- ***Boris I, rei d'Andorra***, novel·la d'**[Antoni Morell](../../persones/antoni-morell.md)**
+  (**1984**) — que va ser també **secretari de la Sindicatura sota Julià
+  Reig** i **secretari general del primer Govern d'Andorra**
   ([literatura](../../cultura/literatura/literatura-andorrana.md)).
 - Una **adaptació teatral**.
 - Una **cervesa artesana «Boris»** elaborada a Andorra.

@@ -81,7 +81,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Bonaventura Riberaygua i Argelich** | ***Les Valls d'Andorra***, 1946: primer compendi modern. Secretari del Consell General 1935-1950 | [fitxa](./bonaventura-riberaygua.md) |
 | **Albert Puigoriol i Lladó** | ***Andorra el meu país***, 1963: **primer manual escolar d'andorranitat** | **buit** |
 | **Pere Canturri (i Montanya)** | Citat sis cops al corpus; **cap fitxa** | **buit prioritari** |
-| **Antoni Morell i Mora** | Escriptor; coautor de *El Consell General (1682-1979)* | **buit** |
+| **Antoni Morell i Mora** | Escriptor de *Boris I, rei d'Andorra* (1984); secretari de la Sindicatura sota Julià Reig; secretari general del primer Govern | [fitxa](./antoni-morell.md) |
 | **Susanna Vela i Palomares** | Cap de l'Arxiu Nacional (**1989-2009, 2012-2019**), exministra d'Educació i Cultura (**2009-2011**), consellera general (**2019-2023**) | [fitxa](./susanna-vela.md) |
 | **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit** |
 | **Joan Becat** | Geògraf (Univ. de Perpinyà). **La seva ponència més citada ja és llegida**: el diagnòstic migratori del 1989 | [el diagnòstic de 1989](../societat/immigracio/el-diagnostic-de-1989.md) · *la tesi en set volums segueix sense consultar* |

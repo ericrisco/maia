@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1060** documents · **287** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1061** documents · **288** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1270,6 +1270,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Albert Villaró i Boix](temes/persones/albert-villaro.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-albert-villaro` |
+| [Antoni Morell i Mora](temes/persones/antoni-morell.md) | `temes/persones` | compilada | contemporania | no | `antoni-morell-biografia` |
 | [Bonaventura Riberaygua i Argelich](temes/persones/bonaventura-riberaygua.md) | `temes/persones` | compilada | contemporania | no | `riberaygua-biografia-secretari` |
 | [Francisco José Catalán de Ocón](temes/persones/catalan-de-ocon.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-catalan-de-ocon` |
 | [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
@@ -1705,6 +1706,7 @@
 | [`allen-punt-de-vista-angles-1997`](fonts/allen-punt-de-vista-angles-1997.md) | Desmond Allen · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`anaesports`](fonts/anaesports.md) | Agència de Notícies Andorrana (ANA) | drets reservats · citació breu amb atribució | False |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`antoni-morell-biografia`](fonts/antoni-morell-biografia.md) | Wikipedia · Viure als Pirineus | CC BY-SA 4.0 (Wikipedia) · premsa, drets reservats (obituari) | pendent |
 | [`apapma-org-timeline`](fonts/apapma-org-timeline.md) | APAPMA | publicació institucional, sense llicència declarada | pendent |
 | [`apapma-registre-andorralavella`](fonts/apapma-registre-andorralavella.md) | Comú d'Andorra la Vella | publicació institucional, sense llicència declarada | pendent |
 | [`ara-lleida-ruta-oficis-ahir-1999`](fonts/ara-lleida-ruta-oficis-ahir-1999.md) | Diputació de Lleida · Patronat de Turisme | © dels textos i fotografies dels autors; consulta i extracte intern per a traçabilitat |  |
