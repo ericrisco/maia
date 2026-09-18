@@ -349,8 +349,9 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
      fonts no els identifica, i el corpus tampoc.** **El que el corpus afirma és
      que l'anàlisi d'Encamp és ara doblement prioritària**: **tancaria dos buits
      alhora.**
-3. **El *Manual Digest*, *Duptes* § 23.** — **La p. 280 del *Politar*, `resolta`
-   el 18-09-2026**, i **la premissa era falsa: la pàgina sí que és dins
+3. ~~**El *Manual Digest*, *Duptes* § 23.**~~ — **`parcial`, perquè els punts
+   23 i 28 del *Politar* ja n'han aportat el text i han reduït la divergència**:
+   **la p. 280 del *Politar* queda `resolta` el 18-09-2026**, i **la premissa era falsa: la pàgina sí que és dins
    l'extracte de Brutails** ([El Politar andorrà,
    llegit](../../historia/manual-digest/el-politar.md)). **Diu això, com a punt
    28è:**

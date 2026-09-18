@@ -334,8 +334,10 @@ final d'un decret** —«*baix pena del cot de la Terra*»—
 8. **Els casos de 1896 (contraban, 800 pessetes) i 1897 (venda de passaport,
    ferros a la plaça)** sencers. **De la legalitat del segon la font mateixa
    dubta.**
-9. **La citació de Ducange**, **que la font esmena.** — **Les pp. 208, 215, 235
-   i 244 del *Politar*, `resoltes` el 18-09-2026.**
+9. ~~**La citació de Ducange**, **que la font esmena.**~~ — **`resolt` el
+   18-09-2026**: les pp. **208, 215, 235 i 244 del *Politar*** ja són llegides i
+   transcrites aquí; la font diu literalment que **Ducange s'equivoca en atribuir
+   a *Cotus* el sentit de «guarda rural»**.
 
    **P. 244 — les tres menes de *cot*, i qui el va concedir.** **El Politar
    atribueix la facultat d'imposar-lo a una concessió del bisbe D. Francisco de

@@ -174,7 +174,12 @@ segle XI dient que és del IX**, exactament el mateix mecanisme que
 
 ## Buits registrats
 
-1. **La datació de l'acta de consagració**, resolta.
+1. ~~**La datació de l'acta de consagració.**~~ — **`parcial`, perquè les tres
+   datacions ja estan identificades però no coincideixen**: **segle IX** (Pujol),
+   **post 860** (Anglada) i **1016–1024** (crítica documental recollida a [la
+   fundació per Carlemany](../../historia/origens/la-fundacio-per-carlemany.md)).
+   **La divergència queda registrada i no arbitrada**; encara falta establir
+   quina datació pot sostenir-se amb l'acta o amb una edició crítica.
 2. ~~**L'adopcionisme**: què defensava exactament Fèlix.~~ — **`parcial`, i el
    corpus té el cas encara que no la doctrina.** **[Els bisbes
    d'Urgell](../../historia/edat-mitjana/els-bisbes-durgell.md)**: **Fèlix,

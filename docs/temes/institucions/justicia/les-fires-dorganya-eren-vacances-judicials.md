@@ -314,8 +314,8 @@ Andorra:**
 
 ## Buits registrats
 
-1. **El treball d'Anton Picart.** — **L'*Instructa* de les Corts de 1740,
-   `resolta` el 18-09-2026**: **és als folis 531-542 del mateix extracte del
+1. ~~**El treball d'Anton Picart.**~~ — **`parcial`, perquè l'*Instructa* de les
+   Corts de 1740 queda `resolta` el 18-09-2026**: **és als folis 531-542 del mateix extracte del
    *Politar* que el corpus tenia des del 13 de setembre**
    ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)).
    **De les sis citacions acumulades, cap no exigia una font nova.**
