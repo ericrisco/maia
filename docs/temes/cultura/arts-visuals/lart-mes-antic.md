@@ -99,8 +99,11 @@ tot el Pirineu de sota i amb la idea que
 
 ## Buits registrats
 
-1. **La Balma de la Margineda** — fitxa pròpia. És **el jaciment fundacional del
-   país** i no en tenim res.
+1. ~~**La Balma de la Margineda** — fitxa pròpia. És **el jaciment fundacional del
+   país** i no en tenim res.~~ — **`parcial` el 19-09-2026**: vegeu [la fitxa de
+   la Balma de la Margineda](./balma-de-la-margineda.md), que ordena la presència
+   humana més antiga documentada, els còdols amb pigment i el descobriment de
+   1960. **La monografia d'excavació i l'inventari complet continuen pendents.**
 2. **La Feixa del Moro de Juberri** — l'enterrament.
 3. **El Cedre** i **l'Oral** — jaciments.
 4. **Els gravats rupestres**: inventari.
