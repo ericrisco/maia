@@ -30,6 +30,13 @@ el tanca amb vint museus.**
 caure el Govern d'Andorra en un dèficit rècord i mai vist»**, i que **«ara per
 ara no té data de construcció però sí de concepció».**
 
+La fitxa oficial **IN0042 — Museu Nacional d'Andorra** del Departament de
+Promoció Cultural manté el projecte actiu: l'objectiu és convertir el projecte
+conceptual en un **avantprojecte tècnic, museològic i museogràfic validat**, que
+serveixi de base per licitar els projectes executius **a partir del 2027**
+([fitxa de font](../../../../fonts/consell-general-museu-nacional-objectiu-2026.md)).
+El document no hi fixa l'emplaçament.
+
 **Andorra té vint antenes i cap tronc.** **El corpus ho registra com el fet
 estructural d'aquesta branca.**
 
@@ -44,7 +51,7 @@ estructural d'aquesta branca.**
 | **[El Museu del Tabac](./el-museu-del-tabac.md)** | La fàbrica Reig, **1909-1957**. La família del síndic general dels anys seixanta |
 | **[El Museu del Perfum](./el-museu-del-perfum.md)** | **Júlia Bonet obre una perruqueria el 1939** i acaba fent la perfumeria més gran del país |
 | **[Les cases museu](./les-cases-museu.md)** | **Rull la rica, Cristo la humil, Cal Pal la que serveix per discutir** — i una serradora del segle XVI que va treballar fins als anys seixanta |
-| **[El Museu de la Ràdio](./el-museu-de-la-radio.md)** | **Tenia previst obrir el 2015** i el corpus no sap si va obrir. I **una tercera acusació contra Tramoulet** |
+| **[El Museu de la Ràdio](./el-museu-de-la-radio.md)** | **Projecte d'espai de memòria anunciat pel Govern el 2024; l'obertura efectiva segueix sense confirmar-se.** I **una tercera acusació contra Tramoulet** |
 | **[Els altres museus](./els-altres-museus.md)** | Art sacre, romànic, electricitat, còmic, miniatura, moto i aigua — **inclòs un paisatge egipci dins del forat d'una agulla** |
 
 ## La cronologia
@@ -180,7 +187,7 @@ visitants** (+17,7%), més que a tots els museus junts.
 
 ## El que falta
 
-- **El Museu Nacional d'Andorra**: si segueix previst, i on.
+- ~~**El Museu Nacional d'Andorra**: si segueix previst, i on.~~ — **`parcial` el 19-09-2026**: la fitxa oficial **IN0042** manté el projecte actiu i el situa en la transformació del projecte conceptual en un avantprojecte tècnic, museològic i museogràfic, base per licitar els projectes executius a partir del 2027 ([fitxa de font](../../../../fonts/consell-general-museu-nacional-objectiu-2026.md)). **L'emplaçament continua obert**: el document no diu on es construirà.
 - ~~**Les xifres de visitants** de cadascun. **Cap.**~~ — **`resolt` el
   17-09-2026 per la via d'Estadística** (activitat **A076**, nota del
   20-10-2025): vegeu [Quanta gent hi va](#quanta-gent-hi-va).
