@@ -266,8 +266,11 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    cita norma.** **Nou.**
 3. **L'equivalència de la lliura** d'aquests plets amb la pesseta i el duro.
    **Sense ella, el corpus no pot comparar les tres quantitats.**
-4. **Si el jutge d'apel·lacions va ser mai corregit per afegir disposicions
-   estranyes a la causa més d'una vegada.** **El corpus té un cas.**
+4. ~~**Si el jutge d'apel·lacions va ser mai corregit per afegir disposicions
+   estranyes a la causa més d'una vegada.**~~ **`parcial`:** el corpus ja té
+   documentat un cas, el plet de les tres germanes en què el Tribunal Superior
+   anul·la les disposicions noves afegides pel jutge; no té una segona
+   ocurrència per establir si va passar més d'una vegada.
 5. **Qui era Paul Vilar** i **quan va morir**, i **si tenia relació amb l'autor
    del llibre.** **Nou.** `Requereix font externa; el corpus no ho afirmarà sense
    document.`
