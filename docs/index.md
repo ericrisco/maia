@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **340** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **341** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1825,6 +1825,7 @@
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |
+| [`estadistica-habitatges-turistics`](fonts/estadistica-habitatges-turistics.md) | Departament d'Estadística, Govern d'Andorra | dades públiques | citacio |
 | [`estadistica-petits-estats-2015`](fonts/estadistica-petits-estats-2015.md) | Departament d'Estadística d'Andorra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`esteves-exili-i-evasions`](fonts/esteves-exili-i-evasions.md) | Sergi Esteves Lorenzo · Universitat de Barcelona | accés obert al Dipòsit Digital de la UB | pendent |
 | [`eur-lex-acord-ce-andorra-1990`](fonts/eur-lex-acord-ce-andorra-1990.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts de l'acord: el Principat d'Andorra i la Comunitat Econòmica Europea | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE. Els textos consolidats, CC BY 4.0 | si |

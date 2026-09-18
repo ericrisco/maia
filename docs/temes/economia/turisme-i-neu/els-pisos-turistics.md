@@ -118,7 +118,15 @@ l'alçada d'un mur de pedra seca.
 
 ## Buits registrats
 
-- **Quants HUT hi ha**, i quants edificis han topat amb el 50%, no consta.
+- **Quants HUT hi ha**, i quants edificis han topat amb el 50%, no consta. —
+  **`parcial` el 18-09-2026**: l'API d'Estadística té una sèrie
+  «Habitatges i apartaments turístics» amb **47.221 el 2024**
+  ([font](../../../fonts/estadistica-habitatges-turistics.md)), **però la
+  xifra sembla mesurar una categoria estadística més àmplia que els HUT
+  amb llicència** —és un ordre de magnitud proper al parc d'habitatges
+  total. `DIVERGÈNCIA REGISTRADA, NO ARBITRADA`: **no citar aquesta xifra
+  com el nombre d'HUT sense contrastar-ne la metodologia.** **Els edificis
+  al 50% segueixen sense cap dada.**
 - ~~**La Llei 5/2025 va modificar aquesta llei sencera** —n'és el títol III— i el
   corpus **no ha comparat què hi va canviar**
   ([els habitatges buits](../../societat/habitatge/els-habitatges-buits.md)).~~
