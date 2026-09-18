@@ -165,7 +165,7 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
 - **Les «investigacions recents»** sobre el cas Areny. — **`obert`, confirmat.**
 - **El nom del condemnat del 1896** i per què se li va commutar la pena. —
   **`obert`, confirmat.** **Cap altre document del corpus no el nomena.**
-- **Quantes penes de mort s'han dictat a Andorra**, en total. — **`parcial`, i
+- ~~**Quantes penes de mort s'han dictat a Andorra**, en total.~~ — **`parcial`, i
   la xifra d'aquesta fitxa ja se sap incompleta.** [La presó sense
   llei](./la-preso-sense-llei.md) **n'afegeix almenys una més** que no és a la
   taula de dalt: **una sentència del segle XIX contra dos inculpats d'un crim**,

@@ -204,8 +204,8 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
 > **Auditats contra la resta del corpus el 2026-09-13.** **Dos han canviat
 > d'estat amb documents que el corpus ja tenia.**
 
-1. **Si algun tribunal va resoldre mai la qüestió.** Brutails la deixa oberta i
-   Pujadas també, cent anys després. — **`parcial`.** **Cap tribunal no ha
+1. ~~**Si algun tribunal va resoldre mai la qüestió.** Brutails la deixa oberta i
+   Pujadas també, cent anys després.~~ — **`parcial`.** **Cap tribunal no ha
    resolt *la qüestió*; però el corpus té tribunals resolent *casos* en tots dos
    sentits**, i [les fonts del dret](./les-fonts-del-dret.md) els aplega:
    **una sentència de batlle del 1868, en català, que rebutja la prescripció
@@ -236,8 +236,8 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
    `Requereix font externa: les actes del Consell General de 1753.` **És el
    mateix fons que ja esperen quatre buits de la branca bancària** — vegeu
    [el Banc Agrícol](../../economia/banca-i-fiscalitat/el-banc-agricol.md).
-4. **Qui eren els *rahonadors*** de 1877 i quina relació tenen amb el raonador
-   del ciutadà d'avui. — **`parcial`, i el corpus té les dues puntes i no el
+4. ~~**Qui eren els *rahonadors*** de 1877 i quina relació tenen amb el raonador
+   del ciutadà d'avui.~~ — **`parcial`, i el corpus té les dues puntes i no el
    fil.** **D'avui en sap molt**: el [Raonador del
    Ciutadà](../govern/el-raonador-del-ciutada.md) es regeix per la **Llei
    16/2024**, **no depèn del Govern sinó del parlament**, i **fa cinc feines

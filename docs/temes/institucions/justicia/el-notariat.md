@@ -126,10 +126,10 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    Brutails— i, des del **2021**, **mínim quatre i màxim un per cada deu mil
    habitants**. Vegeu [quants notaris](./quants-notaris.md). **Queda obert quants
    n'hi ha de fet.**
-4. **On són els protocols notarials** històrics —
+4. ~~**On són els protocols notarials** històrics —
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)?
    **Serien una de les millors fonts de llengua i de societat que existeixen.**
-   — **`parcial` des del 15-09-2026, i la resposta històrica és pitjor del que
+   ~~ — **`parcial` des del 15-09-2026, i la resposta històrica és pitjor del que
    la pregunta suposava.** **On havien de ser, consta**: el **capítol VI del
    llibre II del Politar** dona **dotze instruccions d'arxiu** —armaris retolats
    per notari i per anys, registres amb pany i clau, civils separats dels

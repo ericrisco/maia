@@ -154,9 +154,9 @@ consta:
    permanents el **14 d'abril de 1970**, primer vot el **14 de desembre de 1971**,
    i **sufragi passiu el 24 de maig de 1973**. *Aquest buit era un buit de
    referència creuada, no de coneixement.*
-3. **Les lleis de nacionalitat de 1939 i 1977** — el corpus té el resultat
+3. ~~**Les lleis de nacionalitat de 1939 i 1977** — el corpus té el resultat
    ([els andorrans de primera generació](../nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md))
-   i no les normes. — **`parcial` el 17-09-2026: ara en tenim el nom i la data
+   i no les normes.~~ — **`parcial` el 17-09-2026: ara en tenim el nom i la data
    exactes, dits per la llei vigent.** L'exposició de motius de la **Llei
    8/2026** anomena l'antecedent «**Decret del 17 de juny de 1939 de Nacionalitat
    andorrana d'origen i modes de la seva adquisició**», i la Llei del 1993

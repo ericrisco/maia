@@ -200,8 +200,8 @@ les vendes judicials. Vegeu
 
 ## Buits registrats
 
-1. **Les dues sentències de 1886** —**14 de maig** i **16 de juny**— que
-   declaren consensuals la venda i l'arrendament. `obert, datat.` — **`parcial`
+1. ~~**Les dues sentències de 1886** —**14 de maig** i **16 de juny**— que
+   declaren consensuals la venda i l'arrendament. `obert, datat.`~~ — **`parcial`
    des del 2026-09-18, amb contingut i amb una divergència de data.** **De la del
    14 de maig de 1886 ja se'n sap el raonament**: **la venda és perfecta des que
    les parts es posen d'acord sobre l'objecte i el preu, i el batlle remet al
