@@ -291,9 +291,9 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
    presentació de dos noms pel Consell es va aplicar sempre**.
 5. **Per què el 1466-1468 el notari ho és només pel bisbe d'Urgell** i no pels dos
    cosenyors. **La font no ho comenta.**
-6. **Quan es passa d'un notari a quatre, i per quina decisió.** La font dona
-   **l'estat de 1607** i **l'estat de 1904**; **entremig, res**. El decret que
-   creï el segon, el tercer i el quart **no consta**.
+6. **Quan es passa d'un notari a quatre, i per quina decisió.** **`parcial`**:
+   la font dona **l'estat de 1607** i **l'estat de 1904**; **entremig, res**. El
+   decret que creï el segon, el tercer i el quart **no consta**.
 7. **Si el decret episcopal del 30-09-1853 es va arribar a derogar**, o si
    simplement es va deixar de complir. **Lletra morta no és derogació.**
 8. **Els *signos* reproduïts a la p. 99** són **imatges**: l'evidència de text del
