@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **349** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **350** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1824,6 +1824,7 @@
 | [`enciclopedia-cat-sant-miquel-dengolasters`](fonts/enciclopedia-cat-sant-miquel-dengolasters.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-sant-serni-canillo`](fonts/enciclopedia-cat-sant-serni-canillo.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-santa-coloma`](fonts/enciclopedia-cat-santa-coloma.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
+| [`eqar-aqua`](fonts/eqar-aqua.md) | European Quality Assurance Register for Higher Education (EQAR) | registre institucional públic | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |

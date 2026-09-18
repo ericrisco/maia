@@ -62,11 +62,19 @@ l'agència pugui dir que no**. Compareu-ho amb el mecanisme paral·lel de
 
 ## Buits registrats
 
-- **Si l'AQUA ha estat reconeguda o registrada** per les xarxes europees de
-  garantia de qualitat, **no consta** al text de la llei.
-- **Quants programes ha acreditat** i des de quan és operativa, tampoc. —
-  **`obert`, confirmat el 2026-09-14, i el corpus hi apunta on es veuria**:
-  **els programes que l'AQUA acredita són els de
+- ~~**Si l'AQUA ha estat reconeguda o registrada** per les xarxes europees de
+  garantia de qualitat, **no consta** al text de la llei.~~ — **`resolt` el
+  18-09-2026**: **sí**, registrada a l'**EQAR** (European Quality Assurance
+  Register) des de l'**1-2-2025**, vàlida fins al **28-2-2030**, i **ENQA
+  affiliate** ([font](../../../fonts/eqar-aqua.md)). **Fundada el 2006 per
+  decret governamental** — 19 anys abans del registre europeu.
+- ~~**Quants programes ha acreditat** i des de quan és operativa, tampoc.~~ —
+  **`parcial` el 18-09-2026**: l'EQAR compta **40 dictàmens sobre 8
+  institucions** (34 d'acreditació ex-ante de programes, 6 de modificació)
+  — **però no queda clar si aquesta xifra cobreix tota la vida de l'AQUA
+  (des del 2006) o només des del registre a l'EQAR (2025)**. **`obert`,
+  confirmat el 2026-09-14, i el corpus hi apunta on es veuria**: **els
+  programes que l'AQUA acredita són els de
   [la Universitat d'Andorra](./la-universitat-dandorra.md)**, **la fitxa de la
   qual s'atura l'any 2000 i tampoc no en té les titulacions.**
   **Les dues fitxes es reclamen la mateixa llista i cap de les dues no la
