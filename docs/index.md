@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1064** documents · **292** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1065** documents · **293** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1296,6 +1296,7 @@
 | [Olivier Codina Vialette](temes/persones/olivier-codina.md) | `temes/persones` | compilada | contemporania | no | `olivier-codina-biografia` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roland Viader](temes/persones/roland-viader.md) | `temes/persones` | compilada | contemporania | no | `roland-viader-biografia` |
+| [Maria Rosa Ferrer Obiols](temes/persones/rosa-ferrer-obiols.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-rosa-ferrer-obiols` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Simeón de Guinda y Apeztegui](temes/persones/simeon-de-guinda.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-simeon-guinda` |
 | [Susanna Vela Palomares](temes/persones/susanna-vela.md) | `temes/persones` | compilada | contemporania | no | `consellgeneral-susanna-vela` |
@@ -1956,6 +1957,7 @@
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vi-andorra`](fonts/wikipedia-ca-vi-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vpc-andorra-rugby`](fonts/wikipedia-ca-vpc-andorra-rugby.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

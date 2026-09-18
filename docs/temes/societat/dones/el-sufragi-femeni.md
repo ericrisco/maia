@@ -305,14 +305,15 @@ de cada moment i no pas a un programa preordenat»**
     Demòcrates per Andorra** el 2019 ([fitxa](../../persones/roser-sune.md)).
 12. ~~**Mercè Bonell**, **Maria Reig**, **Rosa Ferrer** i **Montse Gil**: qui eren,
     per quin partit, quants anys. **Quatre noms i cap biografia.**~~ —
-    **`parcial`, auditat el 2026-09-14: de quatre, una es mig-tanca, dues
-    guanyen un fil i una segueix sent només un nom.**
+    **`parcial`, actualitzat el 18-09-2026: de quatre, dues tenen fitxa
+    sencera (Maria Reig, Rosa Ferrer), una es mig-tanca i una segueix
+    sent només un nom.**
 
     | Qui | Què en té el corpus | On |
     | --- | --- | --- |
     | **Mercè Bonell Bertran** | **Primera consellera general**, **20 de novembre del 1984**, **per substitució**. **Parròquia: d'Andorra** —Andorra la Vella—, i **substitueix Bonaventura Riberaygua**, que passa a **conseller de Govern** *(actes, ANA ASC 9.491, fol. 4.889; ampliat el 17-09-2026)*. **Segueix sense partit ni biografia** | [les persones](../../persones/README.md) |
-    | **Maria Reig i Moles (1951)** | **Empresària i política**, **filla de Serafí Reig i Ribó i de Maria Moles i Pasques**, **cosina d'Òscar Ribas Reig**, el primer cap de Govern, i **neboda de Julià Reig i Ribó**, síndic general dues vegades. **Única consellera de tot el període constituent** | [els Reig](../../economia/les-grans-families/els-reig.md) |
-    | **Rosa Ferrer** | Només la frase «l'únic element femení al Consell» | [les persones](../../persones/README.md) |
+    | **Maria Reig i Moles (1951)** | **Empresària i política**, **filla de Serafí Reig i Ribó i de Maria Moles i Pasques**, **cosina d'Òscar Ribas Reig**, el primer cap de Govern, i **neboda de Julià Reig i Ribó**, síndic general dues vegades. **Única dona que va participar en la redacció de la Constitució del 1993** | [fitxa](../../persones/maria-reig-moles.md) |
+    | **Maria Rosa Ferrer Obiols (1960-2018)** | **`resolt` el 18-09-2026**: consellera general (1994-2001, 2005-07, 2015), **cònsol major d'Andorra la Vella (2007-2015)**, ministra de Salut (2015). Membre fundadora del PS | [fitxa](../../persones/rosa-ferrer-obiols.md) |
     | **Montse Gil** | **Res.** Cap altra ocurrència a tot el corpus | — |
 
     **Una advertència que el corpus no salta**: hi ha **una M. Rosa Ferrer,
@@ -323,11 +324,14 @@ de cada moment i no pas a un programa preordenat»**
     l'època i **no hi ha cap font que les identifiqui.** `hipòtesi, no
     verificada.`
 
-    **I un defecte registrat**: **el buit de Maria Reig està declarat des dels
+    ~~**I un defecte registrat**: **el buit de Maria Reig està declarat des dels
     dos extrems** —aquí, com a nom sense biografia, i a
     [els Reig](../../economia/les-grans-families/els-reig.md) com a **«buit
     prioritari»**— **i cap dels dos articles no sabia que l'altre el tenia
-    obert.** **Junts en fan una fitxa possible i cap dels dos sol no.**
+    obert.** **Junts en fan una fitxa possible i cap dels dos sol no.**~~ —
+    **`resolt` el 18-09-2026**: **ja té fitxa pròpia**, a
+    [persones/maria-reig-moles](../../persones/maria-reig-moles.md) — **única
+    dona que va participar en la redacció de la Constitució del 1993**.
 13. ~~**UL a Sant Julià de Lòria**: quina formació és.~~ — **`resolt` amb el
     corpus.** **UL és Unió Laurediana**, **el partit parroquial de Sant Julià de
     Lòria**, que **avui consta encara com a formació extraparlamentària viva**

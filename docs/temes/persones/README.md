@@ -68,7 +68,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Mercè Bonell** | **Primera consellera general**, 1984, per substitució | [fitxa parcial](../societat/dones/el-sufragi-femeni.md) |
 | **Maria Teresa Armengol i Bonet** | **Primera electa** (1985) i primera al Consell Superior de la Justícia (2005) | ídem |
 | **Maria Reig i Moles** | **Única consellera de tot el període constituent.** I **cosina d'Òscar Ribas Reig**, el primer cap de Govern | **buit, amb un fil nou** |
-| **Rosa Ferrer** | Durant anys «l'únic element femení al Consell» | **buit** |
+| **Maria Rosa Ferrer Obiols** | Durant anys «l'únic element femení al Consell»; consellera (1994-2001, 2005-07, 2015), cònsol major (2007-2015), ministra de Salut | [fitxa](./rosa-ferrer-obiols.md) |
 | **Claudina Rossel i Badia** | **Primera dona que representa Andorra als Jocs Olímpics**, Calgary 1988 | [fitxa](../esports/esqui/esquiadors/claudina-rossel.md) |
 | **Pepita Aguilar · Quima Calvó · Angelina Mas** | Tres de les **378 sufragistes** de 1968 | **buit prioritari: falten 375 noms** |
 
