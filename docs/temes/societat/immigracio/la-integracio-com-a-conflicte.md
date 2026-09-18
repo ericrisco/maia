@@ -121,8 +121,27 @@ càrrecs.
 
 **La sèrie de síndics del corpus dona Francesc Areny i Casal des del 10 de març
 de 1997** ([els síndics generals](../../persones/els-sindics-generals.md)), i
-**no hi ha cap Álvarez**. Pot ser **el subsíndic**, un **segon cognom**, o **un
-buit de la llista del corpus**. **Registrat, no resolt.**
+**no hi ha cap Álvarez.**
+
+**Resolt el 18-09-2026, i la hipòtesi del corpus era la bona: era el
+subsíndic.**
+
+| Càrrec | Nom | Del | Al |
+| --- | --- | --- | --- |
+| Síndic general | Francesc Areny Casal | 10-03-1997 | 13-01-2001 |
+| **Subsíndic general** | **Miquel Àlvarez Marfany** | **10-03-1997** | **13-01-2001** |
+| Ministre de **Sanitat** | **Josep Maria Goicoechea Utrillo** | **14-12-1995** | **21-03-1997** |
+
+**Goya escriu l'agost del 1997 i els dos noms són exactes**, amb un matís que
+reforça el seu argument en lloc de debilitar-lo: **Goicoechea ja havia deixat el
+càrrec cinc mesos abans**, de manera que **el que Goya recorda és la fotografia
+del govern anterior**, i **Àlvarez era subsíndic, no síndic.** **Els dos
+cognoms eren als dos càrrecs, i la imprecisió és de rang, no de fet.**
+
+**El nomenament de Goicoechea consta al BOPA** —decret del 14-12-1995— i **la
+Sindicatura del 1997 és a la llista de consellers generals de la II
+legislatura** (`docs/raw/web/politica/`, baixades el 18-09-2026 de la
+[Viquipèdia](../../../fonts/viquipedia-ca.md)).
 
 ## La crítica de la identitat col·lectiva
 
@@ -162,13 +181,14 @@ I Goya no la converteix en nihilisme:
 2. **L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
    quina norma, i què se'n va dir. **Prioritari.**
 3. **Els edictes de contractació pública** de 1996-1997 i la seva redacció.
-4. **Qui era el síndic Álvarez** (vegeu més amunt), i **el ministre
-   Goicoechea**. — **`obert`, confirmat.** **Cap dels dos noms no surt en cap
-   altre document del corpus** —**Goicoechea, en cap**; **«Álvarez» surt set
-   cops i totes set vegades és una altra persona**, sobretot
-   [Koldo Álvarez](../../esports/futbol/koldo-alvarez.md). **El corpus no té
-   cap sèrie de síndics generals ni de ministres**, i **aquest buit no és
-   d'aquesta fitxa sinó de [persones](../../persones/README.md).**
+4. ~~**Qui era el síndic Álvarez** (vegeu més amunt), i **el ministre
+   Goicoechea**.~~ — **`resolt` el 18-09-2026**: **Miquel Àlvarez Marfany**,
+   **subsíndic** general del 10-03-1997 al 13-01-2001, i **Josep Maria
+   Goicoechea Utrillo**, **ministre de Sanitat** del 14-12-1995 al 21-03-1997.
+   Vegeu [Una dada que no quadra](#una-dada-que-no-quadra). `El corpus segueix
+   sense tenir una sèrie de ministres per cartera i any, que és el que faria
+   comprovables afirmacions com aquesta sense sortir del corpus.`
+   `serie_estadistica`
 5. **Si l'accés per temps de residència és realment del 1995** o hi ha
    precedents.
 
