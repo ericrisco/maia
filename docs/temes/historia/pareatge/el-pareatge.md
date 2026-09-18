@@ -311,7 +311,12 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
   **Prioritari.**
 - **Per què cap comte de Foix no va tornar a fer l'homenatge**, i si algú els ho
   va reclamar.
-- **El pareatge del 1288**, text. **Confirmat pel Papa**, com el primer.
+- ~~**El pareatge del 1288**, text. **Confirmat pel Papa**, com el primer.~~ —
+  **`resolt` el 19-09-2026 com a buit duplicat**: el text complet del Pareatge
+  que ja consta al punt anterior —**traducció francesa de Vilar (1904), pp.
+  159-173**— és precisament el document de **1288**. El **llatí original**
+  continua obert al punt anterior; aquest enunciat no hi afegeix una font ni una
+  pregunta diferent.
 - **NOU, i comparatiu:** **el pariatge de la Vallferrera del 1265**, tretze anys
   anterior i **amb el mateix Roger Bernat com a part**
   ([els privilegis](../edat-mitjana/els-privilegis.md)). **Cap altra font del
