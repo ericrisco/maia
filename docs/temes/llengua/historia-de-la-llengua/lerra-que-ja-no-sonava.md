@@ -1,7 +1,7 @@
 ---
 type: article
 title: L'erra que ja no sonava
-description: "Els vuitanta-set pàgines de fonètica, morfologia i sintaxi de Rull, destil·lades: com s'escriu una lletra per demostrar que no es pronunciava."
+description: "Les vuitanta-set pàgines de fonètica, morfologia i sintaxi de Rull, destil·lades: com s'escriu una lletra per demostrar que no es pronunciava."
 tema: temes/llengua/historia-de-la-llengua
 veu: compilada
 epoca: historica
@@ -181,6 +181,111 @@ no s'escrivís.`
   ***hòmens***, de *hominu* — *«no es trobaria memòria de **hòmens** en
   contrari»*.
 
+## La sintaxi: sis coses que ja no es diuen així
+
+**El capítol 3 (p. 71-99) és el que descriu com s'encadenaven les frases. Sis
+trets hi destaquen, i cap dels sis no és el d'avui.**
+
+### 1. El perfet es feia amb «ser»
+
+**És el tret més sistemàtic del capítol.** Als segles XVII i XVIII, **els verbs
+inacusatius —de moviment, pronominals, `ser` i `estar`— fan el present perfet
+amb `ser`, no amb `haver`.**
+
+| Any | Text |
+| --- | --- |
+| **1600** | *«moltes vegades nos hi **som** ajuntats per a igualar-los»* |
+| 1603 | *«la sancta confraria del Roser, que ara novament en sa capella **s'és** instituhida y fundada»* |
+| **1606** | *«ni tal diu **és estat** nuncha llur intenció»* |
+| 1615 | *«Les quals coses **se són** fetes vuy, que comptam a vint-y-quatre del mes de agost»* |
+| 1615 | *«**sien estats** presos y capturats Simon Pefarrer […] y Andreu Rocha»* |
+| **1659** | *«Personalment **s'és** constituït lo honorable Joan Colat»* i *«Del que **són estats** present per testimonis»* |
+| **1684** | *«Vuy, als primers de abril, 1684, **és passat** d'esta vida en l'altra»* |
+| 1748 | *«me **es estat** precis, y necessari buscar la llum en los actes dels arxius»* — *Manual digest*, foli 3 |
+
+**I el participi hi concorda en gènere i nombre**: *«la casa que jo ab mos reals
+he **feta**»* (1603), *«se li ha **donada** eclesiàstica sepultura»* (1684).
+
+**Aquest auxiliar ha desaparegut del català modern**, i **el corpus el tenia
+documentat en un sol text del 1421**
+([la fitxa germana](./per-que-el-manual-digest-no-diu-com-es-parlava.md)).
+**Ara en té vuit, repartits al llarg de cent-quaranta-vuit anys.**
+
+### 2. El complement directe portava «a», i no només de persona
+
+**«…y acollir en ses cases **als** hostes»** (Comú d'Andorra, **21-9-1617**);
+**«guaña **als** moros los Castells de Valencia y de Esterri»** (*Manual
+digest*, 1748, foli 26); **«despues que agué expellit **als** Moros de ditas
+Valls»** (*Politar andorrà*, 1763, foli 27); **«manant **als** oficials y
+collectors de dit dret no exigesquen altra cosa»** (*Politar*, foli 195).
+
+`Rull hi anota que la preposició pot aparèixer «fins i tot si no és una
+persona».`
+
+### 3. L'infinitiu podia dur article
+
+**Als textos historicojurídics, l'infinitiu amb valor abstracte va precedit
+d'article definit:**
+
+- **«¿és llei natural, divina o humana **lo haver de pagar** dit particular, per
+  lo import del robo que ignorava y ésser impossible **lo poder avisar**, 89
+  lliures 9 sous?»** — document del **vicari de Canillo, 1731**.
+- **«un Escolta de sis, o mes homens armats, que lo guardan tant en **lo venir**
+  com en **lo anar**»** — *Manual digest*, 1748, foli 197.
+
+**Rull hi posa la prudència que cal**: era un recurs habitual **arreu i fins al
+segle XX**, potser més escrit que parlat.
+
+### 4. Els règims verbals eren uns altres
+
+| Verb | Com regia llavors | Exemple datat |
+| --- | --- | --- |
+| **fugir** | **`a` per a la destinació** *(avui, `de`)* | *«volent **fugir a** litigis»* — Organyà i el síndic d'Andorra, **16-4-1651** |
+| **procurar** | amb **`de`** interposat | *«se age de **procurar de** alcansar la vida eterna»* — testament, **23-3-1603** |
+| **acostumar** | amb **`de`**, encara que també sense | *«los jornallés **acostumen de** fer»* — Consell de la Terra, **maig del 1603** |
+| **servir** | **`de` + infinitiu** per a l'activitat | *«condempnam en deu anys continuos de galera, per a què aquí **servesca de remar**»* — Tribunal de Corts, **17-4-1619** |
+
+**Aquella sentència de 1619 és, de passada, un document penal**: **deu anys de
+galeres** per a **Joan Dalmau àlies lo Sastret**, *«perquè a ell […] sia en pena
+y càstich de sos crims y culpes, y als demés altres servescha de exemple
+perpètuo»*.
+
+### 5. «Estar» volia dir «haver-hi»
+
+**El verb `estar` s'usava amb valor locatiu pur, equivalent a `haver-hi`**, sense
+implicar permanència:
+
+- **«lo vas de nostra casa dels Busquets, que **està** dins lo porxo del cementiri
+  de sant Pere»** (1603);
+- **«lo escudellé **està** en la recuina y armaris **estan** en la cuyna»** (1603);
+- **«y mes aball sobre la dreta, **esta** lo Notari»** (*Manual digest*, 1748).
+
+### 6. Construccions que s'han perdut senceres
+
+| Construcció | Què volia dir | Font |
+| --- | --- | --- |
+| **`tenir … a`** | **‘per a'** | *«ab tal **tingue a viure** de sa asienda»* — **Junta del Morbo**, agost del **1652** |
+| **`donar a` + àpat** | donar de menjar o beure | *«ningú puge **donar a sopar** lo diumenge a vespre […] no·ls pugen **donar a dinar** l'endemà»* — **1603** |
+| **`restar que` + infinitiu** | quedar per fer | *«**resten** en lo present llibre tres coses **que averiguar**»* — *Politar*, 1763, foli 69 |
+| **`prendre la pena`** | *(avui, valer o pagar la pena)* | *«Vullan **pendrer la pena** de llegir tot lo Capitol»* — *Manual digest*, 1748, foli 8 |
+
+**I `ab` és la preposició d'acompanyament** —*ab la gran sanch*, *ab dues
+coixineres*, *ab acte públich*— **arreu del corpus de Rull.**
+
+### Una ordinació que és sintaxi i és història social alhora
+
+**La sessió de Sancogesma del Consell de la Terra de maig del 1603 surt citada
+quatre vegades al capítol per motius gramaticals.** Pel que hi diu, mereix
+sortir-hi una cinquena:
+
+> *«ordene la Terra […] que ningú no·ls pugue donar més de tres voltes a beure
+> vi, so és, tres asmorzar, a terciolla altres dues, i tres a dinar, y tres a
+> birenà, i dues all […], y tres a sopar, i no més.»*
+
+**El Consell de la Terra racionava el vi dels jornalers per àpat**, i la mateixa
+ordinació **els fixava el jornal màxim** —*«més de tres sous per jornall»*— i
+**deixava els tonedors fora del límit** (*«accepto tonedós»*).
+
 ## Per què aquest capítol importa a aquest corpus
 
 **Perquè és l'única descripció gramatical del parlar andorrà d'època moderna
@@ -194,9 +299,9 @@ prova.**
 
 ## El que falta
 
-- **La sintaxi, capítol 3 (p. 71-99)**, llegida en extracte i **no destil·lada
-  aquí**: partícules, règim verbal, *ser* i *estar*, perífrasis. `És el terç
-  restant del llibre.`
+- **El detall de les partícules (3.1) i de les perífrasis (3.5)** que aquesta
+  fitxa resumeix però no esgota: `s'hi han pres els sis trets que l'autor
+  destaca, no totes les cites.`
 - **Cap document original no s'ha vist.** El corpus cita **Rull citant**
   Bascompte (1997), Pohle (2008), Riera i Simó (1980) o l'Arxiu Nacional, **i el
   llibre no dona signatures d'arxiu.**

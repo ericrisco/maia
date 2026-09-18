@@ -214,8 +214,10 @@ fonètica, morfologia i sintaxi —p. 13-99, vuitanta-set pàgines— no.**~~ �
 **la fonètica (cap. 1) i la morfologia (cap. 2)**, amb **cada tret amb la seva
 cita datada** —l'argument de l'`-r` emmudida provada per *escriurer*, el
 `an-a ell` del *Manual digest*, el pas ø → -e → -o en dos-cents anys, els quatre
-sistemes de subjuntiu i la pèrdua de *dues*—. `Segueix obert el capítol 3, la
-sintaxi (p. 71-99).`
+sistemes de subjuntiu i la pèrdua de *dues*— **i la sintaxi (cap. 3)**, amb
+**els vuit testimonis del perfet amb `ser` entre el 1600 i el 1748**, els règims
+de *fugir*, *procurar*, *acostumar* i *servir*, i **quatre construccions
+perdudes senceres**. **Els tres capítols, tancats.**
 
 **Cap document original no s'ha vist, i la cadena té un graó que falta.** El
 corpus cita **Rull citant** Bascompte (1997), Pohle (2008), Riera i Simó (1980),
