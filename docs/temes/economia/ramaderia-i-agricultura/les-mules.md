@@ -170,7 +170,7 @@ XVIII**.
    en la seva totalitat aquesta mena de comerç».
 2. ~~**Quines fires** catalanes exactament.~~ **TANCAT**: Verdú, Santa Coloma de
    Queralt, Salàs, Organyà i Guissona. **No la Seu.**
-3. **Els traginers** andorrans: rutes, organització, si tenien confraria. —
+3. ~~**Els traginers** andorrans: rutes, organització, si tenien confraria.~~ —
    **`parcial` des del 2026-09-13, i és el mateix buit que declara
    [el comerç a l'edat moderna](../comerc/el-comerc-a-ledat-moderna.md).**
    **De l'organització se'n sap ara una cosa**: **a cada parròquia hi havia
@@ -185,8 +185,8 @@ XVIII**.
 4. ~~La **reexportació**: hi havia regulació, ho tolerava el Consell, quedava
    documentat?~~ **TANCAT**: drets al General i de nova ampra, Sartine 1728,
    Sentència de manutenció.
-5. **Quan es deixa de criar mula** per vendre. Segueix obert: Mas 1994 arriba al
-   començament del XIX i Mas 2002 salta a la mecanització. — **`parcial` el
+5. ~~**Quan es deixa de criar mula** per vendre. Segueix obert: Mas 1994 arriba al
+   començament del XIX i Mas 2002 salta a la mecanització.~~ — **`parcial` el
    18-09-2026**: **no es diu quan, però sí on s'acaba.** El padral del juny de
    2026 compta **set mules i matxos a tot el país** —cinc femelles i dos
    mascles—, contra les **60** del cens de 1900, i **el 76% dels equins
