@@ -218,8 +218,11 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    modifiquen.** **La font ho declara i no ho detalla.** **Prioritari**: és dret
    vigent declarat, i el corpus no en té el text.
    `Requereix font externa: Pragmaticas, IV, 11, p. 71; Pella y Forgas, Tratado de las relaciones y servidumbres entre las fincas.`
-2. **La sentència de visura de 1899** que enuncia la presumpció a favor del fons
-   servent, **sencera**, i **si el principi consta en alguna norma escrita.**
+2. ~~**La sentència de visura de 1899** que enuncia la presumpció a favor del fons
+   servent, **sencera**, i **si el principi consta en alguna norma escrita.**~~ —
+   **`parcial` el 18-09-2026**: **la font en conserva la frase que formula la
+   presumpció** i diu que és un principi sovint invocat; **no hi ha encara la
+   resta de l'acta ni una norma escrita independent**.
 3. **Les sentències de visura de 1875 i de 1886**: **sense identificació de parts**,
    i **la del mur de la presó sense data de dia.**
 4. ~~**Què són les *merseries***~~ — **`parcial` el 16-09-2026.** **El
@@ -241,8 +244,10 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    fan servir el mot com a peça de terra sembrada.** `El que no queda tancat és
    què s'hi sembrava a Andorra: el DCVB documenta llegums i patates a Esterri, i
    cap font andorrana no ho diu.`
-5. **Els decrets del 24-11-1885, 23-11-1877, 27-05-1879, 15-04-1886 i 05-04-1887**,
-   sencers.
+5. ~~**Els decrets del 24-11-1885, 23-11-1877, 27-05-1879, 15-04-1886 i 05-04-1887**,
+   sencers.~~ — **`parcial` el 18-09-2026**: **els cinc decrets tenen data i
+   regla documentades** —pas amb bèsties, manteniment del camí i de la paret—,
+   però **no se'n conserven els textos sencers**.
 6. ~~**El Politar, p. 209, 263 i 266**, que **el corpus no té** i que **són les
    tres pàgines on el mot *antoxá* apareix amb sentits diferents.**~~ —
    **`resolt` el 18-09-2026: les tres pàgines s'han llegit dins l'extracte de
