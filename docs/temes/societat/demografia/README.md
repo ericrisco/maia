@@ -4,7 +4,8 @@ Una població d'unes 85.000 persones i tot el que això implica.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (10)
+## Articles (11)
+- [Setanta-nou anys de padró](./setanta-nou-anys-de-padro.md) — La població registrada d'Andorra, 1947-2025, i els naixements i defuncions des del 1953. El creixement vegetatiu del 2020 és una cinquena part del del 2008 i el saldo migratori es gira el 2014.
 - [Demografia](./demografia.md) — 90.021 residents estimats i 94.596 registrats el juliol de 2026; origen, nacionalitat i llengua demanen dades diferents.
 - [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md) — El juliol de 2026 Encamp perd població registrada i en guanya d'estimada; les dues sèries oficials compten de manera diferent.
 - [La composició per nacionalitats](./la-composicio-per-nacionalitats.md) — Els andorrans passen del 87% de la població el 1936 al 17,5% el 1983 i tornen al 48,7% el 2020.

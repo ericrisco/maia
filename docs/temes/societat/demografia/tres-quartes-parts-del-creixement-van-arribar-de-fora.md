@@ -232,15 +232,27 @@ d'aquests dos passaports de la que n'entra**. Els que sostenen el saldo són
   és fals.** **Cap columna de la sèrie no té origen atribuïble.** `Requereix font
   externa: el Departament d'Estadística.` **Buit prioritari**: sense això, les
   xifres de vegetatiu i migratori són citables només com «la taula de la pàgina
-  73 d'aquest llibre».
+  73 d'aquest llibre». — **`parcial` el 18-09-2026**: **el corpus ja no en
+  depèn per al vegetatiu**, que té any per any del 1953 ençà amb font declarada
+  —**Departament de Justícia i Interior**— a
+  [setanta-nou anys de padró](./setanta-nou-anys-de-padro.md).
+  `L'origen de la taula del llibre segueix sense atribuir.`
 - **Per què el saldo migratori del quinquenni 1995-2000 és negatiu.** −711 en una
   sèrie que no en té cap altre. **Ni el llibre ni el corpus ho expliquen.**
 - **La cel·la «augment 2004».** El corpus **no la corregeix** i **no sap** si
   l'error és a l'augment o a alguna de les poblacions. **Les dues comprovacions
   apunten a l'augment**, i això és tot el que se'n pot dir.
-- **La sèrie és quinquennal fins al 1995 i després salta a 2000, 2004 i 2007.**
+- ~~**La sèrie és quinquennal fins al 1995 i després salta a 2000, 2004 i 2007.**
   **Els anys intermedis no hi són**, i el corpus **no pot situar en quin any
-  concret es va girar el saldo migratori.**
+  concret es va girar el saldo migratori.**~~ — **`resolt` el 18-09-2026**:
+  **la població registrada hi és any per any del 1947 al 2025** i **els
+  naixements i les defuncions del 1953 al 2025**, per l'API d'Estadística, i
+  **el saldo migratori calculat es gira el 2014**: negatiu del 2010 al 2013 i
+  positiu els onze anys següents
+  ([setanta-nou anys de padró](./setanta-nou-anys-de-padro.md)).
+  `El saldo és un càlcul del corpus —variació de població menys vegetatiu— i cap
+  font no el publica així. I dels anys anteriors al 2009 no es pot fer, perquè
+  la població total no comença fins llavors.`
 - ~~**La taula de Camiade, reverificada sobre la pàgina impresa.**~~ — **`resolt`
   el 16-09-2026**: **la transcripció del corpus és exacta** i **la fila del 1960
   no suma ja a l'imprès** (8.492 de columnes sota un total de 8.792). **L'error
