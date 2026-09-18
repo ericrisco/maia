@@ -37,6 +37,7 @@ diu d'on treu cada xifra.
 | **Evangèlica** | **Temple a Encamp** | — |
 | **Moon** | Present | — |
 | **Baha'i** | Apostolat portat per **William Danjon**, arribat el 7-10-1953 ([font](../../../fonts/bahai-world-news-andorra-danjon.md)) | — |
+| **Jueva** | **ACIV des del 1998**, sense sinagoga oficial per llei; **primer legislador jueu del Consell General el 2023** ([font](../../../fonts/jpost-comunitat-jueva-andorra.md)) | **~73** (2024) |
 
 **Avís del corpus:** **les dues xifres són estimacions, no censos.** La font
 escriu «**han estat calculats en uns 2.000**». **No s'han de citar com a dades
@@ -244,8 +245,13 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    haver cens— i **garantia nominal a l'Església catòlica** de «col·laboració
    especial amb l'Estat d'acord amb la tradició andorrana».
 7. **La missa rociera** i **les janeiras**: quan, on, des de quan.
-8. **Si hi ha comunitat jueva**, budista o ortodoxa. **La font no en diu res** i
-   hi ha **578 russos i 122 ucraïnesos** al país.
+8. ~~**Si hi ha comunitat jueva**, budista o ortodoxa. **La font no en diu
+   res** i hi ha **578 russos i 122 ucraïnesos** al país.~~ — **`parcial`
+   el 18-09-2026**: **sí, comunitat jueva, uns 73 membres (2024)**, l'ACIV
+   des del **1998**, sense sinagoga oficial per llei — i amb **el primer
+   legislador jueu del Consell General, Salomó Benchluch, elegit el 2023**
+   ([font](../../../fonts/jpost-comunitat-jueva-andorra.md)). **Budistes i
+   ortodoxos, sense font, segueix obert.**
 9. ~~**Com conviuen aquestes confessions amb un cap d'estat que és bisbe.** La
    pregunta no la fa cap font i és òbvia.~~ **LA RESPON EL DRET, I ÉS
    ESTRUCTURAL.** Amb la **Llei 2/2025**, les confessions no catòliques obtenen

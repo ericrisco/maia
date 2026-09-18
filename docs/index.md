@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **249** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **250** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1800,6 +1800,7 @@
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`jpost-comunitat-jueva-andorra`](fonts/jpost-comunitat-jueva-andorra.md) | The Jerusalem Post · Jewish Telegraphic Agency (JTA) | premsa, drets reservats; citació breu | False |
 | [`jurisprudencia-ad`](fonts/jurisprudencia-ad.md) | Eric Risco · Jurisprudència.ad | norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte | si |
 | [`komac-biodiversitat-canvi-climatic`](fonts/komac-biodiversitat-canvi-climatic.md) | Benjamin Komac i Mingaud · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`la-cuestion-de-andorra-1894`](fonts/la-cuestion-de-andorra-1894.md) | Consell General dels Valls d'Andorra · obra de 1894, domini públic | domini públic per antiguitat; digitalització de Google Books a partir d'un exemplar de biblioteca | si |
