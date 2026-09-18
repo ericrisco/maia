@@ -137,4 +137,27 @@ climàtiques fortes» (article 5.4).
 - **Les sancions** i la taxa d'autoritzacions queden pendents.
 - **Quantes autoritzacions d'entrada i sortida es donen**, no consta.
 - **Si hi ha obligació d'identificació i registre** dels animals de companyia
-  —xip, cens comunal— no s'ha comprovat en el que s'ha llegit.
+  —xip, cens comunal— no s'ha comprovat en el que s'ha llegit. — **`parcial` el
+  18-09-2026, per l'altra banda**: **el registre existeix i es publica**. L'API
+  del Departament d'Estadística en dona el recompte, **2010-2025**, font
+  **Departament d'Agricultura i Ramaderia** (divisions 2489 i 2493):
+
+  | | 2010 | 2015 | **2020** | 2022 | 2025 |
+  | --- | ---: | ---: | ---: | ---: | ---: |
+  | **Gossos** | 8.096 | 10.334 | **11.134** | **8.805** | 9.350 |
+  | **Gats** | 1.237 | 1.770 | 2.848 | 3.513 | **6.025** |
+  | **Total** | 9.333 | 12.104 | 13.982 | 12.318 | **15.375** |
+
+  **Els gats es multipliquen gairebé per cinc en quinze anys** i **els gossos
+  toquen sostre el 2020 i en perden 2.329 en dos anys**, un **−20,9%**. `La
+  font no diu si el 2022 és una baixa real o una depuració del registre; la
+  caiguda és tan brusca i tan concentrada que el corpus no la llegeix com a
+  mortalitat.`
+
+  **I hi ha desglossament per raça.** **El gos més nombrós d'Andorra és el
+  creuat** —2.077 el 2025—, seguit del **terrier de Yorkshire** (627) i del
+  **border collie** (571), que **és l'única raça que creix tots els anys fins al
+  2023**. **El gat comú europeu és el 81,7% dels gats.**
+
+  `El que això no tanca és la pregunta legal: que hi hagi registre no demostra
+  que la llei n'obligui la inscripció. El text llegit no ho diu.`
