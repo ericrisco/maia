@@ -30,7 +30,7 @@ que és tard**: la comprovació correcta era mirar `docs/raw/` abans del sondeig
 | Codi | Activitat | Data | Porta dades? |
 | --- | --- | --- | --- |
 | **A024** | Pre-ensenyament superior | `20241118` | **sí**, 714 línies |
-| **A052** | Prestacions per desocupació involuntària | `20240606` · `20241111` · `20250403` | **sí** |
+| **A052** | Prestacions per desocupació involuntària | `20240606` · `20241111` · ~~`20250403`~~ | **sí** |
 | **A053** | Prestacions no contributives | `20240606` | **sí**, 746 línies |
 | **A109** | Efectius i rendiments ramaders | `20250527` | **no**, nota-punter |
 | **A110** | Pesca fluvial | `20250325` | **no**, nota-punter |
@@ -42,8 +42,9 @@ que és tard**: la comprovació correcta era mirar `docs/raw/` abans del sondeig
 ## L'error d'aquest sondeig, escrit
 
 **Nou dels tretze encerts eren nous; tres ja eren al corpus.** **A052 del
-`20250403` és exactament el fitxer que ja hi ha a
-`../estadistica-prestacions/a052-desocupacio-20250403.txt`**, i **A117 té dues
+`20250403` és byte a byte el fitxer que ja hi ha a
+`../estadistica-prestacions/a052-desocupacio-20250403.txt`** —comprovat amb
+`cmp`, i **el duplicat s'ha esborrat d'aquesta carpeta**—, i **A117 té dues
 notes més recents i més completes a `../estadistica-habitatge/`**, **sota el nom
 compost `A117_A145`** —que és per això que un sondeig per `A117_<data>` sol no
 les torna, i **el README d'aquella carpeta ja ho advertia**.
