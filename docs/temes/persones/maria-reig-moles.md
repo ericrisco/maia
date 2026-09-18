@@ -76,8 +76,10 @@ creuar-lo amb la seva mare.**
 
 1. **Els càrrecs de govern exactes** que va ocupar — la font en parla en
    general, sense noms ni anys.
-2. **Rafael Reig i Sans**: quan funda Tabacs Reig, i què hi havia abans
-   — buit que ja assenyalava [els Reig](../economia/les-grans-families/els-reig.md).
+2. ~~**Rafael Reig i Sans**: quan funda Tabacs Reig, i què hi havia abans
+   — buit que ja assenyalava [els Reig](../economia/les-grans-families/els-reig.md).~~ —
+   **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda a
+   *Els Reig*.
 
 ## Related
 
