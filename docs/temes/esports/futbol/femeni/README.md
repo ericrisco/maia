@@ -112,8 +112,10 @@ Alexia també hi ha corregut.** **Tres persones de la mateixa família al Dakar.
 - **Les nou victòries** de les dotze que el corpus no sap contra qui van ser.
 - **La competició nacional femenina del 2010-11** que la font esmenta en una
   línia i no torna a esmentar.
-- **Les seleccions de base**: la sub-17 existeix i el corpus només en té
-  [una jugadora](./maria-moles.md).
+- ~~**Les seleccions de base**: la sub-17 existeix i el corpus només en té
+  [una jugadora](./maria-moles.md).~~ **`parcial`:** la fitxa ja confirma
+  l'existència de la sub-17 i documenta Maria Moles; les plantilles completes
+  i les altres categories de base encara no són al corpus.
 - **L'arbitratge femení andorrà**, que [Ainhoa Fernández](./ainhoa-fernandez.md)
   apunta i el corpus no ha llegit.
 - **Les 37 jugadores que la federació declarava a la FIFA el 1997.** Cap nom.
