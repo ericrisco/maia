@@ -78,13 +78,15 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Tomás_Cano.wiki`](../../../raw/web/esport/atletes/Tomás_Cano.wiki)).
 
-- **Quin és el rècord d'Andorra de salt d'esquí** i quan el va fer. —
+- ~~**Quin és el rècord d'Andorra de salt d'esquí** i quan el va fer.~~ —
   **`obert` pel que fa a la xifra, i confirmat que el té.** **El bolcat diu que
   és el posseïdor del rècord nacional andorrà i no en dona el metratge.**
   **El que sí que dona són els seus salts d'època andorrana**: **58,5 i 60 m a
   la Copa del Rei del 3 de febrer del 1991** (33è de 41), **60,5 i 60 m el
   1992** (15è) i **64,5 i 62,5 m al Campionat d'Espanya del 1992, competint com
-  a andorrà** (4t). `Requereix font externa: la federació.`
+  a andorrà** (4t).~~ — **`parcial`: el posseïdor i els salts datats queden
+  documentats, però el metratge oficial del rècord encara requereix la
+  federació.
 - ~~**On va néixer**, i quina relació té amb Andorra.~~ — **`resolt` pel que fa
   a l'origen i `parcial` pel que fa a la relació.** **És d'ELX**, i **després
   es va traslladar a Catalunya**; **el bolcat el tracta d'«espanyol i
