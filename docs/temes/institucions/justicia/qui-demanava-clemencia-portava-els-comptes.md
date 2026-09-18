@@ -252,7 +252,33 @@ font sobre ella mateixa:**
    *rahonadors* els portaven, hauria d'existir un llibre.** **Prioritari**: **és
    el que permetria comprovar si la commutació de penes en multes era realment la
    font d'ingressos.**
-2. **El *Politar*, pp. 346-347.** — **Les pp. 236 i 237-238, `resoltes` el
+2. ~~**El *Politar*, pp. 346-347.**~~ — **`resolt` el 18-09-2026, i la 347 tanca
+   el comptable del cerimonial.**
+
+   **Qui mana l'executor i qui el paga hi són nomenats**: **«Los Batlles, fiscal
+   y notari, en estes funcions, solen anar a caball al detras del reo y guardes,
+   portant al procurador fiscal en lo mitg, ***lo fiscal per manar al executor en
+   tot lo que dega obrar y pagarlo un poch antes de obrar la execussio***, y lo
+   notari per al ultim llevar acte de la execussio de la sentencia y registrar lo
+   proces; los Batlles, com a ministres dels Princeps, per manar especialment la
+   gent de armes.»**
+
+   **I la comptabilitat continua després de la mort**: **acabades les execucions,
+   s'acompanya l'executor «ben escoltat de gent ab armes […] fins a son poble de
+   haon lo hauran tret, ***y se notaran sos gastos y salaris***»**.
+
+   **La mateixa pàgina dona la caritat organitzada del dia**: **«es molt conforme
+   a pietat y caritat que lo dia de la execussio, ***desde l' mati***, se
+   apliquien persones devotes en ***acaptar per misses y sufragis per lo pobre
+   penitent*** y ***regalarlo mentras esta en la cambra***»**. **Es demanava
+   almoina per a les misses del condemnat el mateix matí que l'executaven.**
+
+   **I el destí del cos**: **si la sentència mana exposar-lo «per escarment de la
+   gent», el porta l'executor l'endemà, escortat**; **si la Cort dona llicència
+   per sepultar-lo, s'hi porta «despues de 3 o 4 hores de la execussio o lo
+   endema»**.
+
+   **Les pp. 236 i 237-238, `resoltes` el
    18-09-2026, i no són de raonadors sinó de porters: el capítol VIII.**
 
    **El Politar comença aclarint que són un sol ofici amb quatre noms**:
