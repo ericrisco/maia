@@ -106,6 +106,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   jugadors notables amb la nota «seleccions de base»**, i **no apareix a cap
   taula de partits ni de punts de l'absoluta**. **El Colom de l'absoluta és
   Guillem** —33 partits, 423 punts, tercer màxim anotador històric.
+  `no-es-buit`: és una precisió d’abast de la font, no una pregunta pendent.
 
 ## Related
 
