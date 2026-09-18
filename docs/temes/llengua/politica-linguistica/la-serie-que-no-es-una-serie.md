@@ -555,7 +555,10 @@ qualsevol de les dues llengües, s'està acabant.**
 **Això no és l'estudi.** El document ho diu de si mateix: és **«un recull
 sintètic extret d'un informe més exhaustiu i detallat»** que remet a
 `www.catala.ad`. **Aquell informe no s'ha localitzat.** Les desagregacions, el
-qüestionari i les bases hi són, i el corpus no els té.
+qüestionari i les bases hi són, i el corpus no els té. — **`parcial` el
+18-09-2026**: el domini **va deixar d'existir**; el 2018 redirigia a
+`cultura.ad/llengua`, contingut no capturat per la Wayback Machine
+([font](../../../fonts/wayback-catala-ad.md)). **Pista, no troballa.**
 
 ~~**El capítol d'usos lingüístics, p. 17-37, no s'ha destil·lat.** Vint-i-una
 pàgines i és el gruix del document.~~ — **`resolt` el 17-09-2026**: és ara

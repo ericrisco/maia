@@ -434,6 +434,10 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   de si mateix, igual que el del 2022: **«un recull sintètic extret d'un informe
   més exhaustiu i detallat que podeu consultar al web www.catala.ad».** **Catorze
   anys i dues edicions després, el corpus segueix sense localitzar-lo.**
+  — **`parcial` el 18-09-2026**: `www.catala.ad` **va deixar d'existir com a
+  domini independent** ([font](../../../fonts/wayback-catala-ad.md)); **el
+  2018 redirigia a `cultura.ad/llengua`**, contingut que la Wayback Machine
+  no ha capturat. **Pista, no troballa.**
 - **El qüestionari.** No és al llibret. **Sense ell, no se sap com estava
   formulada cap pregunta** llevat de la del canvi de llengua, que sí que es
   reprodueix.
