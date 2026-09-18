@@ -252,9 +252,61 @@ font sobre ella mateixa:**
    *rahonadors* els portaven, hauria d'existir un llibre.** **Prioritari**: **és
    el que permetria comprovar si la commutació de penes en multes era realment la
    font d'ingressos.**
-2. **El *Politar*, pp. 185, 193, 195, 197, 200, 236, 237-238, 277, 280 i
-   346-347.** — **La p. 337, `resolta` el 18-09-2026, i és la que dona el títol
-   d'aquesta fitxa amb totes les lletres.**
+2. **El *Politar*, pp. 236, 237-238 i 346-347.** — **Les pp. 185, 193, 195, 197,
+   200, 277, 280 i 337, `resoltes` el 18-09-2026**, i **la 193 és la descripció
+   d'ofici que aquesta fitxa buscava, amb salari inclòs.**
+
+   **Els *rahonadors* són dos pròmens que el Consell General anomena «bayx lo
+   titol de ***advocats o rahonadors***, per rahonar sos privilegis, per los
+   enquestats y manlleutats y pobres, (com diu lo privilegi)»**, i **el Politar
+   n'enumera l'ofici en una sola frase amb cinc feines**:
+
+   > «presentar als Senyors Veguers als enquestats y manlleutats, **intercedir y
+   > interposarse per ells**, **defensarlos** quant sie menester, **atendrer no se
+   > ledescan o menoscaben los privilegis de les Valls** y queyxarse quant se
+   > experimentie, **cuydar de la economia del menjar y beurer dels Senyors de la
+   > Cort**, **saber las penas trencadas y multas** […] **afi de que de ellas se
+   > donia compte y raho y se paguien los gastos de las Corts en sa clausura**.»
+
+   **Defensa, vigilància dels privilegis, queixa, intendència de taula i
+   comptabilitat de multes: cinc coses en un sol càrrec.** **I el paga el Comú,
+   no la Cort**: **«los arrahonadors tenen assenyalats de salari que los paga lo
+   Comu de les Valls 6 s.»**
+
+   > **Això tanca el títol d'aquesta fitxa i hi afegeix una tercera cosa que no
+   > s'esperava**: **els mateixos que demanaven clemència i portaven els comptes
+   > **també vigilaven el menjar i el beure dels senyors del tribunal**.**
+
+   **P. 197 — com es demana la clemència.** **Els raonadors han de convenir la
+   pena amb els Veguers «sempre com a ***protectors e intercessors dels
+   pobres***, ab la major prudencia, discrecio y ***santa sagacitat***»**, i **han
+   de procurar «no permetrer se embrutia paper»**. **Si no s'hi convenen, o si
+   jutgen la pena «notablement exorbitan y improporcionada», els Veguers manen al
+   Jutge que faci causa formal** i **el delinqüent va a la presó** —**llevat de
+   qui hi és per fiança**, que no hi va i només dona penyores.
+
+   **P. 195 — el cost que els raonadors havien de retallar.** **Els batlles van a
+   rebre el seu Veguer «ab 2, 3 o 4 creats armats en la trencada del terme de les
+   Valls ab Catalunya o ab Fransa» i l'acompanyen, «y tot se pague per les
+   Corts»**; **però els Veguers i el Jutge «no deu venir a les Corts ab son
+   altre, com diu lo privilegi»**, això és, **sense comitiva, un criat cadascun
+   com a màxim**, «afi de ahorrar tot lo gasto se puga». **I la feina és dels
+   raonadors**: **«procuren los rahonadors se tornien les cavalcadures, si ells
+   se las menen, a enviar a sa casa; y enfin procurien a evitar tot lo gasto se
+   pugue racionablement».**
+
+   **La mateixa pàgina fixa una regla de lloc**: **les Corts «en aquest y no de
+   altra manera se poden obrir»** —**dins del Consell General**—, **convocat pel
+   síndic amb avís dels Veguers**, i **els raonadors es nomenen «o be dos lo
+   temps durien les Corts, o be dos per cada semmana»**.
+
+   **P. 200 — i el Jutge hi és consultor de dret, no vocal.** **Les súpliques i
+   memorials als Veguers «regularmen la passen estos al Jutge, per que informe y
+   diga son parer, ***com a son consultor***»**; **els edictes, decrets,
+   arreglaments i pregons, els Veguers els fan «ab lo vot y parer del Jutge»**, i
+   **després de firmar-los ells, «posa lo vidit ab sa firma aquest»**. **I una
+   precisió de protocol que no era a la p. 339**: **si només hi ha un Veguer,
+   «porte la dreta al Jutge».**
 
    **El Consell, un cop rebuts els Veguers, nomena els seus raonadors i els
    encarrega quatre coses en una sola frase**:
