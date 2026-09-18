@@ -230,14 +230,14 @@ gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
 1. **L'acte d'emancipació de 1747**, i **l'arrest del Consell Sobirà del Rosselló
    del 22 de desembre de 1749** que hi remet. `Requereix font externa: Archives
    départementales des Pyrénées-Orientales.`
-2. **Quan passa dels veguers als batlles** la competència de nomenar tutors.
-   **`parcial`**: **el corpus té 1444 amb veguers i 1640, 1783 amb batlle, i res
-   entremig**; el moment de transició continua sense documentar.
+2. ~~**Quan passa dels veguers als batlles** la competència de nomenar tutors.~~ —
+   **`parcial` el 18-09-2026**: **el corpus té 1444 amb veguers i 1640, 1783 amb
+   batlle, i res entremig**; el moment de transició continua sense documentar.
 3. **La sentència del 12 d'octubre de 1861**, sencera.
 4. **La segona sentència sobre la mare tutora**: **la font no la data.**
-5. **El reglament del Consell General del 24 de setembre de 1892 sobre la línia
-   telegràfica**, sencer. **`parcial`**: **el corpus en té un article**, però no
-   sap ni quants n'hi havia ni què regulaven la resta.
+5. ~~**El reglament del Consell General del 24 de setembre de 1892 sobre la línia
+   telegràfica**, sencer.~~ — **`parcial` el 18-09-2026**: **el corpus en té un
+   article**, però no sap ni quants n'hi havia ni què regulaven la resta.
 6. **Si els menors de vint-i-cinc anys podien plaidejar**, i des de quan.
    **Usatges i pràctica andorrana no coincideixen** i **la font no en cita cap
    sentència.**
@@ -251,8 +251,9 @@ gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
    font del corpus no ho toca.
 8. **Si l'emancipació va arribar a regular-se mai**, o va continuar sent
    excepcional.
-9. **Quantes tuteles hi va haver i com es controlaven**: **`parcial`**; la font
-   dona **fiança i hipoteca** en un cas de 1783, però **no diu si era general**.
+9. ~~**Quantes tuteles hi va haver i com es controlaven.**~~ — **`parcial` el
+   18-09-2026**: la font dona **fiança i hipoteca** en un cas de 1783, però **no
+   diu si era general**.
 
 ## Related
 

@@ -206,9 +206,9 @@ solts.**
 1. **L'acte de retrovenda del 12 de novembre de 1707**, rebut per un prevere que
    regia la cura d'ànimes de la Massana. **Prioritari**: **és el que diria si la
    finestra de disset dies era nova de debò i quin era el preu.**
-2. **Si un prevere amb cura d'ànimes podia rebre actes notarials a Andorra el
-   1707**, **i si era pràctica regular.** **`parcial`**: **el corpus té el cas i
-   no la norma** ni la prova que fos una pràctica regular.
+2. ~~**Si un prevere amb cura d'ànimes podia rebre actes notarials a Andorra el
+   1707**, **i si era pràctica regular.**~~ — **`parcial` el 18-09-2026**:
+   **el corpus té el cas i no la norma** ni la prova que fos una pràctica regular.
 3. **La venda originària dels tutors i curadors dels pupils de casa C.**,
    **sense data**, **per vuit dobles i onze lliures.**
 4. **Si la coincidència entre les vuit dobles del preu antic i les 44 ll. 16 s.
@@ -216,9 +216,9 @@ solts.**
    afirmació.** `Requereix l'acte de 1707.`
 5. **Si el dret de rescat dels hereus de casa C. es va exercir mai.**
    **Vuitanta-un anys després encara es reservava per escrit.**
-6. **Si la finestra de disset dies era habitual en vendes de prats** o **un pacte
-   d'aquestes parts.** **`parcial`**: el corpus en té un sol cas, insuficient per
-   saber si era habitual.
+6. ~~**Si la finestra de disset dies era habitual en vendes de prats** o **un pacte
+   d'aquestes parts.**~~ — **`parcial` el 18-09-2026**: el corpus en té un sol
+   cas, insuficient per saber si era habitual.
 7. **El contingut exacte del ***benefici Velleià*** i de l'***Authentica*** tal com
    s'aplicaven a Andorra, **i si la renúncia sense el «cerciorament» del notari
    era nul·la.** **El corpus té la formalitat i no la sanció.**
