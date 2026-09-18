@@ -249,7 +249,22 @@ la més precisa de totes:**
 6. **La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
    comptes de reemborsament.** **Tercera tanda que el corpus reclama documents
    comptables de les Corts.**
-7. **El *Politar*, pp. 185, 218, 254, 336 i 349.**
+7. **El *Politar*, pp. 185, 218 i 254.** — **Les pp. 336 i 349, `resoltes` el
+   18-09-2026, i les dues són del cerimonial d'obertura i clausura de Corts.**
+
+   **P. 336 — què es demana en obrir-les.** El Veguer proposa que ve «afi de
+   administrar justicia en lo modo acostumat» i que el Consell nomeni els seus
+   raonadors; **i el síndic respon amb una fórmula que el Politar transcriu**:
+   que es prendran les providències «tan escritas com no escritas», i que
+   **«se miren y atengan piadosament les causes dels pobres, viudes, donselles,
+   orfens, desemparats»**.
+
+   **P. 349 — què es firma en tancar-les.** **Els comptes de les Corts els
+   firmen, junts, «los Veguers, lo Jutge y los deputats del Concell»**, i
+   **queda constància de la promesa de tornar al Comú de les Valls el que hagi
+   avançat, «en les primeres Corts en que sobrien efectes y emoluments a la
+   Cort».** **El tribunal no es tanca amb una sentència: es tanca amb una
+   liquidació firmada per les dues potestats i pel Consell.**
 8. **Els documents de 1475, 1486, 1895 i 1896** sencers, i **si la pena de 1486
    era de sous o d'una altra moneda** —**la font mateixa hi posa «[s. ?]»**.
 9. **Qui són els *sabis*** que sostenen la doctrina, **i en quins escrits.**

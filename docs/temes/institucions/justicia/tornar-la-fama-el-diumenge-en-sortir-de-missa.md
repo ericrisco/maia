@@ -289,9 +289,48 @@ fet:**
    atribució a l'obra de M. Moras**, no per document.** **Prioritari.**
 9. **La decisió del Consell General de 1886** sobre els establiments
    penitenciaris, **sencera.**
-10. **El *Politar*, pp. 344 i 349-350**, sobre el bandejament i les galeres, **i
-    el manuscrit de M. Palmitjavila**, **tots dos citats aquí i cap dels dos
-    llegit.**
+10. **El manuscrit de M. Palmitjavila.** — **Les pp. 344 i 349-350 del
+    *Politar*, `resoltes` el 18-09-2026, i les galeres tenen una explicació que
+    no és jurídica sinó meteorològica.**
+
+    **El bandejament, p. 344.** **Els reus entren d'un en un al *quadro* després
+    de fer «un mitg torn per la plassa»**, **es descobreixen, fan cortesia i els
+    fan agenollar al mig, prop de la taula de l'escrivà**; **es llegeix la
+    sentència** i, **«regularment per ser en lleti, li explicara lo notari en
+    catala la substancia de ella y la pena»**. **Si la sentència és de bandeig o
+    desterrament, el pregoner crida el ban** i **el notari llegeix el pregó fora
+    del quadro, davant de tothom.**
+
+    > **La sentència es dicta en llatí i s'explica en català.** **El notari no
+    > tradueix el text: n'explica «la substància i la pena».**
+
+    **I per treure els desterrats, els batlles poden manar «un oficial y 3 o 4
+    guardas de la vila de Sant-Julia», que se'ls emporten «fins a la trencada»**
+    en tornar-se'n.
+
+    **Les galeres, pp. 349-350, i el Politar dona tres raons per les quals
+    Andorra els enviava a Espanya i no a França:**
+
+    1. **«per ser mes natural als Espanyols lo portarlos en galeras o presidis de
+       la mateyxa nacio»**;
+    2. **la neu**: «**en lo hivern, tardo ni primavera no se podrie fer si se
+       habien de conduir a les galeres de Fransa, a causa de estar los Pirineus y
+       sos camins plens de neu**»;
+    3. **«per ser tambe lo gasto molt menor»**.
+
+    **I una quarta que és de consentiment**: **«per haberho ayxi sempre permes
+    los Serenissims Comptes de Foyx y Reys de Fransa, moguts, pot ser, de estas
+    rahons o altres que no penetram»**. **El Politar reconeix per escrit que no
+    sap del cert per què França ho tolerava.**
+
+    **El lliurament té protocol**: **el Veguer del Bisbe i el Síndic procuren que
+    els ministres del rei catòlic es facin càrrec dels reus «en la Seu de Urgell,
+    o a lo menos en Barcelona»**; **hi va el batlle del Bisbe amb escorta de sis
+    o vuit homes armats**, **portant una còpia de la sentència de cadascun**, i
+    **fa fer rebut del lliurament.**
+
+    > **Tres mesos l'any, el Pirineu decidia a quin estat anaven a raure els
+    > condemnats andorrans.**
 
 ## Related
 
