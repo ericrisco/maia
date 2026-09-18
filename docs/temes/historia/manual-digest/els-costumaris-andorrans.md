@@ -249,6 +249,18 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    corpus encara no els ha llegit.~~ **Els extractes, llegits:**
    [El Politar andorrà](./el-politar.md). Queda obert **el Politar sencer**: el
    que hi ha és **una tria feta per un jutge francès**.
+8. **Qui era Antoni Puig**, més enllà de «prevere de les Escaldes» —
+   **`parcial` el 18-09-2026**: **l'Enciclopèdia Catalana confirma
+   independentment que era rector de les Caldes**, sense donar naixement ni
+   mort ([font](../../../fonts/enciclopedia-cat-politar-antoni-puig.md)).
+   **Ara té fitxa a [persones](../../persones/README.md) amb el nom complet:
+   Antoni Puig i Busquets.** **Troballa no buscada**: **hi ha una edició
+   crítica del Politar del 2016**, del professor **Ignasi J. Baiges Jardí**,
+   presentada al Consell General el 19 de gener del 2016, que **transcriu per
+   primer cop el manuscrit original de l'Armari de les Set Claus** — **el
+   corpus no la tenia registrada i encara no l'ha consultada.** L'edició del
+   1982 amb pròleg de **[Marc Vila i Riba](../../persones/marc-vila-i-riba.md)**
+   segueix sent la que el corpus cita.
 
 ## Related
 

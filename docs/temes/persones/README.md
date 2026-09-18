@@ -46,7 +46,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Francesc Cairat i Freixes** (1880-1968) | **Síndic 23 anys**, 1937-1960 | [fitxa](./francesc-cairat.md) |
 | **Julià Reig i Ribó** (1911-1996) | Síndic **1961-66** i **1972 o 1973 – 78** (les fonts discrepen) | [fitxa](./julia-reig.md) |
 | **Estanislau Sangrà i Font** | **Darrer síndic abans que existís el Govern.** Del **29 desembre 1978 al 4 gener 1982** | [a la llista](./els-sindics-generals.md) |
-| **Marc Vila i Riba** | Subsíndic; **detecta l'atzucac institucional** que porta a la Reformeta. Prologa el Politar del 1983 | **buit** |
+| **Marc Vila i Riba** | Subsíndic (**1973-1976**); **detecta l'atzucac institucional** que porta a la Reformeta. Prologa el Politar del 1982 | [fitxa](./marc-vila-i-riba.md) |
 | **Òscar Ribas Reig** | **Primer cap de Govern**, 1982. Dues vegades al càrrec i **dues dimissions pels comptes**. El 1973 presenta la moció del sufragi passiu femení | **[fitxa](./oscar-ribas-reig.md)** |
 | **Jaume Bartumeu Canturri** | Cap de Govern **del 2009 al 2011**; cau quan el Consell li tomba el pressupost. El 1973, l'altre signant de la moció | [a la llista](./els-caps-de-govern.md) |
 | **Josep Dallerès i Codina** | Ex-síndic general, exministre, exambaixador | [què en diu](../politica/parlamentarisme/la-deriva-presidencialista.md) |
@@ -77,7 +77,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | Qui | Què | Estat |
 | --- | --- | --- |
 | **Antoni Fiter i Rossell** | **Manual Digest**, 1748 | [l'obra](../historia/manual-digest/manual-digest.md), **no la persona** |
-| **Antoni Puig i Busquets** | **Politar Andorrà**, 1763 o 1764 | **buit** |
+| **Antoni Puig i Busquets** | **Politar Andorrà**, 1763; prevere de les Escaldes | [els costumaris andorrans](../historia/manual-digest/els-costumaris-andorrans.md) |
 | **Bonaventura Riberaygua i Argelich** | ***Les Valls d'Andorra***, 1946: primer compendi modern. Secretari del Consell General 1935-1950 | [fitxa](./bonaventura-riberaygua.md) |
 | **Albert Puigoriol i Lladó** | ***Andorra el meu país***, 1963: **primer manual escolar d'andorranitat** | **buit** |
 | **Pere Canturri (i Montanya)** | Citat sis cops al corpus; **cap fitxa** | **buit prioritari** |

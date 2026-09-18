@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1061** documents · **288** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1062** documents · **290** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1287,6 +1287,7 @@
 | [Josep Caixal i Estradé](temes/persones/josep-caixal.md) | `temes/persones` | compilada | contemporania | no | `josep-caixal-biografia` |
 | [Josep-Lluís Serrano Pentinat](temes/persones/josep-lluis-serrano-pentinat.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-josep-lluis-serrano-pentinat` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [Marc Vila i Riba](temes/persones/marc-vila-i-riba.md) | `temes/persones` | compilada | contemporania | no | `enciclopedia-cat-marc-vila-riba` |
 | [Maria Reig i Moles](temes/persones/maria-reig-moles.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-maria-reig-moles` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Montserrat Palau i Martí](temes/persones/montserrat-palau-marti.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-religio-andorra` |
@@ -1780,6 +1781,8 @@
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
 | [`eltemps-ribas-reig-feudalisme`](fonts/eltemps-ribas-reig-feudalisme.md) | El Temps | premsa, drets reservats; citació breu | False |
+| [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
+| [`enciclopedia-cat-politar-antoni-puig`](fonts/enciclopedia-cat-politar-antoni-puig.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |
