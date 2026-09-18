@@ -250,6 +250,7 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
 
 1. **Les 236 marques no s'han verificat**, i són el 9,9 % dels mots.
 2. **Cap topònim d'aquesta peça no s'ha de donar per bo.** Ni un.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
 3. **`[?decòrins]` (p=0,03) i `[?portudiment]` (p=0,07) no tenen lectura.** No
    són paraules: són el que la màquina escriu quan no sent res.
 4. **Les etimologies no s'han contrastat** amb

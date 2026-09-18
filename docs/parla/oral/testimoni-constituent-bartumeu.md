@@ -1427,3 +1427,4 @@ tandes 3 i 4 van ensenyar què passa quan s'afirma amb un sol parlant.
 5. **Es parla de persones vives i de conflictes polítics concrets** —llicències,
    vetos, el paper dels coprínceps— **amb la transcripció sense verificar**. Cap
    afirmació d'aquesta peça no s'ha de citar com a fet.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
