@@ -146,18 +146,15 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
 
 - **Josep Perich Puigcercós**, ***Casa Rull de Sispony: Andorra*** (1994),
   ISBN 99920-1-078-9. **El corpus només en té l'extracte genealògic.**
-- **Martina Camiade Boyer**, ***La casa en la comunitat andorrana del S. XVII al
+- ~~**Martina Camiade Boyer**, ***La casa en la comunitat andorrana del S. XVII al
   S. XIX. Solidaritats i estratègies d'aliances i de poder***, **Editorial
-  Andorra, 2001**. **El corpus ja ha llegit dos treballs seus i no aquest, que
-  és el llibre.** **Buit prioritari.** — **`obert`, i ara se'n coneix la
-  prehistòria.** **El 1993, [Joan Becat](../../../fonts/becat-tesi-1993.md)
-  declara en nota que ha tingut accés «per comunicació oral» al treball de camp
-  de Martine Camiade sobre «les aliances de cases sorgides de parròquies o de
-  quarts rivals a propòsit de la utilització de la muntanya»**, i **el dona com a
-  inèdit**. **El llibre del 2001 és la forma publicada d'una recerca que ja
-  circulava vuit anys abans**, i **el corpus sap ara quin és el seu objecte
-  exacte**: **no la genealogia, sinó l'aliança entre cases de bàndols
-  territorials oposats.**
+  Andorra, 2001**~~ — **`parcial` el 18-09-2026**: el catàleg de Perpinianum
+  confirma el llibre, les **318 pàgines**, l'**ISBN 99920-53-12-7** i dues
+  cotes de biblioteca. **El text encara no és al corpus.** El 1993, [Joan
+  Becat](../../../fonts/becat-tesi-1993.md) ja declarava haver tingut accés
+  «per comunicació oral» al treball de camp de Martina Camiade sobre les
+  aliances entre cases. El llibre del 2001 és la forma publicada d'aquella
+  recerca, però la lectura dels capítols continua pendent.
 - ~~**Quins eren els interessos econòmics i polítics** que van fer els Perich
   casar-se fora repetidament.~~ — **`parcial`: el corpus no té el cas, però des
   del 2026-09-13 té el mecanisme**, i **ve de la mateixa nota.** **Becat descriu
