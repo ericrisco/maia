@@ -344,7 +344,7 @@ explica Andorra.
 > **Auditat contra la resta del corpus el 2026-09-13.** **Un buit era fals**:
 > **la fitxa que demanava ja existia i és bona.**
 
-- **L'accident del túnel dels Dos Valires**, 2009. **Prioritari.** — **`obert`,
+- ~~**L'accident del túnel dels Dos Valires**, 2009. **Prioritari.** ~~— **`obert`,
   confirmat.** **Cap document del corpus no l'esmenta**; aquesta fitxa és
   l'única que en parla. `Requereix font externa: la premsa del 2009.`
 - ~~**Els tamarros**: fitxa pròpia. **Prioritari** — apareixen a tot arreu i el

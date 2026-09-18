@@ -141,11 +141,11 @@ resposta honesta és «no ho sabem».**
   fitxa.** **Dos elements espectaculars, tots dos sense testimoni.**
 - **El *Costumari català*** consultat directament — el corpus el coneix **només
   a través de qui el critica**.
-- **Les altres creences que Amades hi recull** i que el corpus només té
+- ~~**Les altres creences que Amades hi recull** i que el corpus només té
   enumerades: **l'argolla que es converteix en or i on Noè va estacar l'arca
   després del diluvi**, i **la campana dels difunts soterrada a les muntanyes
   andorranes que tocarà el dia del judici final**. **Dues llegendes andorranes
-  amb nom i sense fitxa.** — **`obert`, confirmat, i és un buit escrit dues
+  amb nom i sense fitxa.** ~~— **`obert`, confirmat, i és un buit escrit dues
   vegades**: **[el cas Amades](../../historia/historiografia/el-cas-amades.md)
   les enumera amb les mateixes paraules i tampoc no en té res més.**
   **Comptat un sol cop, és un buit i no dos.**

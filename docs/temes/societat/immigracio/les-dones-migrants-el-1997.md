@@ -185,7 +185,7 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
 3. **L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.
 4. **Dades sobre les conseqüències socials** que la ponència descriu sense
    xifres.
-5. **Quan apareix l'assegurança d'atur** a Andorra, si ho fa. — **`obert`,
+5. ~~**Quan apareix l'assegurança d'atur** a Andorra, si ho fa. ~~— **`obert`,
    confirmat.** **Cap document del corpus no en registra cap.** **I el corpus té
    la branca laboral prou treballada com perquè l'absència signifiqui alguna
    cosa**: [el preu de l'acomiadament](../treball/el-preu-de-lacomiadament.md)

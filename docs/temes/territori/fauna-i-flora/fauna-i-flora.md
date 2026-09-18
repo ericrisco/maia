@@ -161,8 +161,8 @@ andorrà*.**
 > **Auditat contra la resta del corpus el 2026-09-13.** **Els quatre buits han
 > canviat d'estat**; **dos eren simplement vells**.
 
-- **Fitxa per espècie emblemàtica**: isard, trencalòs, gall fer, llangardaix
-  d'Aurelio, grandalla. **Cadascuna la mereix.** — **`obert`, confirmat.** Cap
+- ~~**Fitxa per espècie emblemàtica**: isard, trencalòs, gall fer, llangardaix
+  d'Aurelio, grandalla. **Cadascuna la mereix.** ~~— **`obert`, confirmat.** Cap
   de les cinc no té fitxa pròpia enlloc del corpus.
 - ~~**El parc natural de Sorteny** i els altres espais protegits: (…) el corpus
   no n'ha obert cap.~~ — **`parcial`.** **Fitxa, cap; però Sorteny surt en

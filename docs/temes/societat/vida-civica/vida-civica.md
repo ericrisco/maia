@@ -84,8 +84,8 @@ andorrana. **I el corpus gairebé no en sap res.**
   vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md) — **794
   electors a Canillo i 6.604 a Andorra la Vella, dos escons per a cadascuna**,
   amb **desviacions de fins al 400% xifrades per l'OSCE el 2011**.
-- **El debat sobre el vot dels residents**: existeix necessàriament en un país
-  amb aquesta demografia. **Buit registrat, prioritari.** — **`obert`,
+- ~~**El debat sobre el vot dels residents**: existeix necessàriament en un país
+  amb aquesta demografia. **Buit registrat, prioritari.** ~~— **`obert`,
   confirmat.** **Cap document del corpus no el recull**, i **el corpus té tot el
   que el faria inevitable**: **els andorrans són al voltant del 44% dels majors
   de 18 anys**

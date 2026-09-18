@@ -185,8 +185,8 @@ La llei ho preveu i deixa la porta oberta, cas per cas.
   **Seixanta-vuit tipus infractors en total.** **D'aquests, 11 lletres trenquen
   l'escala de preus** i són a la taula de dalt, ara sencera. **El que segueix
   obert és transcriure les 57 restants**, que són conducta i no preu.
-- **Quantes multes es posen cada any** i quin percentatge acaba en suspensió, no
-  consta. — **`obert`, confirmat.** **És una dada d'execució, no de norma**, i
+- ~~**Quantes multes es posen cada any** i quin percentatge acaba en suspensió, no
+  consta. ~~— **`obert`, confirmat.** **És una dada d'execució, no de norma**, i
   cap document del corpus no la té. `Requereix font externa: memòria del Cos de
   Policia, o Estadística.`
 - ~~**Si les sancions comunals i les estatals tenen tarifes diferents**, no

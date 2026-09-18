@@ -125,7 +125,7 @@ faltar a una sola edició entre el 1998 i el 2012.
   18-09-2026**: **el perfil oficial de FIBA dona 37 partits en vuit
   competicions, exactament el total que el corpus ja havia sumat**
   ([font](../../fonts/fiba-daniel-marin-profile.md)).
-- **Els partits dels Jocs dels Petits Estats i els amistosos** — **`obert`,
+- ~~**Els partits dels Jocs dels Petits Estats i els amistosos** ~~— **`obert`,
   confirmat**: **el perfil de FIBA no els inclou.**
 - Una entrevista retrospectiva sobre els quatre ors.
 - Les estadístiques completes de club durant la reconstrucció.

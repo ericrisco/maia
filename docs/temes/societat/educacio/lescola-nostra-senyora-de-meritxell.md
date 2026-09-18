@@ -375,9 +375,9 @@ n'afegeix la forma.`
   Meritxell** des de la **Llei 2/2019**, i el vincle amb el Govern és **un
   contracte prorrogat cada sis mesos**. `El model educatiu d'avui segueix sense
   descriure's: els edictes diuen què es paga, no què es fa.`
-- **La secció SES del Liceu Comte de Foix**
+- ~~**La secció SES del Liceu Comte de Foix**
   ([el mapa escolar](./el-mapa-escolar-del-2000.md)): el circuit francès
-  d'ensenyament especialitzat, en paral·lel a aquest. — **`obert`, confirmat el
+  d'ensenyament especialitzat, en paral·lel a aquest. ~~— **`obert`, confirmat el
   2026-09-14, i registrat com a buit declarat des dels dos extrems**: **el mapa
   escolar el declara mirant cap aquí i aquesta fitxa el declara mirant cap
   allà.** **El que sí que el corpus pot datar és l'altra meitat del

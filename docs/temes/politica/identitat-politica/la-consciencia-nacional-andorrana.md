@@ -230,7 +230,7 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
 > tenien resposta —sencera o a mitges— en altres branques**, i **un ha revelat
 > una divergència de dates que aquesta fitxa arrossegava sense saber-ho.**
 
-1. **El castell de Bragafolls**: on era, què se'n sap arqueològicament. —
+1. ~~**El castell de Bragafolls**: on era, què se'n sap arqueològicament. ~~—
    **`obert`, confirmat.** **El corpus només en té la línia de
    [la cronologia](../../historia/moments-historics/la-cronologia-dandorra.md)**
    —**Borrell II el fa al terç final del segle X i els andorrans el

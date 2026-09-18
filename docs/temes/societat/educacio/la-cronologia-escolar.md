@@ -141,7 +141,7 @@ si mateixa abans de definir-se jurídicament.
 - ~~El col·legi Janer~~ — **tancat**: és el trasllat a **Santa Coloma el 1968**
   del col·legi d'Andorra la Vella de **1883**
   ([l'ensenyament confessional](./lensenyament-confessional.md)).
-- **Les classes de català per a adults del 1962**: quanta gent, qui les feia. —
+- ~~**Les classes de català per a adults del 1962**: quanta gent, qui les feia. ~~—
   **`obert`, confirmat el 2026-09-14**: **cap document del corpus no en dona ni
   el nombre d'assistents ni els docents.**
   `Requereix font externa: les actes del Consell General.`

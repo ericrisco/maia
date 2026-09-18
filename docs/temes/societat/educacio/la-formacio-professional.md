@@ -227,9 +227,9 @@ volum expliquen com els pares trien sistema educatiu.
 - **Si es va fer alguna cosa amb els dos-cents contractes de menors.**
 - **Quantes promocions d'aprenents hi ha hagut des del 2000** i amb quines
   branques.
-- **Els salaris reals**: el corpus sap que un aprenent va del 25% al 80% del
+- ~~**Els salaris reals**: el corpus sap que un aprenent va del 25% al 80% del
   salari base, i **no sap quant és el salari base andorrà** de cap any. **Buit
-  prioritari i transversal** — afecta totes les fitxes d'economia. —
+  prioritari i transversal** — afecta totes les fitxes d'economia. ~~—
   **`obert`, confirmat el 2026-09-13, i ara se sap quants articles hi esperen.**
   **Quatre documents del corpus declaren el mateix buit per separat**, i cap no
   sabia dels altres:

@@ -187,7 +187,7 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
    *Consòrcies i germandats de Sant Julià de Lòria*, 1987** — **mateixa
    procedència**. **Cobreix les dues institucions laurèdianes d'aquesta llista
    alhora.**
-4. **La consòrcia de capellans**: existeix documentació? — **`obert`,
+4. ~~**La consòrcia de capellans**: existeix documentació? ~~— **`obert`,
    confirmat**, i **és l'única de les quatre germandats d'aquesta fitxa que no
    té cap monografia localitzada.**
 5. ~~**El Centre Moral i Recreatiu**: quan es funda exactament i què se'n va

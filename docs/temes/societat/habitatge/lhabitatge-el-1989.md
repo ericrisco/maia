@@ -157,7 +157,7 @@ on **tretze anys després** el temporer segueix sent la peça central del sistem
 > ponència d'Agustí Font s'estalvia expressament el detall**, i això és una cosa
 > diferent d'un buit de destil·lació.
 
-1. **Dades del lloguer i del salari** el 1989, per contrastar el 60%. —
+1. ~~**Dades del lloguer i del salari** el 1989, per contrastar el 60%. ~~—
    **`obert`, confirmat, i ara se sap que no és un buit d'aquesta fitxa sinó
    d'una branca sencera.** **La meitat de la fracció que falta —el salari— és
    el buit transversal més gran del corpus**, registrat a
@@ -174,7 +174,7 @@ decrets i edictes entre el 1989 i el 2026**. **La sèrie sencera és a
 quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
 del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
 amb una sola cerca.**
-2. **Quantes persones vivien en càmpings** i on. — **`obert`, confirmat, i el
+2. ~~**Quantes persones vivien en càmpings** i on. ~~— **`obert`, confirmat, i el
    motiu és de font**: **Font ho dona com a denúncia, no com a recompte** —«fet
    que algunes vegades hem denunciat»—, **i el corpus no té cap altra ocurrència
    de càmping com a habitatge**: l'única de tot el corpus és

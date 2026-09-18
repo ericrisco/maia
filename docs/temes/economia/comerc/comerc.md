@@ -41,7 +41,7 @@ duana és, en aquest sentit, la institucionalització d'una cosa que ja passava.
 > desglossa en punts, perquè un buit escrit en prosa seguida no es pot tancar
 > per parts.
 
-- **Quan es consolida el model comercial i per quines decisions.** — **`obert`,
+- ~~**Quan es consolida el model comercial i per quines decisions.** ~~— **`obert`,
   confirmat.** **El corpus té l'abans i el després i no té la frontissa**: té
   [el contraban](../../historia/contraban/contraban.md) i té
   [l'economia el 1997](../transformacio-economica/leconomia-el-1997.md), i no té

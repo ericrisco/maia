@@ -191,7 +191,7 @@ consten, o no existeixen o no s'han publicat.`
 - **Quantes sol·licituds d'accés es deneguen** i per quina lletra de l'article
   11, no consta: el registre de consultes existeix per llei, els seus números no
   són al recull.
-- **Si s'ha declarat mai informació reservada d'Estat**, i quanta, tampoc. —
+- ~~**Si s'ha declarat mai informació reservada d'Estat**, i quanta, tampoc. ~~—
   **`obert`, confirmat el 2026-09-14, i és el mateix buit escrit dues vegades**:
   **[la llei de transparència](./la-llei-de-transparencia.md) el declara amb les
   mateixes paraules.** **Comptat un sol cop, és un buit i no dos.**

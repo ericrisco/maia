@@ -146,7 +146,7 @@ andorrana.** **Buit prioritari.**
 > buits ja no eren certs**: el corpus en tenia la resposta en un altre document
 > i ningú no havia connectat els dos. S'anoten en lloc d'esborrar-se.
 
-- **Les quatre obres de la bibliografia.** — **`obert`, confirmat.** Cap de les
+- ~~**Les quatre obres de la bibliografia.** ~~— **`obert`, confirmat.** Cap de les
   quatre no apareix enlloc més del corpus.
 - ~~**El text de la farsa**: què s'hi diu.~~ — **`resolt` per a Encamp.**
   **[El ball de l'ossa d'Encamp](./el-ball-de-lossa-dencamp.md) en transcriu
@@ -156,7 +156,7 @@ andorrana.** **Buit prioritari.**
   plaça fins al vespre. **Hi ha fins i tot la variant** amb el matrimoni ric i
   la dona gràvida amb desig de mel. **Continua obert per a Ordino**: cap font
   del corpus no transcriu el text de l'Última ossa.
-- **Els documents i testimonis orals de l'Arxiu Nacional.** — **`obert`,
+- ~~**Els documents i testimonis orals de l'Arxiu Nacional.** ~~— **`obert`,
   confirmat.** El corpus en coneix l'existència i les set localitats, i no en té
   cap peça.
 - ~~**Per què va desaparèixer a totes les parròquies menys dues.**~~ — **`parcial`.**
@@ -176,12 +176,11 @@ andorrana.** **Buit prioritari.**
   dies consecutius; **el marc és [el carnaval
   d'Encamp](../calendari-festiu/el-carnaval-dencamp.md)**, que ja tenia fitxa.
   **El corpus tenia les tres peces i aquest article no en citava cap.**
-- **La fotografia de Guillem d'Areny-Plandolit.** — **`obert`, confirmat.** La
+- ~~**La fotografia de Guillem d'Areny-Plandolit.** ~~— **`obert`, confirmat.** La
   seva [fitxa](../../historia/segle-xix/guillem-dareny-plandolit.md) **no diu
   enlloc que fos fotògraf**: aquesta és l'única menció de la seva obra
   fotogràfica a tot el corpus. `Requereix font externa: el fons fotogràfic
   d'Areny-Plandolit a l'Arxiu Nacional.`
-
 ### La font que tanca mitja branca i ningú no ha consultat
 
 **`Requereix font externa`, i és la mateixa per a cinc buits de tres articles:**

@@ -160,9 +160,9 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   **El patró és el mateix en els tres: el que es balla avui passa per una
   intervenció datada del segle XX.** **Continua obert per als onze balls sense
   fitxa.**
-- **El Ball de cònsols**: el nom apunta a una dansa institucional, lligada als
+- ~~**El Ball de cònsols**: el nom apunta a una dansa institucional, lligada als
   [comuns](../../institucions/comuns-i-parroquies/les-set-parroquies.md). **Cap
-  informació.** — **`obert`, confirmat.** **El nom no apareix enlloc més del
+  informació.** ~~— **`obert`, confirmat.** **El nom no apareix enlloc més del
   corpus.** **Val la pena registrar que el corpus sí que té el fet institucional
   que hi encaixaria**: [el contrapàs](./el-contrapas.md) es balla amb **el cònsol
   i els consellers barrejats amb el veïnat**. **Que això tingui res a veure amb
@@ -171,7 +171,7 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   — **`resolt` el 18-09-2026, com a duplicat de branca**: el residu canònic i
   la resposta parcial queden a [les danses](./danses.md), que també registra
   les partitures d'Amades encara no consultades.
-- **Josep Barrabés d'Encamp** i la família **Barrobes**. — **`obert`, confirmat.**
+- ~~**Josep Barrabés d'Encamp** i la família **Barrobes**. ~~— **`obert`, confirmat.**
   **Els dos cognoms no surten enlloc més del corpus**, ni a les fitxes de
   persones ni a les de demografia. `Requereix font externa: els registres
   parroquials d'Encamp, o la genealogia d'Amades.`

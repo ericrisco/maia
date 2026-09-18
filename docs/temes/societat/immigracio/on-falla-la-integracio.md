@@ -296,7 +296,7 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
    a [el preu de l'acomiadament](../treball/el-preu-de-lacomiadament.md) **no
    tenen res a veure** — **allò són 25 dies de sou per any treballat**, una
    indemnització, no un termini de cobertura.
-3. **Si el reforç escolar de Càritas** va tenir successor després del 1996. —
+3. ~~**Si el reforç escolar de Càritas** va tenir successor després del 1996. ~~—
    **`obert`, confirmat.**
 4. ~~**Quan es crea el Servei de Formació d'Adults.**~~ — **`parcial`, i el
    corpus el tenia amb fitxa pròpia.** [La formació

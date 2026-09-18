@@ -222,10 +222,10 @@ exclusiva permanent, hi ha retribució per activitat.
 - **Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
   [l'ordenament jurídic avui](lordenament-juridic-avui.md) deixava oberta
   precisament la pregunta de què passa quan un copríncep no sanciona.
-- **Si el Raonador ha assenyalat mai un vici d'inconstitucionalitat** al seu
+- ~~**Si el Raonador ha assenyalat mai un vici d'inconstitucionalitat** al seu
   informe anual, com li mana la seva llei
   ([el Raonador](../govern/el-raonador-del-ciutada.md)), segueix sense saber-se.
-  — **`obert`, confirmat el 2026-09-13.** **El corpus té el deure i no té cap
+  ~~— **`obert`, confirmat el 2026-09-13.** **El corpus té el deure i no té cap
   informe.** `Requereix font externa: els informes anuals del Raonador del
   Ciutadà al Consell General.`
 - ~~[El recurs d'empara](./el-recurs-dempara.md) — la via per la qual un ciutadà

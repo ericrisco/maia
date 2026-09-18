@@ -89,7 +89,7 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
 3. **Xifres de rotació laboral** al comerç i l'hoteleria.
 4. **Com funciona avui** el lligam entre permís de treball i permís de
    residència.
-5. **El salari mínim** andorrà, sèrie històrica. — **`obert`, confirmat, i és
+5. ~~**El salari mínim** andorrà, sèrie històrica. ~~— **`obert`, confirmat, i és
    el buit transversal més gran del corpus.** **Quatre articles hi depenen i cap
    no té la xifra**: [l'execució forçosa](../../institucions/justicia/lexecucio-forcosa.md)
    —on **l'embargament és impossible fins al salari mínim interprofessional**—,
@@ -107,7 +107,6 @@ decrets i edictes entre el 1989 i el 2026**. **La sèrie sencera és a
 quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
 del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
 amb una sola cerca.**
-
 ## Related
 
 - [El sindicalisme](./el-sindicalisme.md) — què s'hi va intentar.

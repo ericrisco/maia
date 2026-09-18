@@ -233,9 +233,9 @@ va arribar el mateix any.
    ([el Coprincipat](./el-coprincipat.md)). **Si això és cert, el llibre no és
    una font sobre la posició francesa: n'és un instrument.** `Tesi de Becat,
    registrada com a seva.`
-3. **Si hi va haver mai una resposta de la Santa Seu** a l'exposició de 1894. —
+3. ~~**Si hi va haver mai una resposta de la Santa Seu** a l'exposició de 1894. ~~—
    **`obert`, confirmat.**
-4. **La sentència Laugé** (1845), sencera. — **`obert`, confirmat.**
+4. ~~**La sentència Laugé** (1845), sencera. ~~— **`obert`, confirmat.**
 5. ~~**Com es va passar d'aquestes tres tesis a la del 1993.** Entre el 1904 i el
    1993 hi ha **noranta anys** que aquesta fitxa no cobreix.~~ — **`parcial`, i
    el corpus té ara les dues puntes del pont.** **Al final hi ha el referèndum

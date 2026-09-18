@@ -228,8 +228,8 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   universitat sigui autònoma**, **diu de què ho és.** **Programes, professorat,
   admissió i relacions exteriors, sí; plantilles, pressupost i gestió, no.**
 - **Què va passar amb el campus nou.**
-- **Quina és la Universitat d'Andorra avui**: centres, titulacions, nombre
-  d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.** —
+- ~~**Quina és la Universitat d'Andorra avui**: centres, titulacions, nombre
+  d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.** ~~—
   **`obert`, confirmat el 2026-09-14, i declarat també des de
   [els tres sistemes](./els-tres-sistemes.md)**, que **demanava «la Universitat
   d'Andorra avui» sense saber que aquesta fitxa existia.**

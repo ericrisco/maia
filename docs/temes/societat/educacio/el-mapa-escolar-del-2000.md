@@ -546,21 +546,20 @@ any per any. Això només hi és per al 1999/2000, a l'annex 4.`
   tornar a la normalitat**
   ([els aiguats](../../historia/historia-recent/els-aiguats-del-1982.md)) —
   **el mateix any que s'hi obria la SEGPA.**
-- **La secció SES** del liceu i la seva relació amb
+- ~~**La secció SES** del liceu i la seva relació amb
   [l'escola Nostra Senyora de Meritxell](./lescola-nostra-senyora-de-meritxell.md):
   **dos circuits d'educació especial en paral·lel**, un de francès i un
-  d'andorrà. — **`obert`, confirmat, i el mateix buit està declarat des dels dos
+  d'andorrà. ~~— **`obert`, confirmat, i el mateix buit està declarat des dels dos
   extrems**: **aquesta fitxa el declara mirant cap a l'escola Meritxell i
   aquella el declara mirant cap al liceu**, **i cap de les dues no sabia que
   l'altra l'havia obert.** **Junts descriuen la pregunta sencera i cap dels dos
   sol no la pot tancar.** `Requereix font externa: el Liceu Comte de Foix o el
   Ministeri d'Educació.`
-- **Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.** —
+- ~~**Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.** ~~—
   **`obert`, confirmat**: **cap document del corpus no ho esmenta.**
-- **Tot això el 2026.** i **les xifres d'alumnat per centre** — **`obert`,
+- ~~**Tot això el 2026.** i **les xifres d'alumnat per centre** ~~— **`obert`,
   confirmat.** **L'extracció dels quadres del PDF segueix sent el coll
   d'ampolla.**
-
 ## Related
 
 - [La cronologia escolar](./la-cronologia-escolar.md)

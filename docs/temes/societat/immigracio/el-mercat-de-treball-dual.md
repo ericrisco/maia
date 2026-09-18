@@ -233,9 +233,9 @@ són de temporada sencera.` `serie_estadistica`
 > migratòries tenen rastre al corpus**, i **els prestanoms ja hi tenen
 > secció.**
 
-1. **Les dades de la CASS per tipus d'ocupació**, no només per sector. **La font
+1. ~~**Les dades de la CASS per tipus d'ocupació**, no només per sector. **La font
    diu explícitament que no hi té accés** i que amb elles «es podria analitzar
-   amb molta més cura». **Buit prioritari, i identificat per qui el pateix.** —
+   amb molta més cura». **Buit prioritari, i identificat per qui el pateix.** ~~—
    **`obert`, confirmat.** `Requereix font externa: la CASS o Estadística.`
 2. ~~**El conveni trilateral del 2003 i l'ampliació a Portugal del 2007**~~ —
    **`parcial` des del 16-09-2026**, amb el contingut i una divergència de
@@ -361,7 +361,7 @@ són de temporada sencera.` `serie_estadistica`
    **Dues de les tres xarxes han deixat associació**, i **una ha deixat un
    internacional de futbol**. **El que segueix obert són les xifres i les
    dates.**
-5. **L'estudi del CRES sobre la promoció del 2004.** — **`obert`, confirmat.**
+5. ~~**L'estudi del CRES sobre la promoció del 2004.** ~~— **`obert`, confirmat.**
 6. ~~**La figura del prestanoms**: com funcionava, quan deixa de caldre.~~ —
    **`parcial`, i el corpus hi té una secció sencera que aquesta fitxa no
    citava.** [La política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)

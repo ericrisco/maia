@@ -236,7 +236,7 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
 
 ## Buits registrats
 
-- **Quantes guarderies hi ha, quantes places i quants infants**, no consta. —
+- ~~**Quantes guarderies hi ha, quantes places i quants infants**, no consta. ~~—
   **`obert`, confirmat el 18-09-2026 amb l'API d'Estadística a la mà.** **La
   branca d'ensenyament no compta guarderies**: **compta la maternal**, que és
   escola i no guarderia. `La divisió 259 dona els alumnes de maternal centre

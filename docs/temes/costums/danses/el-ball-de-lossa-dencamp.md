@@ -245,12 +245,12 @@ respon amb una pàgina de verificació antibot en comptes del document.**
   un estudi de la Biblioteca Nacional d'Andorra, «Fra Tomàs Junoy, *Lo
   Peripatètic Solitari*», 2014**, que és **una via d'accés que el corpus no
   havia registrat**. **El text de la *Relació* segueix sense ser al corpus.**
-- **Eugeni Casanova**, ***L'ós del Pirineu: crònica d'un extermini***, **Pagès,
-  2005 [1996]**, cap. «Andorra i l'Alt Urgell», p. 189-206. — **`obert`,
+- ~~**Eugeni Casanova**, ***L'ós del Pirineu: crònica d'un extermini***, **Pagès,
+  2005 [1996]**, cap. «Andorra i l'Alt Urgell», p. 189-206. ~~— **`obert`,
   confirmat.**
-- ***Les festes d'interès cultural, patrimoni immaterial d'Andorra***, **Govern
+- ~~***Les festes d'interès cultural, patrimoni immaterial d'Andorra***, **Govern
   d'Andorra, 2019**, cap. «El carnaval d'Encamp. Contrabandistes i ossa,
-  essència pirinenca», p. 24-28, ISBN 978-99920-0-875-1. — **`obert`,
+  essència pirinenca», p. 24-28, ISBN 978-99920-0-875-1. ~~— **`obert`,
   confirmat.** **És l'única de les cinc obres que és d'edició oficial
   andorrana**, i per tant la més assolible.
 - ~~**El guió de Sícoris: existeix el text?**~~ — **`parcial`**. **El guió, no.**

@@ -176,7 +176,7 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
 2. **L'escriptura de venda del 8 de desembre de 1776** en poder de Tomàs
    Palmitjavila, notari públic d'Encamp. **Prioritari**: **és la que conté els
    pactes que l'addició «vol tenir per expressats i repetits».**
-3. **De què surten els «*vint y cinch lliuras **y sis diners**»*.** — **`obert`,
+3. ~~**De què surten els «*vint y cinch lliuras **y sis diners**»*.** ~~— **`obert`,
    confirmat el 16-09-2026 llegint la peça sencera** (peça XXIV, *Reçu d'addicio
    de preu*, pàgines XLIV-XLV, PDF 66-67). **La font no en dona l'origen.**
    **El que la peça sí que diu, i el corpus ho reté perquè tanca la forma de

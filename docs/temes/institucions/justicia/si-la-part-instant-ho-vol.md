@@ -265,8 +265,8 @@ sí.**
    font no les distingeix.** `Requereix el privilegi de 1608 sencer.`
 2. **Si «reservar **al pages** lo parell de llaurar» limita la protecció als
    pagesos** o **és una designació genèrica.** **El corpus no ho afirma.**
-3. **Què era la ***ressenya* o *mostra d'armes*** de les parròquies: **cada quan
-   es feia, qui hi havia d'anar i amb què.** — **`obert`, confirmat el
+3. ~~**Què era la ***ressenya* o *mostra d'armes*** de les parròquies: **cada quan
+   es feia, qui hi havia d'anar i amb què.** ~~— **`obert`, confirmat el
    16-09-2026 sobre la peça mateixa** (p. LIII, PDF 73). **La *Instructa* la
    nomena i no la defineix**: diu que als oficials de justícia se'ls manarà
    observar allò «**en lo dia de les ressenyes o mostras de armas**», **i res
@@ -276,8 +276,8 @@ sí.**
 4. ~~**Què eren exactament un ***capità*** i un ***desener***** dins la milícia
    parroquial, **i com es nomenaven.**~~ **`parcial`**: **ara se'n coneixen les
    funcions de policia i no l'organització.**
-5. **Si es va aplicar mai la captura de qui exercís jurisdicció sense tenir-la.**
-   — **`obert`, confirmat el 16-09-2026** (p. LIII, PDF 73). **La peça en dona
+5. ~~**Si es va aplicar mai la captura de qui exercís jurisdicció sense tenir-la.**
+   ~~— **`obert`, confirmat el 16-09-2026** (p. LIII, PDF 73). **La peça en dona
    la regla i cap cas**: si els batlles troben «**alguna persona que sens tenir
    jurisdicsio dins les presents Valls la exercesque en ellas**», **seran
    promptes a la captura** i n'informaran els veguers.

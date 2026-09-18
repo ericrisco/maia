@@ -162,8 +162,8 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
 > **Auditat contra la resta del corpus el 2026-09-13.** **Dos dels sis buits
 > tenien resposta en un altre article del corpus**, i **tots dos en el mateix**.
 
-- **Les «investigacions recents»** sobre el cas Areny. — **`obert`, confirmat.**
-- **El nom del condemnat del 1896** i per què se li va commutar la pena. —
+- ~~**Les «investigacions recents»** sobre el cas Areny. ~~— **`obert`, confirmat.**
+- ~~**El nom del condemnat del 1896** i per què se li va commutar la pena. ~~—
   **`obert`, confirmat.** **Cap altre document del corpus no el nomena.**
 - ~~**Quantes penes de mort s'han dictat a Andorra**, en total.~~ — **`parcial`, i
   la xifra d'aquesta fitxa ja se sap incompleta.** [La presó sense
@@ -173,7 +173,7 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
   *L'Illustration*. **I n'hi documenta una altra en imatge**: **una fotografia de
   la lectura d'una sentència de mort del 1942**, un any abans de l'execució
   d'Areny. **Tres casos a la taula, com a mínim cinc episodis al corpus.**
-- **On és la Roureda de Moles.** — **`obert`, confirmat**, i **precisat**: el
+- ~~**On és la Roureda de Moles.** ~~— **`obert`, confirmat**, i **precisat**: el
   topònim surt **al material en brut d'aquesta mateixa fitxa**
   ([`Pena_de_mort_a_Andorra-ca.wiki`](../../../raw/web/referendums/Pena_de_mort_a_Andorra-ca.wiki)),
   que diu que **«es conduí el reu fins a la Roureda de Moles, on va ser afusellat

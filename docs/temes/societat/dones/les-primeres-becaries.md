@@ -105,7 +105,7 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
 > d'estat perquè el corpus té la cronologia al voltant**, i **la cronologia diu
 > coses que el buit no havia mirat.**
 
-1. **Qui eren.** Noms complets, parròquia, biografia. **Prioritari.** —
+1. ~~**Qui eren.** Noms complets, parròquia, biografia. **Prioritari.** ~~—
    **`obert`, confirmat.** **Cap altre document del corpus no esmenta ni
    Maestre, ni Dolsa, ni Huguet.** `Requereix font externa: registres de
    l'*école normale* de Perpinyà, o registres parroquials andorrans.`
@@ -119,8 +119,8 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
    d'escola; **cada beca era una escola futura**»—, **i el 1900 encaixa amb el
    mecanisme.** **`deducció del corpus, no verificada`: cap font no diu que les
    mestres de 1900 fossin elles.** **El corpus no ho escriu com a fet.**
-3. **Per què dues dones** i no dos homes: era la norma a l'*école normale* o va
-   ser una tria? — **`obert`, confirmat, i el corpus només hi pot afegir el que
+3. ~~**Per què dues dones** i no dos homes: era la norma a l'*école normale* o va
+   ser una tria? ~~— **`obert`, confirmat, i el corpus només hi pot afegir el que
    ja diu aquesta fitxa**: **«els mestres, aleshores, eren mestresses»**, que és
    lectura pròpia i no resposta.
 4. ~~**Les tres famílies de 1905** i els seus fills — **aquests sí que es diuen
@@ -142,11 +142,10 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
    existia**; **la font diu que es feien «segons els desitjos del veguer i
    d'altres personalitats de l'època»**, que és **una iniciativa personal, no un
    programa.** `Requereix font externa: arxius de la Veguería francesa.`
-6. **L'*école normale* de Perpinyà** i els seus registres. — **`obert`,
+6. ~~**L'*école normale* de Perpinyà** i els seus registres. ~~— **`obert`,
    confirmat, i és la clau dels buits 1 i 2**: **és l'únic lloc on hi ha d'haver
    els noms de pila.** `Requereix font externa: Arxius Departamentals dels
    Pirineus Orientals.`
-
 ## Related
 
 - [El sufragi femení](./el-sufragi-femeni.md) — vuitanta anys després.

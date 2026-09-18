@@ -147,7 +147,7 @@ unió duanera industrial; *lliure disposició*, el del règim agrícola propi.
   lletra b) de l'article 22.2**, que era el llindar de **22 euros** dels
   enviaments de poc valor «per posar-los en lliure disposició». **Queda només
   el de 150 euros.** **Les franquícies de viatger són intactes des del 2012.**
-- **Els tipus aranzelaris** no són al Codi: són **tarifa**, no llei. —
+- ~~**Els tipus aranzelaris** no són al Codi: són **tarifa**, no llei. ~~—
   **`obert`, confirmat.** **És el tercer cas del corpus en què la resposta viu
   en una norma de rang inferior** que el recull no conté — vegeu també
   [conduir a Andorra](../../vida-quotidiana/com-funciona-tot/conduir-a-andorra.md)

@@ -177,14 +177,14 @@ primera onada és de 1931 i és de carreteres, no de central**.
    2010 hi ha també el detall poble per poble**
    ([quaranta-quatre pobles](./quaranta-quatre-pobles.md)). `El buit estava
    caducat: una altra fitxa el tancava i ningú no ho havia anotat aquí.`
-2. **D'on venien** les 14.000 arribades, per nacionalitat i any. — **`obert`,
+2. ~~**D'on venien** les 14.000 arribades, per nacionalitat i any. ~~— **`obert`,
    confirmat el 18-09-2026.** **La sèrie de població per nacionalitat de
    l'API comença el 2009** i **la d'assalariats per país d'origen el 2000**
    ([la immigració llatinoamericana](../immigracio/la-immigracio-llatinoamericana.md#vint-i-cinc-anys-despres-en-xifres)):
    **cap de les dues no arriba als anys seixanta i setanta**, que és quan van
    arribar aquelles 14.000 persones. `Requereix font externa: els recomptes
    del servei d'ordre anteriors al 1979.`
-3. **El despoblament de Canillo**: on va anar aquella gent. — **`obert`,
+3. ~~**El despoblament de Canillo**: on va anar aquella gent. ~~— **`obert`,
    confirmat.** **Cap document del corpus no ho diu.** **El que sí que hi ha és
    la conseqüència política, mesurada**: **Ordino i Canillo, les dues parròquies
    més despoblades, són les dues que menys** —vegeu

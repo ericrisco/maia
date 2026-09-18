@@ -336,7 +336,7 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
 > una font que el corpus ja tenia**, i **la lectura n'ha obert un de nou que és
 > més gran que cap dels set.**
 
-1. **Els registres parroquials.** **La font demogràfica bàsica, sense tocar.** —
+1. ~~**Els registres parroquials.** **La font demogràfica bàsica, sense tocar.** ~~—
    **`obert`, confirmat.**
 2. ~~**Les mines de talc de Luzenac**: quants andorrans, quins anys.~~ —
    **`parcial`.** **Ara se sap que n'eren dues** —**La Greda i Luzenac**— i
@@ -350,14 +350,14 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
    nova**: **la mateixa lectura n'ha aportat cinc més** —***segador***,
    ***garber***, ***dallador***, ***tragí***, ***minyona***— **que tampoc no hi
    són.**
-5. **Abel Poitrineau**, *Remues d'Hommes*. — **`obert`, confirmat.**
+5. ~~**Abel Poitrineau**, *Remues d'Hommes*. ~~— **`obert`, confirmat.**
 6. ~~**La recerca específica** que Armengol demanava el 1989: **s'ha fet?**~~ —
    **`parcial`.** **Una part sí, i el corpus la té des d'avui**: **la tesi de
    Becat, defensada el 1993, quatre anys després d'aquella petició**, **dedica
    a les migracions de treball el capítol que aquesta secció destil·la.**
    **No és la recerca demogràfica que Armengol demanava** —no hi ha xifres—
    **però no és cert que no s'hagi fet res.**
-7. **Quants** marxaven, de quina edat, i si tornaven. — **`obert`, confirmat.**
+7. ~~**Quants** marxaven, de quina edat, i si tornaven. ~~— **`obert`, confirmat.**
    **Cap font del corpus no en dona xifres.** **De l'edat sí que se'n sap una
    cosa**: **al *tragí* hi anaven «homes joves i fins i tot adolescents»**.
 8. **NOU, i és el més gran:** **la migració femenina andorrana.** **Anaven a

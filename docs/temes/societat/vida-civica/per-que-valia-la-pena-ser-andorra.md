@@ -224,9 +224,8 @@ sap quines ni en quines condicions.
    [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
    **El que segueix obert és la pàgina 277 concreta**, i **ara se sap que cal
    demanar-la a un exemplar identificat i no «al Politar».**
-7. **Els tres documents datats** —1422, 1698, 1796— sencers. — **`obert`,
+7. ~~**Els tres documents datats** —1422, 1698, 1796— sencers. ~~— **`obert`,
    confirmat.**
-
 ## Related
 
 - [L'associacionisme històric](./lassociacionisme-historic.md) — les consòrcies, i què més hi havia.
