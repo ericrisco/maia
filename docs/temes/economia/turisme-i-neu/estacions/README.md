@@ -79,7 +79,10 @@ anglesos».**
 - **Les xifres.** **Cap: ni visitants, ni facturació, ni ocupació, ni llocs de
   treball.** **La Cambra de Comerç publica informes anuals que el corpus no ha
   consultat.** **Segueix sent el buit principal.**
-- **L'any de la fusió** entre Viladomat i el Comú d'Encamp.
+- ~~**L'any de la fusió** entre Viladomat i el Comú d'Encamp.~~ — **`resolt`
+  el 19-09-2026** com a buit duplicat: el buit canònic continua a
+  [Grandvalira](./grandvalira.md), que conserva la dada disponible (14 d'agost)
+  i declara obert l'any.
 - ~~**Naturland**, a Sant Julià de Lòria, que la font esmenta i el corpus no
   ha mirat.~~ — **`resolt` el 18-09-2026**: [Naturland: el parc que ha perdut
   vint milions](./naturland.md). **Gairebé vint milions de pèrdues en catorze
