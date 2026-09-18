@@ -406,14 +406,13 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
 4. ~~**El cens electoral vigent per parròquia**, per calcular els sostres
    reals.~~ `resolt` **El cens del 2 d'abril del 2023, les set parròquies**, i
    els sostres calculats a dalt.
-5. **Si s'ha sancionat mai cap partit** per aquesta llei, o si s'ha dissolt o
-   suspès cap. — **`obert`, però ara és un negatiu comprovat i no una
-   ignorància.** Cercat al BOPA el 17-09-2026 —«expedient sancionador» +
-   «partit polític», «dissolució» + «partit polític» + «sentència», «Junta
-   Electoral» + sanció + partit— **cap resolució sancionadora, cap dissolució i
-   cap suspensió**: els únics resultats són **les lleis mateixes**. **Això no
-   prova que no n'hi hagi hagut cap**: **prova que, si n'hi ha hagut, no s'ha
-   publicat al BOPA.**
+5. ~~**Si s'ha sancionat mai cap partit** per aquesta llei, o si s'ha dissolt o
+   suspès cap.~~ — **`parcial`: és un negatiu comprovat, no una ignorància.**
+   Cercat al BOPA el 17-09-2026 —«expedient sancionador» + «partit polític»,
+   «dissolució» + «partit polític» + «sentència», «Junta Electoral» + sanció +
+   partit— **cap resolució sancionadora, cap dissolució i cap suspensió**: els
+   únics resultats són **les lleis mateixes**. **Això no prova que no n'hi hagi
+   hagut cap**: prova que, si n'hi ha hagut, **no s'ha publicat al BOPA**.
 6. ~~**Què hi havia abans del 2022.** És una llei del 2022 amb **una sola versió
    consolidada**: no diu què substitueix.~~ — **`resolt` el 17-09-2026 al
    [BOPA](../../../fonts/bopa.md).** **La primera llei de partits polítics
