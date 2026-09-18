@@ -130,7 +130,8 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   només es dilueix.** `pregunta_oberta`
 - **Les divisions 246 i 247 de la branca retornen `500 Internal Server
   Error`.** **El corpus no sap què contenen.** `font_externa`
-- **No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
-  d'aquesta branca. `La font no ho desagrega.`
+- ~~**No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
+  d'aquesta branca.~~ — **`no-es-buit`**: és una limitació declarada de la
+  font, que no publica aquests desglossaments.
 - **Ni la despesa en TIC ni el tràfic telefònic** —que són divisions d'aquesta
   mateixa branca— **s'han destil·lat.** Són al TSV. `local_raw`

@@ -154,8 +154,9 @@ o més en compren tres vegades més que ells.**
 - **La nacionalitat i l'edat del capital de les societats compradores**, que és
   un terç del mercat i **no es publica.** `La font només en dona el percentatge
   de capital resident.`
-- **El creuament entre nacionalitat del comprador i parròquia**, i entre
-  nacionalitat i tipologia del bé. `La font no ho desagrega.`
+- ~~**El creuament entre nacionalitat del comprador i parròquia**, i entre
+  nacionalitat i tipologia del bé.~~ — **`no-es-buit`**: és una limitació de la
+  font, que no publica aquests creuaments.
 - **El preu pagat per tipus de comprador.** **La font dona qui compra i quants
   béns, i no per quant.** `font_externa`
 - **Per què els portuguesos compren el 2,3% dels béns** essent molt més del 2,3%

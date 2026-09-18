@@ -207,15 +207,16 @@ diferents i la font les publica totes dues.**
   metodològica** que expliqui un factor de quatre. `pregunta_oberta`
 - **Per què el segon quintil està menys satisfet econòmicament que el primer**,
   el corpus no ho sap i la font no ho comenta. `pregunta_oberta`
-- **No hi ha desglossament per parròquia** de cap indicador d'aquesta branca.
-  `La font no ho desagrega.`
-- **La satisfacció amb l'habitatge no es creua amb el règim de tinença** a cap
+- ~~**No hi ha desglossament per parròquia** de cap indicador d'aquesta branca.~~
+  — **`no-es-buit`**: la font no publica aquest desglossament.
+- ~~**La satisfacció amb l'habitatge no es creua amb el règim de tinença** a cap
   taula publicada, **que és exactament el creuament que caldria** per llegir el
-  91,7% al costat de la crisi de lloguer. `La font no ho desagrega.`
-- **Els dos homicidis del 2020** no tenen cap altra dada a la sèrie: ni sexe, ni
-  edat, ni relació. `La font no ho desagrega.`
-- **La felicitat declarada només existeix per al 2022**, i **no es creua ni amb
+  91,7% al costat de la crisi de lloguer.~~ — **`no-es-buit`**: la font no
+  publica aquest creuament.
+- ~~**Els dos homicidis del 2020** no tenen cap altra dada a la sèrie: ni sexe, ni
+  edat, ni relació.~~ — **`no-es-buit`**: la font no publica aquestes variables.
+- ~~**La felicitat declarada només existeix per al 2022**, i **no es creua ni amb
   la salut ni amb la situació laboral**, que és el creuament que la faria
-  llegible. `La font no ho desagrega.`
+  llegible.~~ — **`no-es-buit`**: la font no publica aquests creuaments.
 - **Per què la felicitat per decils d'ingressos fa dents de serra** mentre la
   satisfacció amb la vida no en fa. `pregunta_oberta`

@@ -190,7 +190,8 @@ declara.**
   beneficiaris de 1.223 són espanyols i 301 andorrans**
   ([qui cobra la pensió de solidaritat](./sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md)).
   `La font no ho desagrega.`
-- **No hi ha desagregació per parròquia.** `La font no ho desagrega.`
+- ~~**No hi ha desagregació per parròquia.**~~ — **`no-es-buit`**: la font no
+  publica aquest desglossament.
 - **El «pes de les despeses respecte els ingressos» s'atura el 2021** i el
   darrer any no suma 100. **La sèrie està trencada a la font** i el corpus no la
   cita.

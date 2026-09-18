@@ -237,5 +237,5 @@ les actes.`
   comença el **desembre del 1997**. Per a qualsevol cosa anterior —el que
   costava el pa als anys cinquanta, la pesseta contra el franc— **el corpus
   depèn de preus solts citats en textos**, no d'un índex.
-- **No hi ha IPC per parròquia** ni per tipus de llar. L'índex és d'Andorra
-  sencera. `La font no ho desagrega.`
+- ~~**No hi ha IPC per parròquia** ni per tipus de llar.~~ — **`no-es-buit`**:
+  l'índex de la font és d'Andorra sencera i no publica aquest desglossament.

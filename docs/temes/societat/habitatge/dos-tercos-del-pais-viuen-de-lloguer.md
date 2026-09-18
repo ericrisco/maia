@@ -202,9 +202,9 @@ semestral.`
   **`resolt` el 18-09-2026**: **és la divisió 743 de l'API**, **2010-2025**, amb
   desglossament per anys de residència des del 2019. `La nota de premsa que el
   corpus buscava segueix sense localitzar, i ja no fa falta.`
-- **No hi ha desglossament per parròquia del lloguer.** Del preu de compra sí
-  ([tres-centes tretze, els dos anys](./tres-centes-tretze-els-dos-anys.md));
-  **del lloguer, no.** `La font no ho desagrega.`
+- ~~**No hi ha desglossament per parròquia del lloguer.**~~ — **`no-es-buit`**:
+  la font sí que desglossa el preu de compra ([tres-centes tretze, els dos
+  anys](./tres-centes-tretze-els-dos-anys.md)), però no publica el del lloguer.
 - **Per què el lloguer mitjà baixa un 5,5% el 2022.** `La font no ho explica, i
   pot ser composició de la mostra.` `pregunta_oberta`
 - **El preu mitjà del lloguer no és per metre quadrat.** No es pot comparar

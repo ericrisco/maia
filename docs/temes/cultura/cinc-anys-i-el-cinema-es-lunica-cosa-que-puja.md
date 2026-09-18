@@ -162,8 +162,9 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
   **i cap dada de llengua de lectura posterior.** `font_externa`
 - **Què es llegeix** —llibres, premsa, pantalla— **no consta.** La taula diu
   «lectura per oci» i prou.
-- **No hi ha desglossament per parròquia** ni per nacionalitat. `La font no ho
-  desagrega.`
+- ~~**No hi ha desglossament per parròquia** ni per nacionalitat.~~ —
+  **`no-es-buit`**: és una limitació declarada de la font, que no publica aquest
+  desglossament.
 - **El desglossament per renda només es publica per al 2019.**
 - **Per què el cinema puja** mentre tota la resta de cultura de sala baixa, el
   corpus no ho sap. `pregunta_oberta`

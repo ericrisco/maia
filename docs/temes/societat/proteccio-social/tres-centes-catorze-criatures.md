@@ -179,8 +179,9 @@ sap si existeix.`
   incapacitat parental, violència filioparental, conflicte greu entre
   progenitors—. **És una recategorització i el corpus no cita aquella sèrie**,
   però **no ha trobat cap nota metodològica que ho confirmi.** `pregunta_oberta`
-- **No hi ha desglossament per parròquia ni per nacionalitat.** `La font no ho
-  desagrega.`
+- ~~**No hi ha desglossament per parròquia ni per nacionalitat.**~~ —
+  **`no-es-buit`**: és una limitació declarada de la font, que no publica aquests
+  desglossaments.
 - **A quins països van les criatures que s'envien a centres terapèutics fora
   d'Andorra**, i per què no es fa al país. `pregunta_oberta`
 - ~~**La llei de protecció de la infància i l'adolescència** no s'ha llegit: el
