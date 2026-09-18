@@ -119,8 +119,10 @@ tradició pròpia i aïllada.
 - **Versions andorranes recollides**: la font parla d'Andorra i els exemples que
   dona són tots de fora.
 - **L'herba menaironera**: si té nom botànic i si és la falguera.
-- **Si els minairons surten al recull de [llegendes](./llegendes.md) andorrà**
-  que el corpus ja té.
+- ~~**Si els minairons surten al recull de [llegendes](./llegendes.md)
+  andorrà** que el corpus ja té.~~ — **`resolt` el 18-09-2026**: l'índex actual
+  del recull enumera només **la troballa de Meritxell, el Roc de les Bruixes i
+  la bruixa de Sornàs**; **el minairó no hi figura**.
 
 ## Related
 
