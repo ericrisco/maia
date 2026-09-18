@@ -229,6 +229,22 @@ en tot el país.** `Aquesta és la mida que el mercat de lloguer demana i és la
 que menys es construeix. El corpus posa les dues coses al costat i no afirma
 que una causi l'altra.`
 
+### I una sortida del parc que el corpus no havia comptat
+
+**Les empreses de gestió d'habitatges d'ús turístic passen de dinou el 2010 a
+cent set el 2025** (`docs/raw/estadistica-api/allotjament/`, divisió **756**),
+**×5,6**, i **són l'única categoria d'allotjament turístic que creix de manera
+sostinguda en tota la sèrie**
+([de la fonda a l'hotel](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md#i-una-categoria-que-no-existia)).
+
+**El desembre del 2025 els habitatges d'ús turístic van fer 172.823
+pernoctacions**, **el 14,6% de totes les del país.**
+
+`La font compta empreses, no pisos: cent set empreses no són cent set
+habitatges. Quants pisos hi ha fora del mercat residencial per aquesta via, el
+corpus no ho sap, i és una de les xifres que més faltaria per entendre la
+crisi.`
+
 ## El que falta
 
 > **Auditats el 2026-09-14 contra el corpus.** **Tres dels sis eren buits de
