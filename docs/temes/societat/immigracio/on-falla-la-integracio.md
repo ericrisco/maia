@@ -238,8 +238,34 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
    parcial, l'aportació de qui tingui recursos **no pot ser inferior al tiquet
    moderador** de la seguretat social.
 
-   `Segueix obert si els articles 7 i 8 s'han reglamentat mai amb un decret
-   propi.`
+   **Si els articles 7 i 8 s'han reglamentat mai amb un decret propi: no, i el
+   motiu és que la llei no ho mana.** — **`resolt` el 18-09-2026.** **El text
+   refós reserva desenvolupament reglamentari a tres coses i cap de les tres no
+   és l'article 7 ni el 8**: **la cartera de serveis i productes de salut**
+   (article 12.2), **el procediment sancionador** i **l'estructura del
+   Laboratori Central**. **La disposició final només diu que el Govern
+   assegurarà l'acompliment «mitjançant l'exercici de les seves competències i
+   el desenvolupament reglamentari previst en la pròpia Llei».**
+
+   **El reglament que sí que hi ha regula una altra cosa.** És el **Reglament de
+   l'accés a l'assistència sanitària pública**, del **Decret de l'1-8-2018**
+   (`docs/raw/lleis/bopa/decret-2018-reglament-acces-assistencia-sanitaria.txt`),
+   **modificat set vegades entre el 2019 i el 2025**, i **la seva pròpia
+   capçalera diu de quins articles penja**: **3, 4.a, 5, 9.e, 10, 13, 71.d i
+   72.a.** **Ni el 7 ni el 8.** **El que regula és l'itinerari** —el metge
+   referent com a porta d'entrada, la via d'atenció integrada, la derivació—,
+   **no qui té dret ni qui ho paga.**
+
+   **I el supòsit de l'article 8.c —qui no té recursos ni cap altra protecció
+   social— ha canviat de llei**: **avui és matèria de la Llei 6/2014 de serveis
+   socials i sociosanitaris**, que el reglament del 2018 cita expressament per
+   a la coordinació.
+
+   `Mètode, perquè és una negació: cercat al BOPA amb tres formulacions
+   —«articles 7 i 8 de la Llei general de sanitat», «assistència sanitària a
+   persones mancades de recursos», «gratuïtat dels serveis d'assistència
+   sanitària»—, per rellevància i sense filtre d'any. La negació val sobre el
+   cercador del BOPA, que és el que el corpus pot comprovar.`
 
    **El que l'exposició de motius sí que dona, i el corpus no tenia, és la
    genealogia de la matèria.** La norma que la llei del 1989 ve a substituir és

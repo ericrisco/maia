@@ -262,8 +262,12 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    El buit prioritari de
    [el parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
    **segueix obert**.
-2. **El Registre de partits polítics**: quants n'hi ha inscrits i des de quan.
-   — **`parcial` el 17-09-2026, i ara se sap per què no es pot respondre.**
+2. ~~**El Registre de partits polítics**: quants n'hi ha inscrits i des de
+   quan.~~ — **`resolt` el 18-09-2026, i la resposta és que la font no ho
+   publica i no està obligada a publicar-ho.** **El «des de quan» sí que se
+   sap** —**el Registre existeix des del 2015**—; **el «quants» no el pot
+   donar cap lectura, perquè el reglament fa la difusió potestativa i el
+   BOPA no publica les inscripcions.** **Comprovat, i el buidat és aquest.**
    **El Registre existeix des del 2015** (Decret del 4-3-2015, primer reglament;
    **avui el Decret 308/2024, del 31-7-2024**,
    `docs/raw/lleis/bopa/decret-308-2024-registre-partits.txt`), i **és allà on

@@ -164,9 +164,12 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   gestionar els torns necessaris per garantir la cobertura i la continuïtat […]
   en els supòsits d'absència, impossibilitat o vacances» (article 16.1.f)—,
   **que és cobrir-se les absències, no distribuir els assumptes.**
-- **Els barems d'honoraris** els fixa un reglament que no és al corpus: **quant
-  costa executar una sentència a Andorra, no se sap**. — **`parcial` des del
-  15-09-2026, i només per la banda històrica.** **El barem de l'ofici
+- ~~**Els barems d'honoraris** els fixa un reglament que no és al corpus:
+  **quant costa executar una sentència a Andorra, no se sap**.~~ —
+  **`resolt` el 18-09-2026: se sap, a tres dates i amb la cadena de
+  vigència comprovada** —**1657**, **1740**, **2016** i **2023 vigent**—,
+  i el que segueix és el buidat sencer. **Va ser `parcial` des del
+  15-09-2026, quan només se'n tenia la banda històrica.** **El barem de l'ofici
   antecessor sí que el té el corpus**, complet i a dues dates: l'**estima dels
   drets del notari del 19 de novembre del 1657** i l'aranzel dels *drets al
   senyor batlle* de la *Instructa* del **1740**, amb els repartiments entre
