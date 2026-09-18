@@ -143,7 +143,11 @@ també ha d'evitar la malaltia.
 
 - **Per què 111 i no 150.**
 - **Quantes infermeres andorranes hi ha avui** i quin percentatge — la xifra del
-  10% del 1987 **demana un tancament**. **Buit prioritari.**
+  10% del 1987 **demana un tancament**. **Buit prioritari.** **Comprovat el
+  18-09-2026**: **l'API pública del Departament d'Estadística no té cap
+  divisió de personal sanitari per professió** (cercat «infermeres»,
+  «professionals sanitaris», «salut»). `Requereix el Col·legi Oficial
+  d'Infermeres i Infermers d'Andorra, no Estadística.`
 - ~~L'escola especialitzada Nostra Senyora de Meritxell~~ — **fitxa oberta**;
   en queda pendent la data exacta de fundació. El **Centre d'Acolliment
   d'Infants**, en canvi, segueix sense res.
