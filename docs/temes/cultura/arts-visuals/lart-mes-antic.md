@@ -104,7 +104,7 @@ tot el Pirineu de sota i amb la idea que
    la Balma de la Margineda](./balma-de-la-margineda.md), que ordena la presència
    humana més antiga documentada, els còdols amb pigment i el descobriment de
    1960. **La monografia d'excavació i l'inventari complet continuen pendents.**
-2. **La Feixa del Moro de Juberri** — l'enterrament.
+2. ~~**La Feixa del Moro de Juberri** — l'enterrament.~~ — **`resolt` el 19-09-2026**: vegeu [la fitxa de la Feixa del Moro](./feixa-del-moro.md), basada en el registre del Govern i l'article acadèmic de 2016. El conjunt té **tres sepultures en cista**, a més d'estructures d'hàbitat, llars i sitges, datades entre el neolític antic i mitjà.
 3. **El Cedre** i **l'Oral** — jaciments.
 4. **Els gravats rupestres**: inventari.
 5. **Què hi havia en època romana**, si no hi ha vil·les.
