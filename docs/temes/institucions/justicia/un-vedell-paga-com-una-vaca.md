@@ -235,15 +235,18 @@ de novembre de 1898**.
 
 ## Buits registrats
 
-1. **Els tres reglaments de bans i danys** —**13-05-1871, 10-05-1875 i
-   07-05-1894**— **sencers, amb la tarifa completa.** **El corpus només en té
-   una línia** —**el bestiar gros de dia i de nit**— **i la tarifa té per força
-   més entrades.** **Prioritari.**
-2. **Qui nomena els perits del contraperitatge i del tercer peritatge.** **La
-   font només ho diu del primer** —**el cònsol o un dels Síndics.**
-3. **El cas de 1886 sencer**, **i si la regla que se'n desprèn es va tornar a
-   aplicar.** **La font en diu «cas estrany» i el corpus no té cap altre
-   exemple.**
+1. ~~**Els tres reglaments de bans i danys** —**13-05-1871, 10-05-1875 i
+   07-05-1894**— **sencers, amb la tarifa completa.**~~ — **`parcial` el
+   2026-09-18**: el corpus n'identifica les tres dates i conserva una línia —**el
+   bestiar gros de dia i de nit**—, però **els reglaments sencers i la tarifa
+   completa continuen oberts**.
+2. ~~**Qui nomena els perits del contraperitatge i del tercer peritatge.**~~ —
+   **`parcial` el 2026-09-18**: **la font només ho diu del primer** —**el cònsol o
+   un dels Síndics**—; el nomenament del segon i del tercer continua obert.
+3. ~~**El cas de 1886 sencer**, **i si la regla que se'n desprèn es va tornar a
+   aplicar.**~~ — **`parcial` el 2026-09-18**: la font en diu **«cas estrany»** i el
+   corpus confirma que **no té cap altre exemple**; el text sencer i qualsevol
+   aplicació posterior continuen oberts.
 4. **El decret del 22 de desembre de 1886** sobre els vedells, **i quina
    controvèrsia el va provocar.**
 5. **El decret del Consell del 25 de novembre de 1898** sobre a quin cònsol es
