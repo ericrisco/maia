@@ -309,7 +309,7 @@ el corpus no ho ha comprovat lexicogràficament.»**
 9. **Si el document de 1623 val com a prova que la doctrina de la suspensió dels
    tribunals inferiors és més antiga del que la font diu.** **El corpus registra
    la tensió i no la resol.**
-10. **El *Politar*, p. 172.** — **La p. 185, `resolta` el 18-09-2026, i dona el
+10. ~~**El *Politar*, p. 172.**~~ — **La p. 185, `resolta` el 18-09-2026, i dona el
     rellotge de les causes en temps de Corts.**
 
     **La regla és de tres dies, i el motiu va escrit en llatí dins de cada
