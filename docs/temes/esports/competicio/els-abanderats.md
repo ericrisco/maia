@@ -119,9 +119,28 @@ Comitè Olímpic Andorrà o Olympedia.**
 ## El que falta
 
 - **Els dos abanderats que falten.**
-- **La 27a entrada**, de Milano Cortina 2026.
-- **Els abanderats de CLAUSURA**, que és una sèrie diferent i de la qual el
-  corpus només té un nom: **[Pol Moya](../estiu/pol-moya.md)**, Rio 2016.
+- ~~**La 27a entrada**, de Milano Cortina 2026.~~ — **`resolt` el 18-09-2026**:
+  **ja era a la taula d'aquesta fitxa i ara està comprovada contra la font**.
+  **El bolcat de la Viquipèdia en anglès**
+  (`docs/raw/web/esport/abanderats/`, **CC BY-SA 4.0**) **dona el camp
+  `flagbearer_open = Joan Verdú, Cande Moreno & Irineu Esteve`**, amb
+  **referència al comunicat del COI del 6 de febrer del 2026**. **El buit era
+  vell: la fitxa ja l'havia tancat i la llista de buits no s'havia actualitzat.**
+- **Els abanderats de CLAUSURA**, que és una sèrie diferent. — **`parcial` el
+  18-09-2026, i ara en són dos.** **[Pol Moya](../estiu/pol-moya.md)**, Rio
+  2016, **i el de Milano Cortina 2026**, que **no és un esportista**:
+
+  > `flagbearer_close = Volunteer`
+  >
+  > «a **volunteer** was the country's flagbearer during the closing ceremony»
+  > (Viquipèdia en anglès, amb referència al comunicat del COI del 22 de febrer
+  > del 2026).
+
+  **Andorra va fer desfilar un voluntari amb la seva bandera a la clausura dels
+  Jocs d'hivern del 2026.** `El corpus no en té el nom: ni la Viquipèdia ni el
+  comunicat citat no el donen.` **És la segona vegada que la bandera d'Andorra
+  la porta algú que no és esportista**: **la primera va ser Jordi Casellas
+  Albioc als Paralímpics de Londres 2012.**
 - **Els abanderats paralímpics**, dels quals el corpus en té dos:
   [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md) (Sotxi 2014) i
   **Jordi Casellas Albioc** (Londres 2012, que **no era l'esportista**).

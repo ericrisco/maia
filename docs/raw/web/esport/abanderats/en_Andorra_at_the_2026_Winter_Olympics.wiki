@@ -1,0 +1,179 @@
+{{Infobox country at games
+|NOC = AND
+|NOCname = [[Andorran Olympic Committee]]
+|games = Winter Olympics
+|year = 2026
+|flagcaption = [[Flag of Andorra]]
+|oldcode = 
+|website = {{url|www.coa.ad}} {{in lang|ca}}
+|start_date = {{Start date|2026|02|06|df=y}}
+|end_date = {{End date|2026|02|22|df=y}}
+|location = [[Milan]] and [[Cortina d'Ampezzo]], Italy
+|competitors = 7
+|competitors_men = 3
+|competitors_women = 4
+|sports = 2
+|flagbearer_open = {{Nowrap|[[Joan Verdú (alpine skier)|Joan Verdú]], [[Cande Moreno]] & [[Irineu Esteve]]}}
+|flagbearer_close = Volunteer
+|rank = 
+|gold = 0
+|silver = 0
+|bronze = 0
+|officials = 
+|appearances = auto
+}}
+[[Andorra]] competed at the [[2026 Winter Olympics]] in [[Milan]] and [[Cortina d'Ampezzo]], Italy, from 6 to 22 February 2026.
+
+Three Andorran athletes [[Joan Verdú (alpine skier)|Joan Verdú]], [[Cande Moreno]] and [[Irineu Esteve]] were the country's flagbearer during the [[2026 Winter Olympics opening ceremony|opening ceremony]].<ref>{{cite news|date=6 February 2026|url=https://www.olympics.com/en/milano-cortina-2026/news/all-flagbearers-named-for-milano-cortina-2026-opening-ceremony|title=Milano Cortina 2026 Opening Ceremony: All Flagbearers, all nations - complete list|access-date=16 February 2026|publisher=[[International Olympic Committee]]|work=Olympics.com}}</ref><ref>{{cite news|last=Roche|first=Calum|date=6 February 2026|title=2026 Winter Olympics opening ceremony: order and flag bearers by country|url=https://en.as.com/olympic_games/2026-winter-olympics-opening-ceremony-order-and-flag-bearers-by-country-f202602-n/|work=[[Diario AS]]|location=Madrid, Spain|access-date=16 February 2026}}</ref> Meanwhile, a volunteer was the country's flagbearer during the [[2026 Winter Olympics closing ceremony|closing ceremony]].<ref>{{cite news|date=22 February 2026|url=https://www.olympics.com/en/milano-cortina-2026/news/all-flagbearers-named-for-milano-cortina-2026-closing-ceremony|title=Milano Cortina 2026 Closing Ceremony: full list of flagbearers for every nation|access-date=22 February 2026|publisher=[[International Olympic Committee]]|work=Olympics.com}}</ref><ref>{{cite news|last2=Bowers|first2=Rachel G|last1=Moore|first1=Casey L.|date=22 February 2026|title=Olympics closing ceremony highlights: Milano Cortina Games wrap up in style|url=https://www.usatoday.com/story/sports/olympics/2026/02/22/olympics-closing-ceremony-live-updates/88799693007/|work=[[USA Today]]|location=New York City, New York, USA|access-date=22 February 2026}}</ref>
+
+==Competitors==
+The following is the list of number of competitors participating at the Games per sport/discipline.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+|align=left|[[Alpine skiing at the 2026 Winter Olympics|Alpine skiing]]
+|2||3||5
+|-
+|align=left|[[Cross-country skiing at the 2026 Winter Olympics|Cross-country skiing]]
+|1||1||2
+|-
+! Total||3||4||7
+|}
+
+==Alpine skiing==
+{{main|Alpine skiing at the 2026 Winter Olympics|Alpine skiing at the 2026 Winter Olympics – Qualification}}
+Andorra qualified two female and two male alpine skier.<ref>{{cite web|url=https://www.coa.ad/andorra-afronta-la-delegacio-mes-gran-de-la-seva-historia-en-uns-jocs-olimpics-dhivern-amb-set-esportistes/|title=Andorra afronta la delegació més gran de la seve història en uns Jocs Olímpics d'hivern amb set esportistes|publisher=[[Comitè Olímpic Andorrà]] (COA)|accessdate=21 January 2026}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Run 1
+!colspan=2|Run 2
+!colspan=2|Total
+|-style="font-size: 95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Xavier Cornella]]
+|align=left|[[Alpine skiing at the 2026 Winter Olympics – Men's slalom|Men's slalom]]
+|1:03.01
+|24
+|58.95
+|21
+|2:01.96
+|21
+|-
+|align=left|[[Joan Verdú (alpine skier)|Joan Verdú]]
+|align=left|[[Alpine skiing at the 2026 Winter Olympics – Men's giant slalom|Men's giant slalom]]
+|1:16.69
+|19
+|1:10.60
+|1
+|2:27.29
+|10
+|-
+|align=left rowspan=2|[[Jordina Caminal Santure]]
+|align="left" |[[Alpine skiing at the 2026 Winter Olympics – Women's downhill|Women's downhill]]
+|colspan="4" {{n/a}}
+|1:41.34
+|24
+|-
+|align="left" |[[Alpine skiing at the 2026 Winter Olympics – Women's super-G|Women's super-G]]
+|colspan="4" {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-
+|align=left|[[Carla Mijares Ruf]]
+|align=left|[[Alpine skiing at the 2026 Winter Olympics – Women's slalom|Women's slalom]]
+|colspan=6|{{abbr|DNF|Did not finish}}
+|-
+|align=left|[[Cande Moreno]]
+|align="left" |[[Alpine skiing at the 2026 Winter Olympics – Women's downhill|Women's downhill]]
+|colspan="4" {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|}
+
+==Cross-country skiing==
+{{main|Cross-country skiing at the 2026 Winter Olympics|Cross-country skiing at the 2026 Winter Olympics – Qualification}}
+Andorra qualified one female and one male cross-country skier through the basic quota.<ref name=cross-country>{{cite web|url=https://www.fis-ski.com/DB/v2/quota/list/owg/cc/2026|title=Cross-Country quotas list for Olympic Winter Games 2026|publisher=[[International Ski and Snowboard Federation]] (FIS)|accessdate=28 December 2025}}</ref><ref>{{cite web|url=https://www.coa.ad/andorra-afronta-la-delegacio-mes-gran-de-la-seva-historia-en-uns-jocs-olimpics-dhivern-amb-set-esportistes/|title=Andorra afronta la delegació més gran de la seve història en uns Jocs Olímpics d'hivern amb set esportistes|publisher=[[Comitè Olímpic Andorrà]] (COA)|accessdate=21 January 2026}}</ref>
+
+;Distance
+{|class=wikitable style=font-size:90%;text-align:center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Classical
+!colspan=2|Freestyle
+!colspan=3|Final
+|-style="font-size: 95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Deficit
+!Rank
+|-
+|align=left rowspan=2|[[Gina del Rio]]
+|align=left|[[Cross-country skiing at the 2026 Winter Olympics – Women's 20 kilometre skiathlon|Women's 20 km skiathlon]]
+|30:46.0
+|43
+|30:19.7
+|46
+|1:01:36.0
+| +7:50.8 
+|44
+|-
+|align=left|[[Cross-country skiing at the 2026 Winter Olympics – Women's 10 kilometre freestyle|Women's 10 km freestyle]]
+|colspan=2 {{N/A}}
+|25:25.9
+|35
+|colspan=3 {{N/A}}
+|}
+
+;Sprint
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|- style="font-size:95%" 
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Gina del Rio]]
+|align=left|[[Cross-country skiing at the 2026 Winter Olympics – Women's sprint|Women's sprint]]
+|3:56.85
+|47
+|Colspan=6|Did not advance
+|}
+
+==See also==
+*[[Andorra at the 2026 Winter Paralympics]]
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2026 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+{{DEFAULTSORT:Andorra At The 2026 Winter Olympics}}
+[[Category:Nations at the 2026 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|2026]]
+[[Category:2026 in Andorran sport|Winter Olympics]]
