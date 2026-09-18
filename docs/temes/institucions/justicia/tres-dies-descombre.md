@@ -326,9 +326,9 @@ ensenya on és la frontera:
    particulars**, que la font invoca com a marc.
 9. **Si la *pena* de cent ducats de les treves es va cobrar mai**, i **a quin
    dels tres destinataris alternatius.**
-10. **Si les treves pactades i les imposades convivien o se succeeixen.** **El
-    corpus té una de cada** —**1551 pactada, 1603 imposada**— **i no en dedueix
-    cap evolució.**
+10. ~~**Si les treves pactades i les imposades convivien o se succeeixen.**~~ —
+    **`parcial` el 18-09-2026**: **el corpus té una de cada** —**1551 pactada,
+    1603 imposada**—, però **no permet deduir-ne cap evolució**.
 
 ## Related
 

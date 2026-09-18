@@ -347,8 +347,10 @@ representació**, com a la renovació del comú.
 2. **La divergència sobre qui presideix o executa al quart** —torn de cases
    contra càrrec derivat— **queda oberta.** `Requereix ordinacions d'un quart
    concret.`
-3. **Si Andorra la Vella tenia quarts el 1918.** **La font en diu dues que no en
-   tenen i Andorra no hi és; el corpus la té com a parròquia sense divisió.**
+3. ~~**Si Andorra la Vella tenia quarts el 1918.**~~ — **`parcial` el
+   18-09-2026**: **la font en diu dues que no en tenen i no inclou Andorra la
+   Vella**; el corpus la registra com a parròquia sense divisió, però **no és una
+   prova directa per al 1918**.
 4. **Els conflictes freqüents entre quarts i parròquies.** **La font els dona per
    coneguts i no en cita cap.** **Prioritari**: **serien la millor font sobre on
    acaba la competència de cada un.**
