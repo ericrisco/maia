@@ -111,6 +111,14 @@ font diu que el va crear el pare Enric Graner de Montserrat el 1945.**
 benedictins de Montserrat— **i discrepen en tres anys i en l'autor.** **El corpus
 registra el desacord i no l'arbitra.**
 
+**Actualització del 18-09-2026**: **la Viquipèdia en català sobre el mateix
+club matisa el desacord** en lloc de resoldre'l — **dona 1942 com la data
+«més comunament acceptada»**, però **registra que altres fonts citen 1938 i
+1945**, i **totes tres dates es vinculen al mateix pare Enric Graner**
+([font](../../../fonts/wikipedia-ca-futbol-club-andorra.md)). **No és,
+doncs, un desacord entre «qui el va fundar»**, sinó **un desacord entre
+«quin any exacte»**, amb Graner com a denominador comú a les tres versions.
+
 **I el cognom Baró surt dues vegades**: **Miquel Baró funda l'Esquí Club Envalira
 el 1945**, i **una família Baró posa capital privat al primer remuntador de
 Soldeu el 1964**
@@ -221,8 +229,14 @@ concret que la branca d'història té: sis títols amb autor i any.**
 
 - **Les sis obres de la bibliografia.**
 - **Xavier de Plandolit** i la revista ***Andorra Agrícola***.
-- **Gil Torres**, **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**,
-  **el pare Enric Graner**: cap fitxa de cap.
+- **Gil Torres**, **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**:
+  cap fitxa de cap.
+- ~~**El pare Enric Graner**: cap fitxa.~~ — **`parcial` el 18-09-2026**:
+  **monjo benedictí del cenobi de Montserrat**, resident a Andorra, vinculat
+  a la fundació del Futbol Club Andorra a l'escalf del Col·legi Meritxell
+  —amb la data exacta divergent entre 1938, 1942 i 1945, segons la font
+  ([font](../../../fonts/wikipedia-ca-futbol-club-andorra.md)). **La seva
+  biografia més enllà d'aquest fet segueix sense trobar-se.**
 - **La plaça de braus**: quan es va tancar, i què hi va haver.
 - ~~**Els aiguats del 1982**, que el corpus no té fitxats.~~ — **tancat el
   mateix dia**: [els aiguats del 1982](./els-aiguats-del-1982.md). **Set morts i

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1079** documents · **323** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1079** documents · **324** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1990,6 +1990,7 @@
 | [`wikipedia-ca-esglesia-santa-coloma`](fonts/wikipedia-ca-esglesia-santa-coloma.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-francesc-galobardes`](fonts/wikipedia-ca-francesc-galobardes.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-futbol-club-andorra`](fonts/wikipedia-ca-futbol-club-andorra.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-inaki-rubio-manzano`](fonts/wikipedia-ca-inaki-rubio-manzano.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
