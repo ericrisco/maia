@@ -226,24 +226,55 @@ Andorra, o les actes del Consell General de 1935 i 1949.`
 > **Auditats contra la resta del corpus el 2026-09-13.** Cap font nova: només
 > documents que el corpus ja tenia i no havia connectat.
 
-1. **Qui eren André Boussac i Llorenç Gómez Quintero.** **Prioritari** — són els
-   homes a qui Andorra va concedir l'aigua i la banca.
-   **`parcial` — 2026-09-13.** [FHASA](../energia-i-serveis/fhasa.md) ja els
-   descrivia i aquesta fitxa no ho recollia: **«representants d'un grup
-   hispanofrancès»**, amb una concessió **per explotar els rius durant 75
-   anys**. `font directa`: M. Jesús Lluelles i Larrosa, *«Els impactes de
-   FHASA»*, Debats de Recerca 12, SAC, 2020, p. 222-235.
-   **Continua obert:** **quin grup**, **d'on venia el capital**, i **què van
-   fer abans i després**.
-   **I una divergència de nom, registrada i no arbitrada:** aquesta fitxa diu
-   **«André Boussac»** i **«Gómez Quintero»**; FHASA diu **«Andreu Boussac»** i
-   **«Gómez Quintana»**. **Dos cognoms diferents per a la mateixa persona en el
-   mateix expedient de concessió.**
-   `Requereix font externa: el contracte de concessió de 1929 amb els noms tal
-   com hi consten.`
-2. **La Companyia d'Andorra** de 1928: qui hi havia, què va ser-ne.
-   **`obert` — confirmat el 2026-09-13:** el nom **no surt enlloc més del
-   corpus**.
+1. ~~**Qui eren André Boussac i Llorenç Gómez Quintero.**~~ — **`resolt` el
+   18-09-2026**, **i el «grup hispanofrancès» té noms, càrrecs i una connexió
+   política.**
+
+   | Qui | Què era |
+   | --- | --- |
+   | **Lorenzo Gómez-Quintero** | **empresari espanyol** i **president de la Cambra de Comerç espanyola a París** |
+   | **André Boussac** | **empresari francès** |
+   | **Pierre Forgeot** | **ministre francès de Treballs Públics** d'aleshores, **amb qui tots dos tenien connexions financeres** |
+   | **Damià Mateu i Bisa** i **Miquel Mateu i Pla** | **industrials catalans**, **inversors «inicialment a l'ombra»** i, el 1930, **Miquel Mateu encapçala FHASA** |
+
+   **I el projecte ve d'abans que ells**: **el van començar a estudiar el 1927
+   l'enginyer barceloní Lluís Creus Vidal i l'enginyer suís Alfred Würth Rahm**,
+   **amb el suport econòmic dels Mateu**
+   ([font](../../../fonts/historia-ad-relat-cronologic.md)).
+
+   > **La concessió no la guanya un consorci anònim: la guanyen dos empresaris
+   > amb accés al ministre francès de Treballs Públics, amb capital català
+   > darrere.** **I la font ho diu sense eufemisme: el que va decantar els
+   > coprínceps va ser «que els concessionaris fossin empresaris de prestigi als
+   > seus respectius països».**
+
+   **Sobre la divergència de nom**: **aquesta font escriu «Lorenzo
+   Gómez-Quintero» dues vegades**, coincidint amb la grafia d'aquesta fitxa i
+   **no amb la «Gómez Quintana» de Lluelles**. `Dues fonts contra una no és una
+   prova d'arxiu: el contracte del 27 de març del 1929 segueix sense veure's, i
+   és l'única peça que fixa la grafia.` `font_externa`
+
+2. ~~**La Companyia d'Andorra** de 1928: qui hi havia, què va ser-ne.~~ —
+   **`resolt` el 18-09-2026, i el que va ser-ne és que va caducar.**
+
+   **La concessió del 27 de setembre del 1928** —salts d'aigua, banca i **un
+   dret preferencial sobre l'explotació minera**— **era a favor de Pierre
+   Forgeot i Lorenzo Gómez-Quintero**, i **va caducar el gener del 1929 per no
+   haver estat ratificada pels coprínceps.**
+
+   **Sis mesos després, el 27 de març del 1929, la mateixa gent torna sense
+   Forgeot i amb Boussac al seu lloc**, i **aquesta sí que es ratifica.**
+
+   > **La diferència entre la concessió que cau i la que prospera és que a la
+   > segona no hi figura el ministre francès en exercici.** **El corpus ho
+   > registra com a seqüència de fets, no com a causa.**
+
+   **I la font afegeix el context**: **abans hi havia hagut altres intents
+   fallits** —**el del francès Pierre Jary el 1927**, que **va renunciar a
+   construir carreteres**— i **encara un altre el maig del 1930**.
+   `Qui componia formalment «la Companyia d'Andorra» com a societat, i si va
+   arribar a constituir-se. La font parla de concessionaris, no de societat.`
+   `pregunta_oberta`
 3. **Les actes del Consell General** de 1928-1930. **Font primària citada i no
    consultada.**
    **`obert` — confirmat el 2026-09-13.** **Tres buits d'aquesta fitxa hi van a
