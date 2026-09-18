@@ -51,7 +51,12 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
 
 - Accedir a les transcripcions de les actes històriques i incorporar-les.
 - Saber què conté exactament el fons d'RTVA a l'Arxiu Nacional i en quines
-  condicions es consulta.
+  condicions es consulta. — **Mínim afegit el 18-09-2026**: la Viquipèdia
+  ([font](../../../fonts/wikipedia-ca-radio-television-andorra.md)) hi
+  cita «dates consultables als vídeos de l'Arxiu Nacional», confirmant
+  que **el fons conté almenys vídeos de retransmissions televisives
+  històriques**. **Sense inventari, volum ni condicions d'accés: el buit
+  segueix pràcticament obert.**
 - ~~Els museus i les seves col·leccions.~~ — **tancat el 2026-09-13**:
   **[els museus d'Andorra](./museus/README.md)**, vint fitxats un per un. **El
   fet que n'ha sortit**: **la xarxa museística andorrana es va dissenyar el 1994

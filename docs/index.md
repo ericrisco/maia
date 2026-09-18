@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **364** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **365** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -2040,6 +2040,7 @@
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-pascual-madoz`](fonts/wikipedia-ca-pascual-madoz.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-pere-canturri-montanya`](fonts/wikipedia-ca-pere-canturri-montanya.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
+| [`wikipedia-ca-radio-television-andorra`](fonts/wikipedia-ca-radio-television-andorra.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-societat-andorrana-de-ciencies`](fonts/wikipedia-ca-societat-andorrana-de-ciencies.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
