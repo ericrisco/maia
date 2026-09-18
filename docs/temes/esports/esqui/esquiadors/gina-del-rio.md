@@ -80,8 +80,15 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   EQUIPS**. **L'infobox està actualitzat al 22 de març del 2026.**
   **Les classificacions per temporada hi són en taules que aquest bolcat no
   conserva.** `Requereix font externa: la FIS.`
-- **On és exactament el club NEC** i què vol dir la sigla. — **`obert`,
-  confirmat**: **el bolcat dona la sigla i res més.**
+- **On és exactament el club NEC** i què vol dir la sigla. — **`parcial` el
+  18-09-2026**: **NEC és el Nòrdic Esquí Club, amb seu a**
+  [La Rabassa](../la-rabassa.md), **Sant Julià de Lòria** —el primer club
+  d'esquí nòrdic del Principat, segons el títol de la seva pàgina web i de
+  la seva pàgina de Facebook. **No verificat contra la font pròpia**: el
+  domini `nec.naturlandia.ad` **no resol per DNS** ni per WebFetch, ni pel
+  proxy r.jina.ai, ni per `curl` directe —el mateix problema d'infraestructura
+  que el club ICA. **Registrat com a pista forta, no com a fet confirmat de
+  primera mà.**
 - **Els seus resultats complets de Milano Cortina 2026.** — **`obert`,
   confirmat**: **el bolcat diu que hi va representar Andorra i no en dona cap
   prova ni cap posició.**
