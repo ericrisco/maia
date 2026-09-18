@@ -251,8 +251,8 @@ raó.` **També el 1998 es repeteix el mateix import tot l'any.**
   Butlletí: vegeu [La sèrie completa](#la-serie-completa-i-comenca-vuit-anys-abans-del-butlleti).
   `El que segueix obert és el càlcul: la sèrie dona l'import i no la fórmula
   que el va produir cada any.`
-- **Quanta gent cobra el salari mínim**, no consta. La sèrie dona el sostre
-  inferior legal i cap dada de qui hi és. — **`parcial` el 17-09-2026**: la nota
+- ~~**Quanta gent cobra el salari mínim**~~ — **`parcial` el 17-09-2026**: la sèrie
+   dona el sostre inferior legal i cap dada de qui hi és. La nota
   **A149** dona l'**interval de salari modal**, que el maig del 2026 és
   **1.500-1.600 €** amb el **5,4%** dels assalariats, i **el mínim mensual
   equivalent cau dins d'aquest interval**. `Segueix obert el recompte exacte de

@@ -217,11 +217,11 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
 
 ## Buits registrats
 
-1. **Les xifres d'avui.** La font té **vint-i-sis anys**. — **`parcial` des del
-   2026-09-13**: hi ha dades **onze anys més noves**, del curs **2011-2012**, a
+1. ~~**Les xifres d'avui**~~ — **`parcial` des del 2026-09-13**: la font té
+   **vint-i-sis anys**, però hi ha dades **onze anys més noves**, del curs **2011-2012**, a
    [el que decideix si un escolar parla català](./el-que-decideix-si-un-escolar-parla-catala.md).
    Segueixen sent de fa catorze anys.
-2. **El decret de 1917** i el de **1982**, textos. — **`parcial` el 17-09-2026**:
+2. ~~**El decret de 1917 i el de 1982, textos**~~ — **`parcial` el 17-09-2026**:
    **cap dels dos no és al [BOPA](../../../fonts/bopa.md)**, que comença el 1989 i
    no publica decrets del president de la República Francesa. **El del 1982 el
    nomenen tres convenis successius** —«el Decret sobre les escoles i el Lycée del

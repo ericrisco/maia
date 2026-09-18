@@ -84,8 +84,8 @@ i mig abans.
 ## Buits registrats
 
 1. **Quant costava** una iguala, i en quina moneda.
-2. **Quan comencen** les iguales a Andorra. El sistema és peninsular i antic;
-   aquí no se'n sap la data d'entrada. — **`parcial` el 17-09-2026, i cal
+2. ~~**Quan comencen les iguales a Andorra**~~ — **`parcial` el 17-09-2026**: el
+   sistema és peninsular i antic; aquí no se'n sap la data d'entrada. Cal
    separar dues coses que s'assemblen.** Font: els [llibres d'actes del Consell
    General](../../../fonts/actes-historiques-consell-general.md).
 

@@ -111,7 +111,7 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 
 1. La **sentència de 1731** — text, qui la dicta, què deia exactament.
 2. **Quina epidèmia** va delmar els ramats i amb quines pèrdues.
-3. Les **xifres** de cabana ovina al llarg dels segles. — **`parcial` el
+3. ~~Les **xifres** de cabana ovina al llarg dels segles~~ — **`parcial` el
    18-09-2026**: **del 1988 al 2026 la sèrie hi és, any per any**, i diu una
    cosa que aquesta fitxa no explica: **Andorra perd el 57,2% de les ovelles
    entre el 1993 i el 1996**, toca fons el 2000 amb 1.586 caps i **remunta fins

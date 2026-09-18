@@ -303,7 +303,7 @@ registrat.**
    `Segueixen citats i no vistos el Decret del Consell General del 8 de febrer de
    1969 i el Decret del 15 de juliol de 1993 de creació del Servei de Revisions
    Mèdiques.`
-3. **Qui paga el control mèdic** avui. — **`parcial` el 17-09-2026**: el
+3. ~~**Qui paga el control mèdic avui**~~ — **`parcial` el 17-09-2026**: el
    reglament del 1993 deia que les **proves complementàries i els tractaments**
    anaven **a càrrec de l'interessat** (article 13). **El reglament vigent del
    2010 no diu res del cost**, ni de la revisió ni de les proves complementàries
@@ -313,8 +313,8 @@ registrat.**
    criteris.
 5. **Com s'aplica el criteri c)** —la «càrrega excessiva»— en la pràctica: qui
    ho valora i amb quin llindar.
-6. **El text del protocol de 1997**, que segueix sense aparèixer. — **`parcial`
-   el 17-09-2026**: **cap norma amb aquest nom no és al BOPA**, i la que hi havia
+6. ~~**El text del protocol de 1997**~~ — **`parcial` el 17-09-2026**: **cap norma
+   amb aquest nom no és al BOPA**, i la que hi havia
    vigent el 1997 era el **Reglament del 15 de juny de 1993**, ara llegit. **El
    «protocol de salut» que denunciava l'ADMA o bé és aquest reglament anomenat
    d'una altra manera, o bé és una instrucció interna que no es publica.**

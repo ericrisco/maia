@@ -232,8 +232,8 @@ consultades no ho diu.`
   la Llei d'agricultura i ramaderia.`
 - **Què se'n fa**: quant d'aquest tabac es transforma al país i quant
   s'exporta.
-- **Per què el trencament és el 2020** i no un altre any. — **`parcial` el
-  18-09-2026, i la pregunta s'ha hagut de reformular**: amb **vint-i-cinc anys
+- ~~**Per què el trencament és el 2020 i no un altre any**~~ — **`parcial` el
+   18-09-2026**: la pregunta s'ha hagut de reformular; amb **vint-i-cinc anys
   de rendiment per hectàrea** es veu que **el 2020 no és un any de menys terra
   sinó de menys collita per hectàrea** —**821 kg/ha contra els 1.425-1.784 de
   tots els anys del 2001 al 2019**—, i que **cinc anys després segueix un terç
