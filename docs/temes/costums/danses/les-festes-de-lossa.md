@@ -159,7 +159,7 @@ andorrana.** **Buit prioritari.**
 - **Els documents i testimonis orals de l'Arxiu Nacional.** — **`obert`,
   confirmat.** El corpus en coneix l'existència i les set localitats, i no en té
   cap peça.
-- **Per què va desaparèixer a totes les parròquies menys dues.** — **`parcial`.**
+- ~~**Per què va desaparèixer a totes les parròquies menys dues.**~~ — **`parcial`.**
   **La desaparició ja té causa dins d'aquest mateix article** (l'emigració dels
   anys vint). **El que faltava era l'altra meitat: per què dues sí.** **Per a
   Encamp el corpus la té**, a

@@ -136,8 +136,8 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
 > tenien resposta parcial dins del corpus, i un la tenia dins d'aquest mateix
 > article.**
 
-- **Dotze dels catorze balls.** Cap fitxa. **Buit prioritari i molt ben
-  delimitat.** — **`parcial`, i el compte és exacte.** **De les catorze, el
+- ~~**Dotze dels catorze balls.** Cap fitxa. **Buit prioritari i molt ben
+  delimitat.**~~ — **`parcial`, i el compte és exacte.** **De les catorze, el
   corpus en documenta tres i no dues**: el Contrapàs i la Marratxa tenen fitxa,
   i **el Ball del porrer en té l'única descripció de vestuari que existeix al
   corpus, aquí mateix, unes línies més amunt.** **Queden onze sense res.**
@@ -145,7 +145,7 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   registrat com a identificat i no consultat a
   [la Passa](../ritus-de-pas/la-passa.md) — **la mateixa font que esperen quatre
   buits més de la branca de [danses](./danses.md).**
-- **Si es ballen encara** i quins són recuperació moderna. Recordeu que
+- ~~**Si es ballen encara** i quins són recuperació moderna.~~ Recordeu que
   **la sardana no s'introdueix a Andorra fins als anys trenta-quaranta**
   ([el cas Amades](../../historia/historiografia/el-cas-amades.md)): **antiguitat
   aparent no és antiguitat.** — **`parcial`, i el corpus ja té el cas net de les
@@ -176,7 +176,7 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   **Els dos cognoms no surten enlloc més del corpus**, ni a les fitxes de
   persones ni a les de demografia. `Requereix font externa: els registres
   parroquials d'Encamp, o la genealogia d'Amades.`
-- **La comparació amb l'Aran i el Pallars**: per què Andorra hi surt tant. —
+- ~~**La comparació amb l'Aran i el Pallars**: per què Andorra hi surt tant.~~ —
   **`parcial`, amb la resposta dins d'aquest mateix article.** **Canturri ja
   n'apunta el mecanisme**: Amades **hi tenia família** —el darrer porrer «era
   mig parent nostre», l'àvia paterna es deia **Baltasara Barrobes**— i la font

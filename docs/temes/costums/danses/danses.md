@@ -61,8 +61,8 @@ andorrana està repetint l'anacronisme que va delatar Fiter
 > era vella: **el corpus tenia dues fitxes més d'aquesta branca i aquest índex no
 > les llistava.**
 
-- El **ball de la Dama Blanca** (Sant Julià): ja se'n sap l'origen —**és una
-  geganta**, vegeu [els gegants](../gegants/els-gegants.md)— però no el ball. —
+- ~~El **ball de la Dama Blanca** (Sant Julià): ja se'n sap l'origen —**és una
+  geganta**, vegeu [els gegants](../gegants/els-gegants.md)— però no el ball.~~ —
   **`parcial`.** **El ball existeix i té intèrpret conegut**: l'**Esbart
   Laurèdia** el té com a peça pròpia, *La Dama Blanca d'Auvinyà*, **documentada
   el 2013**. **Ho porta el material en brut del corpus mateix**, entre les
@@ -81,8 +81,7 @@ andorrana està repetint l'anacronisme que va delatar Fiter
   **abans es feien a Canillo, la Cortinada, les Escaldes i Andorra la Vella**.
   **El buit correcte és més petit i més precís: Canillo, la Massana i
   Escaldes-Engordany.**
-- Els esbarts: Esbart Dansaire d'Andorra la Vella, Esbart Laurèdia, i els altres.
-  — **`parcial`.** **El corpus en té l'onada fundacional i dues dates**, en tres
+- ~~Els esbarts: Esbart Dansaire d'Andorra la Vella, Esbart Laurèdia, i els altres.~~ — **`parcial`.** **El corpus en té l'onada fundacional i dues dates**, en tres
   documents que no es citaven entre ells:
 
   | Què | On ho diu el corpus |
@@ -93,7 +92,7 @@ andorrana està repetint l'anacronisme que va delatar Fiter
 
   **Continua obert**: la data de fundació de cada esbart, els estatuts, i
   **quins altres n'hi ha**.
-- La música: cobles, repertori, qui el conserva. — **`parcial`.** **Qui el
+- ~~La música: cobles, repertori, qui el conserva.~~ — **`parcial`.** **Qui el
   conserva té nom en un cas i només en un**: [la marratxa](./la-marratxa.md)
   documenta que **Daniel Areny va recollir la tonada de la memòria de Ricard Mas
   als anys seixanta i Isidre Marbà la va harmonitzar**. **De cobla, el corpus
