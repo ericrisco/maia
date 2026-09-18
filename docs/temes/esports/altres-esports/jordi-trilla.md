@@ -45,11 +45,12 @@ estadística.**
   eliminatòries seguides de Copa Davis del 2021**: **contra Macedònia del Nord
   i contra Kosovo**, **i el de Kosovo el va guanyar**, **fent parella amb
   [Èric Cervós](./eric-cervos.md).**
-- **I el motiu pel qual hi va jugar, que és el fet d'aquesta fitxa**: **hi va
+- ~~**I el motiu pel qual hi va jugar, que és el fet d'aquesta fitxa**: **hi va
   debutar amb setze anys** —**un dels jugadors més joves de la història de la
   Copa Davis andorrana**— **dins d'un canvi de criteri de la federació, que
-  havia decidit donar experiència als jugadors joves.** **El corpus no tenia
-  documentada cap política esportiva andorrana d'aquesta mena.**
+  havia decidit donar experiència als jugadors joves.**~~ — **`resolt`**: el
+  bolcat documenta tant el debut als setze anys com el canvi de criteri que va
+  donar experiència als jugadors joves.
 
 ## Related
 
