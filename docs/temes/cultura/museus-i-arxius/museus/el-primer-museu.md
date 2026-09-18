@@ -75,8 +75,57 @@ tenia:**
 
 ## El que falta
 
-- **Qui era Pau-Xavier d'Areny-Plandolit**, i quina relació tenia amb Guillem.
-- **Si el Museu de Zoologia de Barcelona conserva la col·lecció**, i on.
+- ~~**Qui era Pau-Xavier d'Areny-Plandolit**, i quina relació tenia amb
+  Guillem.~~ — **`resolt` el 18-09-2026: era el seu fill, i el va conèixer.**
+
+  **Pau Xavier d'Areny-Plandolit** (**Tolosa de Llenguadoc, 1876** — **Barcelona,
+  6 de març del 1936**, enterrat a Montjuïc). **Era el més petit de disset
+  germans** —**set del primer matrimoni de Guillem i deu del segon**— i **va
+  néixer ja orfe de pare**: **Guillem havia mort a Tolosa el 23 de febrer del
+  1876**, a l'exili. **Pau Xavier neix a la ciutat on el seu pare acabava de
+  morir.**
+
+  **No va ser noble de rendes**: **es va llicenciar en Medicina i Cirurgia a
+  Barcelona el 1900**, va ser **professor auxiliar de Tècnica Anatòmica** i
+  **preparador-conservador del Museu d'Història Natural de la Universitat de
+  Barcelona**, va publicar **dos tractats de taxidèrmia (1909 i 1914)** i un
+  **compendi d'obstetrícia per a llevadores (1905)**, i va dirigir la revista
+  *Medicina Práctica*. **El 1903 la premsa el dona com el primer metge
+  d'Espanya que fa visites a domicili amb automòbil.**
+
+  > **El patrimoni familiar s'havia desmembrat**: el testament de Guillem el
+  > repartia **entre tretze dels seus catorze fills vius** —**n'excloïa una
+  > filla**—, i **el plet entre els fills del primer matrimoni i la madrastra es
+  > va resoldre venent-ho tot.** **El fundador del primer museu d'Andorra és el
+  > fill menor d'una casa que s'acabava de partir.**
+
+- ~~**Si el Museu de Zoologia de Barcelona conserva la col·lecció**, i on.~~ —
+  **`resolt` el 18-09-2026: la va comprar, i en conserva fins i tot l'expedient.**
+
+  | | |
+  | --- | --- |
+  | **Qui la va vendre** | **Neus Gassó Homdedéu**, vídua de Pau Xavier, **amb poders atorgats pels fills hereus** |
+  | **Qui la va comprar** | **l'Ajuntament de Barcelona** |
+  | **Quan** | **novembre del 1948** *(La Vanguardia, 24-11-1948)* |
+  | **Per quant** | **200.000 pessetes** |
+  | **Què** | **més de 1.700 exemplars**: 107 mamífers, 488 ocells, 200 peixos, 91 rèptils… |
+  | **On va anar** | **Museu Municipal de Zoologia de Barcelona**, reobert el **30 de gener del 1949** a l'antic restaurant de l'Exposició Internacional |
+
+  **I l'arxiu històric del Museu de Zoologia de Barcelona en conserva quatre
+  expedients del 1948** —**183/3, 176/4, 219/4 i 7/31**— que **inclouen
+  l'inventari i un àlbum de fotografies del Museu d'Ordino.**
+
+  > **Les fotografies que aquesta fitxa donava per perdudes existeixen, i se sap
+  > on són.**
+
+  **L'edifici buit va servir de magatzem de gra i assecador de tabac**; **el
+  1972 el Govern d'Andorra el va comprar als hereus** junt amb la casa, i **la
+  casa va reobrir com a casa-museu el 1986.**
+
+  *(Font: `docs/raw/web/historia/taxidermidades-pau-xavier-areny-plandolit.txt`
+  i `viqui-guillem_de_plandolit_i_dareny.txt`, baixades el 18-09-2026. La
+  primera cita els expedients d'arxiu i les dates de* La Vanguardia*; el corpus
+  no ha vist ni els expedients ni el diari.)* `font_externa`
 - **Les fotografies** que la font diu que en queden.
 - **La Crisi del Joc**: què va ser i qui hi va ser responsable.
 

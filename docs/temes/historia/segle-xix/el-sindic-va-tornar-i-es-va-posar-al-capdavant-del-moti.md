@@ -244,8 +244,29 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
 6. **Quantes concessions de mines, aigües, ferrocarrils i tramvies elèctrics va
    atorgar el Consell General**, **i a qui.** **Tercera tanda que el corpus ho
    reclama.**
-7. **Si Plandolit va tornar de l'exili**, **i on va anar.** **El corpus no ho
-   té.**
+7. ~~**Si Plandolit va tornar de l'exili**, **i on va anar.**~~ — **`resolt` el
+   18-09-2026: no va tornar. Va morir a Tolosa de Llenguadoc el 23 de febrer del
+   1876**, als **54 anys**. **Havia nascut a la Seu d'Urgell el 19 de febrer del
+   1822** i **havia estat síndic general del 28 de maig del 1866 al 2 de
+   desembre del 1867**: **només any i mig de sindicatura, i vuit anys llargs
+   d'exili després.**
+
+   **I hi ha un detall que tanca la història familiar**: **el seu fill petit,
+   Pau Xavier d'Areny-Plandolit, va néixer a Tolosa aquell mateix 1876, mesos
+   després de la mort del pare** —**el més petit de disset germans**— i
+   **seixanta anys més tard obriria el primer museu d'Andorra**
+   ([el primer museu](../../cultura/museus-i-arxius/museus/el-primer-museu.md)).
+   **El testament de Guillem repartia el patrimoni entre tretze dels seus
+   catorze fills vius i va acabar en un plet que es va resoldre venent-ho tot.**
+
+   > **El síndic que va encapçalar el motí va morir fora, i la casa que havia
+   > fet la Nova Reforma es va desfer en herències.**
+
+   *(Fonts: `docs/raw/web/historia/viqui-guillem_de_plandolit_i_dareny.txt` i
+   `taxidermidades-pau-xavier-areny-plandolit.txt`, baixades el 18-09-2026. La
+   segona cita com a biografia de referència **Esteve Albert i Corp**, *Don
+   Guillem d'Areny i de Plandolit, baró de Senaller i de Gramenet* (Editorial
+   Andorra, 1987), **que el corpus no té.**)* `font_externa`
 8. **Les contribucions especials creades per pagar la carretera**: **quines eren,
    qui les pagava i quant van recaptar.** **Nou i prioritari**: **és un impost
    andorrà del segle XIX amb finalitat declarada.**
