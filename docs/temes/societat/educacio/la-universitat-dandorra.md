@@ -251,7 +251,22 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   aquestes fitxes repeteixen són, en realitat, un sol buit.**
   `Requereix font externa: el web de la Universitat d'Andorra o l'AQUA.`
 - **Quants estudiants andorrans hi ha a l'estranger** i on. La font diu que el
-  ministeri en fa el seguiment — **doncs existeixen les xifres**.
+  ministeri en fa el seguiment — **doncs existeixen les xifres**. —
+  **`parcial` el 18-09-2026, i el que el catàleg d'Estadística publica no és
+  això**:
+
+  - **`ESTUDIANTS NO UNIVERSITARIS A L'ESTRANGER PER PAÏSOS D'ESTUDI`**: **163
+    el 2024** —**52 a Espanya, 22 a França i 89 a «altres»**—, contra **184 el
+    2023**. **Són escolars, no universitaris.**
+  - **Cap taula d'universitaris a l'estranger.** **El que s'hi acosta és el
+    nombre de beques universitàries concedides**: **606 el 2024**, de les quals
+    **550 de primer cicle i 56 de segon**
+    ([quatre mil cent quinze ajudes](./quatre-mil-cent-quinze-ajudes.md)).
+    **Això és un terra, no un recompte**: **hi ha universitaris andorrans que no
+    demanen beca**, i **la beca no distingeix si s'estudia a Andorra o fora.**
+
+  `El seguiment del ministeri que la font invoca no és al catàleg
+  d'Estadística. Segueix requerint el ministeri.`
 - **En quins temes Andorra pot «fer aportacions significatives al coneixement»**:
   la font ho declara com a objectiu i no ho respon.
 - **L'Escola d'Informàtica, el Centre d'Estudis Virtuals i el Centre d'Extensió
