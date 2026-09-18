@@ -247,9 +247,67 @@ entitats.
 persones.** El corpus tenia les dues xifres en fitxes diferents i **no les havia
 posat mai de costat**.
 
-**Buit registrat, prioritari:** quan va girar la corba i on va anar aquella gent
-—retorn a Portugal, pas a nacionalitat andorrana, o marxa a un tercer país. **La
-crisi del 2008 hi cau al mig**, i això és una hipòtesi, no una resposta.
+### Setze anys de la mateixa corba
+
+> **Afegit el 18-09-2026** amb la sèrie sencera de l'API d'Estadística
+> (`docs/raw/estadistica-api/`, CC BY 4.0,
+> [font](../../../fonts/estadistica-ad.md)). **El cens posterior de la taula de
+> dalt és el del 2020.**
+
+| Any | Portuguesos | Variació |
+| ---: | ---: | ---: |
+| **2010** | **10.832** | — |
+| 2011 | 10.284 | −548 |
+| 2012 | 9.956 | −328 |
+| 2013 | 9.614 | −342 |
+| 2014 | 9.360 | −254 |
+| 2015 | 9.261 | −99 |
+| 2016 | 9.196 | −65 |
+| 2017 | 9.193 | −3 |
+| 2018 | 9.175 | −18 |
+| **2019** | **9.212** | **+37** |
+| 2020 | 9.083 | −129 |
+| 2021 | 8.885 | −198 |
+| 2022 | 8.777 | −108 |
+| 2023 | 8.679 | −98 |
+| 2024 | 8.529 | −150 |
+| **2025** | **8.428** | −101 |
+
+**La corba no gira: ja havia girat.** **El 2010, el primer any de la sèrie, ja
+en queden 10.832, quatre-cents seixanta-dos menys que l'estimació del 2005**, i
+**baixa tots els anys menys un.**
+
+**Quinze baixades i una pujada de trenta-set persones, el 2019.** **En setze
+anys la comunitat perd 2.404 persones, un −22,2%.**
+
+**I la caiguda és més forta al principi que al final**: **del 2010 al 2014
+perd 1.472 persones —el 13,6%—**, i **del 2018 al 2025 en perd 747.** `Això
+desplaça la hipòtesi de la crisi del 2008 cap enrere, i no la confirma: la
+sèrie de l'API comença el 2010 i el corpus no té els anys 2005-2009.`
+
+**Mentrestant, el país creix de 70.290 a 89.058 habitants.** **Els portuguesos
+passen del 15,4% de la població del 2010 al 9,5% del 2025**, i **el grup que
+ocupa el lloc que deixen no és cap dels tres grans**:
+
+| Nacionalitat | 2010 | 2025 | Variació |
+| --- | ---: | ---: | ---: |
+| Andorrana | 33.702 | **39.815** | +18,1% |
+| Espanyola | 17.679 | 21.013 | +18,9% |
+| **Portuguesa** | **10.832** | **8.428** | **−22,2%** |
+| Francesa | 2.937 | 4.113 | +40,0% |
+| **Altres nacionalitats** | **1.715** | **7.767** | **+352,9%** |
+
+**«Altres nacionalitats» es multiplica per 4,5 en setze anys i el 2025 és a
+sis-centes seixanta-una persones d'avançar els portuguesos.** **La tercera
+nacionalitat del país està a punt de deixar de ser-ho**, i **el que la
+substitueix no és una nacionalitat**: **la font en llista vint amb nom propi**
+—d'alemanya a xilena— **i tot el que no hi cap va a parar a aquest calaix, que
+el 2025 és el quart grup del país**
+([la immigració llatinoamericana](./la-immigracio-llatinoamericana.md)).
+
+`On ha anat aquella gent —retorn a Portugal, pas a nacionalitat andorrana, o
+marxa a un tercer país— la sèrie de població no ho diu. Les baixes del país per
+nacionalitat existeixen a la mateixa API i aquesta fitxa no les ha buidades.`
 
 **Això dialoga directament** amb
 [la piràmide de prestigi](./la-piramide-de-prestigi.md) i
