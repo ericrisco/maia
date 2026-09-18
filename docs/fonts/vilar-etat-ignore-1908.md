@@ -3,7 +3,7 @@ type: font
 id: vilar-etat-ignore-1908
 title: "André Vilar, Un État ignoré: l'Andorre (1908)"
 titular: André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic
-url: "URL de descàrrega no registrada; l'exemplar és a docs/raw/llibres/andre-vilar-andorre.txt"
+url: https://1886.u-bordeaux-montaigne.fr/files/original/1cda3491b3e3a2d273f9711f9d4b64d09c18c763.pdf
 llicencia: domini públic per antiguitat; digitalització de Google Books
 redistribucio: si
 data_consulta: 2026-09-13
@@ -95,7 +95,9 @@ què el seu successor podia arribar al ministeri el 1908.**
 
 ## Buits registrats
 
-1. **L'URL** del volum digitalitzat.
+1. ~~**L'URL** del volum digitalitzat.~~ — **`resolt` el 18-09-2026**:
+   [Bibliothèque numérique patrimoniale de l’Université Bordeaux Montaigne](https://1886.u-bordeaux-montaigne.fr/files/original/1cda3491b3e3a2d273f9711f9d4b64d09c18c763.pdf),
+   exemplar escanejat de *Un État ignoré: l’Andorre* (1908).
 2. **Els capítols I a IV**, que el corpus **no ha llegit sencers**: s'ha
    comprovat que repeteixen el llibre de 1904 **per cadenes clau**, no paraula
    per paraula. Hi pot haver matisos nous que aquesta comprovació no veu.

@@ -3,7 +3,7 @@ type: font
 id: vilar-andorre-1904
 title: "André Vilar, L'Andorre (1904)"
 titular: André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic
-url: https://books.google.com/
+url: https://books.google.ad/books/about/L_Andorre.html?id=IDcwAQAAMAAJ&redir_esc=y
 llicencia: domini públic per antiguitat; digitalització de Google Books
 redistribucio: si
 data_consulta: 2026-09-12
@@ -78,7 +78,9 @@ sostenia el mateix Consell General el 1894. Les tres, a
 
 ## Buits registrats
 
-1. **L'URL** del volum digitalitzat.
+1. ~~**L'URL** del volum digitalitzat.~~ — **`resolt` el 18-09-2026**:
+   [Google Llibres](https://books.google.ad/books/about/L_Andorre.html?id=IDcwAQAAMAAJ&redir_esc=y)
+   cataloga *L’Andorre: étude de droit public et international* d’André Vilar.
 2. ~~**«Un État ignoré: l'Andorre»**, l'altra obra del mateix autor, al mateix
    directori i **encara no llegida**.~~ **TANCAT el 2026-09-13**: llegida, i amb
    fitxa pròpia a [vilar-etat-ignore-1908](./vilar-etat-ignore-1908.md). És de
