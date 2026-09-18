@@ -201,8 +201,40 @@ carreteres**, **i la fractura institucional que en va sortir.**
 
 1. **El nom de la companyia estrangera**, **la data de la concessió** i **el text
    de l'escriptura**. **Res d'això consta.** **Prioritari.**
-2. **Qui era el president del Consell** que la font diu identificat amb la
-   companyia. **`NOM PROPOSAT, NO PROVAT — 17-09-2026.`** **Una font francesa del
+2. ~~**Qui era el president del Consell** que la font diu identificat amb la
+   companyia.~~ — **`resolt` el 18-09-2026: Guillem de Plandolit i d'Areny.**
+
+   **El 17-09-2026 el corpus tenia el nom i no el donava per provat**, i **tenia
+   raó de no fer-ho**: **totes dues fonts eren part interessada** —el Consell
+   acusant i un jurista francès narrant— i **cap no era una biografia.**
+
+   **El 18-09-2026 hi ha la tercera peça, i no és hostil.** **La biografia de la
+   família Areny-Plandolit** —que cita com a referència **Esteve Albert i Corp**,
+   *Don Guillem d'Areny i de Plandolit* (Editorial Andorra, 1987)— **descriu
+   Guillem com qui «encapçalà la Nova Reforma de les institucions andorranes el
+   1866» i «arribà a ser elegit síndic general, càrrec des del qual intentà
+   sense aconseguir-ho, amb inversió francesa, la instal·lació de casinos i
+   balnearis».**
+
+   > **Una font que el retrata com a reformador i prohom de la casa li atribueix
+   > el projecte de casinos igualment, i sense acusar-lo de res.** **El que era
+   > una imputació passa a ser un fet de la seva biografia.**
+
+   **I les dates hi quadren**: **va ser síndic del 28 de maig del 1866 al 2 de
+   desembre del 1867**, que és exactament el període de la concessió. **Del
+   «president del Consell» del text de 1894 i del «síndic» del de 1904 ja no cal
+   dir que probablement són el mateix càrrec**: **hi ha una sola persona amb
+   aquell càrrec, aquells mesos, i amb aquell projecte.**
+
+   `El que la fitxa no afirma i cap de les tres fonts no prova: si en va treure
+   benefici personal. La de 1894 ho diu, i és l'acusadora; les altres dues no
+   ho esmenten.` `pregunta_oberta`
+
+   Vegeu [el síndic va tornar i es va posar al capdavant del
+   motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md) i
+   [el primer museu](../../cultura/museus-i-arxius/museus/el-primer-museu.md).
+
+   *(Detall de la citació antiga, retingut:)* **Una font francesa del
    1904 diu que els especuladors van guanyar-se «*le syndic don Guilhem de
    Plandolit y Areny, baron de Senaller, et par son canal, l'évêque Gaixal y
    Estrada*».** **El corpus registra el nom i no tanca el buit**: **el text de
