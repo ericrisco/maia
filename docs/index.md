@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1023** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**1024** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## parla/oral
 
@@ -278,6 +278,7 @@
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
 | [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
+| [El vestit no ha pujat i el telèfon ha baixat](temes/economia/comerc/el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md) | `temes/economia/comerc` | compilada | contemporania | no | `estadistica-ad` |
 | [Els horaris comercials](temes/economia/comerc/els-horaris-comercials.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La Cambra de Comerç i la formació](temes/economia/comerc/la-cambra-de-comerc-i-la-formacio.md) | `temes/economia/comerc` | compilada | contemporania | no | `escaler-cambra-de-comerc` |
 | [La duana](temes/economia/comerc/la-duana.md) | `temes/economia/comerc` | compilada | contemporania | no | `jurisprudencia-ad` |

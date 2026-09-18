@@ -101,6 +101,13 @@ la més generosa de la sèrie:
 **el doble exacte.** **Per primera vegada en la sèrie, la indexació deixa de ser
 una compensació i passa a ser una política de convergència.**
 
+**I ara se sap quin dels dos IPC diu el decret**, perquè el corpus té la sèrie
+mensual sencera ([els preus](../../economia/comerc/el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md)):
+**la mitjana anual del 2025 és +2,4%** i **la variació interanual del desembre
+del 2025 és +2,7%**. **El decret usa la del desembre.** `Quan un decret diu
+«l'IPC de l'any», vol dir desembre contra desembre, no la mitjana de l'any: la
+diferència, aquell any, va ser de 0,3 punts —i multiplicada per dos, de 0,6.`
+
 **I sis mesos després el Govern hi torna, fora de calendari.** El **Decret
 253/2026, de l'1 de juliol**, afegeix **un increment extraordinari del 2,8%** a
 mig any, amb una motivació escrita sense eufemismes:
