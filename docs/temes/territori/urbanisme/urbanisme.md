@@ -79,8 +79,8 @@ territori nacional blindat**, en un país que no té on posar la gent.
   Escaldes, que formen un continu urbà.
 - Les **estacions d'esquí** com a fet urbanístic, no com a indústria.
 - El **despoblament dels pobles alts** contra la concentració al fons de vall.
-- L'**arquitectura tradicional** —la casa andorrana, la borda de veritat— i el
-  seu lèxic. **El corpus té les paraules i no té les cases.** — **`parcial` des
+- ~~L'**arquitectura tradicional** —la casa andorrana, la borda de veritat— i el
+  seu lèxic. **El corpus té les paraules i no té les cases.**~~ — **`parcial` des
   del 2026-09-13: les paraules, ara aplegades i amb els seus avisos.**
 
   | Mot | Què vol dir | Estat |

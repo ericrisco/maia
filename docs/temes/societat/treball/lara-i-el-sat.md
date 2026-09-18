@@ -128,7 +128,7 @@ parapúblics.
    de noms segueixen sense identificar.**
 4. **Què va ser de l'ARA** — existeix encara?
 5. **La segmentació social** dels col·lectius immigrats, descrita.
-6. **La comunitat filipina** a Andorra. — **`parcial`, i és el mateix buit que
+6. ~~**La comunitat filipina** a Andorra.~~ — **`parcial`, i és el mateix buit que
    declara [la piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md).**
    **La menció d'aquesta fitxa, del 1976, és la més antiga que el corpus en té**,
    i **al seu voltant n'hi ha quatre més**: **509 persones el 2020**

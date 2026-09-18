@@ -58,7 +58,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **On va néixer.** — **`parcial` el 18-09-2026, i és una divergència
+- ~~**On va néixer.**~~ — **`parcial` el 18-09-2026, i és una divergència
   registrada, no arbitrada**: **National Football Teams diu Encamp**;
   **Wikidata diu Andorra la Vella** —i, a més, **les dues fonts tampoc
   coincideixen en la data: 17 de febrer del 1989 segons la Viquipèdia anglesa,

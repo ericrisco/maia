@@ -217,8 +217,8 @@ actual és [Teresa Morató](./teresa-morato.md).**
 - **La lliga femenina que no existeix**: si mai n'hi va haver, i per què no n'hi
   ha. La font parla d'**«una competició nacional femenina que va tenir lloc el
   2010-11»** i no en diu res més.
-- **Les seleccions de base femenines** —la sub-17 existeix, hi va jugar
-  [Maria Moles](./maria-moles.md) el 2018— i el corpus no en té res. —
+- ~~**Les seleccions de base femenines** —la sub-17 existeix, hi va jugar
+  [Maria Moles](./maria-moles.md) el 2018— i el corpus no en té res.~~ —
   **`parcial` el 2026-09-18**: **la sub-17 està confirmada com a entitat amb
   article propi** a la font, **i el bolcat d'aquesta fitxa no en porta cap
   dada.** `Requereix el bolcat de la sub-17, que no és a raw/.`

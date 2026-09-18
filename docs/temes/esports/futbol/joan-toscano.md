@@ -64,7 +64,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **On va néixer.** — **`parcial` el 18-09-2026**: **Wikidata només dona el
+- ~~**On va néixer.**~~ — **`parcial` el 18-09-2026**: **Wikidata només dona el
   país (Andorra)**; **National Football Teams és l'única font que arrisca una
   parròquia, Andorra la Vella**, i **cap segona via independent ho
   confirma.** Vegeu [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).

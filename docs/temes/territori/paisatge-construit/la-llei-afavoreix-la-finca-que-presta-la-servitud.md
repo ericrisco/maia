@@ -222,7 +222,7 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    servent, **sencera**, i **si el principi consta en alguna norma escrita.**
 3. **Les sentències de visura de 1875 i de 1886**: **sense identificació de parts**,
    i **la del mur de la presó sense data de dia.**
-4. **Què són les *merseries*** — **`parcial` el 16-09-2026.** **El
+4. ~~**Què són les *merseries***~~ — **`parcial` el 16-09-2026.** **El
    [DCVB](../../../fonts/dcvb.md) té una accepció que hi encaixa i que el corpus registra
    com a hipòtesi, no com a fet**: `merceria` **2**, «**terra que es deixa per a
    sembrar-hi llegums i patates**», **localitzada a Esterri** —Pallars Sobirà,

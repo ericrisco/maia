@@ -191,8 +191,8 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
   mateixa cosa? Dues institucions? **Buit prioritari** — les dues tenen llei
   pròpia ([índex legislatiu](../../societat/educacio/index-legislatiu-en-educacio.md)).
 - **La hípica**: es va acabar reconeixent?
-- **Què va passar realment** del 2001 ençà. Aquesta fitxa són **previsions del
-  2000**. — **`parcial` el 18-09-2026**: **l'escola existeix i està finançada el
+- ~~**Què va passar realment** del 2001 ençà. Aquesta fitxa són **previsions del
+  2000**.~~ — **`parcial` el 18-09-2026**: **l'escola existeix i està finançada el
   2026 amb 290.542,76 €**, vegeu
   [Què costa l'Efpem](#que-costa-lefpem-el-2026). `Els vint-i-cinc anys de
   mig segueixen sense relat.`
