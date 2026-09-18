@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **307** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **308** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1808,6 +1808,7 @@
 | [`facc-paddleworldwide`](fonts/facc-paddleworldwide.md) | International Canoe Federation (ICF) · Paddle Worldwide | publicació institucional, sense llicència declarada | pendent |
 | [`fae-ad-i-coa-federacio-esqui`](fonts/fae-ad-i-coa-federacio-esqui.md) | Federació Andorrana d'Esquí (FAE) · Comitè Olímpic Andorrà (COA) | publicació institucional, sense llicència declarada | pendent |
 | [`fandtaekwondo-federacio`](fonts/fandtaekwondo-federacio.md) | Federació Andorrana de Taekwondo | publicació institucional, sense llicència declarada | pendent |
+| [`fat-ad-federacio-tir`](fonts/fat-ad-federacio-tir.md) | Federació Andorrana de Tir (FAT) | publicació institucional, sense llicència declarada | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`festesandorra`](fonts/festesandorra.md) | festesandorra.com | desconeguda, ús informatiu | False |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |

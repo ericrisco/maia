@@ -66,6 +66,8 @@ sense especular sobre les circumstàncies i sense convertir-ho en relat.
   sentit.**
 - **El tir i la caça a Andorra**, que són la mateixa cultura material i el
   corpus no en té cap fitxa. Vegeu [vida quotidiana](../../vida-quotidiana/README.md).
+  **La federació esportiva del tir, ara amb fitxa parcial**: vegeu
+  [Joan Tomàs Roca](./joan-tomas-roca.md#el-que-falta).
 
 ## Related
 

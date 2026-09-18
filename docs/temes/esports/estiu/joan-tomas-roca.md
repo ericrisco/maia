@@ -97,10 +97,14 @@ anys de diferència entre les dues banderes**. Vegeu
   va córrer l'eslàlom gegant als Jocs d'Hivern de 1976** — **els mateixos Jocs
   d'hivern de l'any en què ell debutava als d'estiu.** Vegeu
   [l'esquí](../esqui/README.md).
-- **El tir andorrà**: federació, camps, quanta gent. **El tir és l'esport amb
-  què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.** —
-  **`obert`, confirmat, i és el buit de branca més ben plantejat d'aquesta
-  subbranca.**
+- ~~**El tir andorrà**: federació, camps, quanta gent. **El tir és l'esport amb
+  què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.**~~ —
+  **`parcial` el 18-09-2026**: **la Federació Andorrana de Tir (FAT)
+  existeix**, amb tres clubs afiliats (la Massana, Precisió, Esportiu
+  d'Andorra) i tres disciplines (tir al plat, precisió, IPSC)
+  ([font](../../../fonts/fat-ad-federacio-tir.md)). **Ni l'any de
+  fundació, ni el president, ni quanta gent hi practica el tir hi
+  consten.**
 
 ## Related
 
