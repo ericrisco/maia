@@ -251,9 +251,11 @@ notarials del XV al XVII.**
    continua sense resoldre**.
 3. **Quan es va deixar de pactar l'hostatge a Andorra.** **La font diu que el 1904
    no en quedava memòria i no data la desaparició.** `obert.`
-4. **La clàusula de *constitut* i la de *ters***, que la font presenta com les
+4. ~~**La clàusula de *constitut* i la de *ters***, que la font presenta com les
    altres dues traces de la mateixa tendència. **Són a les seccions següents del
-   mateix capítol.** `localitzable sense sortir del fitxer.`
+   mateix capítol.**~~ — **`resolt` el 19-09-2026** com a buit duplicat: les dues
+   unitats ja són llegides a [Pendre-se-la de sa pròpia autoritat](./pendre-sela-de-sa-propia-autoritat.md)
+   i [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md).
 5. **Les constitucions catalanes de 1283, 1289, 1291, 1321 i 1299.** `obert, amb
    referència.`
 6. **Si s'empresonava o no per deute civil a Andorra** als segles XVII i XVIII.

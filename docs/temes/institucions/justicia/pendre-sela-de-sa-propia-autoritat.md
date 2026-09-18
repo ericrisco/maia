@@ -218,8 +218,9 @@ amb autor. El corpus les registra com a seves.`
    diu ni quan ni com.** `obert, prioritari.`
 6. **L'ordenança del 24 de novembre de 1355**, *Pragmaticas*, IV, xv, 11, p. 117.
    `obert, amb referència.`
-7. **La clàusula de *ters***, **la tercera traça**, que és a la secció següent del
-   mateix capítol *(pp. 89-92)*. `localitzada, unitat següent.`
+7. ~~**La clàusula de *ters***, **la tercera traça**, que és a la secció següent del
+   mateix capítol *(pp. 89-92)*.~~ — **`resolt` el 19-09-2026** com a buit duplicat:
+   la unitat ja és llegida a [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md).
 
 **Un buit de la font no és un buit del món.** Que **Brutails no dati la
 desaparició de la presa directa** no vol dir que no tingui data: **hi ha decrets
