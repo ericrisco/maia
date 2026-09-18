@@ -274,11 +274,15 @@ matèries i el lloc de signatura.**
    i davant de testimonis d'una altra categoria, «de Dignidad»**—, cosa que
    **encaixa amb el que aquesta fitxa diu de com es feien els privilegis.**
 2. **El text de la llei de 1433**, els seus **catorze articles**. **La font en
-   dona el preàmbul, tres matèries i la clàusula final.** **Prioritari**, i
-   **enllaça amb una divergència que el corpus ja té oberta.**
-3. **L'escrit de concòrdia de 1347**, **les tretze conclusions senceres.** **La
-   font en cita dues.** **Prioritari.** `La font declara que els documents que
-   cita són a l'Arxiu de la Casa de la Vall.`
+   dona el preàmbul, tres matèries i la clàusula final** —i aquesta fitxa ja en
+   conserva el contingut—, però **els catorze articles sencers encara no s'han
+   llegit**. **Buit parcialment acotat**, prioritari, i **enllaça amb una
+   divergència que el corpus ja té oberta.**
+3. **L'escrit de concòrdia de 1347**, **les tretze conclusions senceres**. La
+   font **en cita dues**, i també en dona **la resposta unànime dels
+   andorrans**; **les onze conclusions que falten i el document complet encara
+   no s'han llegit**. **Buit parcialment acotat**, prioritari. `La font declara
+   que els documents que cita són a l'Arxiu de la Casa de la Vall.`
 4. ~~**L'acta del Consell General del 23 de març de 1775**, **sencera**, i **què
    la va motivar.** **Prioritari**: la font la cita del **llibre de
    Sessions**.~~ — **`resolt` el 17-09-2026 des del Llibre IV d'actes**
