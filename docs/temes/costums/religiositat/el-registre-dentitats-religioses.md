@@ -152,7 +152,12 @@ es poden notificar al Registre **«a efectes informatius»**.
 2. **Quantes entitats s'hi han inscrit** des del 2025.
 3. **Què hi havia abans del 2025.** Si les confessions no catòliques tenien alguna
    via de personalitat jurídica, i quina.
-4. **L'Acord entre el Principat i la Santa Seu**, sencer.
+4. ~~**L'Acord entre el Principat i la Santa Seu**, sencer.~~ — **`resolt` el
+   18-09-2026, i era un buit duplicat**: **és el mateix Concordat del 2008**
+   que [aquella fitxa](../../institucions/coprincipat/el-concordat-del-2008.md)
+   ja té sencer, setze articles, a
+   `docs/raw/relacions-exteriors/concordat-2008/` —**BOPA núm. 47, d'11 de juny
+   del 2008.** Aquesta fitxa el citava com si encara faltés.
 5. **Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.
 6. **Els canals de diàleg** de l'article 14: si existeixen.
 
