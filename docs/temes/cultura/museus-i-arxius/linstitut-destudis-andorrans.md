@@ -358,8 +358,13 @@ assembla força al que aquest corpus intenta fer amb text.
   presidenta del Comitè Director i descriu els centres **CRES** i **CENMA**
   ([fitxa de font](../../../fonts/iea-estat-2026.md)). **No hi ha una font
   pública consultada que confirmi els càrrecs actuals d'AR+I.**
-- **Antoni Calvo Armengol** (UPF), **Martí Boada** (UAB/CREA) i **Joan Manuel
-  Vilaplana** (UB): els tres dissenyadors externs de la recerca andorrana.
+- ~~**Antoni Calvo Armengol** (UPF), **Martí Boada** (UAB/CREA) i **Joan Manuel
+  Vilaplana** (UB): els tres dissenyadors externs de la recerca andorrana.~~ —
+  **`parcial` el 19-09-2026**: la transcripció local de la 13a Diada identifica
+  **Martí Boada** com a peça clau del centre de biodiversitat i **Joan Manuel
+  Vilaplana** com l'encarregat del disseny del CRECIT ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt),
+  pp. 83 i 87). **Antoni Calvo Armengol no apareix en aquesta font i queda per
+  verificar.**
 
 ## Related
 
