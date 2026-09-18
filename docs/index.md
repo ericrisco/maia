@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1045** documents · **212** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1047** documents · **214** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -346,6 +346,7 @@
 | [Andorra 2020](temes/economia/transformacio-economica/andorra-2020.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `nomen-capital-social-2007` |
 | [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
+| [L'economia que cridava la mà d'obra](temes/economia/transformacio-economica/leconomia-que-cridava-la-ma-dobra.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `vila-creixement-economic-immigracio-1989` |
 | [Mil set-centes vint-i-sis persones en TIC](temes/economia/transformacio-economica/mil-set-centes-vint-i-sis-persones-en-tic.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
 | [Ni un euro a la universitat](temes/economia/transformacio-economica/ni-un-euro-a-la-universitat.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
 | [Tot el superàvit és el turisme](temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
@@ -1447,6 +1448,7 @@
 | [L'experiència de migrar](temes/societat/immigracio/lexperiencia-de-migrar.md) | `temes/societat/immigracio` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
 | [On falla la integració](temes/societat/immigracio/on-falla-la-integracio.md) | `temes/societat/immigracio` | compilada | contemporania | no | `pique-duro-problemes-socials-1997` |
 | [Per què tothom s'hi sentia integrat](temes/societat/immigracio/per-que-tothom-shi-sentia-integrat.md) | `temes/societat/immigracio` | compilada | contemporania | no | `rui-comunitat-mixta-1997` |
+| [Qui fixava les quotes](temes/societat/immigracio/qui-fixava-les-quotes.md) | `temes/societat/immigracio` | compilada | contemporania | no | `baro-politica-immigracio-1989` |
 
 ## temes/societat/mitjans
 
@@ -1695,6 +1697,7 @@
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`balari-origenes-1899`](fonts/balari-origenes-1899.md) | Domini públic per antiguitat | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1899, autor mort el 1904. | si |
 | [`barbero-dones-migrants-1997`](fonts/barbero-dones-migrants-1997.md) | Carmen Barbero Carballo · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
+| [`baro-politica-immigracio-1989`](fonts/baro-politica-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bartumeu-immigracio-proteccio-social-1989`](fonts/bartumeu-immigracio-proteccio-social-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bascompte-consell-de-la-terra`](fonts/bascompte-consell-de-la-terra.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1855,6 +1858,7 @@
 | [`valls-enquesta-andorranitat-1994`](fonts/valls-enquesta-andorranitat-1994.md) | Àlvar Valls i Oliva · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`vila-creixement-economic-immigracio-1989`](fonts/vila-creixement-economic-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |

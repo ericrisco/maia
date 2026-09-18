@@ -187,7 +187,7 @@ diferents.**
 ## El que falta
 
 - ~~**La segona part de la ponència**, sobre l'evolució de la població andorrana.~~ — **`resolt` el 18-09-2026, i el buit estava mal plantejat**: **les dades demogràfiques del volum no són a la segona part de Becat, són a una ponència diferent** —**«Població i migracions actuals», de M. Francesca Ros Pascuet**—, destil·lada a [Quatre menes de parròquia](../demografia/quatre-menes-de-parroquia.md).
-- ~~**Les altres ponències del volum del 1989**, que és sencer sobre migracions.~~ — **`resolt` el 18-09-2026**: **de les nou peces, el corpus n'ha llegit sis** —Becat, [Ros Pascuet](../demografia/quatre-menes-de-parroquia.md), [Armengol](../demografia/les-tres-migracions.md), [Bartumeu](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md), Agustí Font i el debat—. `Queden les de Josep Vila, Ladislau Baró i Pere Cavero.` `pregunta_oberta`
+- ~~**Les altres ponències del volum del 1989**, que és sencer sobre migracions.~~ — **`resolt` el 18-09-2026**: **el volum és llegit sencer** —Becat, Camiade, [Ros Pascuet](../demografia/quatre-menes-de-parroquia.md), [Armengol](../demografia/les-tres-migracions.md), [Bartumeu](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md), [Josep Vila](../../economia/transformacio-economica/leconomia-que-cridava-la-ma-dobra.md), [Ladislau Baró](./qui-fixava-les-quotes.md), Agustí Font i els debats—. **La ponència de Pere Cavero sobre el futur demogràfic figura al programa de la diada i no és al volum imprès.**
 - **Quines mesures i codis** critica Becat. **Prioritari.**
 - **Si el debat de les Diades va pesar** en la creació de Ràdio Nacional
   d'Andorra (1990) i Andorra Televisió (1995).

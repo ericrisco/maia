@@ -251,10 +251,10 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
   [les tres migracions](./les-tres-migracions.md) **des del 12-09-2026**, i el
   18-09-2026 s'hi ha afegit **«Immigració i protecció social a Andorra», d'Enric
   Bartumeu** ([la Caixa va néixer de la immigració](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md)).
-  **De les nou peces del volum, el corpus n'ha llegit sis**: Becat, Ros Pascuet,
-  Armengol, Bartumeu, Agustí Font i el debat. `Queden les de Josep Vila
-  (economia i immigració), Ladislau Baró (la política d'immigració dels darrers
-  deu anys) i Pere Cavero (futur demogràfic).` `pregunta_oberta`
+  **El volum és llegit sencer**: Becat, Camiade, Armengol, Ros Pascuet, Agustí
+  Font, [Bartumeu](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md),
+  [Josep Vila](../../economia/transformacio-economica/leconomia-que-cridava-la-ma-dobra.md),
+  [Ladislau Baró](../immigracio/qui-fixava-les-quotes.md) **i els debats.**
 - **Les fonts primàries que l'autora cita**: **Bricall (1975)** i **Adellach i
   Ganyet (1977)**, cap de les dues al corpus.
 - **Drets tancats.** **Cap llicència declarada al volum.** **Res d'aquesta font
