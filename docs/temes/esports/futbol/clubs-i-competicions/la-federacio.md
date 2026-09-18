@@ -104,9 +104,12 @@ identificava com a club de la federació també té secció de futbol sala**, i
 
 ## El que falta
 
-- **Qui és Fèlix Álvarez**, i quants presidents ha tingut la federació. —
-  **`obert`, i el bolcat només confirma el càrrec**: **no en dona ni biografia
-  ni data d'inici ni cap predecessor.**
+- ~~**Qui és Fèlix Álvarez**, i quants presidents ha tingut la federació.~~ —
+  **`parcial` el 18-09-2026, des de la fitxa oficial de la
+  [UEFA](../../../../fonts/uefa-faf-member-association.md)**: **andorrà,
+  nascut el 10 de juliol del 1966, president des del 2019.** **Segueix
+  sense saber-se quants presidents ha tingut la federació ni qui la va
+  presidir abans.**
 - **El pressupost.** El corpus no té ni un import.
 - ~~**El futsal**: la font categoritza la federació també com a rectora del
   **futbol sala**, i el corpus no en té cap fitxa.~~ `resolt` **el 2026-09-18**:
