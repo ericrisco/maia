@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1071** documents · **304** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **305** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1276,6 +1276,7 @@
 | [Antoni Morell i Mora](temes/persones/antoni-morell.md) | `temes/persones` | compilada | contemporania | no | `antoni-morell-biografia` |
 | [Bonaventura Riberaygua i Argelich](temes/persones/bonaventura-riberaygua.md) | `temes/persones` | compilada | contemporania | no | `riberaygua-biografia-secretari` |
 | [Francisco José Catalán de Ocón](temes/persones/catalan-de-ocon.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-catalan-de-ocon` |
+| [Charles Romeu](temes/persones/charles-romeu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-charles-romeu` |
 | [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1964,6 +1965,7 @@
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-charles-romeu`](fonts/wikipedia-ca-charles-romeu.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-francesc-galobardes`](fonts/wikipedia-ca-francesc-galobardes.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

@@ -196,8 +196,13 @@ Vives i Sicília](../../persones/joan-enric-vives.md)** i
 - **Quantes vegades el copríncep francès va deixar de designar veguer**, i
   **quins noms hi va posar el Consell General provisionalment.** **És un buit
   molt concret i diria molt.**
-- **Charles Romeu**: qui era, quan va ser veguer, què hi va fer. **El corpus
-  només té el seu nom i que era de Prada.**
+- ~~**Charles Romeu**: qui era, quan va ser veguer, què hi va fer. **El corpus
+  només té el seu nom i que era de Prada.**~~ — **`resolt` el 18-09-2026**:
+  **ara té fitxa**, a [persones/charles-romeu](../../persones/charles-romeu.md)
+  — **veguer del 15 de març del 1887 fins a la seva mort el 1933,
+  quaranta-set anys**, hi porta el telègraf, el correu i la carretera
+  fins al Pas de la Casa
+  ([font](../../../fonts/wikipedia-ca-charles-romeu.md)).
 - ~~**La Delegació Permanent de Perpinyà**: quan es crea i amb quines
   competències. Surt a diverses fitxes del corpus com a autoritat que mana
   coses —**la reobertura de les ràdios el 1980-81, l'ordre de connexió d'aigua a
