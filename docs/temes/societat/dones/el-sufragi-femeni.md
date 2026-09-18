@@ -389,7 +389,41 @@ de cada moment i no pas a un programa preordenat»**
     > detalla per legislatura del 1980 al 1993 i no més enllà**, i **per això la
     > sèrie s'atura el 1993 i no perquè falti comptar.**
 
-    `Requereix les legislatures posteriors al 1993, que la síntesi no desglossa.`
+    **I l'altre extrem de la sèrie, el d'avui, ja té xifra** —**afegit el
+    18-09-2026 des d'una font que el corpus acabava d'obrir**, la
+    [seu electrònica del Consell General](../../../fonts/consell-general-seu.md).
+    **L'acta 4/26 del Ple, de la sessió del 14 de març del 2026**, **llista
+    nominalment els vint-i-vuit consellers presents** i **posa el tractament
+    davant de cada nom**:
+
+    | Ple del 14-03-2026 | Consellers |
+    | --- | --- |
+    | **Sr.** | **14** |
+    | **Sra.** | **14** |
+    | **Total** | **28** |
+
+    **Paritat exacta.** **Catorze i catorze**, **sobre els vint-i-vuit escons
+    del Consell**, **i entre elles la subsíndica general, la secretària de torn
+    de la Sindicatura i la secretària de Sindicatura.**
+
+    **Cinquanta-sis anys després del decret que va donar el vot a les
+    andorranes, i quaranta-dos després que Mercè Bonell hi entrés per
+    substitució, la meitat del Consell General són dones.**
+
+    > **Com s'ha comptat aquesta, i per què val més que un recompte per
+    > prenoms.** **El sexe no s'ha inferit: és a la font.** **L'acta escriu
+    > «Sr.» o «Sra.» davant de cada nom**, i **el recompte és dels tractaments,
+    > no dels noms.** **L'acta es baixa sense clau de
+    > `seu.consellgeneral.ad/documentPublic/download/2760`**, **no porta capa de
+    > text —el cos és imatge i s'ha hagut d'OCR—**, i **porta codi segur de
+    > verificació `deb03b10-4afc-4781-9b8c-24e07e072627`** per comprovar-la
+    > contra l'original. **Els drets de la seu són tots reservats i el PDF no es
+    > versiona al corpus.**
+
+    `El que segueix obert és el mig: les legislatures del 1993 al 2023. Les
+    actes en línia comencen el 2023 i la síntesi d'arxiu s'atura el 1993. Hi ha
+    trenta anys al mig que demanen o bé l'arxiu parlamentari o bé les actes
+    d'aquells plens, que la seu no publica.`
 
 > **Defecte d'estructura registrat el 2026-09-14, no corregit**: **aquesta
 > llista té dos punts numerats «8»**. **La numeració no s'ha tocat** —canviar-la

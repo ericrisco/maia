@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1033** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1033** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1713,6 +1713,7 @@
 | [`consell-general-dcg-2018-7`](fonts/consell-general-dcg-2018-7.md) | Consell General, publicador; intervencions atribuïdes als oradors | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-organitzacio`](fonts/consell-general-organitzacio.md) | Consell General del Principat d'Andorra | article 149 del Reglament de 2026 i reserves de l'avís web; abast per peça pendent | pendent |
 | [`consell-general-pressupost-2026`](fonts/consell-general-pressupost-2026.md) | Consell General del Principat d'Andorra | condicions de reutilització pendents per peça | pendent |
+| [`consell-general-seu`](fonts/consell-general-seu.md) | Consell General del Principat d'Andorra | Tots els drets reservats. L'avís legal diu que el lloc web i tots els seus continguts són propietat del Consell General i que la reutilitzacio d'alguns documents pot estar limitada per la Llei del 10 de juny del 1999 sobre drets d'autor i drets veïns. No s'hi declara cap llicència oberta. | no |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | condicions variables per document; identitat gràfica reservada | pendent |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-colectivismo-1898`](fonts/costa-colectivismo-1898.md) | Domini públic per antiguitat. Exemplar digitalitzat, còpia de la Biblioteca del Banco de España | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1898, autor mort el 1911. | si |
