@@ -189,8 +189,32 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
 
 ## Buits registrats
 
-1. **El text de la Instructa de 1740.** És a les peces justificatives del mateix
-   llibre que el corpus té al calaix.
+1. ~~**El text de la Instructa de 1740.** És a les peces justificatives del
+   mateix llibre que el corpus té al calaix.~~ — **`resolt` el 18-09-2026, i el
+   calaix era més a prop del que semblava.** **La *Instructa als senyors batlles*
+   no és una peça a part: és dins el mateix extracte del *Politar* que el corpus
+   té des del 13 de setembre**, **als folis 531-540 i 542 del manuscrit**, i **el
+   Politar mateix hi remet**: a la p. 217 diu «per tots los procehiments
+   criminals, vegen la llibreta que dalt he citat, **al folio 531 de la present
+   obra**» ([El Politar andorrà, llegit](./el-politar.md)).
+
+   **La capçalera en dona la naturalesa i la data**: **«INSTRUCTA ALS SENYORS
+   BATLLES PER SA ADMINISTRACIO DE JUSTICIA, TANT EN LO CIVIL COM EN LO
+   CRIMINAL, DELS DRETS TOCANTS A ELLS Y DIETES»**, i **«ESTA INSTRUCTA FOU FETA
+   PER LA DIRECSIO DE CERT BATLLE EN LES CORTS SE TINGUEREN LO ANY 1740»**.
+   **Va ser feta per a un batlle concret, no per a l'ofici en general**, i **la
+   capçalera diu que hauria d'anar al capítol 5 del llibre II, parlant dels
+   batlles, «antes de ses obligacions»**, amb el foli **en blanc**.
+
+   **El que se n'ha destil·lat fins ara**: **les cinc regles de competència entre
+   Comú i Batlle**
+   ([si només volien ballar](../../institucions/justicia/si-nomes-volien-ballar-era-un-altre-tribunal.md)),
+   **el procediment de cessió de béns amb els trenta dies d'edictes**
+   ([ara hoyats](../../institucions/justicia/ara-hoyats-i-el-termini-no-era-mai-el-mateix.md))
+   i **els deu dies de lletres d'apel·lació estimats per la distància i els
+   camins**
+   ([tres dies, deu dies o un mes](../../institucions/justicia/tres-dies-deu-dies-o-un-mes-segons-els-camins.md)).
+   `El que segueix obert és el buidatge article per article de tota la peça.`
 2. **El manuscrit anterior al Politar** (peça justificativa XXVII), i la seva
    datació.
 3. **El volum d'Anton Picart**: on és.

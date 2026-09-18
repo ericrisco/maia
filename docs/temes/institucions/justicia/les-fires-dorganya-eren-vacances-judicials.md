@@ -314,9 +314,15 @@ Andorra:**
 
 ## Buits registrats
 
-1. **L'*Instructa* de les Corts de 1740** i **el treball d'Anton Picart**. **La
-   font els declara **els únics escrits oficials del dret andorrà**.** **Sisena i
-   tercera citació respectivament, i cap dels dos llegit.** **Prioritat màxima.**
+1. **El treball d'Anton Picart.** — **L'*Instructa* de les Corts de 1740,
+   `resolta` el 18-09-2026**: **és als folis 531-542 del mateix extracte del
+   *Politar* que el corpus tenia des del 13 de setembre**
+   ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)).
+   **De les sis citacions acumulades, cap no exigia una font nova.**
+
+   > **La font declara els dos escrits «els únics escrits oficials del dret
+   > andorrà».** **D'aquests dos, ara n'hi ha un llegit i un que segueix
+   > perdut.** `El treball d'Anton Picart continua sense localitzar.`
 2. ~~**La llista de feriats de les Pièces justificatives, p. LX**, **que el
    corpus té descrita al cos i no transcrita.**~~ — **`resolt` el 16-09-2026**:
    **transcrita sencera** a [la peça, transcrita](#la-peça-transcrita), amb la

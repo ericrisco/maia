@@ -690,7 +690,7 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***valira*** | **‘riu'**, com a nom comú — **«alguns padrins d'Andorra anomenen encara avui a qualsevol riu *una valira*»**, i en conserven l'expressió col·loquial ***anar a fer una valira*** en el sentit d'**anar a fer un riu** (orinar). **És l'argument que els autors oposen a l'etimologia llatina (*VALERIA*) de Coromines**: si el mot viu com a apel·latiu, el topònim és un hidrònim | [Els annexos dels topònims](../../territori/toponimia/els-annexos-dels-toponims.md) |
 | ***gord*** | **‘dur, fort'** en andorrà — **els autors hi recorren per llegir el topònim Engordany**, on el substrat rocós del solà té justament aquesta característica | ídem |
 
-### Quatre mots del camp i del terme, comprovats als diccionaris — 18-09-2026
+### Cinc mots del camp, del terme i de la nit, comprovats als diccionaris — 18-09-2026
 
 | Mot | Què vol dir | On surt |
 | --- | --- | --- |
@@ -700,6 +700,8 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***mallador*** | **el corral o l'era coberta on es bat el gra**. **El [DCVB](../../fonts/dcvb.md) hi posa Andorra** (amb Pallerols i Vilaller) **en la tercera de tres accepcions**; les altres dues són d'ofici —«home que malla el ferro», «home que treballa en la mallada»— **i no porten localització andorrana**. **És la prova material que a Andorra s'hi feia cereal**: les bordes amb mallador | [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) |
 
 | ***antoxà*** *(també `antoixà`, `antojà`, `entoxà`)* | **la franja de propietat pública que toca una de privada, i també els propietaris que hi toquen**. **De `tocar`**, segons Brutails. **No és ni al [DCVB](../../fonts/dcvb.md) ni al [DIEC2](../../fonts/diec2.md)**; **les quatre grafies són de fonts andorranes** —el Politar (1763), un document de 1730, un judici de visura de 1875— i **la font mateixa el declara «difícil de definir»**. **Un sabi de Soldeu el va definir: «tros de comunal prop de una finca particular»** | [La llei afavoreix la finca que presta la servitud](../../territori/paisatge-construit/la-llei-afavoreix-la-finca-que-presta-la-servitud.md) |
+
+| ***galejar*** | **celebrar una festa amb grans sorolls, «especialment amb salves d'escopeteria»**. **El [DCVB](../../fonts/dcvb.md) localitza aquesta accepció a Andorra** (amb Cardós, el Ripollès, la Garrotxa, la Plana de Vic, el Vallès, Solsona, Balaguer i Isil); **les altres dues —'fer gala' i 'festejar'— són generals i literàries** (Roig, Verdaguer). **Atestació andorrana de 1740**: la *Instructa als senyors batlles* mana al batlle prohibir **«de que los fadrins y gent enquieta rodien de nit, ***galejant*** sens llicencia»** | [Els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md) |
 
 **`redall` és el més valuós dels dos per a aquest corpus**: **és el DCVB qui hi
 posa Andorra**, i **amb pronúncia diferenciada**. **`maienc` no té localització

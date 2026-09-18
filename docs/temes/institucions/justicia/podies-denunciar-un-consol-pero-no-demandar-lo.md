@@ -253,9 +253,20 @@ qualsevol plet comunal.**
    ([si només volien ballar, era un altre tribunal](./si-nomes-volien-ballar-era-un-altre-tribunal.md)).
    **Queda obert**, en canvi, **per què poden imposar i indemnitzar una servitud
    i no poden declarar la propietat ni concedir danys.**
-2. **L'***Instructa*** donada als batlles per les Corts de **1740** *(pièce
-   justificative)*. **Quarta citació i encara no llegida.** **Prioritari per
-   acumulació.**
+2. ~~**L'***Instructa*** donada als batlles per les Corts de **1740** *(pièce
+   justificative)*. **Quarta citació i encara no llegida.**~~ — **`resolt` el
+   18-09-2026**: **és als folis 531-542 del mateix extracte del *Politar***
+   ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)),
+   i **el foli 534 dona exactament la frontera que aquesta fitxa discuteix**:
+   **«Sempre y quant se vertesque una causa en que lo agent sie un particular y
+   lo defendent sie algun Comu, tocara esta causa a la ***jurisdicsio
+   politica***; al contrari, si la part agent es algun Comu y la part defendent
+   es algun particular, tocara lo coneyxement de la causa ***al Batlle***.»**
+
+   > **El Comú no era justiciable davant del batlle; només hi era demandant.**
+   > **Això no explica del tot per què es podia denunciar un cònsol i no
+   > demandar-lo, però hi posa la regla general de la qual la immunitat del
+   > cònsol és un cas.**
 3. **El decret del Consell del 12 de maig de 1866**, sencer, i **fins quan va
    regir la facultat dels cònsols de detenir «*sens recorrer a la Justicia*»**.
    **Prioritari.**

@@ -297,7 +297,34 @@ manera:**
    altra vegada al costat comtal.**
 4. **El manuscrit del senyor Palmitjavila** —**quarta tanda seguida**— i **el
    registre del segle XVI** amb el procés de pastura arbitrat pel Consell.
-5. **L'*Instructa* als batlles, pièce justificative p. L.** — **Les pp. 243-244
+5. ~~**L'*Instructa* als batlles, pièce justificative p. L.**~~ — **`resolt` el
+   18-09-2026, i és la peça que resol el repartiment de competència en cinc
+   regles numerades.** **L'*Instructa als senyors batlles*, feta per a les Corts
+   de 1740, és al **foli 531 i següents** del mateix manuscrit i dins el mateix
+   extracte de Brutails** ([El Politar andorrà,
+   llegit](../../historia/manual-digest/el-politar.md)). **Al foli 534 hi ha
+   això:**
+
+   | # | Qui litiga | Qui coneix |
+   | --- | --- | --- |
+   | **1** | **Comú contra Comú**, o causa sobre coses comunals | **jurisdicció política i econòmica** |
+   | **2** | **particular contra Comú** | **jurisdicció política** |
+   | **2 bis** | **Comú contra particular** | **el Batlle** |
+   | **3** | **de veí a veí** —**afermar una biga, obrir o alçar una finestra nova, sofrir o no una gotera, impedir la vista d'una casa**— i **totes les servituds urbanes i rústiques** | **el Consell** |
+   | **4** | **camins reals, senderes comunals, boscos, llicència per pescar i caçar** | **el Comú** |
+   | **5** | **tota altra causa de particular a particular**: contractes, últimes voluntats, institucions, substitucions, fideïcomisos, llegats, **parceries, prefets, conllocs** | **el Batlle** |
+
+   > **La regla 2 és asimètrica i és la troballa.** **El fòrum no depèn de la
+   > matèria sinó de quin costat hi és el Comú**: **si el Comú demanda, va al
+   > batlle; si és demandat, va a la jurisdicció política.** **Un comú no podia
+   > ser jutjat pel batlle; podia demandar-hi.**
+
+   **I la regla 5 tanca amb una prohibició expressa**: en aquestes causes el
+   batlle **«en ninguna manera permetra […] que ningu altre conega de ella»**; i
+   **si no se'n surt, «pendra experts que ab jurament digan lo estil hi ha acerca
+   eyxas cosas»**. **El costum es prova per perits jurats, no per doctrina.**
+
+   **Les pp. 243-244
    i 251-252 del *Politar*, `resoltes` el 18-09-2026.**
 
    **P. 243 — els tribunals del Consell són dues escales, no una llista.**
