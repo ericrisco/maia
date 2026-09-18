@@ -198,10 +198,16 @@ Vives i Sicília](../../persones/joan-enric-vives.md)** i
   molt concret i diria molt.**
 - **Charles Romeu**: qui era, quan va ser veguer, què hi va fer. **El corpus
   només té el seu nom i que era de Prada.**
-- **La Delegació Permanent de Perpinyà**: quan es crea i amb quines
+- ~~**La Delegació Permanent de Perpinyà**: quan es crea i amb quines
   competències. Surt a diverses fitxes del corpus com a autoritat que mana
   coses —**la reobertura de les ràdios el 1980-81, l'ordre de connexió d'aigua a
-  Pal el 1990**— **i no en té fitxa.**
+  Pal el 1990**— **i no en té fitxa.**~~ — **`resolt` el 18-09-2026**:
+  **origen el 1806, sota Napoleó I**; **des del 1884, per decret, el
+  càrrec recau d'ofici en el prefecte dels Pirineus Orientals, a
+  Perpinyà**; **abolida el juny del 1994**, un any després de la
+  Constitució, quan la substitueix la figura del representant personal
+  del copríncep francès
+  ([font](../../../fonts/delegacio-permanent-perpinya.md)).
 
 ## Related
 
