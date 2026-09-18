@@ -46,7 +46,11 @@ afirma parentiu i registra la coincidència.**
 
 ## El que falta
 
-- **On va néixer.**
+- **On va néixer.** — **provat el 18-09-2026 i segueix obert**: **Wikidata
+  només dona el país (Andorra)**, la **Viquipèdia en anglès no té camp de lloc
+  de naixement**, i **cap font trobada arrisca una parròquia.** És l'única de
+  les vuit fitxes d'aquesta sèrie que no es mou. Vegeu [l'avís sobre aquesta
+  sèrie de buits](../README.md#els-altres-cinquanta-tres).
 - **Quants partits té realment.**
 - **La sub-17 femenina**: quan es va crear, i qui hi ha jugat.
 

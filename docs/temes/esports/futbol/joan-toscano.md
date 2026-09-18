@@ -20,7 +20,7 @@ tags: [esports, futbol, seleccio]
 
 | | |
 | --- | --- |
-| **Naixement** | **—, 14 d'agost del 1984** |
+| **Naixement** | **Andorra la Vella (?), 14 d'agost del 1984** |
 | **Partits amb Andorra** | **21** |
 | **Posició** | Davanter |
 
@@ -64,7 +64,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **On va néixer** i els seus vint-i-un partits.
+- **On va néixer.** — **`parcial` el 18-09-2026**: **Wikidata només dona el
+  país (Andorra)**; **National Football Teams és l'única font que arrisca una
+  parròquia, Andorra la Vella**, i **cap segona via independent ho
+  confirma.** Vegeu [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
+  `Requereix font externa: la fitxa de la FAF.`
+- Els seus vint-i-un partits.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

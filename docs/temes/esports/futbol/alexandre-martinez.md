@@ -20,7 +20,7 @@ tags: [esports, futbol, seleccio]
 
 | | |
 | --- | --- |
-| **Naixement** | **4 de març del 1987** *(la font no en dona el lloc)* |
+| **Naixement** | **Andorra la Vella, 4 de març del 1987** |
 | **Partits amb Andorra** | **7**, entre el **2010 i el 2012** |
 | **Posició** | Defensa |
 
@@ -61,7 +61,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **On va néixer.**
+- ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
+  segons **Wikidata i National Football Teams**, que hi coincideixen, igual que
+  en el nom complet i la data. Vegeu [l'avís sobre aquesta sèrie de
+  buits](./README.md#els-altres-cinquanta-tres).
 - ~~**Qui és Alexandre Martínez Palau.**~~ — **`resolt` el 18-09-2026**: **ja té
   fitxa al corpus**,
   [Alexandre «Àlex» Martínez i Palau](./alex-martinez.md) —**davanter

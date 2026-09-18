@@ -20,7 +20,7 @@ tags: [esports, futbol, seleccio]
 
 | | |
 | --- | --- |
-| **Naixement** | **—, 7 de febrer del 1991** |
+| **Naixement** | **Andorra la Vella, 7 de febrer del 1991** |
 | **Partits amb Andorra** | **4** |
 | **Posició** | Extrem dret |
 
@@ -63,7 +63,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **On va néixer** i els seus quatre partits.
+- ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
+  segons **Wikidata i National Football Teams**, que hi coincideixen. Vegeu
+  [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
+- Els seus quatre partits.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

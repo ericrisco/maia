@@ -20,7 +20,7 @@ tags: [esports, futbol, seleccio]
 
 | | |
 | --- | --- |
-| **Naixement** | **7 de juny del 1985** *(la font no en dona el lloc)* |
+| **Naixement** | **Andorra la Vella, 7 de juny del 1985** |
 | **Partits amb Andorra** | **24**, entre el **2005 i el 2013** |
 | **Posició** | Davanter |
 
@@ -73,7 +73,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **On va néixer.**
+- ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
+  segons **Wikidata i National Football Teams**, que hi coincideixen igual que
+  en la data i el nom complet. Vegeu [l'avís sobre aquesta sèrie de
+  buits](./README.md#els-altres-cinquanta-tres).
 - **Els seus vint-i-quatre partits**, i si va marcar mai. — **`parcial`**:
   **el bolcat en dona el compte de gols a la taula de seleccions** (taula de
   dalt); **el detall dels partits, no.**

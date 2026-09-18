@@ -20,7 +20,7 @@ tags: [esports, futbol, seleccio]
 
 | | |
 | --- | --- |
-| **Naixement** | **—, 7 de juliol del 1986** |
+| **Naixement** | **Andorra la Vella, 7 de juliol del 1986 (o 7 de març, segons National Football Teams)** |
 | **Partits amb Andorra** | **9** |
 | **Posició** | Migcampista |
 
@@ -60,7 +60,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **On va néixer** i els seus nou partits.
+- ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
+  segons **Wikidata i National Football Teams**, que hi coincideixen —**tot i
+  que discrepen en el mes de naixement, juliol contra març.** Vegeu [l'avís
+  sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
+- Els seus nou partits.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

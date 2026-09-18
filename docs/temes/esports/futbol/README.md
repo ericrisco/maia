@@ -237,15 +237,25 @@ zero informació absent**: **58 de la primera formulació i 47 de la segona.**
 
 > **Un defecte que la segona passada deixa documentat, i val per a tota la
 > branca**: **els bolcats de futbolistes andorrans no porten lloc de
-> naixement.** **Vuit fitxes declaren «on va néixer» com a buit**
+> naixement.** **Vuit fitxes declaraven «on va néixer» com a buit**
 > —[Joan Toscano](./joan-toscano.md), [David Maneiro](./david-maneiro.md),
 > [Samir Bousenine](./samir-bousenine.md), [Àlex Somoza](./alex-somoza.md),
 > [Xavi Andorra](./xavi-andorra.md), [Alexandre Martínez](./alexandre-martinez.md),
 > [Moisès San Nicolás](./moises-san-nicolas.md) i
 > [Maria Moles](./femeni/maria-moles.md)— **i el camp `birth_place` dels
 > bolcats és buit o no hi és.** **No és un buit de destil·lació: és un buit de
-> la font**, i **es tanca en un sol lloc.**
-> `Requereix font externa: la fitxa de la FAF o del club.`
+> la font.**
+>
+> **Provat el 18-09-2026 amb la via web** (Wikidata i National Football Teams,
+> creuades una a una): **sis es tanquen, una queda dividida i una queda
+> oberta.** **Cinc de les sis que es tanquen coincideixen totes en «Andorra la
+> Vella»**, i **això és, en si mateix, un motiu de cautela**: **les bases de
+> dades de futbol tendeixen a assignar la capital per defecte als jugadors
+> d'un país petit quan no tenen la dada**, de manera que **una coincidència
+> entre dues fitxes no garanteix que cap de les dues hagi verificat res —pot
+> ser el mateix supòsit copiat dues vegades.** **El corpus ho registra igualment,
+> amb les dues fonts nomenades a cada fitxa, però sense pujar-ho de categoria a
+> «confirmat» en el sentit fort.**
 
 ## El que falta
 

@@ -98,7 +98,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   > Sonejee](./oscar-sonejee.md), el primer**, i **[Ildefons
   > Lima](./ildefons-lima.md), el segon, l'1 de juny del 2016**. **Moisès San
   > Nicolás és el tercer andorrà que hi arriba**, i **el corpus no ho sabia.**
-- **On va néixer exactament**: la font diu «Andorra» sense parròquia.
+- ~~**On va néixer exactament**: la font diu «Andorra» sense parròquia.~~ —
+  **`resolt` el 18-09-2026**: **Andorra la Vella**, segons **la Viquipèdia en
+  anglès i Wikidata**, que hi coincideixen. Vegeu [l'avís sobre aquesta sèrie
+  de buits](./README.md#els-altres-cinquanta-tres).
 
 ## Related
 
