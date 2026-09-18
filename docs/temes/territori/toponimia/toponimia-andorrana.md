@@ -88,10 +88,10 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
   *kanillave* el 860 i *caniyoll* el 1295**— i les etimologies que s'hi
   proposen, **marcades com a propostes**. **Canillo queda «en quarantena» pel seu
   propi autor.** Falten **Encamp, la Massana i Sant Julià**.
-- **L'etimologia d'«Andorra»** ja té fitxa:
-  [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md). Hi consta també
-  que **«Andorra la Vella» ve de *vila d'Andorra*, no de «vella»** — un
-  malentès que ja es feia al segle XIV.
+- ~~**L'etimologia d'«Andorra»**~~ — **`resolt` el 18-09-2026**: [el nom
+  d'Andorra](../../historia/origens/el-nom-dandorra.md) ja en dona l'etimologia.
+  Hi consta també que **«Andorra la Vella» ve de *vila d'Andorra*, no de
+  «vella»**, un malentès que ja es feia al segle XIV.
 - ~~***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
   Gascón, López-Mugartza i Belasko; Govern d'Andorra, **2018**): **la font
   central d'aquesta branca, identificada i no oberta**.~~ — **`resolt`**:
