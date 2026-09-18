@@ -265,7 +265,8 @@ secretari del Consell General.**
 4. **Com es formaven les tres seccions** amb què el Consell oferia tres instàncies
    successives en matèria de servituds.
 5. **DIVERGÈNCIA**: **la part del bisbe en la quèstia, 450 francs (Vilar) o 450
-   pessetes (el corpus).** `No arbitrada.`
+   pessetes (el corpus).** `No arbitrada.` **`no-es-buit`**: és una divergència
+   registrada que no s'ha d'arbitrar sense una font millor.
 6. **Des de quan es pagava el tribut francès cada dos anys** i **si la pràctica
    consta en algun acord.**
 7. **La fórmula del jurament de fidelitat a França** que els delegats prestaven en

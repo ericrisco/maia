@@ -245,6 +245,8 @@ la descriu en passat i només en set.**
 - **La font declara ella mateixa que l'article té recerca original i poques
   referències** *(«original research», «more footnotes»)*. **El corpus ho
   registra: aquesta fitxa és la menys ben fonamentada de la subbranca.**
+  **`no-es-buit`**: és un avís sobre la qualitat de la font, no una pregunta de
+  recerca.
 
 ## Related
 

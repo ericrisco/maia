@@ -316,7 +316,8 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
   anterior i **amb el mateix Roger Bernat com a part**
   ([els privilegis](../edat-mitjana/els-privilegis.md)). **Cap altra font del
   corpus no l'esmenta**, i **és el contrafactual d'aquesta fitxa**: **el mateix
-  instrument, el mateix senyor, la vall del costat, i cap estat.**
+  instrument, el mateix senyor, la vall del costat, i cap estat.** **`no-es-buit`**:
+  és context comparatiu incorporat, no una pregunta pendent.
 - **Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
   lectura de l'autora.
 

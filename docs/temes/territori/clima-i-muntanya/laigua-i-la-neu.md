@@ -303,10 +303,10 @@ data de finalització de l'esquí.
 
    `Segueix sent captació, no volum de neu produïda —que és el que aquest buit
    demanava—, i la sèrie s'atura el 2019.`
-6. **El consum per habitant**, que la mateixa divisió dona: **259 litres per
-   habitant i dia el 2007** i **220 el 2019**, un **−15%**. **Per població
-   equivalent** —que inclou els visitants— **de 186 a 156**. `Nou el
-   18-09-2026; el que no consta és la definició de «població equivalent».`
+6. ~~**El consum per habitant**.~~ — **`parcial` el 2026-09-18**: la mateixa
+   divisió dona **259 litres per habitant i dia el 2007** i **220 el 2019**, un
+   **−15%**; per **població equivalent** —que inclou els visitants—, **de 186 a
+   156**. **Queda obert només què vol dir exactament «població equivalent».**
 7. **El consum d'aigua per parròquia**, i quines conques abasteixen què.
 8. ~~**Si les dades dels usos són d'un any concret**; la font no el diu.~~ —
    **`resolt` el 18-09-2026**: **la divisió 2470 de l'API dona la sèrie anual

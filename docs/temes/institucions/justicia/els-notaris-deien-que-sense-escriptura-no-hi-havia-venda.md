@@ -224,16 +224,15 @@ les vendes judicials. Vegeu
 6. **Quan es va deixar de plantar la creu** per marcar els embargaments.
    `obert; el corpus té l'aranzel que la tarifava el 1740 i la constatació que el
    1904 queia en desús.`
-7. **«Lo dret de cinch sous»**: **en què consistia exactament** i **si la xifra
-   era simbòlica o efectiva.** `obert` — **amb context nou des del 2026-09-18**:
-   **la mateixa obra, a la p. 151, explica que «un legitimari s'havia de tenir per
-   satisfet quan havia rebut la suma sacramental de cinc sous»** ([la suma
-   sacramental de cinc
+7. ~~**«Lo dret de cinch sous»**: **en què consistia exactament** i **si la xifra
+   era simbòlica o efectiva.**~~ — **`parcial` el 2026-09-18**: la mateixa obra,
+   a la p. 151, explica que «un legitimari s'havia de tenir per satisfet quan havia
+   rebut la suma sacramental de cinc sous» ([la suma sacramental de cinc
    sous](../../historia/antic-regim/la-suma-sacramental-de-cinc-sous.md)). **Això
    explica el llegat simbòlic dels testaments, no el *dret* de l'aranzel**, i **el
    corpus no afirma que siguin la mateixa cosa**: **en són tres usos distints de la
    mateixa xifra** —**llegat d'extinció**, **sostre per tractar sol** i **dret
-   tarifat**.
+   tarifat**. **El sentit propi del dret tarifat encara requereix la font completa.**
 8. ~~**Si a Andorra hi va haver mai *paumée*, anell de compromís o *brandon***, o
    **si la font es limita a constatar que no els va veure.**~~ — **`parcial` des
    del 2026-09-18, i la resposta és a la mateixa obra**: **a la p. 116**, una

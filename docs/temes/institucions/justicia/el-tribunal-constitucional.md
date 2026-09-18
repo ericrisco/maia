@@ -170,6 +170,7 @@ exclusiva permanent, hi ha retribució per activitat.
 - **Afegit el 17-09-2026: qui pot recórrer no és només una qüestió de
   nombre.** **La sentència 2021-2-L és la peça doctrinal més forta que el
   corpus té d'aquest Tribunal**, i **tanca un buit que no estava escrit.**
+  **`no-es-buit`**: és una nota de contingut ja incorporada, no una pregunta pendent.
 
   **El cas**: **sis consellers generals** —la cinquena part exacta de
   vint-i-vuit, que és el que demana l'article 99 de la Constitució— impugnen la
@@ -244,7 +245,8 @@ exclusiva permanent, hi ha retribució per activitat.
   nomenat magistrat d'aquest tribunal pel Consell General, i abans jutge del
   Tribunal Europeu de Drets Humans (2015-2024). Detall i fonts a
   [com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md#buits-registrats),
-  punt 8.
+  punt 8. **`no-es-buit`**: és una actualització nominal ja documentada, no una
+  pregunta pendent.
 
 ## Related
 

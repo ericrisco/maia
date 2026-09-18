@@ -288,7 +288,8 @@ registrar**
    l'altre batlle.** **El corpus registra les dues i no les concilia.**
 4. **Fontanella, *Decisiones sacri regii senatus Cathaloniæ*, decisió 126** (ed.
    de Lió, 1668, t. I, p. 245). **És l'enllaç documentat entre el dret andorrà i
-   el romà.** **Prioritari.**
+   el romà.** **Prioritari.** **`no-es-buit`**: és la referència identificada i
+   descrita, no una pregunta pendent.
 5. **Fins on arriba la regla que «les jurisdiccions andorranes han de seguir la
    llei romana»**: **la font ho diu per a la cosa jutjada i la revisió, i no com a
    principi general.**

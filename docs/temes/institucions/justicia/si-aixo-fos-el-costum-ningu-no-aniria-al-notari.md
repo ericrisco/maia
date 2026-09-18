@@ -172,9 +172,10 @@ sentit.**
    ha incorporat **una de les cinc respostes**, amb el magistrat identificat i
    el seu raonament; les altres quatre no es reprodueixen i la font no permet
    saber si la resposta incorporada és la correcta.
-3. **La clàusula d'usdefruit de la vídua** tal com es redactava als contractes.
-   — **COMPROVAT EL 2026-09-16, i la resposta és que no hi és.** Els **dos
-   capítols matrimonials de 1788** que té el corpus
+3. ~~**La clàusula d'usdefruit de la vídua** tal com es redactava als
+   contractes.~~ — **`parcial` el 2026-09-16**: la resposta és que no hi és en
+   els dos exemples consultats. Els **dos capítols matrimonials de 1788** que té
+   el corpus
    ([dos capítols matrimonials](../../historia/antic-regim/dos-capitols-matrimonials-de-1788.md))
    **contenen un usdefruit, però és un altre**: **el que el pare donador es
    reserva sobre tot el que hereta el fill**, «**señor y usufructuari**», **sense
@@ -184,8 +185,7 @@ sentit.**
    **Això no desmenteix el magistrat**: **ell parla dels contractes en general** i
    **el corpus només en té dos**, **tots dos del mateix any i tots dos amb hereu
    viu**. **El que el corpus registra és que els dos exemples que té no serveixen
-   de prova**, i **que la clàusula segueix sense veure's escrita.** `obert, i ara
-   se sap on NO és.`
+   de prova**, i **que la clàusula segueix sense veure's escrita.**
 4. **Quantes vegades es va reclamar la llegítima davant el batlle**, i **amb quin
    resultat**. La font afirma **que el batlle donava la raó al reclamant** i **no
    cita cap cas.** `obert.`
