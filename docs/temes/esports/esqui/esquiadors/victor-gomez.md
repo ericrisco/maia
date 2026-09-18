@@ -59,8 +59,16 @@ comparteix Albertville, Lillehammer i Nagano. A Salt Lake City ja hi va amb
 
 ## El que falta
 
-- **Copes del Món i campionats del món**: cap dada.
-- **Si va ser abanderat**, i de quins Jocs.
+- ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
+  el wikitext consultat és un esborrany que només publica la biografia bàsica i
+  les quatre participacions olímpiques; **no inclou temporades ni resultats de
+  Copes del Món o campionats del món** ([fitxa de font](../../../../fonts/wikipedia-esquiadors-andorrans.md); el bolcat és
+  `raw/web/esport/alpins/Victor_Gómez_(alpine_skier).wiki`).
+- ~~**Si va ser abanderat**, i de quins Jocs.~~ — **`resolt` el 18-09-2026**:
+  **Victor Gómez va ser abanderat a Nagano 1998 i a Salt Lake City 2002**; la
+  font de 2002 especifica que ho va ser tant a la cerimònia d'obertura com a la
+  de clausura ([fitxa de font](../../../../fonts/wikipedia-esquiadors-andorrans.md),
+  [delegació de 2002](../../../../raw/web/esport/hivern/w2002.txt)).
 - ~~**Qui és Aitor Osorio.**~~ — **`resolt` amb el corpus, i era un buit
   caducat**: **la fitxa existeix des del 2026-09-13.** **Joan Aitor Osorio
   Martí, Escaldes-Engordany, 31 d'octubre del 1975**, **nedador**, **42è en
