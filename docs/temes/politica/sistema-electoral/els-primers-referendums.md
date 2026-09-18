@@ -170,7 +170,10 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
 - **El resultat de la proposta 3 del 1982.** **La font en dona dues de tres.**
 - **Qui era l'Agrupament Democràtic d'Andorra**, que va fer la proposta més
   votada dues vegades i **no consta a [l'arbre dels partits](../partits/larbre-dels-partits.md)**.
-- **Les sis propostes del 1977 senceres**: el corpus en té tres.
+- ~~**Les sis propostes del 1977 senceres**.~~ — **`parcial` el 18-09-2026**:
+  **el corpus en té les sis opcions numerades amb vots i percentatges**, i
+  identifica les propostes **5** —Quart de les Escaldes— i **6** —Agrupament
+  Democràtic d'Andorra—; **el text complet de les sis encara falta**.
 - **Per què a Sant Julià va votar en blanc més de la meitat del cens.**
 
 ## Related

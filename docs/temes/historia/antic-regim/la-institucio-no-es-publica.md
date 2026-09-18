@@ -276,9 +276,10 @@ d'una tanda diferent**:
 4. **Si els batlles intervenien sempre en la presa de possessió**, com diu el
    decret, **o només en cas de conflicte**, com diu l'autor. **Divergència
    registrada.**
-5. **Els altres articles posats a enquesta pel Consell Sobirà del Rosselló el 16
-   de juny de 1751.** **El corpus en té dos** —**aquest i el del verb *heretar***— i
-   **la font diu «diversos».**
+5. ~~**Els altres articles posats a enquesta pel Consell Sobirà del Rosselló el 16
+   de juny de 1751.**~~ — **`parcial` el 18-09-2026**: **el corpus en té dos**
+   —**aquest i el del verb *heretar***—, mentre que **la font només diu
+   «diversos»** i no permet reconstruir la resta.
 6. ~~**Quantes institucions amb pluralitat d'hereus hi ha**~~ — **`resolt`,
    amb reserva de la font mateixa**: **tres**, i **la font adverteix que
    una potser és un *ab intestat*.**

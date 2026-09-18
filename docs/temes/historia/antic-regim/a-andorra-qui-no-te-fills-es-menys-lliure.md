@@ -165,9 +165,9 @@ a Andorra, la manera més ràpida de perdre una protecció.**
    trebel·liànica.** **És una pregunta de l'autor, no una conclusió.**
 3. **Si la xifra de 50 lliures era estàndard** o **variava amb la casa**. **La
    font en dona una fórmula model, no una sèrie.**
-4. **Fins a quants graus s'encadenaven de fet les substitucions**, si no hi havia
-   límit legal. **El corpus té cadenes de tres i quatre graons i cap de més
-   llarga.**
+4. ~~**Fins a quants graus s'encadenaven de fet les substitucions**, si no hi havia
+   límit legal.~~ — **`parcial` el 18-09-2026**: **el corpus documenta cadenes
+   de tres i quatre graons**, però **no en té cap de més llarga ni el límit legal**.
 5. **Com va acabar el cas del 17 de juny de 1783**: **si la primera filla es va
    tornar a casar**, i **si va tenir fills**. **La substitució es va fer sobre una
    previsió.**
