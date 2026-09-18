@@ -172,6 +172,48 @@ fronteres (**A123**) dona **685.096 visitants el novembre del 2025** i **768.866
 el desembre** (+12,2%). **Un sol mes d'hivern porta més visitants que vint-i-cinc
 vegades la població del país.**
 
+## Els establiments, i el que els ha substituït
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/allotjament/`, divisions
+**198** i **756**). **El corpus tenia els llits i no els establiments.**
+
+| Tipus | 2004 | 2015 | **2025** | Variació |
+| --- | ---: | ---: | ---: | ---: |
+| **Hotels** | **200** | 170 | **163** | **−18,5%** |
+| Aparthotels | 22 | 23 | 15 | −31,8% |
+| **Hostals i residències** | **17** | 10 | **8** | **−52,9%** |
+| **Pensions** | **14** | 7 | **3** | **−78,6%** |
+| Apartaments turístics | 41 | 29 | 29 | −29,3% |
+
+**Queden tres pensions a tot Andorra.** **El 2004 n'hi havia catorze.** **I la
+xifra confirma pel nombre d'establiments el que la sèrie de llits ja deia**:
+**el que desapareix no és l'hotel, és tot el que hi havia al voltant.**
+
+### I una categoria que no existia
+
+| Any | 2010 | 2015 | 2020 | **2025** |
+| --- | ---: | ---: | ---: | ---: |
+| **Empreses de gestió d'habitatges d'ús turístic** | **19** | 50 | 87 | **107** |
+| Allotjaments rurals | — | 7 | 9 | 17 |
+| Refugis de muntanya | 27 | 28 | 28 | 28 |
+| Càmpings | 10 | 8 | 7 | 5 |
+| **Total «altres allotjaments»** | **60** | **105** | **135** | **165** |
+
+**Les empreses que gestionen habitatges d'ús turístic passen de dinou el 2010
+a cent set el 2025**: **×5,6.** **És l'única categoria d'allotjament que creix
+de manera sostinguda en tota la sèrie**, i **el 2025 n'hi ha menys hotels
+(163) que fa vint anys i més d'aquestes (107) que mai.**
+
+**El desembre del 2025, els habitatges d'ús turístic van fer 172.823
+pernoctacions**, **el 14,6% del total de 1.178.629** ([pernoctacions per tipus,
+divisió 3621]). **Els hotels en van fer 905.817, el 76,9%.**
+
+`Un habitatge d'ús turístic és un habitatge que no és al mercat residencial.
+El corpus no té el nombre d'habitatges gestionats —té el d'empreses que els
+gestionen— i per tant no pot dir quants pisos són. La relació amb
+[la crisi de l'habitatge](../../societat/habitatge/la-crisi-de-lhabitatge.md)
+és evident i el corpus no la quantifica.`
+
 ## Buits registrats
 
 1. **Quins van ser els intents fallits** de gran centre turístic: qui els
