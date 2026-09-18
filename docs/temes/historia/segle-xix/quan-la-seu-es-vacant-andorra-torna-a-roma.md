@@ -284,8 +284,10 @@ excepció que el resum no duia:**
    no vista.** **Prioritari**: **és una limitació pontifícia d'una pena canònica
    per raó de matèria civil, i el corpus no en té cap altra.**
 3. **L'acord de Pau V sobre el notari de les Valls.** **Ara el corpus en té
-   l'origen i no el text.** **Prioritari**: **explica una regla que el corpus ja
-   documentava des del febrer de 1607.**
+   l'origen —una petició dels cònsols i consellers de les Valls— i la regla que
+   en va resultar, però no el text de la butlla.** **Buit parcialment acotat**:
+   explica la regla que el corpus ja documentava des del febrer de 1607, i
+   queda pendent llegir l'acte pontifici sencer. **Prioritari.**
 4. **L'autorització pontifícia de confiscar grans al clergat** de les Valls. **Ni
    data ni text.**
 5. **L'autorització al Consell General de recollir les escriptures dels rectors
