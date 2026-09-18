@@ -105,4 +105,8 @@ la seva API de cerca no retorna les notes.`
   document. **Les deu files de total de les dues taules quinquennals quadren
   exactament.** **El resum intercanvia els percentatges de francesos i
   portuguesos respecte de la seva pròpia taula**; registrat i no corregit.
-- A053 i la nota A138 del `20250123` **encara no s'han llegit**.
+- A053 → [Sis-cents quaranta-quatre espanyols i tres-cents un andorrans](../../temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md).
+  **Nom compost `NP_A053-A054`.** **Els totals no sumen les columnes i la nota
+  ho adverteix ella mateixa**: són **mitjanes anuals**, no recomptes. **Obre una
+  subbranca nova al corpus, `societat/proteccio-social`.**
+- La nota A138 del `20250123` **encara no s'ha llegit**.

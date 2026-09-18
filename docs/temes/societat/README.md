@@ -14,6 +14,7 @@ Com viu la gent, no com funcionen les institucions.
 - [Habitatge](./habitatge/README.md)
 - [Immigració](./immigracio/README.md)
 - [Mitjans](./mitjans/README.md)
+- [Protecció social](./proteccio-social/README.md)
 - [Sanitat](./sanitat/README.md)
 - [Treball](./treball/README.md)
 - [Vida cívica](./vida-civica/README.md)

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1020** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1021** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## parla/oral
 
@@ -1427,6 +1427,12 @@
 | [Les capçaleres](temes/societat/mitjans/les-capcaleres.md) | `temes/societat/mitjans` | compilada | contemporania | no | `sorribes-evolucio-premsa-1994` |
 | [Ràdio Andorra](temes/societat/mitjans/radio-andorra.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
 | [RTVA](temes/societat/mitjans/rtva.md) | `temes/societat/mitjans` | compilada | contemporania | no | `viquipedia-ca` |
+
+## temes/societat/proteccio-social
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Sis-cents quaranta-quatre espanyols i tres-cents un andorrans](temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/sanitat
 
