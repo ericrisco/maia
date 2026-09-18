@@ -123,7 +123,14 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
 
 ## Buits registrats
 
-- **Quants batlles i magistrats hi ha** en total, no consta.
+- ~~**Quants batlles i magistrats hi ha** en total, no consta.~~ —
+  **`parcial` el 18-09-2026**: [la funció
+  pública](../govern/la-funcio-publica.md) ja té, per l'API d'Estadística, el
+  **cos de justícia sencer: 129 persones el 2024**
+  ([font](../../../fonts/estadistica-ad.md)). **No és la xifra que demana
+  aquest buit**: el cos inclou personal administratiu i de secretaria, no
+  només batlles i magistrats amb potestat jurisdiccional. **Quants d'aquests
+  129 exerceixen de jutge, encara no consta.**
 - **Quants magistrats són de nacionalitat espanyola o francesa** avui, tampoc:
   és la xifra que diria si la transitòria segona és residual o estructural.
 - ~~**Les 22 versions no s'han comparat.** És la tercera llei més retocada del
