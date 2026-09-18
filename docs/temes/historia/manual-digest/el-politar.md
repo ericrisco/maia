@@ -292,10 +292,10 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
    d'un jutge francès: **el que no li interessava, no hi és**.
 4. **El llibre I del Politar**, el d'història i dominis, que el capítol II esmenta
    i el corpus no té.
-5. **«Fer la cisena»** — el privilegi que la regula. El document de 1894 l'anomena
+5. ~~**«Fer la cisena»** — el privilegi que la regula. El document de 1894 l'anomena
    «el llamado privilegio de **Sisena**, dado por el Sr. Obispo Urries y
    restaurado más tarde por el Obispo Capella», i el corpus **no en té el text**.
-   — **`parcial` el 17-09-2026: el privilegi segueix sense text, i l'operació ja
+   ~~ — **`parcial` el 17-09-2026: el privilegi segueix sense text, i l'operació ja
    no és una descripció de segona mà.** Les [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) **la mostren
    feta, any rere any, des del 1610**:

@@ -249,7 +249,7 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    corpus encara no els ha llegit.~~ **Els extractes, llegits:**
    [El Politar andorrà](./el-politar.md). Queda obert **el Politar sencer**: el
    que hi ha és **una tria feta per un jutge francès**.
-8. **Qui era Antoni Puig**, més enllà de «prevere de les Escaldes» —
+8. ~~**Qui era Antoni Puig**, més enllà de «prevere de les Escaldes»~~ —
    **`parcial` el 18-09-2026**: **l'Enciclopèdia Catalana confirma
    independentment que era rector de les Caldes**, sense donar naixement ni
    mort ([font](../../../fonts/enciclopedia-cat-politar-antoni-puig.md)).

@@ -235,7 +235,7 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
    el mateix càrrec al text de 1894**, i **si l'acusació és certa.**
 2. **El nom de la companyia i la data i el text de la concessió.** **Segueix
    obert per totes dues fonts.** **Prioritari.**
-3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **`parcial`**:
+3. ~~**L'acord dels coprínceps del 25 de febrer de 1881 sencer.**~~ **`parcial`**:
    el corpus en té ara **dues clàusules** —concessions i jocs— **per dues fonts
    diferents**, i **no el text.** **Prioritari.**
 4. **Quan s'acaba la revolució de 1880-81**: **febrer o juny de 1881.**

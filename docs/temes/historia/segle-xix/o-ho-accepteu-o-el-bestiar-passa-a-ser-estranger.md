@@ -240,8 +240,8 @@ Trias invoca.**
 8. **Els convenis i concerts comercials amb Espanya i França** signats pel Consell
    General i els seus síndics. **La font els invoca en bloc i no en data ni en
    nomena cap.** **Prioritari per a l'àmbit de relacions exteriors.**
-9. ***Constitución política y personal internacional del Principado de Andorra***,
-   de **Joan de Déu Trias** (1890). **No és al corpus** —**`parcial` des del
+9. ~~***Constitución política y personal internacional del Principado de Andorra***,
+   de **Joan de Déu Trias** (1890). **No és al corpus**~~ —**`parcial` des del
    17-09-2026**: **l'obra ja té referència completa i el títol que el corpus en
    dona és inexacte.**
 

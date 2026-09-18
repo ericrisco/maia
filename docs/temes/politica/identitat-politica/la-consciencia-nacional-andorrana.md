@@ -326,7 +326,7 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    hi surt, amb una divergència ja registrada** a la fitxa de Ràdio Andorra.
    **El que segueix obert és Ràdio de les Valls**, **de la qual el corpus només
    té el nom dins aquesta cronologia.**
-9. Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**. —
+9. ~~Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**.~~ —
    **`parcial` el 17-09-2026: del primer ja se sap la referència i, sobretot,
    qui el va escriure.** Font: les [actes del Consell
    General](../../../fonts/actes-historiques-consell-general.md).

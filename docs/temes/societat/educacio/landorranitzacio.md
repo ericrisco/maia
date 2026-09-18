@@ -101,8 +101,8 @@ va haver de fer **per la via del conveni**— i això deixa marca.
 
 ## Buits registrats
 
-- **El text de la Nota Informe de l'Andorranització (1972).** El corpus no l'ha
-  llegit. **Buit prioritari**: és un document fundacional i deu ser curt. —
+- ~~**El text de la Nota Informe de l'Andorranització (1972).** El corpus no l'ha
+  llegit. **Buit prioritari**: és un document fundacional i deu ser curt.~~ —
   **`parcial` des del 2026-09-15: n'hi ha un paràgraf citat literalment.**
   **Margarit i Monné en reprodueixen aquest fragment** ([els andorrans estudiaven
   sobretot en escoles franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)):

@@ -252,7 +252,7 @@ sabia.**
 
 ## El que falta
 
-- **Llegir el document sencer.** — **`parcial` des del 2026-09-13, i el buit
+- ~~**Llegir el document sencer.**~~ — **`parcial` des del 2026-09-13, i el buit
   estava mal plantejat.** **S'han recorregut els deu capítols que quedaven, i el
   que hi ha no és el que el buit esperava:**
 
