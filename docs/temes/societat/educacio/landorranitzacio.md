@@ -123,12 +123,13 @@ va haver de fer **per la via del conveni**— i això deixa marca.
 - **Quantes hores** de formació andorrana, per nivell i per sistema. La font en
   dona un quadre que el corpus no ha pogut llegir (és una taula al PDF).
 - **Qui són els professors de Formació Andorrana** i quants són.
-- **Què s'hi ensenya exactament**: els programes d'història i institucions
+- ~~**Què s'hi ensenya exactament**: els programes d'història i institucions
   andorranes fets pel Govern serien **una font directa de com el país s'explica
   a si mateix als seus nens**. Per a aquest corpus, seria dels materials més
-  valuosos que existeixen. — **`obert`, confirmat el 2026-09-14, i registrat com el buit
-  més declarat de la branca: TRES articles el demanen per separat i cap no
-  sabia dels altres.**
+  valuosos que existeixen.~~ — **`parcial` el 18-09-2026**: **el programa de
+  primera ensenyança (1998) i el de maternal (1997) ja són llegits**; el buit
+  era compartit per TRES articles i la resposta ja es creua a la fitxa nova
+  [El que s'ensenya als nens sobre Andorra](./el-que-sensenya-als-nens-sobre-andorra.md).
 
   | Article | Com el demana |
   | --- | --- |
@@ -140,7 +141,9 @@ va haver de fer **per la via del conveni**— i això deixa marca.
   explicant-se als seus nens».** **I els tres diuen que són documents públics
   del Govern.**
 
-  **`parcial` el 17-09-2026, i el que canvia és que ara se sap on són.**
+  **El que segueix obert és buidar els altres decrets de programa**, que ara se
+  sap on són: tots al **BOPA**, amb els annexos PDF que cal llegir.
+  **El que canvia és que ara se sap on són.**
   **Els programes de Formació Andorrana es publiquen al
   [BOPA](../../../fonts/bopa.md) com a decrets, un per programa, i n'hi ha
   dos-cents quaranta-quatre documents** —del **Decret del programa d'educació
