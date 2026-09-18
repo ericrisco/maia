@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **333** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **334** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1808,6 +1808,7 @@
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ecapclub-el-club`](fonts/ecapclub-el-club.md) | Esquí Club Arinsal-Pal (ECAP) | publicació institucional, sense llicència declarada | pendent |
 | [`ecoa-ad-junta`](fonts/ecoa-ad-junta.md) | Esquí Club Ordino-Arcalís (ECOA) | publicació institucional, sense llicència declarada | pendent |
+| [`elcami-el-tabac-andorra`](fonts/elcami-el-tabac-andorra.md) | El Camí | publicació editorial, sense llicència declarada | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
 | [`elperiodic-cronica-passio-blanca-menendez`](fonts/elperiodic-cronica-passio-blanca-menendez.md) | El Periòdic d'Andorra | premsa digital, sense llicència declarada | pendent |
 | [`elperiodic-sant-miquel-de-prats-retaule`](fonts/elperiodic-sant-miquel-de-prats-retaule.md) | El Periòdic d'Andorra | premsa digital, sense llicència declarada | pendent |

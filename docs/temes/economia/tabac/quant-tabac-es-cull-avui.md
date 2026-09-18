@@ -241,7 +241,11 @@ consultades no ho diu.`
   deixar de plantar»: se'n va seguir plantant 130 hectàrees.`
 - **I per què el trencament del 1998**, que és més gran i que el corpus no
   tenia: **de 1.047.038 kg el 1997 a 324.207 el 2000, un −69,0% en tres anys.**
-  **Nou el 18-09-2026.**
+  **`parcial` el 18-09-2026**: **el marc general de la dècada hi apunta**
+  —augment de taxes, més repressió del contraban i disminució de vendes,
+  tots tres sense any concret
+  ([font](../../../fonts/elcami-el-tabac-andorra.md))— **però cap font
+  consultada identifica el desencadenant específic del 1998.**
 
 ## Related
 
