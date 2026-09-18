@@ -173,7 +173,14 @@ massís**.
 - **Quines espècies de congestera** hi ha a Andorra, amb nom.
 - **Els resultats de les Open Top Chambers.**
 - **El segell de carn de qualitat d'Andorra**: què és, qui l'atorga, quants
-  ramaders. **El corpus no en té fitxa.**
+  ramaders. — **`parcial` el 18-09-2026**: **el «quants ramaders» ja té xifra**,
+  i **el segell resulta ser-ne tres**: **«Carn de qualitat controlada d'Andorra»,
+  «IGP Carn d'Andorra» i «Carn de qualitat de corder i cabrit transhumant
+  d'Andorra»**, que **el 2025 van repartir 413.477 € entre 38 explotacions**
+  —**Sant Julià 15, Ordino 7, Encamp 6, la Massana 5, Canillo 4, Andorra la Vella
+  1 i Escaldes cap**—, segons l'estadística A112
+  ([Qui cobra els ajuts agraris](../../economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md)).
+  `El que segueix obert és qui l'atorga i amb quin plec de condicions.`
 - **Les 18 espècies de quiròpters d'Andorra**, amb nom.
 - **El CENMA** mateix: fitxa pròpia. — **`parcial` el 18-09-2026**: **no en té
   de pròpia, però està descrit dins la de la casa mare**,

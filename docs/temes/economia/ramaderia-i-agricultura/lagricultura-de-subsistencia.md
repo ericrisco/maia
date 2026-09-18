@@ -191,7 +191,15 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
 3. El **dot** com a mecanisme: contractes matrimonials, quantitats, a quines cases.
 4. **Quantes cases noves** es funden al segle XVIII i on.
 5. L'**artigatge**: tècnica, dret sobre la terra artigada, si calia permís.
-6. El **mallador** — el corpus no en té definició pròpia.
+6. ~~El **mallador** — el corpus no en té definició pròpia.~~ — **`resolt` el
+   18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**, i **el diccionari hi posa
+   Andorra**: **«MALLADOR m. Corral on mallen o baten el gra (Andorra, Pallerols,
+   Vilaller).»** **És la tercera de tres accepcions**, i les altres dues són
+   d'ofici —**«home que malla el ferro»** i **«home que treballa en la mallada o
+   batuda»**. **La que val per a aquesta fitxa és la del lloc, no la de la
+   persona**: **«les bordes que tenen mallador per al blat» vol dir bordes amb
+   era coberta per batre**, i **és l'única de les tres que el DCVB localitza a
+   Andorra**. El verb és `mallar`, 'picar amb el mall'.
 
 ## Related
 
