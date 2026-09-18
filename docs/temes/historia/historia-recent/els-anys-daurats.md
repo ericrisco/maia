@@ -229,8 +229,14 @@ concret que la branca d'història té: sis títols amb autor i any.**
 
 - **Les sis obres de la bibliografia.**
 - **Xavier de Plandolit** i la revista ***Andorra Agrícola***.
-- **Gil Torres**, **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**:
-  cap fitxa de cap.
+- ~~**Gil Torres**~~ — **`parcial` el 18-09-2026**: **l'Automòbil Club
+  d'Andorra, que hauria impulsat, es va constituir exactament el 25 de maig
+  de 1954** ([font](../../../fonts/mobilitat-ad-aca-1954-2017.md)). **Gil
+  Torres en va ser president en algun moment** i **Ferran Font Riudeubas el
+  va succeir temporalment arran de la seva mort** — **sense data ni més
+  detall verificat des d'una font directa.**
+- **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**: cap fitxa de
+  cap.
 - ~~**El pare Enric Graner**: cap fitxa.~~ — **`parcial` el 18-09-2026**:
   **monjo benedictí del cenobi de Montserrat**, resident a Andorra, vinculat
   a la fundació del Futbol Club Andorra a l'escalf del Col·legi Meritxell

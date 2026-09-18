@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1079** documents · **325** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1079** documents · **326** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1889,6 +1889,7 @@
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`miret-curandera-sanauja-gimbernat-2011`](fonts/miret-curandera-sanauja-gimbernat-2011.md) | Reial Acadèmia de Medicina de Catalunya · revista Gimbernat | publicació acadèmica, RACO; ús de recerca | pendent |
+| [`mobilitat-ad-aca-1954-2017`](fonts/mobilitat-ad-aca-1954-2017.md) | Automòbil Club d'Andorra (ACA) | publicació institucional, sense llicència declarada | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`monica-doria-altaveu-millor-temporada`](fonts/monica-doria-altaveu-millor-temporada.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
 | [`monica-doria-checa-perelegre-seu`](fonts/monica-doria-checa-perelegre-seu.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
