@@ -293,12 +293,12 @@ parroquia»**.
    [l'extensió dels poders](./lextensio-dels-poders.md).
 2. **Els segells de correus** emesos pel Consell General i mai posats en curs.
 3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
-4. **Quant rendia el llot**, i amb quina freqüència s'enviava. — **`parcial`**:
+4. ~~**Quant rendia el llot**, i amb quina freqüència s'enviava.~~ — **`parcial`**:
    el 1918 es fa **«a menudo… cuando no bastan estos ingresos normales»**, és a
    dir **quan cal**, no amb periodicitat fixa. **La xifra segueix sense
    constar.**
-5. **El manuscrit de M. Palmitjavila**, que Brutails atribueix al segle XVI i que
-   esmenta l'estrany. — **`parcial` des del 15-09-2026, i amb una divergència de
+5. ~~**El manuscrit de M. Palmitjavila**, que Brutails atribueix al segle XVI i que
+   esmenta l'estrany.~~ — **`parcial` des del 15-09-2026, i amb una divergència de
    data que el corpus no arbitra.** El corpus ja té **un extracte d'un manuscrit
    de Palmitjavila** sobre procediment civil, peça justificativa XXVII
    ([un fadrí sense casa sí que es pot emparar](../justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)),
@@ -306,7 +306,7 @@ parroquia»**.
    interrogant de l'editor, **mentre que la nota de la pàgina 36 que esmenta
    l'estrany el data al segle XVI**. **No consta si són el mateix manuscrit**, i
    **l'extracte publicat no esmenta l'estrany.**
-6. **Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps. —
+6. ~~**Quan es va suprimir l'estrany**, i quan la quèstia als coprínceps.~~ —
    **`parcial` el 17-09-2026 per a la segona meitat: la quèstia encara es
    pagava el 1864, i el corpus ja en té les dues xifres finals.** Font: el
    **Llibre IV d'actes**
