@@ -41,9 +41,19 @@ delegacions.
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Les seves marques i posicions.** La font no en dona cap. — **`obert`,
-  confirmat, i el motiu és de font**: **el bolcat és de dues línies** i només
-  diu que **va córrer els 1.500 m als Jocs de Sydney 2000 i d'Atenes 2004**.
+- ~~**Les seves marques i posicions.** La font no en dona cap.~~ — **`resolt` el
+  18-09-2026.** **El seu bolcat personal és de dues línies**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**:
+
+  | Jocs | Prova | Temps | Lloc a la sèrie |
+  | --- | --- | --- | ---: |
+  | **[Sydney 2000](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2000_Summer_Olympics.wiki)** | 1.500 m | **4:45.32** | **13a** |
+  | **[Atenes 2004](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2004_Summer_Olympics.wiki)** | 1.500 m | **4:44.40** | **13a** |
+
+  **Quatre anys, dues sèries, la mateixa posició i noranta-dues centèsimes
+  menys.** **Tenia 33 anys a Sydney i 37 a Atenes.**
+
+  `Les dues fonts avisen que la posició de les curses de pista és dins de la
+  sèrie, no de la classificació general.`
 - ~~**Quan arriba a Andorra i des de quan hi competeix.**~~ — **`parcial`: el
   quan no, l'origen sí.** **Va néixer a Barcelona el 4 de febrer del 1967**, i
   **el bolcat la dona com a andorrana** sense dir des de quan. **És, amb

@@ -69,11 +69,21 @@ Vegeu [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **El seu temps i la cursa** de Seül. — **`obert`, confirmat, i el motiu és de
-  font**: **el bolcat només diu que va competir a Seül 1988 i a Barcelona 1992**,
-  sense prova, temps ni posició.
-- **El seu resultat de Barcelona 1992.** — **`obert`, confirmat, pel mateix
-  motiu.**
+- ~~**El seu temps i la cursa** de Seül.~~ i ~~**el seu resultat de Barcelona
+  1992**~~ — **`resolt` el 18-09-2026.** **El seu bolcat personal no en deia
+  res**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**:
+
+  | Jocs | Prova | Temps | Lloc |
+  | --- | --- | --- | ---: |
+  | **[Seül 1988](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1988_Summer_Olympics.wiki)** | **Ruta individual** | **4h 32:46** | **9è** |
+  | **[Barcelona 1992](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1992_Summer_Olympics.wiki)** | Ruta | 4h 58:25 | 82è |
+
+  **El 9è lloc de Seül és un dels quatre millors resultats olímpics de la
+  història d'Andorra**
+  ([els millors](../competicio/andorra-als-jocs-olimpics.md#els-millors-resultats-olimpics-andorrans)),
+  i **el va fer a deu segons del seu company [Xavier Pérez](./xavier-perez.md)**,
+  **que va ser 59è**: **deu segons i cinquanta llocs.** **És el que passa en una
+  arribada massiva de ciclisme en ruta.**
 - ~~**Si va ser professional** i en quins equips.~~ — **`parcial`: sí que ho va
   ser, i una sola temporada.** **El bolcat li dona una única temporada
   professional, el 1993**, en **un equip que hi consta només pel codi UCI

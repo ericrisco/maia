@@ -42,9 +42,10 @@ explicar.
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **La seva marca i posició** a Rio. — **`obert`, confirmat, i el motiu és de
-  font**: **el bolcat és d'una línia** i només diu que va competir en **400 m
-  lliures** als Jocs de Rio del 2016. **Cap temps, cap posició.**
+- ~~**La seva marca i posició** a Rio.~~ — **`resolt` el 18-09-2026.** **El seu
+  bolcat personal és d'una línia**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**: **400 m lliures,
+  4:21.16, 49è**, no avança
+  ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki)).
 - **Tota la resta de la carrera.** — **`obert`, confirmat, pel mateix motiu.**
 - **El que hi és**: **Pol Arias Dourdet, 8 d'agost del 1996, 175 cm i 80 kg.**
   **El camp `birth_place` diu «Andorra» i cap parròquia**: **el buit del lloc

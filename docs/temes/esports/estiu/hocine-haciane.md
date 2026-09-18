@@ -83,8 +83,21 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   cap.** — **`obert`, confirmat llegint el bolcat sencer**: **hi torna a dir
   «olympic and national record holding swimmer» i no en llista ni un.**
   **Buit de font, declarat.**
-- **Les seves marques i posicions** de cap dels tres Jocs. — **`obert`,
-  confirmat, pel mateix motiu.**
+- ~~**Les seves marques i posicions** de cap dels tres Jocs.~~ — **`resolt` el
+  18-09-2026.** **El seu bolcat personal no en dona cap**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**:
+
+  | Jocs | Prova | Temps | Lloc |
+  | --- | --- | --- | ---: |
+  | **[Atenes 2004](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2004_Summer_Olympics.wiki)** | 200 m estils | **2:06.48** | 36è |
+  | **[Pequín 2008](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2008_Summer_Olympics.wiki)** | 400 m estils | **4:32.00** | **29è** |
+  | **[Londres 2012](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2012_Summer_Olympics.wiki)** | 200 m papallona | **2:06.37** | 37è |
+
+  **A Pequín va guanyar la seva sèrie** —la cinquena, des de la carrer cinc— **i
+  el temps no va arribar per a la final.**
+
+  **I els seus dos temps de 2:06 estan a onze centèsimes l'un de l'altre, amb
+  vuit anys i dues proves diferents pel mig**: **2:06.48 als 200 estils del 2004
+  i 2:06.37 als 200 papallona del 2012.**
 - ~~**On es va formar** i on nedava.~~ — **`parcial`: el club no hi és, i el
   calendari internacional sencer, sí.** **El bolcat en dona la llista de
   competicions, que la fitxa no tenia:**

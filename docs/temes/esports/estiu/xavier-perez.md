@@ -66,9 +66,17 @@ al circuit WTA.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Xavier_Pérez.wiki`](../../../raw/web/esport/atletes/Xavier_Pérez.wiki)).
 
-- **Els seus resultats olímpics**, que la font no dona. — **`obert`, confirmat**:
-  **el bolcat només diu que va competir a Seül 1988 i a Barcelona 1992**, sense
-  prova ni posició.
+- ~~**Els seus resultats olímpics**, que la font no dona.~~ — **`resolt` el
+  18-09-2026.** **El seu bolcat personal no en deia res**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**:
+
+  | Jocs | Prova | Temps | Lloc |
+  | --- | --- | --- | ---: |
+  | **[Seül 1988](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1988_Summer_Olympics.wiki)** | Ruta individual | 4h 32:56 | **59è** |
+  | **[Barcelona 1992](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1992_Summer_Olympics.wiki)** | **Ruta** | **4h 35:56** | **31è** |
+
+  **A Seül va entrar deu segons darrere d'[Emili Pérez](./emili-perez.md), que
+  va ser 9è, i ell va ser 59è.** **A Barcelona van intercanviar-se els papers**:
+  **ell 31è i Emili Pérez 82è.**
 - ~~**Quins equips professionals** va córrer.~~ — **`parcial`, i el que apareix
   val més que el nom de l'equip.** **Va ser professional el 1993 i el 1994**, en
   **un equip que el bolcat identifica només pel codi UCI «FES»** —**el mateix
