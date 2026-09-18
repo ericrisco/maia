@@ -261,8 +261,45 @@ qualsevol plet comunal.**
    **Prioritari.**
 4. **L'article 16 de la Reforma de 1866** *(apèndix, pp. 12-13, ja registrat com
    a buit)* i **els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.**
-5. **El *Politar*, pp. 219, 249, 253, 269, 276 i 277**, on hi ha la doctrina que
-   aquí es contradiu amb la pràctica.
+5. **El *Politar*, pp. 249 i 269.** — **Les pp. 219, 253, 276 i 277, `resoltes`
+   el 18-09-2026, i la doctrina és més precisa que la paràfrasi.**
+
+   **P. 276, punt 10è — el Consell es castiga a si mateix, i fins on:**
+
+   > «**Lo Concell pot coneyxer y castigar pecuniariament los exessos de sos
+   > interessents**, com son **paraules injurioses y altres exessos dins del
+   > mateyx Concell comesos**, **sens que dega per asso instar a la Illtre
+   > Cort**, a menos que **lo exes fos molt grave, com es de mort, mutilacio**,
+   > &c.; en cuyo cas **sens dupte coneyxerie la Cort** del exes o delicte, **o
+   > si tot lo cos del Concell delinquis**.»
+
+   **La jurisdicció domèstica té dos límits escrits: la gravetat del fet i la
+   implicació del cos sencer.** **Si delinqueix tot el Consell, el Consell ja no
+   pot jutjar-se.**
+
+   **I el deure de contradir, punt 9è**: **«Los interessents o estants en lo
+   Concell **deuhen castigarse si expressament no contradiuhen** quant se tracta
+   de alguna cosa danyosa o illicita.»** **Callar és punible.** **Per això el
+   punt 12è recomana que el secretari faci constar sempre «los noms dels Consols
+   y Consellers que han acistit en las resolucions»**: **sense noms no hi ha
+   silenci imputable.**
+
+   **P. 277, punt 15è — la immunitat d'any de mandat, que és el nervi d'aquesta
+   fitxa**: **cònsols i consellers «durant lo any de son empleo, **no poden ser
+   convinguts en judici per deutes civils**», i el mateix per als batlles i
+   magistrats majors; **«pero per delictes per ells comesos poden ser convinguts
+   y castigats, majorment si son delictes comesos en los oficis»**.
+
+   > **Es podia denunciar un cònsol i no demandar-lo**, i **el Politar en dona la
+   > frontera exacta**: **civil no, penal sí, i encara més si el delicte és
+   > d'ofici.**
+
+   **P. 219 — l'altra cara, vista des del batlle**: **«No se ha de posar may lo
+   Batlle en causes que son del coneyxement peculiar del Comu, ans be **deu
+   protegir y auxiliar** a aquell o aquells»**; i **si el cas és dubtós, ho ha de
+   consultar «ab homens de sciencia y conciencia» i, si hi ha oposició, donar-ne
+   part als Veguers.** **El Politar en dona el motiu pràctic**: són **«las causas
+   mes enredosas y enfadosas»**.
 6. **L'estudi del senyor Anton Picart** sobre l'execució del *cot* i el *recot*.
    **El corpus té el manuscrit del notari Anton Picart registrat com a buit des
    d'una altra tanda i no sap si és el mateix autor.**

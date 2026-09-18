@@ -318,8 +318,26 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    24-12-1900 (emprius y terrenos mitgés)**, sencers.
 5. **La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,
    i com va acabar.**
-6. **Què és exactament *l'estrany***: **un dret, un preu o un impost**, **qui el
-   cobrava i quant.** **La font el nomena i no el defineix.**
+6. **Què és exactament *l'estrany***: **quant es cobrava.** — **`parcial` el
+   18-09-2026: la naturalesa i el cobrador, tancats.** **El *Politar*, pp.
+   262-263**, el tracta com a **càrrega sobre el bestiar forà**, amb **dos
+   llindars de meritació**: **per pagar-lo al Comú de les Valls «basta […] que
+   los bestiars entren en ellas»**, i **per pagar-lo a una parròquia cal que hi
+   hagin «per alguns dies, segons arrestos de la tal parroquia, pasturat ses
+   herbes»**.
+
+   **Qui el cobra**: **el Comú, la parròquia o les Valls**, a instància seva, i
+   **l'executa «un dels Batlles o altre ministre de justicia tenint
+   jurisdicsio»**. **Com es cobra**: **no com les quèsties** —aquelles van «ab lo
+   mandato de penas de cot y recot»— **sinó «ab lo embarch o empara de les coses
+   o efectes dels contraventors e inobedients»**, amb penyores i encant públic.
+
+   > **És, doncs, un dret de pastura forana meritat per l'entrada o per l'estada,
+   > cobrat pel comú beneficiat i executat per la justícia.** Vegeu
+   > [L'estrany i el llot](../../institucions/consell-general/lestrany-i-el-llot.md).
+
+   `El que segueix obert és la tarifa: ni el Politar ni cap font del corpus no
+   diu quant es pagava per cap ni per dia.`
 7. **Quantes *rodalies* dobles es conserven**, i **on.** **La sentència de 1780 diu
    que n'havien vist d'altres.**
    `Requereix font externa: els arxius comunals.`
