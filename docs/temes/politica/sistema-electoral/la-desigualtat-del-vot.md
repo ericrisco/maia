@@ -759,7 +759,10 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    (discapacitat i vot per delegació) i **Llei 6/2022** (composició equilibrada
    de dones i homes a les candidatures). **I deroga el text refós del Decret legislatiu del 26-11-2014**,
    que era refós i no consolidat.
-5. **Els partits polítics**: DA, PS, Liberals, SDP, UL. **Segueix obert.**
+5. ~~**Els partits polítics**: DA, PS, Liberals, SDP, UL. **Segueix obert.**~~ —
+   **`resolt` el 18-09-2026, era un buit obsolet**: [els partits d'avui](../partits/els-partits-davui.md)
+   cobreixen les formacions actuals i [l'arbre dels partits](../partits/larbre-dels-partits.md)
+   en documenta l'origen i les escissions.
 6. ~~**La llei d'Hondt aplicada a 14 escons**: quin llindar efectiu imposa.~~
    — **`resolt` el 17-09-2026, i la pregunta estava mal plantejada.** **No és
    la llei d'Hondt**: l'article 62.1 diu **«resta més elevada»**. **El llindar
