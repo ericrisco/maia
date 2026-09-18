@@ -477,7 +477,7 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   3. **Una errata de data**: la pàgina 20 escriu **«(32% el 2044)»** on vol dir
      **2004**.
 
-  ~~**Segueix obert el capítol d'usos de l'edició del 2022** (pp. 17-37).~~ —
+- ~~**Segueix obert el capítol d'usos de l'edició del 2022** (pp. 17-37).~~ —
   **`resolt`**: destil·lat a
   [La sèrie que no és una sèrie](./la-serie-que-no-es-una-serie.md#el-capitol-dusos-linguistics-destillat-pp-17-37),
   i **ampliat el 18-09-2026** amb **les set finestretes de l'Estat una per una**

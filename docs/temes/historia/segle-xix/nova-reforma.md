@@ -155,66 +155,64 @@ relacionades; registra que ara hi ha una finestra temporal.`
 
 - **L'acte d'aprovació francès del 10 d'abril de 1868.** `Nou, i és la peça que
   diria què va aprovar exactament França.`
+- ~~**Què va motivar la reforma i contra què.**~~ — **`resolt`.** La va motivar
+  **la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la
+  llana caient** i els primers indicis de **recursos agrícoles insuficients**; i
+  **contra qui** es feia té nom de bàndol: **els casalers i els anfochs**, amb el
+  **carlisme del bisbe Caixal** al darrere
+  ([els casalers i els anfochs](./els-casalers-i-els-anfochs.md)).
 
-~~Què va motivar la reforma i contra què.~~ **TANCAT A MITGES.** La va motivar
-**la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la
-llana caient** i els primers indicis de **recursos agrícoles insuficients**; i
-**contra qui** es feia té nom de bàndol: **els casalers i els anfochs**, amb el
-**carlisme del bisbe Caixal** al darrere
-([els casalers i els anfochs](./els-casalers-i-els-anfochs.md)).
+  **I explica per què no va servir de res:** els successors de Caixal «s'oposaven
+  encara més a les reformes», de manera que **la societat va continuar dividint-se
+  en bàndols fins a finals del segle XIX**. Els dos períodes «ruidosos y
+  sangrientos» del corpus —**1868-1878** i **1883-1886**— **són tots dos
+  posteriors a aquesta llei**.
+- **Qui era Areny i Plandolit i amb qui es va enfrontar** en concret. `Queda
+  obert.`
+- ~~**L'anomenada «Qüestió d'Andorra» del segle XIX**, no investigada.~~ —
+  **`resolt`**: **ja té fitxa**,
+  [La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
+  amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
+- **El text sencer del decret de Caixal del 22 d'abril de 1866** segueix sense
+  veure's. `Se'n coneix el final, citat; no l'imprès.`
 
-**I explica per què no va servir de res:** els successors de Caixal «s'oposaven
-encara més a les reformes», de manera que **la societat va continuar dividint-se
-en bàndols fins a finals del segle XIX**. Els dos períodes «ruidosos y
-sangrientos» del corpus —**1868-1878** i **1883-1886**— **són tots dos
-posteriors a aquesta llei**.
+  > **Afegit el 15-09-2026, i ve del bisbe mateix.** **El decret de Caixal del 22
+  > d'abril de 1866**, posat al capdavant del Pla de Reforma i citat a *La cuestión
+  > de Andorra* (1894), **p. 17**, acaba manant observar les lleis, usos i costums
+  > i, a més, «**las siguientes bases y su práctica aplicación que la referida
+  > inmensa mayoría de los Andorranos nos han presentado**». **El bisbe diu ell
+  > mateix que les bases li van ser presentades pels andorrans**, cosa que sosté
+  > des del seu propi document l'afirmació del Consell que la Reforma «*no la
+  > redactó aquel Sr. Obispo, sino el pueblo andorrano*». Vegeu [no obeïu cap ordre
+  > que no vingui dels dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
+- ~~**El text imprès de la Reforma**, no llegit.~~ — **`resolt` el 15-09-2026.**
+  **Ja no cal anar-lo a buscar: és a l'apèndix D de Ríos Urruti i el corpus el té
+  article per article**
+  ([que no s'hi hagi mirat amb menyspreu ni
+  indiferència](./que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
 
-Queda obert **qui era Areny i Plandolit i amb qui es va enfrontar** en concret.
+  **Dues dates noves en surten**: **la sol·licitud dels andorrans és del 14
+  d'abril de 1866** —«*han acudit a Nos en sol·licitut de 14 del corrent Abril*»—
+  i **el decret és del 22**; **vuit dies**. **I el motiu que el bisbe hi escriu és
+  més dur del que aquesta fitxa tenia**: sense reforma radical els abusos «*no's
+  corretgirán may, e irritats d'això los pobles, podria allò convertirse en una
+  **anarquia** y originarse la **ruina** de nostres estimades valls d'Andorra*».
 
-L'anomenada **«Qüestió d'Andorra»** del segle XIX, que aquest article registrava
-com a no investigada, **ja té fitxa**:
-[La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
-amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
-
-> **Afegit el 15-09-2026, i ve del bisbe mateix.** **El decret de Caixal del 22
-> d'abril de 1866**, posat al capdavant del Pla de Reforma i citat a *La cuestión
-> de Andorra* (1894), **p. 17**, acaba manant observar les lleis, usos i costums
-> i, a més, «**las siguientes bases y su práctica aplicación que la referida
-> inmensa mayoría de los Andorranos nos han presentado**». **El bisbe diu ell
-> mateix que les bases li van ser presentades pels andorrans**, cosa que sosté
-> des del seu propi document l'afirmació del Consell que la Reforma «*no la
-> redactó aquel Sr. Obispo, sino el pueblo andorrano*». **El text sencer del
-> decret segueix sense veure's.** Vegeu [no obeïu cap ordre que no vingui dels
-> dos](./no-obeiu-cap-ordre-que-no-vingui-dels-dos.md).
-
-> **El text imprès de la Reforma, llegit — 15-09-2026.** **Ja no cal anar-lo a
-> buscar: és a l'apèndix D de Ríos Urruti i el corpus el té article per article**
-> ([que no s'hi hagi mirat amb menyspreu ni
-> indiferència](./que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
-> **Dues dates noves en surten**: **la sol·licitud dels andorrans és del 14
-> d'abril de 1866** —«*han acudit a Nos en sol·licitut de 14 del corrent Abril*»—
-> i **el decret és del 22**; **vuit dies**. **I el motiu que el bisbe hi escriu és
-> més dur del que aquesta fitxa tenia**: sense reforma radical els abusos «*no's
-> corretgirán may, e irritats d'això los pobles, podria allò convertirse en una
-> **anarquia** y originarse la **ruina** de nostres estimades valls d'Andorra*».
->
-> **El que segueix obert és l'imprès original** —*Plan de reforma…*, Seu d'Urgell,
-> 1866, 16 pàgines—: **el corpus en té una transcripció de 1920, no l'edició.**
-
-> **El text imprès de la Reforma existeix i se sap on és — 15-09-2026.**
-> **Fernando de los Ríos Urruti el reprodueix a l'apèndix D del seu llibre de
-> 1920**, i el cita **per paràgrafs numerats**: **«Véase apéndice D, 4.º y 5.º»**
-> per al procediment electoral, i **«El párrafo 8.º de la Reforma, apéndice D»**
-> per al nombre de consellers
-> ([font](../../../fonts/rios-urruti-andorra-1920.md)). **És el buit més citat
-> d'aquesta sèrie i resulta que és dins d'un volum que el corpus ja té obert.**
-> `Prioritari i assolible.`
->
-> **I del preàmbul se'n sap ja una frase**: **que hi diu «señor Bisbe d'Urgell y
-> noble Compte de Foix, Princeps soberans pro indivis»**, i **que això mateix es
-> repeteix a les bases** — cosa que **el mateix autor qualifica d'ampliació que
-> cap text no autoritza**. Vegeu [una ampliació no autoritzada pels
-> textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md).
+  > **Com es va localitzar — 15-09-2026.** **Fernando de los Ríos Urruti el
+  > reprodueix a l'apèndix D del seu llibre de 1920**, i el cita **per paràgrafs
+  > numerats**: **«Véase apéndice D, 4.º y 5.º»** per al procediment electoral, i
+  > **«El párrafo 8.º de la Reforma, apéndice D»** per al nombre de consellers
+  > ([font](../../../fonts/rios-urruti-andorra-1920.md)). **Era el buit més citat
+  > d'aquesta sèrie i resulta que era dins d'un volum que el corpus ja tenia
+  > obert.**
+  >
+  > **I del preàmbul se'n sap una frase**: **que hi diu «señor Bisbe d'Urgell y
+  > noble Compte de Foix, Princeps soberans pro indivis»**, i **que això mateix es
+  > repeteix a les bases** — cosa que **el mateix autor qualifica d'ampliació que
+  > cap text no autoritza**. Vegeu [una ampliació no autoritzada pels
+  > textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md).
+- **L'imprès original** —*Plan de reforma…*, Seu d'Urgell, 1866, 16 pàgines—.
+  `El corpus en té una transcripció de 1920, no l'edició.`
 
 ## Related
 
