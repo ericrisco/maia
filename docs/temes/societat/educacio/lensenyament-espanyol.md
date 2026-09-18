@@ -288,7 +288,34 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   878 alumnes d'infantil i primària no eren espanyols.** **Les dues xifres
   apunten igual i no són comparables directament**: **878 és només infantil i
   primària i 1.594 inclou l'ESO de la Margineda i el batxillerat d'Aixovall.**
-  **El que segueix `obert` és el desglossament per centre.**
+  ~~**El que segueix `obert` és el desglossament per centre.**~~ — **`resolt` el
+  18-09-2026**: **l'annex 4 de la ponència de Bastida** dona **els deu centres
+  del sistema espanyol públic un per un, per nacionalitat**
+  ([el mapa escolar del 2000](./el-mapa-escolar-del-2000.md#els-quaranta-centres-un-per-un-amb-la-nacionalitat-de-qui-hi-va)):
+
+  | Centre | And. | Esp. | Fr. | Port. | Altres | Total |
+  | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+  | **IEA-La Margineda** | 135 | **258** | — | **123** | 16 | **532** |
+  | Espanyol d'Encamp | 67 | 45 | 1 | 43 | 3 | 159 |
+  | Espanyol d'Escaldes | 38 | 76 | — | 43 | 5 | 162 |
+  | Espanyol d'Andorra | 70 | 82 | — | 40 | 8 | 200 |
+  | **IEA-Aixovall** | 66 | 99 | — | 15 | — | 180 |
+  | Espanyol de Sant Julià | 44 | 68 | — | 21 | 1 | 134 |
+  | Espanyol de La Massana | 18 | 45 | — | 48 | 3 | 114 |
+  | Espanyol del Pas de la Casa | 26 | 23 | 2 | 10 | 1 | 62 |
+  | Espanyol d'Ordino | 13 | 8 | — | 5 | 3 | 29 |
+  | **Espanyol de Canillo** | **1** | 10 | — | 10 | 1 | **22** |
+  | **Total** | **478** | **714** | **3** | **358** | **41** | **1.594** |
+
+  **I les dues fonts es comproven l'una a l'altra**: **les cinc columnes
+  d'aquests deu centres donen exactament 478 · 714 · 3 · 358 · 41 · 1.594**, que
+  són **les mateixes cinc xifres que Margarit i Monné publiquen per sistema**.
+  **Dues fonts independents, la mateixa xifra fins a l'alumne.**
+
+  **El que el desglossament afegeix**: **l'escola espanyola de Canillo té 22
+  alumnes i un de sol és andorrà** —**el 4,5%, el centre menys andorrà del
+  país**—, i **els dos IEA en concentren el 44,7% dels alumnes**, **amb el
+  portuguès com a segona nacionalitat a la Margineda (123 de 532).**
 - **Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.
 - **Tot això el 2026.**
 

@@ -326,11 +326,188 @@ estadístiques escolars 1999-2000.**
 pràcticament el mateix que l'Escola Andorrana (70,3 %)**; i **només tres de cada
 deu alumnes andorrans del país estudiaven al sistema andorrà.**
 
+## Els quaranta centres, un per un, amb la nacionalitat de qui hi va
+
+**L'annex 4 de la ponència és el quadre que aquesta fitxa declarava com a buit.**
+**S'ha renderitzat la pàgina 37 i s'ha transcrit sencer** (dades al **14 de
+juliol del 2000**).
+
+| Centre | Andorrana | Espanyola | Francesa | Portuguesa | Altres | Total |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Francès de Canillo | 32 | 4 | 14 | 12 | 4 | 66 |
+| Espanyol de Canillo | 1 | 10 | — | 10 | 1 | **22** |
+| Andorrana de Canillo | 26 | 10 | 5 | 1 | 4 | 46 |
+| Maternal francès d'Encamp | 38 | 5 | 10 | 11 | 8 | 72 |
+| Primari francès d'Encamp | 69 | 12 | 9 | 35 | 21 | 146 |
+| Espanyol d'Encamp | 67 | 45 | 1 | 43 | 3 | 159 |
+| Andorrana d'Encamp | 173 | 51 | 1 | 21 | 2 | 248 |
+| Francès del Pas de la Casa | 67 | — | 34 | 16 | 1 | 118 |
+| Espanyol del Pas de la Casa | 26 | 23 | 2 | 10 | 1 | 62 |
+| Andorrana del Pas de la Casa | 34 | 7 | 2 | 7 | — | 50 |
+| Francès d'Ordino | 54 | 15 | 21 | 8 | 3 | 101 |
+| Espanyol d'Ordino | 13 | 8 | — | 5 | 3 | 29 |
+| Maternal francès de La Massana | 39 | 11 | 12 | 27 | 1 | 90 |
+| Primari francès de La Massana | 50 | 10 | 11 | 40 | 6 | 117 |
+| Espanyol de La Massana | 18 | 45 | — | 48 | 3 | 114 |
+| Andorrana de La Massana | 141 | 60 | 6 | 6 | 6 | 219 |
+| Formació d'aprenents | 14 | 7 | — | 5 | — | 26 |
+| Maternal francès d'Andorra | 129 | 15 | 7 | 54 | 8 | 213 |
+| Primari francès d'Andorra | 186 | 52 | 20 | 87 | 19 | 364 |
+| Espanyol d'Andorra | 70 | 82 | — | 40 | 8 | 200 |
+| **Comte de Foix** | **813** | 165 | **174** | 223 | 71 | **1.446** |
+| **Sant Ermengol** | 527 | **249** | 2 | 8 | 11 | **797** |
+| Andorrana d'Andorra la Vella | 268 | 69 | — | 19 | 4 | 360 |
+| Francès de Santa Coloma | 36 | 13 | 5 | 14 | 11 | 79 |
+| **Janer** | **619** | 183 | — | 6 | 4 | **812** |
+| N. Sra. de Meritxell | 54 | 29 | — | 19 | 3 | 105 |
+| Andorrana 2a ens. de Sta. Coloma | 217 | 91 | — | 16 | 7 | 331 |
+| **IEA-La Margineda** | 135 | **258** | — | **123** | 16 | **532** |
+| Maternal francès de Sant Julià | 60 | 10 | 1 | 28 | 1 | 100 |
+| Primari francès de Sant Julià | 87 | 21 | 3 | 27 | 4 | 142 |
+| Espanyol de Sant Julià | 44 | 68 | — | 21 | 1 | 134 |
+| IEA-Aixovall | 66 | 99 | — | 15 | — | 180 |
+| Andorrana de Sant Julià | 172 | 36 | — | 1 | 2 | 211 |
+| Escola d'Informàtica | 30 | 19 | — | 1 | — | 50 |
+| Maternal francès d'Escaldes | 125 | 17 | 8 | 39 | 8 | 197 |
+| Primari francès d'Escaldes | 207 | 34 | 11 | 72 | 10 | 334 |
+| Espanyol d'Escaldes | 38 | 76 | — | 43 | 5 | 162 |
+| Sagrada Família | 182 | 116 | — | 23 | 9 | 330 |
+| Andorrana d'Escaldes | 354 | 61 | — | 39 | 15 | 469 |
+| Andorrana d'Escaldes de batxillerat | 63 | 18 | — | 2 | 2 | 85 |
+| **TOTALS** | **5.344** | **2.104** | **359** | **1.225** | **286** | **9.318** |
+
+`Comprovació del corpus: les quaranta files sumen exactament el seu total, les
+cinc columnes sumen exactament el seu, i el total general —9.318— és el mateix
+que la fitxa ja tenia per una altra via.`
+
+### El quadre reconcilia els centres amb els sistemes, i quadra a l'euro
+
+**Aquest annex no diu a quin sistema pertany cada centre. Sumant-los per grups i
+comparant-los amb l'annex 1, es dedueix, i cap suma no falla per un alumne:**
+
+| Sistema | Centres del quadre | Suma | Annex 1 |
+| --- | --- | ---: | ---: |
+| **Francès** | els 13 «francès/maternal/primari» **+ el Comte de Foix** | **3.585** | **3.585** |
+| **Escoles espanyoles** | els 8 «espanyol» **+ IEA-La Margineda i IEA-Aixovall** | **1.594** | **1.594** |
+| **Congregacionals** | **Sant Ermengol + Janer + Sagrada Família** | **1.939** | **1.939** |
+| **Andorrà** | els 9 «andorrana» **+ Formació d'aprenents + Escola d'Informàtica** | **2.095** | **2.095** |
+| **N. Sra. de Meritxell** | el centre d'educació especialitzada | **105** | **105** |
+
+**Dues coses que això resol i que quedaven obertes:**
+
+**Una.** **El Comte de Foix és del sistema francès**: sense ell, els centres
+francesos del quadre sumen 2.139, i amb ell, exactament els 3.585 de l'annex 1.
+
+**Dues.** **La Formació d'aprenents i l'Escola d'Informàtica són del sistema
+andorrà**, i **és el que fa que els nou centres «andorrana» —2.019— arribin als
+2.095.**
+
+### Tres lectures del quadre
+
+**Una: els francesos no van a l'escola francesa perquè siguin francesos.**
+**De 9.318 alumnes, 359 tenen nacionalitat francesa —el 3,9%—** i **el sistema
+francès n'escolaritza 3.585**. **El sistema francès d'Andorra és,
+majoritàriament, per a andorrans.**
+
+| Nacionalitat | Alumnes | % |
+| --- | ---: | ---: |
+| **Andorrana** | **5.344** | **57,4** |
+| Espanyola | 2.104 | 22,6 |
+| Portuguesa | 1.225 | 13,1 |
+| **Francesa** | **359** | **3,9** |
+| Altres | 286 | 3,1 |
+
+**Dues: en quinze dels quaranta centres els andorrans són minoria**, i **nou són
+escoles del sistema espanyol.** Els extrems:
+
+| Centre | Andorrans | % |
+| --- | --- | ---: |
+| **Espanyol de Canillo** | 1 de 22 | **4,5** |
+| Espanyol de La Massana | 18 de 114 | 15,8 |
+| Espanyol d'Escaldes | 38 de 162 | 23,5 |
+| IEA-La Margineda | 135 de 532 | 25,4 |
+| Espanyol de Sant Julià | 44 de 134 | 32,8 |
+
+**A l'altre extrem, el Janer té el 76% d'alumnes andorrans i l'Andorrana
+d'Escaldes el 75%.**
+
+**Tres: el Comte de Foix és el centre més gran del país** —**1.446 alumnes, el
+15,5% de tot l'alumnat**—, **i el segueixen dos col·legis congregacionals**:
+Janer (812) i Sant Ermengol (797). **Els tres primers centres del país són un
+liceu francès i dues escoles de l'Església.** Vegeu
+[l'ensenyament confessional](./lensenyament-confessional.md).
+
+**I el més petit és l'escola espanyola de Canillo, amb 22 alumnes**, **un dels
+quals és andorrà.**
+
+## Vint-i-tres anys d'alumnat, sistema per sistema
+
+**L'annex 1 del mateix volum porta la sèrie sencera del 1977/1978 al 1999/2000**
+—font declarada: **Recull anual estadístic del ministeri d'Educació, Joventut i
+Esports**—. **El corpus no la tenia.**
+
+| Curs | Francès | Esc. espanyoles | Congregacionals | Andorrà | Meritxell | Total |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1977/1978 | 2.634 | 2.042 | 1.277 | 0 | 0 | **5.953** |
+| 1978/1979 | 2.746 | 2.108 | 1.397 | 0 | 0 | 6.251 |
+| 1979/1980 | 2.961 | 2.346 | 1.538 | 0 | 0 | 6.845 |
+| 1980/1981 | 3.056 | 2.636 | 1.666 | 0 | 0 | 7.358 |
+| 1981/1982 | 3.119 | 2.853 | 1.668 | 0 | 0 | 7.640 |
+| **1982/1983** | 3.313 | 2.799 | 1.924 | **38** | **49** | 8.123 |
+| 1983/1984 | 3.352 | 3.044 | 1.823 | 82 | 47 | 8.348 |
+| **1984/1985** | 3.456 | **3.145** | 1.908 | 176 | 46 | 8.731 |
+| 1985/1986 | 3.510 | 3.133 | 1.829 | 248 | 50 | 8.770 |
+| 1986/1987 | 3.503 | 3.114 | 1.846 | 335 | 47 | 8.845 |
+| 1987/1988 | 3.437 | 3.102 | 1.840 | 377 | 50 | 8.806 |
+| 1988/1989 | 3.524 | 3.094 | 1.828 | 457 | 55 | 8.958 |
+| 1989/1990 | 3.490 | 2.948 | 1.803 | 577 | 56 | 8.874 |
+| 1990/1991 | 3.533 | 2.922 | 1.781 | 681 | 66 | 8.983 |
+| 1991/1992 | 3.625 | 2.895 | 1.776 | 835 | 68 | 9.199 |
+| 1992/1993 | 3.653 | 2.761 | 1.829 | 959 | 72 | 9.274 |
+| 1993/1994 | 3.633 | 2.539 | 1.804 | 1.129 | 101 | 9.206 |
+| 1994/1995 | 3.610 | 2.343 | 1.807 | 1.285 | 68 | 9.113 |
+| 1995/1996 | 3.579 | 2.121 | 1.739 | 1.481 | 60 | 8.980 |
+| 1996/1997 | 3.626 | 1.994 | 1.796 | 1.710 | 74 | 9.200 |
+| **1997/1998** | **3.662** | 1.857 | 1.864 | 1.829 | 87 | 9.299 |
+| 1998/1999 | 3.596 | 1.717 | 1.935 | 1.917 | **113** | 9.278 |
+| **1999/2000** | 3.585 | **1.594** | **1.939** | **2.095** | 105 | **9.318** |
+
+`Comprovació del corpus: les vint-i-tres files sumen exactament el seu total.`
+
+**Quatre coses que la sèrie ensenya i que el relat habitual no diu:**
+
+**Una. El sistema francès no perd alumnes: n'estabilitza.** **Del 1977 al 2000
+passa de 2.634 a 3.585 —un 36% més—** i **la seva quota es manté entre el 38,5%
+i el 44,2% durant vint-i-tres anys**, amb **deu cursos seguits clavada al
+39,4%.** **El que cau no és el francès: és l'espanyol.**
+
+**Dues. L'escola espanyola estatal es parteix per la meitat.** **Màxim 3.145 el
+1984/1985**, **1.594 el 1999/2000**: **−49,3% en quinze anys.** **I no arrossega
+les congregacionals**, que **el mateix període pugen de 1.908 a 1.939** i marquen
+el seu màxim justament el darrer curs de la sèrie.
+
+**Tres. El sistema andorrà passa de zero a 2.095 en divuit cursos.** Comença el
+**1982/1983 amb 38 alumnes**. **El 1998/1999 supera les escoles espanyoles**
+(1.917 contra 1.717) i **el 1999/2000 supera també les congregacionals** (2.095
+contra 1.939): **en dos cursos passa de quart a segon.**
+
+**Quatre. El 1999/2000 és el primer curs en què el sistema espanyol sencer
+—escoles estatals més congregacionals, 3.533— queda per sota del francès
+(3.585).** **Vint-i-tres anys abans n'hi treia 685 d'avantatge.**
+
+`El que la sèrie no diu: quants d'aquests alumnes són andorrans de nacionalitat
+any per any. Això només hi és per al 1999/2000, a l'annex 4.`
+
 ## Buits registrats
 
 - **Tot això el 2026.** Aquesta fitxa és del 2000. **Buit prioritari.**
-- **Les xifres d'alumnat per centre**: la font en dona quadres que el corpus no
-  ha pogut extreure del PDF.
+- ~~**Les xifres d'alumnat per centre**: la font en dona quadres que el corpus
+  no ha pogut extreure del PDF.~~ — **`resolt` el 18-09-2026**: **l'annex 4
+  transcrit sencer, quaranta centres per cinc nacionalitats**, i **l'annex 1, la
+  sèrie 1977/1978-1999/2000**. Totes dues comprovades fila a fila i columna a
+  columna. Vegeu
+  [Els quaranta centres](#els-quaranta-centres-un-per-un-amb-la-nacionalitat-de-qui-hi-va)
+  i [Vint-i-tres anys d'alumnat](#vint-i-tres-anys-dalumnat-sistema-per-sistema).
 - **Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.**
 > **Auditats el 2026-09-14 contra la resta del corpus.** **Tres dels set eren
 > buits caducats**: **el corpus els havia tancat en altres articles de la
