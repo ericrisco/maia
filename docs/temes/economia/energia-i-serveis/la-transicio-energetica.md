@@ -156,6 +156,99 @@ sobre la producció nacional i emissions del transport intern— **segueixen sen
 mesura al corpus**: cap nota d'Estadística no les publica, i l'inventari
 d'emissions que el capítol quart encarrega no s'ha localitzat.
 
+## Trenta-tres anys de consum d'energia, i una tercera fita que ara es pot mesurar
+
+> **Afegit el 18-09-2026** amb la sèrie mensual de consum d'energia en TEP de
+> l'API del Departament d'Estadística
+> (`docs/raw/estadistica-api/turisme-vehicles-energia/`, **CC BY 4.0**),
+> **des del gener del 1993**, **per set fonts d'energia**.
+
+### La corba
+
+| Any | TEP |
+| --- | ---: |
+| 1993 | 170.098 |
+| **1994** | **168.913** — *el mínim de la sèrie* |
+| 2000 | 220.696 |
+| **2005** | **249.236** — *el màxim* |
+| 2010 | 231.926 |
+| 2015 | 211.066 |
+| 2019 | 218.221 |
+| **2020** | **173.891** |
+| 2024 | 199.389 |
+| **2025** | **201.348** |
+
+**Andorra consumeix avui menys energia que el 2005 i un 18,4% més que el 1993.**
+**El màxim és del 2005 i no s'hi ha tornat**: **vint anys després el país
+consumeix un 19,2% menys d'energia** amb **una economia nominal molt més gran**.
+
+**El 2020 és el mínim des del 1996** —173.891 TEP, un **−20,3%** sobre el 2019— i
+**la recuperació s'atura**: **199.389 el 2024 i 201.348 el 2025**, **un 7,8% per
+sota del 2019.**
+
+### Què s'hi crema, i què ha deixat de cremar-s'hi
+
+| TEP | 1993 | 2010 | **2025** | |
+| --- | ---: | ---: | ---: | --- |
+| **Electricitat** | 26.160 | 50.240 | **50.079** | **+91,4%** des del 1993 |
+| **Gasoil de locomoció** | 51.525 | 93.513 | **74.456** | +44,5% |
+| **Gasolina** | 45.924 | 23.253 | **32.268** | **−29,7%** |
+| **Fuel domèstic** | 43.765 | 62.265 | **42.231** | −3,5% |
+| **Butà** | 1.158 | 511 | **280** | **−75,8%** |
+| Propà | 1.556 | 2.221 | 1.931 | +24,1% |
+| Carbó | 8 | 22 | 101 | — |
+
+**Tres coses.**
+
+**La primera: l'electricitat gairebé es dobla i tota la resta o baixa o s'estanca.**
+**El 1993 era el 15,4% de l'energia del país; el 2025 és el 24,9%.**
+**L'electrificació que la fitxa descrivia amb dotze mesos de dades té
+trenta-tres anys de sèrie al darrere.**
+
+**La segona: la gasolina i el gasoil no fan el mateix.** **La gasolina cau fins
+al 2010 i des d'aleshores torna a pujar** —de 23.253 a 32.268—, **mentre el
+gasoil de locomoció fa el contrari**: **puja fins al 2019 i cau un 21,6% des
+d'aleshores.** `El corpus no ho explica. Coincideix amb el gir europeu contra el
+dièsel i amb la caiguda de visitants, i la font no permet separar consum
+andorrà de consum de qui hi ve a repostar.`
+
+**I la tercera: el butà s'ha acabat.** **De 1.158 TEP el 1993 a 280 el 2025.**
+**Una bombona és una manera de viure i el país l'ha deixat de fer servir.**
+
+### La intensitat energètica, mesurada
+
+**La llei fixa reduir la intensitat energètica nacional un 20% sobre el 2010 per
+al 2030 i un 30% per al 2050**, i **el corpus havia escrit que aquesta fita no
+tenia mesura publicada.** **Ara en té**, creuant la sèrie de TEP amb el PIB
+nominal (`docs/raw/estadistica-api/pib/`):
+
+| Any | TEP | PIB nominal | **TEP per milió d'euros** |
+| --- | ---: | ---: | ---: |
+| **2010** | 231.926 | 2.602 M€ | **89,1** |
+| 2015 | 211.066 | 2.515 M€ | 83,9 |
+| 2019 | 218.221 | 2.818 M€ | 77,4 |
+| 2020 | 173.891 | 2.531 M€ | 68,7 |
+| **2024** | 199.389 | 3.736 M€ | **53,4** |
+
+**El càlcul es valida sol**: **el 2010 dona 89,1 TEP/M€** i **l'article 3.u de la
+llei declara 89**. **La xifra del corpus i la de la llei coincideixen a la
+dècima.**
+
+**I la fita del 2030 ja està complerta, catorze anys abans.** **De 89,1 a 53,4
+hi ha un −40,1%**, quan **la llei en demanava un 20% per al 2030 i un 30% per
+al 2050.**
+
+> **Dues precaucions, i decideixen què val aquesta conclusió.** **La llei parla
+> de «intensitat energètica nacional» i no en publica la fórmula**: el corpus fa
+> TEP totals dividits per PIB nominal **perquè és l'única lectura que reprodueix
+> la xifra que la llei dona per al 2010**. **I una intensitat en euros nominals
+> baixa sola quan hi ha inflació**: **del 2010 al 2024 el PIB nominal puja un
+> 43,6% i els preus un 26,3%** —índex general base 2021, desembre a desembre—
+> ([l'IPC](../comerc/el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md)),
+> **de manera que una part de la millora és de preus i no d'eficiència.**
+> `Amb PIB real la llei dona 115 TEP/M€ el 2010 i el corpus no ha refet el
+> càlcul en real: la sèrie de PIB real hi és i el deflactor, no.`
+
 ## Buits registrats
 
 - **On és Andorra avui respecte d'aquests objectius**, el corpus no ho sap. —
