@@ -119,7 +119,8 @@ pròpia cobertura sanitària.**
 
 ## El que falta
 
-- **La data exacta de la visita.** **La font dona l'any i prou.**
+- ~~**La data exacta de la visita.**~~ — **`parcial` el 2026-09-18**: el corpus
+  pot fixar **l'any 1967**, però **la font no dona el dia ni el mes**.
 - **El text dels dos discursos.** **Font primària no consultada.**
 - **Per quina via** es prohibeix el sufragi universal masculí el 1941.
 - **Si les revocacions del Consell General són una o dues** — 1945, 1967, o

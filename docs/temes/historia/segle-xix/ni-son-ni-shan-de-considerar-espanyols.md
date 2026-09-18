@@ -197,9 +197,10 @@ atrás»** i s'hi notarà **«una enorme diferencia en sentido negativo»**.
    **data, noms dels càrrecs, durada i com va acabar.** **Prioritari**: **és una
    detenció de membres d'una assemblea per ordre d'un cap d'estat**, i **el corpus
    només en té aquesta línia.**
-4. **El procés obert pel veguer francès**, **el procediment excepcional que hi va
-   aplicar** i **la sentència**. **La font en dona el resultat —multa i curt
-   desterrament— i cap data ni text.** **Prioritari.**
+4. ~~**El procés obert pel veguer francès**, **el procediment excepcional que hi
+   va aplicar** i **la sentència**.~~ — **`parcial` el 2026-09-18**: la font en dona
+   el resultat —**multa i curt desterrament**—, però **no la data, el procediment
+   ni el text de la sentència**.
 5. **Quan es va restablir la jurisdicció episcopal** i **si es va nomenar mai el
    veguer interí** que el Consell demanava.
 6. **Si Roma va respondre** a la petició de considerar els bisbes «prácticamente

@@ -158,9 +158,10 @@ raó sinó sobre quin dels tres patrimonis paga.**
 1. **El text de l'*agermanament* del formulari modern** que Brutails llegeix. **La
    definició que en dona és una inferència seva** —«si j'en juge»— **sobre una
    sola peça.**
-2. **Quan deixa de fer-se l'*agermanament* com a comunitat universal** i **quan
-   passa a voler dir donació entre esposos sense fills.** **La font dona els dos
-   sentits i cap data de transició.**
+2. ~~**Quan deixa de fer-se l'*agermanament* com a comunitat universal** i **quan
+   passa a voler dir donació entre esposos sense fills.**~~ — **`parcial` el
+   2026-09-18**: la font documenta **els dos sentits**, però **no dona cap data de
+   transició** entre l'un i l'altre.
 3. ~~**Si *associament* i *agermanament* eren sinònims el 1904** o **dues figures
    distintes.** La font diu «se'n diu també» i **no els separa.**
    **Estret el 2026-09-15, no tancat.** **El corpus ja té l'instrument**: la

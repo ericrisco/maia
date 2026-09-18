@@ -327,8 +327,10 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
    **quants dies, a qui obligava i com es commutava.**
 8. **La xifra de 6.000 habitants** i **la proporció que vivia fora dels burgs**.
    **La font no dona font.** `El corpus té sèries de població per contrastar.`
-9. **Des de quan «el partit francès» guanyava sempre**, i **què vol dir això en un
-   sistema sense partits.** **La font dona 1887 i cap resultat.**
+9. ~~**Des de quan «el partit francès» guanyava sempre**, i **què vol dir això en
+   un sistema sense partits.**~~ — **`parcial` el 2026-09-18**: la font fixa **1887**
+   com l'any des del qual ho afirma, però **no dona resultats electorals ni
+   explica què vol dir «partit»** en aquell sistema.
 10. **Si l'exclusió dels impedits i dels embriacs era de la Reforma o del costum
     anterior.** **La font no ho separa.**
 
