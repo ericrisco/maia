@@ -90,9 +90,15 @@ interpretació que n'adopti**.
 
 ## Buits registrats
 
-- **Els llibres 1 i 3-7 no són al corpus.** El 3 (*l'aménagement actuel du
+- ~~**Els llibres 1 i 3-7 no són al corpus.** El 3 (*l'aménagement actuel du
   territoire*) i el 4 (*les risques naturels*) són els que més hi lligarien:
-  el 4 conté el capítol d'allaus que aquesta mateixa obra remet.
+  el 4 conté el capítol d'allaus que aquesta mateixa obra remet.~~ —
+  **`parcial` el 19-09-2026**: el volum **Le risque d'avalanche en Andorre**
+  (2014), ja incorporat al corpus, declara que les seves bases són **una part
+  del llibre 4 inèdit** de la tesi ([fitxa](./becat-risque-avalanche-2014.md);
+  [nota de procedència](../raw/allaus/becat-risque-avalanche-2014.txt)). Això
+  cobreix parcialment el llibre 4; els llibres 1, 3, 5, 6 i 7, i la resta del
+  llibre 4, segueixen sense ser al corpus.
 - **L'URL no consta.** La procedència del fitxer ve de sessions anteriors.
 - **Del llibre 2, s'han llegit el sumari sencer, el capítol 4.1 (els quarts),
   3.1 sencer (la casa i el seu aparell jurídic, amb la carta de gràcia, els
@@ -108,6 +114,9 @@ interpretació que n'adopti**.
   l'organització de l'espai)** i **els cinc annexos**, entre els quals **les
   demandes de comunals a Canillo del 1874-1893** i **els cortons i herbes de
   Canillo**.
-- **L'obra remet al seu propi llibre 4** per al capítol d'allaus, que el corpus
+- ~~**L'obra remet al seu propi llibre 4** per al capítol d'allaus, que el corpus
   necessita i no té — vegeu
-  [dos blaus diferents als mapes d'allaus](../temes/territori/clima-i-muntanya/dos-blaus-diferents-als-mapes-dallaus.md).
+  [dos blaus diferents als mapes d'allaus](../temes/territori/clima-i-muntanya/dos-blaus-diferents-als-mapes-dallaus.md).~~ —
+  **`parcial` el 19-09-2026**: la publicació de 2014 n'ofereix una part i ja
+  permet consultar el risc d'allaus i la cartografia de 1971–1996; no és el
+  llibre 4 complet ni substitueix les seves seccions de gestió territorial.
