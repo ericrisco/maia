@@ -381,10 +381,39 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    **1 dobla = 5,6 lliures = 112 sous.** **És un sol lloc i no fa sèrie**, i
    **no s'ha creuat amb les files del doble d'or de la taula de la pàgina 20**,
    que està mal extreta.
-9. **No consta què és un `moins` de civada.** El Politar diu que **el batlle del
-   príncep francès cobrava «la quantitat de ….. moins de cibada»** i **la xifra
-   és en blanc**. **El mot no surt enlloc més del corpus** i **no és a cap
-   taula d'aquesta fitxa.**
+9. **Què és un `moins` de civada.** — **`parcial` el 18-09-2026, amb una
+   identificació que el corpus proposa i no dona per feta.** **El
+   [DCVB](../../../fonts/dcvb.md) té `MUIG`** —**«m. ant. Mesura de capacitat per
+   a líquids i àrids, molt gran, car passava de dos quintars»**, **del llatí
+   `modius`**—, i **la primera atestació que el diccionari en dona és exactament
+   aquesta collocació**: **«Cinc-cents *muigs* de civada», Desclot,
+   *Crònica*, c. 15.**
+
+   **Les grafies antigues que el DCVB recull són `mug`, `muyg` i `muig`** (1252,
+   1283, Costums de Tortosa), i **un `moigs`/`moys` andorrà del segle XVIII hi
+   cauria a sobre.** **La hipòtesi és, doncs, que `moins` és una lectura de
+   `moigs`** —i que **el batlle francès cobrava el seu dret en una mesura de gra,
+   no en moneda**, cosa que **encaixa amb tot el capítol**: en aquest text els
+   drets d'ofici es paguen en espècie.
+
+   **I la pàgina impresa ja s'ha mirat, de manera que una explicació queda
+   descartada.** **El render a 500 ppp de la pàgina CIV de Brutails**
+   (`docs/raw/llibres/brutails-pages/p124-124.png`) **diu, sense cap ambigüitat
+   tipogràfica, «.... moins de cibada»**. **No és un error d'OCR: és el que
+   Brutails va imprimir.** **I `moins` no és cap mot català** —en francès vol dir
+   'menys', cosa que aquí no té sentit—, **de manera que l'error, si n'hi ha, és
+   de lectura del manuscrit per part de Brutails mateix**, un francès transcrivint
+   una lletra andorrana del segle XVIII.
+
+   **El paral·lel de la mateixa frase ho acaba d'emmarcar**: **«lo Senyor Bisbe
+   pague a son Batlle 3 *cargues* de blat»** i **«lo Batlle del Princep de Fransa
+   cobre … la quantitat de …. *moins* de cibada»**. **Dos batlles, dos grans, dues
+   mesures de capacitat**; **una és `càrrega` i l'altra hauria de ser-ne una
+   altra.**
+
+   `El que segueix obert: quina grafia porta el manuscrit del Politar. Requereix
+   el manuscrit, no l'edició de 1904. I la quantitat és en blanc a la font
+   mateixa, de manera que encara que el mot quedés fixat, la xifra no hi seria.`
 10. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
     d'Andorra el 1662.
 

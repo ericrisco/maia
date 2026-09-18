@@ -283,8 +283,21 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
    ja n'acumula una vintena de citacions sense llegir.** **Prioritari.**
 8. **El manuscrit de M. Palmitjavila** sobre les penes trencades. **Continua sent
    la pista de prioritat màxima del corpus en aquest llibre.**
-9. **L'execució sobre la persona del deutor**, que Palmitjavila preveu quan no hi
-   ha béns. **El corpus no en té res.**
+9. ~~**L'execució sobre la persona del deutor**, que Palmitjavila preveu quan no
+   hi ha béns. **El corpus no en té res.**~~ — **`resolt` el 18-09-2026**: **sí
+   que en té, i en té la regla i el seu límit.** **El *Politar*, a la pàgina CIV
+   de Brutails**, mana que **«per ninguna causa civil posara en preso ni arrest a
+   ningu, per que contravindrien a un gran privilegi de estas Valls»**, **menys
+   «en los deutes de composicions de les Corts per delictes, y altres reals y
+   fiscals»**, i **només en aquests val a Andorra la regla «*Qui non habet in re,
+   luat in corpore*»** —qui no té en la cosa, que ho pagui amb el cos—, **«essent
+   ayxi que en tot lo demes en ellas no te lloch»**.
+
+   **Per deutes privats, doncs, no**; **per deutes de composicions criminals de
+   les Corts i per deutes reials i fiscals, sí.** Vegeu
+   [Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md) i
+   [Dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md).
+   `El que segueix obert és quin privilegi de les Valls és el que s'invoca.`
 10. **Les Corts de 1475** senceres, **i què vol dir que d'una pena de 25 lliures
     el condemnat «*se appella, e no segui la appellatio. **Defunctus est**»* —**si
     la mort del condemnat extingia la pena o si es cobrava dels hereus.**
