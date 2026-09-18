@@ -274,8 +274,30 @@ feia alguna cosa:**
    considerar-se com a»— i no d'invocació.** **Segueix obert si la
    inembargabilitat dels aliments existia com a categoria jurídica andorrana.**
    **Vegeu** [«per considerar-se com a pensió alimentícia»](../../economia/banca-i-fiscalitat/per-considerarse-com-a-pencio-alimenticia.md).
-6. **El *Politar*, pp. 220 i 231**, amb **l'aranzel dels drets dels batlles** i
-   **la regla dels dos anys que fa vacants els béns embargats.**
+6. ~~**El *Politar*, pp. 220 i 231**, amb **l'aranzel dels drets dels batlles** i
+   **la regla dels dos anys que fa vacants els béns embargats.**~~ — **`resolt`
+   el 18-09-2026 per a la p. 231; l'aranzel, amb una troballa incòmoda.**
+
+   **La regla dels dos anys hi és, literal i sense condicions**:
+
+   > «Item, **per quant al cap de dos anys totas las pinyoras deuhen ser
+   > redimides, o altrament se judiquen bens vacants**.»
+
+   **Dos anys per redimir la penyora; passats, el bé es declara vacant.**
+
+   **I l'aranzel hi és, però buit.** **La tarifa de les penyores està
+   desglossada cap per cap i concepte per concepte** —**entrada del bestiar
+   major** (cavalls, egües, matxos, mules, bous, ases, porcs), **sortida si no es
+   ven**, **custòdia per dia i per cap**, i el mateix per al **bestiar menor**,
+   més **el quart diner del porter si es ven en encant públic** i **la despesa
+   del guarda, amb la part lliure de fer-li la despesa ella mateixa si vol**—
+   **i de tots aquests conceptes només un porta xifra**: **la custòdia de bestiar
+   menor, 2 diners per cap i per dia.** **Tota la resta són punts suspensius.**
+
+   **És el mateix fenomen que el corpus ja té documentat a la casa**: **el
+   Politar deixa en blanc el que no sap o el que no vol fixar** ([El Politar
+   andorrà, llegit](../../historia/manual-digest/el-politar.md)). `L'aranzel
+   existeix com a estructura i no com a preus. La p. 220 segueix per llegir.`
 7. **Si els nou dies corren des de la primera o de la segona fórmula.** **La font
    no ho precisa.**
 8. **Quan els *nuncis* van començar a escriure en lloc de comparèixer**, **i si

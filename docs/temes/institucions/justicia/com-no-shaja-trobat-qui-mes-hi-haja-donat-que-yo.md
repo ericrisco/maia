@@ -224,9 +224,30 @@ segle XVII** ([abrogats el 1839](./abrogats-el-1839-aplicats-el-1889.md)).
 8. **Si la sentència de les Corts del 15 de novembre de 1533 fixa un ordre de
    graduació**: diu «*juxta quantitatem et qualitatem debitorum*», **que el
    corpus no tradueix com a regla sense veure l'acte.**
-9. **El *Politar*, p. 213**, **citat dues vegades en aquestes pàgines** i **encara
-   no llegit** —**la mateixa pàgina que nega el retracte en vendes judicials de
-   mobles i bestiar.**
+9. ~~**El *Politar*, p. 213**, **citat dues vegades en aquestes pàgines** i
+   **encara no llegit**.~~ — **`resolt` el 18-09-2026, i la regla és a la 214, no
+   a la 213.**
+
+   **La 213 dona el calendari de l'execució**: expirades les lletres d'apel·lació,
+   el batlle **penyora els béns**, **els lliura dins de tres dies** i **els
+   subhasta «dins lo espay o termini de un mes»**, «que tot hom ho sapia». **I
+   afegeix que, un cop començada l'execució, el batlle refusa les lletres
+   d'apel·lació** i que, si el requesten, **ha de posar les raons per escrit al
+   peu de la requesta**. **La frase final val per ella mateixa**: «*las requestas
+   sols deuhen espantar a aquells que **van poch fundats en ses operacions***».
+
+   **I la 214 dona el retracte, amb el termini i l'excepció**:
+
+   > «**quedie a la persona cuyos son los bens executats lo temps y espay de un
+   > any y un dia pera recobrarlos**, retornant als possessors aquella quantitat
+   > que per ells hauran pagat; **pero no en los cabals y immobles (sic),
+   > losquals, entregada la poscessio, jamay se tornen a recobrar**.»
+
+   **Un any i un dia per recobrar, tornant el preu pagat**, i **l'excepció deixa
+   fora el bestiar.** **El «(sic)» és de Brutails**, que marca que l'original diu
+   *immobles* on el sentit demana *mobles*; **el corpus el conserva i no el
+   corregeix.** `Queda registrat que aquí el text imprès i el sentit no
+   coincideixen, i que el corpus no arbitra.`
 10. **Esmein, *Formation des contrats*, pp. 151 i 153 i següents**, que la font
     invoca per dir que **al vell dret germànic el creditor tenia presa sobre els
     mobles i **sobre la persona** del deutor, i no sobre els immobles.**
