@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **242** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **243** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1695,6 +1695,7 @@
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`apapma-org-timeline`](fonts/apapma-org-timeline.md) | APAPMA | publicació institucional, sense llicència declarada | pendent |
 | [`apapma-registre-andorralavella`](fonts/apapma-registre-andorralavella.md) | Comú d'Andorra la Vella | publicació institucional, sense llicència declarada | pendent |
+| [`ara-ribas-reig-onu-1993`](fonts/ara-ribas-reig-onu-1993.md) | Grup Henneo · Ara.cat | premsa, drets reservats; citació breu | False |
 | [`ari-capsules`](fonts/ari-capsules.md) | Andorra Recerca + Innovació (AR+I) | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube de cada peça. Verificada a 5 peces (#34, #56, #57, #60, #65) el 2026-09-13; no verificada a la resta. | si |
 | [`arinsal-furdada-2020`](fonts/arinsal-furdada-2020.md) | Glòria Furdada, Aina Margalef, Laura Trapero, Marc Pons, Francesc Areny, Margaret Baró, Albert Reyes i Marta Guinau | CC BY 4.0; declaració explícita al PDF p. 26 | sí, sota les condicions CC BY 4.0 de l'article; no extensió automàtica a les fonts externes |
 | [`arinsal-issw-1996`](fonts/arinsal-issw-1996.md) | Mohamed Naaim, Gérard Brugnot i Jean Claude Charry, autors; drets no aclarits | pendent | pendent |

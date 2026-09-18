@@ -566,8 +566,15 @@ precisament el que Joan Massa advertia al mateix volum.
    haver sentit d'«elements oficials» té cap més rastre. **Delicat: és
    testimoni d'una sola persona.**
 2. **V Columna** i el rock andorrà dels anys noranta. **Buit nou.**
-3. **El discurs del cap de Govern a l'ONU**: el text, i si hi va citar Llull,
-   Ausiàs March i Espriu com diu Marquet.
+3. ~~**El discurs del cap de Govern a l'ONU**: el text, i si hi va citar
+   Llull, Ausiàs March i Espriu com diu Marquet.~~ — **`resolt` el
+   18-09-2026**: **sí**. **Òscar Ribas Reig**, el **28-7-1993**, mateix dia
+   de l'admissió d'Andorra a l'ONU: «És en la llengua de **Ramon Llull,
+   Ausiàs March i Salvador Espriu** […] que he vingut davant aquesta
+   Assemblea a parlar de **pau, llibertat i fraternitat**»
+   ([font](../../../fonts/ara-ribas-reig-onu-1993.md)). **Primer discurs
+   oficial en català a l'ONU** — Pau Casals l'havia usat el 1971, en acte no
+   oficial.
 4. **Les dides andorranes a França.** Exportació de treball de cura, sense cap
    fitxa al corpus.
 5. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
