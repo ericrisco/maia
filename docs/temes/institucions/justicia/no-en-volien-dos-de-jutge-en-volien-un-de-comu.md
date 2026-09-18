@@ -284,8 +284,28 @@ fet:**
    > no és una teoria del Pariatge, és el remei d'avaria del sistema**, i **el
    > Politar el justifica per l'ús, no pel text.** `El que segueix obert és la
    > p. 186 i el passatge del Manual Digest.`
-7. **El manuscrit del senyor Palmitjavila**, **que aquí posa un límit temporal als
-   suplents que cap altra font no posa.** **Segueix sense identificar ni datar.**
+7. ~~**El manuscrit del senyor Palmitjavila** , **que aquí posa un límit temporal als suplents que cap altra font no posa**, i **sense
+   identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
+   identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
+   **És un recull d'usos locals que el senyor Palmitjavila pare va deixar a
+   Brutails**; **comença amb una petició del Consell General al Veguer**, a qui
+   el Consell presenta el treball tret «dels privilegis i dels expedients
+   judicials»; i **Brutails el qualifica de «l'un des documents les plus
+   precieux que j'aie eus en mains au cours de cette enquête»**
+   ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)).
+
+   **La data, tan lluny com la font permet**: **no pot ser anterior a 1607** —hi
+   surten les *dobles* i la *duena*, organitzada per decret de l'1 de febrer de
+   1607, i el règim de vendes judicials sembla el de les Corts de 1608—;
+   **descriu un dret més antic que el del Politar**; i **«semble remonter au
+   XVIIe siècle»**. `Divergència registrada i no arbitrada: una nota del mateix
+   llibre atribueix un manuscrit de Palmitjavila al segle XVI, i no consta si són
+   el mateix.`
+
+   **I n'hi ha extracte publicat i llegit**: **peça justificativa XXVII, pp.
+   LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
+   `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
+   la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
 8. **Els documents de 1533, 1599, 1601, 1608 i 1696** sencers, i **si alguna
    d'aquelles protestes va tenir mai efecte.**
 9. **Quan i per què el Jutge va deixar de conèixer en primera instància.** **La

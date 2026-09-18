@@ -255,9 +255,28 @@ sencera:**
    la tercera**, ans be son **repellits** per los que restan»**. **És el mateix
    principi que dona nom a aquesta fitxa**: **a Andorra les instàncies es perden
    per falta de gent neta, no per falta de graus.**
-4. **El manuscrit del senyor Palmitjavila** — **cinquena tanda seguida**, i aquí
-   és l'única font que diu «*tots los vint i quatre de Concell*». **Sense
-   identificar ni datar.** **Prioritari per acumulació.**
+4. ~~**El manuscrit del senyor Palmitjavila** —**cinquena tanda seguida**, i aquí l'única font que diu «*tots los vint i quatre de Concell*»—, **sense
+   identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
+   identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
+   **És un recull d'usos locals que el senyor Palmitjavila pare va deixar a
+   Brutails**; **comença amb una petició del Consell General al Veguer**, a qui
+   el Consell presenta el treball tret «dels privilegis i dels expedients
+   judicials»; i **Brutails el qualifica de «l'un des documents les plus
+   precieux que j'aie eus en mains au cours de cette enquête»**
+   ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)).
+
+   **La data, tan lluny com la font permet**: **no pot ser anterior a 1607** —hi
+   surten les *dobles* i la *duena*, organitzada per decret de l'1 de febrer de
+   1607, i el règim de vendes judicials sembla el de les Corts de 1608—;
+   **descriu un dret més antic que el del Politar**; i **«semble remonter au
+   XVIIe siècle»**. `Divergència registrada i no arbitrada: una nota del mateix
+   llibre atribueix un manuscrit de Palmitjavila al segle XVI, i no consta si són
+   el mateix.`
+
+   **I n'hi ha extracte publicat i llegit**: **peça justificativa XXVII, pp.
+   LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
+   `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
+   la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
 5. **El cas «de fa quinze o vint anys»** en què un tribunal de visura va fer
    servir els títols escrits **com a pretext** per passar l'afer al batlle.
    **Sense data ni parts.**

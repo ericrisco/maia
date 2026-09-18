@@ -354,8 +354,28 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
    fonament que el Politar hi posa és de consciència**: «*en conciencia te
    obligacio de consultar allo que no alcansa*». `Les altres pàgines citades
    segueixen sense llegir, i ara se sap que totes són dins l'extracte.`
-4. **El manuscrit del senyor Palmitjavila**, citat aquí per una regla que el
-   costum viu desmentia. **Ni identificat ni datat al corpus.**
+4. ~~**El manuscrit del senyor Palmitjavila** , citat aquí per una regla que el costum viu desmentia, i **sense
+   identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
+   identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
+   **És un recull d'usos locals que el senyor Palmitjavila pare va deixar a
+   Brutails**; **comença amb una petició del Consell General al Veguer**, a qui
+   el Consell presenta el treball tret «dels privilegis i dels expedients
+   judicials»; i **Brutails el qualifica de «l'un des documents les plus
+   precieux que j'aie eus en mains au cours de cette enquête»**
+   ([els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md)).
+
+   **La data, tan lluny com la font permet**: **no pot ser anterior a 1607** —hi
+   surten les *dobles* i la *duena*, organitzada per decret de l'1 de febrer de
+   1607, i el règim de vendes judicials sembla el de les Corts de 1608—;
+   **descriu un dret més antic que el del Politar**; i **«semble remonter au
+   XVIIe siècle»**. `Divergència registrada i no arbitrada: una nota del mateix
+   llibre atribueix un manuscrit de Palmitjavila al segle XVI, i no consta si són
+   el mateix.`
+
+   **I n'hi ha extracte publicat i llegit**: **peça justificativa XXVII, pp.
+   LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
+   `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
+   la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
 5. **El memòria de 1767**, *Archives des Pyrénées-Orientales, C 1282*, i **el
    procediment de la lligalla del notari Soldevila de 1783** que la font dona com
    a cas extrem.
