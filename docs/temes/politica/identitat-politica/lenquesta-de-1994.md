@@ -182,8 +182,9 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 1. ~~**Les vint respostes no llegides.**~~ **TANCAT: les vint-i-dues estan
    buidades** a [les respostes de 1994](./les-respostes-de-1994.md).
 2. **De qui és la frase «Andorra és un Estat, però no una nació».**
-3. **Qui eren els seixanta.** Valls diu que **els qui no van respondre queden
-   «forçosament en l'anonimat»**: la llista d'enviaments no es publica.
+3. ~~**Qui eren els seixanta.**~~ — **`no-es-buit`**: Valls diu que **els qui
+   no van respondre queden «forçosament en l'anonimat»** i la llista d'enviaments
+   no es publica.
 4. **Si s'ha repetit mai.** El corpus **no coneix cap enquesta andorrana
    posterior sobre identitat**. Si no n'hi ha, **aquesta és l'única sèrie que
    existeix i té un sol punt**.
