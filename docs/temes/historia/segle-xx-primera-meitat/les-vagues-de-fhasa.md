@@ -34,6 +34,15 @@ laborals sense cap arbitratge.**
 **No hi havia estat que fes d'àrbitre.** Un país de **4.042 habitants** amb
 **1.200 obrers estrangers** i cap aparell laboral.
 
+**I hi havia un precedent concret, un any abans de la primera vaga**: **el 17
+de març del 1932, una explosió de càrregues de dinamita a les obres va matar
+sis treballadors.** **FHASA tenia contractada una assegurança d'accidents amb
+La Preservatrice** i **havia construït el primer hospital d'Andorra** —prop de
+la plaça d'Andorra la Vella, **amb raigs X**, per a l'atenció dels obrers—,
+que **més tard tindria un paper gairebé èpic atenent refugiats durant la
+Guerra Civil espanyola.** **Ho relata Joan Vehils**, l'enginyer de FHASA que
+en va escriure la història oficial —vegeu [qui era](#el-que-falta).
+
 ## Qui les feia
 
 **La majoria dels obrers eren de nacionalitat espanyola**, i **una part estaven
@@ -107,7 +116,27 @@ relació real entre les dues coses.
   **el 15 de maig de 1931**, és a dir **enmig d'aquella tanda de vagues**
   ([la primera policia](./la-primera-policia.md)).
 - **Les reivindicacions concretes** i com es van resoldre.
-- **Joan Vehils**, la font de tot això, i la seva obra. **No identificada aquí.**
+- ~~**Joan Vehils**, la font de tot això, i la seva obra.~~ — **`resolt` el
+  18-09-2026**, llegint directament l'article de Lluelles
+  (`docs/raw/web/historia/lluelles-impactes-fhasa-2020.txt`).
+
+  **Joan Vehils va ser enginyer de FHASA** i **l'autor de les fotografies de
+  les obres que il·lustren l'article de Lluelles** —«Canonada d'Engolasters,
+  1933. Autor: Joan Vehils. ANA»—, **conservades a l'Arxiu Nacional
+  d'Andorra**. **La seva obra és**:
+
+  > **VEHILS, J. (1983). *Forces Hidroelèctriques d'Andorra SA. FHASA
+  > (1929-1983)*. Andorra.**
+
+  **És, doncs, la història oficial de l'empresa pels seus cinquanta anys**,
+  escrita per algú que hi havia treballat des de dins. **I és font primària
+  per a més d'una dada d'aquesta fitxa**: **relata un accident per explosió de
+  dinamita el 17 de març del 1932 amb sis morts**, que **el corpus no tenia**,
+  i **constata "quatre vagues de caràcter revolucionari, una el 1931 i tres el
+  1933"** —**exactament la xifra que aquesta fitxa cita.**
+
+  `L'obra de 1983 en si mateixa no s'ha vist: el corpus la coneix per la
+  citació de Lluelles, no de primera mà.` `font_externa`
 - El llibre de **René Baulard** (**1934**), que és **font primària del cap de la
   gendarmeria ocupant**.
 - La cobertura de **La Vanguardia del 24 de juny de 1933**, citada per l'autora.
