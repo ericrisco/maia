@@ -422,7 +422,22 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 ## Buits registrats
 
 1. **Els resultats complets, edició per edició i esportista per esportista.**
-   Aquesta fitxa en té **el recompte, no els resultats**. **Prioritari.**
+   Aquesta fitxa en té **el recompte, no els resultats**. **Prioritari.** —
+   **Anotat el 18-09-2026: el material per tancar-lo ja és al corpus i no cal
+   tornar a la xarxa.** **Les vint-i-sis pàgines d'edició són a
+   `docs/raw/web/esport/jocs-olimpics/` amb llicència CC BY-SA 4.0**, i **les
+   del 2002 ençà porten la taula de resultats sencera** —són els fitxers de 14 a
+   22 KB—; **les anteriors al 1996, no.**
+
+   `Per què no s'ha buidat en aquesta tanda: cada esport té una taula de
+   columnes diferents —l'esquí alpí en porta sis per les dues mànegues, el fons
+   en porta unes altres, l'snowboard unes altres— i un lector genèric
+   assignaria temps i posicions a la columna equivocada. Un resultat esportiu
+   mal transcrit al corpus és pitjor que un buit obert. Es tanca esport per
+   esport, no amb un sol guió.`
+
+   **El que això canvia és el cost**: **deixa de ser un buit de font externa i
+   passa a ser un buit de lectura local.**
 2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
    **Jaume Martí**, president el 2015.
