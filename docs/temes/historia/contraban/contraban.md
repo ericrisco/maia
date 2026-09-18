@@ -173,6 +173,46 @@ I **els carabiners, al text, no persegueixen: negocien**:
 corpus no l'usa per afirmar cap fet**, i **la reté perquè el buit de testimoni
 oral d'aquesta mateixa fitxa segueix obert i això no el tanca.**
 
+## El contraban de tabac avui, en xifres
+
+**El corpus declarava que els volums «no consten en cap font del corpus per a
+cap època».** **Per a l'època d'avui sí que consten**: l'API del Departament
+d'Estadística (divisions **1846-1849**, **font Departament de Policia**) dona
+**la quantitat intervinguda per contraban de tabac del 2017 al 2025**.
+
+| Unitats intervingudes | 2017 | 2018 | **2019** | 2021 | 2023 | 2024 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Total** | **256.168** | 50.528 | **22.388** | 35.462 | 65.398 | 44.515 | **245.207** |
+| *Interior del Principat* | 254.738 | 26.243 | 21.915 | 35.462 | 64.748 | 43.615 | **244.656** |
+| *Frontera hispanoandorrana* | 420 | 2.140 | 473 | 0 | 0 | 900 | 78 |
+| *Frontera francoandorrana* | 1.010 | 22.145 | 0 | 0 | 650 | 0 | 473 |
+
+**El fet és aquest: el contraban de tabac es decomissa dins d'Andorra, no a les
+fronteres d'Andorra.**
+
+**El 2025, 244.656 de 245.207 unitats —el 99,8%— es van intervenir a l'interior
+del país.** El 2017, el 99,4%. **Les dues fronteres juntes no arriben al mig
+per cent en cap dels dos anys de màxim.**
+
+> **El país no atrapa el tabac quan surt: l'atrapa abans de sortir.**
+
+**L'excepció és el 2022**, l'únic any en què **les fronteres expliquen el 89,4%
+de les intervencions** —22.920 a la hispanoandorrana i 39.694 a la
+francoandorrana—. `La font no diu per què, i un any sol no fa patró.`
+
+**I la sèrie oscil·la per un factor d'onze**: **22.388 unitats el 2019 i
+256.168 el 2017.** **Dos anys extrems separats per dos anys.** `Això mesura
+l'activitat policial tant com l'activitat contrabandista, i la font no permet
+separar-les.`
+
+**Per tipus d'infracció**, el 2025 **el 91,0% de les unitats són d'infracció
+penal** —223.180 de 245.207— i **la resta administrativa**; **el 2023 era just
+al revés**: **19.278 penals contra 46.120 administratives.**
+
+**Això no tanca el buit dels volums històrics**, que segueix obert per a tota
+l'època que aquesta fitxa explica. **El tanca per als nou darrers anys**, i
+**deixa escrit que la sèrie existeix i on és.**
+
 ## El que falta
 
 - ~~Cronologia amb dates, volums, l'evolució fins al final del cicle~~ —
@@ -180,8 +220,10 @@ oral d'aquesta mateixa fitxa segueix obert i això no el tanca.**
   del cicle» als anys quaranta.** **El dossier de Becat porta la sèrie fins al
   1992-93**, amb **un canvi d'objecte** —**de mercaderies a capital i a frau de
   subvencions comunitàries**— **i una continuïtat de conducta institucional.**
-  **El que segueix obert són els volums**, que **no consten en cap font del
-  corpus per a cap època.**
+  **El que segueix obert són els volums històrics**: **no consten en cap font
+  del corpus per a cap època anterior al 2017.** — **`parcial` el 18-09-2026**:
+  **del 2017 al 2025 sí que hi són**, per al tabac,
+  vegeu [El contraban de tabac avui](#el-contraban-de-tabac-avui-en-xifres).
 - **I sobretot testimoni oral** — que és material de la fase 3 i valdria molt més
   que qualsevol resum. **Buit registrat, i segueix sent el més valuós de la
   branca.** **La novel·la de Margenat no el substitueix.**
