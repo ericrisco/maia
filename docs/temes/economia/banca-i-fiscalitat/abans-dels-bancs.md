@@ -217,10 +217,10 @@ dona la mesura real del que costava moure un pagament.
    després**; **a partir del segle XV qui presta al país és un mercader d'Acs,
    un veí, un prevere i el capítol de la catedral.**
 5. **Casos documentats** de préstec entre particulars, amb condicions. —
-   **vegeu la taula del buit 4**: **els del 1468, 1522 i 1532 porten import,
-   contrapartida i termini**, i **el de 1522 i el de 1468 són compres de gra a
-   crèdit entre particulars i el Consell.** `Segueix obert el préstec de
-   particular a particular sense el Consell pel mig.`
+   **`parcial`**: **vegeu la taula del buit 4**; **els del 1468, 1522 i 1532
+   porten import, contrapartida i termini**, i **el de 1522 i el de 1468 són
+   compres de gra a crèdit entre particulars i el Consell.** `Segueix obert el
+   préstec de particular a particular sense el Consell pel mig.`
 6. **Quina moneda** circulava: pessetes, francs, totes dues?
    **Buit important i sense resposta.**
 
