@@ -264,10 +264,33 @@ sabia.**
   **I aquesta llista val molt**, perquè **hi són, amb citació completa, obres que
   el corpus porta setmanes buscant.** Vegeu la secció següent.
 
-  **El que segueix obert**: **el capítol 11, els llibres de text**, que és l'únic
+  ~~**El que segueix obert**: **el capítol 11, els llibres de text**, que és l'únic
   que prometia anàlisi i no s'ha pogut llegir —**l'OCR del PDF és a dues columnes
-  i les barreja**—, i **la prosa dels capítols 4, 6, 7, 8, 9 i 10**, si és que
-  n'hi ha al PDF i l'OCR l'ha perduda. `Requereix el PDF, no el text extret:`
+  i les barreja**~~ — **`resolt` el 18-09-2026**: **llegit a ull sobre la
+  pàgina renderitzada (p. 90-91)**. **Un paràgraf de prosa, breu però amb
+  tesi**:
+
+  > «Els primers materials didàctics que van servir per generar un
+  > coneixement del territori i la història d'Andorra i una consciència
+  > d'*andorranitat* entre els escolars del país daten dels anys
+  > seixanta. L'impuls inicial el va donar el Consell General,
+  > mitjançant la seva Conselleria Pedagògica. [...] Malgrat els esforços
+  > dels ensenyants per adaptar-los i actualitzar-los amb materials
+  > complementaris, **molts dels llibres de text en ús avui són
+  > relativament antics, i necessitarien un *aggiornamento* urgent**, per
+  > ajustar-los a les canviants necessitats pedagògiques i incorporar-hi
+  > les noves tendències historiogràfiques.»
+
+  **Segueix la bibliografia**, encapçalada per **Albert Puigoriol,
+  *Andorra, el meu país*, 1963** —el primer manual escolar
+  d'andorranitat, segons Canturri, que la mateixa llista cita— i deu
+  títols més, tots posteriors, del 1976 al 2003. **Aquest capítol té una
+  tesi pròpia, no és només bibliografia**: corregeix el compte anterior
+  de «pròleg de prosa només tres».
+
+  **El que segueix obert**: **la prosa dels capítols 4, 6, 7, 8, 9 i
+  10**, si és que n'hi ha al PDF i l'OCR l'ha perduda. `Requereix el PDF,
+  no el text extret:`
   [`raw/academic/historiografia/`](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.pdf).
 - ~~**Albert Villaró**: **qui és.** **El corpus no en té fitxa.**~~ —
   **`resolt` el 18-09-2026**: **ara en té**, a
