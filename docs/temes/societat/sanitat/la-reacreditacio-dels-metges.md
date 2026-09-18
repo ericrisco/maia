@@ -252,11 +252,19 @@ al·legar, i la Direcció General resol.
   Butlletí**: la cerca no en torna cap, ni d'aquest ni de cap altre del mateix
   tipus. `Requereix demanar-lo a la Universitat d'Andorra o al Col·legi de
   Metges; no hi ha ruta documental pública.`
-- **Quants metges hi ha a Andorra** i d'on vénen — el corpus sap que **el 1987
-  el 90% de les infermeres eren de fora**
-  ([l'Escola d'Infermeria](./lescola-dinfermeria.md)) i **no sap res dels
-  facultatius**.
-- **Els col·legis professionals andorrans**: el corpus no en té cap fitxa.
+- ~~**Quants metges hi ha a Andorra** i d'on vénen~~ — **`parcial` el
+  18-09-2026**: **410 metges col·legiats i 49 especialitats el 2026**
+  ([font](../../../fonts/coma-ad-institucional.md)), tot i que **un
+  col·legiat no és necessàriament un metge en actiu**, i **la procedència
+  geogràfica segueix sense resposta** — el corpus sap que **el 1987 el
+  90% de les infermeres eren de fora**
+  ([l'Escola d'Infermeria](./lescola-dinfermeria.md)) i **encara no ho
+  sap dels facultatius**.
+- ~~**Els col·legis professionals andorrans**: el corpus no en té cap
+  fitxa.~~ — **`parcial` el 18-09-2026**: **el Col·legi de Metges (COMA)
+  ja en té**, a [el Col·legi de Metges d'Andorra](./el-colegi-de-metges.md)
+  — establert el 1964, constituït el 1967. **Els altres col·legis
+  professionals segueixen sense fitxa.**
 - ~~La Societat Andorrana de Ciències com a institució~~ — **fitxa oberta**:
   [la Societat Andorrana de Ciències](../../cultura/museus-i-arxius/la-societat-andorrana-de-ciencies.md).
   **En queden obertes la data de fundació i la llista de Diades.**

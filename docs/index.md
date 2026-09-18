@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1069** documents · **299** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1070** documents · **300** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1497,6 +1497,7 @@
 | [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [De què es mor a Andorra](temes/societat/sanitat/de-que-es-mor-a-andorra.md) | `temes/societat/sanitat` | compilada | contemporania | no | `estadistica-ad` |
 | [Donar i ser atès](temes/societat/sanitat/donar-i-ser-ates.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El Col·legi de Metges d'Andorra](temes/societat/sanitat/el-colegi-de-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `coma-ad-institucional` |
 | [El SAAS](temes/societat/sanitat/el-saas.md) | `temes/societat/sanitat` | compilada | contemporania | no | `saas-ad-historia` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `bopa-ad` |
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
@@ -1759,6 +1760,7 @@
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`checkeredflag-llovera-2024`](fonts/checkeredflag-llovera-2024.md) | The Checkered Flag | desconeguda, ús informatiu | False |
 | [`coa-jocs-mediterrani`](fonts/coa-jocs-mediterrani.md) | Comitè Olímpic Andorrà | desconeguda, ús informatiu | False |
+| [`coma-ad-institucional`](fonts/coma-ad-institucional.md) | Col·legi Oficial de Metges d'Andorra (COMA) | publicació institucional, sense llicència declarada | pendent |
 | [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
 | [`comu-encamp-carnaval-2026`](fonts/comu-encamp-carnaval-2026.md) | Comú d'Encamp, Comunicació Encamp | Drets reservats; document institucional | False |
 | [`consell-general-bcg-2018-21`](fonts/consell-general-bcg-2018-21.md) | Consell General, publicador; Ponència i Comissió Legislativa d'Afers Socials | pendent de determinar per a la peça concreta | pendent |
