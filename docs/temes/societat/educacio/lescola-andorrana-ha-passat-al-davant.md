@@ -190,8 +190,10 @@ que el corpus té de demografia
   **`resolt` el 18-09-2026** amb la divisió 256 de l'API d'Educació: **2.532
   andorrans** són al sistema francès, **2.053** a l'espanyol, **3.465** a
   l'andorrà i **116** a l'anglès.
-- **Quin és el centre anglès** i des de quan. La nota diu «un centre escolar
-  anglès» i no el nomena.
+- ~~**Quin és el centre anglès** i des de quan.~~ — **`resolt` el 18-09-2026**:
+  és **The British College BCA**, identificat a [l'escola privada](./lescola-privada.md).
+  La sèrie de centres hi registra **5 alumnes de maternal el 2018** i **31 el
+  2024**; és l'únic centre nou que hi apareix.
 - ~~**Què hi ha dins d'«Altres»**, que ja és la segona nacionalitat del sistema.~~
   — **`resolt` el 18-09-2026**: el residual de **1.504** es descompon en les
   categories de la divisió 256, incloses **534 nacionalitats desconegudes** i
