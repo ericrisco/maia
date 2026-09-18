@@ -72,6 +72,75 @@ La Llei del sistema financer defineix els dos filtres per als alts càrrecs
 **La llista de delictes que t'inhabiliten és la llista del que pot fallar en un
 banc.**
 
+## El zero que té 85 articles
+
+> **Llegida el 18-09-2026** la **Llei 10/2008 d'organismes d'inversió
+> col·lectiva**, que **el corpus ja tenia consolidada**
+> (`docs/raw/lleis/inversio-collectiva.txt`).
+
+**Un OIC andorrà tributa al 0% a l'impost de societats**, i **el preu d'aquell
+zero és aquesta llei.** El que la llei posa al davant no és un benefici: **és un
+llindar d'entrada i un règim de vigilància permanent.**
+
+| | |
+| --- | ---: |
+| **Patrimoni mínim d'un OIC** | **1.250.000 €** |
+| Si té personalitat jurídica i no designa societat gestora | 300.000 € |
+| Per compartiment | 300.000 € |
+| **Patrimoni mínim d'un OIC immobiliari** | **6.000.000 €** |
+| Cobert el dia de la constitució | **10%** del mínim |
+| Termini per arribar-hi | **6 mesos**, o es liquida |
+
+**I el mínim no és una xifra d'entrada, és una condició de permanència**
+(article 10): **pot baixar un 10% per sota si es restableix en tres mesos**, i
+**si baixa més de tres cops en dotze mesos l'entitat gestora l'ha de dissoldre.**
+
+**La llei parteix el món en dos** (article 6): **els OICVM**, que segueixen les
+regles europees de diversificació, i **«altres OIC»**, que no. **Les regles dels
+primers són numèriques i no deixen marge:**
+
+- **Cap emissor no pot passar del 20%** dels actius en un altre OIC, ni **del
+  30%** en el conjunt d'OIC que no siguin OICVM.
+- **No poden endeutar-se per sobre del 10%** del patrimoni, i **només
+  temporalment**.
+- **No poden adquirir més del 10%** de les accions sense vot, de les
+  obligacions ni dels instruments monetaris **d'un mateix emissor**, ni **més
+  del 25%** de les participacions d'un mateix OIC.
+- **No poden atorgar crèdits ni avals**, ni **adquirir accions que donin una
+  influència significativa** sobre un emissor.
+- **Excepció**: **poden posar el 100% en deute públic** d'Andorra, d'un estat
+  de l'OCDE o d'un organisme internacional, **amb sis emissions diferents com a
+  mínim** i **cap per sobre del 30%**.
+
+**A l'altre costat hi ha els OIC alternatius** (article 31), i és on la llei
+andorrana es fa reconeixedora: **poden palanquejar-se fins al 200% del patrimoni
+net** —**els actius poden arribar al 300% del que realment tenen**—, **poden
+vendre al descobert** amb quatre límits (mai més del 5% dels actius en una
+posició, mai més del 50% en conjunt) i **poden pignorar els seus actius**.
+**I els alternatius per a inversors qualificats no tenen cap d'aquests límits**:
+**només els que ells mateixos escriguin al prospecte.**
+
+**Qui és «inversor qualificat» té una definició amb xifra** (article 29):
+**declarar-se'n per escrit**, **invertir un mínim de 50.000 €** i **passar una
+valoració de coneixements de l'entitat comercialitzadora**. **Cinquanta mil
+euros és la frontera legal entre el petit estalviador i el professional.**
+
+**I els immobiliaris tenen el seu propi cos de regles** (article 30): **el 90%
+del patrimoni en immobles**, **cap bé per sobre del 35%**, **taxació prèvia
+independent amb sis mesos de validesa** per a cada compra i cada venda, i
+**valor liquidatiu com a mínim semestral**. **Es poden comprar immobles al
+propi grup només si són de nova construcció, a preu de mercat i sense passar del
+25% del patrimoni.**
+
+> **La llei del 0% és, llegida, una llei de mínims de capital, de límits de
+> concentració i de taxacions independents.** **El tipus impositiu és zero
+> perquè qui tributa és el partícip, no el vehicle** —i **el que el vehicle paga
+> és aquest règim.**
+
+`El que la llei no diu i el corpus no té: quants OIC hi ha inscrits a l'AFA,
+quin patrimoni sumen i quants són immobiliaris. El registre és públic i no s'ha
+consultat.` `font_externa`
+
 ## Buits registrats
 
 - **Quants bancs hi ha** i quina mida tenen, no consta al corpus. — **`parcial`
@@ -168,8 +237,9 @@ banc.**
   `Requereix, del capítol segon, el detall dels requisits d'idoneïtat dels
   administradors (articles 6 bis i 6 ter) i del règim de conflictes d'interès
   (13 bis a 13 quater), que aquesta lectura només ha localitzat.`
-- **Els organismes d'inversió col·lectiva** —que tributen al **0%** a l'impost de
-  societats ([els tipus impositius](els-tipus-impositius.md))— tenen llei pròpia
-  de 85 articles **sense llegir**.
+- ~~**Els organismes d'inversió col·lectiva** —que tributen al **0%** a l'impost
+  de societats ([els tipus impositius](els-tipus-impositius.md))— tenen llei
+  pròpia de 85 articles **sense llegir**.~~ **`resolt` el 18-09-2026**: vegeu
+  [El zero que té 85 articles](#el-zero-que-te-85-articles).
 - **Les assegurances** (72 articles) tampoc.
 - **Quant val el Fagadi** i si s'ha activat mai, no consta.
