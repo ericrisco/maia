@@ -163,8 +163,8 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
 - Del reglament de 2024 s’han llegit els articles 21 i 35 complets,
   el preàmbul, l’article únic i les disposicions derogatòria i final;
   altres fragments, però no els 53 articles íntegres. Pàgina 9 vista.
-- **Tancat el buit de la norma introductora:** Llei 25/2011, article 13
-  complet i disposicions transitòries i final llegides; pàgines 340–341
+- ~~**El buit de la norma introductora**~~ — **`resolt` el 18-09-2026**:
+  Llei 25/2011, article 13 complet i disposicions transitòries i final llegides; pàgines 340–341
   contrastades visualment. L’exposició de motius s’ha llegit completa,
   però la resta de la llei només fragmentàriament.
 - ~~La [Llei 9/2013](../../../raw/desocupacio/bopa-llei9-2013.pdf) s’ha llegit sencera, inclosos els sis articles i les

@@ -366,9 +366,9 @@ recull**, i el corpus no sap si existeix ni què hi diu.
    normes consolidades no explica: `requereix saber per què tres lleis
    qualificades vigents no hi surten, que és una pregunta sobre la font i no
    sobre el dret.`
-2. **Tancat el 2026-09-12.** Els cinc articles que la primera instantània va
-   baixar buits (45, 46, 56, 68, 80) es van recuperar en reextreure el fons
-   sencer. Cap article del recull està buit ara.
+2. ~~**Els cinc articles que la primera instantània va baixar buits**~~ — **`resolt`
+   el 12-09-2026**: els articles 45, 46, 56, 68 i 80 es van recuperar en
+   reextreure el fons sencer. Cap article del recull està buit ara.
 3. ~~**Què passa si un copríncep no sanciona** una llei dins dels vuit-quinze
    dies.~~ `resolt`: **la llei entra en vigor igualment**. L'article 45.3 de la
    Constitució diu que, quan concorren circumstàncies que impedeixen a un

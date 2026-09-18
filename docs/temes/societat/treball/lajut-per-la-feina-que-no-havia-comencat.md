@@ -64,8 +64,8 @@ afiliar els beneficiaris a les branques general i de jubilació.
 
 ## Buits registrats
 
-- **Buit de lectura tancat el 13-09-2026:** el decret de desembre ja s'ha
-  llegit sencer al BOPA. La primera pista va ser una còpia allotjada a la CASS;
+- ~~**Buit de lectura del decret de desembre**~~ — **`resolt` el 13-09-2026**:
+  s'ha llegit sencer al BOPA. La primera pista va ser una còpia allotjada a la CASS;
   l'evidència citada aquí és el text obtingut directament del BOPA.
 - No s'han llegit expedients ni instruccions que delimitin quines activitats
   es consideraven sectors vinculats a l'esquí o com s'acreditava cada cas.

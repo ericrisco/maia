@@ -109,8 +109,8 @@ perquè qui hi torni sàpiga què comprovar.
 
 1. ~~**Qui era.** Naixement, mort, casa, ofici, parròquia.~~ — **tancat en
    part**: 1911-1996, de Sant Julià de Lòria. **Casa i ofici, oberts.**
-2. **Per què hi ha un buit entre les dues sindicatures**, i **qui va presidir
-   enmig** — **tancat**: **Francesc Escudé i Ferrero**, de la Seu d'Urgell,
+2. ~~**Per què hi ha un buit entre les dues sindicatures**, i **qui va presidir
+   enmig**~~ — **`resolt`**: **Francesc Escudé i Ferrero**, de la Seu d'Urgell,
    **de desembre del 1966 a desembre del 1972**
    ([els síndics generals](./els-sindics-generals.md)). **I el buit no és de
    set anys sinó de sis**: la llista dona la segona sindicatura de Reig des de

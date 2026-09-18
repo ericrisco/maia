@@ -96,7 +96,8 @@ permeten afirmar que mai se l'anomeni president en altres usos.
   juny/desembre que deia la versió anterior: l'original de 2026 enumera
   nou comissions i fixa altres dates. No s'ha reconstruït tota l'evolució
   anterior ni comprovat una cadena exhaustiva de modificacions posteriors.
-- No s'han llegit el Reglament complet de 48 pàgines ni els seus dos annexos
+- ~~Lectura íntegra del Reglament de 48 pàgines i dels seus dos annexos~~ — **`parcial`
+  el 18-09-2026**: no s'han llegit el Reglament complet ni els seus dos annexos
   íntegrament. Tancat el buit constitucional per als articles 50–57:
   [BOPA núm. 24, p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf),
   text i imatge contrastats. No tota la Constitució original llegida;
