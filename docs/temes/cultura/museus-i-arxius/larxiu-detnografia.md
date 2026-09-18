@@ -116,10 +116,22 @@ saber què van signar les persones entrevistades.**
 
 ## Buits registrats
 
-1. **On és l'AEA avui** i sota quina institució. **Prioritari.**
+1. ~~**On és l'AEA avui** i sota quina institució.~~ — **`parcial`, ja
+   constava a la taula de dalt** i no s'havia marcat com a tancat: **dins
+   l'Àrea de Recerca Històrica**, que el peu de pàgina de la font de 2002
+   anomena sencer **«Àrea de Recerca Històrica de Patrimoni Cultural»**
+   ([font](../../../fonts/de-la-parte-immigracio-cultura.md)). **«Avui»
+   segueix sense confirmar-se**: la font és del 2002.
 2. **Volum, suport i estat de transcripció.**
 3. **Condicions d'accés i d'ús**, i què deia el consentiment.
-4. **Qui el va crear** i quan exactament.
+4. ~~**Qui el va crear** i quan exactament.~~ — **`parcial`, ja constava a
+   la taula de dalt** i no s'havia marcat com a tancat: **l'origen és
+   l'estudi etnogràfic de 1993-1995** de Comas d'Argemir i Pujadas
+   ([font](../../../fonts/comas-pujadas-andorra-pais-frontera-1997.md)),
+   però **cap font trobada diu explícitament que ells «creessin» l'AEA**
+   —el text de De la Parte (2002) tracta la creació de l'AEA i l'estudi
+   com dos fets relacionats, no com el mateix acte. **Qui exactament en
+   va prendre la decisió administrativa segueix sense confirmar-se.**
 5. ~~L'**estudi etnogràfic de 1993-1995**: està publicat? on?~~ — **`resolt`
    el 18-09-2026**: **sí**, **Dolors Comas d'Argemir i Joan Josep Pujadas
    Muñoz**, *Andorra, un país de frontera: estudi etnogràfic dels canvis

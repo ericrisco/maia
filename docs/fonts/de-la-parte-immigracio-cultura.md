@@ -23,6 +23,10 @@ notes: >
   literalment les conclusions de l'estudi etnogràfic.
   RESOL UN BUIT OBERT: la «forta segmentació social» que Gabriel Ubach
   esmentava sense desenvolupar queda aquí explicada i citada.
+  NOM SENCER DE LA INSTITUCIÓ (afegit el 18-09-2026, llegint la nota 2 a
+  peu de pàgina, p. 142 de l'edició): l'AEA s'ubica a l'**«Àrea de Recerca
+  Històrica de Patrimoni Cultural»** — el corpus en tenia només «Àrea de
+  Recerca Històrica».
 ---
 
 # Immigració i cultura. Immigrants a Andorra
