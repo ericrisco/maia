@@ -248,6 +248,32 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
    > **Andorra no ha perdut hotels: ha perdut el que hi havia al voltant dels
    > hotels.**
 
+   **Tancat del tot el 18-09-2026**, i **per dècades com demanava el buit**: les
+   divisions **140, 141 i 150** de la mateixa API donen **els hotels i les
+   cambres autoritzats cada any des del 1981** —són permisos d'obra, no estoc—,
+   i **la sèrie té una aturada:**
+
+   | Dècada | Hotels autoritzats | Cambres |
+   | --- | ---: | ---: |
+   | **1981-1989** | **70** | **3.203** |
+   | 1990-1999 | 73 | 2.749 |
+   | 2000-2009 | 60 | 3.270 |
+   | **2010-2019** | **4** | **75** |
+   | 2020-2024 | 13 | 138 |
+
+   **Del 2010 al 2016 no s'autoritza cap hotel nou** —**set anys seguits**, amb
+   l'única excepció d'un permís el 2013 **sense cap cambra**—, i **la dècada
+   sencera dona quatre hotels i setanta-cinc cambres**, **menys que l'any 1989
+   tot sol**, que en va donar **vint-i-un i 1.168**. **El parc hoteler andorrà
+   es va construir en trenta anys i es va aturar en un.**
+
+   **Per parròquia**: **Canillo 46, la Massana 46, Encamp 41,
+   Escaldes-Engordany 25, Ordino 23, Andorra la Vella 23 i Sant Julià de Lòria
+   11**. **Les tres parròquies d'estació de neu en fan el 62%**, i **la capital,
+   l'11%.** `Defecte de la font: la sèrie per parròquia suma 215 hotels i la
+   sèrie total en dona 220. Cinc permisos no tenen parròquia assignada i la font
+   no ho adverteix.` `no-es-buit`
+
    `De dècades anteriors al 2004 encara cal una altra font.`
 6. **Quines famílies** hoteleres continuen, i des de quin hostal comunal.
 7. **L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
