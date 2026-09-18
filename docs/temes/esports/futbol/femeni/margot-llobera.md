@@ -50,7 +50,14 @@ amb dades és copilot del Dakar i neboda d'un olímpic.**
 
 - **Quan i per què va deixar el futbol.**
 - **Els seus tres partits.**
-- **Alexia Llobera**: cap fitxa, i en fa falta una.
+- ~~**Alexia Llobera**: cap fitxa, i en fa falta una.~~ — **`parcial` el
+  18-09-2026, amb reserva de mètode** (font no verificable per lectura
+  directa): **enginyera d'electrònica de motorsport**, amb pas per X-raid
+  al Dakar, Hyundai Motorsport al WRC, Alpine i McLaren a la Fórmula E, i
+  el Cadillac F1 Team
+  ([font](../../../../fonts/websearch-alexia-llobera-motorsport.md)). **El
+  seu paper al Dakar sembla ser d'enginyeria d'equip, no de pilot o
+  copilot** — matisa la lectura de «tres pilots a la família».
 - **Amb qui va córrer el Dakar del 2022, i què hi van fer.**
 
 ## Related

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1079** documents · **324** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1079** documents · **325** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1974,6 +1974,7 @@
 | [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`websearch-alexia-llobera-motorsport`](fonts/websearch-alexia-llobera-motorsport.md) | Alexia Llobera | perfil personal, sense llicència declarada | pendent |
 | [`wikidata`](fonts/wikidata.md) | Wikimedia Foundation · comunitat de Wikidata | CC0 1.0 (domini públic) | si |
 | [`wikipedia-aeroport-andorra`](fonts/wikipedia-aeroport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-aiguats-1982`](fonts/wikipedia-aiguats-1982.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
