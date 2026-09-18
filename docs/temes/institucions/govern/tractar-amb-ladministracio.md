@@ -254,10 +254,10 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   2026, el BOPA diu per quina lletra s'adjudica cada contracte directe.**
   `Requereix escombrar els edictes d'adjudicació posteriors i comptar-los; i per
   als anteriors, la via segueix tancada.`
-- **El Codi de l'Administració té 147 articles i n'hem llegit dos.** És la norma
-  general de tot el dret administratiu andorrà i queda majoritàriament per llegir.
-  — **`parcial` el 17-09-2026**: **recorregut sencer i buidat pel que aquesta
-  fitxa necessita** (`docs/raw/lleis/codi-administracio.txt`, **Llei 14/2023
+- ~~**El Codi de l'Administració té 147 articles i n'hem llegit dos.** És la
+  norma general de tot el dret administratiu andorrà i queda majoritàriament
+  per llegir.~~ — **`resolt` el 18-09-2026: els deu capítols, llegits.**
+  **El 17-09-2026 se'n van buidar els capítols quart a vuitè** (`docs/raw/lleis/codi-administracio.txt`, **Llei 14/2023
   de text consolidat**). **Deu capítols**, dels quals el setè —procediment— i
   el vuitè —recursos— són els que decideixen com et va davant d'una
   finestreta.
@@ -381,3 +381,112 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   pena retenir** (article 95): **les autoritzacions s'atorguen directament**;
   **si el nombre s'ha de limitar, per licitació**; i **si tots els candidats
   reuneixen les mateixes condicions, per sorteig.**
+
+  **I el 18-09-2026 els cinc que faltaven: primer, segon, tercer, novè i desè.**
+
+  **Capítol primer, les fonts (articles 1 a 11), amb dues peces que valen per a
+  tot el corpus.** **La primera és l'ordre supletori** (article 6.4): **«les
+  normes de dret consuetudinari i les del dret comú tenen, per aquest ordre,
+  caràcter supletori en l'àmbit de l'Administració pública».** **El costum va
+  davant del dret comú, i ho diu la norma administrativa general, no una
+  declaració històrica.** **La segona és el principi de subsidiarietat**
+  (article 5): **les administracions «limitaran llur activitat als serveis
+  essencials per a la comunitat»** i **han de procurar la gestió indirecta
+  sempre que es pugui i no impliqui exercir funcions d'autoritat.** **Un estat
+  que s'escriu a si mateix com a subsidiari dins del seu propi codi
+  administratiu.**
+
+  **I la regla de publicació** (article 9): **les normes no obliguen mentre no
+  s'han publicat oficialment**, i **entren en vigor quinze dies després de
+  publicar-se senceres al BOPA** llevat que diguin una altra cosa. **La jerarquia
+  té sanció i té destinatari** (article 7): la infracció és **nul·litat de ple
+  dret**, i **«en cap cas els jutges, els tribunals, les autoritats o els
+  funcionaris no aplicaran disposicions generals o reglaments que transgredeixin
+  el principi de jerarquia».** **No cal derogar-los: no s'apliquen.** **I el
+  deure de respectar les normes generals va també cap amunt** (article 10):
+  **totes les autoritats han de respectar-les «àdhuc aquelles que emanin
+  d'autoritats inferiors».**
+
+  **Capítol segon, què és l'Administració (articles 12 a 26).** **La composició
+  són tres coses** (article 13): **el Consell Executiu i els òrgans sota la seva
+  direcció**, **els comuns i els quarts i els òrgans que en depenen**, i **els
+  organismes autònoms o entitats parapúbliques.** **Els quarts hi són nomenats,
+  al codi administratiu general del país**
+  ([els comuns i les parròquies](../comuns-i-parroquies/README.md)). **La desviació de poder
+  —fer servir una competència per a una finalitat que no és la seva— és alhora
+  motiu de nul·litat de l'acte i de responsabilitat de qui el dicta**
+  (article 16). **I la igualtat porta enganxada una clàusula que sembla una
+  altra cosa** (article 19): **«els serveis administratius no poden comportar
+  cap altra remuneració que la que autoritzin les lleis i els reglaments».**
+
+  **Capítol tercer, l'acte administratiu (articles 27 a 55), que és el més llarg
+  del codi i el que porta les regles que es toquen cada dia.**
+
+  - **La inacció pot ser il·legal** (article 32): **«la passivitat o la inacció
+    administrativa poden ésser constitutives d'il·legalitat i generar
+    responsabilitat administrativa»**, i **quan cap norma no fixa termini, la
+    inacció «no ha de prolongar-se més enllà d'un període raonable».**
+  - **La motivació és obligatòria en dos casos, no en un** (article 38): **quan
+    l'acte és desfavorable**, i **quan és favorable però s'aparta d'altres
+    decisions preses abans en supòsits semblants.** **Apartar-se del precedent
+    s'ha d'explicar encara que beneficiï.**
+  - **Hi ha actes administratius fets sense cap persona a dins** (article 31):
+    **l'actuació administrativa automatitzada és vàlida**, i **per cada
+    tipologia l'òrgan competent ha de determinar prèviament qui respon de «les
+    especificacions, la programació, el manteniment, la supervisió i el control
+    de qualitat i, si escau, l'auditoria del sistema d'informació i del seu codi
+    font»**, més **qui és l'autoritat impugnable.** **El codi font d'una
+    administració té, per llei, un responsable amb nom.**
+  - **La notificació mal feta atura el rellotge** (article 46.6): **«l'absència o
+    la irregularitat de la notificació suspenen els terminis de recurs».** **La
+    pot recollir qualsevol convivent de més de setze anys** (article 48.1), i
+    **si falla, es publica un avís al BOPA i s'obren vuit dies hàbils per
+    presentar-se; si no s'hi va, la notificació es té per feta.** **En
+    electrònic** (article 49.5), **quinze dies sense obrir-la valen com a refús**
+    —i **l'administrat pot triar fins a trenta dies naturals en què no se li
+    poden fer notificacions electròniques.**
+  - **Recórrer no atura res** (article 52): **«la interposició de qualsevol
+    recurs no suspendrà l'execució de l'acte impugnat»**, llevat que qui resol
+    suspengui per perjudici de difícil reparació o per nul·litat de ple dret.
+    **L'excepció és sancionadora** (article 53.2): **recorreguda en temps i
+    forma, la sanció no s'executa fins que és ferma.**
+  - **L'Administració pot executar ella mateixa o enviar-hi el saig**
+    (article 53.3), **i pot imposar multes coercitives, reiterades i separades
+    en el temps, compatibles amb la multa que sigui sanció** (article 54.3).
+    **La compulsió directa sobre les persones queda per a l'extrema urgència i
+    el perill greu.**
+  - **Són nuls de ple dret quatre actes** (article 50): els d'**òrgan
+    manifestament incompetent**, els de **contingut impossible o constitutiu
+    d'infracció penal**, els que **transgredeixen «d'una manera total i
+    absoluta» el procediment o les regles essencials de la voluntat dels òrgans
+    col·legials**, i els que **infringeixen la jerarquia normativa.**
+
+  **Capítol novè, terminis (articles 137 a 139), tres regles curtes i
+  operatives.** **Es compten des de l'endemà de la notificació o la publicació**;
+  **en dies vol dir dies hàbils**; **en mesos o anys, data a data**, i **si el
+  mes de venciment no té dia equivalent, s'acaba el dia primer del mes següent**
+  (article 138). **La pròrroga a petició de l'interessat pot arribar a la meitat
+  del termini i mai no toca els terminis de recurs** (article 137), i **les lleis
+  poden escurçar terminis del codi però no de més de la meitat.** **I si l'acte
+  s'ha de fer en una oficina, el termini s'acaba a l'hora normal de tancament**
+  (article 139).
+
+  **Capítol desè, administració electrònica (articles 140 a 147), que és el més
+  nou i el que explica la seu que aquesta fitxa fa servir.** **El Portal
+  Electrònic és la porta i la Seu Electrònica és el lloc**, **i cada seu es crea
+  per norma publicada al BOPA** (article 141.2.b) i **ha d'estar disponible tots
+  els dies de l'any i les vint-i-quatre hores del dia**, excepte situació
+  extraordinària o incidència tècnica (article 141.5). **L'arxiu és electrònic
+  per defecte** (article 146): **tots els documents s'han d'arxivar per mitjans
+  electrònics llevat d'impossibilitat justificada**, **el paper s'ha de
+  digitalitzar de forma qualificada**, i **cada administració manté un arxiu
+  electrònic únic dels procediments acabats.** **I l'article 147 tanca el codi
+  amb una obligació d'una sola frase**: **totes les administracions i entitats
+  titulars de documents públics han de tenir «un únic sistema de gestió
+  documental» que cobreixi producció, tramitació, control, avaluació,
+  conservació i accés.**
+
+  `El que aquesta lectura no dona: el codi remet la contractació a la Llei
+  14/2022, el contenciós a la 9/2022 i l'accés a la informació a la Llei de
+  transparència (article 41), i cap de les tres no s'ha llegit sencera. Són
+  buits d'una altra fitxa, no d'aquest codi.`
