@@ -122,8 +122,13 @@ consultat s'atura aquí.
 
 1. **Quins gravats** exactament, de quins llibres i quins autors.
 2. Un **cas documentat** de gravat que no s'assembla al lloc real.
-3. Els **reculls editats** dels paisatgistes catalans a Andorra. **Buit
-   tancable.**
+3. ~~Els **reculls editats** dels paisatgistes catalans a Andorra~~ —
+   **`parcial` el 18-09-2026**: identificat el catàleg de l'exposició
+   *Talents amb denominació d'origen. De Rigalt a Puigdengolas* del Museu
+   Carmen Thyssen Andorra, amb pintura catalana de finals del XIX i principis
+   del XX, cinc escoles i biografies de 23 artistes. La pàgina pública no dona
+   la llista completa d'obres paisatgístiques ni prova quines representen
+   Andorra; resta pendent buidar el catàleg.
 4. **Joan Oromí**, de la Seu d'Urgell: qui era, què més va pintar.
 5. **Sant Joan de la Mosquera** — el corpus no en té res.
 6. Els **altres elements** que canvien la cultura al segle XX.
