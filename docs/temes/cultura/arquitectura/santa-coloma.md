@@ -81,8 +81,9 @@ l'altre quadrat. **Dues esglésies, un sol cercle d'artesans.**
    i l'índex [del romànic andorrà](./romanic.md) ja la recull.
 2. **El parador del fragment perdut** (sant Gregori o sant Silvestre,
    segons quin és l'exposat a Amherst).
-3. **L'Espai Columba** en si: el corpus no en té fitxa com a espai
-   museístic.
+3. ~~**L'Espai Columba** en si: el corpus no en té fitxa com a espai
+   museístic.~~ — **`resolt` el 19-09-2026**: vegeu la fitxa de [l'Espai
+   Columba](./espai-columba.md), basada en la pàgina institucional de museus.ad.
 
 ## Related
 
