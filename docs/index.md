@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1037** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1038** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -978,6 +978,7 @@
 | [La funció pública](temes/institucions/govern/la-funcio-publica.md) | `temes/institucions/govern` | compilada | contemporania | no | `llovera-visio-del-treballador` |
 | [La llei de transparència](temes/institucions/govern/la-llei-de-transparencia.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Tractar amb l'Administració](temes/institucions/govern/tractar-amb-ladministracio.md) | `temes/institucions/govern` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Trenta-dos anys de pressupost](temes/institucions/govern/trenta-dos-anys-de-pressupost.md) | `temes/institucions/govern` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/institucions/justicia
 
