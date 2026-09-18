@@ -65,10 +65,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
 ## El que falta
 
-- **El seu resultat de Rio**, que aquesta fitxa no tenia, **és al bolcat de
-  l'edició** ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki),
-  Viquipèdia, CC BY-SA 4.0): **carrabina d'aire de 10 m, 396,9 punts, 51a**, no
-  avança. **Hi va anar per invitació de la Comissió Tripartita.**
+- ~~**El seu resultat de Rio**, que aquesta fitxa no tenia.~~ — **`resolt` el
+  18-09-2026**: el bolcat de l'edició ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki),
+  Viquipèdia, CC BY-SA 4.0) dona **carrabina d'aire de 10 m, 396,9 punts,
+  51a**, sense avançar; **hi va anar per invitació de la Comissió Tripartita**.
 - **On va néixer** i el club — **`obert`, confirmat** —; ~~el palmarès~~ —
   **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de 10 m a
   Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la font li

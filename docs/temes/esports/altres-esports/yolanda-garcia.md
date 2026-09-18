@@ -82,6 +82,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   del 1971.**
 - **El palmarès que el bolcat confirma**: **ARGENT en pes pesant al Campionat
   del Món de taekwondo del 1995** i **OR al Campionat d'Europa del 1994.**
+  **`no-es-buit`**: és una dada documentada, no una pregunta pendent.
 - ~~**La resta del seu palmarès.**~~ — **`parcial` des del 2026-09-13**: el
   medaller de dalt, tret de l'infobox del bolcat que el corpus ja tenia.
 - ~~**El taekwondo andorrà**: federació, clubs, des de quan.~~ — **`parcial`
