@@ -223,10 +223,18 @@ es finança principalment amb cotitzacions. És la part que hi posa el Govern.`
 - Retirades les xifres de 75% i 90% presentades abans sense peça ni versió,
   i la comparació absoluta amb el pagament a Espanya. La nova lectura
   acredita el marc legal de 2018, no valida aquella taula com a regla actual.
-- La data de creació de la CASS, les «192 habitacions individuals»,
-  la data i les característiques de construcció de l’hospital i l’afirmació
-  que és l’únic del país no s’han contrastat amb fonts primàries en aquesta
-  tanda. S’han retirat com a fets; la
+- ~~La data de creació de la CASS~~ — **`parcial` el 18-09-2026,
+  DIVERGÈNCIA REGISTRADA, NO ARBITRADA**: la pàgina institucional pròpia
+  ([font](../../../fonts/cass-informacio-institucional.md)) dona **1966**,
+  amb instrument legal concret —**Ordinació núm. 4 del M.I. Consell
+  General, del 12 de juliol de 1966**—; la Viquipèdia catalana
+  ([font](../../../fonts/wikipedia-ca-cass.md)) dona **1r d'abril del
+  1968**, sense instrument. **cass.ad és la font institucional i cita una
+  norma concreta; la Viquipèdia no en dona cap**, però el corpus no
+  descarta cap de les dues. Les **«192 habitacions individuals», la data i
+  les característiques de construcció de l'hospital i l'afirmació que és
+  l'únic del país** segueixen sense contrastar amb fonts primàries en
+  aquesta tanda. S'han retirat com a fets; la
   [instantània anterior](../../../raw/desocupacio/la-cass-i-la-sanitat-abans-20260913.txt)
   conserva el text per auditar la revisió.
 - ~~No s’han llegit els convenis d’assistència amb Espanya, França o Portugal,

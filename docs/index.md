@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **354** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **356** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1777,6 +1777,7 @@
 | [`canturri-delinquencia-reinsercio-2007`](fonts/canturri-delinquencia-reinsercio-2007.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`canturri-usos-i-costums`](fonts/canturri-usos-i-costums.md) | Pere Canturri i Montanya · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cass-ad`](fonts/cass-ad.md) | Caixa Andorrana de Seguretat Social | drets reservats; reutilització subjecta a autorització del titular | pendent |
+| [`cass-informacio-institucional`](fonts/cass-informacio-institucional.md) | Caixa Andorrana de Seguretat Social (CASS) | pàgina institucional pública | pendent |
 | [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cervantesvirtual-edicio-andorra`](fonts/cervantesvirtual-edicio-andorra.md) | EDI-RED (Editores y Editoriales Iberoamericanos, siglos XIX-XXI) | portal acadèmic, accés obert | citacio |
@@ -2014,6 +2015,7 @@
 | [`wikipedia-ca-albert-villaro`](fonts/wikipedia-ca-albert-villaro.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-cass`](fonts/wikipedia-ca-cass.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-charles-romeu`](fonts/wikipedia-ca-charles-romeu.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-comite-olimpic-andorra`](fonts/wikipedia-ca-comite-olimpic-andorra.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
