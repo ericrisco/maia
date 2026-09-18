@@ -23,6 +23,12 @@ notes: >
   to és de balanç favorable («els dirigents polítics li han atorgat i li
   atorguen els mitjans necessaris»). El corpus reté l'arquitectura de dades i
   marca les valoracions.
+  ACTUALITZAT 18-09-2026: descarregat el PDF de nou
+  (docs/raw/educacio/13a-diada-andorrana-2000-formacio-ensenyament.pdf) i
+  llegida a ull la p. 20, «Quadre de les àrees d'estudi de la formació
+  andorrana segons el nivell i el tipus de centre», que l'extracció
+  automàtica de text havia donat per il·legible. Tancava un buit a
+  landorranitzacio.md.
   CORREGEIX PER PRECISIÓ el que el corpus tenia de Molla (2003): no «~1880» i
   «anys 30» sinó 1882, 1900 i 1930, i amb els noms dels centres.
   TANCA UN BUIT OBERT EL MATEIX DIA: l'escola especialitzada Nostra Senyora de

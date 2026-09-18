@@ -120,8 +120,26 @@ va haver de fer **per la via del conveni**— i això deixa marca.
   dir que no estan pensats per a andorrans.** **La cortesia és dins la frase que
   fa la crítica.** **El document sencer, amb signatura i data exacta, segueix
   `obert`.**
-- **Quantes hores** de formació andorrana, per nivell i per sistema. La font en
-  dona un quadre que el corpus no ha pogut llegir (és una taula al PDF).
+- ~~**Quantes hores** de formació andorrana, per nivell i per sistema. La font en
+  dona un quadre que el corpus no ha pogut llegir (és una taula al PDF).~~ —
+  **`resolt` el 18-09-2026**: **llegit a ull sobre la pàgina renderitzada**
+  («Quadre de les àrees d'estudi de la formació andorrana segons el nivell
+  i el tipus de centre», curs 1999-2000):
+
+  | Nivell | Sistema francès | Sistema espanyol — escoles espanyoles | Sistema espanyol — escoles congregacionals |
+  | --- | --- | --- | --- |
+  | **4-6 anys, maternal** | Llengua i medi, 3h/set | Llengua i medi, de 3 a 4h/set (segons el centre) | Música, 1h/set |
+  | **6-12 anys, primera ensenyança** | Llengua i medi 3h/set + Música 1h/set | Llengua i medi, de 3 a 6h/set (segons el centre) | Medi d'Andorra, 1 o 2h/set (segons el centre) |
+  | **11-16 anys, segona ensenyança** | H.G.I. d'And. 1h/set + Llengua catalana 3h/set | H.G.I. d'And. (estructures comunes) 2h/set + Llengua catalana 3h/set + al 2n cicle 2h/set optatives | Ciències socials 1h/set (només a alguns centres) + Llengua catalana 3h/set + 1h de suport (segons el centre) |
+  | **16-18 anys, batxillerat** | H.G.I. d'And. 1h/set + Llengua catalana 1 o 3h/set | H.G.I. d'And. 1h/set + Llengua catalana 3h/set | H.G.I. d'And. 1h/set + Llengua catalana 3h/set |
+
+  **Font**: *Formació andorrana — Programa presentació*, Ministeri
+  d'Educació, Joventut i Esports, tal com el reprodueix Bastida a la seva
+  ponència del 2000
+  ([font](../../../fonts/bastida-roser-ensenyament-andorra.md), p. 20).
+  **H.G.I. és Història, Geografia i Institucions d'Andorra**, lectura del
+  corpus a partir de l'abreviatura de la font, no confirmada literalment
+  al text.
 - **Qui són els professors de Formació Andorrana** i quants són.
 - ~~**Què s'hi ensenya exactament**: els programes d'història i institucions
   andorranes fets pel Govern serien **una font directa de com el país s'explica
