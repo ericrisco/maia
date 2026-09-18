@@ -252,8 +252,34 @@ administracions públiques, S.13)*
    **962,0 € mensuals**, davant dels 1.921,0 € de Luxemburg i els 718,0 € de
    Malta. **Andorra és el segon dels tres que en tenen**, i **a Liechtenstein no
    n'hi ha d'establert.**
-3. **Si el retorn dels immigrants grans s'ha quantificat** mai. És l'afirmació més
-   important de la ponència i hi va **sense xifra**.
+3. ~~**Si el retorn dels immigrants grans s'ha quantificat** mai. És l'afirmació
+   més important de la ponència i hi va **sense xifra**.~~ — **`parcial` el
+   18-09-2026**: **es pot mesurar la sortida, no el retorn.** **El Departament
+   d'Estadística publica `BAIXES PAÍS PER EDAT`, mensual, des del 2008**
+   (`docs/raw/estadistica-api/`, CC BY 4.0):
+
+   | Any | Baixes totals | **De 60 anys o més** | % |
+   | --- | ---: | ---: | ---: |
+   | **2008** | **1.530** | 121 | **7,9%** |
+   | 2012 | 760 | 84 | 11,1% |
+   | 2015 | 627 | 105 | 16,7% |
+   | **2016** | 611 | 120 | **19,6%** |
+   | 2020 | 810 | 145 | 17,9% |
+   | 2022 | **1.018** | **184** | 18,1% |
+   | **2025** | **1.030** | **166** | **16,1%** |
+
+   **La proporció de baixes de gent de seixanta anys o més es dobla entre el
+   2008 i el 2016**, **del 7,9% al 19,6%**, i **des d'aleshores es manté entre
+   el 16% i el 19%.** **En nombres absoluts passa de 121 a 166.**
+
+   **La ponència deia que els immigrants grans marxen; la sèrie diu que cada any
+   en marxen entre cent vint i cent vuitanta**, i **que són una de cada sis
+   baixes, quan el 2008 n'eren una de tretze.**
+
+   `El que la sèrie no diu és on van. «Baixa país» és una baixa administrativa
+   del registre, no un retorn documentat al país d'origen: la font no en dona la
+   destinació. Que el 2008 hi hagués 1.530 baixes i el 2015 només 627 tampoc no
+   vol dir que marxés menys gent: vol dir que se'n va donar de baixa menys.`
 4. **Les sèries posteriors al 2014.** Aquesta comparativa té **més de deu
    anys**. — **`parcial` el 18-09-2026, i el que s'ha trobat no és la
    comparació sinó una de les seves columnes.** **El Departament d'Estadística
