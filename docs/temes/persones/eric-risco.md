@@ -111,8 +111,18 @@ Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
    JudoInside obert.**
 3. **La seva trajectòria de rugbi**: anys a la selecció andorrana, partits,
    posició confirmada.
-4. **El VPC Andorra**: què és, des de quan, quin paper té al rugbi andorrà. **El
-   corpus no té ni una línia de rugbi**, i és un dels esports d'equip del país.
+4. ~~**El VPC Andorra**: què és, des de quan, quin paper té al rugbi
+   andorrà.~~ — **`parcial` el 18-09-2026**: **VPC vol dir «Voluntaris de
+   Protecció Civil»**, fundat el **1961** com a secció de rugbi del FC
+   Andorra, formalitzat el **30 d'octubre del 1963** sota supervisió del
+   Consell General — un cos que havia de col·laborar amb el cap de bombers en
+   rescats i emergències. **Va competir a Catalunya i Espanya del 1961 al
+   1986** —vetat a pujar de categoria el 1971 per no representar l'estat
+   espanyol— i **des del 1986, a França**
+   ([font](../../fonts/wikipedia-ca-vpc-andorra-rugby.md)). **Divergència
+   registrada, no arbitrada**: fonts més recents el situen avui a la
+   **División de Honor B espanyola**, la direcció contrària. `Requereix la
+   Federació Andorrana de Rugbi.`
 5. **La Federació Andorrana de Judo** i **la de Rugbi**.
 6. **Els Jocs Mediterranis**: hi participa Andorra regularment? **El corpus no
    ho sabia i aquesta fitxa ho revela de retruc.**
