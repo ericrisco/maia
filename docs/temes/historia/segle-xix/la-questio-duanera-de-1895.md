@@ -205,8 +205,8 @@ espanyola](../../institucions/relacions-exteriors/els-dos-papers-de-la-reivindic
    Madrid**.
 3. ~~**Si la franquícia va arribar a aplicar-se mai.**~~ **No.** Va caure abans
    d'entrar en vigor. Queda obert **si es va restablir després del 1904**.
-4. **Què en deien a Andorra** d'aquest afer duaner concret. Tota aquesta fitxa és
-   des de Madrid. **Parcialment tancat:** el corpus ja té la veu del Consell
+4. ~~**Què en deien a Andorra d'aquest afer duaner concret**~~ — **`parcial`
+   el 18-09-2026**: tota aquesta fitxa és des de Madrid. El corpus ja té la veu del Consell
    General d'aquells mateixos mesos —[La qüestió d'Andorra](./la-questio-dandorra.md),
    signada l'**18 d'octubre de 1894**—, però **allà no es parla de duanes**: es
    parla de sobirania. Qui va demanar la gestió a Madrid i qui la va negociar,

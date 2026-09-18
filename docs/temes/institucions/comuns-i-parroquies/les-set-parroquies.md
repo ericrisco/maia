@@ -219,9 +219,10 @@ blanc de qualsevol altra parròquia
 
 ## Buits registrats
 
-- S'han llegit íntegrament els articles 79–84 i l'article 1 de l'exemplar
-  BOPA 24 de 1993; les pàgines 454–455 s'han contrastat visualment. El buit
-  de desplegament competencial queda parcialment tancat amb la llei de
+- ~~**Desplegament competencial comunal**~~ — **`parcial` el 18-09-2026**:
+   s'han llegit íntegrament els articles 79–84 i l'article 1 de l'exemplar
+   BOPA 24 de 1993; les pàgines 454–455 s'han contrastat visualment. El buit
+   de desplegament competencial queda parcialment tancat amb la llei de
   1993, la reforma 19/2017 i la [sentència 2017-2-L](quan-linforme-del-comu-no-es-vinculant.md).
   Continuen obertes la cadena completa de normes de competències,
   transferències i finances comunals, i la vigència actual. **El règim

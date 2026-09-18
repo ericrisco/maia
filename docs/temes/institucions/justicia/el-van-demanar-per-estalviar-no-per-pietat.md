@@ -227,10 +227,10 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 2. **Si el garrot el va demanar el Consell General per economia o el va comprar
    el copríncep per humanitat.** `Registrat, no arbitrat.` **El corpus té dues
    versions incompatibles, i la que ve d'enciclopèdia no cita document.**
-3. **El cas de l'indult de 1854**: **qui era el condemnat, per quin delicte, i
-   quant va durar la discussió.** **Consta que va morir a la presó i no quan.**
-   **Prioritari.**
-   **Tancat a mitges el 15-09-2026**, per la banda andorrana. *La cuestión de
+3. ~~**El cas de l'indult de 1854**: **qui era el condemnat, per quin delicte, i
+   quant va durar la discussió**~~ — **`parcial` el 15-09-2026**: **consta que
+   va morir a la presó i no quan**. La lectura queda tancada per la banda
+   andorrana. *La cuestión de
    Andorra* (1894), **pàgina 6**, dona la seqüència: el bisbe indulta **tot sol,
    «para constituir precedente»**, sense comunicar-ho **ni al copríncep francès
    ni al Tribunal de Corts**; el Consell hi envia **una comissió de protesta**;

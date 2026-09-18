@@ -50,8 +50,9 @@ mesura d'ús lingüístic que la sostingués.
 
 ## Buits registrats
 
-- **Tancat parcialment el 13-09-2026:** s'ha consultat la font primària
-  d'Estadística i s'ha incorporat la distribució per parròquies del juliol
+- ~~**Distribució per parròquies del juliol de 2026**~~ — **`parcial` el
+   13-09-2026**: s'ha consultat la font primària d'Estadística i s'ha incorporat
+   la distribució per parròquies del juliol
   de 2026. No s'ha reconstruït la sèrie històrica completa.
 - No s'han contrastat amb una peça primària identificada les xifres que
   aquesta entrada atribuïa a [Viquipèdia](../../../fonts/viquipedia-ca.md):

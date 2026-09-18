@@ -161,8 +161,8 @@ res.**
    rebutja la prescripció triennal espanyola per contrària al dret romà, una
    declaració del **Consell General de 1876** i una memòria dels **rahonadors de
    1877**. Totes a [el dret supletori](./el-dret-supletori.md).
-4. **Si el costum encara preval** sobre la llei en algun àmbit. **Parcialment
-   tancat:** la Constitució hi entra una sola vegada, a l'**article 84**, i el
+4. ~~**Si el costum encara preval sobre la llei en algun àmbit**~~ — **`parcial`
+   el 18-09-2026**: la Constitució hi entra una sola vegada, a l'**article 84**, i el
    posa com a **criteri que les lleis han de tenir en compte** per fixar la
    competència dels quarts i dels veïnats — no com a font que desplaci la llei.
    Ho recull [l'ordenament jurídic avui](./lordenament-juridic-avui.md).
