@@ -236,8 +236,19 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
 
 ## Buits registrats
 
-- **Quantes guarderies hi ha, quantes places i quants infants**, no consta.
-  `Requereix Estadística o el registre d'autoritzacions.`
+- **Quantes guarderies hi ha, quantes places i quants infants**, no consta. —
+  **`obert`, confirmat el 18-09-2026 amb l'API d'Estadística a la mà.** **La
+  branca d'ensenyament no compta guarderies**: **compta la maternal**, que és
+  escola i no guarderia. `La divisió 259 dona els alumnes de maternal centre
+  per centre i curs per curs, i el 0-3 no hi surt.` **Segueix fent falta el
+  registre d'autoritzacions del ministeri.**
+
+  **El que sí que es pot dir és quantes criatures hi ha al tram següent, i
+  que en són cada any menys**: **2.453 alumnes de maternal el curs 2013 i
+  1.871 el del 2024**, **un −23,7%**, **mentre el total d'escolars del país
+  puja de 10.837 a 11.259** ([l'escola andorrana](./lescola-andorrana-ha-passat-al-davant.md)).
+  **Si la demanda de guarderia segueix la de maternal, també baixa**, i **el
+  corpus no ho pot comprovar.**
 - ~~**Si les multes s'han actualitzat des del 1995**, no consta.~~ — **`resolt`
   el 17-09-2026, i la resposta és millor que una actualització: han desaparegut.**
 

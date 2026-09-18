@@ -113,8 +113,21 @@ s'anuncia una escola privada a Andorra l'any 2000.**
   **`raw/web/esport/` no té cap bolcat de tennis fora de la Copa Davis**
   ([Èric Cervós](../../esports/altres-esports/eric-cervos.md)).
   `Requereix font externa: l'ATP o la Federació Andorrana de Tennis.`
-- **Quantes escoles privades hi ha avui** a Andorra. Aquesta fitxa documenta
-  **l'inici d'una sèrie**, no el seu estat.
+- ~~**Quantes escoles privades hi ha avui** a Andorra. Aquesta fitxa documenta
+  **l'inici d'una sèrie**, no el seu estat.~~ — **`parcial` el 18-09-2026, i
+  el que hi ha és la llista dels centres, no la seva titularitat.**
+  **El llistat de centres de la maternal del Departament d'Estadística**
+  (`docs/raw/estadistica-api/educacio/`, divisió **259**, curs 2024)
+  **nomena quinze centres**, i **cinc no porten nom de parròquia sinó nom
+  propi**: **Sant Ermengol (170 alumnes de maternal)**, **Col·legi Janer
+  (161)**, **Sagrada Família (74)**, **Col·legi dels Pirineus (60)** i
+  **The British College BCA (31)**.
+
+  **The British College BCA apareix el 2018 amb 5 alumnes de maternal i en té
+  31 el 2024**: **és l'únic centre nou de la sèrie.** `El llistat no diu quins
+  són privats i quins concertats o congregacionals, i el corpus no ho dedueix
+  del nom. El que sí que es pot dir és quins centres hi ha i quants alumnes de
+  maternal té cadascun.`
 
 > **Els 45 alumnes d'aquesta escola expliquen una diferència entre dues fonts.**
 > **Afegit el 2026-09-15.** La taula escolar de Margarit i Monné per al mateix
