@@ -120,6 +120,7 @@ inclòs històricament. **Néixer a la Seu no és néixer lluny.**
   **L'home que té cinc rècords d'Andorra va néixer a vint quilòmetres de la
   frontera, a l'altra banda** — vegeu
   [les tres migracions](../../societat/demografia/les-tres-migracions.md).
+  `no-es-buit`
 
 ## Related
 
