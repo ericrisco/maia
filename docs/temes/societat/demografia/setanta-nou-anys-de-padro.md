@@ -230,4 +230,5 @@ quartes parts del creixement eren migració**
 - [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md) — per què hi ha dues xifres.
 - [Les tres migracions](./les-tres-migracions.md)
 - [Les estadístiques que no hi havia](./les-estadistiques-que-no-hi-havia.md) — qui comptava abans del 1997.
+- [De què es mor a Andorra](../sanitat/de-que-es-mor-a-andorra.md) — les causes, en quinquennis mòbils del 1991 al 2021.
 - [Les onades migratòries](./les-onades-migratories.md)

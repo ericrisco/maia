@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1033** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1034** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1461,6 +1461,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
+| [De què es mor a Andorra](temes/societat/sanitat/de-que-es-mor-a-andorra.md) | `temes/societat/sanitat` | compilada | contemporania | no | `estadistica-ad` |
 | [Donar i ser atès](temes/societat/sanitat/donar-i-ser-ates.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `bopa-ad` |
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
