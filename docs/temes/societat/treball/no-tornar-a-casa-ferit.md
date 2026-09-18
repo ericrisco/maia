@@ -134,6 +134,85 @@ parròquia, **Andorra la Vella en concentra el 32,3%**.
 el 2025 **0 accidents fatals** i **2.327 no fatals**. La sèrie va de **2.820
 (2021)** a **2.416 (2025)**: **la sinistralitat baixa**.
 
+## Quinze anys, i el 2019 és l'any negre
+
+**Afegit el 18-09-2026 per l'API d'Estadística**
+(`docs/raw/estadistica-api/accidents/`, divisions 1466-1482). **El corpus tenia
+un any i ara en té quinze.**
+
+| Any | Total | **Fatals** | Més de 30 dies | % més de 30 dies |
+| --- | ---: | ---: | ---: | ---: |
+| 2011 | 1.513 | **0** | 605 | 40,0% |
+| 2012 | 1.435 | 1 | 584 | 40,7% |
+| 2013 | 1.356 | 3 | 551 | 40,6% |
+| 2014 | 1.405 | 3 | 579 | 41,2% |
+| 2015 | 1.349 | 2 | 542 | 40,2% |
+| 2016 | 1.495 | **4** | 626 | 41,9% |
+| 2017 | 1.497 | 1 | 627 | 41,9% |
+| 2018 | 1.457 | **0** | 634 | 43,5% |
+| **2019** | **1.603** | **8** | 710 | 44,3% |
+| 2020 | 1.234 | 4 | 606 | **49,1%** |
+| 2021 | 1.336 | 1 | 616 | 46,1% |
+| 2022 | 1.354 | **0** | 581 | 42,9% |
+| 2023 | 1.463 | 2 | 663 | 45,3% |
+| 2024 | 1.509 | 1 | 704 | 46,7% |
+| **2025** | **1.302** | **0** | 645 | **49,5%** |
+
+**El 2019 hi va haver vuit morts al treball a Andorra.** **És el doble del
+segon any pitjor** —4 el 2016 i 4 el 2020— **i cinc vegades la mitjana dels
+altres catorze anys**, que és **1,57**. **En quinze anys hi ha 30 morts al
+treball, i el 2019 en té més d'una quarta part** (26,7%).
+
+**I hi ha un segon moviment, més lent i menys visible**: **els accidents baixen
+i la seva gravetat puja.** **El 2011, quatre de cada deu accidents deixaven més
+d'un mes de baixa; el 2025, la meitat.** **En nombres absoluts els accidents
+greus han pujat** —605 el 2011, 645 el 2025— **mentre el total baixava un
+13,9%.**
+
+### La construcció s'ho ha quedat
+
+| Sector | 2011 | 2019 | 2025 | % del total 2011 → 2025 |
+| --- | ---: | ---: | ---: | --- |
+| **Construcció** | 401 | 403 | **405** | **26,5% → 31,1%** |
+| Comerç | 310 | 299 | 215 | 20,5% → 16,5% |
+| **Hoteleria** | 212 | 164 | **93** | **14,0% → 7,1%** |
+| Altres serveis socials i personals | 181 | 241 | 227 | 12,0% → 17,4% |
+| Administració pública | 95 | 86 | 69 | 6,3% → 5,3% |
+
+**La construcció fa el mateix nombre d'accidents que fa quinze anys** —401 i
+405— **en un país on el total ha baixat.** **L'hoteleria n'ha perdut el 56,1%.**
+`El corpus no té la sèrie d'ocupats per sector d'aquests quinze anys i no pot
+dir quina part d'això és exposició i quina és prevenció.`
+
+### Qui s'accidenta ha canviat de passaport
+
+| Nacionalitat | 2011 | 2025 | Variació |
+| --- | ---: | ---: | ---: |
+| Portuguesa | **529** | 274 | **−48,2%** |
+| Espanyola | 474 | 326 | −31,2% |
+| Andorrana | 292 | 308 | +5,5% |
+| Francesa | 43 | 12 | −72,1% |
+| **Altres** | 175 | **382** | **+118,3%** |
+
+**El 2011 els portuguesos eren el grup més accidentat del país; el 2025 són
+l'últim dels quatre amb nom.** **«Altres nacionalitats» s'han més que doblat** i
+**ja són el grup més gran**, per davant dels espanyols. `Això segueix la composició de la població treballadora i no diu res,
+per si sol, sobre risc: el corpus no té la sèrie d'afiliats per nacionalitat.`
+
+### I les dones no han tornat
+
+| | 2011 | 2019 | 2020 | 2025 |
+| --- | ---: | ---: | ---: | ---: |
+| Homes | 1.055 | 1.162 | 934 | **978** |
+| **Dones** | 458 | **441** | **300** | **324** |
+| **% dones** | **30,3%** | 27,5% | 24,3% | **24,9%** |
+
+**El 2020 els accidents de dones cauen un 32,0% i els d'homes un 19,6%**, i
+**cinc anys després els d'homes han recuperat el 4,7% i els de dones el 8,0%,
+tots dos molt lluny del 2019.** **La proporció de dones accidentades ha baixat
+5,4 punts en quinze anys.** `Podria ser canvi de sector, de jornada o de
+declaració: la font no ho separa.`
+
 ## Buits registrats
 
 - ~~**Quants accidents laborals i malalties professionals es declaren a Andorra**,
