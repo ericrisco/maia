@@ -146,9 +146,16 @@ es poden notificar al Registre **«a efectes informatius»**.
 
 ## Buits registrats
 
-1. **El contingut del Registre.** És públic i el corpus no l'ha consultat. **Amb
-   això es tanquen d'una vegada els buits 1, 3 i 4** de
-   [les religions d'Andorra avui](./les-religions-dandorra-avui.md).
+1. ~~**El contingut del Registre.** És públic i el corpus no l'ha
+   consultat.~~ — **`font_externa` el 18-09-2026**: **no és que no s'hagi
+   consultat, és que no es pot consultar des del teclat.** El 30-3-2026 la
+   consellera general Susanna Vela va haver d'entrar una **pregunta escrita
+   al Govern** per veure «la relació d'entitats inscrites»
+   ([font](../../../fonts/bondia-vela-registre-religioses-2026.md),
+   detallat a [les religions d'Andorra
+   avui](./les-religions-dandorra-avui.md#buits-registrats)). **La resposta
+   del Govern a aquella pregunta és ara el buit real, no el registre en
+   si.**
 2. **Quantes entitats s'hi han inscrit** des del 2025.
 3. **Què hi havia abans del 2025.** Si les confessions no catòliques tenien alguna
    via de personalitat jurídica, i quina.
