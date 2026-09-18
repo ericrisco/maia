@@ -65,7 +65,7 @@ millorar en quatre anys.**
   anys**, en la mateixa prova.
   **Dos Jocs, la mateixa prova, i la millor marca de la seva vida feta fora dels
   dos.**
-- **Quan va plegar i què fa ara.** — **`obert`, confirmat.** **El bolcat la
+- ~~**Quan va plegar i què fa ara.**~~ — **`obert`, confirmat.** **El bolcat la
   tracta com a exnedadora i el camp `updated` hi és buit.**
 - ~~**On va néixer**~~ — **`resolt`**: **Andorra la Vella, 8 de setembre del
   1980.**

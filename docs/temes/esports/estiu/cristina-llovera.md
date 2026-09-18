@@ -75,7 +75,7 @@ la mateixa arrel que **[Claudina Rossel](../esqui/esquiadors/claudina-rossel.md)
   abans dels Jocs**, que **la va deixar sense opcions**. **El que va passar
   després del 2016 segueix `obert`**, **i l'infobox està actualitzat al 15
   d'agost del 2012**: **el bolcat no pot respondre-ho.**
-- **El seu palmarès als Jocs dels Petits Estats.** — **`obert`, confirmat, i el
+- ~~**El seu palmarès als Jocs dels Petits Estats.**~~ — **`obert`, confirmat, i el
   motiu és de font**: **el bolcat no té taula de competicions ni medaller.**
 - **Un fet que la fitxa no tenia**: **era la participant més jove de tota la
   competició d'atletisme dels Jocs de Londres.** **Nascuda l'1 d'octubre del

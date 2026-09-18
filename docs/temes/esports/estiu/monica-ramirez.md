@@ -80,7 +80,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   resultat que hi tocava: no surt.**
 
   `Per què no va sortir, la font no ho diu.`
-- **Els seus resultats del Mundial del 2013.** — **`obert`, confirmat**: **el
+- ~~**Els seus resultats del Mundial del 2013.**~~ — **`obert`, confirmat**: **el
   bolcat en dona la prova i cap marca.** `font_externa`
 - **Del Mundial del 2013 el bolcat només diu la prova** —**50 m lliures**— **i
   cap resultat.**

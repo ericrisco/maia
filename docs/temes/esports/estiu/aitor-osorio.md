@@ -71,7 +71,7 @@ nedadors als Jocs?*
 - ~~**On va néixer**~~ — **`resolt`, i el corpus no ho havia preguntat però hi
   era**: **Escaldes-Engordany**. **Nom complet: Joan Aitor Osorio Martí, 31
   d'octubre del 1975.**
-- **La Federació Andorrana de Natació**, sencera. — **`obert`, confirmat, i és
+- ~~**La Federació Andorrana de Natació**, sencera.~~ — **`obert`, confirmat, i és
   un buit de branca**: **el corpus no té fitxa de cap federació esportiva
   andorrana.** Vegeu [els esports](../README.md).
 
