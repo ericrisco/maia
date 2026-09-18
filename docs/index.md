@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1039** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1040** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -333,6 +333,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cent hectàrees de tabac](temes/economia/tabac/cent-hectarees-de-tabac.md) | `temes/economia/tabac` | compilada | contemporania | no | `govern-andorra-web` |
+| [El contraban, avui, s'agafa a dins](temes/economia/tabac/el-contraban-savui-sagafa-a-dins.md) | `temes/economia/tabac` | compilada | contemporania | no | `estadistica-ad` |
 | [La revolta del tabac de 1733](temes/economia/tabac/la-revolta-del-tabac-de-1733.md) | `temes/economia/tabac` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [Quant tabac es cull avui](temes/economia/tabac/quant-tabac-es-cull-avui.md) | `temes/economia/tabac` | compilada | contemporania | no | `estadistica-ad` |
 | [El tabac](temes/economia/tabac/tabac.md) | `temes/economia/tabac` | compilada | contemporania | no | `viquipedia-ca` |
