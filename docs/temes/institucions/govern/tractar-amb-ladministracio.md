@@ -238,12 +238,10 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   complert, **sempre que no hi hagi hagut cap nova responsabilitat
   disciplinària** i **llevat de l'acomiadament i la inhabilitació definitiva**,
   que no es cancel·len mai.
-- **Quants contractes menors i quants directes** s'adjudiquen l'any, tampoc. —
-  **`obert`, confirmat el 2026-09-14**, i **bessó** del que declara
-  [la contractació directa](./la-contractacio-directa.md). **Comptat un sol
-  cop, és un buit i no dos.** **I val la pena dir què mesuraria**: **l'article 30.1 obre
-  nou circumstàncies d'adjudicació directa, de la a) a la i), i el corpus no sap
-  per quina se n'adjudica cap.**
+- ~~**Quants contractes menors i quants directes** s'adjudiquen l'any, tampoc.~~ —
+  **`resolt` el 18-09-2026, com a bessó**: el buit canònic i l'estat de la
+  consulta del Registre oficial queden a
+  [la contractació directa](./la-contractacio-directa.md).
 
   **`parcial` el 17-09-2026, i el que canvia és que ara es pot comptar.**
   L'article 19.2.d del **Reglament de la Llei de contractació pública (Decret
