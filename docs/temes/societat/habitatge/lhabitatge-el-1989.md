@@ -237,23 +237,39 @@ amb una sola cerca.**
    buits](./els-habitatges-buits.md)). **El 2006 es demana; el 2026 es
    pot prendre.** **El mateix problema, el mateix parc de pisos buits, i
    vint anys de distància entre demanar-ho i obligar-hi.**
-6. **Sèrie històrica** del lloguer sobre el salari. — **`parcial` el 18-09-2026:
-   el denominador ja hi és, el numerador no.** **La sèrie del salari mínim és
-   sencera del 1981 al 2026**, semestre a semestre
+6. ~~**Sèrie històrica** del lloguer sobre el salari.~~ — **`resolt` el
+   18-09-2026, i el mateix dia en dues passes.** **Al matí hi havia el
+   denominador i no el numerador; a la tarda hi ha tots dos.**
+
+   **Denominador**: la sèrie del salari mínim, **sencera del 1981 al 2026**,
+   semestre a semestre
    ([el salari mínim](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md#la-serie-completa-i-comenca-vuit-anys-abans-del-butlleti)):
    **166,16 € al mes el 1981**, **435,45 € el 1990**, **962,00 € del 2013 al
    2015** i **1.568,67 € el juliol del 2026**.
 
-   **Del numerador el corpus segueix tenint només els dos extrems** —«superior
-   al 60% del sou base» el 1989 i +25% entre el 2023 i el 2024
-   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md))—, **i cap punt
-   intermedi**.
+   **Numerador**: el **preu mitjà del lloguer, 2010-2025** (divisió **743** de
+   l'API d'Estadística), **i desglossat per anys de residència des del 2019**
+   ([dos terços del país viuen de lloguer](./dos-tercos-del-pais-viuen-de-lloguer.md)).
 
-   **El que sí que es pot dir amb el denominador sol**: **el salari mínim
-   mensual es va congelar tres anys seguits, del gener del 2013 al juliol del
-   2015**, i **any i mig més del 2009 al 2010**. `Si el lloguer es va moure
-   aquells anys, la fracció va empitjorar sense que el numerador hi tingués cap
-   culpa. El corpus no té la sèrie de lloguer d'aquell tram per comprovar-ho.`
+   **La fracció, doncs**, i **és la resposta directa a la pregunta del 1989**:
+
+   | Any | Lloguer mitjà / salari mínim | Lloguer de qui acaba d'entrar / salari mínim |
+   | --- | ---: | ---: |
+   | **2010** | **63,3%** | — |
+   | 2016 | 59,2% | — |
+   | 2019 | 59,1% | 56,3% |
+   | **2023** | 53,3% | **79,0%** |
+   | **2025** | **52,2%** | **61,9%** |
+
+   **El lloguer mitjà ha deixat d'estar per sobre del 60% del salari mínim el
+   2012 i no hi ha tornat.** **El lloguer d'entrada hi és cada any mesurat
+   menys un.** `Les dues respostes són certes i són contràries: la frase del
+   1989 segueix valent per a qui busca pis i ha deixat de valer per a qui ja en
+   té. El corpus no tria: dona les dues files.`
+
+   **El que segueix obert**, i ara amb la mida exacta del forat: **entre el 1989
+   i el 2010 no hi ha cap preu de lloguer.** **Vint-i-un anys.** `El salari
+   mínim sí que hi és tot; el lloguer, no.`
 
 > **Defecte registrat, del tipus «el mateix buit declarat dues vegades dins del
 > mateix article»:** els buits **3** i **4** ja estaven escrits més amunt, al

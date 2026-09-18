@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1024** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**1026** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## parla/oral
 
@@ -1390,6 +1390,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Dos terços del país viuen de lloguer](temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
 | [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els recomptes del parc públic el 2026](temes/societat/habitatge/els-recomptes-del-parc-public-el-2026.md) | `temes/societat/habitatge` | compilada | contemporania | no | `consell-general-pressupost-2026` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
@@ -1435,6 +1436,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [El Gini ha pujat vuit punts](temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 | [Sis-cents quaranta-quatre espanyols i tres-cents un andorrans](temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/sanitat
