@@ -263,7 +263,7 @@ de cada moment i no pas a un programa preordenat»**
    afirmada.**
 8. **Testimoni oral** de dones que van votar el 14 de desembre de 1971. **En
    viuen.** Material de fase 3.
-9. La **llei de 1975** sobre drets civils de la dona casada. — **`parcial`,
+9. ~~La **llei de 1975** sobre drets civils de la dona casada.~~ — **`parcial`,
    auditat el 2026-09-14, i el corpus en té tot menys el text.** **Hi és la
    data, la matèria i el que significa**: **fins al 1975 la dona casada
    andorrana no tenia plens drets civils**, i **la mateixa data és la de
@@ -303,8 +303,8 @@ de cada moment i no pas a un programa preordenat»**
     la UB el 1983—, després **ambaixadora a Suècia, Noruega i Islàndia** i
     **ministra d'Educació i Joventut del 2011 al 2015**; **candidata de
     Demòcrates per Andorra** el 2019 ([fitxa](../../persones/roser-sune.md)).
-12. **Mercè Bonell**, **Maria Reig**, **Rosa Ferrer** i **Montse Gil**: qui eren,
-    per quin partit, quants anys. **Quatre noms i cap biografia.** —
+12. ~~**Mercè Bonell**, **Maria Reig**, **Rosa Ferrer** i **Montse Gil**: qui eren,
+    per quin partit, quants anys. **Quatre noms i cap biografia.**~~ —
     **`parcial`, auditat el 2026-09-14: de quatre, una es mig-tanca, dues
     guanyen un fil i una segueix sent només un nom.**
 
@@ -336,8 +336,8 @@ de cada moment i no pas a un programa preordenat»**
     partits declara que no inclou els partits parroquials**, **que són el gruix
     de la història partidària d'Andorra fins al 1993**, **i la Unió Laurediana
     n'és l'únic rastre que hi queda.**
-14. **Quantes dones hi ha hagut al Consell General per legislatura.** Cap sèrie.
-    — **`obert`, confirmat el 2026-09-14.** **El corpus té punts solts i cap
+14. ~~**Quantes dones hi ha hagut al Consell General per legislatura.** Cap sèrie.~~
+    — **`parcial`, confirmat el 2026-09-14.** **El corpus té punts solts i cap
     sèrie**: **1984 la primera per substitució, 1985 la primera electa, el
     període constituent amb una sola consellera, i sis mesos de parlament en
     femení el 2011**

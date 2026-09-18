@@ -109,7 +109,7 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
    **`obert`, confirmat.** **Cap altre document del corpus no esmenta ni
    Maestre, ni Dolsa, ni Huguet.** `Requereix font externa: registres de
    l'*école normale* de Perpinyà, o registres parroquials andorrans.`
-2. **Van tornar a Andorra?** **Van fer de mestres?** On? — **`parcial`, per
+2. ~~**Van tornar a Andorra?** **Van fer de mestres?** On?~~ — **`parcial`, per
    deducció del corpus, no per font.** **L'octubre del 1900 obren les dues
    primeres escoles franceses d'Andorra, a Andorra la Vella i Sant Julià**
    ([l'ensenyament francès](../educacio/lensenyament-frances.md)): **cinc anys
@@ -123,8 +123,8 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
    ser una tria? — **`obert`, confirmat, i el corpus només hi pot afegir el que
    ja diu aquesta fitxa**: **«els mestres, aleshores, eren mestresses»**, que és
    lectura pròpia i no resposta.
-4. **Les tres famílies de 1905** i els seus fills — **aquests sí que es diuen
-   «fills»**, en masculí. **Van canviar de criteri?** — **`parcial`: els noms
+4. ~~**Les tres famílies de 1905** i els seus fills — **aquests sí que es diuen
+   «fills»**, en masculí. **Van canviar de criteri?**~~ — **`parcial`: els noms
    segueixen faltant i la destinació ja no.** **Les tres beques de 1905 havien
    de permetre escoles a Canillo, Encamp i Escaldes**
    ([l'ensenyament francès](../educacio/lensenyament-frances.md)): **el mateix
