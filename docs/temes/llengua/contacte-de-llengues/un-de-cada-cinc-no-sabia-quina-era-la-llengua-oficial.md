@@ -254,10 +254,9 @@ nota al peu en cita un altre:**
    *Coneixements i usos lingüístics dels escolars d'Andorra*.** **No és a la
    llista de catorze peces del fons que el corpus té registrada**, i **totes les
    xifres escolars d'aquesta fitxa en venen.** **Prioritari.**
-2. **La quarta onada del 2004** de l'enquesta de població. **El corpus té
-   l'edició 1995-2009 al disc, comprovada com a existent i sense llegir.**
-   **A l'abast immediat**, i **tancaria la citació de totes les xifres d'aquesta
-   fitxa.**
+2. ~~**La quarta onada del 2004** de l'enquesta de població.~~ — **`resolt` el
+   2026-09-18**: el PDF [*Coneixements i usos lingüístics de la població
+   d'Andorra. Situació actual i evolució (1995-2009)*](../../../raw/llengua-usos-linguistics/coneixements2011.pdf), **DL AND. 908-2011**, explica a la p. 7 que la metodologia permet comparar els estudis de **1995, 1999, 2004 i 2009**; el gràfic de llengua materna de la p. 9 inclou les quatre sèries i la fitxa tècnica de la p. 27 torna a enumerar les quatre onades. **Divergència registrada:** l'etiqueta de la segona sèrie del gràfic extret diu «2000», mentre que el text metodològic diu «1999»; el corpus no l'arbitra.
 3. **Sobre quina mostra i amb quina pregunta es va mesurar que «un 20% dels joves
    enquestats no sabien que l'única llengua oficial al país és la catalana».**
    **La xifra és massa forta per quedar-se de segona mà.**
