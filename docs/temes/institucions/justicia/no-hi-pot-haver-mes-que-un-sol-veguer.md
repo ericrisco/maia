@@ -279,7 +279,25 @@ vestit*». La font hi respon:**
    arrendar l'ofici. **La font ho diu en condicional i no els cita.**
 9. **Les Corts de 1444**, amb un *gerent de la Vigueria* i un lloctinent. **El
    corpus no té aquest càrrec en cap altra font.**
-10. **El *Politar*, p. 173.** — **Les pp. 177 i 180, `resoltes` el 18-09-2026, i
+10. ~~**El *Politar*, p. 173.**~~ — **`resolt` el 18-09-2026, i la recepció és un
+    acte d'examen, no de cortesia.** **Els Veguers «deuhen ser rebuts per lo
+    Concell General de les Valls»**, que **el síndic convoca «a requisicio,
+    peticio o demanda del Veguer que deu ser rebut»**; **allà «se examine la
+    legalitat del titol»** i **«se transumpte en un llibre del Concell ahont se
+    reben los Veguers»**; i **només llavors presten el jurament de conservar
+    privilegis, franqueses, exempcions, usos i costums «tan escrits com no
+    escrits»**, del qual el secretari aixeca acta.
+
+    > **El Consell General comprovava el títol del lloctinent del príncep abans
+    > d'admetre'l.** **No és protocol: és control de legalitat, i en queda
+    > registre en un llibre destinat només a això.**
+
+    **I el Politar dona un consell que val la pena retenir per ell mateix**: en
+    les coses on l'autoritat dels Veguers és limitada i ells volen fer-la valer
+    igualment, **«aconcello a les Valls y particulars de elles ***se
+    oposien***»**, però **«ab molta cautela, moderacio, modestia y cortesia»**.
+
+    **Les pp. 177 i 180, `resoltes` el 18-09-2026, i
     la instal·lació té dos juraments, no un.**
 
     **P. 177 — la presa de possessió**: **«Deuhen en lo ingres del empleo

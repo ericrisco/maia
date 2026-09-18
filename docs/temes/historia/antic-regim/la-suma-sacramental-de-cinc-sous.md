@@ -200,9 +200,34 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    Jutge d'Apel·lacions en el mateix sentit el 1891** ([domèstics d'un rang una
    mica més elevat](./domestics-dun-rang-una-mica-mes-elevat.md)). **Segueix sense
    haver-hi sèrie.**
-5. **Què deia el Politar** sobre la impossibilitat del fill de demanar
-   l'anul·lació del testament patern. `Requereix font externa: el Politar, la part
-   que el corpus encara no ha obert.`
+5. ~~**Què deia el Politar** sobre la impossibilitat del fill de demanar
+   l'anul·lació del testament patern.~~ — **`resolt` el 18-09-2026: la part del
+   Politar que calia sí que era al corpus**, dins l'extracte de Brutails
+   ([El Politar andorrà, llegit](../manual-digest/el-politar.md)), **a la pàgina
+   184**, i **ho diu com a exemple d'una regla més general.**
+
+   **La regla**: el Jutge observa **«lo modo, forma y disposicio del dret comu,
+   (que es lo que se obcerva en les Valls de Andorra), ***menos en aquellas
+   cosas en que es abrogat per alguna lley patria o contraria consuetut***»**, i
+   **aquestes darreres s'observen primer.**
+
+   **L'exemple que en dona és precisament aquest:**
+
+   > «Per exemple, se tracta de exheredacio o se queyxe algun fill de la
+   > disposicio de son pare: **no te lloch en les Valls de Andorra, (essent rebut
+   > per costum en contrari), la *querela inofficiosi testamenti*, y
+   > consequentment *agere de rescisione o irritatione testamenti*, sino tant
+   > solament *agi potest ad reverentiam parentum ad aumentum legitimæ*.**»
+
+   **El fill no pot demanar que s'anul·li el testament del pare**: **només pot
+   actuar per augmentar la llegítima, i amb reverència als pares.** **I el
+   fonament no és una llei sinó el costum contrari**, expressament invocat contra
+   el dret comú.
+
+   > **Això és el que fa d'aquest exemple una peça de mètode**: **el Politar
+   > tria, per il·lustrar la prelació del costum sobre el dret comú, justament la
+   > matèria successòria.** **El costum andorrà que s'imposa al dret romà és el
+   > que protegeix l'hereu.**
 6. **El testament recent interpretat pel Tribunal Superior**, i **fins on
    arribava la influència dels legistes de la Seu.**
 7. **Si l'hereu havia de fer inventari en un mes**, com deia el notable, **o no**.

@@ -251,7 +251,25 @@ bruixeria*»**, **amb el compte de despeses del juny de 1604**
    el corpus ja sap que el jutge comú era la regla**
    ([no en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md)).
 4. **El *Politar*, exemplar de Perpinyà, pp. 260-261 i 303**, sobre el Bisbe
-   tenint Corts en persona, **i p. 184.**
+   tenint Corts en persona. — **La p. 184, `resolta` el 18-09-2026, i dona una
+   cosa que aquesta fitxa necessitava per al fons: el Jutge no havia de viure a
+   Andorra.**
+
+   > «Las causas civils pot substanciarlas **en qualsevol part** e informar los
+   > procesos, si vol, **en lo lloch de sa habitacio**, (**pues no es necessari
+   > que lo Jutge habitie o residesca en las Valls de Andorra, menos en temps de
+   > Corts**); sols, despues de denunciat y publicat lo proces, **deu
+   > transportarse dins las Valls de Andorra pera proferir la sentencia**.»
+
+   **Instruir des de fora, sentenciar a dins.** **Això explica per què el
+   calendari de les Corts i el lloc de residència del Jutge apareixen tan sovint
+   com a problema en aquesta branca**, i **per què el nomenament interí pels
+   Veguers era necessari quan la plaça vacava**
+   ([no en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md)).
+
+   **La mateixa pàgina confirma el termini de tretze dies —«10 de justicia y 3 de
+   gracia»— amb la reserva de l'autor**: **«si no me enganyo»**, i **«los que he
+   vist obcervar en les Valls de Andorra»**.
 5. **Quins prelats van venir en persona a tenir les Corts**, **i què canviava
    quan hi eren.** **La font diu que ho ignora.**
 6. **La resposta del Bisbe a la invitació del 28 de maig de 1869**, si n'hi va
