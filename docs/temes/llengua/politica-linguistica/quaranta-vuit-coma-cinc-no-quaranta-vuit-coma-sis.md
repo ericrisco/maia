@@ -430,7 +430,7 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   48,6** ([lectura](./els-nouvinguts-tenien-mes-catala-que-els-nascuts-a-andorra.md)).
   **El que segueix `obert` és l'edició 1995-2018**, de la qual el corpus només ha
   llegit la pàgina 32; **és l'única del fons sense obrir.**
-- **L'informe exhaustiu del qual aquest llibret és un resum.** El document ho diu
+- ~~**L'informe exhaustiu del qual aquest llibret és un resum.**~~ El document ho diu
   de si mateix, igual que el del 2022: **«un recull sintètic extret d'un informe
   més exhaustiu i detallat que podeu consultar al web www.catala.ad».** **Catorze
   anys i dues edicions després, el corpus segueix sense localitzar-lo.**

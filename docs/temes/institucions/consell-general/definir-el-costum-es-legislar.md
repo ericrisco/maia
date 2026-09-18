@@ -390,7 +390,7 @@ font és un present** *(pp. 108-109)*:
    resol «que quede a la llibertat de les parròquies lo eximir-se»**. **Ni hi
    diu que sí ni que no: ho deixa a cada parròquia.** **El càrrec més humil del
    país és l'únic del qual els notables van demanar per escrit de no fer-lo.**
-8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **cap cas.** —
+8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **~~cap cas.~~** —
    **`obert` encara pel que fa a les apel·lacions**, i **`parcial` per a tot el
    que l'envolta**, des de les [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) el

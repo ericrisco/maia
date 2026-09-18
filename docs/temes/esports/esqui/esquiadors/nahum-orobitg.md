@@ -49,7 +49,7 @@ de les dues dones, de qui la font no dona resultats.
     olímpiques i els identificadors de la FIS i d'Olympedia.** **No és, doncs,
     una dada perduda en una transcripció: no està publicada a cap de les
     dues.**
-- **Copes del Món, campionats del món, campionats d'Andorra**: cap dada. —
+- ~~**Copes del Món, campionats del món, campionats d'Andorra**: cap dada.~~ —
   **`parcial` el 17-09-2026, i el que impedeix tancar-lo del tot no és la
   ignorància sinó els drets.**
 

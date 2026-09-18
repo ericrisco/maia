@@ -250,7 +250,7 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   andorrà, el sap d'un congrés de tres dies.** **Els «Tot això el 2026» que
   aquestes fitxes repeteixen són, en realitat, un sol buit.**
   `Requereix font externa: el web de la Universitat d'Andorra o l'AQUA.`
-- **Quants estudiants andorrans hi ha a l'estranger** i on. La font diu que el
+- ~~**Quants estudiants andorrans hi ha a l'estranger**~~ i on. La font diu que el
   ministeri en fa el seguiment — **doncs existeixen les xifres**. —
   **`parcial` el 18-09-2026, i el que el catàleg d'Estadística publica no és
   això**:

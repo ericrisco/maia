@@ -403,7 +403,7 @@ font sobre ella mateixa:**
    estat»**.
 3. **El privilegi de 1433**, **en una còpia millor que la que la font posa en
    dubte.** **Prioritari**: **és el text fundacional dels *rahonadors*.**
-4. **La resposta del bisbe Catalán de Ocón (1757-1762) al Consell General** sobre
+4. ~~**La resposta del bisbe Catalán de Ocón (1757-1762) al Consell General**~~ sobre
    les funcions dels *rahonadors*. **La font només n'ha vist una anàlisi i diu
    que no en treu res.** `Requereix font externa: arxiu del bisbat.`
    - **`parcial` des del 20-09-2026: sí que en treu una cosa, dues pàgines més

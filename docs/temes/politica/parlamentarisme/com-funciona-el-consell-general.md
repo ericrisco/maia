@@ -326,8 +326,8 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    llei de concertació i consulta institucional dels comuns** i la de
    **modificació de la Llei del cens**. `L'abast d'aquesta comprovació és la
    legislatura actual: la seu publica el Butlletí del 2023 ençà.`
-7. **El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
-   descrits. Cap fitxa al corpus. — **`parcial` el 17-09-2026: segueixen sense
+7. ~~**El Tribunal de Comptes** i **el Raonador del Ciutadà**: citats i no
+   descrits. Cap fitxa al corpus.~~ — **`parcial` el 17-09-2026: segueixen sense
    fitxa i ja no són sense font.**
 
    **I el 2026-09-18 s'hi afegeix com pengen del Consell General, que és el que
