@@ -95,6 +95,51 @@ amb `source` i `updated`— i `serie(idDivision)` —parells `(període, valor)`
 mateixa quins períodes té aquella divisió, perquè **l'API retorna `400 Bad
 Request` si `showColumns` no coincideix amb la periodicitat real de la taula.**
 
+## Què s'ha bolcat, a 18-09-2026
+
+**1.354 de les 2.709 divisions** —**el 50,0%**— i **336.102 valors**, en
+**vint-i-set carpetes**, **totes amb README de procedència, llicència i defectes
+registrats**.
+
+| Carpeta | Divisions | Valors |
+| --- | ---: | ---: |
+| `comparacio-internacional` | 298 | 50.726 |
+| `demografia-vital` | 191 | 55.358 |
+| `salut-cultura-medi` | 189 | 12.437 |
+| `qualitat-de-vida` | 153 | 4.073 |
+| `treball-mercat` | 121 | 77.787 |
+| `cultura` | 100 | 552 |
+| `prestacions` | 91 | 5.583 |
+| `seguretat` | 85 | 9.156 |
+| `tic` | 78 | 6.158 |
+| `educacio` | 64 | 21.905 |
+| `pobresa` | 54 | 2.176 |
+| `llengua` | 44 | 1.090 |
+| `comuns` | 32 | 12.613 |
+| `empreses` | 22 | 2.860 |
+| `cura`, `pib` | 20 c/u | 56 · 7.963 |
+| `accidents` | 17 | 1.395 |
+| `eleccions` | 16 | 342 |
+| `assalariats`, `caca-pesca` | 15 c/u | 28.345 · 860 |
+| `allotjament`, `habitatges`, `hipoteques` | 14 c/u | 2.524 · 3.536 · 624 |
+| `ipc`, `poblacio` | 12 c/u | 19.210 · 4.482 |
+| `fiscalitat` | 10 | 3.990 |
+| `infancia` | 7 | 301 |
+
+**El que queda sense bolcar és, sobretot**: **`0202` pressupostos (399
+divisions)**, **`0205` ajudes, permisos, vehicles i allotjament (446)**,
+**`0204` estoc d'empreses i sector exterior (267)**, **la resta de `0101`
+població (251)** i **`0203` IPC detallat (107)**.
+
+## Dues regles d'ús que han costat de trobar
+
+1. **Si els noms de sèrie arriben com a codis** —`0105020500070002`— **en
+   json-stat i amb `language=ca`, demana la mateixa divisió amb `file=csv`**:
+   els retorna escrits en català.
+2. **Si l'API respon `500`, l'URL és massa llarg.** Una divisió mensual des del
+   1966 genera un `showColumns` de 5.922 caràcters. **Retalla'l a un període per
+   any** —els desembres—; **si encara falla amb `502`, retalla el rang d'anys.**
+
 ## Primer ús
 
 **La sèrie de producció de tabac, 1973-2025, any per any** —cinquanta-tres
