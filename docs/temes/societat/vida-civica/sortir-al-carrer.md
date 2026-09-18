@@ -75,8 +75,8 @@ Dues coses que un lector no esperaria trobar al mateix text:
 
 ## Buits registrats
 
-- **Quantes manifestacions es comuniquen cada any** i si mai se n'ha prohibit
-  cap, no consta. — **`obert`, confirmat**: **és una dada d'execució i cap
+- ~~**Quantes manifestacions es comuniquen cada any** i si mai se n'ha prohibit
+  cap, no consta.~~ — **`obert`, confirmat**: **és una dada d'execució i cap
   document del corpus no la té.** **El que el corpus sí que té ara és el
   principi de la sèrie**: **la manifestació del setembre del 2018 per la
   despenalització de l'avortament**, descrita com **la primera de la història

@@ -201,7 +201,7 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
    d'espectacles**: **és exactament el que aquesta fitxa descriu quan diu que
    les associacions cobrien el que no cobria ningú.** **La data de fundació
    segueix oberta.**
-6. **La llista de les ~150 associacions** no s'ha transcrit. Serviria per datar
+6. ~~**La llista de les ~150 associacions** no s'ha transcrit.~~ Serviria per datar
    la vida cívica del 2007 nom per nom. — **`obert`, confirmat**, i **val la
    pena dir què hi guanyaria**: [les comunitats](../immigracio/les-comunitats.md)
    en té **vint-i-una del 2015, totes d'immigrants**. **Les dues llistes juntes

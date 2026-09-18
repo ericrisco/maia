@@ -305,7 +305,7 @@ diu que siguin la mateixa categoria.**
    **Surt en nou fitxes del corpus**, de les fronteres pastorals a les allaus
    d'Arinsal. **La suposició d'aquest buit era correcta i la seva incertesa no
    calia.**
-5. **Les «més de cinquanta ètnies»** d'Agustí Font: d'on surt la xifra. —
+5. ~~**Les «més de cinquanta ètnies»** d'Agustí Font: d'on surt la xifra.~~ —
    **`obert`, confirmat.** **Cap document del corpus no dona un recompte de
    nacionalitats presents a Andorra el 1989**; el més proper és la taula del
    2020, que n'enumera **vint** amb nom i agrupa la resta en **«Altres,

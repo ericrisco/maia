@@ -141,9 +141,9 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
   **No hi ha llei d'avortament perquè un dels dos caps d'estat n'havia declarat
   la impossibilitat trenta anys abans.** `Marcat com a context, no com a
   explicació causal provada.`
-- **Stop Violències**: cap fitxa de l'entitat. — **`obert`, confirmat**: **cap
+- ~~**Stop Violències**: cap fitxa de l'entitat.~~ — **`obert`, confirmat**: **cap
   altre document del corpus no l'esmenta.**
-- **El primer Orgull d'Andorra**, del 2019. — **`obert`, confirmat, i és un buit
+- ~~**El primer Orgull d'Andorra**, del 2019.~~ — **`obert`, confirmat, i és un buit
   de branca sencera**: **el corpus no té cap article sobre drets LGBTI a
   Andorra**, ni la unió civil, ni el matrimoni igualitari.
   `Requereix font externa.`

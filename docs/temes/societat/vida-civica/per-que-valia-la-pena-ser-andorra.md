@@ -180,7 +180,7 @@ sap quines ni en quines condicions.
 > tenien resposta, sencera o a mitges, en altres branques** — **i un d'ells va
 > guanyar-la el mateix dia, des d'una tesi de geografia.**
 
-1. **El manuscrit del notable**: qui l'escriu, quan, i on és. **Prioritari** — és
+1. ~~**El manuscrit del notable**: qui l'escriu, quan, i on és.~~ **Prioritari** — és
    la millor explicació que té el corpus de per què la independència importava a
    qui la vivia. — **`obert`, confirmat.**
 2. ~~**El servei militar a Andorra**: si n'hi va haver mai, i quan es va fixar
@@ -205,7 +205,7 @@ sap quines ni en quines condicions.
    verema de delme**. **I aquella fitxa declara exactament el buit que aquesta
    declara**: «**la relació entre quèstia, delme i talla — són tres coses i aquí
    es toquen**». **Comptat un sol cop, és un buit i no dos.**
-4. **Les mútues d'incendis**: noms, pobles, estatuts, si en queda cap. —
+4. ~~**Les mútues d'incendis**: noms, pobles, estatuts, si en queda cap.~~ —
    **`obert`, confirmat**, i **bessó** del que declara
    [l'associacionisme històric](./lassociacionisme-historic.md).
 5. **Quines consòrcies prestaven diners**, i amb quines condicions. —
