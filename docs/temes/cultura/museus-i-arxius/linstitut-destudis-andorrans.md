@@ -350,7 +350,14 @@ assembla força al que aquest corpus intenta fer amb text.
   pública andorrana té, per llei, una cadira reservada al comerç.**
 
   `Requereix la llei del 1976, que és anterior al BOPA.`
-- **Qui dirigeix l'IEA avui** i quina n'és l'estructura.
+- ~~**Qui dirigeix l'IEA avui** i quina n'és l'estructura.~~ — **`parcial` el
+  19-09-2026**: la pàgina institucional actual diu que l'IEA, l'Obsa i Actua
+  Innovació s'han transformat en **Andorra Recerca + Innovació** i que l'arxiu
+  IEA del web arriba fins al juny de 2021. La pàgina d'organització publicada
+  enumera **Jordi Guillamet** com a director, **Ester Vilarrubla** com a
+  presidenta del Comitè Director i descriu els centres **CRES** i **CENMA**
+  ([fitxa de font](../../../fonts/iea-estat-2026.md)). **No hi ha una font
+  pública consultada que confirmi els càrrecs actuals d'AR+I.**
 - **Antoni Calvo Armengol** (UPF), **Martí Boada** (UAB/CREA) i **Joan Manuel
   Vilaplana** (UB): els tres dissenyadors externs de la recerca andorrana.
 
