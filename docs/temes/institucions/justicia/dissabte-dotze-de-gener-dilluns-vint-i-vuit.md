@@ -296,10 +296,11 @@ exemple datat. El corpus el refà.**
 8. **El despatx dels Afers Estrangers del 19 de novembre de 1846** *(Archives de
    l'Ariège, Andorre, lligall 2 — **onzena peça registrada i cap consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
-9. **El procés andorrà jutjat el 1749-1753 davant del Consell Sobirà del
+9. ~~**El procés andorrà jutjat el 1749-1753 davant del Consell Sobirà del
    Rosselló**, en què **la part guanyadora va formar requesta d'execució al cap
-   dels deu dies.** **El corpus ja tenia l'arrêt de 1749 registrat i ara en sap la
-   durada.**
+   dels deu dies.**~~ **`parcial`:** l'*arrêt* de 1749 ja permet documentar que
+   la requesta d'execució es va formar al cap de deu dies; el corpus encara no
+   té el procés sencer ni en pot reconstruir totes les actuacions.
 10. **Quines són exactament les «requestes dispensades del procediment de
     judici»** que s'executen immediatament. **La font en dona la categoria i no la
     llista.**
