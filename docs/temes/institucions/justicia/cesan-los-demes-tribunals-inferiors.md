@@ -249,8 +249,44 @@ la més precisa de totes:**
 6. **La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
    comptes de reemborsament.** **Tercera tanda que el corpus reclama documents
    comptables de les Corts.**
-7. **El *Politar*, pp. 185, 218 i 254.** — **Les pp. 336 i 349, `resoltes` el
-   18-09-2026, i les dues són del cerimonial d'obertura i clausura de Corts.**
+7. ~~**El *Politar*, pp. 185, 218 i 254.**~~ — **`resolt` el 18-09-2026, amb les
+   pp. 336 i 349.** **La 254 és la que diu en quins actes hi és el Consell, i la
+   llista val per ella mateixa.**
+
+   **El Consell General intervé**: **a l'obertura de les Corts** —«habent estilat
+   juntarse concell en lo dia en que un dels Veguers o los dos demanan per obrir
+   les Corts»—; **en la seva continuació i en el passament de comptes, per mitjà
+   dels seus diputats o raonadors**; **a la clausura**, el dia que els Veguers
+   disposin; **en la lectura de les sentències majors, «com son de mort, galeras,
+   presidi»**; i **en els juraments dels Veguers, del Jutge i dels procuradors
+   dels prínceps** quan entren al càrrec.
+
+   **I la seva autoritat s'executa amb força armada, però en nom d'altri**: les
+   deliberacions i ordinacions del Consell es fan valer **«ab les forses que sien
+   necessaries, ***en nom dels Illms Senyors Princeps***»**, sempre que no
+   s'oposin a les regalies i drets dels prínceps ni a les facultats dels seus
+   ministres, **i només quan el Consell ja hagi donat «tots aquells passos que pot
+   donar, no exedint de ses facultats, y no habent estat obehit»**.
+
+   > **Un parlament que mana en nom dels senyors que no el nomenen.** **La força
+   > que executa les seves pròpies ordinacions no és seva: és manllevada, i el
+   > Politar en posa la condició escrita.**
+
+   **P. 218 — l'altra banda del mateix mecanisme, vista des dels batlles.** **Han
+   d'assistir a les Corts «encara que no tingan mandato o avis»**, i **han
+   d'assistir «per posar las sentencias criminals en sa deguda execussio, ja sien
+   de mort, mutillacio o de pena aflictiva de cos»**, i **portar els condemnats a
+   la seva destinació.** **I el Consell, els cònsols, els consellers i els
+   pròmens «donaran tots los auxilis y forsas de gen ab armes que demanien»** —**la
+   gent armada surt del comú, no d'un cos permanent.**
+
+   **P. 185 — el rellotge de les causes en temps de Corts**: **tres dies per
+   provar, amb la causal *Quia Curiæ apertæ sunt et non patiuntur dilationem***,
+   prorrogables una o dues vegades, **i el Jutge concep i firma la sentència «com
+   a assessor o consulent» després que la firmin els Veguers**, **amb les
+   procedures redactades «regularment en lleti»**.
+
+   **Les pp. 336 i 349 són del cerimonial d'obertura i clausura de Corts.**
 
    **P. 336 — què es demana en obrir-les.** El Veguer proposa que ve «afi de
    administrar justicia en lo modo acostumat» i que el Consell nomeni els seus
