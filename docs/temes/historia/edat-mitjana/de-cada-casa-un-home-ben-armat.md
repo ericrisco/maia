@@ -460,10 +460,13 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    continuació.**
 10. **Qui era Arnau de Perexens**, i **per què l'episcopologi que el corpus té
     s'atura el 1122** ([els bisbes d'Urgell](./els-bisbes-durgell.md)).
-11. **Si els serveis del 1176 es comptaven per *foch* o *fumo***. **El corpus ho
+11. ~~**Si els serveis del 1176 es comptaven per *foch* o *fumo***. **El corpus ho
     tenia d'una font secundària; el text diu *domo* i no diu ni *foch* ni
-    *fumo*.** `Corregit a` [cap de casa, però de casa
-    antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md)`.`
+    *fumo*.**~~ — **`resolt` el 19-09-2026**: l'apèndix B de Ríos Urruti diu
+    *domo* —«*de unaquaque domo unus bene armatus*»— i no conté *foch* ni
+    *fumo*. La correcció ja consta a [Cap de casa, però de casa
+    antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md);
+    el buit que hi queda és la llista de signants de l'original.
 
 ## Related
 
