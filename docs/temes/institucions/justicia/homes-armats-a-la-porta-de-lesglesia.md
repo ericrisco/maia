@@ -318,17 +318,59 @@ tandes.**
    font només té el que li van dir els andorrans consultats.** **Prioritari.**
 6. **L'intent de refugi a una capella d'Encamp, cap al 1874.** **Sense data ni
    desenllaç.**
-7. **Els «vells llibres de les Valls»** que manen posar homes armats a la porta
-   dels santuaris. **La font els invoca per **tres pàgines del *Politar*** —337,
-   340 i 346— **i el corpus no les té.**
+7. ~~**Els «vells llibres de les Valls»** que manen posar homes armats a la porta
+   dels santuaris.~~ — **`resolt` el 18-09-2026: les pàgines s'han llegit, i el
+   piquet hi és dues vegades, amb funcions diferents.**
+
+   **P. 340 — el piquet és per impedir el sagrat**, i el text ho diu així:
+
+   > «en cas de esser delicte grave o atros, **ha de prevenir un piquet de homens
+   > armats devant la porta de la iglesia**, segons lo reo haon estara, **afi de
+   > que, tan al anar com al tornar, no prengue iglesia**.»
+
+   **I la p. 339 dona la precaució prèvia, que és de coreografia de carrer**:
+   l'escorta són **«vuit o 10 homens armats de la vila de Andorra»**, els batlles
+   van l'un davant i l'altre darrere, i **han de procurar «no passar cerca de
+   iglesia»**; **si n'hi ha alguna al camí, el reu passa «ben arrimat y assegurat
+   a la paret contraria a la iglesia»**; i **si arriba a prendre església, «no
+   desempararlo may de les lligadures»**.
+
+   **P. 346 — el mateix piquet, però el dia de l'execució, i ja no per impedir
+   res**: **«posats piquets en les boques dels carrers de la plassa **y porta de
+   la iglesia**»**, aquesta vegada **dins d'un aparell devot**: la congregació en
+   dues files resant el rosari, **la campana major voltejant «ab pauso» des que
+   surt fins que torna**, i **un gran Sant-Crist davant del penitent**.
+
+   > **Els homes armats a la porta de l'església són, doncs, la mateixa mesura
+   > llegida dues vegades**: **quan el reu encara pot fugir-hi, tanquen el
+   > sagrat**; **quan ja no pot, tanquen la plaça.**
 8. **Quins casos «comportaven l'apel·lació»** i per tant permetien recórrer
    contra l'ordre de tortura. **El manuscrit de Palmitjavila ho condiciona i el
    corpus no sap a què.**
 9. **El manuscrit de M. Palmitjavila**, **citat dues vegades més en aquesta
    unitat.** **Segueix sent la pista de prioritat màxima del corpus.**
-10. **El *Politar*, pp. 177, 194, 196, 197, 201, 337, 339, 340, 341 i 346** —**deu
-    pàgines en una sola unitat.** **El corpus ja n'acumula una trentena de
-    citacions sense llegir.** **Prioritari.**
+10. **El *Politar*, pp. 194, 196, 197 i 201.** — **Les pp. 177, 337, 339, 340,
+    341 i 346, `resoltes` el 18-09-2026**, i **de la 339 en surt una cosa que no
+    era a cap buit: com estava moblat el tribunal.**
+
+    > «una taula gran cuberta de un bon tapete, **3 cadires ab brassos**, dos per
+    > los dos Veguers […] y altra per lo **Jutge, que estara en mitg dels dos
+    > Veguers, pera denotar que se administre la justicia en nom dels dos Senyors
+    > Princeps** y demostrar que **es consultor de un y altre Veguer**; despues un
+    > poch mes aball de eyxa taula gran, sobre la dreta de ella, ne compondran
+    > **altra de petita, cuberta ab son tapete de inferior calitat y una cadira
+    > sens brassos per lo escriva o notari**.»
+
+    **La disposició dels mobles és la doctrina**: **el Jutge al mig no presideix,
+    testimonia la indivisió**, i **el notari té taula menor, tapet de qualitat
+    inferior i cadira sense braços.** **I el Politar hi afegeix un advertiment de
+    protocol**: assentar-se **«procurant a fugir contencions de dreta o esquerra,
+    que sols serveyxen per retardar lo curs de la justicia»**.
+
+    **La sessió s'obre amb una oració**, *Actiones nostras, quæsumus, Domine*, i
+    **els raonadors seuen en un banc a l'esquerra del Veguer.** `Les pàgines 194,
+    196, 197 i 201 segueixen per llegir, i ara se sap que totes són dins
+    l'extracte.`
 
 ## Related
 

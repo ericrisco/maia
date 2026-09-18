@@ -256,8 +256,33 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 9. **On és, a la riba de la Valira, el lloc de les execucions**, i **si el garrot
    es conserva encara.** **La font el situa en un cofre del menjador del Consell
    General i ho diu amb dubte declarat.**
-10. **El *Politar* i el cerimonial de les execucions capitals.** **El corpus el
-    té per remissió i no ha llegit el capítol.**
+10. ~~**El *Politar* i el cerimonial de les execucions capitals.** **El corpus el
+    té per remissió i no ha llegit el capítol.**~~ — **`resolt` el 18-09-2026.**
+    **El capítol és a la p. 346 de l'extracte de Brutails**, i **el que hi ha
+    esmena en dos punts el resum de segona mà que aquesta fitxa portava.**
+
+    **El que es confirma**: **piquets de gent armada a les boques dels carrers de
+    la plaça i a la porta de l'església**; **una congregació de devots —«ja sie la
+    Congregacio de les Animes, ja del Sagrat Cor de Jesus o del Rosari de
+    Maria»**— **en dues files resant el rosari**; **un gran Sant-Crist portat
+    davant del penitent**; i **la campana major voltejant «ab pauso» des que la
+    processó surt de l'església fins que hi torna**.
+
+    **El que hi afegeix, i que el resum no deia**: **el Sant-Crist es dona a besar
+    al reu dues vegades** —**a la sortida de la presó i al peu del suplici, abans
+    de pujar-hi**—, **cada una precedida d'una «curta pero tierna exortacio» del
+    director**; **el butxí i el nunci el subjecten per les cordes fins al final**;
+    **el nunci fa de fiscal**, i **és ell qui «li donara la paga antes»**; i
+    **després de l'execució, «lo director o altre fervoros sacerdot acostuma fer
+    una plactica al poble»**, exhortant-lo a obrar bé i a fugir del pecat.
+
+    > **El cerimonial no acaba amb la mort: acaba amb un sermó.** **L'execució és
+    > l'acte central d'una funció que té públic, guió i predicació final.**
+
+    **I el corpus registra que el text deixa en mans del butxí una decisió de
+    consciència**: si el confessor no diu al reu que s'aixequi, **l'executor el
+    descobreix i l'aixeca «quant apareyxera haura passat prou temps pera
+    reconciliarse»**.
 
 ## Related
 
