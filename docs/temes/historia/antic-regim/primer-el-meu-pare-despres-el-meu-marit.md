@@ -183,8 +183,8 @@ papers](./la-casa-als-papers.md).
 6. **Fins quan va estar vigent la llicència del Consell per fer-se poblador.**
    Brutails escriu, a la p. 44, que **«potser el dret s'ha suavitzat en aquest
    punt»** — **una altra hipòtesi seva, i aquesta el corpus no la pot contestar.**
-7. **Quants *concos* hi havia per casa** — **obert**. **Quin estatut patrimonial
-   tenien** — **`parcial` des del 2026-09-18**: **no eren propietaris, però el
+7. **Quants *concos* hi havia per casa** — **obert**. ~~**Quin estatut patrimonial
+   tenien**~~ — **`parcial` des del 2026-09-18**: **no eren propietaris, però el
    fill no hereu «no està legalment obligat» a quedar-se** i, **si el cap de casa
    el vol retenir, en debaten les condicions**. **El 1893 un batlle va dirimir un
    litigi sobre jornals deguts per un germà hereu al seu germà legitimari**, i

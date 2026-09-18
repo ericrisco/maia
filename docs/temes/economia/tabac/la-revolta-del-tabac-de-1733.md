@@ -227,8 +227,8 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 5. **Quant és una arrova** de tabac.
 6. **Què va passar amb els dos capturats pels duaners espanyols** el 1757. La
    font només segueix els que van tornar.
-7. **Si el Consell General va tornar a jutjar mai res.** Mas diu que se n'ha
-   conservat **una sola sentència**: no diu que només en dictés una. —
+7. ~~**Si el Consell General va tornar a jutjar mai res.** Mas diu que se n'ha
+   conservat **una sola sentència**: no diu que només en dictés una.~~ —
    **`parcial` el 17-09-2026, i cal precisar la pregunta abans de respondre-la.**
    Font: les [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md).

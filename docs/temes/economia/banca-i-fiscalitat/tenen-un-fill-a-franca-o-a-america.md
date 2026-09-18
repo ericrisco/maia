@@ -249,7 +249,7 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    taxació prèvia**. **El corpus en té l'altra obligació** —la presentació anual de
    minutes— **i sap que aquella «és sense efecte».**
 3. **El decret del Consell General del 12 de desembre de 1888**, sencer.
-4. **Les peces justificatives p. XXXIX, p. XLI i p. XLIII.** — **`parcial` el
+4. ~~**Les peces justificatives p. XXXIX, p. XLI i p. XLIII.**~~ — **`parcial` el
    16-09-2026: dues llegides, una inexistent.**
    **p. XXXIX** (PDF 63): **hi comença la peça XXI, *Vente à réméré* del 15 de
    juny de 1788**, entre **Martí M. àlies P. i Maria M. àlies P., cònjuges de la

@@ -312,8 +312,8 @@ avèria**; i **cent vint cavallons de blat com un metado**
    sap és que el 1904 encara es cobrava.**
 4b. **Quan es va eixamplar el *metadó de pa***, d'adults no casats a tothom que
    hagi combregat, i amb quina norma. **Prioritari.**
-4c. **Quants metadors hi havia**, que és el que faria calculable tota la
-   recaptació. — **`parcial` el 17-09-2026: no el nombre, però sí una liquidació
+4c. ~~**Quants metadors hi havia**, que és el que faria calculable tota la
+   recaptació.~~ — **`parcial` el 17-09-2026: no el nombre, però sí una liquidació
    real amb el total i els tipus.** Font: el **Llibre III d'actes del Consell
    General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
 
@@ -336,7 +336,7 @@ avèria**; i **cent vint cavallons de blat com un metado**
    > més.** **No es pot saber si és un any diferent, una unitat diferent o una
    > liquidació d'una altra cosa**: **l'acta no ho diu.** `Requereix saber a
    > quin dels dos anys correspon aquesta liquidació.`
-5. **Quant recaptava** en total. — **`parcial` el 17-09-2026, i per la banda que
+5. ~~**Quant recaptava** en total.~~ — **`parcial` el 17-09-2026, i per la banda que
    es podia documentar: no el que es recaptava dins, sinó el que se n'havia de
    treure per pagar-la.** Font: les [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md).

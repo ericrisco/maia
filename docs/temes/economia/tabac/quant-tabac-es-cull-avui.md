@@ -239,8 +239,8 @@ consultades no ho diu.`
   tots els anys del 2001 al 2019**—, i que **cinc anys després segueix un terç
   per sota**. `La causa segueix sense resposta, però ja no és «per què es va
   deixar de plantar»: se'n va seguir plantant 130 hectàrees.`
-- **I per què el trencament del 1998**, que és més gran i que el corpus no
-  tenia: **de 1.047.038 kg el 1997 a 324.207 el 2000, un −69,0% en tres anys.**
+- ~~**I per què el trencament del 1998**, que és més gran i que el corpus no
+  tenia: **de 1.047.038 kg el 1997 a 324.207 el 2000, un −69,0% en tres anys.**~~
   **`parcial` el 18-09-2026**: **el marc general de la dècada hi apunta**
   —augment de taxes, més repressió del contraban i disminució de vendes,
   tots tres sense any concret

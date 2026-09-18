@@ -221,7 +221,7 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
 2. **Els primers hotels balnearis** d'Escaldes: noms i dates.
 3. **El termalisme** com a branca.
 4. **Quan arriben els esports d'hivern** i quina estació és la primera.
-5. **Xifres**: places hoteleres per dècades. — **`parcial` el 17-09-2026 per la
+5. ~~**Xifres**: places hoteleres per dècades.~~ — **`parcial` el 17-09-2026 per la
    via d'Estadística** (activitat **A125**): vegeu
    [El parc hoteler d'avui, i que ja no creix](#el-parc-hoteler-davui-i-que-ja-no-creix).
    **Ampliat el 18-09-2026**: **la sèrie no arrenca el 2014 sinó el 2004**, per

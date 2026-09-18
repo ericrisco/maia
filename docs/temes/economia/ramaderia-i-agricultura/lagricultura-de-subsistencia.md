@@ -160,8 +160,8 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
 ## Buits registrats
 
 1. **S. Llobet** — qui és i quin estudi dona el 4%.
-2. Les **importacions d'urgència organitzades per les institucions**: quines,
-   quan, com es pagaven. — **`parcial` el 17-09-2026, i el que apareix no és
+2. ~~Les **importacions d'urgència organitzades per les institucions**: quines,
+   quan, com es pagaven.~~ — **`parcial` el 17-09-2026, i el que apareix no és
    d'urgència: és un abastament permanent, amb contracte.** Font: els [llibres
    d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md).
 
