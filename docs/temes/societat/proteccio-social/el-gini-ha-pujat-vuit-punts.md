@@ -184,12 +184,12 @@ declara.**
 - **Si el canvi de referència del llindar del 2021 està documentat en algun
   lloc.** El corpus l'ha deduït de l'aritmètica, **no d'una nota metodològica**;
   no n'ha trobat cap. `pregunta_oberta`
-- **No hi ha desagregació per nacionalitat.** L'enquesta dona sexe, edat,
-  tipologia de llar i règim de tinença, i **no diu si la pobresa andorrana té
-  passaport**. Això és rellevant perquè **de les pensions de solidaritat, 644
-  beneficiaris de 1.223 són espanyols i 301 andorrans**
+- ~~**No hi ha desagregació per nacionalitat.**~~ — **`no-es-buit`**: l'enquesta
+  dona sexe, edat, tipologia de llar i règim de tinença, però **no diu si la
+  pobresa andorrana té passaport**. Això és rellevant perquè **de les pensions
+  de solidaritat, 644 beneficiaris de 1.223 són espanyols i 301 andorrans**
   ([qui cobra la pensió de solidaritat](./sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md)).
-  `La font no ho desagrega.`
+  **La font no ho desagrega.**
 - ~~**No hi ha desagregació per parròquia.**~~ — **`no-es-buit`**: la font no
   publica aquest desglossament.
 - **El «pes de les despeses respecte els ingressos» s'atura el 2021** i el
