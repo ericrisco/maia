@@ -178,7 +178,8 @@ Gairebé tot. El corpus **no té res** sobre:
   una línia**: hípica, tennis taula, vela, voleibol, karate, petanca i Special
   Olympics. **I n'hi ha una que existeix i no surt a la llista del COA**: la
   d'handbol.
-- L'**Open internacional de tennis ATP d'Andorra**.
+- ~~L'**Open internacional de tennis ATP d'Andorra**.~~ — **`resolt` el
+  18-09-2026, com a duplicat d'índex**: el buit canònic és a [el tennis](./seleccions/el-tennis.md#el-que-falta).
 - ~~El **Comitè Olímpic Andorrà**~~ — **tancat**:
   [la seva fitxa](./competicio/el-comite-olimpic.md). **El que segueix obert és
   quan es va fundar, qui el presideix i el pressupost.** **Andorra als Jocs
