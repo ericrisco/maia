@@ -30,7 +30,10 @@ notes: >
   Eccardt sobre els set estats més petits d'Europa, Domingo sobre migracions i
   microestats, i Margarit (2012) sobre les relacions frontereres entre Andorra
   i l'Alt Urgell, publicada pel CRES.
-  El quadre comparatiu (taula 1) no s'ha pogut extreure del PDF.
+  ACTUALITZAT 18-09-2026: el quadre comparatiu (taula 1) es va descarregar
+  de nou i llegir a ull (p. 119) — l'extracció automàtica de text no el
+  reproduïa, però hi era, sencer, després de la bibliografia. Transcrit
+  al cos de la fitxa.
 ---
 
 # Les particularitats d'Andorra i els altres microestats europeus
@@ -51,3 +54,22 @@ investigadora, cita bibliografia i l'atribueix.**
 canvi de qualitat documental.**
 
 Vegeu [la política de nacionalitat](../temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md).
+
+## Taula 1: informació bàsica dels microestats europeus
+
+**Any 2014, tal com la publica la font:**
+
+| País | Doble nacionalitat | Naturalització (residència) | Extensió (km²) | Habitants | Migrants % | Atur % | PIB per càpita ($) |
+| --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| **Andorra** | NO | 20 anys | 468 | 80.153 | 61 | 4 (2012) | 41.000 (2013) |
+| **Liechtenstein** | NO | 30 anys | 157 | 37.194 | 34,7 | 2,3 (2012) | 89.400 (2009) |
+| **Luxemburg** | SI | 7 anys | 2.586 | 556.074 | 34,2 | 7,1 (2014) | 92.400 (2014) |
+| **Malta** | SI | 5 anys | 316 | 427.404 | 3,7 | 5,9 (2014) | 31.700 (2014) |
+| **Mònaco** | NO | 10 anys | 2,02 | 38.066 | 64 | 2 (2012) | 78.700 (2013) |
+| **San Marino** | NO | 30 anys | 61 | 31.637 | 37,9 | 7 (2012) | 55.000 |
+| **Vaticà** | SI | Segons funcions | 0,44 | ≈800 | 100 | — | — |
+
+**Andorra hi surt com el microestat amb la naturalització més llarga
+junt amb Liechtenstein i San Marino (20-30 anys), i el segon percentatge
+de migrants més alt (61%), només per darrere del Vaticà (100%) i just
+per sota de Mònaco (64%).**

@@ -152,9 +152,28 @@ ni al Vaticà.**
 
 ## Buits registrats
 
-- **La taula comparativa (taula 1)** de la ponència: doble nacionalitat,
+- ~~**La taula comparativa (taula 1)** de la ponència: doble nacionalitat,
   naturalització, extensió, habitants, % migrants i atur per estat. **No s'ha
-  pogut extreure del PDF. Buit prioritari** — són les xifres comparades de 2014.
+  pogut extreure del PDF. Buit prioritari** — són les xifres comparades de
+  2014.~~ — **`resolt` el 18-09-2026**: **descarregat el PDF de nou i
+  llegida a ull la p. 119**, on la taula hi és sencera, després de la
+  bibliografia:
+
+  | País | Doble nacionalitat | Naturalització (residència) | Extensió (km²) | Habitants | Migrants % | Atur % | PIB per càpita ($) |
+  | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+  | **Andorra** | NO | 20 anys | 468 | 80.153 | 61 | 4 (2012) | 41.000 (2013) |
+  | **Liechtenstein** | NO | 30 anys | 157 | 37.194 | 34,7 | 2,3 (2012) | 89.400 (2009) |
+  | **Luxemburg** | SI | 7 anys | 2.586 | 556.074 | 34,2 | 7,1 (2014) | 92.400 (2014) |
+  | **Malta** | SI | 5 anys | 316 | 427.404 | 3,7 | 5,9 (2014) | 31.700 (2014) |
+  | **Mònaco** | NO | 10 anys | 2,02 | 38.066 | 64 | 2 (2012) | 78.700 (2013) |
+  | **San Marino** | NO | 30 anys | 61 | 31.637 | 37,9 | 7 (2012) | 55.000 |
+  | **Vaticà** | SI | Segons funcions | 0,44 | ≈800 | 100 | — | — |
+
+  ([font](../../../fonts/pampalona-particularitats-microestats.md)).
+  **Andorra hi comparteix el període de naturalització més llarg** —20
+  anys, amb Liechtenstein i San Marino a 30— **i té el segon percentatge
+  de migrants més alt de la taula (61%), només per darrere del Vaticà i
+  just per sota de Mònaco.**
 - **Els prestanoms**: quan comença la pràctica, quina llei la provoca, quan
   canvia, i si continua. **Buit prioritari.** — **`parcial` el 17-09-2026 per la
   banda legal.** **La pràctica segueix sense datar-se, i la prohibició ja té
