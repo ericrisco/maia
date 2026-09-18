@@ -142,6 +142,60 @@ seus ingressos a l'habitatge.** **Del 20% que més guanya, un de cada cinquanta.
 és propietari, 26.423,86 € qui lloga** (2025). **Una diferència de 10.013,26 €**,
 que el 2018 era de 8.420 €.
 
+## I qui compra, amb què ho paga
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/hipoteques/`, divisions
+2457-2462 i 3329). **El corpus tenia les transaccions i els preus
+([tres-centes tretze, els dos anys](./tres-centes-tretze-els-dos-anys.md)) i no
+tenia el crèdit.**
+
+| Any | Hipoteques | Import total | Mitjana per hipoteca |
+| --- | ---: | ---: | ---: |
+| 2015 | 420 | 341,34 M€ | 812.703 € |
+| 2018 | 759 | 365,35 M€ | 481.351 € |
+| **2021** | 884 | 317,50 M€ | **359.159 €** |
+| 2023 | 664 | 339,01 M€ | 510.551 € |
+| 2024 | 769 | 411,53 M€ | 535.151 € |
+| **2025** | **1.064** | **831,67 M€** | **781.640 €** |
+
+**El 2025 és el màxim de les tres columnes alhora**: **més hipoteques que mai,
+el doble d'import que l'any anterior i la mitjana més alta des del 2015.**
+
+`L'import es dobla mentre el nombre puja un 38,4%: una sola operació molt gran
+desplaçaria aquesta mitjana, i la font no publica ni la mediana ni la
+distribució. I «hipoteca» no vol dir «compra de pis»: el 2025, 103 de les 1.064
+són per a usos no residencials.`
+
+**Nou de cada deu hipoteques són per a ús residencial** —961 de 1.064 el 2025—,
+i **els demandants internacionals són 103**, **el 9,7%**, contra **el 5,2% del
+2015**.
+
+`Les dues xifres del 2025 —103 hipoteques per a altres usos i 103 demandants
+internacionals— són idèntiques i venen de dues taules diferents. Cap altre any
+coincideixen. El corpus les dona totes dues i no diu que siguin les mateixes
+operacions.`
+
+**Per parròquia, el 2025 el mapa no s'assembla al de les transaccions:**
+
+| Parròquia | 2015 | **2025** | Multiplicador |
+| --- | ---: | ---: | ---: |
+| **Canillo** | 39 | **192** | **×4,9** |
+| **Encamp** | 88 | **187** | ×2,1 |
+| **Escaldes-Engordany** | 69 | **184** | ×2,7 |
+| La Massana | 70 | 179 | ×2,6 |
+| **Andorra la Vella** | 76 | **124** | **×1,6** |
+| Ordino | 33 | 104 | ×3,2 |
+| Sant Julià de Lòria | 45 | 94 | ×2,1 |
+
+**Canillo, que és la parròquia menys poblada, és la que més hipoteques signa el
+2025**, i **Andorra la Vella, que és la més poblada, n'és la cinquena.** **És
+el mateix sentit que diu la sèrie de transaccions**: **la capital s'ha aturat i
+les parròquies altes no.**
+
+**I l'edat**: **els titulars de les hipoteques concedides el 2025 tenen 40,2
+anys de mitjana.** `Un sol any; la font no en publica sèrie anual, només
+semestral.`
+
 ## Buits registrats
 
 - ~~**La sèrie de preus del lloguer del Departament d'Estadística.**~~ —
@@ -159,3 +213,10 @@ que el 2018 era de 8.420 €.
   `font_externa`
 - **La sèrie no arrenca fins al 2010.** De **l'habitatge dels anys noranta i
   del 1989** el corpus segueix tenint **només frases**, cap preu.
+- **La sèrie d'hipoteques no dona ni mediana ni distribució**, i **la mitjana
+  del 2025 es dobla en un any.** **Sense la distribució no es pot saber si és
+  el mercat o una sola operació.** `font_externa`
+- **Per què el 2025 «altres usos» i «demandants internacionals» valen tots dos
+  103.** `pregunta_oberta`
+- **L'edat mitjana dels titulars d'hipoteca només es publica per al 2025** en
+  sèrie anual. `La font en té una de semestral que el corpus no ha destil·lat.`
