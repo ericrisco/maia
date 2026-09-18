@@ -173,6 +173,13 @@ aquí operant al nivell de la teoria i no del folklore.
 
 - **Què s'avalua exactament a la part oral**, i **si es penalitzen o es toleren
   els trets andorrans**. **Buit prioritari absolut per a aquest projecte.**
+  **Tres cerques dedicades el 18-09-2026 no troben cap barem ni criteri de
+  correcció publicat**: la pàgina d'exàmens oficials del govern.ad no en
+  dona cap PDF navegable des de fora, i les cerques amb «barems»,
+  «criteris de correcció» i «expressió oral» només retornen documents
+  d'altres territoris (Catalunya, València). `Requereix contacte directe
+  amb l'Àrea de titulacions i exàmens oficials del Govern; no és un buit
+  de cerca, és un document no publicat.`
 - **Els programes i models d'examen** dels nivells A, B i C. Són documents
   públics i **definirien l'estàndard andorrà operatiu**.
 - **Quanta gent aprova** de les 480 que s'hi presenten.
