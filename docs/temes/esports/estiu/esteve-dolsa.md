@@ -59,11 +59,10 @@ sense especular sobre les circumstàncies i sense convertir-ho en relat.
   tanquen i la resta no existeix al bolcat.** **Tenia 40 anys**, **va tirar en
   fossa olímpica a Mont-real 1976 amb [Joan Tomàs](./joan-tomas-roca.md)**,
   **va fer 159 punts** i **va acabar 35è de 43 tiradors.**
-- **I una cosa que el corpus no pot deixar passar**: **el buit que aquesta fitxa
-  registra just aquí sota —el tir i la caça com a una mateixa cultura material—
-  el respon la seva pròpia mort.** **El primer olímpic andorrà de tir va morir
-  d'un tret de cacera.** **El corpus ho deixa escrit com a fet, no com a
-  sentit.**
+- **Nota `no-es-buit`**: **el buit que aquesta fitxa registra just aquí sota —el
+  tir i la caça com a una mateixa cultura material— el respon la seva pròpia
+  mort.** **El primer olímpic andorrà de tir va morir d'un tret de cacera.** **El
+  corpus ho deixa escrit com a fet, no com a sentit.**
 - ~~**El tir i la caça a Andorra**, que són la mateixa cultura material i el
   corpus no en té cap fitxa.~~ **`parcial`:** aquesta fitxa ja documenta la
   connexió biogràfica concreta —Esteve Dolsa, primer olímpic andorrà de tir,
