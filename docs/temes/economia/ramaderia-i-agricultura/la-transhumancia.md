@@ -160,7 +160,7 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
 
 ## Buits registrats
 
-1. **Les rutes concretes**: per on passaven, quins ports, quantes jornades. —
+1. ~~**Les rutes concretes**: per on passaven, quins ports, quantes jornades.~~ —
    **`parcial` el 17-09-2026, i des d'un lloc inesperat: una tarifa.** Font: les
    [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) *(ANA/ASC,
@@ -210,7 +210,7 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
    no el camí.`
 2. **Qui hi anava**: si els pastors eren de casa, llogats, o de fora.
 3. **E. Pée-Laby (1900)**, la font per a l'Arieja. El corpus no la té.
-4. **Els contractes de conlloc**: com s'escrivien i què hi constava. —
+4. ~~**Els contractes de conlloc**: com s'escrivien i què hi constava.~~ —
    **`parcial` des del 2026-09-15.** **El que s'ha tancat: que existien com a
    figura judicial i de qui depenien.** La *Instructa als senyors batlles* del
    **1740** els posa, amb aquest nom, entre les causes que toquen al batlle i no

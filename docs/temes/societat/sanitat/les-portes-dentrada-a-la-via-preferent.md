@@ -289,9 +289,9 @@ genètic o neurològic** segons la classificació de l'OMS.
   [PDF, p. 1–2](../../../raw/desocupacio/bopa-decret393-2022-acces-sanitari.pdf);
   [fitxa 542/2022](../../../raw/desocupacio/bopa-decret542-2022-portal.json),
   [PDF, p. 1–3](../../../raw/desocupacio/bopa-decret542-2022-acces-sanitari.pdf).)
-- L’acord del Consell General de 30-06-2022 i els informes de la CASS de
+- ~~L’acord del Consell General de 30-06-2022 i els informes de la CASS de
   26-07-2022, 20-12-2022 i 27-06-2023 apareixen esmentats als decrets,
-  però no s’han consultat. — **`parcial` el 17-09-2026, i amb dues vies
+  però no s’han consultat.~~ — **`parcial` el 17-09-2026, i amb dues vies
   separades.** **El reglament Conava sí que s'ha localitzat i buidat** a «[La
   Conava: el reglament del 2004 i les seves quatre
   retallades](#la-conava-el-reglament-del-2004-i-les-seves-quatre-retallades)».
