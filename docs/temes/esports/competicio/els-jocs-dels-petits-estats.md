@@ -313,8 +313,10 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   [els abanderats](./els-abanderats.md), trenta-una fitxes
   d'[olímpics d'estiu](../estiu/README.md) i trenta-una
   d'[esquiadors](../esqui/esquiadors/README.md).**
-- **Els Jocs de 1991 i 2005 organitzats a Andorra**: com es van fer, quines
-  instal·lacions, què hi va costar.
+- ~~**Els Jocs de 1991 i 2005 organitzats a Andorra**: com es van fer, quines
+  instal·lacions, què hi va costar.~~ — **`resolt` el 18-09-2026, com a duplicat
+  intern**: la pregunta continua a l'entrada canònica del final, que conserva
+  les xifres ja trobades i el buit d'instal·lacions i cost.
 - **Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
   passar realment.
 - **El medaller andorrà complet** de les setze edicions. — **`parcial`, i el
