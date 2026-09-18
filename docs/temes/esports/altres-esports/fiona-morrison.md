@@ -65,11 +65,11 @@ que no té cap artista andorrà de naixement fitxat.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Fiona_Morrison.wiki`](../../../raw/web/esport/atletes/Fiona_Morrison.wiki)).
 
-- **La seva obra**: què fa, quin mitjà, on ha exposat. — **`obert`, confirmat**:
+- ~~**La seva obra**: què fa, quin mitjà, on ha exposat.~~ — **`obert`, confirmat**:
   **el bolcat la presenta com a «windsurfista andorrana i artista que va
   exposar a la 55a Biennal de Venècia»** i **no en diu ni el mitjà ni cap altra
   exposició.**
-- **Què hi va presentar a Venècia el 2013** i si hi havia pavelló andorrà. —
+- ~~**Què hi va presentar a Venècia el 2013** i si hi havia pavelló andorrà.~~ —
   **`obert`, confirmat, pel mateix motiu.** **La 55a Biennal és la del 2013**,
   de manera que **la data de la fitxa queda confirmada.**
 - ~~**La seva carrera de windsurf** fora dels Jocs.~~ — **`parcial`: Atlanta es

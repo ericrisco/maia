@@ -115,7 +115,7 @@ l'Open d'Austràlia.
   finals de WTA 125**; **1.151.596 dòlars de premis.**
   **El que segueix `obert` és la Billie Jean King Cup**: **el bolcat no
   n'esmenta cap eliminatòria.**
-- **Si ha estat o serà olímpica.** — **`obert`, confirmat**: **el bolcat
+- ~~**Si ha estat o serà olímpica.**~~ — **`obert`, confirmat**: **el bolcat
   compta els Jocs Olímpics dins del seu quadre de trajectòria i no li'n
   registra cap.**
 - ~~**El seu pare, Joan Jiménez Guerra**, extennista professional andorrà.

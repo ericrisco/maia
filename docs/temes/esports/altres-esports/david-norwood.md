@@ -98,7 +98,7 @@ declarades, no com a comprovades.**
   enumera els jugadors que han representat Andorra —De la Riva, Oms, Alomà,
   Mellado, Fluvià— i NO L'HI INCLOU.** **El corpus no en dedueix res**, però
   **ho deixa escrit al costat del buit central d'aquesta fitxa.**
-- **Si viu a Andorra.** — **`obert`, confirmat**: **el bolcat no en diu la
+- ~~**Si viu a Andorra.**~~ — **`obert`, confirmat**: **el bolcat no en diu la
   residència.** **Va néixer a Farnworth, prop de Bolton, Lancashire, el 3
   d'octubre del 1968.**
 - **El que el bolcat sí que dona, i explica per què aquesta fitxa és rara**:

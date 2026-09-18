@@ -52,7 +52,7 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
   [Melissandre Fuentes](./melissandre-fuentes.md) hi van ser els primers
   patinadors que van representar Andorra en un campionat de la ISU**, **tots
   dos alhora.**
-- **Els seus resultats.** — **`obert`, confirmat**: **el bolcat té la taula de
+- ~~**Els seus resultats.**~~ — **`obert`, confirmat**: **el bolcat té la taula de
   resultats buidada de text i no en dona cap posició.**
 - ~~**El campionat d'Andorra de patinatge artístic**: des de quan, on es fa.~~ —
   **`parcial`: hi ha campionat i hi ha club, i no hi ha data d'inici.**

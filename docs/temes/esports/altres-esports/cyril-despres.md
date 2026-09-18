@@ -61,7 +61,7 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Cyril_Despres.wiki`](../../../raw/web/esport/atletes/Cyril_Despres.wiki)).
 
-- **Des de quan viu a Andorra** i si hi segueix. — **`obert`, confirmat, i el
+- ~~**Des de quan viu a Andorra** i si hi segueix.~~ — **`obert`, confirmat, i el
   motiu és de font**: **el bolcat el descriu com a «pilot francès de ral·lis i
   resident a Andorra» i no en diu cap data.** **Va néixer a Nemours, França, el
   24 de gener del 1974.**
