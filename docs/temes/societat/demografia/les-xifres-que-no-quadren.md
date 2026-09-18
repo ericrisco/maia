@@ -177,7 +177,34 @@ i cadascuna té un autor que responia a una pregunta diferent.
   **Això canvia com s'ha de llegir la seva xifra**: no és un demògraf neutral,
   és **el representant d'un copríncep escrivint una obra de rèplica**. Queda
   obert **l'any exacte** de l'obra.
-- **De Los Ríos Urruti** i **Moreno**: qui eren i què van publicar.
+- ~~**De Los Ríos Urruti**: qui era i què va publicar.~~ — **`resolt` el
+  18-09-2026**, **i la meitat ja era al corpus**: és
+  **[Fernando de los Ríos Urruti](../../../fonts/rios-urruti-andorra-1920.md)**,
+  autor de ***Vida e instituciones del pueblo de Andorra. Una supervivencia
+  señorial*** (Madrid, **1920**, Junta para Ampliación de Estudios), **el volum
+  que el corpus té sencer des del 13-09-2026.**
+
+  **I qui era importa per a la xifra.** **Ronda, 1879 — Nova York, 1949.**
+  **Catedràtic de dret polític a Granada des del 1911** —on va ser professor de
+  **Federico García Lorca**—, **afiliat al PSOE el 1919** i **diputat per
+  Granada aquell mateix any**. **El 1920, l'any del llibre, entra a la comissió
+  executiva del PSOE i viatja a la Unió Soviètica** per estudiar l'ingrés a la
+  III Internacional. **Serà ministre de Justícia, d'Instrucció Pública i
+  d'Estat de la Segona República**, i **ambaixador a Washington durant la
+  guerra**; **va morir a l'exili a Nova York.**
+
+  > **La xifra de 4.309 andorrans del 1920 no la dona un demògraf: la dona un
+  > catedràtic de dret polític i dirigent socialista espanyol que va anar a
+  > Andorra a estudiar-hi una «supervivència senyorial».**
+
+  **Això no la invalida** —**ell mateix hi declara «un error, me dicen, de 40 a
+  50 almas»**, que és més transparència de la que dona cap altra font
+  d'aquesta taula— **però situa l'interès amb què es recompta.**
+  *(Font: `docs/raw/web/historia/viqui-fernando_de_los_rios.txt`, baixada el
+  18-09-2026 de la [Viquipèdia](../../../fonts/viquipedia-ca.md).)*
+- **Moreno**, la font del 4.142 del 1930: **qui era i què va publicar.** **El
+  corpus només el té per citació de Tarrene** i **no en té ni el nom de pila.**
+  `font_externa`
 - **L'obra de Combarnou**, amb títol i any.
 - **Què passa entre 1912 i 1920.** **Prioritari.**
 - **Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes
