@@ -309,9 +309,27 @@ català per damunt del que rep**, que és una cosa ben diferent.
   al TSV i no s'han destil·lat.**~~ — **`parcial` el 18-09-2026.** **El
   diferencial `atenen` menys `parla` de nou àmbits i sis onades ja hi és**, a
   «[El diferencial](#el-diferencial-parles-en-catala-i-et-responen-en-catala)».
-  `Segueixen sense destil·lar les files de «català i castellà» i «altres
-  situacions» de cada àmbit, i les dues taules de feina —interna i externa—,
-  que són al TSV.`
+  **Ara també queda destil·lat el canvi dels extrems 1995–2018** de les files
+  «català i castellà» i «altres situacions»:
+
+  | Àmbit | Català i castellà 1995 → 2018 | Altres situacions 1995 → 2018 |
+  | --- | ---: | ---: |
+  | Administració | 6,8 → **31,5** | 4,1 → 3,7 |
+  | Metge | 5,8 → 5,5 | **15,6** → 5,3 |
+  | Grans magatzems | 18,2 → **32,7** | 16,0 → **20,0** |
+  | Restaurant | 24,4 → **37,8** | 10,5 → 11,4 |
+  | Taxi | 14,1 → 15,7 | 6,6 → **21,6** |
+  | Botigues | 21,2 → **32,2** | 9,7 → 5,4 |
+  | Banc | 4,3 → 9,1 | 6,8 → 3,3 |
+  | Bars | 22,1 → 31,9 | 12,4 → 11,9 |
+  | Perruqueria | 9,9 → 6,9 | 8,8 → 10,8 |
+  | Feina, parla | 26,6 → 25,4 | 16,5 → 18,7 |
+  | Feina, relacions internes | 7,3 → 12,7 | 6,8 → 11,8 |
+  | Feina, relacions externes | 10,2 → 13,1 | 7,1 → 8,9 |
+
+  **La taula no substitueix les sis onades del TSV**: queden obertes les
+  columnes intermèdies i la resta de files de cada àmbit; el que queda llegit
+  és el sentit del canvi entre els dos extrems.
 
 ## Related
 
