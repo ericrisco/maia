@@ -137,7 +137,7 @@ l'administració.** **Aquesta és la llista:**
 | 1945 | **Futbol Club Andorra** |
 | 1947 | **Agrupació Sardanista Andorrana** |
 | **1950** | **Primera assegurança** |
-| 1954 | **Automòbil Club d'Andorra**, per iniciativa de **Gil Torres** |
+| **25 de maig de 1954** | **Automòbil Club d'Andorra**, per iniciativa de **Gil Torres** — constituïda com a associació esportiva |
 | 1955 | **Primera Societat de Caça i Pesca** |
 | **1956** | **Primera revista publicada: *Andorra*** |
 | 1961 | **Cercle de les Arts i les Lletres** |
@@ -146,9 +146,9 @@ l'administració.** **Aquesta és la llista:**
 | 1961 | **El parlament reorganitza el servei de bombers** |
 | **1962** | **Unió Hotelera**, la primera associació hotelera, **creada per gestionar l'increment espectacular de turistes** |
 | 1962 | **Primer Club de Rugbi d'Andorra**, que **triarà l'isard com a símbol** ([Els Isards](../../esports/seleccions/el-rugbi.md)) |
-| 1962 | El síndic **Francesc Escudé** inaugura una nova central de telèfons |
 | **1964** | **S'inaugura l'estació d'esquí de Soldeu** |
 | **1965** | **L'esquí és declarat esport nacional d'Andorra** |
+| ~~1962~~ **25 d'abril de 1967** | El síndic **Francesc Escudé** inaugura una nova central de telèfons |
 | 1968 | **Moto Club d'Andorra** |
 | 1970 | **Cine Club d'Andorra**, gràcies a **Jordi Sasplugas** |
 | **1970** | **Es rebaixa l'edat de vot a 21 anys** |
@@ -235,8 +235,16 @@ concret que la branca d'història té: sis títols amb autor i any.**
   Torres en va ser president en algun moment** i **Ferran Font Riudeubas el
   va succeir temporalment arran de la seva mort** — **sense data ni més
   detall verificat des d'una font directa.**
-- **Francesc Escudé**, **Jordi Sasplugas**, **Àlvar Menéndez**: cap fitxa de
-  cap.
+- ~~**Francesc Escudé**~~ — **`parcial` el 18-09-2026, i amb una correcció**:
+  **síndic general del desembre del 1966 al desembre del 1972** —**no el
+  1962, quan encara no ho era: la taula queda corregida a 1967, la data real
+  d'entrada en servei del telèfon.** El seu mandat també inclou **la
+  implantació de la CASS** i **la invitació a De Gaulle**
+  ([font](../../../fonts/wikipedia-ca-francesc-escude-ferrero.md)) — vegeu
+  [la CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md) i
+  [la visita de De Gaulle](./la-visita-de-de-gaulle.md). **Mort el
+  30-07-1996.**
+- **Jordi Sasplugas**, **Àlvar Menéndez**: cap fitxa de cap.
 - ~~**El pare Enric Graner**: cap fitxa.~~ — **`parcial` el 18-09-2026**:
   **monjo benedictí del cenobi de Montserrat**, resident a Andorra, vinculat
   a la fundació del Futbol Club Andorra a l'escalf del Col·legi Meritxell
