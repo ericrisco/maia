@@ -234,8 +234,10 @@ cabaler](./lhereu-i-el-cabaler.md).
    comparteixin l'arrel llatina; la font no els tracta com a sinònims.
 5. **Els quatre actes de desembre de 1443**, sencers. **El corpus en té el
    resum de l'autor, no el text.**
-6. **Si la fórmula «*jam proles fuit procreata*» era corrent** o excepcional. La
-   font en dona **dos casos** i diu **«sovint al segle XV»**.
+6. ~~**Si la fórmula «*jam proles fuit procreata*» era corrent** o excepcional.~~
+   **`parcial`**: la font en dona **dos casos** i diu **«sovint al segle XV»**,
+   prou per descartar que sigui un cas únic, però sense una sèrie que permeti
+   mesurar-ne la freqüència.
 7. **Si a Andorra es deia «casat sense capítols»** per a la unió lliure. **El
    testimoni que la font dona és rossellonès.**
 8. **L'ordenança de Lluís XV del 27 de març de 1748**, en la part que Brutails
