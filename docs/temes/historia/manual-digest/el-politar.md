@@ -137,6 +137,40 @@ Amb dues condicions que diuen molt de com estava organitzat el país:
 **«Del cap gros»** és, literalment, com s'anomenava la classe dirigent andorrana
 al segle XVIII, en boca del mateix costumari que la descriu.
 
+## L'extracte no són pàgines soltes: són cent quaranta-sis
+
+**Descobriment del 18-09-2026, i corregeix una premissa que el corpus arrossegava
+des del 13 de setembre.**
+
+**El corpus llegia aquesta peça justificativa com si fos una tria d'extractes**, i
+per això anava acumulant buits de la forma **«el *Politar*, pp. X, Y i Z — el
+corpus no té aquestes pàgines»**. **N'hi havia més de trenta repartits per una
+vintena de fitxes.**
+
+**No és una tria: és un text seguit.** **Brutails hi conserva la paginació interna
+del manuscrit entre claudàtors** —`[190]`, `[ 191 ]`— i **indexar-les dona això**:
+
+| Bloc | Pàgines del manuscrit | Què és |
+| --- | --- | --- |
+| 1 | **531-540 i 542** | **l'*Instructa als senyors batlles*, feta per a les Corts de 1740** |
+| 2 | **166-285** | **el llibre II sencer**: ministres i oficials de justícia |
+| 3 | **336-350** | la continuació sobre penes, bandejament i galeres |
+
+**Cent quaranta-sis pàgines del manuscrit, seguides.** **I de totes les pàgines
+que el corpus citava com a «no llegides», només dues queden fora**: **la 163 i la
+164**.
+
+> **El buit estava mal plantejat, no sense resposta.** **La pregunta que calia
+> fer no era «tenim la pàgina 243?» sinó «fins on arriba l'extracte?».** **El
+> corpus ho anota com a regla**: **abans de declarar que falta una unitat d'una
+> font que ja es té, mesura l'abast de la font.**
+
+**Per llegir-ne una pàgina**:
+`python3 02-DOCS/raw/operations/gap-audit-scripts/politar_pagina.py 243`
+— i `--index` llista les que hi ha. **L'script ordena per posició al fitxer i no
+per número de pàgina**, perquè **l'extracte comença per la *Instructa* (531-542)
+i només després va del 166 al 285**.
+
 ## El Politar registra els seus propis buits
 
 I aquí hi ha la troballa que el corpus no esperava. El text diu, tal qual:

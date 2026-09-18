@@ -233,8 +233,28 @@ sencera:**
 2. **L'article 13 de la Reforma de 1866**, i **l'article 16**, ja registrat.
    **El corpus segueix sense el text de la Reforma** *(apèndix, pp. 12-13)*.
    **Prioritari.**
-3. **El *Politar*, p. 243**, amb els quatre tribunals de 4, 6, 12 i 24 membres.
-   **La font el declara poc clar i el corpus no el té.**
+3. ~~**El *Politar*, p. 243**, amb els quatre tribunals de 4, 6, 12 i 24
+   membres. **La font el declara poc clar.**~~ — **`resolt` el 18-09-2026, i el
+   text no és poc clar: són dues escales diferents i Brutails les barreja.**
+
+   **Escala A — les tres sales del Consell General**, per a les causes que
+   comencen al Consell mateix: **«4 homens, vulgarment nomenats los **4
+   vehedors**»** (primera instància), **«6, vulgarment nomenats los **6 de
+   Concell**»** (segona) i **«tota la resta del Concell, vulgarment nomenats los
+   **24 de Concell**»** (tercera). **I el Politar precisa el nom del recurs**:
+   de la primera a la segona **«se suplica, rigurosament parlant, (y no se
+   apella), que altres diuhen apelle»**.
+
+   **Escala B — la que puja des de baix**, per a les causes que comencen al quart
+   o al quarter: **quart → Consell de parròquia → els 6 → els 12 → els 24**.
+   **Aquí sí que hi ha un esglaó de 12**, i **és el que falta a l'escala A**;
+   d'aquí ve la impressió de quatre tribunals.
+
+   **I hi ha una regla de recusació que val per a totes dues**: **«los que han
+   votat la causa en primera y segona instancia **no son admesos per votarla en
+   la tercera**, ans be son **repellits** per los que restan»**. **És el mateix
+   principi que dona nom a aquesta fitxa**: **a Andorra les instàncies es perden
+   per falta de gent neta, no per falta de graus.**
 4. **El manuscrit del senyor Palmitjavila** — **cinquena tanda seguida**, i aquí
    és l'única font que diu «*tots los vint i quatre de Concell*». **Sense
    identificar ni datar.** **Prioritari per acumulació.**

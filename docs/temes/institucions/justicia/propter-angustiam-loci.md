@@ -190,9 +190,31 @@ font en dona la prova, i ve d'un altre lloc del dret:**
 3. **Si el tribunal de segon grau del 27 de juliol de 1874**, amb dos cònsols
    malalts a més dels exclosos, **complia el quòrum de meitat més un.** **La font
    no ho comenta.**
-4. **El *Politar*, p. 284**, que obliga els consellers illetrats a seguir cegament
-   el consell. **El corpus no el té i és la contradicció més forta d'aquesta
-   unitat.** **Prioritari.**
+4. ~~**El *Politar*, p. 284**, que obliga els consellers illetrats a seguir
+   cegament el consell.~~ — **`resolt` el 18-09-2026, i el text diu una cosa més
+   fina que «cegament».** **La pàgina és dins l'extracte de Brutails** i s'ha
+   llegit. **El Politar hi planteja la qüestió com un dubte de consciència, en
+   dos punts numerats.**
+
+   **Dubte 3r — si estan obligats a prendre assessor**: «*Si los prohoms o
+   illiterats o sens lletras en sos judicis estigan **en conciencia obligats en
+   pendrer assesor o saltim consultor?*»** **La resposta és que sí**, i el
+   fonament és que **el costum contrari «*esta improbada per un y altre dret,
+   canonich y civil*»** i **s'hauria d'expel·lir**, «*per que regularment losdits
+   prohoms son **llechs o sens lletres** y en causes **menos experts**, y per
+   conseguent **un ciego malament judique de colors**.*»
+
+   **Dubte 4t — si pequen quan, seguint el consultor, judiquen injustament**:
+   «*Per mi dich que **no pecan** y que **se excusan in sindicatu**, encara que
+   judiquen inicament de vot y parer de consultor.*»
+
+   **La regla no és, doncs, «seguir cegament»: és que consultar els cobreix.**
+   **L'obligació és de prendre consell**; **l'efecte és que el consell els
+   exculpa fins i tot quan la sentència és injusta**, **també davant del
+   sindicat.** **La contradicció que aquesta fitxa registrava se sosté, i ara amb
+   la formulació exacta**: **un ordenament que reconeix per escrit que els seus
+   jutges no saben de lletres i els dona una excusa institucional per a quan
+   s'equivoquin.**
 5. **L'article 13 de la Reforma de 1866** —**tercera tanda que el reclama**— i
    **el decret del 25 d'octubre de 1887.**
 6. **La sentència de visura de 1710** dictada sense *assessor*.

@@ -317,11 +317,23 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
    no es pot comprovar ni ampliar.**
 2. **Les mesures preses per restringir les consultes a la batllia francesa**:
    **quines, quan, per qui, i si es van aplicar.** **La font diu «crec saber».**
-3. **El *Politar*, pp. 209, 215 i següents, 248-249, 253, 264 i 284**, i
-   **l'*Instructa* de 1740, pièce justificative p. XLIX**, que recomana consultar
-   **tres** jurisconsults on el Politar en recomana **dos**. **El corpus no té cap
-   d'aquestes pàgines.** **Prioritari: hi ha una divergència de xifra entre les
-   dues fonts i el corpus no en té cap de les dues.**
+3. **El *Politar*, pp. 209, 215 i següents, 248-249, 253 i 264.** — **La
+   divergència de xifra, `resolta` el 18-09-2026, i no era divergència.** **La
+   pàgina 211 del Politar descriu el mecanisme sencer i les dues xifres hi
+   caben**: el batlle ha de tenir **«uns 3 advocats amichs, homens de integritat,
+   sciencia y conciencia»**; **consulta el primer, i després el segon sense que
+   aquest sàpiga res de la consulta de l'altre**; **«en cas de esser uniformes
+   los parers en la substancia, declarien los Batlles sens mes consultes»**; i
+   **només «en cas de discordia dels dos advocats» passa a un tercer, també a
+   cegues, i llavors declara «arrimantse en allo que los dos advocats dels tres
+   hauran convingut»**.
+
+   **Dos per defecte, tres quan els dos no coincideixen, i sempre a cegues l'un
+   de l'altre.** **L'*Instructa* que en diu tres i el Politar que en diu dos
+   descriuen el mateix procediment des de dos punts del recorregut.** **El
+   fonament que el Politar hi posa és de consciència**: «*en conciencia te
+   obligacio de consultar allo que no alcansa*». `Les altres pàgines citades
+   segueixen sense llegir, i ara se sap que totes són dins l'extracte.`
 4. **El manuscrit del senyor Palmitjavila**, citat aquí per una regla que el
    costum viu desmentia. **Ni identificat ni datat al corpus.**
 5. **El memòria de 1767**, *Archives des Pyrénées-Orientales, C 1282*, i **el

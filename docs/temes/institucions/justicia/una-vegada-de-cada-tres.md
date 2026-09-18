@@ -314,8 +314,21 @@ tres.**
    audiència, cada tres setmanes.** **`Lectura del corpus`, marcada com a seva**:
    **l'incentiu econòmic del batlle anava en contra de la conciliació.** **La font
    no ho diu.**
-8. **El Politar, p. 211**, sobre la temptativa de conciliació del batlle. **El corpus
-   no té aquesta pàgina.**
+8. ~~**El Politar, p. 211**, sobre la temptativa de conciliació del batlle.~~ —
+   **`resolt` el 18-09-2026**: **la pàgina és dins l'extracte de Brutails i
+   s'ha llegit.** **El deure hi és, i amb el cost que comporta dit pel seu nom**:
+
+   > «**los Batlles deuhen procurar que les parts no pladeygien**, sinos que
+   > **se compongan y no tingan verbal** o que **deyxien ses questions a
+   > declaracio de arbitres**, **cedint los Batlles per lo amor a la quietut y be
+   > publich a sos particulars interessos** que tindrien en les declaracions de
+   > causes y ses sequeles.»
+
+   **El batlle havia de dissuadir de plantejar i d'anar a verbal**, i **el text
+   reconeix expressament que fer-ho li costava diners**: **cedir «a sos
+   particulars interessos»**, perquè **cobrava per declaració**. `La xifra del
+   títol —una vegada de cada tres— segueix sense sèrie que la comprovi: el
+   Politar dona el deure, no el recompte.`
 9. **Si les clàusules d'arbitratge familiar es van arribar a declarar nul·les mai.**
    **La font dubta que siguin fonamentades en dret i no cita cap anul·lació.**
 

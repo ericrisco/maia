@@ -135,6 +135,89 @@ Coutume d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
 > detall** ([avui trec penyores](./avui-trec-penyores-i-no-treia-res.md)); **de
 > l'execució sobre la persona no en té res.**
 
+## El *Politar* ho defineix ell mateix, i amb exemples
+
+**Afegit el 18-09-2026, i és el text que hi havia darrere de la paràfrasi.** **El
+corpus tenia la definició de *pena trencada* per Brutails, que resumia el
+*Politar*.** **Ara té la del *Politar*, literal**, perquè **l'extracte de les
+peces justificatives és continu de la pàgina 166 a la 285 del manuscrit** i **la
+definició és a la pàgina 198**.
+
+**L'autor s'atura expressament a explicar-ho**, i diu per què:
+
+> «Antes de pasar mes havant, **per quant habem parlat de penas trencadas y no
+> tots saben lo que es y lo que signifiquen**, afi de que en lo esdevenidor
+> tingan alguna noticia de sa naturalesa, dire en suma lo que ellas son en si.»
+
+**Ja al segle XVIII l'autor dona el terme per poc conegut.** **La creença errònia
+que Brutails registra el 1904 tenia, doncs, cent cinquanta anys de marge per
+formar-se.**
+
+**I la definició:**
+
+> «Las que en las Valls se diuhen penas trencadas son: **quant algu
+> voluntariament se obliga bayx pena determinada** o **los ministres de justicia
+> o sos oficials obligan a algu en fer o no fer tal o tal cosa bayx pena
+> determinada** y **lo obligat contrave a la obligacio, incorre la pena
+> aposada**.»
+
+**Dues vies, no una**: **l'obligació que un pren voluntàriament** i **l'ordre que
+li imposa un oficial**. **Trencar-ne qualsevol de les dues fa la pena.**
+
+### Els exemples que dona, amb tarifa
+
+**L'autor no s'atura a la definició: hi posa casos, amb Ticio i Cayo, i cada un
+amb el seu import.**
+
+| Cas | Qui s'obliga | Pena |
+| --- | --- | ---: |
+| **Ticio es fa fiança perquè Cayo surti de la presó** i promet presentar-lo a les Corts; **no el presenta dins el termini de l'edicte** | voluntari | **300 lliures** |
+| **Els batlles fan «paus y treguas» entre Ticio i Cayo** i els manen que no renyeixin; **hi consenten** | voluntari | **25 lliures** |
+| **Els batlles manen a Ticio que no entri a tal casa, que no tracti amb tal dona, que no vagi amb tal companyia** | ordre | **25 lliures** |
+| **Guardar un pres, amb les armes i municions corresponents** | ordre | **30 lliures** |
+| **Assistir el capità amb armes en sometent, escorcoll o patrulla** | ordre | **25 ducats** |
+
+**La més cara és la fiança de presó, i de molt**: **300 lliures és dotze vegades
+la de les paus i treves.** **I la del sometent es taxa en ducats i no en lliures**,
+l'única de les cinc.
+
+**El text tanca el mecanisme**: les penes incorregudes «**se declaren, com se ha
+dit, se modifican, si son excessivas, y se executen**». **La modificació per
+excessiva forma part del sistema**, i **la pàgina 196 diu qui la fa i contra qui
+es va haver d'inventar**:
+
+> «**modificant y temperant las penas trencadas**, (que aixis se deu fer segons
+> **expres privilegi de les Valls** y no barbarament exegirlas totas a las
+> fiansas o altres, **encara que fosen 300 l. per un delicte de petita
+> gravedat**, com deplorablement habia introduit est **abus y corruptela** a ulls
+> y a vista dels rahonadors **la tirana y negra codicia dels ministres de
+> justicia**, sens reclamar ningu).»
+
+**El *Politar* acusa per escrit els ministres de justícia de les Valls de cobrar
+les penes senceres per delictes petits**, **ho anomena «tirana y negra codicia»**,
+i **retreu als raonadors d'haver-ho consentit sense dir res**. **La moderació de
+la pena no és clemència: és un privilegi exprés de les Valls que s'havia deixat
+de complir.**
+
+> **`Lectura del corpus`**: **això lliga amb el que aquesta mateixa fitxa diu de
+> les despeses.** **Un sistema que taxa una fiança de presó a 300 lliures i que
+> després no modera** és **el mateix sistema on un prat de cent seixanta lliures
+> en costa vuit-centes de plet.**
+
+### Una nota de prova que val per a tot el procediment
+
+**La pàgina 199 hi afegeix una regla probatòria que el corpus no tenia:**
+
+> «**a no constar en contrari, plenament se creu y fa proba la simple relacio o
+> denunciacio dels Batlles, capitans, deners y porters**, per ser tots estos
+> ministres respectivament y **oficials jurats de les Corts**.»
+
+**La paraula del batlle, del capità, del dener i del porter fa prova plena
+mentre no es provi el contrari**, **i el fonament és que són oficials jurats**.
+**I immediatament el text hi posa el contrapès**: s'ha de vigilar que aquests
+**«no ocultian ni excusen los transgressors dels ordres»**, i **castigar-los
+rigorosament si ho fan**.
+
 ## Dos saigs que prohibien comprar vi
 
 **El corpus té aquest acte i li faltaven els noms, el contingut exacte i qui el
@@ -279,8 +362,16 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
    albis*»** —**en moneda blanca?**—, **que el corpus no dedueix.**
 6. **Per què el 1420 hi ha dos saigs alhora** quan la carta de 1305 en concedia
    **un de sol.** **Registrat, no arbitrat.**
-7. **El *Politar*, pp. 190, 196, 198 i 199** —**quatre pàgines més, i el corpus
-   ja n'acumula una vintena de citacions sense llegir.** **Prioritari.**
+7. ~~**El *Politar*, pp. 190, 196, 198 i 199** —**quatre pàgines més, i el corpus
+   ja n'acumula una vintena de citacions sense llegir.** **Prioritari.**~~ —
+   **`resolt` el 18-09-2026, i el buit estava mal plantejat des del principi.**
+   **L'extracte del *Politar* que Brutails publica a les peces justificatives no
+   són pàgines soltes: és continu, de la pàgina 166 a la 285 del manuscrit, més
+   la 336-350 i la 531-542 — cent quaranta-sis pàgines.** **Les pàgines 190, 196,
+   198 i 199 hi són totes quatre**, i **s'han llegit**: en surten la definició
+   pròpia de *pena trencada*, els cinc exemples tarifats, l'acusació de «tirana y
+   negra codicia» i la regla de prova plena dels oficials jurats (secció «El
+   *Politar* ho defineix ell mateix»). `Script: 02-DOCS/raw/operations/gap-audit-scripts/politar_pagina.py.`
 8. **El manuscrit de M. Palmitjavila** sobre les penes trencades. **Continua sent
    la pista de prioritat màxima del corpus en aquest llibre.**
 9. ~~**L'execució sobre la persona del deutor**, que Palmitjavila preveu quan no
