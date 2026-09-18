@@ -231,10 +231,11 @@ l'adquirent per les reparacions, *adobs***.
    que **comença al peu de la pàgina XLV i es talla allà mateix.**
    **El buit queda obert i canvia de naturalesa**: no és una lectura pendent,
    és **`requereix un altre exemplar del volum`.**
-5. **Si la clàusula «*no lo pugan quitar sino per son propri us*» era corrent**
-   o **excepcional.** **La font en dona dos casos del mateix any.** — **I el seu
-   sentit queda fixat el 2026-09-18**: **prohibeix manllevar per rescatar, no
-   revendre.**
+5. ~~**Si la clàusula «*no lo pugan quitar sino per son propri us*» era corrent**
+   o **excepcional.** **La font en dona dos casos del mateix any.**~~ —
+   **`parcial` el 2026-09-18**: el sentit queda fixat —**prohibeix manllevar per
+   rescatar, no revendre**—, però els dos casos del mateix any no permeten saber
+   si la clàusula era corrent o excepcional.
 6. **Què era el *dret de cuarta* que s'atribueix a Z cap al 1900** en una cessió de
    béns: **el corpus el té al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)**
    **i la secció que la font hi dedica encara no està llegida.** `Unitat següent.`
