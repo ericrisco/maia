@@ -98,6 +98,42 @@ federació del país ([l'esquí](./esqui/README.md)).
 **El tir és la tercera federació, amb 366 llicències** — més que el rugbi, el
 voleibol o l'atletisme, i el corpus no en té ni una fitxa.
 
+### Vuit temporades, i dues coses que un any sol no diu
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/caca-pesca/`, divisions
+2002-2010). **El corpus tenia una temporada i ara en té set.**
+
+| Temporada | 2018 | 2019 | **2020** | 2021 | 2022 | 2023 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Homes** | 7.612 | 6.776 | **5.708** | 6.085 | 6.312 | 6.524 | **7.051** |
+| **Dones** | 2.253 | 2.327 | 1.990 | 2.239 | 2.290 | **2.669** | **2.806** |
+| **Total** | **9.865** | 9.103 | **7.698** | 8.324 | 8.602 | 9.193 | **9.857** |
+| **% dones** | **22,8%** | 25,6% | 25,9% | 26,9% | 26,6% | **29,0%** | **28,5%** |
+
+`El 2024 no hi és a cap taula d'aquesta branca.`
+
+**Primera: el total del 2025 encara no ha superat el del 2018.** **9.857 contra
+9.865**: **vuit llicències menys, set anys després.** **El +7,2% que la nota
+del 2025 celebra és recuperació del sotrac del 2020, no creixement.**
+
+**Segona: les dones són el que creix.** **2.253 el 2018 i 2.806 el 2025**,
+**+24,5%**, **mentre els homes en perden 561.** **La proporció de dones puja
+5,7 punts en set anys**, i **tot el guany net de la sèrie és femení.**
+
+### I una edat que se'n va
+
+| Tram | 2018 | **2025** | Variació |
+| --- | ---: | ---: | ---: |
+| 0-10 anys | 2.904 | 2.935 | +1,1% |
+| **11-14 anys** | **2.197** | **1.678** | **−23,6%** |
+| 15-17 anys | 1.437 | 1.511 | +5,2% |
+| Més de 18 anys | 3.327 | 3.733 | +12,2% |
+
+**Dels quatre trams d'edat, el de l'11 als 14 anys és l'únic que perd gent**, i
+**en perd 519.** **Els nens petits són els mateixos, els adolescents grans i
+els adults en són més, i els de primer d'ESO se'n van.** `El corpus no en té
+l'explicació i la font no en dona cap.`
+
 **Els escacs, amb 49 llicències, tenen més Grans Mestres que el futbol
 andorrà jugadors a primera divisió** ([els escacs](./escacs/README.md)). La
 proporció entre resultat i base és l'anomalia més gran de la branca.
