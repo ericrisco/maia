@@ -244,7 +244,13 @@ concret que la branca d'història té: sis títols amb autor i any.**
   [la CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md) i
   [la visita de De Gaulle](./la-visita-de-de-gaulle.md). **Mort el
   30-07-1996.**
-- **Jordi Sasplugas**, **Àlvar Menéndez**: cap fitxa de cap.
+- ~~**Jordi Sasplugas**~~ — **`resolt` el 18-09-2026**: fitxa biogràfica
+  pròpia a
+  [persones](../../persones/jordi-sasplugas-mateu.md) —**Encamp 1942,
+  Andorra la Vella 2012**, impulsor del cineclub des de l'Hotel Mirador,
+  on projectava cinema prohibit pel franquisme, i més tard director de
+  programació estrangera de TV3.
+- **Àlvar Menéndez**: cap fitxa.
 - ~~**El pare Enric Graner**: cap fitxa.~~ — **`parcial` el 18-09-2026**:
   **monjo benedictí del cenobi de Montserrat**, resident a Andorra, vinculat
   a la fundació del Futbol Club Andorra a l'escalf del Col·legi Meritxell

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1079** documents · **327** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1080** documents · **328** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1294,6 +1294,7 @@
 | [Joan I de Foix](temes/persones/joan-i-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-joan-i-de-foix` |
 | [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
+| [Jordi Sasplugas Mateu](temes/persones/jordi-sasplugas-mateu.md) | `temes/persones` | compilada | contemporania | no | `iasa-web-jordi-sasplugas` |
 | [Josep Caixal i Estradé](temes/persones/josep-caixal.md) | `temes/persones` | compilada | contemporania | no | `josep-caixal-biografia` |
 | [Josep-Lluís Serrano Pentinat](temes/persones/josep-lluis-serrano-pentinat.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-josep-lluis-serrano-pentinat` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
@@ -1851,6 +1852,7 @@
 | [`goya-integracio-democratica-1997`](fonts/goya-integracio-democratica-1997.md) | Ferran Goya Rodríguez de Castro · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`guillamet-la-recerca`](fonts/guillamet-la-recerca.md) | Jordi Guillamet i Anton · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`historia-ad-relat-cronologic`](fonts/historia-ad-relat-cronologic.md) | historia.ad · Pau Chica (text) | drets reservats; cap llicència oberta declarada | no |
+| [`iasa-web-jordi-sasplugas`](fonts/iasa-web-jordi-sasplugas.md) | International Association of Sound and Audiovisual Archives (IASA) | publicació associativa, sense llicència declarada | pendent |
 | [`icnl-religio-estat-andorra`](fonts/icnl-religio-estat-andorra.md) | International Center for Not-for-Profit Law (ICNL), que n'allotja la còpia | Cap llicència declarada a l'exemplar. | pendent |
 | [`iea-recerques-acabades`](fonts/iea-recerques-acabades.md) | Institut d'Estudis Andorrans (IEA) | desconeguda, ús informatiu | False |
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
