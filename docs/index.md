@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1057** documents · **284** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1058** documents · **285** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1277,6 +1277,7 @@
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Isabel de Foix](temes/persones/isabel-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-isabella-foix` |
 | [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
 | [Joan I de Foix](temes/persones/joan-i-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-joan-i-de-foix` |
 | [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
@@ -1948,6 +1949,7 @@
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-en-isabella-foix`](fonts/wikipedia-en-isabella-foix.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-joan-enric-vives`](fonts/wikipedia-en-joan-enric-vives.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-josep-lluis-serrano-pentinat`](fonts/wikipedia-en-josep-lluis-serrano-pentinat.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-maria-reig-moles`](fonts/wikipedia-en-maria-reig-moles.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |

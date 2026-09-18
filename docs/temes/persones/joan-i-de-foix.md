@@ -64,11 +64,15 @@ d'Urgell (1435, sense fills)**.
 
 ## Buits registrats
 
-1. **Isabel de Foix**, la mare, copríncep abans que ell — **sense fitxa.**
+1. ~~**Isabel de Foix**, la mare, copríncep abans que ell — **sense fitxa.**~~
+   — **`resolt` el 18-09-2026**: **ara en té**, a
+   [persones/isabel-de-foix](./isabel-de-foix.md) — **copríncep per dret
+   propi del 1398 al 1412**, catorze anys abans que ell.
 2. **El contingut complet del privilegi del 1433** amb Francesc de Tovia.
 
 ## Related
 
+- [Isabel de Foix](./isabel-de-foix.md) — la mare, copríncep abans que ell.
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)
 - [Els bisbes d'Urgell](../historia/edat-mitjana/els-bisbes-durgell.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
