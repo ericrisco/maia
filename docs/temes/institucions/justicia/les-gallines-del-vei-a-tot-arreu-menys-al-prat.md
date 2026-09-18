@@ -334,10 +334,53 @@ final d'un decret** —«*baix pena del cot de la Terra*»—
 8. **Els casos de 1896 (contraban, 800 pessetes) i 1897 (venda de passaport,
    ferros a la plaça)** sencers. **De la legalitat del segon la font mateixa
    dubta.**
-9. **El *Politar*, pp. 208, 215, 235 i 244** —**quatre pàgines més**—, **i la
-   citació de Ducange**, **que la font esmena.**
-10. **Si el ***cot dels fallits*** per no comparèixer té documents.** **El corpus
-    només en té el nom, i és **l'única espècie de *cot* que no és territorial**.**
+9. **La citació de Ducange**, **que la font esmena.** — **Les pp. 208, 215, 235
+   i 244 del *Politar*, `resoltes` el 18-09-2026.**
+
+   **P. 244 — les tres menes de *cot*, i qui el va concedir.** **El Politar
+   atribueix la facultat d'imposar-lo a una concessió del bisbe D. Francisco de
+   Urries**, i **en dona la nomenclatura completa**: **si l'imposa el Consell
+   General, una de les seves sales o un conseller, és ***cot de la Terra***; si
+   un cònsol, pròmens o tot el Consell d'una parròquia, ***cot de la
+   parròquia***; si el Consell de quart, ***cot del quart***.
+
+   **I n'hi ha un quart que no és territorial**: **«se ha acostumat manar a
+   alguna manobra o a alguna missa de devocio o cosa semblant bayx pena del
+   ***cot de fallits***, que es dir que castigaran ab la pena que se trobara
+   corresponent als fallits, als que faltaran a la manobra, missa o altra
+   semblant cosa manada»**. **No castiga un fet: castiga una absència**, i **la
+   pena no és fixa sinó «la que se trobara corresponent»**.
+
+   **P. 235 — la tarifa dels guardes, i la frase que la tanca.** **Capitans,
+   deseners i guardes cobren jornal i despesa «a raho de ……» per dia** —**la
+   xifra és en blanc, com a tot l'aranzel del Politar**—, **que paga la part i
+   recobra del reu si s'ha procedit a instància seva**; **però si procedeixen
+   d'ofici, es paga dels béns del delinqüent, «si tenen, ***y si no tenen,
+   paciencia***»**. **Al capità se li dona un terç més que a cada guarda**, i
+   **el Politar en posa l'exemple: si el guarda cobra 4 sous, el capità en cobra
+   6.**
+
+   **La mateixa pàgina mana separar els presoners per sexe quan calgui** i
+   **procedir «ab major moderacio» amb casades, viudes, donzelles, plebees,
+   senyores de distinció i embarassades**; i **quan es troba un cadàver o una
+   casa violentada, posar-hi guarda «ab la orde de no deyxar acostar a ningu»** i
+   **lliurar les coses robades i les armes «en comanda a algun Consul, Conseller
+   o prohom» fins que el batlle provisioni.**
+
+   **P. 208 — la jurisdicció del batlle**, que és el marc d'aquesta fitxa:
+   **coneix verbalment i en primera instància, «per si sol y sens assessor, de
+   totes les causes civils, de qualsevol suma y de qualquiera naturalesa»**,
+   llevat de les privatives del Consell General; **té cúria pròpia «en qualsevol
+   endret de les Valls»**, amb notari, porter i nunci, i **mana capitans,
+   deseners i tothom «sens diferencia ni distincsio de personas» sota comminació
+   de penes de 5 sous per tres vegades.**
+10. **Si el ***cot dels fallits*** té documents.** — **`parcial` el 18-09-2026**:
+    **el corpus ja no en té només el nom, en té la definició del *Politar***
+    (p. 244): **es mana sota aquesta pena «a alguna manobra o a alguna missa de
+    devocio o cosa semblant»**, i **«castigaran ab la pena que se trobara
+    corresponent als fallits, als que faltaran»**. **Queda confirmat que no és
+    territorial i que la pena és variable**; `el que segueix obert és si se'n
+    conserva cap cas documentat.`
 
 ## Related
 

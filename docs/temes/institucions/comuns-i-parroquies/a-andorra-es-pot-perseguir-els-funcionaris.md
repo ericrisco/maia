@@ -290,6 +290,19 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
    **El càrrec que descriu aquesta fitxa —l'excònsol que substitueix de ple
    dret— no consta lexicografiat enlloc**, i **si el mot és viu avui segueix
    obert**: cap dels dos diccionaris no el documenta a Andorra.
+
+   **Guany del 18-09-2026: hi ha una atestació andorrana de 1763, i porta
+   glossa.** **El *Politar*, p. 208**, descrivint els sis pròmens que cada
+   parròquia proposa per a batlle —la *cisena*—, diu que són **«adornats del
+   titol de prohoms, ***de la classe alta o del cap gros vulgarmen dits***, los
+   quals son homens de las majors prendas, qualitats, capacitat e inteligencia
+   que se pugan encontrar en ellas»**.
+
+   > **La font mateixa el glossa: `del cap gros` = `de la classe alta`.** **És la
+   > primera atestació andorrana del mot amb definició, cent quaranta anys abans
+   > de la que aquesta fitxa tenia**, i **confirma que a Andorra no és l'insult
+   > que recullen els diccionaris sinó una designació d'estament.** `El que
+   > segueix obert és si el mot és viu avui.`
 4. **Quan es va crear la figura dels delegats als comptes** i **si van arribar a
    fer perseguir cap cònsol.** **La font en dona la facultat, no cap cas.**
 5. **L'arrendament de la muntanya de Canillo a l'Hospitalet**: **quina muntanya,
