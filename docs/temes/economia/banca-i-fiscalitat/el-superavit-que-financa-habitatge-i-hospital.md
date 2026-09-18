@@ -101,8 +101,17 @@ nova redacció de l'art. 26.2, p. 3.)
   458 habitatges previstos a l'objectiu de 650.
   El contrast registra discrepàncies numèriques de l'informe sense
   corregir-les ni traslladar-les als imports aprovats de la llei.
-- L'article 5 només detalla 4,4 milions al SAAS; falta reconstruir
-  el tractament pressupostari receptor dels 750.000 euros restants.
+- ~~L'article 5 només detalla 4,4 milions al SAAS; falta reconstruir
+  el tractament pressupostari receptor dels 750.000 euros restants.~~ —
+  **`resolt` el 18-09-2026**: **la llei sencera (5 de 5 pàgines,
+  `docs/raw/pressupost-2026/bopa-llei-10-2026.txt`) no en dona més
+  detall, i no és una omissió**: **l'article 5 desglossa el 4,4M perquè
+  és una subvenció d'explotació nova que s'ha de repartir entre dues
+  partides** (maquinari mèdic i instal·lacions tècniques), **mentre que
+  els 750.000 amplien una única línia d'inversió ja existent** (IN0007,
+  Infraestructures centre hospitalari) **que no necessita
+  desglossament**: no hi ha res més a reconstruir perquè el destí ja
+  n'és un de sol.
 - Les finals primera i segona sobre patrimoni públic i Fons de Reserva
   s'han llegit, però no s'han destil·lat ni contrastat amb les normes
   completes modificades. El mandat de consolidació de la final tercera
