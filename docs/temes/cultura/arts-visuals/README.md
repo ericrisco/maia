@@ -48,7 +48,11 @@ la imatge d'Andorra sovint no era andorrà**.
 - **Els artistes andorrans de naixement.** Cap fitxa.
 - **La pintura.** Cap.
 - **El Centre d'Art d'Escaldes-Engordany**, on hi ha la col·lecció Viladomat.
-- **Maria Canalís**, ceramista i cocreadora amb Sergi Mas.
+- **Maria Canalís**, ceramista i cocreadora amb Sergi Mas. — **`parcial`,
+  bessó amb** [Sergi Mas](./sergi-mas.md#el-que-falta): **es casen el 1955** i
+  **el 1966 obren junts un taller de ceràmica a Sant Julià de Lòria**, però
+  **no té fitxa pròpia** i **el corpus no sap res més de la seva obra
+  individual.**
 - **L'art contemporani** i el mercat de l'art.
 
 ## Related
