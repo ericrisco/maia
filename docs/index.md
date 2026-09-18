@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **335** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **337** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1774,6 +1774,7 @@
 | [`cass-ad`](fonts/cass-ad.md) | Caixa Andorrana de Seguretat Social | drets reservats; reutilització subjecta a autorització del titular | pendent |
 | [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`cervantesvirtual-edicio-andorra`](fonts/cervantesvirtual-edicio-andorra.md) | EDI-RED (Editores y Editoriales Iberoamericanos, siglos XIX-XXI) | portal acadèmic, accés obert | citacio |
 | [`checkeredflag-llovera-2024`](fonts/checkeredflag-llovera-2024.md) | The Checkered Flag | desconeguda, ús informatiu | False |
 | [`coa-jocs-mediterrani`](fonts/coa-jocs-mediterrani.md) | Comitè Olímpic Andorrà | desconeguda, ús informatiu | False |
 | [`coma-ad-institucional`](fonts/coma-ad-institucional.md) | Col·legi Oficial de Metges d'Andorra (COMA) | publicació institucional, sense llicència declarada | pendent |
@@ -2022,6 +2023,7 @@
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-en-alpine-skiing-2010-paralympics-vi`](fonts/wikipedia-en-alpine-skiing-2010-paralympics-vi.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-isabella-foix`](fonts/wikipedia-en-isabella-foix.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-joan-enric-vives`](fonts/wikipedia-en-joan-enric-vives.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-josep-lluis-serrano-pentinat`](fonts/wikipedia-en-josep-lluis-serrano-pentinat.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |

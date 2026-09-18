@@ -238,7 +238,16 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 - **Què va passar als detinguts** del segrest.
 - **El Cadí**, la revista de FHASA.
 - **Qui era Weillemann** i què hi pintava a La Nova Andorra.
-- **Quan apareix la primera impremta** a Andorra, exactament.
+- **Quan apareix la primera impremta** a Andorra, exactament. — **`parcial`
+  el 18-09-2026**: **la primera editorial amb impremta i tallers gràfics
+  propis és Casal i Vall, fundada el 1956** pels germans **Jaume, Joan i
+  Narcís Casal i Vall**
+  ([font](../../../fonts/cervantesvirtual-edicio-andorra.md)). **No
+  respon la pregunta original**: no diu res d'una impremta cap al 1940
+  —la data de Giral— ni de com s'imprimia *Andorra Agrícola* el 1933
+  (vegeu just a sota). `DIVERGÈNCIA REGISTRADA, NO ARBITRADA`: podria
+  haver-hi hagut una impremta rudimentària abans del 1956 sense tallers
+  gràfics propis, però cap font consultada ho diu.
 - ~~**Quan neix la primera premsa impresa al país**, i quina.~~ **TANCAT**: el
   **1933**, ***Andorra Agrícola***, sembla que **a Ordino** i promoguda per **la
   família Plandolit**; desapareix el **juliol de 1936**
