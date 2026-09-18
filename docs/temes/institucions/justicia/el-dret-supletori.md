@@ -319,13 +319,15 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
    l'exposició de motius del 1998 simplifiqués, o que l'ofici canviés de
    contingut entre el 1802 i el 1877.** `Requereix la memòria dels rahonadors
    del 1877, que Brutails cita i que és anterior al BOPA.`
-5. **Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
+5. ~~**Què en diu la Constitució de 1993.** [L'ordenament jurídic avui](./lordenament-juridic-avui.md)
    mostra que **no esmenta el costum** fora de l'article 84. **Però una llei del
    2021 sí:** la del notariat diu que els notaris donen fe «amb subjecció a les
    lleis... **i, subsidiàriament, d'acord amb el costum**» (art. 2.1.a). **El dret
    supletori consuetudinari és vigent per disposició expressa**, almenys en matèria
-   notarial — i **la llei no diu quin costum ni on consta**. Vegeu
-   [quants notaris](./quants-notaris.md).
+   notarial — i **la llei no diu quin costum ni on consta**.~~ — **`resolt` el
+   22-09-2026**: la resposta constitucional és que **no esmenta el costum fora
+   de l'article 84**; la referència de 2021 queda com a contrast legal posterior.
+   Vegeu [quants notaris](./quants-notaris.md).
 
 ## Related
 
