@@ -194,7 +194,7 @@ XVIII**.
    ([Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md)).
    `La data del final segueix sense fixar: la sèrie només desglossa aptituds a
    l'edició del 2026.`
-6. **El text de la Sentència de manutenció.** El corpus no l'ha vist.
+6. ~~**El text de la Sentència de manutenció.** El corpus no l'ha vist.~~ — **`parcial` el 19-09-2026**: la ponència de David Mas identifica la sentència com l'obtinguda cap al **1731**, després de tres anys de negociació, i en resumeix el règim: **el bestiar francès pagava el 10% i l'andorrà n'estava exempt**, amb mesures de control ([font](../../../fonts/mas-relacions-comercials-1994.md)). **El text original de la sentència continua sense localitzar-se.**
 7. ~~**Quant era una lliura.** Sense equivalència, «noranta lliures» només es pot
    llegir en relació amb el sou del metge.~~
    **`resolt` — 2026-09-13, sense cap font nova.** L'equivalència ja era al
