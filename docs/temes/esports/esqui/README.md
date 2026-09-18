@@ -65,5 +65,8 @@ I el que el corpus té sobre esquí que viu en altres branques:
   té cap fitxa.**~~ — **`parcial` el 18-09-2026**: **l'Esquí Club
   Ordino-Arcalís (ECOA) ja en té**, a [ECOA](../../../fonts/ecoa-ad-junta.md)
   — president Agustí Guimerà, estructura per categories d'edat. **L'any
-  de fundació no hi consta**, i **els altres clubs (Arinsal-Pal i la
-  resta) segueixen sense fitxa.**
+  de fundació no hi consta.** **L'Esquí Club Arinsal-Pal (ECAP), de
+  [Roger Vidosa](./esquiadors/roger-vidosa.md), també en té ara**, a
+  [ECAP](../../../fonts/ecapclub-el-club.md) — **constituït cap al
+  1983**, amb una divergència registrada sobre qui n'és president avui.
+  **La resta de clubs segueixen sense fitxa.**
