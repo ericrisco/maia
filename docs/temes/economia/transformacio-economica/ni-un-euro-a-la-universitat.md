@@ -169,8 +169,9 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
 
 ## El que falta
 
-- **Només hi ha 2022 i 2024.** **El 2023 no existeix a cap taula**, i **abans
-  del 2022 no hi ha res.** `serie_estadistica`
+- ~~**Només hi ha 2022 i 2024.** **El 2023 no existeix a cap taula**, i **abans
+  del 2022 no hi ha res.**~~ — **`no-es-buit`**: és una limitació de la sèrie
+  publicada, no una pregunta de recerca.
 - **Cap comparació internacional.** **Sense el mateix indicador d'un altre
   país, un 0,37% del PIB no es pot qualificar.** `font_externa`
 - **Per què la indústria passa de 3,22 M€ a 0,66 M€** en dos anys. La font dona
