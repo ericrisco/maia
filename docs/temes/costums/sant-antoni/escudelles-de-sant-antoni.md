@@ -59,12 +59,16 @@ folklore andorrà no és un bloc immòbil heretat; té capes, i algunes són d'a
 ## El que falta
 
 - Cada parròquia per separat: dia, lloc, nom local, qui ho organitza.
-- Conciliar aquesta fitxa amb
+- ~~Conciliar aquesta fitxa amb
   [L'escudella de Sant Antoni](../../gastronomia/plats/lescudella-de-sant-antoni.md),
   que cobreix **el plat** i el cas d'Andorra la Vella (recuperació dels anys
   setanta per uns amics que es deien Anton). Aquesta cobreix **la festa** i el
   cas de Canillo. Les dues lectures són certes; cal que cadascuna remeti a
-  l'altra i que no es contradiguin en dates.
+  l'altra i que no es contradiguin en dates.~~ **`resolt`:** són dos casos
+  diferents i compatibles: **Andorra la Vella** recupera l'escudella a
+  principis dels anys setanta, i **Canillo** fa la primera vianda popular el
+  **1979**. La fitxa del plat remet a aquesta festa i aquesta fitxa remet al
+  plat; no hi ha contradicció cronològica.
 - **Sant Sebastià** (20 de gener), que surt associat a Sant Antoni a les
   agendes i que aquesta fitxa no cobreix.
 - La benedicció d'animals: si encara es fa i on.
