@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **344** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **346** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1883,6 +1883,7 @@
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | Maria Jesús Lluelles Larrosa · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`lluelles-transformacio-economica-andorra-1991`](fonts/lluelles-transformacio-economica-andorra-1991.md) | M. Jesús Lluelles i Larrosa, geògrafa | pendent, llibre no consultat directament | pendent |
 | [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | Pere López i Agràs · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`mach-i-buch-cloenda-31a-diada`](fonts/mach-i-buch-cloenda-31a-diada.md) | Àngels Mach i Buch · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`margarit-escenari-escolar-2017`](fonts/margarit-escenari-escolar-2017.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports · Servei de Política Lingüística (edició) i Estel Margarit i Viñals (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`margarit-monne-joves-i-llengues-2010`](fonts/margarit-monne-joves-i-llengues-2010.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Estel Margarit i Viñals i Alexandra Monné i Bellmunt (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`marina-formacio-dadults`](fonts/marina-formacio-dadults.md) | Joan Ramon Marina i Amat · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1934,6 +1935,7 @@
 | [`pique-duro-problemes-socials-1997`](fonts/pique-duro-problemes-socials-1997.md) | Montserrat Piqué (Càritas Andorrana) i Rosa Duró Solanelles · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`planas-toponims-preromans-2018`](fonts/planas-toponims-preromans-2018.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports (edició) i els autors (textos i fotografies) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`pol-i-sole-consciencia-nacional-andorrana`](fonts/pol-i-sole-consciencia-nacional-andorrana.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pons-neu-i-aigua`](fonts/pons-neu-i-aigua.md) | Marc Pons i Pons · Societat Andorrana de Ciències | pendent; PDF accessible al repositori de l'IEC, sense llicència específica identificada a la peça | pendent |
 | [`portaljuridicandorra-llei32-2018-acciosindical`](fonts/portaljuridicandorra-llei32-2018-acciosindical.md) | Govern d'Andorra | text normatiu oficial, ús públic | permesa (text legal) |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |

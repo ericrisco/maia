@@ -198,10 +198,26 @@ pròpia font principal**:
   fins al 2018**, amb títol i any, vegeu més amunt. **Queda obert** què hi ha
   després del 2018.
 - **Les Trobades Culturals Pirinenques**: quantes, de què, des de quan.
-- **Qui la dirigeix** i amb quins recursos.
-- **Antoni Pol i Solé**, representant de la SAC al patronat de la UCE, que signa
-  la presentació de la 13a Diada. **El corpus no en té res.**
-- **Les altres seccions** de la SAC, a banda de Llengua catalana i l'ACMA.
+- ~~**Qui la dirigeix** i amb quins recursos.~~ — **`parcial` el 18-09-2026**:
+  el **2018-2019**, la presidenta era **Àngels Mach i Buch, farmacèutica**,
+  també representant de la SAC a la Fundació UCE
+  ([font](../../../fonts/mach-i-buch-cloenda-31a-diada.md)). **No confirmat
+  que ho segueixi sent el 2026**, i els recursos segueixen sense documentar.
+- ~~**Antoni Pol i Solé**, representant de la SAC al patronat de la UCE, que
+  signa la presentació de la 13a Diada. **El corpus no en té res.**~~ —
+  **`resolt` el 18-09-2026**: **arquitecte i urbanista**, resident a
+  **Canillo**, va ser **representant de la SAC a la Fundació UCE durant 26
+  anys, del 1988 al 2014**, segons la fitxa biogràfica de la 31a Diada (2018)
+  ([font](../../../fonts/pol-i-sole-consciencia-nacional-andorrana.md)) — el
+  mateix volum on Àngels Mach i Buch consta com la seva successora en el
+  càrrec.
+- ~~**Les altres seccions** de la SAC, a banda de Llengua catalana i
+  l'ACMA.~~ — **`parcial` el 18-09-2026**: el corpus ja tenia, des d'una
+  fitxa anterior i sense enllaçar-hi, la **secció d'Història**, encapçalada
+  per **Pere Cavero i Muñoz**
+  ([font](../../../fonts/cavero-parlamentarisme-segle-xx.md)). **Tres
+  seccions confirmades** (Llengua catalana, ACMA, Història); **resta obert**
+  si n'hi ha més.
 - **Les Jornades sobre l'educació a Andorra de 1987**, organitzades per la SAC i
   **publicades el 1994** — citades a la 13a Diada com a precedent. **Font
   localitzada i no llegida.**
