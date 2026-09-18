@@ -215,8 +215,18 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
   els batlles», i **el quarto del botxí**, «una habitació fosca amb solament una
   espitllera», on **s'hostatjava el botxí quan havia de venir de França o
   d'Espanya** i **«no el coneixia ningú»**. **El que no diu cap font del corpus
-  és si Pere Areny hi va ser.** `Requereix font externa: l'expedient del cas
-  Areny de 1943.`
+  és si Pere Areny hi va ser.** ~~`Requereix font externa: l'expedient del cas
+  Areny de 1943.`~~ — **`parcial` el 18-09-2026**: **l'expedient oficial
+  segueix segellat fins al 2043**, però l'escriptor
+  [Iñaki Rubio Manzano](../../persones/inaki-rubio-manzano.md) hi va accedir
+  per al seu llibre **«Morts, qui us ha mort?» (2021)**, gràcies a una còpia
+  familiar —**l'únic, a part dels descendents, que l'ha vist.** **La seva
+  tesi**: Pere Areny tenia una malaltia mental, probablement esquizofrènica,
+  i el judici a la Casa de la Vall es va fer **«sense advocats ni
+  possibilitat de defensa»**
+  ([font](../../../fonts/aracat-morts-qui-us-ha-mort-pere-areny.md)). **No
+  confirma ni desmenteix si va ser al «corral»** — el buit concret hi
+  segueix obert, però **la recerca de conjunt sobre el cas ja no és cap.**
 
 ## Related
 

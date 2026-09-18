@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1078** documents · **321** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1079** documents · **323** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1287,6 +1287,7 @@
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Francesc Galobardes Carbonell](temes/persones/francesc-galobardes.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-francesc-galobardes` |
+| [Iñaki Rubio Manzano](temes/persones/inaki-rubio-manzano.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-inaki-rubio-manzano` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Isabel de Foix](temes/persones/isabel-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-isabella-foix` |
 | [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
@@ -1730,6 +1731,7 @@
 | [`apapma-registre-andorralavella`](fonts/apapma-registre-andorralavella.md) | Comú d'Andorra la Vella | publicació institucional, sense llicència declarada | pendent |
 | [`ara-lleida-ruta-oficis-ahir-1999`](fonts/ara-lleida-ruta-oficis-ahir-1999.md) | Diputació de Lleida · Patronat de Turisme | © dels textos i fotografies dels autors; consulta i extracte intern per a traçabilitat |  |
 | [`ara-ribas-reig-onu-1993`](fonts/ara-ribas-reig-onu-1993.md) | Grup Henneo · Ara.cat | premsa, drets reservats; citació breu | False |
+| [`aracat-morts-qui-us-ha-mort-pere-areny`](fonts/aracat-morts-qui-us-ha-mort-pere-areny.md) | Ara.cat (ARA) | premsa digital, sense llicència declarada | pendent |
 | [`ari-capsules`](fonts/ari-capsules.md) | Andorra Recerca + Innovació (AR+I) | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube de cada peça. Verificada a 5 peces (#34, #56, #57, #60, #65) el 2026-09-13; no verificada a la resta. | si |
 | [`ari-enquesta-opinio-politica-2025`](fonts/ari-enquesta-opinio-politica-2025.md) | Andorra Recerca + Innovació (AR+I), successora del CRES-IEA | publicació institucional, sense llicència declarada | pendent |
 | [`arinsal-furdada-2020`](fonts/arinsal-furdada-2020.md) | Glòria Furdada, Aina Margalef, Laura Trapero, Marc Pons, Francesc Areny, Margaret Baró, Albert Reyes i Marta Guinau | CC BY 4.0; declaració explícita al PDF p. 26 | sí, sota les condicions CC BY 4.0 de l'article; no extensió automàtica a les fonts externes |
@@ -1989,6 +1991,7 @@
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-francesc-galobardes`](fonts/wikipedia-ca-francesc-galobardes.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-inaki-rubio-manzano`](fonts/wikipedia-ca-inaki-rubio-manzano.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-llista-carreteres-andorra`](fonts/wikipedia-ca-llista-carreteres-andorra.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |

@@ -139,13 +139,14 @@ popular.**
   > pregoner.** **I hi ha un fals amic a la mateixa paraula dins del corpus**: el
   > **nunci apostòlic** de [el concordat del
   > 2008](../coprincipat/el-concordat-del-2008.md) **no hi té cap relació.**
-- ~~**Iñaki Rubio Manzano**, escriptor andorrà sense fitxa.~~ — **`parcial`.**
-  **Fitxa, cap; però el corpus el té documentat**: consta a la llista d'**autors
-  i autores d'Andorra**, **n. 1974**
-  ([`Literatura_andorrana-ca.wiki`](../../../raw/web/cultura2/Literatura_andorrana-ca.wiki),
-  el material en brut de [la literatura
-  andorrana](../../cultura/literatura/literatura-andorrana.md)). **L'obra,
-  encara no.**
+- ~~**Iñaki Rubio Manzano**, escriptor andorrà sense fitxa.~~ — **`resolt` el
+  18-09-2026**: fitxa biogràfica pròpia a
+  [persones](../../persones/inaki-rubio-manzano.md) — **i el motiu és més
+  gran del que semblava**: és l'autor de **«Morts, qui us ha mort?» (2021)**,
+  la recerca literària més profunda que existeix sobre **el cas Pere Areny
+  (1943)**, l'últim afusellat d'Andorra —el mateix que centra
+  [la pena de mort](./la-pena-de-mort.md). **Quatre anys de recerca i accés
+  al sumari judicial, segellat fins al 2043.**
 - ~~**Tor**, i la seva relació amb Andorra.~~ — **`parcial`, i els dos articles
   ja s'apuntaven l'un a l'altre.** [El minairó](../../cultura/llegendes/el-minairo.md)
   registra **«Tor d'Alós» entre les nou cases que, segons la tradició, tenien
