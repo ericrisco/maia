@@ -127,10 +127,59 @@ competicions internacionals documentades.**
 a únic ciclista andorrà professional documentat**, i **ara sap que el Tour de
 França ha acabat tres vegades al seu país.**
 
+## Les societats, amb nom sencer i número de registre
+
+> **Tancat el 18-09-2026** amb **l'avís legal de protecció de dades de Pal
+> Arinsal** (`docs/raw/web/economia/palarinsal-proteccio-dades.txt`), **que és
+> font primària de l'operador mateix**: hi declara **totes les societats del
+> grup amb raó social, domicili i NRT.**
+
+| Sigla | Raó social sencera | NRT | Què fa |
+| --- | --- | --- | --- |
+| **NEVASA** | **Neus del Valira, S.A.** | A706067F | **comercialització** de Grandvalira Resorts: màrqueting, reserves i producte |
+| **SAETDE** | **SAETDE, S.A.** ⚠ | A700071W | explota **Pas de la Casa - Grau Roig** |
+| **ENSISA** | **Esports de Neu Soldeu Incles, S.A.** | A700159E | explota **Soldeu - el Tarter** |
+| **EMAP** | **Estacions de Muntanya Arinsal/Pal, S.A.U.** | — | explota **Pal Arinsal** |
+| **SETAP 365** | **SETAP 365, S.A.** — de **S**oldeu **E**l **T**arter **A**rinsal **P**al, **i 365** pels dies de l'any | A-716174-A | societat que **integra Ensisa i EMAP** |
+| **SECNOA** | **Societat Explotadora del Camp de Neu Ordino Arcalís, S.A.** | A075524C | explota **Ordino Arcalís** |
+
+> ⚠ **Divergència registrada.** **L'avís legal només dona «SAETDE, S.A.»**, i
+> **el corpus té dues lectures de la sigla que no coincideixen**: **«Societat
+> Anònima d'Equipament Turístic-Esportiu de la Parròquia d'Encamp»**
+> ([les estacions](./README.md)) i **«Societat Anònima d'Equipaments Turístics
+> de la Vall d'Encamp»**, que és la que circula a la premsa especialitzada.
+> **No s'arbitra: cal l'escriptura de constitució del 22 de novembre del 1967.**
+> `pregunta_oberta`
+
+**Dues coses que les sigles amagaven:**
+
+- **«Nevasa» no ve de Vallnord ni de «nevada»**: és **Neus del Valira**, i **és
+  una comercialitzadora, no una explotadora**. **Cap pista no és seva.**
+- **«365» no és un número de societat**: és **el compromís d'obrir la muntanya
+  tot l'any**, i és **el que el nom de la societat declara com a estratègia.**
+
+**Qui controla SETAP365**, segons l'acord d'integració de l'**octubre-desembre
+del 2021**:
+
+| Accionista | % inicial |
+| --- | ---: |
+| **Comú de Canillo** | **40,1 %** |
+| **Crèdit Andorrà** | **39,7 %** |
+| **Comú de la Massana** | **19,9 %**, amb mecanisme per arribar al **30 % en sis anys** |
+
+> **Dos comuns i un banc controlen l'explotació de Soldeu-el Tarter i Pal
+> Arinsal.** **El 60,0 % és públic comunal i el 39,7 % és d'una entitat
+> financera privada** — que és, exactament, **la manera andorrana**
+> ([les estacions](./README.md)).
+
+`El que segueix sense saber-se és l'accionariat de SAETDE, d'ENSISA i de
+SECNOA per separat, i qui té NEVASA. L'avís legal dona raó social i NRT, no
+capital.` `font_externa`
+
 ## El que falta
 
 - **Per què es va dissoldre Vallnord.**
-- **Què són EMAP, Ensisa, Nevasa i SETAP365**, i qui les controla.
+- ~~**Què són EMAP, Ensisa, Nevasa i SETAP365**, i qui les controla.~~ — **`resolt` el 18-09-2026**: vegeu [les societats, amb nom sencer i número de registre](#les-societats-amb-nom-sencer-i-numero-de-registre).
 - **Què va passar amb Josep Serra** després de cedir Arinsal.
 - **Les xifres de les dues estacions**: visitants, facturació, ocupació. —
   **`parcial` el 18-09-2026**: **del país sí que n'hi ha sèrie** —**dies

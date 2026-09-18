@@ -81,7 +81,13 @@ anglesos».**
 - **L'any de la fusió** entre Viladomat i el Comú d'Encamp.
 - **Naturland**, a Sant Julià de Lòria, que la font esmenta i el corpus no ha
   mirat.
-- **Els noms de les societats**: EMAP, Ensisa, Nevasa, SETAP365.
+- ~~**Els noms de les societats**: EMAP, Ensisa, Nevasa, SETAP365.~~ —
+  **`resolt` el 18-09-2026**: **Neus del Valira SA (Nevasa)**, **Esports de Neu
+  Soldeu Incles SA (Ensisa)**, **Estacions de Muntanya Arinsal/Pal SAU (EMAP)**,
+  **SETAP 365 SA** —de Soldeu El Tarter Arinsal Pal— i, de propina, **SAETDE**
+  (Societat Anònima d'Equipaments Turístics de la Vall d'Encamp) i **SECNOA**
+  (Societat Explotadora del Camp de Neu Ordino Arcalís). **Amb NRT i domicili**,
+  vegeu [Vallnord](./vallnord.md#les-societats-amb-nom-sencer-i-numero-de-registre).
 - **L'impacte sobre l'habitatge** i el debat sobre saturació.
 
 ## Related
