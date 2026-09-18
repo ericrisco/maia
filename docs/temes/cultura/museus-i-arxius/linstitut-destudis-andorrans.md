@@ -318,7 +318,11 @@ assembla força al que aquest corpus intenta fer amb text.
 - **La revista *Habitats***: si va sortir el setembre del 2000 i quants números.
 - **El jardí botànic de Sant Julià de Lòria.**
 - **Els resultats de *Consum cultural i oci* (2000).**
-- **La biblioteca científica d'ús públic**: si existeix i on és.
+- ~~**La biblioteca científica d'ús públic**: si existeix i on és.~~ —
+  **`resolt` el 19-09-2026**: la pàgina institucional de l'IEA diu que els
+  centres de **Barcelona i Tolosa** donen suport als estudiants i disposen d'una
+  biblioteca molt completa de bibliografia d'Andorra, amb títols consultables en
+  línia ([fitxa de font](../../../fonts/iea-estat-2026.md)).
 - ~~**El text de la llei de 1976** i el de la **llei del 16 d'octubre de
   1996**.~~ — **`parcial` el 17-09-2026**: **la del 1996 és al
   [BOPA](../../../fonts/bopa.md)**, butlletí **77 del 1996**
