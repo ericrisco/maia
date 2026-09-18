@@ -213,12 +213,17 @@ que es parlaran; no diu què faran.**
 - **P. Raton**, *Le statut international de la Principauté d'Andorre*, Govern
   d'Andorra.
 - **Marc Maresceau (2008)**, p. 275 i el seu context.
-- **L'entrada d'Andorra a l'ONU** el 1993: **data exacta**, procés, qui la va
-  apadrinar. **Primer indici, i s'ha de llegir amb cura**: **Julià Reig**,
-  exsíndic, escriu el 1994 que **el cap de Govern va parlar davant l'assemblea
-  de les Nacions Unides el 28 de juliol de 1993**
-  ([font](../../../fonts/valls-enquesta-andorranitat-1994.md)). **Això data el
-  discurs, no l'acte d'admissió**, i el corpus **no els confon**.
+- ~~**L'entrada d'Andorra a l'ONU** el 1993: **data exacta**, procés, qui la va
+  apadrinar.~~ — **`parcial` el 18-09-2026**: la pàgina oficial de l'ONU
+  ([font](../../../fonts/un-member-states.md)) dona **«Date of Admission:
+  28-07-1993»** — **el mateix dia que el discurs del cap de Govern** que ja
+  tenia el corpus (Julià Reig, 1994,
+  [font](../../../fonts/valls-enquesta-andorranitat-1994.md)). **El discurs i
+  l'acte d'admissió van ser el mateix dia**, no dies diferents com el corpus
+  havia deixat obert. **Segueixen sense confirmar-se** el número de resolució
+  de l'Assemblea General i els països que van apadrinar la candidatura —
+  intents amb URLs deduïdes a `digitallibrary.un.org` i `press.un.org` han
+  tornat 403/404, sense WebSearch per trobar la referència exacta.
 - ~~**Les altres organitzacions internacionals** de què Andorra és membre o
   observador. **La mateixa font n'afegeix una**: **Andorra hi consta com a
   membre de ple dret de la UNESCO** el 1994. **Sense any d'ingrés.**~~ —

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **348** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **349** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1979,6 +1979,7 @@
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`uda-canal`](fonts/uda-canal.md) | Universitat d'Andorra | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube. Verificada a 4 peces el 2026-09-14; no verificada a la resta. | si |
 | [`uda-model-sistemic-2010`](fonts/uda-model-sistemic-2010.md) | Grup de recerca en llengua catalana de la Universitat d'Andorra i els autors · publicat al portal del Govern d'Andorra | sense llicència declarada; el document no porta pàgina de crèdits, ni ISBN, ni dipòsit legal | no |
+| [`un-member-states`](fonts/un-member-states.md) | Organització de les Nacions Unides | pàgina institucional pública | pendent |
 | [`unesco-bear-festivities-pyrenees`](fonts/unesco-bear-festivities-pyrenees.md) | UNESCO, Sector de Cultura | Copyright UNESCO; citació i ús de recerca | limitada |
 | [`unesco-countries-andorra`](fonts/unesco-countries-andorra.md) | UNESCO | desconeguda, ús informatiu | False |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
