@@ -207,11 +207,15 @@ majors i de cap altra peça.`
 
 ## Buits registrats
 
-**S'ha destil·lat una quarta part del llibre.** Introducció (p. 7-12), lèxic
-(p. 101-110) i conclusions (p. 111-115). **Els capítols de fonètica, morfologia i
-sintaxi —p. 13-99, vuitanta-set pàgines— no.** I són el gruix del valor: allà
-cada tret va amb la seva cita datada, i aquí només hi ha **el resum que en fa
-l'autor**. Un resum d'un autor no és una font primària de cap tret concret.
+~~**S'ha destil·lat una quarta part del llibre.** […] **Els capítols de
+fonètica, morfologia i sintaxi —p. 13-99, vuitanta-set pàgines— no.**~~ —
+**`resolt` en la seva part més gran el 18-09-2026**:
+**[L'erra que ja no sonava](./lerra-que-ja-no-sonava.md)** destil·la
+**la fonètica (cap. 1) i la morfologia (cap. 2)**, amb **cada tret amb la seva
+cita datada** —l'argument de l'`-r` emmudida provada per *escriurer*, el
+`an-a ell` del *Manual digest*, el pas ø → -e → -o en dos-cents anys, els quatre
+sistemes de subjuntiu i la pèrdua de *dues*—. `Segueix obert el capítol 3, la
+sintaxi (p. 71-99).`
 
 **Cap document original no s'ha vist, i la cadena té un graó que falta.** El
 corpus cita **Rull citant** Bascompte (1997), Pohle (2008), Riera i Simó (1980),

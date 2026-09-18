@@ -687,6 +687,14 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***ayguas, assequias, rigueras y riguerons*** | **la fórmula que transfereix el reg i els seus canals amb la finca** | ídem |
 | ***mediant ribàs al mig*** | **el *ribàs* com a partió entre dos prats**, a les afrontacions | ídem |
 
+| ***valira*** | **‘riu'**, com a nom comú — **«alguns padrins d'Andorra anomenen encara avui a qualsevol riu *una valira*»**, i en conserven l'expressió col·loquial ***anar a fer una valira*** en el sentit d'**anar a fer un riu** (orinar). **És l'argument que els autors oposen a l'etimologia llatina (*VALERIA*) de Coromines**: si el mot viu com a apel·latiu, el topònim és un hidrònim | [Els annexos dels topònims](../../territori/toponimia/els-annexos-dels-toponims.md) |
+| ***gord*** | **‘dur, fort'** en andorrà — **els autors hi recorren per llegir el topònim Engordany**, on el substrat rocós del solà té justament aquesta característica | ídem |
+
+**Els dos de dalt vénen d'un estudi de toponímia, no de lexicografia**, i **el
+corpus no els ha comprovat contra cap diccionari**. **`valira` és el més
+valuós dels dos**: és **un mot viu recollit en boca de parlants grans**, i
+**explica per què el riu principal del país es diu com es diu.**
+
 **Cap dels quatre no és a la llista del Servei de Política Lingüística**, i
 **tots quatre són d'un camp que aquesta fitxa no cobreix**: **el vocabulari de
 la casa i de l'herència**. **Avís de lectura**: **són mots citats dins una tesi
