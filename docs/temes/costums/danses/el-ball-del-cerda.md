@@ -49,7 +49,7 @@ recuperació de les danses laurèdianes.
 > essencialment obert, però el corpus ja sap on és la resposta i ja té un
 > precedent que li dona forma.**
 
-- **Coreografia, música, vestuari, qui el balla, i el rastre documental.** —
+- ~~**Coreografia, música, vestuari, qui el balla, i el rastre documental.**~~ —
   **`obert`, confirmat.** Cap altre document del corpus no en diu res.
 - ~~**L'Esbart Laurèdia és la font òbvia i no s'ha consultat**~~ — **`parcial`**.
    **L'esbart no només és la font òbvia: el corpus ja n'ha identificat el llibre

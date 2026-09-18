@@ -148,7 +148,7 @@ relat, no una prova a favor seu.**
 
 ## El que falta
 
-- **Veure el documental.** **El corpus en té la fitxa tècnica i la llista
+- ~~**Veure el documental.**~~ **El corpus en té la fitxa tècnica i la llista
   d'entrevistats, no el contingut.** **Buit prioritari.**
 - **Què va respondre Amazon**, si va respondre.
 - **Si va haver-hi resposta institucional andorrana** al documental.

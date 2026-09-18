@@ -54,15 +54,15 @@ andorrana», és la dansa d'Andorra la Vella—, és **participativa** i és
 > **Auditat contra la resta del corpus el 2026-09-13.** **Una de les quatre
 > preguntes ja tenia mitja resposta a dos documents que aquesta fitxa no citava.**
 
-- **L'origen i la datació.** — **`obert`, confirmat.** **L'única datació que el
+- ~~**L'origen i la datació.**~~ — **`obert`, confirmat.** **L'única datació que el
   corpus té del contrapàs és indirecta i no serveix**: Amades el dona per
   autòcton al *Costumari* ([els catorze balls](./els-catorze-balls.md)), i la
   mateixa font avisa que **sortir al *Costumari* no vol dir que es ballés**.
-- **La música i qui la compon o la conserva.** — **`obert`, confirmat.**
+- ~~**La música i qui la compon o la conserva.**~~ — **`obert`, confirmat.**
   **Contrasta amb [la marratxa](./la-marratxa.md)**, que sí que té la cadena
   sencera —Ricard Mas, Daniel Areny, Isidre Marbà, anys seixanta. **Del
   contrapàs el corpus només sap que es toca amb cobla en directe.**
-- **La descripció figura per figura de les tretze parts.** — **`obert`,
+- ~~**La descripció figura per figura de les tretze parts.**~~ — **`obert`,
   confirmat.** **El corpus no té la descripció de cap coreografia andorrana**;
   la cosa més pròxima és la **descripció de vestuari del Ball del porrer** que
   [els catorze balls](./els-catorze-balls.md) cita d'Amades.
