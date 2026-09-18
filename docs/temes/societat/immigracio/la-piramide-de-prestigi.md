@@ -257,6 +257,60 @@ llengua catalana implica»**.
 **No és desinterès: és una barrera.** Vegeu
 [la portuguesitat](./la-portuguesitat.md).
 
+## La piràmide mesurada en euros
+
+**Afegit el 18-09-2026.** **La font d'aquesta fitxa descriu una jerarquia de
+prestigi percebut. L'API d'Estadística permet posar-hi una xifra que no és
+prestigi sinó salari**, i **les dues llistes no coincideixen del tot.**
+
+**Salari mitjà del desembre per país d'origen** —massa salarial dividida pel
+nombre d'assalariats, divisions **406** i **395**—, **per als orígens amb més
+de dues-centes persones el 2025:**
+
+| Origen | 2015 | 2020 | **2025** | Assalariats 2025 |
+| --- | ---: | ---: | ---: | ---: |
+| **Espanya** | 2.832 € | 3.197 € | **3.912 €** | 15.287 |
+| **Andorra** | 2.892 € | 3.140 € | **3.787 €** | 11.511 |
+| França | 2.375 € | 2.716 € | **3.375 €** | 1.597 |
+| **Portugal** | 1.807 € | 2.063 € | **2.955 €** | 5.900 |
+| Uruguai | 1.957 € | 1.881 € | 2.746 € | 217 |
+| Marroc | 1.940 € | 1.953 € | 2.592 € | 471 |
+| Veneçuela | 2.171 € | 2.132 € | 2.556 € | 354 |
+| Perú | 1.717 € | 1.984 € | 2.554 € | 1.045 |
+| Filipines | 1.696 € | 1.670 € | 2.311 € | 551 |
+| Brasil | 1.502 € | 1.656 € | 2.288 € | 695 |
+| Colòmbia | 1.704 € | 1.910 € | 2.283 € | 1.938 |
+| **Argentina** | 1.536 € | 1.637 € | **2.131 €** | 5.739 |
+| **Xile** | 1.586 € | 1.646 € | **1.970 €** | 1.016 |
+
+`Són xifres de desembre, no mitjanes anuals: el desembre inclou el que es
+pagui aquell mes i no és comparable amb la mitjana anual que publica
+l'activitat A165 ([la bretxa salarial](../dones/la-llei-digualtat.md#la-bretxa-salarial-andorrana-mesurada-547-euros-al-mes)).
+La mitjana per origen tampoc no controla el sector, l'antiguitat ni la jornada:
+diu quant cobra de fet cada col·lectiu, no quant cobra per la mateixa feina.`
+
+**Tres coses.**
+
+**Primera: a dalt no hi ha els andorrans.** **Els assalariats d'origen espanyol
+cobren 125 € més al mes que els d'origen andorrà**, i **ho fan tant el 2020 com el 2025**. `El 2015 l'ordre era el contrari, per 60 €. La
+fitxa registra la inversió i no en dona la causa: pot ser composició sectorial,
+pot ser que «origen espanyol» inclogui qui ja té passaport andorrà.`
+
+**Segona: entre el primer i l'últim hi ha el doble.** **3.912 € a Espanya i
+1.970 € a Xile**: **una relació de 1,99.** **I l'ordre de baix reprodueix la
+base de la piràmide descrita per la font, amb una excepció que val la pena
+dir**: **el Marroc no és a baix.** **Amb 2.592 € està per sobre del Perú, del
+Brasil, de Colòmbia, de l'Argentina i de Xile**, i **la fitxa el situa a la
+base de la jerarquia de prestigi.** **Prestigi percebut i salari no són la
+mateixa escala.**
+
+**Tercera: la distància s'estreny per als portuguesos i no per als
+llatinoamericans.** **Portugal puja un 63,5% del 2015 al 2025** —de 1.807 a
+2.955 €—, **molt més que Andorra (+30,9%) i Espanya (+38,1%)**. **L'Argentina
+en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
+**en el mateix període en què el col·lectiu argentí es multiplica per nou**
+([la immigració llatinoamericana](./la-immigracio-llatinoamericana.md#vint-i-cinc-anys-despres-en-xifres)).
+
 ## Buits registrats
 
 1. **L'estudi *La immigració a Andorra*** (Batalla, Casals, Micó — Pagès
