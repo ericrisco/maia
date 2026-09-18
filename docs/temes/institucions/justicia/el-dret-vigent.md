@@ -188,8 +188,8 @@ quatre**. La taula s'ha generat llegint cada clàusula, no deduint-la.
 
 ## Buits registrats
 
-- **Els reglaments no hi són.** Una llei andorrana sovint no s'entén sense el
-  reglament que la desenvolupa, i aquest fons només té normes amb rang de llei.
+- ~~**Els reglaments no hi són.** Una llei andorrana sovint no s'entén sense el
+  reglament que la desenvolupa, i aquest fons només té normes amb rang de llei.~~
   — **`parcial` el 17-09-2026: el forat és del fons, no del país, i ja té
   porta.** **El [BOPA](../../../fonts/bopa.md) publica els reglaments**, i el
   corpus n'ha anat baixant al llarg del dia: **el Reglament del Registre de
@@ -201,8 +201,8 @@ quatre**. La taula s'ha generat llegint cada clàusula, no deduint-la.
   qualsevol, no.** `Requereix decidir un criteri: baixar el reglament de cada
   llei que el corpus cita, o només quan un buit concret l'exigeixi. Fins ara
   s'ha fet la segona cosa.`
-- **Les ordinacions comunals tampoc.** Les set parròquies tenen dret propi i el
-  corpus no en té ni una línia. — **`parcial` el 17-09-2026, i la troballa és
+- ~~**Les ordinacions comunals tampoc.** Les set parròquies tenen dret propi i el
+  corpus no en té ni una línia.~~ — **`parcial` el 17-09-2026, i la troballa és
   que existeixen i són públiques.** **El BOPA publica les ordinacions dels set
   comuns**: **10.908 documents contenen la paraula «Ordinació»**, i el rastre
   per parròquia és aquest:
@@ -225,8 +225,8 @@ quatre**. La taula s'ha generat llegint cada clàusula, no deduint-la.
   pressupostàries, de crèdit extraordinari i de funció pública comunal**.
   `Requereix triar per on començar: la via natural és l'ordinació de
   pressupost d'un comú, que és anual i dona sèrie.`
-- **Ni els tractats internacionals ni la jurisprudència.** Saber què diu el dret
-  és saber també què n'han dit els tribunals. — **`parcial` el 17-09-2026, i
+- ~~**Ni els tractats internacionals ni la jurisprudència.** Saber què diu el dret
+  és saber també què n'han dit els tribunals.~~ — **`parcial` el 17-09-2026, i
   és el tercer forat del mateix tipus: del fons, no del país.** **El
   [BOPA](../../../fonts/bopa.md) publica totes dues coses**, i **la
   jurisprudència constitucional hi surt sencera i al dia**:
