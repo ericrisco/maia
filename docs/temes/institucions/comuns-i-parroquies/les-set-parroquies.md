@@ -69,6 +69,43 @@ determinar les transferències: aquest article constitucional no dona imports
 ni percentatges de repartiment.
 ([P. 455, art. 81](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
 
+### Quanta gent hi ha a cada parròquia, amb font i data
+
+**El corpus havia retirat la taula de població i superfície que tenia** perquè
+li faltava la peça i la data de referència. **La població ja té les dues**, del
+**Departament d'Estadística, A003 «Estadística dels censos parroquials»,
+referència juliol del 2026**
+([nota](../../../raw/estadistica-poblacio/a001-a003-2026-07.pdf), CC BY 4.0):
+
+| Parròquia | Població | % del país |
+| --- | ---: | ---: |
+| **Andorra la Vella** | **24.884** | **27,64** |
+| Escaldes-Engordany | 16.350 | 18,16 |
+| Encamp | 13.710 | 15,23 |
+| La Massana | 12.350 | 13,72 |
+| Sant Julià de Lòria | 10.318 | 11,46 |
+| Canillo | 6.593 | 7,32 |
+| **Ordino** | **5.816** | **6,46** |
+| **Total** | **90.021** | **100** |
+
+`Comprovació del corpus: les set files sumen exactament el total publicat.`
+
+**Posat al costat de l'article 81, el quadre diu per què la norma reparteix com
+reparteix.** **Andorra la Vella té 4,28 vegades la població d'Ordino**, i **les
+tres parròquies del sud —capital, Escaldes-Engordany i Sant Julià— en són el
+57,3%.** **La partida igual per a totes set és, en termes de persones, una
+transferència del sud cap al nord.**
+
+**I la partida variable no depèn només de la població**: **l'article 81 hi posa
+també l'extensió territorial**, que és **el criteri que juga a favor de Canillo
+i d'Ordino**. Vegeu
+[els diners dels comuns](./els-diners-dels-comuns.md) i
+[la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md),
+on **el mateix desequilibri de 4,28 apareix com a desigualtat de vot.**
+
+`La superfície de cada parròquia segueix sense font al corpus: aquesta nota
+d'Estadística no la dona, i la peça que la donaria és la cartografia oficial.`
+
 ## Dues vies de control que cal distingir
 
 Els conflictes sobre interpretació o exercici de competències entre òrgans
@@ -178,9 +215,7 @@ blanc de qualsevol altra parròquia
 - ~~El règim electoral comunal, dins de la cadena de normes pendents.~~ `resolt`
   **Títol III de la Llei qualificada del règim electoral**, articles 63-68, amb
   el repartiment d'escons comprovat contra les set parròquies del 2023.
-- Retirada la taula atribuïda genèricament a Viquipèdia com a dades de 2023:
-  faltaven la peça, la data de referència i la definició de població i
-  superfície. No s'ha acreditat tampoc l'abast de l'ordre protocol·lari ni
+- Retirada la taula atribuïda genèricament a Viquipèdia com a dades de 2023: faltaven la peça, la data de referència i la definició de població i superfície. — **`parcial` el 18-09-2026: la població ja hi és, amb peça i data** —**A003 d'Estadística, juliol del 2026, CC BY 4.0**, vegeu [Quanta gent hi ha a cada parròquia](#quanta-gent-hi-ha-a-cada-parroquia-amb-font-i-data)—; **la superfície, no.** No s'ha acreditat tampoc l'abast de l'ordre protocol·lari ni
   l'exclusivitat geogràfica del mot «cònsol». Les afirmacions anteriors
   queden en una [instantània d'auditoria fora del corpus](../../../raw/consell-general/les-set-parroquies-abans-auditoria-20260913.txt),
   sense considerar-les provades ni refutades.
