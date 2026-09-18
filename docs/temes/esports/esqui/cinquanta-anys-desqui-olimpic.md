@@ -181,6 +181,28 @@ i Nagano— i **Antor hi debuta amb 22 anys**.
 **El 27è lloc de Roger Vidosa a l'eslàlom és el millor resultat andorrà
 d'aquells Jocs.** Tenia 21 anys i **tornaria a Vancouver 2010**.
 
+### Vancouver 2010 — sis esportistes, i sis abandonaments
+
+> **Afegit el 18-09-2026** des del bolcat
+> ([`en_Andorra_at_the_2010_Winter_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2010_Winter_Olympics.wiki),
+> Viquipèdia, CC BY-SA 4.0).
+
+| Esport | Qui | Resultat |
+| --- | --- | --- |
+| **Esquí alpí** | **Mireia Gutiérrez** | **Combinada 1:29.16 — 24a** · descens **1:52.87 — 28a** · súper-G i gegant: no acaba |
+| | **[Sofie Juarez](./esquiadors/sofie-juarez.md)** | Eslàlom i gegant: no acaba |
+| | **Kevin Esteve Rigail** | **Súper-G 1:35.67 — 39è** · descens **1:59.61 — 47è** · combinada: no acaba |
+| | **[Roger Vidosa](./esquiadors/roger-vidosa.md)** | **Combinada 2:50.33 — 25è** · súper-G **1:33.65 — 33è** · descens **1:59.65 — 48è** · gegant: no acaba |
+| **Esquí de fons** | **Francesc Soulié** | **50 km clàssic 2:25:00.8 — 47è** · **esprint 3:55.22 — 56è** · **15 km lliure 38:36.0 — 73è** |
+| **Surf de neu** | **Lluís Marín Tarroch** | **Boardercross, qualificació 1:47.36 — 34è**, no avança |
+
+**El resum de la mateixa font ho diu sense embuts**: **sis abandonaments en
+tretze proves d'esquí alpí**, i **el millor resultat del país és el 24è de
+Mireia Gutiérrez a la combinada.**
+
+**És la segona i última participació olímpica de Roger Vidosa**, i **la
+primera de Gutiérrez, Juarez i Esteve.**
+
 ### Sotxi 2014 — sis esportistes i tres esports
 
 | Esport | Qui | Resultat |
@@ -191,6 +213,49 @@ d'aquells Jocs.** Tenia 21 anys i **tornaria a Vancouver 2010**.
 | | **[Joan Verdú](../../persones/joan-verdu.md)** | Gegant, no acaba |
 | **Biatló** | **Laure Soulié** | **Individual 50:04.2 — 48a** (3 errades) · **esprint 23:57.8 — 66a** (2 errades) |
 | **Surf de neu** | **Lluís Marín Tarroch** | **Boardercross: desqualificat als 39ns**, **25è ex aequo** |
+
+### PyeongChang 2018 — cinc esportistes, i el debut d'Irineu Esteve
+
+> **Afegit el 18-09-2026** des del bolcat
+> ([`en_Andorra_at_the_2018_Winter_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2018_Winter_Olympics.wiki),
+> Viquipèdia, CC BY-SA 4.0).
+
+| Esport | Qui | Resultat |
+| --- | --- | --- |
+| **Esquí alpí** | **[Joan Verdú](../../persones/joan-verdu.md)** | **Combinada 2:12.54 — 27è** · súper-G **1:26.86 — 28è** · descens **1:44.65 — 37è** · gegant: no acaba |
+| | **Marc Oliveras** | **Combinada 2:14.64 — 29è** · súper-G **1:27.84 — 33è** · descens: no acaba |
+| | **Mireia Gutiérrez** | **Eslàlom — 30a** |
+| **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | **15 km lliure 35:40.7 — 27è** (+1:56.8) · **50 km clàssic 2:19:08.3 — 34è** · **30 km skiathlon 1:21:47.7 — 46è** |
+| **Surf de neu** | **Lluís Marín** | **Boardercross: 26è i 6è a les mànegues de classificació, 30è de sèrie, 5è a vuitens**, no avança |
+
+**El debut olímpic d'Irineu Esteve són uns Jocs on ja acaba 27è als 15 km**,
+**quatre anys després dels que Andorra no el va portar.**
+
+`El bolcat dona el total de l'eslàlom de Gutiérrez com a «1:46:06», amb dos
+dos punts. És un error d'escriptura de la font —un temps d'eslàlom no té hores—
+i el corpus cita la posició, que és la que la taula dona bé.`
+
+### Pequín 2022 — cinc esportistes, i el millor resultat de la història
+
+> **Afegit el 18-09-2026** des del bolcat
+> ([`en_Andorra_at_the_2022_Winter_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2022_Winter_Olympics.wiki),
+> Viquipèdia, CC BY-SA 4.0).
+
+| Esport | Qui | Resultat |
+| --- | --- | --- |
+| **Esquí alpí** | **[Joan Verdú](../../persones/joan-verdu.md)** | **Gegant 2:11.28 — 9è**, amb **la 3a millor segona mànega de la cursa** · súper-G **1:22.92 — 22è** |
+| | **[Cande Moreno](./esquiadors/cande-moreno.md)** | **Combinada 2:34.34 — 12a** · súper-G **1:16.72 — 30a** · descens: no acaba |
+| **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | **30 km skiathlon 1:21:08.2 — 20è** · **15 km clàssic 40:39.4 — 24è** · **50 km lliure 1:15:09.8 — 25è** |
+| | **[Carola Vila](./esquiadors/carola-vila.md)** | **10 km clàssic 31:45.0 — 47a** · **15 km skiathlon 50:28.8 — 47a** · **30 km lliure 1:39:18.1 — 48a** |
+| **Surf de neu** | **[Maeva Estévez](./esquiadors/maeva-estevez.md)** | **Boardercross: no acaba la qualificació, 31a** |
+
+**El 9è lloc de Joan Verdú al gegant és el millor resultat olímpic d'hivern de
+la història d'Andorra**, i **el 12è de Cande Moreno a la combinada, el segon**
+([els millors resultats](../competicio/andorra-als-jocs-olimpics.md#els-millors-resultats-olimpics-andorrans)).
+**Els dos, els mateixos Jocs.**
+
+**I la segona mànega del gegant de Verdú va ser la tercera més ràpida de tota
+la cursa.** **Era 13è després de la primera i va acabar 9è.**
 
 ## Les tres coses que aquesta fitxa obliga a corregir
 
