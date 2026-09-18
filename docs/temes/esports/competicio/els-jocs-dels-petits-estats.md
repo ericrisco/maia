@@ -319,7 +319,7 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   les xifres ja trobades i el buit d'instal·lacions i cost.
 - **Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
   passar realment.
-- **El medaller andorrà complet** de les setze edicions. — **`parcial`, i el
+- ~~**El medaller andorrà complet** de les setze edicions.~~ — **`parcial`, i el
   buit s'està tancant per l'altre extrem.** **Aquesta fitxa té medallers per
   edició i cap nom**; **les fitxes d'esportista, en canvi, ja porten noms i
   proves.** **Tres exemples que sols ja sumen vint-i-vuit medalles**:

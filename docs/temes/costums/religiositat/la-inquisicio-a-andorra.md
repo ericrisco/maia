@@ -243,8 +243,8 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
   al volum re-extret.
 - **Les tres dates que Bascompte i Pujol no diuen igual** (el cot, la sisena,
   l'escrivania). **Prioritari.**
-- **Què hi va fer exactament el Tribunal de la Inquisició** —la font diu que no
-  consta cap actuació, però **«no consta» no és «no n'hi va haver»**. —
+- ~~**Què hi va fer exactament el Tribunal de la Inquisició** —la font diu que no
+  consta cap actuació, però **«no consta» no és «no n'hi va haver»**.~~ —
   **`parcial` des del 2026-09-18, i ara contra una font primària.** **Brutails
   (1904, p. 222) aporta tres coses**: **dues fórmules datades —4 de febrer de 1574 i
   1646— que inclouen expressament «*Valls de Aran y Andorra*» a la demarcació dels

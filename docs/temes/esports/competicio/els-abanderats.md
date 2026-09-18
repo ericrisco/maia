@@ -126,7 +126,7 @@ Comitè Olímpic Andorrà o Olympedia.**
   `flagbearer_open = Joan Verdú, Cande Moreno & Irineu Esteve`**, amb
   **referència al comunicat del COI del 6 de febrer del 2026**. **El buit era
   vell: la fitxa ja l'havia tancat i la llista de buits no s'havia actualitzat.**
-- **Els abanderats de CLAUSURA**, que és una sèrie diferent. — **`parcial` el
+- ~~**Els abanderats de CLAUSURA**, que és una sèrie diferent.~~ — **`parcial` el
   18-09-2026, i ara en són dos.** **[Pol Moya](../estiu/pol-moya.md)**, Rio
   2016, **i el de Milano Cortina 2026**, que **no és un esportista**:
 

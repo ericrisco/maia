@@ -464,8 +464,8 @@ olímpica.** I **no és a la neu: és en aigües braves**.
      quadre.** **Un 200 estils femení en 1:59.31 el 2000 hauria estat rècord
      del món**; **és un error de còpia de la font** i **el corpus en cita la
      posició i no el temps.**
-2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
-   exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
+2. ~~**La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
+   exactament el 1976, i qui l'ha presidit.**~~ El corpus només té un nom:
    **Jaume Martí**, president el 2015. — **`parcial` el 18-09-2026**: **el
    president actual és Xavier Espot Miró, elegit l'1 d'octubre del 2024**
    ([font](https://www.anocolympic.org/nocs-directory/comite-olimpic-andorra/15880))
@@ -483,7 +483,7 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    consultades directament conté aquesta informació**: **sembla una invenció
    de la capa de síntesi de la cerca, no una dada de cap font real.** No s'ha
    incorporat.
-3. **Per què la delegació d'estiu ha caigut** de vuit a dos. — **`parcial`
+3. ~~**Per què la delegació d'estiu ha caigut** de vuit a dos.~~ — **`parcial`
    el 18-09-2026: la corba ja està mesurada i la causa no.** **El màxim és de
    Barcelona 1992 i Atlanta 1996, amb vuit**, i **el mínim dels dos últims
    Jocs, amb dos**, vegeu

@@ -68,7 +68,7 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
   desqualificació.**
 - ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
   el bolcat consultat no publica aquests resultats.
-- **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, amb la fitxa
+- ~~**Quan va plegar i què fa ara.**~~ — **`parcial` el 17-09-2026**, amb la fitxa
   de la [FIS](../../../../fonts/fis-ski-db.md) **llegida dues vegades i
   coincident les dues**: **«not active»**, i **el darrer registre que hi consta
   és un eslàlom a Chamrousse (França) el 27 de març del 1999, amb DNF.**

@@ -73,7 +73,7 @@ del país sencer, vista des de l'esport.
 
 - ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
   el bolcat consultat només té dues línies i no publica aquests resultats.
-- **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, i **la meitat
+- ~~**Quan va plegar i què fa ara.**~~ — **`parcial` el 17-09-2026**, i **la meitat
   que es tanca ve de la base de dades de la
   [FIS](../../../../fonts/fis-ski-db.md), no de cap arxiu**: la seva fitxa
   d'esquí alpí el dona com a **«not active»**, i el **darrer resultat que hi
