@@ -224,10 +224,45 @@ pàgina la daten:**
    **Prioritari**: **ara se'n sap la ubicació.**
 4. **Quins van ser els vint anys** en què la plaça de veguer francès va restar
    vacant al segle XVIII *(Archives des Pyrénées-Orientales, C 2101)*.
-5. **El *Politar*, pp. 194, 336 i 343**, i **el manuscrit del senyor
-   Palmitjavila** —**vuitena tanda seguida**— **que aquí es contradiuen sobre si
-   el Jutge té veu deliberativa.** **Prioritari**: **el corpus no té cap de les
-   dues fonts i la divergència és sobre el nucli del tribunal.**
+5. **El manuscrit del senyor Palmitjavila.** — **Les pp. 194, 336 i 343 del
+   *Politar*, `resoltes` el 18-09-2026, i la banda del Politar ja no és de
+   segona mà.**
+
+   **Sobre la posició del Jutge, el Politar no la discuteix: la col·loca.** **A
+   la p. 339 el fa seure a la cadira del mig, entre els dos Veguers, «pera
+   denotar que se administre la justicia en nom dels dos Senyors Princeps» i
+   **«demostrar que es consultor de un y altre Veguer»**; **a la p. 185 el fa
+   signar la sentència «com a assessor o consulent»**, després que la firmin els
+   Veguers; **i a la p. 343 el posa «en lo mitg» de la processó i, si només hi ha
+   un Veguer, **a l'esquerra d'ell**, «tot loque se practicara en tots los actes
+   publichs»**. **Tres llocs diferents, la mateixa doctrina: assessor, no
+   membre.** `La contradicció amb Palmitjavila segueix registrada i no
+   arbitrada, perquè el manuscrit continua sense llegir.`
+
+   **I la p. 194 dona en primera mà una regla que el corpus tenia per Brutails**
+   ([homes armats a la porta de l'església](./homes-armats-a-la-porta-de-lesglesia.md)).
+   **Les Corts s'obren un cop l'any i no dos**,
+   «sinos que hi hagi justa y llegitima causa»; i **no es poden obrir**:
+
+   > «**desde sant Miquel de maig a sant Miquel de setembre**, segons privilegi
+   > de las Valls […] **per ser lo temps desde sant Miquel de maig a sant Miquel
+   > de setembre lo mes ocupat y lo unich temps en que se pot treballar en les
+   > Valls de Andorra, cultivar los camps y prats**.»
+
+   **El corpus tenia la finestra i el motiu; el que hi guanya és el text i una
+   segona limitació.** **La d'una sola sessió l'any té motiu de caixa**: «per los
+   molts gastos ocasionan […] les Corts».
+
+   **El Politar hi afegeix quan s'obrien de fet**: **«Lo regular es que los
+   Senyors Veguers no solen obrir ni celebrar las Corts, sinos quant motiva a sa
+   obertura algun presoner o criminal de delicte major, al qual no s' pot soltar
+   afiansat»**. **Les Corts no es convocaven per calendari: les convocava un pres
+   que no es podia afiançar.**
+
+   > **I un detall de despesa que toca aquesta fitxa**: **la Cort feia la despesa
+   > als raonadors**, «encara que asso no vinga compres en lo privilegi de
+   > rahonadors», **donant-los els Veguers «sa taula», com també als batlles i a
+   > l'escrivà de les Corts.**
 6. **Qui era el síndic general** que sostenia que els Veguers podien apartar el
    Jutge, **i en quin document.** **La font no el nomena i en desqualifica el
    testimoni.**
