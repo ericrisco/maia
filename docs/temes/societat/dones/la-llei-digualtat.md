@@ -147,6 +147,63 @@ país —**hoteleria 2.151,69 €** i **llars que ocupen personal domèstic 1.93
 ([els salaris](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat)),
 i el més ben pagat, **el sistema financer amb 4.972,10 €**, és el contrari.
 
+## La conciliació mesurada, i la pregunta que no es desglossa per sexe
+
+**Afegit el 18-09-2026** de l'**enquesta de conciliació del 2018**
+(`docs/raw/estadistica-api/cura/`, divisions 2063-2082, Departament
+d'Estadística, CC BY 4.0). **Un sol any, i és tot el que hi ha.**
+
+**La cura, a Andorra, és de menors i gairebé de ningú més.**
+
+| | 2018 |
+| --- | ---: |
+| Població amb responsabilitats de cura | **34,2%** |
+| …de menors d'edat | 31,3% |
+| …**de familiars dependents** | **1,7%** |
+| …de totes dues coses | 1,2% |
+
+**I la reparteixen tots dos sexes molt més igual del que caldria esperar**:
+**32,5% dels homes i 35,9% de les dones**, **3,4 punts de diferència**.
+
+**El que sí que es mou és el rellotge.** **Qui fa servir serveis de cura
+treballa 42,7 hores si és home i 39,0 si és dona**: **3,7 hores de diferència a
+la setmana.**
+
+**Dues xifres que contrasten amb el to tranquil de la resta:**
+
+| | 2018 |
+| --- | ---: |
+| **Ha deixat almenys un mes la feina per cuidar menors** | **46,5%** |
+| **Ha deixat de treballar o ha reduït l'horari per cuidar familiars dependents** | **21,2%** |
+| Diu que la cura no té cap efecte a la seva ocupació actual | 86,2% |
+| Diu que no té cap dificultat per conciliar | 90,2% |
+
+**Gairebé la meitat de la població ha aturat la feina un mes o més per cuidar
+criatures, i nou de cada deu diuen que no tenen cap dificultat de
+conciliació.** **Les dues coses són certes alhora perquè pregunten temps
+diferents**: **la primera, tota la vida laboral; la segona, ara.**
+
+**I les interrupcions són curtes**: **el 50,6% dura fins a sis mesos** i el
+**30,9% entre sis mesos i un any**; **només el 2,6% passa dels cinc anys.**
+
+**Per què no es fan servir els serveis de cura**, i la resposta no és el preu:
+
+| Motiu | 2018 |
+| --- | ---: |
+| **Perquè ho organitza sol o amb la parella** | **72,2%** |
+| Perquè ho organitza amb ajuda informal (avis) | 14,3% |
+| **Perquè són massa cars** | **6,7%** |
+| Perquè els menors es cuiden ells mateixos | 4,4% |
+| **Perquè no n'hi ha o no hi ha places** | **1,0%** |
+
+**El 65,8% de la població amb menors no fa servir cap servei de cura**, i
+**només un de cada cent diu que és perquè no n'hi ha.** `Que la família se
+n'ocupi sola pot ser preferència o pot ser preu; l'enquesta no ho separa, i el
+6,7% de «massa cars» és l'única part que sí que ho diu.`
+
+**L'excedència és marginal**: de qui s'absenta, **el 72,7% ho fa només amb la
+baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
+
 ## Buits registrats
 
 - ~~**Només cobreix el sexe.** La discriminació per origen, raça, religió,
@@ -195,6 +252,15 @@ i el més ben pagat, **el sistema financer amb 4.972,10 €**, és el contrari.
   [La bretxa salarial andorrana, mesurada](#la-bretxa-salarial-andorrana-mesurada-547-euros-al-mes).
   `Segueixen oberts els plans d'igualtat i el nombre d'empreses de més de 50
   persones: cap activitat del Pla d'estadística del 2026 no els compta.`
+  **Ampliat el 18-09-2026 amb l'enquesta de conciliació del 2018**, vegeu
+  [La conciliació mesurada](#la-conciliacio-mesurada-i-la-pregunta-que-no-es-desglossa-per-sexe).
+- **La interrupció de la carrera per cura no es desglossa per sexe, i és
+  l'única pregunta de l'enquesta on el desglossament importaria.** **Registrat
+  el 18-09-2026.** **De vint divisions de la branca, només tres el porten** —
+  qui té responsabilitats de cura, de qui, i quantes hores treballa—, i **les
+  tres on la desigualtat es veuria** —qui ha deixat la feina, quant de temps, i
+  qui ha reduït l'horari per familiars dependents— **donen només el total.**
+  `La font no ho desagrega.`
 - ~~**La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
   **no és al recull de normes consolidades**. És un buit important.~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **el
