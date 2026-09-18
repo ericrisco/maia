@@ -124,8 +124,11 @@ Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
    **División de Honor B espanyola**, la direcció contrària. `Requereix la
    Federació Andorrana de Rugbi.`
 5. **La Federació Andorrana de Judo** i **la de Rugbi**.
-6. **Els Jocs Mediterranis**: hi participa Andorra regularment? **El corpus no
-   ho sabia i aquesta fitxa ho revela de retruc.**
+6. ~~**Els Jocs Mediterranis**: hi participa Andorra regularment?~~ —
+   **`resolt`, i era un buit duplicat**: [els altres
+   Jocs](../esports/competicio/els-altres-jocs.md#els-jocs-del-mediterrani-lunica-medalla)
+   ja en té l'historial complet des del 2001, amb font oficial del COA. **Sí,
+   de manera ininterrompuda des del 2009.**
 
 ## Related
 

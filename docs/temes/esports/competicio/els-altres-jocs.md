@@ -23,6 +23,15 @@ competitions multiesportives internacionals on va Andorra, aquí.**
 
 **Andorra hi va des del 2001** ([font](../../../fonts/wikipedia-jocs-andorra.md)).
 
+**Provat el 18-09-2026 contra la font oficial**
+([font](../../../fonts/coa-jocs-mediterrani.md)): **la pàgina del COA
+confirma el 2001 com a estat convidat, el 2005 com a inici de la
+membresia de ple dret** —«**alguns països defensaven que Andorra no era
+pròpiament un país riberenc del Mediterrani**»—, **i la participació
+ininterrompuda des del 2009**. **Divergència registrada, no arbitrada, en
+el nombre d'esportistes**: **el COA dona 33 a Tarragona 2018 i 7 a Orà
+2022, contra els 34 i els 11 d'aquesta taula.**
+
 | Edició | Seu | Esportistes | Medalles |
 | --- | --- | --- | --- |
 | 1951-1997 | | **no hi participa** | |

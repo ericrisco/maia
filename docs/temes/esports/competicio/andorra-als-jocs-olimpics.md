@@ -511,9 +511,11 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    resultat és un novè lloc de Paquita Ramírez a Vancouver 2010.**
 8. **El biatló**: Olympedia el llista i no se'n troba cap biatleta. **Desacord
    obert.**
-9. **Els Jocs Mediterranis**: hi va Andorra. Ho revela de retruc la fitxa
+9. ~~**Els Jocs Mediterranis**: hi va Andorra. Ho revela de retruc la fitxa
    d'[Èric Risco](../../persones/eric-risco.md), **i el corpus no en sap res
-   més**.
+   més**.~~ — **`resolt`, i era un buit duplicat**: [els altres
+   Jocs](./els-altres-jocs.md#els-jocs-del-mediterrani-lunica-medalla) ja en
+   té l'historial complet des del 2001, amb font oficial del COA.
 10. **Els Jocs Europeus** i **els Jocs Olímpics de la Joventut**, on Andorra ha
     competit en **bàsquet 3x3**, **esquí de muntanya** i **esquí acrobàtic** —
     **tres esports que no han arribat mai als Jocs absoluts**.
