@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **342** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **344** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1955,6 +1955,7 @@
 | [`rull-parlar-andorra-xvii-xviii`](fonts/rull-parlar-andorra-xvii-xviii.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Xavier Rull i Muruzábal (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`saas-ad-historia`](fonts/saas-ad-historia.md) | SAAS (Servei Andorrà d'Atenció Sanitària) | publicació institucional, sense llicència declarada | pendent |
 | [`sac-esport-i-salut`](fonts/sac-esport-i-salut.md) | Manuel Suárez i García · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`sac-qui-som`](fonts/sac-qui-som.md) | Societat Andorrana de Ciències | pàgina institucional pública | pendent |
 | [`santos-associacions-de-pares`](fonts/santos-associacions-de-pares.md) | Alícia Santos i Mateo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`santos-matias-capital-social-portugues`](fonts/santos-matias-capital-social-portugues.md) | Magda Santos i Matias · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`serra-educacio-especialitzada`](fonts/serra-educacio-especialitzada.md) | Carolina Serra i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -2020,6 +2021,7 @@
 | [`wikipedia-ca-pascual-madoz`](fonts/wikipedia-ca-pascual-madoz.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-pere-canturri-montanya`](fonts/wikipedia-ca-pere-canturri-montanya.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-societat-andorrana-de-ciencies`](fonts/wikipedia-ca-societat-andorrana-de-ciencies.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-tunel-del-cadi`](fonts/wikipedia-ca-tunel-del-cadi.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-tunel-envalira`](fonts/wikipedia-ca-tunel-envalira.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |

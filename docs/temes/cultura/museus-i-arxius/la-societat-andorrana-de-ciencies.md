@@ -183,8 +183,17 @@ ciències ambientals.**
 Aquesta fitxa és, en bona part, **una llista del que el corpus no sap de la seva
 pròpia font principal**:
 
-- **Quan es va fundar la SAC** i **per qui**. La 1a Diada és del **1988**, de
-  manera que l'entitat és **anterior o d'aquell any**. **Buit prioritari.**
+- ~~**Quan es va fundar la SAC** i **per qui**. La 1a Diada és del **1988**, de
+  manera que l'entitat és **anterior o d'aquell any**. **Buit prioritari.**~~ —
+  **`parcial` el 18-09-2026**: la data hi és, **19 d'agost de 1983**, i coincideix
+  en dues fonts independents — **la mateixa SAC**, «va néixer l'any 1983 en
+  resposta a les noves necessitats d'un país en ple desenvolupament»
+  ([font](../../../fonts/sac-qui-som.md)), i la **Viquipèdia catalana**, que
+  n'afina el dia exacte, «nascuda el 19 d'agost de 1983»
+  ([font](../../../fonts/wikipedia-ca-societat-andorrana-de-ciencies.md)).
+  **Confirma també** que l'entitat és cinc anys anterior a la 1a Diada (1988),
+  amb la qual no coincideix la fundació. **Cap de les dues fonts anomena qui la
+  va fundar** — la meitat del buit segueix oberta.
 - ~~Quantes Diades hi ha hagut i de què va cada una~~ — **tancat**: **trenta-una
   fins al 2018**, amb títol i any, vegeu més amunt. **Queda obert** què hi ha
   després del 2018.
