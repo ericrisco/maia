@@ -424,10 +424,10 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 
 ## Buits registrats
 
-1. **Els resultats complets, edició per edició i esportista per esportista.**
-   Aquesta fitxa en té **el recompte, no els resultats**. **Prioritari.** —
-   **Anotat el 18-09-2026: el material per tancar-lo ja és al corpus i no cal
-   tornar a la xarxa.** **Les vint-i-sis pàgines d'edició són a
+1. ~~**Els resultats complets, edició per edició i esportista per esportista.**
+   Aquesta fitxa en té **el recompte, no els resultats**. **Prioritari.**~~ —
+   **`resolt` el 18-09-2026**, i **el material per tancar-lo ja era al corpus:
+   no ha calgut tornar a la xarxa.** **Les vint-i-sis pàgines d'edició són a
    `docs/raw/web/esport/jocs-olimpics/` amb llicència CC BY-SA 4.0**, i **les
    del 2002 ençà porten la taula de resultats sencera** —són els fitxers de 14 a
    22 KB—; **les anteriors al 1996, no.**
