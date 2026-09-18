@@ -98,9 +98,10 @@ membre de l'Associació Francesa Internacional d'Escacs a més de la FIDE.**
   > «Sr. Pantebre» de les sardanes.** **El corpus segueix sense arbitrar si
   > són la mateixa casa.** `Requereix font externa: genealogia o registre
   > civil.`
-- **Si hi ha lliga andorrana d'escacs**, i el Club Escacs Peona i Peó. —
-  **`obert`, confirmat**, amb **bessó literal** a
-  [la federació](./la-federacio.md), que el declara amb les mateixes paraules.
+- ~~**Si hi ha lliga andorrana d'escacs**, i el Club Escacs Peona i Peó.~~ —
+  **`resolt` el 18-09-2026, com a duplicat d'índex**: el buit canònic queda a
+  [la federació](./la-federacio.md), que conserva la pregunta de la lliga i
+  dels clubs.
 - ~~**Què va passar abans del 2000**, si la federació és del 1967.~~ —
   **`parcial`, i el buit està mal plantejat: no és un buit d'escacs, és un buit
   de quadre d'honor.** [La federació](./la-federacio.md) **sí que sap què va
