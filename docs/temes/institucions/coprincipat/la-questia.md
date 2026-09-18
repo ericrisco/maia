@@ -195,9 +195,11 @@ l'article 47 de la Constitució.`
   ***Treballs de la Societat Catalana de Geografia* 41 (1996)**, **en accés
   obert a l'IEC.** **És la font de les tres dates finals i el corpus no l'ha
   llegit.** **Buit prioritari i barat.**
-- **Tomàs Junoy**, ***Relació sobre la Vall d'Andorra*** (1838) — **la mateixa
+- ~~**Tomàs Junoy**, ***Relació sobre la Vall d'Andorra*** (1838) — **la mateixa
   font primària que [el ball de l'ossa](../../costums/danses/el-ball-de-lossa-dencamp.md)
-  reclama.** **Dues fitxes de branques diferents demanen el mateix llibre.**
+  reclama.** **Dues fitxes de branques diferents demanen el mateix llibre.**~~ —
+  **`resolt` el 19-09-2026** com a buit duplicat: la referència canònica i el
+  que en queda pendent són a la fitxa del ball de l'ossa.
 - **Lluís Dalmau i de Baquer**, ***Historia de la República de Andorra***
   (1849).
 - ~~**Què és un sou melgorès**~~, i **quant valien 4.000.** — **`parcial` el
