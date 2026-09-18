@@ -20,14 +20,14 @@ tags: [arquitectura, romanic, index, patrimoni]
 | **Sant Joan de Caselles** | Canillo | XI-XII | [fitxa](./sant-joan-de-caselles.md) |
 | **Sant Martí de la Cortinada** | Ordino | XI-XII | [fitxa](./sant-marti-de-la-cortinada.md) |
 | **Sant Romà de les Bons** | Encamp | XII | [fitxa](./sant-roma-de-les-bons.md) |
-| **Santa Coloma** | Andorra la Vella | — | **sense fitxa** |
+| **Santa Coloma** | Andorra la Vella | X-XII | [fitxa](./santa-coloma.md) |
 | **Sant Miquel d'Engolasters** | Escaldes-Engordany | XII | [fitxa](./sant-miquel-dengolasters.md) |
 | **Sant Serni de Canillo** | Canillo | — | **sense fitxa** |
 
 ## El que uneix les tres primeres
 
 Els motius decoratius de [Sant Joan de Caselles](./sant-joan-de-caselles.md) i de
-Santa Coloma reapareixen a
+[Santa Coloma](./santa-coloma.md) reapareixen a
 [Sant Martí de la Cortinada](./sant-marti-de-la-cortinada.md) a finals del segle
 XII, amb canvis estilístics importants
 ([Viquipèdia](../../../fonts/viquipedia-ca.md)).

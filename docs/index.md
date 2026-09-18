@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1075** documents · **316** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1076** documents · **318** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -150,6 +150,7 @@
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Miquel d'Engolasters](temes/cultura/arquitectura/sant-miquel-dengolasters.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-miquel-dengolasters` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Santa Coloma](temes/cultura/arquitectura/santa-coloma.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-santa-coloma` |
 
 ## temes/cultura/artesania
 
@@ -1804,6 +1805,7 @@
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-politar-antoni-puig`](fonts/enciclopedia-cat-politar-antoni-puig.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-sant-miquel-dengolasters`](fonts/enciclopedia-cat-sant-miquel-dengolasters.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
+| [`enciclopedia-cat-santa-coloma`](fonts/enciclopedia-cat-santa-coloma.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |
@@ -1978,6 +1980,7 @@
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-charles-romeu`](fonts/wikipedia-ca-charles-romeu.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-esglesia-santa-coloma`](fonts/wikipedia-ca-esglesia-santa-coloma.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-francesc-galobardes`](fonts/wikipedia-ca-francesc-galobardes.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
