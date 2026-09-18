@@ -1,13 +1,13 @@
 ---
 type: article
 title: "Naturland: el parc que ha perdut vint milions"
-description: "Un parc d'aventura a la Rabassa, gestionat pel comú de Sant Julià de Lòria, que en catorze anys va acumular gairebé vint milions d'euros de pèrdues i al 2025 en planteja el tancament ordenat."
+description: "Un parc d'aventura a la Rabassa, gestionat pel comú de Sant Julià de Lòria, que va acumular gairebé vint milions d'euros de pèrdues i encara arrossega una reestructuració financera."
 tema: temes/economia/turisme-i-neu/estacions
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-naturland
-timestamp: 2026-09-19T00:00:00Z
+timestamp: 2026-09-18T00:00:00Z
 tags: [economia, turisme, comuns, finances-publiques]
 ---
 
@@ -65,7 +65,7 @@ societat es considera en causa de dissolució** —**Camprabassa hi és des del
 
 **La pandèmia hi va afegir una caiguda del 35% de visitants l'estiu del 2020.**
 
-## El desenllaç: tancament ordenat el 2025
+## El desenllaç: una proposta de tancament que no consta executada
 
 **La Viquipèdia en català ho tanca amb la data més recent que el corpus té**:
 **el març del 2025 es planteja el tancament ordenat de Naturland**, per
@@ -76,6 +76,16 @@ d'inversions i la mala relació de l'equip directiu amb els cònsols».**
 dona de Sabadell va sortir projectada del Tobotronc i va resultar ferida molt
 greu.**
 
+La data de tancament ordenat del març del 2025 que dona la Viquipèdia no es
+pot donar per executada. El [Comú va anunciar l'obertura de la temporada
+d'hivern 2025-2026](https://comusantjulia.ad/ca/actualitat/noticies/naturland-estrena-la-temporada-d-hivern-2025-2026-amb-noves-experiencies-i-una-nova-entrada-mes-completa/),
+amb inici el 29 de novembre del 2025 i final previst el 12 d'abril del 2026;
+després va descriure activitats obertes fins al 12 d'abril i una [temporada
+d'estiu 2026](https://comusantjulia.ad/ca/actualitat/noticies/naturland-presenta-una-temporada-d-estiu-marcada-per-l-estrena-de-l-eclipsi-nova-entrada-i-nova-campanya/)
+amb obertura diària a partir del 27 de juny. El 7 de setembre encara anunciava
+obertures de tardor fins al 12 d'octubre. Això prova continuïtat d'activitat,
+però no diu què va passar amb cada animal o amb cada treballador.
+
 > **Divuit anys després de néixer per salvar una estació de fons, el parc que
 > l'havia de salvar necessita que el salvin a ell.**
 
@@ -83,17 +93,35 @@ greu.**
 
 - ~~**Naturland, a Sant Julià de Lòria, que la font esmenta i el corpus no ha
   mirat.**~~ — **`resolt` el 18-09-2026.** Vegeu [les estacions](./README.md).
-- **Si el tancament del març del 2025 es va arribar a executar**, i **què se'n
-  va fer, dels animals i del personal.** `El pla director del 2021 preveia
-  traslladar els herbívors i els depredadors fora d'Andorra; la data de
-  sortida no s'havia anunciat encara aleshores.` `pregunta_oberta`
-- **L'informe del Tribunal de Comptes del 2022** que qüestiona
-  l'autosuficiència de Naturland, sencer. `font_externa`
-- **Els comptes del 2021 a avui**, per veure si el pla de reestructuració es va
-  aplicar i si el deute es va convertir en accions. `serie_estadistica`
+- ~~**Si el tancament del març del 2025 es va arribar a executar**, i **què se'n
+  va fer, dels animals i del personal.**~~ — **`parcial` el 18-09-2026**: les
+  notícies oficials anteriors acrediten que no es va executar un tancament
+  total, com a mínim fins a la tardor del 2026. **No s'ha trobat encara el
+  destí individual dels animals ni la situació del personal.** El pla director
+  del 2021 preveia traslladar els herbívors i els depredadors fora d'Andorra;
+  la data de sortida no s'havia anunciat aleshores.
+- ~~**L'informe del Tribunal de Comptes del 2022** que qüestiona
+  l'autosuficiència de Naturland, sencer.~~ — **`resolt` el 18-09-2026**: llegit
+  l'[Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022](https://tribunaldecomptes.ad/fr/section-telechargement?id=800),
+  incloses les pàgines 31, 56 i 78. El Tribunal registra resultats negatius de
+  Camprabassa, un fons de maniobra de **−2 M€** el 2022 (−9 M€ el 2021),
+  recursos d'explotació insuficients per a les obligacions vençudes i una
+  viabilitat condicionada al pla de negoci i al suport del Comú. També hi
+  consten el préstec comunal disposat de **5.539.752 €** i avals per
+  **6.830.957 €**.
+- ~~**Els comptes del 2021 a avui**, per veure si el pla de reestructuració es va
+  aplicar i si el deute es va convertir en accions.~~ — **`parcial` el
+  18-09-2026**: per al 2022, el [butlletí del Comú](https://comusantjulia.ad/media/documentacio/EL-COMU-AMB-TU-N14.pdf)
+  dona una facturació de **4.837.000 €**, una aportació comunal reduïda de
+  **600.000 € a 500.000 €**, un EBITDA de **303.000 €** i un primer retorn de
+  deute de **91.000 €** previst per al 2023; per al 2025, el [Comú publica
+  4,8 M€ d'ingressos d'explotació, 5,1 M€ de despeses, EBITDA de 579.000 €,
+  pèrdues de 817.000 € i una petició de capitalització de 6 M€ de deute](https://comusantjulia.ad/ca/actualitat/noticies/camprabassa-tanca-el-2025-amb-uns-ingressos-d-explotacio-de-4-8-milions-d-euros/).
+  **La sèrie completa 2023-2024 i l'execució final d'aquesta capitalització
+  encara no consten verificades.**
 
 ## Related
 
 - [Les estacions d'esquí](./README.md)
 - [Vallnord](./vallnord.md)
-- [Trenta-dos anys de pressupost](../../institucions/govern/trenta-dos-anys-de-pressupost.md)
+- [Trenta-dos anys de pressupost](../../../institucions/govern/trenta-dos-anys-de-pressupost.md)

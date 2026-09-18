@@ -1,0 +1,2739 @@
+    TRIBUNAL DE COMPTES D’ANDORRA
+
+
+     Informe relatiu als treballs de fiscalització
+corresponents al tancament de l’exercici 2022, del
+        COMÚ DE SANT JULIÀ DE LÒRIA
+
+
+
+
+                                                     Abril de 2025
+El Ple del Tribunal de Comptes, en l’exercici de la funció fiscalitzadora requerida per
+l’article 2 del Decret legislatiu del 27-9-2017 de publicació del text refós de la Llei del
+Tribunal de Comptes, del 13 d’abril del 2000, i les seves modificacions posteriors, ha
+aprovat, en la sessió celebrada el 24 d’abril de 2025, l’informe relatiu als treballs de
+fiscalització corresponents al tancament de l’exercici 2022, del Comú de Sant Julià de
+Lòria.
+
+Els treballs de fiscalització s’han dut a terme amb sotmetiment a les lleis i als valors
+ètics fonamentals d’integritat, independència i objectivitat, competència,
+comportament professional i confidencialitat i transparència que regeixen
+l’organització i l’activitat del Tribunal de Comptes.
+
+L’informe, havent acomplert amb els tràmits que requereix l’article 10 de la Llei del
+Tribunal de Comptes, serà tramès al Consell General per a la seva consideració.
+ÍNDEX
+ 1. INTRODUCCIÓ .....................................................................................................6
+   1.1. Objecte i abast ................................................................................................6
+   1.2. Metodologia ....................................................................................................6
+   1.3. Marc jurídic .....................................................................................................8
+   1.4. Organització i control intern ............................................................................9
+   1.5. Limitacions a l'abast ......................................................................................10
+ 2. FISCALITZACIÓ REALITZADA ..............................................................................11
+   2.1. Pressupost de l’exercici ................................................................................11
+       2.1.1. Pressupost inicial..................................................................................11
+       2.1.2. Modificacions pressupostàries .............................................................11
+   2.2. Liquidació del pressupost..............................................................................13
+       2.2.1. Impostos directes .................................................................................15
+       2.2.2. Impostos indirectes...............................................................................15
+       2.2.3. Taxes i altres ingressos ........................................................................16
+       2.2.4. Transferències corrents d’ingressos .....................................................16
+       2.2.5. Ingressos patrimonials ..........................................................................17
+       2.2.6. Transferències de capital d’ingressos ..................................................17
+       2.2.7. Despeses de personal ..........................................................................17
+       2.2.8. Consum de béns corrents i serveis ......................................................19
+       2.2.9. Transferències corrents de despeses...................................................20
+       2.2.10. Inversions reals ................................................................................21
+       2.2.11. Actius financers de despeses ...........................................................22
+   2.3. Estats financers ............................................................................................23
+       2.3.1. Efectiu i equivalents a l’efectiu..............................................................27
+       2.3.2. Actius financers corrents ......................................................................28
+       2.3.3. Comptes a cobrar, vendes i ingressos .................................................29
+       2.3.4. Pagaments anticipats ...........................................................................30
+       2.3.5. Actius financers no corrents .................................................................31
+       2.3.6. Propietats d’inversió .............................................................................33
+       2.3.7. Propietat, planta i equipament ..............................................................33
+       2.3.8. Actius intangibles..................................................................................34
+       2.3.9. Comptes a pagar ..................................................................................35
+       2.3.10. Passius financers (Passius corrents) ................................................36
+       2.3.11. Provisions a curt termini ...................................................................36
+       2.3.12. Endeutament i passius financers (Passius no corrents) ...................37
+       2.3.13. Actius nets/patrimoni ........................................................................41
+       2.3.14. Altres ingressos ................................................................................41
+   2.4. Estat del romanent de tresoreria ...................................................................42
+   2.5. Contractació pública .....................................................................................44
+   2.6. Sostenibilitat de les finances públiques i estabilitat pressupostària i fiscal ...45
+   2.7. Altres aspectes a destacar ............................................................................46
+   2.8. Evolució de les magnituds i ratis principals ...................................................48
+ 3. OBSERVACIONS I RECOMANACIONS ..................................................................56
+ 4. OBSERVACIONS I RECOMANACIONS D’ANYS ANTERIORS ..................................56
+ 5. CONCLUSIONS ..................................................................................................58
+ 6. ESTATS CONSOLIDATS DEL COMÚ DE SANT JULIÀ DE LÒRIA I ENTITATS
+    DEPENDENTS ....................................................................................................59
+ 7. ENTITATS PÚBLIQUES COMUNALS ......................................................................71
+   7.1. Escola Bressol Laurèdia, SAU ......................................................................71
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                    3
+   7.2. Societat Explotadora del Camp de Neu de la Rabassa, SA
+        (CAMPRABASSA, SA)..................................................................................78
+   7.3. Societat d’Activitats Socials, Esportives, Culturals i Turístiques de Sant Julià
+        de Lòria, SAU (SASECTUR, SAU) ...............................................................89
+ 8. AL·LEGACIONS .................................................................................................96
+ 9. OBSERVACIONS COMPLEMENTÀRIES ........................................................103
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                             4
+Abreviacions
+
+BOPA:      Butlletí Oficial del Principat d’Andorra
+DLTCLQTC:  Decret Legislatiu de publicació del text consolidat de la Llei qualificada
+           de transferències als comuns
+DLTRLGFP:  Decret Legislatiu de publicació del text refós de la Llei general de les
+           finances públiques
+DLTRLGOTU: Decret Legislatiu de publicació del text refós de la Llei general
+           d’ordenació del territori i urbanisme
+DLTRLSEPF: Decret Legislatiu de publicació del text refós de la Llei de sostenibilitat
+           de les finances públiques i d’estabilitat pressupostària i fiscal
+LCP:       Llei de contractació pública
+LFC:       Llei de les finances comunals
+LFP:       Llei de la funció pública
+LQDCC:     Llei qualificada de delimitació de competències dels comuns
+NICSP:     Normes internacionals de comptabilitat del sector públic
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                5
+1. INTRODUCCIÓ
+
+1.1. Objecte i abast
+
+D'acord amb l'art. 8 de la Llei del Tribunal de Comptes, de 13 d’abril de 2000,
+correspon a aquest Òrgan la fiscalització externa de la gestió econòmica, financera i
+comptable dels comuns i els òrgans que en depenen, en aquest cas del Comú de Sant
+Julià de Lòria (en endavant el Comú).
+
+La fiscalització del Comú forma part dels treballs de fiscalització per a l'exercici 2022,
+d'acord amb les competències que té atribuïdes aquest Tribunal.
+
+Aquesta actuació suposa la realització d'una auditoria de regularitat (financera i de
+compliment) de l'activitat economicofinancera de l'esmentada entitat, desenvolupada
+en l'exercici 2022.
+
+La liquidació de comptes del Comú de Sant Julià de Lòria corresponent a l’exercici
+2022 objecte d’aquesta fiscalització va ser lliurada al Tribunal de Comptes en data 21
+d’agost de 2023, i consta, entre altres, de la documentació següent: gestió comptable
+d’ingressos i despeses (liquidació del pressupost), gestió comptable de la tresoreria,
+gestió comptable del patrimoni, gestió comptable de l’endeutament, estat de situació
+financera, estat del rendiment financer, estat de canvis en els actius nets/patrimoni i
+estat de fluxos d’efectiu. D’acord amb el Decret d’aprovació del Reglament relatiu a
+l’adopció de les NICSP, s’inclou també segons el model d’estats financers: el resultat
+pressupostari, la conciliació entre el resultat pressupostari i el resultat comptable,
+modificacions pressupostàries, el romanent de tresoreria, la memòria pressupostària i
+notes en les quals s’inclou un resum de les polítiques comptables significatives i altres
+notes explicatives.
+
+En data 21 d’agost de 2023, el Comú va lliurar al Tribunal de Comptes, els comptes
+anuals tancats a 31 de desembre de 2022, junt amb un informe d’auditoria, de les
+societats públiques comunals SOCIETAT D’ACTIVITATS SOCIALS, ESPORTIVES I
+CULTURALS DE SANT JULIÀ DE LÒRIA, SAU (SASECTUR, SAU), SOCIETAT
+EXPLOTADORA DEL CAMP DE NEU DE LA RABASSA, SA (CAMPRABASSA, SA) i
+ESCOLA BRESSOL LAURÈDIA, SAU.
+
+En data 3 de juny de 2024, el Comú va lliurar els estats pressupostaris i financers
+consolidats a 31 de desembre de 2022.
+
+1.2. Metodologia
+
+El treball s'ha realitzat d'acord amb els Principis i Normes d'Auditoria del Sector Públic,
+i al Codi d’Ètica del Tribunal de Comptes, que ha consistit en la realització d'aquelles
+proves selectives i revisions de procediments que s'han considerat necessàries en
+cada cas per a l'examen de les diferents àrees.
+
+L'actuació portada a terme ha estat una auditoria de regularitat, que inclou una
+auditoria de legalitat o compliment i una auditoria financera, amb els següents
+objectius:
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    6
+       - Comprovar si l'activitat economicofinancera del Comú s'ha desenvolupat
+         deconformitat amb les normes, disposicions i directrius que li són d'aplicació.
+       - Verificar si els comptes anuals i altres estats financers del Comú expressen la
+         imatge fidel del patrimoni, de la situació financera, del rendiment financer i de
+         l'execució del pressupost, i que la informació economicofinancera es presenti
+         d'acord als principis comptables que li són d'aplicació.
+
+No obstant això, en la mesura que s'han detectat en la fiscalització, en l'informe es
+posen de manifest incidències i conclusions que tenen a veure amb la gestió, és a dir,
+que indiquen si la gestió economicofinancera s'ha portat a terme amb criteris
+d'eficàcia, eficiència i economia.
+
+Han estat objecte de la present fiscalització els fets generats pel Comú en l'exercici
+2022 encara que, quan ha calgut per tenir incidència en l'exercici fiscalitzat, també ho
+han estat els d'exercicis anteriors i posteriors, abordant tant els aspectes comptables
+i pressupostaris com els patrimonials, així com els d'organització i control intern
+existents. Al mateix temps, també s'ha verificat si es compleix amb la legalitat vigent
+en la gestió dels recursos públics.
+
+No s'han portat a terme procediments específics, tendents a localitzar fets posteriors
+que poguessin afectar a l'exercici fiscalitzat. No obstant això, en aquells casos en els
+quals s'ha comptat amb evidència d'algun tipus, originada amb posterioritat a la data
+de tancament dels exercicis, se n'ha fet referència en l'informe.
+
+En el cas de les entitats públiques comunals, els treballs consisteixen en la realització
+d’una auditoria complementària a les auditories financeres rebudes pel Tribunal, amb
+la finalitat de verificar si els procediments utilitzats en aquestes han estat els adequats,
+contrastar les conclusions obtingudes i, si ha escaigut, fer les verificacions i controls
+necessaris per complementar-les.
+
+En la realització de la fiscalització s’han utilitzat a efectes de còmput de l’endeutament
+els comptes anuals, juntament amb els corresponents informes d’auditoria, de les
+entitats següents:
+
+       - ESCOLA BRESSOL LAURÈDIA, SAU a 31 de desembre de 2022 (participada
+         directament en un 100%).
+       - SOCIETAT EXPLOTADORA DEL CAMP DE NEU DE LA RABASSA, SA
+         (CAMPRABASSA, SA) a 31 de desembre de 2022 (participada directament
+         en un 90,73%).
+       - SOCIETAT D’ACTIVITATS SOCIALS, ESPORTIVES, CULTURALS I
+         TURÍSTIQUES DE SANT JULIÀ DE LÒRIA, SAU (SASECTUR, SAU) a 31 de
+         desembre de 2022 (participada directament en un 100%).
+       - MÚTUA ELÉCTRICA DE SANT JULIÀ DE LÒRIA a 31 de desembre de 2022
+         (participada directament en un 8,51%).
+
+La informació relativa a la darrera, sobre la qual no corresponia la fiscalització
+complementària per part del Tribunal, ha estat analitzada exclusivament per tal de
+computar els efectes que se’n deriven en el càlcul de l’endeutament del Comú.
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                     7
+El treball de camp a les dependències del Comú fiscalitzat va concloure el 20 de
+desembre de 2023.
+
+1.3. Marc jurídic
+
+La legislació que regula l'activitat economicofinancera, pressupostària i comptable del
+Comú en el període fiscalitzat es conté, fonamentalment, en les següents disposicions:
+
+       - Llei qualificada de delimitació de competències dels comuns, de 4 de
+         novembre de 1993 i les seves modificacions posteriors.
+       - Llei de contractació pública, de 9 de novembre de 2000 i les seves
+         modificacions posteriors (vigència fins al 31-08-2022).
+       - Ordinació del 24-11-2011 d'organització i funcionament dels comuns, i les
+         seves modificacions posteriors.
+       - Decret del 22-12-2016 d’aprovació del Reglament relatiu a l’adopció de les
+         Normes internacionals de comptabilitat del sector públic amb el caràcter de
+         Pla marc per al sector públic estatal del Principat d’Andorra.
+       - Decret legislatiu del 27-9-2017 de publicació del text refós de la Llei del
+         Tribunal de Comptes, del 13 d'abril del 2000, i les seves modificacions
+         posteriors.
+       - Llei 32/2017, del 20 de desembre, de col·laboració entre l’Administració
+         general i els comuns, i entre els comuns i les seves modificacions posteriors.
+       - Decret legislatiu del 7-02-2018 de publicació del text refós de la Llei 21/2014,
+         del 16 d’octubre, de bases de l’ordenament tributari (Correcció d’errata del 21-
+         02-2018.
+       - Llei 1/2019, del 17 de gener, de la funció pública i les seves modificacions
+         posteriors.
+       - Decret legislatiu del 19-06-2019 de publicació del text refós de la Llei general
+         d’ordenació del territori i urbanisme i les seves modificacions posteriors.
+       - Decret legislatiu del 3-7-2019, de publicació del text refós del Codi de
+         l’Administració, del 29 de març de 1989 i les seves modificacions posteriors.
+       - Decret legislatiu del 18-9-2019 de publicació del text consolidat de la Llei
+         18/2017, del 20 d’octubre, qualificada de transferències als comuns.
+       - Decret legislatiu del 20-11-2019 de publicació del text refós de la Llei general
+         de les finances públiques, del 19 de desembre de 1996, i les seves
+         modificacions posteriors.
+       - Decret legislatiu del 20-11-2019 de publicació del text refós de la Llei 32/2014,
+         del 27 de novembre, de sostenibilitat de les finances públiques i d’estabilitat
+         pressupostària i fiscal.
+       - Ordinació del 22-07-2020 de la funció pública del Comú de Sant Julià de Lòria
+         i les seves modificacions posteriors.
+       - Llei 36/2021, del 16 de desembre, de les finances comunals.
+       - Llei 4/2022, del 31 de gener, del pressupost per a l’exercici del 2022.
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    8
+       - Llei 14/2022, del 12 de maig, de contractació pública (vigència a partir de l’1-
+         09-2022).
+       - Ordinació del 31-05-2022 del pressupost per a l’exercici 2022.
+       - Ordinació del 31-05-2022 de preus públics del Comú de Sant Julià de Lòria
+         per a l’exercici 2022, i les seves posteriors modificacions.
+       - Ordinació del 31-05-2022 tributària del Comú de Sant Julià de Lòria per a
+         l'exercici 2022.
+
+1.4. Organització i control intern
+
+El control intern és un procés integral de l’organització, responsabilitat dels òrgans de
+govern i direcció de l’entitat, dissenyat per afrontar els riscos i per aportar una
+seguretat raonable que en la consecució de la missió de l’ens s’assoleixen els
+objectius de:
+
+       - Execució ordenada, ètica, econòmica, eficient i efectiva de les operacions.
+       - Compliment de les obligacions de responsabilitat.
+       - Compliment de les lleis i regulació aplicable.
+       - Salvaguarda dels recursos per evitar pèrdues, mal ús o danys.
+
+En els treballs de fiscalització s’han estudiat i avaluat aquells procediments del control
+intern que hem considerat necessaris atenent l’abast i la naturalesa del treball, sense
+que l’esmentat estudi hagi pretès identificar necessàriament totes les debilitats que
+puguin existir, motiu pel qual no expressem una opinió sobre el sistema de control
+intern de l’entitat. No obstant això, en el transcurs de l’informe es detallen aquelles
+observacions i recomanacions que han de possibilitar la millora dels procediments de
+control intern de l’entitat.
+
+L’organització i control intern s’estructura de la forma següent:
+
+L’estructura organitzativa de l’ens disposa de diversos nivells jeràrquics, amb funcions
+i línies d’autoritat clarament definides. Cada departament depèn d’una de les
+conselleries que estan encapçalades per un conseller de Comú. A més, depenent
+directament dels Òrgans de Govern (cònsols i consellers), també hi trobem la figura
+d’intervenció i la de secretaria general.
+
+La gestió economicofinancera de l’ens recau en el departament de comptabilitat en
+dependència directa de la conselleria de finances i administració.
+
+Intervenció fa la funció de fiscalització i és la titular del control de legalitat i d’oportunitat
+econòmica i financera de l’ens.
+
+El Comú utilitza una aplicació de gestió pressupostària i comptable pel registre de les
+operacions econòmiques. A banda d’aquesta, també s’utilitzen aplicacions
+informàtiques de gestió auxiliars, la majoria d’elles interconnectades a l’aplicació de
+gestió pressupostària i comptable.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                           9
+El Comú no disposa de forma generalitzada de manuals de procediments comptables.
+Tanmateix, es duen a terme controls periòdics des del departament de comptabilitat.
+Periòdicament, el conseller de finances juntament amb la intervenció, realitzen un
+seguiment pressupostari que consisteix en una revisió de l’estat d’execució per,
+eventualment, prendre mesures correctores.
+
+1.5. Limitacions a l'abast
+
+En el desenvolupament del treball s'han posat de manifest la següent limitació:
+
+       - A la data del nostre informe, un dels advocats circularitzats no ha respost a la
+         nostra sol·licitud d’informació, pel que desconeixem l’existència de possibles
+         litigis no aprovisionats.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                  10
+2. FISCALITZACIÓ REALITZADA
+
+2.1. Pressupost de l’exercici
+2.1.1. Pressupost inicial
+
+El pressupost inicial de l’exercici presenta les següents xifres a nivell de capítols:
+
+             CAPÍTOL                                     IMPORT           CAPÍTOL                 IMPORT
+ DESPESES                                                       INGRESSOS
+ 1 Despeses de personal                            5.236.180,72 1 Impostos directes              2.922.500,00
+ 2 Consum de béns corrents i serveis               4.843.607,79 2 Impostos indirectes              300.000,00
+ 3 Despeses financeres                                90.415,54 3 Taxes i altres ingressos       3.698.451,00
+ 4 Transferències corrents                           835.835,86 4 Transferències corrents        6.164.790,23
+                                                                5 Ingressos patrimonials            65.690,00
+   Despeses corrents                              11.006.039,91   Ingressos corrents            13.151.431,23
+ 6 Inversions reals                                4.143.393,45
+ 7 Transferències de capital                            -       7 Transferències de capital      2.525.197,56
+ 8 Actius financers                                1.405.685,37 8 Actius financers                    -
+ 9 Passius financers                                 810.921,66 9 Passius financers              1.689.411,60
+   Despeses de capital                             6.360.000,48   Ingressos de capital           4.214.609,16
+ Total pressupost despeses                        17.366.040,39 Total pressupost ingressos      17.366.040,39
+ Superàvit                                              -       Dèficit                               -
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+2.1.2. Modificacions pressupostàries
+
+Els quadres següents resumeixen l’import de les modificacions pressupostàries que
+s’han tramitat durant l’exercici que han donat lloc a les previsions definitives que s’han
+liquidat:
+
+Estat d’ingressos del pressupost
+
+                                                          Pressupost                        Pressupost
+           CAPÍTOL                                           Inicial       Modificacions        final
+ 1 Impostos directes                                          2.922.500,00        -           2.922.500,00
+ 2 Impostos indirectes                                          300.000,00        -             300.000,00
+ 3 Taxes i altres ingressos                                   3.698.451,00         3.150,42   3.701.601,42
+ 4 Transferències corrents                                    6.164.790,23        -           6.164.790,23
+ 5 Ingressos patrimonials                                        65.690,00        -               65.690,00
+   Ingressos corrents                                       13.151.431,23          3.150,42 13.154.581,65
+ 7 Transferències de capital                                  2.525.197,56       130.000,00   2.655.197,56
+ 8 Actius financers                                               -           1.882.929,71     1.882.929,71
+ 9 Passiu financers                                           1.689.411,60        -           1.689.411,60
+   Ingressos per operacions financeres                        4.214.609,16    2.012.929,71    6.227.538,87
+Total pressupost ingressos                                  17.366.040,39     2.016.080,13 19.382.120,52
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                     11
+Estat de despeses del pressupost
+                                                                                                                                            Transferències de
+                                     Pressupost        Crèdits        Crèdits      Crèdits   Avenç de             Crèdit      Supl. de            crèdit          Pressupost
+           CAPÍTOL                     Inicial       reconduïts    traspassats    ampliables   Fons     Baixes   extraord.     crèdit                                final
+                                                                                                                                           Augment Disminució
+ DESPESES
+ 1 Despeses personal                  5.236.180,72     10.209,61    -101.438,71   122.118,61    -         -          -            -        1.089,50     -          5.268.159,73
+ 2 Consums de béns                    4.843.607,79    281.751,75    -221.313,82       -         -         -       19.811,28   235.156,19   4.091,28     -          5.163.104,47
+ corrents i serveis
+ 3 Despeses financeres                   90.415,54        -            -3.058,63     -          -         -          -            -           -          -            87.356,91
+ 4 Transferències corrents              835.835,86      59.055,70     -49.886,45     -          -         -          -            -           -       -5.180,78      839.824,33
+ Despeses corrents                   11.006.039,91     351.017,06   -375.697,61 122.118,61      -         -       19.811,28 235.156,19     5.180,78   -5.180,78   11.358.445,44
+ 6 Inversions reals                   4.143.393,45   1.531.912,65 -1.455.724,14 130.000,00      -         -      599.306,60 824.520,86        -          -         5.773.409,42
+ 7 Transferències de capital              -               -              -           -          -         -       30.000,00       -           -          -            30.000,00
+ 8 Actius Financers                   1.405.685,37        -              -           -          -         -          600,00       -           -          -         1.406.285,37
+ 9 Passius financers                    810.921,66        -              -        3.058,63      -         -          -            -           -          -           813.980,29
+ Despeses de capital                  6.360.000,48   1.531.912,65 -1.455.724,14 133.058,63      -         -      629.906,60 824.520,86        -          -         8.023.675,08
+ Total pressupost                    17.366.040,39   1.882.929,71 -1.831.421,75 255.177,24      -         -      649.717,88 1.059.677,05   5.180,78   -5.180,78   19.382.120,52
+ despeses
+Font: Elaboració pròpia a partir d’informació del
+Comú(Imports en euros)
+
+
+De la revisió efectuada s'ha posat de manifest la següent incidència:
+
+Finançament de les modificacions de crèdit
+
+El Comú incorpora al pressupost de l’exercici consignacions pressupostàries d’exercicis anteriors corresponents a crèdits per a
+finançar compromisos de despesa reconduïts, que ascendeixen a un import de 1.882.930 euros, sense disposar d’un finançament
+específic la qual cosa ha provocat un dèficit de finançament a les previsions pressupostàries pel referit import, fet que és contrari al
+principi d’estabilitat pressupostària que regula l’article 5 del DLTRLSEPF i l’article 77.4 de la LFC.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                             12
+2.2. Liquidació del pressupost
+
+El resum dels imports retuts pel Comú es recullen en els quadres següents:
+
+Resum de la liquidació del pressupost d’ingressos
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022        13
+Resum de la liquidació del pressupost de despeses
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   14
+2.2.1. Impostos directes
+
+El resum dels impostos directes figura en el quadre següent:
+
+                                                                    (1)              (2)                           %
+       IMPOSTOS DIRECTES               PRESSUPOST MODIF.      PRESSUPOST          LIQUIDAT      VARIACIÓ      EXECUCIÓ
+                                        INICIAL 2022           FINAL 2022           2022        (3)=(2)-(1)     (2)/(1)
+  10   Foc i lloc                            277.000,00   -       277.000,00       290.819,04    13.819,04      104,99%
+ 100   Foc i lloc                            277.000,00   -       277.000,00       290.819,04    13.819,04      104,99%
+  11   Propietat de pis                    1.085.000,00   -     1.085.000,00     1.237.903,03   152.903,03      114,09%
+ 112   Propietat Immobiliària                465.000,00   -       465.000,00       494.524,14    29.524,14      106,35%
+ 115   Rendiments arrendataris               620.000,00   -       620.000,00       743.378,89   123.378,89      119,90%
+  12   Impost sobre la construcció           468.500,00   -       468.500,00       502.746,42    34.246,42      107,31%
+ 120   Impost sobre la construcció           468.500,00   -       468.500,00       502.746,42    34.246,42      107,31%
+  13   Impostos directes sobre             1.092.000,00   -     1.092.000,00     1.044.414,73   -47.585,27        95,64%
+       activitats econòmiques
+  130 Impostos sobre la radicació          1.092.000,00   -       1.092.000,00   1.044.414,73   -47.585,27        95,64%
+       d'activitats
+    1 Impostos directes                    2.922.500,00   -       2.922.500,00   3.075.883,22   153.383,22        105,25%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+2.2.2. Impostos indirectes
+
+La liquidació del pressupost dels impostos indirectes es resumeix en el quadre adjunt:
+
+                                                                          (1)            (2)                           %
+         IMPOSTOS INDIRECTES                 PRESSUPOST MODIF.       PRESSUPOST       LIQUIDAT      VARIACIÓ       EXECUCIÓ
+                                              INICIAL 2022            FINAL 2022        2022        (3)=(2)-(1)      (2)/(1)
+
+  20 Sobre transmissions patrimonials            300.000,00   -          300.000,00    665.345,49    365.345,59      221,78%
+ 200 Impost transmissions patrimonials           300.000,00   -          300.000,00    665.345,49    365.345,59      221,78%
+   2 Impostos indirectes                         300.000,00   -          300.000,00    665.345,49    365.345,59      221,78%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                  15
+2.2.3. Taxes i altres ingressos
+
+El resum dels imports retuts en el període fiscalitzat és:
+
+                                                                             (1)            (2)                         %
+   TAXES I ALTRES INGRESSOS              PRESSUPOST                     PRESSUPOST       LIQUIDAT       VARIACIÓ    EXECUCIÓ
+                                          INICIAL 2022       MODIF.                                     (3)=(2)-(1)
+                                                                         FINAL 2022        2022                       (2)/(1)
+  31 Taxes                                    699.380,00        -           699.380,00    879.658,94     180.278,94   125,78%
+ 310 Serveis generals                         699.380,00        -           699.380,00    879.658,94     180.278,94      125,78%
+  34 Preus públics per prestació            1.574.510,00     3.150,42     1.577.660,42   1.873.685,72    296.025,30      118,76%
+     de serveis
+ 340 Preus públics per prestació de         1.574.510,00     3.150,42     1.577.660,42   1.873.685,72    296.025,30      118,76%
+     serveis
+  35 Preus públics utilització                182.161,00        -           182.161,00    199.595,75      17.434,75      109,57%
+     privativa, aprov. dom. pub.
+     loc.
+ 350 Serveis de caràcter general               48.661,00        -            48.661,00     39.943,24       -8.717,76      82,08%
+ 352 Que beneficien o afecten la              133.500,00        -           133.500,00    159.652,51      26.152,51      119,59%
+     prop. immobiliària.
+  37 Espai públic comunal                      12.000,00        -            12.000,00     16.580,68        4.580,68     138,17%
+ 371 Ocupació espai públic comunal             12.000,00        -            12.000,00     16.580,68        4.580,68     138,17%
+
+  38 Subvencions                                 -              -             -            15.592,06      15.592,06          -
+
+ 380 Reintegrament subvencions                   -              -             -            15.592,06      15.592,06          -
+  39 Altres ingressos                       1.230.400,00        -         1.230.400,00   1.923.286,51    692.886,51      156,31%
+ 390 Cànon Camprabassa SA                     358.800,00        -           358.800,00    443.238,07      84.438,07      123,53%
+ 391 Sancions                                  45.100,00        -            45.100,00     90.706,71      45.606,71      201,12%
+ 392 Recàrrecs                                 12.000,00        -            12.000,00     51.695,89      39.695,89      430,80%
+ 399 Recuperació resp. Civil                     1.500,00       -             1.500,00     17.764,94      16.264,94     1184,33%
+ 399 Recuperació material                     200.000,00        -           200.000,00        -          -200.000,00         -
+ 399 Cessió 10% terreny POUP                  608.000,00        -           608.000,00   1.319.880,90    711.880,90      217,09%
+ 399 Cadastre                                    5.000,00       -             5.000,00        -            -5.000,00         -
+   3 Taxes i altres ingressos               3.698.451,00     3.150,42     3.701.601,42   4.908.399,66   1.206.798,24     132,60%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+2.2.4. Transferències corrents d’ingressos
+
+El resum de les operacions que s’han registrat en el transcurs de l’exercici és el
+següent:
+
+                                                                              (1)           (2)                            %
+   TRANSFERÈNCIES CORRENTS                PRESSUPOST         MODIF.      PRESSUPOST     LIQUIDAT        VARIACIÓ       EXECUCIÓ
+                                           INICIAL 2022                   FINAL 2022       2022         (3)=(2)-(1)      (2)/(1)
+    420 Molt il·lustre Govern                6.164.790,23           -     6.164.790,23 6.727.411,64      562.621,41      109,13%
+         d'Andorra
+ 42000 Transferències corrents                5.864.790,23          -      5.864.790,23 6.433.358,11    568.567,88       109,69%
+  42010 Tinença vehicles                        300.000,00          -        300.000,00   294.053,53     -5.946,47         98,02%
+      4 Transferències corrents               6.164.790,23          -      6.164.790,23 6.727.411,64    562.621,41        109,13%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                   16
+2.2.5. Ingressos patrimonials
+
+Al tancament de l’exercici, la liquidació del pressupost del capítol d’ingressos
+patrimonials, presentava el següent resum:
+
+                                                                            (1)               (2)                              %
+  INGRESSOS PATRIMONIALS               PRESSUPOST            MODIF.    PRESSUPOST          LIQUIDAT       VARIACIÓ         EXECUCIÓ
+                                        INICIAL 2022                    FINAL 2022           2022         (3)=(2)-(1)        (2)/(1)
+  50 Interessos de títols valors                    390,00     -                  390,00       390,00           -             100,00%
+ 506 SEMTEE                                         390,00     -                  390,00       390,00           -             100,00%
+  51 Int. Crèdit Participatiu                  -               -             -               9.700,00          9.700,00        -
+  514 Int. Crèdit Participatiu                  -              -              -              9.700,00           9.700,00       -
+
+  53 Dividends i participacions               20.300,00        -            20.300,00       20.735,84           435,84        102,15%
+     en beneficis
+ 534 CATSA, Mútua elèctrica                   20.300,00        -            20.300,00       20.735,84            435,84       102,15%
+  54 Rendes de béns immobles                  45.000,00        -            45.000,00       73.598,35         28.598,35       163,55%
+ 543 Arrendaments diversos                    45.000,00        -            45.000,00       73.598,35         28.598,35       163,55%
+   5 Ingressos patrimonials                   65.690,00        -            65.690,00      104.424,19         38.734,19       158,97%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+2.2.6. Transferències de capital d’ingressos
+
+Presenten el següent detall a 31 de desembre:
+
+                                                                         (1)            (2)                     %
+ TRANSFERÈNCIES DE CAPITAL               PRESSUPOST       MODIF.    PRESSUPOST      LIQUIDAT      VARIACIÓ EXECUCIÓ
+                                          INICIAL 2022               FINAL 2022        2022       (3)=(2)-(1) (2)/(1)
+   72 Transferències de capital             2.525.197,56 130.000,00   2.655.197,56 1.523.111,60 -1.132.085,96   57,36%
+  720 Transferències de capital             2.525.197,56 130.000,00   2.655.197,56 1.523.111,60 -1.132.085,96   57,36%
+    7 Transferències de capital             2.525.197,56 130.000,00   2.655.197,56 1.523.111,60 -1.132.085,96   57,36%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+El total liquidat de la transferència a favor del Comú amb càrrec al pressupost de
+l’Administració general en els termes establerts en el DLTCLQTC, ha estat, per
+l’exercici 2022, d’un total de 7.826.470 euros.
+
+2.2.7. Despeses de personal
+
+La liquidació del pressupost del present capítol es resumeix en el quadre adjunt:
+                                                                       (1)               (2)                             %
+                                   PRESSUPOST                                                       VARIACIÓ
+  DESPESES DE PERSONAL                                   MODIF.   PRESSUPOST          LIQUIDAT                       EXECUCIÓ
+                                    INICIAL 2022                   FINAL 2022           2022        (3)=(2)-(1)        (2)/(1)
+   10 Despeses de                      523.436,53        9.475,55    532.912,08       532.912,08          -            100,00%
+       gratificació
+  100 Despeses de gratificació            523.436,53    9.475,55        532.912,08   532.912,08           -               100,00%
+   11 Personal fix                      3.771.845,01 -17.727,40       3.754.117,61 3.590.496,18       -163.621,43          95,64%
+  110 Remun. bàsic. I rem.              3.771.845,01 -17.727,40       3.754.117,61 3.590.496,18       -163.621,43          95,64%
+       person. Fix
+   13 Eventuals i atenció                 206.173,62   25.950,74       232.124,36      207.413,27       -24.711,09         89,35%
+       ciutadana
+  130 Rem. bàsic. i rem. pers.            206.173,62   25.950,74       232.124,36      207.413,27       -24.711,09         89,35%
+       Eventuals
+   16 CASS, seguretat social              734.725,56   14.280,12       749.005,68      693.110,68       -55.895,00         92,54%
+  160 Quotes seguretat social             697.725,56    2.981,01       700.706,57      665.182,30       -35.524,27         94,93%
+  163 Despeses socials del                 37.000,00   11.299,11        48.299,11       27.928,38       -20.370,73         57,82%
+       personal
+    1 Despeses de personal              5.236.180,72   31.979,01      5.268.159,73 5.023.932,21       -244.227,52          95,36%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                          17
+De la revisió de l’àrea es posen de manifest les incidències següents:
+
+Enregistrament comptable de les fases de despesa
+
+Les nòmines del personal al servei del Comú es registren pressupostàriament
+acumulant en un sol acte les fases ACLOP. Aquesta pràctica provoca que el
+pressupost no s’utilitzi com l’eina de gestió que garanteix l’acompliment del principi
+d’especialitat quantitativa.
+
+Així, tot i que en l’Ordinació del pressupost de 2022, a l’article 10, s’estableix que
+aquest tipus de despeses s’inclouran en un sol acte administratiu, donat que a l’inici
+de l’exercici el Comú té compromeses les despeses de personal per aquelles persones
+les quals presten els seus serveis a l’entitat per a tot l’exercici o, en el seu cas, fins a
+l’extinció del contracte, cal comptabilitzar a l’obertura de l’exercici el corresponent
+compromís de la despesa. Igualment, al formalitzar un contracte amb un treballador,
+el Comú adquireix un compromís de despesa amb el mateix el qual
+pressupostàriament ha de ser objecte de registre.
+
+Manca d’aplicació del sistema de gestió de l’acompliment
+
+L’Ordinació de la funció pública del Comú, del 22 de juliol de 2020, preveu en el capítol
+V, en relació a l’avaluació de l’acompliment, entre d’altres, un sistema de compliment
+d’objectius i assoliment de resultats.
+
+No s’observa que el referit sistema s’hagi aplicat per part de l’entitat fiscalitzada.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    18
+2.2.8. Consum de béns corrents i serveis
+
+El resum de les operacions que s’han registrat en el transcurs de l’exercici és el
+següent:
+
+                                                                                (1)            (2)                            %
+  CONSUM DE BÉNS CORRENTS I               PRESSUPOST          MODIF.       PRESSUPOST       LIQUIDAT       VARIACIÓ       EXECUCIÓ
+          SERVEIS                          INICIAL 2022                     FINAL 2022        2022         (3)=(2)-(1)      (2)/(1)
+  20   Lloguers                               695.482,46     -25.102,58       670.379,88     626.521,14     -43.858,74         93,46%
+ 200   Lloguers terrenys                      312.828,10       3.792,62       316.620,72     314.079,03      -2.541,69         99,20%
+ 202   Lloguer edificis i altres const.       156.298,36       3.198,98       159.497,34     157.968,99      -1.528,35         99,04%
+ 203   Lloguer de maq. I Instal.                6.600,00      10.513,56        17.113,56      17.065,94         -47,62         99,72%
+       d'Equips
+ 204   Lloguer de material de transport           650,00         -                650,00          130,00       -520,00         20,00%
+       inf.
+ 205   Lloguer de mobiliari i efectes          134.106,00    -51.955,05        82.150,95      66.021,63      -16.129,32        80,37%
+ 209   Cànon SDADV.Cànon Comú                  85.000,00       9.347,31        94.347,31      71.255,55     -23.091,76         75,52%
+       Sant Julià de Lòria
+  21   Reparació, manteniment i               751.515,73      88.268,29       839.784,02     661.350,91    -178,433,11         78,75%
+       conservació
+ 210   Embelliment i conservació              124.150,00       7.560,00       131.710,00     114.998,16     -16.711,84         87,31%
+       boscos
+ 212   Conservació edificis                    57.300,00     -24.408,92        32.891,08      29.675,07      -3.216,01         90,22%
+ 213   Conservació maq., instal. i            408.440,58     109.394,43       517.835,01     392.585,89    -125.249,12         75,81%
+       equips
+ 214   Conservació vehicles                    75.385,00       2.877,57        78.262,57      59.390,44     -18.872,13         75,89%
+ 215   Reparació i cons. Mobiliari                200,00       1.600,00         1.800,00       1.710,70         -89,30         95,04%
+ 216   Conservació equips informàtics          26.386,00      -1.479,50        24.906,50      20.420,81      -4.485,69         81,99%
+ 217   Reparació i cons. Ús general            46.500,00          -40,00        46.460,00      38.186,67     -8.273,33         82,19%
+ 219   Reparació i cons. altre immob.          13.154,15      -7.235,29          5.918,86       4.383,17     -1.535,69         74,05%
+  22   Manteniment, submin. i altres        3.392.909,60     258.744,92      3.651.654,52   3.050.333,87   -601.320,65         83,53%
+ 220   Material administratiu                  34.522,00      -1.441,12         33.080,88      20.930,32    -12.150,56         63,27%
+ 221   Subministraments                       494.853,69       1.530,83        496.384,52     422.076,57    -74.307,95         85,03%
+ 222   Comunicacions                           53.480,00       -4.022,61        49.457,39      40.407,63     -9.049,76         81,70%
+ 223   Col·lectiu persones                    135.792,62      20.827,02        156.619,64     145.773,85    -10.845,79         93,08%
+ 224 Primes d'assegurances                     92.401,00      -1.653,61        90.747,39      73.732,34     -17.015,05         81,25%
+ 225 Tributs                                    7.000,00         -              7.000,00       5.553,40      -1.446,60         79,33%
+ 226 Altres serveis                           911.689,87      57.311,96       969.001,83     817.658,50    -151.343,33         84,38%
+  227 Treb. realitzats per altres             1.663.170,42   186.192,45      1.849.362,87   1.524.201,26   -325.161,61         82,42%
+       empreses
+   23 Indemnitzacions per serveis                 3.700,00    -2.413,95         1.286,05         274,83       -1.011,22        21,37%
+  230 Reemborsament de dietes i                   3.700,00    -2.413,95         1.286,05         274,83       -1.011,22        21,37%
+       desplaçaments
+    2 Consum en béns corrents i               4.843.607,79   319.496,68      5.163.104,47   4.338.480,75   -824.623,72         84,03%
+       serveis
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                     19
+El detall de les despeses en “Treballs realitzats per altres empreses” és:
+
+                                                                      (1)               (2)                             %
+   TREBALLS REALITZATS             PRESSUPOST           MODIF.   PRESSUPOST          LIQUIDAT          VARIACIÓ     EXECUCIÓ
+   PER ALTRES EMPRESES              INICIAL 2022                  FINAL 2022           2022            (3)=(2)-(1)    (2)/(1)
+ 22700 Treball realitzat per           685.439,65      75.381,52    760.825,17        700.507,42         -60.317,75     92,07%
+        emp. de neteja i
+        sanejament
+ 22710 Treb. Empreses de                 8.087,23          -             8.086,23         6.922,50       -1.163,73       85,61%
+        seguretat
+ 22730 Treballs realitzats per         237.883,34      -35.937,33      201.945,01       147.275,57      -54.669,44       72,93%
+        emp. de processament
+        de dades
+ 22740 Treb. Per empreses               59.740,00        -8.749,22      50.990,78        46.193,45       -4.797,33       90,59%
+        d'impressions
+ 22754 Recollida deixalleria i          60.000,00        -1.027,65      58.971,35        41.416,71      -17.554,64       70,23%
+        residus industrials
+ 22760 Treb. realitzats per            433.418,20 147.411,46           580.828,66       434.398,84     -146.429,82       74,79%
+        empreses d'estudis i
+        treballs tècnics
+ 22790 Altres treballs                 178.602,00        9.113,67      187.715,67       147.486,77      -40.228,90       78,57%
+   227 Treballs realitzats             1.663.170,42 186.192,45        1.849.362,87   1.524.201,26      -325.161,61       82,42%
+         per altres empreses
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+2.2.9. Transferències corrents de despeses
+
+El detall per conceptes d’aquest capítol pressupostari de despeses es presenta en el
+quadre següent:
+
+                                                                           (1)              (2)                          %
+        TRANSFERÈNCIES               PRESSUPOST           MODIF.      PRESSUPOST         LIQUIDAT       VARIACIÓ     EXECUCIÓ
+            CORRENTS                  INICIAL 2022                     FINAL 2022          2022         (3)=(2)-(1)    (2)/(1)
+  41   Transferències a entitats           37.000,00           -           37.000,00      35.962,20        -1.037,80     97,20%
+       públiques
+ 411   Transferències a entitats          37.000,00            -            37.000,00     35.962,20         -1.037,80     97,20%
+       públiques
+  44   A empreses públiques i             19.111,86            -            19.111,86     16.504,89        -2.606,97      86,36%
+       altres ens públics
+ 440   Ens públics                        19.111,86            -            19.111,86     16.504,89        -2.606,97      86,36%
+  46 A corporacions                      392.500,00       2.168,06         394.668,06    377.062,77       -17.605,29      95,94%
+ 462 Corporacions                         60.000,00       3.000,00          63.000,00     63.000,00          -           100,00%
+ 463 A entitats que agrupen              332.500,00       -831,94          331.668,06    314.062,77       -17.605,29      94,69%
+     comuns
+  47 Altres empreses privades               2.340,00           -             2.340,00       2.337,18             -2,82    99,88%
+ 472 Altres empreses                        2.340,00           -             2.340,00       2.337,18             -2,82    99,88%
+  48 A famílies i institucions           384.884,00       1.820,41         386.704,41    283.676,55      -103.027,86      73,36%
+     sense fins de lucre
+ 482 A entitats, subvencions,            384.884,00        1.820,41        386.704,41    283.676,55      -103.027,86      73,36%
+     reunions
+   4 Transferències corrents             835.835,86       3.988,47         839.824,33    715.543,59      -124.280,74      85,20%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                        20
+De la revisió de l’àrea es posen de manifest les incidències següents:
+
+Principi especialitat qualitativa
+
+El Comú suporta diferents despeses per compte de SASECTUR, SAU quan, atenent
+a la seva naturalesa, s’haurien de classificar com a major aportació comunal a la
+societat i, per tant, ser considerades com a transferències corrents.
+
+En concret, durant l’exercici 2022 s’ha enregistrat dins del Capítol II de consum de
+béns corrents i serveis despeses corresponents a la mateixa societat per import de
+58.494 euros.
+
+2.2.10.      Inversions reals
+
+El resum de les operacions pressupostàries de les inversions que s’han produït durant
+l’exercici fiscalitzat és el següent:
+
+                                                                           (1)           (2)                              %
+     INVERSIONS REALS              PRESSUPOST             MODIF.     PRESSUPOST LIQUIDAT                 VARIACIÓ     EXECUCIÓ
+                                    INICIAL 2022                      FINAL 2022        2022             (3)=(2)-(1)    (2)/(1)
+  60 Inversions noves                 2.604.665,65        356.085,11   2.960.750,76 1.157.520,54        -1.803.230,22     39,10%
+ 602 Construccions d'altres             360.000,00       -273.950,81      86.049,19    71.687,21           -14.361,98     83,31%
+      edificis
+ 603 Instal·lacions tècniques,           180.000,00       -47.825,62    132.174,38    110.547,74          -21.626,64     83,64%
+      maq., utillatge, cont.
+ 604 Vehicles                            4.500,00         56.476,75       60.976,75    60.016,75              -960,00    98,43%
+ 605 Mobiliari                          32.350,00         -5.065,54       27.284,46    26.637,82              -646,64    97,63%
+ 606 Equip. per a procés d'inf.          7.200,00         90.000,00       97.200,00     6.953,61           -90.246,39     7,15%
+ 607 Altres actuacions               1.718.515,65        255.268,01    1.973.783,66   735.677,08        -1.238.106,58    37,27%
+ 608 Altre immobilitzat                 97.100,00           -238,40       96.861,60    93.918,67            -2.942,93    96,96%
+      material
+ 609 Estudis i projectes                 205.000,00      281.420,72     486.420,72     52.081,66         -434.339,06     10,71%
+      inversió
+  61 Inversions de reposició          1.228.500,00    1.356.630,66     2.585.130,66 1.468.753,11        -1.116.377,55    56,82%
+ 612 Millora edificis i                  64.000,00      444.639,69       508.639,69       -               -508.639,69     -
+      aparcaments
+ 613 Reposició i millora                 143.000,00       29.540,55     172.540,55    130.422,55          -42.118,00     75,59%
+      material i equips
+ 615 Millora mobiliari                   122.500,00        5.009,36     127.509,36    127.483,88              -25,48      99,98%
+ 616 Equipaments per a                     -              15.742,00      15.742,00       -                -15.742,00      -
+      processos d’informació
+ 617 Millora béns ús públic              894.000,00      861.699,06    1.755.699,06 1.205.846,68         -549.852,38     68,68%
+ 618 Restauració béns mobles               5.000,00         -              5.000,00     5.000,00            -           100,00%
+     d’interès històric
+  64 Immobilitzat immaterial            310.227,80      -82.699,80       227.528,00    16.662,99          -210.865,01     7,32%
+ 640 Programes informàtics              310.227,80      -82.699,80       227.528,00    16.662,99          -210.865,01     7,32%
+   6 Inversions reals                 4.143.393,45    1.630.015,97     5.773.409,42 2.642.936,64        -3.130.472,78    45,78%
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+L’estat d’execució dels crèdits destinats a inversions es detalla a continuació:
+
+                                  2022                                      Import                  %
+ Crèdits inicials                                                         4.143.393,45              71,77%
+ Crèdits plurianuals                                                           -                    -
+ Crèdits reconduïts i modificacions de pressupost                         1.630.015,97              28,23%
+ Total pressupost                                                         5.773.409,42             100,00%
+ Crèdits liquidats                                                        2.642.936,64              -
+ % execució                                                                     45,78%              -
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                      21
+2.2.11.         Actius financers de despeses
+
+La liquidació del pressupost del present capítol es resumeix en el quadre adjunt:
+
+                                                                             (1)          (2)                          %
+                                            PRESSUPOST                                               VARIACIÓ
+ TRANSFERÈNCIES CORRENTS                                      MODIF.    PRESSUPOST     LIQUIDAT                    EXECUCIÓ
+                                             INICIAL 2022                                            (3)=(2)-(1)
+                                                                         FINAL 2022      2022                        (2)/(1)
+  81 Concessió de préstecs                       500.000,00     -         500.000,00    500.000,00        -             100%
+ 810 Naturlandia. Concessió de                   500.000,00     -         500.000,00    500.000,00        -             100%
+     préstecs
+  84 Constitució de dipòsits i                      -          600,00         600,00       600,00         -             100%
+     fiances
+ 840 Ap. Valireta dipòsit lloguer                   -          600,00         600,00       600,00         -             100%
+  85 Adquisició d’accions                        905.685,37     -         905.685,37    905.685,35        -0,02         100%
+ 852 Adquisició accions                          905.685,37     -         905.685,37    905.685,35        -0,02         100%
+     SASECTUR i Escola Bressol
+   8 Actius financers                         1.405.685,37     600,00    1.406.285,37 1.406.285,35        -0,02       99,99%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                      22
+2.3. Estats financers
+Estat de situació financera
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   23
+Estat de rendiment financer
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   24
+Estat de fluxos d’efectiu
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   25
+Conciliació entre el resultat pressupostari i el resultat comptable de l’exercici
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022               26
+2.3.1. Efectiu i equivalents a l’efectiu
+
+El detall dels saldos que composen la rúbrica d’efectius i altres equivalents a l’efectiu
+és el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+Es presenta a continuació el compte de tresoreria rebut per l’entitat:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+El quadre adjunt recull la situació de la tresoreria al tancament de l’exercici:
+
+                                                    Saldo a        Saldo a
+                Descripció                                                       Variació
+                                                  31/12/2022     31/12/2021
+ Caixa                                               26.140,10      17.083,53       9.056,57
+ Crèdit Andorrà                                   3.297.467,47   1.553.118,89   1.744.348,58
+ Morabanc                                           757.467,50   1.044.650,53    -287.183,03
+ Banc Sabadell d’Andorra                               -           113.370,56    -113.370,56
+ Andbanc                                            428.282,35     212.255,39     216.026,96
+ Vallbanc                                              -           105.478,03    -105.478,03
+ Comptes operatius                                     -           -11.178,75      11.178,75
+ Total                                            4.509.357,42   3.034.778,18   1.474.579,24
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                          27
+De la revisió d’aquests apartats se n’extreu les observacions i recomanacions
+següents:
+
+Pagaments mitjançant targetes de crèdit
+
+Els pagaments realitzats amb targetes de crèdit no segueixen, en el moment
+d’efectuar-se, el procediment i les fases previstes pel DLTRLGFP, si bé són objecte
+d’una regularització a posteriori. Es recomana l’adopció d’un procediment per la
+utilització d’aquest sistema de pagament que s’ajusti a les previsions d’aquella Llei.
+
+Mancomunació de signatures
+
+D’acord amb la informació analitzada es detecta que existeix l’opció d’operar de forma
+telemàtica amb diversos límits de forma individual o indistinta per part d’una persona
+vinculada en l’àmbit de la gestió del Comú.
+
+Aquesta pràctica comporta una debilitat de control intern pel que es recomana adaptar
+els procediments telemàtics al principi de mancomunació que ha de regir en la gestió
+dels fons públics.
+
+2.3.2. Actius financers corrents
+
+El desglossament de l’epígraf altres actius financers segons l’estat de situació
+financera retut es resumeix en el quadre següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+Segons el següent detall:
+
+                                                   Saldo a        Saldo a
+                Descripció                                                      Variació
+                                                  31/12/2022     31/12/2021
+ Crèdits a curt termini EEGG                         98.486,52        -          98.486,52
+ Interessos a curt termini                           60.221,49      31.488,85    28.732,64
+ Dipòsits constituïts a curt termini                  6.466,00       5.866,00       600,00
+ Total                                             165.174,01       37.354,85   127.819,16
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                        28
+2.3.3. Comptes a cobrar, vendes i ingressos
+
+El desglossament de l’epígraf de comptes a cobrar segons l’estat de situació financera
+retut es resumeix en el quadre següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022               29
+De la revisió d’aquest apartat se n’extreu la observació següent:
+
+Saldo deutor del Govern d’Andorra
+
+Hi Figura entre el pendent de cobrament del Comú un saldo de 400.000 euros el qual
+prové del conveni de col·laboració de data 29 de maig de 2009 subscrit amb el Govern
+d’Andorra relacionat amb l’ordenació urbanística dels entorns de la plaça major de
+Sant Julià de Lòria.
+
+Aquest saldo no ha estat reconegut pel Govern en la resposta a la circularització
+efectuada pel que poden existir dubtes sobre la seva cobrabilitat. Cal indicar que el
+Comú té dotada una provisió per atendre una possible insolvència d’aquest saldo.
+
+2.3.4. Pagaments anticipats
+
+El detall dels pagaments anticipats que figuren a l’actiu corrent de l’estat de situació
+financera és el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                 30
+2.3.5. Actius financers no corrents
+
+El quadre de moviments dels actius financers no corrents es resumeix de la següent
+manera:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+L’epígraf d’Actius no corrents inclou a 31 de desembre de 2022 inversions financeres
+en instruments de patrimoni amb la següent composició:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022             31
+L’epígraf de préstecs i comptes a cobrar inclou una línia de crèdit i préstec participatiu
+atorgada pel Comú a la SOCIETAT EXPLOTADORA DEL CAMP DE NEU DE LA
+RABASSA, S.A. (CAMPRABASSA, SA) per un import disposat de 5.539.752 euros i
+que ve derivada del pla de reestructuració de CAMPRABASSA, SA.
+
+L’epígraf d’inversions financeres inclou els moviments efectuats durant l’any 2022 amb
+CAMPRABASSA, SA derivats d’una ampliació de capital per 6.389.985 euros
+mitjançant una aportació no dinerària de part dels crèdits pendents de cobrament i
+d’una reducció del capital fins als 60.000 euros, disminuït com a conseqüència de les
+pèrdues acumulades.
+
+De la revisió d’aquest apartat s’ha posat de manifest la següent incidència:
+
+Viabilitat de CAMPRABASSA, SA
+
+La societat presenta, a 31 de desembre de 2022, un resultat negatiu de 798.579 per
+a l’exercici 2022, així com uns resultats negatius acumulats d’exercicis anteriors de
+968.942 euros, després dels ajustos realitzats contra el patrimoni net. El fons de
+maniobra és negatiu de 2 milions d’euros a 31 de desembre de 2022 i era de 9 milions
+d’euros a 31 de desembre de 2021, i l’activitat d’explotació no ha generat recursos
+suficients per fer front a les obligacions que li han vençut en l’exercici revisat, fets que
+podrien qüestionar la seva viabilitat futura o condicionar-la al suport del Comú.
+
+Per la seva part, el Comú té atorgat un préstec a la Societat per 5.539.752 euros amb
+venciment a llarg termini i té atorgats avals per import de 6.830.957 euros. La manca
+de capacitat de generar recursos per part de la societat pot condicionar la recuperació
+pel Comú d’aquests préstecs i inversions financeres i li pot generar obligacions per les
+operacions avalades.
+
+Quadres erronis
+
+El Comú presenta, a 31 de desembre de 2022, un quadre de participacions i un de
+societats públiques erronis, al no haver reflectit correctament l’ampliació i reducció de
+capital social de CAMPRABASSA, SA i la modificació dels seus estatuts, mitjançant
+escriptura pública notarial, de data 29 de març de 2022.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    32
+2.3.6. Propietats d’inversió
+
+El quadre de moviments d’aquest epígraf es resumeix de la següent manera:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+2.3.7. Propietat, planta i equipament
+
+Els moviments d’aquest epígraf es resumeixen de la següent manera:
+
+Gestió comptable del patrimoni
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022       33
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+2.3.8. Actius intangibles
+
+Els moviments d’aquest epígraf es resumeixen de la següent manera:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   34
+2.3.9. Comptes a pagar
+
+El desglossament de l’epígraf de comptes a pagar segons l’estat de situació financera
+retut es resumeix en el quadre següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022              35
+2.3.10.      Passius financers (Passius corrents)
+
+El desglossament de l’epígraf de passius financers (passius corrents) es resumeix en
+el quadre següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+2.3.11.      Provisions a curt termini
+
+El detall de moviments de les provisions a curt termini es resumeix de la següent
+manera:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+Nota: El període indicat en el quadre hauria de ser 31 de desembre de 2022
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022             36
+2.3.12.       Endeutament i passius financers (Passius no corrents)
+
+La liquidació del pressupost de despeses financeres, així com de passius financers de
+despeses presenten el següent detall:
+
+                                                                                (1)          (2)                         %
+                                           PRESSUPOST                                                 VARIACIÓ
+       DESPESES FINANCERES                                     MODIF.      PRESSUPOST LIQUIDAT                       EXECUCIÓ
+                                            INICIAL 2022                                              (3)=(2)-(1)
+                                                                            FINAL 2022      2022                       (2)/(1)
+  31 De préstecs                                   45.415,54   -3.058,63        42.356,91 38.624,13     -3.732,78        91,19%
+ 310 Interessos de préstecs                        45.415,54   -3.058,63        42.356,91 38.624,13     -3.732,78        91,19%
+  32 Línies de crèdit                              25.000,00       -            25.000,00 10.707,24    -14.292,76        42,83%
+ 320 Interessos línies de crèdit                   25.000,00       -            25.000,00 10.707,24    -14.292,76        42,83%
+  34 De dipòsits, fiances i altres                 20.000,00       -            20.000,00 14.102,17     -5.897,83        70,51%
+ 349 Comissions serveis bancàries                  20.000,00       -            20.000,00 14.102,17     -5.897,83        70,51%
+   3 Despeses financeres                           90.415,54   -3.058,63        87.356,91 63.433,54    -23.923,37        72,61%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+                                                                              (1)          (2)                           %
+                                           PRESSUPOST                                                 VARIACIÓ
+         PASSIUS FINANCERS                                     MODIF.   PRESSUPOST LIQUIDAT                          EXECUCIÓ
+                                            INICIAL 2022                                              (3)=(2)-(1)
+                                                                         FINAL 2022       2022                         (2)/(1)
+  90 Amortització deute públic                   810.921,66    3.058,63     813.980,29 813.980,29          -            100,00%
+ 900 Amortització deute públic                   810.921,66    3.058,63     813.980,29 813.980,29          -            100,00%
+   9 Passius financers                           810.921,66    3.058,63     813.980,29 813.980,29          -            100,00%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+Per altra banda, la liquidació del pressupost d’ingressos en el seu capítol de passius
+financers presenta el següent detall:
+
+                                                                                (1)        (2)                           %
+                                           PRESSUPOST                                                  VARIACIÓ
+         PASSIUS FINANCERS                                     MODIF.      PRESSUPOST LIQUIDAT                       EXECUCIÓ
+                                            INICIAL 2022                                               (3)=(2)-(1)
+                                                                            FINAL 2022    2022                         (2)/(1)
+    91 Préstecs                                1.689.411,60       -          1.689.411,60   -          -1.689.411,60      -
+   917 Préstecs                                1.689.411,60       -          1.689.411,60   -          -1.689.411,60      -
+     9 Passius financers                       1.689.411,60       -          1.689.411,60   -          -1.689.411,60      -
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                   37
+L’estat d’endeutament que presenta el Comú corresponent a l’exercici és el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022            38
+El resultat de l’anàlisi d’aquest apartat efectuada pel Tribunal es recull a continuació.
+
+Endeutament comunal
+
+Es presenta a continuació l’estat de l’endeutament a 31 de desembre de 2022, calculat
+pel Tribunal de Comptes d’acord amb els criteris que determina la LFC en el seu títol
+III, capítol III, fent menció de la situació en relació als paràmetres de control que
+estableix aquesta mateixa Llei.
+
+D’acord amb la Llei 36/2021, del 16 de desembre, de les finances comunals, en
+especial en el seu article 56, l’endeutament comunal va referit a la mitja dels ingressos
+totals liquidats en els pressupostos corresponents als tres anys naturals
+immediatament anteriors, excloent del total dels ingressos els corresponents a
+operacions d’endeutament i els procedents de l’alienació del patrimoni.
+
+Per a determinar aquesta magnitud de referència, el Tribunal ha ajustat els ingressos
+que foren retuts pel Comú amb les incidències que els afecten, en el cas que n’hi hagi,
+i que es van posar de manifest en la fiscalització de cadascun dels exercicis:
+
+                        Concepte                                 2019             2020         2021
+ Ingressos totals liquidats                                     14.992.846      14.236.921    14.528.724
+  - Capítol IX Passius financers (ingressos)                       -                -            -
+  - Capítol VI Alienació d'inversió                                -                -            -
+ Ajustaments                                                        24.413          -            -
+ Total                                                          15.017.259      14.236.921    14.528.724
+ Mitjana base de càlcul                                                        14.594.301
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+L’endeutament es presenta calculat sobre la base dels imports dels préstecs, dels
+crèdits, dels avals i de les garanties atorgades i calculat addicionant a les xifres
+anteriors els imports disposats de les pòlisses de tresoreria contractades, donat que,
+com determina l’article 56.2 constitueix l’endeutament a curt termini, entre d’altres, la
+contractació de préstecs i crèdits atorgats per entitats financeres per a cobrir
+desfasaments transitoris de tresoreria.
+
+                                                                             Càlcul sobre Paràmetres de
+                                                                               imports       control
+                                                                              disposats   segons la LFC
+ Mitjana base de càlcul                                                        14.594.301
+ Endeutament bancari del Comú                                                   3.594.601
+ Deute per avals de préstecs                                                    2.819.613
+ Deute per avals de pòlisses                                                      498.995
+ Endeutament entitats participades                                              4.412.959
+ Endeutament total                                                             11.326.168
+ % sobre base de càlcul                                                            77,61% Màxim 200%
+ Endeutament a curt termini del Comú                                              -
+ Endeutament a curt termini entitats participades                                 437.800
+ Endeutament a curt termini                                                       437.800
+ % sobre base de càlcul                                                             3,00% Màxim 40%
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                 39
+El detall dels imports que s’han utilitzat per a determinar el càlcul de l’endeutament és
+el següent:
+
+                                                                                                            Imports
+                                                         Concepte
+                                                                                                           disposats
+ Endeutament del Comú a llarg termini                                                                       3.594.601
+ - Comptabilitzat a llarg termini                                                                           2.885.804
+ - Comptabilitzat a curt termini                                                                              708.797
+ Endeutament del Comú a curt termini                                                                           -
+ Deute per avals de préstecs                                                                                2.819.613
+ Deute per avals de pòlisses                                                                                  498.995
+ Endeutament de Camprabassa, SA a llarg termini (90,73%)                                                    3.938.759
+ - Comptabilitzat a llarg termini                                                                           3.462.141
+ - Comptabilitzat a curt termini                                                                              476.618
+ Endeutament de Camprabassa, SA a curt termini (90,73%)                                                       372.945
+ Endeutament de SASECTUR, SAU a llarg termini (100%)                                                           36.400
+ - Comptabilitzat a llarg termini                                                                              -
+ - Comptabilitzat a curt termini                                                                               -
+ Endeutament de SASECTUR, SAU a curt termini (100%)                                                            64.855
+ Endeutament de l'Escola Bressol Laurèdia, SAU a llarg termini (100%)                                          -
+ - Comptabilitzat a llarg termini                                                                              -
+ - Comptabilitzat a curt termini                                                                               -
+ Endeutament de l'Escola Bressol Laurèdia, SAU a curt termini (100%)                                           -
+ Endeutament de la Mútua elèctrica de Sant Julià de Lòria i societats dependents a llarg termini (8,51%)       -
+ - Comptabilitzat a llarg termini                                                                              -
+ - Comptabilitzat a curt termini                                                                               -
+ Endeutament de la Mútua elèctrica de Sant Julià de Lòria i societats dependents a curt termini (8,51%)        -
+ Total endeutament                                                                                         11.326.168
+ Endeutament del Comú a curt termini                                                                           -
+ Endeutament de Camprabassa, SA a curt termini (90,73%)                                                       372.945
+ Endeutament de SASECTUR, SAU a curt termini (100%)                                                            64.855
+ Endeutament de l'Escola Bressol Laurèdia, SAU a curt termini (100%)                                           -
+ Endeutament de la Mútua elèctrica de Sant Julià de Lòria i societats dependents a curt termini (8,51%)        -
+ Total endeutament a curt termini                                                                             437.800
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+De l’anàlisi anterior en resulten les incidències següents:
+
+Càlcul de l’endeutament
+
+L’endeutament que mostra el Comú recollit en el seu quadre d’endeutament, és inferior
+en 2.616.418 euros en relació al que resultaria d’aplicar els conceptes previstos a la
+LFC. Aquesta diferència és deguda, principalment, a que no ha considerat part de
+l’endeutament derivat dels avals atorgats a les entitats participades.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                        40
+2.3.13.      Actius nets/patrimoni
+
+El quadre de moviments dels actius nets/patrimoni és el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+2.3.14.      Altres ingressos
+
+El quadre dels altres ingressos és el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   41
+2.4. Estat del romanent de tresoreria
+L’estat retut per l’entitat ha estat el següent:
+
+
+
+
+Font: Comú de Sant Julià de Lòria
+(Imports en euros)
+
+
+El romanent de tresoreria és un indicador de liquiditat del Comú i és l’efecte dels
+resultats pressupostaris, superàvits o dèficits, acumulats per l’entitat al llarg dels
+diferents exercicis.
+
+Quan a la liquidació d’un exercici en resulta un romanent de tresoreria negatiu, l’article
+91 de la LFC reclama que s’adoptin mesures de sanejament que permetin en el curt
+termini recuperar la liquiditat de les finances comunals.
+
+El romanent de tresoreria al qual es refereix l’article 91 de la LFC, rep la denominació
+de romanent de tresoreria no afectat per a diferenciar-lo de l’anomenat romanent
+afectat, el qual es composat per aquell saldo pressupostari que és fruit d’haver liquidat
+uns ingressos pressupostaris de caire finalista que al tancament de l’exercici resten
+pendents d’aplicació a la finalitat que va motivar la seva percepció.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                   42
+El Comú presenta sota la rúbrica de romanent de tresoreria afectat l’import de
+2.200.430 euros corresponent, entre d’altres, a les quantitats recaptades en concepte
+de cessió obligatòria del POUP i altres ingressos, segons el següent detall:
+
+                      Concepte                         Import
+ Ingressos provinents del POUP 2007                     42.234,00
+ Ingressos provinents del POUP 2008                     84.145,00
+ Ingressos provinents del POUP 2009                 2.347.716,00
+ Ingressos provinents del POUP 2010                     80.992,00
+ Ingressos provinents del POUP 2011                   278.595,00
+ Ingressos provinents del POUP 2012                     64.693,00
+ Ingressos provinents del POUP 2013                   113.027,47
+ Ingressos provinents del POUP 2014                     72.736,45
+ Ingressos provinents del POUP 2015                     40.719,02
+ Ingressos provinents del POUP 2016                   843.096,59
+ Ingressos provinents del POUP 2017                     60.638,73
+ Ingressos provinents del POUP 2018                   116.448,75
+ Ingressos provinents del POUP 2019                   272.502,13
+ Ingressos provinents del POUP 2020                     13.896,36
+ Ingressos provinents del POUP 2021                   274.679,94
+ Ingressos provinents del POUP 2022                 1.319.880,90
+ Conveni remodelació entorns Plaça Major              344.940,00
+ Conveni complex ordenació urbanística Plaça Major    400.000,00
+ Inversions aplicades 2018                           -367.748,48
+ Inversions aplicades 2020                         -1.064.090,91
+ Inversions aplicades 2021                         -1.247.177,78
+ Inversions aplicades 2022                         -1.891.493,82
+ TOTAL ROMANENT DE TRESORERIA AFECTAT 2.200.430,35
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+En relació a la consideració d’ingressos afectats als imports liquidats en concepte de
+cessió obligatòria de terrenys és conseqüència del regulat en la Llei general
+d'ordenació del territori i urbanisme, de 29 de desembre de 2000 i les seves
+modificacions, i en els plans d’ordenació i urbanisme parroquial en els quals
+s’estableixen els percentatges de terreny de cessió obligatòria. Aquests només poden
+ser destinats a equipaments, espais públics, habitatges de protecció pública i serveis
+col·lectius.
+
+De l’anàlisi anterior en resulta la incidència següent:
+
+Elaboració del romanent de tresoreria
+
+De la revisió de la elaboració del romanent de tresoreria, s’observa que s’han inclòs
+pendents de cobrament per ingressos meritat per import de 610.000 euros i creditors
+per operacions pendents d’aplicar al pressupost per import de 746.592 euros que no
+han estat liquidats durant l’exercici 2022 i que per tant no formen part del Romanent
+de Tresoreria de l’exercici. En conseqüència, el romanent de tresoreria no afectat i el
+romanent de tresoreria estarien infravalorats en 136.592 euros.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                43
+2.5. Contractació pública
+De la revisió que s’ha dut a terme relativa a la licitació i execució dels contractes
+administratius s’han observat els següents incompliments:
+
+Contractes de serveis amb vigència superior a la permesa per la LCP
+
+L’article 114.5 de la LCP estableix que "els contractes de serveis no poden tenir un
+termini de vigència superior a quatre anys. Si es preveu en el contracte la modificació
+i la pròrroga per mutu acord, la durada del contracte, incloses les pròrrogues, no pot
+excedir els sis anys". No obstant l’anterior, de la nostra revisió es desprèn que el Comú
+ha prorrogat diversos contractes d’assegurances formalitzats inicialment els anys
+2011 i 2014, pel que haurien excedit el límit normatiu anterior.
+
+Manca de formalització de contractes o contractes formalitzats amb retard
+
+De la revisió d’expedients de contractació s’han detectat adjudicacions per a les quals,
+no s’ha pogut evidenciar que s’hagi formalitzat el corresponent contracte tal com es
+requereix al plec de bases de la licitació, o bé la formalització del corresponent
+contracte supera el termini de 30 dies des de l’adjudicació definitiva, fet que és contrari
+al que disposa l’art. 42 de la LCP. Aquest fet s’ha observat en les següents
+contractacions:
+
+       - Transcripció i traducció dels pergamins de l’arxiu Comunal, per un import de
+         14.000 euros.
+       - Projecte i direcció d’obra de l’ampliació de l’abocador de la cota 1600 de
+         Camprabassa, per un import de 16.315 euros.
+       - Realització d’un nou tram de xarxa d’aigua potable a la carretera de Certers i
+         altres ubicacions, per un import de 164.357 euros.
+       - Subministrament i col·locació de postes d’incendi a diferents llocs de la
+         parròquia, per un import de 31.200 euros.
+       - Subministrament i col·locació de butaques a l’Auditori Claror i la retirada i
+         reciclatge de les mateixes, per un import de 470.037 euros.
+
+Verificació de la legitimació per a contractar
+
+Pel que respecta als licitadors, l’entitat avalua la legitimitat per a contractar mitjançant
+l’obtenció d’una declaració genèrica responsable de no trobar-se en cap causa que ho
+impedeixi. Aquest procediment pot ser considerat poc eficaç, pel que es recomana
+que es requereixi una declaració explícita i responsable dels empresaris conforme no
+es troben en cap dels supòsits tipificats, a més dels que deriven de l’article 11 de
+la LCP, els regulats al Capítol primer i quart dels delictes contra la funció pública de la
+Llei qualificada del Codi Penal; així com dur a terme consultes en registres públics.
+
+Pel que respecta als integrants de l’òrgan de contractació, s’haurien d’implantar
+procediments que garanteixin que no es donen els supòsits previstos a l’article 115
+del Codi de l’Administració i els relatius als delictes contra la funció pública regulats a
+la Llei qualificada del Codi Penal en allò que afecten a la legitimació per a contractar.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    44
+2.6. Sostenibilitat de les finances públiques i estabilitat
+     pressupostària i fiscal
+
+Els objectius de sostenibilitat financera, estabilitat pressupostària i fiscal per a l’exercici
+2022 foren publicats al Butlletí Oficial del Principat d’Andorra núm. 133/2021 de data
+14 de desembre de 2021. Els corresponents al Comú de Sant Julià de Lòria, perquè
+aquest els consideri en l’elaboració i seguiment del marc pressupostari, eren, en
+relació a:
+
+       - L’objectiu d’endeutament, el 160,5% de la mitja dels ingressos totals liquidats
+         en els pressupostos corresponents als tres anys naturals immediatament
+         anteriors, calculat d’acord amb l’establert en la Llei de les finances comunals.
+       - L’objectiu de despesa permesa, 27.000.000 d’euros.
+       - L’objectiu de la despesa corrent o de funcionament, una taxa de creixement
+         del 10,0%.
+
+En data 15 de desembre de 2021, el Comú de Sant Julià de Lòria va trametre al
+Tribunal de Comptes la revisió del marc pressupostari per al mandat 2020/2023 del
+Comú de Sant Julià de Lòria.
+
+El Tribunal de Comptes, el 16 de desembre de 2021, va informar favorablement del
+marc pressupostari general indicat anteriorment.
+
+Segons l’apartat 2.3.12 d’aquest informe, l’endeutament del Comú d’acord a l’article
+12 del DLTRLSEPF és del 77,6%, tenint en compte els imports disposats, inferior a
+l’objectiu publicat, i inferior al límit del 200% establert en l’apartat 12.6 de la mateixa
+Llei.
+
+Pel que fa a la despesa màxima permesa, establerta en l’article 15.3 del DLTRLSEPF,
+l’import liquidat ha estat de 12.814.328 euros, inferior a l’objectiu publicat i inferior al
+límit.
+
+El Comú ha liquidat una despesa corrent o de funcionament, d’acord a l’article 16 del
+DLTRLSEPF, del 9,6%, inferior a l’objectiu publicat sense trobar-se, al ser
+l’endeutament inferior al 180%, subjecta a la limitació establerta en l’apartat 16.3 de la
+mateixa Llei.
+
+De la revisió de l’àrea es posen de manifest les incidències següents:
+
+Avaluació del principi d’eficiència en la gestió dels recursos públics
+
+El DLTRLSEPF determina l’eficiència com un dels principis bàsics que ha de regir la
+gestió dels recursos públics.
+
+Per avaluar el grau d’acompliment d’aquest principi, la Llei preveu que l’administració
+pública es doti d’un instrument de control, en forma d’auditoria sobre la gestió
+econòmica realitzada en cadascun dels mandats polítics, preveient que els requisits i
+continguts de la mateixa es fixin de forma reglamentària.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                       45
+No obstant l’anterior el Tribunal no ha rebut les referides auditories a la conclusió del
+mandat polític 2016-2019 del Comú, contravenint l’article 8.4 del DLTRLSEPF.
+
+2.7. Altres aspectes a destacar
+
+Així mateix, de la revisió efectuada s’han observat els següents aspectes a fer menció:
+
+Remissió de comptes
+
+L’article 13.1 de la Llei del Tribunal de Comptes de 13 d’abril de 2000 estableix que
+els comuns han de remetre directament al Tribunal de Comptes els seus comptes, així
+com els dels òrgans i de les societats públiques que en depenen, abans de l’1 d’abril
+de l’any següent al del tancament de cada exercici.
+
+Els estats pressupostaris i financers del Comú han estat tramesos al Tribunal de
+Comptes en data 21 d’agost de 2023.
+
+Per la seva part, els comptes anuals de les societats CAMPRABASSA, SA,
+SASECTUR, SAU, i ESCOLA BRESSOL LAURÈDIA, SAU van ser retuts al Tribunal
+el 21 d’agost de 2023.
+
+Economicitat i eficiència de la despesa pública
+
+L’article 93 de la LFC estableix com a finalitats de la gestió de la despesa comunal, a
+més de les preteses en les actuacions que s’impulsen pels òrgans de govern, els
+objectius d’economicitat i eficiència establint per a la seva supervisió i mesura els
+controls pressupostaris de legalitat, oportunitat econòmica, control financer, control
+d’eficàcia i control polític.
+
+En relació a l’esmentat, el Comú, si bé té definides diverses propostes, no té recollits
+de forma explícita els objectius o els resultats que s’espera obtenir amb les accions
+que deriven del pressupost aprovat, i no disposant per tant d’indicadors que permetin
+la seva mesura en termes d’eficàcia. Aquest fet, a més d’impedir el control d’eficàcia
+previst a l’article 98 de la LFC, desvirtua el pressupost com el mecanisme d’assignació
+de recursos per a la consecució de les finalitats preteses pels programes d’actuació
+dels òrgans de govern comunals.
+
+En relació als mecanismes de mesura i control dels principis d’economicitat i eficiència
+indicats, així com aquells que se’n deriven del pressupost aprovat pel Ple del Comú
+es formulen les següents observacions:
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                  46
+       - El Comú no disposa d’eines d’informació i seguiment centralitzades
+         relacionades amb la planificació, execució i avaluació de les inversions.
+       - No consta que s’analitzi l’adequació del finançament a la inversió que es
+         projecta.
+       - No s’observen ordres o disposicions que s’hagin dictat com a mesura
+         correctiva que derivi directament de desviacions de costos i de terminis que
+         s’hagin produït.
+       - No es disposa d’un sistema eficaç de comptabilitat de costos dels serveis i
+         activitat que es presten que aportin informació suficient per a la presa de
+         decisions en relació als objectius d’economia i eficiència.
+
+Polítiques i pràctiques mediambientals
+
+Les polítiques que duen a terme les administracions públiques poden tenir impacte en
+el medi ambient el qual, als efectes de l’abast de la fiscalització del Tribunal, pot
+comportar la necessitat d’introduir en els comptes que es reten, costos, passius o
+provisions per atendre a les contingències derivades de les seves actuacions o poden
+comportar la desvaloració de béns i altres actius de l’entitat.
+
+Igualment, en el marc de l’avaluació del compliment de les normes que li són
+d’aplicació, pertoca al Tribunal conèixer i analitzar les iniciatives per a prevenir,
+minorar o pal·liar els efectes mediambientals de les seves activitats.
+
+En aquest sentit, el Comú, ateses les competències legalment atribuïdes que gestiona,
+desenvolupa activitats que poden tenir efectes rellevants sobre el medi ambient.
+
+De la informació analitzada s’ha observat l’existència de compromisos, plans,
+programes, i recursos destinats a atendre objectius de caire mediambiental.
+
+Igualment, si bé no és objecte d’aquests treballs avaluar-ne la seva eficàcia, s’han
+observat actuacions en diversos camps dels quals en destaca:
+
+       - Sistema parroquial de recollida selectiva i reciclatge de residus.
+       - Sistema de tractament d’aigües residuals de la parròquia.
+       - Tractament d’aqüífers i aigua potable.
+       - Actuacions per la reducció del consum energètic i d’aigua a la parròquia i la
+         promoció de les energies renovables.
+       - Mecanismes de protecció de boscos, camins, fauna, flora, parcs i jardins.
+       - Política i gestió de parcs naturals.
+       - Polítiques i actuacions concretes en la promoció, formació i divulgació del
+         medi ambient.
+       - Polítiques i mesures per la reducció de la contaminació acústica, lumínica i
+         atmosfèrica.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                47
+2.8. Evolució de les magnituds i ratis principals
+Es presenta a continuació l’evolució de les magnituds i ratis principals de la gestió
+economicofinancera de l’entitat:
+
+Resum pressupost inicial d’ingressos
+                                              Pressupost       Pressupost    Pressupost    Pressupost    Pressupost    Pressupost    Pressupost    Pressupost
+          Pressupost d'ingressos
+                                                  2015            2016          2017          2018          2019          2020          2021          2022
+  1. Impostos directes                           2.045.000       2.381.000     2.346.584     2.424.858     2.785.000     3.818.962     2.948.000     2.922.500
+  2. Impostos indirectes                            60.000         120.000        90.000       100.000       120.000       150.000       150.000       300.000
+  3. Taxes i altres ingressos                    2.369.889       2.755.446     2.751.772     2.648.652     4.044.988     2.822.436     3.083.492     3.698.451
+  4. Transferències corrents                     1.648.417       1.646.235     1.646.235     6.218.000     7.681.207     6.791.812     5.979.965     6.164.790
+  5. Ingressos patrimonials                         52.550          52.600        52.600        52.600        40.100        54.190        54.190        65.690
+  Ingressos corrents                             6.175.856       6.955.281     6.887.191    11.444.110    14.671.295    13.637.400    12.215.647    13.151.431
+  7. Transferències de capital                   5.713.670       5.712.937     5.712.937     1.300.000     1.605.707     1.505.545     1.239.713     2.525.198
+  8. Actius financers                               -               -             -             -          1.350.000        -             -             -
+  9. Passius financers                              -               -             -             -          2.200.000        -          1.888.843     1.689.412
+  Ingressos de capital                           5.713.670       5.712.937     5.712.937     1.300.000     5.155.707     1.505.545     3.128.556     4.214.610
+  Total ingressos                              11.889.526       12.668.218    12.600.128    12.744.110    19.827.002    15.142.945    15.344.203    17.366.041
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+Resum pressupost inicial de despeses
+                                              Pressupost       Pressupost    Pressupost    Pressupost    Pressupost    Pressupost    Pressupost    Pressupost
+         Pressupost de despeses
+                                                  2015            2016          2017          2018          2019          2020          2021          2022
+  1. Despeses de personal                        4.790.004       4.808.819     4.735.122     4.664.751     4.849.740     5.030.163     5.030.163     5.236.181
+  2. Consum de béns corrents i serveis           3.782.621       3.447.649     3.574.647     3.700.632     4.502.688     4.392.818     4.506.073     4.843.608
+  3. Despeses financeres                           269.196         235.028       233.068       193.549       111.826        98.171        93.103        90.416
+  4. Transferències corrents                     1.007.404       1.121.589       406.801       434.144       502.757       538.589       514.560       835.836
+  Despeses corrents                              9.849.225       9.613.085     8.949.638     8.993.076     9.967.011    10.059.741    10.143.899    11.006.041
+  6. Inversions reals                            1.184.982         523.172     1.410.549     1.161.900     4.554.176     2.500.530     2.814.160     4.143.393
+  7. Transferències de capital                      -               -             -            110.000       150.000       150.000        -             -
+  8. Actius financers                               -               -          1.466.261     1.696.667     4.367.627     1.635.840     1.580.537     1.405.685
+  9. Passius financers                             744.145         764.504       771.356       780.964       788.188       796.834       805.607       810.922
+  Despeses de capital                            1.929.127       1.287.676     3.648.166     3.749.531     9.859.991     5.083.204     5.200.304     6.360.000
+  Total despeses                               11.778.352       10.900.761    12.597.804    12.742.607    19.827.002    15.142.945    15.344.203    17.366.041
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                                             Evolució del pressupost
+20.000.000
+
+
+
+16.000.000
+
+
+
+12.000.000
+                                                                                                                                      Pressupost d'ingressos
+
+                                                                                                                                      Pressupost de despeses
+ 8.000.000
+
+
+
+ 4.000.000
+
+
+
+         0
+                  2015           2016            2017            2018          2019         2020         2021          2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+Resum de la liquidació del pressupost d’ingressos
+                                               Liquidat         Liquidat      Liquidat      Liquidat      Liquidat      Liquidat      Liquidat       Liquidat
+        Pressupost d'ingressos
+                                                  2015            2016          2017          2018          2019          2020          2021           2022
+  1. Impostos directes                           2.108.676       2.264.424     2.332.725     2.435.372     2.668.160     3.020.481     3.074.421      3.075.883
+  2. Impostos indirectes                           473.722          98.013       361.773       523.210       542.196       433.495       805.346        665.346
+  3. Taxes i altres ingressos                    2.440.317       3.440.034     2.801.019     2.877.988     3.110.848     2.791.176     3.391.563      4.908.400
+  4. Transferències corrents                     1.669.420       1.674.920     1.703.313     6.724.109     7.128.387     6.555.683     5.946.767      6.727.412
+  5. Ingressos patrimonials                         48.229          45.026        27.904        39.608        55.606        58.628        91.002        104.424
+  Ingressos corrents                             6.740.364       7.522.417     7.226.734    12.600.287    13.505.197    12.859.463    13.309.099     15.481.465
+  7. Transferències de capital                   5.808.375       5.804.593     5.829.391     1.403.889     1.487.649     1.377.459     1.219.625      1.523.112
+  Ingressos de capital                           5.808.375       5.804.593     5.829.391     1.403.889     1.487.649     1.377.459     1.219.625      1.523.112
+  Total ingressos                              12.548.739       13.327.010    13.056.125    14.004.176    14.992.846    14.236.922    14.528.724     17.004.577
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                          48
+Resum de la liquidació del pressupost de despeses
+                                               Liquidat       Liquidat     Liquidat     Liquidat     Liquidat     Liquidat     Liquidat       Liquidat
+        Pressupost de despeses
+                                                  2015          2016         2017         2018         2019         2020         2021           2022
+  1. Despeses de personal                        4.482.316     4.382.120    4.371.102    4.374.338    4.663.828    4.965.698    4.966.188      5.023.932
+  2. Consum de béns corrents i serveis           3.370.041     2.889.088    3.544.443    3.572.491    4.019.383    3.338.725    3.763.077      4.338.481
+  3. Despeses financeres                           198.214       149.564      126.480      107.462       86.038       77.772       67.149         63.434
+  4. Transferències corrents                     1.515.633       357.532      339.924      405.583      469.004      398.318      464.838        715.544
+  Despeses corrents                              9.566.204     7.778.304    8.381.949    8.459.874    9.238.253    8.780.513    9.261.252     10.141.391
+  6. Inversions reals                            1.409.241       220.241      757.857    1.067.969    1.473.198    1.620.335    2.070.194      2.642.937
+  7. Transferències de capital                     464.913        -            -            -           299.999      150.000       -              30.000
+  8. Actius financers                              200.000     4.227.015    1.497.813    1.968.958    2.123.227    1.533.969    1.481.109      1.406.285
+  9. Passius financers                             744.520       751.954      773.943      780.964      788.188      796.834      808.477        813.980
+  Despeses de capital                            2.818.674     5.199.210    3.029.613    3.817.891    4.684.612    4.101.138    4.359.780      4.893.202
+  Total despeses                               12.384.878     12.977.514   11.411.562   12.277.765   13.922.865   12.881.651   13.621.032     15.034.593
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                                 Evolució liquidació del pressupost
+18.000.000
+
+
+
+15.000.000
+
+
+
+12.000.000
+
+
+                                                                                                                               Pressupost d'ingressos
+ 9.000.000
+                                                                                                                               Pressupost de despeses
+
+ 6.000.000
+
+
+
+ 3.000.000
+
+
+
+         0
+                  2015           2016            2017          2018        2019         2020         2021         2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+Resultat pressupostari
+                Descripció                        2015          2016         2017         2018         2019         2020         2021           2022
+  Ingressos corrents                             6.740.364     7.522.417    7.226.734   12.600.287   13.505.197   12.859.463   13.309.099     15.481.465
+  Despeses corrents                              9.566.204     7.778.304    8.381.949    8.459.874    9.238.253    8.780.513    9.261.252     10.141.391
+  Resultat corrent                              -2.825.840      -255.887   -1.155.215    4.140.413    4.266.944    4.078.950    4.047.847      5.340.074
+  Ingressos de capital                           5.808.375     5.804.593    5.829.391    1.403.889    1.487.649    1.377.459    1.219.625      1.523.112
+  Despeses de capital                            2.818.674     5.199.210    3.029.613    3.817.891    4.684.612    4.101.138    4.359.780      4.893.202
+  Resultat de capital                            2.989.701       605.383    2.799.778   -2.414.002   -3.196.963   -2.723.679   -3.140.155     -3.370.090
+  Resultat pressupostari                           163.861       349.496    1.644.563    1.726.411    1.069.981    1.355.271      907.692      1.969.984
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                                             Resultat pressupostari
+6.000.000
+
+5.000.000
+
+4.000.000
+
+3.000.000
+
+2.000.000
+                                                                                                                                 Resultat corrent
+1.000.000                                                                                                                        Resultat de capital
+         0                                                                                                                       Resultat pressupostari
+
+-1.000.000
+
+-2.000.000
+
+-3.000.000
+
+-4.000.000
+                 2015            2016            2017           2018        2019         2020         2021         2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                     49
+La distribució de les liquidacions d’ingressos i despeses dels darrers exercicis es
+representa gràficament en els quadres següents:
+
+                                                   Liquidació pressupost ingressos valor absolut
+
+8.000.000
+
+
+6.000.000
+
+
+4.000.000
+
+
+2.000.000
+
+
+         0
+              1. Impostos directes          2. Impostos          3. Taxes i altres   4. Transferències        5. Ingressos   7. Transferències de
+                                             indirectes             ingressos             corrents            patrimonials          capital
+      2015         2.108.676                  473.722               2.440.317            1.669.420               48.229           5.808.375
+      2016         2.264.424                  98.013                3.440.034           1.674.920               45.026            5.804.593
+      2017         2.332.725                 361.773                2.801.019           1.703.313               27.904            5.829.391
+      2018         2.435.372                 523.210                2.877.988           6.724.109               39.608            1.403.889
+      2019         2.668.160                 542.196                3.110.848           7.128.387               55.606            1.487.649
+      2020         3.020.481                 433.495                2.791.176           6.555.683               58.628            1.377.459
+      2021         3.074.421                 805.346                3.391.563           5.946.767               91.002            1.219.625
+      2022         3.075.883                 665.346                4.908.400           6.727.412               104.424           1.523.112
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                                                  Liquidació pressupost ingressos valor relatiu
+
+
+
+
+                                     2015                 2016         2017          2018            2019           2020        2021            2022
+   1. Impostos directes               17%                 17%           18%          17%             18%            21%         21%             18%
+   2. Impostos indirectes             4%                  1%            3%           4%                  4%          3%          6%                 4%
+   3. Taxes i altres ingressos        20%                 26%           21%          21%             21%            20%         23%             29%
+   4. Transferències corrents         13%                 13%           13%          48%             47%            46%         41%             39%
+   5. Ingressos patrimonials          0%                  0%            0%           0%                  0%          0%          1%                 1%
+   7. Transferències de capital       46%                 43%           45%          10%             10%            10%          8%                 9%
+
+Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                    50
+                                                         Liquidació pressupost despeses valor absolut
+
+6.000.000
+
+
+
+4.000.000
+
+
+
+2.000.000
+
+
+
+         0
+             1. Despeses de       2. Consum de           3. Despeses             4.         6. Inversions         7.           8. Actius      9. Passius
+                 personal         béns corrents i         financeres       Transferències        reals      Transferències     financers      financers
+                                      serveis                                 corrents                        de capital
+      2015      4.482.316           3.370.041             198.214            1.515.633       1.409.241         464.913         200.000           744.520
+      2016      4.382.120           2.889.088             149.564             357.532           220.241            -          4.227.015          751.954
+      2017      4.371.102           3.544.443             126.480             339.924           757.857            -          1.497.813          773.943
+      2018      4.374.338           3.572.491             107.462             405.583        1.067.969             -          1.968.958          780.964
+      2019      4.663.828           4.019.383              86.038             469.004        1.473.198          299.999       2.123.227          788.188
+      2020      4.965.698           3.338.725              77.772             398.318        1.620.335          150.000       1.533.969          796.834
+      2021      4.966.188           3.763.077              67.149             464.838        2.070.194             -          1.481.109          808.477
+      2022      5.023.932           4.338.481              63.434             715.544        2.642.937          30.000        1.406.285          813.980
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                                                             Liquidació pressupost despeses valor relatiu
+
+
+
+
+                                                2015                2016           2017           2018          2019          2020          2021           2022
+   1. Despeses de personal                          36%             34%             38%            36%          33%           38%           36%            33%
+   2. Consum de béns corrents i serveis             27%             22%             31%            29%          29%           26%           28%            29%
+   3. Despeses financeres                           2%               1%             1%             1%            1%           1%            1%             1%
+   4. Transferències corrents                       12%              3%             3%             3%            3%           3%            3%             5%
+   6. Inversions reals                              11%              2%             7%             9%           11%           13%           15%            18%
+   7. Transferències de capital                     4%               0%             0%             0%            2%           1%            0%             0%
+   8. Actius financers                              2%              32%             13%            16%          15%           12%           11%            9%
+   9. Passius financers                             6%               6%             7%             6%            6%           6%            6%             5%
+
+Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+Resultat pressupostari i romanent de tresoreria
+Es presenta a continuació l’evolució del resultat pressupostari:
+                Descripció                        2015                2016           2017            2018          2019          2020          2021            2022
+  Total ingressos liquidats                    12.548.739           13.327.010     13.056.125      14.004.176    14.992.846    14.236.922    14.528.724      17.004.577
+  Total despeses liquidades                    12.384.878           12.977.514     11.411.562      12.277.765    13.922.865    12.881.651    13.621.032      15.034.593
+  Resultat pressupostari                           163.861             349.496      1.644.563       1.726.411     1.069.981     1.355.271       907.692       1.969.984
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                               51
+La variació i evolució del romanent de tresoreria considerant, en cas que n’hi hagi,
+aquelles incidències més significatives detectades i indicades en els corresponents
+informes de fiscalització presenta el següent detall:
+                                                   RT Ajustat      RT Ajustat      RT Ajustat     RT Ajustat      RT Ajustat     RT Ajustat    RT Ajustat     RT Ajustat
+                   Descripció
+                                                      2015            2016            2017           2018            2019           2020          2021           2022
+  1. (+) Drets pendents de cobrament                 1.753.871         726.458       1.341.610      1.584.479       1.008.656      1.923.663       844.095      1.400.844
+  2. (-) Obligacions pendents de pagament           -3.317.932      -2.998.288      -1.848.604     -1.277.372      -1.282.565       -609.764    -1.098.500     -1.246.899
+  3. (+) Fons líquids                                  217.353          80.158          96.895        888.736       1.371.626        906.570     3.034.778      4.509.357
+  Romanent de tresoreria total (1-2+3)              -1.346.708      -2.191.672        -410.099      1.195.843       1.097.717      2.220.469     2.780.373      4.663.302
+   I. Romanent de tresoreria afectat                 3.869.798       4.712.895       4.773.533      4.522.234       4.794.736      3.744.541     2.772.043      2.200.430
+  II. Romanent de tresoreria no afectat             -5.216.506      -6.904.567      -5.183.632     -3.326.391      -3.697.019     -1.524.072         8.330      2.462.872
+  Romanent de tresoreria total (1-2+3)=(I+II)       -1.346.708      -2.191.672        -410.099      1.195.843       1.097.717      2.220.469     2.780.373      4.663.302
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                Evolució resultat pressupostari i romanent de tresoreria
+5.000.000
+
+
+
+
+2.500.000
+
+                                                                                                                                          Resultat pressupostari
+
+                                                                                                                                          Romanent de tresoreria ajustat
+         0
+
+
+
+
+-2.500.000
+                 2015           2016           2017              2018        2019            2020          2021           2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                     Evolució romanent de tresoreria no afectat
+ 5.000.000
+
+
+
+
+             0
+
+
+                                                                                                                                      Romanent de tresoreria no afectat
+
+ -5.000.000
+
+
+
+
+-10.000.000
+                  2015          2016           2017          2018           2019          2020          2021           2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                                         Evolució detallada romanent de tresoreria
+ 5.000.000
+
+
+
+
+             0
+                                                                                                                                       Romanent de tresoreria afectat
+
+                                                                                                                                       Romanent de tresoreria no afectat
+
+ -5.000.000                                                                                                                            Romanent de tresoreria total
+
+
+
+
+-10.000.000
+                  2015           2016          2017          2018           2019           2020          2021           2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                                 52
+  Quadre d’endeutament segons la Llei 10/2003 i les seves modificacions posteriors
+  vigents fins al 31/12/2021
+                                                               2015         2016         2017         2018         2019           2020            2021
+    Total base de càlcul                                     11.711.643   12.247.800   12.770.742   13.028.834   13.503.433     14.059.679      14.441.816
+    Endeutament bancari del Comú                             11.665.568   10.479.128    7.724.536    6.802.078    6.013.890      5.217.056       4.408.582
+    Avals atorgats                                            1.108.091    1.052.530    1.062.588    1.001.188      920.391        859.961         833.389
+    Endeutament entitats participades                        10.432.056    8.285.396    8.209.300    7.703.174    6.982.009      7.059.046       7.483.946
+    Endeutament total                                        23.205.715   19.817.054   16.996.424   15.506.440   13.916.290     13.136.063      12.725.917
+    % sobre base de càlcul. Màxim 200%                         198,14%      161,80%      133,09%      119,02%      103,06%         93,43%          88,12%
+    Càrrega financera del Comú                                  930.696      891.280      888.873      875.594      861.061        859.981         860.333
+    Càrrega financera entitats participades                     415.152    1.715.268      459.293      743.724      668.956        669.537         694.906
+    Càrrega financera total                                   1.345.848    2.606.548    1.348.166    1.619.318    1.530.017      1.529.518       1.555.239
+    % sobre base de càlcul. Màxim 20%                           11,49%       21,28%       10,56%       12,43%       11,33%         10,88%          10,77%
+    Endeutament a curt termini del Comú                       2.556.630    2.122.144      141.495       -            -              -               -
+    Endeutament a curt termini entitats participades          3.349.642    2.647.865    2.837.941    2.834.772    2.574.731      3.124.719       1.857.841
+    Endeutament a curt termini                                5.906.272    4.770.009    2.979.436    2.834.772    2.574.731      3.124.719       1.857.841
+    % sobre base de càlcul. Màxim 40%                           50,43%       38,95%       23,33%       21,76%       19,07%         22,22%          12,86%
+  Font: Elaboració pròpia a partir d’informació del Comú
+  (Imports en euros)
+
+
+
+
+                                                           Endeutament total
+  220%
+
+  200%
+
+  180%
+                                                                                                                               Endeutament total
+                                                                                                                               (Imports disposats)
+  160%
+                                                                                                                               Endeutament total
+  140%                                                                                                                         (Imports formalitzats)
+
+                                                                                                                               Màxim 200% segons LFC
+  120%
+
+  100%
+
+   80%
+                2015             2016             2017         2018          2019          2020          2021
+
+  Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+                                                            Càrrega financera
+     25%
+
+
+
+
+     20%
+
+                                                                                                                                Càrrega financera
+
+                                                                                                                                Màxim 20% segons LFC
+     15%
+
+
+
+
+     10%
+                 2015             2016             2017         2018          2019          2020          2021
+
+Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+                                                  Endeutament a curt termini
+  70%
+
+  60%
+
+  50%
+                                                                                                                              Endeutament a curt termini
+                                                                                                                              (Imports disposats)
+  40%
+                                                                                                                              Endeutament a curt termini
+  30%                                                                                                                         (Imports formalitzats)
+
+                                                                                                                              Màxim 40% segons LFC
+  20%
+
+  10%
+
+   0%
+              2015             2016             2017          2018          2019         2020          2021
+
+  Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+  Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                    53
+Quadre d'endeutament segons Llei 36/2021 vigent a partir de l'1/01/2022
+                                                                       2021 (*)               2022
+ Total base de càlcul                                                    14.441.816           14.594.301
+
+ Endeutament bancari del Comú                                             4.408.582             3.594.601
+ Avals atorgats                                                             833.389             3.318.608
+ Endeutament entitats participades                                        7.483.946             4.412.959
+ Endeutament total                                                       12.725.917            11.326.168
+ % sobre base de càlcul. Màxim 200%                                         88,12%                77,61%
+  Endeutament a curt termini del Comú                                       -                    -
+  Endeutament a curt termini entitats participades                          1.857.841              437.800
+  Endeutament a curt termini                                                1.857.841              437.800
+  % sobre base de càlcul. Màxim 40%                                           12,86%                3,00%
+(*) S’han agafat les dades de l’exercici 2021 pel que fa al càlcul d’endeutament total i endeutament a curt
+termini per tal de fer els gràfics més visuals
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+                           Endeutament total
+  200%
+
+
+
+  160%
+
+
+                                                                                  Endeutament total
+                                                                                  (Imports disposats)
+  120%
+                                                                                  Màxim 200% segons
+                                                                                  LFC
+
+   80%
+
+
+
+   40%
+                      2021                         2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+                Endeutament a curt termini
+  40%
+
+
+
+  30%
+
+                                                                               Endeutament a curt
+                                                                               termini
+  20%                                                                          (Imports disposats)
+
+                                                                               Màxim 40% segons LFC
+
+
+  10%
+
+
+
+   0%
+                    2021                        2022
+
+Font: Elaboració pròpia a partir d’informació del Comú
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                         54
+Indicadors i ratis
+                                                                                                                 Exercici   Exercici   Exercici   Exercici      Exercici
+                Indicadors pressupostaris
+                                                                                                                  2018       2019       2020       2021          2022
+         Grau de modificacions del pressupost                           Modificacions del pressupost
+   (La proximitat al 0% mostra una menor necessitat de         =                                                  44,2%      14,7%      18,1%      14,0%         11,6%
+        modificar les previsions inicials estimades)                         Previsions inicials
+
+               Grau de liquidació de drets
+  (Mostra el grau de realització dels ingressos previstos.                      Drets liquidats
+                                                               =                                                 109,9%      75,6%      94,0%      94,7%         97,2%
+     La proximitat al 100% indica una bona previsió                   Previsions definitives d'ingressos -
+                       d'ingressos)                                Incorporació del romanent de tresoreria
+            Grau de liquidació d'obligacions                               Obligacions liquidades
+ (Mostra el grau de realització de les despeses previstes.     =                                                  66,8%      61,2%      72,1%      77,9%         77,6%
+               No hauria d'excedir el 100%)                          Previsions definitives de despeses
+
+     % que representen les despeses de personal
+  (% que representen les despeses de personal sobre el                 Obligacions liquidades capítol 1
+  total de despeses de l'exercici. Caldria considerar que      =                                                  35,6%      33,5%      38,5%      36,5%         33,4%
+    un valor superior al 40% podria ser indicatiu d'una                 Obligacions liquidades totals
+   possible estructura de personal sobredimensionada)
+
+      % que representen les despeses corrents
+   (% que representen les despeses en béns corrents i                  Obligacions liquidades capítol 2
+                                                               =                                                  29,1%      28,9%      25,9%      27,6%         28,9%
+     serveis de titularitat de l'entitat sobre el total de              Obligacions liquidades totals
+                  despeses de l'exercici)
+  % que representen les despeses per transferències                    Obligacions liquidades capítol 4
+                                                               =                                                  3,3%       3,4%       3,1%        3,4%          4,8%
+                      corrents                                          Obligacions liquidades totals
+                      Esforç inversor
+     (% de despeses que corresponen a la realització
+  d'inversions en l'exercici. La realització d'inversions es           Obligacions liquidades capítol 6
+                                                               =                                                  8,7%       10,6%      12,6%      15,2%         17,6%
+       troba relacionada amb l'adquisició, ampliació,                   Obligacions liquidades totals
+  conservació o millora de les infraestructures i béns de
+                           capital)
+                                                                    (Drets liquidats operacions corrents -
+                         Estalvi brut                                Obligacions liquidades operacions
+  (El seu valor ha de ser positiu. Capacitat dels ingressos                        corrents)
+         corrents per finançar despeses de capital)            =                                                  32,9%      31,6%      31,7%      30,4%         34,5%
+                                                                     Drets liquidats operacions corrents
+                         Estalvi net                                (Drets liquidats operacions corrents -
+  (El seu valor ha de ser positiu. Un valor negatiu indica           Obligacions liquidades operacions
+  que no es disposa de recursos corrents suficients per                 corrents - Passius financers)
+                                                               =                                                  26,7%      25,8%      25,5%      24,3%         29,2%
+        finançar l'amortització del deute formalitzat)               Drets liquidats operacions corrents
+                        Autonomia                                   Drets liquidats totals - Transferències
+      (Capacitat de finançament sense transferències           =                                                  42,0%      42,5%      44,3%      50,7%         51,5%
+           externes. No inclosos capítols 4 i 7)                             Drets liquidats totals
+
+                     Autonomia fiscal                                Drets liquidats tributs (cap. 1, 2 i 3)
+                                                               =                                                  41,7%      42,2%      43,9%      50,0%         50,9%
+    (Capacitat de finançament amb els tributs liquidats)                     Drets liquidats totals
+                                                                                                                 Exercici   Exercici   Exercici   Exercici      Exercici
+                    Ratis per habitants
+                                                                                                                  2018       2019       2020       2021          2022
+              Població: nombre d'habitants                            Segons departament d'Estadística            9.923      9.767      9.842      9.965         10.112
+                                                                     Drets liquidats tributs (cap. 1, 2 i 3)
+            Ingressos tributaris per habitant                  =                                                   588        647        635        730           855
+                                                                                   Població
+                                                                          Obligacions reconegudes
+                  Despeses per habitant                        =                                                  1.237      1.426      1.309      1.367         1.487
+                                                                                  Població
+              Endeutament per habitant (**)                                   Endeutament total
+                                                               =                                                  1.563      1.425      1.335      1.277         1.120
+             (Comú més entitats participades)                                     Població
+           Càrrega financera per habitant (**)                             Despesa financera total
+                                                               =                                                   34         29         26          24            16
+            (Comú més entitats participades)                                     Població
+                                                                                                                 Exercici   Exercici   Exercici   Exercici      Exercici
+                    Ratis de liquiditat
+                                                                                                                 2018 (*)   2019 (*)    2020       2021          2022
+                   Fons de maniobra
+                                                               =        Actiu corrent - Passiu corrent           -670.565   -87.682    895.038    1.189.008     3.611.849
+               (Hauria de tenir valor positiu)
+                      Rati de liquiditat                                         Actiu corrent
+                                                               =                                                  73,9%      96,6%     143,9%      142,2%        221,4%
+     (El valor hauria de fluctuar entre el 150% i 200%)                         Passiu corrent
+                    Rati de tresoreria                             Efectiu i altres actius líquids equivalents
+                                                               =                                                  34,6%      52,8%      44,5%      107,8%        151,6%
+                  (Valor pròxim al 100%)                                          Passiu corrent
+(*) Els estats financers estan basats en el Pla general de comptabilitat pública (PGCP)
+(**) A partir de l’exercici 2022, calculats segons disposa la Llei 36/2021
+Font: Elaboració pròpia a partir d’informació del Comú
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                                                                                      55
+3. OBSERVACIONS I RECOMANACIONS
+Relatives a la comptabilitat pública
+
+       - El Romanent de tresoreria retut inclou pendents de cobrament i pendents de
+         pagament que, en correspondre a operacions pendents de liquidar, no formen
+         part del mateix. D’aquestes operacions el Romanent de tresoreria no afectat i
+         el romanent de tresoreria estarien infravalorats en 136.592 euros (nota 2.4)
+
+Relatives a l’endeutament
+
+       - L’endeutament que mostra el Comú recollit en el seu quadre d’endeutament,
+         és inferior en 2.616.418 euros en relació al que resultaria d’aplicar els
+         conceptes previstos a la LFC. (nota 2.3.12)
+
+Altres observacions
+
+       - A la data del nostre informe, un dels advocats circularitzats no ha respost a la
+         nostra sol·licitud d’informació, pel que desconeixem l’existència de possibles
+         litigis no aprovisionats. (nota 1.5)
+
+4. OBSERVACIONS I RECOMANACIONS D’ANYS ANTERIORS
+
+Les observacions i recomanacions formulades en exercicis anteriors, que deriven de
+fets que segueixen pendents o de pràctiques que s’han mantingut en aquest exercici,
+amb les corresponents matisacions o actualitzacions en el cas que n’hi hagi, es
+recullen a continuació:
+
+Relatives a la comptabilitat pública
+
+       - El Comú incorpora al pressupost de l’exercici consignacions pressupostàries
+         d’exercicis anteriors corresponents a crèdits per a finançar compromisos de
+         despesa reconduïts, que ascendeixen a un import de 1.882.930 euros, sense
+         disposar d’un finançament específic la qual cosa ha provocat un dèficit de
+         finançament a les previsions pressupostàries pel referit import, al principi
+         d’estabilitat pressupostària que regula l’article 5 del DLTRLSEPF i l’article 77.4
+         de la LFC. (nota 2.1.2)
+       - La valoració de les accions que l’entitat comunal té de la SOCIETAT
+         EXPLOTADORA DEL CAMP DE NEU DE LA RABASSA, SA, així com la
+         capacitat de recuperar els préstecs i avals que li ha concedit, està
+         condicionada per la incertesa significativa sobre la capacitat de la societat per
+         continuar amb les seves operacions, la qual vindrà determinada pel
+         compliment del pla de negoci que la societat ha elaborat i pel recolzament
+         financer que pugui rebre de l’entitat comunal com a soci majoritari. En aquest
+         sentit cal indicar que la societat ha presentat en els darrers exercicis resultats
+         negatius, presentant un fons de maniobra negatiu de 2 milions d’euros a 31
+         de desembre de 2022 i de 9 milions d’euros a 31 de desembre de 2021, i
+         l’activitat d’explotació no ha generat recursos suficients per fer front a les
+         obligacions que li han vençut en l’exercici revisat, fets que podrien qüestionar
+         la seva viabilitat futura o condicionar-la al suport del Comú. (nota 2.3.5)
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    56
+Relatives a la contractació pública
+
+       - S’han prorrogat contractes de serveis, per un termini superior al màxim que
+         estableix l’article 114.5 de la LCP (nota 2.5)
+       - El Comú no disposa de mecanismes eficaços per a verificar la legitimitat dels
+         licitadors per a contractar amb l’Administració. Igualment, pels integrants de
+         l’òrgan de contractació, s’haurien d’implantar procediments que garanteixin
+         que no es donen els supòsits previstos a l’article 115 del Codi de
+         l’Administració i els relatius als delictes contra la funció pública regulats a la
+         Llei qualificada del Codi Penal en allò que afecten la legitimació per a
+         contractar. (nota 2.5)
+
+Altres observacions
+
+       - No s’han rebut les auditories a la conclusió del mandat polític 2016-2019 del
+         Comú, contravenint l’article 8.4 del DLTRLSEPF. (nota 2.6)
+       - El Comú no disposa, de forma generalitzada, d’eines (indicadors) per conèixer
+         amb suficient detall el cost dels serveis que presten i l’assoliment dels
+         objectius previstos. Es recomana la implantació d’un sistema d’informació
+         economicofinancera de gestió i eficàcia, que permeti la verificació no tan sols
+         dels comptes, sinó també de la gestió i del compliment dels objectius, i que
+         permeti informar i avaluar els programes d’actuació relacionats amb els
+         serveis que es prestin als ciutadans. (nota 2.7)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                    57
+5. CONCLUSIONS
+De les verificacions efectuades d’acord amb procediments d’auditoria es desprèn que,
+excepte per les conseqüències que es deriven de les observacions contingudes en els
+apartats 3 i 4, i subjecte a les limitacions esmentades a la nota 1.5, els comptes anuals
+sotmesos a fiscalització expressen, en tots els aspectes significatius, la imatge fidel
+del patrimoni i de la situació financera del Comú de Sant Julià de Lòria a 31 de
+desembre de 2022, dels resultats de les seves operacions i dels recursos obtinguts i
+aplicats, i de l’execució del pressupost d’ingressos i despeses corresponents a
+l’exercici anual acabat en la mateixa data i contenen, juntament amb la memòria que
+els acompanya, la informació necessària i suficient per a la seva interpretació i
+comprensió adequada, de conformitat amb els principis i normes comptables
+generalment acceptats recollits al DLTRLGFP, a la LFC i les NICSP, i guarden
+uniformitat amb els aplicats en l’exercici anterior.
+
+També es desprèn que, excepte pels aspectes descrits en el cos de l’informe, el Comú
+ha complert de forma raonable amb la legislació bàsica relativa a l'administració i
+control dels fons públics que li és aplicable per l’exercici anual acabat el 31 de
+desembre de 2022.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                  58
+6. ESTATS CONSOLIDATS DEL COMÚ DE SANT JULIÀ DE LÒRIA I
+ENTITATS DEPENDENTS
+Es transcriuen a continuació la liquidació pressupostària consolidada, la conciliació
+entre el resultat pressupostari i resultat comptable de l’exercici tancat a 31 de
+desembre de 2022, el romanent de tresoreria consolidat a 31 de desembre de 2022,
+el compte de tresoreria consolidat a 31 de desembre de 2022, el compte
+d’endeutament consolidat a 31 de desembre de 2022, l’estat de situació financera
+consolidat a 31 de desembre de 2022, l’estat de rendiment financer consolidat de
+l’exercici acabat a 31 de desembre de 2022, l’estat de canvis en els actius
+nets/patrimoni consolidat per a l’exercici acabat a 31 de desembre de 2022, i l’estat
+de fluxos d’efectiu consolidat a 31 de desembre de 2022, tramesos pel Comú de Sant
+Julià de Lòria al Tribunal de Comptes. Sobre aquests, no s’han realitzat treballs
+complementaris de fiscalització, al no ser objecte de l’abast dels treballs realitzats;
+adjuntant-se merament a títol informatiu.
+
+El Comú informa que les entitats dependents consolidades pel mètode d’integració
+global s’enumeren en la següent taula:
+
+                                                       Percentatge          Firma
+      Societat participada              Sector
+                                                       participació      d'auditoria
+Escola Bressol Laurèdia, SAU          Llar d’infants         100%          Gaudit
+                                    Explotació camps
+CAMPRABASSA, SA                                             90,73%      OCPS auditors
+                                         de neu
+SASECTUR, SAU                        Centre esportiu         100%          Gaudit
+Font: Comú de Sant Julià de Lòria
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                   59
+Comú de Sant Julià de Lòria i entitats dependents
+Liquidació pressupostària consolidada
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   60
+Comú de Sant Julià de Lòria i entitats dependents
+Liquidació pressupostària consolidada
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   61
+Comú de Sant Julià de Lòria i entitats dependents
+Liquidació pressupostària consolidada
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   62
+Comú de Sant Julià de Lòria i entitats dependents
+Liquidació pressupostària consolidada
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   63
+Comú de Sant Julià de Lòria i entitats dependents
+Conciliació entre el resultat pressupostari i el resultat comptable de l’exercici
+tancat el 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022               64
+Comú de Sant Julià de Lòria i entitats dependents
+Romanent de tresoreria consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Comú de Sant Julià de Lòria i entitats dependents
+Compte de tresoreria consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   65
+Comú de Sant Julià de Lòria i entitats dependents
+Compte de endeutament consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   66
+Comú de Sant Julià de Lòria i entitats dependents
+Estat de situació financera consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   67
+Comú de Sant Julià de Lòria i entitats dependents
+Estat de rendiment financer consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   68
+Comú de Sant Julià de Lòria i entitats dependents
+Estat de canvis en els actius nets/patrimoni consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022              69
+Comú de Sant Julià de Lòria i entitats dependents
+Estat de fluxos d’efectiu consolidat a 31 de desembre de 2022
+(imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   70
+7. ENTITATS PÚBLIQUES COMUNALS
+
+7.1. Escola Bressol Laurèdia, SAU
+Es transcriu a continuació l’informe d’auditoria sobre els estats financers de l’ESCOLA
+BRESSOL LAURÈDIA, SAU, tramès al Tribunal de Comptes per part del Comú de
+Sant Julià de Lòria, així com el balanç abreujat, el compte de pèrdues i guanys
+abreujat, i l’estat de canvis del patrimoni net abreujat de l’entitat.
+
+Aquest informe ha estat objecte de fiscalització complementària per part del Tribunal
+sense que d’aquests treballs hagi resultat cap observació que modifiqui les
+conclusions que s’hi contenen.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                71
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   72
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   73
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   74
+ESCOLA BRESSOL LAURÈDIA, SAU
+Balanç abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   75
+ESCOLA BRESSOL LAURÈDIA, SAU
+Compte de pèrdues i guanys abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   76
+ESCOLA BRESSOL LAURÈDIA, SAU
+Estat de canvis del patrimoni net abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   77
+7.2. Societat Explotadora del Camp de Neu de la Rabassa, SA
+     (CAMPRABASSA, SA)
+
+Es transcriu a continuació l’informe d’auditoria sobre els estats financers de
+CAMPRABASSA, SA, tramès al Tribunal de Comptes per part del Comú de Sant Julià
+de Lòria, així com el balanç, el compte de pèrdues i guanys, l’estat de canvis del
+patrimoni net i l’estat de fluxos d’efectiu de l’entitat.
+
+Aquest informe ha estat objecte de fiscalització complementària sense que d’aquests
+treballs n’hagi resultat cap observació que modifiqui les conclusions que s’hi contenen.
+
+El Tribunal remarca que, tal com s’indica en l’informe del Comú, la societat ha
+presentat en els darrers exercicis resultats negatius, i presenta un fons de maniobra
+negatiu de 2 milions d’euros i l’activitat d’explotació no ha generat recursos suficients
+per cobrir les obligacions que li han vençut en l’exercici revisat, fets que podrien
+qüestionar la seva viabilitat futura; viabilitat que està supeditada a l’acompliment de
+les previsions contingudes en el pla de negoci i al suport dels seus accionistes.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                  78
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   79
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   80
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   81
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   82
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   83
+CAMPRABASSA, SA
+Balanç
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   84
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   85
+CAMPRABASSA, SA
+Compte de pèrdues i guanys
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   86
+CAMPRABASSA, SA
+Estat de canvis del patrimoni net
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   87
+CAMPRABASSA, SA
+Estat de fluxos d’efectiu
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   88
+7.3. Societat d’Activitats Socials, Esportives, Culturals i Turístiques
+     de Sant Julià de Lòria, SAU (SASECTUR, SAU)
+
+Es transcriu a continuació l’informe d’auditoria sobre els estats financers de
+SASECTUR, SAU, tramès al Tribunal de Comptes per part del Comú de Sant Julià de
+Lòria, així com el balanç abreujat, el compte de pèrdues i guanys abreujat, i l’estat de
+canvis del patrimoni net abreujat de l’entitat.
+
+Aquest informe ha estat objecte de fiscalització complementària per part del Tribunal
+sense que d’aquests treballs hagi resultat cap observació que modifiqui les
+conclusions que s’hi contenen.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                 89
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   90
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   91
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   92
+SASECTUR, SAU
+Balanç abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   93
+SASECTUR, SAU
+Compte de pèrdues i guanys abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   94
+SASECTUR, SAU
+Estat de canvis del patrimoni net abreujat
+(Imports en euros)
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   95
+8. AL·LEGACIONS
+
+D’acord amb allò que preveuen els articles 3 i 10 de la Llei del Tribunal de Comptes
+es tramet al Comú de Sant Julià de Lòria el present informe per tal que pugui presentar
+les al·legacions que consideri oportunes.
+
+Es reprodueix a continuació la resposta rebuda:
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022                96
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   97
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   98
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   99
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   100
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   101
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022   102
+9. OBSERVACIONS COMPLEMENTÀRIES
+El Tribunal de Comptes ha analitzat les al·legacions presentades i entén que no
+modifiquen els plantejaments evocats en el cos de l’informe, ni aporten cap informació
+complementària que permeti modificar les observacions i conclusions a les quals ha
+arribat el Tribunal després de l’examen de la documentació aportada durant els treballs
+de camp.
+
+
+
+
+Informe de fiscalització del Comú de Sant Julià de Lòria a 31/12/2022               103
+
