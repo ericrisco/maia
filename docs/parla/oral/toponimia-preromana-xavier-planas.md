@@ -259,3 +259,4 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
 5. **De la persona no consta** ni parròquia, ni generació, ni origen.
 6. **El contracte no té camp per a «contingut no citable».** S'ha resolt amb una
    etiqueta, que és una convenció d'aquesta branca i **no una regla validada**.
+   **`no-es-buit`**: és una nota del contracte, no una pregunta de recerca.
