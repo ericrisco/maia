@@ -127,7 +127,7 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
 3. **Ventura Armengol «de ca l'Orelleta»** — qui era. **Bessó amb**
    [el cas Amades](../../historia/historiografia/el-cas-amades.md#el-que-falta),
    **cercat sense èxit el 18-09-2026.**
-4. **El Sr. Pantebre** de l'Agrupació sardanista de les Valls. — **`parcial`
+4. ~~**El Sr. Pantebre** de l'Agrupació sardanista de les Valls.~~ — **`parcial`
    el 18-09-2026, bessó amb** [escacs](../../esports/escacs/README.md#el-que-falta):
    **hi ha un Benet Pantebre Martínez identificat** (escacs, cònsol d'Andorra
    la Vella, 1929), **la seva biografia no esmenta música**, i **el corpus no

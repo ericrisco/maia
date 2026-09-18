@@ -238,7 +238,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 - **Què va passar als detinguts** del segrest.
 - **El Cadí**, la revista de FHASA.
 - **Qui era Weillemann** i què hi pintava a La Nova Andorra.
-- **Quan apareix la primera impremta** a Andorra, exactament. — **`parcial`
+- ~~**Quan apareix la primera impremta** a Andorra, exactament.~~ — **`parcial`
   el 18-09-2026**: **la primera editorial amb impremta i tallers gràfics
   propis és Casal i Vall, fundada el 1956** pels germans **Jaume, Joan i
   Narcís Casal i Vall**
