@@ -113,10 +113,62 @@ del 2022.** **I el nombre de declarants d'IRPF gairebé es dobla** —de 15.374 
 29.154 en nou anys—, **el mateix període en què l'impost sobre la renda passa
 del 3,3% al 7,2% del PIB.**
 
+## La cronologia normativa del salt
+
+> **Escrita el 18-09-2026** creuant **les dates de publicació al
+> [BOPA](../../../fonts/bopa.md)** amb **la sèrie de pressió fiscal per
+> categoria de l'API** (`docs/raw/estadistica-api/fiscalitat/`).
+
+| Norma | Aprovada | BOPA |
+| --- | --- | --- |
+| **Llei 27/2008, d'impostos especials** | 20-11-2008 | núm. **94 del 2008**, 23-12-2008 |
+| **Llei 94/2010, de l'impost sobre la renda dels no-residents fiscals** | 29-12-2010 | núm. **5 del 2011**, 25-01-2011 |
+| **Llei 95/2010, de l'impost sobre societats** | 29-12-2010 | núm. **5 del 2011**, 25-01-2011 |
+| **Llei 11/2012, de l'impost general indirecte** | 21-06-2012 | núm. **33 del 2012**, 17-07-2012 |
+| **Llei 5/2014, de l'impost sobre la renda de les persones físiques** | 24-04-2014 | núm. **30 del 2014**, 20-05-2014 |
+| Llei 21/2014, de bases de l'ordenament tributari | 2014 | |
+| Llei 19/2016, d'intercanvi d'informació fiscal | 2016 | |
+
+**I la sèrie hi encaixa on s'esperaria, categoria per categoria.**
+
+**Els impostos sobre la renda** (D51), **en percentatge del PIB**:
+
+| 2010 | 2011 | **2012** | 2013 | **2014** | 2015 |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 0,6 | 0,8 | **2,0** | 2,1 | **3,2** | 3,3 |
+
+**Dos graons i no un.** **El primer és del 2012**, l'any següent a la publicació
+de societats i de no-residents; **el segon és del 2014**, l'any de l'IRPF.
+**De 0,8 a 3,3 punts de PIB en quatre anys.**
+
+**I la imposició indirecta fa el contrari.** **Les taxes tipus IVA** (D211),
+**en percentatge del PIB**:
+
+| 2011 | **2012** | **2013** | 2014 |
+| ---: | ---: | ---: | ---: |
+| 5,1 | **5,5** | **4,6** | 5,0 |
+
+**L'any que entra l'IGI, la pressió indirecta baixa nou dècimes.** **El país no
+va afegir un impost al consum: en va substituir el sistema, i el va substituir
+per un de menys recaptador en proporció al PIB durant els primers anys.**
+
+> **Precaució, i és la que decideix què es pot dir aquí.** **El corpus ha
+> comprovat les dates de publicació al BOPA i els valors de la sèrie; no ha
+> comprovat les dates d'entrada en vigor ni els primers períodes impositius de
+> cada llei**, que són a disposicions finals i transitòries que aquesta lectura
+> no ha buidat. **L'encaix entre les dues columnes és, doncs, coincidència
+> temporal documentada, no causalitat demostrada.** `El que tancaria del tot
+> aquest punt són les disposicions finals de les quatre lleis.`
+
 ## Buits registrats
 
-- **La cronologia normativa que hi ha al darrere del salt del 2012.** El corpus
-  té la corba i **no té quina llei entra en vigor cada any.** `pregunta_oberta`
+- ~~**La cronologia normativa que hi ha al darrere del salt del 2012.** El
+  corpus té la corba i **no té quina llei entra en vigor cada any.**~~ —
+  **`resolt` el 18-09-2026 pel que fa a la cronologia**, vegeu
+  [la cronologia normativa del salt](#la-cronologia-normativa-del-salt).
+  `El que segueix sense comprovar-se són les dates d'entrada en vigor i els
+  primers períodes impositius, que són a les disposicions finals de cada
+  llei.`
 - **Les columnes del 2022 i del 2023 de la taula COFOG són idèntiques valor a
   valor**, cèntims inclosos. **És el 2022 repetit**, i **el corpus no cita el
   2023 d'aquesta taula.** **Defecte de la font**, registrat a
