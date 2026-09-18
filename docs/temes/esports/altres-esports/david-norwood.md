@@ -101,7 +101,8 @@ declarades, no com a comprovades.**
 - ~~**Si viu a Andorra.**~~ — **`obert`, confirmat**: **el bolcat no en diu la
   residència.** **Va néixer a Farnworth, prop de Bolton, Lancashire, el 3
   d'octubre del 1968.**
-- **El que el bolcat sí que dona, i explica per què aquesta fitxa és rara**:
+- **Nota `no-es-buit`** — **el que el bolcat sí que dona, i explica per què
+  aquesta fitxa és rara**:
   **Mestre Internacional el 1985 i Gran Mestre el 1989**, **elo màxim 2.545 el
   juliol del 1994**, **excapità de la selecció anglesa**; **llicenciat en
   història per Keble College, Oxford, el 1988** i **banquer a Bankers Trust des

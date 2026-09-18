@@ -56,7 +56,8 @@ amb [Tomás Cano](./tomas-cano.md).
   2012-13 «la seva primera temporada»** —**una data que no encaixa amb el
   fitxatge del 2013 i que el corpus registra sense arbitrar-la.**
   `Divergència interna de la font, registrada.`
-- **I el fet d'aquesta fitxa que el corpus no tenia i que val per a tota la
+- **Nota `no-es-buit`** — **el fet d'aquesta fitxa que el corpus no tenia i que
+  val per a tota la
   branca de seleccions**: **David Navarro va poder jugar amb la selecció
   andorrana després de viure quatre anys al país**, **per una norma especial
   d'elegibilitat de la FIBA Europa per a països petits**, i **hi va debutar el

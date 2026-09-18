@@ -65,7 +65,8 @@ d'Andorra.
 - ~~**El seu pare, Xavier Cardelús Maestre**: quan va córrer i on. **Buit
   registrat.** ~~— **`obert`, confirmat**: **el bolcat el nomena i el qualifica
   d'«antic pilot de motociclisme», i prou.**
-- **I la carrera sencera, que el corpus tenia a mitges**: **Campionat d'Europa
+- **Nota `no-es-buit`** — **la carrera sencera, que el corpus tenia a mitges**:
+  **Campionat d'Europa
   FIM CEV de Moto2 des del 2015**; **Mundial de Supersport el 2017 amb el Race
   Department ATK#25**; **Moto2 el 2018 (Stylobike i Marinelli Snipers), el 2019
   amb el Sama Qatar Ángel Nieto Team —companys d'equip Jake Dixon, motos amb

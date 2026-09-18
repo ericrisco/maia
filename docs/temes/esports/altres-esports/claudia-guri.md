@@ -61,7 +61,8 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   **el camp de l'infobox és inutilitzable, però la primera frase del text ho
   diu**: **«nascuda l'1 de maig del 1995 a Escaldes»**. **El corpus s'havia
   quedat a l'infobox.**
-- **I les seves marques personals senceres, que el corpus no tenia**, i que
+- **Nota `no-es-buit`** — **les seves marques personals senceres, que el corpus
+  no tenia**, i que
   **retraten una atleta combinada, no una saltadora:**
 
   | A l'aire lliure | | En pista coberta | |

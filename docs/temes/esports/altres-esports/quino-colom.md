@@ -92,7 +92,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   temporades a la Lliga ACB**, **capità del Bàsquet Girona després de la
   retirada de Marc Gasol.** **Va néixer a Andorra la Vella l'1 de novembre del
   1988.**
-- **I els reconeixements que la fitxa no tenia**: **millor sisè home de la VTB
+- **Nota `no-es-buit`** — **els reconeixements que la fitxa no tenia**: **millor
+  sisè home de la VTB
   United League la temporada 2015-16** i **primer equip ideal de l'EuroCup el
   2018**, **tots dos amb l'UNICS Kazan.**
 - ~~**El BC Andorra**, sencer.~~ `resolt`: [el BC Andorra](./bc-andorra.md).

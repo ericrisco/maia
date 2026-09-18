@@ -82,7 +82,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   **El bolcat hi afegeix una cosa que explica la seva especialitat**: **era
   esquiador i no va començar a competir en ciclisme fins al 2008**, **als
   vint-i-quatre anys.**
-- **I un parentiu que el corpus tenia mig escrit**: **els seus germans
+- **Nota `no-es-buit`** — **un parentiu que el corpus tenia mig escrit**: **els
+  seus germans
   [Ludovic](./ludovic-albos.md) i Joan Albós Cavaliere són esquiadors de
   muntanya de competició.** **Tres germans, tres esports de resistència, una
   sola casa.**

@@ -103,7 +103,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   trampolins suïssos i espanyols** i **competia a la Molina, a Catalunya.**
   **Un país amb rècord nacional de salt d'esquí i cap trampolí documentat.**
   `deducció del corpus per absència, no verificada.`
-- **I la carrera espanyola, que la fitxa no tenia**: **primer espanyol que va
+- **Nota `no-es-buit`** — **la carrera espanyola, que la fitxa no tenia**: **primer
+  espanyol que va
   competir al Torneig dels Quatre Trampolins** (1978-79); **campió d'Espanya
   cap al 1978-79** i **campió de Catalunya el 1981**; **rècord d'Espanya amb
   85 m a Oberstdorf el desembre del 1979**; **millor resultat de Copa del Món,
