@@ -125,9 +125,11 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
    mateixa «Federació andorrana motociclista» que apareix entre les
    federacions no olímpiques del
    [Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md).
-3. **Els pilots.** **Deu noms i cap fitxa**: Santiago Llorens, Daniel Estragués,
+3. ~~**Els pilots.** **Deu noms i cap fitxa**: Santiago Llorens, Daniel Estragués,
    Xavier Casas, Albert Cabanes, Francesc Recio, Marcel Albós, Pere Martí,
-   Oriol Pi, Jordi Lestang i Gaudí Vall.
+   Oriol Pi, Jordi Lestang i Gaudí Vall.~~ **`parcial`:** aquesta fitxa ja
+   identifica els deu pilots, els anys de títol i el recompte del palmarès;
+   encara no hi ha fitxa biogràfica pròpia de cap d'ells.
 4. ~~**Si el campionat és només de trial o si la FMA en té d'altres**
    —velocitat, enduro, motocròs.~~ — **`resolt` el 18-09-2026, veure el
    punt 2**: **enducross, enduro sobre gel i supermoto**, a més del trial —
