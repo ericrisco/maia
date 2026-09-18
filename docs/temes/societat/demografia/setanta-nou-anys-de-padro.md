@@ -209,7 +209,11 @@ quartes parts del creixement eren migració**
 
 ## Buits registrats
 
-- **Per què cauen 6.900 persones del padró el 2011.**
+- **Per què cauen 6.900 persones del padró el 2011.** **Buit parcialment
+  acotat**: la sèrie situa la caiguda entre **85.015 habitants el 2010 i
+  76.098 el 2013**, amb **−6.900 en un sol any**, i el corpus observa que una
+  depuració del padró és compatible amb el salt del 8,1%; **la font no explica
+  la causa i no es pot donar per provada**.
 - ~~**Si la sèrie de naixements i defuncions canvia de mètode el 1997**, quan
   passa dels capellans al registre civil.~~ — **`resolt` el 18-09-2026: la
   sèrie publicada no ho recull.** **És una sola sèrie contínua del 1953 al
