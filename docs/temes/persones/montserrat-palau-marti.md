@@ -115,7 +115,13 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
   Biblioteca Nacional d'Andorra ([font](../../fonts/aepa-escriptorsand.md)).
   **La pàgina actual de l'entitat no confirma que Palau i Martí en fos
   membre fundadora** — ella tenia ja més de setanta anys aquell any.
-  **La Nit Literària Andorrana segueix sense fitxa.**
+  ~~**La Nit Literària Andorrana segueix sense fitxa.**~~ — **`resolt` el
+  18-09-2026**: **46 anys d'història el 2026**, origen cap al **1980**,
+  organitzada pel Cercle. **L'edició del 2025 n'és l'última**: el Cercle
+  ha anunciat que deixa d'organitzar-la —«sobrepassa les capacitats
+  actuals de l'entitat»— i **el Govern confirma que en vol assumir el
+  relleu**
+  ([font](../../fonts/radiovalira-nit-literaria-fi.md)).
 - **Si hi ha relació** amb **Ferran Palau i Martí**, que la font situa al costat
   seu. **El corpus registra la coincidència de cognoms i no afirma parentiu.**
 

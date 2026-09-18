@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **306** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **307** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1905,6 +1905,7 @@
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`radiovalira-nit-literaria-fi`](fonts/radiovalira-nit-literaria-fi.md) | RàdioValira | premsa, drets reservats; citació breu | False |
 | [`reigfundacio-la-fundacio`](fonts/reigfundacio-la-fundacio.md) | Fundació Julià Reig | publicació institucional, sense llicència declarada | pendent |
 | [`riberaygua-biografia-secretari`](fonts/riberaygua-biografia-secretari.md) | El Periòdic d'Andorra · Bondia | premsa, drets reservats; citació breu | False |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
