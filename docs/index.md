@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1032** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1033** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1341,6 +1341,7 @@
 | [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les tres migracions](temes/societat/demografia/les-tres-migracions.md) | `temes/societat/demografia` | compilada | contemporania | no | `armengol-migracions-segle-xix` |
 | [Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md) | `temes/societat/demografia` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
+| [Quaranta-quatre pobles](temes/societat/demografia/quaranta-quatre-pobles.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [Quatre menes de parròquia](temes/societat/demografia/quatre-menes-de-parroquia.md) | `temes/societat/demografia` | compilada | contemporania | no | `ros-pascuet-poblacio-migracions-1989` |
 | [Qui compta com a resident](temes/societat/demografia/qui-compta-com-a-resident.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [Setanta-nou anys de padró](temes/societat/demografia/setanta-nou-anys-de-padro.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
