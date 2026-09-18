@@ -329,7 +329,13 @@ Tres conseqüències pràctiques:
   seva obra, no.
 - ~~Quan i com entra la sardana a Andorra~~ — **tancat**: contacte als anys
   trenta via Barcelona, implantació als quaranta. Vegeu més amunt.
-- **Ventura Armengol** i el **Sr. Pantebre**: qui eren. **Buit registrat.**
+- **Ventura Armengol**: qui era. **Buit registrat**, i **cercat sense èxit el
+  18-09-2026.**
+- ~~**El Sr. Pantebre**: qui era.~~ — **`parcial` el 18-09-2026, bessó amb**
+  [escacs](../../esports/escacs/README.md#el-que-falta): **hi ha un Benet
+  Pantebre Martínez identificat** (escacs, cònsol d'Andorra la Vella, 1929),
+  **però la seva biografia no esmenta música ni sardanes**, i **el corpus no
+  arbitra si és el mateix «Sr. Pantebre» de l'Agrupació sardanista.**
 - La **germandat de la Consòrcia** i el seu àpat — el corpus té el mot
   *consòrcia* al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
   i cap contingut.

@@ -79,23 +79,25 @@ membre de l'Associació Francesa Internacional d'Escacs a més de la FIDE.**
   Porras**, dels quals només hi ha el palmarès. **Bessó**: aquell article
   declara el mateix buit amb el compte — **entre tots sis, onze campionats
   d'Andorra.**
-- **Benet Pantebre**, que va crear l'Obert i el va dirigir divuit anys. —
-  **`obert`, confirmat**, amb **bessó** a
-  [l'Obert internacional](./lobert-internacional.md). **I amb una coincidència
-  que el corpus registra i no resol:**
+- ~~**Benet Pantebre**, que va crear l'Obert i el va dirigir divuit anys.~~ —
+  **`resolt` el 18-09-2026**, amb **bessó** a
+  [l'Obert internacional](./lobert-internacional.md#el-que-falta): **Benet
+  Pantebre Martínez** (Andorra, 1929), cònsol d'Andorra la Vella, comerciant,
+  fundador del Club Escacs Andorra (1975) i de la Federació, Àrbitre
+  Internacional des del 1987, vuit Olimpíades jugades.
 
   | Qui | On | Què hi fa |
   | --- | --- | --- |
-  | **Benet Pantebre** | [L'Obert internacional](./lobert-internacional.md) | **Crea l'Obert el 1983** i **el dirigeix divuit anys** |
+  | **Benet Pantebre Martínez** | [L'Obert internacional](./lobert-internacional.md) | **Crea l'Obert el 1983** i **el dirigeix divuit anys** |
   | **El «Sr. Pantebre»** | [Danses](../../costums/danses/danses.md), citant **Canturri** | **De l'Agrupació sardanista de les Valls**; **hi arriba la primera cobla** del país, **flabiol i tamborí** |
-  | **Pantebre (1997)** | [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) | Autor d'***El parlar d'Andorra***, una de les fonts de base del lèxic andorrà |
+  | **Rosalia Pantebre Trasfí (1997)** | [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) | Autora d'***El parlar d'Andorra***, una de les fonts de base del lèxic andorrà |
 
-  > **Tres Pantebres en tres branques que no es toquen: escacs, sardanes i
-  > dialectologia.** **El corpus no afirma que siguin la mateixa persona ni que
-  > siguin famílies distintes** — **registra que el cognom travessa el corpus
-  > tres vegades i que cap document no els relaciona.** **Si fossin el mateix
-  > home o la mateixa casa, tres buits es tancarien alhora.**
-  > `Requereix font externa: qualsevol nota biogràfica de Benet Pantebre.`
+  > **La biografia de Benet Pantebre no esmenta música ni Rosalia.** **Nom de
+  > pila diferent del de l'autora del glossari** —Rosalia, no Benet—
+  > **suggereix parentiu, no identitat**, i **la Viquipèdia no diu res del
+  > «Sr. Pantebre» de les sardanes.** **El corpus segueix sense arbitrar si
+  > són la mateixa casa.** `Requereix font externa: genealogia o registre
+  > civil.`
 - **Si hi ha lliga andorrana d'escacs**, i el Club Escacs Peona i Peó. —
   **`obert`, confirmat**, amb **bessó literal** a
   [la federació](./la-federacio.md), que el declara amb les mateixes paraules.

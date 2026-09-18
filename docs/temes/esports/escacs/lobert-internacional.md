@@ -129,20 +129,22 @@ federació jugava.`
 
 ## El que falta
 
-- **Qui és Benet Pantebre.** — **`obert`, i ara amb font identificada**: el
-  bolcat cita una **«Ressenya de Benet Pantebre»** al **Butlletí d'Escacs de la
-  Federació Catalana d'Escacs, número 140, octubre del 2009, pàgina 7**.
-  `Requereix aquell butlletí; el buit passa de «sense ruta» a «font externa
-  amb signatura».` — **`obert`, confirmat el 2026-09-13, i amb una
-  pista que el corpus no sabia que tenia**: **el cognom Pantebre surt en dues
-  branques més** —**l'Agrupació sardanista de les Valls**, que porta la primera
-  cobla al país ([danses](../../costums/danses/danses.md)), i **l'autor d'*El
-  parlar d'Andorra* (1997)**
-  ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
-  **El corpus no afirma cap relació**; el quadre és a
-  [escacs](./README.md). **Text original del buit:** **Divuit anys dirigint-lo i
-  el corpus no en té ni
-  una línia.** **Buit.**
+- ~~**Qui és Benet Pantebre.**~~ — **`resolt` el 18-09-2026**: **Benet Pantebre
+  Martínez**, nascut a Andorra el **7 d'agost del 1929**, **cònsol d'Andorra la
+  Vella** i comerciant (**Establiments Pantebre, 1952**). **Comença als escacs
+  el 1964**, **funda el Club Escacs Andorra el 1975** —**president 33
+  anys**—, **cofundador de la Federació d'Escacs de les Valls d'Andorra**,
+  **crea l'Obert el 1983** i **el dirigeix 18 anys**, **Àrbitre Internacional
+  des del 1987**, **vuit Olimpíades jugades**
+  ([font](../../../fonts/wikipedia-ca-benet-pantebre.md)).
+
+  **El cognom Pantebre segueix sortint en dues branques més** —**l'Agrupació
+  sardanista de les Valls** ([danses](../../costums/danses/danses.md)) i
+  **Rosalia Pantebre Trasfí, autora d'*El parlar d'Andorra* (1997)**
+  ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))—
+  **i la Viquipèdia de Benet no en diu res: ni música, ni Rosalia.** **Noms de
+  pila diferents suggereixen parentiu, no identitat.** El quadre és a
+  [escacs](./README.md).
 - **Qui l'organitzava abans del 2001**, si la federació el va agafar aleshores.
 - **Les altres trenta-sis edicions.**
 - **Si cap andorrà l'ha guanyat mai.**
