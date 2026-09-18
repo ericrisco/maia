@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1067** documents · **296** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1068** documents · **298** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -404,6 +404,7 @@
 | [Melissandre Fuentes](temes/esports/altres-esports/melissandre-fuentes.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Mikel de Sa i Gomes](temes/esports/altres-esports/mikel-de-sa.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Òscar Casal Mir](temes/esports/altres-esports/oscar-casal-mir.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Pere Práxedes Ripol](temes/esports/altres-esports/pere-praxedes.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-es-pere-praxedes` |
 | [Joaquim «Quino» Colom i Barrufet](temes/esports/altres-esports/quino-colom.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Raül García i Paolicchi](temes/esports/altres-esports/raul-garcia-paolicchi.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Tomás Cano](temes/esports/altres-esports/tomas-cano.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
@@ -1797,6 +1798,7 @@
 | [`eur-lex-acord-ce-andorra-1990`](fonts/eur-lex-acord-ce-andorra-1990.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts de l'acord: el Principat d'Andorra i la Comunitat Econòmica Europea | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE. Els textos consolidats, CC BY 4.0 | si |
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`fab-ad-la-federacio`](fonts/fab-ad-la-federacio.md) | Federació Andorrana de Basquetbol (FAB) | publicació institucional, sense llicència declarada | pendent |
 | [`facc-paddleworldwide`](fonts/facc-paddleworldwide.md) | International Canoe Federation (ICF) · Paddle Worldwide | publicació institucional, sense llicència declarada | pendent |
 | [`fae-ad-i-coa-federacio-esqui`](fonts/fae-ad-i-coa-federacio-esqui.md) | Federació Andorrana d'Esquí (FAE) · Comitè Olímpic Andorrà (COA) | publicació institucional, sense llicència declarada | pendent |
 | [`fandtaekwondo-federacio`](fonts/fandtaekwondo-federacio.md) | Federació Andorrana de Taekwondo | publicació institucional, sense llicència declarada | pendent |
@@ -1975,6 +1977,7 @@
 | [`wikipedia-en-maria-reig-moles`](fonts/wikipedia-en-maria-reig-moles.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-pere-pastor-vilanova`](fonts/wikipedia-en-pere-pastor-vilanova.md) | Wikipedia community · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-es-catalan-de-ocon`](fonts/wikipedia-es-catalan-de-ocon.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-es-pere-praxedes`](fonts/wikipedia-es-pere-praxedes.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-es-simeon-guinda`](fonts/wikipedia-es-simeon-guinda.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

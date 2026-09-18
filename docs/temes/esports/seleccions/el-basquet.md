@@ -248,10 +248,17 @@ el bolcat.**
   VTB russa, ha jugat mai amb la selecció.~~ `resolt` **el 2026-09-18**: **hi
   consta a les seleccions de base i no a l'absoluta.** **El Colom de
   l'absoluta és Guillem**, amb 33 partits i 423 punts.
-- **La Federació Andorrana de Basquetbol**: cap fitxa. **El que el bolcat en
-  dona**: **hi és des del 1988** —el mateix any per als dos equips— i **el web
-  és `fab.ad`**. **Pere Pràxedes**, que el bolcat llista entre els jugadors
-  notables, **tampoc no té fitxa.**
+- ~~**La Federació Andorrana de Basquetbol**: cap fitxa.~~ — **`resolt` el
+  18-09-2026**: **fundada el 1988, reconeguda per la FIBA i integrada al
+  COA el 1989.** President actual: **Joaquim Tomàs Baldrich**, seu al
+  **Pavelló Joan Alay**
+  ([font](../../../fonts/fab-ad-la-federacio.md)). ~~**Pere Pràxedes**,
+  que el bolcat llista entre els jugadors notables, **tampoc no té
+  fitxa.**~~ — **`resolt`**: **ara en té**, a
+  [Pere Práxedes](../altres-esports/pere-praxedes.md) — **doble campió
+  de la Copa del Rei amb el Barça, sis temporades al BC Andorra
+  (1985-1991), 8 partits amb la selecció i or als Jocs dels Petits
+  Estats del 1989.**
 - ~~**El BC Andorra / MoraBanc Andorra**, club d'ACB: cap fitxa.~~ **Tancat:**
   [el BC Andorra](../altres-esports/bc-andorra.md).
 - ~~**Les seus i els resultats** del 2016, 2021, 2022 i 2026.~~ `resolt` —i amb
