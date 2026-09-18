@@ -177,6 +177,55 @@ el 2012 **el país va perdre població**
 ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
 **Una part de la mobilitat ascendent és supervivència del qui es queda.**
 
+## Qui ve a fer l'hivern, i d'on
+
+> **Divisió 558** de l'API d'Estadística, **recuperada el 18-09-2026** retallant
+> la petició als desembres
+> (`docs/raw/estadistica-api/les-que-no-responien/`). **Són les autoritzacions
+> d'immigració d'hivern efectivament acordades cada desembre, per quota**, del
+> **2007 al 2026**. **La sèrie del corpus fins ara tenia les places ofertes pels
+> decrets; aquesta té les concedides.**
+
+**Les quotes d'hivern es reparteixen en onze etiquetes** —pistes, hoteleria,
+comerç d'esquí, comerç, agències de viatge i neteja—, **i cadascuna està
+partida en dues: comunitaris i no comunitaris.** **Aquesta partició és la
+sèrie.**
+
+| Desembre de | Comunitaris | No comunitaris | **% no comunitaris** |
+| --- | ---: | ---: | ---: |
+| 2007 | 33 | 61 | 64,9% |
+| 2010 | 38 | 18 | 32,1% |
+| 2013 | 60 | 23 | 27,7% |
+| **2015** | 43 | 11 | **20,4%** |
+| 2017 | 38 | 54 | 58,7% |
+| 2019 | 82 | 137 | 62,6% |
+| 2020 | 8 | 10 | 55,6% |
+| **2022** | 21 | 126 | **85,7%** |
+| 2024 | 47 | 171 | 78,4% |
+| 2025 | 65 | 137 | 67,8% |
+
+**La corba fa una U i la fa sencera**: **del 64,9% de no comunitaris el 2007 cau
+al 20,4% el 2015 i puja al 85,7% el 2022.** **En set anys el temporer d'hivern
+passa de ser majoritàriament espanyol o francès a ser majoritàriament de fora de
+la Unió Europea, i després torna a baixar.**
+
+**El desembre del 2020 la sèrie dona divuit autoritzacions en total** —**el
+mínim de vint anys**— i és **l'hivern de la pandèmia**: **les estacions van
+obrir tard i amb aforament.**
+
+**Per sector, el pes és clar**: **el desembre del 2025, de 202 autoritzacions,
+130 són d'hoteleria i 60 de pistes**; **el comerç d'esquí, les agències de
+viatge i la neteja en sumen dotze.** **La quota d'hivern és, sobretot, la quota
+dels hotels.**
+
+> **El país que retalla la immigració que es queda i no la que ve per l'hivern**
+> —el que ja deia aquesta fitxa— **ha canviat, a més, d'on la fa venir.**
+
+`Aquestes xifres són només del desembre de cada any, perquè és l'única
+retallada amb què l'API serveix la divisió. No són el total de la temporada, i
+no es poden comparar amb les places ofertes pels decrets de quota, que sí que
+són de temporada sencera.` `serie_estadistica`
+
 ## Buits registrats
 
 > **Auditats contra la resta del corpus el 2026-09-13.** **Cinc dels set
