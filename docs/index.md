@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **352** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **354** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1781,6 +1781,7 @@
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cervantesvirtual-edicio-andorra`](fonts/cervantesvirtual-edicio-andorra.md) | EDI-RED (Editores y Editoriales Iberoamericanos, siglos XIX-XXI) | portal acadèmic, accés obert | citacio |
 | [`checkeredflag-llovera-2024`](fonts/checkeredflag-llovera-2024.md) | The Checkered Flag | desconeguda, ús informatiu | False |
+| [`coa-ad-web`](fonts/coa-ad-web.md) | Comitè Olímpic Andorrà (COA) | pàgina institucional pública | pendent |
 | [`coa-jocs-mediterrani`](fonts/coa-jocs-mediterrani.md) | Comitè Olímpic Andorrà | desconeguda, ús informatiu | False |
 | [`coma-ad-institucional`](fonts/coma-ad-institucional.md) | Col·legi Oficial de Metges d'Andorra (COMA) | publicació institucional, sense llicència declarada | pendent |
 | [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
@@ -2015,6 +2016,7 @@
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-charles-romeu`](fonts/wikipedia-ca-charles-romeu.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-comite-olimpic-andorra`](fonts/wikipedia-ca-comite-olimpic-andorra.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-esglesia-santa-coloma`](fonts/wikipedia-ca-esglesia-santa-coloma.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-francesc-escude-ferrero`](fonts/wikipedia-ca-francesc-escude-ferrero.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |

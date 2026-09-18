@@ -139,7 +139,13 @@ Esports de 22.447.828,32 €.**
 
 ## El que falta
 
-- **Quan es va fundar el COA**, i qui el presideix.
+- ~~**Quan es va fundar el COA**, i qui el presideix.~~ — **`parcial` el
+  18-09-2026**: fundat el **1971**
+  ([font](../../../fonts/wikipedia-ca-comite-olimpic-andorra.md)) —
+  coherent amb el debut olímpic d'Andorra el 1976, cinc anys després.
+  **Presideix Xavier Espot Miró**, confirmat directament des de
+  [coa.ad](../../../fonts/coa-ad-web.md). **Cap data de reconeixement de
+  l'IOC ni llista de presidents anteriors.**
 - ~~**El pressupost**, i com es reparteix entre federacions.~~ — **`resolt` el
   2026-09-18: el «com» es va tancar el 17-09 amb el reglament de subvencions i
   el «quant» es tanca ara** —**9.825.144,61 € el 2026, dels quals 8.127.176,14
