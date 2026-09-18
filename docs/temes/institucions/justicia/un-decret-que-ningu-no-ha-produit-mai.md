@@ -233,9 +233,39 @@ autoritats administratives.**
    identificació que havia fet.**
 8. **Si la vídua del segle XVIII va obtenir la gràcia que demanava**, i **quantes
    gràcies individuals es van concedir.**
-9. **La peça justificativa p. LV**, la ***Instructa* de 1740**, **i la p. XLV**
-   *(cessió de retracte del 10 d'agost de 1788)* del mateix volum. **A l'abast i no
-   llegides.**
+9. **La p. XLV** *(cessió de retracte del 10 d'agost de 1788)*. — **La p. LV de
+   la *Instructa* de 1740, `resolta` el 18-09-2026**, i **el que hi ha és un
+   aranzel repartit tres.**
+
+   **Cada acte porta un import total i el seu repartiment entre batlle, notari i
+   nunci**:
+
+   | Acte | Total | Batlle | Notari | Nunci |
+   | --- | ---: | ---: | ---: | ---: |
+   | **Encant d'una casa o heretat** | 12 rals | **8 s.** | **8 s.** | **8 s.** |
+   | **Donar una intima** | 6 s. 6 d. | 1 s. 6 d. | 1 s. 6 d. | **3 s. 6 d.** |
+   | **Posar creu a prat o terra** | 6 s. 6 d. | 1 s. 6 d. | 1 s. 6 d. | **3 s. 6 d.** |
+   | **Fer una empara** | 17 s. 6 d. | 5 s. | 5 s. | **7 s. 6 d.** |
+
+   **En els tres actes de camp, el nunci cobra més que el batlle i que el
+   notari**, **i en l'encant cobren igual tots tres.** **Qui es movia, cobrava.**
+
+   **I hi ha una exempció de peatge escrita**: **«Lo Batlle, se administra
+   justicia en casa sua, no ha de exigir dieta o los 5 s. de peatge; lo mateix en
+   altres parts de la parroquia haon ell habite. ***Lo mateyx pertany al
+   nunci***.»** **El desplaçament es paga; la feina feta a casa, no.**
+
+   **La mateixa pàgina dona la regla del rigor en el cobrament**: quan es paga
+   amb béns, **el batlle pot reservar al pagès «lo parell de llaurar y la averia
+   de carrey», però només «mediant li quedie heretat per conrear; altrament
+   no»**; i **la quarta part es pot fer perdre «si la part instant ho vol»** de
+   tot el que va a encant, **llevat d'or, plata, metall, blat i altres grans, que
+   «deuhen ser rebuts a son just valor»**
+   ([si la part instant ho vol](./si-la-part-instant-ho-vol.md)).
+
+   > **Els mitjans de producció es respecten només si el deutor conserva terra
+   > per treballar-los.** **Un pagès sense heretat perdia també la parella de
+   > llaurar.**
 
 ## Related
 

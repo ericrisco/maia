@@ -215,8 +215,22 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    camins**
    ([tres dies, deu dies o un mes](../../institucions/justicia/tres-dies-deu-dies-o-un-mes-segons-els-camins.md)).
    `El que segueix obert és el buidatge article per article de tota la peça.`
-2. **El manuscrit anterior al Politar** (peça justificativa XXVII), i la seva
-   datació.
+2. ~~**El manuscrit anterior al Politar** (peça justificativa XXVII), i la seva
+   datació.~~ — **`parcial` el 18-09-2026, i el text fa dies que és al corpus.**
+   **La peça XXVII —*Extrait d'un manuscrit sur la procédure en Andorre*, pp.
+   LVI-LX— està llegida i destil·lada** a
+   [Un fadrí sense casa sí que es pot emparar](../../institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)
+   i a
+   [Trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md),
+   **i comença just on acaba la *Instructa* de 1740** dins el mateix extracte.
+
+   **De la datació, el que hi ha és una divergència de tres fonts i cap
+   arbitratge**: **la capçalera de la peça el data «XVIIe siècle (?)», amb
+   interrogant**; **Brutails, al cos, atribueix el manuscrit de Palmitjavila al
+   segle XVII**; i **una nota de la p. 36 en data un al segle XVI**
+   ([ni amb els seus peus ni amb els peus d'altri](../../institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md)).
+   **I no consta si són el mateix manuscrit.** `La datació segueix oberta; el
+   text, no.`
 3. **El volum d'Anton Picart**: on és.
 4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
    Bibliothèque du Comité de législation comparée.
