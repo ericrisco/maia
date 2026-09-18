@@ -322,9 +322,11 @@ feia alguna cosa:**
 
    **El corpus rectifica, doncs, un «sembla ser» de la font**: ***embarch* és
    forma catalana antiga, no importació.**
-10. **Els documents de 1461, 1821, 1822, 1823 i 1833** sencers. **Del de 1461 el
-    corpus ja té tres renúncies**: **a *fermar dret*, als terminis i —des del
-    22-09-2026— **a la inembargabilitat de les bèsties de llaurar***.
+10. ~~**Els documents de 1461, 1821, 1822, 1823 i 1833** sencers.~~
+    **`parcial`:** del document de **1461** el corpus ja té tres renúncies —a
+    *fermar dret*, als terminis i a la inembargabilitat de les bèsties de
+    llaurar—; els textos íntegres i els documents de 1821, 1822, 1823 i 1833
+    encara falten.
 
 ## Related
 
