@@ -237,13 +237,23 @@ amb una sola cerca.**
    buits](./els-habitatges-buits.md)). **El 2006 es demana; el 2026 es
    pot prendre.** **El mateix problema, el mateix parc de pisos buits, i
    vint anys de distància entre demanar-ho i obligar-hi.**
-6. **Sèrie històrica** del lloguer sobre el salari. — **`obert`, confirmat, i és
-   el mateix buit que el número 1 mirat en el temps**: **sense la sèrie del
-   salari mínim no hi ha fracció que valgui.** **El corpus té els dos extrems
-   del numerador** —**«superior al 60% del sou base» el 1989** i **+25% de
-   lloguer entre el 2023 i el 2024, amb el 13% del mercat en lloguer**
-   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md))— **i cap punt
-   intermedi ni cap denominador.**
+6. **Sèrie històrica** del lloguer sobre el salari. — **`parcial` el 18-09-2026:
+   el denominador ja hi és, el numerador no.** **La sèrie del salari mínim és
+   sencera del 1981 al 2026**, semestre a semestre
+   ([el salari mínim](../treball/el-salari-minim-de-362-pessetes-a-9-euros.md#la-serie-completa-i-comenca-vuit-anys-abans-del-butlleti)):
+   **166,16 € al mes el 1981**, **435,45 € el 1990**, **962,00 € del 2013 al
+   2015** i **1.568,67 € el juliol del 2026**.
+
+   **Del numerador el corpus segueix tenint només els dos extrems** —«superior
+   al 60% del sou base» el 1989 i +25% entre el 2023 i el 2024
+   ([la crisi de l'habitatge](./la-crisi-de-lhabitatge.md))—, **i cap punt
+   intermedi**.
+
+   **El que sí que es pot dir amb el denominador sol**: **el salari mínim
+   mensual es va congelar tres anys seguits, del gener del 2013 al juliol del
+   2015**, i **any i mig més del 2009 al 2010**. `Si el lloguer es va moure
+   aquells anys, la fracció va empitjorar sense que el numerador hi tingués cap
+   culpa. El corpus no té la sèrie de lloguer d'aquell tram per comprovar-ho.`
 
 > **Defecte registrat, del tipus «el mateix buit declarat dues vegades dins del
 > mateix article»:** els buits **3** i **4** ja estaven escrits més amunt, al
