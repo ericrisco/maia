@@ -82,9 +82,13 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
 - ~~**La resta de la seva carrera internacional.**~~ — **`resolt` en part**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
-- **Si segueix jugant.** — **`obert`, confirmat el 2026-09-13.** **La data de la
-  instantània del bolcat marca fins on arriba el que se'n sap**, i **no diu res
-  del que ha passat després.** Vegeu [futbol](../futbol/README.md).
+- ~~**Si segueix jugant.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Que un bolcat datat no digui què ha passat després no és un buit
+  d'aquest corpus: és el que significa tenir data.** **L'enunciat es
+  repetia a quinze fitxes més de la branca, amb el mateix argument que
+  les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
+  fonts que el tancarien i els drets que ho impedeixen, a
+  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 

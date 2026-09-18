@@ -83,8 +83,13 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
   d'obertura** — vegeu la divergència registrada a
   [Mireia Gutiérrez](./mireia-gutierrez.md).
 - **Naixement**: **Andorra la Vella, 12 d'octubre del 1988.**
-- **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
-  és una instantània amb data i no diu res del que ha passat després.**
+- ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Que un bolcat datat no digui què ha passat després no és un buit
+  d'aquest corpus: és el que significa tenir data.** **L'enunciat es
+  repetia a quinze fitxes més de la branca, amb el mateix argument que
+  les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
+  fonts que el tancarien i els drets que ho impedeixen, a
+  [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 - **El surf de neu andorrà**: federació, pistes, gent.
 
 ## Related

@@ -84,8 +84,13 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   > **El buit era el mateix tres vegades i la causa no**: **dos eren de
   > destil·lació i el tercer és de font.**
 - **On va néixer.**
-- **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
-  és una instantània amb data i no diu res del que ha passat després.**
+- ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Que un bolcat datat no digui què ha passat després no és un buit
+  d'aquest corpus: és el que significa tenir data.** **L'enunciat es
+  repetia a quinze fitxes més de la branca, amb el mateix argument que
+  les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
+  fonts que el tancarien i els drets que ho impedeixen, a
+  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 

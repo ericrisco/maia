@@ -84,8 +84,13 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   països petits, 48 partits, 13 victòries i un bronze del 2000**. **I el fil que
   el bolcat donava segueix sent l'únic nom que el corpus hi té**: **abans de
   l'atletisme, Claudia Guri va jugar a la selecció andorrana sub-16.**
-- **Si segueix competint.** — **`obert`, confirmat el 2026-09-13.** **El bolcat
-  és una instantània amb data i no diu res del que ha passat després.**
+- ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Que un bolcat datat no digui què ha passat després no és un buit
+  d'aquest corpus: és el que significa tenir data.** **L'enunciat es
+  repetia a quinze fitxes més de la branca, amb el mateix argument que
+  les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
+  fonts que el tancarien i els drets que ho impedeixen, a
+  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 - ~~**El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
   fitxa**.~~ `resolt` **el 2026-09-18, i el compte era curt**: **no en són tres,
   en són sis** —bàsquet, bàsquet 3x3, futbol, hoquei gel, rugbi i voleibol—
