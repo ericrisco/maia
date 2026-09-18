@@ -230,9 +230,23 @@ sencera:**
    grau de parentiu**, i **si la supressió del grau es podia discutir.** **La font
    descriu l'efecte i no el procediment.** **Prioritari**: **és el que determina
    quantes instàncies té un plet.**
-2. **L'article 13 de la Reforma de 1866**, i **l'article 16**, ja registrat.
-   **El corpus segueix sense el text de la Reforma** *(apèndix, pp. 12-13)*.
-   **Prioritari.**
+2. ~~**L'article 13 de la Reforma de 1866**, i **l'article 16**, ja registrat.
+   **El corpus segueix sense el text de la Reforma.**~~ — **`resolt` el
+   18-09-2026, i la premissa era falsa des del 15 de setembre**: **el corpus té
+   la Reforma article per article**, a l'apèndix D de Ríos Urruti
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+
+   **L'article 13 dona la piràmide de la visura** —**dos cònsols i dos consellers
+   de la parròquia en primera, els deu cònsols de les altres cinc en segona, el
+   Consell General amb el seu assessor en tercera**—, **que és exactament el
+   mecanisme que aquesta fitxa mesura quan una instància desapareix per
+   parentiu.**
+
+   **I l'article 16 dona el filtre per demandar l'autoritat**: **sense llicència
+   si el deute es va contreure com a particular**; **amb llicència del síndic per
+   citar cònsols i consellers**, **i del Consell General per citar els síndics**;
+   **però «deurán donar dita llisencia» quan el reclamant mostri que els terminis
+   han vençut**, i **si la neguen, «se podrá acudir al Princep Soberá»**.
 3. ~~**El *Politar*, p. 243**, amb els quatre tribunals de 4, 6, 12 i 24
    membres. **La font el declara poc clar.**~~ — **`resolt` el 18-09-2026, i el
    text no és poc clar: són dues escales diferents i Brutails les barreja.**

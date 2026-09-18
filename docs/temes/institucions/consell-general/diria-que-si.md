@@ -217,9 +217,18 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
 
 ## Buits registrats
 
-1. **Els paràgrafs 11 i 16 de la Reforma de 1866**, sencers. **El § 16 és el que
-   fa dels Senyors «àrbitres entre el Consell i els seus administrats».**
-   `obert, prioritari.`
+1. **El paràgraf 11 de la Reforma de 1866.** — **El § 16, `resolt` el
+   18-09-2026**: **el corpus el té sencer des del 15 de setembre**
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)),
+   **i el que fa dels Senyors àrbitres és la seva darrera frase**: **«En
+   l'inesperat cas que neguessin dita llisencia, ***se podrá acudir al Princep
+   Soberá***.»**
+
+   **L'arbitratge del copríncep no és general: és el recurs contra una negativa
+   de llicència per demandar l'autoritat.** **La resta de l'article és un règim
+   de permisos** —cap si el deute és de particular, del síndic per citar cònsols
+   i consellers, del Consell per citar el síndic— **amb l'obligació de
+   concedir-lo quan els terminis han vençut.** `El § 11 segueix obert.`
 2. **Les concessions de casino anul·lades pels coprínceps**: **quantes, quan, a
    qui, i amb quin acte.** La font diu **«diversos casos»** i **no en data cap.**
    `obert, prioritari i datable —són d'abans del 1904 i «ben recents».`

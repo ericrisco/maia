@@ -215,8 +215,21 @@ font en dona la prova, i ve d'un altre lloc del dret:**
    la formulació exacta**: **un ordenament que reconeix per escrit que els seus
    jutges no saben de lletres i els dona una excusa institucional per a quan
    s'equivoquin.**
-5. **L'article 13 de la Reforma de 1866** —**tercera tanda que el reclama**— i
-   **el decret del 25 d'octubre de 1887.**
+5. **El decret del 25 d'octubre de 1887.** — **L'article 13 de la Reforma de
+   1866, `resolt` el 18-09-2026, i el corpus el tenia des del 15 de setembre**
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+   **Diu, literalment, quina gent jutja cada instància d'una visura:**
+
+   > «Per ordenar y procurar lo mellor acert en la práctica de les visures,
+   > **deurán asistir a la primera cita los dos cónsuls de la parroquia
+   > respectiva junt ab los dos consellers y donarán lo primer fallo**; si hi ha
+   > apel·lació, **asistirán a la segona vista los deu cónsuls de les parroquies
+   > restants**; s'hi ha tercera apel·lació, **hi asistirá lo Consell general ab
+   > son asesor**.»
+
+   **Quatre persones, després deu, després vint-i-cinc.** **I això és el que
+   aquesta fitxa necessitava**: **la visura no és un peritatge, és una
+   jurisdicció de tres graus feta tota de cònsols.**
 6. **La sentència de visura de 1710** dictada sense *assessor*.
 7. **Què van trobar les recerques que el Consell General va ordenar el 3 de
    juliol de 1789** sobre si les seves sentències eren apel·lables.

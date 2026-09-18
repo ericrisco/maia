@@ -270,8 +270,25 @@ qualsevol plet comunal.**
 3. **El decret del Consell del 12 de maig de 1866**, sencer, i **fins quan va
    regir la facultat dels cònsols de detenir «*sens recorrer a la Justicia*»**.
    **Prioritari.**
-4. **L'article 16 de la Reforma de 1866** *(apèndix, pp. 12-13, ja registrat com
-   a buit)* i **els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.**
+4. **Els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.** —
+   **L'article 16 de la Reforma de 1866, `resolt` el 18-09-2026**: **el corpus el
+   té literal des del 15 de setembre**
+   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)), **i és la
+   norma que hi ha darrere del títol d'aquesta fitxa.**
+
+   > «**Les autoritats comunals y del Consell general podrán ser citades pels
+   > particulars devant dels competents tribunals de justicia per deutes que
+   > haigin contret aquelles en nom y clase de particulars sens ninguna llisencia
+   > previa**; solsament **pels deutes contrets com autoritats se necesitará la
+   > llisencia del sindich** per citar als cónsuls y membres del Consell general
+   > **y la llisencia d'aquest per citar als sindichs**, pero **tant lo Consell
+   > general com los sindichs deurán donar dita llisencia**, mentres la part
+   > reclamant los fassi veurer que han vensut los plasos […]. **En l'inesperat
+   > cas que neguessin dita llisencia, se podrá acudir al Princep Soberá.**»
+
+   **No és immunitat: és un filtre amb condició objectiva i recurs a sobre.**
+   **I explica la distinció del títol**: **denunciar no demanava permís; demandar
+   per deute d'ofici, sí.**
 5. ~~**El *Politar*, pp. 249 i 269.**~~ — **`resolt` el 18-09-2026, i la p. 249
    dona la policia interna de la sala.**
 
