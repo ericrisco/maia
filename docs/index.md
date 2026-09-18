@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **251** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **253** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1843,6 +1843,7 @@
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pastor-andorra-diversa`](fonts/pastor-andorra-diversa.md) | Robert Pastor i Castillo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`persee-resenya-galinier-pallerola`](fonts/persee-resenya-galinier-pallerola.md) | Persée · CNRS | publicació acadèmica, Persée; ús de recerca | pendent |
 | [`pesado-recurs-hidric-andorra`](fonts/pesado-recurs-hidric-andorra.md) | Cristina Pesado i Pons, Marc Pons i Pons, Juan-Ignacio López Moreno · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pique-duro-problemes-socials-1997`](fonts/pique-duro-problemes-socials-1997.md) | Montserrat Piqué (Càritas Andorrana) i Rosa Duró Solanelles · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`planas-toponims-preromans-2018`](fonts/planas-toponims-preromans-2018.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports (edició) i els autors (textos i fotografies) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
@@ -1906,6 +1907,7 @@
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vi-andorra`](fonts/wikipedia-ca-vi-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vpc-andorra-rugby`](fonts/wikipedia-ca-vpc-andorra-rugby.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

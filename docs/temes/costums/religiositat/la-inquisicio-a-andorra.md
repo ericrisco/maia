@@ -267,10 +267,25 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
   ([font](../../../fonts/bascompte-guerra-segadors-andorra-2025.md)).
   **Dates, llocs i nombre d'incursions concretes segueixen sense
   documentar-se.**
-- **Palau Martí, *Protestantisme i inquisició a l'Andorra del segle XVI***
-  (1990). **Font localitzada, editada pel Ministeri de Cultura andorrà, no
-  llegida.**
-- **Gallinier-Pallerola, *La religion populaire en Andorre*** (1990).
+- ~~**Palau Martí, *Protestantisme i inquisició a l'Andorra del segle
+  XVI*** (1990). **Font localitzada, editada pel Ministeri de Cultura
+  andorrà, no llegida.**~~ — **`parcial` el 18-09-2026**: és **Montserrat
+  Palau i Martí** (Barcelona 1916 — Sant Julià de Lòria 2004), etnòloga
+  doctorada per la Sorbona; **el títol exacte és *Protestantisme i
+  Inquisició a Andorra al segle XVI: problemes de competències i
+  conflictes jurisdiccionals*, editat pel Consell General, no pel
+  Ministeri de Cultura** — **divergència registrada, no arbitrada**
+  ([font](../../../fonts/wikipedia-ca-montserrat-palau-marti.md)). **El
+  llibre segueix sense llegir-se.**
+- ~~**Gallinier-Pallerola, *La religion populaire en Andorre*** (1990).~~ —
+  **`parcial` el 18-09-2026**: **Jean-François Galinier-Pallerola**, abat i
+  historiador, doctor per Toulouse (1988). **Set-cents testaments
+  estudiats** mostren «**estabilitat i homogeneïtat**» dels comportaments
+  religiosos; conclou que **«l'ànima andorrana no està angoixada per la
+  bruixa»** — que **encaixa amb** [les bruixes
+  d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md)
+  ([font](../../../fonts/persee-resenya-galinier-pallerola.md)). **El
+  llibre segueix sense llegir-se.**
 - **Les actes dels 25 sínodes diocesans** (1542-1828).
 - **Les actes de visites pastorals** conservades a les parròquies.
 - **Els llibres parroquials.**
