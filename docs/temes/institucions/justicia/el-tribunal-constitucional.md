@@ -211,7 +211,8 @@ exclusiva permanent, hi ha retribució per activitat.
   **El corpus la reté perquè respon a una confusió freqüent**: **aquí no es
   demanen dictàmens, es guanyen o es perden processos.**
 
-- **I una llei sí que ha caigut, en part — 17-09-2026.** **La sentència del 20
+- **Nota `no-es-buit`** — **una llei sí que ha caigut, en part — 17-09-2026.**
+  **La sentència del 20
   de desembre del 2022 (causa 2022-1-L) estima parcialment el recurs de set
   consellers generals contra la Llei 30/2022, qualificada de la persona i de la
   família**, i **declara nuls i sense efecte l'article 77 i la disposició

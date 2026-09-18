@@ -150,7 +150,8 @@ afirmació de parentiu.**
   Magí Maestre Campderrós, Eduard Molné Sauquet (1971-1990), Carles Fiñana
   Pifarré (1990-94), Manel Arajol Mir (1994-2007) i **Gorka Aixàs Olea, des del
   2007**.
-- **I una divergència de dates que el corpus registra i resol amb cautela**:
+- **Nota `no-es-buit`** — **una divergència de dates que el corpus registra i
+  resol amb cautela**:
   **el bolcat de [David Navarro](./david-navarro.md) li atribueix el títol de la
   LEB Or «de la temporada 2012-13» com a primera temporada seva**, mentre que
   **els dos bolcats del club situen el doblet de Copa Príncep + LEB Or i

@@ -357,7 +357,8 @@ significa, en la pràctica, tenir setanta-set mil habitants.
   de fundació ni president** ([font](../../../fonts/fae-ad-i-coa-federacio-esqui.md)).
   **`obert`, confirmat, sobre la data**: **no hi ha bolcat de la FAE enlloc de
   `raw/web/esport/`.**
-- **I dos parentius nous que aquesta fitxa pot afegir a la seva llista**:
+- **Nota `no-es-buit`** — **dos parentius nous que aquesta fitxa pot afegir a la
+  seva llista**:
   **[Sandra](./esquiadors/sandra-grau.md) i
   [Vicky Grau](./esquiadors/vicky-grau.md) van néixer totes dues a Sant Julià
   de Lòria**, i **[Esteve Tomàs](./esquiadors/esteve-tomas.md) és el germà petit
