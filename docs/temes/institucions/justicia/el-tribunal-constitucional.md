@@ -234,6 +234,16 @@ exclusiva permanent, hi ha retribució per activitat.
   mogut a `Related`, on toca. **El mateix article ja el donava per tancat al
   primer punt d'aquesta llista**, de manera que la fitxa es contradeia amb ella
   mateixa.
+- **Afegit el 18-09-2026: qui hi seu avui.** Aquesta fitxa descrivia el
+  disseny institucional sense noms. **Dominique Rousseau**, magistrat des
+  d'un jurament que substitueix Pierre Subra de Bieusses, és professor de
+  Dret Constitucional a la Sorbona i **vicepresident des del 2018**.
+  **Qui presideix avui és Pere Pastor Vilanova**, magistrat des del
+  18-11-2024 i president des del **9-9-2026** — primer nacional andorrà
+  nomenat magistrat d'aquest tribunal pel Consell General, i abans jutge del
+  Tribunal Europeu de Drets Humans (2015-2024). Detall i fonts a
+  [com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md#buits-registrats),
+  punt 8.
 
 ## Related
 

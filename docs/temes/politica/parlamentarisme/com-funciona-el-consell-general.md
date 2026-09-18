@@ -398,6 +398,11 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    fitxa de la Viquipèdia en català sobre el Tribunal encara no reflecteix
    aquest relleu.**
 
+   **El disseny institucional —empats, presidència rotatòria, procediments—
+   ja tenia fitxa pròpia**: [el Tribunal
+   Constitucional](../../institucions/justicia/el-tribunal-constitucional.md),
+   que fins avui no tenia cap nom de magistrat.
+
 ## Related
 
 - [La deriva presidencialista](./la-deriva-presidencialista.md) — el desacord entre els dos síndics.
