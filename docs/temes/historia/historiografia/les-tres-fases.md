@@ -312,10 +312,22 @@ sabia.**
   - **Capítol 9, Altres estudis** (p. 62): un paràgraf pont cap a
     disciplines frontereres (geografia, lingüística, economia,
     sociologia, història de l'art), després subdividit per matèria.
+  - **Capítol 5, L'edat mitjana i la formació d'Andorra** (p. 30):
+    «l'edat més transitada per la historiografia andorrana», amb els
+    fonaments posats per **Baudon de Mony i Miret i Sans**, i una
+    subsecció **«Els pioners»** que obre amb **Pierre de Marca**, *Marca
+    Hispanica* (1688) — el mateix Marca que la fitxa del [Pariatge](../pareatge/el-que-es-dona-en-feu-es-el-domini-util.md)
+    cita per al document de remissió dels mals usos encara no localitzat.
+  - **Capítol 10, Política i institucions andorranes** (p. 74): la
+    manca de tradició en ciències polítiques, i **el tret distintiu de
+    la branca**: «els principals autors que han tractat la història i
+    descripció de les institucions andorranes sovint han tingut, a més,
+    càrrecs dins la mateixa estructura que descrivien» —de Fiter i
+    Rossell a Brutails, Valls i Taberner i Vidal Guitart.
 
-  **Capítol 5** (edat mitjana, p. 30) i **capítol 10** (política i
-  institucions, p. 74) tenen obertura de prosa confirmada per l'extracció
-  de text mateixa, no rellegida a ull encara.
+  **Els set capítols comprovats, tots amb prosa pròpia.** El compte
+  original («només tres») no era fals de soca-rel, era incomplet: es va
+  aturar després dels primers casos clars.
 
   **Troballa lateral, i important**: **la bibliografia del capítol 6
   cita una edició del diari de viatge de Francisco de Zamora de
