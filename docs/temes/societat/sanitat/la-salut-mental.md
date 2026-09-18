@@ -167,11 +167,16 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
 
 ## El que falta
 
-- **La història del SAAS**, que segueix sense fitxa.
+- ~~**La història del SAAS**, que segueix sense fitxa.~~ — **`resolt` el
+  18-09-2026**: **ara en té**, a [el SAAS](./el-saas.md) — **entitat
+  parapública creada per la Llei del 23 de desembre del 1986**
+  ([font](../../../fonts/saas-ad-historia.md)).
 - **Què hi havia abans del 1998**: on s'atenien els malalts mentals andorrans.
 - **El pla de salut mental** anunciat el 2020: si es va aprovar i què diu.
 - **Xifres**: quants professionals, quants pacients, quins recursos.
-- **Si hi ha unitat d'internament** al país o si els casos greus es deriven.
+- ~~**Si hi ha unitat d'internament** al país o si els casos greus es deriven.~~
+  — **`resolt` el 18-09-2026**: **es deriven, al centre Sant Joan de Déu
+  Terres de Lleida, a Lleida** ([font](../../../fonts/saas-ad-historia.md)).
 - **Si la recerca del 2002 es va reprendre.**
 - **El congrés del 2001**: actes i publicacions que en van sortir.
 - ~~**On diu Fiter i Rossell** que no hi ha diferència essencial.~~ **TANCAT**:

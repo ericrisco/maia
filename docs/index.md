@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1068** documents · **298** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1069** documents · **299** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1497,6 +1497,7 @@
 | [De les iguales a l'hospital](temes/societat/sanitat/de-les-iguales-a-lhospital.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [De què es mor a Andorra](temes/societat/sanitat/de-que-es-mor-a-andorra.md) | `temes/societat/sanitat` | compilada | contemporania | no | `estadistica-ad` |
 | [Donar i ser atès](temes/societat/sanitat/donar-i-ser-ates.md) | `temes/societat/sanitat` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El SAAS](temes/societat/sanitat/el-saas.md) | `temes/societat/sanitat` | compilada | contemporania | no | `saas-ad-historia` |
 | [La CASS i la sanitat](temes/societat/sanitat/la-cass-i-la-sanitat.md) | `temes/societat/sanitat` | compilada | contemporania | no | `bopa-ad` |
 | [La Clínica Vilanova](temes/societat/sanitat/la-clinica-vilanova.md) | `temes/societat/sanitat` | compilada | contemporania | no | `pallares-medicina-andorra` |
 | [La reacreditació dels metges](temes/societat/sanitat/la-reacreditacio-dels-metges.md) | `temes/societat/sanitat` | compilada | contemporania | no | `martinez-benazet-professions-liberals` |
@@ -1909,6 +1910,7 @@
 | [`ros-pascuet-poblacio-migracions-1989`](fonts/ros-pascuet-poblacio-migracions-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autora (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`rui-comunitat-mixta-1997`](fonts/rui-comunitat-mixta-1997.md) | Sandrine Rui · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`rull-parlar-andorra-xvii-xviii`](fonts/rull-parlar-andorra-xvii-xviii.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Xavier Rull i Muruzábal (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
+| [`saas-ad-historia`](fonts/saas-ad-historia.md) | SAAS (Servei Andorrà d'Atenció Sanitària) | publicació institucional, sense llicència declarada | pendent |
 | [`sac-esport-i-salut`](fonts/sac-esport-i-salut.md) | Manuel Suárez i García · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`santos-associacions-de-pares`](fonts/santos-associacions-de-pares.md) | Alícia Santos i Mateo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`santos-matias-capital-social-portugues`](fonts/santos-matias-capital-social-portugues.md) | Magda Santos i Matias · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
