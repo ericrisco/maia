@@ -163,6 +163,7 @@ cadascun dels tres moments. Creuar amb
    fre**: **regles socials, «una mena de codi deontològic realment aplicat»,
    que limitaven els matrimonis entre hereus perquè no es formessin cases massa
    grans.** Vegeu [quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md).
+   `no-es-buit`: és una resposta de context, no una pregunta pendent.
 6. ~~**Dades** de procedència dels consorts, per parròquia.~~ — **parcialment
    tancat**: [la nissaga Perich](./la-nissaga-perich.md) dona **dotze matrimonis
    datats d'una sola casa de Sispony, del 1600 al 1959, amb l'origen de cada
