@@ -269,7 +269,30 @@ exemple datat. El corpus el refà.**
    rebeldia***, **i qui protestava.** **La font ho dona com a evolució en curs el
    1904.**
 6. **Els documents de 1503, 1601, 1603, 1604, 1788 i 1793** sencers.
-7. **El *Politar*, pp. 209 i 212.**
+7. ~~**El *Politar*, pp. 209 i 212.**~~ — **`resolt` el 18-09-2026, i el termini
+   de tretze dies té dins una distinció que aquesta fitxa necessitava.**
+
+   **P. 209 — el termini, i com es compon**: si la causa excedeix de 10 lliures,
+   els batlles porten la sentència a execució **«dins lo termini y espay de ***13
+   dias, 10 de justicia y 3 de gracia***, que se concedeyxen a tots»**, llevat
+   que hi hagi apel·lació al Jutge.
+
+   **P. 212 — i el que s'escriu a la sentència no són tretze:**
+
+   > «en la sentencia o declaracio dels Batlles **se deu tan solament posar lo
+   > manament ***deu dias***, que son los de justicia, **venint los 3 altres de
+   > mera gracia**.»
+
+   **El document diu deu; la pràctica en dona tretze.** **Els tres darrers no
+   són termini: són gràcia, i per això no s'escriuen.** **És exactament el
+   desajust entre paper i calendari que aquesta fitxa mesura.**
+
+   **I si les parts apel·len dins d'aquests tretze dies**, els batlles donen
+   **«les lletres de apell ***o apostols reverencials***»** —el mateix mot que el
+   corpus ha comprovat al diccionari
+   ([tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md))—
+   **i sobreseuen tota execució «fins age passat altres 10 dias, tan si se li
+   presentan lletras inhibitorias com no».**
 8. **El despatx dels Afers Estrangers del 19 de novembre de 1846** *(Archives de
    l'Ariège, Andorre, lligall 2 — **onzena peça registrada i cap consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`

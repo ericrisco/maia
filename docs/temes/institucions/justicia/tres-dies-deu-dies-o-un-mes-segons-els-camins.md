@@ -241,7 +241,26 @@ arriben, el rellotge corre.**
    lligall 2 — **dotzena peça registrada i cap consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
 6. **L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX, `resolta` el
-   16-09-2026** (PDF 68-69); **el *Politar*, pp. 212 i 213, segueix obert.**
+   16-09-2026** (PDF 68-69); **el *Politar*, pp. 212 i 213, `resolt` el
+   18-09-2026, i hi ha una regla que el títol d'aquesta fitxa no preveia: el
+   termini depenia de quin copríncep havia nomenat el Jutge, i de l'estació.**
+
+   > «**Si lo Jutge es a la part de Fransa**, que age tocat a la elecsio del
+   > Compte de Foyx, **y se escau al ivern**, en cuyo temps **es dificultos lo
+   > recurs a ell en moltas temporadas**, entonces **concedira lo Batlle mes
+   > temps o dilacions, expressant lo motiu de concedirlas, que sera lo dificil
+   > recurs**; **si lo Jutge es a Espanya**, a la elecsio del Senyor Bisbe,
+   > **entonces no donara mes que los 10 dias per recorrer**.»
+
+   **El mateix recurs tenia dos calendaris segons de quina banda del Pirineu
+   visqués el Jutge**, i **el batlle havia de fer constar el motiu de la
+   pròrroga.** **El Politar li demana prudència en les dues direccions**: «**pues
+   igualment se pot faltar concedintlas que negantlas**, debentse pesar totas las
+   circunstancias».
+
+   **I la p. 213 dona el calendari de l'execució**: penyorar, **lliurar dins de
+   tres dies** i **subhastar dins d'un mes**, «que tot hom ho sapia».
+
    **El text dona el que aquesta fitxa porta al títol, i amb els mots de la
    font**: el batlle **«estimara prudentment lo temps haura menester la part
    apellant per portar las inhibitorias del Jutge Supremo, estimantlo de la

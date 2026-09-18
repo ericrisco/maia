@@ -263,7 +263,16 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 4. **El conveni o la base jurídica** de l'assistència judicial amb França que la
    font descriu com a pràctica corrent. **No en cita cap.**
 5. **L'*Instructa*, Pièces justificatives p. XLVIII, `resolta` el 16-09-2026**
-   (PDF 68); **el *Politar*, pp. 208 i 209, segueix obert.** **La regla de les
+   (PDF 68); **el *Politar*, pp. 208 i 209, `resolt` el 18-09-2026**: **la regla
+   que dona títol a aquesta fitxa hi és amb la seva raó de dret.** **En les
+   causes civils «(sens que hi age apellacio de Batlle a Batlle, **per ser de
+   igual jurisdicsio, per la regla *Par in parem non habet imperium***), proceheyx
+   dels dos Batlles **aquell que es previngut per les parts, per citacio**»**, i
+   ho fa **«verbalmen, en primera instancia, en totas causas seculars, sens
+   assessor, declarant la causa segons las costums patrias o us del terreno y
+   disposicio del dret comu»**, fent assentar el verbal **al registre de
+   verbals**. **La prevenció tria el batlle, i entre batlles no hi ha apel·lació
+   perquè són iguals.** **La regla de les
    audiències, literal**: els batlles, el dia destinat als verbals, **«se faran
    venir les parts litigants en casa sua»**, i només en surten **«en lo cas que
    ells vulgan de son pler y grat anar a la casa de aquells»** o **quan cal
