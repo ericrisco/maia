@@ -172,8 +172,9 @@ el bolcat no diu és si hi ha competició andorrana pròpia.**
   anteriors.**
 - **Els màxims internacionals i els màxims golejadors històrics.** **El bolcat
   deixa els dos camps buits.**
-- **L'ENFAF CM Andorra**, que **posa sis dels catorze convocats** i **no té
-  fitxa al corpus.**
+- ~~**L'ENFAF CM Andorra**, que **posa sis dels catorze convocats** i **no té
+  fitxa al corpus.**~~ **`parcial`:** aquesta fitxa ja identifica el club i
+  els sis internacionals que hi juguen; encara no hi ha fitxa pròpia del club.
 
 ## Related
 

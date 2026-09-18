@@ -234,9 +234,10 @@ la descriu en passat i només en set.**
 - ~~**Per què juga a Foix**, i des de quan.~~ — **`parcial`**: **el bolcat confirma
   el fet i no en dona la raó**: «juguen la majoria de partits de casa a Andorra
   la Vella, encara que n'han jugat alguns a Foix».
-- **El VPC Andorra XV**, que **posa disset dels vint-i-tres internacionals** i
-  **no té fitxa al corpus**. **És el buit més rendible que surt d'aquesta
-  passada.**
+- ~~**El VPC Andorra XV**, que **posa disset dels vint-i-tres internacionals** i
+  **no té fitxa al corpus**.~~ **`parcial`:** aquesta fitxa ja identifica el
+  club i els disset internacionals que hi juguen; encara no hi ha fitxa pròpia
+  del club.
 - **La selecció femenina de rugbi a set**, que **va competir el 2006 i el 2007**
   i de la qual **el bolcat no diu res més.**
 - **Si el Pol Arias de la selecció és el [nedador olímpic](../estiu/pol-arias.md)
