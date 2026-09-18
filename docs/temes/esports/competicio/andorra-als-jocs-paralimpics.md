@@ -168,8 +168,17 @@ participacions».**
    2010, when Paquita Ramirez Capitan was ninth in the women's Giant Slalom».`
 5. **La FADEA**: **quan es crea, quanta gent hi ha federada i com es finança.**
    `Requereix fadea.ad o el Comitè Olímpic Andorrà.`
-6. **Òscar Espallargas**, que la pàgina del 2018 cita en referència sense
-   explicar quin paper hi té.
+6. ~~**Òscar Espallargas**, que la pàgina del 2018 cita en referència sense
+   explicar quin paper hi té.~~ — **`parcial` el 18-09-2026**, i **el que es pot
+   dir amb precisió és això**: **la referència és una de les tres que sostenen
+   la fila de Roger Puig a la taula «Team Andorra»**, i **és un article
+   d'`avancedeportivo.es` titulat «Óscar Espallargas logra el segundo puesto en
+   la Copa de Europa», consultat el 17-02-2018.** **El text de la pàgina no el
+   nomena ni una sola vegada.**
+
+   `Una referència d'esquí adaptat penjada de la fila d'un esquiador adaptat fa
+   pensar en un guia o en un company d'equip, i el corpus no ho afirma: la font
+   no ho diu i l'article de fora no s'ha consultat.` `font_externa`
 7. **Els guies** dels esquiadors de discapacitat visual —Paquita Ramírez en
    devia tenir un i **el bolcat no el nomena.**
 
