@@ -27,9 +27,15 @@ I el que el corpus té sobre esquí que viu en altres branques:
 > **vuit porten carrera sencera.** **La passada anterior havia tractat tota la
 > subbranca com si fos del primer grup.**
 
-- L'**Escola Nacional Andorrana d'Esquí**, que té llei de creació pròpia i de
-  la qual el corpus només sap que existeix. — **`obert`, confirmat**: **no hi
-  ha cap bolcat seu ni a `alpins/` ni a `estructura/`.**
+- ~~L'**Escola Nacional Andorrana d'Esquí**, que té llei de creació pròpia i de
+  la qual el corpus només sap que existeix.~~ — **`resolt` el 18-09-2026**:
+  la **llei original de creació és del 23-9-1988**, citada a l'article 1
+  d'una llei de modificació del 1996 que reestructura tota l'entitat
+  ([font](../../../fonts/bopa-llei-enade-1996.md)). **Sigla oficial:
+  ENADE.** Escola pública dependent del Ministeri d'Educació, regida per
+  un Comitè Rector, amb president i vicepresident de nacionalitat
+  andorrana obligatòria. **No hi ha cap bolcat seu a `alpins/` ni
+  `estructura/`**, però la llei mateixa n'és ara la font primària.
 - ~~La **Federació Andorrana d'Esquí (FAE)**: cap fitxa.~~ — **`parcial` el
   18-09-2026**: **la seva pròpia web (`fae.ad`) i el COA confirmen que existeix,
   amb Junta Directiva i Estatuts publicats, però cap de les dues dona any de
