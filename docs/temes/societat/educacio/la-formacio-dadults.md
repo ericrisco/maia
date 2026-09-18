@@ -223,7 +223,9 @@ metàfora: **és la funció principal.**
 
 - ~~Quins són els diplomes oficials de llengua i quins nivells tenen~~ —
   **tancat**: [els exàmens oficials de català](../../llengua/politica-linguistica/els-examens-oficials-de-catala.md).
-- **Quanta gent aprova** de les 480 que s'hi presenten.
+- ~~**Quanta gent aprova** de les 480 que s'hi presenten.~~ — **`resolt`
+  el 19-09-2026** com a buit duplicat: la pregunta canònica continua a
+  [Els exàmens oficials de català](../../llengua/politica-linguistica/els-examens-oficials-de-catala.md).
 - **Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a
   altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior
   que el corpus no coneix.
