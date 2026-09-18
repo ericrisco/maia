@@ -104,6 +104,58 @@ domicili administratiu.`
 beneficiaris de la gent gran** —174—, **amb el pis més barat del país**
 (3.242,0 €/m²).
 
+## La sèrie, i totes les prestacions a la vegada
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/prestacions/`, divisions
+1544-1796, Departament d'Estadística, CC BY 4.0). **El corpus tenia un any de
+cada prestació; ara en té la sèrie.**
+
+| Prestació | Primer any | **2025** | Variació |
+| --- | ---: | ---: | ---: |
+| **Pensió de solidaritat (PSGG)** | **679** (2016) | **1.425** | **×2,1** |
+| **Prestacions de l'habitatge** | **593** (2010) | **1.847** | **×3,1** |
+| **Ajuts de l'article 20** | 165 (2013) | **399** | ×2,4 |
+| Prestacions de discapacitat | 217 (2018) | **419** | ×1,9 |
+| Prestacions per fills | 506 (2017) | **472** | −6,7% |
+| **Pensions no contributives** | **121** (2013) | **12** | **−90,1%** |
+
+**Cinc pugen i una s'extingeix.**
+
+### La que s'extingeix
+
+| Any | 2013 | 2016 | 2019 | 2022 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Pensions no contributives** | **121** | 88 | 50 | 23 | **12** |
+
+**Cada any de la sèrie n'hi ha menys que l'any abans, sense una sola
+excepció**, i **el 2025 en queden dotze.** **No és una retallada: és una
+prestació que es va tancar i que s'apaga amb els seus beneficiaris.**
+
+### La que més creix és l'habitatge
+
+| Any | 2010 | 2015 | 2019 | 2021 | 2023 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Prestacions de l'habitatge** | 593 | 922 | 1.059 | **1.395** | 1.445 | **1.847** |
+
+**Les prestacions d'habitatge es tripliquen en quinze anys**, i **el salt més
+gran és del 2020 al 2021**: **de 1.072 a 1.395, un +30,1% en un any.**
+
+**El 2025 hi ha més andorrans cobrant una prestació d'habitatge (1.847) que
+cobrant la pensió de solidaritat per a la gent gran (1.425).** `L'any 2016 no
+hi és a la sèrie de la font.`
+
+### I la de fills és l'única que baixa
+
+| Any | 2017 | 2019 | **2021** | 2023 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Prestacions per fills** | 506 | 599 | **604** | 549 | **472** |
+
+**El màxim és del 2021 i des d'aleshores en perd 132**, **un −21,9% en quatre
+anys**. **És l'única prestació del sistema que baixa** —a part de la que
+s'extingeix—, i **coincideix amb la caiguda de la maternal**: **2.453 alumnes
+el curs 2013 i 1.871 el del 2024**
+([les guarderies](../educacio/les-guarderies.md)).
+
 ## Comprovacions
 
 - **Els totals no sumen exactament les seves columnes**, i **la nota ho
@@ -131,7 +183,12 @@ beneficiaris de la gent gran** —174—, **amb el pis més barat del país**
   que decideix si la xifra mesura pobresa o mesura carrera de cotització
   partida**, i **cap de les dues administracions no ho publica aquí.**
   **Prioritari.**
-- **La sèrie anterior al 2019.**
+- ~~**La sèrie anterior al 2019.**~~ — **`resolt` el 18-09-2026**: **la PSGG
+  arrenca el 2016 (679 beneficiaris), l'article 20 el 2013 (165), les pensions
+  no contributives el 2013 (121) i les prestacions de l'habitatge el 2010
+  (593)**, vegeu
+  [La sèrie](#la-serie-i-totes-les-prestacions-a-la-vegada). `De cap d'elles
+  no hi ha res anterior al 2010 a l'API.`
 - **Les prestacions que no són en aquesta nota**: ajuts ocasionals (A057),
   discapacitat (A058) i lloguer (A059) **tenen activitat pròpia** i **el corpus
   en té alguna, no totes.**
