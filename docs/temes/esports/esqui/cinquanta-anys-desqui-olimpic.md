@@ -31,6 +31,33 @@ només amb esquiadors alpins.** Cap altra disciplina.
 
 ## Les delegacions, una per una
 
+### Innsbruck 1976 — cinc homes, i quatre resultats
+
+> **Afegit el 18-09-2026** des del bolcat
+> ([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki),
+> Viquipèdia, CC BY-SA 4.0). **Aquesta fitxa no tenia la primera edició.**
+
+| Qui | Prova | Resultat |
+| --- | --- | --- |
+| **[Carlos Font](./esquiadors/carlos-font.md)** | **Eslàlom** | **2:56.52 — 38è** |
+| | **Gegant** | **4:25.65 — 48è** |
+| | **Descens** | **2:01.75 — 62è** |
+| **[Antoine Crespo](./esquiadors/antoine-crespo.md)** | **Descens** | **1:58.72 — 54è** |
+| | Gegant | no acaba |
+| | Eslàlom | no acaba |
+| **[Xavier Areny](./esquiadors/xavier-areny.md)** | Descens | no acaba |
+| | Gegant | no acaba |
+| | Eslàlom | no acaba |
+| **[Esteve Tomàs](./esquiadors/esteve-tomas.md)** | Gegant | no acaba |
+| **[Antoni Naudi](./esquiadors/antoni-naudi.md)** | Eslàlom | no acaba |
+
+**Onze sortides, quatre classificacions, i totes quatre de dos homes.**
+**Carlos Font acaba les tres proves que corre**; **Crespo acaba el descens**;
+**els altres tres no acaben res.**
+
+**El millor resultat de la primera participació olímpica d'hivern d'Andorra és
+un 38è lloc a l'eslàlom**, i **és d'un noi de setze anys.**
+
 ### Lake Placid 1980 — tres homes
 
 | Qui | Prova | Resultat |
@@ -211,6 +238,7 @@ una trajectòria.
 
 | Qui | Jocs |
 | --- | --- |
+| **[Carlos Font](./esquiadors/carlos-font.md)** | **1976, 1980** — *el primer que repeteix* |
 | **Gerard Escoda** | 1988, 1992, 1994, 1998 — **quatre** |
 | **Victor Gómez** | 1992, 1994, 1998, 2002 — **quatre** |
 | **Vicky Grau** | 1992, 1994, 1998, 2002 — **quatre** |
