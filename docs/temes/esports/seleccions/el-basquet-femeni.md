@@ -108,10 +108,13 @@ poden citar.`
    abans de passar-se a l'atletisme; encara falten les plantilles de les onze
    edicions, que el bolcat no porta.
 2. **Per què no van jugar el 2012 ni el 2014.**
-3. **La tercera selecció femenina.** El corpus en tenia comptades tres i ara en
+3. ~~**La tercera selecció femenina.** El corpus en tenia comptades tres i ara en
    té dues fitxades —**[futbol](../futbol/femeni/la-seleccio-femenina.md) i
    bàsquet**. `Requereix la llista oficial de seleccions del Comitè Olímpic
-   Andorrà.`
+   Andorrà.`~~ **`resolt`:** la llista de seleccions dels bolcats de Jocs
+   Mediterranis i Europeus en documenta **sis**: bàsquet, bàsquet 3x3, futbol,
+   hoquei gel, rugbi i voleibol (a més de categories de base). Vegeu
+   [els altres Jocs](../competicio/els-altres-jocs.md#el-que-falta).
 4. ~~**La Federació Andorrana de Basquetbol**, que segueix sense fitxa i és
    la mateixa dels dos equips.~~ — **`resolt` el 18-09-2026, era un bessó**:
    [el bàsquet](./el-basquet.md) ja en té fitxa — **fundada el 1988,
