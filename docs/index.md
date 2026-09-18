@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1031** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1032** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1003,6 +1003,7 @@
 | [Dos de tres, i les parts no ho saben](temes/institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dos sous per lliura, perquè no s'apel·li](temes/institucions/justicia/dos-sous-per-lliura-perque-no-sapelli.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [Dotze sentències de tretze les escrivia un altre](temes/institucions/justicia/dotze-sentencies-de-tretze-les-escrivia-un-altre.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
+| [Dues mil dues-centes cinquanta-cinc i mil set-centes cinquanta-quatre](temes/institucions/justicia/dues-mil-dues-centes-cinquanta-cinc-i-mil-set-centes-cinquanta-quatre.md) | `temes/institucions/justicia` | compilada | contemporania | no | `estadistica-ad` |
 | [El Consell li va dir que suspengués](temes/institucions/justicia/el-consell-li-va-dir-que-suspengues.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El demandat segueix el demandant](temes/institucions/justicia/el-demandat-segueix-el-demandant.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El dret supletori](temes/institucions/justicia/el-dret-supletori.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
