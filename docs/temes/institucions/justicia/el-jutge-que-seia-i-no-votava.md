@@ -301,8 +301,12 @@ jutjar.
 2. **El decret de Catalán de Ocón sencer** *(«Archives de l'Andorre»)*. **Tercera
    vegada que el corpus el reclama**, **i ara en té el passatge sobre els
    rahonadors.** **Prioritari.**
-3. **L'article de Ch. Romeu al *Tour du Monde*, 1897.** **El corpus ja en té dos
-   passatges per citació de Vilar i cap línia de primera mà.** **Prioritari.**
+3. ~~**L'article de Ch. Romeu al *Tour du Monde*, 1897.**~~ — **`parcial`**:
+   [Vilar, *L'Andorre* (1904)](../../../fonts/vilar-andorre-1904.md) identifica
+   **Charles Romeu com a veguer de França** i atribueix els dos passatges a
+   l'article del **4 de desembre de 1897**. El corpus ja té, doncs, autor,
+   publicació i data; continua pendent la consulta directa de l'article a
+   [Gallica](https://gallica.bnf.fr/ark:/12148/cb32878283g/date).
 4. **Cap acta de deliberació dels Corts.** **La font mateixa diu que la sala és
    secreta**, de manera que **el buit pot ser irreductible** — **i això és una
    propietat de la institució, no del corpus.**
