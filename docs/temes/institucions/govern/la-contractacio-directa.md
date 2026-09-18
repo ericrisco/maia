@@ -262,6 +262,53 @@ que «no poden tenir una durada superior a un any, ni ser objecte de pròrroga n
 de revisió de preus», i el 17.2.a que **la factura substitueix el document
 contractual i l'acta de recepció**.
 
+## Un segon cas real, i aquest arriba per la porta del parlament
+
+> **Afegit el 18-09-2026** des d'una font que el corpus va obrir el mateix dia,
+> la [seu electrònica del Consell General](../../../fonts/consell-general-seu.md).
+> **Drets tots reservats: el PDF no es versiona i el que entra és la cita amb
+> l'URL al costat.**
+
+**El Butlletí del Consell General número 61/2026, del 7 de setembre del 2026**,
+publica una **pregunta amb resposta oral** de la consellera general **Laia
+Moliné Cintas**, del Grup Parlamentari Socialdemòcrata, admesa a tràmit per la
+Sindicatura amb **declaració d'urgència** demanada a l'empara de l'article 132
+del Reglament del Consell General
+(`seu.consellgeneral.ad/documentPublic/download/3182`, registre núm. 751).
+
+> «Com justifica el Govern **l'adjudicació directa, per procediment negociat i
+> amb caràcter d'urgència, de prop de 3,1 milions d'euros en llicències
+> Microsoft i serveis associats**, després que el passat mes de juny, en
+> resposta a una pregunta escrita que vaig formular sobre Andorra Digital, el
+> mateix Govern afirmés que el seu model de transformació digital **buscava
+> evitar dependències rígides d'una tecnologia o d'un proveïdor concret**?»
+
+**Tres coses que aquest document dona i que la llei sola no dona.**
+
+**La primera és que la lletra c) s'usa a escala de milions.** **El llindar
+d'urgència de l'article 30 és de 40.000 € en obres i 25.000 € en serveis**; **el
+que la pregunta descriu és «procediment negociat i amb caràcter d'urgència» per
+una xifra dos ordres de magnitud per damunt.** `El corpus no pot dir per quina
+lletra es va adjudicar: la pregunta parla d'urgència i de procediment negociat i
+no cita cap lletra. Saber-ho demana l'edicte d'adjudicació, que l'article 18.3
+del reglament obliga a precisar.`
+
+**La segona és que hi ha un mecanisme de control que funciona i que el corpus no
+havia registrat**: **la pregunta parlamentària amb resposta oral i declaració
+d'urgència.** **On la llei de contractació posa la publicitat com a únic
+contrapès de la contractació directa, el Reglament del Consell General n'hi
+afegeix un segon: que algú la llegeixi i pregunti.**
+
+**I la tercera és una contradicció declarada per la mateixa font**: **el Govern
+havia respost al juny, per escrit, que el seu model volia evitar dependències
+d'un sol proveïdor.**
+
+> **Avís de lectura, i és important.** **Això és una pregunta, no una
+> resposta.** **La xifra «prop de 3,1 milions d'euros» és la caracterització de
+> la consellera**, no una xifra oficial d'adjudicació, i **el corpus no ha vist
+> ni l'edicte ni la resposta del Govern.** **El que queda provat és que la
+> pregunta existeix, amb data, registre i publicació al Butlletí.**
+
 ## Buits registrats
 
 1. ~~**A partir de quin import** un contracte menor passa per la Plataforma de
@@ -359,7 +406,14 @@ contractual i l'acta de recepció**.
    d'aprovació del Reglament de la Llei de contractació pública** — vegeu
    [El reglament que obliga a dir per quina lletra](#el-reglament-que-obliga-a-dir-per-quina-lletra).
 5. **Els altres 129 articles** d'aquesta llei.
-6. **Si hi ha hagut litigi** sobre l'article 30.
+6. **Si hi ha hagut litigi** sobre l'article 30. — **`parcial` el 18-09-2026:
+   litigi no en consta cap, control parlamentari sí.** **El Butlletí del Consell
+   General 61/2026 publica una pregunta amb resposta oral i declaració
+   d'urgència sobre una adjudicació directa per procediment negociat de prop de
+   3,1 milions d'euros**, vegeu
+   [un segon cas real](#un-segon-cas-real-i-aquest-arriba-per-la-porta-del-parlament).
+   `El litigi seria del Tribunal de Batlles o de la Sala Administrativa i el
+   corpus no n'ha cercat cap.`
 
 ## Related
 
