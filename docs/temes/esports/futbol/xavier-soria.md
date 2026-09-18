@@ -32,7 +32,7 @@ tags: [esports, futbol, seleccio]
 
 ## El que falta
 
-- Tot.
+- ~~Tot.~~ — **`no-es-buit` el 19-09-2026**: placeholder sense pregunta ni dada concreta.
 - **La resta de la carrera.**
 
 ## Related
