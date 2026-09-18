@@ -261,7 +261,40 @@ qualsevol plet comunal.**
    **Prioritari.**
 4. **L'article 16 de la Reforma de 1866** *(apèndix, pp. 12-13, ja registrat com
    a buit)* i **els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.**
-5. **El *Politar*, pp. 249 i 269.** — **Les pp. 219, 253, 276 i 277, `resoltes`
+5. ~~**El *Politar*, pp. 249 i 269.**~~ — **`resolt` el 18-09-2026, i la p. 249
+   dona la policia interna de la sala.**
+
+   **Ningú no entra armat al Consell**, **llevat dels Veguers, el Jutge i els
+   procuradors dels prínceps o de la Cambra Apostòlica en seu vacant**; **els
+   consellers que hi han entrat amb armes han estat castigats** «pues estos ho
+   saben y no poden allegar ignorancia»; i **als forasters i als qui no són de
+   Consell se'ls fa deixar l'espasa a la porta**, on hi ha **«lo patge, home o
+   criat de porta o cortina»** que també fa entrar la gent **«per son ordre y no
+   junts y de tropell»**, i que **demana les armes «ab tota modestia y
+   cortesia»**.
+
+   **I les regles de comportament porten pena de cot**: **no hi ha d'haver
+   «atropello de paraulas, alsar la veu, tota impolitica o descortesia»**, i qui
+   s'hi passi es castiga «declarantlos son cot o pena pecuniaria». **El vot té
+   una garantia escrita**: ha de ser **«ab tota llibertat y no coactivament,
+   ***pues ja no seria votar en concell***»**.
+
+   > **El fonament que hi posa és evangèlic**: **«*Ubi fuerint duo vel tres
+   > congregati in nomine meo, Ego in medio illorum sum*»**, **i el Politar en fa
+   > una condició**: l'Esperit Sant **no assistirà** «faltant la compostura,
+   > modestia, suavitat y fraternal concordia».
+
+   **La p. 269 no és de consols sinó de camins**, i **confirma des d'una altra
+   banda la política que el corpus ja té documentada**: els camins dels ports
+   convé que siguin **«bruscos, estrets y pedragosos»**
+   ([els camins dels ports, com més bruscos millor](../../territori/paisatge-construit/els-camins-dels-ports-com-mes-bruscos-millor.md)).
+   **I hi ha una obligació de comissari que val per a aquesta fitxa**: quan falti
+   una pedra d'un pont o d'una vora de camí, **ha d'esbrinar qui ho ha fet «ab
+   tota cautela y solicitut» i, ***tant si ho esbrina com si no***, fer-ne report
+   al primer consell.** **El deure de donar compte no depèn de tenir un
+   culpable.**
+
+   **Les pp. 219, 253, 276 i 277, `resoltes`
    el 18-09-2026, i la doctrina és més precisa que la paràfrasi.**
 
    **P. 276, punt 10è — el Consell es castiga a si mateix, i fins on:**
