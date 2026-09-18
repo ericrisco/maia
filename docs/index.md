@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1030** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1031** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1452,6 +1452,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [El Gini ha pujat vuit punts](temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 | [Sis-cents quaranta-quatre espanyols i tres-cents un andorrans](temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
+| [Tres-centes catorze criatures](temes/societat/proteccio-social/tres-centes-catorze-criatures.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/sanitat
 

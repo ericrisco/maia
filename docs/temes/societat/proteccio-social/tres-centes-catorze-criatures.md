@@ -1,0 +1,140 @@
+---
+type: article
+title: Tres-centes catorze criatures
+description: "El 2025 el sistema andorrà de protecció a la infància va intervenir en 233 famílies i 314 menors. Quaranta-un per cent d'aquelles famílies eren separades i vint per cent nuclears."
+tema: temes/societat/proteccio-social
+veu: compilada
+epoca: contemporania
+apte_llengua: false
+font: estadistica-ad
+timestamp: 2026-09-19T02:15:00Z
+tags: [societat, proteccio-social, infancia, familia, estadistica]
+---
+
+# Tres-centes catorze criatures
+
+**El servei de protecció a la infància, 2016-2025**
+(`docs/raw/estadistica-api/infancia/`, divisions 1537-1543, Departament
+d'Estadística, CC BY 4.0). **El corpus no tenia cap xifra d'aquest servei.**
+
+`El 2024 no hi és a cap de les set taules de la font. La sèrie salta del 2023 al
+2025.`
+
+## Quants
+
+| Any | Famílies | **Menors** | Taxa per cada 100 infants |
+| --- | ---: | ---: | ---: |
+| 2016 | 154 | **243** | 1,8 |
+| 2017 | 175 | 275 | 2,1 |
+| 2018 | 171 | 259 | 2,0 |
+| 2019 | 201 | 275 | 2,1 |
+| 2020 | 186 | 263 | 2,1 |
+| 2021 | 205 | 293 | 2,3 |
+| 2022 | 214 | 306 | 2,4 |
+| **2023** | **239** | **339** | **2,7** |
+| **2025** | 233 | **314** | **2,5** |
+
+**Els menors atesos pugen un 29,2% en nou anys** i **les famílies un 51,3%**:
+**cada vegada hi ha menys criatures per família atesa** —1,58 el 2016, **1,35 el
+2025**.
+
+**I la taxa puja de l'1,8 al 2,5 per cada cent infants del país.** `Vol dir que
+no és només que hi hagi més criatures: el servei arriba a una part més gran de
+la població infantil. Si això és més necessitat o més detecció, la font no ho
+diu.`
+
+## Quines famílies
+
+**Famílies ateses per tipus** (divisió 1542):
+
+| Tipus | 2020 | 2023 | **2025** | % del 2025 |
+| --- | ---: | ---: | ---: | ---: |
+| **Separada** | 62 | 86 | **97** | **41,6%** |
+| **Nuclear** | 33 | 43 | **47** | **20,2%** |
+| **Monoparental** | 32 | 31 | **46** | **19,7%** |
+| Reconstituïda | 12 | 22 | 22 | 9,4% |
+| Extensa | 20 | 27 | 12 | 5,2% |
+| Guarda compartida | 7 | 7 | 6 | 2,6% |
+| Aliena | 3 | 6 | 3 | 1,3% |
+| Residencial | 12 | 17 | **0** | 0,0% |
+| **Total** | **186** | **239** | **233** | 100% |
+
+**Quatre de cada deu famílies ateses pel servei són famílies separades**, i
+**dues de cada deu són nuclears.** **Separades i monoparentals juntes fan el
+61,4%.**
+
+`El corpus no en dedueix cap causa. Una família separada pot arribar al servei
+pel conflicte i pot arribar-hi per la precarietat, i la font no ho distingeix.
+El que sí que es pot dir és que la composició de les famílies ateses no
+s'assembla a la del país: la font no publica la distribució de totes les
+famílies andorranes per aquests mateixos tipus, i el corpus no pot fer la
+comparació.`
+
+**La categoria «residencial» passa de 17 famílies el 2023 a zero el 2025.** `Cap
+nota ho explica.`
+
+## Quines edats
+
+| Tram | 2016 | 2022 | 2023 | **2025** |
+| --- | ---: | ---: | ---: | ---: |
+| 0-3 anys | 23 | 24 | 30 | **34** |
+| 4-10 anys | **87** | 89 | 97 | **92** |
+| **11-15 anys** | 82 | **119** | **134** | **114** |
+| 16-18 anys | 51 | 74 | 78 | 74 |
+
+**El 2016 el grup més nombrós eren els de 4 a 10 anys; del 2022 ençà són els de
+11 a 15.** **Aquell tram puja un 39,0% en nou anys**, **més que cap altre.**
+
+`El desglossament del 2020 no es cita: el tram 4-10 hi cau de 97 a 35 i el
+16-18 hi puja de 65 a 137, cosa que no s'assembla a cap altre any de la sèrie
+mentre el total sí que hi és coherent. Registrat com a defecte de la font.`
+
+## Què es fa
+
+**Mesures de protecció** (divisió 1541):
+
+| Mesura | 2016 | 2020 | 2023 | **2025** |
+| --- | ---: | ---: | ---: | ---: |
+| **Acollits per la família extensa** | 23 | 27 | **37** | **30** |
+| Ingressos al Centre d'Acolliment La Gavernera | 15 | **4** | 19 | 11 |
+| Acollits en família aliena | 6 | 6 | 7 | 6 |
+| Centres terapèutics fora del país | 9 | 9 | 11 | 6 |
+| Acollits per mesura urgent | 4 | 1 | 2 | **0** |
+| **Total d'infants atesos a La Gavernera** | 31 | 25 | 40 | **41** |
+| Ingressos per guarda administrativa | — | 0 | 2 | 2 |
+
+**L'acolliment que més es fa servir és la pròpia família de la criatura**: **30
+dels acolliments del 2025**, contra **6 en família aliena**. **Cinc vegades
+més.**
+
+**I hi ha criatures andorranes en centres terapèutics fora del país cada any de
+la sèrie**: **entre 3 i 14**, **sis el 2025**. `El corpus no sap a quins països
+ni per què no es fa al Principat; la font dona el nombre i prou.`
+
+**El 2025 no hi va haver cap acolliment per mesura urgent**, per primera vegada
+en deu anys.
+
+## Buits registrats
+
+- **El 2024 no existeix a cap de les set taules.** `font_externa`
+- **La taula de «nous casos» (divisió 1538) està trencada**: dona **44 famílies
+  i 63 menors quatre anys seguits** i **zero del 2021 ençà**. **El corpus no la
+  cita.** `font_externa`
+- **La taula per tipus de família diu «nous casos» i el seu total és el de tots
+  els casos.** El corpus la llegeix com a total i ho diu. `font_externa`
+- **La categoria «abús sexual» passa de 22 casos (2019) a zero (2022-2025)** el
+  mateix any en què n'apareixen quatre de noves —maltractament psicològic,
+  incapacitat parental, violència filioparental, conflicte greu entre
+  progenitors—. **És una recategorització i el corpus no cita aquella sèrie**,
+  però **no ha trobat cap nota metodològica que ho confirmi.** `pregunta_oberta`
+- **No hi ha desglossament per parròquia ni per nacionalitat.** `La font no ho
+  desagrega.`
+- **A quins països van les criatures que s'envien a centres terapèutics fora
+  d'Andorra**, i per què no es fa al país. `pregunta_oberta`
+- **La llei de protecció de la infància i l'adolescència** no s'ha llegit: el
+  corpus té les xifres del servei i no la norma que el crea.
+  `pregunta_oberta`
+- **La distribució de totes les famílies andorranes per tipus** —nuclear,
+  separada, monoparental— **no es publica**, i sense ella **no es pot dir si el
+  41,6% de famílies separades ateses és més o menys del que li tocaria.**
+  `font_externa`
