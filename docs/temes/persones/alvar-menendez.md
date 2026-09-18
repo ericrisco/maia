@@ -52,9 +52,15 @@ segons
 
 1. **El seu nom complet i dades biogràfiques** (naixement, mort,
    formació) — cap font consultada les dona.
-2. **La proposta de remuntadors a Arinsal el 1956**, amb Amadeu
+2. ~~**La proposta de remuntadors a Arinsal el 1956**, amb Amadeu
    Rossell — esmentada per una cerca agregada, no verificada per
-   lectura directa d'una font.
+   lectura directa d'una font.~~ — **`resolt` el 19-09-2026**: el catàleg
+   històric del **Govern d'Andorra** documenta que el **1956 Amadeu Rossell i
+   Àlvar Menéndez** van sol·licitar instal·lar un **telesquí a Arinsal**
+   ([fitxa de font](../../fonts/govern-historia-esqui-1956.md), p. 49 de
+   l'edició impresa). **El dossier tècnic original i la resolució no hi
+   consten**; el buit que queda és documental, no la identificació de la
+   proposta.
 
 ## Related
 
