@@ -45,6 +45,13 @@ La CNRA proposa actuacions, coordina les administracions i **avalua el resultat
 de les polítiques**, i «ha de mantenir reunions ordinàries **almenys cada 6
 mesos**» (article 5.4).
 
+El Govern documenta una reunió concreta: el **5 de març de 2024**, el ministre
+Guillem Casal va presidir la **primera reunió de la CNRA de la nova legislatura**.
+S'hi va acordar avançar cap a criteris urbanístics homogenis per a les
+explotacions ramaderes i crear un **grup de treball tècnic** per preparar la
+reforma legislativa i coordinar-la amb els comuns
+([fitxa de font](../../../fonts/govern-cnra-2024.md)).
+
 ## Per què una llei per a tan poca gent
 
 Perquè el que es protegeix no és un pes econòmic, sinó **una continuïtat**: la
@@ -103,4 +110,4 @@ desaparèixer quan van arribar el comerç i la neu.
   **El mecanisme de fons és un de sol i es repeteix a cada disposició**: **no
   crea drets nous per als pagesos, sinó que fa que l'estar inscrit al Registre
   d'Explotacions Agràries valgui davant de cada una d'aquelles lleis.**
-- **Si la CNRA s'ha reunit** des del 2022, i amb quin resultat, tampoc.
+- ~~**Si la CNRA s'ha reunit** des del 2022, i amb quin resultat, tampoc.~~ — **`parcial` el 19-09-2026**: el Govern documenta la primera reunió de la nova legislatura, el 05-03-2024, amb un acord per homogeneïtzar els criteris urbanístics de les explotacions i crear un grup de treball tècnic ([fitxa de font](../../../fonts/govern-cnra-2024.md)). **No hi ha encara una sèrie completa d'actes ni el resultat posterior del grup.**
