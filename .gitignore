@@ -58,3 +58,15 @@ docs/raw/llibres/brutails-ia/*.djvu
 # 26 MB de binaris. El text extret sí que hi és, a docs/raw/consell-general/
 # actes-historiques/text/, que és el que el corpus cita.
 docs/raw/consell-general/actes-historiques/**/*.pdf
+
+# Departament d'Agricultura (www.govern.ad) — drets reservats, redistribucio: no
+# segons docs/fonts/govern-andorra-web.md. Les xifres se citen als articles amb
+# atribucio; els PDF i el text extret no es versionen. Provinenca i hash al
+# README de la carpeta.
+docs/raw/estadistica-agricultura/explotacions-tipus-*
+docs/raw/estadistica-agricultura/superficie-conreu-parroquia-*
+docs/raw/estadistica-agricultura/superficie-categoria-harmonitzada-*
+docs/raw/estadistica-agricultura/evolucio-cabana-*
+docs/raw/estadistica-agricultura/bestiar-parroquia-*
+docs/raw/estadistica-agricultura/piramide-edats-*
+docs/raw/estadistica-agricultura/apicultura-*

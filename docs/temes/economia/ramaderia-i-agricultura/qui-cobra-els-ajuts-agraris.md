@@ -190,8 +190,18 @@ apareixerà a la nota del juny del 2027.**
   14, no localitzat.`
 - **Els ajuts dels comuns parròquia per parròquia.** La nota en dona el total i
   diu que Ordino i Sant Julià són estimats. `La font no desagrega.`
-- **A105 (superfícies de cultiu), A106 (explotacions agràries) i A109
-  (ramaderia)** segueixen sense localitzar pel sondeig del patró d'URL.
+- ~~**A105 (superfícies de cultiu), A106 (explotacions agràries) i A109
+  (ramaderia)** segueixen sense localitzar pel sondeig del patró d'URL.~~ —
+  **`resolt` el 18-09-2026 pel que importa**: **A106 i A109 s'han localitzat**
+  al `20250527` amb un segon sondeig, i **no contenen cap dada**: remeten a la
+  pàgina del Departament d'Agricultura, on **sí que hi ha les explotacions, les
+  superfícies i la cabana ramadera**, amb sèries que arriben al 1988.
+  Destil·lades a [Cent hectàrees de tabac](../tabac/cent-hectarees-de-tabac.md)
+  i [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md).
+  `La nota A105 segueix sense localitzar; les seves dades, no.`
+- **Les 38 explotacions que falten.** La nota compta **340 explotacions** i el
+  parcel·lari del mateix any en compta **302 amb terra declarada**. `Cap de les
+  dues fonts no comenta la diferència.`
 - **On és el suport al tabac**, si n'hi ha. `Cal buscar fora del Departament
   d'Agricultura.`
 
@@ -201,4 +211,5 @@ apareixerà a la nota del juny del 2027.**
 - [Ramaderia i agricultura](./ramaderia-i-agricultura.md)
 - [La transhumància](./la-transhumancia.md) — la pràctica que l'article 14 paga per mantenir.
 - [La crisi de l'oví](./la-crisi-de-lovi.md)
+- [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md) — el bestiar que aquests ajuts sostenen, comptat des del 1988.
 - [Què aprova el pressupost de 2026](../banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)

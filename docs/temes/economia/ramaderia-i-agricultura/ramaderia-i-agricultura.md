@@ -66,10 +66,31 @@ transformació del país en una sola paraula. Detall complet a
 
 ## El que falta
 
-La transhumància: rutes, calendari, quan va acabar. Els camins ramaders. Les
-xifres de cabana ramadera al llarg del segle XX. I sobretot el lèxic viu de
-l'ofici, que probablement només es pugui recollir de testimoni oral —material de
-la fase 3. **Buit registrat.**
+La transhumància: rutes, calendari, quan va acabar. Els camins ramaders. I
+sobretot el lèxic viu de l'ofici, que probablement només es pugui recollir de
+testimoni oral —material de la fase 3. **Buit registrat.**
+
+~~Les xifres de cabana ramadera al llarg del segle XX.~~ — **`parcial` el
+18-09-2026**: **del 1988 ençà hi són any per any**, al *Padral* del Departament
+d'Agricultura ([Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md)).
+`Dels vuitanta-vuit anys entre el cens de 1900 i el 1988, res.`
+
+## Qui queda, el 2025
+
+El mateix registre publica dues coses que diuen més que la cabana:
+
+- **Els titulars d'explotació són 106**, i **43 en tenen més de 60** —el
+  **40,6%**—; només **7** en tenen menys de 30. **Però els delegats d'explotació
+  són 325**, i la seva piràmide és una altra: el gruix hi és entre els 51 i els
+  70.
+- **L'apicultura són 26 explotacions i 416 ruscs**, i **dues explotacions en
+  tenen 226** —el **54% de tots els ruscs del país**—. **De les 26, 21 declaren
+  autoconsum i 5 comercialització**; **però els ruscs comercials són 277 dels
+  416**, el **67%**. **La immensa majoria de les explotacions no ven, i la
+  majoria de la mel sí.**
+
+*Font: Registre d'Explotacions Agràries, any 2025, Departament d'Agricultura i
+Ramaderia ([drets](../../../fonts/govern-andorra-web.md)).*
 
 ## Related
 
@@ -77,3 +98,5 @@ la fase 3. **Buit registrat.**
 - [Quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) — qui gestionava els comunals.
 - [Paisatge construït](../../territori/paisatge-construit/paisatge-construit.md) — bordes i cortals al territori.
 - [La Comissió dels pagesos](./la-comissio-dels-pagesos.md) — la llei de 2022 i l'òrgan on seuen els set cònsols.
+- [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md) — la cabana del 1988 al 2026.
+- [Cent hectàrees de tabac](../tabac/cent-hectarees-de-tabac.md) — la terra, el 2025.

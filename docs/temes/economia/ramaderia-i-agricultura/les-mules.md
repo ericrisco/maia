@@ -186,7 +186,14 @@ XVIII**.
    documentat?~~ **TANCAT**: drets al General i de nova ampra, Sartine 1728,
    Sentència de manutenció.
 5. **Quan es deixa de criar mula** per vendre. Segueix obert: Mas 1994 arriba al
-   començament del XIX i Mas 2002 salta a la mecanització.
+   començament del XIX i Mas 2002 salta a la mecanització. — **`parcial` el
+   18-09-2026**: **no es diu quan, però sí on s'acaba.** El padral del juny de
+   2026 compta **set mules i matxos a tot el país** —cinc femelles i dos
+   mascles—, contra les **60** del cens de 1900, i **el 76% dels equins
+   d'Andorra són avui d'aptitud càrnica**
+   ([Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md)).
+   `La data del final segueix sense fixar: la sèrie només desglossa aptituds a
+   l'edició del 2026.`
 6. **El text de la Sentència de manutenció.** El corpus no l'ha vist.
 7. ~~**Quant era una lliura.** Sense equivalència, «noranta lliures» només es pot
    llegir en relació amb el sou del metge.~~

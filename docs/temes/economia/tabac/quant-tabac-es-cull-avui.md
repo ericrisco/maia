@@ -137,12 +137,18 @@ l'original.**
 
 ## El que falta
 
-- **La superfície conreada.** És l'activitat **A105, «Estadística sobre
-  superfícies i tipologies de cultius»**, i **el sondeig del patró d'URL no l'ha
-  localitzada** ni per al 2025 ni per al 2026. `Requereix la data de
-  publicació.`
+- ~~**La superfície conreada.**~~ — **`resolt` el 18-09-2026**: **1.027.719 m²,
+  102,8 hectàrees, el 5,28% de la superfície agrària útil del país**, any 2025.
+  **No era a `estadistica.ad`**: és al Departament d'Agricultura, i s'hi arriba
+  per l'enllaç que amaguen les notes A106 i A109. Repartiment per parròquia,
+  desglossament per explotacions amb i sense bestiar, i les 28 hectàrees que
+  fan una segona collita, a
+  [Cent hectàrees de tabac](./cent-hectarees-de-tabac.md).
+  `La nota de premsa A105 segueix sense localitzar; les dades que hauria de
+  difondre, no.`
 - **Quants conreadors hi ha**, que és la xifra que faria llegible tota la resta.
-  `La nota ho esmenta en prosa i no ho quantifica.`
+  `La nota ho esmenta en prosa i no ho quantifica, i el parcel·lari del 2025
+  tampoc: dona 302 explotacions declarants i no diu quantes fan tabac.`
 - **La sèrie any per any del 1973 ençà.** **La nota la dibuixa en un gràfic i en
   publica quatre talls i dos extrems.** `El gràfic no porta etiquetes; només
   s'han pres els dos valors que hi surten retolats —1.047.036 i 109.038— i els
@@ -163,5 +169,6 @@ l'original.**
 - [El tabac](./tabac.md) — la fitxa general, i el buit que aquesta tanca.
 - [La revolta del tabac de 1733](./la-revolta-del-tabac-de-1733.md)
 - [La vinya i el tabac](../ramaderia-i-agricultura/la-vinya-i-el-tabac.md) — la substitució del segle XVIII.
+- [Cent hectàrees de tabac](./cent-hectarees-de-tabac.md) — la terra, que aquesta fitxa no tenia.
 - [El museu del tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md)
 - [Els anys daurats](../../historia/historia-recent/els-anys-daurats.md) — «l'únic cultiu que queda».

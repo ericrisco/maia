@@ -171,7 +171,15 @@ cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
 3. **El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***,
    Madrid, 1895, **pàgina 9**, que és d'on surt la quota. Brutails el cita; el
    corpus no el té.
-4. **Els censos posteriors a 1900**, i si es van seguir fent.
+4. ~~**Els censos posteriors a 1900**, i si es van seguir fent.~~ —
+   **`resolt` el 18-09-2026**: **es van seguir fent, i el que hi ha publicat és
+   el *Padral*** del Departament d'Agricultura, **comptat cada juny i amb sèrie
+   del 1988 al 2026**. **El bestiar boví del 1988 és de 1.081 caps i el del
+   cens de 1900 n'era de 1.080.** Sèrie, desglossaments i les set mules que en
+   queden, a
+   [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md).
+   `El que segueix obert són els vuitanta-vuit anys del mig: entre el 1900 i el
+   1988 no s'ha localitzat cap recompte.`
 5. **Quantes bèsties tenia Andorra el 1895**, l'any de la discussió. Els censos
    són de tres anys després.
 6. **Els porcs**: la taula francesa no els compta, i la quota espanyola sí (56).

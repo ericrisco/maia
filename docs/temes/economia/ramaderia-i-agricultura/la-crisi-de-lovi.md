@@ -111,7 +111,14 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 
 1. La **sentència de 1731** — text, qui la dicta, què deia exactament.
 2. **Quina epidèmia** va delmar els ramats i amb quines pèrdues.
-3. Les **xifres** de cabana ovina al llarg dels segles.
+3. Les **xifres** de cabana ovina al llarg dels segles. — **`parcial` el
+   18-09-2026**: **del 1988 al 2026 la sèrie hi és, any per any**, i diu una
+   cosa que aquesta fitxa no explica: **Andorra perd el 57,2% de les ovelles
+   entre el 1993 i el 1996**, toca fons el 2000 amb 1.586 caps i **remunta fins
+   a 2.735 el 2026**
+   ([Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md)).
+   `Dels segles, res: la sèrie comença el 1988, i la caiguda dels noranta no té
+   explicació a cap font del corpus.`
 4. ~~La **transhumància**: rutes, calendari, quan s'acaba.~~ **Calendari i final,
    tancats:** [La transhumància](./la-transhumancia.md). **Les rutes concretes
    segueixen sent buit.**
@@ -122,6 +129,7 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 
 - [L'agricultura de subsistència](./lagricultura-de-subsistencia.md) — l'altra meitat.
 - [Les mules](./les-mules.md) — el que la va substituir.
+- [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md) — l'altra caiguda ovina, la dels anys noranta.
 - [El ferro](../../cultura/artesania/el-ferro.md) — on va anar el capital dels Areny.
 - [Ramaderia i agricultura](./ramaderia-i-agricultura.md) — la branca i el lèxic.
 - [Paisatge construït](../../territori/paisatge-construit/paisatge-construit.md) — orris, pletes, cortals.
