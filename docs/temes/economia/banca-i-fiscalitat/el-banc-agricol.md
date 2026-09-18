@@ -305,10 +305,13 @@ Andorra, o les actes del Consell General de 1935 i 1949.`
    ([font](../../../fonts/pallares-medicina-andorra.md)).
    **Continua obert:** **casa Guillema**, que **no surt enlloc més del corpus**,
    i qualsevol cronologia de la plaça.
-8. **Tres dates per a l'arribada de la Caixa** — 1935, 1949 i 1951.
-   **`obert`, buit nou obert el 2026-09-13** per l'auditoria interna. El detall
-   i la hipòtesi són a la secció **«Tres dates per a la mateixa caixa»**, més
-   amunt en aquesta mateixa fitxa.
+8. ~~**Tres dates per a l'arribada de la Caixa** — 1935, 1949 i 1951.~~ —
+   **`parcial`**: la secció **«Tres dates per a la mateixa caixa»** ja les
+   documenta amb les fonts respectives i proposa una seqüència possible —1935,
+   oficina d'estalvi; 1949, instal·lació plena; 1951, entrada com a banc—,
+   però **cap font del corpus no encadena les tres**. La divergència queda
+   registrada i la identificació definitiva requereix la cronologia de la Caixa
+   o les actes del Consell General de 1935 i 1949.
 
 ## Related
 
