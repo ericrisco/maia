@@ -181,6 +181,64 @@ castellà, el francès, el portuguès i l'anglès, i no per al català.`
 **Aproximadament la meitat del temps que es parla a Andorra es parla en
 català.** `Només hi ha dos punts de sèrie; no permet dir cap tendència.`
 
+## El diferencial: parles en català i et responen en català?
+
+**Afegit el 18-09-2026.** **El corpus ja tenia aquest diferencial per al 2018**
+([el dipòsit legal](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
+**El que no tenia és la sèrie**, i **la sèrie diu una cosa que un any sol no
+pot dir.**
+
+**La xifra és `atenen només en català` menys `parla només en català`**, en
+punts. **Positiu vol dir que el taulell posa més català del que rep. Negatiu,
+que en posa menys.**
+
+| Àmbit | 1995 | 1999 | 2004 | 2009 | 2014 | **2018** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Administració** | +7,8 | +13,2 | +10,7 | +12,1 | +10,9 | **+0,5** |
+| **Banc** | +4,8 | +6,8 | +7,0 | +8,1 | +7,8 | **+4,3** |
+| Metge | −1,6 | +3,1 | +4,4 | +2,5 | +1,2 | +1,3 |
+| **Perruqueria** | **+0,0** | **−0,6** | **+0,4** | **−1,7** | **−0,3** | **−1,1** |
+| Botigues | −10,0 | −1,4 | −1,1 | +1,3 | −1,7 | −1,8 |
+| Bars | −8,5 | −0,7 | −1,4 | −6,5 | −8,7 | −4,5 |
+| Restaurant | −3,4 | +0,7 | −0,9 | −4,9 | −0,7 | −5,7 |
+| **Taxi** | −5,4 | −1,5 | −1,7 | −8,3 | −9,1 | **−7,6** |
+| **Grans magatzems** | −16,8 | −3,7 | −1,1 | −12,7 | −2,2 | **−9,7** |
+
+**Tres coses que només es veuen amb les sis onades al davant.**
+
+**Primera: el signe és estable i no és casual.** **L'Administració i el banc
+tenen diferencial positiu a les sis onades** —el banc sense excepció, i
+l'Administració també—, i **el taxi i els grans magatzems el tenen negatiu a
+les sis.** **No és soroll d'una enquesta: és una propietat del taulell.**
+
+**Segona: la perruqueria és el mirall.** **Sis onades i el diferencial no
+s'allunya mai d'un punt i mig de zero** —+0,0, −0,6, +0,4, −1,7, −0,3, −1,1.
+**A la perruqueria et responen exactament en la llengua que hi parles**, i
+**és l'únic àmbit dels nou del qual això es pot dir.**
+
+**Tercera: el 2018 l'Administració deixa de posar-hi català de més.** **De
++10,9 el 2014 a +0,5 el 2018**: **un diferencial de deu punts que desapareix en
+una onada.** **En xifres absolutes**, l'atenció només en català a
+l'Administració passa del **91,5% al 62,2%** —**29,3 punts**— mentre **el que
+els ciutadans hi parlen només baixa del 80,6% al 61,7%.** **La caiguda del
+taulell és més gran que la del ciutadà.**
+
+`El 2014 no és comparable amb la resta de la sèrie per metodologia
+([la sèrie que no és una sèrie](./la-serie-que-no-es-una-serie.md)), i això
+afecta la mida del salt del 2014 al 2018, no el seu signe: el 2009 el
+diferencial de l'Administració era +12,1 i el 2018 és +0,5.`
+
+**I una advertència que el corpus ha de dir en veu alta**: **un diferencial de
+zero no és bo ni dolent per si sol.** **A la perruqueria vol dir simetria** —et
+responen com hi parles—; **a l'Administració vol dir que ha deixat de posar
+català per damunt del que rep**, que és una cosa ben diferent.
+
+`L'obligació d'atendre en català la fixa la Llei 6/2024
+([la llei de la llengua](./la-llei-de-la-llengua.md)), sis anys posterior a
+l'última onada d'aquesta taula. El corpus no té el text de la llei d'ordenació
+de l'ús de la llengua oficial del 1999, que és la que regia el 2018, i per tant
+no diu què obligava llavors.`
+
 ## Comprovacions
 
 - **Les taules de repartiment sumen 100,0 a totes les onades**: casa, amics,
@@ -206,9 +264,14 @@ català.** `Només hi ha dos punts de sèrie; no permet dir cap tendència.`
 - **Els desglossaments per nacionalitat** només hi són per a l'indicador d'ús
   (divisions 1975-1978), no per a les preguntes d'àmbit.
 - **La mida mostral de cada onada**, que l'API no publica.
-- **Les trenta taules d'àmbit que aquesta fitxa no reprodueix** —metge, grans
+- ~~**Les trenta taules d'àmbit que aquesta fitxa no reprodueix** —metge, grans
   magatzems, botigues, banc, bars, perruqueria, feina interna i externa— **són
-  al TSV i no s'han destil·lat.**
+  al TSV i no s'han destil·lat.**~~ — **`parcial` el 18-09-2026.** **El
+  diferencial `atenen` menys `parla` de nou àmbits i sis onades ja hi és**, a
+  «[El diferencial](#el-diferencial-parles-en-catala-i-et-responen-en-catala)».
+  `Segueixen sense destil·lar les files de «català i castellà» i «altres
+  situacions» de cada àmbit, i les dues taules de feina —interna i externa—,
+  que són al TSV.`
 
 ## Related
 
