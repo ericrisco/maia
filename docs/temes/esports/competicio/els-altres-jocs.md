@@ -240,7 +240,9 @@ Olímpic Andorrà o al CIO.**
 - **Els Jocs de la Joventut**, sencers. — **`obert`, i ara amb el motiu
   escrit**: **la font que el corpus fa servir no en té pàgina.** Vegeu més
   amunt. `Requereix el Comitè Olímpic Andorrà o el CIO.`
-- **Els Paralímpics d'estiu després del 2012.** — **`obert`, i ara amb el
+- ~~**Els Paralímpics d'estiu després del 2012.**~~ — **`parcial`: el registre
+  llista les edicions 2016-2024, però no documenta cap delegació andorrana.**
+  **`obert`, i ara amb el
   registre a la mà**: **la pàgina general del Comitè Paralímpic llista
   «2012, 2016-2024»** i **cap edició posterior al 2012 no té delegació
   documentada** ([els Paralímpics](./andorra-als-jocs-paralimpics.md)).

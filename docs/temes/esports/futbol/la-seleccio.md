@@ -142,7 +142,7 @@ partits o més amb Andorra.**
 
 ## El que falta, i és molt
 
-- **Les catorze victòries.** El corpus **ja en coneix quatre**, i és una millora
+- ~~**Les catorze victòries.**~~ El corpus **ja en coneix quatre**, i és una millora
   substancial sobre l'única que tenia:
 
   | # | Contra | Quan | Com se sap |
@@ -239,7 +239,9 @@ partits o més amb Andorra.**
   selecció, o la base de dades de la UEFA.`
 
   **Segueixen faltant les dates de la resta, i els marcadors.** **Buit
-  prioritari, però molt més petit que abans: de catorze, sis ja tenen data.**
+  prioritari, però molt més petit que abans: de catorze, sis ja tenen data.**~~ —
+  **`parcial`: nou victòries ja tenen data i rival, però la contradicció entre
+  fonts i les restants dates i marcadors continuen obertes.
 > **Auditat el 2026-09-13.** **Quatre dels sis buits d'aquesta llista havien
 > deixat de ser certs el mateix dia que es van escriure**: **el corpus els va
 > omplir hores després i ningú no va tornar aquí a ratllar-los.** **És el cas

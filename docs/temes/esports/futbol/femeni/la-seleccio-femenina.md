@@ -213,7 +213,8 @@ actual és [Teresa Morató](./teresa-morato.md).**
 
 ## El que falta
 
-- **Les altres nou victòries**: el corpus en documenta tres amb data i marcador.
+- ~~**Les altres nou victòries**~~: el corpus en documenta tres amb data i
+  marcador. **`parcial`: les sis restants continuen sense documentar.
 - **La lliga femenina que no existeix**: si mai n'hi va haver, i per què no n'hi
   ha. La font parla d'**«una competició nacional femenina que va tenir lloc el
   2010-11»** i no en diu res més.
