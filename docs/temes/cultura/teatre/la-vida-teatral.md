@@ -184,8 +184,8 @@ d'investigació amb signatura**:
 5. **De 1970 ençà**: setanta anys estudiats, cinquanta-sis sense estudiar.
 6. **El Casal del Centre** i els seus cursos de teatre.
 7. **El Sindicat d'Iniciativa de les Valls d'Andorra.**
-8. **El bisbe Guitart** i la seva posició sobre les escoles. — **`parcial` des
-   del 2026-09-13, i mig buit era fals: la posició ja és aquí**, a la taula de
+ 8. ~~**El bisbe Guitart i la seva posició sobre les escoles**~~ — **`parcial` des
+    del 2026-09-13**: mig buit era fals: la posició ja és aquí, a la taula de
    dalt, i **és la declaració més explícita que el corpus té sobre els tres
    sistemes educatius**. **S'ha connectat amb
    [l'ensenyament confessional](../../societat/educacio/lensenyament-confessional.md)**,

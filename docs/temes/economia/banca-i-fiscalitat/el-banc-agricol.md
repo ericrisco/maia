@@ -297,8 +297,7 @@ Andorra, o les actes del Consell General de 1935 i 1949.`
 6. ~~**Què va ser del Banc Agrícol** — existeix encara, amb quin nom?~~ —
    **tancat**: **es va fusionar amb Banca Reig i el resultat és AndBank**
    ([l'oligopoli bancari](./loligopoli-bancari.md)).
-7. **La plaça Rebés** i **casa Guillema**.
-   **`parcial` — 2026-09-13.** El corpus ja hi situa **tres edificis en tres
+ 7. ~~**La plaça Rebés i casa Guillema**~~ — **`parcial` el 13-09-2026**. El corpus ja hi situa **tres edificis en tres
    fitxes separades**: el **banc** i **l'escola** (aquesta fitxa, records de
    Cerqueda) i una **«clínica petita a l'actual plaça Rebés»** el **1968**
    ([de les iguales a l'hospital](../../societat/sanitat/de-les-iguales-a-lhospital.md)),

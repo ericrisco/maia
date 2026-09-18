@@ -284,8 +284,8 @@ assembla força al que aquest corpus intenta fer amb text.
 
 - **Què va passar realment del 2001 ençà.** Tota la meitat final d'aquesta fitxa
   és **pla anunciat el 2000**. **Buit prioritari.**
-- **La relació entre el CRECIT i el CENMA.** — **`parcial` des del 2026-09-13, i
-  el corpus té una prova que no sabia que tenia: el CRECIT va existir i va
+- ~~**La relació entre el CRECIT i el CENMA**~~ — **`parcial` des del 2026-09-13**:
+   el corpus té una prova que no sabia que tenia: el CRECIT va existir i va
   treballar.** **[Com es compta l'aigua dels canons](../../territori/clima-i-muntanya/com-es-compta-laigua-dels-canons.md)
   cita dades de «CRECIT (2005)»**, i el material en brut les documenta amb títol
   i tot: **CRECIT-IEA (2005), *Estudi sobre la despesa hídrica actual i futura al

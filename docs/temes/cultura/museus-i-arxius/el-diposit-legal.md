@@ -171,9 +171,8 @@ obligats**.
 
 ## Buits registrats
 
-- **Quant hi ha dipositat**, i des de quan, no consta. La llei és del **2025**;
-  el dipòsit legal andorrà és **molt anterior**, i el corpus no en té la
-  història. — **`parcial` el 17-09-2026, i la part que es tanca és una via.**
+- ~~**Quant hi ha dipositat, i des de quan**~~ — **`parcial` el 17-09-2026**:
+   la llei és del **2025**; el dipòsit legal andorrà és **molt anterior**, i la part que es tanca és una via.
   **Al [BOPA](../../../fonts/bopa.md) no hi ha cap norma de dipòsit legal
   anterior a la Llei 15/2025**: la cerca només retorna la llei i el
   Decret 100/2026. **El número «AND.» és anterior a tota norma** —el mateix

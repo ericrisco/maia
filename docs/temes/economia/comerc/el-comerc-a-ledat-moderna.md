@@ -257,9 +257,9 @@ Deducció de Mas: **les compraven per revendre**.
 
 ## Buits registrats
 
-1. **Els traginers.** El corpus segueix sense fitxa pròpia de l'ofici, tot i que
-   ara hi ha rutes, contractants i mercaderies. **Buit registrat, ja tancable.**
-   — **`parcial` des del 2026-09-13.** **[Joan Becat](../../../fonts/becat-tesi-1993.md)
+ 1. ~~**Els traginers**~~ — **`parcial` des del 2026-09-13**: el corpus segueix sense fitxa pròpia de l'ofici, tot i que
+    ara hi ha rutes, contractants i mercaderies. **Buit registrat, ja tancable.**
+    **[Joan Becat](../../../fonts/becat-tesi-1993.md)
    n'aporta l'estructura social de l'ofici**: **a cada parròquia hi havia
    traginers que l'exercien tot l'any**, **i al seu voltant el *tragí* era una
    activitat complementària per a homes joves i fins i tot per a adolescents**

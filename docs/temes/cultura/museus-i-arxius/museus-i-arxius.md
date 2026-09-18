@@ -57,9 +57,9 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
   fet que n'ha sortit**: **la xarxa museística andorrana es va dissenyar el 1994
   com a antenes al voltant d'un Museu Nacional d'Andorra que no s'ha construït
   mai.** **El país té vint antenes i cap tronc.**
-- El *Diccionari enciclopèdic d'Andorra* (2007) i el *Vocabulari d'Andorra*
-  (1992), citats per l'IEC i no consultats directament. — **`parcial` des del
-  2026-09-13.** **El DEA ja té fitxa pròpia**:
+- ~~**El *Diccionari enciclopèdic d'Andorra* i el *Vocabulari d'Andorra***~~ —
+   **`parcial` des del 2026-09-13**: citats per l'IEC i no consultats directament.
+   **El DEA ja té fitxa pròpia**:
   [el Diccionari enciclopèdic d'Andorra](../../historia/historiografia/el-diccionari-enciclopedic.md),
   que en descriu el contingut, **registra la discrepància de data** (edició 2006,
   presentació el juny del 2007) i **diu exactament què hi falta per obrir**: les
