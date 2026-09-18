@@ -279,8 +279,12 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    dels drets a la casa de Foix.**
 9. **Què és «la constitution du divin Adrien»** a què renuncia el rei d'Aragó.
    **Nou.**
-10. **Si el Pariatge de 1288 té una estructura semblant.** **El corpus segueix
-    sense el seu text.**
+10. ~~**Si el Pariatge de 1288 té una estructura semblant.** **El corpus segueix
+    sense el seu text.**~~ — **`parcial` el 19-09-2026**: el text de 1288 ja hi
+    és en **traducció francesa** a [El Pareatge](./el-pareatge.md), Vilar (1904),
+    pp. 159-173. El **llatí original** i la comparació estructural amb el
+    Pariatge de 1278 continuen oberts; el que era fals era afirmar que no hi
+    havia cap text.
 
 ## Related
 
