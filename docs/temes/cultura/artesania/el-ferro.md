@@ -231,7 +231,7 @@ no és qui ho fa, és el món que ho necessitava**.
 2. La **farga de casa Areny**: què en queda, si és visitable.
 3. **D'on sortia el mineral** — mines andorranes o importació? Mas 1994 parla
    d'«obtenció de les matèries primeres» com a condicionant **sense dir-ne
-   l'origen**. **Segueix obert** — **amb un indici nou del 17-09-2026 que el
+   l'origen**. **`parcial`** — **amb un indici nou del 17-09-2026 que el
    corpus registra sense convertir-lo en prova.** L'acta del **13 de setembre de
    1629** enumera **tres oficis francesos a les fargues**: **«fargaires,
    carbonés, menairons»**. **Els dos primers són inequívocs**; **el tercer
