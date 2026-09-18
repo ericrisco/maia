@@ -141,10 +141,12 @@ fragmenta amb les herències**.
    **mil dos-cents sous que el bisbe li dona a canvi**. **El que segueix obert és
    el bisbe**: **el document diu «Petrus» i prou**; **«Pere Berenguer» és de
    fonts secundàries.**
-4. Quins eren **els límits** d'aquells alous — coincidien amb l'Andorra d'avui?
+4. ~~Quins eren **els límits** d'aquells alous — coincidien amb l'Andorra d'avui?
    — **Per al 1133 ja hi ha una referència**, i és l'única que aquell acte dona:
    **«de ipso monasterio Sancti Saturnini ad amont»**, del monestir de Sant Serni
-   cap amunt. **On era i què tanca, segueix obert.**
+   cap amunt.~~ **`parcial`: el text fixa aquesta referència, però encara no
+   permet identificar quin traçat geogràfic cobreix ni si coincideix amb
+   l'Andorra actual.**
 5. Si hi ha **historiografia crítica** sobre aquestes dues donacions, com n'hi ha
    sobre la Carta de Carlemany.
 6. **Qui era Borrell II** i per què s'hi desprenia.
