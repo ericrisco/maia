@@ -328,9 +328,33 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 5. **L'acte de llibertat provisional de l'11 de juny de 1434**, **el més antic que
    la font declara**, **i si realment al segle XV hi havia poques caucions al
    criminal.** **La font ho diu com a impressió.**
-6. **El *Politar*, pp. 215, 216, 217, 337 i 345** —**cinc pàgines més**—, **entre
-   elles la del dret de requisició per allotjar presoners a casa de particulars i
-   la de les «*esposas en les mans*».**
+6. **El *Politar*, pp. 337 i 345.** — **Les pp. 215, 216 i 217, `resoltes` el
+   18-09-2026, i les dues coses que aquesta fitxa buscava hi són.**
+
+   **La requisició de cases per a presó hi és, i amb el criteri de tria:**
+
+   > «ha de cuydar que los presoners tingan sa deguda custodia, per loque
+   > **pendran la casa que be los apareyxera**, (**tenint raho de la qualitat
+   > dels reos y de ses persones y tambe dels duenyos de les cases**, en loque se
+   > portaran ab la major discrecio y moderacio), **posantlos las guardas se
+   > hagen menester**, notant totas las llevas, las guardas y los dias hauran
+   > guardat al presoner o presoners, **afi de que, si aquestos tenen per pagar,
+   > sien condemnats en pagar les guardes**.»
+
+   **No hi ha presó: hi ha cases requisades**, triades segons la condició del reu
+   *i* la del propietari, **amb comptabilitat de guàrdies i de dies perquè el pres
+   solvent en pagui la factura.**
+
+   **I l'inventari del material hi és a la p. 215**, entre les obligacions de
+   vigilància dels batlles: **«que se guardien be los presoners, se tingan a punt
+   ***seps, grillons y esposas, cadenas, collars*** y altres adminiculos y
+   presons»**. **Les «esposas» hi són, en una llista de sis peces.**
+
+   **La mateixa pàgina dona el motiu pel qual els batlles hi responen**: han de
+   fer que capitans, deners i altres oficials compleixin, **«fentlos fer
+   patrullas de nit»**, perquè **«ab les omissions de estos ne poden ser en gran
+   part responsables los Batlles»**. **Els batlles són «las sentinellas que
+   deuhen continuament vetllar per lo publich repos».**
 7. **Les *Constitucions*, IX, i**, sobre **la *manlleuta* en dret català**, que la
    font invoca com a marc.
 8. **Què eren els *capitans* i els *deseners*** que feien les detencions per

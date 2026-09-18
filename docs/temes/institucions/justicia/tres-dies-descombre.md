@@ -269,9 +269,57 @@ ensenya on és la frontera:
    *de ofici***, no a instància de ningú. **I l'abast és total**: **«per petit
    que sia»**, i **inclou l'«ocurrencia desgraciada»**, és a dir **també el que
    no és delicte.**
-6. **El *Politar*, pp. 198, 215, 216, 217 i 239** —**cinc pàgines més**, **entre
+6. ~~**El *Politar*, pp. 198, 215, 216, 217 i 239** —**cinc pàgines més**, **entre
    elles la que tracta la presó i la llibertat sota fiança en matèria
-   d'*estupros***.
+   d'*estupros***.~~ — **`resolt` el 18-09-2026: les cinc s'han llegit dins
+   l'extracte de Brutails.**
+
+   **L'estupre, p. 217, i el repartiment de competència és el que val**:
+
+   > «En los casos de **estrupo**, en que se queyxe alguna donsella, **tan si es
+   > prenyada com si no lo es**, o se queyxen sos pares, parents o altres,
+   > **passara a la captura del delinquent**, alqual **afiansara** de orde dels
+   > Senyors Veguers o de un de ells […]; **pero la donsella per la causa del
+   > matrimoni, (si te promesa de ell), la enviara o li dira vagie al Vicari
+   > General**, loqual deu coneyxer de esta causa, y **la justicia secular sols
+   > del delicte o estrupo**.»
+
+   **L'home és capturat i afiançat per la justícia secular; la dona és enviada al
+   Vicari General**, perquè **la promesa de matrimoni és causa d'Església**.
+   **Dos tribunals per al mateix fet, i cadascun en veu una meitat diferent.**
+
+   **I la p. 216 posa un ordre que val per a tota la medicina forense andorrana**:
+   **«que los cirurgians no passien a la curacio de ferida alguna feta per altre,
+   que no age primer passada la visura de la Justicia»**. **La visura d'homicidi
+   la fan quatre persones** —batlle, notari, porter i cirurgià—, **amb el nunci
+   descobrint el cadàver i cridant tres vegades**, i **el cirurgià fent relació
+   jurada de les ferides**.
+
+   **La mateixa pàgina fixa el llindar de l'ofici**: **en els delictes greus el
+   batlle procedeix d'ofici «al mes minim indici»**, però **«en los petits o
+   levissims delictes, com son alguna petita rinya, paraules injurioses, sols
+   passara a la captura a instancia de la part»**.
+
+   **I la p. 239 dona el que a la tarifa de penyores faltava: preus.** **L'aranzel
+   del porter en matèria criminal sí que porta xifres**, i són aquestes:
+
+   | Acte | Dret del porter |
+   | --- | ---: |
+   | Prevenció en causa criminal d'instància fiscal, si el reu té amb què pagar | **2 s. 6 d.** |
+   | Lligar o deslligar el reu, cada vegada | **2 s.** |
+   | Assistir a les tortures, cada vegada | **3 s.** |
+   | Executar-les | **el que taxi la Cort** |
+   | Menar el reu a la fustigació, preparar la marca i tocar la trompeta | **5 s.** per reu |
+   | Conduir el reu al suplici o al tribunal | **5 s.** per reu |
+   | Demanar penyores · entimar | **1 s.** · **1 s.** |
+
+   **I una comissió d'encant per trams**: sobre els béns que van a encant per
+   execució de Cort, **4 diners per lliura fins a 100 lliures i 2 diners per
+   lliura d'allà amunt**.
+
+   > **El que això diu, dit sense eufemismes**: **la tortura i la fustigació
+   > tenen preu unitari en un aranzel oficial**, **el cobra el porter**, i **la
+   > condició per cobrar-lo és que el reu tingui amb què pagar.**
 7. **El registre de *mostres***: **quan es va deixar de portar i si se'n conserva
    cap.** **La font en parla en passat.**
 8. **Les *Constitucions*, II, i, pp. 175-177**, sobre **les treves entre

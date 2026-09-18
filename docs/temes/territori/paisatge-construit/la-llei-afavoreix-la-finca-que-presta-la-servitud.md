@@ -229,8 +229,18 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    **la vall del costat**. **Que sigui el mateix mot és una lectura del corpus**:
    **el diccionari no el documenta a Andorra** i **la grafia del decret és
    *merseries*, no *merceries*.** **L'altra accepció** —comerç de mercer— **no
-   té sentit en un decret de pas de conreu.** **Es tanca de debò amb un segon
-   testimoni andorrà del mot**, que el corpus no té.
+   té sentit en un decret de pas de conreu.**
+
+   **`resolt` el 18-09-2026: el segon testimoni andorrà ha aparegut, i és cent
+   vint anys anterior.** **El *Politar* (1763), p. 215**, manant als batlles que
+   facin fer patrulles de nit, diu que és **«afi de impedir robos de ***horts,
+   merceries y prats***»**. **La grafia hi és amb c, `merceries`**, i **el mot va
+   en una sèrie de tres menes de terra conreada** —hort, merceria, prat—, **que
+   és exactament el que l'accepció del DCVB demana i el que el decret de servitud
+   suposa**. **Dues fonts andorranes independents, separades per cent vint anys,
+   fan servir el mot com a peça de terra sembrada.** `El que no queda tancat és
+   què s'hi sembrava a Andorra: el DCVB documenta llegums i patates a Esterri, i
+   cap font andorrana no ho diu.`
 5. **Els decrets del 24-11-1885, 23-11-1877, 27-05-1879, 15-04-1886 i 05-04-1887**,
    sencers.
 6. ~~**El Politar, p. 209, 263 i 266**, que **el corpus no té** i que **són les
