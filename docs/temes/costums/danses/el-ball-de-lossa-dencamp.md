@@ -226,12 +226,12 @@ respon amb una pàgina de verificació antibot en comptes del document.**
 > no era cert del tot**: el corpus tenia Sícoris fitxat com a escriptor en un
 > altre lloc, amb dates, i aquesta fitxa no ho sabia.
 
-- **La tesi de Ysàs**, per una altra via. — **`obert`, confirmat.** El servidor
+- ~~**La tesi de Ysàs**, per una altra via.~~ — **`obert`, confirmat.** El servidor
   de TDX segueix sent l'única via identificada.
-- **Francesc Perramon**, ***El ball de l'ossa d'Encamp a Andorra: anàlisi d'un
+- ~~**Francesc Perramon**, ***El ball de l'ossa d'Encamp a Andorra: anàlisi d'un
   ritual de pas pirenaic***, **Institut d'Estudis Andorrans, Andorra la Vella,
   1994.** **El títol ja diu «ritual de pas»: és la font que sosté aquesta
-  lectura i el corpus no la té.** — **`obert`, confirmat.**
+  lectura i el corpus no la té.**~~ — **`obert`, confirmat.**
 - ~~**Tomàs Junoy i Arraut, *Relació sobre la Vall d'Andorra* (1838)**~~ —
    **`parcial`**: **la primera referència escrita de la farsa.** **Font primària.**
    **El corpus ja tenia l'obra situada i no ho havia dit
