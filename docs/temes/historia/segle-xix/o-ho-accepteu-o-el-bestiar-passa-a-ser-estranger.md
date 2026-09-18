@@ -260,7 +260,8 @@ Trias invoca.**
     **Segona vegada que surt i segueix sense trobar-se.** **Prioritari.**
 11. **Els actes de sobirania de Carles el Calb del 860** sobre Andorra. **Citats
     sense referència.**
-12. **La versió episcopal** de tot això. **El corpus llegeix una part.**
+12. ~~**La versió episcopal** de tot això.~~ **`parcial`: el corpus només llegeix
+    una part de la versió i no en pot reconstruir el conjunt.
 
 ## Related
 

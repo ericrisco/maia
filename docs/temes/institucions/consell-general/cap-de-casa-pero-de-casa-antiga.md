@@ -251,8 +251,9 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
 
 1. **Què era una «casa antiga»** als efectes del Consell Obert, **i qui ho
    decidia.** **Nou i prioritari: és el llindar del cos polític andorrà.**
-2. **Si la Reforma de 1866 va abolir el Consell Obert**, **i amb quin article.**
-   **La font diu «al menos parcialmente» i no en cita cap.**
+2. ~~**Si la Reforma de 1866 va abolir el Consell Obert**, **i amb quin article.**~~
+   **`parcial`: la font només afirma «al menos parcialmente» i no cita cap
+   article; l'abast exacte continua obert.
 3. ~~**L'acord de 1176 entre els homes d'Andorra i el bisbe**, sencer.~~ —
    **`TANCAT` el 15-09-2026**: és **l'apèndix B de Ríos Urruti (1920), pp.
    133-136**, en llatí i amb tres signatures d'arxiu ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)).
