@@ -136,7 +136,17 @@ arbre explícit: registrat com a fort, no com a confirmat del tot.
    del mateix llinatge segons la genealogia de la família Reig)
    ([font](../../fonts/reigfundacio-la-fundacio.md)). Gestiona també el
    Museu del Tabac.
-4. **L'informe Bedaux** i la reestructuració del Consell en juntes.
+4. ~~**L'informe Bedaux** i la reestructuració del Consell en juntes.~~ —
+   **`parcial` el 18-09-2026, i era un buit ja resolt en part al corpus**:
+   [Cavero](../../fonts/cavero-parlamentarisme-segle-xx.md) ja ho descriu
+   —**«els anys 60, el Consell General es reestructura (informe
+   Bedaux…). Es nomenen les juntes** (**Junta de Consellers Majors** i
+   **Junta de Consellers Delegats**), **que actuen, juntament amb la
+   Sindicatura, com a executors de les decisions del Consell General»**.
+   **Coincideix amb el primer període com a síndic de Julià Reig
+   (1961-1966), però la font no en fa el vincle explícit.** **Qui era
+   Bedaux i què deia exactament l'informe, segueix sense saber-se** —el
+   propi Cavero el cita amb punts suspensius, sense detallar-lo.
 5. **Quin paper hi va tenir en l'andorranització**, més enllà de coincidir-hi.
 6. **Si la família Reig té arxiu**, com Casa Rossell en tenia
    ([el Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)).
