@@ -197,7 +197,13 @@ pròpia font principal**:
 - ~~Quantes Diades hi ha hagut i de què va cada una~~ — **tancat**: **trenta-una
   fins al 2018**, amb títol i any, vegeu més amunt. **Queda obert** què hi ha
   després del 2018.
-- **Les Trobades Culturals Pirinenques**: quantes, de què, des de quan.
+- ~~**Les Trobades Culturals Pirinenques**: quantes, de què, des de quan.~~ —
+  **`parcial` el 18-09-2026**: un edicte del BOPA del 2010 hi documenta la
+  **7a edició** ([font](../../../fonts/bopa-subvencions-culturals-2010.md)),
+  quinze anys abans de la 21a (2025). **Cadència gairebé anual, amb un any de
+  buit en algun punt** — probablement el 2020, però no confirmat. **La data
+  exacta d'inici (1a edició, calculada al voltant del 2003-2004) segueix sense
+  confirmar-se.**
 - ~~**Qui la dirigeix** i amb quins recursos.~~ — **`parcial` el 18-09-2026**:
   el **2018-2019**, la presidenta era **Àngels Mach i Buch, farmacèutica**,
   també representant de la SAC a la Fundació UCE
