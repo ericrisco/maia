@@ -259,24 +259,23 @@ comptar.**
 2. **El testament del 10 de juny de 1770** atorgat en poder del mateix Reverend
    Salvador Areny, **i si la pràctica que el marmessor col·loqui a censal els
    diners de la marmessoria era regulada.** **La font no hi fa cap comentari.**
-3. **Si hi havia límit a les renúncies.** **Buit parcialment acotat**: el corpus
-   té dotze renúncies en un sol acte, inclosa la renúncia a la llei que prohibeix
-   la renúncia general, però **no sap si cap tribunal andorrà en va invalidar
-   mai alguna** ni quin límit general se'n desprenia.
+3. ~~**Si hi havia límit a les renúncies.**~~ — **`parcial` el 18-09-2026**:
+   **el corpus té dotze renúncies en un sol acte**, inclosa la renúncia a la llei
+   que prohibeix la renúncia general; **no sap si cap tribunal en va invalidar
+   alguna ni quin límit general se'n desprenia**.
 4. **Què era el «*benefici de novas constitucions*»** i **la «*consuetut de
    Barcelona que tracta de dos o mes que a solas se obligan*»**, **que el corpus
    registra com a noms sense contingut.** `Requereix les Constitucions.`
-5. **Si «*a for o raho de cinch per cent*» era fórmula obligada** o **si hi ha
-   censals andorrans del segle XVIII a un altre tipus.** **Buit parcialment
-   acotat**: el corpus en té tres al cinc, tots de 1788, però no ha trobat encara
-   un tipus diferent ni prova que el cinc per cent fos obligatori.
-6. **On són «*lo Bosseta de Riba*», «*lo prat de la Besseda*» i «*los Sagines*».**
-   **Buit parcialment acotat**: són tres topònims amb afrontacions completes,
-   que el corpus registra per a la branca de territori; **la localització actual
-   de cada afrontació encara no s'ha establert**.
-7. **Si el fòrum «*secular solament*» era clàusula habitual quan el creditor era
-   eclesiàstic.** **Buit parcialment acotat**: el corpus té un cas, però **no una
-   sèrie que permeti dir si era habitual**.
+5. ~~**Si «*a for o raho de cinch per cent*» era fórmula obligada** o **si hi ha
+   censals andorrans del segle XVIII a un altre tipus.**~~ — **`parcial` el
+   18-09-2026**: **el corpus en té tres al cinc, tots de 1788**, però **no ha
+   trobat un tipus diferent ni prova que el cinc per cent fos obligatori**.
+6. ~~**On són «*lo Bosseta de Riba*», «*lo prat de la Besseda*» i «*los Sagines*.**~~ —
+   **`parcial` el 18-09-2026**: **són tres topònims amb afrontacions completes**,
+   però **la localització actual de cada afrontació encara no s'ha establert**.
+7. ~~**Si el fòrum «*secular solament*» era clàusula habitual quan el creditor era
+   eclesiàstic.**~~ — **`parcial` el 18-09-2026**: **el corpus té un cas**, però
+   **no una sèrie que permeti dir si era habitual**.
 
 ## Related
 

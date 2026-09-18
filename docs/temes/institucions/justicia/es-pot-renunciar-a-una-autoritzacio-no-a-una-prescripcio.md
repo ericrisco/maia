@@ -232,11 +232,11 @@ quan l'ús va deixar de practicar-se.`
    p. 151**. `obert, amb referència completa.`
 4. **La sentència del batlle francès** sobre el pagament dels salaris com a
    obligació sagrada. **Sense data ni nom.** `obert.`
-5. **Quantes de les renúncies de la llista eren realment operatives** el 1904, i
-   **quines eren pur formulisme heretat**. **Buit parcialment acotat**: la font
-   en resol una —el benefici d'ordre i divisió— i **deixa les altres sis sense
-   examinar**. `El programa de treball que la font mateixa suggereix continua
-   obert.`
+5. ~~**Quantes de les renúncies de la llista eren realment operatives** el 1904, i
+   **quines eren pur formulisme heretat**.~~ — **`parcial` el 18-09-2026**:
+   **la font en resol una —el benefici d'ordre i divisió— i deixa les altres sis
+   sense examinar**. `El programa de treball que la font mateixa suggereix
+   continua obert.`
 6. **Cap acte real de constitució de censal al 7 %** amb la renúncia i el «pur
    do». **La font descriu el muntatge i no en cita cap.** `obert, prioritari: és
    la forma documental de la usura andorrana.`

@@ -167,11 +167,10 @@ consta:
    [evidència](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt)).
    `Els textos de 1939, 1977 i 1985 són anteriors al BOPA i segueixen sense
    localitzar-se.`
-4. **Què passa del 1993 al 2026.** Aquesta cronologia **s'atura el 1991**. **Buit
-   parcialment acotat**: el corpus ja en té el retrat quantitatiu,
-   [el dret andorrà vigent](./el-dret-vigent.md) compta **104 normes i 8.956
-   articles**, amb **85 de les 93 datables del 2010 endavant**. **El que falta és
-   la cronologia any per any**, no el volum.
+4. ~~**Què passa del 1993 al 2026.** Aquesta cronologia **s'atura el 1991**.~~ —
+   **`parcial` el 18-09-2026**: [el dret andorrà vigent](./el-dret-vigent.md)
+   compta **104 normes i 8.956 articles**, amb **85 de les 93 datables del 2010
+   endavant**; **el que falta és la cronologia any per any**, no el volum.
 5. Per què **1969, fallides** és de les primeres normes econòmiques.
 6. ~~**El BOPA**: per què es regula dues vegades, el 1983 i el 1989.~~ —
    **`resolt` el 17-09-2026, i la resposta és al primer document que el BOPA va
