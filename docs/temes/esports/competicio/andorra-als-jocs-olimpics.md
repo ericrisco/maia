@@ -438,6 +438,17 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 
    **El que això canvia és el cost**: **deixa de ser un buit de font externa i
    passa a ser un buit de lectura local.**
+
+   **Avenç del 18-09-2026, llegint esport per esport tal com deia la nota**:
+   **totes les edicions d'hivern estan buidades.** **Innsbruck 1976, Vancouver
+   2010, PyeongChang 2018 i Pequín 2022 s'han afegit a
+   [cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md)**,
+   que ja tenia de 1980 a 2006 i el 2014. **Amb això hi són senceres, prova per
+   prova, les tretze edicions d'hivern del 1976 al 2022.** **De Milà-Cortina
+   2026 no n'hi ha bolcat**: `docs/raw/web/esport/jocs-olimpics/` **acaba al
+   2024 d'estiu.** **I segueixen obertes les edicions d'estiu**, que tenen
+   taules de tir, judo, boxa, atletisme, natació, ciclisme i piragüisme,
+   **cadascuna amb el seu format.**
 2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
    **Jaume Martí**, president el 2015.
