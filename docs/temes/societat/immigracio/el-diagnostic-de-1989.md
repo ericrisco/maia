@@ -186,10 +186,8 @@ diferents.**
 
 ## El que falta
 
-- **La segona part de la ponència**, sobre l'evolució de la població andorrana.
-  Aquesta fitxa cobreix el diagnòstic; **la sèrie demogràfica de Becat no**.
-- **Les altres ponències del volum del 1989**, que és sencer sobre migracions i
-  **el corpus només ha llegit aquesta**.
+- ~~**La segona part de la ponència**, sobre l'evolució de la població andorrana.~~ — **`resolt` el 18-09-2026, i el buit estava mal plantejat**: **les dades demogràfiques del volum no són a la segona part de Becat, són a una ponència diferent** —**«Població i migracions actuals», de M. Francesca Ros Pascuet**—, destil·lada a [Quatre menes de parròquia](../demografia/quatre-menes-de-parroquia.md).
+- **Les altres ponències del volum del 1989**, que és sencer sobre migracions. — **`parcial` el 18-09-2026**: **se n'ha llegit una segona**, la de Ros Pascuet. `Segueix sense llegir, com a mínim, «Les migracions andorranes al segle XIX», de Lídia Armengol.`
 - **Quines mesures i codis** critica Becat. **Prioritari.**
 - **Si el debat de les Diades va pesar** en la creació de Ràdio Nacional
   d'Andorra (1990) i Andorra Televisió (1995).

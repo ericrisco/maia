@@ -103,8 +103,27 @@ i d'Ordino**. Vegeu
 [la desigualtat del vot](../../politica/sistema-electoral/la-desigualtat-del-vot.md),
 on **el mateix desequilibri de 4,28 apareix com a desigualtat de vot.**
 
-`La superfície de cada parròquia segueix sense font al corpus: aquesta nota
-d'Estadística no la dona, i la peça que la donaria és la cartografia oficial.`
+**I la superfície també té font des del 18-09-2026**, encara que sigui antiga i
+declarada aproximada: **Ros Pascuet (1989)** la publica parròquia per
+parròquia, i **les sis xifres sumen exactament els 468 km² del país**:
+
+| Parròquia | Superfície *(1989, aproximada)* | Densitat 2026 |
+| --- | ---: | ---: |
+| **Canillo** | **111 km²** | **59 hab/km²** |
+| Ordino | 85 km² | 68 hab/km² |
+| Encamp | 80 km² | 171 hab/km² |
+| La Massana | 65 km² | 190 hab/km² |
+| **Andorra la Vella + Escaldes-Engordany** | **65 km²** | **634 hab/km²** |
+| Sant Julià de Lòria | 62 km² | 166 hab/km² |
+| **Total** | **468 km²** | **192 hab/km²** |
+
+`Les densitats són càlcul del corpus: població de juliol del 2026 dividida per
+la superfície del 1989. Andorra la Vella i Escaldes-Engordany van juntes perquè
+la font del 1989 diu, literalment, que «es desconeix la delimitació exacta»
+entre les dues. Vegeu [Quatre menes de parròquia](../../societat/demografia/quatre-menes-de-parroquia.md).`
+
+> **Canillo té el 23,7% del territori i el 7,3% de la població.** **La capital
+> i Escaldes, juntes, el 13,9% del territori i el 45,8% de la població.**
 
 ## Dues vies de control que cal distingir
 
@@ -215,7 +234,7 @@ blanc de qualsevol altra parròquia
 - ~~El règim electoral comunal, dins de la cadena de normes pendents.~~ `resolt`
   **Títol III de la Llei qualificada del règim electoral**, articles 63-68, amb
   el repartiment d'escons comprovat contra les set parròquies del 2023.
-- Retirada la taula atribuïda genèricament a Viquipèdia com a dades de 2023: faltaven la peça, la data de referència i la definició de població i superfície. — **`parcial` el 18-09-2026: la població ja hi és, amb peça i data** —**A003 d'Estadística, juliol del 2026, CC BY 4.0**, vegeu [Quanta gent hi ha a cada parròquia](#quanta-gent-hi-ha-a-cada-parroquia-amb-font-i-data)—; **la superfície, no.** No s'ha acreditat tampoc l'abast de l'ordre protocol·lari ni
+- Retirada la taula atribuïda genèricament a Viquipèdia com a dades de 2023: faltaven la peça, la data de referència i la definició de població i superfície. — **`parcial` el 18-09-2026: la població ja hi és, amb peça i data** —**A003 d'Estadística, juliol del 2026, CC BY 4.0**, vegeu [Quanta gent hi ha a cada parròquia](#quanta-gent-hi-ha-a-cada-parroquia-amb-font-i-data)—; **i la superfície també, des de la mateixa data, amb la font del 1989 que la publica parròquia per parròquia i suma 468 km² exactes.** `El que segueix sense font és una superfície oficial actual i el límit entre Andorra la Vella i Escaldes-Engordany.` No s'ha acreditat tampoc l'abast de l'ordre protocol·lari ni
   l'exclusivitat geogràfica del mot «cònsol». Les afirmacions anteriors
   queden en una [instantània d'auditoria fora del corpus](../../../raw/consell-general/les-set-parroquies-abans-auditoria-20260913.txt),
   sense considerar-les provades ni refutades.

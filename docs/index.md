@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1011** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1012** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1319,6 +1319,7 @@
 | [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les tres migracions](temes/societat/demografia/les-tres-migracions.md) | `temes/societat/demografia` | compilada | contemporania | no | `armengol-migracions-segle-xix` |
 | [Les xifres que no quadren](temes/societat/demografia/les-xifres-que-no-quadren.md) | `temes/societat/demografia` | compilada | contemporania | no | `tarrene-influencies-multiculturals` |
+| [Quatre menes de parròquia](temes/societat/demografia/quatre-menes-de-parroquia.md) | `temes/societat/demografia` | compilada | contemporania | no | `ros-pascuet-poblacio-migracions-1989` |
 | [Qui compta com a resident](temes/societat/demografia/qui-compta-com-a-resident.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [Tres quartes parts del creixement van arribar de fora](temes/societat/demografia/tres-quartes-parts-del-creixement-van-arribar-de-fora.md) | `temes/societat/demografia` | compilada | contemporania | no | `margarit-monne-joves-i-llengues-2010` |
 
@@ -1777,6 +1778,7 @@
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`ros-pascuet-normativa-migratoria-1997`](fonts/ros-pascuet-normativa-migratoria-1997.md) | Francesca Ros Pascuet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
+| [`ros-pascuet-poblacio-migracions-1989`](fonts/ros-pascuet-poblacio-migracions-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autora (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`rui-comunitat-mixta-1997`](fonts/rui-comunitat-mixta-1997.md) | Sandrine Rui · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`rull-parlar-andorra-xvii-xviii`](fonts/rull-parlar-andorra-xvii-xviii.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Xavier Rull i Muruzábal (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`sac-esport-i-salut`](fonts/sac-esport-i-salut.md) | Manuel Suárez i García · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
