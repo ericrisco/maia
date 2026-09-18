@@ -7,7 +7,7 @@
 | **Condicions** | [avís legal del BOPA](https://www.bopa.ad/AvisLegal) |
 | **Redistribució** | **sí**, amb el sentit i les metadades de data preservades |
 | **Data de consulta** | 2026-09-17 |
-| **Fitxa de font del corpus** | [`bopa`](../../fonts/bopa.md) |
+| **Fitxa de font del corpus** | [`bopa`](../../../fonts/bopa.md) |
 | **`apte_dataset`** | **sí** — norma publicada. Conté **noms de càrrecs públics en exercici**, que la norma publica com a tals |
 
 El decret de nomenament de la Comissió Mixta és aquí perquè **és el document que

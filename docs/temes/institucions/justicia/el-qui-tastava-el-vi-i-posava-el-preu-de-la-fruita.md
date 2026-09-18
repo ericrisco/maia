@@ -303,7 +303,7 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
    **El Llibre IV arriba al 1864 i no el torna a nomenar cap més vegada**, i
    **el que hi apareix arreu és l'altra via, el manament porta per porta que
    fan els *manadors***
-   ([definir el costum és legislar](../../consell-general/definir-el-costum-es-legislar.md)).
+   ([definir el costum és legislar](../consell-general/definir-el-costum-es-legislar.md)).
 
    `Requereix una data de desaparició; el que hi ha és l'última vegada que
    consta, i la via que el va substituir.`

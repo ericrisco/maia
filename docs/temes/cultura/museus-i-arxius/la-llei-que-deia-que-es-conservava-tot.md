@@ -198,7 +198,7 @@ al butlletí oficial.
 **Els edictes de la CAD i de la CAAD s'han llegit.** Són **vint-i-sis edictes
 estatals** entre el **25 de juny del 2015** i el **18 de novembre del 2025**, més
 una correcció d'errata i un edicte comunal
-([evidència](../../../raw/lleis/bopa/avaluacio-documental/)). Contenen, comptades
+([evidència](../../../raw/lleis/bopa/avaluacio-documental/README.md)). Contenen, comptades
 per número d'expedient, **223 taules d'avaluació documental**.
 
 | Any de la taula | Taules | Qui la va establir |

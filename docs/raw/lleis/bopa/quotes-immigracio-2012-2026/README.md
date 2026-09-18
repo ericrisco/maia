@@ -5,7 +5,7 @@ deduplicats per contingut. Un fitxer per data de publicació; el sufix `-1`, `-2
 distingeix documents diferents publicats el mateix dia.
 
 **Continuen la sèrie de 1989-1997** que el corpus ja tenia a
-[`../quotes-immigracio/`](../quotes-immigracio/), amb **quinze anys de buit** al
+[`../quotes-immigracio/1989-anual.txt`](../quotes-immigracio/1989-anual.txt), amb **quinze anys de buit** al
 mig que el BOPA sí que cobreix i que encara no s'ha baixat.
 
 ## Les quatre sèries paral·leles

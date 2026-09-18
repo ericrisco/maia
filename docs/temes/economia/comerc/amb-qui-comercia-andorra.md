@@ -167,7 +167,7 @@ veure:**
 llavors no ha tornat a passar de 40 M€ en trenta anys.** **El 1997 Andorra va
 importar tant tabac com el 1999 i el 2000 junts.** El corpus ho lliga amb [el
 contraban](../tabac/el-contraban-savui-sagafa-a-dins.md) i amb [la fàbrica de
-tabac](../tabac/), però **la font no explica el pic**. `Què va passar amb el
+tabac](../tabac/tabac.md), però **la font no explica el pic**. `Què va passar amb el
 tabac el 1997, i per què la sèrie no hi ha tornat mai.` `pregunta_oberta`
 
 ### La taxa de cobertura, vista de prop

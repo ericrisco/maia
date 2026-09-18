@@ -348,5 +348,5 @@ crisi.`
 - [Immigració](../immigracio/immigracio.md)
 - [Llogar un pis](./llogar-un-pis.md) — què diu la llei d'un contracte de lloguer avui.
 - [Els habitatges buits](./els-habitatges-buits.md)
-- [De dos mil quatre-cents a quatre mil cent euros el metre](./de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md) — el preu de compra, 2019-2024. — què pot fer l'Estat amb un pis buit.
+- [Preus de compra, 2019-2025](./tres-centes-tretze-els-dos-anys.md) — la sèrie de preus que substitueix aquella fitxa.
 - [L'impost contra l'especulació](./limpost-contra-lespeculacio.md) — què fa la llei fiscal contra la revenda ràpida.

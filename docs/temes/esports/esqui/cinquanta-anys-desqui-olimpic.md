@@ -246,7 +246,7 @@ i el corpus cita la posició, que és la que la taula dona bé.`
 | **Esquí alpí** | **[Joan Verdú](../../persones/joan-verdu.md)** | **Gegant 2:11.28 — 9è**, amb **la 3a millor segona mànega de la cursa** · súper-G **1:22.92 — 22è** |
 | | **[Cande Moreno](./esquiadors/cande-moreno.md)** | **Combinada 2:34.34 — 12a** · súper-G **1:16.72 — 30a** · descens: no acaba |
 | **Esquí de fons** | **[Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)** | **30 km skiathlon 1:21:08.2 — 20è** · **15 km clàssic 40:39.4 — 24è** · **50 km lliure 1:15:09.8 — 25è** |
-| | **[Carola Vila](./esquiadors/carola-vila.md)** | **10 km clàssic 31:45.0 — 47a** · **15 km skiathlon 50:28.8 — 47a** · **30 km lliure 1:39:18.1 — 48a** |
+| | **Carola Vila** | **10 km clàssic 31:45.0 — 47a** · **15 km skiathlon 50:28.8 — 47a** · **30 km lliure 1:39:18.1 — 48a** |
 | **Surf de neu** | **[Maeva Estévez](./esquiadors/maeva-estevez.md)** | **Boardercross: no acaba la qualificació, 31a** |
 
 **El 9è lloc de Joan Verdú al gegant és el millor resultat olímpic d'hivern de

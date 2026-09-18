@@ -11,5 +11,5 @@ la de l'Escola Nacional d'Esquí, que ja hi era.
 | **Condicions** | [avís legal del BOPA](https://www.bopa.ad/AvisLegal) |
 | **Redistribució** | **sí**, amb el sentit i les metadades de data preservades |
 | **Data de consulta** | 2026-09-17 |
-| **Fitxa de font del corpus** | [`bopa`](../../fonts/bopa.md) |
+| **Fitxa de font del corpus** | [`bopa`](../../../fonts/bopa.md) |
 | **`apte_dataset`** | **sí** — norma publicada, sense dades personals |

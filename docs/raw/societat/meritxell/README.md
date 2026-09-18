@@ -13,5 +13,5 @@ el canvi de figura jurídica: de conveni indefinit a contracte prorrogable.
 | **Condicions** | [avís legal del BOPA](https://www.bopa.ad/AvisLegal) |
 | **Redistribució** | **sí**, amb el sentit i les metadades de data preservades |
 | **Data de consulta** | 2026-09-17 |
-| **Fitxa de font del corpus** | [`bopa`](../../fonts/bopa.md) |
+| **Fitxa de font del corpus** | [`bopa`](../../../fonts/bopa.md) |
 | **`apte_dataset`** | **sí** — el conveni de 1995 nomena les dues signants com a càrrecs representatius; no hi ha dades d'alumnes |

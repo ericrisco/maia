@@ -132,7 +132,7 @@ tenir **el cònjuge difunt** (article 133.3).
 **El Govern fixa cada gener, per decret, dos preus del punt de jubilació**, en
 aplicació dels articles 200 i 201 de la Llei 17/2008 de la seguretat social i
 «vista la variació percentual de l'IPC» de l'any anterior
-([evidència](../../../raw/lleis/bopa/punt-jubilacio/)):
+([evidència](../../../raw/lleis/bopa/punt-jubilacio/README.md)):
 
 | Any | **Preu de venda** (el que val quan es cobra) | **Preu de compra** (el que costa acumular-ne un) |
 | --- | ---: | ---: |

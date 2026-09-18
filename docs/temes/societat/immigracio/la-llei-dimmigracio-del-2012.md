@@ -177,7 +177,7 @@ mesos.
 
 **El BOPA publica 105 reglaments de quota entre el 2012 i el 2026**, deduplicats
 per contingut
-([evidència](../../../raw/lleis/bopa/quotes-immigracio-2012-2026/)). **No són
+([evidència](../../../raw/lleis/bopa/quotes-immigracio-2012-2026/README.md)). **No són
 quotes anuals: se'n publiquen dues o més l'any**, i les posteriors poden
 descomptar les autoritzacions ja concedides per les anteriors —així ho diu
 expressament el decret del 5 de maig del 2026. **Sumar-les donaria una xifra

@@ -417,12 +417,12 @@ seguretat**. **Se'n reté la data i res més.** `Requereix la pàgina impresa.`
 
 - ~~**`Apostols` i `apostols reverencials` no s'han comprovat
   lexicogràficament.**~~ — **`resolt` el 18-09-2026.** **El
-  [DIEC2](../../llengua/../fonts/diec2.md) té l'entrada amb marca històrica**:
+  [DIEC2](../../../fonts/diec2.md) té l'entrada amb marca històrica**:
   **«apòstols m. pl. [HIH] En hist., lletres lliurades, juntament amb el procés
   original, a qui apel·lava contra una sentència, dirigides a un jutge o a un
   tribunal superior.»** **La lectura que el corpus feia del context era exacta**,
   amb una precisió: **es lliuren a qui apel·la.** **El
-  [DCVB](../../llengua/../fonts/dcvb.md) no en té el sentit processal**, i **cap
+  [DCVB](../../../fonts/dcvb.md) no en té el sentit processal**, i **cap
   dels dos diccionaris no recull la distinció *reverencials* / *refutatoris***,
   que **només és documentada aquí**. Vegeu
   [Tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md).

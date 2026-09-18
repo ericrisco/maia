@@ -139,7 +139,7 @@ una es compleixi a Andorra perquè la renda hi tributi.
 | **Transmissió d'immoble entre 5 i 10 anys** | **15%** |
 
 **L'escala immobiliària és la mateixa lògica de
-[l'impost contra l'especulació](./limpost-contra-lespeculacio.md) aplicada a qui
+[l'impost contra l'especulació](../../societat/habitatge/limpost-contra-lespeculacio.md) aplicada a qui
 no viu aquí**: com més aviat es revèn, més es paga. **I a partir dels deu anys
 l'escala s'acaba**: hi torna a jugar el tipus general.
 

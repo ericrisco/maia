@@ -321,7 +321,7 @@ faisait l'Andorran*».**
 2. **Joan de Déu Trias**, *Constitución política y **personalidad** internacional
    del Principado de Andorra* (1890, Barcelona, Subirana Hermanos; títol
    corregit el 17-09-2026 des de la bibliografia de la [síntesi
-   d'actes](../../fonts/actes-historiques-consell-general.md)).
+   d'actes](../../../fonts/actes-historiques-consell-general.md)).
    **`font_externa`. Aquest és l'enunciat canònic del buit; les altres fitxes
    que el reclamen hi remeten.**
 
@@ -329,7 +329,7 @@ faisait l'Andorran*».**
    el declarava «quarta tanda», «sisena tanda», «tercera tanda» i «segona
    tanda» en quatre fitxes diferents: **no són quatre buits ni sis, és un**, i
    **els comptadors mesuraven recitacions, no absències noves**
-   ([la mateixa lliçó que el *Politar*](../../../../02-DOCS/raw/worklog/2026-09-18-el-politar-hi-era-sencer.md)).
+   (la mateixa lliçó que el *Politar*; el registre de treball és a `02-DOCS/raw/worklog/2026-09-18-el-politar-hi-era-sencer.md`).
 
    **El que el corpus ja té de Trias, i no és poc** —tot de segona mà, per tres
    rebatedors independents:

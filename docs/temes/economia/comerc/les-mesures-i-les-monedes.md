@@ -282,7 +282,7 @@ la vila de Andorra exercint Corts**», dictada a petició del Consell General i
 ## El Consell General fixant el canvi, el 1723
 
 **Afegit el 17-09-2026** des del **Llibre III d'actes del Consell General**
-([actes](../../fonts/actes-historiques-consell-general.md)). **No és una taula
+([actes](../../../fonts/actes-historiques-consell-general.md)). **No és una taula
 d'historiador: és un acord executiu, amb pena.**
 
 **El 13 de desembre de 1723:**

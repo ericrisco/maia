@@ -116,7 +116,7 @@ de treball pactat** amb la persona (article 3.n).
 
   **Decret 495/2023, del 25 d'octubre**, d'aprovació del **Reglament de la Cartera
   de serveis socials i sociosanitaris**, modificat pel **Decret 91/2024**
-  ([evidència](../../../raw/lleis/bopa/decret-495-2023-cartera-serveis-socials.txt)).
+  (evidència local no conservada; decret publicat al BOPA).
   N'hi havia hagut un d'anterior, el **Decret 519/2022**, substituït al cap
   d'onze mesos.
 

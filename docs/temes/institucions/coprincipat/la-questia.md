@@ -201,7 +201,7 @@ l'article 47 de la Constitució.`
 - **Lluís Dalmau i de Baquer**, ***Historia de la República de Andorra***
   (1849).
 - ~~**Què és un sou melgorès**~~, i **quant valien 4.000.** — **`parcial` el
-  18-09-2026**: **la moneda, tancada.** **El [DIEC2](../../fonts/diec2.md) té
+  18-09-2026**: **la moneda, tancada.** **El [DIEC2](../../../fonts/diec2.md) té
   l'entrada**: **«melgorès m. [NU] Moneda emesa pels comtes de Melguell i
   després per la ciutat i els senyors de Montpeller i els bisbes de Magalona,
   d'àmplia circulació en l'àmbit català medieval.»** **No és moneda andorrana ni

@@ -13,5 +13,5 @@ de ratificació del 2004 i la citació als preàmbuls dels posteriors.
 | **Condicions** | [avís legal del BOPA](https://www.bopa.ad/AvisLegal) |
 | **Redistribució** | **sí**, amb el sentit i les metadades de data preservades |
 | **Data de consulta** | 2026-09-17 |
-| **Fitxa de font del corpus** | [`bopa`](../../fonts/bopa.md) |
+| **Fitxa de font del corpus** | [`bopa`](../../../fonts/bopa.md) |
 | **`apte_dataset`** | **sí** — tractat publicat, sense dades personals més enllà dels signants, que hi consten com a càrrecs |

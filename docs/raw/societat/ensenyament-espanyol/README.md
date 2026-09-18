@@ -16,5 +16,5 @@ i el 2007 només els dos estats.
 | **Condicions** | [avís legal del BOPA](https://www.bopa.ad/AvisLegal) |
 | **Redistribució** | **sí**, amb el sentit i les metadades de data preservades |
 | **Data de consulta** | 2026-09-17 |
-| **Fitxa de font del corpus** | [`bopa`](../../fonts/bopa.md) |
+| **Fitxa de font del corpus** | [`bopa`](../../../fonts/bopa.md) |
 | **`apte_dataset`** | **sí** — tractat publicat, sense dades personals |

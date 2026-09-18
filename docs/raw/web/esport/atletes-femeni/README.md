@@ -17,7 +17,7 @@ corpus amb fitxes i sense cap còpia de la font**, i el buit ho declarava
 | `ca_Teresa_Morató_Armengol.wiki` | `Teresa Morató Armengol` (Viquipèdia en català) |
 
 **Format**: **wikitext cru** (`action=raw`), el mateix que
-[`../atletes/`](../atletes/) fa servir per a la branca masculina.
+[`../atletes/wikipedia-andorra-atenes-2004.txt`](../atletes/wikipedia-andorra-atenes-2004.txt) fa servir per a la branca masculina.
 **Llicència CC BY-SA 4.0**, redistribuïble amb atribució i clàusula de
 compartir igual.
 
