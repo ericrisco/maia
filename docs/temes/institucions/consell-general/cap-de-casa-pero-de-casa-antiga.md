@@ -271,8 +271,42 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
    font ho sap de boca del veguer episcopal.**
 7. **Quantes vegades es va negar la ciutadania per menyspreu o indiferència.**
    **El corpus té la regla i cap cas.**
-8. **Les prohibicions del Politar, p. 277**, que la font cita com a mostra de la
-   «tendència patrícia». **A l'abast.**
+8. ~~**Les prohibicions del Politar, p. 277**, que la font cita com a mostra de
+   la «tendència patrícia».~~ — **`resolt` el 18-09-2026, i són quatre punts
+   numerats, del 13è al 16è.**
+
+   **§13 — naixement i estat civil.** **No poden ser elegits cònsols els qui no
+   han nascut a les Valls, «encara que en ellas tingan domicili»**, ni **els
+   nascuts a les Valls «fins a que sian casats o viudos»** i tinguin habitació
+   permanent, o la major part de l'any. **El fonament és polític i el Politar
+   l'escriu**:
+
+   > «per que **la Republica regularment no pot ser ben governada per
+   > estrangers**, alsquals sol faltar **lo amor a la patria, la sciencia y
+   > coneyxement de les coses particulars**, delqual necessita lo recte govern de
+   > ella.»
+
+   I hi posa autoritat d'Escriptura: **«*Cum extero concilium non facies; nescis
+   enim quid pariet*»** —no facis consell amb un estrany, que no saps què en
+   naixerà.
+
+   **§14 — edat.** **«Sera sempre convenient, speculativament parlant»**, que no
+   s'elegeixi cònsol qui no tingui **almenys 25 anys**. **El Politar ho dona com
+   a conveniència, no com a prohibició.**
+
+   **§15 — immunitat d'any de mandat.** **Cònsols i consellers «durant lo any de
+   son empleo, no poden ser convinguts en judici per deutes civils»**, i **el
+   mateix val per als batlles i magistrats majors**; **però sí per delictes,
+   «majorment si son delictes comesos en los oficis»**, i **en casos de
+   regalia.**
+
+   **§16 — els oficis que inhabiliten.** **«No deuhen elegirse en Consols
+   ***carnicers de ofici*** ni aquells que hagen estat ***nuncis, trompetes,
+   lacayos***, y finalment aquells que hagen exercit algun ***ofici vil***.»**
+
+   > **La «tendència patrícia» no és una lectura de l'autor: és un article
+   > numerat.** **El cònsol havia d'haver nascut al país, estar casat, tenir vint-
+   > i-cinc anys i no haver estat mai carnisser, nunci, trompeta ni criat.**
 
 ## Related
 

@@ -349,9 +349,35 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
      fonts no els identifica, i el corpus tampoc.** **El que el corpus afirma és
      que l'anàlisi d'Encamp és ara doblement prioritària**: **tancaria dos buits
      alhora.**
-3. **El *Manual Digest*, *Duptes* § 23**, i **el *Politar*, p. 280**: **la doctrina
-   que els documents desmenteixen.** **El corpus té el Politar per extractes i
-   aquesta pàgina no hi és.**
+3. **El *Manual Digest*, *Duptes* § 23.** — **La p. 280 del *Politar*, `resolta`
+   el 18-09-2026**, i **la premissa era falsa: la pàgina sí que és dins
+   l'extracte de Brutails** ([El Politar andorrà,
+   llegit](../../historia/manual-digest/el-politar.md)). **Diu això, com a punt
+   28è:**
+
+   > «**No pot edificarse en les Valls castell, fortalesa ni casa de gentilhome,
+   > com ni casa publica o de religio**; y **si esta se edificaba, hauria de
+   > menester llicencia expressa del Concell General**, pero *quam obtinendum sit
+   > ab hujusmodi domus edificatione*, no obstant de ser casa pia.»
+
+   **El repartiment per tipus d'edifici hi és, i la llicència del Consell també**:
+   **la prohibició és de castell, fortalesa i casa de gentilhome**; **la casa
+   pública o de religió es pot edificar amb llicència expressa**, i **el Politar
+   hi afegeix el seu propi advertiment** —que caldria mirar-s'ho bé— **encara que
+   sigui casa pia**.
+
+   > **La divergència amb la pràctica que aquesta fitxa registrava se sosté**:
+   > **la doctrina parla de castells i cases de religió, i els decrets de 1752,
+   > 1864, 1883 i 1884 mostren el Consell intervenint en una borda i en
+   > autoritzacions ordinàries.** **El corpus segueix sense arbitrar.**
+
+   **I la mateixa pàgina dona tres coses més que valen per a altres fitxes**:
+   **el domicili de l'estranger es guanya amb deu anys, ànim de romandre-hi i
+   pagament de quèsties i talles** (§26); **el Consell General crea els oficials
+   d'economia** —**mostafas, vehedors, comissaris d'aigües, camins, boscos i
+   comunals**— **amb recurs davant d'ell mateix** (§27); i **el judici de pròmens
+   o del Consell no té lloc en causes criminals, només en les civils polítiques
+   dels seus privilegis** (§29).
 4. **La sentència de visura de la «tanca de bestiar gros»**: **sense data.**
 5. **El decret del 21 de desembre de 1893** i **el del 26 de març de 1871**, sencers.
 6. **La data del decret de 1849**, que **la font no dona** — **només l'any**, i
