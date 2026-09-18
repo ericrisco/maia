@@ -89,8 +89,14 @@ sense precedents».**
   ([la seva fitxa](../../../historia/segle-xix/guillem-dareny-plandolit.md)):
   **el reformador i el concessionari són la mateixa persona**, i **va acabar
   perdent el càrrec i el país.**
-- **El paper de la família a la revolució del 1881**, que és quan
-  [Francesc Duran](../../../persones/els-sindics-generals.md) tanca el període.
+- ~~**El paper de la família a la revolució del 1881**, que és quan
+  [Francesc Duran](../../../persones/els-sindics-generals.md) tanca el període.~~ —
+  **`resolt` el 18-09-2026**: la mateixa font atribueix a la Casa d'Areny-Plandolit
+  la responsabilitat de la revolució, i la font històrica en concreta el paper
+  documentat de **Guillem d'Areny-Plandolit**: com a síndic general, va tornar
+  de Madrid, es va posar al capdavant de l'avalot i en va perdre el càrrec i
+  l'exili. **No hi ha cap altre membre de la família identificat en aquesta
+  actuació** ([la revolució](../../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)).
 
 ## Related
 
