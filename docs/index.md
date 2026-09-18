@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1054** documents · **281** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1056** documents · **283** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1270,6 +1270,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Albert Villaró i Boix](temes/persones/albert-villaro.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-albert-villaro` |
+| [Francisco José Catalán de Ocón](temes/persones/catalan-de-ocon.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-catalan-de-ocon` |
 | [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1289,6 +1290,7 @@
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Simeón de Guinda y Apeztegui](temes/persones/simeon-de-guinda.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-simeon-guinda` |
 | [José Manuel «Txetxu» Bermudo Macho](temes/persones/txetxu-bermudo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
 | [Xavier Galera Ruz](temes/persones/xavier-galera.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2014` |
 
@@ -1948,6 +1950,8 @@
 | [`wikipedia-en-josep-lluis-serrano-pentinat`](fonts/wikipedia-en-josep-lluis-serrano-pentinat.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-maria-reig-moles`](fonts/wikipedia-en-maria-reig-moles.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-pere-pastor-vilanova`](fonts/wikipedia-en-pere-pastor-vilanova.md) | Wikipedia community · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-es-catalan-de-ocon`](fonts/wikipedia-es-catalan-de-ocon.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-es-simeon-guinda`](fonts/wikipedia-es-simeon-guinda.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

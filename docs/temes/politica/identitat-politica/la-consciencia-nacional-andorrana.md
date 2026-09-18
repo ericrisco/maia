@@ -279,8 +279,12 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    **El mateix home que aquesta fitxa recorda per reconèixer els andorrans com a
    diferents dels espanyols i francesos el 1714 és, vint anys després, qui cedeix
    a la pressió espanyola en el tabac.** **El corpus registra les dues cares i no
-   les arbitra.** **El que segueix obert és el 1714 mateix**, i
-   [persones](../../persones/README.md) el té com a buit amb aquestes paraules.
+   les arbitra.** ~~**El que segueix obert és el 1714 mateix**, i
+   [persones](../../persones/README.md) el té com a buit amb aquestes paraules.~~
+   — **`resolt` el 18-09-2026**: **ara té fitxa completa**, a
+   [persones/simeon-de-guinda](../../persones/simeon-de-guinda.md) — **neix el
+   1660 a Navarra i mor el 1737 a Sant Julià de Lòria**, dins les valls que
+   governava.
 5. ~~**Les dues consultes al poble, 1976 i 1977**: pregunta, resultat,
    participació.~~ — **`parcial`, i amb una correcció de dates.** **El corpus té
    [els primers referèndums](../sistema-electoral/els-primers-referendums.md)**,
