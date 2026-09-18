@@ -72,7 +72,7 @@ que hi arriba.**
 
 - ~~**El seu elo exacte** i quan el va assolir.~~ — **`resolt`: 2.525,
   l'octubre del 2024**, i **Gran Mestre des del 2019**, **als setze anys.**
-- **Les seves Olimpíades d'Escacs amb Andorra.** — **`obert`, confirmat**: **el
+- ~~**Les seves Olimpíades d'Escacs amb Andorra.**~~ — **`obert`, confirmat**: **el
   bolcat no n'esmenta cap.** **El que sí que hi dona**: **el 4t Campionat
   Individual Europeu de Petites Nacions (ESNA) de l'octubre del 2022,
   guanyat a l'última ronda contra Luitjen Akselsson Apol**; **el segon lloc

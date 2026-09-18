@@ -47,17 +47,17 @@ país.
 > buits** —club, estils, alçada, pes, medaller, lloc de naixement—, **i l'únic
 > text és la frase que aquesta fitxa ja reprodueix.**
 
-- **La seva marca i posició** al Mundial del 2017. — **`obert`, confirmat.**
+- ~~**La seva marca i posició** al Mundial del 2017.~~ — **`obert`, confirmat.**
   **El bolcat cita els resultats de les sèries de la FINA i l'enllaç és mort**
   (`url-status=dead`, arxivat el **12 de febrer del 2018**).
   `Requereix font externa: l'arxiu d'Omega Timing o la FINA.`
-- **La resta de la carrera.** — **`obert`, confirmat.**
-- **On va néixer.** — **`obert`, i la font ho declara ella mateixa**: el bolcat
+- ~~**La resta de la carrera.**~~ — **`obert`, confirmat.**
+- ~~**On va néixer.**~~ — **`obert`, i la font ho declara ella mateixa**: el bolcat
   la classifica a la categoria **«Place of birth missing (living people)»**.
   **No és que el corpus no ho hagi destil·lat: és que la Viquipèdia hi té el
   buit obert i el marca.** **És el mateix cas que a vuit fitxes de futbolista**
   — vegeu [futbol](../futbol/README.md).
-- **Si segueix nedant.** — **`obert`, confirmat.**
+- ~~**Si segueix nedant.**~~ — **`obert`, confirmat.**
 
 ## Related
 

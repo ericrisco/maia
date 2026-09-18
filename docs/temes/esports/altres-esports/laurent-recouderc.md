@@ -95,10 +95,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > sobre la seva carrera francesa.** **El vincle andorrà, que és la raó per la
 > qual aquesta fitxa existeix, no surt de la font que la fitxa cita.**
 
-- **Quan i com es va vincular a Andorra.** — **`obert`, confirmat, i ara se sap
+- ~~**Quan i com es va vincular a Andorra.**~~ — **`obert`, confirmat, i ara se sap
   que aquest bolcat no ho pot respondre mai.** `Requereix font externa: la
   Federació Andorrana de Tennis o l'ITF.`
-- **Des de quan és capità de Copa Davis.** — **`obert`, confirmat, pel mateix
+- ~~**Des de quan és capità de Copa Davis.**~~ — **`obert`, confirmat, pel mateix
   motiu.**
 - ~~**Els seus 63 partits** amb l'equip andorrà, dels quals el corpus només sap
   el balanç.~~ — **`incorrecte`, corregit el 2026-09-14, i l'error és del

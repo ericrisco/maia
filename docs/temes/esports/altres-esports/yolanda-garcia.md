@@ -75,7 +75,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > `Requereix font externa: la fitxa de la World Taekwondo o les actes dels
 > campionats del 1994 i del 1995.`
 
-- **On es va formar** i quan va marxar. — **`obert`, confirmat, i ara se sap
+- ~~**On es va formar** i quan va marxar.~~ — **`obert`, confirmat, i ara se sap
   que és el buit central d'aquesta fitxa**: **si va marxar i quan és
   precisament el que decidiria la qüestió de la bandera.** **El bolcat només
   dona el lloc de naixement, «Andorra», sense parròquia, i la data: 18 de gener

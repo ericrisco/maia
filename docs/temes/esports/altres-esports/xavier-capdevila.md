@@ -67,7 +67,7 @@ font és una frase.**~~
   **va competir per primera vegada aquell mateix any a la cursa de la
   Serrera**, **la mateixa on [Ludovic Albós](./ludovic-albos.md) va ser segon
   el 2009.**
-- **Si segueix competint** — **`obert`, confirmat**: **l'últim resultat del
+- ~~**Si segueix competint**~~ — **`obert`, confirmat**: **l'últim resultat del
   bolcat és del 2009.**
 - **I la biografia, que és la mateixa forma que la de Ludovic Albós**: **és
   BOMBER professional** i **està casat amb Neus Tort Gendrau.** **Va néixer a
