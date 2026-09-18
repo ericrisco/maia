@@ -83,7 +83,7 @@ carrera amb un forat de sis anys al mig.
 | --- | --- |
 | **Vancouver 2010** | **28a al descens** |
 | **Sotxi 2014** | **18a a la combinada**, amb **un 15è lloc a la mànega d'eslàlom** |
-| **PyeongChang 2018** | *(el corpus no en té els resultats)* |
+| **PyeongChang 2018** | **30a a l'eslàlom** |
 
 **El 18è lloc de Sotxi és el millor resultat olímpic femení andorrà a la neu**,
 i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
@@ -93,9 +93,12 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Mireia_Gutiérrez.wiki`](../../../../raw/web/esport/alpins/Mireia_Gutiérrez.wiki)).
 
-- **Els resultats de PyeongChang 2018.** — **`obert` pel que fa als
-  resultats**, **i la participació queda confirmada**: **l'infobox li compta
-  TRES equips olímpics, 2010, 2014 i 2018.**
+- ~~**Els resultats de PyeongChang 2018.**~~ — **`resolt` el 19-09-2026**:
+  **30a a l'eslàlom femení**, amb **53,22** a la primera mànega i **52,84** a
+  la segona, per un total d'**1:46,06**. La fitxa pròpia i el resum de la
+  delegació andorrana coincideixen ([bolcat de la fitxa de Mireia
+  Gutiérrez](../../../../raw/web/esport/alpins/Mireia_Gutiérrez.wiki), [bolcat
+  de PyeongChang 2018](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2018_Winter_Olympics.wiki)).
 - ~~**Si va ser abanderada.** A Vancouver 2010 els abanderats van ser Lluís Marín
   i ella ([els Jocs](../../competicio/andorra-als-jocs-olimpics.md)) — **cal
   confirmar-ho.** ~~— **`obert`, confirmat**: **el seu bolcat no ho diu**, i **el
