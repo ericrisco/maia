@@ -112,8 +112,12 @@ poden citar.`
    té dues fitxades —**[futbol](../futbol/femeni/la-seleccio-femenina.md) i
    bàsquet**. `Requereix la llista oficial de seleccions del Comitè Olímpic
    Andorrà.`
-4. **La Federació Andorrana de Basquetbol**, que segueix sense fitxa i és la
-   mateixa dels dos equips.
+4. ~~**La Federació Andorrana de Basquetbol**, que segueix sense fitxa i és
+   la mateixa dels dos equips.~~ — **`resolt` el 18-09-2026, era un bessó**:
+   [el bàsquet](./el-basquet.md) ja en té fitxa — **fundada el 1988,
+   reconeguda per la FIBA i integrada al COA el 1989**, president actual
+   Joaquim Tomàs Baldrich, seu al Pavelló Joan Alay
+   ([font](../../../fonts/fab-ad-la-federacio.md)).
 
 ## Related
 
