@@ -233,11 +233,11 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
    2003, 2013 i 2025](#quatre-convenis-no-un-1993-2003-2013-i-2025)».
    `El del 24 de setembre del 2003 només consta per la proposta de ratificació
    del 2004 i pels preàmbuls posteriors; el text no s'ha localitzat.`
-4. **Quantes hores de català** es fan als centres francesos. — **`obert`, amb el
-   resultat mesurat.** Les hores segueixen sense constar; el que ara consta és
-   **què en surt**: dels alumnes de nacionalitat francesa, **el 66% diu que entén
-   bé el català i el 52% que el parla bé**, trenta punts per sota dels d'origen
-   portuguès.
+4. ~~**Quantes hores de català** es fan als centres francesos.~~ — **`parcial`,
+   amb el resultat mesurat.** Les hores segueixen sense constar; el que ara
+   consta és **què en surt**: dels alumnes de nacionalitat francesa, **el 66% diu
+   que entén bé el català i el 52% que el parla bé**, trenta punts per sota dels
+   d'origen portuguès.
 5. **Per què els portuguesos trien l'escola francesa** — és la dada més
    intrigant de la fitxa. — **`obert` quant al perquè; quantificat quant al
    quant.** El curs 2011-2012, **el 44% dels alumnes d'origen portuguès** i **el
