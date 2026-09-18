@@ -236,7 +236,24 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    vegades que ha crescut de debò ho ha fet reescrivint-se sencer, no
    esmenant-se.** **Les reformes del 2020 i del 2022 són de tres mil i mil
    dos-cents caràcters: puntuals.**
-2. **Què va passar amb els altres quinze punts** de la reforma.
+2. ~~**Què va passar amb els altres quinze punts** de la reforma.~~ — **`parcial`
+   el 19-09-2026**: el **Reglament vigent, del 4 de juny del 2026**, permet
+   comprovar el resultat normatiu actual de gairebé tota la llista, encara que
+   no substitueix l'expedient de la reforma del 2019. **Ja hi són** la
+   declaració de càrrecs, activitats i interessos privats (**art. 8**), el
+   mínim de **tres** consellers per formar grup (**art. 24**), la comptabilitat
+   dels grups, la fiscalització pel Tribunal de Comptes i el retorn dels
+   romanents (**art. 25**), les comissions no permanents i d'investigació amb
+   pla de treball, compareixences i conclusions (**arts. 47-54**), el vot no
+   presencial i la rectificació immediata d'un vot erroni (**arts. 76-77**),
+   l'excepció de les iniciatives legislatives populars a la caducitat (**art.
+   88.3**), les regles sobre expressions ofensives (**arts. 91-93**), les
+   repreguntes (**art. 136.3**) i un títol sencer de transparència (**arts.
+   148-150**), a més del **Codi de conducta** de l'annex I. **El text no
+   resol, però, quin va ser el vot de cada punt el 2019**, ni hi apareix una
+   declaració patrimonial d'inici i final de legislatura, ni una regulació
+   específica de l'accés i l'aforament de l'edifici: aquestes tres peces
+   històriques o materials segueixen obertes.
 3. ~~**Les enquestes del CRES** sobre valoració institucional.
    **Prioritari.**~~ — **`resolt` el 18-09-2026**: **és l'enquesta anual
    d'opinió política**, ara feta per **Andorra Recerca + Innovació (AR+I)**,
