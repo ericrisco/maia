@@ -68,10 +68,15 @@ aquest. **No és una anècdota: és l'escala.**
   van rebre de la FINA.** **El combat va durar quaranta-set segons**: **ippon
   del dominicà Vicbart Geraldino**, **dues vegades olímpic.**
   **Quaranta-set segons de Jocs Olímpics.**
-- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
-  per a tota la branca: el bolcat és una instantània amb data**, i **una
-  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
-  millor: es tanca amb una font nova.** Vegeu [els esports](../README.md).
+- ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
+  buit d'aquest corpus: és una propietat de qualsevol instantània**, i
+  **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
+  **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
+  ho impedeixen, a [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  `El buit real no és «què fa ara»: és que els resultats de competició
+  existeixen en fonts que no es poden reutilitzar sense permís, i això ja
+  està registrat allà com a buit de permís.`
 - **El judo andorrà**: federació, clubs, quanta gent.
 
 ## Related

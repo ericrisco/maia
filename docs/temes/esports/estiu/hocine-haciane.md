@@ -101,10 +101,15 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   d'Andorra als Jocs d'Atenes del 2004.** **On es va formar segueix `obert`.**
 - ~~**On va néixer**~~ — **`resolt`**: **Andorra la Vella, 7 de juliol del
   1986.**
-- **Què fa ara.** — **`obert`, confirmat el 2026-09-13, i per un motiu que val
-  per a tota la branca: el bolcat és una instantània amb data**, i **una
-  instantània no diu què fa ningú avui**. **Aquest buit no es tanca destil·lant
-  millor: es tanca amb una font nova.** Vegeu [els esports](../README.md).
+- ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
+  **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
+  buit d'aquest corpus: és una propietat de qualsevol instantània**, i
+  **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
+  **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
+  ho impedeixen, a [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  `El buit real no és «què fa ara»: és que els resultats de competició
+  existeixen en fonts que no es poden reutilitzar sense permís, i això ja
+  està registrat allà com a buit de permís.`
 
 ## Related
 
