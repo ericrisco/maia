@@ -607,5 +607,7 @@ facin, seria un tret; amb això, és una frase repetida.
    Prioritàries: el corpus de parla té **una sola veu de dona** abans d'aquesta.
    `no-es-buit`: és una limitació de representació de la mostra, no una
    pregunta pendent.
-9. **Els drets no acompanyen.** Llicència estàndard de YouTube, redistribució
-   `pendent` (avís R005). El consentiment consta; el permís de redistribuir, no.
+9. `no-es-buit` — **Els drets no acompanyen.** Llicència estàndard de YouTube,
+   redistribució `pendent` (avís R005). El consentiment consta; el permís de
+   redistribuir, no. **No és una pregunta oberta: és l'estat de drets de la
+   peça**, que es resol amb una cessió, no consultant cap font.
