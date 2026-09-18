@@ -167,11 +167,10 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   que hi encaixaria**: [el contrapàs](./el-contrapas.md) es balla amb **el cònsol
   i els consellers barrejats amb el veïnat**. **Que això tingui res a veure amb
   el Ball de cònsols d'Amades no ho diu cap font**, i el corpus no ho afirma.
-- **La música**: Amades en dona partitures i gràfics que el corpus no ha vist. —
-  **`obert`, confirmat**, i **és el mateix buit que declaren
-  [les danses](./danses.md) i [el ball de l'ossa
-  d'Encamp](./el-ball-de-lossa-dencamp.md)**. **Tres articles, una sola mancança:
-  el corpus no té ni una partitura andorrana.**
+- ~~**La música**: Amades en dona partitures i gràfics que el corpus no ha vist.~~
+  — **`resolt` el 18-09-2026, com a duplicat de branca**: el residu canònic i
+  la resposta parcial queden a [les danses](./danses.md), que també registra
+  les partitures d'Amades encara no consultades.
 - **Josep Barrabés d'Encamp** i la família **Barrobes**. — **`obert`, confirmat.**
   **Els dos cognoms no surten enlloc més del corpus**, ni a les fitxes de
   persones ni a les de demografia. `Requereix font externa: els registres
