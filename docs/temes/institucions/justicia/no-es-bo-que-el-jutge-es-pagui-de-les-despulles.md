@@ -379,8 +379,8 @@ i 1859, V, 89.)*
    **Prioritari.**
 9. **Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
    cita cap**.**
-10. **El manuscrit de M. Palmitjavila.** — **Les pp. 197, 217 i 338, `resoltes`
-    el 18-09-2026** dins l'extracte de Brutails.
+10. ~~**El manuscrit de M. Palmitjavila.**~~ — **`resolt` el 18-09-2026**:
+    les pp. 197, 217 i 338 són dins l'extracte de Brutails i ja estan llegides.
 
     **La 197 diu qui cobra quan la composició es tanca, i en quin ordre**: fixada
     la remissió i expressada la pena, **«lo notari trenca las manlleutas,

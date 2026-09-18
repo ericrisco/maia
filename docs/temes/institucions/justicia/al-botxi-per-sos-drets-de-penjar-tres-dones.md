@@ -331,10 +331,10 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
 4. **La *Notule de l'Inquisition*** dels Arxius dels Pirineus Orientals, **que és la
    signatura de la fórmula de 1574.** `Requereix font externa.`
 5. **El document de 1646** amb la fórmula catalana: **sense signatura.**
-6. **El *Politar*, pp. 163-164**, **i el *Manual Digest*** en el passatge de la
-   «guerra formidable». — **Les pp. 244, 276 §10, 279 §25 i 285 §8, `resoltes` el
-   18-09-2026; les 163 i 164 són les úniques dues pàgines citades pel corpus que
-   queden fora de l'extracte de Brutails.**
+6. ~~**El *Politar*, pp. 163-164**, **i el *Manual Digest*** en el passatge de la
+   «guerra formidable».~~ — **`parcial`: les pp. 244, 276 §10, 279 §25 i 285 §8
+   queden `resoltes` el 18-09-2026; les 163 i 164 són les úniques dues pàgines
+   citades pel corpus que queden fora de l'extracte de Brutails.
 
    **§10 de la p. 276 — el Consell es castiga a si mateix**, pecuniàriament i
    sense anar a la Cort, **llevat que l'excés sigui «molt grave, com es de mort,

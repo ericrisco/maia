@@ -213,9 +213,9 @@ I els venedors **renuncien «a la lley que ajuda als engañats en mes de la mita
    l'octubre de 1788. `Requereix documentació militar espanyola.`
 8. **Si la compradora va arribar a ser inquietada o el tros es va quitar.** **No hi
    ha cap acte posterior al corpus.**
-9. **El sentit de `fadiga` com a tanteig en altres documents andorrans.** **El
-   corpus en té una sola atestació** i **el sentit processal, en té més d'una.**
-   — **la meitat lexicogràfica, `resolta` el 16-09-2026**
+9. ~~**El sentit de `fadiga` com a tanteig en altres documents andorrans.**~~ —
+   **`parcial`: el corpus en té una sola atestació** i **el sentit processal, en
+   té més d'una.** **La meitat lexicogràfica queda `resolta` el 16-09-2026**
    ([font](../../../fonts/diec2.md)): **el diccionari normatiu recull el sentit
    de tanteig i no recull l'altre.** `fadiga` hi és «**1** f. `[HIH]` `[DR]`
    `[AD]` Tanteig. **2** f. `[LC]` `[MD]` Fatiga», i **la denegació de justícia

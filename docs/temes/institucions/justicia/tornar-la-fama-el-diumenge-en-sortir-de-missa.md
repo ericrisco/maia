@@ -289,9 +289,9 @@ fet:**
    atribució a l'obra de M. Moras**, no per document.** **Prioritari.**
 9. **La decisió del Consell General de 1886** sobre els establiments
    penitenciaris, **sencera.**
-10. **El manuscrit de M. Palmitjavila.** — **Les pp. 344 i 349-350 del
-    *Politar*, `resoltes` el 18-09-2026, i les galeres tenen una explicació que
-    no és jurídica sinó meteorològica.**
+10. ~~**El manuscrit de M. Palmitjavila.**~~ — **`resolt` el 18-09-2026**:
+    les pp. 344 i 349-350 del *Politar* són llegides, i les galeres tenen una
+    explicació que no és jurídica sinó meteorològica.
 
     **El bandejament, p. 344.** **Els reus entren d'un en un al *quadro* després
     de fer «un mitg torn per la plassa»**, **es descobreixen, fan cortesia i els

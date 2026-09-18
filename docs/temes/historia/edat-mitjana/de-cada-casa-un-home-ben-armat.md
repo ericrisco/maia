@@ -437,8 +437,9 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    —«**com que reconeixem que injustament preníem *potacions* o *beratiques*…**»—,
    **de manera que no eren drets sinó abusos admesos**, i **això és el que les
    fa interessants, tinguin el nom que tinguin.**
-6. **La *leuda*, `resolta` el 16-09-2026**; **la *vista* i la *parada*
-   segueixen obertes.** **El [DCVB](../../../fonts/dcvb.md) dona `lleuda`** —grafia antiga
+6. ~~**La *leuda*, la *vista* i la *parada*.**~~ — **`parcial`: la *leuda*
+   queda `resolta` el 16-09-2026; **la *vista* i la *parada* segueixen obertes.**
+   **El [DCVB](../../../fonts/dcvb.md) dona `lleuda`** —grafia antiga
    `leuda`— com a «**tribut que es pagava per l'entrada de mercaderies dins una
    vila o altre lloc**», el *lezda* castellà, **documentat des del 1197** i en
    franquícies de 1309 i de Pere IV. **Precisa el que el corpus tenia**: no és

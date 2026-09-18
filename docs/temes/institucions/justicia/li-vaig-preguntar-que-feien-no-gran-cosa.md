@@ -224,9 +224,9 @@ pàgina la daten:**
    **Prioritari**: **ara se'n sap la ubicació.**
 4. **Quins van ser els vint anys** en què la plaça de veguer francès va restar
    vacant al segle XVIII *(Archives des Pyrénées-Orientales, C 2101)*.
-5. **El manuscrit del senyor Palmitjavila.** — **Les pp. 194, 336 i 343 del
-   *Politar*, `resoltes` el 18-09-2026, i la banda del Politar ja no és de
-   segona mà.**
+5. ~~**El manuscrit del senyor Palmitjavila.**~~ — **`parcial`: les pp. 194,
+   336 i 343 del *Politar* queden `resoltes` el 18-09-2026, i la banda del
+   Politar ja no és de segona mà.**
 
    **Sobre la posició del Jutge, el Politar no la discuteix: la col·loca.** **A
    la p. 339 el fa seure a la cadira del mig, entre els dos Veguers, «pera
