@@ -321,8 +321,32 @@ faisait l'Andorran*».**
 2. **Joan de Déu Trias**, *Constitución política y **personalidad** internacional
    del Principado de Andorra* (1890, Barcelona, Subirana Hermanos; títol
    corregit el 17-09-2026 des de la bibliografia de la [síntesi
-   d'actes](../../fonts/actes-historiques-consell-general.md)). **Quarta tanda
-   consecutiva que surt citat.** **Prioritari.**
+   d'actes](../../fonts/actes-historiques-consell-general.md)).
+   **`font_externa`. Aquest és l'enunciat canònic del buit; les altres fitxes
+   que el reclamen hi remeten.**
+
+   **Mesura feta el 18-09-2026, i corregeix la manera de comptar.** El corpus
+   el declarava «quarta tanda», «sisena tanda», «tercera tanda» i «segona
+   tanda» en quatre fitxes diferents: **no són quatre buits ni sis, és un**, i
+   **els comptadors mesuraven recitacions, no absències noves**
+   ([la mateixa lliçó que el *Politar*](../../../../02-DOCS/raw/worklog/2026-09-18-el-politar-hi-era-sencer.md)).
+
+   **El que el corpus ja té de Trias, i no és poc** —tot de segona mà, per tres
+   rebatedors independents:
+
+   | Tesi de Trias | Qui la reporta | On és al corpus |
+   | --- | --- | --- |
+   | El document del 843 diu «*in pago Urgellensi qui vocatur vallis Andorra*» —**tota la vall**, no una vil·la | Brutails, que el combat | aquesta fitxa |
+   | Els bisbes van quedar revestits **de tots els drets que Carlemany s'havia reservat**, cedits per Carles el Calb el 843 | Vilar (1904), que hi oposa els actes de 860 | [o ho accepteu o el bestiar passa a ser estranger](../segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md) |
+   | El consentiment del bisbe al pareatge **va ser arrencat per la força** | Brutails, «M. de Dios Trias notament» | [afirmats en principi, sacrificats en l'aplicació](../pareatge/afirmats-en-principi-sacrificats-en-laplicacio.md) i [el rei és sobirà però no ho és tot sol](../antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md) |
+   | **El Consell General data del segle XIII** *(p. 8)*, contra el 805 del *Politar* | una font espanyola del 1920 | [definir el costum és legislar](../../institucions/consell-general/definir-el-costum-es-legislar.md) |
+
+   **El que falta no és la tesi de Trias: és la seva lletra.** Quatre posicions
+   documentades, una pàgina concreta, i **cap frase seva citada directament.**
+
+   `Cercat el 18-09-2026 sense èxit: Internet Archive (no hi és, ni per títol ni
+   per autor), Biblioteca Digital Hispánica (403), HathiTrust (403), Google
+   Books (quota exhaurida). Queda com a petició d'arxiu o de biblioteca.`
 3. **Baudon de Mony**, *Les origines historiques de la question d'Andorre*.
    **Nou, i és l'altra font episcopal.** **Prioritari.**
 4. **Brutails, *Étude critique sur la question d'Andorre*, *Revue des Pyrénées*,

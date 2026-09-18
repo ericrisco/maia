@@ -285,7 +285,11 @@ llegir París:**
    XIII**, contra **Pallerola**, que el situa **no abans del segle XV**
    ([definir el costum és
    legislar](../consell-general/definir-el-costum-es-legislar.md)). **El llibre
-   segueix sense obrir-se, i ja van sis tandes.**
+   segueix sense obrir-se.** — **`font_externa`, i el comptador es retira el
+   18-09-2026**: «sis tandes» comptava recitacions d'una mateixa absència, no
+   sis buits. **Enunciat canònic, amb les quatre tesis que el corpus ja té de
+   Trias per tres rebatedors independents**:
+   [villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
 7. **Què va respondre Espanya** a la tesi francesa de la suzeraineté. **Segueix
    obert des de [qui parlava per Andorra](./qui-parlava-per-andorra.md).**
 

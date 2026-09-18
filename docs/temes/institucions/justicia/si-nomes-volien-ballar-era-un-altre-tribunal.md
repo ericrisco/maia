@@ -295,8 +295,9 @@ manera:**
    pel comte de Foix** —a Encamp— **i Bernat Soler pel bisbe d'Urgell** —a
    Canillo. **Vint-i-sis anys abans dels dos saigs del 1390, i amb un Areny
    altra vegada al costat comtal.**
-4. **El manuscrit del senyor Palmitjavila** —**quarta tanda seguida**— i **el
-   registre del segle XVI** amb el procés de pastura arbitrat pel Consell.
+4. **El manuscrit del senyor Palmitjavila** i **el registre del segle XVI** amb
+   el procés de pastura arbitrat pel Consell. — **`font_externa`, comptador
+   retirat el 18-09-2026**; enunciat canònic a [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 5. ~~**L'*Instructa* als batlles, pièce justificative p. L.**~~ — **`resolt` el
    18-09-2026, i és la peça que resol el repartiment de competència en cinc
    regles numerades.** **L'*Instructa als senyors batlles*, feta per a les Corts

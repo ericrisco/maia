@@ -237,8 +237,9 @@ font en dona la prova, i ve d'un altre lloc del dret:**
 8. **Qui eren els «*Magnífics visurers de les aigües de les Valls d'Andorra*»**
    del **7 d'abril de 1603**, **i si el plet pendent a la Cort del vicari general
    d'Urgell era una apel·lació d'una sentència del Consell General.**
-9. **El manuscrit del senyor Palmitjavila** — **sisena tanda seguida**, i **aquí
-   és l'única autoritat de la inapel·labilitat.** **Prioritari per acumulació.**
+9. **El manuscrit del senyor Palmitjavila** — **aquí és l'única autoritat de la
+   inapel·labilitat**, i això sí que el fa prioritari. — **`font_externa`,
+   comptador «sisena tanda» retirat el 18-09-2026**; enunciat canònic a [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 10. **Quan i per quin acte el secretari del Consell General va deixar de ser
     escrivà de dret de les visures.**
 11. **La «mena de requesta civil adreçada al Consell General mateix»**: **si té

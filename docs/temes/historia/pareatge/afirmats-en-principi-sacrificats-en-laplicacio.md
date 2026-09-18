@@ -251,8 +251,12 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    taula de canvi medieval.`
 3. **La protesta anticipada del bisbe del 31 de maig de 1277**, durant el setge
    d'Urgell. **Citada per Trias, represa per Vilar, i no vista.**
-4. **L'obra de Joan de Déu Trias.** **Segona tanda que surt citada —ara com a
-   adversari— i segueix sense trobar-se.** **Prioritari.**
+4. **L'obra de Joan de Déu Trias.** — **`font_externa`, i el comptador es
+   retira el 18-09-2026**: el corpus el reclamava a quatre fitxes amb quatre
+   comptadors diferents i **és un sol buit**.
+   **Enunciat canònic**: [villa o tota la vall](../origens/villa-o-tota-la-vall.md).
+   `Aquí la seva tesi —consentiment episcopal arrencat per la força— ja hi és,
+   per Brutails; el que falta és com ho diu ell.`
 5. **La butlla de Martí IV.** **Dues dates registrades i cap document.**
    **Prioritari.**
 6. **La informació feta a la cort d'Andorra el 1404.** **`SIGNATURA COMPLETADA

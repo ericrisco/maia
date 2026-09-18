@@ -192,6 +192,27 @@ incompatibles.** **N'hi ha una tercera i és la que decideix.**
 > existia, que tenia com a mínim tres peces identificables i que era
 > accessible.**
 
+## Aquesta fitxa és l'enunciat canònic del buit
+
+**El 18-09-2026 s'ha mesurat quantes fitxes del corpus reclamen aquest
+manuscrit: vint-i-set.** Sis d'elles hi portaven un comptador d'acumulació
+—«quarta tanda seguida», «sisena», «novena», «onzena», «dotzena»— **i els
+comptadors s'han retirat**.
+
+**No eren dotze buits: era un buit citat dotze vegades.** El comptador mesurava
+**el corpus**, no la font, i **«prioritari per acumulació» era una prioritat
+fabricada per la repetició**. La prioritat legítima és la de contingut: a
+[propter angustiam loci](./propter-angustiam-loci.md) i a
+[tretze dies però comptats d'una altra manera](./tretze-dies-pero-comptats-duna-altra-manera.md)
+el manuscrit **és l'única autoritat d'una regla**, i **això sí** que el fa
+prioritari.
+
+**És la mateixa lliçó que el *Politar*, l'*Instructa* i la *Ley de Reforma*:
+abans de declarar que falta una unitat d'una font que ja es té, mesura l'abast
+de la font.** Aquí la mesura dona el contrari del cas del *Politar* —el
+manuscrit **no** és al corpus—, però **el diagnòstic del comptador és el
+mateix**.
+
 ## Buits registrats
 
 1. **El manuscrit sencer.** **Segueix sent el buit més gran del corpus en aquest

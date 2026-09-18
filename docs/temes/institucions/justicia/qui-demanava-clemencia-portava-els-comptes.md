@@ -416,8 +416,12 @@ font sobre ella mateixa:**
      **sí** que feien.**
 5. **Qui feia d'agutzil als tribunals de visura**, si el *nunci* no hi servia.
    **La font ho exclou i no ho substitueix.**
-6. **El manuscrit del senyor Palmitjavila** —**novena tanda seguida**— i **el
-   memòria que enumera els membres de les Corts sense el *procurador fiscal*.**
+6. **El manuscrit del senyor Palmitjavila** i **el memòria que enumera els
+   membres de les Corts sense el *procurador fiscal*.** — **`font_externa`, i el
+   comptador «novena tanda» es retira el 18-09-2026**: comptava recitacions
+   d'una sola absència. **Enunciat canònic, amb les trenta-dues citacions
+   inventariades i les cinc pàgines que Brutails en publica**:
+   [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md). `Requereix localitzar el fons Palmitjavila.`
 7. **Els «altres documents» que atribueixen el paper d'acusador públic al
    Jutge.** **La font els invoca i no els cita aquí.**
 8. **Com es nomenava el *procurador fiscal***, **si era un càrrec o una funció
