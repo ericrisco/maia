@@ -72,13 +72,20 @@ independencia contraria á los derechos é intereses de la Nación española**»
 
 ## Buits registrats
 
-1. **El dia exacte** de la reial ordre.
+1. ~~**El dia exacte** de la reial ordre.~~ — **`resolt` el 19-09-2026** com a
+   buit duplicat: la pregunta canònica (que inclou també el text de la
+   *Gaceta de Madrid*) continua registrada a
+   [la fitxa temàtica de la reial ordre](../temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
 2. ~~**L'URL** de descàrrega de l'exemplar.~~ — **`resolt` el 18-09-2026**:
    [Biblioteca Digital de Castilla y León](https://bibliotecadigital.jcyl.es/es/catalogo_imagenes/grupo.do?path=10091466),
    registre d’imatges del número 34. El títol del catàleg té un error OCR
    («1284»), que no afecta la data impresa ni el text.
-3. **El text a la *Gaceta de Madrid***, que és on una reial ordre es publica
-   primer. El corpus la té per la còpia provincial, no per l'original.
+3. ~~**El text a la *Gaceta de Madrid***, que és on una reial ordre es publica
+   primer. El corpus la té per la còpia provincial, no per l'original.~~ —
+   **`resolt` el 19-09-2026** com a buit duplicat; la pregunta canònica queda a
+   [la fitxa temàtica de la reial ordre](../temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
 4. **Els altres butlletins provincials** que la van reproduir, i si el text hi és
    idèntic.
-5. **Si es va derogar mai**, i quan.
+5. ~~**Si es va derogar mai**, i quan.~~ — **`resolt` el 19-09-2026** com a
+   buit duplicat; la pregunta canònica queda a
+   [la fitxa temàtica de la reial ordre](../temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
