@@ -197,9 +197,12 @@ represa; 1992 contra «mitjan anys noranta» per a la segona aturada.**
 **El que sí que consta a totes dues**: **que són a l'Inventari general del
 patrimoni cultural del Govern d'Andorra com a béns immaterials.**
 
-> **El corpus registra l'estat andorrà com a establert i l'estat UNESCO com a
-> no establert.** **Buit prioritari i comprovable: consultar la llista de la
-> UNESCO.**
+**La fitxa oficial de la [UNESCO](../../../fonts/unesco-bear-festivities-pyrenees.md)
+resol la discrepància:** l'element **«Bear festivities in the Pyrenees»** és el
+**01846**, i consta **inscrit el 2022** a la Llista Representativa del Patrimoni
+Cultural Immaterial de la Humanitat, per decisió **17.COM 7.b.39**. Per tant,
+«s'han inclòs» descriu l'estat actual; «se'n tramita la inclusió» és una versió
+anterior o desactualitzada de l'article.
 
 ## La font que el corpus ha identificat i no ha pogut llegir
 
@@ -262,10 +265,12 @@ respon amb una pàgina de verificació antibot en comptes del document.**
   periodista local — i **va morir el 2006**, cosa que fixa el límit de qualsevol
   recollida de testimoni directe. `Requereix font externa: el llegat de Rossend
   Marsol Clua, o el fons del comú d'Encamp.`
-- **La música.** — **`obert`, confirmat.** **És el mateix buit que
-  [les danses](./danses.md) declara per a tota la branca**, i que
+- ~~**La música.**~~ — **`parcial` el 18-09-2026**: la fitxa oficial de la
+  UNESCO confirma que aquestes festes inclouen **música**, però no identifica
+  els instruments, el repertori ni les partitures d'Encamp. **És el mateix
+  residu que [les danses](./danses.md) declara per a tota la branca**, i que
   [els catorze balls](./els-catorze-balls.md) declara per a les partitures
-  d'Amades. **Tres articles, un sol buit.**
+  d'Amades.
 
 ## Related
 

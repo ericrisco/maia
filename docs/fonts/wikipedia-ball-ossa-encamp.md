@@ -12,7 +12,7 @@ data_consulta: 2026-09-13
 abast: >
   Els personatges de la farsa d'Encamp un per un, la lectura del ball com a ritus iniciàtic, la descripció completa que Joan Amades en va publicar al Costumari Català del 1950, la història de la disfressa, el binomi amb el judici dels contrabandistes, i la cronologia de les represes d'Ordino.
 notes: >
-  Dues coses obliguen el corpus a la prudència amb aquesta font. Primera: els dos articles es contradiuen sobre la UNESCO, l'un diu que la inclusió es tramita i l'altre que ja s'ha produït. Segona: la seva cronologia d'Ordino no coincideix amb la que el corpus ja tenia de la tesi de Masegosa, ni en la primera represa ni en la segona aturada. La citació llarga d'Amades va marcada amb «citació necessària» a l'original. La interpretació iniciàtica prové d'una tesi doctoral (Eloi Ysàs Trias, URV 2016) que el corpus ha identificat i no ha pogut descarregar: TDX respon amb una pàgina de verificació antibot.
+  La cronologia d'Ordino no coincideix amb la que el corpus ja tenia de la tesi de Masegosa, ni en la primera represa ni en la segona aturada. La discrepància sobre la UNESCO s'ha resolt amb la fitxa oficial: l'element 01846 consta inscrit el 2022. La citació llarga d'Amades va marcada amb «citació necessària» a l'original. La interpretació iniciàtica prové d'una tesi doctoral (Eloi Ysàs Trias, URV 2016) que el corpus ha identificat i no ha pogut descarregar: TDX respon amb una pàgina de verificació antibot.
 ---
 
 # Viquipèdia en català — El ball de l'ossa d'Encamp i l'Última ossa d'Ordino
