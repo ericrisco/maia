@@ -97,13 +97,16 @@ Request` si `showColumns` no coincideix amb la periodicitat real de la taula.**
 
 ## Què s'ha bolcat, a 18-09-2026
 
-**1.354 de les 2.709 divisions** —**el 50,0%**— i **336.102 valors**, en
-**vint-i-set carpetes**, **totes amb README de procedència, llicència i defectes
+**2.287 de les 2.709 divisions** —**el 84,4%**— i **771.854 valors**, en
+**trenta carpetes**, **totes amb README de procedència, llicència i defectes
 registrats**.
 
 | Carpeta | Divisions | Valors |
 | --- | ---: | ---: |
+| `pressupostos` | 391 | 115.240 |
+| `turisme-vehicles-energia` | 385 | 118.938 |
 | `comparacio-internacional` | 298 | 50.726 |
+| `empreses-sector-exterior` | 249 | 201.574 |
 | `demografia-vital` | 191 | 55.358 |
 | `salut-cultura-medi` | 189 | 12.437 |
 | `qualitat-de-vida` | 153 | 4.073 |
@@ -126,10 +129,13 @@ registrats**.
 | `fiscalitat` | 10 | 3.990 |
 | `infancia` | 7 | 301 |
 
-**El que queda sense bolcar és, sobretot**: **`0202` pressupostos (399
-divisions)**, **`0205` ajudes, permisos, vehicles i allotjament (446)**,
-**`0204` estoc d'empreses i sector exterior (267)**, **la resta de `0101`
-població (251)** i **`0203` IPC detallat (107)**.
+`La suma de la columna «divisions» dona 2.733 i les divisions úniques són
+2.287: algunes cauen sota dos prefixos i surten a dues carpetes.`
+
+**El que queda sense bolcar és, sobretot**: **`0205` ajudes, permisos, vehicles
+i allotjament (el que no ha entrat a `turisme-vehicles-energia`)**, **la resta
+de `0101` població (251 divisions)**, **`0203` IPC detallat (107)**, **`0106`
+(98)**, **`0108` (90)** i **`0107` (39)**.
 
 ## Dues regles d'ús que han costat de trobar
 

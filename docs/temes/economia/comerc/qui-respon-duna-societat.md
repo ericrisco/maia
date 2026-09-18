@@ -339,6 +339,41 @@ sèrie** —989 i 311—: **l'any de la pandèmia el que s'atura no és el tanca
 **+26,2%** de persones físiques. **El 2016, dues de cada tres empreses del país
 eren persona jurídica; el 2025, tres de cada quatre** (75,6%).
 
+### Un terç de les empreses del país no fa res
+
+> **Afegit el 18-09-2026** amb la branca `0204` de l'API
+> (`docs/raw/estadistica-api/empreses-sector-exterior/`). **La font publica
+> l'estoc repartit per situació d'activitat**, i **canvia el que significa la
+> xifra gran.**
+
+| 2023 | Empreses | % de l'estoc |
+| --- | ---: | ---: |
+| **Actives** | **13.343** | **63,58%** |
+| **Inactives, activitat desapareguda fa més d'un any, sense baixa administrativa** | **6.673** | **31,80%** |
+| Inactives, activitat encara no desapareguda | 769 | 3,66% |
+| Inactives, activitat desapareguda durant l'any, sense baixa | 132 | 0,63% |
+| Inactives amb baixa administrativa el mateix any | 69 | 0,33% |
+| **Total** | **20.986** | **100%** |
+
+**Gairebé una de cada tres empreses del registre és una empresa que va deixar de
+funcionar fa més d'un any i que ningú no ha donat de baixa.**
+
+**I aquesta massa creix més de pressa que l'estoc**: **3.631 el 2016, 6.673 el
+2023**, **un +83,8%**, mentre l'estoc creixia un 47,7%. **Les empreses que
+tanquen administrativament el mateix any que deixen l'activitat són entre 23 i
+92 cada any**: **mai més de noranta-dues, de milers.**
+
+**Això vol dir que «hi ha 23.939 empreses a Andorra» i «hi ha 23.939 negocis
+funcionant» no són la mateixa frase**, i **la segona seria falsa per un terç.**
+
+`La taula de situació d'activitat s'atura el 2023, i l'estoc arriba al 2025. Del
+2024 i el 2025 el corpus no en sap la proporció d'actives.`
+
+**Una comprovació de coherència, de passada**: **estoc + nascudes − mortes
+quadra exactament cada any de la sèrie llevat de tres** —**2017 i 2018 fallen
+per una empresa i 2019 per tres**. `Diferències d'una i de tres sobre desenes de
+milers; el corpus les registra i no les arbitra.`
+
 ### Les empreses andorranes no es moren
 
 **La font segueix cada cohort any per any**, i el resultat és poc habitual:
