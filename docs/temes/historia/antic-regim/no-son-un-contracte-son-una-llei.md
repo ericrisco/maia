@@ -225,8 +225,13 @@ cabaler](./lhereu-i-el-cabaler.md).
    sola mostra no es pot generalitzar**, i **la font no ho pretén.**
 3. **Qui era hereu al contracte del 24 de febrer de 1551**, per confirmar si és un
    cas de *pubill*.
-4. **Què era el *spoli***, i **si era el mateix que el *sposalici*** documentat el
-   1551. **La font fa servir els dos mots i no els relaciona.**
+4. ~~**Què era el *spoli***, i **si era el mateix que el *sposalici*** documentat el
+   1551. **La font fa servir els dos mots i no els relaciona.**~~ — **`resolt` el
+   18-09-2026 amb la lectura de les pp. 121 i 129**: el *spoli* és **l'augment
+   que el marit afegeix al dot** i la traducció de *sponsalicium*; el *sposalici*
+   del 1551 és **el regal de prometatge pactat al contracte** (30 sous d'ell a
+   ella i 15 d'ella a ell). **El corpus els distingeix per funció**, encara que
+   comparteixin l'arrel llatina; la font no els tracta com a sinònims.
 5. **Els quatre actes de desembre de 1443**, sencers. **El corpus en té el
    resum de l'autor, no el text.**
 6. **Si la fórmula «*jam proles fuit procreata*» era corrent** o excepcional. La
