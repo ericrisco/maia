@@ -146,8 +146,8 @@ abandonades i vi importat— **i registra la de Tor al costat.**
 
 ## Buits registrats
 
-1. **Quan i com es legalitza** el conreu del tabac. — **`parcial` el
-   17-09-2026, i la primera obertura té data**: **el 28 de juliol de 1791** el
+ 1. ~~**Quan i com es legalitza el conreu del tabac**~~ — **`parcial` el
+    17-09-2026**: la primera obertura té data: **el 28 de juliol de 1791** el
    Consell General resol **«que ningú puga fer ni véndrer tabaco als
    estrangers, però si que podran fer-ne per son propi us»**
    ([les actes](../../../fonts/actes-historiques-consell-general.md), Llibre

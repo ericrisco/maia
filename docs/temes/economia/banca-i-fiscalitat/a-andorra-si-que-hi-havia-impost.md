@@ -247,9 +247,9 @@ secretari del Consell General.**
 
 ## Buits registrats
 
-1. **Quant recaptava l'impost de la *quistia*** i **quants contribuents tenia.**
-   **La font dona el tipus i no la xifra.** **Prioritari.** — **`parcial` el
-   16-09-2026, i la xifra que s'hi acosta ve amb una advertència.** **El
+ 1. ~~**Quant recaptava l'impost de la *quistia* i quants contribuents tenia**~~ —
+    **`parcial` el 16-09-2026**: **la font dona el tipus i no la xifra**. **La
+    xifra que s'hi acosta ve amb una advertència.** **El
    pressupost d'ingressos de 1917 dona 11.320 pessetes de «contribución sobre
    agricultura, industria y comercio»**, que **és la partida principal i la fixen
    les autoritats de cada parròquia «*según la estimación que hacen de la riqueza

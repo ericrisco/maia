@@ -117,8 +117,8 @@ coherent amb un país la banca del qual viu de la seva homologació
 
 ## Buits registrats
 
-- **Quantes empreses de seguretat privada hi ha inscrites**, no consta. —
-  **`parcial` el 17-09-2026, i el que es tanca és una via.** **El BOPA publica la
+- ~~**Quantes empreses de seguretat privada hi ha inscrites**~~ — **`parcial` el
+   17-09-2026**: el que es tanca és una via. **El BOPA publica la
   llei i els seus reglaments** —**Llei 8/2022, del 31 de març**, modificada per la
   **Llei 4/2024**, amb reglaments de desenvolupament del **19-4-2023**, del
   **5-6-2024** i una modificació del **26-2-2025**— **però no el registre

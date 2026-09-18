@@ -205,8 +205,8 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    quina forma tenien.** **Un dret real conferit per escriptura privada.**
 4. **L'equivalència de 25 unces per 400 duros**: **si val per a tot el segle XIX o
    només per a aquella data.** `Requereix una sèrie de canvis.`
-5. **La peça justificativa p. XLV** *(cessió de retracte del 10 d'agost de
-   1788)*. — **`parcial` el 16-09-2026, i el «a l'abast» era fals.** **Llegida
+ 5. ~~**La peça justificativa p. XLV (cessió de retracte del 10 d'agost de 1788)**~~ —
+    **`parcial` el 16-09-2026**: el «a l'abast» era fals. **Llegida
    la p. XLV** (PDF 67): **la peça XXV, *Cession d'un droit de réméré*, del 10
    d'agost de 1788, només hi COMENÇA** —hi consten la rúbrica, la data i
    l'encapçalament «*Dia 10 del mes de agost, any, &c., de 1788, en la vila de

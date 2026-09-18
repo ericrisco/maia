@@ -189,19 +189,19 @@ on es va discutir, segueix obert.**
   [l'ensenyament espanyol](./lensenyament-espanyol.md),
   [la cronologia escolar](./la-cronologia-escolar.md) i
   [les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md).
-- **Quantes escoles comunals hi havia**, exactament, i **fins quan van durar**.
-  — **`parcial`.** **Una per parròquia**, diu el llibre, **i quatre més pagades
+- ~~**Quantes escoles comunals hi havia i fins quan van durar**~~ — **`parcial`**.
+  **Una per parròquia**, diu el llibre, **i quatre més pagades
   per França**, de les quals **només una «tiene aceptación»**. **Fins quan van
   durar, segueix obert.**
 - ~~**En quina llengua s'hi feia classe.** És **la pregunta més important que
   aquesta fitxa deixa oberta** i cap font del corpus la respon.~~ —
   **`resolt`**, i **la font que la respon era la mateixa que la fitxa ja
   citava**: **classe en català, gramàtica castellana**.
-- ~~**Qui eren els mestres**: andorrans? d'on venien? com se'ls triava?~~ —
-  **`parcial`.** **Com se'ls triava, sí**: **sense exigència de títol**, per
+- ~~**Qui eren els mestres: andorrans? d'on venien? com se'ls triava?**~~ —
+  **`parcial`**: **com se'ls triava, sí**: **sense exigència de títol**, per
   apreciació de l'autoritat, i **amb el quart com a suplent de la parròquia**.
   **D'on venien i si eren andorrans, segueix obert.**
-- **Què s'hi ensenyava.** — **`parcial`.** **Català i gramàtica castellana** és
+- ~~**Què s'hi ensenyava**~~ — **`parcial`**: **Català i gramàtica castellana** és
   tot el que el llibre en diu. **La resta del currículum, obert.**
 - **Què valien 1.000-1.200 pessetes** a l'Andorra de 1920. — **`obert`, i ara
   amb una peça més**: el llibre precisa que **«la peseta española es la moneda

@@ -306,8 +306,8 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
 
 ## Buits registrats
 
-1. **La taula de monedes de la pàgina 20**, contra l'imprès. **Prioritari.** —
-   **`parcial` des del 2026-09-14, i amb una àncora que abans no hi havia.**
+1. ~~**La taula de monedes de la pàgina 20, contra l'imprès**~~ —
+   **`parcial` des del 2026-09-14**, amb una àncora que abans no hi havia.
    **La decisió de no transcriure res es manté**, i **el motiu segueix sent bo**;
    **el que ha canviat és que ara hi ha una fila comprovable des de fora de la
    taula.**
@@ -362,7 +362,7 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    la confraria dels teixidors d'Escaldes el 1904.
 5. **Quan es va passar al sistema mètric** a Andorra, i amb quina norma.
 6. **El Politar, pàgines 583-585**, contra l'original.
-7. **El ducat, a una data concreta.** — **Guany parcial del 15-09-2026, i és
+7. ~~**El ducat, a una data concreta**~~ — **`parcial` el 15-09-2026**, i és
    una relació que la taula mal extreta no dona.** Un acte del **24 d'agost del
    1580**, en què un cònsol i un prom judiquen unes penyores a instància del
    procurador d'un canonge d'Urgell, les taxa en «**deu ducats, diem xi ll.
@@ -372,7 +372,7 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    **És un sol acte i no fa sèrie**, i **no s'ha creuat amb les files de 1551,
    1552, 1567, 1580, 1599 i 1603 de la taula**, que donen el ducat com a moneda
    de referència sense donar-ne la relació amb la lliura.
-8. **La dobla, a 5 lliures 12 sous.** — **Guany parcial del 15-09-2026.** El
+8. ~~**La dobla, a 5 lliures 12 sous**~~ — **`parcial` el 15-09-2026**. El
    **capítol IV del llibre II del Politar** fixa la composició dels delictes a
    **«un pernill y dos formatges per dobla de 5 ll. 12 s.»** i en dona un exemple
    que quadra: **«se compon lo delicte de Pere a 5 dobles o en la quantitat de 28
@@ -381,7 +381,7 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    **1 dobla = 5,6 lliures = 112 sous.** **És un sol lloc i no fa sèrie**, i
    **no s'ha creuat amb les files del doble d'or de la taula de la pàgina 20**,
    que està mal extreta.
-9. **Què és un `moins` de civada.** — **`parcial` el 18-09-2026, amb una
+9. ~~**Què és un `moins` de civada**~~ — **`parcial` el 18-09-2026**, amb una
    identificació que el corpus proposa i no dona per feta.** **El
    [DCVB](../../../fonts/dcvb.md) té `MUIG`** —**«m. ant. Mesura de capacitat per
    a líquids i àrids, molt gran, car passava de dos quintars»**, **del llatí
