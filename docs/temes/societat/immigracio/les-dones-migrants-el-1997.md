@@ -182,7 +182,12 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
 
 1. **El protocol de salut del control mèdic d'immigració.** **Prioritari.**
 2. **Si es va obrir la residència refugi** per a dones maltractades.
-3. **L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.
+3. ~~**L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.~~
+   **`parcial`:** els edictes del BOPA confirmen una subvenció de **250.000
+   PTA el 1998**, altres ajudes localitzades fins al **2011**, i la cancel·lació
+   d'ofici del Registre d'Associacions resolta el **18-12-2015** i publicada el
+   2016 ([font BOPA](../../../fonts/bopa-adma-existencia-i-cancellacio.md)).
+   La data exacta de fundació i el nombre de sòcies continuen sense constar.
 4. **Dades sobre les conseqüències socials** que la ponència descriu sense
    xifres.
 5. ~~**Quan apareix l'assegurança d'atur** a Andorra, si ho fa. ~~— **`obert`,
