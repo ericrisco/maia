@@ -100,12 +100,99 @@ eren**: **Gran Bretanya, Hong Kong, Turquia, els Estats Units i Noruega.**
 **Turquia passa de zero a 6,1 milions d'euros i és el cinquè destí del país.**
 `Què s'hi ven, la taula no ho diu.`
 
+## Què s'importa i què s'exporta
+
+> **Divisions 68, 69, 74 i 75** de l'API d'estadística, buidades el 18-09-2026:
+> **importacions i exportacions per capítol aranzelari, en valor i en
+> quantitat**, **mensuals des del gener del 1987** i **97 capítols**. **La sèrie
+> per capítol comença sis anys abans que la de països.**
+
+**El primer que diu la taula és que Andorra ha deixat de vendre el que feia i
+ven el que passa per aquí.** **El 1993 el primer producte exportat era el vestit
+i el cotxe; el 2025 són l'aparell elèctric i el cotxe.**
+
+| Capítol | Export. 1993 | % | Export. 2025 | % |
+| --- | ---: | ---: | ---: | ---: |
+| **85** Màquines i aparells elèctrics | 2,86 M€ | 8,6 % | **52,70 M€** | **26,7 %** |
+| **87** Vehicles | 7,72 M€ | 23,1 % | **46,99 M€** | **23,8 %** |
+| **90** Òptica, mesura i precisió | — | — | 22,49 M€ | 11,4 % |
+| **71** Joieria i metalls preciosos | 0,71 M€ | 2,1 % | 12,19 M€ | 6,2 % |
+| **91** Rellotgeria | 0,50 M€ | 1,5 % | 9,16 M€ | 4,6 % |
+| **62** Vestits *(no de punt)* | **6,59 M€** | **19,8 %** | 3,87 M€ | 2,0 % |
+| **97** Objectes d'art, col·lecció i antiguitat | 0,23 M€ | 0,7 % | 5,02 M€ | 2,5 % |
+| **Total** | **33,4 M€** | | **197,2 M€** | |
+
+**El vestit era una de cada cinc pessetes exportades i avui és una de cada
+cinquanta.** **Els cinc primers capítols del 2025 —elèctrica, vehicles, òptica,
+joieria i rellotgeria— fan el 72,7 % de tot el que surt**, i **cap d'ells és una
+indústria andorrana**: **són béns d'alt valor per quilo que entren i tornen a
+sortir.**
+
+**Per la banda de les importacions, el que ha crescut és el cotxe:**
+
+| Capítol | 1993 | 2000 | 2010 | 2025 | % del 2025 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **87** Vehicles | 49,88 M€ | 100,04 M€ | 85,39 M€ | **337,60 M€** | **16,9 %** |
+| **27** Combustibles minerals | 27,05 M€ | 48,67 M€ | 117,36 M€ | 134,12 M€ | 6,7 % |
+| **33** Perfumeria i cosmètica | 45,18 M€ | 81,00 M€ | 85,26 M€ | 130,27 M€ | 6,5 % |
+| **85** Màquines i aparells elèctrics | **73,04 M€** | **127,75 M€** | 93,50 M€ | 127,04 M€ | 6,4 % |
+| **22** Begudes i alcohols | 38,74 M€ | 57,36 M€ | 59,44 M€ | 101,32 M€ | 5,1 % |
+| **62** Vestits *(no de punt)* | 33,58 M€ | 52,62 M€ | **72,16 M€** | 48,65 M€ | 2,4 % |
+| **Total** | **714,2 M€** | **1.113,8 M€** | **1.159,6 M€** | **1.997,4 M€** | |
+
+**Entre el 2010 i el 2025 la importació de vehicles es multiplica per 3,95** i
+**passa a ser una de cada sis euros de tot el que entra al país.** **L'electrònica,
+que el 2000 era el primer capítol, ha caigut al quart** i **en valor absolut està
+per sota del que era el 2000.** **El vestit és l'únic capítol gran que importa
+menys avui que fa quinze anys** —72,16 → 48,65 M€, **−32,6 %**—, coherent amb
+[la caiguda del seu pes a la cistella de l'IPC](./el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md).
+
+### El pic de tabac del 1997
+
+**El capítol 24 —tabacs— té una anomalia que la sèrie per països no deixava
+veure:**
+
+| Any | Importació de tabac |
+| --- | ---: |
+| 1993 | 34,24 M€ |
+| 1994 | 44,97 M€ |
+| 1995 | 57,03 M€ |
+| 1996 | 64,74 M€ |
+| **1997** | **107,11 M€** |
+| **1998** | **37,23 M€** |
+| 1999 | 29,50 M€ |
+| 2025 | 38,70 M€ |
+
+**En cinc anys es multiplica per 3,1 i l'any següent cau un 65,2 %**, i **des de
+llavors no ha tornat a passar de 40 M€ en trenta anys.** **El 1997 Andorra va
+importar tant tabac com el 1999 i el 2000 junts.** El corpus ho lliga amb [el
+contraban](../tabac/el-contraban-savui-sagafa-a-dins.md) i amb [la fàbrica de
+tabac](../tabac/), però **la font no explica el pic**. `Què va passar amb el
+tabac el 1997, i per què la sèrie no hi ha tornat mai.` `pregunta_oberta`
+
+### La taxa de cobertura, vista de prop
+
+| Any | Importacions | Exportacions | Cobertura |
+| --- | ---: | ---: | ---: |
+| 1993 | 714,2 M€ | 33,4 M€ | **4,7 %** |
+| 2000 | 1.113,8 M€ | 57,2 M€ | 5,1 % |
+| 2010 | 1.159,6 M€ | 69,9 M€ | 6,0 % |
+| **2020** | 1.309,6 M€ | 143,5 M€ | **11,0 %** |
+| 2025 | 1.997,4 M€ | 197,2 M€ | 9,9 % |
+
+**El millor any de la balança comercial andorrana és el 2020**, l'any en què el
+país va estar tancat: **les importacions van créixer poc i les exportacions van
+saltar.** **No és una millora de la indústria, és una caiguda del consum.**
+
 ## El que falta
 
-- **Què s'exporta i què s'importa.** **Aquesta desagregació és per país; la de
-  capítols aranzelaris existeix a la mateixa font**
-  (`docs/raw/estadistica-api/resta-del-cataleg/`) **i aquesta fitxa no l'ha
-  creuada amb la de països.** `serie_estadistica`
+- ~~**Què s'exporta i què s'importa.**~~ **`resolt` el 18-09-2026**: buidades
+  les divisions **68, 69, 74 i 75** del bolcat
+  (`docs/raw/estadistica-api/resta-del-cataleg/`), **97 capítols aranzelaris,
+  mensuals des del gener del 1987**. Vegeu [què s'importa i què
+  s'exporta](#que-simporta-i-que-sexporta). **El que continua obert és el
+  creuament capítol × país**: **la font no el publica**, dona les dues
+  desagregacions per separat. `font_externa`
 - **Què va passar el 2022**, quan les exportacions es van multiplicar per 2,6.
   `pregunta_oberta`
 - **Per què Turquia, Hong Kong i Gran Bretanya apareixen com a destins** a
