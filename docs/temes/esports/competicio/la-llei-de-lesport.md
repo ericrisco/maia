@@ -164,8 +164,8 @@ ensenya abans que l'aula, no és un detall menor.
   audiència**, on l'interessat **pot comparèixer amb la persona que designi**
   —**no diu advocat**. `Requereix el reglament que en fixa el mandat i el
   funcionament, i saber quantes resolucions ha dictat.`
-- **Les instal·lacions esportives** (capítol segon del títol III) i les
-  **subvencions** (capítol segon del títol II), tampoc. — **`parcial` el
+- ~~**Les instal·lacions esportives** (capítol segon del títol III) i les
+  **subvencions** (capítol segon del títol II), tampoc.~~ — **`parcial` el
   2026-09-18 per la via dels diners, no de la llei**: **els criteris de
   subvenció són al Decret 141/2023** i **els imports al pressupost del 2026**
   ([el Comitè Olímpic](./el-comite-olimpic.md)):
