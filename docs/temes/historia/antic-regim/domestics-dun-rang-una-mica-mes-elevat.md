@@ -225,8 +225,10 @@ a **terme pejoratiu**.
    l'autor.**
 7. **Si el jurament era realment innecessari** a Andorra per validar una
    *diffinitio*. **La font ho creu i no ho prova.**
-8. **Quantes accions de complement de llegítima hi va haver.** **Ara el corpus en
-   té dues datades, 1848 i 1891**, **i cap sèrie.**
+8. **Quantes accions de complement de llegítima hi va haver.** **Buit parcialment
+   acotat**: ara el corpus en té dues datades, **1848 i 1891**, amb dues
+   resolucions favorables, però **no hi ha una sèrie completa ni un total
+   històric**.
 
 ## Related
 
