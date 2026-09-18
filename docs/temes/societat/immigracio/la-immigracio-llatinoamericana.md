@@ -140,11 +140,89 @@ seus**:
 —quins són, sobre qui— **no consten enlloc**, i són exactament el tipus de cosa
 que un model reproduirà sense saber-ho si no se li documenta.
 
+## Vint-i-cinc anys després, en xifres
+
+**Afegit el 18-09-2026** de l'API d'Estadística
+(`docs/raw/estadistica-api/assalariats/`, divisió **395**: **assalariats per
+país d'origen**, desembre de cada any). **El corpus tenia un estudi del 2002 i
+cap xifra.**
+
+**Assalariats declarats a la CASS, per origen, al desembre:**
+
+| Origen | 2000 | 2010 | 2015 | **2020** | **2025** | Multiplicador |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Argentina** | 606 | 1.718 | 1.518 | **1.567** | **5.739** | **×9,5** |
+| **Colòmbia** | 50 | 118 | 162 | 287 | **1.938** | **×38,8** |
+| **Perú** | 56 | 151 | 168 | 240 | **1.045** | **×18,7** |
+| **Xile** | 171 | 502 | 317 | 297 | **1.016** | ×5,9 |
+| Brasil | 82 | 321 | 280 | 355 | **695** | ×8,5 |
+| Veneçuela | 32 | 85 | 100 | 150 | 354 | ×11,1 |
+| Mèxic | 21 | 69 | 70 | 109 | 287 | ×13,7 |
+| Uruguai | 75 | 184 | 149 | 158 | 217 | ×2,9 |
+| Cuba | 23 | 86 | 100 | 127 | 215 | ×9,3 |
+| **Els nou junts** | **1.116** | — | — | — | **11.506** | **×10,3** |
+
+**El 2000 hi havia 1.116 assalariats d'aquests nou països a Andorra. El 2025 
+n'hi ha 11.506.**
+
+**I la xifra es pot llegir al costat d'una altra**: **el desembre del 2025 hi
+havia 11.511 assalariats de nacionalitat andorrana.** **Els llatinoamericans de
+nou països i els andorrans són, al mercat de treball, gairebé exactament el
+mateix nombre de persones**: **cinc de diferència.**
+
+### El salt no és gradual: passa entre el 2020 i el 2024
+
+| Argentina | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Assalariats al desembre | 3.411 | **1.567** | 3.524 | 5.120 | 5.579 | **6.052** | 5.739 |
+
+**Del desembre del 2020 al del 2024, els assalariats argentins es multipliquen
+per 3,9**, i **el 2025 baixen per primera vegada.** `El 1.567 del 2020 és el
+desembre de la pandèmia i no és una xifra estructural: el 2019 ja eren 3.411.
+Fins i tot comparant amb el 2019, la pujada és del 77,4%.`
+
+**Colòmbia i el Perú fan el mateix salt més tard i més fort en proporció**:
+**Colòmbia passa de 287 (2020) a 1.938 (2025)**, **×6,8 en cinc anys**.
+
+### El que baixa
+
+| Origen | 2000 | 2010 | **2025** | Variació |
+| --- | ---: | ---: | ---: | ---: |
+| **Espanya** | **19.578** | 15.947 | **15.287** | **−21,9%** |
+| **Portugal** | 5.737 | **8.385** | **5.900** | **+2,8%** |
+| França | 2.454 | 1.526 | 1.597 | −34,9% |
+| **Andorra** | 5.448 | 8.762 | **11.511** | **+111,3%** |
+| **Total** | **36.354** | **40.032** | **49.409** | **+35,9%** |
+
+**Espanya perd 4.291 assalariats en vint-i-cinc anys mentre el total del país
+en guanya 13.055.** **La seva part passa del 53,9% al 30,9%.**
+
+**Portugal té el màxim el 2010 amb 8.385 i el 2025 és per sota del 2000.**
+**El col·lectiu portuguès al mercat de treball andorrà s'ha reduït un 29,6%
+des del seu màxim.**
+
+**I els andorrans passen del 15,0% al 23,3% dels assalariats**: **més que es
+dupliquen en nombre.**
+
+`Això són assalariats declarats, no població ni permisos. Una persona pot ser
+resident i no assalariada, i «origen» a la font vol dir nacionalitat d'origen,
+que no és la mateixa cosa que nacionalitat actual: els naturalitzats andorrans
+poden seguir comptats al seu país d'origen. La font no ho aclareix i el corpus
+no en dedueix res sobre naturalitzacions.`
+
 ## Buits registrats
 
 1. **El resultat d'aquest estudi.** Es va publicar? **Prioritari.**
-2. **Com ha evolucionat** el col·lectiu del 2002 ençà. **Vint-i-quatre anys.**
-3. **Xifres**: quants són, de quins països, amb quins permisos.
+2. ~~**Com ha evolucionat** el col·lectiu del 2002 ençà. **Vint-i-quatre
+   anys.**~~ — **`resolt` el 18-09-2026**, vegeu
+   [Vint-i-cinc anys després, en xifres](#vint-i-cinc-anys-despres-en-xifres):
+   **de 1.116 assalariats de nou països llatinoamericans el 2000 a 11.506 el
+   2025**, i **el salt gros és del 2020 al 2024**.
+3. ~~**Xifres**: quants són, de quins països~~, **amb quins permisos**. —
+   **`parcial` el 18-09-2026**: **quants i de quins països, sí** —país per
+   país i any per any des del 2000—; **amb quins permisos, no.** `La sèrie
+   d'assalariats no és una sèrie de permisos de residència i treball: són coses
+   diferents i la font no les creua.`
 4. Els **estereotips ètnics** documentats.
 5. ~~**Testimoni directe** — hi ha entrevistes a
    [l'AEA](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~ —
