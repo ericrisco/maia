@@ -149,10 +149,10 @@ resposta honesta és «no ho sabem».**
   vegades**: **[el cas Amades](../../historia/historiografia/el-cas-amades.md)
   les enumera amb les mateixes paraules i tampoc no en té res més.**
   **Comptat un sol cop, és un buit i no dos.**
-- **Els sis jocs tradicionals que Amades documenta** —**el joc del sembrar**,
+- ~~**Els sis jocs tradicionals que Amades documenta** —**el joc del sembrar**,
   **jugar-se els ous**, **les gralles**, **el joc de l'ós**, **el del
   garrapal** i, ja d'adults, **el del velló de la mestressa**—, **alguns amb
-  gràfics i il·lustracions**. — **`parcial` el 18-09-2026**: es va rellegir
+  gràfics i il·lustracions**.~~ — **`parcial` el 18-09-2026**: es va rellegir
   directament el text de la ponència de Canturri
   ([font](../../../fonts/canturri-costumari-amades-1994.md), p. 35 de
   l'edició, `docs/raw/sac-diades/07a-1994-andorra-i-la-catalanitat.txt`) per

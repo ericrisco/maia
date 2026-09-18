@@ -351,7 +351,7 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
    ***garber***, ***dallador***, ***tragí***, ***minyona***— **que tampoc no hi
    són.**
 5. **Abel Poitrineau**, *Remues d'Hommes*. — **`obert`, confirmat.**
-6. **La recerca específica** que Armengol demanava el 1989: **s'ha fet?** —
+6. ~~**La recerca específica** que Armengol demanava el 1989: **s'ha fet?**~~ —
    **`parcial`.** **Una part sí, i el corpus la té des d'avui**: **la tesi de
    Becat, defensada el 1993, quatre anys després d'aquella petició**, **dedica
    a les migracions de treball el capítol que aquesta secció destil·la.**

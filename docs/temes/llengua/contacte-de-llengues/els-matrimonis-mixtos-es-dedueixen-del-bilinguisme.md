@@ -267,9 +267,9 @@ resol: l'evita.**
   fins on el corpus sap.**
 - **Quina és la llengua vehicular real del sistema congregacional**, avui i el
   2010. **Dues fonts del corpus diuen coses diferents.**
-- **Les xifres d'audiència de l'Observatori del CRES sobre mitjans.** La font
+- ~~**Les xifres d'audiència de l'Observatori del CRES sobre mitjans.** La font
   remet a `http://www.iea.ad/cres/recerca/acabades/mitjans.htm` **i no en dona ni
-  any ni mostra**. — **`parcial` el 18-09-2026**: **l'IEA llista una «Enquesta
+  any ni mostra**.~~ — **`parcial` el 18-09-2026**: **l'IEA llista una «Enquesta
   sobre els mitjans de comunicació» del 2007** entre les seves recerques
   acabades ([font](../../../fonts/iea-recerques-acabades.md)), que **quadra
   amb l'enllaç mort de la font.** **La mostra i la

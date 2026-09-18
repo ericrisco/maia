@@ -203,8 +203,8 @@ projecte d'explotació del granit andorrà.
 4. **El granit**: cap projecte conegut.
 5. **Els dos pianos**: on eren, i de qui.
 6. **Les palanques encadenades**: si en queda cap.
-7. **La recomanació del Manual Digest sobre els camins dels ports**, contra
-   l'original — i **amb quin capítol**, perquè **Brutails el data malament**. —
+7. ~~**La recomanació del Manual Digest sobre els camins dels ports**, contra
+   l'original — i **amb quin capítol**, perquè **Brutails el data malament**.~~ —
    **`parcial` des del 16-09-2026: l'original segueix sense aparèixer, però ja no
    és de segona mà.** El **capítol IV del llibre III del Politar** dona la mateixa
    doctrina **en català i com a instrucció al Consell General**: cal vigilar que

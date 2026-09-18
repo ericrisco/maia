@@ -361,7 +361,7 @@ anys anteriors cal una altra font.
 2. ~~**Les dades des del 2020.**~~ — **`resolt` el 17-09-2026**: la sèrie
    comença el **juny del 2021**, i el que hi ha des del 2020 és la taula
    d'aquesta mateixa fitxa.
-3. **La xifra exacta d'andorrans majors de 18 anys** i el cens electoral. —
+3. ~~**La xifra exacta d'andorrans majors de 18 anys** i el cens electoral.~~ —
    **`parcial` el 18-09-2026**: **el cens d'electors nacional el 2023 és
    de 29.958**, amb sèrie sencera des del 2009
    ([font](../../../fonts/estadistica-cens-electors-nacional.md)).

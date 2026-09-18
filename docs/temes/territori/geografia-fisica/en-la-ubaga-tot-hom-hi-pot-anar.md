@@ -319,7 +319,7 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    24-12-1900 (emprius y terrenos mitgés)**, sencers.
 5. **La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,
    i com va acabar.**
-6. **Què és exactament *l'estrany***: **quant es cobrava.** — **`parcial` el
+6. ~~**Què és exactament *l'estrany***: **quant es cobrava.**~~ — **`parcial` el
    18-09-2026: la naturalesa i el cobrador, tancats.** **El *Politar*, pp.
    262-263**, el tracta com a **càrrega sobre el bestiar forà**, amb **dos
    llindars de meritació**: **per pagar-lo al Comú de les Valls «basta […] que
