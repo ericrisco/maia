@@ -154,7 +154,11 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
 
 ## Buits registrats
 
-1. **Brutails**, *La Coutume d'Andorre* — font primària citada, no consultada.
+1. ~~**Brutails**, *La Coutume d'Andorre* — font primària citada, no
+   consultada.~~ — **`parcial` el 19-09-2026**: el corpus ja ha consultat i
+   destil·lat els **capítols I–III**, inclosa la dada demogràfica de 1897; els
+   **capítols IV–IX** i les peces justificatives continuen oberts ([fitxa de
+   font](../../../fonts/brutails-coutume-1904.md)).
 2. **Gaston Combarnou** — qui era i d'on treu les xifres. **Segueix obert**, però
    amb una pista: Claudine Tarrene atribueix el cens del **1932** a un
    **«Comarnous»** ([font](../../../fonts/tarrene-influencies-multiculturals.md)),
