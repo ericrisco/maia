@@ -253,7 +253,7 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 
 ## Buits registrats
 
-1. **La divergència «Reforma de 1866» / «Reforma de 1886».** — **`parcial` el
+1. ~~**La divergència «Reforma de 1866» / «Reforma de 1886».**~~ — **`parcial` el
    18-09-2026, i la premissa de la segona meitat era falsa**: **el corpus sí que
    té el text.** **Les quatre bases i els setze articles són a l'apèndix D de
    Ríos Urruti, pp. 150-161**, llegits i destil·lats
