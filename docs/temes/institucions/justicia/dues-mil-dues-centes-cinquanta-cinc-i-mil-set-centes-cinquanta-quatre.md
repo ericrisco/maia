@@ -265,6 +265,34 @@ població reclusa que **el 2024 va arribar al màxim de 74**
 ([la presó sense llei](./la-preso-sense-llei.md)): **gairebé un funcionari de
 cos per intern.**
 
+## Avís: del desembre del 2026 aquests números canvien
+
+**La [Llei 18/2026 del Codi penal](./les-penes-del-codi-penal.md)** —publicada el
+13-08-2026, **en vigor quatre mesos després**— **renumera tots els articles**.
+**Les sèries d'aquesta fitxa estan indexades per article**, de manera que **la
+mateixa conducta passarà a portar un altre número sense que hagi canviat res**:
+
+| Conducta | Fins al 2026 | **Des del desembre del 2026** |
+| --- | ---: | ---: |
+| Consum, possessió o cultiu de droga per al consum propi | **499** | **545** |
+| Furt *(contravenció)* | **481** | **533** |
+| Danys *(contravenció)* | **484** | **536** |
+| Defraudacions *(contravenció)* | **482** | **534** |
+| Furt *(delicte)* | **197** | **223** |
+| Danys, tipus privilegiat | **224** | **250** |
+| Estafes privilegiades | **211** | **237** |
+| Droga tòxica, tipus privilegiats | **284** | **317** |
+| Conducció sota l'efecte de drogues | **268** | **300** |
+| Maltractament i lesió, tipus bàsic | **113** | **122** |
+| Injúria | **174** | **198** |
+| Obstaculització d'execució de resolucions judicials | **427** | **473** |
+
+**L'article 499 —el més denunciat de tots, 759 denúncies el 2025— serà el
+545.** **I el 268, que aquí és conduir drogat, al codi nou és corrupció
+privada**: **el mateix número canvia de delicte.** **Qui empalmi la sèrie del
+2026 amb la del 2027 per número d'article llegirà caigudes i aparicions que no
+existeixen.**
+
 ## Buits registrats
 
 - **Què vol dir «infracció resolta»**, la font no ho defineix. `pregunta_oberta`
