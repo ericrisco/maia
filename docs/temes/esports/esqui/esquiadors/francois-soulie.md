@@ -64,7 +64,7 @@ la Casa**, el poble andorrà de la frontera francesa; ell, **a Carcassona**.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`François_Soulié.wiki`](../../../../raw/web/esport/atletes/François_Soulié.wiki)).
 
-- **Els seus resultats de Vancouver 2010** fora dels 50 km. — **`obert`,
+- ~~**Els seus resultats de Vancouver 2010** fora dels 50 km. ~~— **`obert`,
   confirmat**: **el bolcat només en dona el millor**, **47è als 50 km**, i
   **diu que va anar a dos Jocs d'hivern sense dir quins dos.**
 - ~~**El seu palmarès de Copa d'Europa i de campionats d'Andorra.**~~ —
@@ -75,7 +75,7 @@ la Casa**, el poble andorrà de la frontera francesa; ell, **a Carcassona**.
   **Els seus dos millors resultats internacionals són tots dos del 2007 i tots
   dos per equips**: **en un esport individual, un fondista d'un país petit
   puntua quan hi ha relleu.**
-- **Quan va plegar.** — **`obert`, confirmat**: **el bolcat diu «competeix des
+- ~~**Quan va plegar.** ~~— **`obert`, confirmat**: **el bolcat diu «competeix des
   del 1999» i no en dona final.**
 - **Si té relació amb Laure Soulié.** — **`obert`, no arbitrat**: vegeu
   [Laure Soulié](./laure-soulie.md). **Ell va néixer a CARCASSONA, a l'Aude, el

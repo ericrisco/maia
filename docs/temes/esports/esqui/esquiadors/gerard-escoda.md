@@ -63,8 +63,8 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > (`Gerard_Escoda_(alpine_skier).wiki`).
 
-- **Per què el van desqualificar dues vegades** —el gegant del 88 i el súper-G
-  del 92. — **`obert`, confirmat**: **el bolcat és d'una línia i no esmenta cap
+- ~~**Per què el van desqualificar dues vegades** —el gegant del 88 i el súper-G
+  del 92. ~~— **`obert`, confirmat**: **el bolcat és d'una línia i no esmenta cap
   desqualificació.**
 - ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
   el bolcat consultat no publica aquests resultats.

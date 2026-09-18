@@ -344,7 +344,7 @@ significa, en la pràctica, tenir setanta-set mil habitants.
   **aquesta branca tenia escrit que a Vancouver 2010 els abanderats van ser
   Lluís Marín I Mireia Gutiérrez**, i **el bolcat de Marín en dona un de sol.**
   **Les edicions anteriors al 2006 segueixen `obert`.**
-- **Per què Andorra va renunciar a places el 2014.** — **`obert`, confirmat**:
+- ~~**Per què Andorra va renunciar a places el 2014.** ~~— **`obert`, confirmat**:
   **cap bolcat d'esquiador no ho esmenta.**
 - ~~**Els resultats de tots aquests esquiadors fora dels Jocs**: Copes del Món,
   campionats del món, Universíades. **El corpus no en té cap.**~~ —

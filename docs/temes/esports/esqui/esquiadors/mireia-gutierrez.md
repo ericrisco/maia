@@ -96,9 +96,9 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 - **Els resultats de PyeongChang 2018.** — **`obert` pel que fa als
   resultats**, **i la participació queda confirmada**: **l'infobox li compta
   TRES equips olímpics, 2010, 2014 i 2018.**
-- **Si va ser abanderada.** A Vancouver 2010 els abanderats van ser Lluís Marín
+- ~~**Si va ser abanderada.** A Vancouver 2010 els abanderats van ser Lluís Marín
   i ella ([els Jocs](../../competicio/andorra-als-jocs-olimpics.md)) — **cal
-  confirmar-ho.** — **`obert`, confirmat**: **el seu bolcat no ho diu**, i **el
+  confirmar-ho.** ~~— **`obert`, confirmat**: **el seu bolcat no ho diu**, i **el
   de [Lluís Marín](./lluis-marin-tarroch.md) diu que l'abanderat de Vancouver
   2010 va ser ELL**, sense esmentar-la. **El corpus no arbitra**: **deixa
   escrit que una de les seves dues fonts dona un sol abanderat i l'altra no en
@@ -106,7 +106,7 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 - ~~**Què fa des del 2021.**~~ — **`parcial`, i ara se sap què va passar el
   2021**: **es va retirar el 2 DE MARÇ DEL 2021.** **Què ha fet des de llavors
   segueix `obert`.**
-- **El seu palmarès nacional** i els títols d'Andorra. — **`obert`, confirmat**:
+- ~~**El seu palmarès nacional** i els títols d'Andorra. ~~— **`obert`, confirmat**:
   **el bolcat no en dona cap.**
 - **I la carrera en xifres, que la fitxa no tenia:**
 

@@ -179,9 +179,9 @@ una pràctica legal i comuna, i és com funciona.**
   pregunta**: **el bolcat de Yolanda García la descriu com a taekwondista
   ESPANYOLA nascuda a Andorra**, i **no diu sota quina bandera va guanyar les
   medalles.** `Divergència registrada, no arbitrada.`
-- **El pitch and putt**, que és selecció nacional i el corpus no sap ni què hi
+- ~~**El pitch and putt**, que és selecció nacional i el corpus no sap ni què hi
   fa Andorra. I **[Kevin Esteve Rigail](../esqui/esquiadors/kevin-esteve-rigail.md)**,
-  esquiador olímpic reconvertit en **golfista professional**. — **`obert`,
+  esquiador olímpic reconvertit en **golfista professional**. ~~— **`obert`,
   confirmat**: **no hi ha cap bolcat de golf ni de pitch and putt a
   `raw/web/esport/`.** **El 2026-09-18 s'hi afegeix la confirmació que la
   selecció existeix**: **surt a la llista oficial de seleccions nacionals**

@@ -52,8 +52,8 @@ d'Andorra.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Xavier_Cardelús.wiki`](../../../raw/web/esport/atletes/Xavier_Cardelús.wiki)).
 
-- **Els seus resultats.** El corpus té els equips i els anys i **cap
-  classificació**. — **`obert`, confirmat, i el motiu és de forma**: **el
+- ~~**Els seus resultats.** El corpus té els equips i els anys i **cap
+  classificació**. ~~— **`obert`, confirmat, i el motiu és de forma**: **el
   bolcat té quatre taules de resultats per temporada i totes són de dades
   tabulades que aquest bolcat no conserva.** **Hi ha els equips i no les
   classificacions.**
@@ -62,8 +62,8 @@ d'Andorra.
   Mundial el 2018 com a wild card amb el Team Stylobike**, i **aquella mateixa
   temporada, a la cursa d'Aragó, va passar al Marinelli Snipers Team en
   substitució de Romano Fenati.** **La ronda del debut segueix `obert`.**
-- **El seu pare, Xavier Cardelús Maestre**: quan va córrer i on. **Buit
-  registrat.** — **`obert`, confirmat**: **el bolcat el nomena i el qualifica
+- ~~**El seu pare, Xavier Cardelús Maestre**: quan va córrer i on. **Buit
+  registrat.** ~~— **`obert`, confirmat**: **el bolcat el nomena i el qualifica
   d'«antic pilot de motociclisme», i prou.**
 - **I la carrera sencera, que el corpus tenia a mitges**: **Campionat d'Europa
   FIM CEV de Moto2 des del 2015**; **Mundial de Supersport el 2017 amb el Race

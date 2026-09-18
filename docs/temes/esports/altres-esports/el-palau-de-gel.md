@@ -63,7 +63,7 @@ casa dos serveis.**
 > obert**:
 > [`Palau_de_Gel_d_Andorra-ca.wiki`](../../../raw/web/esport/estructura/Palau_de_Gel_d_Andorra-ca.wiki).
 
-- **Quan es va construir, i què va costar.** — **`obert`, confirmat**: **el
+- ~~**Quan es va construir, i què va costar.** ~~— **`obert`, confirmat**: **el
   bolcat no dona ni any de construcció ni cost d'obra.** **És un esborrany
   declarat com a tal.** `Requereix font externa: el Comú de Canillo.`
 - ~~**Què hi destina el Comú de Canillo avui.**~~ — **`parcial`, i amb xifres:**

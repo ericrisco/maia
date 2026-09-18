@@ -59,7 +59,7 @@ donar-la per establerta.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Cande_Moreno.wiki`](../../../../raw/web/esport/alpins/Cande_Moreno.wiki)).
 
-- **Els seus resultats a Milano Cortina** fora del descens. — **`obert`,
+- ~~**Els seus resultats a Milano Cortina** fora del descens. ~~— **`obert`,
   confirmat**: **el bolcat només li dona el descens del 2026.**
 - ~~**Els seus resultats de Pequín 2022**~~ — **`resolt`, i el corpus no els
   tenia**: **30a en súper-G** i **12a en COMBINADA.**

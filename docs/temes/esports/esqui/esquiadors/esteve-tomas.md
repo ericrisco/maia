@@ -53,13 +53,12 @@ més.**
   olímpica dels d'estiu de Mont-real.** **El corpus no tenia aquesta
   coincidència i és, probablement, única a la història olímpica andorrana.**
   **Ofici, club i vinculació actual segueixen `obert`.**
-- **La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
+- ~~**La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
   consultat.
-  — **`obert`, confirmat el 2026-09-13.** **El bolcat d'aquesta font, dins del
+  ~~— **`obert`, confirmat el 2026-09-13.** **El bolcat d'aquesta font, dins del
   corpus, no en porta cap identificador de FIS ni d'Olympedia**, i **confirma que
   l'entrada original és un esborrany d'una línia.** **El buit és exacte tal com
   està escrit.** Vegeu [els esquiadors](./README.md).
-
 ## Related
 
 - [Els esquiadors](./README.md)

@@ -52,7 +52,7 @@ Andorra.
   Golf Tour of India** i **Nordic Golf League.**
 - ~~**Si encara juga.**~~ — **`parcial`**: **el bolcat el dona com a
   professional en actiu al MENA Tour** i **no porta data d'actualització.**
-- **Els seus resultats d'esquí** fora dels Jocs. — **`obert`, confirmat**: **el
+- ~~**Els seus resultats d'esquí** fora dels Jocs. ~~— **`obert`, confirmat**: **el
   bolcat no en dona cap.**
 - ~~**Per què va passar de l'esquí al golf**~~ — **`resolt`, i és el fet que
   faltava a aquesta fitxa**: **es va fer professional del golf el 2015 DESPRÉS

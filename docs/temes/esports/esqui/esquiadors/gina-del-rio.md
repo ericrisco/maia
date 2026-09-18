@@ -89,7 +89,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   proxy r.jina.ai, ni per `curl` directe —el mateix problema d'infraestructura
   que el club ICA. **Registrat com a pista forta, no com a fet confirmat de
   primera mà.**
-- **Els seus resultats complets de Milano Cortina 2026.** — **`obert`,
+- ~~**Els seus resultats complets de Milano Cortina 2026.** ~~— **`obert`,
   confirmat**: **el bolcat diu que hi va representar Andorra i no en dona cap
   prova ni cap posició.**
 - ~~**La resta del mundial júnior del 2024**: on era, contra qui.~~ —

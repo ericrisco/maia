@@ -52,7 +52,7 @@ quin resultat hi va fer.
   text del bolcat**, **tot i que el corpus en té un de segur per una altra
   fitxa**: **Kosovo**, en dobles, **guanyant amb
   [Jordi Trilla](./jordi-trilla.md) el 2021.**
-- **Els seus resultats als Jocs dels Petits Estats del 2017.** — **`obert`,
+- ~~**Els seus resultats als Jocs dels Petits Estats del 2017.** ~~— **`obert`,
   confirmat**: **el bolcat diu que hi va ser seleccionat i no en dona cap
   resultat.**
 - ~~**El seu rànquing ATP**, si en té.~~ — **`resolt`, i la resposta és zero.**

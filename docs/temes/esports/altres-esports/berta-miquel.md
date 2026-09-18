@@ -109,7 +109,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   la situa al costat seu a l'Europeu de Tel Aviv del 2022** i **no en diu res
   més.** **Dues gimnastes andorranes al mateix Europeu és, en si mateix, un fet
   que el corpus no tenia.**
-- **La federació andorrana de gimnàstica**, clubs i quanta gent. — **`obert`,
+- ~~**La federació andorrana de gimnàstica**, clubs i quanta gent. ~~— **`obert`,
   confirmat**: **el bolcat no l'esmenta.** **El que sí que dona és
   l'entrenadora: Claudia Lopez**, i **la selecció des del 2017.**
 - ~~**On entrena set hores al dia**, si a Andorra o fora.~~ — **`obert` pel que

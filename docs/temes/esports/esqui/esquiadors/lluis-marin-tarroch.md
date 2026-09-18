@@ -68,14 +68,14 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Lluís_Marín.wiki`](../../../../raw/web/esport/atletes/Lluís_Marín.wiki)).
 
-- **El resultat de PyeongChang 2018.** — **`obert`, confirmat**: **el bolcat
+- ~~**El resultat de PyeongChang 2018.** ~~— **`obert`, confirmat**: **el bolcat
   li compta els tres Jocs —2010, 2014 i 2018— i només detalla el del 2010.**
 - ~~**Els seus dos podis de Copa del Món**~~ — **`resolt` pel que fa a les
   dates, que el corpus no tenia**: **tercer el 16 de MARÇ del 2012 a
   VALMALENCO (Itàlia)** i **tercer el 24 de GENER del 2016 a FELDBERG
   (Alemanya)**. **Quatre anys entre l'un i l'altre.**
-- **La resta de la seva carrera de Copa del Món**: dos podis vol dir moltes
-  curses, i el corpus no en té cap més. — **`obert`, confirmat**: **el bolcat no
+- ~~**La resta de la seva carrera de Copa del Món**: dos podis vol dir moltes
+  curses, i el corpus no en té cap més. ~~— **`obert`, confirmat**: **el bolcat no
   en dona cap altra cursa.**
 - ~~**El resultat de Vancouver 2010**~~ — **`resolt`**: **va caure en una de les
   mànegues, no es va classificar per a les rondes d'enfrontament directe i va

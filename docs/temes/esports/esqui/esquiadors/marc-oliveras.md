@@ -76,7 +76,7 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Marc_Oliveras.wiki`](../../../../raw/web/esport/alpins/Marc_Oliveras.wiki)).
 
-- **Els resultats del Mundial del 2015.** — **`obert`, confirmat**: **el
+- ~~**Els resultats del Mundial del 2015.** ~~— **`obert`, confirmat**: **el
   bolcat en dona la participació i no els resultats.**
 - ~~**Els resultats del Mundial del 2013 i dels Jocs del 2014**~~ — **`resolt`,
   i el corpus no els tenia:**
@@ -88,7 +88,7 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
 
   **Quatre proves als Jocs**, que és **la participació més ampla que el corpus
   documenta d'un esquiador andorrà en una sola edició.**
-- **Copa del Món i Copa d'Europa.** — **`obert`, confirmat**: **cap de les dues
+- ~~**Copa del Món i Copa d'Europa.** ~~— **`obert`, confirmat**: **cap de les dues
   no és al bolcat.**
 - ~~**Quan va plegar**, si ha plegat.~~ — **`parcial` el 17-09-2026.** **El «si»
   queda respost: sí.** La fitxa de la [FIS](../../../../fonts/fis-ski-db.md) el
@@ -105,7 +105,7 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
 
   `Requereix la llista de resultats sencera de la fitxa, llegida com a pàgina i
   no com a resum.`
-- **On va estudiar** — **`obert`, confirmat**: **el bolcat confirma la
+- ~~**On va estudiar** ~~— **`obert`, confirmat**: **el bolcat confirma la
   Universíada del 2015 i no diu de quina universitat.**
 - ~~**On va néixer**~~ — **`resolt`, i és un fet per a la branca**: **BARCELONA,
   20 de desembre del 1991.** **És el tercer esquiador andorrà d'aquesta

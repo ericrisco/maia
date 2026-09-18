@@ -54,7 +54,7 @@ patró documentat.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Mikel_de_Sa.wiki`](../../../raw/web/esport/atletes/Mikel_de_Sa.wiki)).
 
-- **El seu resultat** al Mundial del 2013. — **`obert`, confirmat**: **el
+- ~~**El seu resultat** al Mundial del 2013. ~~— **`obert`, confirmat**: **el
   bolcat diu que hi va córrer els 100 m i no en dona ni marca ni posició.**
 - ~~**Si té el rècord absolut d'Andorra** dels 100 metres, o només el sub-23.~~
   — **`resolt`, i és el sub-23.** **El bolcat ho diu amb precisió**: **té el
