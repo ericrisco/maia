@@ -253,13 +253,13 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
   persones: cap activitat del Pla d'estadística del 2026 no els compta.`
   **Ampliat el 18-09-2026 amb l'enquesta de conciliació del 2018**, vegeu
   [La conciliació mesurada](#la-conciliacio-mesurada-i-la-pregunta-que-no-es-desglossa-per-sexe).
-- **La interrupció de la carrera per cura no es desglossa per sexe, i és
-  l'única pregunta de l'enquesta on el desglossament importaria.** **Registrat
-  el 18-09-2026.** **De vint divisions de la branca, només tres el porten** —
-  qui té responsabilitats de cura, de qui, i quantes hores treballa—, i **les
-  tres on la desigualtat es veuria** —qui ha deixat la feina, quant de temps, i
-  qui ha reduït l'horari per familiars dependents— **donen només el total.**
-  `La font no ho desagrega.`
+- ~~**La interrupció de la carrera per cura no es desglossa per sexe, i és
+  l'única pregunta de l'enquesta on el desglossament importaria.**~~ —
+  **`no-es-buit`**: **registrat el 18-09-2026**. **De vint divisions de la
+  branca, només tres el porten** —qui té responsabilitats de cura, de qui, i
+  quantes hores treballa—, i **les tres on la desigualtat es veuria** —qui ha
+  deixat la feina, quant de temps, i qui ha reduït l'horari per familiars
+  dependents— **donen només el total.** **La font no ho desagrega.**
 - ~~**La violència de gènere** té llei pròpia —la font la cita com a «LEVG»— i
   **no és al recull de normes consolidades**. És un buit important.~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **el
