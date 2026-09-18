@@ -251,33 +251,85 @@ mula a Andorra.
 I una altra, del **15 de juliol de 1420**: **els saigs van prohibir pagar el vi
 en cap moneda catalana que no fos «la moneda blanca»**.
 
-## La taula que el corpus no pot transcriure
+## La taula del valor real de la lliura (1420-1783)
 
-Brutails publica, a continuació, **una taula de vint-i-tantes entrades, de 1420 a
+Brutails publica, a continuació, **una taula de trenta-dues entrades, de 1420 a
 1783**, amb quatre columnes: **la moneda que anomena cada document andorrà**
 —florí, ducat, ral, doble d'or—, **el seu curs en lliures, sous i diners**, **el
 seu valor real en francs i cèntims**, i **el valor de la lliura que se'n
 dedueix**.
 
-**És una sèrie de tres segles i mig del valor real de la lliura catalana a
-Andorra, i el corpus no la pot fer servir.** L'extracció del PDF **barreja les
-columnes numèriques fins a fer-les il·legibles**: les xifres hi són, però **no es
-pot dir amb seguretat quina va amb quina**.
+~~**És una sèrie de tres segles i mig del valor real de la lliura catalana a
+Andorra, i el corpus no la pot fer servir.** L'extracció del PDF barreja les
+columnes numèriques fins a fer-les il·legibles.~~ — **`resolt` el 18-09-2026,
+per lectura directa de la imatge de la pàgina**, no de l'extracció de text del
+PDF (`docs/raw/historiografia/brutails-coutume-andorre-1904.pdf`, pàgina de
+l'edició 20, pàgina 206 del fitxer digitalitzat):
 
-**No es transcriu res d'aquesta taula.** **Buit registrat, prioritari i molt ben
-delimitat:** la pàgina 20 de *La Coutume d'Andorre*, contra l'imprès.
+| Data | Moneda del document | Curs | Valor real (francs) | Valor de la lliura (francs) |
+| --- | --- | --- | ---: | ---: |
+| 27 maig 1420 | Florí *(a)* | 11 s. | 8,95 | 16,27 |
+| 26 març 1466 | " | 11 s. | 8,95 | 16,27 |
+| 13 abril 1467 | " | 11 s. | 8,95 | 16,27 |
+| 25 juliol 1468 | " | 11 s. | 8,95 | 16,27 |
+| 28 juny 1471 | " *(b)* | 16 s. 2 d. | 11,81 | 14,61 |
+| 28 juny 1471 (comú) | " | 12 s. | 8,95 | 14,91 |
+| 13 gener 1495 | " | 11 s. | 8,95 | 16,27 |
+| 24 febrer 1551 | Ducat *(c)* | 1 ll. 5 s. | 11,90 | 9,52 |
+| 2 març 1551 | " | 1 ll. 5 s. | 11,90 | 9,52 |
+| " | Real *(d)* | 2 s. 1 d. | 0,72 | 6,90 |
+| 7-11 juny 1552 | Ducat | 1 ll. 5 s. | 11,90 | 9,52 |
+| 10 desembre 1567 | " | 1 ll. 4 s. | 11,90 | 9,92 |
+| 25 juny 1580 | Real | 2 s. | 0,72 | 7,19 |
+| 28 juny 1580 | Ducat | 1 ll. 4 s. | 11,90 | 9,92 |
+| 29 juny 1580 | " | 1 ll. 4 s. | 11,90 | 9,92 |
+| juliol 1580 | Real | 2 s. | 0,72 | 7,19 |
+| 9 setembre 1580 | Ducat | 1 ll. 4 s. | 11,90 | 9,92 |
+| 1 agost 1599 | " | 1 ll. 4 s. | 11,90 | 9,92 |
+| 9 març 1603 | " | 1 ll. 4 s. | 11,90 | 9,92 |
+| " | " | 1 ll. 5 s. | 11,90 | 9,52 |
+| 24 novembre 1603 | " | 1 ll. 5 s. | 11,90 | 9,52 |
+| 1642 | Doble d'or *(e)* | 3 ll. 8 s. | 21,35 | 6,28 |
+| 1653 | " | 16 ll. | 21,35 | 1,33 |
+| octubre 1662 | Real *(f)* | 2 s. 6 d. | 0,72 | 5,75 |
+| gener 1672 | Doble d'or | 3 ll. 13 s. 4 d. | 21,35 | 5,82 |
+| 26 abril 1682 | " | 5 ll. 10 s. | 21,35 | 3,88 |
+| 17 febrer 1697 | " | 5 ll. 10 s. | 21,35 | 3,88 |
+| 10 octubre 1703 | " | 5 ll. 10 s. | 21,35 | 3,88 |
+| 19 juny 1708 | " | 5 ll. 10 s. | 21,35 | 3,88 |
+| 3 juliol 1713 | Real | 2 s. | 0,72 | 7,19 |
+| 1765 | " | 1 s. 8 d. | 0,72 | 8,63 |
+| " | Doble d'or | 5 ll. 12 s. | 21,35 | 3,81 |
+| 22 maig 1783 | " | 5 ll. 12 s. | 21,35 | 3,81 |
 
-**El que sí que s'hi llegeix net són les notes**, i una val per si sola: el curs
-del **doble d'or** entre **1642 i 1653**, que Brutails pren **del Politar del
-Consell General, pàgines 583-585**, i que **puja sense parar**: de **28 rals el
-1640** a **16 lliures el 1653**. Ell mateix avisa que «**ils ne s'appliquent
-peut-être pas spécialement à l'Andorre**», i **el corpus ho reté amb aquest
-avís**.
+**Avís de lectura**: transcripció feta a ull sobre la imatge de la pàgina, no
+per OCR — **coherent amb l'avís que ja tenia la fitxa d'aquesta font sobre
+«les taules arrosseguen soroll»**
+([font](../../../fonts/brutails-coutume-1904.md)). **Les dues files del 1642
+i el 1653 són les més incertes**: Brutails mateix les dona com un resum d'una
+sèrie més llarga (vegeu nota *e*, més avall), i el corpus no en garanteix el
+tercer decimal amb la mateixa confiança que la resta de la taula.
 
-I una altra nota dona **un jutge amb nom**: el curs del ral de l'octubre de 1662
-surt d'una ordinació del **jutge Vidal Seré**, «**loqual jutge entonces residie en
-la vila de Andorra exercint Corts**», dictada a petició del Consell General i
-**aprovada pel bisbe**.
+**Què en surt, en net**: **el florí del segle XV valia gairebé el doble que el
+ducat i el real del segle XVI-XVII** (16-17 francs contra 6-10), i **la lliura
+es va seguir depreciant fins al segle XVIII**, on **el doble d'or la situa
+entre 3,81 i 5,82 francs** — **una lliura del 1783 valia aproximadament un
+terç de la lliura del 1420.**
+
+**Les notes de la mateixa pàgina** (p. 21 de l'edició, pàgina 207 del fitxer):
+
+- ***(e)*** **De 1642 a 1653, el curs del doble d'or**, segons Brutails **el
+  pren del Politar del Consell General, pàgines 583-585**, i **puja sense
+  parar**: comença **a 28 rals el 1640** i acaba **a 16 lliures el 1653**.
+  Ell mateix avisa que «**ils ne s'appliquent peut-être pas spécialement à
+  l'Andorre**», i **el corpus ho reté amb aquest avís**.
+- ***(f)*** ~~**Qui era Vidal Seré**, i què era exactament «exercint Corts» a
+  la vila d'Andorra el 1662.~~ — **`parcial` el 18-09-2026**: el curs del
+  real de l'octubre de 1662 surt d'una **ordinació del jutge Vidal Seré**,
+  «**loqual jutge entonces residie en la vila de Andorra exercint Corts**»
+  —és a dir, **hi exercia funcions judicials de manera continuada, no de
+  pas**—, **dictada a petició del Consell General i aprovada pel bisbe**.
+  **Qui era Vidal Seré més enllà d'aquest fet segueix sense saber-se.**
 
 ## El Consell General fixant el canvi, el 1723
 
@@ -414,8 +466,10 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    `El que segueix obert: quina grafia porta el manuscrit del Politar. Requereix
    el manuscrit, no l'edició de 1904. I la quantitat és en blanc a la font
    mateixa, de manera que encara que el mot quedés fixat, la xifra no hi seria.`
-10. **Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
-    d'Andorra el 1662.
+10. ~~**Qui era Vidal Seré**, i què era exactament «exercint Corts» a la vila
+    d'Andorra el 1662.**~~ — **`parcial`, resolt més amunt** a «la taula del
+    valor real de la lliura»: hi exercia funcions judicials de manera
+    continuada. **Qui era més enllà d'això segueix sense saber-se.**
 
 ## Related
 

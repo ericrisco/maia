@@ -152,6 +152,15 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
 2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
+4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
+   l'extracció OCR del corpus donava il·legible.~~ — **`resolt` el
+   18-09-2026**: **localitzat un tercer exemplar digitalitzat**, el PDF de
+   **Wikimedia Commons** (font última: Google Books, transcrit parcialment a
+   **Wikisource en francès**), descarregat a
+   `docs/raw/historiografia/brutails-coutume-andorre-1904.pdf` (544 pàgines,
+   pàgina de l'edició 20 = pàgina 206 del fitxer). **Llegida a ull sobre la
+   imatge de la pàgina, no per OCR**, i transcrita a
+   [les mesures i les monedes](../temes/economia/comerc/les-mesures-i-les-monedes.md#la-taula-del-valor-real-de-la-lliura-1420-1783).
 
 ## Caveat de font: com es va fer possible el llibre — 17-09-2026
 

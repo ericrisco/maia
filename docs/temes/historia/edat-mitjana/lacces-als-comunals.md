@@ -251,15 +251,19 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
      nit és una dotzena part d'ovella**, i **dotze o tretze nits de bestiar mal
      jagut costaven l'ovella sencera**.
 
-   **Continua obert, i és la meitat important:** **el corpus no sap si el sou del
-   segle XV valia el mateix que el «sou ancien» que Brutails converteix el
-   1904**, i **l'ovella de referència és de les operacions dels segles XVII-XVIII**,
-   no del XV. **Les tres dates són diferents i cap font del corpus no les
-   encadena.** [La quèstia](../antic-regim/la-questia.md) registra el mateix
-   dubte amb les mateixes paraules.
-   `Requereix font externa: una sèrie del valor real de la lliura catalana al
-   segle XV — la taula de la pàgina 20 de Brutails, que el corpus té registrada
-   com a buit prioritari i no ha pogut transcriure.`
+   ~~**Continua obert, i és la meitat important:** **el corpus no sap si el sou
+   del segle XV valia el mateix que el «sou ancien» que Brutails converteix el
+   1904**, i **l'ovella de referència és de les operacions dels segles
+   XVII-XVIII**, no del XV.~~ — **`resolt` el 18-09-2026**: la taula de la
+   pàgina 20 de Brutails ja té transcripció completa a
+   [les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md#la-taula-del-valor-real-de-la-lliura-1420-1783),
+   **i el segle XV hi és notablement estable**: de 1420 a 1495 (sis dates
+   documentades), **la lliura oscil·la només entre 14,61 i 16,27 francs** —
+   **contra els 1,33 a 9,92 francs que la mateixa lliura val als segles
+   XVI-XVIII**. **El sou del segle XV no valia el mateix que el dels segles
+   XVII-XVIII de l'ovella de referència: valia més, i força més.** [La
+   quèstia](../antic-regim/la-questia.md) registra el mateix dubte amb les
+   mateixes paraules i es pot tancar igual.
 3. ***Parra*** i ***stali***.
 4. **Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
    pengin?

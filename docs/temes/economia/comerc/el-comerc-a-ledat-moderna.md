@@ -285,10 +285,14 @@ Deducció de Mas: **les compraven per revendre**.
    Coutume d'Andorre* (1904), apèndix del primer capítol
    ([les mesures i les monedes](./les-mesures-i-les-monedes.md), `font
    directa`).
-   **Continua obert:** **la sèrie del valor real de la lliura de 1420 a 1783**,
-   que és la taula de la pàgina 20 del mateix llibre i que **el corpus no ha
-   pogut transcriure** — buit prioritari registrat allà. Sense ella, la
-   conversió és **un sol punt del 1904** aplicat a preus de tres segles.
+   ~~**Continua obert:** **la sèrie del valor real de la lliura de 1420 a
+   1783**, que és la taula de la pàgina 20 del mateix llibre i que el corpus
+   no ha pogut transcriure — buit prioritari registrat allà.~~ — **`resolt`
+   el 18-09-2026**: transcrita a
+   [les mesures i les monedes](./les-mesures-i-les-monedes.md#la-taula-del-valor-real-de-la-lliura-1420-1783).
+   **La conversió deixa de ser un sol punt del 1904**: ara hi ha trenta-dues
+   dates entre 1420 i 1783, amb la lliura oscil·lant entre **1,33 i 16,27
+   francs** segons l'època.
 
 ## Related
 

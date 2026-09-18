@@ -217,12 +217,17 @@ XVIII**.
    que és exactament l'«**entre trenta i cinquanta ovelles**» que aquesta fitxa
    ja afirmava. **L'aritmètica del corpus es valida ella sola.**
 
-   **Continua obert** —i no és el que el buit demanava—: **si la lliura dels
+   ~~**Continua obert** —i no és el que el buit demanava—: **si la lliura dels
    registres de Mas, dels segles XVII i XVIII, valia el mateix que la «livre
    ancienne» que Brutails converteix el 1904**. El corpus **no té cap sèrie del
    valor real de la lliura**: la que existeix és la taula de la pàgina 20 de
-   Brutails, **registrada com a buit prioritari** i **no transcrita**
-   ([les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md)).
+   Brutails, registrada com a buit prioritari i no transcrita.~~ — **`resolt`
+   el 18-09-2026**: la taula ja té transcripció completa a
+   [les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md#la-taula-del-valor-real-de-la-lliura-1420-1783).
+   **No: la lliura no valia el mateix al llarg dels segles XVII-XVIII** —el
+   doble d'or, entre 1642 i 1783, situa la lliura entre **1,33 i 6,28 francs**
+   segons l'any, **no en un sol valor fix**. Comparar preus de Mas sense fixar
+   l'any exacte pot introduir un error de fins a cinc vegades.
 
 ## Related
 
