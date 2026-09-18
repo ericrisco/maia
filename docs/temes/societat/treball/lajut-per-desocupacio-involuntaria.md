@@ -288,6 +288,90 @@ corpus no separa què és mercat i què és norma.`
 sencera**: **17 andorrans, 7 d'altres nacionalitats, 5 espanyols, 2 francesos i
 cap portuguès**, de 31. `El 2015 els portuguesos n'eren 53 de 235.`
 
+## La sèrie que Andorra té en lloc d'una taxa d'atur
+
+> **Afegit el 18-09-2026** amb la branca de mercat de treball de l'API del
+> **Departament d'Estadística** (`docs/raw/estadistica-api/treball-mercat/`,
+> **CC BY 4.0**). **Andorra no publica taxa d'atur. El que publica és el
+> nombre de demandants d'ocupació inscrits al Servei d'Ocupació a final de cada
+> mes, i la sèrie arrenca el gener del 2008.**
+
+| Desembre de | Demandants |
+| --- | ---: |
+| 2008 | 550 |
+| 2011 | 779 |
+| **2012** | **1.060** |
+| 2016 | **417** |
+| 2019 | 653 |
+| **2020** | **1.905** |
+| 2021 | 912 |
+| 2023 | 612 |
+| **2025** | **483** |
+
+**El màxim de tota la sèrie no és de desembre: és el maig del 2020, amb 2.214**,
+i **el segueixen l'abril i el març del 2021**. **El mínim és l'agost del 2008,
+amb 346.**
+
+**Dues crisis de forma diferent.** **La del 2012 puja a poc a poc i triga quatre
+anys a desfer-se** —de 550 el 2008 a 1.060 el 2012 i de nou a 417 el 2016—;
+**la del 2020 arriba de cop, triplica en pocs mesos i es desfà en tres anys.**
+**El desembre del 2025, amb 483, és el segon valor més baix de la sèrie.**
+
+### Qui són, el desembre del 2025
+
+| | Demandants |
+| --- | ---: |
+| **Dones** | **269** |
+| Homes | 214 |
+
+| Motiu d'inscripció | |
+| --- | ---: |
+| **En millora** *(tenen feina i en busquen una altra)* | **210** |
+| **En recerca** | **198** |
+| Ocupat demandant de serveis | 74 |
+| Baixa mèdica de més de sis mesos | 1 |
+
+**Aquesta taula és la que decideix com s'ha de llegir la sèrie**: **de les 483
+persones inscrites, 198 busquen feina sense tenir-ne.** **Les altres 285 en
+tenen.** **Prendre el total com si fos atur el multiplica per dos i mig.**
+
+| Temps de residència | |
+| --- | ---: |
+| **20 anys o més** | **291** |
+| Menys de 5 anys | 70 |
+| 10-19 anys | 67 |
+| 5-9 anys | 55 |
+
+**Sis de cada deu demandants porten vint anys o més al país.** **No és una
+sèrie de nouvinguts.**
+
+| Nacionalitat | |
+| --- | ---: |
+| **Andorrana** | **224** |
+| Espanyola | 132 |
+| Altres | 82 |
+| Portuguesa | 34 |
+| Francesa | 11 |
+
+**La nacionalitat andorrana és el 46,4% dels demandants** i **el 44,7% de la
+població** —39.815 de 89.058 el 2025—, **de manera que està representada
+gairebé en proporció**
+([la població per nacionalitat](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)).
+**Qui hi és per sota és la nacionalitat francesa** —**11 demandants, el
+2,3%, amb el 4,6% de la població**— **i la portuguesa** —**34, el 7,0%, amb
+el 9,5%**—.
+
+### I la xifra que posa l'ajut al seu lloc
+
+**El desembre del 2025 hi ha 198 persones inscrites en recerca de feina**, i
+**el 2025 el país va rebre 59 sol·licituds d'ajut per desocupació
+involuntària** —la xifra que aquesta fitxa ja tenia—. **Menys d'una de cada
+tres.**
+
+`El corpus no diu per què. Les dues xifres no són la mateixa cosa —una és un
+estoc a final de mes i l'altra un flux anual, i les condicions de l'article 26
+en deixen fora molta gent— però la distància és prou gran per registrar-la.`
+
 ## Buits registrats
 
 - ~~**Contrast del 224 bis tancat parcialment:** article complet del
