@@ -101,5 +101,28 @@ què el seu successor podia arribar al ministeri el 1908.**
    per paraula. Hi pot haver matisos nous que aquesta comprovació no veu.
 3. **Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.
    Vilar en dona el resultat i no la referència.
-4. **Qui era Benlloch y Vivó**, i què més va fer per Andorra.
+4. ~~**Qui era Benlloch y Vivó**, i què més va fer per Andorra.~~ —
+   **`resolt` el 18-09-2026, i la resposta ja era mig dins el corpus.**
+
+   **Joan Baptista Benlloch i Vivó** (València, **29-12-1864** — Madrid,
+   **14-02-1926**). **Bisbe d'Urgell i 55è copríncep episcopal del 6 de
+   desembre del 1906 al 7 de gener del 1919**; abans, **administrador
+   apostòlic de Solsona**; després, **arquebisbe de Burgos** i, **des del 1921,
+   cardenal de Santa Maria in Aracoeli**, participant al **conclave del 1922**
+   que va elegir Pius XI.
+
+   **El que va fer per Andorra són dues coses, i el corpus ja en tenia una:**
+
+   - **La gestió del maig del 1908** davant el ministeri espanyol que va donar a
+     Andorra **el tracte de nació més afavorida** per a les exportacions a
+     Espanya — **el fet que Vilar data en aquesta mateixa pàgina 58.**
+   - **La lletra de l'himne nacional**, *El Gran Carlemany*
+     ([el Gran Carlemany](../temes/institucions/simbols/el-gran-carlemany.md)).
+
+   > **El mateix copríncep que obre el mercat espanyol a Andorra el 1908 escriu
+   > la lletra del seu himne.** **Dos actes de sobirania simbòlica i econòmica
+   > en la mateixa persona i en el mateix episcopat.**
+
+   *(Font: `docs/raw/web/historia/viqui-joan_benlloch_i_vivo.txt`, baixada el
+   18-09-2026 de la [Viquipèdia](./viquipedia-ca.md).)*
 5. **Les 8 figures i el mapa**, que el text extret no conté.
