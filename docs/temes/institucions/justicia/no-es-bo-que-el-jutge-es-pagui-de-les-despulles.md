@@ -354,9 +354,21 @@ i 1859, V, 89.)*
 5. **El decret del Consell General del 1r d'abril de 1890** sobre l'embargament
    per quantitat fixada, **sencer**, **i si és de la mateixa sessió que el que
    anul·la l'edicte no signat a Andorra.** **Prioritari.**
-6. **Si la constricció per cos valia contra els fiadors.** **El manuscrit de
-   Palmitjavila diu que sí i el *Politar* (pp. 197 i 338) diu el contrari.**
-   `Registrat, no arbitrat.`
+6. ~~**Si la constricció per cos valia contra els fiadors.**~~ — **`resolt` el
+   18-09-2026 per la banda del *Politar*, que és explícit i dona la raó.** **La
+   p. 338 diu que quan s'instrueix causa formal els encausats van a la presó,
+   i n'exceptua les fiances amb un motiu de dret**:
+
+   > «se l's fara causa a instancia y peticio de les parts o de sos advocats y
+   > rahonadors […], **a exepcio de les fermanses, lesquals no deuhen ser
+   > enviades a la preso ***per no tenir delicte***, si sols se l's podra traurer
+   > pinyoras per la seguritat de la pena y gastos procesals**.»
+
+   **El fiador respon amb béns i no amb cos, i el fonament no és de gràcia sinó
+   de qualificació: no ha delinquit.** `La discrepància amb el manuscrit de
+   Palmitjavila segueix registrada i no arbitrada, perquè el manuscrit continua
+   sense llegir; el que ha canviat és que ara una de les dues bandes és
+   literal.`
 7. **Les dues sentències de la Cour de cassation del 9 de maig de 1845 i del 12
    de maig de 1859**, **senceres**, **i els fets de cada cas.**
    `Pandectes françaises, mot Andorre, §§ 22 bis i 23; Dalloz Pér. 1845, IV, 265,
@@ -367,8 +379,15 @@ i 1859, V, 89.)*
    **Prioritari.**
 9. **Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
    cita cap**.**
-10. **El *Politar*, pp. 197, 217 i 338**, **i el manuscrit de M. Palmitjavila**,
-    **tots dos citats altre cop i cap dels dos llegit.**
+10. **El *Politar*, p. 197**, **i el manuscrit de M. Palmitjavila.** — **Les pp.
+    217 i 338, llegides el 18-09-2026** dins l'extracte de Brutails: **la 338
+    dona l'excepció de les fiances** (buit 6 d'aquesta llista) i **la 217, la
+    regla que les despeses de custòdia les paga el pres solvent** —**«notant
+    totas las llevas, las guardas y los dias hauran guardat al presoner […] afi
+    de que, si aquestos tenen per pagar, sien condemnats en pagar les
+    guardes»**—, **que és el mateix principi que aquesta fitxa discuteix pel
+    costat del jutge**: **qui pot pagar, paga el cost de la seva pròpia
+    causa.**
 
 ## Related
 

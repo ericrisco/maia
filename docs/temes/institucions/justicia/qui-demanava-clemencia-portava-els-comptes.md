@@ -252,9 +252,41 @@ font sobre ella mateixa:**
    *rahonadors* els portaven, hauria d'existir un llibre.** **Prioritari**: **és
    el que permetria comprovar si la commutació de penes en multes era realment la
    font d'ingressos.**
-2. **El *Politar*, pp. 185, 193, 195, 197, 200, 236, 237-238, 277, 280, 337 i
-   346-347.** **El corpus en té quatre pàgines d'aquestes per altres tandes i no
-   la resta.**
+2. **El *Politar*, pp. 185, 193, 195, 197, 200, 236, 237-238, 277, 280 i
+   346-347.** — **La p. 337, `resolta` el 18-09-2026, i és la que dona el títol
+   d'aquesta fitxa amb totes les lletres.**
+
+   **El Consell, un cop rebuts els Veguers, nomena els seus raonadors i els
+   encarrega quatre coses en una sola frase**:
+
+   > «lo Concell anomenara sos **rahonadors**, als quals encarregara **lo cuydado,
+   > lo zel y vigilancia de la concervacio de sos privilegis**, **la defensa y
+   > patrocini dels enquestats y manlleutats** y que **se interessien en la
+   > administracio bona de la justicia**, com tambe que **cuyden de la despensa o
+   > despesa y gastos de les Corts fins a son fi o clausura, en que se passen
+   > comptes y se paguen los gastos**.»
+
+   **Defensa dels encausats i comptabilitat del tribunal, en el mateix
+   encàrrec i en la mateixa frase.** **No són dos oficis que coincideixen: és un
+   sol ofici.**
+
+   **I la p. 338 dona el mecanisme de la clemència, amb el seu vocabulari.** **Si
+   el reu no vol compondre, o la pena sembla exorbitant «atesa la qualitat del
+   delicte y de la persona», les parts o els raonadors instan que se li faci
+   causa formal** —i **llavors el delinqüent ha d'anar a la presó**. **Per
+   evitar-ho, els raonadors han de treballar els Veguers**:
+
+   > «procuraran los rahonadors **ab tot conato e industria, suplicas y
+   > pregarias, suavisar als Senyors Veguers** en la respectiva composicio del
+   > delicte o modificacio de penas trencadas, **procurant evitar tot quant
+   > puguen no se arribia al extrem de ferlos proces, embrutar paper, per que
+   > regularment ne hix mes mal**.»
+
+   **La clemència és una negociació, i el motiu per fer-la és pràctic: el procés
+   acaba pitjor per a tothom.** **La p. 337 hi posa el rellotge**: **tres dies
+   més enllà del dia de publicació de les Corts per comparèixer**, i **passats,
+   les fiances incorren en penes trencades «quedant los delictes en son enter
+   estat»**.
 3. **El privilegi de 1433**, **en una còpia millor que la que la font posa en
    dubte.** **Prioritari**: **és el text fundacional dels *rahonadors*.**
 4. **La resposta del bisbe Catalán de Ocón (1757-1762) al Consell General** sobre
