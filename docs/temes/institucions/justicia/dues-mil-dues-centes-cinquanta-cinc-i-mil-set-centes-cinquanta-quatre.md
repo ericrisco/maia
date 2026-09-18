@@ -265,6 +265,57 @@ població reclusa que **el 2024 va arribar al màxim de 74**
 ([la presó sense llei](./la-preso-sense-llei.md)): **gairebé un funcionari de
 cos per intern.**
 
+## Quines infraccions es resolen i quines no
+
+> **Divisions 1816 i 1821** de l'API, bolcades el 18-09-2026: **infraccions
+> denunciades i resoltes per article del Codi penal, 2007-2025**, **454 files de
+> jerarquia** cadascuna. **És la mateixa font de les xifres del títol** —2.255
+> delictes i 1.754 contravencions el 2025— **desglossada article per article.**
+
+**Creuar les dues taules dona la taxa de resolució de cada article, i el que
+surt no és un gradient: són dos mons.**
+
+| Art. | Infracció | Denunciades 2025 | Resoltes | **Taxa** |
+| ---: | --- | ---: | ---: | ---: |
+| 114 | Maltractament en l'àmbit domèstic | 84 | 84 | **100,0 %** |
+| 268 | Conducció sota l'efecte de drogues | 378 | 376 | **99,5 %** |
+| 499 | Consum, possessió o cultiu de droga | 759 | 745 | **98,2 %** |
+| 284 | Droga tòxica, tipus privilegiats | 156 | 153 | **98,1 %** |
+| 397 | Resistència i desobediència | 62 | 59 | 95,2 % |
+| 435 | Document inautèntic | 66 | 61 | 92,4 % |
+| 143 | Amenaces no condicionals | 86 | 74 | 86,0 % |
+| 113 | Maltractament i lesió, tipus bàsic | 94 | 62 | 66,0 % |
+| 199 | Furt amb força o en casa habitada | 57 | 21 | 36,8 % |
+| 481 | **Furt** *(contravenció)* | **549** | **183** | **33,3 %** |
+| 208 | Estafa | 62 | 19 | 30,6 % |
+| 224 | Danys, tipus privilegiat | 94 | 26 | 27,7 % |
+| 484 | Danys *(contravenció)* | 212 | 52 | 24,5 % |
+| 197 | Furt *(delicte)* | 97 | 20 | 20,6 % |
+| 482 | Defraudacions *(contravenció)* | 101 | 19 | **18,8 %** |
+
+**Agrupades, les vuit infraccions contra el patrimoni fan 1.212 denúncies i 353
+resolucions: el 29,1 %.** **Les tres de droga i conducció fan 1.293 denúncies i
+1.274 resolucions: el 98,5 %.** **La diferència és de setanta punts.**
+
+**I la raó és que no són el mateix acte.** **Una infracció de droga o de
+conducció es «denuncia» quan ja hi ha algú aturat amb la substància a la mà: la
+denúncia i la resolució són el mateix moment.** **Un furt es denuncia quan la
+víctima ja no té l'objecte i no sap qui l'hi ha pres.** **Per això dues de cada
+tres denúncies de furt no es resolen mai**, i **per això la taxa global de
+resolució puja quan puja la vigilància de carretera i baixa quan pugen els
+robatoris**, sense que cap policia treballi ni millor ni pitjor.
+
+| Any | Delictes resolts | Contravencions resoltes |
+| --- | ---: | ---: |
+| 2007 | 1.142 / 1.631 — **70,0 %** | 1.551 / 2.684 — 57,8 % |
+| 2015 | 989 / 1.366 — 72,4 % | 1.080 / 2.188 — **49,4 %** |
+| 2020 | 1.319 / 1.603 — **82,3 %** | 949 / 1.492 — 63,6 % |
+| 2025 | 1.743 / 2.255 — 77,3 % | 1.107 / 1.754 — 63,1 % |
+
+**El millor any de resolució de delictes és el 2020**, l'any del confinament:
+**amb el país tancat, el delicte que queda és el que es comet davant d'un
+agent.** `Aquesta és una lectura del corpus, no de la font: la font no la fa.`
+
 ## Avís: del desembre del 2026 aquests números canvien
 
 **La [Llei 18/2026 del Codi penal](./les-penes-del-codi-penal.md)** —publicada el
@@ -301,15 +352,21 @@ existeixen.**
 - **Per què les detencions de menors s'aturen el 2013.** Canvi de llei, de
   pràctica o de recompte: **la font no ho diu**, i **el corpus té la llei de
   jurisdicció de menors sense llegir.** `pregunta_oberta`
-- **Les taules «per article» del Codi penal existeixen i no s'han destil·lat.**
-  Són les divisions **1816, 1817, 1818 i 1821**, **118.012 valors**, i **el
-  bolcat les deixa fora expressament** perquè gairebé tot el creuament és zero.
-  `local_raw`
+- ~~**Les taules «per article» del Codi penal existeixen i no s'han
+  destil·lat.**~~ **`resolt` el 18-09-2026**: bolcades les divisions **1816,
+  1817, 1818, 1821 i 1840** a
+  `docs/raw/estadistica-api/infraccions-per-article/`, **118.066 valors**, i
+  creuades a [la taxa de resolució per article](#quines-infraccions-es-resolen-i-quines-no).
 - **No hi ha taxa per habitant** de cap d'aquestes sèries, i **la nacionalitat
   de detenció i la població per origen no es mesuren igual**, de manera que **el
   corpus no la calcula.** `font_externa`
-- **La divisió 1840** —estupefaents, altres tipus, en grams per tipus— **fa
-  *timeout*** a l'API. `font_externa`
+- ~~**La divisió 1840** —estupefaents, altres tipus, en grams per tipus— **fa
+  *timeout*** a l'API.~~ **`resolt` el 18-09-2026 amb un temps d'espera de 900
+  s**: **no era el servidor, era el client** (vegeu [les divisions
+  lentes](../../economia/comerc/amb-qui-comercia-andorra.md)). **I la taula que
+  no responia té 54 valors, dels quals 47 són zero**: **només el 2017 (9 g), el
+  2018 (1 g) i el 2022 (2.690 g: 1.124 g de plantes i 1.566 g de cabdells de
+  marihuana) hi ha res.** **Vuit anys de sèrie i un sol any amb quantitat.**
 - **Les condemnes no hi són.** Aquesta branca és policial: **denúncies,
   resolucions i detencions**. **Què passa després al tribunal**, el corpus no
   ho té en sèrie. `font_externa`
