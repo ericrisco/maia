@@ -167,9 +167,11 @@ sentit.**
 1. **Les condicions de la successió *ab intestat*** a Andorra el 1904, i **a quina
    «legislació estrangera» es recorria** per suplir el testament. **La font ho
    afirma i no ho concreta.** `obert, prioritari.`
-2. **Les altres quatre respostes sobre l'usdefruit de la vídua.** `obert` —vegeu
-   [cinc respostes](./cinc-respostes-a-la-mateixa-pregunta.md), on el buit passa a
-   `parcial`.
+2. ~~**Les altres quatre respostes sobre l'usdefruit de la vídua.**~~ —
+   **`parcial`**: [cinc respostes](./cinc-respostes-a-la-mateixa-pregunta.md) ja
+   ha incorporat **una de les cinc respostes**, amb el magistrat identificat i
+   el seu raonament; les altres quatre no es reprodueixen i la font no permet
+   saber si la resposta incorporada és la correcta.
 3. **La clàusula d'usdefruit de la vídua** tal com es redactava als contractes.
    — **COMPROVAT EL 2026-09-16, i la resposta és que no hi és.** Els **dos
    capítols matrimonials de 1788** que té el corpus
