@@ -165,7 +165,8 @@ judici**, i sobretot **que el judici no és seu tot sol**: «**després d'altres
 
 1. **Qui eren els *sabis*** que va consultar. **La font no en nomena cap**, i el
    corpus **no ho demana**: **són particulars**. `tancat per criteri, no per manca
-   de dades.`
+   de dades.` **`no-es-buit`**: és una decisió de l'abast de la font, no una
+   pregunta de recerca.
 2. **Els terminis de prescripció** que li van donar, i **quins d'aquells eren
    andorrans i quins catalans**. **La font explica que es va confondre i no
    publica la llista corregida.** `obert.`
