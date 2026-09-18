@@ -217,9 +217,11 @@ s'endevina:
    **Registrat, no arbitrat.**
 5. **Quan van desaparèixer els pregoners públics de les Valls.** **El corpus en
    té cinc atestacions entre 1412 i 1580 i cap de posterior.**
-6. **L'*Instructa*, peces justificatives p. LI** —**setzena citació**—, **que dona
-   per a la cessió de béns un procediment que l'autor diu «*un poc diferent*» del
-   que ell exposa**, **i no diu en què.** **Prioritari.** — **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
+6. ~~**L'*Instructa*, peces justificatives p. LI** —**setzena citació**—, **que
+   dona per a la cessió de béns un procediment que l'autor diu «*un poc
+   diferent*» del que ell exposa**, **i no diu en què.** **Prioritari.**~~ —
+   **`parcial`: la pàgina està llegida i el procediment transcrit; el que
+   segueix obert és només en què difereix.** **CORRECCIÓ, 23-09-2026: aquest buit estava mal formulat.**
    **La *Instructa* **no** és un document sense llegir**: el corpus la té
    destil·lada des del 15-09-2026 a
    [dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md)
@@ -241,6 +243,7 @@ s'endevina:
    **En què és «un poc diferent» del que exposa el cos de l'obra, el corpus no
    ho arbitra**: caldria confrontar-ho frase a frase amb el capítol, i **això no
    s'ha fet.**
+
 7. ~~**Les peces justificatives p. LXII**, **extracte d'un procediment sobre la
    reclamació d'un creditor en una cessió de béns.**~~ — **`resolt` el
    16-09-2026** (PDF 82). **La pàgina no porta un extracte sinó dues peces
