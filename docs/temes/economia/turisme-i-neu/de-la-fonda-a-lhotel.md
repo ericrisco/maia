@@ -182,8 +182,31 @@ vegades la població del país.**
 5. **Xifres**: places hoteleres per dècades. — **`parcial` el 17-09-2026 per la
    via d'Estadística** (activitat **A125**): vegeu
    [El parc hoteler d'avui, i que ja no creix](#el-parc-hoteler-davui-i-que-ja-no-creix).
-   `La sèrie publicada arrenca el 2014; per dècades anteriors encara cal una
-   altra font.`
+   **Ampliat el 18-09-2026**: **la sèrie no arrenca el 2014 sinó el 2004**, per
+   l'API d'Estadística (divisions **196**, **382** i **386**, font **Departament
+   de Turisme i Comerç**):
+
+   | | **2004** | 2008 | 2014 | 2019 | 2022 | **2025** |
+   | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+   | **Llits** | **38.310** | 34.514 | 34.019 | 32.296 | 31.736 | **29.661** |
+   | **Establiments** | **294** | 270 | 241 | 230 | 226 | **218** |
+   | *d'aquests, llits d'hotel* | 26.215 | 27.462 | 28.228 | 27.046 | 26.466 | **25.300** |
+
+   **El màxim de la sèrie és el 2005, amb 38.957 llits.** **El 2025 n'hi ha
+   29.661: un −23,9% en vint anys**, i **setanta-sis establiments menys.**
+
+   **I el que desapareix no és l'hotel.** **Els llits d'hotel només baixen un
+   3,5% des del 2004**; **el que s'esvaeix és tota la resta**: **pensions de 524
+   a 89 llits** —**un −83%**—, **hostals i residències de 764 a 227**,
+   **aparthotels de 3.256 a 1.798**. **L'apartament turístic cau de 8.192 el
+   2005 a 668 el 2006** —`una caiguda del 92% en un any que la font no explica i
+   que el corpus llegeix com un canvi de definició, no com un tancament massiu`—
+   i **des de llavors es manté entre 1.700 i 2.400.**
+
+   > **Andorra no ha perdut hotels: ha perdut el que hi havia al voltant dels
+   > hotels.**
+
+   `De dècades anteriors al 2004 encara cal una altra font.`
 6. **Quines famílies** hoteleres continuen, i des de quin hostal comunal.
 7. **L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
    inaugurat».
