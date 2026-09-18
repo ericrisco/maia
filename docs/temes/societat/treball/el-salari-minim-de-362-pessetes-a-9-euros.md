@@ -198,12 +198,52 @@ llista per salari.
 cobren entre 1.869 i 2.124 euros**, és a dir **entre el 68% i el 77% del salari
 mitjà del país**.
 
+## La sèrie completa, i comença vuit anys abans del Butlletí
+
+**El 18-09-2026, per l'API del Departament d'Estadística** (divisió **248**,
+**font Departament d'Ocupació i Treball**): **vuitanta-nou revisions del salari
+mínim, del juliol del 1981 al juliol del 2026.**
+
+| Data | €/hora | €/mes | | Data | €/hora | €/mes |
+| --- | ---: | ---: | --- | --- | ---: | ---: |
+| **1981-07** | **0,87** | **166,16** | | 2009-01 | 5,28 | 915,20 |
+| 1985-01 | 1,38 | 263,56 | | **2010-07** | **5,28** | **915,20** |
+| 1990-01 | 2,28 | 435,45 | | 2012-01 | 5,49 | 951,60 |
+| 1995-01 | 3,44 | 596,93 | | **2013-01** | **5,55** | **962,00** |
+| 1998-01 | 3,77 | 654,22 | | **2015-07** | **5,55** | **962,00** |
+| 2000-01 | 3,91 | 678,18 | | 2018-01 | 5,87 | 1.017,47 |
+| **2001-01** | **4,05** | **702,14** | | 2021-01 | 6,47 | 1.121,47 |
+| 2001-07 | 4,18 | 725,06 | | 2023-01 | 7,42 | 1.286,13 |
+| **2002-01** | **4,24** | **734,44** | | 2025-01 | 8,35 | 1.447,33 |
+| 2005-01 | 4,66 | 807,73 | | **2026-07** | **9,05** | **1.568,67** |
+
+**De 0,87 € l'hora el 1981 a 9,05 € el 2026: es multiplica per 10,4 en
+quaranta-cinc anys.**
+
+### Dues congelacions, i cap decret no les anomena
+
+**El salari mínim andorrà s'ha revisat dues vegades l'any des del 1981 fins al
+2022**, i **des del 2023 una vegada l'any**. **Però hi ha dos trams en què no
+es mou gens:**
+
+| Congelació | Import | Durada |
+| --- | ---: | --- |
+| **gener 2009 – juliol 2010** | **915,20 €/mes** | **quatre revisions seguides** |
+| **gener 2013 – juliol 2015** | **962,00 €/mes** | **sis revisions seguides** |
+
+**Tres anys sencers sense pujar el salari mínim, del 2013 al 2015**, i **any i
+mig del 2009 al 2010.** `Els dos trams cauen just després de la crisi
+financera i dins la crisi del deute. La font dona la sèrie i no en dona la
+raó.` **També el 1998 es repeteix el mateix import tot l'any.**
+
 ## Buits registrats
 
-- **Els imports dels anys 1998-2013 no són en aquests decrets**: la norma remet a
-  l'IPC. `Requereix font externa: la sèrie d'IPC d'Estadística, o la publicació
-  de l'import exacte que el Govern feia al gener i que el Butlletí no sempre
-  recull.`
+- ~~**Els imports dels anys 1998-2013 no són en aquests decrets**: la norma remet a
+  l'IPC.~~ — **`resolt` el 18-09-2026**: **hi són tots, semestre a semestre**, a
+  l'API d'Estadística, i **la sèrie arrenca el 1981**, vuit anys abans del
+  Butlletí: vegeu [La sèrie completa](#la-serie-completa-i-comenca-vuit-anys-abans-del-butlleti).
+  `El que segueix obert és el càlcul: la sèrie dona l'import i no la fórmula
+  que el va produir cada any.`
 - **Quanta gent cobra el salari mínim**, no consta. La sèrie dona el sostre
   inferior legal i cap dada de qui hi és. — **`parcial` el 17-09-2026**: la nota
   **A149** dona l'**interval de salari modal**, que el maig del 2026 és
@@ -211,9 +251,13 @@ mitjà del país**.
   equivalent cau dins d'aquest interval**. `Segueix obert el recompte exacte de
   qui cobra el mínim: l'estadística publica intervals de cent euros, no el
   llindar legal.`
-- **La conversió pesseta-euro del 2001** no s'explica a cap document: **674 PTA
-  són 4,05 €** i **el primer import en euros és 4,24 €**. `Requereix saber si
-  la diferència és un arrodoniment o una pujada, que el decret no diu.`
+- ~~**La conversió pesseta-euro del 2001** no s'explica a cap document: **674 PTA
+  són 4,05 €** i **el primer import en euros és 4,24 €**.~~ — **`resolt` el
+  18-09-2026, i no és cap de les dues coses que el corpus es plantejava**:
+  **la sèrie dona 4,05 € al gener del 2001, 4,18 € al juliol i 4,24 € al gener
+  del 2002.** **La conversió és exacta** —674 PTA ÷ 166,386 = 4,0508— **i entre
+  ella i el 4,24 hi ha dues pujades ordinàries**, no un arrodoniment. **El 4,24
+  no és el primer import en euros: és el tercer.**
 - **El Reglament Laboral**, base legal dels primers vuit anys de la sèrie, **és
   anterior al Butlletí i el corpus no en té el text**
   ([l'acomiadament lliure](./lacomiadament-lliure.md)).
