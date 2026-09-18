@@ -124,12 +124,17 @@ quatre.
 - **Abans del 2000 no hi ha res.** **La federació és del 1967** i **el quadre
   d'honor comença trenta-tres anys després.** **O no es va jugar, o la font no
   ho té.** **Buit prioritari.**
-- **Qui són Serni Ribera, Felipe Porras, Daniel José Queraltó, Robert Alomà,
-  Joan Mellado i Jordi Fluvià.** **Cap fitxa de cap**, i **entre tots sis han
-  guanyat onze campionats d'Andorra.** — **`obert`, confirmat el 2026-09-13**:
-  **cap dels sis noms no surt enlloc més del corpus.** **Bessó** a
-  [escacs](./README.md), que declara el mateix buit amb els títols de cadascun.
-  **Comptat un sol cop, aquesta branca té quatre buits i no set.**
+- ~~**Qui són Serni Ribera, Felipe Porras, Daniel José Queraltó, Robert Alomà,
+  Joan Mellado i Jordi Fluvià.**~~ — **`parcial`, i aquesta llista mateixa
+  encara deia el 18-09-2026 la frase que la secció «Qui són, i d'on venen»
+  d'aquí dalt ja havia corregit el 2026-09-13**: **«cap dels sis noms no surt
+  enlloc més del corpus» era fals**, i **el bullet no s'havia actualitzat quan
+  es va corregir el text.** **Tots sis hi són**, amb el que se'n sap a
+  [Qui són, i d'on venen](#qui-son-i-don-venen). **El que segueix obert**: **els
+  anys de naixement i la trajectòria de Robert Alomà, Joan Mellado i Jordi
+  Fluvià**, i **tot Serni Ribera i Felipe Porras, dels quals només hi ha el
+  palmarès.** **Bessó** a [escacs](./README.md), que declara el mateix buit,
+  ja `parcial`, amb els títols de cadascun.
 
 ## Related
 

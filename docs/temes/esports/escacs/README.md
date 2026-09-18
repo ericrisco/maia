@@ -72,13 +72,13 @@ membre de l'Associació Francesa Internacional d'Escacs a més de la FIDE.**
 
 - **Sis campions d'Andorra sense fitxa**: Serni Ribera (3 títols), Daniel José
   Queraltó (2), Robert Alomà (2+1), Joan Mellado, Jordi Fluvià i Felipe Porras.
-  — **`parcial`, i l'afirmació que s'havia escrit primer era falsa.** **Una
-  primera passada d'aquesta auditoria va dir que cap dels sis noms no sortia
-  enlloc més del corpus; és mentida, i la comprovació no s'havia fet.** **Tots
-  sis són a `raw/web/esport/estructura/`**, i **un té fitxa sencera**. Vegeu
-  [el campionat](./el-campionat.md), on s'ha destil·lat el que se'n sap.
-  **Bessó**: aquell article declara el mateix buit amb el compte — **entre tots
-  sis, onze campionats d'Andorra.**
+  — **`parcial`.** Vegeu [el campionat](./el-campionat.md#els-buits), on el
+  18-09-2026 s'ha corregit el mateix bullet duplicat: **tots sis hi són**, amb
+  el que se'n sap. **El que segueix obert**: **els anys de naixement i la
+  trajectòria d'Alomà, Mellado i Fluvià**, i **tot Serni Ribera i Felipe
+  Porras**, dels quals només hi ha el palmarès. **Bessó**: aquell article
+  declara el mateix buit amb el compte — **entre tots sis, onze campionats
+  d'Andorra.**
 - **Benet Pantebre**, que va crear l'Obert i el va dirigir divuit anys. —
   **`obert`, confirmat**, amb **bessó** a
   [l'Obert internacional](./lobert-internacional.md). **I amb una coincidència
