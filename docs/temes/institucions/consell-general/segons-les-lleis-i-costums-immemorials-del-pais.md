@@ -173,9 +173,13 @@ per la via de definir el costum.**
    > aquest cas el fons de la doctrina del Consell era, segons la font mateixa, el
    > correcte.** `Això no resol qui tenia competència per dir-ho, que és la qüestió
    > que queda oberta.`
-4. **Els *decrets-avis* que l'autor va fer servir**: **no en dona la llista ni el
+4. ~~**Els *decrets-avis* que l'autor va fer servir**: **no en dona la llista ni el
    nombre** —«un cert nombre»— i **remet la seva història als capítols VI i
-   VIII**. `localitzable sense sortir del fitxer.`
+   VIII**.~~ — **`parcial` el 19-09-2026**: el text complet ja és al [fitxer
+   brut de *La Coutume*](../../../raw/llibres/brutails-coutume.txt), on la
+   remissió queda situada a la p. 58 i als capítols **VI, *Les biens*, i VIII,
+   *Procédure civile***. Brutails continua sense donar-ne la llista ni el
+   nombre: aquest residu documental queda obert.
 5. **Qui eren «els dos delegats»** del Consell General a la justícia criminal, i
    **si són els rahonadors.** `obert; el corpus no identifica les dues figures.`
 6. **Un exemple de dictamen «signat successivament pels consellers a petició d'una
