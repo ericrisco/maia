@@ -314,9 +314,10 @@ més citades.**
    d'aplicar.**
 8. **D'on surt el lema «Tot pel poble, però sense el poble»**, i **si té font
    andorrana.** **Nou.**
-9. **El decret de Guinda del 3 de febrer de 1715**, que aquest tram reprodueix
-   sencer en castellà i que **el corpus ja té per la font andorrana.** `Cobert;
-   es fa constar la concordança de text entre les dues vies.`
+9. ~~**El decret de Guinda del 3 de febrer de 1715**, que aquest tram reprodueix
+   sencer en castellà i que **el corpus ja té per la font andorrana.**~~
+   **`resolt`**: el text és cobert per la font andorrana i aquesta fitxa en deixa
+   constància com a concordança entre les dues vies.
 
 ## Related
 
