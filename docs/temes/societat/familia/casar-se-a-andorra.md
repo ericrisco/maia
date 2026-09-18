@@ -320,10 +320,12 @@ diferència entre ells, igual al principi i al final.**
   **Defecte registrat: el mateix buit està declarat a tres articles alhora**
   —aquest, la cronologia i el sufragi femení— **i cap dels tres no ho sabia.**
   `Requereix font externa: el text del decret de 1975.`
-- **El matrimoni civil**, auditat el 2026-09-14. **L'única altra ocurrència de
+- ~~**El matrimoni civil**, auditat el 2026-09-14. **L'única altra ocurrència de
   «matrimoni civil» a tot el corpus no és jurídica sinó política**: **el
   copríncep episcopal el va declarar inacceptable durant la negociació
   constitucional del 1992-93**, al costat de l'avortament
   ([la transició nacional](../../historia/historia-recent/la-transicio-nacional.md)).
   **El corpus té la llei que el regula i el veto que el va precedir, i res al
-  mig.**
+  mig.**~~ — **`no-es-buit`**: és una nota d'auditoria i de connexió entre
+  fitxes, no una pregunta pendent; la regulació i el veto ja estan documentats
+  al cos de l'article.

@@ -206,7 +206,15 @@ segle XI dient que és del IX**, exactament el mateix mecanisme que
    531 i el 731 la línia episcopal d'Urgell no s'interromp**, cosa que **a
    altres bisbats sí que va passar amb la invasió sarraïna**, i **s'atribueix a
    la geografia.** **D'Abd-el-Malik, res.**
-5. **Què queda a Andorra** de l'època visigòtica. **Buit gran.**
+5. ~~**Què queda a Andorra** de l'època visigòtica.~~ — **`parcial` el
+   19-09-2026**: l'evidència material més antiga que el corpus pot documentar
+   ara és la **nau preromànica de Santa Coloma**, probablement del **segle X o
+   anterior**, però la font no la fa visigòtica i la datació exacta és difícil
+   ([fitxa de Santa Coloma](../../cultura/arquitectura/santa-coloma.md)). Per
+   tant, el corpus pot situar un límit inferior de l'arquitectura conservada,
+   però **no té cap edifici o objecte atribuït amb seguretat a l'època
+   visigòtica**; el buit de restes materials directament visigòtiques continua
+   obert.
 6. Si Andorra **va ser mai musulmana**, ni que fos nominalment.
 7. **Santa Coloma** consignada a part de les sis parròquies — per què.
 
