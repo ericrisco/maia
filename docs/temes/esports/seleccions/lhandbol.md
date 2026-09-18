@@ -120,6 +120,16 @@ així avui.`
   llista del COA és completa i pròpia** —divuit olímpiques més vuit no
   olímpiques, vint-i-sis. **No hi és perquè no n'és membre**, no perquè la
   llista estigui mal copiada. **Amb la reserva de data de la font: 2013.**
+  **Actualització del mateix 18-09-2026, més tard el mateix dia**: la pàgina
+  «Membres del COA» pel **cicle 2024-2028**, consultada directament a
+  `coa.ad` ([font](../../../fonts/coa-membres.md)), **sí que hi inclou la
+  Federació Andorrana d'Handbol**, representada per **Gerard Pifarré Ros**
+  —**confirma el nom del president** i, alhora, **suggereix que la reserva
+  de data era justificada**: **entre el 2013 i el 2024-2028 la federació
+  s'hi va incorporar.** El COA (2024-2028) en llista **33 en total**
+  (25 olímpiques i 8 no olímpiques), no 26. **No arbitrat del tot**: podria
+  ser un canvi real d'estatus o una llista construïda amb criteris diferents
+  entre les dues consultes.
 
 ## Related
 
