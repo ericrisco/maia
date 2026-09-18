@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **308** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **309** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1792,6 +1792,7 @@
 | [`donasecret-pere-moles-entrevista`](fonts/donasecret-pere-moles-entrevista.md) | donasecret.com | desconeguda, ús informatiu | False |
 | [`duro-pujol-no-integracio-1997`](fonts/duro-pujol-no-integracio-1997.md) | Simó Duró Coma i Jean Pujol Serres · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`ecoa-ad-junta`](fonts/ecoa-ad-junta.md) | Esquí Club Ordino-Arcalís (ECOA) | publicació institucional, sense llicència declarada | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
 | [`eltemps-ribas-reig-feudalisme`](fonts/eltemps-ribas-reig-feudalisme.md) | El Temps | premsa, drets reservats; citació breu | False |
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
