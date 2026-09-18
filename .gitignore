@@ -16,6 +16,8 @@ dist/
 # avisa a partir de 50 i rebutja a partir de 100), i git guarda els blobs per
 # sempre. La procedència i l'URL de cadascun són a docs/raw/README.md.
 docs/raw/sac-diades/*.pdf
+# Els renders de pàgina són trossos del PDF: mateixos drets, mateixa decisió.
+docs/raw/sac-diades/*.png
 docs/raw/llibres/*.pdf
 docs/raw/academic/*.pdf
 docs/raw/hemeroteca/*.pdf
