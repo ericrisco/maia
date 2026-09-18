@@ -216,9 +216,17 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
 ## El que falta
 
 - **Què era «Francfurt Cerni».**
-- **Els clubs que no tenen article**: **Penya Encarnada**, **Sporting
-  d'Escaldes**, **Casa de Portugal**, **Pas de la Casa**, **Atlètic Monzón**
-  —tots surten a les fitxes de futbolistes del corpus.
+- ~~**Els clubs que no tenen article**: **Penya Encarnada**, **Sporting
+  d'Escaldes**, **Casa de Portugal**, **Pas de la Casa**, **Atlètic
+  Monzón**~~ — **`parcial` el 18-09-2026**: **Penya Encarnada sí que en
+  té**, però amb un altre nom —**Futbol Club Penya d'Andorra**, registrat
+  el 2009 com a «Associació Club Penya Encarnada d'Andorra»
+  ([font](../../../../fonts/wikipedia-ca-fc-penya-dandorra.md))—, **tres
+  cops campió de Segona Divisió** (2014-15, 2019-20, 2021-22). **Els altres
+  quatre —Sporting d'Escaldes, Casa de Portugal, Pas de la Casa, Atlètic
+  Monzón— sense article a les URLs directes provades**, cadascun
+  comprovat individualment —**no és una cerca exhaustiva**, només la
+  confirmació que l'URL obvi no hi és.
 - **Els pressupostos.** **Cap xifra de cap.**
 - ~~**L'any de fundació de l'Inter d'Escaldes.**~~ — **`parcial` el
   18-09-2026**: **1991**, segons la Viquipèdia
