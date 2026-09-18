@@ -118,9 +118,17 @@ vint anys, i part de la informació pot ser caduca.**
 ## El que falta
 
 - **Rafael Reig i Sans**: **quan funda Tabacs Reig, i què hi havia abans.**
-- **Maria Reig i Moles**: **empresària i política, i el corpus no en té fitxa.**
-  **Buit prioritari** — vegeu [les dones](../../societat/dones/README.md).
-- **Carles Ensenyat Reig**: **polític, sense fitxa.**
+- ~~**Maria Reig i Moles**: **empresària i política, i el corpus no en té
+  fitxa.** **Buit prioritari** — vegeu [les dones](../../societat/dones/README.md).~~
+  — **`resolt` el 18-09-2026**: **ara en té**, a
+  [persones/maria-reig-moles](../../persones/maria-reig-moles.md) — **va
+  ser l'única dona que va participar en la redacció de la Constitució del
+  1993** ([font](../../../fonts/wikipedia-en-maria-reig-moles.md)).
+- ~~**Carles Ensenyat Reig**: **polític, sense fitxa.**~~ — **`resolt`**:
+  **és Carles Enseñat i Reig, fill de Maria Reig i Moles, síndic general
+  des del 26 d'abril del 2023**, ja documentat a
+  [els síndics generals](../../persones/els-sindics-generals.md). **El
+  corpus no l'havia creuat mai amb la seva mare.**
 - **Premsa Andorrana**: **què edita.**
 - **L'estructura real de propietat** de cadascuna de les societats citades.
 - **Les altres grans famílies.** **La font en documenta una; n'hi ha més, i el
