@@ -80,10 +80,54 @@ les estacions andorranes no són ni públiques ni privades, sinó comunals**, i 
 a Andorra Turisme, SAU**, vegeu
 [Qui promociona tot això](#qui-promociona-tot-aixo-i-amb-quants-diners).
 
-**El que segueix obert són les xifres del sector**: per temporada i per
-estació, visitants, facturació, ocupació i llocs de treball. **L'impacte sobre l'habitatge** i **el
+**El que segueix obert són les xifres del sector**: **per estació**, visitants,
+facturació, ocupació i llocs de treball. **L'impacte sobre l'habitatge** i **el
 debat públic sobre saturació.** **La Cambra de Comerç publica informes econòmics
 anuals que són font primària i no s'han consultat.** **Buit registrat.**
+
+**Per temporada, en canvi, la xifra hi és des del 18-09-2026**, i és de
+**Ski Andorra**: vegeu
+[Vint-i-cinc temporades de dies d'esquí](#vint-i-cinc-temporades-de-dies-desqui).
+
+## Vint-i-cinc temporades de dies d'esquí
+
+**L'API del Departament d'Estadística** (divisió **230**, **font declarada Ski
+Andorra**) dona **el nombre de dies d'esquí venuts per temporada, del 1993 al
+2017.**
+
+| Temporada | Dies venuts | | Temporada | Dies venuts |
+| --- | ---: | --- | --- | ---: |
+| **1993** | **1.502.094** | | 2006 | 2.528.000 |
+| 1994 | 1.593.995 | | **2007** | **1.892.990** |
+| 1995 | 1.716.325 | | 2008 | 2.282.000 |
+| 1996 | 1.964.000 | | 2009 | 2.340.000 |
+| 1997 | 1.970.271 | | 2010 | 2.331.105 |
+| 1998 | 2.157.641 | | 2011 | 2.214.342 |
+| 1999 | 2.250.000 | | **2012** | **1.994.028** |
+| 2000 | 2.308.000 | | 2013 | 2.181.333 |
+| 2001 | 2.255.650 | | 2014 | 2.356.664 |
+| 2002 | 2.482.000 | | 2015 | 2.344.876 |
+| 2003 | 2.458.000 | | 2016 | 2.447.112 |
+| 2004 | 2.519.333 | | **2017** | **2.480.000** |
+| **2005** | **2.554.000** | | | |
+
+**El màxim de vint-i-cinc temporades és el 2005, amb 2.554.000 dies.** **El
+2017, dotze anys després, encara n'és un 2,9% per sota.**
+
+> **L'esquí andorrà creix de pressa fins al 2005 —+70% en dotze anys— i des de
+> llavors no creix.**
+
+**Dues caigudes marquen la sèrie**: **el 2007, amb 1.892.990** —**un −25,1% en
+un any**— i **el 2012, amb 1.994.028**. **Totes dues es recuperen l'any
+següent**, i **cap de les dues no té explicació a la font.** `La hipòtesi òbvia
+és la neu de cada hivern, i el corpus no la pot comprovar: la sèrie
+d'innivació no és al que s'ha consultat.`
+
+**I una precaució de mesura**: **«dies d'esquí venuts» no és «esquiadors»**.
+Una persona amb un forfet de sis dies en fa sis. **La sèrie no permet dir quanta
+gent ve.**
+
+`La sèrie s'atura el 2017. Cap divisió posterior no la continua.`
 
 ## Related
 

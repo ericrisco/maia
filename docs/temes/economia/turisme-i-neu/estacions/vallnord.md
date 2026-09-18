@@ -132,7 +132,11 @@ França ha acabat tres vegades al seu país.**
 - **Per què es va dissoldre Vallnord.**
 - **Què són EMAP, Ensisa, Nevasa i SETAP365**, i qui les controla.
 - **Què va passar amb Josep Serra** després de cedir Arinsal.
-- **Les xifres de les dues estacions**: visitants, facturació, ocupació.
+- **Les xifres de les dues estacions**: visitants, facturació, ocupació. —
+  **`parcial` el 18-09-2026**: **del país sí que n'hi ha sèrie** —**dies
+  d'esquí venuts per temporada, 1993-2017, font Ski Andorra**
+  ([turisme i neu](../turisme-i-neu.md#vint-i-cinc-temporades-de-dies-desqui))—,
+  **i per estació no.** `L'API dona el total del país i cap desglossament.`
 
 ## Related
 

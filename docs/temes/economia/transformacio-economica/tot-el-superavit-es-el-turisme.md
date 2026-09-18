@@ -1,7 +1,7 @@
 ---
 type: article
 title: Tot el superàvit és el turisme
-description: "La balança de pagaments del 2024 diu que Andorra ven 2.292 milions de viatges i que tots els altres serveis junts perden diners. I que el país és creditor net del món per 3,5 vegades el seu PIB."
+description: "Andorra ven 2.601 milions de viatges el 2025 i tots els altres serveis junts perden diners. I aquell any la renda primària es gira de signe: el país passa a pagar al món més del que en cobra pel seu capital."
 tema: temes/economia/transformacio-economica
 veu: compilada
 epoca: contemporania
@@ -72,7 +72,38 @@ superàvit de serveis més gran de tota la taula.** **No és un cas extrem dins
 d'un patró: és un patró propi.** Xipre és qui més s'hi assembla i **hi va amb
 signe contrari al compte corrent.**
 
-## La renda primària s'ha desinflat un 82,6% en quatre anys
+## Dos anys més, i un d'ells ho canvia tot
+
+**La nota A138 dona 2020-2024. L'API d'Estadística** (divisió **2221**) **dona
+2019-2025**, i **els dos anys de més valen per ells sols:**
+
+| M€ | **2019** | 2020 | 2022 | 2024 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Compte corrent** | 507,61 | 392,99 | 373,79 | 595,63 | **798,28** |
+| **Béns** | −1.200,37 | −921,87 | −1.505,85 | −1.568,86 | **−1.721,70** |
+| **Serveis** | 1.470,86 | 1.022,16 | 1.787,13 | 2.160,91 | **2.595,70** |
+| **Viatges** | 1.533,87 | 1.063,48 | 1.907,10 | 2.292,14 | **2.601,28** |
+| **Renda primària** | 274,42 | 330,59 | 137,96 | 57,41 | **−32,00** |
+| **Capacitat de finançament** | 507,86 | 393,23 | 373,29 | 592,85 | **797,09** |
+
+**Primer: hi ha punt de comparació prepandèmic, i el 2024 no és una
+recuperació.** **Els viatges del 2024 són un 49,4% per sobre dels del 2019**, i
+els del 2025, un **69,6%**. **Andorra no ha tornat on era: ha passat molt per
+davant.**
+
+**Segon, i és el fet gran: el 2025 la renda primària es gira de signe.**
+
+> **De +274,42 milions el 2019 a −32,00 el 2025.** **Andorra paga avui al món
+> més del que en cobra pel seu capital.**
+
+**És la primera vegada en la sèrie.** El que el 2019 era la segona font
+d'ingressos exteriors del país **ha deixat de ser una font.** `La font dona el
+saldo i no en dona la causa.`
+
+**I el dèficit de béns segueix creixent sense pausa**: **−1.721,70 milions el
+2025**, el pitjor de la sèrie, **un 43,4% pitjor que el 2019.**
+
+## La renda primària s'ha desinflat, i el 2025 travessa el zero
 
 I aquest és el moviment que la xifra de titular tapa.
 
@@ -141,8 +172,9 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
   nota no en publica cap desglossament**: ni allotjament, ni comerç, ni
   procedència del visitant.
 - **Per què cau la renda primària.** Hi ha el fet i cap explicació.
-- **La sèrie anterior al 2020.** La taula comença el 2020, **que és l'any de la
-  pandèmia**: **no hi ha punt de comparació prepandèmic** en aquesta nota.
+- ~~**La sèrie anterior al 2020.**~~ — **`resolt` el 18-09-2026**: **l'API dona
+  el 2019 i el 2025**, i **el 2019 és el punt de comparació prepandèmic que
+  faltava**. `De més antic del 2019, res: la divisió 2221 comença allà.`
 - **Els errors i omissions de 42,50 milions**, que la taula del FMI publica i la
   nota d'Andorra no comenta.
 - **Qui són els 8.124 milions de passius.** La PII els classifica per
