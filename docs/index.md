@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **341** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **342** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1825,6 +1825,7 @@
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |
+| [`estadistica-cens-electors-nacional`](fonts/estadistica-cens-electors-nacional.md) | Secretaria General, via API pública del Departament d'Estadística | dades públiques | citacio |
 | [`estadistica-habitatges-turistics`](fonts/estadistica-habitatges-turistics.md) | Departament d'Estadística, Govern d'Andorra | dades públiques | citacio |
 | [`estadistica-petits-estats-2015`](fonts/estadistica-petits-estats-2015.md) | Departament d'Estadística d'Andorra · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`esteves-exili-i-evasions`](fonts/esteves-exili-i-evasions.md) | Sergi Esteves Lorenzo · Universitat de Barcelona | accés obert al Dipòsit Digital de la UB | pendent |
