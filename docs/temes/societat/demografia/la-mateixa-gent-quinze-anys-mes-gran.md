@@ -102,14 +102,63 @@ dones.**
 vida**; **la font no ho diu i el corpus ho llegeix així.** `És la lectura
 estàndard d'una piràmide amb aquesta forma i no una afirmació de la font.`
 
+## Qui és andorrà, a cada edat
+
+> **Afegit el mateix dia** amb
+> `POBLACIÓ PER EDAT (TRAMS 5 ANYS) I NACIONALITAT`, **2025**.
+
+| Tram | Andorrana | Espanyola | Portuguesa | Francesa | Altres | **% andorrans** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **0-4** | 1.929 | 200 | **11** | 45 | 148 | **82,7%** |
+| 5-9 | 2.387 | 364 | 43 | 72 | 395 | 73,2% |
+| 10-14 | 2.822 | 448 | 54 | 99 | 572 | 70,6% |
+| 15-19 | 3.378 | 483 | 66 | 122 | 485 | 74,5% |
+| 20-24 | 3.117 | 770 | 257 | 160 | 548 | 64,2% |
+| 25-29 | 2.971 | 1.306 | 366 | 192 | 1.279 | 48,6% |
+| 30-34 | 2.534 | 1.500 | 392 | 232 | 2.200 | 36,9% |
+| 35-39 | 2.202 | 1.562 | 621 | 285 | 2.222 | 32,0% |
+| **40-44** | 2.219 | 1.546 | 1.012 | 305 | 1.959 | **31,5%** |
+| 45-49 | 2.650 | 1.983 | 1.105 | 299 | 1.649 | 34,5% |
+| **50-54** | 3.082 | 2.035 | **1.143** | 420 | 1.226 | 39,0% |
+| 55-59 | 2.700 | 1.826 | 1.257 | 422 | 947 | 37,8% |
+| 60-64 | 2.321 | 1.793 | 1.109 | 364 | 742 | 36,7% |
+| 65-69 | 1.706 | 1.554 | 625 | 339 | 474 | 36,3% |
+| 75-79 | 1.062 | 998 | 63 | 229 | 230 | 41,1% |
+| **85 o més** | 713 | 731 | 27 | 94 | 143 | **41,7%** |
+
+**El percentatge d'andorrans per edat fa una V**: **82,7% entre els menors de
+cinc anys**, **31,5% entre els de quaranta a quaranta-quatre**, **41,7% entre
+els de vuitanta-cinc o més.**
+
+**El pic de la piràmide —la gent de quaranta a seixanta anys, que és el gruix del
+país— és la part menys andorrana de la població.** **I la base, la més
+andorrana de totes.**
+
+**Dit d'una altra manera**: **la bombolla del 1972 no és andorrana d'origen**;
+**és la gent que va arribar, i els seus fills sí que hi consten com a
+andorrans.**
+
+**I hi ha una comunitat on això es veu en negatiu, la portuguesa**: **onze
+criatures portugueses de zero a quatre anys en tot el país**, **contra 1.143
+persones de cinquanta a cinquanta-quatre**. **És una població concentrada en un
+sol tram d'edat i sense relleu**, i **explica per si sola la caiguda de la sèrie
+portuguesa** ([la portuguesitat](../immigracio/la-portuguesitat.md)).
+`Els fills de portuguesos nascuts a Andorra poden constar com a andorrans o com
+a portuguesos segons el cas, i la font no ho separa. El que la taula diu és
+quantes criatures tenen avui passaport portuguès.`
+
 ## El que falta
 
 - **Les edats de 100 anys o més.** **La taula s'atura als 99** i **no té cap
   tram obert de dalt.** `serie_estadistica`
-- **La piràmide per nacionalitat**, que diria quina part del bombolla dels 40-60
-  és andorrana i quina part és arribada. **La taula
-  `POBLACIÓ PER EDAT (TRAMS 1 ANY) I NACIONALITAT` existeix a la mateixa font i
-  aquesta fitxa no l'ha buidada.** `serie_estadistica`
+- ~~**La piràmide per nacionalitat**, que diria quina part de la bombolla dels
+  40-60 és andorrana i quina part és arribada.~~ — **`resolt` el mateix dia**:
+  vegeu «Qui és andorrà, a cada edat». **La taula en trams d'un any
+  (`POBLACIÓ PER EDAT (TRAMS 1 ANY) I NACIONALITAT`) segueix sense buidar**;
+  aquesta fitxa fa servir la de trams de cinc.
+- **Quants dels andorrans de cada tram ho són de naixement i quants per
+  adquisició.** **És la pregunta que faria llegible la V**, i **la font no la
+  respon.** `font_externa`
 - **La piràmide per parròquia**, que també existeix
   (`POBLACIÓ PER PARRÒQUIA, EDAT (TRAMS 1 ANY) I SEXE`). `serie_estadistica`
 - **Els anys anteriors al 2010.** `serie_estadistica`
