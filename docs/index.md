@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1018** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1019** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -335,6 +335,7 @@
 | [Andorra 2020](temes/economia/transformacio-economica/andorra-2020.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `nomen-capital-social-2007` |
 | [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
+| [Tot el superàvit és el turisme](temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/economia/transport

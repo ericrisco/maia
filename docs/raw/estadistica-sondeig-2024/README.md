@@ -73,4 +73,9 @@ la seva API de cerca no retorna les notes.`
   columnes de nombre quadren exactament** i **tres de les quatre de valor fallen
   per un euro**. **El resum del `20241107` diu «tercer trimestre del 2023» on la
   taula diu 2024**; registrat i no corregit.
-- A024, A052, A053 i A138 **encara no s'han llegit**.
+- A138 (`20250731`) → [Tot el superàvit és el turisme](../../temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md).
+  **Divuit pàgines; llegides la balança, les quatre taules comparatives i la
+  posició inversora.** **Les cinc files d'actius de la PII quadren una per una**;
+  **la línia «Béns» no quadra amb les seves dues subpartides** —trenta-dos
+  milions— **i sí amb crèdit menys dèbit**. Registrat.
+- A024, A052, A053 i la nota A138 del `20250123` **encara no s'han llegit**.
