@@ -1,0 +1,609 @@
+             A052. Estadística de prestacions per desocupació involuntària. Any 2023
+                                Data de publicació: dijous, 06/06/2024
+                                         www.estadistica.ad
+
+
+
+Resum
+
+Segons les dades dels registres del Departament d’Afers Socials, el nombre de sol·licituds de
+prestacions socials per desocupació involuntària presentades durant l’any 2023 ha estat de 120,
+de les quals el 58,3% han estat resoltes favorablement (70) i un 41,7% han estat resoltes
+desfavorablement (50). La proporció de sol·licituds favorables respecte a les sol·licituds
+presentades disminueix un 3,0% (1,81 punts) en relació a l’any 2022 (60,1%).
+
+Les sol·licituds favorables han estat concedides a 55 llars, 9 menys que a l’any 2022 (64),
+disminuint un 14,1%, amb un import mitjà per llar de 5.775,40€, un 2,3% més que a l’any 2022.
+Les persones que s’han beneficiat d’aquesta prestació, incloent tots els membres de la llar, són
+130.
+
+El tipus de llar que ha rebut el major nombre d’ajuts són les llars unipersonals (28 ajuts, 40,0%
+dels ajuts) i les monoparentals (14 ajuts, 20,0% dels ajuts), mentre que, per nacionalitat del
+sol·licitant, els andorrans i els espanyols reben el 42,9% i el 35,7% dels ajuts, respectivament.
+
+Segons el sexe de la persona beneficiària, les dones representen el 52,9% dels ajuts i el principal
+grup beneficiari és el d’entre 61 i 65 anys. Les dones representen el 48,2% i el principal grup
+beneficiari és el d’entre 51 i 55 anys.
+
+El nombre de beneficiaris d’aquest ajut ha passat dels 1,3 per cada mil habitants l’any 2022 a l’1,5
+per mil habitants a l’any 2023. Al seu torn, el volum d’aquestes prestacions respecte al PIB decreix
+un 13,4% i passa del 0,013% enregistrat l’any 2022 al 0,011% l’any 2023.
+
+La forta davallada de les dades en aquest tipus d’ajut ve donada per la recuperació econòmica
+desprès de dos anys de crisis sanitària. És per aquest motiu que les variacions anuals poden
+reflectir caigudes significatives. Per altra banda, en termes generals, les dades son semblants a
+les de l’any 2019.
+
+
+
+Índex
+
+1    Evolució dels ajuts per desocupació involuntària 2019-2023 .................................................... 2
+2    Nombre de sol·licituds d’ajuts per desocupació involuntària favorables i desfavorables .......... 3
+3    Nombre de sol·licituds favorables per tipus de família ............................................................... 4
+4    Nombre d’ajuts per parròquia ..................................................................................................... 5
+5    Ajuts per nacionalitat .................................................................................................................. 6
+6    Ajuts per sexe i nombre de fills a càrrec .................................................................................... 7
+7    Ajuts per sexe i nacionalitat ........................................................................................................ 8
+8    Ajuts per sexe i edat ................................................................................................................... 9
+9    Nota metodològica.................................................................................................................... 10
+10   Dates de les publicacions previstes ......................................................................................... 11
+
+
+
+
+NP_A052_20240606
+                      A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+1     Evolució dels ajuts per desocupació involuntària 2019-2023
+
+
+    Segons els registres del Departament d’Afers Socials, durant l’any 2023 s’han presentat un total
+    de 120 sol·licituds per a rebre la prestació de desocupació involuntària, equivalent a un
+    decreixement del 13,0% respecte a l’any 2022. D’aquestes, el 58,3% s’han resolt favorablement,
+    mentre que el 41,7% restant han obtingut una resolució desfavorable.
+
+    El nombre de sol·licituds favorables (70) mostra una disminució del 15,7% respecte a l’any anterior
+    (83). De la mateixa manera, les sol·licituds amb resolució desfavorable (50) decreixen un 9,1%.
+    Quant a les llars beneficiades, l’any 2022 han estat un total de 55, 9 menys que a l’any anterior.
+    L’import liquidat l’any 2023 en prestacions de desocupació involuntària ha estat de 317.646,75 €,
+    un -12,1% respecte a la quantitat liquidada l’any 2022.
+
+
+
+    Prestacions per desocupació
+                                              2019           2020            2021            2022           2023         Variació 22/23
+    involuntària
+    Sol·licituds Inicials favorables           66             180             286             48             50              4,2%
+    Sol·licituds Pròrrogues favorables         17             76              62              11             11              0,0%
+    Sol·licituds Reactivació favorables        14             34              37              24              9             -62,5%
+    TOTAL Sol·licituds favorables              97             290             385             83             70             -15,7%
+    TOTAL Sol·licituds desfavorables           42             210             299             55             50              -9,1%
+    TOTAL Sol·licituds                         139            500             684             138            120            -13,0%
+    Llars beneficiades                         97             290             336             64             55             -14,1%
+    Persones beneficiades                      213            673             789             108            130             20,4%
+    Import liquidat                        340.410,85 €   904.755,89 €   1.954.794,54 €   361.412,66 €   317.646,75 €       -12,1%
+    Import mitjà per llar                   3.509,39 €     3.119,85 €      5.817,84 €      5.647,07 €     5.775,40 €         2,3%
+
+
+
+
+    El nombre de beneficiaris per cada 1.000 habitants ha augmentat en 0,2 persones, passant d’1,3
+    persones a l’any 2022 a 1,5 persones a l’any 2023. Aquest creixement equival a un +15,4%. Quant
+    a la proporció de l’import liquidat sobre el PIB, per a l’any 2023 ha estat de 0,011%, el que suposa
+    un decrement de 0,002 punts percentuals (-13,4%). El pes de l’import liquidat sobre la despesa
+    total de Govern equival a un 0,06%, un decrement de 0,02 punts percentuals (-25,1%). Aquestes
+    dades mostren unes variacions interanuals clarament marcades pel nombre atípic de sol·licituds
+    durant la crisi sanitària de 2020 i 2021; si es comparen amb les de 2019 els valors retornen a la
+    normalitat.
+
+
+
+                       Ràtios                 2019           2020             2021            2022            2023         Variació 22/23
+    Sol·licituds favorables/presentades       69,8%          58,0%           56,3%            60,1%           58,3%            -3,0%
+    Beneficiaris per 1.000 habitants           2,7            8,6             9,9              1,3             1,5             15,4%
+    Import prestacions / PIB                 0,012%         0,038%          0,076%           0,013%          0,011%           -13,4%
+    Import prestacions / Despesa Govern*      0,08%          0,18%           0,40%            0,08%           0,06%           -25,1%
+    Nota: la despesa de Govern de l’any 2023 correspon al pressupost de despeses.
+
+
+
+
+    NP_A052_20240606                                                                                              Pàgina 2 de 11
+             A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+2    Nombre de sol·licituds d’ajuts per desocupació involuntària favorables i desfavorables
+
+
+    Durant l’any 2023, el 58,3% de les sol·licituds presentades s’han resolt de manera favorable,
+    mentre que el 41,7% han obtingut una resolució desfavorable.
+
+
+
+                              Exercici                               2023
+                              Resolució         Sol·licituds   % Sol·licituds   Import liquidat
+                  Desfavorable                     50             41,7%
+                  Favorable                        70             58,3%             0,00 €
+                  Total                            120            100%              0,00 €
+
+
+
+
+                                          Sol·licituds per resolució
+
+
+
+
+                                                                 50
+                                                70              41,7%
+                                               58,3%
+
+
+
+
+                                            Desfavorable       Favorable
+
+
+
+
+    NP_A052_20240606                                                                          Pàgina 3 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+3    Nombre de sol·licituds favorables per tipus de família
+
+
+    Les famílies unipersonals són les que s’han beneficiat en major proporció dels ajuts per
+    desocupació involuntària amb un total de 28 ajuts, equivalents al 40,0% del total, seguides de les
+    famílies monoparentals amb 14 ajuts (20,0%), les nuclears amb 9 ajuts (12,9%) i les parelles amb
+    6 ajuts (8,6% del total).
+
+
+
+                                            Exercici                     2023
+                                        Tipus de Familia         Ajuts          % Ajuts
+                              Unipersonal                         28            40,0%
+                              Nuclear                              9            12,9%
+                              Monoparental                        14            20,0%
+                              Parella                              6             8,6%
+                              Pare - Mare / Fills > 25 anys        3             4,3%
+                              Extensa                              3             4,3%
+                              Reconstituïda                        1             1,4%
+                              Fills +45 amb pares +65              4             5,7%
+                              Nombrosa                             1             1,4%
+                              Altres                               1             1,4%
+                              Total                               70            100%
+
+
+
+
+                                          Ajuts favorables per tipus de família
+
+                                                   1,4% 1,4%
+                                            5,7%
+                                  1,4%
+                               4,3%                              40,0%
+                                                                                Unipersonal
+
+                         4,3%                                                   Nuclear
+                                                                                Monoparental
+                                                                                Parella
+                       8,6%
+                                                                                Pare - Mare / Fills > 25 anys
+                                                                                Extensa
+                                                                                Reconstituïda
+                                                                                Fills +45 amb pares +65
+                                                                                Nombrosa
+                          20,0%
+                                                                                Altres
+
+                                                         12,9%
+
+
+
+
+    NP_A052_20240606                                                                                  Pàgina 4 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+4    Nombre d’ajuts per parròquia
+
+
+    Segons la parròquia de residència de la persona sol·licitant, la majoria dels beneficiaris dels ajuts
+    residien a Andorra la Vella (21 ajuts, 30,0%), seguits dels que residien a Escaldes-Engordany (19
+    ajuts, 27,1%), Encamp (11 ajuts, 15,7%), La Massana (10 ajuts, 14,3%), Sant Julià de Lòria (4
+    ajuts, 5,7%), Canillo (3 ajuts, 4,3%) i Ordino (2 ajuts, 2,9%).
+
+
+
+                                  Exercici                                2023
+                                  Parròquia                Ajuts        % Ajuts   % Població
+                      Canillo                               3            4,3%          6,8%
+                      Encamp                                11          15,7%         15,1%
+                      Ordino                                 2           2,9%          6,4%
+                      La Massana                            10          14,3%         13,6%
+                      Andorra la Vella                      21          30,0%         28,3%
+                      Sant Julià de Lòria                    4           5,7%         11,7%
+                      Escaldes-Engordany                    19          27,1%         18,2%
+                      Total                                 70          100%          100%
+
+
+
+
+                                                 Ajuts favorables per parròquia
+                 25
+
+                                                                           21
+                 20                                                                            19
+
+
+
+                 15
+
+                                            11
+                                                                   10
+                 10
+
+
+
+                  5                                                               4
+                              3
+                                                       2
+
+                  0
+
+
+
+
+    NP_A052_20240606                                                                            Pàgina 5 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+5    Ajuts per nacionalitat
+
+
+    Segons la nacionalitat dels beneficiaris, un 42,9% eren de nacionalitat andorrana, seguits dels
+    espanyols amb el 35,7% dels ajuts. El 10,0% dels ajuts s’han destinat a persones d’altres
+    nacionalitats, el 8,6% a persones de nacionalitat portuguesa i el 2,9% a persones de nacionalitat
+    francesa.
+
+
+
+                                   Exercici                                2023
+                         Nacionalitat agrupada            Ajuts          % Ajuts         % Població
+                     Andorrana                             30            42,9%             45,8%
+                     Espanyola                             25            35,7%             24,0%
+                     Portuguesa                            6              8,6%             10,2%
+                     Francesa                              2              2,9%              4,5%
+                     Altres                                7             10,0%             15,5%
+                     Total                                 70            100%              100%
+
+
+
+
+                                              Ajuts favorables per nacionalitat
+                35
+
+                              30
+                30
+
+                                                 25
+                25
+
+
+                20
+
+
+                15
+
+
+                10
+                                                                                                   7
+                                                                  6
+                 5
+                                                                                   2
+
+                 0
+                          Andorrana           Espanyola     Portuguesa        Francesa         Altres
+
+
+
+
+    NP_A052_20240606                                                                                    Pàgina 6 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+6    Ajuts per sexe i nombre de fills a càrrec
+
+
+    Quant al sexe i nombre de fills a càrrec, la major part dels ajuts han anat destinat a homes sense
+    fills (37,1%) i dones sense fills (25,7%), seguit de les dones amb 1 fill al seu càrrec (21,4%) i els
+    homes amb 2 fills al seu càrrec (7,1%).
+
+
+
+                                          Exercici                                                         2023
+
+                                  Sexe                        Nombre de fills              Ajuts                  % Ajuts
+
+                                                          Sense fills                       18                    25,7%
+                                                          1 fill                            15                    21,4%
+                      Femení                              2 fills                            0                     0,0%
+                                                          3 fills                            3                     4,3%
+                                                          4 fills o més                      1                     1,4%
+                      Subtotal: Femení                                                      37                    52,9%
+                                                          Sense fills                       26                    37,1%
+                                                          1 fill                             2                     2,9%
+                      Masculí                             2 fills                            5                     7,1%
+                                                          3 fills                            0                     0,0%
+                                                          4 fills o més                      0                     0,0%
+                      Subtotal: Masculí                                                     33                    47,1%
+                      Total                                                                 70                    100%
+
+
+
+
+                              Ajuts favorables per sexe i nombre de fills a càrrec
+                 30
+
+                                  26
+                 25
+
+
+
+                 20
+                          18
+
+                                            15
+                 15
+
+
+
+                 10
+
+
+                                                                                      5
+                  5
+                                                                                                 3
+                                                          2
+                                                                                                                     1
+                  0
+                          Sense fills            1 fill                     2 fills                  3 fills        4 fills o més
+
+
+                                                                   Femení             Masculí
+
+
+
+
+    NP_A052_20240606                                                                                                         Pàgina 7 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+7    Ajuts per sexe i nacionalitat
+
+
+    Segons el sexe i la nacionalitat, la major part dels ajuts han anat destinats a homes de nacionalitat
+    andorrana (22,9%), dones de nacionalitat andorrana (20,0%), dones de nacionalitat espanyola
+    (18,6%) i homes de nacionalitat espanyola (17,1%).
+
+
+
+                                Exercici                                                2023
+                                                     Nacionalitat
+                                  Sexe                                       Ajuts             % Ajuts
+                                                      agrupada
+                                                   Andorrana                  14               20,0%
+                                                   Espanyola                  13               18,6%
+                                Femení             Portuguesa                  5                7,1%
+                                                   Francesa                    1                1,4%
+                                                   Altres                      4                5,7%
+                      Subtotal: Femení                                        37               52,9%
+                                                   Andorrana                  16               22,9%
+                                                   Espanyola                  12               17,1%
+                                Masculí            Portuguesa                  1                1,4%
+                                                   Francesa                    1                1,4%
+                                                   Altres                      3                4,3%
+                      Subtotal: Masculí                                       33               47,1%
+                      Total                                                   70               100%
+
+
+
+
+                                         Ajuts favorables per sexe i nacionalitat
+                 18
+                                 16
+                 16
+                          14
+                 14                         13
+                                                  12
+                 12
+
+                 10
+
+                  8
+
+                  6                                           5
+                                                                                                  4
+                  4                                                                                            3
+
+                  2                                                  1             1     1
+
+                  0
+                          Andorrana         Espanyola         Portuguesa           Francesa           Altres
+
+
+                                                            Femení         Masculí
+
+
+
+
+    NP_A052_20240606                                                                                           Pàgina 8 de 11
+              A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+8    Ajuts per sexe i edat
+
+
+    Quant al sexe i l’edat, destaquen els ajuts atorgats als homes d’entre 51 i 55 anys (15,7%), així
+    com als de 61 a 65 anys (14,3%). Quant a les dones, destaca el grup de 51 a 55 anys (11,4% del
+    total d’ajuts).
+
+
+
+                                 Exercici                                                   2023
+                                  Sexe               Trams Edat                 Ajuts              % Ajuts
+                                                        18-25 anys                  0               0,0%
+                                                        26-30 anys                  1               1,4%
+                                                        31-35 anys                  5               7,1%
+                                                        36-40 anys                  4               5,7%
+                                 Femení                 41-45 anys                  5               7,1%
+                                                        46-50 anys                  5               7,1%
+                                                        51-55 anys                  8              11,4%
+                                                        56-60 anys                  2               2,9%
+                                                        61-65 anys                  7              10,0%
+                     Subtotal: Femení                                              37              52,9%
+                                                        18-25 anys                  1               1,4%
+                                                        26-30 anys                  2               2,9%
+                                                        31-35 anys                  1               1,4%
+                                                        36-40 anys                  1               1,4%
+                                 Masculí                41-45 anys                  0               0,0%
+                                                        46-50 anys                  5               7,1%
+                                                        51-55 anys                 11              15,7%
+                                                        56-60 anys                  2               2,9%
+                                                        61-65 anys                 10              14,3%
+                     Subtotal: Masculí                                             33              47,1%
+                     Total                                                         70              100%
+
+
+
+
+                                         Ajuts favorables per sexe i grup d'edat
+                12
+                                                                                            11
+                                                                                                                  10
+                10
+
+                                                                                        8
+                 8
+                                                                                                             7
+
+
+                 6
+                                            5                    5          5      5
+                                                    4
+                 4
+
+                                      2                                                            2   2
+                 2
+                             1    1             1         1
+
+
+                 0
+                       18-25      26-30     31-35   36-40        41-45       46-50      51-55      56-60     61-65
+                       anys       anys      anys    anys         anys        anys       anys       anys      anys
+
+
+                                                        Femení           Masculí
+
+
+
+
+    NP_A052_20240606                                                                                             Pàgina 9 de 11
+                A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+9       Nota metodològica
+
+
+    •     Citació: per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+          preguem citeu: “Dades del Departament d’Afers Socials, tractades pel Departament
+          d’Estadística per a la Nota de Premsa ref. NP_A052_20240606”.
+
+    •     Font: Registre de prestacions d’atenció social i ajuts econòmics ocasionals, del Ministeri
+          d'Afers Socials i Funció Pública.
+
+    •     Nota: les dades de la despesa de Govern es revisen de forma anual un cop tancada la
+          Liquidació de despeses, doncs les dades de l’any de tractament corresponen al Pressupost de
+          despeses.
+
+    •     Nota: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+          desplegament en el Programa estadístic per a l’any 2024, el present informe dóna resposta a
+          l’activitat estadística:
+
+                        - A052: Estadística de prestacions de desocupació involuntària
+
+    •     Legislació:
+
+         1. Decret legislatiu del 30-05-2018 de publicació del text refós de la Llei 6/2014, del 24
+            d'abril, de serveis socials i sociosanitaris
+         2. Decret del 7-10-2020 d'aprovació del Reglament de les prestacions econòmiques de
+            serveis socials i sociosanitaris
+
+    •    Definicions:
+    Prestacions socials per desocupació involuntària
+    1. Concepte i objectiu. La prestació econòmica per desocupació involuntària és atorgada pel
+    Govern d’Andorra a favor dels treballadors que han quedat en situació de desocupació involuntària
+    i que es comprometen a participar en accions de formació i capacitació laboral i a acceptar les
+    propostes adequades de treball.
+    Es considera desocupació involuntària la situació en què es troba el treballador que tot i voler i
+    poder treballar perd la feina totalment, de forma aliena a la seva voluntat. No es considera
+    desocupació involuntària l’originada pel desistiment unilateral del treballador sense motiu justificat i
+    la resolució del contracte per mutu acord de les parts.
+    En el supòsit d’acomiadament per causa disciplinària del treballador, perquè aquest es pugui
+    beneficiar de la prestació haurà de provar que ha impugnat el seu acomiadament davant l’òrgan
+    judicial competent. En el supòsit que l’acomiadament sigui declarat justificat per sentència ferma,
+    el treballador perd automàticament el dret a continuar percebent la prestació, així com les
+    expectatives de cobrament en situacions de desocupació futures per les que es pugui veure
+    afectat, pel temps durant el qual s’hagi beneficiat incorrectament de la prestació.
+    La prestació consisteix en una ajuda econòmica adreçada a l’atenció de les necessitats bàsiques i
+    a l’accés a serveis i activitats essencials del treballador i la seva família, en els termes establerts
+    en el present capítol.
+
+    2. Beneficiaris: són les persones i les unitats familiars que es troben en una situació de precarietat
+    o de risc i compleixen els requisits generals i els específics que estableix la normativa vigent.
+
+    Tipus de llars:
+
+    1. Extensa: nucli familiar compost per membres de primer i/o segon i/o tercer grau de
+       consanguinitat i afinitat.
+    2. Monoparental: nucli compost per pare o mare amb fills a càrrec (fins a 25 anys si estudien o
+       fills amb discapacitat sempre).
+    3. Nombrosa: nucli familiar compost per pare i mare amb tres fills a càrrec.
+    4. Nuclear: nucli familiar compost per pare i mare amb fills a càrrec.
+
+    NP_A052_20240606                                                                     Pàgina 10 de 11
+               A052. Estadística de prestacions per desocupació involuntària. Any 2023
+
+
+     5. Pare - Mare / Fills > 25 anys: Nucli familiar compost per pare i mare amb fills a càrrec majors
+        de 25 anys.
+     6. Parella: nucli familiar compost per una parella.
+     7. Unipersonal: nucli familiar compost per una persona sola
+     8. Reconstituïda: dos adults, amb o sense fills, que provenen d’un nucli familiar diferent i
+        s’ajunten per formar un de nou.
+     9. Fills +45 amb pares +65: nucli familiar format per pare i mare majors de 65 anys amb fills a
+        càrrec majors de 45 anys.
+
+      • Contactes. Per estar informat en qualsevol moment de les noves publicacions us podeu
+        inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de
+        les notes de premsa d’aquest tema: www.estadistica.ad.
+
+         Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+         Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+     ______________________________________________________________________________
+
+
+10    Dates de les publicacions previstes
+
+        Nota de premsa A052. Estadística de prestacions per desocupació involuntària. 1r semestre
+        2024: 3r trimestre del 2024
+
+
+
+
+     NP_A052_20240606                                                                 Pàgina 11 de 11
+

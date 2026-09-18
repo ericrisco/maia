@@ -1,0 +1,715 @@
+                                 A024. Estadística de pre-ensenyament superior.
+                                   A025. Estadística de formació professional.
+                                                 Curs 2023/2024
+                                       Data de publicació: dilluns, 18/11/2024
+                                                www.estadistica.ad
+
+
+         Resum
+
+         El nombre d’estudiants escolars que han finalitzat el curs acadèmic 2023/2024 s’ha situat en 11.372,
+         el que suposa un augment del 0,6% respecte als que van finalitzar el curs 2022/2023, que van ser
+         11.300.
+
+         Per nivell d’ensenyament, hi ha un increment d’alumnes en els nivells de segona ensenyança (83
+         alumnes més, un +2,4%) i batxillerat (+117 alumnes, un +10,6%). Per contra, el nombre d’alumnes
+         disminueix en els nivells de maternal (-57 alumnes, un -2,9%), primera ensenyança (53 alumnes
+         menys, un -1,2%) i formació professional (18 alumnes menys, un -3,4%).
+
+         Quant al sistema educatiu, en comparació amb el curs acadèmic anterior, el nombre d’estudiants
+         escolars del sistema educatiu andorrà augmenta un 0,8% i se situa en els 4.700 alumnes, en el
+         sistema educatiu espanyol augmenten un 3,6% i se situa en els 3.047 alumnes, en el francès
+         disminueixen un 2,9% (3.373 alumnes) i, finalment, cal destacar el sistema anglès que, amb 252
+         alumnes, acumula el cinquè any de creixement consecutiu (+13,5%).
+
+         Per nacionalitats, en el curs acadèmic 2023/2024, el nombre d’estudiants escolars amb nacionalitat
+         diferent a l’andorrana, l’espanyola, la francesa i la portuguesa augmenta el seu número d’alumnes
+         un 17,2% i se situa en 1.504. Els escolars de nacionalitat francesa són 249 i augmenten un 10,7%,
+         els de nacionalitat espanyola són 1.247 i augmenten un 1,7% respecte al curs 2022/2023, mentre
+         que els escolars de nacionalitat portuguesa són 206 i disminueixen un 12,3% i els de nacionalitat
+         andorrana, que disminueixen un 2,0%, són 8.166.
+
+
+
+
+NP_A024-A025_20241118                                                                                Pàgina 1 de 14
+                                        A024. Estadística de pre-ensenyament superior.
+                                  A025. Estadística de formació professional. Curs 2023/2024
+
+
+         Índex
+
+         1. Centres escolars ......................................................................................................................... 3
+         2. Estudiants escolars .................................................................................................................... 3
+         2.1.   Estudiants escolars per sexe ................................................................................................. 4
+         2.2.   Estudiants escolars per nacionalitat ....................................................................................... 4
+         2.3.   Estudiants escolars per sistema educatiu .............................................................................. 5
+         2.4.   Estudiants escolars per nivell educatiu .................................................................................. 6
+         2.4.1.   Especialitats dels alumnes de batxillerat i formació professional ...................................... 7
+         3. Mobilitat escolar per parròquies ................................................................................................. 9
+         3.1.   Mobilitat escolar per parròquies. Primera ensenyança .......................................................... 9
+         3.2.   Mobilitat escolar per parròquies. Segona ensenyança ........................................................ 11
+         4. Distribucions per nivell educatiu ............................................................................................... 13
+         5. Nota Metodològica.................................................................................................................... 14
+         6. Dates de les publicacions previstes ......................................................................................... 14
+
+
+
+
+NP_A024-A025_20241118                                                                                                                        Pàgina 2 de 14
+                                  A024. Estadística de pre-ensenyament superior.
+                            A025. Estadística de formació professional. Curs 2023/2024
+
+
+             1. Centres escolars
+
+         A Andorra cohabiten 3 sistemes educatius: l’andorrà, el francès, l’espanyol. A més, hi ha un centre
+         escolar anglès.
+
+         El sistema andorrà disposa de 13 centres educatius, de maternal, de primera i segona ensenyança,
+         de batxillerat i de formació professional (considerant el Centre de Formació Professional, amb dos
+         edificis separats, com un únic centre educatiu). El sistema educatiu francès disposa de 12 centres
+         (considerant el Lycée Comte de Foix, amb dos edificis separats, com un únic centre educatiu) i el
+         sistema educatiu espanyol en disposa de 5 (considerant el col·legi espanyol María Moliner, amb dos
+         edificis separats, com un únic centre educatiu). A més, hi ha un centre escolar anglès.
+
+
+                                                                                                                Rati
+                                  Centres per sistema              Centres                 Alumnes
+                                                                                                           Alumnes/Centre
+                                  Andorrà                             13                      4.700             362
+                                  Francès                             12                      3.373             281
+                                  Espanyol                             5                      3.047             609
+                                  Anglès *                             1                       252              252
+                                  Total                               31                     11.372             367
+                                  * El centre anglès no es considera dins de cap dels sistemes escolars.
+
+
+
+
+             2. Estudiants escolars
+
+         El nombre d’estudiants escolars que han finalitzat el curs acadèmic 2023/2024 s’ha situat en els
+         11.372, un augment del 0,6% (+72 estudiants) respecte als que van finalitzar el curs 2022/2023, que
+         van ser 11.300. D’aquestes dades és desprèn que el 13,4% del total de la població d’Andorra està
+         cursant estudis no universitaris.
+
+         En el següent gràfic s’observa l’evolució del nombre d’estudiants escolars: des del curs 2013/2014
+         hi ha una tendència positiva que es manté fins al curs 2017/2018, moment en el què comença una
+         tendència negativa que dura fins al curs 2021/2022. En aquests darrers dos cursos acadèmics,
+         degut a la inclusió dels escolars pendents d’alguns tràmits d’inscripció, la xifra d’estudiants escolars
+         ha augmentat notablement.
+
+
+
+                                              Evolució dels estudiants escolars per curs
+                12.000
+
+                11.750
+
+                11.500                                                                                                      11.372
+
+                11.250
+
+                11.000
+
+                10.750   10.837
+                10.500
+
+                10.250
+
+                10.000
+
+
+
+
+NP_A024-A025_20241118                                                                                                                Pàgina 3 de 14
+                                       A024. Estadística de pre-ensenyament superior.
+                                 A025. Estadística de formació professional. Curs 2023/2024
+
+
+             2.1. Estudiants escolars per sexe
+
+         Per sexe, la distribució dels alumnes en centres escolars andorrans s’ha mantingut estable en els
+         darrers anys, i en el curs 2023/2024 se situa en 5.837 nois (51,3%) i 5.535 noies (48,7%).
+
+
+                                                                                                                  Distribució
+                        Escolars per sexe      2019/2020     2020/2021   2021/2022   2022/2023   2023/2024
+                                                                                                                  2023/2024
+                        Nois                     5.647         5.619       5.624       5.821         5.837             51,3%
+                        Noies                    5.332         5.291       5.263       5.479         5.535             48,7%
+                        Total                   10.979         10.910     10.887      11.300         11.372            100,0%
+
+
+
+             2.2. Estudiants escolars per nacionalitat
+
+         Per nacionalitats, en el curs acadèmic 2023/2024 i respecte al curs anterior, el nombre d’estudiants
+         escolars amb nacionalitat diferent a l’andorrana, l’espanyola, la francesa i la portuguesa augmenta
+         el seu número d’alumnes un 17,2% i se situa en 1.504. Els escolars de nacionalitat francesa són
+         249 i augmenten un 10,7%, els de nacionalitat espanyola són 1.247 i augmenten un 1,7%, mentre
+         que els escolars de nacionalitat portuguesa són 206 i disminueixen un 12,3% i els de nacionalitat
+         andorrana, que disminueixen un 2,0%, són 8.166. Quant a la distribució d’alumnes, el 71,8% dels
+         escolars són de nacionalitat andorrana, el 13,2% d’altres nacionalitats, l’11,0% de nacionalitat
+         espanyola, el 2,2% portuguesa i l’1,8% restant de nacionalitat francesa.
+
+
+                        Escolars per                                                                              Distribució
+                                               2019/2020     2020/2021   2021/2022   2022/2023   2023/2024
+                        nacionalitat                                                                              2023/2024
+                        Andorrana                8.730         8.735       8.560       8.331         8.166             71,8%
+                        Espanyola                1.147         1.140       1.192       1.226         1.247             11,0%
+                        Francesa                     256        228         228         225           249              2,2%
+                        Portuguesa                   392        316         272         235           206              1,8%
+                        Altres                       454        491         635        1.283         1.504             13,2%
+                        Total                   10.979         10.910     10.887      11.300         11.372            100,0%
+
+
+
+
+                                       Evolució dels estudiants escolars per nacionalitat
+                100%
+                 90%
+                 80%
+                 70%
+                 60%
+                 50%
+                 40%
+                 30%
+                 20%
+                 10%
+                  0%
+
+
+
+
+                                         Andorrana         Espanyola     Francesa       Portuguesa            Altres
+
+
+
+
+NP_A024-A025_20241118                                                                                                           Pàgina 4 de 14
+                                     A024. Estadística de pre-ensenyament superior.
+                               A025. Estadística de formació professional. Curs 2023/2024
+
+
+             2.3. Estudiants escolars per sistema educatiu
+
+         Per sistema educatiu, en comparació amb el curs acadèmic anterior, el nombre d’estudiants escolars
+         del sistema educatiu andorrà augmenta un 0,8% i se situa en 4.700 alumnes, en el sistema educatiu
+         espanyol augmenten un 3,6% i se situa en 3.047 alumnes, en el francès disminueixen un 2,9%
+         (3.373 alumnes) i, finalment, cal destacar el sistema anglès que, amb 252 alumnes, acumula el
+         cinquè any de creixement consecutiu (+13,5%).
+
+         En el sistema educatiu andorrà estudien el 41,3% dels estudiants del Principat, seguit del sistema
+         educatiu francès amb el 29,7%, el sistema educatiu espanyol amb el 26,8% i el sistema educatiu
+         anglès amb un 2,2%.
+
+
+                                                                                                             Distribució
+                    Escolars per sistema    2019/2020   2020/2021     2021/2022    2022/2023   2023/2024
+                                                                                                             2023/2024
+                    Andorrà                   4.529       4.521         4.503        4.662       4.700         41,3%
+                    Francès                   3.525       3.463         3.443        3.474       3.373         29,7%
+                    Espanyol                  2.840       2.814         2.766        2.942       3.047         26,8%
+                    Anglès                     85         112           175           222        252            2,2%
+                    Total                     10.979     10.910        10.887        11.300     11.372         100,0%
+
+
+
+                                  Evolució dels estudiants escolars per sistema educatiu
+                5.000
+                4.500
+                4.000
+                3.500
+                3.000
+                2.500
+                2.000
+                1.500
+                1.000
+                 500
+                   0
+
+
+
+
+                                           Andorrà          Francès               Espanyol          Anglès
+
+
+
+
+NP_A024-A025_20241118                                                                                                      Pàgina 5 de 14
+                                       A024. Estadística de pre-ensenyament superior.
+                                 A025. Estadística de formació professional. Curs 2023/2024
+
+
+             2.4. Estudiants escolars per nivell educatiu
+
+         Per nivells d’ensenyament, el nombre d’escolars a maternal disminueix en 57 alumnes en el curs
+         acadèmic 2023/2024 i se situa en 1.909, un 2,9% menys dels que van finalitzar el curs anterior. El
+         nombre d’estudiants de primera ensenyança disminueix un 1,2% i se situa en 4.218 estudiants. Pel
+         que fa a la segona ensenyança, el nombre d’estudiants ha augmentat un 2,4% i se situa en 3.505.
+
+         Pel que fa als nivells d’ensenyament post obligatoris, el batxillerat augmenta en 117 persones, amb
+         un total de 1.225 estudiants. Per contra, la formació professional ha disminuït el nombre d’estudiants
+         un 3,4%, finalitzant el curs amb 515.
+
+
+                                                                                                                    Distribució
+                        Escolars per nivell         2019/2020   2020/2021      2021/2022   2022/2023    2023/2024
+                                                                                                                    2023/2024
+                        Maternal                      2.097       1.997          1.896         1.966      1.909       16,8%
+                        Primera ensenyança            4.246       4.110          4.099         4.271      4.218       37,1%
+                        Segona ensenyança             3.083       3.158          3.226         3.422      3.505       30,8%
+                        Batxillerat                   1.050       1.122          1.106         1.108      1.225       10,8%
+                        Formació Professional         503         523             560           533       515          4,5%
+                        Total                        10.979      10.910         10.887         11.300    11.372       100,0%
+
+
+
+
+                                         Evolució dels estudiants escolars per nivell educatiu
+                4.500
+                4.000
+                3.500
+                3.000
+                2.500
+                2.000
+                1.500
+                1.000
+                 500
+                   0
+
+
+
+
+                                      Maternal                            Primera ensenyança              Segona ensenyança
+                                      Batxillerat                         Formació Professional
+
+
+
+
+NP_A024-A025_20241118                                                                                                             Pàgina 6 de 14
+                                   A024. Estadística de pre-ensenyament superior.
+                             A025. Estadística de formació professional. Curs 2023/2024
+
+
+             2.4.1. Especialitats dels alumnes de batxillerat i formació professional
+
+         Pel que fa a les especialitats dels estudiants de batxillerat dels tres sistemes educatius que
+         l’ofereixen, s’aprecia com en el curs escolar 2023/2024 hi ha un total de 1.225 estudiants de
+         batxillerat, repartits de la següent manera: 461 al sistema educatiu andorrà, 397 a l’espanyol, 353 al
+         francès i 14 a l’anglès.
+
+         En el sistema andorrà, hi ha 13 estudiants que realitzen l’especialitat internacional. La resta
+         d’alumnes no està matriculat a cap especialitat, ja que l’estructura actual del nivell educatiu no està
+         configurada per especialitats. Aquest canvi va entrar en vigor a partir del curs 2020/2021.
+
+         En el sistema educatiu espanyol, més de la meitat dels estudiants estudien l’especialitat humanística
+         i/o social amb 207 alumnes.
+
+         Pel que fa al sistema francès, 40 estudiants realitzen l’especialitat SMTG. La resta d’estudiants, 313,
+         no realitzen cap especialitat.
+
+         Per últim, hi ha 14 estudiants al sistema anglès que no estan matriculats a cap especialitat.
+
+
+                     Escolars per sistema educatiu i especialitat.
+                                                                     2019/2020 2020/2021 2021/2022 2022/2023 2023/2024
+                     Batxillerat
+
+                                   Artístic i de la comunicació         0          0         0         0         0
+
+
+                                   Científic / Tecnològic               0          0         0         0         0
+
+
+                                   Econòmic i Social                    0          0         0         0         0
+                        Andorrà
+                                   Humanístic / Lingüístic              0          0         0         0         0
+
+
+                                   Internacional                        0          0         1         5        13
+
+
+                                   Cap                                 407       441        441       430       448
+
+
+                                   Científic / Tecnològic              151       154        153       132       190
+                        Espanyol
+                                   Humanístic / Social                 187       193        170       208       207
+
+
+                                   Científic                            39         0         0         0         0
+
+
+                                   Econòmic i Social                    22         0         0         0         0
+
+
+                                   Lingüístic                           20         0         0         0         0
+                        Francès
+                                   SMTG (Sciences et Technologies
+                                                                        33        38        44        44        40
+                                   du Management et de la Gestion)
+
+                                   Altres                               0          0         0         0         0
+
+
+                                   Cap                                 191       296        297       289       313
+
+
+                         Anglès    Cap                                             0         0         0        14
+
+
+                     Total                                            1.050      1.122     1.106     1.108     1.225
+
+
+
+
+NP_A024-A025_20241118                                                                                                    Pàgina 7 de 14
+                                     A024. Estadística de pre-ensenyament superior.
+                               A025. Estadística de formació professional. Curs 2023/2024
+
+
+         Pel que fa als estudiants de formació professional, més de la meitat dels 515 estudiants realitzen
+         els seus estudis al sistema educatiu andorrà (312). D’aquests, la família professional més
+         demandada és la d’Activitats físiques esportives i de lleure amb 79 estudiants, seguida de Sanitari i
+         social amb 63 alumnes i Microinformàtica i xarxes i Secretariat multilingüe, ambdues amb 30
+         alumnes.
+
+         Quant al sistema educatiu francès, 203 alumnes estan cursant formació professional i l’especialitat
+         amb major nombre d’alumnes és la de Comerç i vendes amb 64 alumnes, seguida de Gestió
+         administrativa amb 48 alumnes i d’Electrònica amb 30 alumnes. Cal destacar els 23 alumnes
+         matriculats a Assistent gestion, que estan inclosos al grup Altres.
+
+
+                    Escolars per sistema educatiu i especialitat.
+                                                                        2019/2020 2020/2021 2021/2022 2022/2023 2023/2024
+                    Formació Professional
+                                  Activitats físiques esportives i de
+                                                                           89       105        105       89        79
+                                  lleure
+
+                                  Animació socioeducativa                  15        15        20        12         0
+
+
+                                  Estètica, cosmètica i perfumeria         20        20        13         2         0
+
+
+                    Andorrà       Microinformàtica i xarxes                55        53        64        51        30
+
+
+                                  Sanitari i social                        42        56        16        58        63
+
+
+                                  Secretariat multilingüe                  38        38        40        34        30
+
+
+                                  Sistemes informàtics i xarxes            12        17        13         9        25
+
+
+                                  Altres                                   0         0         77        79        85
+
+
+                    Espanyol      Gestió administrativa                    0         0          0         0         0
+
+                                  ATMFC - Assistant Technique en
+                                                                           19        18        10        11         4
+                                  Milieu Familial et Collectif
+
+                                  Comerç i vendes                          60        53        24        56        64
+
+
+                                  Cuina                                    23        15        11        10        10
+
+
+                        Francès   Electrònica                              33        35        33        31        30
+
+
+                                  Gestió administrativa                    82        81        28        23        48
+
+
+                                  Restauració                              15        17         8         4         6
+
+
+                                  Altres                                   0         0         98        64        41
+
+
+                    Total                                                 503       523        560       533       515
+
+
+
+
+NP_A024-A025_20241118                                                                                                       Pàgina 8 de 14
+                                 A024. Estadística de pre-ensenyament superior.
+                           A025. Estadística de formació professional. Curs 2023/2024
+
+
+             3. Mobilitat escolar per parròquies
+
+         Analitzant la parròquia de residència i la parròquia del centre d’estudis, es pot elaborar un diagrama
+         de Sankey que permet visualitzar el moviment dels escolars per anar al seu centre d’estudis.
+
+
+             3.1. Mobilitat escolar per parròquies. Primera ensenyança
+
+         Pel que fa als estudiants de primera ensenyança, un 33,3% dels alumnes es desplacen a centres
+         educatius localitzats en diferents parròquies de la que resideixen i el 66,7% restant es desplacen a
+         centres educatius de la mateixa parròquia on resideixen. Entre els estudiants de primera
+         ensenyança que es desplacen a estudiar a altres parròquies, destaquen un 41,3% que es desplaça
+         a Andorra la Vella i un 34,7% que es desplaça a Escaldes-Engordany.
+
+
+
+
+NP_A024-A025_20241118                                                                                  Pàgina 9 de 14
+                                 A024. Estadística de pre-ensenyament superior.
+                           A025. Estadística de formació professional. Curs 2023/2024
+
+
+         De la taula inferior se’n destaca que tres de cada quatre estudiants de primera ensenyança residents
+         a les parròquies d’Ordino, Andorra la Vella i Escaldes-Engordany estudien en un centre escolar de
+         la mateixa parròquia, mentre que un de cada quatre estudia en una parròquia diferent de la que
+         resideix. En el cas de la parròquia de Canillo la proporció dels que estudien a la mateixa parròquia
+         augmenta fins a quatre de cada cinc estudiants.
+
+         Quant a les parròquies d’Encamp, La Massana i Sant Julià de Lòria, aproximadament dos de cada
+         tres estudiants estudien en la mateixa parròquia en la què resideixen, mentre que un de cada tres
+         ho fa en una parròquia diferent.
+
+
+                                                               Localització del centre d'estudis
+
+                                                         Mateixa                  Altres
+                                                                        %                      %      Total     %
+                                                        parròquia               parròquies
+
+                                        Canillo           178         80,2%         44       19,8%    222     100,0%
+
+
+                                       Encamp             397         70,9%        163       29,1%    560     100,0%
+
+
+                                        Ordino            252         73,5%         91       26,5%    343     100,0%
+
+
+                                     La Massana           350         63,5%        201       36,5%    551     100,0%
+                    Residència
+                                    Andorra la Vella      838         73,4%        303       26,6%    1.141   100,0%
+
+
+                                  Sant Julià de Lòria     288         60,0%        192       40,0%    480     100,0%
+
+
+                                  Esclades Engordany      511         73,2%        187       26,8%    698     100,0%
+
+
+                                     Desconeguda           0           0,0%        223       100,0%   223     100,0%
+
+
+                                         Total           2.814         66,7%      1.404      33,3%    4.218   100,0%
+
+
+
+
+NP_A024-A025_20241118                                                                                                  Pàgina 10 de 14
+                                A024. Estadística de pre-ensenyament superior.
+                          A025. Estadística de formació professional. Curs 2023/2024
+
+
+             3.2. Mobilitat escolar per parròquies. Segona ensenyança
+
+
+         Pel que fa als estudiants de segona ensenyança, un 63,8% dels estudiants es desplacen a centres
+         educatius d’una parròquia diferent a la que resideixen i el 36,2% restant es desplacen a centres
+         educatius de la mateixa parròquia en la que resideixen. Entre els estudiants de segona ensenyança
+         que es desplacen a estudiar a altres parròquies, un 67,2% es desplaça a Andorra la Vella.
+
+
+
+
+NP_A024-A025_20241118                                                                            Pàgina 11 de 14
+                                    A024. Estadística de pre-ensenyament superior.
+                              A025. Estadística de formació professional. Curs 2023/2024
+
+
+         De la taula inferior se’n destaca que nou de cada deu estudiants de segona ensenyança residents
+         a la parròquia d’Andorra la Vella estudien en un centre escolar de la mateixa parròquia, mentre que
+         un de cada deu es desplaça a un centre escolar d’una parròquia diferent.
+
+         Quant als residents d’altres parròquies, destaca com tots els estudiants de segona ensenyança
+         residents a Canillo i Sant Julià de Lòria es desplacen a un centre escolar d’una altra parròquia.
+
+
+                                                                  Localització del centre d'estudis
+
+                                                            Mateixa                 Altres
+                                                                           %                      %     Total     %
+                                                           parròquia              parròquies
+
+                                           Canillo            0          0,0%        175       100,0%   175     100,0%
+
+
+                                          Encamp             221         45,3%       267        54,7%   488     100,0%
+
+
+                                           Ordino            132         49,4%       135        50,6%   267     100,0%
+
+
+                                        La Massana            52         10,5%       445        89,5%   497     100,0%
+                        Residència
+                                       Andorra la Vella      812         89,7%        93        10,3%   905     100,0%
+
+
+                                     Sant Julià de Lòria      0          0,0%        415       100,0%   415     100,0%
+
+
+                                     Esclades Engordany       52         9,0%        527        91,0%   579     100,0%
+
+
+                                        Desconeguda           0          0,0%        179       100,0%   179     100,0%
+
+
+                                            Total           1.269        36,2%       2.236      63,8%   3.505   100,0%
+
+
+
+
+NP_A024-A025_20241118                                                                                                    Pàgina 12 de 14
+                                        A024. Estadística de pre-ensenyament superior.
+                                  A025. Estadística de formació professional. Curs 2023/2024
+
+
+              4. Distribucions per nivell educatiu
+
+                                                                    Primera      Segona                    Formació
+          Escolars per Parròquia dels centres          Maternal                             Batxillerat                  Total
+                                                                  Ensenyança   Ensenyança                 professional
+          Canillo                                        108         222           0            0              0          330
+          Encamp                                         227         452          498           0              0         1.177
+          Ordino                                         147         330          443           0              0          920
+          La Massana                                     241         493          136           61             20         951
+          Andorra la Vella                               613        1.418        2.314        1.164           203        5.712
+          Sant Julià de Lòria                            120         305           0            0             292         717
+          Escaldes-Engordany                             453         998          114           0              0         1.565
+          Total                                         1.909       4.218        3.505        1.225           515        11.372
+
+
+
+                                                                    Primera      Segona                    Formació
+          Escolars per Sistema educatiu                Maternal                             Batxillerat                  Total
+                                                                  Ensenyança   Ensenyança                 professional
+          Andorrà                                        773        1.732        1.422         461            312        4.700
+          Espanyol                                       526        1.160         964          397             0         3.047
+          Francès                                        572        1.206        1.039         353            203        3.373
+          Anglès                                          38         120           80           14             0          252
+          Total                                         1.909       4.218        3.505        1.225           515        11.372
+
+
+
+                                                                    Primera      Segona                    Formació
+          Escolars per Tipus de centre                 Maternal                             Batxillerat                  Total
+                                                                  Ensenyança   Ensenyança                 professional
+          Públic                                        1.414       3.141        2.697         971            515        8.738
+          Congregacional                                 392         818          592          179             0         1.981
+          Privat                                         103         259          216           75             0          653
+          Total                                         1.909       4.218        3.505        1.225           515        11.372
+
+
+
+                                                                    Primera      Segona                    Formació
+          Escolars per nacionalitat                    Maternal                             Batxillerat                  Total
+                                                                  Ensenyança   Ensenyança                 professional
+          Andorrana                                     1.397       2.933        2.508         931            397        8.166
+          Espanyola                                      188         479          412          129             39        1.247
+          Francesa                                        39          81           75           47             7          249
+          Portuguesa                                      31          76           52           13             34         206
+          Altres                                         254         649          458          105             38        1.504
+          Total                                         1.909       4.218        3.505        1.225           515        11.372
+
+
+
+                                                                    Primera      Segona                    Formació
+          Escolars per nombre d'escolaritzacions       Maternal                             Batxillerat                  Total
+                                                                  Ensenyança   Ensenyança                 Professional
+
+          Escolaritzats en anys anteriors               1.172       3.763        3.226        1.143           472        9.776
+
+
+          Escolaritzats per pimer cop                    613         241          113           25             6          998
+
+          Escolaritzats per pimer cop però ja havien
+                                                          1           14           12           15             23         65
+          estat escolaritzats alguna vegada
+
+          No disponible                                   0           0            0            0              0          533
+
+
+          Total                                         1.786       4.018        3.351        1.183           501        11.372
+
+
+
+
+NP_A024-A025_20241118                                                                                                    Pàgina 13 de 14
+                                 A024. Estadística de pre-ensenyament superior.
+                           A025. Estadística de formació professional. Curs 2023/2024
+
+
+             5. Nota Metodològica
+
+         •   Citació: Per qualsevol utilització de la informació continguda en aquesta nota de premsa,
+             preguem citeu: “Dades del Departament de Sistemes Educatius i Relacions Internacionals,
+             tractades pel Departament d’Estadística per la Nota de Premsa ref. NP_A024-A025_20241118”.
+
+         •   Font: Dades transmeses amb periodicitat anual pel Departament de Sistemes Educatius i
+             Relacions Internacionals - Gestió de dades, tractades i revisades pel Departament d’Estadística
+             del Govern d’Andorra i disponibles en la nostra web: http://www.estadistica.ad en l’apartat
+             Estadístiques i Dades/Educació i R + D/Estudiants de primera i segona ensenyança.
+
+         •   Nota: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+             desplegament en el Programa estadístic per a l’any 2024, aquest informe dona resposta a les
+             activitats estadístiques:
+
+             -   A024. Estadística de pre-ensenyament superior
+             -   A025. Estadística de formació professional
+
+         •   Nota: L’increment del nombre d’estudiants a partir del curs acadèmic 2022/2023 es deu en part
+             a l’aplicació de la modificació de l’article 4 de la Llei qualificada d’educació, per la Llei 14/2019,el
+             qual estableix que “L’educació bàsica és obligatòria i gratuïta per a tots els ciutadans, els
+             naturals i els estrangers que visquin efectivament al Principat d’Andorra”. A efectes estadístics,
+             tots els alumnes inscrits als diferents sistemes educatius presents a Andorra, han de constar al
+             cens escolar. En aquest sentit, a partir del curs 2022/2023 s’incorporen al cens escolar tots els
+             alumnes escolaritzats, tot i estar pendents d’alguns tràmits d’inscripció.
+
+         •   Definicions: Les sèries de dades corresponen al nombre d’estudiants escolars inscrits en el
+             cens escolar a final del curs 2023/2024 i es comparen amb les xifres d’inscrits al final dels cursos
+             2019/2020, 2020/2021, 2021/2022 i 2022/2023.
+
+         •   Metodologies: Les dades presentades en aquesta nota s’obtenen del tractament estadístic del
+             cens escolar a final de cada curs escolar. La periodicitat de la difusió de les dades és anual i
+             s’ofereix informació sobre els centres i estudiants de pre-ensenyament superior i de formació
+             professional (incloent característiques demogràfiques dels estudiants, sistemes i nivells
+             educatius, especialitats i mobilitat dels estudiants entre parròquies).
+
+         •   Contactes: Per estar informat en qualsevol moment de les noves publicacions us podeu
+             inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de les
+             notes de premsa d’aquest tema: http://www.estadistica.ad
+
+             Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+             Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+
+         ______________________________________________________________________________
+
+
+             6. Dates de les publicacions previstes
+
+         Nota de premsa A024. Estadística pre-ensenyament superior. A025. Estadística de formació
+         professional. Curs 2024/2025: 4t trimestre del 2025
+
+
+
+
+NP_A024-A025_20241118                                                                                      Pàgina 14 de 14
+

@@ -1,0 +1,747 @@
+                                A053. Estadística de prestacions no contributives.
+                                  A054. Estadística de pensions assistencials.
+                                                     Any 2023
+                                       Data de publicació: dijous, 06/06/2024
+                                                www.estadistica.ad
+
+
+         Resum
+
+         Les prestacions i ajuts econòmics d’atenció social són ajudes dineràries, directes o indirectes, a
+         favor de persones individuals o unitats familiars. En aquest cas, van adreçades a prevenir
+         situacions de marginació, evitar l’exclusió i fomentar l’autonomia. Dins d’aquestes prestacions i
+         ajuts, es consideren les pensions de solidaritat per a la gent gran, les pensions de vellesa no
+         contributives i les prestacions de solidaritat.
+
+         Pel que fa a les prestacions de solidaritat regulades per l’article 20, durant l’any 2023 s’han
+         destinat un total de 3.987.660,06 €, un +14,1% respecte al 2022. Durant aquest període, hi ha
+         hagut una mitjana de 324 persones beneficiàries d’aquesta prestació, 177 dones i 147 homes. En
+         relació a la nacionalitat dels beneficiaris, una mitjana de 184 persones eren andorranes, 86
+         espanyoles, 38 portugueses, 4 franceses i 11 persones d’una altra nacionalitat. Segons la
+         parròquia de residència, de mitjana, un 39,5% dels beneficiaris residien a Andorra la Vella, un
+         22,2% residien a Escaldes-Engordany, un 17,0% a Sant Julià de Lòria i un 11,4% a Encamp. La
+         resta de beneficiaris residien a La Massana (5,6%), Canillo (2,2%) i Ordino (1,9%). Per tram
+         d’edat, de mitjana, pràcticament la meitat dels beneficiaris, un 47,5%, tenien entre 46 i 65 anys, el
+         17,0% tenien entre 36 i 45 anys, el 15,4% entre 26 i 35 anys, el 10,8% entre 18 i 25 anys i el 9,0%
+         tenien entre 66 i 75 anys.
+
+         Respecte a les pensions de solidaritat per a la gent gran, l’import destinat durant l’any 2023 ha
+         estat de 7.176.657,82 € i hi ha hagut una mitjana de 1.223 persones beneficiàries d’aquesta
+         prestació, de les quals 822 són dones i 401 són homes. Quant a la nacionalitat dels beneficiaris,
+         una mitjana de 301 persones eren andorranes, 644 espanyoles, 119 portugueses, 31 franceses i
+         127 d’altres nacionalitats. Segons la parròquia de residència, de mitjana, un 39,6% dels
+         beneficiaris residien a Andorra la Vella, un 22,1% residien a Escaldes-Engordany, un 14,2% a
+         Encamp, un 13,3% a Sant Julià de Lòria, un 6,2% a La Massana, un 2,8% a Ordino, un 1,5% a
+         Canillo i un 0,2% a l’Estranger. Per tram d’edat, de mitjana, un 88,2% dels beneficiaris tenien entre
+         65 i 85 anys.
+
+         Finalment, quant a les pensions no contributives del M.I. Govern, durant l’any 2023 s’han destinat
+         un total de 64.602,89 €. Durant aquest període, hi ha hagut, de mitjana, un total de 18 persones
+         beneficiaries d’aquesta prestació, 17 dones i 1 home. Quant a la nacionalitat dels beneficiaris, una
+         mitjana de 10 persones eren de nacionalitat andorrana i 8 de nacionalitat espanyola. Segons la
+         parròquia de residència, un 38,8% residien a Andorra la Vella, un 22,4% a Escaldes-Engordany i
+         un 11,2% a Encamp i a Sant Julià de Lòria. L’11,2% restant es reparteix equitativament entre La
+         Massana i Ordino. Canillo i Estranger representen ambdues un 0,0%. Pel que fa a l’edat, tots eren
+         majors de 95 anys.
+
+
+
+
+NP_A053-A054_20240606                                                                                    Pàgina 1 de 12
+                                       A053. Estadística de prestacions no contributives.
+                                         A054. Estadística de pensions assistencials.
+                                                           Any 2023
+
+
+
+         Índex
+
+
+         1.   Prestacions de solidaritat regulades per l’Article 20. ......................................................................... 3
+         2.   Pensions de solidaritat per a la gent gran. ......................................................................................... 6
+         3.   Pensions no contributives del M.I. Govern ......................................................................................... 9
+         4.   Nota metodològica............................................................................................................................ 12
+         5.   Dates de les publicacions previstes ................................................................................................. 12
+
+
+
+
+NP_A053-A054_20240606                                                                                                                            Pàgina 2 de 12
+                                      A053. Estadística de prestacions no contributives.
+                                        A054. Estadística de pensions assistencials.
+                                                          Any 2023
+
+
+
+         1. Prestacions de solidaritat regulades per l’Article 20.
+
+
+
+
+               Art 20. Govern                   2019                2020                  2021             2022                2023
+               Import                    2.428.353,87 € 2.819.756,47 € 3.175.003,03 € 3.494.944,87 € 3.987.660,06 €
+               Variació anual                22,4%               16,1%                12,6%                10,1%               14,1%
+               Nombre de
+                                                 234                 260                  286               300                 324
+               prestacions
+               Variació anual                16,4%               11,1%                10,0%                4,9%                8,0%
+
+
+
+
+                                                  Prestacions Art. 20 Govern. Import.
+                                350                                                                        4.500.000 €
+                                                                                                           4.000.000 €
+                                300
+                                                                                                           3.500.000 €
+                                250
+                                                                                                           3.000.000 €
+                                200                                                                        2.500.000 €
+                                150                                                                        2.000.000 €
+                                                                                                           1.500.000 €
+                                100
+                                                                                                           1.000.000 €
+                                 50                                                                        500.000 €
+                                  0                                                                        0€
+                                         2019          2020          2021          2022            2023
+
+                                                          Nombre de prestacions           Import
+
+
+
+
+             1.1. Prestacions de solidaritat regulades per l’article 20, per gènere. Històric 2019-2023.
+
+
+
+                        Art 20. Govern (mitjana)
+                        Gènere                                2019          2020            2021          2022         2023
+                        Dones                                 134            144             154          162            177
+                        Homes                                 100            116             132          139            147
+                        Total                                 234            260             286          300            324
+
+
+
+
+                                                 Prestacions Art. 20 Govern. Gènere.
+                                200
+                                180
+                                160
+                                140
+                                120
+                                100
+                                 80
+                                 60
+                                 40
+                                 20
+                                  0
+                                          2019           2020               2021             2022           2023
+
+                                                                    Dones          Homes
+
+
+
+NP_A053-A054_20240606                                                                                                                  Pàgina 3 de 12
+                                      A053. Estadística de prestacions no contributives.
+                                        A054. Estadística de pensions assistencials.
+                                                          Any 2023
+
+
+
+             1.2. Prestacions de solidaritat regulades per l’article 20, per nacionalitat. Històric 2019-
+                  2023.
+
+
+
+                         Art 20. Govern (mitjana)
+                         Nacionalitat                          2019     2020         2021         2022       2023
+                         Andorrana                             138       153         165           176       184
+                         Espanyola                              58        68          77            78        86
+                         Portuguesa                             25        26          31            33        38
+                         Francesa                                4         5           4             4         4
+                         Altres                                  9         8           9             9        11
+                         Total                                 234       260         286           300       324
+                         Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+                                             Prestacions Art. 20 Govern. Nacionalitat.
+                    200
+                    180
+                    160
+                    140
+                    120
+                    100
+                        80
+                        60
+                        40
+                        20
+                        0
+                                     2019               2020            2021               2022             2023
+
+                                            Andorrana     Espanyola   Portuguesa     Francesa      Altres
+
+
+
+
+             1.3. Prestacions de solidaritat regulades per l’article 20, per parròquia. Històric 2019-
+                  2023.
+
+
+
+                             Art 20. Govern (mitjana)
+                             Parròquia                         2019     2020        2021          2022      2023
+                             Canillo                             4         3           4            5         7
+                             Encamp                             27        32          35           37        37
+                             Ordino                              5         5           5            4         6
+                             La Massana                         14        15          16           16        18
+                             Andorra la Vella                  103       113         118          119       128
+                             Sant Julià de Lòria                42        46          50           55        55
+                             Escaldes-Engordany                 40        47          58           64        72
+                             Total                             234       260         286          300       324
+                             Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+NP_A053-A054_20240606                                                                                               Pàgina 4 de 12
+                                   A053. Estadística de prestacions no contributives.
+                                     A054. Estadística de pensions assistencials.
+                                                       Any 2023
+
+
+
+
+                                           Prestacions Art. 20 Govern. Parròquia.
+                        140
+                        120
+                        100
+                         80
+                         60
+                         40
+                         20
+                          0
+                                       2019              2020               2021               2022             2023
+
+                                       Canillo                   Encamp                       Ordino
+                                       La Massana                Andorra la Vella             Sant Julià de Lòria
+                                       Escaldes-Engordany
+
+
+
+
+             1.4. Prestacions de solidaritat regulades per l’article 20, per tram d’edat. Històric 2019-
+                  2023.
+
+
+
+                        Art 20. Govern (mitjana)
+                        Per tram d'edat                      2019           2020         2021            2022       2023
+                        18 a 25 anys                            36           37           40             41            35
+                        26 a 35 anys                            40           40           44             45            50
+                        36 a 45 anys                            43           49           51             52            55
+                        46 a 55 anys                            48           56           61             66            76
+                        56 a 65 anys                            61           70           76             76            78
+                        66 a 75 anys                             6            9           14             21            29
+                        Total                                   234          260         286             300        324
+                        Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+                                                 Prestacions Art. 20 Govern. Tram d'edat.
+                  350
+
+
+                  300
+
+
+                  250
+
+
+                  200
+
+
+                  150
+
+
+                  100
+
+
+                   50
+
+
+                    0
+                                2019                  2020                  2021                  2022              2023
+
+                          18 a 25 anys        26 a 35 anys   36 a 45 anys      46 a 55 anys      56 a 65 anys   66 a 75 anys
+
+
+
+
+NP_A053-A054_20240606                                                                                                          Pàgina 5 de 12
+                                      A053. Estadística de prestacions no contributives.
+                                        A054. Estadística de pensions assistencials.
+                                                          Any 2023
+
+
+
+
+         2. Pensions de solidaritat per a la gent gran.
+
+
+
+               P.Solidaritat Gent Gran            2019               2020                  2021                 2022           2023
+               Import                        4.625.686,56 € 5.084.872,64 € 5.629.921,79 € 6.714.350,78 € 7.176.657,82 €
+               Variació anual                     13,3%              9,9%                 10,7%              19,3%             6,9%
+               Nombre de prestacions               927               993                  1.056                1.182           1.223
+               Variació anual                     10,9%              7,1%                  6,3%              11,9%             3,5%
+
+
+
+
+                                              Pensions Solidaritat Gent Gran. Import.
+                                   1.400                                                                    8.000.000 €
+
+                                   1.200                                                                    7.000.000 €
+                                                                                                            6.000.000 €
+                                   1.000
+                                                                                                            5.000.000 €
+                                    800
+                                                                                                            4.000.000 €
+                                    600
+                                                                                                            3.000.000 €
+                                    400
+                                                                                                            2.000.000 €
+                                    200                                                                     1.000.000 €
+                                      0                                                                     0€
+                                           2019       2020          2021           2022           2023
+
+                                                           Nombre de prestacions      Import
+
+
+
+
+             2.1. Pensions de solidaritat per a la gent gran, per gènere. Històric 2019-2023.
+
+
+
+                           P.Solidaritat Gent Gran (mitjana)
+                           Gènere                            2019          2020           2021           2022          2023
+                           Dones                             625            666            704           793           822
+                           Homes                             301            327            352           389           401
+                           Total                             927            993           1.056          1.182         1.223
+                           Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+                                             Pensions Solidaritat Gent Gran. Gènere.
+
+
+
+
+                                           2019           2020             2021             2022            2023
+
+                                                                   Dones           Homes
+
+
+
+
+NP_A053-A054_20240606                                                                                                                  Pàgina 6 de 12
+                                      A053. Estadística de prestacions no contributives.
+                                        A054. Estadística de pensions assistencials.
+                                                          Any 2023
+
+
+
+
+             2.2. Pensions de solidaritat per a la gent gran, per nacionalitat. Històric 2019-2023.
+
+
+
+                             P.Solidaritat Gent Gran (mitjana)
+                             Nacionalitat                      2019    2020        2021           2022       2023
+                             Andorrana                          248     259         273            298        301
+                             Espanyola                          541     571         576            627        644
+                             Portuguesa                          44      59          81            104        119
+                             Francesa                            21      21          25             31         31
+                             Altres                              71      82         102            120        127
+                             Total                              927     993        1.056          1.182      1.223
+                             Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+                                            Pensions Solidaritat Gent Gran. Nacionalitat.
+                    700
+
+                    600
+
+                    500
+
+                    400
+
+                    300
+
+                    200
+
+                    100
+
+                        0
+                                     2019               2020           2021                2022              2023
+
+                                            Andorrana     Espanyola   Portuguesa    Francesa        Altres
+
+
+
+
+             2.3. Pensions de solidaritat per a la gent gran, per parròquia. Històric 2019-2023.
+
+
+
+                            P.Solidaritat Gent Gran (mitjana)
+                            Parròquia                          2019    2020        2021           2022       2023
+                            Canillo                             13      11          12             18         19
+                            Encamp                             125     138         150            175        174
+                            Ordino                              29      30          30             32         34
+                            La Massana                          51      56          64             73         76
+                            Andorra la Vella                   367     382         408            466        484
+                            Sant Julià de Lòria                122     140         145            157        163
+                            Escaldes-Engordany                 216     231         244            259        271
+                            Estranger                            3       4           3              1          2
+                            Total                              927     993         1.056          1.182      1.223
+                        Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+NP_A053-A054_20240606                                                                                                Pàgina 7 de 12
+                                        A053. Estadística de prestacions no contributives.
+                                          A054. Estadística de pensions assistencials.
+                                                            Any 2023
+
+
+                                            Pensions Solidaritat Gent Gran. Parròquia.
+                            600
+                            500
+                            400
+                            300
+                            200
+                            100
+                              0
+                                         2019            2020                   2021            2022              2023
+
+                                        Canillo                     Encamp                    Ordino
+                                        La Massana                  Andorra la Vella          Sant Julià de Lòria
+                                        Escaldes-Engordany Estranger
+
+
+
+
+             2.4. Pensions de solidaritat per gent gran, per tram d’edat. Històric 2019-2023.
+
+
+
+                             P.Solidaritat Gent Gran (mitjana)
+                             Per tram d'edat                    2019            2020        2021          2022       2023
+                             65 a 75 anys                          481           521        565           656         676
+                             76 a 85 anys                          321           344        357           383         403
+                             86 a 95 anys                          118           124        131           138         133
+                             96 a 100 anys                          6             4          3             4           8
+                             Més de 100 anys                        0             0          0             0           1
+                             Total                                 927           993       1.056          1.182      1.223
+                             Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+                                                Pensions Solidaritat Gent Gran. Tram d'edat.
+                   1400
+
+
+                   1200
+
+
+                   1000
+
+
+                    800
+
+
+                    600
+
+
+                    400
+
+
+                    200
+
+
+                        0
+                                     2019              2020                     2021               2022                2023
+
+                                     65 a 75 anys   76 a 85 anys         86 a 95 anys   96 a 100 anys     Més de 100 anys
+
+
+
+
+NP_A053-A054_20240606                                                                                                         Pàgina 8 de 12
+                                          A053. Estadística de prestacions no contributives.
+                                            A054. Estadística de pensions assistencials.
+                                                              Any 2023
+
+
+         3. Pensions no contributives del M.I. Govern
+
+
+
+             Pensions no contributives (M.I.G.)          2019                2020                   2021              2022             2023
+             Import                                   165.556,59 €      126.807,22 €          91.554,99 €         76.090,01 €       64.602,89 €
+             Variació anual                             -17,3%              -23,4%                 -27,8%           -16,9%            -15,1%
+             Nombre de prestacions                           50                  39                  28                 23              18
+             Variació anual                             -17,3%              -22,7%                 -27,6%           -19,9%            -20,9%
+
+
+
+
+                                                Pensions No Contributives (MIG). Import.
+                                  60                                                                             180.000 €
+                                                                                                                 160.000 €
+                                  50
+                                                                                                                 140.000 €
+                                  40                                                                             120.000 €
+                                                                                                                 100.000 €
+                                  30
+                                                                                                                 80.000 €
+                                  20                                                                             60.000 €
+                                                                                                                 40.000 €
+                                  10
+                                                                                                                 20.000 €
+                                      0                                                                          0€
+                                             2019     2020           2021             2022           2023
+
+                                                             Nombre de prestacions       Import
+
+
+
+
+             3.1. Pensions no contributives del M.I. Govern, per gènere. Històric 2019-2023.
+
+
+
+                         Pensions no contributives (M.I.G.) (mitjana)
+                         Gènere                          2019             2020               2021           2022             2023
+                         Dones                               48             38                27            22                17
+                         Homes                               2               1                1              1                1
+                         Total                               50             39                28            23                18
+                         Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+                                              Prestacions No Contributives (MIG). Gènere.
+                                 60
+
+                                 50
+
+                                 40
+
+                                 30
+
+                                 20
+
+                                 10
+
+                                 0
+                                             2019       2020                2021              2022               2023
+
+                                                                   Dones              Homes
+
+
+
+
+NP_A053-A054_20240606                                                                                                                             Pàgina 9 de 12
+                                      A053. Estadística de prestacions no contributives.
+                                        A054. Estadística de pensions assistencials.
+                                                          Any 2023
+
+
+
+             3.2. Pensions no contributives del M.I. Govern, per nacionalitat. Històric 2019-2023.
+
+
+
+                            Pensions no contributives (M.I.G.) (mitjana)
+                            Nacionalitat                  2019         2020       2021          2022   2023
+                            Andorrana                      31           23         17             13    10
+                            Espanyola                      19           15         11             10     8
+                            Francesa                        1            1          0              0     0
+                            Altres                          0            0          0              0     0
+                            Total                          50           39         28             23    18
+                            Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+                                           Pensions no contributives (MIG). Nacionalitat.
+                    35
+
+                    30
+
+                    25
+
+                    20
+
+                    15
+
+                    10
+
+                        5
+
+                        0
+                                    2019           2020                2021              2022          2023
+
+                                                 Andorrana       Espanyola    Francesa   Altres
+
+
+
+
+             3.3. Pensions no contributives del M.I. Govern, per parròquia. Històric 2019-2023.
+
+
+
+                            Pensions no contributives (M.I.G.) (mitjana)
+                            Parròquia                     2019         2020       2021          2022   2023
+                            Canillo                        1             1          1             1     0
+                            Encamp                         7             7          6             4     2
+                            Ordino                         4             3          1             1     1
+                            La Massana                     3             2          1             1     1
+                            Andorra la Vella              15            12          9             8     7
+                            Sant Julià de Lòria            5             3          2             3     2
+                            Escaldes-Engordany            11             9          6             5     4
+                            Estranger                      0             0          0             0     0
+                            Total                         50            39         28             23    18
+                            Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+
+NP_A053-A054_20240606                                                                                         Pàgina 10 de 12
+                                    A053. Estadística de prestacions no contributives.
+                                      A054. Estadística de pensions assistencials.
+                                                        Any 2023
+
+
+                                     Pensions no contributives (MIG). Parròquia.
+                        16
+                        14
+                        12
+                        10
+                         8
+                         6
+                         4
+                         2
+                         0
+                                    2019            2020                2021              2022            2023
+
+                                    Canillo                    Encamp                  Ordino
+                                    La Massana                 Andorra la Vella        Sant Julià de Lòria
+                                    Escaldes-Engordany         Estranger
+
+
+
+
+             3.4. Pensions no contributives del M.I. Govern, per tram d’edat. Històric 2019-2023.
+
+
+
+                        Pensions no contributives (M.I.G.) (mitjana)
+                        Per tram d'edat                  2019          2020        2021            2022      2023
+                        86 a 95 anys                       34           22           14             5         0
+                        96 a 100 anys                      15           14           11             14        13
+                        Més de 100 anys                     1            2            3              3         4
+                        Total                              50           39           28             23        18
+                        Nota: Pot ser que els totals variïn degut a l’arrodoniment dels decimals
+
+
+
+                                           Pensions No Contributives (MIG). Tram d'edat.
+                   60
+
+
+                   50
+
+
+                   40
+
+
+                   30
+
+
+                   20
+
+
+                   10
+
+
+                    0
+                             2019                 2020                  2021                2022              2023
+
+                                                86 a 95 anys     96 a 100 anys    Més de 100 anys
+
+
+
+
+NP_A053-A054_20240606                                                                                                Pàgina 11 de 12
+                                   A053. Estadística de prestacions no contributives.
+                                     A054. Estadística de pensions assistencials.
+                                                       Any 2023
+
+         4. Nota metodològica
+
+
+          •   Citació: per a qualsevol utilització de la informació continguda en aquesta nota de premsa,
+              preguem citeu: “Dades del Departament d’Afers Socials, tractades pel Departament
+              d’Estadística per a la Nota de Premsa ref. NP_A053-A054_20240606”.
+
+          •   Font: Elaboració pròpia a partir de dades de la CASS i disponibles al web
+              www.estadistica.ad, a l’apartat Estadístiques/Dades / Protecció social / Pensions i
+              prestacions.
+
+          •   Nota. D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025 i el seu
+              desplegament en el Programa estadístic per a l’any 2024, aquest informe dona resposta a
+              l’activitat estadística:
+
+          - A053: Estadística de prestacions no contributives
+          - A054: Estadística de pensions assistencials
+
+          •   Nota. Per a l’elaboració d’aquesta nota no s’han tingut en compte les cotitzacions d’import 0 €
+              generades per la CASS com a subvenció.
+
+          •   Legislació:
+
+                        -   Llei 6/2014, del 24 d’abril, de serveis social i sociosanitaris
+                            https://www.bopa.ad/bopa/026030/Pagines/86276.aspx
+
+                        -   Llei 31/2008, del 18 de desembre, de mesures de reactivació econòmica
+                            https://www.bopa.ad/bopa/021004/Pagines/58AC2.aspx
+
+          • Contactes. Per estar informat en qualsevol moment de les noves publicacions us podeu
+            inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de
+            les notes de premsa d’aquest tema: www.estadistica.ad.
+
+              Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+              Premsa del Departament d’Estadística es podran seguir també per Twitter (actualment X).
+
+         ______________________________________________________________________________
+
+
+         5. Dates de les publicacions previstes
+
+                 -   Nota de premsa A053. Estadística de prestacions no contributives; A054. Estadística
+                     de pensions assistencials. 1r trimestre del 2024: 2n trimestre del 2024
+
+
+
+
+NP_A053-A054_20240606                                                                                  Pàgina 12 de 12
+

@@ -141,7 +141,11 @@ propietat privada**.
 - **Quines espècies són caçables, la llei no ho diu.** Ho remet al reglament i
   als convenis internacionals (article 3). El corpus té el marc i no la llista.
 - **Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
-  no consta.
+  no consta. — **`obert`, i el 18-09-2026 confirmat amb les dades a la mà**:
+  **els informes de caça del Departament de Medi Ambient publiquen captures
+  atorgades i percentatge de compliment, i mai població**
+  ([Qui caça i qui pesca](./qui-caca-i-qui-pesca.md)). `La xifra que la llei
+  exigeix per activar el pla no es publica enlloc del que s'ha consultat.`
 - ~~**Quins vedats existeixen** —que són llei—~~ — **`resolt` el 17-09-2026** a
   «[Els quatre vedats, i la llei que els crea](#els-quatre-vedats-i-la-llei-que-els-crea)»:
   **la Llei dels vedats de caça del 13-4-2000 en crea quatre** —Enclar, Xixerella,
@@ -152,8 +156,13 @@ propietat privada**.
 - **Els articles de la Llei de pesca arriben amb el títol malmès** a la font: en
   molts casos el títol repeteix la primera frase de l'article, truncada. El text
   és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.
-- **La caça i la pesca com a pràctica social** —qui hi va, quant, amb qui— és
-  una altra fitxa i no s'ha escrit.
+- ~~**La caça i la pesca com a pràctica social** —qui hi va, quant, amb qui— és
+  una altra fitxa i no s'ha escrit.~~ — **`resolt` el 18-09-2026**, i la fitxa
+  és [Qui caça i qui pesca](./qui-caca-i-qui-pesca.md): **474 llicències de caça
+  i 1.271 de pesca de temporada el 2025**, **el 93,1% dels pescadors residents
+  es queden el peix i el 53,1% dels turistes el tornen**, **tres de cada deu
+  llicències de pesca de residents són de menors**, i **el compliment dels plans
+  de caça del mufló cau del 89% al 26,5%** en cinc anys.
 - **Les vedes del segle XVIII sí que consten, i la manera de fer-les complir
   encara més. — Afegit el 16-09-2026.** El **capítol III del llibre III del
   Politar** diu que el Consell General privava cada any **la caça de perdius i

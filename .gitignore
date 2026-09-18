@@ -71,3 +71,11 @@ docs/raw/estadistica-agricultura/bestiar-parroquia-*
 docs/raw/estadistica-agricultura/piramide-edats-*
 docs/raw/estadistica-agricultura/apicultura-*
 docs/raw/estadistica-agricultura/serie-conreu/
+
+# docs/raw/caca-i-pesca/ — www.govern.ad, drets reservats
+# (docs/fonts/govern-andorra-web.md). Els dos informes de Medi Ambient porten
+# clausula de citacio propia, que els articles segueixen; els PDF i el text
+# extret no es versionen. Les notes de docs/raw/estadistica-sondeig-2024/ si
+# que es versionen: son dEstadistica, CC BY 4.0.
+docs/raw/caca-i-pesca/*.pdf
+docs/raw/caca-i-pesca/*.txt

@@ -1,0 +1,972 @@
+           A138. Balança de pagaments i posició inversora internacional. Any 2023
+                               Data de publicació: dijous, 23/01/2025
+                                           www.estadistica.ad
+
+
+
+Resum
+
+La balança de pagaments d’Andorra indica que el Principat té una capacitat de finançament de
+494,33 milions d’euros per a l’any 2023.
+
+
+Si es detalla aquest resultat, es pot observar que el compte corrent de la balança de pagaments
+representa 497,83 milions d’euros. Del total del compte corrent, la partida de “Béns i Serveis”
+representa el 84,1%, amb un saldo de 418,71 milions d’euros, mentre que la “Renda primària” i la
+“Renda secundaria” representen el 24,7% i el -8,8% respectivament, amb uns saldos de 122,89
+milions d’euros i de -43,77 milions d’euros.
+Degut a la significació del compte de béns i serveis s’identifica clarament que el Principat és
+exportador de serveis (1.941,34 milions d’euros) i importador de béns (-1.522,62 milions d’euros).
+
+
+Per poder arribar a la xifra de la capacitat de finançament, de 494,33 milions d’euros, s’ha de sumar
+el compte corrent (497,83 milions d’euros) i el compte de capital, amb una xifra de -3,50 milions
+d’euros.
+
+
+Pel que fa al compte financer, aquest equival a 472,91 milions d’euros per a l’any 2023. La inversió
+directa té un saldo de -50,11 milions d’euros, el que significa que el país té contrets uns passius
+envers a la resta del món. El saldo de les inversions en cartera és de 343,85 milions d’euros i el
+saldo de les altres inversions s’eleva fins a 270,67 milions d’euros.
+
+En referència al pes de la Balança de pagaments sobre el PIB, aquest equival al 14,1% per l’any
+2023.
+
+
+
+
+NP-A138_20250123                                                                        Pàgina 1 de 18
+                      A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+Índex
+
+
+
+
+1.      Introducció .............................................................................................................................3
+
+2.      Balança de pagaments .........................................................................................................4
+
+3.      Comparativa internacional ...................................................................................................7
+
+3.1.           Comparativa amb alguns països europeus respecte el PIB .......................................... 7
+
+3.2.           Comparativa amb altres petits països de la resta del món amb demografia similar ..... 7
+
+3.3.           Taula comparativa de la BP amb altres països .............................................................. 8
+
+3.4.           Taula comparativa de la BP respecte el PIB amb percentatges .................................... 8
+
+4.      Posició Inversora Internacional (PII) ...................................................................................9
+
+5.      Notes metodològiques ....................................................................................................... 12
+
+6.      Dates de les publicacions previstes................................................................................. 18
+
+
+
+
+NP-A138_20250123                                                                                                               Pàgina 2 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+1. Introducció
+
+
+
+Aquesta nota presenta la metodologia d'elaboració de la Balança de Pagaments d'Andorra, que
+segueix els principis establerts en el sisè Manual de Balança de Pagaments i Posició d'Inversió
+Internacional (MBP6) del Fons Monetari Internacional (FMI).
+
+
+La balança de pagaments (BP) i la posició inversora internacional (PII) són estrictament coherents
+entre si quant a conceptes, classificacions i criteris de valoració. Per aquest motiu, en aquesta nota
+metodològica les definicions, les fonts d'informació i els procediments de càlcul que afecten els
+actius i als passius financers es refereixen tant a les operacions com als saldos, és a dir, a totes
+dues estadístiques.
+
+
+La BP i la PII són estadístiques de caràcter macroeconòmic que resumeixen, de manera sistemàtica,
+les relacions econòmiques entre els residents d'una economia i els residents de la resta del món.
+Constitueixen el que es denomina "els comptes internacionals de l'economia". La BP registra, per a
+un període de temps donat, les transaccions que tenen lloc entre els residents i els no residents.
+La PII mostra el valor i la composició, en un moment donat, de les tinences d'actius i passius
+financers enfront de l'exterior i presenta els saldos, actius i passius, ordenats amb la mateixa
+estructura i des de la mateixa òptica que les corresponents transaccions financeres de la BP.
+
+
+La Llei 13/2022 del Pla d’estadística 2022-2025, estableix, com a objectiu base, l’elaboració de la
+balança de pagaments i la posició inversora internacional dins de l’àmbit de l’estadística econòmica
+del Principat. Per aquest motiu, es presenta la balança de pagaments oficial d’Andorra i la posició
+inversora internacional.
+
+Cal remarcar que, a més de ser un referent en l’estadística macroeconòmica, es tracta d’una eina
+essencial per al desenvolupament d’estudis d’economia aplicada referits a Andorra. Per tant, més
+enllà de la utilitat de la BP per al Sistema estadístic, l’elaboració d’aquestes taules ha de garantir
+que la BP i la PII siguin emprades per fer anàlisis de la nostra economia.
+
+
+
+
+NP-A138_20250123                                                                            Pàgina 3 de 18
+                              A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+2. Balança de pagaments
+
+En aquest apartat es presenten els principals resultats de la balança de pagaments. Pel que fa a la
+BP d’Andorra al 2023, s’observa una capacitat de finançament (compte corrent + compte de capital)
+de 494,33 milions d’euros.
+
+
+                                    Balança de Pagaments d'Andorra                            2019        2020       2021        2022        2023
+
+
+Compte corrent                                                                                  507,61     392,99      422,26      373,79      497,83
+ Crèdit                                                                                       2.637,35    2.140,91   2.518,57    2.972,73    3.445,20
+ Dèbit                                                                                        2.129,74    1.747,92   2.096,31    2.598,94    2.947,37
+ Béns i serveis                                                                                 270,48     100,29      256,14      281,28      418,71
+  Crèdit                                                                                      2.085,71    1.612,54   2.068,31    2.598,03    2.930,57
+  Dèbit                                                                                       1.815,23    1.512,25   1.812,17    2.316,75    2.511,86
+  Béns                                                                                        -1.200,37    -921,87   -1.122,05   -1.505,85   -1.522,62
+    Crèdit                                                                                      116,10     148,31      149,48      188,64      218,26
+    Dèbit                                                                                     1.316,48    1.070,18   1.271,52    1.694,49    1.740,88
+  Mercaderies en general sobre la base de la balança de pagaments                             -1.200,23    -923,59   -1.122,10   -1.516,42   -1.543,25
+  Or no monetari                                                                                  -0,15      -1,01       -7,67     -10,59        -7,69
+  Serveis                                                                                     1.470,86    1.022,16   1.378,19    1.787,13    1.941,34
+    Crèdit                                                                                    1.969,61    1.464,23   1.918,84    2.409,39    2.712,32
+    Dèbit                                                                                       498,75     442,07      540,65      622,26      770,98
+  Serveis de fabricació d'inputs físics de propietat aliena                                       0,00       0,00        0,00        0,00        0,00
+  Serveis de manteniment i reparació n.e.p.                                                     -21,64      -21,55     -25,70      -27,83      -27,08
+  Transport                                                                                     -49,95      -25,30     -44,75      -72,31      -99,51
+  Viatges                                                                                     1.533,87    1.063,48   1.463,43    1.907,10    2.045,08
+  Construcció                                                                                   -24,67      -24,51     -32,10      -25,69      -18,20
+  Serveis d'assegurances i pensions                                                               0,91       -0,27       -3,95       -5,01       -5,69
+  Serveis financers                                                                              46,74      41,98       27,66       18,78       55,69
+  Càrrecs per l'ús de la propietat intel·lectual n.i.e.                                           -0,24      -0,42       -0,50       -0,11       0,10
+  Serveis de telecomunicacions, informàtics i d'informació                                       29,32      37,54       36,19       78,37       82,86
+  Altres serveis a les empreses                                                                 -34,75      -49,52     -41,36      -73,83      -80,95
+  Serveis personals, culturals i recreatius                                                       -8,12      1,83        -0,33       -8,76       -9,37
+  Béns i serveis públics n.c.o.p.                                                                 -0,62      -1,10       -0,39       -3,58       -1,60
+ Rendes primàries                                                                               274,42     330,59      213,02      137,96      122,89
+    Crèdit                                                                                      511,02     481,77      401,75      320,80      446,36
+    Dèbit                                                                                       236,61     151,19      188,73      182,84      323,47
+  Rendes del treball                                                                            -57,05      -28,61       -8,68     -68,75      -98,96
+  Rendes d'inversions                                                                           331,46     359,20      221,70      206,71      221,84
+    Inversió directa                                                                              8,95      15,35      -22,27      -13,82       10,40
+    Inversió de cartera                                                                         374,66     356,54      284,62      202,34      234,84
+    Altres inversions                                                                           -52,15      -12,69     -40,65       18,19      -23,40
+    Actius de reserva (Crèdit)                                                                    0,00       0,00        0,00        0,00        0,00
+  Altres ingressos primaris                                                                       0,00       0,00        0,00        0,00        0,00
+ Rendes secundàries                                                                             -37,29      -37,89     -46,91      -45,44      -43,77
+    Crèdit                                                                                       40,62      46,59       48,50       53,90       68,27
+    Dèbit                                                                                        77,91      84,48       95,41       99,35      112,04
+  Administracions públiques                                                                       -9,71     -12,33     -10,49        -7,21       0,47
+  Societats financeres, societats no financeres, llars i *ISFLSH                                -27,58      -25,56     -36,42      -38,24      -44,24
+    Transferències personals (Transferències corrents entre llars residents i no residents)       -5,81      -3,25       -6,13       -6,56       -8,81
+    Altres transferències corrents                                                              -21,76      -22,31     -30,29      -31,67      -35,44
+Compte de capital                                                                                 0,25       0,24        0,31        -0,50       -3,50
+ Crèdit                                                                                           0,31       0,29        0,36        0,00        0,00
+ Dèbit                                                                                            0,06       0,05        0,05        0,50        3,50
+ Adquisicions (DR.) / cessions (*CR.) brutes d'actius no financers no produïts                    0,31       0,29        0,36        0,00        0,00
+ Transferències de capital                                                                        -0,06      -0,05       -0,05       -0,50       -3,50
+  Administracions públiques                                                                       -0,06      -0,05       0,00        -0,50       -3,50
+  Societats financeres, societats no financeres, llars i *ISFLSH                                  0,00       0,00        -0,05       0,00        0,00
+Capacitat (+) / Necessitat (-) de finançament (saldo del compte corrent i de capital)           507,86     393,23      422,56      373,29      494,33
+  Dades en milions d’euros.
+  Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+
+NP-A138_20250123                                                                                                                   Pàgina 4 de 18
+                             A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+Compte financer
+Préstec net (+) / endeutament net (-) (saldo del compte financer)                      509,24    441,90     480,27     407,24    472,91
+ Inversions directes                                                                   -286,12   -122,33    -291,92    -427,90    -50,11
+  Adquisició neta d'actius financers                                                    91,04    116,41     117,99     136,16    204,94
+    Accions i participacions en fons d'inversió                                         89,88    123,38     115,42     133,58    202,36
+    Instruments de deute                                                                 1,16      -6,96      2,58       2,58      2,58
+  Passius nets incorreguts                                                             377,16    238,74     409,91     564,06    255,05
+    Accions i participacions en fons d'inversió                                        375,41    234,29     401,17     561,90    199,14
+    Instruments de deute                                                                 1,74      4,45       8,75       2,16     55,92
+ Inversió de cartera                                                                    83,75    -204,58    560,21    1.087,82   343,85
+  Adquisició neta d'actius financers                                                    73,37    -189,13   1.038,62   1.514,92   446,28
+    Accions i participacions en fons d'inversió                                        -191,19   355,37     258,66     -396,15   -122,65
+    Títols de deute                                                                    264,56    -544,50    779,97    1.911,07   568,93
+  Passius nets incorreguts                                                              -10,38    15,44     478,41     427,10    102,42
+    Accions i participacions en fons d'inversió                                         -23,59     6,71      -10,55     -44,64    45,21
+    Títols de deute                                                                     13,21      8,73     488,96     471,74     57,21
+ Derivats financers (diferents de les reserves) i opcions sobre accions dels emprats                         -11,00     -39,32    -91,50
+  Adquisició neta d'actius financers                                                                         -77,76    -167,94   -231,71
+  Passius nets incorreguts                                                                                   -66,76    -128,62   -140,21
+ Altres inversions                                                                     711,60    726,90     126,79     -413,35   270,67
+  Adquisició neta d'actius financers                                                   169,29    849,19      -82,44    -547,03    -19,58
+  Passius nets incorreguts                                                             -542,31   122,28     -209,23    -133,68   -290,25
+    Altres accions                                                                       0,36      0,00       0,00       0,00      0,00
+     Adquisició neta d'actius financers                                                  0,36      0,00       0,00       0,00      0,00
+     Passius nets incorreguts                                                            0,00      0,00       0,00       0,00      0,00
+    Moneda i dipòsits                                                                  229,92    955,61     159,24     -329,86   144,84
+     Adquisició neta d'actius financers                                                 98,36    922,76     -155,92    -428,71   -134,45
+     Passius nets incorreguts                                                          -131,56    -32,84    -315,15     -98,85   -279,29
+    Préstecs                                                                           480,88    -194,78     67,56     -121,26   129,75
+     Adquisició neta d'actius financers                                                 65,87     -73,96     72,40     -114,28   114,70
+     Passius nets incorreguts                                                          -415,01   120,82       4,84       6,98     -15,04
+    Assegurances, pensions i sistemes de garantia normalitzats                           1,06      2,38       -3,08     37,85      -3,14
+     Adquisició neta d'actius financers                                                  4,71      0,39       1,08       -4,04     0,16
+     Passius nets incorreguts                                                            3,65      -1,99      4,16      -41,90     3,30
+    Crèdits comercials i bestretes                                                       0,00      0,00       0,00       0,00      0,00
+     Adquisició neta d'actius financers                                                  0,00      0,00       0,00       0,00      0,00
+     Passius nets incorreguts                                                            0,00      0,00       0,00       0,00      0,00
+    Altres comptes per cobrar/pagar                                                      -0,61     5,60       -0,72      -0,08     -0,78
+     Adquisició neta d'actius financers                                                  0,00      0,00       0,00       0,00      0,00
+     Passius nets incorreguts                                                            0,61      -5,60      0,72       0,08      0,78
+    Drets especials de gir (Passius nets incorreguts)                                    0,00     41,90      96,20       0,00      0,00
+ Actius de reserva                                                                       0,00     41,90      96,20     200,00      0,00
+Errors i omissions nets                                                                  1,37     48,67      57,71      33,95     -21,42
+ Dades en milions d’euros.
+ Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+
+NP-A138_20250123                                                                                                       Pàgina 5 de 18
+                      A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+A continuació es presenta una versió simplificada de les principals variables de la balança de
+pagaments.
+
+                                                               Crèdit                 Dèbit             Saldo
+Comptes 2023
+Compte corrent                                                      3.445,20                 2.947,37          497,83
+Béns                                                                  218,26                 1.740,88       -1.522,62
+Serveis                                                             2.712,32                   770,98        1.941,34
+Rendes primàries                                                      446,36                   323,47          122,89
+Rendes secundàries                                                     68,27                   112,04          -43,77
+Compte de capital                                                       0,00                     3,50           -3,50
+Capacitat (+) / Necessitat (-) de finançament
+                                                                                                                494,33
+(saldo del compte corrent i de capital)
+ Dades en milions d’euros.
+ Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+                                                         Adquisició neta          Passius nets
+                                                                                                        Saldo
+Comptes 2023                                            d'actius financers        incorreguts
+Compte financer                                                      399,92                 -72,99              472,91
+Inversions directes                                                  204,94                255,05               -50,11
+Inversió de cartera                                                  446,28                102,42               343,85
+Derivats financers (diferents de les reserves) i
+                                                                     -231,71                 -140,21            -91,50
+opcions sobre accions dels emprats
+Altres inversions                                                       -19,58               -290,25            270,67
+Drets especials de gir (Passius nets incorreguts)                         0,00                  0,00              0,00
+Actius de reserva                                                         0,00                  0,00              0,00
+ Dades en milions d’euros.
+ Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+
+NP-A138_20250123                                                                                        Pàgina 6 de 18
+                                                      -50   -40   -30   -20   -10   0   10   20   30   40                   %                                                                                                                                                -15   -10   -5   0   5   10   15   20     %
+
+                                            Palau                                                                                                                                                                                                                 Cyprus
+                                          Bhutan
+                                                                                                                                                                                                                                                                  Greece
+                                        Dominica
+                                                                                                                                                                                                                                                                   Latvia
+                                        Maldives
+                                                                                                                                                                                                                                                                  Serbia
+NP-A138_20250123
+                   St. Vincent and the Grenadines
+                                        Grenada                                                                                                                                                                                                           United Kingdom
+
+                            Antigua and Barbuda                                                                                                                                                                                                           Slovak Republic
+                          São Tomé and Príncipe                                                                                                                                                                                                                   Estonia
+                                     Montenegro
+                                                                                                                                                                                                                                                                  Finland
+                                 Solomon Islands
+                                                                                                                                                                                                                                                                  France
+                                         Somalia
+                                                                                                                                                                                                                                                                 Belgium
+                                                                                                                                                                                                                                                                                                                                                                                                                                          3. Comparativa internacional
+
+
+                                          Cyprus
+                                        Barbados                                                                                                                                                                                                                     Italy
+
+                                   The Bahamas                                                                                                                                                                                                                   Hungary
+                                      Seychelles
+                                                                                                                                                                                                                                                                 Bulgaria
+                                           Tonga
+                                                                                                                                                                                                                                                                  Iceland
+                                        St. Lucia
+                                                                                                                                                                                                                                                          Czech Republic
+                                        Comoros
+                               St. Kitts and Nevis                                                                                                                                                                                                                Croatia
+
+                                     Cabo Verde                                                                                                                                                                                                                  Portugal
+                                          Samoa                                                                                                                                                                                                                   Poland
+                                         Vanuatu
+                                                                                                                                                                                                                                                                  Austria
+                                               Fiji
+                                                                                                                                                                                                                                                                   Malta
+                                           Belize
+                                          Iceland                                                                                                                                                                                                               Lithuania
+
+                                            Malta                                                                                                                                                                                                                  Spain
+                                                                                                                                                                                                                                                                                                                                                                            3.1. Comparativa amb alguns països europeus respecte el PIB
+
+
+
+
+                                        Suriname                                                                                                                                                                                                              San Marino
+                                           Tuvalu
+                                                                                                                                                                                                                                                                Slovenia
+                                                                                                            Compte corrent sobre el PIB en percentatge. Any 2023
+
+
+
+
+                                      Micronesia
+                                                                                                                                                                                                                                                                 Sweden
+                                           Nauru
+                                                                                                                                                                                                                                                                                                                     Compte corrent sobre el PIB en percentatge. Any 2023
+
+
+
+
+                                                                                                                                                                                                                                                                Germany
+                                      San Marino
+                                           Aruba                                                                                                                                                                                                             Luxembourg
+
+                                     Luxembourg                                                                                                                                                                                                               Switzerland
+                                          Kiribati                                                                                                                                                                                                                Ireland
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ConfiA138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+                                 Marshall Islands
+                                                                                                                                                                                                                                                             Netherlands
+                                      ANDORRA
+                                                                                                                                                                                                                                                                Denmark
+                                                                                                                                                                   3.2. Comparativa amb altres petits països de la resta del món amb demografia similar
+
+
+
+
+                              Brunei Darussalam
+                                                                                                                                                                                                                                                              ANDORRA
+                                         Guyana
+                                     Macao SAR                                                                                                                                                                                                                   Norway
+Pàgina 7 de 18
+                          A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+       3.3. Taula comparativa de la BP amb altres països
+
+                   Compte                                                    Ingrés      Compte Compte Inversió Inversió en Derivats Altres Actius de Erros i
+                                 Béns         Serveis     Ingrés primàri
+                   corrent                                                 secundari     Capital Financer directa cartera financers inversions Reserva Omissions
+Albania                -187,11    -4.542,27     3.436,34     -278,08            1.196,89       46,52 -78,01 -1.247,84 323,12               0,00 -92,82 939,54 62,61
+Andorra                 497,83    -1.522,62     1.941,34      122,89              -43,77       -3,50 472,91 -50,11 343,85 -91,50 270,67                          0,00 -21,42
+Cyprus               -3.593,58    -7.111,64     6.850,07 -3.009,33               -322,69       -7,47 -2.877,43 -3.768,30 3.166,27 -69,65 -2.201,70              -4,05 723,62
+Estonia, Rep. of       -517,14    -2.292,35     2.608,49 -1.033,79                200,51     430,82 -939,01 -2.636,62 223,45 -314,54 1.532,42 256,26 -852,69
+Euro Area           239.923,42   245.875,82   122.927,51 27.804,64          -156.682,53 37.375,52 267.776,69 25.789,97 -83.041,09 21.173,98 315.064,26 -11.209,43 -9.521,26
+France              -28.053,18   -76.146,19    35.591,83 64.809,62           -52.308,54    7.084,46 -35.787,39 28.218,52 -138.201,54 -16.715,38 110.908,23 -19.997,12 -14.818,58
+Hungary                 525,37       270,68     9.833,82 -6.965,31             -2.613,83   1.864,67 -1.247,50 -3.234,90 -8.345,49 2.517,92 5.201,74 2.613,23 -3.637,54
+Iceland                 356,05    -1.935,41     2.099,84      507,06             -315,45      -28,47 242,73 -408,02 1.979,70 -108,17 -881,45 -339,34 -84,85
+Ireland              49.936,55   161.576,22     7.650,49 -114.470,25           -4.819,90 -11.836,05 30.370,99 1.537,53 56.474,44 -13.962,84 -13.327,75 -350,39 -7.729,52
+Latvia               -1.619,92    -3.738,32     2.185,37     -950,12              884,16     795,92 81,19 -585,50 -1.562,61 -172,86 2.168,60 233,55 904,17
+Lithuania             1.392,47    -4.820,33     7.592,21 -1.900,77                521,35   1.424,13 4.580,87 -795,94 1.295,27 -55,66 3.519,18 618,02 1.764,28
+Luxembourg            5.387,65      -183,17    27.303,59 -21.335,14              -397,62    -248,10 5.122,52 44.127,01 20.530,95 -4.343,52 -55.251,44           59,53 -17,03
+Portugal              3.675,30   -24.744,18    28.056,73 -4.839,29              5.204,02   3.594,82 8.032,72 -3.393,43 8.465,53 -1.013,50 4.467,95 -492,83 761,61
+Spain                37.689,15   -32.825,03    93.013,18 -9.509,20           -12.989,81 15.976,11 59.961,66 -4.279,45 -14.098,56 -4.121,62 76.497,94 5.960,34 6.295,41
+Switzerland          57.273,79   117.703,40   -24.134,39 -22.841,90          -13.453,32    3.693,22 54.501,86 91.268,54 39.596,88 -4.784,00 50.523,94 -122.103,51 -6.465,16
+Dades en milions d’euros.
+Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge. FMI
+
+
+
+
+       3.4. Taula comparativa de la BP respecte el PIB amb percentatges
+
+
+                   Compte                                                    Ingrés     Compte Compte Inversió Inversió en Derivats Altres Actius de Erros i
+                                 Béns         Serveis     Ingrés primàri
+                   corrent                                                 secundari    Capital Financer directa cartera financers inversions Reserva Omissions
+Albania                 -0,9%       -21,4%        16,2%           -1,3%            5,6%       0,2% -0,4% -5,9%        1,5% 0,0%          -0,4%    4,4%     0,3%
+Andorra                 14,2%       -43,5%        55,5%            3,5%           -1,3%      -0,1% 13,5% -1,4%        9,8% -2,6%          7,7%    0,0% -0,6%
+Cyprus                 -12,1%       -23,9%        23,0%          -10,1%           -1,1%       0,0% -9,7% -12,6% 10,6% -0,2%              -7,4%    0,0%     2,4%
+Estonia, Rep. of        -1,4%        -6,0%         6,8%           -2,7%            0,5%       1,1% -2,5% -6,9%        0,6% -0,8%          4,0%    0,7% -2,2%
+Euro Area                1,7%         1,7%         0,9%            0,2%           -1,1%       0,3%   1,9%     0,2%   -0,6%      0,00      2,2%   -0,1% -0,1%
+France                  -1,0%        -2,7%         1,3%            2,3%           -1,9%       0,3% -1,3%      1,0%   -4,9% -0,6%          3,9%   -0,7% -0,5%
+Hungary                  0,3%         0,1%         5,0%           -3,5%           -1,3%       0,9% -0,6% -1,6%       -4,2% 1,3%           2,6%    1,3% -1,9%
+Iceland                  1,2%        -6,7%         7,2%            1,7%           -1,1%      -0,1%   0,8% -1,4%       6,8% -0,4%         -3,0%   -1,2% -0,3%
+Ireland                  9,8%        31,7%         1,5%          -22,4%           -0,9%      -2,3%   6,0%     0,3% 11,1% -0,03 -2,6%             -0,1% -1,5%
+Latvia                  -4,0%        -9,3%         5,4%           -2,4%            2,2%       2,0%   0,2% -1,5%      -3,9%      0,00      5,4%    0,6%     2,2%
+Lithuania                1,9%        -6,5%        10,3%           -2,6%            0,7%       1,9%   6,2% -1,1%       1,8%      0,00      4,8%    0,8%     2,4%
+Luxembourg               6,8%        -0,2%        34,4%          -26,9%           -0,5%      -0,3%   6,5% 55,6% 25,9% -0,05 -69,7%                0,1%     0,0%
+Portugal                 1,4%        -9,3%        10,5%           -1,8%            1,9%       1,3%   3,0% -1,3%       3,2% -0,4%          1,7%   -0,2% 0,3%
+Spain                    2,5%        -2,2%         6,2%           -0,6%           -0,9%       1,1%   4,0% -0,3%      -0,9%      0,00      5,1%    0,4%     0,4%
+Switzerland              7,0%        14,4%        -2,9%           -2,8%           -1,6%       0,5%   6,7% 11,2%       4,8% -0,01          6,2% -14,9% -0,8%
+Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge. FMI
+
+
+
+
+NP-A138_20250123                                                                                                                                          Pàgina 8 de 18
+                              A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+4. Posició Inversora Internacional (PII)
+
+En aquest apartat es presenten els principals resultats de la posició inversora internacional. Pel que
+fa a la PII d’Andorra al 2023, s’observen uns estocs finals totals pels actius i pels passius de 19.380
+i de 7.660 milions d’euros respectivament.
+
+                                                                                               Estoc inicial                            Altres            Estoc final
+              Posició Inversosa Internacional 2023 (milions d'euros)                                              Transaccions
+                                                                                                                                      variacions
+                                                                                                Any 2023                                                  Any 2023
+Actius                                                                                             18.617,29               399,92            363,00          19.380,22
+  Inversió directa                                                                                   1.662,86              204,94             75,90            1.943,70
+      Accions i participacions de fons d'inversió                                                    1.661,42              202,36             75,79            1.939,57
+      Instruments de deute¹                                                                              1,45                2,58              0,10                4,13
+   Inversió de cartera                                                                             11.733,10               446,28            101,91          12.281,29
+      Accions i participacions de fons d'inversió                                                    4.727,38             -122,65            391,48            4.996,21
+      Títols de deute                                                                                7.005,72              568,93           -289,57            7.285,08
+   Derivats financers (diferents de les reserves) i opcions sobre accions dels empleats                260,39             -231,71            183,65              212,32
+   Altres inversions                                                                                 4.622,53              -19,58              1,23            4.604,18
+      Altres participacions                                                                              0,00                0,00              0,00                0,00
+      Moneda i dipòsits                                                                              3.705,72             -134,45             10,35            3.581,62
+      Préstecs                                                                                         861,22              114,70             -8,59              967,34
+      Assegurances, pensions i plans de garantia normalitzats                                           55,59                0,16             -0,53               55,22
+      Crèdits comercials i bestretes                                                                     0,00                0,00              0,00                0,00
+      Altres comptes per cobrar                                                                          0,00                0,00              0,00                0,00
+   Actius de reserva                                                                                   338,42                0,00              0,32              338,73
+Passius                                                                                              7.620,31              -72,99            112,72            7.660,04
+   Inversió directa                                                                                  1.761,21              255,05            -65,49            1.950,77
+      Accions i participacions en fons d'inversió                                                    1.756,68              199,14            -65,14            1.890,68
+      Instruments de deute¹                                                                              4,53               55,92             -0,36               60,09
+   Inversió de cartera                                                                               1.491,68              102,42             16,81            1.610,91
+      Accions i participacions en fons d'inversió                                                      458,84               45,21             25,59              529,65
+      Títols de deute                                                                                1.032,84               57,21             -8,78            1.081,27
+   Derivats financers (diferents de les reserves) i opcions sobre accions dels empleats                152,56             -140,21            120,87              133,22
+   Altres inversions                                                                                 4.214,85             -290,25             40,54            3.965,14
+      Altres participacions                                                                              0,00                0,00              0,00                0,00
+      Moneda i dipòsits                                                                              3.432,97             -279,29             24,55            3.178,23
+      Préstecs                                                                                         453,59              -15,04              7,63              446,18
+      Assegurances, pensions i plans de garantia normalitzats                                          190,17                3,30              7,09              200,56
+      Crèdits i bestretes comercials                                                                     0,00                0,00              0,00                0,00
+      Altres comptes per pagar                                                                           0,03                0,78              1,27                2,07
+      Drets especials de gir (Contracció neta de passius)                                              138,10                0,00              0,00              138,10
+ Dades en milions d’euros.
+ Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+¹ Les posicions d'inversió directa són negatives quan els crèdits d'un inversor directe (capital i/o deute) sobre la vostra empresa d'inversió directa són menors que els
+crèdits de l'empresa d'inversió directa (capital i/o deute) sobre el vostre inversor directe. Les posicions d'inversió directa també poden ser negatives per les posicions
+netes negatives amb els socis. Les posicions d'inversió directa també poden ser negatives a causa dels beneficis retinguts negatius (que poden resultar de l'acumulació
+de beneficis reinvertits negatius).
+
+
+
+
+NP-A138_20250123                                                                                                                                      Pàgina 9 de 18
+                        A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+Pel que fa a la distribució dels actius de la posició inversora internacional la partida més important
+és la destinada a inversió de cartera seguida de les altres inversions i de la inversió directa.
+
+                                                                              Estoc inicial                     Altres           Estoc final
+            Posició Inversosa Internacional 2023 (Distribució)                                 Transaccions
+                                                                                                              variacions
+                                                                                       Any 2023                                  Any 2023
+Actius                                                                                      100,00% 100,00%       100,00%             100,00%
+  Inversió directa                                                                            8,93%  51,24%        20,91%              10,03%
+     Accions i participacions de fons d'inversió                                              8,92%  50,60%        20,88%              10,01%
+     Instruments de deute                                                                     0,01%   0,64%         0,03%               0,02%
+  Inversió de cartera                                                                        63,02% 111,59%        28,07%              63,37%
+     Accions i participacions de fons d'inversió                                             25,39% -30,67%       107,85%              25,78%
+     Títols de deute                                                                         37,63% 142,26%       -79,77%              37,59%
+  Derivats financers (diferents de les reserves) i opcions sobre accions dels empleats        1,40% -57,94%        50,59%               1,10%
+   Altres inversions                                                                         24,83%  -4,90%         0,34%              23,76%
+     Altres participacions                                                                    0,00%   0,00%         0,00%               0,00%
+     Moneda i dipòsits                                                                       19,90% -33,62%         2,85%              18,48%
+     Préstecs                                                                                 4,63%  28,68%        -2,37%               4,99%
+     Assegurances, pensions i plans de garantia normalitzats                                  0,30%   0,04%        -0,15%               0,28%
+     Crèdits comercials i bestretes                                                           0,00%   0,00%         0,00%               0,00%
+     Altres comptes per cobrar                                                                0,00%   0,00%         0,00%               0,00%
+  Actius de reserva                                                                           1,82%   0,00%         0,09%               1,75%
+  Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+
+                                 Distribució de l'estoc final dels actius. Any 2023
+                                               Inversió directa
+
+                     Accions i participacions de fons d'inversió
+
+                                          Instruments de deute
+
+                                            Inversió de cartera
+
+                     Accions i participacions de fons d'inversió
+
+                                                Títols de deute
+
+         Derivats financers (diferents de les reserves) i opcions…
+
+                                              Altres inversions
+
+                                          Altres participacions
+
+                                             Moneda i dipòsits
+
+                                                       Préstecs
+
+                    Assegurances, pensions i plans de garantia…
+
+                                 Crèdits comercials i bestretes
+
+                                     Altres comptes per cobrar
+
+                                              Actius de reserva
+
+                                                                   0%   10%        20%        30%     40%     50%          60%     70%
+
+
+
+
+NP-A138_20250123                                                                                                            Pàgina 10 de 18
+                            A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+Quant a la distribució dels passius de la posició inversora internacional la partida més important és
+la destinada a les altres inversions seguida de la inversió directa i de la inversió de cartera.
+
+
+                                                                                          Estoc inicial                       Altres           Estoc final
+            Posició Inversosa Internacional 2023 (Distribució)                                             Transaccions
+                                                                                                                            variacions
+                                                                                           Any 2023                                            Any 2023
+Passius                                                                                         100,00%         100,00%         100,00%             100,00%
+  Inversió directa                                                                                23,11%        -349,45%         -58,10%              25,47%
+    Accions i participacions en fons d'inversió                                                   23,05%        -272,84%         -57,79%              24,68%
+    Instruments de deute                                                                           0,06%         -76,61%          -0,32%               0,78%
+  Inversió de cartera                                                                             19,58%        -140,33%         14,91%               21,03%
+    Accions i participacions en fons d'inversió                                                    6,02%         -61,95%         22,70%                6,91%
+    Títols de deute                                                                               13,55%         -78,39%          -7,79%              14,12%
+  Derivats financers (diferents de les reserves) i opcions sobre accions dels empleats             2,00%        192,11%         107,23%                1,74%
+  Altres inversions                                                                               55,31%        397,68%          35,96%               51,76%
+    Altres participacions                                                                          0,00%          0,00%            0,00%               0,00%
+    Moneda i dipòsits                                                                             45,05%        382,66%          21,78%               41,49%
+    Préstecs                                                                                       5,95%         20,61%            6,77%               5,82%
+    Assegurances, pensions i plans de garantia normalitzats                                        2,50%          -4,52%           6,29%               2,62%
+    Crèdits i bestretes comercials                                                                 0,00%          0,00%            0,00%               0,00%
+    Altres comptes per pagar                                                                       0,00%          -1,06%           1,13%               0,03%
+    Drets especials de gir (Contracció neta de passius)                                            1,81%          0,00%            0,00%               1,80%
+  Font: Departament d’Estadística. Ministeri de Presidència, Economia, Treball i Habitatge.
+
+
+
+
+                                     Distribució de l'estoc final dels passius. Any 2023
+                                                              Inversió directa
+
+                             Accions i participacions en fons d'inversió
+
+                                                     Instruments de deute
+
+                                                          Inversió de cartera
+
+                             Accions i participacions en fons d'inversió
+
+                                                              Títols de deute
+
+               Derivats financers (diferents de les reserves) i opcions…
+
+                                                            Altres inversions
+
+                                                      Altres participacions
+
+                                                          Moneda i dipòsits
+
+                                                                     Préstecs
+
+           Assegurances, pensions i plans de garantia normalitzats
+
+                                           Crèdits i bestretes comercials
+
+                                                  Altres comptes per pagar
+
+                     Drets especials de gir (Contracció neta de passius)
+
+                                                                                 0%      10%     20%      30%   40%       50%   60%      70%     80%
+
+
+
+
+NP-A138_20250123                                                                                                                         Pàgina 11 de 18
+                    A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+5. Notes metodològiques
+
+
+    •    Introducció:
+
+L’obtenció de la Balança de Pagaments (BP) i la Posició d’Inversió Internacional (PII) d’una
+economia permet disposar d’una anàlisi exhaustiva de les relacions econòmiques, i de la seva
+tipologia, que es produeixen entre aquesta i la resta del món. En aquest sentit, es tracta d’un
+instrument estadístic rellevant però que, alhora, implica una notable complexitat d’obtenció de la
+informació de base.
+
+    1. Marc conceptual
+
+La BP és una estadística de caràcter macroeconòmic que resumeix, de manera sistemàtica, les
+relacions econòmiques entre els residents d'una economia i els residents de la resta del món.
+Constitueix juntament amb la posició inversora internacional (PII) el que es denomina "els comptes
+internacionals de l'economia". La BP registra, per a un període de temps donat, les transaccions que
+tenen lloc entre els residents i els no residents. La PII mostra el valor i la composició, en un moment
+donat, de les tinences d'actius i passius financers enfront de l'exterior i presenta els saldos, actius i
+passius, ordenats amb la mateixa estructura i des de la mateixa òptica que les corresponents
+transaccions financeres de la BP.
+
+En el cas d'Andorra, la BP s'elabora seguint les directrius del sisè Manual de la Balança de
+Pagaments i de la Posició Inversora Internacional (MBP6). Els conceptes i definicions d'aquest
+manual són coherents amb els quals es recullen en el Sistema de Comptes Nacionals (SCN) i, en
+la seva versió europea, en el Sistema Europeu de Comptes (SEC), de manera que les estadístiques
+macroeconòmiques oficials han de ser consistents en estar integrades en un marc comú
+harmonitzat.
+
+
+
+    1.1. Territori econòmic i residència
+
+L'FMI considera que una unitat és resident en un país quan el seu “centre d'interès econòmic
+predominant” està localitzat en el territori econòmic d'aquest país (en la pràctica, en les estadístiques
+macroeconòmiques el territori econòmic és la zona que es troba sota el control efectiu d'un govern),
+és a dir, quan existeix una ubicació, un habitatge, un lloc de producció o un altre tipus d'instal·lació,
+en el qual o des del qual aquesta unitat realitza o té la intenció de realitzar, indefinidament o en un
+llarg termini, activitats econòmiques i transaccions en gran escala. En la pràctica se suggereix
+utilitzar com a referència la permanència al país durant un any o més, encara que no es tracta d'una
+regla inflexible.
+
+El territori econòmic d'un país inclou, a més del territori nacional, enclavaments en la resta del món
+(per exemple, ambaixades, consolats o bases militars) i, no obstant això, no inclou als organismes
+internacionals situats en aquest país (són un territori econòmic en si mateixos).
+
+
+
+
+NP-A138_20250123                                                                             Pàgina 12 de 18
+                           A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+    1.2. Estructura dels comptes
+
+Els comptes internacionals ofereixen un marc integrat per a l'anàlisi de les relacions econòmiques
+d'una economia enfront de la resta del món. Aquest marc presenta una seqüència de comptes que
+es resumeix en el gràfic següent.
+
+
+
+
+                                               Balança de
+                                               pagaments
+
+
+
+                                             Compte corrent
+
+     Capacitat / Necessitat
+        de finançament
+                                            Compte de capital
+
+
+             Posició inversora                                  Altres variacions en         Posició inversora
+              internacional                 Compte financer                                   internacional
+                                                                 els actius i passius
+        Stock inicial o balanç d'obertura                                               Stock final o balanç de tancament
+
+
+
+
+Com il·lustra el gràfic, els canvis de la PII entre dos períodes venen explicats per les transaccions
+recollides en el Compte financer de la BP i també per altres fluxos.
+
+
+
+    1.3. Valoració
+
+Els preus de mercat són la base per a valorar els comptes internacionals. Les transaccions han de
+valorar-se atès el preu vigent en la data de l'operació. Per a actius o passius que no es negociïn en
+mercats financers o que es negociïn amb poca freqüència, el MBP6 admet l'ús de criteris alternatius.
+En el cas específic de la inversió directa, per exemple, per a valorar les posicions en accions no
+cotitzades i altres participacions en el capital, el MBP6 contempla la utilització del valor comptable
+dels recursos propis de l'empresa participada. En el cas concret dels préstecs i altres partides de
+l'altra inversió, que tampoc són fàcilment transferibles, l'FMI recomana utilitzar el valor nominal.
+
+
+
+    1.4. Moment de registre dels fluxos
+
+En els comptes internacionals, els fluxos han de registrar-se en valors reportats. Això significa que
+han de registrar-se amb referència "al moment en què es crea, transforma, intercanvia, transfereix
+o extingeix un valor econòmic". En altres paraules, els efectes dels esdeveniments econòmics han
+de registrar-se quan ocorren, independentment de si existeix o no liquidació de cobraments o
+pagaments relacionats i del moment en el qual aquesta liquidació tingui lloc.
+
+
+
+
+NP-A138_20250123                                                                                                            Pàgina 13 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+    •   Fonts d’informació
+
+La Balança de Pagaments és el resultat de la combinació i integració d’un elevat nombre de fonts
+d’informació, tant d’origen administratiu com d’origen estadístic. Aquestes fonts d’informació són les
+següents:
+
+
+    -   Fonts específiques creades per l’obtenció directa de dades per l’elaboració de la BP:
+              o   Enquesta a les entitats financeres (AFA, bancs i assegurances).
+A través de l’enquesta a les institucions financers i asseguradores, es recull tota la informació
+pertinent corresponent a aquests organismes i que no s’han pogut recollir a través de les fonts
+administratives o d’origen estadístic. El principal objectiu és recollir les transaccions financeres fetes
+a traves d’aquests organismes amb l’exterior.
+
+
+    -   Fonts d’informació procedents d’altres activitats estadístiques:
+              o   Estadística del comerç internacional de béns
+La seva finalitat és l’obtenció de dades sobre els volums físics i el valor dels béns intercanviats entre
+Andorra i la resta del món, d’acord amb les classificacions que hi siguin aplicables i a partir de la
+informació duanera disponible.
+
+
+              o   Enquesta de pressupostos familiars
+La seva finalitat és l’obtenció de dades sobre l’evolució de les despeses en consum de béns i serveis
+destinats a les llars, així com la seva estructura i distribució, a partir d’una mostra representativa de
+la població resident.
+
+
+              o   Estadística de la despesa turística
+La seva finalitat és l’obtenció de dades sobre els viatges dels residents a l’estranger i el consum
+efectuat en béns i serveis fora del Principat per tal d’estimar la despesa turística, a partir d’una
+mostra representativa de la població resident.
+
+
+              o   Estadística de l’execució del pressupost del sector públic
+La seva finalitat és el coneixement de l’execució del pressupost d’ingressos i despeses del sector
+públic, d’acord amb el marc del Sistema europeu de comptes 2010 i segons les classificacions que
+hi siguin aplicables.
+
+
+              o   Estadística de salaris
+La seva finalitat és l’explotació de les dades relatives a la massa salarial, nombre d’assalariats i
+salari mitjà, entre altres característiques, a partir de la informació administrativa i estadística
+disponible.
+
+
+
+
+NP-A138_20250123                                                                            Pàgina 14 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+             o   Estadística tributària bàsica. Pressió fiscal
+La seva finalitat és el coneixement de la recaptació dels principals impostos indirectes i directes de
+l’Administració tributària, els comuns i la Seguretat Social.
+
+
+             o   Enquesta d’activitats econòmiques de les empreses
+La seva finalitat és l’obtenció de dades sobre l’activitat econòmica principal i secundària, consums i
+despeses específiques, nivells d’ocupació i altres variables de les empreses no financeres no
+incloses en la informació administrativa o estadística disponible, a partir d’una mostra representativa
+d’empreses i establiments.
+
+
+             o   Enquesta de les forces del treball
+La seva finalitat és el coneixement de la relació de les persones que viuen al Principat amb el mercat
+de treball, descriure les característiques sociodemogràfiques i econòmiques de cada grup
+ocupacional i permetre la comparabilitat internacional.
+
+
+             o   Estadística de la inversió estrangera directa
+La seva finalitat és oferir informació sobre el nombre de sol·licituds autoritzades i formalitzades
+d’inversió estrangera directa, el volum d’inversió segons els àmbits econòmics i el país de
+procedència, el volum mitjà, la proporció respecte al PIB i altres dimensions econòmiques.
+
+
+             o   Estadística dels indicadors de l’educació
+La seva finalitat és proporcionar informació sobre el nombre d’estudiants residents efectuant estudis
+a l’estranger, i el nombre d’estudiants no residents cursant estudis al territori.
+
+
+    -   Altres fonts d’informació:
+
+
+             o   Consulta a les ambaixades. La seva finalitat és recollir la informació de les
+                 ambaixades referent als seus ingressos i despeses efectuats al territori, i per tant
+                 que han de ser recollits a la balança de pagaments.
+
+
+             o   Consulta a l’administració local i altres entitats públiques. La seva finalitat és recollir
+                 la informació dels comuns referent als seus ingressos i despeses efectuats amb
+                 l’exterior, ja que no es disposa actualment de cap font que permeti obtenir aquestes
+                 dades.
+
+
+             o   Consulta a l’Oficina de Marques i Patents d’Andorra (OMPA) per identificar les
+                 marques, patents i drets d’autor registrats al territori provinents de l’exterior.
+
+
+             o   Consulta al registre del Departament de Tributs i Fronteres (DTF).
+
+
+
+
+NP-A138_20250123                                                                             Pàgina 15 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+
+            o    Estadístiques mirall del FMI (Fons Monetari Internacional) per identificar les
+                 declaracions de transaccions financeres, concretament dades d’estocs i fluxos
+                 d’inversió directa i en cartera, dels països de l’entorn amb el territori.
+
+
+            o    Estadístiques mirall del Banc d’Inversions Internacionals (BIS) per identificar dades
+                 sobre altres inversions declarades pels països de l’entorn respecte al territori.
+
+
+            o    Dipòsit de Comptes per identificar els sectors productius no tractats en l’estadística
+                 estructural d’empreses.
+
+
+            o    Registre de societats.
+
+
+            o    Registre d’immigració.
+
+
+
+    •   Procés estadístic
+
+La Balança de Pagaments i la Posició Inversora Internacional s'ha elaborat a partir d'un procediment
+que integra un conjunt de fases, que es presenten simplificades a continuació:
+
+Fase 1: Elaboració del Compte Corrent.
+    1. Compte de béns i serveis.
+    2. Compte de rendes primàries.
+    3. Compte de rendes secundàries.
+
+
+Fase 2: Elaboració del Compte de Capital.
+    1. Adquisició d’actius no financers no produïts.
+    2. Transferències de capital.
+
+
+Fase 3: Elaboració del Compte Financer.
+    1. Inversió directa.
+    2. Inversió en cartera.
+    3. Derivats financers.
+    4. Altres inversions.
+    5. Actius de reserva.
+
+
+Fase 4: Elaboració de la Posició Inversora Internacional
+    1. Posició inversora internacional inicial (estoc inicial).
+    2. Fluxos de transaccions (compte financer).
+    3. Altres variacions d’actius i passius.
+    4. Posició inversora internacional final (estoc final).
+
+
+
+NP-A138_20250123                                                                              Pàgina 16 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+   •   Referències metodològiques.
+
+   -   Manual de Balança de Pagaments i Posició Inversora Internacional, sisena edició (MBP6)
+       del Fons Monetari Internacional.
+   -   Guia de compilacions del MBP6, document complementari a la sisena edició del manual de
+       balança de pagaments i posició inversora internacional del Fons Monetari Internacional.
+   -   OCDE definició del marc de la inversió estrangera directa, de la OCDE. Edició 2008.
+   -   Reglament (CE) núm. 184/2005 del parlament Europeu i del Consell del 12 de gener de
+       2005 relatiu a les estadístiques comunitàries sobre balança de pagaments, comerç
+       internacional de serveis i inversions estrangeres directes.
+
+
+   •   Nota: s’han revisat les dades anteriors a tota la sèrie històrica, i en conseqüència els
+       resultats obtinguts en aquesta edició poden diferir dels de l’edició anterior.
+
+   •   Citació. Per a qualsevol utilització de la informació continguda en aquesta nota de premsa
+       gràcies de citar “Dades del Departament de Tributs i Fronteres, tractades pel Departament
+       d’Estadística per a la Nota de Premsa ref. NP-A138_20250123”
+
+
+   •   Contactes. Per estar informat en qualsevol moment de les noves publicacions us podeu
+       inscriure a la nostra “Alerta informativa” a la nostra web. També hi podeu trobar l’històric de
+       les notes de premsa d’aquest tema: http://www.estadistica.ad.
+       Amb l’objectiu de maximitzar la difusió de la informació estadística d’Andorra, les Notes de
+       Premsa del Departament d’Estadística es podran seguir també per X (antic TWITTER).
+
+
+   •   Programa estadístic: D’acord amb les previsions de la Llei del Pla d’estadística 2022-2025
+       i el seu desplegament en el Programa estadístic per a l’any 2024, aquest informe dona
+       resposta a l’activitat estadística: A138. Balança de pagaments i posició inversora
+       internacional.
+
+
+
+
+NP-A138_20250123                                                                            Pàgina 17 de 18
+                   A138. Balança de pagaments i posició inversora internacional. Any 2023
+
+
+
+6. Dates de les publicacions previstes
+
+Nota de premsa “A138. Balança de pagaments i posició inversora internacional. Any 2024”:
+Desembre de 2025.
+
+
+
+
+NP-A138_20250123                                                                            Pàgina 18 de 18
+

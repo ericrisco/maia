@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1016** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1017** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1503,6 +1503,7 @@
 | [Els seguiments del CENMA](temes/territori/fauna-i-flora/els-seguiments-del-cenma.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `komac-biodiversitat-canvi-climatic` |
 | [Fauna i flora](temes/territori/fauna-i-flora/fauna-i-flora.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `viquipedia-ca` |
 | [La tinença d'animals](temes/territori/fauna-i-flora/la-tinenca-danimals.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Qui caça i qui pesca](temes/territori/fauna-i-flora/qui-caca-i-qui-pesca.md) | `temes/territori/fauna-i-flora` | compilada | contemporania | no | `govern-andorra-web` |
 
 ## temes/territori/geografia-fisica
 
