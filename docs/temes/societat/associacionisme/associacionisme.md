@@ -42,8 +42,15 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
 
 ## El que falta, que és pràcticament tot
 
-- El **registre d'associacions** d'Andorra i la seva llei. **Ha d'existir i no
-  s'ha buscat.**
+- ~~El **registre d'associacions** d'Andorra i la seva llei.~~ — **`parcial`
+  el 18-09-2026**: **Llei qualificada d'associacions, del 29-12-2000**
+  (BOPA 10/2001), que desenvolupa l'**article 17 de la Constitució**
+  ([font](../../../fonts/bopa-llei-associacions-2000.md)). **Mínim de tres
+  persones, finalitat no lucrativa**; **exclosos col·legis professionals,
+  societats mercantils i fundacions**. **El registre és de publicitat, no
+  d'autorització.** Reglamentat primer el 2001 i actualitzat el **2024**
+  (Decret 299/2024) — **cap dels dos reglaments s'ha llegit sencer
+  encara**, ni s'ha comptat quantes associacions hi consten inscrites.
 - Les **corals**, que canten [les caramelles](../../costums/caramelles/les-caramelles.md)
   i que **tenen nom i data** que el corpus no té.
 - Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
