@@ -76,11 +76,22 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Els seus combats de Londres**: contra qui, com hi va arribar novè. —
-  **`obert`, confirmat, i el motiu és de font**: **el bolcat és de dues línies**
-  i **només diu que va competir en -66 kg a Pequín 2008 i a Londres 2012.**
-  **Cap rival, cap ronda, cap resultat.**
-- **El seu resultat de Pequín.** — **`obert`, confirmat, pel mateix motiu.**
+- ~~**Els seus combats de Londres**: contra qui, com hi va arribar novè.~~ i
+  ~~**el seu resultat de Pequín**~~ — **`parcial` el 18-09-2026**, **amb els
+  bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/`** (Viquipèdia,
+  CC BY-SA 4.0), **que en donen la ronda i el marcador encara que el seu bolcat
+  personal no en digui res**:
+
+  | Jocs | Com va anar |
+  | --- | --- |
+  | **[Pequín 2008](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2008_Summer_Olympics.wiki)** | **exempt a la preliminar** · **perd per ippon als 32ns** contra **Yordanis Arencibia** (Cuba) · **perd per ippon a la repesca** contra **Amin El Hady** (Egipte) |
+  | **[Londres 2012](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2012_Summer_Olympics.wiki)** | **exempt als 64ns** · **guanya als 32ns, 0020–0001** · **perd als 16ns, 0002–0013** · **9è** |
+
+  **Així és com s'arriba novè**: **un combat guanyat.** **A Londres va passar
+  una ronda i a Pequín no en va passar cap.**
+
+  `Els noms dels rivals de Londres el bolcat d'edició no els dona —hi posa només
+  el marcador—, i els de Pequín sí. Aquest tros segueix obert.`
 - ~~**On va néixer**~~ — **`resolt` de passada**: **Andorra la Vella, 9
   d'octubre del 1984.**
 - **El seu palmarès europeu i mundial** — **`obert`, confirmat** —, i ~~els Jocs
