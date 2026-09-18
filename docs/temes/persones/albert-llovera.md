@@ -90,7 +90,11 @@ andorrà i **ho registra com a fet, pendent de comprovar si n'hi ha més**.
 | **2010** | Torna al Mundial a temps complet, **Super 2000**, amb un Fiat Abarth Grande Punto S2000. **Cinquè de classe al Ral·li de Mèxic**, la seva primera cursa; **17è absolut al de Catalunya** |
 | **2011** | **Quart de categoria a Jordània** |
 | **2012** | **Darrer ral·li del Mundial**, al de Catalunya |
-| **2020** | **Corre el Dakar en camió**, amb un Iveco de l'equip neerlandès **De Rooy** |
+| **2016** | **Passa del cotxe al camió al Dakar** |
+| **2020** | **Corre el Dakar en camió**, amb un Iveco de l'equip neerlandès **De Rooy**. **El seu millor resultat: 15è** |
+| **2022** | Fitxa per **Fesh Fesh**, Iveco; **es retira a la setena etapa** |
+| **2023** | Estrena el **Ford Cargo EVO I** de Fesh Fesh; **avaria a la primera etapa** |
+| **2024** | **Abandona la quarta etapa** per un mal de cap; torna com a **Dakar Experience** i acaba **17è a camions** |
 
 **Vint-i-nou ral·lis mundials. Zero victòries, zero podis, zero punts.** La
 font ho dona així i **el corpus no ho maquilla**: el fet notable **no és el
@@ -118,8 +122,15 @@ Martí**.
 - **El documental i el llibre**, que són **fonts andorranes de primera persona**
   i el corpus no els té. **Buit prioritari**: *No limits* és **una autobiografia
   esportiva andorrana**.
-- **Si segueix competint.** La font es va actualitzar per darrera vegada el
-  2018 per al Mundial i dona el Dakar del 2020. **Res posterior.**
+- ~~**Si segueix competint.**~~ — **`parcial` el 18-09-2026**: **sí, fins al
+  2024 com a mínim.** **Canvia de cotxe a camió el 2016** —abans del que la
+  font original donava a entendre—, corre amb **Team de Rooy fins al 2020**
+  (el 15è que ja constava), i després amb **Fesh Fesh**: **IVECO el 2022**,
+  **Ford Cargo EVO I des del 2023**, amb **avaries recurrents** i un
+  **abandó per mal de cap a la quarta etapa del 2024** —torna com a Dakar
+  Experience i acaba **17è a camions**
+  ([font](../../fonts/checkeredflag-llovera-2024.md)). **No repeteix amb
+  Fesh Fesh el 2025**; **el 2025 i el 2026 segueixen sense confirmar.**
 
 ## Related
 
