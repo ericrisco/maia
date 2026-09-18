@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **356** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **358** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1764,6 +1764,7 @@
 | [`bopa`](fonts/bopa.md) | Govern del Principat d'Andorra | Publicacio oficial de l'Estat andorra. Les bases reguladores publicades al BOPA num. 1 del 1989 (base d) diuen: les disposicions reproduides al BOPA es poden inserir total o parcialment en altres publicacions sempre que convingui citar-les o transcriure-les, pero NO es poden publicar soles o en colleccio sense autoritzacio escrita previa de l'autoritat de que emanin. | citacio |
 | [`bopa-2005-reglament-arxiu-nacional`](fonts/bopa-2005-reglament-arxiu-nacional.md) | Govern d'Andorra | text normatiu oficial, ús públic | permesa (text legal) |
 | [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
+| [`bopa-decret-355-2024-reglament-cvpc`](fonts/bopa-decret-355-2024-reglament-cvpc.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-edictes-contractacio-ensenyants-1990-1997`](fonts/bopa-edictes-contractacio-ensenyants-1990-1997.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-llei-enade-1996`](fonts/bopa-llei-enade-1996.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-subvencions-culturals-2010`](fonts/bopa-subvencions-culturals-2010.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
@@ -1984,6 +1985,7 @@
 | [`ubach-moviments-socials`](fonts/ubach-moviments-socials.md) | Gabriel Ubach i Valdivia · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`uda-canal`](fonts/uda-canal.md) | Universitat d'Andorra | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube. Verificada a 4 peces el 2026-09-14; no verificada a la resta. | si |
 | [`uda-model-sistemic-2010`](fonts/uda-model-sistemic-2010.md) | Grup de recerca en llengua catalana de la Universitat d'Andorra i els autors · publicat al portal del Govern d'Andorra | sense llicència declarada; el document no porta pàgina de crèdits, ni ISBN, ni dipòsit legal | no |
+| [`uefa-faf-member-association`](fonts/uefa-faf-member-association.md) | UEFA (Union of European Football Associations) | pàgina institucional pública | pendent |
 | [`un-member-states`](fonts/un-member-states.md) | Organització de les Nacions Unides | pàgina institucional pública | pendent |
 | [`unesco-bear-festivities-pyrenees`](fonts/unesco-bear-festivities-pyrenees.md) | UNESCO, Sector de Cultura | Copyright UNESCO; citació i ús de recerca | limitada |
 | [`unesco-countries-andorra`](fonts/unesco-countries-andorra.md) | UNESCO | desconeguda, ús informatiu | False |

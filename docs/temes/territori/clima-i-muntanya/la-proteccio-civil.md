@@ -116,7 +116,14 @@ Hi ha també un **Cos de voluntaris de protecció civil** amb capítol propi
   amb mesures, estimacions i cronologies atribuïdes. És anterior a
   la llei de 2022 i no n'acredita l'aplicació. Queden pendents el
   conjunt d'episodis, els informes operatius originals i els aiguats.
-- **Quantes persones hi ha al Cos de voluntaris**, no consta.
+- ~~**Quantes persones hi ha al Cos de voluntaris**, no consta.~~ —
+  **`parcial` el 18-09-2026**: no consta **perquè el reglament mateix
+  decideix no fixar-hi cap xifra**
+  ([font](../../../fonts/bopa-decret-355-2024-reglament-cvpc.md)).
+  L'article 8.3 del **Decret 355/2024** diu que el nombre de voluntaris
+  s'estableix **any a any per ordre ministerial**, «per garantir un
+  creixement sostenible». **Cap ordre d'aquest tipus s'ha trobat publicada
+  al BOPA** des del setembre del 2024.
 - **Si el deure de col·laboració s'ha activat mai**, tampoc.
 - ~~**La [Llei de seguretat pública](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 31/2021, 66 articles), que és la peça germana, és al recull i **queda per
