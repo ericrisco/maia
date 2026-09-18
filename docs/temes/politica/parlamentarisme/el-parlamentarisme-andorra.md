@@ -147,14 +147,13 @@ fumar en un local públic**.
    [Els síndics generals](../../persones/els-sindics-generals.md) —**quaranta-set
    mandats**, **una data impossible que el corpus rebutja** i **el càrrec que
    canvia de nom el 1993**.
-3. ~~**La llista dels caps de Govern.**~~ — **`resolt` el 18-09-2026**: **el
-   càrrec es crea el 8 de gener del 1982**
-   ([font](../../../fonts/wikipedia-ca-caps-de-govern.md)). **Òscar Ribas Reig**
-   (1982-1984), **Josep Pintat Solans** (1984-1990), **Òscar Ribas Reig** de nou
-   (1990-1994, **el mandat que travessa la Constitució del 1993**), **Marc Forné
-   Molné** (1994-2005), **Albert Pintat Santolària** (2005-2009), **Jaume
-   Bartumeu Cassany** (2009-2011), **Antoni Martí Petit** (2011-2019) i
-   **Xavier Espot Zamora** (2019-actualitat).
+3. ~~**La llista dels caps de Govern.**~~ — **`resolt` el 18-09-2026, i era
+   un buit duplicat**: **la successió sencera, dia a dia, ja té fitxa
+   pròpia** a [Els caps de Govern](../../persones/els-caps-de-govern.md)
+   —**el càrrec es crea el 8 de gener del 1982**, nou persones en total
+   comptant-hi **dos interins** (Pere López Agràs, 14 dies el 2011; Gilbert
+   Saboya i Sunyé, 9 dies el 2015) que aquesta fitxa no tenia
+   ([font](../../../fonts/wikipedia-ca-caps-de-govern.md)).
 4. **El llibre d'actes del Consell General entre 1745 i 1864**, que **ha
    desaparegut**. Bascompte ho qualifica de pèrdua d'«un gran període
    històric»: **de la Revolució Francesa a les carlinades**.
