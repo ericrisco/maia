@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **363** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **364** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -2019,6 +2019,7 @@
 | [`wikipedia-ball-ossa-encamp`](fonts/wikipedia-ball-ossa-encamp.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-albert-villaro`](fonts/wikipedia-ca-albert-villaro.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-boris-i-dandorra`](fonts/wikipedia-ca-boris-i-dandorra.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-cass`](fonts/wikipedia-ca-cass.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |

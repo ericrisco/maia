@@ -80,7 +80,16 @@ una constitució de disset articles.**
 
 - **El text dels disset articles.** **Se'n van imprimir deu mil exemplars i el
   corpus no en té ni una línia literal.** **Buit prioritari, i és material que
-  ha d'existir en arxius espanyols i francesos.**
+  ha d'existir en arxius espanyols i francesos.** — **`parcial` el
+  18-09-2026**: la Viquipèdia catalana
+  ([font](../../../fonts/wikipedia-ca-boris-i-dandorra.md)) **no en dona el
+  text literal, però sí un resum de cada bloc**: transformava el Consell
+  General en parlament, creava un govern de tres ministres, feia el príncep
+  representant permanent a la Societat de Nacions, garantia llibertat
+  religiosa, de premsa i de circulació, reorganitzava la justícia,
+  prohibia l'expulsió de ciutadans andorrans i garantia drets als
+  estrangers amenaçats d'expulsió. **El buit del text literal segueix
+  prioritari i obert.**
 - **Qui era el síndic Pere Torras**, i per què hi va posar el nom.
 - **Qui va votar en contra.**
 - **Què va passar amb el text després de l'expulsió de Skossyreff**, vuit dies
