@@ -96,8 +96,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   United League la temporada 2015-16** i **primer equip ideal de l'EuroCup el
   2018**, **tots dos amb l'UNICS Kazan.**
 - ~~**El BC Andorra**, sencer.~~ `resolt`: [el BC Andorra](./bc-andorra.md).
-- **Els seus números**: punts, assistències, temporades. — **`parcial`**: el
-  **medaller** de dalt és el que la font en dona, i **no en dona estadístiques**.
+- ~~**Els seus números**: punts, assistències, temporades.~~ — **`parcial` el
+  18-09-2026**: el **medaller** de dalt és el que la font en dona, i **no en
+  dona estadístiques**.
 - ~~**Quan es va retirar.**~~ `resolt` més amunt en aquesta mateixa llista: **el
   25 de febrer del 2025**. `Entrada duplicada, retirada el 2026-09-18.`
 - **I una precisió que arriba del bolcat de la selecció** i que **confirma el
