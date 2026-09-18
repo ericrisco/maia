@@ -1,7 +1,7 @@
 ---
 type: article
-title: "El Museu de la Ràdio, previst per al 2015"
-description: "Ràdio Andorra va emetre del 1939 al 1981 i va arribar a França, Espanya, Bèlgica, Itàlia i Mònaco. El seu museu tenia data prevista i el corpus no sap si va obrir."
+title: "El Museu de la Ràdio, un projecte encara pendent"
+description: "Ràdio Andorra va emetre del 1939 al 1981 i va arribar a França, Espanya, Bèlgica, Itàlia i Mònaco. El projecte museístic d'Encamp encara no consta executat."
 tema: temes/cultura/museus-i-arxius/museus
 veu: compilada
 epoca: contemporania
@@ -11,15 +11,19 @@ timestamp: 2026-09-13T21:05:00Z
 tags: [cultura, museus, mitjans]
 ---
 
-# El Museu de la Ràdio, previst per al 2015
+# El Museu de la Ràdio, un projecte encara pendent
 
 ## El fet
 
 **La font anuncia un Museu de la Ràdio a Encamp «que té previst obrir-se el
 2015».**
 
-**El corpus no sap si va obrir.** **Buit immediat**, i **és un buit amb data:
-l'article no s'ha actualitzat des d'abans del 2015.**
+Una notícia del **Govern d'Andorra del 8 de maig de 2024** explica que encara
+convoca un concurs per museïtzar l'antic centre emissor amb realitat augmentada
+i que l'objectiu, **un cop implementat el projecte**, és incorporar l'espai de
+memòria a l'oferta museística i obrir-lo a tots els públics
+([font](../../../../fonts/govern-museu-radio-2024.md)). **No consta, doncs, que
+obrís el 2015; tampoc no consta que el projecte posterior s'hagi acabat.**
 
 ## El que la font hi afegeix sobre Ràdio Andorra
 
@@ -53,7 +57,13 @@ el franquisme»; aquesta font diu «col·laboració amb el règim de Hitler».**
 
 ## El que falta
 
-- **Si el museu va obrir el 2015.** **Prioritari, i comprovable.**
+- ~~**Si el museu va obrir el 2015.**~~ — **`parcial` el 19-09-2026**: una
+  notícia del **Govern d'Andorra del 8 de maig de 2024** anuncia un concurs per
+  museïtzar l'antic centre emissor amb realitat augmentada i diu que **l'objectiu,
+  un cop implementat el projecte, és que l'espai entri a l'oferta museística i
+  s'obri a tots els públics** ([fitxa de font](../../../../fonts/govern-museu-radio-2024.md)).
+  Això indica que **no consta obert el 2015**; la implementació posterior i
+  l'obertura efectiva segueixen sense confirmar-se.
 - **Els acords amb el govern de Franco.**
 - **Quina era, realment, l'acusació contra Tramoulet.**
 
