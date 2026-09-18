@@ -588,10 +588,10 @@
 | [Francisco «Kiko» Pomares i Ortega](temes/esports/futbol/kiko-pomares.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Koldo Álvarez de Eulate i Güergue](temes/esports/futbol/koldo-alvarez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [La selecció](temes/esports/futbol/la-seleccio.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
-| [Leonel Alves](temes/esports/futbol/leonel-alves.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Leonel Felipe Alves Alves](temes/esports/futbol/leonel-alves.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Ludovic Clemente i Garcés](temes/esports/futbol/ludovic-clemente.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Luigi San Nicolás i Schellens](temes/esports/futbol/luigi-san-nicolas.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
-| [Luis Blanco](temes/esports/futbol/luis-blanco.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Luis Emilio Blanco Coto](temes/esports/futbol/luis-blanco.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Manuel «Manolo» Jiménez i Soria](temes/esports/futbol/manolo-jimenez.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Bernaus i Cano](temes/esports/futbol/marc-bernaus.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Marc Ferré i Nazzaro](temes/esports/futbol/marc-ferre.md) | `temes/esports/futbol` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
