@@ -347,10 +347,40 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
 
 ## Buits registrats
 
-1. **La carta de 1305 és al corpus; l'anàlisi del *Politar* que la desnatura,
-   no.** **No consta **on** el *Politar* ho diu ni **com** ho formula.**
-   **Prioritari**: **el corpus pot verificar la desnaturalització si té les dues
-   bandes.**
+1. ~~**La carta de 1305 és al corpus; l'anàlisi del *Politar* que la desnatura,
+   no.** **No consta **on** el *Politar* ho diu ni **com** ho formula.**~~ —
+   **`resolt` el 18-09-2026, i la desnaturalització queda verificada amb les dues
+   bandes a la vista.**
+
+   **On ho diu: pàgina 180 del manuscrit**, dins **la llista del que els Veguers
+   **no poden** fer**. **Com ho formula**, literalment:
+
+   > «**No poden executar ab centencia de sanch a persona alguna que no tingue 12
+   > anys cumplerts.**»
+
+   **La comparació, ara sí, és exacta.** **La carta de Gastó de Foix de 1305
+   eximeix de multa els menors de dotze anys que facin vessament de sang**; **el
+   Politar en fa una prohibició d'executar-los a mort.** **El llindar d'edat es
+   conserva, el subjecte es conserva, i el que canvia és tota la resta**: **de
+   qui paga a qui mata**, **d'una exempció fiscal a un límit del poder de vida i
+   mort.**
+
+   > **I el context de la pàgina acaba d'explicar com va poder passar.** **La
+   > frase no va sola: és un ítem d'una llista de prohibicions als Veguers**, on
+   > el veí immediat és **«Ni tampoch poden fer firmar a les mullers dret per sos
+   > marits»**. **Llegida així, en sèrie amb altres límits de potestat, la norma
+   > de 1305 havia de semblar un límit de potestat.** **El Politar no va
+   > inventar: va reclassificar.**
+
+   **I la mateixa llista dona, de passada, dues coses que aquesta fitxa necessita
+   per altres bandes.** **Que els Veguers «no poden fer composicions, tan de
+   delictes com de penas trencadas, ***secretas***, sino que estes deuhen ser
+   fetas **als ulls del mon** o manifestament»** —**la publicitat de la composició
+   és norma escrita**—, i que **«no poden fer pagar messions ni gastos de les
+   Corts ni ***portar s'en la 3 part del que se pladeja, com feyen antigament***»**,
+   **que és la tercera part que el corpus discutia en un altre lloc**
+   ([el Veguer de França pagava les Corts de la seva butxaca](./el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md)):
+   **existia, i el Politar la dona per abolida.**
 2. **La memòria sobre la reforma de la tercera instància**, **atribuïda al baró
    de Plandolit**, **vers 1869**, **en poder de M. Palmitjavila.** **Prioritari**,
    **i és el segon document d'aquell fons que la font invoca.**
