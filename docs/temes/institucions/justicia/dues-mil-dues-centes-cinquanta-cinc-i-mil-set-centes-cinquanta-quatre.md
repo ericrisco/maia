@@ -69,6 +69,42 @@ llibertat sexual i contra la integritat, la part de l'augment que és més
 denúncia i la que és més delicte no es poden separar amb aquesta sèrie, i el
 corpus no ho intenta.`
 
+## Un article sol explica una infracció de cada cinc
+
+> **Afegit el 18-09-2026**: la mateixa font publica la desagregació **per
+> article del Codi penal**, no només per títol
+> (`INFRACCIONS DENUNCIADES PER ARTICLE`,
+> `docs/raw/estadistica-api/resta-del-cataleg/`). **El corpus llegia els títols
+> i no els articles.**
+
+| Article | 2007 | 2012 | 2016 | **2019** | 2022 | **2025** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **2.3.499 Consum individual, possessió, cultiu o introducció de droga** | 732 | 786 | 629 | **1.269** | 1.153 | **759** |
+| **1.14.268 Conducció sota l'efecte de drogues** | 427 | 224 | 213 | **491** | 540 | **378** |
+| 1.15.284 Droga tòxica, tipus privilegiats | 54 | 53 | 71 | 145 | 147 | **156** |
+| **2.2.481 Furt** (contravenció) | **929** | 870 | 852 | 782 | 444 | **549** |
+| 1.11.197 Furt (delicte) | 111 | 101 | 91 | 118 | 98 | 97 |
+| 1.9.174 Injúria | 66 | 55 | 56 | 78 | 104 | 102 |
+
+**El consum, la possessió o el cultiu de droga per a un mateix és, tot sol,
+el 18,9% de totes les infraccions denunciades del 2025** —759 de 4.009— i
+**el 43,3% de totes les contravencions penals.**
+
+**Sumant-hi la conducció sota l'efecte de drogues i el tipus privilegiat de
+tràfic, les tres línies fan 1.293 infraccions: el 32,3% del total del país.**
+**Una de cada tres infraccions denunciades a Andorra té a veure amb la droga.**
+
+**I no és estable**: **el 2019 el consum individual arriba a 1.269 denúncies**
+—el màxim de la sèrie, **el 26,7% de les infraccions d'aquell any**— i **el 2025
+n'hi ha 759**, **un 40,2% menys en sis anys.** `Si això és menys consum, menys
+control o un canvi de criteri de denúncia, la sèrie no ho diu.`
+
+**El contrast amb el furt acaba d'explicar la baixada de les contravencions que
+aquesta fitxa ja havia mesurat**: **el furt com a contravenció passa de 929
+denúncies el 2007 a 549 el 2025**, **un −40,9%**, **mentre el furt com a delicte
+es manté clavat entre 91 i 118 tots els anys.** **El que s'ha reduït és el furt
+petit, no el gran.**
+
 ## Es resol més
 
 | Any | Denunciades | Resoltes | **Taxa** |

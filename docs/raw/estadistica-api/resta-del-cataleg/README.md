@@ -68,7 +68,9 @@ altres talls
 
 - **Els índexs de preus hi són amb dues bases, 2001 i 2021, i no s'encadenen.**
 - **Les taules d'infraccions per article donen el número d'article del Codi
-  penal i no el seu enunciat.** **Sense el Codi al costat, la sèrie no es
-  llegeix.**
+  penal i el seu enunciat**, en una jerarquia de tres nivells
+  (`1. Delictes` → `1.14. Seguretat col·lectiva` → `1.14.268. Conducció sota
+  l'efecte de drogues`). **Els nivells se solapen: sumar totes les files d'una
+  taula compta la mateixa infracció tres vegades.**
 - **Les taules de població per trams d'un any són les úniques que permeten
   construir piràmides**; la resta del corpus fa servir trams quinquennals.
