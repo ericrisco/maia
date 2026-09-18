@@ -148,8 +148,24 @@ participacions».**
 2. **Les delegacions del 2016, 2020 i 2024**, que el registre d'estiu esmenta i
    cap pàgina no detalla.
 3. **Els Jocs del 2026**, que el registre llista i el bolcat no documenta.
-4. **Els resultats del 2006, del 2014 i del 2018** un per un: **el bolcat en dona
-   els noms i no les classificacions.**
+4. ~~**Els resultats del 2006, del 2014 i del 2018** un per un: **el bolcat en
+   dona els noms i no les classificacions.**~~ — **`parcial` el 18-09-2026,
+   rellegint els bolcats sencers**, i **el que hi ha és això**:
+
+   | Jocs | Qui | El que en diu la font |
+   | --- | --- | --- |
+   | **Torí 2006** | Xavier Barios, Francesca Ramírez | **cap resultat**: la pàgina només diu «cap dels dos no va guanyar medalla» |
+   | **Sotxi 2014** | **Xavier Fernández**, **41 anys**, classe **LW10-1**, *sitting* | **Eslàlom del 13 de març, 41 participants: no acaba, per una caiguda.** **Gegant del 15 de març, 45 inscrits: desqualificat a la primera mànega**, «per motius no especificats» |
+   | **PyeongChang 2018** | **Roger Puig**, classe **LW9.2** | **la taula de proves és buida a la font** |
+
+   **El 2014 és el més complet dels tres i és el pitjor**: **dues sortides, cap
+   temps.** **El 2006 i el 2018 segueixen `obert` perquè la font no en publica
+   cap classificació**, i **el corpus no en pot inventar cap.**
+
+   `La pàgina del 2018 hi afegeix, de passada, la confirmació que el novè lloc
+   de Paquita Ramírez al gegant de Vancouver 2010 és el millor resultat
+   paralímpic d'hivern d'Andorra: «Their best finish at the Winter Games was in
+   2010, when Paquita Ramirez Capitan was ninth in the women's Giant Slalom».`
 5. **La FADEA**: **quan es crea, quanta gent hi ha federada i com es finança.**
    `Requereix fadea.ad o el Comitè Olímpic Andorrà.`
 6. **Òscar Espallargas**, que la pàgina del 2018 cita en referència sense
