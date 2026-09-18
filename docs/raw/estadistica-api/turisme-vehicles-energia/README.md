@@ -41,3 +41,16 @@ metodologies i que, on se solapen, la del 2012 dona entre un 3,7% i un 5,4% més
 que la del 2025** ([els visitants](../../../temes/economia/turisme-i-neu/de-la-fonda-a-lhotel.md)).
 **Les xifres d'aquestes taules no es poden encadenar amb les d'una altra
 metodologia sense dir-ho.**
+
+## Dues taules no arriben al mateix any, i s'ha de mirar abans de sumar
+
+**Aquest bolcat barreja sèries que acaben en moments diferents.**
+
+| Taula | Últim període | Compte |
+| --- | --- | --- |
+| **Consum d'energia en TEP** | **2026/07** | **2025 és un any sencer** |
+| **Matriculacions de vehicles per tipus** | **2025/05** | **2025 té cinc mesos: no és comparable amb cap any anterior** |
+
+**Sumar els mesos d'una taula mensual per any exigeix comptar-los primer.**
+**Amb cinc mesos, el 2025 de matriculacions dona 1.009 turismes contra els 2.390
+del 2024**, i **la caiguda seria un artefacte.**
