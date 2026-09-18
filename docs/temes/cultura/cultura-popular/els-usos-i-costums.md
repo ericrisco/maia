@@ -119,7 +119,11 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
 
 1. **La resta de la ponència de Canturri** — el corpus n'ha extret els casos
    datats; el text complet en té més.
-2. **Mestre Roure**, el solsoní: nom complet, anys a Andorra, què més va muntar.
+2. ~~**Mestre Roure**, el solsoní: nom complet, anys a Andorra, què més va
+   muntar.~~ — **`resolt` el 18-09-2026, bessó amb** [els
+   gegants](../../costums/gegants/els-gegants.md#els-gegants-tenen-nom-i-qui-els-va-fer-tambe):
+   **Joan Roure i Jané** (Solsona, 1921 — Andorra la Vella, 1990), **a Andorra
+   des del 1963**, fundador i director de l'**Orfeó Andorrà** fins a la mort.
 3. **Ventura Armengol «de ca l'Orelleta»** — qui era.
 4. **El Sr. Pantebre** de l'Agrupació sardanista de les Valls.
 5. **La recollida oral del primer grup d'informants.** No s'ha fet i cada any

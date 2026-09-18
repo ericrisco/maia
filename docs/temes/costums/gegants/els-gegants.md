@@ -1,7 +1,7 @@
 ---
 type: article
 title: Els gegants
-description: "Andorra la Vella té gegants des de ~1982. Els va portar un solsoní, representen Carlemany i la vescomtessa de Castellbò, i qui els porta ha de ser de la Gresca gegantera."
+description: "Andorra la Vella té gegants des del 1985, obra del mestre geganter Manel Casserras i Boix. Es diuen Carlemany i Ermessenda, i qui els porta ha de ser de la Gresca gegantera."
 tema: temes/costums/gegants
 veu: compilada
 epoca: contemporania
@@ -21,6 +21,13 @@ Ho documenta **Pere Canturri i Montanya** el 2002
 ([font](../../../fonts/canturri-usos-i-costums.md)), i ho documenta **des de
 dins**: era el director del Patrimoni Artístic Nacional quan va passar.
 
+**Provat el 18-09-2026, i no es contradiu**: **la Gresca Gegantera es
+constitueix el 1985 i és quan es construeixen els gegants**
+([font](../../../fonts/wikipedia-ca-gegants-andorra.md)). **El 1982 de
+Canturri és, doncs, versemblantment la idea o la decisió inicial**; **1985 és
+l'execució, amb data i font externes.** L'acta municipal exacta segueix sense
+veure's.
+
 ## Com va anar
 
 | Pas | Què |
@@ -34,6 +41,26 @@ dins**: era el director del Patrimoni Artístic Nacional quan va passar.
 I la frase que ho tanca, de Canturri:
 
 > «**És evident que no era una representació espontània del poble.**»
+
+## Els gegants tenen nom, i qui els va fer també
+
+**Provat el 18-09-2026**: **la vescomtessa de Castellbò es diu Ermessenda**
+—la mateixa **Ermessenda de Castellbò** que el corpus documenta a la branca
+del [Pareatge](../../historia/pareatge/el-pareatge.md)—, i **fa 3,75 m i pesa
+50 kg**; **Carlemany fa 3,50 m i 60 kg**
+([font](../../../fonts/wikipedia-ca-gegants-andorra.md)).
+
+**Els va construir el mestre geganter Manel Casserras i Boix** (Solsona,
+1929–1996), **el 1985**, el mateix any en què es constitueix la **Gresca
+Gegantera d'Andorra la Vella**, **per deu persones amb el suport del comú**.
+
+**I «mestre Roure» és Joan Roure i Jané** (Solsona, 18-10-1921 — Andorra la
+Vella, 14-12-1990), traslladat a Andorra la Vella el 1963, fundador i
+director de l'**Orfeó Andorrà** fins a la mort, i autor d'**El Bufi (1974)**,
+la peça que encara avui fa ballar els gegants del Carnaval de Solsona
+([font](../../../fonts/vellasolsona-mestre-roure-2006.md)). **El mateix buit
+estava declarat, sense enllaç, a [els usos i
+costums](../../cultura/cultura-popular/els-usos-i-costums.md#buits-registrats).**
 
 ## Per què Carlemany i la vescomtessa
 
@@ -88,11 +115,16 @@ dir**.
 
 1. **La data exacta** i l'acta del comú que ho va acordar. Canturri dona «cap al
    1982»; la font primària és municipal.
-2. **Mestre Roure**: nom complet, biografia, què hi feia a Andorra.
-3. **Qui va construir els gegants** — l'amic geganter del Solsonès.
+2. ~~**Mestre Roure**: nom complet, biografia, què hi feia a Andorra.~~ —
+   **`resolt` el 18-09-2026**: **Joan Roure i Jané** — vegeu [més amunt](#els-gegants-tenen-nom-i-qui-els-va-fer-tambe).
+3. ~~**Qui va construir els gegants** — l'amic geganter del Solsonès.~~ —
+   **`resolt` el 18-09-2026**: **Manel Casserras i Boix**, el 1985.
 4. **La llegenda del Rei Moro i la Dama Blanca** de Sant Julià, sencera. Hauria
    de tenir fitxa pròpia a [llegendes](../../cultura/llegendes/README.md).
-5. **La «Gresca gegantera»**: fundació, estatuts, si encara existeix.
+5. ~~**La «Gresca gegantera»**: fundació, estatuts, si encara existeix.~~ —
+   **`parcial` el 18-09-2026**: **fundada el 1985 per deu persones amb el
+   suport del comú**. **Els estatuts no s'han vist**, i **«si encara existeix
+   avui» no s'ha confirmat amb una data recent.**
 6. Si **altres parròquies** tenen gegants.
 
 ## Related
