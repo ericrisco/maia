@@ -508,12 +508,34 @@ l'òrgan.**
 13. **La datació del matrimoni que porta Andorra a Foix**: **segle XI a
     l'exemplar digitalitzat de Brutails, 1208 a Palau i Martí.** **Registrada com
     a divergència; el corpus no arbitra.** `obert.`
-14. **La resta del capítol II** —*Organisation administrative*, *Le droit
+14. ~~**La resta del capítol II**~~ —*Organisation administrative*, *Le droit
     électoral*, *Attributions des divers conseils*, *Leurs rapports de
     hiérarchie*, *Budgets*, *Extension des pouvoirs du Conseil général*,
     *L'esprit oligarchique*, *La pauvreté et les causes pies*, *Mutualité*,
-    *L'idée socialiste*, *Tournure positive de l'esprit andorran*— **no s'ha
-    llegit en aquesta unitat.** `pendent.`
+    *L'idée socialiste*, *Tournure positive de l'esprit andorran*— **`resolt` el
+    18-09-2026, i el buit era del lloc, no del corpus**: **totes onze seccions
+    estan llegides i destil·lades**, però **en altres fitxes**, i aquesta unitat
+    no hi remetia. **El mapa:**
+
+    | Secció de Brutails (pp. 28-45) | On és al corpus |
+    | --- | --- |
+    | *Organisation administrative* · *Le droit électoral* | [un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) · [el Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md) |
+    | *Attributions des divers conseils* · *Leurs rapports de hiérarchie* | [l'extensió dels poders](../../institucions/consell-general/lextensio-dels-poders.md) — **amb els dos documents de 1580 i 1603 sencers** |
+    | *Budgets* —l'*estrany*, el *llot*, la *quèstia*— | [els diners dels comuns](../../institucions/comuns-i-parroquies/els-diners-dels-comuns.md) · [la quèstia](../../historia/antic-regim/la-questia.md) |
+    | *Extension des pouvoirs du Conseil général* | [l'extensió dels poders](../../institucions/consell-general/lextensio-dels-poders.md) · [«Diria que sí»](../../institucions/consell-general/diria-que-si.md) |
+    | *L'esprit oligarchique* | [un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md) · [per què valia la pena ser andorrà](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) |
+    | *La pauvreté et les causes pies* · *Mutualité* | [per què valia la pena ser andorrà](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) — **les *consorcies* i les *causes pies*** |
+    | *L'idée socialiste* —taxes, monopolis, permisos— | [qui posava els preus](../../economia/comerc/qui-posava-els-preus.md) · [la taba i el mostassà](../../institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md) · [quan la parròquia no nomena metge](../../institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md) |
+    | La taula de preus del blat, 1744-1793 | [qui posava els preus](../../economia/comerc/qui-posava-els-preus.md) — **cinquanta anys de cotització** |
+    | *Tournure positive de l'esprit andorran* | [per què valia la pena ser andorrà](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md) — **el manuscrit del notable sobre l'impost de sang** |
+
+    **El que queda realment obert d'aquestes pàgines és una sola cosa**, i és una
+    frase que cap fitxa no ha recollit: **Brutails hi diu que el decret del 13 de
+    maig de 1902 —una pesseta per càrrega de mercaderia— és «el primer impost
+    que es lleva sobre els andorrans en benefici d'Andorra»**, i que **el va
+    promulgar una «Junta de la carretera» que el Consell s'havia inventat**, de
+    manera que **«seria lletra morta».** `Si aquell impost es va arribar a
+    cobrar mai, i qui era la Junta de la carretera.` `pregunta_oberta`
 
 **Un buit de la font no és un buit del món.** Brutails declara ell mateix que
 **«sabem molt poca cosa»** dels orígens: **això és una constatació del 1904 feta
