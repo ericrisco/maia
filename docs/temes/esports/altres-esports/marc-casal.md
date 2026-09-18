@@ -85,12 +85,9 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
   `Això no prova que no siguin la mateixa persona: prova que cap font no ho diu
   i que una en diu el contrari. Si algun dia apareix una font que els
   identifiqui, aquesta entrada s'ha de tornar a obrir.`
-- **I hi ha, de passada, un esportista andorrà de primer nivell sense fitxa:
-  Òscar Casal Mir.** **Corredor de muntanya de Canillo, nascut el 1979**,
-  **membre de l'equip nacional de curses de muntanya de la Federació Andorrana
-  de Muntanyisme**, **primer a la Yading Skyrun de la Xina el 2018** i
-  **retirat de l'alta competició el març del 2023.** **Buit registrat**, i **el
-  bolcat per fer-ne la fitxa ja és a `raw/`.**
+- ~~**I hi ha, de passada, un esportista andorrà de primer nivell sense fitxa:
+  Òscar Casal Mir.**~~ — **`resolt` el mateix 18-09-2026**:
+  [Òscar Casal Mir](./oscar-casal-mir.md).
 - **La resta**: **nascut a Canillo el 13 d'agost del 1987**, **167 cm**,
   **entrenador Andrei Efremov.** **Tots dos patinadors són de Canillo, que és
   la parròquia del [Palau de Gel](./el-palau-de-gel.md)**: **el corpus ho deixa

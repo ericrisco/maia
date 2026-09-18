@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1035** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1036** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -396,6 +396,7 @@
 | [Marc Casal](temes/esports/altres-esports/marc-casal.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Melissandre Fuentes](temes/esports/altres-esports/melissandre-fuentes.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Mikel de Sa i Gomes](temes/esports/altres-esports/mikel-de-sa.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Òscar Casal Mir](temes/esports/altres-esports/oscar-casal-mir.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Joaquim «Quino» Colom i Barrufet](temes/esports/altres-esports/quino-colom.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Raül García i Paolicchi](temes/esports/altres-esports/raul-garcia-paolicchi.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Tomás Cano](temes/esports/altres-esports/tomas-cano.md) | `temes/esports/altres-esports` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
