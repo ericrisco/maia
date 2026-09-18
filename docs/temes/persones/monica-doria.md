@@ -114,16 +114,35 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
 ## Buits registrats
 
-1. **Tota la font primària**: fitxa de la **ICF**, del **COA** i de la
-   **Federació Andorrana de Piragüisme**, si existeix.
+1. ~~**Tota la font primària**: fitxa de la **ICF**, del **COA** i de la
+   **Federació Andorrana de Piragüisme**, si existeix.~~ — **`parcial` el
+   18-09-2026**: **existeix, es diu Federació Andorrana de Canoa i Caiac
+   (FACC)**, presidida per **Marisa Sánchez Castrillo**, seu al Centre de
+   Tecnificació Esportiva d'Ordino
+   ([font](../../fonts/facc-paddleworldwide.md)). **L'any de fundació
+   segueix sense trobar-se.**
 2. **Com s'entrena i on.** El Parc Olímpic del Segre? Hi ha instal·lacions a
    Andorra?
-3. **Els seus resultats complets** de Copa del Món.
+3. ~~**Els seus resultats complets** de Copa del Món.~~ — **`parcial` el
+   18-09-2026**: **bronze en K1 individual i bronze en kayak cross a la
+   Copa del Món de la Seu d'Urgell (2026)**, a més de la plata mundial
+   ([font](../../fonts/monica-doria-altaveu-millor-temporada.md)). **La
+   sèrie completa de totes les edicions segueix sense reconstruir-se.**
 4. **Com és que competeix per Andorra** i des de quan.
-5. **Si hi ha més piragüistes andorrans.**
-6. **La premsa andorrana** sobre el títol europeu del 2025 i la plata mundial
-   del 2026. **El corpus no té cap font andorrana sobre la seva pròpia
-   campiona.**
+5. ~~**Si hi ha més piragüistes andorrans.**~~ — **`resolt` el
+   18-09-2026**: **sí, almenys dos més**: **Nil Checa** i **Ona
+   Perelegre** (16 anys, debutant en Copa del Món absoluta el 2026)
+   ([font](../../fonts/monica-doria-checa-perelegre-seu.md)). **Club i
+   categoria de cadascun, sense trobar-se.**
+6. ~~**La premsa andorrana** sobre el títol europeu del 2025 i la plata
+   mundial del 2026. **El corpus no té cap font andorrana sobre la seva
+   pròpia campiona.**~~ — **`resolt` el 18-09-2026**: **la plata a
+   Oklahoma és del 27-7-2026, 103,04 segons, a 2,52 de l'or (Tereza
+   Kneblova, Txèquia)**
+   ([font](../../fonts/monica-doria-oklahoma-radiovalira.md)); **es
+   posiciona per a Los Angeles 2028** amb 2.500 punts de 3.000 en C1 i
+   2.200 en K1
+   ([font](../../fonts/monica-doria-altaveu-millor-temporada.md)).
 7. **Quan Andorra va federar el piragüisme.**
 
 ## Related

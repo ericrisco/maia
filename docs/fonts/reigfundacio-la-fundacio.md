@@ -34,4 +34,4 @@ projectes econòmics, socials, culturals i científics — inclosa cooperació
 internacional a **Nepal i Nicaragua** centrada en educació juvenil.
 
 **Gestiona també el Fundació Julià Reig i Museu del Tabac**, segons la
-Viquipèdia en català ([font](../../fonts/wikipedia-ca-familia-reig.md)).
+Viquipèdia en català ([font](wikipedia-ca-familia-reig.md)).

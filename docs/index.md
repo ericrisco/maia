@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **262** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **267** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1772,6 +1772,7 @@
 | [`eur-lex-acord-ce-andorra-1990`](fonts/eur-lex-acord-ce-andorra-1990.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts de l'acord: el Principat d'Andorra i la Comunitat Econòmica Europea | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE. Els textos consolidats, CC BY 4.0 | si |
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`facc-paddleworldwide`](fonts/facc-paddleworldwide.md) | International Canoe Federation (ICF) · Paddle Worldwide | publicació institucional, sense llicència declarada | pendent |
 | [`fandtaekwondo-federacio`](fonts/fandtaekwondo-federacio.md) | Federació Andorrana de Taekwondo | publicació institucional, sense llicència declarada | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`festesandorra`](fonts/festesandorra.md) | festesandorra.com | desconeguda, ús informatiu | False |
@@ -1836,7 +1837,11 @@
 | [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`miret-curandera-sanauja-gimbernat-2011`](fonts/miret-curandera-sanauja-gimbernat-2011.md) | Reial Acadèmia de Medicina de Catalunya · revista Gimbernat | publicació acadèmica, RACO; ús de recerca | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
+| [`monica-doria-altaveu-millor-temporada`](fonts/monica-doria-altaveu-millor-temporada.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
+| [`monica-doria-checa-perelegre-seu`](fonts/monica-doria-checa-perelegre-seu.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
+| [`monica-doria-oklahoma-radiovalira`](fonts/monica-doria-oklahoma-radiovalira.md) | Ràdio Valira | premsa, drets reservats; citació breu | False |
 | [`montane-bastida-terminologia-2019`](fonts/montane-bastida-terminologia-2019.md) | M. Amor Montané March i Carolina Bastida Serra (textos) · Govern d'Andorra, Ministeri de Cultura, Joventut i Esports, Servei de Política Lingüística (edició) | drets reservats; copyright de les autores i de l'edició, cap llicència oberta | no |
+| [`museu-thyssen-talents-rigalt-puigdengolas`](fonts/museu-thyssen-talents-rigalt-puigdengolas.md) | Museu Carmen Thyssen Andorra · Crèdit Andorrà | pàgina institucional del museu; citació breu de la informació pública | no per al catàleg; extracte web conservat a docs/raw/web/cultura/ |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
 | [`naiara-linan-altaveu-consolidacio`](fonts/naiara-linan-altaveu-consolidacio.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
 | [`naiara-linan-munic-quarta`](fonts/naiara-linan-munic-quarta.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
