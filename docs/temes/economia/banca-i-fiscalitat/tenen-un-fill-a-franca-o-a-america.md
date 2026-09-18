@@ -268,7 +268,8 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
 6. **Quants casos de tornada a la massa hi va haver** per venda sense taxació.
 7. **Si la clàusula «només amb diners propis» era corrent** o **excepcional.**
 8. **Quan es va deixar de fixar un termini de rescat**, entre el 1412 i el 1904.
-   **La font dona els dos extrems i cap punt intermedi.**
+   **`parcial`**: **la font dona els dos extrems i cap punt intermedi**; el
+   moment de transició continua sense documentar-se.
 9. **Els noms dels *prohoms* taxadors**: la font els imprimeix i **el corpus no els
    reprodueix**, per tractar-se de particulars.
 
