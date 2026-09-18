@@ -139,9 +139,34 @@ els que s'apliquen quan un deute no es paga a temps
 moratori passa a ser-ne una quarta part més, no el doble.**
 
 **Per a qui deu diners, el 2025 és l'any en què l'interès legal puja més de tota
-la sèrie i el recàrrec per mora s'abarateix en proporció.** `La font dona les
-xifres i no la norma que les fixa. Quina disposició va canviar la relació el
-2025 queda obert.`
+la sèrie i el recàrrec per mora s'abarateix en proporció.**
+
+**Quina norma els fixa, llegit al BOPA el 18-09-2026**: **els fixa la mateixa
+Llei del pressupost, cada any, un per un.** **A la Llei 1/2026, del 22 de gener,
+del pressupost per a l'exercici del 2026, és l'article 17**, dins del capítol
+tercer, *Operacions financeres*
+([raw](../../../raw/lleis/bopa/llei-1-2026-pressupost-exercici-2026.txt)):
+
+> «**L'interès legal per a l'exercici del 2026 queda establert en el 3,24%.** En
+> cas que el Govern no pagui als seus proveïdors en els terminis establerts
+> legalment, ha d'incorporar al seu pagament els interessos legals de demora
+> corresponents de forma automàtica.
+> **L'interès moratori per a l'exercici del 2026** […] **queda establert en el
+> 4,05%.**»
+
+**El preàmbul de la mateixa llei diu que el moratori hi és «des de l'exercici del
+2015»**, i **remet a l'article 23 de la Llei 21/2014, del 16 d'octubre, de bases
+de l'ordenament tributari**
+([raw](../../../raw/lleis/bopa/llei-21-2014-bases-ordenament-tributari.txt)),
+que diu:
+
+> «**L'interès moratori és el que s'estableixi per cada any en la Llei del
+> pressupost general**, excepte si una altra llei disposa una altra cosa.»
+
+**Això tanca la pregunta i n'obre una de més petita**: **cap norma no fixa la
+relació entre els dos tipus.** **Que el moratori fos exactament el doble del
+legal deu anys seguits no era una regla escrita: era una decisió repetida.**
+**El 2025 es va deixar de repetir, i la llei no diu per què.**
 
 ## El que falta
 
@@ -150,8 +175,11 @@ xifres i no la norma que les fixa. Quina disposició va canviar la relació el
 - **El pressupost liquidat**, no el previst. **Tot el que hi ha aquí és
   previsió.**
 - **Els anys anteriors al 1995.**
-- **Quina norma fixa el tipus d'interès legal** i **per què el 2025 canvia la
-  relació amb el moratori.**
+- ~~**Quina norma fixa el tipus d'interès legal** i **per què el 2025 canvia la
+  relació amb el moratori.**~~ — **`parcial` el 18-09-2026**: **la norma és
+  l'article 17 de la Llei del pressupost de cada any**, i **cap norma no fixa la
+  relació entre els dos tipus.** **Per què la decisió canvia el 2025 no consta
+  ni a la llei ni al seu preàmbul.**
 - **El desglossament per ministeris**, que aquesta branca no porta i el llibre
   del pressupost sí
   ([el que ja està compromès](../../economia/banca-i-fiscalitat/el-que-ja-esta-compromes.md)).

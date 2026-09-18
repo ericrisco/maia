@@ -218,5 +218,23 @@ semestral.`
   el mercat o una sola operació.** `font_externa`
 - **Per què el 2025 «altres usos» i «demandants internacionals» valen tots dos
   103.** `pregunta_oberta`
-- **L'edat mitjana dels titulars d'hipoteca només es publica per al 2025** en
-  sèrie anual. `La font en té una de semestral que el corpus no ha destil·lat.`
+- ~~**L'edat mitjana dels titulars d'hipoteca només es publica per al 2025** en
+  sèrie anual.~~ — **`resolt` el 18-09-2026 amb la sèrie semestral a la mà**, i
+  **la resposta és que la sèrie anual no és anual**:
+
+  | Període | Edat mitjana |
+  | --- | ---: |
+  | **2025/06** | **37,0 anys** |
+  | **2025/12** | **40,2 anys** |
+  | **2026/06** | **40,5 anys** |
+
+  **La sèrie anual publica `40,2` per al 2025, que és exactament el valor del
+  segon semestre.** **No és la mitjana de l'any: és el segon semestre repetit
+  amb una altra etiqueta.** **La mitjana real dels dos semestres del 2025 seria
+  38,6.**
+
+  **I la sèrie només té tres punts**: **comença el primer semestre del 2025.**
+  **Que l'edat pugi 3,2 anys en sis mesos i mig any més després és un moviment
+  massa gran per llegir-lo com una tendència amb tres observacions**, i el
+  corpus no el llegeix així. `El que queda obert és per què la font etiqueta un
+  semestre com si fos un any.`

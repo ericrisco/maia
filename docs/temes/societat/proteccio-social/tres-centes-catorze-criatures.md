@@ -114,6 +114,58 @@ ni per què no es fa al Principat; la font dona el nombre i prou.`
 **El 2025 no hi va haver cap acolliment per mesura urgent**, per primera vegada
 en deu anys.
 
+## La norma que hi ha a sota
+
+> **Llegida al BOPA el 18-09-2026**: **Llei 14/2019, del 15 de febrer,
+> qualificada dels drets dels infants i els adolescents**
+> ([raw](../../../raw/lleis/bopa/llei-14-2019-qualificada-drets-infants-adolescents.txt)).
+> **És qualificada** —majoria reforçada al Consell General— i **té 125
+> articles.**
+
+**La llei separa dues situacions, i la diferència entre totes dues és una sola
+cosa: si cal treure la criatura de casa.**
+
+**Situació de risc** (art. 80): la que perjudica el desenvolupament de l'infant
+**«sempre que per protegir efectivament l'infant o l'adolescent no calgui la
+separació del nucli familiar»**.
+
+**Situació de desemparament** (art. 86): la mateixa definició amb dues paraules
+canviades — **«limitat o perjudicat greument»**, i **«sempre que per protegir-lo
+de forma efectiva calgui separar-lo imprescindiblement del seu nucli
+familiar»**.
+
+**I el risc té tres graus, que reparteixen la feina entre dos serveis** (art.
+81):
+
+| Grau | Qui valora i intervé |
+| --- | --- |
+| **Risc lleu i moderat** | **el servei social d'atenció primària** |
+| **Risc greu** | **el servei especialitzat d'atenció a la infància i l'adolescència** |
+| **Desemparament** | **el servei especialitzat, i sempre el batlle de la jurisdicció de menors** |
+
+**Això vol dir que les 233 famílies i els 314 menors d'aquesta fitxa no són tota
+la infància atesa del país**: **són els del servei especialitzat.** **El risc
+lleu i moderat el porta l'atenció primària i no surt en aquestes taules.**
+`El corpus no ha trobat cap sèrie del que fa l'atenció primària amb infants.`
+
+**I explica per què les xifres d'acolliment són tan petites al costat de les
+d'atenció**: **cap acolliment no es pot fer sense resolució judicial motivada**
+(art. 95), **que llista sis mesures possibles** —suspensió de la pàtria potestat
+a un progenitor, acolliment familiar temporal, permanent o especialitzat,
+acolliment residencial, i supervisió de les visites—. **Trenta-sis acolliments
+el 2025 sobre 314 menors atesos són trenta-sis decisions de batlle.**
+
+**La llei defineix el maltractament i qui l'ha de denunciar**: **la ciutadania**
+(art. 69) i **els professionals** (art. 70), **i mana crear un registre de
+maltractament** (art. 71). `El corpus no té cap xifra d'aquest registre i no
+sap si existeix.`
+
+**I crea tres òrgans**: la **Comissió Nacional de la Infància i l'Adolescència**
+(art. 7), el **Pla Nacional de la infància i l'adolescència** (art. 8) i el
+**Consell Nacional de la Infància i l'Adolescència**, amb consells comunals
+(art. 29). **L'article 10 es titula «Prioritat pressupostària».**
+`De cap dels tres el corpus no té ni composició, ni actes, ni pressupost.`
+
 ## Buits registrats
 
 - **El 2024 no existeix a cap de les set taules.** `font_externa`
@@ -131,9 +183,17 @@ en deu anys.
   desagrega.`
 - **A quins països van les criatures que s'envien a centres terapèutics fora
   d'Andorra**, i per què no es fa al país. `pregunta_oberta`
-- **La llei de protecció de la infància i l'adolescència** no s'ha llegit: el
-  corpus té les xifres del servei i no la norma que el crea.
+- ~~**La llei de protecció de la infància i l'adolescència** no s'ha llegit: el
+  corpus té les xifres del servei i no la norma que el crea.~~ — **`resolt` el
+  18-09-2026**: **Llei 14/2019, del 15 de febrer, qualificada dels drets dels
+  infants i els adolescents**, llegida al BOPA i resumida a l'apartat anterior.
+- **El registre de maltractament** que mana l'article 71 de la Llei 14/2019:
+  **el corpus no en té cap xifra i no sap si s'ha arribat a crear.**
   `pregunta_oberta`
+- **Què fa l'atenció primària amb els infants en risc lleu i moderat**, que és
+  el gruix que no surt en aquestes taules. `font_externa`
+- **La Comissió Nacional de la Infància i l'Adolescència, el Pla Nacional i el
+  Consell Nacional**: composició, actes i pressupost. `pregunta_oberta`
 - **La distribució de totes les famílies andorranes per tipus** —nuclear,
   separada, monoparental— **no es publica**, i sense ella **no es pot dir si el
   41,6% de famílies separades ateses és més o menys del que li tocaria.**
