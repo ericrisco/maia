@@ -17,24 +17,31 @@ tags: [costums, calendari, parroquies, danses]
 
 | Parròquia | Festa major (2026) |
 | --- | --- |
-| **Canillo** | **21–23 de juliol** |
-| **Sant Julià de Lòria** | **27–30 de juliol** |
+| **Canillo** | **21–23 de juliol** *(`festesandorra.com` dona 17–20 de juliol — divergència registrada, no arbitrada)* |
+| **Sant Julià de Lòria** | **27–30 de juliol** *(`festesandorra.com` dona 25–28 de juliol — divergència registrada, no arbitrada)* |
 | **Encamp** | **15–16 d'agost** |
-| **Ordino** | **15–16 d'agost** |
-| Andorra la Vella | *pendent* |
-| Escaldes-Engordany | *pendent* |
-| La Massana | *pendent* |
+| **Ordino** | **15–16 d'agost** *(`festesandorra.com` situa la Festa Major d'Ordino el 16 de setembre, i el Roser d'Ordino el 3–6 de juliol com a festa diferent, d'interès cultural — divergència registrada, no arbitrada)* |
+| **Andorra la Vella** | **31 de juliol – 3 d'agost** |
+| **Escaldes-Engordany** | **24–26 de juliol** |
+| **La Massana** | **14–16 d'agost** |
 
-([premsa andorrana](../../../fonts/premsa-andorrana.md); hi ha un calendari
-complet per parròquia a `festesandorra.com`, **identificat i no buidat**)
+([premsa andorrana](../../../fonts/premsa-andorrana.md) per a Canillo, Sant
+Julià, Encamp i Ordino; [festesandorra.com](../../../fonts/festesandorra.md)
+per a Andorra la Vella, Escaldes-Engordany i La Massana, **buidat el
+18-09-2026**. **Tres festes de les set són declarades d'Interès Cultural**:
+Escaldes-Engordany, Sant Julià de Lòria i Andorra la Vella —amb el Roser
+d'Ordino i les Falles de Sant Joan, són **cinc de les sis festes d'interès
+cultural del país**.)
 
 **Encamp i Ordino cauen el mateix dia** —**la Mare de Déu d'Agost**— i **Canillo
 i Sant Julià es reparteixen el juliol**. Les festes s'escalonen de manera que
 **es pot anar a la del veí**, cosa que en un país de 468 km² no és un detall
 menor: **la festa major és també un circuit**.
 
-**Tres de les set encara no consten aquí. Buit registrat**, i és dels més fàcils
-de tancar.
+~~**Tres de les set encara no consten aquí.**~~ **`resolt` el 18-09-2026**:
+**les set hi són**, amb `festesandorra.com` buidat per a les tres que
+faltaven. **El que queda obert és la divergència de dates** amb la premsa per
+a Canillo, Sant Julià i Ordino, registrada a la taula.
 
 ## Sant Julià de Lòria, la que més conserva
 

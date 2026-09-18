@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **222** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **223** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1759,6 +1759,7 @@
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`festesandorra`](fonts/festesandorra.md) | festesandorra.com | desconeguda, ús informatiu | False |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2000`](fonts/fiba-andorra-basquet-2000.md) | FIBA · El Periòdic d'Andorra · Federació Andorrana de Bàsquet | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2004`](fonts/fiba-andorra-basquet-2004.md) | FIBA · ACB · premsa andorrana i especialitzada | drets reservats pels titulars respectius | False |
