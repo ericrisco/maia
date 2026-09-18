@@ -112,6 +112,51 @@ pastura, no al nombre de ramaders**, i les dues parròquies urbanes en surten
 amb el que això implica: **Escaldes-Engordany té 31 explotacions —el 9,1% de
 les del país— i cobra el 0,5% de l'ajut de muntanya.**
 
+## Com es calcula, exactament
+
+> **Llegit al BOPA el 18-09-2026**: **Decret de l'11-04-2018 relatiu als imports
+> de càlcul per als ajuts al foment de pràctiques ramaderes tradicionals de
+> muntanya, al dall dels prats i a la producció de productes de qualitat
+> controlada**
+> ([raw](../../../raw/lleis/bopa/decret-2018-imports-calcul-ajuts-ramaders.txt)),
+> que desplega el **Reglament del 31 de gener del 2001**.
+
+**L'ajut de muntanya no es paga ni per cap ni per hectàrea: es paga per animal i
+per dia**, i cada dia val diferent segons l'època de l'any.
+
+**La fórmula són quatre factors i un import base:**
+
+| Factor | Què és |
+| --- | --- |
+| **Ab** | **l'ajut base: 0,67 €/dia** (art. 2) |
+| **UBG** | la unitat de bestiar gros que equival a aquell animal |
+| **Co** | un coeficient per tipus d'animal |
+| **Cp** | **el coeficient d'època**: **hivern 3, primavera i tardor 2, estiu 1** |
+
+**L'hivern val el triple que l'estiu.** **L'ajut no paga que hi hagi bestiar:
+paga que el bestiar hi sigui quan és car tenir-lo-hi.** Andorra, de l'1 de
+desembre al 30 d'abril.
+
+**El mateix decret en dona un exemple resolt**, i **serveix per comprovar que la
+lectura és correcta** (art. 5): **l'ovella transhumant són 65,325 €**, calculats
+amb **0,13 UBG, 0,67 €/dia, Co 10, Cp 1 i 75 dies d'estada**. `0,13 × 0,67 × 10
+× 1 × 75 = 65,325.` **El corpus ha refet la multiplicació i dona la xifra que el
+decret publica.**
+
+**L'annex I porta la taula sencera**: **quatre estacions per a cada tipus de
+bestiar**, de **la vaca** —1,00 UBG, Co 1,4, de **0,9380 €/dia a l'estiu a
+2,8140 €/dia a l'hivern**— a **l'euga poni**, a 0,1407 €/dia l'estiu.
+
+**I hi ha animals que no cobren res**: **el vedell d'engreix, el toro d'engreix
+i l'equí d'engreix tenen Co 0,0**, és a dir **zero euros cada dia de l'any**.
+**L'ajut premia la cria i no l'engreix.** **I l'article 4 ho tanca**: **«els
+animals de renda que no apareixen a l'annex I no tenen dret a rebre l'ajut».**
+
+**Això explica la diferència entre parròquies millor que la superfície**:
+**Encamp cobra 33.321 € per beneficiari i Escaldes-Engordany 2.119 €** perquè
+l'ajut compta **caps × dies × època**, i **el que decideix no és el nombre de
+ramaders sinó quant bestiar hiverna i quants dies.**
+
 **Les línies petites són gairebé unipersonals.** El vi de qualitat controlada:
 **tres explotacions, 28.939 €**, una a Ordino i dues a Sant Julià. La trumfa:
 **una explotació a Encamp, 1.833 €**. La mel: **una a Canillo, 8.190 €**. **La
@@ -183,11 +228,20 @@ apareixerà a la nota del juny del 2027.**
 - **Quant cobra cada explotació.** La nota dona imports per parròquia i nombre
   de beneficiaris, **mai el repartiment dins la parròquia**. `La font no ho
   publica.`
-- **Per què Escaldes-Engordany cobra 2.119 € per beneficiari i Encamp 33.321 €.**
-  L'explicació per superfície pasturada és **inferència**, no dada.
-- **Els criteris de càlcul de l'ajut de muntanya**: per cap de bestiar, per
-  hectàrea, per dia de pastura. `Cal el reglament de desplegament de l'article
-  14, no localitzat.`
+- ~~**Per què Escaldes-Engordany cobra 2.119 € per beneficiari i Encamp 33.321 €.**
+  L'explicació per superfície pasturada és **inferència**, no dada.~~ —
+  **`parcial` el 18-09-2026**: **la fórmula del decret no compta superfície, sinó
+  caps, dies i època**, de manera que **la inferència per superfície era
+  equivocada** i **la variable bona és quant bestiar hiverna a la parròquia**.
+  `Els caps per parròquia i per època, però, el corpus no els té.`
+- ~~**Els criteris de càlcul de l'ajut de muntanya**: per cap de bestiar, per
+  hectàrea, per dia de pastura.~~ — **`resolt` el 18-09-2026**: **per animal i
+  per dia**, amb **Ab 0,67 €/dia**, **UBG**, **Co** i **Cp d'època**, al
+  **Decret de l'11-04-2018**, que desplega el **Reglament del 31-01-2001**.
+  Vegeu l'apartat «Com es calcula, exactament».
+- **Si el Decret del 2018 continua vigent el 2025**, o si hi ha hagut una
+  revisió posterior dels imports. **El sondeig del BOPA no n'ha trobat cap de
+  més nova**, i **l'absència no és prova.** `pregunta_oberta`
 - **Els ajuts dels comuns parròquia per parròquia.** La nota en dona el total i
   diu que Ordino i Sant Julià són estimats. `La font no desagrega.`
 - ~~**A105 (superfícies de cultiu), A106 (explotacions agràries) i A109
