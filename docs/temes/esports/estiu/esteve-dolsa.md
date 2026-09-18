@@ -64,10 +64,12 @@ sense especular sobre les circumstàncies i sense convertir-ho en relat.
   el respon la seva pròpia mort.** **El primer olímpic andorrà de tir va morir
   d'un tret de cacera.** **El corpus ho deixa escrit com a fet, no com a
   sentit.**
-- **El tir i la caça a Andorra**, que són la mateixa cultura material i el
-  corpus no en té cap fitxa. Vegeu [vida quotidiana](../../vida-quotidiana/README.md).
-  **La federació esportiva del tir, ara amb fitxa parcial**: vegeu
-  [Joan Tomàs Roca](./joan-tomas-roca.md#el-que-falta).
+- ~~**El tir i la caça a Andorra**, que són la mateixa cultura material i el
+  corpus no en té cap fitxa.~~ **`parcial`:** aquesta fitxa ja documenta la
+  connexió biogràfica concreta —Esteve Dolsa, primer olímpic andorrà de tir,
+  va morir d'un tret accidental de cacera— i remet a la fitxa parcial de la
+  federació ([Joan Tomàs Roca](./joan-tomas-roca.md#el-que-falta)); la cultura
+  material del tir i la caça com a conjunt encara no té fitxa.
 
 ## Related
 
