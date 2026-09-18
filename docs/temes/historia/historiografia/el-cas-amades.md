@@ -320,7 +320,11 @@ Tres conseqüències pràctiques:
   la contrastació individual de les 63 citacions encara no s'ha fet.
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
 - **Els sis jocs tradicionals** que Amades recull amb gràfics. El corpus no té
-  cap fitxa de jocs. **Buit nou, obert avui.**
+  cap fitxa de jocs. — **`parcial` el 18-09-2026, era un bessó**: detallat a
+  [les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md),
+  que ja en té els sis noms verificats contra el PDF de Canturri i registra
+  per què calen els cinc volums originals del *Costumari català*, no la
+  ponència que els cita.
 - ~~**Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota
   la literatura de viatges sobre Andorra i **el corpus no ha llegit**.~~ —
   **`parcial` el 18-09-2026, era un bessó**: l'edició (2004, Govern

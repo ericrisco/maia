@@ -149,13 +149,22 @@ resposta honesta és «no ho sabem».**
   vegades**: **[el cas Amades](../../historia/historiografia/el-cas-amades.md)
   les enumera amb les mateixes paraules i tampoc no en té res més.**
   **Comptat un sol cop, és un buit i no dos.**
-- **NOU, registrat el 2026-09-13 des de la mateixa font:** **els sis jocs
-  tradicionals que Amades documenta** —**el joc del sembrar**, **jugar-se els
-  ous**, **les gralles**, **el joc de l'ós**, **el del garrapal** i, ja
-  d'adults, **el del velló de la mestressa**—, **alguns amb gràfics i
-  il·lustracions**. **El corpus no té cap fitxa de jocs tradicionals**, i
-  [costums](../../costums/README.md) no té aquesta porta oberta. **És el buit
-  més barat de la branca: sis noms i una font localitzable.**
+- **Els sis jocs tradicionals que Amades documenta** —**el joc del sembrar**,
+  **jugar-se els ous**, **les gralles**, **el joc de l'ós**, **el del
+  garrapal** i, ja d'adults, **el del velló de la mestressa**—, **alguns amb
+  gràfics i il·lustracions**. — **`parcial` el 18-09-2026**: es va rellegir
+  directament el text de la ponència de Canturri
+  ([font](../../../fonts/canturri-costumari-amades-1994.md), p. 35 de
+  l'edició, `docs/raw/sac-diades/07a-1994-andorra-i-la-catalanitat.txt`) per
+  comprovar-ho, i **l'article de Canturri només en dona els sis noms i diu
+  que Amades els acompanya de gràfics — no en descriu cap joc**.
+  **Les descripcions són al *Costumari català* d'Amades mateix**, obra en
+  cinc volums (1950-1956) organitzada pel calendari, no per tema, i **dues
+  cerques dedicades no han trobat cap edició digital amb text cercable** que
+  permeti localitzar-hi «garrapal» o els altres noms. **El corpus no té cap
+  fitxa de jocs tradicionals**, i [costums](../../costums/README.md) no té
+  aquesta porta oberta. **No era el buit més barat de la branca**: calen els
+  cinc volums originals, no la ponència que els cita.
 
 ## Related
 
