@@ -217,8 +217,26 @@ quartes parts del creixement eren migració**
   defuncions el 1996 i 197 el 1997**, **700 naixements el 1996 i 730 el 1997**.
   `Si el registre va canviar de mans, la sèrie no ho diu; saber-ho demanaria
   la nota metodològica del Departament.`
-- **El saldo migratori oficial**, si existeix. El corpus en calcula un i **no en
-  té cap de publicat**.
+- ~~**El saldo migratori oficial**, si existeix. El corpus en calcula un i **no
+  en té cap de publicat**.~~ — **`resolt` el 18-09-2026**: **existeix, es diu
+  `SALDO MIGRATORI TOTAL` i va del 2016 al 2025**
+  (`docs/raw/estadistica-api/`, CC BY 4.0):
+
+  | Any | 2016 | 2017 | 2018 | 2019 | **2020** | 2021 | 2022 | **2023** | 2024 | 2025 |
+  | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+  | **Saldo** | 1.149 | 1.328 | 1.214 | 1.093 | **383** | 1.401 | 1.880 | **3.407** | 1.874 | 1.829 |
+
+  **Deu anys, cap de negatiu.** **El 2020 el saldo cau a 383** —un terç del de
+  l'any anterior— i **el 2023 arriba a 3.407, gairebé el doble del màxim
+  anterior.**
+
+  **I la font el desagrega per sexe**: **el 2025, 1.139 homes i 690 dones**.
+  **Dos de cada tres immigrants nets d'Andorra són homes**, cosa que **encaixa
+  amb els 118 homes per cada 100 dones del tram de 25 a 39 anys**
+  ([la piràmide](./la-mateixa-gent-quinze-anys-mes-gran.md)).
+
+  `Abans del 2016 segueix sense publicar-se, i el saldo que aquesta fitxa
+  calcula per als quinquennis anteriors continua sent un càlcul del corpus.`
 - **Els anys anteriors al 1947** de població, i **anteriors al 1953** de
   naixements.
 - **La població registrada i la total no es poden conciliar** amb el que hi ha:

@@ -185,10 +185,46 @@ les actes.`
 
 ## Buits registrats
 
-- **Les ponderacions només arrenquen el 2022.** La font en publica la sèrie
+- ~~**Les ponderacions només arrenquen el 2022.** La font en publica la sèrie
   **2022-2026** per a la base 2021 i no en dona cap d'anterior a l'API. **No es
   pot dir com ha canviat la cistella andorrana des del 2001**, només com és
-  ara. `font_externa`
+  ara.~~ — **`resolt` el 18-09-2026**: **la base 2001 en porta la sèrie
+  1998-2017, amb 57 subgrups**
+  (`PONDERACIONS PER SUBGRUPS. BASE 2001`, `docs/raw/estadistica-api/`).
+  **Les dues bases no s'encadenen** —són cistelles diferents— **però cadascuna
+  es pot llegir sencera.**
+
+  **Com ha canviat la cistella andorrana entre el 1998 i el 2017**, en parts per
+  deu mil (les dues columnes sumen 10.000):
+
+  | Subgrup | 1998 | 2017 | Diferència |
+  | --- | ---: | ---: | ---: |
+  | **Lloguer de l'habitatge** | 1.190 | **1.874** | **+684** |
+  | **Carburants i lubricants** | 251 | **647** | **+396** |
+  | **Telèfon** | 210 | **471** | **+261** |
+  | Altres serveis no declarats abans | 122 | 212 | +90 |
+  | Medicines | 62 | 127 | +65 |
+  | Automòbils nous | 625 | 680 | +55 |
+  | **Vestit** | **710** | **365** | **−345** |
+  | **Carn** | **686** | **394** | **−292** |
+  | Peix | 298 | 174 | −124 |
+  | Calçat | 181 | 76 | −105 |
+  | Begudes alcohòliques | 116 | 32 | −84 |
+  | Tabac | 151 | 73 | −78 |
+  | Llet, formatge i ous | 313 | 239 | −74 |
+
+  **El lloguer passa de l'11,9% de la despesa mesurada al 18,7%** i **els
+  carburants del 2,5% al 6,5%.** **El vestit i la carn la perden a parts
+  gairebé iguals.**
+
+  **Això és la resposta a la pregunta que aquesta fitxa feia**: **la cistella
+  andorrana s'ha desplaçat de la roba i el menjar cap a l'habitatge, el cotxe i
+  el telèfon**, i **el desplaçament és anterior a la base del 2021.**
+
+  `Una ponderació no és una despesa: és el pes que l'índex dona a cada capítol.
+  Que el lloguer passi de 1.190 a 1.874 vol dir que l'estadística considera que
+  hi va una part més gran del pressupost domèstic, no que el lloguer hagi pujat
+  aquest percentatge.`
 - **Els noms de les sèries arriben en anglès** encara que es demani
   `language=ca`. La traducció de la taula de grups és **del corpus**; el TSV en
   brut conserva l'original. `El corpus no ha comprovat que la traducció
