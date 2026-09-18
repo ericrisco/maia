@@ -154,7 +154,9 @@ vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
   **El recompte d'avui i els llindars segueixen oberts.**
 - **Quantes vagues s'han convocat** des del 2018, tampoc; ni si el Govern ha
   fixat mai serveis essencials.
-- **El Consell Econòmic i Social** no té fitxa al corpus.
+- ~~**El Consell Econòmic i Social** no té fitxa al corpus.~~ — **`resolt` el
+  18-09-2026**: [fitxa pròpia](./el-consell-economic-i-social.md), amb el
+  marc legal, la composició i les funcions del Consell.
 - ~~**La normativa específica dels cossos especials** —que decideix si els
   policies andorrans es poden sindicar— **no és al recull**.~~ — **`resolt` el
   17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **la resposta és doble:

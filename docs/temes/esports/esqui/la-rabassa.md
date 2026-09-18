@@ -16,7 +16,7 @@ tags: [esports, esqui, esqui-de-fons, sant-julia-de-loria]
 ## On
 
 A la carretera de la Rabassa, km 8, a
-[Sant Julià de Lòria](../../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md),
+[Sant Julià de Lòria](../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md),
 a la **«zona 2000»** (cota 2.000 m)
 ([font](../../../fonts/naturland-ad-la-rabassa-esqui.md)).
 
@@ -58,4 +58,4 @@ col·lectives i privades i lloguer d'equip des dels 5 anys —
 
 - [Esquí](../README.md)
 - [Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)
-- [Sant Julià de Lòria](../../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md)
+- [Sant Julià de Lòria](../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md)
