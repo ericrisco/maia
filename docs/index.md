@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1038** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1039** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -345,6 +345,7 @@
 | [Els jocs d'atzar](temes/economia/transformacio-economica/els-jocs-datzar.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'economia el 1997](temes/economia/transformacio-economica/leconomia-el-1997.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
 | [Mil set-centes vint-i-sis persones en TIC](temes/economia/transformacio-economica/mil-set-centes-vint-i-sis-persones-en-tic.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
+| [Ni un euro a la universitat](temes/economia/transformacio-economica/ni-un-euro-a-la-universitat.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
 | [Tot el superàvit és el turisme](temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `estadistica-ad` |
 | [Transformació econòmica](temes/economia/transformacio-economica/transformacio-economica.md) | `temes/economia/transformacio-economica` | compilada | contemporania | no | `viquipedia-ca` |
 
