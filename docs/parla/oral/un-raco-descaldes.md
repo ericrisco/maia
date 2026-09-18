@@ -382,6 +382,7 @@ diccionari.
    viscut: ella no va anar a l'escola dels monjos, ho explica. S'hi ha posat per
    no inventar una branca amb dues peces, **però la taxonomia de `docs/parla/`
    no preveu aquest gènere** i ja hi ha dues peces que hi encaixen malament.
+   `no-es-buit`: és una advertència de classificació, no una pregunta pendent.
 
 **Sobre el duplicat**
 
