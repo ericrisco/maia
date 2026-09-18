@@ -82,10 +82,12 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
   l'article 3. No s'ha verificat una eventual decisió anterior de deixar-lo
   sense efecte ni la normativa posterior. No s'afirma una durada efectiva
   ininterrompuda ni una vigència actual.
-- **Remissió defectuosa conservada:** la frase inicial de l'article 1.1
+- ~~**Remissió defectuosa conservada:** la frase inicial de l'article 1.1
   enumera literalment «c, d, i i»; l'apartat 1.1.d sí remet expressament a
   la lletra j i fixa els nou mesos. L'exposició de motius també esmenta j.
-  No s'ha localitzat cap errata específica d'aquesta enumeració.
+  No s'ha localitzat cap errata específica d'aquesta enumeració.~~ —
+  **`no-es-buit` el 19-09-2026**: és una nota de lectura sobre una discrepància
+  interna del text normatiu, no una pregunta de recerca independent.
 - **Espera i compensació per comiat:** no s'ha llegit cap instrucció ni
   resolució sobre l'aplicació conjunta del nou 1.1.b i de la regla de
   compensació del 26.4.d de 2020. La taula no resol aquest punt.
