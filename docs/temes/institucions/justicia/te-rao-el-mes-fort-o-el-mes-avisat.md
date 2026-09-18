@@ -189,9 +189,43 @@ n'ha llegit:**
 
 ## Buits registrats
 
-1. **Qui era el bisbe d'Urgell que va trencar relacions amb Andorra cap al
-   1874**, **i quan exactament.** **La font el descriu —«la violència del qual és
-   llegendària a la regió»— i **no el nomena ni el data**.** **Prioritari.**
+1. ~~**Qui era el bisbe d'Urgell que va trencar relacions amb Andorra cap al
+   1874.**~~ — **`resolt` el 18-09-2026: era Josep Caixal i Estradé.**
+
+   **La identificació té dues vies independents i totes dues donen el mateix
+   nom.** **La primera**: **la llista episcopal d'Urgell només té un titular el
+   1874**, **Josep Caixal i Estradé (el Vilosell, 1803 — Roma, 1879)**,
+   **bisbe i copríncep del 1853 al 26 d'agost del 1879**. **La segona**: *La
+   cuestión de Andorra* diu que la campanya la va començar **«el antecesor de
+   V. E. I.»**, i **l'adreçat és Salvador Casañas**, bisbe des del 1879 —
+   **l'antecessor de Casañas és Caixal.**
+
+   **I la biografia explica per si sola per què les relacions es trenquen
+   aquells anys:** **Caixal era carlí**, **va ser vicari general castrense de
+   l'exèrcit carlí**, **va participar en la defensa del setge de la Seu d'Urgell
+   del 1874** contra els liberals, i **quan Arsenio Martínez-Campos va ocupar la
+   ciutat el 1875 va ser fet presoner, confinat al castell de Santa Bàrbara
+   d'Alacant i desterrat a Roma**, **on va viure en la pobresa fins a morir-hi**
+   perquè **el govern espanyol li va negar el permís de tornada**. **El 1879
+   Salvador Casañas és nomenat primer administrador apostòlic precisament per
+   suplir un titular exiliat.**
+
+   > **El copríncep episcopal que retira els seus funcionaris de la justícia
+   > andorrana és un bisbe en guerra, i després pres, i després exiliat.**
+   > **«La violència del qual és llegendària a la regió» deixa de ser un retrat
+   > de caràcter i passa a ser una descripció literal.**
+
+   `Falta la data exacta de la ruptura i el document que la formalitza, si n'hi
+   ha cap. Les dues fonts la situen «cap al 1874» i cap no la data.`
+   `font_externa`
+
+   `I una divergència menor de la font: la llista de bisbes dona l'inici de
+   l'episcopat el 30 de març del 1853 i la fitxa biogràfica el 30 de novembre
+   del 1852. Probablement preconització i presa de possessió; el corpus no ho
+   arbitra.` `no-es-buit`
+
+   *(Fonts: `docs/raw/web/historia/`, baixades el 18-09-2026 de la
+   [Viquipèdia](../../../fonts/viquipedia-ca.md).)*
    - **Segona font, afegida el 16-09-2026, que dona el mecanisme i no el nom.**
      *La cuestión de Andorra* (1894), **p. 25**, escrita pel **Consell General**,
      narra que **el bisbe va retirar tots els seus empleats de l'ordre judicial**,
