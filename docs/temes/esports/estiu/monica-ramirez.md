@@ -22,7 +22,7 @@ tags: [esports, natacio, jocs-olimpics, jocs-petits-estats, dones]
 | --- | --- | --- |
 | **2012** | **Jocs de Londres**, 100 m esquena | **42a a les sèries**; no es classifica |
 | **2013** | **Mundials de natació**, 50 m lliures | *(el corpus no en té el resultat)* |
-| **2016** | **Jocs de Rio**, 100 m lliures | *(el corpus no en té el resultat)* |
+| **2016** | **Jocs de Rio**, 100 m lliures | **inscrita i no surt (`DNS`)** |
 | **2019** | **Jocs dels Petits Estats, Budva** | **DOS BRONZES** |
 
 ## Dues medalles amb nom
@@ -67,17 +67,21 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Els seus resultats de Rio 2016 i del Mundial del 2013.** — **`obert`, i
-  l'auditoria hi troba una divergència que el corpus registra sense
-  arbitrar-la.** **El bolcat de la font pròpia d'aquesta fitxa no esmenta Rio
-  2016 enlloc**: **li dona Londres 2012 —42a a les sèries dels 100 m esquena—,
-  els 50 m lliures del Mundial del 2013 i els dos bronzes de Budva 2019, i
-  res més.** **La taula d'aquesta fitxa, en canvi, hi té una fila de Rio 2016
-  en 100 m lliures, sense resultat.** **El corpus no esborra la fila ni la
-  confirma**: **deixa escrit que la seva pròpia font no la sosté**, i que
-  **calen les llistes de participants de Rio per decidir-ho.**
-  `Divergència registrada, no arbitrada.`
-  `Requereix font externa: la llista d'inscrits de Rio 2016.`
+- ~~**Els seus resultats de Rio 2016** i del Mundial del 2013.~~ — **`parcial`
+  el 18-09-2026, i la divergència queda arbitrada amb material que el corpus ja
+  tenia.** **El bolcat de l'edició**
+  ([`en_Andorra_at_the_2016_Summer_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki),
+  Viquipèdia, CC BY-SA 4.0) **la hi té, als 100 m lliures femenins**, i **el
+  resultat és `DNS`: no va sortir a l'aigua.**
+
+  **Això explica la divergència en comptes de deixar-la registrada**: **la seva
+  fitxa personal no esmenta Rio perquè no hi va nedar**, i **la fila de la taula
+  és bona perquè hi era inscrita.** **El corpus manté la fila i hi posa el
+  resultat que hi tocava: no surt.**
+
+  `Per què no va sortir, la font no ho diu.`
+- **Els seus resultats del Mundial del 2013.** — **`obert`, confirmat**: **el
+  bolcat en dona la prova i cap marca.** `font_externa`
 - **Del Mundial del 2013 el bolcat només diu la prova** —**50 m lliures**— **i
   cap resultat.**
 - ~~**On va néixer**~~ — **`resolt`**: **Escaldes-Engordany, 27 de desembre del
