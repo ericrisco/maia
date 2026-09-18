@@ -90,7 +90,7 @@ el corpus documenta**, i millora els de [Roger Vidosa](./roger-vidosa.md).
   documenta d'un esquiador andorrà en una sola edició.**
 - **Copa del Món i Copa d'Europa.** — **`obert`, confirmat**: **cap de les dues
   no és al bolcat.**
-- **Quan va plegar**, si ha plegat. — **`parcial` el 17-09-2026.** **El «si»
+- ~~**Quan va plegar**, si ha plegat.~~ — **`parcial` el 17-09-2026.** **El «si»
   queda respost: sí.** La fitxa de la [FIS](../../../../fonts/fis-ski-db.md) el
   dona com a **«not active»**, i **això es va repetir igual en dues lectures**.
   **L'any de naixement hi quadra amb el del corpus: 1991.**

@@ -80,7 +80,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   EQUIPS**. **L'infobox està actualitzat al 22 de març del 2026.**
   **Les classificacions per temporada hi són en taules que aquest bolcat no
   conserva.** `Requereix font externa: la FIS.`
-- **On és exactament el club NEC** i què vol dir la sigla. — **`parcial` el
+- ~~**On és exactament el club NEC** i què vol dir la sigla.~~ — **`parcial` el
   18-09-2026**: **NEC és el Nòrdic Esquí Club, amb seu a**
   [La Rabassa](../la-rabassa.md), **Sant Julià de Lòria** —el primer club
   d'esquí nòrdic del Principat, segons el títol de la seva pàgina web i de

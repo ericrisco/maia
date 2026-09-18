@@ -134,7 +134,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   **`resolt` el 2026-09-13, i «gairebé segur» es queda curt: dotze medalles, vuit
   d'or.** Vegeu el medaller de dalt. **Set edicions seguides del 1999 al 2011**,
   i **dobletes de 5.000 i 10.000 m** el 2001, el 2003 i el 2005.
-- **Quan va plegar i què fa ara.** — **`parcial`: el corpus té una última data
+- ~~**Quan va plegar i què fa ara.**~~ — **`parcial`: el corpus té una última data
   i no una retirada.** **L'última competició que el bolcat li registra és el
   Mundial de mitja marató de València del 2018**, **als 51 anys**, **131è amb
   1:10:19**; **i l'infobox està actualitzat a l'abril del 2017.** **Una última

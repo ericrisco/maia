@@ -49,7 +49,7 @@ sense especular sobre les circumstàncies i sense convertir-ho en relat.
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **On va néixer** i què feia. — **`parcial`, i el que el bolcat dona no és el
+- ~~**On va néixer** i què feia.~~ — **`parcial`, i el que el bolcat dona no és el
   naixement sinó la mort, i canvia la fitxa sencera.** **Esteve Dolsa Montaña,
   17 de març del 1936 – 22 de novembre del 2007.** **Va morir caçant**:
   **«mentre era de cacera, el 22 de novembre del 2007, a Lleida, va rebre un tret

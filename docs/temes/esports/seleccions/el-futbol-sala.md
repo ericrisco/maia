@@ -162,7 +162,7 @@ el bolcat no diu és si hi ha competició andorrana pròpia.**
   2026-09-18** amb el bolcat propi: **dinou fases de classificació, 63
   partits, 16 victòries**, **els catorze convocats del 2026** i **els dos
   marcadors extrems.**
-- **Si hi ha lliga de futbol sala al país.** — **`parcial`**: **tres clubs
+- ~~**Si hi ha lliga de futbol sala al país.**~~ — **`parcial`**: **tres clubs
   andorrans hi posen internacionals** —ENFAF CM Andorra, FC Rànger's i FC
   Encamp— **i el bolcat no anomena cap competició andorrana.**
 - **Si [Joaquim Besora](../futbol/joaquim-besora.md) va ser internacional de

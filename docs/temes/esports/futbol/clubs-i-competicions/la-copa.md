@@ -163,7 +163,7 @@ Andorra la Vella». Aixovall és a Sant Julià de Lòria.`
   les finals des del 1996**. **La del 1995 segueix sense finalista conegut.**
 - **Per què no es va jugar el 1992 i el 1993.** **El bolcat ho registra i no ho
   explica.**
-- **Si el nom és anterior o posterior a la Constitució del 1993.** —
+- ~~**Si el nom és anterior o posterior a la Constitució del 1993.**~~ —
   **`parcial`**: **la federació no compta com a oficials els títols del 1991 ni
   del 1994**, de manera que **la primera Copa Constitució oficial és la del
   1995**. **Falta saber com es deia la competició el 1991.**

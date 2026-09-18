@@ -156,7 +156,7 @@ queda en tota la branca d'esports.**
   ([Francesc Repiso Romero](./francesc-repiso.md)) **amb les cinc sèries de la
   qualificació**, baixades a `docs/raw/web/esport/atletes/`. **106 punts, 35è de
   35**, i **una darrera sèrie de 14 que és la pitjor de tot el quadre.**
-- **Les federacions**: cap fitxa de cap. — **`parcial`, i el buit ha canviat de
+- ~~**Les federacions**: cap fitxa de cap.~~ — **`parcial`, i el buit ha canviat de
   forma.** **La llista sencera de les vint-i-sis federacions del COA ja hi és**
   ([el Comitè Olímpic](../competicio/el-comite-olimpic.md)); **el que falta és
   una fitxa per federació**, i **quatre fitxes d'aquesta subbranca la demanen
