@@ -179,8 +179,12 @@ participacions».**
    `Una referència d'esquí adaptat penjada de la fila d'un esquiador adaptat fa
    pensar en un guia o en un company d'equip, i el corpus no ho afirma: la font
    no ho diu i l'article de fora no s'ha consultat.` `font_externa`
-7. **Els guies** dels esquiadors de discapacitat visual —Paquita Ramírez en
-   devia tenir un i **el bolcat no el nomena.**
+7. ~~**Els guies** dels esquiadors de discapacitat visual —Paquita Ramírez en
+   devia tenir un i **el bolcat no el nomena.**~~ — **`resolt` el
+   18-09-2026, bessó**: **Manel Fernández Flores**, a les dues proves de
+   Vancouver 2010, segons les taules de resultats de Wikipedia
+   ([font](../../../fonts/wikipedia-en-alpine-skiing-2010-paralympics-vi.md)).
+   Vegeu [els altres Jocs](./els-altres-jocs.md).
 
 ## Related
 

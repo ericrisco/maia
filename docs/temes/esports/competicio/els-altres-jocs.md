@@ -90,9 +90,12 @@ andorrans** ([els Jocs Olímpics](./andorra-als-jocs-olimpics.md)).
 
 **Dues coses que el corpus registra com a buits, i són de les que importen:**
 
-1. **Els esquiadors deficients visuals competeixen amb un guia**, que baixa
+1. ~~**Els esquiadors deficients visuals competeixen amb un guia**, que baixa
    davant seu i que **als Jocs també rep medalla**. **La font no dona el nom del
-   guia de Ramírez.** **Buit registrat.**
+   guia de Ramírez.**~~ — **`resolt` el 18-09-2026**: **el guia és Manel
+   Fernández Flores**, a les dues proves —eslàlom i eslàlom gegant—, segons
+   les taules de resultats de Wikipedia
+   ([font](../../../fonts/wikipedia-en-alpine-skiing-2010-paralympics-vi.md)).
 2. **«Francesca Ramirez» (2006) i «Paquita Ramírez Capitán» (2010) són,
    probablement, la mateixa persona** —*Paquita* és el diminutiu de *Francisca*
    o *Francesca*. **El corpus ho marca com a hipòtesi seva i no ho dona per
@@ -241,8 +244,10 @@ Olímpic Andorrà o al CIO.**
   registre a la mà**: **la pàgina general del Comitè Paralímpic llista
   «2012, 2016-2024»** i **cap edició posterior al 2012 no té delegació
   documentada** ([els Paralímpics](./andorra-als-jocs-paralimpics.md)).
-- **Els guies** dels esquiadors deficients visuals. **Andorra n'ha tingut
-  almenys una, Paquita Ramírez a Vancouver 2010, i el guia no consta.**
+- ~~**Els guies** dels esquiadors deficients visuals. **Andorra n'ha tingut
+  almenys una, Paquita Ramírez a Vancouver 2010, i el guia no consta.**~~ —
+  **`resolt` el 18-09-2026, bessó**: **Manel Fernández Flores**, detallat
+  més amunt en aquesta mateixa fitxa.
 - **La FADEA**: ~~què fa~~ **i** quan es crea, quanta gent. — **`parcial` el
   2026-09-18**: **és la Federació Andorrana d'Esports Adaptats**, **el Comitè
   Paralímpic Nacional d'Andorra**, amb codi **AND** i web **`fadea.ad`**.
