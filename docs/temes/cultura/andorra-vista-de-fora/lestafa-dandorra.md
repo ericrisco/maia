@@ -152,8 +152,9 @@ relat, no una prova a favor seu.**
   d'entrevistats, no el contingut.** **Buit prioritari.**
 - **Què va respondre Amazon**, si va respondre.
 - **Si va haver-hi resposta institucional andorrana** al documental.
-- **L'operació Catalunya** com a objecte: **el corpus no en té fitxa, i aquí hi
-  surt com a context donat per sabut.**
+- ~~**L'operació Catalunya** com a objecte: **el corpus no en té fitxa, i aquí hi
+  surt com a context donat per sabut.**~~ — **`resolt` el 18-09-2026**:
+  **ara en té**, a [l'Operació Catalunya](../../economia/banca-i-fiscalitat/loperacio-catalunya.md).
 - **Eric Merola**: **qui és, què ha fet abans, i com arriba a Andorra.**
 - **Les altres «episodis de corrupció» que el documental repassa**, que la font
   no enumera.

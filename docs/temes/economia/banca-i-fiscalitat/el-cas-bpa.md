@@ -156,14 +156,21 @@ corpus.`
 6. Com va afectar **la resta del sistema financer andorrà** i la seva reputació.
 7. El document de l'**Associació de Bancs Andorrans** sobre el sistema financer
    del 2015.
-8. **L'operació Catalunya** com a objecte propi. **Surt citada a
+8. ~~**L'operació Catalunya** com a objecte propi. **Surt citada a
    [l'estafa d'Andorra](../../cultura/andorra-vista-de-fora/lestafa-dandorra.md)
-   com a context donat per sabut, i el corpus no en té fitxa.**
+   com a context donat per sabut, i el corpus no en té fitxa.**~~ —
+   **`resolt` el 18-09-2026**: **ara en té**, a
+   [l'Operació Catalunya](./loperacio-catalunya.md) — Rajoy assenyalat
+   com a orquestrador, i la BPA com l'instrument per aconseguir dades
+   bancàries de Pujol, Mas i Junqueras
+   ([font](../../../fonts/vilaweb-deu-anys-bpa-operacio-catalunya.md)).
 
 ## Related
 
 - [L'estafa d'Andorra](../../cultura/andorra-vista-de-fora/lestafa-dandorra.md) —
   el documental del 2020 sobre aquest cas, i la baralla sobre què és.
+- [L'Operació Catalunya](./loperacio-catalunya.md) — l'objecte polític
+  que hi ha darrere l'alerta del FinCEN.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md)
 - [De 1993 ençà](../../historia/historia-recent/de-1993-enca.md)
 - [L'acord d'associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)

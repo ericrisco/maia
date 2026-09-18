@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1066** documents · **295** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1067** documents · **296** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -267,6 +267,7 @@
 | [La pressió fiscal s'ha doblat](temes/economia/banca-i-fiscalitat/la-pressio-fiscal-sha-doblat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `estadistica-ad` |
 | [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'oligopoli bancari: del 1951 al segle XXI](temes/economia/banca-i-fiscalitat/loligopoli-bancari.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `wikipedia-anys-daurats` |
+| [L'Operació Catalunya](temes/economia/banca-i-fiscalitat/loperacio-catalunya.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `vilaweb-deu-anys-bpa-operacio-catalunya` |
 | [Nascut d'una prohibició eclesiàstica, mort per decret episcopal](temes/economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Per considerar-se com a pensió alimentícia»](temes/economia/banca-i-fiscalitat/per-considerarse-com-a-pencio-alimenticia.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
 | [«Per motiu de sa tant dilatada antiquedad»](temes/economia/banca-i-fiscalitat/per-motiu-de-sa-tant-dilatada-antiquedad.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
@@ -1938,6 +1939,7 @@
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-cuina-barroc-fra-sever`](fonts/vilaweb-cuina-barroc-fra-sever.md) | VilaWeb · Jaume Fabrega | premsa/blog, drets reservats; citació breu | False |
+| [`vilaweb-deu-anys-bpa-operacio-catalunya`](fonts/vilaweb-deu-anys-bpa-operacio-catalunya.md) | VilaWeb | premsa, drets reservats; citació breu | False |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
