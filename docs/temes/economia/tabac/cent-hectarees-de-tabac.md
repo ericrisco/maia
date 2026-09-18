@@ -117,6 +117,81 @@ any.** La taula de conreus, que només dona «Tabac», no ho deixa veure. **El
 corpus no sabia que això es fes**, i **no se sap què s'hi planta després**:
 la font dona la categoria i no el segon conreu.
 
+## Vint-i-dos anys de terra de tabac
+
+**La mateixa sèrie es publica des del 2004**, i el corpus l'ha llegida sencera.
+**El tabac perd el 45% de la seva terra en vint-i-un anys**, i la perd **en dues
+fases separades per un any concret.**
+
+| Any | Tabac (m²) | Variació |
+| --- | ---: | ---: |
+| **2004** | **1.868.735** | |
+| 2008 | 1.632.356 | −4,8% |
+| 2012 | 1.503.335 | −0,9% |
+| 2016 | 1.561.567 | **+3,9%** |
+| **2019** | **1.469.255** | −0,9% |
+| **2020** | **1.300.244** | **−11,5%** |
+| 2021 | 1.213.053 | −6,7% |
+| 2023 | 1.076.321 | −7,7% |
+| **2025** | **1.027.719** | −2,7% |
+
+**Del 2004 al 2019 el tabac baixa un 21,4% en quinze anys**, amb anys de pujada
+pel mig —el 2014 i el 2016 en guanyen—. **Del 2019 al 2025 en baixa un altre
+30,0%, en sis anys, i cap any no en guanya.**
+
+### El 2020 també és el trencament de la terra
+
+**El −11,5% del 2020 és la caiguda més gran dels vint-i-dos anys de sèrie**, i
+**cau l'any exacte en què la collita toca el mínim històric** —106.799 quilos,
+que la nota A107 anomena «el punt d'inflexió més destacat»
+([quant tabac es cull avui](./quant-tabac-es-cull-avui.md)).
+
+**El corpus tenia registrat el trencament del 2020 com a buit** —«per què el
+trencament és el 2020 i no un altre any»—. **La resposta no hi és encara, però
+el fet ara és doble**: el 2020 no és només un mal any de collita, **és l'any en
+què Andorra deixa de declarar disset hectàrees de tabac.**
+
+### El rendiment, i la precaució que s'hi ha de posar
+
+Els dos únics anys amb collita i superfície publicades a la vegada permeten una
+divisió, i **el corpus la fa dient què és**:
+
+| Any | Collita | Superfície | kg per hectàrea |
+| --- | ---: | ---: | ---: |
+| 2010 | 237.485 kg | 159,2 ha | **1.491** |
+| **2020** | **106.799 kg** | **130,0 ha** | **821** |
+| 2023 | 121.909 kg | 107,6 ha | 1.133 |
+| 2024 | 109.038 kg | 105,6 ha | 1.032 |
+
+**El 2020 és el pitjor any per hectàrea de tots quatre**, amb un rendiment
+**gairebé la meitat del de 2010**. I **després del 2020 el rendiment es
+recupera mentre la terra segueix caient.**
+
+`Precaució: són dues fonts diferents —la collita és d'Estadística, la
+superfície del Departament d'Agricultura— i el corpus no ha comprovat que
+tinguin la mateixa data de referència ni la mateixa definició de parcel·la.
+La divisió és del corpus, no de cap font.`
+
+### El que perd el tabac no ho perd el país
+
+**La superfície agrària declarada total és pràcticament la mateixa el 2025 que
+el 2004: +0,9%.** El que canvia és el repartiment de dins:
+
+| | 2004 | 2025 | Variació |
+| --- | ---: | ---: | ---: |
+| **Tabac** | 1.868.735 | 1.027.719 | **−45,0%** |
+| **Dall** | 5.635.738 | 4.540.164 | −19,4% |
+| **Peixeder** | 11.788.741 | 13.402.774 | **+13,7%** |
+| *Total declarat* | *20.332.058* | *20.514.261* | *+0,9%* |
+
+**El tabac era el 9,2% de la terra declarada el 2004 i n'és el 5,0% el 2025.**
+**La terra no s'abandona: es fa pastura.**
+
+**I les explotacions declarants passen de 343 a 302, un −12%.** `Amb un salt
+que la font no explica: 366 el 2012 i 322 el 2013, quaranta-quatre menys en un
+any, que fa pensar en un canvi de registre més que en quaranta-quatre
+abandonaments.`
+
 ## Comprovacions
 
 - **Les set parròquies sumen exactament 302 explotacions**, i **108 amb bestiar

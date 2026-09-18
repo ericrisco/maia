@@ -117,3 +117,24 @@ Tots set porten `?download=true` al final de l'URL i tots set s'han extret amb
   respecte de l'edició anterior. **La sèrie comunal no és comparable entre
   edicions.**
 - **La paraula «tabac» no surt cap vegada** en els onze fulls.
+
+## La sèrie de superfícies de conreu, 2004-2025
+
+**Vint-i-dues edicions descarregades el 18-09-2026** de
+`documents/d/guest/superficie_cultius_annuals_<any>` i variants
+(`superficie_conreu_<any>`, i els anys sols `2004`…`2018` per als més antics),
+extretes amb `pdftotext -layout` a `serie-conreu/`. **No es versionen**, per la
+mateixa raó de drets que la resta: `.gitignore` les exclou.
+
+**Totes vint-i-dues tenen la mateixa estructura** —fila «Total país» amb
+explotacions, dall, tabac, peixeder, patates, hort, erm, altres, total i SAU—
+**amb columnes que apareixen i desapareixen** (`Pam` només del 2011 al 2016,
+`Vinya` des del 2011, `Varis` des del 2009). **La columna del tabac hi és els
+vint-i-dos anys.**
+
+Destil·lada a
+[Cent hectàrees de tabac](../../temes/economia/tabac/cent-hectarees-de-tabac.md):
+**−45,0% de terra de tabac del 2004 al 2025**, **−11,5% el sol any 2020** —la
+caiguda més gran de la sèrie, i **el mateix any del mínim històric de collita**—,
+i **superfície declarada total pràcticament estable** (+0,9%), amb el peixeder
+guanyant el que perden el tabac i el dall.

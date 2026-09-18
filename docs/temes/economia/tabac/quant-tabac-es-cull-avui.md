@@ -152,7 +152,11 @@ l'original.**
 - **La sèrie any per any del 1973 ençà.** **La nota la dibuixa en un gràfic i en
   publica quatre talls i dos extrems.** `El gràfic no porta etiquetes; només
   s'han pres els dos valors que hi surten retolats —1.047.036 i 109.038— i els
-  que el text cita.`
+  que el text cita.` — **`parcial` el 18-09-2026, per l'altra banda**: **de
+  collita segueix sense haver-hi sèrie, però de superfície n'hi ha una de
+  completa i any per any del 2004 al 2025**, publicada pel Departament
+  d'Agricultura ([Cent hectàrees de tabac](./cent-hectarees-de-tabac.md)).
+  **Vint-i-dos anys, i el tabac hi perd el 45% de la seva terra.**
 - ~~**La subvenció**: quant es paga per quilo i amb quin fonament legal.~~ —
   **`resolt` el 18-09-2026**: **l'A112 s'ha llegit i no hi ha cap línia d'ajut
   al tabac.** Les vuit línies d'ajut públic al sector de l'agricultura del 2025
@@ -162,7 +166,14 @@ l'original.**
   la Llei d'agricultura i ramaderia.`
 - **Què se'n fa**: quant d'aquest tabac es transforma al país i quant
   s'exporta.
-- **Per què el trencament és el 2020** i no un altre any.
+- **Per què el trencament és el 2020** i no un altre any. — **`parcial` el
+  18-09-2026, i el fet és més gran del que semblava**: **el 2020 la superfície
+  de tabac cau un 11,5%, la caiguda més gran de la sèrie de vint-i-dos anys**,
+  i **el rendiment d'aquell any —821 kg/ha— és el pitjor mesurable del corpus**,
+  gairebé la meitat del de 2010
+  ([Cent hectàrees de tabac](./cent-hectarees-de-tabac.md)).
+  `La causa segueix sense resposta: ara se sap que el 2020 és alhora menys
+  terra i pitjor collita per hectàrea, i cap font no diu per què.`
 
 ## Related
 
