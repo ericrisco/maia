@@ -237,11 +237,23 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    **El batlle atorga l'autorització sota caució.** **Segueix obert** de quina
    mena era la caució i qui la fixava: la font diu «sous caution» i no ho
    desenvolupa.
-2. **Les Pièces justificatives, pp. LVI-LX**: **l'extracte del manuscrit de
+2. ~~**Les Pièces justificatives, pp. LVI-LX**: **l'extracte del manuscrit de
    Palmitjavila**, amb **la classificació dels procediments** i **la prohibició
-   d'embargar entre andorrans establerts** (p. LIX). **Prioritat màxima**:
-   **tretzena tanda que aquest manuscrit surt, i ara el corpus sap exactament
-   quines pàgines del llibre en porten el text.**
+   d'embargar entre andorrans establerts** (p. LIX).~~ — **`resolt` el
+   18-09-2026: l'extracte està llegit i destil·lat des del 16 de setembre**, i
+   **el corpus en té les dues coses que aquest buit demanava**.
+
+   **La classificació dels procediments** és a
+   [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md),
+   **i la prohibició d'emparar entre habitants té fitxa pròpia amb l'excepció que
+   la fa memorable**:
+   [Un fadrí sense casa sí que es pot emparar](./un-fadri-sense-casa-si-que-es-pot-emparar.md)
+   —**«La ampara es prohibida en las presents Valls y fora de elles de habitant a
+   habitant, ***[si no que sie fadri y no tinga casa]***»**.
+
+   > **El buit comptava tandes d'una cosa que ja era al calaix.** **De les tretze
+   > vegades que el manuscrit sortia citat, l'extracte publicat n'hi era per a
+   > totes.** `El que segueix obert és el manuscrit sencer, no l'extracte.`
 3. **El quadern de relacions del *nunci* al batlle de 1821-1823.** **Prioritari**:
    **és una sèrie processal continuada i el corpus només en té tres exemples.**
 4. **Quan va desaparèixer l'embargament per creu**, **i si en queda cap rastre

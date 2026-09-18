@@ -302,9 +302,20 @@ sí.**
    **Segueix obert si la distinció es mantenia sempre**, que és la segona meitat
    de la pregunta: **el corpus té una sola atestació de la parella de termes** i
    **no pot dir si algun acte n'embarga una i deixa l'altra.**
-8. **Si el manuscrit de M. Palmitjavila** —**que segueix sense llegir-se**—
-   **tracta els mateixos punts.** **A diferència de la *Instructa*, aquest sí que
-   és un buit real del corpus.**
+8. **Si el manuscrit de M. Palmitjavila tracta els mateixos punts.** —
+   **`parcial` el 18-09-2026, i la premissa s'ha de corregir**: **no és cert que
+   segueixi sense llegir-se.** **L'extracte que Brutails en publica —peça
+   justificativa XXVII, pp. LVI-LX— està llegit i destil·lat des del 16 de
+   setembre**
+   ([trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md),
+   [un fadrí sense casa sí que es pot emparar](./un-fadri-sense-casa-si-que-es-pot-emparar.md)),
+   **i el que hi ha de la quarta part hi és**: l'extracte dona **que de l'herba
+   «se quede la quarta mes en favor del acreador»** i **que la cosa emparada,
+   verificada l'empara, «se encante dins tres dies, se judique y se lliure per la
+   quantitat deguda, quedant a favor del acreador la quarta»**.
+
+   `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, la
+   matèria criminal i l'aranzel—, no l'extracte.`
 
 ## Related
 
