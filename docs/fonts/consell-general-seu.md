@@ -82,7 +82,14 @@ contra l'original.
 
 ## El que això no resol
 
-**Les actes en línia comencen el 2023.** **El Consell Constituent, les
-legislatures del 1993 al 2019 i la Llei Electoral del 1987** —que el corpus
-busca des que la Llei qualificada del 1993 la va citar en derogar-la— **segueixen
-essent arxiu parlamentari**, i **la petició escrita segueix fent falta.**
+**Les actes en línia comencen el 2023.** **Tot l'anterior** —el Consell
+Constituent, les legislatures del 1993 al 2019, i **la Llei Electoral del 1987**,
+que el corpus busca des que la Llei qualificada del 1993 la va citar en
+derogar-la— **segueix essent arxiu parlamentari**, i **la petició escrita segueix
+fent falta.**
+
+**Dit amb precisió**: **aquesta font i la petició escrita no se solapen en cap
+punt.** **La petició demana actes del 1753, 1768, 1775, 1844, 1855, 1928-1930,
+1934, 1968 i del final dels vuitanta; la seu publica del 2023 ençà.** **El que
+la seu obre és un tram que ningú no havia demanat perquè el corpus no sabia que
+fos en línia.**
