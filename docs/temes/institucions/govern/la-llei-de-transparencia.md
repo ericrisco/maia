@@ -157,10 +157,10 @@ Documentació** (capítol cinquè).
   **Cap resolució ni memòria anual localitzades.**
 - **Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
   consta.
-- **Quanta informació s'ha declarat reservada d'Estat**, tampoc. — **`obert`,
-  confirmat el 2026-09-14**, i **bessó** del que declara
+- ~~**Quanta informació s'ha declarat reservada d'Estat**, tampoc.~~ —
+  **`resolt` el 18-09-2026, com a duplicat intern de l'execució de la llei**:
+  el buit canònic, amb la cerca al BOPA i el que encara cal demanar, queda a
   [el que no et deixen veure](./el-que-no-et-deixen-veure.md).
-  **Comptat un sol cop, és un buit i no dos.**
 - **Si el caràcter confidencial de la declaració de patrimoni s'ha discutit**
   políticament, el corpus no en té cap font.
 
