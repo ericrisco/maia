@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **334** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **335** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1799,6 +1799,7 @@
 | [`debat-2a-diada-migracions`](fonts/debat-2a-diada-migracions.md) | Societat Andorrana de Ciències · CREC, Universitat de Perpinyà | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`delegacio-permanent-perpinya`](fonts/delegacio-permanent-perpinya.md) | Larousse · Archives départementales des Pyrénées-Orientales | publicació editorial i arxivística, sense llicència declarada | pendent |
 | [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`diariandorra-diari-viatge-zamora-1788`](fonts/diariandorra-diari-viatge-zamora-1788.md) | Diari d'Andorra | premsa digital, sense llicència declarada | pendent |
 | [`diario-sesiones-corts-1895`](fonts/diario-sesiones-corts-1895.md) | Congreso de los Diputados i Senado (Espanya) · document oficial parlamentari | document parlamentari oficial de 1895; domini públic per antiguitat | si |
 | [`diec2`](fonts/diec2.md) | Institut d'Estudis Catalans | drets reservats; l'avís legal prohibeix expressament l'extracció, la reutilització i el tractament informàtic del contingut de la base de dades | no |
 | [`domenec-bascompte-biografia`](fonts/domenec-bascompte-biografia.md) | Bondia · diverses | premsa, drets reservats; citació breu | False |

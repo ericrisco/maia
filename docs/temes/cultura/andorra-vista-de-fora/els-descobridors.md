@@ -78,8 +78,13 @@ vindran: hi apareixen «**alguns comportaments quotidians o festívols dels seus
 habitants**», però **«cap d'ells no va dedicar el seu viatge a l'estudi del
 nostre costumari»**.
 
-**Buit registrat, prioritari:** el corpus **no ha llegit el diari de Zamora** i
-**no en sap l'edició ni el títol exacte**. És **el testimoni extern més antic
+~~**Buit registrat, prioritari:** el corpus **no ha llegit el diari de Zamora**
+i **no en sap l'edició ni el títol exacte**.~~ — **`parcial` el 18-09-2026**:
+el diari es va editar el **2004**, sota el títol ***Diari de viatge. Andorra,
+1788***, publicat pel **Govern d'Andorra**, amb **edició, traducció i estudi
+històric d'[Albert Villaró](../../persones/albert-villaro.md)**
+([font](../../../fonts/diariandorra-diari-viatge-zamora-1788.md)). **El text
+del diari en si segueix sense llegir-se.** És **el testimoni extern més antic
 amb nom i data** que té identificat.
 
 ## El pare Tomàs Junoy

@@ -321,8 +321,12 @@ Tres conseqüències pràctiques:
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
 - **Els sis jocs tradicionals** que Amades recull amb gràfics. El corpus no té
   cap fitxa de jocs. **Buit nou, obert avui.**
-- **Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota la
-  literatura de viatges sobre Andorra i **el corpus no ha llegit**.
+- ~~**Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota
+  la literatura de viatges sobre Andorra i **el corpus no ha llegit**.~~ —
+  **`parcial` el 18-09-2026, era un bessó**: l'edició (2004, Govern
+  d'Andorra, a cura d'Albert Villaró) ja té fitxa a
+  [els descobridors](../../cultura/andorra-vista-de-fora/els-descobridors.md).
+  **El text del diari en si segueix sense llegir-se.**
 - ~~**Pere Canturri Montanya** i la seva obra.~~ — **`resolt` el 18-09-2026**:
   fitxa biogràfica pròpia a
   [persones](../../persones/pere-canturri-montanya.md) —**1935-2015**,
