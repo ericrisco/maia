@@ -105,13 +105,13 @@ Hi ha també un **Cos de voluntaris de protecció civil** amb capítol propi
 
 ## Buits registrats
 
-- **Plans, buit parcialment tancat:** s'ha llegit el
+- ~~**Plans**~~ — **`parcial` el 18-09-2026**: s'ha llegit el
   [pla d'Arinsal de 2022](el-pla-darinsal-i-els-avisos-dallaus.md),
   amb l'avís BOPA d'aprovació, i la
   [guia per als edificis](la-guia-dallaus-per-als-edificis.md), que és
   un model de redacció. Queden pendents els altres cinc plans enllaçats
   pel portal, el cens complet de plans i l'operativitat actual.
-- **Episodis reals, buit parcialment tancat:** hi ha una primera
+- ~~**Episodis reals**~~ — **`parcial` el 18-09-2026**: hi ha una primera
   [lectura de les allaus d'Arinsal del 1996](que-es-va-mesurar-a-lallau-darinsal.md),
   amb mesures, estimacions i cronologies atribuïdes. És anterior a
   la llei de 2022 i no n'acredita l'aplicació. Queden pendents el

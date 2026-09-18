@@ -280,8 +280,8 @@ data de finalització de l'esquí.
 3. **Andorra Recerca + Innovació**: apareix com a font de dades i **el corpus no
    en té fitxa**.
 4. **El *Pla sectorial d'infraestructures energètiques d'Andorra*** (2018).
-5. **Tancat parcialment:** captacions per xarxes de neu de 2019
-   localitzades i llegides, amb golf inclòs a ENSISA. No equivalen a
+ 5. ~~**Captacions per xarxes de neu de 2019**~~ — **`parcial` el 18-09-2026**:
+    localitzades i llegides, amb golf inclòs a ENSISA. No equivalen a
    volum de neu produïda. La separació d'usos, la sèrie completa i
    l'estat actual continuen pendents:
    [lectura](com-es-compta-laigua-dels-canons.md). — **`parcial` el
@@ -311,8 +311,8 @@ data de finalització de l'esquí.
 8. ~~**Si les dades dels usos són d'un any concret**; la font no el diu.~~ —
    **`resolt` el 18-09-2026**: **la divisió 2470 de l'API dona la sèrie anual
    completa del 2007 al 2019**, ús per ús. **No és un any concret: són tretze.**
-9. **Tancat parcialment:** una font primària situa uns 262 hm³/any en
-   1971–2000, però queda per demostrar la cadena fins a la citació de Pons.
+ 9. ~~**Els 262 hm³/any de 1971–2000**~~ — **`parcial` el 18-09-2026**: una font
+    primària situa aquesta xifra, però queda per demostrar la cadena fins a la citació de Pons.
    El BUR original i la comparabilitat de mètodes amb els 282 hm³ de
    1961–1990 continuen pendents. La coincidència numèrica no resol el buit.
 10. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials

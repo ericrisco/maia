@@ -265,9 +265,9 @@ principal es calcula.`
 
 ## Buits registrats
 
-- **Contrast BOPA tancat per als articles 1, 2 i 18:** mateix text després
-  de normalitzar la maquetació de l'extracció. No s'ha comparat tota
-  la llei. **Modificacions, buit parcialment tancat:** la
+- ~~**Contrast BOPA dels articles 1, 2 i 18 i modificacions pressupostàries**~~ — **`parcial`
+  el 18-09-2026**: mateix text després de normalitzar la maquetació de l'extracció.
+  No s'ha comparat tota la llei. **Modificacions, buit parcialment tancat:** la
   [Llei 10/2026](el-superavit-que-financa-habitatge-i-hospital.md) autoritza
   crèdits addicionals per a habitatge i sistema sociosanitari. La resta
   de canvis i l'execució continuen pendents. El

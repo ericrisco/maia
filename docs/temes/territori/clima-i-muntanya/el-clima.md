@@ -75,7 +75,7 @@ Aquests sis mesos són **la base material** de
 
 ## Buits registrats
 
-- **Allaus, buit parcialment tancat:** hi ha una primera lectura de
+- ~~**Allaus**~~ — **`parcial` el 18-09-2026**: hi ha una primera lectura de
   [la classificació ATES](que-classifica-el-mapa-ates-dandorra.md), amb
   definició i límits de l'eina, i del
   [BPA estacional i la seva escala](les-dates-i-lescala-del-butlleti-dallaus.md).

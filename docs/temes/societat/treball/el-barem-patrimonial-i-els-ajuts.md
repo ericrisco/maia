@@ -113,8 +113,8 @@ història del barem, no regla aplicable avui.**
 - El [debat parlamentari del 19-04-2018](../../institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md)
   ja s'ha llegit: documenta el desacord sobre l'habilitació del reglament,
   però no tanca el buit d'interpretació judicial ni d'aplicació efectiva.
-- **Antecedents de 2017 contrastats:** final cinquena del pressupost i
-  decret d'abril llegits directament; tancat el buit de lectura d'aquestes
+- ~~**Antecedents de 2017 i 2016**~~ — **`parcial` el 18-09-2026**: final cinquena
+  del pressupost i decret d'abril llegits directament; tancat el buit de lectura d'aquestes
   dues peces. **Antecedents de 2016 també contrastats:** final setena de
   la Llei 2/2016 i article 5.2.a.iii del reglament del 18-05-2016 llegits
   als originals; això no equival a llegir les dues normes senceres.

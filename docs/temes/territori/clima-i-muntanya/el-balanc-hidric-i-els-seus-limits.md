@@ -211,8 +211,8 @@ què el corpus ja té documentada la reconstrucció.`
 - La prosa i la taula 4 de p. 11 també divergeixen en dades del Madriu
   i en el cabal específic de Prada Casadet. Aquestes xifres no s'utilitzen
   aquí com a valors resolts; [detall de les discrepàncies](../../../raw/recurs-hidric/README.md).
-- **Buit de lectura tancat el 13-09-2026:** annex metodològic de 2025,
-  p. 44–53, llegit; reserva, dèficit i supòsits incorporats. Queden
+- ~~**Lectura de l’annex metodològic de 2025**~~ — **`parcial` el 13-09-2026**:
+   p. 44–53, llegit; reserva, dèficit i supòsits incorporats. Queden
   pendents la reproducció numèrica amb els ràsters originals i el
   desenvolupament complet per unitats i conques. Tampoc no s'han
   llegit totes les pàgines de la reconstrucció de 2015 ni reconstruït

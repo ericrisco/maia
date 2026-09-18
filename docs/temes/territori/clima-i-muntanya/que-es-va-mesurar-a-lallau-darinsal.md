@@ -155,8 +155,8 @@ del fenomen. No és un nivell de perill emès pel
   registra una pista hemerogràfica i metadades del cercador oficial.
   L'accés a un possible antecedent exigeix CAPTCHA i no s'ha completat;
   no s'ha acreditat el dispositiu, la fermesa ni l'execució.
-- **Becat, buit parcialment tancat:** s'han llegit la tercera part
-  del llibre de2014 i el text del sector d'Arinsal del preinforme
+- ~~**Lectura de Becat i del preinforme d’Arinsal**~~ — **`parcial` el 18-09-2026**:
+   s'han llegit la tercera part del llibre de2014 i el text del sector d'Arinsal del preinforme
   de1996 reproduït a l'annex12. Hi ha una
   [lectura dels mapes i dels corredors documentats](dos-blaus-diferents-als-mapes-dallaus.md).
   No s'han llegit els informes originals RTM i ASI, el treball de
