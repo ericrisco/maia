@@ -254,7 +254,34 @@ administracions públiques, S.13)*
    n'hi ha d'establert.**
 3. **Si el retorn dels immigrants grans s'ha quantificat** mai. És l'afirmació més
    important de la ponència i hi va **sense xifra**.
-4. **Les sèries posteriors al 2014.** Aquesta comparativa té **més de deu anys**.
+4. **Les sèries posteriors al 2014.** Aquesta comparativa té **més de deu
+   anys**. — **`parcial` el 18-09-2026, i el que s'ha trobat no és la
+   comparació sinó una de les seves columnes.** **El Departament d'Estadística
+   publica un «sistema d'indicadors d'Andorra en l'estadística comunitària
+   europea»** (`docs/raw/estadistica-api/comparacio-internacional/`, **CC BY
+   4.0**), **amb les definicions d'Eurostat i, per tant, comparables amb
+   qualsevol país de la Unió**:
+
+   | Indicador | 2018 | **2023** |
+   | --- | ---: | ---: |
+   | **Taxa d'atur** | 1,8% | **1,6%** |
+   | **Taxa d'ocupació (15-64)** | 80,7% | **83,2%** |
+   | Taxa d'activitat | 81,2% | **84,6%** |
+   | **Població de 30 a 34 anys amb educació superior** | 41,8% | **48,0%** |
+
+   **I del 2021 al 2024, l'AROPE**: **20,2%, 19,9%, 18,9% i 19,4%.**
+
+   **Això dona la sèrie andorrana amb definició europea, que és la meitat de la
+   feina.** `El que segueix obert és l'altra meitat: les mateixes xifres per a
+   Luxemburg, Malta, Mònaco, Liechtenstein i San Marino. Cap font del corpus no
+   les té, i la comparació del 2015 és l'única que hi ha.`
+
+   **Dues precaucions abans de fer servir aquesta taula**: **el 2024 del bloc
+   de mercat laboral i d'educació val `0` i `0,8` i no és una dada**, i **la
+   taula d'ocupació de l'Estratègia Europa 2020 barreja taxes i distribucions
+   sota un sol títol** —les tres files de «taxa d'ocupació per nivell d'educació
+   assolit» sumen 100,0—. **Tots dos defectes queden registrats al README del
+   bolcat.**
 5. **Els altres nou petits estats europeus** del mateix volum, encara no llegits.
 
 ## Related
