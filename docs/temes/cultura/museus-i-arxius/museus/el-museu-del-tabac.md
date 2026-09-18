@@ -59,7 +59,7 @@ n'esmenta tres**: ***Geisha i Samurai*** (2010), **pintures sobre Frida Kahlo**
 
 - **Per què tanca la fàbrica el 1957.**
 - **Quantes persones hi treballaven.**
-- ~~**El tabac avui**: el corpus té que **és l'únic cultiu que queda i que es manté per subvenció i per tradició**, i **no en té les xifres.**~~ — **`resolt` el 18-09-2026**: **109.038 quilos el 2024, el 14,2% del que es collia el 1990 i el 10,4% del màxim del 1996**, amb **el repartiment per parròquia** —**Sant Julià n'és el 36,3%**—, vegeu [Quant tabac es cull avui](../../../economia/tabac/quant-tabac-es-cull-avui.md). `El que segueix obert és la subvenció: quant es paga per quilo.`
+- ~~**El tabac avui**: el corpus té que **és l'únic cultiu que queda i que es manté per subvenció i per tradició**, i **no en té les xifres.**~~ — **`resolt` el 18-09-2026**: **109.038 quilos el 2024, el 14,2% del que es collia el 1990 i el 10,4% del màxim del 1996**, amb **el repartiment per parròquia** —**Sant Julià n'és el 36,3%**—, vegeu [Quant tabac es cull avui](../../../economia/tabac/quant-tabac-es-cull-avui.md). **La subvenció, en canvi, no existeix com a línia d'ajut agrari**: l'estadística A112 del 2025 reparteix 3.595.108 € en vuit línies i **cap no és de tabac** ([Qui cobra els ajuts agraris](../../../economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md)).
 
 ## Related
 

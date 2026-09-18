@@ -1,0 +1,621 @@
+            A112. Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+                               Data publicació: dimarts, 26/05/2026
+                                        www.estadistica.ad
+
+
+
+
+Resum
+
+
+
+L’any 2025 el total d’ajuts públics al sector de l’agricultura de l’Administració central per part del
+Departament d’Agricultura i Ramaderia és de 3.595,11 milers d’euros amb un increment del
++11,3% respecte a l’any anterior. Pel que respecta a l’administració local, el ajuts dels comuns
+a l’activitat agrícola i ramadera és de 113,91 milers d’euros amb una disminució del -11,6%
+respecte a l‘any anterior.
+
+Els ajuts per part de l’Administració central incrementen principalment per l’Ajut a la bonificació
+del benestar animal de les explotacions ramaderes bovines (+82,6%), l’Ajut al foment de
+pràctiques agràries específiques adequades per al manteniment del medi natural (+18,7%) i
+l’Ajut al foment de les pràctiques ramaderes tradicionals de muntanya (+11,8%) respecte a l’any
+anterior.
+
+En relació amb els darrers cinc anys, l’import dels ajuts de l’any 2025 se situa per sobre de la
+mitjana del període 2020-2024 (2.771.86 milers d’euros) i suposa el 19,2% en relació al valor
+afegit brut generat pel mateix sector. En relació al PIB nominal, els ajuts públics al sector de
+l’agricultura representen el 0,1%.
+
+
+
+
+A112_20260526_A                                                                      Pàgina 1 de 11
+                    Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+
+ Índex
+
+
+ 1.      Ajuts públics al sector de l’agricultura ..............................................................................................3
+      1.1. Import dels ajuts ............................................................................................................................3
+      1.2. Distribució dels tipus d’ajuts ..........................................................................................................4
+      1.3. Variacions interanuals dels ajuts ..................................................................................................5
+ 2.      Nombre d’explotacions i ajuts atorgats ............................................................................................6
+ 3.      Ràtios principals ...............................................................................................................................8
+ 4.      Metodologia ......................................................................................................................................9
+ 5.      Dates de properes publicacions previstes .................................................................................... 11
+
+
+
+
+A112_20260526_A                                                                                                             Pàgina 2 de 11
+                   Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+ 1. Ajuts públics al sector de l’agricultura
+
+   1.1. Import dels ajuts
+
+                                                                                                                                Variació
+                     Ajuts públics al sector de l'agricultura                             Any 2024           Any 2025                           Variació
+                                                                                                                                absoluta
+
+          Ajut al foment de plans de millora                                                 46.599 €                  0€          -46.599 €     -100,0%
+          Ajut al foment del dall dels prats                                                407.720 €         403.728 €             -3.992 €        -1,0%
+          Ajut al foment de les pràctiques ramaderes tradicionals de
+                                                                                          2.125.161 €        2.376.328 €          251.167 €        11,8%
+          muntanya
+          Ajut al foment de la producció de productes de qualitat
+                                                                                            418.134 €         452.439 €            34.306 €             8,2%
+          controlada
+          Ajut al foment de la recerca i del desenvolupament                                          0€               0€                  0€       -
+          Ajut al foment de pràctiques agràries específiques
+                                                                                             72.007 €           85.441 €           13.433 €        18,7%
+          adequades per al manteniment del medi natural
+          Ajut a la bonificació del benestar animal de les explotacions
+                                                                                            140.033 €         255.674 €           115.641 €        82,6%
+          ramaderes bovines
+          Ajut al foment de la producció ecològica                                           20.481 €           21.498 €            1.017 €             5,0%
+
+                                               Total ajuts públics                        3.230.134 €        3.595.108 €          364.974 €        11,3%
+
+          Ajuts dels comuns a l'activitat agrícola i ramadera                               128.922 €         113.918 €            -15.004 €       -11,6%
+
+                                                     Total                                3.359.056 €        3.709.026 €       349.969,76 €        10,4%
+
+
+       Ajuts públics al sector de l'agricultura                           Any 2020      Any 2021       Any 2022         Any 2023        Any 2024          Any 2025
+
+ Ajut al foment de plans de millora                                               0€       92.000 €         83.927 €         71.257 €       46.599 €                 0€
+
+ Ajut al foment del dall dels prats                                         389.387 €    378.057 €         381.565 €        395.774 €      407.720 €           403.728 €
+ Ajut al foment de les pràctiques ramaderes
+                                                                          1.683.549 €   1.680.135 €    1.725.287 €      1.902.093 €     2.125.161 €        2.376.328 €
+ tradicionals de muntanya
+ Ajut al foment de la producció de productes de
+                                                                            340.350 €    309.935 €         303.245 €        324.834 €      418.134 €           452.439 €
+ qualitat controlada
+ Ajut al foment de la recerca i del desenvolupament                               0€            0€               0€               0€             0€                  0€
+
+ Ajut al foment de pràctiques agràries específiques
+                                                                             24.710 €      29.422 €         42.084 €         61.408 €       72.007 €            85.441 €
+ adequades per al manteniment del medi natural
+ Ajut a la bonificació del benestar animal de les
+                                                                                                           125.000 €        133.875 €      140.033 €           255.674 €
+ explotacions ramaderes bovines
+
+ Ajut al foment de la producció ecològica                                                                                    18.475 €       20.481 €            21.498 €
+
+                  Total ajuts públics                                     2.437.996 €   2.489.548 €    2.661.108 €      2.907.717 €     3.230.134 €        3.595.108 €
+
+ Ajuts dels comuns a l'activitat agrícola i ramadera                         34.031 €      48.837 €         47.443 €         68.120 €      128.922 €           113.918 €
+
+                                       Total                              2.472.027 €   2.538.386 €    2.708.551 €      2.975.837 €     3.359.056 €        3.709.026 €
+
+
+
+
+                                                                      Ajuts públics al sector de l'agricultura
+                                                                     (Departament d'Agricultura i Ramaderia)
+                                      4.000
+                                                                                                                                3.595
+                                      3.500                                                                    3.230
+                                                                                              2.908
+                                      3.000
+                                                                                2.661
+                                                   2.438         2.490
+                                      2.500
+
+
+                     milers d'euros
+                                      2.000
+
+                                      1.500
+
+                                      1.000
+
+                                       500
+
+                                         0
+                                                   2020          2021            2022         2023             2024             2025
+
+
+
+
+A112_20260526_A                                                                                                                              Pàgina 3 de 11
+                 Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+  1.2. Distribució dels tipus d’ajuts
+
+
+       Ajuts públics al sector de l'agricultura
+                                                                 Any 2020      Any 2021       Any 2022      Any 2023       Any 2024     Any 2025
+                       (Distribució)
+
+ Ajut al foment de plans de millora                                    0,0%          3,6%           3,1%          2,4%          1,4%       0,0%
+ Ajut al foment del dall dels prats                                  15,8%          14,9%         14,1%         13,3%          12,1%      10,9%
+ Ajut al foment de les pràctiques ramaderes
+                                                                     68,1%          66,2%         63,7%         63,9%          63,3%      64,1%
+ tradicionals de muntanya
+ Ajut al foment de la producció de productes de
+                                                                     13,8%          12,2%         11,2%         10,9%          12,4%      12,2%
+ qualitat controlada
+ Ajut al foment de la recerca i del desenvolupament                    0,0%          0,0%           0,0%          0,0%          0,0%       0,0%
+
+ Ajut al foment de pràctiques agràries específiques
+                                                                       1,0%          1,2%           1,6%          2,1%          2,1%       2,3%
+ adequades per al manteniment del medi natural
+ Ajut a la bonificació del benestar animal de les
+                                                                       0,0%          0,0%           4,6%          4,5%          4,2%       6,9%
+ explotacions ramaderes bovines
+
+ Ajut al foment de la producció ecològica                              0,0%          0,0%           0,0%          0,6%          0,6%       0,6%
+
+                  Total ajuts públics                                98,6%          98,1%         98,2%         97,7%          96,2%      96,9%
+
+ Ajuts dels comuns a l'activitat agrícola i ramadera                   1,4%           1,9%          1,8%           2,3%          3,8%       3,1%
+
+                          Total                                     100,0%        100,0%        100,0%         100,0%          100,0%    100,0%
+
+
+
+
+                                             Ajuts públics al sector de l'agricultura
+                                                          (distribució)
+         100%
+
+          90%
+
+          80%
+
+          70%
+
+          60%
+
+          50%
+
+          40%
+
+          30%
+
+          20%
+
+          10%
+
+            0%
+                     Any 2020          Any 2021            Any 2022            Any 2023             Any 2024            Any 2025
+                            Ajut al foment de pràctiques agràries específiques adequades per al manteniment del medi natural
+                            Ajut al foment de la recerca i del desenvolupament
+                            Ajut al foment de la producció de productes de qualitat controlada
+                            Ajut al foment de les pràctiques ramaderes tradicionals de muntanya
+                            Ajut al foment del dall dels prats
+                            Ajut al foment de plans de millora i a la formació
+                            Ajut a la bonificació del benestar animal de les explotacions ramaderes bovines
+
+
+
+
+A112_20260526_A                                                                                                                Pàgina 4 de 11
+                Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+ 1.3. Variacions interanuals dels ajuts
+
+
+  Ajuts públics al sector de l'agricultura (Variacions
+                                                                    Any 2020        Any 2021       Any 2022       Any 2023        Any 2024     Any 2025
+                                                 interanuals)
+
+  Ajut al foment de plans de millora                                  -100,0%                  -        -8,8%         -15,1%          -34,6%    -100,0%
+
+  Ajut al foment del dall dels prats                                      2,0%           -2,9%           0,9%           3,7%           3,0%       -1,0%
+  Ajut al foment de les pràctiques ramaderes
+                                                                          0,5%           -0,2%           2,7%         10,2%           11,7%      11,8%
+  tradicionals de muntanya
+  Ajut al foment de la producció de productes de
+                                                                          6,7%           -8,9%          -2,2%           7,1%          28,7%       8,2%
+  qualitat controlada
+  Ajut al foment de la recerca i del desenvolupament                  -100,0%                  -              -               -            -           -
+
+  Ajut al foment de pràctiques agràries específiques
+                                                                        25,6%           19,1%          43,0%          45,9%           17,3%      18,7%
+  adequades per al manteniment del medi natural
+  Ajut a la bonificació del benestar animal de les
+                                                                               -               -              -         7,1%           4,6%      82,6%
+  explotacions ramaderes bovines
+
+  Ajut al foment de la producció ecològica                                     -               -              -               -       10,9%       5,0%
+
+                                       Total ajuts públics              -1,6%            2,1%           6,9%           9,3%           11,1%      11,3%
+
+     Ajuts dels comuns a l'activitat agrícola i ramadera               -10,6%           43,5%           -2,9%         43,6%           89,3%      -11,6%
+
+                                                         Total          -1,8%            2,7%           6,7%           9,9%           12,9%      10,4%
+
+
+
+
+                                        Ajuts públics al sector de l'agricultura
+                                                (variacions interanuals)
+                                        sense l'Ajut al foment de plans de millora
+            100%
+
+
+             50%
+
+
+               0%
+
+
+             -50%
+
+
+           -100%
+
+
+           -150%
+                       Any 2020         Any 2021           Any 2022             Any 2023            Any 2024            Any 2025
+                                   Ajut al foment del dall dels prats
+                                   Ajut al foment de les pràctiques ramaderes tradicionals de muntanya
+                                   Ajut al foment de la producció de productes de qualitat controlada
+                                   Ajut al foment de la recerca i del desenvolupament
+                                   Ajuts dels comuns a l'activitat agrícola i ramadera
+                                   Ajut al foment de pràctiques agràries específiques adequades per al manteniment del medi natural
+
+
+
+
+A112_20260526_A                                                                                                                       Pàgina 5 de 11
+                 Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+
+ 2. Nombre d’explotacions i ajuts atorgats
+
+
+ Ajut al foment de les pràctiques ramaderes tradicionals de muntanya
+                                                      Nombre                                                 % explotacions
+                     PARROQUIA                                       Import 2025     Total Explotacions
+                                                    Explotacions                                              beneficiades
+ Canillo                                                     19            483.954 €         57                   33%
+ Encamp                                                      13            433.167 €         46                   28%
+ Ordino                                                      14            303.337 €         45                   31%
+ La Massana                                                  12            287.999 €         57                   21%
+ Andorra la Vella                                             5             40.141 €         38                   13%
+ Sant Julià de Lòria                                         26            815.015 €         66                   39%
+ Escaldes-Engordany                                           6             12.716 €         31                   19%
+ TOTAL                                                       95          2.376.328 €         340                  28%
+
+ Ajut al foment del dall dels prats
+                                                     Nombre                                                  % explotacions
+                    PARROQUIA                                        Import 2025       Total Explotacions
+                                                   Explotacions                                               beneficiades
+ Canillo                                                    16             103.903 €          57                  28%
+ Encamp                                                     11              59.561 €          46                  24%
+ Ordino                                                     12              68.402 €          45                  27%
+ La Massana                                                 11              52.996 €          57                  19%
+ Andorra la Vella                                            3               4.866 €          38                   8%
+ Sant Julià de Lòria                                        21             113.426 €          66                  32%
+ Escaldes-Engordany                                          1                 575 €          31                   3%
+ TOTAL                                                      75             403.728 €          340                 22%
+
+
+ Ajut al foment de pràctiques agràries específiques adequades per al manteniment del medi natural
+                                                      Nombre                                                 % explotacions
+                     PARROQUIA                                        Import 2025     Total Explotacions
+                                                    Explotacions                                              beneficiades
+ Canillo                                                      1               9.588 €         57                   2%
+ Encamp                                                       2              21.891 €         46                   4%
+ Ordino                                                       6              40.828 €         45                  13%
+ La Massana                                                 -                   - €           57                   0%
+ Andorra la Vella                                           -                   - €           38                   0%
+ Sant Julià de Lòria                                        -                   - €           66                   0%
+ Escaldes-Engordany                                           2              13.134 €         31                   6%
+ TOTAL                                                       11              85.441 €         340                  3%
+
+
+ Ajut a la bonificació del benestar animal de les explotacions ramaderes bovines
+                                                        Nombre                                               % explotacions
+                     PARROQUIA                                        Import 2025      Total Explotacions
+                                                     Explotacions                                             beneficiades
+ Canillo                                                      16              37.353 €         57                 28%
+ Encamp                                                       11              30.586 €         46                 24%
+ Ordino                                                       13              48.041 €         45                 29%
+ La Massana                                                   10              27.072 €         57                 18%
+ Andorra la Vella                                               1              3.599 €         38                  3%
+ Sant Julià de Lòria                                          21            106.521 €          66                 32%
+ Escaldes-Engordany                                             4              2.502 €         31                 13%
+ TOTAL                                                        76            255.674 €          340                22%
+
+
+
+
+A112_20260526_A                                                                                             Pàgina 6 de 11
+                   Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+
+ AJUTS AL FOMENT DE LA PRODUCCIÓ DE PRODUCTES DE QUALITAT CONTROLADA
+ Ajut a la producció de carn que es produeix i comercialitza sota el distintiu "Carn de qualitat controlada d'Andorra", "IGP Carn
+ d'Andorra" i "Carn de qualitat de corder i cabrit transhumant d'Andorra"
+
+
+                                                       Nombre
+                       PARROQUIA                                        Import 2025
+                                                     Explotacions
+ Canillo                                                       4               54.480 €
+ Encamp                                                        6              107.267 €
+ Ordino                                                        7               49.959 €
+ La Massana                                                    5               60.362 €
+ Andorra la Vella                                              1                5.499 €
+ Sant Julià de Lòria                                          15              135.910 €
+ Escaldes-Engordany                                          -                    - €
+                                                              38              413.477 €
+
+ Ajut a la producció de vins que es produeixen i comercialitzen sota el distintiu "Vi de qualitat controlada d'Andorra"
+
+                                                       Nombre
+                       PARROQUIA                                        Import 2025
+                                                     Explotacions
+ Ordino                                                        1               10.236 €
+ Sant Julià de Lòria                                           2               18.703 €
+                                                               3               28.939 €
+
+ Ajut a la producció de trumfes que es produeixen i comercialitzen sota el distintiu "Trumfa de qualitat controlada d'Andorra"
+
+                                                       Nombre
+                       PARROQUIA                                        Import 2025
+                                                     Explotacions
+ Encamp                                                        1                1.833 €
+                                                               1                1.833 €
+
+ 5.4 Ajut a la producció de mel i productes alimentaris derivats de l'apicultura que es produeixen i comercialitzen sota el
+ distintiu "Mel de qualitat controlada d'Andorra"
+
+                                                       Nombre
+                       PARROQUIA                                        Import 2025
+                                                     Explotacions
+ Canillo                                                       1                8.190 €
+                                                               1                8.190 €
+
+
+ TOTAL                                                                        452.439 €
+
+
+
+ AJUTS AL FOMENT DE LA PRODUCCIÓ ECOLÒGICA
+ Ajuts directes al foment de la producció ecològica
+
+                                                       Nombre
+                       PARROQUIA                                        Import 2025
+                                                     Explotacions
+ Canillo                                                       1                7.516 €
+ Sant Julià de Lòria                                           1                6.982 €
+                                                               2               14.498 €
+
+
+ Ajuts indirectes al foment de la producció ecològica
+
+                                                     Nombre de
+                                                                        Import 2025
+                                                    Certificacions
+                                                                4               7.000 €
+
+
+ TOTAL                                                                         21.498 €
+
+
+                                Total ajuts 2025                                               3.595.108 €
+
+
+
+
+A112_20260526_A                                                                                               Pàgina 7 de 11
+                    Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+ 3. Ràtios principals
+
+
+
+                    Ràtios principals                         Any 2020        Any 2021       Any 2022       Any 2023    Any 2024       Any 2025
+
+ Ajuts públics a l'agricultura / VAB Agricultura                   17,5%           17,8%          17,4%         17,8%        18,3%         19,2%
+ Ajuts públics a l'agricultura / PIB nominal                       0,10%           0,09%          0,08%         0,09%        0,09%         0,09%
+ Ajuts públics a l'agricultura / Despesa de funcionament
+                                                                   0,56%           0,61%          0,65%         0,65%        0,67%         0,68%
+ Govern d'Andorra
+
+
+
+
+                                                      Ajuts públics al sector de l'agricultura (Ràtios)
+      100,0%
+
+
+                           17,5%                   17,8%              17,4%                 17,8%              18,3%               19,2%
+        20,0%
+
+
+          4,0%
+
+
+                                                   0,61%              0,65%                 0,65%              0,67%               0,68%
+          0,8%             0,56%
+
+
+
+
+          0,2%             0,10%                   0,09%              0,08%                 0,09%              0,09%               0,09%
+
+
+
+          0,0%
+                        Any 2020               Any 2021            Any 2022              Any 2023           Any 2024           Any 2025
+
+                                                       Ajuts p úblics a l'agricultura / VAB A gricultu ra
+                                                       Ajuts p úblics a l'agricultura / PIB nominal
+                                                       Ajuts p úblics a l'agricultura / Despesa d e funcion ament Go vern d'An dorra
+
+
+
+
+A112_20260526_A                                                                                                              Pàgina 8 de 11
+                Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+ 4. Metodologia
+
+ • Font: Dades del Departament d’Agricultura i Ramaderia del Ministeri de Medi Ambient,
+    Agricultura i Ramaderia del Govern d’Andorra, tractades i revisades pel Departament
+    d’Estadística del Govern d’Andorra.
+
+
+ • Definicions:
+    Llei d’agricultura i ramaderia, del 22-6-2000
+    Ajut al foment de la formació (art. 11): despeses relacionades amb l’objectiu de fomentar
+    la millora de la formació de l’equip humà de les explotacions agràries. S’inclouen dins
+    l’epígraf “Ajut al foment de plans de millora i a la formació”.
+    Ajut al foment de la recerca i del desenvolupament (art. 12): despeses relacionades amb
+    els ajuts al foment de la recerca i del desenvolupament amb l'objectiu de fomentar
+    pràctiques agràries que siguin respectuoses amb el medi natural i les tradicionals d'alta
+    muntanya, i per fomentar pràctiques adequades per contribuir al manteniment de la
+    biodiversitat, la millora de la qualitat paisatgística, la reducció de riscos naturals, la millora
+    de la qualitat dels productes i de les tècniques de producció, transformació i
+    comercialització, i la millora de les condicions tècniques i sanitàries de les explotacions
+    agràries.
+    Ajut al foment de les pràctiques ramaderes tradicionals de muntanya (art. 14):
+    despeses relacionades amb els ajuts al foment de les pràctiques ramaderes tradicionals de
+    muntanya respectuoses amb el medi natural i que contribueixen a la reducció de riscos
+    naturals, com allaus, esllavissades i incendis forestals, i mantenen la qualitat paisatgística
+    d'Andorra i la biodiversitat. Inclou també ajuts a les explotacions agràries per al pasturatge i
+    el dall de productes farratgers.
+    Ajut al foment del dall dels prats (art. 15): despeses relacionades amb l’ajut a les
+    explotacions agràries per a la superfície de prat dallat amb l'objectiu de fomentar pràctiques
+    agràries tradicionals de muntanya que permetin contribuir al manteniment de la biodiversitat,
+    a la millora de la qualitat paisatgística, i a la reducció de riscos naturals.
+    Ajut al foment de plans de millora (art. 18): despeses relacionades amb els ajuts al
+    foment de plans de millora de les explotacions agràries, amb l'objectiu de fomentar la millora
+    de la rendibilitat econòmica i la qualitat dels productes resultants, de fomentar pràctiques
+    que permetin obtenir, transformar o comercialitzar productes de qualitat controlada o que
+    siguin respectuosos amb el medi natural, i de fomentar la millora de les condicions sanitàries
+    de les explotacions agràries. S’inclouen dins l’epígraf “Ajut al foment de plans de millora i a
+    la formació”.
+    Ajut al foment de pràctiques agràries específiques adequades per al manteniment del
+    medi natural (art. 19): despeses relacionades amb el foment de pràctiques agràries
+    específiques adequades al manteniment del medi natural, establint-se un ajut a l’explotació
+    agrària per recuperar per a l’ús agrari prats o feixes deixats a l’erm i que es troben en vies
+
+
+
+A112_20260526_A                                                                       Pàgina 9 de 11
+             Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+    d’emboscament i per a les pràctiques agràries que afavoreixen la biodiversitat i el
+    manteniment del medi natural i del paisatge en zones determinades.
+
+
+    Decret 146/2021, del 5 de maig del 2021
+    Ajut a la bonificació del benestar animal de les explotacions ramaderes bovines: l’ajut
+    específic destinat a la bonificació del compliment dels principis i criteris a través dels quals
+    s’avalua el benestar dels animals a les explotacions ramaderes bovines.
+
+
+    Llei 18/2018, del 26 de juliol de la producció ecològica i dels règims de qualitat dels
+    productes agraris i alimentaris
+    Article 5. Ajuts a la producció ecològica i a la producció subjecta a règims de qualitat
+    L’autoritat competent pot proposar al Govern atorgar ajuts per fomentar pràctiques que
+    permetin obtenir productes ecològics o sotmesos a règims de qualitat, als titulars
+    d’explotacions agràries i d’empreses operadores destinades a la producció de productes
+    ecològics o subjectes a règims de qualitat, d’acord amb les condicions i els criteris
+    d’atorgament establerts reglamentàriament.
+
+
+    Decret 449/2025, del 3 de desembre del 2025
+    Reglament relatiu a la concessió de l'ajut a la bonificació del benestar animal de els
+    explotacions ramaderes equines, ovines i caprines.
+
+
+    Ajuts dels comuns a l’activitat agrícola i ramadera:
+    Despeses relacionades amb els ajuts dels comuns per a fires de bestiar, productes de
+    veterinari, lloguer de brau i cavall per a sementalia, i de vaquer per a cura del bestiar, i per a
+    material de muntanya principalment.
+
+
+ • Altres consideracions: A data de la present nota no es disposa de la liquidació dels
+    comuns d’Ordino i Sant Julià de Lòria i s’ha considerat el mateix import que van liquidar
+    l’any passat. Durant aquest any s’han revisat les dades anteriors i s’ha corregit la dada dels
+    Comuns de l’any 2024. En conseqüència alguns dels resultats obtinguts en aquesta edició
+    difereixen amb els de l’anterior edició.
+
+
+ • Citació: Per qualsevol utilització de la informació continguda en aquest anota de premsa,
+    preguem la citació següent: “Dades tractades pel Departament d’Estadística per a la nota de
+    premsa referència NP_A112_20260526”.
+
+
+ • Marc legal: D’acord amb les previsions de la Llei del Pla d’estadística 2026-2029 i el seu
+    desplegament en el Programa estadístic per a l’any 2026, aquest informe dona resposta a
+    l’activitat estadística A112. Estadística d’ajudes públiques al sector de l’agricultura
+
+
+
+
+A112_20260526_A                                                                       Pàgina 10 de 11
+              Estadística d’ajudes públiques al sector de l’agricultura. Any 2025
+
+
+
+
+ • Difusió:       Dades     disponibles     al     web     www.estadistica.ad,       a     l’apartat
+    Estadístiques/Dades/Estadístiques     sectorials/Agricultura,   silvicultura,   pesca/Agregats
+    conjunturals d’agricultura. Per estar informat en qualsevol moment de les noves publicacions
+    us podeu inscriure a la nostra “Alerta informativa”. Amb l’objectiu de maximitzar la difusió de
+    la informació estadística d’Andorra, les notes de premsa del Departament d’Estadística es
+    podran seguir també per Twitter (actualment X).
+
+
+
+
+ 5. Dates de properes publicacions previstes
+
+    Nota de premsa A112. Estadística d’ajudes públiques al sector de l’agricultura. Any 2026:
+    juny del 2027.
+
+
+
+
+A112_20260526_A                                                                     Pàgina 11 de 11
+

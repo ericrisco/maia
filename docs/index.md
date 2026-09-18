@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1013** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1014** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -315,6 +315,7 @@
 | [L'agricultura de subsistència](temes/economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [Les mules](temes/economia/ramaderia-i-agricultura/les-mules.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `mas-pagesos-i-artesans` |
 | [L'interès es paga en llana](temes/economia/ramaderia-i-agricultura/linteres-es-paga-en-llana.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `brutails-coutume-1904` |
+| [Qui cobra els ajuts agraris](temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `estadistica-ad` |
 | [Ramaderia i agricultura](temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md) | `temes/economia/ramaderia-i-agricultura` | compilada | contemporania | no | `iec-vocabulari-andorra` |
 
 ## temes/economia/tabac

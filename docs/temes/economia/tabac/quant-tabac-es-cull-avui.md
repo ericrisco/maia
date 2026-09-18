@@ -147,9 +147,13 @@ l'original.**
   publica quatre talls i dos extrems.** `El gràfic no porta etiquetes; només
   s'han pres els dos valors que hi surten retolats —1.047.036 i 109.038— i els
   que el text cita.`
-- **La subvenció**: quant es paga per quilo i amb quin fonament legal. És
-  l'activitat **A112, «Estadística d'ajudes públiques al sector de
-  l'agricultura»**, **localitzada** (`A112_20260526_A.pdf`) **i no llegida.**
+- ~~**La subvenció**: quant es paga per quilo i amb quin fonament legal.~~ —
+  **`resolt` el 18-09-2026**: **l'A112 s'ha llegit i no hi ha cap línia d'ajut
+  al tabac.** Les vuit línies d'ajut públic al sector de l'agricultura del 2025
+  —3.595.108 €— **no n'inclouen cap de tabac, i la paraula no surt als onze
+  fulls de la nota**; vegeu [Qui cobra els ajuts agraris](../ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md).
+  `El que segueix obert és on és el suport, si n'hi ha: no és un ajut agrari de
+  la Llei d'agricultura i ramaderia.`
 - **Què se'n fa**: quant d'aquest tabac es transforma al país i quant
   s'exporta.
 - **Per què el trencament és el 2020** i no un altre any.

@@ -56,8 +56,13 @@ desaparèixer quan van arribar el comerç i la neu.
 
 ## Buits registrats
 
-- **Quantes explotacions hi ha inscrites** al Registre d'Explotacions Agràries,
-  no consta.
+- ~~**Quantes explotacions hi ha**, no consta.~~ — **`resolt` el 18-09-2026**:
+  **340 explotacions agràries al país**, repartides Sant Julià 66, Canillo 57,
+  La Massana 57, Encamp 46, Ordino 45, Andorra la Vella 38, Escaldes-Engordany
+  31 —**sumen exactament 340**—, segons l'estadística **A112** del 26-05-2026
+  ([Qui cobra els ajuts agraris](./qui-cobra-els-ajuts-agraris.md)). `La nota
+  compta «explotacions agràries» i no diu si són exactament les inscrites al
+  Registre d'Explotacions Agràries; l'equivalència queda per confirmar.`
 - ~~**Quines lleis modifica exactament** la 31/2022 i en quins termes.~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
   **98 del 2022** (`docs/raw/lleis/bopa/llei-31-2022-sectors-ramader-agricola.txt`).
