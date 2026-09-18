@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1044** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1045** documents · **212** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1463,6 +1463,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Gini ha pujat vuit punts](temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
+| [La Caixa va néixer de la immigració](temes/societat/proteccio-social/la-caixa-va-neixer-de-la-immigracio.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `bartumeu-immigracio-proteccio-social-1989` |
 | [Sis-cents quaranta-quatre espanyols i tres-cents un andorrans](temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 | [Tres-centes catorze criatures](temes/societat/proteccio-social/tres-centes-catorze-criatures.md) | `temes/societat/proteccio-social` | compilada | contemporania | no | `estadistica-ad` |
 
@@ -1694,6 +1695,7 @@
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`balari-origenes-1899`](fonts/balari-origenes-1899.md) | Domini públic per antiguitat | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1899, autor mort el 1904. | si |
 | [`barbero-dones-migrants-1997`](fonts/barbero-dones-migrants-1997.md) | Carmen Barbero Carballo · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
+| [`bartumeu-immigracio-proteccio-social-1989`](fonts/bartumeu-immigracio-proteccio-social-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bascompte-consell-de-la-terra`](fonts/bascompte-consell-de-la-terra.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

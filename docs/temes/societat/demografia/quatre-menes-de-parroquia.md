@@ -245,8 +245,16 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
   `Els ~50.200 d'aquesta fitxa són càlcul del corpus.`
 - **La taula XII** (Encamp i Sant Julià, evolució 1947-1987), que aquesta
   lectura no ha transcrit. `Localitzada, p. 32-33.`
-- **Les altres ponències del volum**, que segueixen sense llegir: hi ha, com a
-  mínim, **«Les migracions andorranes al segle XIX», de Lídia Armengol.**
+- ~~**Les altres ponències del volum**, que segueixen sense llegir.~~ —
+  **`resolt` el 18-09-2026.** **«Les migracions andorranes al segle XIX», de
+  Lídia Armengol, ja era destil·lada** a
+  [les tres migracions](./les-tres-migracions.md) **des del 12-09-2026**, i el
+  18-09-2026 s'hi ha afegit **«Immigració i protecció social a Andorra», d'Enric
+  Bartumeu** ([la Caixa va néixer de la immigració](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md)).
+  **De les nou peces del volum, el corpus n'ha llegit sis**: Becat, Ros Pascuet,
+  Armengol, Bartumeu, Agustí Font i el debat. `Queden les de Josep Vila
+  (economia i immigració), Ladislau Baró (la política d'immigració dels darrers
+  deu anys) i Pere Cavero (futur demogràfic).` `pregunta_oberta`
 - **Les fonts primàries que l'autora cita**: **Bricall (1975)** i **Adellach i
   Ganyet (1977)**, cap de les dues al corpus.
 - **Drets tancats.** **Cap llicència declarada al volum.** **Res d'aquesta font
