@@ -85,21 +85,25 @@ fins ara no tenia. Vegeu [la selecció](../temes/esports/futbol/la-seleccio.md).
 
 ## Buits registrats
 
-- **Aquesta fitxa de font no té cap còpia a `raw/`.** **Registrat el
-  2026-09-13 per l'auditoria de buits.** **Les altres fonts web del corpus
-  guarden el bolcat** —`raw/web/esport/atletes/` en té 193 de futbolistes
-  andorrans, i `raw/web/esport/estructura/` els articles d'estructura— **i les
-  quaranta-una fitxes de jugadora que surten d'aquí no en tenen cap.**
-  **Conseqüència pràctica**: **totes les seves xifres depenen d'una lectura que
-  no es pot tornar a comprovar sense tornar a la web**, i **els articles que
-  aquesta font declara** —les cinc biografies de jugadora inclosos— **no es
-  poden rellegir dins el corpus.** **És el mateix problema que
-  [`raw/README.md`](../raw/README.md) registra per a altres materials**: sense
-  còpia, no hi ha verificació. `Buit prioritari i barat: baixar els articles.`
-- **Els bolcats individuals de les cinc jugadores amb biografia** —**Teresa
+- ~~**Aquesta fitxa de font no té cap còpia a `raw/`.** **Registrat el
+  2026-09-13 per l'auditoria de buits.**~~ — **`resolt` el 18-09-2026**:
+  **`docs/raw/web/esport/atletes-femeni/` en té vuit fitxers de wikitext amb
+  README de procedència i drets** (**CC BY-SA 4.0**). **Hi són la pàgina de la
+  selecció, la llista d'internacionals i les cinc biografies que existeixen.**
+- ~~**Els bolcats individuals de les cinc jugadores amb biografia** —**Teresa
   Morató, Marina Fernández, Maria Ruzafa, Maria Moles i Margot Llobera**— **no
   són a `raw/`**, i **són precisament les que donen les xifres més altes**, les
-  que entren en contradicció amb la llista d'internacionals.
+  que entren en contradicció amb la llista d'internacionals.~~ — **`resolt` el
+  18-09-2026, i el bolcat va servir per al que es va baixar**: **va demostrar
+  que de quaranta-dues jugadores només cinc tenen article**, cosa que **va
+  permetre retirar trenta buits de fitxa que demanaven una biografia que no
+  existeix**, i **va deixar documentada la contradicció de Maria Ruzafa**
+  —**la seva fitxa en dona 38 internacionalitats i la llista, 5**—.
+
+  `Dues coses que el bolcat va ensenyar i que val la pena que quedin escrites:
+  la consulta de «Marina Fernández» retorna una pàgina de desambiguació i cal
+  demanar «Marina Fernández (footballer)»; i de les cinc biografies, quatre són
+  de la Viquipèdia en anglès i només Teresa Morató en té una de catalana.`
 
 ## El que en surt
 
