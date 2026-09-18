@@ -176,8 +176,11 @@ piragüisme en esprint, esquí acrobàtic** i **esquí de muntanya**.
 
 ## Les delegacions, Jocs per Jocs
 
-**Els noms que aquesta recerca ha pogut recollir.** Les llistes d'estiu són
-completes; **les d'hivern, no**.
+**Els noms que aquesta recerca ha pogut recollir.**
+
+> **Resultats completats el 18-09-2026** des dels bolcats de
+> `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0). **Les
+> edicions d'estiu del 1996 al 2016 tenien els noms i no els resultats.**
 
 ### Estiu
 
@@ -201,39 +204,39 @@ completes; **les d'hivern, no**.
 | | **David Ramón** i **Oscar Ramón** | **Vela**, 470 — 27ns |
 | | **Joan Besoli** | Tir, fossa — 29è |
 | **Atlanta 1996** | **Antoni Bernadó** | Atletisme, marató — 87è (2:31:28) |
-| | **Antoni Molne** | Judo, −65 kg |
-| | **Fiona Morrison** | **Vela**, Mistral — 24a |
-| | **David Ramón** i **Oscar Ramón** | **Vela**, 470 — 27ns |
-| | **Gerard Barcia** | Tir, fossa — 37è |
-| | **Aitor Osorio** | Natació, 200 papallona. **Abanderat** |
-| | **Meritxell Sabaté** | Natació, 200 estils |
-| **Sydney 2000** | **Antoni Bernadó** | Marató — 49è (2:23:03). **Abanderat** |
-| | **Silvia Felipo** | Atletisme, 1.500 m |
-| | **Joan Tomàs** | Tir, fossa — 39è |
-| | **Santiago Deu** | Natació, 200 lliures |
-| | **Meritxell Sabaté** | Natació, 200 estils |
+| | **Antoni Molne** | Judo, −65 kg — **exempt als 64ns, perd per ippon als 32ns** contra Mukhamedkhanov (UZB) |
+| | **Fiona Morrison** | **Vela**, Mistral — **24a**, 153 punts nets en nou regates; **la millor, una 20a** |
+| | **David Ramón** i **Oscar Ramón** | **Vela**, 470 — **27ns**, 183 punts en onze regates; **la millor, una 11a** |
+| | **Gerard Barcia** | Tir, fossa — **117 punts, 37è ex aequo** |
+| | **Aitor Osorio** | Natació, 200 papallona — **2:12.56, 42è**. **Abanderat** |
+| | **Meritxell Sabaté** | Natació, 200 estils — **2:37.38, 42a** |
+| **Sydney 2000** | **Antoni Bernadó** | Marató — **49è de 81 finishers** (2:23:03). **Abanderat** |
+| | **Silvia Felipo** | Atletisme, 1.500 m — **4:45.32, 13a de la sèrie**, no avança |
+| | **Joan Tomàs** | Tir, fossa — **101 punts, 39è i penúltim** |
+| | **Santiago Deu** | Natació, 200 lliures — **1:59.31, 51è** |
+| | **Meritxell Sabaté** | Natació, 200 estils — **35a** |
 | **Atenes 2004** | **Antoni Bernadó** | Marató — 57è (2:23:55) |
-| | **Silvia Felipo** | Atletisme, 1.500 m |
-| | **Toni Besolí** | Judo, −90 kg |
-| | **Francesc Repiso Romero** | Tir, fossa — 35è |
-| | **Hocine Haciane** | Natació, 200 estils. **Abanderat** |
-| | **Carolina Cerqueda** | Natació, 100 lliures |
+| | **Silvia Felipo** | Atletisme, 1.500 m — **4:44.40, 13a de la sèrie**, no avança |
+| | **Toni Besolí** | Judo, −90 kg — **perd el primer combat, 0000–1000** |
+| | **Francesc Repiso Romero** | Tir, fossa — **106 punts, 35è** |
+| | **Hocine Haciane** | Natació, 200 estils — **2:06.48, 36è**. **Abanderat** |
+| | **Carolina Cerqueda** | Natació, 100 lliures — **1:00.38, 48a** |
 | **Pequín 2008** | **Antoni Bernadó** | Marató — 58è (2:26:29) |
-| | **Montserrat Pujol** | Atletisme, 100 m |
-| | **Montserrat García Riberaygua** | **Piragüisme**, K-1 eslàlom. **Abanderada** |
-| | **Daniel García** | Judo, −66 kg |
-| | **Hocine Haciane** | Natació, 400 estils |
+| | **Montserrat Pujol** | Atletisme, 100 m — **12.73, 7a de nou a la sèrie**, no avança |
+| | **Montserrat García Riberaygua** | **Piragüisme**, K-1 eslàlom — **268.93 s, 20a de 21**. **Abanderada** |
+| | **Daniel García** | Judo, −66 kg — **exempt, perd per ippon als 32ns i a la repesca** |
+| | **Hocine Haciane** | Natació, 400 estils — **4:32.00, 29è**; **primer de la seva sèrie** |
 | **Londres 2012** | **Antoni Bernadó** | Marató — 74è (2:28:34) |
-| | **Cristina Llovera** | Atletisme, 100 m — **15 anys, la més jove** |
-| | **Daniel García** | **Judo, −66 kg — 9è** |
-| | **Joan Tomàs Roca** | Tir, fossa. **Abanderat, als 61 anys** |
-| | **Hocine Haciane** | Natació, 200 papallona |
-| | **Mónica Ramírez** | Natació, 100 esquena |
-| **Rio 2016** | **Pol Moya** | Atletisme, 800 m |
-| | **Laura Sallés** | Judo, −63 kg. **Abanderada** |
-| | **Esther Barrugués** | Tir, carrabina 10 m |
-| | **Pol Arias** | Natació, 400 lliures |
-| | **Mónica Ramírez** | Natació, 100 lliures |
+| | **Cristina Llovera** | Atletisme, 100 m — **12.78, 5a de la sèrie**; **15 anys, la més jove** |
+| | **Daniel García** | **Judo, −66 kg — 9è**: **exempt als 64ns, guanya als 32ns (0020–0001) i perd als 16ns (0002–0013)** |
+| | **Joan Tomàs Roca** | Tir, fossa — **103 punts, 33è**. **Abanderat, als 61 anys** |
+| | **Hocine Haciane** | Natació, 200 papallona — **2:06.37, 37è** |
+| | **Mónica Ramírez** | Natació, 100 esquena — **1:07.72, 42a** |
+| **Rio 2016** | **Pol Moya** | Atletisme, 800 m — **1:48.88, 6è de la sèrie**, no avança |
+| | **Laura Sallés** | Judo, −63 kg — **perd el primer combat, 000–100**. **Abanderada** |
+| | **Esther Barrugués** | Tir, carrabina d'aire 10 m — **396,9 punts, 51a** |
+| | **Pol Arias** | Natació, 400 lliures — **4:21.16, 49è** |
+| | **Mónica Ramírez** | Natació, 100 lliures — **no surt a l'aigua (DNS)** |
 | **Tòquio 2020** | **Pol Moya** | Atletisme, 800 m. **Abanderat** |
 | | **[Mònica Dòria](../../persones/monica-doria.md)** | Piragüisme, C-1 (11a) i K-1 (16a). **Abanderada** |
 | **París 2024** | **[Nahuel Carabaña](../../persones/nahuel-carabana.md)** | Atletisme, 3.000 obstacles. **Abanderat** |
@@ -439,7 +442,7 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    **El que això canvia és el cost**: **deixa de ser un buit de font externa i
    passa a ser un buit de lectura local.**
 
-   **Avenç del 18-09-2026, llegint esport per esport tal com deia la nota**:
+   **Tancat el 18-09-2026, llegint esport per esport tal com deia la nota.**
    **totes les edicions d'hivern estan buidades.** **Innsbruck 1976, Vancouver
    2010, PyeongChang 2018 i Pequín 2022 s'han afegit a
    [cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md)**,
@@ -448,7 +451,19 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    2026 no n'hi ha bolcat**: `docs/raw/web/esport/jocs-olimpics/` **acaba al
    2024 d'estiu.** **I segueixen obertes les edicions d'estiu**, que tenen
    taules de tir, judo, boxa, atletisme, natació, ciclisme i piragüisme,
-   **cadascuna amb el seu format.**
+   **cadascuna amb el seu format** — **i també estan buidades**: **les taules
+   d'estiu del 1996 al 2016 eren les que tenien els noms sense resultats, i ara
+   els porten** (vegeu la taula de dalt).
+
+   **De passada, dos defectes de la font que el corpus registra i no arbitra**:
+
+   - **Al bolcat del 1996, el text diu que Aitor Osorio va nedar 2:12.59 i la
+     taula diu 2:12.56.** El corpus cita el de la taula.
+   - **Al bolcat del 2000, Meritxell Sabaté surt amb 1:59.31 als 200 estils,
+     que és exactament el temps de Santiago Deu als 200 lliures del mateix
+     quadre.** **Un 200 estils femení en 1:59.31 el 2000 hauria estat rècord
+     del món**; **és un error de còpia de la font** i **el corpus en cita la
+     posició i no el temps.**
 2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
    **Jaume Martí**, president el 2015.
