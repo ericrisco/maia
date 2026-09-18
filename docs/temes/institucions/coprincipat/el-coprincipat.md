@@ -176,8 +176,17 @@ d'Urgell**, i **signa amb Emmanuel Macron** —per exemple, **el Codi penal del
 
 **El mètode val la pena retenir-lo**: **la signatura d'una llei és una font de
 datació institucional**, i **el Butlletí en publica una cada poques setmanes.**
-`Requereix la data exacta de la presa de possessió i el document que la recull,
-que no és una llei i el corpus no té.`
+
+~~`Requereix la data exacta de la presa de possessió i el document que la recull,
+que no és una llei i el corpus no té.`~~ — **`resolt` el 18-09-2026**: **el 31
+de maig del 2025**, dia en què el Papa Lleó XIV accepta la renúncia per edat de
+Vives i Josep-Lluís Serrano Pentinat esdevé bisbe d'Urgell titular — **una data
+que cau exactament dins la forquilla deduïda del BOPA**
+([font Vives](../../../fonts/wikipedia-en-joan-enric-vives.md) ·
+[font Serrano](../../../fonts/wikipedia-en-josep-lluis-serrano-pentinat.md)).
+**Ara tots dos coprínceps episcopals recents tenen fitxa pròpia**: **[Joan-Enric
+Vives i Sicília](../../persones/joan-enric-vives.md)** i
+**[Josep-Lluís Serrano Pentinat](../../persones/josep-lluis-serrano-pentinat.md)**.
 
 ## Buits registrats
 

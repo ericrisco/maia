@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1051** documents · **278** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1053** documents · **280** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1276,8 +1276,10 @@
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
+| [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
 | [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
+| [Josep-Lluís Serrano Pentinat](temes/persones/josep-lluis-serrano-pentinat.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-josep-lluis-serrano-pentinat` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Maria Reig i Moles](temes/persones/maria-reig-moles.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-maria-reig-moles` |
 | [Mònica Dòria Vilarrubla](temes/persones/monica-doria.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
@@ -1940,6 +1942,8 @@
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-en-joan-enric-vives`](fonts/wikipedia-en-joan-enric-vives.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-en-josep-lluis-serrano-pentinat`](fonts/wikipedia-en-josep-lluis-serrano-pentinat.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-maria-reig-moles`](fonts/wikipedia-en-maria-reig-moles.md) | Wikipedia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-en-pere-pastor-vilanova`](fonts/wikipedia-en-pere-pastor-vilanova.md) | Wikipedia community · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
