@@ -108,8 +108,17 @@ abandonament: és abandonament i musealització alhora.**
 2. **Quines cases** conserven el «tipisme» i quins àpats.
 3. La **recuperació de receptes de les padrines**: qui la va fer, hi ha
    receptaris publicats?
-4. **Quantes** places hoteleres hi havia als seixanta —creuar amb *500 anys
-   d'hoteleria*, ponència de la mateixa Diada **no consultada**.
+4. **Quantes** places hoteleres hi havia als seixanta. — **`parcial` el
+   18-09-2026, i la premissa s'ha de corregir**: ***500 anys d'hoteleria***
+   **sí que està consultada**, té fitxa de font pròpia
+   ([lacueva-hoteleria](../../../fonts/lacueva-hoteleria.md)) **i està
+   destil·lada en cinc articles del corpus**, entre ells
+   [De la fonda a l'hotel](../../economia/turisme-i-neu/de-la-fonda-a-lhotel.md)
+   i [Els hostals comunals](../../economia/turisme-i-neu/els-hostals-comunals.md).
+   `El que segueix obert és la xifra concreta dels anys seixanta: la ponència fa
+   la història de l'allotjament i no en dona el recompte de places d'aquella
+   dècada. El corpus té el parc de 2014 ençà —uns 34.000 llits el 2014 i 29.661
+   el 2025—, i res de mig segle abans.`
 5. **Què menja Andorra avui**, de debò.
 
 ## Related
