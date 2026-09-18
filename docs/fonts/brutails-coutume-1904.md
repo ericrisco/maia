@@ -3,7 +3,7 @@ type: font
 id: brutails-coutume-1904
 title: "J.-A. Brutails, La Coutume d'Andorre (1904)"
 titular: J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic
-url: https://books.google.com/
+url: https://gallica.bnf.fr/ark:/12148/bpt6k57903147
 llicencia: domini públic per antiguitat; digitalització de Google Books
 redistribucio: si
 data_consulta: 2026-09-12
@@ -126,7 +126,7 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
 
 ## Buits registrats
 
-1. **L'URL exacta** del volum digitalitzat. — **`parcial` el 18-09-2026, i el
+1. ~~**L'URL exacta** del volum digitalitzat.~~ — **`parcial` el 18-09-2026, i el
    matís importa.** **L'exemplar que el corpus té ve d'una digitalització de
    Google Books i el seu URL segueix sense constar.** **El que sí que hi ha ara
    és una segona còpia verificada del mateix imprès**, **a Gallica**, la
