@@ -95,9 +95,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
 
-- **El seu gol.** — **`obert`, i ara se sap que n'és un de sol en 77 partits.**
-  **El bolcat no porta taula de gols internacionals**, només el compte:
-  **1 gol**. `Requereix font externa: la FAF o una hemeroteca.`
+- ~~**El seu gol.**~~ — **`parcial` el 18-09-2026**: **la fitxa ja fixa que
+  n'és un de sol en 77 partits** i el compte és **1 gol**. **El bolcat no porta
+  la taula de gols internacionals ni identifica el partit**; `requereix font
+  externa: la FAF o una hemeroteca.`
 - ~~**Els seus clubs.**~~ — **`resolt`, i són dinou etapes** (taula de dalt).
   **És, de totes les fitxes de futbolista del corpus, la carrera amb més
   canvis de club**: **Espanya, Itàlia, Albània, Malta i Andorra.**
