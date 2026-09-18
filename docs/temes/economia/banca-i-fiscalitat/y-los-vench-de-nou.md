@@ -199,9 +199,10 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
    1776 i era mort abans del 15 de juny de 1788.** **Quins protocols seus es
    conserven**, i **si és el mateix nom del manuscrit de procediment.**
    **Prioritari.**
-7. **Si el comprador d'Ers i les dues contraparts del 15 de juny de 1788
-   formaven part d'una sola operació.** **El corpus té la coincidència de data,
-   notari i comprador, i un testimoni compartit, i no ho afirma.**
+7. ~~**Si el comprador d'Ers i les dues contraparts del 15 de juny de 1788
+   formaven part d'una sola operació.**~~ — **`parcial` el 18-09-2026**: **el
+   corpus té coincidència de data, notari, comprador i testimoni compartit**,
+   però **no pot afirmar que fos una sola operació**.
 
 ## Related
 

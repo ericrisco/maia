@@ -224,9 +224,10 @@ com a buit «quan va desaparèixer el violari».**
 6. **L'operació de base**: **una *in solutum datio* prèvia, una revenda per 1.641
    lliures i una donació de 891.** **El corpus no té l'acte anterior** ni sap
    **per què les mateixes parts es tornen la finca.**
-7. **Si els rendistes francesos podien exigir que la pensió se'ls portés fora
-   d'Andorra.** **L'acte diu «*a la sua propia casa, en la villa de ……*»** i **el
-   censal de 1788 posava expressament el límit de les Valls.**
+7. ~~**Si els rendistes francesos podien exigir que la pensió se'ls portés fora
+   d'Andorra.**~~ — **`parcial` el 18-09-2026**: **l'acte diu «*a la sua propia
+   casa, en la villa de ……*»**, mentre que **el censal de 1788 posa expressament
+   el límit de les Valls**; **la facultat general encara no està provada**.
 
 ## Related
 
