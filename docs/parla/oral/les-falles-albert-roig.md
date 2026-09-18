@@ -979,6 +979,8 @@ principi que un corrector destruiria la dada.
    Cita llocs d'Andorra la Vella però com a exemples. **No es pot situar la veu.**
 5. **`fallaire` en singular no surt enlloc de `docs/temes/`**, però *fallaires*
    sí, a tres articles. **No és lèxic nou per al corpus: és lèxic ja conegut,
-   dit per primera vegada.**
+   dit per primera vegada.** `no-es-buit`: és una nota de novetat lèxica, no una
+   pregunta pendent.
 6. **És xerrada preparada**, com les tandes 1 i 2: gairebé sense marcadors. **No
    serveix per a l'estudi de la parla espontània**, només per al lèxic.
+   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
