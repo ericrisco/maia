@@ -271,4 +271,11 @@ en conserva còpia — vegeu
 - **Les 28 versions no s'han comparat.** Saber què ha canviat del Codi del 2005
   al d'avui demanaria llegir-ne els diffs, i això no s'ha fet.
 - **El llibre segon, amb els delictes concrets, queda per llegir.** Aquesta
-  fitxa cobreix la part general: qui respon i com es castiga, no de què.
+  fitxa cobreix la part general: qui respon i com es castiga, no de què. —
+  **`parcial` el 18-09-2026**: **s'han llegit els articles que apareixen a
+  l'estadística d'infraccions** —**197 i 481 (furt), 224 i 484 (danys), 211 i
+  482 (estafa), 284 i 499 (droga), 268 (conducció), 113 (maltractament), 174
+  (injúria) i 427 (obstaculització)**— i **el que en surt és que, per al
+  patrimoni, la frontera entre delicte i contravenció és un preu: 600 euros**
+  ([dues mil dues-centes cinquanta-cinc](./dues-mil-dues-centes-cinquanta-cinc-i-mil-set-centes-cinquanta-quatre.md#que-diuen-aquests-articles-llegits)).
+  **La resta del llibre segon segueix sense llegir.**

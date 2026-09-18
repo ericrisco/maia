@@ -105,6 +105,78 @@ denúncies el 2007 a 549 el 2025**, **un −40,9%**, **mentre el furt com a deli
 es manté clavat entre 91 i 118 tots els anys.** **El que s'ha reduït és el furt
 petit, no el gran.**
 
+### Què diuen aquests articles, llegits
+
+> **Llegits al Codi penal el 18-09-2026** (`docs/raw/lleis/codi-penal.txt`).
+> **El corpus tenia el número d'article i l'enunciat curt de l'estadística; ara
+> en té el text.**
+
+**La primera cosa que en surt és que la frontera entre delicte i contravenció,
+per al patrimoni, és un preu.**
+
+| Fet | Delicte | Contravenció | La frontera |
+| --- | --- | --- | --- |
+| **Furt** | **art. 197** | **art. 481** | **600 €** |
+| **Danys** | art. 224 | **art. 484** | **600 €** |
+| **Estafa** | art. 211 | **art. 482** | **600 €** |
+
+> **Art. 197**: «Comet furt el qui, amb ànim de lucre i sense violència o
+> intimidació, pren una cosa moble aliena sense el consentiment del seu
+> propietari. **El culpable de furt per valor superior a 600 euros** ha de ser
+> castigat amb pena de presó fins a dos anys o d'arrest.»
+>
+> **Art. 481**: «Qui comet furt **d'un valor no superior a 600 euros** ha de ser
+> castigat amb pena d'arrest o multa fins al doble del valor de la cosa
+> furtada.»
+
+**El mateix fet, la mateixa definició, i el que decideix si és delicte o
+contravenció és quant valia la cosa.** **Això canvia com s'ha de llegir la
+caiguda de les contravencions patrimonials d'aquesta fitxa**: **el llindar és
+nominal i fix**, i **amb la inflació la mateixa cosa robada travessa la ratlla
+amb els anys sense que ningú hagi robat més.** `El corpus no quantifica quina
+part de la baixada és això: caldria el valor de cada furt, que la sèrie no
+dona.`
+
+**I el 481 té dos incisos que la xifra no deixa veure**: **agafar un cotxe aliè
+sense ànim d'apropiar-se'l val fins a 2.000 euros abans de ser delicte**, i **el
+«furt impropi» hi té paràgraf propi.**
+
+**La segona cosa és què separa els dos articles de droga.**
+
+> **Art. 499** *(contravenció, 759 denúncies el 2025)*: «El consum individual o
+> el cultiu, la introducció o la possessió **de cànnabis o una droga de
+> toxicitat similar** per al consum propi han de ser castigats amb pena d'arrest
+> i multa de 500 euros a 1.200 euros.»
+>
+> **Art. 284** *(delicte, 156 denúncies el 2025)*: «El consum, la introducció o
+> la possessió **de droga tòxica** per al consum propi s'ha de castigar amb pena
+> de presó fins a un any o d'arrest i pena de multa de 1.000 euros a 2.000
+> euros. **Quan el consum es faci en local públic** la pena ha de ser de presó
+> fins a dos anys…»
+
+**El que separa els dos no és la quantitat: és la substància** —**el cànnabis té
+article propi**— **i, dins del 284, el lloc**: **consumir en local públic
+dobla la pena.**
+
+**La tercera és el 268, que és el que més sorprèn de la taula.**
+
+> «El qui condueixi un vehicle […] **sota l'efecte de begudes alcohòliques**,
+> drogues o substàncies d'efectes anàlegs **o amb un grau d'alcoholèmia superior
+> a 0'8 g/l de sang**, ha de ser castigat amb pena de presó fins a un any o
+> d'arrest, i de privació del permís de conduir […] de fins a tres anys.»
+
+**L'estadística l'etiqueta «conducció sota l'efecte de drogues» i l'article
+inclou l'alcohol al mateix rang.** **Les 378 denúncies del 2025 no són
+necessàriament de droga**: **el mateix article cobreix els 0,8 g/l.** `El corpus
+no pot separar-les amb aquesta sèrie, i avisa que l'etiqueta de la taula és més
+estreta que l'article que nomena.`
+
+**I l'article 427**, amb 101 denúncies, **no és només resistir-se a una execució
+judicial**: **el seu punt 2 hi posa «l'incompliment reiterat de resolucions
+judicials referents a la guarda i custòdia de menors» i «la privació
+injustificada i reiterada del dret de visites»**. **Una part d'aquestes cent una
+denúncies són conflictes de custòdia.** `Quina part, la sèrie no ho separa.`
+
 ## Es resol més
 
 | Any | Denunciades | Resoltes | **Taxa** |
