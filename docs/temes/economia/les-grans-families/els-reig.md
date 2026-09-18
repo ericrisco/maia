@@ -131,7 +131,8 @@ vint anys, i part de la informació pot ser caduca.**
   corpus no l'havia creuat mai amb la seva mare.**
 - **Premsa Andorrana**: **què edita.**
 - **L'estructura real de propietat** de cadascuna de les societats citades.
-- **Les altres grans famílies.** **La font en documenta una; n'hi ha més, i el
+- ~~**Les altres grans famílies.**~~ **`parcial`: la font en documenta una; n'hi
+  ha més, i el corpus té
   corpus en té [els Perich](../../historia/antic-regim/la-nissaga-perich.md) per
   una altra via —la genealogia d'una casa— que no és aquesta.**
 

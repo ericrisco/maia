@@ -290,9 +290,9 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
    registrada.**
 4. **A quin any correspon «una de cada quatre persones més grans de 18 anys».**
    **Ve d'una obra del 2004 citada en un llibre del 2010 sobre un cens del 2007.**
-5. **La taula completa d'assalariats per sector del 2006**: **aquesta fitxa en
-   recull cinc línies de tretze.** `La resta és al llibre i es pot llegir quan
-   calgui.`
+5. ~~**La taula completa d'assalariats per sector del 2006**~~: **`parcial`: la
+   fitxa en recull cinc línies de tretze.** `La resta és al llibre i es pot
+   llegir quan calgui.`
 6. **El Cens Comunal d'Andorra del 2007**, com a font. **El corpus el cita per
    mitjà d'aquest llibre i no l'ha vist.**
 7. **Batalla, Casals i Micó**, *La immigració a Andorra* (2004) i *Anàlisi de la
