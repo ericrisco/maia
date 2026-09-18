@@ -262,8 +262,10 @@ feia alguna cosa:**
    [m'és estat forçat de prendre immobles](./mes-estat-forsat-de-pendre-inmobles.md).
    **Queda obert si aquesta preferència es va traduir en fets**: **la font
    descriu una tendència i no dona cap recompte d'execucions.**
-4. **El quadern del *nunci* de 1821-1823** —**segona tanda que el reclama**—, ara
-   amb tres assentaments identificats.
+4. ~~**El quadern del *nunci* de 1821-1823** —**segona tanda que el reclama**—, ara
+   amb tres assentaments identificats.~~ **`parcial`:** el corpus ja ha
+   identificat tres assentaments del quadern; encara falta consultar-ne el
+   conjunt i reconstruir la sèrie completa.
 5. ~~**La constitució de renda vitalícia inembargable** *(Pièces justificatives,
    p. XXXVIII)*~~ — **llegida el 24-09-2026**, i **la segona part del buit té
    resposta parcial: en aquella escriptura la inembargabilitat opera **com a
