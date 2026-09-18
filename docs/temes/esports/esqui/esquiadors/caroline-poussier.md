@@ -56,8 +56,8 @@ complet**, cosa que no passa amb cap altra dona andorrana d'aquells anys.
   no dona ni el segon cognom.** **L'únic que hi ha és la data: 13 de juliol del
   1976.**
 - **Si va seguir competint** després del 1994. — **`obert`, confirmat.**
-- **Copes del Món i campionats**: cap dada. — **`obert`, confirmat**: **el
-  bolcat és d'una línia.**
+- ~~**Copes del Món i campionats**: cap dada.~~ — **`no-es-buit`**: el bolcat
+  consultat només té una línia i no publica aquests resultats.
 
 ## Related
 

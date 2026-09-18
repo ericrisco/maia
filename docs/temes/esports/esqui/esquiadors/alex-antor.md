@@ -71,8 +71,8 @@ del país sencer, vista des de l'esport.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Alex_Antor.wiki`](../../../../raw/web/esport/alpins/Alex_Antor.wiki)).
 
-- **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat**:
-  **el bolcat és de dues línies.**
+- ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
+  el bolcat consultat només té dues línies i no publica aquests resultats.
 - **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, i **la meitat
   que es tanca ve de la base de dades de la
   [FIS](../../../../fonts/fis-ski-db.md), no de cap arxiu**: la seva fitxa

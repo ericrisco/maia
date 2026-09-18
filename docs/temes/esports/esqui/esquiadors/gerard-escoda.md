@@ -66,7 +66,8 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
 - **Per què el van desqualificar dues vegades** —el gegant del 88 i el súper-G
   del 92. — **`obert`, confirmat**: **el bolcat és d'una línia i no esmenta cap
   desqualificació.**
-- **Copes del Món i campionats del món**: cap dada. — **`obert`, confirmat.**
+- ~~**Copes del Món i campionats del món**: cap dada.~~ — **`no-es-buit`**:
+  el bolcat consultat no publica aquests resultats.
 - **Quan va plegar i què fa ara.** — **`parcial` el 17-09-2026**, amb la fitxa
   de la [FIS](../../../../fonts/fis-ski-db.md) **llegida dues vegades i
   coincident les dues**: **«not active»**, i **el darrer registre que hi consta

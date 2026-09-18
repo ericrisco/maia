@@ -65,8 +65,8 @@ donar-la per establerta.
   tenia**: **30a en súper-G** i **12a en COMBINADA.**
   **Un dotzè lloc olímpic és, de llarg, el millor resultat que el corpus
   documenta d'una esquiadora andorrana als Jocs.**
-- **Copa del Món, campionats del món, Copa d'Europa**: cap dada. — **`obert`,
-  confirmat**: **el bolcat no en té res.**
+- ~~**Copa del Món, campionats del món, Copa d'Europa**: cap dada.~~ —
+  **`no-es-buit`**: el bolcat consultat no publica cap d'aquestes dades.
 - ~~**Quan i com arriba a Andorra**, i des de quan hi competeix.~~ —
   **`parcial`: el «com» segueix obert i l'origen es tanca.** **Va néixer el 30
   d'octubre del 2000 a CÓRDOBA, ARGENTINA.** **És la primera esportista
