@@ -258,8 +258,9 @@ la transhumància.**
    i **què va passar amb els boscos.**
 8. **Si el bestiar s'assimilava als mobles a tots els efectes** o **només a les
    vendes judicials.**
-9. **La data del decret dels perits de finques rústiques: 1876 o 1896.** **La font
-   dona les dues** i **el corpus no pot decidir-ho des d'aquest llibre.**
+9. ~~**La data del decret dels perits de finques rústiques: 1876 o 1896.**~~ —
+   **`parcial` el 2026-09-18**: **la font dona les dues dates** i el corpus
+   registra la divergència, però **no la pot decidir des d'aquest llibre**.
    `Requereix font externa: el registre de decrets del Consell General.`
 
 ## Related
