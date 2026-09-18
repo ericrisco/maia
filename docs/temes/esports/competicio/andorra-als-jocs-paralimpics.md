@@ -141,10 +141,10 @@ participacions».**
 
 ## El que falta
 
-1. **Les biografies.** **De sis paralímpics, el corpus en té dos fitxats**:
-   [Xavier Barios](../esqui/esquiadors/xavier-barios.md) i
-   [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md). **Miguel
-   Llongueras, Paquita Ramírez, Antonio Sánchez i Roger Puig no en tenen cap.**
+1. ~~**Les biografies.**~~ — **`parcial` el 18-09-2026**: **de sis paralímpics,
+   el corpus en té dos fitxats**, [Xavier Barios](../esqui/esquiadors/xavier-barios.md)
+   i [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md); **Miguel
+   Llongueras, Paquita Ramírez, Antonio Sánchez i Roger Puig encara no en tenen**.
 2. **Les delegacions del 2016, 2020 i 2024**, que el registre d'estiu esmenta i
    cap pàgina no detalla.
 3. **Els Jocs del 2026**, que el registre llista i el bolcat no documenta.
