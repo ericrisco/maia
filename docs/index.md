@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1081** documents · **329** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1081** documents · **330** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1840,6 +1840,7 @@
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`fis-ski`](fonts/fis-ski.md) | International Ski and Snowboard Federation (FIS) | Tots els drets reservats. Sense llicència d'ús. Prohibició expressa de scraping. | False |
 | [`fis-ski-db`](fonts/fis-ski-db.md) | Fédération Internationale de Ski et de Snowboard (FIS) | Sense llicència oberta. El peu de pàgina declara «Copyright © FIS. All rights reserved.» | False |
+| [`fma-ad-qui-som`](fonts/fma-ad-qui-som.md) | Federació Motociclista d'Andorra (FMA) | publicació institucional, sense llicència declarada | pendent |
 | [`font-fenomens-socials-immigracio`](fonts/font-fenomens-socials-immigracio.md) | Agustí Font · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`frases-educadors-esportius`](fonts/frases-educadors-esportius.md) | Pere Frases i Homedes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`garcia-ensenyament-confessional`](fonts/garcia-ensenyament-confessional.md) | César García i Bernardo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

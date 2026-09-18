@@ -112,17 +112,26 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
 
 1. **Els catorze anys sense campió**: **1990-1995, 1999-2000 i 2003-2008.**
    `Requereix la FMA o l'hemeroteca del Diari d'Andorra.`
-2. **La Federació Motociclista d'Andorra (FMA)**: **quan es crea, quanta gent
-   hi ha federada, quines altres competicions organitza.** **Cap fitxa.**
-   **No surt a la llista de les vint-i-sis federacions del
-   [Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md) amb aquest
-   nom**, encara que sí que hi ha una «Federació andorrana motociclista» entre
-   les no olímpiques. `Probablement la mateixa; sense comprovar.`
+2. ~~**La Federació Motociclista d'Andorra (FMA)**: quan es crea, quanta gent
+   hi ha federada, quines altres competicions organitza. Cap fitxa.~~ —
+   **`parcial` el 18-09-2026**: **creada el 1985**, afiliada a la FIM el
+   1987, amb **sis presidents** (l'actual, Joan Patrick Lasmolles Pisanu) i
+   **set clubs** sota el seu paraigua. **Organitza, a més del trial** (26
+   Campionats del Món), **enducross, enduro sobre gel (Ice Gladiators, deu
+   edicions des del 2016), supermoto (tres Campionats del Món) i ha
+   organitzat el Mundial d'Enduro el 2011**
+   ([font](../../../fonts/fma-ad-qui-som.md)). **El nombre actual de
+   federats segueix sense constar.** Continua sense comprovar si és la
+   mateixa «Federació andorrana motociclista» que apareix entre les
+   federacions no olímpiques del
+   [Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md).
 3. **Els pilots.** **Deu noms i cap fitxa**: Santiago Llorens, Daniel Estragués,
    Xavier Casas, Albert Cabanes, Francesc Recio, Marcel Albós, Pere Martí,
    Oriol Pi, Jordi Lestang i Gaudí Vall.
-4. **Si el campionat és només de trial o si la FMA en té d'altres**
-   —velocitat, enduro, motocròs.
+4. ~~**Si el campionat és només de trial o si la FMA en té d'altres**
+   —velocitat, enduro, motocròs.~~ — **`resolt` el 18-09-2026, veure el
+   punt 2**: **enducross, enduro sobre gel i supermoto**, a més del trial —
+   **no consta velocitat ni motocròs.**
 5. **Si cap d'aquests pilots ha competit mai en un mundial de trial.**
 6. **La relació amb [Xavier Cardelús](./xavier-cardelus.md)** i
    **[Cyril Despres](./cyril-despres.md)**, els dos motociclistes que el corpus
