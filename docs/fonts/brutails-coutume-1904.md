@@ -126,7 +126,29 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
 
 ## Buits registrats
 
-1. **L'URL exacta** del volum digitalitzat.
+1. **L'URL exacta** del volum digitalitzat. — **`parcial` el 18-09-2026, i el
+   matís importa.** **L'exemplar que el corpus té ve d'una digitalització de
+   Google Books i el seu URL segueix sense constar.** **El que sí que hi ha ara
+   és una segona còpia verificada del mateix imprès**, **a Gallica**, la
+   biblioteca digital de la Biblioteca Nacional de França:
+   **`https://gallica.bnf.fr/ark:/12148/bpt6k57903147`**.
+
+   **La fitxa OAI del registre confirma que és aquesta edició i no una altra**:
+   *La coutume d'Andorre / par J.-A. Brutails*, **E. Leroux (París), 1904**,
+   **1 vol. (CLXVI-348 p.), in-8**, **538 vistes**, exemplar del **departament
+   de Dret, economia i política de la BnF, signatura 8-F-15670**.
+
+   **CLXVI pàgines de preliminars i 348 de text**, que **és exactament la
+   paginació que aquest corpus cita**.
+
+   **Serveix per a dues coses**: **comprovar qualsevol cita contra una còpia
+   estable i citable**, i **datar l'exemplar sense dependre de Google**.
+
+   `Trobat amb el SRU de Gallica —operation=searchRetrieve, query «coutume
+   d'Andorre»— i verificat amb services/OAIRecord. Els drets de reutilització
+   dels documents de Gallica són els de la BnF i no s'han comprovat: el corpus
+   en cita la localització, no n'ha baixat cap imatge. El que segueix obert és
+   l'URL de la digitalització de Google Books d'on surt el text del corpus.`
 2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
