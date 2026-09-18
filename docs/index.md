@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1012** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1013** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -322,6 +322,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [La revolta del tabac de 1733](temes/economia/tabac/la-revolta-del-tabac-de-1733.md) | `temes/economia/tabac` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
+| [Quant tabac es cull avui](temes/economia/tabac/quant-tabac-es-cull-avui.md) | `temes/economia/tabac` | compilada | contemporania | no | `estadistica-ad` |
 | [El tabac](temes/economia/tabac/tabac.md) | `temes/economia/tabac` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/economia/transformacio-economica
