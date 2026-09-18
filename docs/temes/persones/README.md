@@ -82,7 +82,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Albert Puigoriol i Lladó** | ***Andorra el meu país***, 1963: **primer manual escolar d'andorranitat** | **buit** |
 | **Pere Canturri (i Montanya)** | Citat sis cops al corpus; **cap fitxa** | **buit prioritari** |
 | **Antoni Morell i Mora** | Escriptor; coautor de *El Consell General (1682-1979)* | **buit** |
-| **Susanna Vela i Palomares** | Cap d'àrea de l'**Arxiu Nacional**; diplomatari del segle XV | **buit** |
+| **Susanna Vela i Palomares** | Cap de l'Arxiu Nacional (**1989-2009, 2012-2019**), exministra d'Educació i Cultura (**2009-2011**), consellera general (**2019-2023**) | [fitxa](./susanna-vela.md) |
 | **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit** |
 | **Joan Becat** | Geògraf (Univ. de Perpinyà). **La seva ponència més citada ja és llegida**: el diagnòstic migratori del 1989 | [el diagnòstic de 1989](../societat/immigracio/el-diagnostic-de-1989.md) · *la tesi en set volums segueix sense consultar* |
 | **Manuel Anglada i Ferran** | Lingüista. **La seva ponència del 1994 ja és llegida**: toponímia fòssil amb les formes documentades | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · *«Arrels d'Andorra» (1993) segueix sense consultar* |

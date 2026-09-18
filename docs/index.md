@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1059** documents · **286** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1060** documents · **287** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1294,6 +1294,7 @@
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Simeón de Guinda y Apeztegui](temes/persones/simeon-de-guinda.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-simeon-guinda` |
+| [Susanna Vela Palomares](temes/persones/susanna-vela.md) | `temes/persones` | compilada | contemporania | no | `consellgeneral-susanna-vela` |
 | [José Manuel «Txetxu» Bermudo Macho](temes/persones/txetxu-bermudo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
 | [Xavier Galera Ruz](temes/persones/xavier-galera.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2014` |
 
@@ -1759,6 +1760,7 @@
 | [`consell-general-seu`](fonts/consell-general-seu.md) | Consell General del Principat d'Andorra | Tots els drets reservats. L'avís legal diu que el lloc web i tots els seus continguts són propietat del Consell General i que la reutilitzacio d'alguns documents pot estar limitada per la Llei del 10 de juny del 1999 sobre drets d'autor i drets veïns. No s'hi declara cap llicència oberta. | no |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | condicions variables per document; identitat gràfica reservada | pendent |
 | [`consellgeneral-rousseau-jurament`](fonts/consellgeneral-rousseau-jurament.md) | Consell General del Principat d'Andorra | publicació institucional, sense llicència declarada | pendent |
+| [`consellgeneral-susanna-vela`](fonts/consellgeneral-susanna-vela.md) | Consell General del Principat d'Andorra | publicació institucional, sense llicència declarada | pendent |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-colectivismo-1898`](fonts/costa-colectivismo-1898.md) | Domini públic per antiguitat. Exemplar digitalitzat, còpia de la Biblioteca del Banco de España | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1898, autor mort el 1911. | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
