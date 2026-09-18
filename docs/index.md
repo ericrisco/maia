@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1040** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1041** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1420,6 +1420,7 @@
 | [L'impost contra l'especulació](temes/societat/habitatge/limpost-contra-lespeculacio.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Llogar un pis](temes/societat/habitatge/llogar-un-pis.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Tres-centes tretze, els dos anys](temes/societat/habitatge/tres-centes-tretze-els-dos-anys.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
+| [Un de cada tres el compra una societat](temes/societat/habitatge/un-de-cada-tres-el-compra-una-societat.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/immigracio
 
