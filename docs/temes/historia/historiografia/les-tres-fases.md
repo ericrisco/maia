@@ -269,7 +269,12 @@ sabia.**
   i les barreja**—, i **la prosa dels capítols 4, 6, 7, 8, 9 i 10**, si és que
   n'hi ha al PDF i l'OCR l'ha perduda. `Requereix el PDF, no el text extret:`
   [`raw/academic/historiografia/`](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.pdf).
-- **Albert Villaró**: **qui és.** **El corpus no en té fitxa.**
+- ~~**Albert Villaró**: **qui és.** **El corpus no en té fitxa.**~~ —
+  **`resolt` el 18-09-2026**: **ara en té**, a
+  [persones/albert-villaró](../../persones/albert-villaro.md) —
+  historiador i novel·lista, nascut el 1964 a la Seu d'Urgell, director
+  d'Arxius del comú d'Andorra la Vella i avui coordinador d'història a
+  Andorra Recerca + Innovació ([font](../../../fonts/wikipedia-ca-albert-villaro.md)).
 - **El CEHiP**: **què ha fet des del 2018.**
 - **Roland Viader** i **Olivier Codina**.
 - **Els diplomataris**, tots.

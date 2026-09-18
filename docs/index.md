@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **273** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1050** documents · **274** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1269,6 +1269,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
+| [Albert Villaró i Boix](temes/persones/albert-villaro.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-albert-villaro` |
 | [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1923,6 +1924,7 @@
 | [`wikipedia-art-andorra`](fonts/wikipedia-art-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-atletes-andorrans`](fonts/wikipedia-atletes-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ball-ossa-encamp`](fonts/wikipedia-ball-ossa-encamp.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-albert-villaro`](fonts/wikipedia-ca-albert-villaro.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
