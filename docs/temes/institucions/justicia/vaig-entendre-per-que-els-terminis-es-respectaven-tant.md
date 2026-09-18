@@ -326,9 +326,35 @@ d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
 5. **El decret del Consell General del 8 d'abril de 1892** sobre les despeses
    d'execució, **i el del 29 de maig de 1786** sobre el pagament dels jutges
    absents.
-6. **El *Politar*, pp. 188 i 190**, **on es prohibeixen els drets alts i s'admet
-   el principi proporcional.** **Setzena i dissetena citació del *Politar* sense
-   llegir.**
+6. ~~**El *Politar*, pp. 188 i 190**, **on es prohibeixen els drets alts i
+   s'admet el principi proporcional.**~~ — **`resolt` el 18-09-2026, i el
+   principi proporcional és el primer article de l'aranzel.**
+
+   **L'aranzel del Jutge s'obre amb una capçalera que ja diu com havia de
+   funcionar**: **«ARANSEL QUE SE DEU OBCERVAR Y GUARDAR EN LA PERCEPCIO DE
+   SALARIS EN LA JUDICATURA DE LES VALLS DE ANDORRA, LOQUAL ***SE COPIARA Y SE
+   POSARA EN UNA TAULA PUBLICA EN LA CURIA O ESCRIVANIA***»**. **L'aranzel no és
+   un document intern: ha d'estar penjat on es paga.**
+
+   **I l'article primer és proporcional i sense sostre:**
+
+   > «Primo. **Lograran o percibiran 2 s. per lliura los Jutges de Andorra**, tan
+   > per les centencies civils proferides en acte de Corts com fora de ellas,
+   > **de la quantitat que demane lo actor demanant o valor de la cosa que se
+   > disputa**, **a qualsevol suma que esta pugue pujar**; ayxi se ha sempre
+   > estilat y practicat.»
+
+   **Un deu per cent del que es litiga, sense límit superior.** **I la p. 188
+   dona el context que ho fa intel·ligible**: **el Jutge «non te ningun [salari]
+   de publico»**. **No cobra de l'erari: cobra del plet.** **Aquest article és
+   alhora el «principi proporcional» i la raó per la qual el corpus troba, dues
+   pàgines més enllà, la prohibició dels drets alts.**
+
+   > **I el tracte que hi va al davant**: **al Jutge se li deu, en tot paper
+   > judicial i extrajudicial, «lo titol y tracte de ***Magnifich Senyor***»** i,
+   > dins del text, **«Vostra Magnificència»** —**«per ocupar un puesto de molta
+   > dignitat y alta esfera, poch inferior a la dignitat o esfera dels
+   > Veguers»**.
 7. **Si els *pobres de solemnitat* van estar mai exempts de costes a Andorra.**
    **La font els nomena i diu que paguen.**
 8. **Les *Constitucions*, VII, vi, 1 i 2, pp. 413-414**, que la font invoca per a

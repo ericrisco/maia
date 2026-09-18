@@ -289,7 +289,32 @@ el corpus no ho ha comprovat lexicogràficament.»**
 9. **Si el document de 1623 val com a prova que la doctrina de la suspensió dels
    tribunals inferiors és més antiga del que la font diu.** **El corpus registra
    la tensió i no la resol.**
-10. **El *Politar*, pp. 172 i 185.**
+10. **El *Politar*, p. 172.** — **La p. 185, `resolta` el 18-09-2026, i dona el
+    rellotge de les causes en temps de Corts.**
+
+    **La regla és de tres dies, i el motiu va escrit en llatí dins de cada
+    concessió de termini:**
+
+    > «dona o concedeyx aquest, (introduida la causa devant la Cort), **lo termini
+    > de tres dias a las parts pera probar** y **sempre ab expressio de la
+    > causal: *Quia Curiæ apertæ sunt et non patiuntur dilationem***. Expirat
+    > aquest, **done altre o dos altres terminis o dilacions iguals al primer** y
+    > **passa a declarar**.»
+
+    **Tres dies, prorrogables una o dues vegades pel mateix termini, i prou.**
+    **La raó que s'hi al·lega no és processal sinó econòmica**: **«per los molts
+    gastos causan e importan las Corts»**, les causes s'han d'acabar «ab la major
+    brevedat».
+
+    **I el còmput té dues exclusions expresses**: **«no s' conten en los 3 dias
+    ni lo dia en que se concedeix o fa dilacio, ni los dias feriats»**. **El
+    Politar hi afegeix la seva pròpia garantia**: **«Y asso es lo que sempre he
+    vist obcervar.»**
+
+    **La mateixa pàgina registra que «regularment las proceduras en les Valls se
+    acostumen fer o concebirlas en lleti»**, i **que el Jutge concep i firma la
+    sentència però la porta a firmar als Veguers**, signant-la ell **«com a
+    assessor o consulent»** amb el seu *vidit*.
 
 ## Related
 
