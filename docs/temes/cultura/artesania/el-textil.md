@@ -95,9 +95,11 @@ d'importació** més barats i la **pujada del preu de la matèria primera durant
 Segona Guerra Mundial**.
 
 **Referència comparativa que dona Mas:** era «**probablement un establiment
-similar al que encara es conserva a Arsèguel**» —a l'Alt Urgell—, cosa que dona
-una via material per saber com era: **anar a veure el d'Arsèguel**. **Buit
-registrat i tancable.**
+similar al que encara es conserva a Arsèguel**» —a l’Alt Urgell—. El referent ja
+queda identificat: el [Museu de la Llana d’Arsèguel](../../../fonts/ara-lleida-ruta-oficis-ahir-1999.md)
+conserva màquines en funcionament, peces centenàries i un batà del segle XVII;
+la font el presenta com una de les fàbriques de llana més antigues de Catalunya.
+És una comparació material útil, però no identifica la fàbrica andorrana.
 
 El detall del **drap gairebé impermeable** és el tipus de dada que val doble per
 a un corpus de llengua: **és un producte amb nom, propietat i ús**, i per tant
@@ -158,8 +160,11 @@ motiu, no xifres.`
    amb document a l'arxiu parroquial, **i deixa la discrepància escrita**.
 2. **Per què Sant Pere Màrtir** com a patró.
 3. **Quants** paraires i teixidors hi havia, i a quines cases.
-4. La **fàbrica de mantes**: nom, propietaris, on era exactament, si en queda
-   edifici o maquinària.
+4. ~~La **fàbrica de mantes**: el referent comparatiu d’Arsèguel~~ — **`parcial`
+   el 18-09-2026**: [*Ara Lleida* núm. 17 (1999), p. 59](../../../fonts/ara-lleida-ruta-oficis-ahir-1999.md)
+   identifica el Museu de la Llana d’Arsèguel, les màquines en funcionament, les
+   peces centenàries i un batà del segle XVII. **Segueixen oberts** el nom, els
+   propietaris, l’emplaçament exacte i la maquinària de la fàbrica d’Escaldes.
 5. El **lèxic de l'ofici** —*paraire*, *batan*, *tondre*, *peuc*, *drap*— contra
    el *Vocabulari d'Andorra* (Badia, Ganyet i Pérez, 1992). **Font prioritària
    encara no consultada.**
