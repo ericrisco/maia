@@ -22,6 +22,11 @@ La notícia institucional del 25 de maig de 2023 descriu els **28 escons de
 la IX legislatura**; aquest recompte no és el màxim constitucional.
 ([Notícia, primer paràgraf](../../../raw/consell-general/composicio-ix-legislatura.txt).)
 
+La pàgina actual de composició del Consell General confirma els **28 escons** i
+publica la llista nominal vigent, amb **Carles Ensenyat Reig** com a síndic i
+**Sandra Codina Tort** com a subsíndica
+([fitxa de font](../../../fonts/consell-general-composicio-actual-2026.md)).
+
 El Consell representa el poble andorrà, legisla, aprova els pressupostos
 estatals i impulsa i controla l'acció política del Govern.
 ([Constitució, article 50, BOPA p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
@@ -104,8 +109,10 @@ permeten afirmar que mai se l'anomeni president en altres usos.
   [BOPA núm. 24, p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf),
   text i imatge contrastats. No tota la Constitució original llegida;
   els articles 59–61 continuen sense contrast íntegre amb aquest PDF.
-- Els 28 escons es documenten amb una notícia de 2023; no s'ha auditat la
-  composició nominal de 2026 ni el procediment de les dues votacions electorals.
+- ~~Els 28 escons es documenten amb una notícia de 2023; no s'ha auditat la
+  composició nominal de 2026 ni el procediment de les dues votacions electorals.~~ —
+  **`parcial` el 22-09-2026**: la pàgina institucional actual confirma els 28
+  escons i publica la composició nominal vigent ([fitxa de font](../../../fonts/consell-general-composicio-actual-2026.md)). **El procediment de les dues votacions electorals continua pendent d'una font electoral específica.**
 - No s'ha comprovat la retransmissió televisiva de totes les sessions ni
   la fidelitat lingüística del Diari respecte a l'àudio. Retirades les
   afirmacions absolutes sobre aquests punts i sobre l'exclusivitat del lèxic
