@@ -204,22 +204,19 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
 
 ## Buits registrats
 
-1. **Si hi ha mesquita o sala d'oració musulmana a Andorra.** **Prioritari**, i
+1. ~~**Si hi ha mesquita o sala d'oració musulmana a Andorra.** **Prioritari**, i
    **ara se sap on mirar**: des del 2025, el **Registre d'entitats religioses** ha
    de fer constar «**el lloc o llocs de culte al Principat**» de cada entitat
    inscrita, i és públic. **I ara se sap també que se n'havia demanat una i que
-   el Govern hi va dir que no, reiteradament.**
-
-   **Provat el 2026-09-18: el registre no es pot consultar des del teclat,
-   i no és una suposició.** El **30 de març del 2026**, la presidenta del Grup
-   Parlamentari Socialdemòcrata, **Susanna Vela**, va haver d'entrar una
-   **pregunta escrita al Govern** demanant «la relació d'entitats inscrites»
-   perquè ni ella, com a consellera general, no hi tenia accés directe
-   ([font](../../../fonts/bondia-vela-registre-religioses-2026.md)). **Si una
-   consellera general necessita una pregunta parlamentària per veure-la, el
-   registre no és consultable en línia pel públic** encara que la llei el
-   digui públic. `Requereix font externa: la resposta del Govern a la
-   pregunta de Vela, que no s'ha localitzat.` `font_externa`
+   el Govern hi va dir que no, reiteradament.**~~ — **`parcial` el 2026-09-18.**
+   L'**informe oficial del registre 1401** confirma que el Govern va trametre la
+   informació demanada per Susanna Vela el **4 de maig del 2026** ([informe
+   local](../../../raw/web/costums/registre-publicacio-1401-2026.pdf)). La còpia
+   pública associada que es pot descarregar és la demanda signada, no el
+   contingut de la resposta ([demanda local](../../../raw/web/costums/demanda-registre-entitats-religioses-2026.pdf)).
+   Per tant, queda tancat l'estat de la sol·licitud i el fet que la resposta no
+   és exposada al registre públic, però **encara no es pot afirmar si hi ha
+   mesquita o sala d'oració**.
 2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
 3. **Xifres oficials de confessions.** Les dues que hi ha són estimacions de
    premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució
