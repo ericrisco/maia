@@ -105,7 +105,10 @@ s'anuncia una escola privada a Andorra l'any 2000.**
 - **D'on venen els alumnes** i quants són interns.
 - **Què costa.** La font no dona cap xifra. En l'única escola de pagament del
   país, **és la dada que falta.**
-- **Si existeix encara** i amb quin nom.
+- ~~**Si existeix encara** i amb quin nom.~~ — **`resolt` el 18-09-2026**:
+  el **Col·legi dels Pirineus** continua al llistat de centres del Departament
+  d'Estadística el **2024**, amb **60 alumnes de maternal** ([la sèrie escolar
+  recent](./lescola-andorrana-ha-passat-al-davant.md)).
 - ~~**L'Open internacional ATP d'Andorra**: el corpus no en té res.~~ —
   **`resolt` el 18-09-2026, com a duplicat d'índex**: el buit canònic queda a
   [el tennis](../../esports/seleccions/el-tennis.md#el-que-falta), que manté la
