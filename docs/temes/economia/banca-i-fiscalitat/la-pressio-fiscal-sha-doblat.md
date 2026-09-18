@@ -56,9 +56,10 @@ punts** —24,7 → 28,4.
 salta a 2,0** i **d'allà no para**.
 
 **El país que no tenia impostos directes en té avui més que indirectes.**
-`El corpus té la xifra i no té la cronologia normativa que hi ha al darrere; la
-part que sí que té és a [els tipus impositius](./els-tipus-impositius.md) i a
-[els altres impostos](./els-altres-impostos.md).`
+**La cronologia normativa que hi ha al darrere és a
+[la cronologia normativa del salt](#la-cronologia-normativa-del-salt)**, i els
+tipus, a [els tipus impositius](./els-tipus-impositius.md) i a
+[els altres impostos](./els-altres-impostos.md).
 
 ## Què fa l'Estat amb els diners
 
