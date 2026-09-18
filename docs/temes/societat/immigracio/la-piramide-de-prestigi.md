@@ -317,9 +317,29 @@ en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
    Editors, **2004**). **Prioritari.**
 2. **Els informes del Consell d'Europa** (ECRI) sobre Andorra. La font en cita
    el **tercer, del 2008**, amb URL.
-3. **Si la posició de la comunitat marroquina ha canviat** entre el 1997 de
-   Raguig i el 2021. **I si la quota per origen es va mantenir després del 1997**:
-   la sèrie documentada s'acaba aquell any.
+3. ~~**Si la posició de la comunitat marroquina ha canviat** entre el 1997 de
+   Raguig i el 2021.~~ — **`parcial` el 18-09-2026, amb la sèrie de població per
+   nacionalitat de l'API d'Estadística** (`docs/raw/estadistica-api/`, CC BY
+   4.0). **En nombre gairebé no s'ha mogut, i en posició ha baixat:**
+
+   | | 2010 | 2020 | 2025 |
+   | --- | ---: | ---: | ---: |
+   | **Marroquins** | **394** | **403** | **455** |
+   | % del país | 0,56% | 0,52% | 0,51% |
+   | Lloc entre les nacionalitats amb nom propi | **7è** | 9è | **10è** |
+
+   **Quinze anys i seixanta-una persones més**, **mentre el país en guanya
+   18.768.** **Creix un 15,5% quan el país creix un 26,7%**: **no minva, però
+   perd pes i perd tres llocs.**
+
+   **I el que l'ha desplaçada del rànquing és una altra cosa**: **els argentins
+   passen de 602 a 3.291** —**×5,5**— **i els xilens de 181 a 479.** **El 2010
+   hi havia menys argentins que marroquins; el 2025 n'hi ha set vegades més**
+   ([la immigració llatinoamericana](./la-immigracio-llatinoamericana.md)).
+
+   `Si la quota per origen es va mantenir després del 1997, segueix obert: la
+   sèrie documentada s'acaba aquell any i la sèrie de població no diu res de
+   quotes.`
 4. **Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.
 5. **D'on ve «pota negra»** i des de quan es diu.
 6. **Quantes candidatures amb cognoms no andorrans**, amb xifres.
