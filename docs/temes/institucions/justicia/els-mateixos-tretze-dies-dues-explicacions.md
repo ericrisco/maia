@@ -254,10 +254,13 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
 
 ## Buits registrats
 
-1. **El text que fixa el termini d'apel·lació**, per decidir entre les dues
+1. ~~**El text que fixa el termini d'apel·lació**, per decidir entre les dues
    explicacions dels tretze dies. **Prioritari**, i **és el mateix buit que**
    [deu dies de dret i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md)
-   **ja tenia obert.**
+   **ja tenia obert.**~~ — **`resolt` el 18-09-2026 com a duplicat d'índex**:
+   el buit canònic i la cerca de la peça jurídica continuen a [deu dies de dret
+   i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md); aquí només queda
+   documentada la mateixa divergència aplicada al tercer grau.
 2. **L'article de Ch. Romeu a *Le Tour du Monde*, 1897.** **No és al corpus.**
    **Prioritari**: **és una font del 1897 escrita pel veguer francès en
    exercici**, i **una de les que Vilar fa servir.**
