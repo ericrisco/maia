@@ -57,13 +57,15 @@ declarava com a buit prioritari **qui era el bisbe que va trencar relacions amb
 Andorra cap al 1874 i quan exactament**, i **quant va durar la paràlisi**. El
 corpus l'havia acotada a **1874-1877** per Brutails.
 
-**Aquesta font hi afegeix el mecanisme i no el nom.** Diu que **«empezó esta
+**Aquesta font hi afegeix el mecanisme.** Diu que **«empezó esta
 tenaz campaña el antecesor de V. E. I.»** *(p. 24)* — és a dir **el predecessor
 de Casañas** — **i no el nomena en aquest passatge.**
 
-> **El corpus no el converteix en nom.** **El mateix escrit nomena Josep Caixal i
-> Estradé en altres afers**, **i això no és una identificació.** `Queda com a buit,
-> i ara amb la formulació exacta de la font.`
+~~El corpus no el converteix en nom.~~ — **`resolt` el 18-09-2026, a
+l'altra fitxa**: [té raó el més fort o el més avisat](../../institucions/justicia/te-rao-el-mes-fort-o-el-mes-avisat.md)
+ho identifica per tres vies independents —la llista episcopal, «el
+predecessor de Casañas» i André Vilar anomenant-lo directament— com a
+**Josep Caixal i Estradé.**
 
 **I dona la conseqüència diplomàtica:** aquella intervenció francesa **«irritó
 extraordinariamente al Sr. Obispo»**, i **des de llavors al cúmul de prevencions
