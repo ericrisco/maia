@@ -297,9 +297,39 @@ manera:**
    altra vegada al costat comtal.**
 4. **El manuscrit del senyor Palmitjavila** —**quarta tanda seguida**— i **el
    registre del segle XVI** amb el procés de pastura arbitrat pel Consell.
-5. **El *Politar*, pp. 243-244 i 251-252**, i **l'*Instructa* als batlles, pièce
-   justificative p. L** —**cinquena citació d'aquesta *Instructa* i encara no
-   llegida.** **Prioritari per acumulació.**
+5. **L'*Instructa* als batlles, pièce justificative p. L.** — **Les pp. 243-244
+   i 251-252 del *Politar*, `resoltes` el 18-09-2026.**
+
+   **P. 243 — els tribunals del Consell són dues escales, no una llista.**
+   **Les tres sales del Consell General** —**4 vehedors, 6 de Concell, 24 de
+   Concell**— **per a les causes que hi comencen**, i **l'escala que puja des de
+   baix** —**quart → Consell de parròquia → els 6 → els 12 → els 24**—, **amb la
+   regla que qui ha votat en primera i segona instància «no son admesos per
+   votarla en la tercera, ans be son repellits per los que restan»**
+   ([si dos consellers són parents](./si-dos-consellers-son-parents-desapareix-una-instancia.md)).
+
+   **P. 244 — el *cot*, i qui el va concedir.** **El Politar atribueix la facultat
+   d'imposar-lo a una concessió del bisbe D. Francisco de Urries**, i **en dona
+   les tres menes territorials** —**cot de la Terra, cot de la parròquia, cot del
+   quart**— **més el *cot de fallits***, que castiga no comparèixer a una manobra
+   o a una missa manada. **I hi posa un avís als consells inferiors**: no
+   immiscir-se en causes que no siguin expressament de la seva competència,
+   **«despreciantlas si son dubias, o consultar»**, perquè altrament **«podrian
+   ser rigurosament castigats ***com a usurpadors de regalias***».**
+
+   **P. 251 — i aquí hi ha una cosa que aquesta fitxa no buscava i que val:
+   l'aranzel havia d'estar penjat a cada parròquia.** **El Politar recomana que
+   el Consell ordeni al seu llibre d'ordinacions «un arancel o taula» de les
+   coses que cònsols i consellers han de practicar com a delegats seus**, **que
+   el secretari en tregui sis còpies, una per parròquia**, i que **els cònsols
+   «les posen en una tauleta publicament en les cases del Concell, demanant copia
+   quant se borrien o esquinsien»**, **«afi de que tingan una perenne memoria de
+   lo que se deu executar»**.
+
+   > **Sis còpies i una per parròquia: el Politar està descrivint, el 1763, com
+   > es publica una norma en un país sense impremta.** **I en dona el motiu amb
+   > les seves paraules**: **«prevenint los danys que de estas omissions han
+   > patit, pateyxen y patiran les Valls, y molts irremediables».**
 6. **Els documents de 1547, 1601, 1603, 1760, 1875, 1887 i 1888** sencers.
 7. **Com es concilia que un tribunal pugui imposar i indemnitzar una servitud
    però no pugui declarar la propietat ni concedir danys.** **La font ho constata

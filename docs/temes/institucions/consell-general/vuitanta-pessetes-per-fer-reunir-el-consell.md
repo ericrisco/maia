@@ -262,9 +262,31 @@ reprodueix el vocabulari de la llei, no el seu.**
 Santa Eulàlia.** **El 1599 la d'Andorra es reunia a la Casa de la Vall** — **que
 és la casa del Consell General, feta servir com a casa de la parròquia.**
 
-**Brutails remet, per a aquest punt, al *Politar*, p. 240** — **una pàgina de
-l'obra que el corpus té reproduïda a la mateixa peça justificativa**
-([el Politar andorrà](../../historia/manual-digest/el-politar.md)).
+**Brutails remet, per a aquest punt, al *Politar*, p. 240**, i **el 18-09-2026
+s'ha llegit** ([el Politar andorrà](../../historia/manual-digest/el-politar.md)).
+**Diu tres coses que valen per a aquesta fitxa.**
+
+**Primera, els noms.** **«Ayxi com antigament en Roma lo Concell General y
+principal se solia anomenar Senat, y sos Conciliaris y Priors Consols, ayxi en
+les Valls de Andorra lo Concell General o principal de ellas se sol anomenar
+***Concell de la Terra, Concell de la Vall, Concell de 24***, y sos Conciliaris o
+prohomens, ***Consols y Consellers***.»**
+
+**Segona, com es convocava abans.** **«Se solia congregar antigament lodit
+Concell ***per caps de casa***, de manera que **tots tenian obligacio de acistir
+bayx certa pena**; consta de varios escrits.»** **No era un dret d'assistir: era
+un deure sancionat.**
+
+**Tercera, i és la que fa entendre el porxo.** **«No tenia lloch ni certa casa
+haon juntarse; per lo que ***regularment se juntaba devant del portico de alguna
+iglesia***, ayxi com los demes Concells.»** **El porxo no era una tria simbòlica:
+era el que hi havia.**
+
+> **I la frase que dona la mesura de la independència de la institució**: el
+> Consell **«pot juntarse y efectivament se junta ***sens precehir mandato ni ser
+> necessaria asistencia de Veguers, Battles ni altres ministres dels Princeps***,
+> **per especial privilegi, contra la disposicio del dret comu**»**. **El dret
+> comú demanava llicència per reunir una multitud; a Andorra, no.**
 
 ## La rotació dels cònsols
 
