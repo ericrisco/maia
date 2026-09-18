@@ -27,7 +27,9 @@ I això és tot el que aquesta recerca ha pogut documentar.
 
 - El **repertori tradicional**: quines cançons, qui les canta, en quines ocasions.
 - Les **cobles** i els músics.
-- L'himne nacional, *El Gran Carlemany*, que no té fitxa enlloc del corpus.
+- ~~L'himne nacional, *El Gran Carlemany*, que no té fitxa enlloc del corpus.~~ —
+  **`resolt` el 18-09-2026**: [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md)
+  ja té fitxa pròpia amb autors, adopció i oficialització.
 - Els **esbarts** i les corals.
 - La música contemporània andorrana.
 - Les **cançons infantils**, que van amb
