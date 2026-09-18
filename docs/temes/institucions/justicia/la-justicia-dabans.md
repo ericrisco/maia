@@ -236,9 +236,11 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    **La nota remet a Brutails**, *La coutume d'Andorre*, **pp. 247-250** de
    l'edició de Casal i Vall del 1965 — **i el corpus té Brutails sencer**, de
    manera que aquesta via es pot aprofundir sense demanar res.
-3. **El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament, quan
-   s'extingeix. — **`parcial` des del 15-09-2026: la creació sí, l'extinció
-   no.** **Creat per decret del 13 de juliol del 1888**, publicat al *Journal
+3. ~~**El Tribunal Superior d'Andorra a Perpinyà** — quan es crea exactament,
+   quan s'extingeix.~~ — **`resolt` el 18-09-2026: les dues dates hi són, amb
+   la norma al davant cada vegada.** **Del 13 de juliol del 1888 al 31 de
+   desembre del 1993, cent cinc anys.** **Va ser `parcial` des del 15-09-2026,
+   quan només se'n tenia la creació.** **Creat per decret del 13 de juliol del 1888**, publicat al *Journal
    Officiel* del **20 de juliol del 1888**, i **la seva organització modificada
    per un segon decret del 19 de gener del 1898**, al *JO* del **22 de gener del
    1898**
@@ -279,8 +281,10 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    del dret ara unificada»**. **El que s'acaba el 1993 no és un tribunal: és
    tenir-ne dos que no es parlaven.**
 
-   `Segueixen oberts els textos dels dos decrets francesos, del 1888 i del
-   1898.`
+   `El que queda no és aquesta pregunta sinó una altra, i és de permís: els
+   textos dels dos decrets francesos, del 1888 i del 1898, viuen al Journal
+   Officiel i el corpus no els té. És una de les peticions escrites que
+   esperen enviament.`
 4. **Casos concrets** jutjats sense advocat. **Hi ha memòria viva d'això.**
 5. **Les presons** andorranes d'aquell període. — **`parcial` des del
    15-09-2026: una, amb data.** Un acte de manlleuta del **12 d'octubre del

@@ -190,9 +190,11 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
 
 > **Auditats contra la resta del corpus el 2026-09-13.**
 
-1. **La Llei general de sanitat de 1989**, articles 7 i 8, **i si es va
-   reglamentar mai**. **Prioritari.** — **`parcial` el 17-09-2026, i el que no
-   es tanca té un motiu concret.** **La Llei General de Sanitat és al
+1. ~~**La Llei general de sanitat de 1989**, articles 7 i 8, **i si es va
+   reglamentar mai**. **Prioritari.**~~ — **`resolt` el 18-09-2026, les tres
+   parts**: **la llei**, **els dos articles sencers** i **la resposta sobre el
+   reglament, que és que no n'hi ha cap de propi i que la llei no en mana
+   cap.** **Va ser `parcial` el 17-09-2026, quan encara faltava l'última.** **La Llei General de Sanitat és al
    [BOPA](../../../fonts/bopa.md)**, butlletí **6 del 1989**, del 9 d'abril
    (`docs/raw/lleis/bopa/llei-1989-general-de-sanitat.txt`), **aprovada pel
    Consell General en la sessió tradicional de Setmana Santa del 20 de març del

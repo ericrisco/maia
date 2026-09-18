@@ -282,8 +282,9 @@ un mestre de noys y un de noyes en cada paroquia.»**
 3. **En què consistien les «facilitats» de naturalització** per al cap de casa
    estranger.
 4. **Quan es va passar del vot per casa al vot per persona**, i amb quina norma.
-5. **Quan es va deixar de votar de viva veu.** — **`parcial` el 17-09-2026, i
-   la data és molt més tardana del que semblava.** El que el
+5. ~~**Quan es va deixar de votar de viva veu.**~~ — **`resolt` el 18-09-2026,
+   i són dues dates perquè eren dues coses.** **La data és molt més tardana
+   del que semblava.** El que el
    [BOPA](../../../fonts/bopa.md) documenta **no és el vot oral sinó la
    identificació oral de l'elector**, i **es deroga el 10 d'octubre de 1989**,
    per una llei dels **Delegats Permanents dels Coprínceps** signada a la Seu
@@ -303,10 +304,29 @@ un mestre de noys y un de noyes en cada paroquia.»**
    conseqüència pràctica d'aquest article**, i el corpus els té localitzats al
    BOPA.
 
-   **El que segueix obert és el vot oral pròpiament dit**: `Requereix el text
-   del paràgraf 5 sencer de la Reforma del 1866 per saber si el vot també era
-   de viva veu o només la identificació.` **És el buit 1 d'aquesta mateixa
-   llista.**
+   **I el vot oral pròpiament dit també té resposta, perquè el text de la
+   Reforma ja era al corpus.** **L'article 5è del 1866 cobreix les dues coses
+   alhora**: «**Los electors farán constar devant la presidencia per escrit o
+   de paraula quí son y per quí voten**»
+   ([el text, article per article](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+   **Ni la identitat ni el sentit del vot no eren secrets, i totes dues es
+   podien dir en veu alta.**
+
+   **La llei del 1989 només va tancar la primera meitat.** **La segona la tanca
+   la Constitució**, que fa el sufragi «universal, lliure, igual, directe i
+   **secret**», i **la Llei qualificada del règim electoral i del referèndum
+   del 3 de setembre del 1993**, que hi posa el mecanisme
+   (`docs/raw/lleis/bopa/llei-qualificada-regim-electoral-1993.txt`): l'elector
+   «**es retirarà obligatòriament a una de les cabines aïlladores i, allí,
+   completament sol i sense ésser vist per ningú, hi ficarà la papereta**», i
+   **atemptar contra el secret del vot passa a ser delicte, amb pena de presó
+   de fins a un any** (article 52).
+
+   `Queda una peça intermèdia que el corpus no té i que podria avançar la data:
+   la mateixa llei del 1993 diu que «se substitueix i es deroga la Llei
+   Electoral, adoptada pel Consell General de les Valls l'any 1987». És
+   anterior al BOPA, que comença el 1989, i per tant no és a la via que el
+   corpus té oberta: és material de l'arxiu del Consell General.`
 6. **Si les parròquies tenien mestre i mestra el 1899**, i quantes.
 7. **La *gambeto***: si se'n conserva cap, i des de quan es fa servir.
 
