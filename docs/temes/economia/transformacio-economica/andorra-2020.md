@@ -264,6 +264,78 @@ conclusió**, perquè entre 2.880 i el doble hi ha 2.900 milions de diferència.
 2019 surten del mateix gràfic, de la mateixa metodologia i de la mateixa
 revisió de la sèrie.
 
+### La sèrie publicada, i la mesura en píxels tenia raó
+
+**18-09-2026.** **La sèrie sencera 2000-2025 és una taula de l'API**
+(`docs/raw/estadistica-api/pib/`, divisió **605**), **nominal i real**. **Ja no
+cal mesurar cap barra.**
+
+| Any mesurat en píxels | Estimació del corpus | **Xifra publicada** | Error |
+| --- | ---: | ---: | ---: |
+| **2007** | **≈ 2.880** | **2.887,77** | **−0,3%** |
+| 2013 | ≈ 2.430 | 2.404,54 | +1,1% |
+| 2014 | 2.490 | 2.462,69 | +1,1% |
+| 2015 | 2.530 | 2.514,51 | +0,6% |
+
+**La lectura del gràfic era bona i la conclusió es manté sencera.** `El mètode
+—renderitzar la pàgina a 400 ppp, mesurar les alçades i calibrar amb els anys
+publicats en taula— ha donat un error màxim de l'1,1% en quatre punts
+comprovats. Val la pena deixar-ho escrit: el corpus el tornarà a necessitar per
+a fonts que només publiquen gràfics.`
+
+**I la sèrie sencera diu una cosa que la del 2019 no podia dir**:
+
+| Any | PIB nominal | PIB real |
+| --- | ---: | ---: |
+| 2000 | 1.551,09 | 1.991,66 |
+| **2007** | **2.887,77** | **2.968,42** |
+| **2013** | 2.404,54 | **2.384,94** |
+| 2019 | 2.818,42 | 2.674,46 |
+| **2020** | **2.531,09** | **2.375,35** |
+| 2022 | 3.210,31 | 2.818,21 |
+| **2024** | 3.736,44 | **3.002,30** |
+| **2025** | **3.983,23** | **3.118,43** |
+
+**En termes reals** —descomptant els preus— **el PIB andorrà cau un 19,7% del
+2007 al 2013** i **no torna a superar el nivell del 2007 fins al 2024**:
+**disset anys.** **El 2020 encara era un 20,0% per sota del 2007.**
+
+**El pla es proposava doblar el PIB abans del 2020.** **En termes reals, el
+2025 —cinc anys després del termini— el PIB és un 56,6% més gran que el del
+2000**, no el doble. `En nominal la xifra és més amable —×2,57 des del 2000—
+però el nominal inclou la inflació, que en aquest mateix període ha estat del
++73,4% ([els preus](../comerc/el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md)).`
+
+### Quin sector va caure
+
+**Valor afegit brut nominal, en milions d'euros:**
+
+| Sector | 2000 | Màxim antic | 2014 | 2020 | **2024** |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **Construcció** | 152,86 | **324,40 (2006)** | **128,86** | 193,20 | **309,83** |
+| **Financeres i asseguradores** | 349,30 | **549,02 (2007)** | 390,69 | **289,14** | **439,38** |
+| Comerç a l'engròs i al detall | 275,15 | 464,29 (2007) | 372,02 | 383,84 | **535,91** |
+| Hoteleria i restauració | 116,82 | 204,24 (2007) | 167,75 | 147,63 | **243,92** |
+| **Activitats immobiliàries** | 112,51 | — | 276,77 | 372,49 | **527,28** |
+
+**La construcció perd el 60,3% del seu valor afegit entre el 2006 i el 2014**, i
+**el 2024 encara no ha tornat al màxim del 2006** —309,83 contra 324,40.
+**Divuit anys.**
+
+**El sector financer és el que pitjor ha quedat**: **perd el 28,8% entre el 2007
+i el 2014**, **toca fons el 2020 amb 289,14** —**un 47,3% per sota del màxim**—
+i **el 2024 encara és un 20,0% per sota del 2007.** **És l'únic dels cinc
+sectors grans que no ha superat el seu màxim antic.**
+
+**Les activitats immobiliàries són l'altra cara**: **no cauen amb la
+construcció** —112,51 el 2000, 276,77 el 2014, **527,28 el 2024**— i **s'han
+multiplicat per 4,7 en vint-i-quatre anys**, **més que cap altre sector**.
+**El 2024 valen més que la construcció i que la banca.**
+
+`Construir i llogar no van junts: entre el 2006 i el 2014 la construcció perd
+195,54 milions i les activitats immobiliàries en guanyen 164,26. El corpus ho
+registra i no en dona la causa.`
+
 ## Buits registrats
 
 1. **El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
