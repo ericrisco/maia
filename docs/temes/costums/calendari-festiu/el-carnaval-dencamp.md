@@ -121,9 +121,11 @@ la matança del porc, feta el diumenge al matí**.
 ## El que falta
 
 - **La data**: el carnaval és mòbil i aquesta fitxa no en dona cap any concret.
-- **Els carnavals de les altres sis parròquies.** — **parcialment tancat**:
-  **Canillo** tenia *Els contrabandistes* i *L'óssa*, i **el dimecres de Cendra
-  els arlequins jutjaven el Carnestoltes**; avui ja no s'hi fan les farses però
+- **Els carnavals de les altres sis parròquies.** — **parcialment tancat**, amb
+  la font completa a [el teatre de
+  Carnestoltes](../../cultura/teatre/el-teatre-de-carnestoltes.md): **Canillo**
+  tenia *Els contrabandistes* i *L'óssa*, i **el dimecres de Cendra els
+  arlequins jutjaven el Carnestoltes**; avui ja no s'hi fan les farses però
   **els arlequins segueixen fent de piquets** perquè la gent secundi la festa.
   **Sant Julià de Lòria** feia *El Tralarí i la Marieta*, que **a Canillo es deia
   *En Garibaldi i la Florentina***.
