@@ -197,9 +197,10 @@ que es parlaran; no diu què faran.**
 
 ## Buits registrats
 
-- **La sentència de la Cour de Cassation de 1971** sencera: número, parts,
-  matèria. **El corpus en té una frase citada en anglès dins un llibre de
-  2008.** **Buit prioritari.**
+- ~~**La sentència de la Cour de Cassation de 1971** sencera: número, parts,
+  matèria.~~ — **`parcial` el 18-09-2026**: **el corpus en conserva una frase
+  citada en anglès** que sosté que Andorra no era estat ni subjecte de dret
+  internacional; **el número i les parts de la sentència encara falten**.
 - ~~**L'intercanvi de cartes de 1867** amb Espanya i França.~~ **PARCIALMENT
   TANCAT: ja se'n sap l'objecte.** Segons **Maria Jesús Lluelles**
   ([font](../../../fonts/lluelles-aspectes-socioeconomics-1997.md)), els «canvis

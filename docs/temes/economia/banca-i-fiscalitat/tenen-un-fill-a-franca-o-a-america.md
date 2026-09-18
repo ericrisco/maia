@@ -245,9 +245,10 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
 1. **De quina notaria són els registres de 1844-1847 i 1872-1874**, i **si és la
    mateixa que la del recompte de 1875-1877.** **Sense això les tres finestres no es
    poden encadenar.**
-2. **El decret del 30 de setembre de 1853** sencer, **en la part que obliga a la
-   taxació prèvia**. **El corpus en té l'altra obligació** —la presentació anual de
-   minutes— **i sap que aquella «és sense efecte».**
+2. ~~**El decret del 30 de setembre de 1853** sencer, **en la part que obliga a la
+   taxació prèvia**.~~ — **`parcial` el 18-09-2026**: **el corpus en té
+   l'obligació de presentar anualment les minutes i sap que és sense efecte**;
+   **la taxació prèvia i el text sencer encara falten**.
 3. **El decret del Consell General del 12 de desembre de 1888**, sencer.
 4. ~~**Les peces justificatives p. XXXIX, p. XLI i p. XLIII.**~~ — **`parcial` el
    16-09-2026: dues llegides, una inexistent.**
