@@ -65,8 +65,14 @@ i ara en té també un element de la façana.**
 
 | On | Què |
 | --- | --- |
-| **Parc natural de la vall de Sorteny** | **Escultures gegants que representen estripagecs**, instal·lades el 2015 |
-| **Els cims emblemàtics de la parròquia** | **Pic del Casamanya · pic de Cataperdís · pic de l'Estanyó · pic de la Font Blanca · pic de la Serrera · pic de Tristaina** |
+| **Parc natural de la vall de Sorteny** | **«Estripagecs als 4 vents»: cinc tòtems de vuit metres**, obra de l'escultor **Pere Moles Sans**, instal·lada la tardor del 2015 |
+| **Els cims emblemàtics de la parròquia** | **Pic del Casamanya (2.740 m) · pic de Cataperdís (2.806 m) · pic de l'Estanyó (2.915 m) · pic de la Font Blanca (2.903 m) · pic de la Serrera (2.913 m) · pic de Tristaina (2.886 m)** — sis rèpliques d'1,40 m, amb el nom i l'alçada del pic, plantades el juny del 2017 |
+
+**El projecte de Sorteny el va impulsar el cònsol d'aleshores, Ventura Espot**,
+i **Pere Moles** —**nascut a Escaldes el 23 de març del 1971, format en disseny
+gràfic, excònsol de cultura d'Escaldes-Engordany**— **també n'ha exposat a
+París**, de la mà del galerista Paul-Alexandre Nicolas
+([font](../../../fonts/donasecret-pere-moles-entrevista.md)).
 
 **I el conjunt s'ha convertit en el «circuit Estripagecs», un repte
 d'excursionisme.**
@@ -100,7 +106,11 @@ vernacular, i el corpus no en té res més.**
 - **Si hi ha estripagecs datats o signats.**
 - **Qui els feia.**
 - **El repartiment geogràfic dins Andorra.**
-- **L'escultor** de les peces de Sorteny i dels cims.
+- ~~**L'escultor** de les peces de Sorteny i dels cims.~~ — **`resolt` el
+  18-09-2026**: **Pere Moles Sans**, en una entrevista pròpia
+  ([font](../../../fonts/donasecret-pere-moles-entrevista.md)), confirmada
+  també per [Bondia](../../../raw/web/cultura/bondia-estripagecs-replica-2017.txt)
+  i pel [portal del Parc de Sorteny](https://www.sorteny.ad/equipaments).
 
 ## Related
 

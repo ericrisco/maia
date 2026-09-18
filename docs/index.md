@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **218** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **219** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1745,6 +1745,7 @@
 | [`deu-tradicio-coral`](fonts/deu-tradicio-coral.md) | Marta Deu i Pedrerol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`diario-sesiones-corts-1895`](fonts/diario-sesiones-corts-1895.md) | Congreso de los Diputados i Senado (Espanya) · document oficial parlamentari | document parlamentari oficial de 1895; domini públic per antiguitat | si |
 | [`diec2`](fonts/diec2.md) | Institut d'Estudis Catalans | drets reservats; l'avís legal prohibeix expressament l'extracció, la reutilització i el tractament informàtic del contingut de la base de dades | no |
+| [`donasecret-pere-moles-entrevista`](fonts/donasecret-pere-moles-entrevista.md) | donasecret.com | desconeguda, ús informatiu | False |
 | [`duro-pujol-no-integracio-1997`](fonts/duro-pujol-no-integracio-1997.md) | Simó Duró Coma i Jean Pujol Serres · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`duro-rol-del-parlamentari`](fonts/duro-rol-del-parlamentari.md) | Josep Duró i Coma · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
