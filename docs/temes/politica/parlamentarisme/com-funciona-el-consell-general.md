@@ -237,7 +237,14 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    esmenant-se.** **Les reformes del 2020 i del 2022 són de tres mil i mil
    dos-cents caràcters: puntuals.**
 2. **Què va passar amb els altres quinze punts** de la reforma.
-3. **Les enquestes del CRES** sobre valoració institucional. **Prioritari.**
+3. ~~**Les enquestes del CRES** sobre valoració institucional.
+   **Prioritari.**~~ — **`resolt` el 18-09-2026**: **és l'enquesta anual
+   d'opinió política**, ara feta per **Andorra Recerca + Innovació (AR+I)**,
+   successora del CRES-IEA des del 2021 — **per telèfon, 804 persones,
+   sèrie comparable des del 2019**
+   ([font](../../../fonts/ari-enquesta-opinio-politica-2025.md)). **La
+   valoració de la gestió del Govern baixa cada any des del 2021: de 6,7 a
+   4,7 el 2025.**
 4. ~~**Les vuit comissions legislatives permanents**: quines són.~~ — **`resolt`
    el 17-09-2026, i ara són nou.** **L'article 45 del Reglament vigent**, del 4
    de juny del 2026, al costat de **l'article 46 del de 1993**:
