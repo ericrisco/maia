@@ -99,7 +99,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | --- | --- | --- |
 | **Francesc de Tovia** | **Bisbe del privilegi del 1419.** Abans, **ardiaca d'Andorra** | [els bisbes](../historia/edat-mitjana/els-bisbes-durgell.md) |
 | **Andreu Capella** | Bisbe **1589-1607**; hi porta la Inquisició | [ídem](../historia/edat-mitjana/els-bisbes-durgell.md) · [la Inquisició](../costums/religiositat/la-inquisicio-a-andorra.md) |
-| **Josep Caixal** | Bisbe que **aprova la Nova Reforma**, 1866 — i que hi estava **en contra**: **afiliat a la causa carlina**, «negava categòricament el progrés» | [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md) · **biografia encara buida** |
+| **Josep Caixal** | Bisbe-copríncep **1853-1879**; **aprova la Nova Reforma**, 1866, tot i ser-hi **en contra**: carlí exiliat que el 1873 va fugir cap a Andorra disfressat de passejant | [fitxa](./josep-caixal.md) · [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md) |
 | **Joan Benlloch i Vivó** | Copríncep; **escriu el text de l'himne**, 1914. Té **monument a Andorra la Vella des del 1966**, de Josep Viladomat | [l'escultor](../cultura/arts-visuals/josep-viladomat.md) |
 | **Simeón de Guinda y Apeztegui** | Copríncep del **1714**, «es reconeix amb els andorrans com a diferent dels espanyols i francesos» | **buit** |
 | **Joan-Enric Vives i Sicília** | Copríncep Episcopal **2003-2025**, sota quatre presidents francesos | [fitxa](./joan-enric-vives.md) |

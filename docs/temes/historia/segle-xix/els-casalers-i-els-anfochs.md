@@ -140,8 +140,12 @@ cases es van perdre i quines.
 - **Qui eren els casalers** en el conflicte, més enllà del dret de participació
   del 1866.
 - **Els successors de Caixal**: noms, dates i què van fer exactament.
-- **La biografia de Josep Caixal**: quan va ser bisbe, què li va passar amb les
-  guerres carlines, i quan va morir.
+- ~~**La biografia de Josep Caixal**: quan va ser bisbe, què li va passar amb les
+  guerres carlines, i quan va morir.~~ — **`resolt` el 18-09-2026**: **ara té
+  fitxa**, a [persones/josep-caixal](../../persones/josep-caixal.md) — **bisbe i
+  copríncep del 1853 al 1879, carlí exiliat i empresonat, mort a Roma el 1879**,
+  i **el 1873 va fugir cap a Andorra disfressat de passejant** fugint de la
+  Primera República ([font](../../../fonts/josep-caixal-biografia.md)).
 - **La indústria de la llana** a Andorra.
 - **L'obra de Lídia Armengol** sobre la desaparició de cases — **citada, no
   consultada**.
@@ -157,4 +161,4 @@ cases es van perdre i quines.
 - [La qüestió duanera de 1895](./la-questio-duanera-de-1895.md) — com acaba el segle.
 - [El ferro](../../cultura/artesania/el-ferro.md) — la indústria que cau.
 - [La població al segle XIX](../../societat/demografia/la-poblacio-al-segle-xix.md) — la gent que marxa.
-- [Persones](../../persones/README.md) — el buit de Caixal.
+- [Josep Caixal](../../persones/josep-caixal.md) — la seva biografia.

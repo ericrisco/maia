@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1053** documents · **280** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1054** documents · **281** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1279,6 +1279,7 @@
 | [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
 | [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
+| [Josep Caixal i Estradé](temes/persones/josep-caixal.md) | `temes/persones` | compilada | contemporania | no | `josep-caixal-biografia` |
 | [Josep-Lluís Serrano Pentinat](temes/persones/josep-lluis-serrano-pentinat.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-josep-lluis-serrano-pentinat` |
 | [Julià Reig i Ribó](temes/persones/julia-reig.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Maria Reig i Moles](temes/persones/maria-reig-moles.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-maria-reig-moles` |
@@ -1812,6 +1813,7 @@
 | [`iec-aldc-andorra`](fonts/iec-aldc-andorra.md) | Institut d'Estudis Catalans | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`iec-vocabulari-andorra`](fonts/iec-vocabulari-andorra.md) | Institut d'Estudis Catalans · Servei de Política Lingüística del Govern d'Andorra | publicació acadèmica de l'IEC, accés obert | pendent |
 | [`insa-ensenyament-salut`](fonts/insa-ensenyament-salut.md) | Anna Insa i Canel · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`josep-caixal-biografia`](fonts/josep-caixal-biografia.md) | Wikipedia · Consell Comarcal de l'Alt Urgell | CC BY-SA 4.0 (Wikipedia) · institucional (alturgell.cat) | pendent |
 | [`jpost-comunitat-jueva-andorra`](fonts/jpost-comunitat-jueva-andorra.md) | The Jerusalem Post · Jewish Telegraphic Agency (JTA) | premsa, drets reservats; citació breu | False |
 | [`jurisprudencia-ad`](fonts/jurisprudencia-ad.md) | Eric Risco · Jurisprudència.ad | norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte | si |
 | [`komac-biodiversitat-canvi-climatic`](fonts/komac-biodiversitat-canvi-climatic.md) | Benjamin Komac i Mingaud · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
