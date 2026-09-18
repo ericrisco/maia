@@ -415,6 +415,110 @@ defectuós** que aquest article documenta.
 | Bar / pub / discoteca | 25,9 → 15,1 | 39,4 → 41,7 | 29,5 → 35,8 | 5,2 → 7,3 |
 | Grans magatzems | 24,5 → 10,4 | 38,0 → 43,4 | 33,5 → 36,7 | 4,0 → 9,4 |
 
+### Les set finestretes de l'Estat, una per una (p. 26-27)
+
+**El capítol no es queda a l'Administració com a bloc: la desglossa en set
+institucions**, i **el corpus no en tenia cap.** Totes són xifres de prosa de
+l'informe, no lectures de gràfic.
+
+| Institució | L'atenen en català | Hi parla en català | L'atenen en castellà | Hi parla en castellà |
+| --- | ---: | ---: | ---: | ---: |
+| **Comuns** | **96,5** | 86,8 | 6,8 | 14,4 |
+| Govern | 94,7 | 86,9 | — | — |
+| CASS | 94,1 | 86,5 | 13,6 | 17,8 |
+| **Policia** | 93,8 | **91,1** | 11,5 | **10,3** |
+| Servei d'Immigració | 92,7 | **77,9** | 15,9 | **26,8** |
+| CAP | 90,9 | 85,9 | 20,0 | 21,2 |
+| **Hospital** | **87,1** | **80,9** | **32,7** | **34,2** |
+
+`Els percentatges no sumen 100 perquè la pregunta admet més d'una llengua:
+és la mateixa raó que ja explica aquesta fitxa més amunt.`
+
+**Tres lectures, i cap no és la que s'espera.**
+
+**Una. La finestreta més catalana és la del comú, i la menys, la de
+l'hospital.** **9,4 punts separen el 96,5% dels comuns del 87,1% de
+l'Hospital**, i **a l'Hospital un de cada tres usuaris és atès en castellà
+(32,7%)**, **el triple que a la Policia (11,5%)**. Vegeu
+[la CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md).
+
+**Dues. A totes set institucions la gent parla menys català del que li parlen.**
+**La distància és el senyal, i va del 2,7 al 14,8:**
+
+| Institució | Atès en català − hi parla en català |
+| --- | ---: |
+| **Servei d'Immigració** | **14,8** |
+| Comuns | 9,7 |
+| Govern | 7,8 |
+| CASS | 7,6 |
+| Hospital | 6,2 |
+| CAP | 5,0 |
+| **Policia** | **2,7** |
+
+**El Servei d'Immigració és, amb diferència, on més se separen les dues
+llengües**: **l'atenen en català el 92,7% i només el 77,9% hi respon en
+català**, i **el 26,8% hi parla en castellà quan només el 15,9% hi ha estat
+atès en aquesta llengua.** **És coherent amb qui hi va: és la finestreta dels
+qui acaben d'arribar.**
+
+**I la Policia és on més s'igualen** —2,7 punts—: **l'única institució on la
+gent gairebé respon en la llengua en què se li parla.**
+
+**Tres. La comparació amb el bloc.** L'Administració com a conjunt dona
+**61,2% d'atenció «sempre en català»**, i cada institució per separat en dona
+entre **87,1 i 96,5**. **No es contradiuen: «sempre» és una cosa i «en català»
+n'és una altra.** **La xifra alta diu que el català hi és quasi sempre; la baixa
+diu que sovint no hi és sol.**
+
+### Feina i amics, amb les xifres de la prosa (p. 21-25)
+
+**A la feina** —entre qui treballa i té companys—: **73,7% hi parla en català
+(+8 punts sobre el 2018)**, **59,9% en castellà (+4)**, **10,2% en portuguès
+(+1)** i **6,3% en francès (−3)**.
+
+**I la sèrie del monolingüisme a la feina va en una sola direcció:**
+
+| | 2014 | 2018 | 2022 |
+| --- | ---: | ---: | ---: |
+| **Només català** | 30,7 | 33,4 | **36,3** |
+| **Només castellà** | 21,2 | 18,1 | **17,7** |
+| Català i castellà | 28,1 | 24,2 | **29,1** |
+
+**Vuit anys seguits pujant el «només català» i baixant el «només castellà».**
+**Per llengua més utilitzada, el català arriba al 48% a la feina (+5 punts) i el
+castellà es queda al 27%**, igual que el 2018.
+
+**Amb els amics** el quadre és un altre: **65,6% hi parla català (64,5% el
+2018)** i **63,3% castellà (66% el 2018)** —**dues xifres gairebé iguals**—,
+amb **portuguès 10,9%**, **francès 9,8%**, **anglès 5,5%** i **altres 2,5%**.
+**Puja el monolingüisme per les dues bandes** —català del 25,4% al 29,5%,
+castellà del 19,3% al 20,7%— **i baixa la barreja**: català-i-castellà del 26,7%
+al 25%, altres combinacions del 24,2% al 20,7%.
+
+> **A la feina el català guanya terreny; amb els amics empata amb el castellà.**
+> **I el que retrocedeix als dos llocs és parlar dues llengües alhora.**
+
+**I una dada d'edat que val la pena retenir**: **els de 15 a 24 anys són els que
+més parlen només en català amb els amics (35%)** i **els de 35 a 49 els que
+menys (23,1%)**. `L'informe no explica per què, i el corpus no ho dedueix.`
+
+### El món socioeconòmic, en una xifra
+
+**El 9,6% de la població fa servir només el català en tots els àmbits
+socioeconòmics** —metge, botiga, restaurant, bar, banc, transport, perruqueria—
+**quatre punts més que el 2018**; **el 7,5% només el castellà (un punt i mig
+menys)**; i **el 67,1% totes dues (tres punts més).**
+
+> **Nou de cada cent persones poden fer tota la seva vida comercial en català i
+> prou. Set de cada cent, en castellà i prou. Les altres vuitanta-quatre fan
+> servir les dues, o més.**
+
+**Per anys de residència, la fractura és neta**: **els nascuts al país usen el
+català en un 98,7%**, **els de més de vint anys en un 90%**, **els de sis a deu
+en un 83,7%** i **els de menys de cinc, en un 66,2%.** **Els d'onze a quinze
+anys hi tornen a baixar, al 66,3%** —**el mateix nivell que els acabats
+d'arribar**, i **l'informe no ho comenta.**
+
 ### Les quatre coses que la setena onada estableix
 
 **1. El 2014 segueix sent el sostre.** **Amb el 2022 a la taula, el 2014 continua
