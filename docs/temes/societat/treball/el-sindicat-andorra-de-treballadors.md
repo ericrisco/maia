@@ -97,8 +97,11 @@ Podem Andorra ni la seva dissolució del 2021.** **Buit obert.**
   hi encaixa**: **si la denúncia dels sindicats il·legals al Consell d'Europa va
   desencadenar la Constitució, la Constitució és exactament on es van
   legalitzar.**
-- **L'Associació de Residents a Andorra (ARA)**: cap fitxa, i és qui comença
-  tot això el 1976.
+- ~~**L'Associació de Residents a Andorra (ARA)**: cap fitxa, i és qui comença
+  tot això el 1976.~~ — **`resolt` el 18-09-2026, era un bessó**: fitxa
+  pròpia a [L'ARA i el SAT](./lara-i-el-sat.md), amb divergència
+  registrada sobre l'any exacte de fundació (1976 segons Ubach, 1977
+  segons un obituari d'Andrés Orihuela, un dels impulsors).
 - **La Unió Sindical d'Andorra** i **Podem Andorra**.
 - **Quants afiliats ha tingut mai.**
 - **Per què va caure en la inactivitat.**

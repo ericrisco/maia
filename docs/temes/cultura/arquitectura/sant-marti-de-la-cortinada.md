@@ -44,7 +44,12 @@ unes a les altres.
 ## El que falta
 
 La descripció de les pintures: què representen, on són dins l'església, en quin
-estat. Qui va ser Pere Canturri i on va publicar la datació. I la tesi doctoral
+estat. ~~Qui va ser Pere Canturri~~ — **`resolt` el 18-09-2026**: fitxa
+biogràfica pròpia a
+[persones](../../persones/pere-canturri-montanya.md) —historiador i
+arqueòleg (1935-2015), primer director del Patrimoni Artístic
+Nacional— **però on va publicar aquesta datació concreta segueix
+obert.** I la tesi doctoral
 *L'art romànic del Principat d'Andorra: la pintura mural en el seu context*, que
 és font acadèmica primària i **no s'ha consultat**.
 

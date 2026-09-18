@@ -323,11 +323,13 @@ Tres conseqüències pràctiques:
   cap fitxa de jocs. **Buit nou, obert avui.**
 - **Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota la
   literatura de viatges sobre Andorra i **el corpus no ha llegit**.
-- ~~**Pere Canturri Montanya** i la seva obra.~~ — **`parcial`**: el corpus ja
-  en té una segona ponència fitxada
-  ([Usos i costums d'Andorra](../../../fonts/canturri-usos-i-costums.md)) i sap
-  que va ser **primer director del Patrimoni Artístic Nacional**; la resta de la
-  seva obra continua sense inventariar-se aquí.
+- ~~**Pere Canturri Montanya** i la seva obra.~~ — **`resolt` el 18-09-2026**:
+  fitxa biogràfica pròpia a
+  [persones](../../persones/pere-canturri-montanya.md) —**1935-2015**,
+  historiador, arqueòleg, **descobridor de la Balma de la Margineda el
+  1960**, ministre de Cultura (1997-1998) i **Raonador del Ciutadà**
+  (2004-2011). **L'inventari complet de les seves quinze obres continua
+  sense fer-se** aquí.
 - ~~Quan i com entra la sardana a Andorra~~ — **tancat**: contacte als anys
   trenta via Barcelona, implantació als quaranta. Vegeu més amunt.
 - **Ventura Armengol**: qui era. **Buit registrat**, i **cercat sense èxit el

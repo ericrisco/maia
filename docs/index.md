@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **312** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1073** documents · **313** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1300,6 +1300,7 @@
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
 | [Olivier Codina Vialette](temes/persones/olivier-codina.md) | `temes/persones` | compilada | contemporania | no | `olivier-codina-biografia` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Pere Canturri Montanya](temes/persones/pere-canturri-montanya.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-pere-canturri-montanya` |
 | [Roland Viader](temes/persones/roland-viader.md) | `temes/persones` | compilada | contemporania | no | `roland-viader-biografia` |
 | [Maria Rosa Ferrer Obiols](temes/persones/rosa-ferrer-obiols.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-rosa-ferrer-obiols` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1980,6 +1981,7 @@
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-llista-carreteres-andorra`](fonts/wikipedia-ca-llista-carreteres-andorra.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-pere-canturri-montanya`](fonts/wikipedia-ca-pere-canturri-montanya.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-tunel-del-cadi`](fonts/wikipedia-ca-tunel-del-cadi.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
