@@ -60,6 +60,22 @@ sí.**
 monedes](../../economia/comerc/les-mesures-i-les-monedes.md) per situar què eren
 80 pessetes.
 
+> **Afegit el 18-09-2026, i hi ha una tarifa cent quaranta anys anterior.** **El
+> *Politar*, p. 248**, descrivint el «modo y forma del Concell», diu que quan la
+> convocatòria extraordinària s'ha fet a instància d'algú, el síndic ho proposa
+> **«per que aquest paguia ***lo salari acostumat de 6 s. per la dieta als
+> interessents en lo consell***»**.
+>
+> **El 1763 eren sis sous per conseller i per dia; el 1900, tres pessetes per
+> conseller i per dia per als estrangers i vuitanta pessetes en bloc per als
+> andorrans.** **El que canvia entre les dues tarifes no és només l'import: és
+> l'estructura.** **El Politar només coneix la dieta per cap; el decret del 1900
+> hi afegeix una quantitat fixa i una distinció per nacionalitat que el text del
+> segle XVIII no fa.**
+>
+> `El corpus no converteix sis sous del 1763 a pessetes del 1900: no té la sèrie
+> de canvi i no la vol inventar.`
+
 ## Tres graus, i la llei que en va ignorar un
 
 *(pp. 29-30)*
