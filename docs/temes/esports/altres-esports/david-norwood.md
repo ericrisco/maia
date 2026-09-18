@@ -78,12 +78,16 @@ declarades, no com a comprovades.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`David_Norwood.wiki`](../../../raw/web/esport/atletes/David_Norwood.wiki)).
 
-- **Què ha jugat per Andorra des del 2011.** **La font no ho diu.** **Buit
-  central d'aquesta fitxa.** — **`obert`, confirmat llegint el bolcat sencer**:
-  **l'única cosa que hi diu d'Andorra és el camp de país,
-  «Anglaterra fins al 2011, Andorra des del 2011»**, **i tota la resta de
-  l'article —carrera, llibres, partides— és anglesa.** **Un canvi de federació
-  sense cap partida documentada al darrere.**
+- ~~**Què ha jugat per Andorra des del 2011.** **La font no ho diu.** **Buit
+  central d'aquesta fitxa.**~~ — **`parcial` el 18-09-2026, des del perfil
+  oficial de la [FIDE](../../../fonts/fide-david-norwood.md)**: **la
+  transferència de federació és del 28-4-2011**, data exacta que el bolcat
+  de la Viquipèdia no donava. **I sí que hi ha una partida documentada,
+  encara que mínima**: **2 partides de blitz el juliol del 2025** — la
+  primera activitat per Andorra que el corpus troba, quatorze anys després
+  del canvi. **Rànquing nacional actual: 2n d'Andorra.** **Divergència
+  menor registrada, no arbitrada**: la FIDE data el títol de Gran Mestre el
+  **1990**, el corpus el tenia el **1989**.
 - ~~**La Federació Andorrana d'Escacs.**~~ — **`resolt`, i no pas pel seu
   bolcat**: **el corpus en tenia un de propi sense obrir.** **És la Federació
   d'Escacs Vall d'Andorra (FEVA)**, **nascuda del GEVA fundat a
