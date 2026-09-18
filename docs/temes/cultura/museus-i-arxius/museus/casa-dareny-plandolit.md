@@ -72,7 +72,23 @@ sense precedents».**
 
 ## El que falta
 
-- **Qui són els responsables de la Crisi del Joc**, i què va ser.
+- ~~**Qui són els responsables de la Crisi del Joc**, i què va ser.~~ —
+  **`resolt` el 18-09-2026, i el corpus ja ho tenia sencer en una altra
+  branca.** **La «Crisi del Joc» és l'afer de la concessió de casino**, i el
+  corpus la té explicada **dues vegades i des dels dos bàndols**: pel Consell
+  General a *La cuestión de Andorra* (1894)
+  ([semblava que el bisbe patrocinava el joc](../../../historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md))
+  i per André Vilar (1904)
+  ([el síndic va tornar i es va posar al capdavant del motí](../../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)).
+
+  **I el «responsable» que la font d'aquesta fitxa atribueix a la casa té nom i
+  el corpus el tenia**: **la font francesa diu que els especuladors «van
+  aconseguir posar en el seu interès el síndic don Guilhem de Plandolit y Areny,
+  baró de Senaller, i, per conducte seu, el bisbe Caixal»**. **És el mateix
+  Guillem d'Areny-Plandolit de la Nova Reforma del 1866**
+  ([la seva fitxa](../../../historia/segle-xix/guillem-dareny-plandolit.md)):
+  **el reformador i el concessionari són la mateixa persona**, i **va acabar
+  perdent el càrrec i el país.**
 - **El paper de la família a la revolució del 1881**, que és quan
   [Francesc Duran](../../../persones/els-sindics-generals.md) tanca el període.
 

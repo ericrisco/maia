@@ -200,6 +200,12 @@ n'ha llegit:**
    V. E. I.»**, i **l'adreçat és Salvador Casañas**, bisbe des del 1879 —
    **l'antecessor de Casañas és Caixal.**
 
+   **I hi ha una tercera via que el corpus ja tenia i no havia creuat**: **André
+   Vilar el nomena expressament** —**«l'évêque Gaixal y Estrada»**— en narrar
+   l'afer del casino ([el síndic va tornar i es va posar al capdavant del
+   motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)).
+   **El nom era dins el corpus des del 17-09-2026, en una altra branca.**
+
    **I la biografia explica per si sola per què les relacions es trenquen
    aquells anys:** **Caixal era carlí**, **va ser vicari general castrense de
    l'exèrcit carlí**, **va participar en la defensa del setge de la Seu d'Urgell
