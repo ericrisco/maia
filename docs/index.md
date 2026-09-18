@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1028** documents · **210** fonts · **39** aptes com a model de llengua · **125** temes amb contingut.
+**1029** documents · **210** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1314,6 +1314,12 @@
 | [La desigualtat del vot](temes/politica/sistema-electoral/la-desigualtat-del-vot.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `lopez-escenaris-de-futur` |
 | [L'abstenció](temes/politica/sistema-electoral/labstencio.md) | `temes/politica/sistema-electoral` | compilada | contemporania | no | `dalleres-coprincipat-parlamentari` |
 | [Un elector per casa](temes/politica/sistema-electoral/un-elector-per-casa.md) | `temes/politica/sistema-electoral` | compilada | historica | no | `brutails-coutume-1904` |
+
+## temes/societat
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Set coma trenta-vuit sobre deu](temes/societat/set-coma-trenta-vuit-sobre-deu.md) | `temes/societat` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/associacionisme
 
