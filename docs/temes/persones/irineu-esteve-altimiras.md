@@ -68,8 +68,12 @@ casos no se'n treu cap.
 ## Buits registrats
 
 1. **La fitxa de la FIS** amb tots els resultats.
-2. **La Rabassa** com a estació de fons: el corpus **no en té fitxa**, i és on
-   s'entrena l'esport de neu andorrà que no és alpí.
+2. ~~**La Rabassa** com a estació de fons: el corpus **no en té fitxa**, i és
+   on s'entrena l'esport de neu andorrà que no és alpí.~~ — **`resolt` el
+   18-09-2026**: fitxa pròpia a
+   [La Rabassa](../esports/esqui/la-rabassa.md) — **l'única estació de fons
+   d'Andorra**, a Sant Julià de Lòria, 15 km de pistes i l'única escola
+   d'esquí nòrdic del país.
 3. **Els seus millors llocs de Copa del Món** —quants top-10, quants top-20—
    que la font no dona.
 4. **Per què entrena a Noruega** i com es finança.

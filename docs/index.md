@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1081** documents · **330** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **331** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -444,6 +444,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Cinquanta anys d'esquí olímpic](temes/esports/esqui/cinquanta-anys-desqui-olimpic.md) | `temes/esports/esqui` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
+| [La Rabassa](temes/esports/esqui/la-rabassa.md) | `temes/esports/esqui` | compilada | contemporania | no | `naturland-ad-la-rabassa-esqui` |
 
 ## temes/esports/esqui/esquiadors
 
@@ -1908,6 +1909,7 @@
 | [`naiara-linan-tallinn-bronze`](fonts/naiara-linan-tallinn-bronze.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
 | [`naiara-linan-tarent-semifinal`](fonts/naiara-linan-tarent-semifinal.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
 | [`national-football-teams`](fonts/national-football-teams.md) | national-football-teams.com | desconeguda, ús informatiu | False |
+| [`naturland-ad-la-rabassa-esqui`](fonts/naturland-ad-la-rabassa-esqui.md) | Naturland (concessionari de l'estació de La Rabassa) | publicació institucional, sense llicència declarada | pendent |
 | [`nomen-capital-social-2007`](fonts/nomen-capital-social-2007.md) | Eusebi Nomen i Calvet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`olivier-codina-biografia`](fonts/olivier-codina-biografia.md) | Presses universitaires de Perpignan · Patrimoni Cultural d'Andorra | publicació institucional, sense llicència declarada | pendent |

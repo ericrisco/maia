@@ -8,6 +8,7 @@
 | --- | --- |
 | **[Cinquanta anys d'esquí olímpic](./cinquanta-anys-desqui-olimpic.md)** | **Les catorze delegacions andorranes als Jocs d'hivern, nom per nom i cursa per cursa, del 1976 al 2026** |
 | **[Els esquiadors](./esquiadors/README.md)** | **Fitxa per persona: vint-i-un esquiadors olímpics i paralímpics andorrans** |
+| **[La Rabassa](./la-rabassa.md)** | **L'única estació de fons d'Andorra, 15 km de pistes i l'única escola d'esquí nòrdic del país** |
 
 I el que el corpus té sobre esquí que viu en altres branques:
 
@@ -57,7 +58,9 @@ I el que el corpus té sobre esquí que viu en altres branques:
   2024 i argent sub-23 el 2025) i
   **[Cande Moreno](./esquiadors/cande-moreno.md)** (12a olímpica en combinada).
   **Dels altres, els bolcats són esborranys i no en tenen.**
-- **Les estacions**, una per una. — **`obert`, confirmat.**
+- **Les estacions**, una per una. — **`parcial` el 18-09-2026**: **la
+  primera hi és**, [La Rabassa](./la-rabassa.md), l'única estació de fons.
+  **Les estacions d'esquí alpí segueixen obertes.**
 - **I un buit nou que surt d'aquesta passada**: **de trenta-un esquiadors, el
   corpus només té el CLUB d'un** —l'Esquí Club Ordino-Arcalís de Mireia
   Gutiérrez— **i el d'Arinsal-Pal de Roger Vidosa.** ~~**Els clubs d'esquí
