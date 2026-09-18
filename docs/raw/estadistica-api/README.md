@@ -97,20 +97,27 @@ Request` si `showColumns` no coincideix amb la periodicitat real de la taula.**
 
 ## Què s'ha bolcat, a 18-09-2026
 
-**2.675 de les 2.709 divisions** —**el 98,7%**— i **1.383.806 valors**, en
-**trenta-una carpetes**, **totes amb README de procedència, llicència i defectes
+**2.679 de les 2.709 divisions** —**el 98,9%**— i **1.731.508 valors**, en
+**trenta-dues carpetes**, **totes amb README de procedència, llicència i defectes
 registrats**.
 
-**Les 34 divisions que falten són les que l'API no serveix** —l'URL que genera
-per a elles supera el que el servidor tolera—: **comerç exterior per països,
-salaris per sexe, assalariats per sector i edat, telefonia i les autoritzacions
-d'hivern per quota.** Vegeu `resta-del-cataleg/README.md`.
+**Les 30 que falten es reparteixen en dos casos que no s'han de confondre**:
+
+- **Quatre eren un temps d'espera curt, no un límit del servidor**: **les
+  importacions i exportacions per països triguen entre 86 i 110 segons** i el
+  client n'esperava 60. **Ja hi són**, a `les-que-no-responien/`.
+- **Les altres dotze donen `500` o `502`**: **l'URL que l'API genera per a elles
+  és massa llarg.** Són **salaris i massa salarial per sexe**, **assalariats per
+  sector i edat**, **telefonia** i **les autoritzacions d'hivern per quota**.
+  **La regla és retallar `showColumns` i després el rang d'anys.** Vegeu
+  `les-que-no-responien/README.md`.
 
 | Carpeta | Divisions | Valors |
 | --- | ---: | ---: |
 | `pressupostos` | 391 | 115.240 |
 | `turisme-vehicles-energia` | 385 | 118.938 |
 | `resta-del-cataleg` | 388 | **611.952** |
+| `les-que-no-responien` | 4 | **347.702** |
 | `comparacio-internacional` | 298 | 50.726 |
 | `empreses-sector-exterior` | 249 | 201.574 |
 | `demografia-vital` | 191 | 55.358 |
