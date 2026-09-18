@@ -328,8 +328,17 @@ parroquia»**.
    **Una nota del mateix Consell del 1863 que val la pena retenir**: aquella
    sessió **comissiona el síndic Joaquim de Riba i «l'Excel·lentíssim Don
    Pascual Madoz» per anar a Madrid a defensar els drets i privilegis
-   d'Andorra**, **«que se troban perturbats»**. **El corpus no té cap fitxa de
-   Madoz ni d'aquesta gestió.** `Nou el 17-09-2026.`
+   d'Andorra**, **«que se troban perturbats»**. ~~**El corpus no té cap fitxa
+   de Madoz ni d'aquesta gestió.**~~ — **`parcial` el 18-09-2026**: **Pascual
+   Madoz Ibáñez** (1806-1870), polític liberal, ministre d'Hisenda i cap de
+   Govern espanyol el 1868, autor del *Diccionario geográfico-estadístico-
+   històrico de España* — **ja havia rebut la nacionalitat andorrana el
+   1854** per una gestió anterior i similar, també a Madrid, sobre el
+   conflicte de fronteres
+   ([font](../../../fonts/wikipedia-ca-pascual-madoz.md)). **La gestió
+   concreta del 1863 no consta en aquesta font** — coherent amb un patró
+   de col·laboració continuada, no un fet aïllat verificat. **Joaquim de
+   Riba** continua sense fitxa.
 7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
    les dona. — **`explicat` el 16-09-2026, encara que no tancat**: **«*Los
    Consejos parroquiales no hacen presupuestos*»**, diu la font del 1918
