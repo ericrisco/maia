@@ -120,7 +120,14 @@ saber què van signar les persones entrevistades.**
 2. **Volum, suport i estat de transcripció.**
 3. **Condicions d'accés i d'ús**, i què deia el consentiment.
 4. **Qui el va crear** i quan exactament.
-5. L'**estudi etnogràfic de 1993-1995**: està publicat? on?
+5. ~~L'**estudi etnogràfic de 1993-1995**: està publicat? on?~~ — **`resolt`
+   el 18-09-2026**: **sí**, **Dolors Comas d'Argemir i Joan Josep Pujadas
+   Muñoz**, *Andorra, un país de frontera: estudi etnogràfic dels canvis
+   econòmics, socials i culturals* (Barcelona, Alta Fulla, 1997, ISBN
+   84-7900-075-9), **primer volum** dels resultats de l'estudi que el Govern
+   d'Andorra els va encarregar
+   ([font](../../../fonts/comas-pujadas-andorra-pais-frontera-1997.md)).
+   `El corpus no n'ha llegit encara el contingut.` `font_externa`
 6. Si hi ha **altres fons orals** andorrans.
 7. ~~La comunitat **hindú** i la **filipina** d'Andorra, que apareixen aquí i
    enlloc més.~~ — **`incorrecte` en l'afirmació d'absència, `obert` en el

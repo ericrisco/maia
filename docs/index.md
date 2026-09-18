@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **219** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **220** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1726,6 +1726,7 @@
 | [`cass-ad`](fonts/cass-ad.md) | Caixa Andorrana de Seguretat Social | drets reservats; reutilització subjecta a autorització del titular | pendent |
 | [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
 | [`consell-general-bcg-2018-21`](fonts/consell-general-bcg-2018-21.md) | Consell General, publicador; Ponència i Comissió Legislativa d'Afers Socials | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-bcg-2021-23`](fonts/consell-general-bcg-2021-23.md) | Consell General, publicador; Govern d'Andorra, autor de la resposta | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-constituent`](fonts/consell-general-constituent.md) | Consell General d'Andorra | Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta. | pendent |
