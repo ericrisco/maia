@@ -124,7 +124,10 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   empreses sí que arriba al 2024.** `font_externa`
 - **El nombre d'especialistes en TIC per àrea només existeix per al 2024.** **No
   hi ha sèrie** i **no es pot dir si els 93 d'intel·ligència artificial són
-  molts o pocs respecte de fa cinc anys.** `font_externa`
+  molts o pocs respecte de fa cinc anys.** `font_externa` — **confirmat
+  directament el 18-09-2026 contra l'API d'Estadística** (divisió 3564):
+  **la dimensió temporal d'aquesta divisió té una sola categoria, 2024.**
+  **No és que el corpus no l'hagi trobada: la sèrie no existeix a la font.**
 - **El corpus té els percentatges d'empreses i no els absoluts.** **Sense el
   nombre d'empreses de cada any no es pot saber si el sector es contreu o
   només es dilueix.** `pregunta_oberta`
