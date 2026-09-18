@@ -288,4 +288,5 @@ principal es calcula.`
   ([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)),
   **els arrendaments del SAAS** i **l'eficiència energètica del pavelló
   poliesportiu** ([el Comitè Olímpic](../../esports/competicio/el-comite-olimpic.md)).
-- Drets del llibre pendents; originals i lectura no s'exporten a datasets.
+ - Drets del llibre pendents; originals i lectura no s'exporten a datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

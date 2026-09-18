@@ -322,6 +322,7 @@ data de finalització de l'esquí.
 
 13. Drets de redistribució dels informes de Medi Ambient pendents; els
     originals i la nova lectura de recerca no s'exporten a datasets.
+    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 14. No s'ha resolt la diferència de classificació de la neu entre
     Pons i l'inventari oficial; el 6,67% no s'ha recalculat sobre una
     base aliena a la font.

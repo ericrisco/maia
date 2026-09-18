@@ -92,5 +92,6 @@ I.1 p. 4 i I.3 p. 5.)
 - L'apartat de perspectiva de gènere, p. 6–10, i les taules gràfiques
   de p. 7–9 s'han llegit, però les sèries originals i els denominadors
   dels resultats favorables continuen sense contrast independent.
-- Projecte parlamentari original 2826 i execució pendents. Drets de
-  la memòria pendents; original i lectura fora de datasets.
+ - Projecte parlamentari original 2826 i execució pendents. Drets de
+   la memòria pendents; original i lectura fora de datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

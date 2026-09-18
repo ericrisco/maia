@@ -287,7 +287,8 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
   d'un sol camp, triat perquè a Andorra és econòmicament central.
 - **Drets tancats.** **Copyright de les autores i de l'edició, cap llicència.**
   **Res d'aquest llibre no entra en cap dataset**; el que hi ha aquí són
-  recomptes i citacions d'una obra publicada.
+  recomptes i citacions d'una obra publicada. **`no-es-buit`**: és un avís de
+  drets, no una pregunta de recerca.
 
 ## Related
 

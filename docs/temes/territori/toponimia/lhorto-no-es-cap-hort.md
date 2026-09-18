@@ -238,6 +238,7 @@ val la pena**: és lèxic que funciona com a cartografia de risc.
 
 **Drets tancats.** Dos titulars —el Govern per l'edició, els autors pels textos i
 les fotografies— i cap llicència. **Res d'aquest llibre no entra en cap dataset.**
+**`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 
 **I una data que s'ha de repetir.** El portal del Govern el titula **«2013,
 Anàlisi fisiogràfica…»**; el llibre diu **«Primera edició: octubre del 2018»** i

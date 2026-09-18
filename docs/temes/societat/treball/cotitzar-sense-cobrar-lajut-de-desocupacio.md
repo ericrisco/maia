@@ -183,6 +183,7 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
   arrodoniments, tots els requisits dels assegurats indirectes ni totes
   les prestacions i remissions de l’article. No és una llista exhaustiva
   de vies per mantenir cobertura després de perdre la feina.
-- La secció de la CASS s’ha llegit completa i es declara informativa,
-  sense validesa jurídica. Els seus drets de reutilització continuen
-  pendents; el material es conserva fora del corpus i de qualsevol dataset.
+ - La secció de la CASS s’ha llegit completa i es declara informativa,
+   sense validesa jurídica. Els seus drets de reutilització continuen
+   pendents; el material es conserva fora del corpus i de qualsevol dataset.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

@@ -70,5 +70,6 @@ l'objectiu de l'eina i els itineraris.)
 - Falta contrastar la metodologia tècnica original i la versió
   cartogràfica aplicada a cada zona. Els peus del catàleg i la història
   del projecte s'han llegit sense auditar les dades que els sustenten.
-- Drets reservats, sense autorització específica de reutilització;
-  originals i lectura fora de datasets.
+ - Drets reservats, sense autorització específica de reutilització;
+   originals i lectura fora de datasets. **`no-es-buit`**: és un avís de drets,
+   no una pregunta de recerca.

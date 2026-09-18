@@ -259,6 +259,7 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
   Ganyet (1977)**, cap de les dues al corpus.
 - **Drets tancats.** **Cap llicència declarada al volum.** **Res d'aquesta font
   no entra en cap dataset**, i **ni el PDF ni els renders no es versionen.**
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 
 ## Related
 

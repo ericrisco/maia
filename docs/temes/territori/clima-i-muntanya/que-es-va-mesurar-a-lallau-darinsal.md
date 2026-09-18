@@ -185,5 +185,6 @@ del fenomen. No és un nivell de perill emès pel
 - Aquesta lectura no cobreix l'inventari d'allaus del país ni el
   contrast contemporani de l'episodi de 2015. Tampoc acredita
   l'operativitat actual de les proteccions.
-- Article de2020 sota CC BY4.0; drets de la comunicació de1996,
-  de les peces de Becat i del pla pendents. Aquesta lectura conjunta no s'exporta a datasets.
+ - Article de2020 sota CC BY4.0; drets de la comunicació de1996,
+   de les peces de Becat i del pla pendents. Aquesta lectura conjunta no s'exporta a datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

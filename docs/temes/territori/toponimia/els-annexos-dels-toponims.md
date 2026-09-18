@@ -303,7 +303,8 @@ recull hipòtesis amb la seva prova i el seu contra-argument, no resultats.**
 - **Drets tancats.** **Portal del Govern, drets reservats, cap llicència de
   reutilització.** **Res d'aquest material no entra en cap dataset**; els
   fitxers extrets viuen en una carpeta no versionada i el que hi ha aquí són
-  citacions i recomptes.
+  citacions i recomptes. **`no-es-buit`**: és un avís de drets, no una pregunta
+  de recerca.
 
 ## Related
 

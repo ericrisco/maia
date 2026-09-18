@@ -52,4 +52,5 @@ resoldre una demanda i rebre assistència són fets diferents.
 - Tres pàgines, 77–79, llegides completes amb renders vistos; la taula
   de p. 78 és una imatge que l’extracció textual omet. No lectura íntegra
   de les 331 pàgines, ni validació independent o seguiment posterior.
-- Drets CASS pendents d’autorització; cap dataset.
+ - Drets CASS pendents d’autorització; cap dataset. **`no-es-buit`**: és un
+   avís de drets, no una pregunta de recerca.

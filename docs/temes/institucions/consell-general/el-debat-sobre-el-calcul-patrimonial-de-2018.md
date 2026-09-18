@@ -94,5 +94,6 @@ no s'ha comprovat. Aquests totals no identifiquen l'efecte causal del barem.
   un recompte numèric de les votacions de comissió.
 - No s'ha contrastat la normativa d'embargaments ni els casos esmentats
   a la motivació liberal; no s'acrediten aquí actuacions concretes dels saigs.
-- [Drets pendents](../../../fonts/consell-general-dcg-2018-7.md): originals
-  i lectura de recerca exclosos de datasets.
+ - [Drets pendents](../../../fonts/consell-general-dcg-2018-7.md): originals
+   i lectura de recerca exclosos de datasets. **`no-es-buit`**: és un avís de
+   drets, no una pregunta de recerca.

@@ -622,7 +622,8 @@ la lectura dels percentatges com a repartiment** són el que aquesta fitxa
 corregeix.
 
 **Drets tancats.** Cap llicència declarada, ni al document ni al portal. **Res
-d'aquesta font no entra en cap dataset.**
+d'aquesta font no entra en cap dataset.** **`no-es-buit`**: és un avís de drets,
+no una pregunta de recerca.
 
 ## Related
 

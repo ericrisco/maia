@@ -102,5 +102,6 @@ previsions; no les converteix en una prohibició absoluta d'informar.
   Cronologia i alçada dels dics discrepen entre aquest estudi i el
   pla; no s'han resolt. Informes originals RTM/ASI, màxim de pressió
   i contrast contemporani de l'episodi de 2015 continuen pendents.
-- Condicions particulars de reutilització pendents; originals i
-  lectura fora de datasets.
+ - Condicions particulars de reutilització pendents; originals i
+   lectura fora de datasets. **`no-es-buit`**: és un avís de drets, no una
+   pregunta de recerca.

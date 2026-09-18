@@ -79,5 +79,6 @@ entrada «Projecte de llei de modificació de la Llei 1/2026».)
 - El [pressupost inicial](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)
   segueix separat d'aquesta proposta; falta reconstruir totes les
   modificacions pressupostàries de 2026.
-- Drets de les peces parlamentàries pendents; originals i lectura
-  de recerca no s'exporten a datasets.
+ - Drets de les peces parlamentàries pendents; originals i lectura
+   de recerca no s'exporten a datasets. **`no-es-buit`**: és un avís de drets,
+   no una pregunta de recerca.

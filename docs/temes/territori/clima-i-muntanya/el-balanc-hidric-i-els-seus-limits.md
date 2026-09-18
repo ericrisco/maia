@@ -222,6 +222,7 @@ què el corpus ja té documentada la reconstrucció.`
   0,05 mm. Es conserven ambdós valors. La prosa de p. 47 arrodoneix
   els dos extrems a 8,4 mm i no resol aquesta diferència.
 - No s'ha comprovat el compliment real dels cabals ecològics ni cercat
-  una correcció editorial dels informes. Els drets de redistribució
-  continuen pendents a la [fitxa de font](../../../fonts/mediambient-recurs-hidric.md);
-  aquesta lectura no autoritza incorporar el material a datasets.
+   una correcció editorial dels informes. Els drets de redistribució
+   continuen pendents a la [fitxa de font](../../../fonts/mediambient-recurs-hidric.md);
+   aquesta lectura no autoritza incorporar el material a datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

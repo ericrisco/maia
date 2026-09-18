@@ -751,7 +751,8 @@ la prosa són sistemàtics i cap no altera una conclusió.**
 - **La font original de l'annex d'assalariats** segueix sense ser al corpus, i
   **la sèrie acaba el 2017** sense desglossament per nacionalitat.
 - **Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
-  en cap dataset** i el PDF **no es versiona**.
+  en cap dataset** i el PDF **no es versiona**. **`no-es-buit`**: és un avís de
+  drets, no una pregunta de recerca.
 
 ## Related
 

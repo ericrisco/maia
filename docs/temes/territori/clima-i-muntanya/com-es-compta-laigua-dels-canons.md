@@ -86,5 +86,6 @@ La portada diu gener de 2021 i la datació final, p. 41, diu
 - L'inventari no s'ha llegit sencer: p. 1–4, 14, 22–27 i 36–41 llegides;
   annexos i detall de la majoria de xarxes pendents. La dada parcial
   de 2019 no acredita la producció de neu actual ni tota la sèrie històrica.
-- Drets de redistribució i correccions editorials pendents. Aquesta
-  lectura de recerca i els seus originals no s'exporten a datasets.
+ - Drets de redistribució i correccions editorials pendents. Aquesta
+   lectura de recerca i els seus originals no s'exporten a datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

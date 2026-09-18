@@ -81,4 +81,5 @@ sobre xarxa d'estacions i observadors.)
   [reglament de terrenys de 2016 i la modificació de 2023](el-terreny-sense-classificar-i-les-allaus.md)
   ja tenen una primera lectura; no s'han verificat polígons reglamentaris
   ni tota la cadena posterior.
-- Llicència de reutilització pendent; originals i lectura fora de datasets.
+ - Llicència de reutilització pendent; originals i lectura fora de datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

@@ -182,7 +182,8 @@ digui**. Això es tanca amb [parla](../../../parla/README.md).
 res sobre la implantació terminològica en cap altre camp.**
 
 **Drets tancats.** Copyright de les autores i de l'edició, cap llicència. **Res
-d'aquest llibre no entra en cap dataset.**
+d'aquest llibre no entra en cap dataset.** **`no-es-buit`**: és un avís de
+drets, no una pregunta de recerca.
 
 **I la data, per cinquè cop.** El portal del Govern el titula **«2017, Ús de la
 terminologia…»**; la recerca és del **2016-2017**, l'edició de **febrer del 2019** i

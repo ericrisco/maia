@@ -176,4 +176,5 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   Aquesta referència no prova que totes les condicions del conveni
   de 2017 continuïn iguals ni certifica l’aplicació de cada expedient.
   ([Circular, p. 1 i 7](../../../raw/desocupacio/govern-circular-pressupost-2026.pdf).)
-- Drets de reutilització CASS i Govern pendents d’autorització; cap dataset.
+ - Drets de reutilització CASS i Govern pendents d’autorització; cap dataset.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

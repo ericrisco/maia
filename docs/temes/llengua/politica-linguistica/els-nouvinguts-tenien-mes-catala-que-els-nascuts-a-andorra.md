@@ -354,7 +354,8 @@ s'arbitra.**
   al 2009.** El gràfic només té dues columnes. **Sense 1995, 1999 i 2004 no se
   sap si el 64 % del 2014 és excepcional o si el segment ja havia oscil·lat.**
 - **Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
-  en cap dataset** i el PDF **no es versiona**.
+  en cap dataset** i el PDF **no es versiona**. **`no-es-buit`**: és un avís de
+  drets, no una pregunta de recerca.
 
 ## Related
 

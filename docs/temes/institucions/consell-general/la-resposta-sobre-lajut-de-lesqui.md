@@ -80,5 +80,6 @@ disposicions addicional i derogatòria 1.)
   una resposta escrita publicada, no una votació.
 - No s'han llegit les altres peces del butlletí ni reconstruït totes
   les mesures posteriors. Aquesta resposta de 2021 no acredita vigència actual.
-- [Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
-  originals i lectura compilada exclosos de datasets.
+ - [Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
+   originals i lectura compilada exclosos de datasets. **`no-es-buit`**: és un
+   avís de drets, no una pregunta de recerca.

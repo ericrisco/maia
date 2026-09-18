@@ -100,5 +100,6 @@ preguntes diferents.
   i repeteixen zona11 i codis de les Fonts, mentre p.98 identifica
   Prats Nous com a zona10 i parla del1996. Les etiquetes no s'han
   corregit silenciosament ni utilitzat per vincular bases de dades.
-- Condicions de reutilització pendents, inclosos mapes i fotografies
-  d'altres autors o institucions; originals i lectura fora de datasets.
+ - Condicions de reutilització pendents, inclosos mapes i fotografies
+   d'altres autors o institucions; originals i lectura fora de datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

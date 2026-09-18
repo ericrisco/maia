@@ -107,6 +107,7 @@ permeten afirmar que mai se l'anomeni president en altres usos.
   la fidelitat lingüística del Diari respecte a l'àudio. Retirades les
   afirmacions absolutes sobre aquests punts i sobre l'exclusivitat del lèxic
   en tot el català institucional: no tenien evidència suficient.
-- [Peces del portal](../../../fonts/consell-general-organitzacio.md):
-  abast de reutilització per peça pendent; lectura exclosa de datasets
-  mentre aquesta verificació no s'hagi resolt.
+ - [Peces del portal](../../../fonts/consell-general-organitzacio.md):
+   abast de reutilització per peça pendent; lectura exclosa de datasets
+   mentre aquesta verificació no s'hagi resolt. **`no-es-buit`**: és un avís de
+   drets, no una pregunta de recerca.

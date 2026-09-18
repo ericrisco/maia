@@ -166,7 +166,7 @@ que aquella publicació **«no especifica els percentatges»** d'algunes qüesti
 **El Col·legi del Pirineu queda fora i no se n'explica el motiu.**
 
 **Drets tancats.** Dos titulars i cap llicència. **Res d'aquest llibre no entra en
-cap dataset.**
+cap dataset.** **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 
 **I la data, per quart cop.** El portal del Govern el titula **«2010, L'escenari
 sociolingüístic…»**; l'ajut és **2010-2012**, les dades són del curs **2011-2012** i

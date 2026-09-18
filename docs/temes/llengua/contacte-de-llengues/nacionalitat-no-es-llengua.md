@@ -185,7 +185,8 @@ del 2023.
 taula de correspondència entre les dues maneres de comptar.
 
 **Drets tancats.** Copyright de l'autor i de l'edició, cap llicència. **Res
-d'aquest llibre no entra en cap dataset.**
+d'aquest llibre no entra en cap dataset.** **`no-es-buit`**: és un avís de
+drets, no una pregunta de recerca.
 
 **I la data, per tercer cop.** El portal del Govern el titula **«2021, Andorra:
 llengües i identitats»**; el llibre diu **«Primera edició: desembre del 2024»** i

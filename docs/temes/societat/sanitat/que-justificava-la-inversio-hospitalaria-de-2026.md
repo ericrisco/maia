@@ -100,5 +100,6 @@ errata, a una versió anterior ni a una exclusió comptable determinada.
 - Els beneficis clínics, econòmics i organitzatius previstos per Salut
   no s'han validat amb resultats o estudis independents. L'apartat de
   perspectiva de gènere s'ha llegit sense destil·lar-ne les remissions legals.
-- Drets de les memòries i de l'informe pendents; originals i aquesta
-  lectura queden fora de datasets.
+ - Drets de les memòries i de l'informe pendents; originals i aquesta
+   lectura queden fora de datasets. **`no-es-buit`**: és un avís de drets, no
+   una pregunta de recerca.

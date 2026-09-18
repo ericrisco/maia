@@ -502,6 +502,7 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   comercial només en català.**
 - **Drets tancats.** **Cap llicència declarada**, ni al document ni al portal.
   **Res d'aquesta font no entra en cap dataset**, i el PDF **no es versiona**.
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 
 ## Related
 
