@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **260** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **262** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1860,6 +1860,7 @@
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`reigfundacio-la-fundacio`](fonts/reigfundacio-la-fundacio.md) | Fundació Julià Reig | publicació institucional, sense llicència declarada | pendent |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rios-urruti-andorra-1920`](fonts/rios-urruti-andorra-1920.md) | Junta para Ampliación de Estudios e Investigaciones Científicas · Centro de Estudios Históricos (edició); Fernando de los Ríos Urruti (textos) | sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1913,6 +1914,7 @@
 | [`wikipedia-ball-ossa-encamp`](fonts/wikipedia-ball-ossa-encamp.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

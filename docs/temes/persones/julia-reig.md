@@ -108,8 +108,15 @@ perquè qui hi torni sàpiga què comprovar.
 **Afegit el 18-09-2026**: una segona font sí que afirma un parentiu directe
 —**Julià Reig era l'oncle d'Òscar Ribas Reig**, i aquest en va ser
 «l'hereu natural» a la política a finals dels anys setanta
-([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **Una sola font
-ho diu**: registrat com a dada, no com a confirmació definitiva.
+([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **I l'arbre
+genealògic de la família Reig hi encaixa**: Julià Reig i Ribó i Serafí
+Reig i Ribó semblen germans (comparteixen el segon cognom), Serafí és
+pare de Maria Reig i Moles, i Òscar Ribas i Reig porta cognom que implica
+mare de cognom Reig — **consistent amb ser cosí de Maria i nebot d'un
+dels germans Reig i Ribó**
+([font](../../fonts/wikipedia-ca-familia-reig.md)). **Dues fonts
+independents hi apunten ara**, però cap no ho diu amb la precisió d'un
+arbre explícit: registrat com a fort, no com a confirmat del tot.
 
 ## Buits registrats
 
@@ -122,8 +129,13 @@ ho diu**: registrat com a dada, no com a confirmació definitiva.
    set anys sinó de sis**: la llista dona la segona sindicatura de Reig des de
    **desembre del 1972**, no del 1973 com deia Bascompte. **Discrepància
    registrada, no arbitrada.**
-3. **La Fundació Julià Reig**: què és, quan es crea, què publica, si existeix
-   encara. **Buit prioritari** — és una via d'accés a recerca andorrana.
+3. ~~**La Fundació Julià Reig**: què és, quan es crea, què publica, si
+   existeix encara.~~ — **`resolt` el 18-09-2026**: **creada el 1999**,
+   dotació inicial de **3.005.060,52 €**, seu a Sant Julià de Lòria,
+   **existeix encara** (presidida el 2026 per **Déborah Ribas Duró**,
+   del mateix llinatge segons la genealogia de la família Reig)
+   ([font](../../fonts/reigfundacio-la-fundacio.md)). Gestiona també el
+   Museu del Tabac.
 4. **L'informe Bedaux** i la reestructuració del Consell en juntes.
 5. **Quin paper hi va tenir en l'andorranització**, més enllà de coincidir-hi.
 6. **Si la família Reig té arxiu**, com Casa Rossell en tenia

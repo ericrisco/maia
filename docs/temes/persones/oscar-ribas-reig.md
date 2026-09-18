@@ -139,9 +139,12 @@ segle XX es mou dins d'un nombre petit de cases**.
 **Afegit el 18-09-2026, d'una segona font**: **[Julià Reig](./julia-reig.md)
 era el seu oncle**, i Ribas en va ser «l'hereu natural» a la política a
 finals dels anys setanta, després d'haver-ne après «les interioritats» al
-seu costat ([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **Una
-sola font ho diu**: es registra com a dada, no com a confirmació
-definitiva d'un arbre genealògic.
+seu costat ([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **I
+l'arbre de la família Reig hi encaixa**: el seu cognom «Ribas i Reig»
+implica una mare de cognom Reig, consistent amb ser nebot d'un dels
+germans Reig i Ribó i cosí de Maria Reig i Moles
+([font](../../fonts/wikipedia-ca-familia-reig.md)). **Dues fonts hi
+apunten, cap amb la precisió d'un arbre explícit.**
 
 ## El que falta
 
