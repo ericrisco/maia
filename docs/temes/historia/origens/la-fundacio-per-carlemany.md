@@ -75,10 +75,9 @@ Aquesta fitxa existeix exactament per això.
 - Quan neix el relat de Carlemany com a mite nacional i **qui el promou** —
   perquè un mite adoptat el 1921 com a himne té una història política moderna,
   no només medieval.
-- Els **andosins**: **buit tancat**. Vegeu
-  [el nom d'Andorra](./el-nom-dandorra.md) — la seva menció és un hàpax i la
-  identificació amb Andorra no se sosté. **Els dos pilars del relat d'origen han
-  caigut tots dos.**
+- ~~Els **andosins**.~~ — **`resolt`:** [el nom d'Andorra](./el-nom-dandorra.md)
+  mostra que la seva menció és un hàpax i que la identificació amb Andorra no se
+  sosté. **Els dos pilars del relat d'origen han caigut tots dos.**
 
 ## La data, i qui hi és a cada bàndol
 
