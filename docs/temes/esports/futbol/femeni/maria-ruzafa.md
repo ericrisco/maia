@@ -49,7 +49,13 @@ Gibraltar**, en el mateix partit on va marcar
 
 ## El que falta
 
-- **Quantes internacionalitats té realment.**
+- **Quantes internacionalitats té realment.** — **`obert`, i el 18-09-2026
+  confirmat amb les dues pàgines baixades a `raw/`**
+  (`docs/raw/web/esport/atletes-femeni/`): **la seva fitxa en dona 38 i 5 gols,
+  la llista d'internacionals en dona 5 i 0.** **Un factor de set i mig dins de
+  la mateixa font.** `La fitxa pròpia no diu per quina selecció són les 38 —el
+  camp d'equip nacional hi porta altres entrades— i la llista es declara
+  «non-exhaustive». Només ho pot resoldre la Federació Andorrana de Futbol.`
 - **Els seus cinc gols**, dels quals el corpus només en situa un.
 - **Per què va marxar d'Andorra el 2021 i no ha tornat.**
 

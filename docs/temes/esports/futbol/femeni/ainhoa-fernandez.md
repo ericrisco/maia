@@ -31,7 +31,7 @@ tags: [esports, futbol, dones, seleccio]
 
 ## El que falta
 
-- **Els dos articles.** **I si és àrbitra.** — **`obert`, confirmat el 2026-09-13, i el motiu és de font, no de destil·lació**: **aquesta fitxa surt d'una llista de plantilla que es declara ella mateixa «non-exhaustive» i que porta etiqueta d'incompleta des de l'octubre del 2021** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md)). **Cap bolcat individual d'aquestes jugadores no és a `raw/`.** Vegeu [futbol femení](./README.md).
+~~**Els dos articles.** **I si és àrbitra.**~~ — **`resolt` el 18-09-2026 en el sentit que la pregunta ja té resposta, i la resposta és que la font no ho publica.** **El bolcat ja hi és** —`docs/raw/web/esport/atletes-femeni/`— i **demostra tres coses**: **aquesta jugadora no té article propi a la Viquipèdia**, ni en català ni en anglès; **la fitxa surt de la plantilla de la selecció**, que **no dona partides de ningú**; i **la llista d'internacionals, que sí que en dona, només té sis noms i aquest no hi és** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md), [futbol femení](./README.md#el-buit-que-els-inclou-tots-registrat-el-2026-09-13)). `Les seves partides només les pot donar la Federació Andorrana de Futbol.`
 
 ## Related
 

@@ -1,0 +1,86 @@
+{{Falta verificar admissibilitat|data=2023}}
+{{Currículum}}
+{{Infotaula persona}}
+'''Teresa “Tere” Morató Armengol''' (nascuda el 28 de març de 1998) és una futbolista professional andorrana que juga com a [[Davanter (futbol)|davantera]] al [[Vila-real Club de Futbol (femení)|Villarreal CF]] de [[Lliga espanyola de futbol femenina|la Lliga F]] i a la [[Selecció femenina de futbol d'Andorra|selecció femenina d'Andorra]].
+
+== Carrera de club ==
+Morató va començar la seva carrera professional a l'ENFAF Crèdit Andorrà, l'únic club femení d'Andorra, que competeix al sistema de lligues espanyol. La temporada 2015-16 va marcar 61 gols en 24 partits, sent amb diferència la màxima golejadora de la Primera Divisió Femenina Catalana (quart nivell espanyol).<ref>{{Ref-web|url=http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_CMP_Goleadores?cod_primaria=1000120&CodJornada=30&codcompeticion=21564286&codtemporada=11&codgrupo=21912586|títol=PRIMERA DIVISIÓ FEMENÍ, GRUP 2 - Temporada 2015-2016 - Taula Golejadors|llengua=Catalan}}</ref> Tot i la seva excel·lent actuació personal, l'equip va acabar 12è de la classificació.<ref>{{Ref-web|url=http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_VisClasificacion?cod_primaria=1000120&codjornada=30&codcompeticion=21564286&codgrupo=21912586&codjornada=30|títol=PRIMERA DIVISIÓ FEMENÍ, GRUP 2 - Temporada 2015-2016 - Classificació|llengua=Catalan}}</ref>
+
+Les impressionants actuacions de Morató amb l'ENFAF van fer que el FC Barcelona la fitxés pel seu [[Futbol Club Barcelona B (femení)|equip de reserva]] l'estiu del 2016.<ref>{{Ref-web|url=https://www.fcbarcelona.es/futbol/formativo-femenino/ficha/fc-barcelona-femeni-b-2016-/fc-barcelona-femenino-b-20162017|editor=FC Barcelona|títol=FC Barcelona – Femenino B - 2016 / 2017}}</ref>
+
+El juliol del 2020, Morató va fitxar pel [[Rayo Vallecano (femení)|Rayo Vallecano]] i es va convertir en la primera jugadora andorrana a incorporar-se a la [[Lliga espanyola de futbol femenina|primera divisió femenina]] espanyola.
+
+== Carrera internacional ==
+El 18 de setembre de 2022, va marcar el seu primer gol, acompanyat del seu primer hat-trick contra Liechtenstein en un partit amistós. Actualment, és la màxima golejadora de la seva selecció, amb 8 gols.
+
+== Objectius internacionals ==
+: ''Les puntuacions i els resultats indiquen primer el nombre de gols d'Andorra.''
+
+{| class=wikitable
+!No.
+! Data
+! Lloc
+! Oponent
+! Puntuació
+! Resultat
+! Competició
+|-
+| 1.
+| rowspan=3 | 18 de setembre de 2021
+| rowspan=3 | Sportanlage Blumenau, [[Triesen]], [[Liechtenstein]]
+| rowspan=3 |</img> Liechtenstein
+| align=center | '''1''' –0
+| rowspan=3 align=center | 4–2
+| rowspan=8 | [[Partit amistós|Amistós]]
+|-
+| 2.
+| align=center | '''2''' –0
+|-
+| 3.
+| align=center | '''3''' –0
+|-
+| 4.
+| rowspan=2 | 16 de febrer de 2022
+| rowspan=2 | [[Estadi Nacional]], [[Andorra la Vella]], [[Andorra]]
+| rowspan=2 |</img> Gibraltar
+| align=center | '''1''' –0
+| rowspan=2 align=center | 4–1
+|-
+| 5.
+| align=center | '''2''' –0
+|-
+| 6.
+| 13 de juny de 2023
+| rowspan=3 | Estadi Municipal De Peralada, [[Girona]], [[Espanya|Spain]]
+|</img> Aràbia Saudita
+| align=center | '''3-1'''
+| align=center | 3–1
+|-
+| 7.
+| rowspan=2 | 17 de juny de 2023
+| rowspan=2 |</img> Aràbia Saudita
+| align=center | '''1''' –0
+| rowspan=2 align=center | 3–0
+|-
+| 8.
+| align=center | '''2''' –0
+|-
+|}
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+* {{Soccerway}}
+* [https://www.txapeldunak.com/cas/futbol_femenino/jugadora.asp?id=14189 Teresa] at Txapeldunak.com (in Spanish)
+
+{{ORDENA:Morato Armengol, Teresa}}
+[[Categoria:Futbolistes del Rayo Vallecano (femení)]]
+[[Categoria:Davanteres de futbol femení]]
+[[Categoria:Centrecampistes de futbol femení]]
+[[Categoria:Naixements del 1998]]
+[[Categoria:Futbolistes del Vila-real Club de Futbol (femení)]]
+[[Categoria:Futbolistes d'Andorra la Vella]]
+[[Categoria:Futbolistes internacionals amb Andorra]]
+[[Categoria:Esportistes andorranes]]
+[[Categoria:Futbolistes femenines dels Països Catalans]]

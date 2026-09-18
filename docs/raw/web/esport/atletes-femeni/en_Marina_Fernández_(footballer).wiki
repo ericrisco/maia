@@ -1,0 +1,84 @@
+{{Short description|Andorran footballer}}
+{{Use dmy dates|date=September 2024}}
+{{family name hatnote|Fernández|Muelas|lang=Spanish}}
+{{Infobox football biography
+| name           = Marina Fernández
+| fullname       = Marina Fernández Muelas
+| birth_date     = {{birth date and age|df=yes|1996|5|11}}
+| birth_place    = [[Sant Julià de Lòria]], Andorra
+| height         = {{height|m=}}
+| position       = [[Midfielder]]<ref>{{UEFA player|id=250082163|accessdate=1 May 2020}}</ref>
+| currentclub    = ENFAF
+| clubnumber     = 
+| years1         = 2012–2014
+| clubs1         = ENFAF Andorra
+| caps1          = 46
+<!-- 23 league matches in 2012-2013 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=628825 -->
+<!-- 23 league matches in 2013-2014 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=860582 -->
+| goals1         = 76
+<!-- 42 league goals in 2012-2013 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=628825 -->
+<!-- 34 league goals in 2013-2014 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=860582 -->
+| years2         = 2014–2016
+| clubs2         = Pardinyes CF
+| caps2          = 63
+<!-- 27 league matches in 2014-2015 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=24871993&codacta=926228 -->
+<!-- 25 league matches in 2015-2016 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1138235 & http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=24871993&codacta=1217963 -->
+<!-- 11 league matches in 2016-2017 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1376305 -->
+| goals2         = 6
+<!-- 3 league goals in 2014-2015 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=24871993&codacta=926228 -->
+<!-- 2 league goals in 2015-2016 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1138235 & http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=24871993&codacta=1217963 -->
+<!-- 1 league goal in 2016-2017 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1376305 -->
+| years3         = 2017
+| clubs3         = ENFAF Andorra
+| caps3          = 13
+<!-- 13 league matches in 2016-2017 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1407283 -->
+| goals3         = 10
+<!-- 10 league goals in 2016-2017 season: http://efo87.fcf.novanet.es/pnfg/NPcd/NFG_EstadisticasJugador?cod_primaria=3000306&jugador=160036&codacta=1407283 -->
+| years4         = 2017–2019
+| clubs4         = SE AEM
+| years5         = 2019–
+| clubs5         = ENFAF
+| nationalyears1 = 2015–
+| nationalteam1  = [[Andorra women's national football team|Andorra]]
+| nationalcaps1  = 3
+| nationalgoals1 = 1
+| ntupdate = 08:51, 11 April 2015 (UTC)
+}}
+'''Marina Fernández Muelas''' (born 11 May 1996) is an Andorran [[Association football|footballer]] who plays as a midfielder for Andorran-based Spanish Women's First Division of Catalonia club ENFAF and the [[Andorra women's national football team|Andorra women's national team]].<ref>{{cite web|title=Primer amistós davant Malta|url=http://www.elperiodic.ad/noticia/54888/primer-amistos-davant-malta|publisher=Esports|accessdate=26 April 2017}}</ref><ref>{{cite web|title=Futbol femení amb Marina Fernández|url=http://www.andorradifusio.ad/Programes/becaris/becaris-24-de-juny-de-2016/futbol-femeni-amb-marina-fernandez|publisher=AndorraDifusio|accessdate=26 April 2017}}</ref>
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 4 April 2015 || [[Victor Tedesco Stadium]], [[Ħamrun]], [[Malta]] || {{fbw|MLT}} || align=center|'''3'''–5 || align=center| 3–5 || [[UEFA Women's Euro 2017 qualifying preliminary round#Group B|UEFA Women's Euro 2017 qualifying]]
+|-
+| 2. || 16 February 2022 || [[Estadi Nacional]], [[Andorra la Vella]], [[Andorra]] || {{fbw|GIB}} || align=center|'''4'''–0 || align=center| 4–1 || rowspan=2| [[Exhibition match|Friendly]]
+|-
+| 3. || 3 September 2022 || [[Center FAF]], [[Andorra la Vella]], [[Andorra]] || {{fbw|LIE}} || align=center|'''1'''–1 || align=center| 3–1
+|-
+| 4. || 22 September 2023 || [[CSR Orhei]], [[Orhei]], [[Moldova]] || {{fbw|MLD}} || align=center|'''1'''–1 || align=center| 2–1 || [[2023–24 UEFA Women's Nations League]]
+|-
+|}
+
+==References==
+<references />
+
+== External links ==
+* {{soccerway|marina-fernandez-muelas/401789}}
+* [https://www.txapeldunak.com/cas/futbol_femenino/jugadora.asp?id=15366 Marina] at Txapeldunak.com {{in lang|es}}
+
+{{DEFAULTSORT:Fernandez, Marina}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Women's association football midfielders]]
+[[Category:Andorran women's footballers]]
+[[Category:21st-century Andorran people]]
+[[Category:People from Sant Julià de Lòria]]
+[[Category:Andorra women's international footballers]]
+[[Category:Andorran expatriate women's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate women's footballers in Spain]]
+
+
+{{Andorra-women-footy-bio-stub}}

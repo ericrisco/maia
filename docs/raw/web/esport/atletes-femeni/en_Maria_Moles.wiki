@@ -1,0 +1,69 @@
+{{Short description|Andorran footballer (born 2003)}}
+{{Use dmy dates|date=September 2021}}
+{{family name hatnote|Moles|Farré|lang=Catalan}}
+{{Infobox football biography
+| name           = Maria Moles
+| image          = Maria Moles Farré 02.jpg
+| image_size     = 
+| caption        = 
+| fullname       = Maria Moles Farré
+| birth_date     = {{Birth date and age|df=yes|2003|5|8}}
+| birth_place    = 
+| height         = 
+| position       = [[Midfielder]]<ref name=SW>{{Soccerway|accessdate=22 September 2021}}</ref>
+| currentclub    = [[FC Levante Las Planas|Levante Las Planas]] Juvenil A
+| clubnumber     = 
+| youthyears1    = 
+| youthclubs1    = [[FC Levante Las Planas|Levante Las Planas]]
+| collegeyears1  = 
+| college1       = 
+| collegecaps1   = 
+| collegegoals1  = 
+| years1         = 
+| clubs1         = 
+| caps1          = 
+| goals1         = 
+| nationalyears1 = 2018
+| nationalteam1  = [[Andorra women's national under-17 football team|Andorra U17]]
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2  = [[Andorra women's national football team|Andorra]]
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| pcupdate       = 
+| ntupdate       = 18 September 2021.
+}}
+[[File:Maria Moles Farré 01.jpg | thumb | 220x124px | right]]
+'''Maria Moles Farré''' (born 8 May 2003) is an Andorran [[women's association football|footballer]] who plays as a [[midfielder]] for the youth team of Spanish club [[FC Levante Las Planas]] and the [[Andorra women's national football team|Andorra women's national team]].
+
+==Club career==
+Moles is a product of [[FC Levante Las Planas|Levante Las Planas]] in Spain.
+
+==International career==
+Moles capped for Andorra at senior level in a 4–2 [[Exhibition game|friendly]] away win over [[Liechtenstein women's national football team|Liechtenstein]] on 18 September 2021.<ref>{{Cite web|url=https://www.lfv.li/nationalmannschaften/spielbericht?cfc_league_fe%5BmatchId%5D=179758&cHash=83ea0d30b7e7f9dd485ef972cee5dc55|title=Spielbericht|website=Liechtenstein Football Association|language=de|date=18 September 2021|accessdate=22 September 2021}}</ref>
+
+==See also==
+*[[List of Andorra women's international footballers]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Instagram}}
+
+{{DEFAULTSORT:Moles, Maria}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Andorran women's footballers]]
+[[Category:21st-century Andorran people]]
+[[Category:Women's association football midfielders]]
+[[Category:Andorra women's international footballers]]
+[[Category:Andorran expatriate women's footballers]]
+[[Category:Andorran expatriate sportspeople in Spain]]
+[[Category:Expatriate women's footballers in Spain]]
+[[Category:Andorran people of Catalan descent]]
+[[Category:FC Levante Las Planas players]]
+
+
+{{Andorra-women-footy-bio-stub}}

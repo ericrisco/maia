@@ -139,8 +139,44 @@ surten de la Viquipèdia; d'una se'n va guardar còpia i de l'altra no.**
 **Mentre no n'hi hagi, cap xifra d'aquesta subbranca no es pot tornar a
 comprovar sense sortir del corpus.**
 
-**Buit prioritari i barat**, i **és un sol buit, no trenta-sis**: **baixar els
-articles i posar-los a `raw/`.**
+~~**Buit prioritari i barat**, i **és un sol buit, no trenta-sis**: **baixar els
+articles i posar-los a `raw/`.**~~ — **`resolt` el 18-09-2026: baixat.**
+`docs/raw/web/esport/atletes-femeni/` **té ara vuit fitxers en wikitext cru**,
+el mateix format que la branca masculina.
+
+**I la baixada dona tres respostes que el buit no esperava.**
+
+**Primera: no hi havia trenta-sis articles per baixar.** **N'hi ha cinc.**
+**Comprovat contra l'API de la Viquipèdia en català i en anglès el
+18-09-2026**: **de les quaranta-dues jugadores amb fitxa al corpus, només
+Margot Llobera, Maria Moles, Maria Ruzafa, Marina Fernández i Teresa Morató en
+tenen article propi.** **Les altres trenta-set no existeixen com a article.**
+**El buit no era de baixada: era de font.**
+
+**Segona: la llista d'internacionals només té sis noms.** Ainhoa Fernández,
+Marina Fernández, Margot Llobera, Maria Moles, Teresa Morató i Maria Ruzafa.
+**Les altres trenta-sis fitxes del corpus surten de la plantilla de la
+selecció**, que **en llista trenta-dues i no dona partides de cap.**
+
+**Tercera, i és una contradicció dins de la mateixa font:**
+
+| Jugadora | Fitxa pròpia | Llista d'internacionals |
+| --- | ---: | ---: |
+| Margot Llobera | **3** | **3** |
+| Marina Fernández | **3** | **6** |
+| Maria Moles | **3** | **1** |
+| **Maria Ruzafa** | **38** | **5** |
+| Teresa Morató | **no consta** | 3 |
+
+**La fitxa pròpia de Maria Ruzafa li dona 38 internacionalitats i 5 gols; la
+llista, 5 i 0.** **Un factor de set i mig, a la mateixa Viquipèdia.** `El
+corpus no arbitra i no cita cap de les dues: la fitxa pròpia no diu per quina
+selecció són les 38 i la llista es declara «non-exhaustive». Registrat a
+docs/raw/web/esport/atletes-femeni/README.md.`
+
+**El que segueix obert, i ara amb la mida exacta**: **les partides de les
+trenta-sis jugadores que no tenen article no són enlloc de la Viquipèdia**, i
+**només les pot donar la Federació Andorrana de Futbol.** `font_externa`
 
 ## Related
 
