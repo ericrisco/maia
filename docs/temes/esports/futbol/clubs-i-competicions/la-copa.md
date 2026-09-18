@@ -169,10 +169,15 @@ Andorra la Vella». Aixovall és a Sant Julià de Lòria.`
   1995**. **Falta saber com es deia la competició el 1991.**
 - ~~**La Supercopa Andorrana**, que existeix i el corpus no en té ni una dada.~~
   `resolt`: **vint-i-quatre edicions des del 2003**, a dalt.
-- **El CE Principat**, que **va guanyar les cinc primeres copes oficials sense
-  perdre'n cap i ja no existeix.** **Cap fitxa al corpus.**
-- **La Constel·lació Esportiva**, campiona el 2000, i **la UE Extremenya**,
-  finalista el 2022: **cap de les dues no té fitxa.**
+- ~~**El CE Principat**, que **va guanyar les cinc primeres copes oficials sense
+  perdre'n cap i ja no existeix.** **Cap fitxa al corpus.**~~ **`parcial`:**
+  [*Els clubs*](./els-clubs.md) en documenta la fundació, l'origen, els títols,
+  la trajectòria europea i la desaparició; encara no hi ha fitxa monogràfica.
+- ~~**La Constel·lació Esportiva**, campiona el 2000, i **la UE Extremenya**,
+  finalista el 2022: **cap de les dues no té fitxa.**~~ **`parcial`:**
+  [*Els clubs*](./els-clubs.md) ja en documenta la fundació, el paper a la Copa
+  i la desaparició o continuïtat; encara no hi ha fitxa monogràfica de cap de
+  les dues.
 
 ## Related
 
