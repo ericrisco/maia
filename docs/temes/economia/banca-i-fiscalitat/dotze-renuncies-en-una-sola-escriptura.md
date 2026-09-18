@@ -239,7 +239,8 @@ comptar.**
 
 ## Buits registrats
 
-1. **Els «*llibres dels tersos de las Curias*»** — **la sèrie segueix sense
+1. ~~**Els «*llibres dels tersos de las Curias*»**~~ — **`parcial` el
+   18-09-2026**: **la sèrie segueix sense
    veure's, però el 16-09-2026 se sap què hi anava i se'n té el formulari.**
    **El mot**: el [DCVB](../../../fonts/dcvb.md) remet `ters` a **`terç`**, i
    **l'*escriptura de terç* és l'instrument pel qual les parts se sotmetien a la
