@@ -219,9 +219,26 @@ acta amb els motius**. **Un vot entre molts, i el que pot aturar-ho tot.**
 
   **El dret de vet de l'article 5.4 és la peça que val la pena retenir**:
   **un sol membre de tot el Comitè pot aturar indefinidament qualsevol acord**,
-  i **és el del Govern.** **L'escola és formalment autònoma i materialment
-  no.**
-- **Si continua sent obligatori el 2026.**
+i **és el del Govern.** **L'escola és formalment autònoma i materialment
+no.**
+
+## El reglament vigent manté l'obligació
+
+El **Decret 391/2025, del 29 d'octubre**, aprova el reglament més recent que el
+corpus conserva ([text local](../../../raw/societat/esqui-escolar/reglament-2025-11-04.txt)).
+L'article 1 manté l'esquí escolar com a **activitat física obligatòria** per a
+tots els alumnes de **primera ensenyança andorrana**, d'**élémentaire francès**
+i de **primària espanyola**; a segona ensenyança continua sent opcional.
+
+La mateixa norma concreta la seguretat: els centres han de comprovar una
+assegurança per a tots els alumnes i contractar responsabilitat civil per als
+acompanyants (art. 16); les activitats es fan dins pistes abalisades, amb casc
+obligatori en l'esquí alpí i protector d'esquena obligatori per als alumnes
+(art. 17); i el ministeri o els centres poden anul·lar l'activitat per temps,
+carreteres, accessos o instal·lacions (art. 18).
+- ~~**Si continua sent obligatori el 2026.**~~ — **`resolt` el 18-09-2026**:
+  el **Decret 391/2025** manté l'obligatorietat a primera ensenyança dels tres
+  sistemes educatius.
 - ~~Qui ho paga~~ — **tancat**: **el Govern d'Andorra**, també per als alumnes
   dels sistemes espanyol i francès
   ([l'ensenyament espanyol](./lensenyament-espanyol.md)). **Queda obert què
@@ -229,8 +246,11 @@ acta amb els motius**. **Un vot entre molts, i el que pot aturar-ho tot.**
 - **Com se'n parla**: el lèxic andorrà de l'esquí i de la neu no està al corpus.
   **Buit important per a la fase 3** — és vocabulari que tot el país té i que
   un model general no tindrà en la forma andorrana.
-- **Els accidents i la seguretat**: una activitat obligatòria de muntanya per a
-  sis mil menors deu tenir una regulació que el corpus no coneix.
+- ~~**Els accidents i la seguretat**~~ — **`parcial` el 18-09-2026**: el
+  reglament del 2025 fixa assegurances, ràtios d'acompanyament, pistes
+  abalisades, casc, protector d'esquena i protocol d'anul·lació. **No és una
+  sèrie d'accidents ni permet quantificar sinistres**, que continua fora de la
+  font.
 
 ## Related
 
