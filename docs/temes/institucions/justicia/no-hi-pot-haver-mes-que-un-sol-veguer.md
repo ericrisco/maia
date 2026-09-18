@@ -279,7 +279,42 @@ vestit*». La font hi respon:**
    arrendar l'ofici. **La font ho diu en condicional i no els cita.**
 9. **Les Corts de 1444**, amb un *gerent de la Vigueria* i un lloctinent. **El
    corpus no té aquest càrrec en cap altra font.**
-10. **El *Politar*, pp. 173, 177 i 180**, sobre la instal·lació dels Veguers.
+10. **El *Politar*, p. 173.** — **Les pp. 177 i 180, `resoltes` el 18-09-2026, i
+    la instal·lació té dos juraments, no un.**
+
+    **P. 177 — la presa de possessió**: **«Deuhen en lo ingres del empleo
+    presentar lo titol de sa nominacio **al Concell General** y prestar lo
+    acostumat jurament, y de resultas pendra possessio de son carrech, ***ex
+    privilegio et observancia***.»** **El Veguer nomenat per un príncep presenta
+    el títol al Consell General de l'altra part**, i **el fonament que el Politar
+    hi posa no és el nomenament sinó el privilegi i l'observança.**
+
+    **I un segon jurament, cada vegada que s'obren Corts**: **«Deuhen en la
+    obertura de Corts prestar ayxi mateyx jurament de **concervar a les Valls
+    tots y quiscun de sos privilegis**»**, i **no només de no vulnerar-los ell
+    sinó de **no consentir que ningú els trenqui**.**
+
+    **P. 179 — què poden fer**: ordenar sota **«penas pecuniarias, afflictivas de
+    cos y de mort, per privilegi concedit»**, i **sempre «conjunctament per
+    indivis o en nom delsdits dos Senyors Princeps»**; **cadascun pot decretar
+    sol, «pero sempre per indivis», provisionalment fins a les primeres Corts.**
+
+    **P. 180 — què no poden fer**, i la llista val per ella mateixa: **no poden
+    arrendar el seu càrrec** (sota pena de nul·litat i vacació), **no poden fer
+    composicions secretes**, **no poden defraudar-se l'un a l'altre**, **no poden
+    impedir als pròmens de fer d'advocats i raonadors dels pobres**, **no poden
+    endur-se la tercera part del que es plede «com feyen antigament»**, **no
+    poden ordenar res sobre camins, boscos, aigües, comunals, hostals, taverns,
+    fleques, carnisseries, pesos, mesures, metges, cirurgians i apotecaris,
+    preus, quèsties, talles, estranys, ports, lleudes ni servituds**, **no poden
+    executar amb sentència de sang qui no tingui dotze anys complerts**, i **no
+    poden fer firmar dret a les mullers pels seus marits**.
+
+    > **La llista és, llegida al revés, l'inventari de les competències del
+    > Consell General**, i **el Politar ho diu tot seguit**: els Veguers **«ans be
+    > deuhen, quant requerits sian, donar tota ajuda, auxili y socos al Concell
+    > General per millor fer tenir y valer ses ordinacions»**, **«y molt en
+    > particular los camins reals»**.
 11. **Els *rahonadors*, l'agutzil i els escrivans de les Corts**: **el corpus té
     el *rahonador* al glossari i no sap què feien els altres dos al tribunal.**
 

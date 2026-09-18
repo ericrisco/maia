@@ -317,7 +317,39 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
    té dos casos a dos-cents seixanta-tres anys de distància.**
 8. **Què era «la era de la Terra»** on es reunien el jutge i el Consell el 1495.
 9. **Si l'acumulació de Síndic i capità general del 1758 era habitual.**
-10. **El *Politar*, pp. 171, 179-180 i 264.**
+10. ~~**El *Politar*, pp. 171, 179-180 i 264.**~~ — **`resolt` el 18-09-2026, i
+    la p. 264 porta la frase que dona títol a aquesta fitxa, en el català de
+    1763.**
+
+    > «**Se elegeyxen quiscun any ***mostafas*** en las parroquias, que **zelien
+    > la bondat del vi dels hostals y tabernas** y **posen lo preu a les
+    > fruites**.**»
+
+    **Elecció anual, parròquia per parròquia, i dues funcions: la qualitat del vi
+    i el preu de la fruita.** **El corpus ho tenia per Brutails; ara ho té del
+    text que Brutails llegia.**
+
+    **I la mateixa pàgina posa el mostassaf dins un sistema de control econòmic
+    més ample**, amb tres peces més:
+
+    - **Comissaris de satisfacció**, nomenats «de quant en quant» pel Consell
+      General, **per visitar pesos i mesures, legalitzar-les amb les marques
+      acostumades i prendre les il·legals i falses**, castigant-ne els amos.
+    - **Vigilància dels teixidors de llana i cànem**, «zelant no frauden al
+      publich ab lo teyxir dels draps o en les medides».
+    - **Un dels síndics amb comissió per apujar o abaixar als hostalers i
+      taverners el preu del pa, del vi i de l'oli «segons las circunstancias del
+      temps»**, i **l'*afor* anual del blat venut a fiar.**
+
+    > **El mostassaf andorrà no és, doncs, una curiositat local**: **és l'esglaó
+    > de parròquia d'un control de preus i mesures que té comissaris al Consell
+    > General i un síndic amb poder de fixar preus.**
+
+    **Les pp. 179 i 180 donen el contrapès institucional**: **entre el que els
+    Veguers *no poden* fer hi ha precisament «ordenar cosas acerca […]
+    arrendaments de ostals, tabernas, fleques, carniceries, pesos, mesuras […]
+    treta de grans, preus de ells»**. **El control de preus és del Consell, i als
+    Veguers els és prohibit tocar-lo.**
 
 ## Related
 
