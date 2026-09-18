@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1043** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1044** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1395,6 +1395,7 @@
 | [L'escola Nostra Senyora de Meritxell](temes/societat/educacio/lescola-nostra-senyora-de-meritxell.md) | `temes/societat/educacio` | compilada | contemporania | no | `serra-educacio-especialitzada` |
 | [L'escola privada](temes/societat/educacio/lescola-privada.md) | `temes/societat/educacio` | compilada | contemporania | no | `valero-escola-privada` |
 | [L'esquí escolar](temes/societat/educacio/lesqui-escolar.md) | `temes/societat/educacio` | compilada | contemporania | no | `bastida-roser-ensenyament-andorra` |
+| [Quatre mil cent quinze ajudes](temes/societat/educacio/quatre-mil-cent-quinze-ajudes.md) | `temes/societat/educacio` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/esport
 
