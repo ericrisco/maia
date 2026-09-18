@@ -166,8 +166,14 @@ participacions».**
    de Paquita Ramírez al gegant de Vancouver 2010 és el millor resultat
    paralímpic d'hivern d'Andorra: «Their best finish at the Winter Games was in
    2010, when Paquita Ramirez Capitan was ninth in the women's Giant Slalom».`
-5. **La FADEA**: **quan es crea, quanta gent hi ha federada i com es finança.**
-   `Requereix fadea.ad o el Comitè Olímpic Andorrà.`
+5. ~~**La FADEA**: **quan es crea, quanta gent hi ha federada i com es
+   finança.**~~ — **`parcial` el 18-09-2026**: `fadea.ad` no publica cap
+   d'aquestes dades. **Cota inferior trobada al BOPA**: la Federació
+   Andorrana d'Esports Adaptats ja rebia una ajuda pública de **55.000 €**
+   com a entitat «legalment constituïda» el **14-12-2011**
+   ([font](../../../fonts/bopa-edicte-2011-ajudes-esportives.md)) — no és
+   la data de creació, només confirma que existia abans del 2011. **La
+   xifra de federats i el finançament actual segueixen sense localitzar-se.**
 6. ~~**Òscar Espallargas**, que la pàgina del 2018 cita en referència sense
    explicar quin paper hi té.~~ — **`parcial` el 18-09-2026**, i **el que es pot
    dir amb precisió és això**: **la referència és una de les tres que sostenen
