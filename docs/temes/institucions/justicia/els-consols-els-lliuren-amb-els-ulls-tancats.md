@@ -293,7 +293,43 @@ sencera, amb el que la font hi afegeix:**
    **Prioritat màxima.**
 6. **Els decrets i sentències del 1876 (3 d'abril i 19 d'abril), 1877, 1887, 1893
    i 1899** sencers.
-7. **El *Politar*, pp. 252 i 253.**
+7. ~~**El *Politar*, pp. 252 i 253.**~~ — **`resolt` el 18-09-2026, i les dues
+   pàgines donen el mecanisme sencer.**
+
+   **Primer, la delegació.** **El Consell General, «desde molt temps de la
+   antiquitat fins al present», delega «moltas de sas facultats en las cosas que
+   requereyxen y demanan un prompte espedient a son Sindich o Sindichs»**, que
+   **convoquen consell extraordinari quan cal**, **escriuen i reben cartes**, i
+   **donen «sas penas del cot de la terra ab lo *supersedeatur* o sobreseguis
+   sens innovar cosa, fins al proxim concell de la Terra»**. **El síndic n'ha de
+   donar relació al Consell següent.**
+
+   **Segon, el cas d'escola**, que és una servitud de pas: **Pere passa pel prat
+   de Joan dient que hi té camí; Joan el fa bandejar «fins a 3 vegades (y no mes,
+   pues tot lo demes es abus)»; Pere no s'atura; Joan va a un dels cònsols o al
+   síndic, i aquests manen sobreseure sens innovar «en pena del cot de la Terra»
+   fins que el Consell provisioni.**
+
+   **Tercer, i és el que aquesta fitxa necessitava: el límit dels tres bans, amb
+   la raó escrita.**
+
+   > «**No se permetra se describescan mes de 3 bans respecte a una mateyxa
+   > persona, cosa y questio**, **anullant en lo Concell tots los demes com a
+   > nullament fets passant de 3**, per que altrament serie una confusio y
+   > **proces en infinit**, cosa digna de irrisio y burla; pues la una part no
+   > voldria moltas vegadas deyxar de usar de son dret, passant, (per exemple,
+   > **mil vegadas en un dia**), per un predi o camp, lo possessor li faria per
+   > cada vegada describir un ban, y per conseguent **mil bans en un dia**, y lo
+   > endema altres tans, **cosa que seria la mes diforme que may se hagues
+   > vist**.»
+
+   **El tres no és cerimònia: és un tallafoc contra el procés infinit.**
+
+   **I el text avisa els cònsols i el síndic de l'altra cara**: que les parts
+   **«turben la possessio pacifica, procurant en ferse reos en les causes, ayxis
+   com debien ser actors»**, i que per això han de procedir «ab molta maduresa y
+   reflecsio», perquè **«serie facil secundar y sufragar moltes vegades a la mera
+   malicia y no justicia de las parts»**.
 8. **Quan es va deixar d'exigir els tres *bandejaments*** previs a l'ordre.
 9. **Quantes vegades el Consell General va atribuir una causa a una jurisdicció
    prohibint a l'altra de conèixer-ne.** **La font diu que ho fa «de bon grat» i

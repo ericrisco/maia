@@ -269,9 +269,20 @@ sencera:**
 9. **Com es concilien el decret de 1893**, que remet un afer de danys a la
    visura, **amb les sentències de 1875**, que declinen els danys. **La font no
    ho fa.**
-10. **Què vol dir exactament «causes urbanes»** en aquestes fórmules, **si la
-    competència és de servituds rústiques i urbanes.** **El corpus té quatre noms
-    per a la mateixa jurisdicció i cap definició que els reculli tots.**
+10. ~~**Què vol dir exactament «causes urbanes»** en aquestes fórmules.~~ —
+    **`resolt` el 18-09-2026 amb exemples del *Politar*, p. 253.** **El text
+    tracta primer una servitud rústica —el dret de pas per un prat— i després hi
+    equipara expressament les urbanes**: «*Lo que se ha dit en est cas de
+    **servitut rustica**, entenga s' tambe dit en los casos de **servituts
+    urbanes**, com son: **posar una fusta en paret agena**, **llansar la gotera o
+    aygua dins de la casa o corral ageno**, &c.*»
+
+    **«Urbà» no vol dir «de vila»: vol dir de paret i d'edifici.** **La distinció
+    és la romana** —servituds *rusticae* sobre el fons, *urbanae* sobre la
+    construcció—, i **el que el Politar hi afegeix són els dos casos andorrans
+    concrets**: **la biga recolzada a la paret del veí** i **el ràfec que aboca
+    l'aigua al corral de l'altre**. **La competència és la mateixa per a totes
+    dues**, que és el que aquesta fitxa necessitava saber.
 
 ## Related
 
