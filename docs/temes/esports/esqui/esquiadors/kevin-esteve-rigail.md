@@ -59,7 +59,7 @@ Andorra.
   DE TRENCAR-SE EL GENOLL EL 2014.** **No és una reconversió d'ofici: és una
   lesió.**
 - **Naixement: Andorra, 27 de desembre del 1989**, **180 cm i 80 kg.**
-  **El camp `birth_place` diu «Andorra» i cap parròquia.**
+  **El camp `birth_place` diu «Andorra» i cap parròquia**: **quina parròquia.**
 - **El golf andorrà sencer**: federació, camps, quanta gent.
 
 ## Related

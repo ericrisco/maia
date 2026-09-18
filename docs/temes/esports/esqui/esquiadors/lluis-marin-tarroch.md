@@ -82,7 +82,7 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
   acabar 34è.** **I hi va ser l'abanderat d'Andorra a la cerimònia
   d'obertura** — vegeu la divergència registrada a
   [Mireia Gutiérrez](./mireia-gutierrez.md).
-- **Naixement**: **Andorra la Vella, 12 d'octubre del 1988.**
+- **Naixement**: **Andorra la Vella, 12 d'octubre del 1988.** `no-es-buit`
 - ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Que un bolcat datat no digui què ha passat després no és un buit
   d'aquest corpus: és el que significa tenir data.** **L'enunciat es
