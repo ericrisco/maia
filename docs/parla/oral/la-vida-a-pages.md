@@ -202,6 +202,8 @@ diferents i totes dues es resolen escoltant**, no raonant.
    no és res. **No es pot decidir sense sentir-ho.**
 5. **Els titubeigs s'han perdut.** Whisper no els transcriu. Aquesta peça, per
    tant, **no serveix per estudiar disfluència**, encara que sigui parla.
+   `no-es-buit`: és una limitació tècnica de la transcripció, no una pregunta
+   pendent.
 6. **`[?àrguens]` a 00:05:34 i `[?àrgens]` a 00:10:29**: la mateixa paraula,
    dues grafies. Almenys una és error de màquina.
 

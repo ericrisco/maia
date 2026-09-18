@@ -476,7 +476,8 @@ tot.
 
 1. **Les 370 marques no s'han verificat.**
 2. **`endorrans` no és evidència fonètica.** Veure sobre. **No s'ha de citar com
-   a pronúncia documentada.**
+   a pronúncia documentada.** `no-es-buit`: és un avís d'ús de la transcripció,
+   no una pregunta pendent.
 3. **`[?retisents]`** (×3) és probablement *reticents*. Marcat.
 4. **`[?quiniela]`**: se sap què vol dir pel context —el vot antic— però **no
    s'ha contrastat amb cap descripció del sistema electoral d'abans del 1993**.
