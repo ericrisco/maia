@@ -105,6 +105,6 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
   corpus no sap quin criteri fa servir la font per identificar-los.**
   `pregunta_oberta`
 - **La font barreja dos noms per a la mateixa parròquia** a la taula de pobles.
-  Registrat a `docs/raw/estadistica-api/poblacio/README.md`.
+  Registrat a `docs/raw/estadistica-api/poblacio/README.md`. `no-es-buit`
 - **Aquestes xifres són de padró, no d'estimació de població.** Les dues sèries
   no donen el mateix ([qui compta com a resident](./qui-compta-com-a-resident.md)).
