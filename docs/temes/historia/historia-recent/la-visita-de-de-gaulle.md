@@ -125,7 +125,11 @@ pròpia cobertura sanitària.**
 - **Si les revocacions del Consell General són una o dues** — 1945, 1967, o
   totes dues.
 - **El reportatge del Diari d'Andorra** que la font cita.
-- **La CASS**: el corpus no en té fitxa pròpia.
+- ~~**La CASS**: el corpus no en té fitxa pròpia.~~ — **`resolt` el
+  18-09-2026**: **sí que en té**, i extensa:
+  [la CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md)
+  i [què mesuren els deu dies de la CASS](../../societat/sanitat/que-mesuren-els-deu-dies-de-la-cass.md).
+  **La fitxa d'aquest article no ho sabia.**
 
 ## Related
 
