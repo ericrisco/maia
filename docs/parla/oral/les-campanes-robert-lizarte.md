@@ -542,7 +542,8 @@ més consistent del corpus**. Es tanca escoltant.
    `no-es-buit`: és un avís d'interpretació, no una pregunta pendent.
 3. **Les inscripcions llatines de les campanes** —`[?Vox] Domini Sona`,
    «Tempestate Fujita»— **estan mal transcrites** i no s'han comprovat contra cap
-   catàleg campanològic. El corpus **no les ha de citar**.
+   catàleg campanològic. El corpus **no les ha de citar**. `no-es-buit`: és un
+   avís de citabilitat, no una pregunta pendent.
 4. **`Comú [?d'en] Camp`** és *Comú d'Encamp*: la màquina hi talla el topònim,
    igual com feia `en Gordany` per *Engordany* a la [tanda 2](un-raco-descaldes.md).
    **És el mateix error sistemàtic amb topònims andorrans**, ara confirmat en dues
