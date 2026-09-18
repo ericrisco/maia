@@ -308,7 +308,12 @@ administracions públiques, S.13)*
    sota un sol títol** —les tres files de «taxa d'ocupació per nivell d'educació
    assolit» sumen 100,0—. **Tots dos defectes queden registrats al README del
    bolcat.**
-5. **Els altres nou petits estats europeus** del mateix volum, encara no llegits.
+5. ~~**Els altres nou petits estats europeus** del mateix volum, encara no
+   llegits.~~ **`no-es-buit` el 18-09-2026**: aquesta ponència del Departament d'Estadística
+   només compara **sis estats** —Luxemburg, Malta, Andorra, Mònaco,
+   Liechtenstein i San Marino—. Les altres ponències de la 28a Diada són unitats
+   de font separades i el seu estat de lectura es registra a la fitxa mare
+   ([Andorra com a microestat](./andorra-com-a-microestat.md)).
 
 ## Related
 
