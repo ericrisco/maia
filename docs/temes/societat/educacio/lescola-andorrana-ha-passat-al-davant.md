@@ -127,6 +127,26 @@ de nacionalitat.`
 **I «Altres» es dobla en un sol curs**: **635 el 2021/22 i 1.283 el 2022/23**,
 **+102,0%**. `La nota no ho comenta.`
 
+## La creuada que faltava
+
+La **divisió 256** permet creuar sistema i nacionalitat per al període **2023**,
+que és el que la nota presenta com a curs **2023/24**. `Altres` és el residual:
+el total del sistema menys les quatre nacionalitats que la nota nomena.
+
+| Sistema | Andorrana | Espanyola | Portuguesa | Francesa | Altres | Total |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Andorrà** | 3.465 | 531 | 109 | 24 | 571 | **4.700** |
+| **Francès** | 2.532 | 206 | 67 | 198 | 370 | **3.373** |
+| **Espanyol** | 2.053 | 453 | 29 | 20 | 492 | **3.047** |
+| **Anglès** | 116 | 57 | 1 | 7 | 71 | **252** |
+| **Total** | **8.166** | **1.247** | **206** | **249** | **1.504** | **11.372** |
+
+**La taula respon la pregunta que el cos deixava oberta**: dels **8.166
+andorrans**, **3.465** van al sistema andorrà, **2.532** al francès, **2.053**
+al sistema espanyol i **116** a l'anglès. La resta de files també coincideixen
+amb els totals publicats. [El bolcat local](../../../raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv)
+conserva les categories originals; el residual és un càlcul del corpus.
+
 ## Per nivell
 
 Del 2022/23 al 2023/24: **batxillerat +10,6%** (117 alumnes més) i **segona
@@ -159,12 +179,10 @@ que el corpus té de demografia
 - ~~**Els cursos entre el 2007 i el 2019/20.**~~ — **`resolt` el 18-09-2026**:
   la divisió 253 de l'API d'Educació dona el pont anual complet **2007–2019**;
   el darrer valor coincideix amb el **2019/20** ja publicat a la nota.
-- **La taula creuada de sistema per nacionalitat del 2023/24.** La nota dona les
-  dues distribucions **per separat** i **no la creuada**, que és justament el
-  que fa valuosa la taula de 1999-2000. `Sense ella no es pot dir quants
-  andorrans van avui a escola francesa.` **Prioritari**: és la continuació
-  directa de la pregunta que dona títol a
-  [els andorrans estudiaven sobretot en escoles franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md).
+- ~~**La taula creuada de sistema per nacionalitat del 2023/24.**~~ —
+  **`resolt` el 18-09-2026** amb la divisió 256 de l'API d'Educació: **2.532
+  andorrans** són al sistema francès, **2.053** a l'espanyol, **3.465** a
+  l'andorrà i **116** a l'anglès.
 - **Quin és el centre anglès** i des de quan. La nota diu «un centre escolar
   anglès» i no el nomena.
 - **Què hi ha dins d'«Altres»**, que ja és la segona nacionalitat del sistema.
