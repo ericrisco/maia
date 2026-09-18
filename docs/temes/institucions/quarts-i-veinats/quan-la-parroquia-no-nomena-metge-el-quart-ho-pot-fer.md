@@ -358,12 +358,14 @@ representació**, com a la renovació del comú.
    font deixa sense situar al calendari.**
 7. **Si els cinc consells ordinaris es fan avui**, i **amb quins noms.** **El
    corpus té la sèrie del 1918 i res del segle XXI.**
-8. **La composició del comú, un altre cop.** **Aquesta font diu deu consellers;
+8. ~~**La composició del comú, un altre cop.**~~ **Aquesta font diu deu consellers;
    Brutails, el 1904, en donava dotze i deia que Canillo n'elegia divuit; i tots
    dos observen que l'article 8è de la Reforma «dona a entendre» que són deu.**
    **Que dos autors facin la mateixa inferència i posin la mateixa excepció de
    Canillo no és una confirmació doble**: `pot ser que el segon hagi llegit el
-   primer.` **Registrat com a concordança, no com a prova.**
+   primer.` **Registrat com a concordança, no com a prova.** — **`parcial`: dues
+   fonts coincideixen en la inferència de deu, però la divergència amb els
+   dotze de Brutails i l'excepció de Canillo continua oberta.
 9. **Qui són els «escritores que estudian su Derecho»** que fan de detractors dels
    quarts. **No en nomena cap.**
 10. **García Ramos**, *Arqueología jurídico-consuetudinaria-económica de la región
