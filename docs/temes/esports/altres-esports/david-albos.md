@@ -89,9 +89,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - **L'Agrupació Ciclista Andorrana**: què és, quan es crea, qui hi corre.
   **Buit registrat: és el primer equip nacional d'Andorra de cap esport que el
   corpus pot anomenar fora del futbol i del bàsquet.**
-- **El ciclisme andorrà sencer**, que ara ja té tres noms:
+- ~~**El ciclisme andorrà sencer**, que ara ja té tres noms:
   [Emili Pérez](../estiu/emili-perez.md),
-  [Xavier Pérez](../estiu/xavier-perez.md) i ell.
+  [Xavier Pérez](../estiu/xavier-perez.md) i ell.~~ **`parcial`:** el
+  corpus ja enllaça aquests tres ciclistes, però això encara no és un inventari
+  complet de la disciplina.
 
 ## Related
 
