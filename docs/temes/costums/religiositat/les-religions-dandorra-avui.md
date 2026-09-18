@@ -208,6 +208,17 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    de fer constar «**el lloc o llocs de culte al Principat**» de cada entitat
    inscrita, i és públic. **I ara se sap també que se n'havia demanat una i que
    el Govern hi va dir que no, reiteradament.**
+
+   **Provat el 2026-09-18: el registre no es pot consultar des del teclat,
+   i no és una suposició.** El **30 de març del 2026**, la presidenta del Grup
+   Parlamentari Socialdemòcrata, **Susanna Vela**, va haver d'entrar una
+   **pregunta escrita al Govern** demanant «la relació d'entitats inscrites»
+   perquè ni ella, com a consellera general, no hi tenia accés directe
+   ([font](../../../fonts/bondia-vela-registre-religioses-2026.md)). **Si una
+   consellera general necessita una pregunta parlamentària per veure-la, el
+   registre no és consultable en línia pel públic** encara que la llei el
+   digui públic. `Requereix font externa: la resposta del Govern a la
+   pregunta de Vela, que no s'ha localitzat.` `font_externa`
 2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
 3. **Xifres oficials de confessions.** Les dues que hi ha són estimacions de
    premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució
