@@ -78,10 +78,9 @@ una constitució de disset articles.**
 
 ## El que falta
 
-- **El text dels disset articles.** **Se'n van imprimir deu mil exemplars i el
-  corpus no en té ni una línia literal.** **Buit prioritari, i és material que
-  ha d'existir en arxius espanyols i francesos.** — **`parcial` el
-  18-09-2026**: la Viquipèdia catalana
+- ~~**El text dels disset articles.** **Se'n van imprimir deu mil exemplars i el
+  corpus no en té ni una línia literal.**~~ — **`parcial` el 18-09-2026**:
+  la Viquipèdia catalana
   ([font](../../../fonts/wikipedia-ca-boris-i-dandorra.md)) **no en dona el
   text literal, però sí un resum de cada bloc**: transformava el Consell
   General en parlament, creava un govern de tres ministres, feia el príncep

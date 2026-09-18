@@ -246,8 +246,9 @@ notarials del XV al XVII.**
 1. **Els sis actes datats** —**1456, 1472, 1495, 1499, 1533, 1580**— **sencers.**
    **Brutails no en dona signatura d'arxiu de cap**, fora del de 1580, que situa
    per la mateixa via que els altres. `obert, i és una limitació de la font.`
-2. **El manuscrit de Palmitjavila**, del qual surt el procediment d'execució de
-   l'hostatge. **Amb la divergència de datació sense resoldre.** `parcial.`
+2. ~~**El manuscrit de Palmitjavila**, del qual surt el procediment d'execució de
+   l'hostatge.~~ — **`parcial` el 18-09-2026**: **la divergència de datació
+   continua sense resoldre**.
 3. **Quan es va deixar de pactar l'hostatge a Andorra.** **La font diu que el 1904
    no en quedava memòria i no data la desaparició.** `obert.`
 4. **La clàusula de *constitut* i la de *ters***, que la font presenta com les

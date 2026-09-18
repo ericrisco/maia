@@ -202,16 +202,17 @@ la consciència](../../institucions/justicia/nul-per-al-jutge-valid-per-a-la-con
    una lectura del corpus i no un fet acreditat**: **són tres-cents cinquanta
    anys de distància i el testament és en llatí.** **El buit es tanca de debò
    amb un segon testament andorrà que nomeni *visor*, que el corpus no té.**
-5. **Quantes vegades es van nomenar *marmessors de pietat***, i **si el
-   nomenament el podia demanar algú altre que un capellà.** **Els dos casos que hi
-   ha els presenten un rector i un vicari perpetu.**
+5. ~~**Quantes vegades es van nomenar *marmessors de pietat***, i **si el
+   nomenament el podia demanar algú altre que un capellà.**~~ — **`parcial` el
+   18-09-2026**: **els dos casos del corpus els presenten un rector i un vicari
+   perpetu**, però **no hi ha una sèrie ni un cas demanat per un altre actor**.
 6. **Com es feia públic l'anunci als creditors**: **pregó, edicte, o paraula**.
    **La font diu «porten el fet a coneixement del públic» i no diu com.**
-7. **Si els fills es repartien realment per porcions iguals** en les successions
-   *ab intestat*, **quan el corpus té documentat que el 1783 un batlle va evitar la
-   partició atribuint-ho tot a un sol fill** ([els néts abans que el
-   fill](./els-nets-abans-que-el-fill.md)). **La regla i la pràctica no
-   coincideixen.**
+7. ~~**Si els fills es repartien realment per porcions iguals** en les successions
+   *ab intestat*.~~ — **`parcial` el 18-09-2026**: **el corpus té un cas de
+   1783 en què un batlle va evitar la partició i ho va atribuir tot a un sol
+   fill** ([els néts abans que el fill](./els-nets-abans-que-el-fill.md)); **la
+   regla i la pràctica no coincideixen**.
 8. **Quin llibre de les *Constitucions*** és el que «es redueix gairebé a res» en
    matèria de successions intestades.
 
