@@ -4,7 +4,8 @@ El triple sistema —andorrà, espanyol i francès— conviuen al mateix país. 
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (22)
+## Articles (23)
+- [L'escola andorrana ha passat al davant](./lescola-andorrana-ha-passat-al-davant.md) — El curs 1999-2000 el sistema francès era el més gran i l'andorrà el més petit. El 2023-2024 l'andorrà en té el 41,3% i el francès ha perdut alumnes en termes absoluts.
 - [Educació — el sistema triple](./educacio.md) — Tres sistemes escolars nacionals en un país de 85.000 habitants, i el propi és el més jove dels tres.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — Centre per centre, qui ensenyava què a Andorra el curs 1999-2000.
 - [El marc legal de l'educació](./el-marc-legal-de-leducacio.md) — Un article de Constitució, dues lleis, dos tractats internacionals i una llista de lleis menors: com es fixa per escrit un sistema educatiu de tres caps.

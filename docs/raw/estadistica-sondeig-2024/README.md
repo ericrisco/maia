@@ -100,4 +100,9 @@ la seva API de cerca no retorna les notes.`
   posició inversora.** **Les cinc files d'actius de la PII quadren una per una**;
   **la línia «Béns» no quadra amb les seves dues subpartides** —trenta-dos
   milions— **i sí amb crèdit menys dèbit**. Registrat.
-- A024, A052, A053 i la nota A138 del `20250123` **encara no s'han llegit**.
+- A024 → [L'escola andorrana ha passat al davant](../../temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md).
+  **Nom compost `NP_A024-A025`**, amb la formació professional al mateix
+  document. **Les deu files de total de les dues taules quinquennals quadren
+  exactament.** **El resum intercanvia els percentatges de francesos i
+  portuguesos respecte de la seva pròpia taula**; registrat i no corregit.
+- A053 i la nota A138 del `20250123` **encara no s'han llegit**.
