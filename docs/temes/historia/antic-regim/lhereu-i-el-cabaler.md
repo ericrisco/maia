@@ -317,10 +317,10 @@ algú l'havia escrita.**
    passat de pràctica**, i **situa l'inici del canvi econòmic als anys
    quaranta**. **Entre els anys quaranta i «avui» hi ha la finestra**; **ningú
    no l'ha estrenyt.**
-6. **La llegítima en xifres.** **La fracció sí que se sap** —**l'hereu tres
-   quartes parts, i el quart restant repartit entre tots els fills, ell
-   inclòs**: [els capítols matrimonials](./els-capitols-matrimonials.md)— **però
-   el corpus no té cap cas andorrà on es vegi el repartiment executat.**
+6. ~~**La llegítima en xifres.**~~ **`parcial`**: **la fracció sí que se sap**
+   —**l'hereu tres quartes parts, i el quart restant repartit entre tots els
+   fills, ell inclòs**: [els capítols matrimonials](./els-capitols-matrimonials.md)—,
+   però el corpus no té cap cas andorrà on es vegi el repartiment executat.
 7. El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
    casa*, al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
    **I quatre mots més, des del 2026-09-13**: ***conco***, ***poblador***,
