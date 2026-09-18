@@ -126,6 +126,30 @@ El Departament d'Estadística les publica cada any (activitat **A076**).
 **Amb els monuments, el total puja a 176.254 visitants el 2024** (+4,4%), des
 dels **86.893 del 2020**: **el doble en quatre anys**.
 
+### I amb els anys de més, la frase s'ha de girar
+
+**El 18-09-2026 s'han obtingut els anys 2017-2019** per l'API del Departament
+d'Estadística (divisions 1951 i 1953, font **Departament de Promoció
+Cultural**), **i canvien el sentit de la comparació:**
+
+| Visitants | 2017 | 2018 | **2019** | 2020 | 2022 | 2023 | **2024** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Museus** | 106.944 | 138.730 | **149.679** | 58.650 | 87.875 | 94.576 | **92.583** |
+| **Monuments** | 68.238 | 67.924 | 72.957 | 28.243 | 56.340 | 74.300 | **83.671** |
+| **Total** | 175.182 | 206.654 | **222.636** | 86.893 | 144.215 | 168.876 | **176.254** |
+
+**«El doble en quatre anys» és cert i mesura contra el fons de la pandèmia.**
+Contra el 2019, **els museus del 2024 tenen un 38,1% menys de visitants** i
+**el conjunt un 20,8% menys**. **El 2024 amb prou feines supera el 2017.**
+
+**I els monuments sí que s'han recuperat**: **83.671 el 2024 contra 72.957 el
+2019**, un **+14,7%**. **Els museus, no.**
+
+> **Els museus d'Andorra no han tornat on eren; els monuments sí.**
+
+`La font no separa visitants residents de turistes, i per tant no es pot dir si
+la diferència és de públic local o de visitant.`
+
 **Tres coses que la taula diu i el corpus no tenia.**
 
 **Primera, el museu més visitat del país és una casa pairal.** La **Casa
@@ -160,8 +184,12 @@ visitants** (+17,7%), més que a tots els museus junts.
 - ~~**Les xifres de visitants** de cadascun. **Cap.**~~ — **`resolt` el
   17-09-2026 per la via d'Estadística** (activitat **A076**, nota del
   20-10-2025): vegeu [Quanta gent hi va](#quanta-gent-hi-va).
-  `Segueix obert per als museus que la sèrie no llista —el Museu del Tabac i el
-  Museu de la Ràdio no hi surten— i per als anys anteriors al 2020.`
+  `Segueix obert per als museus que la sèrie no llista: el Museu del Tabac i el
+  Museu de la Ràdio no hi surten.` **Els anys anteriors al 2020 es van tancar el
+  18-09-2026** amb l'API d'Estadística: **2017, 2018 i 2019**, vegeu
+  «[I amb els anys de més](#i-amb-els-anys-de-mes-la-frase-sha-de-girar)».
+  `Del desglossament museu a museu, en canvi, l'API només en dona el total i el
+  tipus d'equipament: els anys anteriors al 2020 no es poden repartir.`
 - **El Museu de les Dues Rodes** i **el Centre de Natura de la Cortinada**, que
   la història esmenta i el llistat no descriu.
 - **Les quatre exposicions fundacionals** —*Andorra Arqueològica* (1985),
