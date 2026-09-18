@@ -64,6 +64,100 @@ La del 2024 la substitueix. Es va aprovar per **25 vots a favor i 3 en contra**
   no és «de la Llengua» sinó **per la Llengua**.)*
 - **Sector privat** i **entorn digital** entren explícitament a l'àmbit.
 
+## La llei del 1999, llegida
+
+> **Llegida el 18-09-2026 al [BOPA](../../../fonts/bopa.md)**, número **2 de
+> l'any 12**, de l'**11 de gener del 2000**
+> (`docs/raw/lleis/bopa/llei-1999-ordenacio-us-llengua-oficial.txt`), **amb la
+> correcció d'errata del 8 de març del 2000** al costat. **Aprovada pel Consell
+> General el 16 de desembre del 1999**, sindicatura de **Francesc Areny Casal**,
+> sancionada per **Jacques Chirac** i **Joan Martí Alanis**.
+
+**El corpus la tenia registrada com a buit perquè no en tenia el text, i el
+buit servia per a una cosa concreta: saber què obligava el taulell abans del
+2024.** **Obligava, i des del primer any.**
+
+### L'obligació d'atendre en català és del 1999, no del 2024
+
+> **Article 20.1**: «**totes les empreses establertes a Andorra han de posar els
+> mitjans per garantir l'atenció al públic en català**.»
+>
+> **Article 20.2**: «Aquesta obligació és **especialment exigible** a
+> professionals lliures o treballadors autònoms, al personal sanitari i personal
+> de serveis socials, i als **establiments turístics i comercials**.»
+>
+> **Disposició transitòria segona**: les empreses tenen **dos anys** des de
+> l'entrada en vigor per destinar a l'atenció al públic personal amb el
+> coneixement de català necessari.
+
+**Això corregeix el que aquesta branca havia hagut d'escriure amb prudència
+mentre no tenia el text.** **El deure d'atendre en català no arriba el 2024:
+és exigible des del 2002**, comptant els dos anys de la transitòria. **El que
+canvia el 2024 no és el deure: és que se sanciona.**
+
+**I l'article 3 el formula com a dret de l'altra banda del taulell**: tothom té
+dret a ser atès i correspost en català «amb qualsevol administració pública […];
+amb els serveis sanitaris i els serveis socials, amb els **professionals
+liberals** i els col·legis que els agrupen, amb les **associacions**, amb les
+**entitats esportives** i amb les **organitzacions empresarials, professionals i
+corporatives**».
+
+**Article 4**: «**Tots els andorrans tenen el deure de conèixer la llengua
+catalana.**»
+
+### El que el 1999 ja manava i el corpus atribuïa al 2024
+
+| Matèria | Article del 1999 |
+| --- | --- |
+| **Atenció al públic de totes les empreses** | **20.1** |
+| **Menús, cartes i llistes de preus** d'hotels, restaurants, bars i cafeteries | **17** |
+| **Noms comercials, denominacions socials i rètols** | **15.1** |
+| **Publicitat**, amb les altres llengües «en lloc secundari» i amb **superfície inferior** | **15.3** |
+| **Etiquetatge** dels productes fets o envasats a Andorra | **16** |
+| **Comunicacions per altaveu**, també a discoteques i estacions d'esquí | **21** |
+| **Contractes de treball, d'adhesió i normats** | **22.1** |
+| **Transport públic** | **19** |
+| **Sanitat, serveis socials i centres penitenciaris** | **18** |
+| **Mitjans de comunicació**, programació i publicitat | **25** |
+
+**Deu matèries, i la 6/2024 no n'estrena cap.**
+
+### Les sancions eren en pessetes
+
+| Infracció | Multa del 1999 |
+| --- | --- |
+| **Lleu** | reprensió privada per escrit o fins a **20.000 PTA** |
+| **Greu** | de 20.001 a **200.000 PTA** |
+| **Molt greu** | de 200.001 a **500.000 PTA** |
+
+**Cinc-centes mil pessetes són uns 3.005 euros.** **El sostre del 2024 és de
+60.000**: **vint vegades més.** **I el mecanisme de sobreseïment que aquesta
+fitxa atribuïa al 2024 ja hi era** —article 39.2: si l'infractor esmena dins
+del termini concedit, **l'expedient s'ha de sobreseure**.
+
+### Tres coses que només són al text del 1999
+
+- **L'article 34.2 obliga el Govern a fer pressió perquè la varietat andorrana
+  entri a l'estàndard i als diccionaris**, i **ho diu vint-i-cinc anys abans que
+  l'article 39.2 de la 6/2024 el repeteixi**: l'òrgan de política lingüística ha
+  de fer les propostes necessàries «prop de les institucions de la llengua
+  catalana […] a fi que **la varietat andorrana, i en general nord-occidental**,
+  de la llengua catalana **tingui més presència en les decisions sobre
+  l'estàndard oral i en els diccionaris**».
+- **L'article 30.2.c mana fer un mapa sociolingüístic i revisar-lo
+  periòdicament**, «per tal d'adequar a la realitat la planificació i la
+  política lingüístiques». **La sèrie d'onades del 1995 al 2018 que el corpus ha
+  buidat és el compliment d'aquest article**
+  ([sis onades en una taula](./sis-onades-en-una-taula.md)).
+- **La disposició transitòria tercera declara topònims oficials, mentre no
+  s'aprovi la toponímia de l'article 14, tots els que figuren a la *Geografia i
+  diccionari geogràfic d'Andorra*, editada pel Consell General el 1977.** **Un
+  llibre com a norma toponímica.**
+
+`El que aquesta lectura deixa obert: si la toponímia de l'article 14 es va
+arribar a aprovar mai, i què va passar amb el mandat de l'article 33.3 de crear
+una comissió amb un funcionari de cada comú.`
+
 ## La lectura
 
 Una llei que obliga a aprendre l'idioma per renovar la residència és una llei
@@ -82,12 +176,14 @@ La duresa de la norma mesura la pressió sobre la llengua. Vegeu
   l'obligació d'atendre en català, mentre que **els bars i restaurants no**.
 - ~~El règim sancionador detallat.~~ **TANCAT.** Queda obert **si s'ha aplicat mai
   des del 2024**.
-- **La Llei d'ordenació de l'ús de la llengua oficial del 1999**, que és la que
-  la 6/2024 substitueix i **la que regia durant tota la sèrie
-  sociolingüística** del 1995 al 2018
-  ([sis onades en una taula](./sis-onades-en-una-taula.md)). **El corpus no en
-  té el text.** **Registrat el 18-09-2026**, i és un buit que impedeix dir què
-  obligava el taulell abans del 2024. `font_externa`
+- ~~**La Llei d'ordenació de l'ús de la llengua oficial del 1999**, que és la
+  que la 6/2024 substitueix i **la que regia durant tota la sèrie
+  sociolingüística** del 1995 al 2018. **El corpus no en té el text.**~~ —
+  **`resolt` el 18-09-2026, el mateix dia que es va registrar**, **al BOPA
+  número 2 del 2000**, vegeu [la llei del 1999, llegida](#la-llei-del-1999-llegida).
+  **I el que en surt canvia una frase d'aquesta branca**: **l'obligació
+  d'atendre el públic en català és de l'article 20 del 1999 i exigible des del
+  2002**, no del 2024.
 - El Servei de Política Lingüística i les campanyes concretes.
 - Els arguments d'Andorra Endavant per votar-hi en contra.
 

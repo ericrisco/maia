@@ -255,11 +255,22 @@ zero no és bo ni dolent per si sol.** **A la perruqueria vol dir simetria** —
 responen com hi parles—; **a l'Administració vol dir que ha deixat de posar
 català per damunt del que rep**, que és una cosa ben diferent.
 
-`L'obligació d'atendre en català la fixa la Llei 6/2024
-([la llei de la llengua](./la-llei-de-la-llengua.md)), sis anys posterior a
-l'última onada d'aquesta taula. El corpus no té el text de la llei d'ordenació
-de l'ús de la llengua oficial del 1999, que és la que regia el 2018, i per tant
-no diu què obligava llavors.`
+> **Esmena del 18-09-2026.** **Aquesta nota deia que l'obligació d'atendre en
+> català la fixa la Llei 6/2024, sis anys posterior a l'última onada, i que el
+> corpus no tenia el text del 1999 per dir què obligava llavors.** **Ara el
+> té, i obligava.**
+>
+> **L'article 20.1 de la Llei d'ordenació de l'ús de la llengua oficial, del 16
+> de desembre del 1999**, diu que «**totes les empreses establertes a Andorra
+> han de posar els mitjans per garantir l'atenció al públic en català**», i **la
+> disposició transitòria segona els donava dos anys.** **L'obligació és
+> exigible des del 2002 i regia les sis onades d'aquesta taula del 2004 ençà**
+> ([la llei de la llengua](./la-llei-de-la-llengua.md)).
+>
+> **Això canvia com s'ha de llegir el diferencial de l'Administració.** **El
+> +12,1 del 2009 i el +0,5 del 2018 no separen un règim sense obligació d'un
+> règim amb obligació: tots dos són sota la mateixa norma.** **El que canvia
+> entre l'un i l'altre no és la llei.**
 
 ## Comprovacions
 
