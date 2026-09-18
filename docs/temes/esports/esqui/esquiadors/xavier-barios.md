@@ -70,7 +70,8 @@ dels dos andorrans no va acabar cap cursa.
 - **I el resultat que la fitxa no tenia**: **el 40è lloc de l'eslàlom gegant de
   Torí 2006 és l'ÚNIC resultat completat que el corpus documenta d'un
   paralímpic andorrà**: **de les quatre proves que va començar entre les dues
-  edicions, tres les va deixar sense acabar.**
+  edicions, tres les va deixar sense acabar.** `no-es-buit`: és una dada ja
+  destil·lada, no una pregunta pendent.
 - **Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
   entrada. — **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
 - **La Federació Andorrana d'Esports Adaptats (FADEA).**
