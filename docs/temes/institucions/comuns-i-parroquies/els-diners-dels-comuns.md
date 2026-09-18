@@ -191,6 +191,85 @@ mirar és el llibre del pressupost**, que **el corpus ja tenia baixat** a
 diferent**, i **abans de declarar tancada una via cal comprovar que s'ha mirat
 el document on hi ha la dada, no el que hi remet.**
 
+## Trenta-set anys de pressupostos comunals
+
+**Afegit el 18-09-2026 per l'API d'Estadística**
+(`docs/raw/estadistica-api/comuns/`, divisions 821-827). **El corpus tenia la
+llei de transferències i la xifra del 2026, i cap sèrie del que gasten els
+comuns.** **Ara en té del 1990 ençà.**
+
+**Pressupost de l'exercici (ingressos), en milions d'euros:**
+
+| Comú | 1990 | 2000 | 2007 | 2012 | 2020 | **2026** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Andorra la Vella** | 7,52 | 23,33 | 48,66 | 32,08 | 49,75 | **60,47** |
+| **Escaldes-Engordany** | 4,60 | 17,62 | 35,18 | 20,70 | 30,26 | **46,56** |
+| **Encamp** | 14,44 | **53,47** | 37,83 | 25,41 | 33,37 | **45,65** |
+| Canillo | 1,07 | 8,14 | 17,37 | 10,57 | 14,84 | **30,17** |
+| La Massana | 1,59 | 10,30 | 20,36 | 11,06 | 14,55 | **28,98** |
+| Sant Julià de Lòria | 1,84 | 9,53 | 16,40 | 11,28 | 15,14 | **24,09** |
+| Ordino | 1,05 | 7,91 | 18,92 | 9,70 | 15,62 | **21,09** |
+| **Tots set** | **32,10** | **130,31** | **194,72** | **120,79** | **173,54** | **257,00** |
+
+`Xifres del "pressupost de l'exercici", que és una de les tres sèries que la
+font publica; les altres dues són la de gestió i la de caixa. Les anteriors al
+2002 surten en euros amb cèntims i són conversions de pessetes i francs: valen
+com a ordre de magnitud, no com a import exacte.`
+
+### La caiguda i els quinze anys per refer-la
+
+**El pressupost conjunt dels set comuns té un màxim el 2007 i un mínim el
+2012**:
+
+| | |
+| --- | --- |
+| **Màxim** | **194,72 M€ (2007)** |
+| **Mínim posterior** | **120,79 M€ (2012)** |
+| **Caiguda** | **−38,0% en cinc anys** |
+| **Primer any per damunt del 2007** | **2023, amb 204,31 M€** (el 2022 es queda a 188,96) |
+
+**Els comuns andorrans van perdre gairebé quatre de cada deu euros del seu
+pressupost entre el 2007 i el 2012**, i **van trigar setze anys a superar la
+xifra del 2007**: **el 2022 encara hi eren per sota.** `La llei de transferències del 2017 indexa la transferència
+estatal al PIB i diu expressament «o disminueix»; la caiguda comunal és
+anterior a aquella llei i el corpus no ha comprovat quina part del sotrac ve de
+transferències i quina d'ingressos propis.`
+
+### Encamp, els dos anys que no s'assemblen a cap altre
+
+| Any | Encamp |
+| --- | ---: |
+| 1999 | 16,07 M€ |
+| **2000** | **53,47 M€** |
+| **2001** | **56,86 M€** |
+| 2002 | 25,93 M€ |
+
+**El 2000 i el 2001, Encamp té el pressupost més gran de totes les
+parròquies** —**més del doble que Andorra la Vella**, que aquells anys era a
+23,33 i 21,90 M€— **i l'any següent en perd el 54,4%.** `Dos anys, cap altre
+comú fa res semblant, i la font no ho comenta. El corpus registra l'anomalia i
+no n'afirma la causa.`
+
+### Qui ha crescut més
+
+**Del 1990 al 2026**, el pressupost conjunt es multiplica per **8,0**. **Per
+comú**:
+
+| Comú | Multiplicador 1990 → 2026 |
+| --- | ---: |
+| **Canillo** | **×28,2** |
+| Ordino | ×20,1 |
+| La Massana | ×18,2 |
+| Sant Julià de Lòria | ×13,1 |
+| Escaldes-Engordany | ×10,1 |
+| Andorra la Vella | ×8,0 |
+| **Encamp** | **×3,2** |
+
+**Les parròquies altes són les que més han crescut i Encamp la que menys**,
+**però el 1990 Encamp ja tenia el pressupost més gran del país** —14,44 M€,
+gairebé el doble que Andorra la Vella— **i les altres partien de vora el
+milió.**
+
 ## Buits registrats
 
 - ~~**Quant es transfereix avui**, no consta: la llei dona la xifra del **2018**
