@@ -80,14 +80,61 @@ les estacions andorranes no són ni públiques ni privades, sinó comunals**, i 
 a Andorra Turisme, SAU**, vegeu
 [Qui promociona tot això](#qui-promociona-tot-aixo-i-amb-quants-diners).
 
-**El que segueix obert són les xifres del sector**: **per estació**, visitants,
-facturació, ocupació i llocs de treball. **L'impacte sobre l'habitatge** i **el
+**El que segueix obert són les xifres del sector**: **per estació**,
+facturació, ocupació i llocs de treball. **De visitants del país, ja no**: vegeu
+[Andorra rep menys visitants que fa vint anys](#andorra-rep-menys-visitants-que-fa-vint-anys). **L'impacte sobre l'habitatge** i **el
 debat públic sobre saturació.** **La Cambra de Comerç publica informes econòmics
 anuals que són font primària i no s'han consultat.** **Buit registrat.**
 
 **Per temporada, en canvi, la xifra hi és des del 18-09-2026**, i és de
 **Ski Andorra**: vegeu
 [Vint-i-cinc temporades de dies d'esquí](#vint-i-cinc-temporades-de-dies-desqui).
+
+## Andorra rep menys visitants que fa vint anys
+
+**La sèrie mensual de visitants comença el gener del 1999** i és a l'API
+d'Estadística, repartida en quatre generacions metodològiques —**2002, 2009,
+2012 i 2025**— (divisions **203**, **420**, **657** i **3605**, font
+**Departament de Turisme i Comerç** i **Departament d'Estadística**).
+
+| Any | Visitants | | Any | Visitants |
+| --- | ---: | --- | --- | ---: |
+| 1999 | 9.421.766 | | 2014 | 7.796.770 |
+| 2001 | 11.351.256 | | 2016 | 8.025.265 |
+| 2003 | 11.600.671 | | 2018 | 8.328.254 |
+| **2004** | **11.668.460** | | 2019 | 8.234.993 |
+| 2006 | 10.736.722 | | **2020** | **5.206.632** |
+| 2008 | 10.193.749 | | 2022 | 8.426.708 |
+| 2010 | 8.551.264 | | 2024 | 9.646.656 |
+| 2012 | 7.900.440 | | **2025** | **9.194.340** |
+| **2013** | **7.676.232** | | | |
+
+> **El màxim d'Andorra és el 2004, amb 11.668.460 visitants. El 2025 en rep
+> 9.194.340: un 21,2% menys.**
+
+**La corba té tres trams**: **puja fins al 2004**, **cau un 34,2% fins al 2013**,
+i **des del 2013 remunta** —amb el sotrac de la pandèmia, que la porta a
+**5.206.632 el 2020**, el mínim de vint-i-set anys—. **El 2024 és el millor any
+des del 2008 i encara és un 17,3% per sota del 2004.**
+
+**Val la pena dir-ho amb aquesta precisió perquè el debat públic del país parla
+de saturació.** **En nombre de visitants, Andorra no ha tornat on era.** `El que
+aquestes xifres no diuen és quant gasta cadascú ni quants dies s'hi està, i
+podria ser que el país rebés menys gent i més negoci. La sèrie de despesa no és
+en aquesta divisió.`
+
+### La precaució metodològica, que aquí és gran
+
+**Quatre metodologies en vint-i-set anys**, i **les generacions que se solapen
+no donen el mateix**: per al **2022-2024**, **la metodologia del 2012 dona entre
+un 3,7% i un 5,4% més de visitants que la del 2025**. **La taula de dalt fa
+servir la del 2012 mentre existeix**, que és la que cobreix més anys seguits.
+
+**I entre el tram del 2002 i el del 2012 no hi ha cap any comparable**: la
+generació del 2009 només dura del maig del 2009 al gener del 2012. **El salt de
+10.193.749 (2008) a 8.551.264 (2010) inclou un canvi de mètode i no es pot
+llegir com una caiguda pura.** `El 2009 no hi és perquè es parteix entre dues
+metodologies i cap no en cobreix els dotze mesos.`
 
 ## Vint-i-cinc temporades de dies d'esquí
 
