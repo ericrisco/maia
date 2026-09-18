@@ -44,13 +44,13 @@ Majestat dins una màndorla**, flanquejat per l'arcàngel Miquel i els
 símbols dels quatre Evangelistes, amb apòstols al mur cilíndric.
 **Obra del Mestre de Santa Coloma**, segona meitat del segle XII —
 **el mateix mestre, doncs, que hauria fet la pintura de Santa Coloma**,
-l'altra església del romànic andorrà encara sense fitxa.
+una altra església del romànic andorrà que ja té fitxa pròpia.
 
 ## El que la lliga a les altres
 
 **El campanar comparteix taller amb Santa Coloma; les pintures
 comparteixen mestre amb Santa Coloma.** És l'església que més estreta
-la lliga a l'única de les sis que el corpus encara no ha fitxat —
+la lliga entre dues de les sis fitxes del corpus —
 **els motius decoratius que
 [l'índex del romànic](./romanic.md) ja assenyalava** com a compartits
 entre les tres primeres esglésies es repeteixen, per una altra via,
@@ -58,8 +58,11 @@ aquí.
 
 ## Buits registrats
 
-1. **Santa Coloma i Sant Serni de Canillo**, les altres dues esglésies
-   sense fitxa — aquesta en fa més evident la falta.
+1. ~~**Santa Coloma i Sant Serni de Canillo**, les altres dues esglésies
+   sense fitxa — aquesta en fa més evident la falta.~~ — **`resolt` el
+   18-09-2026**: totes dues tenen fitxa pròpia, [Santa Coloma](./santa-coloma.md)
+   i [Sant Serni de Canillo](./sant-serni-de-canillo.md), i l'índex romànic ja
+   recull les sis esglésies.
 2. **On són exactament, dins l'edifici, les reproduccions actuals** de
    les pintures extretes.
 3. **Règim de visita**: [Sant Romà de les Bons](./sant-roma-de-les-bons.md)
