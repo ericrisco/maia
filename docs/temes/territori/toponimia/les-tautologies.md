@@ -160,9 +160,14 @@ contra l'original** abans de citar-les enlloc.
   desplega tot això**.
 - El **Cartulari de la Vall d'Andorra** de **Cebrià Baraut** (1988, 1990) i el
   **Diplomatari del segle XIV** (1993) — **les fonts documentals de base**.
-- L'***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
+- ~~L'***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
   Gascón, López-Mugartza i Belasko, Govern d'Andorra, **2018**), que és **l'estat
-  actual de la qüestió** i que hauria d'arbitrar entre Anglada i Gascón.
+  actual de la qüestió**.~~ — **`resolt` com a lectura el 18-09-2026**: el llibre
+  i **els seus annexos** són al corpus, a
+  [Els annexos dels topònims](./els-annexos-dels-toponims.md). **Però no
+  arbitra entre Anglada i Gascón**: **recull les dues lectures una al costat de
+  l'altra a cada fitxa i hi afegeix la seva, la fisiogràfica.** `L'arbitratge
+  segueix sense fer-se, i ara se sap que aquesta font no el farà.`
 
 ## Related
 

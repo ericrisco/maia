@@ -92,11 +92,17 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
   [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md). Hi consta també
   que **«Andorra la Vella» ve de *vila d'Andorra*, no de «vella»** — un
   malentès que ja es feia al segle XIV.
-- ***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
+- ~~***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
   Gascón, López-Mugartza i Belasko; Govern d'Andorra, **2018**): **la font
-  central d'aquesta branca, identificada i no oberta**.
+  central d'aquesta branca, identificada i no oberta**.~~ — **`resolt`**:
+  oberta i destil·lada a
+  [L'Hortó no és cap hort](./lhorto-no-es-cap-hort.md) (el cos del llibre,
+  13-09-2026) i a
+  [Els annexos dels topònims](./els-annexos-dels-toponims.md) (**les 80 fitxes
+  de camp, 18-09-2026**).
 - El **Nomenclàtor** complet, que és públic a la cartografia oficial: **4.240
-  entrades disponibles**, i el corpus n'ha tocat zero.
+  entrades disponibles**, i el corpus n'ha tocat zero. `I la xifra mateixa està
+  en dubte: l'annex de l'estudi del 2018 en diu 4.225.`
 - El treball de Pujal, *Val de Norra*.
 - L'article del Nomenclàtor publicat per l'**IEC**.
 - La **hidronímia** i l'**antroponímia** pirinenques.

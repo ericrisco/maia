@@ -220,6 +220,62 @@ i **els autors de l'estudi el fan d'arrel bascoide, emparentat amb Llorts i amb
 *Lauredia* (819, 904, 985, 988, 1028, 1048, 1055, 1082) contra *Loria* (839,
 1008, 1051, 1067, 1071…), **fins que *Lauredia* desapareix al segle XII.**
 
+## Les cinquanta-dues fitxes sense document
+
+**Són les que no tenen cap atestació datada, i per això mateix són les que
+porten el gruix de l'argument de l'estudi**: **si no hi ha paper, l'única prova
+és el terreny.**
+
+**Seixanta-nou de les vuitanta fitxes duen descripció fisiogràfica.** Buidades i
+comptades, **el que descriuen es repeteix:**
+
+| Què descriu la fitxa | Quantes |
+| --- | ---: |
+| **Col·luvions i tills** *(dipòsits de vessant)* | **16** |
+| **Esllavissades i despreniments** | **16** |
+| **Modelat glacial** *(circs, cubetes, morrenes)* | **14** |
+| **Cons de dejecció** | **9** |
+| Fonts, surgències, brolladors | 8 |
+| Litologia calcària | 7 |
+| Congosts i trams engorjats | 2 |
+
+**Dels seixanta-nou llocs descrits, trenta-dos —gairebé la meitat— tenen a la
+descripció una esllavissada, un despreniment o un dipòsit de vessant.**
+
+**Aquesta és l'aportació real de l'estudi**, i no és lingüística: **és un
+inventari de riscos geològics escrit a partir dels noms.**
+
+### Set llocs que la fitxa explica i el corpus no tenia
+
+| Topònim | El que diu la fitxa |
+| --- | --- |
+| **La Garganta** *(Encamp)* | Coincideix amb **les gorges de la Bor**: «un congost estret en roca viva […] **una antiga gorja subglacial**» |
+| **La Gargallera** *(Canòlich)* | Un **cingle de calcària ocre damunt del santuari**, al peu **dels col·luvions de la gran esllavissada de Canòlich-Bixessarri** |
+| **Beixalís** *(Encamp-la Massana)* | **«La segona esllavissada postglacial de dimensions més destacables del Principat d'Andorra»** |
+| **El Seig** *(Canillo)* | El con de dejecció és **l'antic reompliment d'un estany d'obturació**, causat per **un episodi del gran moviment del Forn** |
+| **La Bartra** *(Engolasters)* | El vessant sota l'estany; **el tram de la CG-2 que hi passa es diu Avinguda de la Bartra** i **`bartra` és ‘bardissa'** (Riera 1992) |
+| **Tobira** *(Andorra la Vella)* | **Un carrer del barri vell**, de Quatre Camins al riu; **una de les velles entrades a la vila**, «tot i això […] **no n'hem trobat cap referència històrica**» |
+| **El forat d'Arau** *(Arinsal)* | **Una cova**, i **el lloc d'una llegenda d'encantades** que **Pep Coll** va recollir a *El mite pirinenc de les Encantades* |
+
+### I el pic que no té les fonts que diu
+
+**L'article obre amb el pic dels Llacs, que no té cap llac.** **L'annex n'hi
+afegeix un de bessó:**
+
+> **«No tenim constància que a la muntanya hi hagi nou (9) fonts**, en canvi sí
+> que tenim constància que **s'hi han donat ruptures de bossades d'aigua
+> generant corrents d'arrossegalls** –any 2014–.»
+> — fitxa del **pic de Nou Fonts**, muntanya de la Peguera, Sant Julià de Lòria
+
+**Dos topònims del país anomenen una aigua que no hi és.** **En tots dos casos
+el que hi ha és el mecanisme que la porta de cop: allaus i corrents
+d'arrossegalls.** **Els autors hi llegeixen que el nom no descriu el paisatge:
+descriu el que hi passa.**
+
+`Això és la hipòtesi de l'estudi, exposada, no acreditada. El corpus no en
+dedueix cap etimologia ni cap regla de seguretat: un topònim no és un mapa de
+perillositat.`
+
 ## El que això tanca, i el que no
 
 **Tanca**: que els annexos existeixen, què contenen, com està fet l'embut de
@@ -233,9 +289,12 @@ recull hipòtesis amb la seva prova i el seu contra-argument, no resultats.**
 
 - **Les 37 pàgines d'«Antecedents etimològics»** (Coromines i Anglada,
   recollits pels autors). `Localitzades i no buidades.`
-- **Les 52 fitxes sense atestació documental**, que són les que porten
-  **descripció fisiogràfica de detall**: el gruix de l'argument de l'estudi.
-  `Obertes en bloc, llegides quatre.`
+- ~~**Les 52 fitxes sense atestació documental**, que són les que porten
+  **descripció fisiogràfica de detall**.~~ — **`resolt` el 18-09-2026**:
+  **[Les cinquanta-dues fitxes sense document](#les-cinquanta-dues-fitxes-sense-document)**,
+  amb **les 69 descripcions fisiogràfiques comptades per tipus de terreny** i
+  **set llocs que el corpus no tenia**. `El text sencer de cada descripció no
+  s'ha transcrit: se n'ha buidat el contingut, no la lletra.`
 - **La discrepància 4.225 / 4.240** entre l'annex i el cos del llibre.
 - **Per què Sant Julià de Lòria concentra 21 de les 80 fitxes.**
 - **El Nomenclàtor d'Andorra** com a font pròpia. `Segueix sense ser al corpus.`
