@@ -59,10 +59,9 @@ delegacions.
   **el bolcat la dona com a andorrana** sense dir des de quan. **És, amb
   [Pol Moya](./pol-moya.md), el segon cas d'atleta olímpic andorrà nascut fora
   que el corpus documenta.**
-- **El club, els rècords nacionals, els Jocs dels Petits Estats.** — **`obert`,
+- ~~**El club, els rècords nacionals, els Jocs dels Petits Estats.** ~~— **`obert`,
   confirmat**: **cap dels tres no és al bolcat.** **Hi ha l'alçada, 162 cm, i
   prou.**
-
 ## Related
 
 - [Els olímpics d'estiu](./README.md)

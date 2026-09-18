@@ -46,7 +46,7 @@ explicar.
   bolcat personal és d'una línia**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**: **400 m lliures,
   4:21.16, 49è**, no avança
   ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki)).
-- **Tota la resta de la carrera.** — **`obert`, confirmat, pel mateix motiu.**
+- ~~**Tota la resta de la carrera.** ~~— **`obert`, confirmat, pel mateix motiu.**
 - **El que hi és**: **Pol Arias Dourdet, 8 d'agost del 1996, 175 cm i 80 kg.**
   **El camp `birth_place` diu «Andorra» i cap parròquia**: **el buit del lloc
   exacte és de font.**

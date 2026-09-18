@@ -71,7 +71,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**El nom complet, i si el corpus confonia dues persones.**~~ — **`resolt`
   el 18-09-2026**: **el bolcat donava el nom sencer, Leonel Felipe Alves
   Alves, i l'avís d'homonímia, no destil·lats el 13-09-2026.**
-- **On va néixer.** — **`obert`, confirmat**: **el bolcat no porta el camp
+- ~~**On va néixer.** ~~— **`obert`, confirmat**: **el bolcat no porta el camp
   `birth_place`.** No és una destil·lació incompleta: la font no ho té.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 

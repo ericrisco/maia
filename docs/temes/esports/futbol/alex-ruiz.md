@@ -77,7 +77,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13 contra el bolcat de la font pròpia.**
 
-- **Com i quan es vincula a Andorra**, que la font no explica. — **`obert`,
+- ~~**Com i quan es vincula a Andorra**, que la font no explica. ~~— **`obert`,
   confirmat.**
 - ~~**La resta de la seva carrera** i **els seus quatre partits.**~~ —
   **`parcial`: la carrera, `resolt`** (taula de dalt, **catorze etapes**);

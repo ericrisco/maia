@@ -76,9 +76,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - **Els seus cinc partits.** — **`obert`**: el bolcat en dona el compte i no el
   detall. **La carrera de club sí que hi és** (taula de dalt).
-- **Si és parent de [Moisés San Nicolás](./moises-san-nicolas.md).** —
+- ~~**Si és parent de [Moisés San Nicolás](./moises-san-nicolas.md).** ~~—
   **`obert`, confirmat**: **els dos bolcats no s'esmenten l'un a l'altre.**
-
 ## Related
 
 - [Futbol](./README.md)
