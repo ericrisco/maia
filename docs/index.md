@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1080** documents · **328** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1081** documents · **329** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1277,6 +1277,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Albert Villaró i Boix](temes/persones/albert-villaro.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-albert-villaro` |
+| [Àlvar Menéndez](temes/persones/alvar-menendez.md) | `temes/persones` | compilada | contemporania | no | `elperiodic-cronica-passio-blanca-menendez` |
 | [Antoni Morell i Mora](temes/persones/antoni-morell.md) | `temes/persones` | compilada | contemporania | no | `antoni-morell-biografia` |
 | [Bonaventura Riberaygua i Argelich](temes/persones/bonaventura-riberaygua.md) | `temes/persones` | compilada | contemporania | no | `riberaygua-biografia-secretari` |
 | [Francisco José Catalán de Ocón](temes/persones/catalan-de-ocon.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-catalan-de-ocon` |
@@ -1806,6 +1807,7 @@
 | [`ecapclub-el-club`](fonts/ecapclub-el-club.md) | Esquí Club Arinsal-Pal (ECAP) | publicació institucional, sense llicència declarada | pendent |
 | [`ecoa-ad-junta`](fonts/ecoa-ad-junta.md) | Esquí Club Ordino-Arcalís (ECOA) | publicació institucional, sense llicència declarada | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
+| [`elperiodic-cronica-passio-blanca-menendez`](fonts/elperiodic-cronica-passio-blanca-menendez.md) | El Periòdic d'Andorra | premsa digital, sense llicència declarada | pendent |
 | [`elperiodic-sant-miquel-de-prats-retaule`](fonts/elperiodic-sant-miquel-de-prats-retaule.md) | El Periòdic d'Andorra | premsa digital, sense llicència declarada | pendent |
 | [`eltemps-ribas-reig-feudalisme`](fonts/eltemps-ribas-reig-feudalisme.md) | El Temps | premsa, drets reservats; citació breu | False |
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |

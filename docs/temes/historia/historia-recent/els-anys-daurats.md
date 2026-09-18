@@ -250,7 +250,12 @@ concret que la branca d'història té: sis títols amb autor i any.**
   Andorra la Vella 2012**, impulsor del cineclub des de l'Hotel Mirador,
   on projectava cinema prohibit pel franquisme, i més tard director de
   programació estrangera de TV3.
-- **Àlvar Menéndez**: cap fitxa.
+- ~~**Àlvar Menéndez**: cap fitxa.~~ — **`resolt` el 18-09-2026**: fitxa
+  biogràfica pròpia a
+  [persones](../../persones/alvar-menendez.md) — l'enginyer de FHASA que
+  organitza **la primera travessa d'esquí del país el 1929** i, el 1935,
+  **improvisa el primer remuntador amb un camió**. **Els cinc noms d'aquesta
+  llista tenen, ara, alguna resposta.**
 - ~~**El pare Enric Graner**: cap fitxa.~~ — **`parcial` el 18-09-2026**:
   **monjo benedictí del cenobi de Montserrat**, resident a Andorra, vinculat
   a la fundació del Futbol Club Andorra a l'escalf del Col·legi Meritxell
