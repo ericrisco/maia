@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **230** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **231** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1768,6 +1768,7 @@
 | [`fiba-andorra-basquet-2012`](fonts/fiba-andorra-basquet-2012.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2014`](fonts/fiba-andorra-basquet-2014.md) | FIBA Europe · FIBA Archive · El Periòdic d'Andorra · MaltaToday | drets reservats pels titulars respectius | False |
 | [`fiba-andorra-basquet-2024`](fonts/fiba-andorra-basquet-2024.md) | FIBA · Ràdio i Televisió d'Andorra · Bondia · Andorra Esportiu | drets reservats pels titulars respectius | False |
+| [`fiba-daniel-marin-profile`](fonts/fiba-daniel-marin-profile.md) | FIBA (Federació Internacional de Bàsquetbol) | desconeguda, ús informatiu | False |
 | [`figuereda-nombre-de-diputats`](fonts/figuereda-nombre-de-diputats.md) | Pere Figuereda i Cairol · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`fis-ski`](fonts/fis-ski.md) | International Ski and Snowboard Federation (FIS) | Tots els drets reservats. Sense llicència d'ús. Prohibició expressa de scraping. | False |
 | [`fis-ski-db`](fonts/fis-ski-db.md) | Fédération Internationale de Ski et de Snowboard (FIS) | Sense llicència oberta. El peu de pàgina declara «Copyright © FIS. All rights reserved.» | False |
