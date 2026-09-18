@@ -137,6 +137,42 @@ part d'aquesta baixada és que el llistó ha baixat. Quanta, el corpus no ho pot
 calcular: caldria la distribució sencera d'ingressos, i la font en publica els
 quintils i no els microdades.`
 
+## La mateixa sèrie surt dues vegades, i una de les dues està trencada
+
+> **Comprovat el 18-09-2026.** **El Departament d'Estadística publica aquests
+> mateixos indicadors dos cops**: **a l'enquesta de condicions de vida**, que és
+> la font d'aquesta fitxa, **i al sistema d'indicadors d'Andorra en l'estadística
+> comunitària europea** (`docs/raw/estadistica-api/comparacio-internacional/`).
+
+**On es toquen, donen exactament el mateix**, valor a valor:
+
+| | 2021 | 2022 | 2023 | 2024 |
+| --- | ---: | ---: | ---: | ---: |
+| AROPE, enquesta de condicions de vida | 20,2 | 19,9 | 18,9 | 19,4 |
+| AROPE, sistema d'indicadors europeu | 20,2 | 19,9 | 18,9 | 19,4 |
+| Risc de pobresa després de transferències, totes dues | 14,7 | 13,3 | 13,6 | 16,4 |
+
+**No són dues mesures: és la mateixa sèrie servida dues vegades.**
+
+**I la segona té els tres primers anys trencats.** **Al sistema d'indicadors
+europeu, l'AROPE del 2018, 2019 i 2020 val `0,2`, `0,2` i `0,2`**, i **la
+privació material severa val `0`, `0,1` i `0,1`**. **A l'enquesta de condicions
+de vida, els mateixos anys valen `15,7`, `18,1` i `17,2`.** **Són valors buits o
+d'escala equivocada, i el corpus no cita mai els del sistema europeu per a
+aquells anys.**
+
+**El mateix defecte apareix a la taula germana del mercat laboral, i hi apareix
+a l'altre extrem**: **del 2018 al 2023 hi ha dades** —**taxa d'atur d'1,8% el
+2018 i 1,6% el 2023, taxa d'ocupació del 80,7% al 83,2%**— **i el 2024 val `0` i
+`0,8`.** **Cada taula del sistema té una finestra vàlida diferent i cap no ho
+declara.**
+
+> **Regla pràctica per a qui faci servir aquesta font**: **el sistema
+> d'indicadors europeu serveix per al que l'enquesta de condicions de vida no
+> publica** —la taxa d'atur, la taxa d'ocupació, l'assoliment d'educació
+> superior—, **i per a tota la resta val més la font original, que no té la
+> finestra trencada.**
+
 ## Buits registrats
 
 - **La sèrie no arrenca fins al 2018.** L'Enquesta de condicions de vida és

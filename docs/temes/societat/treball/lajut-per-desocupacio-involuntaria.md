@@ -288,13 +288,33 @@ corpus no separa què és mercat i què és norma.`
 sencera**: **17 andorrans, 7 d'altres nacionalitats, 5 espanyols, 2 francesos i
 cap portuguès**, de 31. `El 2015 els portuguesos n'eren 53 de 235.`
 
-## La sèrie que Andorra té en lloc d'una taxa d'atur
+## Els demandants d'ocupació, des del 2008
 
 > **Afegit el 18-09-2026** amb la branca de mercat de treball de l'API del
 > **Departament d'Estadística** (`docs/raw/estadistica-api/treball-mercat/`,
-> **CC BY 4.0**). **Andorra no publica taxa d'atur. El que publica és el
-> nombre de demandants d'ocupació inscrits al Servei d'Ocupació a final de cada
-> mes, i la sèrie arrenca el gener del 2008.**
+> **CC BY 4.0**). **El que aquesta sèrie compta són els demandants d'ocupació
+> inscrits al Servei d'Ocupació a final de cada mes, des del gener del 2008.**
+
+> **Esmena del mateix dia, i val la pena que quedi escrita.** **Aquesta secció
+> deia primer que «Andorra no publica taxa d'atur». És fals.** **La publica al
+> sistema d'indicadors en estadística comunitària europea**
+> (`docs/raw/estadistica-api/comparacio-internacional/`), **on hi ha taxa
+> d'atur, taxa d'ocupació i taxa d'activitat des del 2018**:
+>
+> | | 2018 | 2019 | **2020** | 2021 | 2022 | **2023** |
+> | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+> | **Taxa d'atur** | 1,8 | 2,2 | **3,1** | 3,3 | 2,1 | **1,6** |
+> | **Taxa d'ocupació (15-64)** | 80,7 | 79,5 | 80,1 | 81,5 | 82,5 | **83,2** |
+>
+> **Sis anys, no una sèrie llarga**, i **el 2024 de la mateixa taula dona `0`
+> a l'atur i `0,8` a l'ocupació i a l'activitat**: **són valors buits o
+> placeholders, no dades, i el corpus no els cita.** **El defecte queda
+> registrat.**
+>
+> **Les dues coses mesuren coses diferents i totes dues fan falta**: **la taxa
+> ve d'una enquesta de forces de treball amb definició europea**; **els
+> demandants són un registre administratiu** i **arrenquen catorze anys
+> abans.**
 
 | Desembre de | Demandants |
 | --- | ---: |

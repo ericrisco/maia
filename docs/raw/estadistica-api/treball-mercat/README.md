@@ -39,9 +39,12 @@ anual.
 - **La bretxa salarial per sexe, desembre a desembre des del 1966**:
   **55,8% el 1967, 85,9% el 2025** —
   [vuitanta-cinc coma nou](../../../temes/societat/dones/vuitanta-cinc-coma-nou.md).
-- **Els demandants d'ocupació a final de mes des del gener del 2008**, que és
-  **el que Andorra publica en lloc d'una taxa d'atur** —
+- **Els demandants d'ocupació a final de mes des del gener del 2008**, un
+  **registre administratiu** que arrenca catorze anys abans que la taxa d'atur
+  d'enquesta —
   [l'ajut per desocupació involuntària](../../../temes/societat/treball/lajut-per-desocupacio-involuntaria.md).
+  `La taxa d'atur sí que existeix, al sistema d'indicadors en estadística
+  comunitària europea (`../comparacio-internacional/`), des del 2018.`
 
 ## Una precaució sobre les cel·les petites
 
