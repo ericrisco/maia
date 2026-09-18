@@ -3,7 +3,7 @@ type: font
 id: boletin-oficial-leon-1894
 title: "Boletín Oficial de la provincia de León, núm. 34, 17 de setembre de 1894"
 titular: Diputación provincial de León (Espanya) · butlletí oficial
-url: "URL de descàrrega no registrada; l'exemplar és a docs/raw/hemeroteca/boletin-leon-1894-09-17.txt"
+url: https://bibliotecadigital.jcyl.es/es/catalogo_imagenes/grupo.do?path=10091466
 llicencia: butlletí oficial espanyol de 1894; domini públic per antiguitat
 redistribucio: si
 data_consulta: 2026-09-13
@@ -32,9 +32,11 @@ notes: >
   1894»; la forma «X.º de Septiembre» apunta a l'1, i el corpus NO HO DONA PER
   BO. Les dates que sí que consten són la de la circular de Valladolid —12 de
   setembre de 1894— i la de publicació —17 de setembre de 1894.
-  PROCEDÈNCIA A MITGES: l'exemplar s'identifica sol (capçalera, província,
-  número, data i preu), però l'URL de descàrrega no va quedar registrada. Buit
-  obert, com a tota la carpeta hemeroteca.
+  PROCEDÈNCIA: l'exemplar s'identifica sol (capçalera, província, número, data i
+  preu) i el catàleg de la Biblioteca Digital de Castilla y León en conserva la
+  fitxa i l'accés. El títol web té un error OCR («1284» en lloc de 1894), però
+  la capçalera escanejada i el contingut són els del número 34 del 17 de
+  setembre de 1894.
 ---
 
 # Boletín Oficial de la provincia de León, 17 de setembre de 1894
@@ -71,7 +73,10 @@ independencia contraria á los derechos é intereses de la Nación española**»
 ## Buits registrats
 
 1. **El dia exacte** de la reial ordre.
-2. **L'URL** de descàrrega de l'exemplar.
+2. ~~**L'URL** de descàrrega de l'exemplar.~~ — **`resolt` el 18-09-2026**:
+   [Biblioteca Digital de Castilla y León](https://bibliotecadigital.jcyl.es/es/catalogo_imagenes/grupo.do?path=10091466),
+   registre d’imatges del número 34. El títol del catàleg té un error OCR
+   («1284»), que no afecta la data impresa ni el text.
 3. **El text a la *Gaceta de Madrid***, que és on una reial ordre es publica
    primer. El corpus la té per la còpia provincial, no per l'original.
 4. **Els altres butlletins provincials** que la van reproduir, i si el text hi és
