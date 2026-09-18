@@ -1,7 +1,7 @@
 ---
 type: article
-title: Leonel Alves
-description: "Migcampista defensiu internacional des del 2014."
+title: Leonel Felipe Alves Alves
+description: "Migcampista defensiu internacional des del 2014. No confondre amb un altre Leonel Alves andorrà, nascut el 1988."
 tema: temes/esports/futbol
 veu: compilada
 epoca: contemporania
@@ -11,19 +11,27 @@ timestamp: 2026-09-13T15:30:00Z
 tags: [esports, futbol, seleccio]
 ---
 
-# Leonel Alves
+# Leonel Felipe Alves Alves
 
 ## El fet
 
-**Leonel Alves**, nascut  el 28 de setembre del 1993.
+**Leonel Felipe Alves Alves**, nascut el 28 de setembre del 1993.
 **Migcampista defensiu** ([font](../../../fonts/wikipedia-atletes-andorrans.md)).
+
+**La font avisa d'una homonímia**: **«no confondre amb Leonel Alves (futbolista,
+nascut el 1988)»**, un altre andorrà del mateix nom. **Tercer cas d'aquest avís
+que la font fa dins la branca**, amb [Alexandre
+Martínez](./alexandre-martinez.md) i [Sergi
+Mas](../../cultura/arts-visuals/sergi-mas.md).
 
 | | |
 | --- | --- |
-| **Naixement** | **—, 28 de setembre del 1993** |
+| **Naixement** | **—, 28 de setembre del 1993** *(el bolcat dona el nom
+  complet i no el lloc)* |
 | **Posició** | Migcampista defensiu |
 
-**El corpus no en té els clubs.**
+**Santa Coloma**, **FC Andorra**, **Santa Coloma** (segona etapa),
+**UE Sant Julià**, **Santa Coloma** (tercera etapa) i **La Massana**.
 
 ## El que en destaca
 
@@ -60,7 +68,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- Tot: **on va néixer, els clubs, els partits.**
+- ~~**El nom complet, i si el corpus confonia dues persones.**~~ — **`resolt`
+  el 18-09-2026**: **el bolcat donava el nom sencer, Leonel Felipe Alves
+  Alves, i l'avís d'homonímia, no destil·lats el 13-09-2026.**
+- **On va néixer.** — **`obert`, confirmat**: **el bolcat no porta el camp
+  `birth_place`.** No és una destil·lació incompleta: la font no ho té.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

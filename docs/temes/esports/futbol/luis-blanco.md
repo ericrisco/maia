@@ -1,7 +1,7 @@
 ---
 type: article
-title: Luis Blanco
-description: "Va debutar amb Andorra el 2020, a la Lliga de Nacions contra les Illes Fèroe."
+title: Luis Emilio Blanco Coto
+description: "Va debutar amb Andorra el 2020, a la Lliga de Nacions contra les Illes Fèroe. Nascut a Barcelona el 1990."
 tema: temes/esports/futbol
 veu: compilada
 epoca: contemporania
@@ -11,23 +11,27 @@ timestamp: 2026-09-13T15:30:00Z
 tags: [esports, futbol, seleccio]
 ---
 
-# Luis Blanco
+# Luis Emilio Blanco Coto
 
 ## El fet
 
-**Luis Blanco**.
- ([font](../../../fonts/wikipedia-atletes-andorrans.md)).
+**Luis Emilio Blanco Coto**, nascut a **Barcelona el 15 de gener del 1990**.
+**Migcampista**, 1,83 m ([font](../../../fonts/wikipedia-atletes-andorrans.md)).
 
 | | |
 | --- | --- |
-| **Naixement** | *(la font no en dona la data)* |
-| **Posició** | — |
+| **Naixement** | **Barcelona, 15 de gener del 1990** |
+| **Posició** | Migcampista |
 
-**El corpus no en té els clubs.**
+**Barceloneta**, **Turó Peira**, **Carmelo**, **FC Santa Coloma**, **UE Sant
+Julià**, **FC Santa Coloma** (segona etapa), **UE Engordany** i **CF Esperança
+d'Andorra**.
 
 ## El que en destaca
 
-**«Blanco va debutar amb Andorra el 6 de setembre del 2020, a la Lliga de Nacions de la UEFA contra les Illes Fèroe, en una derrota 0-1 a casa.»** **El mateix partit que el debut de [Víctor Bernat](./victor-bernat.md).** **El corpus no té ni la data de naixement ni la posició.** **Fitxa deliberadament mínima.**
+**«Blanco va debutar amb Andorra el 6 de setembre del 2020, a la Lliga de Nacions de la UEFA contra les Illes Fèroe, en una derrota 0-1 a casa.»** **El mateix partit que el debut de [Víctor Bernat](./victor-bernat.md).**
+
+**És un altre cas de la sèrie**: nascut a **Barcelona, no a Andorra**, com [Óscar de la Riva](../escacs/oscar-de-la-riva.md) als escacs i tants altres — vegeu [la porositat de la nacionalitat esportiva andorrana](../escacs/README.md#i-la-pregunta-que-el-corpus-no-pot-respondre).
 
 ## La carrera, club per club
 
@@ -63,7 +67,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- Gairebé tot.
+- ~~**Gairebé tot: nom complet, naixement, posició.**~~ — **`resolt` el
+  18-09-2026**: **la resposta era a l'infobox del mateix bolcat de la font**
+  (`Luis_Blanco_(footballer,_born_1990).wiki`), **no destil·lat en l'auditoria
+  del 13-09-2026** que ja havia corregit la carrera de club. **Nom complet
+  Luis Emilio Blanco Coto, nascut a Barcelona el 15 de gener del 1990, 1,83 m,
+  migcampista.**
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
