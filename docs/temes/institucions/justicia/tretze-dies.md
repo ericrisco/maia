@@ -153,9 +153,9 @@ judicial** amb els mitjans al seu abast.
   24/2018.** **Titular-lo amb qualsevol dels dos números seria inexacte**, i
   **el recull opta per no posar-ne cap.** **No és una omissió: és el que passa
   quan una llei de consolidació substitueix la que porta el contingut.**
-- **Què queda viu de la Llei transitòria** i què ha estat substituït pel Codi:
+- ~~**Què queda viu de la Llei transitòria** i què ha estat substituït pel Codi:
   **el corpus no ho ha determinat**, i amb **11 versions consolidades** la
-  resposta no és òbvia. — **`parcial` des del 2026-09-13.** **D'un tros se'n té
+  resposta no és òbvia.~~ — **`parcial` des del 2026-09-13.** **D'un tros se'n té
   la prova**: la **secció segona** de la Llei transitòria (arts. **15-18**,
   el procediment de l'article 41.1 de la Constitució) i la **secció tercera**
   (la **nul·litat d'actuacions**, arts. 18 bis a 18 quater) **segueixen

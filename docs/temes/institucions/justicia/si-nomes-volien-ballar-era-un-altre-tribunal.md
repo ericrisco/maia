@@ -364,7 +364,7 @@ manera:**
    i no ho explica.**
 8. **Fins on arriba la submissió voluntària** en aquesta jurisdicció: **quan
    jutja per imperi i quan per compromís de les parts.**
-9. **Què són ***antipeu*** i ***vicrono*** al text de 1364. — **`parcial` el
+9. ~~**Què són ***antipeu*** i ***vicrono*** al text de 1364.~~ — **`parcial` el
    17-09-2026: un dels dos mots no existia.** **L'original —ANA, ASC, pergamí
    1.190— no diu *vicrono*: diu *vierono***, «*de antipeu vel de aliquo
    **vierono** vel de aliqua clausura*». **La `hipòtesi de corrupció de còpia`

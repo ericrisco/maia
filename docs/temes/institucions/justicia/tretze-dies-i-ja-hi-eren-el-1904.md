@@ -271,8 +271,8 @@ el corpus no ho ha comprovat lexicogràficament.»**
    d'`APÒSTOL` són totes religioses, metafòriques o de lloc comú —fins a «els cinc
    apòstols» per als dits de la mà—, **i cap no és processal**. **El mot jurídic
    només és al diccionari normatiu.**
-4. **Quan van deixar les Corts de conèixer de les apel·lacions contra el Jutge i
-   contra el Consell General.** — **`parcial` el 18-09-2026: la p. 172 s'ha
+4. ~~**Quan van deixar les Corts de conèixer de les apel·lacions contra el Jutge i
+   contra el Consell General.**~~ — **`parcial` el 18-09-2026: la p. 172 s'ha
    llegit, i el Politar no només no ho data, diu que no sap per què.**
 
    > «Com molts delsdits llibres de obertures de Corts antichs se llegeixen actes

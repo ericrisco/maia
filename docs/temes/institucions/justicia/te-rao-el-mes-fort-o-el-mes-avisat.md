@@ -250,8 +250,8 @@ n'ha llegit:**
      espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md).
 2. **L'ordre al batlle francès d'admetre les apel·lacions** i **la suspensió que
    el Bisbe hi va respondre**: **textos i dates.**
-3. **Quant va durar la paràlisi**, **quantes presons preventives s'hi van
-   allargar** i **què va passar amb les causes avocades pel veguer francès.**
+3. ~~**Quant va durar la paràlisi**, **quantes presons preventives s'hi van
+   allargar** i **què va passar amb les causes avocades pel veguer francès.**~~
    - **`parcial` des del 20-09-2026: ja té durada mínima.** **Les notes de la
      p. 252 la daten de **1874 a 1877** com a mínim**: la sentència del vescomte
      de Foix «*en representacio dels Illustres senyors Com-princeps, estant reunit

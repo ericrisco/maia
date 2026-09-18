@@ -302,7 +302,7 @@ sí.**
    **Segueix obert si la distinció es mantenia sempre**, que és la segona meitat
    de la pregunta: **el corpus té una sola atestació de la parella de termes** i
    **no pot dir si algun acte n'embarga una i deixa l'altra.**
-8. **Si el manuscrit de M. Palmitjavila tracta els mateixos punts.** —
+8. ~~**Si el manuscrit de M. Palmitjavila tracta els mateixos punts.**~~ —
    **`parcial` el 18-09-2026, i la premissa s'ha de corregir**: **no és cert que
    segueixi sense llegir-se.** **L'extracte que Brutails en publica —peça
    justificativa XXVII, pp. LVI-LX— està llegit i destil·lat des del 16 de
