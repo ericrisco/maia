@@ -197,8 +197,8 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
    quines són i de quin any. **Prioritari** — són el que va tombar l'impost.
 3. **Les 8.000 pessetes per hectàrea** del tabac i els prats: d'on surten.
 4. **Si el tabac va començar a tributar**, i quan.
-5. **Els casos «tout récents»** en què una ordre als batlles va bloquejar el
-   Consell General. Brutails els esmenta i no en data cap. — **`parcial` des del
+5. ~~**Els casos «tout récents»** en què una ordre als batlles va bloquejar el
+   Consell General. Brutails els esmenta i no en data cap.~~ — **`parcial` des del
    2026-09-16**: **segueix sense data**, **però el corpus ja en té la raó
    estructural**, i és de la mateixa mà, unes pàgines abans:
 

@@ -251,7 +251,7 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
 
 ## Buits registrats
 
-1. **Quins són, de debò, els drets de la vídua sobre els béns del marit.** —
+1. ~~**Quins són, de debò, els drets de la vídua sobre els béns del marit.**~~ —
    **`parcial` des del 2026-09-16.** **La font en va recollir cinc versions i no
    en publica cap** *en aquesta secció*; **vuit pàgines abans, però, n'hi ha una**
    ([«si això fos el costum, ningú no aniria al notari»](./si-aixo-fos-el-costum-ningu-no-aniria-al-notari.md)):

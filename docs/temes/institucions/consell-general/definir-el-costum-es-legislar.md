@@ -304,8 +304,8 @@ font és un present** *(pp. 108-109)*:
    `El que falta és la seva lletra, no la seva posició.`
 4. **Per què la jurisdicció de veeduria abasta les mitgeres urbanes.** **Buit
    heretat, i l'autor el declara: «no lo sabemos».**
-5. **Quan va caure en desús el Consell de l'Afor.** **La font diu «parece» i no
-   dona data.** — **`parcial` el 17-09-2026: ara hi ha una data de la qual ja no
+5. ~~**Quan va caure en desús el Consell de l'Afor.** **La font diu «parece» i no
+   dona data.**~~ — **`parcial` el 17-09-2026: ara hi ha una data de la qual ja no
    n'hi ha cap més.** Font: els [llibres d'actes del Consell
    General](../../../fonts/actes-historiques-consell-general.md).
 

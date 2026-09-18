@@ -165,8 +165,8 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    Sans. **El corpus no ha llegit cap d'aquests textos** i no en pot citar ni
    una línia. **Buit gran i molt tancable.**
 2. **Quin Vilar** (vegeu més amunt).
-3. **La tesi doctoral de Nemesi Marquès**, que Massa invoca com a autoritat i el
-   corpus no té. — **`parcial` el 17-09-2026**: **el que se'n va publicar ja té
+3. ~~**La tesi doctoral de Nemesi Marquès**, que Massa invoca com a autoritat i el
+   corpus no té.~~ — **`parcial` el 17-09-2026**: **el que se'n va publicar ja té
    referència**, des de la bibliografia de la [síntesi d'actes del Consell
    General](../../../fonts/actes-historiques-consell-general.md): **Marquès,
    Nemesi (2021). *La Constitució del Principat d'Andorra: la resposta als

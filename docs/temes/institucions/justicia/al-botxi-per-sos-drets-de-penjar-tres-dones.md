@@ -238,8 +238,8 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
 
 ## Buits registrats
 
-1. **Els processos de bruixeria de 1604, 1621 i 1630**, sencers. **Prioritari**:
-   **el corpus en té ara el compte de despeses i cap acta.** — **`parcial` el
+1. ~~**Els processos de bruixeria de 1604, 1621 i 1630**, sencers. **Prioritari**:
+   **el corpus en té ara el compte de despeses i cap acta.**~~ — **`parcial` el
    17-09-2026, i el del 1621 ja no és una data solta: n'hi ha la cara
    administrativa sencera**, des del **Llibre I d'actes del Consell General**
    ([actes](../../../fonts/actes-historiques-consell-general.md)). **Les
