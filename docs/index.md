@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1071** documents · **301** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1071** documents · **303** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1972,6 +1972,8 @@
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-tunel-del-cadi`](fonts/wikipedia-ca-tunel-del-cadi.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-tunel-envalira`](fonts/wikipedia-ca-tunel-envalira.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-vi-andorra`](fonts/wikipedia-ca-vi-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vpc-andorra-rugby`](fonts/wikipedia-ca-vpc-andorra-rugby.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

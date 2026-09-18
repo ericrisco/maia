@@ -62,7 +62,17 @@ gestió de la xarxa viària.**
 1. **El text complet de la Llei 18/2016.**
 2. **Quan es van construir cadascuna de les CG** — la font en dona el
    recorregut i la longitud, no la datació.
-3. **El túnel d'Envalira i el túnel del Cadí**, encara sense fitxa.
+3. ~~**El túnel d'Envalira i el túnel del Cadí**, encara sense fitxa.~~ —
+   **`resolt` el 18-09-2026**: **el túnel d'Envalira** (2002, 2.879 m,
+   2.050 m d'altitud, el més alt d'Europa) **evita el port d'Envalira a
+   la CG-2**
+   ([font](../../../fonts/wikipedia-ca-tunel-envalira.md)). **El túnel
+   del Cadí ja tenia context**, a
+   [l'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md):
+   **es va obrir el 29 d'octubre del 1984**
+   ([font](../../../fonts/wikipedia-ca-tunel-del-cadi.md)), **el mateix
+   any que tancaven els vols comercials de l'aeroport d'Andorra-la
+   Seu.**
 
 ## Related
 

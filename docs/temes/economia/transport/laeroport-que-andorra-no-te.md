@@ -84,7 +84,7 @@ places.**
 | **1982** | **Obté tots els permisos** |
 | **29 de juliol del 1982** | **Inauguració, amb un vol d'Aviaco entre Barcelona i la Seu** |
 | **7-8 de novembre del 1982** | **[Els aiguats](../../historia/historia-recent/els-aiguats-del-1982.md)**. **L'aeroport és l'única via per fer arribar els recursos de salvament**: **146 vols** |
-| **1984** | **Darrers vols comercials** — **el mateix any que s'obre el túnel del Cadí** |
+| **1984** | **Darrers vols comercials** — **el mateix any que s'obre el túnel del Cadí, el 29 d'octubre** ([font](../../../fonts/wikipedia-ca-tunel-del-cadi.md)) |
 
 > **L'aeroport va obrir al juliol i al novembre salvava la comarca.** **Dos anys
 > després tancava, l'any que un túnel el feia innecessari.**
