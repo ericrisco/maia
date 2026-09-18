@@ -167,7 +167,32 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
 - **El desglossament per renda només es publica per al 2019.**
 - **Per què el cinema puja** mentre tota la resta de cultura de sala baixa, el
   corpus no ho sap. `pregunta_oberta`
-- **El voluntariat té una sèrie 2010-2024 que no es pot citar sencera**: **el
+- ~~**El voluntariat té una sèrie 2010-2024 que no es pot citar sencera**: **el
   total i la suma d'homes i dones divergeixen del 2022 al 2024** (468 contra
-  242, 517 contra 260, 476 contra 281). **Defecte de la font**, registrat a
-  `docs/raw/estadistica-api/cultura/README.md`.
+  242, 517 contra 260, 476 contra 281).~~ — **`resolt` el 18-09-2026, i el
+  defecte queda acotat a tres anys.**
+
+  **Amb el 2025 a la mà, les dues taules es tornen a trobar.** **Comparades any
+  per any, `NOMBRE DE VOLUNTARIS` i el total de `NOMBRE DE VOLUNTARIS PER SEXE`
+  donen exactament el mateix del 2010 al 2021 i el 2025**, i **divergeixen només
+  el 2022, el 2023 i el 2024**:
+
+  | Any | Total | Total per sexe | |
+  | --- | ---: | ---: | --- |
+  | 2010-2021 | *iguals* | *iguals* | **cap diferència** |
+  | **2022** | 468 | **242** | −226 |
+  | **2023** | 517 | **260** | −257 |
+  | **2024** | 476 | **281** | −195 |
+  | **2025** | **178** | **178** | **cap diferència** |
+
+  **I el desglossament del 2025 quadra**: **101 dones i 77 homes fan 178.**
+
+  **Conseqüència pràctica**: **la sèrie sí que es pot citar sencera, dient que
+  els tres anys del mig tenen dues xifres i quines són.** **El que no es pot
+  fer és barrejar les dues taules en aquell tram.** `La font no explica la
+  diferència; no és arrodoniment, i el corpus no li'n suposa cap causa.`
+
+  **I la sèrie, dita amb la taula del total**: **295 voluntaris el 2010, màxim
+  de 762 el 2020 —l'any de la pandèmia—, 100 el 2021 i 178 el 2025.** **Les
+  entitats que hi participen són 14 el 2017 i 14 el 2025, amb un mínim de 2 el
+  2021.**
