@@ -386,7 +386,7 @@ d'un sol proveïdor.**
    `El que continua sense comprovar-se és la pràctica: si algun poder
    adjudicador ha deixat de publicar un encàrrec emparant-se en la lletra g)
    sencera. Això demana els edictes, no les normes.`
-3. **Quants contractes s'adjudiquen per cada lletra.** La llei diu què es pot
+3. ~~**Quants contractes s'adjudiquen per cada lletra.**~~ La llei diu què es pot
    fer; **el corpus no té cap dada del que es fa**. — **`parcial` el
    18-09-2026: existeix el lloc on aquesta dada viu.** **És el Registre oficial
    de contractes públics** (article 48 del Decret 38/2026), que **anota poder
@@ -406,7 +406,7 @@ d'un sol proveïdor.**
    d'aprovació del Reglament de la Llei de contractació pública** — vegeu
    [El reglament que obliga a dir per quina lletra](#el-reglament-que-obliga-a-dir-per-quina-lletra).
 5. **Els altres 129 articles** d'aquesta llei.
-6. **Si hi ha hagut litigi** sobre l'article 30. — **`parcial` el 18-09-2026:
+6. ~~**Si hi ha hagut litigi** sobre l'article 30.~~ — **`parcial` el 18-09-2026:
    litigi no en consta cap, control parlamentari sí.** **El Butlletí del Consell
    General 61/2026 publica una pregunta amb resposta oral i declaració
    d'urgència sobre una adjudicació directa per procediment negociat de prop de

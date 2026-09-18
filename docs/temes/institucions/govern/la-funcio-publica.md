@@ -515,7 +515,7 @@ del 2026 ja fixa el que es cobrarà el 2027.**
 
   `Segueix obert quants funcionaris tenen els comuns: la divisió és
   d'Administració general i no els inclou.`
-- **Els banders**: cos especial i cap fitxa al corpus. — **`parcial` el
+- ~~**Els banders**: cos especial i cap fitxa al corpus.~~ — **`parcial` el
   2026-09-18**: **l'escala retributiva sí que hi és** —**tres nivells, de
   27.473,42 a 48.226,66 € de sou base**, **el cos amb la carrera més curta de
   l'Administració**— a
