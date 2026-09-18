@@ -205,10 +205,11 @@ es finança principalment amb cotitzacions. És la part que hi posa el Govern.`
 
 ## Buits registrats
 
-- Tancat el buit genèric «la CASS mateixa no s’ha obert»: la
-  [secció sobre el règim especial d’Ocupació](../../../fonts/cass-ad.md)
+- ~~El buit genèric «la CASS mateixa no s’ha obert»~~ — **`parcial` el
+  17-09-2026**: la [secció sobre el règim especial d’Ocupació](../../../fonts/cass-ad.md)
   s’ha consultat. No s’han revisat totes les pàgines de prestacions de la CASS.
-- Articles 40–41 i 132–142, inclòs el 139 bis, llegits complets al refós
+- ~~Lectura dels articles 40–41 i 132–142 i del desplegament posterior~~ — **`parcial`
+  el 17-09-2026**: articles 40–41 i 132–142, inclòs el 139 bis, llegits complets al refós
   de 2018; pàgines 35–38 contrastades visualment. No s’han llegit les 77
   pàgines íntegres. Tancat parcialment el buit posterior amb les lleis
   6/2019 i 20/2019, llegides completes; pàgines 7–9 de la primera i 1–2

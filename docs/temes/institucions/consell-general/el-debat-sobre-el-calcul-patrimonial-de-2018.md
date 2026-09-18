@@ -87,8 +87,8 @@ no s'ha comprovat. Aquests totals no identifiquen l'efecte causal del barem.
   expedients individuals ni metodologia completa contrastats. No es coneix
   el nombre de persones elegibles que no cobraven, ni l'efecte causal de
   la reforma. No tota la memòria 2017 llegida.
-- Tancat el buit de lectura dels informes de ponència i comissió:
-  [BCG 21/2018](../../../fonts/consell-general-bcg-2018-21.md), p. 2–6.
+- ~~El buit de lectura dels informes de ponència i comissió~~ — **`parcial`
+  el 17-09-2026**: [BCG 21/2018](../../../fonts/consell-general-bcg-2018-21.md), p. 2–6.
   No s'han llegit les actes de les reunions ni la resta de punts del
   diari íntegrament, ni contrastat l'enregistrament. L'informe no aporta
   un recompte numèric de les votacions de comissió.

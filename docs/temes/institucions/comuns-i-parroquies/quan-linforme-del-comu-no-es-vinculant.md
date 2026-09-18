@@ -183,14 +183,14 @@ no sempre surt.
   **la cadena són tres peces i cap més**, i **no hi ha text refós publicat**.
   `Les modificacions sectorials —lleis que toquen competències comunals sense
   dir-ho al títol— segueixen sense inventariar.`
-- Tancat el buit de l’exemplar BOPA de la sentència 2017-2-L: el PDF de
-  deu pàgines s’ha obtingut i les cites anteriors del portal s’han substituït
+- ~~El buit de l’exemplar BOPA de la sentència 2017-2-L~~ — **`resolt` el
+  17-09-2026**: el PDF de deu pàgines s’ha obtingut i les cites anteriors del portal s’han substituït
   després de llegir els apartats 1.1, 2.2–2.4 i la decisió. Pàgines 7, 9 i
   10 contrastades visualment. La [comparació normalitzada](../../../raw/consell-general/comparacio-sentencia-2017-2-l.json)
   del cos confirma coincidència sota les transformacions documentades;
   no és una certificació de maquetació ni de separació de paraules.
-- Tancat parcialment el buit de la LGOTU: articles 61–66 del
-  [text refós de 2012](../../../raw/consell-general/bopa-lgotu-refos-2012.pdf)
+- ~~El buit de la LGOTU (articles 61–66 i la cadena posterior)~~ — **`parcial`
+  el 17-09-2026**: articles 61–66 del [text refós de 2012](../../../raw/consell-general/bopa-lgotu-refos-2012.pdf)
   llegits complets a p. 3750 i contrastats visualment. No s’han llegit les
   22 pàgines íntegres. L’[original de 2000](../../../raw/consell-general/bopa-lgotu-original-2000.pdf)
   s’ha obtingut i els articles 61–66 s’han llegit en text i render, p. 386;
@@ -200,7 +200,7 @@ no sempre surt.
   No s’ha reconstruït tota la cadena posterior ni contrastat l’aplicació
   del termini de cinc anys. La reforma patrimonial de 2014 es coneix aquí
   per la remissió del preàmbul de 2018, no per lectura de l’original.
-- Tancat el buit de la [sentència 2001-1-L](../../../raw/consell-general/bopa-sentencia-2001-1-l.pdf):
+- ~~El buit de la [sentència 2001-1-L](../../../raw/consell-general/bopa-sentencia-2001-1-l.pdf)~~ — **`parcial` el 17-09-2026**:
   còpia del portal llegida íntegra; al BOPA, fonaments primer a quart i
   decisió llegits, p. 1691–1694, amb renders de p. 1692–1694 vistos.
   Els antecedents no s’han rellegit íntegrament al PDF i no s’ha fet una

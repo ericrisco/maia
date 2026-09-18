@@ -144,7 +144,7 @@ a màxims individuals ni a una mesura de qualitat assistencial.
 - No s’han contrastat factures, assentaments individuals, nombre de
   beneficiaris del canal ni resultats d’accés. Tampoc una rectificació
   de la capçalera o el criteri que explica cada diferència entre quadres.
-- Tancat parcialment el buit del conveni CASS-SAAS amb la descripció
+- ~~El buit del conveni CASS-SAAS~~ — **`parcial` el 17-09-2026** amb la descripció
   dels comptes de 2017, el seguiment de 2018 i la instrucció de
   15-11-2017, ara llegida íntegra amb els quatre renders vistos.
   Pendents els convenis i les addendes originals, els acords de
@@ -162,8 +162,8 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   de 2017 i 37–38, 196 de 2018 vistos. No els volums complets ni les
   memòries de 2023/2024; la sèrie 2023–2025 continua sense validar amb
   aquests originals. Cap informe Cosvai obtingut en la cerca.
-- Tancat parcialment el buit sobre condicions publicades per al Clínic
-  i Teknon amb la pàgina informativa de Catalunya. No s’han obtingut els
+- ~~El buit sobre condicions publicades per al Clínic i Teknon~~ — **`parcial`
+  el 17-09-2026** amb la pàgina informativa de Catalunya. No s’han obtingut els
   convenis originals ni comprovants d’aplicació. El llistat «Convenis
   vigents de prestadors» consultat agrupa nou tipus de professionals;
   no s’hi ha identificat el conveni hospitalari buscat. Això no prova

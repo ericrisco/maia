@@ -264,7 +264,8 @@ genètic o neurològic** segons la classificació de l'OMS.
 - Decret i reglament llegits complets en les tretze pàgines. Renders de
   les pàgines 1, 6, 7 i 11–13 contrastats visualment. No s’ha certificat
   una cadena exhaustiva de canvis posteriors al 5 d’agost de 2026.
-- El text de 2026 deroga el de 2018 i enumera les modificacions posteriors,
+- ~~Antecedents i modificacions normatives de la via preferent~~ — **`parcial`
+  el 17-09-2026**: el text de 2026 deroga el de 2018 i enumera les modificacions posteriors,
   fins al Decret 80/2025. Tancat parcialment el buit d’antecedents amb
   l’exposició, les disposicions introductòries i els articles 11–20 de
   l’original de 2018, i amb el decret modificador de 2019 complet. Renders
@@ -312,7 +313,7 @@ genètic o neurològic** segons la classificació de l'OMS.
   directe del 8.3, els protocols de derivació o prescripció d’infermeria,
   els convenis ni la cartera i nomenclatura completes. No s’han consultat
   expedients, factures, temps d’espera reals o informes de la Cosvai.
-- Tancat parcialment el buit d’evidència d’aplicació amb la
+- ~~El buit d’evidència d’aplicació~~ — **`parcial` el 17-09-2026** amb la
   [lectura de la memòria CASS de 2025](quan-canvia-qui-rep-el-pagament.md):
   imports del canal SAAS i nota explicativa, p. 129, contrastats amb
   tresoreria p. 253. És informació de l’organisme gestor, no una auditoria
