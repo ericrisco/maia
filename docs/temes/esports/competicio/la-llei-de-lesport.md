@@ -179,8 +179,27 @@ ensenya abans que l'aula, no és un detall menor.
 
   **El capítol de la llei segueix sense llegir**; **el que hi ha ara és què es
   paga i amb quins criteris, no què diu l'articulat.**
-- **Quants esportistes d'alt nivell** hi ha a la llista anual, i si algú ha fet
-  servir mai els mèrits de l'article 55.4, no consta.
+- ~~**Quants esportistes d'alt nivell** hi ha a la llista anual~~ — **`resolt`
+  el 18-09-2026** per l'API del Departament d'Estadística, divisions 2011-2015,
+  **font declarada Secretaria d'Estat d'Esports i Joventut**:
+
+  | Any | 2018 | 2019 | 2020 | 2021 | **2022** | 2023 | **2025** |
+  | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+  | **Esportistes d'alt nivell** | **54** | 51 | 51 | 49 | **31** | 44 | **53** |
+  | Dones | 19 | 15 | 17 | 14 | 10 | 18 | 19 |
+
+  **Mai no passen de cinquanta-quatre**, **el 2022 cauen a trenta-un** i **el
+  2025 tornen al nivell del 2018**. **Les dones són entre el 26% i el 41%.**
+
+  **Per edat**: el gruix és **de 18 a 24 anys** —32 de 53 el 2025— i **des del
+  2022 no hi ha ningú de més de 34 anys**. **Per programa**: el **d'elit** no ha
+  passat mai de set persones, i **el 2023 n'apareix un de nou, «esports
+  col·lectius»**. **Per federació**, **esquí i muntanya sumen la meitat** i
+  **futbol, golf i hoquei no n'han tingut cap.**
+
+  `L'any 2024 no és a la sèrie: va del 2023 al 2025. I el 2017 hi consta amb
+  tots els valors buits. Registrat, no explicat.`
+- **Si algú ha fet servir mai els mèrits de l'article 55.4**, no consta.
 - ~~**La [Llei d'esports electrònics](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 8/2021, 44 articles) és al recull i **queda per llegir**: Andorra té llei
   pròpia d'esports electrònics.~~ — **`resolt` el 17-09-2026**, llegida al
