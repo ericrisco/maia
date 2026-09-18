@@ -317,7 +317,27 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
    no es pot comprovar ni ampliar.**
 2. **Les mesures preses per restringir les consultes a la batllia francesa**:
    **quines, quan, per qui, i si es van aplicar.** **La font diu «crec saber».**
-3. **El *Politar*, pp. 209, 215 i següents, 248-249, 253 i 264.** — **La
+3. ~~**El *Politar*, pp. 209, 215 i següents, 248-249, 253 i 264.**~~ —
+   **`resolt` el 18-09-2026: totes s'han llegit dins l'extracte de Brutails.**
+   **La que toca aquesta fitxa de ple és la 209**, que **posa per escrit qui
+   assenta el que el batlle declara**: el batlle coneix **«verbalmen, en primera
+   instancia, […] sens assessor»**, però **«fent assentar lo verbal ***per lo
+   escriva de sa Curia*** en lo registre de verbals»**. **El batlle declara de
+   paraula; l'escrivà l'escriu; i el que queda és el registre, no la veu.**
+
+   **P. 248 — i el mateix a dalt**: al Consell, **«se assentan las deliberacions
+   en lo respectiu llibre, ja sie en lo de arrestos, ja en lo de ordinacions,
+   […] ***escribint lo secretari del Concell la deliberacio***»**.
+
+   **P. 237 — i el porter, que no escriu, té la seva paraula per prova**: **«Es o
+   son oficials jurats de la Cort, y per ayxo ***se done credit a son simple
+   ditxo o relacio***.»** **El mateix val per a capitans i deseners** (p. 236).
+
+   > **Tres graus de constància en una mateixa justícia**: **el que s'assenta en
+   > llibre**, **el que es creu per jurament d'ofici** i **el que es declara de
+   > viva veu i desapareix si ningú no l'escriu.**
+
+   **La divergència de xifra, `resolta` el 18-09-2026, i no era divergència.** **La
    divergència de xifra, `resolta` el 18-09-2026, i no era divergència.** **La
    pàgina 211 del Politar descriu el mecanisme sencer i les dues xifres hi
    caben**: el batlle ha de tenir **«uns 3 advocats amichs, homens de integritat,
