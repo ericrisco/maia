@@ -508,7 +508,7 @@ any per any. Això només hi és per al 1999/2000, a l'annex 4.`
   columna. Vegeu
   [Els quaranta centres](#els-quaranta-centres-un-per-un-amb-la-nacionalitat-de-qui-hi-va)
   i [Vint-i-tres anys d'alumnat](#vint-i-tres-anys-dalumnat-sistema-per-sistema).
-- **Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.**
+- ~~**Per què va tancar l'escola espanyola de Santa Coloma el setembre de 1992.**~~ — **`resolt` el 18-09-2026, com a duplicat intern**: la pregunta continua oberta a l'entrada canònica del final d'aquesta secció, que conserva la confirmació i la font que cal trobar.
 > **Auditats el 2026-09-14 contra la resta del corpus.** **Tres dels set eren
 > buits caducats**: **el corpus els havia tancat en altres articles de la
 > mateixa branca i aquesta llista no se n'havia assabentat.**
