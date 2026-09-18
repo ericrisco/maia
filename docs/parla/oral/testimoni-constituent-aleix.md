@@ -324,6 +324,7 @@ I la seva ocurrència dona **la construcció sencera**, no el participi solt:
 
 1. **Les 116 marques no s'han verificat.**
 2. **Cap mot nou.** És una tanda de confirmació, com la 18.
+   `no-es-buit`: és una descripció del resultat, no una pregunta pendent.
 3. **De la persona no consta** ni generació, ni origen, ni llengua primera, ni
    ofici. **És el cinquè perfil buit seguit d'aquesta sèrie**, i ja no és un
    descuit: **les entrevistes del Consell General no pregunten res personal**.
