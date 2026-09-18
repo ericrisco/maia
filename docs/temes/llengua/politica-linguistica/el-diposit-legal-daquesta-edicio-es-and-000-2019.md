@@ -104,6 +104,43 @@ de la frase que diu que la tendència s'ha invertit**.
 sobre la qual aquella edició construeix la seva conclusió principal.** **L'error
 neix aquí, l'any 2019, i es reimprimeix el 2023.**
 
+### Arbitrat el 18-09-2026: el text tenia raó i el gràfic no
+
+**El corpus ho havia deixat registrat i no arbitrat.** **L'API pública del
+Departament d'Estadística el resol**, amb les divisions **1971 i 1972**, font
+declarada **Departament de Política Lingüística**:
+
+| Indicador lingüístic | 1995 | 1999 | 2004 | 2009 | 2014 | **2018** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Català** | **56,3** | 53,9 | 48,5 | 48,2 | **57,7** | **56,8** |
+| **Castellà** | 50,0 | **58,2** | **60,8** | **59,1** | 56,4 | **57,6** |
+| Francès | 18,5 | 17,9 | 18,5 | 16,7 | 14,5 | 16,9 |
+| Portuguès | 7,3 | 8,5 | 11,4 | 15,3 | 13,9 | 13,9 |
+
+**El 2018 el català és 56,8 i el castellà 57,6**, tal com diu **el text** de la
+publicació. **El gràfic està equivocat**, i amb ell **la conclusió principal de
+l'edició del 2022 que s'hi basa.**
+
+**I la sèrie sencera diu una cosa que ni el text ni el gràfic no diuen.** El
+creuament no és un: **n'hi ha tres.**
+
+| Període | Qui va davant |
+| --- | --- |
+| **1995** | **català**, per 6,3 punts |
+| **1999-2009** | **castellà**, i la distància arriba a **12,3 punts el 2004** |
+| **2014** | **català**, per 1,3 punts |
+| **2018** | **castellà**, per 0,8 punts |
+
+**El 2004 i el 2009 són el sòl del català** —**48,5 i 48,2**— i **el 2014 és el
+sostre de tota la sèrie, 57,7**. **La imatge d'una caiguda contínua és falsa:
+el que hi ha és una caiguda fins al 2009, una recuperació forta el 2014 i un
+retrocés petit el 2018.**
+
+`Els valors 48,5 (2004) i 57,7 (2014) coincideixen exactament amb els que
+aquesta fitxa havia llegit del gràfic i de l'edició del 2011. La font de l'API
+és la mateixa que la de la publicació; no és una comprovació independent, però
+sí que és la sèrie sense passar per cap figura.`
+
 ## Una xifra reproduïda que no és la impresa: 75,4 contra 77,5
 
 **Aquesta edició dona, per a la seva pròpia onada, valors que l'edició del 2022
@@ -681,8 +718,12 @@ la prosa són sistemàtics i cap no altera una conclusió.**
 - **L'ISBN i el dipòsit legal reals d'aquesta edició, si existeixen.** **La
   pàgina de crèdits no en té**, i **el corpus no ha comprovat si figura a cap
   registre bibliogràfic.** `Requereix la Biblioteca Nacional d'Andorra.`
-- **Per què el gràfic de l'indicador no dibuixa el creuament del 2018**, i
-  **si existeix cap fe d'errates.** **El corpus no ho ha comunicat a ningú.**
+- ~~**Per què el gràfic de l'indicador no dibuixa el creuament del 2018**~~ —
+  **`resolt` quant al fet el 18-09-2026**: **el gràfic està equivocat i el text
+  té raó**, comprovat contra les divisions 1971 i 1972 de l'API d'Estadística
+  («[Arbitrat el 18-09-2026](#arbitrat-el-18-09-2026-el-text-tenia-rao-i-el-grafic-no)»).
+  `Per què s'hi va dibuixar malament, i si existeix cap fe d'errates, segueix
+  obert. El corpus no ho ha comunicat a ningú.`
 - **Quina part de la caiguda de l'atenció en català a l'Administració és el canvi
   de perímetre del 2018.** **`obert`, i el 17-09-2026 confirmat amb el gràfic
   llegit**: **el document no publica la sèrie sense els CAP i l'Hospital**, i

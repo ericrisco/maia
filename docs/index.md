@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1021** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**1022** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
 
 ## parla/oral
 
@@ -1231,6 +1231,7 @@
 | [La sèrie que no és una sèrie](temes/llengua/politica-linguistica/la-serie-que-no-es-una-serie.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `spl-coneixements-usos-linguistics-2022` |
 | [Quaranta-vuit coma cinc, no quaranta-vuit coma sis](temes/llengua/politica-linguistica/quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `spl-coneixements-usos-linguistics-2009` |
 | [Qui parla què](temes/llengua/politica-linguistica/qui-parla-que.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `govern-andorra-web` |
+| [Sis onades en una taula](temes/llengua/politica-linguistica/sis-onades-en-una-taula.md) | `temes/llengua/politica-linguistica` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/llengua/registres
 

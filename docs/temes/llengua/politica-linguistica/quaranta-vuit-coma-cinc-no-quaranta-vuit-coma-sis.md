@@ -106,6 +106,16 @@ res.**
 > **Cap edició no explica el canvi ni torna a fer la resta que el text del 2009
 > feia.** **El que segueix `obert` és per què.**
 
+> **I una tercera via, el 18-09-2026: l'API del Departament d'Estadística.** La
+> divisió **1971**, «indicador de l'ús lingüístic del català», font declarada
+> **Departament de Política Lingüística**, dona **48,5 el 2004**
+> ([sis onades en una taula](./sis-onades-en-una-taula.md)).
+> **La sèrie oficial tabulada porta el valor d'aquesta edició, no el de la del
+> 2022.** `No és una font independent —és el mateix departament—, però sí que és
+> el valor fora de tota figura i fora de tota reimpressió, i va en el mateix
+> sentit que la coherència interna del text del 2009.` **Amb això el corpus
+> tanca l'arbitratge del valor i deixa obert només el «per què» del canvi.**
+
 ### I la sèrie del castellà, confirmada
 
 | Indicador lingüístic | 1995 | 1999 | 2004 | 2009 |
@@ -470,10 +480,16 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
      generalista i especialista» — **i per tant la caiguda de 20 punts d'aquell
      àmbit el 2018 té, efectivament, una causa de qüestionari documentada a les
      dues edicions.**
-  2. **Una sèrie que només existeix en prosa**: «*Quant a la llengua més
+  2. ~~**Una sèrie que només existeix en prosa**: «*Quant a la llengua més
      utilitzada [al restaurant], no hi ha canvis significatius: **castellà (51 %),
      català (35 %), català i castellà (8 %), francès (2 %) i portuguès (2 %)***».
-     **Cap gràfic del fons no la dibuixa**, i **suma 98.**
+     **Cap gràfic del fons no la dibuixa**, i **suma 98.**~~ — **`resolt` el
+     18-09-2026**: **la sèrie sencera, sis onades, és a l'API d'Estadística**
+     (divisions 1985 i 1986) i **suma 100 totes sis**
+     ([sis onades en una taula](./sis-onades-en-una-taula.md)).
+     `El que la prosa citava amb cinc categories, la sèrie el dona amb quatre:
+     només català, només castellà, català i castellà, i altres situacions. No
+     són la mateixa partició, i per això no es poden confrontar xifra a xifra.`
   3. **Una errata de data**: la pàgina 20 escriu **«(32% el 2044)»** on vol dir
      **2004**.
 

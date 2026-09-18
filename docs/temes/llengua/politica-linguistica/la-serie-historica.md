@@ -17,14 +17,18 @@ tags: [llengua, sociolinguistica, dades, serie-historica, politica-linguistica]
 
 **Aquesta és la dada més important que el corpus ha trobat sobre la llengua.**
 
-| Llengua materna | **1995** | **1999** | **2022** |
-| --- | --- | --- | --- |
-| **Català** | **42,7 %** | **35,1 %** | **44,1 %** |
-| **Castellà** | 34,6 % | **43,2 %** | 40,3 % |
-| Francès | 10,8 % | 9,5 % | 10,0 % |
-| Portuguès | 10,7 % | 10,9 % | 13,5 % |
-| Anglès | 1,7 % | 1,3 % | 3,0 % |
-| Altres | 4,8 % | 6,2 % | — |
+| Llengua materna | **1995** | **1999** | 2004 | 2009 | 2014 | 2018 | **2022** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Català** | **42,7 %** | **35,1 %** | 29,9 % | **28,9 %** | 39,5 % | 35,7 % | **44,1 %** |
+| **Castellà** | 34,6 % | **43,2 %** | 43,4 % | **43,9 %** | 43,8 % | 43,2 % | 40,3 % |
+| Francès | 10,8 % | 9,5 % | 10,7 % | 10,5 % | 9,7 % | 8,9 % | 10,0 % |
+| Portuguès | 10,7 % | 10,9 % | 14,7 % | 17,9 % | 18,6 % | 17,1 % | 13,5 % |
+| Anglès | 1,7 % | 1,3 % | 1,2 % | 1,3 % | 3,5 % | 1,8 % | 3,0 % |
+| Altres | 4,8 % | 6,2 % | 6,9 % | 5,4 % | 5,5 % | 5,0 % | — |
+
+**Les quatre onades del mig s'hi han afegit el 18-09-2026**, de l'API del
+Departament d'Estadística ([sis onades en una taula](./sis-onades-en-una-taula.md)).
+**El mínim del català no és el 1999: és el 2009, amb un 28,9%.**
 
 Dades **1995 i 1999**: *Coneixements i usos lingüístics de la població
 d'Andorra* (2000), recollides per
@@ -76,12 +80,16 @@ en quatre anys.**
 
 Aquesta és la millor de totes:
 
-| Llengua en què es va **aprendre a llegir i escriure** | **1995** | **1999** |
-| --- | --- | --- |
-| **Català** | **14,0 %** | **15,7 %** |
-| **Castellà** | **55,7 %** | **58,3 %** |
-| Francès | 22,6 % | 18,8 % |
-| Portuguès | 10,5 % | 10,4 % |
+| Llengua en què es va **aprendre a llegir i escriure** | **1995** | **1999** | 2004 | **2009** |
+| --- | ---: | ---: | ---: | ---: |
+| **Català** | **14,0 %** | **15,7 %** | 15,7 % | **18,1 %** |
+| **Castellà** | **55,7 %** | **58,3 %** | 53,5 % | **52,5 %** |
+| Francès | 22,6 % | 18,8 % | 20,0 % | 20,4 % |
+| Portuguès | 10,5 % | 10,4 % | 13,9 % | 16,1 % |
+
+**Les onades del 2004 i del 2009 s'hi han afegit el 18-09-2026.** **En catorze
+anys el català guanya quatre punts i el castellà segueix per sobre del 50%**, i
+**la sèrie s'atura el 2009: les onades del 2014 i del 2018 no fan la pregunta.**
 
 **El 1999, només un 15,7 % de la població d'Andorra havia après a llegir i
 escriure en català. Un 58,3 % ho havia fet en castellà.**

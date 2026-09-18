@@ -4,7 +4,8 @@ El català com a única llengua oficial i la normativa que se'n deriva.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (12)
+## Articles (13)
+- [Sis onades en una taula](./sis-onades-en-una-taula.md) — Les quaranta-quatre sèries sociolingüístiques d'Andorra, 1995-2018, senceres i sense passar per cap gràfic. El català toca fons el 2009 i el sostre el 2014.
 - [El model del 2009, comprovat](./el-model-del-2009-comprovat.md) — Un model de la Universitat d'Andorra va projectar l'ús del català fins al 2021 amb dos escenaris que es diferencien en 57 punts.
 - [El que la llei de la llengua pot multar](./el-que-la-llei-pot-multar.md) — L'article que protegeix la variant andorrana té catorze paraules i no és a la llista d'infraccions.
 - [Els exàmens oficials de català](./els-examens-oficials-de-catala.md) — Al nivell A, el 75% de la nota és parlar.
