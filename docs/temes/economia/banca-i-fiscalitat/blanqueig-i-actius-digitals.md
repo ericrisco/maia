@@ -86,7 +86,12 @@ supervisor queda dins de la llei, no fora.**
 
 - **Si l'AndorraDex existeix**, si s'ha emès mai un DDSP i quantes empreses
   d'actius digitals hi ha registrades, **no consta**. La llei crea el marc; el
-  corpus no té cap dada del que s'hi ha construït.
+  corpus no té cap dada del que s'hi ha construït. — **`parcial` el
+  18-09-2026**: **el registre oficial de l'AFA en té cinc, amb nom**
+  —Crèdit Andorrà, Fimarge, Mora Banc Grup, Prosegur Custòdia d'Actius
+  Digitals i Onyze Assets— **i l'AndorraDex no hi apareix**
+  ([font](../../../fonts/afa-registre-actius-digitals.md)). **Cap
+  evidència d'un DDSP emès.**
 - ~~**Les obligacions concretes** de diligència deguda, comunicació d'operacions
   sospitoses i conservació de documents (el gruix dels 94 articles de la llei de
   blanqueig) **no s'han llegit**.~~ — **`resolt` el 17-09-2026**
