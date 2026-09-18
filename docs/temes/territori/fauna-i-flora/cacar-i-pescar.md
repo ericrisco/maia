@@ -140,12 +140,12 @@ propietat privada**.
 
 - **Quines espècies són caçables, la llei no ho diu.** Ho remet al reglament i
   als convenis internacionals (article 3). El corpus té el marc i no la llista.
-- **Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
-  no consta. — **`obert`, i el 18-09-2026 confirmat amb les dades a la mà**:
-  **els informes de caça del Departament de Medi Ambient publiquen captures
-  atorgades i percentatge de compliment, i mai població**
-  ([Qui caça i qui pesca](./qui-caca-i-qui-pesca.md)). `La xifra que la llei
-  exigeix per activar el pla no es publica enlloc del que s'ha consultat.`
+- ~~**Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
+  no consta.~~ — **`parcial` el 19-09-2026**: la pregunta de població és el
+  mateix buit canònic que [Qui caça i qui pesca](./qui-caca-i-qui-pesca.md)
+  registra per a isards, muflons i cabirols; queda oberta només si el llindar
+  dels 300 s'ha incomplert mai. Els informes publiquen captures atorgades i
+  percentatge de compliment, no població.
 - ~~**Quins vedats existeixen** —que són llei—~~ — **`resolt` el 17-09-2026** a
   «[Els quatre vedats, i la llei que els crea](#els-quatre-vedats-i-la-llei-que-els-crea)»:
   **la Llei dels vedats de caça del 13-4-2000 en crea quatre** —Enclar, Xixerella,
