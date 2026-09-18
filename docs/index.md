@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1034** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1035** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1357,6 +1357,7 @@
 | [Les primeres becàries](temes/societat/dones/les-primeres-becaries.md) | `temes/societat/dones` | compilada | contemporania | no | `toquec-ensenyament-frances` |
 | [Simplement un efecte de la deferència](temes/societat/dones/simplement-un-efecte-de-la-deferencia.md) | `temes/societat/dones` | compilada | historica | no | `brutails-coutume-1904` |
 | [Vanessa Mendoza Cortés](temes/societat/dones/vanessa-mendoza-cortes.md) | `temes/societat/dones` | compilada | contemporania | no | `wikipedia-vanessa-mendoza` |
+| [Vuitanta-cinc coma nou](temes/societat/dones/vuitanta-cinc-coma-nou.md) | `temes/societat/dones` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/educacio
 
