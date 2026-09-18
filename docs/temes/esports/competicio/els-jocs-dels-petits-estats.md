@@ -317,8 +317,9 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   instal·lacions, què hi va costar.~~ — **`resolt` el 18-09-2026, com a duplicat
   intern**: la pregunta continua a l'entrada canònica del final, que conserva
   les xifres ja trobades i el buit d'instal·lacions i cost.
-- **Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
-  passar realment.
+- ~~**Quin any organitzarà Andorra els tercers Jocs** (2021 o 2023), i què va
+  passar realment.~~ — **`resolt` el 19-09-2026**: van ser el **2025**, a
+  **Andorra la Vella**, del **27 al 31 de maig**, la **20a edició** ([font](../../../fonts/wikipedia-esport-andorra.md)).
 - ~~**El medaller andorrà complet** de les setze edicions.~~ — **`parcial`, i el
   buit s'està tancant per l'altre extrem.** **Aquesta fitxa té medallers per
   edició i cap nom**; **les fitxes d'esportista, en canvi, ja porten noms i
