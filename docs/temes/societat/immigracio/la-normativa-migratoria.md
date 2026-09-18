@@ -412,8 +412,12 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 7. ~~**La incoherència de les dues sèries de percentatges.**~~ **TANCADA** (vegeu
    més amunt).
 8. **Què va ser de la Comissió mixta d'alt nivell** després del 1993.
-9. **Francesca Ros Pascuet**: el corpus no té fitxa de persona, i és **font i, després,
-   ministra de la matèria que descriu**.
+9. ~~**Francesca Ros Pascuet**: el corpus no té fitxa de persona, i és **font i, després,
+   ministra de la matèria que descriu**.~~ **`parcial`:** el corpus ja la
+   identifica com a autora de *Població i migracions actuals* i de la ponència
+   que origina [Quatre menes de parròquia](../demografia/quatre-menes-de-parroquia.md),
+   i com a font de la cadena normativa d'aquesta fitxa; encara falta la seva
+   biografia i la confirmació documental del càrrec ministerial.
 
 ## El que ve després
 
