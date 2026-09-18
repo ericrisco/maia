@@ -244,7 +244,15 @@ al·legar, i la Direcció General resol.
   [La norma, i la frase que la buida](#la-norma-i-la-frase-que-la-buida).
   `Segueix obert si el Comitè de Recertificació ha avaluat mai ningú: cap
   resolució no és al BOPA.`
-- **L'ACMA**: quan es funda exactament, quants membres, si existeix encara.
+- ~~**L'ACMA**: quan es funda exactament, quants membres, si existeix
+  encara.~~ — **`parcial` el 18-09-2026**: el directori de filials de
+  l'**Acadèmia de Ciències Mèdiques i de la Salut de Catalunya i de
+  Balears** ([font](../../../fonts/academia-cat-filials.md)) fa constar
+  **«F. Andorra» amb un enllaç directe a `sac.ad`** — confirmació externa
+  que **l'ACMA no és una entitat separada, sinó la secció de ciències
+  mèdiques de la SAC**. Per això no té data de fundació ni nombre de
+  membres propis. **Sí existeix encara**: hi consta activa al directori
+  del 2026.
 - **Es va signar el conveni amb la Fundació Les Heures?**
 - **El conveni SAC–Universitat d'Andorra de maig del 2000.** — **`obert` el
   17-09-2026, i amb la via del [BOPA](../../../fonts/bopa.md) descartada.**

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **358** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **360** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1720,6 +1720,7 @@
 
 | Id | Titular | Llicència | Redistribució |
 | --- | --- | --- | --- |
+| [`academia-cat-filials`](fonts/academia-cat-filials.md) | Acadèmia de Ciències Mèdiques i de la Salut de Catalunya i de Balears | pàgina institucional pública | pendent |
 | [`acta-junta-govern-escaldes-2025`](fonts/acta-junta-govern-escaldes-2025.md) | Comú d'Escaldes-Engordany | acta formalitzada d'una administració comunal andorrana; document públic | pendent |
 | [`actes-historiques-consell-general`](fonts/actes-historiques-consell-general.md) | Consell General del Principat d'Andorra | Publicacio institucional en obert, sense llicencia declarada als llibres d'actes. La sintesi de Guillamet (2024) SI que porta prohibicio expressa de reproduccio. | pendent |
 | [`aepa-escriptorsand`](fonts/aepa-escriptorsand.md) | AEPA | publicació institucional, sense llicència declarada | pendent |
@@ -2028,6 +2029,7 @@
 | [`wikipedia-ca-futbol-club-andorra`](fonts/wikipedia-ca-futbol-club-andorra.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-inaki-rubio-manzano`](fonts/wikipedia-ca-inaki-rubio-manzano.md) | Viquipèdia en català | CC BY-SA 4.0 | permesa amb atribució (CC BY-SA) |
+| [`wikipedia-ca-inter-club-descaldes`](fonts/wikipedia-ca-inter-club-descaldes.md) | Viquipèdia en català | CC BY-SA 4.0 | si (amb atribució, CC BY-SA) |
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-llista-carreteres-andorra`](fonts/wikipedia-ca-llista-carreteres-andorra.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
