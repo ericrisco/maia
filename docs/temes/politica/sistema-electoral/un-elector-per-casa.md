@@ -281,7 +281,13 @@ un mestre de noys y un de noyes en cada paroquia.»**
    ([cinc respostes a la mateixa pregunta](../../institucions/justicia/cinc-respostes-a-la-mateixa-pregunta.md)).
 3. **En què consistien les «facilitats» de naturalització** per al cap de casa
    estranger.
-4. **Quan es va passar del vot per casa al vot per persona**, i amb quina norma.
+4. ~~**Quan es va passar del vot per casa al vot per persona**, i amb quina
+   norma.~~ — **`resolt` el 18-09-2026: no és un buit, era la reconstrucció
+   d'una altra fitxa.** [El sufragi universal
+   masculí](../sistema-electoral/el-sufragi-universal-masculi.md#per-que-importa-i-molt)
+   ja ho dona: **1866 els caps de casa, 1933 els homes** (amb un parèntesi
+   sense sufragi entre el 1941 i el 1947), **1970 les dones, 1993 la
+   Constitució**. **No hi ha una única norma: cada graó té la seva.**
 5. ~~**Quan es va deixar de votar de viva veu.**~~ — **`resolt` el 18-09-2026,
    i són dues dates perquè eren dues coses.** **La data és molt més tardana
    del que semblava.** El que el
