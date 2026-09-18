@@ -690,7 +690,7 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***valira*** | **‘riu'**, com a nom comú — **«alguns padrins d'Andorra anomenen encara avui a qualsevol riu *una valira*»**, i en conserven l'expressió col·loquial ***anar a fer una valira*** en el sentit d'**anar a fer un riu** (orinar). **És l'argument que els autors oposen a l'etimologia llatina (*VALERIA*) de Coromines**: si el mot viu com a apel·latiu, el topònim és un hidrònim | [Els annexos dels topònims](../../territori/toponimia/els-annexos-dels-toponims.md) |
 | ***gord*** | **‘dur, fort'** en andorrà — **els autors hi recorren per llegir el topònim Engordany**, on el substrat rocós del solà té justament aquesta característica | ídem |
 
-### Tres mots del camp, comprovats al DCVB — 18-09-2026
+### Quatre mots del camp i del terme, comprovats als diccionaris — 18-09-2026
 
 | Mot | Què vol dir | On surt |
 | --- | --- | --- |
@@ -698,6 +698,8 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***maiencs*** | **l'herba nova que es dona al bestiar pel maig**, després de tot l'hivern d'herba de l'any anterior. **Al DCVB, recollit per Coromines a l'Alt Pallars.** **A la tarifa de bans andorrana surt com a «*herbas maencas*»**, oposat a «*artificials*»: **l'herba que neix sola contra el prat sembrat** | ídem |
 
 | ***mallador*** | **el corral o l'era coberta on es bat el gra**. **El [DCVB](../../fonts/dcvb.md) hi posa Andorra** (amb Pallerols i Vilaller) **en la tercera de tres accepcions**; les altres dues són d'ofici —«home que malla el ferro», «home que treballa en la mallada»— **i no porten localització andorrana**. **És la prova material que a Andorra s'hi feia cereal**: les bordes amb mallador | [L'agricultura de subsistència](../../economia/ramaderia-i-agricultura/lagricultura-de-subsistencia.md) |
+
+| ***antoxà*** *(també `antoixà`, `antojà`, `entoxà`)* | **la franja de propietat pública que toca una de privada, i també els propietaris que hi toquen**. **De `tocar`**, segons Brutails. **No és ni al [DCVB](../../fonts/dcvb.md) ni al [DIEC2](../../fonts/diec2.md)**; **les quatre grafies són de fonts andorranes** —el Politar (1763), un document de 1730, un judici de visura de 1875— i **la font mateixa el declara «difícil de definir»**. **Un sabi de Soldeu el va definir: «tros de comunal prop de una finca particular»** | [La llei afavoreix la finca que presta la servitud](../../territori/paisatge-construit/la-llei-afavoreix-la-finca-que-presta-la-servitud.md) |
 
 **`redall` és el més valuós dels dos per a aquest corpus**: **és el DCVB qui hi
 posa Andorra**, i **amb pronúncia diferenciada**. **`maienc` no té localització

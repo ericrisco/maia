@@ -233,8 +233,42 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    testimoni andorrà del mot**, que el corpus no té.
 5. **Els decrets del 24-11-1885, 23-11-1877, 27-05-1879, 15-04-1886 i 05-04-1887**,
    sencers.
-6. **El Politar, p. 209, 263 i 266**, que **el corpus no té** i que **són les tres
-   pàgines on el mot *antoxá* apareix amb sentits diferents.**
+6. ~~**El Politar, p. 209, 263 i 266**, que **el corpus no té** i que **són les
+   tres pàgines on el mot *antoxá* apareix amb sentits diferents.**~~ —
+   **`resolt` el 18-09-2026: les tres pàgines s'han llegit dins l'extracte de
+   Brutails**, i **hi ha una quarta grafia que el corpus no tenia.**
+
+   **P. 209 — el mot dins una llista de competències del Consell**: les coses
+   sobre les quals el Consell General té facultats expresses són **«quisties,
+   talles, ***antoxants***, passos, rigueres, boscos, &c., segons son
+   privilegi»**. **Aquí és un objecte de regulació al costat dels impostos i dels
+   camins**, i és la pàgina sobre la qual Brutails escriu, en nota, que *potser*
+   hi val el sentit de béns gravats de servitud. **«Potser» és seu; el corpus no
+   hi afegeix res.**
+
+   **P. 263 — el mot com a franja del propi fons**: el Consell pot declarar un
+   batlle incurs en pena del cot i recot si no paga quèsties o talles o **si «no
+   tingues **los camins reals en sos *antoxans*** en la deguda forma»**. **Aquí
+   l'*antoxà* és de qui el té**: el tros que toca el camí i que ell ha de
+   mantenir.
+
+   **P. 266 — el mot com a persona, i escrit d'una altra manera.** El Politar
+   proposa que les pedres dels camins es llencin al riu, es portin a una pedrera
+   o s'enterrin fondes, i que cada parròquia adobi cada any un tros de camí; i
+   diu que d'això resultarà **«que, com los ***entoxans*** trauran lluny las
+   pedras dels camins o les enterraran…»**.
+
+   > **La grafia de la p. 266 és `entoxans`, amb e-.** **El corpus tenia
+   > registrades `antoxá`, `antoixá` i `antojá`** —les dues últimes d'un document
+   > de 1730 i d'un judici de visura de 1875— **i ara en té una quarta.** **Quatre
+   > grafies per a un mot que la font mateixa declara impossible de definir, i
+   > cap dels dos diccionaris no en té entrada**: **ni el
+   > [DCVB](../../../fonts/dcvb.md) ni el [DIEC2](../../../fonts/diec2.md) no
+   > recullen `antosà`, `antoixà` ni `antojà`** —el DCVB només té `ANTOIXADÍS`,
+   > que és del valencià *antoix* 'capritx' i no hi té res a veure. **És, doncs,
+   > un terme andorrà sense entrada lexicogràfica**, i **la variació de grafia
+   > n'és la prova**: **un mot que s'escriu de quatre maneres és un mot que no ha
+   > passat mai per un diccionari.**
 7. **Si l'*antoixà* donava preferència per a les bohigues a tot el país** o **només
    a Soldeu**, d'on ve l'exemple. **La font el dona com a cas que li van assenyalar.**
 8. **Fins on arribava «la profunditat imprecisa» de l'antoixà**, que **és
