@@ -140,9 +140,13 @@ I el consell concret als pares: **que no hi portin els fills a disgust**, i que
 5. **Mestre Roure** i l'esbart-orfeó d'Andorra la Vella
    ([els gegants](../../costums/gegants/els-gegants.md)).
 6. **Què ha passat des del 2000** — la font té vint-i-sis anys.
-7. **Les escoles d'art comunals**, que la mateixa Diada situa **a mitjan anys
+7. ~~**Les escoles d'art comunals**, que la mateixa Diada situa **a mitjan anys
    vuitanta**, creades a **Sant Julià, Andorra la Vella i Encamp** a demanda
-   d'artistes i alumnes. **Fitxa pendent.**
+   d'artistes i alumnes. **Fitxa pendent.**~~ — **`resolt` el 18-09-2026**:
+   [Les escoles d'art comunals](../arts-visuals/les-escoles-dart-comunals.md)
+   —**abans hi havia els tallers dels artistes, que acollien qui volia aprendre**,
+   i **a mitjan anys vuitanta els comuns ho van institucionalitzar, parròquia per
+   parròquia**.
 
 ## Related
 

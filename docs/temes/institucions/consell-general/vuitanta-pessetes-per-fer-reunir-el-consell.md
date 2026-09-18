@@ -379,10 +379,17 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
 
 ## Buits registrats
 
-1. **El text de la Reforma de 1866.** **Ara amb fitxa bibliogràfica completa**:
-   *Plan de reforma adoptat en las valls de Andorra…*, **Seu d'Urgell, 1866,
-   in-12, 16 pàgines**, qualificada de **«molt rara»** ja el 1904. `obert,
-   prioritari, i localitzable.`
+1. ~~**El text de la Reforma de 1866.**~~ — **`resolt` el 15-09-2026, i
+   registrat aquí el 18-09-2026**: **el text és a l'apèndix D de Fernando de los
+   Ríos Urruti**, *Vida e instituciones del pueblo de Andorra* (1920), i **el
+   corpus el té llegit article per article**
+   ([que no s'hi hagi mirat amb menyspreu ni
+   indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+   **Aquesta fitxa el mantenia obert quan ja feia tres dies que no ho era.**
+   `El que segueix obert és l'imprès original` —*Plan de reforma adoptat en las
+   valls de Andorra…*, **Seu d'Urgell, 1866, in-12, 16 pàgines**, qualificada de
+   **«molt rara»** ja el 1904—: **el corpus en té una transcripció de 1920, no
+   l'edició.**
 2. **L'aprovació episcopal impresa al capdavant de la Reforma**, amb els seus
    paràgrafs. **En cita el § 1.** `obert, prioritari: és la peça que l'acusació
    del 1894 posa en qüestió.`

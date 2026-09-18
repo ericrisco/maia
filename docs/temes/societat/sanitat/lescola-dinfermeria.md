@@ -154,6 +154,13 @@ també ha d'evitar la malaltia.
   els **Serveis de Salut Mental del SAAS es posen en marxa el 1998**
   ([la salut mental](./la-salut-mental.md)).
 - **Si l'EUIA existeix encara** amb aquest nom dins la Universitat d'Andorra.
+  — **`parcial` el 18-09-2026**: **la Universitat la llista com un dels seus
+  centres** i **la dona per la més antiga**
+  ([La Universitat d'Andorra](../educacio/la-universitat-dandorra.md)), **que hi
+  afegeix la data que fa quadrar el compte**: **la llei del 1997 no crea uns
+  estudis, els aixopluga, i l'Escola d'Infermeria és del 1988.** `El que segueix
+  obert és el nom: la fitxa de la Universitat en diu «Escola d'Infermeria» i no
+  diu si la sigla EUIA segueix viva.`
 
 ## Related
 

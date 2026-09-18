@@ -103,7 +103,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - **Les victòries d'Andorra sota el seu comandament.** La selecció n'ha guanyat
   **14 de 224** ([la selecció](./la-seleccio.md)) i **el corpus no sap quantes
   són seves.**
-- **La Federació Andorrana de Futbol**, sencera.
+- ~~**La Federació Andorrana de Futbol**, sencera.~~ — **`resolt` el
+  18-09-2026**: **ja té fitxa**,
+  [La Federació Andorrana de Futbol](./clubs-i-competicions/la-federacio.md).
 
 ## Related
 

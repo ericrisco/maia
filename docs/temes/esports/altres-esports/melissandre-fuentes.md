@@ -72,8 +72,12 @@ habitants.** **No és casualitat: és l'escala.**
   **entrenador Mikel Garcia**, **club «Orient Club Gel, Canillo»** — **vegeu la
   discrepància amb el nom del club registrada a
   [Marc Casal](./marc-casal.md).**
-- **El Palau de Gel de Canillo** i els esports de gel andorrans. **Buit
-  prioritari.**
+- ~~**El Palau de Gel de Canillo** i els esports de gel andorrans. **Buit
+  prioritari.**~~ — **`parcial` el 18-09-2026**: **l'equipament ja té fitxa**,
+  [El Palau de Gel de Canillo](./el-palau-de-gel.md) —**la pista de la selecció
+  d'hoquei, amb un milió d'euros l'any del Comú de Canillo fins al 2011**.
+  `El que segueix obert són els esports de gel andorrans com a conjunt: el
+  patinatge artístic, que és el d'aquesta fitxa, no hi surt.`
 - **Si segueix patinant.**
 
 ## Related

@@ -255,8 +255,13 @@ dataset**.`
    arreu com el d'una generació».
 3. **Quan i com es passa de vint-i-cinc anys a vint.**
 4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
-5. **El Sindicat andorrà de treballadors** impulsat per l'ARA als anys vuitanta,
-   i què vol dir «un dret que ens ha estat retallat».
+5. **Què vol dir «un dret que ens ha estat retallat».** — **`parcial` el
+   18-09-2026**: **el sindicat ja té fitxa**,
+   [El Sindicat Andorrà de Treballadors](../../societat/treball/el-sindicat-andorra-de-treballadors.md)
+   —**Andorra era l'únic estat europeu on no es permetia fundar sindicats**, i
+   **el primer es va constituir clandestinament el 1988 i es va fundar el 8 de
+   març del 1990**. `El que segueix obert és la frase: quin dret es donava per
+   retallat, i per qui.`
 6. ~~**Quan arriba la llei d'immigració andorrana.**~~ **TANCAT: el 2012**, amb
    la **Llei 9/2012, qualificada d'immigració** — **més de divuit anys després de
    la Constitució**, quan es demanava en sis mesos. Vegeu

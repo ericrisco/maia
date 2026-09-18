@@ -180,8 +180,12 @@ institucions dins la llei vigent.**
 ## Buits registrats
 
 - **Les dispenses de consanguinitat «*propter angustiam loci*»**: **graus,
-  freqüència i anys.** **El corpus en té la fórmula, per una font del 1904, i cap
-  expedient.**
+  freqüència i anys.** — **`parcial` el 18-09-2026**: **la fórmula i el que
+  significava ja tenen fitxa**,
+  [Propter angustiam loci](../../institucions/justicia/propter-angustiam-loci.md),
+  **que en lliga l'estretor del lloc amb el buidatge dels tribunals de
+  parròquia**. `El que segueix obert és el recompte: graus, freqüència i anys.
+  El corpus no té ni un expedient.`
 - **La filiació, l'autoritat parental i els aliments** ocupen més de la meitat
   de la llei i aquesta fitxa no els toca.
 - **Quants matrimonis canònics i quants civils se celebren**, no consta. El

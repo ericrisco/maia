@@ -244,8 +244,14 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
    30% dels andorrans** eren al sistema francès. **Compte amb el denominador**:
    aquesta fitxa diu *qui hi ha a l'escola francesa* i aquella diu *on va cada
    grup*. **No són la mateixa pregunta i no es contradiuen.**
-6. **L'ensenyament espanyol** i **el confessional**: ponències del mateix volum,
-   **pendents**.
+6. ~~**L'ensenyament espanyol** i **el confessional**: ponències del mateix
+   volum, **pendents**.~~ — **`resolt` el 18-09-2026**: **totes dues tenen
+   fitxa**, [L'ensenyament espanyol](./lensenyament-espanyol.md) —**deu centres
+   públics espanyols, un a un, amb els seus efectius comprovats contra una segona
+   font**— i
+   [L'ensenyament confessional](./lensenyament-confessional.md) —**cinc monges que
+   pugen a Canillo el 30 de març de 1882**, i **la sèrie que no s'ha trencat des
+   d'aleshores**.
 
 ## Related
 

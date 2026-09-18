@@ -175,7 +175,13 @@ massís**.
 - **El segell de carn de qualitat d'Andorra**: què és, qui l'atorga, quants
   ramaders. **El corpus no en té fitxa.**
 - **Les 18 espècies de quiròpters d'Andorra**, amb nom.
-- **El CENMA** mateix: fitxa pròpia, dins l'Institut d'Estudis Andorrans.
+- **El CENMA** mateix: fitxa pròpia. — **`parcial` el 18-09-2026**: **no en té
+  de pròpia, però està descrit dins la de la casa mare**,
+  [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md),
+  **com a Centre d'Estudis de la Neu i de la Muntanya d'Andorra**, i **amb la
+  frontera amb el CRECIT registrada**: **el CRECIT fa qualitat de l'aire, aigües
+  i hidrologia; el CENMA, neu, muntanya i seguiments biològics.** `El que segueix
+  obert és la fitxa pròpia.`
 
 ## Related
 

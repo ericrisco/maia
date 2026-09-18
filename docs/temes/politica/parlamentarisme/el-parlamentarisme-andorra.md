@@ -137,7 +137,11 @@ fumar en un local públic**.
 
 1. **Els partits polítics.** **Prioritari i gros.** Se citen —DA, PS, L'A, UL— i
    **cap font del corpus els descriu**.
-2. **La llista dels síndics generals.** El corpus en té cinc noms.
+2. ~~**La llista dels síndics generals.** El corpus en té cinc noms.~~ —
+   **`resolt` el 18-09-2026**: **la successió sencera del 1419 ençà ja té fitxa**,
+   [Els síndics generals](../../persones/els-sindics-generals.md) —**quaranta-set
+   mandats**, **una data impossible que el corpus rebutja** i **el càrrec que
+   canvia de nom el 1993**.
 3. **La llista dels caps de Govern.**
 4. **El llibre d'actes del Consell General entre 1745 i 1864**, que **ha
    desaparegut**. Bascompte ho qualifica de pèrdua d'«un gran període
