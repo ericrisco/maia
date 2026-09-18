@@ -6,8 +6,8 @@ titular: Junta para Ampliación de Estudios e Investigaciones Científicas · Ce
 url: ""
 llicencia: sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem
 redistribucio: pendent
-data_consulta: 2026-09-13
-abast: Volum llegit de la primera pàgina a l'última llevat de l'apèndix C, que és el Pariatge i del qual el corpus ja té el text per l'annex 1 de Vilar. Tretze unitats destil·lades.
+data_consulta: 2026-09-18
+abast: Volum llegit de la primera pàgina a l'última, inclòs l'apèndix C (el Pariatge de 1278, pp. 137-150), que es contrasta amb el text de l'annex 1 de Vilar. Tretze unitats destil·lades.
 notes: >
   Catedràtic de dret polític de Granada; treball de camp cap al 1918 i text
   signat a Granada el desembre d'aquell any. El llibre declara la seva tesi a
@@ -106,8 +106,8 @@ propietari del repositori, no de qui llegeix.**
 | **Capítol IV, secció C, pp. 104-113** (el Consell de les Valls com a òrgan, i el síndic) | **destil·lat el 16-09-2026** |
 | **Capítol IV, pp. 113-117** (els serveis del Consell i els dos pressupostos de 1917) | **destil·lat el 16-09-2026** — **amb l'advertiment de la font: el pressupost no existia escrit i el van compondre davant seu** |
 | **Capítol IV, pp. 117-127** (la propietat i la comunitat, i la conclusió sobre el domini públic) | **destil·lat el 16-09-2026** |
-| **El volum** | **llegit de la primera pàgina a l'última**: «Al lector», capítols I-IV i apèndixs A, B i D. **Només queda l'apèndix C**, que és **el Pariatge**, del qual el corpus ja té el text per l'annex 1 de Vilar: **la feina pendent allà és el contrast entre dues transcripcions** |
+| **El volum** | **llegit de la primera pàgina a l'última**: «Al lector», capítols I-IV i apèndixs A-D. **L'apèndix C**, que és **el Pariatge**, s'ha llegit i contrastat amb el text de l'annex 1 de Vilar. |
 | **Apèndix D** (la Reforma del 22 d'abril de 1866, pp. 150-161) | **destil·lat el 15-09-2026** — tancava un buit declarat en quatre articles del corpus |
 | **Apèndix A** (donació d'Ermengol VI al bisbe Pere, 27 de gener de 1133, pp. 131-133) | **destil·lat el 15-09-2026** — tancava la secció de buit «Què va passar el 1133» de `els-privilegis` |
 | **Apèndix B** (concòrdia del 8 de gener de 1176, pp. 133-136) | **destil·lat el 15-09-2026** — tancava el buit 3 de `cap-de-casa-pero-de-casa-antiga`, marcat prioritari |
-| **Apèndix C** (el Pariatge del 8 de setembre de 1278) | **sense llegir**. **El corpus ja té el text del Pariatge per l'annex 1 de Vilar (1904)**: la feina d'aquest apèndix és **el contrast entre dues transcripcions del mateix document**, no una lectura nova |
+| **Apèndix C** (el Pariatge del 8 de setembre de 1278) | **llegit el 18-09-2026**, pp. 137-150. **El corpus ja té el text del Pariatge per l'annex 1 de Vilar (1904)**: aquesta lectura confirma què conté l'apèndix i permet el contrast entre les dues transcripcions. |

@@ -264,8 +264,13 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
    sèrie i no d'aquest document; el corpus registra el que el text diu.`
    **El que segueix obert és la llista de signants de l'original**, que aquesta
    còpia declara i no porta.
-4. **L'apèndix C de la mateixa obra**, d'on surt el text de la ciutadania.
-   **A l'abast: és al mateix volum.**
+4. ~~**L'apèndix C de la mateixa obra**, d'on surt el text de la ciutadania.~~ —
+   **`resolt` el 18-09-2026**: l'he llegit al mateix volum, **pp. 137-150**.
+   És el **Pariatge del 8 de setembre de 1278**, en llatí, i la seva primera
+   clàusula tracta la *questia* i la jurisdicció compartida; **no reprodueix el
+   text de ciutadania**. Aquest text és al capítol III, **p. 72**, i el seu peu
+   remet a «apèndix C, 1.º»; **la funció exacta d'aquesta remissió no queda
+   demostrada i no s'hi atribueix cap contingut que l'apèndix no tingui**.
 5. **Qui era José de Riba**, veguer episcopal, **i què se n'ha fet, de l'original
    del Manual Digest que guardava a Ordino.** **Prioritari.**
 6. **Si el *prohijamiento* del Comú té text normatiu**, o **és pràctica.** **La
