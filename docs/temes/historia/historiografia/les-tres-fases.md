@@ -276,7 +276,14 @@ sabia.**
   d'Arxius del comú d'Andorra la Vella i avui coordinador d'història a
   Andorra Recerca + Innovació ([font](../../../fonts/wikipedia-ca-albert-villaro.md)).
 - **El CEHiP**: **què ha fet des del 2018.**
-- **Roland Viader** i **Olivier Codina**.
+- ~~**Roland Viader** i **Olivier Codina**.~~ — **`resolt` el 18-09-2026**:
+  **ara tenen fitxa**, a [Roland Viader](../../persones/roland-viader.md)
+  i [Olivier Codina](../../persones/olivier-codina.md). **Viader és
+  investigador del CNRS amb una tesi titulada literalment «Pouvoirs et
+  communautés en Andorre»** ([font](../../../fonts/roland-viader-biografia.md));
+  **Codina és investigador del Patrimoni Cultural d'Andorra**, autor de
+  *De fer et de laine*
+  ([font](../../../fonts/olivier-codina-biografia.md)).
 - **Els diplomataris**, tots.
 
 ## Related

@@ -89,8 +89,8 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Cebrià Baraut** | ***Cartulari de la Vall d'Andorra***, vol. I (**1988**, s. IX-XIII) i vol. II (**1990**, s. X-XIII), Govern d'Andorra. **És la font documental de base de la toponímia** | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · **l'obra segueix sense obrir** |
 | **Àlvar Valls** | **Diccionari enciclopèdic d'Andorra**, 2006 | [l'obra](../historia/historiografia/el-diccionari-enciclopedic.md) |
 | **Sergi Mas i Balaguer** | ***El moble andorrà*** (2003) i ***Aspectes de l'art popular d'Andorra*** (2016). **Va escriure el que també va esculpir** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
-| **Roland Viader** | *L'Andorre du IXe au XIVe siècle*; la tesi de la **federació de comuns** | **buit prioritari** |
-| **Olivier Codina** | *De fer et de laine*: les valls del XVI al XIX | **buit** |
+| **Roland Viader** | *Pouvoirs et communautés en Andorre*; la tesi de la **federació de comuns**; investigador del CNRS | [fitxa](./roland-viader.md) |
+| **Olivier Codina** | *De fer et de laine*: les valls del XVI al XIX; investigador del Patrimoni Cultural d'Andorra | [fitxa](./olivier-codina.md) |
 | **[Montserrat Palau i Martí](./montserrat-palau-marti.md)** | **Fitxa pròpia des del 2026-09-13.** **Etnòloga del Musée de l'Homme i africanista**: cinc llibres sobre els Dogon i el Benín. **Vuit llibres sobre Andorra**, entre els quals una **bibliografia impresa del país del 1598 al 1973** i dos sobre **el protestantisme andorrà del segle XVI** | [la seva fitxa](./montserrat-palau-marti.md) |
 
 ### Els senyors

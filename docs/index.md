@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1062** documents · **290** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1064** documents · **292** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1293,7 +1293,9 @@
 | [Montserrat Palau i Martí](temes/persones/montserrat-palau-marti.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-religio-andorra` |
 | [Nahuel Carabaña](temes/persones/nahuel-carabana.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Naiara Liñán](temes/persones/naiara-linan.md) | `temes/persones` | compilada | contemporania | no | `anaesports` |
+| [Olivier Codina Vialette](temes/persones/olivier-codina.md) | `temes/persones` | compilada | contemporania | no | `olivier-codina-biografia` |
 | [Òscar Ribas Reig](temes/persones/oscar-ribas-reig.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
+| [Roland Viader](temes/persones/roland-viader.md) | `temes/persones` | compilada | contemporania | no | `roland-viader-biografia` |
 | [Roser Suñé i Pascuet](temes/persones/roser-sune.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Simeón de Guinda y Apeztegui](temes/persones/simeon-de-guinda.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-simeon-guinda` |
 | [Susanna Vela Palomares](temes/persones/susanna-vela.md) | `temes/persones` | compilada | contemporania | no | `consellgeneral-susanna-vela` |
@@ -1871,6 +1873,7 @@
 | [`national-football-teams`](fonts/national-football-teams.md) | national-football-teams.com | desconeguda, ús informatiu | False |
 | [`nomen-capital-social-2007`](fonts/nomen-capital-social-2007.md) | Eusebi Nomen i Calvet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`olivier-codina-biografia`](fonts/olivier-codina-biografia.md) | Presses universitaires de Perpignan · Patrimoni Cultural d'Andorra | publicació institucional, sense llicència declarada | pendent |
 | [`olympics-com-verdu-mamba-austria`](fonts/olympics-com-verdu-mamba-austria.md) | Comitè Olímpic Internacional (Olympics.com) | publicació institucional, sense llicència declarada | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`palau-marti-identitat-andorrana-1994`](fonts/palau-marti-identitat-andorrana-1994.md) | Montserrat Palau i Martí · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1895,6 +1898,7 @@
 | [`rios-urruti-andorra-1920`](fonts/rios-urruti-andorra-1920.md) | Junta para Ampliación de Estudios e Investigaciones Científicas · Centro de Estudios Históricos (edició); Fernando de los Ríos Urruti (textos) | sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rodriguez-rossa-creacio-artistica`](fonts/rodriguez-rossa-creacio-artistica.md) | Francesc Rodríguez i Rossa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`roland-viader-biografia`](fonts/roland-viader-biografia.md) | TRACES (CNRS/Université Toulouse-Jean Jaurès) · Persée | publicació institucional, sense llicència declarada | pendent |
 | [`ros-pascuet-normativa-migratoria-1997`](fonts/ros-pascuet-normativa-migratoria-1997.md) | Francesca Ros Pascuet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`ros-pascuet-poblacio-migracions-1989`](fonts/ros-pascuet-poblacio-migracions-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autora (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`rui-comunitat-mixta-1997`](fonts/rui-comunitat-mixta-1997.md) | Sandrine Rui · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
