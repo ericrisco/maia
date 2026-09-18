@@ -572,8 +572,11 @@ parlants**.
 
 ## Buits registrats
 
-1. **`[?llat]`.** Hipòtesi ferma (`aviat`, tres contextos concordants) i **cap
-   escolta**. Es tanca a 00:10:06.
+1. ~~**`[?llat]`.** Hipòtesi ferma (`aviat`, tres contextos concordants) i **cap
+   escolta**. Es tanca a 00:10:06.~~ — **`parcial`**: la fitxa ja fixa la
+   lectura **`aviat`** en els tres contextos i explica per què és la que els
+   concorda; el que segueix pendent és escoltar l'àudio, i per això la
+   transcripció conserva `[?llat]`.
 2. **`aletes`.** Un sol parlant. **No es pot dir si és el mot de l'ofici aquí o
    la manera de dir-ho d'ell.** Cal un segon parlant de molins, i el corpus ja
    n'ha esgotat dos.
