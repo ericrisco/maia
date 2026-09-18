@@ -212,13 +212,13 @@ com a buit «quan va desaparèixer el violari».**
    jurisdictione omnium judicum***, i d'***Ubi acceptum est semel juditium***.**
    **El corpus en registra els noms i no n'ha comprovat el text.**
    `Requereix el Digest.`
-3. **Si la inembargabilitat dels aliments existia a Andorra com a categoria
-   jurídica.** ~~**Buit obert a `avui-trec-penyores`.**~~ — **Respost aquí **en
-   part**: **en aquesta escriptura opera com a pacte i amb una fórmula de
-   qualificació, no d'invocació.** **Segueix obert si hi havia norma.**
-4. **Per què el tipus del violari va passar del 14,29 % de 1628 al 6,73 % de cap
-   al 1875.** **El corpus té dos punts separats per 247 anys i cap dada
-   intermèdia.**
+3. ~~**Si la inembargabilitat dels aliments existia a Andorra com a categoria
+   jurídica.** **Buit obert a `avui-trec-penyores`.**~~ — **`parcial` el
+   18-09-2026**: **en aquesta escriptura opera com a pacte i amb una fórmula de
+   qualificació, no d'invocació**; **segueix obert si hi havia norma general**.
+4. ~~**Per què el tipus del violari va passar del 14,29 % de 1628 al 6,73 % de cap
+   al 1875.**~~ — **`parcial` el 18-09-2026**: **el corpus té els dos punts
+   separats per 247 anys**, però **cap dada intermèdia ni la causa del canvi**.
 5. **Si el *violari* i el *vitalici* eren la mateixa figura el 1875** o **si
    l'acte els acumula per cautela notarial.** `Registrat, no arbitrat.`
 6. **L'operació de base**: **una *in solutum datio* prèvia, una revenda per 1.641

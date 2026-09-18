@@ -306,9 +306,10 @@ tres.**
    contracte de matrimoni del 12 d'agost de 1883** que la segona cita.
 6. **El plet de 1885** sobre la forma de les sentències arbitrals, **i com va
    acabar.** **La font diu què proposaria ella i no diu què es va decidir.**
-7. **D'on surt «una vegada de cada tres».** **És d'un notable, no d'un recompte**, i
-   **el corpus no té cap sèrie amb què comprovar-ho.** — **Anotat el 22-09-2026**: **el corpus no en té la
-   freqüència però ara en té el preu.** **«*Quan el batlle aconsegueix conciliar
+7. ~~**D'on surt «una vegada de cada tres».** **És d'un notable, no d'un recompte**, i
+   **el corpus no té cap sèrie amb què comprovar-ho.**~~ — **`parcial` anotat el
+   22-09-2026**: **el corpus no en té la freqüència però ara en té el preu.**
+   **«*Quan el batlle aconsegueix conciliar
    els litigants, és ús que aquests paguin el dinar d'aquest magistrat i del seu
    greffier*»** *(p. 304)*, **mentre que no conciliar costava dues pessetes per
    audiència, cada tres setmanes.** **`Lectura del corpus`, marcada com a seva**:
