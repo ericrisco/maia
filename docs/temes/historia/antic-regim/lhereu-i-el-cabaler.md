@@ -292,10 +292,10 @@ algú l'havia escrita.**
 
 ## Buits registrats
 
-1. **Casos reals** de tria d'hereu documentats amb noms. **Un, del 1788**, encara
-   que Brutails n'abreuja els cognoms: **els tutors d'una òrfena d'Ordino, nomenats
-   pel batlle, la fan hereva universal «atenent al crescut adot y aixovar» que hi
-   portava el marit**. Vegeu
+1. **Casos reals** de tria d'hereu documentats amb noms. **`parcial`**: n'hi ha
+   **un, del 1788**, encara que Brutails n'abreuja els cognoms: **els tutors d'una
+   òrfena d'Ordino, nomenats pel batlle, la fan hereva universal «atenent al
+   crescut adot y aixovar» que hi portava el marit**. Vegeu
    [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md).
 2. **Amb quina freqüència** heretaven filles. L'autor diu que no hi havia
    discriminació «en principi»; **el corpus no té cap xifra**.
@@ -305,7 +305,7 @@ algú l'havia escrita.**
    possibilitat de disposar de tres mesos» per venir a ajudar.
 4. La **clàusula de viduïtat**: es complia? es litigava?
 5. **Quan cau** el sistema — l'autor diu que els capítols «han caigut clarament
-   en desús», i no dona data. — **`obert`, i ara amb tres fites**. **La primera
+   en desús», i no dona data. — **`parcial`, i ara amb tres fites**. **La primera
    és del 1904 mateix**: **la conclusió del capítol V diu que «les velles cases
    andorranes desapareixen»** i que **les combinacions descrites són ineficaces
    contra «les exigències imperioses de les condicions econòmiques modernes»**
