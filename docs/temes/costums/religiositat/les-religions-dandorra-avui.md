@@ -36,7 +36,7 @@ diu d'on treu cada xifra.
 | **Testimonis de Jehovà** | **Temple a Andorra la Vella.** Fan **proselitisme** | **~180** (*Diari d'Andorra*, **29-10-2019**) |
 | **Evangèlica** | **Temple a Encamp** | — |
 | **Moon** | Present | — |
-| **Baha'i** | Apostolat portat per **William Danjon** | — |
+| **Baha'i** | Apostolat portat per **William Danjon**, arribat el 7-10-1953 ([font](../../../fonts/bahai-world-news-andorra-danjon.md)) | — |
 
 **Avís del corpus:** **les dues xifres són estimacions, no censos.** La font
 escriu «**han estat calculats en uns 2.000**». **No s'han de citar com a dades
@@ -228,7 +228,14 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
 4. **Quan s'implanta cada confessió** a Andorra. **Cap data a la font** — però el
    Registre n'ha de fer constar «**la data de l'establiment de la religió a
    Andorra**».
-5. **William Danjon** i l'arribada del bahaisme.
+5. ~~**William Danjon** i l'arribada del bahaisme.~~ — **`resolt` el
+   18-09-2026**: francès resident a Dinamarca, respon a una crida de
+   **Shoghi Effendi** en un congrés a **Estocolm (agost del 1953)** i
+   **arriba a Andorra el 7 d'octubre del 1953**, nomenat **«Knight of
+   Baha'u'llah»**
+   ([font](../../../fonts/bahai-world-news-andorra-danjon.md)). **Els
+   primers conversos andorrans, el 1954**: **Carmen Tost Xifre de
+   Mingorance** i **Jose Mingorance Fernandez**.
 6. ~~**El marc legal**: què diu la Constitució sobre llibertat religiosa i quin
    estatut té l'Església catòlica.~~ **TANCAT:**
    [el registre d'entitats religioses](./el-registre-dentitats-religioses.md).

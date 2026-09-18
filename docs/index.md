@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **248** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **249** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1701,6 +1701,7 @@
 | [`arinsal-furdada-2020`](fonts/arinsal-furdada-2020.md) | Glòria Furdada, Aina Margalef, Laura Trapero, Marc Pons, Francesc Areny, Margaret Baró, Albert Reyes i Marta Guinau | CC BY 4.0; declaració explícita al PDF p. 26 | sí, sota les condicions CC BY 4.0 de l'article; no extensió automàtica a les fonts externes |
 | [`arinsal-issw-1996`](fonts/arinsal-issw-1996.md) | Mohamed Naaim, Gérard Brugnot i Jean Claude Charry, autors; drets no aclarits | pendent | pendent |
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`bahai-world-news-andorra-danjon`](fonts/bahai-world-news-andorra-danjon.md) | Bahá'í World News Service (BWNS) | publicació institucional, sense llicència declarada | pendent |
 | [`balari-origenes-1899`](fonts/balari-origenes-1899.md) | Domini públic per antiguitat | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1899, autor mort el 1904. | si |
 | [`baraut-cartulari-vall-andorra`](fonts/baraut-cartulari-vall-andorra.md) | Cebrià Baraut, editor | pendent, llibre no consultat directament | pendent |
 | [`barbero-dones-migrants-1997`](fonts/barbero-dones-migrants-1997.md) | Carmen Barbero Carballo · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
