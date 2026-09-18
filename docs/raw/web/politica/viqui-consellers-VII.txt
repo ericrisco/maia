@@ -1,0 +1,447 @@
+ 
+ Llista de consellers generals d'Andorra (VII Legislatura) - Viquipèdia, l'enciclopèdia lliure 
+ Vés al contingut 
+ Menú principal 
+ Menú principal 
+ mou a la barra lateral 
+ amaga 
+ Navegació
+ Portada Article a l'atzar Articles de qualitat Pàgines especials 
+ Comunitat
+ Portal viquipedista Agenda d'actes Canvis recents La taverna Contacte Ajuda 
+ Cerca 
+ Cerca 
+ Aparença 
+ Donatius 
+ Crea un compte 
+ Inicia la sessió 
+ Eines personals 
+ Donatius 
+ Crea un compte 
+ Inicia la sessió 
+ Contingut 
+ mou a la barra lateral 
+ amaga 
+ Inici 
+ 1 
+ Consellers 
+ Commuta la subsecció Consellers 
+ 1.1 
+ Sindicatura 
+ 1.2 
+ Resta del Ple 
+ 1.3 
+ Substitucions 
+ 2 
+ Notes 
+ 3 
+ Referències 
+ Commuta la taula de continguts. 
+ Llista de consellers generals d'Andorra (VII Legislatura) 
+ 1 llengua 
+ Français 
+ Modifica els enllaços 
+ Pàgina 
+ Discussió 
+ català 
+ Mostra 
+ Modifica 
+ Mostra l'historial 
+ Eines 
+ Eines 
+ mou a la barra lateral 
+ amaga 
+ Accions
+ Mostra 
+ Modifica 
+ Mostra l'historial 
+ General
+ Què hi enllaça Canvis relacionats Enllaç permanent Informació de la pàgina Citau aquest article Obtén una URL abreujada Canvia a analitzador sintàctic antic 
+ Imprimeix/exporta
+ Crea un llibre Baixa com a PDF Versió per a impressora 
+ En altres projectes
+ Element a Wikidata 
+ Aparença 
+ mou a la barra lateral 
+ amaga 
+ De la Viquipèdia, l'enciclopèdia lliure 
+ Composició del Consell al final de la legislatura.
+     Demòcrata : 15 consellers 
+     Liberal : 3 consellers 
+     Mixt : 10 consellers 
+ Aquesta és una llista dels consellers generals d'Andorra de la VII legislatura (2015-2019). Els membres del Consell General d'Andorra van ser elegits en les eleccions generals del 2015 . [ 1 ] Al començament de la legislatura es van constituir dos grups parlamentaris: el Demòcrata, amb 15 consellers, i el Liberal, amb vuit. Els consellers del Partit Socialdemòcrata (3) i de Socialdemocràcia i Progrés (2) van integrar-se al Grup Mixt en no arribar al mínim de quatre consellers que demanava el reglament per a constituir grup propi. Avançada la legislatura, el 2017, cinc consellers van abandonar el Grup Liberal i van integrar-se al Grup Mixt, que va passar a ser llavors el segon més nombrós de la cambra, amb 10 membres. [ 2 ] 
+ Grup parlamentari 
+ En la constitució 
+ En la dissolució 
+ Demòcrata 
+ 15 
+ 15 
+ Liberal 
+ 8 
+ 3 
+ #DDDDDD</span>"}]]}'> 
+ Mixt 
+ 5 [ a ] 
+ 10 [ b ] 
+ Total 
+ 28 
+ 28 
+ Consellers [ modifica ] 
+ Sindicatura [ modifica ] 
+ Nom
+ Imatge
+ Grup parlamentari
+ Circumscripció
+ Legislatures anteriors
+ Inici mandat
+ Fi mandat
+ Càrrec 
+ Vicenç Mateu Zamora 
+ Demòcrata 
+ Escaldes-Engordany 
+ I, II, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Síndic General 
+ Mònica Bonell Tuset 
+ Mònica Bonell Tuset 
+ Demòcrata 
+ Canillo 
+ VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Subsíndica General 
+ #DDDDDD</span>"}]]}'> 
+ Joan Carles Camp Areny 
+ Mixt [ c ] 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Secretari de Sindicatura 
+ Maria Martisella González 
+ Demòcrata 
+ Encamp 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Secretària de Sindicatura 
+ Resta del Ple [ modifica ] 
+ {{ref-publicació |títol=Decret de l'1-4-2015 pel qual la Sra. Meritxell Palmitjavila Naudi queda proclamada elegida pel càrrec de consellera general, en substitució del Sr. Jordi Alcobé Font |publicació=Butlletí Oficial del Principat d'Andorra |data=1-4-2015 |url=https://www.bopa.ad/bopa/027028/Pagines/gn27028005.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":1}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Miquel Aleix Areny"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Escaldes-Engordany"},"legislatures anteriors":{"wt":"I, [[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":"President suplent del Grup Demòcrata"}},"i":2}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Gerard Alís Eroles"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]"},"partit":{"wt":"[[Partit Socialdemòcrata d'Andorra|PS]]"},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":3}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Marc Ballestà Alias"},"imatge":{"wt":"Marc Ballestà Alias 2017.jpg"},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|10|08}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":4}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Josep Anton Bardina Pau"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Andorra la Vella"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|04|02}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":5}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Ladislau Baró Solà"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"I, II, IV"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":"President del Grup Demòcrata"}},"i":6}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Sílvia Eloïsa Bonet Perot"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]"},"partit":{"wt":"Independent{{efn|Es donà de baixa d'[[Socialdemocràcia i Progrés d'Andorra|SDP]] l'abril del 2017.<ref>{{ref-notícia |títol=Sílvia Bonet abandona SDP |publicació=Andorra Difusió |url=https://www.andorradifusio.ad/noticies/silvia-bonet-abandona-sdp |consulta=25 agost 2019 |data=7/4/2017}}</ref>}}"},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":7}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Jordi Cinca Mateos"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Andorra la Vella"},"legislatures anteriors":{"wt":"I, [[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2015|04|1}}<ref name=\"baixa_Cinca\">{{ref-publicació |títol=Decret de l'1-4-2015 pel qual el Sr. Josep Anton Bardina Pau queda proclamat elegit pel càrrec de conseller general, en substitució del Sr. Jordi Cinca Mateos |publicació=Butlletí Oficial del Principat d'Andorra |data=1-4-2015 |url=https://www.bopa.ad/bopa/027028/Pagines/gn27028004.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":8}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"00B7EB"},"nom":{"wt":"Ferran Costa Marimon"},"imatge":{"wt":"Ferran Costa (cropped).jpg"},"grup":{"wt":"[[Liberals d'Andorra|Liberal]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":9}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Carles Enseñat Reig"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Encamp"},"legislatures anteriors":{"wt":"V, [[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":10}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Maria Rosa Ferrer Obiols"},"imatge":{"wt":"Rosa Ferrer.jpg"},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Andorra la Vella"},"legislatures anteriors":{"wt":"I, II, IV"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2015|04|1}}<ref name=\"baixa_Ferrer\">{{ref-publicació |títol=Decret de l'1-4-2015 pel qual el Sr. Carles Jordana Madero queda proclamat elegit pel càrrec de conseller general, en substitució de la Sra. Maria Rosa Ferrer Obiols |publicació=Butlletí Oficial del Principat d'Andorra |data=1-4-2015 |url=https://www.bopa.ad/bopa/027028/Pagines/gn27028006.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":11}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Antoni Fillet Adellach"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Ordino"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":12}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"00B7EB"},"nom":{"wt":"Jordi Gallardo Fernàndez"},"imatge":{"wt":"Jordi Gallardo (retallat).png"},"grup":{"wt":"[[Liberals d'Andorra|Liberal]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":"President del Grup Liberal<br><small>(a partir del desembre del 2017)</small><br>President suplent del Grup Liberal<br><small>(març 2015–desembre 2017)</small>"}},"i":13}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Sofia Garrallà Tomàs"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":14}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Rosa Gili Casals"},"imatge":{"wt":"Rosa Gili Casals TEDxAndorralaVella (cropped).jpg"},"grup":{"wt":"[[Grup mixt|Mixt]]"},"partit":{"wt":"[[Partit Socialdemòcrata d'Andorra|PS]]"},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"V, [[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":15}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Carles Jordana Madero"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Andorra la Vella"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|04|02}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":16}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Pere López Agràs"},"imatge":{"wt":"Pere López Agràs 2017.jpg"},"grup":{"wt":"[[Grup mixt|Mixt]]"},"partit":{"wt":"[[Partit Socialdemòcrata d'Andorra|PS]]"},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":"President suplent del Grup Mixt<br><small>(a partir del gener del 2018)</small><br>President del Grup Mixt<br><small>(març 2015–desembre 2017)</small>"}},"i":17}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Josep Majoral Obiols"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]{{efn|nom=Mixt|Fins al desembre del 2017, membre del Grup Liberal.}}"},"partit":{"wt":""},"circumscripció":{"wt":"Sant Julià de Lòria"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":18}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Conxita Marsol Riart"},"imatge":{"wt":"(Conxita Marsol) Apuesta de los Gobiernos locales iberoamericanos por la autonomía, la participación y la educación.jpg"},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"IV"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2015|11|4}}<ref name=\"baixa_Marsol\">{{ref-publicació |títol=Decret del 4-11-2015 pel qual el Sr. Justo Ruiz Gonzalez queda proclamat elegit per al càrrec de conseller general, en substitució de la Sra. Conxita Marsol Riart |publicació=Butlletí Oficial del Principat d'Andorra |data=4-11-2015 |url=https://www.bopa.ad/bopa/027075/Pagines/GN20151104_11_08_08.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":19}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Antoni Martí Petit"},"imatge":{"wt":"Antoni Martí (2011).jpg"},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"I, II, III, [[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2015|04|1}}<ref name=\"baixa_Martí\">{{ref-publicació |títol=Decret de l'1-4-2015 pel qual la Sra. Patrícia Riberaygua Marme queda proclamada elegida pel càrrec de consellera general, en substitució del Sr. Antoni Martí Petit |publicació=Butlletí Oficial del Principat d'Andorra |data=1-4-2015 |url=https://www.bopa.ad/bopa/027028/Pagines/gn27028003.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":20}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Meritxell Mateu Pi"},"imatge":{"wt":"Meritxell Mateu Pi 2014.jpg"},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Ordino"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2016|10|10}}<ref name=\"baixa_Mateu\">{{ref-publicació |títol=Decret del 10-10-2016 pel qual el Sr. Antoni de Pàdua Missé Montserrat queda proclamat elegit pel càrrec de conseller general, en substitució de la Sra. Meritxell Mateu Pi |publicació=Butlletí Oficial del Principat d'Andorra |data=10-10-2016 |url=https://www.bopa.ad/bopa/028058/Pagines/GD20161010_10_38_57.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":21}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Antoni Missé Montserrat"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Ordino"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2016|10|20}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":22}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Carine Montaner Raynaud"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]{{efn|nom=Mixt}}"},"partit":{"wt":""},"circumscripció":{"wt":"Sant Julià de Lòria"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":23}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Carles Naudi d'Areny-Plandolit Balsells"},"imatge":{"wt":"Carles Naudi d'Areny-Plandolit Balsells 2017.jpg"},"grup":{"wt":"[[Grup mixt|Mixt]]{{efn|nom=Mixt}}"},"partit":{"wt":""},"circumscripció":{"wt":"La Massana"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":24}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Víctor Naudi Zamora"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]"},"partit":{"wt":"[[Socialdemocràcia i Progrés d'Andorra|SDP]]"},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"IV"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":"President suplent del Grup Mixt<br><small>(març 2015–desembre 2017)</small>"}},"i":25}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Meritxell Palmitjavila Naudí"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Canillo"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|04|02}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":""}},"i":26}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"00B7EB"},"nom":{"wt":"Judith Pallarés Cortés"},"imatge":{"wt":"Judith Pallarés (retallat).jpg"},"grup":{"wt":"[[Liberals d'Andorra|Liberal]]"},"partit":{"wt":""},"circumscripció":{"wt":"La Massana"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"vigent":{"wt":"sí"},"càrrec":{"wt":"Presidenta suplent del Grup Liberal<br><small>(a partir del desembre del 2017)</small>"}},"i":27}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"{{Independent/meta/color}}"},"nom":{"wt":"Josep Pintat Forné"},"imatge":{"wt":""},"grup":{"wt":"[[Grup mixt|Mixt]]{{efn|nom=Mixt}}"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":"President del Grup Mixt<br><small>(a partir del gener del 2018)</small><br>President del Grup Liberal<br><small>(març 2015–desembre 2017)</small>"}},"i":28}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Patrícia Riberaygua Marme"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|04|02}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":29}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Justo Ruiz González"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":""},"inici mandat":{"wt":"{{Data inici|2015|11|19}}"},"vigent":{"wt":"sí"},"fi mandat":{"wt":"{{Data final|2019|02|18}}"},"càrrec":{"wt":""}},"i":30}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Martí Salvans Abetlla"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|04|02}}"},"fi mandat":{"wt":"{{Data final|2015|07|8}}<ref name=\"Ara_Salvans\">{{ref-notícia |títol=Mor als 64 anys el conseller general Martí Salvans |publicació=Ara Andorra |url=https://www.ara.ad/politica/Mor-conseller-general-Marti-Salvans_0_1390661036.html |consulta=24 agost 2019 |data=09/07/2015}}</ref>"},"càrrec":{"wt":""}},"i":31}},"\n",{"template":{"target":{"wt":"Filera diputat Parlament Catalunya\n","href":"./Plantilla:Filera_diputat_Parlament_Catalunya"},"params":{"color":{"wt":"FF7700"},"nom":{"wt":"Jordi Torres Falcó"},"imatge":{"wt":""},"grup":{"wt":"[[Demòcrates per Andorra|Demòcrata]]"},"partit":{"wt":""},"circumscripció":{"wt":"Nacional"},"legislatures anteriors":{"wt":"[[Llista de consellers generals d'Andorra (VI Legislatura)|VI]]"},"inici mandat":{"wt":"{{Data inici|2015|03|23}}"},"fi mandat":{"wt":"{{Data final|2015|04|1}}<ref name=\"baixa_Torres\">{{ref-publicació |títol=Decret de l'1-4-2015 pel qual el Sr. Martí Salvans Abetlla queda proclamat elegit pel càrrec de conseller general, en substitució del Sr. Jordi Torres Falcó |publicació=Butlletí Oficial del Principat d'Andorra |data=1-4-2015 |url=https://www.bopa.ad/bopa/027028/Pagines/gn27028007.aspx |consulta=24 agost 2019}}</ref>"},"càrrec":{"wt":""}},"i":32}},"\n|}"]}'>
+ Nom
+ Imatge
+ Grup parlamentari
+ Circumscripció
+ Legislatures anteriors
+ Inici mandat
+ Fi mandat
+ Càrrec 
+ Jordi Alcobé Font 
+ Jordi Alcobé Font 
+ Demòcrata 
+ Canillo 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 1   d'abril   de   2015   ( 2015-04-01 ) [ 3 ] 
+ Miquel Aleix Areny 
+ Demòcrata 
+ Escaldes-Engordany 
+ I, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President suplent del Grup Demòcrata 
+ #DDDDDD</span>"}]]}'> 
+ Gerard Alís Eroles 
+ Mixt ( PS ) 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Marc Ballestà Alias 
+ Marc Ballestà Alias 
+ Demòcrata 
+ Nacional 
+ 8   d'octubre   de   2015   ( 2015-10-08 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Josep Anton Bardina Pau 
+ Demòcrata 
+ Andorra la Vella 
+ VI 
+ 2   d'abril   de   2015   ( 2015-04-02 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Ladislau Baró Solà 
+ Demòcrata 
+ Nacional 
+ I, II, IV 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President del Grup Demòcrata 
+ #DDDDDD</span>"}]]}'> 
+ Sílvia Eloïsa Bonet Perot 
+ Mixt (Independent [ d ] ) 
+ Nacional 
+ VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Jordi Cinca Mateos 
+ Demòcrata 
+ Andorra la Vella 
+ I, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 1   d'abril   de   2015   ( 2015-04-01 ) [ 5 ] 
+ Ferran Costa Marimon 
+ Ferran Costa Marimon 
+ Liberal 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Carles Enseñat Reig 
+ Demòcrata 
+ Encamp 
+ V, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Maria Rosa Ferrer Obiols 
+ Maria Rosa Ferrer Obiols 
+ Demòcrata 
+ Andorra la Vella 
+ I, II, IV 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 1   d'abril   de   2015   ( 2015-04-01 ) [ 6 ] 
+ Antoni Fillet Adellach 
+ Demòcrata 
+ Ordino 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Jordi Gallardo Fernàndez 
+ Jordi Gallardo Fernàndez 
+ Liberal 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President del Grup Liberal (a partir del desembre del 2017) President suplent del Grup Liberal (març 2015–desembre 2017) 
+ Sofia Garrallà Tomàs 
+ Demòcrata 
+ Nacional 
+ VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ #DDDDDD</span>"}]]}'> 
+ Rosa Gili Casals 
+ Rosa Gili Casals 
+ Mixt ( PS ) 
+ Nacional 
+ V, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Carles Jordana Madero 
+ Demòcrata 
+ Andorra la Vella 
+ 2   d'abril   de   2015   ( 2015-04-02 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ #DDDDDD</span>"}]]}'> 
+ Pere López Agràs 
+ Pere López Agràs 
+ Mixt ( PS ) 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President suplent del Grup Mixt (a partir del gener del 2018) President del Grup Mixt (març 2015–desembre 2017) 
+ #DDDDDD</span>"}]]}'> 
+ Josep Majoral Obiols 
+ Mixt [ c ] 
+ Sant Julià de Lòria 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Conxita Marsol Riart 
+ Conxita Marsol Riart 
+ Demòcrata 
+ Nacional 
+ IV 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 4   de novembre   de   2015   ( 2015-11-04 ) [ 7 ] 
+ Antoni Martí Petit 
+ Antoni Martí Petit 
+ Demòcrata 
+ Nacional 
+ I, II, III, VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 1   d'abril   de   2015   ( 2015-04-01 ) [ 8 ] 
+ Meritxell Mateu Pi 
+ Meritxell Mateu Pi 
+ Demòcrata 
+ Ordino 
+ VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 10   d'octubre   de   2016   ( 2016-10-10 ) [ 9 ] 
+ Antoni Missé Montserrat 
+ Demòcrata 
+ Ordino 
+ 20   d'octubre   de   2016   ( 2016-10-20 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ #DDDDDD</span>"}]]}'> 
+ Carine Montaner Raynaud 
+ Mixt [ c ] 
+ Sant Julià de Lòria 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ #DDDDDD</span>"}]]}'> 
+ Carles Naudi d'Areny-Plandolit Balsells 
+ Carles Naudi d'Areny-Plandolit Balsells 
+ Mixt [ c ] 
+ La Massana 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ #DDDDDD</span>"}]]}'> 
+ Víctor Naudi Zamora 
+ Mixt ( SDP ) 
+ Nacional 
+ IV 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President suplent del Grup Mixt (març 2015–desembre 2017) 
+ Meritxell Palmitjavila Naudí 
+ Demòcrata 
+ Canillo 
+ 2   d'abril   de   2015   ( 2015-04-02 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Judith Pallarés Cortés 
+ Judith Pallarés Cortés 
+ Liberal 
+ La Massana 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Presidenta suplent del Grup Liberal (a partir del desembre del 2017) 
+ #DDDDDD</span>"}]]}'> 
+ Josep Pintat Forné 
+ Mixt [ c ] 
+ Nacional 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ President del Grup Mixt (a partir del gener del 2018) President del Grup Liberal (març 2015–desembre 2017) 
+ Patrícia Riberaygua Marme 
+ Demòcrata 
+ Nacional 
+ VI 
+ 2   d'abril   de   2015   ( 2015-04-02 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Justo Ruiz González 
+ Demòcrata 
+ Nacional 
+ 19   de novembre   de   2015   ( 2015-11-19 ) 
+ 18   de febrer   de   2019   ( 2019-02-18 ) 
+ Martí Salvans Abetlla 
+ Demòcrata 
+ Nacional 
+ VI 
+ 2   d'abril   de   2015   ( 2015-04-02 ) 
+ 8   de juliol   de   2015   ( 2015-07-08 ) [ 10 ] 
+ Jordi Torres Falcó 
+ Demòcrata 
+ Nacional 
+ VI 
+ 23   de març   de   2015   ( 2015-03-23 ) 
+ 1   d'abril   de   2015   ( 2015-04-01 ) [ 11 ] 
+ Substitucions [ modifica ] 
+ Conseller substituït 
+ Grup 
+ Baixa 
+ Motiu 
+ Conseller substitut 
+ Grup 
+ Alta 
+ Antoni Martí Petit 
+ Demòcrata 
+ 1/4/2015 
+ Deixa vacant l'escó per haver estat elegit cap de Govern. [ 8 ] 
+ Patrícia Riberaygua Marme 
+ Demòcrata 
+ 2/4/2015 
+ Jordi Cinca Mateos 
+ Demòcrata 
+ 1/4/2015 
+ Deixa vacant l'escó per haver estat nomenat ministre de Finances. [ 5 ] 
+ Josep Anton Bardina Pau 
+ Demòcrata 
+ 2/4/2015 
+ Maria Rosa Ferrer Obiols 
+ Demòcrata 
+ 1/4/2015 
+ Deixa vacant l'escó per haver estat nomenada ministra de Relacions Institucionals, Afers Socials i Ocupació. [ 6 ] 
+ Carles Jordana Madero 
+ Demòcrata 
+ 2/4/2015 
+ Jordi Alcobé Font 
+ Demòcrata 
+ 1/4/2015 
+ Deixa vacant l'escó per haver estat nomenat ministre d'Administració Pública, Transports i Telecomunicacions. [ 3 ] 
+ Meritxell Palmitjavila Naudí 
+ Demòcrata 
+ 2/4/2015 
+ Jordi Torres Falcó 
+ Demòcrata 
+ 1/4/2015 
+ Deixa vacant l'escó per haver estat nomenat ministre d'Ordenament Territorial. [ 11 ] 
+ Martí Salvans Abetlla 
+ Demòcrata 
+ 2/4/2015 
+ Martí Salvans Abetlla 
+ Demòcrata 
+ 8/7/2015 
+ Deixa vacant l'escó per defunció. [ 10 ] [ 12 ] 
+ Marc Ballestà Alias 
+ Demòcrata 
+ 8/10/2015 
+ Conxita Marsol Riart 
+ Demòcrata 
+ 4/11/2015 
+ Renuncia a l'escó per a presentar-se a les eleccions comunals del 2015 . [ 7 ] 
+ Justo Ruiz González 
+ Demòcrata 
+ 19/11/2015 
+ Meritxell Mateu Pi 
+ Demòcrata 
+ 10/10/2016 
+ Renuncia a l'escó per motius polítics. [ 13 ] [ 9 ] 
+ Antoni Missé Montserrat 
+ Demòcrata 
+ 20/10/2016 
+ Notes [ modifica ] 
+ ↑ 3 consellers del Partit Socialdemòcrata i 2 consellers de Socialdemocràcia i Progrés . 
+ ↑ 3 consellers del Partit Socialdemòcrata , un conseller de Socialdemocràcia i Progrés , una consellera independent i 5 consellers que abandonaren el Grup Liberal. 
+ 1 2 3 4 5 Fins al desembre del 2017, membre del Grup Liberal. 
+ ↑ Es donà de baixa d' SDP l'abril del 2017. [ 4 ] 
+ Referències [ modifica ] 
+ ↑ « Consellers generals — VII Legislatura ». Consell General d'Andorra . [Consulta: 23 agost 2019]. 
+ ↑ « Es trenca el grup Liberal al Consell General d'Andorra ». VilaWeb , 13-12-2017 [Consulta: 23 agost 2019]. 
+ 1 2 « Decret de l'1-4-2015 pel qual la Sra. Meritxell Palmitjavila Naudi queda proclamada elegida pel càrrec de consellera general, en substitució del Sr. Jordi Alcobé Font ». Butlletí Oficial del Principat d'Andorra , 01-04-2015 [Consulta: 24 agost 2019]. 
+ ↑ « Sílvia Bonet abandona SDP ». Andorra Difusió , 07-04-2017 [Consulta: 25 agost 2019]. 
+ 1 2 « Decret de l'1-4-2015 pel qual el Sr. Josep Anton Bardina Pau queda proclamat elegit pel càrrec de conseller general, en substitució del Sr. Jordi Cinca Mateos ». Butlletí Oficial del Principat d'Andorra , 01-04-2015 [Consulta: 24 agost 2019]. 
+ 1 2 « Decret de l'1-4-2015 pel qual el Sr. Carles Jordana Madero queda proclamat elegit pel càrrec de conseller general, en substitució de la Sra. Maria Rosa Ferrer Obiols ». Butlletí Oficial del Principat d'Andorra , 01-04-2015 [Consulta: 24 agost 2019]. 
+ 1 2 « Decret del 4-11-2015 pel qual el Sr. Justo Ruiz Gonzalez queda proclamat elegit per al càrrec de conseller general, en substitució de la Sra. Conxita Marsol Riart ». Butlletí Oficial del Principat d'Andorra , 04-11-2015 [Consulta: 24 agost 2019]. 
+ 1 2 « Decret de l'1-4-2015 pel qual la Sra. Patrícia Riberaygua Marme queda proclamada elegida pel càrrec de consellera general, en substitució del Sr. Antoni Martí Petit ». Butlletí Oficial del Principat d'Andorra , 01-04-2015 [Consulta: 24 agost 2019]. 
+ 1 2 « Decret del 10-10-2016 pel qual el Sr. Antoni de Pàdua Missé Montserrat queda proclamat elegit pel càrrec de conseller general, en substitució de la Sra. Meritxell Mateu Pi ». Butlletí Oficial del Principat d'Andorra , 10-10-2016 [Consulta: 24 agost 2019]. 
+ 1 2 « Mor als 64 anys el conseller general Martí Salvans ». Ara Andorra , 09-07-2015 [Consulta: 24 agost 2019]. 
+ 1 2 « Decret de l'1-4-2015 pel qual el Sr. Martí Salvans Abetlla queda proclamat elegit pel càrrec de conseller general, en substitució del Sr. Jordi Torres Falcó ». Butlletí Oficial del Principat d'Andorra , 01-04-2015 [Consulta: 24 agost 2019]. 
+ ↑ « Decret del 13-7-2015 pel qual el Sr. Marc Ballesta Alias queda proclamat elegit pel càrrec de conseller general, en substitució del Sr. Martí Salvans Abetlla ». Butlletí Oficial del Principat d'Andorra , 13-07-2015 [Consulta: 24 agost 2019]. 
+ ↑ « Meritxell Mateu dimiteix ». El Periòdic d'Andorra , 04-10-2016 [Consulta: 24 agost 2019]. 
+ Consell General d'Andorra Evolució històrica Consell de la Terra   · Consell General de les Valls   · Consell General Seus Casa de la Vall   · Nova seu Eleccions al Consell General 1933   · 1935   · 1937   · 1939   · 1941   · 1947   · 1949   · 1951   · 1953   · 1955   · 1957   · 1959   · 1961   · 1963   · 1965   · 1967   · 1969   · 1971   · 1973   · 1975   · 1977   · 1979   · 1981   · 1985   · 1989   · 1992   · 1993   · 1997   · 2001   · 2005   · 2009   · 2011   · 2015   · 2019   · 2023 Referèndums Reforma política de 1977   · Reforma política de 1978   · Reforma de la llei electoral de 1982   · Referèndum constitucional d'Andorra de 1993 Legislatures 1a   · 2a   · 3a   · 4a   · 5a   · 6a   · 7a   · 8a   · 9a Consellers 1a   · 2a   · 3a   · 4a   · 5a   · 6a   · 7a   · 8a   · 9a 
+ Obtingut de « https://ca.wikipedia.org/w/index.php?title=Llista_de_consellers_generals_d%27Andorra_(VII_Legislatura)&oldid=38378258 » 
+ Categoria : Llistes de consellers generals d'Andorra 
+ La pàgina va ser modificada per darrera vegada el 10 set 2026 a les 23:12. 
+ La pàgina s'ha renderitzat amb Parsoid . 
+ El text està disponible sota la Llicència de Creative Commons Reconeixement i Compartir-Igual ; es poden aplicar termes addicionals.
+Vegeu les Condicions d'ús .
+Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc . 
+ Política de privadesa 
+ Quant al projecte Viquipèdia 
+ Descàrrec de responsabilitat 
+ Contactes de Seguretat i Legal 
+ Codi de conducta 
+ Desenvolupadors 
+ Estadístiques 
+ Declaració de cookies 
+ Versió per a mòbils 
+ Cerca 
+ Cerca 
+ Commuta la taula de continguts. 
+ Llista de consellers generals d'Andorra (VII Legislatura) 
+ 1 llengua 
+ Afegeix un tema 
+ 

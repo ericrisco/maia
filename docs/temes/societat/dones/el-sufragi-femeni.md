@@ -389,6 +389,29 @@ de cada moment i no pas a un programa preordenat»**
     > detalla per legislatura del 1980 al 1993 i no més enllà**, i **per això la
     > sèrie s'atura el 1993 i no perquè falti comptar.**
 
+    **I els anys immediatament anteriors també, des del 18-09-2026**, amb el
+    **sistema d'indicadors per la igualtat A222** del Departament d'Estadística
+    (`docs/raw/estadistica-genere/a222-indicadors-igualtat-20260317.txt`), que
+    **no publica res anterior al 2022**:
+
+    | Any | Homes | Dones |
+    | --- | ---: | ---: |
+    | 2022 | 15 | 13 |
+    | 2023 | 15 | 13 |
+    | **2024** | **14** | **14** |
+
+    **La paritat s'assoleix el 2024 i es manté el 2026**, i **la mateixa font
+    dona el Govern encara més esbiaixat cap a les dones**: **5 homes i 6 dones
+    el 2022 i el 2023**, **6 i 6 el 2024**.
+
+    **I als comuns, on la sèrie comença el 2023**, **cap corporació no té
+    majoria d'homes de més de dos**: **Encamp, Ordino, Sant Julià i
+    Escaldes-Engordany són paritàries el 2024** (6-6, 5-5, 6-6, 6-6) i **les
+    desviades són Canillo (6-4), la Massana (7-5) i Andorra la Vella (7-5)**.
+
+    `La sèrie de l'A222 comença el 2022 i deixa el tram 1994-2021 sense cap
+    font. És el buit que queda d'aquest punt.` `serie_estadistica`
+
     **I l'altre extrem de la sèrie, el d'avui, ja té xifra** —**afegit el
     18-09-2026 des d'una font que el corpus acabava d'obrir**, la
     [seu electrònica del Consell General](../../../fonts/consell-general-seu.md).
