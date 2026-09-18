@@ -336,9 +336,53 @@ parroquia»**.
    ([el pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)). **Podria ser que no les donés perquè no existien.** **El que
    sí que consta és d'on venien els diners**: **els arrendaments de les terres
    comunals sobrants, fets en pública subhasta.**
-8. **El Politar, pàgines 262-263** (qui paga quèstia i qui estrany) i **281** (el
-   poder dels coprínceps de regular matèries pròpies del Consell), contra
-   l'original.
+8. ~~**El Politar, pàgines 262-263** (qui paga quèstia i qui estrany) i **281**
+   (el poder dels coprínceps de regular matèries pròpies del Consell), contra
+   l'original.~~ — **`resolt` el 18-09-2026: les tres pàgines s'han llegit dins
+   l'extracte de Brutails.**
+
+   **L'estrany té dos llindars, i és el que aquesta fitxa buscava.** **El Politar
+   es planteja la pregunta explícitament** —«*Quant temps se requereyx per estar
+   subjecte una persona en pagar **lo estrany** y tambe los bestiars?*»— i
+   **s'hi respon a la pàgina següent**:
+
+   > «basta, per haberho de pagar **al Comu de les Valls eo a son Concell
+   > General**, que **los bestiars entren en ellas**; pero per pagarlo **a alguna
+   > parroquia**, deu haber **per alguns dies, segons arrestos de la tal
+   > parroquia, pasturat ses herbes**.»
+
+   **Per al Comú general n'hi ha prou d'entrar; per a la parròquia cal haver
+   pasturat uns dies, i els dies els fixa cada parròquia pels seus arrestos.**
+   **Dues meritacions diferents per al mateix tribut**, i **el segon llindar és
+   local i variable.**
+
+   **La mateixa pàgina dona el mecanisme de cobrament**: **en les quèsties es
+   procedeix amb «lo mandato de penas de cot y recot»**; **en els estranys, amb
+   «lo embarch o empara de les coses o efectes dels contraventors e
+   inobedients»**, a instància del Comú, de la parròquia o de les Valls, i
+   **l'execució per un dels batlles o altre ministre amb jurisdicció**, amb
+   penyores, distracció i encant públic.
+
+   **I el poder dels prínceps, punt 33è de la p. 281, és una regla de dret comú
+   aplicada a Andorra:**
+
+   > «**Encara que las Valls o son Concell puga estatuir, ordenar y arrestar, no
+   > impedeyx que los Princeps ho pugan ayxi mateyx ferho**, com no sie
+   > directament contra privilegis, per que **no se enten ni pot entendrerse que
+   > los Princeps, concedint a les Valls la facultat de estatuir […], se
+   > vulguesen abdicar de est poder**, sinos que se expressia en las concessions.
+   > Antes be **tota facultat y jurisdicsio se enten concedida
+   > *comulativament***.»
+
+   **La concessió no és cessió**: **el poder normatiu és cumulatiu**, **i el
+   Politar hi apila set autoritats de dret comú per sostenir-ho.**
+
+   **I tres regles més de la mateixa pàgina que valen per a tota la branca**:
+   **de les ordinacions se'n pot apel·lar «acerca lo efecte devolutiu, y no en
+   quant al suspensiu»** (§32); **«es molt bo expressar que lo Concell se rete y
+   reserva la facultat de revocarlos, mudarlos y corregirlos»** (§34); i **les
+   ordinacions de qui té facultat d'ordenar «no necessitan de confirmacio de
+   superior»** (§37).
 
 ## Related
 
