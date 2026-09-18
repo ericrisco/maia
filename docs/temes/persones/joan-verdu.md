@@ -120,13 +120,42 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 ## Buits registrats
 
 1. **La font primària de la FIS** amb tots els seus resultats.
-2. **Els altres esquiadors andorrans de Copa del Món**: quants n'hi ha hagut,
-   quin era el millor abans d'ell. **El corpus no en sap cap.**
-3. **D'on ve el malnom «La Mamba».**
-4. **On s'entrena** i amb quin equip.
-5. **La Federació Andorrana d'Esquí**: el corpus no en té fitxa.
+2. ~~**Els altres esquiadors andorrans de Copa del Món**: quants n'hi ha hagut,
+   quin era el millor abans d'ell. **El corpus no en sap cap.**~~ —
+   **`resolt` el 18-09-2026**: **[Mireia Gutiérrez](../esports/esqui/esquiadors/mireia-gutierrez.md)
+   va ser 20a a la Copa del Món de Zagreb** (2010-18), **el millor resultat
+   andorrà a la Copa del Món abans de Verdú**
+   ([font](../esports/esqui/esquiadors/README.md)). **Roger Vidosa té deu
+   victòries al circuit FIS**, però l'article no precisa si en Copa del Món
+   pròpiament.
+3. ~~**D'on ve el malnom «La Mamba».**~~ — **`parcial` el 18-09-2026**: **no
+   ve d'una anècdota que la font expliqui, sinó d'una mentalitat que Verdú
+   diu haver adoptat conscientment «a imatge de la Mamba Negra» de Kobe
+   Bryant**, com a símbol de «sacrifici i perseverança»
+   ([font](../../fonts/olympics-com-verdu-mamba-austria.md)). **Qui li va
+   posar el nom originalment i quan, segueix sense saber-se.**
+4. ~~**On s'entrena** i amb quin equip.~~ — **`parcial` el 18-09-2026**:
+   **es va traslladar el 2025 a un centre d'alt rendiment a Àustria**
+   ([font](../../fonts/olympics-com-verdu-mamba-austria.md)), i **el 2025
+   es va incorporar a l'equip de material VAN DEER-Red Bull Sports**, tot
+   mantenint el mateix equip tècnic de sempre. **Com que Andorra no té
+   infraestructura pròpia de competició, s'entrena amb altres seleccions
+   nacionals** ([font](../../fonts/vandeer-redbull-verdu-equip.md)). **El
+   nom concret del centre austríac segueix sense trobar-se.**
+5. ~~**La Federació Andorrana d'Esquí**: el corpus no en té fitxa.~~ —
+   **`parcial` el 18-09-2026**: **existeix (`fae.ad`), amb Junta Directiva
+   i Estatuts publicats**, però **ni ella mateixa ni el COA donen any de
+   fundació ni nom del president**
+   ([font](../../fonts/fae-ad-i-coa-federacio-esqui.md)). **El buit que ja
+   assenyalava [la subbranca d'esquiadors](../esports/esqui/esquiadors/README.md)
+   es confirma també a la font primària.**
 6. **Per què el contrast entre Copa del Món i Mundials.**
-7. **La premsa andorrana** sobre el podi del 2023.
+7. ~~**La premsa andorrana** sobre el podi del 2023.~~ — **`resolt` el
+   18-09-2026**: **Altaveu, Diari d'Andorra i la mateixa FAE en van fer
+   peça el mateix dia**, ja amb l'adjectiu «històric». Verdú, citat per
+   Altaveu: venia «d'una lesió d'isquiotibials de segon grau» amb només
+   tres dies d'esquí abans de la cursa
+   ([font](../../fonts/premsa-andorrana-verdu-val-disere-2023.md)).
 
 ## Related
 

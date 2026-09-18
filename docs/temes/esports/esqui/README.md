@@ -29,12 +29,16 @@ I el que el corpus té sobre esquí que viu en altres branques:
 - L'**Escola Nacional Andorrana d'Esquí**, que té llei de creació pròpia i de
   la qual el corpus només sap que existeix. — **`obert`, confirmat**: **no hi
   ha cap bolcat seu ni a `alpins/` ni a `estructura/`.**
-- La **Federació Andorrana d'Esquí (FAE)**: cap fitxa. — **`obert`, confirmat,
-  i ara es pot dir amb precisió on NO és**: **`raw/web/esport/estructura/` té
-  trenta-nou bolcats d'institucions esportives andorranes i cap no és la FAE**
-  —**hi ha la de futbol, la de rugbi, la d'escacs i el Comitè Olímpic.**
+- ~~La **Federació Andorrana d'Esquí (FAE)**: cap fitxa.~~ — **`parcial` el
+  18-09-2026**: **la seva pròpia web (`fae.ad`) i el COA confirmen que existeix,
+  amb Junta Directiva i Estatuts publicats, però cap de les dues dona any de
+  fundació ni nom del president**
+  ([font](../../../fonts/fae-ad-i-coa-federacio-esqui.md)) — **el buit era
+  exacte fins i tot consultant la font primària**: **`raw/web/esport/estructura/`
+  té trenta-nou bolcats d'institucions esportives andorranes i cap no és la
+  FAE** —**hi ha la de futbol, la de rugbi, la d'escacs i el Comitè Olímpic.**
   **En un país que és una estació d'esquí, la federació d'esquí és l'única gran
-  federació sense bolcat.** `Requereix font externa.`
+  federació sense bolcat.**
 - ~~**Els resultats de Copa del Món i de campionats del món** dels esquiadors
   andorrans anteriors a Joan Verdú.~~ — **`parcial`, i el compte millora molt.**
   **Ara el corpus en té de vuit**, no de tres:

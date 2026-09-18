@@ -169,8 +169,11 @@ fitxes deien**: són **esborranys d'una línia**. **El buit era exacte.**
   confirmat**, però **ara amb els números**: vegeu la taula de dalt.
 - **Olympedia**, per als resultats que la Viquipèdia no dona. — **`obert`,
   confirmat**, i **amb catorze identificadors** a la taula de dalt.
-- **La Federació Andorrana d'Esquí (FAE)** i **la Federació Andorrana d'Esports
-  Adaptats (FADEA)**.
+- ~~**La Federació Andorrana d'Esquí (FAE)**~~ — **`parcial` el 18-09-2026**:
+  **existeix (`fae.ad`), amb Junta Directiva i Estatuts, però sense any de
+  fundació ni president publicats enlloc**
+  ([font](../../../../fonts/fae-ad-i-coa-federacio-esqui.md)).
+- **La Federació Andorrana d'Esports Adaptats (FADEA)**.
 - **La premsa andorrana de cada època.**
 - **La llista completa dels abanderats olímpics d'Andorra**, de la qual aquí n'han
   aparegut quatre de seguits.

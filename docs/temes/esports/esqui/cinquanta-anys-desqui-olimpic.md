@@ -352,8 +352,11 @@ significa, en la pràctica, tenir setanta-set mil habitants.
   esquiadors** — vegeu [els esquiadors](./README.md). **La Universíada del 2015
   de [Marc Oliveras](./esquiadors/marc-oliveras.md) queda confirmada, sense
   resultat.**
-- **La Federació Andorrana d'Esquí (FAE)**: cap fitxa. — **`obert`, confirmat**:
-  **no hi ha bolcat de la FAE enlloc de `raw/web/esport/`.**
+- ~~**La Federació Andorrana d'Esquí (FAE)**: cap fitxa.~~ — **`parcial` el
+  18-09-2026**: **existeix i té web pròpia, però ni ella ni el COA donen any
+  de fundació ni president** ([font](../../../fonts/fae-ad-i-coa-federacio-esqui.md)).
+  **`obert`, confirmat, sobre la data**: **no hi ha bolcat de la FAE enlloc de
+  `raw/web/esport/`.**
 - **I dos parentius nous que aquesta fitxa pot afegir a la seva llista**:
   **[Sandra](./esquiadors/sandra-grau.md) i
   [Vicky Grau](./esquiadors/vicky-grau.md) van néixer totes dues a Sant Julià

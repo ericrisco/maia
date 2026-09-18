@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **267** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **273** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1719,6 +1719,7 @@
 | [`becat-vida-pastoral`](fonts/becat-vida-pastoral.md) | Joan (Jean) Becat | document de divulgació per a ensenyants; sense llicència explícita | pendent |
 | [`boladeres-ensenyament-espanyol`](fonts/boladeres-ensenyament-espanyol.md) | Antoni Boladeres i Sorribes · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`boletin-oficial-leon-1894`](fonts/boletin-oficial-leon-1894.md) | Diputación provincial de León (Espanya) · butlletí oficial | butlletí oficial espanyol de 1894; domini públic per antiguitat | si |
+| [`bondia-guies-viatge-andorra`](fonts/bondia-guies-viatge-andorra.md) | Ludmilla Lacueva Canut · Bondia | premsa, drets reservats; citació breu | False |
 | [`bondia-vela-registre-religioses-2026`](fonts/bondia-vela-registre-religioses-2026.md) | Bondia (Redacció) | desconeguda, ús informatiu | False |
 | [`bopa`](fonts/bopa.md) | Govern del Principat d'Andorra | Publicacio oficial de l'Estat andorra. Les bases reguladores publicades al BOPA num. 1 del 1989 (base d) diuen: les disposicions reproduides al BOPA es poden inserir total o parcialment en altres publicacions sempre que convingui citar-les o transcriure-les, pero NO es poden publicar soles o en colleccio sense autoritzacio escrita previa de l'autoritat de que emanin. | citacio |
 | [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
@@ -1773,6 +1774,7 @@
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`facc-paddleworldwide`](fonts/facc-paddleworldwide.md) | International Canoe Federation (ICF) · Paddle Worldwide | publicació institucional, sense llicència declarada | pendent |
+| [`fae-ad-i-coa-federacio-esqui`](fonts/fae-ad-i-coa-federacio-esqui.md) | Federació Andorrana d'Esquí (FAE) · Comitè Olímpic Andorrà (COA) | publicació institucional, sense llicència declarada | pendent |
 | [`fandtaekwondo-federacio`](fonts/fandtaekwondo-federacio.md) | Federació Andorrana de Taekwondo | publicació institucional, sense llicència declarada | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`festesandorra`](fonts/festesandorra.md) | festesandorra.com | desconeguda, ús informatiu | False |
@@ -1850,11 +1852,13 @@
 | [`national-football-teams`](fonts/national-football-teams.md) | national-football-teams.com | desconeguda, ús informatiu | False |
 | [`nomen-capital-social-2007`](fonts/nomen-capital-social-2007.md) | Eusebi Nomen i Calvet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`olympics-com-verdu-mamba-austria`](fonts/olympics-com-verdu-mamba-austria.md) | Comitè Olímpic Internacional (Olympics.com) | publicació institucional, sense llicència declarada | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`palau-marti-identitat-andorrana-1994`](fonts/palau-marti-identitat-andorrana-1994.md) | Montserrat Palau i Martí · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pastor-andorra-diversa`](fonts/pastor-andorra-diversa.md) | Robert Pastor i Castillo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`perpinianum-camiade-la-casa`](fonts/perpinianum-camiade-la-casa.md) | Perpinianum · catàleg de biblioteca | catàleg bibliogràfic públic; citació de metadades | False |
 | [`persee-resenya-galinier-pallerola`](fonts/persee-resenya-galinier-pallerola.md) | Persée · CNRS | publicació acadèmica, Persée; ús de recerca | pendent |
 | [`pesado-recurs-hidric-andorra`](fonts/pesado-recurs-hidric-andorra.md) | Cristina Pesado i Pons, Marc Pons i Pons, Juan-Ignacio López Moreno · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pique-duro-problemes-socials-1997`](fonts/pique-duro-problemes-socials-1997.md) | Montserrat Piqué (Càritas Andorrana) i Rosa Duró Solanelles · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
@@ -1862,6 +1866,7 @@
 | [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pons-neu-i-aigua`](fonts/pons-neu-i-aigua.md) | Marc Pons i Pons · Societat Andorrana de Ciències | pendent; PDF accessible al repositori de l'IEC, sense llicència específica identificada a la peça | pendent |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
+| [`premsa-andorrana-verdu-val-disere-2023`](fonts/premsa-andorrana-verdu-val-disere-2023.md) | Altaveu · Diari d'Andorra · FAE | premsa, drets reservats; citació breu | False |
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1898,6 +1903,7 @@
 | [`unesco-countries-andorra`](fonts/unesco-countries-andorra.md) | UNESCO | desconeguda, ús informatiu | False |
 | [`valero-escola-privada`](fonts/valero-escola-privada.md) | Fátima Valero i Alcaide · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`valls-enquesta-andorranitat-1994`](fonts/valls-enquesta-andorranitat-1994.md) | Àlvar Valls i Oliva · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`vandeer-redbull-verdu-equip`](fonts/vandeer-redbull-verdu-equip.md) | VAN DEER-Red Bull Sports Equipment GmbH | publicació institucional/comercial, sense llicència declarada | pendent |
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vellasolsona-mestre-roure-2006`](fonts/vellasolsona-mestre-roure-2006.md) | Ramon Estany, Solsona (butlletí local) | desconeguda, ús informatiu | False |
