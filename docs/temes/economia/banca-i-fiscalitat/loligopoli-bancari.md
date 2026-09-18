@@ -105,14 +105,13 @@ andorrana del canvi de segle.
   5% i les dates de la Caixa). **Quatre buits de la branca esperen el mateix
   fons.**
   `Requereix font externa: les actes del Consell General de 1928-1930 i de 1968.`
-- **Quan va arribar la Caixa: 1949 o 1951?** **Buit nou, obert el 2026-09-13**
-  per l'auditoria interna. **Aquesta fitxa dona les dues dates** —s'instal·la
-  el 1949, entra el 1951 com a «primer banc estranger del país»— i
-  **[el Banc Agrícol](./el-banc-agricol.md) en dona una tercera, el juny de
-  1935**, a casa Guillema i només amb comptes d'estalvi. **Les tres dates i la
-  hipòtesi que les podria encadenar són a
-  [el Banc Agrícol](./el-banc-agricol.md), secció «Tres dates per a la mateixa
-  caixa».**
+- ~~**Quan va arribar la Caixa: 1949 o 1951?**~~ — **`parcial`**: aquesta
+  fitxa dona les dues dates —s'instal·la el 1949 i entra el 1951 com a «primer
+  banc estranger del país»—, i **[el Banc Agrícol](./el-banc-agricol.md)** hi
+  afegeix el juny de 1935, a casa Guillema i només amb comptes d'estalvi.
+  **Les tres dates i la hipòtesi que les podria encadenar ja estan registrades
+  a la secció «Tres dates per a la mateixa caixa»**, però cap font del corpus
+  les encadena i la confirmació definitiva requereix font externa.
 
 ## Related
 
