@@ -197,8 +197,10 @@ visitants** (+17,7%), més que a tots els museus junts.
   «[I amb els anys de més](#i-amb-els-anys-de-mes-la-frase-sha-de-girar)».
   `Del desglossament museu a museu, en canvi, l'API només en dona el total i el
   tipus d'equipament: els anys anteriors al 2020 no es poden repartir.`
-- **El Museu de les Dues Rodes** i **el Centre de Natura de la Cortinada**, que
-  la història esmenta i el llistat no descriu.
+- ~~**El Museu de les Dues Rodes** i **el Centre de Natura de la Cortinada**, que
+  la història esmenta i el llistat no descriu.~~ — **`parcial` el 19-09-2026**:
+  el Museu de la Moto queda descrit amb la fitxa institucional actual i el
+  Centre de Natura amb la guia oficial de 2019 ([fitxa conjunta](./museu-de-la-moto-i-centre-de-natura.md)). **L'estat actual del Centre de Natura no queda confirmat.**
 - **Les quatre exposicions fundacionals** —*Andorra Arqueològica* (1985),
   *Andorra Medieval* (1988), *Joies de la Prehistòria* (1992), *Seure a Taula*
   (1995)— **i els seus catàlegs**, que serien font primària.

@@ -88,8 +88,19 @@ Antoni Zorzano.**
 
 ## Museu de la Moto
 
-**A Canillo.** **«Les màquines més singulars i representatives de tots els
-temps, des del principi del segle XX fins als nostres dies.»**
+**A Canillo.** El **Museu de la Moto**, també anomenat **Museu de les Dues Rodes
+(M2R)**, ocupa 700 m² a l'edifici del Telecabina i exposa **150 motocicletes**
+que recorren l'evolució de 1896 a 2013 ([fitxa de font](../../../../fonts/museus-ad-moto-centre-natura-2026.md)).
+
+La seva fitxa pròpia queda a [Museu de la Moto i Centre de Natura](./museu-de-la-moto-i-centre-de-natura.md).
+
+## Centre de Natura de la Cortinada
+
+La **Casa Masover, el Vilar, la Cortinada**, acollia el Centre de Natura amb una
+exposició sobre la formació dels Pirineus, el clima, la fauna i la flora. La
+guia institucional de 2019 hi indicava visita guiada, tallers escolars, accés
+adaptat i obertura de maig a octubre. La situació actual queda pendent de
+verificació separada; vegeu la [fitxa conjunta](./museu-de-la-moto-i-centre-de-natura.md).
 
 ## Museu del Còmic
 
