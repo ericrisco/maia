@@ -266,8 +266,11 @@ en donen quatre.
 
 ## Buits registrats
 
-1. **`missaga` o `nissaga`.** Tres ocurrències sense marcar. Es resol en trenta
-   segons **amb l'àudio** (00:05:32) i no es resol de cap altra manera.
+1. ~~**`missaga` o `nissaga`.** Tres ocurrències sense marcar. Es resol en trenta
+   segons **amb l'àudio** (00:05:32) i no es resol de cap altra manera.~~ —
+   **`parcial`**: el títol de la peça i el **DIEC2** sustenten la forma editorial
+   **`nissaga`**, però el cos de la fitxa deixa clar que sense escoltar l'àudio
+   no es pot arbitrar si la `m-` és de la parlant o de la màquina.
 2. **`l'adot`.** No és al DIEC2. És al corpus només dins d'una citació de 1788.
    **No se sap si és arcaisme, tecnicisme o forma viva.** Caldria sentir-la fora
    del tema històric, o trobar un segon parlant.
