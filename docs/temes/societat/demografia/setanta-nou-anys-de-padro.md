@@ -98,6 +98,69 @@ tanquen.**
 la sèrie— i **un saldo de només +120**. `El 2020 és l'any de la pandèmia; la
 font no l'etiqueta.`
 
+## La taxa de natalitat s'ha partit per dos en quinze anys
+
+> **Afegit el 18-09-2026** amb la branca de demografia vital de l'API
+> (`docs/raw/estadistica-api/demografia-vital/`, **CC BY 4.0**). **La sèrie de
+> naixements que aquesta fitxa ja tenia mesura quantitats; aquesta en mesura la
+> intensitat, i la font la publica des del 2010.**
+
+| Any | Naixements per mil habitants |
+| --- | ---: |
+| **2010** | **11,78** |
+| 2013 | 9,10 |
+| 2016 | 8,67 |
+| 2019 | 6,95 |
+| 2022 | 6,15 |
+| **2023** | **5,38** |
+| 2025 | **5,70** |
+
+**Baixa quinze anys seguits i només puja el 2024.** **La caiguda no és, doncs,
+un efecte de mida: el país creix i alhora té menys criatures per habitant cada
+any.**
+
+## El 2020 no és un any alt: és un nivell nou
+
+**Les defuncions dels cinc anys anteriors al 2020 es mouen entre 282 i 334. Les
+dels cinc posteriors, entre 357 i 386.** **El terra nou és per damunt del sostre
+vell**, i **el salt del 2019 al 2020 —de 301 a 419, un +39,2%— és el més gran
+de tota la sèrie des del 1953.**
+
+`El corpus no atribueix la diferència. Una part és envelliment —el 2025, 207 de
+les 386 morts tenen vuitanta anys o més, el 53,6%— i aquesta taula no permet
+separar-la de res més. El que sí que es pot dir és que el 2020 no va ser un pic
+dins d'una sèrie plana.`
+
+## Qui neix i de qui
+
+**El 2025, de les 508 criatures nascudes a Andorra:**
+
+| Nacionalitat de la mare | Naixements |
+| --- | ---: |
+| **Andorrana** | **194** |
+| Espanyola | 130 |
+| **Altres nacionalitats** | **126** |
+| Portuguesa | 45 |
+| Francesa | 13 |
+
+**Sis de cada deu criatures nascudes a Andorra tenen mare no andorrana**, i
+**les mares d'«altres nacionalitats» són gairebé tantes com les espanyoles** —el
+mateix desplaçament que el corpus ha mesurat a l'escola i al mercat de treball
+([la immigració llatinoamericana](../immigracio/la-immigracio-llatinoamericana.md)).
+
+**Per edat de la mare**: **214 al tram de 30-34 anys**, **144 al de 35-39**,
+**86 al de 25-29** i **23 al de 20-24**. **Hi ha més criatures de mare de
+quaranta anys o més (40) que de mare de menys de vint-i-cinc (24).**
+
+**Per parròquia**: Andorra la Vella 136, Escaldes-Engordany 94, la Massana 74,
+Encamp 66, Sant Julià 57, Canillo 45, Ordino 36.
+
+**I per estat civil de la mare**: **288 de mare casada i 202 de mare soltera**,
+més 16 de «mare no casada» i 2 sense constar. **El mateix any en què el país fa
+474 casaments, el màxim de la sèrie des del 1977**
+([casar-se a Andorra](../familia/casar-se-a-andorra.md)): **casar-se i tenir
+fills s'han desenganxat.**
+
 ## L'any en què es gira el saldo migratori: 2014
 
 Amb la població total i el vegetatiu es pot calcular el saldo migratori any per
@@ -147,8 +210,13 @@ quartes parts del creixement eren migració**
 ## Buits registrats
 
 - **Per què cauen 6.900 persones del padró el 2011.**
-- **Si la sèrie de naixements i defuncions canvia de mètode el 1997**, quan
-  passa dels capellans al registre civil.
+- ~~**Si la sèrie de naixements i defuncions canvia de mètode el 1997**, quan
+  passa dels capellans al registre civil.~~ — **`resolt` el 18-09-2026: la
+  sèrie publicada no ho recull.** **És una sola sèrie contínua del 1953 al
+  2025, sense nota de ruptura**, i **els valors del voltant no salten**: **197
+  defuncions el 1996 i 197 el 1997**, **700 naixements el 1996 i 730 el 1997**.
+  `Si el registre va canviar de mans, la sèrie no ho diu; saber-ho demanaria
+  la nota metodològica del Departament.`
 - **El saldo migratori oficial**, si existeix. El corpus en calcula un i **no en
   té cap de publicat**.
 - **Els anys anteriors al 1947** de població, i **anteriors al 1953** de

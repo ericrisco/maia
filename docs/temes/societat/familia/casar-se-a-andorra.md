@@ -160,6 +160,59 @@ on el corpus tenia registrat que **el dret català anterior al 1714 era font viv
 del dret andorrà**. **No era només una prelació teòrica: n'han quedat
 institucions dins la llei vigent.**
 
+## Quina de les dues portes fa servir la gent
+
+> **Afegit el 18-09-2026** amb la sèrie de matrimonis del **Departament
+> d'Estadística** (`docs/raw/estadistica-api/demografia-vital/`, **CC BY 4.0**).
+> **La llei diu que les dues formes tenen els mateixos efectes. La sèrie diu que
+> no tenen el mateix ús, i que la proporció s'ha invertit en una generació.**
+
+| Any | Eclesiàstics | Civils | % civils |
+| --- | --- | --- | --- |
+| **1990** | **153** | **—** | **la font no en publica cap** |
+| 1997 | 143 | — | — |
+| **1998** | 122 | **86** | **41,3%** |
+| 2002 | 83 | 103 | 55,4% |
+| 2006 | 105 | 191 | 64,5% |
+| 2010 | 56 | 231 | 80,5% |
+| 2018 | 32 | 261 | 89,1% |
+| **2025** | **45** | **429** | **90,5%** |
+
+**Fins al 1997 la sèrie només té una columna**, i **el primer any amb casaments
+civils comptats és el 1998, amb vuitanta-sis.** **El bescanvi és de tres anys**:
+**el 2000 encara guanyen els eclesiàstics per quatre casaments** —115 contra
+111— i **el 2002 ja en perden per vint.**
+
+**El que no es veu a la taula, perquè la taula ho amaga en percentatges, és que
+els casaments eclesiàstics no s'han enfonsat: s'han quedat quiets.** **Eren 153
+el 1990 i són 45 el 2025**, sí, **però des del 2010 es mouen entre 32 i 56 cada
+any, sense tendència.** **El que ha passat és que els civils han passat de zero
+comptats a 429.** **La forma canònica no ha perdut la gent que tenia: ha deixat
+de rebre la que arribava.**
+
+**I n'arriba molta.** **El 2025 es casen 474 parelles, el màxim de tota la
+sèrie**, **més que el 1990 (153), el 2000 (226) i el 2010 (287)**, i **el país
+té avui menys naixements que mai** ([la natalitat](../demografia/README.md)).
+**Casar-se i tenir fills s'han separat**: **el 2025, de 508 criatures, 288 són
+de mare casada i 202 de mare soltera.**
+
+### Qui es casa aquí
+
+| 2025 | Casaments |
+| --- | --- |
+| **Ambdós cònjuges estrangers** | **263** |
+| Un cònjuge andorrà | 133 |
+| **Ambdós andorrans** | **78** |
+
+**Set de cada deu casaments del país no tenen cap cònjuge andorrà o en tenen
+un.** I **seixanta dels 474 es registren amb parròquia «estranger»**, que
+**Andorra la Vella (96), Encamp (74) i la Massana (67)** encapçalen la resta.
+
+**L'edat mitjana al matrimoni puja i la distància entre sexes es manté**: **el
+2011 era de 33,1 anys per a les dones i 35,6 per als homes; el 2025 és de 36,7 i
+39,7.** **Tres anys i mig més per a tothom en catorze anys, i tres anys de
+diferència entre ells, igual al principi i al final.**
+
 ## Una capa històrica, del 1904
 
 > **Afegit el 19-09-2026, i ve de la justícia.** **Brutails, descrivint per què
@@ -188,8 +241,15 @@ institucions dins la llei vigent.**
   El corpus no té ni un expedient.`
 - **La filiació, l'autoritat parental i els aliments** ocupen més de la meitat
   de la llei i aquesta fitxa no els toca.
-- **Quants matrimonis canònics i quants civils se celebren**, no consta. El
-  corpus té la norma i cap dada.
+- ~~**Quants matrimonis canònics i quants civils se celebren**, no consta. El
+  corpus té la norma i cap dada.~~ — **`resolt` el 18-09-2026** amb la sèrie
+  del Departament d'Estadística, **del 1977 al 2025 el total i del 1998 al
+  2025 el desglossament**: vegeu
+  [quina de les dues portes fa servir la gent](#quina-de-les-dues-portes-fa-servir-la-gent).
+  `El que la sèrie no diu és si abans del 1998 no hi havia casaments civils o
+  si la font no els separava. La forma civil existeix a Andorra des de la
+  Llei qualificada del matrimoni, i la data exacta d'aquella llei no s'ha
+  comprovat en aquesta lectura.`
 - ~~**El divorci**: la llei el regula a la secció tretzena i aquí només se'n diu
   que existeix per al matrimoni canònic. **Queda per llegir.**~~ — **`resolt`
   el 17-09-2026** (`docs/raw/lleis/persona-familia.txt`, articles 132 a 139).
