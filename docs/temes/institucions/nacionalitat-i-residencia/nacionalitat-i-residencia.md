@@ -79,14 +79,65 @@ lucrativa»**, i demana **90 dies l'any** al país, **un milió d'euros** invert
 —**400.000** si van al Fons d'Habitatge— i **50.000 euros no reemborsables** que
 **queden a benefici de l'Estat**, més **12.000** per cada persona a càrrec.
 
+## La sèrie, i el pes de cada nacionalitat
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/poblacio/`, divisió
+**1106**). **El corpus tenia una xifra de premsa i cap sèrie.**
+
+| Nacionalitat | 2010 | 2015 | 2020 | **2025** | % 2010 | **% 2025** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Andorrana** | 33.702 | 36.132 | 37.999 | **39.815** | **47,9%** | **44,7%** |
+| **Espanyola** | 17.679 | 17.512 | 19.211 | **21.013** | 25,2% | 23,6% |
+| **Portuguesa** | **10.832** | 9.261 | 9.083 | **8.428** | **15,4%** | **9,5%** |
+| **Altres nacionalitats** | 1.715 | 2.545 | 3.844 | **7.767** | **2,4%** | **8,7%** |
+| Francesa | 2.937 | 2.834 | 3.423 | 4.113 | 4,2% | 4,6% |
+| **Argentina** | 602 | 533 | 992 | **3.291** | 0,9% | **3,7%** |
+| Britànica | 662 | 700 | 709 | 863 | 0,9% | 1,0% |
+| Italiana | 363 | 348 | 534 | 716 | 0,5% | 0,8% |
+| Filipina | 360 | 395 | 509 | 629 | 0,5% | 0,7% |
+| Xilena | 181 | 168 | 257 | 479 | 0,3% | 0,5% |
+| Marroquina | 394 | 378 | 403 | 455 | 0,6% | 0,5% |
+| **Total** | **70.290** | **71.732** | **78.015** | **89.058** | 100% | 100% |
+
+**D'on ve el 54,7%**: **el 2025 la població de nacionalitat andorrana és el
+44,7%**, i **la resta, el 55,3%, és estrangera.** **La xifra de premsa del 2024
+era exacta i el corpus ara en té la sèrie.**
+
+**Quatre coses que la sèrie diu i la xifra sola no:**
+
+**Primera: el pes dels andorrans baixa mentre el seu nombre puja.** **39.815 el
+2025 contra 33.702 el 2010** —**+18,1%**— i **del 47,9% al 44,7% del total**,
+**perquè el país ha crescut un 26,7%.**
+
+**Segona: els portuguesos són l'únic col·lectiu gran que perd gent.** **10.832
+el 2010, 8.428 el 2025**: **−22,2%**, i **del 15,4% al 9,5% de la població.**
+**Han passat de ser una de cada sis persones del país a ser una de cada deu.**
+
+**Tercera: «altres nacionalitats» es multiplica per 4,5** —de 1.715 a 7.767— i
+**ja pesa més que els francesos.**
+
+**Quarta: els argentins.** **602 el 2010, 533 el 2015, 992 el 2020 i 3.291 el
+2025**: **×5,5 en cinc anys**, i **el creixement més ràpid de tota la taula.**
+**És el mateix moviment que la sèrie d'assalariats ja mostrava**
+([la immigració llatinoamericana](../../societat/immigracio/la-immigracio-llatinoamericana.md#vint-i-cinc-anys-despres-en-xifres)),
+i **aquí es veu que no és només feina: és població registrada.**
+
+`La nacionalitat del padró no és l'origen. Qui es naturalitza passa de la seva
+fila a la d'«andorrana», i per tant una part del creixement andorrà i de la
+caiguda portuguesa poden ser la mateixa gent. La font no publica
+naturalitzacions i el corpus no ho pot separar.`
+
 ## El que falta
 
 - Els tipus de residència: **coberts** a [la residència passiva](./la-residencia-passiva.md).
   Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
   —el Govern, per reglament, després de consultar la Cambra de Comerç, els
   sindicats i les patronals— i **no quantes són**.
-- La sèrie demogràfica: d'on ve aquest 54,7 % i com ha evolucionat.
-- Les nacionalitats concretes (espanyola, portuguesa, francesa) i el seu pes.
+- ~~La sèrie demogràfica: d'on ve aquest 54,7 % i com ha evolucionat.~~ —
+  ~~Les nacionalitats concretes (espanyola, portuguesa, francesa) i el seu
+  pes.~~ — **`resolt` el 18-09-2026** amb l'API del Departament d'Estadística
+  (`docs/raw/estadistica-api/poblacio/`, divisió **1106**, **2010-2025**), a
+  [La sèrie](#la-serie-i-el-pes-de-cada-nacionalitat).
 - El debat polític sobre escurçar els vint anys, i la ponència de la
   *Diada andorrana a la UCE* dedicada a la nacionalitat, publicada per l'IEC.
 - ~~La doble nacionalitat: cal verificar-ho.~~ **VERIFICAT, i no és una llei: és
