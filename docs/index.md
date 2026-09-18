@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **237** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **240** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1738,6 +1738,7 @@
 | [`consell-general-pressupost-2026`](fonts/consell-general-pressupost-2026.md) | Consell General del Principat d'Andorra | condicions de reutilització pendents per peça | pendent |
 | [`consell-general-seu`](fonts/consell-general-seu.md) | Consell General del Principat d'Andorra | Tots els drets reservats. L'avís legal diu que el lloc web i tots els seus continguts són propietat del Consell General i que la reutilitzacio d'alguns documents pot estar limitada per la Llei del 10 de juny del 1999 sobre drets d'autor i drets veïns. No s'hi declara cap llicència oberta. | no |
 | [`consell-general-web`](fonts/consell-general-web.md) | Consell General del Principat d'Andorra | condicions variables per document; identitat gràfica reservada | pendent |
+| [`consellgeneral-rousseau-jurament`](fonts/consellgeneral-rousseau-jurament.md) | Consell General del Principat d'Andorra | publicació institucional, sense llicència declarada | pendent |
 | [`coprincep-frances`](fonts/coprincep-frances.md) | Representació del Copríncep Francès a Andorra | informació institucional pública | si |
 | [`costa-colectivismo-1898`](fonts/costa-colectivismo-1898.md) | Domini públic per antiguitat. Exemplar digitalitzat, còpia de la Biblioteca del Banco de España | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1898, autor mort el 1911. | si |
 | [`costa-globalitzacio-llengues`](fonts/costa-globalitzacio-llengues.md) | Ferran Costa i Marimon · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
@@ -1894,11 +1895,13 @@
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vi-andorra`](fonts/wikipedia-ca-vi-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-vpc-andorra-rugby`](fonts/wikipedia-ca-vpc-andorra-rugby.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-clubs-futbol-andorra`](fonts/wikipedia-clubs-futbol-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-constitucio-1934`](fonts/wikipedia-constitucio-1934.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-dama-blanca`](fonts/wikipedia-dama-blanca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-en-pere-pastor-vilanova`](fonts/wikipedia-en-pere-pastor-vilanova.md) | Wikipedia community · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-escacs-andorra`](fonts/wikipedia-escacs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esport-andorra`](fonts/wikipedia-esport-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-esquiadors-andorrans`](fonts/wikipedia-esquiadors-andorrans.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

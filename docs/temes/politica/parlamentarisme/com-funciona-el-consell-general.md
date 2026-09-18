@@ -366,8 +366,30 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    crèdits i els ajuts amb càrrec als pressupostos dels ens públics»**
    (article 2.1.b). `Requereix una fitxa pròpia i la llista dels seus informes
    anuals.`
-8. **Dominique Rousseau**, magistrat del Tribunal Constitucional andorrà citat
-   al text — i **el Tribunal Constitucional** en general.
+8. ~~**Dominique Rousseau**, magistrat del Tribunal Constitucional andorrà
+   citat al text — i **el Tribunal Constitucional** en general.~~ —
+   **`resolt` el 18-09-2026**: **el Tribunal Constitucional es crea el 1993**
+   ([font](../../../fonts/wikipedia-ca-tribunal-constitucional.md)), és
+   **«l'intèrpret suprem de la Constitució»** (article 95.1), i té **quatre
+   magistrats amb mandat de vuit anys no renovable**, designats **un per cada
+   Copríncep i dos pel Consell General**, amb **renovació esglaonada**.
+
+   **Dominique Rousseau** és **professor de Dret Constitucional a la
+   Universitat de París 1 Panthéon-Sorbonne**, codirector de l'Escola de Dret
+   de la Sorbona, i **exmembre del Consell Superior de la Magistratura
+   francès (2002-2006)**
+   ([font](../../../fonts/consellgeneral-rousseau-jurament.md)); **hi
+   substitueix Pierre Subra de Bieusses** i n'és **vicepresident des del
+   2018**.
+
+   **Qui presideix avui és Pere Pastor Vilanova**, magistrat des del
+   18-11-2024 i president des del **9-9-2026**
+   ([font](../../../fonts/wikipedia-en-pere-pastor-vilanova.md)) —
+   **primer nacional andorrà nomenat magistrat d'aquest tribunal pel Consell
+   General**, abans jutge del Tribunal Europeu de Drets Humans (2015-2024) i
+   del Tribunal Superior d'Andorra (2011-2015). **No és una divergència: la
+   fitxa de la Viquipèdia en català sobre el Tribunal encara no reflecteix
+   aquest relleu.**
 
 ## Related
 
