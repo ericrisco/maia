@@ -115,7 +115,7 @@ el catàleg sencer. **El corpus n'ha llegit deu.**
 | 17a | 2004 | Els llindars òptims del creixement andorrà | — |
 | 18a | 2005 | Andorra i els seus veïns del nord | — |
 | 19a | 2006 | Els models de fiscalitat per a Andorra | — |
-| **20a** | 2007 | **Andorra i el seu capital social** | **descarregat, sense capa de text** |
+| **20a** | 2007 | **Andorra i el seu capital social** | **OCR disponible; lectura pendent** |
 | 21a | 2008 | **L'andorranitat** | — |
 | 22a | 2009 | L'energia a Andorra | — |
 | 23a | 2010 | Andorra i els seus ciutadans | — |
@@ -224,9 +224,14 @@ pròpia font principal**:
   ([font](../../../fonts/cavero-parlamentarisme-segle-xx.md)). **Tres
   seccions confirmades** (Llengua catalana, ACMA, Història); **resta obert**
   si n'hi ha més.
-- **Les Jornades sobre l'educació a Andorra de 1987**, organitzades per la SAC i
+- ~~**Les Jornades sobre l'educació a Andorra de 1987**, organitzades per la SAC i
   **publicades el 1994** — citades a la 13a Diada com a precedent. **Font
-  localitzada i no llegida.**
+  localitzada i no llegida.**~~ — **`parcial` el 19-09-2026**: la transcripció
+  local de la **13a Diada** confirma que la SAC les va organitzar el 1987, que es
+  van publicar el 1994 i que analitzaven el sistema educatiu andorrà d'aquell
+  moment ([transcripció, p. 7](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt)).
+  **La publicació de 1994 no s'ha llegit directament**: en queda obert el
+  contingut detallat.
 - **La relació entre la SAC i l'IEA**: dues institucions de recerca andorranes
   que el corpus veu actuar en paral·lel i **mai juntes**.
 

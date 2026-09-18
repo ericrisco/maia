@@ -157,8 +157,9 @@ https://calaix.gencat.cat/bitstream/handle/10687/<handle>/x.pdf?sequence=1&isAll
 
 **Les 21a-26a no són en aquest rang i no s'han localitzat. Buit registrat.**
 
-**Avís:** alguns volums —com el **20a**— són **escanejats sense capa de text** i
-caldrà **OCR**.
+**Avís:** alguns volums —com el **20a**— són escanejats. El 20a ja té una
+**transcripció OCR local** (`docs/raw/sac-diades/20a-2007-andorra-i-el-seu-capital-social.txt`),
+però la lectura encara requereix revisar-ne els errors de reconeixement.
 
 ## Related
 

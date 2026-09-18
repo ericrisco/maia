@@ -248,10 +248,18 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
   font diu que les reticències eren pel sistema electoral i no diu qui les
   organitzava.**
 - **Els números absoluts per parròquia**, no només els percentatges.
-- **La crònica de *l'Avui* del 15 de març del 1993**, p. 8, **accessible a
-  l'hemeroteca Pandora de Girona** — **identificada i no llegida.**
-- **L'*Especial Constitució* d'*El Periòdic d'Andorra*** del 14 de març del
-  2017, **en PDF** — **dues pàgines citades, revista no llegida.**
+- ~~**La crònica de *l'Avui* del 15 de març del 1993**, p. 8, **accessible a
+  l'hemeroteca Pandora de Girona** — **identificada i no llegida.**~~ —
+  **`parcial` el 19-09-2026**: la còpia local de l'article de la Viquipèdia
+  reprodueix la dada que se n'extreu —la ratificació per àmplia majoria i la
+  lectura del resultat com a estat de dret— i conserva la citació i l'enllaç a
+  Pandora ([font](../../../raw/web/referendums/Referèndum_constitucional_d_Andorra_de_1993-ca.wiki)).
+  **La pàgina 8 d'*Avui* no s'ha consultat directament.**
+- ~~**L'*Especial Constitució* d'*El Periòdic d'Andorra*** del 14 de març del
+  2017, **en PDF** — **dues pàgines citades, revista no llegida.**~~ —
+  **`parcial` el 19-09-2026**: la mateixa còpia local conserva els dos passatges
+  citats del PDF —els **precedents** (p. 12) i el **penúltim pas** (p. 17)— i
+  l'enllaç a l'edició. **El PDF original no s'ha obert directament.**
 - **La memòria de reforma del 1978** i **el decret del 1981**: **textos.**
 - ~~La llei que va regular el referèndum.~~ — **`resolt` el 17-09-2026**, vegeu
   més amunt. **I n'obre una de nova**: **l'article 14 de la Llei Electoral del
