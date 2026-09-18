@@ -96,14 +96,13 @@ s'enfonsi l'oví** i pot haver estat part del coixí.
 3. *Trumfa* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
    hi consta encara**.
-4. **Maria Montanya** — qui era i on són les seves vivències. **Font citada i no
-   consultada, prioritària.** — **Pista trobada, no confirmada, el
-   18-09-2026**: existeix una **Maria Montanya** autora de ***La cuina de
-   casa meva*** (autoeditat, 1985, 175 pàgines, pròleg de **Néstor Luján**).
-   **No hi ha cap indicació que sigui andorrana ni que el llibre parli
-   d'Andorra** —Luján és un crític gastronòmic barceloní—, i la citació de
-   Ribes parla de «vivències», no d'un receptari. **No s'adopta com a
-   identificació: el buit es manté obert.**
+4. ~~**Maria Montanya** — qui era i on són les seves vivències. **Font citada i no
+   consultada, prioritària.**~~ — **`parcial` el 19-09-2026**: la transcripció
+   local de la **15a Diada** la presenta com a autora de «vivències de
+   l'Andorra de principi del segle XX» i en reprodueix un passatge sobre la
+   cuina de les valls ([font local](../../../raw/sac-diades/15a-2002-una-historia-dandorra-tematica.txt), p. 90). **No hi consta encara
+   el títol de l'obra original ni una biografia segura de Montanya**; la
+   identificació editorial continua oberta.
 5. **Trumfes eixutes**: recepta, si es fa encara.
 
 ## Related
