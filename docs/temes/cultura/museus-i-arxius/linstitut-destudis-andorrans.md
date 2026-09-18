@@ -282,8 +282,15 @@ assembla força al que aquest corpus intenta fer amb text.
 
 ## Buits registrats
 
-- **Què va passar realment del 2001 ençà.** Tota la meitat final d'aquesta fitxa
-  és **pla anunciat el 2000**. **Buit prioritari.**
+- ~~**Què va passar realment del 2001 ençà.**~~ — **`parcial` el 19-09-2026**:
+  la informació institucional actual confirma que l'**IEA, l'Obsa i Actua
+  Innovació es van transformar en Andorra Recerca + Innovació** i que l'arxiu
+  web de l'IEA es conserva fins al **juny del 2021** ([fitxa de font](../../../fonts/iea-estat-2026.md)).
+  La mateixa pàgina encara publica l'organització dels centres **CRES** i
+  **CENMA**. Això documenta el desenllaç institucional i un límit temporal de
+  l'arxiu, però **no permet reconstruir què va passar any per any entre el 2001
+  i la transformació**, ni verificar totes les previsions de la ponència del
+  2000. El buit prioritari segueix obert en aquesta part.
 - ~~**La relació entre el CRECIT i el CENMA**~~ — **`parcial` des del 2026-09-13**:
    el corpus té una prova que no sabia que tenia: el CRECIT va existir i va
   treballar.** **[Com es compta l'aigua dels canons](../../territori/clima-i-muntanya/com-es-compta-laigua-dels-canons.md)

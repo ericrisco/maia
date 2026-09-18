@@ -232,8 +232,16 @@ pròpia font principal**:
   moment ([transcripció, p. 7](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt)).
   **La publicació de 1994 no s'ha llegit directament**: en queda obert el
   contingut detallat.
-- **La relació entre la SAC i l'IEA**: dues institucions de recerca andorranes
-  que el corpus veu actuar en paral·lel i **mai juntes**.
+- ~~**La relació entre la SAC i l'IEA**: dues institucions de recerca andorranes
+  que el corpus veu actuar en paral·lel i **mai juntes**.~~ — **`parcial` el
+  19-09-2026**: la **13a Diada Andorrana** de la SAC va incloure i publicar la
+  ponència **«La recerca»** de **Jordi Guillamet i Anton**, que hi consta com a
+  **director de l'Institut d'Estudis Andorrans** ([font](../../../fonts/guillamet-la-recerca.md)).
+  La peça descriu la història institucional de l'IEA, els seus òrgans i els
+  centres de recerca previstos per al 1998-2001 (pp. **179-183**). Això prova
+  un contacte públic i editorial entre les dues institucions i corregeix el
+  «mai juntes»; **no documenta cap conveni, òrgan compartit ni relació estable
+  més enllà d'aquesta Diada**, que segueix obert.
 
 ## Related
 
