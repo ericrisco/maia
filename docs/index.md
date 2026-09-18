@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **365** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1083** documents · **366** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1034,6 +1034,7 @@
 | [El recurs d'empara](temes/institucions/justicia/el-recurs-dempara.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El saig](temes/institucions/justicia/el-saig.md) | `temes/institucions/justicia` | compilada | contemporania | no | `brutails-coutume-1904` |
 | [El Tribunal Constitucional](temes/institucions/justicia/el-tribunal-constitucional.md) | `temes/institucions/justicia` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [El Tribunal de Comptes](temes/institucions/justicia/el-tribunal-de-comptes.md) | `temes/institucions/justicia` | compilada | contemporania | no | `bopa-tribunal-de-comptes` |
 | [El van demanar per estalviar, no per pietat](temes/institucions/justicia/el-van-demanar-per-estalviar-no-per-pietat.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [El veguer de França pagava les Corts de la seva butxaca](temes/institucions/justicia/el-veguer-de-franca-pagava-les-corts-de-la-seva-butxaca.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
 | [Els cònsols els lliuren amb els ulls tancats](temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md) | `temes/institucions/justicia` | compilada | historica | no | `brutails-coutume-1904` |
@@ -1770,6 +1771,7 @@
 | [`bopa-llei-associacions-2000`](fonts/bopa-llei-associacions-2000.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-llei-enade-1996`](fonts/bopa-llei-enade-1996.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-subvencions-culturals-2010`](fonts/bopa-subvencions-culturals-2010.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
+| [`bopa-tribunal-de-comptes`](fonts/bopa-tribunal-de-comptes.md) | Consell General d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`brutails-coutume-ia`](fonts/brutails-coutume-ia.md) | Domini públic. Digitalització d'Internet Archive, marcada CC PDM 1.0 | Creative Commons Public Domain Mark 1.0 (https://creativecommons.org/publicdomain/mark/1.0/) | si |
 | [`cairal-escola-andorrana`](fonts/cairal-escola-andorrana.md) | M. Teresa Cairat i Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

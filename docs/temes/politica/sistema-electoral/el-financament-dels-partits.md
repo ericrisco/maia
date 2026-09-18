@@ -432,7 +432,15 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    com es finançaven els partits entre el 1993 i el 2014**, quan no hi havia
    llei: `Requereix el Diari de Sessions del debat de la Llei 19/2014, que és
    on s'acostuma a explicar què es venia fent.`
-7. **El Tribunal de Comptes**: el corpus el cita de passada i no en té fitxa.
+7. ~~**El Tribunal de Comptes**: el corpus el cita de passada i no en té fitxa.~~
+   — **`resolt` el 18-09-2026**: [el Tribunal de
+   Comptes](../../institucions/justicia/el-tribunal-de-comptes.md), a partir
+   de la Llei del 2000 i quatre edictes de designació (2000, 2006, 2015,
+   2021). **Confirma des de fora** la dada que aquesta mateixa fitxa ja tenia
+   més amunt: **Francesc d'Assís Pons Tomàs és president des del 22-10-2015**
+   (edicte, «des del febrer del 2016» en pren possessió), **reelegit el
+   14-10-2021** — la continuïtat fins al 2026 que aquí es documentava per les
+   signatures ara té la data de designació que li falta.
 8. ~~**La Junta Electoral**~~ — **`parcial` el 17-09-2026**: no té fitxa, però ja no és desconeguda. Llegits els articles 28 i 29 de la
    [Llei 44/2022](./com-es-compten-els-vots.md). **Sis vocals: tres batlles
    sortejats pel Consell Superior de la Justícia i tres juristes o experts

@@ -371,8 +371,15 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    ([el finançament dels partits](../sistema-electoral/el-financament-dels-partits.md)):
    **la seva funció fiscalitzadora inclou expressament «les subvencions, els
    crèdits i els ajuts amb càrrec als pressupostos dels ens públics»**
-   (article 2.1.b). `Requereix una fitxa pròpia i la llista dels seus informes
-   anuals.`
+   (article 2.1.b).
+
+   **La fitxa pròpia ja hi és, des del 18-09-2026**: [el Tribunal de
+   Comptes](../../institucions/justicia/el-tribunal-de-comptes.md), amb
+   quatre edictes de designació (2000, 2006, 2015, 2021) que en
+   reconstrueixen la presidència — **avui Francesc d'Assís Pons Tomàs**,
+   designat el 14-10-2021 — i una tensió registrada i no arbitrada amb la
+   norma del mandat únic de sis anys. `La llista dels seus informes anuals
+   segueix sense localitzar-se.`
 8. ~~**Dominique Rousseau**, magistrat del Tribunal Constitucional andorrà
    citat al text — i **el Tribunal Constitucional** en general.~~ —
    **`resolt` el 18-09-2026**: **el Tribunal Constitucional es crea el 1993**
