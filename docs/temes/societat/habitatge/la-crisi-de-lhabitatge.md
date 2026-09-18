@@ -215,11 +215,15 @@ mercat lliure.**
   **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
   i la sobrecàrrega dels costos de l'habitatge— a «[Dues xifres oficials que el
   corpus no tenia](#dues-xifres-oficials-que-el-corpus-no-tenia)», **però cap
-  d'elles no és un preu**. `Requereix la nota de premsa de la sèrie de preus del
-  lloguer del Departament d'Estadística, que no s'ha localitzat pel cercador; les
-  notes es publiquen a sig.govern.ad amb el patró
-  Files/Documents/Notes_premsa_noticies/<CODI>_<DATA>_A.pdf i la secció és
-  «Habitatges i edificis».`
+  d'elles no és un preu**. — **`resolt` el 18-09-2026, i no per on es
+  buscava.** **La sèrie de preus del lloguer és una taula de l'API** —divisió
+  **743**, **2010-2025**, amb desglossament per anys de residència des del
+  2019—, **no una nota de premsa**: **579,63 € de mitjana el 2010**, **755,56 €
+  el 2025**, i **895,28 € el 2025 per a qui fa menys d'un any que hi viu**
+  ([dos terços del país viuen de lloguer](./dos-tercos-del-pais-viuen-de-lloguer.md)).
+  `La nota de premsa segueix sense localitzar, i ja no fa falta: sondejar el
+  patró Files/Documents/Notes_premsa_noticies/<CODI>_<DATA>_A.pdf era la segona
+  millor via, feta primer. Del lloguer per parròquia segueix sense haver-n'hi.`
 - ~~**Quanta gent treballa a Andorra i viu fora, xifra oficial.**~~ — **`resolt`
   el 17-09-2026, i la conclusió anterior era equivocada: la xifra existeix.**
   **A 30 d'abril del 2026 hi havia 1.966 permisos de treball fronterer en
