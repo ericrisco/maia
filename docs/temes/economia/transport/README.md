@@ -121,14 +121,14 @@ transició andorrana passa, ara mateix, per l'híbrid.**
 
 - **Les carreteres.** **La CG-1, la CG-2 i la resta**: cap fitxa.
 - **El túnel d'Envalira** i **el túnel del Cadí**, que va tancar l'aeroport.
-- **L'heliport d'Andorra la Vella.** — **`parcial` el 18-09-2026**: **la
+- ~~**L'heliport d'Andorra la Vella.**~~ — **`parcial` el 18-09-2026**: **la
   concessió de l'Heliport Nacional corre del 2022 al 2052**, amb una
   **compensació de fins a 7.627.034 € —el 75% de l'amortització— si el
   concessionari té resultats negatius**, vegeu
   [El que ja està compromès](../banca-i-fiscalitat/el-que-ja-esta-compromes.md#lheliport-lestat-paga-si-el-concessionari-perd).
   `L'heliport d'Andorra la Vella com a equipament —on és, què hi opera— segueix
   sense fitxa.`
-- **El transport públic** i **la mobilitat interna.** — **`parcial` el
+- ~~**El transport públic** i **la mobilitat interna.**~~ — **`parcial` el
   17-09-2026**: les xifres hi són (**onze línies, 615.523 validacions al juliol
   del 2026, el 90,1% subvencionades**), vegeu
   [L'autobús](#lautobus-sis-centes-mil-validacions-al-mes-i-nou-de-cada-deu-subvencionades).
@@ -139,7 +139,7 @@ transició andorrana passa, ara mateix, per l'híbrid.**
   [L'autobús: de 16,8 milions a 143,8](../banca-i-fiscalitat/el-que-ja-esta-compromes.md#lautobus-de-168-milions-a-1438).
   `Segueix obert qui presta el servei: el llibre del pressupost no anomena
   l'empresa adjudicatària.`
-- **La frontera**: quant temps es triga, quants vehicles hi passen. —
+- ~~**La frontera**: quant temps es triga, quants vehicles hi passen.~~ —
   **`parcial` el 17-09-2026**: **quants hi passen ja consta**
   —**4.052.858 entrades en dotze mesos**, vegeu
   [La frontera](#la-frontera-quatre-milions-de-vehicles-lany-i-tres-de-cada-quatre-per-espanya)—;
