@@ -187,7 +187,34 @@ tribunal**.
    Brutails ho afirma i no en data cap.
 5. **La banda de música militar de la Seu** a les festes andorranes: quins anys,
    quines festes.
-6. **El Politar, pàgines 186** i la màxima sanitària, contra l'original.
+6. ~~**El Politar, pàgines 186** i la màxima sanitària, contra l'original.~~ —
+   **`resolt` el 18-09-2026: les dues coses són dins l'extracte de Brutails**
+   ([El Politar andorrà, llegit](../manual-digest/el-politar.md)), **i totes dues
+   apunten cap al sud.**
+
+   **La màxima sanitària és el punt 17è, a la p. 278**, i **el que hi diu no és
+   que Andorra tanqués la frontera sinó que Catalunya es fiava dels seus
+   papers**:
+
+   > «**Als Consols, Consellers y proms expecte lo cuidado y solicitut de
+   > concervar la sanitat**, y per so **en temps de pesta o contagi**, en sos
+   > certificats y fe fahents **sempre en Catalunya se l's ha donat plena fe**,
+   > **com sien expedits ab sas firmas, sens alguna firma de notari**, y lo
+   > mateyx esdeve en altres assumptos de politica y economia.»
+
+   **Un certificat sanitari andorrà signat només pels cònsols, sense notari,
+   feia fe a Catalunya.** **És un reconeixement d'autoritat administrativa
+   transfronterera, i el Politar el dona per constant («sempre»).**
+
+   **I la p. 186 explica per què Brutails escriu que els jutges francesos es
+   feien suplir per juristes espanyols.** **El Jutge no pot arrendar l'ofici,
+   però sí delegar-lo de franc**, i **«se ha estilat sempre que lo Jutge de
+   Andorra es Frances, locual acostuma delegar un graduat, o be de les Valls de
+   Andorra, ***o be de la ciutat de Urgell*** o altra part»**.
+
+   > **Dues institucions que miraven al sud per raons diferents**: **la sanitat
+   > perquè els papers hi valien**, **i la justícia perquè els graduats hi
+   > eren.**
 7. **Quan es va invertir la tendència**, si es va invertir: Brutails ja hi veu
    que «l'activité andorrane s'oriente manifestement vers la France».
 

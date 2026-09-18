@@ -304,9 +304,18 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
    ***carnicers de ofici*** ni aquells que hagen estat ***nuncis, trompetes,
    lacayos***, y finalment aquells que hagen exercit algun ***ofici vil***.»**
 
-   > **La «tendència patrícia» no és una lectura de l'autor: és un article
-   > numerat.** **El cònsol havia d'haver nascut al país, estar casat, tenir vint-
-   > i-cinc anys i no haver estat mai carnisser, nunci, trompeta ni criat.**
+   **I la llista continua a la p. 278**, amb set inhabilitacions més: **els
+   declarats de crims infamatoris**, **els molt carregats de deutes civils**,
+   **els qui deuen molt al Comú**, **els qui tenen plet amb el Comú de la seva
+   parròquia o amb el de les Valls**, **les fiances del deutor**, **els
+   excomunicats** i **«los fills de Moros, heretges»**. **I una excepció
+   expressa**: **«Si poden ser elegits los deutors de deutes petits.»**
+
+   > **La «tendència patrícia» no és una lectura de l'autor: és una sèrie
+   > d'articles numerats.** **El cònsol havia d'haver nascut al país, estar
+   > casat, tenir vint-i-cinc anys, no deure res gros al comú, no tenir-hi plet,
+   > no estar excomunicat i no haver estat mai carnisser, nunci, trompeta ni
+   > criat.** **El deute petit no inhabilitava; el plet amb el comú, sí.**
 
 ## Related
 
