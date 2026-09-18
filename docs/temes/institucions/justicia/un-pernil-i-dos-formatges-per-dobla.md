@@ -480,8 +480,15 @@ remet amb un **«vide …….» que queda en blanc a l'imprès**.
 **l'ordre i els percentatges** —jutge 2 sous per lliura, escrivà 1, després
 despeses, després tres quarts i un quart— i **cap tancament de Corts real.**
 
-**Els capítols dels Batlles, dels Capitans, deseners i guardes, dels Porters,
-nuncis, cursors i bastoners, i del Consell General segueixen sense llegir.**
+**El capítol dels Capitans, deseners i guardes s'ha llegit el 18-09-2026**
+([el capítol VII](../../historia/manual-digest/el-politar.md#capitans-deseners-i-guardes-el-capitol-vii-llegit)),
+**i hi surt el que aquesta fitxa buscava des de l'altre costat**: **els
+capitans, deseners i guardes cobren jornal i despesa de la part que els
+requereix, o dels béns del delinqüent «y si no tenen, paciencia»**, i **el
+capità cobra un terç més que un guarda.**
+
+**Els capítols dels Batlles, dels Porters, nuncis, cursors i bastoners, i del
+Consell General segueixen sense llegir.**
 
 ## Related
 

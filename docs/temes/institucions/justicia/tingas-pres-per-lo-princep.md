@@ -402,8 +402,14 @@ que a les Valls «no pot haberhi sino una notaria o escrivania publica», regida
 per «un sol notari o escriva publich», elegit pels Prínceps.** **És la unitat
 següent.**
 
-**I segueixen sense llegir els capítols dels Capitans, deseners i guardes, dels
-Porters, nuncis, cursors i bastoners, i del Consell General.**
+**El capítol dels Capitans, deseners i guardes s'ha llegit el 18-09-2026**
+([el capítol VII](../../historia/manual-digest/el-politar.md#capitans-deseners-i-guardes-el-capitol-vii-llegit)):
+**són els únics oficials militars de les Valls**, **el càrrec és «oneros y no
+lucratiu» i es reparteix cada any**, i **els seus gatges tenen la tarifa en
+blanc a l'original.**
+
+**Segueixen sense llegir els capítols dels Porters, nuncis, cursors i bastoners,
+i del Consell General.**
 
 ## Related
 
