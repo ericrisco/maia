@@ -123,11 +123,13 @@ i mig abans.
    pròpiament dita, que segueix oberta.`
 3. **Quines mútues** de fora s'utilitzaven i on eren.
 4. **Què passava** amb qui no podia pagar-ne cap.
-5. Si **queda documentació**: contractes d'iguala, comptes de comú. — **de
-   conducta, sí, i molta**: **els quatre llibres d'actes en porten prop de
+5. ~~Si **queda documentació**: contractes d'iguala, comptes de comú.~~ —
+   **`parcial` el 18-09-2026**: **de conducta, sí, i molta**: **els quatre
+   llibres d'actes en porten prop de
    cent setanta mencions** —cinc al Llibre I, vint-i-set al II, setanta al III i
    seixanta-set al IV—, **sovint amb l'import i el nom del metge.** **El que no
-   hi ha és cap contracte d'iguala.**
+   hi ha és cap contracte d'iguala; els comptes de comú encara no queden
+   identificats.**
 6. *Iguala* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
    hi consta**.
