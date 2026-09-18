@@ -76,8 +76,7 @@ Jocs.**
 - ~~**On van néixer**~~ — **`resolt` de passada, i és un fet en si mateix**:
   **tots dos al Pas de la Casa.** **Els dos únics olímpics de vela que ha tingut
   Andorra són germans i són del poble més alt i més lluny del mar del país.**
-- **On s'entrena la vela andorrana.** — **`obert`, confirmat.**
-
+- ~~**On s'entrena la vela andorrana.** ~~— **`obert`, confirmat.**
 ## Related
 
 - [Els olímpics d'estiu](./README.md)

@@ -87,10 +87,10 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Roger_Vidosa.wiki`](../../../../raw/web/esport/alpins/Roger_Vidosa.wiki)).
 
-- **Copa d'Europa i Copa del Món**: la font dona posicions de Copa del Món
+- ~~**Copa d'Europa i Copa del Món**: la font dona posicions de Copa del Món
   (supercombinada 22, descens 46, súper-G 33) **sense dir de quina temporada
   són**. **El corpus no les publica com a resultats fins que no en sàpiga la
-  data.** — **`obert`, confirmat, i la decisió es manté**: **el bolcat les dona
+  data.** ~~— **`obert`, confirmat, i la decisió es manté**: **el bolcat les dona
   sense any i el corpus no les escriu com a resultats.** **De Copa d'Europa no
   n'hi ha res.**
 - ~~**Els seus deu triomfs FIS**: on i quan.~~ — **`parcial`: el compte es
@@ -104,7 +104,7 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
   | **Total** | **10 victòries** | **16 segons** | **4 tercers** |
 
   **Deu victòries i trenta podis.** **Ni una sola data.**
-- **Si va ser abanderat.** — **`obert`, confirmat**: **el bolcat no ho esmenta.**
+- ~~**Si va ser abanderat.** ~~— **`obert`, confirmat**: **el bolcat no ho esmenta.**
 - ~~**Els resultats de Jocs i de mundials**~~ — **`resolt`, i el corpus els
   pot escriure perquè aquests SÍ que porten any:**
 

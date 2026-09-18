@@ -39,7 +39,7 @@ de les dues dones, de qui la font no dona resultats.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Nahum_Orobitg.wiki`](../../../../raw/web/esport/alpins/Nahum_Orobitg.wiki)).
 
-- **On va néixer.** La font deixa el camp buit. — **`obert`, confirmat llegint
+- ~~**On va néixer.** La font deixa el camp buit. ~~— **`obert`, confirmat llegint
   l'infobox sencer**: **no hi ha camp `birth_place`.** **Data: 18 de novembre
   del 1971.**
   - **Comprovat el 17-09-2026 contra una segona base independent**:
@@ -78,8 +78,8 @@ de les dues dones, de qui la font no dona resultats.
   farà el buidatge sistemàtic que tancaria aquest buit i els dos-cents que se
   li assemblen.** `Requereix permís escrit de la FIS, o una font de resultats
   amb llicència reutilitzable.`
-- **Per què només dos Jocs**, quan els seus companys de generació en van fer
-  quatre. — **`obert`, confirmat, i el contrast es pot datar**: **ell va fer el
+- ~~**Per què només dos Jocs**, quan els seus companys de generació en van fer
+  quatre. ~~— **`obert`, confirmat, i el contrast es pot datar**: **ell va fer el
   1988 i el 1992**, mentre que **[Victor Gómez](./victor-gomez.md) i
   [Vicky Grau](./vicky-grau.md) van arribar al 2002 i
   [Gerard Escoda](./gerard-escoda.md) al 1998.** **Cap font no ho explica.**

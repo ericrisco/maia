@@ -46,9 +46,8 @@ del corpus**, repetida prou vegades per merèixer una fitxa pròpia algun dia.
 - **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
   `birth_place` del bolcat és buit.** **Hi ha la data —9 de novembre del
   1963— i no el lloc.**
-- **Tota la resta de la carrera.** — **`obert`, confirmat**: **el bolcat són
+- ~~**Tota la resta de la carrera.** ~~— **`obert`, confirmat**: **el bolcat són
   tres línies.**
-
 ## Related
 
 - [Els olímpics d'estiu](./README.md)

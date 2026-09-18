@@ -54,7 +54,7 @@ dels bons:** *per què Andorra va desfilar sota bandera olímpica a Moscou 1980?
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **La resposta a la pregunta de dalt.** — **`obert`, confirmat.**
+- ~~**La resposta a la pregunta de dalt.** ~~— **`obert`, confirmat.**
 - ~~**Els seus resultats de Los Angeles 1984.**~~ — **`resolt` el 18-09-2026.**
   **El seu bolcat personal són dues línies**; **Els bolcats d'edició de `docs/raw/web/esport/jocs-olimpics/` (Viquipèdia, CC BY-SA 4.0) sí que en donen**:
 
@@ -68,7 +68,7 @@ dels bons:** *per què Andorra va desfilar sota bandera olímpica a Moscou 1980?
   canviat**: **el 1980 Gaset en fa 184 i Tomàs 181**; **el 1984 Tomàs en fa 180
   i Gaset 179.** `El 1980 la fossa era
   masculina i el 1984 era mixta: la font ho escriu així i el corpus també.`
-- **Tota la seva carrera fora dels Jocs.** — **`obert`, confirmat, pel mateix
+- ~~**Tota la seva carrera fora dels Jocs.** ~~— **`obert`, confirmat, pel mateix
   motiu.**
 - **El que el bolcat sí que dona, i la fitxa no tenia**: **Francesc Gaset Fris,
   26 d'abril del 1947**, **fossa olímpica**, **i va ser l'abanderat d'Andorra

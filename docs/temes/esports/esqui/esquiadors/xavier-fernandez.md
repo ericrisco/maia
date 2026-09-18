@@ -52,10 +52,10 @@ demostrar**.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Xavier_Fernandez.wiki`](../../../../raw/web/esport/alpins/Xavier_Fernandez.wiki)).
 
-- **El lloc de naixement** i el nom complet verificat. — **`obert`, confirmat**:
+- ~~**El lloc de naixement** i el nom complet verificat. ~~— **`obert`, confirmat**:
   **l'infobox no té ni `birth_place` ni `full_name`.** **Només la data: 19 de
   novembre del 1972.**
-- **Quina discapacitat** i quina classe paralímpica. — **`obert`, confirmat**:
+- ~~**Quina discapacitat** i quina classe paralímpica. ~~— **`obert`, confirmat**:
   **el bolcat no en diu res**, **a diferència del de
   [Xavier Barios](./xavier-barios.md), que almenys dona la classe LW10.**
 - ~~**Quines dues proves** va córrer a Sotxi.~~ **`parcial` el 2026-09-18**:
@@ -66,7 +66,7 @@ demostrar**.
   ([els Jocs Paralímpics](../../competicio/andorra-als-jocs-paralimpics.md)).
   **I va ser abanderat d'Andorra el 2010 i a l'obertura i la clausura del
   2014.**
-- **Si va competir en altres competicions** fora dels Jocs. — **`obert`,
+- ~~**Si va competir en altres competicions** fora dels Jocs. ~~— **`obert`,
   confirmat.**
 - ~~**I el balanç de la subbranca paralímpica**: **el corpus té DOS paralímpics
   andorrans, tots dos esquiadors, amb quatre participacions.**~~ — **`resolt` i

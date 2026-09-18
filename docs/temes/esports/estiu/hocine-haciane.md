@@ -79,8 +79,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Quins rècords d'Andorra té.** La font diu «record holding» i **no en dona
-  cap.** — **`obert`, confirmat llegint el bolcat sencer**: **hi torna a dir
+- ~~**Quins rècords d'Andorra té.** La font diu «record holding» i **no en dona
+  cap.** ~~— **`obert`, confirmat llegint el bolcat sencer**: **hi torna a dir
   «olympic and national record holding swimmer» i no en llista ni un.**
   **Buit de font, declarat.**
 - ~~**Les seves marques i posicions** de cap dels tres Jocs.~~ — **`resolt` el

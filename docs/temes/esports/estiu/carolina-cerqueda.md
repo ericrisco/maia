@@ -81,7 +81,7 @@ del corpus.**
   diferència dins d'una sèrie olímpica**, que és **el retrat exacte de què és
   una sèrie de places d'universalitat** — vegeu
   [Santiago Deu](./santiago-deu.md).
-- **Quan va plegar.** — **`obert`, confirmat.** **El bolcat la tracta com a
+- ~~**Quan va plegar.** ~~— **`obert`, confirmat.** **El bolcat la tracta com a
   exnedadora i no en diu la data.**
 - ~~**On va néixer i el club**~~ — **`resolt` de passada**: **Andorra la Vella,
   7 de novembre del 1985**, i **va ser del Club Natació Sabadell**, a Espanya.

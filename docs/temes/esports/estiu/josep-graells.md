@@ -50,7 +50,7 @@ complet.
 - **I els temps de Seül, que la fitxa no tenia**: **1:53.34 als 800 m** i
   **3:52.68 als 1.500 m**, tots dos a les sèries. **Va ser l'abanderat d'Andorra
   a la cerimònia d'obertura de Seül 1988.**
-- **Els seus rècords d'Andorra**, si en va tenir. — **`obert`, confirmat**: **el
+- ~~**Els seus rècords d'Andorra**, si en va tenir. ~~— **`obert`, confirmat**: **el
   bolcat no n'esmenta cap.**
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un

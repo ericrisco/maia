@@ -57,13 +57,12 @@ completar és la primera del gegant.**
   d'una línia: **ni temporades, ni Copes d'Europa, ni campionats d'Andorra, ni
   quan va començar ni quan va plegar.**
 - **Qui era i qui és.** Ofici, club, família, si segueix vinculat a l'esquí.
-- **La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
+- ~~**La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
   consultat.
-  — **`obert`, confirmat el 2026-09-13.** **El bolcat d'aquesta font, dins del
+  ~~— **`obert`, confirmat el 2026-09-13.** **El bolcat d'aquesta font, dins del
   corpus, no en porta cap identificador de FIS ni d'Olympedia**, i **confirma que
   l'entrada original és un esborrany d'una línia.** **El buit és exacte tal com
   està escrit.** Vegeu [els esquiadors](./README.md).
-
 ## Related
 
 - [Els esquiadors](./README.md)

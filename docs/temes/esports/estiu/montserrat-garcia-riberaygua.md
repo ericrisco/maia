@@ -50,11 +50,11 @@ Vegeu [els abanderats](../competicio/els-abanderats.md).
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Tota la seva carrera fora de Pequín**: Copes del Món, europeus, mundials. —
+- ~~**Tota la seva carrera fora de Pequín**: Copes del Món, europeus, mundials. ~~—
   **`obert`, confirmat, i el motiu és de font**: **el bolcat és de dues línies i
   només diu que competeix «des de mitjans dels anys 2000»**, sense una sola
   data. **És dels bolcats més curts de tota la subbranca.**
-- **Quan va plegar.** — **`obert`, confirmat, pel mateix motiu.**
+- ~~**Quan va plegar.** ~~— **`obert`, confirmat, pel mateix motiu.**
 - **El que sí que hi és**: **Montserrat García Riberaygua, Andorra la Vella, 26
   de novembre del 1989**, **caiac eslàlom, K-1**, **eliminada a la ronda
   classificatòria de Pequín 2008, 20a.** `no-es-buit`: són dades ja destil·lades,

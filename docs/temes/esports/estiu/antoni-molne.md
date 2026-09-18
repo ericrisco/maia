@@ -74,9 +74,8 @@ el 2004, escrius que el 2004 és el començament.
 
   **Dues vegades el mateix guió**: **exempció, un sol combat, eliminat.**
   **El bolcat li dona nom complet —Antoni Molné Oviedo— i sobrenom, «Tony».**
-- **La resta de la seva carrera.** — **`obert`, confirmat, i el motiu és de
+- ~~**La resta de la seva carrera.** ~~— **`obert`, confirmat, i el motiu és de
   font**: **el bolcat són cinc línies i no en diu res més.**
-
 ## Related
 
 - [Els olímpics d'estiu](./README.md)

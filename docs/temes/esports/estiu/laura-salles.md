@@ -62,7 +62,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Quins campionats del món**, quins anys, quins resultats. — **`obert`,
+- ~~**Quins campionats del món**, quins anys, quins resultats. ~~— **`obert`,
   confirmat, i el motiu és de font**: **el bolcat repeteix el mateix «diversos»
   que la fitxa ja denunciava** —«ha participat en diversos campionats del món»—
   **i no en data ni un.** **El mateix verb vague dues vegades no és una dada.**

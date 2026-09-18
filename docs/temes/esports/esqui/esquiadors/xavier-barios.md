@@ -55,8 +55,8 @@ dels dos andorrans no va acabar cap cursa.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Xavier_Barios.wiki`](../../../../raw/web/esport/alpins/Xavier_Barios.wiki)).
 
-- **Qui és.** **Ni data de naixement, ni lloc, ni nom complet.** És l'única
-  fitxa d'aquesta subbranca sense cap dada personal. — **`obert`, confirmat, i
+- ~~**Qui és.** **Ni data de naixement, ni lloc, ni nom complet.** És l'única
+  fitxa d'aquesta subbranca sense cap dada personal. ~~— **`obert`, confirmat, i
   el motiu és de font**: **aquest bolcat NO TÉ INFOBOX.** **És l'únic dels
   trenta-un d'aquesta subbranca que no en porta.** **No és que el corpus no
   hagi destil·lat les dades personals: és que no n'hi ha cap per destil·lar.**
@@ -72,8 +72,8 @@ dels dos andorrans no va acabar cap cursa.
   paralímpic andorrà**: **de les quatre proves que va començar entre les dues
   edicions, tres les va deixar sense acabar.** `no-es-buit`: és una dada ja
   destil·lada, no una pregunta pendent.
-- **Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
-  entrada. — **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
+- ~~**Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
+  entrada. ~~— **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
 - **La Federació Andorrana d'Esports Adaptats (FADEA).**
 
 ## Related

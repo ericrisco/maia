@@ -54,10 +54,10 @@ país petit, l'equip nacional és, literalment, unes quantes cases.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Sandra_Grau.wiki`](../../../../raw/web/esport/alpins/Sandra_Grau.wiki)).
 
-- **Quines tres proves i quins resultats.** La font no en dona cap. —
+- ~~**Quines tres proves i quins resultats.** La font no en dona cap. ~~—
   **`obert`, confirmat**: **el bolcat diu «tres proves» i no en nomena ni una.**
 - **Tot el que va fer fora dels Jocs**, i si va seguir competint després del
-  1988. — **`obert`, confirmat.**
+  1988. ~~~~— **`obert`, confirmat.**
 - ~~**On va néixer**~~ — **`resolt`: SANT JULIÀ DE LÒRIA, 27 d'abril del
   1970**, **el mateix poble que la seva germana
   [Vicky Grau](./vicky-grau.md)**, cinc anys més gran.

@@ -39,13 +39,13 @@ primera vegada al corpus com a lloc on viu gent**.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Sofie_Juarez.wiki`](../../../../raw/web/esport/alpins/Sofie_Juarez.wiki)).
 
-- **El nom complet.** La font no en dona el segon cognom, a diferència de
-  gairebé tots els seus companys. — **`obert`, confirmat**: **l'infobox no té
+- ~~**El nom complet.** La font no en dona el segon cognom, a diferència de
+  gairebé tots els seus companys. ~~— **`obert`, confirmat**: **l'infobox no té
   camp `full_name`.** **És el mateix cas que
   [Caroline Poussier](./caroline-poussier.md).**
-- **Quines dues proves** va córrer. — **`obert`, confirmat**: **el bolcat diu
+- ~~**Quines dues proves** va córrer. ~~— **`obert`, confirmat**: **el bolcat diu
   que NO VA ACABAR CAP DE LES DUES i no en nomena cap.**
-- **Tot el que va fer fora dels Jocs.** — **`obert`, confirmat.**
+- ~~**Tot el que va fer fora dels Jocs.** ~~— **`obert`, confirmat.**
 - ~~**On va néixer**~~ — **`resolt`, i és el lloc més petit de tota la
   branca**: **INCLES**, el 9 d'abril del 1991. **No és una parròquia: és un
   llogaret de la Vall d'Incles, a Canillo**, que el corpus ja tenia documentat

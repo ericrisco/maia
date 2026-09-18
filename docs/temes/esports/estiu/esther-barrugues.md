@@ -76,7 +76,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - **Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
   té el nom i la posició**. **No hi ha entrada d'enciclopèdia.** **Buit
   registrat.**
-- **La federació andorrana de tir.** — **`obert`, confirmat, i és un buit de
+- ~~**La federació andorrana de tir.** ~~— **`obert`, confirmat, i és un buit de
   branca**: **el corpus no té fitxa de cap federació esportiva andorrana.**
 
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
@@ -86,7 +86,6 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > maig del 1980**, **51a en carabina d'aire de 10 m als Jocs de Rio del 2016**,
 > **164 cm i 60 kg**. **El camp `birth_place` hi és buit**: **el buit «on va
 > néixer» és de font i no de destil·lació.**
-
 ## Related
 
 - [Els olímpics d'estiu](./README.md)
