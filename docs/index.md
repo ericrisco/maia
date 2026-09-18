@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1048** documents · **215** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **216** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -372,6 +372,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Grandvalira](temes/economia/turisme-i-neu/estacions/grandvalira.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
+| [Naturland: el parc que ha perdut vint milions](temes/economia/turisme-i-neu/estacions/naturland.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-naturland` |
 | [PGI: Andorra exporta el model](temes/economia/turisme-i-neu/estacions/pgi.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
 | [Vallnord, la marca que va desaparèixer](temes/economia/turisme-i-neu/estacions/vallnord.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
 
@@ -1890,6 +1891,7 @@
 | [`wikipedia-jocs-andorra`](fonts/wikipedia-jocs-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-llegendes-andorra`](fonts/wikipedia-llegendes-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-museus-andorra`](fonts/wikipedia-museus-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-naturland`](fonts/wikipedia-naturland.md) | Viquipèdia, comunitat Wikimedia | CC BY-SA 4.0 | sí, amb atribució |
 | [`wikipedia-pena-de-mort-andorra`](fonts/wikipedia-pena-de-mort-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-politica-andorra`](fonts/wikipedia-politica-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-questia`](fonts/wikipedia-questia.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

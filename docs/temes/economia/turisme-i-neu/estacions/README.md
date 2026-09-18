@@ -28,6 +28,7 @@ xifres segueixen faltant.**
 | **[Grandvalira](./grandvalira.md)** | **215 km, el domini més gran dels Pirineus.** Comença el **1956** amb un telesquí de **450 esquiadors l'hora** i un hotel de gel que **s'enfonsava a posta** |
 | **[Vallnord](./vallnord.md)** | **La marca que va desaparèixer el 2022.** Pal Arinsal i Ordino Arcalís, i **tres finals d'etapa del Tour de França** |
 | **[PGI](./pgi.md)** | **Una empresa andorrana que gestiona estacions a nou països** — i que **està vetada al Comú de Canillo** |
+| **[Naturland](./naturland.md)** | **Parc d'aventura del comú de Sant Julià, gairebé 20 M€ de pèrdues en 14 anys**, tancament ordenat plantejat el 2025 |
 
 ## La cronologia que surt de les tres
 
@@ -79,8 +80,10 @@ anglesos».**
   treball.** **La Cambra de Comerç publica informes anuals que el corpus no ha
   consultat.** **Segueix sent el buit principal.**
 - **L'any de la fusió** entre Viladomat i el Comú d'Encamp.
-- **Naturland**, a Sant Julià de Lòria, que la font esmenta i el corpus no ha
-  mirat.
+- ~~**Naturland**, a Sant Julià de Lòria, que la font esmenta i el corpus no
+  ha mirat.~~ — **`resolt` el 18-09-2026**: [Naturland: el parc que ha perdut
+  vint milions](./naturland.md). **Gairebé vint milions de pèrdues en catorze
+  anys i tancament ordenat plantejat el 2025.**
 - ~~**Els noms de les societats**: EMAP, Ensisa, Nevasa, SETAP365.~~ —
   **`resolt` el 18-09-2026**: **Neus del Valira SA (Nevasa)**, **Esports de Neu
   Soldeu Incles SA (Ensisa)**, **Estacions de Muntanya Arinsal/Pal SAU (EMAP)**,
