@@ -376,7 +376,7 @@ final d'un decret** —«*baix pena del cot de la Terra*»—
    endret de les Valls»**, amb notari, porter i nunci, i **mana capitans,
    deseners i tothom «sens diferencia ni distincsio de personas» sota comminació
    de penes de 5 sous per tres vegades.**
-10. **Si el ***cot dels fallits*** té documents.** — **`parcial` el 18-09-2026**:
+10. ~~**Si el ***cot dels fallits*** té documents.**~~ — **`parcial` el 18-09-2026**:
     **el corpus ja no en té només el nom, en té la definició del *Politar***
     (p. 244): **es mana sota aquesta pena «a alguna manobra o a alguna missa de
     devocio o cosa semblant»**, i **«castigaran ab la pena que se trobara

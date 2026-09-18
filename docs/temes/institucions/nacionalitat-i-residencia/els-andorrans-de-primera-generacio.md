@@ -173,7 +173,7 @@ nacionals** en l'altra.
   legal la hipòtesi de dalt**: germans de la mateixa casa amb nacionalitats
   diferents segons l'any de naixement. Queda obert **quantes persones** van
   quedar fora.
-- **Què és exactament una «pubilla»** — **`parcial` el 18-09-2026**: **el sentit
+- ~~**Què és exactament una «pubilla»**~~ — **`parcial` el 18-09-2026**: **el sentit
   general del mot, tancat.** **El [DCVB](../../../fonts/dcvb.md) té `PUBIL,
   -ILA` amb dos sentits ben separats**: **I, l'antic i jurídic, «infant, persona
   menor d'edat», el *pupillus* llatí** —documentat des d'un document de 1251 i

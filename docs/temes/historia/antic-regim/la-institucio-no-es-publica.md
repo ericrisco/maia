@@ -282,7 +282,7 @@ d'una tanda diferent**:
 6. ~~**Quantes institucions amb pluralitat d'hereus hi ha**~~ — **`resolt`,
    amb reserva de la font mateixa**: **tres**, i **la font adverteix que
    una potser és un *ab intestat*.**
-7. **Què vol dir «*a arbitre de bon baro*»** com a mesura de l'usdefruit. —
+7. ~~**Què vol dir «*a arbitre de bon baro*»** com a mesura de l'usdefruit.~~ —
    **`parcial` el 16-09-2026.** **Lexicogràficament, res**: **la locució no és
    ni al [DIEC2](../../../fonts/diec2.md) ni al [DCVB](../../../fonts/dcvb.md)**
    —l'entrada `BARÓ` del DCVB és el topònim i el títol nobiliari, i **no recull

@@ -174,8 +174,8 @@ ni al Vaticà.**
   anys, amb Liechtenstein i San Marino a 30— **i té el segon percentatge
   de migrants més alt de la taula (61%), només per darrere del Vaticà i
   just per sota de Mònaco.**
-- **Els prestanoms**: quan comença la pràctica, quina llei la provoca, quan
-  canvia, i si continua. **Buit prioritari.** — **`parcial` el 17-09-2026 per la
+- ~~**Els prestanoms**: quan comença la pràctica, quina llei la provoca, quan
+  canvia, i si continua. **Buit prioritari.**~~ — **`parcial` el 17-09-2026 per la
   banda legal.** **La pràctica segueix sense datar-se, i la prohibició ja té
   text**: la **Llei 12/2013 del comerç** ([BOPA](../../../fonts/bopa.md),
   butlletí 32 del 2013), al capítol segon del títol I, **«prohibeix expressament
@@ -243,8 +243,8 @@ ni al Vaticà.**
   clergues amb ofici eclesiàstic a les parròquies**. **No és transmissible ni
   per matrimoni ni per filiació i no dona accés als drets polítics.**
   **Andorrans mentre duri la feina, i sense vot.**
-- **Els drets econòmics dels estrangers a Andorra**: quin percentatge de societat
-  podien posseir i des de quan. — **`parcial` el 17-09-2026 al
+- ~~**Els drets econòmics dels estrangers a Andorra**: quin percentatge de societat
+  podien posseir i des de quan.~~ — **`parcial` el 17-09-2026 al
   [BOPA](../../../fonts/bopa.md)**: **el «des de quan» queda datat amb
   precisió des del 2008; el límit clàssic d'abans, no.**
 

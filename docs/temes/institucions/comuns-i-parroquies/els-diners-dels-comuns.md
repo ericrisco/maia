@@ -359,8 +359,8 @@ milió.**
   això la Constitució n'exclou qualsevol intervenció reglamentària (article
   60.2) i n'exigeix la doble majoria (article 57.3)** —**vegeu
   [les lleis qualificades](../justicia/les-lleis-qualificades.md)**.
-- **Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
-  —població, superfície, pernoctacions— no. — **`parcial` el 17-09-2026, i cal
+- ~~**Què cobra cada comú** tampoc: la fórmula hi és, les dades d'entrada
+  —població, superfície, pernoctacions— no.~~ — **`parcial` el 17-09-2026, i cal
   dir exactament què s'ha tancat i què no.**
 
   **La transferència de l'Estat a cada comú segueix sense xifra**: **ni la llei

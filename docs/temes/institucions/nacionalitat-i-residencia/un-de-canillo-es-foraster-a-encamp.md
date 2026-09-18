@@ -255,8 +255,8 @@ capella**. Vegeu [la religiositat](../../costums/religiositat/religiositat.md).
 4. **Quan es fixa la «tercera generació»** com a llindar i **per quina decisió**.
    El 1904 era **una tendència**, no una norma escrita. **Entre això i el codi de
    1977 el corpus no té res.**
-5. **Si la naturalització «sense decisió»** va deixar rastre documental, i **com
-   es provava aleshores la condició d'andorrà**. — **`parcial` el 17-09-2026, i
+5. ~~**Si la naturalització «sense decisió»** va deixar rastre documental, i **com
+   es provava aleshores la condició d'andorrà**.~~ — **`parcial` el 17-09-2026, i
    pel cantó contrari: el que sí que va deixar rastre és com s'admetia
    l'estranger.** Font: el **Llibre IV d'actes del Consell General**
    ([actes](../../../fonts/actes-historiques-consell-general.md)).

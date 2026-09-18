@@ -255,7 +255,7 @@ dataset**.`
    arreu com el d'una generació».
 3. **Quan i com es passa de vint-i-cinc anys a vint.**
 4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
-5. **Què vol dir «un dret que ens ha estat retallat».** — **`parcial` el
+5. ~~**Què vol dir «un dret que ens ha estat retallat».**~~ — **`parcial` el
    18-09-2026**: **el sindicat ja té fitxa**,
    [El Sindicat Andorrà de Treballadors](../../societat/treball/el-sindicat-andorra-de-treballadors.md)
    —**Andorra era l'únic estat europeu on no es permetia fundar sindicats**, i
