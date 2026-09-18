@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1042** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1043** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -283,6 +283,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Amb qui comercia Andorra](temes/economia/comerc/amb-qui-comercia-andorra.md) | `temes/economia/comerc` | compilada | contemporania | no | `estadistica-ad` |
 | [Comerç](temes/economia/comerc/comerc.md) | `temes/economia/comerc` | compilada | contemporania | no | `viquipedia-ca` |
 | [El comerç a l'edat moderna](temes/economia/comerc/el-comerc-a-ledat-moderna.md) | `temes/economia/comerc` | compilada | contemporania | no | `mas-relacions-comercials-1994` |
 | [El que Andorra comprava a Espanya](temes/economia/comerc/el-que-andorra-comprava-a-espanya.md) | `temes/economia/comerc` | compilada | contemporania | no | `diario-sesiones-corts-1895` |
