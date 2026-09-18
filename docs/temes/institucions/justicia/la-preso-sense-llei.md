@@ -374,7 +374,31 @@ servir les deu files, que sumen el total imprès.`
 4. **El garrot**: en quina exposició catalana és cedit, i on consta la sol·licitud
    al copríncep episcopal.
 5. **Quants botxins hi va haver** i d'on venien.
-6. **La presó actual**: on és, quants interns té, i què ha passat des del 2007.
+6. **La presó actual**: on és i què hi ha passat des del 2007. — **`parcial` el
+   18-09-2026, i el «quants interns» queda tancat**: **l'API del Departament
+   d'Estadística** (divisions 1887-1892, **font Departament de Justícia i
+   Interior**) **en dona la població reclusa any per any des del 2015**, amb
+   quatre desglossaments.
+
+   | | 2015 | 2018 | 2020 | 2022 | **2024** | 2025 |
+   | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+   | **Total** | 41 | 49 | 50 | 60 | **74** | 54 |
+   | Homes | 32 | 45 | 45 | 55 | 64 | 52 |
+   | **Dones** | **9** | 4 | 5 | 5 | 10 | **2** |
+   | Andorrans | 9 | 17 | 17 | 21 | 22 | 15 |
+
+   **El màxim de la sèrie és el 2024, amb 74 interns**, i **el 2025 en baixa a
+   54**. **Les dones passen de nou a dues en deu anys.**
+
+   **I el canvi de fons no és la mida sinó la composició processal.** El 2015,
+   **de cada deu interns, set eren preventius i tres penats**; el 2023, **set
+   penats i tres preventius**. **La presó ha passat de guardar gent que espera
+   judici a guardar gent condemnada.** `La font no diu si és perquè es jutja més
+   de pressa o perquè les penes són més llargues.`
+
+   **Dues coses més que la sèrie ensenya i el corpus no tenia**: hi ha una
+   **«àrea de salut mental»** amb **una persona des del 2022**, i **arrestos
+   parcials** de zero a vuit segons l'any.
 7. **El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
    del 2023 **exigeix separar majors i menors dins el centre**, que no és el
    mateix que **un centre específic**. **I el 2026-09-18 s'hi afegeix una dada
@@ -388,6 +412,13 @@ servir les deu files, que sumen el total imprès.`
    instal·lacions específiques](#la-llei-de-menors-ja-exigeix-installacions-especifiques)».
    `Segueix obert si aquestes instal·lacions existeixen de fet: el Butlletí no
    publica cap decret de creació ni cap edicte d'obres d'un centre de menors.`
+   **I el 18-09-2026 se sap que hi ha menors al Centre Penitenciari, i quants**:
+   la divisió **1888** té una fila **«P4 - Menors»** amb **zero fins al 2019**,
+   **un el 2020**, **zero del 2021 al 2023**, **sis el 2024** i **tres el 2025**.
+   **Vint-i-cinc anys després de la llei del 1999, hi ha menors interns i la
+   font els compta a la mateixa taula que els adults.** `Que hi consti una
+   categoria pròpia no demostra que hi hagi instal·lacions separades, que és el
+   que la llei exigeix; i el corpus no ho afirma.`
 8. **L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
    Sistema Penitenciario*, cinquè informe), que Canturri cita pels punts 54 i 55:
    **Andorra hi participa** i el corpus no ho tenia registrat.
