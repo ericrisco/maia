@@ -8,7 +8,7 @@ publicacio: "13a Diada Andorrana a la XXXII Universitat Catalana d'Estiu, Prada 
 url: https://calaix.gencat.cat/handle/10687/427977
 llicencia: publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya)
 redistribucio: pendent
-data_consulta: 2026-09-12
+data_consulta: 2026-09-18
 abast: >
   La ponència més extensa del volum (trenta pàgines): recorregut històric de
   l'ensenyament a Andorra del 1882 al 1997, marc legal complet amb lleis i

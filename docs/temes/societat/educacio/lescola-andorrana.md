@@ -319,9 +319,19 @@ són **85 alumnes**.
   **l'assignació calibrada contra les tres frases de la prosa**, vegeu
   [El gràfic, desglossat](#el-grafic-desglossat-el-18-09-2026).
 - ~~**El gràfic d'evolució de l'alumnat 1990-1999 per nivell.**~~ — **`parcial` el 18-09-2026**: **renderitzat (pàgina 83) i llegit: és un gràfic de barres apilades sense cap etiqueta de dades**, i **el desglossament per nivell —maternal, 1a i 2a ensenyança, batxillerat— només es podria mesurar en píxels, sense cap xifra publicada que el calibri.** `El que sí que queda tancat és el total any per any:` **l'annex 1 del mateix volum dona la sèrie sencera del sistema andorrà** —**681 el 1990/1991, 2.095 el 1999/2000**— vegeu [el mapa escolar del 2000](./el-mapa-escolar-del-2000.md#vint-i-tres-anys-dalumnat-sistema-per-sistema). `El repartiment per nivell segueix obert.`
-- **El batxillerat artístic**: es va crear?
-- **L'escola andorrana d'Ordino** (prevista per al 2002-03) i el **tercer centre
-  de segona ensenyança**: existeixen?
+- ~~**El batxillerat artístic**: es va crear?~~ — **`parcial` el 18-09-2026**:
+  la ponència de Roser Bastida, **p. 18**, enumera per al curs **1999-2000** les
+  tres modalitats vigents —**cientificotecnològica, economicosocial i
+  humanisticolingüística**— i no hi inclou cap batxillerat artístic. **Això
+  tanca que no existia en aquella oferta; la creació posterior continua oberta.**
+- ~~**L'escola andorrana d'Ordino** (prevista per al 2002-03) i el **tercer centre
+  de segona ensenyança**: existeixen?~~ — **`parcial` el 18-09-2026**: la mateixa
+  ponència, **pp. 18 i 20-21**, descriu **set escoles de maternal i primera
+  ensenyança, una de segona i una de batxillerat** el 1999-2000; la taula de
+  centres no hi llista Ordino i diu que la segona escola d'ensenyança d'Encamp
+  obria aquell setembre. **Per tant, Ordino i el tercer centre encara no
+  existien en aquesta fotografia; queda obert si el pla per al 2002-03 es va
+  executar.**
 - **L'aval de l'Institut de Llengües Romàniques de Basilea**: quin informe és.
 - ~~**Els programes publicats** (1998 maternal i primera ensenyança; setembre de
   1999 segona ensenyança; batxillerat previst per al 2003-04). **Són documents
