@@ -200,8 +200,9 @@ per un de menys recaptador en proporció al PIB durant els primers anys.**
   els impostos andorrans** —IGI, IMI, IAC— **no s'ha comprovat contra les lleis
   fiscals.** La taula 2887 la proposa en subfiles i **el corpus no l'ha
   auditada.** `pregunta_oberta`
-- **No hi ha COFOG anterior al 2018**, i **la pressió fiscal no es desglossa
-  per parròquia.** `La font no ho publica.`
+- ~~**No hi ha COFOG anterior al 2018**, i **la pressió fiscal no es desglossa
+  per parròquia.**~~ — **`no-es-buit`**: és una limitació de publicació de la
+  font, que no ofereix ni la sèrie anterior ni aquest desglossament.
 - **Què entra a «Habitatge i serveis comunitaris»** i què se'n queda fora
   —crèdit, aval, societat pública—, **el corpus no ho sap**, i **sense això la
   xifra del 0,83% s'ha de llegir amb prudència.** `font_externa`
