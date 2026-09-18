@@ -76,8 +76,8 @@ casa dos serveis.**
   despesa d'un equipament esportiu externalitzant-ne els serveis
   complementaris, i no l'activitat esportiva.** Vegeu
   [els comuns](../../institucions/comuns-i-parroquies/README.md).
-- **Si el patinatge artístic andorrà** —[Melissandre Fuentes](./melissandre-fuentes.md),
-  [Marc Casal](./marc-casal.md)— **s'hi entrena.** — **`parcial`, i la resposta
+- ~~**Si el patinatge artístic andorrà** —[Melissandre Fuentes](./melissandre-fuentes.md),
+  [Marc Casal](./marc-casal.md)— **s'hi entrena.**~~ — **`parcial`, i la resposta
   s'acosta molt sense tocar-la.** **Tots dos patinadors van néixer a Canillo**,
   **tots dos són del mateix club de Canillo** —escrit «Orient Club Gel» en un
   bolcat i «Orient Club Sez» en l'altre, **discrepància registrada i no

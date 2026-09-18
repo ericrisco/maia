@@ -231,7 +231,7 @@ la descriu en passat i només en set.**
 - ~~**La Federació Andorrana de Rugby.**~~ `resolt` quant a les dates
   —**creada el 1986, a World Rugby des del 1991**— i **encara sense fitxa
   pròpia.**
-- **Per què juga a Foix**, i des de quan. — **`parcial`**: **el bolcat confirma
+- ~~**Per què juga a Foix**, i des de quan.~~ — **`parcial`**: **el bolcat confirma
   el fet i no en dona la raó**: «juguen la majoria de partits de casa a Andorra
   la Vella, encara que n'han jugat alguns a Foix».
 - **El VPC Andorra XV**, que **posa disset dels vint-i-tres internacionals** i
