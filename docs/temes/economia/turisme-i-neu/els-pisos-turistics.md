@@ -118,7 +118,7 @@ l'alçada d'un mur de pedra seca.
 
 ## Buits registrats
 
-- **Quants HUT hi ha**, i quants edificis han topat amb el 50%, no consta. —
+- ~~**Quants HUT hi ha**, i quants edificis han topat amb el 50%, no consta.~~ —
   **`parcial` el 18-09-2026**: l'API d'Estadística té una sèrie
   «Habitatges i apartaments turístics» amb **47.221 el 2024**
   ([font](../../../fonts/estadistica-habitatges-turistics.md)), **però la

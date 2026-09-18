@@ -84,9 +84,9 @@ supervisor queda dins de la llei, no fora.**
 
 ## Buits registrats
 
-- **Si l'AndorraDex existeix**, si s'ha emès mai un DDSP i quantes empreses
+- ~~**Si l'AndorraDex existeix**, si s'ha emès mai un DDSP i quantes empreses
   d'actius digitals hi ha registrades, **no consta**. La llei crea el marc; el
-  corpus no té cap dada del que s'hi ha construït. — **`parcial` el
+  corpus no té cap dada del que s'hi ha construït.~~ — **`parcial` el
   18-09-2026**: **el registre oficial de l'AFA en té cinc, amb nom**
   —Crèdit Andorrà, Fimarge, Mora Banc Grup, Prosegur Custòdia d'Actius
   Digitals i Onyze Assets— **i l'AndorraDex no hi apareix**

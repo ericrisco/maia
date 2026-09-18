@@ -298,7 +298,7 @@ no són assegurances als efectes d'aquesta llei.**
 - ~~**Les assegurances** (72 articles) tampoc.~~ **`resolt` el 18-09-2026**:
   vegeu [El sector que té una autoritat dins d'una
   altra](#el-sector-que-te-una-autoritat-dins-duna-altra).
-- **Quant val el Fagadi** i si s'ha activat mai, no consta. — **`parcial`
+- ~~**Quant val el Fagadi** i si s'ha activat mai, no consta.~~ — **`parcial`
   el 18-09-2026**: **el marc regulador fixa objectius, no un saldo**:
   **0,8% dels dipòsits garantits el 30-6-2024**, i **1,6% en 8 anys des
   del 2024**
