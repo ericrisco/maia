@@ -103,10 +103,10 @@ poden citar.`
 
 ## El que falta
 
-1. **Les jugadores.** **Cap nom.** El corpus només en té un fil: **[Claudia
-   Guri](../altres-esports/claudia-guri.md) va jugar a la selecció sub-16**
-   abans de passar-se a l'atletisme. `Requereix les plantilles de les onze
-   edicions, que el bolcat no porta.`
+1. ~~**Les jugadores.** **Cap nom.**~~ **`parcial`:** el corpus ja té [Claudia
+   Guri](../altres-esports/claudia-guri.md), que va jugar a la selecció sub-16
+   abans de passar-se a l'atletisme; encara falten les plantilles de les onze
+   edicions, que el bolcat no porta.
 2. **Per què no van jugar el 2012 ni el 2014.**
 3. **La tercera selecció femenina.** El corpus en tenia comptades tres i ara en
    té dues fitxades —**[futbol](../futbol/femeni/la-seleccio-femenina.md) i
