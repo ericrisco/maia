@@ -374,7 +374,7 @@ servir les deu files, que sumen el total imprès.`
 4. **El garrot**: en quina exposició catalana és cedit, i on consta la sol·licitud
    al copríncep episcopal.
 5. **Quants botxins hi va haver** i d'on venien.
-6. **La presó actual**: on és i què hi ha passat des del 2007. — **`parcial` el
+6. ~~**La presó actual**: on és i què hi ha passat des del 2007.~~ — **`parcial` el
    18-09-2026, i el «quants interns» queda tancat**: **l'API del Departament
    d'Estadística** (divisions 1887-1892, **font Departament de Justícia i
    Interior**) **en dona la població reclusa any per any des del 2015**, amb

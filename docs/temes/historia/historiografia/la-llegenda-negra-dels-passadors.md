@@ -242,7 +242,7 @@ evitar que un relat s'escampi sobre un altre període per contagi.
 - **La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
   revista *Reporter*** (segons [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md)).
 - Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).
-- ***Entre el torb i la Gestapo***, de **Francesc Viadiu**, **sencer**. —
+- ~~***Entre el torb i la Gestapo***, de **Francesc Viadiu**, **sencer**.~~ —
   **`parcial` el 18-09-2026**: **l'autor i el llibre ja són al corpus per tres
   bandes** —[Els passadors](../guerres-i-neutralitat/els-passadors.md) el fa
   servir per documentar que **hi havia més d'una xarxa**,

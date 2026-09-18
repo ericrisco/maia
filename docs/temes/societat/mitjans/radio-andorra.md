@@ -120,7 +120,7 @@ estat, i qui en té els drets.
 - El paper d'Andorra durant la Segona Guerra Mundial en conjunt.
 - Qui era **Victòria Zorzano** — la primera veu. Mereix fitxa pròpia.
 - La programació: què s'hi emetia, en quines llengües, i quant en català.
-- Sud Ràdio i el transmissor del **Pic Blanc**. — **`parcial` des del
+- ~~Sud Ràdio i el transmissor del **Pic Blanc**.~~ — **`parcial` des del
   2026-09-13.** **De Sud Ràdio, el corpus en té més del que aquesta fitxa
   suposava, repartit en tres articles**, **i amb una data que no encaixa amb la
   d'aquí:**

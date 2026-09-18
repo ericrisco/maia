@@ -217,8 +217,8 @@ abans d'anar al Constitucional** (18 quater.7).
   `Requereix llegir la decisió de cada resolució, que són més de mil tres-cents
   documents, o la memòria anual del Tribunal Constitucional, que en dona el
   resum.`
-- **Per què l'article 22 queda exclòs** de l'empara: **cap text llegit ho
-  explica**, i el corpus no ho suposa. — **`parcial`, i el buit era més precís
+- ~~**Per què l'article 22 queda exclòs** de l'empara: **cap text llegit ho
+  explica**, i el corpus no ho suposa.~~ — **`parcial`, i el buit era més precís
   del que semblava.** **L'exclusió no és una tria del legislador: és
   constitucional.** L'article **41.2 de la Constitució** crea l'empara «contra
   els actes dels poders públics que violin el contingut essencial dels drets

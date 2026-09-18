@@ -181,9 +181,9 @@ acta amb els motius**. **Un vot entre molts, i el que pot aturar-ho tot.**
 
 ## Buits registrats
 
-- **Des de quan.** El reglament és de **novembre de 1993**, però la pràctica pot
+- ~~**Des de quan.** El reglament és de **novembre de 1993**, però la pràctica pot
   ser anterior. **Buit prioritari**: si l'esquí escolar és anterior a l'escola
-  andorrana, canvia la lectura. — **`parcial` el 17-09-2026, i la resposta és que
+  andorrana, canvia la lectura.~~ — **`parcial` el 17-09-2026, i la resposta és que
   sí.** El **reglament del 1993 és el primer del [Butlletí](../../../fonts/bopa.md)**
   —que comença el 1989—, **però el seu propi preàmbul diu que la pràctica ve de
   molt abans**: **«El Consell General, primer, i el Govern d'Andorra després,
