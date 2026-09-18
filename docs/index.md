@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1041** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1042** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1341,6 +1341,7 @@
 | [Demografia](temes/societat/demografia/demografia.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [Dues maneres de comptar la població](temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [La composició per nacionalitats](temes/societat/demografia/la-composicio-per-nacionalitats.md) | `temes/societat/demografia` | compilada | contemporania | no | `mico-interculturalitat` |
+| [La mateixa gent, quinze anys més gran](temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md) | `temes/societat/demografia` | compilada | contemporania | no | `estadistica-ad` |
 | [La població al segle XIX](temes/societat/demografia/la-poblacio-al-segle-xix.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
 | [Les estadístiques que no hi havia](temes/societat/demografia/les-estadistiques-que-no-hi-havia.md) | `temes/societat/demografia` | compilada | contemporania | no | `lluelles-aspectes-socioeconomics-1997` |
 | [Les onades migratòries](temes/societat/demografia/les-onades-migratories.md) | `temes/societat/demografia` | compilada | contemporania | no | `camiade-migracions` |
