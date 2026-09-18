@@ -232,8 +232,11 @@ l'encadenament.**
 7. **Guillem Carreu**, **notari públic de les Valls, documentat el 1444 i el
    1456**: **quins protocols seus es conserven.** **Prioritari**: **seria la
    sèrie notarial andorrana més antiga que el corpus tindria identificada.**
-8. **Si el tipus del cinc per cent era general abans de 1854** o **si aquestes
-   dues escriptures són coincidència.** **El corpus té dos casos del mateix any.**
+8. ~~**Si el tipus del cinc per cent era general abans de 1854** o **si aquestes
+   dues escriptures són coincidència.**~~ **`parcial`**: el corpus té dos casos
+   independents del mateix any i amb imports diferents, prou per documentar
+   recurrència el 1788, però no per establir que el tipus fos general abans de
+   1854.
 
 ## Related
 

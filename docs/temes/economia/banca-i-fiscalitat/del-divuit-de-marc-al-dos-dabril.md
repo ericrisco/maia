@@ -175,8 +175,10 @@ ho diu ella mateixa i hi posa una xifra:**
    **quaranta-quatre lliures i setze sous** barcelonesos, i **la finestra s'hi
    afegeix com a «pacte novament añadit»** sobre un acte de retrovenda anterior
    —o sigui que **no venia del contracte original.**
-4. **Quantes vendes a carta de gràcia portaven finestra de rescat** i **quantes no.**
-   **La font diu «sovint» i no compta.**
+4. ~~**Quantes vendes a carta de gràcia portaven finestra de rescat** i **quantes no.**~~
+   **`parcial`**: la font diu que la finestra apareixia «sovint», cosa que
+   documenta recurrència, però no compta quantes vendes la portaven ni quantes
+   no.
 5. **El conflicte sobre les notes marginals d'anul·lació**: **la font hi remet i el
    corpus només en té l'enunciat.**
 6. **Si la consignació prèvia del preu era norma escrita** o **pràctica.** **La font
