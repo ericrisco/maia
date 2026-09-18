@@ -331,9 +331,45 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
 4. **La *Notule de l'Inquisition*** dels Arxius dels Pirineus Orientals, **que és la
    signatura de la fórmula de 1574.** `Requereix font externa.`
 5. **El document de 1646** amb la fórmula catalana: **sense signatura.**
-6. **El *Politar*, p. 163-164, 244, 276 § 10, 279 § 25 i 285 § 8**, **i el *Manual
-   Digest*** en el passatge de la «guerra formidable». **Cinc pàgines del Politar i
-   un passatge del Digest que el corpus no té.**
+6. **El *Politar*, pp. 163-164**, **i el *Manual Digest*** en el passatge de la
+   «guerra formidable». — **Les pp. 244, 276 §10, 279 §25 i 285 §8, `resoltes` el
+   18-09-2026; les 163 i 164 són les úniques dues pàgines citades pel corpus que
+   queden fora de l'extracte de Brutails.**
+
+   **§10 de la p. 276 — el Consell es castiga a si mateix**, pecuniàriament i
+   sense anar a la Cort, **llevat que l'excés sigui «molt grave, com es de mort,
+   mutilacio»** o que delinqueixi el cos sencer.
+
+   **§25 de la p. 279 — la suspensió sense citació**: **«Pot lo Concell
+   suspendrer del ofici, honor y benefici de la Republica a algun ***sens
+   precehir citacio alguna*** antes de la publicassio de la enquesta de crims que
+   contra aquell se fa; qual suspencio es molt lloable, habenthi justa causa.»**
+
+   **§8 de la p. 285 — la privació perpètua, i la distinció que la salva.** **El
+   Comú pot privar algú perpètuament dels oficis, honors i beneficis i
+   ***esborrar-lo dels llibres de la casa del Comú***, sense citació ni
+   coneixement de causa**, i **el Politar en dona la qualificació jurídica**:
+
+   > «**y podrie asso, y ***no per modo de contencia potestat, sino per modo de
+   > politica correcsio***** […]; **pero es menester que lo Comu o Concell
+   > procehesca ab gran cautela** en estos cassos, pues **esta expossat que per
+   > lo superior se declaria feta ***per via de fet*** semblant privacio *ex
+   > abrupto* y com **expoliativa de la possesio**, y per conseguent **revocarla
+   > ab resarciment de danys y costas**.»
+
+   **No és potestat contenciosa, és correcció política**: **per això no cal
+   citació**, i **per això mateix el superior la pot tombar com a via de fet, amb
+   danys i costes.**
+
+   **I la mateixa p. 285 dona la regla que aquesta fitxa necessita per al fons**:
+   **a les Valls «no hi ha distinccio de persones ni de gose de for»**, *ex
+   privilegio et praxi immemorialiter observata absque contradictione*; i **la
+   graduació de responsabilitat dels cònsols i consellers**: **responen de dol,
+   culpa lata, culpa lleu i negligència moralment culpable**, **però no de la
+   levíssima, del cas fortuït ni del vici natural**.
+
+   **P. 244 — el *cot*, atribuït a una concessió del bisbe D. Francisco de
+   Urries**, amb les seves tres menes territorials i el *cot de fallits*.
 7. **Si les Corts van durar realment fins a vuit mesos**, i **quin any.**
    **El *Manual Digest* ho diu i no ho data.**
 8. **Els decrets del 2 de juliol de 1887 i del 12 d'abril de 1897** sencers, i **si

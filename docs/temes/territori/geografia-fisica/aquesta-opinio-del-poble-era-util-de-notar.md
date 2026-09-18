@@ -371,7 +371,19 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    > 1864, 1883 i 1884 mostren el Consell intervenint en una borda i en
    > autoritzacions ordinàries.** **El corpus segueix sense arbitrar.**
 
-   **I la mateixa pàgina dona tres coses més que valen per a altres fitxes**:
+   **I la pàgina anterior, la 279, hi posa el graó que faltava.** **Punt 23è**:
+   **«Al Concell de la parroquia se deu demanar llicencia per la construcsio de
+   ***nou edifici particular*** en ella; pero, si era edifici per fundacio de
+   convent o religio o altra comunitat, ***se deu demanar al Concell General***.»**
+
+   > **Són dues llicències i dos òrgans, no una doctrina i una pràctica
+   > discordants.** **L'edifici particular el permet la parròquia; el de comunitat
+   > religiosa, el Consell General.** **La divergència que aquesta fitxa
+   > registrava queda més estreta**: **el Consell intervenint en una borda no
+   > contradiu el Politar, perquè el Politar ja preveu la llicència de
+   > parròquia**; **el que cal explicar és per què hi intervé el General.**
+
+   **I la p. 280 dona tres coses més que valen per a altres fitxes**:
    **el domicili de l'estranger es guanya amb deu anys, ànim de romandre-hi i
    pagament de quèsties i talles** (§26); **el Consell General crea els oficials
    d'economia** —**mostafas, vehedors, comissaris d'aigües, camins, boscos i
