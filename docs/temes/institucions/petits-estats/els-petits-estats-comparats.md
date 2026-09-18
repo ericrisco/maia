@@ -280,8 +280,8 @@ administracions públiques, S.13)*
    del registre, no un retorn documentat al país d'origen: la font no en dona la
    destinació. Que el 2008 hi hagués 1.530 baixes i el 2015 només 627 tampoc no
    vol dir que marxés menys gent: vol dir que se'n va donar de baixa menys.`
-4. **Les sèries posteriors al 2014.** Aquesta comparativa té **més de deu
-   anys**. — **`parcial` el 18-09-2026, i el que s'ha trobat no és la
+4. ~~**Les sèries posteriors al 2014.** Aquesta comparativa té **més de deu
+   anys**.~~ — **`parcial` el 18-09-2026, i el que s'ha trobat no és la
    comparació sinó una de les seves columnes.** **El Departament d'Estadística
    publica un «sistema d'indicadors d'Andorra en l'estadística comunitària
    europea»** (`docs/raw/estadistica-api/comparacio-internacional/`, **CC BY

@@ -258,7 +258,7 @@ matèries i el lloc de signatura.**
 
 ## Buits registrats
 
-1. **El nom del lloc «Auvret»**, on es va signar la llei de 1433. — **mitja
+1. ~~**El nom del lloc «Auvret»**, on es va signar la llei de 1433.~~ — **mitja
    pregunta `resolta` el 16-09-2026**: **no és una lectura d'OCR.** **La pàgina
    impresa** (p. 23 del volum, PDF 29 de
    `docs/raw/llibres/la-cuestion-de-andorra-1894.pdf`, llegida com a imatge)

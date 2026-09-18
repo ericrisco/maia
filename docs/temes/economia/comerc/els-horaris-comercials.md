@@ -112,7 +112,7 @@ els horaris, el descans dominical **o el rètol** és infracció (article 8).
 
 - **Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
   consta. Sense això no se sap si el règim de 7-22 h és la regla o l'excepció.
-- **Quantes botigues paguen l'impost de les 24 hores**, tampoc. — **`parcial`
+- ~~**Quantes botigues paguen l'impost de les 24 hores**, tampoc.~~ — **`parcial`
   el 2026-09-18**: **el nombre no consta i l'import sí.** **El pressupost del
   2026 preveu recaptar 53.951,56 €** pel subconcepte «Sobre activitats que
   vulguin obrir fins a 24 h»
