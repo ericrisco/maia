@@ -69,9 +69,11 @@ Pontifici.** **Enterrat a la Seu d'Urgell.**
 
 ## Buits registrats
 
-1. **Els successors de Caixal**: noms, dates i què van fer exactament —
+1. ~~**Els successors de Caixal**: noms, dates i què van fer exactament —
    buit que ja assenyalava
-   [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md).
+   [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md).~~ —
+   **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda a
+   *Els casalers i els anfochs*.
 2. **Detall de la seva actuació com a copríncep** durant els vint-i-sis
    anys de mandat, més enllà de la Nova Reforma.
 
