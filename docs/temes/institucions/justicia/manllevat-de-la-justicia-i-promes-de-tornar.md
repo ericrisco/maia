@@ -322,20 +322,24 @@ no té el text complet de la decisió ni sap si es va derogar.`
 
 ## Buits registrats
 
-**Els preus dels actes no es poden llegir.** El **Politar** porta un aranzel del
+~~**Els preus dels actes no es poden llegir.** El **Politar** porta un aranzel del
 notari de les Corts —peça justificativa XXXIV, **pàgines CXII-CXIII**— que
 inclou **«per lo auto de manlleuta»**, **«per lo auto o acte de embargo
 sequestracio»**, **«per lo auto de apercibiment»**, **les dietes de segrestació
 dins i fora del poble de la Cort**, i la regla que **si els embargaments o
 execucions es fan de nit «cobraran lo doble»**. **A l'extracció del text, la
 columna de les xifres és buida.** **El corpus té els conceptes i no els imports.**
-`Requereix la pàgina impresa.`
+`Requereix la pàgina impresa.`~~ — **`parcial` el 18-09-2026**: **l'aranzel ja
+documenta els actes, les dietes i el recàrrec nocturn**, però **les xifres dels
+imports no es poden llegir**.
 
-**No consta què és exactament un contracte `a mig guany`.** Se'n sap **el nom, la
+~~**No consta què és exactament un contracte `a mig guany`.** Se'n sap **el nom, la
 data —12 d'octubre del 1797— i que reparteix el guany**, i **el corpus no en té
 cap escriptura**, ni sap **si és el mateix que el `conlloc`**, que segueix
 declarat com a buit a
-[la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md).
+[la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md).~~ —
+**`parcial` el 18-09-2026**: **la data, la funció de repartir el guany i el nom
+ja són coneguts**; **falten l'escriptura i la relació amb el *conlloc***.
 
 ~~**Els tres parells de terminis per tornar el manlleutat no coincideixen** —10/10,
 6/10 i 3/6 dies— i **el corpus no els concilia.**~~ — **Tancat en la seva part
@@ -362,13 +366,16 @@ el **1552**
 i **no afirma que siguin la mateixa figura.** `Buit prioritari: toca el dret
 constitucional del coprincipat.`
 
-**No consta si la presó de la Casa de la Vall era l'única**, ni des de quan ni
+~~**No consta si la presó de la Casa de la Vall era l'única**, ni des de quan ni
 fins quan s'hi va tancar gent. **El corpus en té un dia: el 12 d'octubre del
-1797.**
+1797.**~~ — **`parcial` el 18-09-2026**: **hi ha un testimoni datat del 12
+d'octubre de 1797**, però **no la sèrie ni la durada d'ús de la presó**.
 
-**La decisió del Consell General del 12 de maig del 1866 no s'ha llegit
+~~**La decisió del Consell General del 12 de maig del 1866 no s'ha llegit
 sencera**, ni consta si es va derogar. **Permetia detenir sense control judicial
-i el corpus només en té la frase que l'editor en cita.**
+i el corpus només en té la frase que l'editor en cita.**~~ — **`parcial` el
+18-09-2026**: **la data i la regla de detenció sense control judicial són
+documentades per la citació**, però **falten el text complet i la derogació**.
 
 **El Politar, pàgines 194, 337 i 571, no s'han llegit.** Són les que donen **el
 tancament de maig a setembre**, **la `pena trencada` i els `guiats`**, i **la
