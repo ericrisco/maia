@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1051** documents · **276** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1051** documents · **278** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1698,6 +1698,7 @@
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`apapma-org-timeline`](fonts/apapma-org-timeline.md) | APAPMA | publicació institucional, sense llicència declarada | pendent |
 | [`apapma-registre-andorralavella`](fonts/apapma-registre-andorralavella.md) | Comú d'Andorra la Vella | publicació institucional, sense llicència declarada | pendent |
+| [`ara-lleida-ruta-oficis-ahir-1999`](fonts/ara-lleida-ruta-oficis-ahir-1999.md) | Diputació de Lleida · Patronat de Turisme | © dels textos i fotografies dels autors; consulta i extracte intern per a traçabilitat |  |
 | [`ara-ribas-reig-onu-1993`](fonts/ara-ribas-reig-onu-1993.md) | Grup Henneo · Ara.cat | premsa, drets reservats; citació breu | False |
 | [`ari-capsules`](fonts/ari-capsules.md) | Andorra Recerca + Innovació (AR+I) | Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube de cada peça. Verificada a 5 peces (#34, #56, #57, #60, #65) el 2026-09-13; no verificada a la resta. | si |
 | [`ari-enquesta-opinio-politica-2025`](fonts/ari-enquesta-opinio-politica-2025.md) | Andorra Recerca + Innovació (AR+I), successora del CRES-IEA | publicació institucional, sense llicència declarada | pendent |
@@ -1928,6 +1929,7 @@
 | [`wikipedia-ca-albert-villaro`](fonts/wikipedia-ca-albert-villaro.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-benet-pantebre`](fonts/wikipedia-ca-benet-pantebre.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |

@@ -101,9 +101,25 @@ el que està documentat s'escriu.
 
 ## El que falta
 
-- **Quan arriba a Andorra i per què.**
-- **El Centre d'Art d'Escaldes-Engordany**: què hi ha, què és, quan es va obrir.
-  **El corpus no en té fitxa.**
+- ~~**Quan arriba a Andorra i per què.**~~ — **`parcial` el 18-09-2026**: **la
+  Viquipèdia del Centre d'Art d'Escaldes-Engordany diu que «es va establir a
+  Escaldes després de la Guerra Civil»** —és a dir, cap al 1939, no només «els
+  últims anys»
+  ([font](../../../fonts/wikipedia-ca-centre-art-escaldes-engordany.md)).
+
+  > **DIVERGÈNCIA REGISTRADA, NO ARBITRADA.** La font original d'aquesta
+  > fitxa (`wikipedia-art-andorra`) diu explícitament que **«va residir els
+  > seus últims anys a Andorra»** i que **no dona cap data d'arribada**. La
+  > font nova diu **«després de la Guerra Civil»**, que implicaria mig segle
+  > (1939-1989), no «els últims anys». **El corpus deixa totes dues
+  > afirmacions escrites** en lloc de triar-ne una.
+- ~~**El Centre d'Art d'Escaldes-Engordany**: què hi ha, què és, quan es va obrir.
+  **El corpus no en té fitxa.**~~ — **`resolt` el 18-09-2026**: **inaugurat
+  l'agost del 2005**, a un edifici del 1932-33 construït per monjos de
+  Montserrat que abans va ser garatge, escola, cinema i banc. **Unes 300
+  obres de Viladomat, 50 exposades**, i una col·lecció de maquetes d'art
+  romànic de Josep Colomé
+  ([font](../../../fonts/wikipedia-ca-centre-art-escaldes-engordany.md)).
 - **Si va fer obra andorrana entre el 1967 i el 1989.** Vint-i-dos anys vivint
   al país i la font només li'n dona dues obres, totes dues dels seixanta.
 - **Qualsevol font andorrana.** Tot el que el corpus en sap ve d'una entrada
