@@ -105,6 +105,12 @@ Reig i Moles**, i **Reig és el cognom d'aquesta fitxa**. **El corpus no afirma
 cap parentiu** —no en té cap font— però **deixa la coincidència escrita**
 perquè qui hi torni sàpiga què comprovar.
 
+**Afegit el 18-09-2026**: una segona font sí que afirma un parentiu directe
+—**Julià Reig era l'oncle d'Òscar Ribas Reig**, i aquest en va ser
+«l'hereu natural» a la política a finals dels anys setanta
+([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **Una sola font
+ho diu**: registrat com a dada, no com a confirmació definitiva.
+
 ## Buits registrats
 
 1. ~~**Qui era.** Naixement, mort, casa, ofici, parròquia.~~ — **tancat en

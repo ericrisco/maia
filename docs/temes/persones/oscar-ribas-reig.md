@@ -136,12 +136,26 @@ deixa escrit perquè apunta al mateix que apunta
 [la llista dels síndics](./els-sindics-generals.md): **la política andorrana del
 segle XX es mou dins d'un nombre petit de cases**.
 
+**Afegit el 18-09-2026, d'una segona font**: **[Julià Reig](./julia-reig.md)
+era el seu oncle**, i Ribas en va ser «l'hereu natural» a la política a
+finals dels anys setanta, després d'haver-ne après «les interioritats» al
+seu costat ([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **Una
+sola font ho diu**: es registra com a dada, no com a confirmació
+definitiva d'un arbre genealògic.
+
 ## El que falta
 
 - **Els seus dos governs per dins.** Cap ministre, cap decisió.
 - **Què deia el programa econòmic que li van tombar**, cap de les dues vegades.
-- **El seu paper concret al procés constituent.** La font diu «paper clau» i no
-  diu quin.
+- ~~**El seu paper concret al procés constituent.** La font diu «paper
+  clau» i no diu quin.~~ — **`resolt` el 18-09-2026**: **defensava
+  inicialment un model «a l'anglesa»** —modernitzar per lleis successives
+  sense constitució escrita— i **hi renuncia el 1993 perquè la Mitra mai
+  no hauria acceptat un altre marc**: «**m'he adonat que Andorra no és la
+  Gran Bretanya**»
+  ([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **El 1994
+  impulsa que la banca contribueixi per primer cop a l'erari públic** i
+  **promou la nacionalitat per als fills de forans nascuts al país.**
 - **Dues dates que discrepen.** La font diu que dimiteix **l'1 de maig de 1984**
   i que el substitueixen **el 25 de maig**; [la llista dels caps de
   Govern](./els-caps-de-govern.md) diu que el mandat acaba el **21 de maig**. I
