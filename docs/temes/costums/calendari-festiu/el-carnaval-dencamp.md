@@ -120,7 +120,11 @@ la matança del porc, feta el diumenge al matí**.
 
 ## El que falta
 
-- **La data**: el carnaval és mòbil i aquesta fitxa no en dona cap any concret.
+- ~~**La data**: el carnaval és mòbil i aquesta fitxa no en dona cap any concret.~~ —
+  **`parcial` el 18-09-2026**: el [programa oficial del Comú d'Encamp](../../../fonts/comu-encamp-carnaval-2026.md)
+  fixa el **Judici dels Contrabandistes el diumenge 15 de febrer de 2026** i el
+  **Ball de l'Ossa el dilluns 16 de febrer de 2026**. **La data general de cada
+  any continua oberta perquè el carnaval és mòbil.**
 - **Els carnavals de les altres sis parròquies.** — **parcialment tancat**, amb
   la font completa a [el teatre de
   Carnestoltes](../../cultura/teatre/el-teatre-de-carnestoltes.md): **Canillo**

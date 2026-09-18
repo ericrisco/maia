@@ -3,6 +3,7 @@
 | Fitxer | URL | Consulta | Llicència / termes |
 | --- | --- | --- | --- |
 | `unesco-bear-festivities-pyrenees-01846.html` | <https://ich.unesco.org/en/RL/bear-festivities-in-the-pyrenees-01846> | 2026-09-18 | UNESCO: copyright institucional; ús com a captura de recerca i citació, sense redistribuir-ne les fotografies. |
+| `carnaval-encamp-2026.pdf` | <https://www.comuencamp.ad/fitxers/2026/documents/carnaval-encamp-2026.pdf> | 2026-09-18 | Comú d'Encamp; document institucional, drets reservats; ús com a font citada. |
 
 La pàgina oficial de la UNESCO identifica l'element 01846, **Bear festivities in
 the Pyrenees**, i hi indica la inscripció el 2022 (17.COM). La captura conserva
