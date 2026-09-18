@@ -296,20 +296,26 @@ més citades.**
 
 ## Buits registrats
 
-1. **Les onze conclusions restants de la concòrdia de 1347.** **El corpus en té
-   dues de tretze.** **Prioritari.**
+1. ~~**Les onze conclusions restants de la concòrdia de 1347.**~~ — **`parcial`
+   el 18-09-2026: **Vilar transcriu les conclusions 1 i 12 de les tretze** i
+   en conserva la resposta jurada dels andorrans de totes les parròquies
+   (*L'Andorre*, pp. 30-33). **Les altres onze encara no són al corpus.**
 2. **La informació de 1404 sencera**, ara amb adreça: **Archives de Perpignan,
    Série C 2098, liasse.** **Prioritari, i és la pista d'arxiu més precisa que el
    corpus té.**
-3. **La llei de 1433 sencera**, **catorze articles.** **El corpus en té les
-   matèries, el preàmbul i la conclusió.**
+3. ~~**La llei de 1433 sencera**, **catorze articles.**~~ — **`parcial` el
+   18-09-2026: **la font en dona les matèries dels catorze articles** —rendes
+   eclesiàstiques, aigües, herbes, pesca i entrada de ramats estrangers—, **el
+   preàmbul, la conclusió i les confirmacions del 6 d'agost i del setembre de
+   1433** (*L'Andorre*, pp. 30-33). **El text article per article encara falta.**
 4. **La data del Manual Digest: 1741 o 1748.** **Divergència oberta.**
 5. **Si la còpia autèntica de 1879 és encara al ministeri de Justícia francès**,
    i **si es pot col·lacionar amb els exemplars d'Andorra.** **Prioritari**:
    **és la que van llegir tots dos autors francesos.**
-6. **Les altres màximes del llibre sisè.** **El corpus en té set i no sap
-   quantes n'hi ha.** **Prioritari, i és a l'abast: el corpus té el Manual Digest
-   com a font.**
+6. ~~**Les altres màximes del llibre sisè.**~~ — **`parcial` el 18-09-2026:
+   **Vilar en transcriu set en català a la nota de la p. 61** i el corpus ja les
+   ha destil·lades. **La font no diu quantes màximes conté en total el llibre
+   sisè, de manera que les restants continuen obertes.**
 7. **Si la màxima de no afillar forasters es va aplicar mai**, i **quan es deixa
    d'aplicar.**
 8. **D'on surt el lema «Tot pel poble, però sense el poble»**, i **si té font
