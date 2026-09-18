@@ -267,9 +267,12 @@ vestit*». La font hi respon:**
 4. **El decret episcopal del 16 d'abril de 1885** i **l'acta del Consell del 20
    d'abril**, sencers, i **com va acabar exactament** —**la font diu que el
    Consell «va guanyar la causa» i no diu per quin acte.**
-5. **L'acte de 1599** en què els andorrans neguen obediència al lloctinent de
+5. ~~**L'acte de 1599** en què els andorrans neguen obediència al lloctinent de
    qualsevol oficial: **si és el mateix del 29 de novembre de 1599 que el corpus
-   ja té.**
+   ja té.**~~ — **`parcial`**: la mateixa fitxa ja estableix que és **la mateixa
+   doctrina** i que **probablement és el mateix acte** que l'admissió del
+   lloctinent del 29 de novembre; la font només en dona l'any i no permet
+   convertir aquesta coincidència en identificació segura.
 6. **La comissió i l'acta de presa de possessió del veguer Gomma-Montou (1788)**
    *(Archives Nationales, F¹ᵉ 205, i minutes del notari Soldevila)*.
 7. **La relació del veguer del 15 d'octubre de 1806** *(Archives de l'Ariège,
