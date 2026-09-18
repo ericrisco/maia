@@ -366,9 +366,10 @@ qualsevol plet comunal.**
    d'una altra tanda i no sap si és el mateix autor.**
 7. **El cas de 1788 de l'habitant d'Ordino**: **el decret especial del Bisbe** i
    **com va acabar el plet.**
-8. **La sentència dels Veguers de 1450** entre Encamp i Andorra sobre límits de
-   pastures. **El corpus ja té dos plets Encamp-Andorra d'altres dates i no els
-   relaciona.**
+8. ~~**La sentència dels Veguers de 1450** entre Encamp i Andorra sobre límits de
+   pastures.~~ **`parcial`:** la taula d'aquesta fitxa ja identifica l'any, les
+   parts i la matèria —els límits de les pastures—; encara falta el text de la
+   sentència i relacionar-la amb els dos plets d'altres dates.
 9. **Quines eren les «dificultats recents»** que, segons la font, demostraven la
    insuficiència de la justícia administrativa el 1904.
 10. **Com s'executava el reemborsament de la multa** quan es multava el cònsol i
