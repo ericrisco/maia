@@ -57,7 +57,8 @@ Vegeu [els abanderats](../competicio/els-abanderats.md).
 - **Quan va plegar.** — **`obert`, confirmat, pel mateix motiu.**
 - **El que sí que hi és**: **Montserrat García Riberaygua, Andorra la Vella, 26
   de novembre del 1989**, **caiac eslàlom, K-1**, **eliminada a la ronda
-  classificatòria de Pequín 2008, 20a.**
+  classificatòria de Pequín 2008, 20a.** `no-es-buit`: són dades ja destil·lades,
+  no una pregunta pendent.
 - **La relació amb Mònica Dòria**: mateix club? Mateixa escola? **El corpus no
   ho sap** i **és la pregunta que explicaria com un país sense riu navegable
   produeix dues piragüistes olímpiques.**
