@@ -196,10 +196,78 @@ la Cova · **el port de Rat** = el port del Port.
 > romana *andurrensis* prop d'uns banys termals— **és feble, i ell mateix es
 > pregunta si pot ser «un mer atzar»**.
 
+## Les formes basques, verificades sobre la pàgina
+
+**El buit deia: «Verificar les formes al PDF. L'OCR confon `ü/u` i `í/i` dins
+les paraules basques.»** **Fet el 18-09-2026**, renderitzant les pàgines
+**45, 46 i 47** de l'edició de la Societat Andorrana de Ciències i llegint-les
+com a imatge, no com a text extret.
+
+**Totes les formes que aquesta fitxa cita són correctes tal com estan
+escrites:**
+
+| Forma | Com surt impresa | Pàgina |
+| --- | --- | --- |
+| *ese sa* | **`ese sa`** *(amb `sa` subratllat a l'original)* | 45 |
+| *zirigo* | **`zirigo`** | 45 |
+| *angio-a* · *otz* | **`angio-a`** · **`otz`** | 45 |
+| *arantza* | **`arantza`** | 45 |
+| *aranzadi* | **`aranzadi`** | 45 |
+| *basa* · *sarri* | **`basa`** · **`sarri`** | 45 |
+| *azkan* · *zarta* | **`azkan`** · **`zarta`** | 46 |
+| *gain* · *illor* · *kanillor* | **`gain`** · **`illor`** · **`kanillor`** | 46 |
+| *gorde* · *gordean* | **`gorde`** · **`gordean`** | 46 |
+| *aska* · *lurte* · *ertz* | **`aska`** · **`lurte`** · **`ertz`** | 47 |
+
+**Cap no duu `ü` ni `í` interior**: **el perill que el buit temia no s'ha
+materialitzat en cap de les formes citades.** `La resta de la ponència segueix
+llegida per OCR.`
+
+**Detall que val la pena registrar**: **Anglada escriu `aranzadi`**, amb `z`,
+i **l'estudi del 2018 escriu `ARANTZADI`**, amb `tz`
+([els annexos](./els-annexos-dels-toponims.md)). **És la mateixa arrel escrita
+de dues maneres per dues fonts del corpus.**
+
+### Anglada refuta la seva pròpia etimologia d'Engordany
+
+**La taula d'aquesta fitxa dona `gorde` com a origen d'Engordany.** **L'original
+hi posa, al mateix paràgraf, la seva pròpia objecció**, que el corpus no
+recollia:
+
+> «la proposada etimologia basca **no m'acaba de convèncer**, perquè "guardar"
+> ve del germànic **`wordon`**, del mateix significat, i **la llengua basca està
+> carregada de mots forasters**.» (p. 46)
+
+**És el mateix gest que fa amb Canillo**
+—[vegeu més amunt](#canillo-i-com-es-deixa-un-cas-obert)—: **proposa i es
+desmenteix.** **Aquella entrada de la taula s'ha de llegir com una hipòtesi que
+l'autor deixa oberta.**
+
+**I hi afegeix una pregunta que connecta amb el nom del país**: *«què és el que
+podria guardar o vigilar aquell poblet? Tal vegada les aigües termals?»*
+
+### Un refrany basc dins d'un topònim andorrà
+
+**Explicant Bixessarri** —**deu grafies diferents entre el 1119 i el 1263**, de
+*bexessarri* a *bixesesarre*, aquesta última anotada per l'autor com a possible
+**«error escrivà?»**— Anglada cita el proverbi que dona sentit a `sarri` ‘amb
+freqüència':
+
+> ***«Sarri» iturrira doan pitsarra, edo ausi edo morkotu*** — **«La gerra que
+> va a la font amb "freqüència", o es trenca o s'abonyega»** (p. 45)
+
+**I hi afegeix l'observació que val per a tota la branca:**
+
+> **«Aquest topònim s'ha conservat molt bé, justament perquè no se'n sabia el
+> significat.»**
+
 ## El que falta
 
-- **Verificar les formes al PDF.** L'OCR confon `ü/u` i `í/i` dins les paraules
-  basques. **Prioritari abans de citar cap grafia caràcter a caràcter.**
+- ~~**Verificar les formes al PDF.** L'OCR confon `ü/u` i `í/i` dins les
+  paraules basques.~~ — **`resolt` el 18-09-2026**: **les tretze formes citades
+  s'han llegit sobre les pàgines 45, 46 i 47 renderitzades** i **totes són
+  correctes**, vegeu
+  [Les formes basques, verificades](#les-formes-basques-verificades-sobre-la-pagina).
 - **El *Cartulari* de Baraut** i el **Diplomatari** del segle XIV, directament.
   **Prioritari** — són la font de base i el corpus només els té citats.
 - ***Arrels d'Andorra*** (Ed. Andorra, **1993**), del mateix Anglada, que ell
