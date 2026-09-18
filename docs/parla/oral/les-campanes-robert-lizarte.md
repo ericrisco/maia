@@ -546,7 +546,8 @@ més consistent del corpus**. Es tanca escoltant.
 4. **`Comú [?d'en] Camp`** és *Comú d'Encamp*: la màquina hi talla el topònim,
    igual com feia `en Gordany` per *Engordany* a la [tanda 2](un-raco-descaldes.md).
    **És el mateix error sistemàtic amb topònims andorrans**, ara confirmat en dues
-   peces i dos topònims.
+   peces i dos topònims. `no-es-buit`: és un avís d'ús de la transcripció, no una
+   pregunta pendent.
 5. **`[?ben] cuidor`** és probablement *bé, cuidador* o *soc cuidador*. Sense resoldre.
 6. **De la persona no consta** ni generació, ni origen, ni llengua primera.
 7. **Els noms de campanes** —*Bàrbara*, *Tempesta Marge*— no s'han verificat.
