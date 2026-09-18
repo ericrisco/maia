@@ -110,6 +110,12 @@ darrere.**
 novel·la: ***Amic*** (1987), ***Ulls d'aigua*** (1988), ***Illalba*** (1995).
 **La seva novel·la de tema andorrà és *Frontera endins*.**
 
+**És el mateix [Josep Dallerès i Codina](../../politica/parlamentarisme/la-deriva-presidencialista.md)
+que el corpus documenta com a ex-síndic general (1994-97 i 2009-11) i
+exministre d'Educació, Cultura i Joventut** — **el poeta i el polític són la
+mateixa persona**, i el corpus no ho havia creuat mai fins al
+18-09-2026 ([font](../../../fonts/wikipedia-ca-josep-enric-dalleres.md)).
+
 > **Sícoris apareix en aquest corpus per una altra porta**: és qui va **refer el
 > guió del [ball de l'ossa d'Encamp](../../costums/danses/el-ball-de-lossa-dencamp.md)
 > el 1959**, i aquell article el tenia només com a «periodista i escriptor».
