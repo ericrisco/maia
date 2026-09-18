@@ -174,8 +174,8 @@ l'Organització Internacional del Treball**.
    **Segueix obert si publica encara.**
 4. **Quants afiliats** tenien i tenen.
 5. **Quan es reconeix legalment el SAT.**
-6. El **Reglament laboral** i la **Llei d'associacions** que el SAT volia
-   reformar. — **`parcial` el 17-09-2026**: **totes dues localitzades, i una
+6. ~~El **Reglament laboral** i la **Llei d'associacions** que el SAT volia reformar~~ —
+   **`parcial` el 17-09-2026**: **totes dues localitzades, i una
    d'elles diu una cosa gran.**
 
    **La Llei qualificada d'associacions és del 29 de desembre del 2000**

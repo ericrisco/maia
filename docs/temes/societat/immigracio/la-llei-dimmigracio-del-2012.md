@@ -321,7 +321,7 @@ que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
    sis el 1998, tres el 2010.**
 2. **Si l'article 23.2 s'exerceix**: quines associacions s'han consultat mai i
    amb quin efecte.
-3. **Els reglaments de quota** des del 2012: xifres per any i per tipus. —
+3. ~~**Els reglaments de quota des del 2012: xifres per any i per tipus**~~ —
    **`parcial` el 17-09-2026**: **baixats els 105 reglaments** i extreta la sèrie
    de la quota general de treball — vegeu
    [Quinze anys de quota, i el pic del 2023](#quinze-anys-de-quota-i-el-pic-del-2023).
@@ -335,16 +335,15 @@ que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
    2002 la quota general cau de **4.750** a **95** en tres anys.
    `Segueixen sense buidar les sèries de compte propi i de residència sense
    treball any per any.`
-4. **Quins estats tenen conveni** amb Andorra a efectes de l'article 40. **És la
-   clau del primer graó de la prioritat i el corpus no té la llista.** —
-   **`parcial` el 17-09-2026: el mecanisme està documentat i la llista no.**
+4. ~~**Quins estats tenen conveni amb Andorra a efectes de l'article 40**~~ —
+   **`parcial` el 17-09-2026**: **el mecanisme està documentat i la llista no.**
    **Els 105 reglaments de quota del 2012 al 2026 repeteixen la mateixa fórmula
    de tres graons** —estats amb conveni signat i ratificat, després UE i EEE,
    després la resta— **i cap no nomena un sol estat.** `La llista no és als
    reglaments de quota: cal buscar-la als convenis mateixos o demanar-la.`
 5. **Si els anys de sojorn compten** per a la residència.
-6. **Les divuit modificacions**: què va canviar cadascuna. — **`parcial` el
-   17-09-2026, i la xifra de divuit no és de lleis sinó de versions
+6. ~~**Les divuit modificacions: què va canviar cadascuna**~~ — **`parcial` el
+   17-09-2026**: la xifra de divuit no és de lleis sinó de versions
    consolidades.** **Al BOPA, la cadena sencera de la llei d'immigració són dotze
    documents**: la llei base, **set lleis que la modifiquen** i **quatre textos
    refosos**.

@@ -141,8 +141,8 @@ donar dades veraces** (article 43.2).
   els codis de procediment civil, penal i administratiu—, i **només una
   disposició té caràcter de llei qualificada**: **la que modifica el Codi de
   procediment penal** (disposició final novena). **La resta és llei ordinària.**
-- **El percentatge de places d'aparcament reservades** és reglamentari: **no és
-  al recull**. — **`parcial` el 17-09-2026, i ara se sap per què no es troba.**
+- ~~**El percentatge de places d'aparcament reservades**~~ — **`parcial` el
+  17-09-2026**: és reglamentari i **no és al recull**; ara se sap per què no es troba.
 
   **El Reglament d'accessibilitat existeix, i el corpus ja el té**: aprovat pel
   Govern el **31 de maig de 1995** i publicat el **13-6-1995**

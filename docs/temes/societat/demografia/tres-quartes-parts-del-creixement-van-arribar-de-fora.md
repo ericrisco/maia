@@ -228,11 +228,11 @@ d'aquests dos passaports de la que n'entra**. Els que sostenen el saldo són
 
 ## Buits registrats
 
-- **La font d'aquesta sèrie.** **El peu de taula és el de la taula del costat i
+- ~~**La font d'aquesta sèrie**~~ — **`parcial` el 18-09-2026**: **el peu de taula és el de la taula del costat i
   és fals.** **Cap columna de la sèrie no té origen atribuïble.** `Requereix font
   externa: el Departament d'Estadística.` **Buit prioritari**: sense això, les
   xifres de vegetatiu i migratori són citables només com «la taula de la pàgina
-  73 d'aquest llibre». — **`parcial` el 18-09-2026**: **el corpus ja no en
+  73 d'aquest llibre». **El corpus ja no en
   depèn per al vegetatiu**, que té any per any del 1953 ençà amb font declarada
   —**Departament de Justícia i Interior**— a
   [setanta-nou anys de padró](./setanta-nou-anys-de-padro.md).

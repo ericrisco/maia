@@ -232,8 +232,8 @@ diferència entre ells, igual al principi i al final.**
 
 ## Buits registrats
 
-- **Les dispenses de consanguinitat «*propter angustiam loci*»**: **graus,
-  freqüència i anys.** — **`parcial` el 18-09-2026**: **la fórmula i el que
+- ~~**Les dispenses de consanguinitat «*propter angustiam loci*»: graus, freqüència i anys**~~ —
+  **`parcial` el 18-09-2026**: **la fórmula i el que
   significava ja tenen fitxa**,
   [Propter angustiam loci](../../institucions/justicia/propter-angustiam-loci.md),
   **que en lliga l'estretor del lloc amb el buidatge dels tribunals de
@@ -306,11 +306,11 @@ diferència entre ells, igual al principi i al final.**
   **Dotze anys abans del Concordat, la llei del Registre ja havia resolt la
   qüestió** que l'acord amb la Santa Seu tornaria a escriure el 2008: **el
   matrimoni canònic té efectes civils, i el Registre és civil per a tothom.**
-- **Què deia la norma de 1975** sobre els drets civils de la dona casada —el
+- ~~**Què deia la norma de 1975 sobre els drets civils de la dona casada**~~ —
   buit que va deixar obert
   [la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)—
   **segueix obert**: aquesta llei és la successora, no la resposta. —
-  **`parcial`, auditat el 2026-09-14: el text segueix faltant i el sentit ja
+  **`parcial`, auditat el 2026-09-14**: el text segueix faltant i el sentit ja
   no.** **El corpus té la data, la matèria i la conseqüència**: **fins al 1975
   la dona casada andorrana no tenia plens drets civils**, i **el 1975 és també
   l'any en què els advocats entren als tribunals**. **I té la paradoxa**: **les

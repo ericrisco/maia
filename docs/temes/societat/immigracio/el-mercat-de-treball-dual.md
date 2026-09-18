@@ -237,8 +237,8 @@ són de temporada sencera.` `serie_estadistica`
    diu explícitament que no hi té accés** i que amb elles «es podria analitzar
    amb molta més cura». **Buit prioritari, i identificat per qui el pateix.** —
    **`obert`, confirmat.** `Requereix font externa: la CASS o Estadística.`
-2. **El conveni trilateral del 2003** i l'ampliació a Portugal del **2007**. —
-   **`parcial` des del 16-09-2026, i amb el contingut i una divergència de
+2. ~~**El conveni trilateral del 2003 i l'ampliació a Portugal del 2007**~~ —
+   **`parcial` des del 16-09-2026**, amb el contingut i una divergència de
    data.** **Un estudi del Servei de Política Lingüística el descriu en dues
    notes al peu** ([a la segona convocatòria, no a la primera](./a-la-segona-convocatoria-no-a-la-primera.md)): **el conveni amb Espanya i França va entrar en
    vigor l'1 de juliol del 2003** i **reconeix el dret de presentar-se *a la
