@@ -235,8 +235,12 @@ detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica
   parròquia, **no quantes fan tabac**.
 - **Per què Andorra la Vella.** El 42,4% de la terra declarada de la capital és
   la proporció més alta del país i **no hi ha cap explicació a la font**.
-- **La sèrie de superfícies.** Els fitxers arriben fins al **2003** i només
-  s'ha llegit el del 2025.
+- ~~**La sèrie de superfícies.** Els fitxers arriben fins al **2003** i només
+  s'ha llegit el del 2025.~~ — **`resolt` el 18-09-2026**: **llegits els
+  vint-i-dos fitxers del 2004 al 2025**, i **l'API d'Estadística
+  (divisió 625) hi afegeix el 2001, el 2002 i el 2003**: **2.088.476 m² de
+  tabac el 2001** contra els 1.027.719 del 2025, **un −50,8% en vint-i-quatre
+  anys**. `De més antic del 2001, res.`
 
 ## Related
 

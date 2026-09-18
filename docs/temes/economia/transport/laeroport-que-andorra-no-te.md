@@ -214,7 +214,30 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
   Comissió Mixta. Vegeu «[El tractat no va existir; hi ha un conveni amb la
   Generalitat](#el-tractat-no-va-existir-hi-ha-un-conveni-amb-la-generalitat)».
   `Requereix el text del conveni, que el Butlletí cita i no publica.`
-- **Les xifres de passatgers reals** des del 2021.
+- **Les xifres de passatgers reals** des del 2021. — **`parcial` el 18-09-2026,
+  i el que hi ha és l'alternativa**: **el país no té aeroport i sí que té línia
+  regular d'autocar internacional**, i **l'API d'Estadística en publica el
+  recompte** (divisions 2435-2438, font **Departament d'Estadística**):
+
+  | Passatgers | 2018 | **2019** | 2020 | 2022 | 2024 | **2025** |
+  | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+  | **Entrada** | 153.849 | 162.621 | 69.925 | 151.652 | 223.610 | **258.636** |
+  | **Sortida** | 151.638 | 165.404 | 74.885 | 148.309 | 224.783 | **257.103** |
+
+  **Mig milió de trajectes l'any 2025**, **un 59,0% per sobre del 2019**.
+
+  **Per destinació de sortida el 2025**: **Barcelona 215.993** —el 84,0%—,
+  **Lleida 20.113**, **Toulouse 16.967**, **Porto 3.311** i **Ax-les-Thermes
+  366**. **Barcelona és, a efectes pràctics, l'aeroport d'Andorra.**
+
+  **I el passatger ha canviat de nacionalitat.** Per procedència d'entrada,
+  **els espanyols passen del 54,5% el 2019 al 40,7% el 2025** i **«altres
+  procedències» del 29,4% al 38,0%**; **els residents andorrans, del 12,9% al
+  18,2%.**
+
+  `Aquestes xifres són d'autocar, no d'avió, i la fitxa no les presenta com a
+  equivalents: les registra perquè són el trànsit regular de persones que un
+  aeroport substituiria.`
 - **Francesc Betriu**, el germà.
 - **Per què la valoració dels terrenys va passar de 40 a 8 milions.**
 
