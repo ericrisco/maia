@@ -324,8 +324,8 @@ però el nominal inclou la inflació, que en aquest mateix període ha estat del
 
 **El sector financer és el que pitjor ha quedat**: **perd el 28,8% entre el 2007
 i el 2014**, **toca fons el 2020 amb 289,14** —**un 47,3% per sota del màxim**—
-i **el 2024 encara és un 20,0% per sota del 2007.** **És l'únic dels cinc
-sectors grans que no ha superat el seu màxim antic.**
+i **el 2024 encara és un 20,0% per sota del 2007.** **Amb la construcció, són
+els dos únics dels cinc sectors grans que no han superat el seu màxim antic.**
 
 **Les activitats immobiliàries són l'altra cara**: **no cauen amb la
 construcció** —112,51 el 2000, 276,77 el 2014, **527,28 el 2024**— i **s'han
@@ -333,8 +333,9 @@ multiplicat per 4,7 en vint-i-quatre anys**, **més que cap altre sector**.
 **El 2024 valen més que la construcció i que la banca.**
 
 `Construir i llogar no van junts: entre el 2006 i el 2014 la construcció perd
-195,54 milions i les activitats immobiliàries en guanyen 164,26. El corpus ho
-registra i no en dona la causa.`
+195,54 milions i les activitats immobiliàries en guanyen 9,27 —no cauen gens
+mentre la construcció es parteix per dos i mig—, i del 2014 al 2024 les
+immobiliàries en guanyen 250,51. El corpus ho registra i no en dona la causa.`
 
 ## Buits registrats
 
