@@ -308,6 +308,62 @@ desaparèixer 563**, i **el 89,99% de les empreses nascudes el 2023 seguien vive
 tres anys després**. De les 20.986 del 2023, **només el 63,58% eren
 econòmicament actives**.
 
+### La sèrie sencera, i on es trenca
+
+**Afegida el 18-09-2026 per l'API d'Estadística**
+(`docs/raw/estadistica-api/empreses/`, divisions 2667-2675 i 2968). **El corpus
+tenia el 2025 i ara té del 2016 ençà.**
+
+| Any | **Estoc** | Nascudes | Mortes | Persona jurídica | Persona física |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 2016 | 14.205 | 1.234 | 406 | 9.576 | 4.624 |
+| 2017 | 14.920 | 1.134 | 418 | 10.219 | 4.697 |
+| 2018 | 15.654 | 1.124 | 389 | 10.875 | 4.776 |
+| 2019 | 16.241 | 1.010 | 420 | 11.429 | 4.812 |
+| **2020** | 16.919 | **989** | **311** | 11.906 | 5.013 |
+| **2021** | 18.249 | **1.762** | 432 | 13.097 | 5.152 |
+| 2022 | 19.796 | 2.078 | 531 | 14.264 | 5.532 |
+| 2023 | 20.986 | 1.699 | 509 | 15.444 | 5.542 |
+| 2024 | 22.326 | 1.858 | 518 | 16.662 | 5.664 |
+| **2025** | **23.939** | **2.176** | 563 | **18.105** | 5.834 |
+
+**L'estoc d'empreses andorranes ha crescut un 68,5% en nou anys**, i **el salt
+és del 2021**: **les empreses que neixen cada any passen de 989 a 1.762 en un
+sol exercici**, **un +78,2%**, i **no hi tornen a baixar.**
+
+**El 2020 és l'any amb menys naixements i també amb menys morts de tota la
+sèrie** —989 i 311—: **l'any de la pandèmia el que s'atura no és el tancament,
+és el moviment.**
+
+**I el creixement és gairebé tot de persones jurídiques**: **+89,1%** contra
+**+26,2%** de persones físiques. **El 2016, dues de cada tres empreses del país
+eren persona jurídica; el 2025, tres de cada quatre** (75,6%).
+
+### Les empreses andorranes no es moren
+
+**La font segueix cada cohort any per any**, i el resultat és poc habitual:
+
+| Cohort | 1r any | 3r any | 5è any | 9è any |
+| --- | ---: | ---: | ---: | ---: |
+| **2016** | 98,06% | 85,09% | 80,79% | **72,53%** |
+| 2018 | 98,84% | 91,37% | 85,05% | — |
+| 2020 | 97,78% | 87,87% | 82,00% | — |
+| **2022** | 98,65% | **89,03%** | — | — |
+
+**Set de cada deu empreses nascudes el 2016 seguien vives nou anys després.**
+**I la supervivència a tres anys millora amb el temps**: **85,09% per a la
+cohort del 2016**, **89,03% per a la del 2022.**
+
+**Les desaparicions en els tres primers anys de vida no passen mai del 5,2%
+anual** en tota la sèrie.
+
+**I on són.** De les **17.784 societats inscrites el 2025**, **Andorra la Vella
+en té 7.796 (43,8%)** i **Escaldes-Engordany 3.137 (17,6%)**: **entre les dues
+parròquies, sis de cada deu societats del país.** **Ordino en té 807**, el
+4,5%. `El corpus no té amb què comparar-ho: no ha baixat
+cap sèrie equivalent d'un altre país, i la comparació internacional d'aquest
+indicador exigeix la mateixa definició d'empresa.`
+
 ## Buits registrats
 
 > **Auditats contra el text de la llei el 2026-09-13.** **Quatre dels cinc estan
