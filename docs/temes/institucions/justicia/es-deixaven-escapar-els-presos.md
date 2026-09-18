@@ -328,8 +328,35 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 5. **L'acte de llibertat provisional de l'11 de juny de 1434**, **el més antic que
    la font declara**, **i si realment al segle XV hi havia poques caucions al
    criminal.** **La font ho diu com a impressió.**
-6. **El *Politar*, pp. 337 i 345.** — **Les pp. 215, 216 i 217, `resoltes` el
-   18-09-2026, i les dues coses que aquesta fitxa buscava hi són.**
+6. ~~**El *Politar*, pp. 337 i 345.**~~ — **`resolt` el 18-09-2026, i la p. 345
+   porta la frase literal que aquesta fitxa buscava.**
+
+   **Llegida la sentència de mort, el reu queda «posantlo desde entonces en part
+   ben guardat ***ab cadena en lo coll o collar, en seps o grillons y ab esposas
+   en les mans***, y en paratge retirat»**, després d'haver confessat i pres el
+   Viàtic i **exhortat «per alguns sacerdots seculars o religiosos»**.
+
+   **I la mateixa pàgina dona el muntatge del patíbul, que és una requisa.**
+   **Els batlles previndran el que calgui «valentse dels ***mestres de cases,
+   fusters, farrers, cordes*** y de tots altres oficials sien necessaris,
+   ***manantlos ab les penes ben vistes y de preso en cas de renitencia***, pera
+   que trevallien lo que se age menester»**, i **el nunci pren el burro o burros
+   que calguin per als assots.** **L'executor «se posara en una caseta ab
+   guardas»**, i **el va a buscar «un prom de les Valls» amb escorta de sis o
+   vuit homes armats, «guardantlo be, tan al anar com al tornarlo a son lloch»**.
+
+   > **I una regla que canvia com s'ha de llegir tot el calendari judicial**:
+   > **«Per fer dit acte de execussio ***no es menester sien les Corts obertes y
+   > juntat lo Concell***, sino los Batlles y oficials de justicia y guardes.»**
+   > **Jutjar demanava Corts; executar, no.** **Els quatre mesos i mig de
+   > tancament del tribunal no aturaven el patíbul.**
+
+   **P. 337 — i el rellotge dels encausats**: **tres dies més enllà del dia de
+   publicació de les Corts per comparèixer**, passats els quals **les fiances
+   incorren en penes trencades «quedant los delictes en son enter estat»**.
+
+   **Les pp. 215, 216 i 217, `resoltes` el mateix dia, donen la requisició de
+   cases per a presó i l'inventari de ferramentes.**
 
    **La requisició de cases per a presó hi és, i amb el criteri de tria:**
 

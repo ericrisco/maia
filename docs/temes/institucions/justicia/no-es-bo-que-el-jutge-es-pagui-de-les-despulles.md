@@ -379,9 +379,26 @@ i 1859, V, 89.)*
    **Prioritari.**
 9. **Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
    cita cap**.**
-10. **El *Politar*, p. 197**, **i el manuscrit de M. Palmitjavila.** — **Les pp.
-    217 i 338, llegides el 18-09-2026** dins l'extracte de Brutails: **la 338
-    dona l'excepció de les fiances** (buit 6 d'aquesta llista) i **la 217, la
+10. **El manuscrit de M. Palmitjavila.** — **Les pp. 197, 217 i 338, `resoltes`
+    el 18-09-2026** dins l'extracte de Brutails.
+
+    **La 197 diu qui cobra quan la composició es tanca, i en quin ordre**: fixada
+    la remissió i expressada la pena, **«lo notari trenca las manlleutas,
+    ***cobrant lo salari de rebrer y trencar***, com tambe lo Batlle lo de
+    ***posarlo pres y soltarlo***, y lo nunci o porter lo de la ***intima***»**.
+
+    > **Tres oficis cobren del mateix acte, i un d'ells cobra dues vegades pel
+    > mateix paper: per rebre la manlleuta i per trencar-la.** **El batlle cobra
+    > per empresonar i per deixar anar.** **És exactament el defecte que aquesta
+    > fitxa anomena al títol: el tribunal es paga del que passa, no del que
+    > decideix.**
+
+    **I la mateixa pàgina posa el contrapès**: **els raonadors han de convenir la
+    pena «sempre com a protectors e intercessors dels pobres» i «no permetrer se
+    embrutia paper»**, perquè **anar a causa formal multiplica precisament
+    aquests drets.**
+
+    **La 338 dona l'excepció de les fiances** (buit 6 d'aquesta llista) i **la 217, la
     regla que les despeses de custòdia les paga el pres solvent** —**«notant
     totas las llevas, las guardas y los dias hauran guardat al presoner […] afi
     de que, si aquestos tenen per pagar, sien condemnats en pagar les
