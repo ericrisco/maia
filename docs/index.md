@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1070** documents · **300** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1071** documents · **301** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -358,6 +358,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [L'aeroport que Andorra no té](temes/economia/transport/laeroport-que-andorra-no-te.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-aeroport-andorra` |
+| [Les carreteres d'Andorra](temes/economia/transport/les-carreteres.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-ca-llista-carreteres-andorra` |
 
 ## temes/economia/turisme-i-neu
 
@@ -1967,6 +1968,7 @@
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
+| [`wikipedia-ca-llista-carreteres-andorra`](fonts/wikipedia-ca-llista-carreteres-andorra.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-rosa-ferrer-obiols`](fonts/wikipedia-ca-rosa-ferrer-obiols.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

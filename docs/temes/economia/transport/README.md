@@ -119,7 +119,12 @@ transició andorrana passa, ara mateix, per l'híbrid.**
 
 ## El que falta
 
-- **Les carreteres.** **La CG-1, la CG-2 i la resta**: cap fitxa.
+- ~~**Les carreteres.** **La CG-1, la CG-2 i la resta**: cap fitxa.~~ —
+  **`resolt` el 18-09-2026**: **ara en té**, a
+  [les carreteres d'Andorra](./les-carreteres.md) — **sis carreteres
+  generals, una trentena de secundàries, i la CG-1/CG-2 com les úniques
+  dues portes terrestres del país**
+  ([font](../../../fonts/wikipedia-ca-llista-carreteres-andorra.md)).
 - **El túnel d'Envalira** i **el túnel del Cadí**, que va tancar l'aeroport.
 - ~~**L'heliport d'Andorra la Vella.**~~ — **`parcial` el 18-09-2026**: **la
   concessió de l'Heliport Nacional corre del 2022 al 2052**, amb una
