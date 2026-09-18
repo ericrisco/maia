@@ -304,7 +304,9 @@ avèria**; i **cent vint cavallons de blat com un metado**
    ([les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md)).
    **Muig, quarta, jornal i quarter segueixen oberts** — i el corpus **no sap si
    el valor del XV era el mateix que el del 1904**.
-2. ***Libet*** — forma no resolta.
+2. ~~***Libet*** — forma no resolta.~~ — **`resolt`**: la mateixa font el posa
+   com a **adult solter** i en dona el plural *libets*; la fitxa en conserva la
+   definició sense afirmar-ne l’etimologia.
 3. **On es feia el recompte** — Vela ho deixa obert.
 4. **Quan deixa de cobrar-se** la quèstia i què la substitueix. **El que ja se
    sap és que el 1904 encara es cobrava.**
