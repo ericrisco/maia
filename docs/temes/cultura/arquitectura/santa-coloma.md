@@ -75,8 +75,10 @@ l'altre quadrat. **Dues esglésies, un sol cercle d'artesans.**
 
 ## Buits registrats
 
-1. **Sant Serni de Canillo**, l'última de les sis esglésies del
-   romànic andorrà encara sense fitxa.
+1. ~~**Sant Serni de Canillo**, l'última de les sis esglésies del
+   romànic andorrà encara sense fitxa.~~ — **`resolt` el 18-09-2026**:
+   la fitxa ja existeix a [Sant Serni de Canillo](./sant-serni-de-canillo.md)
+   i l'índex [del romànic andorrà](./romanic.md) ja la recull.
 2. **El parador del fragment perdut** (sant Gregori o sant Silvestre,
    segons quin és l'exposat a Amherst).
 3. **L'Espai Columba** en si: el corpus no en té fitxa com a espai
