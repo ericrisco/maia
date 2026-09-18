@@ -153,10 +153,10 @@ castellà segueix per sobre del cinquanta per cent.**
 
 ## Coneixement, en escala 0-10
 
-| 2018 | Entén | Llegeix | Parla | Escriu |
+| 2018 | Entén | Llegeix | Parla | **Escriu** |
 | --- | ---: | ---: | ---: | ---: |
-| **Castellà** | **9,6** | 9,4 | 9,3 | 8,8 |
-| **Català** | **8,0** | — | — | — |
+| **Castellà** | **9,6** | 9,4 | 9,3 | **8,8** |
+| **Català** | **8,9** | 8,6 | 8,0 | **6,6** |
 | Francès | 6,1 | 5,7 | 5,3 | 4,4 |
 | **Anglès** | 4,7 | 4,5 | 4,1 | **3,8** |
 | Portuguès | 4,5 | 3,3 | 2,7 | 2,0 |
@@ -164,9 +164,31 @@ castellà segueix per sobre del cinquanta per cent.**
 **L'anglès és l'única llengua que creix a totes sis onades**: **d'1,8 a 4,1 en
 «parla», més del doble.** **I el 2018 ja s'entén més que el portuguès.**
 
-`El coneixement del català només consta a l'indicador agregat (divisió 1970):
-7,3 el 1995 i 8,0 el 2018. Les quatre habilitats desglossades hi són per al
-castellà, el francès, el portuguès i l'anglès, i no per al català.`
+### El català s'escriu pitjor que el castellà, i és la distància més gran de la taula
+
+**Corregit el 18-09-2026: la taula de dalt tenia tres caselles buides i les
+dades hi eren.** **El desglossament del català és la divisió 1955 de l'API**,
+no la 1970 —que és l'indicador agregat—, **i el corpus l'havia buscat al lloc
+equivocat.**
+
+| Català, escala 0-10 | 1995 | 1999 | 2004 | 2009 | 2014 | **2018** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Entén | 8,5 | 8,7 | 8,4 | 8,7 | 8,9 | **8,9** |
+| Llegeix | 8,0 | 7,9 | 8,0 | 8,1 | 8,5 | **8,6** |
+| Parla | 7,5 | 7,4 | 7,2 | 7,3 | 8,1 | **8,0** |
+| **Escriu** | **5,4** | 5,8 | 5,7 | 5,5 | 6,9 | **6,6** |
+
+**Entre entendre el català i escriure'l hi ha 2,3 punts**, i **és la distància
+més gran de les cinc llengües en termes relatius**: **el castellà en té 0,8**
+—9,6 i 8,8— **i el francès 1,7.**
+
+**L'escriptura del català és l'única habilitat de l'única llengua pròpia del
+país que no arriba al set**, i **el 2018 baixa respecte del 2014** (6,9 → 6,6),
+com fa també el «parla» (8,1 → 8,0).
+
+**Per a maia, aquesta és la xifra que més importa de tota la taula**: **el
+català andorrà s'entén molt, es parla força i s'escriu regular**, i **el text
+escrit és exactament el material del qual un model s'entrena.**
 
 ## Temps de parla, les dues darreres onades
 
@@ -258,8 +280,13 @@ no diu què obligava llavors.`
 
 - **L'onada del 2022 no és a l'API.** `El corpus la té per la publicació; la
   sèrie tabulada, no.`
-- **El coneixement del català desglossat per habilitats**, que hi és per a les
-  altres quatre llengües i no per al català.
+- ~~**El coneixement del català desglossat per habilitats**, que hi és per a les
+  altres quatre llengües i no per al català.~~ — **`resolt` el 18-09-2026, i la
+  premissa era falsa**: **hi és, a la divisió 1955**, i **el corpus l'havia
+  buscat a la 1970**, que és l'indicador agregat. Vegeu
+  [El català s'escriu pitjor que el castellà](#el-catala-sescriu-pitjor-que-el-castella-i-es-la-distancia-mes-gran-de-la-taula).
+  `Tercera vegada en dos dies que un buit del corpus declarava absent una cosa
+  que la font publicava sota un altre identificador.`
 - **L'alfabetització del 2014 i del 2018.**
 - **Els desglossaments per nacionalitat** només hi són per a l'indicador d'ús
   (divisions 1975-1978), no per a les preguntes d'àmbit.
