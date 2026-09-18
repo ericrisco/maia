@@ -291,6 +291,65 @@ votar, 218 —gairebé un de cada tres— van posar el sobre buit.** És de cinc
 vegades el blanc de qualsevol altra parròquia, i **és l'única manera que tenien
 de votar que no.**
 
+## Per edat: el buit que faltava, i la cohort que desapareix
+
+**Afegit el 18-09-2026.** **El buit 5 deia «requereix una explotació del cens
+electoral per edats: cap dossier no la publica».** **La publica l'API
+d'Estadística** (`docs/raw/estadistica-api/eleccions/`, divisió **2054**),
+**per a cinc eleccions generals**.
+
+**Votants a les generals, per tram d'edat:**
+
+| Tram | 2009 | 2011 | 2015 | 2019 | **2023** | Variació | Pes 2009 → 2023 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| 18-25 | 1.912 | 2.038 | 1.955 | 2.455 | **2.701** | **+41,3%** | 12,5% → 13,5% |
+| **26-35** | 3.322 | 3.120 | 2.440 | 2.702 | **3.020** | **−9,1%** | **21,7% → 15,1%** |
+| **36-45** | **3.812** | 4.020 | 3.799 | 3.758 | **3.174** | **−16,7%** | **24,9% → 15,8%** |
+| 46-55 | 2.598 | 3.019 | 3.468 | 4.135 | **4.430** | +70,5% | 17,0% → 22,1% |
+| 56-65 | 1.926 | 2.060 | 2.203 | 2.839 | **3.445** | +78,9% | 12,6% → 17,2% |
+| **Més de 65** | 1.716 | 1.944 | 2.219 | 2.749 | **3.288** | **+91,6%** | 11,2% → 16,4% |
+| **Total** | **15.286** | 16.201 | 16.084 | 18.638 | **20.058** | +31,2% | |
+
+**Dos trams perden votants en absolut mentre el total en guanya 4.772**: **els
+de 26 a 35 i els de 36 a 45.** **Tots els altres pugen, i com més grans, més.**
+
+**El 2009, un de cada quatre vots andorrans el posava algú de 36 a 45 anys.**
+**El 2023 el tram més gran és el de 46 a 55**, i **els majors de 65 pesen més
+que els de 26 a 35.**
+
+`Això no és per força menys ganes de votar: el cens envelleix i la nacionalitat
+andorrana s'adquireix tard. El corpus té els votants per edat i no té el cens
+per edat, i sense el denominador no es pot calcular la participació de cada
+tram.`
+
+**Per sexe**, la sèrie gira a mig camí:
+
+| | 2009 | 2015 | **2023** |
+| --- | ---: | ---: | ---: |
+| Dones | 7.621 | 8.008 | **10.195** |
+| Homes | 7.665 | 8.076 | **9.863** |
+
+**Els homes votaven més el 2009, el 2011 i el 2015; les dones el 2019 i el
+2023**, i **el 2023 la diferència és de 332 vots.**
+
+### Una discrepància de tres vots
+
+**L'API i els dossiers de `eleccions.ad` no donen el mateix nombre de votants:**
+
+| Any | Dossier | API | Diferència |
+| --- | ---: | ---: | ---: |
+| 2009 | 15.289 | **15.286** | −3 |
+| 2011 | 16.192 | **16.201** | +9 |
+| 2015 | 16.084 | **16.084** | 0 |
+| 2019 | 18.639 | **18.638** | −1 |
+| 2023 | 20.057 | **20.058** | +1 |
+
+**Són diferències d'entre un i nou vots sobre desenes de milers**, i **no toquen
+cap percentatge a una decimal.** `Poden ser vots nuls comptats o no comptats com
+a participació. Cap de les dues fonts no diu què inclou, i el corpus manté les
+xifres del dossier per a la sèrie de participació i les de l'API per al
+desglossament, perquè les segones sumen entre elles.`
+
 ## Buits registrats
 
 1. **L'estudi *L'abstenció al Principat d'Andorra*** de l'IEA, sencer.
@@ -305,9 +364,12 @@ de votar que no.**
    dibuixada al dossier del 1997, **sense els totals.**
 4. ~~**Participació creuada amb el cens total de residents.**~~ `resolt`
    **35,9% dels residents poden votar; 24,0% van votar el 2023.**
-5. ~~**Participació per parròquia**~~ `resolt` —quatre anys, a dalt— **i per
-   edat**, que segueix obert. `Requereix una explotació del cens electoral per
-   edats: cap dossier no la publica.`
+5. ~~**Participació per parròquia**~~ `resolt` —quatre anys, a dalt— ~~**i per
+   edat**~~ — **`resolt` el 18-09-2026**: **la publica l'API d'Estadística**
+   (divisió 2054), **per a cinc eleccions**, i vegeu
+   [Per edat](#per-edat-el-buit-que-faltava-i-la-cohort-que-desapareix).
+   `El que segueix faltant és el cens per edat, que és el denominador: sense
+   ell hi ha votants per tram i no participació per tram.`
 6. ~~**El percentatge exacte del 1997 i del 2009**, que la citació no dona.~~
    `resolt` **81,6% i 75,3%.**
 7. **El 2005**, que és l'únic any sense participació publicada. `Requereix una
