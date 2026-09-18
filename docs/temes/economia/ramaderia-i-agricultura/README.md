@@ -4,7 +4,8 @@ Transhumància, cabanes, béns comunals.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (10)
+## Articles (11)
+- [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md) — La sèrie del Padral va del 1988 al 2026 i comença exactament on el cens de la duana francesa havia acabat. El que s'enfonsa entre mig no és el bestiar: són les ovelles, i en tres anys.
 - [El cens del bestiar de 1898-1900](./el-cens-del-bestiar-de-1898-1900.md) — Tres censos fets per la duana francesa diuen quant bestiar tenia Andorra, i resolen una discussió de 1895 donant la raó a ningú: ni les 450 mules del diputat ni les 45 del bisbe.
 - [L'agricultura de subsistència](./lagricultura-de-subsistencia.md) — Un 4% del país era conreable.
 - [L'interès es paga en llana](./linteres-es-paga-en-llana.md) — El 1783 els administradors d'una capella de l'Aldosa presten deu ovelles a un pagès.
