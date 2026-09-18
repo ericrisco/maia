@@ -289,8 +289,8 @@ català per damunt del que rep**, que és una cosa ben diferent.
 
 ## Buits registrats
 
-- **L'onada del 2022 no és a l'API.** `El corpus la té per la publicació; la
-  sèrie tabulada, no.`
+- ~~**L'onada del 2022 no és a l'API.**~~ — **`no-es-buit`**: el corpus la té
+  per la publicació, però la sèrie tabulada de l'API no la publica.
 - ~~**El coneixement del català desglossat per habilitats**, que hi és per a les
   altres quatre llengües i no per al català.~~ — **`resolt` el 18-09-2026, i la
   premissa era falsa**: **hi és, a la divisió 1955**, i **el corpus l'havia
@@ -299,9 +299,11 @@ català per damunt del que rep**, que és una cosa ben diferent.
   `Tercera vegada en dos dies que un buit del corpus declarava absent una cosa
   que la font publicava sota un altre identificador.`
 - **L'alfabetització del 2014 i del 2018.**
-- **Els desglossaments per nacionalitat** només hi són per a l'indicador d'ús
-  (divisions 1975-1978), no per a les preguntes d'àmbit.
-- **La mida mostral de cada onada**, que l'API no publica.
+- ~~**Els desglossaments per nacionalitat** només hi són per a l'indicador d'ús
+  (divisions 1975-1978), no per a les preguntes d'àmbit.~~ — **`no-es-buit`**:
+  és l'abast que publica l'API.
+- ~~**La mida mostral de cada onada**, que l'API no publica.~~ —
+  **`no-es-buit`**: la mida mostral queda fora de les dades que ofereix l'API.
 - ~~**Les trenta taules d'àmbit que aquesta fitxa no reprodueix** —metge, grans
   magatzems, botigues, banc, bars, perruqueria, feina interna i externa— **són
   al TSV i no s'han destil·lat.**~~ — **`parcial` el 18-09-2026.** **El
