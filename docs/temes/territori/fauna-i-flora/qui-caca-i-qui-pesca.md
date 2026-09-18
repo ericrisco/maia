@@ -189,8 +189,35 @@ que l'Administració creu que n'hi ha més.**
   26,5% de compliment** en cinc anys.
 - **Quantes truites es pesquen.** Hi ha llicències i permisos; **de captures,
   res**.
-- **Qui són els 474 caçadors**: la font en publica el desglossament per edat i
-  residència **en un gràfic sense etiquetes** i no en dona la taula.
+- ~~**Qui són els 474 caçadors**: la font en publica el desglossament per edat
+  i residència **en un gràfic sense etiquetes** i no en dona la taula.~~ —
+  **`resolt` el 18-09-2026 per una altra taula de la mateixa casa**
+  (`docs/raw/estadistica-api/caca-pesca/`, divisió **2505**), **encara que
+  l'any no sigui el mateix.**
+
+  **Llicències de caça de temporada per tipus, 2024** —**433 en total**, no 474:
+
+  | Tipus | 2014 | **2024** | Variació |
+  | --- | ---: | ---: | ---: |
+  | Andorrans i residents, 18-65 anys | **417** | **338** | **−18,9%** |
+  | **Andorrans i residents, més de 65 anys** | 61 | **91** | **+49,2%** |
+  | Andorrans i residents, menors de 18 anys | 8 | **2** | −75,0% |
+  | Estrangers | 2 | 2 | — |
+  | **Total** | **488** | **433** | −11,3% |
+
+  **Un de cada cinc caçadors andorrans té més de seixanta-cinc anys**, i **eren
+  un de cada vuit fa deu anys.** **Els menors de divuit són dos a tot el
+  país.** **La caça andorrana no perd gent: envelleix.**
+
+  `Les 474 llicències que aquesta fitxa cita són de l'informe del Departament
+  de Medi Ambient per al 2025; les 433 són de l'activitat d'Estadística per al
+  2024. No són el mateix any i podrien no ser la mateixa definició: el corpus
+  dona les dues amb la seva font i no les suma ni les compara com a sèrie.`
+
+  **I una dada de tràmit que val per ella mateixa**: **el 2016 les 452
+  sol·licituds de llicència de caça eren totes presencials**; **el 2024, de
+  433, n'hi ha 213 de presencials i 220 per tràmit electrònic.** **La
+  finestreta electrònica ha passat del zero a la majoria en vuit anys.**
 - ~~**La sèrie anterior al 2021.**~~ — **`resolt` el 18-09-2026**: **hi és a
   l'API d'Estadística** —**pesca des del 2016, caça des del 2014**— i **canvia
   la lectura**, vegeu
