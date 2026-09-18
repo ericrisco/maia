@@ -315,9 +315,18 @@ assembla força al que aquest corpus intenta fer amb text.
   ([el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md)),
   i aquí troba el **CRECIT** planificat el 2000 per al mateix terreny. **Són el
   mateix rebatejat? En són dos? El corpus no ho sap i no ho inventa.**
-- **La revista *Habitats***: si va sortir el setembre del 2000 i quants números.
-- **El jardí botànic de Sant Julià de Lòria.**
-- **Els resultats de *Consum cultural i oci* (2000).**
+- ~~**La revista *Habitats***: si va sortir el setembre del 2000 i quants números.~~ —
+  **`parcial` el 19-09-2026**: la 13a Diada diu que el **primer número** havia
+  de sortir el **setembre del 2000** i que la revista seria **semestral**. No hi
+  confirma quants números van arribar a publicar-se ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt), p. 181).
+- ~~**El jardí botànic de Sant Julià de Lòria.**~~ — **`parcial` el
+  19-09-2026**: la font diu que ja s'havia signat un conveni amb el Comú i que
+  s'estudiava la vegetació per obrir-lo el curs **2001**. No confirma que el
+  jardí arribés a funcionar ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt), p. 181).
+- ~~**Els resultats de *Consum cultural i oci* (2000).**~~ — **`parcial` el
+  19-09-2026**: la font confirma una primera enquesta **d'àmbit nacional** feta
+  a principi de l'estiu del 2000 i diu que els resultats estarien disponibles a
+  final d'estiu; el document no en reprodueix els resultats ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt), p. 182).
 - ~~**La biblioteca científica d'ús públic**: si existeix i on és.~~ —
   **`resolt` el 19-09-2026**: la pàgina institucional de l'IEA diu que els
   centres de **Barcelona i Tolosa** donen suport als estudiants i disposen d'una
@@ -364,11 +373,10 @@ assembla força al que aquest corpus intenta fer amb text.
   pública consultada que confirmi els càrrecs actuals d'AR+I.**
 - ~~**Antoni Calvo Armengol** (UPF), **Martí Boada** (UAB/CREA) i **Joan Manuel
   Vilaplana** (UB): els tres dissenyadors externs de la recerca andorrana.~~ —
-  **`parcial` el 19-09-2026**: la transcripció local de la 13a Diada identifica
-  **Martí Boada** com a peça clau del centre de biodiversitat i **Joan Manuel
-  Vilaplana** com l'encarregat del disseny del CRECIT ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt),
-  pp. 83 i 87). **Antoni Calvo Armengol no apareix en aquesta font i queda per
-  verificar.**
+  **`resolt` el 19-09-2026**: la mateixa transcripció identifica **Martí Boada**
+  com a peça clau del centre de biodiversitat, encarrega el disseny del CRECIT
+  a **Joan Manuel Vilaplana** i diu que el disseny del CRES es va encarregar el
+  1999 a **Antoni Calvó Armengol**, professor andorrà de la UPF ([font local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt), pp. 181–182).
 
 ## Related
 
