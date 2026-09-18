@@ -601,8 +601,11 @@ facin, seria un tret; amb això, és una frase repetida.
 
 7. **Un sol testimoni de vint-i-set.** La cohort sencera —els consellers del 1993—
    és la millor mostra generacional datable que el corpus ha trobat, i **se n'ha
-   fet el 4 %**.
+   fet el 4 %**. `no-es-buit`: és una limitació d'ús de la mostra, no una
+   pregunta pendent.
 8. **Només tres dones a la sèrie** (Reig, Aleix, Adellach) i aquesta n'és una.
    Prioritàries: el corpus de parla té **una sola veu de dona** abans d'aquesta.
+   `no-es-buit`: és una limitació de representació de la mostra, no una
+   pregunta pendent.
 9. **Els drets no acompanyen.** Llicència estàndard de YouTube, redistribució
    `pendent` (avís R005). El consentiment consta; el permís de redistribuir, no.

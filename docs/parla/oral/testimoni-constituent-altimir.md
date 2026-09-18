@@ -341,4 +341,5 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
    una forma freqüent. **Es tanca escoltant, com tota la resta.**
 7. **Cap comparació no s'ha fet amb català no andorrà.** `sigut` i `inclús` són
    corrents a tot el domini: el que aquí es documenta és **que la parla els fa
-   servir i la prosa del corpus no**, no que siguin d'Andorra.
+   servir i la prosa del corpus no**, no que siguin d'Andorra. `no-es-buit`: és
+   una limitació d'ús de la mostra, no una pregunta pendent.

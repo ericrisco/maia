@@ -331,4 +331,5 @@ I la seva ocurrència dona **la construcció sencera**, no el participi solt:
    Qui vulgui perfils haurà de treure'ls d'una altra banda.
 4. **`sigut` amb set parlants segueix sense provar res sobre Andorra.** És
    corrent a tot el domini lingüístic. El que prova és **que la parla el fa
-   servir i la prosa del corpus no**.
+   servir i la prosa del corpus no**. `no-es-buit`: és una limitació d'ús de la
+   mostra, no una pregunta pendent.
