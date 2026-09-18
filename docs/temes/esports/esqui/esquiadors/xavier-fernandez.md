@@ -79,7 +79,8 @@ demostrar**.
   i **la FADEA ja no és un nom buit: és la Federació Andorrana d'Esports
   Adaptats, el Comitè Paralímpic del país, `fadea.ad`.**
 - **El que segueix sent cert**: **cap medalla en vuit Jocs**, i **el millor
-  resultat és un novè lloc.**
+  resultat és un novè lloc.** `no-es-buit`: és una dada de balanç ja destil·lada,
+  no una pregunta pendent.
 
 ## Related
 
