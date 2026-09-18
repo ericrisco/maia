@@ -183,7 +183,23 @@ Esports de 22.447.828,32 €.**
 
   `Requereix els edictes d'adjudicació anuals per als imports; la convocatòria
   els remet al pressupost de l'any i no els publica.`
-- **Les set federacions de les quals el corpus no té res.**
+- ~~**Les set federacions de les quals el corpus no té res**: hípica,
+  tennis taula, vela, voleibol, karate, petanca i Special Olympics.~~ —
+  **`parcial` el 18-09-2026**: representants actuals al COA (2024-2028) —
+  **Hípica**: Sílvia Daban Vila · **Tennis Taula**: Cristian Asensio
+  Valls · **Vela**: Barbara Vives Bosch · **Voleibol**: Xavier Folguera
+  Sendra · **Karate**: Xavier Herver Merino · **Petanca**: Patrick
+  Senzier Maslo · **Special Olympics**: Jordi Mora Pifarré
+  ([font](../../../fonts/coa-membres.md)).
+  **Divergència registrada, no arbitrada, sobre el recompte mateix**: la
+  taula d'aquesta fitxa parla de **vint-i-sis federacions, divuit
+  olímpiques**; la pàgina de membres del COA pel cicle 2024-2028 en
+  llista **trenta-tres** (vint-i-cinc olímpiques i vuit no olímpiques) —
+  **hi inclou l'Handbol**, que aquesta mateixa fitxa assenyalava com a
+  «contradicció registrada, no arbitrada» per no aparèixer-hi. **No
+  inclou explícitament la FADEA** amb aquest nom. El corpus no arbitra si
+  és un creixement real de la federació (2024-2028 respecte a l'any de la
+  taula original) o una llista construïda de manera diferent.
 - **Si el COA és el mateix òrgan que porta els Jocs dels Petits Estats.**
 
 ## Related

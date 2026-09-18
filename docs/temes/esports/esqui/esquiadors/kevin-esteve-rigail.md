@@ -60,7 +60,11 @@ Andorra.
   lesió.**
 - **Naixement: Andorra, 27 de desembre del 1989**, **180 cm i 80 kg.**
   **El camp `birth_place` diu «Andorra» i cap parròquia**: **quina parròquia.**
-- **El golf andorrà sencer**: federació, camps, quanta gent.
+- ~~**El golf andorrà sencer**: federació, camps, quanta gent.~~ —
+  **`parcial` el 18-09-2026**: **Federació de Golf d'Andorra**,
+  representada al COA (2024-2028) per **Gabriel Guerrero Ruiz**
+  ([font](../../../../fonts/coa-membres.md)). **Camps i nombre de
+  federats segueixen sense documentar-se.**
 
 ## Related
 

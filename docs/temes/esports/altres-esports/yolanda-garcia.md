@@ -84,8 +84,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   del Món de taekwondo del 1995** i **OR al Campionat d'Europa del 1994.**
 - ~~**La resta del seu palmarès.**~~ — **`parcial` des del 2026-09-13**: el
   medaller de dalt, tret de l'infobox del bolcat que el corpus ja tenia.
-- **El taekwondo andorrà**: federació, clubs, des de quan. **Buit prioritari**,
-  i ara ja és el segon cop que surt.
+- ~~**El taekwondo andorrà**: federació, clubs, des de quan.~~ — **`parcial`
+  el 18-09-2026**: la federació existeix, **Federació Andorrana de
+  Taekwondo**, representada al COA (2024-2028) per **Oscar Rufas Pros**
+  ([font](../../../fonts/coa-membres.md)). **Clubs i any de fundació
+  segueixen sense documentar-se.**
 
 ## Related
 

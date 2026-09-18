@@ -74,8 +74,12 @@ d'Andorra.
   Yamaha Racing Team.**
   **El bolcat arriba al 2026: sí que segueix competint.**
   **Nascut a Andorra la Vella el 15 de maig del 1998.**
-- **El motociclisme i l'automobilisme andorrans**: federació, llicències,
-  proves.
+- ~~**El motociclisme i l'automobilisme andorrans**: federació,
+  llicències, proves.~~ — **`parcial` el 18-09-2026**: dues federacions
+  separades al COA (2024-2028) — **Federació Motociclista d'Andorra**:
+  Joan Espineta Sala · **Automòbil Club d'Andorra**: Ventura Espot Benazet
+  ([font](../../../fonts/coa-membres.md)). **Llicències i proves segueixen
+  sense documentar-se.**
 
 ## Related
 

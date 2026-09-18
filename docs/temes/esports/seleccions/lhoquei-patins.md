@@ -92,10 +92,16 @@ Moçambic per 4-3.**
 - **Els jugadors.** **El corpus en té quatre noms** —Gerard Miquel, Bernat
   Picanyol, Pau Palacín i Nil Castellví— **i els té perquè estaven lesionats.**
   **Cap fitxa de cap.** **L'entrenador es diu Borja López.**
-- **La Federació Andorrana de Patinatge**, que la font esmenta i el corpus no
-  té. **És també la federació de
+- ~~**La Federació Andorrana de Patinatge**, que la font esmenta i el
+  corpus no té.~~ — **`parcial` el 18-09-2026, i amb una discrepància
+  registrada**: el COA (2024-2028) hi llista **«Federació Andorrana de
+  Patinatge (Skateboarding)»**, representant **Mari Carmen Santamara
+  Angrill** ([font](../../../fonts/coa-membres.md)) — **etiquetada com a
+  skateboarding, no com a hoquei ni patinatge artístic**. **No arbitrat si
+  és la mateixa federació que la de
   [Melissandre Fuentes](../altres-esports/melissandre-fuentes.md) i
-  [Marc Casal](../altres-esports/marc-casal.md)?** **Sense comprovar.**
+  [Marc Casal](../altres-esports/marc-casal.md)** amb seccions diferents,
+  o si el COA hi etiqueta malament una federació multidisciplinària.
 - **Què va passar del 2010 al 2018.**
 - **Si hi ha lliga andorrana d'hoquei patins.**
 

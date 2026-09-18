@@ -97,7 +97,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - **El seu palmarès europeu i mundial** — **`obert`, confirmat** —, i ~~els Jocs
   dels Petits Estats~~ — **`resolt` el 2026-09-13**: **or a Luxemburg 2013, en
   -73 kg** (medaller de dalt).
-- **La Federació Andorrana de Judo.**
+- ~~**La Federació Andorrana de Judo.**~~ — **`parcial` el 18-09-2026**: al
+  COA (2024-2028) hi consta com a **Federació de Judo i Ju-jitsu**,
+  representada per **Marc Bernadó Escarre**
+  ([font](../../../fonts/coa-membres.md)). **Clubs i any de fundació
+  segueixen sense documentar-se.**
 
 ## Related
 

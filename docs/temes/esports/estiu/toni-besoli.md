@@ -77,7 +77,11 @@ aquest. **No és una anècdota: és l'escala.**
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
-- **El judo andorrà**: federació, clubs, quanta gent.
+- ~~**El judo andorrà**: federació, clubs, quanta gent.~~ — **`parcial` el
+  18-09-2026**: **Federació de Judo i Ju-jitsu**, representada al COA
+  (2024-2028) per **Marc Bernadó Escarre**
+  ([font](../../../fonts/coa-membres.md)). **Clubs i nombre de federats
+  segueixen sense documentar-se.**
 
 ## Related
 

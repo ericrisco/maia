@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **361** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **362** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1786,6 +1786,7 @@
 | [`checkeredflag-llovera-2024`](fonts/checkeredflag-llovera-2024.md) | The Checkered Flag | desconeguda, ús informatiu | False |
 | [`coa-ad-web`](fonts/coa-ad-web.md) | Comitè Olímpic Andorrà (COA) | pàgina institucional pública | pendent |
 | [`coa-jocs-mediterrani`](fonts/coa-jocs-mediterrani.md) | Comitè Olímpic Andorrà | desconeguda, ús informatiu | False |
+| [`coa-membres`](fonts/coa-membres.md) | Comitè Olímpic Andorrà (COA) | pàgina institucional pública | pendent |
 | [`coma-ad-institucional`](fonts/coma-ad-institucional.md) | Col·legi Oficial de Metges d'Andorra (COMA) | publicació institucional, sense llicència declarada | pendent |
 | [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
 | [`comu-encamp-carnaval-2026`](fonts/comu-encamp-carnaval-2026.md) | Comú d'Encamp, Comunicació Encamp | Drets reservats; document institucional | False |

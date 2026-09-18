@@ -88,8 +88,14 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   [2014](./els-dotze-del-triple-de-galera-del-2014.md) i el
   [2024](./els-dotze-campions-del-2024.md).** En bàsquet queda oberta la
   resta del detall de les edicions no guanyades.
-- **Les federacions**: de basquetbol, d'esports de gel, de rugbi i de tennis.
-  **Cap fitxa de cap.**
+- ~~**Les federacions**: de basquetbol, d'esports de gel, de rugbi i de
+  tennis.~~ — **`parcial` el 18-09-2026**: representants actuals al COA
+  (2024-2028) — **Basquetbol**: Joaquim Tomàs Baldrich · **Esports de
+  Gel**: Josep Antoni Garcia Gonzalez · **Rugbi**: David Ferré Bonet ·
+  **Tennis**: Manel Blasi Marsan
+  ([font](../../../fonts/coa-membres.md)). **Cap fitxa pròpia de cap
+  federació encara** —any de fundació, clubs i mida segueixen sense
+  documentar-se.
 - ~~**Les altres seleccions** de les vint-i-tres que Andorra declara.~~
   **`parcial` el 2026-09-18: ja estan llistades**, a
   [els altres Jocs](../competicio/els-altres-jocs.md) — **vint-i-set entrades

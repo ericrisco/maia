@@ -76,8 +76,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - **Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
   té el nom i la posició**. **No hi ha entrada d'enciclopèdia.** **Buit
   registrat.**
-- ~~**La federació andorrana de tir.** ~~— **`obert`, confirmat, i és un buit de
-  branca**: **el corpus no té fitxa de cap federació esportiva andorrana.**
+- ~~**La federació andorrana de tir.**~~ — **`parcial` el 18-09-2026**: el
+  representant actual al COA (2024-2028) és **Marc Otero Rodriguez**
+  ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
+  segueixen sense documentar-se.**
 
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Esther_Barrugués.wiki`](../../../raw/web/esport/atletes/Esther_Barrugués.wiki)).

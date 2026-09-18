@@ -92,7 +92,10 @@ que el corpus ha trobat mai.**
 - **Si Andorra té equip femení** de Copa Billie Jean King. **La cerca va tornar
   buida** ([material en brut](../../../raw/web/esport/estructura/README.md)):
   **o no en té, o no en té article.**
-- **La Federació Andorrana de Tennis.**
+- ~~**La Federació Andorrana de Tennis.**~~ — **`parcial` el 18-09-2026**:
+  el representant actual al COA (2024-2028) és **Manel Blasi Marsan**
+  ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
+  segueixen sense documentar-se.**
 - **L'Open ATP d'Andorra**, que el corpus ja tenia registrat com a buit.
 
 ## Related

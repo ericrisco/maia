@@ -68,9 +68,12 @@ andorrans** precisament per ell.
   **Va guanyar el primer combat sense pujar al ring i va perdre el segon per
   aturada arbitral.** **Categoria: semipesant. Tenia 20 anys. 1,85 m i 80 kg.**
   **El `birth_place` del bolcat és buit**: **el buit del lloc és de font.**
-- ~~**La boxa a Andorra**: hi ha federació? Hi ha hagut més boxejadors?~~ —
-  **`obert`, confirmat**, i **el corpus hi pot afegir que és l'únic boxejador
-  olímpic andorrà que documenta.**
+- ~~**La boxa a Andorra**: hi ha federació?~~ — **`parcial` el
+  18-09-2026**: sí, **Federació Andorrana de Boxa**, representada al COA
+  (2024-2028) per **Bruno Modesto De Oliveira**
+  ([font](../../../fonts/coa-membres.md)). **Hi ha hagut més boxejadors?
+  segueix obert, confirmat**, i **el corpus hi pot afegir que és l'únic
+  boxejador olímpic andorrà que documenta.**
 - ~~**El seu segon cognom, Delneufcourt**, és clarament francès i **el corpus no
   en sap res**.~~ — **`obert`, confirmat**: **el bolcat el repeteix al nom complet
   i no l'explica.**
