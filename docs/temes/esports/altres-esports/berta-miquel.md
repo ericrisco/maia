@@ -73,8 +73,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
 ## El que falta
 
-- **Els seus resultats posteriors al 2022.** — **`parcial` des del
-  2026-09-13**: el medaller de dalt en dona els que la font recull.
+- ~~**Els seus resultats posteriors al 2022.**~~ — **`resolt` el 18-09-2026**:
+  la taula següent ja els dona fins al 2026; aquesta declaració `parcial` era
+  un duplicat obsolet.
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Berta_Miquel.wiki`](../../../raw/web/esport/atletes/Berta_Miquel.wiki)).
 
