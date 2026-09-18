@@ -72,9 +72,12 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
 
 ## Buits registrats
 
-- **Norma intermèdia llegida el 13-09-2026:** el Decret del 16-12-2020 ja té
+- ~~**Norma intermèdia llegida el 13-09-2026:** el Decret del 16-12-2020 ja té
   [lectura i evidència directa](lajut-per-la-feina-que-no-havia-comencat.md).
-  Queda pendent reconstruir la resta de la seqüència d'excepcions sanitàries.
+  Queda pendent reconstruir la resta de la seqüència d'excepcions sanitàries.~~ —
+  **`parcial` el 19-09-2026**: el decret intermedi ja està llegit i documentat
+  amb el seu article 26 bis; continua oberta la reconstrucció de les altres
+  normes excepcionals de la seqüència.
 - **Aplicació temporal pendent:** el límit del 30-06-2021 és el que diu
   l'article 3. No s'ha verificat una eventual decisió anterior de deixar-lo
   sense efecte ni la normativa posterior. No s'afirma una durada efectiva
