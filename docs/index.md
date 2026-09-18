@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **245** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **246** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1806,6 +1806,7 @@
 | [`llei-creacio-cambra-comerc-1993`](fonts/llei-creacio-cambra-comerc-1993.md) | Consell General | text legal, domini públic | si |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | Maria Jesús Lluelles Larrosa · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
+| [`lluelles-transformacio-economica-andorra-1991`](fonts/lluelles-transformacio-economica-andorra-1991.md) | M. Jesús Lluelles i Larrosa, geògrafa | pendent, llibre no consultat directament | pendent |
 | [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | Pere López i Agràs · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`margarit-escenari-escolar-2017`](fonts/margarit-escenari-escolar-2017.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports · Servei de Política Lingüística (edició) i Estel Margarit i Viñals (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`margarit-monne-joves-i-llengues-2010`](fonts/margarit-monne-joves-i-llengues-2010.md) | Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Política Lingüística (edició) i Estel Margarit i Viñals i Alexandra Monné i Bellmunt (textos) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |

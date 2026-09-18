@@ -125,8 +125,12 @@ agronòmiques** i marca **el judici** com a seu.
 3. **Qui** va gestionar el racionament i com es controlava.
 4. **Quants refugiats** hi havia a Andorra el 1937.
 5. **Què va passar el 1938-1939** i com enllaça amb la Segona Guerra Mundial.
-6. **Maria Jesús Lluelles**, *La transformació econòmica d'Andorra* — **font
-   citada i no consultada**.
+6. ~~**Maria Jesús Lluelles**, *La transformació econòmica d'Andorra* —
+   **font citada i no consultada**.~~ — **`parcial` el 18-09-2026**:
+   identificada — **M. Jesús Lluelles i Larrosa**, geògrafa; el llibre és de
+   **Barcelona, L'Avenç, 1991, Col·lecció Clio núm. 11**
+   ([font](../../../fonts/lluelles-transformacio-economica-andorra-1991.md)).
+   **El text del llibre segueix sense consultar-se.**
 
 ## Related
 
