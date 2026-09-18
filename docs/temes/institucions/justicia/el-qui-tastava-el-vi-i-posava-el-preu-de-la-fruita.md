@@ -291,8 +291,8 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
 
    `Requereix saber si és el mateix que els vehedors de les visures; això
    segueix obert.`
-4. **Quan van desaparèixer els *pregoners***. **La font ho constata i no ho
-   data.** — **`parcial` el 17-09-2026, amb una fita per baix.** **Els [llibres
+4. ~~**Quan van desaparèixer els *pregoners***. **La font ho constata i no ho
+   data.**~~ — **`parcial` el 17-09-2026, amb una fita per baix.** **Els [llibres
    d'actes del Consell General](../../../fonts/actes-historiques-consell-general.md)
    el documenten viu el 23 de març de 1775**: l'edicte contra la gent vaga mana
    que es publiqui i es fixi un exemplar a cada parròquia, i **encarrega al
