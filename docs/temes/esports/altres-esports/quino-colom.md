@@ -38,19 +38,15 @@ tags: [esports, basquet, clubs]
 **I un guardó:** **millor sisè home de la VTB United League la temporada
 2015-16**, anunciat el 18 de maig del 2016.
 
-## El bàsquet andorrà, que és un buit sencer
+## El bàsquet andorrà
 
 **El BC Andorra —on es va formar Colom— és el club que porta el nom del país a
-la lliga espanyola.**
-
-**El corpus no en té ni una línia.**
+la lliga espanyola.** ~~El corpus no en té ni una línia.~~ — **`resolt` el
+18-09-2026**: **ara sí, a [el BC Andorra](./bc-andorra.md).**
 
 I **la llista d'equips nacionals d'Andorra** en té **sis de bàsquet** —masculí,
 sub-18, sub-16, femení, femení sub-18, femení sub-16— **més dos de 3x3**
 ([els altres Jocs](../competicio/els-altres-jocs.md)).
-
-**Vuit seleccions de bàsquet i cap fitxa.** **Buit prioritari**, i és el segon
-esport del país després de l'esquí per volum d'estructura.
 
 ## El medaller, tal com el dona la font
 
