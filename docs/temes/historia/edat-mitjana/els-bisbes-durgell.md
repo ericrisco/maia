@@ -179,8 +179,13 @@ segle XX** quan es planifiquen instituts «un per vall»
 
 1. **Continuació de l'episcopologi**: el corpus té ara **el segle XV sencer** i
    **Andreu Capella**. **Falten el XII-XIV i el XVII-XXI.**
-2. **La butlla de Silvestre II de 1001**, al **Museu diocesà** — **font primària
-   localitzada i no consultada**.
+2. ~~**La butlla de Silvestre II de 1001**, al **Museu diocesà** — **font primària
+   localitzada i no consultada**.~~ — **`parcial` el 19-09-2026**: la fitxa de
+   restauració del **Centre de Restauració de Béns Mobles de Catalunya** confirma
+   que és un privilegi de Silvestre II al bisbe Sal·la, escrit en llatí sobre
+   papir el 1001, procedent de l'Arxiu Capitular d'Urgell i exposat al Museu
+   Diocesà ([fitxa de font](../../../fonts/crbmc-butlla-silvestre-ii-1001.md)).
+   **La lectura diplomàtica del text original continua oberta.**
 3. **L'acta de consagració de Sant Cerni de Nagol**, 1055.
 4. **La donació de Borrell II a Guissad II** — quins béns i drets, i quin any.
 5. **El Pont de Bar** i la mort de Sant Ermengol.
