@@ -87,6 +87,15 @@ històric d'[Albert Villaró](../../persones/albert-villaro.md)**
 del diari en si segueix sense llegir-se.** És **el testimoni extern més antic
 amb nom i data** que té identificat.
 
+**Ampliat el 18-09-2026**: la bibliografia de l'estudi de l'IEA sobre
+historiografia andorrana cita una edició **trenta-un anys anterior**:
+**Ramon Boixareu, *Diario de los viajes hechos en Cataluña de Francisco
+de Zamora*, Barcelona, Ariel, 1973**
+([font](../../historia/historiografia/les-tres-fases.md)). **No verificat si cobreix
+Andorra** —el títol parla de Catalunya en general— **ni si és la font de
+la qual el 2004 n'extreu la part andorrana.** `DIVERGÈNCIA REGISTRADA, NO
+ARBITRADA.`
+
 ## El pare Tomàs Junoy
 
 | | |

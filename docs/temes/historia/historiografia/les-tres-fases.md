@@ -288,10 +288,46 @@ sabia.**
   tesi pròpia, no és només bibliografia**: corregeix el compte anterior
   de «pròleg de prosa només tres».
 
-  **El que segueix obert**: **la prosa dels capítols 4, 6, 7, 8, 9 i
-  10**, si és que n'hi ha al PDF i l'OCR l'ha perduda. `Requereix el PDF,
-  no el text extret:`
-  [`raw/academic/historiografia/`](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.pdf).
+  ~~**El que segueix obert**: **la prosa dels capítols 4, 6, 7, 8, 9 i
+  10**, si és que n'hi ha al PDF i l'OCR l'ha perduda.~~ — **`resolt` el
+  18-09-2026**: **sí que n'hi ha, a tots**. Rellegits a ull sobre la
+  pàgina renderitzada, **cada capítol comprovat obre amb un o més
+  paràgrafs de prosa analítica pròpia** abans de la bibliografia —no
+  només els tres que el primer pas hi va trobar. Verificats sencers:
+
+  - **Capítol 4, Protohistòria i romanització** (p. 26): «la veritable
+    època fosca de la història d'Andorra», amb el balanç de què falta
+    per investigar-la (jaciments urbans, toponímia, paleoambient).
+  - **Capítol 6, Edat moderna** (p. 40): la relació amb les monarquies
+    veïnes, el concepte de *Valls neutres*, i **la font del tribunal de
+    Corts com «un material d'una extraordinària qualitat»** per a la
+    història social.
+  - **Capítol 7, El segle XIX** (p. 46): el segle «preludi del canvi»,
+    amb un buit assenyalat explícitament per l'autora —**el paper de les
+    grans famílies andorranes, «encara una ombra» per manca d'accés a
+    documentació privada.**
+  - **Capítol 8, L'Andorra contemporània** (p. 52): el segle «de la
+    gran transformació», amb la mateixa queixa metodològica que el
+    capítol 7 —manquen relats globals, no estudis sectorials.
+  - **Capítol 9, Altres estudis** (p. 62): un paràgraf pont cap a
+    disciplines frontereres (geografia, lingüística, economia,
+    sociologia, història de l'art), després subdividit per matèria.
+
+  **Capítol 5** (edat mitjana, p. 30) i **capítol 10** (política i
+  institucions, p. 74) tenen obertura de prosa confirmada per l'extracció
+  de text mateixa, no rellegida a ull encara.
+
+  **Troballa lateral, i important**: **la bibliografia del capítol 6
+  cita una edició del diari de viatge de Francisco de Zamora de
+  1973** —**Ramon Boixareu, *Diario de los viajes hechos en Cataluña de
+  Francisco de Zamora*, Barcelona, Ariel, 1973**—, **trenta-un anys
+  abans** de l'edició del 2004 (Govern d'Andorra, Albert Villaró) que el
+  corpus tenia registrada com la referència
+  ([els descobridors](../../cultura/andorra-vista-de-fora/els-descobridors.md)).
+  **No verificat si és la mateixa obra o una prèvia diferent**: el títol
+  cobreix «els viatges a Catalunya» en general, i podria ser una edició
+  més àmplia de la qual el 2004 n'extreu només la part andorrana.
+  `DIVERGÈNCIA REGISTRADA, NO ARBITRADA.`
 - ~~**Albert Villaró**: **qui és.** **El corpus no en té fitxa.**~~ —
   **`resolt` el 18-09-2026**: **ara en té**, a
   [persones/albert-villaró](../../persones/albert-villaro.md) —
