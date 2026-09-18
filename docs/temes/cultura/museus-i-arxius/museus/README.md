@@ -197,6 +197,14 @@ visitants** (+17,7%), més que a tots els museus junts.
   (1995)— **i els seus catàlegs**, que serien font primària.
 - **L'exposició permanent del Santuari de Meritxell del 1994**, que la font
   qualifica de **«càrrega ideològica i social molt important»**.
+- **Per què cau la visita als museus, confirmat per segona via i encara sense
+  explicar.** **Afegit el 18-09-2026.** **L'enquesta d'hàbits culturals diu que
+  el 63,8% dels andorrans havien visitat un museu el 2019 i el 54,5% el 2024**,
+  **−9,3 punts**, i **la caiguda és gairebé tota dels majors de 65 anys**
+  (55,2% → 38,2%) i dels de 15 a 29 (72,5% → 58,6%)
+  ([cinc anys, i el cinema és l'única cosa que puja](../../cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md)).
+  **La taquilla i l'enquesta coincideixen**: **no és que vinguin menys turistes,
+  és que hi va menys gent.** `Per què, cap de les dues fonts no ho diu.`
 
 ## Related
 

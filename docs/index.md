@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1026** documents · **210** fonts · **39** aptes com a model de llengua · **124** temes amb contingut.
+**1027** documents · **210** fonts · **39** aptes com a model de llengua · **125** temes amb contingut.
 
 ## parla/oral
 
@@ -120,6 +120,12 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Les escudelles de Sant Antoni](temes/costums/sant-antoni/escudelles-de-sant-antoni.md) | `temes/costums/sant-antoni` | compilada | contemporania | no | `premsa-andorrana` |
+
+## temes/cultura
+
+| Document | Tema | Veu | Època | Apte | Font |
+| --- | --- | --- | --- | --- | --- |
+| [Cinc anys, i el cinema és l'única cosa que puja](temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md) | `temes/cultura` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/cultura/andorra-vista-de-fora
 
