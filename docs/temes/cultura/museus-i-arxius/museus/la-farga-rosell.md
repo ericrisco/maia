@@ -61,7 +61,13 @@ i no tenia ni les deu fargues, ni les cinc mines de carbó, ni aquesta ruta.**
 - **Les altres nou fargues** i **les cinc mines de carbó**: on eren i com es
   deien.
 - **Quina era l'altra de les dues últimes fargues actives.**
-- **La mina de Llorts** i **la collada dels Meners**: cap fitxa de cap.
+- ~~**La mina de Llorts** i **la collada dels Meners**: cap fitxa de cap.~~ —
+  **`parcial` el 18-09-2026**: **la mina de Llorts**, del segle XIX, **només
+  va estar activa quatre anys** per manca de mineral, amb una galeria de 30
+  metres conservada; treballava amb **la mina de Sedornet i els meners de
+  Ransol** ([font](../../../../fonts/museusad-mina-de-llorts.md)). **«La
+  collada dels Meners» no consta amb aquest nom exacte a la font** —podria
+  ser el mateix indret que «els meners de Ransol», sense arbitrar-ho.
 - **Qui eren els Rosell.**
 
 ## Related

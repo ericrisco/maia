@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1078** documents · **320** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1078** documents · **321** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1894,6 +1894,7 @@
 | [`montane-bastida-terminologia-2019`](fonts/montane-bastida-terminologia-2019.md) | M. Amor Montané March i Carolina Bastida Serra (textos) · Govern d'Andorra, Ministeri de Cultura, Joventut i Esports, Servei de Política Lingüística (edició) | drets reservats; copyright de les autores i de l'edició, cap llicència oberta | no |
 | [`museu-thyssen-talents-rigalt-puigdengolas`](fonts/museu-thyssen-talents-rigalt-puigdengolas.md) | Museu Carmen Thyssen Andorra · Crèdit Andorrà | pàgina institucional del museu; citació breu de la informació pública | no per al catàleg; extracte web conservat a docs/raw/web/cultura/ |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
+| [`museusad-mina-de-llorts`](fonts/museusad-mina-de-llorts.md) | Museus d'Andorra (Govern d'Andorra) | publicació institucional, sense llicència declarada | pendent |
 | [`naiara-linan-altaveu-consolidacio`](fonts/naiara-linan-altaveu-consolidacio.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
 | [`naiara-linan-munic-quarta`](fonts/naiara-linan-munic-quarta.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
 | [`naiara-linan-tallinn-bronze`](fonts/naiara-linan-tallinn-bronze.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
