@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1036** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1037** documents · **211** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -18,6 +18,7 @@
 | [També sóc campaner](parla/oral/les-campanes-robert-lizarte.md) | `parla/oral` | originaria | contemporania | sí | `ari-capsules` |
 | [L'arbre fallaire](parla/oral/les-falles-albert-roig.md) | `parla/oral` | originaria | contemporania | sí | `ari-capsules` |
 | [La mola de casa, deien tots](parla/oral/les-moles-de-farina.md) | `parla/oral` | originaria | contemporania | sí | `ari-capsules` |
+| [Qui eren els constituents](parla/oral/qui-eren-els-constituents.md) | `parla/oral` | compilada | contemporania | no | `actes-historiques-consell-general` |
 | [Has donat la teua paraula](parla/oral/testimoni-constituent-adellach.md) | `parla/oral` | originaria | contemporania | sí | `consell-general-constituent` |
 | [Sempre hi ha sigut](parla/oral/testimoni-constituent-aleix.md) | `parla/oral` | originaria | contemporania | sí | `consell-general-constituent` |
 | [Miquel Aleix Areny](parla/oral/testimoni-constituent-aleixareny.md) | `parla/oral` | originaria | contemporania | sí | `consell-general-constituent` |
