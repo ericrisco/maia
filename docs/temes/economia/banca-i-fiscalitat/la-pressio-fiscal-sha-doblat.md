@@ -170,10 +170,32 @@ per un de menys recaptador en proporció al PIB durant els primers anys.**
   `El que segueix sense comprovar-se són les dates d'entrada en vigor i els
   primers períodes impositius, que són a les disposicions finals de cada
   llei.`
-- **Les columnes del 2022 i del 2023 de la taula COFOG són idèntiques valor a
+- ~~**Les columnes del 2022 i del 2023 de la taula COFOG són idèntiques valor a
   valor**, cèntims inclosos. **És el 2022 repetit**, i **el corpus no cita el
-  2023 d'aquesta taula.** **Defecte de la font**, registrat a
-  `docs/raw/estadistica-api/fiscalitat/README.md`.
+  2023 d'aquesta taula.**~~ — **`resolt` el 18-09-2026: és un error de
+  publicació d'aquesta taula, i hi ha una segona taula que ho demostra.**
+
+  **El Departament d'Estadística publica la despesa per funcions dues vegades**:
+  **a l'agregat COFOG del govern general** —la taula d'aquesta fitxa— **i a
+  taules de funció, que són d'un univers més petit i tenen el seu propi
+  identificador** (`docs/raw/estadistica-api/salut-cultura-medi/`).
+
+  | Font | 2022 | 2023 | |
+  | --- | ---: | ---: | --- |
+  | **COFOG agregat, funció 707 Salut** | **233.812.427,06** | **233.812.427,06** | **idèntics** |
+  | **Despesa pública en salut (COFOG)** | 180.505.661,37 | **194.307.774,39** | **+7,6%** |
+  | **Despesa pública en protecció del medi ambient (COFOG)** | 33.676.250,40 | **36.655.310,85** | **+8,8%** |
+
+  **Les taules de funció sí que distingeixen el 2022 del 2023**, i **ho fan amb
+  creixements de vora vuit punts.** **Per tant el 2023 de l'agregat no és una
+  coincidència: és la columna del 2022 repetida.**
+
+  **Què canvia això per a aquesta fitxa.** **Res del que hi diu**, perquè
+  **aquesta fitxa ja no citava el 2023 de l'agregat** i comparava 2018 amb 2024.
+  **El que hi guanya és el motiu escrit i la prova.** `Els dos universos no són
+  el mateix —l'agregat consolidat dona 233,8 M€ de salut el 2022 i la taula de
+  funció 180,5— i per tant les xifres no es poden barrejar; el que serveix és el
+  signe, i el signe diu que hi va haver creixement.`
 - **La correspondència entre la nomenclatura SEC** —`D211 Taxes tipus IVA`— **i
   els impostos andorrans** —IGI, IMI, IAC— **no s'ha comprovat contra les lleis
   fiscals.** La taula 2887 la proposa en subfiles i **el corpus no l'ha
