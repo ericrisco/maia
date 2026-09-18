@@ -267,7 +267,8 @@ cos per intern.**
 
 ## Quines infraccions es resolen i quines no
 
-> **Divisions 1816 i 1821** de l'API, bolcades el 18-09-2026: **infraccions
+> **Divisions 1816 i 1821** de l'API
+> (`docs/raw/estadistica-api/resta-del-cataleg/`), llegides el 18-09-2026: **infraccions
 > denunciades i resoltes per article del Codi penal, 2007-2025**, **454 files de
 > jerarquia** cadascuna. **És la mateixa font de les xifres del títol** —2.255
 > delictes i 1.754 contravencions el 2025— **desglossada article per article.**
@@ -353,18 +354,19 @@ existeixen.**
   pràctica o de recompte: **la font no ho diu**, i **el corpus té la llei de
   jurisdicció de menors sense llegir.** `pregunta_oberta`
 - ~~**Les taules «per article» del Codi penal existeixen i no s'han
-  destil·lat.**~~ **`resolt` el 18-09-2026**: bolcades les divisions **1816,
-  1817, 1818, 1821 i 1840** a
-  `docs/raw/estadistica-api/infraccions-per-article/`, **118.066 valors**, i
-  creuades a [la taxa de resolució per article](#quines-infraccions-es-resolen-i-quines-no).
+  destil·lat.**~~ **`resolt` el 18-09-2026**, i **amb una correcció del buit
+  mateix**: **deia que el bolcat les deixava fora, i no era veritat.** Les
+  divisions **1816, 1817, 1818, 1821 i 1840** **ja eren a
+  `docs/raw/estadistica-api/resta-del-cataleg/`** —**118.066 valors**— **des del
+  bolcat del catàleg sencer**. El que faltava no era baixar-les, era llegir-les:
+  [la taxa de resolució per article](#quines-infraccions-es-resolen-i-quines-no).
 - **No hi ha taxa per habitant** de cap d'aquestes sèries, i **la nacionalitat
   de detenció i la població per origen no es mesuren igual**, de manera que **el
   corpus no la calcula.** `font_externa`
 - ~~**La divisió 1840** —estupefaents, altres tipus, en grams per tipus— **fa
-  *timeout*** a l'API.~~ **`resolt` el 18-09-2026 amb un temps d'espera de 900
-  s**: **no era el servidor, era el client** (vegeu [les divisions
-  lentes](../../economia/comerc/amb-qui-comercia-andorra.md)). **I la taula que
-  no responia té 54 valors, dels quals 47 són zero**: **només el 2017 (9 g), el
+  *timeout*** a l'API.~~ **`resolt` el 18-09-2026**: **ni fa *timeout* ni falta**
+  —**és al bolcat del catàleg sencer**—, i **la taula que es donava per
+  impossible té 54 valors, dels quals 47 són zero**: **només el 2017 (9 g), el
   2018 (1 g) i el 2022 (2.690 g: 1.124 g de plantes i 1.566 g de cabdells de
   marihuana) hi ha res.** **Vuit anys de sèrie i un sol any amb quantitat.**
 - **Les condemnes no hi són.** Aquesta branca és policial: **denúncies,
