@@ -178,6 +178,88 @@ comparable amb les altres. El corpus les dona i avisa.`
 edat sí que és bona**, i **diu que el diferencial s'eixampla amb l'edat**:
 **70,2% als 25-34 anys, 62,4% als 55-64.**
 
+## El segon defecte, també provat
+
+> **Comprovat el 18-09-2026**, amb les divisions **778 i 779** recuperades
+> retallant la petició als desembres
+> (`docs/raw/estadistica-api/les-que-no-responien/`).
+
+**La divisió 779 —nombre d'assalariats per sector i sexe— té la columna de les
+dones desplaçada una fila**: **cada valor porta l'etiqueta del sector
+següent.**
+
+**La prova no és una impressió, és una suma.** **Sumats els divuit sectors, els
+homes donen 24.409 i el total publicat de la divisió 778 és 24.410**: quadra.
+**Les dones, tal com vénen etiquetades, donen 22.463 i el total publicat és
+22.595**: **en falten 132.** **I 132 és exactament el primer valor de la columna
+«sexe indeterminat»**, que és on ha anat a parar el darrer sector de les dones.
+**Desplaçant la columna una fila, la suma és 22.595 exacta.**
+
+**I el que en sortia sense corregir era impossible:**
+
+| Etiqueta de la font | Valor | **Sector real** |
+| --- | ---: | --- |
+| B-Pesca, dones | 48 | **A-Agricultura** |
+| D-Indústries manufactureres, dones | 0 | *(res: el 0 és de C-extractives)* |
+| E-Energia, dones | 618 | **D-Indústries manufactureres** |
+| F-Construcció, dones | 53 | **E-Energia** |
+| G-Comerç, dones | 463 | **F-Construcció** |
+| H-Hoteleria, dones | 4.795 | **G-Comerç** |
+
+**Quaranta-vuit dones pescant en un país sense mar, zero dones a la indústria
+manufacturera i més dones a l'hoteleria que a tot el comerç**: **tres
+impossibilitats que desapareixen totes alhora amb el mateix desplaçament.**
+
+**I el mateix passa a la divisió 783**, la dels salaris per sector i sexe: **el
+valor de 9.388,88 € que aquesta fitxa atribuïa a les dones de la construcció és
+el de les dones del sector energètic**, **on els homes en cobren 9.685**.
+**No era una mitjana d'una cel·la petita: era la cel·la del costat.**
+
+> **És el segon defecte del mateix tipus a la mateixa font.** El primer és [la
+> columna d'antiguitat copiada de la d'edat](#un-defecte-de-la-font-provat).
+> **Tots dos afecten la columna de les dones i cap no afecta la dels homes.**
+
+## Per sector, un cop corregit
+
+**Desembre del 2023**, amb la columna de les dones tornada al seu lloc:
+
+| Sector | Homes | Dones | **% dones** | Salari homes | Salari dones | **D/H** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Agricultura i ramaderia | 95 | 48 | 33,6% | 2.192 € | 2.075 € | **94,7%** |
+| Indústries manufactureres | 1.034 | 618 | 37,4% | 3.716 € | 2.957 € | 79,6% |
+| Energia, gas i aigua | 132 | 53 | 28,6% | 9.685 € | 8.035 € | 83,0% |
+| **Construcció** | **3.676** | **463** | **11,2%** | 3.042 € | 2.489 € | 81,8% |
+| Comerç | 4.964 | 4.795 | 49,1% | 2.797 € | 2.167 € | 77,5% |
+| Hoteleria | 3.442 | 3.161 | 47,9% | 1.911 € | 1.759 € | **92,1%** |
+| Transport i comunicacions | 1.019 | 478 | 31,9% | 3.486 € | 3.064 € | 87,9% |
+| **Sistema financer** | 808 | 895 | 52,6% | **6.139 €** | 3.831 € | **62,4%** |
+| Immobiliàries i serveis a empreses | 3.453 | 3.873 | 52,9% | 3.225 € | 2.360 € | 73,2% |
+| Administració pública | 2.161 | 2.608 | 54,7% | 5.610 € | 5.041 € | 89,9% |
+| Educació | 206 | 515 | 71,4% | 3.569 € | 3.667 € | **102,7%** |
+| Sanitat i serveis socials | 584 | 2.104 | 78,3% | 4.742 € | 3.685 € | 77,7% |
+| Altres serveis personals | 2.690 | 1.951 | 42,0% | 2.398 € | 1.904 € | 79,4% |
+| **Llars amb personal domèstic** | 96 | **892** | **90,3%** | 2.279 € | 1.835 € | 80,5% |
+| **Total** | **24.409** | **22.595** | **48,1%** | | | |
+
+**Tres coses hi són visibles alhora:**
+
+1. **La segregació és molt més forta que la bretxa salarial.** **El mercat de
+   treball andorrà és 48,1% femení en conjunt**, i **va del 11,2% de dones a la
+   construcció al 90,3% a les llars amb personal domèstic.** **Cap sector no
+   s'assembla al total.**
+2. **El pitjor sector per a la bretxa és el que millor paga.** **El sistema
+   financer paga 6.139 € als homes i 3.831 € a les dones: el 62,4%**, **la pitjor
+   relació del país**, i **hi ha més dones que homes al sector (52,6%)**. **On hi
+   ha més diners per repartir, se'n reparteixen pitjor.**
+3. **Els dos sectors on la relació passa del 90% són l'hoteleria (92,1%) i
+   l'educació (102,7%).** **El primer perquè tothom hi cobra poc; el segon
+   perquè és l'únic sector del país on la mitjana femenina és més alta que la
+   masculina.**
+
+`Les cel·les d'energia (132 homes, 53 dones) i d'organismes extraterritorials
+(4 i 9) són massa petites per citar-les soles, encara que ara estiguin ben
+alineades.` `no-es-buit`
+
 ## El que falta
 
 - ~~**Les hores treballades i el tipus de contracte per sexe**, sense els quals
@@ -187,18 +269,20 @@ edat sí que és bona**, i **diu que el diferencial s'eixampla amb l'edat**:
   **l'única retallada que el redueix de debò és el sector públic.**
 - **La sèrie mensual sencera**, que la font té des del juliol del 1966 i que
   aquest bolcat només porta en desembres.
-- **El salari mitjà per sector i sexe**, que el bolcat sí que porta, **però amb
-  cel·les molt petites**: el desembre del 2025 la construcció dona **9.388,88 €
-  de salari mitjà per a les dones**, que **amb poques assalariades al sector és
-  una mitjana que no es pot citar sola.** `Requereix el nombre d'assalariades
-  per sector per poder-la ponderar.` — **`parcial` el 18-09-2026**: **l'enquesta
-  de remuneracions dona el mateix tall amb cinc sectors agregats i xifres
-  plausibles** —la construcció hi dona **2.421 € per a les dones i 2.914 € per
-  als homes**—, **cosa que confirma que el 9.388,88 € de la sèrie de la CASS és
-  un artefacte de cel·la petita i no una dada.** **El nombre d'assalariades per
-  sector segueix sense publicar-se** (divisió 779, `502`).
+- ~~**El salari mitjà per sector i sexe**, que el bolcat sí que porta, **però
+  amb cel·les molt petites**.~~ **`resolt` el 18-09-2026, i amb una correcció
+  del corpus a si mateix**: **el 9.388,88 € de «construcció, dones» no és un
+  artefacte de cel·la petita** —això era una inferència d'aquesta fitxa i era
+  **falsa**— **sinó una columna desplaçada una fila.** Vegeu [El segon defecte,
+  també provat](#el-segon-defecte-tambe-provat) i [Per sector, un cop
+  corregit](#per-sector-un-cop-corregit). **La divisió 779 ja no dona `502`**:
+  respon retallant la petició als desembres.
 - **Dues divisions que l'API no va servir**: **402 i 411**, els creuaments de
-  massa salarial i salari mitjà per sector i edat, que van retornar `502`.
+  massa salarial i salari mitjà per sector i edat. **El 18-09-2026 s'ha provat
+  la regla de retall amb elles i no funciona**: **`500` senceres i `502`
+  retallades a desembres, a 1990, a 2000 i a 2010.** **Són, amb la 391, la 246 i
+  la 247, les cinc úniques divisions del catàleg que el corpus no pot obtenir de
+  cap manera.** `font_externa`
 - **Per què la relació cau set punts entre el 1970 i el 1975.**
 
 ## Related
