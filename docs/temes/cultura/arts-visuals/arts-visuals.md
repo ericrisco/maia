@@ -47,8 +47,16 @@ Bofill al damunt, basílica el 2014— n'és l'altre cas.
 ## El que hi ha i el corpus no té
 
 **La pintura mural romànica.** Andorra en conserva un conjunt de primer ordre, i
-el corpus **només té tres esglésies fitxades**
-([romànic](../arquitectura/romanic.md)) i **cap fitxa de pintura**.
+el corpus **té quatre esglésies fitxades de sis**
+([romànic](../arquitectura/romanic.md)) i **cap fitxa dedicada a la pintura
+en si**.
+
+**Una dada nova, des de** [Sant Miquel d'Engolasters](../arquitectura/sant-miquel-dengolasters.md):
+**les seves pintures romàniques —extretes el 1919-1923— són avui al Museu
+Nacional d'Art de Catalunya**, obra del **Mestre de Santa Coloma**, que
+també hauria fet les de Santa Coloma mateixa. **El patró és clar**: el
+patrimoni pictòric romànic andorrà **ha marxat cap als museus catalans**, i
+el corpus encara no ho ha documentat sistemàticament.
 
 Consta que hi ha **una tesi doctoral sobre la pintura mural romànica
 d'Andorra**, identificada des del principi d'aquest treball i **encara no

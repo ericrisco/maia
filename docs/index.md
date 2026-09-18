@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1074** documents · **315** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1075** documents · **316** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -148,6 +148,7 @@
 | [El romànic andorrà — índex](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Miquel d'Engolasters](temes/cultura/arquitectura/sant-miquel-dengolasters.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-miquel-dengolasters` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 
 ## temes/cultura/artesania
@@ -1802,6 +1803,7 @@
 | [`eltemps-ribas-reig-feudalisme`](fonts/eltemps-ribas-reig-feudalisme.md) | El Temps | premsa, drets reservats; citació breu | False |
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-politar-antoni-puig`](fonts/enciclopedia-cat-politar-antoni-puig.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
+| [`enciclopedia-cat-sant-miquel-dengolasters`](fonts/enciclopedia-cat-sant-miquel-dengolasters.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |

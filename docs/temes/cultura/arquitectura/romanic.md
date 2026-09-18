@@ -21,7 +21,7 @@ tags: [arquitectura, romanic, index, patrimoni]
 | **Sant Martí de la Cortinada** | Ordino | XI-XII | [fitxa](./sant-marti-de-la-cortinada.md) |
 | **Sant Romà de les Bons** | Encamp | XII | [fitxa](./sant-roma-de-les-bons.md) |
 | **Santa Coloma** | Andorra la Vella | — | **sense fitxa** |
-| **Sant Miquel d'Engolasters** | Escaldes-Engordany | — | **sense fitxa** |
+| **Sant Miquel d'Engolasters** | Escaldes-Engordany | XII | [fitxa](./sant-miquel-dengolasters.md) |
 | **Sant Serni de Canillo** | Canillo | — | **sense fitxa** |
 
 ## El que uneix les tres primeres
