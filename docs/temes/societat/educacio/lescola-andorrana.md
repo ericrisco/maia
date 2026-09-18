@@ -144,9 +144,62 @@ La font parteix d'una constatació que és **la dada més forta de la ponència*
 
 **Els dos 40% no són el mateix 40%**: el gràfic de llengües familiars inclou
 categories **mixtes** (català-castellà, català-castellà-portuguès,
-català-castellà-francès), i qui és bilingüe compta a les dues bandes. **El
-corpus no pot desglossar-ho: el gràfic és una imatge i l'OCR el destrueix.**
-**Buit registrat.**
+català-castellà-francès), i qui és bilingüe compta a les dues bandes.
+
+### El gràfic, desglossat el 18-09-2026
+
+**El gràfic és una imatge i l'OCR el destruïa. S'ha renderitzat la pàgina 78 i
+s'ha llegit.** Són **nou porcions** amb els seus percentatges impresos:
+
+| Llengua familiar | % |
+| --- | ---: |
+| **Català** | **52** |
+| **Castellà** | **28** |
+| **Català/Castellà** | **11** |
+| **Portuguès** | **4** |
+| Cat-Cast/Francès | 1 |
+| Cat-Cast/Portuguès | 1 |
+| Francès | 1 |
+| Altra | 1 |
+| Altres | 1 |
+| **Total** | **100** |
+
+**Com s'ha assignat cada porció a la seva categoria** —perquè el gràfic només
+imprimeix el percentatge, no el nom: **les porcions van en el sentit de les
+agulles del rellotge en l'ordre de la llegenda**, i **el text de la mateixa
+ponència les calibra totes dues:**
+
+- **«Quasi un 40% dels nostres alumnes no té el català com a llengua
+  familiar»** → **52 + 11 + 1 + 1 = 65 el tenen; 35 no.** ✓
+- **«El castellà, llengua familiar per a quasi un 40% de l'alumnat»** →
+  **28 + 11 + 1 + 1 = 41.** ✓
+- **«El francès […] representa la llengua familiar d'un percentatge mínim»** →
+  **1.** ✓
+
+**Les tres frases de la prosa quadren amb l'assignació, i les nou porcions sumen
+exactament 100.**
+
+**El que en surt, i que el corpus no tenia:**
+
+**Un.** **El català és llengua familiar única de poc més de la meitat de
+l'alumnat de l'Escola Andorrana**: **52%.**
+
+**Dos.** **El castellà sol —28%— és la segona llengua familiar, i és més del
+doble que el bilingüisme català-castellà declarat (11%).** **La casa on es
+parlen les dues llengües és molt menys freqüent que la casa on només se'n parla
+una.**
+
+**Tres.** **El portuguès sol (4%) quadruplica el francès sol (1%)** a les
+famílies de l'Escola Andorrana **l'any 2000**.
+
+**Quatre.** **Les tres categories mixtes juntes sumen 13%**: **el bilingüisme
+familiar declarat és minoritari en una escola que es proposa graduar els
+alumnes amb domini de tres llengües.**
+
+`Avís: això és l'alumnat de l'Escola Andorrana el juliol del 2000, no la
+infància andorrana. Aquell curs l'Escola Andorrana no era el sistema majoritari
+—vegeu [els tres sistemes](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)—
+i el perfil lingüístic de qui la tria no té per què ser el del país.`
 
 ### Les dues frases que descriuen Andorra sencera
 
@@ -261,9 +314,10 @@ són **85 alumnes**.
 
 ## Buits registrats
 
-- **El gràfic de llengües familiars (juliol del 2000)** desglossat. **Buit
-  prioritari**: és la millor radiografia lingüística de la infància andorrana
-  que el corpus ha vist nomenada.
+- ~~**El gràfic de llengües familiars (juliol del 2000)** desglossat.~~ —
+  **`resolt` el 18-09-2026**: **nou porcions, que sumen 100**, amb
+  **l'assignació calibrada contra les tres frases de la prosa**, vegeu
+  [El gràfic, desglossat](#el-grafic-desglossat-el-18-09-2026).
 - **El gràfic d'evolució de l'alumnat 1990-1999 per nivell.**
 - **El batxillerat artístic**: es va crear?
 - **L'escola andorrana d'Ordino** (prevista per al 2002-03) i el **tercer centre
