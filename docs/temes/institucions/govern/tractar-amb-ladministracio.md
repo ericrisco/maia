@@ -359,23 +359,25 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   **Capítol sisè, béns (articles 69 a 98), amb tres coses que valen per al
   país.**
 
-  - **Els béns de domini públic són inalienables, imprescriptibles i
-    inembargables** (article 79), i **la desafectació es pot produir sola**:
-    **vint anys sense fer-ne ús públic** i el bé passa al patrimoni privat de
-    l'ens (article 71.b). **A l'inrevés n'hi ha prou amb un any d'ús de fet**
-    (article 72.b). **El domini públic andorrà s'adquireix per la pràctica en un
-    any i es perd per l'oblit en vint.**
-  - **El domini públic no cobreix tothom**: **«les disposicions del present
-    capítol no són aplicables als béns pertanyents als Coprínceps o a
-    l'Església»** (article 69). **Dos patrimonis queden fora del règim general
-    de béns públics del país.**
-  - **Els béns comunals van al règim de domini públic sempre**, afectats o no
-    (article 98), **i l'ús privatiu n'és concessió administrativa de fins a
-    noranta-nou anys** —**el mateix sostre que per a qualsevol ocupació
-    privativa amb obres permanents** (article 97). **La permuta de territori
-    comunal per territori privat és possible amb taxació judicial, informació
-    pública i el límit que la diferència de valor no passi del cinquanta per
-    cent del bé més alt.**
+  **Els béns de domini públic són inalienables, imprescriptibles i
+  inembargables** (article 79), i **la desafectació es pot produir sola**:
+  **vint anys sense fer-ne ús públic** i el bé passa al patrimoni privat de
+  l'ens (article 71.b). **A l'inrevés n'hi ha prou amb un any d'ús de fet**
+  (article 72.b). **El domini públic andorrà s'adquireix per la pràctica en
+  un any i es perd per l'oblit en vint.**
+
+  **El domini públic no cobreix tothom**: **«les disposicions del present
+  capítol no són aplicables als béns pertanyents als Coprínceps o a
+  l'Església»** (article 69). **Dos patrimonis queden fora del règim general
+  de béns públics del país.**
+
+  **Els béns comunals van al règim de domini públic sempre**, afectats o no
+  (article 98), **i l'ús privatiu n'és concessió administrativa de fins a
+  noranta-nou anys** —**el mateix sostre que per a qualsevol ocupació
+  privativa amb obres permanents** (article 97). **La permuta de territori
+  comunal per territori privat és possible amb taxació judicial, informació
+  pública i el límit que la diferència de valor no passi del cinquanta per
+  cent del bé més alt.**
 
   **L'ús comú especial del domini públic té una regla de repartiment que val la
   pena retenir** (article 95): **les autoritzacions s'atorguen directament**;
@@ -422,44 +424,50 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   **Capítol tercer, l'acte administratiu (articles 27 a 55), que és el més llarg
   del codi i el que porta les regles que es toquen cada dia.**
 
-  - **La inacció pot ser il·legal** (article 32): **«la passivitat o la inacció
-    administrativa poden ésser constitutives d'il·legalitat i generar
-    responsabilitat administrativa»**, i **quan cap norma no fixa termini, la
-    inacció «no ha de prolongar-se més enllà d'un període raonable».**
-  - **La motivació és obligatòria en dos casos, no en un** (article 38): **quan
-    l'acte és desfavorable**, i **quan és favorable però s'aparta d'altres
-    decisions preses abans en supòsits semblants.** **Apartar-se del precedent
-    s'ha d'explicar encara que beneficiï.**
-  - **Hi ha actes administratius fets sense cap persona a dins** (article 31):
-    **l'actuació administrativa automatitzada és vàlida**, i **per cada
-    tipologia l'òrgan competent ha de determinar prèviament qui respon de «les
-    especificacions, la programació, el manteniment, la supervisió i el control
-    de qualitat i, si escau, l'auditoria del sistema d'informació i del seu codi
-    font»**, més **qui és l'autoritat impugnable.** **El codi font d'una
-    administració té, per llei, un responsable amb nom.**
-  - **La notificació mal feta atura el rellotge** (article 46.6): **«l'absència o
-    la irregularitat de la notificació suspenen els terminis de recurs».** **La
-    pot recollir qualsevol convivent de més de setze anys** (article 48.1), i
-    **si falla, es publica un avís al BOPA i s'obren vuit dies hàbils per
-    presentar-se; si no s'hi va, la notificació es té per feta.** **En
-    electrònic** (article 49.5), **quinze dies sense obrir-la valen com a refús**
-    —i **l'administrat pot triar fins a trenta dies naturals en què no se li
-    poden fer notificacions electròniques.**
-  - **Recórrer no atura res** (article 52): **«la interposició de qualsevol
-    recurs no suspendrà l'execució de l'acte impugnat»**, llevat que qui resol
-    suspengui per perjudici de difícil reparació o per nul·litat de ple dret.
-    **L'excepció és sancionadora** (article 53.2): **recorreguda en temps i
-    forma, la sanció no s'executa fins que és ferma.**
-  - **L'Administració pot executar ella mateixa o enviar-hi el saig**
-    (article 53.3), **i pot imposar multes coercitives, reiterades i separades
-    en el temps, compatibles amb la multa que sigui sanció** (article 54.3).
-    **La compulsió directa sobre les persones queda per a l'extrema urgència i
-    el perill greu.**
-  - **Són nuls de ple dret quatre actes** (article 50): els d'**òrgan
-    manifestament incompetent**, els de **contingut impossible o constitutiu
-    d'infracció penal**, els que **transgredeixen «d'una manera total i
-    absoluta» el procediment o les regles essencials de la voluntat dels òrgans
-    col·legials**, i els que **infringeixen la jerarquia normativa.**
+  **La inacció pot ser il·legal** (article 32): **«la passivitat o la
+  inacció administrativa poden ésser constitutives d'il·legalitat i generar
+  responsabilitat administrativa»**, i **quan cap norma no fixa termini, la
+  inacció «no ha de prolongar-se més enllà d'un període raonable».**
+
+  **La motivació és obligatòria en dos casos, no en un** (article 38):
+  **quan l'acte és desfavorable**, i **quan és favorable però s'aparta
+  d'altres decisions preses abans en supòsits semblants.** **Apartar-se del
+  precedent s'ha d'explicar encara que beneficiï.**
+
+  **Hi ha actes administratius fets sense cap persona a dins** (article 31):
+  **l'actuació administrativa automatitzada és vàlida**, i **per cada
+  tipologia l'òrgan competent ha de determinar prèviament qui respon de «les
+  especificacions, la programació, el manteniment, la supervisió i el
+  control de qualitat i, si escau, l'auditoria del sistema d'informació i
+  del seu codi font»**, més **qui és l'autoritat impugnable.** **El codi
+  font d'una administració té, per llei, un responsable amb nom.**
+
+  **La notificació mal feta atura el rellotge** (article 46.6):
+  **«l'absència o la irregularitat de la notificació suspenen els terminis
+  de recurs».** **La pot recollir qualsevol convivent de més de setze anys**
+  (article 48.1), i **si falla, es publica un avís al BOPA i s'obren vuit
+  dies hàbils per presentar-se; si no s'hi va, la notificació es té per
+  feta.** **En electrònic** (article 49.5), **quinze dies sense obrir-la
+  valen com a refús** —i **l'administrat pot triar fins a trenta dies
+  naturals en què no se li poden fer notificacions electròniques.**
+
+  **Recórrer no atura res** (article 52): **«la interposició de qualsevol
+  recurs no suspendrà l'execució de l'acte impugnat»**, llevat que qui resol
+  suspengui per perjudici de difícil reparació o per nul·litat de ple dret.
+  **L'excepció és sancionadora** (article 53.2): **recorreguda en temps i
+  forma, la sanció no s'executa fins que és ferma.**
+
+  **L'Administració pot executar ella mateixa o enviar-hi el saig** (article
+  53.3), **i pot imposar multes coercitives, reiterades i separades en el
+  temps, compatibles amb la multa que sigui sanció** (article 54.3). **La
+  compulsió directa sobre les persones queda per a l'extrema urgència i el
+  perill greu.**
+
+  **Són nuls de ple dret quatre actes** (article 50): els d'**òrgan
+  manifestament incompetent**, els de **contingut impossible o constitutiu
+  d'infracció penal**, els que **transgredeixen «d'una manera total i
+  absoluta» el procediment o les regles essencials de la voluntat dels
+  òrgans col·legials**, i els que **infringeixen la jerarquia normativa.**
 
   **Capítol novè, terminis (articles 137 a 139), tres regles curtes i
   operatives.** **Es compten des de l'endemà de la notificació o la publicació**;
