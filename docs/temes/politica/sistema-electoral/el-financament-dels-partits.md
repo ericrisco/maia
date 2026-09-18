@@ -258,10 +258,14 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
 
 ## Buits registrats
 
-1. **Quins partits hi ha.** Aquesta fitxa dona **les regles, no els subjectes**.
-   El buit prioritari de
+1. ~~**Quins partits hi ha.** Aquesta fitxa dona **les regles, no els
+   subjectes**.~~ — **`resolt` el 18-09-2026, era un bessó**: el buit
+   prioritari de
    [el parlamentarisme andorrà](../parlamentarisme/el-parlamentarisme-andorra.md)
-   **segueix obert**.
+   ja el resol —**DA i PS** a
+   [Els partits d'avui](../partits/els-partits-davui.md), la resta,
+   inclosos divuit partits difunts, a
+   [L'arbre dels partits](../partits/larbre-dels-partits.md).
 2. ~~**El Registre de partits polítics**: quants n'hi ha inscrits i des de
    quan.~~ — **`resolt` el 18-09-2026, i la resposta és que la font no ho
    publica i no està obligada a publicar-ho.** **El «des de quan» sí que se
