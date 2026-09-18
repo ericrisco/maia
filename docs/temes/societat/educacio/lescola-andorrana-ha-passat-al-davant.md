@@ -57,6 +57,34 @@ sol centre.**
 **I el sistema espanyol es recupera**: baixa fins al 2021/22 i puja els dos
 cursos següents fins a superar el màxim de la sèrie.
 
+## El pont que faltava, any a any
+
+La **divisió 253 de l'API d'Educació** permet omplir el tram que faltava. Els
+valors següents són la **suma de les sèries per nivell** de cada sistema; el
+període de l'API és l'any que correspon al curs que la fitxa descriu com
+`any/any+1` en els casos ja publicats.
+
+| Any | Andorrà | Francès | Espanyol | Anglès | Total |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 2007 | 3.911 | 3.549 | 3.390 | — | 10.850 |
+| 2008 | 4.002 | 3.468 | 3.326 | — | 10.796 |
+| 2009 | 4.122 | 3.430 | 3.285 | — | 10.837 |
+| 2010 | 4.157 | 3.402 | 3.243 | — | 10.802 |
+| 2011 | 4.205 | 3.351 | 3.217 | — | 10.773 |
+| 2012 | 4.234 | 3.350 | 3.146 | — | 10.730 |
+| 2013 | 4.298 | 3.423 | 3.116 | — | 10.837 |
+| 2014 | 4.358 | 3.546 | 3.082 | — | 10.986 |
+| 2015 | 4.327 | 3.593 | 3.093 | — | 11.013 |
+| 2016 | 4.333 | 3.604 | 3.081 | — | 11.018 |
+| 2017 | 4.472 | 3.601 | 2.969 | — | 11.042 |
+| 2018 | 4.522 | 3.581 | 2.868 | 41 | 11.012 |
+| 2019 | **4.529** | **3.525** | **2.840** | **85** | **10.979** |
+
+**L'andorrà ja és el primer sistema el 2007** —3.911 contra 3.549 francesos—,
+però el marge encara és petit; **el 2019 ja en té 1.004 més que el francès**.
+L'anglès entra a la sèrie el 2018. [El bolcat local de l'API](../../../raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv)
+conserva les files de nivell i sistema que s'han sumat.
+
 ## Un centre espanyol té el doble d'alumnes que un centre francès
 
 | Sistema | Centres | Alumnes | Alumnes per centre |
@@ -128,8 +156,9 @@ que el corpus té de demografia
 
 ## Buits registrats
 
-- **Els cursos entre el 2007 i el 2019/20.** El corpus té 1999-2000, 2007 i
-  2019-2024, i **entre el 2007 i el 2019 no té res**.
+- ~~**Els cursos entre el 2007 i el 2019/20.**~~ — **`resolt` el 18-09-2026**:
+  la divisió 253 de l'API d'Educació dona el pont anual complet **2007–2019**;
+  el darrer valor coincideix amb el **2019/20** ja publicat a la nota.
 - **La taula creuada de sistema per nacionalitat del 2023/24.** La nota dona les
   dues distribucions **per separat** i **no la creuada**, que és justament el
   que fa valuosa la taula de 1999-2000. `Sense ella no es pot dir quants
