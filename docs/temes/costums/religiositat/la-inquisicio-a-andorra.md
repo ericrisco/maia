@@ -269,12 +269,16 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
   documentar-se.**
 - ~~**Palau Martí, *Protestantisme i inquisició a l'Andorra del segle
   XVI*** (1990). **Font localitzada, editada pel Ministeri de Cultura
-  andorrà, no llegida.**~~ — **`parcial` el 18-09-2026**: és **Montserrat
-  Palau i Martí** (Barcelona 1916 — Sant Julià de Lòria 2004), etnòloga
-  doctorada per la Sorbona; **el títol exacte és *Protestantisme i
-  Inquisició a Andorra al segle XVI: problemes de competències i
-  conflictes jurisdiccionals*, editat pel Consell General, no pel
-  Ministeri de Cultura** — **divergència registrada, no arbitrada**
+  andorrà, no llegida.**~~ — **`parcial` el 18-09-2026, i era un buit
+  duplicat dins la mateixa fitxa**: **és Montserrat Palau Martí**, ja
+  identificada més amunt en aquest mateix article
+  (secció «La bibliografia que la font cita»), amb **fitxa biogràfica
+  pròpia i molt més completa a
+  [persones](../../persones/montserrat-palau-marti.md)** (Barcelona 1916 —
+  Sant Julià de Lòria 2004, etnòloga i africanista, doctorada per la
+  Sorbona). **Divergència registrada, no arbitrada**: aquesta fitxa diu
+  «Ministeri de Cultura, 1990», la fitxa de persones i la Viquipèdia en
+  català diuen **«Consell General, 1990» (ISBN 99920-1-141-6)**
   ([font](../../../fonts/wikipedia-ca-montserrat-palau-marti.md)). **El
   llibre segueix sense llegir-se.**
 - ~~**Gallinier-Pallerola, *La religion populaire en Andorre*** (1990).~~ —

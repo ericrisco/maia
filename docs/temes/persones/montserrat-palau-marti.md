@@ -110,7 +110,12 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
 - **Les catorze obres.** **Cap no és al corpus.**
 - **Quan va arribar a Andorra**, i per què. **Va morir a Sant Julià de Lòria.**
 - ***7 gats***, que la font esmenta sense dades d'edició.
-- **La Nit Literària Andorrana** i **l'AEPA**: cap fitxa de cap.
+- ~~**La Nit Literària Andorrana** i **l'AEPA**: cap fitxa de cap.~~ —
+  **`parcial` el 18-09-2026**: **l'AEPA es funda el 1995**, amb seu a la
+  Biblioteca Nacional d'Andorra ([font](../../fonts/aepa-escriptorsand.md)).
+  **La pàgina actual de l'entitat no confirma que Palau i Martí en fos
+  membre fundadora** — ella tenia ja més de setanta anys aquell any.
+  **La Nit Literària Andorrana segueix sense fitxa.**
 - **Si hi ha relació** amb **Ferran Palau i Martí**, que la font situa al costat
   seu. **El corpus registra la coincidència de cognoms i no afirma parentiu.**
 
