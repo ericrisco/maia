@@ -57,9 +57,13 @@ que es conserva és el que va tenir sort.
 - La tesi doctoral *L'art romànic del Principat d'Andorra: la pintura mural en el
   seu context*, font acadèmica primària **no consultada**.
 - L'inventari complet del patrimoni cultural del Govern.
-- **Buit nou**: **Sant Miquel de Prats**, esmentat per Sant Serni de Canillo
+- ~~**Buit nou**: **Sant Miquel de Prats**, esmentat per Sant Serni de Canillo
   com a església sota la mateixa jurisdicció el 1312 — el corpus no en té
-  cap fitxa ni referència prèvia.
+  cap fitxa ni referència prèvia.~~ — **`resolt` el 18-09-2026**: fitxa
+  pròpia a [Sant Miquel de Prats](./sant-miquel-de-prats.md) — un retaule
+  del segle XVI desaparegut cap al 1926, un crucifix gòtic vinculat avui a
+  la Universitat de Yale, i un projecte de recomposició del 2026 acordat
+  entre el Govern i el Comú de Canillo.
 
 **Buit registrat.**
 

@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1077** documents · **319** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1078** documents · **320** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -148,6 +148,7 @@
 | [El romànic andorrà — índex](temes/cultura/arquitectura/romanic.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Joan de Caselles](temes/cultura/arquitectura/sant-joan-de-caselles.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Martí de la Cortinada](temes/cultura/arquitectura/sant-marti-de-la-cortinada.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
+| [Sant Miquel de Prats](temes/cultura/arquitectura/sant-miquel-de-prats.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `elperiodic-sant-miquel-de-prats-retaule` |
 | [Sant Miquel d'Engolasters](temes/cultura/arquitectura/sant-miquel-dengolasters.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-miquel-dengolasters` |
 | [Sant Romà de les Bons](temes/cultura/arquitectura/sant-roma-de-les-bons.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `viquipedia-ca` |
 | [Sant Serni de Canillo](temes/cultura/arquitectura/sant-serni-de-canillo.md) | `temes/cultura/arquitectura` | compilada | contemporania | no | `enciclopedia-cat-sant-serni-canillo` |
@@ -1802,6 +1803,7 @@
 | [`ecapclub-el-club`](fonts/ecapclub-el-club.md) | Esquí Club Arinsal-Pal (ECAP) | publicació institucional, sense llicència declarada | pendent |
 | [`ecoa-ad-junta`](fonts/ecoa-ad-junta.md) | Esquí Club Ordino-Arcalís (ECOA) | publicació institucional, sense llicència declarada | pendent |
 | [`eleccions-ad`](fonts/eleccions-ad.md) | Govern d'Andorra | © 2023 Govern d'Andorra — sense avís de reutilització | False |
+| [`elperiodic-sant-miquel-de-prats-retaule`](fonts/elperiodic-sant-miquel-de-prats-retaule.md) | El Periòdic d'Andorra | premsa digital, sense llicència declarada | pendent |
 | [`eltemps-ribas-reig-feudalisme`](fonts/eltemps-ribas-reig-feudalisme.md) | El Temps | premsa, drets reservats; citació breu | False |
 | [`enciclopedia-cat-marc-vila-riba`](fonts/enciclopedia-cat-marc-vila-riba.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |
 | [`enciclopedia-cat-politar-antoni-puig`](fonts/enciclopedia-cat-politar-antoni-puig.md) | Enciclopèdia Catalana | publicació editorial, sense llicència declarada | pendent |

@@ -51,8 +51,9 @@ relació de dependència** — una dada que
 
 ## Buits registrats
 
-1. **Sant Miquel de Prats**: el corpus no en té cap fitxa ni referència
-   prèvia — apareix per primer cop aquí.
+1. ~~**Sant Miquel de Prats**: el corpus no en té cap fitxa ni referència
+   prèvia — apareix per primer cop aquí.~~ — **`resolt` el 18-09-2026**:
+   fitxa pròpia a [Sant Miquel de Prats](./sant-miquel-de-prats.md).
 2. **Per què i quan es va reconstruir en estil barroc.**
 3. **Els altres dos absis romànics**, si n'hi ha, de les esglésies que
    Sant Serni tenia sota jurisdicció el 1312.
