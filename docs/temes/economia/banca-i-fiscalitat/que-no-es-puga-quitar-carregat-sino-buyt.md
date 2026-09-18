@@ -236,9 +236,11 @@ l'adquirent per les reparacions, *adobs***.
    **`parcial` el 2026-09-18**: el sentit queda fixat —**prohibeix manllevar per
    rescatar, no revendre**—, però els dos casos del mateix any no permeten saber
    si la clàusula era corrent o excepcional.
-6. **Què era el *dret de cuarta* que s'atribueix a Z cap al 1900** en una cessió de
+6. ~~**Què era el *dret de cuarta* que s'atribueix a Z cap al 1900** en una cessió de
    béns: **el corpus el té al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)**
-   **i la secció que la font hi dedica encara no està llegida.** `Unitat següent.`
+   **i la secció que la font hi dedica encara no està llegida.**~~ — **`parcial`
+   el 19-09-2026**: el glossari ja fixa el significat jurídic i la fracció; queda
+   oberta només la lectura de la secció de la font que ho aplica al cas de Z.
 7. **Quina *sacristania* era la de la compra de 1760**, i **de quina parròquia.**
 8. **Si la classificació dels *sabis* en tres menes de millores** té **cap base
    escrita** o **és doctrina oral.**
