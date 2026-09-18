@@ -143,11 +143,38 @@ possibles.
 **I el patró general:** la població d'Andorra **confia menys que la dels països
 de l'entorn en gairebé totes les organitzacions**, excepte en les ONG.
 
-> **Avís de lectura.** La taula comparativa de l'original ha quedat **parcialment
-> destruïda per l'OCR** (columnes barrejades, xifres com «197%»). **Les xifres
-> d'aquesta fitxa vénen del cos del text, no de la taula.** Les de la taula s'han
-> de comprovar contra el PDF abans de citar-les. Vegeu
-> [raw/README](../../../raw/README.md).
+**La taula comparativa, transcrita el 18-09-2026** sobre la pàgina renderitzada
+del PDF (p. 123) —**la «197%» era «19,7%», l'OCR hi havia menjat la coma**:
+
+**Comparació del grau de confiança en les organitzacions (% molta+bastant)**
+
+| Institució | Andorra 2005 | Espanya 2000 | França 1999 | Portugal 1999 | Luxemburg 1999 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| L'Església | 19,7% | 41,7% | 44,2% | 80,1% | 45,9% |
+| La premsa | 36,5% | 40,0% | 35,3% | 63,4% | 43,2% |
+| La televisió | 32,7% | 38,0% | — | — | — |
+| Els sindicats | 26,6% | 30,9% | 33,4% | 42,9% | 46,8% |
+| La policia | 61,4% | 61,4% | 65,5% | 64,3% | 69,8% |
+| El Consell General (Parlament) | 35,5% | 46,7% | 38,8% | 42,9% | 56,2% |
+| El Govern | 33,5% | 42,9% | — | — | — |
+| Els partits polítics | 16,1% | 26,2% | — | — | — |
+| Els funcionaris (servei civil) | 35,5% | 39,8% | 44,7% | 47,6% | 53,9% |
+| Les principals empreses | 31,6% | 41,3% | 45,2% | 48,3% | 35,7% |
+| Organitzacions mediambientals | 61,8% | 56,8% | — | — | — |
+| Organitzacions de dones | 65,0% | 44,4% | — | — | — |
+| Organitzacions caritatives o humanitàries | 59,6% | — | — | — | — |
+| La Unió Europea | 45,0% | 50,5% | 45,4% | 59,8% | 52,7% |
+| Les Nacions Unides | 40,4% | 49,3% | 49,9% | 62,1% | 55,1% |
+
+*Font citada per l'original: Banco de Datos ASEP/JDS, «Los estudios de
+valores 1981-2004».*
+
+**Confirma el patró amb xifres, no només amb l'impressió del text**: **el
+Govern i el Consell General no tenen comparació disponible** a la taula
+—no es va preguntar, o no es va publicar, per als altres quatre països—,
+i **Andorra és per sota dels quatre països en gairebé totes les files amb
+dada completa**, amb l'excepció de les organitzacions de dones (65,0% contra
+44,4% d'Espanya, l'únic altre país amb dada).
 
 ## Qui és membre de què
 
@@ -196,7 +223,9 @@ manera qualitativa.
 - **Les dades senceres** de l'Enquesta mundial de valors a Andorra del 2005.
   **Prioritari** — aquí n'hi ha un resum.
 - **Si Andorra ha tornat a participar-hi** després del 2005.
-- **La taula comparativa**, llegida del PDF.
+- ~~**La taula comparativa**, llegida del PDF.~~ — **`resolt` el
+  18-09-2026**: transcrita més amunt, sobre la pàgina renderitzada (p.
+  123).
 - **Les altres dimensions de l'enquesta**: religió, família, feina, política.
   Aquesta ponència només n'explota la part de capital social.
 - **Per què l'Església andorrana té un 20% de confiança**: no hi ha cap font que

@@ -28,11 +28,12 @@ notes: >
   envers gent d'altres nacionalitats i religions, adverteixen que «també pot
   haver-hi en aquesta resposta un component de correcció política». Una font que
   desconfia de la seva pròpia dada favorable.
-  ATENCIÓ A LA TAULA COMPARATIVA: l'OCR la deixa parcialment destruïda (columnes
-  barrejades, xifres com «197%»). Les xifres del cos del text són fiables; les de
-  la taula s'han de comprovar contra el PDF abans de citar-les.
   EL VOLUM ERA IL·LEGIBLE fins que es va passar per OCR el 2026-09-13: vegeu
   `raw/README.md`.
+  ACTUALITZAT 18-09-2026: la taula comparativa (p. 123), que l'OCR deixava
+  parcialment destruïda (columnes barrejades, «197%» per «19,7%»), es va
+  transcriure a ull sobre la pàgina renderitzada. Ara al cos de
+  [la confiança](../temes/societat/vida-civica/la-confianca.md).
 ---
 
 # Els valors de la societat andorrana
