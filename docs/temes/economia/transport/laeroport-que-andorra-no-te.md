@@ -214,8 +214,8 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
   Comissió Mixta. Vegeu «[El tractat no va existir; hi ha un conveni amb la
   Generalitat](#el-tractat-no-va-existir-hi-ha-un-conveni-amb-la-generalitat)».
   `Requereix el text del conveni, que el Butlletí cita i no publica.`
-- **Les xifres de passatgers reals** des del 2021. — **`parcial` el 18-09-2026,
-  i el que hi ha és l'alternativa**: **el país no té aeroport i sí que té línia
+- ~~**Les xifres de passatgers reals des del 2021**~~ — **`parcial` el 18-09-2026**:
+   el que hi ha és l'alternativa: **el país no té aeroport i sí que té línia
   regular d'autocar internacional**, i **l'API d'Estadística en publica el
   recompte** (divisions 2435-2438, font **Departament d'Estadística**):
 

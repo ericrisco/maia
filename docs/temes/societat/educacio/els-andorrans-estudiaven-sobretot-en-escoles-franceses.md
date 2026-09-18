@@ -331,8 +331,8 @@ dos textos, dos anys, dos editors.**
 ## Buits registrats
 
 - ~~**La taula del 1999-2000 és per sistema, no per centre.**~~ — **`resolt` el 18-09-2026**: **l'annex 4 de la ponència de Bastida dona els quaranta centres del país un per un, per nacionalitat** ([el mapa escolar del 2000](./el-mapa-escolar-del-2000.md#els-quaranta-centres-un-per-un-amb-la-nacionalitat-de-qui-hi-va)), **i les seves cinc columnes coincideixen exactament amb les de Margarit i Monné**: **5.344 · 2.104 · 359 · 1.225 · 286 · 9.318**. **Dues fonts independents, la mateixa xifra fins a l'alumne.** Amb això queda també resolt el buit bessó que declarava [l'ensenyament espanyol](./lensenyament-espanyol.md).
-- **Els cursos posteriors al 2007.** — **`parcial` el 18-09-2026**: **del
-  2019/20 al 2023/24 el corpus ja té la sèrie per sistema i per nacionalitat**,
+- ~~**Els cursos posteriors al 2007**~~ — **`parcial` el 18-09-2026**: **del
+   2019/20 al 2023/24 el corpus ja té la sèrie per sistema i per nacionalitat**,
   i **diu que l'ordre s'ha invertit** —**el sistema andorrà passa del 23,6% al
   41,3% i el francès del 38,5% al 29,7%, perdent alumnes en absolut**
   ([l'escola andorrana ha passat al davant](./lescola-andorrana-ha-passat-al-davant.md)).

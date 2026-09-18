@@ -370,8 +370,8 @@ n'afegeix la forma.`
   17-09-2026**: **no consta**, i **no calia**: el del 1995 és de durada
   indefinida. Vegeu «[De conveni educatiu a contracte renovat cada sis
   mesos](#de-conveni-educatiu-a-contracte-renovat-cada-sis-mesos)».
-- **Com és avui** — si continua, amb quin nom i amb quin model. — **`parcial` el
-  17-09-2026**: **continua**, es diu **Fundació Privada Nostra Senyora de
+- ~~**Com és avui: si continua, amb quin nom i amb quin model**~~ — **`parcial` el
+   17-09-2026**: **continua**, es diu **Fundació Privada Nostra Senyora de
   Meritxell** des de la **Llei 2/2019**, i el vincle amb el Govern és **un
   contracte prorrogat cada sis mesos**. `El model educatiu d'avui segueix sense
   descriure's: els edictes diuen què es paga, no què es fa.`

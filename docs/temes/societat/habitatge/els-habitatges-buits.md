@@ -224,8 +224,8 @@ més que el 2020, perquè **les cases baixen del 9,3% al 7,8%**.
 ## Buits registrats
 
 - **Si s'ha aplicat mai**, no consta. El corpus té el procediment i cap cas.
-- **Quants habitatges buits hi ha** a Andorra, tampoc. La llei els defineix i no
-  els compta. — **`parcial` el 17-09-2026**: **cap estadística no en publica el
+- ~~**Quants habitatges buits hi ha a Andorra**~~ — **`parcial` el 17-09-2026**:
+   la llei els defineix i no els compta. **Cap estadística no en publica el
   nombre**, però dues n'acoten l'ordre de magnitud — vegeu
   [Quants n'hi ha](#quants-nhi-ha-dues-estadistiques-que-no-es-parlen-i-la-resta).
   **4.776 habitatges no allotgen cap llar resident**, i descomptant els d'ús

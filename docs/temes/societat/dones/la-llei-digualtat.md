@@ -246,9 +246,8 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
   de 148 KB, que **no s'ha destil·lat**. `Unitat pendent.`
 - **Els títols IV a VII** —ocupació pública, treball, mitjans i publicitat,
   responsabilitat social corporativa— **només s'han llegit en part**.
-- **Cap dada**: quants plans d'igualtat existeixen, quantes empreses passen de
-  50 persones, quina és la bretxa salarial andorrana. — **`parcial` el
-  17-09-2026: la bretxa salarial sí que hi és**, vegeu
+- ~~**Cap dada sobre plans d'igualtat, empreses de més de 50 persones i bretxa salarial**~~ —
+   **`parcial` el 17-09-2026**: la bretxa salarial sí que hi és, vegeu
   [La bretxa salarial andorrana, mesurada](#la-bretxa-salarial-andorrana-mesurada-547-euros-al-mes).
   `Segueixen oberts els plans d'igualtat i el nombre d'empreses de més de 50
   persones: cap activitat del Pla d'estadística del 2026 no els compta.`

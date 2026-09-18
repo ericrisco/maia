@@ -254,8 +254,8 @@ al 2050.**
 
 ## Buits registrats
 
-- **On és Andorra avui respecte d'aquests objectius**, el corpus no ho sap. —
-  **`parcial` el 17-09-2026: dues de les sis fites ja es poden mesurar**, vegeu
+- ~~**On és Andorra avui respecte d'aquests objectius**~~ — **`parcial` el 17-09-2026**:
+   dues de les sis fites ja es poden mesurar, vegeu
   [On és el país respecte de dos dels sis objectius](#on-es-el-pais-respecte-de-dos-dels-sis-objectius).
   `Segueixen sense mesura la intensitat energètica, les emissions de GEH, el pes
   de les renovables dins la producció nacional i les emissions del transport
