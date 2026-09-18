@@ -255,6 +255,39 @@ el permís de residència i treball hi depèn.
 **I l'import mitjà baixa mentre els beneficiaris pugen**: les llars creixen un
 16,4% i l'import mitjà per llar cau un 9,4%.
 
+### Onze anys, i el 2025 és el mínim
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/prestacions/`, divisions
+2829-2937). **El corpus tenia un any i ara en té onze.**
+
+| Any | Sol·licituds | Prestacions | Taxa favorable |
+| --- | ---: | ---: | ---: |
+| 2015 | 386 | 235 | 60,9% |
+| 2016 | 337 | 255 | **75,7%** |
+| 2018 | **126** | 74 | 58,7% |
+| **2020** | 500 | 290 | 58,0% |
+| **2021** | **684** | **385** | 56,3% |
+| **2022** | **138** | **83** | 60,1% |
+| 2024 | 107 | 71 | 66,4% |
+| **2025** | **59** | **31** | **52,5%** |
+
+**El 2021 es van demanar 684 prestacions per desocupació involuntària i el 2025
+se'n van demanar 59.** **Una caiguda del 91,4% en quatre anys**, i **el salt
+gros és del 2021 al 2022**: **de 684 a 138, un −79,8% en un sol any.**
+
+**El 2025 és el mínim de les tres columnes**: **menys sol·licituds que mai,
+menys prestacions que mai i la taxa favorable més baixa de la sèrie.**
+
+`La sèrie segueix el mercat de treball —el 2021 hi havia 42.931 assalariats al
+desembre i el 2025 n'hi ha 49.409— i també la flexibilització del 2021, que
+aquesta mateixa branca del corpus documenta
+([la flexibilització](./la-flexibilitzacio-de-la-desocupacio-el-2021.md)). El
+corpus no separa què és mercat i què és norma.`
+
+**Per nacionalitat, el 2025 és una xifra molt petita i val la pena dir-la
+sencera**: **17 andorrans, 7 d'altres nacionalitats, 5 espanyols, 2 francesos i
+cap portuguès**, de 31. `El 2015 els portuguesos n'eren 53 de 235.`
+
 ## Buits registrats
 
 - ~~**Contrast del 224 bis tancat parcialment:** article complet del
