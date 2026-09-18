@@ -118,8 +118,13 @@ Canturri diu que **no existeix cap costumari d'Andorra**.
 ## Buits registrats
 
 1. **La resta de creences** que l'autor no va escriure.
-2. **Els curanderos i guérisseurs andorrans**: n'hi havia? amb nom? què feien?
-   **Buit gran.**
+2. ~~**Els curanderos i guérisseurs andorrans**: n'hi havia? amb nom? què
+   feien?~~ — **`parcial` el 18-09-2026**: **exercici documentat el 1843**
+   a les valls d'Andorra, per **Antònia, «la curandera de Sanaüja»**,
+   expulsada de la Seu d'Urgell i que hi va exercir dies abans de tornar-hi
+   ([font](../../../fonts/miret-curandera-sanauja-gimbernat-2011.md)).
+   **No és andorrana**: el buit d'un curandero o remeiera nascut a la vall,
+   amb nom, es manté obert.
 3. Les creences sobre **el part i el nadó**, que no apareixen aquí i són sempre
    les més denses.
 4. **El mal d'ull, les bruixes, les remeieres.** Creuar amb

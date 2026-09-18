@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **247** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **248** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1828,6 +1828,7 @@
 | [`mico-batalla-valors-capital-social`](fonts/mico-batalla-valors-capital-social.md) | Joan Micó i Ibáñez i Josepa Batalla i Salvadó · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`mico-interculturalitat`](fonts/mico-interculturalitat.md) | Joan R. Micó i Ibàñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
 | [`mico-percepcio-medi-ambient`](fonts/mico-percepcio-medi-ambient.md) | Joan Micó i Ibáñez · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`miret-curandera-sanauja-gimbernat-2011`](fonts/miret-curandera-sanauja-gimbernat-2011.md) | Reial Acadèmia de Medicina de Catalunya · revista Gimbernat | publicació acadèmica, RACO; ús de recerca | pendent |
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`montane-bastida-terminologia-2019`](fonts/montane-bastida-terminologia-2019.md) | M. Amor Montané March i Carolina Bastida Serra (textos) · Govern d'Andorra, Ministeri de Cultura, Joventut i Esports, Servei de Política Lingüística (edició) | drets reservats; copyright de les autores i de l'edició, cap llicència oberta | no |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
