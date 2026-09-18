@@ -367,9 +367,13 @@ l'anècdota de la *teyera* ho mostra en funcionament.
 
 *(p. 29, nota 2)*
 
-**El corpus té obert, com a buit prioritari, «el text de la Reforma de 1866»**
-([un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md)).
-**Brutails en dona la fitxa completa de l'imprès:**
+~~**El corpus té obert, com a buit prioritari, «el text de la Reforma de
+1866»**~~ — **`resolt` el 18-09-2026**: el text ja es va trobar el
+15-09-2026, a l'apèndix D de Ríos Urruti (1920), i té fitxa pròpia a
+[que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)
+—[un elector per casa](../../politica/sistema-electoral/un-elector-per-casa.md)
+ja ho registrava; **aquesta fitxa encara no ho reflectia.** **Brutails en
+dona, a més, la fitxa completa de l'imprès:**
 
 > «***Plan de reforma adoptat en las valls de Andorra per lo nombrament de
 > consellers, consuls y demes autoritats y comisionats, que han de constituir lo
@@ -377,8 +381,9 @@ l'anècdota de la *teyera* ho mostra en funcionament.
 > comunas.* **Seo de Urgel, 1866. In-12, 16 pàgines.** — **Aquesta brochure és
 > molt rara.**»
 
-**Títol exacte, lloc, any, format i extensió.** **El buit no es tanca** —el corpus
-segueix sense el text— **però deixa de ser una cerca a cegues.**
+**Títol exacte, lloc, any, format i extensió** —de l'imprès concret que
+Brutails va veure— **que complementa, sense substituir, el text ja
+recuperat a** [que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
 
 **I hi ha dues peces més, al mateix imprès o al seu voltant** *(p. 29, nota 3)*:
 
