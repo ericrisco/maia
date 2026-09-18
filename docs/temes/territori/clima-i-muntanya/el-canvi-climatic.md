@@ -114,7 +114,7 @@ El corpus no tenia cap d'aquestes, i totes són **andorranes**:
 | **Oficina de l'Energia i del Canvi Climàtic** | Ministeri de Medi Ambient, Agricultura i Sostenibilitat |
 | **CRES-IEA** | Centre de Recerca Sociològica — [fitxa](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md) |
 | **ADN** | Associació per a la Defensa de la Natura |
-| **APAPMA** | associació de protecció del medi ambient |
+| **APAPMA** | **Associació Protectora d'Animals, Plantes i Medi Ambient**, creada el 10-8-1989 ([font](../../../fonts/apapma-org-timeline.md)) |
 | **Centre Andorra Sostenible** | pedagogia ambiental |
 
 **Buit registrat, important:** el corpus havia escrit que gairebé tota la recerca
