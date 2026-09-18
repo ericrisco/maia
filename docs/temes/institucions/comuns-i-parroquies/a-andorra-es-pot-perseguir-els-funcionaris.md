@@ -295,7 +295,7 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
 2. **Les dues convencions de 1903** que van extingir els delmes capitular i
    episcopal —**13 d'abril** i **8 de maig**— i **d'on surt la xifra de 4.685
    pessetes.** **Prioritari.**
-3. **Què vol dir exactament `caps grossos`** i **si el mot és viu.** —
+3. ~~**Què vol dir exactament `caps grossos`** i **si el mot és viu.**~~ —
    **`parcial` el 16-09-2026**: **el sentit andorrà no és a cap dels dos
    diccionaris.** El DIEC2 ([font](../../../fonts/diec2.md)) **no té entrada**
    `cap gros` ni `cap-gros`. El DCVB ([font](../../../fonts/dcvb.md)) recull

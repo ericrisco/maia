@@ -199,8 +199,8 @@ frase de llei vigent**, no d'un llibre de folklore.
    **La mobilització andorrana documentada, doncs, no és contra un exèrcit: és
    contra la pesta.** **I dura, com a mínim, del juny de 1628 a l'abril de
    1630.**
-5. **«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
-   [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md). —
+5. ~~**«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
+   [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md).~~ —
    **`parcial` des del 16-09-2026: l'ofici sí, el mot no.** El **capítol VII del
    llibre II del Politar** li dedica un capítol sencer
    ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)).

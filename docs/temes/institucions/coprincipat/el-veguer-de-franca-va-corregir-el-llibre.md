@@ -219,7 +219,7 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    després la delegació va passar del sotsprefecte de Prada al prefecte.**
 4. **Quan el veguer francès va passar de dependre d'Interior a dependre d'Afers
    Estrangers.** **La font dona els dos estats i no la data del canvi.**
-5. **La fórmula exacta del jurament dels veguers** davant del Consell General. —
+5. ~~**La fórmula exacta del jurament dels veguers** davant del Consell General.~~ —
    **`parcial` el 17-09-2026: la fórmula segueix sense aparèixer, i l'acte
    sencer sí.** **Quatre actes notarials del segle XV**, a les [actes
    històriques del Consell
