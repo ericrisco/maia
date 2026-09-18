@@ -31,6 +31,23 @@ la seva primera delegació olímpica ho ensenyen**: al mateix equip hi ha un
 com a dada d'onomàstica**, no d'esport. Vegeu
 [llengua](../../../llengua/README.md).
 
+## Què hi va fer
+
+> **Resultats afegits el 18-09-2026** des del bolcat que el corpus ja tenia
+> ([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki), Viquipèdia, CC BY-SA 4.0).
+
+| Prova | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| **Descens** | — | **1:58.72 — 54è** | **54è** |
+| Eslàlom gegant | 1:59.59 — 59è | **no acaba** | — |
+| Eslàlom | **no acaba** | — | — |
+
+**És l'únic dels cinc, amb [Carlos Font](./carlos-font.md), que acaba una prova
+sencera.** **Els altres tres no en van acabar cap.**
+
+**Els quatre resultats amb classificació que Andorra va treure d'Innsbruck són
+tres de Font —38è, 48è i 62è— i aquest 54è.**
+
 ## El que falta
 
 - **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany

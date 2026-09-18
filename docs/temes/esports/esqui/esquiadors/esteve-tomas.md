@@ -25,6 +25,19 @@ en van córrer tres.
 **El corpus no sap si va ser una decisió tècnica, una lesió o una tria del
 país**, i ho deixa escrit.
 
+## Què hi va fer
+
+> **Resultats afegits el 18-09-2026** des del bolcat que el corpus ja tenia
+> ([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki), Viquipèdia, CC BY-SA 4.0).
+
+| Prova | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| Eslàlom gegant | 2:04.63 — 72è | **no acaba** | — |
+
+**Una prova, una mànega acabada.** **És tot el que el corpus té de la seva
+carrera olímpica**, i **el bolcat de la seva fitxa personal no en diu res
+més.**
+
 ## El que falta
 
 - **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany

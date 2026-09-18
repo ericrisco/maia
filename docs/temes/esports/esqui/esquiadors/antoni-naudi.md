@@ -29,6 +29,18 @@ sortir a [la ramaderia](../../../economia/ramaderia-i-agricultura/README.md).
 andorrana** i que això, en un país petit, vol dir que **el mateix llinatge
 apareix a l'equip olímpic i al Consell General**.
 
+## Què hi va fer
+
+> **Resultats afegits el 18-09-2026** des del bolcat que el corpus ja tenia
+> ([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki), Viquipèdia, CC BY-SA 4.0).
+
+| Prova | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| Eslàlom | **no acaba** | — | — |
+
+**Va córrer una sola prova i no la va acabar.** **De la primera delegació
+olímpica d'hivern d'Andorra, ell és qui té menys metres de cursa oficial.**
+
 ## El que falta
 
 - **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany

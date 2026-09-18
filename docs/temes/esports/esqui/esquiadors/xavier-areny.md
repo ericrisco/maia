@@ -34,6 +34,23 @@ Els cinc eren **Xavier Areny, [Antoine Crespo](./antoine-crespo.md),
 **Tres proves vol dir descens, gegant i eslàlom: el programa complet.** No hi
 anava a fer acte de presència.
 
+## Què hi va fer
+
+> **Resultats afegits el 18-09-2026** des del bolcat que el corpus ja tenia
+> ([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki), Viquipèdia, CC BY-SA 4.0).
+
+| Prova | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| Descens | — | **no acaba** | — |
+| Eslàlom gegant | 2:05.86 — 74è | **no acaba** | — |
+| Eslàlom | **no acaba** | — | — |
+
+**Va sortir a les tres proves i no en va acabar cap.** **L'única mànega que va
+completar és la primera del gegant.**
+
+**No és una excepció d'ell**: **dels cinc d'Innsbruck, només
+[Carlos Font](./carlos-font.md) va acabar alguna prova.**
+
 ## El que falta
 
 - **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany

@@ -1,7 +1,7 @@
 ---
 type: article
 title: Carlos Font i Puig
-description: "L'únic dels cinc d'Innsbruck 1976 que va repetir Jocs. A Lake Placid 1980 va ser 35è al descens i 42è al gegant, els millors resultats andorrans d'aquells Jocs."
+description: "L'únic dels cinc d'Innsbruck 1976 que va repetir Jocs, i l'únic andorrà d'aquelles dues delegacions que va acabar totes les proves que va córrer: sis de sis. El seu millor resultat és el 30è de l'eslàlom de Lake Placid."
 tema: temes/esports/esqui/esquiadors
 veu: compilada
 epoca: contemporania
@@ -29,10 +29,33 @@ a cap més delegació.
 **I a Lake Placid hi fa els millors resultats andorrans d'aquells Jocs**
 ([cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)):
 
-| Prova | Resultat |
-| --- | --- |
-| **Descens** | **1:57.81 — 35è** |
-| **Eslàlom gegant** | **2:59.26 — 42è** |
+| Prova, 1980 | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| **Descens** | — | **1:57.81** | **35è** |
+| **Eslàlom gegant** | 1:29.47 — 48è | 1:29.79 — 40è | **2:59.26 — 42è** |
+| **Eslàlom** | 1:02.40 — 32è | 1:01.30 — 32è | **2:03.70 — 30è** |
+
+> **Esmena del 18-09-2026.** **Aquesta fitxa donava dues proves i n'eren tres.**
+> **L'eslàlom hi faltava, i és el seu millor resultat**: **30è.**
+
+**I les d'Innsbruck, quatre anys abans, tampoc no hi eren**
+([`en_Andorra_at_the_1976_Winter_Olympics.wiki`](../../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_1976_Winter_Olympics.wiki),
+Viquipèdia, CC BY-SA 4.0):
+
+| Prova, 1976 | 1a mànega | 2a mànega | Total |
+| --- | --- | --- | --- |
+| Descens | — | 2:01.75 | **62è** |
+| Eslàlom gegant | 2:11.03 — 76è | 2:14.62 — 48è | **4:25.65 — 48è** |
+| Eslàlom | 1:24.98 — 44è | 1:31.54 — 38è | **2:56.52 — 38è** |
+
+**Sis proves en dos Jocs i les sis acabades.** **Cap altre dels sis andorrans
+d'aquelles dues delegacions no va acabar més d'una prova**, i **tres d'ells no
+en van acabar cap** —[Areny](./xavier-areny.md), [Tomàs](./esteve-tomas.md) i
+[Naudi](./antoni-naudi.md).
+
+**I millora en les tres proves entre uns Jocs i els altres**: **del 62è al 35è
+al descens, del 48è al 42è al gegant i del 38è al 30è a l'eslàlom.** **Tenia
+setze anys el 1976 i vint el 1980.**
 
 ## El germà
 
