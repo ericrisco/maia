@@ -117,13 +117,22 @@ visites.**
 - **Lluís Samper**: **qui és, i on va publicar la descripció** més enllà de la
   represa a *Fòrum.ad* del 7 de març del 2022.
 - **Quan es feia, i fins quan.** **Cap font no ho data.**
-- **Joan de Déu Prats**, *«Andorra i la caça del Tamarro»*, *El Temps de les
-  Arts*, 19 de maig del 2021 — **no llegit.**
-- **Pau Riera Dejuan**, *«El món Tamarro»*, *Ara Andorra*, 4 de maig del 2018 —
-  **no llegit.**
-- **Guillem Molla**, *«Andorra, entre el torb i el mestissatge»*, *Revista de
+- ~~**Joan de Déu Prats**, *«Andorra i la caça del Tamarro»*, *El Temps de les
+  Arts*, 19 de maig del 2021 — **no llegit.**~~ — **`parcial` el 19-09-2026**:
+  la còpia local de l'article de la Viquipèdia conserva la referència, l'URL i
+  la descripció de la criatura com a equivalent pirinenc del gambutzí
+  ([font](../../../raw/web/llegendes/Tamarro-ca.wiki)). **L'article original no
+  s'ha consultat directament.**
+- ~~**Pau Riera Dejuan**, *«El món Tamarro»*, *Ara Andorra*, 4 de maig del 2018 —
+  **no llegit.**~~ — **`parcial` el 19-09-2026**: la mateixa còpia local
+  conserva la citació i l'afirmació que el tamarro s'estén per Andorra i les
+  comarques pirinenques. **L'article original no s'ha consultat directament.**
+- ~~**Guillem Molla**, *«Andorra, entre el torb i el mestissatge»*, *Revista de
   Girona*, 2005, p. 100 — **la font de la mascota del 1991, en accés obert a
-  RACO, i no llegida.**
+  RACO, i no llegida.**~~ — **`parcial` el 19-09-2026**: la còpia local
+  conserva la referència RACO i l'atribució del **Tamarro com a mascota dels
+  Jocs dels Petits Estats d'Europa de 1991**. **El PDF original no s'ha obert
+  directament.**
 - **Si hi ha nom andorrà propi** de la broma, o si sempre s'hi ha dit «caçar el
   tamarro».
 
