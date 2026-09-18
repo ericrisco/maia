@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1008** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1009** documents · **209** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1575,6 +1575,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El substrat als noms de lloc](temes/territori/toponimia/el-substrat-als-noms-de-lloc.md) | `temes/territori/toponimia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
+| [Els annexos dels topònims](temes/territori/toponimia/els-annexos-dels-toponims.md) | `temes/territori/toponimia` | compilada | contemporania | no | `planas-toponims-preromans-2018` |
 | [Les tautologies toponímiques](temes/territori/toponimia/les-tautologies.md) | `temes/territori/toponimia` | compilada | contemporania | no | `anglada-origens-parla-andorrana` |
 | [L'Hortó no és cap hort](temes/territori/toponimia/lhorto-no-es-cap-hort.md) | `temes/territori/toponimia` | compilada | contemporania | no | `planas-toponims-preromans-2018` |
 | [La toponímia andorrana](temes/territori/toponimia/toponimia-andorrana.md) | `temes/territori/toponimia` | compilada | contemporania | no | `viquipedia-ca` |

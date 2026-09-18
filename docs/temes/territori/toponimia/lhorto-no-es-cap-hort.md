@@ -182,13 +182,16 @@ les seves roques—, però **arribant-hi per l'altre costat**: la fisiografia pr
 
 ## Buits registrats
 
-**Els annexos no s'han obert, i hi és el gruix comprovable.** L'estudi remet a
-`www.cultura.ad/la-llengua-a-Andorra` per a la **llista dels 414 candidats i dels
-174 preseleccionats** (annex 10.1), **els antecedents etimològics de Coromines i
-Anglada** (annex 10.2) i **les 81 fitxes fisiogràfiques de detall**. El fitxer que
+~~**Els annexos no s'han obert, i hi és el gruix comprovable.** El fitxer que
 el portal ofereix com a «Annexos» **és un ZIP de 29 MB amb extensió `.pdf`**; és
-al disc i **no s'ha obert**. Sense això, **no es pot comprovar cap dels 81 casos
-un per un**.
+al disc i **no s'ha obert**.~~ — **`resolt` el 18-09-2026**:
+**[Els annexos dels topònims](./els-annexos-dels-toponims.md)**. Hi ha **82
+fitxers**: **80 fitxes de topònim** —numerades de l'1 al 78 sense salts, més
+`49b` i `60b`; **la 18 en cobreix dos, i per això quadren amb els 81
+topònims**—, **la llista inicial (16 pàgines)** i **els antecedents etimològics
+(37 pàgines)**. **De les 80 fitxes, 28 porten atestacions documentals datades i
+sumen 371**; **les altres 52 no en tenen cap**, perquè són bordes, boscos i
+canals que mai no van entrar en cap escriptura.
 
 **Les cent setanta pàgines de fitxes de grup (p. 97-268) no s'han destil·lat.**
 D'aquesta fitxa només en surt **una** amb argument, l'Hortó; les altres disset hi
@@ -200,7 +203,13 @@ actual»**, i la seva evolució pot haver passat per **decisions d'escrivans, a
 vegades equivocades**. La columna d'indicador **és una gradació de confiança**, no
 un resultat.
 
-**El nom d'Andorra segueix sense explicació.** L'epígraf del propi llibre és
+**El nom d'Andorra segueix sense explicació** —**i el 18-09-2026 se'n
+documenta la hipòtesi, que no és el mateix**: vegeu
+[El nom del país](./els-annexos-dels-toponims.md#el-nom-del-pais), amb **les 36
+atestacions del 843 al 1389** —incloses *Annora*, *Endore*, *Norra* i *Andorre*—,
+**la proposta d'Anglada (`ando/andí` + `iturri-a`, ‘font important')** i
+**els quatre paral·lels que la sostenen, tots al costat d'aigües termals**.
+L'epígraf del propi llibre és
 **Coromines** dient que és **«impracticable»** aclarir-ho i que **«és raonable
 renunciar a un estudi últim sobre l'etimologia d'Andorra»**. El quadre de l'estudi
 qualifica l'explicació basca de **«complexa»** i deixa tres possibles arrels
@@ -210,6 +219,11 @@ al nom del país.**
 **El desacord sobre `lurte` queda obert.** Els autors l'usen per a esllavissades
 **i** per a allaus de neu; **Peillen, dins del mateix llibre**, diu que *lurta* és
 només de terra. **No s'arbitra.**
+
+**Una discrepància nova, del 18-09-2026**: **la primera línia de l'annex de la
+llista diu «Topònims inicials: considerats 4225»**, i **el cos del llibre en
+diu 4.240**. **Quinze noms de diferència dins de la mateixa obra**, registrats i
+no resolts.
 
 **El Nomenclàtor d'Andorra no s'ha obert.** Les 4.240 entrades són **el que diu
 aquest estudi que hi ha**. La font pròpia —el nomenclàtor oficial, amb la seva
