@@ -37,12 +37,20 @@ només amb esquiadors alpins.** Cap altra disciplina.
 | --- | --- | --- |
 | **Carlos Font** | Descens | **1:57.81 — 35è** |
 | | Gegant | **2:59.26 — 42è** |
+| | **Eslàlom** | **2:03.70 — 30è** |
 | **Miguel Font** | Descens | **2:02.01 — 39è** |
 | | Gegant | no acaba |
 | | Eslàlom | no acaba |
 | **Patrick Toussaint** | Descens | no acaba |
 | | Gegant | **3:04.38 — 45è** |
 | | Eslàlom | no acaba |
+
+> **Esmena del 18-09-2026.** **A Carlos Font hi faltava l'eslàlom**, que és
+> **el seu millor resultat i el millor d'aquells Jocs per a Andorra**: **30è.**
+> **És l'únic andorrà d'Innsbruck 1976 i de Lake Placid 1980 que va acabar
+> totes les proves que va córrer** —sis de sis—, i **també li faltaven les tres
+> del 1976**, que ara són a
+> [la seva fitxa](./esquiadors/carlos-font.md).
 
 **Dos Font, i són germans.** **[Carlos](./esquiadors/carlos-font.md)** i
 **[Miguel Font i Puig](./esquiadors/miguel-font.md)**, i la font ho diu

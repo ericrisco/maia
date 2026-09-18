@@ -243,8 +243,8 @@ completes; **les d'hivern, no**.
 
 | Jocs | Qui |
 | --- | --- |
-| **Innsbruck 1976** | **Xavier Areny**, **Carlos Font**, **Antoine Crespo**, **Esteve Tomas**, **Antoni Naudi** — tots **esquí alpí** |
-| **Lake Placid 1980** | **Carlos Font** (35è descens, 42è gegant), **Miguel Font**, **Patrick Toussaint** — esquí alpí |
+| **Innsbruck 1976** | **Carlos Font** (**38è eslàlom**, 48è gegant, 62è descens), **Antoine Crespo** (54è descens), **Xavier Areny**, **Esteve Tomas**, **Antoni Naudi** — tots **esquí alpí**. **Els tres darrers no acaben cap prova** |
+| **Lake Placid 1980** | **Carlos Font** (**30è eslàlom**, 35è descens, 42è gegant), **Miguel Font** (39è descens), **Patrick Toussaint** (45è gegant) — esquí alpí |
 | **Sarajevo 1984** | **[Albert Llovera](../../persones/albert-llovera.md)** (48è descens, **17 anys**) i **Jordi Torres** (50è) |
 | **Calgary 1988** | **Claudina Rossell** · **Nahum Orobitg** (38è súper-G) · **Gerard Escoda** · una quarta persona que la font no nomena |
 | **Albertville 1992** | **Gerard Escoda** (32è eslàlom, 36è gegant) · **Nahum Orobitg** · **Ramon Rossell** · **Victor Gómez** · **Vicky Grau** (37a súper-G) |
