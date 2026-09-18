@@ -266,7 +266,7 @@ defensava.`
    invoca com a prova i no reprodueix. **Prioritària**: és l'inventari del que
    estava concedit el 1904.
    `Requereix font externa: els llibres d'acords del Consell General.`
-2. **El decret del 29 de març de 1893 sencer**, i **el del 20 de desembre de 1893**,
+2. ~~**El decret del 29 de març de 1893 sencer**, i **el del 20 de desembre de 1893**,
    i **el del 3 de febrer de 1898** sobre el tabac. — **El de 1849 sobre els
    estrangers, en canvi, es TANCA el 2026-09-18**: **el text és a** [aquesta opinió
    del poble era útil de
@@ -274,8 +274,9 @@ defensava.`
    **No creava el costum, el confirmava** —«*per lley o consuetut inmemorial y ab
    forsa de tal*»—, **va passar per l'aprovació del Bisbe**, i **el que hi afegia
    era el segon permís, el del consell de parròquia.** **Segueix sense data de dia i
-   mes.**
-3. **L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **`parcial des
+   mes.**~~ — **`parcial`: el decret de 1849 queda identificat i llegit, però els
+   tres decrets de tabac encara requereixen el text sencer.
+3. ~~**L'acord dels coprínceps del 25 de febrer de 1881 sencer.** **`parcial des
    del 17-09-2026: ara en són dues clàusules i segueix sense text.`** **Una font
    francesa del 1904 en dona la part que aquesta fitxa no tenia**, i **és la que
    explica per què es va fer l'acord**: **després del considerant sobre la
@@ -291,7 +292,7 @@ defensava.`
    **El corpus en té
    el considerant que la font cita** i **la referència de la revista on es va
    publicar**, no el text.
-   `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`
+   `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`~~
 4. **Si el monopoli dels tabacs es va arribar a concedir a una Companyia.** **El
    1904 se'n parlava.**
 5. **Les concessions de casinos**: **quantes, quan i a qui.** **La font les compta
