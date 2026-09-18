@@ -519,8 +519,14 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 10. **Els Jocs Europeus** i **els Jocs Olímpics de la Joventut**, on Andorra ha
     competit en **bàsquet 3x3**, **esquí de muntanya** i **esquí acrobàtic** —
     **tres esports que no han arribat mai als Jocs absoluts**.
-11. **Les biografies**: de tots els noms d'aquesta fitxa, **el corpus només en
-    té cinc de fitxats**.
+11. ~~**Les biografies**: de tots els noms d'aquesta fitxa, **el corpus només en
+    té cinc de fitxats**.~~ **`parcial`:** les cinc fitxes ja identificables són
+    [Joan Verdú](../../persones/joan-verdu.md), [Irineu Esteve
+    Altimiras](../../persones/irineu-esteve-altimiras.md), [Mònica
+    Dòria](../../persones/monica-doria.md), [Nahuel
+    Carabaña](../../persones/nahuel-carabana.md) i [Albert
+    Llovera](../../persones/albert-llovera.md); les biografies de la resta de
+    noms olímpics continuen obertes.
 
 ## Related
 
