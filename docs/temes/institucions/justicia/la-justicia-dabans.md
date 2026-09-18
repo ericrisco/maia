@@ -162,7 +162,7 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
 
 ## Buits registrats
 
-1. **Els rahonadors** — origen, funcions reals, quan desapareixen. —
+1. ~~**Els rahonadors** — origen, funcions reals, quan desapareixen.~~ —
    **`parcial` des del 15-09-2026: una funció real i datada.** El **1887**, un
    home condemnat per **emissió de moneda falsa** a un any de presó i mil
    pessetes de multa va quedar lliure sota fiança, i **amb el parer dels

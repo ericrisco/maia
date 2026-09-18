@@ -342,7 +342,7 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
 4. **Els sis casos de composició** —**18-05-1471, 1475, 26-03-1488, 1488/89,
    02-08-1606 i 11-12-1606**— **sencers.** **Prioritari**: **cap no porta
    signatura d'arxiu.**
-5. **Si la *truita* es repartia **per meitats** o **tres quarts i un quart**.** —
+5. ~~**Si la *truita* es repartia **per meitats** o **tres quarts i un quart**.**~~ —
    **`parcial` el 18-09-2026: la banda del Politar ja és literal.** **La p. 203
    diu «per meitats» sense matisos**: **«La truita, com son pernills, formatges,
    &c., **no entre en comptes ni de ella se fa mencio alguna**, sino que **se la

@@ -273,8 +273,8 @@ sí.**
    més.** **No és un buit d'extracció ni de lectura: la font no en dona la
    institució.** **`Requereix ordinacions de milícia o actes de consell`**, no
    aquest volum.
-4. **Què eren exactament un ***capità*** i un ***desener***** dins la milícia
-   parroquial, **i com es nomenaven.** **`parcial`**: **ara se'n coneixen les
+4. ~~**Què eren exactament un ***capità*** i un ***desener***** dins la milícia
+   parroquial, **i com es nomenaven.**~~ **`parcial`**: **ara se'n coneixen les
    funcions de policia i no l'organització.**
 5. **Si es va aplicar mai la captura de qui exercís jurisdicció sense tenir-la.**
    — **`obert`, confirmat el 16-09-2026** (p. LIII, PDF 73). **La peça en dona

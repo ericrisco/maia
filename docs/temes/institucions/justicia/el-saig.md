@@ -410,7 +410,7 @@ Vegeu
    2, `saig` és un ocell** —*canari* i *llavió*—, **que és el que entén qui no
    ve del dret.** **El [DCVB](../../../fonts/dcvb.md) hi afegeix l'antiguitat**: el
    documenta al segle XIII i a Llull, amb la grafia *sag* i *sayg*.
-6. **El nunci**: si el nom també és una represa d'un ofici antic. — **`parcial`
+6. ~~**El nunci**: si el nom també és una represa d'un ofici antic.~~ — **`parcial`
    des del 2026-09-13.** **Represa, probablement no: el nunci no s'ha aturat
    mai.** El corpus el documenta **fent de càrrec comunal en un ritu viu fins al
    1993** ([«Mort, qui t'ha mort?»](./mort-qui-tha-mort.md)), **fent
