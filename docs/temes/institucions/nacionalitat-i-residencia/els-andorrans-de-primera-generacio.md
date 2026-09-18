@@ -173,8 +173,17 @@ nacionals** en l'altra.
   legal la hipòtesi de dalt**: germans de la mateixa casa amb nacionalitats
   diferents segons l'any de naixement. Queda obert **quantes persones** van
   quedar fora.
-- **Què és exactament una «pubilla»** en dret andorrà, i per què importava que
-  la mare ho fos ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md)).
+- **Què és exactament una «pubilla»** — **`parcial` el 18-09-2026**: **el sentit
+  general del mot, tancat.** **El [DCVB](../../../fonts/dcvb.md) té `PUBIL,
+  -ILA` amb dos sentits ben separats**: **I, l'antic i jurídic, «infant, persona
+  menor d'edat», el *pupillus* llatí** —documentat des d'un document de 1251 i
+  als *Usatges*, sempre al costat d'orfes i vídues com a persona que necessita
+  tutor—; **i II, el modern i domèstic, «fill únic o filla única d'una casa»**.
+  **El que val per al sistema de cases és el segon**: **la pubilla és la que
+  hereta perquè no hi ha hereu mascle**, i **per això que la mare ho fos decidia
+  de quina casa eren els fills.** `El que segueix obert és el dret andorrà: cap
+  dels dos diccionaris no diu què hi afegeix Andorra, i per què importava que
+  ho fos la mare** ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md))**.`
 - La **26a Diada Andorrana**, dedicada íntegrament a **la nacionalitat
   andorrana** ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).
 - Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat

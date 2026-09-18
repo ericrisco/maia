@@ -156,7 +156,18 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
    es pot llegir en moneda.**
 
    `Requereix les altres cinc: 1354, 1454, 1489, 1493 i 1505.`
-4. **Què vol dir exactament «vistes»** en aquest context.
+4. ~~**Què vol dir exactament «vistes»** en aquest context.~~ — **`resolt` el
+   18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**: **és la quarta accepció de
+   `VISTA`**, **«acció de veure's dues o més persones per tractar d'algun afer;
+   entrevista»**, i **el diccionari hi anota expressament que «s'usa sovint en
+   plural»**. **Les atestacions són de Jaume I**: «*Exim a les **vistes**,
+   nostres perpunts uestits e les espaes cintes*» (*Crònica* 33) i «*trameteren-li
+   a dir que la **vista** fos a Tolosa*».
+
+   **No té res a veure amb la vista judicial ni amb la *visura* pericial**: **«les
+   vistes de Sancogesma» vol dir la trobada de Sancogesma**, **el mot antic i
+   general per a una reunió convinguda entre parts**. **Que el Consell hi
+   legislés no és al mot: és al que s'hi feia.**
 5. **L'arbitratge de 1289** i el **requeriment de 1390** — ~~documents reals, no
    consultats~~ — **`resolt` el 17-09-2026 quant al requeriment, i amb una
    correcció quant a l'arbitratge.**

@@ -234,9 +234,20 @@ pàgina la daten:**
 7. **Els documents de 1444, 1492, 1502, 1518, 1604, 1630 i 1739** sencers.
 8. **Si Antoni Martin, jutge el 1599 i «jutge y acessor ordinari» el 1604, és la
    mateixa persona**: **el corpus ho dona per probable i no ho afirma.**
-9. **Què són les *composicions*** que el manuscrit dona com a cas en què els
-   Veguers sí que criden el Jutge. **El corpus té *composició* al glossari com a
-   acord que tanca una causa criminal** i **no sap si és el mateix ús.**
+9. ~~**Què són les *composicions***~~ — **`resolt` el 18-09-2026**: **és el
+   mateix ús que el corpus té al glossari, i el diccionari el dona més ample.**
+   **El [DCVB](../../../fonts/dcvb.md), `COMPOSICIÓ` accepció 5**: **«ant.
+   Conveni, pactes per resoldre un litigi o altre conflicte»**, amb **un document
+   de 1278** —«*uolens del dit plet partir per **composició** e transacció*»—,
+   **Jaume I** i **un document de 1381 que és el que tanca la pregunta**: «*de
+   **compositions** que fesets ho haiats feytes de fayts **ciuills o
+   criminals***». **Val per a les dues jurisdiccions, no només per a la
+   criminal**, i **el corpus amplia en conseqüència la seva pròpia entrada de
+   glossari.**
+
+   *(El buit deia: «Què són les *composicions* que el manuscrit dona com a cas en
+   què els Veguers sí que criden el Jutge. El corpus té *composició* al glossari
+   com a acord que tanca una causa criminal i no sap si és el mateix ús.»)*
 10. **Si el Jutge, quan departeix els Veguers, podia mai proposar una tercera
     solució.** **La font ho troba il·lògic i no cita cap norma.**
 
