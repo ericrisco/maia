@@ -131,8 +131,16 @@ oblidada:
 
 ## Buits registrats
 
-- ***L'avui al demà***: autoria, any, editorial, i on es pot consultar. **Buit
-  prioritari.**
+- ~~***L'avui al demà***: autoria, any, editorial, i on es pot consultar.~~ —
+  **`resolt` el 19-09-2026**: el catàleg de la Xarxa de Biblioteques d'Andorra
+  el registra com ***Valors i estils de vida de la infància a Andorra: Una visió
+  antropològica i educativa***, amb títol original **«L'avui per al demà»**;
+  dona com a directora **Petra Ma. Pérez Alonso-Geta**, autora **Paz Cánovas
+  Leonhardt**, editorial **Conapa**, any **1996**, **200 pàgines** i ISBN
+  **992011769**. En conserva un exemplar a la **Biblioteca Comunal d'Escaldes-
+  Engordany**, fons local, signatura **37 PER**, exclòs de préstec ([fitxa de
+  font](../../../fonts/llibre-l-avui-al-dema-cataleg.md)). **El llibre encara no
+  s'ha llegit**; el buit de contingut i l'accés per consulta continuen oberts.
 - **Per què l'APA de l'Escola Andorrana no forma part de la CONAPA.**
 - **Quantes APA hi ha** i quants socis.
 - **Si la CONAPA existeix encara.**
