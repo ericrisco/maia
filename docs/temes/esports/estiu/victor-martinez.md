@@ -91,7 +91,8 @@ seria pitjor.** Vegeu [el criteri](./README.md).
   registra és el Mundial de Berlín del 2009**, i **el text el tracta com a
   exatleta**. **Una última data no és una retirada, i el corpus no la converteix
   en una.**
-- **I els seus rècords personals, que el corpus no tenia:** **400 m 55.08**
+- **Nota `no-es-buit`** — **els seus rècords personals, que el corpus no tenia:**
+  **400 m 55.08**
   (Marsa 2010) · **800 m 1:48.69** (Mataró 1999) · **1.500 m 3:43.89** (Cottbus
   2001) · **milla 4:04.0** (Pamplona 2004) · **10 km 32:04**
   (**Andorra la Vella 2009**).

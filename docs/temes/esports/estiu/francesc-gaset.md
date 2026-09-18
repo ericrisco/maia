@@ -70,7 +70,8 @@ dels bons:** *per què Andorra va desfilar sota bandera olímpica a Moscou 1980?
   masculina i el 1984 era mixta: la font ho escriu així i el corpus també.`
 - ~~**Tota la seva carrera fora dels Jocs.** ~~— **`obert`, confirmat, pel mateix
   motiu.**
-- **El que el bolcat sí que dona, i la fitxa no tenia**: **Francesc Gaset Fris,
+- **Nota `no-es-buit`** — **el que el bolcat sí que dona, i la fitxa no tenia**:
+  **Francesc Gaset Fris,
   26 d'abril del 1947**, **fossa olímpica**, **i va ser l'abanderat d'Andorra
   als Jocs de Moscou del 1980**. **El `birth_place` diu «Andorra» i cap
   parròquia**: **el buit del lloc de naixement és de font.**

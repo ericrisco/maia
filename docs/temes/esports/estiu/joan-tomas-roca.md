@@ -89,11 +89,13 @@ anys de diferència entre les dues banderes**. Vegeu
   tirant per un club, i és espanyol.** **Tira pel Club de Mollet, a Barcelona**;
   **està casat i té dos fills**; **treballa en assegurances.** **La data del
   bolcat no hi consta, de manera que «segueix» no es pot afirmar en present.**
-- **I una carrera internacional sencera que la fitxa no tenia**: **nou Mundials
+- **Nota `no-es-buit`** — **una carrera internacional sencera que la fitxa no
+  tenia**: **nou Mundials
   de l'ISSF**, amb **69è lloc el 2003** com a millor resultat, i **quinze
   Europeus de l'ISSF**, amb **38è lloc el 2000**. **Va començar a tirar el 1971
   i a competir el 1973.**
-- **I un parentiu que travessa la branca**: **el seu germà petit, Esteve Tomàs,
+- **Nota `no-es-buit`** — **un parentiu que travessa la branca**: **el seu germà
+  petit, Esteve Tomàs,
   va córrer l'eslàlom gegant als Jocs d'Hivern de 1976** — **els mateixos Jocs
   d'hivern de l'any en què ell debutava als d'estiu.** Vegeu
   [l'esquí](../esqui/README.md).

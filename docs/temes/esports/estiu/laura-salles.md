@@ -66,7 +66,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   confirmat, i el motiu és de font**: **el bolcat repeteix el mateix «diversos»
   que la fitxa ja denunciava** —«ha participat en diversos campionats del món»—
   **i no en data ni un.** **El mateix verb vague dues vegades no és una dada.**
-- **El que el bolcat sí que tanca**: **el combat de Rio 2016.** **En -63 kg va perdre a la primera
+- **Nota `no-es-buit`** — **el que el bolcat sí que tanca**: **el combat de Rio
+  2016.** **En -63 kg va perdre a la primera
   ronda contra Katharina Haecker**, i **va ser l'abanderada d'Andorra.** **Data de naixement: 15 de febrer del 1986.**
   **El `birth_place` hi és buit**: **el buit del lloc és de font.**
 - ~~**Quantes medalles als Jocs dels Petits Estats, de quin metall.** (…)

@@ -108,7 +108,7 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
   segueix `obert`.**
 - ~~**El seu palmarès nacional** i els títols d'Andorra. ~~— **`obert`, confirmat**:
   **el bolcat no en dona cap.**
-- **I la carrera en xifres, que la fitxa no tenia:**
+- **Nota `no-es-buit`** — **la carrera en xifres, que la fitxa no tenia:**
 
   | | |
   | --- | --- |
