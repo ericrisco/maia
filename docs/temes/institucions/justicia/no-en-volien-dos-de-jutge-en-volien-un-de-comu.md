@@ -220,9 +220,36 @@ fet:**
    *(Archives de l'Ariège, Andorre, lligall 2 — **vuitena peça registrada i cap
    consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
-6. **El *Politar*, pp. 186 i 191**, i **el *Manual Digest*** sobre la delegació a
-   graduats de la Seu. **Cap de les dues pàgines no és al corpus**, **i la p. 191
-   és la que diu que els Veguers poden nomenar provisionalment.**
+6. **El *Politar*, p. 186**, i **el *Manual Digest*** sobre la delegació a
+   graduats de la Seu. — **La p. 191, `resolta` el 18-09-2026, i porta la raó
+   del nomenament provisional.**
+
+   **El Politar ho planteja com un escrúpol**, i **el problema és de terminis del
+   príncep francès**:
+
+   > «com la experiencia haja ensenyat que **en temps de vacant de judicatura**,
+   > no solament una vegada sinos moltes, **majorment quant la nominacio toca a
+   > Sa Magestat Christianissima com a Compte de Foyx, tarda esta a provehirse
+   > **6 o 8 mesos o un any**, y que per conseguent **se impedeyx y turba lo curs
+   > de la justicia**, **usan las parts dolosament de frivolas y afectadas
+   > apellacions**.»
+
+   **Sis a dotze mesos de vacant, i litigants que aprofiten el buit apel·lant per
+   guanyar temps.** **La solució que el Politar hi dona és el nomenament interí
+   pels dos Veguers de comú acord**, **fundat «en virtut de les facultats a ells
+   otorgadas en los Pariatges»** i **justificat per la pràctica**: «*en
+   continuacio de lo que han practicat **infinitas vegadas**, com es de veurer en
+   molts llibres de Corts*». **L'interí entrega els processos al proveït pel
+   príncep tan bon punt aquest pren possessió.**
+
+   **I la mateixa regla val per a l'escrivania**: en vacant de notari de les
+   Valls, **els Veguers tenen facultat «de asumirse escriva o notari»**, i
+   **també diu que ja ho han fet «varias vegadas»**.
+
+   > **El que això dona a aquesta fitxa**: **el nomenament comú dels dos Veguers
+   > no és una teoria del Pariatge, és el remei d'avaria del sistema**, i **el
+   > Politar el justifica per l'ús, no pel text.** `El que segueix obert és la
+   > p. 186 i el passatge del Manual Digest.`
 7. **El manuscrit del senyor Palmitjavila**, **que aquí posa un límit temporal als
    suplents que cap altra font no posa.** **Segueix sense identificar ni datar.**
 8. **Els documents de 1533, 1599, 1601, 1608 i 1696** sencers, i **si alguna

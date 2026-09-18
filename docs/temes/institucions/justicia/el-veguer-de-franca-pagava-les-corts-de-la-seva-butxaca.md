@@ -342,13 +342,47 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
 4. **Els sis casos de composició** —**18-05-1471, 1475, 26-03-1488, 1488/89,
    02-08-1606 i 11-12-1606**— **sencers.** **Prioritari**: **cap no porta
    signatura d'arxiu.**
-5. **Si la *truita* es repartia **per meitats** o **tres quarts i un quart**.**
-   **El *Politar* diu una cosa i el manuscrit de Palmitjavila una altra.**
-   `Registrat, no arbitrat.`
+5. **Si la *truita* es repartia **per meitats** o **tres quarts i un quart**.** —
+   **`parcial` el 18-09-2026: la banda del Politar ja és literal.** **La p. 203
+   diu «per meitats» sense matisos**: **«La truita, com son pernills, formatges,
+   &c., **no entre en comptes ni de ella se fa mencio alguna**, sino que **se la
+   parteyxen los Veguers, lo mitat quiscun**.»** **I hi afegeix una cosa que la
+   pregunta no demanava i que importa**: **l'espècie no passa per comptabilitat.**
+   `El manuscrit de Palmitjavila segueix sense llegir, de manera que la
+   discrepància continua registrada i no arbitrada.`
 6. **Si el mot del manuscrit de Palmitjavila és *fruyta* o *truyta*.**
    **L'interrogant és de l'editor.**
-7. **El *Politar*, p. 203**, sobre el deure dels *rahonadors* d'impedir les
-   composicions en espècie.
+7. ~~**El *Politar*, p. 203**, sobre el deure dels *rahonadors* d'impedir les
+   composicions en espècie.~~ — **`resolt` el 18-09-2026, i el deure no és
+   d'impedir-les: és de limitar-les.**
+
+   **La regla de proporció hi és amb tarifa**: **«se ha estilat en les Corts fer
+   composicio ab los enquestats y manlleutats, de **un pernill y dos formatges
+   per dobla de 5 l. 12 s.**»**, i **el text en dona l'exemple aritmètic**: «*se
+   compon lo delicte de Pere a **5 dobles** o en la quantitat de **28 l.**, se li
+   añadeyxen **5 pernills y 10 formatges** de gages als Veguers*».
+
+   **I el deure dels raonadors és exactament aquest**:
+
+   > «**los rahonadors deuhen zelar no se compongan los delictes ab sols pernills
+   > y formatges**, pues asso solament serie **gages dels Veguers en detriment de
+   > la Cort**, pues de ells no s'en podrie pagar los gastos ni salaris; sino que
+   > se observe lo de pernill y dos formatxes per dobla, **o cosa a poca
+   > diferencia**.»
+
+   **El motiu no és moral: és de caixa.** **L'espècie va íntegrament als Veguers i
+   no entra en comptes**; **si tot es componia en pernils, la Cort es quedava
+   sense diners per pagar les seves pròpies despeses.** **Els raonadors no
+   defensen el reu: defensen el pressupost del tribunal.**
+
+   **I la pàgina tanca el mecanisme que dona títol a aquesta fitxa**: quan les
+   despeses superen els emoluments, **«lo Concell General acostume destraurer per
+   acabar de pagar los gastos»**, perquè **«lo Comu y terra de Andorra es la que
+   percebeyx los fruits de la justicia»** i **els prínceps no cobren de les Valls
+   «altres tributs que les quisties acostumadas»**. **Els Veguers signen, a
+   continuació de l'acte de clausura, la promesa de tornar al Consell el que
+   hagin bestret, en les primeres Corts que deixin sobrant**, i **el Jutge ho
+   firma amb el seu vidit.**
 8. ~~**Què eren les ***estrenes***.~~ — **`resolt` el 16-09-2026**
    ([DCVB](../../../fonts/dcvb.md)): **una *estrena* és una gratificació o regal** —en
    moneda o en espècie— **que es fa per celebrar el començament d'una cosa o una
