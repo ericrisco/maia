@@ -44,6 +44,19 @@ la diferència; la va protegir.
 Cims, ports, llacs, glaceres, geologia, clima amb dades. La toponímia associada,
 que és on hi hauria material lingüístic. **Buit registrat.**
 
+**Ampliat el 18-09-2026**: **de què està fet el territori sí que consta ara**
+—**dotze classes de cobertura del sòl per als 468 km²**, amb **el 40,7% de
+bosc**, **el 20,6% de roca nua** i **el 2,12% de petjada construïda**—, vegeu
+[De què està fet el país](./de-que-esta-fet-el-pais.md), que hi afegeix **el
+punt més alt i el més baix, les quatre coordenades extremes i la longitud de
+les dues fronteres.** `Cims, ports, llacs, geologia i clima segueixen sense
+dades.`
+
+**I la toponímia ja té branca pròpia**:
+[els annexos dels topònims](../toponimia/els-annexos-dels-toponims.md) en dona
+**vuitanta fitxes de camp amb la descripció fisiogràfica de cada lloc** —que és
+exactament el creuament entre geografia i llengua que aquesta línia demanava.
+
 ## Related
 
 - [La vall del Madriu](../patrimoni-natural/madriu-perafita-claror.md) — el 10% del país.
