@@ -161,7 +161,7 @@ raó sinó sobre quin dels tres patrimonis paga.**
 2. **Quan deixa de fer-se l'*agermanament* com a comunitat universal** i **quan
    passa a voler dir donació entre esposos sense fills.** **La font dona els dos
    sentits i cap data de transició.**
-3. **Si *associament* i *agermanament* eren sinònims el 1904** o **dues figures
+3. ~~**Si *associament* i *agermanament* eren sinònims el 1904** o **dues figures
    distintes.** La font diu «se'n diu també» i **no els separa.**
    **Estret el 2026-09-15, no tancat.** **El corpus ja té l'instrument**: la
    **peça justificativa IX** del mateix volum, una donació recíproca entre
@@ -169,7 +169,9 @@ raó sinó sobre quin dels tres patrimonis paga.**
    **guanys** (definició d'*associament*) **i té reserva per testar** (el tret
    amb què la font caracteritza l'*agermanament*). **L'única peça que podria
    separar-los no els separa.** Vegeu [deu lliures per
-   testar](../segle-xix/deu-lliures-per-testar.md).
+   testar](../segle-xix/deu-lliures-per-testar.md).~~ — **`parcial`: la peça
+   confirma que els dos trets poden conviure, però no prova si el 1904 eren
+   sinònims o figures separades.
 4. **Què vol dir «*pro returnis*»** a l'acte de 1443.
 5. **Com es liquidaven de fet els *millorers***: **qui taxava el treball del marit
    i com es provava.** **El contracte posa la càrrega de la prova a ell** i **la

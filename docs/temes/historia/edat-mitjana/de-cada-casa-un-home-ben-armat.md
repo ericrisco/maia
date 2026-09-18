@@ -424,7 +424,7 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    n'esmenta cap acord anterior.** `obert`.
 4. **Què són la *levate* i el *mers*** que se separen del delme abans de
    barrejar-lo. **Dues deduccions amb nom i sense explicació.**
-5. **Què són les *potacions* i les *beratiques*** que els andorrans cobraven per
+5. ~~**Què són les *potacions* i les *beratiques*** que els andorrans cobraven per
    lliurar el delme. — **`obert`, i el 16-09-2026 confirmat que no és
    lexicogràfic.** **`potació` no és al [DCVB](../../../fonts/dcvb.md) ni al
    [DIEC2](../../../fonts/diec2.md)**, i **tampoc `levata`**, la tercera
@@ -436,7 +436,9 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    **I el corpus reté per què importa**: **la frase on surten és una renúncia**
    —«**com que reconeixem que injustament preníem *potacions* o *beratiques*…**»—,
    **de manera que no eren drets sinó abusos admesos**, i **això és el que les
-   fa interessants, tinguin el nom que tinguin.**
+   fa interessants, tinguin el nom que tinguin.**~~ — **`parcial`: el context
+   fiscal i el caràcter abusiu ja estan identificats; la definició exacta dels
+   dos termes encara requereix documentació decimal del bisbat d'Urgell.
 6. ~~**La *leuda*, la *vista* i la *parada*.**~~ — **`parcial`: la *leuda*
    queda `resolta` el 16-09-2026; **la *vista* i la *parada* segueixen obertes.**
    **El [DCVB](../../../fonts/dcvb.md) dona `lleuda`** —grafia antiga
