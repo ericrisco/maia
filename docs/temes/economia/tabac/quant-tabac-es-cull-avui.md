@@ -1,7 +1,7 @@
 ---
 type: article
 title: Quant tabac es cull avui
-description: "De 1.047.036 quilos el 1996 a 109.038 el 2024: la producció ha caigut un 89,6% i encara es reparteix per les set parròquies."
+description: "De 1.047.038 quilos el 1997 a 118.481 el 2025: la sèrie sencera de cinquanta-tres anys, amb dos trencaments i no un."
 tema: temes/economia/tabac
 veu: compilada
 epoca: contemporania
@@ -41,7 +41,8 @@ exactament el total imprès. La del 2024 suma 109.039 i el total imprès diu
 109.038: un quilogram d'arrodoniment, registrat i no corregit.`
 
 > **El 2024 es cull el 14,2% del tabac que es collia el 1990.** **I contra el
-> màxim de la sèrie —1.047.036 quilos, el 1996 i el 1997— el 2024 n'és el
+> màxim de la sèrie —que la nota situa el 1996 i el 1997 amb 1.047.036 quilos i
+> que la sèrie de l'API situa **només el 1997**, amb 1.047.038— el 2024 n'és el
 > 10,4%: una caiguda del 89,6%.**
 
 **Cap parròquia se n'escapa.** **Totes set estan entre el 10% i el 20% del que
@@ -59,6 +60,11 @@ collien el 1990**, i **la que menys en conserva és Encamp (10,0%)**, seguida de
 | 2007-2019 | **nivells baixos però estables**, sense oscil·lacions |
 | **2020** | **106.799 kg: «el punt d'inflexió més destacat»** i mínim històric |
 | 2021-2024 | **estabilització en valors molt reduïts** |
+
+**Aquesta és la periodització de la nota, i la sèrie sencera la corregeix en dos
+punts**: **el màxim és només del 1997**, i **el «des del 2000, reducció gradual»
+amaga que la caiguda gran ja havia passat entre el 1998 i el 2000**
+([la sèrie](#cinquanta-tres-anys-de-collita)).
 
 **El 2020 és el trencament, i la nota no l'atribueix a la pandèmia**: en dona
 un altre grup de causes.
@@ -135,6 +141,66 @@ Julià hi surt amb un −1,9%.**
 amb els totals— **i registra que el text no hi coincideix.** **No es corregeix
 l'original.**
 
+## Cinquanta-tres anys de collita
+
+**La sèrie que la nota A107 només dibuixava**, ara any per any, en quilograms:
+
+| | | | | | | |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **1973** 303.901 | **1974** 302.625 | **1975** 300.580 | **1976** 272.516 | **1977** 262.894 | **1978** 272.935 | **1979** 264.279 |
+| **1980** 265.947 | **1981** 263.750 | **1982** 349.983 | **1983** 323.384 | **1984** 419.397 | **1985** 538.265 | **1986** 599.144 |
+| **1987** 642.735 | **1988** 568.192 | **1989** 674.160 | **1990** 767.860 | **1991** 939.078 | **1992** 794.187 | **1993** 957.864 |
+| **1994** 901.683 | **1995** 919.737 | **1996** 1.023.232 | **1997** **1.047.038** | **1998** 654.649 | **1999** 567.189 | **2000** 324.207 |
+| **2001** 340.267 | **2002** 318.558 | **2003** 335.729 | **2004** 324.060 | **2005** 315.214 | **2006** 315.432 | **2007** 244.474 |
+| **2008** 243.632 | **2009** 244.167 | **2010** 237.485 | **2011** 244.677 | **2012** 235.792 | **2013** 234.176 | **2014** 238.084 |
+| **2015** 242.637 | **2016** 244.084 | **2017** 219.563 | **2018** 239.897 | **2019** 244.584 | **2020** **106.799** | **2021** 122.352 |
+| **2022** 119.831 | **2023** 121.909 | **2024** 109.038 | **2025** **118.481** | | | |
+
+*Font: Departament d'Agricultura i Ramaderia, via l'API del Departament
+d'Estadística, divisió 2404. CC BY 4.0.*
+
+### Tres coses que el gràfic no deixava veure
+
+**Primera: el màxim és d'un sol any, i no és el que el corpus deia.** **El
+1997, amb 1.047.038 kg.** El 1996 en fa 1.023.232, **vint-i-quatre mil menys**.
+Aquesta fitxa deia «el màxim de la sèrie, el 1996 i el 1997» perquè **el text de
+la nota A107 ho diu així**; **la sèrie diu que el màxim és només del 1997**.
+`I hi ha dos quilos de diferència entre les dues fonts oficials: la nota retola
+1.047.036 al gràfic i l'API en dona 1.047.038. Registrat, no arbitrat.`
+
+**Segona: el trencament gran del tabac andorrà no és el del 2020, és el del
+1998.** **De 1.047.038 a 324.207 en tres anys** —1998, 1999, 2000—, **un
+−69,0%**. **El 2020 és el segon trencament, no el primer**, i cau sobre una
+producció que ja era una cinquena part de la del 1997.
+
+**Tercera: el 2025 puja.** **118.481 kg, un +8,7% sobre el 2024.** `Un any no
+és una tendència.`
+
+### El rendiment, i què va passar de debò el 2020
+
+Amb la superfície de conreu de la mateixa font
+([Cent hectàrees de tabac](./cent-hectarees-de-tabac.md)), el rendiment per
+hectàrea, **2001-2025**:
+
+| Període | kg per hectàrea |
+| --- | ---: |
+| **2001-2006** | entre **1.629** i **1.784** |
+| 2007-2019 | entre **1.425** i **1.665** |
+| **2020** | **821** |
+| 2021-2025 | entre **1.009** i **1.153** |
+
+> **El 2020 no és un any de menys terra: és un any de menys collita per
+> hectàrea.**
+
+**La terra va caure un 11,5% aquell any i el rendiment gairebé la meitat.** I
+**cinc anys després el rendiment segueix un terç per sota del de qualsevol any
+del 2001 al 2019.**
+
+**Això canvia la pregunta.** No és «per què es va deixar de plantar tabac el
+2020» —**se'n va seguir plantant 130 hectàrees**— sinó **«per què la mateixa
+terra va donar la meitat»**, i **per què no s'ha recuperat.** `Cap de les fonts
+consultades no ho diu.`
+
 ## El que falta
 
 - ~~**La superfície conreada.**~~ — **`resolt` el 18-09-2026**: **1.027.719 m²,
@@ -149,14 +215,14 @@ l'original.**
 - **Quants conreadors hi ha**, que és la xifra que faria llegible tota la resta.
   `La nota ho esmenta en prosa i no ho quantifica, i el parcel·lari del 2025
   tampoc: dona 302 explotacions declarants i no diu quantes fan tabac.`
-- **La sèrie any per any del 1973 ençà.** **La nota la dibuixa en un gràfic i en
-  publica quatre talls i dos extrems.** `El gràfic no porta etiquetes; només
-  s'han pres els dos valors que hi surten retolats —1.047.036 i 109.038— i els
-  que el text cita.` — **`parcial` el 18-09-2026, per l'altra banda**: **de
-  collita segueix sense haver-hi sèrie, però de superfície n'hi ha una de
-  completa i any per any del 2004 al 2025**, publicada pel Departament
-  d'Agricultura ([Cent hectàrees de tabac](./cent-hectarees-de-tabac.md)).
-  **Vint-i-dos anys, i el tabac hi perd el 45% de la seva terra.**
+- ~~**La sèrie any per any del 1973 ençà.** **La nota la dibuixa en un gràfic i
+  en publica quatre talls i dos extrems.**~~ — **`resolt` el 18-09-2026**:
+  **la sèrie sencera, cinquanta-tres anys, 1973-2025**, a
+  «[Cinquanta-tres anys de collita](#cinquanta-tres-anys-de-collita)».
+  **No calia llegir cap gràfic**: el Departament d'Estadística té una **API
+  pública** i la sèrie és la divisió **2404, «PRODUCCIÓ DE TABAC»**
+  (`docs/raw/estadistica-api/README.md`). **Font declarada: Departament
+  d'Agricultura i Ramaderia; actualitzada el 02-07-2026.**
 - ~~**La subvenció**: quant es paga per quilo i amb quin fonament legal.~~ —
   **`resolt` el 18-09-2026**: **l'A112 s'ha llegit i no hi ha cap línia d'ajut
   al tabac.** Les vuit línies d'ajut públic al sector de l'agricultura del 2025
@@ -167,13 +233,15 @@ l'original.**
 - **Què se'n fa**: quant d'aquest tabac es transforma al país i quant
   s'exporta.
 - **Per què el trencament és el 2020** i no un altre any. — **`parcial` el
-  18-09-2026, i el fet és més gran del que semblava**: **el 2020 la superfície
-  de tabac cau un 11,5%, la caiguda més gran de la sèrie de vint-i-dos anys**,
-  i **el rendiment d'aquell any —821 kg/ha— és el pitjor mesurable del corpus**,
-  gairebé la meitat del de 2010
-  ([Cent hectàrees de tabac](./cent-hectarees-de-tabac.md)).
-  `La causa segueix sense resposta: ara se sap que el 2020 és alhora menys
-  terra i pitjor collita per hectàrea, i cap font no diu per què.`
+  18-09-2026, i la pregunta s'ha hagut de reformular**: amb **vint-i-cinc anys
+  de rendiment per hectàrea** es veu que **el 2020 no és un any de menys terra
+  sinó de menys collita per hectàrea** —**821 kg/ha contra els 1.425-1.784 de
+  tots els anys del 2001 al 2019**—, i que **cinc anys després segueix un terç
+  per sota**. `La causa segueix sense resposta, però ja no és «per què es va
+  deixar de plantar»: se'n va seguir plantant 130 hectàrees.`
+- **I per què el trencament del 1998**, que és més gran i que el corpus no
+  tenia: **de 1.047.038 kg el 1997 a 324.207 el 2000, un −69,0% en tres anys.**
+  **Nou el 18-09-2026.**
 
 ## Related
 

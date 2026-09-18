@@ -57,7 +57,7 @@ cronologia, però **no el text**, i **el corpus no ha pogut confirmar que el
 «decret de Boltàs» sigui la instructa de c. 1790** (vegeu la fitxa de la
 revolta).
 
-~~Segueix obert **el volum del cultiu** al llarg del temps, i **quan i per què va decaure**.~~ — **`parcial` el 18-09-2026**: **el volum sí que hi és des del 1973**, i **quan va decaure també** —**màxim d'1.047.036 kg el 1996-1997, trencament el 2020, 109.038 kg el 2024, un −89,6%**—, vegeu [Quant tabac es cull avui](./quant-tabac-es-cull-avui.md). **La superfície conreada segueix sense localitzar.** La substitució de la vinya pel tabac a mitjan segle XVIII està documentada a
+~~Segueix obert **el volum del cultiu** al llarg del temps, i **quan i per què va decaure**.~~ — **`resolt` el 18-09-2026 pel que fa al volum**: **la sèrie sencera, any per any del 1973 al 2025**, per l'API d'Estadística, i **la superfície també, del 2001 al 2025**. **Dos trencaments i no un**: **de 1.047.038 kg el 1997 a 324.207 el 2000, un −69,0%**, i **de 244.584 el 2019 a 106.799 el 2020**. Vegeu [Quant tabac es cull avui](./quant-tabac-es-cull-avui.md) i [Cent hectàrees de tabac](./cent-hectarees-de-tabac.md). `El «per què» de cap dels dos trencaments no consta.` La substitució de la vinya pel tabac a mitjan segle XVIII està documentada a
 [la vinya i el tabac](../ramaderia-i-agricultura/la-vinya-i-el-tabac.md); **el segle XIX segueix sense xifres.**
 
 ## Related

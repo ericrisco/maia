@@ -15,8 +15,8 @@ tags: [economia, tabac, agricultura, territori, estadistica, segle-xxi]
 
 ## La xifra que faltava
 
-El corpus tenia la collita —**109.038 quilos el 2024**, contra **1.047.036 el
-1973**— i **no tenia la superfície**
+El corpus tenia la collita —**109.038 quilos el 2024**, contra **1.047.038 el
+1997**— i **no tenia la superfície**
 ([quant tabac es cull avui](./quant-tabac-es-cull-avui.md)). La buscava com a
 activitat estadística **A105**, i la nota de premsa de l'A105 segueix sense
 aparèixer.
