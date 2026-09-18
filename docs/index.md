@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1047** documents · **214** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1048** documents · **214** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -488,6 +488,7 @@
 | [Esteve Dolsa i Montaña](temes/esports/estiu/esteve-dolsa.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Esther Barrugués i Alviñá](temes/esports/estiu/esther-barrugues.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Francesc Gaset i Fris](temes/esports/estiu/francesc-gaset.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
+| [Francesc Repiso Romero](temes/esports/estiu/francesc-repiso.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Gerard Barcia i Duedra](temes/esports/estiu/gerard-barcia.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Hocine Haciane i Constantin](temes/esports/estiu/hocine-haciane.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |
 | [Joan Besolí i Lluelles](temes/esports/estiu/joan-besoli.md) | `temes/esports/estiu` | compilada | contemporania | no | `wikipedia-atletes-andorrans` |

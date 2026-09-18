@@ -151,9 +151,11 @@ queda en tota la branca d'esports.**
   cada una de les tres proves de lliures**— **i els de
   [Meritxell Sabaté](./meritxell-sabate.md)**, **dels quals se saben les quatre
   proves i una sola marca.**
-- **Francesc Repiso Romero** (tir, Atenes 2004): nom sense entrada. —
-  **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom a
-  `docs/raw/web/esport/atletes/`.** **Buit de font.**
+- ~~**Francesc Repiso Romero** (tir, Atenes 2004): nom sense entrada.~~ —
+  **`resolt` el 18-09-2026**: té fitxa
+  ([Francesc Repiso Romero](./francesc-repiso.md)) **amb les cinc sèries de la
+  qualificació**, baixades a `docs/raw/web/esport/atletes/`. **106 punts, 35è de
+  35**, i **una darrera sèrie de 14 que és la pitjor de tot el quadre.**
 - **Les federacions**: cap fitxa de cap. — **`parcial`, i el buit ha canviat de
   forma.** **La llista sencera de les vint-i-sis federacions del COA ja hi és**
   ([el Comitè Olímpic](../competicio/el-comite-olimpic.md)); **el que falta és
