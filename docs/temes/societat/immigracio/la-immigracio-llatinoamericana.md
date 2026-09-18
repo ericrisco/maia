@@ -170,6 +170,40 @@ havia 11.511 assalariats de nacionalitat andorrana.** **Els llatinoamericans de
 nou països i els andorrans són, al mercat de treball, gairebé exactament el
 mateix nombre de persones**: **cinc de diferència.**
 
+### Hi ha més assalariats argentins que argentins
+
+> **Afegit el 18-09-2026** amb la sèrie de **població per nacionalitat**
+> (`docs/raw/estadistica-api/`, CC BY 4.0), que és una altra taula i una altra
+> unitat.
+
+| 2025 | Assalariats **per origen** | Població **per nacionalitat** | Diferència |
+| --- | ---: | ---: | ---: |
+| **Argentina** | **5.739** | **3.291** | **+2.448** |
+| **Xile** | **1.016** | **479** | **+537** |
+| Uruguai | 217 | 121 | +96 |
+
+**Hi ha 5.739 assalariats d'origen argentí i 3.291 persones de nacionalitat
+argentina censades al país.** **Dos mil quatre-cents quaranta-vuit de
+diferència**, i **no és un error de cap de les dues taules: és què compta
+cadascuna.**
+
+**La de la CASS compta el país d'origen i no canvia quan algú es
+nacionalitza.** **La del padró compta el passaport que es té ara.** **La
+diferència entre les dues és, aproximadament, la gent d'origen argentí que ja no
+consta com a argentina** —perquè ha passat a espanyola, andorrana o una altra—
+**més la que treballa a Andorra sense constar-hi com a resident.**
+
+`El corpus no pot separar aquestes dues causes amb les taules que té: caldria la
+sèrie de concessions de nacionalitat per origen, que la font no publica.`
+
+**El que sí que es pot dir és que la sèrie de població per nacionalitat
+subestima la presència llatinoamericana al país**, i **que la fitxa de la
+composició per nacionalitats s'ha de llegir amb aquesta advertència al costat**
+([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
+
+**I per fer-se una idea de la mida del canvi**: **el 2010 hi havia 602 argentins
+censats i 394 marroquins; el 2025 n'hi ha 3.291 i 455.**
+
 ### El salt no és gradual: passa entre el 2020 i el 2024
 
 | Argentina | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
