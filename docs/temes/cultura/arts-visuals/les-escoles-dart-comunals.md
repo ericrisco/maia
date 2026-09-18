@@ -147,11 +147,11 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
 
 ## Buits registrats
 
-- **Quantes escoles d'art comunals hi ha**, on són exactament i com es diuen.
-  La font diu «totes les parròquies» i **no en dona cap nom**. **Buit
-  prioritari, ara amb el primer nom a dins**: l'**Escola d'Art del Comú de Sant
-  Julià de Lòria** existeix, i **el novembre del 2017 passa a dir-se Espai
-  Sergi Mas** quan el comú hi instal·la el taller de l'escultor
+- ~~**Quantes escoles d'art comunals hi ha**, on són exactament i com es
+  diuen.~~ La font diu «totes les parròquies» i **no en dona cap nom**. El
+  primer nom trobat: l'**Escola d'Art del Comú de Sant Julià de Lòria**
+  existeix, i **el novembre del 2017 passa a dir-se Espai Sergi Mas** quan
+  el comú hi instal·la el taller de l'escultor
   ([font](../../../fonts/wikipedia-art-andorra.md)). **Una escola d'art comunal
   de set, amb nom.** I no és una dedicatòria de fora: **el mateix Sergi Mas hi
   havia ensenyat ceràmica** —abans, a la rectoria de Sant Julià— i **hi va
@@ -169,15 +169,16 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   | **la Massana** | **Escola d'Art de la Massana** — obres i adjudicacions el **2002** |
   | **Ordino** | **Escola d'Art d'Ordino** — preus públics i subministraments el **2004** |
   | **Escaldes-Engordany** | **Escola d'Art del Comú** — **edicte del Comú del 15-6-2026** convocant places de professor per al curs 2026-2027 |
-  | Canillo | **cap rastre** |
-  | Encamp | **cap rastre** |
+  | **Canillo** | **Escola d'Art** (nom propi) — a l'**Ordinació de Preus Públics de l'exercici 2026** (BOPA 156/2025, 23-12-2025): classes trimestrals per a infants i adults, primera classe gratuïta |
+  | **Encamp** | **«Activitats artístiques»**, sota el **Departament de Cultura, Infància i Joventut** — a la mateixa Ordinació de Preus Públics 2026 (BOPA 156/2025): inscripcions anuals per a infants i adults, **sense marca pròpia d'«Escola d'Art»** |
 
-  **Les cerques fetes** —«escola d'art» amb cada nom de parròquia, «taller
-  d'art» amb Canillo, «Comú d'Encamp» amb «escola d'art»— **no donen res per a
-  Canillo ni per a Encamp.** **Això no prova que no en tinguin**: **prova que
-  no han passat pel Butlletí Oficial**, on hi arriben els preus públics, els
-  reglaments i les convocatòries de professorat de les altres cinc. `Requereix
-  preguntar-ho als dos comuns; és l'única via que queda.`
+  — **`resolt` el 18-09-2026, les set**: les dues que faltaven no havien
+  passat pel Butlletí Oficial **com a edictes de professorat o de nom**,
+  però sí que hi han passat **com a línia de preus públics** dins
+  l'Ordinació anual de cada parròquia, que és on s'han trobat. **Canillo té
+  una «Escola d'Art» amb nom propi; Encamp té el mateix servei sense
+  batejar-lo així** — la diferència real entre les set no és qui en té,
+  sinó **qui li ha donat marca**.
 
   **I la fitxa guanya dues coses més.** **La més antiga documentada és la de
   Sant Julià de Lòria, el 1994**, amb **contractacions de professorat a
