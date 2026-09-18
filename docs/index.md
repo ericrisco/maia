@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **221** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **222** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1791,6 +1791,7 @@
 | [`la-cuestion-de-andorra-1894`](fonts/la-cuestion-de-andorra-1894.md) | Consell General dels Valls d'Andorra · obra de 1894, domini públic | domini públic per antiguitat; digitalització de Google Books a partir d'un exemplar de biblioteca | si |
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`llei-creacio-cambra-comerc-1993`](fonts/llei-creacio-cambra-comerc-1993.md) | Consell General | text legal, domini públic | si |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | Maria Jesús Lluelles Larrosa · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`lopez-escenaris-de-futur`](fonts/lopez-escenaris-de-futur.md) | Pere López i Agràs · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

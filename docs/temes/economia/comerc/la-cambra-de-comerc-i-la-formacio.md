@@ -271,7 +271,22 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   sèries anteriors al 2025 encara s'han de baixar nota a nota.`
 - **Es van obrir «sectors nous»** per als universitaris? Aquesta pregunta té
   **vint-i-sis anys** i el corpus no en sap la resposta.
-- **La Cambra avui**: estructura, sectors, xifres.
+- ~~**La Cambra avui**: estructura, sectors, xifres.~~ — **`resolt` el
+  18-09-2026**: **creada per llei el 1993** —aprovada pel Consell General els
+  **2 i 3 de setembre**, publicada al **BOPA núm. 51, any 5, el 28 de
+  setembre**—, com a **entitat de Dret Públic** i **òrgan consultiu de les
+  administracions públiques**
+  ([font](../../../fonts/llei-creacio-cambra-comerc-1993.md)). **Són membres**
+  totes les persones físiques i jurídiques amb activitat comercial,
+  industrial, de serveis o artesanal **inscrita al Registre de Comerç i
+  Indústria**.
+
+  **Estructura actual (2026)**: **president, Josep Mª Mas Torres**, i quatre
+  vicepresidents per sector —**comerç: Ramon Ginesta Julián**; **indústria:
+  Daniel Armengol Bosch**; **serveis turístics: Ricard Vicens Rodríguez**;
+  **altres serveis: Esther Puigcercós Font**. **Quatre comissions sectorials
+  al ple, trenta membres en total**: **indústria 7, comerç 11, serveis
+  turístics 6, altres serveis 6.**
 
 ## Related
 
