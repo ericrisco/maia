@@ -53,9 +53,11 @@ El text consultat diu que l'auge va ser al «**segle XVIII i primer quart del
 XX**». **Això no pot ser**: el mateix paràgraf situa la decadència a mitjan segle
 XIX i el tancament de l'última el 1893.
 
-**Lectura més probable: «primer quart del XIX»**, i el «XX» és un **error d'OCR**
-—el PDF n'arrossega molts. **El corpus no ho dona per resolt: ho deixa marcat.**
-**Buit registrat, tancable anant a l'original imprès.**
+La revisió visual de la **pàgina impresa 151** del PDF original confirma que hi
+diu **«segle XVIII i primer quart del XX»**: per tant, el «XX» **no és un error
+d'OCR**. La frase continua sent internament incompatible amb la decadència que
+comença a mitjan segle XIX i amb el tancament de l'última farga el 1893. **El
+corpus conserva la contradicció i no l'arbitra.**
 
 ### El que això lliga
 
@@ -237,7 +239,14 @@ no és qui ho fa, és el món que ho necessitava**.
    extracció al país** —**però l'acta no diu on, ni si el mineral era andorrà**,
    i **el mot podria designar també qui transporta el mineral.** `hipòtesi, no
    verificada.`
-4. La data del **primer quart del XIX / XX** (vegeu l'avís).
+4. ~~La data del **primer quart del XIX / XX**~~ — **`parcial` el
+   18-09-2026**: el PDF original, revisualitzat a la pàgina impresa 151,
+   confirma **«primer quart del XX»**. La cronologia de la mateixa font —
+   decadència des de mitjan XIX i última farga tancada el 1893— continua
+   contradient aquesta frase; queda pendent una font independent que expliqui
+   si és una errada de l'autor o un altre sentit d'«auge». Vegeu la [font de
+   Mas](../../../fonts/mas-pagesos-i-artesans.md) i l'[extracte PDF
+   verificat](../../../raw/web/cultura/15a-diada-andorrana-2002.txt).
  5. ~~**Els fargaires francesos: quants eren, d'on venien, si s'hi van quedar**~~ —
     **`parcial` el 17-09-2026**: la font diu que **tots** els treballadors ho eren,
     i el corpus no té res més; des del **Llibre I d'actes del Consell
