@@ -78,7 +78,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | --- | --- | --- |
 | **Antoni Fiter i Rossell** | **Manual Digest**, 1748 | [l'obra](../historia/manual-digest/manual-digest.md), **no la persona** |
 | **Antoni Puig i Busquets** | **Politar Andorrà**, 1763 o 1764 | **buit** |
-| **Bonaventura Riberaygua i Argelich** | ***Les Valls d'Andorra***, 1946: primer compendi modern | **buit** |
+| **Bonaventura Riberaygua i Argelich** | ***Les Valls d'Andorra***, 1946: primer compendi modern. Secretari del Consell General 1935-1950 | [fitxa](./bonaventura-riberaygua.md) |
 | **Albert Puigoriol i Lladó** | ***Andorra el meu país***, 1963: **primer manual escolar d'andorranitat** | **buit** |
 | **Pere Canturri (i Montanya)** | Citat sis cops al corpus; **cap fitxa** | **buit prioritari** |
 | **Antoni Morell i Mora** | Escriptor; coautor de *El Consell General (1682-1979)* | **buit** |

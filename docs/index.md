@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1058** documents · **285** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1059** documents · **286** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1270,6 +1270,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Albert Llovera i Massana](temes/persones/albert-llovera.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-jocs-andorra` |
 | [Albert Villaró i Boix](temes/persones/albert-villaro.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-albert-villaro` |
+| [Bonaventura Riberaygua i Argelich](temes/persones/bonaventura-riberaygua.md) | `temes/persones` | compilada | contemporania | no | `riberaygua-biografia-secretari` |
 | [Francisco José Catalán de Ocón](temes/persones/catalan-de-ocon.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-es-catalan-de-ocon` |
 | [Daniel Marín Rodríguez](temes/persones/daniel-marin.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
 | [Els caps de Govern](temes/persones/els-caps-de-govern.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
@@ -1882,6 +1883,7 @@
 | [`pujol-fet-religios`](fonts/pujol-fet-religios.md) | Mn. Joan Pujol i Balcells · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rabassa-alteracio-parlars-1994`](fonts/rabassa-alteracio-parlars-1994.md) | Lídia Rabassa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`reigfundacio-la-fundacio`](fonts/reigfundacio-la-fundacio.md) | Fundació Julià Reig | publicació institucional, sense llicència declarada | pendent |
+| [`riberaygua-biografia-secretari`](fonts/riberaygua-biografia-secretari.md) | El Periòdic d'Andorra · Bondia | premsa, drets reservats; citació breu | False |
 | [`ribes-gastronomia-andorrana`](fonts/ribes-gastronomia-andorrana.md) | M. Dolors Ribes i Rogé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`rios-urruti-andorra-1920`](fonts/rios-urruti-andorra-1920.md) | Junta para Ampliación de Estudios e Investigaciones Científicas · Centro de Estudios Históricos (edició); Fernando de los Ríos Urruti (textos) | sense llicència ni estat de drets declarats a l'ítem digital; termini espanyol per a defuncions anteriors a 1987, vuitanta anys post mortem | pendent |
 | [`rodriguez-minana-notaris`](fonts/rodriguez-minana-notaris.md) | Joan Carles Rodríguez i Miñana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
