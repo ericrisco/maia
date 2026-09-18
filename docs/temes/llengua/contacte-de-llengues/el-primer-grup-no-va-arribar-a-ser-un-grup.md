@@ -248,8 +248,8 @@ s'hi mesura al final** *(pp. 89-91)*:
 > **El corpus té la llei i els terminis** ([els andorrans de primera
 > generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md))
 > **i no tenia cap font que lligués el règim de nacionalitat amb l'elecció de
-> llengua.** `Aquí és una hipòtesi de partida, no un resultat: el que el llibre
-> n'acabi dient és a les conclusions, que aquesta tanda no llegeix.`
+> llengua.** `Aquí és una hipòtesi de partida, no un resultat: les conclusions
+> llegides el 2026-09-18 la reprenen i la reformulen.`
 >
 > **I la tercera posa un nom al que el corpus té mesurat per l'enquesta**:
 > **plurilingüisme potencial** — **conèixer sense usar.** Vegeu [contacte de
@@ -270,12 +270,17 @@ s'hi mesura al final** *(pp. 89-91)*:
    llibre no dona cap criteri.**
 5. **Les transcripcions literals** de les sis sessions. **El llibre en cita
    fragments a l'anàlisi; el corpus no sap si els originals es conserven ni on.**
-6. **Si les conclusions confirmen les tres subhipòtesis.** **Aquesta tanda té les
-   hipòtesis i no les respostes**: **són a la tercera part, sense llegir.**
-7. **Què deia l'exploració teòrica sobre la població, la segmentació interna i
-   els tres sistemes educatius** *(pp. 51-88)*. **Prioritari**: **és la
-   contextualització que el corpus podria contrastar amb les seves pròpies
-   fitxes.**
+6. ~~**Si les conclusions confirmen les tres subhipòtesis.**~~ — **`parcial` el
+   2026-09-18**: la tercera part del PDF, pp. **245–272**, **confirma
+   explícitament la primera**; la segona es reprèn com el paper central del català
+   en la identitat i la integració, amb una reformulació cap a una identitat més
+   flexible; i la tercera **no es pot confirmar ni refutar de manera concloent**
+   perquè l'anàlisi es basa en percepcions subjectives. **No és una validació
+   quantitativa de les subhipòtesis.**
+7. ~~**Què deia l'exploració teòrica sobre la població, la segmentació interna i
+   els tres sistemes educatius** *(pp. 51-88)*.~~ — **`resolt` el 2026-09-18**:
+   l'apartat 4 sencer de la primera part ja està destil·lat en [els matrimonis
+   mixtos es dedueixen del bilingüisme](./els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md), en quatre unitats que cobreixen la població, la segmentació, la situació sociolingüística, els tres sistemes i les relacions interlingüístiques.
 
 ## Related
 
