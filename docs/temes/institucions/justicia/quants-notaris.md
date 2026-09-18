@@ -281,8 +281,8 @@ tot.**
    creixent.**
    `Buit nou: la data i la forma de l'acord entre França i el bisbe que va
    suprimir notaris cap al 1918, i quants se'n van suprimir.`
-2. **La carta de febrer de 1607**, sencera. — **`parcial` des del 15-09-2026, i
-   el mecanisme ja té nom andorrà.** El **capítol VI del llibre II del Politar**
+ 2. ~~**La carta de febrer de 1607, sencera**~~ — **`parcial` des del 15-09-2026**:
+    el mecanisme ja té nom andorrà. El **capítol VI del llibre II del Politar**
    descriu el sistema en vigor: **el nomenen «alternativament per vida» el Bisbe
    d'Urgell i el comte de Foix**, i **«en la vacant de notari o escriva, lo
    Concell General consulte dos homens de la major probitat, vulgo fa la doena,

@@ -79,8 +79,8 @@ andorrana del canvi de segle.
 
 > **Auditats contra la resta del corpus el 2026-09-13**, sense fonts noves.
 
-- **La clàusula del 5%**: quan s'aplica exactament, i quant va recaptar.
-  **`parcial` — 2026-09-13.** **Que es va aplicar, i a qui, ja ho diu aquesta
+- ~~**La clàusula del 5%: quan s'aplica exactament, i quant va recaptar**~~ —
+   **`parcial` el 13-09-2026**. **Que es va aplicar, i a qui, ja ho diu aquesta
   mateixa fitxa**: el **1949**, a **Crèdit Andorrà i la Caixa**. El que
   aquesta fitxa **no sabia** és que **[el Banc Agrícol](./el-banc-agricol.md)
   en descriu una versió que no encaixa amb aquesta** — segons Cerqueda el 5%

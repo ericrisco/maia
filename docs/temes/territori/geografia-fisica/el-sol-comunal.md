@@ -152,8 +152,8 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    registra com a **prioritari** i **Brutails no l'esmenta enlloc**. Buscat i no
    trobat.
 2. **El decret del Consell General del 4 de juny de 1878**, sencer.
-3. **El document de 1366**, i per què Brutails el considera sospitós. — **`parcial`
-   des del 2026-09-18**: **la raó ja la tenim, i no és el contingut, és la
+ 3. ~~**El document de 1366, i per què Brutails el considera sospitós**~~ — **`parcial`
+    des del 2026-09-18**: **la raó ja la tenim, i no és el contingut, és la
    procedència** — «**no cito aquest document sinó amb reserva: la font d'on prové
    m'inspira alguna desconfiança**». **Quina és aquesta font, no ho diu.** I **el
    text del reconeixement sí que hi és**: el **13 de desembre de 1366** el **veguer
@@ -161,17 +161,16 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    pratz et comus he aygueres*», «*fer comus pratz e cloure aquelz*», **com
    antigament**. Vegeu [que les aygües públiques pertany a aquesta
    casa](../../institucions/consell-general/que-les-aygues-publiques-pertany-a-aquesta-casa.md).
-4. **Si el *Consell de les bohigues* encara existeix** en algun comú. — **`parcial`
-   des del 16-09-2026**: **el 1918 encara es feia, i era un dels cinc consells
+ 4. ~~**Si el *Consell de les bohigues* encara existeix en algun comú**~~ — **`parcial`
+    des del 16-09-2026**: **el 1918 encara es feia, i era un dels cinc consells
    ordinaris de l'any de cada parròquia**, al costat dels dels Innocents, de les
    talles, de la Pasqua de l'Esperit Sant i de Sant Miquel ([quan la parròquia no
    nomena metge, el quart ho pot
    fer](../../institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md)).
    **El que segueix obert és si existeix avui**, i **quin dia de l'any queia**,
    que és l'únic dels cinc que la font no situa.
-5. **Les *terres de guarda***, els ***antoxans***, el ***condal*** i el
-   ***violari***: capítols del mateix llibre que el corpus **encara no ha llegit**.
-   — **`parcial` des del 2026-09-18: tres dels quatre ja són llegits.**
+ 5. ~~**Les *terres de guarda*, els *antoxans*, el *condal* i el *violari***~~ —
+    **`parcial` des del 2026-09-18**: capítols del mateix llibre; tres dels quatre ja són llegits.
    **Les *terres de guarda*** a [aquesta opinió del poble era útil de
    notar](./aquesta-opinio-del-poble-era-util-de-notar.md); **els *antoxans*** a
    [la llei afavoreix la finca que presta la

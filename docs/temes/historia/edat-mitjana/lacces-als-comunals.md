@@ -230,9 +230,8 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
 ## Buits registrats
 
 1. Les **ordinacions senceres**, en text.
-2. **Quant valia un sou** el segle XV — sense això, «cinc sous de ban» no es pot
-   avaluar.
-   **`parcial` — 2026-09-13.** **La conversió ja era al corpus i aquesta fitxa
+ 2. ~~**Quant valia un sou el segle XV**~~ — **`parcial` el 13-09-2026**: sense
+    aquesta conversió, «cinc sous de ban» no es pot avaluar. **La conversió ja era al corpus i aquesta fitxa
    no hi anava.** Brutails la publica a l'apèndix del primer capítol de *La
    Coutume d'Andorre* (1904): «*la livre ancienne, catalane ou barcelonaise,
    **qui vaut 2 pesetas 66***… *Le sou ancien est donc au sou de 5 centimes

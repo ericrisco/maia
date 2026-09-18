@@ -66,8 +66,8 @@ andorrana», és la dansa d'Andorra la Vella—, és **participativa** i és
   confirmat.** **El corpus no té la descripció de cap coreografia andorrana**;
   la cosa més pròxima és la **descripció de vestuari del Ball del porrer** que
   [els catorze balls](./els-catorze-balls.md) cita d'Amades.
-- **El paper de l'Esbart Dansaire i des de quan.** — **`parcial`.** **El paper,
-  sí:** [Andorra la Vella](../../territori/parroquies/andorra-la-vella/andorra-la-vella.md)
+- ~~**El paper de l'Esbart Dansaire i des de quan**~~ — **`parcial`**. **El paper,
+   sí:** [Andorra la Vella](../../territori/parroquies/andorra-la-vella/andorra-la-vella.md)
   registra el contrapàs com a **patrimoni immaterial de la parròquia «que
   interpreta l'Esbart Dansaire»**, i aquesta mateixa fitxa el descriu ballant
   barrejat amb ciutadans i càrrecs electes. **El «des de quan», no** — però el
