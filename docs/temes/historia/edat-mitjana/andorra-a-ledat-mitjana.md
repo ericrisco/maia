@@ -65,7 +65,9 @@ cita.
 - La vida real a les valls: cases, quarts, pastures, camins, comerç.
 - L'església romànica andorrana, que és el patrimoni més important del país
   d'aquest període i té **branca pròpia buida**.
-- Els **Costums** i el dret consuetudinari abans del Manual Digest.
+- ~~Els **Costums** i el dret consuetudinari abans del Manual Digest.~~ —
+  **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda al
+  panorama de [l’antic règim](../antic-regim/lantic-regim.md).
 - La documentació de l'Arxiu Nacional i les actes del Consell, que arrenquen més
   tard però remeten enrere.
 - L'article de la **Catalunya Romànica** sobre el marc històric del romànic
