@@ -360,6 +360,7 @@ diccionari.
    sense corregir per fidelitat, però **qualsevol ús d'aquesta transcripció com a
    text d'entrenament propagarà l'error**. És el primer cas del corpus en què la
    fidelitat i la utilitat apunten en direccions contràries, i **no es resol aquí**.
+   `no-es-buit`: és un avís de qualitat de la transcripció, no una pregunta pendent.
 3. **Sense lectura**: `[?grats] de llana` (00:02:18), `es crea per tant un cap de
    casa` (00:06:30), `[?esforçaments]` (00:07:27).
 4. **L'inici s'ha perdut.** El VAD talla fins a 00:00:15,200 i la transcripció

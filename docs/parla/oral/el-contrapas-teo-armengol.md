@@ -319,3 +319,4 @@ està verificada contra l'àudio.**
    Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**
 5. **De la persona no consta** ni generació, ni origen, ni llengua primera.
 6. **`miqueta` és d'un sol parlant**: idiolecte fins que no aparegui en un altre.
+   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
