@@ -137,9 +137,26 @@ Afirmació forta de Becat, i el corpus la registra tal com la fa:
 > propi d'Andorra.»**
 
 El vessant solell de l'alt riu Arieja és d'Andorra; **l'altre costat és de la
-Catalunya Nord segons el tractat** [de Corbeil]. I **de sempre les pastures del
+Catalunya Nord segons «el tractat de Courville»**. I **de sempre les pastures del
 Pas de la Casa es lloguen a cerdans**, i **els andorrans encara les lloguen avui
 com abans que hi hagués l'annexió**.
+
+> **Correcció del 18-09-2026, i el corpus retira una conjectura seva.** **Aquesta
+> fitxa llegia el nom com a «[de Corbeil]», entre claudàtors, a partir d'una
+> lectura d'OCR dubtosa.** **La pàgina impresa** —**p. 53 del volum, PDF 49,
+> llegida com a imatge a 400 ppp**— **diu «Courville», sense cap dubte
+> tipogràfic.** **L'OCR era correcte i la conjectura del corpus, no.**
+>
+> **El corpus no identifica cap tractat de Courville.** **Ni el nom ni la data no
+> surten enlloc més d'aquest corpus.** **I «Corbeil» tampoc no encaixa**: **el
+> tractat de Corbeil del 1258 va en direcció contrària** —hi és el rei de França
+> qui renuncia a drets sobre els comtats catalans— i **el corpus té documentat,
+> des d'una altra font, que Andorra no en queda afectada**
+> ([no una imitació sinó una caricatura](../../historia/pareatge/no-una-imitacio-sino-una-caricatura.md)).
+> **El text que anexiona la Catalunya Nord a França és el tractat dels Pirineus
+> del 1659**, i **el corpus registra que Becat no el nomena així** —però **no
+> afirma que sigui el que volia dir**. **El nom queda tal com és imprès, i el buit
+> queda obert amb la pregunta ben plantejada.**
 
 **L'anomalia aparent és l'anomalia global de l'alta vall de l'Arieja.**
 
@@ -208,8 +225,12 @@ mateix tros de muntanya, dos règims alhora.**
   que hi afegeix una cosa que canvia com s'ha de llegir aquesta fitxa: **quan una
   parròquia guanyava una muntanya, no hi pujava el seu bestiar — la llogava**.
   **Rutes i qui hi anava: segueixen sent buit.**
-- El **tractat** que fixa la frontera nord, citat aquí com a «de Corbeil» a
-  partir d'una lectura OCR dubtosa. **Verificar.**
+- ~~El **tractat** que fixa la frontera nord, citat aquí com a «de Corbeil» a
+  partir d'una lectura OCR dubtosa.~~ — **`parcial` el 18-09-2026**: **la lectura
+  d'OCR era bona i la conjectura del corpus, dolenta.** **La pàgina impresa diu
+  «el tractat de Courville»**, comprovat sobre el render a 400 ppp de la p. 53.
+  `El que segueix obert és quin tractat és: cap font del corpus no coneix un
+  «tractat de Courville», i Corbeil (1258) queda descartat per sentit.`
 - **Joan Becat** i la seva obra sobre Andorra.
 
 ## Un tros de límit que no segueix aquesta lògica
