@@ -260,6 +260,57 @@ respon per què l'article 40 importa:
 **La residència passiva s'ha reduït a un terç el 2026**, i el compte propi va
 caure a la meitat el 2024 abans de recuperar-se parcialment.
 
+## La quota és el cabal; això és el dipòsit
+
+> **Afegit el 18-09-2026** amb `AUTORITZACIONS D'IMMIGRACIÓ EN VIGOR PER TIPUS`
+> (`docs/raw/estadistica-api/`, CC BY 4.0,
+> [font](../../../fonts/estadistica-ad.md)). **Les quotes de dalt diuen quantes
+> autoritzacions es poden concedir; aquesta taula diu quantes n'hi ha de
+> vigents, cada mes, des del 2008.** **El corpus tenia el cabal i no el
+> dipòsit.**
+
+**Al desembre de cada any:**
+
+| Any | Residència i treball | Residència | Temporal | Fronterer | **Total** |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **2008** | **36.326** | 6.893 | 2.930 | **2.135** | **48.915** |
+| 2010 | 34.313 | 7.179 | 2.831 | 1.797 | 46.765 |
+| **2013** | **31.956** | 7.302 | 2.641 | 1.568 | **44.066** |
+| 2016 | 32.902 | 7.853 | 3.494 | 1.355 | 46.321 |
+| 2019 | 35.381 | 8.214 | 4.489 | 1.662 | 50.517 |
+| **2020** | 34.824 | 8.396 | **1.121** | 1.648 | 46.779 |
+| 2022 | 37.262 | 9.144 | **5.904** | 1.777 | 55.153 |
+| 2023 | 40.316 | 9.623 | 4.441 | 1.808 | 57.062 |
+| **2025** | **42.900** | **10.199** | 4.574 | 1.955 | **60.399** |
+
+**Tres coses que la sèrie de quotes no deixava veure.**
+
+**Primera: el dipòsit va buidar-se cinc anys seguits.** **Del 2008 al 2013 les
+autoritzacions vigents cauen de 48.915 a 44.066**, **un −9,9%**, i **les de
+residència i treball cauen encara més, un −12,0%.** **La crisi va fer marxar
+gent, no només va aturar l'entrada.** **No es recupera el nivell del 2008 fins
+al 2018.**
+
+**Segona: l'autorització de residència sense treball puja mentre tota la resta
+baixa.** **De 6.893 el 2008 a 10.199 el 2025**, **un +48,0%**, i **durant els
+cinc anys de caiguda general només retrocedeix una vegada i de vint
+autoritzacions** —de 7.322 el 2012 a 7.302 el 2013—. **Cap altra categoria no
+travessa la crisi creixent**, i **és precisament la que la quota del 2026 ha
+retallat de 600 a 200** (vegeu més amunt). `El corpus no lliga les dues coses:
+registra que la categoria que més ha crescut en disset anys és la que s'acaba de
+restringir.`
+
+**Tercera: la temporal és el termòmetre de l'hivern.** **El desembre del 2019 hi
+havia 4.489 autoritzacions temporals vigents i el del 2020 n'hi havia 1.121**:
+**un −75,0% en un any.** **El 2022 arriba a 5.904, el màxim de tota la sèrie.**
+**Cap altra categoria no es mou així.**
+
+**I una quarta, petita**: **els fronterers toquen fons el 2016 amb 1.355** i
+**el 2025 en són 1.955**, **encara per sota dels 2.135 del 2008.** **És l'única
+categoria gran que disset anys després segueix per sota d'on era**, **en un país
+que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
+([la piràmide](../demografia/la-mateixa-gent-quinze-anys-mes-gran.md)).
+
 ## Buits registrats
 
 1. ~~**El reglament que fixa les malalties de risc per a la salut pública.** I el
