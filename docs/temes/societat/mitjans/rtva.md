@@ -79,13 +79,13 @@ gestiona RTVA, la finança.**
 - Els programes concrets i quins tenen parla espontània (tertúlies, carrer) i
   quins són locució.
 - Quanta producció pròpia hi ha i quanta és aliena.
-- El marc legal de RTVA i qui la governa. — **`parcial` el 2026-09-18 pel
+- ~~El marc legal de RTVA i qui la governa.~~ — **`parcial` el 2026-09-18 pel
   costat dels diners**: **l'Estat hi posa 5.349.092,69 € el 2026**, **com a
   transferència corrent a «RTVA, SA»**, de manera que **és una societat que
   l'Estat finança, no un servei que gestiona.** **La llei i els òrgans de
   govern segueixen oberts.**
-- L'audiència: quanta gent d'Andorra mira i escolta RTVA, contra mitjans
-  espanyols i francesos. — **`parcial` des del 2026-09-15: hi ha l'ordre i no
+- ~~L'audiència: quanta gent d'Andorra mira i escolta RTVA, contra mitjans
+  espanyols i francesos.~~ — **`parcial` des del 2026-09-15: hi ha l'ordre i no
   hi ha els números.** Un estudi del Servei de Política Lingüística resumeix així
   l'Observatori del CRES sobre mitjans
   ([lectura](../../llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md)):
@@ -95,9 +95,9 @@ gestiona RTVA, la finança.**
   baixa però també representativa»**. **Cap xifra, cap any, cap mostra**: la font
   remet a `http://www.iea.ad/cres/recerca/acabades/mitjans.htm`.
   `Requereix font externa: l'IEA/CRES.`
-- Els altres mitjans del país: **Diari d'Andorra**, **El Periòdic**,
+- ~~Els altres mitjans del país: **Diari d'Andorra**, **El Periòdic**,
   **Altaveu**, **Bondia**, **Ara Andorra**, **Fòrum.ad** — **cadascun mereix
-  fitxa**, i tots són font de català d'Andorra escrit contemporani. —
+  fitxa**, i tots són font de català d'Andorra escrit contemporani.~~ —
   **`parcial` des del 2026-09-13, i el buit és més urgent del que semblava.**
   **Fitxa pròpia, cap; però el corpus ja depèn d'aquests diaris i ho fa
   malament**: la fitxa de font
