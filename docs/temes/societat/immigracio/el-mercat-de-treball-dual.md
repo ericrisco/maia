@@ -374,11 +374,11 @@ són de temporada sencera.` `serie_estadistica`
    **El «com funcionava» i el «quan deixa de caldre» segueixen oberts**, i
    **per un motiu que el corpus ja ha registrat**: **és una pràctica que no
    deixa document.**
-7. **Les tres obres del CRES** citades: *Anàlisi de la situació laboral a
+7. ~~**Les tres obres del CRES** citades: *Anàlisi de la situació laboral a
    Andorra* (2003), *La immigració a Andorra* (2004), *Composició de les llars a
-   Andorra* (2005). — **`obert`, confirmat**, i **la segona és el mateix buit
-   que declara [la piràmide de prestigi](./la-piramide-de-prestigi.md)**
-   (Batalla, Casals, Micó — Pagès Editors, 2004).
+   Andorra* (2005).~~ — **`parcial` el 18-09-2026**: **la de 2004** és el mateix
+   buit que declara [la piràmide de prestigi](./la-piramide-de-prestigi.md) i
+   queda com a entrada canònica; **les de 2003 i 2005 continuen sense llegir-se**.
 
 ## Related
 
