@@ -490,8 +490,31 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   quants socis té, si existeix encara. **No apareix a cap altra fitxa del
   corpus.**
 - ~~Quants funcionaris té Andorra el 2000~~ — **tancat per a l'Administració
-  general: 1.490.** **Segueix obert** quants n'hi ha als **comuns**, i quants
-  n'hi ha avui.
+  general: 1.490.** **I «quants n'hi ha avui» es tanca el 18-09-2026** per
+  l'API d'Estadística (divisions **1330-1334**, **font Departament de Funció
+  Pública**), **amb sèrie del 2008 al 2024**:
+
+  | | 2008 | 2014 | 2018 | 2021 | **2024** |
+  | --- | ---: | ---: | ---: | ---: | ---: |
+  | **Personal de l'Administració general** | 2.437 | 2.500 | 2.650 | 2.743 | **2.868** |
+  | *Funcionaris* | — | — | 2.041 | 2.117 | **2.155** |
+  | *Interins* | — | — | 505 | 519 | **600** |
+  | **Dones** | — | — | 1.545 | 1.613 | **1.681** |
+
+  **De 1.490 el 2000 a 2.868 el 2024: gairebé el doble en vint-i-quatre anys**,
+  i **el creixement es concentra del 2015 ençà** —**+15,4% en nou anys** contra
+  **+2,0% entre el 2008 i el 2014.**
+
+  **Dues coses que el total amaga.** **Els interins passen de 505 a 600 en sis
+  anys** —**un de cada cinc efectius no és funcionari**— i **el 58,6% del
+  personal són dones**.
+
+  **Per cos el 2024**: **ensenyament 1.030**, **cos general 1.017**, **policia
+  260**, **justícia 129**, **bombers 121**, **duana 75**, **penitenciària 63**,
+  **diplomàtic 42** —**que no existia abans del 2019**— i **banders 20**.
+
+  `Segueix obert quants funcionaris tenen els comuns: la divisió és
+  d'Administració general i no els inclou.`
 - **Els banders**: cos especial i cap fitxa al corpus. — **`parcial` el
   2026-09-18**: **l'escala retributiva sí que hi és** —**tres nivells, de
   27.473,42 a 48.226,66 € de sou base**, **el cos amb la carrera més curta de
