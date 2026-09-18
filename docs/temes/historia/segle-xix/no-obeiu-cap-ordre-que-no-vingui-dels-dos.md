@@ -256,9 +256,11 @@ I la regla que el Consell subratlla:
 1. **El decret de Simeó de Guinda del 3 de febrer de 1715, original.** **El corpus
    en té la còpia íntegra que en fa un imprès de 1894** i **no ha vist l'original
    ni en sap la signatura d'arxiu.** **Prioritari.**
-2. **Què va passar entre el 1715 i el 1728-1733** perquè el mateix bisbe passés de
-   manar desobeir l'intendent general a cedir-hi. **El corpus té els dos extrems i
-   res al mig.** **Prioritari.**
+2. ~~**Què va passar entre el 1715 i el 1728-1733** perquè el mateix bisbe passés de
+   manar desobeir l'intendent general a cedir-hi.~~ — **`parcial` el 18-09-2026**:
+   **el corpus fixa els dos extrems** —l'ordre de desobediència del **3 de febrer
+   de 1715** i la prohibició del tabac **cap al 1728-1733** sota pressió duanera—,
+   però **no té cap document del gir ni el seu moment exacte**.
 3. **Quins eren els «Ministros subdelegados» i què reclamaven** el 1715. **La font
    no ho diu.** `Requereix documentació de la Intendència General de Catalunya.`
 4. **La concòrdia i reglament d'Andreu Capella al gremi de teixidors, 1604.**
@@ -266,8 +268,10 @@ I la regla que el Consell subratlla:
    fórmula i perquè és un reglament gremial andorrà que el corpus no té.**
 5. **Els documents de Joan Baptista Desbach.** **Cap data concreta**; només la de
    la seva mort, **1688**.
-6. **El decret de Caixal del 22 d'abril de 1866 sencer.** **La font en cita el
-   principi i el final.**
+6. ~~**El decret de Caixal del 22 d'abril de 1866 sencer.**~~ — **`parcial` el
+   18-09-2026**: **la font en cita el principi i el final**, inclosa la regla que
+   els veguers governen junts i que el present pot actuar quan l'altre és absent;
+   **el text complet del decret encara falta**.
 7. **El text dels Pariatges del 8 de setembre de 1278** i **la confirmació de
    Martí IV.** **El corpus té la data per aquesta font i pel Pariatge; la
    confirmació papal no l'ha vista.**
