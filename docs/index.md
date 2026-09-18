@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1027** documents · **210** fonts · **39** aptes com a model de llengua · **125** temes amb contingut.
+**1028** documents · **210** fonts · **39** aptes com a model de llengua · **125** temes amb contingut.
 
 ## parla/oral
 
@@ -263,6 +263,7 @@
 | [Els altres impostos](temes/economia/banca-i-fiscalitat/els-altres-impostos.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els tipus impositius](temes/economia/banca-i-fiscalitat/els-tipus-impositius.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [La venda a carta de gràcia](temes/economia/banca-i-fiscalitat/la-carta-de-gracia.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `becat-tesi-1993` |
+| [La pressió fiscal s'ha doblat](temes/economia/banca-i-fiscalitat/la-pressio-fiscal-sha-doblat.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `estadistica-ad` |
 | [La supervisió financera](temes/economia/banca-i-fiscalitat/la-supervisio-financera.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [L'oligopoli bancari: del 1951 al segle XXI](temes/economia/banca-i-fiscalitat/loligopoli-bancari.md) | `temes/economia/banca-i-fiscalitat` | compilada | contemporania | no | `wikipedia-anys-daurats` |
 | [Nascut d'una prohibició eclesiàstica, mort per decret episcopal](temes/economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md) | `temes/economia/banca-i-fiscalitat` | compilada | historica | no | `brutails-coutume-1904` |
