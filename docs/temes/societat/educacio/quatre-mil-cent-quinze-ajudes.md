@@ -115,9 +115,9 @@ del 2024.`
   `font_externa`
 - **La renda de les famílies que les demanen**, que és el criteri de la llei i
   **no es publica.** `font_externa`
-- **A quines universitats van els becats**, i a quins països.
-  ([la Universitat d'Andorra](./la-universitat-dandorra.md) té oberta la mateixa
-  pregunta). `font_externa`
+- **A quines universitats van els becats**, i a quins països. La fitxa de [la
+  Universitat d'Andorra](./la-universitat-dandorra.md) tracta una qüestió
+  institucional diferent i no aporta aquesta distribució. `font_externa`
 - **Què va passar el 2024** perquè l'import caigués 314.794 € en un any.
   `pregunta_oberta`
 - **Els crèdits d'estudis**, que la llei del 1992 crea al costat de les beques i
