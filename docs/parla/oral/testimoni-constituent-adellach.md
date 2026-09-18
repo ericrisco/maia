@@ -251,13 +251,16 @@ Aquesta tanda existeix, en bona part, per haver-ho pogut comprovar.
 5. **`teua` surt una sola vegada.** Una ocurrència neta és un indici, **no un
    tret**. Perquè ho fos caldria trobar-la en més parlants o més vegades en
    aquesta; **`teva` no surt cap vegada a la peça**, cosa que hi juga a favor,
-   però un token és un token.
-6. **`no… pas` també surt una sola vegada.** Mateixa reserva.
+   però un token és un token. `no-es-buit`: és una reserva metodològica, no una
+   pregunta pendent.
+6. **`no… pas` també surt una sola vegada.** Mateixa reserva. `no-es-buit`: és
+   una reserva metodològica, no una pregunta pendent.
 7. **No consta si és andorrana de casa**, ni la llengua primera, ni l'ofici.
 
 **Sobre l'abast**
 
 8. **Dues veus de vint-i-set.** I ja han bastat per desmentir una generalització
    feta amb una. **Amb quatre parlants en total, el corpus de parla encara no pot
-   afirmar res sobre «l'andorrà».**
-9. `no-és-buit` — **Els drets segueixen `pendent`** en tota aquesta sèrie (avís R005). **No és una pregunta oberta: és l'estat de drets de la peça**, que viu al camp `redistribucio` de la seva fitxa de font. **Es resol signant una cessió, no consultant cap arxiu.**
+   afirmar res sobre «l'andorrà».** `no-es-buit`: és una limitació de la mostra,
+   no una pregunta pendent.
+9. `no-es-buit` — **Els drets segueixen `pendent`** en tota aquesta sèrie (avís R005). **No és una pregunta oberta: és l'estat de drets de la peça**, que viu al camp `redistribucio` de la seva fitxa de font. **Es resol signant una cessió, no consultant cap arxiu.**

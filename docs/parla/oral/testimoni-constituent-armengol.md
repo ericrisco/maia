@@ -244,4 +244,5 @@ no.** El mateix patró que `sigut` i `tindre`.
    ni ofici. **És el quart perfil buit seguit d'aquesta sèrie.**
 5. **Lèxicament és la peça més pobra** de les onze: cap mot d'ofici, cap
    andorranisme. Confirma per tercera vegada que **les entrevistes polítiques
-   donen sintaxi i marcadors, no lèxic**.
+   donen sintaxi i marcadors, no lèxic**. `no-es-buit`: és una observació de
+   l'abast de la peça, no una pregunta pendent.
