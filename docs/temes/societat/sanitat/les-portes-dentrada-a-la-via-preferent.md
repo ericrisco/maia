@@ -277,15 +277,23 @@ genètic o neurològic** segons la classificació de l'OMS.
   336/2023 i 80/2025 llegits íntegrament, amb les onze pàgines contrastades
   visualment. Continuen pendents la lectura íntegra de les quinze pàgines
   de 2018 i una cerca exhaustiva de disposicions no enumerades o posteriors.
-- La fitxa web de l’errata de 2022 data el BOPA 106 el **10 de setembre**,
+- ~~La fitxa web de l’errata de 2022 data el BOPA 106 el **10 de setembre**,
   però la capçalera del PDF diu **9 de setembre**. Es conserven les dues
-  indicacions, sense resoldre la discrepància.
+  indicacions, sense resoldre la discrepància.~~ — **`resolt` el 18-09-2026**:
+  l’**índex oficial de l’API del BOPA** ([font](../../../fonts/bopa.md)) data
+  el butlletí 106/2022 el **9 de setembre del 2022** — **coincideix amb la
+  capçalera del PDF, no amb la fitxa web**. La fitxa web portava un dia de
+  més.
   ([Fitxa capturada](../../../raw/desocupacio/bopa-decret349-2022-errata-portal.json);
   [PDF, p. 1](../../../raw/desocupacio/bopa-decret349-2022-errata.pdf).)
-- També discrepen les dates de dos altres butlletins: per al 117/2022,
+- ~~També discrepen les dates de dos altres butlletins: per al 117/2022,
   la fitxa diu **4 d’octubre** i el PDF **3 d’octubre**; per al 149/2022,
-  la fitxa diu **23 de desembre** i el PDF **22 de desembre**. No s’arbitra
-  la data jurídica de publicació ni els expedients de transició d’octubre.
+  la fitxa diu **23 de desembre** i el PDF **22 de desembre**.~~ — **`resolt`
+  el 18-09-2026, mateixa via**: l’índex oficial data el 117/2022 el **3
+  d’octubre del 2022** i el 149/2022 el **22 de desembre del 2022** —
+  **el PDF encerta els tres cops, la fitxa web erra els tres cops, sempre
+  per un dia de més.** **No s’arbitra** la data jurídica de publicació ni
+  els expedients de transició d’octubre — només la data del butlletí.
   ([Fitxa 393/2022](../../../raw/desocupacio/bopa-decret393-2022-portal.json),
   [PDF, p. 1–2](../../../raw/desocupacio/bopa-decret393-2022-acces-sanitari.pdf);
   [fitxa 542/2022](../../../raw/desocupacio/bopa-decret542-2022-portal.json),
