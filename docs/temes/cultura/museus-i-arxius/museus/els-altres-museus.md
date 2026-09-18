@@ -83,8 +83,14 @@ contacte amb l'andorrà Antoni Zorzano, col·leccionista de les seves obres.**
 obres**; **té també una col·lecció de quadres de Sant Jordi i de crists i
 figures de l'Europa ortodoxa.**
 
-**El corpus no tenia ni Zorzano ni aquesta operació.** **Buit obert: qui és
-Antoni Zorzano.**
+**Antoni Zorzano era Antoni Zorzano Riera** (1949, Sant Julià de Lòria),
+**empresari, col·leccionista i fundador del Museu de la Miniatura d'Ordino**,
+inaugurat el 1996, i **cònsol honorari d'Ucraïna a Andorra des del 2008**.
+També va crear l'espai **Sant Jordi**, dedicat a la iconografia ortodoxa.
+([font primària de premsa](../../../../raw/web/cultura/antoni-zorzano-bondia-2026.txt))
+
+**El corpus ja pot identificar la persona i el paper que va tenir en el museu**;
+la font del museu continua sense donar-ne una biografia completa.
 
 ## Museu de la Moto
 
@@ -140,7 +146,10 @@ patrimoni de la humanitat de la UNESCO.**
 ## El que falta
 
 - **El Centre d'Art d'Escaldes-Engordany**, del qual la font calla.
-- **Antoni Zorzano.**
+- ~~**Antoni Zorzano.**~~ — **`resolt` el 19-09-2026**: identificat com
+  **Antoni Zorzano Riera**, empresari, fundador del Museu de la Miniatura
+  d'Ordino i cònsol honorari d'Ucraïna des del 2008
+  ([font](../../../../raw/web/cultura/antoni-zorzano-bondia-2026.txt)).
 - **El còmic andorrà** i **La Massana Còmic**.
 - **Quantes de les peces romàniques del centre d'interpretació són originals i
   quantes reproduccions.**
