@@ -251,9 +251,33 @@ de novembre de 1898**.
 6. **La decisió del Consell General del 17 de maig de 1874** que cassa la decisió
    del comú, **sencera, i de quin comú era.** **Prioritari**: **és un límit
    escrit a la potestat normativa d'un comú.**
-7. **Què són exactament els *tardivalls* i les «*herbas maencas o artificials*».**
-   **El corpus registra els mots i no en dedueix el significat.**
-   `Requereix comprovació lexicogràfica.`
+7. ~~**Què són exactament els *tardivalls* i les «*herbas maencas o artificials*».**~~
+   — **`resolt` a mitges el 18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**,
+   **i la meitat que es tanca es tanca del tot.**
+
+   **«Herbas maencas» és *maiencs*, i el DCVB en té entrada amb el sentit
+   exacte**: **«MAIENCS m. pl. Herba novella que es dóna als animals pel mes de
+   maig, després de donar-los herba de l'any anterior durant tot l'hivern»**
+   (Alt Pallars, recollit per Coromines). **Etimologia: plural de *maienc*, «propi
+   del maig».** **Són l'herba nova de primavera**, i **l'oposició del text
+   —«maencas **o artificials**»— queda llegible**: **l'herba que neix sola contra
+   el prat sembrat.**
+
+   **De *tardivall*, en canvi, cap diccionari no en té entrada**: **ni
+   `tardival` ni `tardivall` ni `tardanal` no són al DCVB.** `El mot segueix sense
+   font lexicogràfica.` **El que sí que hi és és la família**: **`tardiu` («tardà»,
+   del llatí *tardivum*, documentat al Rosselló i l'Empordà) i `tardívol`, que el
+   DCVB deriva explícitament «de *tardiu*, per canvi de sufix».** **Que
+   *tardivall* sigui de la mateixa família és inferència morfològica del corpus,
+   no dada de diccionari.**
+
+   **I hi ha una troballa de tornada**: **el DCVB documenta per a Andorra el mot
+   de la segona dallada** — **`REDALL` m., «segona dallada de l'herba, que es fa
+   a la tardor; la mateixa herba, crescuda després de la primera dallada»**,
+   localitzat expressament a **Andorra**, el Pallars i la Cerdanya, **amb la
+   pronúncia andorrana anotada (`reðáʎ`)**. **Si *tardivall* volia dir el segon
+   farratge, el mot que Andorra fa servir per a això és documentadament un
+   altre.**
 8. **Si el *ban de vista* tenia termini propi.** **La font diu que el propietari
    «difereix» d'intimar-lo i no diu fins quan**, **quan per al ban ordinari dona
    vint-i-quatre hores.**

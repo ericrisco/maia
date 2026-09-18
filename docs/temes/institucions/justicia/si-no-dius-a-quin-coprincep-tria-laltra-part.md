@@ -415,10 +415,19 @@ precedents de retractació **no es transcriu aquí**: **l'extracció del text la
 dona barrejada amb la nota següent i no se'n pot llegir el contingut amb
 seguretat**. **Se'n reté la data i res més.** `Requereix la pàgina impresa.`
 
-**`Apostols` i `apostols reverencials` no són al
-[glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).** Del
-context s'entén que són **les lletres que el jutge *a quo* atorga per deixar
-passar l'apel·lació**, i **el corpus no ho ha comprovat lexicogràficament.**
+- ~~**`Apostols` i `apostols reverencials` no s'han comprovat
+  lexicogràficament.**~~ — **`resolt` el 18-09-2026.** **El
+  [DIEC2](../../llengua/../fonts/diec2.md) té l'entrada amb marca històrica**:
+  **«apòstols m. pl. [HIH] En hist., lletres lliurades, juntament amb el procés
+  original, a qui apel·lava contra una sentència, dirigides a un jutge o a un
+  tribunal superior.»** **La lectura que el corpus feia del context era exacta**,
+  amb una precisió: **es lliuren a qui apel·la.** **El
+  [DCVB](../../llengua/../fonts/dcvb.md) no en té el sentit processal**, i **cap
+  dels dos diccionaris no recull la distinció *reverencials* / *refutatoris***,
+  que **només és documentada aquí**. Vegeu
+  [Tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md).
+  `Nota de data: el bloc de sota es data «20-09-2026», que encara no ha arribat;
+  la data real de l'anotació no es pot recuperar.`
 
 > **`parcial` des del 20-09-2026, i ara amb la forma contrària documentada.** **Un
 > acte del 15 de novembre de 1533 refusa una apel·lació als Cosenyors «*tanquam

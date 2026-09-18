@@ -690,6 +690,18 @@ que **els recull com a ús popular andorrà dins un text francès**:
 | ***valira*** | **‘riu'**, com a nom comú — **«alguns padrins d'Andorra anomenen encara avui a qualsevol riu *una valira*»**, i en conserven l'expressió col·loquial ***anar a fer una valira*** en el sentit d'**anar a fer un riu** (orinar). **És l'argument que els autors oposen a l'etimologia llatina (*VALERIA*) de Coromines**: si el mot viu com a apel·latiu, el topònim és un hidrònim | [Els annexos dels topònims](../../territori/toponimia/els-annexos-dels-toponims.md) |
 | ***gord*** | **‘dur, fort'** en andorrà — **els autors hi recorren per llegir el topònim Engordany**, on el substrat rocós del solà té justament aquesta característica | ídem |
 
+### Dos mots del farratge, comprovats al DCVB — 18-09-2026
+
+| Mot | Què vol dir | On surt |
+| --- | --- | --- |
+| ***redall*** | **la segona dallada de l'herba, feta a la tardor**, i **l'herba mateixa, crescuda després de la primera**. **El [DCVB](../../fonts/dcvb.md) el localitza expressament a Andorra**, amb el Pallars, la Cerdanya, el Ripollès i l'Empordà, **i n'anota la pronúncia andorrana, `reðáʎ`** (contra `rəðáʎ` pirinenc-oriental i `rəðáј` empordanès) | [Un vedell paga com una vaca](../../institucions/justicia/un-vedell-paga-com-una-vaca.md) |
+| ***maiencs*** | **l'herba nova que es dona al bestiar pel maig**, després de tot l'hivern d'herba de l'any anterior. **Al DCVB, recollit per Coromines a l'Alt Pallars.** **A la tarifa de bans andorrana surt com a «*herbas maencas*»**, oposat a «*artificials*»: **l'herba que neix sola contra el prat sembrat** | ídem |
+
+**`redall` és el més valuós dels dos per a aquest corpus**: **és el DCVB qui hi
+posa Andorra**, i **amb pronúncia diferenciada**. **`maienc` no té localització
+andorrana al diccionari**; **el que és andorrà és l'atestació** —la tarifa de
+bans— **i el corpus no en dedueix que el mot sigui d'aquí.**
+
 **Els dos de dalt vénen d'un estudi de toponímia, no de lexicografia**, i **el
 corpus no els ha comprovat contra cap diccionari**. **`valira` és el més
 valuós dels dos**: és **un mot viu recollit en boca de parlants grans**, i

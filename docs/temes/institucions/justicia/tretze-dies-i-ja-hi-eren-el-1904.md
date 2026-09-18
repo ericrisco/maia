@@ -252,8 +252,25 @@ el corpus no ho ha comprovat lexicogràficament.»**
    el tretze històric i el del Codi vigent.**
 2. **Les «regles molt netes que fixen els diversos terminis del procediment
    d'apel·lació»** que la font invoca. **No les cita.**
-3. **Els *apòstols***: **comprovació lexicogràfica contra un diccionari**, ara que
-   el corpus té les dues menes documentades —*reverencials* i *refutatoris*.
+3. ~~**Els *apòstols***: **comprovació lexicogràfica contra un diccionari**.~~ —
+   **`resolt` el 18-09-2026, i la lectura del corpus era exacta.** **El
+   [DIEC2](../../../fonts/diec2.md) té l'entrada, com a plural i amb marca
+   històrica**: **«apòstols m. pl. [HIH] En hist., lletres lliurades, juntament
+   amb el procés original, a qui apel·lava contra una sentència, dirigides a un
+   jutge o a un tribunal superior.»**
+
+   **Tres coses que la definició confirma i una que hi afegeix.** **Confirma que
+   són lletres, que van amb el procés original i que s'adrecen al tribunal
+   superior**; **hi afegeix que es lliuren a qui apel·la**, i **no a qui resol**.
+   **El que el diccionari no recull és la distinció que aquest text documenta**:
+   **ni *reverencials* ni *refutatoris* no hi surten**, i **el sentit denegatori
+   del «*pro apostolis reffutatoriis*» de la Cúria no té entrada lexicogràfica.**
+
+   **I una asimetria entre els dos diccionaris, registrada**: **el
+   [DCVB](../../../fonts/dcvb.md) no té aquest sentit.** Les seves sis accepcions
+   d'`APÒSTOL` són totes religioses, metafòriques o de lloc comú —fins a «els cinc
+   apòstols» per als dits de la mà—, **i cap no és processal**. **El mot jurídic
+   només és al diccionari normatiu.**
 4. **Quan van deixar les Corts de conèixer de les apel·lacions contra el Jutge i
    contra el Consell General.** **El *Politar* diu que l'ús ha desaparegut i no
    ho data.**
