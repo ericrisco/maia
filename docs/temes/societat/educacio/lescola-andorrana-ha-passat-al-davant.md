@@ -143,9 +143,16 @@ el total del sistema menys les quatre nacionalitats que la nota nomena.
 
 **La taula respon la pregunta que el cos deixava oberta**: dels **8.166
 andorrans**, **3.465** van al sistema andorrà, **2.532** al francès, **2.053**
-al sistema espanyol i **116** a l'anglès. La resta de files també coincideixen
+al sistema espanyol i **116** a l’anglès. La resta de files també coincideixen
 amb els totals publicats. [El bolcat local](../../../raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv)
 conserva les categories originals; el residual és un càlcul del corpus.
+
+**«Altres» té contingut concret.** Els **1.504** alumnes són **611** de la
+categoria `ALTRES` de la font, **534** de nacionalitat desconeguda, **150**
+argentins, **54** britànics, **43** italians, **31** xilens, **18** americans,
+**17** alemanys, **15** holandesos, **15** marroquins, **8** belgues, **6**
+uruguaians, **2** indis i **0** iranians o «nats a Andorra». La font conserva
+també aquests noms encara que la nota els agrupi.
 
 ## Per nivell
 
@@ -185,7 +192,10 @@ que el corpus té de demografia
   l'andorrà i **116** a l'anglès.
 - **Quin és el centre anglès** i des de quan. La nota diu «un centre escolar
   anglès» i no el nomena.
-- **Què hi ha dins d'«Altres»**, que ja és la segona nacionalitat del sistema.
+- ~~**Què hi ha dins d'«Altres»**, que ja és la segona nacionalitat del sistema.~~
+  — **`resolt` el 18-09-2026**: el residual de **1.504** es descompon en les
+  categories de la divisió 256, incloses **534 nacionalitats desconegudes** i
+  **611** a la categoria `ALTRES` de la font.
 - **Per què el sistema francès perd alumnes** mentre el país en guanya.
 - **La mobilitat escolar per parròquies**, que la nota publica als apartats 3.1
   i 3.2 i **el corpus no ha llegit**.
