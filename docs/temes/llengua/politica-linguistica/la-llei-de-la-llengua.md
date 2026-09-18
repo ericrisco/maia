@@ -82,6 +82,12 @@ La duresa de la norma mesura la pressió sobre la llengua. Vegeu
   l'obligació d'atendre en català, mentre que **els bars i restaurants no**.
 - ~~El règim sancionador detallat.~~ **TANCAT.** Queda obert **si s'ha aplicat mai
   des del 2024**.
+- **La Llei d'ordenació de l'ús de la llengua oficial del 1999**, que és la que
+  la 6/2024 substitueix i **la que regia durant tota la sèrie
+  sociolingüística** del 1995 al 2018
+  ([sis onades en una taula](./sis-onades-en-una-taula.md)). **El corpus no en
+  té el text.** **Registrat el 18-09-2026**, i és un buit que impedeix dir què
+  obligava el taulell abans del 2024. `font_externa`
 - El Servei de Política Lingüística i les campanyes concretes.
 - Els arguments d'Andorra Endavant per votar-hi en contra.
 
