@@ -119,8 +119,11 @@ dir**.
    **`resolt` el 18-09-2026**: **Joan Roure i Jané** — vegeu [més amunt](#els-gegants-tenen-nom-i-qui-els-va-fer-tambe).
 3. ~~**Qui va construir els gegants** — l'amic geganter del Solsonès.~~ —
    **`resolt` el 18-09-2026**: **Manel Casserras i Boix**, el 1985.
-4. **La llegenda del Rei Moro i la Dama Blanca** de Sant Julià, sencera. Hauria
-   de tenir fitxa pròpia a [llegendes](../../cultura/llegendes/README.md).
+4. ~~**La llegenda del Rei Moro i la Dama Blanca** de Sant Julià, sencera.~~ —
+   **`parcial` el 18-09-2026**: el corpus ja té [la Dama Blanca d'Aubinyà](../../cultura/llegendes/la-dama-blanca-daubinya.md),
+   una narració completa situada a Sant Julià de Lòria. **No s'ha provat que
+   sigui exactament la variant que sosté els gegants, i el Rei Moro continua
+   sense relat propi.**
 5. ~~**La «Gresca gegantera»**: fundació, estatuts, si encara existeix.~~ —
    **`parcial` el 18-09-2026**: **fundada el 1985 per deu persones amb el
    suport del comú**. **Els estatuts no s'han vist**, i **«si encara existeix
