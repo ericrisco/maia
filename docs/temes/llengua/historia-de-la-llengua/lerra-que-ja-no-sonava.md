@@ -314,6 +314,7 @@ prova.**
   corrompuda: **el contingut s'hi pot confiar, la grafia literal no.**
 - **Drets tancats.** Dos titulars —el Govern per l'edició, Xavier Rull pels
   textos— i cap llicència. **Res d'aquest llibre no entra en cap dataset.**
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
 
 ## Related
 
