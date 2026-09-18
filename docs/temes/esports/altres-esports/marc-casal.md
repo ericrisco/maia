@@ -92,6 +92,7 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
   **entrenador Andrei Efremov.** **Tots dos patinadors són de Canillo, que és
   la parròquia del [Palau de Gel](./el-palau-de-gel.md)**: **el corpus ho deixa
   escrit com a coincidència amb causa probable i no com a fet provat.**
+  `no-es-buit`
 
 ## Related
 

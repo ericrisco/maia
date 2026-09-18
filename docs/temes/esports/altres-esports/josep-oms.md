@@ -77,7 +77,7 @@ internacional**.
 - ~~**On es va jugar** aquella Olimpíada.~~ — **`resolt`: TORÍ**, la **37a
   Olimpíada d'Escacs**, el **2006**.
 - **I l'altra Olimpíada amb Andorra, que la fitxa no tenia**: **Calvià 2004, la
-  36a**, **també al segon tauler**, **amb +6 =2 −4.**
+  36a**, **també al segon tauler**, **amb +6 =2 −4.** `no-es-buit`
 - **La resta del que en dona el bolcat**: **nascut a Lleida el 20 de juliol del
   1973**; **Mestre Internacional el 1997 i Gran Mestre el 2007**; **elo màxim
   2.528 el novembre del 2010**; **campió d'Andorra quatre anys seguits, del
@@ -86,7 +86,7 @@ internacional**.
   2004**; **entrenador FIDE des del 2014.**
   **El corpus ho subratlla**: **el millor resultat individual que Andorra ha
   tingut mai en una Olimpíada d'Escacs el va fer un jugador de Lleida que hi va
-  estar afiliat quatre anys.**
+  estar afiliat quatre anys.** `no-es-buit`
 - ~~**Els escacs andorrans**: federació, campionat nacional, quants jugadors.
   **El corpus no en té res**, i **Andorra hi té una tradició prou sòlida per
   produir dos grans mestres.**~~ — **`resolt` en bona part.**
