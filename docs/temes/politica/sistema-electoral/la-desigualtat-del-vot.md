@@ -320,9 +320,30 @@ Segons la ponència, **el Consell d'Europa** i **l'OSCE/ODIHR** han alertat de
 3. **La necessitat de facilitar la participació dels residents no nacionals a
    les eleccions locals**, i **reduir els anys per accedir a la nacionalitat**.
 
-**El corpus no té cap dels informes** i els registra com a **buit prioritari**:
-són **fonts externes, datades i verificables** sobre el sistema polític andorrà,
-exactament el tipus de material que més li falta.
+~~**El corpus no té cap dels informes** i els registra com a **buit
+prioritari**: són **fonts externes, datades i verificables** sobre el
+sistema polític andorrà, exactament el tipus de material que més li
+falta.~~ — **`resolt` el 18-09-2026**: **l'informe d'avaluació de
+necessitats de l'OSCE/ODIHR sobre les eleccions del 2 d'abril de
+2023** ([font](../../../fonts/osce-odihr-andorra-2023-needs-assessment.md))
+confirma les tres alertes, amb xifres:
+
+1. **Sobrerepresentació territorial**: «variacions considerables» en
+   votants per circumscripció; **la Comissió de Venècia (Consell
+   d'Europa) recomana que la desviació no superi el 10%, i en cap cas
+   el 15%.**
+2. **Percentatge petit d'electors**: **86.600 residents, només uns
+   27.800 votants registrats.**
+3. **Ciutadania i vot local**: «regles restrictives sobre l'adquisició
+   de la ciutadania que impedeixen votar a un nombre considerable de
+   residents»; **la Comissió de Venècia recomana el vot local per a
+   residents de llarga durada.**
+
+**Aquest informe és de l'OSCE/ODIHR, no del Consell d'Europa
+directament** —però cita i aplica els criteris de la **Comissió de
+Venècia**, l'òrgan del Consell d'Europa. **L'informe específic del
+Consell d'Europa, si n'hi ha un de diferent, segueix sense
+localitzar-se.**
 
 ## El programa de reforma, atribuït
 

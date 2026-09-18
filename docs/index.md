@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **331** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **332** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1915,6 +1915,7 @@
 | [`olivier-codina-biografia`](fonts/olivier-codina-biografia.md) | Presses universitaires de Perpignan · Patrimoni Cultural d'Andorra | publicació institucional, sense llicència declarada | pendent |
 | [`olympics-com-verdu-mamba-austria`](fonts/olympics-com-verdu-mamba-austria.md) | Comitè Olímpic Internacional (Olympics.com) | publicació institucional, sense llicència declarada | pendent |
 | [`oranias-formacio-administracio`](fonts/oranias-formacio-administracio.md) | Imma Oranias i Estudis · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`osce-odihr-andorra-2023-needs-assessment`](fonts/osce-odihr-andorra-2023-needs-assessment.md) | OSCE Office for Democratic Institutions and Human Rights (ODIHR) | publicació institucional internacional, ús públic | pendent |
 | [`palau-marti-identitat-andorrana-1994`](fonts/palau-marti-identitat-andorrana-1994.md) | Montserrat Palau i Martí · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pallares-medicina-andorra`](fonts/pallares-medicina-andorra.md) | Manuel Pallarès i Darsa · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pampalona-particularitats-microestats`](fonts/pampalona-particularitats-microestats.md) | Judith Pampalona i Tarrés · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
