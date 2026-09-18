@@ -253,9 +253,14 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    l'autor suposa que el Bisbe podria citar. **Parla en condicional i no en dona
    cap.**
 8. **Quins veguers van reivindicar el dret de gràcia i quan.** **Cap cas citat.**
-9. **On és, a la riba de la Valira, el lloc de les execucions**, i **si el garrot
-   es conserva encara.** **La font el situa en un cofre del menjador del Consell
-   General i ho diu amb dubte declarat.**
+9. ~~**On és, a la riba de la Valira, el lloc de les execucions**, i **si el garrot
+   es conserva encara.**~~ — **`parcial`, i bessó de**
+   [la pena de mort](./la-pena-de-mort.md#el-que-falta), **on el 18-09-2026 es
+   corregeix el mateix bullet duplicat**: **el garrot es conserva, sí** —cedit en
+   una exposició a Catalunya, permís del copríncep encara sense localitzar—, i
+   **el lloc de les execucions és la Roureda de Moles**, topònim que **no surt
+   enlloc més del corpus ni al nomenclàtor toponímic**.
+   `Requereix font externa: el nomenclàtor toponímic d'Andorra.`
 10. ~~**El *Politar* i el cerimonial de les execucions capitals.** **El corpus el
     té per remissió i no ha llegit el capítol.**~~ — **`resolt` el 18-09-2026.**
     **El capítol és a la p. 346 de l'extracte de Brutails**, i **el que hi ha

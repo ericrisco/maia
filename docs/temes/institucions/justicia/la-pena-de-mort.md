@@ -179,7 +179,9 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
   que diu que **«es conduí el reu fins a la Roureda de Moles, on va ser afusellat
   per un escamot»** — **però no en diu la situació**, i **no surt enlloc més del
   corpus**, ni a [toponímia](../../territori/toponimia/README.md).
-  `Requereix font externa: el nomenclàtor toponímic d'Andorra.`
+  `Requereix font externa: el nomenclàtor toponímic d'Andorra.` **Bessó**: [el
+  buit del dret de gràcia](./el-van-demanar-per-estalviar-no-per-pietat.md#el-que-falta)
+  el declarava amb el mateix bullet, ara corregit.
 - ~~**Si el garrot es conserva.**~~ — **`resolt`**, i per un document que el
   corpus ja tenia: **sí.** Canturri, a [la presó sense
   llei](./la-preso-sense-llei.md): **«Actualment està cedit en una exposició a
