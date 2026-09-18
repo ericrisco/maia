@@ -176,8 +176,10 @@ el curs 2013 i 1.871 el del 2024**
 - **Quant cobra cadascú.** Hi ha import total i nombre de beneficiaris; **la
   divisió és del corpus** i **no és la prestació d'una persona**, perquè els
   beneficiaris són mitjana anual i els imports, acumulat.
-- **Quina és la quantia legal** de cada prestació i com s'actualitza. `Requereix
-  la Llei de serveis socials i sociosanitaris i el seu reglament.`
+- ~~**Quina és la quantia legal** de cada prestació i com s'actualitza.~~
+  **`resolt` el 18-09-2026** amb la **Llei 6/2014** —**que el corpus ja tenia
+  consolidada**— i el **Reglament del 7-10-2020**, baixat del BOPA: vegeu [Quant hauria de cobrar cadascú, per
+  llei](#quant-hauria-de-cobrar-cadascu-per-llei).
 - **Per què la pensió no contributiva del Govern s'extingeix.**
 - **Quants dels 644 espanyols cobren també pensió espanyola.** **És la pregunta
   que decideix si la xifra mesura pobresa o mesura carrera de cotització
@@ -192,6 +194,59 @@ el curs 2013 i 1.871 el del 2024**
 - **Les prestacions que no són en aquesta nota**: ajuts ocasionals (A057),
   discapacitat (A058) i lloguer (A059) **tenen activitat pròpia** i **el corpus
   en té alguna, no totes.**
+
+## Quant hauria de cobrar cadascú, per llei
+
+> **Llegits el 18-09-2026**: la **Llei 6/2014 consolidada**, que **el corpus ja
+> tenia** (`docs/raw/lleis/serveis-socials.txt`), i el **Reglament de les
+> prestacions econòmiques del 7-10-2020**, que **no hi era i s'ha baixat del
+> BOPA**
+> (`docs/raw/lleis/bopa/decret-2020-reglament-prestacions-economiques-serveis-socials.txt`),
+> amb la seva darrera modificació, el **Decret 471/2025**.
+
+**La quantia no és una xifra: és una diferència.** L'article 26.3 de la Llei
+6/2014 diu que **«la quantia de la pensió ha de garantir el LECS personal»**,
+no que la pensió sigui el LECS. **El Govern paga el que falta per arribar-hi**,
+un cop exigides les responsabilitats dels familiars obligats.
+
+**I el LECS té una definició d'una sola línia, a l'article 31.1:**
+
+> **«La quantia del LECS personal és equivalent al salari mínim oficial.»**
+
+**Això respon alhora el «quant» i el «com s'actualitza»**: **la prestació més
+gran del país s'actualitza amb el salari mínim**, sense cap decisió pròpia
+([el salari mínim](../treball/treball.md)).
+
+| Any | Salari mínim = **LECS personal** | En còmput anual |
+| --- | ---: | ---: |
+| 2019 | 1.050,40 € | 12.604,80 € |
+| 2021 | 1.121,47 € | 13.457,64 € |
+| **2023** | **1.286,13 €** | **15.433,56 €** |
+| 2025 | 1.447,33 € | 17.367,96 € |
+| 2026 *(juliol)* | 1.568,67 € | 18.824,04 € |
+
+**I ara la comprovació que val la pena**: **el LECS anual del 2023 és 15.433,56 €
+i la pensió mitjana d'aquell any és 5.868 €.** **És el 38,0%.**
+
+> **La pensió de solidaritat per a la gent gran no paga el llindar: en paga poc
+> més d'un terç.** **Els altres dos terços els posa ja el beneficiari** —una
+> pensió contributiva curta, andorrana o estrangera, i els ingressos propis—,
+> **i la prestació només tapa el forat que queda.**
+
+**Per a una parella la llei puja el llindar**: **el LECS familiar és el salari
+mínim augmentat un 70%**, i **un 80% si tots dos tenen dret a la pensió de gent
+gran**; **una unitat monoparental hi suma un 20% més**, i **un 20% addicional
+per cada membre amb discapacitat reconeguda per la Conava.**
+
+**El patrimoni també té llindar, i és múltiple del mateix salari mínim**
+(article 32): **es perd el dret si els immobles —sense comptar l'habitatge
+habitual— valen deu vegades el LECS anual**, o **si els actius financers i els
+béns mobles en valen sis i mitja.** **Amb el LECS del 2023, són 154.335,60 € i
+100.318,14 €.**
+
+`El que la llei no diu i les xifres tampoc: quants beneficiaris cobren la
+pensió sencera perquè no tenen cap altre ingrés. La font dona import agregat i
+beneficiaris, no la distribució.` `serie_estadistica`
 
 ## Related
 
