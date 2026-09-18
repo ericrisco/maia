@@ -135,8 +135,13 @@ fumar en un local públic**.
 
 ## Buits registrats
 
-1. **Els partits polítics.** **Prioritari i gros.** Se citen —DA, PS, L'A, UL— i
-   **cap font del corpus els descriu**.
+1. ~~**Els partits polítics.** **Prioritari i gros.** Se citen —DA, PS, L'A,
+   UL— i **cap font del corpus els descriu**.~~ — **`resolt` el 18-09-2026**:
+   **no és un buit, és un buit duplicat**: **DA i PS** ja es descriuen a
+   [Els partits d'avui](../partits/els-partits-davui.md); **L'A (Liberals
+   d'Andorra)** i **UL (Unió Laurediana)** a
+   [L'arbre dels partits](../partits/larbre-dels-partits.md#els-divuit-partits-difunts),
+   entre els **divuit partits difunts**.
 2. ~~**La llista dels síndics generals.** El corpus en té cinc noms.~~ —
    **`resolt` el 18-09-2026**: **la successió sencera del 1419 ençà ja té fitxa**,
    [Els síndics generals](../../persones/els-sindics-generals.md) —**quaranta-set
