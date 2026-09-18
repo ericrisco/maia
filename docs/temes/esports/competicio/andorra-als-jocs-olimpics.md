@@ -466,7 +466,23 @@ olímpica.** I **no és a la neu: és en aigües braves**.
      posició i no el temps.**
 2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
-   **Jaume Martí**, president el 2015.
+   **Jaume Martí**, president el 2015. — **`parcial` el 18-09-2026**: **el
+   president actual és Xavier Espot Miró, elegit l'1 d'octubre del 2024**
+   ([font](https://www.anocolympic.org/nocs-directory/comite-olimpic-andorra/15880))
+   —**el mateix Xavier Espot que és cap de Govern**, vegeu
+   [els partits d'avui](../../politica/partits/els-partits-davui.md). **Dues
+   fonts terciàries donen el 1971 com a any de creació i el 1975 com a any de
+   reconeixement pel COI, però cap font consultada directament no en dona el
+   procés ni el primer president.** `Requereix font externa: la memòria o
+   l'estatut fundacional del COA.`
+
+   **Avís metodològic registrat el mateix dia**: una primera cerca havia
+   tornat un resum amb un primer president amb nom i dates concretes
+   («Isidre Baró, 1974-1997») i una escena precisa (admissió el 14 de maig del
+   1975 a Roma, la mateixa sessió que la Xina). **Cap de les pàgines
+   consultades directament conté aquesta informació**: **sembla una invenció
+   de la capa de síntesi de la cerca, no una dada de cap font real.** No s'ha
+   incorporat.
 3. **Per què la delegació d'estiu ha caigut** de vuit a dos. — **`parcial`
    el 18-09-2026: la corba ja està mesurada i la causa no.** **El màxim és de
    Barcelona 1992 i Atlanta 1996, amb vuit**, i **el mínim dels dos últims
