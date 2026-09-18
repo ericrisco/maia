@@ -318,7 +318,7 @@ són **85 alumnes**.
   **`resolt` el 18-09-2026**: **nou porcions, que sumen 100**, amb
   **l'assignació calibrada contra les tres frases de la prosa**, vegeu
   [El gràfic, desglossat](#el-grafic-desglossat-el-18-09-2026).
-- **El gràfic d'evolució de l'alumnat 1990-1999 per nivell.**
+- ~~**El gràfic d'evolució de l'alumnat 1990-1999 per nivell.**~~ — **`parcial` el 18-09-2026**: **renderitzat (pàgina 83) i llegit: és un gràfic de barres apilades sense cap etiqueta de dades**, i **el desglossament per nivell —maternal, 1a i 2a ensenyança, batxillerat— només es podria mesurar en píxels, sense cap xifra publicada que el calibri.** `El que sí que queda tancat és el total any per any:` **l'annex 1 del mateix volum dona la sèrie sencera del sistema andorrà** —**681 el 1990/1991, 2.095 el 1999/2000**— vegeu [el mapa escolar del 2000](./el-mapa-escolar-del-2000.md#vint-i-tres-anys-dalumnat-sistema-per-sistema). `El repartiment per nivell segueix obert.`
 - **El batxillerat artístic**: es va crear?
 - **L'escola andorrana d'Ordino** (prevista per al 2002-03) i el **tercer centre
   de segona ensenyança**: existeixen?

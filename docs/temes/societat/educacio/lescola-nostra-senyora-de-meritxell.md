@@ -292,6 +292,70 @@ andorrà**, després de **la Caixa Andorrana de Seguretat Social (59,5 M€)** i
 Exteriors** —10,6 M€—, **i més de la meitat del que costa el Ministeri de
 Cultura, Joventut i Esports sencer** —22,4 M€.
 
+## Els tres gràfics de la ponència, llegits el 18-09-2026
+
+**Les tres «taules» de la ponència són gràfics sense etiquetes de dades.** S'han
+renderitzat les pàgines 63 i 67 i s'han llegit contra la graella. **El que
+segueix està mesurat, no imprès**, i es diu així a propòsit.
+
+### L'origen de la discapacitat (taula 3)
+
+| Origen | Persones *(mesurat)* |
+| --- | ---: |
+| **Malalties genètiques** | **~54** |
+| **Malalties neurològiques** | **~53** |
+| **Malalties psiquiàtriques** | **~40** |
+| Inespecífics | ~30 |
+| Malalties metabòliques | ~11 |
+| Autisme | ~4 |
+| Ceguesa | ~4 |
+| Sordesa | ~4 |
+| **Suma** | **~200** |
+
+`Calibratge: la suma de les vuit barres dona ~200, que és exactament la
+població atesa que la mateixa ponència declara en prosa. És l'àncora que fa
+llegible el gràfic; sense ella, les xifres serien només píxels.`
+
+**El que en surt:**
+
+**Dos orígens —el genètic i el neurològic— són més de la meitat del total**
+(~107 de ~200). **I les tres discapacitats sensorials o de
+desenvolupament que el llenguatge comú associa a una escola especialitzada
+—autisme, ceguesa i sordesa— són, juntes, ~12 persones: el 6%.**
+
+**Els «inespecífics» són ~30, el 15%**: **una de cada set persones ateses no té
+un origen diagnosticat.**
+
+### La distribució per sexe (taula 4)
+
+**El gràfic només té dues barres i cap etiqueta, i la perspectiva en tres
+dimensions n'impedeix llegir el valor exacte.** **El que sí que s'hi pot
+llegir és la proporció**:
+
+> **Els homes són majoria clara** —al voltant del **56%** contra el **44%** de
+> dones—, **en una relació aproximada de 5 a 4.**
+
+`Les xifres absolutes d'aquest gràfic no es recuperen: les dues barres mesurades
+sumen per damunt de 200, cosa que l'efecte de perspectiva explica i el corpus no
+pot corregir. Només es reté la proporció.`
+
+### L'evolució de la població atesa (taula 1)
+
+**El gràfic de la pàgina 63 creua dues sèries —«població atesa, unitats» i
+«població d'Andorra, unitats de miler»— i tampoc no porta etiquetes.** **La
+segona sèrie no és visible al gràfic imprès.**
+
+**El que s'hi llegeix, i que confirma el relat de la fitxa**: la corba
+**arrenca prop de 10 el 1972**, **passa de 50 cap al 1989**, **de 100 cap al
+1992-1993** i **arriba a ~200 el 2000**. **Els tres salts que la ponència
+descriu en prosa** —el pretaller i la intervenció precoç del **1980**, la
+integració escolar del **1986** i la integració laboral— **es veuen a la corba,
+i el més gran és l'últim.**
+
+`El corpus ja tenia els extrems —7 alumnes el 1972, ~200 persones ateses el
+2000— per la prosa de la mateixa font. El gràfic no n'afegeix cap xifra nova:
+n'afegeix la forma.`
+
 ## Buits registrats
 
 - ~~La data exacta de creació i qui la funda~~ — **tancat**: **1970**, per
@@ -301,8 +365,7 @@ Cultura, Joventut i Esports sencer** —22,4 M€.
   obert** — la font hi remet constantment i no el descriu. **El que sí que se
   sap des del 2026-09-18 és com es finança**: **13.370.368,00 € del pressupost
   del 2026**, repartits en tres programes de tres àmbits diferents, a dalt.
-- **Els gràfics d'evolució i de distribució per edats i sexe** de la ponència:
-  són imatges i l'OCR els destrueix. **Cal l'original.**
+- ~~**Els gràfics d'evolució i de distribució per edats i sexe** de la ponència: són imatges i l'OCR els destrueix.~~ — **`parcial` el 18-09-2026**: **renderitzats i llegits**, vegeu [Els tres gràfics de la ponència](#els-tres-grafics-de-la-ponencia-llegits-el-18-09-2026). **La distribució per origen de la discapacitat es recupera sencera i calibrada** (~54 genètiques, ~53 neurològiques, ~40 psiquiàtriques, ~30 inespecífics, ~11 metabòliques i ~4 de cada de les tres sensorials, suma ~200). `El que NO es recupera: les xifres absolutes del gràfic per sexe —només la proporció, uns 56% d'homes— i cap dada del gràfic per edats, que en aquesta edició no hi és.`
 - ~~**Si el conveni nou anunciat el 2000 es va signar.**~~ — **`resolt` el
   17-09-2026**: **no consta**, i **no calia**: el del 1995 és de durada
   indefinida. Vegeu «[De conveni educatiu a contracte renovat cada sis

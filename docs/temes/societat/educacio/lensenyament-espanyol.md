@@ -266,8 +266,7 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   **Defecte registrat, del tipus «buit declarat contra la font pròpia del
   document»**: **abans de declarar un buit cal comprovar si el cos de l'article
   ja el cobreix.**
-- **El quadre d'alumnes per nacionalitat i centre**, sencer i sense OCR. —
-  **`parcial` des del 2026-09-15: la nacionalitat ja hi és, el centre no.**
+- ~~**El quadre d'alumnes per nacionalitat i centre**, sencer i sense OCR.~~ — **`resolt` el 18-09-2026**: l'annex 4 de la ponència de Bastida en dona **els deu centres del sistema espanyol públic un per un**, i **quadra fins a l'alumne amb Margarit i Monné**; el detall, més avall. **`parcial` des del 2026-09-15: la nacionalitat ja hi era, el centre no.**
   **Margarit i Monné publiquen la taula creuada del mateix curs 1999-2000**
   ([els andorrans estudiaven sobretot en escoles
   franceses](./els-andorrans-estudiaven-sobretot-en-escoles-franceses.md)),
