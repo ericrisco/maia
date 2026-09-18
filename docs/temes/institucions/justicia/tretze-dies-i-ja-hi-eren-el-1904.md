@@ -272,8 +272,28 @@ el corpus no ho ha comprovat lexicogràficament.»**
    apòstols» per als dits de la mà—, **i cap no és processal**. **El mot jurídic
    només és al diccionari normatiu.**
 4. **Quan van deixar les Corts de conèixer de les apel·lacions contra el Jutge i
-   contra el Consell General.** **El *Politar* diu que l'ús ha desaparegut i no
-   ho data.**
+   contra el Consell General.** — **`parcial` el 18-09-2026: la p. 172 s'ha
+   llegit, i el Politar no només no ho data, diu que no sap per què.**
+
+   > «Com molts delsdits llibres de obertures de Corts antichs se llegeixen actes
+   > autentichs, **recursos y apellacions de sentencias y declaracions en
+   > materias civils** […] **proferidas per lo Jutge**, y en materias civils
+   > concernents a la politica y economia **proferidas per lo Concell General**,
+   > **als Veguers**, admesas per estos y determinadas las causas de apellacio
+   > per ells, **pero semblants recursos y apellacions estan fora de observancia
+   > ***de temps immemorial, lo perque ne se sab***.»
+
+   **La pràctica és documentada als llibres antics de Corts, i l'autor la dona per
+   perduda «de temps immemorial» el 1763.** **La pregunta, doncs, no es tanca
+   amb aquesta font**: **el Politar és el testimoni que la data no consta.**
+   `Requereix els llibres antics de Corts, que és el que el Politar hi remet.`
+
+   **La mateixa pàgina dona la regla residual que ho emmarca**: **en tot allò que
+   no estigui limitat «per expres y special privilegi limitatiu», l'autoritat dels
+   Veguers es conserva «en son enter, ab lo mero y mixto imperi, alta, media y
+   baixa jurisdicsio»**, per ser vicegerents dels prínceps i **«per estar aixi
+   disposat en los Pariatges, ***pedra fundamental sobre que esta fundat lo
+   principal govern de estes Valls***».**
 5. **Els decrets del Consell General del 19 de maig de 1874, del 25 d'agost de
    1877 i del 8 d'abril de 1884**, sencers. **Segona tanda que els reclama.**
 6. **Els documents de 1492, 1533, 1580, 1599, 1601, 1606 i 1623** sencers.

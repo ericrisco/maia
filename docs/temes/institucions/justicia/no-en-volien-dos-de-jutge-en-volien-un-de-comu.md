@@ -220,9 +220,43 @@ fet:**
    *(Archives de l'Ariège, Andorre, lligall 2 — **vuitena peça registrada i cap
    consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
-6. **El *Politar*, p. 186**, i **el *Manual Digest*** sobre la delegació a
-   graduats de la Seu. — **La p. 191, `resolta` el 18-09-2026, i porta la raó
-   del nomenament provisional.**
+6. ~~**El *Politar*, p. 186**~~ — **`resolt` el 18-09-2026, i la delegació a
+   graduats hi és explicada com a conseqüència d'una prohibició.**
+
+   **Primer la prohibició, amb el seu motiu escrit**: ni el Jutge ni cap ministre
+   de justícia, **«encara que sien los Veguers»**, pot arrendar el seu ofici,
+   **«bayx pena de perdicio delsdits empleos *ipso facto* y de nullitat del
+   arrendament»**, per privilegis que els prínceps van atorgar **«moguts dels
+   grans abusos y tiranias que resultaban de semblants arrendaments»**: **«pues
+   lo arrendatari afi de que pogues pagar mes facilment lo preu del arrendament
+   […] ***tiranisave a les parts y treya de ellas algunas sumas***».**
+
+   **I després l'excepció, que és la pràctica que aquesta fitxa documenta**:
+
+   > «pero asso **no obsta que substituir o delegar sens arrendament o pacte
+   > algun**. Y ayxi **se ha estilat sempre que lo Jutge de Andorra es Frances,
+   > locual acostuma ***delegar un graduat, o be de les Valls de Andorra, o be de
+   > la ciutat de Urgell o altra part***, afi de que las Valls y sos individuos
+   > logren ab mes facilitat tot cumpliment de justicia**.»
+
+   **La delegació és lícita perquè és gratuïta**: **el que està prohibit és
+   cobrar per cedir l'ofici, no cedir-lo.** **I el motiu que el Politar dona per
+   a la delegació és de proximitat**, no d'incapacitat: **un jutge francès
+   delegava en un graduat d'Andorra o de la Seu perquè el país tingués justícia
+   a l'abast.**
+
+   **La mateixa pàgina prohibeix les *missions* i *sitiades* i els dipòsits
+   anticipats**, i **hi acusa algú sense nom**: **exigir el dipòsit del salari al
+   principi de la causa era «abus que la ***havaricia de cert Jutge*** anava
+   deplorablement introduhint en les Valls de Andorra, sens donarse estas per
+   entesas»**, i **el motiu de la prohibició és que qualsevol dipòsit previ
+   impedeix les concòrdies i transaccions entre les parts.**
+
+   `El que segueix obert és el *Manual Digest*, en el seu passatge sobre la
+   delegació a graduats de la Seu.`
+
+   **I la p. 191, `resolta` el mateix dia, porta la raó del nomenament
+   provisional.**
 
    **El Politar ho planteja com un escrúpol**, i **el problema és de terminis del
    príncep francès**:
