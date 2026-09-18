@@ -539,6 +539,7 @@ més consistent del corpus**. Es tanca escoltant.
 
 1. **Les 138 marques no s'han verificat.**
 2. **`Indorra` i `endorrans` no són evidència fonètica.** Veure sobre.
+   `no-es-buit`: és un avís d'interpretació, no una pregunta pendent.
 3. **Les inscripcions llatines de les campanes** —`[?Vox] Domini Sona`,
    «Tempestate Fujita»— **estan mal transcrites** i no s'han comprovat contra cap
    catàleg campanològic. El corpus **no les ha de citar**.

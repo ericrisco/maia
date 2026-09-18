@@ -236,7 +236,7 @@ no.** El mateix patró que `sigut` i `tindre`.
    segments semblava alarmant; comptat per mots, que és l'única mesura estable,
    és corrent. Corregit a la tanda 16.)*
 2. **`la Càmera`** surt en dos parlants però **les dues vegades marcada**. No es
-   reclama.
+   reclama. `no-es-buit`: és una nota de no-reclamació, no una pregunta pendent.
 3. **`[?empenyagut]`** és el tipus de forma que interessaria —un participi
    refet— i és **justament la que la màquina dona amb menys confiança**. Sense
    escoltar, no és res.
