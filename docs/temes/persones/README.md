@@ -67,7 +67,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | --- | --- | --- |
 | **Mercè Bonell** | **Primera consellera general**, 1984, per substitució | [fitxa parcial](../societat/dones/el-sufragi-femeni.md) |
 | **Maria Teresa Armengol i Bonet** | **Primera electa** (1985) i primera al Consell Superior de la Justícia (2005) | ídem |
-| **Maria Reig i Moles** | **Única consellera de tot el període constituent.** I **cosina d'Òscar Ribas Reig**, el primer cap de Govern | **buit, amb un fil nou** |
+| **Maria Reig i Moles** | **Única dona que va participar en la redacció de la Constitució del 1993.** I **cosina d'Òscar Ribas Reig**, el primer cap de Govern | [fitxa](./maria-reig-moles.md) |
 | **Maria Rosa Ferrer Obiols** | Durant anys «l'únic element femení al Consell»; consellera (1994-2001, 2005-07, 2015), cònsol major (2007-2015), ministra de Salut | [fitxa](./rosa-ferrer-obiols.md) |
 | **Claudina Rossel i Badia** | **Primera dona que representa Andorra als Jocs Olímpics**, Calgary 1988 | [fitxa](../esports/esqui/esquiadors/claudina-rossel.md) |
 | **Pepita Aguilar · Quima Calvó · Angelina Mas** | Tres de les **378 sufragistes** de 1968 | **buit prioritari: falten 375 noms** |
@@ -83,7 +83,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Pere Canturri (i Montanya)** | Citat sis cops al corpus; **cap fitxa** | **buit prioritari** |
 | **Antoni Morell i Mora** | Escriptor de *Boris I, rei d'Andorra* (1984); secretari de la Sindicatura sota Julià Reig; secretari general del primer Govern | [fitxa](./antoni-morell.md) |
 | **Susanna Vela i Palomares** | Cap de l'Arxiu Nacional (**1989-2009, 2012-2019**), exministra d'Educació i Cultura (**2009-2011**), consellera general (**2019-2023**) | [fitxa](./susanna-vela.md) |
-| **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit** |
+| **Domènec Bascompte i Grau** | Arxiver del Comú de Canillo; diplomataris | **buit, `parcial`**: [trajectòria](../../fonts/domenec-bascompte-biografia.md), sense naixement ni formació trobats |
 | **Joan Becat** | Geògraf (Univ. de Perpinyà). **La seva ponència més citada ja és llegida**: el diagnòstic migratori del 1989 | [el diagnòstic de 1989](../societat/immigracio/el-diagnostic-de-1989.md) · *la tesi en set volums segueix sense consultar* |
 | **Manuel Anglada i Ferran** | Lingüista. **La seva ponència del 1994 ja és llegida**: toponímia fòssil amb les formes documentades | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · *«Arrels d'Andorra» (1993) segueix sense consultar* |
 | **Cebrià Baraut** | ***Cartulari de la Vall d'Andorra***, vol. I (**1988**, s. IX-XIII) i vol. II (**1990**, s. X-XIII), Govern d'Andorra. **És la font documental de base de la toponímia** | [el substrat als noms de lloc](../territori/toponimia/el-substrat-als-noms-de-lloc.md) · **l'obra segueix sense obrir** |
