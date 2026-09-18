@@ -137,8 +137,9 @@ l'Open d'Austràlia.
   **El que segueix `obert` són els clubs, la federació com a institució i la
   Billie Jean King Cup femenina**, **que és justament la que caldria per a
   aquesta fitxa.**
-- **El seu pare, Joan Jiménez Guerra**, extennista professional andorrà. **Buit
-  registrat.**
+- ~~**El seu pare, Joan Jiménez Guerra**, extennista professional andorrà. **Buit
+  registrat.**~~ — **`resolt` el 18-09-2026, com a duplicat intern**: la resposta
+  parcial i el que encara queda obert són a l'entrada detallada de més amunt.
 
 ## Related
 
