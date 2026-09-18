@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **244** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **245** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1884,6 +1884,7 @@
 | [`vila-creixement-economic-immigracio-1989`](fonts/vila-creixement-economic-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
+| [`vilaweb-cuina-barroc-fra-sever`](fonts/vilaweb-cuina-barroc-fra-sever.md) | VilaWeb · Jaume Fabrega | premsa/blog, drets reservats; citació breu | False |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
 | [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

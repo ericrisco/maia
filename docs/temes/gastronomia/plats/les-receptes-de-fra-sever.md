@@ -129,7 +129,13 @@ podrien sortir-ne **més receptes andorranes**, i **amb el text sencer**.
 
 ## Buits registrats
 
-1. **El receptari sencer** de Fra Sever d'Olot. **Prioritari.**
+1. ~~**El receptari sencer** de Fra Sever d'Olot.~~ — **`parcial` el
+   18-09-2026**: **el títol és *Llibre de l'art de quynar***, publicat a
+   partir d'un manuscrit del **1787**
+   ([font](../../../fonts/vilaweb-cuina-barroc-fra-sever.md)). **Segueix
+   sense saber-se on es conserva el manuscrit ni si existeix una edició
+   completa publicada** — el receptari sencer continua fora de l'abast del
+   corpus.
 2. ~~**Què és una llonsa**~~ i **com es cuinava**. — **`parcial` el
    18-09-2026**: **el tall, tancat** —**«tros de carn adherida a una falsa
    costella»** al DIEC2, del llatí *lumbu*, i **documentat en català des del
