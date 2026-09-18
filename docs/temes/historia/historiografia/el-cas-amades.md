@@ -312,21 +312,22 @@ Tres conseqüències pràctiques:
 
 ## El que falta
 
-- **Les 63 citacions andorranes d'Amades**, una per una, **contrastades**.
-  El corpus ja en té **l'inventari temàtic** i **la llista dels catorze balls**
-  ([els catorze balls](../../costums/danses/els-catorze-balls.md)), i **dos
-  casos marcats com a no confirmats per cap andorrà**
-  ([les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md)).
+- ~~**Les 63 citacions andorranes d'Amades**, una per una, **contrastades**.~~ —
+  **`parcial`**: el corpus ja en té **l'inventari temàtic**, **la llista dels
+  catorze balls** ([els catorze balls](../../costums/danses/els-catorze-balls.md))
+  i **dos casos marcats com a no confirmats per cap andorrà**
+  ([les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md));
+  la contrastació individual de les 63 citacions encara no s'ha fet.
 - ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
 - **Els sis jocs tradicionals** que Amades recull amb gràfics. El corpus no té
   cap fitxa de jocs. **Buit nou, obert avui.**
 - **Francisco de Zamora** i el seu diari de viatge de **1788**, que obre tota la
   literatura de viatges sobre Andorra i **el corpus no ha llegit**.
-- **Pere Canturri Montanya** i la seva obra. El corpus ja en té una segona
-  ponència fitxada
+- ~~**Pere Canturri Montanya** i la seva obra.~~ — **`parcial`**: el corpus ja
+  en té una segona ponència fitxada
   ([Usos i costums d'Andorra](../../../fonts/canturri-usos-i-costums.md)) i sap
   que va ser **primer director del Patrimoni Artístic Nacional**; la resta de la
-  seva obra, no.
+  seva obra continua sense inventariar-se aquí.
 - ~~Quan i com entra la sardana a Andorra~~ — **tancat**: contacte als anys
   trenta via Barcelona, implantació als quaranta. Vegeu més amunt.
 - **Ventura Armengol**: qui era. **Buit registrat**, i **cercat sense èxit el
