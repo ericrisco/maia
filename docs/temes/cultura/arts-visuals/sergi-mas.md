@@ -209,8 +209,12 @@ de si mateixa la hi va tornar un de fora**, justament mentre
   Hèctor Mas i produït per la Societat Andorrana de Ciències el 2016**.
 - **Els seus dos llibres.**
 - **Maria Canalís.** Consta com a esposa i **col·laboradora** i **cocreadora de
-  peces**, i **el corpus no en sap res més**. **Buit**, i del tipus que aquest
-  corpus ja s'ha compromès a no deixar passar.
+  peces**, i **el corpus no en sap res més**. — **`obert, confirmat` el
+  18-09-2026**: **una cerca dedicada no ha trobat cap biografia
+  independent d'ella** —naixement, formació, obra pròpia— **més enllà del
+  seu paper al costat de Sergi Mas.** **El buit no és per manca de cerca:
+  és el que la font disponible permet.** Segueix sent **del tipus que
+  aquest corpus ja s'ha compromès a no deixar passar.**
 - **Quantes obres són, i on són exactament.** L'itinerari existeix; el corpus
   no n'ha baixat la llista.
 

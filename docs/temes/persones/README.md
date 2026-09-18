@@ -148,8 +148,8 @@ i no la fa seva.
 | --- | --- | --- |
 | **Sergi Mas i Balaguer** (1930-2026) | **Va fer la Verge de Meritxell d'avui**, el mobiliari de la Casa de la Vall i els segells de les llegendes. **Té un itinerari d'Estat per les set parròquies** | [fitxa](../cultura/arts-visuals/sergi-mas.md) |
 | **Josep Viladomat i Massanas** (1899-1989) | **Monument al centenari de la Nova Reforma** (1967) i **al copríncep Benlloch** (1966). Mor a Escaldes | [fitxa](../cultura/arts-visuals/josep-viladomat.md) |
-| **Maria Canalís** | Ceramista, **esposa i cocreadora** de Sergi Mas des del 1955 | **buit** |
-| **Francesc Galobardes** | Citat com el tercer nom de l'escultura andorrana del segle XX | **buit** |
+| **Maria Canalís** | Ceramista, **esposa i cocreadora** de Sergi Mas des del 1955 | **buit, confirmat**: cap biografia independent trobada |
+| **Francesc Galobardes** | «El pintor de la neu» (1930-2024), establert a Andorra des del 1961 — **no escultor, com es creia** | [fitxa](./francesc-galobardes.md) |
 
 ## Esportistes
 

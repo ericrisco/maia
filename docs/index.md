@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1065** documents · **293** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1066** documents · **294** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1278,6 +1278,7 @@
 | [Els síndics generals](temes/persones/els-sindics-generals.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-politica-andorra` |
 | [Èric Risco de la Torre](temes/persones/eric-risco.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
+| [Francesc Galobardes Carbonell](temes/persones/francesc-galobardes.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-francesc-galobardes` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Isabel de Foix](temes/persones/isabel-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-isabella-foix` |
 | [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
@@ -1953,6 +1954,7 @@
 | [`wikipedia-ca-caps-de-govern`](fonts/wikipedia-ca-caps-de-govern.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-francesc-galobardes`](fonts/wikipedia-ca-francesc-galobardes.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |

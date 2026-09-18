@@ -41,12 +41,19 @@ a judici, i ho lliga amb el que diu
 la imatge d'Andorra sovint no era andorrà**.
 
 **I hi falta l'altre nom** que les fonts citen al costat dels dos:
-**Francesc Galobardes**. **Buit registrat.**
+**Francesc Galobardes**. ~~**Buit registrat.**~~ — **`resolt` el
+18-09-2026, i amb una correcció**: **Galobardes no és escultor, és
+pintor** — «el pintor de la neu», establert a Andorra des del 1961
+([fitxa](../../persones/francesc-galobardes.md)). **Els tres noms que
+les fonts citaven junts no fan el mateix ofici.**
 
 ## El que falta
 
 - **Els artistes andorrans de naixement.** Cap fitxa.
-- **La pintura.** Cap.
+- ~~**La pintura.** Cap.~~ — **`parcial` el 18-09-2026**: **Francesc
+  Galobardes hi comença a respondre**
+  ([fitxa](../../persones/francesc-galobardes.md)), però **la pintura
+  andorrana com a conjunt segueix sense branca pròpia.**
 - **El Centre d'Art d'Escaldes-Engordany**, on hi ha la col·lecció Viladomat.
 - ~~**Maria Canalís**, ceramista i cocreadora amb Sergi Mas~~ — **`parcial`,
    bessó amb** [Sergi Mas](./sergi-mas.md#el-que-falta): **es casen el 1955** i
