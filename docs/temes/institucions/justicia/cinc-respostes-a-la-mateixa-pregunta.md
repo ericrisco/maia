@@ -285,13 +285,12 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
    signatura d'arxiu.** `obert, i és una limitació de la font.`
 9. **L'encàrrec del codi del 17 de desembre de 1868**: **si se'n va escriure cap
    esborrany**, i **on és**. `obert.`
-10. **L'Apèndix de la Reforma de 1866**: **ara se'n coneixen dues pàgines de
-    contingut, la 13 i la 14**, i **segueix sense ser al corpus.** `obert,
-    prioritari.` — **Precisió del 15-09-2026**: **el text de la Reforma sí que
-    s'ha llegit**, a l'apèndix D de Ríos Urruti, **i l'obligació de mestre i
-    mestra que Brutails situava a la pàgina 14 hi és**, com a disposició final.
-    **L'*Apèndix* que Brutails cita segueix sent una peça distinta i no consta en
-    aquella transcripció.**
+10. ~~**L'Apèndix de la Reforma de 1866**.~~ — **`parcial` el 2026-09-18**:
+    se'n coneixen dues pàgines de contingut, **la 13 i la 14**, i **segueix sense
+    ser al corpus**. **El text de la Reforma sí que s'ha llegit**, a l'apèndix D
+    de Ríos Urruti, **i l'obligació de mestre i mestra que Brutails situava a la
+    pàgina 14 hi és**, com a disposició final. **L'*Apèndix* que Brutails cita
+    segueix sent una peça distinta i no consta en aquella transcripció.**
 11. **El delme del Capítol**: **quina part era i des de quan**. **El conflicte hi
     va esclatar i la font no en dona la fracció.** `obert.`
 

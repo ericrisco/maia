@@ -299,10 +299,10 @@ el corpus no ho ha comprovat lexicogràficament.»**
 6. **Els documents de 1492, 1533, 1580, 1599, 1601, 1606 i 1623** sencers.
 7. **Si hi ha cap cas de revisió d'una sentència de les Corts.** **La font no
    n'ha trobat cap i pregunta si n'hi hauria d'haver.**
-8. **Què és exactament una *comanda* al procediment català** segueix obert.
-   **El sentit general, documentat el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)):
-   **`comanda` és l'acte i efecte de comanar** —encàrrec—, i **en una de les
-   seves accepcions, la custòdia d'una persona o cosa encomanada**. **El
+8. ~~**Què és exactament una *comanda* al procediment català**.~~ — **`parcial`
+   el 2026-09-18**: el sentit general, documentat el 16-09-2026
+   ([DCVB](../../../fonts/dcvb.md)), és **l'acte i efecte de comanar** —encàrrec—,
+   i en una accepció, **la custòdia d'una persona o cosa encomanada**. **El
    diccionari no en dona el sentit processal**, i **per què era litigi
    privilegiat no ho respon cap dels dos diccionaris**: **`requereix doctrina
    processal catalana`**, no lexicografia.
