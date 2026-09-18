@@ -269,7 +269,13 @@ resol: l'evita.**
   2010. **Dues fonts del corpus diuen coses diferents.**
 - **Les xifres d'audiència de l'Observatori del CRES sobre mitjans.** La font
   remet a `http://www.iea.ad/cres/recerca/acabades/mitjans.htm` **i no en dona ni
-  any ni mostra**. `Requereix font externa: l'IEA/CRES.`
+  any ni mostra**. — **`parcial` el 18-09-2026**: **l'IEA llista una «Enquesta
+  sobre els mitjans de comunicació» del 2007** entre les seves recerques
+  acabades ([font](../../../fonts/iea-recerques-acabades.md)), que **quadra
+  amb l'enllaç mort de la font.** **La mostra i la
+  metodologia no s'han pogut confirmar directament**: cap pàgina consultada en
+  dona el detall. `Requereix font externa: la monografia o l'informe tècnic de
+  l'IEA/CRES.`
 - **L'estudi *Coneixements i usos lingüístics de la població d'Andorra* d'on
   surten les xifres de bilingüisme**: any d'onada no declarat en aquest apartat.
 - **Tota la part teòrica de Haarmann, Ballarín, Bastardas, Turell, Berstein,
