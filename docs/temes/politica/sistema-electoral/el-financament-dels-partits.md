@@ -430,8 +430,7 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    llei: `Requereix el Diari de Sessions del debat de la Llei 19/2014, que és
    on s'acostuma a explicar què es venia fent.`
 7. **El Tribunal de Comptes**: el corpus el cita de passada i no en té fitxa.
-8. **La Junta Electoral**: tampoc. — **`parcial` el 17-09-2026**: **no té
-   fitxa, però ja no és desconeguda.** Llegits els articles 28 i 29 de la
+8. ~~**La Junta Electoral**~~ — **`parcial` el 17-09-2026**: no té fitxa, però ja no és desconeguda. Llegits els articles 28 i 29 de la
    [Llei 44/2022](./com-es-compten-els-vots.md). **Sis vocals: tres batlles
    sortejats pel Consell Superior de la Justícia i tres juristes o experts
    designats per la Sindicatura a proposta conjunta dels grups

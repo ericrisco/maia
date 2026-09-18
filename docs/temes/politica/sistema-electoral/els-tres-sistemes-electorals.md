@@ -138,9 +138,8 @@ revocar acords del parlament**
    preconstitucional segueix sense localitzar**: `Requereix el Butlletí del
    Consell General o l'Arxiu Nacional; al BOPA, que comença el 1989, només hi
    ha les modificacions.`
-2. **Quan exactament canvia el sistema «prepreconstitucional»** al dels vuitanta.
-   Dallerès diu «inicis dels anys vuitanta» i no data. — **`parcial` el
-   17-09-2026, i amb una troballa que obliga a matisar la fitxa.** **El Decret
+2. ~~**Quan exactament canvia el sistema «prepreconstitucional» al dels vuitanta**~~ —
+   **`parcial` el 17-09-2026**, amb una troballa que obliga a matisar la fitxa. **El Decret
    de Reforma del 22 d'abril de 1866 encara era la norma electoral el 1989.**
 
    **La prova és una llei dels Delegats Permanents dels Coprínceps**, signada a
@@ -241,9 +240,7 @@ revocar acords del parlament**
 
    `Requereix el Reglament anterior al 1993, que és el que aquells autors
    criticaven i que no és al Butlletí perquè el BOPA comença el 1989.`
-6. **Per què 28 i no una altra xifra**: la Constitució permet **entre 28 i 42**
-   parlamentaris i **mai s'ha passat de 28**. — **`parcial` el 17-09-2026, i el
-   *per què* segueix obert, però ara se sap *com*.**
+6. ~~**Per què 28 i no una altra xifra**~~ — **`parcial` el 17-09-2026**: la Constitució permet **entre 28 i 42** parlamentaris i **mai s'ha passat de 28**; el *per què* segueix obert, però ara se sap *com*.
 
    **La llei electoral fixa la xifra i no la raona.** **L'article 52 de la Llei
    44/2022 diu, sencer**: «El Consell General es compon de **vint-i-vuit

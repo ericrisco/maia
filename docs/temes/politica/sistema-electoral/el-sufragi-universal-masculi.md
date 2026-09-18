@@ -105,8 +105,8 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
 
 ## Buits registrats
 
-1. **La data exacta del 1941 i del 1947**, i **el text de les dues decisions**. —
-   **`parcial` el 17-09-2026: la del 1947 ja té dia, i la del 1941 segueix
+1. ~~**La data exacta del 1941 i del 1947, i el text de les dues decisions**~~ —
+   **`parcial` el 17-09-2026**: la del 1947 ja té dia, i la del 1941 segueix
    sense.** Font: les [actes del Consell General](../../../fonts/actes-historiques-consell-general.md).
 
    **23 d'agost de 1947**, **sessió extraordinària del Consell**:
