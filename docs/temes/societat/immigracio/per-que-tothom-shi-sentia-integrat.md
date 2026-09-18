@@ -260,8 +260,20 @@ provocació metodològica**— i no com una descripció d'Andorra.
    > la data el **1977** i n'identifica un dels impulsors —Orihuela
    > mateix, més tard **president honorífic del SAT**
    > ([font](../../../fonts/altaveu-orihuela-obituari-ara-sat.md)).
-3. **L'English Speaking Residents Association** i la comunitat angloparlant: el
-   corpus no en té fitxa.
+3. ~~**L'English Speaking Residents Association** i la comunitat angloparlant: el
+   corpus no en té fitxa.~~ — **`parcial` el 18-09-2026**: **l'ESRA en si
+   segueix sense rastre públic identificable** més enllà de la
+   presidència de Desmond Allen el 1997 —**confirmat després de dues
+   cerques dedicades**. **Hi ha una associació d'angloparlants propera en
+   l'esperit, l'International Club of Andorra (ICA)**, uns 550 membres,
+   anglès com a lingua franca
+   ([font](../../../fonts/allandorra-international-club-andorra.md)),
+   **però la font no confirma si és la mateixa entitat, la seva
+   continuadora, o una associació diferent** —**la web pròpia de l'ICA,
+   que en un altre resultat de cerca situaria la fundació el 1989, és
+   inaccessible (error DNS, comprovat amb WebFetch, r.jina.ai i curl
+   directe)**. **El vincle ESRA–ICA queda registrat com a pista, no com a
+   fet.**
 4. **La composició de les comissions** sobre residents passius: si mai n'han
    inclòs cap.
 5. **Si la representativitat que demanaven s'ha arribat a articular** d'alguna
