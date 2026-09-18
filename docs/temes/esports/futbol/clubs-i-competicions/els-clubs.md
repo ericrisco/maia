@@ -220,7 +220,12 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
   d'Escaldes**, **Casa de Portugal**, **Pas de la Casa**, **Atlètic Monzón**
   —tots surten a les fitxes de futbolistes del corpus.
 - **Els pressupostos.** **Cap xifra de cap.**
-- **L'any de fundació de l'Inter d'Escaldes.**
+- ~~**L'any de fundació de l'Inter d'Escaldes.**~~ — **`parcial` el
+  18-09-2026**: **1991**, segons la Viquipèdia
+  ([font](../../../../fonts/wikipedia-ca-inter-club-descaldes.md)) — **però
+  la font mateixa hi afegeix «(o 1993)» sense arbitrar-ho.** No és una
+  divergència entre fonts diferents, sinó una incertesa que la mateixa
+  Viquipèdia admet.
 - **Qui són Manuel Puerta, Manuel Varela i Josep Rodríguez**, els tres que van
   inscriure l'Engordany.
 
