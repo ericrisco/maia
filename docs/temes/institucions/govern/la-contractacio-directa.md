@@ -181,9 +181,35 @@ imports **superiors als llindars establerts en la Llei del pressupost anual o en
 les ordinacions del pressupost**, segons escaigui».
 
 **Qui decideix quins contractes menors es veuen a la plataforma no és aquesta
-llei: és el pressupost de cada any.** El corpus **no té cap llei de pressupost ni
-cap ordinació pressupostària**, i per tant **no pot dir a partir de quin import
-un contracte menor andorrà es fa visible**. **Buit registrat.**
+llei: és el pressupost de cada any.**
+
+**I el pressupost del 2026 el corpus el té.** **L'article 5 de la
+[Llei 1/2026 del pressupost](../../../raw/pressupost-2026/bopa-llei-1-2026.txt)
+posa la xifra**:
+
+> «Per criteris de màxima simplificació i de mínim cost burocràtic, en virtut de
+> l'article 32 de l'LGFP, **queda justificat que la tramitació de l'expedient en
+> els contractes administratius menors d'un import inferior o igual a 7.500
+> euros pugui no fer-se per mitjà de la Plataforma de contractació del sector
+> públic**.»
+
+**Set mil cinc-cents euros.** **Per sota d'aquesta xifra, un contracte menor de
+l'Administració general pot no passar per la plataforma el 2026**, i **per tant
+pot no deixar-hi rastre**. **El llindar és de la llei de pressupost, no de la
+Llei de contractació: canvia cada any i cada comú pot tenir el seu per
+ordinació.**
+
+**Hi ha, això sí, un rastre que no es perd**: **els operadors econòmics
+d'aquests contractes «han d'estar donats d'alta al Registre oficial de
+licitadors i empreses classificades de la Plataforma».** **No se sap el
+contracte; se sap qui hi pot ser.**
+
+**I una segona xifra del mateix article, per a la publicació al BOPA** (article
+7.2): **la resolució d'adjudicació només es publica al BOPA quan l'import
+supera el llindar de contracte menor** —**24.000 € a l'Administració general,
+15.000 € als comuns**—. **Els dos llindars són coses diferents**: **7.500 € és
+el que decideix si el tràmit passa per la plataforma**; **24.000 i 15.000 és el
+que decideix si l'adjudicació surt al butlletí.**
 
 ## El reglament que obliga a dir per quina lletra
 
@@ -238,10 +264,11 @@ contractual i l'acta de recepció**.
 
 ## Buits registrats
 
-1. **A partir de quin import** un contracte menor passa per la Plataforma de
-   contractació del sector públic. — **`parcial` el 17-09-2026, i la premissa
-   era mig falsa**: **els imports sí que són a la llei**, llegits al material
-   que el corpus ja tenia (`docs/raw/lleis/contractacio-publica.txt`).
+1. ~~**A partir de quin import** un contracte menor passa per la Plataforma de
+   contractació del sector públic.~~ — **`resolt` el 18-09-2026: 7.500 euros
+   el 2026**, i **la premissa era mig falsa des del principi**: **els imports
+   de contracte menor sí que són a la llei**, llegits al material que el
+   corpus ja tenia (`docs/raw/lleis/contractacio-publica.txt`).
 
    | | Contracte menor | Urgència (art. 30.c) |
    | --- | --- | --- |
@@ -268,11 +295,65 @@ contractual i l'acta de recepció**.
    llindars establerts en la Llei del pressupost anual o en les ordinacions del
    pressupost**». **El llindar no és a la llei de contractació ni al seu
    reglament: es fixa cada any al pressupost, i cada comú el seu.**
-   `Requereix la Llei del pressupost vigent per tenir la xifra d'enguany.`
-2. **Si la branca d'«encàrrecs» de la lletra g) exigeix declaració expressa**, o
-   si només l'exigeix la d'interessos essencials de l'Estat. **Prioritari.**
+   ~~`Requereix la Llei del pressupost vigent per tenir la xifra d'enguany.`~~
+   — **`resolt` el 18-09-2026, i la llei ja era al corpus**
+   (`docs/raw/pressupost-2026/bopa-llei-1-2026.txt`, **article 5**): **els
+   contractes administratius menors d'import inferior o igual a 7.500 euros
+   poden no tramitar-se per la Plataforma.** **Els operadors, això sí, han
+   d'estar donats d'alta al Registre oficial de licitadors.** Vegeu
+   [el llindar que aquesta llei no fixa](#el-llindar-que-aquesta-llei-no-fixa).
+
+   **Tercera vegada aquesta setmana que un buit demanava una font que el corpus
+   ja tenia baixada.** **La regla és la mateixa: abans de declarar que falta una
+   font, mira `docs/raw/`.**
+2. ~~**Si la branca d'«encàrrecs» de la lletra g) exigeix declaració expressa**,
+   o si només l'exigeix la d'interessos essencials de l'Estat.~~ — **`resolt` el
+   18-09-2026, i la resposta ve del reglament del 2026, no de la llei.**
+
+   **El Decret 38/2026 no fa servir mai l'expressió «lletra g)»: fa servir una
+   definició, i la defineix estreta.** **Tres vegades, i les tres iguals**:
+
+   > «**Els contractes de caràcter sensible o reservat, definits com els que
+   > afecten la protecció d'interessos essencials de l'Estat per a la seguretat
+   > de l'Estat**» (article 48.2.b, excepcions al Registre oficial de contractes
+   > públics).
+
+   **La mateixa fórmula, literal, a l'article 19.1** —excepcions a la
+   publicació de l'edicte al BOPA i al perfil del contractant—, i **a l'article
+   18.2 la versió curta**: es publiquen al perfil «llevat dels contractes la
+   difusió dels quals, **per raó del seu contingut, pugui afectar interessos
+   essencials del país**». **En cap dels tres llocs no hi surten els encàrrecs
+   del cap de Govern, dels ministres, dels cònsols o dels presidents d'entitats
+   parapúbliques.** **El criteri que el reglament fa servir és el contingut del
+   contracte, no qui l'encarrega.**
+
+   **Què vol dir això per a la lectura que aquesta fitxa havia marcat com a
+   seva.** **La llei del 2022 exceptua de publicar «els contractes inclosos en
+   els enumerats en l'apartat 1.g)» —tota la lletra—; el reglament del 2026
+   exceptua només la primera branca.** **El corpus no diu que el reglament
+   derogui la llei**: **diu que, quan el Govern ha hagut d'escriure què queda
+   fora del butlletí, del perfil i del registre, ha escrit només els contractes
+   de seguretat de l'Estat.** **La declaració expressa, justificada i
+   indelegable segueix lligada a aquella mateixa branca i a cap altra.**
+
+   `El que continua sense comprovar-se és la pràctica: si algun poder
+   adjudicador ha deixat de publicar un encàrrec emparant-se en la lletra g)
+   sencera. Això demana els edictes, no les normes.`
 3. **Quants contractes s'adjudiquen per cada lletra.** La llei diu què es pot
-   fer; **el corpus no té cap dada del que es fa**.
+   fer; **el corpus no té cap dada del que es fa**. — **`parcial` el
+   18-09-2026: existeix el lloc on aquesta dada viu.** **És el Registre oficial
+   de contractes públics** (article 48 del Decret 38/2026), que **anota poder
+   adjudicador, òrgan, tipus, objecte, forma d'adjudicació, procediment,
+   modalitat, data, adjudicatari, import amb i sense IGI, dates d'inici i fi,
+   modificacions, pròrrogues i resolució.** **L'accés públic hi és**, «de
+   conformitat amb el que estableix la Llei de transparència […] a les dades
+   que no tinguin el caràcter de confidencials» (48.4).
+
+   **I les seves cinc excepcions diuen exactament què no s'hi comptarà mai**:
+   **els contractes menors per sota del llindar del pressupost** —**7.500 € el
+   2026**—, **els de seguretat de l'Estat**, **els exclosos de l'article 3**,
+   **els privats de l'article 6.3** i **els executats a l'estranger.**
+   `Segueix obert consultar-lo: el corpus no n'ha vist cap extracció.`
 4. ~~**El reglament** que ha de determinar el contingut de l'edicte d'adjudicació
    (30.6).~~ `resolt` el 17-09-2026: **Decret 38/2026, del 4 de febrer del 2026,
    d'aprovació del Reglament de la Llei de contractació pública** — vegeu
