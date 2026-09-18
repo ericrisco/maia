@@ -81,10 +81,24 @@ animal era el porc, del qual se n'aprofitava tot**».
 I el **pernil** com a «plat usual» encaixa amb la nota que els pernils secs eren
 «**una autèntica riquesa**» guardada als **carners** de les cases.
 
-**Buit important:** el corpus **no sap què és exactament una «llonsa»**. Podria
-ser **llonza** —el llom— però **no es dona per resolt**. Ni la recepta, ni el
-tall, ni la preparació. **Buit registrat i prioritari:** el text de Fra Sever
-existeix i es pot consultar.
+**Resolt el 18-09-2026, i la conjectura era bona però no del tot.** **`llonsa`
+és `llonza`**, i **el tall no és ben bé el llom**: **el
+[DIEC2](../../../fonts/diec2.md) el defineix com a «tros de carn adherida a una
+falsa costella»**, i **el [DCVB](../../../fonts/dcvb.md) hi afegeix la història
+del mot** —**«llom» com a sentit antic** (Desclot, segle XIII) i **«tallada de
+carn adherida a una falsa costella»** com a sentit modern, viu **al Principat,
+l'occidental, el valencià i les Balears**.
+
+**Les atestacions que el DCVB dona són totes de carnisseria i totes d'època**:
+**«Item lonzas de porch XXI libras e media», de 1268**; **«comprar lonza de porch
+entegre», de 1301**; i **Llull comparant «la lonsa del moltó qui és pus sàbea que
+la cuxa»**. **L'etimologia és del llatí *lŭmbĕa*, de *lumbu* 'llom'**, cosa que
+explica per què el sentit antic i el modern conviuen.
+
+**Per tant «un plat de llonsas de tussino» és un plat de talls de costellam de
+porc**, no de llom sencer, **i el mot no és andorrà**: és general.
+`El que segueix obert és la preparació: ni la recepta ni el mode de cocció no es
+dedueixen del tall.`
 
 ### La grafia
 
@@ -116,7 +130,10 @@ podrien sortir-ne **més receptes andorranes**, i **amb el text sencer**.
 ## Buits registrats
 
 1. **El receptari sencer** de Fra Sever d'Olot. **Prioritari.**
-2. **Què és una llonsa** i com es cuinava.
+2. ~~**Què és una llonsa**~~ i **com es cuinava**. — **`parcial` el
+   18-09-2026**: **el tall, tancat** —**«tros de carn adherida a una falsa
+   costella»** al DIEC2, del llatí *lumbu*, i **documentat en català des del
+   1268**—; `la cocció, no: la font en dona el nom del plat i no el mode.`
 3. **Quantes receptes andorranes** hi ha realment al llibre — Ribes en cita dues,
    podrien ser-ne més.
 4. El **nom complet i les dades** de Fra Sever d'Olot.

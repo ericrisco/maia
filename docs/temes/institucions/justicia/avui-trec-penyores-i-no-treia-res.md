@@ -280,8 +280,24 @@ feia alguna cosa:**
    no ho precisa.**
 8. **Quan els *nuncis* van començar a escriure en lloc de comparèixer**, **i si
    cap norma ho va autoritzar.**
-9. **Si *embarch* és realment d'importació castellana.** **La font diu «sembla
-   ser» i el corpus no ho ha comprovat contra cap diccionari.**
+9. ~~**Si *embarch* és realment d'importació castellana.** **La font diu «sembla
+   ser».**~~ — **`resolt` el 18-09-2026, i la font s'equivocava.** **El
+   [DCVB](../../../fonts/dcvb.md) té l'entrada amb aquesta grafia exacta al
+   capdamunt**: **«EMBARG (ant. escrit *embarch*)»**, i **la documenta en català
+   des del segle XIII**, molt abans que cap pressió del castellà en aquest camp:
+   **Jaume I** («*uiren-se en gran embarch*», *Crònica* 2), **Llull** («*sens
+   embarc e sens empatxament*»), **Muntaner** («*que'ls guardàs de tots
+   embarchs*», c. 95), **un document de 1387** i **un altre de 1525**.
+
+   **I l'etimologia acaba de tancar-ho**: el DCVB deriva `embargar` **del llatí
+   vulgar `*imbarricare`, 'posar obstacles', de `barra`** —**no del castellà**.
+   **El castellà `embargar` és el mateix ètim, en paral·lel, no l'origen.**
+   **El sentit processal —«retenir en virtut de manament del jutge competent»— és
+   la segona accepció de totes dues entrades**, i **el DCVB el documenta en
+   català ja a Desclot**, segle XIII.
+
+   **El corpus rectifica, doncs, un «sembla ser» de la font**: ***embarch* és
+   forma catalana antiga, no importació.**
 10. **Els documents de 1461, 1821, 1822, 1823 i 1833** sencers. **Del de 1461 el
     corpus ja té tres renúncies**: **a *fermar dret*, als terminis i —des del
     22-09-2026— **a la inembargabilitat de les bèsties de llaurar***.
