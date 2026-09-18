@@ -382,8 +382,8 @@ l'evidència, llegits per títol i no pel cos.
 [Reglament de l'Arxiu Nacional d'Andorra](./larxiu-nacional.md) **existeix des
 del 6 d'abril del 2005**, amb un segon decret del mateix dia sobre el Sistema
 d'Arxius. **Les dues fitxes anteriors d'aquest àmbit el donaven per no
-localitzat.** Ja és a l'evidència i **encara no s'ha llegit**: és la unitat
-següent d'aquest àmbit, i és la que respon com s'entra a l'Arxiu Nacional.
+localitzat.** Ja és a l'evidència i **llegit el 17-09-2026**: els articles
+18–31 són la unitat que respon com s'entra a l'Arxiu Nacional.
 
 **Cap de les trenta-dues taules no s'ha comprovat contra la seva aplicació.** El
 corpus té la resolució que autoritza destruir; **no té cap registre de
@@ -394,7 +394,7 @@ destrucció**, que l'article 27.4 de la mateixa llei fa obligatori.
 - [El registre del que ja no hi és](./el-registre-del-que-ja-no-hi-es.md) — la CNAAD llegida a la llei; aquesta fitxa la comprova amb les seves resolucions.
 - [Abans ho decretava el Govern](./abans-ho-decretava-el-govern.md) — qui signava les taules abans del 2023, i els vint-i-cinc edictes de la sèrie.
 - [Trenta anys, cent anys, o cap](./trenta-anys-cent-anys-o-cap.md) — què és patrimoni documental.
-- [L'Arxiu Nacional d'Andorra](./larxiu-nacional.md) — el reglament del 2005, localitzat i encara no llegit.
+- [L'Arxiu Nacional d'Andorra](./larxiu-nacional.md) — el reglament del 2005, localitzat i llegit el 17-09-2026.
 - [Un corpus no és un organisme competent](../../institucions/justicia/un-corpus-no-es-un-organisme-competent.md) — la llei de dades que TNAAD 01/2023 invoca per anonimitzar.
 - [El que no et deixen veure](../../institucions/govern/el-que-no-et-deixen-veure.md) — les causes de denegació d'accés.
 - [La CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md)
