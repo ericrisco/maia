@@ -172,6 +172,63 @@ parròquia**, la renda pot pujar **per terceres parts durant tres anualitats fin
 a assolir-lo**, a banda de l'IPC. **El preu del parc públic actua com a terra del
 mercat lliure.**
 
+## Quaranta-quatre anys de construcció d'habitatge, i el forat de catorze
+
+**Afegit el 18-09-2026** (`docs/raw/estadistica-api/habitatges/`, divisió
+**188**, Departament d'Estadística, CC BY 4.0). **El corpus discutia el preu i
+no tenia la sèrie del que es construeix.**
+
+**Habitatges nous acabats per any:**
+
+| Any | Habitatges | | Any | Habitatges |
+| --- | ---: | ---: | --- | ---: |
+| 1981 | 1.460 | | 2006 | 505 |
+| 1985 | **122** | | 2007 | 175 |
+| 1990 | 1.251 | | 2009 | 475 |
+| 1993 | 324 | | **2010** | **87** |
+| 1999 | 1.061 | | **2014** | **20** |
+| 2001 | 1.231 | | 2016 | 32 |
+| 2003 | 1.616 | | 2019 | 736 |
+| **2004** | **3.167** | | 2021 | 539 |
+| 2005 | 938 | | 2023 | 1.119 |
+| | | | **2024** | **1.354** |
+
+**El 2004 es van fer 3.167 habitatges a Andorra i el 2014 se'n van fer vint.**
+**Una relació de 158 a 1.**
+
+**El sotrac no és un any: són catorze.** **Del 2006 al 2019 la mitjana anual és
+de 237 habitatges**; **del 1999 al 2005 era de 1.376.** **I dins d'aquell tram
+hi ha cinc anys per sota del centenar**: **2010 (87), 2011 (92), 2013 (93),
+2014 (20) i 2016 (32).**
+
+**La recuperació és del 2019 ençà**, i **el 2024, amb 1.354, encara és per sota
+del 1981.**
+
+`Aquesta és la sèrie del que s'acaba, no del que es demana ni del que es
+llicencia. El corpus no té la de permisos i no pot dir quant de temps passa
+entre una cosa i l'altra.`
+
+### I el que es construeix ha canviat de mida
+
+| Tram de superfície | 1981 | **2024** |
+| --- | ---: | ---: |
+| **Fins a 70 m²** | **683** (46,8%) | **322** (23,8%) |
+| De 71 a 110 m² | 629 (43,1%) | 438 (32,3%) |
+| **Més de 110 m²** | **148** (10,1%) | **594** (43,9%) |
+| **Total** | **1.460** | **1.354** |
+
+**El 1981, gairebé la meitat dels habitatges nous d'Andorra feien 70 m² o
+menys, i un de cada deu passava dels 110. El 2024 les dues proporcions s'han
+intercanviat.**
+
+**En absolut es fan avui 361 pisos petits menys que fa quaranta-tres anys i
+446 de grans més**, **amb un total gairebé idèntic.**
+
+**Dit d'una altra manera**: **el 2024 es van acabar 98 habitatges de 24 a 50 m²
+en tot el país.** `Aquesta és la mida que el mercat de lloguer demana i és la
+que menys es construeix. El corpus posa les dues coses al costat i no afirma
+que una causi l'altra.`
+
 ## El que falta
 
 > **Auditats el 2026-09-14 contra el corpus.** **Tres dels sis eren buits de
