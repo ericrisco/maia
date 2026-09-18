@@ -346,8 +346,14 @@ s'arbitra.**
 - **La base de la pregunta del canvi de llengua a les onades del 2018 i del
   2022.** **Cap de les dues no la imprimeix**, i la hipòtesi d'aquesta fitxa
   **es podria confirmar o desmentir amb una sola línia** d'aquells documents.
-- **L'informe exhaustiu de `www.catala.ad`**, que aquesta edició **ja no
-  esmenta** —les del 2009 i del 2022 sí. **No consta si va deixar d'existir.**
+- ~~**L'informe exhaustiu de `www.catala.ad`**, que aquesta edició **ja no
+  esmenta** —les del 2009 i del 2022 sí. **No consta si va deixar
+  d'existir.**~~ — **`resolt` el 18-09-2026**: **sí, va deixar d'existir
+  com a espai independent**, com a molt tard el gener del 2023 (captura
+  de la Wayback Machine: «Web Server's Default Page»), i **avui el
+  domini redirigeix a la pàgina general de Llengua del Govern**
+  ([font](../../../fonts/wayback-catala-ad.md)). **L'informe en si no
+  s'ha recuperat.**
 - **El qüestionari del 2014**, i **quines preguntes noves va portar l'àmbit dels
   companys d'estudis.**
 - **Les dades de llengua materna per anys de residència de les onades anteriors
