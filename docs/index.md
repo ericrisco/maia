@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **305** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **306** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1847,6 +1847,7 @@
 | [`lacueva-hoteleria`](fonts/lacueva-hoteleria.md) | Ludmilla Lacueva i Canut · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
 | [`llei-creacio-cambra-comerc-1993`](fonts/llei-creacio-cambra-comerc-1993.md) | Consell General | text legal, domini públic | si |
+| [`llei-nacionalitat-1995-article14`](fonts/llei-nacionalitat-1995-article14.md) | Consell General del Principat d'Andorra | publicació legal, ús públic | si |
 | [`llovera-visio-del-treballador`](fonts/llovera-visio-del-treballador.md) | Xavier Llovera i Massana · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`lluelles-aspectes-socioeconomics-1997`](fonts/lluelles-aspectes-socioeconomics-1997.md) | Maria Jesús Lluelles Larrosa · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`lluelles-transformacio-economica-andorra-1991`](fonts/lluelles-transformacio-economica-andorra-1991.md) | M. Jesús Lluelles i Larrosa, geògrafa | pendent, llibre no consultat directament | pendent |

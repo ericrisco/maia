@@ -190,9 +190,16 @@ Vives i Sicília](../../persones/joan-enric-vives.md)** i
 
 ## Buits registrats
 
-- **La ficció de nacionalitat**: **quina norma la fixa, si n'hi ha cap.** **Becat
-  la descriu com a pràctica reconeguda i no en dona base escrita**; **la
-  Constitució del 1993 tampoc no consta al corpus que la reculli.**
+- ~~**La ficció de nacionalitat**: **quina norma la fixa, si n'hi ha cap.**
+  **Becat la descriu com a pràctica reconeguda i no en dona base
+  escrita**; **la Constitució del 1993 tampoc no consta al corpus que la
+  reculli.**~~ — **`resolt` el 18-09-2026**: **sí que n'hi ha base
+  escrita: l'article 14 de la Llei qualificada de la nacionalitat
+  (5-10-1995)**, que dona nacionalitat andorrana temporal —**no
+  transmissible, sense drets polítics**— als representants personals
+  dels coprínceps i càrrecs afins, **d'acord amb l'article 48 de la
+  Constitució**
+  ([font](../../../fonts/llei-nacionalitat-1995-article14.md)).
 - **Quantes vegades el copríncep francès va deixar de designar veguer**, i
   **quins noms hi va posar el Consell General provisionalment.** **És un buit
   molt concret i diria molt.**
