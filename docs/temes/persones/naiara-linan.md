@@ -36,7 +36,7 @@ Al **Palazzetto Giovanni Paolo II**, seu del taekwondo dels Jocs
 | --- | --- | --- |
 | **Primer** | **Sara Saliba** (Líban) | **2-0** |
 | **Segon** | **Dzejla Makas** (Bòsnia i Hercegovina) | **2-1** |
-| **Semifinal** | — | *(el corpus no en té el resultat)* |
+| **Semifinal** | **Sofija Hinic** (Croàcia) | **0-2** ([font](../../fonts/naiara-linan-tarent-semifinal.md)) |
 
 **Guanya dos combats i entra a semifinals.** En taekwondo olímpic **els dos
 perdedors de semifinals reben bronze**, de manera que **la medalla és de
@@ -80,24 +80,47 @@ de l'executiu andorrà actual**, i [la fitxa dels caps de
 Govern](./els-caps-de-govern.md) tenia escrit que **el corpus no en té ni un
 ministre**. **Ara en té dos.**
 
-## El que falta, i és gairebé tot
+## El que falta, i era gairebé tot
 
-- **Qui és.** **El corpus no en sap l'edat, ni el lloc de naixement, ni el
-  club, ni des de quan competeix.** **No hi ha article d'enciclopèdia**: la
-  Viquipèdia en català no en té.
-- **El seu palmarès.** Els titulars de la premsa andorrana n'apunten com a
-  mínim **una quarta posició a l'Europeu absolut** i **un bronze a l'Europeu de
-  clubs (Tallinn)**, i **el corpus no n'ha pogut verificar ni la data ni la
-  categoria**. **Buit prioritari** — són **resultats continentals d'una
-  esportista en actiu**.
-- **Si ha anat als Jocs Olímpics.** El corpus **no ho sap i no ho suposa**.
-- **El taekwondo andorrà**: la federació, quanta gent, des de quan.
-- **La semifinal de Tàrent.**
+- ~~**Qui és.** **El corpus no en sap l'edat, ni el lloc de naixement, ni
+  el club, ni des de quan competeix.**~~ — **`parcial` el 18-09-2026**:
+  **21 anys, del Taekwondo Club Andorra, taekwondo des dels sis anys**;
+  entrena a Sant Cugat i estudia Dret a la UAB
+  ([font](../../fonts/naiara-linan-altaveu-consolidacio.md)). **Família
+  d'esportistes** —pare karateka, mare taekwondista, germà judoka, i la
+  seva germana Isona (15 anys) ja competeix professionalment. **El lloc de
+  naixement segueix sense trobar-se**; encara no hi ha article
+  d'enciclopèdia.
+- ~~**El seu palmarès.** Els titulars de la premsa andorrana n'apunten com
+  a mínim **una quarta posició a l'Europeu absolut** i **un bronze a
+  l'Europeu de clubs (Tallinn)**, i **el corpus no n'ha pogut verificar ni
+  la data ni la categoria**.~~ — **`resolt` el 18-09-2026**: **bronze el
+  15-4-2025 a l'Europeu de Clubs de Tallinn**, −49 kg, primera medalla
+  sènior del taekwondo andorrà, perdent a semifinals contra la búlgara
+  Aleksandra Georgieva, futura campiona
+  ([font](../../fonts/naiara-linan-tallinn-bronze.md)). **Quarta el
+  14-5-2026 a l'Europeu absolut de Munic**: guanya la grega Konstantina
+  Bourogianni (setzens) i perd contra la turca Elif Akgul, subcampiona
+  mundial (quarts, 8-1 i 7-0) — sense repesca, dues úniques medalles de
+  bronze
+  ([font](../../fonts/naiara-linan-munic-quarta.md)).
+- ~~**Si ha anat als Jocs Olímpics.**~~ — **`resolt`**: **no**; Andorra no
+  ha competit mai en taekwondo als Jocs Olímpics.
+- ~~**El taekwondo andorrà**: la federació, quanta gent, des de quan.~~ —
+  **`parcial` el 18-09-2026**: **cinc clubs afiliats** (Taekwondo Club
+  Andorra, Principat, Ordino, Encamp, i Club Esportiu Sant Julià), seu al
+  Centre de Tecnificació Esportiva d'Ordino
+  ([font](../../fonts/fandtaekwondo-federacio.md)). **L'any de fundació i
+  el nombre de llicències segueixen sense trobar-se.**
+- ~~**La semifinal de Tàrent.**~~ — **`resolt` el 18-09-2026**: **0-2
+  contra la croata Sofija Hinic**
+  ([font](../../fonts/naiara-linan-tarent-semifinal.md)).
 
-**Aquesta fitxa és, deliberadament, curta i plena de buits.** El corpus té **un
-fet gros documentat amb dues fonts andorranes** i **prefereix escriure'l amb els
-buits a la vista** que inflar-lo. Vegeu [el criteri de la
-branca](./README.md).
+**Aquesta fitxa va néixer, deliberadament, curta i plena de buits** —el
+corpus tenia **un fet gros documentat amb dues fonts andorranes** i va
+preferir escriure'l amb els buits a la vista que inflar-lo. **El
+18-09-2026 se n'han tancat quatre de cinc**, amb premsa andorrana
+verificada punt per punt. Vegeu [el criteri de la branca](./README.md).
 
 ## Related
 

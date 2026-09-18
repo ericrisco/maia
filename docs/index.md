@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **254** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **259** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1771,6 +1771,7 @@
 | [`eur-lex-acord-ce-andorra-1990`](fonts/eur-lex-acord-ce-andorra-1990.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts de l'acord: el Principat d'Andorra i la Comunitat Econòmica Europea | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE. Els textos consolidats, CC BY 4.0 | si |
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`fandtaekwondo-federacio`](fonts/fandtaekwondo-federacio.md) | Federació Andorrana de Taekwondo | publicació institucional, sense llicència declarada | pendent |
 | [`ferrer-percepcio-andorra-exterior`](fonts/ferrer-percepcio-andorra-exterior.md) | Josep Ferrer i Altimira · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`festesandorra`](fonts/festesandorra.md) | festesandorra.com | desconeguda, ús informatiu | False |
 | [`fiba-andorra-basquet-1998`](fonts/fiba-andorra-basquet-1998.md) | FIBA · Govern d'Andorra · Consell General · Comitè Olímpic Andorrà · premsa andorrana | drets reservats pels titulars respectius | False |
@@ -1836,6 +1837,10 @@
 | [`molla-catala-andorra`](fonts/molla-catala-andorra.md) | Guillem Molla · Universitat de Girona · revista IANUA | publicació acadèmica en accés obert | pendent |
 | [`montane-bastida-terminologia-2019`](fonts/montane-bastida-terminologia-2019.md) | M. Amor Montané March i Carolina Bastida Serra (textos) · Govern d'Andorra, Ministeri de Cultura, Joventut i Esports, Servei de Política Lingüística (edició) | drets reservats; copyright de les autores i de l'edició, cap llicència oberta | no |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
+| [`naiara-linan-altaveu-consolidacio`](fonts/naiara-linan-altaveu-consolidacio.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
+| [`naiara-linan-munic-quarta`](fonts/naiara-linan-munic-quarta.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
+| [`naiara-linan-tallinn-bronze`](fonts/naiara-linan-tallinn-bronze.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
+| [`naiara-linan-tarent-semifinal`](fonts/naiara-linan-tarent-semifinal.md) | El Periòdic d'Andorra | premsa, drets reservats; citació breu | False |
 | [`national-football-teams`](fonts/national-football-teams.md) | national-football-teams.com | desconeguda, ús informatiu | False |
 | [`nomen-capital-social-2007`](fonts/nomen-capital-social-2007.md) | Eusebi Nomen i Calvet · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`obiols-salut-mental`](fonts/obiols-salut-mental.md) | Joan Obiols i Llandrich · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
