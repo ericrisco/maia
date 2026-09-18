@@ -153,9 +153,12 @@ propietat privada**.
   llei posterior que en creï més**. `Els vedats temporals, que van per ordre
   ministerial (article 15 de la Llei de caça), segueixen sense inventariar: el
   Butlletí en publica una tirallonga anual.`
-- **Els articles de la Llei de pesca arriben amb el títol malmès** a la font: en
+- ~~**Els articles de la Llei de pesca arriben amb el títol malmès** a la font: en
   molts casos el títol repeteix la primera frase de l'article, truncada. El text
-  és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.
+  és sencer; **l'encapçalament no és fiable** i el corpus cita pel número.~~ —
+  **`no-es-buit` el 19-09-2026**: és un avís sobre la qualitat dels encapçalaments
+  de la còpia, no una pregunta de recerca; el text articulat és complet i es
+  cita pels números d'article.
 - ~~**La caça i la pesca com a pràctica social** —qui hi va, quant, amb qui— és
   una altra fitxa i no s'ha escrit.~~ — **`resolt` el 18-09-2026**, i la fitxa
   és [Qui caça i qui pesca](./qui-caca-i-qui-pesca.md): **474 llicències de caça
