@@ -205,7 +205,11 @@ mercat lliure.**
   els contractes** i **7,9 €/m² els anteriors al 2012**. `El desglossament per
   parròquia —que és el que la pregunta demanava per a Andorra la Vella— segueix
   obert; el SICAR el té i la presentació no el publica.` **A més**, la via
-  d'Estadística queda oberta: **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
+  d'Estadística queda oberta: **De compra, en canvi, el corpus ja té la sèrie
+  des del 18-09-2026** —**2.412,75 €/m² el 2019 i 4.169,59 € el 2024, un
+  +72,8%**—, per l'activitat **A117**, i **tampoc no es desglossa per
+  parròquia** ([De dos mil quatre-cents a quatre mil cent euros el metre](./de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md)).
+  **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
   i la sobrecàrrega dels costos de l'habitatge— a «[Dues xifres oficials que el
   corpus no tenia](#dues-xifres-oficials-que-el-corpus-no-tenia)», **però cap
   d'elles no és un preu**. `Requereix la nota de premsa de la sèrie de preus del
@@ -263,5 +267,6 @@ mercat lliure.**
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
 - [Immigració](../immigracio/immigracio.md)
 - [Llogar un pis](./llogar-un-pis.md) — què diu la llei d'un contracte de lloguer avui.
-- [Els habitatges buits](./els-habitatges-buits.md) — què pot fer l'Estat amb un pis buit.
+- [Els habitatges buits](./els-habitatges-buits.md)
+- [De dos mil quatre-cents a quatre mil cent euros el metre](./de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md) — el preu de compra, 2019-2024. — què pot fer l'Estat amb un pis buit.
 - [L'impost contra l'especulació](./limpost-contra-lespeculacio.md) — què fa la llei fiscal contra la revenda ràpida.

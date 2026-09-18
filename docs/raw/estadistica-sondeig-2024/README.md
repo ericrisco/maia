@@ -68,4 +68,9 @@ la seva API de cerca no retorna les notes.`
 
 - A110 i A111 → [Qui caça i qui pesca](../../temes/territori/fauna-i-flora/qui-caca-i-qui-pesca.md),
   per la via del destí.
-- A024, A052, A053, A117 i A138 **encara no s'han llegit**.
+- A117 → [De dos mil quatre-cents a quatre mil cent euros el metre](../../temes/societat/habitatge/de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md).
+  **Les dues notes llegides senceres**, totes les taules comprovades: **quatre
+  columnes de nombre quadren exactament** i **tres de les quatre de valor fallen
+  per un euro**. **El resum del `20241107` diu «tercer trimestre del 2023» on la
+  taula diu 2024**; registrat i no corregit.
+- A024, A052, A053 i A138 **encara no s'han llegit**.

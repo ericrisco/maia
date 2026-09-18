@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1017** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
+**1018** documents · **210** fonts · **39** aptes com a model de llengua · **123** temes amb contingut.
 
 ## parla/oral
 
@@ -1385,6 +1385,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [De dos mil quatre-cents a quatre mil cent euros el metre](temes/societat/habitatge/de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
 | [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els recomptes del parc públic el 2026](temes/societat/habitatge/els-recomptes-del-parc-public-el-2026.md) | `temes/societat/habitatge` | compilada | contemporania | no | `consell-general-pressupost-2026` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
