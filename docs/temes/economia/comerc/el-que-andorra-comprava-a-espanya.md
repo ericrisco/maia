@@ -252,14 +252,14 @@ serien unes **525 persones**, prop d'una desena part del país.
    frontera **no hi és**.
 2. **Què exportava Andorra**, partida per partida. La font només en dona el total
    —**no més de 220.000 pessetes**— i diu que **principalment bestiar**.
-3. **Qui va aixecar l'inventari i com.** No consta si les dades les va donar el
-   Consell General, la duana de la Seu o algú altre. **Comprovat el
-   18-09-2026 contra el text complet de l'apèndix 40** (`docs/raw/hemeroteca/congreso-1895-ap40.txt`):
+3. ~~**Qui va aixecar l'inventari i com.**~~ **`resolt` en la mesura que una
+   absència es pot resoldre**: comprovat el 18-09-2026 contra el text complet
+   de l'apèndix 40 (`docs/raw/hemeroteca/congreso-1895-ap40.txt`),
    **l'«Estado de los productos que entran de España en Andorra» apareix
    després de la firma dels diputats que proposen l'esmena** —Carvajal,
    Pedregal, Vázquez de Mella i altres—, **sense atribuir l'inventari a
-   cap font concreta**. `No és un buit de lectura: el document mateix no
-   ho diu.`
+   cap font concreta**. No és un buit de lectura: **el document mateix no ho
+   diu.**
 4. ~~**La unitat de la «càrrega» de vi** i el seu equivalent.~~ **TANCAT el
    2026-09-13: 124,800 kg de pes net.** 6.000 càrregues són **748.800 kg l'any**,
    uns **125 kg per habitant**. Vegeu
