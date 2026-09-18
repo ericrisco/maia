@@ -180,7 +180,23 @@ I Goya no la converteix en nihilisme:
    **Prioritari.** El corpus en té un paràgraf de segona mà.
 2. **L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
    quina norma, i què se'n va dir. **Prioritari.**
-3. **Els edictes de contractació pública** de 1996-1997 i la seva redacció.
+3. ~~**Els edictes de contractació pública** de 1996-1997 i la seva
+   redacció.~~ — **`parcial` el 18-09-2026**: vuit edictes del BOPA (1990,
+   1993 ×3, 1994, 1995, 1996 ×2, 1997 ×2) de contractació d'ensenyants
+   comparats un a un
+   ([font](../../../fonts/bopa-edictes-contractacio-ensenyants-1990-1997.md)).
+   **No hi ha un canvi net el 1996**: la distinció entre andorrans i
+   no-andorrans **ja hi és el 1990** («nacionalitat preferentment
+   andorrana») i **ja és absoluta un cop, el 1993**, per a places de nova
+   creació —amb un **doble règim** per a renovacions, que permetia seguir
+   contractant estrangers ja en plantilla. **El 1994 i el 1995 torna la
+   fórmula suau** («preferentment»). **El 1996 i el 1997, els quatre
+   edictes trobats fixen la fórmula absoluta** («nacionalitat andorrana»,
+   sense matisos), cosa que abans fluctuava d'un any a l'altre. **Això
+   complica la lectura de Goya, no la confirma ni la desmenteix**: aquesta
+   font només cobreix una sèrie estreta (ensenyants), no «gairebé tots els
+   edictes» de tota l'Administració. **Cap edicte trobat anuncia un
+   acomiadament col·lectiu com a tal.**
 4. ~~**Qui era el síndic Álvarez** (vegeu més amunt), i **el ministre
    Goicoechea**.~~ — **`resolt` el 18-09-2026**: **Miquel Àlvarez Marfany**,
    **subsíndic** general del 10-03-1997 al 13-01-2001, i **Josep Maria
