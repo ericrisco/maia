@@ -122,7 +122,11 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
    quines condicions ([el criteri de l'AEA](../museus-i-arxius/larxiu-detnografia.md)).
 4. **El repertori del Cor** i si ha encarregat obra andorrana.
 5. **Si hi ha més cors** a Andorra.
-6. **Les caramelles**, que el corpus té esmentades i no descrites.
+6. ~~**Les caramelles**, que el corpus té esmentades i no descrites.~~ —
+   **`resolt` el 18-09-2026**: [les caramelles](../../costums/caramelles/les-caramelles.md)
+   ja tenen fitxa pròpia, amb l'origen, el calendari de la cantada, la recollida
+   d'ous i diners, les diferències entre parròquies i els mots
+   *caramellaires* i *Pasqüetes*.
 7. **Un cançoner andorrà**, si existeix.
 
 ## Related
