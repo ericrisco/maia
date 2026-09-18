@@ -341,7 +341,8 @@ són **85 alumnes**.
   **i el de maternal és del 1997, no del 1998**. `Segueixen sense localitzar-se
   els de segona ensenyança del 1999 i els de batxillerat, i els programes propis
   de l'Escola Andorrana, que són una altra sèrie.`
-- **Tot això el 2026.**
+- ~~**Tot això el 2026.**~~ — **`no-es-buit` el 19-09-2026**: nota de
+  manteniment sense una pregunta o dada pendent concreta.
 
 ## Related
 

@@ -316,7 +316,8 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   país**—, i **els dos IEA en concentren el 44,7% dels alumnes**, **amb el
   portuguès com a segona nacionalitat a la Margineda (123 de 532).**
 - **Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.
-- **Tot això el 2026.**
+- ~~**Tot això el 2026.**~~ — **`no-es-buit` el 19-09-2026**: nota de
+  manteniment sense una pregunta o dada pendent concreta.
 
 ## Related
 
