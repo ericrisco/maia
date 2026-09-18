@@ -65,6 +65,48 @@ dues que no demanen un edifici de cultura**.
 2019, més de la meitat dels andorrans de 15 a 29 anys anaven a la biblioteca;
 el 2024 hi van quatre de cada deu.** **Als 45-64 la xifra no s'ha mogut.**
 
+### I el que passa al taulell de la biblioteca no és el mateix
+
+> **Afegit el 18-09-2026** amb la branca de biblioteques de l'API
+> (`docs/raw/estadistica-api/salut-cultura-medi/`, **CC BY 4.0**). **L'enquesta
+> pregunta si la gent hi va; aquesta sèrie compta què hi passa. No diuen el
+> mateix.**
+
+| | 2016 | 2019 | **2020** | **2024** |
+| --- | ---: | ---: | ---: | ---: |
+| **Usuaris inscrits** | 19.580 | 25.038 | 25.368 | **29.364** |
+| **Préstecs a domicili** | 39.331 | 43.773 | **17.646** | **40.914** |
+
+**Els inscrits pugen un 50,0% en vuit anys i els préstecs un 4,0%.** **Cada
+usuari inscrit s'enduia 2,01 documents l'any el 2016 i 1,39 el 2024.**
+
+**I el que es perd no és el llibre:**
+
+| Tipus de document (Xarxa de Biblioteques) | 2016 | 2024 | |
+| --- | ---: | ---: | ---: |
+| **Llibres** | 29.945 | **37.270** | **+24,5%** |
+| **Documents audiovisuals** | 8.389 | **2.737** | **−67,4%** |
+| Publicacions periòdiques | 443 | 531 | +19,9% |
+| Documents sonors | 554 | 371 | −33,0% |
+
+**El préstec de llibres creix una quarta part; el de pel·lícules i música cau
+dos terços.** **El que la biblioteca andorrana ha perdut en vuit anys és el
+DVD, no el llibre**, i **el 2016 un de cada cinc préstecs era audiovisual;
+el 2024 és un de cada quinze.**
+
+**El 2020 val la pena mirar-lo sol**: **17.646 préstecs, un −59,7% sobre el
+2019**, i **els inscrits no baixen** —25.368, més que l'any abans—. **La gent
+seguia inscrita i no hi anava.**
+
+**El parc no ha canviat**: **vuit biblioteques de la Xarxa més la Biblioteca
+Nacional**, les mateixes del 2016 al 2024, **i la ràtio per deu mil habitants
+baixa d'1,2 a 1,0 perquè el país ha crescut i les biblioteques no.** **La
+plantilla de les dues xarxes passa de 29 persones el 2016 a 27 el 2024**, i
+**és de dones en vint-i-quatre dels vint-i-set llocs del 2024** —**contra tres
+homes**—. `La font en té una segona sèrie, «personal de les biblioteques»,
+que dona 32 el 2016 i s'atura el 2021; no s'ha comprovat què hi entra que no
+sigui plantilla.`
+
 ## El museu perd els grans
 
 | Edat | Museu 2019 | Museu 2024 | Diferència |
