@@ -279,8 +279,9 @@ d'una tanda diferent**:
 5. **Els altres articles posats a enquesta pel Consell Sobirà del Rosselló el 16
    de juny de 1751.** **El corpus en té dos** —**aquest i el del verb *heretar***— i
    **la font diu «diversos».**
-6. **Quantes institucions amb pluralitat d'hereus hi ha**: **la font en dona tres**
-   i **adverteix que una potser és un *ab intestat*.**
+6. ~~**Quantes institucions amb pluralitat d'hereus hi ha**~~ — **`resolt`,
+   amb reserva de la font mateixa**: **tres**, i **la font adverteix que
+   una potser és un *ab intestat*.**
 7. **Què vol dir «*a arbitre de bon baro*»** com a mesura de l'usdefruit. —
    **`parcial` el 16-09-2026.** **Lexicogràficament, res**: **la locució no és
    ni al [DIEC2](../../../fonts/diec2.md) ni al [DCVB](../../../fonts/dcvb.md)**

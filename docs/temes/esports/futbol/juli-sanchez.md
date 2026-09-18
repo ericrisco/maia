@@ -101,8 +101,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   2000**, amistós (taula de dalt).
 - **Els seus clubs**: FC Andorra, CF Balaguer i CD Binéfar, segons la font, i
   **cap dada de temporades.**
-- **Quants anys tenia quan hi va debutar**: si va néixer el juny del 1978 i va
-  debutar el novembre del 1996, **hi va debutar amb 18 anys**.
+- ~~**Quants anys tenia quan hi va debutar**~~ — **`resolt`**: si va néixer el
+  juny del 1978 i va debutar el novembre del 1996, **hi va debutar amb 18
+  anys**. `Càlcul del corpus a partir de les dues dates conegudes; no
+  consta el dia exacte de naixement.`
 
 ## Related
 

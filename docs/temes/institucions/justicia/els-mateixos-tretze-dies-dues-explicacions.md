@@ -271,9 +271,9 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
 5. **La sèrie de jutges d'apel·lacions.** **El corpus en té dos noms i una data**:
    **Odon Estanol**, mort el **1891**, i **Germain Sicart**, nomenat per França
    aquell any.
-6. **Quants notables consultava un batlle** i **si la pràctica deixava rastre.**
-   **Per definició, no**: la font diu que el consell **no pot tenir cap influència
-   oficial.**
+6. **Quants notables consultava un batlle** — **`obert`, sense xifra.** **Si la
+   pràctica deixava rastre**: **`resolt`, per definició, no**: la font diu que
+   el consell **no pot tenir cap influència oficial.**
 7. **Si l'absència de formalitat de publicació de les subhastes va donar mai
    problemes**, i **si es va canviar.**
 8. **Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
