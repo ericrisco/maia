@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1083** documents · **366** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1083** documents · **367** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1767,6 +1767,7 @@
 | [`bopa-2005-reglament-arxiu-nacional`](fonts/bopa-2005-reglament-arxiu-nacional.md) | Govern d'Andorra | text normatiu oficial, ús públic | permesa (text legal) |
 | [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
 | [`bopa-decret-355-2024-reglament-cvpc`](fonts/bopa-decret-355-2024-reglament-cvpc.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
+| [`bopa-edicte-2024-raonador-designacio`](fonts/bopa-edicte-2024-raonador-designacio.md) | Consell General d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-edictes-contractacio-ensenyants-1990-1997`](fonts/bopa-edictes-contractacio-ensenyants-1990-1997.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-llei-associacions-2000`](fonts/bopa-llei-associacions-2000.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-llei-enade-1996`](fonts/bopa-llei-enade-1996.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |

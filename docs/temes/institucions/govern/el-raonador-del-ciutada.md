@@ -185,10 +185,19 @@ Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13)
 > **Auditats contra el text de la llei i contra la resta del corpus el
 > 2026-09-13.**
 
-- **Qui l'ha exercit i des de quan**, el corpus no ho té.
+- ~~**Qui l'ha exercit i des de quan**, el corpus no ho té.~~ — **`parcial`
+  el 18-09-2026**: l'actual Raonador del Ciutadà és **Xavier Cañada
+  Bonaetxea**, designat pel Consell General l'1-2-2024
+  ([font](../../../fonts/bopa-edicte-2024-raonador-designacio.md)), precedit
+  per un avís de convocatòria de candidats del 25-10-2023. **Qui exercia el
+  càrrec abans del 2024 segueix sense confirmar-se** amb una font primària
+  d'aquest tipus.
 - **Quantes queixes rep i contra qui**, tampoc; ni si l'informe anual ha arribat
   a assenyalar mai un vici d'inconstitucionalitat.
-- **Si ha actuat mai com a *amicus curiae***, no consta.
+- **Si ha actuat mai com a *amicus curiae***, no consta. **Cercat el
+  18-09-2026** al [BOPA](../../../fonts/bopa.md) per la frase exacta: només hi
+  surt la llei que li'n dona la potestat (article 3.1.d), cap acte concret
+  d'exercici. `La via del BOPA queda descartada, no pendent.`
 - ~~**El procediment de tramitació de les queixes** (títol II i següents) no s'ha
   llegit.~~ — **`resolt`** (secció de dalt). **El text era al corpus** a
   [`raw/lleis/raonador-ciutada.txt`](../../../raw/lleis/raonador-ciutada.txt).
