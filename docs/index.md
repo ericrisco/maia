@@ -1386,13 +1386,13 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
-| [De dos mil quatre-cents a quatre mil cent euros el metre](temes/societat/habitatge/de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
 | [Els habitatges buits](temes/societat/habitatge/els-habitatges-buits.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Els recomptes del parc públic el 2026](temes/societat/habitatge/els-recomptes-del-parc-public-el-2026.md) | `temes/societat/habitatge` | compilada | contemporania | no | `consell-general-pressupost-2026` |
 | [La crisi de l'habitatge](temes/societat/habitatge/la-crisi-de-lhabitatge.md) | `temes/societat/habitatge` | compilada | contemporania | no | `premsa-andorrana` |
 | [L'habitatge el 1989](temes/societat/habitatge/lhabitatge-el-1989.md) | `temes/societat/habitatge` | compilada | contemporania | no | `font-fenomens-socials-immigracio` |
 | [L'impost contra l'especulació](temes/societat/habitatge/limpost-contra-lespeculacio.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [Llogar un pis](temes/societat/habitatge/llogar-un-pis.md) | `temes/societat/habitatge` | compilada | contemporania | no | `jurisprudencia-ad` |
+| [Tres-centes tretze, els dos anys](temes/societat/habitatge/tres-centes-tretze-els-dos-anys.md) | `temes/societat/habitatge` | compilada | contemporania | no | `estadistica-ad` |
 
 ## temes/societat/immigracio
 

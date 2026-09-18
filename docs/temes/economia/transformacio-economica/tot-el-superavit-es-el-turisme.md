@@ -157,3 +157,4 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
 - [El comerç](../comerc/comerc.md) — la mateixa estructura, tres segles abans.
 - [La supervisió financera](../banca-i-fiscalitat/la-supervisio-financera.md) — el sector que cobra del món un cinquè del que cobrava.
 - [Els tipus impositius](../banca-i-fiscalitat/els-tipus-impositius.md)
+- [Tres-centes tretze, els dos anys](../../societat/habitatge/tres-centes-tretze-els-dos-anys.md) — on va a parar el diner, parròquia per parròquia.

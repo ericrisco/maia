@@ -22,7 +22,10 @@ seva finestra.**
 **114 codis** —els que no tenien cap nota a la finestra anterior— per **348 dies
 feiners** del **2024-06-01 al 2025-09-30**: **39.672 peticions `HEAD`**, 32 fils.
 
-**Tretze encerts, dotze de nous:**
+**Tretze encerts, i no dotze de nous: nou.** **A052 (`20250403`) i A117 ja eren
+al corpus** —a `../estadistica-prestacions/` i a `../estadistica-habitatge/`—,
+**i A109 s'havia trobat el mateix dia a mà.** **Comprovat després de baixar-les,
+que és tard**: la comprovació correcta era mirar `docs/raw/` abans del sondeig.
 
 | Codi | Activitat | Data | Porta dades? |
 | --- | --- | --- | --- |
@@ -35,6 +38,23 @@ feiners** del **2024-06-01 al 2025-09-30**: **39.672 peticions `HEAD`**, 32 fils
 | **A117** | Transaccions immobiliàries | `20240805` · `20241107` | **sí**, 606 línies |
 | **A131** | Prevenció del blanqueig | `20250828` | **no**, nota-punter |
 | **A138** | Balança de pagaments i posició inversora | `20250123` · `20250731` | **sí**, 971 línies |
+
+## L'error d'aquest sondeig, escrit
+
+**Nou dels tretze encerts eren nous; tres ja eren al corpus.** **A052 del
+`20250403` és exactament el fitxer que ja hi ha a
+`../estadistica-prestacions/a052-desocupacio-20250403.txt`**, i **A117 té dues
+notes més recents i més completes a `../estadistica-habitatge/`**, **sota el nom
+compost `A117_A145`** —que és per això que un sondeig per `A117_<data>` sol no
+les torna, i **el README d'aquella carpeta ja ho advertia**.
+
+**El sondeig es va llançar sense mirar què hi havia a `docs/raw/`.** És el mateix
+error que aquesta sessió ha diagnosticat al *Politar*, a la *Instructa* i al
+manuscrit Palmitjavila, **comès pel corpus mateix i el mateix dia**. Queda
+escrit, i la regla que en surt és:
+
+> **Abans de sondejar una font, mesura què en tens.** I **abans de creure que un
+> codi no publica, mira si publica sota un nom compost.**
 
 ## El patró de les notes-punter, ara amb set casos
 
@@ -68,11 +88,12 @@ la seva API de cerca no retorna les notes.`
 
 - A110 i A111 → [Qui caça i qui pesca](../../temes/territori/fauna-i-flora/qui-caca-i-qui-pesca.md),
   per la via del destí.
-- A117 → [De dos mil quatre-cents a quatre mil cent euros el metre](../../temes/societat/habitatge/de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md).
-  **Les dues notes llegides senceres**, totes les taules comprovades: **quatre
-  columnes de nombre quadren exactament** i **tres de les quatre de valor fallen
-  per un euro**. **El resum del `20241107` diu «tercer trimestre del 2023» on la
-  taula diu 2024**; registrat i no corregit.
+- A117 → [Tres-centes tretze, els dos anys](../../temes/societat/habitatge/tres-centes-tretze-els-dos-anys.md),
+  **però la fitxa no es basa en aquestes dues notes sinó en les millors que el
+  corpus ja tenia** (vegeu l'avís de sota). **Llegides igualment senceres**:
+  **quatre columnes de nombre quadren exactament**, **tres de les quatre de
+  valor fallen per un euro**, i **el resum del `20241107` diu «tercer trimestre
+  del 2023» on la taula diu 2024**; registrat i no corregit.
 - A138 (`20250731`) → [Tot el superàvit és el turisme](../../temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md).
   **Divuit pàgines; llegides la balança, les quatre taules comparatives i la
   posició inversora.** **Les cinc files d'actius de la PII quadren una per una**;

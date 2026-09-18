@@ -205,10 +205,13 @@ mercat lliure.**
   els contractes** i **7,9 €/m² els anteriors al 2012**. `El desglossament per
   parròquia —que és el que la pregunta demanava per a Andorra la Vella— segueix
   obert; el SICAR el té i la presentació no el publica.` **A més**, la via
-  d'Estadística queda oberta: **De compra, en canvi, el corpus ja té la sèrie
-  des del 18-09-2026** —**2.412,75 €/m² el 2019 i 4.169,59 € el 2024, un
-  +72,8%**—, per l'activitat **A117**, i **tampoc no es desglossa per
-  parròquia** ([De dos mil quatre-cents a quatre mil cent euros el metre](./de-dos-mil-quatre-cents-a-quatre-mil-cent-euros-el-metre.md)).
+  d'Estadística queda oberta: **De compra, en canvi, el desglossament per
+  parròquia sí que existeix, i el corpus el tenia des del 17-09-2026 sense
+  destil·lar** —**4.479,4 €/m² de mitjana del país el 2025**, de **3.242,0 € a
+  Encamp** a **6.117,0 € a Escaldes-Engordany**, per les activitats **A117 i
+  A145** publicades sota el nom compost `A117_A145`
+  ([Tres-centes tretze, els dos anys](./tres-centes-tretze-els-dos-anys.md)).
+  `Del lloguer segueix sense haver-hi desglossament per parròquia.`
   **El corpus ja té dues xifres oficials** —l'ingrés mitjà de qui lloga
   i la sobrecàrrega dels costos de l'habitatge— a «[Dues xifres oficials que el
   corpus no tenia](#dues-xifres-oficials-que-el-corpus-no-tenia)», **però cap
