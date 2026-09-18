@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **250** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **251** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1708,6 +1708,7 @@
 | [`baro-politica-immigracio-1989`](fonts/baro-politica-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bartumeu-immigracio-proteccio-social-1989`](fonts/bartumeu-immigracio-proteccio-social-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bascompte-consell-de-la-terra`](fonts/bascompte-consell-de-la-terra.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`bascompte-guerra-segadors-andorra-2025`](fonts/bascompte-guerra-segadors-andorra-2025.md) | Societat Andorrana de Ciències | publicació acadèmica, IEC; ús de recerca | pendent |
 | [`bascompte-privilegis`](fonts/bascompte-privilegis.md) | Domènec Bascompte i Grau · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-roser-ensenyament-andorra`](fonts/bastida-roser-ensenyament-andorra.md) | Roser Bastida i Areny · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`bastida-universitat-andorra`](fonts/bastida-universitat-andorra.md) | Daniel Bastida i Obiols · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

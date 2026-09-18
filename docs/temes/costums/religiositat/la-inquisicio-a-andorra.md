@@ -181,6 +181,13 @@ francesos»**. El corpus **no en té res més**: ni dates, ni llocs, ni abast.
 **Buit obert**, i important, perquè **és l'únic conflicte religiós amb violència
 que les fonts andorranes li han posat davant**.
 
+**Context afegit el 18-09-2026**: historiografia posterior usa «hugonots»
+com **el nom popular del comte de Foix**, consenyor calvinista d'Andorra
+enfrontat al bisbe d'Urgell catòlic, durant la guerra dels Trenta Anys
+(1618-1648) ([font](../../../fonts/bascompte-guerra-segadors-andorra-2025.md)).
+**No es pot assegurar que sigui el mateix sentit amb què la font original ho
+fa servir** — es registra com a context, no com a resposta.
+
 ## Què en queda al segle XVII
 
 La font descriu el que ve després, i és **infraestructura documental que el
@@ -253,7 +260,13 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
   **Segueix obert si la Inquisició hi va actuar com a tribunal**: **el que hi ha és
   la pretensió de competència, un plet dut fora i una persecució posterior jutjada
   per les Corts, no per ella.**
-- **Els hugonots a Andorra**: quan, on, quantes incursions.
+- ~~**Els hugonots a Andorra**: quan, on, quantes incursions.~~ —
+  **`parcial` el 18-09-2026**: **«hugonots» és el nom popular del comte de
+  Foix, consenyor calvinista d'Andorra**, enfrontat al bisbe d'Urgell
+  catòlic, en el marc de la guerra dels Trenta Anys (1618-1648)
+  ([font](../../../fonts/bascompte-guerra-segadors-andorra-2025.md)).
+  **Dates, llocs i nombre d'incursions concretes segueixen sense
+  documentar-se.**
 - **Palau Martí, *Protestantisme i inquisició a l'Andorra del segle XVI***
   (1990). **Font localitzada, editada pel Ministeri de Cultura andorrà, no
   llegida.**
