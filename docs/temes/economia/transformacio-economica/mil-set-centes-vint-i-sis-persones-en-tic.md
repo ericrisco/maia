@@ -136,5 +136,19 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
   d'aquesta branca.~~ — **`no-es-buit`**: és una limitació declarada de la
   font, que no publica aquests desglossaments.
-- **Ni la despesa en TIC ni el tràfic telefònic** —que són divisions d'aquesta
-  mateixa branca— **s'han destil·lat.** Són al TSV. `local_raw`
+- ~~**Ni la despesa en TIC ni el tràfic telefònic** —que són divisions d'aquesta
+  mateixa branca— **s'han destil·lat.**~~ — **`parcial` el 18-09-2026**: la
+  divisió **2681, «Despesa en TIC»**, sí que és al TSV i queda destil·lada aquí:
+
+  | Any | Total sectors | Agricultura | Indústria | Construcció | Serveis |
+  | ---: | ---: | ---: | ---: | ---: | ---: |
+  | **2018** | **106.825** | — | — | — | — |
+  | **2020** | **102.854** | 48 | 3.734 | 828 | 98.244 |
+  | **2022** | **121.014** | 1.055 | 3.805 | 564 | 115.589 |
+  | **2024** | **144.668** | 39 | 8.723 | 2.774 | 133.131 |
+
+  **Unitat publicada per l'API: euros;** la suma de sectors queda **un euro per
+  sota del total** el 2022 i el 2024, divergència que es conserva sense
+  arbitrar. El **tràfic telefònic** continua obert: és la divisió **247**, que
+  el 18-09-2026 retorna `500 Internal Server Error` i no entra al TSV
+  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
