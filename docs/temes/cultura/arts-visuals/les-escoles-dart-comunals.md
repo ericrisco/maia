@@ -189,10 +189,11 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   identificar el comú d'aquests edictes, que el Butlletí dona pel codi del
   document i no pel text.` **El que sí que mostren és que les escoles d'art
   comunals han anat absorbint altres ensenyaments artístics.**
-- **Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
-  artistes. **Un ja té nom**: el taller de ceràmica que **Sergi Mas i Maria
-  Canalís obren a Sant Julià de Lòria el 1966**. Vegeu
-  [la creació artística](../../../fonts/rodriguez-rossa-creacio-artistica.md).
+- ~~**Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
+  artistes.~~ — **`parcial` el 18-09-2026**: ja hi ha un cas documentat, el
+  taller de ceràmica que **Sergi Mas i Maria Canalís obren a Sant Julià de
+  Lòria el 1966**. Vegeu [la creació artística](../../../fonts/rodriguez-rossa-creacio-artistica.md).
+  **Els altres tallers i artistes continuen sense identificar.**
 - **Quanta gent hi passa** i de quines edats.
 - **El batxillerat artístic**: es va crear?
 - **Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
