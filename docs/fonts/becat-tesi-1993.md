@@ -99,10 +99,11 @@ interpretació que n'adopti**.
   préstecs del comú i les boïgues), 4.3 (els coprínceps), 4.4 en la part de
   l'Assemblea Magna, l'annex 6.1 (la permeabilitat de la frontera i el
   contraban), el tros de migracions de treball del capítol 1, i trossos de 3.3
-  (el debat sobre la casa).** **Segueixen sense buidar**: **3.2 (les regles socials)**, **el gruix
-  de 3.3** —el mite i la ideologia de la casa, i «vers una ideologia política
-  andorrana»—, **4.2 (les parròquies, les fronteres i les relacions amb
-  l'Arieja)**, **4.3 (els coprínceps)**, **4.4 (el Consell General, la
+  (el debat sobre la casa).** — **`no-es-buit`**: inventari de lectura ja feta.
+- **Del llibre 2, segueixen sense buidar**: **3.2 (les regles socials)**, **el
+  gruix de 3.3** —el mite i la ideologia de la casa, i «vers una ideologia
+  política andorrana»—, **4.2 (les parròquies, les fronteres i les relacions
+  amb l'Arieja)**, **4.3 (els coprínceps)**, **4.4 (el Consell General, la
   Sindicatura i l'Assemblea Magna)**, **2.1-2.5 (la vida pastoral i
   l'organització de l'espai)** i **els cinc annexos**, entre els quals **les
   demandes de comunals a Canillo del 1874-1893** i **els cortons i herbes de
