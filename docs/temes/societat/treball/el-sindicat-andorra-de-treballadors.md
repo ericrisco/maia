@@ -104,6 +104,7 @@ Podem Andorra ni la seva dissolució del 2021.** **Buit obert.**
 - **Per què va caure en la inactivitat.**
 - **El dret de vaga**: el corpus té
   [el dret de vaga](./el-dret-de-vaga.md) i **no l'havia lligat amb això.**
+  **`no-es-buit`**: és una connexió entre fitxes, no una pregunta de recerca.
 
 ## Related
 
