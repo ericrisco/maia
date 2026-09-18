@@ -116,12 +116,13 @@ ensenya abans que l'aula, no és un detall menor.
 ## Buits registrats
 
 - **Quantes federacions hi ha** i si n'hi pot haver més d'una per esport, la
-  llei no ho diu en el que s'ha llegit. **Dada afegida, no resposta legal**:
-  el COA en té **33 de membres** el cicle 2024-2028
+  llei no ho diu en el que s'ha llegit. **Buit parcialment acotat**: el COA en
+  té **33 de membres** el cicle 2024-2028
   ([font](../../../fonts/coa-membres.md)), més que les 26 que el corpus
   tenia registrades — vegeu
   [el comitè olímpic](./el-comite-olimpic.md). **Si la llei permet més
-  d'una per esport segueix sense llegir-se.**
+  d'una per esport segueix sense llegir-se**; el recompte del COA no és una
+  resposta legal**.
 - ~~**El règim disciplinari** (títol V) i la **Comissió Jurídica Esportiva** queden
   per llegir.~~ — **`resolt` el 17-09-2026** (`docs/raw/lleis/esport.txt`,
   articles 86 a 95).
