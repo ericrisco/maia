@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1082** documents · **332** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1082** documents · **333** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1760,6 +1760,7 @@
 | [`bondia-guies-viatge-andorra`](fonts/bondia-guies-viatge-andorra.md) | Ludmilla Lacueva Canut · Bondia | premsa, drets reservats; citació breu | False |
 | [`bondia-vela-registre-religioses-2026`](fonts/bondia-vela-registre-religioses-2026.md) | Bondia (Redacció) | desconeguda, ús informatiu | False |
 | [`bopa`](fonts/bopa.md) | Govern del Principat d'Andorra | Publicacio oficial de l'Estat andorra. Les bases reguladores publicades al BOPA num. 1 del 1989 (base d) diuen: les disposicions reproduides al BOPA es poden inserir total o parcialment en altres publicacions sempre que convingui citar-les o transcriure-les, pero NO es poden publicar soles o en colleccio sense autoritzacio escrita previa de l'autoritat de que emanin. | citacio |
+| [`bopa-2005-reglament-arxiu-nacional`](fonts/bopa-2005-reglament-arxiu-nacional.md) | Govern d'Andorra | text normatiu oficial, ús públic | permesa (text legal) |
 | [`bopa-ad`](fonts/bopa-ad.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
 | [`brutails-coutume-1904`](fonts/brutails-coutume-1904.md) | J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`brutails-coutume-ia`](fonts/brutails-coutume-ia.md) | Domini públic. Digitalització d'Internet Archive, marcada CC PDM 1.0 | Creative Commons Public Domain Mark 1.0 (https://creativecommons.org/publicdomain/mark/1.0/) | si |

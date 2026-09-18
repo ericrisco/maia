@@ -327,8 +327,16 @@ tot.**
    l'article 36.2 deixa que **els notaris optin per no lliurar** els seus
    protocols de més de vint-i-cinc anys, amb una certificació; **el traspàs als
    cent anys, en canvi, no té excepció escrita.**
-   `Requereix font externa: les condicions de consulta del fons notarial de
-   l'Arxiu Nacional d'Andorra.` Vegeu
+   ~~`Requereix font externa: les condicions de consulta del fons notarial de
+   l'Arxiu Nacional d'Andorra.`~~ — **`parcial` el 18-09-2026**: **el
+   Reglament de l'Arxiu Nacional (2005) no té un capítol propi per al fons
+   notarial** — se li aplica el **règim general d'accés**: lliure per
+   defecte (article 18), amb consentiment o **cinquanta anys des de la
+   mort** per a dades personals (article 20), i carnet d'investigador per
+   als usuaris externs (article 31)
+   ([font](../../../fonts/bopa-2005-reglament-arxiu-nacional.md)). **Aquest
+   termini de cinquanta anys és diferent del dels cent anys pel traspàs dels
+   protocols**, que ja constava per una altra llei. Vegeu
    [museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md).
 4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat. — **`resolt`
    el 17-09-2026 en el sentit que es podia resoldre: la llei no en nomena cap.**
