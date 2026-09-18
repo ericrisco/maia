@@ -234,8 +234,11 @@ Olímpic Andorrà o al CIO.**
 
 ## El que falta
 
-- **Els noms de les delegacions** dels Jocs del Mediterrani i dels Jocs
-  Europeus. Hi ha **xifres i cap nom**, tret de Liñán.
+- ~~**Els noms de les delegacions** dels Jocs del Mediterrani i dels Jocs
+  Europeus. Hi ha **xifres i cap nom**, tret de Liñán.~~ **`parcial`:** el
+  corpus ja identifica [Naiara Liñán](../../persones/naiara-linan.md), medalla
+  de bronze de taekwondo el 2026; les delegacions completes i la resta de noms
+  encara falten.
 - **En quins esports** hi va Andorra a cadascuna.
 - **Els Jocs de la Joventut**, sencers. — **`obert`, i ara amb el motiu
   escrit**: **la font que el corpus fa servir no en té pàgina.** Vegeu més
