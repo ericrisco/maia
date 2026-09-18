@@ -284,20 +284,44 @@ data de finalització de l'esquí.
    localitzades i llegides, amb golf inclòs a ENSISA. No equivalen a
    volum de neu produïda. La separació d'usos, la sèrie completa i
    l'estat actual continuen pendents:
-   [lectura](com-es-compta-laigua-dels-canons.md).
-6. **El consum d'aigua per parròquia**, i quines conques abasteixen què.
-7. **Si les dades dels usos són d'un any concret**; la font no el diu.
-8. **Tancat parcialment:** una font primària situa uns 262 hm³/any en
+   [lectura](com-es-compta-laigua-dels-canons.md). — **`parcial` el
+   18-09-2026, i la sèrie sí que hi és**: l'API del Departament
+   d'Estadística (divisió **2470**, font **Departament de Medi Ambient i
+   Sostenibilitat**) dona **tretze anys de cabals captats per ús, 2007-2019**:
+
+   | m³/any | 2007 | 2010 | **2014** | 2016 | 2019 |
+   | --- | ---: | ---: | ---: | ---: | ---: |
+   | **Cultiu artificial de neu** | **2.135.565** | 1.370.428 | **860.414** | 1.478.921 | 1.493.673 |
+   | Domèstic | 11.373.446 | 10.684.144 | 10.924.043 | 12.016.828 | **15.071.637** |
+   | Agricultura | 2.329.747 | 2.124.773 | 1.753.528 | 1.591.324 | 1.948.923 |
+   | **Hidroelèctrica** *(no consumptiu)* | 50.960.000 | 89.678.000 | **97.454.016** | 69.927.840 | 74.503.508 |
+
+   **La neu artificial és entre 0,9 i 2,1 milions de m³ l'any**, **sense
+   tendència clara**, i **el mínim de la sèrie és el 2014**. **És una setena
+   part del que consumeix l'ús domèstic i una cinquantena part del que passa
+   per les centrals.**
+
+   `Segueix sent captació, no volum de neu produïda —que és el que aquest buit
+   demanava—, i la sèrie s'atura el 2019.`
+6. **El consum per habitant**, que la mateixa divisió dona: **259 litres per
+   habitant i dia el 2007** i **220 el 2019**, un **−15%**. **Per població
+   equivalent** —que inclou els visitants— **de 186 a 156**. `Nou el
+   18-09-2026; el que no consta és la definició de «població equivalent».`
+7. **El consum d'aigua per parròquia**, i quines conques abasteixen què.
+8. ~~**Si les dades dels usos són d'un any concret**; la font no el diu.~~ —
+   **`resolt` el 18-09-2026**: **la divisió 2470 de l'API dona la sèrie anual
+   completa del 2007 al 2019**, ús per ús. **No és un any concret: són tretze.**
+9. **Tancat parcialment:** una font primària situa uns 262 hm³/any en
    1971–2000, però queda per demostrar la cadena fins a la citació de Pons.
    El BUR original i la comparabilitat de mètodes amb els 282 hm³ de
    1961–1990 continuen pendents. La coincidència numèrica no resol el buit.
-9. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
+10. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
    andorrans i el corpus només els té citats.
-10. **La tesi de Cristina Pesado**: si es va acabar i què va donar.
-11. **Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.
+11. **La tesi de Cristina Pesado**: si es va acabar i què va donar.
+12. **Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.
 
-12. Drets de redistribució dels informes de Medi Ambient pendents; els
+13. Drets de redistribució dels informes de Medi Ambient pendents; els
     originals i la nova lectura de recerca no s'exporten a datasets.
-13. No s'ha resolt la diferència de classificació de la neu entre
+14. No s'ha resolt la diferència de classificació de la neu entre
     Pons i l'inventari oficial; el 6,67% no s'ha recalculat sobre una
     base aliena a la font.

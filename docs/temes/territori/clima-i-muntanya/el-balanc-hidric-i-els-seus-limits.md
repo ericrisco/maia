@@ -163,6 +163,35 @@ de 2015 a 2018, que aquí no s'han llegit.
 - [L'aigua i la neu](laigua-i-la-neu.md): usos, projeccions i fonts pendents.
 - [El canvi climàtic a Andorra](el-canvi-climatic.md): períodes de referència diferents.
 
+## La sèrie anual, i què en fa de les dues superfícies
+
+**L'API del Departament d'Estadística** (divisió **2468**, font **Departament de
+Medi Ambient i Sostenibilitat**) **publica el recurs hídric any per any del 2006
+al 2019, en mil·límetres**, i **ho fa amb les dues superfícies alhora**:
+
+| mm | 2006 | 2008 | 2011 | 2014 | 2017 | **2019** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Pluja útil, 467,00 km²** | 125 | 264 | **146** | 330 | 283 | **365** |
+| **Pluja útil, 522,26 km²** | 125 | 266 | 148 | 372 | 320 | **410** |
+| **Disponible, 467,00 km²** | 112 | 238 | 132 | 297 | 255 | 329 |
+| **Disponible, 522,26 km²** | 112 | 239 | 133 | 335 | 288 | 369 |
+
+**Això arbitra el que el corpus havia registrat com a «superfícies
+discordants».** **No és una discordança: la font publica deliberadament la sèrie
+sobre les dues bases**, **la dels límits administratius (467,00 km²) i la de la
+conca hidrogràfica real (522,26 km²)**, i **el corpus ha de citar sempre quina
+fa servir.**
+
+**I la sèrie mateixa diu una cosa que un any sol no diu**: **el recurs varia per
+un factor de dos i mig entre anys consecutius** —**146 mm el 2011 i 330 el
+2014**— i **el 2019, amb 365 mm, és el màxim dels catorze anys.** `La sèrie
+s'atura el 2019 i el balanç del 2025 no hi és.`
+
+**Fins al 2013 les dues superfícies donen gairebé el mateix**, i **des del 2013
+se separen** —372 contra 330 el 2014, 410 contra 365 el 2019—. `La font no
+explica el canvi; és compatible amb un canvi de model el 2013, que és l'any en
+què el corpus ja té documentada la reconstrucció.`
+
 ## Buits registrats
 
 - **Balanç de 2019 llegit textualment complet:** p. 1–29; taules de
@@ -170,7 +199,11 @@ de 2015 a 2018, que aquí no s'han llegit.
   ni la sèrie mensual de reserva, ni reproduït la comprovació manual
   de l'annex. Superfícies discordants i contrast aforament/model
   contradictori pendents de correcció del publicador. La sèrie
-  d'anys intermedis no es considera completada per aquesta lectura.
+  d'anys intermedis no es considera completada per aquesta lectura. — **`parcial`
+  el 18-09-2026**: **la sèrie anual del recurs hídric 2006-2019 sí que hi és**, a
+  l'API d'Estadística, i és a
+  «[La sèrie anual](#la-serie-anual-i-que-en-fa-de-les-dues-superficies)».
+  `Els anys 2020-2025 no hi són, i la sèrie mensual de reserva tampoc.`
 - **Discrepància de la font de 2025:** p. 4 i taula 2, p. 8, donen 996 mm
   de precipitació anual mitjana; les conclusions, p. 42, en donen 1.200.
   La taula 6, p. 23, dona 995,88 mm als límits administratius. Es conserven
