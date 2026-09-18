@@ -117,8 +117,12 @@ trajecte; **el que digui dels costums s'ha de contrastar**.
 
 ## Buits registrats
 
-1. **Les guies mateixes.** ***Les Guides bleus*** i les **Joanne** dels Pirineus
-   són **digitalitzades i accessibles**. **Buit tancable i de molt rendiment.**
+1. ~~**Les guies mateixes.** ***Les Guides bleus*** i les **Joanne** dels
+   Pirineus~~ — **`parcial` el 18-09-2026**: identificades una *Guide Bleu*
+   dels Pirineus de **1925**, publicada per Hachette, i una de **1943**, amb
+   capítol andorrà; la BnF també cataloga *Pyrénées* dins la col·lecció
+   *Guide Joanne*. Les fonts descriuen història, mapes, accessos, temps,
+   fondes i rutes, però encara no s'ha obtingut ni buidat cap còpia digital.
 2. **Quins relats de viatge** exactament: llista amb autor i any. El corpus no en
    té cap d'identificat.
 3. **Què hi deien dels costums** i del menjar, literalment.
