@@ -191,8 +191,10 @@ sentit.**
    cita cap cas.** `obert.`
 5. **D'on surt el «nou sobre deu»**: **la font no publica el recompte.** `obert, i
    és una limitació de la font.`
-6. **El capítol sobre la llegítima que l'autor anuncia** —«veurem que…»— **més
-   endavant al mateix llibre.** `localitzable sense sortir del fitxer.`
+6. ~~**El capítol sobre la llegítima que l'autor anuncia** —«veurem que…»— **més
+   endavant al mateix llibre.**~~ — **`resolt` el 19-09-2026**: és la secció
+   **«La légitime»** de *La Coutume d'Andorre*, que comença a la p. 149 i
+   continua a les pp. 150-151; la lectura temàtica és a [L'hereu i el cabaler](../../historia/antic-regim/lhereu-i-el-cabaler.md).
 
 **Un buit de la font no és un buit del món.** Que **la font no publiqui el
 recompte dels testaments** no vol dir que no es pugui fer: **els protocols
