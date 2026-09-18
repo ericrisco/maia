@@ -271,4 +271,7 @@ al 2050.**
   recerca i sensibilització, i **cap d'aquests eixos té fitxa al corpus**.
 - **El Reglament provisional del 1975** no és al corpus, i és la norma que
   defineix qui distribueix electricitat al país.
-- **FEDA** —l'empresa pública elèctrica— no té fitxa pròpia al corpus.
+- ~~**FEDA** —l'empresa pública elèctrica— no té fitxa pròpia al corpus.~~
+  **`parcial`:** el corpus ja documenta a [FHASA](./fhasa.md#feda) que el
+  1988 Andorra n'adquireix el patrimoni i crea FEDA, que n'assumeix la
+  continuïtat; la fitxa pròpia i l'activitat posterior encara falten.
