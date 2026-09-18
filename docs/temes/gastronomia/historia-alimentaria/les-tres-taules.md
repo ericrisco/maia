@@ -152,8 +152,14 @@ precisament perquè **ningú no la va escriure per parlar de menjar**.
 ## Buits registrats
 
 1. **La taula mitjana**, que té una línia.
-2. **El testament del segle XII** i els **tractats de concòrdia** — fonts
-   primàries, no consultades.
+2. ~~**El testament del segle XII** i els **tractats de concòrdia** —
+   fonts primàries, no consultades.~~ — **`parcial` el 18-09-2026**: **la
+   citació original** (SAC, 15a Diada, 2002, p. 92) **no dona número de
+   document ni referència arxivística**. **La col·lecció on gairebé segur
+   que hi són** és el *Cartulari de la Vall d'Andorra, segles IX-XIII* de
+   Cebrià Baraut (Andorra, 1988-1990, 142 documents)
+   ([font](../../../fonts/baraut-cartulari-vall-andorra.md)). **El document
+   exacte segueix sense identificar-se.**
 3. **Carner**, **festanyal**, **sagí**, **brossat**, **flaó** — al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), cap.
 4. **El robatori de pernils com a tema literari**: en quins textos?

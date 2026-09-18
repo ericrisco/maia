@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1049** documents · **246** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1049** documents · **247** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1702,6 +1702,7 @@
 | [`arinsal-issw-1996`](fonts/arinsal-issw-1996.md) | Mohamed Naaim, Gérard Brugnot i Jean Claude Charry, autors; drets no aclarits | pendent | pendent |
 | [`armengol-migracions-segle-xix`](fonts/armengol-migracions-segle-xix.md) | Lídia Armengol Vila · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`balari-origenes-1899`](fonts/balari-origenes-1899.md) | Domini públic per antiguitat | Sense declaracio de drets a l'item. Domini public per antiguitat: obra de 1899, autor mort el 1904. | si |
+| [`baraut-cartulari-vall-andorra`](fonts/baraut-cartulari-vall-andorra.md) | Cebrià Baraut, editor | pendent, llibre no consultat directament | pendent |
 | [`barbero-dones-migrants-1997`](fonts/barbero-dones-migrants-1997.md) | Carmen Barbero Carballo · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
 | [`baro-politica-immigracio-1989`](fonts/baro-politica-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`bartumeu-immigracio-proteccio-social-1989`](fonts/bartumeu-immigracio-proteccio-social-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
