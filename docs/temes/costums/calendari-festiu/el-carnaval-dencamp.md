@@ -125,8 +125,8 @@ la matança del porc, feta el diumenge al matí**.
   fixa el **Judici dels Contrabandistes el diumenge 15 de febrer de 2026** i el
   **Ball de l'Ossa el dilluns 16 de febrer de 2026**. **La data general de cada
   any continua oberta perquè el carnaval és mòbil.**
-- **Els carnavals de les altres sis parròquies.** — **parcialment tancat**, amb
-  la font completa a [el teatre de
+- ~~**Els carnavals de les altres sis parròquies**~~ — **`parcial` el 18-09-2026**,
+   amb la font completa a [el teatre de
   Carnestoltes](../../cultura/teatre/el-teatre-de-carnestoltes.md): **Canillo**
   tenia *Els contrabandistes* i *L'óssa*, i **el dimecres de Cendra els
   arlequins jutjaven el Carnestoltes**; avui ja no s'hi fan les farses però

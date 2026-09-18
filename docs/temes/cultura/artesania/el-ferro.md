@@ -238,9 +238,9 @@ no és qui ho fa, és el món que ho necessitava**.
    i **el mot podria designar també qui transporta el mineral.** `hipòtesi, no
    verificada.`
 4. La data del **primer quart del XIX / XX** (vegeu l'avís).
-5. **Els fargaires francesos**: quants eren, d'on venien, si s'hi van quedar.
-   La font diu que **tots** els treballadors ho eren, i el corpus no té res més.
-   — **`parcial` el 17-09-2026**, des del **Llibre I d'actes del Consell
+ 5. ~~**Els fargaires francesos: quants eren, d'on venien, si s'hi van quedar**~~ —
+    **`parcial` el 17-09-2026**: la font diu que **tots** els treballadors ho eren,
+    i el corpus no té res més; des del **Llibre I d'actes del Consell
    General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
    **Quants eren segueix sense saber-se, i es va manar comptar-los.**
 

@@ -57,8 +57,8 @@ expliquen els articles d'arquitectura i patrimoni construït del corpus.
 
 ## Buits registrats
 
-- **Quants béns d'interès cultural hi ha declarats** i quants inventariats, no
-  consta. — **`parcial` el 17-09-2026: el punt de partida sí que es pot
+- ~~**Quants béns d'interès cultural hi ha declarats i quants inventariats**~~ —
+   **`parcial` el 17-09-2026**: el punt de partida sí que es pot
   comptar.**
 
   **L'annex de la Llei 9/2003 en declara seixanta-nou d'un cop** —**57 monuments

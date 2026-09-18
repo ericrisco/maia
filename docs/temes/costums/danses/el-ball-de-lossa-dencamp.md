@@ -232,9 +232,9 @@ respon amb una pàgina de verificació antibot en comptes del document.**
   ritual de pas pirenaic***, **Institut d'Estudis Andorrans, Andorra la Vella,
   1994.** **El títol ja diu «ritual de pas»: és la font que sosté aquesta
   lectura i el corpus no la té.** — **`obert`, confirmat.**
-- **Tomàs Junoy i Arraut**, ***Relació sobre la Vall d'Andorra*** (1838) —
-  **la primera referència escrita de la farsa.** **Font primària.** —
-  **`parcial`.** **El corpus ja tenia l'obra situada i no ho havia dit
+- ~~**Tomàs Junoy i Arraut, *Relació sobre la Vall d'Andorra* (1838)**~~ —
+   **`parcial`**: **la primera referència escrita de la farsa.** **Font primària.**
+   **El corpus ja tenia l'obra situada i no ho havia dit
   enlloc**: el material en brut del qual surt
   [la literatura andorrana](../../cultura/literatura/literatura-andorrana.md)
   ([`Literatura_andorrana-ca.wiki`](../../../raw/web/cultura2/Literatura_andorrana-ca.wiki))
@@ -253,7 +253,7 @@ respon amb una pàgina de verificació antibot en comptes del document.**
   essència pirinenca», p. 24-28, ISBN 978-99920-0-875-1. — **`obert`,
   confirmat.** **És l'única de les cinc obres que és d'edició oficial
   andorrana**, i per tant la més assolible.
-- **El guió de Sícoris**: **existeix el text?** — **`parcial`.** **El guió, no.**
+- ~~**El guió de Sícoris: existeix el text?**~~ — **`parcial`**. **El guió, no.**
   **L'home, sí, i el corpus el tenia documentat sense saber-ho:** *Sícoris* és
   **Rossend Marsol Clua, 1922-2006**, que consta a la llista d'**autors i
   autores d'Andorra** i **entre els qui «representen el departament de la poesia

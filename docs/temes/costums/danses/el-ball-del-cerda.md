@@ -51,8 +51,8 @@ recuperació de les danses laurèdianes.
 
 - **Coreografia, música, vestuari, qui el balla, i el rastre documental.** —
   **`obert`, confirmat.** Cap altre document del corpus no en diu res.
-- **L'Esbart Laurèdia és la font òbvia i no s'ha consultat.** — **`parcial`.**
-  **L'esbart no només és la font òbvia: el corpus ja n'ha identificat el llibre
+- ~~**L'Esbart Laurèdia és la font òbvia i no s'ha consultat**~~ — **`parcial`**.
+   **L'esbart no només és la font òbvia: el corpus ja n'ha identificat el llibre
   i n'ha registrat que no l'ha llegit.** ***Els balls d'Andorra***, recull de
   l'Esbart Laurèdia, consta com a **identificat i no consultat** a
   [la Passa](../ritus-de-pas/la-passa.md). **Cinc buits de tres articles
