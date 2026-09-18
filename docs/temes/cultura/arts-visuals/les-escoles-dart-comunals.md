@@ -164,7 +164,7 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
 
   | Parròquia | Nom i rastre al Butlletí |
   | --- | --- |
-  | **Andorra la Vella** | **Escola d'Art del Comú d'Andorra la Vella** — quotes publicades des del **2001**, i **Reglament de règim intern aprovat pel Decret del 9-10-2014** |
+  | **Andorra la Vella** | **Escola d'Art del Comú d'Andorra la Vella** — quotes publicades des del **2001**, i **Reglament de règim intern aprovat pel Decret del 9-10-2014**; **des del 2022, ampliada com «Escola d'Art i l'Aula de Teatre i Dansa»** (identificada per la signatura dels cònsols majors als edictes) |
   | **Sant Julià de Lòria** | **Escola d'Art del Centre Cultural i de Congressos Lauredià** — des del **1994**; el **2011** es convoca un responsable |
   | **la Massana** | **Escola d'Art de la Massana** — obres i adjudicacions el **2002** |
   | **Ordino** | **Escola d'Art d'Ordino** — preus públics i subministraments el **2004** |
@@ -185,10 +185,17 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   **I des del 2022 hi ha una «Escola d'Art i l'Aula de Teatre i Dansa»** que
   convoca desenes de places de professorat cada any —**10 el 2022, 13 el 2023,
   10 el 2024, 9 el 2025 i 12 el 2026**— i que **els edictes no atribueixen a
-  cap comú pel nom**. **El corpus no diu de quina parròquia és**: `requereix
-  identificar el comú d'aquests edictes, que el Butlletí dona pel codi del
-  document i no pel text.` **El que sí que mostren és que les escoles d'art
-  comunals han anat absorbint altres ensenyaments artístics.**
+  cap comú pel nom** dins del text que la cerca retorna. — **`resolt` el
+  18-09-2026**: **és el Comú d'Andorra la Vella**. Els edictes es publiquen
+  «Andorra la Vella» i porten la signatura del seu cònsol major —**Conxita
+  Marsol Riart** el 2022, **Sergi González Camacho** el 2026
+  ([font](../../../fonts/bopa.md))—, que és la clau que identifica la
+  parròquia quan el nom de l'edicte no la porta. **Això vol dir que
+  l'«Escola d'Art del Comú d'Andorra la Vella» de la taula i aquesta
+  «Escola d'Art i l'Aula de Teatre i Dansa» són el mateix organisme**,
+  ampliat administrativament des del 2022 per absorbir les arts escèniques.
+  **Confirma la lectura de fons**: **les escoles d'art comunals han anat
+  absorbint altres ensenyaments artístics.**
 - ~~**Els tallers d'artistes anteriors als anys vuitanta**: qui eren aquests
   artistes.~~ — **`parcial` el 18-09-2026**: ja hi ha un cas documentat, el
   taller de ceràmica que **Sergi Mas i Maria Canalís obren a Sant Julià de
