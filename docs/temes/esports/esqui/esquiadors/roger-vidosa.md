@@ -117,7 +117,7 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
 
   **Dos Jocs i dos mundials en cinc anys**, i **l'única millora clara és la
   supercombinada: de 28a a Torí a 25a a Vancouver.**
-- **I «què fa ara», que a tota aquesta subbranca s'havia declarat irresoluble
+- ~~**I «què fa ara», que a tota aquesta subbranca s'havia declarat irresoluble
   per principi, aquí el bolcat el respon sencer.** **Es va retirar l'abril del
   2013.** **Després**: **instructor d'esquí a Andorra cinc mesos**, **a Leeds
   (Regne Unit) deu mesos més**, **entrenador personal al The Gym Group de Leeds
@@ -128,7 +128,9 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
   **Un esquiador olímpic andorrà que acaba fent de preparador físic a França.**
   **El corpus registra que el dictamen de branca —«el bolcat és una instantània
   i no diu què fa ningú»— no val per a tots els bolcats**, i **que aplicar-lo
-  sense obrir el fitxer és el mateix error que es va cometre al futbol.**
+  sense obrir el fitxer és el mateix error que es va cometre al futbol.**~~ —
+  **`resolt`**: el bolcat respon la trajectòria posterior sencera, des de la
+  retirada l'abril del 2013 fins a la feina de preparador físic a Tolosa.
 
 ## Related
 
