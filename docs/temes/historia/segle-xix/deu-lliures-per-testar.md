@@ -230,10 +230,11 @@ Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
    1788](../antic-regim/es-va-treure-el-barret-perque-feia-vent.md)
    es va fer «ab la authoritat y decret del honorable Balthasar Perich, Battle»;
    **aquí no hi intervé cap batlle**, i **la font no diu si calia o no.**
-7. **Què passava si el supervivent es tornava a casar.** **L'acte no ho preveu**,
-   i **la font registra un contracte del 1865-1870 que sí que hi entrava**
-   —donació recíproca «tant si guardaven viduïtat com si no» (pàgina 121, nota 4).
-   **El corpus té els dos casos i no en dedueix cap regla.**
+7. ~~**Què passava si el supervivent es tornava a casar.**~~ — **`parcial` el
+   2026-09-18**: **l'acte no ho preveu**, però la font registra un contracte del
+   **1865-1870** que sí que hi entrava —donació recíproca «tant si guardaven
+   viduïtat com si no» (pàgina 121, nota 4). **El corpus té els dos casos i no en
+   dedueix cap regla general.**
 8. ~~**Si `agermanament` o `associament` són vius avui**, i **si són als
    diccionaris amb marca andorrana.**~~ — **`resolt` el 16-09-2026**
    ([font](../../../fonts/diec2.md)). **Tots dos són al diccionari normatiu i

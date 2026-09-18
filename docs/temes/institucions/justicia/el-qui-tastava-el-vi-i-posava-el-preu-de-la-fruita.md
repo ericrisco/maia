@@ -312,9 +312,11 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
 6. **La prohibició de comerç de 1638 i la carta del Bisbe del 28 de juny**:
    **abast, durada i si es va revocar.** **Prioritari**: **és una mesura de
    política comercial internacional presa per un veguer.**
-7. **Els documents del 20 de novembre de 1495 i del 22 de maig de 1758** sencers,
-   **i quantes vegades es va nomenar un *capità general*.** **El corpus només en
-   té dos casos a dos-cents seixanta-tres anys de distància.**
+7. ~~**Els documents del 20 de novembre de 1495 i del 22 de maig de 1758**
+   sencers, **i quantes vegades es va nomenar un *capità general*.**~~ —
+   **`parcial` el 2026-09-18**: el corpus identifica **dos casos**, el **1495** i
+   el **1758**, separats per **263 anys**. **Els documents sencers i la freqüència
+   completa dels nomenaments continuen oberts.**
 8. **Què era «la era de la Terra»** on es reunien el jutge i el Consell el 1495.
 9. **Si l'acumulació de Síndic i capità general del 1758 era habitual.**
 10. ~~**El *Politar*, pp. 171, 179-180 i 264.**~~ — **`resolt` el 18-09-2026, i
