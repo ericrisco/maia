@@ -151,10 +151,13 @@ valor real és entre 1,3% i 1,9%. I si la fita comptés també els **híbrids**
 —5.118 vehicles—, la ràtio de «mobilitat elèctrica» que publica Estadística és de
 **27,5 per cada 1.000 vehicles**, és a dir **2,75%**.`
 
-**Les altres quatre fites** —intensitat energètica, emissions de GEH, renovables
-sobre la producció nacional i emissions del transport intern— **segueixen sense
-mesura al corpus**: cap nota d'Estadística no les publica, i l'inventari
-d'emissions que el capítol quart encarrega no s'ha localitzat.
+**De les altres quatre fites, la intensitat energètica ja té mesura des del
+18-09-2026** i **està complerta** —vegeu
+[trenta-tres anys de consum d'energia](#trenta-tres-anys-de-consum-denergia-i-una-tercera-fita-que-ara-es-pot-mesurar)—.
+**Les tres que queden** —emissions de GEH, renovables sobre la producció
+nacional i emissions del transport intern— **segueixen sense mesura al corpus**:
+cap nota d'Estadística no les publica, i l'inventari d'emissions que el capítol
+quart encarrega no s'ha localitzat.
 
 ## Trenta-tres anys de consum d'energia, i una tercera fita que ara es pot mesurar
 
