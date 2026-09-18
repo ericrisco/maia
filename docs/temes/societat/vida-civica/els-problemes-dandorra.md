@@ -105,6 +105,98 @@ I la mateixa forma a la pregunta *«li sembla que a Andorra es prenen les mesure
 necessàries per a la conservació del medi ambient?»*: **sí el 2002**, **no de
 manera majoritària entre el 2003 i el 2007**, i **gira a partir del 2010**.
 
+### Les xifres, llegides del PDF el 18-09-2026
+
+**La corba de dalt era prosa. Les xifres són al gràfic, i s'han llegit
+renderitzant la pàgina 12 de l'edició** (les etiquetes de dades hi són
+impreses; no s'ha mesurat cap barra).
+
+**«Com qualificaria la qualitat del medi ambient a Andorra?»**
+
+| Any | Bona o molt bona | Regular | Dolenta o molt dolenta | Ns/nc |
+| --- | ---: | ---: | ---: | ---: |
+| **2002** | **58,5** | 29,4 | 9,3 | 2,8 |
+| 2003 | 40,5 | **41,4** | 16,8 | 1,3 |
+| 2004 | 42,2 | **43,1** | 14,2 | 0,5 |
+| **2007** | 38,2 | **38,5** | **22,3** | 1,0 |
+| 2009 | 60,0 | 34,3 | 4,4 | 1,3 |
+| 2010 | 62,2 | 32,7 | 4,3 | 0,8 |
+| **2014** | **81,0** | 16,8 | 2,0 | 0,2 |
+| 2016 | 79,0 | 18,4 | 1,8 | 0,8 |
+
+`Comprovació: les vuit columnes sumen exactament 100,0. Les xifres són les
+etiquetes impreses al gràfic, no una lectura de píxels.`
+
+**Ara la corba té números, i tres coses que la prosa no deia:**
+
+**Una.** **El 2003 i el 2004 «regular» ja guanyava** —41,4 contra 40,5 i 43,1
+contra 42,2—: **la inflexió no és del 2007, és del 2003.**
+
+**Dues.** **El pitjor any és el 2007**, i no per la banda positiva sinó per la
+negativa: **22,3% de «dolenta o molt dolenta»**, **onze vegades el mínim del
+2014 (2,0)**.
+
+**Tres.** **El màxim no és el 2016 sinó el 2014**, amb **81,0**. El 2016 baixa
+dos punts. **La millora s'atura.**
+
+### Els quatre àmbits, per separat
+
+**La mateixa pàgina en desglossa quatre** (percentatge de «bona o molt bona»):
+
+| Any | Aire | Residus | Paisatge | **Urbanisme** |
+| --- | ---: | ---: | ---: | ---: |
+| 2007 | 49,3 | 48,3 | 64,5 | **28,1** |
+| 2009 | 58,3 | 58,6 | 81,1 | **38,3** |
+| 2010 | 64,8 | 56,9 | 81,3 | **37,2** |
+| 2014 | 73,2 | 46,8 | 82,8 | **43,5** |
+| 2016 | **76,5** | 59,2 | **84,0** | **58,3** |
+
+`Comprovació: les vint columnes dels quatre gràfics sumen 100 amb les seves
+sèries «regular», «dolenta o molt dolenta» i «ns/nc», amb diferències de
+±0,1 per arrodoniment.`
+
+**L'urbanisme és l'excepció de tot el quadre.** **És l'únic àmbit on, durant
+tres onades seguides —2007, 2009 i 2010—, «regular» supera «bona o molt
+bona»**: 42,2 contra 28,1; 42,9 contra 38,3; 38,1 contra 37,2. **I el 2007 hi
+ha un 27,7% que el qualifica de dolent o molt dolent**, **la xifra negativa més
+alta de tota la sèrie, en qualsevol àmbit i qualsevol any.**
+
+**El paisatge és l'invers**: **sempre el millor valorat**, i **mai per sota del
+64,5%.** Vegeu [la toponímia](../../territori/toponimia/toponimia-andorrana.md),
+que documenta el mateix paisatge des dels noms.
+
+**I els residus són l'únic àmbit que no millora de manera sostinguda**: puja al
+58,6 el 2009, **cau al 46,8 el 2014** i torna al 59,2 el 2016. **També és el que
+té més gent que no contesta** —entre el 5,9 i el 8,3%, quan als altres tres no
+passa del 2,1.
+
+### La major amenaça per al paisatge, el 2009
+
+**El segon semestre del 2009 es va preguntar, per encàrrec del Departament de
+Medi Ambient, quina era la major amenaça per als paisatges del país**
+(multiresposta, 857 enquestats):
+
+| Resposta | Freqüència | % |
+| --- | ---: | ---: |
+| **Construcció, plans d'urbanisme** | **559** | **65,2** |
+| Contaminació, manca de neteja | 104 | 12,1 |
+| Les persones, la manca d'educació… | 47 | 5,5 |
+| **Canvi climàtic, foc, desforestació** | **22** | **2,6** |
+| Infraestructures | 15 | 1,8 |
+| El turisme no sostenible, botigues | 13 | 1,5 |
+| L'especulació | 7 | 0,8 |
+| No hi ha cap amenaça | 9 | 1,1 |
+| No contesta | 92 | 10,7 |
+
+`Comprovació: cada percentatge s'ha recalculat sobre el total de 857 i coincideix
+amb l'imprès dins d'una dècima.`
+
+> **En una ponència presentada a una diada sobre el canvi climàtic, el canvi
+> climàtic és la quarta amenaça al paisatge i la marquen 22 persones de 857 —el
+> 2,6%—, mentre que la construcció n'és el 65,2%.**
+>
+> **El país que se sent amenaçat pel totxo, no pel clima.**
+
 ### Tres hipòtesis, i són de l'autor
 
 **El corpus no les converteix en causes.** L'autor n'ofereix tres:
@@ -162,8 +254,18 @@ molt bona».
 
 ## El que falta
 
-- **Les xifres dels gràfics.** La major part de la sèrie és a figures i **l'OCR
-  les ha perdudes**. **Prioritari**: llegir-les del PDF.
+- ~~**Les xifres dels gràfics.** La major part de la sèrie és a figures i
+  **l'OCR les ha perdudes**.~~ — **`resolt` en la seva part principal el
+  18-09-2026**: **els cinc gràfics de valoració ambiental estan llegits i
+  comprovats** (les vuit columnes del gràfic general i les vint dels quatre
+  àmbits sumen 100), vegeu
+  [Les xifres, llegides del PDF](#les-xifres-llegides-del-pdf-el-18-09-2026).
+  `Segueix obert el gràfic de línies «Evolució dels principals problemes
+  2002-2016»: té cinc sèries i quaranta-tres onades amb les etiquetes
+  encavalcades, i no es pot atribuir cada xifra a la seva sèrie amb seguretat
+  des de la imatge. El que sí que s'hi llegeix: el trànsit hi arriba a 80,0 i
+  les «dificultats per trobar feina» a 50,4, i les dues corbes es creuen cap al
+  2008-2009.`
 - **Els resultats concrets** de les preguntes de 2002, 2003, 2004, 2007 i 2009.
 - ~~**La cronologia de la protesta al carrer a Andorra.** **Prioritari** — el
   corpus no en té res.~~ — **`incorrecte`: el corpus en té, i n'hi ha prou per
