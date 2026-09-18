@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1072** documents · **310** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1072** documents · **311** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1715,6 +1715,7 @@
 | [`aepa-escriptorsand`](fonts/aepa-escriptorsand.md) | AEPA | publicació institucional, sense llicència declarada | pendent |
 | [`allaus-ad`](fonts/allaus-ad.md) | Fundació Privada del Sector Públic Andorra Recerca i Innovació | drets reservats; reutilització sotmesa a autorització expressa | no |
 | [`allen-punt-de-vista-angles-1997`](fonts/allen-punt-de-vista-angles-1997.md) | Desmond Allen · Societat Andorrana de Ciències | publicació acadèmica de la Societat Andorrana de Ciències | pendent |
+| [`altaveu-orihuela-obituari-ara-sat`](fonts/altaveu-orihuela-obituari-ara-sat.md) | Altaveu (diari digital d'Andorra) | premsa digital, sense llicència declarada | pendent |
 | [`anaesports`](fonts/anaesports.md) | Agència de Notícies Andorrana (ANA) | drets reservats · citació breu amb atribució | False |
 | [`anglada-origens-parla-andorrana`](fonts/anglada-origens-parla-andorrana.md) | Manuel Anglada i Ferran · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`antoni-morell-biografia`](fonts/antoni-morell-biografia.md) | Wikipedia · Viure als Pirineus | CC BY-SA 4.0 (Wikipedia) · premsa, drets reservats (obituari) | pendent |

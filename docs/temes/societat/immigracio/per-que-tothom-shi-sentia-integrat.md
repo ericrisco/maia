@@ -248,8 +248,18 @@ provocació metodològica**— i no com una descripció d'Andorra.
 
 1. **La recerca completa** encarregada per la **Comissió Nacional Andorrana per
    la Unesco**. Això n'és un avanç. **Prioritari i molt localitzable.**
-2. **L'ARA (Associació de Residents d'Andorra)**: quan es funda —és l'única
-   anterior al 1993—, què reclamava i què n'ha estat.
+2. ~~**L'ARA (Associació de Residents d'Andorra)**: quan es funda —és l'única
+   anterior al 1993—, què reclamava i què n'ha estat.~~ — **`resolt` el
+   18-09-2026, i era un bessó**: el corpus ja en tenia fitxa pròpia a
+   [L'ARA i el SAT](../treball/lara-i-el-sat.md) — **es funda el 1976**
+   (informalment, socis majoritàriament espanyols i catalans, vinculació
+   PSC/PSUC), **reivindicava drets laborals i representativitat pels
+   col·lectius immigrats**, i **en surt el SAT el 1990**.
+   > **Divergència registrada, no arbitrada**, sobre l'any de fundació:
+   > Ubach data l'ARA el **1976**; un obituari d'Andrés Orihuela a Altaveu
+   > la data el **1977** i n'identifica un dels impulsors —Orihuela
+   > mateix, més tard **president honorífic del SAT**
+   > ([font](../../../fonts/altaveu-orihuela-obituari-ara-sat.md)).
 3. **L'English Speaking Residents Association** i la comunitat angloparlant: el
    corpus no en té fitxa.
 4. **La composició de les comissions** sobre residents passius: si mai n'han

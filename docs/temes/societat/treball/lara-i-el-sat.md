@@ -120,7 +120,12 @@ parapúblics.
    localitzable.**
 2. **El Centre Cultural d'Andorra**: què era, qui hi havia. **El corpus no en té
    res.**
-3. **Noms** dels socis fundadors de l'ARA i del SAT.
+3. ~~**Noms** dels socis fundadors de l'ARA i del SAT.~~ — **`parcial` el
+   18-09-2026**: **Andrés Orihuela**, resident immigrat amb vincles PSUC/PCE,
+   n'és un dels impulsors —un obituari el data el 1977, no el 1976— i **més
+   tard va ser nomenat president honorífic del SAT**
+   ([font](../../../fonts/altaveu-orihuela-obituari-ara-sat.md)). **La resta
+   de noms segueixen sense identificar.**
 4. **Què va ser de l'ARA** — existeix encara?
 5. **La segmentació social** dels col·lectius immigrats, descrita.
 6. **La comunitat filipina** a Andorra. — **`parcial`, i és el mateix buit que
