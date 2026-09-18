@@ -88,7 +88,25 @@ sostenia el mateix Consell General el 1894. Les tres, a
    7.000**, i els censos duaners francesos de 1898-1900 fan impossible la
    lectura d'aquest llibre. **En aquest punt, aquesta font és l'errònia.** Vegeu
    [el cens del bestiar de 1898-1900](../temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md).
-3. **Les parts I i II**: història i règim polític. El corpus n'ha llegit la III **i, des del 2026-09-13, el capítol de la sobirania i la justícia dels cosenyors**. La història i el règim administratiu segueixen sense llegir.
+3. ~~**Les parts I i II**: història i règim polític.~~ **`resolt` el 18-09-2026**,
+   **i el buit era una comptabilitat equivocada**: **les dues parts estan
+   llegides i destil·lades**, però **repartides per tot el corpus**, i aquesta
+   fitxa no ho recollia. **Comprovat secció per secció:**
+
+   | Part i capítol | On és destil·lat |
+   | --- | --- |
+   | **I.1** *Avant les paréages* —la carta de Carlemany, el diploma del 805, Possidoni, el debat Brutails/Trias— | [villa o tota la vall](../temes/historia/origens/villa-o-tota-la-vall.md) · [la donació del 988](../temes/historia/origens/la-donacio-de-988.md) · [té raó el més fort o el més avisat](../temes/institucions/justicia/te-rao-el-mes-fort-o-el-mes-avisat.md) |
+   | **I.2** *Les paréages* | [el pareatge](../temes/historia/pareatge/el-pareatge.md) · [el bisbe té sostre i el comte no](../temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md) · [el que es dona en feu és el domini útil](../temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md) |
+   | **I.3** *Après les paréages* —Enric IV, l'edicte del 1607, el del 19 d'octubre del 1620 que incorpora «Béarn, Andorre et Donezans» a la corona— | [el rei és sobirà però no ho és tot sol](../temes/historia/antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md) · [aquell príncep que és previngut](../temes/institucions/justicia/aquell-princep-que-es-prevengut.md) |
+   | **II.1** *La forme du gouvernement et la loi* —el prefecte que ratlla «République» el novembre del 1892, la tesi del rei de França alhora cosenyor i propi sobirà, la rèplica del tractat de Corbeil— | [el prefecte va ratllar la paraula «república»](../temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md) · [qui deia que Andorra no era sobirana](../temes/institucions/coprincipat/qui-deia-que-andorra-no-era-sobirana.md) · [si els dos senyors no s'entenien decidia el poble](../temes/institucions/consell-general/si-els-dos-senyors-no-sentenien-decidia-el-poble.md) |
+   | **II.2** *Régime politique et administratif* —el comú, els *caps grossos*, els delegats als comptes, les inelegibilitats, el pressupost de culte de 4.685 pessetes, l'armari de sis panys, la bandera del 1866— | [a Andorra es pot perseguir els funcionaris](../temes/institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md) · [l'estrany i el llot](../temes/institucions/consell-general/lestrany-i-el-llot.md) · [la bandera](../temes/institucions/simbols/la-bandera.md) · [l'escut](../temes/institucions/simbols/lescut.md) |
+   | **II.3** *La souveraineté des coseigneurs* | llegit el **2026-09-13** |
+   | **III** *Les questions andorranes* | llegit abans |
+
+   **El llibre sencer és, doncs, dins el corpus.** `El que no hi és, i és una
+   sola cosa d'aquestes pàgines: quins «escriptors» defensen el sistema
+   d'igualtat que Vilar rebat al capítol II.1. No en dona cap nom.`
+   `pregunta_oberta`
 
 ## Caveat de font, afegit el 16-09-2026
 
