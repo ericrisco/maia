@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1056** documents · **283** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1057** documents · **284** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1278,6 +1278,7 @@
 | [Francesc Cairat i Freixes](temes/persones/francesc-cairat.md) | `temes/persones` | compilada | contemporania | no | `bascompte-consell-de-la-terra` |
 | [Irineu Esteve Altimiras](temes/persones/irineu-esteve-altimiras.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Joan Enric Vives i Sicília](temes/persones/joan-enric-vives.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-en-joan-enric-vives` |
+| [Joan I de Foix](temes/persones/joan-i-de-foix.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-ca-joan-i-de-foix` |
 | [Joan Verdú Sánchez](temes/persones/joan-verdu.md) | `temes/persones` | compilada | contemporania | no | `wikipedia-esport-andorra` |
 | [Jordi Gallardo Fernàndez](temes/persones/jordi-gallardo.md) | `temes/persones` | compilada | contemporania | no | `fiba-andorra-basquet-1998` |
 | [Josep Caixal i Estradé](temes/persones/josep-caixal.md) | `temes/persones` | compilada | contemporania | no | `josep-caixal-biografia` |
@@ -1938,6 +1939,7 @@
 | [`wikipedia-ca-centre-art-escaldes-engordany`](fonts/wikipedia-ca-centre-art-escaldes-engordany.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-familia-reig`](fonts/wikipedia-ca-familia-reig.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-gegants-andorra`](fonts/wikipedia-ca-gegants-andorra.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
+| [`wikipedia-ca-joan-i-de-foix`](fonts/wikipedia-ca-joan-i-de-foix.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-josep-enric-dalleres`](fonts/wikipedia-ca-josep-enric-dalleres.md) | Viquipèdia | CC BY-SA 4.0 | si, amb atribució |
 | [`wikipedia-ca-montserrat-palau-marti`](fonts/wikipedia-ca-montserrat-palau-marti.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |
 | [`wikipedia-ca-tribunal-constitucional`](fonts/wikipedia-ca-tribunal-constitucional.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

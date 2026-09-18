@@ -104,7 +104,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Simeón de Guinda y Apeztegui** | Bisbe-copríncep **1714-1737**; «es reconeix amb els andorrans com a diferent dels espanyols i francesos»; **mor a Sant Julià de Lòria** | [fitxa](./simeon-de-guinda.md) |
 | **Joan-Enric Vives i Sicília** | Copríncep Episcopal **2003-2025**, sota quatre presidents francesos | [fitxa](./joan-enric-vives.md) |
 | **Josep-Lluís Serrano Pentinat** | **Bisbe d'Urgell i Copríncep Episcopal des del 31-05-2025** | [fitxa](./josep-lluis-serrano-pentinat.md) |
-| **Joan I, comte de Foix** | Copríncep que **ratifica el 1419** | **buit** |
+| **Joan I, comte de Foix** | Setè copríncep secular (**1413-1436**); en nom seu es **ratifica el 1419**, a quatre graus de distància | [fitxa](./joan-i-de-foix.md) |
 | **Francisco Catalán de Ocón** | Bisbe-copríncep **1757-1762**, autor del «decret estrany» de **la crisi del 1762** | [fitxa](./catalan-de-ocon.md) |
 
 ### Els de fora que hi van escriure

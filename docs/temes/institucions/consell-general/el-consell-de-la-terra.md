@@ -145,7 +145,7 @@ anònima:
 
 | Paper | Qui |
 | --- | --- |
-| **Copríncep** | **Joan I, comte de Foix** |
+| **Copríncep** | **[Joan I, comte de Foix](../../persones/joan-i-de-foix.md)** — setè copríncep secular, 1413-1436 |
 | **El seu veguer** | **Johan de Gotz** |
 | **Qui signa materialment**, el 17 de desembre | **Ramon de Capdevila**, **lloctinent i notari** del veguer |
 
