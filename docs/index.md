@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1073** documents · **314** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1074** documents · **315** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -1520,6 +1520,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Cotitzar sense cobrar l’ajut de desocupació](temes/societat/treball/cotitzar-sense-cobrar-lajut-de-desocupacio.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
 | [El barem patrimonial i els ajuts](temes/societat/treball/el-barem-patrimonial-i-els-ajuts.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa-ad` |
+| [El Consell Econòmic i Social](temes/societat/treball/el-consell-economic-i-social.md) | `temes/societat/treball` | compilada | contemporania | no | `portaljuridicandorra-llei32-2018-acciosindical` |
 | [El dret de vaga](temes/societat/treball/el-dret-de-vaga.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El preu de l'acomiadament](temes/societat/treball/el-preu-de-lacomiadament.md) | `temes/societat/treball` | compilada | contemporania | no | `jurisprudencia-ad` |
 | [El salari mínim, de 362 pessetes a 9,05 euros](temes/societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md) | `temes/societat/treball` | compilada | contemporania | no | `bopa` |
@@ -1906,6 +1907,7 @@
 | [`planas-toponims-preromans-2018`](fonts/planas-toponims-preromans-2018.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports (edició) i els autors (textos i fotografies) | drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta | no |
 | [`pol-consciencia-nacional`](fonts/pol-consciencia-nacional.md) | Antoni Pol i Solé · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`pons-neu-i-aigua`](fonts/pons-neu-i-aigua.md) | Marc Pons i Pons · Societat Andorrana de Ciències | pendent; PDF accessible al repositori de l'IEC, sense llicència específica identificada a la peça | pendent |
+| [`portaljuridicandorra-llei32-2018-acciosindical`](fonts/portaljuridicandorra-llei32-2018-acciosindical.md) | Govern d'Andorra | text normatiu oficial, ús públic | permesa (text legal) |
 | [`premsa-andorrana`](fonts/premsa-andorrana.md) | Diari d'Andorra · Altaveu · Bondia · El Periòdic d'Andorra · La Ciutat | contingut periodístic amb drets reservats | False |
 | [`premsa-andorrana-verdu-val-disere-2023`](fonts/premsa-andorrana-verdu-val-disere-2023.md) | Altaveu · Diari d'Andorra · FAE | premsa, drets reservats; citació breu | False |
 | [`pujadas-dret-andorra`](fonts/pujadas-dret-andorra.md) | Manel Pujadas i Domingo · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |

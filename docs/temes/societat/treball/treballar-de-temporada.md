@@ -208,4 +208,8 @@ sustentant-se principalment de l'art (article 3.3).
   comunicar de seguida al delegat i a tots els treballadors afectats**, i **el
   recurs va al ministeri, que ha de resoldre en tres dies hàbils**. **La mesura
   s'aixeca «immediatament» quan s'acredita la correcció.**
-- **El Consell Econòmic i Social** segueix sense fitxa al corpus.
+- ~~**El Consell Econòmic i Social** segueix sense fitxa al corpus.~~ —
+  **`resolt` el 18-09-2026**: fitxa pròpia a
+  [El Consell Econòmic i Social](./el-consell-economic-i-social.md) —
+  òrgan consultiu creat per la Llei 32/2018, presidit pel ministre de
+  Treball, amb dictàmens no vinculants sobre legislació socioeconòmica.

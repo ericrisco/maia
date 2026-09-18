@@ -4,9 +4,10 @@ Temporers, sectors, estacionalitat.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (15)
+## Articles (16)
 - [Cotitzar sense cobrar l’ajut de desocupació](./cotitzar-sense-cobrar-lajut-de-desocupacio.md) — El règim especial de l’article 224 bis permet cobertura de reembossament amb cotització pròpia i conserva un còmput específic per a pensions de reversió.
 - [El barem patrimonial i els ajuts](./el-barem-patrimonial-i-els-ajuts.md) — L'habitatge habitual queda fora del còmput immobiliari del barem de 2018; els actius financers i els béns mobles es valoren cumulativament.
+- [El Consell Econòmic i Social](./el-consell-economic-i-social.md) — Òrgan consultiu creat el 2018, presidit pel ministre de Treball, amb dictàmens no vinculants sobre legislació socioeconòmica.
 - [El dret de vaga](./el-dret-de-vaga.md) — La vaga andorrana s'aprova en votació secreta i no pot ocupar el centre de treball ni bloquejar-ne els accessos.
 - [El preu de l'acomiadament](./el-preu-de-lacomiadament.md) — A Andorra encara es pot acomiadar sense donar cap motiu.
 - [El sindicalisme](./el-sindicalisme.md) — Andorra no va tenir sindicats legals fins a la Constitució de 1993, i encara el 2002 esperava la llei.
