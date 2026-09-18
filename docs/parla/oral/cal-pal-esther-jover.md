@@ -385,7 +385,7 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
 4. **`Calpal`** hauria de ser **Cal Pal**, dues paraules. La màquina l'ajunta
    sempre, i és **el tercer topònim andorrà que parteix o ajunta malament**,
    després de *en Gordany* (tanda 2) i *Comú d'en Camp* (tanda 13).
-5. **`[?escoter]`** com a cognom de la família — **`parcial` el 16-09-2026.**
+5. ~~**`[?escoter]`** com a cognom de la família~~ — **`parcial` el 16-09-2026.**
    **El [DCVB](../../fonts/dcvb.md) documenta `ESCOTER` com a llinatge**, i
    l'enumera a Belianes, els Omells, Alcover, Barberà, l'Espluga, Figuerola,
    Montbrió, Rojals, Tarragona i el Campello; **i com a ofici**, «teixidor
