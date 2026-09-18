@@ -1,0 +1,209 @@
+{{Infobox country at games
+|NOC = AND
+|NOCname = [[Andorran Olympic Committee]]
+|games = Winter Olympics
+|year = 2022
+|flagcaption = [[Flag of Andorra]]
+|oldcode = 
+|website = {{url|www.coa.ad}} {{in lang|ca}}
+|date = 4–20 February 2022
+|location = [[Beijing]], China
+|competitors = 5
+|competitors_men = 2
+|competitors_women = 3
+|sports = 3
+|flagbearer_open = [[Maeva Estevez]]
+|flagbearer_close = Volunteer
+|rank = 
+|gold = 0
+|silver = 0
+|bronze = 0
+|officials = 
+|appearances = auto
+}}
+[[Andorra]] competed at the [[2022 Winter Olympics]] in [[Beijing]], [[China]], from 4 to 20 February 2022.<ref>{{cite web|url=https://olympics.com/beijing-2022/olympic-games/en/results/all-sports/listed-nocs.htm|title=NOCs List Beijing 2022|website=www.olympics.com/|publisher=[[International Olympic Committee]]|access-date=26 January 2022|archive-date=27 January 2022|archive-url=https://web.archive.org/web/20220127022631/https://olympics.com/beijing-2022/olympic-games/en/results/all-sports/listed-nocs.htm|url-status=dead}}</ref><ref>{{cite news|date=4 February 2022|title=Which countries are competing in the Winter Olympics 2022? Full list|url=https://www.independent.co.uk/sport/winter-olympics/countries-participating-winter-olympics-2022-b2005167.html |archive-url=https://web.archive.org/web/20220201154430/https://www.independent.co.uk/sport/winter-olympics/countries-participating-winter-olympics-2022-b2005167.html |archive-date=2022-02-01 |url-access=limited |url-status=live|work=[[The Independent]]|location=London, United Kingdom|access-date=16 February 2022}}</ref>
+
+On 19 January 2022, the [[Andorran Olympic Committee]] announced a team of four athletes (two per gender) competing in two sports.<ref>{{cite web|url=http://www.coa.ad/presentacio-de-la-vestimenta-de-la-delegacio-andorrana-dels-jo-dhivern-de-beijing-2022-a-la-seu-central-de-andbank/|title=Presentació de la vestimenta de la delegació andorrana dels JO d'hivern de Beijing 2022 a la seu central de Andbank|trans-title=Presentation of the attire of the Andorran delegation of the Beijing Winter Olympics 2022 at the Andbank headquarters|language=Catalan|date=19 January 2022|website=www.coa.ad/|publisher=[[Andorran Olympic Committee]]|access-date=19 January 2022}}</ref> During the announcement, it was also announced the Andorran flag would be carried by a volunteer at the [[2022 Winter Olympics opening ceremony|opening ceremony]] as the alpine skiers would not arrive till later and the cross-country skiers had competition the next day.<ref>{{cite news|date=19 January 2022|title=Andorra tendrá cuatro representantes en los Juegos Olímpicos de Pekín|trans-title=Andorra will have four representatives at the Beijing Olympics|language=Spanish|url=https://www.europapress.es/catalunya/andorra-01111/noticia-andorra-tendra-cuatro-representantes-juegos-olimpicos-pekin-20220119134404.html|work=[[Europa Press (news agency)|Europa Press]]|location=Madrid, Spain|access-date=19 January 2022}}</ref> However, two days later, snowboarder [[Maeva Estevez]] was added to the team and named as flagbearer at the opening ceremony.<ref>{{cite web|url=https://www.coa.ad/maeva-estevez-classificada-per-beijing-2022/|title=Maeva Estévez, Classificada Per Beijing 2022|trans-title=Maeva Estévez, Classified by Beijing 2022|language=Catalan|date=21 January 2022|website=www.coa.ad/|publisher=[[Andorran Olympic Committee]]|access-date=23 January 2022}}</ref> This increased the team size to five athletes (two men and three women).<ref>{{cite news|last=Basco|first=Marc|date=22 January 2022|title=Maeva Estévez participarà en els Jocs Olímpics d'hivern de Pequín|trans-title=Maeva Estévez will take part in the Beijing Winter Olympics|language=ca|url=https://www.diariandorra.ad/noticies/esports/2022/01/22/maeva_estevez_participara_els_jocs_olimpics_hivern_pequin_194010_1128.html|work=[[Diari d'Andorra]]|location=Andorra la Vella, Andorra|access-date=23 January 2022}}</ref><ref>{{cite web|url=https://www.andorradifusio.ad/esports/maeva-estevez-afegeix-finalment-delegacio-jocs|title=Maeva Estevez s'afegeix finalment a la delegació per als Jocs de Pequín i serà la banderera a la cerimònia inaugural|last=López|first=Joan|trans-title=Maeva Estevez finally joins the delegation for the Beijing Games and will be the flag bearer at the opening ceremony|language=Catalan|date=21 January 2022|website=www.andorradifusio.ad/|publisher=[[Ràdio i Televisió d'Andorra]]|access-date=23 January 2022}}</ref><ref>{{cite web|url=https://olympics.com/en/news/beijing-2022-flagbearers-opening-ceremony|title=Beijing-2022 Opening Ceremony Flag-Bearers|date=4 February 2022|website=www.olympics.com/|publisher=[[International Olympic Committee]] (IOC)|access-date=4 February 2022}}</ref> A volunteer served as the flagbearer during the [[2022 Winter Olympics closing ceremony|closing ceremony]].<ref>{{cite web|url=https://stillmed.olympics.com/media/Documents/News/2022/02/Beijing-2022-Closing-Ceremony-Flag-Bearers.pdf|title=Beijing-2022 Closing Ceremony Flag-Bearers|date=20 February 2022|website=www.olympics.com/|publisher=[[International Olympic Committee]] (IOC)|access-date=20 February 2022}}</ref>
+
+==Competitors==
+The following is the list of number of competitors who participated at the Games per sport/discipline.
+
+{|class="wikitable sortable" style=text-align:center;
+! width=150|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+|align=left|[[Alpine skiing at the 2022 Winter Olympics|Alpine skiing]]
+|1||1||2
+|-
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics|Cross-country skiing]]
+|1||1||2
+|-
+| align=left|[[Snowboarding at the 2022 Winter Olympics|Snowboarding]]
+|0||1||1
+|-
+!Total||2||3||5
+|}
+
+==Alpine skiing==
+{{main article|Alpine skiing at the 2022 Winter Olympics|Alpine skiing at the 2022 Winter Olympics – Qualification}}
+By meeting the basic qualification standards, Andorra qualified one male and one female alpine skier.<ref>{{cite web|url=https://www.fis-ski.com/DB/v2/quota/list/owg/al/2022|title=ALPINE SKIING QUOTAS LIST FOR OLYMPIC WINTER GAMES 2022|date=19 January 2022|website=www.data.fis-ski.com/|publisher=[[International Ski Federation]] (FIS)|access-date=19 January 2022|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709182408/https://www.fis-ski.com/DB/v2/quota/list/owg/al/2022|url-status=dead}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Run 1
+!colspan=2|Run 2
+!colspan=2|Total
+|-style="font-size: 95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|rowspan=2 align=left|[[Joan Verdú (alpine skier)|Joan Verdú]]
+|align=left|[[Alpine skiing at the 2022 Winter Olympics – Men's giant slalom|Men's giant slalom]]
+|1:04.48
+|13
+|1:06.80
+|3
+|2:11.28
+|9
+|-
+|align=left|[[Alpine skiing at the 2022 Winter Olympics – Men's super-G|Men's super-G]]
+|colspan=4 {{N/A}}
+|1:22.92
+|22
+|-
+|align=left rowspan=3|[[Cande Moreno]]
+|align=left|[[Alpine skiing at the 2022 Winter Olympics – Women's combined|Women's combined]]
+|1:34.05
+|16
+|1:00.29
+|14
+|2:34.34
+|12
+|-
+|align=left|[[Alpine skiing at the 2022 Winter Olympics – Women's downhill|Women's downhill]]
+|colspan=4 {{N/A}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-
+|align=left|[[Alpine skiing at the 2022 Winter Olympics – Women's super-G|Women's super-G]]
+|colspan=4 {{N/A}}
+|1:16.72
+|30
+|}
+
+==Cross-country skiing==
+{{main article|Cross-country skiing at the 2022 Winter Olympics|Cross-country skiing at the 2022 Winter Olympics – Qualification}}
+Andorra qualified two male and two female cross-country skiers, but chose to only use one quota per gender.<ref>{{cite web|url=https://www.fis-ski.com/DB/v2/quota/list/owg/cc/2022|title=CROSS-COUNTRY QUOTAS LIST FOR OLYMPIC WINTER GAMES 2022|date=19 January 2022|website=www.data.fis-ski.com/|publisher=[[International Ski Federation]] (FIS)|access-date=19 January 2022|archive-date=28 May 2021|archive-url=https://web.archive.org/web/20210528152302/https://www.fis-ski.com/DB/v2/quota/list/owg/cc/2022|url-status=dead}}</ref>
+
+Due to high winds and adverse weather conditions, the men's 50 km freestyle competition on 19 February was shortened to 28.4 km. <ref>{{Cite news|last=O'connor|first=Philip|date=2022-02-19|title=Cross-country skiing-Men's 50km race delayed, shortened to 30 km due to high winds|language=en|work=Reuters|url=https://www.reuters.com/lifestyle/sports/cross-country-skiing-mens-50km-race-delayed-shortened-30km-due-high-winds-2022-02-19/|access-date=2022-02-19}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Classical
+!colspan=2|Freestyle
+!colspan=3|Final
+|-style="font-size: 95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Deficit
+!Rank
+|-
+|align=left rowspan=3|[[Irineu Esteve Altimiras]]
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Men's 15 kilometre classical|Men's 15 km classical]]
+|colspan=4 {{N/A}}
+|40:39.4
+| +2:44.6
+|24
+|-
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Men's 30 kilometre skiathlon|Men's 30 km skiathlon]]
+|41:37.9
+|27
+|38:54.1
+|16
+|1:21:08.2
+| +4:58.4
+|20
+|-
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Men's 50 kilometre freestyle|Men's 50 km freestyle]]
+|colspan=4 {{N/A}}
+|1:15:09.8
+| +3:37.1
+|25
+|-
+|align=left rowspan=3|[[Carola Vila]]
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Women's 10 kilometre classical|Women's 10 km classical]]
+|colspan=4 {{N/A}}
+|31:45.0
+| +3:38.7
+|47
+|-
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Women's 15 kilometre skiathlon|Women's 15 km skiathlon]]
+|25:09.6
+|43
+|24:32.5
+|50
+|50:28.8
+| +6:15.1
+|47
+|-align=center
+|align=left|[[Cross-country skiing at the 2022 Winter Olympics – Women's 30 kilometre freestyle|Women's 30 km freestyle]]
+|colspan=4 {{n/a}}
+|1:39:18.1
+| +14:24.1
+|48
+|}
+
+==Snowboarding==
+{{main article|Snowboarding at the 2022 Winter Olympics|Snowboarding at the 2022 Winter Olympics – Qualification}}
+Andorra received a reallocated quota for the women's snowboard cross event.<ref>{{cite web|url=https://www.andorradifusio.ad/esports/maeva-estevez-afegeix-finalment-delegacio-jocs|title=Maeva Estevez s'afegeix finalment a la delegació per als Jocs de Pequín i serà la banderera a la cerimònia inaugural|last=López|first=Joan|trans-title=Maeva Estevez finally joins the delegation for the Beijing Games and will be the flag bearer at the opening ceremony|language=Catalan|date=21 January 2022|website=www.andorradifusio.ad/|publisher=[[Ràdio i Televisió d'Andorra]]|access-date=23 January 2022}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Seeding
+!1/8 final
+!Quarterfinal
+!Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Position
+!Rank
+|-
+|align=left|[[Maeva Estevez]]
+|align=left|[[Snowboarding at the 2022 Winter Olympics – Women's snowboard cross|Women's snowboard cross]]
+|{{abbr|DNF|Did not finish}}
+|31
+|{{abbr|DNS|Did not start}}
+|colspan=3|Did not advance
+|31
+|}
+
+==See also==
+*[[Andorra at the 2022 Winter Paralympics]]
+
+==References==
+{{Reflist|30em}}
+
+{{Nations at the 2022 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+{{DEFAULTSORT:Andorra At The 2022 Winter Olympics}}
+[[Category:Nations at the 2022 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|2022]]
+[[Category:2022 in Andorran sport|Winter Olympics]]

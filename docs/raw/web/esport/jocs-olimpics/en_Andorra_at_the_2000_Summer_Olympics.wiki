@@ -1,0 +1,171 @@
+{{Use dmy dates|date=October 2023}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 2000
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = Sydney
+| competitors = 5 (3 men and 2 women)
+| sports = 3
+| flagbearer = [[Antoni Bernadó]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+Andorra participated at the [[2000 Summer Olympics]] in [[Sydney]], Australia, held between 15 September and 1 October 2000. The country's participation in Sydney marked its seventh appearance at the [[Summer Olympics]] since its debut in [[Andorra at the 1976 Summer Olympics|1976]].
+
+The Andorran team consisted of athletes [[Antoni Bernadó]] and [[Silvia Felipo]], shooter [[Joan Tomàs (sport shooter)|Joan Tomàs]], and swimmers [[Santiago Deu]] and [[Meritxell Sabaté]]. Bernadó was the country's flag-bearer during the [[2000 Summer Olympics opening ceremony|opening ceremony]]. Andorra did not win a medal in the Games, and as of these Games, the country had not earned a Summer Olympic medal.
+
+== Background ==
+The [[Andorran Olympic Committee]] was set up in 1967 and was recognized by the [[International Olympic Committee]] in 1975.<ref name="Andorra">{{cite web|url=https://www.olympedia.org/countries/AND|title=Andorra at the Olympics|work=[[Olympedia]]|access-date=1 June 2024}}</ref> The nation made its first [[Summer Olympics]] appearance at the [[1976 Summer Olympics]] held in [[Montreal]], Canada. This edition of the Games marked the nation's seventh appearance at the Summer Games.<ref name="Andorra"/>
+
+The [[2000 Summer Olympics]] were held in [[Sydney]], Australia  held between 15 September and 1 October 2000.<ref>{{cite web|url=https://www.olympics.com/en/olympic-games/sydney-2000|title=Sydney 2000|work=[[Olympics.com]]|access-date=3 February 2024}}</ref><ref>{{cite web|url=https://www.olympedia.org/editions/25|title=2000 Summer Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref> The Andorran delegation consisted of five athletes.<ref name="Result">{{cite web|url=https://www.olympedia.org/editions/25|title=Andorra at the 2000 Summer Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref><ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/summer/2000/|title=Andorra at 2000 Summer Olympics|work=Sports Reference|access-date=1 June 2001|archive-url=https://web.archive.org/web/20200417093548/https://www.sports-reference.com/olympics/countries/AND/summer/2000/|archive-date=17 April 2020}}</ref> [[Antoni Bernadó]] was the country's flag-bearer in the [[2000 Summer Olympics Parade of Nations|Parade of Nations]] during the [[2000 Summer Olympics opening ceremony|opening ceremony]].<ref>{{cite web|url=https://www.olympedia.org/flagbearers?edition_id=25|title=Flag bearers at the 2000 Summer Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref> Andorra did not win a medal in the Games, and as of these Games, the country had not earned a Summer Olympic medal.<ref name="Andorra"/><ref name="SR"/>
+
+== Competitors ==
+There were five athletes who took part in the medal events across three sports.<ref name="Result"/><ref name="SR"/>
+{|class="wikitable sortable" style="text-align:center;"
+|-
+!width=120|Sport
+!width=55|Men
+!width=55|Women
+!width="55"|Athletes
+|-
+|align=left|[[Athletics at the 2000 Summer Olympics|Athletics]]
+|1||1||2
+|-
+|align=left|[[Shooting at the 2000 Summer Olympics|Shooting]]
+|1||0||1
+|-
+|align=left|[[Swimming at the 2000 Summer Olympics|Swimming]]
+|1||1||2
+|-
+!Total
+!3
+!2
+!5
+|}
+
+== Athletics ==
+[[File:Toni_Bernadó_-_2012_Olympic_Marathon.jpg|thumb|upright=0.6|[[Antoni Bernadó]] participated in the [[Athletics at the 2000 Summer Olympics – Men's marathon|men's marathon]] event.]]
+{{main|Athletics at the 2000 Summer Olympics}}
+Andorra qualified two athletes for the [[Athletics at the 2000 Summer Olympics|athletics]] event at the Games.<ref name="Result"/> In the [[Athletics at the 2000 Summer Olympics – Men's marathon|men's marathon]], [[Antoni Bernadó]] was ranked 49th amongst the 81 finishers with a time of 2:23.03.<ref>{{cite web|url=https://www.olympedia.org/results/65407|title=Results, men's marathon|work=[[Olympedia]]|access-date=1 June 2024}}</ref> In the [[Athletics at the 2000 Summer Olympics – Women's 1500 metres|women's 1500 m]] event, Silvia Felipo finished 13th in the heats and failed to advance to the finals.<ref>{{cite web|url=https://www.olympedia.org/results/65752|title=Results, women's 1500m|work=[[Olympedia]]|access-date=1 June 2024}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Antoni Bernadó]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's marathon|Men's marathon]]
+|colspan=6 {{n/a}}
+|2:23:03
+|49
+|-
+|align=left|[[Silvia Felipo]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 1500 metres|Women's 1500 m]]
+|4:45.32
+|13
+|colspan=2 {{n/a}}
+|colspan=4 {{n/a|Did not advance}}
+|}
+<small>Note: Ranks given for track events are within the athlete's heat only</small>
+
+== Shooting ==
+{{main|Shooting at the 2000 Summer Olympics}}
+Andorra qualified one athlete for the [[Shooting at the 2000 Summer Olympics|sports shooting]] event at the Games.<ref name="Result"/> In the [[Shooting at the 2000 Summer Olympics – Men's trap|men's trap]], [[Joan Tomàs (sport shooter)|Joan Tomàs]] was ranked 39th and second last with a score of 101 in the qualification event.<ref>{{cite web|url=https://www.olympedia.org/results/51950|title=Results, men's trap|work=[[Olympedia]]|access-date=1 June 2024}}</ref> In the [[Athletics at the 2000 Summer Olympics – Women's 1500 metres|women's 1500 m]] event, Silvia Felipo finished 13th in the heats and failed to advance to the finals.<ref>{{cite web|url=https://www.olympedia.org/results/65752|title=Results, women's 1500m|work=[[Olympedia]]|access-date=1 June 2024}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Final
+!colspan=2|Total
+|-style=font-size:95%
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+|-
+|align=left|[[Joan Tomàs (sport shooter)|Joan Tomàs]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's trap|Men's Trap]]
+|101
+|39
+|colspan=4 {{n/a|Did not advance}}
+|}
+
+== Swimming ==
+{{main|Swimming at the 2000 Summer Olympics}}
+Andorra were allocated two quota places for the [[Swimming at the 2000 Summer Olympics|swimming]] event at the Games.<ref name="Result"/> In the [[Swimming at the 2000 Summer Olympics – Men's 200 metre freestyle|men's 200 m freestyle]] [[Santiago Deu]] was classified 51st and failed to advance to the finals.<ref>{{cite web|url=https://www.olympedia.org/results/8368|title=Results, men's 200 m freestyle|work=[[Olympedia]]|access-date=1 June 2024}}</ref> In the [[Swimming at the 2000 Summer Olympics – Women's 200 metre individual medley|women's medley]] event, [[Meritxell Sabaté]] finished 35th in the heats and failed to advance to the finals.<ref>{{cite web|url=https://www.olympedia.org/results/8676|title=Results, women's 200m individual medley|work=[[Olympedia]]|access-date=1 June 2024}}</ref>
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Santiago Deu]] 
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre freestyle|Men's 200 m freestyle]]
+|1:59.31
+|51
+|colspan=6 {{n/a|Did not advance}}
+|-
+|align=left|[[Meritxell Sabaté]] 
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 200 metre individual medley|Women's 200 metre individual medley]]
+|1:59.31
+|35
+|colspan=2 {{n/a}}
+|colspan=4 {{n/a|Did not advance}}
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*Wallechinsky, David (2004). ''The Complete Book of the Summer Olympics (Athens 2004 Edition)''. Toronto, Canada. {{ISBN|1-894963-32-6}}.
+*International Olympic Committee (2001). [https://webarchive.nla.gov.au/awa/20020918140000/http://pandora.nla.gov.au/pan/13323/20020919-0000/www.gamesinfo.com.au/results/results.pdf The Results]{{cbignore|bot=medic}}. Retrieved 12 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20001109071400/http://www.olympics.com/eng/ Official Report of the XXVII Olympiad Volume 1: Preparing for the Games]. Retrieved 20 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20090327000622/http://www.la84foundation.org/6oic/OfficialReports/2000/2000v2.pdf Official Report of the XXVII Olympiad Volume 2: Celebrating the Games]. Retrieved 20 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20070927222411/http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf The Results]. Retrieved 20 November 2005.
+*[http://www.olympic.org International Olympic Committee]
+
+{{Nations at the 2000 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2000 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2000 Summer Olympics]]
+[[Category:2000 in Andorran sport]]

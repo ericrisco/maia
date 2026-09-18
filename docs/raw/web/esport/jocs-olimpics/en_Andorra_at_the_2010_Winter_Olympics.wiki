@@ -1,0 +1,177 @@
+{{Short description|none}} <!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{good article}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Winter Olympics
+| year = 2010
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Vancouver]]
+| competitors = 6
+| sports = 3
+| flagbearer = [[Lluís Marin Tarroch]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+[[Andorra]] sent a delegation to compete in the [[2010 Winter Olympics]] held in [[Vancouver, British Columbia]], Canada, from 12 to 28 February 2010. Andorra has never won an Olympic medal, despite appearing at every Winter and Summer Games since 1976. The Andorran delegation to these Olympics consisted of six athletes, four in alpine skiing, one in cross-country skiing, and one in snowboarding, the last being [[Lluís Marin Tarroch]], the first snowboarder to represent Andorra at the Olympics. He placed 34th in his only event, and failed to advance to the quarterfinals as a result. [[François Soulié|Francesc Soulié]], the first Andorran cross-country skier to compete at the Games, made his second Olympics appearance, achieving a 47th place finish in the best of his three events. The four alpine skiers that competed recorded six [[Did not finish|DNF]]s in their thirteen combined events, though [[Mireia Gutiérrez]] recorded a team-high 24th-place result in her best event.
+
+==Background==
+The [[Winter Olympic Games|Winter Olympics]] were first held in [[1924 Winter Olympics|1924]], and since then had grown to include 86 events covering 7 different winter sports.<ref name="ioc"/> The [[Andorran Olympic Committee]] was recognized by the [[International Olympic Committee]] on 31 December 1974.<ref>{{cite web|url=https://www.olympic.org/andorra|title=Andorra – National Olympic Committee (NOC)|publisher=[[International Olympic Committee]]|access-date=5 July 2018|url-status=live|archive-url=https://web.archive.org/web/20180614194959/https://www.olympic.org/andorra|archive-date=14 June 2018}}</ref>  They first participated in Olympic competition at the [[1976 Winter Olympics]] and have taken part in every [[Summer Olympic Games|Summer]] and Winter Olympics since.<ref name=SRAND>{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/|title=Andorra|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20171201033705/https://www.sports-reference.com/olympics/countries/AND/|archive-date=1 December 2017}}</ref>  Coming into 2010, Andorra had never won a medal in either the Summer or Winter Olympics.<ref name="SRAND" /> Competition in [[Vancouver]], [[British Columbia]], lasted from 12 to 28 February 2010.<ref name="ioc">{{cite web |title=Vancouver 2010 Winter Olympics - results & video highlights |url=https://www.olympic.org/vancouver-2010 |website=International Olympic Committee |access-date=6 March 2021 |language=en |date=17 November 2020}}</ref> The [[Bids for the 2010 Winter Olympics|bidding process]] to host the competition was won by Vancouver on the second ballot, defeating eventual [[2018 Winter Olympics|2018]] hosts [[Pyongchang]].<ref>{{cite web |title=Bid Procedure for the Olympic Winter Games of 2010 |url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Host-City-Election/Bid-Procedure/Reference-document-Bid-Procedure-for-the-Olympic-Winter-Games-of-2010.pdf |publisher=[[International Olympic Committee]] |access-date=7 March 2021 |date=1 April 2010}}</ref> Andorra's delegation made up six of the 2,626 total athletes competing, with 82 nations represented.<ref name="ioc"/>
+
+The Andorran delegation to Vancouver consisted of six athletes, four in [[alpine skiing]], one in [[cross-country skiing (sport)|cross-country skiing]], and one in [[snowboarding]].<ref name="srandorra">{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/winter/2010/|archive-url=https://web.archive.org/web/20200417093557/https://www.sports-reference.com/olympics/countries/AND/winter/2010/|url-status=dead|archive-date=17 April 2020|title=Andorra at the 2010 Vancouver Winter Games|publisher=Sports Reference|access-date=27 July 2018}}</ref> [[Lluís Marin Tarroch]], the snowboarder, was chosen as the flag bearer for the [[2010 Winter Olympics opening ceremony|opening ceremony]], while alpine skier [[Mireia Gutiérrez]] was selected to carry the flag for the [[2010 Winter Olympics closing ceremony|closing ceremony]].<ref>{{cite news|url=https://vancouversun.com/sports/Complete+list+2010+Vancouver+Winter+Olympic+flag+bearers/2558064/story.html|title=Complete list of 2010 Vancouver Winter Olympic flag-bearers|date=12 February 2010|work=[[The Vancouver Sun]]|access-date=29 April 2018|archive-url=https://web.archive.org/web/20100216123527/http://www.vancouversun.com/sports/Complete%2Blist%2B2010%2BVancouver%2BWinter%2BOlympic%2Bflag%2Bbearers/2558064/story.html|archive-date=16 February 2010}}</ref><ref>{{cite web|url=http://www.olympic.org/Documents/Games_Vancouver_2010/ClosingCeremonyFlagbearers-eng.pdf|title=The Flagbearers for the Vancouver 2010 Closing Ceremony|date=28 February 2010|publisher=[[International Olympic Committee]]|access-date=29 April 2018|archive-url=https://web.archive.org/web/20100401032223/http://www.olympic.org/Documents/Games_Vancouver_2010/ClosingCeremonyFlagbearers-eng.pdf|archive-date=1 April 2010|url-status=dead}}</ref> Alpine skiers [[Sofie Juarez]], [[Kevin Esteve Rigail]], and [[Roger Vidosa]], and cross-country skier [[François Soulié|Francesc Soulié]], comprised the rest of the Andorran delegation.<ref name="srandorra"/>
+
+==Alpine skiing ==
+{{main|Alpine skiing at the 2010 Winter Olympics}}
+[[File:Roger Vidosa FIS-Slalom Hinterstoder 2010.jpg|thumb|right|Roger Vidosa competed in four events in what would be his second and final Olympic Games.]]
+The Andorran alpine skiing team consisted of four members: [[Mireia Gutiérrez]], in her first Games at age 21,<ref name="gutierrez">{{cite web |title=Olympedia – Mireia Gutiérrez |url=http://www.olympedia.org/athletes/118433 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=15 September 2020 |archive-url=https://web.archive.org/web/20200915134700/http://www.olympedia.org/athletes/118433 |url-status=live }}</ref> [[Sofie Juarez]], in her first Games at age 18,<ref>{{cite web |title=Olympedia – Sofie Juarez |url=http://www.olympedia.org/athletes/118466 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=15 September 2020 |archive-url=https://web.archive.org/web/20200915134652/http://www.olympedia.org/athletes/118466 |url-status=live }}</ref> [[Kevin Esteve Rigail]], in his first Games at age 20,<ref>{{cite web |title=Olympedia – Kevin Esteve |url=http://www.olympedia.org/athletes/118399 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=1 December 2020 |archive-url=https://web.archive.org/web/20201201031255/https://www.olympedia.org/athletes/118399 |url-status=live }}</ref> and [[Roger Vidosa]], in his second Games at age 25.<ref>{{cite web |title=Olympedia – Roger Vidosa |url=http://www.olympedia.org/athletes/109904 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=28 November 2020 |archive-url=https://web.archive.org/web/20201128191142/https://www.olympedia.org/athletes/109904 |url-status=live }}</ref> On the women's side, Gutiérrez competed in four events, while Juarez competed in two. Both women competed in the [[Alpine skiing at the 2010 Winter Olympics – Women's giant slalom|giant slalom]], though neither finished the race;<ref name="wgiantslalom">{{cite web |title=Olympedia – Giant Slalom, Women |url=http://www.olympedia.org/results/924555 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=7 December 2020 |archive-url=https://web.archive.org/web/20201207004723/http://www.olympedia.org/results/924555 |url-status=live }}</ref> the latter was not able to finish her other event, the [[Alpine skiing at the 2010 Winter Olympics – Women's slalom|slalom]], either.<ref name="wslalom">{{cite web |title=Olympedia – Slalom, Women |url=http://www.olympedia.org/results/924558 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=6 December 2020 |archive-url=https://web.archive.org/web/20201206121157/http://www.olympedia.org/results/924558 |url-status=live }}</ref> Gutiérrez recorded a DNF in the [[Alpine skiing at the 2010 Winter Olympics – Women's super-G|super-G]],<ref name="wsuperg">{{cite web |title=Olympedia – Super G, Women |url=http://www.olympedia.org/results/924554 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=27 November 2020 |archive-url=https://web.archive.org/web/20201127024301/https://www.olympedia.org/results/924554 |url-status=live }}</ref> but finished in 28th position in the [[Alpine skiing at the 2010 Winter Olympics – Women's downhill|downhill race]] and in 24th in the [[Alpine skiing at the 2010 Winter Olympics – Women's combined|combined race]], the latter of which was the best finish for an Andorran in any event at the 2010 Games.<ref name="wdownhill">{{cite web |title=Olympedia – Downhill, Women |url=http://www.olympedia.org/results/924553 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124072330/https://www.olympedia.org/results/924553 |url-status=live }}</ref><ref name="wcombined">{{cite web |title=Olympedia – Super Combined, Women |url=http://www.olympedia.org/results/924561 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=7 December 2020 |archive-url=https://web.archive.org/web/20201207200141/http://www.olympedia.org/results/924561 |url-status=live }}</ref> The men's side had a bit more overlap, as Esteve was joined by Vidosa in all three of his events. The pair finished side-by-side—47th and 48th—and separated by only 0.04 seconds in the [[Alpine skiing at the 2010 Winter Olympics – Men's downhill|downhill event]],<ref name="mdownhill">{{cite web |title=Olympedia – Downhill, Men |url=http://www.olympedia.org/results/924542 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026163133/https://www.olympedia.org/results/924542 |url-status=live }}</ref> while Vidosa finished ahead of Esteve by six spots in the [[Alpine skiing at the 2010 Winter Olympics – Men's super-G|super-G]].<ref name="msuperg">{{cite web |title=Olympedia – Super G, Men |url=http://www.olympedia.org/results/924543 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026152306/https://www.olympedia.org/results/924543 |url-status=live }}</ref> Vidosa finished in 25th position in the [[Alpine skiing at the 2010 Winter Olympics – Men's combined|combined race]], but Esteve was one of 18 competitors not to finish.<ref name="mcombined">{{cite web |title=Olympedia – Super Combined, Men |url=http://www.olympedia.org/results/924550 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026164410/https://www.olympedia.org/results/924550 |url-status=live }}</ref> In addition, Vidosa competed in the [[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|giant slalom]] event, but recorded a DNF.<ref name="mgiantslalom">{{cite web |title=Olympedia – Giant Slalom, Men |url=http://www.olympedia.org/results/924544 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=14 January 2021 |archive-url=https://web.archive.org/web/20210114004513/http://www.olympedia.org/results/924544 |url-status=live }}</ref>
+
+Of the four competitors, two would go on to compete in another Olympic Games – Esteve competed in one event in [[2014 Winter Olympics|2014]], and Gutiérrez competed in three and one events in 2014 and [[2018 Winter Olympics|2018]], respectively.<ref name="gutierrez"/>
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|rowspan=4|[[Mireia Gutiérrez]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's downhill|Women's downhill]]<ref name="wdownhill"/>
+|align="center"|1:52.87
+|align="center"|28
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's combined|Women's combined]]<ref name="wcombined"/>
+|align="center"|1:29.16
+|align="center"|24
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's super-G|Women's super-G]]<ref name="wsuperg"/>
+|colspan=2 align="center"|{{abbr|DNF|Did not finish}}
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's giant slalom|Women's giant slalom]]<ref name="wgiantslalom"/>
+|colspan=2 align="center"|{{abbr|DNF|Did not finish}}
+|-
+|rowspan=2|[[Sofie Juarez]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's slalom|Women's slalom]]<ref name="wslalom"/>
+|colspan=2 align="center"|{{abbr|DNF|Did not finish}}
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Women's giant slalom|Women's giant slalom]]<ref name="wgiantslalom"/>
+|colspan=2 align="center"|{{abbr|DNF|Did not finish}}
+|-
+|rowspan=3|[[Kevin Esteve Rigail]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Men's downhill]]<ref name="mdownhill"/>
+|align="center"|1:59.61
+|align="center"|47
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Men's combined]]<ref name="mcombined"/>
+|colspan=2 align="center"|{{abbr|DNF|Did not finish}}
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Men's super-G]]<ref name="msuperg"/>
+| align="center"|1:35.67
+|align="center"|39
+|-
+|rowspan=4|[[Roger Vidosa]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Men's downhill]]<ref name="mdownhill"/>
+|align="center"|1:59.65
+|align="center"|48
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Men's combined]]<ref name="mcombined"/>
+|align="center"|2:50.33
+|align="center"|25
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Men's super-G]]<ref name="msuperg"/>
+| align="center"|1:33.65
+|align="center"|33
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Men's giant slalom]]<ref name="mgiantslalom"/>
+|align="center" colspan=2|{{abbr|DNF|Did not finish}}
+|}
+
+== Cross-country skiing ==
+{{main|Cross-country skiing at the 2010 Winter Olympics}}
+The first cross-country skier to represent [[Andorra at the Winter Olympics|Andorra in the Winter Olympics]] (and the only one until [[Irineu Esteve Altimiras]] in [[2018 Winter Olympics|2018]]),<ref>{{cite web |title=Olympedia – Andorra in Cross Country Skiing |url=http://www.olympedia.org/countries/AND/sports/CCS.1 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=21 October 2020 |archive-url=https://web.archive.org/web/20201021185842/http://www.olympedia.org/countries/AND/sports/CCS.1 |url-status=live }}</ref> [[François Soulié|Francesc Soulié]] competed in his second Games in 2010 at the age of 31.<ref>{{cite web |title=Olympedia – Francesc Soulié |url=http://www.olympedia.org/athletes/109855 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=11 October 2020 |archive-url=https://web.archive.org/web/20201011165627/http://www.olympedia.org/athletes/109855 |url-status=live }}</ref><ref name="srandorra" /> Both of Soulié's two distance races did not include qualifiers, but rather one single event that functioned as a final. In the [[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km race]], he finished in 73rd place out of the 95 competitors to start the race,<ref name="soulie15km" /> nearly five minutes behind the gold medalist, while in the [[Cross-country skiing at the 2010 Winter Olympics – Men's 50 kilometre classical|50 km race]] he placed 47th out of the 53 skiers to start, though only 48 finished the race.<ref name="soulie50km" /> In his lone non-distance event, the [[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|men's sprint]], Soulié was eliminated after placing 56th in the field of 62 competitors during the qualification stage, in which only the top 30 skiers advanced to the quarterfinals.<ref name="souliesprint" /> As of 2018, this was Soulié's last appearance at an Olympic Games.
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-
+!Total
+!Rank
+!Total
+!Rank
+!Total
+!Rank
+!Total
+!Rank
+|-
+|rowspan=3| [[François Soulié|Francesc Soulié]]
+| [[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|Men's 15 km freestyle]]<ref name="soulie15km">{{cite web |title=Olympedia – 15 kilometres, Freestyle, Men |url=http://www.olympedia.org/results/923550 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=3 December 2020 |archive-url=https://web.archive.org/web/20201203044810/https://www.olympedia.org/results/923550 |url-status=live }}</ref>
+|colspan=6 bgcolor="wheat"|
+|align="center"|38:36.0
+|align="center"|73
+|-
+| [[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Men's sprint]]<ref name="souliesprint">{{cite web |title=Olympedia – Sprint, Classical, Men |url=http://www.olympedia.org/results/923555 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=30 November 2020 |archive-url=https://web.archive.org/web/20201130233053/https://www.olympedia.org/results/923555 |url-status=live }}</ref>
+|align="center"| 3:55.22
+|align="center"| 56
+|colspan=6 align="center"|Did not advance
+|-
+| [[Cross-country skiing at the 2010 Winter Olympics – Men's 50 kilometre classical|Men's 50 km classical]]<ref name="soulie50km">{{cite web |title=Olympedia – 50 kilometres Mass Start, Classical, Men |url=http://www.olympedia.org/results/923554 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=3 December 2020 |archive-url=https://web.archive.org/web/20201203035234/https://www.olympedia.org/results/923554 |url-status=live }}</ref>
+|colspan=6 bgcolor="wheat"|
+|align="center"| 2:25:00.8
+|align="center"| 47
+|}
+
+== Snowboarding ==
+[[File:2010 Opening Ceremony - Andorra entering.jpg|thumb|right|Andorran athletes entering the stadium during the opening ceremonies, led by flagbearer Lluís Marin Tarroch.]]
+{{main|Snowboarding at the 2010 Winter Olympics}}
+[[Lluís Marin Tarroch]] became the first, and as of the [[2018 Winter Olympics]], only snowboarder to represent Andorra at the Olympics.<ref>{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/winter/SNB/|archive-url=https://web.archive.org/web/20200418135041/https://www.sports-reference.com/olympics/countries/AND/winter/SNB/|url-status=dead|archive-date=18 April 2020|title=Andorra Snowboarding|publisher=Sports Reference|access-date=27 July 2018}}</ref>  Tarroch was 21 years old at the time of the Vancouver Olympics.<ref name=Tarroch>{{cite web|url=https://www.sports-reference.com/olympics/athletes/ma/lluis-marin-tarroch-1.html|archive-url=https://web.archive.org/web/20200418010609/https://www.sports-reference.com/olympics/athletes/ma/lluis-marin-tarroch-1.html|url-status=dead|archive-date=18 April 2020|title=Lluis Marin Tarroch|publisher=Sports Reference|access-date=27 July 2018}}</ref>  In the [[Snowboarding at the 2010 Winter Olympics – Men's snowboard cross|men's snowboard cross]], the qualifying round was held on 15 February.  The format was that everyone got two races, and the best of an athlete's two times counted.<ref name="Snowboard1" />  The top 32 would advance to the next round.<ref name=Snowboard1>{{cite web|url=https://www.sports-reference.com/olympics/winter/2010/SNB/mens-boardercross-qualifying-round.html|archive-url=https://web.archive.org/web/20200417164856/https://www.sports-reference.com/olympics/winter/2010/SNB/mens-boardercross-qualifying-round.html|url-status=dead|archive-date=17 April 2020|title=Snowboarding at the 2010 Vancouver Winter Games: Men's Boardercross Qualifying round|publisher=Sports Reference|access-date=27 July 2018}}</ref>  Tarroch did not finish the first run, and had to rely on his second run time of 1 minute and 47.36 seconds, which put him in 34th place, and he was eliminated.<ref name="Snowboard1" />  He would go on to represent Andorra at the [[Andorra at the 2014 Winter Olympics|2014]] and [[Andorra at the 2018 Winter Olympics|2018]] Winter Olympics.<ref name="Tarroch" /><ref>{{cite web|url=https://data.fis-ski.com/dynamic/athlete-biography.html?sector=SB&competitorid=109201&type=result&category=OWG&season=ALL&sort=&discipline=ALL&position=&place=&Submit=Search&limit=50|title=Marin Tarroch Lluis – Biographie|publisher=[[International Ski Federation]]|access-date=27 July 2018|archive-date=27 July 2018|archive-url=https://web.archive.org/web/20180727054911/https://data.fis-ski.com/dynamic/athlete-biography.html?sector=SB&competitorid=109201&type=result&category=OWG&season=ALL&sort=&discipline=ALL&position=&place=&Submit=Search&limit=50|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!1/8 round
+!Quarterfinal
+!Semifinal
+!Final
+|-
+!Time
+!Rank
+!Rank
+!Rank
+!Rank
+!Rank
+|-
+|[[Lluís Marin Tarroch]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's snowboard cross|Men's snowboard cross]]<ref>{{cite web |title=Olympedia – Boardercross, Men |url=http://www.olympedia.org/results/924389 |website=www.olympedia.org |access-date=22 February 2021 |archive-date=15 September 2020 |archive-url=https://web.archive.org/web/20200915134650/http://www.olympedia.org/results/924389 |url-status=live }}</ref>
+|align=center|1:47.36
+|align=center|34
+|colspan=4 align=center|Did not advance
+|}
+
+==See also==
+* [[Andorra at the Olympics]]
+* [[Andorra at the 2010 Winter Paralympics]]
+
+==References==
+{{reflist}}
+
+{{Nations at the 2010 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2010 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|2010]]
+[[Category:2010 in Andorran sport]]

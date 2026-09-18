@@ -1,0 +1,197 @@
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 2004
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Athens]]
+| competitors = '''6'''
+| sports = 4
+| flagbearer = [[Hocine Haciane]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+[[Andorra]] competed at the [[2004 Summer Olympics]] in [[Athens]], [[Greece]] from 13 to 29 August 2004.
+
+==Athletics ==
+{{main|Athletics at the 2004 Summer Olympics}}
+Andorran athletes have so far achieved qualifying standards in the following athletics events (up to a maximum of 3 athletes in each event at the 'A' Standard, and 1 at the 'B' Standard).<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|access-date=June 4, 2011}}</ref><ref>{{cite web|title=IAAF Games of the XXX Olympiad – Athens 2004 Entry Standards|url=http://www.iaaf.org/news/news/olympic-games-athens|publisher=[[IAAF]]|access-date=4 June 2011}}</ref> 
+
+{{smalldiv|1=
+;Key
+*'''Note'''&ndash;Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+|-align=center
+|align=left|[[Antoni Bernadó]]
+|align=left|[[Athletics at the 2004 Summer Olympics – Men's marathon|Marathon]]
+|2:23:55
+|57
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Silvia Felipo]]
+|align=left|[[Athletics at the 2004 Summer Olympics – Women's 1500 metres|1500 m]]
+|4:44.40
+|13
+|colspan=4|did not advance
+|}
+
+==Judo ==
+{{main|Judo at the 2004 Summer Olympics}}
+Andorra sent one competitor to the Olympic Games in Judo.
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-align=center
+|align=left|[[Toni Besolí]]
+|align=left|[[Judo at the 2004 Summer Olympics – Men's 90 kg|Men's −90 kg]]
+|{{flagIOCathlete|[[Vicbart Geraldino|Geraldino]]|DOM|2004 Summer}}<br />'''L''' 0000–1000
+|colspan=8|did not advance
+|}
+
+==Shooting ==
+{{main|Shooting at the 2004 Summer Olympics}}
+Andorra sent one competitor to the Olympic Games in shooting. 
+
+;Men
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Francesc Repiso Romero]]
+|align=left|[[Shooting at the 2004 Summer Olympics – Men's trap|Trap]]
+|106
+|35
+|colspan=2|did not advance
+|}
+
+==Swimming ==
+{{main|Swimming at the 2004 Summer Olympics}}
+Andorra sent two competitors to the Olympic games in swimming.
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Hocine Haciane]]
+|align=left|[[Swimming at the 2004 Summer Olympics – Men's 200 metre individual medley|200 m individual medley]]
+|2:06.48
+|36
+|colspan=4|did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Carolina Cerqueda]]
+|align=left|[[Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|1:00.38
+|48
+|colspan=4|did not advance
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080611091801/http://www.la84foundation.org/6oic/OfficialReports/2004/Results/ Official Report of the XXVIII Olympiad]
+*[http://www.coa.ad/ Comitè Olímpic Andorrà] {{in lang|ca}}
+
+{{Nations at the 2004 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2004 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2004 Summer Olympics]]
+[[Category:2004 in Andorran sport]]

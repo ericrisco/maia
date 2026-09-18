@@ -1,0 +1,128 @@
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Winter Olympics
+| year = 1980
+| flagcaption = 
+| oldcode = 
+| website = &nbsp;{{in lang|ca}}
+| location = [[Lake Placid, New York|Lake Placid]]
+| competitors = 3 (men)
+| sports = 1
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] competed at the [[1980 Winter Olympics]] in [[Lake Placid, New York|Lake Placid]], [[United States]].
+
+==Alpine skiing==
+{{main|Alpine skiing at the 1980 Winter Olympics}}
+
+;Men
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race 1
+!colspan="2"|Race 2
+!colspan="2"|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|[[Patrick Toussaint]]
+|rowspan="3"|Downhill
+|colspan="4" bgcolor="wheat"|
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Miguel Font]]
+|colspan="4" bgcolor="wheat"|
+|align="center"|2:02.01
+|align="center"|39
+|-
+|[[Carlos Font]]
+|colspan="4" bgcolor="wheat"|
+|align="center"|1:57.81
+|align="center"|35
+|-
+|[[Patrick Toussaint]]
+|rowspan="3"|Giant Slalom
+|align="center"|1:31.23
+|align="center"|52
+|align="center"|1:33.15
+|align="center"|46
+|align="center"|3:04.38
+|align="center"|45
+|-
+|[[Miguel Font]]
+|align="center"|1:30.93
+|align="center"|50
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Carlos Font]]
+|align="center"|1:29.47
+|align="center"|48
+|align="center"|1:29.79
+|align="center"|40
+|align="center"|2:59.26
+|align="center"|42
+|-
+|[[Miguel Font]]
+|rowspan="3"|Slalom
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Patrick Toussaint]]
+|align="center"|DNF
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|&ndash;
+|align="center"|DNF
+|align="center"|&ndash;
+|-
+|[[Carlos Font]]
+|align="center"|1:02.40
+|align="center"|32
+|align="center"|1:01.30
+|align="center"|32
+|align="center"|2:03.70
+|align="center"|30
+|}
+
+==References==
+*[https://web.archive.org/web/20060622162855/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+* [https://web.archive.org/web/20200417042617/https://www.sports-reference.com/olympics/winter/1980/ Olympic Winter Games 1980, full results by sports-reference.com]
+
+{{Nations at the 1980 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 1980 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|1980 Winter Olympics]]
+[[Category:1980 in Andorra]]
+
+
+{{Andorra-sport-stub}}
+{{1980-winter-Olympic-stub}}

@@ -292,6 +292,62 @@ d'hivern d'Andorra— **ni [Marc Oliveras](../esqui/esquiadors/marc-oliveras.md)
 a PyeongChang 2018**, on va fer **29è a la combinada**. **Totes dues,
 esmenades.**
 
+### La mida de cada delegació, les vint-i-sis edicions
+
+> **Afegit el 18-09-2026** amb **el bolcat de les vint-i-sis pàgines «Andorra at
+> the … Olympics» de la Viquipèdia en anglès**
+> (`docs/raw/web/esport/jocs-olimpics/`, **CC BY-SA 4.0**). **Les xifres surten
+> del camp `competitors` i `sports` de la fitxa de cada edició**, i **el corpus
+> les reté com a secundàries fins que el Comitè Olímpic Andorrà les confirmi.**
+
+| Any | Estiu | Hivern |
+| --- | --- | --- |
+| **1976** | **3** *(2 esports)* | **5** *(1)* |
+| 1980 | 2 *(1)* | 3 *(1)* |
+| 1984 | 2 *(1)* | 2 *(1)* |
+| 1988 | 3 *(2)* | 4 *(1)* |
+| **1992** | **8** *(5)* | 5 *(1)* |
+| 1994 | — | 6 *(1)* |
+| **1996** | **8** *(5)* | — |
+| 1998 | — | 3 *(1)* |
+| 2000 | 5 *(3)* | — |
+| 2002 | — | 3 *(1)* |
+| 2004 | 6 *(4)* | — |
+| 2006 | — | 3 *(2)* |
+| 2008 | 5 *(4)* | — |
+| 2010 | — | **6** *(3)* |
+| 2012 | 6 *(4)* | — |
+| 2014 | — | 6 *(3)* |
+| **2016** | **5** *(4)* | — |
+| 2018 | — | 5 *(3)* |
+| **2020** | **2** *(2)* | — |
+| 2022 | — | 5 *(3)* |
+| **2024** | **2** *(2)* | — |
+| 2026 | — | 3 |
+
+**Això tanca dos buits d'aquesta fitxa i en respon un tercer a mitges.**
+
+**La delegació d'estiu té una corba clara**: **3, 2, 2, 3 els primers quatre
+Jocs**; **vuit el 1992 i vuit el 1996**; **i des d'allà avall fins a dos el 2020
+i dos el 2024.** **El màxim és de Barcelona 1992 i Atlanta 1996** —**els dos
+Jocs més a prop de casa i els dos immediatament anteriors i posteriors a la
+Constitució**— i **el mínim, dels dos últims.**
+
+**I l'esport que desapareix és el ciclisme.** **Andorra hi porta ciclistes el
+1988 i el 1992 —Emili Pérez, Xavier Pérez, Juan González— i el judo, el tir i
+la natació el 1996 i el 2000**; **el 2020 i el 2024 hi porta dos esportistes i
+dos esports.** `El corpus no sap per què. Podria ser criteri de mínimes,
+política del Comitè o demografia esportiva, i cap font del corpus no ho diu.`
+
+**La delegació d'hivern, en canvi, no cau**: **entre 2 i 6 des del 1976**, i
+**els seus màxims són recents** —6 el 1994, el 2010 i el 2014—. **Des del 2006
+Andorra hi porta més d'un esport**, cosa que **abans no feia mai**: **1, 1, 1,
+1, 1, 1, 1, 1 fins al 2002**, i **2, 3, 3, 3, 3, 3 del 2006 ençà.**
+
+**El resultat és el que aquesta fitxa deia al resum**: **la delegació d'hivern
+ha passat de ser la que tenia un sol esport a ser la que en té més que la
+d'estiu.**
+
 ## Els noms que hi apareixen
 
 | Esport | Qui | Quan |
@@ -370,11 +426,28 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 2. **La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.** El corpus només té un nom:
    **Jaume Martí**, president el 2015.
-3. **Per què la delegació d'estiu ha caigut** de vuit a dos.
-4. **Els abanderats anteriors al 2020.**
+3. **Per què la delegació d'estiu ha caigut** de vuit a dos. — **`parcial`
+   el 18-09-2026: la corba ja està mesurada i la causa no.** **El màxim és de
+   Barcelona 1992 i Atlanta 1996, amb vuit**, i **el mínim dels dos últims
+   Jocs, amb dos**, vegeu
+   [la mida de cada delegació](#la-mida-de-cada-delegacio-les-vint-i-sis-edicions).
+   `El que falta és el criteri: mínimes, política del Comitè o demografia
+   esportiva.`
+4. ~~**Els abanderats anteriors al 2020.**~~ — **`resolt` el 18-09-2026**:
+   **la sèrie sencera del 1976 al 2026 és a
+   [els abanderats](./els-abanderats.md)**, i **el bolcat de les vint-i-sis
+   pàgines d'edició la confirma nom per nom**, amb **dues caselles buides que
+   també hi són buides** —**Innsbruck 1976 i Albertville 1992**—.
+   `La Viquipèdia deixa buit també el 1980 d'hivern, on el corpus sí que té
+   un nom, Carlos Font, per una altra font. Les dues es mantenen.`
 5. ~~**Els esportistes d'estiu**~~ — **tancat**: la taula de delegacions d'estiu
    és completa. **Segueix obert el resultat detallat de cadascun.**
-6. **Les delegacions d'hivern de 1980 a 2006**, que aquesta fitxa no té.
+6. ~~**Les delegacions d'hivern de 1980 a 2006**, que aquesta fitxa no té.~~ —
+   **`resolt` el 18-09-2026 pel que fa a la mida i el nombre d'esports**,
+   vegeu [la mida de cada delegació](#la-mida-de-cada-delegacio-les-vint-i-sis-edicions).
+   `Els noms d'aquelles delegacions segueixen essent el buit 1 d'aquesta
+   llista: el bolcat en porta les taules de resultats i aquesta lectura no
+   les ha buidades.`
 7. ~~**Andorra als Jocs Paralímpics.** **El corpus no en sap res.**~~ `resolt`
    **el 2026-09-18**: [Andorra als Jocs Paralímpics](./andorra-als-jocs-paralimpics.md).
    **Vuit Jocs des del 2002, sis esportistes, cap medalla**, i **el millor

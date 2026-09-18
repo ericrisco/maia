@@ -1,0 +1,64 @@
+{{more footnotes needed|date=November 2018}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 1980
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Moscow]]
+| competitors = 2 (2 men and 0 women)
+| sports = 1
+| flagbearer = [[Francesc Gaset Fris]]<ref name="Oly">{{cite web |url=https://www.olympedia.org/flagbearers?country_id=AND |title=Flagbearers for Andorra |website=[[Olympedia]] |publisher=[[OlyMADMen]] |access-date=3 June 2026}}</ref>
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] competed at the [[1980 Summer Olympics]] in [[Moscow]], [[Soviet Union|USSR]].  In partial support of the [[American-led boycott of the 1980 Summer Olympics]], Andorra competed under the Olympic Flag instead of its national flag.
+
+==Shooting==
+{{main|Shooting at the 1980 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan=2 | Final
+|- style="font-size:95%"
+! Points
+! Rank
+|- align=center
+| align=left | [[Francesc Gaset Fris]]
+| align=left rowspan=2| [[Shooting at the 1980 Summer Olympics – Mixed trap|Mixed trap]]
+| 184
+| 24
+|- align=center
+| align=left | [[Joan Tomàs Roca]]
+| 181
+| 26T
+|}
+
+==References==
+{{Reflist}}
+*[https://web.archive.org/web/20060622162855/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+*[https://web.archive.org/web/20200417093556/https://www.sports-reference.com/olympics/countries/AND/summer/1980/ sports-reference]
+
+{{Nations at the 1980 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 1980 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|1980]]
+[[Category:1980 in Andorra]]
+
+
+{{Andorra-sport-stub}}
+{{1980-Olympic-stub}}

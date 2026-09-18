@@ -1,0 +1,190 @@
+{{use dmy dates|date=August 2024}}
+{{infobox country at games
+|NOC               = AND
+|NOCname           = [[Andorran Olympic Committee]]
+|games             = Summer Olympics
+|year              = 2024
+|start_date        = {{start date|2024|7|26|df=y}}
+|end_date          = {{end date|2024|8|11|df=y}}
+|flagcaption       = 
+|oldcode           = 
+|website           = {{url|www.coa.ad }}
+|location          = [[Paris]], France
+|competitors       = 2
+|competitors_men   = 1
+|competitors_women = 1
+|sports            = 2
+|flagbearer_open   = [[Nahuel Carabaña]] & [[Mònica Dòria]]
+|flagbearer_close  = [[Nahuel Carabaña]]
+|rank              = 
+|gold              = 0
+|silver            = 0
+|bronze            = 0
+|officials         = 
+|appearances       = auto
+|app_begin_year    = 1976
+|app_end_year      = 
+|summerappearances = 
+|winterappearances = 
+|seealso           = 
+}}
+[[Andorra]] competed at the [[2024 Summer Olympics]] in [[Paris]] from 26 July to 11 August 2024. It was the nation's thirteenth appearance at the Summer Olympics, since the official debut at [[1976 Summer Olympics|1976]].
+
+The Andorran delegation consisted of two athletes competing in two sports. Both athletes, [[Nahuel Carabaña]] and [[Mònica Dòria]] were the country's flagbearers during the [[2024 Summer Olympics opening ceremony]].<ref>{{cite web|url=https://www.altaveu.com/actualitat/esport/doria-carabana-ja-es-preparen-cerimonia-inaugural-jocs-olimpics-paris_59134_102.html|trans-title=Doria and Carabaña are already preparing for the opening ceremony of the Olympic Games in Paris|language=Catalan|title=Doria i Carabaña ja es preparen per a la cerimònia inaugural dels Jocs Olímpics de París|last=Escola|first=Marco|date=23 July 2024|website=www.altaveu.com|publisher=Altaveu|access-date=25 July 2024}}</ref>
+
+==Competitors==
+The following is the list of number of competitors in the Games.
+{|class="wikitable sortable" style="text-align:center;"
+|-
+! width=120|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+|align=left|[[Athletics at the 2024 Summer Olympics|Athletics]]
+|1 ||0 ||1
+|-
+|align=left|[[Canoeing at the 2024 Summer Olympics|Canoeing]]
+|0 ||1 ||1
+|-
+! Total ||1 ||1 ||2
+|}
+
+==Athletics==
+{{main|Athletics at the 2024 Summer Olympics|Athletics at the 2024 Summer Olympics – Qualification}}
+Andorran track and field athletes achieved the entry standards by world ranking, in the following events (a maximum of 3 athletes each):
+
+{{smalldiv|1=
+;Key
+* '''Note'''–Ranks given for track events are within the athlete's heat only
+* '''Q''' = Qualified for the next round
+* '''q''' = Qualified for the next round as the fastest loser ''or'', in field events, by position without achieving the qualifying target
+* '''NR''' = National record
+* N/A = Round not applicable for the event
+* Bye = Athlete not required to compete in round}}
+
+;Track and road events
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Preliminary
+!colspan=2|Heat
+!colspan=2|Repechage
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Nahuel Carabaña]]
+|align=left|[[Athletics at the 2024 Summer Olympics – Men's 3000 metres steeplechase|Men's 3000 m steeplechase]]
+|colspan=2 {{n/a}}
+|8:19.44
+|7
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2024 Summer Olympics|Canoeing at the 2024 Summer Olympics – Qualification}}
+
+===Slalom===
+Andorra entered one boat into the slalom competition, for the Games through the [[2023 ICF Canoe Slalom World Championships]] in [[London]], Great Britain.<ref>{{cite news|url=https://olympics.com/en/news/canoe-slalom-2023-world-championship-men-women-final-paris-quotas|title=Mallory Franklin and Benjamin Savsek reclaim individual world titles after six-year wait while 24 Olympic quotas in C1 are confirmed|date=24 September 2023|publisher=[[International Olympic Committee]]|accessdate=24 September 2023}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=6|Preliminary
+!colspan=2|Semifinal
+!colspan=2|Final
+|- style="font-size:95%"
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Best
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left rowspan=2|[[Mònica Dòria]]
+|align=left|[[Canoeing at the 2024 Summer Olympics – Women's slalom C-1|Women's C-1]]
+|101.28
+|3
+|151.68
+|19
+|101.28
+|3 '''Q'''
+|106.53
+|3 '''Q'''
+|113.58
+|6
+|-align=center
+|align=left|[[Canoeing at the 2024 Summer Olympics – Women's slalom K-1|Women's K-1]]
+|95.93
+|4
+|98.51
+|15
+|95.93
+|10 '''Q'''
+|156.28
+|22
+| colspan=2|Did not advance
+|}
+
+'''Kayak cross'''
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Time trial
+!Round 1
+!Repechage
+!Heat
+!Quarterfinal
+!Semifinal
+!colspan=2|Final
+|-style-font-size:95%
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Position
+!Position
+!Position
+!Rank
+|-
+|align=left|[[Mònica Dòria]]
+|align=left|[[Canoeing at the 2024 Summer Olympics – Women's slalom kayak cross|Women's KX-1]]
+|73.15
+|9
+|1 '''Q'''
+|{{Bye}}
+|2 '''Q'''
+|4
+|colspan=2|Did not advance
+|15
+|}
+
+==References==
+{{reflist}}
+
+{{Nations at the 2024 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2024 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2024]]
+[[Category:2024 in Andorran sport]]

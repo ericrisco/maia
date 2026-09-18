@@ -1,0 +1,248 @@
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 1996
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Atlanta]]
+| competitors = 8 (6 men and 2 women)
+| sports = 5
+| flagbearer = [[Aitor Osorio]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+Andorra was represented at the [[1996 Summer Olympics]] in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States by the [[Andorran Olympic Committee]].
+
+In total, eight athletes including six men and two woman represented Andorra in five different sports including athletics, judo, sailing, shooting and swimming.
+
+==Competitors==
+In total, eight athletes represented Andorra at the [[1996 Summer Olympics]] in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States across five different sports.<ref name="andorra">{{cite web |title=Andorra at the 1996 Summer Olympics |url=https://www.olympedia.org/countries/AND/editions/24 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 1996 Summer Olympics|Athletics]]
+| 1 || 0 || 1
+|-
+| align=left|[[Judo at the 1996 Summer Olympics|Judo]]
+| 1 || 0 || 1
+|-
+| align=left|[[Sailing at the 1996 Summer Olympics|Sailing]]
+| 2 || 1 || 3
+|-
+| align=left|[[Shooting at the 1996 Summer Olympics|Shooting]]
+| 1 || 0 || 1
+|-
+| align=left|[[Swimming at the 1996 Summer Olympics|Swimming]]
+| 1 || 1 || 2
+|-
+! Total !! 6 !! 2 !! 8
+|}
+
+==Athletics==
+{{main|Athletics at the 1996 Summer Olympics}}
+
+In total, one Andorran athlete participated in the athletics events – [[Antoni Bernadó]] in the [[Athletics at the 1996 Summer Olympics – Men's marathon|men's marathon]].<ref name="andorra"/>
+
+The men's marathon took place on 4 August 1996 at 7:05{{nbsp}}am. The course began and ended at the [[Centennial Olympic Stadium]] and followed the general route of the [[Atlanta Marathon]]. Bernadó completed the race in a time of two hours 31 minutes and 28 seconds to finish 87th overall.<ref>{{cite web |title=1996 Summer Olympics, Marathon, Men |url=https://www.olympedia.org/results/64735 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+|-align=center
+|align=left|[[Antoni Bernadó]]
+|align=left|[[Athletics at the 1996 Summer Olympics – Men's marathon|Marathon]]
+|2-31:28
+|87
+|}
+
+==Judo==
+{{main|Judo at the 1996 Summer Olympics}}
+
+In total, one Andorran athlete participated in the judo events – [[Antoni Molne]] in the [[Judo at the 1996 Summer Olympics – Men's 65 kg|men's −65&nbsp;kg]] category.<ref name="andorra"/>
+
+The men's men's −65&nbsp;kg category took place on 25 July 1996. Molne received a bye in the round of 64. In the round of 32, he lost by ippon to [[Timur Mukhamedkhanov]] of Uzbekistan.<ref>{{cite web |title=1996 Summer Olympics, Half-Lightweight (≤65 kilograms), Men |url=https://www.olympedia.org/results/17701 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-align=center
+|align=left|[[Antoni Molne]]
+|align=left|[[Judo at the 1996 Summer Olympics – Men's 65 kg|−65&nbsp;kg]]
+|Bye
+|{{flag IOC athlete|[[Timur Mukhamedkhanov|Mukhamedkhanov]]|UZB|1996 Summer}}<br />'''L'''
+|colspan=8|did not advance
+|}
+
+==Sailing==
+{{main|Sailing at the 1996 Summer Olympics}}
+
+In total, three Andorran athletes participated in the sailing events – [[Fiona Morrison]] in the [[Sailing at the 1996 Summer Olympics – Women's Mistral One Design|women's mistral]] and [[David Ramón]] and [[Oscar Ramón]] in the [[Sailing at the 1996 Summer Olympics – Men's 470|men's 470]].<ref name="andorra"/>
+
+The nine races in the women's mistral competition took place from 23–29 July 1996. Morrison achieved her best result in race five finishing 20th. Overall, she finished with a net 153 points and placed 24th.<ref>{{cite web |title=1996 Summer Olympics, Windsurfer (Mistral), Open |url=https://www.olympedia.org/results/10530 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+The 11 races in the men's 470 competition took place from 24 July – 1 August 1996. Rámon and Rámon achieved their best result in race nine finishing 11th. Overall, they finished with a net 183 points and placed 27th.<ref>{{cite web |title=1996 Summer Olympics, Two Person Dinghy (470), Open |url=https://www.olympedia.org/results/10488 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=11|Race
+!colspan=2|Total
+|-style=font-size:95%
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!Points
+!Rank
+|-
+|align=left|[[Fiona Morrison]]
+|align=left|[[Sailing at the 1996 Summer Olympics – Women's Mistral One Design|Women's mistral]]
+|<s>PMS</s>
+|23
+|<s>25</s>
+|24
+|20
+|22
+|22
+|24
+|18
+|colspan=2 {{n/a}}
+|153
+|24
+|-
+|align=left|[[David Ramón]]<br />[[Oscar Ramón]]
+|align=left|[[Sailing at the 1996 Summer Olympics – Men's 470|Men's 470]]
+|23
+|<s>31</s>
+|24
+|<s>35</s>
+|23
+|17
+|12
+|26
+|11
+|28
+|19
+|183
+|27
+|}
+
+==Shooting==
+{{main|Shooting at the 1996 Summer Olympics}}
+
+In total, one Andorran athlete participated in the shooting events – [[Gerard Barcia]] in the [[Shooting at the 1996 Summer Olympics – Men's trap|men's trap]].<ref name="andorra"/>
+
+The preliminary round for the men's trap took place on 20 July 1996. Barcia scored 117 points in the preliminary round. He did not advance to the final round and finished joint-37th overall.<ref>{{cite web |title=1996 Summer Olympics, Trap, Open |url=https://www.olympedia.org/results/51899 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"| Athlete
+!rowspan="2"| Event
+!colspan="2"| Final
+|-style="font-size:95%"
+!Points
+!Rank
+|-align=center
+|align=left|[[Gerard Barcia]]
+|align=left |[[Shooting at the 1996 Summer Olympics – Men's trap|Trap]]
+|117
+|37T
+|}
+
+==Swimming==
+{{main|Swimming at the 1996 Summer Olympics}}
+
+In total, two Andorran athletes participated in the swimming events – [[Aitor Osorio]] in the [[Swimming at the 1996 Summer Olympics – Men's 200 metre butterfly|men's 200&nbsp;m butterfly]] and [[Meritxell Sabaté]] in the [[Swimming at the 1996 Summer Olympics – Women's 200 metre individual medley|women's 200&nbsp;m individual medley]].<ref name="andorra"/>
+
+The heats for the men's 200&nbsp;m butterfly took place on 22 July 1996. Osorio finished third in his heat in a time of two minutes 12.59 seconds which was ultimately not fast enough to qualify for the finals.<ref>{{cite web |title=1996 Summer Olympics, 200 metres Butterfly, Men |url=https://www.olympedia.org/results/8075 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+The heats for the women's 200&nbsp;m individual medley took place on 24 July 1996. Sabaté finished second in her heat in a time of two minutes 37.38 seconds which was ultimately not fast enough to qualify for the finals.<ref>{{cite web |title=1996 Summer Olympics, 200 metres Individual Medley, Women |url=https://www.olympedia.org/results/8264 |publisher=Olympedia |access-date=21 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Aitor Osorio]]
+|align=left|[[Swimming at the 1996 Summer Olympics – Men's 200 metre butterfly|Men's 200&nbsp;m butterfly]]
+|2:12.56
+|42
+|colspan=4|did not advance
+|-align=center
+|align=left|[[Meritxell Sabaté]]
+|align=left|[[Swimming at the 1996 Summer Olympics – Women's 200 metre individual medley|Women's 200&nbsp;m individual medley]]
+|2:37.38
+|42
+|colspan=4|did not advance
+|}
+
+==External links==
+*[https://web.archive.org/web/20200417093553/https://www.sports-reference.com/olympics/countries/AND/summer/1996/ sports-reference]
+
+==References==
+{{reflist}}
+
+{{Nations at the 1996 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 1996 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|1996 Summer Olympics]]
+[[Category:1996 in Andorran sport]]

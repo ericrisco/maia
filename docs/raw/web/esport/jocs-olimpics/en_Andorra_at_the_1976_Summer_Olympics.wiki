@@ -1,0 +1,91 @@
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 1976
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Montreal]]
+| competitors = 3 (3 men and 0 women)
+| sports = 2
+| flagbearer = [[Esteve Dolsa]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] first competed in the [[Summer Olympic Games]] at the [[1976 Summer Olympics]] in [[Montreal|Montreal, Quebec]], Canada.
+
+==Boxing==
+{{main|Boxing at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Joan Montane]]
+|align=left|[[Boxing at the 1976 Summer Olympics|Light heavyweight]]
+|Walkover
+|{{flagIOCathlete|[[Ottomar Sachse|Sachse]]|GDR|1976 Summer}}<br>'''L''' 
+|colspan=3|did not advance
+|9
+|}
+
+==Shooting==
+{{main|Shooting at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan=2 | Final
+|- style="font-size:95%"
+! Points
+! Rank
+|- align=center
+| align=left | [[Joan Tomàs Roca]]
+| align=left rowspan=2| [[Shooting at the 1976 Summer Olympics|Trap]]
+| 162
+| 33
+|- align=center
+| align=left | [[Esteve Dolsa]]
+| 159
+| 35T
+|}
+
+==References==
+*[https://web.archive.org/web/20060622162855/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+*[https://web.archive.org/web/20200417093555/https://www.sports-reference.com/olympics/countries/AND/summer/1976/ sports-reference]
+
+{{Nations at the 1976 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 1976 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|1976 Summer Olympics]]
+[[Category:1970s in Andorra]]
+[[Category:1976 in Europe]]
+
+
+{{Andorra-sport-stub}}
+{{1976-Olympic-stub}}

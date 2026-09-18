@@ -1,0 +1,194 @@
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 2008
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Beijing]]
+| competitors = '''5'''
+| sports = '''4'''
+| flagbearer = [[Montserrat García Riberaygua]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]], represented by the [[Andorran Olympic Committee]], sent a team of five athletes to compete at the [[2008 Summer Olympics]] in [[Beijing]], [[China]].
+
+==Athletics==
+{{main|Athletics at the 2008 Summer Olympics}}
+
+Two Andorran athletes participated in the athletics events – [[Antoni Bernadó]] in the [[Athletics at the 2008 Summer Olympics – Men's marathon|men's marathon]]<ref name="marathon"/> and [[Montserrat Pujol (sprinter)|Montserrat Pujol]] in the [[Athletics at the 2008 Summer Olympics – Women's 100 metres|women's 100 m]].<ref name="100m"/>
+
+The heats for the women's 100 m took place on 16 August 2008. Pujol contested heat six which took place at 11:25{{nbsp}}am. She finished seventh of nine starts in a time of 12.73 seconds and failed to advance to the semi-finals.<ref name="100m">{{cite web |title=Olympic Games, Beijing (National Stadium) 2008, 100 metres women |url=https://worldathletics.org/competitions/olympic-games/the-xxix-olympic-games-6977748/results/women/100-metres/heats/result |publisher=World Athletics |access-date=1 April 2025}}</ref>
+
+The men's marathon took place eight days later on 24 August 2008 at 7:30{{nbsp}}am. Bernadó completed the race in a time of 2 hours, 26 minutes and 29 seconds to finish 58th overall.<ref name="marathon">{{cite web |title=Olympic Games, Beijing (National Stadium) 2008, Marathon men |url=https://worldathletics.org/competitions/olympic-games/the-xxix-olympic-games-6977748/results/men/marathon/final/result |publisher=World Athletics |access-date=1 April 2025}}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+|-align=center
+|align=left|[[Antoni Bernadó]]
+|align=left|[[Athletics at the 2008 Summer Olympics – Men's marathon|Marathon]]
+|2:26:29
+|58
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Montserrat Pujol (sprinter)|Montserrat Pujol]]
+|align=left|[[Athletics at the 2008 Summer Olympics – Women's 100 metres|100 m]]
+|12.73
+|7
+|colspan=6|did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2008 Summer Olympics}}
+
+One Andorran athlete participated in the canoeing events – [[Montserrat García Riberaygua]] in the [[Canoeing at the 2008 Summer Olympics – Women's slalom K-1|women's slalom K-1]].<ref name="canoe">{{cite web |title=2008 Summer Olympics – Canoe Slalom – Kayak Singles, Slalom, Women |url=https://www.olympedia.org/results/258863 |website=[[Olympedia]] |access-date=1 April 2025}}</ref>
+
+The preliminary round for the women's slalom K-1 was held on 13 August 2008. Over two runs, García Riberaygua's total time was 268.93 seconds as she placed 20th of the 21 competitors and was eliminated from the competition.<ref name="canoe"/>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Preliminary
+!colspan="2"|Semifinal
+!colspan="4"|Final
+|-style="font-size:95%"
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Total
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Total
+!Rank
+|-align=center
+|align=left|[[Montserrat García Riberaygua]]
+|align=left|[[Canoeing at the 2008 Summer Olympics – Women's slalom K-1|Women's K-1]]
+|166.67
+|21
+|102.26
+|11
+|268.93
+|20
+|colspan=6|did not advance
+|}
+
+==Judo==
+{{main|Judo at the 2008 Summer Olympics}}
+
+One Andorran athlete participated in the judo events – [[Daniel García González|Daniel García]] in the [[Judo at the 2008 Summer Olympics – Men's 66 kg|men's −66 kg]].<ref name="judo">{{cite web |title=Judo Men -66kg Contest List |url=http://results.beijing2008.cn:80/WRM/ENG/INF/JU/C75/JUM066000.shtml |archive-url=https://web.archive.org/web/20080811172040/http://results.beijing2008.cn:80/WRM/ENG/INF/JU/C75/JUM066000.shtml |publisher=Beijing 2008 |access-date=1 April 2025 |archive-date=11 August 2008}}</ref>
+
+The men's −66 kg event took place on 10 August 2008. García received a bye in the preliminary round but lost by [[ippon]] to [[Yordanis Arencibia]] of Cuba in the round of 32. In the repechage contest, García lost by ippon to [[Amin El Hady]] of Egypt.<ref name="judo"/>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminary
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-align=center
+|align=left|[[Daniel García González|Daniel García]]
+|align=left|[[Judo at the 2008 Summer Olympics – Men's 66 kg|Men's −66 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Yordanis Arencibia|Arencibia]]|CUB|2008 Summer}}<br />'''L''' 0000–1010
+|colspan=4|did not advance
+|{{flagIOCathlete|[[Amin El Hady|El Hady]]|EGY|2008 Summer}}<br />'''L''' 0001–1001
+|colspan=4|did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2008 Summer Olympics}}
+
+One Andorran athlete participated in the swimming events – [[Hocine Haciane]] in the [[Swimming at the 2008 Summer Olympics – Men's 400 metre individual medley|men's 400 m individual medley]].<ref>{{cite web |title=Competition Results, Olympic Games Beijing 2008 |url=https://www.worldaquatics.com/competitions/657/olympic-games-beijing-2008/results?disciplines= |publisher=World Aquatics |access-date=1 April 2025}}</ref>
+
+The heats for the men's 400 m individual medley took place on 9 August 2008 at 11:33{{nbsp}}am. Haciane contested heat five and started in lane five. He finished first in his heat in a time of 4 minutes and 32 seconds which was ultimately not fast enough to qualify for the final.<ref>{{cite web |title=Competition Results, Olympic Games Beijing 2008 |url=https://www.worldaquatics.com/competitions/657/olympic-games-beijing-2008/results?disciplines=&event=15261555-7416-4d8c-8597-1274c066a39c&unit=heat-5 |publisher=World Aquatics |access-date=1 April 2025}}</ref>
+
+;Men
+{|class=wikitable style=font-size:90%
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Hocine Haciane]]
+|align=left|[[Swimming at the 2008 Summer Olympics – Men's 400 metre individual medley|400 m individual medley]]
+|4:32.00
+|29
+|colspan=2|did not advance
+|}
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2008 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2008 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2008 Summer Olympics]]
+[[Category:2008 in Andorran sport]]

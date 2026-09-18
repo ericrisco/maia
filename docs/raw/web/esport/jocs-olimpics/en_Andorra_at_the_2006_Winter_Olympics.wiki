@@ -1,0 +1,129 @@
+{{good article}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Winter Olympics
+| year = 2006
+| flagcaption = 
+| oldcode = 
+| website =
+| location = [[Turin]]
+| competitors = 3 (3 men)
+| sports = 2
+| flagbearer = [[Alex Antor]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] sent a delegation to compete at the [[2006 Winter Olympics]] in [[Turin]], Italy, from 10–26 February 2006.  The Andorran delegation consisted of three competitors, two in [[alpine skiing]] and one in [[cross-country skiing (sport)|cross-country skiing]]. [[Roger Vidosa]] provided Andorra's best performance at these Games, with a 27th-place finish in the [[Alpine skiing at the 2006 Winter Olympics – Men's slalom|men's slalom alpine skiing]] event.  As of these Games, Andorra has never won an Olympic medal.
+
+==Background==
+The [[Andorran Olympic Committee]] was recognized by the [[International Olympic Committee]] on 31 December 1974.<ref>{{cite web|url=https://www.olympic.org/andorra|title=Andorra – National Olympic Committee (NOC)|publisher=[[International Olympic Committee]]|access-date=5 July 2018|url-status=live|archive-url=https://web.archive.org/web/20180614194959/https://www.olympic.org/andorra|archive-date=14 June 2018}}</ref> They first participated in Olympic competition at the [[1976 Winter Olympics]] and have taken part in every [[Summer Olympics|Summer]] and Winter Olympics since.<ref name=SRAND>{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/|title=Andorra|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20171201033705/https://www.sports-reference.com/olympics/countries/AND/|archive-date=1 December 2017}}</ref> Coming into 2006, Andorra had never won a medal in either the Summer or Winter Olympics.<ref name="SRAND" /> The Andorran delegation to Turin consisted of three competitors: alpine skiers [[Roger Vidosa]] and [[Alex Antor]], and cross-country skier [[François Soulié]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/countries/AND/winter/2006/|title=Andorra at the 2006 Torino Winter Games|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170712090447/http://www.sports-reference.com/olympics/countries/AND/winter/2006/|archive-date=12 July 2017}}</ref> Antor was the flag bearer for the [[2006 Winter Olympics opening ceremony|opening ceremony]],<ref>{{cite web|url=https://www.eurosport.com/olympics/torino/2006/list-of-flag-bearers_sto830383/story.shtml|title=List of flag bearers – Torino 2006 – Olympics|date=10 February 2006|publisher=Eurosport|access-date=29 April 2018|url-status=live|archive-url=https://web.archive.org/web/20180429005607/https://www.eurosport.com/olympics/torino/2006/list-of-flag-bearers_sto830383/story.shtml|archive-date=29 April 2018}}</ref> while a ceremony volunteer carried the flag for the [[2006 Winter Olympics closing ceremony|closing ceremony]].<ref>{{cite web|url=https://www.olympic.org/news/flag-bearers-for-the-closing-ceremony-2|title=Flag Bearers for the Closing Ceremony – Olympic News|date=26 February 2006|publisher=[[International Olympic Committee]]|access-date=29 April 2018|url-status=live|archive-url=https://web.archive.org/web/20161016180938/https://www.olympic.org/news/flag-bearers-for-the-closing-ceremony-2|archive-date=16 October 2016}}</ref>
+
+==Alpine skiing ==
+{{main|Alpine skiing at the 2006 Winter Olympics}}
+
+Alex Antor was 26 years old at the time of the Turin Olympics, and had previously represented [[Andorra at the 2002 Winter Olympics|Andorra]] at the [[2002 Winter Olympics|2002 Salt Lake Olympics]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/an/alex-antor-1.html|title=Alex Antor Bio, Stats, and Results|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20180401213906/https://www.sports-reference.com/olympics/athletes/an/alex-antor-1.html|archive-date=1 April 2018}}</ref> Roger Vidosa was 21 at the time of these Games, and would later go on to represent [[Andorra at the 2010 Winter Olympics|the nation]] at the [[2010 Vancouver Olympics]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/vi/roger-vidosa-1.html|title=Roger Vidosa Bio, Stats, and Results|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170705202054/http://www.sports-reference.com/olympics/athletes/vi/roger-vidosa-1.html|archive-date=5 July 2017}}</ref> On 12 February both competitors took part in the [[Alpine skiing at the 2006 Winter Olympics – Men's downhill|men's downhill]]; Antor finished in a time of 1 minute and 55 seconds, which placed him 39th, and Vidosa completed the course in a time of 1 minute and 59 seconds, good for 50th place, out of 53 skiers to finish the race. The gold medal winning time was 1 minute and 48 seconds, put up by France's [[Antoine Dénériaz]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-downhill.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Downhill|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20180403052226/https://www.sports-reference.com/olympics/winter/2006/ASK/mens-downhill.html|archive-date=3 April 2018}}</ref>
+
+On 14 February, both men participated in the three-run [[Alpine skiing at the 2006 Winter Olympics – Men's combined|combined]] event. Antor finished the downhill portion in a time of 1 minute and 43 seconds, but failed to finish the first of the two slalom runs and was eliminated from the competition.<ref name="COMDH">{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined-downhill.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Combined Downhill|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170710065824/http://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined-downhill.html|archive-date=10 July 2017}}</ref><ref name="SOMSL">{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined-slalom.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Combined Slalom|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170710065707/http://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined-slalom.html|archive-date=10 July 2017}}</ref> Vidosa finished the downhill run in 1 minute and 46 seconds, and the two slalom runs in 48 seconds and 47 seconds respectively.<ref name="COMDH" /><ref name="SOMSL" /> This meant his overall time was 3 minutes and 21 seconds for the three runs, which put him into 28th place, behind [[Ted Ligety]]'s gold medal time of 3 minutes and 9 seconds.<ref name="Men's Combined" />
+
+Antor took part in the [[Alpine skiing at the 2006 Winter Olympics – Men's super-G|super-G]] on 18 February, but failed to finish the race.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-super-g.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Super G|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20180403052130/https://www.sports-reference.com/olympics/winter/2006/ASK/mens-super-g.html|archive-date=3 April 2018}}</ref> On 25 February both men skied the two-run [[Alpine skiing at the 2006 Winter Olympics – Men's slalom|slalom]]. Antor failed to finish the first run, while Vidosa finished it in a time of 59.8 seconds.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom-run-1.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Slalom Run 1|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170704110615/http://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom-run-1.html|archive-date=4 July 2017}}</ref> He would improve his time in the afternoon, completing his second run in 54.1 seconds.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom-run-2.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Slalom Run 2|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170709092037/http://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom-run-2.html|archive-date=9 July 2017}}</ref> Vidosa's total time of 1 minute and 54 seconds placed him 27th, behind [[Benjamin Raich]]'s gold medal winning time of 1 minute and 43 seconds.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Slalom|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20180405032403/https://www.sports-reference.com/olympics/winter/2006/ASK/mens-slalom.html|archive-date=5 April 2018}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="5"|Final
+|-
+!Run 1
+!Run 2
+!Run 3
+!Total
+!Rank
+|-
+|rowspan=4|[[Alex Antor]]
+|[[Alpine skiing at the 2006 Winter Olympics – Men's downhill|Men's downhill]]
+|colspan=3 align="center"|n/a
+|align="center"|1:55.01
+|align="center"|39
+|-
+|[[Alpine skiing at the 2006 Winter Olympics – Men's super-G|Men's super-G]]
+|colspan=5 align="center"|did not finish
+|-
+|[[Alpine skiing at the 2006 Winter Olympics – Men's slalom|Men's slalom]]
+|colspan=5 align="center"|did not finish
+|-
+|[[Alpine skiing at the 2006 Winter Olympics – Men's combined|Men's combined]]
+|align="center"|1:43.84
+|colspan=5 align="center"|did not finish
+|-
+|rowspan=3|[[Roger Vidosa]] 
+|[[Alpine skiing at the 2006 Winter Olympics – Men's downhill|Men's downhill]]
+|colspan=3 align="center"|n/a
+|align="center"|1:59.24
+|align="center"|50
+|-
+|[[Alpine skiing at the 2006 Winter Olympics – Men's slalom|Men's slalom]]
+|align="center"|59.87
+|align="center"|54.16
+|align="center"|n/a
+|align="center"|1:54.03
+|align="center"|27
+|-
+|[[Alpine skiing at the 2006 Winter Olympics – Men's combined|Men's combined]]
+|align="center"|1:46.09
+|align="center"|48.23
+|align="center"|47.05
+|align="center"|3:21.37
+|align="center"|28
+|}
+
+Note: In the men's combined, run 1 is the downhill, and runs 2 and 3 are the slalom.<ref name="Men's Combined">{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined.html|title=Alpine Skiing at the 2006 Torino Winter Games: Men's Combined|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20180405032453/https://www.sports-reference.com/olympics/winter/2006/ASK/mens-combined.html|archive-date=5 April 2018}}</ref>
+
+==Cross-country skiing ==
+{{main|Cross-country skiing at the 2006 Winter Olympics}}
+
+François Soulié was 27 years old at the time of these Olympics, and would represent Andorra again four years later in Vancouver.<ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/so/francesc-soulie-1.html|title=Francesc Soulié Bio, Stats, and Results|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170712103720/http://www.sports-reference.com/olympics/athletes/so/francesc-soulie-1.html|archive-date=12 July 2017}}</ref>  On 12 February, he took part in the [[Cross-country skiing at the 2006 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]] event, which consisted of 15 kilometers of classical style immediately followed by 15 kilometers of freestyle racing, with a timed pit stop in between to change skis.  Soulié finished the first 15&nbsp;km in a time of 45 minute and 19 seconds, but was unable to finish the rest of the race.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/CCS/mens-30-km-skiathlon.html|title=Cross Country Skiing at the 2006 Torino Winter Games: Men's 30 km Skiathlon|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170703153633/http://www.sports-reference.com/olympics/winter/2006/CCS/mens-30-km-skiathlon.html|archive-date=3 July 2017}}</ref> Five days later, he finished the [[Cross-country skiing at the 2006 Winter Olympics – Men's 15 kilometre classical|Men's 15 km classical]] in a time of 44 minutes and 42 seconds, ranking him 71st out of 96 classified finishers.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/CCS/mens-15-kilometres.html|title=Cross Country Skiing at the 2006 Torino Winter Games: Men's 15 kilometres|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170803134351/https://www.sports-reference.com/olympics/winter/2006/CCS/mens-15-kilometres.html|archive-date=3 August 2017}}</ref>  His last event, on 26 February, was the [[Cross-country skiing at the 2006 Winter Olympics – Men's 50 kilometre freestyle|50 kilometer freestyle]].  He posted a time of 1 hour and 50 minutes through three checkpoints, but could not finish the last part of the race.<ref>{{cite web|url=https://www.sports-reference.com/olympics/winter/2006/CCS/mens-50-kilometres.html|title=Cross Country Skiing at the 2006 Torino Winter Games: Men's 50 kilometres|publisher=Sports Reference|access-date=5 July 2018|url-status=dead|archive-url=https://web.archive.org/web/20170705130910/http://www.sports-reference.com/olympics/winter/2006/CCS/mens-50-kilometres.html|archive-date=5 July 2017}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|-
+!Total
+!Rank
+|-
+|rowspan=3|[[François Soulié]]
+|[[Cross-country skiing at the 2006 Winter Olympics – Men's 15 kilometre classical|Men's 15 km classical]]
+|align="center"| 44:42.6
+|align="center"| 71
+|-
+|[[Cross-country skiing at the 2006 Winter Olympics – Men's 30 kilometre pursuit|Men's 30 km pursuit]]
+|colspan=2 align="center"| Did not finish
+|-
+|[[Cross-country skiing at the 2006 Winter Olympics – Men's 50 kilometre freestyle|Men's 50 km freestyle]]
+|colspan=2 align="center"| Did not finish
+|}
+
+==See also==
+* [[Andorra at the 2006 Winter Paralympics]]
+
+==References==
+{{reflist}}
+
+{{Nations at the 2006 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2006 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|2006 Winter Olympics]]
+[[Category:2006 in Andorran sport|Winter Olympics]]

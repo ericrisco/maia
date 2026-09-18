@@ -1,0 +1,162 @@
+{{Use dmy dates|date=January 2020}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 2016
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Rio de Janeiro]]
+| competitors = 5
+| sports = 4
+| flagbearer = [[Laura Sallés]] (opening)<ref name=flag-bearer>{{cite news|title=Laura Sallés serà l'abanderada dels Jocs Olímpics a Rio|trans-title=Laura Sallés will be the flag bearer at the Rio Olympics|url=http://www.ara.ad/societat/Laura-Salles-Jocs-Olimpics-Rio_0_1621038078.html|language=ca|publisher=[[Ara (newspaper)|Ara]]|date=28 July 2016|access-date=28 July 2016}}</ref><br />[[Pol Moya]] (closing)
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] competed at the [[2016 Summer Olympics]] in [[Rio de Janeiro]], Brazil, from 5 to 21 August 2016. This was the nation's eleventh consecutive appearance at the Summer Olympics.
+
+The Andorra Olympic Committee ({{langx|ca|[[Comitè Olímpic Andorrà]]}}) sent a total of five athletes, two men and three women, to the Games, competing in athletics, judo, shooting, and swimming. Four of them made their maiden appearance at these Games, with swimmer [[Mónica Ramírez]] being the only returning athlete from London 2012. Half-middleweight judoka [[Laura Sallés]] was the nation's flag bearer in the opening ceremony.<ref name=flag-bearer/> Andorra, however, has yet to win its first ever Olympic medal.
+
+==Athletics==
+{{main|Athletics at the 2016 Summer Olympics}} 
+Andorra received a [[universality slot]] from [[IAAF]] to send a male athlete to the Olympics.<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|access-date=18 April 2015}}</ref><ref>{{cite web|title=IAAF Games of the XXX Olympiad – Rio 2016 Entry Standards|url=http://www.insidethegames.biz/media/file/559/IAAF%20Rio%202016%20standards.pdf|publisher=[[IAAF]]|access-date=18 April 2015}}</ref>
+
+{{smalldiv|1=<nowiki/>
+
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track & road events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat 
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Pol Moya]]
+|align=left|[[Athletics at the 2016 Summer Olympics – Men's 800 metres|Men's 800 m]]
+|1:48.88
+|6
+|colspan=4|Did not advance
+|}
+
+==Judo==
+{{main|Judo at the 2016 Summer Olympics|Judo at the 2016 Summer Olympics – Qualification}} 
+Andorra received an invitation from the Tripartite Commission to send a judoka competing in the women's half-middleweight category (63 kg) to the Olympics.<ref>{{cite news|title=Laura Sallés anirà als Jocs Olímpics de Rio|trans-title=Laura Salles will be at the Olympic Games in Rio|language=ca|url=http://www.andorradifusio.ad/Esports/laura-salles-anira-als-jocs-olimpics-de-rio#.V219HpPxdvw|publisher=Andorra Difusio|date=24 June 2016|access-date=5 July 2016}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Laura Sallés]] 
+|align=left|[[Judo at the 2016 Summer Olympics – Women's 63 kg|Women's −63 kg]]
+|{{flagIOCathlete|[[Katharina Haecker (judoka)|Haecker]]|AUS|2016 Summer}}<br />'''L''' 000–100
+|colspan=6|Did not advance
+|}
+
+==Shooting==
+{{main|Shooting at the 2016 Summer Olympics|Shooting at the 2016 Summer Olympics – Qualification}} 
+Andorra received an invitation from the Tripartite Commission to send a women's air rifle shooter to the Olympics.<ref>{{cite web|url=http://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|title=Quota Places by Nation and Number|date=30 May 2016|website=www.issf-sports.org/|publisher=[[International Shooting Sport Federation|ISSF]]|access-date=30 May 2016}}</ref><ref>{{cite news|title=Esther Barrugués, primera representant andorrana als Jocs de Rio |trans-title=Esther Barrugués becomes the first to represent Andorra in Rio |language=ca |url=http://forum.ad/2016/05/11/esther-barrugues-primera-representant-andorrana-als-jocs-de-rio/ |publisher=Forum.ad |date=11 May 2016 |access-date=16 May 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160604231953/http://forum.ad/2016/05/11/esther-barrugues-primera-representant-andorrana-als-jocs-de-rio/ |archive-date= 4 June 2016 }}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Esther Barrugués]]
+|align=left|[[Shooting at the 2016 Summer Olympics – Women's 10 metre air rifle|Women's 10 m air rifle]]
+|396.9
+|51
+|colspan=2|Did not advance
+|}
+<small>Qualification Legend: '''Q''' = Qualify for the next round; '''q''' = Qualify for the bronze medal (shotgun)</small>
+
+==Swimming==
+{{main|Swimming at the 2016 Summer Olympics}}
+Andorra received a [[Universality slot|universality invitation]] from [[FINA]] to send two swimmers (one male and one female) to the Olympics.<ref>{{cite web|title=Swimming World Rankings |url=http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |publisher=[[FINA]] |access-date=14 March 2015 |url-status=dead |archive-url=https://web.archive.org/web/20110106131744/http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |archive-date= 6 January 2011 |df=dmy }}</ref><ref>{{cite news|title=Rio 2016 – FINA Swimming Qualification System |url=http://www.fina.org/H2O/docs/events/rio2016/2014-07%20-%20Rio%202016%20-%20Qualification%20System%20-%20FINAL%20-%20Swimming%20-%20EN.pdf  |work=[[Rio 2016]] |publisher=[[FINA]] |access-date=23 January 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150221025939/http://www.fina.org/H2O/docs/events/rio2016/2014-07%20-%20Rio%202016%20-%20Qualification%20System%20-%20FINAL%20-%20Swimming%20-%20EN.pdf |archive-date=21 February 2015 }}</ref><ref>{{cite news|title=La FINA confirma la plaça per a Pol Arias i Mònica Ramírez als Jocs de Rio|trans-title=FINA confirm places for Pol Arias and Mònica Ramírez at the Rio Games|url=http://www.diariandorra.ad/noticies/esports/2016/07/13/la_fina_confirma_placa_per_pol_arias_monica_ramirez_als_jocs_rio_104460_1128.html|language=ca|access-date=17 July 2016|publisher=[[Diari d'Andorra]]|date=13 July 2016}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Pol Arias]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 400 metre freestyle|Men's 400 m freestyle]]
+|4:21.16
+|49
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Mónica Ramírez]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 100 metre freestyle|Women's 100 m freestyle]]
+|colspan=2|{{abbr|DNS|Did not start}}
+|colspan=4|Did not advance
+|}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{SR/Olympics country at games|archive=20180721105639}}
+
+{{Nations at the 2016 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:2016 in Andorran sport|Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2016]]
+[[Category:Nations at the 2016 Summer Olympics]]

@@ -1,0 +1,202 @@
+{{Use dmy dates|date=October 2023}}
+{{infobox country at games
+| NOC = AND
+| NOCname = [[Andorran Olympic Committee]]
+| games = Summer Olympics
+| year = 2012
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[London]]
+| competitors = 6
+| sports = 4
+| flagbearer = [[Joan Tomàs Roca]] (opening)<br />[[Antoni Bernadó]] (closing)
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1976
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Andorra]] competed at the [[2012 Summer Olympics]] in [[London]], [[United Kingdom]] from 27 July to 12 August 2012. This nation marked its tenth appearance at the Olympic games.
+
+The Andorra Olympic Committee ({{langx|ca|[[Comitè Olímpic Andorrà]]}}) sent a total of six athletes to the Games, sharing the same record, both by gender and by overall, with [[2004 Athens Olympics|Athens]]. Sprinter [[Cristina Llovera]] was the youngest athlete of the team, at age 15. Meanwhile, trap shooter [[Joan Tomàs Roca]], the oldest of the team at age 61, competed at his fifth Olympics since its national debut in [[1976 Summer Olympics|Montreal]]. For being the team's most experienced member, Roca was appointed by the committee to be the nation's flag bearer at the opening ceremony. Andorra, however, has yet to win its first Olympic medal.
+
+==Athletics==
+{{main|Athletics at the 2012 Summer Olympics}}
+
+Andorran athletes have so far achieved qualifying standards in the following athletics events (up to a maximum of 3 athletes in each event at the 'A' Standard, and 1 at the 'B' Standard):<ref>{{cite web |title=iaaf.org – Top Lists |url=http://www.iaaf.org/statistics/toplists/index.html |publisher=IAAF |access-date=4 June 2011 |archive-url=https://web.archive.org/web/20110604220856/http://www.iaaf.org/statistics/toplists/index.html |archive-date=4 June 2011  |url-status=live}}</ref><ref>{{citation |title=IAAF Games of the XXX Olympiad – London 2012 ENTRY STANDARDS |url=http://www.iaaf.org/mm/Document/Statistics/Standards/05/97/61/20110415082248_httppostedfile_EntryStandards_London2012_24135.pdf |publisher=IAAF |access-date=4 June 2011}}</ref>
+
+{{smalldiv|1=
+;Key
+* '''Note'''–Ranks given for track events are within the athlete's heat only
+* '''Q''' = Qualified for the next round
+* '''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+* '''NR''' = National record
+* N/A = Round not applicable for the event
+* Bye = Athlete not required to compete in round}}
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="2" | Final
+|- style="font-size:95%"
+! Result
+! Rank
+|- align=center
+| align=left | [[Antoni Bernadó]]
+| align=left | [[Athletics at the 2012 Summer Olympics – Men's marathon|Marathon]]
+| 2:28:34
+| 74
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="2" | Heat
+! colspan="2" | Quarterfinal
+! colspan="2" | Semifinal
+! colspan="2" | Final
+|- style="font-size:95%"
+! Result
+! Rank
+! Result
+! Rank
+! Result
+! Rank
+! Result
+! Rank
+|- align=center
+| align=left | [[Cristina Llovera]]
+| align=left | [[Athletics at the 2012 Summer Olympics – Women's 100 metres|100 m]]
+| 12.78
+| 5
+| colspan=6 | did not advance
+|}
+
+==Judo==
+{{main|Judo at the 2012 Summer Olympics}}
+
+Andorra has qualified 1 judoka.
+
+{| class="wikitable" style="font-size:90%"
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! Round of 64
+! Round of 32
+! Round of 16
+! Quarterfinals
+! Semifinals
+! Repechage
+! colspan=2 | Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+! Opposition<br />Result
+! Opposition<br />Result
+! Opposition<br />Result
+! Opposition<br />Result
+! Opposition<br />Result
+! Opposition<br />Result
+! Opposition<br />Result
+! Rank
+|- align=center
+| align=left | [[Daniel García González|Daniel García]]
+| align=left | [[Judo at the 2012 Summer Olympics – Men's 66&nbsp;kg|Men's −66 kg]]
+| {{n/a|Bye}}
+| {{flagIOCathlete|[[Abraham Acevedo|Acevedo]]|PAR|2012 Summer}}<br />'''W''' 0020–0001
+| {{flagIOCathlete|[[Sugoi Uriarte|Uriarte]]|ESP|2012 Summer}}<br />'''L''' 0002–0013
+| colspan=5 | did not advance
+|}
+
+==Shooting==
+{{main|Shooting at the 2012 Summer Olympics}}
+
+;Men
+{| class="wikitable" style="font-size:90%"
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan=2 | Qualification
+! colspan=2 | Final
+|- style="font-size:95%"
+! Points
+! Rank
+! Points
+! Rank
+|- align=center
+| align=left | [[Joan Tomàs Roca]]
+| align=left | [[Shooting at the 2012 Summer Olympics – Men's trap|Trap]]
+| 103
+| 33
+| colspan=2 | did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2012 Summer Olympics}}
+
+;Men
+{| class=wikitable style="font-size:90%"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="2" | Heat
+! colspan="2" | Semifinal
+! colspan="2" | Final
+|- style="font-size:95%"
+! Time
+! Rank
+! Time
+! Rank
+! Time
+! Rank
+|- align=center
+| align=left | [[Hocine Haciane]]
+| align=left | [[Swimming at the 2012 Summer Olympics – Men's 200 metre butterfly|200 m butterfly]]
+| 2:06.37
+| 37
+| colspan=4 | did not advance
+|}
+
+;Women
+{| class=wikitable style="font-size:90%"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="2" | Heat
+! colspan="2" | Semifinal
+! colspan="2" | Final
+|- style="font-size:95%"
+! Time
+! Rank
+! Time
+! Rank
+! Time
+! Rank
+|- align=center
+| align=left | [[Mónica Ramírez]]
+| align=left | [[Swimming at the 2012 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]]
+| 1:07.72
+| 42
+| colspan=4 | did not advance
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|url=http://www.london2012.com/country/andorra/athletes/index.html |title="Andorra – Athletes" at the London 2012 Olympics |access-date=2016-03-18 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20120826064413/http://www.london2012.com/country/andorra/athletes/index.html |archive-date=26 August 2012 |df=dmy }}
+
+{{Nations at the 2012 Summer Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2012 Summer Olympics]]
+[[Category:Andorra at the Summer Olympics by year|2012]]
+[[Category:2012 in Andorran sport]]

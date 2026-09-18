@@ -1,0 +1,225 @@
+{{Use dmy dates|date=February 2018}}
+{{Infobox country at games
+| NOC               = AND
+| year              = 2018
+| games             = Winter Olympics
+| games_link        = 2018 Winter Olympics
+| flagcaption       = [[Flag of Andorra]]
+| alt               = Refer to caption
+| NOCname           = [[Andorran Olympic Committee]]
+| website           = {{url|www.coa.ad}} {{in lang|ca}}
+| location          = [[Pyeongchang County|Pyeongchang]], South Korea
+| date              = 9–25 February 2018
+| competitors       = 5
+| competitors_men   = 4
+| competitors_women = 1
+| sports            = 3
+| events            = 
+| flagbearer        = [[Irineu Esteve Altimiras]]
+| flagbearer_open   = 
+| flagbearer_close  = 
+| rank              = 
+| gold              = 0
+| silver            = 0
+| bronze            = 0
+| officials         = 
+| appearances       = auto
+}}
+[[Andorra]] competed at the [[2018 Winter Olympics]] in [[Pyeongchang]], [[South Korea]], which were held from 9 to 25 February 2018. The country's participation in Pyeongchang marked its twelfth appearance at the Winter Olympics since its debut in [[1976 Winter Olympics|1976]]. The athlete delegation of the country was composed of five people: [[Mireia Gutiérrez]], [[Marc Oliveras]], and [[Joan Verdú (alpine skier)|Joan Verdú]] in alpine skiing, [[Irineu Esteve Altimiras]] in cross-country skiing, and [[Lluís Marín]] in snowboarding. They all failed to medal. Thus, Andorra has yet to win a Winter Olympic medal.
+
+==Background==
+The [[2018 Winter Olympics]] were held in [[Pyeongchang]], [[South Korea]], from 9 to 25 February 2018.<ref>{{cite web|url=https://www.olympics.com/en/olympic-games/pyeongchang-2018 |archive-url=https://web.archive.org/web/20250322161324/https://www.olympics.com/en/olympic-games/pyeongchang-2018 |archive-date=22 March 2025 |access-date=17 June 2025 |work=[[International Olympic Committee]] |title=PyeongChang 2018 |url-status=live }}</ref> This edition marked the nation's twelfth appearance at the [[Winter Olympics]] since its debut at the [[1976 Winter Olympics]] in [[Innsbruck]], Austria. The nation had never won a medal at the Winter Olympics, with its best performance coming from alpine skier [[Vicky Grau]] placing 19th in the [[Alpine skiing at the 1998 Winter Olympics – Women's slalom|women's slalom]] at the [[1998 Winter Olympics]] in [[Nagano, Nagano|Nagano]], Japan.<ref name=olympedia>{{cite web|url=https://www.olympedia.org/countries/AND |archive-url=https://web.archive.org/web/20250203113021/https://www.olympedia.org/countries/AND |archive-date=3 February 2025 |access-date=17 June 2025 |work=[[Olympedia]] |title=Andorra Overview |url-status=live }}</ref>
+
+===Opening and closing ceremonies===
+The Andorran delegation came in 47th out of the 91 [[National Olympic Committee]]s in the [[2018 Winter Olympics Parade of Nations]] within the [[2018 Winter Olympics opening ceremony|opening ceremony]].<ref>{{cite web|title=Opening Ceremony Flagbearers - Olympic Winter Games, PyeongChang 2018|url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Games/Winter-Games/Games-PyeongChang-2018-Winter-Olympic-Games/Ceremonies/PyeongChang-2018-Opening-Ceremony-Flagbearers.pdf#_ga=2.141341425.2132925313.1518270684-1570468165.1518270684 |access-date=17 June 2025 |url-status=dead |archive-url=https://web.archive.org/web/20180228001620/https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Games/Winter-Games/Games-PyeongChang-2018-Winter-Olympic-Games/Ceremonies/PyeongChang-2018-Opening-Ceremony-Flagbearers.pdf |archive-date=28 February 2018|date=9 February 2018|work=[[International Olympic Committee]]}}</ref> [[Irineu Esteve Altimiras]] solely [[List of flag bearers for Andorra at the Olympics|held the flag for the delegation]] in the parade.<ref>{{cite web|url=https://www.boston.com/sports/olympics/2018/02/10/what-every-country-wore-to-the-2018-winter-olympics-opening-ceremony/ |archive-url=https://web.archive.org/web/20240102061455/https://www.boston.com/sports/olympics/2018/02/10/what-every-country-wore-to-the-2018-winter-olympics-opening-ceremony/ |archive-date=2 January 2024 |title=What every country wore to the 2018 Winter Olympics opening ceremony |access-date=17 June 2025 |work=[[Boston.com]] |last1=Dunphy |first1=Mark |date=10 February 2018 |url-status=live }}</ref> At the [[2018 Winter Olympics closing ceremony|closing ceremony]], she held the flag again.<ref>{{cite web|url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Games/Winter-Games/Games-PyeongChang-2018-Winter-Olympic-Games/Ceremonies/PyeongChang-2018-Closing-Ceremony-Flag-Bearers.pdf#_ga=2.113408207.917758768.1519568732-1155673656.1518304175 |archive-url=https://web.archive.org/web/20230418130335/https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/Games/Winter-Games/Games-PyeongChang-2018-Winter-Olympic-Games/Ceremonies/PyeongChang-2018-Closing-Ceremony-Flag-Bearers.pdf#_ga=2.113408207.917758768.1519568732-1155673656.1518304175 |archive-date=18 April 2023 |access-date=17 June 2025 |title=Closing Ceremony Flagbearers - Olympic Winter Games, PyeongChang 2018  |work=[[International Olympic Committee]] |url-status=live }}</ref>
+==Competitors==
+{| class="wikitable" style="text-align:center; font-size: 95%"
+|+ List of Andorran competitors at the 2018 Winter Olympics
+|-
+! width=160|Sport !! width=60|Men !! width=60|Women !! width=60|Total
+|-
+| align=left|[[Alpine skiing at the 2018 Winter Olympics|Alpine skiing]]
+|2||1||3
+|-
+| align=left|[[Cross-country skiing at the 2018 Winter Olympics|Cross-country skiing]]
+|1||0||1
+|-
+| align=left|[[Snowboarding at the 2018 Winter Olympics|Snowboarding]]
+|1||0||1
+|-
+! Total ||4||1||5
+|}
+
+== Alpine skiing ==
+{{main article|Alpine skiing at the 2018 Winter Olympics|Alpine skiing at the 2018 Winter Olympics – Qualification}}
+Andorra qualified three alpine skiers.<ref>{{cite web |url=https://data.fis-ski.com/dynamic/olympic-quotas-list.html?sectorcode=al&listid=2018 |title=Alpine Skiing Quota List for Olympic Games 2018 |date=12 December 2017 |publisher=[[International Ski Federation]] |access-date=16 December 2017 |archive-url=https://web.archive.org/web/20180209194511/https://data.fis-ski.com/dynamic/olympic-quotas-list.html?sectorcode=al&listid=2018 |archive-date=9 February 2018 |url-status=dead }}</ref> The alpine skiing events were held at the [[Yongpyong Alpine Centre]]. [[Marc Oliveras]] and [[Joan Verdú (alpine skier)|Joan Verdú]] first competed in the [[Alpine skiing at the 2018 Winter Olympics – Men's combined|men's combined]] on 13 February, placing 29th and 27th respectively. The winner of the event was [[Marcel Hirscher]] of Austria.<ref>{{cite web|url=http://www.olympedia.org/results/9000108 |archive-url=https://web.archive.org/web/20250124002442/http://www.olympedia.org/results/9000108 |archive-date=24 January 2025 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=Combined, Men }}</ref> Two days later, the two competed at the [[Alpine skiing at the 2018 Winter Olympics – Men's downhill|men's downhill]]. Oliveras did not finish his run though Verdú placed 37th. The winner of the event was [[Aksel Lund Svindal]] of Norway.<ref>{{cite web|url=https://www.olympedia.org/results/9000100 |archive-url=https://web.archive.org/web/20250119141555/https://www.olympedia.org/results/9000100 |archive-date=19 January 2025 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=Downhill, Men }}</ref> 
+
+On 15 February, [[Mireia Gutiérrez]] competed in her only event, the [[Alpine skiing at the 2018 Winter Olympics – Women's slalom|women's slalom]]. She placed 30th. The winner of the event was [[Frida Hansdotter]] of Sweden.<ref>{{cite web|url=http://www.olympedia.org/results/9000116 |archive-url=https://web.archive.org/web/20250119002510/http://www.olympedia.org/results/9000116 |archive-date=19 January 2025 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=Slalom, Women }}</ref> 
+
+The [[Alpine skiing at the 2018 Winter Olympics – Men's super-G|men's super-G competition]] on 16 February would be the last one for Oliveras. He placed 33th while Verdú placed 28th. The winner of the event was [[Matthias Mayer]] of Austria.<ref>{{cite web|url=http://www.olympedia.org/results/9000101 |archive-url=https://web.archive.org/web/20240813051006/http://www.olympedia.org/results/9000101 |archive-date=13 August 2024 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=Super G, Men }}</ref> Verdú's last event would be the [[Alpine skiing at the 2018 Winter Olympics – Men's giant slalom|men's giant slalom]] though he did not finish in his event. The winner of the event was Hirscher.<ref>{{cite web|url=http://www.olympedia.org/results/9000102 |archive-url=https://web.archive.org/web/20250125230516/http://www.olympedia.org/results/9000102 |archive-date=25 January 2025 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=Giant Slalom, Men }}</ref> 
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Run 1
+!colspan=2|Run 2
+!colspan=2|Total
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=3|[[Marc Oliveras]]
+|align=left|[[Alpine skiing at the 2018 Winter Olympics – Men's combined|Men's combined]]
+|1:21.67
+|31
+|52.97
+|30
+|2:14.64
+|29
+|-align=center
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Men's downhill|Men's downhill]]
+|colspan=4 {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Men's super-G|Men's super-G]]
+|colspan=4 {{n/a}}
+|1:27.84	
+|33
+|-align=center
+|align=left rowspan=4|[[Joan Verdú (alpine skier)|Joan Verdú]]
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Men's giant slalom|Men's giant slalom]]
+|1:12.06	
+|33
+|colspan=4|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Men's downhill|Men's downhill]]
+|colspan=4 {{n/a}}
+|1:44.65
+|37
+|-align=center
+|align=left|[[Alpine skiing at the 2018 Winter Olympics – Men's combined|Men's combined]]
+|1:23.01
+|50
+|49.53
+|21
+|2:12.54
+|27
+|-align=center
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Men's super-G|Men's super-G]]
+|colspan=4 {{n/a}}
+|1:26.86	
+|28
+|-align=center
+|align=left|[[Mireia Gutiérrez]]
+|align=left| [[Alpine skiing at the 2018 Winter Olympics – Women's slalom|Women's slalom]]
+|53.22
+|34
+|52.84
+|31
+|1:46:06
+|30
+|}
+
+== Cross-country skiing ==
+{{main article|Cross-country skiing at the 2018 Winter Olympics|Cross-country skiing at the 2018 Winter Olympics – Qualification}}
+The cross-country skiing events were held at the [[Alpensia Cross-Country Skiing Centre and Alpensia Biathlon Centre|Alpensia Cross-Country Skiing Centre]]. [[Irineu Esteve Altimiras]] first competed in the [[Cross-country skiing at the 2018 Winter Olympics – Men's 30 kilometre skiathlon|men's 30 kilometre skiathlon]] on 11 February. He finished the 15 kilometre classic of his event in a time of 43:16.5 and the 15 kilometre freestyle in 38:31.2, placing him with a total of 1:21:47.7 and 46th place. The winner of the event was [[Simen Hegstad Krüger]] of Norway.<ref>{{cite web|url=https://www.olympedia.org/results/9000279 |archive-url=https://web.archive.org/web/20250119151929/https://www.olympedia.org/results/9000279 |archive-date=19 January 2025 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=30 kilometres Skiathlon, Men }}</ref>
+
+Altimiras' next competition was the [[Cross-country skiing at the 2018 Winter Olympics – Men's 15 kilometre freestyle|men's 15 km freestyle]] on 16 February. He recorded a time of 35:40.7, placing 27th, while the winner of the event was [[Dario Cologna]] of Switzerland.<ref>{{cite web|url=http://www.olympedia.org/results/9000277 |archive-url=https://web.archive.org/web/20241215214652/http://www.olympedia.org/results/9000277 |archive-date=15 December 2024 |access-date=18 June 2025 |work=[[Olympedia]] |url-status=live |title=15 kilometres (Freestyle), Men }}</ref> Altimiras' last competition was the [[Cross-country skiing at the 2018 Winter Olympics – Men's 50 kilometre classical|men's 50 kilometre classical]] on 24 February. He recorded a time of 2:19:08.3, placing 34th, while the winner of the event was [[Iivo Niskanen]] of Finland.<ref>{{cite web|url=https://www.olympedia.org/results/9000278 |archive-url=https://web.archive.org/web/20240523145433/https://www.olympedia.org/results/9000278 |archive-date=23 May 2024 |work=[[Olympedia]] |url-status=live |access-date=18 June 2025 |title=50 kilometres (Mass Start, Classical), Men }}</ref> 
+;Distance
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Classical
+!colspan=2|Freestyle
+!colspan=3|Total
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Deficit
+!Rank
+|-align=center
+|align=left rowspan=3|[[Irineu Esteve Altimiras]]
+|align=left|[[Cross-country skiing at the 2018 Winter Olympics – Men's 15 kilometre freestyle|Men's 15 km freestyle]]
+|colspan=4 {{n/a}}
+|35:40.7	
+| +1:56.8
+|27
+|-align=center
+|align=left|[[Cross-country skiing at the 2018 Winter Olympics –  Men's 30 kilometre skiathlon|Men's 30 km skiathlon]]
+|43:16.5
+|45
+|38:31.2
+|46
+|1:21:47.7
+| +5:27.7
+|46
+|-align=center
+|align=left|[[Cross-country skiing at the 2018 Winter Olympics – Men's 50 kilometre classical|Men's 50 km classical]]
+|colspan=4 {{n/a}}
+|2:19:08.3	
+| +10:46.2
+|34
+|}
+
+==Snowboarding==
+{{main|Snowboarding at the 2018 Winter Olympics}}
+The snowboarding events were held at [[Bokwang Phoenix Park]] and [[Alpensia Ski Jumping Stadium]]. [[Lluís Marín]] competed in the [[Snowboarding at the 2018 Winter Olympics – Men's snowboard cross|men's snowboard cross]] on 15 February. His first run was in a time of 1:15.47 while his second time was at 1:15.37. He did not advance further, placing him 30th. The winner of the event was [[Pierre Vaultier]] of France.<ref>{{cite web|url=https://www.olympedia.org/results/9000909 |archive-url=https://web.archive.org/web/20250123031753/https://www.olympedia.org/results/9000909 |archive-date=23 January 2025 |work=[[Olympedia]] |url-status=live |access-date=18 June 2025 |title=Cross, Men }}</ref>
+
+;Snowboard cross
+{|class=wikitable style=font-size:90%
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=6|Seeding
+!rowspan=2|1/8 final
+!rowspan=2|Quarterfinal
+!rowspan=2|Semifinal
+!rowspan=2 colspan=2|Final
+|-style=font-size:95%
+!colspan=2|Run 1
+!colspan=2|Run 2
+!rowspan=2|Best
+!rowspan=2|Seed
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Position
+!Rank
+|-align=center
+|align=left|[[Lluís Marín]]
+|align=left|[[Snowboarding at the 2018 Winter Olympics – Men's snowboard cross|Men's snowboard cross]]
+|1:15.47	
+|26
+|1:15.37
+|6
+|1:15.37
+|30
+|5
+|colspan=4|Did not advance
+|}
+
+==See also==
+*[[Andorra at the 2018 Summer Youth Olympics]]
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2018 Winter Olympics}}
+{{Country at games navbox|Andorra|Olympics}}
+
+[[Category:Nations at the 2018 Winter Olympics]]
+[[Category:Andorra at the Winter Olympics by year|2018]]
+[[Category:2018 in Andorran sport]]
