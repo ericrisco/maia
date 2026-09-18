@@ -70,8 +70,8 @@ membre de l'Associació Francesa Internacional d'Escacs a més de la FIDE.**
 > això és, en si mateix, un defecte: **un buit comptat dos cops sembla dos buits,
 > i la feina per tancar-lo és la mateixa.** S'anota on és el bessó de cadascun.
 
-- **Sis campions d'Andorra sense fitxa**: Serni Ribera (3 títols), Daniel José
-  Queraltó (2), Robert Alomà (2+1), Joan Mellado, Jordi Fluvià i Felipe Porras.
+- ~~**Sis campions d'Andorra sense fitxa**: Serni Ribera (3 títols), Daniel José
+  Queraltó (2), Robert Alomà (2+1), Joan Mellado, Jordi Fluvià i Felipe Porras.~~
   — **`parcial`.** Vegeu [el campionat](./el-campionat.md#els-buits), on el
   18-09-2026 s'ha corregit el mateix bullet duplicat: **tots sis hi són**, amb
   el que se'n sap. **El que segueix obert**: **els anys de naixement i la

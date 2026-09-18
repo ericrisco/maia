@@ -108,7 +108,7 @@ abandonament: és abandonament i musealització alhora.**
 2. **Quines cases** conserven el «tipisme» i quins àpats.
 3. La **recuperació de receptes de les padrines**: qui la va fer, hi ha
    receptaris publicats?
-4. **Quantes** places hoteleres hi havia als seixanta. — **`parcial` el
+4. ~~**Quantes** places hoteleres hi havia als seixanta.~~ — **`parcial` el
    18-09-2026, i la premissa s'ha de corregir**: ***500 anys d'hoteleria***
    **sí que està consultada**, té fitxa de font pròpia
    ([lacueva-hoteleria](../../../fonts/lacueva-hoteleria.md)) **i està

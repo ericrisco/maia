@@ -343,7 +343,7 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 - ~~**L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
   [símbols](../../institucions/simbols/README.md).~~ — **`resolt`**: **la fitxa
   existeix**, [El gran Carlemany](../../institucions/simbols/el-gran-carlemany.md).
-- **Els Jocs de 1991 i 2005 organitzats a Andorra** — **`parcial` pel que fa a
+- ~~**Els Jocs de 1991 i 2005 organitzats a Andorra**~~ — **`parcial` pel que fa a
   les xifres**: **aquesta mateixa fitxa ja té 14 medalles el 1991 i 38 el 2025 i
   declara que del 2005 no en té la xifra.** **El que segueix `obert` és el com:
   instal·lacions i cost.** **I hi ha un fil nou**: **tres dels esportistes

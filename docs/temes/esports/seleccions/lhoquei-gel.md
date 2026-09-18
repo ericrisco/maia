@@ -160,7 +160,7 @@ existeix.**
 
 ## El que falta
 
-- **Qui és Gerard Àvila**, l'únic nom que la font dona. **Cap fitxa.** —
+- ~~**Qui és Gerard Àvila**, l'únic nom que la font dona. **Cap fitxa.**~~ —
   **`parcial` el 2026-09-18**: **12 gols i 16 punts, màxim golejador i màxim
   anotador de la selecció**; **la biografia segueix oberta.**
 - **Els altres jugadors.** Cap nom. **El bolcat no en porta cap convocatòria.**

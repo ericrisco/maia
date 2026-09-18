@@ -259,7 +259,7 @@ zero informació absent**: **58 de la primera formulació i 47 de la segona.**
 
 ## El que falta
 
-- **Les tretze victòries que el corpus no coneix.** — **`parcial` des del
+- ~~**Les tretze victòries que el corpus no coneix.**~~ — **`parcial` des del
   2026-09-13: en són menys.** **Sis ja tenen data i marcador**, tretes de les
   fitxes dels jugadors mateixos ([la selecció](./la-seleccio.md)), **i una
   d'elles —Saint Kitts i Nevis, 25 de març del 2022— el corpus no la tenia de

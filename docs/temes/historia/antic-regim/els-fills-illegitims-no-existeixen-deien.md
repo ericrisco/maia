@@ -185,7 +185,7 @@ la consciència](../../institucions/justicia/nul-per-al-jutge-valid-per-a-la-con
    l'Ariège, Andorre, lligall 2.`
 3. **L'arbitratge que va donar l'herència al fill natural**: **sense data, sense
    parts, i no és sentència.**
-4. **Què era un *visor*** al costat dels marmessors. — **`parcial` el
+4. ~~**Què era un *visor*** al costat dels marmessors.~~ — **`parcial` el
    16-09-2026.** **Lexicogràficament no es tanca**: **el
    [DCVB](../../../fonts/dcvb.md) no té entrada `visor`** —només `VISORI`,
    adjectiu, «pertanyent a la vista»— i **el [DIEC2](../../../fonts/diec2.md) no

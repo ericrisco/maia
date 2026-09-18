@@ -289,7 +289,7 @@ mateixa família.`
    *mateix lligall*. **Prioritari**: **és una xifra de quèstia que el corpus no
    tenia.**
 6. **Les lletres patents de Lluís XVI de 1783** — *Arxius de Perpinyà, C 2101* —
-   i **la confirmació de 1770 als habitants de Mérens**. **El dret de *barra*,
+   i **la confirmació de 1770 als habitants de Mérens**. **~~El dret de *barra*~~,
    `parcial` el 18-09-2026**: **el [DCVB](../../../fonts/dcvb.md) descriu la
    pràctica sota `barra` I.1.a** —**«Antigament posaven barra de través a un pont
    o camí, si el passatge estava subjecte a impost, i així no hi podien passar si
