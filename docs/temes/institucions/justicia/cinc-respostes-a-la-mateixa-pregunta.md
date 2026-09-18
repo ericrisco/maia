@@ -276,9 +276,10 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
 5. **La protesta del Bisbe del 21 d'agost de 1894.** `obert.`
 6. **Quan el bisbe d'Urgell va deixar d'anar a Andorra**, en anys: **la font ho
    data per un trasllat de seu que no nomena.** `obert.`
-7. **La mida real del cavalló**, contrastada: **el corpus n'ha derivat disset
+7. ~~**La mida real del cavalló**, contrastada: **el corpus n'ha derivat disset
    garbes d'una fracció**, i **no té cap font que ho digui amb lletres.** `parcial
-   —abans no en tenia cap xifra.`
+   —abans no en tenia cap xifra.~~ — **`parcial`: les disset garbes derivades
+   donen una xifra de treball, però no hi ha font que la publiqui en lletres.
 8. **Els dos documents del segle XV**: **capítols matrimonials del 18 de gener de
    1470** i **l'embargament del 18 d'abril de 1472**. **Brutails no en dona
    signatura d'arxiu.** `obert, i és una limitació de la font.`

@@ -296,8 +296,8 @@ milió.**
   (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`), **baixat des de
   feia dies.** **La via no estava descartada: estava sense mirar el fitxer on hi
   havia la dada.**
-- **La llei que fixa aquestes transferències va néixer amb una part declarada
-  inconstitucional, i el corpus no ho tenia.** — **Registrat el 17-09-2026 des
+- ~~**La llei que fixa aquestes transferències va néixer amb una part declarada
+  inconstitucional, i el corpus no ho tenia.**~~ — **Registrat el 17-09-2026 des
   del [BOPA](../../../fonts/bopa.md).**
 
   **La sentència del Tribunal Constitucional del 14 de març del 2018 (causa
