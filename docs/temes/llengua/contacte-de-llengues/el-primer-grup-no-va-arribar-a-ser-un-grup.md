@@ -261,9 +261,10 @@ s'hi mesura al final** *(pp. 89-91)*:
    diu.**
 2. **Què és l'«efecte gall dindi»**, i **d'on ve el terme.** **El llibre el dona
    entre cometes, sense definició ni referència.**
-3. **El qüestionari** que els participants omplien al començament de cada sessió.
-   **És als annexos del mateix volum**, **i aquesta tanda no els ha obert.**
-   `A l'abast immediat.`
+3. ~~**El qüestionari** que els participants omplien al començament de cada
+   sessió.~~ — **`resolt` el 2026-09-18**: els annexos del volum, pp. **281–283**
+   del PDF local
+   ([*Joves i llengües d'Andorra*](../../../raw/llengua-usos-linguistics/jovesillengua.pdf)), reprodueixen el **qüestionari previ al grup de discussió** amb **11 blocs**: sexe i naixement; nacionalitat i lloc de naixement de participant, mare i pare; anys de residència; parròquia; sistema educatiu i centre; situació d'estudi o feina; llengua apresa; llengües d'ús amb família, amics, parella i companys; i autoavaluació d'entendre, parlar, llegir i escriure en català, castellà, francès i portuguès.
 4. **Per què els grups de portuguesos i de francòfons es van fer al Centre de
    Càritas i els de catalanoparlants i castellanoparlants al Punt Jove.** **El
    llibre no dona cap criteri.**

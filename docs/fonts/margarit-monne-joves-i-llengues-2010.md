@@ -6,8 +6,9 @@ titular: Govern d'Andorra · Ministeri d'Educació i Cultura · Servei de Polít
 url: https://www.govern.ad/documents/d/guest/jovesillengua?download=true
 llicencia: drets reservats; dos titulars declarats a la pàgina de crèdits, cap llicència oberta
 redistribucio: "no"
-data_consulta: 2026-09-13
-abast: Crèdits, índex i objectius llegits. Segona part, apartats 1 a 3 —hipòtesis (p. 89-96), metodologia (p. 97-104) i dinàmica dels sis grups de discussió (p. 105-118)— llegits sencers i destil·lats. Primera part, apartat 4 sencer llegit i destil·lat en quatre unitats —la població d'Andorra i les línies de segmentació (p. 51-62), la situació sociolingüística (p. 62-72), els sistemes educatius (p. 72-77) i les relacions interlingüístiques (p. 78-88)—. Primera part apartats 1-3 (p. 19-50), anàlisi dels vuit centres d'interès (p. 119-244), conclusions (p. 245 i seg.) i annexos, sense llegir.
+data_consulta: 2026-09-18
+abast: >-
+  Crèdits, índex i objectius llegits. Segona part, apartats 1 a 3 —hipòtesis (p. 89-96), metodologia (p. 97-104) i dinàmica dels sis grups de discussió (p. 105-118)— llegits sencers i destil·lats. Primera part, apartat 4 sencer llegit i destil·lat en quatre unitats —la població d'Andorra i les línies de segmentació (p. 51-62), la situació sociolingüística (p. 62-72), els sistemes educatius (p. 72-77) i les relacions interlingüístiques (p. 78-88)—. Primera part apartats 1-3 (p. 19-50), anàlisi dels vuit centres d'interès (p. 119-244) i conclusions (p. 245 i seg.) sense llegir. Annexos llegits: qüestionari previ als grups de discussió, pp. 281-283.
 notes: >
   Ajut a la investigació lingüística Lídia Armengol Vila 2006; dipòsit legal
   AND.1121-2010; ISBN 978-99920-0-583-5. El portal del Govern la titula «2006»,
