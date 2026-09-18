@@ -237,8 +237,8 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
 4. ~~**Si les pàgines del Politar que Brutails cita són dins de l'extracte del
    corpus.**~~ — **TANCAT.** **Les sis hi són**, i **la 283 conté el passatge
    criticat.**
-5. **Els casos «ben recents» en què una ordre als batlles va tenir en escac el
-   Consell General.** **Segueix obert** —la font no en data cap— **però deixa de
+5. ~~**Els casos «ben recents» en què una ordre als batlles va tenir en escac el
+   Consell General.**~~ **Segueix obert** —la font no en data cap— **però deixa de
    ser un buit solt**: ara el corpus sap **per què podia passar**, que és **que
    els batlles els nomenen els coprínceps**. `parcial.`
 6. **Si el recurs als coprínceps es va exercir mai fora de les concessions**, i

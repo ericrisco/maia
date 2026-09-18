@@ -265,7 +265,9 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
    **El corpus en té una de cinc, amb qui la dona i amb quin raonament**, i **no
    sap si és la correcta** —**la font no ho diu**. `El buit es redueix, no es
    tanca.`
-2. **Les cinc respostes**, una per una. **Brutails no les reprodueix.** `obert.`
+2. ~~**Les cinc respostes**, una per una.~~ **Brutails no les reprodueix.** —
+   **`parcial`: una de les cinc respostes queda documentada amb interlocutor i
+   raonament; les altres quatre no es reprodueixen.
 3. **El text de les dues convencions del 13 d'abril i el 8 de maig de 1903** que
    van suprimir el delme, i **quina era la prestació fixa** que les va
    substituir. `obert, prioritari i datat.`
