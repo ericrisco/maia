@@ -252,7 +252,43 @@ font sobre ella mateixa:**
    *rahonadors* els portaven, hauria d'existir un llibre.** **Prioritari**: **és
    el que permetria comprovar si la commutació de penes en multes era realment la
    font d'ingressos.**
-2. **El *Politar*, pp. 236, 237-238 i 346-347.** — **Les pp. 185, 193, 195, 197,
+2. **El *Politar*, pp. 346-347.** — **Les pp. 236 i 237-238, `resoltes` el
+   18-09-2026, i no són de raonadors sinó de porters: el capítol VIII.**
+
+   **El Politar comença aclarint que són un sol ofici amb quatre noms**:
+   **«Lo ***porter, nunci, cursor o bastoner***, un o molts, de les Corts de les
+   Valls de Andorra ***es una mateyxa cosa***, convenintli aquellas
+   denominacions del exercici dels actes y obras que executa, essent tots aquells
+   termes sinonims.»** **Són oficials jurats de la Cort, «y per ayxo se done
+   credit a son simple ditxo o relacio»**.
+
+   **I la llista del que fa és la de l'aparell penal sencer en una sola
+   persona**: **donar les intimes i notificacions**; **lligar i ferrar els
+   presoners, posar-los ferramentes, cadenes i collar**; **conduir-los lligats al
+   tribunal i al suplici**; **per als assots, «prevenir lo burro, ***prenentlo
+   alli haon lo trobia*** y menarlo»**; **tocar la trompeta a les cantonades per
+   fer senyal a l'executor**; **tenir «la marca en un fogo en la plassa de la
+   vila de Andorra»** amb guarda perquè ningú no s'hi acosti; **en pena capital,
+   fer compondre el suplici i ***pagar l'executor*****; **i cridar i pregonar
+   encants, bandos i arrestos.**
+
+   > **I una clàusula que val per ella mateixa**: **«en los casos de tortura, en
+   > que ***no se trovia facilment executor o no puga ferse venir***, deu
+   > executar esta a orde de la Justicia»**. **Quan el botxí forà no arribava, el
+   > porter feia de botxí.**
+
+   **P. 238 — el porter també podia ser forçat.** **Si l'ofici vacava i no es
+   trobava qui el volgués jurar, els ministres de justícia i els batlles
+   **«poden obligar […] y compellir a la persona»** a exercir-lo**, «segons la
+   disposicio del dret comu y segons lo estil de tot temps en les Valls».
+
+   **P. 236 — i un incentiu que explica molt**: **qui pren armes o coses
+   vedades es queda ***la tercera part del valor***, i la resta la diposita la
+   Cort**; i **el mateix terç sobre la pena quan la Cort prohibeix alguna cosa
+   sota pena determinada**. **L'oficial que executava cobrava un terç del que
+   comissava.**
+
+   **Les pp. 185, 193, 195, 197,
    200, 277, 280 i 337, `resoltes` el 18-09-2026**, i **la 193 és la descripció
    d'ofici que aquesta fitxa buscava, amb salari inclòs.**
 

@@ -391,6 +391,20 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    > per drets de penjar, cobrava com a proveïdor forà contractat per acte, no
    > com a oficial de la Cort.** **El pagament anticipat i el preu pactat són de
    > contracte, no d'aranzel.**
+
+   **I qui li pagava era el porter.** **La p. 237 posa a càrrec del nunci, en
+   pena capital, «prevenir y fer compondrer lo suplici a orde de la Justicia,
+   ***pagar al executor*** y ferli senyal y manantlo quant sie menester per que
+   executia son ofici»**; **per als assots, proveir el burro «prenentlo alli haon
+   lo trobia»**; i **tenir «la marca en un fogo en la plassa de la vila de
+   Andorra»** amb guarda.
+
+   > **I la clàusula que tanca el cercle**: **«en los casos de tortura, en que no
+   > se trovia facilment executor o no puga ferse venir, ***deu executar esta***
+   > [lo nunci] a orde de la Justicia».** **Quan el botxí estranger no arribava,
+   > el porter del país el substituïa.** **El corpus registra que el Politar no
+   > preveu el mateix per a les penes capitals: per a la tortura sí, per a la
+   > forca no ho diu.**
 7. **Si les Corts van durar realment fins a vuit mesos**, i **quin any.**
    **El *Manual Digest* ho diu i no ho data.**
 8. **Els decrets del 2 de juliol de 1887 i del 12 d'abril de 1897** sencers, i **si
