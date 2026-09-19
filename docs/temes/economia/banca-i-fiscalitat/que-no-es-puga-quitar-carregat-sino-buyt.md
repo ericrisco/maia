@@ -221,16 +221,14 @@ l'adquirent per les reparacions, *adobs***.
 2. **Les sentències sobre *millores necessàries*** que **la font diu que existeixen
    «m'han dit» i no cita.**
 3. **Les sentències del 10-10-1840, 12-05-1855 i 06-08-1863**, senceres.
-4. **La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)*. —
-   **CORRECCIÓ del 16-09-2026: no és a l'abast.** **La pàgina XLVI no és a
-   l'exemplar digitalitzat que el corpus té**: és una de les quatre que hi
-   falten —**XLII, XLIII, XLVI i XLVII**—, comptades el 16-09-2026 mapant la
-   paginació romana de l'apèndix contra les pàgines del PDF. Vegeu
-   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
-   **La peça que hi havia d'anar és la XXV, *Cession d'un droit de réméré***,
-   que **comença al peu de la pàgina XLV i es talla allà mateix.**
-   **El buit queda obert i canvia de naturalesa**: no és una lectura pendent,
-   és **`requereix un altre exemplar del volum`.**
+4. ~~**La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)*.~~ —
+   **`resolt` el 2026-09-19 amb una segona digitalització** ([exemplar
+   d'Internet Archive](../../../fonts/brutails-coutume-ia.md)): és la peça XXV,
+   *Cession d'un droit de réméré*, sencera. **Joan KR. i Theresa R. y D., de la
+   vila d'Andorra, cedeixen a Miquel P. el dret de redimir la terra «lo Barre»,
+   comprada el 13 de desembre de 1787 als hereus de Jaume B.** El comprador
+   paga trenta lliures barceloneses i assumeix retornar als hereus les cent
+   lliures, set sous i un diner del preu original, més millores i despeses.
 5. ~~**Si la clàusula «*no lo pugan quitar sino per son propri us*» era corrent**
    o **excepcional.** **La font en dona dos casos del mateix any.**~~ —
    **`parcial` el 2026-09-18**: el sentit queda fixat —**prohibeix manllevar per

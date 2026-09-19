@@ -277,12 +277,16 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
 1. **Qui va guanyar el plet del *cancellar***, i **què diuen els decrets del 27 de
    maig i del 21 de novembre de 1893**. La font en cita un i **només n'anomena
    dos**.
-2. **La peça justificativa XXIII** de *La Coutume d'Andorre*, en text: **la
-   venda de l'andorrà domiciliat a França feta «segons afirma»**. — **`obert`, i
-   el 16-09-2026 se'n sap el motiu**: **la peça és a la pàgina XLIII, que no
-   existeix a l'exemplar digitalitzat que el corpus té.** **No és un lead sense
-   obrir: és un lead que aquest exemplar no pot obrir.**
-   `Requereix un altre exemplar del volum.`
+2. ~~**La peça justificativa XXIII** de *La Coutume d'Andorre*, en text: **la
+   venda de l'andorrà domiciliat a França feta «segons afirma»**.~~ — **`parcial`
+   el 2026-09-19**: una segona digitalització ([exemplar d'Internet
+   Archive](../../../fonts/brutails-coutume-ia.md)) porta la **pàgina XLIII** i
+   permet llegir el model sencer: el pare i el fill venen a carta de gràcia,
+   l'usen i cultiven com a arrendataris al 5 per cent, i poden rescatar en tres
+   lluïcions. **La nota de Brutails diu que l'acte, de cap al 1875, no segueix
+   el decret episcopal de 1853.** Els noms, el lloc, el dia i alguns camps
+   continuen en blanc a la font, i la data s'ha de comprovar sobre la pàgina
+   renderitzada perquè l'OCR és defectuós.
 3. **El lligall 13 dels Arxius de l'Arieja, Andorra** —el del cas de 1882 del
    bisbe contra el notari francès. El corpus ja té obert **el lligall 2** per
    [altres casos](./nul-per-al-jutge-valid-per-a-la-consciencia.md).
