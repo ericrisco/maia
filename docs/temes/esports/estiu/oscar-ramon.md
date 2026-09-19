@@ -57,10 +57,12 @@ tanca.**
 - ~~**Confirmar el parentiu amb David Ramón.**~~ — **`resolt`: són germans i ell
   és el gran** (**27 de juliol del 1971**; en David, **13 d'abril del 1974**),
   **i van navegar junts la classe 470 als dos Jocs.**
-- **Com un país sense mar té dos olímpics de 470.** — **`obert` pel que fa a
-  l'explicació, i el bolcat hi afegeix el detall que la fa encara més estranya**:
-  **tots dos van néixer al Pas de la Casa**, **el poble més alt d'Andorra i el
-  més lluny de qualsevol costa.**
+- ~~**Com un país sense mar té dos olímpics de 470.**~~ **[parcial ·
+  2026-09-19]** La fitxa ja estableix que **tots dos van néixer al Pas de la
+  Casa**, el poble més alt i més lluny de qualsevol costa, i que la vela
+  andorrana es practica al **litoral català**, a menys de tres hores, amb
+  infraestructura catalana ([Fiona Morrison](../altres-esports/fiona-morrison.md)).
+  Encara falten els clubs i l'organització concreta de la formació.
 
 ## Related
 
