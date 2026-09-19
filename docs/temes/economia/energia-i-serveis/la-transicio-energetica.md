@@ -266,9 +266,17 @@ al 2050.**
   [Tres quartes parts de l'electricitat vénen de fora](#tres-quartes-parts-de-lelectricitat-venen-de-fora).
   `Segueix obert el «d'on»: la nota dona el volum importat i no el país
   d'origen.`
-- **El capítol quart, del canvi climàtic** (article 47 i següents), només s'ha
-  vist de passada: hi articula inventari d'emissions, mitigació, adaptació,
-  recerca i sensibilització, i **cap d'aquests eixos té fitxa al corpus**.
+- ~~**El capítol quart, del canvi climàtic** (article 47 i següents), només s'ha
+  vist de passada.~~ — **`parcial` el 2026-09-19** amb el [text consolidat local de
+  la Llei 21/2018](../../../raw/lleis/transicio-energetica.txt): l'article 47
+  ordena l'acció nacional en **inventari d'emissions, mitigació, adaptació i
+  resiliència, recerca i observació, i educació i sensibilització**; els
+  articles 48–51 regulen l'inventari públic, el programa de mitigació, el mercat
+  nacional de compensació i la compensació; l'article 52 introdueix l'economia
+  circular; el 53 encomana estudiar la vulnerabilitat del territori; el 54
+  obliga a integrar el clima en polítiques i plans, i el 55 encarrega la
+  sensibilització escolar. **Segueixen fora del corpus l'inventari efectiu, les
+  comunicacions nacionals i les fitxes de dades de cada eix.**
 - **El Reglament provisional del 1975** no és al corpus, i és la norma que
   defineix qui distribueix electricitat al país.
 - ~~**FEDA** —l'empresa pública elèctrica— no té fitxa pròpia al corpus.~~
