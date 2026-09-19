@@ -455,10 +455,10 @@ l'òrgan.**
 
 ## Buits registrats
 
-1. **El fals de Carlemany, el text.** El corpus en té **dues referències de
-   facsímil** —*La Vanguardia* del **13 d'agost de 1896** i el *Bulletin
-   historique et philologique* de **1896**— i **cap reproducció**. `obert,
-   localitzat.`
+1. ~~**El fals de Carlemany, el text.**~~ — **`parcial` el 19-09-2026**: el
+   corpus en té **dues referències de facsímil** —*La Vanguardia* del **13
+   d'agost de 1896** i el *Bulletin historique et philologique* de **1896**—,
+   però **cap reproducció ni transcripció** del document.
 2. ~~**La peça justificativa núm. II d'aquest mateix llibre**: **el privilegi
    concedit als andorrans pel comte de Foix el 22 de març de 1305** *(n. s.)*.~~
    — **`resolt` el 16-09-2026** (pàgines IV-V, PDF 28-29). **La data és al
