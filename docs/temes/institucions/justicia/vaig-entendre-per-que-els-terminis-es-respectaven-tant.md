@@ -359,13 +359,7 @@ d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
    **La font els nomena i diu que paguen.**
 8. **Les *Constitucions*, VII, vi, 1 i 2, pp. 413-414**, que la font invoca per a
    *la justicia*, **i IV, x, pp. 296 i següents**, per a *dietes*.
-9. **La sentència del 19 d'octubre de 1875** d'una comissió del Consell General
-   entre els *quarts* de la Cortinada i d'Ansalonga, **que condemna a pagar
-   «*l'onsa que lo de Ansalonga depositá **per fer celebrar Consell general***»**
-   i **10 duros 1 rals** de despeses. **No consta què era aquella *onsa* ni si
-   calia dipositar-la sempre per fer convocar el Consell General.**
-   **Prioritari**: **si convocar el parlament es pagava, això és una dada
-   institucional i no processal.**
+9. ~~**La sentència del 19 d'octubre de 1875** d'una comissió del Consell General entre els *quarts* de la Cortinada i d'Ansalonga, que condemna a pagar «*l'onsa que lo de Ansalonga depositá per fer celebrar Consell general*» i **10 duros 1 ral** de despeses.~~ — **`resolt` com a duplicat el 2026-09-19**: l'enunciat canònic i l'estat **`parcial`** són a [la sentència i el seu desenllaç](../../territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md); aquesta fitxa conserva la qüestió institucional, però no hi afegeix cap font ni dada.
 10. **Quant valia el terç de *la justicia* en casos reals.** **El corpus té la
     proporció i cap liquidació.**
 
