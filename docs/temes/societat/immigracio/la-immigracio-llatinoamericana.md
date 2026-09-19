@@ -266,7 +266,15 @@ no en dedueix res sobre naturalitzacions.`
    publicades**. **Això no és una lectura pendent: és treball de camp
    pendent**, i el corpus el situa a **[parla](../../../parla/README.md)**, no
    a bibliografia. `Requereix accés a l'arxiu.`
-6. Si la **política d'immigració** ha canviat.
+6. ~~Si la **política d'immigració** ha canviat.~~ — **`resolt` el 19-09-2026**:
+   **sí**. La [Llei 9/2012 d'immigració](./la-llei-dimmigracio-del-2012.md)
+   va substituir el marc anterior per una llei qualificada, va traslladar al
+   **Govern** la fixació de quotes que el 1997 feia el Consell General i va
+   establir la prioritat **conveni → UE/EEE → resta del món**. El corpus també
+   té els **105 reglaments de quota publicats entre 2012 i 2026** i les
+   autoritzacions vigents fins al 2025. **El detall de cada reforma individual
+   continua sent un buit de l'altra fitxa**, però el canvi de política i el seu
+   marc actual ja estan documentats.
 7. **El circuit dels dos hiverns**: existeix encara?
 
 ## Related
