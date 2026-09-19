@@ -294,9 +294,10 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
   d'erudició a la *Revue des Pyrénées* de **1891** i **1892** i a la *Revue des
   Universités du Midi* de **1897** i **1898**, on diu que l'exposició és completa
   i documentada. **Prioritari, i amb referència exacta.**
-- **L'estudi de Mérignhac**, *Bulletin du Comité des travaux historiques*, secció
+- ~~**L'estudi de Mérignhac**, *Bulletin du Comité des travaux historiques*, secció
   de ciències econòmiques i socials, **Congrés de 1899, p. 267**. Citat i
-  criticat, no llegit.
+  criticat, no llegit.~~ — **`resolt` com a duplicat el 19-09-2026**: l'enunciat
+  canònic es conserva a [la nota contra Mérignhac](./no-una-imitacio-sino-una-caricatura.md#la-nota-contra-mérignhac).
 - ~~**El text del Pareatge**, sencer.~~ — **`TANCAT EN TRADUCCIÓ EL
   17-09-2026`**, **i obert en original.** **Els annexos de Vilar (1904),
   pp. 159-173, en donen el text sencer en francès**, «*traduction d'après le texte
