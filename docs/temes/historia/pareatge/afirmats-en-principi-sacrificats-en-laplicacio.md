@@ -270,13 +270,11 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    ordinari del comtat de Foix**: **quan exercien i què més en queda.**
 8. **A qui es va presentar l'escrit de concòrdia de 1347**: **cúria o consell
    general.** **Dues fonts, dues respostes.**
-9. **Si el rei d'Aragó va haver de pagar mai res** per la fiança. **El termini de
-   quatre anys i la confirmació de 1282 quadrarien; el corpus no ho afirma perquè
-   la data de la butlla està en divergència.** **`Precisat el 17-09-2026 amb el
-   text a la mà:`** **la pena és de 50.000 sous de Melgueil**, i **el § X exclou
-   del còmput dels quatre anys el temps de vacant a la Cort de Roma**, **de manera
-   que una confirmació posterior al 1282 no implicaria per si mateixa que s'hagués
-   meritat la pena.**
+9. ~~**Si el rei d'Aragó va haver de pagar mai res** per la fiança.~~ —
+   **`parcial` el 2026-09-19**: **el § X exclou del còmput dels quatre anys el
+   temps de vacant a la Cort de Roma** i fixa una pena de **50.000 sous de
+   Melgueil**; una confirmació posterior al 1282 no prova per si sola que la pena
+   es merités. **No hi ha cap document de pagament o d'exigència al corpus.**
 10. **Quantes vegades es va exigir la talla dins del topall dels 4.000 sous**, i
     **si el topall es va respectar.**
 
