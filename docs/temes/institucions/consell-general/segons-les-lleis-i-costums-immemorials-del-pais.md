@@ -155,8 +155,11 @@ per la via de definir el costum.**
 1. **El dossier del 1846**: **Archives de l'Ariège, Andorre, lligall 2**. **La
    posició del Jutge d'Apel·lacions, la del Ministeri i la resposta de Guizot.**
    `obert, prioritari i amb signatura.`
-2. **Si la decisió del 1846 va tenir cap efecte.** **La font, escrivint el 1904,
-   descriu la pràctica com a vigent.** `obert.`
+2. ~~**Si la decisió del 1846 va tenir cap efecte.**~~ — **`parcial`, actualitzat el
+   2026-09-19**: Brutails, escrivint el **1904**, descriu encara com a vigent la
+   pràctica del Consell de definir el costum; per tant, la decisió de París no va
+   impedir-ne la continuïtat de facto. **Segueix oberta la qüestió de l'efecte
+   jurídic exacte del dictamen i de com es va aplicar.**
 3. **Les proves** que la veritat era «de vegades cruelment desfigurada» als
    dictàmens del Consell. **La font diu que se'n podrien donar i no en dona cap.**
    `obert, i és una limitació de la font.`
