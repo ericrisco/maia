@@ -54,8 +54,12 @@ que es conserva és el que va tenir sort.
   llombard i les pintures avui al MNAC; [Sant Serni de Canillo](./sant-serni-de-canillo.md),
   una església avui majoritàriament barroca amb vestigis romànics i la
   dada nova que el 1312 tenia Sant Joan de Caselles sota jurisdicció.
-- La tesi doctoral *L'art romànic del Principat d'Andorra: la pintura mural en el
-  seu context*, font acadèmica primària **no consultada**.
+- ~~La tesi doctoral *L'art romànic del Principat d'Andorra: la pintura mural en
+  el seu context*, font acadèmica primària **no consultada**.~~ — **`parcial`,
+  confirmat el 2026-09-19**: identificada com la tesi doctoral de **Maria
+  Cristina Tarradellas Corominas**, defensada el 2017 a la Universitat de
+  Barcelona, amb PDF complet al Dipòsit Digital de la UB; el buidatge crític
+  encara és pendent.
 - L'inventari complet del patrimoni cultural del Govern.
 - ~~**Buit nou**: **Sant Miquel de Prats**, esmentat per Sant Serni de Canillo
   com a església sota la mateixa jurisdicció el 1312 — el corpus no en té
