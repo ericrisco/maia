@@ -93,9 +93,10 @@ s'enfonsi l'oví** i pot haver estat part del coixí.
 
 1. **La data documentada** de la patata a Andorra.
 2. **Quantes varietats** hi havia i si en queda alguna de local.
-3. *Trumfa* al ***Vocabulari d'Andorra*** (1992) i al
+3. ~~*Trumfa* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
-   hi consta encara**.
+   hi consta encara**.~~ **`resolt` el 19-09-2026**: el glossari ja té
+   l'entrada **`trumfa`** («patata»), amb la citació de Brutails 1904, p. 6.
 4. ~~**Maria Montanya** — qui era i on són les seves vivències. **Font citada i no
    consultada, prioritària.**~~ — **`parcial` el 19-09-2026**: la transcripció
    local de la **15a Diada** la presenta com a autora de «vivències de
