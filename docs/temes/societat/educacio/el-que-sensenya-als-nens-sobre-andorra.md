@@ -297,12 +297,23 @@ diversitat lingüística de l'aula.
 
 ## Buits registrats
 
-- **Els altres programes nous encara no s'han llegit.** Els annexos del
-  **Programa de medi d'Andorra de primera ensenyança (2022)**, d'**educació
-  maternal (2021)**, de **ciències humanes i socials de segona ensenyança (2022)**
-  i de **llengua catalana de maternal (2021), primera (2024) i segona ensenyança
-  (2023)** ja són al corpus; resten pendents els annexos dels altres nivells.
-  `Parcial: cal baixar i llegir els altres PDF annexos.`
+- ~~**Els decrets de programa d'educació maternal i de primera ensenyança no
+  s'havien llegit.**~~ — **`resolt` el 19-09-2026**: llegits sencers els textos
+  locals **Decret del programa d'educació maternal de formació andorrana**
+  (10-09-1997, `docs/raw/societat/formacio-andorrana/decret-1997-programa-educacio-maternal.txt`,
+  528 línies) i **Decret del programa de primera ensenyança de formació
+  andorrana** (07-10-1998, `docs/raw/societat/formacio-andorrana/decret-1998-programa-primera-ensenyanca.txt`,
+  741 línies). El primer fixa català, medi d'Andorra i música per al cicle
+  maternal i desplega els blocs de comunicació oral i escrita, paisatge,
+  organització social, éssers vius, objectes i música; el segon fixa els
+  objectius de primera ensenyança i desplega llengua catalana, medi, ocupació i
+  transformació del territori, institucions, activitats culturals i música.
+- **Els altres programes i annexos encara no s'han llegit sencers.** El corpus ja
+  conserva els de **medi d'Andorra de primera ensenyança (2022)**, **educació
+  maternal (2021)**, **ciències humanes i socials de segona ensenyança (2022)** i
+  **llengua catalana de maternal (2021), primera (2024) i segona ensenyança
+  (2023)**; resten pendents la lectura completa i els nivells que no són en
+  aquesta llista. `Parcial: cal llegir els altres PDF annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
