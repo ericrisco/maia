@@ -347,9 +347,11 @@ Tres conseqüències pràctiques:
   Pantebre Martínez identificat** (escacs, cònsol d'Andorra la Vella, 1929),
   **però la seva biografia no esmenta música ni sardanes**, i **el corpus no
   arbitra si és el mateix «Sr. Pantebre» de l'Agrupació sardanista.**
-- La **germandat de la Consòrcia** i el seu àpat — el corpus té el mot
+- ~~La **germandat de la Consòrcia** i el seu àpat — el corpus té el mot
   *consòrcia* al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
-  i cap contingut.
+  i cap contingut.~~ **`resolt` el 19-09-2026**: [l'àpat de la Consòrcia de
+  1833](../../gastronomia/historia-alimentaria/lapat-de-la-consorcia-1833.md)
+  documenta la **consòrcia de casats d'Andorra la Vella** i el seu menú fix.
 
 ## Related
 
