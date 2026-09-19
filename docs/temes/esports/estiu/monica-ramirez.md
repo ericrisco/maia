@@ -67,9 +67,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- ~~**Els seus resultats de Rio 2016** i del Mundial del 2013.~~ — **`parcial`
-  el 18-09-2026, i la divergència queda arbitrada amb material que el corpus ja
-  tenia.** **El bolcat de l'edició**
+- ~~**Els seus resultats de Rio 2016** i del Mundial del 2013.~~ — **`resolt` el
+  19-09-2026**: la divergència queda arbitrada amb material que el corpus ja
+  tenia. **El bolcat de l'edició**
   ([`en_Andorra_at_the_2016_Summer_Olympics.wiki`](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki),
   Viquipèdia, CC BY-SA 4.0) **la hi té, als 100 m lliures femenins**, i **el
   resultat és `DNS`: no va sortir a l'aigua.**
@@ -79,7 +79,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   és bona perquè hi era inscrita.** **El corpus manté la fila i hi posa el
   resultat que hi tocava: no surt.**
 
-  `Per què no va sortir, la font no ho diu.`
+  `Per què no va sortir, la font no ho diu.` Aquesta causa queda com a nota
+  separada; el resultat esportiu sí que està tancat.
 - ~~**Els seus resultats del Mundial del 2013.**~~ — **`resolt` el 19-09-2026**:
   la taula oficial de resultats dona **56a als 50 m lliures (28.35)** i **59a
   als 100 m lliures (1:00.98)**, totes dues en sèries ([font](../../../fonts/ffn-monica-ramirez-mundial-2013.md)).
