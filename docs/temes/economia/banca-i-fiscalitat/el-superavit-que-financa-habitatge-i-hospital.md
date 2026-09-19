@@ -114,9 +114,10 @@ nova redacció de l'art. 26.2, p. 3.)
   Infraestructures centre hospitalari) **que no necessita
   desglossament**: no hi ha res més a reconstruir perquè el destí ja
   n'és un de sol.
-- Les finals primera i segona sobre patrimoni públic i Fons de Reserva
-  s'han llegit, però no s'han destil·lat ni contrastat amb les normes
-  completes modificades. El mandat de consolidació de la final tercera
-  tampoc no acredita que els textos ja s'hagin tramitat.
+- ~~**Disposicions finals primera, segona i tercera**~~ — **`parcial` el
+  19-09-2026**: les finals primera i segona, sobre patrimoni públic i Fons de
+  Reserva, s’han llegit. Encara no s’han destil·lat ni contrastat amb les
+  normes completes modificades, i el mandat de consolidació de la final tercera
+  tampoc no acredita que els textos ja s’hagin tramitat.
 - Les conclusions del FMI invocades al preàmbul no s'han contrastat
   amb el document original del Fons.
