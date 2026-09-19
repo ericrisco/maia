@@ -89,8 +89,12 @@ Aquests sis mesos són **la base material** de
   [El canvi climàtic a Andorra](./el-canvi-climatic.md) — les màximes d'estiu
   pugen **0,45 °C per dècada** i la pluja cau un **4%**.
 - Les dades oficials andorranes de clima, per estació.
-- El **lèxic de la neu i del temps**: Andorra va col·laborar en el *Vocabulari
+- ~~El **lèxic de la neu i del temps**: Andorra va col·laborar en el *Vocabulari
   de la neu* i el *Diccionari de la neu* del TERMCAT. **Aquest lèxic és el que
-  més val per a maia** i no s'ha buidat.
+  més val per a maia** i no s'havia buidat.~~ — **`parcial` el 2026-09-19**:
+  [el repertori de la neu](../../llengua/manlleus/el-repertori-de-la-neu.md)
+  recupera **967 formes terminològiques** de la neu i l'esquí a partir de
+  l'estudi Montané-Bastida. **El lèxic del temps i el repertori general de
+  muntanya encara no estan buidats.**
 - La **toponímia dels cims**, coll a coll — lligat al
   [Nomenclàtor](../toponimia/toponimia-andorrana.md).
