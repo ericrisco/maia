@@ -335,8 +335,10 @@ sencera, amb el que la font hi afegeix:**
    prohibint a l'altra de conèixer-ne.**~~ — **`parcial` el 19-09-2026**: la
    font diu que ho fa **«de bon grat»** i només dona **un cas**; el corpus no
    té la sèrie històrica completa.
-10. **Si el secret de vuit dies es complia mai.** **La font diu que ell coneixia
-    el judici el mateix dia «per la veu pública».**
+10. ~~**Si el secret de vuit dies es complia mai.**~~ — **`parcial` el
+    19-09-2026**: la font diu que ell coneixia **el judici el mateix dia «per la
+    veu pública»**, un incompliment documentat, però no aporta una sèrie de
+    casos.
 
 ## Related
 
