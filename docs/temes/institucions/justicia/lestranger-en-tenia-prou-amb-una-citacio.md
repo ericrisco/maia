@@ -237,8 +237,11 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    fixa les **15 pessetes** com el preu d'una audiència especial fora dels
    feriats i exigeix avisar la part contrària amb **tres dies** de marge.
    **Segueix oberta la norma, l'aranzel o l'acte que va fixar aquesta quantia.**
-8. **Quantes audiències especials es van demanar**, **i si algun andorrà podia
-   demanar-ne.** **La font ho dona com a facilitat exclusiva del foraster.**
+8. ~~**Quantes audiències especials es van demanar**, **i si algun andorrà podia
+   demanar-ne.**~~ — **`parcial`, actualitzat el 2026-09-19**: la font presenta
+   l'audiència especial fora dels feriats com una **facilitat exclusiva del
+   *foraster***. **Segueixen oberts el nombre de sol·licituds i la comprovació
+   de si algun andorrà hi podia accedir.**
 9. **L'Usatge *Item inviolabili*** i **la constitució catalana de 1493** sobre
    els plets d'estrangers.
 10. **Si la conciliació interrompia els terminis de debò.** **La font hi posa
