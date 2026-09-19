@@ -74,8 +74,12 @@ cremar.
 - Els **sants patrons** de cada parròquia i les seves
   [festes majors](../festes-majors/festes-majors.md).
 - Altres **romiatges i aplecs** més enllà del de Meritxell.
-- Les **altres confessions**: amb un 54,7 % de població estrangera, hi ha
-  comunitats no catòliques al país i el corpus no en diu res.
+- ~~Les **altres confessions**: amb un 54,7 % de població estrangera, hi ha
+  comunitats no catòliques al país i el corpus no en diu res.~~ — **`parcial` el
+  2026-09-19**: [la fitxa específica](./les-religions-dandorra-avui.md) ja
+  documenta la comunitat jueva i el marc de les confessions inscrites, però
+  **encara no resol l'origen de la població musulmana ni la presència de
+  comunitats budistes i ortodoxes**.
 - El **lèxic religiós popular** i les frases fetes que en vénen — que és el que
   més val per a maia i no es troba a cap web institucional.
 
