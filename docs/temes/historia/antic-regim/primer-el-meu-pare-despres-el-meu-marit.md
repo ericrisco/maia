@@ -180,8 +180,9 @@ papers](./la-casa-als-papers.md).
    **Podria ser el mateix fet vist dues vegades**, un cop com a fet social i
    l'altre com a plet successori, **però cap dels dos passatges no porta data ni
    nom i la font no els relaciona.** `hipòtesi del corpus, no verificada.`
-5. **Quants processos entre sogres i nores hi va haver**: la font diu **«força
-   freqüents»** i **no en dona cap xifra ni cap cas datat.**
+5. ~~**Quants processos entre sogres i nores hi va haver**~~ — **`parcial` el
+   19-09-2026**: la font els qualifica de **«força freqüents»**, però no en
+   dona cap xifra ni cap cas datat.
 6. **Fins quan va estar vigent la llicència del Consell per fer-se poblador.**
    Brutails escriu, a la p. 44, que **«potser el dret s'ha suavitzat en aquest
    punt»** — **una altra hipòtesi seva, i aquesta el corpus no la pot contestar.**
