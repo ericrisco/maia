@@ -214,15 +214,13 @@ l'1 d'agost de 1882**.
 4. **El fullet imprès de la Reforma de 1866.** **Prioritari**: **el corpus té
    una acusació registrada que l'aprovació episcopal s'hi va afegir
    subrepticiament**, i **la comparació d'impresos és el que la resoldria.**
-5. **L'article de Ch. Romeu al *Tour du Monde* del 4 de desembre de 1897.**
-   **Ara amb data exacta.** **I una hipòtesi no confirmada, registrada el
-   18-09-2026**: **el veguer francès d'Andorra de l'època es deia Charles
-   Romeu** —veguer del 1887 al 1933, vegeu [el veguer que va corregir el
-   llibre](../../institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md#buits-registrats)—,
-   **i encaixaria com a autor d'un article de divulgació francès sobre
-   Andorra**. **Cap font trobada no confirma que sigui la mateixa persona**;
-   **la Viquipèdia francesa sobre ell no esmenta l'article.** `Hipòtesi, no
-   verificada.`
+5. ~~**L'article de Ch. Romeu al *Tour du Monde* del 4 de desembre de 1897.**~~ —
+   **`parcial` el 2026-09-19**: la data exacta ja consta, i [el veguer que va
+   corregir el llibre](../../institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md)
+   identifica **M. Charles Romeu** com a veguer francès des de **1887**, a qui
+   Vilar agraeix els informes i les correccions del seu llibre. Això confirma la
+   identitat proposada per «Ch. Romeu», però **encara falta consultar l'article
+   directe i provar que el seu autor n'és el mateix veguer**.
 6. **Qui era «l'abbé Puigt»**, i **si és realment l'autor del Politar.**
 7. ~~**Si *Republica de Andorra* (Barcelona, 1849) és de Dalmau de Baquer, de
    Léon Clos, o de tots dos.**~~ — **`resolt` el 17-09-2026 amb la portada al
