@@ -242,7 +242,9 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
   `Aquestes xifres són d'autocar, no d'avió, i la fitxa no les presenta com a
   equivalents: les registra perquè són el trànsit regular de persones que un
   aeroport substituiria.`
-- **Francesc Betriu**, el germà.
+- ~~**Francesc Betriu**, el germà.~~ **`resolt` el 2026-09-19**: **Francesc
+  Betriu i Tàpies (1926–2014)** era **enginyer**, germà de Josep Betriu i
+  cofundador de Taurus ([font local](../../../raw/web/economia/transport/dausa/README.md)).
 - **Per què la valoració dels terrenys va passar de 40 a 8 milions.**
 
 ## Related
