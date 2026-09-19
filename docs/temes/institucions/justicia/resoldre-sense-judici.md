@@ -205,6 +205,7 @@ matèria penal» (article 1). En un estat encaixat entre dues jurisdiccions gran
   justificant, **el secretari judicial requereix esmena en deu dies hàbils** i,
   si no s'esmena, **l'escrit s'inadmet** (art. 6).
 - **Quants procediments de mediació i d'arbitratge hi ha**, no consta.
-- **La cooperació judicial** només s'ha llegit en el seu article primer: les
-  condicions concretes de l'ajuda, l'extradició i el reconeixement de
-  resolucions estrangeres **queden pendents**.
+- ~~**La cooperació judicial**~~ — **`parcial` el 19-09-2026**: només s'ha
+  llegit el seu article primer; les condicions concretes de l'ajuda,
+  l'extradició i el reconeixement de resolucions estrangeres **queden
+  pendents**.
