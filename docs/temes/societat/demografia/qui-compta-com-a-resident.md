@@ -201,14 +201,15 @@ i **116 per a empreses estrangeres** (+9,4%). **L'estoc creix i el flux cau**, i
 
 ## Buits registrats
 
-- **La pregunta «Andorra ha adoptat mai una definició estadística de resident,
-  i quan» queda tancada només en part.** Consta un concepte estadístic de
-  residència habitual, pres del Reglament europeu 763/2008 i reproduït en
-  annex, i consta que la població estimada s'hi apropa des del 2009 sota el
-  codi A001. **No consta que Andorra hagi adoptat aquesta definició**: el text
-  diu «fins on és permès», el llindar del registre continua sent de 183 dies, i
-  l'instrument que aplicaria el concepte —el cens estadístic— es descriu en
-  futur. Què impedeix aplicar-la del tot, el document no ho explica.
+- ~~La pregunta «Andorra ha adoptat mai una definició estadística de resident,
+  i quan» queda tancada només en part.~~ — **`parcial` el 19-09-2026**: consta
+  un concepte estadístic de residència habitual, pres del Reglament europeu
+  763/2008 i reproduït en annex, i consta que la població estimada s'hi apropa
+  des del 2009 sota el codi A001. **No consta que Andorra hagi adoptat aquesta
+  definició**: el text diu «fins on és permès», el llindar del registre continua
+  sent de 183 dies, i l'instrument que aplicaria el concepte —el cens
+  estadístic— es descriu en futur. Què impedeix aplicar-la del tot, el document
+  no ho explica.
 - ~~No s'ha llegit la Llei 13/2022 ni la Llei 9/2012 en original. Les dues
   s'esmenten aquí perquè la metodologia les cita, no perquè se n'hagi
   comprovat el text, la vigència ni els articles aplicables.~~ — **`resolt` el
