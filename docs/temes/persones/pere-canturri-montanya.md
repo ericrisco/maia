@@ -82,10 +82,13 @@ estudiants universitaris que investiguen temes d'història andorrana —
 2. **La contrastació individual** de les desenes de citacions que el
    corpus li atribueix, article per article — tasca de manteniment, no
    de recerca.
-3. **La denúncia del 2005-2007 sobre la presó, com a episodi polític
+3. ~~**La denúncia del 2005-2007 sobre la presó, com a episodi polític
    propi** —ja narrada des del punt de vista de la reforma penitenciària
    a [la presó sense llei](../institucions/justicia/la-preso-sense-llei.md),
-   però no des del seu mandat com a Raonador.
+   però no des del seu mandat com a Raonador.~~ — **`parcial` el 19-09-2026**:
+   la fitxa jurídica ja conserva la visita del 2005, el reglament confidencial,
+   l’absència de reinserció i l’escrit al ministre; queda pendent la lectura
+   específica de l’episodi dins el mandat de Raonador.
 
 ## Related
 
