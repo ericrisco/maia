@@ -65,7 +65,7 @@ Verdú ho fa.
 ## Una cosa que aquesta font fa i cap altra no feia
 
 **Dona la llista completa dels abanderats olímpics d'Andorra**, del 1976 al
-2024, que el corpus tenia registrada com a buit obert. Vegeu
+2024, que el corpus tenia registrada com a buit i que ara queda cobert. Vegeu
 [els abanderats](../temes/esports/competicio/els-abanderats.md).
 
 ## El que en surt

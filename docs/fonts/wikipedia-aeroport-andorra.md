@@ -29,8 +29,9 @@ notes: >
 ## Per què s'hi recorre
 
 **[Els anys daurats](./wikipedia-anys-daurats.md) tenien una secció titulada «El
-projecte fallit de l'aeroport andorrà»** que **el corpus va llegir i va deixar
-com a buit obert**: **«qui és Josep Betriu i Tàpies».**
+projecte fallit de l'aeroport andorrà»** que **el corpus va llegir quan encara
+constava obert**: **«qui és Josep Betriu i Tàpies».** Aquesta font i la fitxa
+biogràfica pròpia ja el resolen.
 
 **Existeix, té article, i va construir l'aeroport.**
 
