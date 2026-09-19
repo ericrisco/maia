@@ -121,9 +121,12 @@ quatre.
 
 - **El 2020 no hi ha edició.** **La font no en diu res** i **el corpus no
   n'afirma la causa**, encara que la data faci pensar en la pandèmia. **Buit.**
-- **Abans del 2000 no hi ha res.** **La federació és del 1967** i **el quadre
-  d'honor comença trenta-tres anys després.** **O no es va jugar, o la font no
-  ho té.** **Buit prioritari.**
+- ~~**Abans del 2000 no hi ha res.**~~ — **`resolt` el 19-09-2026**: la
+  història del GEVA documenta que el **primer Campionat Absolut d'Andorra es va
+  fer el 1965**, abans de la fundació de la FEVA el **7 de novembre de 1967**
+  ([font](../../../fonts/escacsandorra-campionat-absolut-1965.md)). **La font
+  encara no dona el quadre de campions de 1965–1999**, que queda com una recerca
+  separada.
 - ~~**Qui són Serni Ribera, Felipe Porras, Daniel José Queraltó, Robert Alomà,
   Joan Mellado i Jordi Fluvià.**~~ — **`parcial`, i aquesta llista mateixa
   encara deia el 18-09-2026 la frase que la secció «Qui són, i d'on venen»
