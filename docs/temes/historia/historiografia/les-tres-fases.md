@@ -186,12 +186,13 @@ verificat.**
   joc, en ser els preludis de les grans transformacions».** **El corpus té
   [la revolució del 1881](../segle-xix/la-questio-dandorra.md) i no té ni el
   1868 ni el 1888.**
-- **Les grans famílies andorranes** — **la frase que va originar
-  [aquella branca](../../economia/les-grans-families/README.md).** **El document
-  hi afegeix una cronologia que el corpus no tenia: **«tenen les arrels de la
-  seva puixança en els segles XVI i sobretot el XVIII», i «no és fins al segle
-  XIX que troben el punt d'eclosió, en un procés paral·lel d'obertura econòmica
-  a nous mercats i de participació política».**
+- ~~**Les grans famílies andorranes** — **la frase que va originar
+  [aquella branca](../../economia/les-grans-families/README.md).**~~ —
+  **`parcial` el 2026-09-19**: el document aporta una cronologia que el corpus
+  no tenia —**arrels de la puixança als segles XVI i sobretot XVIII, i eclosió
+  al XIX** en paral·lel a l'obertura econòmica i la participació política—,
+  però **encara falta la documentació privada** que permeti reconstruir les
+  famílies i els seus itineraris concrets.
 
 **I un que el document declara per a tot el país**: **«Els estudis polítics i
 parlamentaris són pràcticament a les beceroles.»**
