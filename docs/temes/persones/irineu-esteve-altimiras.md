@@ -67,7 +67,11 @@ casos no se'n treu cap.
 
 ## Buits registrats
 
-1. **La fitxa de la FIS** amb tots els resultats.
+1. ~~**La fitxa de la FIS** amb tots els resultats.~~ — **`parcial` el
+   19-09-2026**: la [fitxa oficial de la FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?competitorid=186291&sectorcode=cc&type=result)
+   ja exposa el registre de resultats d’Ireneu Esteve (data, prova, posició i
+   punts FIS/Copa). El corpus conserva l’enllaç, però encara no n’ha transcrit
+   totes les files.
 2. ~~**La Rabassa** com a estació de fons: el corpus **no en té fitxa**, i és
    on s'entrena l'esport de neu andorrà que no és alpí.~~ — **`resolt` el
    18-09-2026**: fitxa pròpia a
