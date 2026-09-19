@@ -183,8 +183,13 @@ aquí operant al nivell de la teoria i no del folklore.
 - **Els programes i models d'examen** dels nivells A, B i C. Són documents
   públics i **definirien l'estàndard andorrà operatiu**.
 - **Quanta gent aprova** de les 480 que s'hi presenten.
-- **Si els nivells segueixen sent A, B i C** el 2026, o s'han alineat amb el
-  MECR (A1-C2).
+- ~~**Si els nivells segueixen sent A, B i C** el 2026, o s'han alineat amb el
+  MECR (A1-C2).~~ **`parcial` el 19-09-2026**: la [Llei de la llengua pròpia i
+  oficial de 2024](./la-llei-de-la-llengua.md) ja fixa **A1** en la primera
+  renovació de residència i **A2** en la segona, però no diu que aquests nivells
+  hagin substituït els exàmens oficials **A, B i C** documentats aquí. Queda
+  acotat l'ús contemporani d'A1/A2, però no la reforma ni l'alineació completa
+  del sistema d'exàmens amb el MECR.
 - **La relació amb els nivells de la Generalitat** i amb el **certificat
   internacional de català (CIC)**, que la font esmenta per als lectorats.
 - **Qui són els examinands**: nouvinguts? andorrans que no saben escriure?
