@@ -449,9 +449,14 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
    **283** al començament dels vuit dubtes
    ([«Diria que sí»](./diria-que-si.md)). **El que queda obert és el contrast
    línia a línia**, perquè **una destil·lació no és el text.**
-6. **Quants membres té el consell de parròquia.** **La font en dona dotze al text
-   i deu a la nota**, **i no ho resol.** `divergència interna registrada, no
-   arbitrada.`
+6. ~~**Quants membres té el consell de parròquia.**~~ — **`parcial`, confirmat el
+   19-09-2026**: el text principal enumera **un cònsol major, un segon cònsol i
+   deu consellers** (**12**), mentre la nota interpreta l'article 8 de la Reforma
+   com **10 membres totals** i afegeix que Canillo en tenia més. La lectura de
+   Ríos Urruti (1918) repeteix aquesta excepció i el text de l'article permet
+   reconstruir l'aritmètica **2 + 8 = 10**. **La divergència interna queda
+   registrada i no s'arbitra**; sí que queda documentada la composició que cada
+   passatge dona.
 7. ~~**Quants consellers elegia Canillo realment.**~~ — **`parcial` el
    19-09-2026**: la font diu **divuit**, però hi afegeix **«si no m'equivoco»**;
    el corpus conserva el dubte i no ho pot verificar amb una altra font.
