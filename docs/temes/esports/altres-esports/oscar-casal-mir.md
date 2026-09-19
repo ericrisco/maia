@@ -69,9 +69,10 @@ competició»**.
   18-09-2026, ni amb el nom complet ni sense— **i el corpus no en té cap fitxa.**
 - **Què vol dir «el nou format de competició» del 2019** que els perjudicava, i
   **qui el va decidir.**
-- **Què fa des del 2023.** `És el mateix enunciat que aquesta branca ha
-  requalificat com a no-buit a vint-i-vuit fitxes: una instantània datada no diu
-  què fa ningú avui. Aquí, en canvi, la data de retirada sí que consta.`
+- ~~**Què fa des del 2023.**~~ — **`no-es-buit`**: és el mateix enunciat que
+  aquesta branca ha requalificat com a nota de manteniment a vint-i-vuit fitxes;
+  una instantània datada no diu què fa ningú avui, i aquí la data de retirada ja
+  consta.
 
 ## Related
 
