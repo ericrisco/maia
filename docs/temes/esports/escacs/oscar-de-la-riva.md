@@ -77,7 +77,7 @@ Catalana d'Escacs.**
 
 - **Quan i per què va passar a competir per Andorra**, el 2000.
 - **Si viu a Andorra.**
-- **Les seves set Olimpíades** una per una: quins anys, i on.
+- ~~**Les seves set Olimpíades** una per una: quins anys, i on.~~ — **`resolt` el 19-09-2026**: la FEVA les situa a **Istanbul (2000), Bled (2002), Calvià (2004), Torí (2006), Dresden (2008), Khanty-Mansysk (2010) i Istanbul (2012)** ([font](../../../fonts/escacsandorra-olimpiades-oscar.md)).
 - ~~**Qui és el número 1 i el número 2 d'Andorra**, si ell n'era el tercer el 2022.~~
   — **`resolt`: la llista FIDE d'abril de 2022 posa [Lance Henderson](../altres-esports/lance-henderson.md)
   primer amb **2.492**, **Jordi Fluvià Poyatos** segon amb
