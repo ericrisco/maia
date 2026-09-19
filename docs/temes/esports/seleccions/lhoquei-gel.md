@@ -170,9 +170,15 @@ existeix.**
   fitxa pròpia.**
 - **Si Andorra ha arribat mai als seixanta jugadors federats** que la IIHF
   demana, i **si s'ha arribat a crear la lliga interna** que també exigeix.
-- **El patinatge artístic** —[Melissandre Fuentes](../altres-esports/melissandre-fuentes.md)
+- ~~**El patinatge artístic** —[Melissandre Fuentes](../altres-esports/melissandre-fuentes.md)
   i [Marc Casal](../altres-esports/marc-casal.md) hi tenen fitxa— **i el corpus
-  no sap si depèn de la mateixa federació.**
+  no sap si depèn de la mateixa federació.**~~ — **`parcial` el 2026-09-19**:
+  la llista del [COA](../../../raw/web/esport/estructura/Comitè_Olímpic_Andorrà-ca.wiki)
+  separa **«Federació andorrana d'esports de gel»** i **«Federació andorrana
+  de patinatge»**. El bolcat de la selecció d'hoquei gel identifica la primera
+  com a controladora de l'equip, i el de l'hoquei patins identifica la segona
+  com a federació d'aquella selecció. **La federació concreta del patinatge
+  artístic continua sense prova directa.**
 
 ## Related
 
