@@ -184,8 +184,12 @@ deliberat i és una dada**: **així ho deien**.
 
 ## Buits registrats
 
-1. **Jaume Botey**, *Comentari a 50 relats d'immigració* — **font citada, no
-   consultada**.
+1. ~~**Jaume Botey**, *Comentari a 50 relats d'immigració*.~~ — **`parcial`**.
+   La comunicació d'Agustí Font es conserva sencera al [volum de la 2a Diada
+   andorrana de 1989](../../../raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.txt),
+   reprodueix el passatge que Font atribueix a Botey i en dona la referència:
+   *Perspectiva social*, núm. 15, p. 87. **L'article original de Botey encara no
+   és al corpus**, de manera que no es presenta com una lectura directa.
 2. ~~**Qui és Agustí Font** i des de quina organització escrivia.~~ —
    **`parcial`, i la meitat de la resposta era a la fitxa de font d'aquest
    mateix article.** [`font-fenomens-socials-immigracio`](../../../fonts/font-fenomens-socials-immigracio.md)
