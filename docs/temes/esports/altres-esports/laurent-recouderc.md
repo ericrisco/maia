@@ -98,8 +98,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - ~~**Quan i com es va vincular a Andorra.**~~ — **`obert`, confirmat, i ara se sap
   que aquest bolcat no ho pot respondre mai.** `Requereix font externa: la
   Federació Andorrana de Tennis o l'ITF.`
-- ~~**Des de quan és capità de Copa Davis.**~~ — **`obert`, confirmat, pel mateix
-  motiu.**
+- ~~**Des de quan és capità de Copa Davis.**~~ — **`resolt` com a duplicat el
+  2026-09-19**: el segon apunt de la mateixa secció conserva la versió canònica
+  en estat **`parcial`**, amb l'evidència que ho era com a mínim el 2017.
 - ~~**Els seus 63 partits** amb l'equip andorrà, dels quals el corpus només sap
   el balanç.~~ — **`incorrecte`, corregit el 2026-09-14, i l'error és del
   corpus.** **Els 63 no són partits seus: són les ELIMINATÒRIES que ha jugat

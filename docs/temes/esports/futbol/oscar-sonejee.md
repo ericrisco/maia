@@ -115,7 +115,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   partits internacionals gairebé no va sortir mai del país per jugar.**
 - ~~**Els seus quatre gols.**~~ **[parcial · 2026-09-19]** La taula confirma
   **4 gols amb Andorra**, però el bolcat no en dona els rivals ni les dates.
-- **Si va ser capità, i quan.**
+- ~~**Si va ser capità, i quan.**~~ — **`parcial` el 2026-09-19**: la [FAF el descriu com a capità en el seu comiat del 15 d'octubre del 2015](../../../fonts/faf-sonejee-comiat-2015.md) i explica que va lliurar el braçalet a Ilde Lima. **La font no estableix des de quin any exercia el càrrec.**
 
 ## Related
 
