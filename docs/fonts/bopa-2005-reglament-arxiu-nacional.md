@@ -25,6 +25,18 @@ d'Andorra»**, buit registrat a
 
 ## Què en treu
 
+## El fons audiovisual
+
+El reglament crea una **secció dels fons d'imatges, gràfics i audiovisuals**
+(articles 6.1 i 12), que ha d'organitzar els ingressos i elaborar **inventaris,
+catàlegs i altres instruments de descripció** (article 12.d). El règim general
+garanteix l'accés des de l'ingrés, amb les excepcions dels articles 19-24
+(matèries classificades, dades personals, donacions o documents encara no
+tractats). La consulta és gratuïta a la sala (article 26) i la reproducció
+audiovisual depèn de l'ús, la propietat intel·lectual i la citació d'autors i
+productors (article 53). **La norma fixa el marc, però no identifica el fons
+RTVA ni en dona volum o inventari.**
+
 **El reglament no té un capítol específic per al fons notarial** —
 s'hi aplica **el règim general d'accés a la documentació** (capítol
 tercer, articles 15-40):
