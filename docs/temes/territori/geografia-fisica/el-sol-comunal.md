@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-13T04:45:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [territori, comunals, quarts, dret, lexic, propietat, font-primaria]
 ---
 
@@ -183,8 +183,14 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    eclesiàstica, mort per decret
    episcopal](../../economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md).
    **Els quatre capítols ja estan llegits.**
-6. **Si la divisió en tres franges es pot cartografiar** amb la toponímia que el
-   corpus ja té.
+6. ~~**Si la divisió en tres franges es pot cartografiar** amb la toponímia que el
+   corpus ja té.~~ — **`parcial` el 19-09-2026**: la font permet cartografiar la
+   idea general —rebaixants baixos, comunals al damunt i emprius a les parts
+   altes—, però també diu que la divisió entre quarts i parròquies **no segueix
+   cap regla constant**, que hi ha terres de quart per damunt de terres de comú i
+   que els emprius poden baixar fins al riu. Amb aquesta font i la toponímia
+   disponible no es pot fer un mapa general sense convertir una descripció
+   orientativa en límits que el document no afirma.
 
 ## Related
 
