@@ -273,8 +273,9 @@ llibre:**
    era.** **Nou.**
 9. **Si el correu intern gratuït va durar**, **i quan es va professionalitzar.**
    **El corpus té el 1904 i el present, i res entremig.**
-10. **Quan arriba el telèfon a Andorra.** **La font el dona per no arribat el
-    1904.**
+10. ~~**Quan arriba el telèfon a Andorra.**~~ — **`parcial`, actualitzat el
+    2026-09-19**: la font estableix que **el telèfon encara no havia arribat a
+    Andorra el 1904**. **Segueix oberta la data exacta de la primera arribada.**
 
 ## Related
 
