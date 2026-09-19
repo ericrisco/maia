@@ -308,10 +308,10 @@ defensava.`
 7. **La concessió emfitèutica de Sant Julià del 21 d'abril de 1883**: **el lloc
    és en blanc al text** («*en lo lloch nomenat ……*») i **els noms dels
    concessionaris no els reprodueix.**
-8. **De quina font prové el document de 1366**, que és **la raó de la desconfiança
-   de l'autor**. — **Tanca a mitges el buit 3 de [el sòl
-   comunal](../../territori/geografia-fisica/el-sol-comunal.md)**: **la raó és la
-   procedència, no el contingut.**
+8. ~~**De quina font prové el document de 1366**, que és **la raó de la
+   desconfiança de l'autor**.~~ — **`parcial` el 2026-09-19**, com a [el sòl
+   comunal](../../territori/geografia-fisica/el-sol-comunal.md): la raó és la
+   procedència, no el contingut; **la font exacta continua sense identificar-se.**
 9. **La caució que el Consell General va rebre «fa uns quinze anys»**: **de qui,
    per què i de quant.**
 10. **Si algú va impugnar mai cap d'aquestes concessions** davant de cap tribunal,
