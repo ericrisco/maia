@@ -78,6 +78,12 @@ d'Escaldes-Engordany.»**
 **Museu Nacional d'Art de Catalunya** i el **Museu Abelló** de Mollet del
 Vallès. Vegeu [museus i arxius](../museus-i-arxius/README.md).
 
+La pàgina del **Comú d'Escaldes-Engordany** confirma el CAEE com a equipament
+amb una col·lecció permanent de Viladomat, una altra de maquetes romàniques i
+una sala d'exposicions. Les escultures de Viladomat són a la **primera planta**
+de l'antic cinema i garatge Valira; la font també diu que es va traslladar a
+Escaldes per motius polítics i hi va morir el 1989.
+
 ## L'obra de fora, perquè situa qui era
 
 **No era un escultor local que passava per Andorra.** La font en llista obres
@@ -120,10 +126,16 @@ el que està documentat s'escriu.
   obres de Viladomat, 50 exposades**, i una col·lecció de maquetes d'art
   romànic de Josep Colomé
   ([font](../../../fonts/wikipedia-ca-centre-art-escaldes-engordany.md)).
-- **Si va fer obra andorrana entre el 1967 i el 1989.** Vint-i-dos anys vivint
-  al país i la font només li'n dona dues obres, totes dues dels seixanta.
-- **Qualsevol font andorrana.** Tot el que el corpus en sap ve d'una entrada
-  escrita des de Catalunya.
+- ~~**Si va fer obra andorrana entre el 1967 i el 1989.** Vint-i-dos anys vivint
+  al país i la font només li'n dona dues obres, totes dues dels seixanta.~~ —
+  **`parcial`, confirmat el 2026-09-19**: la pàgina del CAEE confirma una
+  producció extensa i la col·lecció permanent escaldenca; el corpus encara no
+  té l'inventari d'encàrrecs andorrans entre 1967 i 1989.
+- ~~**Qualsevol font andorrana.** Tot el que el corpus en sap ve d'una entrada
+  escrita des de Catalunya.~~ — **`parcial`, confirmat el 2026-09-19**: el
+  Comú d'Escaldes-Engordany descriu el CAEE, la sala de Viladomat i el seu
+  trasllat i mort a Escaldes; encara falta una font andorrana que inventariï tota
+  la seva obra al país.
 
 ## Related
 
