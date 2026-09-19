@@ -123,14 +123,13 @@ resposta honesta és «no ho sabem».**
   **el tamarro té itineraris promoguts per Visit Andorra i pel comú de Sant
   Julià de Lòria**, i **va ser mascota olímpica el 1991**. **Del que Amades en
   deia, en canvi, segueix sense haver-hi confirmació andorrana.**
-- **Les bruixes d'Engolasters** en alguna font andorrana anterior o posterior a
-  Amades. — **Context afegit el 18-09-2026, no resposta**: Galinier-Pallerola
-  estudia set-cents testaments andorrans (segles XVI-XIX) i conclou que
-  «**l'ànima andorrana no està angoixada per la bruixa**»
-  ([font](../../../fonts/persee-resenya-galinier-pallerola.md)). **No
-  confirma ni desmenteix aquesta llegenda concreta**: només afegeix que, en
-  el registre que ell estudia, la por a la bruixeria no hi apareix com a
-  tret dominant.
+- ~~**Les bruixes d'Engolasters** en alguna font andorrana anterior o posterior a
+  Amades.~~ — **`parcial` el 19-09-2026**: Galinier-Pallerola estudia set-cents
+  testaments andorrans (segles XVI-XIX) i conclou que «**l'ànima andorrana no
+  està angoixada per la bruixa**» ([font](../../../fonts/persee-resenya-galinier-pallerola.md)).
+  Això acota el buit amb un registre històric ampli que no mostra la por a la
+  bruixeria com a tret dominant, però **no confirma ni desmenteix la llegenda
+  concreta d'Engolasters**.
 - ~~**Les guerres entre moros i catalans de Sant Julià**: si mai s'hi van fer.~~
   — **`resolt` en la mesura que una absència es pot resoldre.** **[El cas
   Amades](../../historia/historiografia/el-cas-amades.md)** recull el veredicte
