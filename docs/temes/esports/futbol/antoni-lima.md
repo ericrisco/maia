@@ -85,8 +85,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   l'Espanyol**. **Un andorrà pels planters dels dos grans.** Compareu-ho amb
   [Luis Basagaña](../altres-esports/luis-basagana.md), **el primer andorrà que
   va jugar a Primera**.
-- **El seu gol.** — **`obert`, i el bolcat en confirma el compte: un de sol en
-  64 partits**, **entre 1997 i 2009**. **No en dona ni data ni rival.**
+- ~~**El seu gol.**~~ — **`resolt` el 19-09-2026**: la taula d'internacionals
+  del bolcat de la fitxa dona l'únic gol el **16 d'octubre de 2002**, a
+  **Sofia**, contra **Bulgària**, en la classificació per a l'Euro 2004, amb
+  resultat **1–2** ([font local](../../../fonts/wikipedia-atletes-andorrans.md)).
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
