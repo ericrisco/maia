@@ -55,7 +55,7 @@ El corpus té els tres moments inaugurals de la selecció amb nom:
   [FAF](../../../fonts/faf-agusti-pol-gol-1996.md) fixa el gol al **minut 61**
   i explica que va ser l'**empat a 1** després del gol d'Estònia al minut 36.
   La crònica no descriu la jugada més enllà d'aquesta seqüència.
-- **Els seus clubs.**
+- ~~**Els seus clubs.**~~ **`resolt` el 2026-09-19**: la taula de National Football Teams documenta les cinc etapes **UDA Gramanet (1995/96–1997/98), FC Andorra (1998/99–1999/00), FC Santboià (2000/01), UE Vilassar de Mar (2001/02–2004/05) i CE Mataró (2005/06–2006/07)**. Algunes temporades no tenen estadístiques completes; la fitxa conserva les etapes, no una suma exhaustiva. ([fitxa de la font](../../../fonts/national-football-teams-agusti-pol-clubs.md))
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i

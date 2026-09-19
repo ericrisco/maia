@@ -20,6 +20,7 @@ branca d'esports, que era la més buida del corpus.
 | `ildefons-lima-comiat-2023.txt` | FAF i Bondia, comiat internacional d'Ildefons Lima — **drets reservats, només extracte de citació breu** |
 | `faf-marcio-vieira-retirada-2024.txt` | Federació Andorrana de Futbol i BeSoccer, retirada internacional de Márcio Vieira — **drets reservats, només extracte de citació breu** |
 | `national-football-teams-koldo-balanc.txt` | National Football Teams i FAF, balanç de Koldo Álvarez com a seleccionador — **drets reservats, només extracte de citació breu** |
+| `national-football-teams-agusti-pol-clubs.txt` | National Football Teams, clubs i temporades d'Agustí Pol — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 
