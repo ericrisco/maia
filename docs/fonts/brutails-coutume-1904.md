@@ -159,9 +159,10 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    absència, tutela, família, matrimoni, dot, augment, hereu, llegítima,
    marmessors, successió i *vincle*; el VI, béns públics i privats, comunals,
    *bohigues*, servituds, censos, préstecs, *censal*, *violari*, prescripció,
-   expropiació, venda i *carta de gràcia*. **Els capítols VII–IX continuen
-   oberts**; aquests tres capítols no es presenten com si fossin la lectura del
-   conjunt.
+   expropiació, venda i *carta de gràcia*; el VII, organització judicial,
+   bayles, Jutge d'Apel·lacions, *tercera sala*, visures, Corts, viguiers,
+   *rahonadors*, *nunci* i auxiliars. **Els capítols VIII–IX continuen oberts**;
+   aquests quatre capítols no es presenten com si fossin la lectura del conjunt.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
 4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
