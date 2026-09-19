@@ -66,7 +66,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus vint-i-un partits.**
+- ~~**Els seus vint-i-un partits.**~~ **[parcial · 2026-09-19]** La taula ja
+  confirma **21 partits amb Andorra i 1 gol**, del qual consta el partit del
+  **28 de març del 2022 contra Grenada**. Encara en falten els rivals i les
+  dates dels altres partits.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

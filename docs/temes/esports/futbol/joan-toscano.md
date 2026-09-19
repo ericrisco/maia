@@ -69,7 +69,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   parròquia, Andorra la Vella**, i **cap segona via independent ho
   confirma.** Vegeu [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
   `Requereix font externa: la fitxa de la FAF.`
-- Els seus vint-i-un partits.
+- ~~Els seus vint-i-un partits.~~ **[parcial · 2026-09-19]** La taula de
+  seleccions confirma **21 partits amb Andorra i 0 gols**. Encara en falten els
+  rivals, les dates i el detall partit a partit.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

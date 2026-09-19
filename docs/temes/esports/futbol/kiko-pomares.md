@@ -68,7 +68,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus tres partits.**
+- ~~**Els seus tres partits.**~~ **[parcial · 2026-09-19]** La taula ja
+  confirma **3 partits amb Andorra U19** i **9 amb l'U21**, a més d'**11 amb
+  l'absoluta**. Encara en falten els rivals, les dates i el detall partit a
+  partit.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

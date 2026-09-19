@@ -65,7 +65,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   16 de febrer segons `worldfootball.net` i la Viquipèdia en polonès.** **El
   corpus no en tria cap.** Vegeu [l'avís sobre aquesta sèrie de
   buits](./README.md#els-altres-cinquanta-tres).
-- Els seus dotze partits.
+- ~~Els seus dotze partits.~~ **[parcial · 2026-09-19]** La taula de
+  seleccions confirma **12 partits amb Andorra i 0 gols**. Encara en falten els
+  rivals, les dates i el detall partit a partit.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

@@ -64,7 +64,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   segons **Wikidata i National Football Teams**, que hi coincideixen —**tot i
   que discrepen en el mes de naixement, juliol contra març.** Vegeu [l'avís
   sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
-- Els seus nou partits.
+- ~~Els seus nou partits.~~ **[parcial · 2026-09-19]** La taula de seleccions
+  confirma **9 partits amb Andorra i 0 gols**. Encara en falten els rivals, les
+  dates i el detall partit a partit.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
