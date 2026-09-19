@@ -199,9 +199,13 @@ Gairebé tot. El corpus **no té res** sobre:
   Federació Andorrana de Futbol **ja tenen fitxa** des del mateix dia:
   [clubs i competicions](./futbol/clubs-i-competicions/README.md). **El que
   segueix obert són els clubs un per un.**
-- El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars — i
+- ~~El **Palau de Gel d'Andorra**, a Canillo, on van a patinar els escolars — i
   **on juga [la selecció d'hoquei gel](./seleccions/lhoquei-gel.md)**, que hi va
-  perdre **24-2 contra Liechtenstein el 2025**.
+  perdre **24-2 contra Liechtenstein el 2025**.~~ — **`resolt` el 19-09-2026**:
+  la fitxa pròpia [El Palau de Gel de Canillo](./altres-esports/el-palau-de-gel.md)
+  ja en documenta la ubicació, la pista nacional, els serveis i les xifres del
+  Comú fins al 2011. El cost actual i l'any de construcció continuen oberts a
+  aquella fitxa.
 - El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
   fase 3 i no està recollit enlloc.
 
