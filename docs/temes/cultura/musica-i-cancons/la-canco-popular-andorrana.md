@@ -137,7 +137,7 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
 3. **Si els enregistraments originals** de les entrevistes es conserven, i sota
    quines condicions ([el criteri de l'AEA](../museus-i-arxius/larxiu-detnografia.md)).
 4. **El repertori del Cor** i si ha encarregat obra andorrana.
-5. **Si hi ha més cors** a Andorra.
+5. ~~**Si hi ha més cors** a Andorra.~~ — **`parcial`, confirmat el 2026-09-19**: el corpus ja identifica, a més del Cor dels Petits Cantors, la **Coral Rocafort** de Sant Julià, els **Petits Cantaires lauredians** i diversos grups corals d’Ordino ([les caramelles](../../costums/caramelles/les-caramelles.md)); continua obert el cens complet de cors i les seves dates.
 6. ~~**Les caramelles**, que el corpus té esmentades i no descrites.~~ —
    **`resolt` el 18-09-2026**: [les caramelles](../../costums/caramelles/les-caramelles.md)
    ja tenen fitxa pròpia, amb l'origen, el calendari de la cantada, la recollida
