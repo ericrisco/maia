@@ -180,9 +180,12 @@ legal deu anys seguits no era una regla escrita: era una decisió repetida.**
   l'article 17 de la Llei del pressupost de cada any**, i **cap norma no fixa la
   relació entre els dos tipus.** **Per què la decisió canvia el 2025 no consta
   ni a la llei ni al seu preàmbul.**
-- **El desglossament per ministeris**, que aquesta branca no porta i el llibre
-  del pressupost sí
-  ([el que ja està compromès](../../economia/banca-i-fiscalitat/el-que-ja-esta-compromes.md)).
+- ~~**El desglossament per ministeris**~~ — **`resolt` el 19-09-2026**:
+  el llibre del pressupost distribueix els **806.037.021,75 €** entre els
+  **tretze ministeris** i la taula suma exactament aquest total. Finances hi
+  figura amb **163.722.589,58 € (20,3%)** i Salut amb **121.413.814,34 €
+  (15,1%)**; la resta de partides i el contrast aritmètic són a
+  [les partides ministerials del pressupost 2026](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md#les-partides-ministerials-una-per-una).
 - **Per què el 2009 cau un 14,7%.** **És l'única caiguda gran de la sèrie i la
   font no la comenta.**
 
