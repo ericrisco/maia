@@ -241,14 +241,12 @@ gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
 6. **Si els menors de vint-i-cinc anys podien plaidejar**, i des de quan.
    **Usatges i pràctica andorrana no coincideixen** i **la font no en cita cap
    sentència.**
-7. **Què era el *peculi* d'un menor a Andorra** segueix obert; **el sentit
-   general, `resolt` el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)): **`peculi`** són
-   **els béns monetaris que algú té particularment**, i **el diccionari el
-   documenta amb les Costums de Tortosa parlant del *peculi adventici* del «fill
-   famílies»** —**els béns que li són deixats o donats**—, que és justament la
-   figura d'aquesta fitxa. **El que el corpus no pot dir és si Andorra seguia
-   aquesta distinció**, ni **si el salari d'un fill era seu o del pare**: cap
-   font del corpus no ho toca.
+7. ~~**Què era el *peculi* d'un menor a Andorra.**~~ — **`parcial`, actualitzat
+   el 2026-09-19**: el [DCVB](../../../fonts/dcvb.md) fixa el sentit general de
+   **`peculi`** com els béns monetaris que algú té particularment i documenta el
+   *peculi adventici* com els béns deixats o donats al fill de família. **Segueix
+   oberta l'aplicació específica a Andorra i si el salari d'un fill era seu o
+   del pare.**
 8. **Si l'emancipació va arribar a regular-se mai**, o va continuar sent
    excepcional.
 9. ~~**Quantes tuteles hi va haver i com es controlaven.**~~ — **`parcial` el
