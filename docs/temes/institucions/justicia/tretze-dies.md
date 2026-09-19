@@ -166,4 +166,8 @@ judicial** amb els mitjans al seu abast.
   aquell procediment, amb un sostre total d'**un mes**
   ([el recurs d'empara](./el-recurs-dempara.md)). **La resta dels 221 articles
   segueix sense determinar.**
-- **Els llindars de quantia entre ordinari i abreujat**, no llegits.
+- ~~**Els llindars de quantia entre ordinari i abreujat**, no llegits.~~ —
+  **`parcial`**: aquesta fitxa ja documenta que, en el procediment abreujat,
+  l'assistència d'advocat és facultativa quan la quantia **no supera els 1.500
+  euros** (article 36.1). El llindar processal complet que decideix quan un
+  assumpte va per la via ordinària o l'abreujada encara no s'ha buidat.
