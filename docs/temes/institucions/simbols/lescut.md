@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: vilar-andorre-1904
-timestamp: 2026-09-13T06:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [simbols, heraldica, casa-de-la-vall, coprincipat, llati, patrimoni]
 ---
 
@@ -109,8 +109,14 @@ descrigui**.
 
 ## Buits registrats
 
-1. **El blasó oficial vigent**, amb font. Sense això, l'atribució dels pals queda
-   **en suspens**.
+1. ~~**El blasó oficial vigent**, amb font. Sense això, l'atribució dels pals queda
+   **en suspens**.~~ — **`parcial` el 19-09-2026**: l'annex de la versió
+   consolidada de la **Llei sobre la utilització dels signes d'Estat** defineix
+   l'**escut tradicional** en quatre cases —Bisbat, Catalunya, Foix i Bearn— i
+   admet la divisa **«Virtus Unita Fortior»**. La mateixa llei reserva a
+   l'autoritat competent la definició de la forma oficial i el llibre de normes
+   gràfiques; per tant, queda pendent trobar aquesta especificació gràfica
+   vigent i no es força la transcripció heràldica de Vilar.
 2. **Qui va gravar l'escut del portal i quan.** Vilar diu que l'edifici és del
    segle XVI i **no data la pedra**.
 3. **Qui va escriure els quatre versos llatins**, i quan.
