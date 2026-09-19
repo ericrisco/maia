@@ -212,8 +212,13 @@ compensacions obligatòries per acomiadament**, **les beques d'estudis reglats**
   recurs davant la jurisdicció administrativa** (article 147). `Requereix
   saber quants recursos resol la Comissió cada any i quants n'estima; és una
   dada d'execució que la llei no dona.`
-- **Els tipus de l'alcohol i dels hidrocarburs** no s'han extret; ni **quant val
-  l'element de CO₂**.
+- ~~**Els tipus de l'alcohol i dels hidrocarburs** no s'han extret; ni **quant val
+  l'element de CO₂**.~~ — **`parcial` el 19-09-2026**: [els tipus
+  impositius](./els-tipus-impositius.md#impostos-especials) ja conserva el tipus
+  normal de l'alcohol (**25 €/hl d'alcohol pur**), la cervesa (**0,0136 €/l**),
+  el vi (**0,0312 €/l**) i la regla dels hidrocarburs mesurats a 15 °C, amb
+  l'element de CO₂ calculat per tona i factor d'emissió. **Resta obert l'annex
+  sencer de tipus i el valor de l'element de CO₂ per producte.**
 - ~~**L'IRNR** només s'ha identificat, no llegit.~~ — **`resolt` el 17-09-2026** a
   «[L'impost dels que no viuen aquí](#limpost-dels-que-no-viuen-aqui)»
   (`docs/raw/lleis/irnr.txt`, **Llei 94/2010**, 51 articles). `Queden els
