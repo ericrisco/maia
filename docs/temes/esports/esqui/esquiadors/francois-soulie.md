@@ -77,9 +77,10 @@ la Casa**, el poble andorrà de la frontera francesa; ell, **a Carcassona**.
   puntua quan hi ha relleu.**
 - ~~**Quan va plegar.** ~~— **`obert`, confirmat**: **el bolcat diu «competeix des
   del 1999» i no en dona final.**
-- **Si té relació amb Laure Soulié.** — **`obert`, no arbitrat**: vegeu
-  [Laure Soulié](./laure-soulie.md). **Ell va néixer a CARCASSONA, a l'Aude, el
-  22 de març del 1978**, **181 cm**, i **el bolcat el dona com a andorrà.**
+- ~~**Si té relació amb Laure Soulié.**~~ — **`resolt` el 19-09-2026**:
+  [La Dépêche del Midi](../../../../fonts/ladepeche-francois-soulie-2024.md)
+  recull que François l'anomena explícitament **«ma sœur Laure»**. **Són
+  germans**; la font no aporta una genealogia més completa.
 
 ## Related
 

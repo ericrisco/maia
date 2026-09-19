@@ -87,12 +87,10 @@ afirma parentiu i registra la coincidència.**
   **El corpus registra la forma**: **un país sense estructura no perd els seus
   esportistes: els presta.** **És el mateix mecanisme, invertit, del
   [BC Andorra](../../altres-esports/bc-andorra.md) i de la regla de la FIBA.**
-- **Si té relació amb François Soulié.** — **`obert`, i el corpus no ho
-  arbitra.** **[François Soulié](./francois-soulie.md) va néixer a Carcassona,
-  a l'Aude**, i **ella al PAS DE LA CASA, el 28 d'abril del 1987, amb mare
-  francesa.** **Mateix cognom i el mateix vincle francès per totes dues bandes.**
-  **Cap font no els relaciona.** `hipòtesi, no verificada.`
-  **160 cm i 49 kg.**
+- ~~**Si té relació amb François Soulié.**~~ — **`resolt` el 19-09-2026**:
+  [La Dépêche del Midi](../../../../fonts/ladepeche-francois-soulie-2024.md)
+  recull que François l'anomena explícitament **«ma sœur Laure»**. **Són
+  germans**; la font no aporta una genealogia més completa.
 
 ## Related
 
