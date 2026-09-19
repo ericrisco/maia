@@ -203,14 +203,11 @@ on es va discutir, segueix obert.**
   **D'on venien i si eren andorrans, segueix obert.**
 - ~~**Què s'hi ensenyava**~~ — **`parcial`**: **Català i gramàtica castellana** és
   tot el que el llibre en diu. **La resta del currículum, obert.**
-- **Què valien 1.000-1.200 pessetes** a l'Andorra de 1920. — **`obert`, i ara
-  amb una peça més**: el llibre precisa que **«la peseta española es la moneda
-  oficial, aun cuando circula también la francesa, pero al cambio»**. **Ja se sap
-  en quina moneda és la xifra; encara no què comprava.** **És el mateix buit
-  transversal que declaren [la Cambra de Comerç i la
-  formació](../../economia/comerc/la-cambra-de-comerc-i-la-formacio.md) i
-  [la formació professional](./la-formacio-professional.md)**: **el corpus no té
-  cap salari base andorrà de cap any.**
+- ~~**Què valien 1.000-1.200 pessetes** a l'Andorra de 1920.~~ — **`parcial` el
+  19-09-2026**: el llibre precisa que **la pesseta espanyola era la moneda
+  oficial**, amb la francesa en circulació «al cambio»; encara no sabem què
+  comprava aquella quantitat. El corpus no té cap salari base andorrà de cap
+  any per comparar-la.
 - **Si hi ha actes comunals** sobre aquestes escoles. **Probablement sí**, i
   serien font primària de primer ordre
   ([museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md)).
