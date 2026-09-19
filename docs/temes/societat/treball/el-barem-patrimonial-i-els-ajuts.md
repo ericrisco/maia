@@ -153,7 +153,9 @@ història del barem, no regla aplicable avui.**
   —el decret del 2017 va quedar derogat el 2019 com a modificació del reglament
   del 2016, i el reglament del 2019 ho va ser al seu torn el 2020—. `Requereix,
   encara, l'aplicació administrativa i els indicadors concrets.`
-- El reglament de 2020 diu que el patrimoni iguala el barem, mentre que la
+- ~~El reglament de 2020 diu que el patrimoni iguala el barem, mentre que la
   definició legal de precarietat diu que no el supera. Els originals
   confirmen les dues formulacions; el contrast i les correccions pendents
-  consten a [l'ajut per desocupació](lajut-per-desocupacio-involuntaria.md).
+  consten a [l'ajut per desocupació](lajut-per-desocupacio-involuntaria.md).~~ —
+  **`resolt` com a duplicat el 19-09-2026**: la discrepància i els residus
+  d'interpretació es conserven com a buit canònic a [l'ajut per desocupació](lajut-per-desocupacio-involuntaria.md).
