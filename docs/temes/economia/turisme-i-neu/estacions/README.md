@@ -76,9 +76,13 @@ anglesos».**
 
 ## El que falta
 
-- **Les xifres.** **Cap: ni visitants, ni facturació, ni ocupació, ni llocs de
+- ~~**Les xifres.** **Cap: ni visitants, ni facturació, ni ocupació, ni llocs de
   treball.** **La Cambra de Comerç publica informes anuals que el corpus no ha
-  consultat.** **Segueix sent el buit principal.**
+  consultat.**~~ — **`parcial` el 2026-09-19**: [Naturland](./naturland.md) ja
+  aporta la caiguda del **35% de visitants el 2020**, la facturació de **4,837
+  M€ el 2022**, l'**EBITDA de 303.000 €**, les pèrdues i els comptes de **2023 a
+  2025**. **Encara falten les sèries comparables de Grandvalira, Vallnord i PGI,
+  i el desglossament d'ocupació i llocs de treball.**
 - ~~**L'any de la fusió** entre Viladomat i el Comú d'Encamp.~~ — **`resolt`
   el 19-09-2026** com a buit duplicat: el buit canònic continua a
   [Grandvalira](./grandvalira.md), que ara conserva **agost de 1968** i el dia
