@@ -248,13 +248,10 @@ enunciat:**
    **Tercera tanda que el corpus el reclama** i **ara en sap tres disposicions
    concretes que endureixen el còmput del termini.** **Prioritari.**
    `Requereix el Journal Officiel del 20 de juliol de 1888.`
-2. **El manuscrit del senyor Palmitjavila**, que aquí dona **la font andorrana
-   de la regla del copríncep declarat** i **el límit territorial de les
-   intimacions i dels testimonis.** — **`font_externa`. El comptador «dotzena
-   tanda seguida» es retira el 18-09-2026**: **dotze fitxes que reclamen el
-   mateix manuscrit són un buit, no dotze**, i la prioritat «per acumulació»
-   mesurava el corpus, no la font. **Segueix sent prioritari pel contingut**:
-   aquí és l'única autoritat de dues regles. Enunciat canònic a [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
+2. ~~**El manuscrit del senyor Palmitjavila**, que aquí dona la font andorrana
+   de la regla del copríncep declarat i el límit territorial de les intimacions
+   i dels testimonis.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
+   canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 3. **L'afer de 1749-1753** davant del Consell Sobirà del Rosselló, **i l'acord
    dictat «prop del rierol de la Palomera»**. ~~**On és aquest rierol**~~ i
    **quins són els «privilegis dels habitants»** que exigien dictar dins del

@@ -278,9 +278,9 @@ arriben, el rellotge corre.**
    e intrincada» el batlle consulta un advocat** —i si no en queda satisfet, un
    segon— **«sens dir empero a les parts que vulga consultar, pues no deu
    donarlos semblant satisfacio»**. **La consulta era obligatòriament secreta.**
-7. **El manuscrit del senyor Palmitjavila**, **amb nota marginal pròpia sobre
-   els terminis.** — **`font_externa`, comptador retirat el 18-09-2026**;
-   enunciat canònic a [trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
+7. ~~**El manuscrit del senyor Palmitjavila**, **amb nota marginal pròpia sobre
+   els terminis**.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
+   canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 8. **Els documents de 1580, 1783, 1793, 1828, 1841 i 1858** sencers.
 9. **Quantes vegades es va allargar el termini de les *inhibitories* per l'estat
    dels camins**, **i si hi havia cap criteri.**
