@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: estadistica-ad
-timestamp: 2026-09-18T22:30:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [economia, comerc, preus, consum, estadistica, treball, habitatge]
 ---
 
@@ -231,10 +231,10 @@ les actes.`
   coincideixi amb la nomenclatura catalana oficial de COICOP.`~~ — **`no-es-buit`
   el 19-09-2026**: és un avís de representació de la font i no presenta la
   traducció com a nomenclatura oficial.
-- **Què va passar el juliol i el setembre del 2022 amb l'autobús**, norma per
+- ~~**Què va passar el juliol i el setembre del 2022 amb l'autobús**, norma per
   norma i data per data. El corpus té **els dos salts de l'índex** i **una
   menció de l'abonament gratuït**, i **no ha creuat cap de les dues coses amb el
-  BOPA**. `pregunta_oberta`
+  BOPA**.~~ — **`parcial` el 19-09-2026**: la nota oficial del Govern del **1 de juliol de 2022** confirma l'entrada en vigor de l'abonament mensual gratuït per a les línies nacionals, com a prova pilot fins al 31 de desembre, i la del **6 de setembre de 2022** confirma un reforç de **18 autobusos** en hores punta a partir de l'inici del curs, motivat per l'augment d'usuaris de l'abonament gratuït i del Bus Jove. Són les dues mesures que el corpus pot assignar als salts de juliol i setembre; encara no hi ha al corpus la norma o l'acte del BOPA que permeti atribuir-los norma per norma a l'índex. Fonts: [`2022-07-01-abonament-gratuit.txt`](../../../raw/web/economia/transport/2022-07-01-abonament-gratuit.txt) i [`2022-09-06-reforc-bus-jove.txt`](../../../raw/web/economia/transport/2022-09-06-reforc-bus-jove.txt).
 - **Els preus abans del 1997 no existeixen com a sèrie.** L'índex andorrà
   comença el **desembre del 1997**. Per a qualsevol cosa anterior —el que
   costava el pa als anys cinquanta, la pesseta contra el franc— **el corpus
