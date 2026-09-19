@@ -91,6 +91,15 @@ algú l'ha enregistrat.**
 **El corpus no ha vist aquests DVD.** **Prioritat màxima de tota la recerca
 pendent.**
 
+Una ressenya institucional d'Àngels Mach i Buch, publicada per la Societat
+Andorrana de Ciències i allotjada al portal del Govern, concreta la pista:
+Julián va fer treball de camp etnomusicològic entre **1990 i 2000**, amb **264
+hores de gravacions** i **gairebé 180 informants**. També cataloga els títols com
+a **CD**: *Les cançons eròtiques i de carnaval de l'Andorra del 1800* (1999,
+25 cançons) i *La música popular religiosa de l'Andorra del 1800* (2000, doble
+CD, 15 cançons), a més de tres àlbums més. La font no dona un enllaç de consulta
+dels àudios i no substitueix la lectura dels enregistraments.
+
 ## El Cor dels Petits Cantors d'Andorra
 
 **Creat el 1991.** Dades que el corpus reté com a fets:
@@ -115,9 +124,16 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
 
 ## Buits registrats
 
-1. **Els dos DVD d'Eva Julián.** **Prioritat màxima.** Existeixen, són
-   andorrans, són orals i un és del registre que més falta.
-2. **Qui és Eva Julián** i on es poden consultar.
+1. ~~**Els dos enregistraments d'Eva Julián**, coneguts per la ponència com a
+   DVD i catalogats per la ressenya institucional com a CD. **Prioritat màxima.**
+   Existeixen, són andorrans, són orals i un és del registre que més falta.~~ —
+   **`parcial`, confirmat el 2026-09-19**: la ressenya oficial en dona els anys,
+   el format catalogràfic i el nombre de peces (25 i 15), però el corpus encara
+   no n'ha pogut escoltar cap.
+2. ~~**Qui és Eva Julián** i on es poden consultar.~~ — **`parcial`, confirmat
+   el 2026-09-19**: la font institucional identifica Eva Julián i Adán, la seva
+   biografia, el treball de camp, el llibre i els àlbums; la consulta directa dels
+   enregistraments continua pendent.
 3. **Si els enregistraments originals** de les entrevistes es conserven, i sota
    quines condicions ([el criteri de l'AEA](../museus-i-arxius/larxiu-detnografia.md)).
 4. **El repertori del Cor** i si ha encarregat obra andorrana.
@@ -127,7 +143,11 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
    ja tenen fitxa pròpia, amb l'origen, el calendari de la cantada, la recollida
    d'ous i diners, les diferències entre parròquies i els mots
    *caramellaires* i *Pasqüetes*.
-7. **Un cançoner andorrà**, si existeix.
+7. **Un cançoner andorrà**, si existeix. — **`parcial`, confirmat el 2026-09-19**:
+   la mateixa ressenya documenta el volum i l'àudio *Andorra: Cançons de
+   vetllades vora el foc* (Artur Blasco i Yannick Lopes, 2017), que reutilitza
+   reculls d'Eva Julián i conté una dotzena de cançons; no prova que sigui un
+   cançoner exhaustiu.
 
 ## Related
 
