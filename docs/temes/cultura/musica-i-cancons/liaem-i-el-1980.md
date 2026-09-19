@@ -132,15 +132,24 @@ I el consell concret als pares: **que no hi portin els fills a disgust**, i que
 
 ## Buits registrats
 
-1. **Els orfeons, corals i esbarts** anteriors al 1980. **Prioritari** — és on
-   viu la música popular.
+1. ~~**Els orfeons, corals i esbarts** anteriors al 1980. **Prioritari** — és on
+   viu la música popular.~~ **[parcial · 2026-09-19]** La font ja confirma que
+   abans de 1980 hi havia una activitat d'**orfeons, formacions corals i
+   esbarts**, però encara falten els noms, les dates i el repertori de cada
+   agrupació.
 2. ~~**Quina és l'orquestra professional de cambra** i quan es crea.~~ —
    **`parcial` el 19-09-2026**: el cos de la fitxa ja documenta que **cap al 2000
    Andorra en tenia una**, però no n'identifica el nom ni la data de creació.
-3. **El cor de petits cantors.**
+3. ~~**El cor de petits cantors.**~~ **[parcial · 2026-09-19]** La fitxa ja
+   documenta que **cap al 2000** Andorra tenia un cor de petits cantors; encara
+   en falten el nom formal, l'origen i la trajectòria.
 4. **El repertori**: es fa música andorrana? n'hi ha?
-5. **Mestre Roure** i l'esbart-orfeó d'Andorra la Vella
-   ([els gegants](../../costums/gegants/els-gegants.md)).
+5. ~~**Mestre Roure** i l'esbart-orfeó d'Andorra la Vella
+   ([els gegants](../../costums/gegants/els-gegants.md)).~~ **[parcial ·
+   2026-09-19]** La prosa ja identifica el **mestre Roure**, solsoní, com a
+   director de l'esbart i orfeó d'Andorra la Vella, i documenta que va portar
+   els gegants el **1982**. La seva biografia i la cronologia completa de
+   l'agrupació encara no consten.
 6. **Què ha passat des del 2000** — la font té vint-i-sis anys.
 7. ~~**Les escoles d'art comunals**, que la mateixa Diada situa **a mitjan anys
    vuitanta**, creades a **Sant Julià, Andorra la Vella i Encamp** a demanda
