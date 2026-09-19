@@ -113,8 +113,7 @@ resposta honesta és «no ho sabem».**
 
 ## Buits registrats
 
-- **Les 63 citacions andorranes d'Amades**, una per una, contrastades. **És el
-  buit mare de tota la branca de cultura popular.**
+- ~~**Les 63 citacions andorranes d'Amades**, una per una, contrastades.~~ — **`resolt` com a duplicat el 2026-09-19**: el buit canònic i el seu estat **`parcial`** són a [el cas Amades](../../historia/historiografia/el-cas-amades.md); aquesta fitxa només conserva les referències que afecten les bruixes d'Engolasters.
 - ~~**El *tamarro* a Andorra**: qualsevol font andorrana.~~ — **`parcial`, i el
   corpus té ara fitxa pròpia**: [el tamarro](./el-tamarro.md), **amb tres
   referències andorranes o d'autor andorrà**: **Joan de Déu Prats, «Andorra i la
