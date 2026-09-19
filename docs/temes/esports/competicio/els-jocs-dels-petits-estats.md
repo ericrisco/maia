@@ -339,8 +339,10 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   **`resolt`**: **la llista sencera de les vint-i-sis federacions del COA és a
   [el Comitè Olímpic](./el-comite-olimpic.md).** **Descrites una per una,
   segueix `obert`.**
-- **El treball de recerca d'Oriol Fernández Vilarrubla** sobre els Jocs, que la
-  font cita com a bibliografia. **Font localitzada i no llegida.**
+- ~~**El treball de recerca d'Oriol Fernández Vilarrubla** sobre els Jocs, que la
+  font cita com a bibliografia. **Font localitzada i no llegida.**~~ — **`parcial`,
+  actualitzat el 2026-09-19**: la referència ja està localitzada com a
+  bibliografia dels Jocs, però el corpus encara no n'ha consultat el contingut.
 - ~~**L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
   [símbols](../../institucions/simbols/README.md).~~ — **`resolt`**: **la fitxa
   existeix**, [El gran Carlemany](../../institucions/simbols/el-gran-carlemany.md).

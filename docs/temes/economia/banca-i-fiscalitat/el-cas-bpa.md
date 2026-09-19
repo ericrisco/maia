@@ -151,8 +151,10 @@ corpus.`
 2. Què va passar amb els **treballadors** de BPA.
 3. El **cas Anacleto**, citat i no explicat.
 4. L'estat **actual** de cada causa oberta, andorrana i espanyola.
-5. El reportatge **«Deu anys d'ombres: el llegat de BPA que Andorra no pot
-   esborrar»**, identificat i no llegit.
+5. ~~El reportatge **«Deu anys d'ombres: el llegat de BPA que Andorra no pot
+   esborrar»**, identificat i no llegit.~~ — **`parcial`, actualitzat el
+   2026-09-19**: el títol del reportatge ja està identificat com a font per a
+   aquesta fitxa, però el corpus encara no n'ha llegit el contingut.
 6. Com va afectar **la resta del sistema financer andorrà** i la seva reputació.
 7. El document de l'**Associació de Bancs Andorrans** sobre el sistema financer
    del 2015.

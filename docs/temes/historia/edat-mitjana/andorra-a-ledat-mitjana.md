@@ -70,8 +70,10 @@ cita.
   panorama de [l’antic règim](../antic-regim/lantic-regim.md).
 - La documentació de l'Arxiu Nacional i les actes del Consell, que arrenquen més
   tard però remeten enrere.
-- L'article de la **Catalunya Romànica** sobre el marc històric del romànic
-  d'Andorra, identificat i **no llegit**.
+- ~~L'article de la **Catalunya Romànica** sobre el marc històric del romànic
+  d'Andorra, identificat i **no llegit**.~~ — **`parcial`, actualitzat el
+  2026-09-19**: l'article ja està identificat com a font del marc històric,
+  però el corpus encara no n'ha consultat el text.
 
 ## Related
 

@@ -92,8 +92,10 @@ andorrana. **I el corpus gairebé no en sap res.**
   ([la composició per nacionalitats](../demografia/la-composicio-per-nacionalitats.md)).
   **Que un debat necessari no deixi rastre documental és, en si mateix, una
   dada.**
-- **Visc.ad**, el portal de **Participació Ciutadana del Govern d'Andorra**,
-  identificat en les cerques i **no obert**.
+- ~~**Visc.ad**, el portal de **Participació Ciutadana del Govern d'Andorra**,
+  identificat en les cerques i **no obert**.~~ — **`parcial`, actualitzat el
+  2026-09-19**: el portal institucional ja està identificat com a font
+  potencial per a aquesta branca, però el corpus encara no l'ha pogut obrir.
 - El **voluntariat** i com es mobilitza la gent.
 - **Com es discrepa en públic** en un país on tothom es coneix —
   [convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md).
