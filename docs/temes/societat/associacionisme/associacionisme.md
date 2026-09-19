@@ -51,8 +51,12 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
   d'autorització.** Reglamentat primer el 2001 i actualitzat el **2024**
   (Decret 299/2024) — **cap dels dos reglaments s'ha llegit sencer
   encara**, ni s'ha comptat quantes associacions hi consten inscrites.
-- Les **corals**, que canten [les caramelles](../../costums/caramelles/les-caramelles.md)
-  i que **tenen nom i data** que el corpus no té.
+- ~~Les **corals**, que canten [les caramelles](../../costums/caramelles/les-caramelles.md)
+  i que **tenen nom i data** que el corpus no té.~~ — **`parcial` el
+  2026-09-19**: [la fitxa de les caramelles](../../costums/caramelles/les-caramelles.md)
+  ja identifica **la Coral Rocafort** i el seu inici el **1962**, i també la
+  **Coral Casamanya**, l'Escola de Música i el Grup Artístic d'Ordino. **La
+  resta de corals i les seves dates de fundació segueixen obertes.**
 - Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
   Humanitat ([falles](../../costums/falles/falles.md)).
 - Les **entitats de festa major** parròquia per parròquia.
