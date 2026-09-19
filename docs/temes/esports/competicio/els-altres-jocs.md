@@ -240,9 +240,14 @@ Olímpic Andorrà o al CIO.**
   de bronze de taekwondo el 2026; les delegacions completes i la resta de noms
   encara falten.
 - **En quins esports** hi va Andorra a cadascuna.
-- **Els Jocs de la Joventut**, sencers. — **`obert`, i ara amb el motiu
-  escrit**: **la font que el corpus fa servir no en té pàgina.** Vegeu més
-  amunt. `Requereix el Comitè Olímpic Andorrà o el CIO.`
+- ~~**Els Jocs de la Joventut**, sencers.~~ — **`parcial` el 19-09-2026**:
+  [Maeva Estévez](../esqui/esquiadors/maeva-estevez.md) ja queda documentada a
+  **Innsbruck 2012**, en *halfpipe* i *slopestyle*, i [Ludovic
+  Albós](../altres-esports/ludovic-albos.md) i Xavier Capdevila aporten noms
+  dins l’esquí de muntanya; la fitxa olímpica també identifica **bàsquet 3x3,
+  piragüisme en esprint, esquí acrobàtic i esquí de muntanya** com a esports
+  andorrans segons Olympedia. El recompte complet de delegacions, edicions i
+  resultats encara requereix el Comitè Olímpic Andorrà o el CIO.
 - ~~**Els Paralímpics d'estiu després del 2012.**~~ — **`parcial`: el registre
   llista les edicions 2016-2024, però no documenta cap delegació andorrana.**
   **`obert`, i ara amb el
