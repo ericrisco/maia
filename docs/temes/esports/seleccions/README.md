@@ -79,7 +79,7 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
 
 ## El que falta
 
-- **Els jugadors.** **De les cinc seleccions, el corpus té set noms de tennis,
+- ~~**Els jugadors.** **De les cinc seleccions, el corpus té set noms de tennis,
   un d'hoquei, un de rugbi i les plantilles campiones de bàsquet del
   [1998](./els-deu-primers-campions-del-1998.md), el
   [2000](./els-dotze-campions-a-casa-del-2000.md), el
@@ -87,7 +87,11 @@ jugat 53 de les 63 eliminatòries de Copa Davis de la història d'Andorra.**
   [2012](./els-dotze-dels-set-segons-del-2012.md), el
   [2014](./els-dotze-del-triple-de-galera-del-2014.md) i el
   [2024](./els-dotze-campions-del-2024.md).** En bàsquet queda oberta la
-  resta del detall de les edicions no guanyades.
+  resta del detall de les edicions no guanyades.~~ — **`parcial`, actualitzat el
+  2026-09-19**: les sis fitxes de bàsquet ja donen les plantilles campiones, i
+  la branca també conserva **set noms de tennis, un d'hoquei i un de rugbi**.
+  Continua obert el detall dels jugadors de les seleccions no cobertes i de les
+  edicions de bàsquet que no van guanyar.
 - ~~**Les federacions**: de basquetbol, d'esports de gel, de rugbi i de
   tennis.~~ — **`parcial` el 18-09-2026**: representants actuals al COA
   (2024-2028) — **Basquetbol**: Joaquim Tomàs Baldrich · **Esports de
