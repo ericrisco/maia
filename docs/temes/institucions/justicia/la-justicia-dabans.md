@@ -285,7 +285,11 @@ entre els seus membres, «en una divisió de funcions pròpies d'un govern». El
    textos dels dos decrets francesos, del 1888 i del 1898, viuen al Journal
    Officiel i el corpus no els té. És una de les peticions escrites que
    esperen enviament.`
-4. **Casos concrets** jutjats sense advocat. **Hi ha memòria viva d'això.**
+4. ~~**Casos concrets** jutjats sense advocat.~~ — **`parcial`, actualitzat el
+   2026-09-19**: [La pena de mort](./la-pena-de-mort.md) documenta el judici de
+   **Pere Areny** a la Casa de la Vall, fet **sense advocats ni possibilitat de
+   defensa**. **Segueix oberta una sèrie completa de casos i la documentació
+   judicial de cadascun.**
 5. ~~**Les presons** andorranes d'aquell període.~~ — **`parcial` des del
    15-09-2026: una, amb data.** Un acte de manlleuta del **12 d'octubre del
    1797** diu que el fiat estava **«pres y detingut en la casa de la Vall»**
