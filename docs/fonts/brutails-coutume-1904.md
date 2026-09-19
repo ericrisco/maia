@@ -171,8 +171,14 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    la justícia criminal, instrucció i *visori*, presó preventiva, Corts,
    penalitat, composicions, pena de mort, gràcia i amnistia, costes i relacions
    amb la justícia criminal francesa.
-3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
-   no té per cap altra via.
+3. ~~**Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
+   no té per cap altra via.~~ — **`parcial` el 19-09-2026**: l'exemplar complet
+   d'Internet Archive ja és al disc a
+   `docs/raw/llibres/brutails-ia/brutails-coutume-ia_djvu.txt` i conserva el text OCR
+   de les peces XXIII, XXV, XXVI, XXVII, XXVIII, XXXIV i de la resta de la sèrie,
+   incloses les quatre pàgines que faltaven a la còpia de Google Books. **L'accés al
+   material queda tancat; el buidatge crític i la incorporació sistemàtica de cada
+   peça a les fitxes temàtiques encara són pendents.**
 4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
    l'extracció OCR del corpus donava il·legible.~~ — **`resolt` el
    18-09-2026**: **localitzat un tercer exemplar digitalitzat**, el PDF de
