@@ -91,8 +91,14 @@ anys després — i és el millor argument possible a favor seu.
 
 ## El que falta
 
-- **Cada figura, una fitxa**: síndic, cònsol, batlle, veguer, quèstia, visura,
-  consòrcia, emprivari, foc i lloc, defens.
+- ~~**Cada figura, una fitxa**: síndic, cònsol, batlle, veguer, quèstia, visura,
+  consòrcia, emprivari, foc i lloc, defens.~~ **`parcial`**: el corpus ja té
+  fitxes sobre [els síndics generals](../../persones/els-sindics-generals.md),
+  [el batlle](../../institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md),
+  [el veguer francès](../../institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md)
+  i [la quèstia](../../institucions/coprincipat/la-questia.md); encara falten el
+  cònsol, la visura, la consòrcia, l'emprivari, el foc i lloc i el defens com a
+  fitxes pròpies.
 - Els **Costums** i el dret consuetudinari anterior al Manual Digest.
 - Com es **governava una parròquia** en la pràctica: el consell, els caps de
   casa, els quarts.
