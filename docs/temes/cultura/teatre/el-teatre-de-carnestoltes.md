@@ -256,8 +256,11 @@ pogut datar-ne els anys**.
    a Andorra el 1956 i els muntatges populars que expliquen la seva presència
    en aquest article.
 8. **El Grup Artístic Pirene** i **Narcís Bonet**.
-9. **El lèxic del carnaval andorrà**, que el corpus ja tenia registrat com a
-   buit i **segueix obert**.
+9. ~~**El lèxic del carnaval andorrà**, que el corpus ja tenia registrat com a
+   buit i **segueix obert**.~~ — **`parcial`, actualitzat el 2026-09-19**: la
+   farsa ja documenta que incorpora referències eròtiques i **llenguatge vulgar**
+   ([el carnaval d’Encamp](../../costums/calendari-festiu/el-carnaval-dencamp.md));
+   el vocabulari complet i la seva variació parroquial continuen oberts.
 
 ## Related
 
