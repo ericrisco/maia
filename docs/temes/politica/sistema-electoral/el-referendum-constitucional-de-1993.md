@@ -243,7 +243,7 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
 
 ## El que falta
 
-- **El resultat de Sant Julià de Lòria.**
+- ~~**El resultat de Sant Julià de Lòria.**~~ **`parcial` el 2026-09-19**: el [Consell General](../../../fonts/consell-general-referendum-1993-sant-julia.md) documenta **1.412 electors, 1.067 votants i 75,57% de participació**. La pàgina no dona el desglossament parroquial de vots **Sí** i **No**, que continua obert.
 - **La campanya**: **qui feia campanya pel no, i amb quins arguments.** **La
   font diu que les reticències eren pel sistema electoral i no diu qui les
   organitzava.**

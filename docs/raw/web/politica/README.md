@@ -16,6 +16,7 @@ poques taules). **Els `.txt` són l'extracció de text i són el que es versiona
 | `ps` | https://en.wikipedia.org/wiki/Social_Democratic_Party_(Andorra) — **amb la narració 2001-2015** |
 | `ribas-reig` | https://ca.wikipedia.org/wiki/Òscar_Ribas_Reig |
 | `roser-sune` | https://ca.wikipedia.org/wiki/Roser_Suñé_Pascuet |
+| `consell-general-referendum-1993-sant-julia.txt` | Consell General, participació del referèndum constitucional de 1993 a Sant Julià de Lòria — **drets reservats, només extracte de citació breu** |
 
 **Llicència:** CC BY-SA 4.0 (Wikimedia). **Redistribuïbles.**
 
