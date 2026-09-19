@@ -368,10 +368,11 @@ diversitat lingüística de l'aula.
   llengua—. El de segona ensenyança fixa quatre competències —comprensió i
   producció de discursos orals i escrits multimodals— i els mateixos cinc blocs,
   amb síntesis diferenciades per als sistemes congregacional, francès i espanyol.
-- **El programa específic actual de música i els nivells que no són en aquesta
-  llista encara no s'han comprovat sencers en aquesta auditoria.** Els quatre
-  nivells de llengua catalana i els programes de medi/ciències humanes que són al
-  recull ja estan llegits. `Parcial: cal localitzar els altres annexos.`
+- ~~**El programa específic actual de música i els nivells que no són en aquesta
+  llista encara no s'han comprovat sencers en aquesta auditoria.**~~ **`parcial`
+  el 2026-09-19: els quatre nivells de llengua catalana i els programes de
+  medi/ciències humanes que són al recull ja estan llegits; cal localitzar els
+  altres annexos.
 - ~~**El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.~~
   **`Parcial` el 19-09-2026**: el programa actual de ciències humanes i socials

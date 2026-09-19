@@ -99,9 +99,9 @@ pel punt de tall (columna 57-58) i llegint-les per separat.
    **dins d'una llista de set**. El mateix dictamen, en canvi, **restitueix** dos
    articles que el Senat havia suprimit (54 i 58). Vegeu
    [el desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md).
-4. **Les actes de la comissió de pressupostos del Senat del 26 de juny de 1895**,
+4. ~~**Les actes de la comissió de pressupostos del Senat del 26 de juny de 1895**,
    que és **l'únic lloc on es va arribar a dir res sobre Andorra** en tot el
-   tràmit. **`parcial` el 19-09-2026:** la crònica d'*El Siglo Futuro* de l'1 de
+   tràmit.~~ **`parcial` el 19-09-2026:** la crònica d'*El Siglo Futuro* de l'1 de
    juliol confirma retrospectivament que Carvajal va censurar la intervenció del
    bisbe a la comissió i que el president Mellado va donar el debat per ja
    discutit ([extracte local](../raw/web/historia/siglo-futuro-1895-07-01-andorra.txt)).
