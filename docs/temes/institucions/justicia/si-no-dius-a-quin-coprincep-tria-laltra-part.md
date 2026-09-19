@@ -385,10 +385,13 @@ renunciando legi… quibus varietas judici[i] reprobatur*».
 
 ## Buits registrats
 
-**No consta quan s'extingeix el Tribunal Superior de Perpinyà.** El corpus té
-**les dues dates de creació i modificació** —13 de juliol del 1888 i 19 de gener
-del 1898— i **cap norma de supressió**. [La justícia d'abans](./la-justicia-dabans.md)
-ho tenia declarat com a buit i **només se'n tanca la meitat**.
+~~**No consta quan s'extingeix el Tribunal Superior de Perpinyà.**~~ —
+**`resolt` el 2026-09-19**: [la justícia d'abans](./la-justicia-dabans.md)
+documenta la **Llei qualificada de la Justícia, del 3 de setembre de 1993**,
+que substitueix els dos tribunals superiors per la Sala Civil del Tribunal
+Superior de Justícia. El Tribunal Superior de Perpinyà va funcionar fins al
+**31 de desembre de 1993**; el nou sistema es posa en funcionament el **2 de
+gener de 1994**.
 
 **Els dos decrets no s'han llegit.** El corpus en té **el que el formulari en
 cita** i **el que Brutails en critica**, i **no el text**. `Requereix el Journal
