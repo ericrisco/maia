@@ -202,7 +202,9 @@ ara** — amb datació document a document, del 1176 al 1978.
 
 ## El que falta
 
-- **L'inventari**, buidat.
+- ~~**L'inventari**, buidat.~~ — **`resolt` com a duplicat el 19-09-2026**:
+  el buit canònic, amb el buidatge unitat a unitat, és a
+  [L'inventari de les Set Claus](./linventari-de-les-set-claus.md#el-que-falta).
 - ~~Com és l'armari **físicament**: fusta, mides, època, qui el va fer.~~ —
   **`parcial` des del 14-09-2026.** El **Politar** hi dedica un capítol sencer i
   en dona **el disseny**: **dins d'una paret, com un armari**, amb **dues
