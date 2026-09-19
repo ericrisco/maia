@@ -310,8 +310,11 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
    d'educació bàsica d'adults**, del **1997**.
 5. **Dades d'habitatge**: quantes famílies vivien en habitació d'hotel o pis
    dividit, el 1989 i el 1997.
-6. **Els programes d'atenció directa de Càritas Andorrana**, que la ponència
-   detalla i aquesta fitxa només recull en part.
+6. ~~**Els programes d'atenció directa de Càritas Andorrana**, que la ponència
+   detalla i aquesta fitxa només recull en part.~~ — **`parcial` el 19-09-2026**:
+   la fitxa ja documenta el **programa de reforç escolar** per a infants amb
+   dificultats, suspès el 1996, i el **Servei de Formació d'Adults**. **Resta
+   obert l'inventari complet dels programes d'atenció directa.**
 
 ## Related
 
