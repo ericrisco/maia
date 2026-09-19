@@ -149,26 +149,28 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    dels documents de Gallica són els de la BnF i no s'han comprovat: el corpus
    en cita la localització, no n'ha baixat cap imatge. El que segueix obert és
    l'URL de la digitalització de Google Books d'on surt el text del corpus.`
-2. ~~**Els capítols IV a IX**, sencers.~~ — **`parcial` el 19-09-2026**: s'ha
-   llegits i contrastats sencers els **capítols IV, «Obligations et contrats», V,
+2. ~~**Els capítols IV a IX**, sencers.~~ — **`resolt` el 19-09-2026**: s'han
+   llegit i contrastat sencers els **capítols IV, «Obligations et contrats», V,
    «Les personnes et la famille», VI, «Les biens», VII, «Organisation judiciaire:
-   personnel et compétence», i VIII, «Procédure civile»**: **pp. 73–105, 107–159,
-   161–217, 218–265 i 267–307** de l'edició (línies **11029–12549, 12566–15286,
-   15298–18033, 18034–20437 i 20438–22383** de
-   `docs/raw/llibres/brutails-coutume.txt`). El IV recorre obligacions,
-   garanties, fiances, *hostatge*, *constitut*, *procurador*, contractes
-   privilegiats, *terç*, formalisme i notariat; el V, ciutadania, clergat,
-   absència, tutela, família, matrimoni, dot, augment, hereu, llegítima,
-   marmessors, successió i *vincle*; el VI, béns públics i privats, comunals,
-   *bohigues*, servituds, censos, préstecs, *censal*, *violari*, prescripció,
-   expropiació, venda i *carta de gràcia*; el VII, organització judicial,
-   bayles, Jutge d'Apel·lacions, *tercera sala*, visures, Corts, viguiers,
-   *rahonadors*, *nunci* i auxiliars; el VIII, procediment civil davant els
-   bayles, *feriats*, defecte, fases del judici, sentència i conciliació,
-   estrangers, recursos i apel·lacions, Tribunal Superior, revisió, visures,
-   embargament, execució, adjudicació, subhasta, cessió de béns i costes.
-   **El capítol IX continua obert**; aquests vuit capítols no es presenten com
-   si fossin la lectura del conjunt.
+   personnel et compétence», VIII, «Procédure civile», i IX, «Droit criminel»**:
+   **pp. 73–105, 107–159, 161–217, 218–265, 267–307 i 309–330** de l'edició
+   (línies **11029–12549, 12566–15286, 15298–18033, 18034–20437,
+   20438–22383 i 22384–23450** de `docs/raw/llibres/brutails-coutume.txt`).
+   El IV recorre obligacions, garanties, fiances, *hostatge*, *constitut*,
+   *procurador*, contractes privilegiats, *terç*, formalisme i notariat; el V,
+   ciutadania, clergat, absència, tutela, família, matrimoni, dot, augment,
+   hereu, llegítima, marmessors, successió i *vincle*; el VI, béns públics i
+   privats, comunals, *bohigues*, servituds, censos, préstecs, *censal*,
+   *violari*, prescripció, expropiació, venda i *carta de gràcia*; el VII,
+   organització judicial, bayles, Jutge d'Apel·lacions, *tercera sala*, visures,
+   Corts, viguiers, *rahonadors*, *nunci* i auxiliars; el VIII, procediment civil
+   davant els bayles, *feriats*, defecte, fases del judici, sentència i
+   conciliació, estrangers, recursos i apel·lacions, Tribunal Superior, revisió,
+   visures, embargament, execució, adjudicació, subhasta, cessió de béns i
+   costes; i el IX, justícia política i policia rural, *bans* i *danys*, inici de
+   la justícia criminal, instrucció i *visori*, presó preventiva, Corts,
+   penalitat, composicions, pena de mort, gràcia i amnistia, costes i relacions
+   amb la justícia criminal francesa.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
 4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
