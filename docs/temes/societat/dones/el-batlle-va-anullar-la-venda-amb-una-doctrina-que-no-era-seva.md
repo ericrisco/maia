@@ -7,7 +7,7 @@ veu: compilada
 epoca: historica
 apte_llengua: false
 font: brutails-coutume-1904
-timestamp: 2026-09-17T22:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [dones, dret, justicia, capacitat-juridica, fallida, antic-regim, segle-xviii, segle-xix, font-primaria, prioritari]
 ---
 
@@ -188,11 +188,13 @@ de 1975 i no ho pot dir**.
 
 ## Buits registrats
 
-1. **El text de la llei de 1975** sobre drets civils de la dona casada. **Ja
-   estava declarat a tres llocs** ([el sufragi
-   femení](./el-sufragi-femeni.md), [casar-se a
-   Andorra](../familia/casar-se-a-andorra.md) i la cronologia legislativa) i
-   **ara n'hi ha un quart motiu**: **sense ell no se sap què va tancar.**
+1. ~~**El text de la llei de 1975** sobre drets civils de la dona casada.~~ —
+   **`parcial` el 19-09-2026**: el text consolidat de la Llei transitòria de
+   procediments judicials conserva la secció **«Drets civils de la dona casada
+   de 15 de novembre de 1975»** i l'article 203, que actualitza la referència al
+   batlle als articles 2.2, 2.4 i 7.3. Això confirma la data, el títol i que el
+   decret formava part del dret procedimental posterior, però **no reprodueix
+   l'articulat substantiu**. Font local: [`decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt`](../../../raw/lleis/bopa/decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt).
 2. **La sentència del batlle que va anul·lar la venda d'una dona**: **sense data
    ni referència**. **La font en cita la ratio i prou.**
 3. **Qui era «el seu conseller»** en aquella sentència, **com a ofici**: si era
