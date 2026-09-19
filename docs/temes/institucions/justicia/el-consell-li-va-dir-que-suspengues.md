@@ -219,9 +219,11 @@ clàusula mateixa i el registre.**
    datat.`
 7. **L'estudi sobre la clàusula de ters en dret català** que Brutails critica:
    **no en dona autor ni títol.** `obert, i és una limitació de la font.`
-8. **Quan va deixar de fer-se servir la clàusula de ters a Andorra**, si va deixar
-   de fer-se'n. **El 1904 «perdia cada dia de la seva força» i encara sortia en
-   sentències.** `obert.`
+8. ~~**Quan va deixar de fer-se servir la clàusula de ters a Andorra**, si va
+   deixar de fer-se'n.~~ — **`parcial`, actualitzat el 2026-09-19**: la font diu
+   que el **1904** la clàusula **«perdia cada dia de la seva força»**, però que
+   encara apareixia en sentències; les de **1885 i 1886** en són exemples.
+   **Segueix oberta la data en què va deixar d'usar-se efectivament.**
 
 **Un buit de la font no és un buit del món.** Que **els notaris del 1904
 estimessin la clàusula nul·la entre particulars** és una opinió professional
