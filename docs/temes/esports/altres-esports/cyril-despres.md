@@ -65,11 +65,12 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
   motiu és de font**: **el bolcat el descriu com a «pilot francès de ral·lis i
   resident a Andorra» i no en diu cap data.** **Va néixer a Nemours, França, el
   24 de gener del 1974.**
-- **Si ha competit mai amb llicència andorrana.** — **`obert`, i el bolcat
-  empeny cap al no**: **el tracta sempre com a francès**, **li dona dos títols
-  mundials (2003 i 2009)** i **no esmenta Andorra en cap resultat.**
-  **El corpus no en dedueix que no ho hagi fet mai**: **deixa escrit que la
-  seva pròpia font no en documenta cap.**
+- ~~**Si ha competit mai amb llicència andorrana.**~~ — **`parcial` el
+  19-09-2026**: la mateixa fitxa el descriu com a **pilot francès**, li fixa la
+  **nacionalitat esportiva FRA** i no documenta cap resultat per Andorra. **El
+  corpus no pot convertir aquesta absència en un zero històric de llicències**,
+  però sí que deixa establert que la font disponible només acredita la
+  representació francesa.
 - ~~**Palmarès ampliat**~~ — **`parcial` el 19-09-2026**: el bolcat propi ja
   permet documentar **cinc Dakars en moto amb KTM (2005, 2007, 2010, 2012 i
   2013)**, **tres Red Bull Romaniacs (2004, 2005 i 2007)**, **dos Erzberg
