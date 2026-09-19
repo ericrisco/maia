@@ -276,8 +276,10 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    1266, 1280, 1303 i 1328.** **El 1133 surt de la llista; els altres deu hi
    queden.** **I dos són a dos apèndixs d'aquest mateix volum**: **el del 8 de
    gener de 1176** (apèndix B) i **el Pariatge** (apèndix C).
-8. **Si Sant Julià de Lòria era parròquia el 1133.** **No hi signa ningú.** **Un
-   buit de la font no és un buit del món.**
+8. ~~**Si Sant Julià de Lòria era parròquia el 1133.** **No hi signa ningú.**~~
+   — **`no-es-buit` el 19-09-2026: la font no dona signants ni estat parroquial,
+   i l'avís descriu aquesta absència documental, no una resposta que el corpus
+   pugui deduir.**
 
 ## Related
 

@@ -330,8 +330,10 @@ dues.**
    de 1864.**
 7. **L'inventari de béns dotals de 1785**, sencer, i **si l'obligació de fer-lo en
    dos mesos era de contracte o de costum.**
-8. **Els *pro-parents***, que [el dot](./el-dot.md) declarava i **aquesta font no
-   esmenta.** **Un buit de la font no és un buit del món.**
+8. ~~**Els *pro-parents***, que [el dot](./el-dot.md) declarava i **aquesta font no
+   esmenta.**~~ — **`no-es-buit` el 19-09-2026: l'avís constata una omissió
+   d'aquesta font, no una pregunta sobre el món; el concepte ja és documentat a
+   [el dot](./el-dot.md).**
 
 ## Related
 
