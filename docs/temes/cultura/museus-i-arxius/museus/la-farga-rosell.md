@@ -56,10 +56,20 @@ sencera perquè és un itinerari de patrimoni industrial que no tenia:**
 **El corpus té [l'economia del ferro](../../../economia/transformacio-economica/transformacio-economica.md)
 i no tenia ni les deu fargues, ni les cinc mines de carbó, ni aquesta ruta.**
 
+Una publicació del Govern precisa que al llarg del període hi va haver **entre
+deu i dotze establiments**, no tots alhora, i que les dues fargues més
+importants van ser la **Farga Areny, a Ordino**, i la **Farga Rossell**. També
+situa el principal mener al fons de la vall de **Ransol**, al peu del coll de la
+Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../raw/web/cultura/ferro/README.md))
+
 ## El que falta
 
-- **Les altres nou fargues** i **les cinc mines de carbó**: on eren i com es
-  deien.
+- ~~**Les altres nou fargues** i **les cinc mines de carbó**: on eren i com es
+  deien.~~ — **`parcial`, confirmat el 2026-09-19**: la font del Govern situa el
+  nombre històric entre **deu i dotze establiments**, identifica **Areny** i
+  **Rossell** com les dues fargues més importants i localitza els meners de
+  **Ransol** i de la **cort de Rossell**. La llista completa de fargues i mines,
+  amb els noms i la ubicació de cadascuna, continua oberta.
 - **Quina era l'altra de les dues últimes fargues actives.**
 - ~~**La mina de Llorts** i **la collada dels Meners**: cap fitxa de cap.~~ —
   **`parcial` el 18-09-2026**: **la mina de Llorts**, del segle XIX, **només
