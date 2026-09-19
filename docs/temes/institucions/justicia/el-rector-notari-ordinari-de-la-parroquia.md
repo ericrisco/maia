@@ -330,10 +330,14 @@ conserva i on.**
 6. **La sentència del 14 d'abril de 1888** sobre la *procura* privada, i **les
    quatre sentències dels llibres mercantils**, en text sencer: la font en cita
    el considerant, no el cas.
-7. **Qui eren els dos secretaris de batlle de 1872** en tant que **ofici** —quant
+7. ~~**Qui eren els dos secretaris de batlle de 1872** en tant que **ofici** —quant
    temps van servir, per a quins batlles— i **si el Consell General va tornar a
-   provar el costum amb declaracions de secretaris**. Vegeu [les fonts del
-   dret](./les-fonts-del-dret.md).
+   provar el costum amb declaracions de secretaris**.~~ — **`parcial`, actualitzat
+   el 2026-09-19**: el decret del **27 de març de 1872** identifica els dos
+   declarants com **D. Ignasi Picart** i **D. Tomàs Palmitjavila**, i els descriu
+   com a **secretaris que havien estat d'alguns batlles**. **Segueixen oberts** la
+   durada exacta dels seus serveis, els batlles concrets i si el Consell va
+   repetir aquest mecanisme probatori. Vegeu [les fonts del dret](./les-fonts-del-dret.md).
 
 ## Related
 
