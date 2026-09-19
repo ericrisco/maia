@@ -179,12 +179,7 @@ que l'Administració creu que n'hi ha més.**
 
 ## Buits registrats
 
-- **Quants isards, muflons i cabirols hi ha.** La font dona **captures
-  atorgades i percentatge de compliment**, mai **població**. **I és la xifra que
-  la llei necessita**: el pla de caça de l'isard només s'activa amb **més de 300
-  isards i un creixement del 14%** (article 8.2 de la Llei 18/2024).
-  **Prioritari**: és el buit que [caçar i pescar](./cacar-i-pescar.md) ja tenia i
-  que aquestes dades **no** tanquen.
+- ~~**Quants isards, muflons i cabirols hi ha.**~~ — **`parcial` el 2026-09-19**: la font dona **captures atorgades i percentatges de compliment**, però no publica la **població**. La Llei 18/2024 (article 8.2) fixa, per activar el pla de caça de l’isard, el llindar de **més de 300 isards** i un **creixement del 14 %**. **El llindar legal i les captures no substitueixen el cens de les tres espècies, que continua obert.**
 - **Per què el mufló del sector Setúria-Comapedrosa-Madriu passa del 89% al
   26,5% de compliment** en cinc anys.
 - **Quantes truites es pesquen.** Hi ha llicències i permisos; **de captures,
