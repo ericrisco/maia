@@ -215,8 +215,11 @@ de si mateixa la hi va tornar un de fora**, justament mentre
   seu paper al costat de Sergi Mas.** **El buit no és per manca de cerca:
   és el que la font disponible permet.** Segueix sent **del tipus que
   aquest corpus ja s'ha compromès a no deixar passar.**
-- **Quantes obres són, i on són exactament.** L'itinerari existeix; el corpus
-  no n'ha baixat la llista.
+- ~~**Quantes obres són, i on són exactament.**~~ **[parcial · 2026-09-19]**
+  La fitxa ja enumera **set obres o conjunts d'obres** situats a Andorra —la
+  imatge de Meritxell, la Casa de la Vall, *Les Benaurances*, *Garlandes i
+  llorer*, els monuments a Verdaguer, Arnaldeta de Caboet i el Consell de la
+  Terra—, però l'itinerari complet encara no s'ha baixat.
 
 ## Related
 
