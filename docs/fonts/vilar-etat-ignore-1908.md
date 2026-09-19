@@ -72,6 +72,16 @@ La font secundària de la [14a Diada andorrana de 2001](../raw/web/historia/14a-
 (p. 17) ho descriu com una concessió sense restitució formal de les franquícies;
 la *Gaceta* permet ara donar la data, l'òrgan, el destinatari i el règim exacte.
 
+## Les imatges que l'OCR no veu
+
+La còpia escanejada conserva les il·lustracions. Una lectura visual del PDF
+identifica **nou pàgines amb figura** (pp. 7, 13, 19, 23, 31, 37, 45, 51 i 55)
+i el **mapa final** (PDF p. 75); els peus de foto i la correspondència amb la
+paginació PDF queden transcrits a [la fitxa local d'il·lustracions](../raw/llibres/andre-vilar-andorre-illustrations.txt).
+La portada, però, anuncia «Avec 8 figures et une carte»: el recompte de la còpia
+i el recompte editorial no coincideixen. El corpus no atribueix autoria ni
+data a les imatges sense una llegenda que ho digui.
+
 ## Per què val, i per què val poc
 
 **Val poc perquè es repeteix.** El corpus ha comparat els dos textos cadena a
@@ -152,4 +162,9 @@ què el seu successor podia arribar al ministeri el 1908.**
 
    *(Font: `docs/raw/web/historia/viqui-joan_benlloch_i_vivo.txt`, baixada el
    18-09-2026 de la [Viquipèdia](./viquipedia-ca.md).)*
-5. **Les 8 figures i el mapa**, que el text extret no conté.
+5. **Les 8 figures i el mapa**, que el text extret no conté. **`parcial` el
+   19-09-2026:** la lectura visual del PDF ha identificat els peus de foto de
+   nou pàgines amb figura i el mapa final (PDF p. 75), amb la pàgina impresa i
+   el text de cada llegenda a la [fitxa local d'il·lustracions](../raw/llibres/andre-vilar-andorre-illustrations.txt).
+   **Segueixen oberts** la discrepància entre el recompte de la portada (8) i
+   les nou figures visibles, l'autoria de les imatges i la seva reutilització.
