@@ -173,7 +173,10 @@ l'Organització Internacional del Treball**.
    [l'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md).
    **Segueix obert si publica encara.**
 4. **Quants afiliats** tenien i tenen.
-5. **Quan es reconeix legalment el SAT.**
+5. ~~**Quan es reconeix legalment el SAT.**~~ **[parcial · 2026-09-19]** El
+   primer marc legal general és la **Llei 33/2008, qualificada de llibertat
+   sindical**, del **18 de desembre del 2008**, substituïda per la Llei 32/2018.
+   El corpus no té, però, l'acte individual de reconeixement registral del SAT.
 6. ~~El **Reglament laboral** i la **Llei d'associacions** que el SAT volia reformar~~ —
    **`parcial` el 17-09-2026**: **totes dues localitzades, i una
    d'elles diu una cosa gran.**
