@@ -97,6 +97,17 @@ la Seu d'Urgell.**
 que registra el mateix patró: **el relat sobre Andorra s'ha produït en bona part
 des de fora**.
 
+La cronologia cultural del Govern permet concretar alguns gravats i els seus
+autors. **Jean-Charles Langlois** va dibuixar *La porte de Saint Julien en
+Andorre* entre **1826 i 1830**, gravada per **Alexis-Victor Jory** i publicada
+en la sèrie *Voyage pittoresque et militaire en Espagne et Catalogne*.
+**Louis Boucourian** va il·lustrar *Ariège, Andorre et Catalogne* (París,
+1854). **Gaston Vuillier** va publicar el 1888 a *Le Val d'Andorre* **23
+gravats** basats en dibuixos originals o fotografies de **Brutails**. I
+**Eugène Burnand** va publicar **onze gravats** a *L'Illustration* (1891),
+mentre que **de Meaulle i Meyer** en van publicar un del ball de la Farandola
+al *Petit Journal* el mateix any.
+
 ## El que canvia això
 
 L'autor apunta que **a partir del segle XX** apareixen «**tres o quatre elements
@@ -120,7 +131,11 @@ consultat s'atura aquí.
 
 ## Buits registrats
 
-1. **Quins gravats** exactament, de quins llibres i quins autors.
+1. ~~**Quins gravats** exactament, de quins llibres i quins autors.~~ —
+   **`parcial`, confirmat el 2026-09-19**: la cronologia cultural del Govern
+   identifica Langlois/Jory, Boucourian, Vuillier, Burnand i de
+   Meaulle/Meyer, amb títols, anys i nombre de peces quan la font el dona; el
+   corpus encara no ha inspeccionat totes les estampes.
 2. Un **cas documentat** de gravat que no s'assembla al lloc real.
 3. ~~Els **reculls editats** dels paisatgistes catalans a Andorra~~ —
    **`parcial` el 18-09-2026**: identificat el catàleg de l'exposició
@@ -130,7 +145,10 @@ consultat s'atura aquí.
    la llista completa d'obres paisatgístiques ni prova quines representen
    Andorra; resta pendent buidar el catàleg.
 4. **Joan Oromí**, de la Seu d'Urgell: qui era, què més va pintar.
-5. **Sant Joan de la Mosquera** — el corpus no en té res.
+5. ~~**Sant Joan de la Mosquera** — el corpus no en té res.~~ — **`parcial`,
+   confirmat el 2026-09-19**: la mateixa cronologia confirma que **Joan Oromí**
+   hi va pintar la volta, però encara no descriu l'edifici ni conserva una fitxa
+   completa de les pintures.
 6. Els **altres elements** que canvien la cultura al segle XX.
 
 ## Related
