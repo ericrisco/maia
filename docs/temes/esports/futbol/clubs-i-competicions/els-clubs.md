@@ -215,7 +215,10 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
 
 ## El que falta
 
-- **Què era «Francfurt Cerni».**
+- ~~**Què era «Francfurt Cerni».**~~ — **`resolt` el 19-09-2026**: no era un
+  club diferent, sinó el nom de la **UE Extremenya** des de la seva fundació a
+  la Massana el **1998** fins al **2003**, tal com consta al [wikitext local del
+  club](../../../../raw/web/esport/clubs/Unió_Esportiva_Extremenya-ca.wiki).
 - ~~**Els clubs que no tenen article**: **Penya Encarnada**, **Sporting
   d'Escaldes**, **Casa de Portugal**, **Pas de la Casa**, **Atlètic
   Monzón**~~ — **`parcial` el 18-09-2026**: **Penya Encarnada sí que en
