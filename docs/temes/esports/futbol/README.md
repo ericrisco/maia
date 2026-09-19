@@ -10,7 +10,7 @@ timestamp: 2026-09-13T11:55:00Z
 tags: [esports, futbol, seleccio, persones]
 ---
 
-# Futbol
+# Futbol — índex de fitxes
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 

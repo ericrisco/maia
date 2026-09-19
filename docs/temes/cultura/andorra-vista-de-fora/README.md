@@ -1,4 +1,4 @@
-# Andorra vista de fora
+# Andorra vista de fora — índex de fitxes
 
 Novel·les, pel·lícules i sèries sobre Andorra fetes per gent que no hi vivia:
 què n'encerten, què hi projecten, i quins errors delaten l'autor.

@@ -1,4 +1,4 @@
-# Productes
+# Productes — índex de fitxes
 
 Formatge tupí, mató, embotits, carn de muntanya.
 

@@ -1,4 +1,4 @@
-# Comerç
+# Comerç — índex de fitxes
 
 El cicle del comerç i la duana, i què va significar socialment.
 

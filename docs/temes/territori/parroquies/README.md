@@ -1,4 +1,4 @@
-# Les set parròquies
+# Les set parròquies — índex de fitxes
 
 Una branca per parròquia. Cadascuna té festes, danses i toponímia pròpies.
 

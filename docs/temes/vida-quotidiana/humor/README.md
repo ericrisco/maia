@@ -1,4 +1,4 @@
-# Humor
+# Humor — índex de fitxes
 
 De què es riu la gent i com.
 

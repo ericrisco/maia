@@ -1,4 +1,4 @@
-# Energia i serveis
+# Energia i serveis — índex de fitxes
 
 **Branca oberta i quasi buida.** El corpus no hi ha fet recerca pròpia i no
 n'escriurà res que no pugui fonamentar.

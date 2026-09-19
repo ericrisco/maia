@@ -1,4 +1,4 @@
-# Patrimoni natural
+# Patrimoni natural — índex de fitxes
 
 La vall del Madriu-Perafita-Claror i els espais protegits.
 

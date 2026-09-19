@@ -1,4 +1,4 @@
-# Sanitat
+# Sanitat — índex de fitxes
 
 El sistema i com s'hi accedeix.
 

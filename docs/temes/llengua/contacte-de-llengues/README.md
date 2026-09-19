@@ -1,4 +1,4 @@
-# Contacte de llengües
+# Contacte de llengües — índex de fitxes
 
 Català, castellà, francès, portuguès. El multilingüisme real i com es barreja.
 

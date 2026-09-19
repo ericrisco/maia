@@ -11,7 +11,7 @@ timestamp: 2026-09-13T16:50:00Z
 tags: [esports, futbol, institucions]
 ---
 
-# Clubs i competicions
+# Clubs i competicions — índex de fitxes
 
 **El corpus tenia 138 fitxes de futbolistes andorrans i cap de futbol.** La
 branca ho declarava: *«La Primera Divisió andorrana, el FC Andorra i la

@@ -1,4 +1,4 @@
-# Falles
+# Falles — índex de fitxes
 
 Sant Joan i les variants per parròquia. Patrimoni immaterial de la UNESCO.
 

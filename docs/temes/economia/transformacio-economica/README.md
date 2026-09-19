@@ -1,4 +1,4 @@
-# Transformació econòmica
+# Transformació econòmica — índex de fitxes
 
 Com es passa de la muntanya al comerç en poques dècades.
 

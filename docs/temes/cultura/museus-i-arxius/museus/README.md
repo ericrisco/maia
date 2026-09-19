@@ -11,7 +11,7 @@ timestamp: 2026-09-13T21:15:00Z
 tags: [cultura, museus, historia]
 ---
 
-# Els museus d'Andorra
+# Els museus d'Andorra — índex de fitxes
 
 **El corpus declarava aquest buit en una línia**: *«Els museus i les seves
 col·leccions»* ([museus i arxius](../museus-i-arxius.md)). **Aquesta subbranca

@@ -1,4 +1,4 @@
-# Toponímia
+# Toponímia — índex de fitxes
 
 Els noms de lloc i el que expliquen de qui hi vivia i de què hi feia.
 

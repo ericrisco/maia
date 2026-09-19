@@ -1,4 +1,4 @@
-# Vida quotidiana a Andorra
+# Vida quotidiana a Andorra — índex de fitxes
 
 El que se sap sense que ningú t'ho ensenyi. El filtre del projecte en estat pur.
 

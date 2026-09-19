@@ -11,7 +11,7 @@ timestamp: 2026-09-13T22:05:00Z
 tags: [economia, transport]
 ---
 
-# Transport
+# Transport — índex de fitxes
 
 **S'obre el 2026-09-13 amb una sola fitxa, i és sobre una cosa que el país no
 té.**

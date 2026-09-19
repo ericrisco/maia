@@ -1,4 +1,4 @@
-# Rebosteria
+# Rebosteria — índex de fitxes
 
 Coca massegada i postres de festa.
 

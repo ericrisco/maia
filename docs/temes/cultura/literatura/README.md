@@ -1,4 +1,4 @@
-# Literatura
+# Literatura — índex de fitxes
 
 Qui escriu i ha escrit des d'Andorra.
 

@@ -1,4 +1,4 @@
-# Immigració
+# Immigració — índex de fitxes
 
 Portuguesa, espanyola, francesa, sud-americana. Qui viu a Andorra i des de quan.
 

@@ -1,4 +1,4 @@
-# Arquitectura
+# Arquitectura — índex de fitxes
 
 **Romànic, arquitectura vernacular, casa pairal, arquitectura moderna.**
 

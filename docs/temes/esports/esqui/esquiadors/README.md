@@ -10,7 +10,7 @@ timestamp: 2026-09-13T09:00:00Z
 tags: [esports, esqui, jocs-olimpics, paralimpics, persones]
 ---
 
-# Els esquiadors
+# Els esquiadors — índex de fitxes
 
 **El corpus tenia catorze delegacions olímpiques d'hivern amb vint cognoms
 dins de taules de resultats i cap fitxa de persona.** Aquesta subbranca les fa,

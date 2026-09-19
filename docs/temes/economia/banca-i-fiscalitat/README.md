@@ -1,4 +1,4 @@
-# Banca i fiscalitat
+# Banca i fiscalitat — índex de fitxes
 
 El sistema financer i el canvi de model.
 

@@ -1,4 +1,4 @@
-# Política lingüística
+# Política lingüística — índex de fitxes
 
 El català com a única llengua oficial i la normativa que se'n deriva.
 

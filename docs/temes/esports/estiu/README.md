@@ -10,7 +10,7 @@ timestamp: 2026-09-13T10:15:00Z
 tags: [esports, jocs-olimpics, atletisme, natacio, judo, tir, persones]
 ---
 
-# Els olímpics d'estiu
+# Els olímpics d'estiu — índex de fitxes
 
 **Andorra va als Jocs d'estiu des de Montreal 1976 i no n'ha fallat cap.**
 Aquesta subbranca fa **fitxa per persona**.

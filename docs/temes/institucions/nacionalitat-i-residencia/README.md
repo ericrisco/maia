@@ -1,4 +1,4 @@
-# Nacionalitat i residència
+# Nacionalitat i residència — índex de fitxes
 
 Passavant, règims de residència, estrangeria. En un país on la majoria de residents no són nacionals, això estructura la vida.
 

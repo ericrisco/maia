@@ -1,4 +1,4 @@
-# Parlamentarisme
+# Parlamentarisme — índex de fitxes
 
 **Andorra és, per l'article 1.4 de la seva Constitució, un «Coprincipat
 parlamentari».** Aquesta subbranca recull què vol dir això i qui diu que no s'hi

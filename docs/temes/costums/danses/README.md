@@ -1,4 +1,4 @@
-# Danses
+# Danses — índex de fitxes
 
 Contrapàs, marratxa, ball de Santa Anna. Cada parròquia la seva.
 

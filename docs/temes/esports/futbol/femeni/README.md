@@ -11,7 +11,7 @@ timestamp: 2026-09-13T16:25:00Z
 tags: [esports, futbol, dones]
 ---
 
-# Futbol femení
+# Futbol femení — índex de fitxes
 
 **Aquesta subbranca s'obre el 2026-09-13 per tancar una frase que la branca de
 futbol havia deixat escrita:** *«La selecció femenina: existeix i el corpus no

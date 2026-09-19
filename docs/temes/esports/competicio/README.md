@@ -1,4 +1,4 @@
-# Competició
+# Competició — índex de fitxes
 
 On Andorra competeix amb els seus iguals reals.
 

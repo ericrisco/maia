@@ -1,4 +1,4 @@
-# Contraban
+# Contraban — índex de fitxes
 
 Rutes, economia, i sobretot memòria social. No és anècdota: és com molta gent recorda el país.
 

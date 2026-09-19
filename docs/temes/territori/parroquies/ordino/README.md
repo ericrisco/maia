@@ -1,4 +1,4 @@
-# Ordino
+# Ordino — índex de fitxes
 
 Territori, història local, festes i parla pròpies.
 

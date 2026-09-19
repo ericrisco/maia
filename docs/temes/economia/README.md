@@ -1,4 +1,4 @@
-# Economia d'Andorra
+# Economia d'Andorra — índex de fitxes
 
 De l'economia de muntanya a l'actual, en tres generacions.
 

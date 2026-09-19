@@ -1,4 +1,4 @@
-# Democratització
+# Democratització — índex de fitxes
 
 Sufragi femení el 1970, majoria d'edat, aparició dels partits.
 

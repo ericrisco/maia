@@ -1,4 +1,4 @@
-# Calendari gastronòmic
+# Calendari gastronòmic — índex de fitxes
 
 Què es menja i quan. Lliga amb costums.
 

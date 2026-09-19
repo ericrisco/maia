@@ -1,4 +1,4 @@
-# Vida cívica
+# Vida cívica — índex de fitxes
 
 Com es fa un tràmit, com es participa, com funciona de veritat.
 

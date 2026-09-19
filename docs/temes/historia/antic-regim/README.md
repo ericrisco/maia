@@ -1,4 +1,4 @@
-# Antic règim
+# Antic règim — índex de fitxes
 
 Els segles XVI-XVIII. El Consell de la Terra com a institució.
 

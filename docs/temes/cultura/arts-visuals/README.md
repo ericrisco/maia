@@ -10,7 +10,7 @@ timestamp: 2026-09-12T11:25:00Z
 tags: [arts-visuals, escultura, ceramica, art-popular]
 ---
 
-# Arts visuals
+# Arts visuals — índex de fitxes
 
 Artistes i moviments.
 

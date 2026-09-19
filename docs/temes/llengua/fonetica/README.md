@@ -1,4 +1,4 @@
-# Fonètica
+# Fonètica — índex de fitxes
 
 Substrat pallarès, trets nord-occidentals, i què d'això arriba a l'escrit i què no.
 

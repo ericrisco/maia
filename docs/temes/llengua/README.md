@@ -1,4 +1,4 @@
-# Llengua d'Andorra
+# Llengua d'Andorra — índex de fitxes
 
 El nucli del projecte. D'aquí surt l'inventari tancat de lèxic marcat del qual depèn tota l'avaluació.
 

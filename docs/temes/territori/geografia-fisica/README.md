@@ -1,4 +1,4 @@
-# Geografia física
+# Geografia física — índex de fitxes
 
 Valls, rius, ports, cims. L'estructura del país.
 

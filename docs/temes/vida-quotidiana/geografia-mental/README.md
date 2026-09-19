@@ -1,4 +1,4 @@
-# Geografia mental
+# Geografia mental — índex de fitxes
 
 'A baix', 'a dalt', 'a la frontera'. Com es parla de l'espai.
 

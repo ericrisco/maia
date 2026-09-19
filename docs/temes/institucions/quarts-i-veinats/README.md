@@ -1,4 +1,4 @@
-# Quarts i veïnats
+# Quarts i veïnats — índex de fitxes
 
 Les subdivisions sota la parròquia i els béns comunals. Probablement el terme més marcat de tot el corpus.
 

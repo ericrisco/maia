@@ -11,7 +11,7 @@ timestamp: 2026-09-13T19:10:00Z
 tags: [economia, turisme, esports]
 ---
 
-# Les estacions d'esquí
+# Les estacions d'esquí — índex de fitxes
 
 **El corpus declarava aquest buit amb aquestes paraules**: *«Les estacions
 d'esquí com a empreses i com a territori»*, i *«les xifres per temporada i per

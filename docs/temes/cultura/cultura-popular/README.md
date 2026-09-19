@@ -1,4 +1,4 @@
-# Cultura popular
+# Cultura popular — índex de fitxes
 
 Jocs, cançons infantils, tradició oral.
 

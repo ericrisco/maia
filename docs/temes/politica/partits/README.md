@@ -10,7 +10,7 @@ timestamp: 2026-09-12T10:00:00Z
 tags: [politica, partits, democratitzacio, consell-general]
 ---
 
-# Partits polítics
+# Partits polítics — índex de fitxes
 
 **Aquesta subbranca existeix per tancar un buit que el corpus s'havia escrit a
 si mateix** a [la portada de política](../README.md):

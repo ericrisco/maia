@@ -1,4 +1,4 @@
-# Sistema electoral
+# Sistema electoral — índex de fitxes
 
 Qui vota a Andorra, des de quan, i com es compta. **És la branca on es veu
 millor que la democratització andorrana no és una línia recta: és un vaivé.**

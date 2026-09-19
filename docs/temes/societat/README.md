@@ -1,4 +1,4 @@
-# Societat andorrana
+# Societat andorrana — índex de fitxes
 
 Com viu la gent, no com funcionen les institucions.
 

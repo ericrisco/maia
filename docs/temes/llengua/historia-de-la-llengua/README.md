@@ -1,4 +1,4 @@
-# Història de la llengua
+# Història de la llengua — índex de fitxes
 
 Com es parlava andorrà abans del segle XX, i què en queda. Es fa amb documents
 datats —actes de judici, actes de comú, testaments, protocols— llegits com a

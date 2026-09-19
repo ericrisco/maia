@@ -1,4 +1,4 @@
-# Relacions exteriors
+# Relacions exteriors — índex de fitxes
 
 ONU, Consell d'Europa, l'acord amb la UE, la duana.
 

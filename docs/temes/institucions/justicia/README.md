@@ -1,4 +1,4 @@
-# Justícia
+# Justícia — índex de fitxes
 
 Tribunal de Corts, Batllia, Consell Superior de la Justícia.
 

@@ -10,7 +10,7 @@ timestamp: 2026-09-13T11:28:00Z
 tags: [esports, tennis, escacs, motor, basquet, persones]
 ---
 
-# Altres esports
+# Altres esports — índex de fitxes
 
 **Aquesta subbranca existeix per una raó concreta:** **les tres fites esportives
 internacionals més grans d'Andorra no són olímpiques**, i **si el corpus només

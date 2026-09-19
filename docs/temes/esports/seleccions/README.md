@@ -11,7 +11,7 @@ timestamp: 2026-09-13T17:15:00Z
 tags: [esports]
 ---
 
-# Les seleccions
+# Les seleccions — índex de fitxes
 
 **El corpus tenia registrat que Andorra té vint-i-tres seleccions nacionals**
 ([els altres Jocs](../competicio/els-altres-jocs.md)) **i no en tenia cap

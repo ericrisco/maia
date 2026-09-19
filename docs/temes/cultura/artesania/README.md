@@ -1,4 +1,4 @@
-# Artesania
+# Artesania — índex de fitxes
 
 **Aquesta branca va estar buida a propòsit, i s'ha obert el 2026-09-12.**
 

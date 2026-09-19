@@ -1,4 +1,4 @@
-# Formació esportiva
+# Formació esportiva — índex de fitxes
 
 Qui titula els monitors d'un país que viu de la neu.
 

@@ -1,4 +1,4 @@
-# Mitjans
+# Mitjans — índex de fitxes
 
 RTVA, premsa escrita, ràdio. Qui explica Andorra als andorrans.
 

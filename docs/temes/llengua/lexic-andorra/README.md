@@ -1,4 +1,4 @@
-# Lèxic andorrà
+# Lèxic andorrà — índex de fitxes
 
 Inventari tancat de lèxic marcat amb la seva equivalència en català central. És l'artefacte més important d'aquesta branca.
 

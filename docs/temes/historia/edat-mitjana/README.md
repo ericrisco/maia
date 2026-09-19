@@ -1,4 +1,4 @@
-# Edat mitjana
+# Edat mitjana — índex de fitxes
 
 De la consolidació del Pareatge a l'antic règim.
 

@@ -1,4 +1,4 @@
-# Festes majors
+# Festes majors — índex de fitxes
 
 Una per parròquia, i totes diferents.
 

@@ -1,4 +1,4 @@
-# Habitatge
+# Habitatge — índex de fitxes
 
 La pressió sobre un territori estret.
 

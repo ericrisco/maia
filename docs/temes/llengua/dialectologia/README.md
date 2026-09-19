@@ -1,4 +1,4 @@
-# Dialectologia
+# Dialectologia — índex de fitxes
 
 Què és el català d'Andorra dins del domini lingüístic català: a quin bloc
 pertany, si mereix nom propi, d'on ve i cap a on va.

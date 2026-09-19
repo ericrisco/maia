@@ -1,4 +1,4 @@
-# Dones
+# Dones — índex de fitxes
 
 La meitat del país que el corpus gairebé no tenia: drets, sufragi, treball,
 presència institucional i vida quotidiana.

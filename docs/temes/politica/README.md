@@ -1,4 +1,4 @@
-# Política d'Andorra
+# Política d'Andorra — índex de fitxes
 
 La branca que faltava. El corpus tenia **les institucions** —qui és el Consell
 General, què és el Coprincipat, com funciona el Govern— i **no tenia la

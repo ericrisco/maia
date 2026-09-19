@@ -1,4 +1,4 @@
-# Segle XX, primera meitat
+# Segle XX, primera meitat — índex de fitxes
 
 La Revolució de 1933 i el sufragi, i l'episodi de Boris Skossyreff el 1934.
 

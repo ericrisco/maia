@@ -1,4 +1,4 @@
-# Guerres i neutralitat
+# Guerres i neutralitat — índex de fitxes
 
 La guerra civil espanyola, la segona guerra mundial, els passadors i les rutes de frontera.
 

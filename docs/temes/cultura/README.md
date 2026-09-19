@@ -1,4 +1,4 @@
-# Cultura d'Andorra
+# Cultura d'Andorra — índex de fitxes
 
 El que es crea i el que s'explica.
 

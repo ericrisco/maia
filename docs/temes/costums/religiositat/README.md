@@ -1,4 +1,4 @@
-# Religiositat
+# Religiositat — índex de fitxes
 
 Romeries, ermites, santoral propi.
 

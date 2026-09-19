@@ -1,4 +1,4 @@
-# Petits estats
+# Petits estats — índex de fitxes
 
 Andorra no és un país petit: és un **microestat**, i això és una categoria amb
 criteris, amb veïns i amb literatura pròpia.

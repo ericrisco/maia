@@ -1,4 +1,4 @@
-# Història recent
+# Història recent — índex de fitxes
 
 De 1993 fins avui, explicat com a procés i no com a actualitat.
 

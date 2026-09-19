@@ -1,4 +1,4 @@
-# Com funciona tot
+# Com funciona tot — índex de fitxes
 
 Tràmits, serveis, el dia a dia real.
 

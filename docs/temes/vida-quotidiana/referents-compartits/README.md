@@ -1,4 +1,4 @@
-# Referents compartits
+# Referents compartits — índex de fitxes
 
 El que tothom sap i ningú explica. Si un model ho falla, se li nota de seguida.
 

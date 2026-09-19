@@ -1,4 +1,4 @@
-# Onomàstica
+# Onomàstica — índex de fitxes
 
 Cognoms, cases, malnoms. En un país petit, la casa identifica més que el cognom.
 

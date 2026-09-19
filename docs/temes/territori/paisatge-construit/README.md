@@ -1,4 +1,4 @@
-# Paisatge construït
+# Paisatge construït — índex de fitxes
 
 Bordes, cortals, cabanes, camins ramaders. Lèxic de paisatge que no s'usa igual a baix.
 

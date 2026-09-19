@@ -1,4 +1,4 @@
-# Teatre
+# Teatre — índex de fitxes
 
 **El corpus no tenia res.** La branca s'obre el **2026-09-13** amb una sola font,
 i és una tesi doctoral: *La vida teatral a Andorra de 1900 a 1970*, de **Fabiola

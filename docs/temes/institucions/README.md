@@ -1,4 +1,4 @@
-# Institucions d'Andorra
+# Institucions d'Andorra — índex de fitxes
 
 El nucli de lèxic del país. Tot el que té nom propi andorrà i no existeix a fora.
 

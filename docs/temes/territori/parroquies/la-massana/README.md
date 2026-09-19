@@ -1,4 +1,4 @@
-# La Massana
+# La Massana — índex de fitxes
 
 Territori, història local, festes i parla pròpies.
 

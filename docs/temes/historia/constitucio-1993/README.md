@@ -1,4 +1,4 @@
-# Constitució de 1993
+# Constitució de 1993 — índex de fitxes
 
 El procés, el contingut, i què va canviar de veritat.
 

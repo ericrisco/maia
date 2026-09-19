@@ -1,4 +1,4 @@
-# Sant Julià de Lòria
+# Sant Julià de Lòria — índex de fitxes
 
 Territori, història local, festes i parla pròpies.
 

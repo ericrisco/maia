@@ -1,4 +1,4 @@
-# Meritxell
+# Meritxell — índex de fitxes
 
 La Mare de Déu, el 8 de setembre, el santuari. La festa nacional.
 

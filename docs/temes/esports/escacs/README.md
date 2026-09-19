@@ -11,7 +11,7 @@ timestamp: 2026-09-13T18:15:00Z
 tags: [esports, escacs]
 ---
 
-# Escacs
+# Escacs — índex de fitxes
 
 **El corpus ha escrit quatre vegades, en quatre fitxes diferents, que la
 federació andorrana d'escacs era el buit més desproporcionat de tota la branca

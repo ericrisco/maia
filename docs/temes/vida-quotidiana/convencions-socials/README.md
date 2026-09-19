@@ -1,4 +1,4 @@
-# Convencions socials
+# Convencions socials — índex de fitxes
 
 Com es tracta la gent, què s'espera, què no es fa.
 
