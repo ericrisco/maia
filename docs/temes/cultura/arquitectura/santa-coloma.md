@@ -62,9 +62,10 @@ de Déu sostingut per àngels.**
 **Només l'Anyell de Déu roman in situ.**
 
 **Dos fragments més —sant Silvestre i sant Gregori— van seguir camins
-separats** per galeries i col·leccions privades de Nova York: **un
-roman a l'Amherst College (Massachusetts); l'altre té parador
-desconegut.**
+separats** per galeries i col·leccions privades de Nova York: **sant Silvestre
+va ser adquirit el 1941 per l'Amherst College (Massachusetts); sant Gregori va
+passar per la subhasta de la col·lecció Cassel del 1955 i en va desaparèixer el
+rastre.**
 
 ## El que la lliga a Sant Miquel d'Engolasters
 
@@ -79,8 +80,11 @@ l'altre quadrat. **Dues esglésies, un sol cercle d'artesans.**
    romànic andorrà encara sense fitxa.~~ — **`resolt` el 18-09-2026**:
    la fitxa ja existeix a [Sant Serni de Canillo](./sant-serni-de-canillo.md)
    i l'índex [del romànic andorrà](./romanic.md) ja la recull.
-2. **El parador del fragment perdut** (sant Gregori o sant Silvestre,
-   segons quin és l'exposat a Amherst).
+2. ~~**El parador del fragment perdut** (sant Gregori o sant Silvestre,
+   segons quin és l'exposat a Amherst).~~ — **`resolt`, confirmat el
+   2026-09-19**: el fragment d'Amherst és **sant Silvestre**, adquirit el
+   1941; el fragment sense parador és **sant Gregori**, vist per última vegada
+   a la subhasta Cassel de 1955.
 3. ~~**L'Espai Columba** en si: el corpus no en té fitxa com a espai
    museístic.~~ — **`resolt` el 19-09-2026**: vegeu la fitxa de [l'Espai
    Columba](./espai-columba.md), basada en la pàgina institucional de museus.ad.
