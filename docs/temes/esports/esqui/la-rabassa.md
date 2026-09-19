@@ -49,7 +49,12 @@ col·lectives i privades i lloguer d'equip des dels 5 anys —
 ## Buits registrats
 
 1. **Quins esquiadors andorrans s'hi entrenen** — la font no ho diu.
-2. **Any d'obertura de l'estació.**
+2. ~~**Any d'obertura de l'estació.**~~ — **`resolt` el 19-09-2026**: la
+   [història institucional de Naturland](../../../fonts/naturland-historia-la-rabassa.md)
+   situa els inicis del Camp de neu de La Rabassa el **1994**, amb els primers
+   **5 km de pistes d'esquí de fons**. Entre 1995 i 1996 s'hi afegeixen 10 km
+   més i el xalet; el corpus conserva la distinció entre inici de l'estació i
+   ampliacions posteriors.
 3. **La resta d'estacions andorranes**, una per una — segueix sent un
    buit obert i confirmat a
    [esquí](../README.md).
