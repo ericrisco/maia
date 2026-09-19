@@ -173,7 +173,18 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
 
 ## Buits registrats
 
-- **Tot el que hi ha després del 2000.** Aquest índex es tanca aquell any.
+- ~~**Tot el que hi ha després del 2000.**~~ — **`parcial` el 19-09-2026**:
+  aquest índex es tanca aquell any, però el corpus ja ha pogut documentar peces
+  posteriors que en mostren l'abast sense confondre-les amb una continuació
+  exhaustiva de la llista: el conveni amb Portugal del **2001** (ensenyament del
+  portuguès), els convenis amb França del **2003, 2013 i 2025**, el conveni
+  educatiu amb Espanya del **2007**, les ajudes a l'estudi **2016–2024** i la
+  normativa de formació professional amb decrets localitzats fins al **2026**
+  ([l'ensenyament francès](./lensenyament-frances.md),
+  [l'ensenyament espanyol](./lensenyament-espanyol.md),
+  [les ajudes a l'estudi](./quatre-mil-cent-quinze-ajudes.md) i
+  [la formació professional](./la-formacio-professional.md)). **Segueix obert
+  recuperar la sèrie completa de normes posteriors al 2000.**
 - ~~**Els decrets de programa de formació andorrana (42 i 43).** **Màxima
   prioritat.**~~ — **`resolt` el 17-09-2026**: tots dos llegits des del
   [BOPA](../../../fonts/bopa.md) a
