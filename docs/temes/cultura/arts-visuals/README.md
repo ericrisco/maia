@@ -54,7 +54,10 @@ les fonts citaven junts no fan el mateix ofici.**
   Galobardes hi comença a respondre**
   ([fitxa](../../persones/francesc-galobardes.md)), però **la pintura
   andorrana com a conjunt segueix sense branca pròpia.**
-- **El Centre d'Art d'Escaldes-Engordany**, on hi ha la col·lecció Viladomat.
+- ~~**El Centre d'Art d'Escaldes-Engordany**, on hi ha la col·lecció Viladomat.~~ —
+  **`resolt` com a duplicat intern el 2026-09-19**: la fitxa de [Josep
+  Viladomat](./josep-viladomat.md) ja documenta el CAEE, la seva col·lecció i
+  la sala d'escultures.
 - ~~**Maria Canalís**, ceramista i cocreadora amb Sergi Mas~~ — **`parcial`,
    bessó amb** [Sergi Mas](./sergi-mas.md#el-que-falta): **es casen el 1955** i
   **el 1966 obren junts un taller de ceràmica a Sant Julià de Lòria**, però
