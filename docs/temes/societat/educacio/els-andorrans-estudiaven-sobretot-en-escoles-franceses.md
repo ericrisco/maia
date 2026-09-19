@@ -348,9 +348,11 @@ dos textos, dos anys, dos editors.**
   paràgraf citat de segona mà** i [l'andorranització](./landorranitzacio.md)
   en conserva el mateix fragment amb la data de juny de 1972. **L'original
   complet i la signatura segueixen oberts.**
-- **El projecte lingüístic de l'Escola Andorrana del 2 de maig del 1989**, sencer.
-  El llibre en cita quatre línies i el resumeix en quatre punts. **No consta si és
-  un decret, un acord del Govern o un document intern.**
+- ~~**El projecte lingüístic de l'Escola Andorrana del 2 de maig del 1989**,
+  sencer.~~ **[parcial · 2026-09-19]** La fitxa ja en conserva la data, la
+  citació i els **quatre eixos** —català vehicular, francès, castellà formal i
+  anglès—, però no el document sencer ni si era un decret, un acord del Govern
+  o un document intern.
 - ~~**El conveni de cooperació educativa Andorra-Portugal**, text complet i
   estat de vigència.~~ — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**
