@@ -153,7 +153,14 @@ ni la forma del campanar** d'aquestes esglésies.»
 1. **Contrastar la hipòtesi.** Hi ha bibliografia que la sostingui o la
    desmenteixi? **Prioritari.**
 2. **Els homenatges de 1162 i 1176** — documents.
-3. **La casa de Caboet** i **Arnalda de Caboet**: fitxa pròpia pendent.
+3. ~~**La casa de Caboet** i **Arnalda de Caboet**: fitxa pròpia pendent.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la cronologia ja documenta que el
+   bisbe tenia Andorra infeudada a la casa de Caboet al segle XI, que el 1133 va
+   rebre els drets del comte d’Urgell, i que **Arnalda de Caboet**, hereva de la
+   casa, es va casar amb **Arnau de Castellbò** el 1185; la donació de les valls
+   de Caboet, Sant Joan i Andorra a Castellbò consta el 1186 ([els privilegis](../../historia/edat-mitjana/els-privilegis.md),
+   [el Pareatge](../../historia/pareatge/el-pareatge.md)). La fitxa biogràfica
+   pròpia de la casa i d’Arnalda continua pendent.
 4. **El catarisme a Andorra.** L'autor l'esmenta i **el corpus no en té res**.
    **Buit gran.**
 5. ~~**Quantes** esglésies romàniques hi ha i **de quin segle és cadascuna**.~~ —
