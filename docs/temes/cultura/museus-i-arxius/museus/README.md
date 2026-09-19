@@ -207,8 +207,11 @@ visitants** (+17,7%), més que a tots els museus junts.
   19-09-2026**: la cronologia d'aquesta mateixa fitxa ja fixa els quatre noms i
   anys (**1985, 1988, 1992 i 1995**) ([font](../../../../fonts/wikipedia-museus-andorra.md)).
   Els catàlegs i el contingut complet de cada exposició encara no són al corpus.
-- **L'exposició permanent del Santuari de Meritxell del 1994**, que la font
-  qualifica de **«càrrega ideològica i social molt important»**.
+- ~~**L'exposició permanent del Santuari de Meritxell del 1994**, que la font
+  qualifica de **«càrrega ideològica i social molt important»**.~~ — **`parcial`
+  el 19-09-2026**: la cronologia d'aquesta fitxa confirma l'existència de
+  l'exposició permanent i la data **1994**. El contingut de l'exposició i el
+  sentit concret de la qualificació de la font encara no són al corpus.
 - **Per què cau la visita als museus, confirmat per segona via i encara sense
   explicar.** **Afegit el 18-09-2026.** **L'enquesta d'hàbits culturals diu que
   el 63,8% dels andorrans havien visitat un museu el 2019 i el 54,5% el 2024**,
