@@ -88,7 +88,11 @@ que el corpus ha trobat mai.**
 
 ## El que falta
 
-- **Els set jugadors** anomenats aquí.
+- ~~**Els set jugadors** anomenats aquí.~~ **[parcial · 2026-09-19]** La fitxa
+  ja enumera **Jean-Baptiste Poux-Gautier, Joan Jiménez-Herrera, Kenneth
+  Tuilier-Curco, Pau Gerbaud-Farràs, Marc Vilanova, Damien Gelabert i Jordi
+  Trilla**. Encara falten les fitxes biogràfiques i els registres individuals
+  complets.
 - ~~**Si Andorra té equip femení de Copa Billie Jean King.**~~ — **`resolt` el
   19-09-2026**: la [fitxa oficial d'Andorra](../../../fonts/billie-jean-king-cup-andorra.md)
   a la Billie Jean King Cup identifica l'equip femení del país. La font no es

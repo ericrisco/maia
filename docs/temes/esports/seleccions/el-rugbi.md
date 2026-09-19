@@ -238,8 +238,11 @@ la descriu en passat i només en set.**
   **no té fitxa al corpus**.~~ **`parcial`:** aquesta fitxa ja identifica el
   club i els disset internacionals que hi juguen; encara no hi ha fitxa pròpia
   del club.
-- **La selecció femenina de rugbi a set**, que **va competir el 2006 i el 2007**
-  i de la qual **el bolcat no diu res més.**
+- ~~**La selecció femenina de rugbi a set**, que **va competir el 2006 i el
+  2007** i de la qual **el bolcat no diu res més.**~~ **[parcial ·
+  2026-09-19]** La fitxa ja confirma que l'equip femení només ha jugat a set i
+  que va competir els **anys 2006 i 2007**. Encara en falten les jugadores,
+  els partits i els resultats.
 - **Si el Pol Arias de la selecció és el [nedador olímpic](../estiu/pol-arias.md)
   del mateix nom.**
 - **La font declara ella mateixa que l'article té recerca original i poques
