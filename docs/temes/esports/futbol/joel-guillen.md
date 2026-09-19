@@ -65,7 +65,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Quins compatriotes** i els seus vint-i-un partits.
+- ~~**Quins compatriotes** i els seus vint-i-un partits.~~ **[parcial ·
+  2026-09-19]** La taula confirma **21 partits amb Andorra** i 0 gols, i el
+  text identifica **Albert Rosas i Marc García** com a compatriotes a Monzón.
+  No hi ha el detall dels partits ni una llista completa de compatriotes.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

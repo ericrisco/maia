@@ -66,7 +66,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Com es vincula a Andorra** i els seus dotze partits.
+- ~~**Com es vincula a Andorra** i els seus dotze partits.~~ **[parcial ·
+  2026-09-19]** La taula confirma **12 partits amb Andorra** i 1 gol, però el
+  bolcat no explica com es vincula al país ni dona les dates i els rivals.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

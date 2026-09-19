@@ -57,7 +57,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els altres dos partits.**
+- ~~**Els altres dos partits.**~~ **[parcial · 2026-09-19]** La taula confirma
+  **3 partits amb Andorra** i 0 gols, i el debut ja està situat el **21 d'agost
+  del 2002 contra Islàndia**. Els altres dos rivals i dates no consten.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

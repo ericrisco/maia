@@ -66,7 +66,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Si són germans**, i els seus dotze partits.
+- ~~**Si són germans**, i els seus dotze partits.~~ **[parcial · 2026-09-19]**
+  La taula confirma **12 partits amb Andorra** i 0 gols, i el debut queda
+  situat el **15 d'octubre del 2013 contra Hongria**. El corpus no confirma ni
+  descarta el parentiu amb Márcio Vieira i no dona el detall dels altres
+  partits.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
