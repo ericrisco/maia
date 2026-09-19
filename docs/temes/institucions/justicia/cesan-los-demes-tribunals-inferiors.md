@@ -238,8 +238,9 @@ la més precisa de totes:**
    les causes passaven al tribunal de Corts, a instància del Consell General.
    **La data exacta continua oberta**: la font només diu «depuis déjà quelques
    années». Vegeu [el jutge que seia i no votava](./el-jutge-que-seia-i-no-votava.md).
-5. **Quantes vegades el Consell General va refusar d'obrir les Corts**, **i amb
-   quin motiu.** **La font diu que ha passat i no dona cap cas.**
+5. ~~**Quantes vegades el Consell General va refusar d'obrir les Corts**, **i amb
+   quin motiu.**~~ — **`parcial` el 19-09-2026**: la font confirma que el fet
+   ha passat, però no dona cap cas concret ni el motiu de cap negativa.
 6. **La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
    comptes de reemborsament.** **Tercera tanda que el corpus reclama documents
    comptables de les Corts.**
