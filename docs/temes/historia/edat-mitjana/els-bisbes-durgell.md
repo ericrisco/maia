@@ -177,8 +177,11 @@ segle XX** quan es planifiquen instituts «un per vall»
 
 ## Buits registrats
 
-1. **Continuació de l'episcopologi**: el corpus té ara **el segle XV sencer** i
-   **Andreu Capella**. **Falten el XII-XIV i el XVII-XXI.**
+1. ~~**Continuació de l'episcopologi**: el corpus té ara **el segle XV sencer** i
+   **Andreu Capella**. **Falten el XII-XIV i el XVII-XXI.**~~ — **`parcial`,
+   actualitzat el 2026-09-19**: la fitxa ja dona el tram complet del segle XV i
+   situa **Andreu Capella** entre els segles XVI i XVII. Continuen oberts els
+   bisbes dels segles XII-XIV i XVII-XXI.
 2. ~~**La butlla de Silvestre II de 1001**, al **Museu diocesà** — **font primària
    localitzada i no consultada**.~~ — **`parcial` el 19-09-2026**: la fitxa de
    restauració del **Centre de Restauració de Béns Mobles de Catalunya** confirma
@@ -186,7 +189,10 @@ segle XX** quan es planifiquen instituts «un per vall»
    papir el 1001, procedent de l'Arxiu Capitular d'Urgell i exposat al Museu
    Diocesà ([fitxa de font](../../../fonts/crbmc-butlla-silvestre-ii-1001.md)).
    **La lectura diplomàtica del text original continua oberta.**
-3. **L'acta de consagració de Sant Cerni de Nagol**, 1055.
+3. ~~**L'acta de consagració de Sant Cerni de Nagol**, 1055.~~ — **`parcial`,
+   actualitzat el 2026-09-19**: la fitxa ja identifica la consagració de **1055**
+   per Guillem Guifré i afirma que se'n conserva l'acta. Continua pendent
+   consultar i buidar el document.
 4. **La donació de Borrell II a Guissad II** — quins béns i drets, i quin any.
 5. **El Pont de Bar** i la mort de Sant Ermengol.
 6. **Quins bisbes** han estat coprínceps en època contemporània.
