@@ -229,9 +229,13 @@ metàfora: **és la funció principal.**
 - **Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a
   altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior
   que el corpus no coneix.
-- **Promocions Mèdiques Andorranes**, l'empresa andorrana amb seu a Praga que
+- ~~**Promocions Mèdiques Andorranes**, l'empresa andorrana amb seu a Praga que
   cofinançava el lectorat el 2000. **El corpus no en té res**, i és una porta a
-  la presència econòmica andorrana a l'estranger.
+  la presència econòmica andorrana a l'estranger.~~ **`resolt` el 19-09-2026**:
+  aquesta mateixa fitxa ja documenta que tenia **seu a Praga**, que
+  **cofinançava el lectorat de català** amb el Ministeri d'Educació i que el
+  curs **1999-2000** hi havia **25 alumnes**. El perfil societari complet de
+  l'empresa no forma part d'aquest buit.
 - **Pyrénées, Andorra 2000, Andimesa i Viladomat Esports**: el corpus no té cap
   fitxa d'empresa andorrana.
 - **El centre d'autoaprenentatge d'Encamp**: es va obrir?
