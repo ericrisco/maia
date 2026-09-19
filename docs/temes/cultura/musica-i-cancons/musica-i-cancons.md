@@ -25,7 +25,12 @@ I això és tot el que aquesta recerca ha pogut documentar.
 
 ## El que falta — pràcticament tot
 
-- El **repertori tradicional**: quines cançons, qui les canta, en quines ocasions.
+- ~~El **repertori tradicional**: quines cançons, qui les canta, en quines ocasions.~~ —
+  **`parcial` el 19-09-2026**: [La cançó popular andorrana](./la-canco-popular-andorrana.md)
+  ja identifica els enregistraments d'Eva Julián —**25 cançons eròtiques i de
+  Carnaval** i **15 peces religioses**— i el volum posterior *Andorra: Cançons
+  de vetllades vora el foc* (2017). El corpus encara no ha escoltat els àudios
+  ni pot atribuir cada cançó, cantant o ocasió.
 - Les **cobles** i els músics.
 - ~~L'himne nacional, *El Gran Carlemany*, que no té fitxa enlloc del corpus.~~ —
   **`resolt` el 18-09-2026**: [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md)
