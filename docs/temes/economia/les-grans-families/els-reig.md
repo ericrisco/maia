@@ -117,7 +117,11 @@ vint anys, i part de la informació pot ser caduca.**
 
 ## El que falta
 
-- **Rafael Reig i Sans**: **quan funda Tabacs Reig, i què hi havia abans.**
+- ~~**Rafael Reig i Sans**: **quan funda Tabacs Reig, i què hi havia abans.**~~ —
+  **`parcial` el 19-09-2026**: la fitxa genealògica el identifica com a
+  **fundador de Tabacs Reig**, i la fitxa del [Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md)
+  situa l'inici de la fàbrica el **1909**. **No s'ha trobat encara què hi havia
+  abans de la fàbrica ni si el negoci ja existia sota una altra forma.**
 - ~~**Maria Reig i Moles**: **empresària i política, i el corpus no en té
   fitxa.** **Buit prioritari** — vegeu [les dones](../../societat/dones/README.md).~~
   — **`resolt` el 18-09-2026**: **ara en té**, a
