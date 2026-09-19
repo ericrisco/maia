@@ -80,11 +80,12 @@ generació de la selecció, i ell, que no en va poder ser.**
 - ~~**La resta de la carrera.**~~ — **`resolt`**: **CF Damm** i **UE
   Canovelles** abans de l'Espanyol (taula de dalt). **El bolcat no en dona
   partits ni gols**, ni res posterior al 1985.
-- **Si va jugar mai amb Andorra**: la font no ho diu, i **el corpus creu que no
-  podia, perquè la selecció no existia fins al 1996** — **inferència pròpia,
-  marcada com a tal.** — **`obert`, i la inferència es reforça**: **el bolcat
-  no li dona cap partit internacional i no l'inclou en cap categoria de
-  selecció**, **cosa que sí que fa amb tots els internacionals andorrans.**
+- ~~**Si va jugar mai amb Andorra**.~~ — **`parcial` el 19-09-2026**: el
+  bolcat no li dona cap partit internacional ni l'inclou en cap categoria de
+  selecció, i la seva única temporada documentada és **1984-85**, abans que
+  Andorra tingués selecció oficial (**1996**). **No hi ha prova suficient per
+  afirmar un zero oficial posterior**, però la font disponible no acredita cap
+  internacionalitat ([la selecció](../futbol/la-seleccio.md)).
 
 ## Related
 
