@@ -250,8 +250,10 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    l'obligació de presentar anualment les minutes i sap que és sense efecte**;
    **la taxació prèvia i el text sencer encara falten**.
 3. **El decret del Consell General del 12 de desembre de 1888**, sencer.
-4. ~~**Les peces justificatives p. XXXIX, p. XLI i p. XLIII.**~~ — **`parcial` el
-   16-09-2026: dues llegides, una inexistent.**
+4. ~~**Les peces justificatives p. XXXIX, p. XLI i p. XLIII.**~~ — **`resolt` el
+   2026-09-19 amb una segona digitalització** ([exemplar d'Internet
+   Archive](../../../fonts/brutails-coutume-ia.md)): ara les tres pàgines són
+   accessibles.
    **p. XXXIX** (PDF 63): **hi comença la peça XXI, *Vente à réméré* del 15 de
    juny de 1788**, entre **Martí M. àlies P. i Maria M. àlies P., cònjuges de la
    Massana**, i **Joseph M. àlies S., pagès del lloc d'Ers**, amb pacte de gràcia
@@ -260,10 +262,10 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    hi comença la XXII, *Vente à réméré combinée avec un bail au profit du
    vendeur*, del 18 de desembre de 1788**, de **Domingo T., pagès d'Ansalonga,
    parròquia d'Ordino**, que hi entra «**per desahogo de las mias obligacions**».
-   **p. XLIII**: **no existeix a l'exemplar digitalitzat.** **La venda de cap al
-   1875 sense taxació —peça XXIII— queda il·legible**, i el buit passa a
-   **`requereix un altre exemplar del volum`**. Vegeu
-   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
+   **p. XLIII**: **la peça XXIII, de cap al 1875, es pot llegir al segon
+   exemplar**: és la venda a carta de gràcia combinada amb arrendament, amb la
+   nota de Brutails sobre l'incompliment de la taxació prèvia del decret de
+   1853. Els noms i alguns camps hi són en blanc, tal com els deixa la font.
 5. **Si la presumpció catalana de simulació** —venedor que resta en possessió—
    **s'aplicava a Andorra.** **La font enuncia les dues coses i no les confronta.**
 6. **Quants casos de tornada a la massa hi va haver** per venda sense taxació.

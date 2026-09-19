@@ -49,11 +49,11 @@ comprovar si l'evidència és completa.**
 >   juny de 1788)* i **la XXV** *(cessió d'un dret de retracte, 10 d'agost de
 >   1788)*.
 >
-> **Conseqüència, i el corpus l'escriu perquè limita el que pot afirmar**: **de
-> la peça XXII el corpus té **l'encapçalament i les afrontacions**, i **no té la
-> clàusula d'arrendament**, que és el que dona nom a la peça.** **Qualsevol cosa
-> que el corpus digués sobre com es combinaven la venda i l'arrendament en
-> aquell acte seria conjectura.**
+> **Conseqüència de la segona digitalització**: **la primera còpia només donava
+> l'encapçalament i les afrontacions de la peça XXII**, però l'exemplar d'Internet
+> Archive aporta ara **la clàusula d'arrendament**: el venedor segueix conreant i
+> paga a l'església el terç de tots els fruits, i mentre pagui no el poden fer
+> fora. **El mateix segon exemplar completa també la peça XXV.**
 >
 > **`Lliçó de mètode que el corpus es dona`**: **la paginació impresa conservada
 > a l'extracció **és un instrument de control**, i s'ha de fer servir abans
@@ -61,10 +61,10 @@ comprovar si l'evidència és completa.**
 > què el corpus troba que el que creia tenir no és el que té.**
 
 > **El que **no** vol dir aquesta troballa.** **No vol dir que el llibre estigui
-> incomplet**: **vol dir que **la còpia que el corpus té com a evidència** ho
-> està.** **El hash segueix essent vàlid per al que hi ha.** `Requereix un
-> exemplar imprès o una segona digitalització per a les pàgines XLII-XLIII i
-> XLVI-XLVII.`
+> incomplet**: **vol dir que la còpia de Google Books que el corpus feia servir
+> ho estava.** **El hash d'aquella còpia segueix essent vàlid per al que hi ha; la
+> segona digitalització cobreix els quatre forats** i queda registrada a
+> [l'exemplar d'Internet Archive](../../../fonts/brutails-coutume-ia.md).
 
 ## Els rèdits de l'església, comprant terra
 

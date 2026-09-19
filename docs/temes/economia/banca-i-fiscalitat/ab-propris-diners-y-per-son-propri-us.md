@@ -206,18 +206,13 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
 4. **L'equivalència de 25 unces per 400 duros**: **si val per a tot el segle XIX o
    només per a aquella data.** `Requereix una sèrie de canvis.`
  5. ~~**La peça justificativa p. XLV (cessió de retracte del 10 d'agost de 1788)**~~ —
-    **`parcial` el 16-09-2026**: el «a l'abast» era fals. **Llegida
-   la p. XLV** (PDF 67): **la peça XXV, *Cession d'un droit de réméré*, del 10
-   d'agost de 1788, només hi COMENÇA** —hi consten la rúbrica, la data i
-   l'encapçalament «*Dia 10 del mes de agost, any, &c., de 1788, en la vila de
-   Andorra, &c.*»— **i el cos segueix a la pàgina XLVI, que NO és a l'exemplar
-   digitalitzat.** **És una de les quatre pàgines que hi falten**, vegeu
-   [quatre pàgines que no hi són](./quatre-pagines-que-no-hi-son.md).
-   **Aquesta peça no es pot llegir amb el material que el corpus té**, i el buit
-   passa de «no llegida» a **`requereix un altre exemplar del volum`**.
-   **El que sí que dona la p. XLV** és el final de la peça XXIV, un **augment de
-   preu de vint-i-cinc lliures i sis diners** sobre una venda anterior, **amb la
-   fórmula «los vench de nou»** i el notari **Ignasi Soldevila**.
+    **`resolt` el 2026-09-19 amb una segona digitalització** ([exemplar
+   d'Internet Archive](../../../fonts/brutails-coutume-ia.md)). La p. XLV en
+   conserva la rúbrica i l'encapçalament, i les pàgines XLVI–XLVII del segon
+   exemplar donen el cos complet de la peça XXV: **Joan KR. i Theresa R. y D.
+   cedeixen a Miquel P. el dret de redimir «lo Barre», comprat el 13 de
+   desembre de 1787 als hereus de Jaume B.**, per trenta lliures, amb les
+   obligacions de restitució i millores.
 6. ~~**Com acaba la frase sobre l'ordre lògic i cronològic** a la p. 210, nota 1:
    **el corpus n'ha llegit el principi i l'exemple i no el desenllaç.**~~ —
    **`parcial` el 19-09-2026**: el cos de la fitxa ja conserva el principi

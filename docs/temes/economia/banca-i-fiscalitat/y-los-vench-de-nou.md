@@ -168,11 +168,12 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
 
 ## Buits registrats
 
-1. **La peça XXV, *Cession d'un droit de réméré*, del 10 d'agost de 1788.**
-   **En sobreviu la data i el lloc**; **el cos cau al forat de les pàgines
-   XLVI-XLVII.** **Prioritat màxima**: **és l'acte que diria **si els drets de
-   rescat es venien a part de la finca***, que és el que el corpus necessita per
-   entendre els retractes que reapareixen. `Requereix un exemplar imprès.`
+1. ~~**La peça XXV, *Cession d'un droit de réméré*, del 10 d'agost de 1788.**~~ —
+   **`resolt` el 2026-09-19 amb una segona digitalització** ([exemplar
+   d'Internet Archive](../../../fonts/brutails-coutume-ia.md)). **Joan KR. i
+   Theresa R. y D. venen a Miquel P. el dret de redimir «lo Barre»**, separat de
+   la venda original, i el comprador assumeix retornar el preu i les millores
+   als hereus de Jaume B.
 2. **L'escriptura de venda del 8 de desembre de 1776** en poder de Tomàs
    Palmitjavila, notari públic d'Encamp. **Prioritari**: **és la que conté els
    pactes que l'addició «vol tenir per expressats i repetits».**
