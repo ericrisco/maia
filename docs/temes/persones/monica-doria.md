@@ -128,13 +128,18 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    Copa del Món de la Seu d'Urgell (2026)**, a més de la plata mundial
    ([font](../../fonts/monica-doria-altaveu-millor-temporada.md)). **La
    sèrie completa de totes les edicions segueix sense reconstruir-se.**
-4. **Com és que competeix per Andorra** i des de quan.
-5. ~~**Si hi ha més piragüistes andorrans.**~~ — **`resolt` el
+4. ~~**Des de quan competeix per Andorra.**~~ — **`resolt` el 2026-09-19**:
+   el bolcat de la seva fitxa diu que competeix internacionalment **des de
+   2014**, que està establerta a **Espanya** i que **competeix per Andorra**
+   ([font local](../../raw/web/esport/atletes/Mònica_Dòria.wiki)).
+   **Per què representa Andorra** continua sense explicar-se.
+5. **Per què competeix per Andorra.**
+6. ~~**Si hi ha més piragüistes andorrans.**~~ — **`resolt` el
    18-09-2026**: **sí, almenys dos més**: **Nil Checa** i **Ona
    Perelegre** (16 anys, debutant en Copa del Món absoluta el 2026)
    ([font](../../fonts/monica-doria-checa-perelegre-seu.md)). **Club i
    categoria de cadascun, sense trobar-se.**
-6. ~~**La premsa andorrana** sobre el títol europeu del 2025 i la plata
+7. ~~**La premsa andorrana** sobre el títol europeu del 2025 i la plata
    mundial del 2026. **El corpus no té cap font andorrana sobre la seva
    pròpia campiona.**~~ — **`resolt` el 18-09-2026**: **la plata a
    Oklahoma és del 27-7-2026, 103,04 segons, a 2,52 de l'or (Tereza
@@ -143,7 +148,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    posiciona per a Los Angeles 2028** amb 2.500 punts de 3.000 en C1 i
    2.200 en K1
    ([font](../../fonts/monica-doria-altaveu-millor-temporada.md)).
-7. **Quan Andorra va federar el piragüisme.**
+8. **Quan Andorra va federar el piragüisme.**
 
 ## Related
 
