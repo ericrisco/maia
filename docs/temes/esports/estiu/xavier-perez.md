@@ -85,14 +85,11 @@ al circuit WTA.
   **I hi ha un fet que la fitxa no tenia**: **va córrer el Giro d'Itàlia del
   1993 i no el va acabar.** **Un andorrà a una gran volta el 1993.**
   `Requereix font externa: el registre d'equips de la UCI del 1993.`
-- **Si és germà d'Emili Pérez.** — **`obert`, i el corpus no ho arbitra.** **Els
-  dos bolcats són independents i cap dels dos no esmenta l'altre.** **El que sí
-  que hi ha és un feix de coincidències que el corpus registra sense
-  concloure-hi res**: **tots dos es diuen Pérez Font, tots dos van néixer a
-  Escaldes-Engordany —ell el 15 de gener del 1968, l'Emili el 3 d'octubre del
-  1966—, tots dos van córrer Seül 1988 i Barcelona 1992, i tots dos van ser
-  professionals el 1993 al mateix equip.** **Cinc coincidències no són una font.**
-  `hipòtesi, no verificada.`
+- ~~**Si és germà d'Emili Pérez.**~~ — **`resolt` el 2026-09-19**: [Olympedia ho
+  registra explícitament](../../../fonts/olympedia-emili-perez.md) a «Olympic
+  family relations»: **Brother of Xavier Pérez**. La mateixa fitxa identifica
+  Emili Pérez Font, nascut a Escaldes-Engordany el 3 d'octubre del 1966, i la
+  dada encaixa amb la identitat del ciclista del corpus.
 - ~~**El ciclisme andorrà**: vegeu també **[David
   Albós](../altres-esports/david-albos.md)**, ciclista de carretera de la
   **Agrupació Ciclista Andorrana**.~~ **[parcial · 2026-09-19]** La fitxa ja
