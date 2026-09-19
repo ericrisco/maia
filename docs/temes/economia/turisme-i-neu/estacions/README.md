@@ -94,7 +94,13 @@ anglesos».**
   (Societat Anònima d'Equipaments Turístics de la Vall d'Encamp) i **SECNOA**
   (Societat Explotadora del Camp de Neu Ordino Arcalís). **Amb NRT i domicili**,
   vegeu [Vallnord](./vallnord.md#les-societats-amb-nom-sencer-i-numero-de-registre).
-- **L'impacte sobre l'habitatge** i el debat sobre saturació.
+- ~~**L'impacte sobre l'habitatge** i el debat sobre saturació.~~ **`parcial`
+  el 2026-09-19**: [la sèrie de turisme](../turisme-i-neu.md) mostra que els
+  visitants del 2025 encara són un **21,2% per sota del màxim de 2004**, i [la
+  fitxa d'allotjaments](../de-la-fonda-a-lhotel.md) documenta **2.358 habitatges
+  d'ús turístic i 11.403 llits** el 2025. El corpus ja té la magnitud del
+  fenomen i el debat de saturació, però encara no prova quin impacte causal té
+  sobre l'habitatge residencial.
 
 ## Related
 
