@@ -31,8 +31,13 @@ corpus té registrat com a buit central a
 - **De 1970 ençà.** La tesi s'atura el 1970.
 - **Els textos** de les obres andorranes.
 - **El teatre d'avui**: companyies, sales, programació.
-- **Els dos autors andorrans** del període, Jacint Martisella Pobla i Rossend
-  Marsol i Clua, **dels quals el corpus no té biografia**.
+- ~~**Els dos autors andorrans** del període, Jacint Martisella Pobla i Rossend
+  Marsol i Clua, **dels quals el corpus no té biografia**.~~ — **`parcial` el
+  2026-09-19**: [la vida teatral](./la-vida-teatral.md) documenta les obres de
+  tots dos, i [la literatura andorrana](../literatura/literatura-andorrana.md)
+  dona **Rossend Marsol Clua (1922–2006)** i el pseudònim **Sícoris**. **La
+  biografia completa de Martisella i la trajectòria personal de tots dos encara
+  no consten.**
 
 ## Related
 

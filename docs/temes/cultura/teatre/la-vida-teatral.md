@@ -192,8 +192,11 @@ d'investigació amb signatura**:
    que declarava el mateix buit pel seu compte i **tenia els altres tres bisbes
    documentats i no aquest**. **El que segueix obert és la resta de la seva
    actuació**, i **quan va ser bisbe**.
-9. **Jacint Martisella Pobla** i **Rossend Marsol i Clua**: dues biografies que
-   falten ([persones](../../persones/README.md)).
+9. ~~**Jacint Martisella Pobla** i **Rossend Marsol i Clua**: dues biografies que
+   falten~~ — **`parcial` el 2026-09-19**: el corpus ja té les seves obres, i
+   [la literatura andorrana](../literatura/literatura-andorrana.md) dona per a
+   Marsol les dates **1922–2006** i el pseudònim **Sícoris**. **Segueixen
+   obertes les biografies completes i la cronologia personal.**
 
 ## Related
 
