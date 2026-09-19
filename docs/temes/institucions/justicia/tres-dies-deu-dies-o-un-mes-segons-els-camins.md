@@ -288,8 +288,13 @@ arriben, el rellotge corre.**
    els terminis**.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
    canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
 8. **Els documents de 1580, 1783, 1793, 1828, 1841 i 1858** sencers.
-9. **Quantes vegades es va allargar el termini de les *inhibitories* per l'estat
-   dels camins**, **i si hi havia cap criteri.**
+9. ~~**Quantes vegades es va allargar el termini de les *inhibitories* per l'estat
+   dels camins**, **i si hi havia cap criteri.**~~ — **`parcial`, actualitzat el
+   2026-09-19**: la fitxa ja documenta **tres casos** —**3 dies** el **17 d'agost
+   de 1580**, **10 dies** el **1828** i **un mes** el **22 de setembre de 1841**—,
+   i el criteri escrit és la **distància del Jutge d'Apel·lacions**, l'**estació**
+   i l'**estat dels camins**, amb el batlle obligat a motivar la pròrroga.
+   **Segueix obert el recompte complet** de casos.
 10. **Com es concilia que l'acte d'apel·lació «no comporti cap fórmula
     obligatòria» amb la sentència de 1858** que declara insuficient dir «*que
     volia apelarse*».
