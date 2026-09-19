@@ -316,12 +316,23 @@ diversitat lingüística de l'aula.
   llengua fixa la competència oral i la competència escrita/multimodal, amb blocs
   de llengua oral, llengua escrita i literatura infantil. Són els annexos I i II
   del Decret del 21-07-2021.
-- **Els altres programes i annexos encara no s'han llegit sencers.** El corpus ja
-  conserva els de **medi d'Andorra de primera ensenyança (2022)**, **ciències
-  humanes i socials de segona ensenyança (2022)** i **llengua catalana de
-  primera (2024) i segona ensenyança (2023)**; resten pendents la lectura
-  completa d'aquests PDFs i els nivells que no són en aquesta llista. `Parcial:
-  cal llegir els altres annexos.`
+- ~~**Els programes de medi d'Andorra de primera ensenyança i de ciències
+  humanes i socials de segona ensenyança de 2022 encara no s'havien llegit
+  sencers.**~~ — **`resolt` el 19-09-2026**: revisats els dos annexos locals,
+  de **40 i 41 pàgines**. El programa de medi fixa tres competències —situar-se
+  en l'espai geogràfic, situar-se en el temps social i històric a partir de fonts,
+  i interpretar qüestions socials— i tres blocs —jo i les altres persones;
+  espai i societat; història i memòria—, amb criteris i expectatives dels tres
+  cicles. El de ciències humanes i socials fixa tres competències —interacció
+  entre grups humans i medi, evolució històrica de la societat andorrana, i
+  qüestions socials crítiques i creatives— i cinc blocs —població i economia;
+  lloc i medi ambient; societat diversa; ciutadania i governança; memòria i
+  patrimoni—, amb síntesis de primer i segon cicle.
+- **Els annexos de llengua catalana de primera ensenyança (2024) i de segona
+  ensenyança (2023), els programes de música i els nivells que no són en aquesta
+  llista encara no s'han comprovat sencers en aquesta auditoria.** El corpus ja
+  conserva els PDFs; cal completar-ne la lectura i documentar-ne els blocs abans
+  de tancar el buit. `Parcial: cal llegir els altres annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
