@@ -461,8 +461,9 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
 9. **Els dos actes de 1552 i 1649** pels quals el Consell nomena apoderats, i
    **quin era el col·legi de Foix** amb plaça reservada a un clergue andorrà.
    **L'interrogant sobre el col·legi és de Brutails.** `obert.`
-10. **Quan van desaparèixer els comissionats**, si van desaparèixer. La font els
-    dona **«en vies de desaparició»** el 1904. `obert.`
+10. ~~**Quan van desaparèixer els comissionats**, si van desaparèixer.~~ —
+    **`parcial` el 19-09-2026**: la font els descriu **«en vies de desaparició»**
+    el 1904, però no dona l’any d’extinció ni confirma que desapareguessin.
 11. **La composició dels consells de quart**, que **cap text no fixava el 1904**.
     **Si mai se'n va escriure una norma, no és al corpus.** `obert.`
 12. **Els dos documents d'assemblea general de parròquia** —**Encamp, 16 de
