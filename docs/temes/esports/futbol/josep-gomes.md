@@ -85,8 +85,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - ~~**Els anys de cada club.**~~ — **`resolt`** (taula de dalt, **quinze
   etapes**).
-- **Si continua jugant.** — **`obert`**: **la instantània del bolcat marca fins
-  on arriba el que se'n sap.**
+- ~~**Si continua jugant.**~~ — **`resolt` el 2026-09-19** per la mateixa fitxa:
+  la prosa diu que **ara juga al Casa de Portugal** i la taula el registra el
+  **2026-** amb una instantània del **17 de maig del 2026**.
 - ~~**La Primera Divisió andorrana i els seus clubs comunitaris.**~~ —
   **`parcial`, actualitzat el 2026-09-19**: [la fitxa de clubs](./clubs-i-competicions/els-clubs.md)
   ja situa **Casa de Portugal** dins la Primera Divisió i documenta que tres
