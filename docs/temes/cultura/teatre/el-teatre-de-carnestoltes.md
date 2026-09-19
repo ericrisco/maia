@@ -228,9 +228,7 @@ pogut datar-ne els anys**.
 
 ## Buits registrats
 
-1. **Els textos.** De *L'operació del Carnestoltes*, del *Tralarí i la Marieta*,
-   dels dos *judicis dels contrabandistes*. **El del Tralarí no existeix
-   escrit.** **Prioritari absolut per a la fase 3.**
+1. ~~**Els textos** de *L'operació del Carnestoltes*, del *Tralarí i la Marieta* i dels dos *judicis dels contrabandistes*.~~ — **`parcial` el 2026-09-19**: la font confirma que del **Tralarí i la Marieta** **no hi ha text escrit**, sinó només un relat de tercers basat en narracions orals i informació fotogràfica. **Els textos de l’operació i dels dos judicis continuen sense ser al corpus.**
 2. **El guió de Rossend Marsol del 1959.**
 3. **Enregistraments**: àudio o vídeo de qualsevol d'aquestes farses.
 4. ~~**Els arguments de l'óssa a la resta de parròquies.** La font en dona dos.~~
