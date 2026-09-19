@@ -78,10 +78,11 @@ Catalana d'Escacs.**
 - **Quan i per què va passar a competir per Andorra**, el 2000.
 - **Si viu a Andorra.**
 - **Les seves set Olimpíades** una per una: quins anys, i on.
-- **Qui és el número 1 i el número 2 d'Andorra**, si ell n'era el tercer el 2022.
-  **El corpus suposa que [Lance Henderson](../altres-esports/lance-henderson.md)
-  n'és un** —la seva fitxa diu que és **«el jugador amb més elo d'Andorra»**— i
-  **no sap qui és l'altre.**
+- ~~**Qui és el número 1 i el número 2 d'Andorra**, si ell n'era el tercer el 2022.~~
+  — **`resolt`: la llista FIDE d'abril de 2022 posa [Lance Henderson](../altres-esports/lance-henderson.md)
+  primer amb **2.492**, **Jordi Fluvià Poyatos** segon amb
+  **2.457** i De la Riva tercer amb **2.429**. [La font de rànquing](../../../fonts/fide-ranking-andorra-april-2022.md)
+  tanca la inferència que abans només feia la fitxa de Lance.
 
 ## Related
 
