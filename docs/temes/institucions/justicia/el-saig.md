@@ -202,8 +202,12 @@ Vegeu
      provocar, segons el Politar— **és d'aquella data o d'abans**. **El corpus ho
      registra com a lectura seva**, **no com a afirmació de cap font**: **cap dels
      dos textos no lliga la data amb el nom.**
-3. **Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
-   del 1390 i el saig del 2023.
+3. ~~**Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
+   del 1390 i el saig del 2023.~~ — **`parcial` el 20-09-2026**: el corpus ja
+   documenta **cinc aparicions de l'ofici entre 1305 i 1623**, incloent-hi
+   **quatre Arenys**, i té el text que explica el canvi de *saig* a *batlle*.
+   **No hi ha prova de parentiu entre els Areny ni que l'ofici fos hereditari**;
+   queda oberta la continuïtat genealògica.
    - **Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
      **1305** es diu **Bernat de Lareyu** i el del **1390**, **Ramon de
      l'Areny**: **el mateix nom de casa en el mateix ofici, a vuitanta-cinc anys
