@@ -70,7 +70,12 @@ Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../ra
   **Rossell** com les dues fargues més importants i localitza els meners de
   **Ransol** i de la **cort de Rossell**. La llista completa de fargues i mines,
   amb els noms i la ubicació de cadascuna, continua oberta.
-- **Quina era l'altra de les dues últimes fargues actives.**
+- ~~**Quina era l'altra de les dues últimes fargues actives.**~~ — **`parcial` el
+  19-09-2026**: la lectura conjunta identifica **la farga d'Areny** com a
+  candidata: la Rosell va tancar el **1876** i [*El ferro*](../../artesania/el-ferro.md)
+  documenta que la d'Areny va ser **l'última**, tancada el **1893**. **Cap font
+  consultada no formula explícitament que Areny i Rossell fossin la parella de
+  les dues últimes actives.**
 - ~~**La mina de Llorts** i **la collada dels Meners**: cap fitxa de cap.~~ —
   **`parcial` el 18-09-2026**: **la mina de Llorts**, del segle XIX, **només
   va estar activa quatre anys** per manca de mineral, amb una galeria de 30
