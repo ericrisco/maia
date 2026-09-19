@@ -254,33 +254,24 @@ un mestre de noys y un de noyes en cada paroquia.»**
 
 ## Buits registrats
 
-1. **El text de la Reforma de 1866**, paràgraf per paràgraf. Brutails en cita els
-   §§ **1, 3, 5-11, 14, 15 i 16** —**la llista va créixer el 2026-09-16 amb els
-   §§ 8, 10, 11 i 15**, llegits a la secció *Organisation administrative* del mateix
-   capítol ([vuitanta pessetes per fer reunir el Consell General](../../institucions/consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md))—
-   i **el corpus no en té cap de sencer**. **Prioritari.**
-
-   > **Ara en té la fitxa bibliogràfica completa**, de la nota 2 de la pàgina 29:
-   > ***Plan de reforma adoptat en las valls de Andorra per lo nombrament de
-   > consellers, consuls y demes autoritats y comisionats, que han de constituir
-   > lo gobern general y de cada parroquia y entendrer en la administracio de las
-   > cosas comunas*, **Seu d'Urgell, 1866, in-12, 16 pàgines**, i **«aquesta
-   > brochure és molt rara»** ja el 1904. **El buit no es tanca; deixa de ser una
-   > cerca a cegues.**
-   >
-   > **I hi ha dues peces més a buscar amb ella**: **l'exposició de motius
-   > adreçada al Govern francès el 24 d'abril de 1866**, i **l'aprovació
-   > episcopal, «impresa al capdavant de la Reforma»**, que **té paràgrafs propis
-   > i valor normatiu** —Brutails en treu del **§ 1** la renovació per meitat del
-   > Consell General.
+1. ~~**El text de la Reforma de 1866**, paràgraf per paràgraf. Brutails en cita
+   els §§ **1, 3, 5-11, 14, 15 i 16**.~~ — **`resolt` el 2026-09-19** a [el
+   text, article per article](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md):
+   la transcripció de 1920 conserva el decret del **22 d'abril de 1866**, les
+   quatre bases i els setze articles. **L'imprès original de 16 pàgines continua
+   fora del corpus**, però el buit de lectura del text queda tancat.
 2. ~~**L'apèndix de la Reforma**.~~ — **`parcial` el 2026-09-18**: el corpus
    coneix ara **dues pàgines seguides de contingut**, **la 13**, on **ja es parla
    del projecte de codificar els costums** que el Consell General encarregaria el
    **17 de desembre de 1868** *(Brutails, p. 56, nota 2)*, i **la 14**, amb
    **l'obligació de mestre i mestra per parròquia**. **L'apèndix complet segueix
    sense ser al corpus** ([cinc respostes a la mateixa pregunta](../../institucions/justicia/cinc-respostes-a-la-mateixa-pregunta.md)).
-3. **En què consistien les «facilitats» de naturalització** per al cap de casa
-   estranger.
+3. ~~**En què consistien les «facilitats» de naturalització** per al cap de casa
+   estranger.~~ — **`no-es-buit`**: la Reforma no parla de naturalització. L'article
+   1 només permet al foraster casat amb una pubilla ser elector si porta tres
+   anys al país i el Comú no prova menyspreu o indiferència envers els assumptes
+   del país, amb recurs al Príncep Sobirà. La confusió venia de la paràfrasi de
+   Brutails i queda corregida a [el text, article per article](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
 4. ~~**Quan es va passar del vot per casa al vot per persona**, i amb quina
    norma.~~ — **`resolt` el 18-09-2026: no és un buit, era la reconstrucció
    d'una altra fitxa.** [El sufragi universal
