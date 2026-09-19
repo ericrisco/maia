@@ -218,8 +218,10 @@ ara** — amb datació document a document, del 1176 al 1978.
   «secret»**: el text el nomena dues vegades i no el descriu.
 - Si les set claus **encara existeixen** i qui les guarda avui.
 - **Quan es va obrir per última vegada** amb les set claus posades.
-- Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
-  web i **no consultades**.
+- ~~Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
+  web i **no consultades**.~~ — **`parcial`, actualitzat el 2026-09-19**: el
+  corpus ja en coneix el nombre i l'accés públic al web de l'Arxiu Nacional;
+  encara no n'ha revisat els continguts.
 - ~~Quines eren **les sis parròquies històriques** i quan exactament es
   constitueix Escaldes-Engordany.~~ — **`resolt` el 17-09-2026** des de les
   [actes històriques del Consell
