@@ -288,8 +288,9 @@ institucions «l'air de former un véritable musée rétrospectif».**
 4. **Res no resol la contradicció d'aquesta fitxa.** **Caldria una sentència en
    què el Tribunal examinés o refusés d'examinar l'admissibilitat.** **El corpus
    no en té cap.**
-5. **Quantes vegades es va reunir el tribunal.** **La font diu «assez rares» i no
-   dona cap sèrie.**
+5. ~~**Quantes vegades es va reunir el tribunal.**~~ — **`parcial` el
+   19-09-2026**: la font ho qualifica d’**«assez rares»**, però no dona cap
+   recompte ni sèrie històrica.
 6. **Com eren de fet les sentències bilingües**: **si el català era traducció o
    original, i qui les redactava.** **Prioritari també per a l'àmbit de llengua.**
 7. **En quina de les cinc places seia Brutails.** **La font llista els noms i no
