@@ -203,8 +203,9 @@ s'havien llegit.** **Aquí hi és, i és curt:**
    confraria.** **La font escriu «la paroisse de X.».**
 5. **L'emfiteusi de 1890** de l'escola de noies d'Andorra la Vella, **i si l'escola
    es va arribar a construir.**
-6. **Quantes censives hi havia el 1904.** **La font diu «en petit nombre» i en cita
-   quatre.**
+6. ~~**Quantes censives hi havia el 1904.**~~ — **`parcial` el 19-09-2026**: la
+   font les qualifica **«en petit nombre»** i en cita **quatre**, però no dona el
+   total.
 7. **El pergamí 233** de Raimond-Berenguer IV, **Arxiu de la Corona d'Aragó**:
    **signatura completa i any exacte** — la font el data per l'any de regnat de
    Lluís VII.
