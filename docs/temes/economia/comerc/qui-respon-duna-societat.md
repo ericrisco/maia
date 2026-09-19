@@ -410,16 +410,25 @@ indicador exigeix la mateixa definició d'empresa.`
 - ~~**La junta general**: convocatòria, junta universal, dret d'informació i
   impugnació d'acords (articles 28-44) **queden per llegir**.~~ — **`resolt`.**
 - ~~**El capital**: augment, reducció i règim d'accions pròpies (articles 66 i
-  següents) **no s'han llegit**.~~ — **`parcial`.** **Augment, reducció i
-  l'operació acordió, fets.** **El règim d'accions pròpies** (art. 23, *negocis
-  sobre les pròpies accions o participacions*) i les **participacions
-  recíproques** (art. 24) **segueixen sense buidar**, i **no són on el buit deia
-  que eren**: són al capítol II, no al 66 i següents.
+  següents) **no s'han llegit**.~~ — **`resolt`** amb el text dels articles 23–24
+  i 66–77. A més de l'augment, la reducció i l'operació acordió ja buidats, la
+  llei prohibeix subscriure accions pròpies i en limita l'adquisició al **10% del
+  capital**, amb autorització de la junta, termini per alienar-les i suspensió
+  dels drets polítics mentre es conserven; les participacions recíproques o
+  circulars també tenen un **límit del 10%**, amb reducció obligada en un any,
+  reserva comptable i suspensió dels drets polítics. La referència del buit als
+  articles 66 i següents era incompleta: les restriccions són als articles 23 i
+  24.
 - ~~**Dissolució, liquidació, fusió i escissió** —el final de la vida d'una
-  societat— **no s'han tocat**.~~ — **`parcial`.** **Dissolució, feta**
-  (arts. 85-87). **La liquidació pròpiament dita** (arts. 88 i següents) i **les
-  modificacions estructurals** —fusió, escissió, transformació, capítol VI—
-  **segueixen obertes**.
+  societat— **no s'han tocat**.~~ — **`resolt`** amb els articles 78–100 del
+  text local. La transformació, la fusió i l'escissió exigeixen acord de les
+  juntes, projecte i balanç, publicació i termini d'oposició dels creditors, i
+  escriptura inscrita al Registre. En la liquidació, la societat conserva la
+  personalitat jurídica, els administradors passen a liquidadors, s'aproven
+  inventari, balanç inicial i balanç final, no es paga la quota als socis fins
+  que els creditors han estat satisfets o garantits, i l'extinció es formalitza
+  en escriptura pública i inscripció. Els actius o passius sobrevinguts reactiven
+  les funcions dels liquidadors i es resolen segons la quota de liquidació.
 - ~~**Quantes societats hi ha inscrites** al Registre de Societats, no consta.~~
   — **`resolt` el 17-09-2026 per la via d'Estadística** (activitats **A099** i
   **A097**): vegeu

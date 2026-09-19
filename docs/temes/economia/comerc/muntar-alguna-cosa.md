@@ -180,16 +180,17 @@ greus, **i el Govern per a les molt greus** (article 45).
 
 ## Buits registrats
 
-- **Els òrgans i el govern de les societats**: la part d'administradors,
+- ~~**Els òrgans i el govern de les societats**: la part d'administradors,
   responsabilitat, pactes parasocials i beneficiaris efectius ja és al corpus a
-  [qui respon d'una societat](./qui-respon-duna-societat.md). ~~**Queden per
-  llegir** la junta general (art. 28-44), el règim del capital (66 i següents) i
-  la dissolució, liquidació, fusió i escissió.~~ — **tancat en bona part el
-  2026-09-13**, al mateix article: **junta general sencera**, **capital mínim**
-  (60.000 € anònima, 3.000 € limitada), **augment, reducció i operació acordió**,
-  i **dissolució**. **Queden obertes** la **liquidació** (art. 88 i següents),
-  les **modificacions estructurals** —fusió, escissió, transformació— i el
-  **règim d'accions pròpies** (art. 23-24).
+  [qui respon d'una societat](./qui-respon-duna-societat.md). Queden per llegir
+  la junta general (art. 28-44), el règim del capital (66 i següents) i la
+  dissolució, liquidació, fusió i escissió.~~ — **`resolt`** amb els articles
+  23–24, 28–44 i 78–100 del text local de societats, ja buidats a [qui respon
+  d'una societat](./qui-respon-duna-societat.md): junta general i quòrums,
+  capital i accions pròpies, transformació, fusió, escissió, dissolució,
+  liquidació, extinció i tractament d'actius o passius sobrevinguts. La
+  referència inicial als articles 66 i següents era incompleta: les accions
+  pròpies i les participacions recíproques són als articles 23 i 24.
 - ~~**La Llei del comerç** (111 articles): el **títol III** —tipus de venda,
   rebaixes, liquidacions, outlet i venda a distància— ja és al corpus a
   [quan el preu baixa](./quan-el-preu-baixa.md). **Queden sense llegir** el règim
