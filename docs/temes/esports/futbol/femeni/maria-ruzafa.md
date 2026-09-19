@@ -56,7 +56,10 @@ Gibraltar**, en el mateix partit on va marcar
   set i mig. **La llista es declara «non-exhaustive»** i la biografia no
   documenta el detall partit a partit que permetria validar les 38. La xifra
   real continua requerint la Federació Andorrana de Futbol.
-- **Els seus cinc gols**, dels quals el corpus només en situa un.
+- ~~**Els seus cinc gols**, dels quals el corpus només en situa un.~~
+  **[parcial · 2026-09-19]** La biografia dona **5 gols**, i el corpus en pot
+  situar un: el **16 de febrer del 2022 contra Gibraltar**. Els altres quatre
+  no tenen rival ni data; la llista d'internacionals continua donant 0 gols.
 - **Per què va marxar d'Andorra el 2021 i no ha tornat.**
 
 ## Related

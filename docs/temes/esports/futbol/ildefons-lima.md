@@ -129,7 +129,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   Suïssa**. **Els 15 gols al FC Andorra del 2012-2014 són el seu millor registre
   de club**, i **contrasten amb els 2 dels seus tres primers anys al mateix
   club, quinze anys abans.**
-- **Els seus onze gols**: contra qui i quan.
+- ~~**Els seus onze gols**: contra qui i quan.~~ **[parcial · 2026-09-19]** La
+  taula confirma **11 gols amb Andorra**, però el bolcat no en dona els rivals
+  ni les dates.
 - **El seu comiat**, el setembre del 2023 contra Suïssa.
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un

@@ -113,7 +113,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   **Onze etapes en total**, **totes andorranes tret d'una: La Seu d'Urgell,
   el 2002-03.** **El primer andorrà que va arribar als cent
   partits internacionals gairebé no va sortir mai del país per jugar.**
-- **Els seus quatre gols.**
+- ~~**Els seus quatre gols.**~~ **[parcial · 2026-09-19]** La taula confirma
+  **4 gols amb Andorra**, però el bolcat no en dona els rivals ni les dates.
 - **Si va ser capità, i quan.**
 
 ## Related
