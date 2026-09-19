@@ -265,9 +265,11 @@ exemple datat. El corpus el refà.**
    documents més moderns que aquest llibre cita.**
 4. **El decret del Consell General del 21 de desembre de 1895**, i **quina és «la
    lley general» que invoca.**
-5. **Quan es va acabar d'admetre l'apel·lació contra les sentències *en
-   rebeldia***, **i qui protestava.** **La font ho dona com a evolució en curs el
-   1904.**
+5. ~~**Quan es va acabar d'admetre l'apel·lació contra les sentències *en
+   rebeldia***, **i qui protestava.**~~ — **`parcial`, actualitzat el 2026-09-19**:
+   la font presenta aquesta admissió com una **evolució encara en curs el
+   1904**. **Segueixen obertes la data en què es va completar i la identitat de
+   qui hi protestava.**
 6. **Els documents de 1503, 1601, 1603, 1604, 1788 i 1793** sencers.
 7. ~~**El *Politar*, pp. 209 i 212.**~~ — **`resolt` el 18-09-2026, i el termini
    de tretze dies té dins una distinció que aquesta fitxa necessitava.**
