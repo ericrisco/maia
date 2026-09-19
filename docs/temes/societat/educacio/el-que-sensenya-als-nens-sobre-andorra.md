@@ -328,11 +328,18 @@ diversitat lingüística de l'aula.
   qüestions socials crítiques i creatives— i cinc blocs —població i economia;
   lloc i medi ambient; societat diversa; ciutadania i governança; memòria i
   patrimoni—, amb síntesis de primer i segon cicle.
-- **Els annexos de llengua catalana de primera ensenyança (2024) i de segona
-  ensenyança (2023), els programes de música i els nivells que no són en aquesta
-  llista encara no s'han comprovat sencers en aquesta auditoria.** El corpus ja
-  conserva els PDFs; cal completar-ne la lectura i documentar-ne els blocs abans
-  de tancar el buit. `Parcial: cal llegir els altres annexos.`
+- ~~**Els annexos de llengua catalana de primera ensenyança (2024) i de segona
+  ensenyança (2023) encara no s'havien comprovat sencers.**~~ — **`resolt` el
+  19-09-2026**: llegits els dos PDFs locals, de **83 i 94 pàgines**. El programa
+  de primera ensenyança fixa tres competències —comunicació oral, lectura de
+  textos multimodals simples i escriptura multimodal amb intenció comunicativa—
+  i cinc blocs —oralitat, lectura, escriptura, literatura i reflexió sobre la
+  llengua—. El de segona ensenyança fixa quatre competències —comprensió i
+  producció de discursos orals i escrits multimodals— i els mateixos cinc blocs,
+  amb síntesis diferenciades per als sistemes congregacional, francès i espanyol.
+- **Els programes de música i els nivells que no són en aquesta llista encara no
+  s'han comprovat sencers en aquesta auditoria.** `Parcial: cal llegir els altres
+  annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
