@@ -266,8 +266,13 @@ Jutge el 19 de novembre de 1846:**
    Corts hi van fer.**
 6. **Els documents de 1433, 1471, 1472 i 1484**, sencers.
 7. **Per què el 1472 es parla del «batlle del capítol»** i no del batlle del bisbe.
-8. **Quantes vegades el Consell General va haver de presentar més d'una sisena**, i
-   **si alguna vegada s'hi va negar.**
+8. ~~**Quantes vegades el Consell General va haver de presentar més d'una sisena**, i
+   **si alguna vegada s'hi va negar.**~~ — **`parcial`, actualitzat el 2026-09-19**:
+   el mecanisme permetia presentar **una o diverses sisenes successivament** fins
+   que el copríncep trobés un candidat agradable, i la fitxa conserva un cas
+   complet del **8 d'octubre de 1718**, amb els sis candidats, el lliurament al
+   veguer de França i el jurament posterior. **Segueixen oberts el recompte de
+   casos amb més d'una sisena i si el Consell va arribar a negar-se.**
 9. **Els nomenaments provisionals** fets pel Consell quan França oblidava de nomenar:
    **quants i quan.**
 10. **Els Archives de l'Ariège, Andorre, lligall 2.** **Sisena peça registrada i
