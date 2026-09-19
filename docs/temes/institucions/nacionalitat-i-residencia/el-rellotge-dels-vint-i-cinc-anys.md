@@ -244,8 +244,13 @@ dataset**.`
 
 ## Buits registrats
 
-1. **Com datava el Servei d'Immigració la inscripció de residència** i si els
-   anys de sojorn comptaven. **Prioritari i comprovable.**
+1. ~~**Com datava el Servei d'Immigració la inscripció de residència** i si els
+   anys de sojorn comptaven.~~ — **`parcial`, actualitzat el 2026-09-19**: el
+   testimoni de Modest Mayoral diu que, després de 1980, el Servei d’Immigració
+   feia constar la inscripció **des del dia que es concedia la residència
+   efectiva**, mentre que els **tres a cinc anys de permís de sojorn no
+   comptaven**. **Segueix oberta la confirmació independent del criteri
+   administratiu i la seva aplicació a tots els casos.**
 2. ~~**Les actes del debat de la Llei de la nacionalitat de 1995** i les cinc
    xifres.~~ — **`resolt` el 17-09-2026 pel Diari Oficial del Consell General**,
    **núm. 10/1995, sessió del 5 d'octubre**: vegeu
