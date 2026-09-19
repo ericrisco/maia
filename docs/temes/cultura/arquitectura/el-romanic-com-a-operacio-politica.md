@@ -156,7 +156,10 @@ ni la forma del campanar** d'aquestes esglésies.»
 3. **La casa de Caboet** i **Arnalda de Caboet**: fitxa pròpia pendent.
 4. **El catarisme a Andorra.** L'autor l'esmenta i **el corpus no en té res**.
    **Buit gran.**
-5. **Quantes** esglésies romàniques hi ha i **de quin segle és cadascuna**.
+5. ~~**Quantes** esglésies romàniques hi ha i **de quin segle és cadascuna**.~~ —
+   **`resolt`, confirmat el 2026-09-19**: l'índex del [romànic andorrà](./romanic.md)
+   en recull **sis** i dona per a cadascuna la parròquia i la cronologia
+   arquitectònica.
 6. **Qui les pagava.**
 
 ## Related
