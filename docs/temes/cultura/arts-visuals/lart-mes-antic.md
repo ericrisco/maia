@@ -108,8 +108,14 @@ tot el Pirineu de sota i amb la idea que
 3. ~~**El Cedre** i **l'Oral** — jaciments.~~ **[parcial · 2026-09-19]** La fitxa ja identifica **l'Oral** com el lloc on es van trobar el **peu votiu** i la **fíbula** de l'edat del bronze. Encara falten les fitxes completes de l'Oral i del Cedre.
 4. **Els gravats rupestres**: inventari.
 5. **Què hi havia en època romana**, si no hi ha vil·les.
-6. **On són avui** aquestes peces. Museu?
-   ([museus i arxius](../museus-i-arxius/museus-i-arxius.md))
+6. ~~**On són avui** aquestes peces. Museu?~~ — **`parcial`, confirmat el
+   19-09-2026**: l'article 26.1 de la [Llei 9/2003 del patrimoni
+   cultural](../../../raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt)
+   estableix que les troballes arqueològiques són de domini públic i que el
+   Ministeri de Cultura les ha de destinar a un **museu o centre adequat**.
+   **La norma fixa el destí institucional però no diu en quin museu són avui el
+   peu votiu, la fíbula, la dena o els còdols**; aquesta localització concreta
+   continua oberta ([museus i arxius](../museus-i-arxius/museus-i-arxius.md)).
 
 ## Related
 
