@@ -20,3 +20,17 @@
 - Consulta: 2026-09-19.
 - Ús: identificació arxivística de la butlla de Martí IV (1282-10-07, Montefiascone), BNF Baluze 81, f. 369r-v, i una còpia a BNF Doat 162, f. 50r-51v.
 - Condicions: catàleg institucional; termes de reutilització no especificats; no és el manuscrit de la butlla.
+
+## Joan Becat — reconeixement d'Andorra (1996)
+
+- [PDF](becat-emergencia-andorra-1996.pdf), [text](becat-emergencia-andorra-1996.txt)
+  — [original IEC](https://publicacions.iec.cat/repository/pdf/00000073/00000008.pdf),
+  conferència publicada a *Treballs de la Societat Catalana de Geografia* 41
+  (1996), pp. 261–291.
+- Lectura destil·lada: pp. 271–285. El text situa l'última quèstia francesa el
+  26-11-1991, l'última episcopal el 12-11-1992, la petició d'adhesió a l'ONU el
+  24-06-1993 i l'acceptació per l'Assemblea General el 28-07-1993. També
+  documenta el tractat trilateral del 03-06-1993.
+- Procedència registrada abans de la descàrrega a
+  `02-DOCS/raw/sources/becat-1996-emergencia-andorra.md`. Accés obert no
+  equival automàticament a permís de redistribució del PDF.

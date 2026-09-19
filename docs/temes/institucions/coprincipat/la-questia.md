@@ -133,6 +133,15 @@ i cap de les dues no ho té.**
 [la Constitució](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md)
 el 1993.**
 
+**La cronologia queda contrastada amb Joan Becat.** La seva conferència de 1996
+situa l'última quèstia francesa a París el **26 de novembre de 1991**,
+l'última episcopal a la Seu d'Urgell el **12 de novembre de 1992**, i la
+petició d'adhesió a l'ONU el **24 de juny de 1993**; l'Assemblea General
+accepta Andorra el **28 de juliol**. També hi consta el tractat trilateral del
+**3 de juny de 1993**. És una anàlisi posterior, no la crònica primària dels
+lliuraments ([fitxa Becat](../../../fonts/becat-emergencia-andorra.md),
+pp. 280–285).
+
 > **Set-cents quinze anys de tribut, del 1278 al 1992.** **I les dues últimes
 > entregues es van fer amb catorze mesos i mig de diferència, ja sabent que
 > serien les últimes.**
@@ -191,10 +200,13 @@ l'article 47 de la Constitució.`
 
 ## El que falta
 
-- **Joan Becat**, *«Emergència i reconeixement d'Andorra com a Estat»*,
+- ~~**Joan Becat**, *«Emergència i reconeixement d'Andorra com a Estat»*,
   ***Treballs de la Societat Catalana de Geografia* 41 (1996)**, **en accés
   obert a l'IEC.** **És la font de les tres dates finals i el corpus no l'ha
-  llegit.** **Buit prioritari i barat.**
+  llegit.**~~ — **`resolt` el 19-09-2026**: PDF institucional i text conservats;
+  la lectura confirma les dues últimes quèsties i la seqüència 1993
+  (petició d'adhesió, acceptació i entrada a l'ONU). Les cròniques primàries
+  dels lliuraments continuen com a buit separat. [Fitxa de lectura](../../../fonts/becat-emergencia-andorra.md).
 - ~~**Tomàs Junoy**, ***Relació sobre la Vall d'Andorra*** (1838) — **la mateixa
   font primària que [el ball de l'ossa](../../costums/danses/el-ball-de-lossa-dencamp.md)
   reclama.** **Dues fitxes de branques diferents demanen el mateix llibre.**~~ —
