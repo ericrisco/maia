@@ -95,9 +95,8 @@ andorrana del canvi de segle.
   [el Banc Agrícol](./el-banc-agricol.md) i a la
   [fitxa de font](../../../fonts/wikipedia-anys-daurats.md). **Cap de les tres
   no diu què era.**
-- **Quan acaba l'oligopoli.** La font diu «al principi del segle XXI» i **no en
-  dona la data.**
-  **`obert` — confirmat el 2026-09-13.**
+- ~~**Quan acaba l'oligopoli.**~~ — **`parcial` el 19-09-2026**: la font només
+  l'acota **fins al principi del segle XXI** i no en dona l'any exacte.
 - **Si l'acord del 1968 consta per escrit** a les actes del Consell General.
   **Font primària no consultada.**
   **`obert` — confirmat el 2026-09-13**, i **no és un buit aïllat**: el Banc
