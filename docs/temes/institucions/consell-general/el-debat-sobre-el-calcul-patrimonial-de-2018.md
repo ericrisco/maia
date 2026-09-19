@@ -81,12 +81,12 @@ no s'ha comprovat. Aquests totals no identifiquen l'efecte causal del barem.
 - No s'ha comprovat la referència d'Alís a una objecció de Sindicatura
   amb cap document original d'aquest òrgan; no s'atribueix al Consell
   una conclusió jurídica institucional a partir d'aquella intervenció.
-- Contrast parcial de xifres tancat amb la
+- ~~Contrast parcial de xifres tancat~~ — **`parcial` el 19-09-2026** amb la
   [memòria APAP 2017 i notícia de 2016](../../../fonts/govern-apap-2017.md).
-  No memòria 2016 localitzada en les cerques fetes, liquidacions detallades,
-  expedients individuals ni metodologia completa contrastats. No es coneix
-  el nombre de persones elegibles que no cobraven, ni l'efecte causal de
-  la reforma. No tota la memòria 2017 llegida.
+  No s'ha localitzat la memòria 2016 en les cerques fetes, ni s'han contrastat
+  liquidacions detallades, expedients individuals o la metodologia completa.
+  No es coneix el nombre de persones elegibles que no cobraven ni l'efecte
+  causal de la reforma. No s'ha llegit tota la memòria 2017.
 - ~~El buit de lectura dels informes de ponència i comissió~~ — **`parcial`
   el 17-09-2026**: [BCG 21/2018](../../../fonts/consell-general-bcg-2018-21.md), p. 2–6.
   No s'han llegit les actes de les reunions ni la resta de punts del
