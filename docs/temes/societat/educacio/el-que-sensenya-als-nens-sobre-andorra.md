@@ -207,20 +207,53 @@ sistema educatiu andorrà**, que és qui determina l'àrea.
 renovació i millora del sistema educatiu andorrà** ha comportat «una revisió del
 marc curricular […] per adoptar un **enfocament per competències**».
 
+## El programa vigent de medi, llegit
+
+El decret només publicava l'embolcall; l'annex complet és el PDF oficial del
+**Programa de medi d'Andorra de primera ensenyança de Formació Andorrana**
+([còpia local](../../../raw/web/societat/formacio-andorrana/medi-andorra-pe-2022.pdf),
+40 pàgines, dipòsit legal AND.336-2022, consultat el 19-09-2026). El programa
+organitza l'aprenentatge en **tres competències específiques**: situar-se en
+l'espai geogràfic d'Andorra, situar-se en el temps social i històric a partir de
+fonts i evidències, i interpretar qüestions socials. No és només un temari de
+llocs: demana localitzar, comparar fonts, explicar canvis i conseqüències i
+proposar alternatives responsables dins d'una ciutadania democràtica.
+
+El PDF desplega també els tres blocs que el BOPA no deixava llegir:
+
+| Bloc | Contingut que hi apareix |
+| --- | --- |
+| **1. Jo i les altres persones** | Identitat individual i col·lectiva, família i escola; comuns, Govern i Europa; drets, deures, democràcia, diversitat i associacionisme. |
+| **2. Espai i societat** | Paisatge de muntanya; ocupació i transformació del territori (agricultura i ramaderia, indústria tradicional, serveis, comerç, turisme, finances, urbanització, carreteres, migracions i esquí); preservació de l'entorn, residus, boscos, espais protegits, energia i canvi climàtic. |
+| **3. Història i memòria** | Memòries individuals i col·lectives, vida quotidiana, dones i homes, pagesia i oficis, cases, fires, festes, cultura popular, immigració i pas de la societat tradicional a l'Andorra actual. |
+
+La seqüència és explícita per cicles. Al segon cicle, per exemple, l'alumne ha
+de relacionar relleu, hidrografia, comunicacions i assentaments, explicar com les
+persones s'han adaptat a l'espai i identificar els interessos darrere dels canvis
+d'ús del sòl; al tercer, ha d'analitzar la cadena de producció, l'impacte de les
+estacions d'esquí, les necessitats energètiques i les alternatives al creixement
+econòmic. El programa queda, així, llegit com a estructura i prescripció; encara
+caldria documentar com s'aplica a centres, grups i cursos concrets.
+
 ## Buits registrats
 
-- **Els programes nous no s'han llegit, i no es poden llegir des del Butlletí.**
-  Els decrets del 2021 al 2025 publiquen el programa com a **PDF annex**
-  («Programa de medi d'Andorra.pdf»), i el text de l'edicte només en dona
-  l'embolcall. `Requereix baixar els PDF annexos, que no són al mateix fitxer.`
-  **Prioritari**: és el contingut vigent.
+- **Els altres programes nous encara no s'han llegit.** El PDF annex del
+  **Programa de medi d'Andorra de primera ensenyança (2022)** ja és al corpus i
+  permet llegir el contingut vigent d'aquest nivell; resten pendents els annexos
+  de maternal, llengua catalana i ciències humanes i socials dels altres nivells.
+  `Parcial: cal baixar i llegir els altres PDF annexos.`
 - **El programa de segona ensenyança del 1999** i el de **batxillerat** que
   l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   `Requereix una cerca per data, no per frase.`
 - **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
   que són els que fixen hores i condicions, **no s'han vist**.
-- **El bloc 2 de medi —«Ocupació i transformació del territori»— no s'ha
-  buidat** aquí, ni els blocs de llengua catalana ni els de música.
+- ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'ha
+  buidat** aquí, ni els blocs de llengua catalana ni els de música.~~ —
+  **`parcial` el 19-09-2026**: el PDF vigent ja permet buidar l'estructura del
+  bloc 2 (paisatge, usos agrícoles i ramaders, indústria, serveis, urbanització,
+  comunicacions, migracions, esquí, residus, boscos, espais protegits, energia i
+  canvi climàtic), però no documenta encara la seva aplicació a aules concretes;
+  els blocs de llengua i música continuen oberts.
 - **Cap dada d'aplicació**: quants infants segueixen formació andorrana, en quins
   centres, i amb quants ensenyants. `Requereix Estadística o el ministeri.`
 - ~~**La nota-informe sobre l'andorranització del juny de 1972**, que és l'origen
