@@ -243,13 +243,13 @@ carreteres**, **i la fractura institucional que en va sortir.**
    és part interessada**, i **és una acusació de corrupció.** Vegeu
    [el síndic va tornar i es va posar al capdavant del
    motí](./el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md).
-3. **Si es va arribar a jugar**, **quant de temps** i **què va passar amb la casa
-   portàtil.** **`estret el 17-09-2026`**: **una font francesa diu que la
+3. ~~**Si es va arribar a jugar**, **quant de temps** i **què va passar amb la casa
+   portàtil.**~~ **`parcial` el 2026-09-19**: **una font francesa diu que la
    instal·lació eren barracots de fusta i un xalet rústic desmuntable a la
    Solana, sota pretext de fonts termals, i que el segon síndic Molins va fer
-   anul·lar la concessió al·legant que no s'havia consultat França** —**els
-   obrers van deixar la Solana**. **Si s'hi va jugar, segueix sense constar per
-   cap de les dues fonts.**
+   anul·lar la concessió al·legant que no s’havia consultat França** —**els
+   obrers van deixar la Solana**. **Si s’hi va jugar i durant quant de temps,
+   segueix sense constar per cap de les dues fonts.**
 4. **La carta de Lluís XIII a M. d'Argenson del 14 de maig de 1642.** **Citada amb
    data i destinatari, sense arxiu.** **Prioritari**: és **el document més antic
    d'aquesta sèrie.**
