@@ -175,7 +175,9 @@ tradicionals més aquestes tres. **Buit registrat: quantes n'hi ha avui.**
 1. **El tancament de la frontera de 1959**: durada, com es va resoldre, quines
    conseqüències. **Prioritari.**
 2. **L'INAF** (1989) i la seva evolució fins a l'AFA d'avui.
-3. **Els canvis de lletres de 1867**: el text, no llegit. Ara se'n sap l'objecte.
+3. ~~**Els canvis de lletres de 1867**~~ — **`parcial` el 2026-09-19**:
+   l'intercanvi amb Espanya i França tenia per objectiu establir una **zona de
+   lliure circulació per als excedents ramaders** ([el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)). **El text de les cartes encara no s'ha llegit.**
 4. ~~**L'acord duaner de 1991**: què vol dir a la pràctica excloure'n els
    capítols 1-24~~ — **`resolt` el 2026-09-13 amb un document que el corpus ja
    tenia**: [la duana](../comerc/la-duana.md) ho llegeix al Codi de Duana
