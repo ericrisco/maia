@@ -91,8 +91,9 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
 - **Espera i compensació per comiat:** no s'ha llegit cap instrucció ni
   resolució sobre l'aplicació conjunta del nou 1.1.b i de la regla de
   compensació del 26.4.d de 2020. La taula no resol aquest punt.
-- No s'han llegit resolucions d'expedients que apliquin la norma més
-  beneficiosa en conjunt ni verificat quantes persones van accedir a l'ajut
-  gràcies a aquesta flexibilització. Sí que s'ha incorporat una
-  [lectura de la resposta escrita del Govern](../../institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md),
-  que conserva separades la declaració política i la comprovació dels expedients.
+- ~~**Aplicació de la norma més beneficiosa**~~ — **`parcial` el 19-09-2026**:
+  no s’han llegit resolucions d’expedients ni verificat quantes persones van
+  accedir a l’ajut gràcies a aquesta flexibilització. Sí que s’ha incorporat
+  la [resposta escrita del Govern](../../institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md),
+  que conserva separades la declaració política i la comprovació dels
+  expedients.
