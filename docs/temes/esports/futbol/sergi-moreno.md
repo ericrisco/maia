@@ -102,7 +102,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**Els seus clubs.**~~ — **`resolt`, i són dinou etapes** (taula de dalt).
   **És, de totes les fitxes de futbolista del corpus, la carrera amb més
   canvis de club**: **Espanya, Itàlia, Albània, Malta i Andorra.**
-- **El resultat del partit contra la Xina** del seu debut.
+- ~~**El resultat del partit contra la Xina** del seu debut.~~ — **`resolt` el
+  19-09-2026**: l'article de *Bondia* sobre el seu comiat diu que l'amistós a
+  Peralada va acabar **0–0** ([font](../../../fonts/bondia-sergi-moreno-debut.md)).
 
 ## Related
 
