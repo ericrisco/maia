@@ -260,9 +260,11 @@ jurisdiccions és aquí sencera:**
 6. **Els documents de 1420-1421, 1461, 1471, 1551 —els dos—, 1603 i 1749** sencers.
 7. **Quines jurisdiccions feien consignar per damunt del cost previsible**, i
    **quant.** **La font ho dona com a hàbit i no el tarifa.**
-8. **Quan va deixar d'aplicar-se la *ferma de dret* a Andorra**, **si va deixar
-   d'aplicar-se.** **La font en dona casos fins al 1603 i no en dona cap de
-   posterior.**
+8. ~~**Quan va deixar d'aplicar-se la *ferma de dret* a Andorra**, **si va deixar
+   d'aplicar-se.**~~ — **`parcial`, actualitzat el 2026-09-19**: la font conserva
+   un últim cas datat el **4 d’abril de 1603** i no en dona cap de posterior,
+   tot i escriure el 1904. **Això fixa la darrera atestació de la font, però no
+   prova l’any ni el fet de la desaparició.**
 9. **La constitució catalana de 1493 sobre les «*emparas verbals*».**
 10. **Si la pràctica d'embargar abans de tot debat tenia cap límit**, **i qui
     l'autoritzava.**
