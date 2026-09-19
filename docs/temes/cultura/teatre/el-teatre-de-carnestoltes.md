@@ -229,7 +229,7 @@ pogut datar-ne els anys**.
 ## Buits registrats
 
 1. ~~**Els textos** de *L'operació del Carnestoltes*, del *Tralarí i la Marieta* i dels dos *judicis dels contrabandistes*.~~ — **`parcial` el 2026-09-19**: la font confirma que del **Tralarí i la Marieta** **no hi ha text escrit**, sinó només un relat de tercers basat en narracions orals i informació fotogràfica. **Els textos de l’operació i dels dos judicis continuen sense ser al corpus.**
-2. **El guió de Rossend Marsol del 1959.**
+2. ~~**El guió de Rossend Marsol del 1959.**~~ — **`parcial` el 2026-09-19**: la font identifica **Rossend Marsol** com l’autor del guió que teatralitza la farsa d’Encamp el **1959** i en descriu la incorporació de cançons. **El text del guió no és al corpus.**
 3. **Enregistraments**: àudio o vídeo de qualsevol d'aquestes farses.
 4. ~~**Els arguments de l'óssa a la resta de parròquies.** La font en dona dos.~~
    — **`parcial`, i ara se sap per què només n'hi ha dos.** **[Les festes de
