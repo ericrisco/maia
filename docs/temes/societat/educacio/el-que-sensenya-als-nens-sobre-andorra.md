@@ -308,12 +308,20 @@ diversitat lingüística de l'aula.
   organització social, éssers vius, objectes i música; el segon fixa els
   objectius de primera ensenyança i desplega llengua catalana, medi, ocupació i
   transformació del territori, institucions, activitats culturals i música.
+- ~~**Els programes de medi i llengua catalana d'educació maternal de 2021 no
+  s'havien llegit sencers.**~~ — **`resolt` el 19-09-2026**: revisats els dos
+  PDFs locals de **26 i 29 pàgines**. El de medi fixa dues competències —situar-se
+  en l'espai i el temps, i explorar qüestions socials— i tres blocs —jo i les
+  altres persones; medi i societat; identitats, memòries i cultura—. El de
+  llengua fixa la competència oral i la competència escrita/multimodal, amb blocs
+  de llengua oral, llengua escrita i literatura infantil. Són els annexos I i II
+  del Decret del 21-07-2021.
 - **Els altres programes i annexos encara no s'han llegit sencers.** El corpus ja
-  conserva els de **medi d'Andorra de primera ensenyança (2022)**, **educació
-  maternal (2021)**, **ciències humanes i socials de segona ensenyança (2022)** i
-  **llengua catalana de maternal (2021), primera (2024) i segona ensenyança
-  (2023)**; resten pendents la lectura completa i els nivells que no són en
-  aquesta llista. `Parcial: cal llegir els altres PDF annexos.`
+  conserva els de **medi d'Andorra de primera ensenyança (2022)**, **ciències
+  humanes i socials de segona ensenyança (2022)** i **llengua catalana de
+  primera (2024) i segona ensenyança (2023)**; resten pendents la lectura
+  completa d'aquests PDFs i els nivells que no són en aquesta llista. `Parcial:
+  cal llegir els altres annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
