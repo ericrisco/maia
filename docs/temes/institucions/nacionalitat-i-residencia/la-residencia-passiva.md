@@ -190,7 +190,7 @@ les dels articles 91, 93 i 94 i les persones exemptes de l'article 97.
 
 1. **Els reglaments de quota**: quants permisos s'aproven cada any i per a quins
    sectors. **La llei diu qui decideix i no quant.**
-2. **Quantes residències sense activitat lucrativa hi ha** concedides.
+2. ~~**Quantes residències sense activitat lucrativa hi ha concedides.**~~ — **`parcial` el 2026-09-19**: [La llei d'immigració del 2012](../../societat/immigracio/la-llei-dimmigracio-del-2012.md) reprodueix la sèrie d'autoritzacions vigents i situa la categoria de **residència sense treball** —que el mateix text identifica amb la residència passiva— en **10.199 autoritzacions al desembre de 2025**, davant de **6.893 el 2008**. **La sèrie compta autoritzacions vigents, no el total acumulat de concessions, i no separa les excepcions dels articles 91, 93 i 94.**
 3. ~~**Quan es va crear la figura** i com han evolucionat els imports.~~ —
    **`parcial` el 17-09-2026, i la creació queda datada** des del
    [BOPA](../../../fonts/bopa.md): **Llei qualificada de residències passives,
