@@ -281,6 +281,18 @@ manté criteris i una expectativa final de cicle centrats en precisió, rigor i
 sentit crític, i fa explícita la connexió entre problemes locals, escales globals
 i propostes de justícia territorial i social.
 
+### La llengua catalana de batxillerat
+
+El **Programa de llengua catalana de Formació Andorrana per al nivell de
+batxillerat** ([annex del Decret 466/2025, còpia local](../../../raw/societat/formacio-andorrana/programa-llengua-catalana-batxillerat-2025.pdf),
+71 pàgines) entra en vigor l'**1-09-2026** i manté la coherència vertical amb
+primera i segona ensenyança. Les quatre competències són **comprendre i produir
+discursos orals multimodals** i **comprendre i produir discursos escrits
+multimodals**; els cinc blocs són **oralitat, lectura, escriptura, literatura i
+reflexió sobre la llengua**. El programa treballa recepció, producció,
+interacció i mediació en contextos formals i informals, amb síntesis diferenciades
+per a les escoles congregacionals i per als sistemes francès i espanyol.
+
 ### La llengua catalana de primera ensenyança
 
 L'annex del Decret del **7-02-2024** per al programa de llengua catalana de
@@ -356,9 +368,10 @@ diversitat lingüística de l'aula.
   llengua—. El de segona ensenyança fixa quatre competències —comprensió i
   producció de discursos orals i escrits multimodals— i els mateixos cinc blocs,
   amb síntesis diferenciades per als sistemes congregacional, francès i espanyol.
-- **Els programes de música i els nivells que no són en aquesta llista encara no
-  s'han comprovat sencers en aquesta auditoria.** `Parcial: cal llegir els altres
-  annexos.`
+- **El programa específic actual de música i els nivells que no són en aquesta
+  llista encara no s'han comprovat sencers en aquesta auditoria.** Els quatre
+  nivells de llengua catalana i els programes de medi/ciències humanes que són al
+  recull ja estan llegits. `Parcial: cal localitzar els altres annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   **`Parcial` el 19-09-2026**: el programa actual de ciències humanes i socials
