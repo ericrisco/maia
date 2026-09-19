@@ -67,12 +67,19 @@ i **el museu és on s'explica.**
 
 ## El que falta
 
-- **Com i quan s'estableixen els dos correus**, francès i espanyol.
+- ~~**Com i quan s'estableixen els dos correus**, francès i espanyol.~~ —
+  **`resolt`, confirmat el 19-09-2026**: la infraestructura del correu
+  espanyol es reorganitza el 1928 i França oficialitza i amplia el servei el
+  1931 ([Museu Postal](../../../../fonts/museu-postal-oficialitat-2026.md)).
 - ~~**La Qüestió d'Andorra**: el corpus no en té fitxa amb aquest nom.~~ —
   **tancat el mateix dia**:
   [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
-- **Els segells andorrans**: n'emeten França i Espanya per separat, i el corpus
-  no en sap res.
+- ~~**Els segells andorrans**: n'emeten França i Espanya per separat, i el
+  corpus no en sap res.~~ — **`parcial`, confirmat el 19-09-2026**: Correos va
+  posar a la venda la primera sèrie amb el nom d'Andorra el 1929 i el conveni
+  franco-espanyol va entrar en vigor l'1 d'agost de 1930 ([Museu
+  Postal](../../../../fonts/museu-postal-segells-2026.md)); falta el catàleg
+  complet de les emissions dels dos operadors.
 
 ## Related
 
