@@ -267,15 +267,14 @@ data de finalització de l'esquí.
 
 ## Buits registrats
 
-1. **Identificació bibliogràfica corregida:** les entrades Govern 2019,
-   2020 i 2021 de Pons indiquen totes «Any 2019»; no són prova de
-   tres anualitats successives. S'ha llegit parcialment l'inventari
-   de despesa de 2019, amb portada gener de 2021, i el text complet
-   del balanç de 2019 datat 21-12-2020. Aquest últim remet a la
-   reconstrucció de 2015, però no demostra encara l'origen dels262.
-   La primera entrada de recurs de Pons continua per contrastar. També
-   s'han llegit parts de la reconstrucció de 2015 i del balanç de 2025:
-   [fitxa i abast exacte](../../../fonts/mediambient-recurs-hidric.md).
+1. ~~**Identificació bibliogràfica corregida**~~ — **`parcial` el 19-09-2026**:
+   les entrades Govern 2019, 2020 i 2021 de Pons indiquen totes «Any 2019»;
+   no són prova de tres anualitats successives. S'ha llegit parcialment
+   l'inventari de despesa de 2019, amb portada gener de 2021, i el text complet
+   del balanç de 2019 datat 21-12-2020. Aquest últim remet a la reconstrucció de
+   2015, però no demostra encara l'origen dels262. La primera entrada de recurs
+   de Pons continua per contrastar. També s'han llegit parts de la reconstrucció
+   de 2015 i del balanç de 2025: [fitxa i abast exacte](../../../fonts/mediambient-recurs-hidric.md).
 2. **El projecte POCTEFA PIRAGUA-PIREAU** i l'informe de Travesset et al. (2021).
 3. **Andorra Recerca + Innovació**: apareix com a font de dades i **el corpus no
    en té fitxa**.
