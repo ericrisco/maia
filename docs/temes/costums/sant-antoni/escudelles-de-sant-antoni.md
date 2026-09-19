@@ -69,8 +69,12 @@ folklore andorrà no és un bloc immòbil heretat; té capes, i algunes són d'a
   principis dels anys setanta, i **Canillo** fa la primera vianda popular el
   **1979**. La fitxa del plat remet a aquesta festa i aquesta fitxa remet al
   plat; no hi ha contradicció cronològica.
-- **Sant Sebastià** (20 de gener), que surt associat a Sant Antoni a les
-  agendes i que aquesta fitxa no cobreix.
+- ~~**Sant Sebastià** (20 de gener), que surt associat a Sant Antoni a les
+  agendes i que aquesta fitxa no cobreix.~~ — **`parcial`, actualitzat el
+  2026-09-19**: [l’associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md)
+  identifica la **Confraria de Sant Sebastià de Sant Julià** com una forma
+  d’assistència mútua; encara falta la fitxa de la festa del 20 de gener i l’any
+  de pesta associat a la confraria.
 - La benedicció d'animals: si encara es fa i on.
 - El *sant Antoni del porquet* i el debat sobre «reinventar les tradicions» que
   apareix a la premsa cultural.
