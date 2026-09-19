@@ -236,9 +236,12 @@ evitar que un relat s'escampi sobre un altre període per contagi.
 
 ## El que falta
 
-- Llegir **Benet**, **Calvet**, **Aguila**, **Porta i Cebrián** directament.
+- ~~Llegir **Benet**, **Calvet**, **Aguila**, **Porta i Cebrián** directament.
   **Prioritat màxima Benet, *Guies, fugitius i espies* (Editorial Andorra,
-  2009), p. 167-169**, que és on hi ha la tesi dels «rapinyaires de guerra».
+  2009), p. 167-169**, que és on hi ha la tesi dels «rapinyaires de guerra».~~
+  **[parcial · 2026-09-19]** Els quatre autors i la referència prioritària de
+  Benet ja estan identificats; el corpus encara no ha llegit directament les
+  obres.
 - **La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
   revista *Reporter*** (segons [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md)).
 - Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).

@@ -319,8 +319,10 @@ les quatre fa perdre l'andorrana.
   **i la premissa era mig falsa: la que va derogar allò és la del 1993** — vegeu
   [Què hi va haver després del 1977](#que-hi-va-haver-despres-del-1977).
 - **El decret del 1941-42** que crea les primeres generacions.
-- ***Nacionalitat i drets polítics al Principat d'Andorra***, de Viñas (Edicions
-  Andorra Avui, **1989**), que ell mateix remet com a versió ampliada.
+- ~~***Nacionalitat i drets polítics al Principat d'Andorra***, de Viñas
+  (Edicions Andorra Avui, **1989**), que ell mateix remet com a versió
+  ampliada.~~ **[parcial · 2026-09-19]** La referència bibliogràfica i l'edició
+  ja consten; el corpus encara no ha llegit el llibre.
 - **Quants apàtrides** nascuts a Andorra hi va haver. **Prioritari.**
 - ~~**Si la cadena d'ascendents** segueix sent obligatòria avui.~~ `resolt` el
   17-09-2026: **fins al maig del 2026 sí; des d'aleshores s'ha afluixat un

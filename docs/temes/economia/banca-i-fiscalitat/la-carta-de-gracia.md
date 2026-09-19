@@ -344,7 +344,9 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
   `Requereix, encara, revisar sistemàticament si hi ha més entrades tancades al
   cos i obertes a la llista.`
 
-- **Maluquer i Rosés 1962** i **Camps i Arboix**, citats i no llegits.
+- ~~**Maluquer i Rosés 1962** i **Camps i Arboix**, citats i no llegits.~~
+  **[parcial · 2026-09-19]** Les dues referències ja consten com a pistes
+  bibliogràfiques, però el corpus encara no n'ha llegit les obres.
 - **El *censal***, l'altra figura de crèdit que
   [el notariat](../../institucions/justicia/el-notariat.md) declara i que **cap
   font del corpus no explica**. **Segueix obert.**
