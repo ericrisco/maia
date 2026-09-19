@@ -145,9 +145,9 @@ federació jugava.`
   **i la Viquipèdia de Benet no en diu res: ni música, ni Rosalia.** **Noms de
   pila diferents suggereixen parentiu, no identitat.** El quadre és a
   [escacs](./README.md).
-- **Qui l'organitzava abans del 2001**, si la federació el va agafar aleshores.
-- **Les altres trenta-sis edicions.**
-- **Si cap andorrà l'ha guanyat mai.**
+- ~~**Qui l'organitzava abans del 2001**, si la federació el va agafar aleshores.~~ — **`resolt` el 19-09-2026**: **Benet Pantebre** va crear l'Obert el **1983** i el va dirigir durant **divuit anys**; la **FEVA** n'assumeix l'organització **des del 2001** ([font](../../../fonts/wikipedia-escacs-andorra.md)).
+- ~~**Les altres trenta-sis edicions.**~~ — **`resolt` el 19-09-2026**: el bolcat del quadre d'honor conserva les **quaranta-una edicions**, del **I Obert (1983)** al **XLI (2025)**; els únics anys sense edició són **2020 i 2021**, i la taula ja els marca com a no jugats ([font](../../../fonts/wikipedia-escacs-andorra.md)).
+- ~~**Si cap andorrà l'ha guanyat mai.**~~ — **`resolt` el 19-09-2026**: el quadre d'honor no dona cap campió andorrà; **Òscar de la Riva** és l'únic andorrà que hi ha pujat al podi, tercer el **1998** ([font](../../../fonts/wikipedia-escacs-andorra.md)).
 
 ## Related
 
