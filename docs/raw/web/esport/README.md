@@ -14,6 +14,7 @@ branca d'esports, que era la més buida del corpus.
 | `faf-sonejee-comiat-2015.txt` | Federació Andorrana de Futbol, «El comiat del capità etern» (15-10-2015) — **drets reservats, només extracte de citació breu** |
 | `olympedia-emili-perez.txt` | Olympedia, fitxa biogràfica d'Emili Pérez — **termes no especificats, només extracte de citació breu** |
 | `national-football-teams-richard-imbernon.txt` | National Football Teams, perfil internacional — **drets reservats, només extracte de citació breu** |
+| `uefa-faf-antoni-giribet.txt` | UEFA i Federació Andorrana de Futbol, presidències d'Antoni Giribet — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 

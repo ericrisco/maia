@@ -48,8 +48,19 @@ Lucendo](./jesus-lucendo.md)** la sub-19 i **[Koldo
 ## El que falta
 
 - **De què era activista.**
-- **Si va ser internacional** i quants partits.
-- **Quan va ser president de la UE Sant Julià.**
+- ~~**Si va ser internacional** i quants partits.~~ — **`parcial` el 19-09-2026**:
+  la biografia disponible només documenta la seva activitat com a jugador del
+  **FC Andorra** i de la **UE Sant Julià** i no dona cap internacionalitat; la
+  llista de futbolistes internacionals consultada tampoc no el recull entre els
+  jugadors amb 25 o més partits. **El nombre oficial de partits, però, no queda
+  establert** ([font UEFA/FAF](../../../fonts/uefa-faf-antoni-giribet.md);
+  [bolcat biogràfic](../../../fonts/wikipedia-atletes-andorrans.md)).
+- ~~**Quan va ser president de la UE Sant Julià.**~~ — **`parcial` el
+  19-09-2026**: la UEFA el documenta com a **president el 15 de juliol de
+  2008**; aquell mateix any ja presidia el club, i la documentació de la FAF
+  situa el seu pas a la presidència federativa el **15 d'octubre de 2009** i el
+  mandat federatiu en **2009–2013**. **L'any d'inici de la presidència de la UE
+  Sant Julià continua obert** ([font UEFA/FAF](../../../fonts/uefa-faf-antoni-giribet.md)).
 
 ## Related
 
