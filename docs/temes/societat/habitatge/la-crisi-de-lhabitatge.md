@@ -336,10 +336,10 @@ crisi.`
   ([la normativa migratòria](../immigracio/la-normativa-migratoria.md)).
   **El que segueix `obert` és el lligam explícit amb l'habitatge**: **cap font
   del corpus no posa les dues sèries una al costat de l'altra.**
-- **Com ho viu la gent** — i **això no es troba a la premsa**: és material de
-  [parla espontània](../../../parla/espontani/README.md). — **`obert` per
-  disseny, i confirmat.** **No és un buit que es pugui tancar llegint: només es
-  tanca gravant.**
+- ~~**Com ho viu la gent** — i **això no es troba a la premsa**: és material de
+  [parla espontània](../../../parla/espontani/README.md).~~ — **`no-es-buit` el
+  19-09-2026**: queda obert per disseny i confirmat; no és un buit que es pugui
+  tancar llegint, sinó una cobertura que només es pot ampliar amb una gravació.
 
 ## Related
 
