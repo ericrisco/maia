@@ -82,7 +82,7 @@ Grans Mestres i tres Mestres Internacionals.**
 
 ## El que falta
 
-- **Quants jugadors federats hi ha.**
+- ~~**Quants jugadors federats hi ha.**~~ — **`resolt` el 19-09-2026**: la FEVA publica **118 llicències actives** per a la temporada **2026**, tramitades a través del GEVA o el CEA ([font](../../../fonts/escacsandorra-llicencies-feva-2026.md)).
 - **Si hi ha lliga andorrana d'escacs**, i quins clubs.
 - **El Club Escacs Peona i Peó**, que la font esmenta i el corpus no ha mirat.
 - **Per què tants jugadors catalans i espanyols competeixen per Andorra**, que
