@@ -214,8 +214,14 @@ greus, **i el Govern per a les molt greus** (article 45).
   de **«menor importància»** (10% horitzontal, 15% vertical), el **control de
   concentracions** —que només s'ha de notificar amb **≥50% de quota** i **dues
   empreses de més de 2,5 M€**—, la sanció de **fins al 3% del volum de negoci**,
-  i les **sis conductes deslleials** de l'article 19. **El que queda obert és el
-  títol V**, el procediment judicial civil.
+  i les **sis conductes deslleials** de l'article 19. ~~**El títol V**, el
+  procediment judicial civil.~~ — **`resolt`** amb els articles 50–58 de la
+  [Llei de competència efectiva i protecció del consumidor](../../../raw/lleis/competencia-consumidor.txt):
+  accions declaratives, de cessació, rectificació i indemnització; legitimació
+  de perjudicats, associacions i Ministeri Fiscal; prescripció de tres anys;
+  procediment civil abreujat independentment de la quantia; confiscació dels
+  beneficis i publicació de la sentència quan hi ha interès general; investigació
+  del Ministeri Fiscal, i representació d'Andorra als fòrums internacionals.
 - ~~**La Llei de fundacions** (42 articles) tampoc.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/fundacions.txt`, **Llei 17/2023 de text
   consolidat**). **El text ja era al corpus.**
