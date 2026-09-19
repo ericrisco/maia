@@ -21,6 +21,7 @@ branca d'esports, que era la més buida del corpus.
 | `faf-marcio-vieira-retirada-2024.txt` | Federació Andorrana de Futbol i BeSoccer, retirada internacional de Márcio Vieira — **drets reservats, només extracte de citació breu** |
 | `national-football-teams-koldo-balanc.txt` | National Football Teams i FAF, balanç de Koldo Álvarez com a seleccionador — **drets reservats, només extracte de citació breu** |
 | `national-football-teams-agusti-pol-clubs.txt` | National Football Teams, clubs i temporades d'Agustí Pol — **drets reservats, només extracte de citació breu** |
+| `national-football-teams-juli-sanchez-clubs.txt` | National Football Teams, clubs i temporades de Julià Sánchez — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 

@@ -99,8 +99,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**El marcador exacte** de la victòria contra Bielorússia i on es va jugar.~~
   — **`resolt`**: **2-0**, al **Camp d'Esports d'Aixovall**, **26 d'abril del
   2000**, amistós (taula de dalt).
-- **Els seus clubs**: FC Andorra, CF Balaguer i CD Binéfar, segons la font, i
-  **cap dada de temporades.**
+- ~~**Els seus clubs**: FC Andorra, CF Balaguer i CD Binéfar, segons la font, i
+  **cap dada de temporades.**~~ **`resolt` el 2026-09-19**: National Football Teams documenta les temporades des de **2005/06 fins a 2020/21** i els clubs **CD Binéfar, FC Andorra, FC/UE Santa Coloma, Lusitanos La Posa i Inter Club Escaldes**; la fitxa del corpus completa les etapes **1995–2005** amb **FC Andorra, Camacha i Balaguer**. Algunes temporades no tenen estadística de partits. ([fitxa de la font](../../../fonts/national-football-teams-juli-sanchez-clubs.md))
 - ~~**Quants anys tenia quan hi va debutar**~~ — **`resolt`**: si va néixer el
   juny del 1978 i va debutar el novembre del 1996, **hi va debutar amb 18
   anys**. `Càlcul del corpus a partir de les dues dates conegudes; no
