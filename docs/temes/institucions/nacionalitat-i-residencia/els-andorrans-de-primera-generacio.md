@@ -13,9 +13,10 @@ tags: [institucions, nacionalitat, immigracio, drets, historia, identitat]
 
 # Els andorrans de primera generació
 
-> Font: **M. Rosa Ferrer**, *«Integració social i política dels andorrans de
-> primera generació»*, **3a Diada Andorrana**, UCE, **18 d'agost de 1990**
-> (SAC, ed. 1996) ([font](../../../fonts/societat-andorrana-ciencies.md)).
+> Font: **M. Rosa Ferrer i Obiols**, *«Integració social i política dels
+> andorrans de primera generació»*, **3a Diada Andorrana**, UCE, **18 d'agost de
+> 1990** (SAC, ed. 1996) ([font específica](../../../fonts/sac-rosa-ferrer-1990.md);
+> [editor](../../../fonts/societat-andorrana-ciencies.md)).
 >
 > **L'autora era, ella mateixa, andorrana de primera generació.** Aquesta fitxa
 > recull tant els fets jurídics com **la seva argumentació**, i distingeix les

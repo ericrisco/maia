@@ -49,20 +49,20 @@ anys, no una carrera lineal.**
 **Una passarel·la d'Andorra la Vella porta el seu nom: Maria Rosa Ferrer
 Obiols.**
 
-## La hipòtesi no verificada
+## La ponència de 1990
 
-**El corpus registrava una possible coincidència amb
+**El corpus havia registrat una possible coincidència amb
 [M. Rosa Ferrer](../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)**,
 autora d'una ponència sobre integració social a la 3a Diada Andorrana
-(1990), descrita com «andorrana de primera generació». **La biografia
-d'aquesta fitxa no ho confirma ni ho desmenteix**: **no hi ha cap
-referència a la ponència del 1990 ni a l'origen de primera generació.**
-**La hipòtesi es manté oberta, no arbitrada.**
+(1990), descrita com «andorrana de primera generació». El PDF oficial de les
+actes signa l'article com **M. Rosa Ferrer i Obiols**, el mateix nom complet de
+la fitxa ([font específica](../../fonts/sac-rosa-ferrer-1990.md)).
 
 ## Buits registrats
 
-1. **Si és la mateixa persona que M. Rosa Ferrer**, autora de la
-   ponència del 1990 — buit heretat, no tancat.
+1. ~~**Si és la mateixa persona que M. Rosa Ferrer**, autora de la
+   ponència del 1990 — buit heretat, no tancat.~~ — **`resolt` el 19-09-2026**:
+   les actes oficials signen la ponència com **M. Rosa Ferrer i Obiols**.
 2. **Detall dels seus anys com a ministra de Salut** (2015).
 
 ## Related
