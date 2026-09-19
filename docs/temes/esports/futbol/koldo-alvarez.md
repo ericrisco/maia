@@ -99,10 +99,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **El seu balanç com a seleccionador**: partits, victòries.
-- **Les victòries d'Andorra sota el seu comandament.** La selecció n'ha guanyat
+- ~~**El seu balanç com a seleccionador**: partits, victòries.~~ **[parcial · 2026-09-19]** National Football Teams suma **142 partits FIFA: 13 victòries, 22 empats i 107 derrotes**, amb 50 gols a favor. La font de la fitxa dona un altre recompte global per a la selecció i les dues sèries no es fusionen. ([fitxa de la font](../../../fonts/national-football-teams-koldo-balanc.md))
+- ~~**Les victòries d'Andorra sota el seu comandament.** La selecció n'ha guanyat
   **14 de 224** ([la selecció](./la-seleccio.md)) i **el corpus no sap quantes
-  són seves.**
+  són seves.**~~ **[parcial · 2026-09-19]** La mateixa taula identifica **13 victòries** de Koldo en partits FIFA; el recompte de **14 de 224** de la fitxa de selecció correspon a un univers diferent i queda separat. ([fitxa de la font](../../../fonts/national-football-teams-koldo-balanc.md))
 - ~~**La Federació Andorrana de Futbol**, sencera.~~ — **`resolt` el
   18-09-2026**: **ja té fitxa**,
   [La Federació Andorrana de Futbol](./clubs-i-competicions/la-federacio.md).
