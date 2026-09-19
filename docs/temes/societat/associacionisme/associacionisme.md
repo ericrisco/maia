@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-12T06:45:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [societat, associacionisme, vida-civica, buit]
 ---
 
@@ -57,8 +57,12 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
   ja identifica **la Coral Rocafort** i el seu inici el **1962**, i també la
   **Coral Casamanya**, l'Escola de Música i el Grup Artístic d'Ordino. **La
   resta de corals i les seves dates de fundació segueixen obertes.**
-- Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
-  Humanitat ([falles](../../costums/falles/falles.md)).
+- ~~Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
+  Humanitat.~~ — **`parcial` el 19-09-2026**: [la fitxa de les falles](../../costums/falles/falles.md)
+  identifica els **Fallaires d'Andorra la Vella** com l'associació que va
+  substituir la participació espontània i organitza la forma recuperada del
+  costum. Encara falten les colles de les altres parròquies, el cens complet i
+  la verificació de com consta Andorra en el reconeixement de la UNESCO.
 - Les **entitats de festa major** parròquia per parròquia.
 - ~~L'**associacionisme de la immigració**: amb un **54,7 %** de població
   estrangera i el **portuguès** com a tercera llengua materna, hi ha
