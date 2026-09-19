@@ -391,7 +391,15 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
 5. **L'acte del 15 de juliol de 1420** sencer, **i què vol dir comprar vi «*in
    albis*»** —**en moneda blanca?**—, **que el corpus no dedueix.**
 6. **Per què el 1420 hi ha dos saigs alhora** quan la carta de 1305 en concedia
-   **un de sol.** **Registrat, no arbitrat.**
+   **un de sol.** — **`parcial` des del 22-09-2026**: el corpus ja documenta
+   **dos saigs simultanis el 1364 i el 1390**, un al servei del comte de Foix i
+   l'altre del bisbe d'Urgell, i el 1390 els andorrans han d'anar a cadascun per
+   separat perquè la jurisdicció compartida no fa que un manament obligui
+   l'altre. **La duplicitat, doncs, ja és una pràctica documentada abans de
+   1420**, no una excepció d'aquell acte ([el saig](./el-saig.md)). **Segueix
+   obert si el «un sol saig» del privilegi de 1305 limitava només l'ofici
+   comtal, si el saig episcopal quedava fora, o si hi hagué un canvi posterior
+   que el text de 1420 no explica.**
 7. ~~**El *Politar*, pp. 190, 196, 198 i 199** —**quatre pàgines més, i el corpus
    ja n'acumula una vintena de citacions sense llegir.** **Prioritari.**~~ —
    **`resolt` el 18-09-2026, i el buit estava mal plantejat des del principi.**
