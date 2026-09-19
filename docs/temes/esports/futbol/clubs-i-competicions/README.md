@@ -57,8 +57,15 @@ l'estructura.**
   fitxes de futbolistes.~~ **`parcial`:** [*Els clubs*](./els-clubs.md) ja
   ofereix el mapa general, les fundacions, els noms i les trajectòries; encara
   no hi ha una fitxa monogràfica per club.
-- **La Segona Divisió i la Supercopa.**
-- **El futbol sala**, que la mateixa federació regeix.
+- ~~**La Segona Divisió i la Supercopa.**~~ — **`resolt` el 2026-09-19**:
+  [la lliga](./la-lliga.md) documenta la Segona Divisió des del 1999 i el seu
+  palmarès, i [la copa](./la-copa.md) documenta les vint-i-quatre Supercopes
+  des del 2003.
+- ~~**El futbol sala**, que la mateixa federació regeix.~~ — **`parcial` el
+  2026-09-19**: [la fitxa de futbol sala](../../seleccions/el-futbol-sala.md)
+  ja en dona el primer partit, les dinou fases de classificació, 63 partits i
+  els convocats del 2026; encara no hi consta si hi ha competició andorrana
+  pròpia.
 - **L'arbitratge.**
 
 ## Related
