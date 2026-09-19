@@ -274,22 +274,9 @@ llegir París:**
 5. **L'exposició de motius de la proposició de llei de Carvajal de 1895**,
    sencera. **El corpus en té frases per dues vies —les actes del Congrés i
    aquesta font— i no el text.**
-6. **L'obra de Joan de Déu Trias**, *Constitución política y **personalidad**
-   internacional del Principado de Andorra* (1890, Barcelona, Subirana
-   Hermanos; títol corregit el 17-09-2026 des de la bibliografia de la
-   [síntesi d'actes](../../../fonts/actes-historiques-consell-general.md)). **Tercera tanda que surt
-   citada i segueix sense llegir-se.** **Prioritari**: **és l'autoritat
-   episcopal que totes dues fonts franceses combaten.** — **Actualitzat el
-   16-09-2026**: **una font espanyola del 1920 el cita per una pàgina i una tesi
-   concretes** —**p. 8**, on **sosté que el Consell General data del segle
-   XIII**, contra **Pallerola**, que el situa **no abans del segle XV**
-   ([definir el costum és
-   legislar](../consell-general/definir-el-costum-es-legislar.md)). **El llibre
-   segueix sense obrir-se.** — **`font_externa`, i el comptador es retira el
-   18-09-2026**: «sis tandes» comptava recitacions d'una mateixa absència, no
-   sis buits. **Enunciat canònic, amb les quatre tesis que el corpus ja té de
-   Trias per tres rebatedors independents**:
-   [villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
+6. ~~**L'obra de Joan de Déu Trias**, *Constitución política y personalidad
+   internacional del Principado de Andorra* (1890).~~ — **`resolt` com a
+   duplicat el 19-09-2026**: l'enunciat canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
 7. **Què va respondre Espanya** a la tesi francesa de la suzeraineté. **Segueix
    obert des de [qui parlava per Andorra](./qui-parlava-per-andorra.md).**
 

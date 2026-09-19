@@ -296,12 +296,9 @@ font és un present** *(pp. 108-109)*:
 2. **Si aquell autor és el veguer episcopal Pallerola** que informava Brutails.
    **No comprovat i no afirmat.** `Requereix la portada del llibre o una llista
    de veguers episcopals.`
-3. **Joan de Déu Trias**, *Constitución política y personalidad internacional del
-   Principado de Andorra*, **p. 8**. — **`font_externa`, i el comptador es
-   retira el 18-09-2026**: «sisena tanda» comptava recitacions, no buits.
-   **Enunciat canònic i les quatre tesis de Trias que el corpus ja té de segona
-   mà**: [villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
-   `El que falta és la seva lletra, no la seva posició.`
+3. ~~**Joan de Déu Trias**, *Constitución política y personalidad internacional
+   del Principado de Andorra*, **p. 8**.~~ — **`resolt` com a duplicat el
+   19-09-2026**: el buit canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
 4. **Per què la jurisdicció de veeduria abasta les mitgeres urbanes.** **Buit
    heretat, i l'autor el declara: «no lo sabemos».**
 5. ~~**Quan va caure en desús el Consell de l'Afor.** **La font diu «parece» i no
