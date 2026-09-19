@@ -240,7 +240,14 @@ metàfora: **és la funció principal.**
   fitxa d'empresa andorrana.
 - **El centre d'autoaprenentatge d'Encamp**: es va obrir?
 - **Quants adults** passen per aquests serveis cada any.
-- **Com es prepara i què demana** el graduat en segona ensenyança per lliures.
+- ~~**Com es prepara i què demana** el graduat en segona ensenyança per lliures.~~
+  **`resolt` el 19-09-2026** dins d'aquesta fitxa: el prepara el Centre
+  d'Educació Bàsica d'Adults per a majors de 16 anys, amb convocatòries a
+  l'abril i al novembre; el dissenyaren durant dos anys els equips de segona
+  ensenyança, el centre d'adults i Inspecció i Avaluació Educativa, sota la
+  supervisió d'Educació. La preparació s'organitza en **humanitats, ciències i
+  comunicació**, amb dos nivells de dificultat, i serveix per continuar estudis
+  o accedir a formació professional.
 
 ## Related
 
