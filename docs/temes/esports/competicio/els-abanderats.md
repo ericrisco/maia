@@ -25,7 +25,7 @@ dels abanderats olímpics d'Andorra** i que n'havien aparegut tres de seguits.
 
 | # | Any | | Qui | Esport |
 | --- | --- | --- | --- | --- |
-| 1 | **1976** | hivern | *(la font no en dona el nom)* | |
+| 1 | **1976** | hivern | **[Antoni Naudi](../esqui/esquiadors/antoni-naudi.md)** | Esquí alpí |
 | 2 | **1976** | estiu | **[Esteve Dolsa](../estiu/esteve-dolsa.md)** | **Tir** |
 | 3 | **1980** | hivern | **[Carlos Font](../esqui/esquiadors/carlos-font.md)** | Esquí alpí |
 | 4 | **1980** | estiu | **[Francesc Gaset Fris](../estiu/francesc-gaset.md)** | **Tir** — **«va desfilar sota la bandera olímpica»** |
@@ -102,23 +102,28 @@ primera bandera són el mateix dia.**
 **5. El tir porta la bandera quatre vegades de les sis primeres.** L'esport amb
 què Andorra debuta als Jocs és el que la representa al començament.
 
-## Les dues absències
+## L'absència que queda
 
-**Innsbruck 1976 i Albertville 1992 no tenen abanderat consignat.** La font
-deixa les dues caselles en blanc.
+**Albertville 1992 no té abanderat consignat.** La font deixa aquesta casella
+en blanc. En canvi, la [fitxa del COA](../../../fonts/coa-innsbruck-1976.md)
+identifica **Antoni Naudi** com el primer banderer d'Andorra als Jocs
+d'Hivern d'Innsbruck 1976.
 
-**Innsbruck 1976 són els primers Jocs d'hivern d'Andorra**, i **el corpus no sap
-qui hi va portar la bandera del país per primer cop a la neu**. Els cinc
+**Innsbruck 1976 són els primers Jocs d'hivern d'Andorra**, i ara el corpus sap
+qui hi va portar la bandera del país per primer cop a la neu. Els cinc
 esquiadors d'aquella delegació són [Areny](../esqui/esquiadors/xavier-areny.md),
 [Crespo](../esqui/esquiadors/antoine-crespo.md),
 [Tomàs](../esqui/esquiadors/esteve-tomas.md),
 [Naudi](../esqui/esquiadors/antoni-naudi.md) i
-[Font](../esqui/esquiadors/carlos-font.md). **Buit registrat, i el tancaria el
-Comitè Olímpic Andorrà o Olympedia.**
+[Font](../esqui/esquiadors/carlos-font.md). **El nom d'Albertville 1992
+continua sent el buit pendent.**
 
 ## El que falta
 
-- **Els dos abanderats que falten.**
+- ~~**El banderer d'Innsbruck 1976.**~~ — **`resolt` el 19-09-2026**: la fitxa
+  del COA identifica **Antoni Naudi** com el primer banderer d'Andorra als Jocs
+  d'Hivern ([font](../../../fonts/coa-innsbruck-1976.md)). **Albertville 1992
+  continua obert**: només queda un dels dos noms històricament absents.
 - ~~**La 27a entrada**, de Milano Cortina 2026.~~ — **`resolt` el 18-09-2026**:
   **ja era a la taula d'aquesta fitxa i ara està comprovada contra la font**.
   **El bolcat de la Viquipèdia en anglès**
