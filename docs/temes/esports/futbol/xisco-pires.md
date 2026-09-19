@@ -66,7 +66,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus tres partits.**
+- ~~**Els seus tres partits.**~~ **[parcial · 2026-09-19]** El resum i la taula
+  divergeixen: el resum parla de **3**, però la taula de seleccions mostra **5
+  amb l'absoluta** (a més de 3 amb l'U17 i 5 amb l'U19). La divergència queda
+  registrada sense arbitrar; falten dates i rivals.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

@@ -81,7 +81,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   confirmat.**
 - ~~**La resta de la seva carrera** i **els seus quatre partits.**~~ —
   **`parcial`: la carrera, `resolt`** (taula de dalt, **catorze etapes**);
-  **els quatre partits, `obert`** — el bolcat en dona el compte i no el detall.
+  **els quatre partits, `parcial`**: la taula confirma **4 partits amb Andorra**
+  i 0 gols, però el bolcat no en dona les dates ni els rivals.
 
 ## Related
 

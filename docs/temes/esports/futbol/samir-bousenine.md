@@ -66,7 +66,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
   segons **Wikidata i National Football Teams**, que hi coincideixen. Vegeu
   [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
-- Els seus quatre partits.
+- ~~Els seus quatre partits.~~ **[parcial · 2026-09-19]** La taula confirma
+  **4 partits amb Andorra** i 0 gols, però el bolcat no en dona les dates ni
+  els rivals.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

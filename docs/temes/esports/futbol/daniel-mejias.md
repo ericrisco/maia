@@ -79,7 +79,8 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - ~~**Els seus clubs** i els seus cinc partits.~~ — **`parcial`**: **els clubs,
   `resolt`** i són **vint etapes** (taula de dalt); **els cinc partits,
-  `obert`.**
+  `parcial`**: la taula confirma **5 partits amb Andorra** i 0 gols, però el
+  bolcat no en dona les dates ni els rivals.
 - ~~**Com i quan es vincula a Andorra**: va néixer a Barcelona i la font no ho
   explica.~~ — **`parcial`, actualitzat el 2026-09-19**: la taula ja situa el
   seu pas pel **FC Andorra entre 2009 i 2014**, que és el primer vincle
