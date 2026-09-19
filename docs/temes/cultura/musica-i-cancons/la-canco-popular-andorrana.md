@@ -143,11 +143,11 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
    ja tenen fitxa pròpia, amb l'origen, el calendari de la cantada, la recollida
    d'ous i diners, les diferències entre parròquies i els mots
    *caramellaires* i *Pasqüetes*.
-7. **Un cançoner andorrà**, si existeix. — **`parcial`, confirmat el 2026-09-19**:
-   la mateixa ressenya documenta el volum i l'àudio *Andorra: Cançons de
-   vetllades vora el foc* (Artur Blasco i Yannick Lopes, 2017), que reutilitza
-   reculls d'Eva Julián i conté una dotzena de cançons; no prova que sigui un
-   cançoner exhaustiu.
+7. ~~**Un cançoner andorrà**, si existeix.~~ — **`parcial`, confirmat el
+   2026-09-19**: la mateixa ressenya documenta el volum i l'àudio *Andorra:
+   Cançons de vetllades vora el foc* (Artur Blasco i Yannick Lopes, 2017), que
+   reutilitza reculls d'Eva Julián i conté una dotzena de cançons; no prova que
+   sigui un cançoner exhaustiu.
 
 ## Related
 
