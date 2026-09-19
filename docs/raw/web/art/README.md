@@ -1,4 +1,4 @@
-# Captures web d'art andorrà
+# Fonts web sobre Josep Viladomat i Sergi Mas
 
 Captures sobre els dos escultors de l'Andorra del segle XX, **12 de setembre
 del 2026**.
