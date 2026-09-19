@@ -486,9 +486,11 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   la Llei 1/2019** (`docs/raw/lleis/bopa/llei-1-2019-funcio-publica.txt`).
   `Requereix llegir-ne el contingut; aquest tancament resol el «si» i el
   «quan», no el «què hi diu».`
-- **L'Associació de Personal Adscrit a l'Administració general**: quan es crea,
-  quants socis té, si existeix encara. **No apareix a cap altra fitxa del
-  corpus.**
+- ~~**L'Associació de Personal Adscrit a l'Administració general**: quan es
+  crea, quants socis té, si existeix encara.~~ **[parcial · 2026-09-19]** La
+  cronologia sindical del corpus ja la situa com a **APAAG, creada el 1993** i
+  com la primera associació de personal de l'Administració general. No hi
+  consten el nombre de socis ni la continuïtat actual.
 - ~~Quants funcionaris té Andorra el 2000~~ — **tancat per a l'Administració
   general: 1.490.** **I «quants n'hi ha avui» es tanca el 18-09-2026** per
   l'API d'Estadística (divisions **1330-1334**, **font Departament de Funció
