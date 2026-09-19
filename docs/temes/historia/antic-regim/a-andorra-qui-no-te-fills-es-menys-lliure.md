@@ -159,8 +159,10 @@ a Andorra, la manera més ràpida de perdre una protecció.**
 
 ## Buits registrats
 
-1. **Si la quarta trebel·liànica es va aplicar mai a Andorra**, i **en quins
-   documents apareix**. **La font diu «alguns» i «tan rars» i no en cita cap.**
+1. ~~**Si la quarta trebel·liànica es va aplicar mai a Andorra**, i **en quins
+   documents apareix**.~~ — **`parcial` el 19-09-2026**: la font diu que és
+   esmentada en **«alguns documents de les Valls»**, però que són **«tan rars»**
+   que no en cita cap ni la considera dret del país.
 2. **Si la clàusula de les 50 lliures feia realment la funció de la
    trebel·liànica.** **És una pregunta de l'autor, no una conclusió.**
 3. **Si la xifra de 50 lliures era estàndard** o **variava amb la casa**. **La
