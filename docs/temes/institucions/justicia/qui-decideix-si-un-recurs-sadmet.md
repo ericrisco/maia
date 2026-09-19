@@ -299,8 +299,13 @@ institucions «l'air de former un véritable musée rétrospectif».**
    via episcopal. **El corpus en té el que Brutails en diu —un prevere amb mandat
    especial per a cada plet— i cap norma.** **Prioritari: és la meitat que falta
    d'aquest sistema.**
-9. **Quan s'extingeix el Tribunal Superior.** **Segueix obert des del 15-09-2026**
-   ([la justícia d'abans](./la-justicia-dabans.md)).
+9. ~~**Quan s'extingeix el Tribunal Superior.**~~ — **`resolt` el 2026-09-19**:
+   [la justícia d'abans](./la-justicia-dabans.md) documenta que la **Llei
+   qualificada de la Justícia, del 3 de setembre de 1993**, substitueix els dos
+   tribunals superiors per la Sala Civil del Tribunal Superior de Justícia i
+   fixa l'entrada en funcionament del nou sistema el **2 de gener de 1994**.
+   El Tribunal Superior d'Andorra a Perpinyà va funcionar, per tant, fins al
+   **31 de desembre de 1993**.
 
 ## Related
 
