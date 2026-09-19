@@ -392,9 +392,9 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    obert l'import**, que la font no dona.
 9. **Qui eren les dues noies de 1475 i com va acabar l'home a qui van trencar el
    cap.** **El corpus té la composició i no el desenllaç per a ell.**
-10. **Si composar era possible en tots els delictes** o **només en alguns**.
-    **La font diu que es podia composar fins i tot una pena capital** —**el cas
-    de 1471**— **i no dona cap límit.**
+10. ~~**Si composar era possible en tots els delictes** o **només en alguns**.~~ —
+    **`parcial` el 19-09-2026**: la font documenta que es podia composar **fins i
+    tot una pena capital**, en el cas de **1471**, però no dona el límit general.
 
 ## Related
 
