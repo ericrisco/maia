@@ -327,8 +327,13 @@ per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
 - **La discrepància 4.225 / 4.240** entre l'annex i el cos del llibre.
 - **Per què Sant Julià de Lòria concentra 21 de les 80 fitxes.**
 - **El Nomenclàtor d'Andorra** com a font pròpia. `Segueix sense ser al corpus.`
-- **El creuament amb els polígons de perillositat d'allaus** que el corpus ja
-  té localitzats: la fitxa de Llorts el convida explícitament.
+- ~~**El creuament amb els polígons de perillositat d'allaus** que el corpus ja
+  té localitzats: la fitxa de Llorts el convida explícitament.~~ — **`parcial` el
+  19-09-2026**: l'estudi d'allaus de Becat ja situa **«Ordino, Llorts: Vall de
+  l'Avier»** entre els grans corredors compostos, i la fitxa toponímica descriu
+  Llorts com un con de dejecció. Això confirma el corredor i la relació
+  fisiogràfica, però encara no és un creuament geomètric amb els polígons digitals
+  de perillositat. Font local: [`becat-risque-avalanche-2014.txt`](../../../raw/allaus/becat-risque-avalanche-2014.txt).
 - **Drets tancats.** **Portal del Govern, drets reservats, cap llicència de
   reutilització.** **Res d'aquest material no entra en cap dataset**; els
   fitxers extrets viuen en una carpeta no versionada i el que hi ha aquí són
