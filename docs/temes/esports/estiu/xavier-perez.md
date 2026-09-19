@@ -93,9 +93,12 @@ al circuit WTA.
   1966—, tots dos van córrer Seül 1988 i Barcelona 1992, i tots dos van ser
   professionals el 1993 al mateix equip.** **Cinc coincidències no són una font.**
   `hipòtesi, no verificada.`
-- **El ciclisme andorrà**: vegeu també **[David
+- ~~**El ciclisme andorrà**: vegeu també **[David
   Albós](../altres-esports/david-albos.md)**, ciclista de carretera de la
-  **Agrupació Ciclista Andorrana**.
+  **Agrupació Ciclista Andorrana**.~~ **[parcial · 2026-09-19]** La fitxa ja
+  identifica **David Albós Cavaliere** com a ciclista professional i
+  l'**Agrupació Ciclista Andorrana** com a equip nacional. Encara falten la
+  federació, les curses i la Volta a Andorra.
 
 ## Related
 
