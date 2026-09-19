@@ -207,7 +207,7 @@ de si mateixa la hi va tornar un de fora**, justament mentre
   23, Biblioteca Nacional d'Andorra, 2020); VALLS OLIVA, *Diccionari enciclopèdic
   d'Andorra* (2006), p. 275; i **el documental *Sergi Mas*, dirigit pel seu net
   Hèctor Mas i produït per la Societat Andorrana de Ciències el 2016**.
-- **Els seus dos llibres.**
+- ~~**Els seus dos llibres.**~~ **[parcial · 2026-09-19]** La fitxa ja n'identifica els títols i els anys: ***El moble andorrà*** (Editorial Andorra, **2003**) i ***Aspectes de l'art popular d'Andorra*** (**2016**). El corpus encara no n'ha consultat el contingut.
 - **Maria Canalís.** Consta com a esposa i **col·laboradora** i **cocreadora de
   peces**, i **el corpus no en sap res més**. — **`obert, confirmat` el
   18-09-2026**: **una cerca dedicada no ha trobat cap biografia
