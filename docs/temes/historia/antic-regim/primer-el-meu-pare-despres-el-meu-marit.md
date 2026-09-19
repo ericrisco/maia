@@ -166,8 +166,10 @@ papers](./la-casa-als-papers.md).
 2. **L'acta d'adopció del 13 d'agost de 1788**, sencera, **i si la donació
    universal es va arribar a fer efectiva.** **La font en dona l'àpoca, no el
    desenllaç.**
-3. **Si hi va haver més adopcions a Andorra**: la font en va trobar **una** i diu
-   que **no s'hi practicava**. **Un buit de la font no és un buit del món.**
+3. ~~**Si hi va haver més adopcions a Andorra**~~ — **`parcial` el 19-09-2026**:
+   la font només documenta **una adopció**, del 13 d’agost de 1788, i afirma que
+   la institució **no s’hi practicava**; el corpus no té una sèrie ni pot dir si
+   n’hi hagué més. **Un buit de la font no és un buit del món.**
 4. **El cas de la sogra assassinada**: **sense data, sense noms i sense
    referència**. **El corpus no sap si va arribar a sentència.** `Requereix font
    externa: els registres de judicis criminals dels batlles.` — **Pista afegida el
