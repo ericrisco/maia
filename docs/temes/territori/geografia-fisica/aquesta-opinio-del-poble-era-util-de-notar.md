@@ -325,8 +325,12 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
 
 ## Buits registrats
 
-1. **Les mesures del Consell General contra «els abusos del poble»** sobre el
-   *redall*: **sense data.** **La font les data com a «no fa gaire».**
+1. ~~**Les mesures del Consell General contra «els abusos del poble»** sobre el
+   *redall*: **sense data.**~~ — **`parcial`, actualitzat el 2026-09-19**: la
+   fitxa identifica el decret del **26 de març de 1871**, que prohibeix introduir
+   bestiar als prats d’altri excepte en els prats arrendats amb una clàusula
+   expressa de retorn al comú. **No queda provat que aquest sigui l’únic acte
+   dictat contra els abusos que la font resumeix com «no fa gaire».**
 2. **El document del 7 de juny de 1456**, que **la font només coneix per una
    anàlisi conservada als arxius d'Encamp.** **Prioritari i doble**: **cal l'anàlisi
    i cal l'original.**
