@@ -83,7 +83,7 @@ Grans Mestres i tres Mestres Internacionals.**
 ## El que falta
 
 - ~~**Quants jugadors federats hi ha.**~~ — **`resolt` el 19-09-2026**: la FEVA publica **118 llicències actives** per a la temporada **2026**, tramitades a través del GEVA o el CEA ([font](../../../fonts/escacsandorra-llicencies-feva-2026.md)).
-- **Si hi ha lliga andorrana d'escacs**, i quins clubs.
+- ~~**Si hi ha lliga andorrana d'escacs**, i quins clubs.~~ — **`parcial` el 19-09-2026**: la FEVA documenta la **I Lliga d'escacs d'Andorra de Secundària i Batxillerat** (febrer–maig de 2025), amb equips de quatre jugadors per centre i el **British School Andorra** com a campió. El calendari FEVA 2026 separa aquesta competició de la **Lliga Catalana**, on juga el GEVA-CEA, i dels campionats d'Andorra individuals i per edats ([font](../../../fonts/escacsandorra-lliga-andorra-2025-2026.md)). Les fonts consultades no resolen si existeix una lliga sènior andorrana ni quins clubs hi jugarien.
 - ~~**El Club Escacs Peona i Peó**, que la font esmenta i el corpus no ha mirat.~~ — **`resolt` el 19-09-2026**: Escacs Andorra el documenta com l'equip visitant del GEVA-CEA a la **Lliga Catalana Divisió d'Honor 2025**; havia ascendit la temporada anterior i el matx va acabar **GEVA-CEA 5½–4½ Peona i Peó** ([font](../../../fonts/escacsandorra-peona-i-peo-2025.md)). La font consultada identifica el paper competitiu, però no n'aporta una història completa ni permet afirmar que sigui un club andorrà.
 - **Per què tants jugadors catalans i espanyols competeixen per Andorra**, que
   és la pregunta de fons de tota aquesta subbranca.
