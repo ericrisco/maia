@@ -144,12 +144,13 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
 
 ## Buits registrats
 
-- De la Llei 18/2014 s’han llegit els articles 14–18 complets, p. 3580–3581,
-  i les disposicions transitòries i finals, p. 3602–3603; altres fragments.
-  Pàgina 3580 vista. No s’han llegit els 107 articles íntegres ni es
-  certifica, amb aquesta lectura parcial, que deixés intacte tot el 224 bis.
-  Articles 67–69 del refós de 2018 llegits; pàgina 16 vista. Censos,
-  convocatòries electorals i normativa posterior pendents.
+- ~~Lectura de la Llei 18/2014 i del refós de 2018~~ — **`parcial` el
+  19-09-2026**: s’han llegit els articles 14–18 complets, p. 3580–3581, i les
+  disposicions transitòries i finals, p. 3602–3603; altres fragments. Pàgina
+  3580 vista. No s’han llegit els 107 articles íntegres ni es certifica, amb
+  aquesta lectura parcial, que deixés intacte tot el 224 bis. Articles 67–69
+  del refós de 2018 llegits; pàgina 16 vista. Censos, convocatòries electorals
+  i normativa posterior pendents.
 
 - ~~Article 224 bis complet llegit al text refós de 2018, p. 60–61,
   amb contrast visual. No s’han llegit les 77 pàgines de la publicació
