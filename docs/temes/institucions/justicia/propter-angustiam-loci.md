@@ -184,9 +184,12 @@ font en dona la prova, i ve d'un altre lloc del dret:**
    **quines, de quins anys, i amb quin grau de consanguinitat es dispensava.**
    **Prioritari i de font externa**: **són expedients canònics del bisbat
    d'Urgell.** `Requereix font externa.`
-2. **Amb quantes visures de les quinze o vint anuals faltava la primera
-   instància.** **La font en dona cinc casos en vint-i-cinc anys i no la
-   proporció.**
+2. ~~**Amb quantes visures de les quinze o vint anuals faltava la primera
+   instància.**~~ — **`parcial`, actualitzat el 2026-09-19**: la taula de la
+   fitxa enumera **cinc casos entre el 27 de juliol de 1874 i el 16 de gener de
+   1899** en què la primera instància no es va constituir per parentiu dels
+   jutges. **La font no permet calcular quina proporció representen sobre les
+   quinze o vint visures anuals.**
 3. **Si el tribunal de segon grau del 27 de juliol de 1874**, amb dos cònsols
    malalts a més dels exclosos, **complia el quòrum de meitat més un.** **La font
    no ho comenta.**
