@@ -126,7 +126,11 @@ tenia:**
   i `viqui-guillem_de_plandolit_i_dareny.txt`, baixades el 18-09-2026. La
   primera cita els expedients d'arxiu i les dates de* La Vanguardia*; el corpus
   no ha vist ni els expedients ni el diari.)* `font_externa`
-- **Les fotografies** que la font diu que en queden.
+- ~~**Les fotografies** que la font diu que en queden.~~ — **`parcial` el
+  2026-09-19**: la mateixa fitxa ja identifica **un àlbum de fotografies del
+  Museu d'Ordino** dins els quatre expedients de 1948 —**183/3, 176/4, 219/4 i
+  7/31**— de l'arxiu històric del Museu de Zoologia de Barcelona. **La ubicació
+  i l'existència queden documentades; el corpus encara no ha vist les imatges.**
 - **La Crisi del Joc**: què va ser i qui hi va ser responsable.
 
 ## Related
