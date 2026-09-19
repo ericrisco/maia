@@ -212,9 +212,7 @@ consultades no ho diu.`
   [Cent hectàrees de tabac](./cent-hectarees-de-tabac.md).
   `La nota de premsa A105 segueix sense localitzar; les dades que hauria de
   difondre, no.`
-- **Quants conreadors hi ha**, que és la xifra que faria llegible tota la resta.
-  `La nota ho esmenta en prosa i no ho quantifica, i el parcel·lari del 2025
-  tampoc: dona 302 explotacions declarants i no diu quantes fan tabac.`
+- ~~**Quants conreadors de tabac hi ha.**~~ — **`parcial` el 2026-09-19**: [Cent hectàrees de tabac](./cent-hectarees-de-tabac.md) identifica **302 explotacions declarants** el 2025, de les quals **108 tenen bestiar de renda i 194 no en tenen**, i separa la superfície de tabac entre ambdues categories (**436.519 m² / 591.200 m²**). **La font no compta quantes explotacions planten tabac**, de manera que el nombre de conreadors continua obert.
 - ~~**La sèrie any per any del 1973 ençà.** **La nota la dibuixa en un gràfic i
   en publica quatre talls i dos extrems.**~~ — **`resolt` el 18-09-2026**:
   **la sèrie sencera, cinquanta-tres anys, 1973-2025**, a
