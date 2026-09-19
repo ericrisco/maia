@@ -313,8 +313,9 @@ conserva i on.**
    i el corpus l'hereta**: una escriptura privada «autoritzada» per un batlle que
    tot i així no té «major validitat». `Requereix font externa: el fons notarial
    de l'Arxiu Nacional d'Andorra, o el mateix document.`
-2. **Si hi va haver mai cap equivalent andorrà de l'*enregistrement*.** La font
-   diu que **no hi era el 1904**; no diu si s'hi va pensar mai ni què el va
+2. ~~**Si hi va haver mai cap equivalent andorrà de l'*enregistrement*.**~~ —
+   **`parcial` el 19-09-2026**: la font estableix que **no hi era el 1904**, però
+   no diu si se’n va projectar mai un equivalent ni quin mecanisme el va
    substituir. **Un buit de la font no és un buit del món.**
 3. **El decret episcopal atribuït a Andreu Capella**, en text. La divergència de
    dalt només es tanca amb **l'original**, no amb una còpia del *Llibre de
