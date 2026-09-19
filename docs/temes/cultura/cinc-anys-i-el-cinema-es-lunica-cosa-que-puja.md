@@ -165,7 +165,9 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat.~~ —
   **`no-es-buit`**: és una limitació declarada de la font, que no publica aquest
   desglossament.
-- **El desglossament per renda només es publica per al 2019.**
+- ~~**El desglossament per renda només es publica per al 2019.**~~ —
+  **`no-es-buit` el 19-09-2026**: és una nota sobre la cobertura temporal de la
+  font, no una pregunta ni una afirmació que no existeixin dades posteriors.
 - **Per què el cinema puja** mentre tota la resta de cultura de sala baixa, el
   corpus no ho sap. `pregunta_oberta`
 - ~~**El voluntariat té una sèrie 2010-2024 que no es pot citar sencera**: **el
