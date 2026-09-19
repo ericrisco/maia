@@ -30,6 +30,11 @@ L'obra d'art més coneguda que hi ha a Andorra **no és andorrana**: és un
 Va ser **donada al Govern d'Andorra per Enric Sabater**, que va ser **agent de
 Dalí entre 1968 i 1982**.
 
+La cronologia cultural del Govern recorda que el país també té artistes
+plàstics propis: **Francesc Galobardes**, **Carme Massana** i el polifacètic
+**Sergi Mas**. Són només noms d'entrada, no encara un inventari biogràfic i
+obra per obra.
+
 La peça és **el rellotge tou** —el de *La persistència de la memòria*— coronat,
 amb **un àngel assegut a un costat**, pensatiu o afligit, i **una dona que
 s'aixeca d'un bany** a l'altre, mirant el dia nou.
@@ -69,8 +74,11 @@ artístic més valuós del país.
 
 ## El que falta
 
-- **Els artistes andorrans**, un per un. Aquesta fitxa **no en nomena cap**, i
-  això és un buit greu: el país té artistes i el corpus no en sap el nom.
+- ~~**Els artistes andorrans**, un per un. Aquesta fitxa **no en nomena cap**, i
+  això és un buit greu: el país té artistes i el corpus no en sap el nom.~~ —
+  **`parcial`, confirmat el 2026-09-19**: la cronologia cultural oficial
+  identifica Francesc Galobardes, Carme Massana i Sergi Mas; encara falta la
+  fitxa de cada artista i l'inventari d'obra.
 - Els **museus d'art** i què hi ha
   ([museus i arxius](../museus-i-arxius/museus-i-arxius.md)).
 - L'**art públic**: consta que el Principat promou escultura i instal·lacions
