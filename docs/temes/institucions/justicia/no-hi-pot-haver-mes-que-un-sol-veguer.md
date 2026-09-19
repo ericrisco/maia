@@ -255,11 +255,15 @@ vestit*». La font hi respon:**
 
 ## Buits registrats
 
-1. **La identificació d'«Ant. Fiter y Rossell», *supremus vicarius secularis* el
-   **1742**, amb **Antoni Fiter i Rossell**, autor del *Manual Digest*. **És
-   hipòtesi del corpus i cal confirmar-la.** **Prioritari**: **canviaria la
-   lectura del *Manual Digest*.** `Requereix la sentència del 26-11-1742 o una
-   biografia documentada.`
+1. ~~**La identificació d'«Ant. Fiter y Rossell», *supremus vicarius secularis*
+   el **1742**, amb **Antoni Fiter i Rossell**, autor del *Manual Digest*.**~~ —
+   **`parcial` el 19-09-2026**: el títol del *Politar* de 1763, conservat a
+   [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md),
+   anomena el mateix **Anton Fiter y Rossell** «**Veguer de ditas Valls**», i el
+   títol del *Manual Digest* el situa a Ordino. Això confirma que l'autor va ser
+   veguer i reforça la identificació amb la sentència de 1742; **la font de la
+   sentència només escriu «Ant.» i encara cal la peça original o una biografia
+   que llegeixi el nom complet.**
 2. **El document de l'11 d'abril de 1661** *(Archives Nationales, O¹ 7, f. 307)*,
    i **si la instal·lació de Vital Serre es va arribar a fer.** **I per què hi ha
    vint-i-cinc anys entre el nomenament i aquesta ordre.**
