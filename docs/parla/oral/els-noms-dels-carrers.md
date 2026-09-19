@@ -341,7 +341,7 @@ no existeixi.
 
 ## Buits registrats
 
-1. **Les 95 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 95 marques no s'han verificat.**
 2. **Cap topònim d'aquesta peça no s'ha de citar**, i és una peça de noms.
    `[?Laura] [?Dia]`, `en Camp`, `Escalde`, `Sant Gordany`, `Canòlic`.
    `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.

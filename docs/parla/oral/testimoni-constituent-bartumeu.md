@@ -1417,7 +1417,7 @@ tandes 3 i 4 van ensenyar què passa quan s'afirma amb un sol parlant.
 
 ## Buits registrats
 
-1. **Les 321 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 321 marques no s'han verificat.**
 2. **`bueno` surt 13 vegades i 7 van marcades.** És l'única peça on la màquina
    dubta tant d'un marcador tan freqüent, i **no se sap per què**. Si fos
    qualitat d'àudio, afectaria la resta igual.

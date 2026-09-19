@@ -231,7 +231,7 @@ Aquesta tanda existeix, en bona part, per haver-ho pogut comprovar.
 
 **Sobre la transcripció**
 
-1. **Cap de les 181 marques no s'ha verificat.** I aquí pesen més que mai: és la
+1. **`no-es-buit`** — **Cap de les 181 marques no s'ha verificat.** I aquí pesen més que mai: és la
    peça amb pitjor relació marques/segments de les quatre.
 2. **El discurs reportat està mal delimitat.** Whisper obre i tanca cometes on li
    sembla, i en una peça que és gairebé tota citació d'altri **no es pot saber

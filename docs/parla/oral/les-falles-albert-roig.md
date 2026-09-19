@@ -967,7 +967,7 @@ principi que un corrector destruiria la dada.
 
 ## Buits registrats
 
-1. **Les 121 marques no s'han verificat.** És la millor proporció del corpus i
+1. **`no-es-buit`** — **Les 121 marques no s'han verificat.** És la millor proporció del corpus i
    segueix sent no verificada.
 2. **«Ves» no s'ha confirmat com a *beç*.** L'argument intern és fort —la mateixa
    peça escriu *bedoll* quan cita un text— però **ningú no ho ha escoltat**.

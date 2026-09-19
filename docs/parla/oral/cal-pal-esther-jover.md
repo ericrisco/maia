@@ -377,7 +377,7 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
 
 ## Buits registrats
 
-1. **Les 52 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 52 marques no s'han verificat.**
 2. **Pot ser llegida.** Si ho és, el lèxic val igual però **no és mostra de
    llengua parlada**. `no-es-buit`: és una limitació d'ús de la peça, no una
    pregunta pendent.

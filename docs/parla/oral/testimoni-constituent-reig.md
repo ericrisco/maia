@@ -1480,7 +1480,7 @@ batejar una llei.
 
 ## Buits registrats
 
-1. **Les 376 marques no s'han verificat.** És la peça amb més marques en termes
+1. **`no-es-buit`** — **Les 376 marques no s'han verificat.** És la peça amb més marques en termes
    absoluts del corpus.
 2. ~~**`[?beguers]`**: sense resoldre.~~ — **`resolt` el 16-09-2026 pel context
    institucional, no per la fonètica.** **El mot és *veguers***: el parlant els

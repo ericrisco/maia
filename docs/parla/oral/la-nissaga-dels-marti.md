@@ -299,4 +299,6 @@ en donen quatre.
    això obre una **pregunta de provinença sobre tota la sèrie AR+I**: convida qui
    sap del tema, no qui és del lloc. Aquesta peça **no diu res en cap dels dos
    sentits**.
-8. **Zero minuts verificats contra l'àudio**, com les 38 peces anteriors.
+8. **`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
+   peces anteriors: és una limitació de validació del material audiovisual, no
+   una pregunta de contingut.

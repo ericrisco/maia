@@ -474,7 +474,7 @@ tot.
 
 ## Buits registrats
 
-1. **Les 370 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 370 marques no s'han verificat.**
 2. **`endorrans` no és evidència fonètica.** Veure sobre. **No s'ha de citar com
    a pronúncia documentada.** `no-es-buit`: és un avís d'ús de la transcripció,
    no una pregunta pendent.

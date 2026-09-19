@@ -249,7 +249,7 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
 
 ## Buits registrats
 
-1. **Les 79 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 79 marques no s'han verificat.**
 2. **`assecle`, contrastat el 16-09-2026 amb els dos diccionaris: no hi és.**
    **Ni al [DCVB](../../fonts/dcvb.md) ni al [DIEC2](../../fonts/diec2.md).**
    **I això el converteix en el candidat a andorranisme més seriós d'aquesta

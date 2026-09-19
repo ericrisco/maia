@@ -580,7 +580,7 @@ facin, seria un tret; amb això, és una frase repetida.
 
 **Sobre la transcripció**
 
-1. **Cap de les 243 marques no s'ha verificat.** Mateix deute que les tandes 1 i 2.
+1. **`no-es-buit`** — **Cap de les 243 marques no s'ha verificat.** Mateix deute que les tandes 1 i 2.
 2. **La densitat de marcadors pot estar subestimada.** Whisper tendeix a ometre
    titubeigs; si n'ha omès, el 11 % és un **terra**, no un sostre. **No es pot
    saber quant sense escoltar.**

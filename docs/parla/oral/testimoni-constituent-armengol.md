@@ -230,7 +230,7 @@ no.** El mateix patró que `sigut` i `tindre`.
 
 ## Buits registrats
 
-1. **Les 151 marques no s'han verificat.** Són el **8,1 % dels mots**, dins del
+1. **`no-es-buit`** — **Les 151 marques no s'han verificat.** Són el **8,1 % dels mots**, dins del
    rang del corpus (3,5 % – 9,7 %) i lluny de ser el pitjor.
    *(Aquesta línia deia «proporció dolenta: una marca per segment». Comptat per
    segments semblava alarmant; comptat per mots, que és l'única mesura estable,

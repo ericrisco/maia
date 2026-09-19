@@ -599,7 +599,9 @@ parlants**.
    frases «el que veieu aquí» queden penjades i **la transcripció no les pot
    completar**.~~ — **`no-es-buit`**: és una limitació del material audiovisual,
    no una pregunta de recerca textual.
-7. **Zero minuts verificats contra l'àudio**, com les 38 peces anteriors.
+7. **`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
+   peces anteriors: és una limitació de validació del material audiovisual, no
+   una pregunta de contingut.
 8. **«Aquí a Andorra» no acredita ningú.** La tanda 29 va trobar, a la
    [#62](../../raw/parla/pendents/ari-capsula-62/README.md), una ponent de la
    mateixa sèrie que diu **«no a Andorra»**, i per això aquella peça **no ha

@@ -1182,7 +1182,7 @@ de YouTube i **no autoritza redistribuir**. Es registra `redistribucio: pendent`
 
 ## Buits registrats
 
-1. **Les 402 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 402 marques no s'han verificat.**
 2. ~~**Del parlant no consta** ni generació, ni llengua primera, ni ofici.~~ — **`parcial` el 18-09-2026: l'origen sí que consta**, i **per als consellers del Consell Constituent és a la síntesi d'actes del Consell General amb parròquia, poble i renom de casa**, vegeu [qui eren els constituents](./qui-eren-els-constituents.md). `Generació, llengua primera i ofici segueixen sense constar a cap font del corpus.`
 3. `no-és-buit` — **Els drets són `pendent`** (avís R005): consentiment sí, redistribució no. **No és una pregunta oberta: és l'estat de drets de la peça**, que viu al camp `redistribucio` de la seva fitxa de font. **Es resol signant una cessió, no consultant cap arxiu.**
 4. `no-és-buit` — **Cap afirmació d'aquesta peça no s'ha de citar com a fet.** És memòria

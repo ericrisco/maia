@@ -412,7 +412,7 @@ doni per bones.
 
 ## Buits registrats
 
-1. **Les 122 marques no s'han verificat.**
+1. **`no-es-buit`** — **Les 122 marques no s'han verificat.**
 2. ~~**`[?etapa]` per *taba* i `Mostafa` per *mostassà`.**~~ — **`parcial`:
    identificació `resolta` el 16-09-2026 pel contingut, no per l'escolta; la transcripció
    segueix sense corregir, com mana la fidelitat d'aquesta branca.**
