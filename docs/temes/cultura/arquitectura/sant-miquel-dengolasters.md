@@ -46,6 +46,11 @@ símbols dels quatre Evangelistes, amb apòstols al mur cilíndric.
 **el mateix mestre, doncs, que hauria fet la pintura de Santa Coloma**,
 una altra església del romànic andorrà que ja té fitxa pròpia.
 
+La reproducció fidel de **1982** és **a l'absis de l'església**, al mateix lloc
+on era el conjunt original. El Govern també conserva el registre audiovisual
+**GA_ASN_01432**, filmat el 1981 durant els treballs de reproducció i consultable
+al portal de l'Arxiu Nacional.
+
 ## El que la lliga a les altres
 
 **El campanar comparteix taller amb Santa Coloma; les pintures
@@ -63,8 +68,9 @@ aquí.
    18-09-2026**: totes dues tenen fitxa pròpia, [Santa Coloma](./santa-coloma.md)
    i [Sant Serni de Canillo](./sant-serni-de-canillo.md), i l'índex romànic ja
    recull les sis esglésies.
-2. **On són exactament, dins l'edifici, les reproduccions actuals** de
-   les pintures extretes.
+2. ~~**On són exactament, dins l'edifici, les reproduccions actuals** de
+   les pintures extretes.~~ — **`resolt`, confirmat el 2026-09-19**: la
+   reproducció de 1982 és **a l'absis** de Sant Miquel d'Engolasters.
 3. **Règim de visita**: [Sant Romà de les Bons](./sant-roma-de-les-bons.md)
    apunta que roman oberta a la tardor juntament amb aquesta església —
    **detall no verificat des d'aquí.**
