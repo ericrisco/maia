@@ -399,7 +399,7 @@ servir les deu files, que sumen el total imprès.`
    **Dues coses més que la sèrie ensenya i el corpus no tenia**: hi ha una
    **«àrea de salut mental»** amb **una persona des del 2022**, i **arrestos
    parcials** de zero a vuit segons l'any.
-7. **El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
+7. ~~**El centre per a menors** que Canturri reclamava: **segueix obert**. La llei
    del 2023 **exigeix separar majors i menors dins el centre**, que no és el
    mateix que **un centre específic**. **I el 2026-09-18 s'hi afegeix una dada
    que no el tanca però el situa**: **hi ha un contracte d'arrendament per a
@@ -418,7 +418,7 @@ servir les deu files, que sumen el total imprès.`
    **Vint-i-cinc anys després de la llei del 1999, hi ha menors interns i la
    font els compta a la mateixa taula que els adults.** `Que hi consti una
    categoria pròpia no demostra que hi hagi instal·lacions separades, que és el
-   que la llei exigeix; i el corpus no ho afirma.`
+   que la llei exigeix; i el corpus no ho afirma.`~~ — **`parcial`, actualitzat el 2026-09-19**.
 8. **L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
    Sistema Penitenciario*, cinquè informe), que Canturri cita pels punts 54 i 55:
    **Andorra hi participa** i el corpus no ho tenia registrat.
