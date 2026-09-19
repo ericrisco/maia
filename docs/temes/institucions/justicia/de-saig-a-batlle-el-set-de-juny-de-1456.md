@@ -257,8 +257,11 @@ Jutge el 19 de novembre de 1846:**
 3. **L'enquesta de 1346**, *Archives des Pyrénées-Orientales, C 2098*, i **el
    reglament dels Veguers del 13 de juny de 1356**, als arxius d'Encamp.
    `Requereix font externa.`
-4. **Per què van desaparèixer els batlles del Pareatge**, i **quan.** **La font diu
-   «poc després» i no ho data ni ho explica.**
+4. ~~**Per què van desaparèixer els batlles del Pareatge**, i **quan.**~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la seqüència queda acotada per les
+   fonts: **dos batlles el 1278**, **saigs documentats el 1346** i **batlles
+   novament documentats el 1471**. La font només diu «**poc després**» del
+   Pareatge i **no explica ni la data exacta del canvi ni el motiu**.
 5. **El *mandement* dels *saigs* de 1420** sobre les monedes, **i la reforma que les
    Corts hi van fer.**
 6. **Els documents de 1433, 1471, 1472 i 1484**, sencers.
