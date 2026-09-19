@@ -317,9 +317,9 @@ contingut religiós** i **la inspecció espanyola controlant la resta**.
 
 ## Buits registrats
 
-- **Quan tanca el col·legi d'Encamp.** La font diu que no en queda constància i
-  que el 1921 encara funcionava. **Buit honest, deixat obert per la pròpia
-  font.**
+- ~~**Quan tanca el col·legi d'Encamp.**~~ — **`parcial` el 19-09-2026**: la
+  font diu que no en queda constància, però confirma que **el 1921 encara
+  funcionava**; l’any de tancament continua sense documentar-se.
 - ~~**La mare Anna M. Janer** i les **Germanes de la Sagrada Família d'Urgell**:
   el corpus no en té res.~~ — **`incorrecte` des del 2026-09-13: en té, i en
   bona part en aquesta mateixa fitxa.** **Aquest article ja diu** que les
