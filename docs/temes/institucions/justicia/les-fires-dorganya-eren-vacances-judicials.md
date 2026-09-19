@@ -344,8 +344,7 @@ Andorra:**
 8. **Les llistes de feriats de 1585** *(Constitucions, III, XXIX, 2)* **i de
    1742** *(Vives, Traducción de los Usages, 2a ed., t. I, pp. 241-243)*, **per
    comparar.**
-9. **L'acte andorrà del 12 de març de 1461** amb la renúncia a les *feriæ messium
-   et vindemiarum*.
+9. ~~**L'acte andorrà del 12 de març de 1461** amb la renúncia a les *feriæ messium et vindemiarum*.~~ — **`parcial` el 2026-09-19**: [Els tribunals tancaven per la fira d’Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md) confirma que Brutails situa en aquesta data una renúncia andorrana a les vacances de messes i verema. **L’acte original encara no s’ha consultat**, i per tant no es poden donar els atorgants ni el text.
 10. **Per què el litigant de 1502 apel·la «*a son senyor lo rey d'Arago*»** i no
     a un copríncep. **La font no ho comenta.**
 11. **Els decrets del Consell General del 20 de març de 1883, de 1849 i de
