@@ -100,11 +100,12 @@ escrita. Vegeu [els síndics generals](./els-sindics-generals.md).
   És el primer registre de ministres dones que tenim al corpus; la sèrie
   anterior no és completa i, per tant, no es pot afirmar encara que siguin les
   primeres de tota la història.
-- ~~**La primera cònsol major**~~ i **la primera magistrada**. **`parcial` el
+- ~~**La primera cònsol major** i **la primera magistrada**.~~ **`resolt` el
   19-09-2026**: **Bibiana Rossa i Lydia Magallón** són identificades com les
   primeres dones cònsols majors del país després de les eleccions comunals de
-  **1995** ([font](../../fonts/primeres-consols-majors.md)). La primera
-  magistrada encara no té una identificació documentada.
+  **1995** ([font](../../fonts/primeres-consols-majors.md)); i *Bondia* identifica
+  **Laurence Burgorgue-Larsen** com la primera dona membre del Tribunal
+  Constitucional, quan va prometre el càrrec el **gener de 2012** ([font](../../fonts/bondia-burgorgue-larsen-primera-magistrada.md)).
 
 ## Related
 
