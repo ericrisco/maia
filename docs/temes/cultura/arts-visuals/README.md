@@ -49,7 +49,11 @@ les fonts citaven junts no fan el mateix ofici.**
 
 ## El que falta
 
-- **Els artistes andorrans de naixement.** Cap fitxa.
+- ~~**Els artistes andorrans de naixement.** Cap fitxa.~~ — **`parcial` el
+  19-09-2026**: la cronologia cultural ja identifica **Francesc Galobardes,
+  Carme Massana i Sergi Mas**, i el corpus té fitxa per a [Galobardes](../../persones/francesc-galobardes.md)
+  i [Sergi Mas](./sergi-mas.md). **Carme Massana encara no té fitxa pròpia** i
+  la branca tampoc no té l'inventari complet dels artistes nascuts al país.
 - ~~**La pintura.** Cap.~~ — **`parcial` el 18-09-2026**: **Francesc
   Galobardes hi comença a respondre**
   ([fitxa](../../persones/francesc-galobardes.md)), però **la pintura
