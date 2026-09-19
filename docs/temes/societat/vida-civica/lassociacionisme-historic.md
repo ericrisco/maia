@@ -176,12 +176,12 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
 
 1. **La Crema de Canillo**: dates, estatuts, quants associats, si en queda
    documentació. **El corpus no en té res més que aquest paràgraf.**
-2. **Els estatuts de la Consòrcia** i si les obligacions d'assistència hi consten
-   per escrit. — **`obert`, i des del 2026-09-13 amb el llibre localitzat dins
-   del corpus mateix**: **Pere Canturri, *La consòrcia de casats d'Andorra*,
-   Andorra la Vella, Editorial Andorra, 1989**, citat al document
-   d'historiografia que el corpus ja tenia
-   ([les tres fases](../../historia/historiografia/les-tres-fases.md)).
+2. ~~**Els estatuts de la Consòrcia** i si les obligacions d'assistència hi consten
+   per escrit.~~ — **`parcial`, actualitzat el 2026-09-19**: el llibre ja és
+   localitzat dins del corpus —**Pere Canturri, *La consòrcia de casats
+   d'Andorra*, Andorra la Vella, Editorial Andorra, 1989**— i consta a
+   [les tres fases](../../historia/historiografia/les-tres-fases.md); encara no
+   se n'han extret els estatuts ni la clàusula d'assistència.
 3. ~~**La Confraria de Sant Sebastià** de Sant Julià: **quin any de pesta**.~~ —
    **`parcial`, actualitzat el 2026-09-19**: la monografia localitzada —**David
    Mas i Sergi Mas, *Consòrcies i germandats de Sant Julià de Lòria* (1987)**—
