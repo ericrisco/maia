@@ -163,10 +163,10 @@ del fenomen. No és un nivell de perill emès pel
   Meffre de1997 ni el documental RTVA. La cerca pel títol de l'informe ASI ha localitzat
   la referència, sense obtenir-ne l'original; això no prova que no
   existeixi. Cronologia dels serveis d'emergència pendent.
-- No s'han reproduït els models de 1996 ni auditat les equacions.
-  S'han vist les figures 3–5 sense digitalitzar-ne polígons. Del
-  treball de 2020 s'ha llegit tot el text i s'han vist sis pàgines;
-  la resta d'imatges i els suplements no s'han verificat visualment.
+- ~~Lectura del treball de 2020 i inspecció de les figures 3–5~~ — **`parcial`
+  el 19-09-2026**: s'ha llegit tot el text i s'han vist sis pàgines, però no
+  s'han reproduït els models de 1996 ni auditat les equacions, digitalitzat els
+  polígons o verificat visualment la resta d'imatges i suplements.
 - La p. 12 del treball de 2020 imprimeix magnituds anomenades massa
   amb unitats m³. La pàgina i el render es conserven; no es corregeix
   silenciosament a kg ni s'incorpora com a massa validada. No s'ha
