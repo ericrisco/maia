@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: estadistica-ad
-timestamp: 2026-09-13T15:10:34Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [societat, demografia, immigracio]
 ---
 
@@ -54,17 +54,24 @@ mesura d'ús lingüístic que la sostingués.
    13-09-2026**: s'ha consultat la font primària d'Estadística i s'ha incorporat
    la distribució per parròquies del juliol
   de 2026. No s'ha reconstruït la sèrie històrica completa.
-- No s'han contrastat amb una peça primària identificada les xifres que
+- ~~No s'han contrastat amb una peça primària identificada les xifres que
   aquesta entrada atribuïa a [Viquipèdia](../../../fonts/viquipedia-ca.md):
   total de 2025, percentatge d'immigrants i repartiment per país de
-  naixement de 2024. Queden retirades del cos fins a verificar període,
-  definició i taula; això no afirma que siguin falses.
+  naixement de 2024.~~ — **`parcial` el 19-09-2026**: la nota oficial de juliol
+  de 2026 dona el total estimat de **88.306 residents el juliol de 2025** i
+  **55,1% de nacionalitat estrangera**, i permet retirar la dependència de
+  Viquipèdia per a aquestes dues xifres. **No classifica per lloc de naixement
+  el 2024**, que continua obert.
 - La trajectòria històrica de la immigració portuguesa i l'afirmació sobre
   prioritats de les quotes del 2002 resten pendents de fonts exactes.
   La taula de nacionalitats de 2026 no les verifica.
 - No s'ha llegit una taula d'ús lingüístic per origen que permeti estimar
   parlants de la varietat andorrana. Nacionalitat i naixement no resolen
   aquest buit.
-- No s'han llegit les p. 2–6 i 9–11 de la nota mensual ni cercat encara
-  les peces històriques anteriors. No es registra una cerca fallida on
-  només hi ha lectura pendent.
+- ~~No s'han llegit les p. 2–6 i 9–11 de la nota mensual ni cercat encara
+  les peces històriques anteriors.~~ — **`parcial` el 19-09-2026**: s'ha llegit
+  la nota completa (p. 1–12). Les p. 2–6 aporten la distribució per sexe, edat,
+  parròquia i nacionalitat; les p. 9–11 mostren la divergència registrada/
+  estimada per parròquia des del juliol de 2020; i la p. 12 fixa definicions,
+  font i marc legal. **La sèrie de notes anteriors i una taula històrica
+  comparable encara no s'han reconstruït.**
