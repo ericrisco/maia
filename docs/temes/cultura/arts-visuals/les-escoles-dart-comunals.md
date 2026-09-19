@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: mas-educacio-artistica
-timestamp: 2026-09-13T04:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [arts-visuals, educacio, comuns, artesania, patrimoni, vida-quotidiana]
 ---
 
@@ -212,8 +212,13 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   les modalitats **cientificotecnològica, economicosocial i
   humanisticolingüística**. Això tanca que no existia en aquella fotografia;
   continua obert si es va crear després.
-- **Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
-  [artesania](../artesania/README.md).
+- ~~**Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
+  [artesania](../artesania/README.md).~~ — **`parcial` el 19-09-2026**: el
+  programa oficial 2023–2024 de l'Escola d'Art d'Andorra la Vella ofereix
+  **ceràmica, joieria i restauració de mobles**
+  ([evidència local](../../../raw/web/cultura/escoles-art/programa-escola-art-andorra-la-vella-2023-2024.txt)).
+  **La font ho presenta com a disciplines artístiques i no permet afirmar que
+  siguin ensenyaments de tradició artesanal andorrana.**
 - ~~**El quadre d'objectius sencer**~~ — **`parcial` el 19-09-2026**: el corpus
   ja n'ha pogut transcriure sis files —publicitat, disseny gràfic, disseny
   tèxtil, patrimoni romànic i rupestre, il·lustració/còmic i logotips—, però el
