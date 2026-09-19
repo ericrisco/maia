@@ -244,8 +244,9 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
   no-discriminació**
   ([evidència](../../../raw/lleis/bopa/llei-6-2022-aplicacio-efectiva-igualtat-de-tracte.txt)),
   de 148 KB, que **no s'ha destil·lat**. `Unitat pendent.`
-- **Els títols IV a VII** —ocupació pública, treball, mitjans i publicitat,
-  responsabilitat social corporativa— **només s'han llegit en part**.
+- ~~**Els títols IV a VII** —ocupació pública, treball, mitjans i publicitat,
+  responsabilitat social corporativa—~~ **`parcial` el 19-09-2026**: **només
+  s'han llegit en part**.
 - ~~**Cap dada sobre plans d'igualtat, empreses de més de 50 persones i bretxa salarial**~~ —
    **`parcial` el 17-09-2026**: la bretxa salarial sí que hi és, vegeu
   [La bretxa salarial andorrana, mesurada](#la-bretxa-salarial-andorrana-mesurada-547-euros-al-mes).
