@@ -446,5 +446,9 @@ M€)**, **ingressos patrimonials (46,2 M€)**, **actius financers (49,6 M€)*
   colorant i traçador**, i **no es pot fer servir com a carburant de cap motor
   autopropulsat** (article 28.4-5). `Requereix les taules senceres de tipus,
   que són annexos llargs, i el valor de l'element de CO₂ per producte.`
-- **Quan i per què Andorra va passar de no tenir impostos directes a tenir-ne**
-  és una història que el corpus encara no té.
+- ~~**Quan i per què Andorra va passar de no tenir impostos directes a tenir-ne**
+  és una història que el corpus encara no té.~~ — **`parcial`**: [la pressió
+  fiscal s'ha doblat](./la-pressio-fiscal-sha-doblat.md#la-cronologia-normativa-del-salt)
+  ja fixa la cronologia normativa —societats i no-residents, publicada el 2011;
+  IGI, el 2012; IRPF, el 2014— i mostra els dos salts de recaptació. La raó
+  política i les dates d'entrada en vigor encara no estan demostrades del tot.
