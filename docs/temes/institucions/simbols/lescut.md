@@ -145,7 +145,11 @@ descrigui**.
    armes del país i demana permís a un dels dos coprínceps.**
 
    `Requereix el segell adjunt del 1914, que fixaria el dibuix triat.`
-5. **La versió amb escut i sense** de la bandera, i quan s'usa cadascuna.
+5. ~~**La versió amb escut i sense** de la bandera, i quan s'usa cadascuna.~~ —
+   **`resolt` el 19-09-2026**: l'annex de la Llei sobre la utilització dels
+   signes d'Estat situa l'escut **al centre, sobre la franja groga**; es pot
+   ometre en **formats reduïts o específics**, com les cintes, que queden només
+   amb les tres franges blau, groc i vermell ([text local de la llei](../../../raw/web/institucions/llei-signes-estat-2022-consolidada.txt)).
 
 ## Related
 

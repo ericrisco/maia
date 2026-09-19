@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: viquipedia-ca
-timestamp: 2026-09-12T01:30:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [simbols, identitat, segle-xix]
 ---
 
@@ -85,7 +85,10 @@ un dret» passa a ser dret **precisament perquè era un fet**.
 - **Els colors i el seu origen documentat.** L'atribució habitual —blau i vermell
   de França, groc i vermell del bisbat i de la Corona d'Aragó— **segueix sense
   font**. Vilar en dona **la data i l'autor**, no **el perquè dels colors**.
-- La versió amb escut i la versió sense, i quan s'usa cadascuna.
+- ~~La versió amb escut i la versió sense, i quan s'usa cadascuna.~~ —
+  **`resolt` el 19-09-2026**: la llei situa l'escut al centre de la franja groga
+  i permet ometre'l en formats reduïts o específics, com les cintes; la bandera
+  queda llavors representada només per les tres franges ([annex de la llei](../../../raw/web/institucions/llei-signes-estat-2022-consolidada.txt)).
 - Les proporcions. — **La data d'oficialització ja no és un buit: `resolt` el
   17-09-2026.**
 - ~~Si la bandera de 1866 és la mateixa d'avui o ha canviat.~~ **Tancat:** el 1904
