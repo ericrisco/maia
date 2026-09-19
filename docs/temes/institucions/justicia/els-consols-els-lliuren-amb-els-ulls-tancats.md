@@ -287,7 +287,12 @@ sencera, amb el que la font hi afegeix:**
    francès el resolgués a l'inrevés.**
 3. **Les sentències de visura de 1790 amb els noms dels dissidents**: **quantes
    n'hi ha i fins quan es va fer.**
-4. **Per què el suplent del Síndic és el primer conseller de Canillo.**
+4. ~~**Per què el suplent del Síndic és el primer conseller de Canillo.**~~ —
+   **`resolt` el 19-09-2026**: la font enumera les sis parròquies «**en l'ordre
+   de precedència: Canillo, Encamp, Ordino, la Massana, Andorra i Sant Julià**»;
+   per això el **primer conseller de Canillo**, primera parròquia en l'ordre,
+   era el substitut dels dos síndics ([l'ordre de precedència de les sis
+   parròquies](../consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)).
 5. **La *Ley de Reforma*, p. 11** —**cinquena tanda que el corpus reclama aquest
    text**— i **el memòria del senyor Anton Picart** —**quarta citació**.
    **Prioritat màxima.**
