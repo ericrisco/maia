@@ -33,9 +33,9 @@ notes: >
   termes d'ús ABANS que res entri en un conjunt d'entrenament. Fins que no
   s'aclareixi, s'hi cita i no s'hi reprodueix el text sencer.
   MAL CLASSIFICAT A raw/. És a hemeroteca/ i no és premsa. Vegeu el README.
-  PROCEDÈNCIA A MITGES: l'acta s'identifica sola —comú, expedient, número
-  d'acta, data, CSV i signatures digitals datades— però l'URL de publicació no
-  va quedar registrada. Buit obert.
+  PROCEDÈNCIA COMPLETA: l'acta s'identifica sola —comú, expedient, número
+  d'acta, data, CSV i signatures digitals datades— i l'URL oficial del PDF ja
+  consta al registre de la font i a la fitxa de l'acta.
 ---
 
 # Acta de la Junta de Govern núm. 18 d'Escaldes-Engordany
