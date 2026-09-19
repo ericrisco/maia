@@ -66,10 +66,12 @@ Joan** que Amades en dona una visió «que sols pot donar qui ho ha vist»
 mateixa pàgina.** Per això el criteri del corpus no pot ser *Amades sí* o
 *Amades no*: **ha de ser cas per cas.**
 
-## El tamarro, i per què no té fitxa
+## El tamarro, i què quedava per verificar
 
-**El corpus ha buscat el *tamarro* a totes les seves fonts i no l'hi ha
-trobat com a criatura.**
+**El corpus ja té una fitxa pròpia del *tamarro*** ([el tamarro](./el-tamarro.md)),
+però aquesta fitxa conserva el contrast amb les fonts locals que es van consultar
+aquí: **no hi apareixia com a criatura en cap de les fonts de la recerca de
+bruixes.**
 
 El que sí que hi apareix, i és una altra cosa:
 

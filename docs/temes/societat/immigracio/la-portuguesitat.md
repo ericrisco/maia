@@ -335,9 +335,9 @@ el seu propi folklore d'origen.** El corpus no tenia cap cas d'això.
 
 I un últim, del 2020: el Grup **va fusionar la llegenda andorrana dels
 tamarros amb la tradició portuguesa** en un vídeo de confinament
-([llegendes](../../cultura/llegendes/llegendes.md)). **Buit registrat:** el
-corpus no té fitxa dels tamarros, i els tamarros surten cada vegada que algú
-explica Andorra.
+([llegendes](../../cultura/llegendes/llegendes.md)). **La fitxa pròpia del
+[tamarro](../../cultura/llegendes/el-tamarro.md) ja cobreix aquesta criatura**;
+queda com a buidatge pendent el contingut i la font del vídeo del Grup.
 
 ## El que falta
 
