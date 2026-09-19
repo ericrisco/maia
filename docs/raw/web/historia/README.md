@@ -13,3 +13,10 @@
 - Consulta: 2026-09-19.
 - Ús: corroboració contemporània de la referència a la intervenció del bisbe a la comissió de pressupostos; no substitueix les actes.
 - Condicions: premsa històrica; termes de reutilització no especificats; només se'n conserva l'extracte necessari.
+
+## Catàleg BnF — documents d'Andorra — `catalog-bnf-documents-andorra.*`
+
+- Font: [catàleg del Govern d'Andorra](https://www.govern.ad/documents/1898932/2636114/Biblioteca_Nacional_Franca.pdf/5d1d03a2-bb67-ccb7-2658-300bd856a591?t=1719226213593), secció Col·lecció Baluze.
+- Consulta: 2026-09-19.
+- Ús: identificació arxivística de la butlla de Martí IV (1282-10-07, Montefiascone), BNF Baluze 81, f. 369r-v, i una còpia a BNF Doat 162, f. 50r-51v.
+- Condicions: catàleg institucional; termes de reutilització no especificats; no és el manuscrit de la butlla.

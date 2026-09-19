@@ -253,8 +253,14 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    d'Urgell. **Citada per Trias, represa per Vilar, i no vista.**
 4. ~~**L'obra de Joan de Déu Trias.**~~ — **`resolt` com a duplicat el
    19-09-2026**: el buit canònic és a [Villa o tota la vall](../origens/villa-o-tota-la-vall.md).
-5. **La butlla de Martí IV.** **Dues dates registrades i cap document.**
-   **Prioritari.**
+5. **La butlla de Martí IV.** **`parcial` el 19-09-2026:** el catàleg
+   institucional dels documents d'Andorra a la BnF identifica la peça com a
+   **7 d'octubre de 1282, Montefiascone**, amb la referència **BNF, col. Baluze
+   81, f. 369r-v**, i una còpia a **BNF, col. Doat 162, f. 50r-51v**
+   ([catàleg local](../../../raw/web/historia/catalog-bnf-documents-andorra.txt)).
+   Això resol l'any, el lloc i dues localitzacions de manuscrit; **el text de la
+   butlla i la comprovació directa de l'original continuen oberts**. La data
+   1288 del Consell General queda com a divergència de font, no s'arbitra.
 6. ~~**La informació feta a la cort d'Andorra el 1404**~~ — **`parcial` el
    19-09-2026**: la signatura queda completada (**Archives de Perpignan, Série C,
    2098, liasse**) segons la referència reproduïda a [«Predicar miserias y

@@ -156,9 +156,13 @@ noms que els sotmet el Consell General**.
 > en 1282 par une bulle du pape Martin IV**». Vegeu [afirmats en principi,
 > sacrificats en l'aplicació](../pareatge/afirmats-en-principi-sacrificats-en-laplicacio.md).
 >
-> **Dues fonts, dues dates —1282 i 1288— per a la mateixa butlla del mateix papa.**
-> **Registrades totes dues; el corpus no arbitra**, i **no té ni la butlla ni cap
-> cronologia pontifícia verificada.**
+> **El catàleg institucional dels documents d'Andorra a la BnF dona una tercera
+> peça de control:** **7 d'octubre de 1282, Montefiascone**, amb **BNF, Baluze 81,
+> f. 369r-v** i una còpia a **Doat 162, f. 50r-51v** ([catàleg local](../../../raw/web/historia/catalog-bnf-documents-andorra.txt)).
+> **Vilar (1904) coincideix en 1282**; el Consell General (1894) continua donant
+> 1288. **La divergència queda registrada, però la data catalogràfica i la
+> localització arxivística ja no són un buit; el manuscrit i el text encara no
+> s'han consultat.**
 
 > **Segona incoherència de data d'aquest volum**, després de **«En 1727, Luis
 > XIV»** ([a qui pertany la jurisdicció de les
@@ -295,7 +299,10 @@ excepció que el resum no duia:**
 6. **Els col·lectors de la Reverenda Cambra Apostòlica a Andorra durant les seus
    vacants**: **quantes vegades, quines rendes i quina documentació en queda.**
    **Prioritari**, i **comprovable**: la Cambra Apostòlica té arxiu.
-7. **La contradicció de la data de Martí IV.** **Registrada, no resolta.**
+7. **La contradicció de la data de Martí IV.** **`parcial` el 19-09-2026:** el
+   catàleg BnF dona **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
+   Doat 162, f. 50r-51v), en acord amb Vilar i en contradicció amb el 1288 del
+   Consell General. **Falta llegir el manuscrit i explicar la data divergent.**
 8. **Si la Santa Seu va respondre.** **El volum no porta resposta**, i **el
    corpus no sap si n'hi va haver.** **Prioritari.**
 9. **Si el títol es va arribar a modificar**, i quan. **El corpus sap que avui el

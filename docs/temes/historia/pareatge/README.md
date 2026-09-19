@@ -1,11 +1,14 @@
 # El Pareatge
 
-**1278**, i una confirmació pontifícia de data disputada. Què va fixar
+**1278**, i una confirmació pontifícia de data ara identificada. Què va fixar
 exactament i què va deixar obert durant set segles.
 
-> **La data de la butlla de Martí IV està en divergència al corpus**: **Vilar
-> (1904) diu 1282** i **el Consell General (1894) diu 1288**. **Registrades totes
-> dues**; el corpus no té la butlla.
+> **La data que dona el catàleg arxivístic és 7 d'octubre de 1282, a
+> Montefiascone**: identifica la butlla de Martí IV a **BNF, Baluze 81, f. 369r-v**
+> i una còpia a **Doat 162, f. 50r-51v**. **Vilar (1904) coincideix en l'any
+> 1282**, mentre que el Consell General (1894) dona 1288. **La divergència queda
+> registrada, però ara hi ha una referència arxivística primària concreta; el
+> manuscrit i el text encara no són al corpus.**
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
