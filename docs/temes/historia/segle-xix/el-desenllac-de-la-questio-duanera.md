@@ -367,6 +367,18 @@ segon llibre de Vilar, que ningú no havia obert**
 > **L'Andorre jouit maintenant, pour ses exportations en Espagne, du tarif de la
 > nation la plus favorisée.**»
 
+La norma que Vilar no cita ja és identificada. La **Reial ordre d'Hisenda de 25
+de maig de 1908**, publicada a la *Gaceta de Madrid* núm. 164 (**12 de juny de
+1908, pp. 1222–1223**), resol la instància del bisbe i ordena que, mentre sigui
+vigent el conveni hispano-francès, les duanes espanyoles limítrofes amb Andorra
+apliquin als ramats i productes de la Vall **«los derechos más reducidos de las
+tarifas arancelarias que se hallen vigentes»**, excepte els avantatges especials
+atorgats o atorgables a Portugal i el Marroc per veïnatge i frontera
+([text](../../../raw/gaceta/gmd-1908-164.txt), [còpia del BOE](../../../raw/gaceta/gmd-1908-164.pdf)).
+La [14a Diada andorrana de 2001](../../../raw/web/historia/14a-diada-andorrana-2001.txt)
+(p. 17) confirma la lectura històrica: no es van restituir formalment les
+franquícies, sinó que es va rebaixar el dret aplicable.
+
 **Tretze anys de tarifa màxima**, del juny de 1895 al maig de 1908.
 
 **I la simetria és el que val.** Qui va tombar la franquícia el 1895 va ser **el

@@ -53,6 +53,25 @@ notes: >
 [del tractat de 1904](./vilar-andorre-1904.md), i **molt més curt**: 75 pàgines
 contra 192.
 
+## La norma espanyola que Vilar no cita
+
+El resultat que Vilar situa al maig de 1908 té una peça primària identificada:
+la **Reial ordre del Ministeri d'Hisenda de 25 de maig de 1908**, publicada a la
+*Gaceta de Madrid* núm. 164, **12 de juny de 1908, pp. 1222–1223**
+([text local](../raw/gaceta/gmd-1908-164.txt), [còpia BOE](../raw/gaceta/gmd-1908-164.pdf)).
+Resol la instància del bisbe d'Urgell, que demanava la segona tarifa i el tracte
+de nació més afavorida, i disposa:
+
+> «mientras esté en vigor el actual Convenio celebrado entre España y Francia,
+> se apliquen en las Aduanas nacionales colindantes con Andorra a los ganados y
+> productos de aquel Valle los derechos más reducidos de las tarifas arancelarias
+> que se hallen vigentes, menos los especiales concedidos y que puedan
+> concederse a Portugal y Marruecos por razón de vecindad y frontera.»
+
+La font secundària de la [14a Diada andorrana de 2001](../raw/web/historia/14a-diada-andorrana-2001.txt)
+(p. 17) ho descriu com una concessió sense restitució formal de les franquícies;
+la *Gaceta* permet ara donar la data, l'òrgan, el destinatari i el règim exacte.
+
 ## Per què val, i per què val poc
 
 **Val poc perquè es repeteix.** El corpus ha comparat els dos textos cadena a
@@ -102,7 +121,13 @@ què el seu successor podia arribar al ministeri el 1908.**
    comprovat que repeteixen el llibre de 1904 **per cadenes clau**, no paraula
    per paraula. Hi pot haver matisos nous que aquesta comprovació no veu.
 3. **Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.
-   Vilar en dona el resultat i no la referència.
+   **`parcial` el 19-09-2026:** la *Gaceta de Madrid* identifica la Reial ordre
+   d'Hisenda de **25 de maig de 1908** (publicada el 12 de juny, pp. 1222–1223)
+   i en conserva el dispositiu: drets més reduïts vigents per als ramats i
+   productes andorrans a les duanes limítrofes, amb l'excepció dels avantatges
+   especials de Portugal i el Marroc. **Segueix obert** l'expedient administratiu
+   complet i la documentació de la gestió de Benlloch que hi va donar origen;
+   Vilar no en dona el número d'expedient.
 4. ~~**Qui era Benlloch y Vivó**, i què més va fer per Andorra.~~ —
    **`resolt` el 18-09-2026, i la resposta ja era mig dins el corpus.**
 
