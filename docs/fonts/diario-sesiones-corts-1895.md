@@ -32,9 +32,9 @@ notes: >
   de 1869 i el 25 de setembre de 1880, i ordre de la Direcció General de Duanes
   del 1886; el discurs del 30 de juny diu octubre de 1879 i 1887. El corpus
   registra la discrepància i no tria.
-  PROCEDÈNCIA A MITGES. Els documents s'identifiquen sols —capçalera, número de
-  diari, data de sessió i pàgina—, però l'URL exacta de descàrrega no va quedar
-  registrada. Buit obert.
+  PROCEDÈNCIA PARCIAL COMPLETADA EL 19-09-2026. Els índexs oficials del Congrés
+  i del Senat ja són registrats; les URL individuals de descàrrega de cada
+  diari i apèndix encara no consten.
   TRES DELS FITXERS SÓN OCR PROPI, del 2026-09-13: senado-1895-06-28,
   senado-1895-06-29 i senado-1895-mixta-ap5, fets amb ocrmypdf -l spa_old+spa
   --force-ocr perquè els PDF no tenien capa de text. La qualitat és pitjor que
@@ -86,7 +86,9 @@ pel punt de tall (columna 57-58) i llegint-les per separat.
 
 ## Buits registrats
 
-1. **L'URL exacta** de descàrrega de cada document.
+1. ~~**L'URL exacta** de descàrrega de cada document.~~ — **`parcial` el
+   19-09-2026**: ja consten els índexs oficials del [Congrés](../raw/web/fonts/diario-sesiones-corts-1895-url.txt)
+   i del Senat; les URL individuals dels diaris i apèndixs continuen obertes.
 2. ~~**El diari de sessions del Senat**, que és on hauria d'aparèixer què va passar
    amb l'article addicional. Un dels dos fitxers no té text.~~ **TANCAT el
    2026-09-13**: tots dos, i l'apèndix de la comissió mixta, s'han passat per OCR.

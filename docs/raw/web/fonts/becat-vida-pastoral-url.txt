@@ -1,0 +1,11 @@
+Títol: La vida pastoral tradicional d’Andorra: transhumància, contraban i migracions
+Autor: Joan Becat
+URL oficial de l’autor: https://joanbecat.cat/wp-content/uploads/2019/07/6-cat-Web-jbk-Ens-Andorra_Vidapastoral_transhum.pdf
+Consulta: 2026-09-19
+
+Extracte de treball: el PDF català identifica el document sobre transhumància,
+contraban i migracions destinat als ensenyants i a les persones que volen
+conèixer Andorra. Correspon al document local `docs/raw/academic/becat-transhum.txt`.
+
+Llicència i ús: document de divulgació d’autor viu; el retall només conserva
+metadades i identificació, no el text complet.

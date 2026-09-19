@@ -3,7 +3,7 @@ type: font
 id: becat-vida-pastoral
 title: "Joan Becat — La vida pastoral tradicional d'Andorra: transhumància, contraban i migracions"
 titular: Joan (Jean) Becat
-url: "pendent"
+url: "https://joanbecat.cat/wp-content/uploads/2019/07/6-cat-Web-jbk-Ens-Andorra_Vidapastoral_transhum.pdf"
 llicencia: document de divulgació per a ensenyants; sense llicència explícita
 redistribucio: pendent
 data_consulta: 2026-09-12
@@ -24,8 +24,8 @@ notes: >
   CITA LES FONTS QUE EL CORPUS JA TE. Fa servir J. de Carvajal, 1895 —el mateix
   apèndix parlamentari que el corpus va llegir— i J.-A. Brutails, La coutume,
   p. 9. Les dues lectures es poden creuar, i s'han creuat.
-  PROCEDENCIA INCOMPLETA: el fitxer ve de sessions anteriors i l'URL no consta.
-  Redistribució pendent. Buit obert.
+  PROCEDENCIA COMPLETADA EL 19-09-2026: l'URL oficial de l'autor identifica el
+  document català local. Redistribució pendent per manca de llicència oberta.
 ---
 
 # Joan Becat — La vida pastoral tradicional d'Andorra
