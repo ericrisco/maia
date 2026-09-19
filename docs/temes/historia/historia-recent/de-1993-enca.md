@@ -62,10 +62,17 @@ gent i no té on posar-la.
 
 ## El que falta — la llista és llarga i fàcil
 
-- **La llista dels caps de Govern des del 1993**, amb dates i partit. La
-  Viquipèdia en té pàgina pròpia i **el corpus no l'ha buidat**.
-- **Els partits**: Demòcrates, PS, Concòrdia, Andorra Endavant. Res.
-- **El sistema electoral mixt** (nacional + parroquial), que és singular.
+- ~~**La llista dels caps de Govern des del 1993**, amb dates i partit. La
+  Viquipèdia en té pàgina pròpia i **el corpus no l'ha buidat**.~~ — **`resolt`**:
+  [Els caps de Govern](../../persones/els-caps-de-govern.md) ja dona la
+  successió, les dates, els partits i els dos períodes d'interinitat.
+- ~~**Els partits**: Demòcrates, PS, Concòrdia, Andorra Endavant. Res.~~ —
+  **`resolt`**: [Els partits d'avui](../../politica/partits/els-partits-davui.md)
+  ja documenta aquestes quatre formacions i la resta del mapa polític vigent.
+- ~~**El sistema electoral mixt** (nacional + parroquial), que és singular.~~ —
+  **`resolt`**: [Els tres sistemes electorals](../../politica/sistema-electoral/els-tres-sistemes-electorals.md)
+  i [quants diputats](../../politica/parlamentarisme/quants-diputats.md)
+  expliquen la meitat nacional proporcional i la meitat parroquial majoritària.
 - **La crisi de la BPA (Banca Privada d'Andorra)**, buscada expressament i **no
   documentada en aquesta cerca**. És un episodi central de la història recent i
   queda com a **buit registrat prioritari**.
