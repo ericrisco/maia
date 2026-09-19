@@ -58,6 +58,13 @@ comparació ([fitxa de la font](../../../fonts/margarit-escenari-escolar-2017.md
 **Això resol la identificació, però no la mostra ni la pregunta del 20%**: el
 qüestionari i l'original de 2002 continuen fora del corpus.
 
+**La fitxa bibliogràfica externa afegeix tres dades que abans no teníem:** l'estudi
+va ser encarregat pel **Centre de la Cultura Catalana** amb una dotació de la
+**UNESCO**, consta com a publicació del Servei de Política Lingüística de **42
+pàgines** i porta l'**ISBN 99920-02-92-1** ([traça bibliogràfica](../../../raw/web/llengua/estudi-escolar-2002-bibliografia.txt)).
+El catàleg localitza un exemplar a la Biblioteca Nacional de Catalunya. **Cap
+d'aquestes metadades permet inferir la mostra o la redacció de la pregunta.**
+
 ## El multilingüisme que resulta ser teòric
 
 **La frase que tanca l'apartat, i que és la tesi de l'estudi** *(p. 69)*:

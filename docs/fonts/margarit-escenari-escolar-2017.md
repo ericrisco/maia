@@ -15,9 +15,17 @@ notes: >
   Govern el titula «2010, L'escenari sociolingüístic…»: quart cas documentat en
   què l'any del portal no és el de publicació. Les dades són del curs 2011-2012
   i el llibre surt el 2017. Cap text no entra en cap dataset.
+
 ---
 
 # L'escenari sociolingüístic de la població escolar d'Andorra
+
+La nota de premsa del Govern del 28-03-2017 confirma que l'estudi anterior de
+2002 fou encarregat pel Centre de la Cultura Catalana mitjançant una dotació de
+la UNESCO i publicat pel Servei de Política Lingüística. El registre CCBE en dona
+42 pàgines i l'ISBN **99920-02-92-1**; la [fitxa de verificació bibliogràfica](../raw/web/llengua/estudi-escolar-2002-bibliografia.txt)
+conserva aquestes metadades i una localització a la Biblioteca Nacional de
+Catalunya. Això no substitueix la lectura de l'original.
 
 **No és una mostra: és tota la segona ensenyança del país.** L'enquesta es va
 adreçar **al nombre total d'estudiants de segona ensenyança i equivalent**, dels
