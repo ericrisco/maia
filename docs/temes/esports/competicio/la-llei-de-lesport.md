@@ -168,10 +168,25 @@ ensenya abans que l'aula, no és un detall menor.
   —**no diu advocat**. `Requereix el reglament que en fixa el mandat i el
   funcionament, i saber quantes resolucions ha dictat.`
 - ~~**Les instal·lacions esportives** (capítol segon del títol III) i les
-  **subvencions** (capítol segon del títol II), tampoc.~~ — **`parcial` el
-  2026-09-18 per la via dels diners, no de la llei**: **els criteris de
-  subvenció són al Decret 141/2023** i **els imports al pressupost del 2026**
-  ([el Comitè Olímpic](./el-comite-olimpic.md)):
+  **subvencions** (capítol segon del títol II), tampoc.~~ — **`resolt` el
+  2026-09-19** amb els articles 38–41 i 46–47 del [text consolidat local de la
+  Llei 37/2018](../../../raw/lleis/esport.txt):
+
+  - **Subvencions (articles 38–41):** poden ser prestacions o ajuts econòmics,
+    directes o indirectes, anuals, plurianuals o puntuals. Els criteris inclouen
+    la muntanya, els resultats internacionals, la incidència social i
+    mediambiental, la bona gestió, el nombre de federats, l'esport base, la
+    igualtat i els programes d'inclusió. L'atorgament ha de ser transparent,
+    equitatiu, condicionat al pressupost i publicat al BOPA; cal estar inscrit,
+    sol·licitar-ho dins termini i complir la llei i la normativa de desplegament.
+  - **Instal·lacions (articles 46–47):** Govern i comuns en fixen les
+    condicions d'ús; el Govern pot dictar directrius vinculants de seguretat i
+    qualitat, amb accés obligatori per a persones amb discapacitat i ús públic
+    sostenible. Les instal·lacions escolars s'han de poder cedir fora de l'horari
+    lectiu, i les entitats amb suport públic han de promoure'n l'ús social.
+
+  Els imports del 2026 continuen documentats al
+  [Comitè Olímpic](./el-comite-olimpic.md):
 
   | | 2026 |
   | --- | ---: |
@@ -179,9 +194,6 @@ ensenya abans que l'aula, no és un detall menor.
   | **Subvenció esport professional** | **2.000.000,00 €** |
   | Instal·lacions esportives *(PR0172)* | **1.331.995,55 €** |
   | Eficiència energètica del pavelló poliesportiu | 0,00 € el 2026, **6.000.000,00 € compromesos** |
-
-  **El capítol de la llei segueix sense llegir**; **el que hi ha ara és què es
-  paga i amb quins criteris, no què diu l'articulat.**
 - ~~**Quants esportistes d'alt nivell** hi ha a la llista anual~~ — **`resolt`
   el 18-09-2026** per l'API del Departament d'Estadística, divisions 2011-2015,
   **font declarada Secretaria d'Estat d'Esports i Joventut**:
