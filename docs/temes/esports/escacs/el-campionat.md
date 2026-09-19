@@ -119,8 +119,11 @@ quatre.
 
 ## Els buits
 
-- **El 2020 no hi ha edició.** **La font no en diu res** i **el corpus no
-  n'afirma la causa**, encara que la data faci pensar en la pandèmia. **Buit.**
+- ~~**El 2020 no hi ha edició.**~~ — **`parcial` el 2026-09-19**: el quadre de
+  la font salta del **2019** al **2021** i numera el 2021 com la vint-i-unena
+  edició, de manera que l'absència d'edició queda documentada. **La font no
+  explica la causa**, i el corpus no atribueix el salt a la pandèmia sense una
+  font específica.
 - ~~**Abans del 2000 no hi ha res.**~~ — **`resolt` el 19-09-2026**: la
   història del GEVA documenta que el **primer Campionat Absolut d'Andorra es va
   fer el 1965**, abans de la fundació de la FEVA el **7 de novembre de 1967**
