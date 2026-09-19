@@ -421,7 +421,7 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
   amb discapacitat en aïllament; no corregeix l'article 26.~~ —
   **`no-es-buit`**: és una nota de lectura de l'errata, no una pregunta
   pendent.
-- **Requisits econòmics sense reconciliar; originals comprovats:** l'article
+- ~~**Requisits econòmics sense reconciliar; originals comprovats:** l'article
   14.1.a.i del [PDF original de 2020, p. 11–12](../../../raw/desocupacio/bopa-reglament-2020-original.pdf)
   diu que el patrimoni «iguala el barem de valoració patrimonial»; l'article
   2.m de la [Llei 6/2014 original, p. 2226–2227](../../../raw/desocupacio/bopa-llei6-2014-original.pdf)
@@ -430,7 +430,9 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
   però queden pendents eventuals correccions i la interpretació aplicada.
   No se'n deriva un criteri d'elegibilitat. La
   [lectura del barem patrimonial](el-barem-patrimonial-i-els-ajuts.md)
-  diferencia les redaccions de 2014 i 2018.
+  diferencia les redaccions de 2014 i 2018.~~ — **`resolt` com a duplicat el
+  19-09-2026**: la discrepància i els residus d'interpretació es conserven com
+  a buit canònic a [El barem patrimonial i els ajuts](el-barem-patrimonial-i-els-ajuts.md).
 - No s'ha calculat un import net en euros del 2026, ni verificat els tractats
   aplicables a fronterers, els casos individuals de temporers o la pràctica
   administrativa i judicial sobre aquests requisits.
