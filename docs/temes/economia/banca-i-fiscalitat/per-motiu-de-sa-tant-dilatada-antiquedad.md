@@ -220,10 +220,12 @@ l'encadenament.**
    el 1788.** **El corpus no sap si es va retrobar.**
 3. **Quin era el «*mas o heretat de la P.*»** de la parròquia d'Andorra la Vella
    sobre el qual requeia el censal.
-4. **Per què hi havia deu anys i nou mesos de pensions endarrerides** i **per què
-   no hi va operar cap prescripció.** **El corpus té el decret de 1854 que en
-   fixa** ([primer la terra](../../historia/antic-regim/primer-la-terra.md))
-   **i no sap quin règim regia el 1788.**
+4. ~~**Per què hi havia deu anys i nou mesos de pensions endarrerides** i **per què
+   no hi va operar cap prescripció.**~~ — **`parcial` el 19-09-2026**: [primer la
+   terra](../../historia/antic-regim/primer-la-terra.md) documenta el règim de
+   protecció i pèrdua dels endarreriments dels decrets de **1785**, i el decret
+   de **1854** fixa terminis posteriors. **Continua obert quin règim regia
+   exactament el 1788 i per què es va arribar a acumular aquest període.**
 5. **La data del censal de la peça XVIII-XIX**, **que l'escriptura no transcriu**,
    **i l'acte de Pere Guarda y Martí.**
 6. **Si la designació «*la casa y hort de [el deutor difunt]*» era la
