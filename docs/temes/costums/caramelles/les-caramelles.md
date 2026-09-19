@@ -72,7 +72,12 @@ per la 25a edició.
   acaba cap a les 14 h**, amb adults de la coral i Petits Cantaires lauredians
   vestits tradicionalment. **El corpus ja pot explicar la singularitat del
   recorregut complet de tres hores; queda obert el llistat exacte dels carrers.**
-- Qui són les corals i des de quan.
+- ~~**Qui són les corals i des de quan.**~~ — **`parcial` el 2026-09-19**: la
+  fitxa del [Govern d'Andorra](../../../raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt)
+  identifica **la Coral Rocafort** a Sant Julià i, a Ordino, **la Coral
+  Casamanya amb l'Escola de Música i el Grup Artístic**. L'entrevista de la
+  Coral Rocafort situa l'inici de les caramelles de Sant Julià **el 1962**;
+  **el corpus encara no té la data d'inici dels grups d'Ordino**.
 - Si hi ha caramelles documentades a l'arxiu abans del segle XX.
 
 ## Related
