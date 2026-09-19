@@ -368,7 +368,9 @@ contingut religiós** i **la inspecció espanyola controlant la resta**.
   formació andorrana—, que el Butlletí no publica amb el text.`
 - **El col·legi Meritxell dels benedictins (1931-1943)** i **els jesuïtes**: què
   hi van fer i per què van marxar.
-- **Quantes nenes** hi van passar, en total. La font diu «milers» i no compta.
+- ~~**Quantes nenes hi van passar, en total.**~~ — **`parcial` el 19-09-2026**:
+  la font només dona l’ordre de magnitud, **«milers»**, i no publica cap
+  recompte.
 - **Els «diferents centres escolars que van obrir (i alguns també van tancar)»**:
   la font insinua que n'hi va haver més dels cinc que enumera.
 - **La llengua abans dels setanta**: si s'hi ensenyava en castellà des del 1882,
