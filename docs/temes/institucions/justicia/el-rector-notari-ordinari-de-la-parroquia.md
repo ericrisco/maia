@@ -320,10 +320,11 @@ conserva i on.**
 3. **El decret episcopal atribuït a Andreu Capella**, en text. La divergència de
    dalt només es tanca amb **l'original**, no amb una còpia del *Llibre de
    privilegis*. `Requereix font externa: l'Arxiu Capitular de la Seu d'Urgell.`
-4. **Quan deixen els rectors de rebre actes a Andorra.** La sèrie documentada
-   acaba el **1788**; el corpus no sap si la pràctica va continuar al segle XIX
-   ni quan es va extingir. Brutails escriu el 1904 que **«els rectors redacten
-   els testaments ordinaris»** en present: **era viva quan ell escrivia**.
+4. ~~**Quan deixen els rectors de rebre actes a Andorra.**~~ — **`parcial` el
+   19-09-2026**: la sèrie documentada arriba fins al **1788** i Brutails escriu
+   el 1904 que **«els rectors redacten els testaments ordinaris»** en present;
+   la pràctica encara era viva aleshores, però el corpus no en pot fixar l’any
+   d’extinció.
 5. **Si els testaments closos dipositats als rectors es conserven**, i on.
    `Requereix font externa: els arxius parroquials.`
 6. **La sentència del 14 d'abril de 1888** sobre la *procura* privada, i **les
