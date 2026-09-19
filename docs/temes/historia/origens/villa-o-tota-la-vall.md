@@ -376,8 +376,13 @@ faisait l'Andorran*».**
     la biblioteca del comitè de legislació estrangera del ministeri de Justícia
     francès. `Requereix el text del Pariatge.`
     **Vénen per OCR.**
-11. **Si l'entrada dels drets a la casa de Foix es data el 1202, el 1206 o el
-    1208.** **Divergència oberta.**
+11. ~~**Si l'entrada dels drets a la casa de Foix es data el 1202, el 1206 o el
+    1208.**~~ — **`parcial` el 19-09-2026**: aquesta fitxa ja separa els fets
+    que donen les dates —**1202**, el casament d'Ermessenda amb Roger-Bernat II;
+    **1206**, la carta episcopal a favor d'Ermessenda—, mentre que el corpus ja
+    tenia **1208** com a entrada dels drets a la casa de Foix. **La divergència
+    queda identificada, però no es pot arbitrar sense establir si les fonts
+    daten el matrimoni, la carta o la successió efectiva.**
 12. ~~**Qualsevol atestació de «fer l'andorrà» anterior al 1904**, i **si és al
     DCVB o al DIEC2.**~~ — **`resolt` el 16-09-2026**, la meitat de diccionaris.
     **Al DCVB hi és** ([font](../../../fonts/dcvb.md)), s.v. `ANDORRÀ`: «**Fer

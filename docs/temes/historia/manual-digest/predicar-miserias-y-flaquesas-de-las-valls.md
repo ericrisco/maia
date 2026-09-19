@@ -308,7 +308,12 @@ més citades.**
    eclesiàstiques, aigües, herbes, pesca i entrada de ramats estrangers—, **el
    preàmbul, la conclusió i les confirmacions del 6 d'agost i del setembre de
    1433** (*L'Andorre*, pp. 30-33). **El text article per article encara falta.**
-4. **La data del Manual Digest: 1741 o 1748.** **Divergència oberta.**
+4. ~~**La data del Manual Digest: 1741 o 1748.**~~ — **`parcial` el
+   19-09-2026**: aquesta font hi posa **1741**, mentre que el corpus conserva
+   **1748** al títol de l'obra, a la fitxa pròpia i en altres referències del
+   mateix volum. **La divergència queda identificada, però no es tria cap data
+   sense establir si la font està datada per un manuscrit, una còpia o una
+   errata editorial.**
 5. **Si la còpia autèntica de 1879 és encara al ministeri de Justícia francès**,
    i **si es pot col·lacionar amb els exemplars d'Andorra.** **Prioritari**:
    **és la que van llegir tots dos autors francesos.**
