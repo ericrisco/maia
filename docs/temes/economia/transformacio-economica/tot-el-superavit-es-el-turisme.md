@@ -179,8 +179,9 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
   nota d'Andorra no comenta.
 - **Qui són els 8.124 milions de passius.** La PII els classifica per
   instrument, mai per país.
-- **Les notes A138 anteriors i posteriors.** **N'hi ha dues de localitzades**
-  —`20250123` i `20250731`— i **només s'ha llegit la segona.**
+- ~~**Les notes A138 anteriors i posteriors.**~~ — **`parcial` el 19-09-2026**:
+  **n'hi ha dues de localitzades** —`20250123` i `20250731`— i **només s'ha
+  llegit la segona**.
 
 ## Related
 
