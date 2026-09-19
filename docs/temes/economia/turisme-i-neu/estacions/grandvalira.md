@@ -30,7 +30,7 @@ Grau Roig** i **Soldeu El Tarter**. **La marca es va crear l'hivern del 2003.**
 | **1 de desembre del 1957** | **S'obre oficialment el primer remuntador del Pas de la Casa**, a tocar de la frontera francesa. L'empresa es deia **Teleesquís Viladomat** |
 | **1964** | **Primer remuntador a Soldeu**, amb **capital privat de les famílies Baró, Salvans i Torrallardona** |
 | **22 de novembre del 1967** | **Es crea SAETDE** — Societat Anònima d'Equipament Turístic-Esportiu de la Parròquia d'Encamp — **que gestionava dos remuntadors** |
-| **14 d'agost** *(la font no en dona l'any)* | **Francesc Viladomat i el Comú d'Encamp signen la fusió de les dues companyies** |
+| **Agost de 1968** | **SAETDE ratifica en assemblea extraordinària la compra de Teleesquís Viladomat**; la font conserva el dia **14 d'agost** per a la signatura de la fusió ([Turiski](../../../../fonts/turiski-francesc-viladomat-2007.md)) |
 | 1985 | **Primers canons de neu**, al Pas de la Casa - Grau Roig |
 | 1997 | **Primer telecadira desembragable de sis places dels Pirineus** |
 | 1999 | **S'inaugura el Funicamp** —**una gòndola de 6.137 metres**—, que converteix Encamp en peu de pistes |
@@ -39,9 +39,11 @@ Grau Roig** i **Soldeu El Tarter**. **La marca es va crear l'hivern del 2003.**
 
 ## El fet estructural: un privat es fusiona amb el comú
 
-> **Francesc Viladomat va posar el telesquí el 1956 amb capital propi.** **Onze
-> anys després, la seva companyia es va fusionar amb la societat del Comú
-> d'Encamp.**
+> **Francesc Viladomat va posar el telesquí el 1956 amb capital propi.** **El
+> reportatge de Turiski documenta que l'agost de 1968 SAETDE va ratificar la
+> compra de Teleesquís Viladomat**, després d'haver estat creada el **22 de
+> novembre de 1967**. **Viladomat va rebre el 25 % de la societat** i després en
+> va anar comprant accions fins a reunir-ne la majoria.
 
 **El corpus ho subratlla perquè és la forma andorrana que ja ha documentat a
 altres branques**: **no és privatització ni nacionalització, és una societat
@@ -93,10 +95,11 @@ Andorra.**
 ## El que falta
 
 - ~~**L'any de la fusió** entre Viladomat i el Comú d'Encamp.~~ — **`parcial` el
-  19-09-2026**: la cronologia situa la fusió **onze anys després de la creació
-  de SAETDE el 1967**, és a dir, **1978** (càlcul del corpus), i la font en dona
-  el dia i el mes (**14 d'agost**). **Encara falta una font que imprimeixi la
-  data completa**, perquè la referència consultada no hi posa l'any.
+  22-09-2026**: el reportatge de [Turiski](../../../../fonts/turiski-francesc-viladomat-2007.md)
+  fixa **l'agost de 1968** per a la ratificació de la compra de Teleesquís
+  Viladomat per SAETDE, i la font que ja donava el dia conserva el **14
+  d'agost**. **Queda oberta només la prova que totes dues referències descriuen
+  exactament el mateix acte i no dues fases de la integració.**
 - **Qui són les famílies Baró, Salvans i Torrallardona**, que van posar el
   capital de Soldeu el 1964.
 - **Quanta gent hi treballa, i quants són temporers.** Vegeu

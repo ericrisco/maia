@@ -38,7 +38,7 @@ xifres segueixen faltant.**
 | **1 de desembre del 1957** | **Primer remuntador del Pas de la Casa** |
 | 1964 | Primer remuntador a **Soldeu**, amb capital privat |
 | **22 de novembre del 1967** | **Es crea SAETDE**, societat de la parròquia d'Encamp |
-| — | **Viladomat i el Comú d'Encamp fusionen les dues companyies** |
+| **Agost de 1968** | **SAETDE ratifica la compra de Teleesquís Viladomat**; la cronologia conserva el **14 d'agost** com a dia de la fusió |
 | **1973** | **Josep Serra crea Arinsal**, i l'ha de cedir al Comú de la Massana per diners |
 | **1983** | **Iniciativa pública**: es creen **Pal** i **Ordino Arcalís** |
 | 1985 | **Primers canons de neu** |
@@ -81,8 +81,9 @@ anglesos».**
   consultat.** **Segueix sent el buit principal.**
 - ~~**L'any de la fusió** entre Viladomat i el Comú d'Encamp.~~ — **`resolt`
   el 19-09-2026** com a buit duplicat: el buit canònic continua a
-  [Grandvalira](./grandvalira.md), que conserva la dada disponible (14 d'agost)
-  i declara obert l'any.
+  [Grandvalira](./grandvalira.md), que ara conserva **agost de 1968** i el dia
+  **14 d'agost**, amb la reserva sobre si les dues fonts descriuen la mateixa
+  fase de la integració.
 - ~~**Naturland**, a Sant Julià de Lòria, que la font esmenta i el corpus no
   ha mirat.~~ — **`resolt` el 18-09-2026**: [Naturland: el parc que ha perdut
   vint milions](./naturland.md). **Gairebé vint milions de pèrdues en catorze
