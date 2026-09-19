@@ -121,8 +121,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    Tecnificació Esportiva d'Ordino
    ([font](../../fonts/facc-paddleworldwide.md)). **L'any de fundació
    segueix sense trobar-se.**
-2. **Com s'entrena i on.** El Parc Olímpic del Segre? Hi ha instal·lacions a
-   Andorra?
+2. ~~**Com s'entrena i on.** El Parc Olímpic del Segre? Hi ha instal·lacions a
+   Andorra?~~ — **`parcial` el 19-09-2026**: la fitxa ja situa el **Parc Olímpic
+   del Segre, a la Seu d'Urgell**, com el canal on es fan les aigües braves que
+   explica la seva formació. El règim d'entrenament concret i les instal·lacions
+   que utilitza a Andorra encara no consten.
 3. ~~**Els seus resultats complets** de Copa del Món.~~ — **`parcial` el
    18-09-2026**: **bronze en K1 individual i bronze en kayak cross a la
    Copa del Món de la Seu d'Urgell (2026)**, a més de la plata mundial
