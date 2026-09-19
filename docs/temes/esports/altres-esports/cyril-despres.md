@@ -70,13 +70,13 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
   mundials (2003 i 2009)** i **no esmenta Andorra en cap resultat.**
   **El corpus no en dedueix que no ho hagi fet mai**: **deixa escrit que la
   seva pròpia font no en documenta cap.**
-- **El palmarès sencer, que la fitxa no tenia**: **cinc Dakar en moto amb KTM
-  —2005, 2007, 2010, 2012 i 2013—**, **tres Red Bull Romaniacs (2004, 2005,
-  2007)**, **dos Erzberg Rodeo (2002 i 2003)**, **quatre Rallye du Maroc**,
-  **i, ja com a pilot de cotxe amb Peugeot, el Silk Way Rally del 2016 i del
-  2017.** **El 2015 va passar de la moto al cotxe** dins de l'equip Peugeot,
-  **al costat de Carlos Sainz i Stéphane Peterhansel**, i **va acabar 34è el
-  primer any i 7è el segon.**
+- ~~**Palmarès ampliat**~~ — **`parcial` el 19-09-2026**: el bolcat propi ja
+  permet documentar **cinc Dakars en moto amb KTM (2005, 2007, 2010, 2012 i
+  2013)**, **tres Red Bull Romaniacs (2004, 2005 i 2007)**, **dos Erzberg
+  Rodeo (2002 i 2003)**, **quatre Rallye du Maroc**, el pas a Peugeot el 2015
+  amb Carlos Sainz i Stéphane Peterhansel, i les posicions **34è el 2015 i
+  setè el 2016**. Els anys dels quatre Rallye du Maroc i la resta de resultats
+  encara no consten en la font llegida.
 - **Quants esportistes d'elit resideixen a Andorra**, que és una dada que el
   país publica i el corpus no té.
 
