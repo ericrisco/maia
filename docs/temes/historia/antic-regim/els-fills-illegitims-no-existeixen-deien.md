@@ -206,8 +206,10 @@ la consciència](../../institucions/justicia/nul-per-al-jutge-valid-per-a-la-con
    nomenament el podia demanar algú altre que un capellà.**~~ — **`parcial` el
    18-09-2026**: **els dos casos del corpus els presenten un rector i un vicari
    perpetu**, però **no hi ha una sèrie ni un cas demanat per un altre actor**.
-6. **Com es feia públic l'anunci als creditors**: **pregó, edicte, o paraula**.
-   **La font diu «porten el fet a coneixement del públic» i no diu com.**
+6. ~~**Com es feia públic l'anunci als creditors**: **pregó, edicte, o paraula**.~~
+   — **`parcial` el 2026-09-19**: **la font només diu que «porten el fet a
+   coneixement del públic»**. **Confirma la publicitat de l'anunci, però no el
+   mitjà material amb què es feia.**
 7. ~~**Si els fills es repartien realment per porcions iguals** en les successions
    *ab intestat*.~~ — **`parcial` el 18-09-2026**: **el corpus té un cas de
    1783 en què un batlle va evitar la partició i ho va atribuir tot a un sol
