@@ -342,8 +342,13 @@ diversitat lingüística de l'aula.
   annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
-  El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
-  resol aquesta absència històrica. `Requereix una cerca per data, no per frase.`
+  **`Parcial` el 19-09-2026**: el corpus ja identifica el programa actual de
+  ciències humanes i socials de batxillerat de Formació Andorrana, aprovat pel
+  **Decret 438/2025, del 3-12-2025**, amb entrada en vigor l'**1-09-2026**
+  ([text local del decret](../../../raw/societat/formacio-andorrana/decret-438-2025-ciencies-humanes-batxillerat.txt)).
+  L'annex curricular encara no s'ha recuperat, i això no resol l'absència
+  històrica de 1999 ni la previsió de 2003-04. `Requereix una cerca per data,
+  no per frase.`
 - **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
   que són els que fixen hores i condicions, **no s'han vist**.
 - ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'havia
