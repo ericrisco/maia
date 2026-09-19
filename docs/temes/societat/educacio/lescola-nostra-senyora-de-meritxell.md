@@ -361,10 +361,10 @@ n'afegeix la forma.`
 - ~~La data exacta de creació i qui la funda~~ — **tancat**: **1970**, per
   famílies afectades, particulars i **Càritas**; activitats des del **1972** amb
   **set alumnes**.
-- **El patronat rector**: qui el forma, si és privat, públic o mixt. **Segueix
-  obert** — la font hi remet constantment i no el descriu. **El que sí que se
-  sap des del 2026-09-18 és com es finança**: **13.370.368,00 € del pressupost
-  del 2026**, repartits en tres programes de tres àmbits diferents, a dalt.
+- ~~**El patronat rector**~~ — **`parcial` el 19-09-2026**: la font hi remet
+  constantment però no descriu qui el forma ni si és privat, públic o mixt. El
+  que sí que se sap és com es finança: **13.370.368,00 € del pressupost del
+  2026**, repartits en tres programes de tres àmbits diferents, a dalt.
 - ~~**Els gràfics d'evolució i de distribució per edats i sexe** de la ponència: són imatges i l'OCR els destrueix.~~ — **`parcial` el 18-09-2026**: **renderitzats i llegits**, vegeu [Els tres gràfics de la ponència](#els-tres-grafics-de-la-ponencia-llegits-el-18-09-2026). **La distribució per origen de la discapacitat es recupera sencera i calibrada** (~54 genètiques, ~53 neurològiques, ~40 psiquiàtriques, ~30 inespecífics, ~11 metabòliques i ~4 de cada de les tres sensorials, suma ~200). `El que NO es recupera: les xifres absolutes del gràfic per sexe —només la proporció, uns 56% d'homes— i cap dada del gràfic per edats, que en aquesta edició no hi és.`
 - ~~**Si el conveni nou anunciat el 2000 es va signar.**~~ — **`resolt` el
   17-09-2026**: **no consta**, i **no calia**: el del 1995 és de durada
