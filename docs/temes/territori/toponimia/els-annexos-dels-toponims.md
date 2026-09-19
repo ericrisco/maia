@@ -285,10 +285,39 @@ selecció, i **la sèrie documental dels noms més importants del país.**
 topònims **«són francament opacs a la vista del basc actual»**. **Aquesta fitxa
 recull hipòtesis amb la seva prova i el seu contra-argument, no resultats.**
 
+## Els antecedents etimològics, llegits
+
+Les **37 pàgines** d'«Antecedents etimològics» són el buidat de la preselecció
+de **174 topònims** andorrans i de la vall de la Valira sospitosos de conservar
+arrels preromanes. No és una segona llista de fitxes: és el dossier de treball
+que explica per què cada nom va passar el segon filtratge i quina discussió
+etimològica hi havia abans de la feina de camp.
+
+La llegenda classifica cada entrada segons l'estat de la proposta: **no analitzat
+per Coromines**, **preromà segons Coromines** (sense que això impliqui que sigui
+bascoide), **hídrid preromà-llatí o català**, **híbrid romano-basc**, **llatí,
+català, expressiu o nom propi**, i **onomatopeia**. Quan Coromines ha analitzat
+el topònim, l'annex en transcriu el fragment explicatiu i l'argument lingüístic;
+en molts casos hi afegeix Anglada (1993), el DCVB o altres autors.
+
+El criteri de descart també queda explícit: alguns noms cauen perquè l'observació
+fisiogràfica els explica millor des del català o el llatí; d'altres perquè el lloc
+és remot i no té paral·lels, o perquè la sèrie documental és massa curta. Els
+exemples llegits mostren la gradació de la font: **Aixirivall** conserva diverses
+hipòtesis (cèltica i bascoide *ZIRI-ZABAL*), **Aixovall** es relaciona amb
+*zabal* «ample» i amb el punt on la vall s'eixampla, i per **Andorra** Coromines
+renuncia a una etimologia última mentre Anglada proposa *ando/andí* + *iturri-a*
+«font important», amb l'argument de les aigües termals d'Escaldes. El dossier,
+per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
+
 ## El que falta
 
-- **Les 37 pàgines d'«Antecedents etimològics»** (Coromines i Anglada,
-  recollits pels autors). `Localitzades i no buidades.`
+- ~~**Les 37 pàgines d'«Antecedents etimològics»** (Coromines i Anglada,
+  recollits pels autors).~~ — **`resolt` el 19-09-2026**: buidatge estructural
+  complet de la preselecció de **174 topònims**, la llegenda de sis categories,
+  el criteri de descart i les aportacions de Coromines, Anglada i el DCVB. No es
+  transcriuen les 37 pàgines línia per línia; es conserva el PDF i se'n dona el
+  contingut verificable.
 - ~~**Les 52 fitxes sense atestació documental**, que són les que porten
   **descripció fisiogràfica de detall**.~~ — **`resolt` el 18-09-2026**:
   **[Les cinquanta-dues fitxes sense document](#les-cinquanta-dues-fitxes-sense-document)**,
