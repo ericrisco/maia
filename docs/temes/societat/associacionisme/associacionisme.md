@@ -60,10 +60,13 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
 - Les **colles de falles**, que organitzen un Patrimoni Immaterial de la
   Humanitat ([falles](../../costums/falles/falles.md)).
 - Les **entitats de festa major** parròquia per parròquia.
-- L'**associacionisme de la immigració**: amb un **54,7 %** de població
+- ~~L'**associacionisme de la immigració**: amb un **54,7 %** de població
   estrangera i el **portuguès** com a tercera llengua materna, hi ha
-  necessàriament teixit associatiu de comunitats — **i el corpus no en diu res**.
-  **Buit registrat, prioritari**, perquè és mitja població.
+  necessàriament teixit associatiu de comunitats — **i el corpus no en diu res**.~~
+  — **`parcial` el 2026-09-19**: [les comunitats](../immigracio/les-comunitats.md)
+  ja documenten l'**Associació de Dones Migrants d'Andorra** i l'**Associació de
+  Residents Marroquins**, entre altres ponències. **Encara falta el cens
+  sistemàtic d'associacions de cada comunitat, amb dates i activitat.**
 - Els **sindicats** i les patronals.
 - Les entitats de **caça, pesca i muntanya**, que en un país així pesen.
 
