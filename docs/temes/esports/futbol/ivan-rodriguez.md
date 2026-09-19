@@ -60,7 +60,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Si arriba a l'absoluta.**
+- ~~**Si arriba a l'absoluta.**~~ **[parcial · 2026-09-19]** La taula només
+  documenta **3 partits amb l'U17 i 3 amb l'U19** fins a la instantània
+  disponible; no hi ha cap partit amb l'absoluta, però el corpus no pot predir
+  si hi arribarà.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

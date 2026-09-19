@@ -65,11 +65,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus dotze partits** i ~~si segueix cedit~~. — **`parcial` el
-  2026-09-18**: **sí que segueix cedit.** **La plantilla del
-  [FC Andorra](./clubs-i-competicions/fc-andorra.md) de l'1 de setembre del 2026
-  el dona cedit al CD Mirandés fins al 30 de juny del 2027.** **És un dels tres
-  andorrans del club, i tots tres són fora.**
+- ~~**Els seus dotze partits** i **si segueix cedit**.~~ **[parcial ·
+  2026-09-19]** La taula confirma **12 partits amb l'U21** i **11 amb
+  l'absoluta**; el detall de rivals i dates continua absent. **Sí que segueix
+  cedit**: la plantilla de l'1 de setembre del 2026 el dona al **CD Mirandés
+  fins al 30 de juny del 2027**.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

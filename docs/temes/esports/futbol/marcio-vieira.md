@@ -72,8 +72,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **Quin era el seu primer club** portuguès, i què vol dir que l'A.D. Marco 09
-  en va sorgir «de les cendres».
+- ~~**Quin era el seu primer club** portuguès, i què vol dir que l'A.D. Marco 09
+  en va sorgir «de les cendres».~~ **[parcial · 2026-09-19]** La taula
+  identifica el primer club com **Marco (2002-2006)** i la font diu que l'A.D.
+  Marco 09 va sorgir de les cendres d'aquell primer club; encara no hi ha la
+  història completa de la refundació.
 - ~~**Els seus dos gols.** — **`obert`**: **el bolcat no en porta taula**, només
   el compte a la fitxa de selecció (taula de dalt).~~ — **`resolt`**: [la fitxa
   de la selecció](./la-seleccio.md) ja en dona el recompte de **2 gols** per a

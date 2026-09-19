@@ -55,7 +55,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Si va jugar mai amb Andorra**, i quantes temporades hi porta.
+- ~~**Si va jugar mai amb Andorra**, i quantes temporades hi porta.~~
+  **[parcial · 2026-09-19]** La fitxa el descriu com a jugador mexicà i no
+  documenta cap internacionalitat amb Andorra; la carrera de club mostra **nou
+  etapes al país entre 2015 i 2026**, però això no prova que no hi hagi jugat
+  mai ni resol el recompte de temporades que demanava el buit.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
