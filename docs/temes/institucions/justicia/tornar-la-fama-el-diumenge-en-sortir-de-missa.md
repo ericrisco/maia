@@ -281,9 +281,10 @@ fet:**
    `Requereix comprovació etnogràfica.` **Prioritari.**
 6. **Si el costum del ball —cedir la parella a qui la demana— consta en cap
    norma escrita.** **La font el descriu i li atribueix un motiu «sens dubte».**
-7. **Quan i per quina norma es van abandonar la marca, la mutilació,
-   l'estenallament i la fustigació.** **La font diu que Andorra hi ha renunciat i
-   no data la renúncia.**
+7. ~~**Quan i per quina norma es van abandonar la marca, la mutilació,
+   l'estenallament i la fustigació.**~~ — **`parcial`, actualitzat el 2026-09-19**:
+   la font de **1904** afirma que **Andorra ja hi havia renunciat**. **Segueixen
+   obertes la data de la renúncia i la norma que la va establir.**
 8. **Si és cert que el copríncep espanyol va refusar de participar en
    l'administració de la justícia el 1868.** **El corpus ho té **per una
    atribució a l'obra de M. Moras**, no per document.** **Prioritari.**
