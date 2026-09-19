@@ -27,8 +27,8 @@ país»**.
 > **La font la qualifica de «una de les figures més importants de la història
 > d'Andorra».**
 
-**El corpus no tenia el seu nom.** **Buit tancat parcialment, i obert de nou:
-d'ella no en sap res més que això.**
+**El corpus no tenia el seu nom.** La fitxa pròpia de [Júlia Bonet i
+Fité](../../../persones/julia-bonet-fite.md) ja en documenta la biografia.
 
 ## El context que la font hi posa
 
@@ -58,11 +58,12 @@ canvis dràstics.**
 
 ## El que falta
 
-- **Tot de Júlia Bonet**: quan va néixer, d'on era, quan va morir. **Fitxa de
-  persona pendent, i prioritària**: **és de les poques dones empresàries que el
-  corpus documenta, i la font la posa entre les figures més importants del
-  país.**
-- **Quan la perruqueria passa a ser perfumeria.**
+- ~~**Tot de Júlia Bonet**: quan va néixer, d'on era, quan va morir.~~ —
+  **`resolt`, confirmat el 19-09-2026**: fitxa pròpia amb les dates 1922–2011,
+  l'activitat empresarial i la creació del museu.
+- ~~**Quan la perruqueria passa a ser perfumeria.**~~ — **`parcial`, confirmat
+  el 19-09-2026**: la primera perfumeria és de 1969 i Perfumeries Júlia es
+  funda el 1987; la transició interna del negoci no queda descrita any per any.
 - **Si Perfumeries Júlia segueix sent familiar.**
 
 ## Related
