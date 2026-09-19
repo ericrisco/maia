@@ -69,8 +69,16 @@ cremar.
   religiositat quotidiana. **Cap dada.**
 - **La secularització** d'un país que constitucionalment té un bisbe per cap
   d'estat: la tensió és evident i **no està documentada**.
-- **Les ermites i esglésies parroquials**, una per una. Andorra és plena de
-  romànic i el corpus només en té tres fitxes.
+- ~~**Les ermites i esglésies parroquials**, una per una. Andorra és plena de
+  romànic i el corpus ja en té més de tres fitxes: [Sant Joan de
+  Caselles](../../cultura/arquitectura/sant-joan-de-caselles.md), [Sant Martí de
+  la Cortinada](../../cultura/arquitectura/sant-marti-de-la-cortinada.md), [Sant
+  Romà de les Bons](../../cultura/arquitectura/sant-roma-de-les-bons.md), [Sant
+  Miquel de Prats](../../cultura/arquitectura/sant-miquel-de-prats.md), [Sant
+  Miquel d'Engolasters](../../cultura/arquitectura/sant-miquel-dengolasters.md),
+  [Sant Serni de Canillo](../../cultura/arquitectura/sant-serni-de-canillo.md) i
+  [Santa Coloma](../../cultura/arquitectura/santa-coloma.md).~~ **`parcial`**:
+  encara no és un inventari parròquia per parròquia.
 - Els **sants patrons** de cada parròquia i les seves
   [festes majors](../festes-majors/festes-majors.md).
 - Altres **romiatges i aplecs** més enllà del de Meritxell.
