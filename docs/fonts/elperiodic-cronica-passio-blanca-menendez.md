@@ -19,12 +19,10 @@ abast: >
 
 ## Què hi busca el corpus
 
-**Àlvar Menéndez**, l'últim dels cinc noms sense fitxa d'
-[els anys daurats](../temes/historia/historia-recent/els-anys-daurats.md)
-— ja citat com a **enginyer de FHASA i fundador de l'Esquí Club
-Andorrà (1932)** a
-[fhasa.md](../temes/economia/energia-i-serveis/fhasa.md), però sense
-fitxa pròpia.
+**Àlvar Menéndez**, l'últim dels cinc noms que havien quedat sense fitxa a
+[els anys daurats](../temes/historia/historia-recent/els-anys-daurats.md).
+La fitxa pròpia ja recull que era **enginyer de FHASA i fundador de l'Esquí
+Club Andorrà (1932)**, i aquesta crònica n'aporta la cronologia de l'esquí.
 
 ## Què en treu
 

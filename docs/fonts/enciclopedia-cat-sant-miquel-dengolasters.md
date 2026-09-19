@@ -19,8 +19,8 @@ abast: >
 
 ## Què hi busca el corpus
 
-**La tercera de les tres esglésies romàniques «sense fitxa»** de
-l'[índex del romànic andorrà](../temes/cultura/arquitectura/romanic.md).
+**La font que completa la cobertura de les esglésies romàniques** de
+l'[índex del romànic andorrà](../temes/cultura/arquitectura/romanic.md), que ara ja en té les sis fitxes.
 
 ## Què en treu
 

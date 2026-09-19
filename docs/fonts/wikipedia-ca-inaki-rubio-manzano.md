@@ -17,8 +17,8 @@ abast: >
 
 ## Què hi busca el corpus
 
-**«Iñaki Rubio Manzano, escriptor andorrà sense fitxa»** — el corpus
-el tenia només documentat de passada, a
+**«Iñaki Rubio Manzano, escriptor andorrà»** — aquesta font conserva la dada
+biogràfica i bibliogràfica que completa la fitxa pròpia del corpus, a
 [mort qui t'ha mort](../temes/institucions/justicia/mort-qui-tha-mort.md).
 
 ## Què en treu

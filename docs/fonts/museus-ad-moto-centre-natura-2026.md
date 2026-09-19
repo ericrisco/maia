@@ -24,8 +24,7 @@ notes: >
 
 ## Què hi busca el corpus
 
-**Descriure el Museu de les Dues Rodes i el Centre de Natura de la Cortinada**,
-que la història esmentava sense fitxa pròpia a [els altres museus](../temes/cultura/museus-i-arxius/museus/els-altres-museus.md).
+**Completar la cobertura del Museu de les Dues Rodes i del Centre de Natura de la Cortinada**, que la història esmentava a [els altres museus](../temes/cultura/museus-i-arxius/museus/els-altres-museus.md).
 
 ## Què en treu
 

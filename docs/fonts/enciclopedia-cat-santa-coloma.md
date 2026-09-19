@@ -19,9 +19,9 @@ abast: >
 
 ## Què hi busca el corpus
 
-**La primera de les dues esglésies romàniques encara «sense fitxa»**
+**La font que completa la cobertura de les esglésies romàniques**
 de l'[índex del romànic andorrà](../temes/cultura/arquitectura/romanic.md)
-— l'església que dona nom al **Mestre de Santa Coloma**, l'autor també
+— una església que dona nom al **Mestre de Santa Coloma**, l'autor també
 de les pintures de
 [Sant Miquel d'Engolasters](../temes/cultura/arquitectura/sant-miquel-dengolasters.md).
 

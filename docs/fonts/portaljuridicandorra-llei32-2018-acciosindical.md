@@ -18,9 +18,9 @@ abast: >
 
 ## Què hi busca el corpus
 
-**El Consell Econòmic i Social, citat a
-[treballar de temporada](../temes/societat/treball/treballar-de-temporada.md)
-i segueix sense fitxa al corpus.**
+**El Consell Econòmic i Social**, citat a
+[treballar de temporada](../temes/societat/treball/treballar-de-temporada.md), que
+ara ja té una fitxa pròpia basada en aquesta llei.
 
 ## Què en treu
 

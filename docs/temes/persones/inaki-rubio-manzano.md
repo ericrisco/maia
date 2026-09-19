@@ -15,7 +15,7 @@ tags: [persones, cultura, literatura, justicia]
 
 ## El fet
 
-**El corpus el citava com «escriptor andorrà sense fitxa»**, documentat
+**El corpus primer el citava com «escriptor andorrà sense fitxa»**, documentat
 només de passada a
 [mort qui t'ha mort](../institucions/justicia/mort-qui-tha-mort.md).
 **El motiu que el fa rellevant és més gran del que semblava**: és

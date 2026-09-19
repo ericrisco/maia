@@ -21,7 +21,7 @@ abast: >
 
 ## Què hi busca el corpus
 
-**El Tribunal Constitucional**, citat al corpus sense fitxa pròpia.
+**El Tribunal Constitucional**, que el corpus ja té en una fitxa pròpia basada en la llei orgànica i que aquesta font permet contrastar.
 
 ## Què en treu
 

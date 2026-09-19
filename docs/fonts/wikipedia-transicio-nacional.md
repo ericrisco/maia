@@ -34,8 +34,8 @@ notes: >
 
 **Sisena aplicació de la lliçó de mètode del mateix dia.** **El corpus tenia
 [la Constitució de 1993](../temes/historia/constitucio-1993/constitucio-1993.md)
-amb «el resultat exacte del referèndum» com a buit declarat**, i **tenia la
-Reformeta esmentada sense fitxa.**
+amb «el resultat exacte del referèndum» com a buit declarat**, i **la Reformeta
+ja té una secció pròpia a [la Transició Nacional](../temes/historia/historia-recent/la-transicio-nacional.md).**
 
 ## El que aquesta font permet dir per primer cop
 
