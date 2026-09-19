@@ -75,10 +75,11 @@ els límits del recurs d’empara.
   reproducció en aquesta sentència constitucional.
 - No s’ha localitzat i llegit la resolució de la Sala posterior a aquesta
   anul·lació. No es dona per comprovada la classificació actual de la finca.
-- La còpia del portal del Tribunal s’ha llegit íntegra. Al BOPA s’han
-  rellegit capçalera, antecedents 1.1–1.8, fonaments 3.1–3.6 i decisió
-  1–5; pàgines 8–9 contrastades visualment. No s’han rellegit íntegrament
-  al PDF els arguments 2.1–2.4 ni s’han comparat automàticament les còpies.
+- ~~Lectura de la sentència al portal i al BOPA~~ — **`parcial` el 19-09-2026**:
+  la còpia del portal del Tribunal s’ha llegit íntegra. Al BOPA s’han rellegit
+  capçalera, antecedents 1.1–1.8, fonaments 3.1–3.6 i decisió 1–5; pàgines 8–9
+  contrastades visualment. No s’han rellegit íntegrament al PDF els arguments
+  2.1–2.4 ni s’han comparat automàticament les còpies.
 - L’aute d’admissió del 27 d’abril de 2026 s’ha identificat però no
   s’ha llegit. Aquesta lectura no resol el buit sobre l’article 117.8
   de la LGOTU i la suspensió cautelar de plans nacionals o sectorials,
