@@ -155,21 +155,38 @@ L'Escola Universitària d'Infermeria es crea per **decret de 4 d'agost de 1988**
 del 1988» per a l'obertura de portes. **No es contradiuen: decret a l'agost,
 portes a l'octubre.**
 
-## Les xifres del personal, i el que no se'n pot dir
+## Les xifres del personal
 
-L'annex 3 de la mateixa ponència dona els efectius d'ensenyants. **El corpus
-només en pot retenir el total, perquè el quadre del PDF està mal reconegut per
-l'OCR i les etiquetes no quadren amb les xifres.**
+L'annex 3 de la mateixa ponència dona els efectius d'ensenyants, equips
+directius i personal no docent. El text OCR conservat permet llegir el quadre i
+contrastar-ne el total ([evidència local](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt),
+annex 3, p. 36 de la ponència).
 
-| Dada | Valor |
-| --- | --- |
-| **Total efectius docents** (tots els sistemes) | **981** |
-| Alumnes ([el mapa escolar](./el-mapa-escolar-del-2000.md)) | **9.363** |
-| **Ràtio** | **un docent per cada 9,5 alumnes** |
+| Personal docent | Efectius |
+| --- | ---: |
+| Ensenyament congregacional | 144 |
+| Ensenyament francès | 243 |
+| Ensenyament espanyol | 114 |
+| Escola Especialitzada Nostra Senyora de Meritxell | 22 |
+| Ensenyants del Ministeri | 124 + 3 eventuals |
+| Ensenyants de l'Escola Andorrana | 249 + 10 eventuals |
+| Escola d'Informàtica | 15 |
+| Centre d'Estudis Virtuals | 3 |
+| Escola d'Infermeria | 45 |
+| Escola de Formació de Professions Esportives i de Muntanya | 22 |
+| **Total estructural** | **981** |
 
-**El desglossament per sistema no es transcriu perquè no es pot llegir amb
-seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
-**Buit registrat: recuperar l'annex 3 de l'original.**
+Els equips directius sumen **3** de les escoles congregacionals, **26** de
+l'ensenyament francès, **9** de l'espanyol, **2** de Meritxell, **18** de les
+escoles andorranes, **4** de l'Escola d'Informàtica i el Centre d'Estudis
+Virtuals, **4** de l'Escola d'Infermeria, **13** directors, caps i inspectors del
+Ministeri i **2** de l'Escola de Formació de Professions Esportives i de
+Muntanya. El mateix annex compta **112 ajudants de mestre, 23 conserges i 22
+associacions de pares** com a personal vari.
+
+Amb els **9.363 alumnes** que la fitxa ja documentava al mapa escolar, el total
+estructural dona aproximadament **un docent per cada 9,5 alumnes**; els eventuals
+es mantenen separats perquè l'annex els afegeix només en dues línies.
 
 ## Buits registrats
 
@@ -252,7 +269,10 @@ seguretat.** El corpus prefereix un total sòlid a un desglossament inventat.
   l'article 14.4.`
 - **El decret d'avaluació del sistema educatiu (36)**: si Andorra s'avalua a si
   mateixa, els resultats existeixen.
-- **L'annex 3 sencer**, amb els docents per sistema.
+- ~~**L'annex 3 sencer**, amb els docents per sistema.~~ — **`resolt` el
+  19-09-2026**: transcrit des de l'annex 3 de la ponència, amb **981 efectius
+  docents estructurals**, **13 eventuals** separats, el desglossament per
+  sistema, equips directius i personal vari.
 - ~~**La Llei de guarderies infantils (1995)** i el seu reglament: el corpus no
   té res sobre primera infància.~~ `resolt` el 17-09-2026:
   [Les guarderies](./les-guarderies.md).
