@@ -77,9 +77,10 @@ la mateixa arrel que **[Claudina Rossel](../esqui/esquiadors/claudina-rossel.md)
   d'agost del 2012**: **el bolcat no pot respondre-ho.**
 - ~~**El seu palmarès als Jocs dels Petits Estats.**~~ — **`obert`, confirmat, i el
   motiu és de font**: **el bolcat no té taula de competicions ni medaller.**
-- **Un fet que la fitxa no tenia**: **era la participant més jove de tota la
-  competició d'atletisme dels Jocs de Londres.** **Nascuda l'1 d'octubre del
-  1996 a Andorra la Vella**: **quinze anys i deu mesos.**
+- ~~**Participant més jove de l’atletisme a Londres 2012**~~ — **`resolt` el
+  19-09-2026**: el bolcat propi confirma que, nascuda l’1 d’octubre de 1996 a
+  Andorra la Vella, tenia **quinze anys i deu mesos** i era la participant més
+  jove de tota la competició d’atletisme dels Jocs.
 
 ## Related
 
