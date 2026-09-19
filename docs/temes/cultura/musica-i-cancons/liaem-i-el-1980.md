@@ -134,7 +134,9 @@ I el consell concret als pares: **que no hi portin els fills a disgust**, i que
 
 1. **Els orfeons, corals i esbarts** anteriors al 1980. **Prioritari** — és on
    viu la música popular.
-2. **Quina és l'orquestra professional de cambra** i quan es crea.
+2. ~~**Quina és l'orquestra professional de cambra** i quan es crea.~~ —
+   **`parcial` el 19-09-2026**: el cos de la fitxa ja documenta que **cap al 2000
+   Andorra en tenia una**, però no n'identifica el nom ni la data de creació.
 3. **El cor de petits cantors.**
 4. **El repertori**: es fa música andorrana? n'hi ha?
 5. **Mestre Roure** i l'esbart-orfeó d'Andorra la Vella
