@@ -89,8 +89,9 @@ p. 1, advertiment, i p. 7.)
 
 ## Buits registrats
 
-- No s'han llegit les p. 2–6 i 9–11 de la nota mensual. Aquesta lectura cobreix
-  el resum, la comparació dels recomptes i les definicions; no tota la publicació.
+- ~~Lectura de les p. 2–6 i 9–11 de la nota mensual~~ — **`parcial` el
+  19-09-2026**: la lectura cobreix el resum, la comparació dels recomptes i les
+  definicions, però no tota la publicació.
 - No s'han consultat expedients de depuració ni recomptes d'altes i baixes
   que expliquin separadament el canvi anual d'Encamp i la Massana.
 - La metodologia llegida s'identifica amb el Pla d'estadística 2022–2025,
