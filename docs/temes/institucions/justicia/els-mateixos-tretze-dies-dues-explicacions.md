@@ -268,9 +268,10 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
    fundava**, **qui el discutia** i **si era d'un any exacte.**
 4. **Si el jutge d'apel·lacions va jutjar mai sense anar a Andorra**, i **com es
    complia l'obligació de pronunciar en territori andorrà.**
-5. **La sèrie de jutges d'apel·lacions.** **El corpus en té dos noms i una data**:
-   **Odon Estanol**, mort el **1891**, i **Germain Sicart**, nomenat per França
-   aquell any.
+5. ~~**La sèrie de jutges d'apel·lacions.**~~ — **`parcial`, actualitzat el
+   2026-09-19**: la fitxa identifica **Odon Estañol**, que va morir el **1891**,
+   i **Germain Sicart**, nomenat per França aquell any. **No hi ha encara la
+   sèrie completa de titulars ni les dates de tots els nomenaments.**
 6. **Quants notables consultava un batlle** — **`obert`, sense xifra.** **Si la
    pràctica deixava rastre**: **`resolt`, per definició, no**: la font diu que
    el consell **no pot tenir cap influència oficial.**
