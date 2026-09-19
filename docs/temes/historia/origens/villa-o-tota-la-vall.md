@@ -360,8 +360,13 @@ faisait l'Andorran*».**
    que **s'aplica a propietats *in Urgello* i no a Andorra.** **Nova.**
 8. **El testament de Guillem Guitard de Caboet de 1110** i **l'acte de
    reconeixement de 1150.** **Nous.**
-9. **La llista dels altres béns cedits pel mateix acte del 843** al Rosselló, el
-   Conflent i la Cerdanya. **Comprovaria l'argument estructural de la font.**
+9. ~~**La llista dels altres béns cedits pel mateix acte del 843** al Rosselló,
+   el Conflent i la Cerdanya.~~ — **`parcial`, confirmat el 19-09-2026**: la
+   prosa de Vilar ja identifica aquests **tres àmbits territorials** com els
+   altres llocs que l'acta també cediria, i fa servir aquesta estructura per
+   discutir que Andorra fos una cessió sobirana aïllada. **La font no enumera,
+   però, cada bé o topònim concret**; la llista exhaustiva i la consulta de
+   l'acte de 843 continuen obertes.
 10. ~~**Els noms dels sis àrbitres del Pariatge**, **comprovats contra el
     text.**~~ — **`resolt` el 16-09-2026 contra la pàgina impresa de Vilar**
     (p. 23): **cap error d'OCR**, i **una catalanització que feia el corpus
