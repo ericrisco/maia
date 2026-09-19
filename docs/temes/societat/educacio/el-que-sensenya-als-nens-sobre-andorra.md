@@ -274,14 +274,25 @@ sobre la llengua**. El programa s'integra en els sistemes espanyol i francès am
 enfocament comunicatiu, plurilingüe i intercultural; la música continua sent
 l'únic bloc curricular encara no llegit en aquesta sèrie.
 
+### La llengua catalana de segona ensenyança
+
+L'annex del Decret del **12-07-2023** per a segona ensenyança ([94 pàgines,
+còpia local](../../../raw/web/societat/formacio-andorrana/llengua-catalana-segona-2023.pdf))
+manté els cinc blocs però hi arriba amb quatre competències: comprendre i produir
+discursos orals multimodals, i comprendre i produir discursos escrits
+multimodals. L'àmbit literari combina recepció, producció, interacció i mediació;
+el programa explicita que s'integra en els sistemes espanyol i francès i que
+treballa llengua i literatura catalanes des d'un enfocament comunicatiu,
+plurilingüe i intercultural.
+
 ## Buits registrats
 
 - **Els altres programes nous encara no s'han llegit.** Els annexos del
   **Programa de medi d'Andorra de primera ensenyança (2022)**, d'**educació
   maternal (2021)**, de **ciències humanes i socials de segona ensenyança (2022)**
-  i de **llengua catalana de primera ensenyança (2024)** ja són al corpus; resten
-  pendents els de llengua catalana i ciències humanes i socials dels altres
-  nivells. `Parcial: cal baixar i llegir els altres PDF annexos.`
+  i de **llengua catalana de primera (2024) i segona ensenyança (2023)** ja són
+  al corpus; resten pendents els annexos dels altres nivells. `Parcial: cal
+  baixar i llegir els altres PDF annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
