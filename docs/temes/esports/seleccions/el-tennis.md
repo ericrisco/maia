@@ -93,10 +93,13 @@ que el corpus ha trobat mai.**
   19-09-2026**: la [fitxa oficial d'Andorra](../../../fonts/billie-jean-king-cup-andorra.md)
   a la Billie Jean King Cup identifica l'equip femení del país. La font no es
   fa servir aquí per inventariar jugadores ni balanços.
-- ~~**La Federació Andorrana de Tennis.**~~ — **`parcial` el 18-09-2026**:
+- ~~**La Federació Andorrana de Tennis.**~~ — **`parcial` el 19-09-2026**:
   el representant actual al COA (2024-2028) és **Manel Blasi Marsan**
-  ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
-  segueixen sense documentar-se.**
+  ([font](../../../fonts/coa-membres.md)); la [font institucional sobre
+  clubs i registre](../../../fonts/fta-clubs-i-registre.md) enumera **GAEE,
+  Princiesport, Club Tennis i Padel la Massana** i **Independent**, i registra
+  la federació amb el número **054-20/2002** (inscripció comunal el 2012).
+  **L'any de fundació encara no queda provat.**
 - ~~**L'Open ATP d'Andorra**.~~ — **`resolt` el 19-09-2026, com a duplicat d'índex**: el buit canònic és aquest mateix article i ja queda registrat a [l'índex d'esports](../README.md#el-que-hi-falta).
 
 ## Related
