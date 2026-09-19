@@ -200,7 +200,16 @@ Esports de 22.447.828,32 €.**
   inclou explícitament la FADEA** amb aquest nom. El corpus no arbitra si
   és un creixement real de la federació (2024-2028 respecte a l'any de la
   taula original) o una llista construïda de manera diferent.
-- **Si el COA és el mateix òrgan que porta els Jocs dels Petits Estats.**
+- ~~**Si el COA és el mateix òrgan que porta els Jocs dels Petits Estats.**~~ —
+  **`resolt` el 19-09-2026:** **sí, en l'àmbit andorrà**. Els estatuts del
+  COA posen expressament **«l'organització per part del COA» dels Jocs dels
+  Petits Estats d'Europa** com a exemple d'esdeveniment internacional de
+  notòria rellevància que pot fer ajornar les eleccions ([estatuts del COA,
+  art. 10.1](../../../fonts/coa-estatuts-jpee-2022.md)). La pàgina pròpia del
+  COA confirma que **Andorra va organitzar els Jocs de 1991** ([Andorra
+  1991](https://www.coa.ad/altres_jocs/andorra-1991/)). **El circuit dels Jocs
+  és internacional i col·lectiu** —hi ha assemblea i comitès dels països—,
+  però quan la seu és Andorra el COA n'és l'organisme organitzador nacional.
 
 ## Related
 
