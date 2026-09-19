@@ -394,8 +394,12 @@ Tabacalera Andorrana, SA, el 1899.**
   `Requereix el decret episcopal mateix; el que hi ha són els acords del Consell
   que l'apliquen.`
 - **La banca Duvivier de París.**
-- **Joan Pla i Calvo** i **Pere Baró i Mas**, el síndic i el subsíndic
-  revolucionaris. **Cap fitxa de cap.**
+- ~~**Joan Pla i Calvo** i **Pere Baró i Mas**, el síndic i el subsíndic
+  revolucionaris. **Cap fitxa de cap.**~~ — **`parcial`, actualitzat el
+  2026-09-19**: aquesta fitxa ja identifica **Joan Pla i Calvo** com a nou
+  síndic del Consell Revolucionari Provisional i **Pere Baró i Mas** com a
+  subsíndic i metge de Sant Julià; les biografies pròpies i la trajectòria
+  posterior continuen pendents.
 - **El Tractat del Pont dels Escalls**: el text.
 - **Quants revolucionaris van ser condemnats, i a què.**
 - **La carta del bisbe Casañas del març del 1886**: font primària.
