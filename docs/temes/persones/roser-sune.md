@@ -100,9 +100,11 @@ escrita. Vegeu [els síndics generals](./els-sindics-generals.md).
   És el primer registre de ministres dones que tenim al corpus; la sèrie
   anterior no és completa i, per tant, no es pot afirmar encara que siguin les
   primeres de tota la història.
-- **La primera cònsol major** i **la primera magistrada**. El corpus té
-  [Mercè Bonell (1984)](../societat/dones/el-sufragi-femeni.md) com a primera
-  consellera i Suñé com a primera síndica, però encara no aquestes dues dates.
+- ~~**La primera cònsol major**~~ i **la primera magistrada**. **`parcial` el
+  19-09-2026**: **Bibiana Rossa i Lydia Magallón** són identificades com les
+  primeres dones cònsols majors del país després de les eleccions comunals de
+  **1995** ([font](../../fonts/primeres-consols-majors.md)). La primera
+  magistrada encara no té una identificació documentada.
 
 ## Related
 
