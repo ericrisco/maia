@@ -65,8 +65,12 @@ Seu d'Urgell**. **Aconsegueix el reconeixement papal de Sant Ermengol el
 
 1. **El text complet del decret del 3 de febrer de 1715**, més enllà de
    la citació de *La cuestión de Andorra* (1894).
-2. **Detall de la seva actuació episcopal** més enllà dels fets ja
-   documentats.
+2. ~~**Detall de la seva actuació episcopal** més enllà dels fets ja
+   documentats.~~ — **`parcial` el 19-09-2026**: la fitxa ja en documenta tres
+   fets concrets —**convent d'ensenyament per a noies (1722)**, **catecisme
+   (1728)** i **reconeixement papal de Sant Ermengol (1736)**—, a més de la seva
+   intervenció en el col·legi jesuïta de la Seu. La trajectòria episcopal completa
+   i els documents de cada actuació encara no són al corpus.
 
 ## Related
 
