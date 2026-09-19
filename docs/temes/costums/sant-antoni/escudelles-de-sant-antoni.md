@@ -58,7 +58,13 @@ folklore andorrà no és un bloc immòbil heretat; té capes, i algunes són d'a
 
 ## El que falta
 
-- Cada parròquia per separat: dia, lloc, nom local, qui ho organitza.
+- ~~Cada parròquia per separat: dia, lloc, nom local, qui ho organitza.~~
+  **[parcial · 2026-09-19]** La fitxa ja estableix que les cantades i
+  escudelles es fan a **totes les parròquies andorranes**, i documenta amb
+  detall el cas de **Canillo** —primera vianda popular el **1979**, a la plaça
+  de Montaup, organitzada pel Comú, el diumenge més proper a Sant Antoni—. El
+  calendari, els noms locals i els organitzadors de les altres parròquies encara
+  no consten.
 - ~~Conciliar aquesta fitxa amb
   [L'escudella de Sant Antoni](../../gastronomia/plats/lescudella-de-sant-antoni.md),
   que cobreix **el plat** i el cas d'Andorra la Vella (recuperació dels anys
