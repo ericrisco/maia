@@ -10,3 +10,6 @@ se'n conserven l'HTML i el text extret.
 
 **Llicència i ús:** contingut del portal de la FAF, amb drets reservats; es
 conserva per a citació i verificació, no per a redistribució íntegra.
+| `president-2013.html` / `.txt` | Comunicat de l'elecció de **Víctor Santos** com a president (9 d'octubre de 2013). |
+| `president-2015.html` / `.txt` | Comunicat de la reelecció de Víctor Santos per un segon mandat. |
+| `president-2019.html` / `.txt` | Comunicat de l'elecció de **Fèlix Álvarez**; el presenta com el **cinquè president** de la FAF (13 de setembre de 2019). |
