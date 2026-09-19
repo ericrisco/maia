@@ -173,22 +173,13 @@ on es va discutir, segueix obert.**
 
 - ~~**El llibre sencer**: *Vida e instituciones del pueblo de Andorra. Una
   supervivencia señorial*, Fernando de los Ríos Urruti, **1920**. **Buit
-  prioritari**: (…) el corpus només en té tres línies.~~ — **`incorrecte`.**
-  **El corpus el té sencer** a
+  prioritari**: (…) el corpus només en té tres línies.~~ — **`resolt`**: el
+  corpus conserva el llibre sencer a
   [`raw/llibres/rios-urruti-andorra-1920.txt`](../../../raw/llibres/rios-urruti-andorra-1920.txt),
-  amb el PDF i quatre pàgines escanejades a part. **El que el corpus no té és la
-  fitxa de font**: `raw/llibres/` conté **Brutails, Vilar, *La cuestión de
-  Andorra* de 1894 i aquest**, i **només Brutails i Vilar tenen fitxa a
-  `fonts/`.** **I des del 2026-09-13 el corpus en té la fitxa bibliogràfica
-  completa**, trobada al document d'historiografia
-  ([les tres fases](../../historia/historiografia/les-tres-fases.md)): **Madrid,
-  Centro de Estudios Históricos, 1920**, **reeditat per la Universidad
-  Internacional Menéndez Pelayo el 1994**.
-  **Buit nou, i barat:** escriure `fonts/rios-urruti-andorra-1920.md`
-  i citar-lo des dels articles que ja el fan servir de segona mà — aquest,
-  [l'ensenyament espanyol](./lensenyament-espanyol.md),
-  [la cronologia escolar](./la-cronologia-escolar.md) i
-  [les xifres que no quadren](../demografia/les-xifres-que-no-quadren.md).
+  amb el PDF i les pàgines escanejades, i ja té la [fitxa de font de Ríos
+  Urruti](../../../fonts/rios-urruti-andorra-1920.md). La fitxa bibliogràfica
+  dona **Madrid, Centro de Estudios Históricos, 1920**, i la reedició de 1994;
+  els articles que el fan servir ja hi apunten.
 - ~~**Quantes escoles comunals hi havia i fins quan van durar**~~ — **`parcial`**.
   **Una per parròquia**, diu el llibre, **i quatre més pagades
   per França**, de les quals **només una «tiene aceptación»**. **Fins quan van
