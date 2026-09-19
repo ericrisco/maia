@@ -96,7 +96,7 @@ que el corpus ha trobat mai.**
   el representant actual al COA (2024-2028) és **Manel Blasi Marsan**
   ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
   segueixen sense documentar-se.**
-- **L'Open ATP d'Andorra**, que el corpus ja tenia registrat com a buit.
+- ~~**L'Open ATP d'Andorra**.~~ — **`resolt` el 19-09-2026, com a duplicat d'índex**: el buit canònic és aquest mateix article i ja queda registrat a [l'índex d'esports](../README.md#el-que-hi-falta).
 
 ## Related
 
