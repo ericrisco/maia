@@ -77,9 +77,14 @@ corpus, i queda marcada com a tal.**
 4. **La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
    Munic.
 5. **El World Fair Play Award**: any i categoria exactes.
-6. **Els altres atletes andorrans**: el corpus té els noms d'**Antoni Bernadó**
+6. ~~**Els altres atletes andorrans**: el corpus té els noms d'**Antoni Bernadó**
    (maratonià, quatre Jocs), **Pol Moya**, **Cristina Llovera**, **Silvia
-   Felipo**, **Montserrat Pujol** i **Josep Graells**, **i cap biografia**.
+   Felipo**, **Montserrat Pujol** i **Josep Graells**, **i cap biografia**.~~ —
+   **`resolt`, actualitzat el 2026-09-19**: la branca [olímpics d'estiu](../esports/estiu/README.md)
+   ja enllaça les fitxes d'[Antoni Bernadó](../esports/estiu/antoni-bernado.md),
+   [Pol Moya](../esports/estiu/pol-moya.md), [Cristina Llovera](../esports/estiu/cristina-llovera.md),
+   [Silvia Felipo](../esports/estiu/silvia-felipo.md), [Montserrat Pujol](../esports/estiu/montserrat-pujol.md)
+   i [Josep Graells](../esports/estiu/josep-graells.md).
 
 ## Related
 
