@@ -133,8 +133,12 @@ menja: **regula el dia sencer**.
 3. **Si el menú es va mantenir** i fins quan.
 4. Les dues formes no resoltes (*asternats*, *asperança*).
 5. **Congre i peix salat** a Andorra: ruta, preu, qui el portava.
-6. **El banquet al bisbe de la Seu de 1914**, que el corpus també té registrat
-   com a buit a [el cas Amades](../../historia/historiografia/el-cas-amades.md).
+6. ~~**El banquet al bisbe de la Seu de 1914**, que el corpus també té registrat
+   com a buit a [el cas Amades](../../historia/historiografia/el-cas-amades.md).~~ —
+   **`parcial` el 19-09-2026**: [el cas Amades](../../historia/historiografia/el-cas-amades.md)
+   ja identifica que fou ofert per la inauguració de la carretera i que s’hi
+   documenten ametlles ensucrades pujades de la Seu; encara falta el document o
+   el menú original del banquet.
 
 ## Related
 
