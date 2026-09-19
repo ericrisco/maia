@@ -182,7 +182,12 @@ Coco).
 - **Francesc Viadiu**, ***Entre el torb i la Gestapo***: **el llibre, no llegit.**
 - **El reportatge d'Eliseo Bayo del 1977.**
 - **El TFG de Sergi Esteves**, en accés obert.
-- **Els cinc llibres nous** de la taula.
+- ~~**Els cinc llibres nous** de la taula.~~ **[parcial · 2026-09-19]** La
+  taula ja identifica els cinc títols i autors nous —*El Andorrano* (Joaquín
+  Abad), *Los senderos de la libertad* (Eduard Pons Prades), *Les cols de
+  l'espoir* (Francis Aguila), *Jo, un nen de la guerra* (Jose Bazán) i *La
+  guerra secreta del Pirineu* (Daniel Arasa)—, però el corpus encara no n'ha
+  llegit el contingut.
 - **L'informe nord-americà** sobre el Banc Agrícol i el nazisme.
 - **Joaquim Jordà** com a guionista: **qui era i per què el van cridar.**
 
