@@ -221,9 +221,10 @@ les vendes judicials. Vegeu
    font.** `obert.`
 5. **L'acta de la *possessio* d'abril de 1902** que l'autor tenia al davant.
    `obert, i és el document d'aquesta mena més recent que el corpus coneix.`
-6. **Quan es va deixar de plantar la creu** per marcar els embargaments.
-   `obert; el corpus té l'aranzel que la tarifava el 1740 i la constatació que el
-   1904 queia en desús.`
+6. ~~**Quan es va deixar de plantar la creu** per marcar els embargaments.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: l’aranzel la tarifa el **1740** i la
+   font constata que el **1904 ja queia en desús**. **Segueix oberta la data o
+   l’acte concret de desaparició.**
 7. ~~**«Lo dret de cinch sous»**: **en què consistia exactament** i **si la xifra
    era simbòlica o efectiva.**~~ — **`parcial` el 2026-09-18**: la mateixa obra,
    a la p. 151, explica que «un legitimari s'havia de tenir per satisfet quan havia
