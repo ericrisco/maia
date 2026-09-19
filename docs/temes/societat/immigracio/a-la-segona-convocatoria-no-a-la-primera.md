@@ -277,10 +277,13 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
 
 ## Buits registrats
 
-1. **Quan es va canviar el criteri de recompte** perquè els «nats a Andorra» es
-   comptessin com a andorrans, **i a quin cens s'aplica per primera vegada.**
-   **Prioritari**: **sense això, cap sèrie del pes dels andorrans no és
-   homogènia.**
+1. ~~**Quan es va canviar el criteri de recompte** perquè els «nats a Andorra» es
+   comptessin com a andorrans, **i a quin cens s'aplica per primera vegada.**~~ —
+   **`parcial` el 19-09-2026**: [els nats a Andorra](./els-nats-a-andorra.md)
+   documenta l'origen de la categoria **a partir de 1975** i la **Llei qualificada
+   de la nacionalitat del 5 d'octubre de 1995** com el gir jurídic posterior.
+   **Encara falta identificar el primer cens concret que aplica el nou recompte**;
+   sense aquesta peça, cap sèrie del pes dels andorrans no és homogènia.
 2. **La divergència de data del canvi legislatiu de nacionalitat**: **1993**
    segons la font que el corpus tenia, **1995** segons aquesta. **Cap dels dos
    textos no és al corpus.**
