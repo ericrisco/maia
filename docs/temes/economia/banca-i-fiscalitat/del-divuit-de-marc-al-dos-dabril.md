@@ -183,9 +183,11 @@ ho diu ella mateixa i hi posa una xifra:**
    corpus només en té l'enunciat.**
 6. **Si la consignació prèvia del preu era norma escrita** o **pràctica.** **La font
    ho enuncia sense citar res.**
-7. **Si alguna alienació feta en violació del dret de preferència es va anul·lar
-   judicialment.** **La font diu que és «mancada de valor» i el cas que dona és una
-   revocació voluntària.**
+7. ~~**Si alguna alienació feta en violació del dret de preferència es va anul·lar
+   judicialment.**~~ — **`parcial` el 2026-09-19**: **la font qualifica
+   l'alienació de «mancada de valor»**, però **l'únic cas que aporta és una
+   revocació voluntària**. **No permet afirmar que hi hagués una anul·lació
+   judicial ni identificar-ne cap sentència.**
 
 ## Related
 
