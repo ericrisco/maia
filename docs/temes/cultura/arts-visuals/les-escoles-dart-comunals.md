@@ -202,7 +202,10 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   taller de ceràmica que **Sergi Mas i Maria Canalís obren a Sant Julià de
   Lòria el 1966**. Vegeu [la creació artística](../../../fonts/rodriguez-rossa-creacio-artistica.md).
   **Els altres tallers i artistes continuen sense identificar.**
-- **Quanta gent hi passa** i de quines edats.
+- ~~**Quanta gent hi passa** i de quines edats.~~ — **`parcial`, confirmat el
+  19-09-2026**: les ordinacions de preus públics localitzades per a les set
+  parròquies confirmen oferta per a **infants i adults**, però no publiquen un
+  recompte agregat d'alumnes.
 - **El batxillerat artístic**: es va crear?
 - **Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
   [artesania](../artesania/README.md).
