@@ -89,10 +89,13 @@ el **títol I**, el **títol III dels coprínceps**, els articles **63 a 66** i 
 
 **Tres coses que aquesta fitxa no podia donar i el text sí:**
 
-- **Una quarta data.** La Constitució se signa a **Casa de la Vall el 28 d'abril
+- ~~**Una quarta data.** La Constitució se signa a **Casa de la Vall el 28 d'abril
   de 1993**, per **François Mitterrand**, **Jordi Farrás Forné** com a síndic
   general i **Joan Martí Alanís**, bisbe d'Urgell. Entra en vigor **el dia de la
-  publicació al BOPA**, que el corpus encara no té.
+  publicació al BOPA**, que el corpus encara no té.~~ **`resolt`**: [la fitxa
+  que llegeix el BOPA](./vuit-dies-i-no-mes-de-quinze.md) ja documenta que la
+  Constitució es publica al **BOPA núm. 24, el 3 de maig de 1993**, data en què
+  entra en vigor.
 - **El text no descriu un traspàs de sobirania.** El preàmbul diu que el poble
   andorrà aprova la Constitució **«en exercici de la seva pròpia sobirania»**, i
   la fórmula de promulgació diu que els coprínceps **«la fem nostra»**. L'article
