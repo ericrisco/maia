@@ -124,7 +124,7 @@ Alexia també hi ha corregut.** **Tres persones de la mateixa família al Dakar.
   i les altres categories de base encara no són al corpus.
 - **L'arbitratge femení andorrà**, que [Ainhoa Fernández](./ainhoa-fernandez.md)
   apunta i el corpus no ha llegit.
-- **Les 37 jugadores que la federació declarava a la FIFA el 1997.** Cap nom.
+- ~~**Les 37 jugadores que la federació declarava a la FIFA el 1997.** Cap nom.~~ **[parcial · duplicat]** El buit canònic és a [la selecció femenina](./la-seleccio-femenina.md); encara no hi ha els noms.
 - ~~**Alba**, l'autora del primer gol de la història. **Sense cognom.**~~
   **`resolt` el 2026-09-19**: [Alba López](./alba-lopez.md) és el nom que la
   font associa al gol de l'1 de juliol del 2014 contra Gibraltar, al minut 61;
