@@ -253,10 +253,13 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    **I el sostre doble diu una cosa que el corpus no tenia**: **el Comú
    distingeix «activitat empresarial o professional» de «activitat estrictament
    comercial» i dona a la segona el doble de marge.**
-2. **Les altres actes.** Aquesta és la **núm. 18** de l'any; n'hi ha **disset
-   abans** i les posteriors. Amb dues o tres més es podria dir si el repartiment
-   de 69/79 acords a Finances és **l'estructura** o **una casualitat d'aquell
-   dia**. **Ara mateix el corpus no ho pot dir.**
+2. **Les altres actes.** **`parcial` el 19-09-2026:** ara el corpus conserva
+   també les actes **6/2025 (17 de febrer)** i **12/2025 (31 de març)**, totes
+   dues del mateix portal oficial ([evidència local](../../../raw/web/institucions/README.md)).
+   Això confirma que la núm. 18 forma part d'una sèrie pública i permet una
+   primera comparació, però **les disset actes anteriors i les posteriors encara
+   no s'han buidat** i no es pot dir si el repartiment de 69/79 acords a Finances
+   és estructura o casualitat.
 3. **Els altres sis comuns.**
 4. **Per què es mouen els 15.000 €** de les associacions de pares a control de
    plagues.

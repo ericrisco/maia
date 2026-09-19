@@ -100,7 +100,12 @@ un segle o de fa trenta anys.
    **I el sostre doble diu una cosa que el corpus no tenia**: **el Comú
    distingeix «activitat empresarial o professional» de «activitat estrictament
    comercial» i dona a la segona el doble de marge.**
-3. **Les altres actes.** Aquesta és la número 18 de l'any: **n'hi ha disset
-   abans i les que vinguin després**, i el corpus no en té cap.
+3. **Les altres actes.** **`parcial` el 19-09-2026:** el portal oficial de
+   sessions permet localitzar i el corpus conserva dues actes anteriors —la
+   **6/2025 (17 de febrer)** i la **12/2025 (31 de març)**—, a més de la 18/2025
+   ja llegida ([còpies locals](../raw/web/institucions/README.md)). Això confirma
+   la continuïtat de la sèrie i permet començar a comparar l'estructura de les
+   sessions, però **no hi ha encara les disset actes anteriors ni les posteriors**
+   en el corpus.
 4. **Els altres sis comuns.** Res del que hi ha aquí no és extrapolable sense
    comprovar-ho.
