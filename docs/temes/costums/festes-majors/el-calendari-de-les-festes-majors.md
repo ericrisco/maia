@@ -93,7 +93,11 @@ ritu de pas.**
   Dansaire d'Andorra la Vella**, i en dona les dates documentades de 1963 i de
   la fundació de l'onada dels refugiats. **Continuen oberts la data de fundació
   de cada esbart, els estatuts i els altres grups.**
-- Els **gegants i capgrossos**: quins són, com es diuen, des de quan.
+- ~~Els **gegants i capgrossos**: quins són, com es diuen, des de quan.~~ —
+  **`parcial` el 19-09-2026**: la [fitxa dels gegants](../gegants/els-gegants.md)
+  ja documenta **Carlemany i Ermessenda** (Andorra la Vella, construïts el
+  **1985**) i **el Rei Moro i la Dama Blanca** (Sant Julià de Lòria). **No hi ha
+  encara l'inventari de capgrossos ni el de les altres festes majors.**
 - Què es **canta** i què es **menja** a cada festa.
 
 ## Related
