@@ -201,9 +201,11 @@ segle XVII** ([abrogats el 1839](./abrogats-el-1839-aplicats-el-1889.md)).
 
 ## Buits registrats
 
-1. **Quan i per què es va deixar d'encantar immobles en matèria civil.** **La
-   font constata el canvi entre 1754 i 1904 i no el data ni l'explica.**
-   **Prioritari**: **és la contracció d'una via d'execució sencera.**
+1. ~~**Quan i per què es va deixar d'encantar immobles en matèria civil.**~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la font situa el canvi **entre
+   l'últim acte documentat de 1754 i la descripció de 1904**, quan aquesta via
+   d'execució ja no apareix com a pràctica civil. **Segueixen obertes la data
+   exacta i la causa de la contracció.**
 2. **Els cinc actes de l'encant d'immobles sencers** —**1412, 18-04-1472,
    15-11-1533, 19-07-1580, 02-05-1754**—, **cap amb signatura d'arxiu.**
 3. **La segona possessió del 18 d'abril de 1472**, a favor del fiador, **sencera**
