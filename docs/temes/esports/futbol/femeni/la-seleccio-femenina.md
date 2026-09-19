@@ -230,8 +230,12 @@ actual és [Teresa Morató](./teresa-morato.md).**
   i de qui el corpus no té el cognom.~~ `resolt` **el 2026-09-18**: **és
   [Alba López](./alba-lopez.md)**, **que ja tenia fitxa al corpus**. **El gol és
   del minut 61**, i **oficialment no compta.**
-- **Per què la federació no considera oficial el partit del 2014**, que és
-  **alhora el primer partit i la primera victòria de la selecció.**
+- ~~**Per què la federació no considera oficial el partit del 2014**, que és
+  **alhora el primer partit i la primera victòria de la selecció.**~~ —
+  **`parcial` el 19-09-2026**: la fitxa d'Alba López el classifica com a
+  **friendly match not included** i el situa dins el **Torneig de
+  Desenvolupament de la UEFA**; per això les taules oficials comencen el 2015.
+  La font no conserva una resolució federativa més detallada sobre el criteri.
 - **Les 37 jugadores del 1997.** Cap nom.
 
 ## Related
