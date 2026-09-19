@@ -88,7 +88,11 @@ ni el recorregut complet de totes les peces.
    March; encara no consta qui va autoritzar l'operació ni el recorregut
    complet.
 3. **Si el crucifix de Yale arriba a tornar**, fins i tot en préstem.
-4. **La data de finalització** del projecte de recomposició.
+4. ~~**La data de finalització** del projecte de recomposició.~~ — **`parcial`,
+   confirmat el 19-09-2026**: el conveni anunciat pel Govern preveu licitar
+   durant el 2026 els treballs d'intervenció estructural de l'església, però no
+   fixa encara la data de finalització de la recomposició ([comunicat del
+   Govern](../../../fonts/govern-sant-miquel-prats-2026.md)).
 
 ## Related
 
