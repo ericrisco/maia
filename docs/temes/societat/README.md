@@ -1,4 +1,4 @@
-# Societat
+# Societat andorrana
 
 Com viu la gent, no com funcionen les institucions.
 

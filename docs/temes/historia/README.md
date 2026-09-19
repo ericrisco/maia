@@ -1,4 +1,4 @@
-# Història
+# Història d'Andorra
 
 Vuit segles amb documentació pròpia. Molta en català antic, que entra marcat com a històric.
 

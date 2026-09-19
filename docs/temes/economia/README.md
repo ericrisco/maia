@@ -1,4 +1,4 @@
-# Economia
+# Economia d'Andorra
 
 De l'economia de muntanya a l'actual, en tres generacions.
 

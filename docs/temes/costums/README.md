@@ -1,4 +1,4 @@
-# Costums
+# Costums d'Andorra
 
 L'any andorrà, festa a festa.
 

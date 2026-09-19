@@ -1,4 +1,4 @@
-# Parla
+# Parla andorrana — corpus oral i audiovisual
 
 Transcripcions literals. L'únic material del corpus que és llengua andorrana de veritat.
 

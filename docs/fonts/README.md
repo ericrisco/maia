@@ -1,4 +1,4 @@
-# Fonts
+# Fitxes de fonts del corpus
 
 Una fitxa per FONT, no per document. Cinquanta articles del mateix fons referencien la mateixa fitxa.
 

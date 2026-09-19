@@ -1,4 +1,4 @@
-# Espontani
+# Parla espontània d'Andorra
 
 Magazins, entrevistes, tertúlies. El més valuós i el més escàs: si només se'n pogués tenir un, seria aquest.
 

@@ -1,4 +1,4 @@
-# Llengua
+# Llengua d'Andorra
 
 El nucli del projecte. D'aquí surt l'inventari tancat de lèxic marcat del qual depèn tota l'avaluació.
 

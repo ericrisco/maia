@@ -1,4 +1,4 @@
-# Territori
+# Territori d'Andorra
 
 La geografia i el lèxic de paisatge que l'acompanya.
 

@@ -1,4 +1,4 @@
-# Institucional
+# Parla institucional d'Andorra
 
 Diari de Sessions, discursos, plens. Formal, però andorrà pur i de drets nets.
 

@@ -1,4 +1,4 @@
-# Persones
+# Persones d'Andorra
 
 **El corpus cita més de cent persones amb nom i cognom i en té tres fitxades.**
 Aquesta branca existeix per fer visible aquesta desproporció i per anar-la

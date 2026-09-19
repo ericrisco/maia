@@ -1,4 +1,4 @@
-# docs/raw/web/art
+# Captures web d'art andorrà
 
 Captures sobre els dos escultors de l'Andorra del segle XX, **12 de setembre
 del 2026**.

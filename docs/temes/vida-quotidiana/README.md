@@ -1,4 +1,4 @@
-# Vida quotidiana
+# Vida quotidiana a Andorra
 
 El que se sap sense que ningú t'ho ensenyi. El filtre del projecte en estat pur.
 

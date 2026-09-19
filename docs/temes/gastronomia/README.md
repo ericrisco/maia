@@ -1,4 +1,4 @@
-# Gastronomia
+# Gastronomia d'Andorra
 
 Què es menja, quan, i com se'n diu.
 

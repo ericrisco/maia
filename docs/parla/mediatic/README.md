@@ -1,4 +1,4 @@
-# Mediàtic
+# Parla mediàtica d'Andorra
 
 Informatius de RTVA. Semiformal.
 
