@@ -103,6 +103,18 @@ corpus té sobre la demanda d'anglès a Andorra**, i el país té
 
 **Buit registrat:** **quantes llengües parla un andorrà escolaritzat**, de debò.
 
+## Una llista posterior, però d'un sol àmbit
+
+L'estudi **_Ús de la terminologia catalana a Andorra_ (2017)** —projecte sobre
+els esports d'hivern— té un **Índex de termes neològics que fan referència a
+conceptes nous** a les pàgines **309–315** del PDF conservat al corpus
+([font](../../../raw/llengua-usos-linguistics/2017_us_terminologia_cat_andorra.pdf)).
+L'índex conté **256 entrades** i permet comparar l'any 2000 amb una font
+posterior: hi apareixen *all mountain*, *big air*, *freeride*, *snowboard* i
+*wild card*, al costat de solucions com *surf de neu*, *esquí d'estil lliure*,
+*cros* i *escratx*. **És una llista actualitzada de neologia esportiva, no una
+llista general d'anglicismes de tot Andorra.**
+
 ## Buits registrats
 
 1. **Anglicismes amb forma pròpia andorrana.**
@@ -121,9 +133,11 @@ corpus té sobre la demanda d'anglès a Andorra**, i el país té
    ([la sèrie que no és una sèrie](../politica-linguistica/la-serie-que-no-es-una-serie.md)).
    És autovaloració, no prova de nivell.
 4. **David Crystal**, font citada.
-5. **Una llista equivalent d'avui**, per comparar-la amb la del 2000. — **`obert`,
-   i ara se sap on és.** L'estudi de terminologia té un **índex de termes
-   neològics que designen conceptes nous** (p. 309-316) que no s'ha buidat.
+5. ~~**Una llista equivalent d'avui**, per comparar-la amb la del 2000.~~ —
+   **`parcial` el 19-09-2026**: l'estudi de terminologia de **2017** ja permet
+   una comparació dins dels **esports d'hivern**, amb **256 entrades** a les
+   pàgines **309–315** i formes angleses i alternatives catalanes identificades.
+   Fora d'aquest àmbit, el corpus encara no té una llista general comparable.
 
 ## Related
 
