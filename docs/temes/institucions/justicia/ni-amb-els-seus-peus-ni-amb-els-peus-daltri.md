@@ -249,8 +249,11 @@ notarials del XV al XVII.**
 2. ~~**El manuscrit de Palmitjavila**, del qual surt el procediment d'execució de
    l'hostatge.~~ — **`parcial` el 18-09-2026**: **la divergència de datació
    continua sense resoldre**.
-3. **Quan es va deixar de pactar l'hostatge a Andorra.** **La font diu que el 1904
-   no en quedava memòria i no data la desaparició.** `obert.`
+3. ~~**Quan es va deixar de pactar l'hostatge a Andorra.**~~ — **`parcial`,
+   actualitzat el 2026-09-19**: la font, publicada el **1904**, diu que de
+   l'hostatge **ja no en quedava memòria** a Andorra. **Segueix oberta la data
+   exacta en què es va deixar de pactar i si hi hagué un acte o una reforma que
+   en marqués la desaparició.**
 4. ~~**La clàusula de *constitut* i la de *ters***, que la font presenta com les
    altres dues traces de la mateixa tendència. **Són a les seccions següents del
    mateix capítol.**~~ — **`resolt` el 19-09-2026** com a buit duplicat: les dues
