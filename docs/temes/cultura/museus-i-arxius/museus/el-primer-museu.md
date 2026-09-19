@@ -131,7 +131,11 @@ tenia:**
   Museu d'Ordino** dins els quatre expedients de 1948 —**183/3, 176/4, 219/4 i
   7/31**— de l'arxiu històric del Museu de Zoologia de Barcelona. **La ubicació
   i l'existència queden documentades; el corpus encara no ha vist les imatges.**
-- **La Crisi del Joc**: què va ser i qui hi va ser responsable.
+- ~~**La Crisi del Joc**: què va ser i qui hi va ser responsable.~~ — **`resolt`
+  el 19-09-2026**: va ser **l'afer de la concessió del casino**; Guillem
+  d'Areny-Plandolit hi va actuar com a síndic i concessionari, i la font francesa
+  el situa com a intermediari entre els especuladors i el bisbe Caixal. Vegeu les
+  dues fonts i el detall a [la Casa d'Areny-Plandolit](./casa-dareny-plandolit.md).
 
 ## Related
 
