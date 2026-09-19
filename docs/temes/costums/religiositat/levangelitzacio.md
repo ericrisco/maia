@@ -216,7 +216,12 @@ segle XI dient que és del IX**, exactament el mateix mecanisme que
    visigòtica**; el buit de restes materials directament visigòtiques continua
    obert.
 6. Si Andorra **va ser mai musulmana**, ni que fos nominalment.
-7. **Santa Coloma** consignada a part de les sis parròquies — per què.
+7. ~~**Santa Coloma** consignada a part de les sis parròquies — per què.~~ —
+   **`parcial` el 2026-09-19**: el corpus pot identificar Santa Coloma com el
+   **barri d'Andorra la Vella** ([fitxa de Santa
+   Coloma](../../cultura/arquitectura/santa-coloma.md)), però **la font de
+   l'acta enumera «totes les sis d'Andorra més Santa Coloma» i no explica per
+   què la compta a part**. La separació documental continua oberta.
 
 ## Related
 
