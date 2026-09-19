@@ -110,15 +110,26 @@ però no diu què va passar amb cada animal o amb cada treballador.
   consten el préstec comunal disposat de **5.539.752 €** i avals per
   **6.830.957 €**.
 - ~~**Els comptes del 2021 a avui**, per veure si el pla de reestructuració es va
-  aplicar i si el deute es va convertir en accions.~~ — **`parcial` el
-  18-09-2026**: per al 2022, el [butlletí del Comú](https://comusantjulia.ad/media/documentacio/EL-COMU-AMB-TU-N14.pdf)
+  aplicar i si el deute es va convertir en accions.**~~ — **`parcial` el
+  19-09-2026**: per al 2022, el [butlletí del Comú](https://comusantjulia.ad/media/documentacio/EL-COMU-AMB-TU-N14.pdf)
   dona una facturació de **4.837.000 €**, una aportació comunal reduïda de
   **600.000 € a 500.000 €**, un EBITDA de **303.000 €** i un primer retorn de
-  deute de **91.000 €** previst per al 2023; per al 2025, el [Comú publica
-  4,8 M€ d'ingressos d'explotació, 5,1 M€ de despeses, EBITDA de 579.000 €,
-  pèrdues de 817.000 € i una petició de capitalització de 6 M€ de deute](https://comusantjulia.ad/ca/actualitat/noticies/camprabassa-tanca-el-2025-amb-uns-ingressos-d-explotacio-de-4-8-milions-d-euros/).
-  **La sèrie completa 2023-2024 i l'execució final d'aquesta capitalització
-  encara no consten verificades.**
+  deute de **91.000 €** previst per al 2023. Els [comptes oficials del
+  2023](https://comusantjulia.ad/media/documentacio/signed_Comptes_Anuals_individuals_COMU_STJL_2023.pdf)
+  (conservats a `docs/raw/web/economia/comu-santjulia-comptes-2023.pdf` i
+  `.txt`) registren **400.000 € de préstec a Naturland liquidat**, un crèdit
+  nominal a Camprabassa de **6.413.098,77 €** i **502.419,77 €** de cànon
+  carregat. Els [comptes del 2024](https://comusantjulia.ad/media/documentacio/Estats_pressupostaris_i_financers_2024.pdf)
+  (també conservats localment) registren **0 €** de préstec pressupostat o
+  liquidat, un crèdit nominal de **6.942.362,07 €**, un cànon de **439.402,20
+  €** reconegut però no cobrat i una minoració de **47.740 €** per la taxa
+  d'abocament. Els dos exercicis expliquen que l'ampliació de capital de
+  **6.389.985 €** del pla de 2021 es va formalitzar el **7 de març de 2022**,
+  amb el Comú com a subscriptor i una participació del **90,73%**. Per al
+  2025, el [Comú publica 4,8 M€ d'ingressos d'explotació, 5,1 M€ de despeses,
+  EBITDA de 579.000 €, pèrdues de 817.000 € i una sol·licitud nova d'aportació
+  de capital de 6 M€ mitjançant capitalització parcial del deute](https://comusantjulia.ad/ca/actualitat/noticies/camprabassa-tanca-el-2025-amb-uns-ingressos-d-explotacio-de-4-8-milions-d-euros/).
+  **Encara no consta si aquesta operació nova del 2025 es va executar.**
 
 ## Related
 
