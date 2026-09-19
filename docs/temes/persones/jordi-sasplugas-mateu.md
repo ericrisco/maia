@@ -60,8 +60,11 @@ el 27 d'octubre, combinat amb la projecció d'**El món de Pau Casals**
 
 ## Buits registrats
 
-1. **L'any exacte de fundació del Cine Club d'Andorra**: aquesta font
-   no el precisa; el corpus el tenia al 1970.
+1. ~~**L'any exacte de fundació del Cine Club d'Andorra.**~~ — **`resolt` el
+   19-09-2026**: la [publicació de la Societat Andorrana de Ciències](../../fonts/sac-cineclub-les-valls-1968.md)
+   fixa la creació del **Cineclub de les Valls d'Andorra el 1968** i identifica
+   **Jordi Sasplugas** com el primer president. El **1970** que constava al
+   corpus era incorrecte.
 2. **El contingut del documental de l'Arxiu Nacional** — el corpus
    només en sap l'existència i la data de projecció.
 3. **Detalls de la seva activitat al PSUC.**
