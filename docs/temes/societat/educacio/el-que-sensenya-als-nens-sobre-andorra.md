@@ -248,6 +248,20 @@ tradicions, cançons, rondalles i jocs). El PDF concreta procediments d'observac
 comparació i relat oral, i demana respecte per la pluralitat d'identitats i per les
 manifestacions culturals.
 
+### La continuïtat a segona ensenyança
+
+El programa de **ciències humanes i socials d'Andorra de segona ensenyança**
+([annex oficial de 2022, còpia local](../../../raw/web/societat/formacio-andorrana/ciencies-humanes-socials-andorra-segona-2022.pdf),
+41 pàgines) continua aquesta arquitectura amb tres competències: analitzar la
+interacció entre grups humans i medi natural, analitzar l'evolució històrica de la
+societat andorrana, i analitzar qüestions socials de manera crítica i creativa.
+Els cinc blocs són **Població i economia**, **Lloc i medi ambient**, **Andorra,
+una societat diversa**, **Ciutadania i governança** i **Memòria i patrimoni**.
+El document ja inclou, com a objectes d'estudi, migracions, mercat de treball,
+urbanització, espais protegits, identitats, drets humans, sistema polític,
+justícia i patrimoni; el buit que queda és el programa històric de 1999, no el
+currículum vigent de 2022.
+
 ## Buits registrats
 
 - **Els altres programes nous encara no s'han llegit.** Els annexos del
@@ -255,9 +269,10 @@ manifestacions culturals.
   maternal (2021)** ja són al corpus; resten pendents els de llengua catalana i
   ciències humanes i socials dels altres nivells. `Parcial: cal baixar i llegir
   els altres PDF annexos.`
-- **El programa de segona ensenyança del 1999** i el de **batxillerat** que
-  l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
-  `Requereix una cerca per data, no per frase.`
+- **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
+  que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
+  El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
+  resol aquesta absència històrica. `Requereix una cerca per data, no per frase.`
 - **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
   que són els que fixen hores i condicions, **no s'han vist**.
 - ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'ha
