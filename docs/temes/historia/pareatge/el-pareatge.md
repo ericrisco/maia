@@ -321,8 +321,13 @@ pp. 30–36).
 - **La contrasignatura de Pere II**. **Prioritari.**
 - **La carta de Pere II als andorrans del 25 de desembre de 1283**, sencera.
   **Prioritari.**
-- **Per què cap comte de Foix no va tornar a fer l'homenatge**, i si algú els ho
-  va reclamar.
+- ~~**Per què cap comte de Foix no va tornar a fer l'homenatge**, i si algú els ho
+  va reclamar.~~ — **`parcial`, confirmat el 19-09-2026**: Palau i Martí explica
+  que els successors van **defugir executar el gest**, que era el signe visible
+  de dependència envers el bisbe; Vilar (1904) confirma que l'homenatge no es va
+  tornar a exercir però sosté que això no extingia el dret feudal. **La fitxa ja
+  pot documentar el motiu i la divergència jurídica, però cap font consultada
+  no identifica una reclamació concreta d'un successor o del bisbe.**
 - ~~**El pareatge del 1288**, text. **Confirmat pel Papa**, com el primer.~~ —
   **`resolt` el 19-09-2026 com a buit duplicat**: el text complet del Pareatge
   que ja consta al punt anterior —**traducció francesa de Vilar (1904), pp.
