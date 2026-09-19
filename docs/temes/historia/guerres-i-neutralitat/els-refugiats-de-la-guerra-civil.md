@@ -303,17 +303,27 @@ Bonaventura Piqué Betriu, entregat a la Guàrdia Civil el 15 de novembre del
 
 ## Buits que això obre
 
-- **Amparo Soriano**, ***Andorra durant la Guerra Civil Espanyola***, **Consell
-  General d'Andorra, 2006** — **Premi Principat d'Andorra 2005**, i **criticada
-  per no citar fonts** a [l'estat de la qüestió](../historiografia/lestat-de-la-questio-de-les-evasions.md).
-- **Francesc Badia i Batalla**, ***El copríncep Mons. Justí Guitart i el seu
+- ~~**Amparo Soriano**, ***Andorra durant la Guerra Civil Espanyola***,
+  **Consell General d'Andorra, 2006** — **Premi Principat d'Andorra 2005**, i
+  **criticada per no citar fonts** a [l'estat de la qüestió](../historiografia/lestat-de-la-questio-de-les-evasions.md).~~
+  **[parcial · 2026-09-19]** La referència i les dades editorials ja consten;
+  el corpus encara no ha llegit l'obra.
+- ~~**Francesc Badia i Batalla**, ***El copríncep Mons. Justí Guitart i el seu
   temps***, **Publicacions de l'Abadia de Montserrat, 2007** — **l'obra que la
-  font considera de les més rigoroses.**
-- **Josep Calvet**, *«Els refugiats a Andorra durant la postguerra. Una qüestió
-  d'Estat»*, ***Papers de Recerca Històrica* 4**, **SAC, 2004, p. 67-78**.
-- **Jordi Piferrer i Deu**, ***El pas dels Pirineus***, **Pagès editors, 2012**.
-- **Ignacio Rodríguez Barber**, *«Els inicis de la Guerra Civil a la Seu
-  d'Urgell»*, ***Interpontes* II, 2012, p. 277-301**.
+  font considera de les més rigoroses.**~~ **[parcial · 2026-09-19]** La
+  referència i l'avaluació de la font consten; el corpus encara no n'ha llegit
+  el contingut.
+- ~~**Josep Calvet**, *«Els refugiats a Andorra durant la postguerra. Una
+  qüestió d'Estat»*, ***Papers de Recerca Històrica* 4**, **SAC, 2004, p.
+  67-78**.~~ **[parcial · 2026-09-19]** La citació completa ja consta; el corpus
+  encara no ha llegit l'article.
+- ~~**Jordi Piferrer i Deu**, ***El pas dels Pirineus***, **Pagès editors,
+  2012**.~~ **[parcial · 2026-09-19]** La referència i l'editorial ja consten;
+  el corpus encara no ha llegit el llibre.
+- ~~**Ignacio Rodríguez Barber**, *«Els inicis de la Guerra Civil a la Seu
+  d'Urgell»*, ***Interpontes* II, 2012, p. 277-301**.~~ **[parcial ·
+  2026-09-19]** La citació completa ja consta; el corpus encara no ha llegit
+  l'article.
 - **La República Independent d'Andorra de FHASA**: **existeix el projecte o no?**
 - **El Banc Agrícol i Comercial entre 1936 i 1945.**
 - **Manuel Cerqueda**: **qui era.**
