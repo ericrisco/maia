@@ -302,8 +302,7 @@ dataset**.`
 
 ## Buits registrats
 
-1. **Per què Andorra no ha passat mai de 28** havent-hi marge fins a 42. Cap
-   font ho explica.
+1. **Per què Andorra no ha passat mai de 28** havent-hi marge fins a 42. **`parcial` el 19-09-2026**: el debat constituent de 1993 ja documenta que els 28 es van pactar per preservar la unanimitat de la Constitució i apaivagar el recel de les parròquies; el corpus encara no té una font que expliqui per què cap legislatura posterior ha activat la possibilitat d'arribar a 42.
 2. ~~**El debat constituent sobre el nombre**: qui va proposar 28 i qui 42.~~ —
    **`resolt` el 17-09-2026 pel Diari Oficial del Consell General**, acta
    **7/1993**, sessió del **2-3 de setembre de 1993**: vegeu
