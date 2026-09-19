@@ -262,8 +262,8 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   gener** —i el 2026, dues vegades.
 - **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
   consta.
-- **L'antecedent històric ja és al corpus des del 14-09-2026, i no és una
-  metàfora.** Abans del saig, qui posava algú en possessió d'una finca era **el
+- ~~**L'antecedent històric ja és al corpus des del 14-09-2026, i no és una
+  metàfora.**~~ — **`parcial` el 19-09-2026**: abans del saig, qui posava algú en possessió d'una finca era **el
   batlle, amb el cos**: entrava a la finca, agafava la persona per la mà dreta,
   li posava **un puny de terra als camps i herba als prats** i li feia
   **tancar i obrir la porta** amb la clau. La taxació la feien dos **prohoms
