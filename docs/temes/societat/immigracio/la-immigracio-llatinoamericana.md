@@ -275,7 +275,13 @@ no en dedueix res sobre naturalitzacions.`
    autoritzacions vigents fins al 2025. **El detall de cada reforma individual
    continua sent un buit de l'altra fitxa**, però el canvi de política i el seu
    marc actual ja estan documentats.
-7. **El circuit dels dos hiverns**: existeix encara?
+7. ~~**El circuit dels dos hiverns**: existeix encara?~~ — **`parcial` el
+   19-09-2026**: **el règim de temporada continua existint**. La Llei
+   d'immigració del 2012 manté una **quota especial de temporada**, i el corpus
+   compta **4.574 autoritzacions temporals vigents el desembre de 2025**. Això
+   prova que el circuit laboral estacional encara té una via legal, però **no
+   prova que siguin les mateixes persones les que facin hivern a Andorra i hivern
+   als països d'origen**. Aquesta trajectòria individual continua oberta.
 
 ## Related
 
