@@ -281,10 +281,11 @@ sencera, amb el que la font hi afegeix:**
    que el Consell sigui part, diu que n'hi ha una altra que no ho és i que per
    això no cal.** **Que aquella autoritat siguin els coprínceps és lectura del
    corpus: la font no els anomena aquí.**
-2. **Els decrets del Consell General del 18 de juny i del 2 de juliol de 1887**,
-   **i per què es va rectificar en catorze dies.** **Prioritari**: **és una
-   deliberació andorrana sobre el còmput dels feriats, un any abans que el decret
-   francès el resolgués a l'inrevés.**
+2. ~~**Els decrets del Consell General del 18 de juny i del 2 de juliol de 1887**,
+   **i per què es va rectificar en catorze dies.**~~ — **`parcial`, actualitzat el
+   2026-09-19**: la fitxa ja cita que el primer decret manava **no descomptar els
+   dies feriats** en els terminis de visura i que el segon **el va revocar al cap
+   de catorze dies**. **Segueixen pendents els textos íntegres dels dos decrets.**
 3. **Les sentències de visura de 1790 amb els noms dels dissidents**: **quantes
    n'hi ha i fins quan es va fer.**
 4. ~~**Per què el suplent del Síndic és el primer conseller de Canillo.**~~ —
