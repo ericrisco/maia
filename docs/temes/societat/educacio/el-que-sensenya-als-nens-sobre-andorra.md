@@ -262,13 +262,26 @@ urbanització, espais protegits, identitats, drets humans, sistema polític,
 justícia i patrimoni; el buit que queda és el programa històric de 1999, no el
 currículum vigent de 2022.
 
+### La llengua catalana de primera ensenyança
+
+L'annex del Decret del **7-02-2024** per al programa de llengua catalana de
+primera ensenyança ([83 pàgines, còpia local](../../../raw/web/societat/formacio-andorrana/llengua-catalana-primera-2024.pdf))
+ja permet llegir el bloc lingüístic que el BOPA només anunciava. Parteix de tres
+competències —intervenir en situacions escolars de comunicació oral, llegir textos
+multimodals simples i escriure textos multimodals amb intenció comunicativa— i
+les desplega en cinc blocs: **oralitat, lectura, escriptura, literatura i reflexió
+sobre la llengua**. El programa s'integra en els sistemes espanyol i francès amb
+enfocament comunicatiu, plurilingüe i intercultural; la música continua sent
+l'únic bloc curricular encara no llegit en aquesta sèrie.
+
 ## Buits registrats
 
 - **Els altres programes nous encara no s'han llegit.** Els annexos del
-  **Programa de medi d'Andorra de primera ensenyança (2022)** i d'**educació
-  maternal (2021)** ja són al corpus; resten pendents els de llengua catalana i
-  ciències humanes i socials dels altres nivells. `Parcial: cal baixar i llegir
-  els altres PDF annexos.`
+  **Programa de medi d'Andorra de primera ensenyança (2022)**, d'**educació
+  maternal (2021)**, de **ciències humanes i socials de segona ensenyança (2022)**
+  i de **llengua catalana de primera ensenyança (2024)** ja són al corpus; resten
+  pendents els de llengua catalana i ciències humanes i socials dels altres
+  nivells. `Parcial: cal baixar i llegir els altres PDF annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
@@ -280,8 +293,9 @@ currículum vigent de 2022.
   **`parcial` el 19-09-2026**: el PDF vigent ja permet buidar l'estructura del
   bloc 2 (paisatge, usos agrícoles i ramaders, indústria, serveis, urbanització,
   comunicacions, migracions, esquí, residus, boscos, espais protegits, energia i
-  canvi climàtic), però no documenta encara la seva aplicació a aules concretes;
-  els blocs de llengua i música continuen oberts.
+  canvi climàtic), i el PDF de llengua catalana de primera ensenyança ja deixa
+  llegits els cinc blocs lingüístics. Cap dels dos documents no descriu encara
+  l'aplicació real a aules concretes; música continua oberta.
 - **Cap dada d'aplicació**: quants infants segueixen formació andorrana, en quins
   centres, i amb quants ensenyants. `Requereix Estadística o el ministeri.`
 - ~~**La nota-informe sobre l'andorranització del juny de 1972**, que és l'origen
