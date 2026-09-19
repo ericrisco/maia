@@ -217,7 +217,13 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    Per tant, queda tancat l'estat de la sol·licitud i el fet que la resposta no
    és exposada al registre públic, però **encara no es pot afirmar si hi ha
    mesquita o sala d'oració**.
-2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
+2. ~~**D'on ve la població musulmana**, si no és majoritàriament marroquina.~~ —
+   **`parcial` el 19-09-2026**: la font identifica **marroquina (515), turca
+   (112) i pakistanesa (79)**, **706 persones en total**, però les estimacions
+   de població musulmana van d'uns **1.000 a 2.000**. **Queda una resta estimada
+   d'entre 300 i 1.300 persones sense origen identificat**; no hi ha cens
+   religiós obligatori perquè l'article 11.1 de la Constitució protegeix que
+   ningú hagi de declarar la seva religió.
 3. ~~**Xifres oficials de confessions.** Les dues que hi ha són estimacions de
    premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució
    diu que **ningú no pot ser obligat a declarar la seva religió**. El que sí que
