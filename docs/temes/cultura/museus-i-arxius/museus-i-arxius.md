@@ -49,7 +49,7 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
 
 ## El que falta — i és la llista de feina
 
-- Accedir a les transcripcions de les actes històriques i incorporar-les.
+- ~~Accedir a les transcripcions de les actes històriques i incorporar-les.~~ — **`parcial` el 19-09-2026**: el corpus ja conserva **79 fitxers de text** a [la síntesi i el fons local](../../../raw/consell-general/actes-historiques/sintesi-actes-1133-2023.pdf) (`raw/consell-general/actes-historiques/text/`) i les seves peces font associades. Això prova una incorporació efectiva de la sèrie, però no equival a haver recorregut les prop de 7.500 actes ni a tenir-ne un inventari complet.
 - Saber què conté exactament el fons d'RTVA a l'Arxiu Nacional i en quines
   condicions es consulta. — **`parcial` el 2026-09-19**: el [Reglament de
   l'Arxiu Nacional](../../../fonts/bopa-2005-reglament-arxiu-nacional.md) crea
