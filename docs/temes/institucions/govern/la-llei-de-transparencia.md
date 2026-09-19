@@ -148,13 +148,14 @@ Documentació** (capítol cinquè).
   **Declarar la urgència exclou la participació**, i **la llei no posa cap
   condició a qui la declara.** `Requereix saber amb quina freqüència s'invoca
   la urgència de l'article 31.4.a); és una dada d'execució.`
-- **La Comissió Nacional
-  d'Accés i Avaluació de la Documentació, llegida el 14-09-2026**
-  ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md)):
-  és **l'òrgan que aprova els procediments d'eliminació de documentació**, i els
-  comuns hi seuen **sense votar els recursos**, perquè els seus recursos els
-  resol el Consell de Comú amb informe preceptiu i no vinculant de la CNAAD.
-  **Cap resolució ni memòria anual localitzades.**
+- ~~**Activitat de la Comissió Nacional d'Accés i Avaluació de la Documentació**~~
+  — **`parcial` el 19-09-2026**: és **l'òrgan que aprova els procediments
+  d'eliminació de documentació**, i els comuns hi seuen **sense votar els
+  recursos**, que resol el Consell de Comú amb informe preceptiu i no vinculant
+  de la CNAAD. La fitxa específica documenta **sis edictes de resolucions** del
+  BOPA (2023–2025), que són taules d'avaluació documental; encara no s'ha
+  localitzat cap memòria anual.
+  ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md).)
 - **Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
   consta.
 - ~~**Quanta informació s'ha declarat reservada d'Estat**, tampoc.~~ —
