@@ -262,6 +262,25 @@ urbanització, espais protegits, identitats, drets humans, sistema polític,
 justícia i patrimoni; el buit que queda és el programa històric de 1999, no el
 currículum vigent de 2022.
 
+### La continuïtat al batxillerat
+
+El **Programa de ciències humanes i socials d'Andorra de batxillerat de Formació
+Andorrana** ([annex del Decret 438/2025, còpia local](../../../raw/societat/formacio-andorrana/programa-ciencies-humanes-socials-batxillerat-2025.pdf),
+52 pàgines) entra en vigor l'**1-09-2026** i aprofundeix en el pensament
+geogràfic, històric i social crític. Les tres competències són analitzar
+l'organització i transformació del territori i les seves interdependències,
+construir un relat històric del present andorrà a partir de processos i fonts, i
+construir un posicionament crític i propositiu davant qüestions socials.
+
+Els quatre blocs són **Els conflictes del territori andorrà: usos del sòl,
+desigualtats i patrimoni en disputa**; **Construcció política d'Andorra: del
+coprincipat històric a la democràcia constitucional**; **Estructura social i
+desigualtats a Andorra: dinàmiques demogràfiques, migracions i cohesió**; i
+**Andorra dins el món global: interdependències i reptes de futur**. El programa
+manté criteris i una expectativa final de cicle centrats en precisió, rigor i
+sentit crític, i fa explícita la connexió entre problemes locals, escales globals
+i propostes de justícia territorial i social.
+
 ### La llengua catalana de primera ensenyança
 
 L'annex del Decret del **7-02-2024** per al programa de llengua catalana de
@@ -271,8 +290,8 @@ competències —intervenir en situacions escolars de comunicació oral, llegir 
 multimodals simples i escriure textos multimodals amb intenció comunicativa— i
 les desplega en cinc blocs: **oralitat, lectura, escriptura, literatura i reflexió
 sobre la llengua**. El programa s'integra en els sistemes espanyol i francès amb
-enfocament comunicatiu, plurilingüe i intercultural; la música continua sent
-l'únic bloc curricular encara no llegit en aquesta sèrie.
+enfocament comunicatiu, plurilingüe i intercultural; el programa específic de
+música queda fora d'aquesta sèrie de PDFs de Formació Andorrana.
 
 ### La llengua catalana de segona ensenyança
 
@@ -342,13 +361,12 @@ diversitat lingüística de l'aula.
   annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
-  **`Parcial` el 19-09-2026**: el corpus ja identifica el programa actual de
-  ciències humanes i socials de batxillerat de Formació Andorrana, aprovat pel
-  **Decret 438/2025, del 3-12-2025**, amb entrada en vigor l'**1-09-2026**
-  ([text local del decret](../../../raw/societat/formacio-andorrana/decret-438-2025-ciencies-humanes-batxillerat.txt)).
-  L'annex curricular encara no s'ha recuperat, i això no resol l'absència
-  històrica de 1999 ni la previsió de 2003-04. `Requereix una cerca per data,
-  no per frase.`
+  **`Parcial` el 19-09-2026**: el programa actual de ciències humanes i socials
+  de batxillerat de Formació Andorrana ja és llegit a l'annex del **Decret
+  438/2025, del 3-12-2025**, vigent des de l'**1-09-2026** (52 pàgines, [PDF
+  local](../../../raw/societat/formacio-andorrana/programa-ciencies-humanes-socials-batxillerat-2025.pdf)).
+  Això no resol l'absència històrica de 1999 ni la previsió de 2003-04.
+  `Requereix una cerca per data, no per frase.`
 - **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
   que són els que fixen hores i condicions, **no s'han vist**.
 - ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'havia
