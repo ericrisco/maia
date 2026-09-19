@@ -272,9 +272,10 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 
 ## Buits registrats
 
-- **Els altres nou petits estats europeus**, cadascun amb fitxa. Al mateix volum
-  hi ha ponències sobre **el Vaticà, Mònaco, San Marino, Estònia, Suïssa i
-  Luxemburg**, no llegides.
+- ~~**Els altres nou petits estats europeus**, cadascun amb fitxa.~~ **[parcial ·
+  2026-09-19]** El volum ja identifica sis ponències: **el Vaticà, Mònaco,
+  San Marino, Estònia, Suïssa i Luxemburg**. El corpus encara no les ha llegit
+  i no té les tres restants.
 - ~~**Les estadístiques comparades** que el Departament d'Estadística va presentar
   a la mateixa Diada. **Buit prioritari**.~~ **TANCAT** (en la part que el text
   recupera): [els petits estats comparats](./els-petits-estats-comparats.md).
@@ -282,11 +283,13 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
   comentari del Departament i no totes les xifres. Queda obert **fer-ne OCR**.
 - ~~**Els Jocs dels Petits Estats d'Europa** i la participació andorrana.~~
   **JA HI HA FITXA:** [Els Jocs dels Petits Estats d'Europa](../../esports/competicio/els-jocs-dels-petits-estats.md).
-- **Les trobades anuals de presidents de parlament** dels petits estats: **2014 a
-  Andorra, 2015 a Mònaco**.
+- ~~**Les trobades anuals de presidents de parlament** dels petits estats:
+  **2014 a Andorra, 2015 a Mònaco**.~~ **[parcial · 2026-09-19]** Ja consten
+  les seus i els anys **2014** i **2015**; falta la resta de la sèrie.
 - **Karl Zemanek** i on va escriure l'«OJNI».
-- ***De l'Empordanet a Andorra***, de **Josep Pla**: el corpus en té tres línies
-  citades de segona mà.
+- ~~***De l'Empordanet a Andorra***, de **Josep Pla**: el corpus en té tres
+  línies citades de segona mà.~~ **[parcial · 2026-09-19]** El títol, l'autor i
+  les tres línies citades ja consten; falta llegir la font directament.
 - **Com ha anat la partida** des del 2015.
 
 ## Related
