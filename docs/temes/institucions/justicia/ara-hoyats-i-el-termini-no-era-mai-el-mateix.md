@@ -215,8 +215,13 @@ s'endevina:
 4. **Per què el 1488 un particular demana sentència al **Veguer** en matèria de
    béns**, quan la justícia civil de primera instància és dels batlles.
    **Registrat, no arbitrat.**
-5. **Quan van desaparèixer els pregoners públics de les Valls.** **El corpus en
-   té cinc atestacions entre 1412 i 1580 i cap de posterior.**
+5. ~~**Quan van desaparèixer els pregoners públics de les Valls.**~~ —
+   **`parcial`, actualitzat el 2026-09-19**: [El qui tastava el vi i posava el
+   preu de la fruita](./el-qui-tastava-el-vi-i-posava-el-preu-de-la-fruita.md)
+   documenta el pregoner encara en exercici el **23 de març de 1775**, quan el
+   notari havia de deixar constància que havia pregonat un edicte a totes les
+   parròquies. **La data exacta de desaparició continua oberta**; els llibres
+   d'actes posteriors ja no el tornen a nomenar i hi apareixen els *manadors*.
 6. ~~**L'*Instructa*, peces justificatives p. LI** —**setzena citació**—, **que
    dona per a la cessió de béns un procediment que l'autor diu «*un poc
    diferent*» del que ell exposa**, **i no diu en què.** **Prioritari.**~~ —
