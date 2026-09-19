@@ -159,8 +159,10 @@ posterior. **Les xifres es citen totes dues amb la seva font i no s'arbitra.**
 - ~~**L'esperança de vida per sexe**, que no és en aquesta branca de l'API.~~ —
   **`resolt` el 18-09-2026**: **era en una altra branca del mateix catàleg** i
   ara és a l'apartat de dalt. **La sèrie va del 2016 al 2024.**
-- **L'esperança de vida anterior al 2016**, que la font no publica.
-  `serie_estadistica`
+- ~~**L'esperança de vida anterior al 2016**~~ — **`parcial` el 19-09-2026**:
+  el bolcat de la divisió 1245 de l'API d'Estadística només conté la sèrie
+  **2016–2024** ([fitxer de demografia vital](../../../raw/estadistica-api/demografia-vital/demografia-vital-api-2026-09-18.tsv));
+  els anys anteriors continuen sense publicar-se en aquesta font.
 - **Per què el total del quinquenni difereix en una o dues morts de la suma
   anual.**
 - **Els suïcidis**, que aquí van dins de «lesions i emmetzinaments» i no es
