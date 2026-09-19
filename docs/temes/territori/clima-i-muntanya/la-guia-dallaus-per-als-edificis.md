@@ -71,9 +71,9 @@ espera necessària per corregir un contacte.
 
 ## Buits registrats
 
-- Dotze pàgines llegides, amb renders 7, 10 i 12 inspeccionats. La
-  plantilla no porta una data emplenada ni una versió explícita
-  comprovada; el nom de descàrrega no es pren com a data d'aprovació.
+- ~~Lectura de dotze pàgines i dels renders 7, 10 i 12~~ — **`parcial` el
+  19-09-2026**: la plantilla no porta una data emplenada ni una versió
+  explícita comprovada; el nom de descàrrega no es pren com a data d'aprovació.
 - No s'ha examinat cap pla completat d'edifici, aprovació particular,
   adhesió, nomenament ni registre de missatges rebuts.
 - El model no resol les discrepàncies internes del pla d'Arinsal:
