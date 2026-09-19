@@ -233,9 +233,14 @@ autoritats administratives.**
    identificació que havia fet.**
 8. **Si la vídua del segle XVIII va obtenir la gràcia que demanava**, i **quantes
    gràcies individuals es van concedir.**
-9. **La p. XLV** *(cessió de retracte del 10 d'agost de 1788)*. — **La p. LV de
-   la *Instructa* de 1740, `resolta` el 18-09-2026**, i **el que hi ha és un
-   aranzel repartit tres.**
+9. ~~**La peça justificativa p. XLV** *(cessió de retracte del 10 d'agost de
+   1788)*~~ — **`parcial` el 19-09-2026**: la peça XXV, *Cession d'un droit de
+   réméré*, està identificada i la p. XLV en conserva la rúbrica, la data i
+   l’encapçalament; el cos continua a la p. XLVI, absent de l’exemplar
+   digitalitzat. [La fitxa de la peça](../../economia/banca-i-fiscalitat/ab-propris-diners-y-per-son-propri-us.md#buits-registrats)
+   documenta el límit i la necessitat d’un altre exemplar. **La p. LV de la
+   *Instructa* de 1740 sí que està `resolta` des del 18-09-2026** i conté un
+   aranzel repartit entre batlle, notari i nunci.
 
    **Cada acte porta un import total i el seu repartiment entre batlle, notari i
    nunci**:
