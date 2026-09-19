@@ -178,8 +178,13 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    què va**: **no de la sobirania en abstracte sinó de seixanta-tres anys
    concrets, del 1930 al 1993.** `Requereix el volum; la referència ja no.`
 4. **El pròleg de Porcioles** a l'edició del Manual Digest, citat dues vegades.
-5. **Les reformes de 1978 i 1981**: el corpus no en té fitxa pròpia, i aquí
-   consten com a actes constituents.
+5. ~~**Les reformes de 1978 i 1981**: el corpus no en té fitxa pròpia, i aquí
+   consten com a actes constituents.~~ — **`parcial`, actualitzat el 2026-09-19**:
+   [el referèndum constitucional de 1993](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md)
+   ja documenta la memòria de reforma de 1978 i el decret dels coprínceps de
+   1981, i [els primers referèndums](../../politica/sistema-electoral/els-primers-referendums.md)
+   en situa els efectes institucionals; continua pendent una fitxa monogràfica
+   pròpia dels dos textos.
 6. **Els enregistraments dels debats.** El volum diu que **el debat posterior a
    les ponències no s'hi reprodueix** i que **es pot consultar als
    enregistraments dipositats als Arxius Nacionals**. **Hi ha, doncs, una capa
