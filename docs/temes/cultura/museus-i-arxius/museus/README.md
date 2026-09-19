@@ -212,14 +212,7 @@ visitants** (+17,7%), més que a tots els museus junts.
   el 19-09-2026**: la cronologia d'aquesta fitxa confirma l'existència de
   l'exposició permanent i la data **1994**. El contingut de l'exposició i el
   sentit concret de la qualificació de la font encara no són al corpus.
-- **Per què cau la visita als museus, confirmat per segona via i encara sense
-  explicar.** **Afegit el 18-09-2026.** **L'enquesta d'hàbits culturals diu que
-  el 63,8% dels andorrans havien visitat un museu el 2019 i el 54,5% el 2024**,
-  **−9,3 punts**, i **la caiguda és gairebé tota dels majors de 65 anys**
-  (55,2% → 38,2%) i dels de 15 a 29 (72,5% → 58,6%)
-  ([cinc anys, i el cinema és l'única cosa que puja](../../cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md)).
-  **La taquilla i l'enquesta coincideixen**: **no és que vinguin menys turistes,
-  és que hi va menys gent.** `Per què, cap de les dues fonts no ho diu.`
+- ~~**Per què cau la visita als museus.**~~ — **`parcial` el 2026-09-19**: la taquilla i [l’enquesta d’hàbits culturals](../../cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md) coincideixen en la caiguda: **63,8 %** dels andorrans havien visitat un museu el 2019 i **54,5 %** el 2024 (**−9,3 punts**), amb la davallada concentrada sobretot en els majors de 65 anys (**55,2 % → 38,2 %**) i en els de 15 a 29 (**72,5 % → 58,6 %**). **Cap de les dues fonts n’explica la causa.**
 
 ## Related
 
