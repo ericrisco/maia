@@ -46,7 +46,8 @@ sis.**
 
 ## Els estripagecs
 
-**Un article curt que el corpus no converteix en fitxa pròpia i registra aquí:**
+**Un article curt que el corpus ja ha convertit en fitxa pròpia:**
+[els estripagecs](../temes/cultura/arquitectura/els-estripagecs.md).
 
 > **L'estripagecs —o llangardaix— és «un barrot metàl·lic, amb punxes irregulars
 > cap als laterals, que es col·loca a les finestres de les bordes i de les
@@ -61,8 +62,10 @@ a Sispony.**
 d'estripagecs al parc natural de la vall de Sorteny i als cims de la parròquia**:
 **Casamanya, Cataperdís, l'Estanyó, la Font Blanca, la Serrera i Tristaina.**
 
-**Buit obert**: [l'arquitectura](../temes/cultura/arquitectura/README.md) del
-corpus no té cap element constructiu de defensa domèstica.
+**Aquest buit ja no és obert**: [els estripagecs](../temes/cultura/arquitectura/els-estripagecs.md)
+ documenten l'element constructiu de defensa domèstica. El que continua obert a
+[l'arquitectura](../temes/cultura/arquitectura/README.md) és la casa pairal, la
+borda i els materials constructius, que són preguntes més àmplies.
 
 ## La bibliografia que el corpus no té
 
