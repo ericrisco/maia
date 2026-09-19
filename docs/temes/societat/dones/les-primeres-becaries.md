@@ -131,17 +131,7 @@ Vegeu [historiografia](../../historia/historiografia/historiografia.md).
    mecanisme d'una beca per parròquia, quinze anys després i amb tres
    parròquies més.** **Sobre el masculí, el corpus no arbitra**: **«fills» pot
    ser genèric i pot ser literal, i cap font no en dona el sexe.**
-5. **L'expedient de les beques**: qui les pagava, el veguer? el copríncep? —
-   **`obert` pel que fa a qui paga, i el corpus hi aporta una data que canvia
-   la pregunta.** **El primer decret sobre escoles primàries públiques és del
-   18 de juny del 1917** —**«l'objecte del qual era l'ensenyament de la llengua
-   francesa al territori d'Andorra»**—
-   ([l'ensenyament francès](../educacio/lensenyament-frances.md)). **Les beques
-   són del 1890: vint-i-set anys abans que hi hagués cap norma.** **No es
-   busca, doncs, una partida d'un sistema escolar, perquè el sistema encara no
-   existia**; **la font diu que es feien «segons els desitjos del veguer i
-   d'altres personalitats de l'època»**, que és **una iniciativa personal, no un
-   programa.** `Requereix font externa: arxius de la Veguería francesa.`
+5. ~~**L'expedient de les beques**: qui les pagava, el veguer? el copríncep?~~ — **`parcial` el 2026-09-19**: **el primer decret sobre escoles primàries públiques és del 18 de juny del 1917**, vint-i-set anys després de les beques de 1890, i per tant **no n'és el marc jurídic** ([l'ensenyament francès](../educacio/lensenyament-frances.md)). Toquec diu que es concedien «**segons els desitjos del veguer i d'altres personalitats de l'època**», però **no identifica qui les pagava ni conserva l'expedient**. `Requereix font externa: arxius de la Vegueria francesa.`
 6. ~~**L'*école normale* de Perpinyà** i els seus registres. ~~— **`obert`,
    confirmat, i és la clau dels buits 1 i 2**: **és l'únic lloc on hi ha d'haver
    els noms de pila.** `Requereix font externa: Arxius Departamentals dels
