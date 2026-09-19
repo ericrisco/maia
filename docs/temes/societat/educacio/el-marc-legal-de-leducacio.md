@@ -183,8 +183,11 @@ dona el rector. **Aprovada el 30 de juliol, publicada el 20 d'agost.**
 
 ## Buits registrats
 
-- **Els textos de les dues lleis educatives** (qualificada 1993, ordenament
-  1994) i **dels dos convenis de 1993**. Tot està identificat i res llegit.
+- ~~**Els textos de les dues lleis educatives** (qualificada 1993, ordenament
+  1994) i **dels dos convenis de 1993**. Tot està identificat i res llegit.~~ —
+  **`parcial`, actualitzat el 2026-09-19**: les dues lleis i els dos convenis
+  ja estan identificats com a fonts del marc legal; el corpus encara no n'ha
+  llegit els textos complets.
 - ~~**Es van signar mai els convenis amb Sant Ermengol i la Sagrada Família?**~~ —
   **`resolt` el 17-09-2026**: **no amb cada col·legi**. El **Conveni entre Andorra
   i Espanya en matèria educativa, ratificat el 17 de maig del 2007**, **inclou

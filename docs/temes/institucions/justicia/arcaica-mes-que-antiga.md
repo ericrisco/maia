@@ -307,9 +307,11 @@ tandes.**
 7. **Quines eren les altres normes episcopals** que, segons la Conclusió, **han
    perdut la força efectiva.** **La font diu que només dues la conserven i no
    enumera les que no.**
-8. **El fons Palmitjavila**: **el manuscrit de procediment, la memòria de reforma
+8. ~~**El fons Palmitjavila**: **el manuscrit de procediment, la memòria de reforma
    de la tercera instància i l'expedició original del decret de 1854.**
-   **Prioritat màxima, i ara amb tres documents identificats.**
+   **Prioritat màxima, i ara amb tres documents identificats.**~~ — **`parcial`,
+   actualitzat el 2026-09-19**: els tres documents ja estan identificats com a
+   peces del fons; el corpus encara no n'ha incorporat el text.
 
 ## Related
 

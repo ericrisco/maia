@@ -243,8 +243,10 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
   límit.**
 - **El total del país al cens del 31-05-1989**, que la ponència no publica.
   `Els ~50.200 d'aquesta fitxa són càlcul del corpus.`
-- **La taula XII** (Encamp i Sant Julià, evolució 1947-1987), que aquesta
-  lectura no ha transcrit. `Localitzada, p. 32-33.`
+- ~~**La taula XII** (Encamp i Sant Julià, evolució 1947-1987), que aquesta
+  lectura no ha transcrit. `Localitzada, p. 32-33.`~~ — **`parcial`, actualitzat
+  el 2026-09-19**: la taula ja està localitzada a les pàgines 32-33; encara no
+  se n'han transcrit les dades.
 - ~~**Les altres ponències del volum**, que segueixen sense llegir.~~ —
   **`resolt` el 18-09-2026.** **«Les migracions andorranes al segle XIX», de
   Lídia Armengol, ja era destil·lada** a
