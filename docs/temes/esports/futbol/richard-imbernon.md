@@ -54,7 +54,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Si va ser internacional.**
+- ~~**Si va ser internacional.**~~ — **`resolt` el 2026-09-19**: [National Football Teams ho registra](../../../fonts/national-football-teams-richard-imbernon.md) amb **2 partits FIFA amb Andorra i 0 gols**: **Lituània–Andorra, 29 de juny del 1998**, i **Andorra–Islàndia, 27 de març del 1999**.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

@@ -13,6 +13,7 @@ branca d'esports, que era la més buida del corpus.
 | `nahuel_carabana.html` | `https://en.wikipedia.org/wiki/Nahuel_Carabaña` |
 | `faf-sonejee-comiat-2015.txt` | Federació Andorrana de Futbol, «El comiat del capità etern» (15-10-2015) — **drets reservats, només extracte de citació breu** |
 | `olympedia-emili-perez.txt` | Olympedia, fitxa biogràfica d'Emili Pérez — **termes no especificats, només extracte de citació breu** |
+| `national-football-teams-richard-imbernon.txt` | National Football Teams, perfil internacional — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 
