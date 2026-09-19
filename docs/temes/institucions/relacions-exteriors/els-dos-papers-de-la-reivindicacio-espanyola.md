@@ -277,8 +277,15 @@ llegir París:**
 6. ~~**L'obra de Joan de Déu Trias**, *Constitución política y personalidad
    internacional del Principado de Andorra* (1890).~~ — **`resolt` com a
    duplicat el 19-09-2026**: l'enunciat canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
-7. **Què va respondre Espanya** a la tesi francesa de la suzeraineté. **Segueix
-   obert des de [qui parlava per Andorra](./qui-parlava-per-andorra.md).**
+7. ~~**Què va respondre Espanya** a la tesi francesa de la suzeraineté.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la **reial ordre espanyola del
+   setembre de 1894** ja fixa la posició oficial abans que Vilar escrivís: parla
+   del **«protectorat que Espanya exerceix» per mitjà de la Mitra d'Urgell** i
+   vol evitar una **«situació d'independència contrària als drets i interessos
+   de la Nació espanyola»** ([la reial ordre de setembre de 1894](../../historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md)).
+   **Això respon el fons —Espanya tampoc no admet una independència andorrana—,
+   però no és una rèplica a la tesi francesa de Vilar (1904):** queda obert si
+   Espanya la va contestar després i amb quin text.
 
 ## Related
 
