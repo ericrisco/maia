@@ -235,9 +235,10 @@ amb judici de valor:**
    Hispánica* que l'OCR deixa ambigua.** **Prioritari.**
 5. **Si hi va haver servitud de la gleva a Andorra.** **La font ho suggereix amb
    prudència i la seva pròpia nota ho contradiu.** **Obert.**
-6. **Qualsevol protesta andorrana contra els mals usos.** **La font diu que no
-   n'ha trobat cap i que potser no s'han exhumat.** **Buit de la font, no del
-   món.**
+6. ~~**Qualsevol protesta andorrana contra els mals usos.** **La font diu que no
+   n'ha trobat cap i que potser no s'han exhumat.**~~ — **`no-es-buit` el
+   19-09-2026: l'avís descriu una absència de la font i no permet afirmar que no
+   n'hi hagués; queda registrat com a límit documental, no com a resposta.**
 7. **Una sèrie datada de les «invasions» del comte de Foix en el dret
    episcopal**, que és el que la tesi del costum requeriria per comprovar-se.
 8. **Miret y Sans, *Investigación histórica sobre el Vizcondado de Castellbó*.**
