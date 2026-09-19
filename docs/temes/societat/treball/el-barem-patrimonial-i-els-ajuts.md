@@ -110,9 +110,11 @@ història del barem, no regla aplicable avui.**
   passar amb el decret del 2017](#que-va-passar-amb-el-decret-del-2017)»; **el
   que segueix obert són els imports i l'elegibilitat individual del 2026**, que
   no es deriven del text.
-- El [debat parlamentari del 19-04-2018](../../institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md)
-  ja s'ha llegit: documenta el desacord sobre l'habilitació del reglament,
-  però no tanca el buit d'interpretació judicial ni d'aplicació efectiva.
+- ~~**Debat parlamentari del 19-04-2018**~~ — **`parcial` el 19-09-2026**:
+  la peça ja s’ha llegit i documenta el desacord sobre l’habilitació del
+  reglament, però no tanca el buit d’interpretació judicial ni d’aplicació
+  efectiva.
+  ([Debat](../../institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md).)
 - ~~**Antecedents de 2017 i 2016**~~ — **`parcial` el 18-09-2026**: final cinquena
   del pressupost i decret d'abril llegits directament; tancat el buit de lectura d'aquestes
   dues peces. **Antecedents de 2016 també contrastats:** final setena de
