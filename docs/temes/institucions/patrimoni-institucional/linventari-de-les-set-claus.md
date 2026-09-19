@@ -117,8 +117,11 @@ el moll de l'os del model de dades
   **5.859**.
 - Les **condicions de consulta i reproducció** del fons.
 - Si hi ha **transcripcions** ja fetes, i de quins volums.
-- Si n'hi ha de **digitalitzades** i accessibles — l'Arxiu Nacional té **catorze
-  exposicions virtuals** i consta que «les Set Claus» són **en línia**.
+- ~~Si n'hi ha de **digitalitzades** i accessibles — l'Arxiu Nacional té **catorze
+  exposicions virtuals** i consta que «les Set Claus» són **en línia**.~~ —
+  **`parcial`, actualitzat el 2026-09-19**: el corpus ja confirma que «les Set
+  Claus» són en línia i que l'Arxiu Nacional manté catorze exposicions virtuals;
+  encara no n'ha verificat l'inventari digitalitzat ni les condicions d'accés.
 - La relació entre aquest fons i les **~7.500 actes transcrites** que el Consell
   General cita.
 

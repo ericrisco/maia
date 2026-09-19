@@ -208,12 +208,11 @@ sap quines ni en quines condicions.
 4. ~~**Les mútues d'incendis**: noms, pobles, estatuts, si en queda cap.~~ —
    **`obert`, confirmat**, i **bessó** del que declara
    [l'associacionisme històric](./lassociacionisme-historic.md).
-5. **Quines consòrcies prestaven diners**, i amb quines condicions. —
-   **`obert`, i ara amb la referència exacta per anar-hi**: **Canturri, *La
-   consòrcia de casats d'Andorra*, 1989**, i **Mas & Mas, *Consòrcies i
-   germandats de Sant Julià de Lòria*, 1987**, localitzades a
-   [les tres fases](../../historia/historiografia/les-tres-fases.md).
-   **El corpus ja no cerca: encarrega.**
+5. ~~**Quines consòrcies prestaven diners**, i amb quines condicions.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: les monografies ja estan
+   identificades —**Canturri (1989)** i **Mas & Mas (1987)**, referenciades a
+   [les tres fases](../../historia/historiografia/les-tres-fases.md)—; el corpus
+   encara no n'ha extret quines consòrcies prestaven diners ni les condicions.
 6. ~~**El Politar, pàgina 277 i màxima 32**, contra l'original: Brutails cita per
    l'exemplar «de la Délégation permanente», i **el corpus no sap si totes les
    còpies diuen el mateix**.~~ — **`parcial`, i la sospita era fundada.**
