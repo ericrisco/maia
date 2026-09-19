@@ -71,7 +71,11 @@ corpus, i queda marcada com a tal.**
 
 ## Buits registrats
 
-1. **La fitxa de World Athletics** amb tots els seus resultats.
+1. ~~**La fitxa de World Athletics** amb tots els seus resultats.~~ — **`parcial`
+   el 19-09-2026**: el [perfil oficial](../../fonts/world-athletics-nahuel-carabana.md)
+   és accessible i mostra els personal bests i l'historial dinàmic —inclou
+   **8:12.80 als 3.000 m obstacles (2025)** i **7:54.02 als 3.000 m (2024)**—,
+   però el corpus no en transcriu la taula completa.
 2. **Els rècords andorrans** que té: marques i dates exactes.
 3. **On s'entrena i amb qui.**
 4. **La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
