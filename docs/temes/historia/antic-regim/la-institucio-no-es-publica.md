@@ -299,8 +299,11 @@ d'una tanda diferent**:
    —sona a l'*arbitrium boni viri* del dret romà, **i això el corpus no ho pot
    acreditar amb cap font que tingui**— i **el buit queda obert per aquesta
    banda**: `requereix doctrina de dret civil català o romà`.
-8. **Si el pacte de «cinc sous en amunt» era una xifra estàndard** o **cada
-   contracte en posava una.** **La font diu «per exemple, 5 sous».**
+8. ~~**Si el pacte de «cinc sous en amunt» era una xifra estàndard** o **cada
+   contracte en posava una.**~~ — **`parcial` el 2026-09-19**: **la font
+   presenta els cinc sous només «per exemple»**, de manera que documenta un cas
+   i no permet tractar-los com una tarifa general ni saber quines quantitats
+   posaven els altres contractes.
 
 ## Related
 
