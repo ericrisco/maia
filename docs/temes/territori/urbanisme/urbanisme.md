@@ -87,8 +87,12 @@ territori nacional blindat**, en un país que no té on posar la gent.
   ordinacions vigents s'apliquin mentre no s'aprovi el pla parroquial
   (disposicions transitòries). El text de cada ordinació comunal encara no és al
   corpus ([font BOPA](../../../raw/consell-general/bopa-lgotu-original-2000.txt)).
-- **L'alçada i la densitat**: com s'ha construït a Andorra la Vella i
-  Escaldes, que formen un continu urbà.
+- ~~**L'alçada i la densitat**: com s'ha construït a Andorra la Vella i
+  Escaldes, que formen un continu urbà.~~ — **`parcial` el 19-09-2026**: la
+  Llei d'ordenació del territori i urbanisme encomana als instruments de
+  planejament fixar el percentatge de sòl ocupable, el volum, la forma i el
+  nombre de plantes de les edificacions (**article 4.1.b**). El corpus encara
+  no té els perfils construïts ni la comparació històrica de les dues parròquies.
 - Les **estacions d'esquí** com a fet urbanístic, no com a indústria.
 - El **despoblament dels pobles alts** contra la concentració al fons de vall.
 - ~~L'**arquitectura tradicional** —la casa andorrana, la borda de veritat— i el
