@@ -206,8 +206,10 @@ de 1975 i no ho pot dir**.
 6. **La sentència del batlle de 1892**, sencera.
 7. **El cas en què una dona va necessitar autorització del batlle per vendre**:
    **«me n'han citat almenys un cas»** —**testimoni oral, sense document**.
-8. **Si a Andorra hi va haver mai declaració formal de fallida**, i **des de
-   quan**. El 1904 **no n'hi havia**.
+8. ~~**Si a Andorra hi va haver mai declaració formal de fallida**, i **des de
+   quan**.~~ — **`parcial`, actualitzat el 2026-09-19**: la font estableix que
+   **el 1904 no n'hi havia cap**. **Segueixen obertes l'existència d'una
+   declaració en un altre moment i la data d'inici o desaparició del règim.**
 9. **La revocació del jutge d'apel·lacions de 1840**: el corpus té **la petició
    del Síndic** i **que es va pronunciar**, **no l'acte de revocació**.
    `Requereix font externa: Archives départementales de l'Ariège, Andorre,
