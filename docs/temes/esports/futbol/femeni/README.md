@@ -113,8 +113,11 @@ Alexia també hi ha corregut.** **Tres persones de la mateixa família al Dakar.
   **`parcial` el 2026-09-19**: [la selecció femenina](./la-seleccio-femenina.md)
   en documenta tres amb data i marcador; les sis restants continuen sense
   documentar.
-- **La competició nacional femenina del 2010-11** que la font esmenta en una
-  línia i no torna a esmentar.
+- ~~**La competició nacional femenina del 2010-11** que la font esmenta en una
+  línia i no torna a esmentar.~~ — **`parcial` el 19-09-2026**, tancat com a
+  duplicat de [la selecció femenina](./la-seleccio-femenina.md): la font
+  confirma que hi va haver una edició el 2010–11, però no en dona el format,
+  els equips ni el motiu pel qual no va continuar.
 - ~~**Les seleccions de base**: la sub-17 existeix i el corpus només en té
   [una jugadora](./maria-moles.md).~~ **`parcial`:** la fitxa ja confirma
   l'existència de la sub-17 i documenta Maria Moles; les plantilles completes
