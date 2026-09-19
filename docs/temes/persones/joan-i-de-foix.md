@@ -68,7 +68,7 @@ d'Urgell (1435, sense fills)**.
    — **`resolt` el 18-09-2026**: **ara en té**, a
    [persones/isabel-de-foix](./isabel-de-foix.md) — **copríncep per dret
    propi del 1398 al 1412**, catorze anys abans que ell.
-2. **El contingut complet del privilegi del 1433** amb Francesc de Tovia.
+2. ~~**El contingut complet del privilegi del 1433** amb Francesc de Tovia.~~ **[parcial · 2026-09-19]** La fitxa dels bisbes d'Urgell ja en resumeix l'abast: **impostos, atribucions comunals i administració de justícia**. El text íntegre i el detall de cada disposició encara no consten.
 
 ## Related
 
