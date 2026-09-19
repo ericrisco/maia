@@ -1,4 +1,4 @@
-# Captures web de política andorrana
+# Fonts web sobre síndics, caps de Govern i partits d'Andorra
 
 Captures de les llistes polítiques de la Viquipèdia, **12 de setembre del 2026**.
 
