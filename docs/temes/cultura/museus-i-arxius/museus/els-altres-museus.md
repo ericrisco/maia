@@ -153,7 +153,7 @@ en té una fitxa pròpia al [Centre d'Art d'Escaldes-Engordany](../../arts-visua
   **Antoni Zorzano Riera**, empresari, fundador del Museu de la Miniatura
   d'Ordino i cònsol honorari d'Ucraïna des del 2008
   ([font](../../../../raw/web/cultura/antoni-zorzano-bondia-2026.txt)).
-- **El còmic andorrà** i **La Massana Còmic**.
+- ~~**El còmic andorrà** i **La Massana Còmic**.~~ — **`parcial` el 19-09-2026**: aquesta fitxa ja identifica **La Massana Còmic** com el projecte del Museu del Còmic, amb més de **40 còmics d'artistes consagrats** i tallers setmanals. El corpus encara no té el còmic andorrà ni la història, les edicions i el catàleg complet de la cita.
 - ~~**Quantes de les peces romàniques del centre d'interpretació són originals i
   quantes reproduccions.**~~ — **`parcial`, confirmat el 19-09-2026**: la
   llista identifica peces patrimonials (pedra clau, eina, muntants, creu,
