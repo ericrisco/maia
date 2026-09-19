@@ -65,6 +65,16 @@ pàgines** i porta l'**ISBN 99920-02-92-1** ([traça bibliogràfica](../../../ra
 El catàleg localitza un exemplar a la Biblioteca Nacional de Catalunya. **Cap
 d'aquestes metadades permet inferir la mostra o la redacció de la pregunta.**
 
+**El model sistèmic de la Universitat d'Andorra aporta una lectura posterior de
+les pàgines que el llibre del 2010 cita:** diu que l'estudi de 2002 va ser l'única
+edició, que descrivia els usos per sistema d'escolarització, nacionalitat i
+gènere, i que les dades corresponen a la població de **8 a 16 anys** (pp. 41-42,
+154). També conserva la distribució escolar del 2002 —**40,1% espanyol, 38,7%
+francès i 20,5% andorrà**— i remet a la p. 24 per als usos amb els amics fora de
+l'escola (p. 157) ([fitxa del model](../../../fonts/uda-model-sistemic-2010.md)).
+**Això concreta l'univers i les dimensions de l'estudi; no substitueix la mostra
+ni el qüestionari originals.**
+
 ## El multilingüisme que resulta ser teòric
 
 **La frase que tanca l'apartat, i que és la tesi de l'estudi** *(p. 69)*:
@@ -270,17 +280,20 @@ nota al peu en cita un altre:**
    *Coneixements i usos lingüístics dels escolars d'Andorra*.** **La font
    original continua sense formar part de les catorze peces del fons**, però la
    recerca de 2017 n'ha confirmat el títol, el curs **2000-2001** i l'ús com a
-   comparació. **`parcial` el 2026-09-19**: falten l'original, la mostra, el
-   qüestionari i els percentatges complets. **Prioritari.**
+   comparació; el model sistèmic posterior n'ha fixat l'univers de **8 a 16 anys**
+   i les dimensions de l'enquesta. **`parcial` el 2026-09-19**: falten l'original,
+   la mostra concreta, el qüestionari i els percentatges complets. **Prioritari.**
 2. ~~**La quarta onada del 2004** de l'enquesta de població.~~ — **`resolt` el
    2026-09-18**: el PDF [*Coneixements i usos lingüístics de la població
    d'Andorra. Situació actual i evolució (1995-2009)*](../../../raw/llengua-usos-linguistics/coneixements2011.pdf), **DL AND. 908-2011**, explica a la p. 7 que la metodologia permet comparar els estudis de **1995, 1999, 2004 i 2009**; el gràfic de llengua materna de la p. 9 inclou les quatre sèries i la fitxa tècnica de la p. 27 torna a enumerar les quatre onades. **Divergència registrada:** l'etiqueta de la segona sèrie del gràfic extret diu «2000», mentre que el text metodològic diu «1999»; el corpus no l'arbitra.
 3. **Sobre quina mostra i amb quina pregunta es va mesurar que «un 20% dels joves
    enquestats no sabien que l'única llengua oficial al país és la catalana».**
    **La recerca posterior dona el contrapunt del 2011-2012 —un 97% ja deia
-   saber quina era la llengua oficial (p. 102)— i confirma que el 2000-2001 és
-   una comparació metodològicament diferent. `parcial` el 2026-09-19:** la
-   mostra i la formulació exacta de la pregunta del 20% encara no s'han vist.
+   saber quina era la llengua oficial (p. 102)— i el model sistèmic concreta que
+   l'univers del 2002 era la població de **8 a 16 anys**. Confirma que el
+   2000-2001 és una comparació metodològicament diferent. `parcial` el
+   2026-09-19:** la mostra concreta i la formulació exacta de la pregunta del
+   20% encara no s'han vist.
 4. **Si el gràfic del nivell de parla existeix en alguna altra edició o
    reimpressió** del llibre. **A la que el corpus té, no hi és.** La recerca de
    2017 sí que reprodueix en un gràfic posterior la sèrie **2000-2001/2011-2012**

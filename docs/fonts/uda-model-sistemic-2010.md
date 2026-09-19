@@ -7,7 +7,7 @@ url: https://www.govern.ad/documents/d/guest/model_us_catala?download=true
 llicencia: sense llicència declarada; el document no porta pàgina de crèdits, ni ISBN, ni dipòsit legal
 redistribucio: "no"
 data_consulta: 2026-09-13
-abast: 189 pàgines. Resum, escenaris 1 i 2 (p. 116-125) i conclusions i limitacions (p. 137-144) llegits i destil·lats. Els escenaris 3 a 7 (p. 126-136) i la construcció del model (p. 1-115) llegits en extracte i no destil·lats.
+abast: 189 pàgines. Resum, la contextualització de l'estudi escolar (p. 41-42), la nota metodològica sobre la població de 8 a 16 anys (p. 154), la comparació de sistemes educatius (p. 157), els escenaris 1 i 2 (p. 116-125) i conclusions i limitacions (p. 137-144) llegits i destil·lats. Els escenaris 3 a 7 (p. 126-136) i la resta de la construcció del model (p. 1-40, 43-115) llegits en extracte i no destil·lats.
 notes: >
   Ajut Lídia Armengol Vila a la investigació lingüística 2008-2009. Datat «Sant
   Julià de Lòria, gener de 2010». A diferència de la resta del fons, **no porta
@@ -27,6 +27,20 @@ Els autors són del **Grup de recerca en llengua catalana de la Universitat
 d'Andorra**. **Carolina Bastida** és també coautora de
 [l'estudi de terminologia](montane-bastida-terminologia-2019.md), nou anys
 després.
+
+## L'estudi escolar que el model encara necessita
+
+El model diu que l'estudi escolar de 2002 és **l'única font disponible per als
+menors de quinze anys** i que va tenir **una sola edició** (pp. 41-42). El descriu
+com una enquesta que analitza els usos segons **sistema d'escolarització,
+nacionalitat, gènere i altres factors**. Una nota posterior concreta que les
+dades d'hàbits corresponen a la població de **8 a 16 anys** (p. 154).
+
+La mateixa font conserva alguns resultats que no depenen del llibre original:
+el 2002, el **40,1%** dels escolars anava al sistema espanyol, el **38,7%** al
+francès i el **20,5%** a l'andorrà; i el capítol remet a la p. 24 de l'estudi per
+als usos amb els amics fora de l'escola (p. 157). **És una lectura de segon grau,
+però ja fixa l'univers d'edat i les dimensions de la taula que encara falta.**
 
 ## Lectures
 
