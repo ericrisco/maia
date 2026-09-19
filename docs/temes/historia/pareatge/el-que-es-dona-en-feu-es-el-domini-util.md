@@ -149,6 +149,15 @@ en dona la definició i les fraccions, preses dels Usatges de Barcelona:**
 intestia, l'exorquia i la cugucia**— i **en treu una inferència que marca com a
 prudent**:
 
+**L'apèndix llatí que el mateix volum reprodueix permet precisar la referència.**
+L'encapçalament el data el **8 de setembre de 1278** i identifica el document com
+el pariatge convingut entre **Pere d'Urgell, bisbe d'Urgell, i Roger-Bernard,
+III comte de Foix**. La clàusula diu: **«*Diffinitio autem et remissio facte
+hominibus dicte vallis per predictum comitem de intestia, exorquia et cugucia,
+ratione justiciarum, rate permaneant imperpetuum*»**. La nota del capítol remet a
+**`Marca Hispánica, 8834`**; és el localitzador bibliogràfic que dona Ríos, no una
+signatura arxivística de l'original.
+
 > **com que al segle XIII aquests usos pressuposaven en general l'adscripció a la
 > gleva, «*suponerla existente en Andorra antes de la fecha de la remisión, tal
 > vez no fuera arriesgado*».**
@@ -231,8 +240,10 @@ amb judici de valor:**
 3. **Miret y Sans, *Noves y documents inèdits sobre la família senyorial de
    Caboet y la Qüestió d'Andorra*, Barcelona, 1918.** **Nova i prioritària.**
 4. **El document de remissió dels mals usos a Andorra**: **quin comte, quina
-   data, quina signatura.** **La font el cita amb una referència a la *Marca
-   Hispánica* que l'OCR deixa ambigua.** **Prioritari.**
+   data, quina signatura.** — **`parcial`, actualitzat el 2026-09-19**: l'apèndix
+   identifica **Roger-Bernard III, comte de Foix**, i el **8 de setembre de 1278**;
+   la nota remet a **`Marca Hispánica, 8834`**, però el volum no dona la signatura
+   arxivística de l'original.
 5. **Si hi va haver servitud de la gleva a Andorra.** **La font ho suggereix amb
    prudència i la seva pròpia nota ho contradiu.** **Obert.**
 6. ~~**Qualsevol protesta andorrana contra els mals usos.** **La font diu que no
