@@ -350,9 +350,12 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
 - **El *censal***, l'altra figura de crèdit que
   [el notariat](../../institucions/justicia/el-notariat.md) declara i que **cap
   font del corpus no explica**. **Segueix obert.**
-- **El crèdit eclesiàstic medieval**, que [abans dels bancs](./abans-dels-bancs.md)
-  declara. **Becat hi posa el motiu pel qual importa** —la prohibició del préstec
-  amb interès— **i no en dona cap registre andorrà.**
+- ~~**El crèdit eclesiàstic medieval**, que [abans dels bancs](./abans-dels-bancs.md)
+  declara.~~ — **`parcial` el 2026-09-19**: [Abans dels bancs](./abans-dels-bancs.md)
+  ja documenta cinc casos entre **1383 i 1532**, amb prestamistes, imports i
+  contrapartides: jueus de la Seu i Puigcerdà, un mercader d'Acs, un veí
+  d'Andorra, un prevere del Pui i el capítol de la Seu. **Encara falta saber
+  l'abast complet del crèdit eclesiàstic i quins registres se'n conserven.**
 
 ## Related
 
