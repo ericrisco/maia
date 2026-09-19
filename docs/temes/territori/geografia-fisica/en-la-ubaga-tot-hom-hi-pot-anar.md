@@ -317,8 +317,13 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    `Requereix font externa: els llibres d'acords del Consell General.`
 4. **Els decrets del 23-12-1869 (Sornàs), del 22-12-1886 (la borda) i del
    24-12-1900 (emprius y terrenos mitgés)**, sencers.
-5. **La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,
-   i com va acabar.**
+5. ~~**La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,
+   i com va acabar.**~~ — **`parcial` el 19-09-2026**: la comissió del Consell
+   General va resoldre el diferend entre els *quarts* de **la Cortinada i
+   Ansalonga**, condemnant a pagar **«l'onsa que lo de Ansalonga depositá per fer
+   celebrar Consell general»** i **10 duros 1 ral** de despeses. **No consta què
+   era aquella *onsa* ni si calia dipositar-la sempre per convocar el Consell
+   General** ([la sentència i el seu desenllaç](../../institucions/justicia/vaig-entendre-per-que-els-terminis-es-respectaven-tant.md)).
 6. ~~**Què és exactament *l'estrany***: **quant es cobrava.**~~ — **`parcial` el
    18-09-2026: la naturalesa i el cobrador, tancats.** **El *Politar*, pp.
    262-263**, el tracta com a **càrrega sobre el bestiar forà**, amb **dos
