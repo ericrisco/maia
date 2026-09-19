@@ -144,10 +144,11 @@ sustentant-se principalment de l'art (article 3.3).
 
 ## Buits registrats
 
-- **Desocupació: norma localitzada i redaccions de 2020–2021 llegides.** Vegeu
-  [l'ajut per desocupació involuntària](lajut-per-desocupacio-involuntaria.md).
-  Queda oberta la verificació completa de la vigència actual; el buit era
-  de documentació reglamentària, no prova d'absència de prestació.
+- ~~**Desocupació: norma localitzada i redaccions de 2020–2021 llegides.**~~ —
+  **`parcial` el 19-09-2026**: vegeu [l'ajut per desocupació
+  involuntària](lajut-per-desocupacio-involuntaria.md). Queda oberta la
+  verificació completa de la vigència actual; el buit era de documentació
+  reglamentària, no prova d'absència de prestació.
 - **Els nivells d'ingressos** que decideixen qui és artista acreditat van a
   reglament i **no són al corpus**.
 - **Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes
