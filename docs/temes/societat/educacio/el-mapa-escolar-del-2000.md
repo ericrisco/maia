@@ -500,7 +500,12 @@ any per any. Això només hi és per al 1999/2000, a l'annex 4.`
 
 ## Buits registrats
 
-- **Tot això el 2026.** Aquesta fitxa és del 2000. **Buit prioritari.**
+- ~~**Tot això el 2026.**~~ **`parcial` el 19-09-2026**: [Els tres sistemes
+  educatius](./els-tres-sistemes.md) actualitza la branca amb el repartiment del
+  curs **2023-2024** —andorrà **41,33 %**, francès **29,66 %**, espanyol
+  **26,79 %** i anglès **2,22 %**— i indicadors per nivell fins al curs
+  **2024-2025**. Encara no hi ha aquí una sèrie completa per centre ni una
+  fotografia estricta del 2026.
 - ~~**Les xifres d'alumnat per centre**: la font en dona quadres que el corpus
   no ha pogut extreure del PDF.~~ — **`resolt` el 18-09-2026**: **l'annex 4
   transcrit sencer, quaranta centres per cinc nacionalitats**, i **l'annex 1, la
