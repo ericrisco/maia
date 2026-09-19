@@ -81,8 +81,14 @@ casos no se'n treu cap.
 3. **Els seus millors llocs de Copa del Món** —quants top-10, quants top-20—
    que la font no dona.
 4. **Per què entrena a Noruega** i com es finança.
-5. **Gina del Rio**, l'altra fondista andorrana, present a Milano Cortina 2026.
-6. **Francesc Soulié**, el primer fondista olímpic andorrà (Vancouver 2010).
+5. ~~**Gina del Rio**, l'altra fondista andorrana, present a Milano Cortina
+   2026.~~ — **`resolt` el 2026-09-19**: la [fitxa de Gina del Rio](../esports/esqui/esquiadors/gina-del-rio.md)
+   confirma que va representar **Andorra als Jocs de Milano Cortina 2026** i
+   que va ser **35a als 10 km lliures**.
+6. ~~**Francesc Soulié**, el primer fondista olímpic andorrà (Vancouver 2010).~~
+   — **`resolt` el 2026-09-19**: la [fitxa de François Soulié](../esports/esqui/esquiadors/francois-soulie.md)
+   el documenta com a **primer fondista olímpic d'Andorra**, amb participació a
+   **Torí 2006 i Vancouver 2010** i **47è als 50 km** de Vancouver.
 
 ## Related
 
