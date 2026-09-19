@@ -371,8 +371,10 @@ M€)**, **ingressos patrimonials (46,2 M€)**, **actius financers (49,6 M€)*
   llegides** a «[Què va canviar cada llei
   modificadora](#que-va-canviar-cada-llei-modificadora)». `Cap de les sis no
   canvia un tipus de gravamen: els tipus d'aquesta fitxa són els originals.`
-- **Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
-  els d'aquesta fitxa són els de la instantània.
+- ~~**Els tipus es poden modificar per llei del pressupost** en diversos supòsits;
+  els d'aquesta fitxa són els de la instantània.~~ — **`no-es-buit`** el
+  19-09-2026: és un avís metodològic sobre la vigència de la instantània, no
+  una pregunta de recerca pendent.
 - **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
   es finança l'Estat. — **`parcial` el 17-09-2026, i amb dos graons guanyats**:
   **la suma** a «[Quant pesa tot plegat](#quant-pesa-tot-plegat-275-del-pib)» i
