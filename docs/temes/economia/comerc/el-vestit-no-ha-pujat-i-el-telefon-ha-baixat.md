@@ -225,10 +225,12 @@ les actes.`
   Que el lloguer passi de 1.190 a 1.874 vol dir que l'estadística considera que
   hi va una part més gran del pressupost domèstic, no que el lloguer hagi pujat
   aquest percentatge.`
-- **Els noms de les sèries arriben en anglès** encara que es demani
+- ~~**Els noms de les sèries arriben en anglès** encara que es demani
   `language=ca`. La traducció de la taula de grups és **del corpus**; el TSV en
   brut conserva l'original. `El corpus no ha comprovat que la traducció
-  coincideixi amb la nomenclatura catalana oficial de COICOP.`
+  coincideixi amb la nomenclatura catalana oficial de COICOP.`~~ — **`no-es-buit`
+  el 19-09-2026**: és un avís de representació de la font i no presenta la
+  traducció com a nomenclatura oficial.
 - **Què va passar el juliol i el setembre del 2022 amb l'autobús**, norma per
   norma i data per data. El corpus té **els dos salts de l'índex** i **una
   menció de l'abonament gratuït**, i **no ha creuat cap de les dues coses amb el
