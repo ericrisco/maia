@@ -122,8 +122,14 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
   actuals de l'entitat»— i **el Govern confirma que en vol assumir el
   relleu**
   ([font](../../fonts/radiovalira-nit-literaria-fi.md)).
-- **Si hi ha relació** amb **Ferran Palau i Martí**, que la font situa al costat
-  seu. **El corpus registra la coincidència de cognoms i no afirma parentiu.**
+- ~~**Si hi ha relació** amb **Ferran Palau i Martí**, que la font situa al costat
+  seu.~~ — **`parcial` el 22-09-2026**: el mateix bolcat identifica **Ferran
+  Palau i Martí** com a **matemàtic i lingüista català**, autor d'estudis sobre
+  fonologia i preposicions, mentre aquesta fitxa identifica **Montserrat Palau i
+  Martí** com a **etnòloga i historiadora** nascuda a Barcelona el 1916
+  ([font](../../fonts/wikipedia-religio-andorra.md)). **Són dues biografies
+  diferenciades en la font**, però cap document consultat estableix si tenen
+  parentiu.
 
 ## Related
 
