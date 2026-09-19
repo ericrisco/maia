@@ -250,8 +250,15 @@ el corpus no ho ha comprovat lexicogràficament.»**
 1. **D'on treia la font el termini de tretze dies el 1904.** **El dona com a cosa
    sabuda i no cita norma ni ús.** **Prioritari**: **és el pont que faltaria entre
    el tretze històric i el del Codi vigent.**
-2. **Les «regles molt netes que fixen els diversos terminis del procediment
-   d'apel·lació»** que la font invoca. **No les cita.**
+2. ~~**Les «regles molt netes que fixen els diversos terminis del procediment
+   d'apel·lació»** que la font invoca.~~ — **`parcial`, actualitzat el
+   2026-09-19**: el corpus ja pot enumerar les regles que governen el còmput:
+   **deu dies de dret més tres de gràcia**, notificació efectiva com a punt de
+   partida, exclusió dels dies feriats i requeriment del tribunal *ad quem*
+   dins del termini ([tretze dies, però comptats d'una altra manera](./tretze-dies-pero-comptats-duna-altra-manera.md);
+   [deu dies de dret i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md)).
+   **Segueix pendent la norma històrica completa** que Brutails tenia al cap quan
+   va parlar de «regles molt netes», perquè ell no en dona cap referència.
 3. ~~**Els *apòstols***: **comprovació lexicogràfica contra un diccionari**.~~ —
    **`resolt` el 18-09-2026, i la lectura del corpus era exacta.** **El
    [DIEC2](../../../fonts/diec2.md) té l'entrada, com a plural i amb marca
