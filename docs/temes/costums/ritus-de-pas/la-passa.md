@@ -101,8 +101,11 @@ hauria de tenir fitxa pròpia a
 - **Què es canta o es toca** durant la Passa, si és que s'hi toca res.
 - **Com es formen les parelles**, i què passa si algú no en té.
 - **Des de quan** es fa, i si és tradició continuada o recuperada.
-- L'**Esbart Laurèdia** publica un recull, *Els balls d'Andorra*, **identificat i
-  no consultat** — hauria de tancar bona part d'aquests buits.
+- ~~L'**Esbart Laurèdia** publica un recull, *Els balls d'Andorra*, **identificat i
+  no consultat** — hauria de tancar bona part d'aquests buits.~~ — **`parcial`,
+  actualitzat el 2026-09-19**: el títol i l'entitat editora ja estan identificats
+  com a font potencial per a la Passa; el corpus encara no n'ha consultat el
+  contingut.
 - Si hi ha res equivalent **a les altres parròquies**.
 
 ## Related
