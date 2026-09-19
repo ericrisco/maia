@@ -151,7 +151,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    posiciona per a Los Angeles 2028** amb 2.500 punts de 3.000 en C1 i
    2.200 en K1
    ([font](../../fonts/monica-doria-altaveu-millor-temporada.md)).
-8. **Quan Andorra va federar el piragüisme.**
+8. ~~**Quan Andorra va federar el piragüisme.**~~ **[parcial · 2026-09-19]**
+   La fitxa ja identifica la federació nacional, la **Federació Andorrana de
+   Canoa i Caiac (FACC)**. L'any de fundació o de federació encara no consta.
 
 ## Related
 
