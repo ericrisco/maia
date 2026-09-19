@@ -120,8 +120,11 @@ al país.** **Buit registrat, i llaminer:** quina coca té cada poble.
 ## Buits registrats
 
 1. **Quina coca fa cada poble** per la festa major. Buit gran i tancable.
-2. **Cassola de brossat**, **greixonera de carbassa**, **flaó**, **panada** — cap
-   no té fitxa.
+2. ~~**Cassola de brossat**, **greixonera de carbassa**, **flaó**, **panada** — cap
+   no té fitxa.~~ — **`resolt` el 19-09-2026** amb [Menges del forn
+   tradicional](../plats/menges-del-forn-tradicional.md), que documenta els
+   quatre noms i l'ús del forn a partir de Ribes. Les receptes completes i les
+   variants locals continuen obertes dins la fitxa nova.
 3. Els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992) i el
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
 4. **Quan arriba la taula** a les cases humils, i per què als anys cinquanta.
