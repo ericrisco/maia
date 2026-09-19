@@ -311,13 +311,13 @@ genètic o neurològic** segons la classificació de l'OMS.
   CASS per als informes.` Tampoc s'han trobat expedients que permetin interpretar
   la diferència entre «igual o superior» i «majors» de 65 anys de les
   disposicions de 2022 i 2023.
-- L’article 15.2.b remet a una «disposició transitòria segona», però
-  l’exemplar de tretze pàgines llegit no conté aquesta disposició.
-  L’antecedent de 2018 i el canvi de remissió de 2019 ja s’han contrastat
-  més amunt. L’efecte jurídic després de la derogació de 2026, una eventual
-  esmena i els expedients d’aplicació continuen pendents; no s’ha corregit
-  silenciosament cap exemplar. La pàgina CASS de Catalunya aporta el tall
-  del 29-07-2026, amb el límit informatiu exposat més amunt.
+- ~~**Remissió de l’article 15.2.b**~~ — **`parcial` el 19-09-2026**:
+  l’exemplar de tretze pàgines llegit no conté la «disposició transitòria
+  segona». L’antecedent de 2018 i el canvi de remissió de 2019 ja s’han
+  contrastat més amunt. L’efecte jurídic després de la derogació de 2026,
+  una eventual esmena i els expedients d’aplicació continuen pendents; no
+  s’ha corregit silenciosament cap exemplar. La pàgina CASS de Catalunya
+  aporta el tall del 29-07-2026, amb el límit informatiu exposat més amunt.
 - No s’han llegit les normes específiques que puguin desplegar l’accés
   directe del 8.3, els protocols de derivació o prescripció d’infermeria,
   els convenis ni la cartera i nomenclatura completes. No s’han consultat
