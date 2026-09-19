@@ -84,6 +84,21 @@ I què en treiem, que és el que fa aquesta fitxa útil:
 aquests relats són **font etnogràfica de primer ordre**, precisament perquè
 **l'autor no sabia que estava fent etnografia**.
 
+La cronologia cultural del Govern d'Andorra permet posar-hi noms i anys. La
+pròpia font diu que no és una relació exhaustiva, però ja deixa una primera
+llista verificable: **Erskine Murray**, *A Summer in the Pyrenees* (1836);
+**Mary Eyre** (1856); **Frederick Harold Deverell**, *Border lands of Spain
+and France, with an account of a visit to the republic of Andorre* (la font el
+data 1854, mentre que altres registres del corpus el situen el 1883-1884);
+**Bayard Taylor**, capítol d'*By-Ways of Europe* (1869); **Lewis Gaston
+Leary**, *Andorra, the Hidden Republic* (1877); **Gaston Vuillier**, *Le val
+d'Andorre* (1888); **Josep Aladern**, *Cartes andorranes* (1892);
+**Harold Spender i Hubert Llewellyn Smith**, *Through the High Pyrenees*
+(1896), també com a article *A Visit to Andorra* (1897); i **Artur Osona**,
+amb relats d'Andorra que li van valer el nomenament de fill adoptiu el 1897.
+La mateixa font hi afegeix **Lee Meriwether** (viatge de 1908), **Hilaire
+Belloc** (1909) i altres relats francesos, catalans, castellans i portuguesos.
+
 Això respon, en part, al problema que planteja Canturri: **que no existeix cap
 costumari d'Andorra**
 ([els usos i costums](../cultura-popular/els-usos-i-costums.md)). **No n'hi ha
@@ -123,8 +138,10 @@ trajecte; **el que digui dels costums s'ha de contrastar**.
    capítol andorrà; la BnF també cataloga *Pyrénées* dins la col·lecció
    *Guide Joanne*. Les fonts descriuen història, mapes, accessos, temps,
    fondes i rutes, però encara no s'ha obtingut ni buidat cap còpia digital.
-2. **Quins relats de viatge** exactament: llista amb autor i any. El corpus no en
-   té cap d'identificat.
+2. ~~**Quins relats de viatge** exactament: llista amb autor i any. El corpus no
+   en té cap d'identificat.~~ — **`parcial`, confirmat el 2026-09-19**: la
+   cronologia cultural del Govern identifica una primera sèrie d'autors, títols
+   i anys, però adverteix que la relació exhaustiva continua oberta.
 3. **Què hi deien dels costums** i del menjar, literalment.
 4. **Quines fondes** recomanaven, per parròquia.
 5. **Quan apareix Andorra** per primera vegada en una guia turística.
