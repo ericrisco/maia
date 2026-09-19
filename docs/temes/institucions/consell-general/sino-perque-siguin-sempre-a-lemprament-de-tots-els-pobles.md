@@ -284,9 +284,12 @@ català** *(p. 125)*:
    facultat de jutjar l'oportunitat i l'extensió, per Brutails, i la de la sanció
    prèvia dels treballs públics, en català, per aquesta— **i no té el document.**
    **Prioritari.**
-2. **L'article de Brutails *Étude historique sur la loi Stratae***, *Revue
-   historique du droit français et étranger*, **1888**. **Font nova per al corpus,
-   i del mateix autor que ja hi és en tres obres.**
+2. ~~**L'article de Brutails *Étude historique sur la loi Stratae***, *Revue
+   historique du droit français et étranger*, **1888**.~~ — **`parcial` el
+   19-09-2026**: l'article queda identificat al registre bibliogràfic de Persée
+   com **_Étude historique sur la loi Stratæ (article 72 des Usages de
+   Barcelone)_** i hi ha localitzada una còpia digital del volum; el text de
+   l'article encara no s'ha llegit ([fitxa de procedència](../../../raw/web/historia/brutails-loi-stratae-1888.txt)).
 3. ~~**L'usatge *Strata* en l'edició d'Abadal i Valls**, i **quina és la seva
    numeració**: l'exemplar dona «el Usaje 71 y 2» amb OCR defectuós.~~ —
    **`resolt` el 17-09-2026 llegint la pàgina impresa** (p. 124, render
