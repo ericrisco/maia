@@ -367,7 +367,7 @@ anys anteriors cal una altra font.
    ([font](../../../fonts/estadistica-cens-electors-nacional.md)).
    **No verificat si coincideix exactament amb «tots els andorrans majors
    de 18 anys».**
-4. **El text de les tres lleis** (1975, 1984, 1993).
+4. ~~**El text de les tres lleis** (1975, 1984, 1993).~~ **`parcial` el 2026-09-19**: els textos de **1993** i **1995** ja són al corpus i estan llegits a [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) —[llei de 1993](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt) i [llei de 1995](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt)—, però el text de **1975** i la norma de quotes de **1984** encara no hi són.
 5. **Els 7.000 «nascuts a Andorra»**: què se'n va fer, un a un.
 6. **Els repatriats portuguesos de les colònies africanes**: quants, d'on.
 7. **Per què els francesos baixen** del 7,8% al 4%.
