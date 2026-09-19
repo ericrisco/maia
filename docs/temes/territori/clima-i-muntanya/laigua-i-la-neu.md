@@ -72,6 +72,19 @@ un inventari de **despesa per usos, any 2019**. Les entrades de 2019 i
 anys bibliogràfics no acrediten tres anualitats successives de dades.
 ([Pons](../../../raw/recurs-hidric/pons-neu-i-aigua-2025.pdf), p. 117–119.)
 
+**L'E4.7 de PIRAGUA ja és al corpus.** L'informe institucional d'AR+I
+identifica el model **WEAP-Andorra**, l'any base 2019 i les demandes per
+sector i per parròquia. Reprodueix els **21,63 hm³/any consuntius**, els
+**75 hm³/any no consuntius** i el repartiment de Pons, i precisa que les
+quatre estacions de neu sumen **1.493.673 m³**. També explica que la
+disminució modelitzada de cabal el 2050, en l'escenari de canvi climàtic,
+és del **6,80%** respecte de l'actual, concentrada entre maig i setembre.
+Això resol la identificació del projecte i el mètode, però no substitueix
+la sèrie posterior a 2019 ni publica una taula completa de consum per
+parròquia ([fitxa AR+I](../../../fonts/ari-piragua-recurs-hidric.md),
+[PDF E4.7](../../../raw/web/territori/piragua-e47-recursos-hidrics-andorra.pdf),
+p. 24–29 i 44–47).
+
 **El règim és nival**, típic d'una zona de muntanya d'influència mediterrània:
 **cabals alts a la primavera, baixos a l'estiu**, amb una lleugera aportació de
 les pluges de tardor.
@@ -275,9 +288,8 @@ data de finalització de l'esquí.
    2015, però no demostra encara l'origen dels262. La primera entrada de recurs
    de Pons continua per contrastar. També s'han llegit parts de la reconstrucció
    de 2015 i del balanç de 2025: [fitxa i abast exacte](../../../fonts/mediambient-recurs-hidric.md).
-2. **El projecte POCTEFA PIRAGUA-PIREAU** i l'informe de Travesset et al. (2021).
-3. **Andorra Recerca + Innovació**: apareix com a font de dades i **el corpus no
-   en té fitxa**.
+2. ~~**El projecte POCTEFA PIRAGUA-PIREAU** i l'informe de Travesset et al. (2021).~~ — **`parcial` el 19-09-2026**: l'E4.7 institucional d'AR+I és al corpus i documenta el model WEAP-Andorra, l'any base 2019, les demandes i els escenaris de 2050. La sèrie posterior, la reproducció del model i les taules completes per parròquia continuen pendents ([fitxa i abast](../../../fonts/ari-piragua-recurs-hidric.md)).
+3. ~~**Andorra Recerca + Innovació**: apareix com a font de dades i **el corpus no en té fitxa**.~~ — **`resolt` el 19-09-2026**: fitxa AR+I, pàgina del projecte i informe E4.7 conservats, amb llicència CC BY 4.0 declarada per als materials AR+I; les dades de tercers hi queden separades ([font](../../../fonts/ari-piragua-recurs-hidric.md)).
 4. **El *Pla sectorial d'infraestructures energètiques d'Andorra*** (2018).
  5. ~~**Captacions per xarxes de neu de 2019**~~ — **`parcial` el 18-09-2026**:
     localitzades i llegides, amb golf inclòs a ENSISA. No equivalen a
@@ -306,7 +318,7 @@ data de finalització de l'esquí.
    divisió dona **259 litres per habitant i dia el 2007** i **220 el 2019**, un
    **−15%**; per **població equivalent** —que inclou els visitants—, **de 186 a
    156**. **Queda obert només què vol dir exactament «població equivalent».**
-7. **El consum d'aigua per parròquia**, i quines conques abasteixen què.
+7. **El consum d'aigua per parròquia**, i quines conques abasteixen què. — **`parcial` el 19-09-2026**: l'E4.7 confirma que el model associa cada node a una parròquia i a un tram de riu, però el PDF no publica la taula completa de valors parroquials.
 8. ~~**Si les dades dels usos són d'un any concret**; la font no el diu.~~ —
    **`resolt` el 18-09-2026**: **la divisió 2470 de l'API dona la sèrie anual
    completa del 2007 al 2019**, ús per ús. **No és un any concret: són tretze.**

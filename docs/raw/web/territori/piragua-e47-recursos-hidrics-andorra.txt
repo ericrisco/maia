@@ -1,0 +1,3708 @@
+           Evaluación y prospectiva de los recursos hídricos de los Pirineos en un contexto de cambio
+           climático, y medidas de adaptación con impacto en el territorio (EFA210/16 PIRAGUA)
+
+
+
+
+DESARROLLO      Y
+PUESTA EN MARCHA
+DE ESTRATEGIAS DE
+ADAPTACIÓN
+Evolución de los usos de los
+recursos hídricos y posibles
+tensiones bajo escenarios de
+cambio climático en Andorra
+
+Coordinador: Andorra Recerca + Innovació
+Autores:    Oriol        Travesset,              Marta           Domènech,
+Cristina Pesado, Marc Pons
+
+
+
+
+                                                Fondo Europeo de Desarrollo Regional (FEDER)
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+RESUMEN
+Los recursos hídricos tienen un valor fundamental tanto para los
+ecosistemas como para la sociedad. Sin embargo, los cambios en el
+clima, la población, los patrones de consumo, el uso del suelo y la
+urbanización están afectando su calidad y disponibilidad futura. En
+Andorra, un país ubicado en el Pirineo Central, la confluencia del
+cambio    climático,     la   transición    energética        y     un     modelo
+socioeconómico con un peso importante de la industria turística
+basada   en   un   uso    intensivo   del    agua      podría     amenazar         la
+sostenibilidad futura de los recursos hídricos. Este caso de estudio
+analiza los recursos hídricos de Andorra a través de un enfoque
+integrado que combina la modelización hidrológica y la de la gestión
+de los recursos hídricos.
+
+El modelo implementado explora la evolución futura de los recursos
+hídricos combinando escenarios climáticos y socioeconómicos. Los
+resultados de los escenarios considerados muestran que, en términos
+generales y sin tener en cuenta los efectos de posibles sequías, el
+impacto del cambio global no comprometerá la demanda futura de
+agua para uso humano en el horizonte 2050. Sin embargo, en
+ocasiones y localizaciones puntuales, las elevadas demandas en
+diferentes sectores pueden entrar en competencia y provocar un
+conflicto de prioridades entre usos, en especial para mantener las
+funciones ecosistémicas de los ríos.
+
+
+
+
+                                                                               iii
+                                                                 Evolución de los usos de los recursos hídricos y posibles
+                                                                tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+TABLA DE CONTENIDO
+
+
+INTRODUCCIÓN ....................................................... 1
+
+
+ÁREA DE ESTUDIO ................................................... 3
+
+
+METODOLOGÍA ...................................................... 12
+
+Los recursos hídricos y su evolución futura ................................ 13
+Modelización hidrológica............................................................................. 13
+Modelización de la gestión de recursos ......................................................... 24
+Escenarios futuros ..................................................................................... 32
+
+Estrategias de adaptación al cambio global ................................ 37
+Identificación y percepción de estrategias de adaptación ................................ 37
+Proyecto piloto. Optimización del uso de recursos en las estaciones de esquí .... 40
+
+
+
+PRESENTACIÓN Y DISCUSIÓN DE RESULTADOS .... 43
+
+Modelización de los recursos hídricos y su evolución futura .......... 43
+Usos del agua en Andorra........................................................................... 44
+Efectos del cambio climático y el cambio global en el régimen hídrico .............. 46
+Afectaciones del cambio climático y el cambio global a las funciones ecosistémicas
+............................................................................................................... 48
+Afectaciones del cambio climático y el cambio global al sector hidroeléctrico ..... 50
+Afectaciones del cambio climático y el cambio global en un tramo de río con alta
+competencia por el agua ............................................................................ 53
+Balance hídrico, flujos hídricos y variables de estado ..................................... 56
+
+Estrategias de adaptación al cambio global ................................ 69
+
+                                                                                                             v
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Estrategias de adaptación identificadas ........................................................ 69
+          Potencial de las estrategias de adaptación .................................................... 73
+          Optimización del uso de recursos en las estaciones de esquí ........................... 78
+
+
+
+          CONCLUSIONES Y PRÓXIMOS TRABAJOS .............. 86
+
+          Población residente y turismo .................................................. 87
+          Agricultura ............................................................................ 88
+          Producción de energía hidroeléctrica ......................................... 88
+          Funciones ecosistémicas.......................................................... 90
+
+
+          REFERENCIAS ........................................................ 92
+
+
+
+
+          vi
+                                       Evolución de los usos de los recursos hídricos y posibles
+                                      tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+INTRODUCCIÓN
+
+
+
+
+Este caso de estudio analiza de forma multidisciplinaria el recurso
+hídrico de Andorra para evaluar como cambios en el clima, pero
+también cambios socioeconómicos pueden afectar a la evolución
+futura del recurso. El caso de estudio pone especial atención en
+analizar la evolución de los usos de los recursos hídricos buscando
+prever posibles tensiones entre distintos sectores de actividad en el
+contexto de cambio climático en Andorra.
+
+Las zonas de montaña son uno de los ambientes más frágiles del
+planeta (Diaz et al., 2003). En este sentido, es importante avanzar
+en el conocimiento del impacto que está teniendo y que puede tener
+el cambio climático en los recursos hídricos, la biodiversidad o las
+actividades turísticas, buscando mejorar la gestión e introducir
+medidas de adaptación. Diferentes estudios valoran, a partir del uso
+de proyecciones climáticas, la exposición al cambio climático que
+tendrán las zonas de montaña (Nogués-Bravo et al., 2007), aunque
+se aprecia una carencia de trabajos que aborden con detalle la
+evolución reciente del clima a partir de datos observados en
+estaciones situadas a altitudes medias y altas debido a la dificultad
+de disponer de largas series de datos (Esteban Vea et al., 2012; Pons
+et al., 2014).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Hasta el momento se han realizado un buen número de estudios tanto
+          a nivel internacional como en el Pirineo (Beniston, 2012; García-Ruiz
+          et al., 2011; J. I. López-Moreno, Revuelto, et al., 2013; J. I. López-
+          Moreno, Vicente-Serrano, et al., 2013; Nogués-Bravo et al., 2007;
+          Viviroli et al., 2003) que analizan los efectos del cambio climático
+          sobre el recurso hídrico en zonas de montaña. Sin embargo, la
+          mayoría de los estudios abordan las dimensiones de los recursos y
+          de la demanda por separado, llegando a conclusiones científicas
+          parciales que dificultan la plena comprensión de la dinámica del
+          cambio global. Otros se centran en sectores de actividad específicos,
+          ignorando los impactos en el conjunto del sistema.
+
+          El desarrollo de un modelo integral vinculando los cambios físicos y
+          el modelo socioeconómico de usos, presenta no sólo un interés a nivel
+          de planificación y desarrollo de políticas para Andorra sino también a
+          nivel científico sirviendo de referencia para otras zonas de montaña.
+          Este caso de estudio aporta una mejor comprensión de los posibles
+          impactos del cambio global sobre el recurso hídrico en Andorra
+          sirviendo de apoyo para el diseño de estrategias para adaptarse y
+          hacerle frente.
+
+          El presente informe describe los trabajos realizados en el caso de
+          estudio de Andorra durante el proyecto PIRAGUA1 (01/01/2018-
+          31/12/2021). Andorra Recerca + Innovació agradece la ayuda 2017
+          del Gobierno de Andorra de la convocatoria complementaria a las
+          ayudas europeas POCTEFDA 2014-2020, Ref. AUEP007-AND/2017.
+
+          A continuación, se describe el área de estudio, seguida de la
+          metodología de trabajo, los resultados obtenidos junto a su discusión
+          y finalmente, las conclusiones y próximos trabajos.
+
+
+
+
+          1
+              Detalle del proyecto en https://www.opcc-ctp.org/es/piragua
+
+
+          2
+                                          Evolución de los usos de los recursos hídricos y posibles
+                                         tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+ÁREA DE ESTUDIO
+
+
+
+
+El área principal de estudio se sitúa en el Principado de Andorra, un
+pequeño país en los Pirineos entre España y Francia. Tiene una
+superficie de 468 km² y una población de 77.543 habitantes (Govern
+d’Andorra, 2020a).
+
+Andorra se encuentra en una región montañosa formada por la alta
+cuenca del Valira. Agrupa sesenta y cinco picos de más de 2.500
+metros de altitud, entre los que el Comapedrosa es el más alto con
+2.942 m.s.n.m. Está representada por el afloramiento de materiales
+paleozoicos pre-carboníferos que han sufrido los efectos de la
+orogenia herciniana durante el Carbonífero, para posteriormente ser
+deformados por la orogenia alpina en el Terciario (Govern d’Andorra,
+2007).
+
+Es una región de escarpados montañosos y de valles estrechos por
+donde fluyen numerosos cursos de agua que se unen para formar
+tres ríos principales (ver Figura 1). El Valira d’Orient nace en la parte
+más oriental, tiene un recorrido de 23 km y pasa por las poblaciones
+de Canillo y Encamp. Confluye con el Valira del Nord, que nace en los
+lagos de Tristaina, tiene un recorrido de 14 km y pasa por las
+poblaciones de Ordino y la Massana para finalmente, en la ciudad de
+Escaldes-Engordany, confluir junto al Valira d’Orient para formar el
+río Valira. Este tiene un recorrido de 11,6 km y un caudal anual medio
+de unos 11 m3/s a la salida del país (Govern d’Andorra, 2018b). En
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          su descenso hacia el sur, desemboca en el río Segre en la Seu d'Urgell
+          que, a su vez, es afluente del Ebro.
+
+
+
+
+          Figura 1. Cuencas hidrográficas del río Valira y ubicación de las estaciones de aforo
+          incluidas en el Sistema Automático de Información Hidrológica (SAIH) de la Cuenca
+          Hidrográfica del Ebro
+
+
+          Desde un        punto de vista climático Andorra tiene un                     clima
+          mediterráneo de alta montaña, de acuerdo con las grandes
+          diferencias de altitud existentes en el país (Sant Julià de Lòria, el
+          pueblo más bajo, está situado a 940 m.s.n.m., y Soldeu, el más alto,
+          a 1.825 m.s.n.m.). La diversidad de las formas del relieve, la
+          diferente orientación de los valles y la irregularidad típica de los
+          climas de influencia mediterránea hacen que el país tenga una gran
+          diversidad de microclimas, que matizan el dominio general del clima
+          de alta montaña (Barceló Pons, 1995).
+
+
+
+
+          4
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Influencias continentales que introducen cambios en el típico régimen
+estacional de precipitaciones, la altitud y localización de cara sur son
+factores particulares del clima andorrano. Sin embargo, la topografía
+de la parte francesa de los Pirineos permite la entrada de las masas
+de aire del Atlántico del norte y noroeste, afectando especialmente
+áreas de elevadas altitudes y creando puntualmente eventos de
+aludes extremos (Esteban et al., 2005).
+
+El régimen de temperaturas representado se caracteriza, a grandes
+rasgos, por un verano templado y un invierno largo y frío, de acuerdo
+con la condición montañosa del Principado. La temperatura media de
+Andorra la Vella en el período 1981-2010 fue de 10,2ºC. En julio (el
+mes más cálido) oscila entre los 18 y 20 °C en Andorra la Vella, y en
+enero (el mes más frío) alrededor de los 3 °C. En cuanto a las
+temperaturas extremas, durante el invierno no son excepcionales los
+valores negativos entorno a los -2 °C. Por otra parte, las
+temperaturas máximas superan fácilmente los 25 °C durante los
+meses de julio y agosto (M. Batalla et al., 2016). La distribución
+mensual de las temperaturas es casi idéntica en las vertientes norte
+y sur, con los mínimos registrados coincidentes en enero y los
+máximos en julio o agosto, siguiendo la pauta característica de los
+climas mediterráneos.
+
+En líneas generales, las precipitaciones se caracterizan por lluvias
+abundantes durante      la primavera     y   el verano,        que     pueden
+prolongarse hasta el otoño (mayo, junio y agosto suelen ser los
+meses más lluviosos). Invierno, en cambio, es menos lluvioso,
+excepto en las partes altas, sometidas a la influencia de frentes
+procedentes del Atlántico, lo que explica la elevada innivación de las
+montañas andorranas. La precipitación media anual de Andorra la
+Vella en el período 1981-2010 fue de 832 mm con un recurso hídrico
+medio anual disponible a escala nacional cuantificado en 262
+hm3/anuales (Govern d’Andorra, 2019). La variabilidad de este
+recurso en el año más seco se traduce en una disminución del 45,7%,
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          mientras que el año más húmedo se incrementa el recurso en un
+          77,2% (Miquel, 2012).
+
+          A partir de los datos mensuales de precipitación, temperatura
+          máxima y mínima de las tres estaciones meteorológicas con las series
+          temporales más largas (Central, Engolasters y Ransol) se ha
+          calculado el promedio para el territorio andorrano durante el período
+          1950-2015 (Figura 2). La media anual del período muestra una
+          temperatura        máxima     y   mínima    media    de    12,7     y       3,1°C
+          respectivamente,        una   temperatura    media    de    7,9°C       y    una
+          precipitación mensual media de 66,8 mm. Los datos climáticos han
+          sido facilitados por FEDA (Forces Elèctriques d’Andorra).
+
+
+
+
+          Figura 2. Precipitación mensual promedio (barras) y temperatura (líneas) en
+          Andorra desde 1950 hasta 2015 (Fuente de datos: FEDA)
+
+
+          El Observatori de la muntanya d’Andorra (OMA, 2019) publica la
+          tendencia de las temperaturas en Andorra aportando la magnitud del
+          calentamiento global a escala local. La Figura 3 presenta la anomalía
+          de la temperatura media anual en Andorra (1950-2015) mostrando
+          un aumento de la temperatura media anual de 0,18 °C/década. Este
+          aumento es más pronunciado a partir de finales de la década de 1980,
+
+          6
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+cuando se suceden la mayoría de los años más cálidos (valores de
+anomalía positiva más grandes).
+
+
+
+
+Figura 3. Anomalía de la temperatura media anual en Andorra desde 1950 hasta el
+2015 (Fuente: OMA, 2019)
+
+
+La precipitación anual muestra una ligera tendencia a la disminución
+alrededor    de   -2,6%/decenio,      aunque     no     es    estadísticamente
+significativa. Las barras amarillas (anomalías negativas) indican los
+años secos y las verdes (anomalías positivas) los años más húmedos
+(ver Figura 4).
+
+
+
+
+Figura 4. Anomalía de la precipitación acumulada anual en Andorra desde 1950
+hasta el 2015 (Fuente: OMA, 2019)
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          El grupo de climatología del proyecto CLIMPY 2 (EFA081/15) (Amblar-
+          Francés et al., 2020) coordinado por el Observatorio Pirenaico de
+          Cambio       Climático        (OPCC),    ha   desarrollado   proyecciones   de
+          precipitación y temperatura para los escenarios climáticos futuros
+          relativos a los escenarios de diferente concentración de Gases de
+          Efecto Invernadero (GEI) (RCP 4.5, RCP 6.0, y RCP 8.5) para el año
+          2050 y 2100. Se usan metodologías de downscaling (regresión y
+          analogías) a partir de modelos publicados por el World Climate
+          Research Programme (WCRP) y se trabaja con una resolución de 5
+          km2, cubriendo todo el territorio de los Pirineos. Los resultados
+          apuntan a un aumento claro de las temperaturas, en especial de las
+          temperaturas extremas. Por contra, la precipitación no muestra un
+          patrón de cambio significativo.
+
+          El régimen hidrológico de Andorra es el típico de una zona de
+          montaña de influencia mediterránea con régimen nival, el cual
+          presenta caudales altos en primavera y bajos en estiaje. En
+          otoño aparece           una     ligera   aportación    procedente    de     las
+          precipitaciones.
+
+          Una de las características de los caudales pirenaicos es la elevada
+          variabilidad interanual. Esta variabilidad también se observa en los
+          datos de caudal de las cuencas andorranas, tal como se presenta en
+          la Figura 5 (Valira) y la Figura 6 (Valira del Nord). Los caudales son
+          medidos y registrados en los dos aforos de la Confederación
+          Hidrológica del Ebro (código A402 y A403) en Andorra 3.
+
+
+
+
+          2
+              Detalle del proyecto en https://www.opcc-ctp.org/es/climpy
+          3
+              Consulta de los datos en http://www.saihebro.com/saihebro/
+
+
+          8
+                                              Evolución de los usos de los recursos hídricos y posibles
+                                             tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 5. Variabilidad interanual de caudales en el periodo 2010-2021 en el aforo
+de Borda Sabaté (CHE), donde se representan los boxplot, los valores promedio y
+los percentiles qi (25), qs (75) mensuales (Fuente de datos: CHE)
+
+
+La mayor variabilidad se concentra a finales de primavera e a inicios
+de verano. Los valores extremos son más probables durante los
+meses de mayo, junio, octubre, noviembre y diciembre, y superan en
+algunos casos los 70 m3/s. Los meses de febrero y setiembre son los
+que presentan menos variabilidad interanual y es a la vez donde
+acontecen los valores de caudal más bajos.
+
+
+
+
+Figura 6. Variabilidad interanual de caudales en el periodo 2010-2021 en el aforo
+dels Escalls (CHE), donde se representan los boxplot, los valores promedio y los
+percentiles qi (25), qs (75) mensuales (Fuente de datos: CHE)
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Adicionalmente, esta variabilidad interanual climática típica de los
+          Pirineos se ve alterada en el contexto de cambio climático. En este
+          sentido, el incremento de la temperatura junto con la posible
+          disminución        de   la   precipitación,   puede   incrementar    la
+          evapotranspiración que reduciría el aporte de agua a los ríos (OPCC-
+          CTP, 2018).
+
+          El aumento de temperaturas provocará un incremento de la
+          precipitación líquida respecto la sólida durante el invierno y un
+          adelanto de la fusión de la nieve. Sin duda, y tal como ya prevén
+          algunos estudios (J. Ignacio López-Moreno et al., 2006), el cambio
+          climático conllevará un cambio en el hidrograma típico de los ríos
+          pirenaicos, atenuando los caudales máximos, y reduciendo el aporte
+          anual.
+
+          El análisis de las estaciones de aforo de los Pirineos ha revelado una
+          disminución del caudal medio del 30% entre 1956 y 2015 (Zabaleta
+          et al., 2022). Esta disminución se debe por un lado a un aumento en
+          el consumo de agua para las actividades humanas (nuevas
+          urbanizaciones, estaciones de esquí, dispositivos generadores de
+          nieve artificial, etc.) y, por otra parte, a intensas modificaciones en
+          la cubierta vegetal y los usos del suelo en áreas donde la presión
+          humana ha disminuido y el pastoreo y el cultivo han desaparecido.
+
+          Adicionalmente, se ha detectado en las últimas décadas un aumento
+          de la superficie forestal (Améztegui et al., 2010; CTFC, 2021). Este
+          incremento, directamente relacionado con un aumento de la
+          evapotranspiración, podría aumentar aún más la pérdida de caudal
+          de los ríos pirenaicos (Ignacio & Moreno, 2014).
+
+          Además del aumento medio de temperatura, se espera una mayor
+          ocurrencia de eventos cálidos extremos (Beniston, 2003; Giorgi &
+          Lionello, 2008; J. I. López-Moreno et al., 2008) con un aumento
+          adicional de la evapotranspiración (Lespinas et al., 2010; Liuzzo et
+
+          10
+                                     Evolución de los usos de los recursos hídricos y posibles
+                                    tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+al., 2010), y en consecuencia, una menor capacidad de generación
+de escorrentía.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          METODOLOGÍA
+
+
+
+
+          Con el objetivo de evaluar los efectos del cambio climático y los
+          cambios socioeconómicos en los recursos hídricos de Andorra se
+          aplican distintos métodos y herramientas. Como base del análisis, se
+          ha implementado un modelo a partir de la herramienta WEAP (Water
+          Evaluation And Planning system) que permite vincular, entender y
+          explorar las interrelaciones entre los diferentes componentes, tanto
+          ambientales como socioeconómicos, que intervienen en el ciclo del
+          agua. Para ello se caracterizan las variables físicas que intervienen
+          en      el   comportamiento        hidrológico,     así   como      las   dinámicas
+          socioeconómicas y sus proyecciones futuras.
+
+          Este trabajo realiza una primera aproximación al nexo agua-energía.
+          La producción de energía eléctrica, aunque como uso no consuntivo,
+          es la principal actividad en uso de agua del país. El nexo entre agua
+          y energía en Andorra se prevé aún más importante a medio y largo
+          plazo ya que los diferentes planes energéticos nacionales (Govern
+          d’Andorra, 2012, 2018c) y la reciente ley de impulso de la transición
+          energética y del cambio climático 4 (Litecc) identifican la generación
+
+
+          4
+              Llei 21/2018, del 13 de setembre, d’impuls de la transició energètica i del canvi
+          climàtic
+
+
+          12
+                                        Evolución de los usos de los recursos hídricos y posibles
+                                       tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+hidroeléctrica como elemento clave para alcanzar los objetivos
+climáticos y de seguridad energética del país.
+
+LOS RECURSOS HÍDRICOS Y SU EVOLUCIÓN FUTURA
+
+La modelización de los recursos hídricos del Principado de Andorra y
+su evolución futura se ha abordado mediante la herramienta
+integrada de simulación hidrológica WEAP. El modelo implementado
+explora la evolución futura de los recursos hídricos en el contexto de
+cambio global, combinando escenarios climáticos y socioeconómicos.
+
+WEAP es una herramienta del Stockholm Environment Institute que
+permite abordar cuestiones como los análisis de demanda sectorial,
+la conservación del agua, los derechos de agua y las prioridades de
+asignación, las simulaciones de flujo de los arroyos, las operaciones
+de los embalses, la generación de energía hidroeléctrica, la carga de
+contaminación y los análisis de costo-beneficio de los proyectos.
+
+WEAP opera sobre el principio básico de un balance hídrico y se puede
+aplicar a una sola cuenca o a sistemas complejos de cuencas fluviales
+transfronterizas. Además, WEAP puede simular una amplia gama de
+componentes naturales y de ingeniería de estos sistemas, incluida la
+escorrentía de lluvia, el flujo base y la recarga de agua subterránea
+a partir de la precipitación. Un módulo de análisis financiero también
+permite al usuario investigar las comparaciones de costo-beneficio de
+los proyectos.
+
+WEAP se ha aplicado en evaluaciones de agua en docenas de países,
+incluidos: Estados Unidos, México, Brasil, Alemania, Ghana, Burkina
+Faso, Kenia, Sudáfrica, Mozambique, Egipto, Israel, Omán, Asia
+Central, India, Sri Lanka, Nepal, China, Corea del Sur y Tailandia.
+
+Modelización hidrológica
+
+El algoritmo principal del modelo WEAP es un balance de agua
+resuelto espacialmente y calculado, equilibrando la oferta y la
+demanda de agua en cada nodo y enlace del sistema. Tal como se
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          muestra en la Figura 7, los nodos representan puntos de demanda
+          (en rojo) y aportaciones de agua (en verde), mientras que los enlaces
+          los conectan generalmente a ríos. Esta estructura de nodos y enlaces
+          permite agrupar y desagregar los componentes del balance de agua
+          si es necesario, dependiendo de los datos de entrada disponibles, y
+          es aplicable a todas las escalas (Höllermann et al., 2010). El modelo
+          se configura para simular un año base y un escenario de referencia,
+          donde se determina la cantidad de agua disponible y las demandas.
+
+
+
+
+          Figura 7. Vista esquemática del modelo WEAP-Andorra con la red hidrográfica
+          modelizada (en azul claro), los nodos de demanda (en rojo), aportaciones de
+          cuenca (en verde), retornos de agua, reservorios e hidroeléctricas
+
+
+          En este estudio se ha trabajado a escala mensual por ser aquella que
+          más se adapta a los resultados definidos en este proyecto y a los
+          datos disponibles. Se utiliza el modelo disponible en el entorno WEAP
+          denominado Soil Moisture Method. Este método se basa en funciones
+          empíricas que describen la evapotranspiración, la escorrentía
+          superficial, la escorrentía subterránea (es decir, el interflujo) y la
+          percolación profunda para una unidad de cuenca (ver Figura 8). Este
+
+          14
+                                            Evolución de los usos de los recursos hídricos y posibles
+                                           tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+método permite tener en cuenta las cubiertas del suelo y los impactos
+del tipo de suelo en estos procesos (Stockholm Environment
+Institute, 2016).
+
+
+
+
+Figura 8. Esquema del método de la humedad del suelo (Fuente: Angarita et al.,
+2018)
+
+
+Cada cuenca se divide en subcuencas, y estas en N áreas fraccionales
+que representan los diferentes tipos de cubiertas del suelo, donde se
+calcula un balance hídrico para cada área fraccional, de cada área. Se
+supone que el clima es uniforme en cada unidad hidrológica (cuenca
+o subcuenca).
+
+WEAP permite, a través de una interfaz gráfica basada en SIG
+(Sistema    de   Información     Geográfica),     el   diseño      del    sistema
+hidrológico para simular los principales caudales de los ríos. El trabajo
+realizado ha permitido modelizar los ríos de las tres cuencas
+principales de Andorra (Valira del Nord, Valira d’Orient y Valira), y
+sus respectivas subcuencas internas (segunda bifurcación de ríos
+dentro de la cuenca de Andorra) denominadas cuencas de grado dos
+(ver Figura 9) llegando a representar cien cuencas (438,8 km2). Se
+han desestimado las cuencas de las cuales su agua no confluye al río
+Valira (cuenca del río Ariége y cuenca del río de la Llosa), y se ha
+añadido la parte de la cuenca de grado dos del río d’Ós que pertenece
+a Catalunya.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 9. Subcuencas de grado dos pertenecientes a la cuenca del río Valira
+          incluidas en el modelo
+
+
+          El modelo hidrológico se alimenta de variables climáticas y de usos
+          del suelo. La parametrización del modelo se ha realizado mediante
+          las variables relativas a las cubiertas del suelo y a las características
+          del propio suelo.
+
+          El modelo ha sido calibrado y validado con los datos del periodo añal
+          2015-2019, para ser finalmente proyectado, con los diferentes
+          escenarios hasta el año 2050. La utilización de este intervalo de años
+          no es casual, sino obligada, en ser el único intervalo de años en el
+          cual se dispone de (1) datos climáticos interpolados en cada cuenca
+          de grado dos y (2) caudales observados en los aforos hidráulicos de
+          Andorra.
+
+
+
+
+          16
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+El año base del modelo se establece en 2015 (current accounts según
+la nomenclatura WEAP). Ahora bien, una vez calibrado y validado el
+modelo, y para proyectar distintos escenarios hacia el año 2050, se
+ha partido del año tipo representativo del período climático de
+referencia (1981-2010). Si se escogiese cualquier año comprendido
+en el intervalo de 2015-2019, se estaría proyectando solo un año
+concreto en el futuro. Esto supondría un grave sesgo al ser un año
+no representativo de la normalidad del clima de Andorra donde, al
+igual que en el resto de los Pirineos, existe mucha variabilidad
+interanual.
+
+A continuación, se detallan las variables y parámetros utilizados para
+implementar el modelo hidrológico.
+
+Variables climáticas e hidráulicas
+
+El modelo WEAP se nutre de las series climáticas que permiten
+caracterizar toda la superficie de estudio. Para la caracterización de
+la precipitación y la temperatura del año base se ha utilizado la
+interpolación espacial de los datos mensuales del período climático
+de referencia 1981-20105. La interpolación se ejecuta mediante la
+combinación de técnicas geoestadísticas (método de interpolación
+fijado)   (Ninyerola et al., 2000), considerando las estaciones
+meteorológicas automáticas (EMA’s) de Andorra y los factores
+geográficos con influencia sobre el clima de la zona (Meritxell Batalla
+et al., 2016). Los valores mensuales promedio de temperatura y
+precipitación en las cien cuencas del modelo se calculan en base a
+una malla con un tamaño de celda de 90 metros.
+
+Las variables de viento y humedad relativa se extraen de la misma
+manera para cada una de las cien subcuencas pero, en este caso,
+utilizando el conjunto de datos regionales (Palazón et al., 2022) como
+datos de entrada. Este contiene datos meteorológicos basados en
+
+
+5
+    Datos públicos    del   Atles   Climàtic    Digital    d’Andorra     (ACDA)      en
+http://www.acda.ad/
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          observaciones para la simulación hidrológica a escala de Pirineos. Los
+          datos tienen una resolución de tamaño de celda de 2,5 km y cubren
+          el período histórico 1981-2010.
+
+          El modelo WEAP de Andorra se calibra con los datos de caudales
+          disponibles. En Andorra existen únicamente dos estaciones de aforo
+          con series históricas de caudal. La estación Valira del Nord (A402 6)
+          en Escaldes-Engordany que recoge datos justo antes de su
+          confluencia con el río Valira y la estación Borda Sabaté (A4036),
+          situada en el sur del país con datos de caudales del río Valira después
+          de la confluencia entre los ríos Valira del Nord y Valira d’Orient. Una
+          debilidad de los datos de las estaciones de aforo de Andorra es la
+          inexistencia de datos de caudales para el río Valira d’Orient y el corto
+          periodo para el que se dispone de datos, desde 2003 y 2010 en la
+          estación A402 y A403, respectivamente.
+
+          La calibración del modelo se ha realizado con los datos de las dos
+          estaciones disponibles, que representan el caudal de salida de la
+          cuenca de Andorra (A403), y el caudal de salida de la cuenca del río
+          Valira del Nord (A402).
+
+          Variables del uso del suelo
+
+          Las cien subcuencas de grado dos de Andorra incluidas en la cuenca
+          del Valira son la referencia espacial para los datos de usos del suelo.
+          Mediante análisis SIG, cada subcuenca se ha combinado con el mapa
+          de usos del suelo del año 2012 (CENMA-IEA, 2012) para el territorio
+          de Andorra y con el mapa de cubiertas del suelo de Catalunya del año
+          2009 (Dep. de Geografia de la UAB, 2009) para la subcuenca de Os
+
+
+
+
+          6
+           Identificador SAIH Ebro
+          http://www.saihebro.com/saihebro/index.php?url=/datos/mapas/
+
+
+          18
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+de Civís. Las categorías de los usos del suelo se han definido en base
+a la clasificación CORINE Land Cover7 año 2012 (ver Figura 10).
+
+
+
+
+Figura 10. Distribución de las categorías de los usos del suelo en la zona de estudio
+
+
+Las variables relativas a las características del suelo que el modelo
+Soil Moisture Method de WEAP integra (permeabilidad, dirección del
+flujo, capacidad de retención de agua, resistencia a la escorrentía,
+conductividad del suelo en la zona profunda y en la zona de raíces,
+etc.) han servido de base para la calibración del modelo. Cada tipo
+de cubierta del suelo de cada subcuenca se ha asociado a cada
+parámetro del suelo. Esta calibración se detalla a continuación.
+
+Calibración y validación
+
+El período de calibración y validación se ha establecido en el intervalo
+de años 2015-2019. Este período no es casual, sino que corresponde
+
+
+
+7
+    https://land.copernicus.eu/pan-european/corine-land-cover
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          al intervalo de años donde se dispone de todos los datos
+          imprescindibles para calibrar el modelo. Estos datos son:
+
+              •   Datos mensuales de temperatura y precipitación interpolados
+                  con un tamaño de celda de 90 metros.
+              •   Aforamiento de caudales corregidos en la salida de la cuenca
+                  de Andorra, y en la salida de la cuenca del río Valira del Nord.
+              •   Demanda hídrica de agua de cierta precisión y rigor.
+
+          Para calibrar el modelo se han introducido los parámetros relativos a
+          cada tipo de cubierta del suelo. Algunos parámetros se han estimado
+          a través de información física y también según la experiencia de SEI
+          (Stockholm Environment Institute, 2016) en modelización mediante
+          WEAP, estos son:
+
+              •   Coeficiente de cultivo (Kc): rango entre 0,6-1
+              •   Capacidad de almacenamiento de agua en la zona de raíces
+                  (SWC): valor de 2000 mm.
+              •   Factor de resistencia a la escorrentía (RRF): rango entre 0,15-
+                  10.
+              •   Nivel de humedad en la zona de raíces (Z1): valor del 35 %
+
+          Mientras que en otros (propios del modelo matemático), se calibran.
+          Los parámetros calibrados, y sus valores asignados son los
+          siguientes:
+
+              •   Capacidad de almacenamiento de agua en la zona profunda
+                  (DWC): se estima como un valor único para toda la cuenca
+                  (20000      mm),   asumiendo   un   solo   reservorio   horizontal
+                  subterráneo. Debido a que su estimación es compleja a través
+                  de información física, sus valores se infieren por calibración
+                  (Vicuña et al., 2011; Yates et al., 2005). Inicialmente se
+                  empezó a calibrar con un valor de 2000 mm no obstante esto
+                  resultó en la obtención de valores de caudal de base muy
+
+
+          20
+                                           Evolución de los usos de los recursos hídricos y posibles
+                                          tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+       elevados. Estos caudales base, que muchas veces superaban el
+       flujo normal, no representan la respuesta hidrológica de las
+       cuencas. Por tanto, se elevaron los valores para la calibración
+       hasta llegar al valor óptimo.
+   •   Dirección preferencial del flujo (f): depende de la cobertura del
+       suelo. Conceptualmente varía desde 1 para flujo 100%
+       horizontal, a 0 para flujo 100% vertical. Para una estimación
+       inicial, el factor se relaciona con la cobertura de suelo. Se inicia
+       el proceso de calibración considerando valores referenciales de
+       la literatura (Amin     et   al., 2018; Keith         et    al., 2010),
+       obteniéndose un valor de 0.3 mm/mes.
+   •   Conductividad en la zona profunda (ks): representa el flujo
+       máximo posible cuando Z2=1. Es un valor único para toda la
+       cuenca. Controla el flujo subterráneo a través de una relación
+       directamente proporcional. La estimación inicial del parámetro
+       se ha determinado a través de referencias bibliográficas (Amin
+       et al., 2018) y calibrando se ha obtenido un valor de 1
+       mm/mes.
+   •   Conductividad en la zona de raíces: es el máximo flujo posible
+       cuando el reservorio Z1 está a capacidad de campo. Su
+       estimación inicial se ha determinado a través de referencias
+       bibliográficas (Amin et al., 2018) y calibrando se ha obtenido
+       un valor de 50 mm/mes.
+
+Bondad de ajuste del modelo
+
+La calibración del modelo incluye el período 2015-2017 y la validación
+el de 2018-2019. Se ha llevado a cabo una primera calibración-
+validación general para toda la cuenca de Andorra, que se ha
+reforzado a posteriori con la calibración-validación de la cuenca del
+Valira del Nord (ver Figura 11). El proceso se resume a continuación:
+
+   1. Primera calibración y validación con el modelo hidrológico de
+       toda la cuenca del río Valira y los datos de caudal observados
+       en el aforo de Borda Sabaté (A403) a la salida de Andorra.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+              2. Segunda calibración-validación con el modelo hidrológico del
+                  río Valira del Nord con los datos observados en el aforo de Pont
+                  dels Escalls (A402) a la salida de la cuenca del río Valira del
+                  Nord.
+
+
+
+
+          Figura 11. Localización de las estaciones de aforo utilizadas en la calibración y
+          validación del modelo
+
+
+          La cuenca del río Valira incluye la cuenca del río Valira d’Orient y la
+          cuenca del río Valira del Nord, y representa unos 438,79 km2. La
+          cuenca del Valira del Nord, representa un 33,19 % del total de la
+          cuenca del río Valira (145,27 km2) (Figura 11).
+
+          Los indicadores de bondad de ajuste calculados son: Nash-Sutcliffe
+          efficiency (NSE), Percent bias (PBIAS) y RMSE-observations standard
+          deviation ratio (RSR), siguiendo la metodología descrita por (Moriasi
+          et al. (2007). Se han utilizado las categorías de nivel de satisfacción
+
+
+          22
+                                               Evolución de los usos de los recursos hídricos y posibles
+                                              tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+de bondad de ajuste al modelo adaptadas para estudios de cuencas
+hidrológicas de paso mensual, como es el caso de este estudio.
+
+Los resultados para la cuenca del río Valira demuestran que todos los
+indicadores de bondad de ajuste son satisfactorios (de media muy
+buenos), asignando el modelo como significativo y con una buena
+predicción (ver Figura 12).
+
+
+
+
+              Calibración                                  Validación
+            NSE=muy bueno                               NSE=muy bueno
+           PBIAS=satisfactorio                         PBIAS=satisfactorio
+            RSR=muy bueno                               RSR= muy bueno
+Figura 12.Caudales observados y modelizados en la calibración y validación del
+modelo, con sus respectivos valores de los indicadores de bondad de ajuste (Moriasi
+et al., 2007) en la estación de aforo A403 (río Valira)
+
+
+Mientras que los resultados para la cuenca del río de Valira del Nord
+demuestran que la mayor parte de los indicadores de bondad de
+ajuste son correctos (generalmente buenos), excepto para el PBIAS
+del período de calibración (ver Figura 13).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+                        Calibración                                 Validación
+                         NSE=bueno                                 NSE=bueno
+                    PBIAS=no satisfactorio                      PBIAS=satisfactorio
+                         RSR=bueno                                 RSR= bueno
+          Figura 13. Caudales observados y modelizados en la calibración y validación del
+          modelo, con sus respectivos valores de los indicadores de bondad de ajuste (Moriasi
+          et al., 2007) en la estación de aforo A402 (río Valira del Nord)
+
+
+          Modelización de la gestión de recursos
+
+          Variables socioeconómicas
+
+          Las variables socioeconómicas son las que definen la demanda de
+          agua en el modelo. La demanda se estructura por nodos en WEAP y
+          cada nodo tiene una tipología de demanda para diferentes usos o
+          sectores: doméstico, turístico, producción de nieve, agricultura,
+          ganadería, y producción hidroeléctrica. Los distintos nodos de
+          demanda con el tipo de uso asignado se asocian al tramo de río
+          concreto representando las captaciones de agua. Además, cada nodo
+          incluye información de la parroquia a la que pertenece para poder
+          disponer del análisis de demanda a escala parroquial.
+
+          Los datos de demanda del año base se han construido combinando
+          técnicas bottom-up y top-down según el sector de actividad. Estas
+
+          24
+                                                 Evolución de los usos de los recursos hídricos y posibles
+                                                tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+últimas se basan en las recopiladas por el Ministeri de Medi Ambient
+i Sostenibilitat el año 2019 por ser datos de más calidad y precisión
+que los del año 2015 (Govern d’Andorra, 2021a). Una vez definidas
+las demandas de los distintos sectores en el año base, estas se
+proyectan en distintos escenarios futuros.
+
+A continuación, se describe la metodología para definir cada tipo de
+demanda incorporada en el modelo.
+
+Sector doméstico
+
+Se utiliza el valor de consumo medio de agua por persona y día en
+Andorra del año 2019 publicado en el informe nacional sobre uso de
+agua en Andorra (Govern d’Andorra, 2021a). En este caso se han
+utilizado los datos del informe del año 2019 y no los del año base del
+modelo, por ser el último informe disponible de mayor precisión y
+fiabilidad. El consumo se estima en 220 litros por persona y día.
+
+La demanda de agua se estima para cada una de las parroquias de
+Andorra por lo que la variable población se introduce en el modelo a
+escala de parroquia en base al censo (Govern d’Andorra, 2020a).
+
+La distribución del consumo mensual se estima en base a los datos
+de consumo facturado. En este caso se utiliza el consumo facturado
+trimestral o mensual publicado en el informe nacional sobre uso de
+agua en Andorra (Govern d’Andorra, 2021a) que aglutina los datos
+de     las   siete    parroquias     andorranas.      Estos      datos     presentan
+incoherencias debido al origen y recopilación de la información y por
+tanto sólo se han utilizado de forma porcentual para distribuir el
+consumo anual calculado en los distintos meses.
+
+El consumo doméstico también incluye los caudales facturados de
+cada Comú8 para las infraestructuras privadas y públicas: escuelas,
+centros deportivos y sector profesional.
+
+
+
+8
+    Organismo gubernamental de la división administrativa del territorio andorrano
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Sector turístico
+
+          En este caso, a diferencia del sector doméstico, se ha seguido una
+          metodología bottom-up. Se ha utilizado la base de datos del
+          Departamento de Turismo del Govern d’Andorra 9, donde figuran
+          todos los alojamientos turísticos de Andorra y sus características.
+          También se ha utilizado el registro de estadísticas de la Unión
+          Hotelera de Andorra 10, para conocer la distribución de la ocupación
+          hotelera anual y mensual.
+
+          A partir de estas fuentes y bibliografía se ha generado la siguiente
+          información base del modelo:
+
+                •   Número de camas y categoría (1-5 estrellas) por alojamiento.
+                    Se infiere el número de camas con el número de huéspedes.
+                •   Consumo medio por persona y categoría obtenido a partir del
+                    informe    MEDSTATS             II   (Luxembourg:         Office    for   Official
+                    Publications        of        the    European          Communities,        2009)
+                    (Luxembourg: Office for Official Publications of the European
+                    Communities, 2009) en el marco del Euro-Mediterranean
+                    Statistical Cooperation programme (Tabla 1).
+
+                               Clasificaciones           Consumos diarios persona (l)
+                                  1 – Estrella                       180
+                                  2 – Estrellas                      300
+                                  3 – Estrellas                      300
+                                  4 – Estrellas                      400
+                                  5 – Estrellas                      500
+
+          Tabla 1. Consumos diarios de agua por turista (l) y día en función de la categoría
+          de alojamiento (Luxembourg: Office for Official Publications of the European
+          Communities, 2009)
+
+
+                •   Consumo total real para cada categoría de alojamiento
+                    teniendo en cuenta el número de camas y la ocupación
+
+          9
+              Comunicación personal
+          10
+               https://uha.ad/ca/estadistiques/
+
+
+          26
+                                                                            Evolución de los usos de los recursos hídricos y posibles
+                                                                           tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+             hotelera. La media de ocupación se considera del 51,48%
+             basándose en la Tabla 2.
+
+              En      Feb      Mar    Abr    May        Jun         Jul        Ag      Set   Oct      Nov     Dic    media
+     Ocup.    66,4    74,3     62,4   47,0   32,3       29,1       53,8        72,1   46,2   43,1     32,4    58,7   51,48
+     Prop.    10,7    12,0     10,1   7,6    5,2        4,7         8,7        11,6    7,4   6,9      5,2     9,5     100
+
+
+Tabla 2. Ocupación mensual hotelera en Andorra (%) del año 2018 (año
+considerado "normal” en cuanto a ocupación), y proporción equivalente (%) para
+introducir al modelo
+
+
+Estaciones de esquí
+
+Del documento oficial del Gobierno de Andorra donde se publican
+anualmente el gasto hídrico (Govern d’Andorra, 2021a) se han
+extraído los valores de consumo destinados a producción de nieve
+artificial en las estaciones de esquí andorranas para cada nodo (ver
+Tabla 3).
+
+               Ordino-Arcalís         SAETDE-Pas de                       ENSISA-             Vallnord Pal-
+                                       la Casa-Grau                       Soldeu-El              Arinsal
+                                           Roig                             Tarter
+                     207.919              345.291                          729.857                  210.606
+                                        3
+Tabla 3. Consumo anual (m ) de agua en las estaciones de esquí de Andorra
+consideradas
+
+
+El perfil de consumo mensual de todas las estaciones de esquí se
+basa en los datos proporcionados por SAETDE11 de los sectores de
+Grau Roig y Pas de la Casa durante los años 2015-2019 (ver Tabla
+4).
+
+ Mes         En       Feb      Mar     Abr     May            Jun          Jul        Ag     Set      Oct     Nov     Dic
+     %        25       1         8       0          0          0           0          0      0         0       30      36
+
+ Tabla 4. Perfil de consumo mensual de las estaciones de esquí
+
+
+
+
+11
+     Comunicación personal
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Sector agrícola
+
+          A partir del documento oficial del Gobierno de Andorra donde se
+          publican anualmente las superficies y tipos de conreos de Andorra 12,
+          se extraen las superficies y los tipos de cultivo de cada nodo. Se
+          desarrollan los cálculos teniendo en cuenta los cultivos mayoritarios
+          y que más gasto hídrico suponen como son el tabaco (Nicotiana
+          tabacum) y el raygrass (Lolium sp.). Las necesidades hídricas para el
+          cultivo de tabaco son de unos 400-600 mm/m2 y año (Kassam, 1979;
+          Maw et al., 2009). El informe de gobierno sobre el gasto hídrico de
+          Andorra (Govern d’Andorra, 2021a) define un valor de 1500 mm/m2
+          y año. Así se decide tomar un valor medio de 750 mm/m2 y año. Para
+          el raygrass, la mayoría de las publicaciones marcan un valor medio
+          de 400 mm/m2 y año (Gallego, J.J; Barbarossa, R.A; Murray, F y
+          Miñón, 2010). Por tanto, entendiendo que la mitad del período
+          vegetativo el cultivo es cubierto por tabaco y el otro por raygrass, la
+          necesidad media sería de 575 mm/m2 y aceptando que la
+          precipitación media en el periodo vegetativo es de 237 mm/m2 (M.
+          Batalla et al., 2016), se consideran unas necesidades medias de agua
+          para el cultivo medio de Andorra de 338 mm/m2.
+
+          La variación mensual del consumo de agua de los cultivos se ha
+          establecido en base a la definida en (Pesado, 2021). La variación
+          mensual presentada en la Tabla 5 ha sido validada por agricultores
+          de la parroquia de Ordino (como informantes de la cuenca del Valira
+          del Nord).
+
+                   En    Feb      Mar   Abr   May   Jun   Jul   Ago   Set   Oct   Nov   Dic
+               %    0     0        0     0     0     20   35     35   10     0     0     0
+
+          Tabla 5. Variación mensual del consumo de agua de los cultivos para Andorra
+
+
+
+          12
+            Más detalle en
+          https://www.agricultura.ad/images/stories/estadistiques/conreus/superficie_conr
+          eu_2019.pdf
+
+
+          28
+                                                  Evolución de los usos de los recursos hídricos y posibles
+                                                 tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Sector ganadero
+
+Se han extraído los datos oficiales del “Padral” 13 que es el censo
+histórico del número y tipo de ganado declarado en Andorra. Los
+datos obtenidos son para cada nodo de demanda (asociado a cada
+parroquia) y del intervalo de años 2015-2019.
+
+Se ha calculado el número equivalente de las unidades de ganado
+mayor (UGM) para cada tipología de ganado. Se han asociado unas
+necesidades de agua de 20 m3/año para cada UGM. Las equivalencias
+entre los diferentes tipos de ganado se basan en las publicadas en el
+BOPA, núm. 47, 2015 (07/23/15) (ver Tabla 6).
+
+                               Tipos de ganado       UBG
+                              Bovino       Vaca      1,00
+                                           Toro      1,30
+                              Equino      Yegua      1,10
+                                         Semental    1,43
+                                          Potrillo   1,24
+                              Ovino       Oveja      0,13
+
+Tabla 6. Equivalencias del gasto nutritivo entre los diferentes tipos de ganado
+publicados para Andorra en el BOPA, núm. 47, 2015 (07/23/15)
+
+
+Se desconoce el consumo mensual, pero se considera uniforme a lo
+largo del año. Se sabe que durante los meses de verano los animales
+consumen el agua de las cabeceras de cuenca cuando están en los
+pastos de puerto, y que el resto de año están en los pastos de fondo
+de valle cerca del río y a menudo estabulados, consumiendo agua de
+la red pública en algunos casos y en otros, directamente del río.
+
+Producción hidroeléctrica
+
+Los datos de captación de agua para la producción hidroeléctrica han
+sido facilitados por Forces Elèctriques d’Andorra 14 (FEDA). FEDA
+produce aproximadamente un 15% de la energía eléctrica del país en
+la Central hidroeléctrica de Encamp. El reservorio principal de 0,6 hm3
+se ubica en el lago de Engolasters y se alimenta a través de tres
+
+
+13
+     https://www.agricultura.ad/
+14
+     Comunicación personal
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          captaciones de agua de la cuenca del río Valira d’Orient y una del río
+          Madriu. Tal como se presenta en la Figura 14, la primera y principal
+          captación      del      Valira   d’Orient   es   en   la   presa    de    Ransol,
+          complementada con la de la Vall del Riu y Cortals Ensangents. El
+          retorno de agua se hace unos 11,5 km aguas debajo de Ransol,
+          coincidiendo con las oficinas y estación transformadora de FEDA.
+
+
+
+
+          Figura 14. Captaciones (río de la Vall del Riu, río de Cortals Ensangent y presa de
+          Ransol) y retorno de agua de la central hidroeléctrica de Encamp
+
+
+          Los datos utilizados en el modelo WEAP en el cálculo de utilización de
+          agua para producción hidroeléctrica son los siguientes:
+
+              •   volumen mensual de agua captado de los afluentes del río
+                  Valira d’Orient: río de la Vall del Riu, río de Cortals Ensangent,
+                  captación de la Presa de Ransol y captación del río Madriu.
+              •   capacidad de almacenamiento (volumen).
+
+
+
+          30
+                                        Evolución de los usos de los recursos hídricos y posibles
+                                       tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+   •   curva de relación entre el volumen del embalse y la elevación.
+   •   altura de caída de agua.
+   •   volumen de agua liberado máximo para el sistema de turbinas.
+   •   evaporación del embalse
+
+Adicionalmente a la principal hidroeléctrica del país, se han
+introducido en el modelo las mini centrales planificadas en el Plan
+Sectorial de Infraestructuras Energéticas de Andorra (PSIEA) (Govern
+d’Andorra, 2018b). En este caso, al ser centrales que no existen en
+la actualidad, se considera que entraran a funcionar en los escenarios
+futuros a partir del año 2030.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Escenarios futuros
+
+          En la Tabla 7 se presentan los escenarios modelizados en el presente
+          caso de estudio. Para su elección se han tenido en cuenta las
+          proyecciones climáticas y socioeconómicas relacionadas con el uso
+          del agua y las medidas adaptativas presentadas en la sección
+          Estrategias de adaptación al cambio global.
+
+                              Cambio climático            Cambio socioeconómico en los principales
+                               (anomalía 2050)                            sectores
+           ESCENARIO                                                    Turístico y
+                             RCP    Tª
+                                             Pp (%)      Doméstico     estaciones de      Agrícola
+                            IPCC   (ºC)
+                                                                           esquí
+
+                            RCP                         ∆ Demográfico   Infraestructuras
+           Referencia               T1        PP1                                                  -
+                            4.5                           1,18%/año      ∆ 1,18 %/año
+
+                                                                                                ∆ riego
+                                                                                                10 %*
+           Cambio           RCP                         ∆ Demográfico   Infraestructuras      Ampliación
+                                    T2        PP2
+           climático        8.5                          1,18 %/año      ∆ 1,18 %/año           período
+                                                                                             vegetativo en
+                                                                                                un mes
+                                                                        Infraestructuras
+                                                                                                ∆ riego
+                                                                            turísticas
+                                                                                                 10 %
+                                                                         ∆ 1,62%/año
+                            RCP                         ∆ Demográfico                         Ampliación
+           Cambio global            T2        PP2                          Ocupación
+                            8.5                           1,62%/año                             período
+                                                                              70%
+                                                                                             vegetativo en
+                                                                          ∆ Innivación
+                                                                                                un mes
+                                                                          15% (2050)
+                                                        150 l/persona
+                                                            y día
+
+                                                           20% de        -25% consumo
+                                                         pérdidas en    en alojamientos
+                                                                                            -15% en uso de
+           Adaptación                    *                   las            turísticos
+                                                                                            agua para riego
+                                                        captaciones y   -15% agua para
+                                                            en el          innivación
+                                                        transporte de
+                                                            agua
+
+
+          Tabla 7. Resumen de los escenarios analizados. *Hereda las consideraciones
+          climáticas y socioeconómicas del escenario Cambio global. T1, T2, PP1, PP2,
+          representan las distribuciones mensuales proyectadas de temperatura y
+          precipitación en cada escenario RCP (ver Tabla 8 y Tabla 9)
+
+
+          En el escenario de referencia se asume el escenario de cambio
+          climático        moderado          RCP      4.5,   y   se     proyectan          las   variables
+          socioeconómicas teniendo en cuenta la tendencia de los últimos años.
+          Paralelamente, se han simulado los escenarios Cambio climático,
+
+          32
+                                                          Evolución de los usos de los recursos hídricos y posibles
+                                                         tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Cambio global y Adaptación, este último incorporando estrategias
+para afrontar el cambio global.
+
+Escenario de referencia. Se asume el escenario de concentración
+de GEI RCP 4.5, traducido para Andorra en un aumento de la
+temperatura media anual de 1,46ºC en el año 2050 y con una
+disminución en la precipitación media anual de -0,35 mm (ver
+distribución mensual en la Tabla 8). A nivel socioeconómico, se
+proyecta un aumento de población moderado del 1,18%/año
+(Recaño, 2021)15, porcentaje asumido también como incremento de
+alojamientos turísticos. La ocupación turística se considera invariable,
+tanto en su distribución mensual como en el promedio anual, con un
+valor del 51%, basado en los últimos 10 años 16.
+
+             En     Feb    Mar    Abr     May     Jun     Jul     Ago    Set     Oct    Nov     Dic
+ T (ºC)      1,36   0,92   1,21   1,08    1,37    2,18    1,92    2,33   1,50    1,44   1,03    1,14
+ PP (mm)     1,01   1,50   3,39   -4,75   -3,62   3,05    -1,90   6,10   -3,34   2,24   -2,82   -5,16
+
+Tabla 8. Cambio en la temperatura y precipitación mensual proyectada en el año
+2050 y el escenario RCP 4.5. Elaborado en base al conjunto de datos PIRAGUA
+(Palazón et al., 2022), construido a partir de un downscalling estadístico de seis
+modelos climáticos
+
+
+Escenario           Cambio        climático.         Se      asume        el     escenario        de
+concentración de GEI RCP 8.5, traducido para Andorra en un aumento
+de la temperatura media anual de 2,23ºC y un aumento de la
+precipitación media anual de 0,72 mm en el año 2050 (ver
+distribución mensual en la Tabla 9). El aumento de temperatura
+(>2ºC) se traduce en un aumento de evapotranspiración del 10%
+que afecta a las necesidades de riego en la agricultura (Durán &
+Salamanca, 2008). En la misma línea, se ha considerado un aumento
+del consumo de agua para producción de nieve en las estaciones de
+esquí del 15% (Gerbaux et al., 2020). El resto de los atributos
+socioeconómicos se heredan del escenario de referencia.
+
+
+
+
+15
+     Basado en el escenario Central (Recaño, 2021)
+16
+     Comunicación personal Unió Hotelera d’Andorra
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+                      En       Feb    Mar    Abr     May     Jun    Jul    Ago     Set    Oct    Nov     Dic
+           T (ºC)     1,66     1,61   1,66   2,05    2,09    3,32   2,96   2,83    2,50   2,11   2,03    1,95
+           PP (mm)    -5,62    7,35   3,74   -1,13   -1,89   0,41   3,11   14,55   4,38   1,75   -12,1   -5,80
+
+          Tabla 9. Temperaturas y precipitaciones mensuales proyectadas en el escenario
+          RCP 8.5. Elaborado en base al conjunto de datos PIRAGUA (Palazón et al., 2022),
+          construido a partir de un downscalling estadístico de seis modelos climáticos
+
+
+          Escenario Cambio global. Se consideran las mismas condiciones
+          que en el escenario Cambio climático con variaciones en algunas
+          variables socioeconómicas: a) incremento de la población del
+          1,82%/año (Recaño, 2021)17, b) aumento de los alojamientos
+          turísticos del 1,82%/año y c) aumento de la ocupación turística anual
+          hasta el 70% para el año 2050.
+
+          Escenario Adaptación. Se consideran todos los condicionantes del
+          escenario Cambio global y un paquete de medidas adaptativas. A
+          continuación, se detallan y justifican las estrategias de adaptación
+          evaluadas, destinadas a reducir el uso del agua de los principales
+          sectores consumidores del país.
+
+                •   Sector doméstico
+                       o Disminución del consumo medio por persona que pasaría
+                              de los 220 l/persona y día actuales, a los 150 l/persona
+                              y día (objetivo definido en Govern d’Andorra (2021b) a
+                              un horizonte 2035). Esta reducción se podría conseguir a
+                              través de:
+                                     Elaboración de un Plan de divulgación del uso
+                                      responsable del agua en Andorra, que incluiría la
+                                      difusión a la población de un manual de buenas
+                                      prácticas de ahorro doméstico del agua.
+                                     Creación de la “cuota del agua”, la cual se pagaría
+                                      proporcionalmente por consumo unifamiliar como
+                                      referencia simbólica de concienciación ambiental.
+
+
+
+          17
+               Basado en el escenario Alto
+
+
+          34
+                                                 Evolución de los usos de los recursos hídricos y posibles
+                                                tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+             o Reducción de las pérdidas en las captaciones y transporte
+                de agua hasta el 20%. Se asume una inversión pública
+                en la mejora de las canalizaciones de captación y
+                transporte de agua, y una mejora en el monitoreo y
+                seguimiento de dichas captaciones. Se estima que estas
+                medidas reducirían un 50% las pérdidas actuales de agua
+                que se estiman en un 40% (Govern d’Andorra, 2021a).
+      •   Sector turístico
+             o Mejora de la eficiencia en el uso de agua que permite
+                reducir un 25% el consumo en los alojamientos turísticos.
+                Esta mejora se podría conseguir siguiendo las directrices
+                del proyecto LIFE Watsavereuse18 y en concreto a través
+                de la creación y difusión de un manual de uso eficiente
+                de agua en el sector turístico y de la implementación de
+                una marca de garantía de buenas prácticas en el uso de
+                agua en alojamientos turísticos de Andorra.
+      •   Estaciones de esquí
+             o Monitoreo del uso de agua para conocer en detalle los
+                principales ámbitos consumidores en una estación de
+                esquí y los potenciales ahorros.
+             o Seguimiento continuo del espesor del manto nival para
+                mejorar la planificación y gestión de la nieve. El espesor
+                del manto se puede obtener mediante la instalación de
+                equipos GNSS-RTK (Global Navigation Satellite Systems)
+                RTK (Real-time Kinematic) en las máquinas pisanieves y
+                la integración de la tecnología LiDAR (Light Detecting And
+                Ranging) en vehículos aéreos no tripulados (drones)
+                (Pons et al., 2018).
+          El incremento de la eficiencia en el uso de recursos hídricos
+          destinados a la producción de nieve mediante las estrategias
+          descritas, se estima que puede suponer una reducción de hasta
+          el 15% en la demanda de agua dedicada a este fin (Cognard &
+          François, 2019).
+
+
+
+18
+     Mayor detalle en https://lifewatsavereuse.eu
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+                  Durante el proyecto PIRAGUA, ambas estrategias se han
+                  implementado en dos pruebas piloto en las estaciones de
+                  Grandvalira y Vallnord con el objetivo de evaluar su viabilidad
+                  técnica y económica.
+
+              •   Sector agrícola
+                      o Reducción del 15% de la demanda de agua para riego
+                         mediante la tecnificación del riego. En concreto a la
+                         implantación de sistemas de riego más eficientes (VVAA
+                         FAO, 2008), evitando el riego por gravedad (también
+                         llamado riego a manta) y el riego por aspersión, e
+                         implementando el riego por goteo.
+
+
+
+
+          36
+                                           Evolución de los usos de los recursos hídricos y posibles
+                                          tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+ESTRATEGIAS DE ADAPTACIÓN AL CAMBIO GLOBAL
+
+Uno de los objetivos principales de este estudio es la identificación,
+el análisis y la puesta en marcha de medidas de adaptación al cambio
+climático y al cambio global. Con este objetivo se ha trabajado en
+distintas líneas. Por un lado, en la identificación de posibles medidas
+a través de bibliografía de referencia, pero también mediante
+procesos participativos para captar las prioridades de la población.
+
+Todas las medidas de adaptación finalmente implementadas y
+analizadas en el modelo WEAP se encuentran descritas en el apartado
+“Escenarios futuros” y resumidas en la Tabla 7. Estas medidas forman
+parte del escenario denominado Adaptación.
+
+En paralelo al análisis teórico realizado mediante el modelo WEAP, se
+ha iniciado un proyecto piloto con dos estaciones de esquí andorranas
+con el objetivo de incrementar la eficiencia en el uso de recursos
+(agua y energía) de su actividad.
+
+Identificación y percepción de estrategias de adaptación
+
+Con el objetivo de conocer y tener en cuenta la opinión de la
+población andorrana en la elaboración e implantación de estrategias
+de adaptación al cambio global, se han organizado dos tipos de
+actividades participativas. Estas son clave para complementar el
+análisis técnico planteado en este informe y valorar la percepción
+social de dichas medidas.
+
+El   sumatorio   de   la   recopilación   bibliográfica      sobre      medidas
+adaptativas, el contenido de la legislación, planes y estrategias
+nacionales andorranas relativas al cambio climático y temas afines, y
+la percepción social de las medidas, es la base para definir las
+medidas adaptativas implantadas en el escenario Adaptación descrito
+previamente. Buena parte de las medidas adaptativas identificadas
+han sido integradas dentro del modelo WEAP para conocer su
+potencial a escala de país.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          A continuación, se describen las dos tipologías de actividades
+          participativas desarrolladas, la legislación consultada y el trabajo de
+          recopilación bibliográfica.
+
+          Talleres participativos en La Nuit des Idées
+
+          En enero de 2020 se realizaron dos talleres participativos durante la
+          sesión de La Nuit des Idées organizada por la Embajada francesa.
+
+          Entre las preguntas y discusiones propuestas a los asistentes, se
+          pedía priorizar los usos del agua en un contexto de posibles tensiones
+          entre sectores de actividad debido a una hipotética escasez hídrica.
+          Se propusieron también una serie de medidas de adaptación basadas
+          en gran parte en el Procés d’Adaptació d’Andorra al Canvi Climàtic
+          (Govern d’Andorra, 2014) de las cuales se pidió el grado de acuerdo
+          o desacuerdo.
+
+          Estas sesiones, a pesar de ser abiertas a toda la ciudadanía, contaron
+          con participantes con un perfil principalmente técnico.
+
+          Los resultados y conclusiones de este taller se exponen en el apartado
+          de resultados.
+
+          Encuesta en línea
+
+          A finales del año 2020, se lanzó una encuesta en línea con el objetivo
+          de captar la percepción de la sociedad andorrana sobre el cambio
+          climático y especialmente conocer su voluntad en la puesta en
+          marcha de medidas de adaptación. Buena parte de las preguntas, así
+          como las estrategias planteadas, coincidían con las realizadas en los
+          talleres participativos. De esta manera se ha completado la visión
+          eminentemente técnico-profesional de los talleres presenciales con la
+          de una muestra de población más heterogénea.
+
+
+
+          38
+                                        Evolución de los usos de los recursos hídricos y posibles
+                                       tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Los resultados y conclusiones de esta encuesta se exponen en el
+apartado de resultados.
+
+Consulta de bibliografía
+
+Se consideran las principales publicaciones en materia de adaptación
+al cambio climático en los Pirineos y en las principales cordilleras
+europeas, en especial en los Alpes.
+
+Legislación y estrategias en Andorra
+
+El Gobierno de Andorra ya desde hace unos años ha desplegado
+varias estrategias y legislaciones en materia de adaptación al cambio
+climático y al cambio global. A continuación, se citan las todas las
+consultadas en este estudio:
+
+  •   Adhesión al Convenio Marco de Naciones Unidas sobre el
+      Cambio Climático (CMNUCC) para la implementación de los
+      procesos relacionados con la lucha contra el cambio climático.
+  •   Proceso de Adaptación de Andorra el Cambio Climático (PAACC)
+      (Govern d’Andorra, 2014) para dotar al país de recursos y
+      medidas de adaptación para convertirse en menos vulnerable
+      a los impactos derivados del cambio climático.
+  •   Estrategia Nacional de la Biodiversidad de Andorra (ENBA)
+      (Govern d’Andorra, 2016), para asegurar una acción que frene
+      la crisis de biodiversidad en el contexto de cambio climático.
+  •   Ley de Impulso a la Transición Energética y del Cambio
+      Climático (Litecc) (Govern d’Andorra, 2018a), potencia y
+      acompaña la transición hacia un nuevo modelo energético
+      basado en el uso de energías renovables y de energía baja en
+      Emisiones de Carbono.
+  •   Estrategia energética nacional y de lucha contra el cambio
+      climático (OECC, 2021) para reducir las emisiones nacionales y
+      adaptarse a los efectos del cambio climático, de acuerdo con
+      los objetivos del acuerdo de París del Convenio marco de
+      Naciones Unidas sobre el cambio climático (CMNUCC)
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+                •   POCTEFA ADAPYR 19 (2020-2022) que tiene como objetivo
+                    sistematizar los seguimientos de impacto climático en los
+                    Pirineos y definir una Estrategia conjunta Pirenaica de
+                    Adaptación al cambio climático.
+
+          Proyecto piloto. Optimización del uso de recursos en las
+          estaciones de esquí
+
+          Uno de los objetivos de este caso de estudio es el de desarrollar
+          herramientas y metodologías que permitan incrementar la eficiencia
+          en el uso del agua, en las estaciones de esquí en su gestión diaria de
+          la nieve. Esta medida de adaptación incrementa su resiliencia frente
+          a una posible disminución del recurso hídrico. Las estrategias
+          propuestas para las estaciones de esquí se han implementado en una
+          prueba piloto inicial en la estación de Grandvalira con el objetivo de
+          evaluar su viabilidad técnica y económica. Los buenos resultados
+          obtenidos en Grandvalira durante la temporada 2019-2020, han
+          llevado a realizar una segunda prueba piloto en Vallnord la temporada
+          2020-2021. De esta manera durante el proyecto se ha podido obtener
+          información representativa de los dos grandes dominios esquiables
+          de Andorra ubicados en las cabeceras de los ríos Valira d’Orient i
+          Valira del Nord.
+
+          Las estrategias puestas en marcha en las estaciones de esquí se
+          centran en dos grandes líneas de trabajo, el seguimiento de espesor
+          del manto nival y el monitoreo del uso de agua y energía.
+
+          Seguimiento del espesor del manto nival
+
+          Conocer con precisión el espesor del manto nival puede conducir a
+          ahorros significativos en el uso de agua y energía asociada a la
+
+
+          19
+               Más detalles en https://ctp.org/ca/projectes/opcc/opcc-adapyr/
+
+
+          40
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+producción de nieve artificial y al mantenimiento de las pistas
+realizado con las máquinas pisanieves. Según estudios existentes,
+disponer de datos precisos del espesor del manto nival puede llevar
+a ahorros de alrededor el 15% y el 8% en uso de agua y energía,
+respectivamente (Cognard & François, 2019).
+
+Una de las técnicas utilizadas se basa en la instalación de receptores
+GNSS     (Global    Navigation     Satellite     Systems)        RTK      (Real-time
+Kinematic) en una máquina pisanieves (ver Figura 15) para medir la
+altura absoluta del nivel de la nieve en superficie con una precisión
+centimétrica (<2 cm). A posteriori, mediante el modelo digital del
+terreno sin nieve en alta precisión implementado con LiDAR (Light
+Detecting And Ranging) se calcula el espesor del manto.
+
+
+
+
+Figura 15. Medida de la altura de la nieve en superficie con GNSS-RTK
+
+
+En paralelo a la instalación de equipos GNSS-RTK en las máquinas
+pisanieves, se ha trabajado en la integración de la tecnología LiDAR
+en un vehículo aéreo no tripulado (drone) y en su operación en las
+estaciones de esquí. El objetivo es que esta sea una herramienta útil
+y complementaria a las máquinas pisanieves para la estimación del
+espesor del manto nival. Esta técnica, a pesar de que la distancia
+recorrida por el vehículo es más limitada, permite realizar escaneos
+específicos y con mayor detalle en zonas de especial interés.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Monitoreo del uso de agua y energía
+
+          Paralelamente al seguimiento del espesor del manto nival, durante la
+          temporada 2019-2020 se han monitorizado los consumos de agua y
+          energía de la estación de Grandvalira. Conocer en detalle el consumo
+          de agua y energía es el primer paso, y aspecto fundamental, en el
+          objetivo de optimizar el uso de recursos.
+
+
+
+
+          42
+                                          Evolución de los usos de los recursos hídricos y posibles
+                                         tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+PRESENTACIÓN Y
+DISCUSIÓN DE
+RESULTADOS
+
+
+
+
+MODELIZACIÓN DE LOS RECURSOS HÍDRICOS Y SU
+EVOLUCIÓN FUTURA
+
+Los efectos del cambio climático y del cambio global sobre el recurso
+hídrico en Andorra son determinantes, reduciendo el aporte anual de
+agua y modificando el hidrograma actual. Estos resultados no
+contemplan los efectos de los eventos climáticos extremos, como las
+sequías. Por tanto, es probable que los efectos sobre los recursos
+hídricos puedan llegar a ser aún más severos. En este sentido, las
+medidas adaptativas estudiadas pueden tener cierto impacto positivo
+especialmente en los períodos y tramos de río con caudales bajos.
+
+Las principales estrategias de adaptación que se presentan en este
+capítulo van dirigidas a la implementación de caudales ambientales
+para proteger las funciones ecosistémicas de los ríos en los próximos
+años, a la modificación del comportamiento del consumo doméstico
+y turístico, y a la tecnificación en los sectores agrícolas y del esquí.
+
+A continuación, se describen los resultados de la modelización para
+cada sector de uso del agua de Andorra. En primer lugar, se describen
+los diferentes usos de agua por sectores. En segundo lugar, se
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          desarrollan los efectos del cambio climático y del cambio global en el
+          régimen hídrico, y seguidamente se abordan los resultados relativos
+          a la capacidad de adaptación.
+
+
+          Usos del agua en Andorra
+
+          Actualmente, los usos consuntivos del agua en Andorra son de
+          aproximadamente 21,63 hm3 al año, y se han clasificado en
+          doméstico, turístico, agrícola, producción de nieve y ganadero (ver
+          Figura 16). Mientras que los usos no consuntivos son de unos 75 hm3
+          al año y se refieren mayoritariamente a la producción hidroeléctrica.
+
+
+
+
+          Figura 16. Demanda mensual de agua en Andorra en los principales sectores de
+          actividad
+
+
+          Entre los usos consuntivos, el destinado al sector doméstico es el
+          predominante en Andorra (72,29%) que, tal como se observa en la
+          Figura 16, es prácticamente constante a lo largo del año. El uso
+          destinado a alojamientos turísticos y al centro termal Caldea
+
+          44
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+representa el 11,48% del total de uso hídrico de los sectores
+económicos del país y es superior en los meses de invierno y verano.
+Por el contrario, el consumo para uso agrícola se ciñe a los meses
+donde acontece el desarrollo vegetativo efectivo en los valles
+pirenaicos (de junio a setiembre), ocupando el tercer lugar en uso de
+agua (9,31%). El consumo de agua en las estaciones de esquí se
+concentra en los meses invernales, teniendo en cuenta que
+generalmente los meses de noviembre y diciembre se forma la base
+de nieve artificial y entre enero y marzo se aporta un refuerzo que
+permite completar la temporada. Este representa el 6,67% del uso
+total de agua del país. El uso de agua destinado a la gestión ganadera
+es bajo en Andorra (0,22%), debido a una actividad más extensiva
+que intensiva del ganado, excluyendo explotaciones que solicitan alta
+demanda de agua de forma concentrada en el territorio.
+
+El uso con mayor demanda de agua en Andorra es el hidroeléctrico
+que, aunque sea considerado como no consuntivo, supone de media
+anual un aprovechamiento de 75 hm3, principalmente procedente del
+río Valira d’Orient. Este aprovechamiento se traduce en una
+producción eléctrica media anual aproximada de 85 GWh gracias a la
+central hidroeléctrica de Encamp y a una pequeña aportación de las
+minicentrales de Arcalís i Aixovall. Actualmente, la hidroeléctrica
+aporta el 75% de la producción eléctrica nacional que, a su vez,
+representa el 20% de la electricidad usada en Andorra.
+
+La reciente Ley de Impulso de la Transición Energética y del Cambio
+Climático (Litecc) (BOPA, 2018) expresa la voluntad de aumentar la
+producción eléctrica nacional como mínimo hasta el 50% en el año
+2050 asegurando un porcentaje de fuentes renovables no inferior al
+75%. Este compromiso exige promover la introducción de nuevas
+instalaciones de producción eléctrica renovable, siendo identificada la
+tecnología hidroeléctrica como la de mayor potencial en el PSIEA
+(Govern d’Andorra, 2018b). En este contexto, prever posibles
+cambios futuros en la disponibilidad del recurso se presenta clave
+para la gestión hídrica y energética.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Efectos del cambio climático y el cambio global en el régimen
+          hídrico
+
+          El régimen hidrológico de Andorra es el típico de una zona de
+          montaña de influencia mediterránea con régimen nival, el cual
+          presenta caudales altos en primavera y bajos en estiaje con una
+          ligera aportación procedente de las precipitaciones en otoño. Los
+          resultados obtenidos de la modelización muestran que el hidrograma
+          actual cambiará en los próximos años debido al cambio climático (ver
+          Figura 17). En líneas generales, se espera una disminución del caudal
+          anual concentrada especialmente entre finales de primavera y
+          verano. El cambio de patrón en el hidrograma está también asociado
+          al cambio en el régimen de nevadas. La precipitación sólida decaerá
+          debido al aumento de temperatura y, por consiguiente, la escorrentía
+          instantánea durante los meses de invierno será significativamente
+          mayor.
+
+          El escenario de referencia presenta una pérdida de caudal medio
+          anual del 8,87% respecto a la actualidad, mientras que el escenario
+          de Cambio climático presenta una ligera disminución, un poco por
+          debajo del de referencia (6,80%). Las disminuciones de caudal, entre
+          el escenario Cambio climático y el Actual, se concentran durante los
+          meses de mayo a setiembre (-17,73%) y se prevén pequeños
+          incrementos el resto de los meses (14,87%). Los caudales en el
+          escenario Cambio global siguen ligeramente por debajo de los del
+          escenario Cambio climático.
+
+
+
+
+          46
+                                               Evolución de los usos de los recursos hídricos y posibles
+                                              tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 17. Evolución mensual del caudal en la salida de la cuenca de Andorra (Borda
+Sabaté) en el año 2050 en el escenario Actual y en los escenarios Referencia,
+Cambio climático y Cambio global
+
+
+Estos resultados apuntan que el incremento de temperatura en el
+futuro producirá un aumento de la ratio agua/nieve, un avance del
+deshielo y, en definitiva, un aumento de la escorrentía superficial en
+los meses de invierno. Durante estos meses aumentará el caudal en
+detrimento del caudal a finales de primavera y verano, donde será
+significativamente menor. Estos resultados son acordes con los
+proporcionados por estudios en cuencas de régimen nival (Birsan et
+al., 2005; Lorenzo-Lacruz et al., 2012; Wilson et al., 2010).
+
+Es importante resaltar que la modelización presentada se basa en
+modelos climáticos con incrementos aditivos en los valores de
+temperatura y precipitación, en este caso basados en el proyecto
+CLIMPY (Amblar-Francés et al., 2020). Por tanto, no se han tenido en
+cuenta el aumento de eventos climáticos extremos como la sequía,
+que se estima que podrían agravar los caudales bajos en épocas
+estivales.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Afectaciones del cambio climático y el cambio global a las
+          funciones ecosistémicas
+
+          La planificación y la gestión de las cuencas hidrológicas debe
+          incorporar los escenarios futuros de cambio climático y las medidas
+          adaptativas. Uno de los objetivos clave es el de hacer compatible los
+          diferentes usos del agua y plantear el aumento de las infraestructuras
+          de producción hidroeléctrica asegurando el mantenimiento de la
+          calidad ecológica del río, y a ser posible, promover una tendencia de
+          la mejora en el tiempo.
+
+          El mantenimiento de la calidad ecológica de los ríos es una de las
+          garantías de desarrollo sostenible de cualquier país. Uno de los
+          instrumentos previstos por la Directiva Marco del Agua 2000/60/CE
+          son los programas de seguimiento y control del estado de los ríos y
+          de la estructura y funcionamiento de los ecosistemas acuáticos. La
+          mayoría de los países controlan la calidad de los ríos a través de la
+          implantación de caudales ambientales. En este sentido, en Andorra
+          existe el Reglamento de Protección de los Hábitats Acuáticos (en
+          adelante, RPHA) (BOPA, 2005) que regula los caudales mínimos i
+          define el caudal ambiental. El RPHA considera que el caudal mínimo
+          ecológico es la décima parte del caudal medio interanual, mientras
+          que considera el caudal ecológico como "el caudal necesario para
+          garantizar la evolución biológica natural de las poblaciones de flora y
+          fauna acuáticas", no obstante, no se detalla su cálculo o sus valores.
+
+          En los ríos de Andorra, así como en el resto de ríos de cabecera de
+          los Pirineos, un régimen de caudales por debajo del límite
+          ambientalmente aceptable supone la pérdida de las funciones
+          ecosistémicas (Agencia Catalana de l’Aigua, 2006; Arnett, 1976). En
+          este contexto, se esperan retrocesos o pérdidas de especies
+          autóctonas. Este podría ser el caso de la trucha común (Salmo
+          trutta), que necesita como mínimo una profundidad de río de 40 cm
+
+
+          48
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+para mantener la población adulta de forma estable en el tiempo
+(Lewis, 2006). Con caudales por debajo del límite ambiental también
+se espera una pérdida en la calidad del agua, pudiendo en
+determinados    periodos,   quedarse   estancada,         aumentando          su
+temperatura, su concentración en nitritos y nitratos, y disminuyendo
+la concentración en oxígeno, afectando a numerosas especies de
+fauna y flora, y a la calidad propia del agua. Este caso se ve agravado
+cuando   los   caudales   bajos   suceden    en    verano      ya    que     las
+temperaturas ambientales son más elevadas. Existen muchos otros
+efectos y ejemplos de la pérdida de las funciones ecosistémicas en
+este tipo de ríos (pérdida de la calidad de agua para uso humano,
+pérdida de resiliencia del ecosistema, etc.) (Agencia Catalana de
+l’Aigua, 2006; Tennant, 1976).
+
+Los caudales mínimos definidos en el RPHA (10% del caudal
+interanual) no aseguran las funciones ecosistémicas de los ríos
+(Alcazar Montero, 2007; Arnett, 1976; Diaz et al., 2003; Tennant,
+1976; Velychko & Dupliak, 2021). Por tanto, es necesario definir y
+aplicar unos caudales ambientales específicos más conservadores,
+por tramos de río, que incluyan estudios y seguimientos ambientales
+debidamente validados, y representen la variabilidad natural del río.
+
+Debido a que la disponibilidad de datos ambientales y biológicos no
+es evidente, ni tampoco el número y la representatividad de
+estaciones de aforo con series significativas de datos, generalmente
+se recurre a cálculos hidrológicos como los percentiles. Un ejemplo
+son los propuestos en el PSIEA (Govern d’Andorra, 2018a), basados
+en el método de Tennant (Tennant, 1976). Otro método hidrológico
+más robusto, extendido y representativo, es el método basado en el
+cálculo de las medias de los mínimos de las medias móviles,
+denominado QBM o Basic Flow Method (Agencia Catalana de l’Aigua,
+2006; Alcázar, 2012; Alcazar Montero, 2007; Arnett, 1976), con
+adaptaciones a la variabilidad estacional propia de cada río.
+
+A falta de caudales ambientales más robustos, en este informe se ha
+valorado el cumplimiento de los caudales ambientales fijados en el
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          PSIEA, que propone los siguientes porcentajes estacionales de
+          retención de caudal:
+
+              •   20% del caudal medio interanual (de octubre a marzo)
+              •   40% del caudal medio interanual (de abril a septiembre)
+
+          En el apartado Afectaciones del cambio climático y el cambio global
+          en un tramo de río con alta competencia por el agua se valora la
+          consecución de los caudales ambientales, observando que en el
+          futuro se agravará su incumplimiento especialmente en los meses de
+          verano.
+
+          Afectaciones del cambio climático y el cambio global al sector
+          hidroeléctrico
+
+          Las centrales hidroeléctricas se prevén esenciales para acompañar la
+          transición energética. En el caso de Andorra, la principal central
+          hidroeléctrica se sitúa en Encamp y supone alrededor del 15% de la
+          producción nacional de energía (OECC, 2021). Se basa en un sistema
+          de lagos regulados de alta montaña y de canales que transportan el
+          agua hacia el lago de Engolasters. Adicionalmente, existen dos
+          minicentrales de agua fluyente (en Arcalís y Aixovall) y el PSIEA
+          proyecta cuatro más a implementar antes del año 2030. En este
+          sentido, el estudio de las afectaciones del cambio climático en la
+          producción       hidroeléctrica,   en   el   caudal   y   en   las   funciones
+          ecosistémicas de los ríos se presenta clave para desplegar las
+          estrategias de adaptación más adecuadas.
+
+          En este caso de estudio se ha observado que el régimen de caudales
+          se verá modificado por el aumento de la precipitación líquida en
+          invierno y por el adelanto de la fusión de la nieve. Esta situación ha
+          sido ya descrita en distintos estudios realizados a escala de los
+          Pirineos y los Alpes (Brunner et al., 2019; OPCC-CTP, 2018).
+
+
+
+          50
+                                       Evolución de los usos de los recursos hídricos y posibles
+                                      tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Los escenarios de cambio climático estudiados en Andorra prevén una
+modificación en la capacidad de producción hidroeléctrica. La Figura
+18 presenta la producción eléctrica mensual estimada en la central
+de Encamp el año 2050 en los distintos escenarios analizados.
+
+El escenario Referencia prevé un incremento de la producción media
+de energía hidroeléctrica anual del 2% para el año 2050, mientras
+que el aumento en el escenario Cambio global es algo más acentuado
+(2,4%). La diferencia positiva entre el escenario Cambio global y la
+actualidad es especialmente significativa en los meses de enero,
+febrero y marzo (40,9%). Este incremento es consecuencia de la
+mayor disponibilidad de recurso durante los meses de invierno. En
+cambio, existe un periodo donde los caudales se prevé que
+disminuirán afectando también a la producción hidroeléctrica. La
+menor disponibilidad de caudal no llegaría a penalizar la producción
+en mayo ya que este es un periodo en el que, en la central
+hidroeléctrica de Encamp, no se aprovecha la totalidad del recurso
+disponible debido a los caudales significativamente elevados de este
+periodo y la baja capacidad de almacenaje de agua de Andorra (lago-
+embalse de Engolasters). Por contra, la reducción de caudal a
+principios de verano penaliza la producción, en especial durante los
+meses de junio y julio, y con mayor intensidad en el escenario Cambio
+global (-25,86%).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 18. Energía producida en la central hidroeléctrica de Encamp en los
+          escenarios Actual, Referencia y Cambio global el año 2050
+
+
+          Aunque la importante disminución de caudal en primavera no tiene
+          gran influencia en la capacidad de producción, la disponibilidad de
+          agua en este periodo para reservar en los lagos de alta montaña va
+          a ser inferior y, por tanto, la gestión del almacenaje de agua se verá
+          alterada. En este sentido, la capacidad de regulación de los
+          almacenajes de agua en zonas de montaña será clave para gestionar
+          la producción hidroeléctrica y hacerla compatible con la conservación
+          de los caudales ambientales. Esto dependerá de cada región y de su
+          capacidad de almacenaje, que en el caso de Andorra es baja.
+
+          Los resultados expuestos en esta sección están en línea con los
+          obtenidos en países del centro i norte de Europa (Adamovic &
+          Després, 2020). Es importante destacar que estos se basan en la
+          proyección de un año tipo y, por tanto, el impacto sobre la producción
+
+
+
+
+          52
+                                              Evolución de los usos de los recursos hídricos y posibles
+                                             tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+hidroeléctrica del posible incremento de periodos de sequía (Van Vliet
+et al., 2016) queda fuera del alcance del presente estudio.
+
+Afectaciones del cambio climático y el cambio global en un
+tramo de río con alta competencia por el agua
+
+Se ha analizado uno de los tramos que podría presentar conflictos en
+el uso del agua debido a una alta convergencia de usos de distintos
+sectores. Se trata del tramo entre la presa de Ransol y la confluencia
+del río Valira d’Orient y el torrente de Plamanera (Figura 19), justo
+antes del retorno de agua de la central hidroeléctrica al río. Este
+tramo, de unos 11,5 km de longitud, se ve afectado por las tres
+desviaciones de agua de la central hidroeléctrica de Encamp hacia
+Engolasters. Además, en el mismo tramo existen dos poblaciones con
+un importante consumo de agua (Canillo y Encamp), usos turísticos
+y agrícolas y, aguas arriba, las captaciones destinadas a la producción
+de nieve de la estación de esquí de Grandvalira.
+
+
+
+
+Figura 19. Localización del tramo de río con alta competencia por el agua, entre
+Ransol i Escaldes-Engordany
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Según la modelización realizada, a excepción de los meses de enero
+          y febrero, se cumplen los caudales mínimos ambientales fijados en el
+          RPHA (10% del caudal interanual) en el nodo previo al retorno de
+          agua de la hidroeléctrica. Por el contrario, los caudales ambientales
+          fijados por el PSIEA no se cumplen durante la mayor parte del año.
+
+          Los resultados de los escenarios futuros apuntan a una reducción
+          general del caudal anual en el horizonte 2050. En este sentido, la
+          disminución del caudal se concentra entre los meses de abril y
+          octubre, mientras que de enero a febrero y de octubre a diciembre
+          se prevé un ligero aumento (ver Figura 20). El incremento de caudal
+          previsto en invierno permite acercarse al caudal ambiental fijado en
+          el PSIEA durante enero, sin llegar a conseguirlo en febrero. El
+          descenso del caudal anual en el escenario de referencia es del 9,57%
+          respecto a la actualidad. El descenso de caudal en el escenario
+          Cambio global es de 2,9 m3/s, representando una reducción del
+          15,26% respecto a la actualidad, mientras que en el Cambio climático
+          es de 2,18 m3/s (-11,46%).
+
+
+
+
+          Figura 20. Caudal mensual en el año 2050 en el nodo previo al retorno de agua de
+          la central hidroeléctrica (coordenadas EPSG:27563: 536028, 24948) y en los
+          diferentes escenarios analizados. En rojo se proyecta el límite de caudal ambiental
+          propuesto por el PSIEA y en amarillo el caudal mínimo ecológico reglamentario del
+          RPHA
+
+
+          54
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Tal como se observa en la Figura 20, en el escenario Cambio global,
+el periodo de abril a julio es el que presenta una disminución de
+recurso más acentuada (29,53% respecto a la actualidad). La
+disminución durante los meses más cálidos del año es más crítica ya
+que la temperatura del agua de los ríos en el periodo veraniego es
+más elevada, agravando las condiciones bioquímicas y térmicas de
+las aguas de caudal bajo y afectando directamente al hábitat y a sus
+seres vivos. En junio, el caudal actual modelizado es de 1,62 m3/s
+mientras que en el escenario Cambio global disminuye hasta 0,74
+m3/s (reducción del 54%), ambos por debajo del límite del caudal
+ambiental fijado en el PSIEA (1,85 m3/s) 20.
+
+Según los resultados de la modelización, actualmente entre los meses
+de junio y octubre no se cumple el caudal ambiental fijado en el
+PSIEA. Precisamente en estos meses, todos los escenarios futuros
+pronostican que los valores de caudal aún se alejarán más de los
+establecidos por el PSIEA como caudal ambiental. En cambio, durante
+los meses de invierno, el incremento previsto de caudal en el
+horizonte 2050 facilitará el cumplimiento de los valores propuestos
+por el PSIEA. Febrero es el mes que presenta menor caudal, periodo
+en que este representa en todos los escenarios menos de la mitad
+del requerido por el criterio ambiental fijado en el PSIEA.
+
+Es importante remarcar que hasta la fecha no se ha estudiado ni
+determinado para Andorra ningún régimen de caudales ambientales
+específicos para sus ríos teniendo en cuenta estudios precedentes,
+datos de seguimiento ambiental y cálculos hidrológicos robustos
+como el cálculo de las medias de los mínimos de las medias móviles
+o QBM (Agencia Catalana de l’Aigua, 2006; Alcazar Montero, 2007;
+Arnett, 1976). Esta propuesta de caudales ambientales permitiría
+
+
+
+
+20
+   El caudal ambiental fijado en el PSIEA se ha calculado a partir de las medias del
+caudal interanual a diferentes tramos de río, obtenidas por restitución de series
+climáticas y balance hídrico, y no a partir de un modelo hidrológico como en el
+presente trabajo.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          zonificar por tramos los ríos de Andorra teniendo en cuenta sus
+          particularidades.
+
+          Estas perspectivas futuras de disminución de caudal (sin tener en
+          cuenta las sequías), y en especial en tramos de alta competencia por
+          el agua como el descrito, refuerzan la necesidad de estudiar, valorar
+          y desplegar una estrategia integral de adaptación al cambio climático
+          que compatibilice la conservación de las funciones ecosistémicas de
+          los ríos y la transición energética a la que se ha comprometido el país.
+          Esta estrategia debería regular los caudales ambientales, integrando
+          la conservación de los sistemas riparios y, por consiguiente, de sus
+          funciones ecosistémicas. A su vez, la regulación de los caudales
+          ambientales permitiría disponer de unos criterios robustos a aplicar
+          en el desarrollo de nuevas instalaciones de aprovechamiento
+          hidroeléctrico.
+
+          Balance hídrico, flujos hídricos y variables de estado
+
+          WEAP permite detectar cambios en el volumen mensual de agua en
+          los diferentes compartimientos donde se encuentra el agua en una
+          cuenca (flujo de base, escorrentía, precipitación, formación de nieve,
+          volumen de agua en el suelo, etc.), que son los flujos hídricos o las
+          variables de estado. Por tanto, se pueden estimar los diferentes
+          elementos del balance hídrico y evaluar los cambios en cada cuenca
+          y entre los diferentes escenarios.
+
+          A continuación, se resumen los resultados de algunas variables de
+          interés para conocer la situación actual y las tendencias futuras en el
+          ciclo de agua en las cuencas de grado dos de Andorra.
+
+
+
+
+          56
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Principales variables climáticas: precipitación y temperatura
+
+Presentamos      a   continuación     los   mapas       de     precipitación        y
+temperatura usados como entradas del modelo WEAP. En ambos
+casos se trata de los mismos datos extraídos de los ráster con un
+tamaño de celda de 90 m interpolados a partir de los datos de las
+estaciones meteorológicas del área de influencia de Andorra para el
+período de 1981-2010.
+
+
+
+
+Figura 21 y 22 . Temperatura media anual (ºC) y precipitación media anual (mm)
+en el periodo 1981-2010 en las cuencas estudiadas
+
+
+Se observa (Figura 21), como es de esperar, que las subcuencas más
+elevadas presentan temperaturas medias más bajas que las
+subcuencas más bajas. En la Figura 21, se ve claramente, como
+sucede en otros valles pirenaicos, que llueve más en las cuencas
+occidentales y septentrionales, que en las cuencas orientales y
+meridionales.
+
+Flujos hídricos
+
+A continuación, se presentan las variables de flujos simulados por
+WEAP en el periodo de referencia (1981-2010) y los cambios
+esperados en el escenario de Cambio climático en el año 2050.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Escorrentía y caudal superficial de las cuencas
+
+          Los valores totales de escorrentía generados por el modelo WEAP en
+          Andorra (328,77 mm) son ligeramente inferiores a los resultados del
+          modelo SWAT implementado en PIRAGUA para todo el Pirineo, que
+          presenta valores entre 400 y 600 mm (Quintana-seguí et al., 2022).
+          La distribución espacial de la escorrentía sigue el patrón esperado,
+          con valores superiores en las cuencas de mayor altitud, y en las
+          orientales (Figura 23).
+
+
+
+
+          Figura 23. Generación anual de escorrentía modelizada en el periodo de referencia
+          1981-2010
+
+
+          La escorrentía, más los flujos de percolación del agua en el suelo, son
+          los responsables de generar el caudal superficial. En este sentido, las
+          aportaciones anuales actualmente oscilan entre los 0,003 y los 21,62
+
+
+
+
+          58
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+hm3, siendo estos volúmenes de agua ligeramente proporcionales a
+la superficie de la cuenca (ver Figura 24).
+
+
+
+
+Figura 24. Contribución anual de caudal superficial modelizada en el periodo de
+referencia 1981-2010 (hm3)
+
+
+En los escenarios futuros se prevé una disminución del caudal acorde
+con los resultados ya expuestos en los apartados anteriores. En este
+sentido, la disminución de caudal prevista en el escenario Cambio
+climático tiene una transferencia directa sobre el caudal superficial
+generado en cada cuenca de grado dos. En concreto, se puede
+observar una pérdida de entre el 2,1 y el 7% del caudal superficial
+en el escenario Cambio climático en el año 2050 respecto a la
+actualidad (ver Figura 25).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 25. Cambio (disminución) modelizado en el caudal superficial (%) en el año
+          2050 (escenario Cambio climático respeto el periodo de referencia 1981-2010)
+
+
+          Fusión de nieve
+
+          En la Figura 26 se presenta el flujo de deshielo (fusión de la nieve).
+          El modelo, lógicamente, produce mayor deshielo en las zonas más
+          elevadas del dominio en contraposición a las cuencas de fondo de
+          valle o más meridionales. Los valores oscilan entre los 33,97 y los
+          331,58 mm, siendo el 133,53 mm el valor promedio de las cuencas
+          estudiadas.
+
+
+
+
+          60
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 26. Fusión nival media anual modelizada en el periodo 1981-2010
+
+
+Evapotranspiración
+
+La variable evapotranspiración, tanto real (ET) como potencial (ETP),
+es difícil de estimar y tiene asociado un grado de error destacable.
+No obstante, WEAP permite su cálculo con el método de Penman
+Monteith (Etapa, 2006), uno de los más usados, reconocidos y
+recomendado por la FAO.
+
+El mapa de evapotranspiración real media (Figura 27) muestra un
+patrón de distribución espacial, donde toma valores superiores en las
+cuencas de menor altitud, de mayor tamaño y con influencia
+occidental y meridional.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 27. Evapotranspiración media anual modelizada en el periodo 1981-2010
+
+
+          El intervalo de valores obtenido (251-347 mm) es coherente con
+          otros estudios en los Pirineos (Quintana-seguí et al., 2022). Los
+          valores son un rango inferior a los obtenidos en el informe “Estudi
+          per a l’elaboració anyal del recurs hídric d’Andorra” (Govern
+          d’Andorra, 2020b). Cabe destacar que el método de cálculo de la
+          evapotranspiración (ET) difiere en ambos informes, siendo el de
+          Penman Monteith el utilizado por el WEAP, y el de Thornthwaite el
+          utilizado en el citado informe.
+
+          Si se compara la ET obtenida en el periodo de referencia (1981-2010)
+          y en el escenario Cambio climático, se observa como esta augmenta
+          de promedio un 8,81%, siendo las cuencas orientales y las de más
+          altitud, las que podrán tener aumentos más acusados (Figura 28).
+
+
+
+
+          62
+                                          Evolución de los usos de los recursos hídricos y posibles
+                                         tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Este aumento es debido a la respuesta del incremento de
+temperatura proyectado en los escenarios de cambio climático.
+
+
+
+
+Figura 28. Cambio en la evapotranspiración modelizado en el año 2050 y en
+escenario de Cambio climático respeto al periodo de referencia 1981-2010
+
+
+Balance hídrico
+
+El balance hídrico se puede obtener como la diferencia entre la
+precipitación anual y la demanda atmosférica de humedad. Este
+balance aporta información para conocer el grado de humedad o
+aridez del clima. En el caso del Pirineo, el balance hídrico climático es
+eminentemente positivo indicando ausencia de aridez y un claro
+excedente hídrico, con valores que superan los 1000 y los 1500 mm
+anuales en un amplio sector (Quintana-seguí et al., 2022), sobre todo
+cerca de la divisoria y en la vertiente norte. En esta estimación
+calculada en el proyecto PIRAGUA se observa como Andorra se estima
+como una sola cuenca y con un balance hídrico alrededor de los 500
+mm (Figura 29).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 29. Balance hídrico climático (precipitación anual menos evapotranspiración
+          potencial anual), promedio para el periodo 1981-2010. (Fuente: SAFRAN-PIR,
+          2021, extraído del proyecto PIRAGUA 21)
+
+
+          WEAP permite calcular el balance hídrico como la diferencia entre la
+          precipitación media anual y la evapotranspiración media anual (ET 22)
+          de Andorra. Por ejemplo, y en el periodo de referencia (1981-2010),
+          para la media anual andorrana, se obtiene un balance positivo de
+          678,46 mm, siendo la precipitación media de 988,35 mm, y la ET de
+          309,88 mm.
+
+          La distribución geográfica del balance muestra valores superiores en
+          las cuencas de mayor altitud y más septentrionales (Figura 30),
+          siendo esta distribución espacial muy similar a la del informe titulado
+          “Estudi per a l’elaboració anyal del recurs hídric d’Andorra” (Govern
+          d’Andorra, 2020b).
+
+
+
+
+          21
+               Pendiente de publicación
+          22
+               WEAP calcula la ET a partir de Penman Monteith
+
+
+          64
+                                           Evolución de los usos de los recursos hídricos y posibles
+                                          tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 30. Balance hídrico modelizado en el periodo de referencia 1981-2010,
+precipitación menos evapotranspiración
+
+
+Es importante añadir que la evapotranspiración es el flujo más
+complejo de validar, ya que presenta una elevada variación entre los
+diferentes modelos y metodologías de cálculo, y además existe muy
+poca información sobre datos de campo observados.
+
+Variables de estado
+
+Paquete nival (snow water equivalent)
+
+Esta variable de estado corresponde al almacén de agua en forma de
+nieve (Figura 31). Los resultados de esta variable en WEAP se
+mantienen dentro del intervalo estimado con SWAT (100-500 mm),
+para cuencas principales del Pirineo (Quintana-seguí et al., 2022).
+Como cabe esperar, el factor altitud es relevante, incrementando la
+cobertura de nieve en las cuencas de más altitud.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 31. Paquete de nieve (snow water equivalent) en el periodo de referencia
+          1981-2010 para la estación hibernal (modelización WEAP)
+
+
+          La disminución mensual del agua en el compartimiento de nieve se
+          prevé que disminuya notablemente en el año 2050 (52,86%). Esta
+          reducción será más marcada en las cuencas del fondo de valle y en
+          las meridionales (Figura 32).
+
+
+
+
+          66
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 32. Cambio en el volumen de agua en el compartimiento de nieve en el año
+2050 y en escenario de Cambio climático respeto al periodo de referencia 1981-
+2010 (modelización con WEAP)
+
+
+Otras variables
+
+Uno de los índices de aridez que se utilizan para caracterizar el clima
+en relación con el agua disponible para los ecosistemas es la ratio
+entre evapotranspiración real (ET) y la potencial (ETP). Los
+resultados para este estudio del índice muestran valores por encima
+del límite de disponibilidad de agua para la producción primaria en
+los   hábitats afectados (Figura        33). Valores inferiores             a 0,6
+empezarían a indicar cierta condición de aridez, y este no es el caso
+de Andorra, donde los valores de ET y de ETP son parecidos y por
+tanto su ratio cercana a la unidad.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 33. Índice de aridez (ratio entre evapotranspiración real y potencial) en el
+          periodo de referencia 1981-2010 (modelización con WEAP)
+
+
+          Otro de los índices utilizados habitualmente es el índice de aridez de
+          la UNEP, que representa la ratio entre la precipitación media anual y
+          la ETP. En este caso los resultados de este índice para Andorra indican
+          claramente clima húmedo con resultados superiores a 0,65 (En et al.,
+          2019).
+
+
+
+
+          68
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+ESTRATEGIAS DE ADAPTACIÓN AL CAMBIO GLOBAL
+
+En este apartado se resume la legislación y estrategias asociadas en
+relación con la adaptación al cambio climático en Andorra, y se
+detallan los resultados de las actividades participativas desarrolladas
+para conocer la identificación y percepción social de las medidas
+adaptativas.
+
+Estrategias de adaptación identificadas
+
+La capacidad de adaptación tiene una componente social muy
+arraigada. Las medidas de adaptación fomentadas tienen que estar
+en línea con la aceptación social y la de los sectores económicos
+implicados. En este sentido, durante el proyecto se realizaron
+diferentes actividades participativas, para, entre otros aspectos,
+valorar la percepción del recurso agua en Andorra, sus amenazas en
+el contexto del cambio climático y las posibles medidas adaptativas.
+Estas actividades han permitido enriquecer este estudio con la visión
+y voluntad de la ciudadanía.
+
+A continuación, se detallan los resultados de las dos actividades
+participativas.
+
+Talleres participativos
+
+Se han dirigido a grupos de personas vinculados con la temática del
+agua y los recursos naturales, o con ciertas inquietudes o
+sensibilidades con la temática. Estos talleres se desarrollaron en el
+marco de la “Nuit des Idées”, promovido y organizado anualmente
+por la embajada francesa en Andorra. La “Nuit des Idées” tiene como
+propósito acercar el conocimiento a la población y fomentar su saber,
+inquietud y creatividad. El taller, realizado durante el mes de enero
+de 2020, constó de dos sesiones interactivas dinamizadas por los
+investigadores de Andorra Recerca + Innovació.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          En la sesión-taller organizada durante la Nuit des Idées23 participaron
+          un total de treinta y cuatro personas repartidas en las dos sesiones
+          (Figura 34).
+
+
+
+
+          Figura 34. Sesión del taller participativo “Nuit des Idées” celebrada en el marco del
+          proyecto Piragua en Andorra
+
+
+          La percepción general de los participantes del taller muestra que, en
+          el contexto de cambio climático, los principales impactos sobre el
+          recurso hídrico son, en primer lugar, el riesgo de grandes avenidas
+          y, en segundo lugar, la disminución del recurso hídrico.
+
+          Ante un supuesto escenario de escasez de agua, los asistentes
+          priorizarían el sector hidroeléctrico, seguido por el sector doméstico
+          y el sector servicios, mientras que el sector turístico de nieve
+
+
+
+
+          23
+             Resultados de la primera sesión del taller participativo “Nuits des Idées” en:
+          https://bit.ly/sesion_nuit_des_idees
+
+
+          70
+                                                 Evolución de los usos de los recursos hídricos y posibles
+                                                tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+(producción de nieve de cultivo) quedaría en el último lugar de la
+priorización (Figura 35).
+
+
+
+
+Figura 35. Resultados del taller participativo sobre la priorización de sectores en
+caso de tensiones por el uso del agua. El valor 5 representa la máxima puntuación
+
+
+Encuesta en línea
+
+La encuesta en línea, efectuada durante los meses de octubre y
+noviembre de 2020, se ha enfocado a conocer la percepción de la
+población en general.
+
+La encuesta ha permitido profundizar en la percepción del cambio
+climático y en la aceptación de medidas de adaptación potenciales
+entre la ciudadanía andorrana 24. En total respondieron la encuesta
+98 personas de perfiles generalistas muy variados.
+
+Además de evidenciar que la población considera que ahora es el
+momento de actuar para combatir el cambio climático, la encuesta
+
+
+24
+     Resultados completos de la encuesta en https://bit.ly/piragua_results
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          refleja también que un 91% de las personas encuestadas desconoce
+          el precio del m3 de agua, un 84% desconoce la cantidad que utiliza
+          en casa, y el 61% no sabe lo que paga por este concepto. En un
+          hipotético contexto de escasez, las personas consultadas consideran
+          que se debería dar prioridad de acceso al agua al sector doméstico,
+          seguido de la agricultura, la producción hidroeléctrica, el sector
+          servicios y la producción de nieve (Figura 36).
+
+
+
+
+          Figura 36. Resultados de la encuesta en línea sobre la priorización de sectores en
+          caso de tensiones por el uso del agua. El valor 5 representan la máxima puntuación
+
+
+          Reducir las pérdidas de agua de la red y fomentar el ahorro en todos
+          los sectores, limitar el crecimiento urbano o fomentar la educación
+          sobre el cambio climático y los recursos hídricos encabezan el ranking
+          de las estrategias de adaptación que la población considera
+          prioritarias. Más lejos quedan, pero también con un fuerte apoyo,
+          promover una gestión activa de los bosques para evitar los impactos
+
+
+          72
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+de las sequías estivales, diversificar las actividades turísticas de
+montaña para ser más independientes de la nieve, fomentar la
+recolecta de agua de lluvia para el riego, limitar el crecimiento
+turístico o fomentar el ecoturismo. La Figura 37 presenta las
+estrategias de adaptación planteadas en la encuesta y el nivel de
+priorización de cada una de ellas por las personas encuestadas.
+
+
+
+
+Figura 37. Resultado de la encuesta en línea sobre la priorización de las estrategias
+de adaptación al cambio climático
+
+
+Potencial de las estrategias de adaptación
+
+Según la modelización realizada, la demanda de agua en el escenario
+Cambio global incrementa de los 21,63 hm3 actuales hasta los 36,49
+hm3 (un 68,70%). Tal como se observa en la Figura 38, la distribución
+mensual de la demanda se mantiene muy similar en todos los
+escenarios, siendo julio, agosto y enero los meses de mayor
+demanda, y octubre el de menor.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 38. Demanda de agua mensual en la actualidad y los escenarios Cambio
+          global y Adaptación en el año 2050
+
+
+          La distribución de la demanda mensual en los principales sectores
+          (ver Figura 39) muestra complementariedad entre el sector agrícola
+          y la producción de nieve, donde el primero aglutina la demanda de
+          agua en los meses de primavera y verano mientras que la innivación
+          artificial la concentra durante el invierno. Los sectores doméstico y
+          turístico se mantienen bastante constantes durante todo el año, si
+          bien es verdad que el sector turístico tiene una pequeña disminución
+          del uso del agua en primavera y otoño.
+
+          La implementación de las medidas adaptativas propuestas en el
+          escenario Adaptación (ver Tabla 7) reducen la demanda de agua para
+          uso consuntivo un 27,87% respecto el escenario Cambio global.
+
+          Analizando la demanda sectorial, se observa que el volumen de agua
+          en la actualidad para uso doméstico es de 15,43 hm3, mientras que
+          en el escenario Cambio global asciende a 27,08 hm3 (un incremento
+          del 72,7%). Las medidas adaptativas estudiadas disminuirían la
+
+          74
+                                        Evolución de los usos de los recursos hídricos y posibles
+                                       tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+demanda hasta los 18,76 hm3 (Figura 39), reduciéndose un 30%
+respecto al escenario Cambio global y llegando a valores cercanos a
+los actuales.
+
+La demanda de agua para la agricultura en la actualidad es de 2,57
+hm3, mientras que en el escenario Cambio global se espera que
+aumente    hasta los 2,85     hm3. Con las medidas adaptativas
+implantadas, la demanda del sector disminuiría un 15%, tal y como
+se ha establecido en la definición de los escenarios (Tabla 10).
+
+En el escenario Cambio global se prevé que el uso de agua destinado
+a producción de nieve artificial en las estaciones de esquí de
+Andorra aumente hasta 1,76 hm3, un incremento del 15% respecto
+la actualidad que se conseguiría compensar con las medidas
+adaptativas propuestas.
+
+Actualmente, la demanda de agua para abastecer los alojamientos
+turísticos y la infraestructura de SPA Caldea es de 2,08 hm3 al año,
+mientras que en el escenario de cambio global se espera que
+aumente hasta 4,72 hm3. Con las medidas adaptativas implantadas
+la demanda sería de 3,59 hm3. Los meses de mayor demanda se
+mantienen en febrero y agosto, siendo este último un mes
+especialmente crítico en lo que a caudal se refiere en el contexto de
+cambio global.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 39. Demanda de agua mensual (hm3) para usos doméstico, turístico,
+          producción de nieve y agricultura en los escenarios considerados para el año 2050
+
+
+          La Tabla 10 presenta el potencial de ahorro de agua de cada sector
+          estudiado, mostrando que el sector doméstico es el que dispone de
+          un mayor potencial, con un 22,84% de potencial de ahorro respecto
+          el total de usos consuntivos en el escenario Cambio global. En el otro
+          extremo se encuentran las estaciones de esquí que, a pesar de su
+          peso en la economía andorrana, su potencial de ahorro a escala de
+          país a través de medidas de eficiencia es limitado (0,74%). A pesar
+          del potencial limitado a escala de país, es importante remarcar que
+          la mayor parte de captaciones de las estaciones de esquí se
+          encuentran en la cabecera de los ríos donde los caudales son
+          especialmente bajos en determinadas épocas del año.
+
+
+
+
+          76
+                                                  Evolución de los usos de los recursos hídricos y posibles
+                                                 tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+       Sector                Potencial de ahorro (hm3)    Potencial de ahorro (%)*
+       Doméstico             8,32                         22,84
+       Turístico             1,13                         3,1
+       Estaciones de esquí   0,27                         0,74
+       Sector agrícola       0,43                         1,18
+       TOTAL                 10,15                        27,87
+
+Tabla 10. Potencial de ahorro (hm3 y %) de agua de los diferentes sectores de uso
+consuntivo del agua en Andorra aplicando las medidas adaptativas al escenario de
+Cambio global (*ahorro respecto el total de usos consuntivos).
+
+
+Las captaciones anuales destinadas a uso consuntivo del agua en
+Andorra suponen un 0,54% del caudal disponible. Añadiendo las
+captaciones      de    uso     no    consuntivo          (en   especial      para    uso
+hidroeléctrico)     suponen un 23,71% del caudal. Las medidas
+adaptativas permitirían reducir el 27,87% del uso consuntivo del
+agua, aun así, sin suponer una mejora significativa en la conservación
+del caudal destinado a mantener las funciones ecosistémicas. En este
+sentido, deberán considerarse medidas de adaptación al cambio
+climático más enfocadas a la transformación socioeconómica y a las
+estrategias políticas que las estudiadas con el modelo implementado,
+que se centran en el incremento de la eficiencia del uso de recursos.
+
+Según los resultados obtenidos, en el año 2050 y en el escenario más
+extremo (Cambio global), los usos domésticos, turísticos, agrícolas e
+hidroeléctricos actuales podrán ser abastecidos y, por tanto, la
+compatibilidad entre usos del agua no se verá directamente afectada.
+El   reto   será      asegurar      el   mantenimiento           de    las   funciones
+ecosistémicas durante todo el año, y en todos los tramos, y
+compatibilizarlo con la producción hidroeléctrica.
+
+La regulación de los caudales ambientales como medida adaptativa
+se estima imprescindible especialmente en los tramos de captación
+de agua para uso hidroeléctrico. Esta tendrá un efecto significativo
+en la conservación de las funciones ecosistémicas de los tramos de
+río especialmente durante los meses que el hidrograma presenta
+caudales más bajos.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Optimización del uso de recursos en las estaciones de esquí
+
+          Las estrategias de adaptación al cambio climático centradas en el
+          turismo hibernal se han puesto en práctica en las estaciones de esquí
+          de Grandvalira y Vallnord durante las temporadas 2019-2020 y 2020-
+          2021. En el caso de Vallnord, se han centrado únicamente en el
+          seguimiento del espesor del manto nival evolucionando la prueba
+          piloto inicial realizada en Grandvalira. Como resultado del proyecto
+          piloto se ha desarrollado una plataforma destinada a los gestores de
+          las estaciones para ser utilizada como centro de control. Esta permite
+          acceder a las medidas de espesor realizadas por las distintas
+          máquinas pisanieves en tiempo real, así como consultar el histórico
+          de la temporada 25.
+
+          A continuación, se detallan los resultados de los pilotos realizados en
+          Grandvalira y Vallnord.
+
+          Grandvalira (temporada 2019-2020)
+
+          La Figura 40 presenta los resultados 26 de la estimación del espesor
+          del manto nival del día 09/12/2019 en la estación de Grandvalira
+          mediante tecnología GNSS-RTK instalada en una máquina pisanieves.
+          Además        del   espesor,     cada    punto     de   medida      almacena     las
+          coordenadas (lat., lon.), la precisión (cm), el pitch (º) i el roll (º).
+
+
+
+
+          25
+               Mayor detalle en https://snowplanner.tech/
+          26
+               Resultados interactivos de distintos días en http://bit.ly/snow_depth_rtk
+
+
+          78
+                                              Evolución de los usos de los recursos hídricos y posibles
+                                             tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 40. Resultados de la estimación del espesor del manto nival en la estación
+de Grandvalira mediante tecnología GNSS-RTK instalada en una máquina
+pisanieves (datos del día 9/12/2019)
+
+
+Los resultados obtenidos se validaron en un entorno controlado
+mediante sondajes manuales. La validación se realizó fuera de pista
+y en tres zonas distintas (A, B, C) para disponer de nieve en distintas
+condiciones de compactación y pendiente. En cada una de las zonas
+se capturó el dato de espesor mediante el sistema GNSS-RTK
+instalado    en    la   máquina      pisanieves,      además        de     apuntar
+manualmente la actitud de la máquina (ángulos de pitch y roll
+proporcionados en cabina). Posteriormente se retiró la máquina y se
+midió el espesor real mediante sondaje en cuatro puntos distintos
+dentro de las zonas analizadas (ver Figura 41).
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 41. Medida real del espesor de nieve mediante sondaje en una de las zonas
+
+
+          A continuación, la Tabla 11 se presenta los resultados de las
+          validaciones.
+
+             Zona A (sin fresar)   Espesor de nieve real (cm)   Espesor de nieve calculado (cm)
+                   Punto 1                     133
+                   Punto 2                     132
+                   Punto 3                     111
+                   Punto 4                     104
+                  Promedio                     120                             145
+                                      Actitud en cabina (º)          Actitud calculada (º)
+                  Pitch (º)                   -12,5                          -11.91
+                   Roll (º)                     -5                            -5,48
+              Zona B (fresada)     Espesor de nieve real (cm)   Espesor de nieve calculado (cm)
+                  Punto 1                      106
+                  Punto 2                      108
+                  Punto 3                      100
+                  Punto 4                      101
+                 Promedio                     103,8                            132
+                                      Actitud en cabina (º)          Actitud calculada (º)
+                  Pitch (º)                    -14                           -13,43
+                   Roll (º)                     -4                            -3,92
+             Zona C (sin fresar)   Espesor de nieve real (cm)   Espesor de nieve calculado (cm)
+                   Punto 1                     133
+                   Punto 2                     132
+                   Punto 3                     111
+                   Punto 4                     104
+                  Promedio                     120                            115
+                                      Actitud en cabina (º)          Actitud calculada (º)
+                  Pitch (º)                    11,5                          13,16
+                  Roll (º)                      5                             5,93
+
+          Tabla 11. Resultados de las validaciones de las medidas de nieve en entorno
+          controlado
+
+
+
+          80
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Las diferencias entre el espesor de nieve medido manualmente y el
+calculado de forma automática son del orden de magnitud de la
+diferencia de las medidas entre los cuatro puntos del sondaje manual.
+Adicionalmente, hay que tener en cuenta que parte del error en el
+cálculo es introducido por la precisión altimétrica27 (RMSEZ=0,0058
+m) de la nube de puntos del terreno sin nieve.
+
+De los resultados obtenidos y presentado en la Tabla 11 se desprende
+también que la actitud calculada presenta diferencias inferiores a los
+2º respecto a la medida proporcionada en cabina.
+
+La precisión de las medidas realizadas confirma que la aplicación de
+esta tecnología está justificada, presentando ventajas evidentes
+respecto a otras tecnologías utilizadas para esta finalidad. Entre ellas
+destacan el precio, la precisión y el buen comportamiento con
+distintos tipos de nieve.
+
+Tal como se presenta en la sección “Seguimiento del espesor del
+manto nival”, durante la temporada 2019-2020 se realizaron también
+medidas de espesor mediante tecnología LiDAR instalada en una
+aeronave no tripulada. La Figura 42 presenta los resultados 28
+obtenidos el día 10/02/2020 en la pista Pala Central de la estación de
+Grandvalira. Tal como se puede observar, a diferencia de los datos
+capturados con la máquina pisanieves, en este caso se consigue
+cubrir un área mucho más pequeña pero las medidas son continuas
+y con una densidad de puntos muy superior.
+
+
+
+
+27
+   Informe del vuelo en:
+https://www.cartografia.ad/images/stories/cartografia/lidar/Informe_vol_LIDAR_
+2018.pdf
+28
+   Resultados interactivos de distintos días en http://bit.ly/snow_depth_drone
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Figura 42. Resultados de la estimación del espesor del manto nival en la estación
+          de Grandvalira mediante tecnología LiDAR instalada en drone (datos del día
+          10/02/2020)
+
+
+          Los datos capturados del vuelo mostrado en la Figura 42 se tomaron
+          se validaron tomando dos puntos de control en la superficie de la
+          nieve mediante GNSS-RTK obteniendo en ambos casos errores
+          inferiores a los 10 cm (ver Tabla 12).
+
+             Punto de control          Lat.               Lon.              Error (m)
+                    A               42,531800           1,700714              0,042
+                    B               42,532019           1,700694              0,068
+
+          Tabla 12. Resultados de las validaciones de las medidas mediante tecnología LiDAR
+          instalada en drone
+
+
+          En paralelo al seguimiento del espesor del manto nival, se
+          monitorizaron los consumos de agua y energía de la estación con el
+          objetivo de conocer en detalle el consumo de agua y energía. En esta
+          línea, se proporcionó una herramienta visual a la estación recopilando
+
+          82
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+la información derivada de los datos disponibles de consumo de agua
+y energía. Las Figura 43 i la Figura 44 muestran los dashboards
+proporcionados a la estación.
+
+
+
+
+Figura 43. Dashboard para el monitoreo del uso de agua
+
+
+
+
+Figura 44. Dashboard para el monitoreo del uso de energía
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Vallnord (temporada 2020-2021)
+
+          Durante la temporada 2020-2021 se ha realizado una segunda
+          prueba piloto enfocada al seguimiento del espesor del manto nival en
+          el sector de Pal del dominio de Vallnord. Esta ha servido para
+          evolucionar en la comunicación de los resultados a los gestores de
+          las   estaciones.       La prueba   piloto   en   Grandvalira,   presentada
+          previamente, estaba enfocada a validar la tecnología GNSS-RTK para
+          esta finalidad por lo que el cálculo de espesor y la comunicación de
+          resultados a los técnicos de las estaciones se hacía a posteriori. En la
+          presente prueba piloto se ha desarrollado el hardware, el backend y
+          el frontend para poder realizar la comunicación en tiempo real y de
+          forma amigable.
+
+          La Figura 45 muestra la versión beta de la plataforma destinada a los
+          gestores de la estación para ser utilizada como centro de control. En
+          ella pueden acceder a las medidas de espesor realizadas por las
+          distintas máquinas pisanieves en tiempo real, así como consultar el
+          histórico de la temporada. La información proporcionada puede
+          filtrarse por sector, pistas o sección de pista, además de según fecha
+          o espesor del manto nival.
+
+          Adicionalmente, se proporcionan una serie de métricas como el
+          espesor mínimo, máximo y medio de cada área seleccionada, un
+          histograma con la distribución del espesor y la evolución de los
+          últimos 7, 14 o 30 días.
+
+
+
+
+          84
+                                                Evolución de los usos de los recursos hídricos y posibles
+                                               tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Figura 45. Versión beta del centro de control destinado a los gestores de la estación
+
+
+Los buenos resultados obtenidos en las pruebas piloto realizadas han
+llevado a convertir el servicio en una solución comercial. Esta permite
+gestionar los espesores de nieve de las estaciones para mejorar la
+eficiencia en el uso de energía y agua, consiguiendo minimizar los
+costes de operación y mejorando la capacidad de éstas para hacer
+frente al cambio climático. El producto se comercializará a través de
+una empresa andorrana 29 que, en principio, será creada inicialmente
+con capital 100% de Andorra Recerca + Innovació.
+
+
+
+
+29
+     https://snowplanner.tech/
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          CONCLUSIONES                                                       Y
+          PRÓXIMOS TRABAJOS
+
+
+
+
+          Según los resultados de este trabajo, Andorra dispone de suficiente
+          recurso hídrico para satisfacer las demandas de agua previstas de los
+          principales sectores destinados a uso humano hasta el año 2050. En
+          ocasiones y localizaciones puntuales, las elevadas demandas en
+          diferentes sectores pueden entrar en competencia y provocar un
+          conflicto de prioridades entre usos, en especial para mantener el uso
+          ecológico del río, es decir, sus funciones ecosistémicas. Estas
+          situaciones apuntan a ser más frecuentes y severas en escenarios
+          futuros de cambio climático y cambio global. En este sentido, es
+          importante remarcar que en el futuro se prevén más habituales los
+          periodos de sequía, pudiéndose acentuar esta problemática. La
+          modelización de periodos de sequía ha quedado fuera del alcance del
+          presente estudio y centrará las investigaciones futuras realizadas en
+          este ámbito.
+
+          El patrón de cambios en la distribución del caudal a lo largo del año
+          en el contexto de cambio global en Andorra es ya conocido y
+          representativo de la cordillera pirenaica y de los Alpes, con un avance
+
+
+
+          86
+                                             Evolución de los usos de los recursos hídricos y posibles
+                                            tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+del deshielo y un aumento de caudal en los meses de invierno seguido
+de una reducción en primavera y verano.
+
+A pesar de que los resultados y aprendizajes aportados en este
+informe se basan en un caso de estudio centrado en el Principado de
+Andorra, estos pueden servir de referencia y ser generalizables a
+otras    zonas   de   los   Pirineos, con    un     contexto      geográfico        y
+socioeconómico parecido.
+
+A continuación, se resumen las principales conclusiones sectoriales
+basadas en los aprendizajes del caso de estudio de Andorra.
+
+POBLACIÓN RESIDENTE Y TURISMO
+
+En algunas zonas pirenaicas como Andorra, se prevé un aumento de
+la población residente que se sumaría al incremento del turismo
+previsto en verano, donde el intervalo de buenas temperaturas se
+extenderá en este periodo y además servirá de refugio para los
+visitantes (turistas) de las zonas llanas y de grandes ciudades que
+evitaran las canículas estivales.
+
+Las medidas adaptativas al cambio global propuestas en base al
+presente caso de estudio se centran en:
+
+•       Reducir las pérdidas en la red de distribución del agua y
+monitorizar todas las captaciones y redes de distribución.
+
+•       Promover una gestión del agua más eficaz en los centros
+turísticos y dar a conocer manuales de buenas prácticas de gestión
+del agua tanto a usuarios como a promotores. Las mismas medidas
+se aplican también al consumo doméstico de agua.
+
+•       Promover una desestacionalización del turismo centrado en el
+mes de agosto hacía meses de baja demanda y disponibilidad de
+recurso favorable.
+
+•       Desplegar tecnologías destinadas a mejorar la eficiencia en la
+producción y la gestión de la nieve, como el monitoreo del uso de
+agua y el seguimiento continuo del espesor del manto nival.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          •       Desarrollo de un sistema de labelling para centros turísticos en
+          los Pirineos ligado a un uso racional y eficiente del agua, y
+          potenciando actividades turísticas, recreativas y de salud con menor
+          consumo de agua.
+
+          AGRICULTURA
+
+          La demanda de agua destinada a agricultura en Andorra se concentra
+          en los meses de verano cuando existe de forma natural el periodo
+          vegetativo. La agricultura y la ganadería extensiva en los Pirineos
+          permiten mantener la biodiversidad de los espacios abiertos, regulan
+          los incendios, producen alimentos de corto recorrido, entre otros
+          beneficios, por lo que es interesante mantener esta actividad y
+          adaptarla al contexto de cambio climático.
+
+          Las medidas adaptativas planteadas a aplicar en Andorra son:
+
+          •       Tecnificación del riego (automatización y seguimiento remoto).
+
+          •       Implantación de sistemas de riego más eficientes.
+
+          •       Elección de especies y variedades vegetales más adaptadas a
+          las nuevas condiciones climáticas.
+
+          PRODUCCIÓN DE ENERGÍA HIDROELÉCTRICA
+
+          Los cambios previstos en el hidrograma en el horizonte 2050 incidirán
+          en la disponibilidad mensual de agua destinada a producción
+          hidroeléctrica. Las opciones de adaptación de la gestión hidroeléctrica
+          dependerán, en gran medida, de la capacidad de acumulación y
+          regulación de los embalses de cada región.
+
+          En el contexto de cambio global se prevé que la mayor reducción de
+          caudal será en verano, siendo el periodo más vulnerable y en el que
+          habrá que destinar mayores recursos para evaluar la afectación a las
+          funciones ecosistémicas de ciertos tramos de río. La disminución del
+
+          88
+                                               Evolución de los usos de los recursos hídricos y posibles
+                                              tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+recurso en verano hace que su gestión sea un desafío en un hipotético
+aumento de la demanda de agua y energía en esta estación
+(agricultura, turismo, climatización, etc.). Cabe añadir que, en
+verano, las temperaturas ambientales llegan a su máximo lo que
+contribuye a empeorar las condiciones ecológicas del agua.
+
+Las regiones pirenaicas con mayor capacidad de almacenamiento de
+agua (lagos o embalses adaptados) tendrán mayor flexibilidad para
+compensar la escasez de agua prevista a finales de verano y
+satisfacer los caudales ambientales. En este contexto, las medidas de
+adaptación propuestas en relación con la producción hidroeléctrica
+son:
+
+•      Optimizar     el       aprovechamiento       hidráulico        mediante       la
+tecnificación de sistemas de control remoto para controlar los
+caudales captados y los caudales ambientales en los tramos objeto
+de aprovechamiento.
+
+•      Disponer de herramientas de estimación de la cobertura de
+nieve a gran escala para la predicción de disponibilidad de agua
+proveniente de la fusión.
+
+•      Evaluar la capacidad real de almacenamiento de agua en cada
+cuenca   pirenaica        y   las   posibilidades   futuras      de    gestión      de
+almacenamiento.
+
+•      Adelantar el llenado de los lagos-embalses para asegurar un
+caudal ambiental apropiado río abajo en verano.
+
+•      Proponer un sistema de caudales ambientales adaptados al
+cambio global a nivel de cordillera pirenaica.
+
+•      Gestionar de forma conjunta el recurso hídrico y el sector
+energético mediante modelos de planificación integrada a escala
+pirenaica.
+
+Paralelamente,     la     diversificación    de     la   producción        eléctrica,
+potenciando otras tecnologías de generación, es una medida
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          fundamental ya que permite disminuir la presión sobre el sistema
+          hídrico e incrementar la resiliencia del sector energético.
+
+          FUNCIONES ECOSISTÉMICAS
+
+          Las funciones ecosistémicas son básicas para asegurar la resiliencia
+          del sistema hidrológico en las zonas de montaña y en especial la
+          calidad del agua y la conservación de la biodiversidad. Los
+          ingredientes de los sistemas riparios y sus funciones ecosistémicas
+          quedan expuestos a fuertes cambios ambientales en el contexto de
+          cambio global. Los caudales ambientales son la primera medida para
+          asegurar un mínimo de estas funciones. Se debe entender el
+          concepto de caudales ambientales como una medida de restauración
+          y no como una restricción a aplicar en los regímenes hidrológicos.
+          Algunas de las medidas adaptativas a considerar en esta línea son:
+
+          •       Estudiar, valorar,    y   desplegar    un sistema de       caudales
+          ambientales que cumpla con la Directiva Marco del Agua 2000/60/CE
+          conservando una calidad aceptable de los sistemas riparios y por
+          consiguiente de sus funciones ecosistémicas. A su vez, el sistema
+          propuesto debe ser compatible con el compromiso de abordar la
+          transición energética en Andorra.
+
+          •       Estudiar, valorar,    y   desplegar    un sistema de       caudales
+          ambientales basado en índices hidrológicos robustos, integrando la
+          variabilidad estacional, las diferentes tipologías de tramos de río y la
+          totalidad de cuencas.
+
+          •       Evaluar las funciones ecosistémicas de los ríos, especialmente
+          en los tramos más vulnerables (tramos aguas abajo de captaciones,
+          con elevado grado de artificialidad del cauce, con índices de
+          biodiversidad      bajos,   con   estructura   poblacional   de   peces no
+          adecuada, etc.), para seguir un sistema de control basado en
+          caudales ambientales, entre otros índices, que garantice sus
+
+
+          90
+                                        Evolución de los usos de los recursos hídricos y posibles
+                                       tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+funciones y la calidad del sistema acuático y, por consiguiente, la
+calidad del agua.
+
+•     Valorar la aplicación de índices holísticos de calidad ecológica
+en tramos de río especialmente vulnerables.
+
+•     Desarrollar planes de restauración de riberas y márgenes de
+los cauces para mejorar las condiciones ecológicas de los tramos de
+río de elevada vulnerabilidad.
+
+•     Promover planes de financiación, incluyendo inversiones
+sustanciales   en   concientización,   educación,        investigación         e
+involucramiento político para asegurar el mantenimiento de las
+funciones ecosistémicas en       paralelo a impulsar la transición
+energética.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          REFERENCIAS
+          Adamovic, M., & Després, J. (2020). Seasonal impacts of climate
+             change            on          electricity        production.
+             https://doi.org/10.2760/879978
+
+          Agencia Catalana de l’Aigua. (2006). Protocol d’avaluació de la
+             qualitat biològica dels riu (BIORI).
+
+          Alcázar, A. P. and J. (2012). The basic flow method for incirporating
+              flow variabulity in environmental flows. River Research and
+              Applications, 28(January), 93–102. https://doi.org/10.1002/rra
+
+          Alcazar Montero, J. (2007). El método del Caudal básico para la
+              determinación de Caudales Mantenimiento Aplicada al Ebro.
+              Tesis.
+
+          Amblar-Francés, M. P., Ramos-Calzado, P., Sanchis-Lladó, J.,
+             Hernanz-Lázaro, A., Peral-García, M. C., Navascués, B.,
+             Dominguez-Alonso, M., Pastor-Saavedra, M. A., & Rodríguez-
+             Camino, E. (2020). High resolution climate change projections for
+             the Pyrenees region. Advances in Science and Research, 17, 191–
+             208. https://doi.org/10.5194/asr-17-191-2020
+
+          Améztegui, A., Brotons, L., & Coll, L. (2010). Land-use changes as
+             major drivers of mountain pine (Pinus uncinata Ram.) expansion
+             in the Pyrenees. Global Ecology and Biogeography, 19(5), 632–
+             641. https://doi.org/10.1111/j.1466-8238.2010.00550.x
+
+          Amin, A., Iqbal, J., Asghar, A., & Ribbe, L. (2018). Analysis of current
+             and futurewater demands in the Upper Indus Basin under IPCC
+             climate and socio-economic scenarios using a hydro-economic
+             WEAP          Model.        Water         (Switzerland),       10(5).
+             https://doi.org/10.3390/w10050537
+
+          Angarita, H., Wickel, A. J., Sieber, J., Chavarro, J., Maldonado-
+             Ocampo, J. A., Herrera-R, G. A., Delgado, J., & Purkey, D.
+             (2018). Basin-scale impacts of hydropower development on the
+             Mompós Depression wetlands, Colombia. Hydrology and Earth
+             System           Sciences,          22(5),          2839–2865.
+             https://doi.org/10.5194/hess-22-2839-2018
+
+
+          92
+                                          Evolución de los usos de los recursos hídricos y posibles
+                                         tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Arnett, J. L. (1976). Methodologies for the determination of stream
+   resource flow requirements: an assessment.
+
+Barceló Pons, B. (1995). Geografia Universal - Andorra. Balears.
+    Catalunya. País Valencià. (Primera ed). Editorial 92.
+
+Batalla, M., Ninyerola, M., Trapero, L., & Esteban, P. (2016). ACDA:
+    Atles climàtic digital d’Andorra (període 1981-2010). Servidor de
+    mapes. Institut d’Estudis Andorrans (IEA), Universitat Autònoma
+    de Barcelona (UAB). http://www.acda.ad
+
+Batalla, Meritxell, Esteban, P., & Ninyerola, M. (2016). L’Atles climàtic
+    digital d’Andorra (ACDA). Revista Del CENMA, 6–21.
+
+Beniston, M. (2003). Climatic Change in Mountain Regions: A Review
+   of    Possible   Impacts.    Climatic   Change,    59,    5–31.
+   https://doi.org/10.1007/978-94-015-1252-7_2
+
+Beniston, M. (2012). Impacts of climatic change on water and
+   associated economic activities in the Swiss Alps. Journal of
+   Hydrology,                  412–413,               291–296.
+   https://doi.org/10.1016/j.jhydrol.2010.06.046
+
+Birsan, M. V., Molnar, P., Burlando, P., & Pfaundler, M. (2005).
+    Streamflow trends in Switzerland. Journal of Hydrology, 314(1–
+    4), 312–329. https://doi.org/10.1016/j.jhydrol.2005.06.008
+
+BOPA. (2005). Reglament de protecció dels hàbitats aquàtics (pp.
+   792–800).
+
+BOPA. (2018). Llei 21/2018, del 13 de setembre, d’impuls de la
+   transició energètica i del canvi climàtic (Litecc) (pp. 1–33).
+
+Brunner, M. I., Björnsen Gurung, A., Zappa, M., Zekollari, H.,
+   Farinotti, D., & Stähli, M. (2019). Present and future water
+   scarcity in Switzerland: Potential for alleviation through
+   reservoirs and lakes. Science of the Total Environment, 666,
+   1033–1047. https://doi.org/10.1016/j.scitotenv.2019.02.169
+
+CENMA-IEA.   (2012).    Sistema     d’Informació    Geogràfica   i
+   Mediambiental        d’Andorra.         Cartografia        SIG.
+   https://www.iea.ad/cartografia/cartografia-sig
+
+Cognard, J., & François, H. (2019). Review of ski resort operating
+   costs and market analysis (PROSNOW project).
+
+CTFC, C. de C. i T. F. de C. (2021). Catalunya, un país de boscos:
+   indicadors. Observatori Forestal Català.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Dep. de Geografia de la UAB. (2009). Mapa de Cobertes i Usos del
+             Sòl de Catalunya. https://www.creaf.uab.es/mcsc/
+
+          Diaz, H. F., Eischeid, J. K., Duncan, C., & Bradley, R. S. (2003).
+              Variability of Freezing Levels, Melting Season Indicators, and
+              Snow Cover for Selected High-Elevation and Continental Regions
+              in the Last 50 Years. Climatic Change, 59(1/2), 33–52.
+              https://doi.org/10.1023/A:1024460010140
+
+          Durán, J., & Salamanca, S. (2008). Impacto del cambio climático
+             sobre la producción agrícola española: ETP y necesiadades
+             hídricas de los cultivos.
+
+          En, C., Cuenca, L. A., Río, D. E. L., Almería, A., Halifa-marín, A.,
+              Torres-vázquez, M. Á., & Pérez-, P. (2019). Departamento de
+              Geografía. Universidad de Murcia. 2 Grupo de Conservación de
+              Suelos y Agua. Centro de Edafología y Biología Aplicada del
+              Segura (CEBAS-CSIC). Actas EAC, 979–986.
+
+          Esteban, P., Jones, P. D., Martín-Vide, J., & Mases, M. (2005).
+              Atmospheric circulation patterns related to heavy snowfall days
+              in Andorra, Pyrenees. International Journal of Climatology, 25(3),
+              319–329. https://doi.org/10.1002/joc.1103
+
+          Esteban Vea, P., Prohom Duran, M., & Aguilar, E. (2012). Tendencias
+              recientes e índices de cambio climático de la temperatura y la
+              precipitación en Andorra, Pirineos (1935-2008). Pirineos, 167(0),
+              87–106. https://doi.org/10.3989/Pirineos.2012.167005
+
+          Etapa, T. N. (2006). La fórmula de Penman-Monteith FAO 1998 para
+              determinar la evapotranspiración de referencia, ETo. Terra Nueva
+              Etapa, XXII(31), 31–72.
+
+          Gallego, J.J; Barbarossa, R.A; Murray, F y Miñón, D. . (2010). Raigrás
+              anual bajo riego. Forrajes y Pastizales. Sitio Argentino de
+              Producción      Animal,     21–24.      https://www.produccion-
+              animal.com.ar/produccion_y_manejo_pasturas/pasturas_cultiva
+              das_verdeos_invierno/74-raigrass.pdf
+
+          García-Ruiz, J. M., López-Moreno, J. I., Vicente-Serrano, S. M.,
+             Lasanta–Martínez, T., & Beguería, S. (2011). Mediterranean
+             water resources in a global change scenario. Earth-Science
+             Reviews,                  105(3–4),                 121–139.
+             https://doi.org/10.1016/J.EARSCIREV.2011.01.006
+
+          94
+                                           Evolución de los usos de los recursos hídricos y posibles
+                                          tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Gerbaux, M., Spandre, P., François, H., George, E., & Morin, S.
+   (2020). Fiabilité de l’enneigement et disponibilité des ressources
+   en eau pour la production de neige dans les domaines skiables
+   du Département de l’Isère (France), en conditions climatiques
+   actuelles et futures. Revue de Géographie Alpine, 108–1, 0–20.
+   https://doi.org/10.4000/rga.6724
+
+Giorgi, F., & Lionello, P. (2008). Climate change projections for the
+    Mediterranean region. Global and Planetary Change, 63(2–3),
+    90–104. https://doi.org/10.1016/j.gloplacha.2007.09.005
+
+Govern d’Andorra. (2007). Les aigües subterrànies del Principat
+   d’Andorra.
+   https://www.mediambient.ad/images/stories/PDF/aigua/Cap1-
+   Meteorologia-balanc-hidric.pdf
+
+Govern d’Andorra. (2012). Llibre Blanc de l’Energia d’Andorra.
+   http://www.energia.ad/images/stories/portada/LlibreBlanc_201
+   2.pdf
+
+Govern d’Andorra. (2014). Procés d’adaptació d’Andorra al canvi
+   climàtic (PAACC).
+
+Govern d’Andorra. (2016). Estratègia nacional de la biodiversitat
+   d’andorra (ENBA). https://www.mediambient.ad/biodiversitat
+
+Govern d’Andorra. (2018a). Llei 21/2018, del 13 de setembre,
+   d’impuls de la transició energètica i del canvi climàtic (Litecc) (pp.
+   1–33).
+
+Govern d’Andorra. (2018b).          Pla    sectorial       d’infraestructures
+   energètiques d’Andorra.
+
+Govern d’Andorra. (2018c).          Pla    sectorial       d’infraestructures
+   energètiques d’Andorra.
+
+Govern d’Andorra. (2019). Ministeri de Medi Ambient i Sostenibilitat.
+   Aigua - El recurs. https://www.mediambient.ad/el-recurs
+
+Govern d’Andorra. (2020a). Departament d’Estadística. Demografia i
+   població.
+   https://www.estadistica.ad/serveiestudis/web/index.asp
+
+Govern d’Andorra. (2020b). Estudi per a l’elaboració anyal del balanç
+   hídric    del      Principat     d’Andorra.        Any       2019.
+   https://www.mediambient.ad/el-recurs
+
+Govern d’Andorra. (2021a). Estudi per a l’elaboració anyal de
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+               l’inventari i quantificació de la despesa hídrica per usos del
+               Principat d’Andorra. Any 2019.
+
+          Govern d’Andorra. (2021b). Projecte de llei d’economia circular (LEC)
+             -                        (BCG                           76/2021).
+             http://www.consellgeneral.ad/aplics/Butlleti_Consell.NSF/d358b
+             6a33e7b878f412566c100390c61/e2b7406d2b60691fc1256ba30
+             024bdaf/$FILE/but23-2002.doc
+
+          Höllermann, B., Giertz, S., & Diekkrüger, B. (2010). Benin 2025—
+              Balancing Future Water Availability and Demand Using the WEAP
+              ‘Water Evaluation and Planning’ System. Water Resources
+              Management,                 24(13),                3591–3613.
+              https://doi.org/10.1007/s11269-010-9622-z
+
+          Ignacio, J., & Moreno, L. (2014). Impact of climate and land use
+              change on water availability and reservoir management:
+              Scenarios in the Upper Aragón River, Spanish Pyrenees. Science
+              of The Total Environment, Volume 493, Pages 1222-1231.
+
+          Kassam, D. and. (1979). Irrigation and Agricultural Development (S.
+             Johl             (ed.);                Irak              Perga).
+             https://books.google.ad/books?hl=ca&lr=&id=dAfLBAAAQBAJ&o
+             i=fnd&pg=PA257&dq=Doorenbos+and+Kassam,+1979+pdf&ot
+             s=nRnq4CyQH-
+             &sig=XTt0bz1ywP0mabOnRG7FOhWZiu4&redir_esc=y#v=onep
+             age&q&f=false
+
+          Keith, D. M., Johnson, E. A., & Valeo, C. (2010). A hillslope forest
+              floor (duff) water budget and the transition to local control.
+              Hydrological        Processes,      24(19),         2738–2751.
+              https://doi.org/10.1002/hyp.7697
+
+          Lespinas, F., Ludwig, W., & Heussner, S. (2010). Impact of recent
+              climate change on the hydrology of coastal mediterranean rivers
+              in Southern France. Climatic Change, 99(3–4), 425–456.
+              https://doi.org/10.1007/s10584-009-9668-1
+
+          Lewis, V. (2006). The Wild Trout Survival Guide: Habitat and Fishery
+             Management Guidelines (The Wild Trout (ed.)).
+
+          Liuzzo, L., Noto, L. V., Vivoni, E. R., & La Loggia, G. (2010). Basin-
+              Scale Water Resources Assessment in Oklahoma under Synthetic
+              Climate Change Scenarios Using a Fully Distributed Hydrologic
+
+          96
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+    Model. Journal of Hydrologic Engineering, 15(2), 107–122.
+    https://doi.org/10.1061/(asce)he.1943-5584.0000166
+
+López-Moreno, J. I., Beniston, M., & García-Ruiz, J. M. (2008).
+   Environmental change and water management in the Pyrenees:
+   Facts and future perspectives for Mediterranean mountains.
+   Global    and    Planetary    Change,    61(3–4),  300–312.
+   https://doi.org/10.1016/j.gloplacha.2007.10.004
+
+López-Moreno, J. I., Revuelto, J., Gilaberte, M., Morán-Tejeda, E.,
+   Pons, M., Jover, E., Esteban, P., García, C., & Pomeroy, J. W.
+   (2013). The effect of slope aspect on the response of snowpack
+   to climate warming in the Pyrenees. Theoretical and Applied
+   Climatology, 117(1), 207–219. https://doi.org/10.1007/s00704-
+   013-0991-0
+
+López-Moreno, J. I., Vicente-Serrano, S. M., Zabalza, J., Beguería,
+   S., Lorenzo-Lacruz, J., Azorin-Molina, C., & Morán-Tejeda, E.
+   (2013). Hydrological response to climate variability at different
+   time scales: A study in the Ebro basin. Journal of Hydrology, 477,
+   175–188. https://doi.org/10.1016/j.jhydrol.2012.11.028
+
+López-Moreno, J. Ignacio, Beguería, S., & García-Ruiz, J. M. (2006).
+   Trends in high flows in the central Spanish Pyrenees: Response
+   to climatic factors or to land-use change? Hydrological Sciences
+   Journal,                     51(6),                  1039–1050.
+   https://doi.org/10.1623/hysj.51.6.1039
+
+Lorenzo-Lacruz, J., Vicente-Serrano, S. M., López-Moreno, J. I.,
+    Morán-Tejeda, E., & Zabalza, J. (2012). Recent trends in Iberian
+    streamflows (1945-2005). Journal of Hydrology, 414–415, 463–
+    475. https://doi.org/10.1016/j.jhydrol.2011.11.023
+
+Luxembourg: Office for Official Publications of the European
+   Communities, 2009 (Ed.). (2009). MEDSTAT II: ‘Water and
+   Tourism’        pilot     study     2009       (EUROMED).
+   https://doi.org/10.2785/19709
+
+Maw, B. W., Stansell, J. R., & Mullinix, B. G. (2009). Soil-Plant-Water
+   Relationships for Flue-Cured Tobacco. March.
+
+Miquel, C. (2012). Étude préliminaire sur les changements
+   climatiques dans le massif des Pyrénées : caractérisation et effets
+   prévisibles sur la ressource en eau.
+
+Moriasi, D. N., Arnold, J. G., Liew, M. W. Van, Bingner, R. L., Harmel,
+    R. D., & Veith, T. L. (2007). Model Evaluation Guidelines for
+    Systematic Quantification of Accuracy in Watershed Simulations.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+               American Society of Agricultural and Biological Engineers, 50(3),
+               885–900.
+
+          Ninyerola, M., Pons, X., & Roure, J. M. (2000). A methodological
+              approach of climatological modelling of air temperature and
+              precipitation through GIS techniques. International Journal of
+              Climatology, 20(14), 1823–1841. https://doi.org/10.1002/1097-
+              0088(20001130)20:14<1823::AID-JOC566>3.0.CO;2-B
+
+          Nogués-Bravo, D., Araújo, M. B., Errea, M. P., & Martínez-Rica, J. P.
+             (2007). Exposure of global mountain systems to climate warming
+             during the 21st Century. Global Environmental Change, 17(3–4),
+             420–428. https://doi.org/10.1016/j.gloenvcha.2006.11.007
+
+          OECC. (2021). Estratègia energètica nacional i de lluita contra el
+             canvi                   climàtic                    2020-2050.
+             https://www.bopa.ad/bopa/033019/Documents/Memòria_GD20
+             210204_16_16_19.pdf
+
+          OMA. (2019). Clima - Tendències. http://www.oma.ad/ca/tendencies
+
+          OPCC-CTP. (2018). El cambio climático en los Pirineos: impactos,
+             vulnerabilidades y adaptación.
+
+          Palazón, L., Antigüedad, I., Barella-Ortiz, A., Caballero, Y., Cakir, R.,
+              Forey, I., Grusson, Y., Hakoun, V., Hévin, G., Jódar, J., Jung, M.,
+              Lambán, L. J., Lanini, S., Le Coent, P., Le Cointe, P., Llasat, M.
+              del C., Llasat, M., Pardo, E., Quintana-Seguí, P., … Beguería, S.
+              (2022). Water cycle and water resources of the Pyrenees under
+              climate change: the PIRAGUA datasets. European Geosciences
+              Union              General              Assembly              2022.
+              https://meetingorganizer.copernicus.org/EGU22/EGU22-
+              7825.html
+
+          Pesado, C. (2021). La sostenibilitat de l’aigua a Andorra: efectes a
+             llarg termini del canvi climàtic i socioeconòmic en el recurs hídric.
+             https://www.tdx.cat/handle/10803/672544#page=1
+
+          Pons, M., López-Moreno, J., Revuelto, J., Alonso, E., Vilella, M.,
+             Travesset-Baro, O., Apodaka, J., Pesado, C., Margalef, M., &
+             Iravani, P. (2018). Remote sensing techniques for helping
+             decision-making in the management of ski areas. International
+             Snow Science Workshop 2018, 548–552.
+
+
+          98
+                                         Evolución de los usos de los recursos hídricos y posibles
+                                        tensiones bajo escenarios de cambio climático en Andorra
+
+
+
+
+Pons, M., López Moreno, J. I., Esteban Vea, P., Macià, S., Gavaldà,
+   J., García Olalia, C., Rosas Casals, M., & Jover, E. (2014). Climate
+   change influence on winter tourism in the Pyrenees. Experience
+   from      the      NIVOPYR.      Pirineos,     169(169),       1–12.
+   https://doi.org/doi:
+   http://dx.doi.org/10.3989/Pirineos.2014.169006
+
+Quintana-seguí, P., Caballero, Y., Cakir, R., Clavera, R., Dewandel,
+   B., Grousson, Y., Hevin, G., Jódar, J., Lambán, L. J., Lanini, S.,
+   Le, P., Llasat, C., Sauvage, S., Sánchez-pérez, J. M., & Palazón,
+   L. (2022). Estimation of the future water balance and water
+   resources of the Pyrenees. 4–5.
+
+Recaño, J. (2021). Projecció de la població d’andorra, 2021-2031.
+
+Stockholm Environment Institute. (2016). WEAP- TUTORIAL Water
+    Evaluation And Planning System. Weap, August, 286.
+
+Tennant, D. L. (1976). Instream Flow Regimens for Fish, Wildlife,
+   Recreation and Related Environmental Resources. Fisheries,
+   1(4),           6–10.           https://doi.org/10.1577/1548-
+   8446(1976)001<0006:ifrffw>2.0.co;2
+
+Van Vliet, M. T. H., Sheffield, J., Wiberg, D., & Wood, E. F. (2016).
+   Impacts of recent drought and warm years on water resources
+   and electricity supply worldwide. Environmental Research
+   Letters,          11(12).           https://doi.org/10.1088/1748-
+   9326/11/12/124021
+
+Velychko, S., & Dupliak, O. (2021). Estimation of the Ecological Flow
+    of Mountain River in Ukrainian Carpathians for Small Hydropower
+    Projects. Lecture Notes in Civil Engineering, 100 LNCE, 490–498.
+    https://doi.org/10.1007/978-3-030-57340-9_60
+
+Vicuña, S., Garreaud, R. D., & McPhee, J. (2011). Climate change
+    impacts on the hydrology of a snowmelt driven basin in semiarid
+    Chile.      Climatic    Change,      105(3–4),        469–488.
+    https://doi.org/10.1007/s10584-010-9888-4
+
+Viviroli, D., Weingartner, R., & Messerli, B. (2003). Assessing the
+    Hydrological Significance of the World’s Mountains. Mountain
+    Research        and      Development,        23(1),      32–40.
+    https://doi.org/10.1659/0276-
+    4741(2003)023[0032:athsot]2.0.co;2
+
+VVAA FAO. (2008). Sistemas de Riego. Factores que se deben
+   considerar para seleccionar el sistema de riego mas adecuado.
+   Sistemas de Riego, 148, 29–37.
+EFA210/PIRAGUA – Entregable 4.7
+
+
+
+
+          Wilson, D., Hisdal, H., & Lawrence, D. (2010). Has streamflow
+              changed in the Nordic countries? - Recent trends and
+              comparisons to hydrological projections. Journal of Hydrology,
+              394(3–4),                                            334–346.
+              https://doi.org/10.1016/j.jhydrol.2010.09.010
+
+          Yates, D., Sieber, J., Purkey, D., & Huber-Lee, A. (2005). WEAP21 -
+              A demand-, priority-, and preference-driven water planning
+              model. Part 1: Model characteristics. Water International, 30(4),
+              487–500. https://doi.org/10.1080/02508060508691893
+
+          Zabaleta, A., Haro-monteagudo, D., Antiguedad, I., & Beguería, S.
+             (2022). Past hydrological trends on the Pyrenees : towards a
+             higher spatial heterogeneity. 10370.
+
+
+
+
+          100
+
