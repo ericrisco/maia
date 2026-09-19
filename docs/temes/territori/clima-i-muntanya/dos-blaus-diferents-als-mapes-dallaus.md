@@ -82,10 +82,10 @@ preguntes diferents.
 
 ## Buits registrats
 
-- Primera lectura documental d'Arinsal feta: text complet del
-  sector14, p.90–136. S'han vist alguns mapes i fotografies, però
-  no totes les imatges ni croquis. No s'han georeferenciat capes,
-  mesurat superfícies o assignat parcel·les.
+- ~~Primera lectura documental d'Arinsal feta~~ — **`parcial` el 19-09-2026**:
+  text complet del sector14, p.90–136. S'han vist alguns mapes i fotografies,
+  però no totes les imatges ni croquis. No s'han georeferenciat capes, mesurat
+  superfícies o assignat parcel·les.
 - La lectura no cobreix els quinze sectors ni un inventari nacional
   complet. P.1–12 de l'annex només permeten iniciar Soldeu i Incles;
   les seves imatges no s'han inspeccionat.
