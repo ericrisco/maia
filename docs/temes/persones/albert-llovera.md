@@ -115,9 +115,13 @@ Martí**.
 
 ## El que falta
 
-- **Si va competir mai als Jocs Paralímpics.** Andorra hi va des del 2002
-  només en esquí alpí ([els altres Jocs](../esports/competicio/els-altres-jocs.md)),
-  i **el seu nom no hi surt**. **El corpus no ho afirma ni ho nega.**
+- ~~**Si va competir mai als Jocs Paralímpics.**~~ — **`parcial` el
+  22-09-2026**: la taula de [els altres Jocs](../esports/competicio/els-altres-jocs.md)
+  enumera les delegacions andorranes de **Salt Lake City 2002, Torí 2006,
+  Vancouver 2010, Sotxi 2014, PyeongChang 2018, Pequín 2022 i Londres 2012**;
+  **Albert Llovera no hi apareix**. **Això documenta l'absència en el registre
+  consultat**, però no permet afirmar que mai hi competís sense el registre
+  federatiu complet de la FADEA.
 - **La seva trajectòria d'esquiador abans del 1984.**
 - ~~**El documental i el llibre**, que són **fonts andorranes de primera persona**
   i el corpus no els té. **Buit prioritari**: *No limits* és **una autobiografia
