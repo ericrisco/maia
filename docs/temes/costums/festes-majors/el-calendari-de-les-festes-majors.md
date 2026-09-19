@@ -81,7 +81,11 @@ ritu de pas.**
   2026-09-19**: la taula de dates ja conté **les set parròquies**. **El que
   continua obert són les divergències de dates** entre les fonts per a Canillo,
   Sant Julià i Ordino, no l'existència de les festes.
-- **Una fitxa per festa major**, amb el seu programa i els seus actes propis.
+- ~~**Una fitxa per festa major**, amb el seu programa i els seus actes propis.~~ —
+  **`parcial`, actualitzat el 2026-09-19**: la taula ja documenta les dates de
+  les set festes, i la de Sant Julià enllaça **La Passa**, el **ball del Cerdà**
+  i el **ball de la Marratxa** com a actes propis; continua pendent una fitxa
+  completa de programa per a cada parròquia.
 - Els **sants patrons** de cada parròquia, que són qui fixa la data.
 - ~~Els **esbarts** del país — l'Esbart Laurèdia n'és un i el corpus no té la
   llista.~~ — **`parcial` el 2026-09-19**: [la fitxa de
