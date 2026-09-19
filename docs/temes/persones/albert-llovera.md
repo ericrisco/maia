@@ -119,9 +119,13 @@ Martí**.
   només en esquí alpí ([els altres Jocs](../esports/competicio/els-altres-jocs.md)),
   i **el seu nom no hi surt**. **El corpus no ho afirma ni ho nega.**
 - **La seva trajectòria d'esquiador abans del 1984.**
-- **El documental i el llibre**, que són **fonts andorranes de primera persona**
+- ~~**El documental i el llibre**, que són **fonts andorranes de primera persona**
   i el corpus no els té. **Buit prioritari**: *No limits* és **una autobiografia
-  esportiva andorrana**.
+  esportiva andorrana**.~~ — **`parcial` el 19-09-2026**: la fitxa ja identifica
+  ***Les ales del fènix*** (**2005**, dirigit per **José María Borrell**) i
+  ***No limits*** (**2011**, amb **Jordi Cantavella**), però el corpus encara
+  no n'ha consultat el contingut ni ha incorporat cap testimoni de primera
+  persona.
 - ~~**Si segueix competint.**~~ — **`parcial` el 18-09-2026**: **sí, fins al
   2024 com a mínim.** **Canvia de cotxe a camió el 2016** —abans del que la
   font original donava a entendre—, corre amb **Team de Rooy fins al 2020**
