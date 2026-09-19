@@ -104,7 +104,11 @@ Moçambic per 4-3.**
   [Melissandre Fuentes](../altres-esports/melissandre-fuentes.md) i
   [Marc Casal](../altres-esports/marc-casal.md)** amb seccions diferents,
   o si el COA hi etiqueta malament una federació multidisciplinària.
-- **Què va passar del 2010 al 2018.**
+- ~~**Què va passar del 2010 al 2018.**~~ **[parcial · 2026-09-19]** La
+  fitxa ja documenta que el **2010** Andorra va renunciar al Mundial B per
+  **qüestions econòmiques**, després del descens del Mundial A del 2009, i que
+  no hi va tornar fins al **2019**. Encara falta el detall de cada any
+  intermedi.
 - **Si hi ha lliga andorrana d'hoquei patins.**
 
 ## Related
