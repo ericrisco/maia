@@ -87,9 +87,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   [Ludovic](./ludovic-albos.md) i Joan Albós Cavaliere són esquiadors de
   muntanya de competició.** **Tres germans, tres esports de resistència, una
   sola casa.**
-- **L'Agrupació Ciclista Andorrana**: què és, quan es crea, qui hi corre.
+- ~~**L'Agrupació Ciclista Andorrana**: què és, quan es crea, qui hi corre.
   **Buit registrat: és el primer equip nacional d'Andorra de cap esport que el
-  corpus pot anomenar fora del futbol i del bàsquet.**
+  corpus pot anomenar fora del futbol i del bàsquet.**~~ — **`parcial` el
+  19-09-2026**: el cos de la fitxa ja la identifica com a **equip nacional** i
+  documenta que David Albós hi va competir **del 2008 al 2017**. **Queden oberts
+  l'any de fundació i l'inventari de corredors.**
 - ~~**El ciclisme andorrà sencer**, que ara ja té tres noms:
   [Emili Pérez](../estiu/emili-perez.md),
   [Xavier Pérez](../estiu/xavier-perez.md) i ell.~~ **`parcial`:** el
