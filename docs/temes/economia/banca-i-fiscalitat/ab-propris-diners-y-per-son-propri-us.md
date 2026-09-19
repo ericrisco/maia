@@ -218,8 +218,12 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    **El que sí que dona la p. XLV** és el final de la peça XXIV, un **augment de
    preu de vint-i-cinc lliures i sis diners** sobre una venda anterior, **amb la
    fórmula «los vench de nou»** i el notari **Ignasi Soldevila**.
-6. **Com acaba la frase sobre l'ordre lògic i cronològic** a la p. 210, nota 1:
-   **el corpus n'ha llegit el principi i l'exemple i no el desenllaç.**
+6. ~~**Com acaba la frase sobre l'ordre lògic i cronològic** a la p. 210, nota 1:
+   **el corpus n'ha llegit el principi i l'exemple i no el desenllaç.**~~ —
+   **`parcial` el 19-09-2026**: el cos de la fitxa ja conserva el principi
+   textual —ordre lògic, no cronològic—, l’exemple de 1890–1892 i la regla que
+   el retracte derivat precedeix el més recent; només falta el final literal de
+   la nota impresa.
 7. **Quantes vendes portaven la clàusula «*ab propris diners*»**, i **si era pacte
    d'estil o excepció.**
 8. **Si un rescat fet amb diners manllevats es va arribar a anul·lar mai.**
