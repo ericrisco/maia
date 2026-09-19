@@ -348,9 +348,11 @@ no existeixi.
 3. **`gojos`** (×3, netes) hauria de ser **goigs**. Pot ser grafia de la màquina
    i pot ser pronúncia. **Sense resoldre**, i el corpus només té *goigs* una
    vegada.
-4. **L'estadística que dona** —17 sants, 5 santes, 15 carrers dedicats a dones—
+4. ~~**L'estadística que dona** —17 sants, 5 santes, 15 carrers dedicats a dones—
    **no s'ha contrastat amb cap nomenclàtor**. Amb aquesta transcripció,
-   **cap xifra no s'ha de citar.**
+   **cap xifra no s'ha de citar.**~~ — **`no-es-buit` el 19-09-2026**: és el
+   mateix avís d'ús de la transcripció que els punts 2 i 6; no valida ni demana
+   citar aquest recompte.
 5. **De la persona no consta res**, ni tan sols la parròquia; només que **l'àvia
    era laurediana**.
 6. **Cinc parlants no són una mostra dialectal.** Que *padrí* domini aquí no vol
