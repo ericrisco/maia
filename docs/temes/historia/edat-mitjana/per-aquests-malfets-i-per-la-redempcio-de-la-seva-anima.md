@@ -259,11 +259,11 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    datació**: **«anno ab incarnacione» no compta l'any com el comptem avui**, i
    **el corpus no té cap taula de conversió verificada.** `Registrat. La data
    d'aquesta fitxa és la de l'editor.`
-3. **Qui era «Pere, bisbe d'Urgell».** **El document diu «Petrus» i prou.** **El
-   corpus el té com a *Pere Berenguer* per dues fonts secundàries**
-   ([la donació del 988](../origens/la-donacio-de-988.md)), i **l'episcopologi que
-   té arriba fins al 1122** ([els bisbes d'Urgell](./els-bisbes-durgell.md)).
-   **El nom compost no és al document.**
+3. ~~**Qui era «Pere, bisbe d'Urgell».**~~ — **`parcial` el 2026-09-19**: el
+   document diu «Petrus» i prou, però dues fonts secundàries el donen com a
+   **Pere Berenguer** ([la donació del 988](../origens/la-donacio-de-988.md);
+   [els bisbes d'Urgell](./els-bisbes-durgell.md)). **El nom compost no és al
+   document i la identificació directa del bisbe continua oberta.**
 4. **On era el monestir de Sant Serni** que fixa el límit, i **si «ad amont»
    coincideix amb alguna frontera posterior.** **Prioritari**: **és l'única
    descripció territorial que aquest acte dona.**

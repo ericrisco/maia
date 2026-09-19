@@ -265,7 +265,8 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    i **no serveix per a cap argument que depengui d'una paraula.**
 2. **Quants articles té el Pariatge**: **onze segons una font del corpus, tretze
    segons aquesta.** **Divergència oberta.**
-3. **La butlla de confirmació pontifícia**, **i la seva data.** **Prioritari.**
+3. ~~**La butlla de confirmació pontifícia**, **i la seva data.**~~ — **`parcial`
+   el 2026-09-19**: el [catàleg local de documents d'Andorra](../../../raw/web/historia/catalog-bnf-documents-andorra.txt) identifica la butlla de Martí IV com a **7 d'octubre de 1282, a Montefiascone**, a **BNF, col. Baluze 81, f. 369r-v**, amb còpia a **BNF, col. Doat 162, f. 50r-51v**. **El manuscrit i el text íntegre encara no són al corpus.**
 4. **Si es va pagar la pena de 50.000 sous de Melgueil**, o **si hi va haver
    vacant pontifícia que aturés el termini de quatre anys.** **Nou.**
 5. **Què valia el sou de Melgueil el 1278**, per poder dir què eren 4.000 i
