@@ -144,7 +144,11 @@ trajecte; **el que digui dels costums s'ha de contrastar**.
    i anys, però adverteix que la relació exhaustiva continua oberta.
 3. **Què hi deien dels costums** i del menjar, literalment.
 4. **Quines fondes** recomanaven, per parròquia.
-5. **Quan apareix Andorra** per primera vegada en una guia turística.
+5. ~~**Quan apareix Andorra** per primera vegada en una guia turística.~~ —
+   **`parcial` el 19-09-2026**: el corpus ja ha identificat una **Guide Bleu dels
+   Pirineus de 1925** i una altra de **1943**, totes dues amb capítol andorrà,
+   i la col·lecció *Guide Joanne* hi és catalogada. **No permeten afirmar que
+   siguin la primera guia que va incloure Andorra**, que continua obert.
 6. Si hi ha **guies espanyoles** equivalents.
 
 ## Related
