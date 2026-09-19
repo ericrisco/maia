@@ -55,6 +55,20 @@ deia «col·laboracionisme amb Vichy»; els anys daurats deien «col·laboració
 el franquisme»; aquesta font diu «col·laboració amb el règim de Hitler».**
 **Tres acusacions diferents per al mateix home.** **Registrades totes tres.**
 
+La recerca institucional del Govern concreta el dossier francès obert després
+de l'Alliberament: a Trémoulet, Laffont i Puiggros se'ls va imputar
+**intel·ligència amb l'enemic i espionatge**, amb acusacions d'haver perjudicat
+la defensa nacional, difós programes favorables a l'enemic, tret material
+radioelèctric de França i mantingut relacions amb els serveis d'espionatge
+alemanys. La mateixa font situa l'absolució de Trémoulet a la **Cort de Tolosa,
+l'1 d'abril de 1949**. ([fonts locals](../../../../raw/web/cultura/radio-andorra/README.md))
+
+La mateixa documentació descriu també el vincle espanyol: establert a Madrid,
+Trémoulet va treballar estretament amb l'administració franquista i **Ramón
+Serrano Suñer**, i va oferir Radio Andorra gratuïtament a l'Estat espanyol com a
+maniobra per protegir-ne la continuïtat davant la pressió francesa. El detall
+dels contractes i del dossier judicial original encara no forma part del corpus.
+
 ## El que falta
 
 - ~~**Si el museu va obrir el 2015.**~~ — **`parcial` el 19-09-2026**: una
@@ -64,8 +78,17 @@ el franquisme»; aquesta font diu «col·laboració amb el règim de Hitler».**
   s'obri a tots els públics** ([fitxa de font](../../../../fonts/govern-museu-radio-2024.md)).
   Això indica que **no consta obert el 2015**; la implementació posterior i
   l'obertura efectiva segueixen sense confirmar-se.
-- **Els acords amb el govern de Franco.**
-- **Quina era, realment, l'acusació contra Tramoulet.**
+- ~~**Els acords amb el govern de Franco.**~~ — **`parcial`, confirmat el
+  2026-09-19**: la font institucional situa Trémoulet a Madrid en col·laboració
+  amb l'administració franquista i Serrano Suñer, i descriu la cessió gratuïta de
+  Radio Andorra a l'Estat espanyol com una maniobra per protegir l'emissora.
+  **El text íntegre dels acords encara no consta.**
+- ~~**Quina era, realment, l'acusació contra Tramoulet.**~~ — **`parcial`,
+  confirmat el 2026-09-19**: el dossier francès l'acusava d'**intel·ligència amb
+  l'enemic i espionatge**, de perjudicar la defensa nacional, difondre programes
+  favorables a l'enemic, treure material radioelèctric de França i relacionar-se
+  amb els serveis d'espionatge alemanys; va ser absolt a Tolosa l'1 d'abril de
+  1949. **El dossier i la sentència originals encara no s'han llegit.**
 
 ## Related
 
