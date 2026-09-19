@@ -165,11 +165,13 @@ el bolcat no diu és si hi ha competició andorrana pròpia.**
 - ~~**Si hi ha lliga de futbol sala al país.**~~ — **`parcial`**: **tres clubs
   andorrans hi posen internacionals** —ENFAF CM Andorra, FC Rànger's i FC
   Encamp— **i el bolcat no anomena cap competició andorrana.**
-- **Si [Joaquim Besora](../futbol/joaquim-besora.md) va ser internacional de
-  futbol sala.** — **`obert`, i ara amb un negatiu acotat**: **no és a la
-  convocatòria del 2026 ni als convocats dels últims dotze mesos**, que és
-  l'únic llistat de jugadors que el bolcat porta. **No diu res dels anys
-  anteriors.**
+- ~~**Si [Joaquim Besora](../futbol/joaquim-besora.md) va ser internacional de
+  futbol sala.**~~ — **`parcial` el 19-09-2026**: el wikitext local de la seva
+  fitxa el descriu com a **former futsal player** i el classifica com a
+  futbolista andorrà de sala; el mateix bolcat només li dona una
+  internacionalitat amb la selecció de **futbol** (2011), i no l'inclou en cap
+  selecció nacional de sala. **Queda oberta la prova d'una convocatòria o partit
+  internacional de futbol sala.**
 - **Els màxims internacionals i els màxims golejadors històrics.** **El bolcat
   deixa els dos camps buits.**
 - ~~**L'ENFAF CM Andorra**, que **posa sis dels catorze convocats** i **no té
