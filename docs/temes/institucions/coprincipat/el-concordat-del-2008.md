@@ -388,7 +388,11 @@ Diari **pendents de determinar**; **no entra en cap dataset**.`
   **l'ordenament andorrà els la reconeix**, en comptes de conferir-la. **No és
   una autorització, és un reconeixement**, i **per això calia un tractat que en
   digués l'abast.**
-- **Els articles 3 i 4** de la Constitució, literals.
+- ~~**Els articles 3 i 4** de la Constitució, literals.~~ — **`resolt` el
+  19-09-2026** com a duplicat: la mateixa fitxa ja en conserva el contingut
+  literal unes línies més amunt —sobirania que resideix en el poble andorrà i
+  règim de coprincipat parlamentari— i el [text oficial del Govern](https://www.govern.ad/documents/d/guest/constitucio-d-andorra-1)
+  en dona la font normativa.
 - ~~**El diari de sessions** del Consell General sobre la proposició de llei del
   2014 — **font primària nomenada per la font**.~~ — **`resolt` el 18-09-2026**:
   és el **DCG núm. 10/2014, sessió del 19 de juny**, i la proposició és la de
