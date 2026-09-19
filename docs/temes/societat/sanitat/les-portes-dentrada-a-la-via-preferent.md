@@ -326,6 +326,6 @@ genètic o neurològic** segons la classificació de l'OMS.
   imports del canal SAAS i nota explicativa, p. 129, contrastats amb
   tresoreria p. 253. És informació de l’organisme gestor, no una auditoria
   independent ni una comprovació de cada beneficiari.
-- El decret acredita la regulació publicada; l’efectivitat assistencial,
-  la disponibilitat dels sistemes informàtics i el cost final d’una atenció
-  continuen sense comprovar-se amb les peces llegides.
+- ~~El decret acredita la regulació publicada~~ — **`parcial` el 19-09-2026**:
+  l'efectivitat assistencial, la disponibilitat dels sistemes informàtics i el
+  cost final d'una atenció continuen sense comprovar-se amb les peces llegides.
