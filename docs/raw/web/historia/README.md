@@ -34,3 +34,15 @@
 - Procedència registrada abans de la descàrrega a
   `02-DOCS/raw/sources/becat-1996-emergencia-andorra.md`. Accés obert no
   equival automàticament a permís de redistribució del PDF.
+
+## Jean-Auguste Brutails — estudi crític (1891)
+
+- [PDF](brutails-etude-critique-1891.pdf), [text](brutails-etude-critique-1891.txt)
+  — [registre i original](https://1886.u-bordeaux-montaigne.fr/s/1886/item/174290),
+  Universitat Bordeaux Montaigne, *Étude critique sur les origines de la
+  question d'Andorre*, Tolosa, Édouard Privat, 1891.
+- El registre dona marca **Public Domain**. La peça té 41 pàgines PDF; s'han
+  llegit especialment pp. 30–36, sobre el Pareatge de 1278, i les notes de les
+  pp. 31–34.
+- La peça és només el primer dels quatre estudis de Brutails que demana la
+  fitxa del Pareatge; les peces de 1892, 1897 i 1898 continuen pendents.

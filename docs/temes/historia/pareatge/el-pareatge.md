@@ -262,6 +262,14 @@ l'historiador, sinó un cas regulat pel dret públic antic**; el que la fa sembl
 escriu el 1904 contra **M. Mérignhac**, catedràtic de dret internacional a Tolosa,
 que buscava en el Pareatge «la base de la condició internacional d'Andorra».
 
+**Brutails ja hi és, però només amb la primera peça.** El seu estudi de 1891
+tracta el Pareatge de 1278 com una composició arbitral consentida, defensa que
+els àrbitres mantenen els drets que cada senyor ja exercia i situa la data en el
+**8 de setembre** (i no el 7). També diu que no creu que l'homenatge s'hagi
+repetit després de 1278. És una lectura jurídica de 1891, no el text llatí ni
+els altres tres articles de Brutails ([fitxa i lectura](../../../fonts/brutails-etude-critique-1891.md),
+pp. 30–36).
+
 **En contradiu dos:**
 
 1. **Que hi hagi cap sobirà al document.** Brutails: **«no es pot parlar de
@@ -290,10 +298,13 @@ que buscava en el Pareatge «la base de la condició internacional d'Andorra».
 
 ## El que falta
 
-- **La lectura de Brutails del Pareatge**, sencera: els seus quatre articles
+- ~~**La lectura de Brutails del Pareatge**, sencera: els seus quatre articles
   d'erudició a la *Revue des Pyrénées* de **1891** i **1892** i a la *Revue des
   Universités du Midi* de **1897** i **1898**, on diu que l'exposició és completa
-  i documentada. **Prioritari, i amb referència exacta.**
+  i documentada. **Prioritari, i amb referència exacta.**~~ — **`parcial` el
+  19-09-2026**: l'estudi de 1891, en accés Public Domain a la Universitat
+  Bordeaux Montaigne, queda conservat i llegit a les pp. 30–36. Els tres estudis
+  restants i el text llatí del Pareatge continuen oberts ([fitxa Brutails](../../../fonts/brutails-etude-critique-1891.md)).
 - ~~**L'estudi de Mérignhac**, *Bulletin du Comité des travaux historiques*, secció
   de ciències econòmiques i socials, **Congrés de 1899, p. 267**. Citat i
   criticat, no llegit.~~ — **`resolt` com a duplicat el 19-09-2026**: l'enunciat
