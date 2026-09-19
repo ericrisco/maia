@@ -267,8 +267,12 @@ pàgina la daten:**
    Jutge, **i en quin document.** **La font no el nomena i en desqualifica el
    testimoni.**
 7. **Els documents de 1444, 1492, 1502, 1518, 1604, 1630 i 1739** sencers.
-8. **Si Antoni Martin, jutge el 1599 i «jutge y acessor ordinari» el 1604, és la
-   mateixa persona**: **el corpus ho dona per probable i no ho afirma.**
+8. ~~**Si Antoni Martin, jutge el 1599 i «jutge y acessor ordinari» el 1604, és la
+   mateixa persona**: **el corpus ho dona per probable i no ho afirma.**~~ —
+   **`parcial` el 19-09-2026**: el mateix article ja els relaciona pel nom
+   **Antoni Martin**, el títol de **doctor en drets i jutge ordinari** i els cinc
+   anys entre els actes de 1599 i 1604. La font no dona una fórmula explícita
+   d'identificació, de manera que el corpus conserva la reserva documental.
 9. ~~**Què són les *composicions***~~ — **`resolt` el 18-09-2026**: **és el
    mateix ús que el corpus té al glossari, i el diccionari el dona més ample.**
    **El [DCVB](../../../fonts/dcvb.md), `COMPOSICIÓ` accepció 5**: **«ant.
