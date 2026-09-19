@@ -274,8 +274,11 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
 8. **Les contribucions especials creades per pagar la carretera**: **quines eren,
    qui les pagava i quant van recaptar.** **Nou i prioritari**: **és un impost
    andorrà del segle XIX amb finalitat declarada.**
-9. **Si els sis quilòmetres francesos es van adjudicar**, i quan. **La font ho
-   dona per imminent el juny de 1904.**
+9. ~~**Si els sis quilòmetres francesos es van adjudicar**, i quan.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la font dona l'adjudicació per
+   **imminent el juny de 1904**, però aquesta expectativa no confirma que el
+   contracte arribés a signar-se. **Segueixen obertes l'adjudicació efectiva i
+   la data.**
 
 ## Related
 
