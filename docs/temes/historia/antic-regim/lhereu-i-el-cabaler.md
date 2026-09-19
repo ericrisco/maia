@@ -322,11 +322,12 @@ algú l'havia escrita.**
    —**l'hereu tres quartes parts, i el quart restant repartit entre tots els
    fills, ell inclòs**: [els capítols matrimonials](./els-capitols-matrimonials.md)—,
    però el corpus no té cap cas andorrà on es vegi el repartiment executat.
-7. El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
-   casa*, al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
-   **I quatre mots més, des del 2026-09-13**: ***conco***, ***poblador***,
-   ***fer canvi*** i ***andorrà de bragueta***, **cap dels quals no era al
-   corpus.**
+7. ~~El **lèxic**: *cabal*, *cabaler*, *pubilla*, *jaç*, *béns relictes*, *cap de
+   casa*, al [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).~~
+   **`resolt` el 19-09-2026**: els sis termes ja hi tenen entrada, amb la
+   definició i l'enllaç a aquesta fitxa. **I quatre mots més, des del
+   2026-09-13**: ***conco***, ***poblador***, ***fer canvi*** i ***andorrà de
+   bragueta***, **també incorporats al mateix glossari.**
 
 ## El costum no imposava aquest sistema: el prohibia per defecte
 
