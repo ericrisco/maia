@@ -336,8 +336,13 @@ vestit*». La font hi respon:**
     > deuhen, quant requerits sian, donar tota ajuda, auxili y socos al Concell
     > General per millor fer tenir y valer ses ordinacions»**, **«y molt en
     > particular los camins reals»**.
-11. **Els *rahonadors*, l'agutzil i els escrivans de les Corts**: **el corpus té
-    el *rahonador* al glossari i no sap què feien els altres dos al tribunal.**
+11. ~~**Els *rahonadors*, l'agutzil i els escrivans de les Corts**: **el corpus té
+    el *rahonador* al glossari i no sap què feien els altres dos al tribunal.**~~ —
+    **`parcial` el 20-09-2026**: [els rahonadors](./qui-demanava-clemencia-portava-els-comptes.md)
+    ja tenen documentades les funcions de defensa, vigilància del costum i
+    comptabilitat; el mateix text identifica el **nunci o agutzil** com a oficial
+    de justícia encarregat de notificacions, subhastes i execució. **Segueix
+    obert el paper concret dels escrivans de les Corts.**
 
 ## Related
 
