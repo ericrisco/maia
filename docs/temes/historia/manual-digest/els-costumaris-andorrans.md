@@ -234,13 +234,11 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
 3. **El volum d'Anton Picart**: on és.
 4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
    Bibliothèque du Comité de législation comparée.
-5. **Qui eren Palmitjavila, de Riba i Bonaventura Moles.** **`de Riba, tancat el
-   17-09-2026`**: **era el veguer episcopal**. **Una font espanyola del 1918 el
-   nomena i diu que **conservava l'original del Manual Digest «*en la Casa amplia
-   y señora que vive y posee en el bellísimo pueblo de Ordino*»***
-   ([cap de casa, però de casa antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md)).
-   **El dret escrit d'Andorra no era en un arxiu públic: era a casa d'un
-   magistrat.** **Palmitjavila i Moles segueixen oberts.**
+5. ~~**Qui eren Palmitjavila, de Riba i Bonaventura Moles.**~~ — **`parcial` el
+   19-09-2026**: **de Riba** era el veguer episcopal i una font espanyola del
+   1918 diu que conservava l'original del *Manual Digest* ([cap de casa, però
+   de casa antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md)).
+   **Palmitjavila i Moles segueixen oberts.**
 6. **La col·lació dels exemplars.** **Brutails avisa el 1904 que no es fiïn
    de les còpies** (secció de dalt) i **ningú no les ha comparades**. **Aquest
    és el buit metodològicament més greu de la branca**: **tot el que el corpus
