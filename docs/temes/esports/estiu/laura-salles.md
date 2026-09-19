@@ -84,7 +84,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
   > **El buit era el mateix tres vegades i la causa no**: **dos eren de
   > destil·lació i el tercer és de font.**
-- **On va néixer.**
+- ~~**On va néixer.**~~ — **`parcial` el 19-09-2026**: una entrevista d'*El
+  Periòdic d'Andorra* presenta Laura Sallés com a **nascuda a Ordino**; el
+  perfil de Concòrdia només situa on viu (**Escaldes-Engordany**), i Wikidata
+  mostra **Andorra la Vella** sense referència visible. La [nota de
+  fonts](../../../fonts/laura-salles-naixement.md) conserva la discrepància i
+  no imposa un lloc únic.
 - ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Que un bolcat datat no digui què ha passat després no és un buit
   d'aquest corpus: és el que significa tenir data.** **L'enunciat es
