@@ -191,7 +191,10 @@ d'un sol intocable: és una cadena de generacions que se solapen.
 
 - Un vídeo o un àudio de la final.
 - El relat de la celebració al vestidor i de la rebuda al Principat.
-- El tir —si n'hi va haver— després del rebot ofensiu maltès a quatre segons.
+- ~~**El tir —si n'hi va haver— després del rebot ofensiu maltès a quatre
+  segons.**~~ — **`resolt` el 2026-09-19**: després que Samuel Deguara capturés
+  el rebot ofensiu, **l'acta no registra cap llançament perquè el temps es va
+  acabar**.
 - El nombre exacte d'internacionalitats dels veterans.
 - L'edició impresa completa d'El Periòdic del 14 de juliol del 2014.
 
