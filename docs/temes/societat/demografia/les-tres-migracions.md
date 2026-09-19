@@ -347,10 +347,12 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
    **`parcial`.** **Pobles i calendari, sí** —**Capestany, Besiers, i fins a
    Banyuls a la Costa Vermella; tornada per les festes majors**— **i colles
    mixtes d'homes i dones.** **Contractes, cap.**
-4. ***Entrar de jove***: el mot, al glossari. — **`obert`, i amb companyia
+4. ~~***Entrar de jove***: el mot, al glossari. — **`obert`, i amb companyia
    nova**: **la mateixa lectura n'ha aportat cinc més** —***segador***,
    ***garber***, ***dallador***, ***tragí***, ***minyona***— **que tampoc no hi
-   són.**
+   són.**~~ **`resolt` el 19-09-2026**: els sis termes ja tenen entrada al
+   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), amb
+   definicions que mantenen el context migratori de Becat.
 5. ~~**Abel Poitrineau**, *Remues d'Hommes*. ~~— **`obert`, confirmat.**
 6. ~~**La recerca específica** que Armengol demanava el 1989: **s'ha fet?**~~ —
    **`parcial`.** **Una part sí, i el corpus la té des d'avui**: **la tesi de
