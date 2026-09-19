@@ -19,7 +19,7 @@ tags: [simbols, index, identitat]
 | --- | --- |
 | **Himne** — [El Gran Carlemany](./el-gran-carlemany.md) | Fitxa amb dades; falta el text |
 | **Lema** — *Virtus, unita, fortior* | Aquí sota; mereix fitxa pròpia |
-| **Bandera** | **Sense fitxa** |
+| **Bandera** — [La bandera](./la-bandera.md) | Fitxa amb origen; falta verificar la lectura dels colors |
 | **Escut** | **Sense fitxa** |
 
 ## El lema
@@ -45,8 +45,8 @@ el lema la nomena.
   **no s'ha pogut contrastar** amb el blasó oficial d'avui.
 - L'origen i la datació del lema.
 
-**Buit registrat.** Aquesta branca **ja té dues fitxes de quatre**: l'himne i
-l'escut, i la bandera mig closa.
+**Buit registrat.** Aquesta branca **ja té tres fitxes de quatre**: l'himne,
+la bandera i l'escut; el lema encara no té fitxa pròpia.
 
 ## Related
 
