@@ -24,6 +24,12 @@ jurisdicció de
 
 **Estructura dels segles XII-XIII**, romànica.
 
+La fitxa patrimonial del Govern descriu a la capçalera un plec que emmarca
+l'arc triomfal i dona pas a un **absis cobert amb quart d'esfera**; el
+Departament indica que alguns elements, com l'absis, **podrien correspondre al
+període romànic**, mentre que la resta de la construcció seria del segle XIII
+([fitxa del Govern](../../../fonts/govern-sant-miquel-prats-2026.md)).
+
 ## El retaule que va desaparèixer
 
 **El segle XVI**, l'església rep un retaule atribuït al **«Mestre de

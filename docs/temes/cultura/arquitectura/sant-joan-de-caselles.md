@@ -26,6 +26,11 @@ A [Canillo](../../territori/parroquies/canillo/canillo.md). Construïda entre el
   romànica pirinenca.
 - Un **retaule de 1527**, amb influències del Renaixement italià i germànic.
 
+La fitxa patrimonial del Govern descriu una **nau rectangular amb absis
+semicircular cobert amb volta de quart d'esfera** i un campanar de planta
+quadrada, tots dos d'estil romànic; els porxos són posteriors, probablement
+dels segles XVI o XVII ([fitxa del Govern](../../../fonts/govern-sant-joan-caselles-2026.md)).
+
 ## El que la fa singular
 
 La **majestat d'estuc** és una tècnica poc habitual: no és pintura mural ni talla
@@ -38,8 +43,11 @@ suma d'obres aïllades.
 
 ## El que falta
 
-Descripció arquitectònica: planta, absis, campanar. Estat de conservació i règim
-de visita. La relació amb el conjunt del terme de Canillo, que inclou també el
+~~Descripció arquitectònica: planta, absis, campanar.~~ — **`resolt`, confirmat
+el 19-09-2026**: la fitxa del Govern en descriu la nau rectangular, l'absis
+semicircular, el campanar romànic i els porxos posteriors. **Estat de
+conservació i règim de visita.** La relació amb el conjunt del terme de Canillo,
+que inclou també el
 [Roc de les Bruixes](../llegendes/el-roc-de-les-bruixes.md) i el santuari de
 [Meritxell](../../costums/meritxell/meritxell.md).
 

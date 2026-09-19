@@ -67,8 +67,12 @@ relació de dependència** — una dada que
    són dels segles XVII i XVIII; el retaule major és de la segona meitat del
    XVII i consta un pagament als escultors el 1651. La fitxa no explica el
    motiu institucional o econòmic concret de la reforma.
-3. **Els altres dos absis romànics**, si n'hi ha, de les esglésies que
-   Sant Serni tenia sota jurisdicció el 1312.
+3. ~~**Els altres dos absis romànics**, si n'hi ha, de les esglésies que
+   Sant Serni tenia sota jurisdicció el 1312.~~ — **`parcial`, confirmat el
+   19-09-2026**: Sant Joan de Caselles té un absis semicircular romànic;
+   Sant Miquel de Prats té un absis cobert amb quart d'esfera, però Patrimoni
+   només diu que podria ser romànic. La identificació arquitectònica és clara;
+   la datació de l'absis de Prats continua oberta.
 
 ## Related
 
