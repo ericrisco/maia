@@ -51,6 +51,11 @@ perdudes, a partir de fotografies històriques.
 **Tres de les sis taules originals ja han estat localitzades**, junt
 amb la predel·la.
 
+La localització institucional ja és concreta: **La victòria de Sant Miquel**
+es conserva a les **reserves de Patrimoni Cultural**, mentre que la predel·la i
+**L'aparició del mont Gàrgan** formen part del **Fons d'Art de Crèdit
+Andorrà**.
+
 El comunicat del Govern de 2020 concreta el primer pas de la dispersió: el
 retaule va ser **venut el 1926 al marxant d'art català Josep Bardolet**, que el
 va traspassar a la **Galeria Costa de Palma de Mallorca**. Més tard, algunes
@@ -66,8 +71,10 @@ ni el recorregut complet de totes les peces.
 
 ## Buits registrats
 
-1. **On són avui les tres taules i la predel·la localitzades** —en
-   quina col·lecció o institució.
+1. ~~**On són avui les tres taules i la predel·la localitzades** —en
+   quina col·lecció o institució.~~ — **`resolt`, confirmat el 2026-09-19**:
+   *La victòria de Sant Miquel* és a les reserves de Patrimoni Cultural; la
+   predel·la i *L'aparició del mont Gàrgan*, al Fons d'Art de Crèdit Andorrà.
 2. ~~**Per què i com va desaparèixer el retaule cap al 1926** —el detall
    concret de la dispersió no consta en aquesta font.~~ — **`parcial`, confirmat
    el 2026-09-19**: la font oficial documenta la venda a Josep Bardolet, el
