@@ -30,7 +30,12 @@ I això és tot el que aquesta recerca ha pogut documentar.
 - ~~L'himne nacional, *El Gran Carlemany*, que no té fitxa enlloc del corpus.~~ —
   **`resolt` el 18-09-2026**: [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md)
   ja té fitxa pròpia amb autors, adopció i oficialització.
-- Els **esbarts** i les corals.
+- ~~Els **esbarts** i les corals.~~ — **`parcial` el 2026-09-19**: [la fitxa
+  de danses](../../costums/danses/danses.md) ja identifica l'**Esbart
+  Laurèdia** i l'**Esbart Dansaire d'Andorra la Vella**, i [la fitxa de
+  caramelles](../../costums/caramelles/les-caramelles.md) identifica la **Coral
+  Rocafort** (des de 1962) i els grups d'Ordino. **Segueixen oberts el repertori
+  complet, la resta de grups i els seus músics.**
 - La música contemporània andorrana.
 - Les **cançons infantils**, que van amb
   [cultura popular](../cultura-popular/cultura-popular.md) i tenen el mateix
