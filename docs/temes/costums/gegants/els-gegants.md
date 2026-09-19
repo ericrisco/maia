@@ -128,7 +128,10 @@ dir**.
    **`parcial` el 18-09-2026**: **fundada el 1985 per deu persones amb el
    suport del comú**. **Els estatuts no s'han vist**, i **«si encara existeix
    avui» no s'ha confirmat amb una data recent.**
-6. Si **altres parròquies** tenen gegants.
+6. ~~Si **altres parròquies** tenen gegants.~~ — **`parcial` el 19-09-2026**:
+   **Sant Julià de Lòria sí que en té**, el **Rei Moro** i la **Dama Blanca**,
+   ja documentats en aquesta fitxa. **No consta encara si en tenen les altres
+   cinc parròquies.**
 
 ## Related
 
