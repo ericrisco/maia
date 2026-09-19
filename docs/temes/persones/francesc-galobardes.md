@@ -58,7 +58,7 @@ amb Carme Demiquels Guix des del 1957**, dos fills.
 
 1. **El contingut de l'obra**: quins paisatges, quines tècniques, més
    enllà de «la neu».
-2. **Detall de la seva feina a Crèdit Andorrà.**
+2. ~~**Detall de la seva feina a Crèdit Andorrà.**~~ **[parcial · 2026-09-19]** La fitxa ja estableix que, després d'establir-se a Andorra el 1961, hi va treballar. Encara falten les funcions concretes i els anys exactes.
 
 ## Related
 
