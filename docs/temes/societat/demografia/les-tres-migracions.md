@@ -133,9 +133,10 @@ efectiva** arribava un dia, i a partir d'aquell dia els altres tenien un rellotg
 que entra en una casa com a marit de la pubilla** —és a dir, **el contrari de
 l'hereu**: qui es casa cap a dins d'una altra casa.
 
-**Buit registrat:** *jove* en aquest sentit al
+~~**Buit registrat:** *jove* en aquest sentit al
 [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md). **No hi
-consta.**
+consta.**~~ **`resolt` el 19-09-2026**: l'expressió **entrar de jove** ja té
+entrada al glossari, amb el sentit que li dona Armengol.
 
 **I per què no funcionava per a tothom:**
 
