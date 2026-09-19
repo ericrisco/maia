@@ -86,7 +86,13 @@ ritu de pas.**
   les set festes, i la de Sant Julià enllaça **La Passa**, el **ball del Cerdà**
   i el **ball de la Marratxa** com a actes propis; continua pendent una fitxa
   completa de programa per a cada parròquia.
-- Els **sants patrons** de cada parròquia, que són qui fixa la data.
+- ~~Els **sants patrons** de cada parròquia, que són qui fixa la data.~~ —
+  **`parcial`, actualitzat el 2026-09-19**: [la font del Govern](../../../fonts/govern-festes-patrons-2022.md)
+  ja identifica **sant Jaume i santa Anna** com els patrons d'Escaldes-Engordany
+  i **sant Julià i sant Germà** com els de Sant Julià de Lòria; [el calendari
+  d'Ordino](../../../fonts/ordino-festes-parroquia-2026.md) separa la festa
+  parroquial de **Sant Pere** de la festa major de **Sant Corneli**. Continuen
+  oberts els patrons de les altres parròquies i la relació exacta amb cada data.
 - ~~Els **esbarts** del país — l'Esbart Laurèdia n'és un i el corpus no té la
   llista.~~ — **`parcial` el 2026-09-19**: [la fitxa de
   danses](../danses/danses.md) ja identifica l'**Esbart Laurèdia** i l'**Esbart

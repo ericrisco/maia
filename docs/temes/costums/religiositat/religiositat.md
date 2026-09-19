@@ -79,8 +79,14 @@ cremar.
   [Sant Serni de Canillo](../../cultura/arquitectura/sant-serni-de-canillo.md) i
   [Santa Coloma](../../cultura/arquitectura/santa-coloma.md).~~ **`parcial`**:
   encara no és un inventari parròquia per parròquia.
-- Els **sants patrons** de cada parròquia i les seves
-  [festes majors](../festes-majors/festes-majors.md).
+- ~~Els **sants patrons** de cada parròquia i les seves
+  [festes majors](../festes-majors/festes-majors.md).~~ — **`parcial`, actualitzat
+  el 2026-09-19**: [la font del Govern](../../../fonts/govern-festes-patrons-2022.md)
+  ja identifica **sant Jaume i santa Anna** com els patrons d'Escaldes-Engordany
+  i **sant Julià i sant Germà** com els de Sant Julià de Lòria; [el calendari
+  d'Ordino](../../../fonts/ordino-festes-parroquia-2026.md) separa la festa
+  parroquial de **Sant Pere** de la festa major de **Sant Corneli**. Continuen
+  oberts els patrons de les altres parròquies.
 - Altres **romiatges i aplecs** més enllà del de Meritxell.
 - ~~Les **altres confessions**: amb un 54,7 % de població estrangera, hi ha
   comunitats no catòliques al país i el corpus no en diu res.~~ — **`parcial` el
