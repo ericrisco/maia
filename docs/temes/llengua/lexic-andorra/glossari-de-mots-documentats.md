@@ -516,6 +516,16 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **termoludisme** | turisme termal (el TERMCAT va preferir *turisme termal*; Andorra continua dient *termoludisme*) |
 | **fer cunya** | disposar els esquís en V — castellanisme arrelat; abans es recomanava *fer tascó* |
 
+## Gastronomia i alimentació
+
+| Mot | Significat |
+| --- | --- |
+| **carner** | **rebost o espai de la casa on es guardaven els pernils secs**; Ribes el documenta com a dependència de les cases. [*Les tres taules*](../../gastronomia/historia-alimentaria/les-tres-taules.md). |
+| **festanyal** | **dia de festa**; als *festanyals* es menjava algun tall de moltó, en contrast amb la taula quotidiana. [*Les tres taules*](../../gastronomia/historia-alimentaria/les-tres-taules.md). |
+| **sagí** | **greix de porc emprat per fer el brou gras**. [*Les tres taules*](../../gastronomia/historia-alimentaria/les-tres-taules.md). |
+| **brossat** | **mató**. DIEC2, [extracte local](../../../raw/web/llengua/diec/brossat-definition.json). |
+| **flaó** | **pastís farcit de brossat, de crema, etc., segons les contrades**. DIEC2, [extracte local](../../../raw/web/llengua/diec/flao-definition.json). |
+
 ## Del Diccionari enciclopèdic d'Andorra (2007)
 
 **buner -a** 'qui toca la buna' (la buna és un **sac de gemecs**; hi ha la

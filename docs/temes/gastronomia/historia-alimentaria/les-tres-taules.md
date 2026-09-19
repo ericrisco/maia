@@ -160,8 +160,11 @@ precisament perquè **ningú no la va escriure per parlar de menjar**.
    Cebrià Baraut (Andorra, 1988-1990, 142 documents)
    ([font](../../../fonts/baraut-cartulari-vall-andorra.md)). **El document
    exacte segueix sense identificar-se.**
-3. **Carner**, **festanyal**, **sagí**, **brossat**, **flaó** — al
-   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), cap.
+3. ~~**Carner**, **festanyal**, **sagí**, **brossat**, **flaó** — al
+   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), cap.~~
+   **`resolt` el 19-09-2026**: els cinc termes ja hi tenen entrada. **`brossat`
+   i `flaó`** es contrasten a més amb el DIEC2; els altres tres mantenen la
+   definició contextual de Ribes.
 4. **El robatori de pernils com a tema literari**: en quins textos?
 5. **Quan desapareix el pa d'ordi** i el substitueix el de blat.
 

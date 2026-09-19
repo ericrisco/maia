@@ -13,3 +13,14 @@
 - Consulta: 2026-09-19.
 - Ús: verificació de l'encàrrec, l'editor, l'any, la paginació, l'ISBN i una localització bibliogràfica.
 - Condicions: drets i termes de reutilització no especificats; només metadades locals, sense redistribució ni dataset.
+
+## DIEC2 — `diec/`
+
+- URL: [consulta `brossat`](https://dlc.iec.cat/Results?EntradaText=brossat) i
+  [consulta `flaó`](https://dlc.iec.cat/Results?EntradaText=fla%C3%B3).
+- Consulta: **2026-09-19**. Es conserven la resposta de cerca, el text extret i
+  la resposta JSON de l'endpoint d'accepcions.
+- Ús: verificar les definicions de **`brossat`** («mató») i **`flaó`** («pastís
+  farcit de brossat, de crema, etc., segons les contrades»).
+- Condicions: contingut del DIEC2 de l'Institut d'Estudis Catalans; només es
+  conserven extractes breus per a verificació i citació.
