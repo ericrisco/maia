@@ -149,7 +149,16 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    dels documents de Gallica són els de la BnF i no s'han comprovat: el corpus
    en cita la localització, no n'ha baixat cap imatge. El que segueix obert és
    l'URL de la digitalització de Google Books d'on surt el text del corpus.`
-2. **Els capítols IV a IX**, sencers. El corpus n'ha llegit el I, el II i el III.
+2. ~~**Els capítols IV a IX**, sencers.~~ — **`parcial` el 19-09-2026**: s'ha
+   llegit i contrastat sencer el **capítol IV, «Obligations et contrats»**,
+   **pp. 73–105** de l'edició (línies **11029–12549** de
+   `docs/raw/llibres/brutails-coutume.txt`). El capítol recorre la teoria de les
+   obligacions, les renúncies i el jurament, les garanties (penyora i
+   hipoteca), les fiances, l'*hostatge*, les clàusules de *constitut* i de
+   *procurador*, els contractes privilegiats, la clàusula de *terç*, el
+   formalisme, els actes privats i parroquials, els notaris i l'ordre de les
+   obligacions. **Els capítols V–IX continuen oberts**; la lectura del IV no es
+   presenta com si fos la del conjunt.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
 4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
