@@ -343,9 +343,11 @@ dos textos, dos anys, dos editors.**
   `Requereix font externa: el postgrau en Ciències de l'educació.`
 - **Si «S.E. Espanyol» del 2007 inclou les congregacionals i la privada.** Sense
   això, la sèrie espanyola 1999-2000 → 2007 no es pot tancar.
-- **El text de la nota informe de l'andorranització del 1972**, sencer i amb
-  signatura, **segueix obert** ([l'andorranització](./landorranitzacio.md)).
-  Aquesta fitxa n'aporta **un paràgraf citat de segona mà**, no el document.
+- ~~**El text de la nota informe de l'andorranització del 1972**, sencer i amb
+  signatura.~~ — **`parcial` el 19-09-2026**: aquesta fitxa n'aporta **un
+  paràgraf citat de segona mà** i [l'andorranització](./landorranitzacio.md)
+  en conserva el mateix fragment amb la data de juny de 1972. **L'original
+  complet i la signatura segueixen oberts.**
 - **El projecte lingüístic de l'Escola Andorrana del 2 de maig del 1989**, sencer.
   El llibre en cita quatre línies i el resumeix en quatre punts. **No consta si és
   un decret, un acord del Govern o un document intern.**
