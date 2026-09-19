@@ -194,9 +194,11 @@ pública](./la-institucio-no-es-publica.md).
    **El corpus no la té en cap altra unitat.**
 3. **La petició al Tribunal Superior de partició *per capita*** feta per **qui
    tenia interès en la *per stirpes***: **sense data i sense explicació.**
-4. **Quants *béns vinculats* hi havia** —la font diu «en petit nombre»— i **si
-   alguna d'aquelles presentacions anuals ha deixat rastre escrit.**
-   `Requereix font externa: els arxius comunals i els parroquials.`
+4. ~~**Quants *béns vinculats* hi havia** —la font diu «en petit nombre»— i **si
+   alguna d'aquelles presentacions anuals ha deixat rastre escrit.**~~ —
+   **`parcial` el 19-09-2026**: la font els qualifica **«en petit nombre»** i
+   descriu la presentació anual al cònsol o al rector, però no en dona el total
+   ni permet saber si en queda rastre als arxius comunals o parroquials.
 5. **Quina era «la quantitat mínima»** que es pagava cada any, i **si variava.**
 6. **Si el *dret de vincle* prescrivia als trenta anys**: **els *sabis* ho diuen,
    l'autor hi està d'acord per raonament, i no hi ha ni norma ni sentència.**
