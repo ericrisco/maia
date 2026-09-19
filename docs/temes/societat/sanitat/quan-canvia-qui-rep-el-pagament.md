@@ -137,10 +137,10 @@ a màxims individuals ni a una mesura de qualitat assistencial.
 
 ## Buits registrats
 
-- Lectura limitada: portada vista, sumari p. 2 i 4, p. 77–79, 127–129 i
-  253 llegides; renders 77–79, 128, 129 i 253 vistos. No les 331 pàgines
-  íntegres. La lectura nova tanca parcialment el buit de tramitacions,
-  amb les limitacions detallades a l’article enllaçat.
+- ~~Lectura limitada~~ — **`parcial` el 19-09-2026**: portada vista, sumari
+  p. 2 i 4, p. 77–79, 127–129 i 253 llegides; renders 77–79, 128, 129 i 253
+  vistos. No les 331 pàgines íntegres. La lectura nova tanca parcialment el
+  buit de tramitacions, amb les limitacions detallades a l’article enllaçat.
 - No s’han contrastat factures, assentaments individuals, nombre de
   beneficiaris del canal ni resultats d’accés. Tampoc una rectificació
   de la capçalera o el criteri que explica cada diferència entre quadres.
