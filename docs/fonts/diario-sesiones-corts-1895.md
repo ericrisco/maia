@@ -105,5 +105,11 @@ pel punt de tall (columna 57-58) i llegint-les per separat.
    juliol confirma retrospectivament que Carvajal va censurar la intervenció del
    bisbe a la comissió i que el president Mellado va donar el debat per ja
    discutit ([extracte local](../raw/web/historia/siglo-futuro-1895-07-01-andorra.txt)).
-   **Les actes pròpies de la sessió continuen obertes**; el plenari del Senat no
-   en va pronunciar el nom ni el 28 ni el 29.
+   **La crònica contemporània de *La Correspondencia de España* del 27 de juny**
+   ([text local](../raw/hemeroteca/correspondencia-1895-06-27.txt), secció
+   «Comisión de presupuestos — Senado») descriu la sessió del 26: el bisbe
+   d'Urgell hi informa contra l'article 56, és a dir, contra l'exempció de
+   drets duaners per al bestiar procedent d'Andorra, i després la comissió rep
+   altres informants i el ministre d'Hisenda. **Les actes pròpies de la sessió
+   continuen obertes**: aquestes cròniques no substitueixen el llibre d'actes,
+   i el plenari del Senat no en va pronunciar el nom ni el 28 ni el 29.
