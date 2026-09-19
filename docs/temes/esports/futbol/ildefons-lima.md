@@ -132,7 +132,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**Els seus onze gols**: contra qui i quan.~~ **[parcial · 2026-09-19]** La
   taula confirma **11 gols amb Andorra**, però el bolcat no en dona els rivals
   ni les dates.
-- **El seu comiat**, el setembre del 2023 contra Suïssa.
+- ~~**El seu comiat**, el setembre del 2023 contra Suïssa.~~ — **`resolt` el
+  19-09-2026**: va ser el **12 de setembre de 2023**, a **Sion**, en la derrota
+  **Suïssa 3–0 Andorra**. Lima va sortir titular i va jugar **23 minuts** abans
+  de ser substituït; era el seu **137è i últim partit internacional** ([font
+  FAF/Bondia](../../../fonts/ildefons-lima-comiat-2023.md)).
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i

@@ -17,6 +17,7 @@ branca d'esports, que era la més buida del corpus.
 | `uefa-faf-antoni-giribet.txt` | UEFA i Federació Andorrana de Futbol, presidències d'Antoni Giribet — **drets reservats, només extracte de citació breu** |
 | `bdfutbol-leonel-alves.txt` | BDFutbol, lloc de naixement de Leonel Alves — **drets reservats, només extracte de citació breu** |
 | `faf-agusti-pol-gol-1996.txt` | Federació Andorrana de Futbol, primer gol d'Agustí Pol — **drets reservats, només extracte de citació breu** |
+| `ildefons-lima-comiat-2023.txt` | FAF i Bondia, comiat internacional d'Ildefons Lima — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 
