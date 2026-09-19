@@ -247,7 +247,7 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
 - **La campanya**: **qui feia campanya pel no, i amb quins arguments.** **La
   font diu que les reticències eren pel sistema electoral i no diu qui les
   organitzava.**
-- **Els números absoluts per parròquia**, no només els percentatges.
+- ~~**Els números absoluts per parròquia**, no només els percentatges.~~ **`parcial` el 2026-09-19**: el [Consell General](../../../fonts/consell-general-referendum-1993-sant-julia.md) dona els absoluts de **cens i votants** de les set parròquies —inclòs Sant Julià—, però no els vots parroquials de **Sí** i **No**. ([taula oficial](../../../fonts/consell-general-referendum-1993-sant-julia.md))
 - ~~**La crònica de *l'Avui* del 15 de març del 1993**, p. 8, **accessible a
   l'hemeroteca Pandora de Girona** — **identificada i no llegida.**~~ —
   **`parcial` el 19-09-2026**: la còpia local de l'article de la Viquipèdia
