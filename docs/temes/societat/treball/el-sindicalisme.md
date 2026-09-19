@@ -208,8 +208,10 @@ l'Organització Internacional del Treball**.
    SAT es funda el 8 de març de 1990 i la jornada baixa a 40 hores quatre
    mesos després.** `Requereix el text del Reglament Laboral originari, que és
    anterior al BOPA, i saber si la coincidència de dates és casualitat.`
-7. **CSI-Pirimed** — el Consell Sindical Interregional dels Pirineus
-   Mediterranis.
+7. ~~**CSI-Pirimed** — el Consell Sindical Interregional dels Pirineus
+   Mediterranis.~~ — **`no-es-buit` el 20-09-2026**: és una referència nominal
+   dins l'inventari de sindicats, no una pregunta formulada ni una dada que la
+   fitxa presenti com a resposta pendent.
 
 ## Related
 
