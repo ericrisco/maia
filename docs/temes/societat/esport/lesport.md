@@ -71,9 +71,12 @@ Andorra va col·laborar en el **Vocabulari de la neu i dels esports d'hivern**
 **Molt, i d'accés fàcil** — hi ha Comitè Olímpic, federacions i premsa
 esportiva pròpia, i el corpus no n'ha buidat cap.
 
-- L'FC Andorra i el futbol andorrà a les lligues espanyoles: **una anomalia
+- ~~L'FC Andorra i el futbol andorrà a les lligues espanyoles: **una anomalia
   institucional** (clubs d'un estat jugant la lliga d'un altre) que mereix fitxa
-  pròpia.
+  pròpia.~~ **Resolt:** [el FC Andorra](../../esports/futbol/clubs-i-competicions/fc-andorra.md)
+  documenta la fundació, l'afiliació a la Federació Catalana i la competició a
+  la lliga espanyola; [la lliga andorrana](../../esports/futbol/clubs-i-competicions/la-lliga.md)
+  n'explica el contrast institucional.
 - La selecció andorrana de futbol i la seva relació amb la identitat.
 - Les estacions d'esquí com a **indústria**, no com a esport — això va a
   [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
