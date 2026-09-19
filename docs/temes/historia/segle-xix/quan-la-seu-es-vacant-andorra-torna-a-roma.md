@@ -293,9 +293,13 @@ excepció que el resum no duia:**
    sencer de la butlla**; la regla ja era documentada des del febrer de 1607.
 4. **L'autorització pontifícia de confiscar grans al clergat** de les Valls. **Ni
    data ni text.**
-5. **L'autorització al Consell General de recollir les escriptures dels rectors
-   notaris.** **Ni data ni text.** **Enllaça amb** [el rector, notari ordinari de
-   la parròquia](../../institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md).
+5. ~~**L'autorització al Consell General de recollir les escriptures dels rectors
+   notaris.**~~ — **`parcial` el 2026-09-19**: la carta al Papa enumera
+   expressament que la Santa Seu **autoritzava el Consell General a recollir les
+   escriptures que els rectors havien fet exercint de notaris**, i la fitxa en
+   conserva el mecanisme dins dels set precedents pontificis. **Encara en falten
+   la data, el text de l'autorització i la localització del document.** Enllaça
+   amb [el rector, notari ordinari de la parròquia](../../institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md).
 6. **Els col·lectors de la Reverenda Cambra Apostòlica a Andorra durant les seus
    vacants**: **quantes vegades, quines rendes i quina documentació en queda.**
    **Prioritari**, i **comprovable**: la Cambra Apostòlica té arxiu.
