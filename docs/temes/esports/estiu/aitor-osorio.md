@@ -60,14 +60,13 @@ nedadors als Jocs?*
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **Quan va ser president de la federació** i fins quan. — **`obert` pel que fa
-  a les dates, i el fet queda confirmat**: **el bolcat diu que «més tard» va
-  esdevenir president de la Federació Andorrana de Natació**, i **no en dona cap
-  any**. **El representant actual al COA (2024-2028) és Joan Clotet Calves**
-  ([font](../../../fonts/coa-membres.md)), **no Osorio** — el corpus no
-  dedueix si això vol dir que ja no ho és, si mai en va ser el president
-  formal, o si el càrrec de representant al COA no és el mateix que el de
-  president de la federació. `Requereix font externa: la federació.`
+- ~~**Quan va ser president de la federació**~~ — **`parcial` el 19-09-2026**:
+  el bolcat confirma que «més tard» va esdevenir president de la Federació
+  Andorrana de Natació, però no en dona cap any. **El representant actual al
+  COA (2024-2028) és Joan Clotet Calves** ([font](../../../fonts/coa-membres.md)),
+  **no Osorio**; el corpus no pot deduir si això vol dir que ja no ho és, si
+  mai en va ser el president formal, o si són càrrecs diferents. `Requereix
+  font externa: la federació.`
 - ~~**La seva carrera fora d'Atlanta.**~~ — **`parcial`: el resultat d'Atlanta
   es tanca i la resta de la carrera segueix sense existir al bolcat.** **Tenia
   20 anys**, **va nedar els 200 m papallona**, **2:12.59 a la sèrie** i
