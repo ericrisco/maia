@@ -77,7 +77,11 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
   Consell Econòmic i Social](../treball/el-consell-economic-i-social.md) dona
   la representació de dos agents sindicals i dos de patronals. **Encara falta
   el cens complet d'organitzacions i les seves dates.**
-- Les entitats de **caça, pesca i muntanya**, que en un país així pesen.
+- ~~Les entitats de **caça, pesca i muntanya**, que en un país així pesen.~~ —
+  **`parcial` el 19-09-2026**: la fitxa ja identifica la **Federació Andorrana de
+  Muntanyisme** i el seu paper en la informació sobre els parcs naturals. Encara
+  falta el cens de les entitats de caça i pesca, i el mapa complet de les
+  associacions de muntanya.
 
 ## Per què això importa per a maia
 
