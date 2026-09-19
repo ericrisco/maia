@@ -100,7 +100,7 @@ un segle o de fa trenta anys.
    **I el sostre doble diu una cosa que el corpus no tenia**: **el Comú
    distingeix «activitat empresarial o professional» de «activitat estrictament
    comercial» i dona a la segona el doble de marge.**
-3. **Les altres actes.** **`parcial` el 19-09-2026:** el portal oficial de
+3. ~~**Les altres actes.**~~ **`parcial` el 19-09-2026:** el portal oficial de
    sessions permet localitzar i el corpus conserva dues actes anteriors —la
    **6/2025 (17 de febrer)** i la **12/2025 (31 de març)**—, a més de la 18/2025
    ja llegida ([còpies locals](../raw/web/institucions/README.md)). Això confirma
