@@ -246,10 +246,15 @@ bruixeria*»**, **amb el compte de despeses del juny de 1604**
 2. **Com es concilia aquest cas de 1516 amb la tesi de la mateixa font** que la
    campanya contra dones acusades de bruixeria **va succeir** la supressió del
    Sant Ofici. **El corpus registra les dues i no les concilia.** **Prioritari.**
-3. **Qui eren Girvasi de Lordat i Damià Simon**, i **si el jutge Damià Simon és
+3. ~~**Qui eren Girvasi de Lordat i Damià Simon**, i **si el jutge Damià Simon és
    el «jutge comú» dels dos cosenyors** —el títol ho diu— **en una època en què
    el corpus ja sap que el jutge comú era la regla**
-   ([no en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md)).
+   ([no en volien dos, de jutge](./no-en-volien-dos-de-jutge-en-volien-un-de-comu.md)).~~ —
+   **`parcial` el 19-09-2026**: el document ja els identifica funcionalment com
+   **Girvasi de Lordat, veguer del Bisbe d'Urgell**, i **Damià Simon, jutge del
+   Bisbe i del comte de Foix**, el 4-06-1516. No hi ha biografia dels dos homes
+   ni prova que aquest jutge sigui exactament la figura tècnica del «jutge
+   comú»; això continua obert.
 4. ~~**El *Politar*, exemplar de Perpinyà, pp. 260-261 i 303**, sobre el Bisbe
    tenint Corts en persona.~~ — **`parcial`: la p. 184 queda `resolta` el
    18-09-2026, i dona una
