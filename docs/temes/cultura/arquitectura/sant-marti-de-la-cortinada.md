@@ -41,19 +41,29 @@ hi introdueix **canvis importants en els esquemes estilístics**.
 És a dir: hi ha un romànic andorrà amb conversa interna. Les obres es citen les
 unes a les altres.
 
+La fitxa patrimonial del Govern situa les pintures a la **capella romànica
+conservada**, que avui és una capella lateral de l'església barroca, i hi
+identifica **sant Martí** com a personatge principal. Les obres de 2026 han
+posat al descobert coronaments dels murs de l'església original, restes de
+pintura i elements de les capelles modernes; la restauració dels retaules
+continua en curs ([fitxa del Govern](../../../fonts/govern-sant-marti-cortinada-2026.md)).
+
 ## El que falta
 
-La descripció de les pintures: què representen, on són dins l'església, en quin
-estat. ~~Qui va ser Pere Canturri~~ — **`resolt` el 18-09-2026**: fitxa
-biogràfica pròpia a
-[persones](../../persones/pere-canturri-montanya.md) —historiador i
-arqueòleg (1935-2015), primer director del Patrimoni Artístic
-Nacional— **però on va publicar aquesta datació concreta segueix
-obert.** I la tesi doctoral
-*L'art romànic del Principat d'Andorra: la pintura mural en el seu context*, que
-és font acadèmica primària i **no s'ha consultat**.
-
-**Buit registrat, prioritari.**
+1. ~~**La descripció de les pintures: què representen, on són dins l'església,
+   en quin estat.**~~ — **`parcial`, confirmat el 19-09-2026**: es conserven
+   parcialment a la capella romànica lateral i el personatge principal és sant
+   Martí; l'inventari iconogràfic complet i l'estat peça per peça continuen
+   oberts.
+2. ~~**Qui va ser Pere Canturri.**~~ — **`resolt` el 18-09-2026**: fitxa
+   biogràfica pròpia a
+   [persones](../../persones/pere-canturri-montanya.md) —historiador i
+   arqueòleg (1935-2015), primer director del Patrimoni Artístic Nacional—.
+   **On va publicar aquesta datació concreta** continua obert.
+3. ~~**La tesi doctoral *L'art romànic del Principat d'Andorra: la pintura mural
+   en el seu context*.**~~ — **`parcial`, confirmat el 19-09-2026**: la tesi de
+   Maria Cristina Tarradellas Corominas ja està identificada i disponible al
+   Dipòsit Digital de la UB; el buidatge crític continua pendent.
 
 ## Related
 
