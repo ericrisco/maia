@@ -278,8 +278,9 @@ privat:**
 5. **Per què només Canillo exigeix el tancat de murs**, i **des de quan.**
 6. **Si el consell de quart havia de confirmar les concessions sobre terra de
    quart.** **La font ho dona com a creença seva.**
-7. **Quantes desposessions hi va haver**: la font diu que «sembla» que eren
-   freqüents i cita un sol registre.
+7. ~~**Quantes desposessions hi va haver**~~ — **`parcial` el 19-09-2026**: la
+   font diu que **«sembla» que eren freqüents** i només cita **un registre**;
+   no hi ha recompte.
 8. **La discrepància dels 5 sous**: **0,65 pta imprès contra 0,665 pta calculat.**
    **Registrada, no arbitrada.**
 9. **Si la *peixena* encara existia el 1904 als rebaixants**, o **si el moviment de
