@@ -116,9 +116,9 @@ entren tres de cada quatre vehicles** ([el transport](../../economia/transport/R
 - **De quin any és el mesurament de cobertes del sòl**, i **amb quina
   cartografia.** `Repetit idèntic el 2020 i el 2024.`
 - **El 0,16% que falta perquè les dotze classes sumin 100.**
-- **El repartiment per parròquia**: la superfície de cadascuna **segueix sense
+- ~~**El repartiment per parròquia**: la superfície de cadascuna **segueix sense
   font al corpus**, i és la meitat oberta del buit de
-  [les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md).
+  [les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md).~~ — **`parcial` el 19-09-2026**: la fitxa de [les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) ja conserva la taula de **Ros Pascuet (1989)**: Canillo 111 km², Ordino 85, Encamp 80, la Massana 65, Andorra la Vella + Escaldes 65 i Sant Julià 62; les sis xifres sumen 468 km². La font declara la superfície aproximada i diu que no coneix el límit entre capital i Escaldes. No s'arbitren les diferències amb altres xifres parroquials del corpus ni es presenta com a superfície oficial actual.
 - **Per què l'edició del 2024 deixa de publicar la densitat.**
 - **Si els dominis esquiables entren a «zones esportives»**, que aquesta fitxa
   suposa que no i no ho acredita.
