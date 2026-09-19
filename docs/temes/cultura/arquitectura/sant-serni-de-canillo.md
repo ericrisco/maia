@@ -35,6 +35,14 @@ a una finestra, portalada o arcada de l'església anterior.
 segle XII** i una **pica d'aigua beneita dels segles XI-XII**, totes
 dues tallades d'una sola peça de pedra.
 
+La fitxa patrimonial del Govern concreta que l'edifici original és romànic,
+anterior a la segona meitat del segle XII, però que **una sèrie d'ampliacions
+barroques dels segles XVII i XVIII li va donar l'aspecte actual**; el
+campanar probablement es va aixecar en aquesta fase. El retaule major és de
+la segona meitat del segle XVII i la data de pagament als escultors és el
+**1651**. Això permet datar la transformació, però no documenta un únic acte
+de reconstrucció ni el motiu concret de la reforma ([fitxa del Govern](../../../fonts/govern-sant-serni-canillo-2026.md)).
+
 ## El 1312: quan Sant Serni manava sobre Sant Joan de Caselles
 
 La **visita episcopal de 1312** (Arxiu Capitular de Vic) hi deixa un
@@ -54,7 +62,11 @@ relació de dependència** — una dada que
 1. ~~**Sant Miquel de Prats**: el corpus no en té cap fitxa ni referència
    prèvia — apareix per primer cop aquí.~~ — **`resolt` el 18-09-2026**:
    fitxa pròpia a [Sant Miquel de Prats](./sant-miquel-de-prats.md).
-2. **Per què i quan es va reconstruir en estil barroc.**
+2. ~~**Per què i quan es va reconstruir en estil barroc.**~~ — **`parcial`,
+   confirmat el 19-09-2026**: les ampliacions que donaren l'aspecte actual
+   són dels segles XVII i XVIII; el retaule major és de la segona meitat del
+   XVII i consta un pagament als escultors el 1651. La fitxa no explica el
+   motiu institucional o econòmic concret de la reforma.
 3. **Els altres dos absis romànics**, si n'hi ha, de les esglésies que
    Sant Serni tenia sota jurisdicció el 1312.
 
