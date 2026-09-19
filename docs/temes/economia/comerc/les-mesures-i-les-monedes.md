@@ -397,16 +397,16 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    > vegades menor que el preu de compra».** Vegeu
    > [la venda a carta de gràcia](../banca-i-fiscalitat/la-carta-de-gracia.md).
    > **La taula de la pàgina 20 és l'aparell de la pàgina 213.**
-2. **Els litres de la càrrega i la quartera de gra**: Brutails dona les relacions
-   i només mesura el sisteró i la punyera. — **El corpus n'ha necessitat el
-   càlcul el 15-09-2026**, i el fa constar com a `hipòtesi del corpus`, no com a
-   dada de la font: **1 quartera = 6 sisterons = 71,3814 L** i **1 càrrega = 2
-   quarteres = 142,7628 L**. **La utilitat**: el Politar diu que **el bisbe
-   d'Urgell pagava al seu batlle 3 càrregues de blat l'any**, cobrades sobre la
-   renda episcopal a les Valls, i **això són uns 428,3 litres**
-   ([Tinga's pres per lo Príncep](../../institucions/justicia/tingas-pres-per-lo-princep.md)).
-   **El buit no es tanca**: **cap font no dona els litres; només les
-   relacions.**
+2. ~~**Els litres de la càrrega i la quartera de gra**: Brutails dona les
+   relacions i només mesura el sisteró i la punyera.**~~ — **`parcial` el
+   2026-09-19**: assumint la relació impresa **1 quartera = 6 sisterons** i el
+   valor mesurat de **11,8969 L per sisteró**, el càlcul del corpus dona **71,3814
+   L per quartera** i **142,7628 L per càrrega** de dues quarteres. Això faria
+   unes **428,3 L** per les tres càrregues anuals que el *Politar* atribueix al
+   bisbe d'Urgell ([Tinga's pres per lo Príncep](../../institucions/justicia/tingas-pres-per-lo-princep.md)).
+   **No és una dada de Brutails**: la mateixa taula també escriu «sac = 6
+   sisterons», i el corpus no arbitra si és una equivalència o una etiqueta
+   divergent.
 3. **Les mesures perdudes** que els documents esmenten i que ell no defineix: la
    ***justia*** d'oli (14 de febrer de 1445) i el ***cortó*** d'oli (3 d'abril de
    1446), tots dos «**ad rectam mensuram Vallium Andorre**».
