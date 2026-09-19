@@ -66,7 +66,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus cinc partits.**
+- ~~**Els seus cinc partits.**~~ **[parcial · 2026-09-19]** El resum de la
+  fitxa dona **5 partits amb l'absoluta**, però la taula de seleccions només en
+  mostra **2** per a Andorra absoluta (a més de 5 amb l'U19 i 10 amb l'U21).
+  La divergència queda registrada i no arbitrada; falten els rivals i les
+  dates.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
