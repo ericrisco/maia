@@ -90,9 +90,10 @@ més** a la llista que aquesta branca va acumulant.
   **Això no és una anècdota**: **és com funciona l'esport d'un país de
   setanta-set mil habitants**, i **la fitxa de
   [Xavier Capdevila](./xavier-capdevila.md), bomber, diu el mateix.**
-- **Els seus germans David i Joan també són esquiadors de muntanya de
+- ~~**Els seus germans David i Joan també són esquiadors de muntanya de
   competició** — **[David Albós](./david-albos.md)** és, a més, **set vegades
-  campió d'Andorra de contrarellotge en ciclisme.**
+  campió d'Andorra de contrarellotge en ciclisme.**~~ — **`no-es-buit`**:
+  és una nota de context familiar, no una pregunta de recerca pendent.
 
 ## Related
 
