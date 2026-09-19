@@ -69,12 +69,24 @@ territori nacional blindat**, en un país que no té on posar la gent.
 
 ## El que falta
 
-- **El planejament real**: què és un pla d'ordenació parroquial, qui decideix,
-  com es qualifica el sòl. Ho fan **els comuns**, i això vol dir **set
-  urbanismes**.
-- **Les ordinacions** comunals sobre construcció — el corpus ja té el mot
+- ~~**El planejament real**: què és un pla d'ordenació parroquial, qui decideix,
+  com es qualifica el sòl.~~ — **`parcial` el 19-09-2026**: la **Llei
+  qualificada d'ordenació del territori i urbanisme**, sancionada el **29 de
+  desembre del 2000** i publicada al **BOPA núm. 10, any 13, del 24 de gener
+  del 2001**, reserva als comuns la redacció, aprovació i publicació dels plans
+  d'ordenació i urbanisme parroquial i l'atorgament de llicències (**article
+  11**), amb aprovació prèvia del Govern (**article 10**). Els plans fixen
+  l'edificabilitat global de cada parròquia (**article 23**) i classifiquen el
+  sòl en **urbà, urbanitzable i no urbanitzable** (**article 24**). El corpus
+  encara no ha buidat els set plans ni les seves revisions.
+- ~~**Les ordinacions** comunals sobre construcció — el corpus ja té el mot
   ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)) i cap
-  contingut.
+  contingut.~~ — **`parcial` el 19-09-2026**: la mateixa llei encomana als
+  comuns redactar, aprovar i publicar les ordinacions reguladores de la
+  normativa subsidiària i de rehabilitació (**article 11**) i preveu que les
+  ordinacions vigents s'apliquin mentre no s'aprovi el pla parroquial
+  (disposicions transitòries). El text de cada ordinació comunal encara no és al
+  corpus ([font BOPA](../../../raw/consell-general/bopa-lgotu-original-2000.txt)).
 - **L'alçada i la densitat**: com s'ha construït a Andorra la Vella i
   Escaldes, que formen un continu urbà.
 - Les **estacions d'esquí** com a fet urbanístic, no com a indústria.
