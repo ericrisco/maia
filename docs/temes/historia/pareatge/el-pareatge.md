@@ -335,8 +335,14 @@ pp. 30–36).
   corpus no l'esmenta**, i **és el contrafactual d'aquesta fitxa**: **el mateix
   instrument, el mateix senyor, la vall del costat, i cap estat.** **`no-es-buit`**:
   és context comparatiu incorporat, no una pregunta pendent.
-- **Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
-  lectura de l'autora.
+- ~~**Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
+  lectura de l'autora.~~ — **`parcial`, confirmat el 19-09-2026**: André Vilar,
+  a *L'Andorre* (1904, pp. 26-28), confirma la posició de dret feudal —qui ret
+  homenatge és vassall— i explica que els drets episcopals queden afirmats en
+  principi però sacrificats en l'aplicació. **Això dona una confirmació
+  independent de la relació feudal i no permet convertir automàticament la
+  fórmula de l'autora («la sobirania requeia a Catalunya») en una conclusió
+  historiogràfica única**: la fitxa conserva les dues lectures.
 
 > **Afegit el 16-09-2026, des d'un jurista que escriu noranta anys abans.**
 > **André Vilar, *L'Andorre* (1904), pp. 26-28**, dedica el capítol dels paréages
