@@ -104,7 +104,7 @@ Aquesta és la tercera dada, i tanca la sèrie:
 
 | Fita | Any | Qui |
 | --- | --- | --- |
-| **Primera dona elegida en unes eleccions** | **1973** | **Consellera de comú a Escaldes** — nom no localitzat. **Buit registrat** |
+| **Primera dona elegida en unes eleccions** | **1973** | **Carme Travesset Travesset**, consellera del Quart d'Escaldes-Engordany |
 | **Primera consellera general, per substitució** | **1984** | **Mercè Bonell** |
 | **Primera dona elegida al Consell General** | **1985** | **Maria Teresa Armengol i Bonet** |
 | **Primera dona al Consell Superior de la Justícia** | **2005** | **Maria Teresa Armengol i Bonet**, altre cop |
@@ -234,8 +234,12 @@ de cada moment i no pas a un programa preordenat»**
 
 1. **Els noms de les set** peticionàries de 1967 i **la llista de les 378**.
    **Prioritari.**
-2. **El nom de la primera dona elegida** —consellera de comú a Escaldes, 1973—
-   que cap font consultada no dona.
+2. ~~**El nom de la primera dona elegida** —consellera de comú a Escaldes, 1973—~~ —
+   **`resolt` el 19-09-2026**: és **Carme Travesset Travesset**, elegida
+   consellera del Quart d'Escaldes-Engordany el **1973**; el catàleg de les
+   sufragistes data l'acte de jurament el **28 de desembre de 1973**
+   ([font](../../../fonts/reig-fundacio-sufragistes-2025.md), p. 93 del PDF).
+   La identificació també consta a la nota del [Govern d'Andorra](../../../fonts/govern-sufragi-femeni-2025.md).
 3. ~~Si hi va haver **alguna consellera general abans del 1985** per una via que
    no fos l'elecció democràtica~~ — **tancat**: **Mercè Bonell, 1984**, per
    substitució. ~~**Segueix obert qui era i a qui substituïa.**~~ — **a qui
