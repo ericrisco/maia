@@ -62,7 +62,7 @@ Vegeu [els abanderats](../competicio/els-abanderats.md).
 - **La relació amb Mònica Dòria**: mateix club? Mateixa escola? **El corpus no
   ho sap** i **és la pregunta que explicaria com un país sense riu navegable
   produeix dues piragüistes olímpiques.**
-- **On s'entrena el piragüisme a Andorra.**
+- ~~**On s'entrena el piragüisme a Andorra.**~~ — **`parcial` el 19-09-2026**: la fitxa de **Mònica Dòria** situa el canal de formació al **Parc Olímpic del Segre, a la Seu d'Urgell**, fora d'Andorra. El corpus encara no té una instal·lació de piragüisme identificada dins del Principat ni sap si n'hi ha cap.
 
 ## Related
 
