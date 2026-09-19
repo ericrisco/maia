@@ -141,7 +141,7 @@ també ha d'evitar la malaltia.
 
 ## Buits registrats
 
-- **Per què 111 i no 150.**
+- ~~**Per què 111 i no 150.**~~ — **`parcial` el 2026-09-19**: el pla de viabilitat de **1988** preveia formar **150 infermeres en deu anys**, mentre que la font compta **111 titulades el 2000**. **La font no explica si la diferència prové de la demanda, de les candidates o d’una projecció inicial massa alta.**
 - **Quantes infermeres andorranes hi ha avui** i quin percentatge — la xifra del
   10% del 1987 **demana un tancament**. **Buit prioritari.** **Comprovat el
   18-09-2026**: **l'API pública del Departament d'Estadística no té cap
