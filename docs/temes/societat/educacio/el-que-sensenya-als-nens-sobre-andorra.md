@@ -235,13 +235,26 @@ estacions d'esquí, les necessitats energètiques i les alternatives al creixeme
 econòmic. El programa queda, així, llegit com a estructura i prescripció; encara
 caldria documentar com s'aplica a centres, grups i cursos concrets.
 
+### I el medi d'educació maternal
+
+També s'ha llegit el PDF de **26 pàgines** que correspon a l'annex II del Decret
+del **21-07-2021** ([còpia local](../../../raw/web/societat/formacio-andorrana/medi-andorra-maternal-2021.pdf)).
+Per a maternal, el medi es construeix amb dues competències: situar-se en l'espai
+proper i en el temps, i explorar qüestions socials de l'entorn. Els tres blocs són
+**Jo i les altres persones** (identitat, famílies, escola i parròquia), **Medi i
+societat** (casa, espais públics, paisatge, flora, fauna, aigua i estacions) i
+**Identitats, memòries i cultura** (història familiar, calendari, festes,
+tradicions, cançons, rondalles i jocs). El PDF concreta procediments d'observació,
+comparació i relat oral, i demana respecte per la pluralitat d'identitats i per les
+manifestacions culturals.
+
 ## Buits registrats
 
-- **Els altres programes nous encara no s'han llegit.** El PDF annex del
-  **Programa de medi d'Andorra de primera ensenyança (2022)** ja és al corpus i
-  permet llegir el contingut vigent d'aquest nivell; resten pendents els annexos
-  de maternal, llengua catalana i ciències humanes i socials dels altres nivells.
-  `Parcial: cal baixar i llegir els altres PDF annexos.`
+- **Els altres programes nous encara no s'han llegit.** Els annexos del
+  **Programa de medi d'Andorra de primera ensenyança (2022)** i d'**educació
+  maternal (2021)** ja són al corpus; resten pendents els de llengua catalana i
+  ciències humanes i socials dels altres nivells. `Parcial: cal baixar i llegir
+  els altres PDF annexos.`
 - **El programa de segona ensenyança del 1999** i el de **batxillerat** que
   l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   `Requereix una cerca per data, no per frase.`
