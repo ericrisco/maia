@@ -159,12 +159,14 @@ apunten, cap amb la precisió d'un arbre explícit.**
   ([font](../../fonts/eltemps-ribas-reig-feudalisme.md)). **El 1994
   impulsa que la banca contribueixi per primer cop a l'erari públic** i
   **promou la nacionalitat per als fills de forans nascuts al país.**
-- **Dues dates que discrepen.** La font diu que dimiteix **l'1 de maig de 1984**
-  i que el substitueixen **el 25 de maig**; [la llista dels caps de
-  Govern](./els-caps-de-govern.md) diu que el mandat acaba el **21 de maig**. I
-  diu que dimiteix **el novembre del 1994** quan la llista dona **7 de
-  desembre**. **Dimissió i relleu no són la mateixa data**, i el corpus no té
-  amb què separar-les.
+- ~~**Dues dates que discrepen.**~~ — **`parcial` el 2026-09-19**: el bolcat
+  local de Ribas dona **1 de maig de 1984** per a la dimissió i **25 de maig**
+  per a la substitució per Josep Pintat; la [llista dels caps de Govern](./els-caps-de-govern.md)
+  dona **21 de maig** com a final del mandat. **La distinció entre dimissió i
+  relleu queda establerta, però la divergència de la llista es conserva sense
+  arbitrar-la.** Per al segon govern, el bolcat només diu **novembre de 1994** i
+  la llista dona **7 de desembre**: aquesta data encara no es pot separar amb
+  una font més precisa.
 
 ## Related
 
