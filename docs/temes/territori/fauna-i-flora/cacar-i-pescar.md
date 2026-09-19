@@ -166,18 +166,11 @@ propietat privada**.
   es queden el peix i el 53,1% dels turistes el tornen**, **tres de cada deu
   llicències de pesca de residents són de menors**, i **el compliment dels plans
   de caça del mufló cau del 89% al 26,5%** en cinc anys.
-- **Les vedes del segle XVIII sí que consten, i la manera de fer-les complir
-  encara més. — Afegit el 16-09-2026.** El **capítol III del llibre III del
-  Politar** diu que el Consell General privava cada any **la caça de perdius i
-  altra caça «de publica utilitat» de Nostra Senyora de març a Nostra Senyora de
-  setembre**, i **la pesca «ab tot genero de instruments» de Sant Miquel de
-  setembre a Nostra Senyora de febrer**; i que per fer complir la primera manava
-  **«als Consols de las parroquias recollien en sa casa tots los esparbes de sa
-  parroquia fins sie finida la prohibicio»**
+- ~~**Les vedes del segle XVIII sí que consten, i la manera de fer-les complir
+  encara més.**~~ — **`parcial` el 19-09-2026**: el **capítol III del llibre
+  III del *Politar*** documenta la veda de caça de març a setembre, la de pesca
+  de setembre a febrer, la facultat privativa del Consell General i la
+  confiscació dels esparvers pels cònsols
   ([una persona, un bou, un colomer](../../historia/antic-regim/una-persona-un-bou-un-colomer.md)).
-  **Durant la veda, els cònsols guardaven a casa els esparvers de la
-  parròquia**: **no es vigilava el caçador, es requisava l'ocell.** I **caçar i
-  pescar eren facultat privativa del Consell General**, que també **posava preu
-  a «la cassa, truites, barbs y altres peyxos»**. **Segueix obert** si la veda
-  tenia excepcions i **quina relació té amb el calendari de vedes d'avui**, que
-  el corpus no ha localitzat.
+  **Segueix obert** si tenia excepcions i **quina relació té amb el calendari de
+  vedes d’avui**, que el corpus no ha localitzat.
