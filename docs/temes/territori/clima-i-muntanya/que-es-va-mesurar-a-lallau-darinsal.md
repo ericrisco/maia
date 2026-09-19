@@ -167,11 +167,13 @@ del fenomen. No és un nivell de perill emès pel
   el 19-09-2026**: s'ha llegit tot el text i s'han vist sis pàgines, però no
   s'han reproduït els models de 1996 ni auditat les equacions, digitalitzat els
   polígons o verificat visualment la resta d'imatges i suplements.
-- La p. 12 del treball de 2020 imprimeix magnituds anomenades massa
+- ~~La p. 12 del treball de 2020 imprimeix magnituds anomenades massa
   amb unitats m³. La pàgina i el render es conserven; no es corregeix
   silenciosament a kg ni s'incorpora com a massa validada. No s'ha
   obtingut una errata editorial; els endpoints MDPI consultats
-  han retornat 429.
+  han retornat 429.~~ — **`no-es-buit` el 19-09-2026**: és un avís de
+  preservació d'una discrepància de la font, no una dada que el corpus presenti
+  com a resolta ni una pregunta independent.
 - El pla de 2022, p. 8, esmenta més de 600 kPa, sense contrast
   original aconseguit aquí. Els valors inferits el 2020 per arbres
   i edificis no s'han equiparat automàticament a aquest màxim.
