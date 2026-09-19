@@ -173,8 +173,11 @@ relacionades; registra que ara hi ha una finestra temporal.`
   **`resolt`**: **ja té fitxa**,
   [La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
   amb el copríncep episcopal, amb els períodes datats i l'origen documentat.
-- **El text sencer del decret de Caixal del 22 d'abril de 1866** segueix sense
-  veure's. `Se'n coneix el final, citat; no l'imprès.`
+- ~~**El text sencer del decret de Caixal del 22 d'abril de 1866** segueix sense
+  veure's.~~ — **`parcial`, actualitzat el 2026-09-19**: la fitxa ja conserva el
+  principi i el final citats del decret, inclosa la regla del govern conjunt
+  dels veguers i l'actuació del present en absència de l'altre. Continua
+  pendent l'imprès complet.
 
   > **Afegit el 15-09-2026, i ve del bisbe mateix.** **El decret de Caixal del 22
   > d'abril de 1866**, posat al capdavant del Pla de Reforma i citat a *La cuestión

@@ -509,8 +509,10 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    **el 2026-09-18**: [Andorra als Jocs Paralímpics](./andorra-als-jocs-paralimpics.md).
    **Vuit Jocs des del 2002, sis esportistes, cap medalla**, i **el millor
    resultat és un novè lloc de Paquita Ramírez a Vancouver 2010.**
-8. **El biatló**: Olympedia el llista i no se'n troba cap biatleta. **Desacord
-   obert.**
+8. ~~**El biatló**: Olympedia el llista i no se'n troba cap biatleta. **Desacord
+   obert.**~~ — **`resolt` el 2026-09-19**: la mateixa fitxa ja identifica
+   **Laure Soulié**, del Pas de la Casa, que va córrer l'individual i l'esprint
+   a Sotxi 2014 (48a i 66a).
 9. ~~**Els Jocs Mediterranis**: hi va Andorra. Ho revela de retruc la fitxa
    d'[Èric Risco](../../persones/eric-risco.md), **i el corpus no en sap res
    més**.~~ — **`resolt`, i era un buit duplicat**: [els altres
