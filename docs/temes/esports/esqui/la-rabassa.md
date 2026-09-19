@@ -55,9 +55,11 @@ col·lectives i privades i lloguer d'equip des dels 5 anys —
    **5 km de pistes d'esquí de fons**. Entre 1995 i 1996 s'hi afegeixen 10 km
    més i el xalet; el corpus conserva la distinció entre inici de l'estació i
    ampliacions posteriors.
-3. **La resta d'estacions andorranes**, una per una — segueix sent un
-   buit obert i confirmat a
-   [esquí](../README.md).
+3. ~~**La resta d'estacions andorranes**, una per una.~~ — **`resolt` el
+   2026-09-19**: la subbranca d'[estacions](../../economia/turisme-i-neu/estacions/README.md)
+   ja té fitxes pròpies per a **Grandvalira, Vallnord, PGI i Naturland**, i La
+   Rabassa queda documentada aquí. El buit separat de visitants, facturació,
+   ocupació i llocs de treball continua obert a l'índex.
 
 ## Related
 
