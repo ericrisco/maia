@@ -69,9 +69,10 @@ afiliar els beneficiaris a les branques general i de jubilació.
   l'evidència citada aquí és el text obtingut directament del BOPA.
 - No s'han llegit expedients ni instruccions que delimitin quines activitats
   es consideraven sectors vinculats a l'esquí o com s'acreditava cada cas.
-- L'article 26 bis.12 lligava el final de la flexibilització a l'inici normal
-  de la temporada. No s'ha verificat una decisió administrativa que fixés
-  aquella data. Sí que s'ha llegit la derogació expressa de febrer de 2021.
+- ~~Lectura de l'article 26 bis.12 i de la derogació de febrer de 2021~~ —
+  **`parcial` el 19-09-2026**: l'article lligava el final de la flexibilització
+  a l'inici normal de la temporada, però no s'ha verificat una decisió
+  administrativa que fixés aquella data.
 - L'article 26 bis.11 incloïa el rebuig d'una oferta adequada entre les causes
   d'extinció. No s'ha investigat com s'interpretava aquesta adequació en els
   expedients excepcionals.
