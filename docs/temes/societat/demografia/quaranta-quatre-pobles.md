@@ -96,8 +96,14 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
 
 ## Buits registrats
 
-- **Què va passar a Escàs**, que perd el 80,3% dels seus habitants entre el
-  2010 i el 2025. `pregunta_oberta`
+- ~~**Què va passar a Escàs**, que perd el 80,3% dels seus habitants entre el
+  2010 i el 2025.~~ — **`parcial` el 22-09-2026**: [la fitxa dels quarts i
+  veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md) documenta
+  que **Escàs entra a principi dels anys vuitanta a la mancomunitat de serveis
+  amb la Massana, Erts i Arinsal**, en el context de la fallida dels quarts per
+  l'esgotament de les tallades de bosc i l'endeutament. **Això fixa un canvi
+  institucional i de serveis**, però no explica encara la caiguda demogràfica
+  concreta de **61 habitants (2010) a 12 (2025)**.
 - **La sèrie per poble no arrenca fins al 2010.** **Del despoblament dels
   pobles alts al segle XX** —que és el fenomen que el corpus documenta amb
   textos— **no hi ha xifres per nucli.** `font_externa`
