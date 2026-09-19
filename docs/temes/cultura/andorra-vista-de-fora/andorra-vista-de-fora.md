@@ -63,6 +63,13 @@ clandestí de fugitius per la frontera durant la Segona Guerra Mundial
 els directors «**no coneixien gens aquella Andorra**» i hi van abocar **elements
 genèrics del Pirineu occidental**.
 
+La producció era la minisèrie **_Andorra, entre el torb i la Gestapo_**, basada
+en la novel·la de Francesc Viadiu, de **quatre capítols** i dirigida per
+**Lluís Maria Güell**. El *Periòdic d'Andorra* la data el **1999**, mentre que
+el catàleg de producció de 3Cat la data el **2000**: la identitat i el director
+queden resolts, però l'any encara és **`parcial`** per aquesta discrepància
+([fonts de premsa i catàleg](../../../raw/web/cultura/entre-torb-i-gestapo-adaptacio-1999-2000.txt)).
+
 ### L'error que ho delata tot
 
 A l'adaptació surt una botiga amb un rètol que diu «**Estanc**».
@@ -96,7 +103,10 @@ comprovable** ([el cas Amades](../../historia/historiografia/el-cas-amades.md)).
 ## Buits registrats
 
 1. **La novel·la i la pel·lícula de Sandy**, vistes de primera mà.
-2. **Quina adaptació televisiva** era exactament i de quin any.
+2. ~~**Quina adaptació televisiva** era exactament i de quin any.~~ — **`parcial`
+   el 19-09-2026**: identificada com **_Andorra, entre el torb i la Gestapo_**,
+   minisèrie de quatre capítols dirigida per Lluís Maria Güell; les fonts
+   discrepen entre **1999 i 2000** ([font](../../../raw/web/cultura/entre-torb-i-gestapo-adaptacio-1999-2000.txt)).
 3. La **novel·la de Viadiu** original, llegida.
 4. La **resta del catàleg**: viatgers romàntics, documentals, i el cinema que
    s'hagi rodat a Andorra.
