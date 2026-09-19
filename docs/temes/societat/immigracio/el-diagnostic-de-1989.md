@@ -225,7 +225,7 @@ diferents.**
   Magna** — **tots ells temes amb buits oberts en altres branques.**
   **Aquest és el buit més barat que li queda al corpus, i és de lectura, no de
   font.**
-- **Si Andorra ha adoptat mai** una definició estadística de resident, i quan.
+- ~~**Si Andorra ha adoptat mai** una definició estadística de resident, i quan.~~ — **`resolt` com a duplicat el 2026-09-19**: el buit canònic i l'estat **`parcial`** són a [qui compta com a resident](../demografia/qui-compta-com-a-resident.md), que separa la definició estadística del registre legal i deixa obert si s'ha adoptat plenament.
 
 ## Related
 
