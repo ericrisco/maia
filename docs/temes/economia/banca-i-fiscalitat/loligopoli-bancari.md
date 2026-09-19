@@ -90,11 +90,13 @@ andorrana del canvi de segle.
   [el Banc Agrícol](./el-banc-agricol.md), secció **«La clàusula del 5%»**.
   **Continua obert: quant va recaptar**, i **quina de les dues descripcions
   és la del contracte**.
-- **Què era SOBANCA**, i per què va fer fallida.
-  **`obert` — confirmat el 2026-09-13:** el nom només surt en aquesta fitxa, a
-  [el Banc Agrícol](./el-banc-agricol.md) i a la
-  [fitxa de font](../../../fonts/wikipedia-anys-daurats.md). **Cap de les tres
-  no diu què era.**
+- ~~**Què era SOBANCA**, i per què va fer fallida.~~ — **`parcial` el
+  2026-09-19**: la memòria històrica de Creand ([text local](../../../raw/web/economia/creand-75-anys-1968-sobanca.txt)) identifica el nom anterior com a
+  **Banc Immobiliari i Mercantil d'Andorra**, que el **1960** adopta el nom de
+  **Societat de Banca Andorrana (SOBANCA)**. També documenta la **fallida de
+  1968**, l'assumpció de l'actiu i el passiu pels altres bancs, un cost final de
+  liquidació d'uns **34 milions de pessetes** i el tancament del procediment el
+  **1991**. **La font no explica la causa de la fallida**, que continua oberta.
 - ~~**Quan acaba l'oligopoli.**~~ — **`parcial` el 19-09-2026**: la font només
   l'acota **fins al principi del segle XXI** i no en dona l'any exacte.
 - **Si l'acord del 1968 consta per escrit** a les actes del Consell General.
