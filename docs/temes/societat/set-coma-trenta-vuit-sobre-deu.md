@@ -198,10 +198,12 @@ diferents i la font les publica totes dues.**
 
 ## Buits registrats
 
-- **No hi ha sèrie.** **Cada indicador té el seu any** i **la majoria en tenen
+- ~~**No hi ha sèrie.** **Cada indicador té el seu any** i **la majoria en tenen
   un de sol**. **Res d'això es pot llegir com una evolució**, excepte
-  l'ocupació, l'atur i el nivell formatiu, que sí que tenen 2018-2024.
-  `font_externa`
+  l'ocupació, l'atur i el nivell formatiu, que sí que tenen 2018-2024.~~ —
+  **`no-es-buit` el 19-09-2026: és un avís metodològic sobre la cobertura
+  temporal de la taula, no una pregunta ni una afirmació sobre l'absència de
+  dades al país.**
 - **La formació contínua salta del 2,4% al 9,8% en un any** (2023 → 2024).
   **El corpus no ho cita com un canvi real**: **no s'ha trobat cap nota
   metodològica** que expliqui un factor de quatre. `pregunta_oberta`
