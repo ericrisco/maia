@@ -206,7 +206,12 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   19-09-2026**: les ordinacions de preus públics localitzades per a les set
   parròquies confirmen oferta per a **infants i adults**, però no publiquen un
   recompte agregat d'alumnes.
-- **El batxillerat artístic**: es va crear?
+- ~~**El batxillerat artístic**: es va crear?~~ — **`parcial`, actualitzat el
+  2026-09-19**: [la fitxa de l'Escola Andorrana](../../societat/educacio/lescola-andorrana.md)
+  contrasta la proposta amb l'oferta del curs **1999-2000**, que només tenia
+  les modalitats **cientificotecnològica, economicosocial i
+  humanisticolingüística**. Això tanca que no existia en aquella fotografia;
+  continua obert si es va crear després.
 - **Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
   [artesania](../artesania/README.md).
 - **El quadre d'objectius sencer**: el corpus n'ha pogut llegir sis files i el
