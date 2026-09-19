@@ -140,9 +140,9 @@ error: és una escala d'arrelament, amb dos esglaons.
 
 - **Quant recapta** cadascuna d'aquestes figures, i si el mercat s'ha mogut des
   del 2025, **no consta**: la llei descriu el marc, no el resultat.
-- **La resta del títol V** —les modificacions concretes de l'IRPF, article 79, i
-  les regles de càlcul del guany— **només s'han llegit en el que fixa tipus i
-  llindars**.
+- ~~**La resta del títol V** —les modificacions concretes de l'IRPF, article 79,
+  i les regles de càlcul del guany—~~ **`parcial` el 19-09-2026**: **només
+  s'han llegit en el que fixa tipus i llindars**.
 - ~~**El règim de vinculació** entre persones jurídiques (article 8.3 de la Llei
   3/2024 modificada) **s'ha citat i no s'ha buidat**.~~ — **`resolt` el
   17-09-2026** al [BOPA](../../../fonts/bopa.md)
