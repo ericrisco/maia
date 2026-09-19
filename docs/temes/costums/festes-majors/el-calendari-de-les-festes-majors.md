@@ -80,8 +80,12 @@ ritu de pas.**
 - **Les tres parròquies que falten**, amb data.
 - **Una fitxa per festa major**, amb el seu programa i els seus actes propis.
 - Els **sants patrons** de cada parròquia, que són qui fixa la data.
-- Els **esbarts** del país — l'Esbart Laurèdia n'és un i el corpus no té la
-  llista.
+- ~~Els **esbarts** del país — l'Esbart Laurèdia n'és un i el corpus no té la
+  llista.~~ — **`parcial` el 2026-09-19**: [la fitxa de
+  danses](../danses/danses.md) ja identifica l'**Esbart Laurèdia** i l'**Esbart
+  Dansaire d'Andorra la Vella**, i en dona les dates documentades de 1963 i de
+  la fundació de l'onada dels refugiats. **Continuen oberts la data de fundació
+  de cada esbart, els estatuts i els altres grups.**
 - Els **gegants i capgrossos**: quins són, com es diuen, des de quan.
 - Què es **canta** i què es **menja** a cada festa.
 
