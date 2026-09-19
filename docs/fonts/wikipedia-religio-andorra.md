@@ -73,9 +73,11 @@ dotzena de sacerdots presidits per un arxiprest.**
 [Anna Maria Janer](https://ca.wikipedia.org/wiki/Anna_Maria_Janer_i_Anglarill)
 al segle XIX, a petició del bisbe Caixal.**
 
-**El corpus no tenia cap d'aquestes dades**, i **toquen directament
-[l'educació](../temes/societat/educacio/README.md)**: **tres dels col·legis del
-país són confessionals i els dirigeixen dues congregacions.** **Buit obert.**
+**Aquestes dades ja tenen cobertura al corpus**, a
+[l'ensenyament confessional](../temes/societat/educacio/lensenyament-confessional.md)
+i al [mapa escolar del 2000](../temes/societat/educacio/el-mapa-escolar-del-2000.md):
+**tres dels col·legis del país són confessionals i els dirigeixen dues
+congregacions.** Aquesta font queda com a verificació creuada, no com a buit nou.
 
 ## El que en surt
 
