@@ -99,7 +99,10 @@ anys després — i és el millor argument possible a favor seu.
   i [la quèstia](../../institucions/coprincipat/la-questia.md); encara falten el
   cònsol, la visura, la consòrcia, l'emprivari, el foc i lloc i el defens com a
   fitxes pròpies.
-- Els **Costums** i el dret consuetudinari anterior al Manual Digest.
+- ~~Els **Costums** i el dret consuetudinari anterior al Manual Digest.~~ —
+  **`resolt` el 2026-09-19** com a buit duplicat: l'enunciat canònic queda al
+  panorama de [l'edat mitjana](../edat-mitjana/andorra-a-ledat-mitjana.md), que
+  ja el conserva com a buit únic.
 - Com es **governava una parròquia** en la pràctica: el consell, els caps de
   casa, els quarts.
 - El **dret de casa**: hereu, pubilla, successió — l'estructura social de

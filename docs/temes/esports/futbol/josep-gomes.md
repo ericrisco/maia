@@ -87,7 +87,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   etapes**).
 - **Si continua jugant.** — **`obert`**: **la instantània del bolcat marca fins
   on arriba el que se'n sap.**
-- **La Primera Divisió andorrana i els seus clubs comunitaris.**
+- ~~**La Primera Divisió andorrana i els seus clubs comunitaris.**~~ —
+  **`parcial`, actualitzat el 2026-09-19**: [la fitxa de clubs](./clubs-i-competicions/els-clubs.md)
+  ja situa **Casa de Portugal** dins la Primera Divisió i documenta que tres
+  clubs neixen de la comunitat portuguesa, però encara no hi ha fitxa pròpia ni
+  història completa per a tots els clubs comunitaris.
 
 ## Related
 

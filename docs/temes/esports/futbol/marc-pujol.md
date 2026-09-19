@@ -102,7 +102,9 @@ contra San Marino**. Vegeu [la selecció](./la-seleccio.md).
   **Dos són en victòria contra San Marino** —**3-0 el 12 d'octubre del 2021** i
   **2-0 el 13 d'octubre del 2024**—, **i el corpus no tenia cap d'aquestes dues
   victòries datades** ([la selecció](./la-seleccio.md)).
-- **La Primera Divisió andorrana.**
+- ~~**La Primera Divisió andorrana.**~~ — **`resolt` el 2026-09-19** com a buit
+  duplicat: la lliga, el FC Andorra i la Federació Andorrana de Futbol ja tenen
+  la fitxa canònica de [clubs i competicions](./clubs-i-competicions/README.md).
 
 ## Related
 

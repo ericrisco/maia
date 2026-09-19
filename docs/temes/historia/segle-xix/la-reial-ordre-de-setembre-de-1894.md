@@ -163,7 +163,11 @@ Septiembre» apunta a l'**1**, i **el corpus no ho dona per bo**.
 
 ## Buits registrats
 
-1. **El dia exacte** de la reial ordre, i el seu text a la ***Gaceta de Madrid***.
+1. ~~**El dia exacte** de la reial ordre, i el seu text a la ***Gaceta de Madrid***.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: el butlletí provincial conservat
+   documenta la circulació de l'ordre el **12 de setembre de 1894** i en
+   reprodueix el text; continua pendent consultar la versió publicada a la
+   *Gaceta de Madrid*.
 2. **Qui era el funcionari espanyol acreditat davant del Consell General**, i des
    de quan.
 3. **Si l'ordre es va complir**, i què va passar amb els afers judicials que hi
