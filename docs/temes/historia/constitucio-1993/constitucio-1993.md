@@ -96,13 +96,16 @@ el **títol I**, el **títol III dels coprínceps**, els articles **63 a 66** i 
   que llegeix el BOPA](./vuit-dies-i-no-mes-de-quinze.md) ja documenta que la
   Constitució es publica al **BOPA núm. 24, el 3 de maig de 1993**, data en què
   entra en vigor.
-- **El text no descriu un traspàs de sobirania.** El preàmbul diu que el poble
+- ~~**El text no descriu un traspàs de sobirania.** El preàmbul diu que el poble
   andorrà aprova la Constitució **«en exercici de la seva pròpia sobirania»**, i
   la fórmula de promulgació diu que els coprínceps **«la fem nostra»**. L'article
   1.3 diu que la sobirania **resideix** en el poble. **El corpus registra les
-  dues frases i no arbitra** com s'ha d'explicar el 1993.
-- **L'article 43.2**: els poders dels coprínceps són **«iguals i derivats de la
-  present Constitució»**, i el títol el tenen **«a títol personal i exclusiu»**.
+  dues frases i no arbitra** com s'ha d'explicar el 1993.~~ — **`no-es-buit`**:
+  és una nota de contingut ja incorporada, no una pregunta pendent.
+- ~~**L'article 43.2**: els poders dels coprínceps són **«iguals i derivats de la
+  present Constitució»**, i el títol el tenen **«a títol personal i exclusiu»**.~~
+  — **`no-es-buit`**: és una citació constitucional ja transcrita, no un buit de
+  recerca.
 
 **El que segueix obert:** els **títols II, IV, V, VI, VII i VIII** —vuitanta
 articles, entre ells tot el catàleg de drets i llibertats— **no s'han
