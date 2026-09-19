@@ -243,10 +243,14 @@ caserius «*un tono de color obscuro*».
 
 ## Buits registrats
 
-1. **Comprovar que Ferran Valls i Taberner va ser jutge d'apel·lacions
-   d'Andorra**, **i entre quines dates.** **Prioritari i nou**: **el corpus cita
-   la seva edició dels privilegis i ara en sap la posició de l'editor per una
-   sola frase.**
+1. ~~**Comprovar que Ferran Valls i Taberner va ser jutge d'apel·lacions
+   d'Andorra**, **i entre quines dates.**~~ — **`parcial`, confirmat el
+   19-09-2026**: el passatge de Fernando de los Ríos, signat el desembre de
+   1918, l'anomena **«joven y erudito juez de apelación de Andorra don Fernando
+   Valls Taberner»**. Això confirma el càrrec **com a mínim en aquell moment** i
+   explica per què l'editor dels privilegis tenia accés directe a la justícia
+   andorrana. **La font no dona les dates d'inici i final del mandat ni una
+   segona verificació**, de manera que aquest residu continua obert.
 2. **Qui era José de Ribas**, veguer episcopal, i **quan va exercir.**
 3. **De quin any és el cens que dona 4.309**, i **qui el va fer.** **La font diu
    «el censo último» i no el data.**
