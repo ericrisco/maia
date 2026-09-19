@@ -288,12 +288,11 @@ Andorra, o les actes del Consell General de 1935 i 1949.`
    [l'oligopoli bancari](./loligopoli-bancari.md): **el 1957 els coprínceps
    prohibeixen bancs nous i el 1968 els existents es reparteixen el país a canvi
    d'assumir el deute de SOBANCA.**
-5. **Manel Cerqueda i Escaler**: la biografia. Consta que va crear **oficines de
-   comerç internacional a Milà, Casablanca i Andorra** abans del banc. **Això és
-   extraordinari per a un andorrà dels anys vint i el corpus no en sap res més.**
-   **`obert` — confirmat el 2026-09-13:** el nom només surt en aquesta fitxa i a
-   la seva [fitxa de font](../../../fonts/cerqueda-banca.md), i cap de les dues
-   no hi afegeix res.
+5. ~~**Manel Cerqueda i Escaler: la biografia.**~~ — **`parcial` el
+   19-09-2026**: consta que va crear **oficines de comerç internacional a Milà,
+   Casablanca i Andorra** abans del banc; el nom només surt en aquesta fitxa i
+   a la seva [fitxa de font](../../../fonts/cerqueda-banca.md), i cap de les
+   dues no hi afegeix cap altra dada biogràfica.
 6. ~~**Què va ser del Banc Agrícol** — existeix encara, amb quin nom?~~ —
    **tancat**: **es va fusionar amb Banca Reig i el resultat és AndBank**
    ([l'oligopoli bancari](./loligopoli-bancari.md)).
