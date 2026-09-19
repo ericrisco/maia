@@ -73,12 +73,18 @@ gent i no té on posar-la.
   **`resolt`**: [Els tres sistemes electorals](../../politica/sistema-electoral/els-tres-sistemes-electorals.md)
   i [quants diputats](../../politica/parlamentarisme/quants-diputats.md)
   expliquen la meitat nacional proporcional i la meitat parroquial majoritària.
-- **La crisi de la BPA (Banca Privada d'Andorra)**, buscada expressament i **no
+- ~~**La crisi de la BPA (Banca Privada d'Andorra)**, buscada expressament i **no
   documentada en aquesta cerca**. És un episodi central de la història recent i
-  queda com a **buit registrat prioritari**.
+  queda com a **buit registrat prioritari**.~~ — **`parcial`**: [la fitxa del
+  cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md) ja en dona la
+  cronologia, l'impacte sobre els clients i la dimensió de sobirania; la
+  investigació judicial continua oberta.
 - Els **acords fiscals** concrets amb la UE, Espanya i França, i l'**IRPF
   andorrà**: quan entra, amb quins tipus.
-- La **globalització a Andorra** — hi ha article específic no llegit.
+- ~~La **globalització a Andorra** — hi ha article específic no llegit.~~ —
+  **`parcial`**: [la globalització i el català](../../llengua/politica-linguistica/la-globalitzacio-i-el-catala.md)
+  ja recull el debat andorrà i dues veus locals; encara falta una síntesi
+  econòmica i social de la globalització al país.
 - L'article dels **40 anys del primer Govern executiu**, que situa l'executiu
   **abans** de la Constitució i que aquesta fitxa no explica.
 
