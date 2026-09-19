@@ -165,8 +165,21 @@ actualitzat amb els interessos legals**.
 
 - **Els preus reals** no hi són: la llei diu com es revisa la renda i no quant
   es paga.
-- **L'arrendament de local de negoci** —que la llei també cobreix, amb renda
-  variable segons facturació (article 66)— no s'ha desenvolupat aquí.
+- ~~**L'arrendament de local de negoci** —que la llei també cobreix, amb renda
+  variable segons facturació (article 66)— no s'ha desenvolupat aquí.~~ —
+  **`resolt` el 2026-09-19** amb el [títol IV del text consolidat local de la
+  Llei 15/2022](../../../raw/lleis/arrendaments-urbans.txt), articles 60–68.
+  L'article 60 n'estableix l'àmbit i el 61 la llibertat de pactes; el 62 fixa un
+  mínim de quatre anys i una pròrroga tàcita anual; el **63** permet pactar una
+  renda mínima fixa amb increment segons facturació, xifra de negoci o resultat,
+  amb lliurament periòdic dels comptes, i limita l'actualització anual a l'IPC.
+  El 64 regula el desistiment amb preavís i indemnització, reduïda si el negoci
+  ha tingut pèrdues durant els dos anys anteriors; el 65 exclou el lloguer de la
+  indústria sencera i els negocis de temporada; el 66 exigeix consentiment de
+  l'arrendador per al traspàs; el 67 permet la subrogació dels hereus mentre el
+  negoci és actiu, i el 68 aplica subsidiàriament les normes generals. **La
+  referència anterior a l'article 66 era errònia: la renda variable és a
+  l'article 63.**
 - ~~**La resta de la Llei 41/2022** és un paquet de modificacions d'altres
   normes i **només se n'han llegit dues**.~~ — **`resolt` el 17-09-2026: són
   dinou disposicions finals, i dotze modifiquen una altra norma**
