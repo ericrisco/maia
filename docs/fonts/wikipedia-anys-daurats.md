@@ -92,8 +92,9 @@ industrial que triomfava al país»— van contactar amb una constructora angles
 perquè es pogués fer un aeroport a la Seu d'Urgell**, que geogràficament té més
 condicions. **La font diu que el projecte «no deixa de ser un desig mitigat» i
 que torna a la premsa des dels anys 2000.** **Andorra no té aeroport i la
-frontera francesa es talla sovint per neu.** **Buit obert: qui és Josep Betriu i
-Tàpies.**
+frontera francesa es talla sovint per neu.** **El buit sobre qui és Josep
+Betriu i Tàpies queda tancat** amb [la font pròpia de l'aeroport](./wikipedia-aeroport-andorra.md)
+i la fitxa que en resumeix la biografia.
 
 **3. «La guerra de les ràdios».** **És la més important de les tres**, i el que
 n'ha sortit és a
