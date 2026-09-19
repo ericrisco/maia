@@ -337,8 +337,12 @@ treball com a impost.**
    partida de 1.450 pessetes no es pot desglossar sense saber-ho.**
 7. **Qui eren «algunas personas de los Valls»** que demanaven un criteri
    impositiu, i **on ho van escriure.**
-8. **El repartiment del llot**: **igual o proporcional.** **Divergència oberta
-   entre 1904 i 1918.**
+8. ~~**El repartiment del llot**: **igual o proporcional.**~~ — **`parcial` el
+   19-09-2026**: Brutails (1904) diu que totes les parròquies pagaven la mateixa
+   xifra, mentre que Ríos Urruti (1918) diu que cadascuna pagava en proporció de
+   la seva riquesa. **Les dues lectures i les seves dates queden documentades;
+   no es pot establir si hi va haver una reforma entre 1904 i 1918 o si una de
+   les fonts descriu malament la pràctica.**
 9. **Si les parròquies van començar a fer pressupost mai**, i quan.
 
 ## Related
