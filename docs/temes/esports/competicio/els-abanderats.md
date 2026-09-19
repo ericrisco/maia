@@ -141,9 +141,12 @@ Comitè Olímpic Andorrà o Olympedia.**
   comunicat citat no el donen.` **És la segona vegada que la bandera d'Andorra
   la porta algú que no és esportista**: **la primera va ser Jordi Casellas
   Albioc als Paralímpics de Londres 2012.**
-- **Els abanderats paralímpics**, dels quals el corpus en té dos:
-  [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md) (Sotxi 2014) i
-  **Jordi Casellas Albioc** (Londres 2012, que **no era l'esportista**).
+- ~~**Els abanderats paralímpics**, dels quals el corpus en té dos:
+  [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md) (Vancouver 2010) i
+  **Jordi Casellas Albioc** (Londres 2012, que **no era l'esportista**).~~ —
+  **`no-es-buit` el 19-09-2026**: és una nota d'abast ja documentada a [Andorra
+  als Jocs Paralímpics](./andorra-als-jocs-paralimpics.md); no afirma que s'hagin
+  identificat abanderats de totes les altres edicions.
 
 ## Related
 
