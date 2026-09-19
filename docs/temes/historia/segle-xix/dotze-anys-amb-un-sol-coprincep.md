@@ -298,8 +298,12 @@ tot aliè.
    nomenava els batlles de la banda episcopal, si el Tribunal de Corts es reunia,
    què passava amb l'alternança.** **Prioritari.**
 8. **Qui era el veguer protestant nomenat el 1880** i **quant va durar.**
-9. **De què va morir el condemnat de 1855**: **de les ferides de la detenció o a
-   la presó.** **Divergència oberta.**
+9. ~~**De què va morir el condemnat de 1855**: **de les ferides de la detenció o a
+   la presó.**~~ — **`parcial` el 2026-09-19**: la versió del Consell conservada a
+   [Se li reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md)
+   diu que va morir **poques setmanes després, de les ferides que tenia**. La
+   font resol la disjuntiva a favor de les ferides, però **encara falta
+   identificar el condemnat i la causa**.
 10. **El cas de 1885**: **qui era el condemnat, on havia de complir, i l'informe
     de Papinaud.** `El corpus no nomenaria el condemnat: era un particular.`
 
