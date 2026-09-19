@@ -86,9 +86,9 @@ previsions; no les converteix en una prohibició absoluta d'informar.
 
 ## Buits registrats
 
-- Còpia pública de 29 pàgines llegida en text. S'han inspeccionat el
-  mapa de p. 7 i diversos quadres i diagrames; no s'han verificat totes
-  les capes, parcel·les, fotografies ni posicions de control.
+- ~~Lectura de la còpia pública de 29 pàgines~~ — **`parcial` el 19-09-2026**:
+  s'han inspeccionat el mapa de p. 7 i diversos quadres i diagrames; no s'han
+  verificat totes les capes, parcel·les, fotografies ni posicions de control.
 - No s'ha trobat en aquesta còpia una solució a les discrepàncies de
   periodicitat i avisos. No s'ha contrastat una versió posterior ni el
   registre real d'actualitzacions, adhesions, formacions o activacions.
