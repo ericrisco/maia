@@ -166,11 +166,12 @@ queda en tota la branca d'esports.**
   **[els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
   ja hi remet.** **Víctor Martínez deu medalles, Toni Bernadó dotze, Montserrat
   Pujol sis, Laura Sallés sis, Mònica Ramírez cinc, Margarida Moreno tres.**
-- **Una divergència que el corpus registra i no arbitra**: **la taula d'aquesta
-  pàgina i la fitxa de [Mònica Ramírez](./monica-ramirez.md) li donen dos Jocs,
-  Londres 2012 i Rio 2016**, i **el bolcat de la seva pròpia font no esmenta Rio
-  enlloc.** **Cap de les dues afirmacions no s'esborra.**
-  `Requereix font externa: la llista d'inscrits de Rio 2016.`
+- ~~**La divergència sobre els Jocs de Mònica Ramírez.**~~ — **`resolt` el
+  19-09-2026 amb el bolcat local dels Jocs de Rio 2016**: hi consta inscrita als
+  **100 m lliures**, amb resultat **DNS**. La seva fitxa personal no en deia res
+  perquè no va sortir a l'aigua; la taula de la subbranca és correcta i ara la
+  divergència queda explicada. [La fitxa personal](./monica-ramirez.md) conserva
+  el detall de les cinc medalles i dels resultats olímpics.
 
 ## Related
 
