@@ -186,12 +186,13 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
    segueix obert és si es va executar mai**: allà el dot **no es cobra, es
    reallotja**. Vegeu [el dot va canviar de terra](./el-dot-va-canviar-de-terra.md).
 5. Els **pro-parents** — el mot i la figura.
-6. La relació entre el dot andorrà i el **dot català i balear**: l'autor els
-   equipara i el corpus **no ho ha verificat**. **Segona opinió trobada:**
-   Brutails, el 1904, sosté que **el dret supletori real d'Andorra és el català** i
-   ho prova, entre altres coses, **amb l'organització de la família sobre les
-   clàusules del contracte de matrimoni**. Vegeu
-   [el dret supletori](../../institucions/justicia/el-dret-supletori.md).
+6. ~~La relació entre el dot andorrà i el **dot català i balear**: l'autor els
+   equipara i el corpus **no ho ha verificat**.~~ — **`parcial` el 2026-09-19**:
+   [Segons lo poder de la casa](./segons-lo-poder-de-la-casa-a-coneixenca-dels-amics.md)
+   documenta que Brutails remet sistemàticament a **de Brocá i Amell** i a
+   **Vives** per a la **llegítima, l'opció dotal, la *tenuta* i l'*exovar***, i
+   sosté que el dret supletori real d'Andorra és el català. **La comparació
+   directa amb el dret català i balear encara no s'ha verificat.**
 
 ## Related
 
