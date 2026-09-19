@@ -158,9 +158,17 @@ pràcticament nul».**
 
 - **Les obres autoritzades del 1988 i del 1989.** **La taula de la ponència
   s'atura el 1987** encara que el text parli del 1990. `serie_estadistica`
-- **Quina va ser l'entitat bancària que va fer fallida** a la segona meitat dels
+- ~~**Quina va ser l'entitat bancària que va fer fallida** a la segona meitat dels
   seixanta, **i què va passar amb els seus dipositants.** **Vila no la
-  nomena**, i **és el fet que tanca el sector durant dècades.** **Prioritari.**
+  nomena**, i **és el fet que tanca el sector durant dècades.** **Prioritari.**~~
+  — **`parcial` el 19-09-2026**: el [llibre dels 75 anys de Crèdit
+  Andorrà](../../../raw/web/economia/creand-75-anys-1968-sobanca.pdf) identifica
+  l'entitat com la **Societat de Banca Andorrana (SOBANCA)**. La fallida es
+  declara el **1968**; per evitar el deteriorament de la plaça financera, els
+  altres bancs assumeixen **l'actiu i el passiu** de l'entitat, amb un cost final
+  de liquidació d'uns **34 milions de pessetes**. El procediment no es clausura
+  fins al **1991**. La font no dona la llista ni els imports individuals dels
+  dipositants, de manera que aquesta part queda oberta.
   `pregunta_oberta`
 - **La sèrie d'assalariats per sector entre el 1979 i el 1990.** La ponència
   només dona els dos extrems. `serie_estadistica`
