@@ -164,9 +164,11 @@ mou així:
 3. **Un recull de noms de casa andorrans.** **Segueix sent el buit prioritari de
    la branca.** `Requereix font externa: bibliografia onomàstica andorrana i el
    fons de l'Arxiu Nacional.`
-4. **Des de quan els andorrans porten els dos cognoms als actes oficials**, i
-   **si era costum o norma**. La font ho constata el 1904 i **no en dona data ni
-   disposició.**
+4. ~~**Des de quan els andorrans porten els dos cognoms als actes oficials**, i
+   **si era costum o norma**.~~ — **`parcial`, actualitzat el 2026-09-19**: la
+   font constata que **el 1904** els dos cognoms ja figuraven als actes oficials.
+   **Segueixen obertes la data d'origen i la disposició —o el costum— que ho
+   establí.**
 5. **Què són exactament «les circumstàncies solemnes»** en què s'afegeix el nom
    de la mare.
 6. **Si la fórmula «(a)» era d'ús notarial general** o **pròpia d'alguns
