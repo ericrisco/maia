@@ -82,7 +82,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   de la selecció](./la-seleccio.md) ja en dona el recompte de **2 gols** per a
   **129 partits**; el que continua obert és només saber en quins partits els
   va marcar.
-- **El seu comiat amb Andorra**, el 2024.
+- ~~**El seu comiat amb Andorra**, el 2024.~~ **[parcial · 2026-09-19]** La FAF documenta el reconeixement de la seva retirada de la selecció masculina a la Nit del Futbol 2025, i BeSoccer situa el darrer partit internacional registrat en l'**11 de juny de 2024**. Les fonts no descriuen un partit de comiat específic i discrepen en el recompte total (**129** contra **130**). ([fitxa de la font](../../../fonts/faf-marcio-vieira-retirada-2024.md))
 
 ## Related
 
