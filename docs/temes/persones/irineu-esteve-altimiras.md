@@ -80,7 +80,7 @@ casos no se'n treu cap.
    d'esquí nòrdic del país.
 3. **Els seus millors llocs de Copa del Món** —quants top-10, quants top-20—
    que la font no dona.
-4. **Per què entrena a Noruega** i com es finança.
+4. ~~**Per què entrena a Noruega** i com es finança.~~ — **`parcial` el 19-09-2026**: la fitxa ja documenta que entrena principalment a Noruega amb el **Team Aker Dæhlie**. La raó d'aquesta elecció i el finançament de la seva preparació encara no consten.
 5. ~~**Gina del Rio**, l'altra fondista andorrana, present a Milano Cortina
    2026.~~ — **`resolt` el 2026-09-19**: la [fitxa de Gina del Rio](../esports/esqui/esquiadors/gina-del-rio.md)
    confirma que va representar **Andorra als Jocs de Milano Cortina 2026** i
