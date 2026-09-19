@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: govern-andorra-web
-timestamp: 2026-09-18T21:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [territori, fauna, caça, pesca, societat, estadistica, segle-xxi]
 ---
 
@@ -223,8 +223,10 @@ que l'Administració creu que n'hi ha més.**
   la lectura**, vegeu
   «[La sèrie és més llarga](#la-serie-es-mes-llarga-i-diu-una-altra-cosa)».
   `De més antic, res: les divisions comencen el 2014 i el 2016.`
-- **Les espècies caçables**, que segueixen sense llista
-  ([caçar i pescar](./cacar-i-pescar.md)).
+- ~~**Les espècies caçables**, que segueixen sense llista
+  ([caçar i pescar](./cacar-i-pescar.md)).~~ — **`resolt` com a duplicat el
+  19-09-2026**: la llista normativa i la separació entre espècies caçables,
+  regulables i sotmeses a pla són a [Caçar i pescar](./cacar-i-pescar.md).
 
 ## Related
 

@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: jurisprudencia-ad
-timestamp: 2026-09-16T20:30:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [territori, fauna, caça, pesca, dret, societat, associacionisme]
 ---
 
@@ -138,8 +138,15 @@ propietat privada**.
 
 ## Buits registrats
 
-- **Quines espècies són caçables, la llei no ho diu.** Ho remet al reglament i
-  als convenis internacionals (article 3). El corpus té el marc i no la llista.
+- ~~**Quines espècies són caçables, la llei no ho diu.** Ho remet al reglament i
+  als convenis internacionals (article 3). El corpus té el marc i no la llista.~~
+  — **`resolt` el 19-09-2026**: el Reglament de caça aprovat pel **Decret
+  206/2025, del 4 de juny**, article 2, enumera com a caçables sense limitació
+  específica **gaig, garsa, griva, merla i tudó**, i amb limitacions de captura
+  **faisà, llebre, perdiu roja i perdiu xerra**. Els articles 3 i 4 separen les
+  espècies **regulables** (com cérvol, daina, guineu, mufló i porc senglar) de
+  les sotmeses a **pla de caça** (**cabirol, isard i mufló**). Font local:
+  [`decret-206-2025-reglament-caca.txt`](../../../raw/web/territori/caca/decret-206-2025-reglament-caca.txt).
 - ~~**Quants isards hi ha**, i si el llindar dels 300 s'ha arribat a incomplir mai,
   no consta.~~ — **`parcial` el 19-09-2026**: la pregunta de població és el
   mateix buit canònic que [Qui caça i qui pesca](./qui-caca-i-qui-pesca.md)
