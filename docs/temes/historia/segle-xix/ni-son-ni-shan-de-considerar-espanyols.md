@@ -188,11 +188,12 @@ atrás»** i s'hi notarà **«una enorme diferencia en sentido negativo»**.
 1. **Qui era el bisbe que va retirar els empleats judicials** i **quan exactament**.
    **La font diu «el antecesor de V. E. I.» i prou.** **Segueix com a buit
    prioritari**, ara **amb la formulació exacta de la font.**
-2. **Qui eren «los dos Jefes públicos del movimiento perturbador»**, **de quin
-   moviment** i **de quins fets se'ls acusava.** **La font els qualifica de
-   persones de «cualidad» i lligades al bisbe «con toda clase de relaciones»**, i
-   **no els nomena.** **El corpus tampoc no els nomenaria**: són particulars, i
-   **el que interessa és l'acte institucional.**
+2. ~~**Qui eren «los dos Jefes públicos del movimiento perturbador»**, **de quin
+   moviment** i **de quins fets se'ls acusava.**~~ — **`no-es-buit` el
+   2026-09-19**: **la font els qualifica de persones de «cualidad» i lligades al
+   bisbe «con toda clase de relaciones»**, però **no els nomena**. **El corpus no
+   necessita identificar particulars** quan el que pot sostenir és l'acte
+   institucional que el document atribueix al bisbe.
 3. **La detenció dels tres representants del Consell al castell de la Seu**:
    **data, noms dels càrrecs, durada i com va acabar.** **Prioritari**: **és una
    detenció de membres d'una assemblea per ordre d'un cap d'estat**, i **el corpus
