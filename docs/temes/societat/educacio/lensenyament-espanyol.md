@@ -251,8 +251,12 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   acords en vint-i-sis anys, i el primer el signa la Mitra](#tres-acords-en-vint-i-sis-anys-i-el-primer-el-signa-la-mitra)».
   `El text de l'acord del 1981 no és al Butlletí —és anterior i és entre Espanya
   i la Mitra—: requereix l'arxiu del Bisbat d'Urgell o el BOE.`
-- **El Reial decret 1027/93** sencer, i **la Consejería de Educación de
-  l'ambaixada d'Espanya**: què fa exactament a Andorra.
+- ~~**El Reial decret 1027/93** sencer, i **la Consejería de Educación de
+  l'ambaixada d'Espanya**: què fa exactament a Andorra.~~ **[parcial ·
+  2026-09-19]** La cronologia ja identifica el **Reial decret 1027/93**, del
+  **25 de juny de 1993**, com la norma que regula l'acció educativa espanyola a
+  l'exterior i situa l'Institut Espanyol posterior; el corpus encara no en té
+  el text íntegre ni ha documentat el paper concret de la Consejería.
 - **Per què el 90% fa religió** en centres aconfessionals.
 - ~~**La delegació d'ensenyament mitjà del 1964** i la seva dependència de la
   Seu d'Urgell.~~ — **`parcial`, i el cos d'aquesta mateixa fitxa ja en té el
