@@ -80,8 +80,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**Els seus clubs** i els seus cinc partits.~~ — **`parcial`**: **els clubs,
   `resolt`** i són **vint etapes** (taula de dalt); **els cinc partits,
   `obert`.**
-- **Com i quan es vincula a Andorra**: va néixer a Barcelona i la font no ho
-  explica.
+- ~~**Com i quan es vincula a Andorra**: va néixer a Barcelona i la font no ho
+  explica.~~ — **`parcial`, actualitzat el 2026-09-19**: la taula ja situa el
+  seu pas pel **FC Andorra entre 2009 i 2014**, que és el primer vincle
+  andorrà documentat. La font no explica com es va produir l'arribada ni si hi
+  havia cap altre vincle anterior.
 
 ## Related
 
