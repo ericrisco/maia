@@ -170,7 +170,19 @@ reinstal·lar-la a l'església.
    se sap on són les quatre taules, els guardapols i els fragments restants.
 2. **Els caps del campanar**: què són i què volen dir.
 3. Per què **no hi ha escultura en pedra**.
-4. El **mestre de la Cortinada** i el **mestre de Santa Coloma**: quines obres.
+4. ~~El **mestre de la Cortinada** i el **mestre de Santa Coloma**: quines
+   obres.~~ — **`parcial`, confirmat el 2026-09-19**: el primer queda
+   documentat a les pintures murals de **Sant Martí de la Cortinada** (finals
+   del segle XII), amb sant Martí com a figura principal i motius compartits
+   amb Sant Joan de Caselles i Santa Coloma
+   ([fitxa](../arquitectura/sant-marti-de-la-cortinada.md)); el segon té el
+   programa de **Santa Coloma** (Crist en Majestat, apòstols, sant Silvestre,
+   sant Gregori i l'Anyell de Déu, cap al 1150–1160) i el de **Sant Miquel
+   d'Engolasters** (Crist en Majestat, arcàngel Miquel, símbols dels
+   evangelistes i apòstols, segona meitat del segle XII)
+   ([Santa Coloma](../arquitectura/santa-coloma.md), [Sant Miquel](../arquitectura/sant-miquel-dengolasters.md)).
+   **No és encara un catàleg exhaustiu d’obres ni una atribució crítica peça per
+   peça.**
 5. **Els retaules barrocs**: inventari, i quins es conserven.
 6. ~~**Sant Miquel de Prats** — on és exactament, fora d'Andorra.~~ —
    **`resolt`, confirmat el 2026-09-19**: l'església és a **Prats, Canillo,
