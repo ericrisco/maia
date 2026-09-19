@@ -178,21 +178,15 @@ diferents i totes dues es resolen escoltant**, no raonant.
 
 1. **Cap de les 69 paraules marcades no s'ha verificat contra l'àudio.** És el
    buit principal i el que bloqueja tota la resta. Es tanca escoltant.
-2. **Els candidats concrets**, per ordre d'interès: `[?rets]` → probablement
-   **recs** (00:04:28); `[?l'equa]` → probablement **l'euga** (00:09:30);
-   `[?armats]` → probablement **ramats** (00:02:32); `[?tallalles]` →
-   probablement **dallaires** (00:06:38); `[?bacanyà]` → probablement **bacallà**
-   (00:02:53). **No s'han corregit.**
-   — **Contrastats amb el [DCVB](../../fonts/dcvb.md) el 16-09-2026, i dos
-   guanyen suport.** **`euga`** hi és, remetent a `egua`: **la forma existeix i
-   no cal suposar error.** **I `dallaire` hi és amb una dada que el corpus no
-   tenia i que val per ella mateixa**: **el DCVB en dona la pronúncia
-   `daʎáјɾe` explícitament per a Andorra**, al costat de la Ribagorça, el
-   Pallars, el Pla d'Urgell i la Ribera d'Ebre, **i la separa de la `dəʎáјɾə`
-   del Rosselló, Barcelona, el Penedès i Tarragona.**
-   **Això no confirma què va dir el parlant** —segueix fent falta l'escolta—
-   **però sí que situa la forma esperable a Andorra**, i **és la primera vegada
-   que el corpus té una pronúncia andorrana documentada per a un mot d'ofici.**
+2. ~~**Els candidats concrets**~~ — **`parcial` el 19-09-2026**: `[?rets]` →
+   probablement **recs** (00:04:28); `[?l'equa]` → probablement **l'euga**
+   (00:09:30); `[?armats]` → probablement **ramats** (00:02:32);
+   `[?tallalles]` → probablement **dallaires** (00:06:38); `[?bacanyà]` →
+   probablement **bacallà** (00:02:53). El [DCVB](../../fonts/dcvb.md),
+   consultat el 16-09-2026, confirma que **euga** existeix remetent a `egua` i
+   documenta **dallaire** amb pronúncia `daʎáјɾe` explícita per a Andorra.
+   Això situa dues formes esperables, però no confirma què va dir el parlant:
+   encara cal escoltar l’àudio i resten oberts `recs`, `ramats` i `bacallà`.
    `Requereix la branca de fonètica.`
 3. **Sense lectura de cap mena**: `[?faça]` (00:01:56, «abans dels treballs de
    ???»), `[?bun]` (00:08:04, «un ??? d'herba»), `[?Madreta]` (00:01:09, un dit
