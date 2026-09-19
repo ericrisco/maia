@@ -214,8 +214,11 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   continua obert si es va crear després.
 - **Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
   [artesania](../artesania/README.md).
-- **El quadre d'objectius sencer**: el corpus n'ha pogut llegir sis files i el
-  PDF n'insinua més.
+- ~~**El quadre d'objectius sencer**~~ — **`parcial` el 19-09-2026**: el corpus
+  ja n'ha pogut transcriure sis files —publicitat, disseny gràfic, disseny
+  tèxtil, patrimoni romànic i rupestre, il·lustració/còmic i logotips—, però el
+  PDF n'insinua més i aquestes files restants encara no es poden llegir amb
+  seguretat.
 
 ## Related
 
