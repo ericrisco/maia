@@ -234,8 +234,13 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
   la font mateixa hi afegeix «(o 1993)» sense arbitrar-ho.** No és una
   divergència entre fonts diferents, sinó una incertesa que la mateixa
   Viquipèdia admet.
-- **Qui són Manuel Puerta, Manuel Varela i Josep Rodríguez**, els tres que van
-  inscriure l'Engordany.
+- ~~**Qui són Manuel Puerta, Manuel Varela i Josep Rodríguez**, els tres que van
+  inscriure l'Engordany.~~ — **`parcial` el 19-09-2026**: el wikitext local de
+  [la UE Engordany](../../../../raw/web/esport/clubs/Unió_Esportiva_Engordany-ca.wiki)
+  dona els noms complets —**Manuel Puerta Martín, Manuel Varela Valés i Josep
+  Rodríguez Sànchez**— i els identifica com els inscrivents del club el **28
+  de gener de 1981**. **No hi ha encara biografia, càrrec posterior ni perfil
+  individual** de cap dels tres.
 
 ## Related
 
