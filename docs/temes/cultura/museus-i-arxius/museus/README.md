@@ -201,9 +201,12 @@ visitants** (+17,7%), més que a tots els museus junts.
   la història esmenta i el llistat no descriu.~~ — **`parcial` el 19-09-2026**:
   el Museu de la Moto queda descrit amb la fitxa institucional actual i el
   Centre de Natura amb la guia oficial de 2019 ([fitxa conjunta](./museu-de-la-moto-i-centre-de-natura.md)). **L'estat actual del Centre de Natura no queda confirmat.**
-- **Les quatre exposicions fundacionals** —*Andorra Arqueològica* (1985),
+- ~~**Les quatre exposicions fundacionals** —*Andorra Arqueològica* (1985),
   *Andorra Medieval* (1988), *Joies de la Prehistòria* (1992), *Seure a Taula*
-  (1995)— **i els seus catàlegs**, que serien font primària.
+  (1995)— **i els seus catàlegs**, que serien font primària.~~ — **`parcial` el
+  19-09-2026**: la cronologia d'aquesta mateixa fitxa ja fixa els quatre noms i
+  anys (**1985, 1988, 1992 i 1995**) ([font](../../../../fonts/wikipedia-museus-andorra.md)).
+  Els catàlegs i el contingut complet de cada exposició encara no són al corpus.
 - **L'exposició permanent del Santuari de Meritxell del 1994**, que la font
   qualifica de **«càrrega ideològica i social molt important»**.
 - **Per què cau la visita als museus, confirmat per segona via i encara sense
