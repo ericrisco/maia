@@ -51,7 +51,10 @@ El corpus té els tres moments inaugurals de la selecció amb nom:
 
 ## El que falta
 
-- **El minut del gol** i com va ser.
+- ~~**El minut del gol** i com va ser.~~ — **`parcial` el 19-09-2026**: la
+  [FAF](../../../fonts/faf-agusti-pol-gol-1996.md) fixa el gol al **minut 61**
+  i explica que va ser l'**empat a 1** després del gol d'Estònia al minut 36.
+  La crònica no descriu la jugada més enllà d'aquesta seqüència.
 - **Els seus clubs.**
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
