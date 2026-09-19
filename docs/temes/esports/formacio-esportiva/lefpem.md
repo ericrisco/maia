@@ -187,9 +187,14 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
 - **Quants monitors hi ha titulats en total** des del 1996.
 - **Quina és la formació anterior** que l'Efpem substitueix, i des de quan
   existia.
-- **L'Escola Nacional Andorrana d'Esquí**: quina relació té amb l'Efpem. Són la
-  mateixa cosa? Dues institucions? **Buit prioritari** — les dues tenen llei
-  pròpia ([índex legislatiu](../../societat/educacio/index-legislatiu-en-educacio.md)).
+- ~~**L'Escola Nacional Andorrana d'Esquí**: quina relació té amb l'Efpem. Són la
+  mateixa cosa? Dues institucions?~~ — **`parcial` el 19-09-2026**: són **dues
+  institucions diferents**, perquè l'índex legislatiu les enumera en entrades
+  separades: la **Llei de modificació de l'Escola Nacional Andorrana d'Esquí**
+  (BOPA 48, 10-7-1996; escola creada el 23-9-1988) i la **Llei de creació de
+  l'Escola de Formació de Professions Esportives i de Muntanya** (BOPA 6,
+  17-1-1996). **Continua pendent qualsevol conveni o relació operativa entre
+  les dues.**
 - **La hípica**: es va acabar reconeixent?
 - ~~**Què va passar realment** del 2001 ençà. Aquesta fitxa són **previsions del
   2000**.~~ — **`parcial` el 18-09-2026**: **l'escola existeix i està finançada el
