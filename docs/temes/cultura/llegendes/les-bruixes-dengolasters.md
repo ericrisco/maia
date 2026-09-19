@@ -139,8 +139,9 @@ resposta honesta és «no ho sabem».**
   **El corpus les classifica com a material d'Amades no corroborat, no com a
   tradició andorrana** — **el mateix estatut que dona a les bruixes d'aquesta
   fitxa.** **Dos elements espectaculars, tots dos sense testimoni.**
-- **El *Costumari català*** consultat directament — el corpus el coneix **només
-  a través de qui el critica**.
+- **Nota `no-es-buit`:** el *Costumari català* **no s'ha consultat directament**;
+  el corpus el coneix **només a través de qui el critica**. És una limitació de
+  la font disponible, no una pregunta amb resposta pendent dins del corpus.
 - ~~**Les altres creences que Amades hi recull** i que el corpus només té
   enumerades: **l'argolla que es converteix en or i on Noè va estacar l'arca
   després del diluvi**, i **la campana dels difunts soterrada a les muntanyes
