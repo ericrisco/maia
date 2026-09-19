@@ -115,8 +115,10 @@ identificava com a club de la federació també té secció de futbol sala**, i
   **futbol sala**, i el corpus no en té cap fitxa.~~ `resolt` **el 2026-09-18**:
   [el futbol sala](../../seleccions/el-futbol-sala.md). **Segueix obert si
   [Joaquim Besora](../joaquim-besora.md) en va ser internacional.**
-- **L'arbitratge.** [Ainhoa Fernández](../femeni/ainhoa-fernandez.md) apunta que
-  hi ha arbitratge femení andorrà i el corpus no n'ha llegit res.
+- ~~**L'arbitratge.**~~ — **`resolt` com a duplicat el 19-09-2026**: la mateixa
+  pregunta sobre l'arbitratge femení andorrà queda registrada com a buit canònic
+  a [Futbol femení](../femeni/README.md#el-que-falta), a partir de l'apunt
+  d'[Ainhoa Fernández](../femeni/ainhoa-fernandez.md).
 
 ## Related
 
