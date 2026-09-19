@@ -71,9 +71,14 @@ aquí.
 2. ~~**On són exactament, dins l'edifici, les reproduccions actuals** de
    les pintures extretes.~~ — **`resolt`, confirmat el 2026-09-19**: la
    reproducció de 1982 és **a l'absis** de Sant Miquel d'Engolasters.
-3. **Règim de visita**: [Sant Romà de les Bons](./sant-roma-de-les-bons.md)
+3. ~~**Règim de visita**: [Sant Romà de les Bons](./sant-roma-de-les-bons.md)
    apunta que roman oberta a la tardor juntament amb aquesta església —
-   **detall no verificat des d'aquí.**
+   **detall no verificat des d'aquí.**~~ — **`parcial`, confirmat el
+   19-09-2026**: el Govern va documentar l'obertura gratuïta de tardor de 2025;
+   al setembre obria de dimarts a divendres de 10–14 i 15–18 h, dissabtes de
+   10–14 i 15–20 h i diumenges de 10–14 h, i a l'octubre i novembre de dimarts
+   a dissabte de 10–14 i 15–18 h. És un horari de campanya, no una garantia
+   permanent.
 
 ## Related
 
