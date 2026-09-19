@@ -65,13 +65,13 @@ amb [Tomás Cano](./tomas-cano.md).
   **El corpus té aquí, en una fitxa de jugador, la regla que explica com un
   país de setanta-set mil habitants fa seleccions competitives** — vegeu
   [el bàsquet](../seleccions/el-basquet.md).
-- **La carrera sencera, que la fitxa no tenia**: **Olesa (2001-03), Melilla,
-  Rosalía de Castro, Bàsquet Manresa —debut a l'ACB el 2005—, Ciudad de Vigo,
-  Clavijo, Sant Josep Girona, València (2011), Menorca, Valladolid, ANDORRA
-  (2013-17), Obradoiro (2017-20) i Ourense (2020-21).** **Vint anys de
-  carrera.** **Va néixer a Esparreguera, Catalunya, el 17 de maig del 1983**:
-  **és espanyol**, i **el corpus ho deixa escrit al costat de la regla de la
-  FIBA que el va fer internacional andorrà.**
+- ~~**La carrera sencera de David Navarro**~~ — **`resolt` el 19-09-2026**:
+  la fitxa ja enumera **Olesa (2001-03), Melilla, Rosalía de Castro, Bàsquet
+  Manresa —debut a l’ACB el 2005—, Ciudad de Vigo, Clavijo, Sant Josep Girona,
+  València (2011), Menorca, Valladolid, Andorra (2013-17), Obradoiro (2017-20)
+  i Ourense (2020-21)**. La font pròpia auditada també fixa el naixement a
+  Esparreguera el 17 de maig de 1983 i la nacionalitat espanyola; la plantilla
+  del club continua sent un buit diferent.
 
 ## Related
 
