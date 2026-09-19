@@ -169,8 +169,15 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
 
 - ~~**El resultat de la proposta 3 del 1982.**~~ — **`parcial` el 18-09-2026**:
   **la font dona els resultats de les propostes 1 i 2**, però **no el de la 3**.
-- **Qui era l'Agrupament Democràtic d'Andorra**, que va fer la proposta més
-  votada dues vegades i **no consta a [l'arbre dels partits](../partits/larbre-dels-partits.md)**.
+- ~~**Qui era l'Agrupament Democràtic d'Andorra**, que va fer la proposta més
+  votada dues vegades i **no consta a [l'arbre dels partits](../partits/larbre-dels-partits.md)**.~~
+  — **`parcial` el 2026-09-19**: la font dels referèndums conserva el nom
+  **Agrupament Democràtic d'Andorra** per a l'opció 6 de 1977 i 1978; la
+  genealogia partidària del corpus només documenta l'**Agrupament Nacional
+  Democràtic**, del qual consten Òscar Ribas i Josep Dallerès i que es parteix
+  el 2000 en PS i Partit Demòcrata ([l'arbre dels partits](../partits/larbre-dels-partits.md)).
+  **El corpus no té una font que permeti afirmar que els dos noms designen la
+  mateixa organització.**
 - ~~**Les sis propostes del 1977 senceres**.~~ — **`parcial` el 18-09-2026**:
   **el corpus en té les sis opcions numerades amb vots i percentatges**, i
   identifica les propostes **5** —Quart de les Escaldes— i **6** —Agrupament
