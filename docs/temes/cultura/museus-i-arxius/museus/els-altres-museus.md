@@ -137,7 +137,8 @@ patrimoni de la humanitat de la UNESCO.**
 
 ## Centre d'Art d'Escaldes-Engordany
 
-**A Escaldes-Engordany.** **La font no en dona descripció.**
+**A Escaldes-Engordany.** **La font no en dona descripció.** El corpus sí que
+en té una fitxa pròpia al [Centre d'Art d'Escaldes-Engordany](../../arts-visuals/arts-visuals.md).
 
 **El corpus sí que en té una dada**, d'una altra banda: **hi va exposar
 [Sergi Mas](../../arts-visuals/sergi-mas.md)** —***Sergi Mas. Antologia
@@ -145,14 +146,20 @@ patrimoni de la humanitat de la UNESCO.**
 
 ## El que falta
 
-- **El Centre d'Art d'Escaldes-Engordany**, del qual la font calla.
+- ~~**El Centre d'Art d'Escaldes-Engordany**, del qual la font calla.~~ —
+  **`resolt` el 19-09-2026**: la fitxa pròpia d'[arts visuals](../../arts-visuals/arts-visuals.md)
+  ja en documenta la col·lecció i el paper del CAEE.
 - ~~**Antoni Zorzano.**~~ — **`resolt` el 19-09-2026**: identificat com
   **Antoni Zorzano Riera**, empresari, fundador del Museu de la Miniatura
   d'Ordino i cònsol honorari d'Ucraïna des del 2008
   ([font](../../../../raw/web/cultura/antoni-zorzano-bondia-2026.txt)).
 - **El còmic andorrà** i **La Massana Còmic**.
-- **Quantes de les peces romàniques del centre d'interpretació són originals i
-  quantes reproduccions.**
+- ~~**Quantes de les peces romàniques del centre d'interpretació són originals i
+  quantes reproduccions.**~~ — **`parcial`, confirmat el 19-09-2026**: la
+  llista identifica peces patrimonials (pedra clau, eina, muntants, creu,
+  base i fust, lipsanoteques i mobiliari) i separa dues reproduccions —el Crist
+  de Sant Martí i les maquetes—; no dona un recompte tancat de les peces
+  originals.
 
 ## Related
 
