@@ -194,15 +194,13 @@ què el corpus ja té documentada la reconstrucció.`
 
 ## Buits registrats
 
-- **Balanç de 2019 llegit textualment complet:** p. 1–29; taules de
-  p. 9 i 11 contrastades visualment. No s'han digitalitzat els mapes
-  ni la sèrie mensual de reserva, ni reproduït la comprovació manual
-  de l'annex. Superfícies discordants i contrast aforament/model
-  contradictori pendents de correcció del publicador. La sèrie
-  d'anys intermedis no es considera completada per aquesta lectura. — **`parcial`
-  el 18-09-2026**: **la sèrie anual del recurs hídric 2006-2019 sí que hi és**, a
-  l'API d'Estadística, i és a
-  «[La sèrie anual](#la-serie-anual-i-que-en-fa-de-les-dues-superficies)».
+- ~~**Balanç de 2019 llegit textualment complet**~~ — **`parcial` el
+  18-09-2026**: p. 1–29; taules de p. 9 i 11 contrastades visualment. No s'han
+  digitalitzat els mapes ni la sèrie mensual de reserva, ni reproduït la
+  comprovació manual de l'annex. Superfícies discordants i contrast
+  aforament/model contradictori pendents de correcció del publicador. **La
+  sèrie anual del recurs hídric 2006-2019 sí que hi és**, a l'API d'Estadística,
+  i és a «[La sèrie anual](#la-serie-anual-i-que-en-fa-de-les-dues-superficies)».
   `Els anys 2020-2025 no hi són, i la sèrie mensual de reserva tampoc.`
 - **Discrepància de la font de 2025:** p. 4 i taula 2, p. 8, donen 996 mm
   de precipitació anual mitjana; les conclusions, p. 42, en donen 1.200.
