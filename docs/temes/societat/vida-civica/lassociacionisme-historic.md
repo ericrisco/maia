@@ -182,11 +182,12 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
    Andorra la Vella, Editorial Andorra, 1989**, citat al document
    d'historiografia que el corpus ja tenia
    ([les tres fases](../../historia/historiografia/les-tres-fases.md)).
-3. **La Confraria de Sant Sebastià** de Sant Julià: **quin any de pesta**. —
-   **`obert`, i amb la monografia localitzada**: **David Mas i Sergi Mas,
-   *Consòrcies i germandats de Sant Julià de Lòria*, 1987** — **mateixa
-   procedència**. **Cobreix les dues institucions laurèdianes d'aquesta llista
-   alhora.**
+3. ~~**La Confraria de Sant Sebastià** de Sant Julià: **quin any de pesta**.~~ —
+   **`parcial`, actualitzat el 2026-09-19**: la monografia localitzada —**David
+   Mas i Sergi Mas, *Consòrcies i germandats de Sant Julià de Lòria* (1987)**—
+   cobreix les institucions laurèdianes de la llista; el corpus encara no n'ha
+   pogut extreure l'any de pesta.
+
 4. ~~**La consòrcia de capellans**: existeix documentació? ~~— **`obert`,
    confirmat**, i **és l'única de les quatre germandats d'aquesta fitxa que no
    té cap monografia localitzada.**
