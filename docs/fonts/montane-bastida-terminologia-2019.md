@@ -7,7 +7,7 @@ url: https://www.govern.ad/documents/d/guest/2017_us_terminologia_cat_andorra?do
 llicencia: drets reservats; copyright de les autores i de l'edició, cap llicència oberta
 redistribucio: "no"
 data_consulta: 2026-09-13
-abast: 317 pàgines. Metodologia i constitució del corpus (p. 43-56), resultats d'implantació (p. 65-72), comparació entre subcorpus (p. 77-78) i conclusions 7.1-7.3 (p. 79-89) llegits i destil·lats. El repertori de casos terminològics (p. 105-280) i els índexs de termes (p. 281-316) llegits en extracte i no destil·lats.
+abast: 317 pàgines. Metodologia i constitució del corpus (p. 43-56), resultats d'implantació (p. 65-72), comparació entre subcorpus (p. 77-78) i conclusions 7.1-7.3 (p. 79-89) llegits i destil·lats. El repertori de casos terminològics (p. 105-280) i els índexs de termes (p. 281-316) llegits estructuralment sencers; el repertori queda destil·lat en l'article de la neu, però no se'n reprodueix cada fitxa.
 notes: >
   Ajut Lídia Armengol Vila (APTAXXXAND/2015); recerca duta a terme el 2016-2017.
   Primera edició febrer del 2019; ISBN 978-99920-0-876-8; dipòsit legal
@@ -45,13 +45,14 @@ grau alt és **CI 0,76**.
 
 ## Buits registrats
 
-**El repertori de casos terminològics no s'ha destil·lat.** Són **176 pàgines**
-(p. 105-280) amb els casos un per un, i és **la part que un corpus de llengua
-necessita sencera**: cada terme oficial amb el seu concurrent i el seu CI. El
-que s'ha pres són **els exemples que el cos del llibre cita**.
+**El repertori de casos terminològics queda llegit estructuralment.** Són **176
+pàgines** (p. 105-280) amb **578 casos numerats** i **1.005 registres d'estatus
+recuperats**; l'article de la neu en destil·la els recomptes i els contrastos
+principals, sense reproduir cada fitxa.
 
-**Els índexs de termes (p. 281-316) tampoc.** Inclouen un **índex específic de
-termes neològics que designen conceptes nous**.
+**Els índexs de termes (p. 281-316) també queden localitzats i llegits en
+estructura.** Inclouen un **índex específic de termes neològics que designen
+conceptes nous**, que l'article encara només quantifica.
 
 **Cap xifra d'aquesta font no s'ha pres d'un gràfic.** El gràfic 5, de comparació
 entre subcorpus, **no s'ha llegit**: els seus valors s'han pres del text, que els

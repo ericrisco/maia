@@ -1,13 +1,13 @@
 ---
 type: article
 title: El repertori de la neu
-description: "Les 551 fitxes terminològiques de l'estudi Montané-Bastida, buidades: 967 formes, quin terme guanya en cada cas i on el català oficial perd contra l'anglès."
+description: "Les 578 fitxes terminològiques de l'estudi Montané-Bastida: 967 formes analitzades en detall, quin terme guanya en cada cas i on el català oficial perd contra l'anglès."
 tema: temes/llengua/manlleus
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: montane-bastida-terminologia-2019
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [llengua, manlleus, lexic, terminologia, angles, castella, frances, esports, dades, prioritari]
 ---
 
@@ -33,17 +33,31 @@ autores han documentat per anomenar-lo**, amb l'estatus de cada una i el seu
 
 | | |
 | --- | --- |
-| **Casos recuperats** | **551** |
+| **Casos numerats a la font** | **578** |
+| Casos recuperats per a l'anàlisi detallada | **551** |
 | **Formes recuperades** | **967** |
-| Entrades «Terme…» que hi ha al repertori | 993 |
-| Entrades que el llibre declara al conjunt dels casos | **1.005** |
-| **Cobertura d'aquesta lectura** | **97,4% de les entrades del repertori** |
+| Entrades «Terme…» de la lectura anterior | 993 |
+| Registres d'estatus recuperats en la lectura completa | **1.005** |
+| Entrades que la metodologia declara al conjunt dels casos | **1.006** |
+| **Cobertura estructural de la font** | **99,9% dels registres declarats** |
 
-`Les 26 entrades que falten no s'han identificat una per una. La diferència
-entre 993 i 1.005 és del llibre, no d'aquesta lectura: el mateix estudi
-adverteix que el repertori inclou termes oficials amb freqüència 0 que no
-apareixen al corpus textual.` **Tot el que segueix descriu les 967 formes
-recuperades, no el repertori sencer.**
+`La lectura anterior havia recuperat 993 entrades i 967 formes per a l'anàlisi
+detallada. La lectura estructural completa dels folis 105-280 confirma els 578
+casos numerats i conserva 1.005 registres amb estatus; la metodologia de la
+font declara 1.006 termes diferents. La diferència d'un registre queda anotada
+com una discrepància de representació del PDF, no com un terme que es pugui
+inventar o atribuir.` **Tot el que segueix descriu les 967 formes analitzades
+en detall, no el repertori sencer.**
+
+## Control de la lectura completa
+
+El repertori ocupa realment les pàgines 105-280 i la numeració dels casos va de
+**1** a **578**, sense salts. El recompte de la còpia de text en mode cru dona
+**1.005 files d'estatus** (257 termes documentats en diccionaris, 541
+neològics, 142 normatius, 64 normalitzats i una etiqueta mal espaiada); el
+capítol metodològic, en canvi, diu **1.006 termes diferents**. Aquesta
+diferència interna de la font és l'únic residu de control: els 26 registres
+que semblaven faltar en la lectura anterior ja no són un buit separat.
 
 ## Com es reparteixen les 967 formes
 
@@ -276,8 +290,15 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
 
 ## El que falta
 
-- **Les 26 entrades del repertori que aquesta lectura no ha recuperat.**
-  `Diferència entre les 993 entrades del repertori i les 967 recuperades.`
+- ~~**Les 26 entrades del repertori que la lectura anterior no havia recuperat.**
+  `Diferència entre les 993 entrades de la lectura anterior i les 967 formes
+  que s'hi havien analitzat.`~~ — **`resolt`, actualitzat el 2026-09-19**:
+  la lectura estructural completa confirma els **578 casos** i **1.005
+  registres d'estatus** del repertori.
+- **La diferència entre els 1.005 registres de text i els 1.006 termes que la
+  metodologia declara.** `no-es-buit`: és una discrepància interna de
+  representació del PDF, documentada a la secció de control, no una pregunta
+  de recerca separada.
 - ~~**L'índex de termes neològics que designen conceptes nous** (p. 309-316):
   **257 termes**, el **28,5%** de tot el corpus, **per als quals no hi ha cap
   proposta oficial.** `Localitzat, no buidat.`~~ — **`parcial`, actualitzat el
