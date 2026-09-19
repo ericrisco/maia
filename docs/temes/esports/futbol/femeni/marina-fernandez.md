@@ -60,7 +60,10 @@ xifres no arriba als quatre gols que la mateixa font li documenta amb data.**
 
 ## El que falta
 
-- **Quants partits ha jugat realment.**
+- ~~**Quants partits ha jugat realment.**~~ **[parcial · 2026-09-19]** La font
+  es contradiu: la biografia i la taula de rècords donen **3
+  internacionalitats**, la llista d'internacionals en dona **6**, i la fitxa
+  documenta **4 gols amb data**. El recompte real continua sense arbitrar.
 - **Què va passar entre Pardinyes i el retorn a l'ENFAF.**
 
 ## Related

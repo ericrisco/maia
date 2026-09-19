@@ -48,8 +48,12 @@ amb dades és copilot del Dakar i neboda d'un olímpic.**
 
 ## El que falta
 
-- **Quan i per què va deixar el futbol.**
-- **Els seus tres partits.**
+- ~~**Quan i per què va deixar el futbol.**~~ **[parcial · 2026-09-19]** La
+  fitxa situa els **3 partits de futbol el 2015** i el pas posterior al ral·li,
+  documentat com a pilot el **2019**; no hi consta quan ni per què va deixar el
+  futbol.
+- ~~**Els seus tres partits.**~~ **[parcial · 2026-09-19]** La taula confirma
+  **3 partits amb Andorra el 2015**, però no en dona els rivals ni les dates.
 - ~~**Alexia Llobera**: cap fitxa, i en fa falta una.~~ — **`parcial` el
   18-09-2026, amb reserva de mètode** (font no verificable per lectura
   directa): **enginyera d'electrònica de motorsport**, amb pas per X-raid

@@ -51,7 +51,10 @@ afirma parentiu i registra la coincidència.**
   de naixement**, i **cap font trobada arrisca una parròquia.** És l'única de
   les vuit fitxes d'aquesta sèrie que no es mou. Vegeu [l'avís sobre aquesta
   sèrie de buits](../README.md#els-altres-cinquanta-tres).
-- **Quants partits té realment.**
+- ~~**Quants partits té realment.**~~ **[parcial · 2026-09-19]** Les fonts
+  internes divergeixen: la llista dona **1 partit amb Andorra**, mentre la
+  plantilla del 2025 en dona **5**. La fitxa confirma a més **3 partits amb la
+  sub-17**; el recompte absolut continua sense arbitrar.
 - **La sub-17 femenina**: quan es va crear, i qui hi ha jugat.
 
 ## Related

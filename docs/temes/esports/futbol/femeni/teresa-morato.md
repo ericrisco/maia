@@ -72,7 +72,11 @@ l'absoluta del seu** — un cas que no té paral·lel a la resta de la branca.
 
 ## El que falta
 
-- **Quants partits i quants gols té realment amb Andorra.**
+- ~~**Quants partits i quants gols té realment amb Andorra.**~~ **[parcial ·
+  2026-09-19]** Les fonts internes divergeixen: la biografia dona **27
+  partits i 18 gols**, la taula de rècords **19 i 9**, i la llista
+  d'internacionals **3 i 0**. El corpus no pot arbitrar-ho sense el registre de
+  la Federació.
 - **Els seus gols als clubs espanyols**, que la font no dona.
 - **Per què va deixar el Barça B el 2020.**
 
