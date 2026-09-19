@@ -84,6 +84,8 @@ els límits del recurs d’empara.
   s’ha llegit. Aquesta lectura no resol el buit sobre l’article 117.8
   de la LGOTU i la suspensió cautelar de plans nacionals o sectorials,
   ni acredita expedients de cessions o informes comunals vinculants.
-- Els drets de la còpia del [portal del Tribunal](../../../fonts/tribunal-constitucional-ad.md)
-  continuen pendents. Les cites remeten a la publicació BOPA, sota les
-  seves condicions textuals registrades. Evidència fora del corpus; cap dataset.
+- ~~Els drets de la còpia del [portal del Tribunal](../../../fonts/tribunal-constitucional-ad.md)
+  continuen pendents. Les cites remeten a la publicació BOPA, sota les seves
+  condicions textuals registrades. Evidència fora del corpus; cap dataset.~~ —
+  **`no-es-buit` el 19-09-2026**: és un avís de drets i d'exclusió de dataset,
+  no una pregunta de recerca.
