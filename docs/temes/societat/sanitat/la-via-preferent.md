@@ -184,7 +184,9 @@ decrets.`
 - ~~**Quant val un punt de jubilació**, no consta.~~ — **`resolt` el 17-09-2026,
   i no és un valor sinó dos** — vegeu
   [El punt de jubilació, setze anys de sèrie](#el-punt-de-jubilacio-setze-anys-de-serie).
-- **Els percentatges es poden canviar per llei del pressupost** (articles 139.2
-  i 139 bis.2). Els d'aquesta fitxa són els de la instantània del 2026-09-12.
+- ~~**Els percentatges es poden canviar per llei del pressupost** (articles 139.2
+  i 139 bis.2). Els d'aquesta fitxa són els de la instantània del 2026-09-12.~~ —
+  **`no-es-buit`** el 19-09-2026: és un avís metodològic sobre la vigència de
+  la instantània, no una pregunta de recerca pendent.
 - **Les 34 versions no s'han comparat.** Aquesta és la llei que més ha canviat
   del país i el corpus no té la seva història.
