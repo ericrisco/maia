@@ -93,10 +93,16 @@ escrita. Vegeu [els síndics generals](./els-sindics-generals.md).
 - **Si va trobar resistència per ser la primera.** Cap font ho diu, i **el
   corpus no ho suposa**.
 - **Les seves dues publicacions.**
-- **Les altres primeres.** El corpus té
+- ~~**La primera ministra.**~~ — **`parcial` el 2026-09-19**: el bolcat local
+  del Govern 1994–1997 conserva el decret del **22 de desembre de 1994**, que
+  nomena **Susagna Arasanz Serra** ministra de Finances i **Carme Sala Sansa**
+  ministra d'Educació, Joventut i Esports ([text conservat](../../raw/web/politica/viqui-govern_d-andorra_1994-1997.txt)).
+  És el primer registre de ministres dones que tenim al corpus; la sèrie
+  anterior no és completa i, per tant, no es pot afirmar encara que siguin les
+  primeres de tota la història.
+- **La primera cònsol major** i **la primera magistrada**. El corpus té
   [Mercè Bonell (1984)](../societat/dones/el-sufragi-femeni.md) com a primera
-  consellera i Suñé com a primera síndica. **Falta la primera ministra, la
-  primera cònsol major i la primera magistrada.**
+  consellera i Suñé com a primera síndica, però encara no aquestes dues dates.
 
 ## Related
 
