@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: eur-lex-adequacio-dades-andorra-2010
-timestamp: 2026-09-14T07:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [institucions, relacions-exteriors, europa, dret, dades-personals, privacitat, drets-oberts, metode, prioritari]
 ---
 
@@ -152,24 +152,30 @@ l'adequació hagi decaigut** —**això depèn del règim de revisió de la Comi
 no del text d'aquesta fitxa**— **però sí que el supòsit que la decisió descriu
 ja no és el dret vigent andorrà.**
 
-`Requereix saber si la Comissió Europea ha revisat l'adequació d'Andorra
-després del 2021.`
-
-**És la unitat següent òbvia d'aquest
-àmbit.**
+~~**Requereix saber si la Comissió Europea ha revisat l'adequació d'Andorra
+després del 2021.**~~ — **`resolt` el 19-09-2026**: l'[informe de la Comissió
+de 15-01-2024](../../../raw/relacions-exteriors/adequacio-dades-informe-2024.pdf)
+conclou que **Andorra continua oferint un nivell adequat de protecció** per a
+les dades transferides des de la UE, en el sentit del RGPD. El [country report
+que l'acompanya](../../../raw/relacions-exteriors/adequacio-dades-revisio-2024.pdf)
+documenta que la Llei 29/2021 va entrar en vigor el maig del 2022 i que està
+estretament alineada amb el RGPD.
 
 **La llacuna de les decisions automatitzades: tancada el 2026-09-14.** El
 dictamen del 2009 deia que la llei andorrana **no les reconeixia expressament**.
 **Avui hi són**: l'**article 25 de la Llei 29/2021** les regula amb nom propi i
 hi afegeix un apartat 5 sense excepcions per a menors d'edat
 ([L'administració no paga multa](../justicia/ladministracio-no-paga-multa.md)).
-**El que no es tanca és la conseqüència:** el corpus **no sap** si la Comissió
-ha pres nota d'aquell canvi ni si l'adequació s'ha reexaminat des del 2021.
+L'informe de revisió de 2024 ja pren en consideració la Llei 29/2021 i manté la
+conclusió d'adequació; això no equival a una decisió nova ni permet deduir quan
+serà la revisió següent.
 
-**La Decisió (UE) 2016/2295 no s'ha llegit.** El corpus té **el resultat** al text
-consolidat, **no l'acte ni els motius**. És l'acte que va afegir la vigilància
-sobre l'accés de les autoritats públiques, i **el seu preàmbul deu explicar per
-què**.
+~~**La Decisió (UE) 2016/2295 no s'ha llegit.**~~ — **`parcial` el
+19-09-2026**: el [text consolidat de la Decisió 2010/625, modificat el
+2016](../../../raw/relacions-exteriors/adequacio-2010-consolidat-2016.txt), ja
+ha estat llegit en la part dispositiva. La modificació afegeix l'article 3 i
+reforça l'article 4 sobre vigilància de l'accés de les autoritats públiques;
+el preàmbul autònom i la seva motivació encara no s'han llegit sencers.
 
 **El règim andorrà de transferències internacionals, en canvi, sí que s'ha
 llegit.** Els articles 42 a 45 de la Llei 29/2021 fixen un criteri andorrà
@@ -178,11 +184,11 @@ d'equivalència **i determinen l'adequació per la llista publicada al DOUE**
 **La relació és circular en els dos sentits**, i el corpus la registra sense
 resoldre-la.
 
-**La relació amb el RGPD no s'ha comprovat.** La decisió es basa a la **Directiva
-95/46/CE**. El corpus **no ha llegit aquella directiva ni ha comprovat quin és el
-seu estat**, i per tant **no afirma res** sobre si l'adequació segueix operativa
-sota el règim actual de protecció de dades de la Unió. `Requereix llegir el
-règim vigent, que és a EUR-Lex i té els drets oberts.`
+~~**La relació amb el RGPD no s'ha comprovat.**~~ — **`parcial` el
+19-09-2026**: la revisió de 2024 diu que la Llei 29/2021 està estretament
+alineada amb el RGPD i que la Comissió manté l'adequació en el sentit del RGPD.
+No s'ha fet encara el mapatge article per article entre la Directiva 95/46/CE,
+el RGPD i el dret andorrà.
 
 **Cap de les quatre normes andorranes citades no és al corpus**: ni l'article 14
 de la Constitució, ni la Llei 15/2003, ni el decret del 2004 del registre de

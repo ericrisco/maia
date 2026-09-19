@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-naturland
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [economia, turisme, comuns, finances-publiques]
 ---
 
