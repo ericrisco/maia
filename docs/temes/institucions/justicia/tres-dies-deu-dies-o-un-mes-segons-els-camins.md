@@ -226,9 +226,15 @@ arriben, el rellotge corre.**
 
 ## Buits registrats
 
-1. **Què és el «Tribunal Superior d'Urgell»**, **des de quan existeix** i **com
+1. ~~**Què és el «Tribunal Superior d'Urgell»**, **des de quan existeix** i **com
    es concilia amb el prevere de mandat especial** que el corpus tenia com a
-   *tercera sala* episcopal. **Prioritari i nou.**
+   *tercera sala* episcopal.~~ — **`parcial`, actualitzat el 2026-09-19**: [la
+   justícia d'abans](./la-justicia-dabans.md) identifica la via episcopal com la
+   **rèplica normativa de 1905**, davant del que després es documenta com a
+   **Tribunal Superior de la Mitra d'Urgell**, en paral·lel al Tribunal Superior
+   de Perpinyà. **Segueix obert si el «Tribunal Superior d'Urgell» que una font
+   oralment citada situa el 1918 és exactament aquest òrgan** i com s'hi
+   relacionava el prevere amb mandat especial de cada plet.
 2. **Quina apel·lació «d'aquesta mena» acaba de retenir**, i **quan.** **La font
    diu «acaba de».**
 3. **Si a Andorra el silenci del batlle passats els deu dies feia seguir
