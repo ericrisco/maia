@@ -243,8 +243,9 @@ sentència de batlle **de 1890**:
 1. **Si el tretze del Codi de Procediment Civil vigent ve del *termini legal* de
    10 + 3.** **`hipòtesi del corpus`**, **ara amb desglossament i no només amb
    coincidència de xifra.** **Cap font no fa el pont.** **Prioritari.**
-2. **Quan els deu dies van passar a ser deu més tres**, **i per quin acte.** **La
-   font diu que «sembla haver estat de deu dies» i no data el canvi.**
+2. ~~**Quan els deu dies van passar a ser deu més tres**, **i per quin acte.**~~ —
+   **`parcial` el 19-09-2026**: la font diu que el termini **sembla haver estat
+   de deu dies**, però no data ni identifica l’acte que hi afegí els tres dies.
 3. **El document del 1760** en què el tribunal refusa la prova testifical «*per
    no acarrear animas a perdrer*». **Prioritari**: **és la peça més forta
    d'aquesta unitat i el corpus només en té la frase.**
