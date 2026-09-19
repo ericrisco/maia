@@ -384,9 +384,12 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    deuhen continuament vetllar per lo publich repos».**
 7. **Les *Constitucions*, IX, i**, sobre **la *manlleuta* en dret català**, que la
    font invoca com a marc.
-8. **Què eren els *capitans* i els *deseners*** que feien les detencions per
-   ordre del batlle. **El corpus té els noms dels càrrecs i no la seva
-   organització.**
+8. ~~**Què eren els *capitans* i els *deseners*** que feien les detencions per
+   ordre del batlle.~~ — **`resolt`, actualitzat el 2026-09-19**: [Y si no
+   tenen, paciència](./y-si-no-tenen-paciencia.md) transcriu el capítol VII del
+   *Politar* i fixa que eren **oficials per indivís dels dos coprínceps**, amb el
+   capità per sobre del desener dins la parròquia, sotmesos als batlles, i amb
+   funcions de guarda de les Valls i dels presos.
 9. **Com es mantenia econòmicament un detingut** quan la guarda i el manteniment
    incumbien a la milícia: **qui pagava què.** **La font diu que és onerós i no
    diu a càrrec de qui.**
