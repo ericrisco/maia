@@ -49,8 +49,9 @@ que és on hi hauria material lingüístic. **Buit registrat.**
 bosc**, **el 20,6% de roca nua** i **el 2,12% de petjada construïda**—, vegeu
 [De què està fet el país](./de-que-esta-fet-el-pais.md), que hi afegeix **el
 punt més alt i el més baix, les quatre coordenades extremes i la longitud de
-les dues fronteres.** `Cims, ports, llacs, geologia i clima segueixen sense
-dades.`
+les dues fronteres.** El buit de **cims, ports, llacs, geologia i clima** queda
+**parcialment acotat**: ja hi ha els extrems orogràfics, però **ports, llacs,
+geologia i clima segueixen sense dades**.
 
 **I la toponímia ja té branca pròpia**:
 [els annexos dels topònims](../toponimia/els-annexos-dels-toponims.md) en dona

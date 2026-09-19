@@ -122,8 +122,12 @@ entren tres de cada quatre vehicles** ([el transport](../../economia/transport/R
 - **Per què l'edició del 2024 deixa de publicar la densitat.**
 - **Si els dominis esquiables entren a «zones esportives»**, que aquesta fitxa
   suposa que no i no ho acredita.
-- **Cims, ports, llacs, geologia i clima amb dades**, que és el buit ampli de
-  [la geografia física](./geografia-fisica.md).
+- ~~**Cims, ports, llacs, geologia i clima amb dades**, que és el buit ampli de
+  [la geografia física](./geografia-fisica.md).~~ — **`parcial`, actualitzat el
+  2026-09-19**: aquesta fitxa ja dona el **pic de Comapedrosa (2.942 m)** com
+  a punt més alt, el **conflent del Runer (840 m)** com a punt més baix i les
+  quatre coordenades extremes. Continuen oberts els ports, els llacs, la
+  geologia i les dades climàtiques.
 
 ## Related
 
