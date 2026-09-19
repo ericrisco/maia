@@ -21,7 +21,7 @@ tags: [esports, natacio, jocs-olimpics, jocs-petits-estats, dones]
 | Any | Competició | Resultat |
 | --- | --- | --- |
 | **2012** | **Jocs de Londres**, 100 m esquena | **42a a les sèries**; no es classifica |
-| **2013** | **Mundials de natació**, 50 m lliures | *(el corpus no en té el resultat)* |
+| **2013** | **Mundials de natació**, 50 m lliures | **56a a les sèries, 28.35**; també **59a als 100 m lliures, 1:00.98** |
 | **2016** | **Jocs de Rio**, 100 m lliures | **inscrita i no surt (`DNS`)** |
 | **2019** | **Jocs dels Petits Estats, Budva** | **DOS BRONZES** |
 
@@ -80,10 +80,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   resultat que hi tocava: no surt.**
 
   `Per què no va sortir, la font no ho diu.`
-- ~~**Els seus resultats del Mundial del 2013.**~~ — **`obert`, confirmat**: **el
-  bolcat en dona la prova i cap marca.** `font_externa`
-- **Del Mundial del 2013 el bolcat només diu la prova** —**50 m lliures**— **i
-  cap resultat.**
+- ~~**Els seus resultats del Mundial del 2013.**~~ — **`resolt` el 19-09-2026**:
+  la taula oficial de resultats dona **56a als 50 m lliures (28.35)** i **59a
+  als 100 m lliures (1:00.98)**, totes dues en sèries ([font](../../../fonts/ffn-monica-ramirez-mundial-2013.md)).
 - ~~**On va néixer**~~ — **`resolt`**: **Escaldes-Engordany, 27 de desembre del
   1993.**
 - ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**

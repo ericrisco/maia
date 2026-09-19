@@ -1,0 +1,818 @@
+
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <title>Fédération Française de Natation</title>
+
+    <link rel="stylesheet" href="../media/css/newStyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+	<script type="text/javascript" src="../media/js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="../media/js/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"></script>
+
+    <meta name="description" content="Explorez les résultats officiels des compétitions de natation organisées par la Fédération Française de Natation. Retrouvez les performances des nageurs, les classements, les records et suivez l'actualité de la natation française. Plongez dans l'univers de la natation compétitive avec la FFN et restez à jour sur les événements nationaux et internationaux.">
+    <meta name="author" content="Fédération Française de Natation">
+    <meta name="rights" content="© Fédération Française de Natation. Tous droits réservés.">
+
+    <meta property="og:title" content="Fédération Française de Natation">
+    <meta property="og:description" content="Explorez les résultats officiels des compétitions de natation organisées par la FFN.">
+    <meta property="og:image" content="../media/img/logo/fb_tw.png">
+    <meta property="og:url" content="https://ffn.extranat.fr/webffn/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@FFNatation">
+    <meta name="twitter:title" content="Fédération Française de Natation">
+    <meta name="twitter:description" content="Explorez les résultats officiels des compétitions de natation organisées par la FFN.">
+    <meta name="twitter:image" content="../media/img/logo/fb_tw.png">
+
+    <link rel="icon" type="image/png" href="../media/img/logo/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="../media/img/logo/apple-touch-icon.png">
+
+            <link rel="canonical" href="https://ffn.extranat.fr/webffn/">
+        <meta name="robots" content="index, follow">
+    </head>
+
+<body class="lg:ml-64">
+
+<div id="page-loader" class="fixed inset-0 bg-black bg-opacity-50 z-[100] flex justify-center items-center">
+    <div class="loader"></div>
+</div>
+
+<script src="../media/js/tooltip.js" type="text/JavaScript"></script>
+
+<script>
+ window.addEventListener('load', function() {
+  hideLoader();
+ });
+
+ function hideLoader() {
+  document.getElementById('page-loader').classList.add('hidden');
+ }
+</script>
+
+<header class="bg-white pt-20 lg:pt-28 not-for-print">
+    <div class="fixed lg:bg-white top-0 left-64 right-0 z-50 lg:shadow-md">
+        <div class="pl-4 pr-4 xl:pr-0 sm:pl-6">
+            <div class="flex h-24 items-center justify-center">
+                <div class="lg:flex lg:items-center lg:gap-12 lg:justify-center xl:justify-between lg:flex-wrap w-full">
+                    <a href="https://ffnatation.fr/" class="bg-[#111F69] py-2 px-6 text-white rounded-lg hidden min-[1740px]:flex flex-wrap items-center gap-4">
+                        <i class="fa-solid fa-arrow-left"></i>
+                        FFNATATION.FR
+                    </a>
+                    <nav aria-label="Global" class="hidden lg:block">
+                        <ul class="flex items-center gap-3 2xl:gap-6 text">
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=nat">Natation</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=wp">Water-polo</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=ns">Natation artistique</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=pl">Plongeon</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=eau">Eau libre</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=ete">Natation estivale</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=mtr">Maîtres</a>
+                                                            <li> <a class="transition text-gray-500 hover:text-gray-500/75" href="index.php?idact=ffn">FFN</a>
+                                                    </ul>
+                    </nav>
+                    <div class="hidden xl:flex flex-wrap items-center bg-[#111F69] text-white text-sm h-24 uppercase">
+                        <a href="https://www.liveffn.com/cgi-bin/liste_live.php" target="_blank" class="h-full w-28 border-r border-white justify-center flex-col items-center gap-2 hidden 2xl:flex">
+                            <i class="fa-solid fa-play"></i>
+                            Live
+                        </a>
+                        <a href="https://ffnboutique.com/" target="_blank" class="h-full w-28 border-r border-white justify-center flex-col items-center gap-2 hidden 2xl:flex">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                            Boutique
+                        </a>
+                        <a href="https://extranat.fr/" target="_blank" class="h-full w-28 border-r border-white flex justify-center flex-col items-center gap-2">
+                            <i class="fa-solid fa-person-swimming"></i>
+                            Extranat
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="antialiased bg-gray-50 lg:hidden not-for-print">
+        <nav class="bg-white border-b border-gray-200 px-4 py-2.5 fixed left-0 right-0 top-0 z-50">
+            <div class="flex flex-wrap justify-between items-center">
+                <div class="flex justify-start items-center">
+                    <button data-drawer-target="drawer-navigation" data-drawer-toggle="drawer-navigation" aria-controls="drawer-navigation" class="p-2 mr-2 text-gray-600 rounded-lg cursor-pointer lg:hidden hover:text-gray-900 hover:bg-gray-100 focus:bg-gray-100 focus:ring-2 focus:ring-gray-100">
+                        <i class="fa-solid fa-bars"></i>
+                        <span class="sr-only">Menu</span>
+                    </button>
+                </div>
+                <a href="/" aria-label="Brand">
+                    <img src="../media/img/logo.svg" alt="FFN Logo" width="80px">
+                </a>
+            </div>
+        </nav>
+
+        <aside class="fixed top-0 left-0 z-40 w-64 h-screen pt-14 transition-transform -translate-x-full bg-white border-r border-gray-200 lg:translate-x-0 not-for-print" aria-label="Sidenav" id="drawer-navigation">
+            <div class="overflow-y-auto py-5 px-3 h-full bg-white">
+                <ul class="space-y-2">
+                    <a href="https://ffnatation.fr/" class="bg-[#111F69] py-2 px-6 text-white rounded-lg mb-4 flex flex-wrap items-center gap-4 xl:hidden">
+                        <i class="fa-solid fa-arrow-left"></i>
+                        FFNATATION.FR
+                    </a>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-nat" data-collapse-toggle="dropdown-pages-nat">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Natation</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-nat" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/competitions.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_rankings.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Rankings et ATR</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_records.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Records</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_perfs.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Qualifications</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_indices.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Indices de Performances</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_recherche.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Rechercher des Perf.</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_classements.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Classements (CNC)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_web.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">La Web Confront@tion</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_avenirs.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Le Challenge Avenirs</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_informatique.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Informatique & FFNex</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/meetings.php?idact=nat" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Meeting labellisés</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-wp" data-collapse-toggle="dropdown-pages-wp">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Water-polo</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-wp" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/wp_results.php?idact=wp" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/wp_calendar.php?idact=wp" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Le Calendrier du WP</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/wp_buteur.php?idact=wp" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Classements des buteurs</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/wp_stat.php?idact=wp" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Statistiques</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=wp" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-ns" data-collapse-toggle="dropdown-pages-ns">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Natation artistique</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-ns" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/na_competitions.php?idact=ns" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=ns" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-pl" data-collapse-toggle="dropdown-pages-pl">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Plongeon</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-pl" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=pl" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-eau" data-collapse-toggle="dropdown-pages-eau">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Eau libre</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-eau" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/eau_compets.php?idact=eau" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/eau_classements.php?idact=eau" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Classements (CNC)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/eau_records.php?idact=eau" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Records de France 5 km</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/eau_rankings.php?idact=eau" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Rankings Indoor 5 km</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=eau" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-ete" data-collapse-toggle="dropdown-pages-ete">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Natation estivale</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-ete" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/competitions.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/ete_rankings.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Rankings</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_perfs.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Qualifications</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_recherche.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Rechercher des Perf.</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/ete_classements.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Classements (CNC)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=ete" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-mtr" data-collapse-toggle="dropdown-pages-mtr">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">Maîtres</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-mtr" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/competitions.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Résultats</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/mtr_rankings.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Rankings nationaux</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/mtr_circuit_federal.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Le Circuit Fédéral</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/mtr_records.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Records</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/mtr_classements.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Classements (CNC)</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/nat_recherche.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Rechercher des Perf.</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/mtr_perfs.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Les Qualifications</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/meetings.php?idact=mtr" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Meeting labellisés</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                            <li>
+                            <button type="button" class="flex items-center p-2 w-full text-base font-medium rounded-lg transition duration-75 group hover:bg-gray-100 text-gray-900" aria-controls="dropdown-pages-ffn" data-collapse-toggle="dropdown-pages-ffn">
+                                <span class="flex-1 ml-3 text-left whitespace-nowrap">FFN</span>
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+
+                            <ul id="dropdown-pages-ffn" class="hidden py-2 space-y-2">
+                                                                    <li>
+                                        <a href="/webffn/ffn_recompenses.php?idact=ffn" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Récompenses fédérales</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/calendrier.php?idact=ffn" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Calendrier Fédéral</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/webffn/recherche_licence.php?idact=ffn" class="flex items-center p-2 pl-11 w-full text-base font-medium text-gray-900 rounded-lg transition duration-75 group hover:bg-gray-100">Recherche Licence</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                    </ul>
+            </div>
+        </aside>
+    </div>
+</header>
+
+<div id="docs-sidebar" class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full transition-all duration-300 transform hidden fixed top-0 left-0 bottom-0 z-[60] w-64 bg-white border-r border-gray-200 pt-7 pb-10 overflow-y-auto scrollbar-y lg:block lg:translate-x-0 lg:right-auto lg:bottom-0 not-for-print">
+    <div class="px-6 mb-4">
+        <a href="https://ffnatation.fr/" class="bg-[#111F69] py-2 px-6 text-white rounded-lg mb-4 flex flex-wrap items-center gap-4 min-[1740px]:hidden">
+            <i class="fa-solid fa-arrow-left"></i>
+            FFNATATION.FR
+        </a>
+        <a href="/" aria-label="Brand">
+            <img src="../media/img/logo.svg" alt="FFN Logo">
+        </a>
+    </div>
+    <nav class="hs-accordion-group p-6 w-full flex flex-col flex-wrap" data-hs-accordion-always-open>
+        <ul class="space-y-1.5">
+            <li class="mb-6 text-xl font-bold">Compétitions</li>
+
+                    </ul>
+    </nav>
+</div>
+
+<!-- Menu de gauche -->
+<div class="container mx-auto px-3 min-h-screen mb-10">
+    <div class="mb-10 xl:mb-0 not-for-print">
+        <div class="xl:hidden">
+            <label for="Tab" class="sr-only">Onglets</label>
+            <select onchange="window.location.href = this.value" id="Tab" class="w-full rounded-md border-0 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                                        <option value="resultats.php?idact=nat$$on&idcpt=18999&go=epr" >
+                            Les R&eacute;sultats                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=clb" >
+                            Liste des Clubs FFN                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=ban" >
+                            Liste des Sélections                        </option>
+                                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=nag" >
+                            Liste des Participants                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=pod" >
+                            Les Podiums                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=prf" >
+                            Les Meilleures Perf.                        </option>
+                                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=bil" >
+                            Bilan et Statistiques                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=mpp" >
+                            Taux de r&eacute;ussite                        </option>
+                                                            <option value="resultats.php?idact=nat$$on&idcpt=18999&go=rec" >
+                            Les Records battus                        </option>
+                                                                    <option value="./resultats_pdf.php?idcpt=18999" >
+                    Résultats format PDF
+                </option>
+                <option value="./resultats_ffnex.php?idcpt=18999" >
+                    Résultats format FFNex
+                </option>
+                                <option value="./resultats_csv.php?idcpt=18999" >
+                    Résultats format CSV
+                </option>
+            </select>
+        </div>
+    </div>
+
+    <aside class="fixed inset-y-0 left-64 top-24 hidden w-64 overflow-y-auto border-r border-gray-200 px-4 py-6 sm:px-6 lg:px-8 xl:block bg-white not-for-print">
+        <nav class="flex flex-1 flex-col" aria-label="Sidebar">
+            <ul role="list" class="-mx-2 space-y-1">
+                                        <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=epr" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Les R&eacute;sultats                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=clb" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Liste des Clubs FFN                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=ban" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Liste des Sélections                            </a>
+                        </li>
+                                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=nag" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Liste des Participants                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=pod" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Les Podiums                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=prf" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Les Meilleures Perf.                            </a>
+                        </li>
+                                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=bil" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Bilan et Statistiques                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=mpp" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Taux de r&eacute;ussite                            </a>
+                        </li>
+                                                            <li>
+                            <a href="resultats.php?idact=nat$$on&idcpt=18999&go=rec" class="text-gray-700 hover:text-[#111F69] hover:bg-gray-50 font-semibold group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6">
+                                Les Records battus                            </a>
+                        </li>
+                                                                    <li>
+                    <a href="./resultats_pdf.php?idcpt=18999" class="text-gray-700 hover:text-indigo-600 hover:bg-gray-50 group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6 font-semibold">
+                        Résultats format PDF
+                    </a>
+                </li>
+                <li>
+                    <a href="./resultats_ffnex.php?idcpt=18999" class="text-gray-700 hover:text-indigo-600 hover:bg-gray-50 group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6 font-semibold">
+                        Résultats format FFNex
+                    </a>
+                </li>
+                                <li>
+                    <a href="./resultats_csv.php?idcpt=18999" class="text-gray-700 hover:text-indigo-600 hover:bg-gray-50 group flex gap-x-3 rounded-md p-2 pl-3 text-sm leading-6 font-semibold">
+                        Résultats format CSV
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </aside>
+
+    <div class="xl:ml-64 px-4">
+            <div class="relative block overflow-hidden rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8 shadow-md mb-10">
+        <span class="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-[#4AB4E6] via-[#111F68] to-[#E2061A]"></span>
+
+        <button type="button" onclick="window.print()" class="hidden xl:block rounded-full bg-[#111F69] flex items-center justify-center w-14 h-14 text-xl text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 absolute bottom-6 right-4 shadow-xl">
+            <i class="fa-solid fa-print"></i>
+        </button>
+
+        <div class="sm:flex sm:justify-between sm:gap-4 mb-6">
+    <div class="flex flex-wrap items-center">
+        <h3 class="text-lg font-bold text-gray-900 sm:text-2xl">Championnats du Monde en grand bassin - BARCELONE (ESP)</h3>
+        <span class="rounded-full bg-blue-100 px-2.5 py-0.5 text-sm text-blue-700 sm:ml-3 my-1 sm:my-0">Les résultats</span>
+    </div>
+            <div>
+            <div class="bg-[#111F69] py-2 px-3 text-white rounded-lg my-1 sm:my-0"><span class="hidden md:inline-block">Bassin de</span> 50 mètres</div>
+        </div>
+    </div>
+
+<div>
+    <p class="text-sm italic text-orange-700">Titre original : XVes Championnats du monde</p>
+    <p class="text-sm italic text-orange-700 mb-3">Type de compétition : Championnats du Monde en grand bassin (002)</p>
+    <p class="font-bold text-blue-600">Du Dimanche 28 Juillet au Dimanche 4 Août 2013 <span class="text-sm italic text-purple-600"></span></p>
+    <p class="font-bold italic text-green-700"></p>
+</div>
+
+    <div class="mt-8 text-sm text-red-700">
+                                    </div>
+
+        <div class="mt-10">
+            <p class="text-lg font-bold text-gray-900 mb-4">Filtres</p>
+
+            <form name="choix">
+                <div class="mb-3">
+                    <div class="grid grid-cols-2 lg:inline-flex rounded-lg border border-gray-100 bg-gray-100 p-1 items-center gap-2">
+                        <a class="md:inline-block rounded-md px-4 py-2 text-sm hover:text-gray-700 focus:relative text-gray-500" href="resultats.php?idact=nat$$on&idcpt=18999&go=res&idclb=&idreg=&iddep=&idban=&idppf=&idaff=2">Dames</a>
+                        <a class="md:inline-block rounded-md px-4 py-2 text-sm hover:text-gray-700 focus:relative text-gray-500" href="resultats.php?idact=nat$$on&idcpt=18999&go=res&idclb=&idreg=&iddep=&idban=&idppf=&idaff=1">Messieurs</a>
+                        <a class="md:inline-block rounded-md px-4 py-2 text-sm hover:text-gray-700 focus:relative bg-white text-blue-500 shadow-sm" href="resultats.php?idact=nat$$on&idcpt=18999&go=res&idclb=&idreg=&iddep=&idban=&idppf=&idaff=">Tous les engagements</a>
+
+                                            </div>
+
+                                    </div>
+            </form>
+        </div>
+    </div>
+
+
+        <div class="text-right mb-4">
+            2 Performances &nbsp;
+        </div>
+	
+		
+        <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+            <table class="w-full text-sm text-left text-gray-500">
+                                
+                        <thead class="md:text-2xl uppercase bg-green-600 text-white font-bold">
+                            <tr>
+                                <td colspan="9" class="px-6 py-3">
+                                    Structure : ANDORRE<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIj4KICA8ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS13aWR0aD0iMXB0Ij4KICAgIDxwYXRoIGZpbGw9IiMwMDAwYmQiIGQ9Ik0wIDBoMjE0LjR2NDc5Ljk4NEgweiIvPgogICAgPHBhdGggZmlsbD0iI2NjMTkwMCIgZD0iTTQyNS42IDBINjQwdjQ3OS45ODRINDI1LjZ6Ii8+CiAgICA8cGF0aCBmaWxsPSIjZmZmNjAwIiBkPSJNMjE0LjQgMGgyMTEuMnY0NzkuOTg0SDIxNC40eiIvPgogIDwvZz4KICA8ZyBzdHJva2Utd2lkdGg9IjFwdCI+CiAgICA8cGF0aCBkPSJNMzk4LjU0IDI5MC4yMmM0Ny44MjMuODE4IDQ0LjUxNS0yOS4xNSA2MS45NzQtMzIuMTI2IDE3LjQ1OC0yLjk3NyAzMy45MjggMTIuNDkgMzMuMzAyIDI5Ljk3MiAxLjg3MyAyMC44MTQtMjkuNzE0IDIwLjk2My0zMS42MzcgMzguMjk4LTEuOTI0IDE3LjMzNiAxNS4zNzcgMjIuNjI4IDMzLjMgMTkuOTgyczMwLjY0Ny0yMC4zNjMgMzkuODA1LTI4LjY5Yy0xMy4zMiA3LjQ5NC0yNC4yMTggNC43OC0yNS4yMS04LjU1Ny42NzMtMTcuNDk4IDE4LjEwMy0yMy44NDggMjYuMzQ1LTE3Ljk2IDYuNDc2LTUuMyA2LjA5LTcuNDI0IDEzLjIxLTYuMjQ3IDQuODI3IDIuOTQ0IDYuMTQyIDIuODYgOC45OTggNy40MTggMy43MTctMi4zNTQgNS4yNy0zLjU0IDEyLjIwNC0uNTk2IDQuMzA2IDEuNzY3IDcuMTggNC45NiA5Ljg0IDkuODA4IDMuMTQ3LTIuNDg2IDguMDg3LTMuNDEzIDEzLjc2My0uMTk3IDMuNjEgMS44MzcgOC4xMDggNy4xODIgOC43MiAxMi45OTUgOC40NSAxLjY5NiAxMS4zOCAzLjY1NCAxNC4wMzQgNy45NTMgMTUuNzY0IDIxLjc3NS0yLjQzNiA1OC40NzMtMS40MzMgNzcuMjA1IDEuMDA0IDE4LjczIDE2LjY1IDE5Ljk4IDE2LjY1IDE5Ljk4LTE0LjcxNi05LjQyLS4yLTE1LjkgNi43NDYtMTYuNTUgMjIuMjUyIDIuMjkzIDE4LjUwOCAzNS4xMzYtNS4xOCAyOS4zNjctMTguOTc4LTUuMTggMzguOTIgMy4yOCAzNy41MjUgNjIuNjM3LTEuMzk2IDYxLjAyLTMyLjgxNSA0OS4wMS0zMi44MTUgNDkuMDFzMjYuODM4IDEwLjExIDIxLjY0NiAzMC4wOWMtNS4xOTIgMTMuNTA3LTMyLjkzNCAyMi40NTYtMzAuNTgtMy40NDgtOC4yNCAxMS4xODYtMTAuNjA3IDE1LjkxMy0xMC41OCAzMi45MTYtMS4xNDcgMjEuNzEzLjY1NyAzMS42MyA2Ljg0NiA0Mi4zIDEuNDgtOS45MzQgOC4yMDYtMTAuMzYgMTMuOTUyLTkuMSA4LjEuMDg1IDEyLjYwNyA2LjQ0MyA5LjU2MyAxNC42ODUgNC4wOC0xLjAzNSA3LjgwMiAxLjc1NyA5LjQwMyA1LjEyIDEuMjU1IDYuMjA3IDQuMDM3IDguOTU3LTIuNDQgMTEuMzEyIDYuNDc3IDEuMTc4IDkuNjEgMi4wMjQgMTAuMzc4IDExLjA1LjE4IDcuMjYtMTIuNTk1IDExLjI0NS0yNi4xMzUgOC44OSA3LjA2NSAzLjUzMyAyOS45ODMgNTAuMDI1IDI2LjkyMiAxMDMuNDQtMi4xMiA0Ny45MDUtODYuMDM4IDQzLjY0LTEyMy41MyA0Mi4zMDUtMzcuNDg4LTEuMzMyLTcyLjUxMi43NzUtODcuMTMzIDEzLjA1MiAxMS4yNDcgNy4xODItMS4zMDIgMjkuNTQyLTEwLjg2NCAxOS4wNjQgMCA4LjI0Mi05LjQ1IDIwLjk4LTIyLjQ5NyAxMi43MTguNTM0IDE0Ljg4NS0xNC4yMzggMjUuMzI4LTI3LjEyIDI1LjMyOHMtMjcuNjU2LTEwLjQ0My0yNy4xMjItMjUuMzI4Yy0xMy4wNDcgOC4yNi0yMi40OTYtNC40NzYtMjIuNDk2LTEyLjcxOC05LjU2MiAxMC40NzgtMjIuMTEtMTEuODgyLTEwLjg2NC0xOS4wNjQtMTQuNjItMTIuMjc3LTQ5LjY0NS0xNC4zODQtODcuMTMzLTEzLjA1Mi0zNy40OSAxLjMzNC0xMjEuNDEgNS42LTEyMy41My00Mi4zMDUtMy4wNi01My40MTggMjMuNy05OS45MSAzMC43NjQtMTAzLjQ0LTEzLjU0IDIuMzU1LTI2LjMxNS0xLjYzLTI2LjEzNS04Ljg5Ljc2Ny05LjAyNiAzLjktOS44NzIgMTAuMzc3LTExLjA1LTYuNDc2LTIuMzU1LTMuNjk0LTUuMTA1LTIuNDQtMTEuMzEgMS42MDItMy4zNjUgNS4zMjQtNi4xNTcgOS40MDMtNS4xMjItMy4wNDQtOC4yNDIgMS40NjItMTQuNiA5LjU2My0xNC42ODQgNS43NDYtMS4yNiAxMi40NzItLjgzNCAxMy45NTIgOS4xIDYuMTktMTAuNjcgNy45OTMtMjAuNTg3IDYuODQ1LTQyLjMuMDI4LTE3LjAwMy0yLjMzOC0yMS43My0xMC41OC0zMi45MTYgMi4zNTUgMjUuOTA0LTI1LjM4NyAxNi45NTUtMzAuNTc4IDMuNDQ4LTUuMTkyLTE5Ljk4IDIxLjY0Ni0zMC4wOSAyMS42NDYtMzAuMDlzLTMxLjQyIDEyLjAxLTMyLjgxNS00OS4wMWMtMS4zOTYtNTkuMzU2IDU2LjUwMy02Ny44MTcgMzcuNTI1LTYyLjYzNy0yMy42ODggNS43Ny0yNy40MzItMjcuMDc0LTUuMTgtMjkuMzY2IDYuOTQ2LjY1IDIxLjQ2MiA3LjEzIDYuNzQ1IDE2LjU1IDAgMCAxNS42NDctMS4yNSAxNi42NS0xOS45ODIgMS4wMDQtMTguNzMyLTE3LjE5Ni01NS40My0xLjQzLTc3LjIwNSAyLjY1Mi00LjMgNS41ODItNi4yNTcgMTQuMDMzLTcuOTUzLjYxMy01LjgxMyA1LjExLTExLjE1OCA4LjcyLTEyLjk5NSA1LjY3Ny0zLjIxNiAxMC42MTctMi4yOSAxMy43NjMuMTk3IDIuNjYtNC44NDcgNS41MzUtOC4wNCA5Ljg0LTkuODA4IDYuOTM2LTIuOTQzIDguNDg4LTEuNzU4IDEyLjIwNS41OTcgMi44NTYtNC41NTYgNC4xNy00LjQ3MyA5LTcuNDE3IDcuMTE4LTEuMTc3IDYuNzMyLjk0OCAxMy4yMDggNi4yNDYgOC4yNDItNS44ODggMjUuNjcyLjQ2MiAyNi4zNDUgMTcuOTYtLjk5IDEzLjMzNS0xMS44ODggMTYuMDUtMjUuMjEgOC41NTcgOS4xNiA4LjMyNiAyMS44OCAyNi4wNDMgMzkuODA1IDI4LjY5czM1LjIyNS0yLjY0NyAzMy4zMDItMTkuOTgzYy0xLjkyMy0xNy4zMzUtMzMuNTEtMTcuNDg0LTMxLjYzNy0zOC4yOTgtLjYyNi0xNy40ODMgMTUuODQ0LTMyLjk1IDMzLjMwMi0yOS45NzIgMTcuNDYgMi45NzcgMTQuMTUgMzIuOTQ0IDYyLjE4MiAzMi4xMjZ6IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHRyYW5zZm9ybT0ibWF0cml4KC41NTgyNiAwIDAgLjUyNzMzIDk3LjYyMiAtNjYuMjM4KSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSIjY2JhMzIzIi8+CiAgICA8cGF0aCBkPSJNMzU2LjQ0IDM0Ni42MmMtLjU3NSAxNy45Ni0zMS4yNTggMTQuODI4LTUxLjUxNCAxMy44Ni0yNi4zMjYtMS4yMzItNzcuNTktNDYuMDgtNDQuMjYzLTY5Ljg5TTE2NC44NCA0NDkuNTJjLTE2LjQ4NCAxNy42NjIgMjguNjkgMTMuNDk3IDkuNDItOS40Mi03Ljg3LTguODItNDEuMjEgMTguODQtNDEuMjEgNDkuNDUzczEwLjU5NiA0NC43NDIgMTYuNDgzIDQ1LjkyYzUuODg3IDEuMTc3IDE1LjMwNy0zLjUzMyAxNS4zMDctOC4yNDIgMC01Ljg4Ni00LjcxLTE1LjMwNi0xMS43NzQtMTQuMTMtMTEuNzc1IDAtNS44ODggMTAuNTk4IDAgMTAuNTk4IiB0cmFuc2Zvcm09Im1hdHJpeCguNTU4MjYgMCAwIC41MjczMyA5Ny42MjIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE2My4zOSA0NTEuMzlzLTI0LjQ1MyA5LjkwOC0yNC40NTMgMzkuMzQzYzAgMjkuNDM2IDcuMDY1IDI4LjI2IDcuMDY1IDI4LjI2IiB0cmFuc2Zvcm09Im1hdHJpeCguNTU4MjYgMCAwIC41MjczMyA5Ny42MjIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE2Ni4wMiA0MzAuNjhzMjQuNzI2LTMuNTMzIDIzLjU1IDE4LjgzOGMtMS4xOCAyMi4zNy05LjQyIDIzLjU1LTIyLjM3MiAyMi4zNy0xMi45NTItMS4xNzYtNS44ODctMTYuNDgyLTUuODg3LTE2LjQ4Mk0xNTYuNiA1NDMuNzFzMTguODQtMS4xNzggMTcuNjYtMjEuMTk0Yy0xLjE3Ni0yMC4wMTYtMTUuMzA1LTIxLjE5NC0yMy41NDctMjAuMDE2LTguMjQyIDEuMTc3LTEwLjc0IDUuODAzLTguMjQyIDEyLjg4TTE1MC43MSA1NjcuMjZzMy45MzYtOC4xNTggMTYuODg3LTguMTU4YzEyLjk1MiAwIDE4Ljk4MiAzMC4zODYgMTcuODA1IDYzLjM1NC0xLjE3OCAzMi45NjgtMzMuNTE1IDYxLjM3LTQwLjU4IDU5LjAxNS03LjA2NC0yLjM1NC0xMC41OTctMy41MzItNC43MS04LjI0TTE3Mi4zOSA2NDMuMzFsLTIyLjg2IDM4LjE2NiIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNjIyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0xNDEuMjkgNjY3LjM0YzAgLjQxNiA1LjA1NC0xLjEwNSA4LjU4NyAxLjI1IDMuNTMyIDIuMzU0IDQuMzY1IDUuODE1IDQuMzY1IDUuODE1IiB0cmFuc2Zvcm09Im1hdHJpeCguNTU4MjYgMCAwIC41MjczMyA5Ny4wNDggLTY2LjA4MykiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE0NC44MiA2NTAuODZzNC41MTctMS44MiAxMC40MDQuNTM2IDUuNjk1IDcuNjYyIDUuNjk1IDcuNjYyIiB0cmFuc2Zvcm09Im1hdHJpeCguNTA4OTMgMCAwIC4zNzc2NCAxMDYuNjMgMzEuNjcyKSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIi8+CiAgICA8cGF0aCBkPSJNMTcxLjc4IDczMS45NWMxMi4yNSA2LjM2NCAyNC4yODItMjUuMTguNjctMjYuNzI2LTE2Ljg4Ny0uNjktMjkuMDg0IDIzLjI2OC0yNi43MyAzNS4wNCA2LjQzMiA0MC4wNjIgMTAuNDQ1IDY2Ljg2MiA1MC41NyA3Mi4wNDYgMzAuNjEyIDIuMzU1IDc4LjQ1LTUuMSAxMDguMy0xLjUyMyAyOS40NCAzLjQzMyA2MS45NCAxNC4yNzIgNzMuNzEzIDI2LjA0NyAxMS43NzQgMTEuNzc0IDE5LjExMiAxMS44OTIgMTkuMTEyIDIzLjY2NyAwIDExLjc3NS0xNi44MTUgMTcuODE3LTIzLjQ3NiAxMC43NCIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuMDIgLTY1LjA5NikiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTM2OS44NCA4NzYuOTJjNC4zMDUtMi45MTQgMTQuNTU2LTIwLjQyNSA0LjcyMi0zMC44MTUtMTUuMTk0LTE1LjQtMjYuMTY1LTIxLjQ4LTMzLjY1OC0yMy45NzdNMzQ3LjU1IDg2My4yOGM1LjgyOC0zLjUzMiA2LjY4NC0xNS4yOTguNTk0LTI0LjI3NC02LjA5LTguOTc1LTIxLjk0LTE2LjE2NS01My4wNzMtMTguOC0yMy41ODItMS45OC04Ny44NDMgOC40NDUtMTExLjM5IDEuMzgtMzMuMDU4LTEyLjcyLTUzLjg0NC0zNC4xNS00OC43NzItODcuMzkgMS41Mi0yMC42MjIgMTEuOTE3LTM0LjQ2NiAzMi4yNzgtMzcuMTA2IDIyLjg1OC0uMTQzIDI4LjgxMyAxNC43MzQgMjguODEzIDMzLjU3IDAgOS42ODItMjUuMzE4IDE4Ljg4LTI5LjkxIDkuNzA2LTcuMTEtMTIuODU0LTEwLjIxNy0yNC40NSAxNS44OC0zMC42MDciIHRyYW5zZm9ybT0ibWF0cml4KC41NTgyNiAwIDAgLjUyNzMzIDk3LjAyIC02NS4wOTYpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0zMzcuNDEgODQ0LjU5czkuNzY1IDUuNjg1IDcuNDEgMTAuMzk1Yy0yLjM1NCA0LjcxLTguNjU4IDIuNy00LjQ5Ni0yLjI5NiIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuMDIgLTY1LjA5NikiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTIzOC45NSAyOTEuNHMtNi42NiA2LjY2LTMuMzMgMjIuNDggOS45OSAxNC45ODYgOS45OSAxNC45ODZNMjE2LjQ3IDMwMC41NWMtLjgzMyAxLjY2NS05LjcwNiAxMS44NTgtNC43MSAyMi42OCA0Ljk5NSAxMC44MjUgOC45NTYgMTIuOTc4IDguOTU2IDEyLjk3OE0xOTMuOTkgMzEzLjg3cy03LjE5NSAxMC42MjItOC41NjcgMjkuNTU1IDcuNzkgNDUgNy41MzMgNTQuNjk4Yy0uNTggMjAuNjEtMjQuMDEyIDMwLjg0LTI0LjAxMiAzMC44NE0xNTkuODUgNTQzLjY2YzEuNjY1IDAgMzQuMTM1LTI5Ljk3MiAzNC4xMzUgNzYuNTk3LTIuNDk4IDYxLjYxLTM4LjI5OCA2Ny40MzgtMzguMjk4IDY3LjQzOCIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNjIyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0xNjIuNDkgNjg5LjcxYzEzLjE0OC0zLjMzNiA0MC40MjUgMTAuOTkgMzAuNjEzIDM1LjMyNCIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTguNTY4IC02NC45NykiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE2Ny43OCA2ODEuNDdjOC40NC43ODUgMTUuMzIgNi45MDQgMTguNDU4IDE1LjM0MyIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNDM1IC02NS45KSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIi8+CiAgICA8cGF0aCBkPSJNMTQ4LjIgNDc3LjA2czkuOTkgMTQuMTU0IDI0Ljk3NyAxNC4xNTQgMTkuOTgyLTE1LjgyIDE5Ljk4Mi0xNS44MiIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNjIyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0xNDYuNTMgNDg0LjU1czkuMTU4IDE2LjY1MiAyNC45NzcgMTcuNDg0YzE1LjgyLjgzMyAyMS42NDctMTAuODIzIDIxLjY0Ny0xMC44MjNNMTc5Ljg0IDUwOS41MnMxMS42NTcgNC45OTYgMTEuNjU3IDE5LjE1YzAgMTQuMTUzLTEwLjgyNCAxMC44MjMtMTAuODI0IDEwLjgyMyIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNjIyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0zNTYuNDQgMzQ2LjYyYy0uNTc1IDE3Ljk2LTMxLjI1OCAxNC44MjgtNTEuNTE0IDEzLjg2LTI2LjMyNi0xLjIzMi03Ny41OS00Ni4wOC00NC4yNjMtNjkuODlNMTY0Ljg0IDQ0OS41MmMtMTYuNDg0IDE3LjY2MiAyOC42OSAxMy40OTcgOS40Mi05LjQyLTcuODctOC44Mi00MS4yMSAxOC44NC00MS4yMSA0OS40NTNzMTAuNTk2IDQ0Ljc0MiAxNi40ODMgNDUuOTJjNS44ODcgMS4xNzcgMTUuMzA3LTMuNTMzIDE1LjMwNy04LjI0MiAwLTUuODg2LTQuNzEtMTUuMzA2LTExLjc3NC0xNC4xMy0xMS43NzUgMC01Ljg4OCAxMC41OTggMCAxMC41OTgiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTU4MjYgMCAwIC41MjczMyA1NDIuNDgyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0xNjMuMzkgNDUxLjM5cy0yNC40NTMgOS45MDgtMjQuNDUzIDM5LjM0M2MwIDI5LjQzNiA3LjA2NSAyOC4yNiA3LjA2NSAyOC4yNiIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0Mi40ODIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE2Ni4wMiA0MzAuNjhzMjQuNzI2LTMuNTMzIDIzLjU1IDE4LjgzOGMtMS4xOCAyMi4zNy05LjQyIDIzLjU1LTIyLjM3MiAyMi4zNy0xMi45NTItMS4xNzYtNS44ODctMTYuNDgyLTUuODg3LTE2LjQ4Mk0xNTYuNiA1NDMuNzFzMTguODQtMS4xNzggMTcuNjYtMjEuMTk0Yy0xLjE3Ni0yMC4wMTYtMTUuMzA1LTIxLjE5NC0yMy41NDctMjAuMDE2LTguMjQyIDEuMTc3LTEwLjc0IDUuODAzLTguMjQyIDEyLjg4TTE1MC43MSA1NjcuMjZzMy45MzYtOC4xNTggMTYuODg3LTguMTU4YzEyLjk1MiAwIDE4Ljk4MiAzMC4zODYgMTcuODA1IDYzLjM1NC0xLjE3OCAzMi45NjgtMzMuNTE1IDYxLjM3LTQwLjU4IDU5LjAxNS03LjA2NC0yLjM1NC0xMC41OTctMy41MzItNC43MS04LjI0TTE3Mi4zOSA2NDMuMzFsLTIyLjg2IDM4LjE2NiIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0Mi40ODIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE0MS4yOSA2NjcuMzRjMCAuNDE2IDUuMDU0LTEuMTA1IDguNTg3IDEuMjUgMy41MzIgMi4zNTQgNC4zNjUgNS44MTUgNC4zNjUgNS44MTUiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTU4MjYgMCAwIC41MjczMyA1NDMuMDU2IC02NS45KSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIi8+CiAgICA8cGF0aCBkPSJNMTQ0LjgyIDY1MC44NnM0LjUxNy0xLjgyIDEwLjQwNC41MzYgNS42OTUgNy42NjIgNS42OTUgNy42NjIiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTA4OTMgMCAwIC4zNzc2NCA1MzMuNDc1IDMxLjY3MikiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE3MC40MiA3NDEuNWMtMi4zNTQgMCAxNS40NS0xOS44NzctLjY4OC0yMy44OTctMjAuMjg0LTMuODcyLTI4Ljc0NCAxNi41NS0yNi4zOSAyOC4zMjMgNS4wNzMgMjguNzQ2IDE2Ljg5OCA2NC4wMzMgNTIuOTQ2IDY2LjM4OCAzMC42MTMgMi4zNTUgNzguNDUtNS4xIDEwOC4zLTEuNTIzIDI5LjQ0IDMuNDM0IDYxLjk0IDE0LjI3MyA3My43MTQgMjYuMDQ4IDExLjc3NCAxMS43NzQgMTkuMTEyIDExLjg5MiAxOS4xMTIgMjMuNjY3IDAgMTEuNzc0LTE2LjgxNSAxNy44MTYtMjMuNDc2IDEwLjc0IiB0cmFuc2Zvcm09Im1hdHJpeCgtLjU1ODI2IDAgMCAuNTI3MzMgNTQwLjgwNCAtNjUuMDk2KSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIi8+CiAgICA8cGF0aCBkPSJNMzY5Ljg0IDg3Ni45MmM0LjMwNS0yLjkxNCAxNC41NTYtMjAuNDI1IDQuNzIyLTMwLjgxNS0xNS4xOTQtMTUuNC0yNi4xNjUtMjEuNDgtMzMuNjU4LTIzLjk3N00zNDcuNTUgODYzLjI4YzUuODI4LTMuNTMyIDYuNjg0LTE1LjI5OC41OTQtMjQuMjc0LTYuMDktOC45NzUtMjEuOTQtMTYuMTY1LTUzLjA3My0xOC44LTIzLjU4Mi0xLjk4LTg3Ljg0MyA4LjQ0NS0xMTEuMzkgMS4zOC00My45MjgtMTguMzc4LTUzLjUwNC00Mi42MzUtNTIuNTA4LTgxLjczNCAxLjUyLTIwLjYyIDEyLjI1Ny0zNi41ODcgMzIuNjE4LTM5LjIyNyAyMi44NTgtLjE0MyAyNi43NzQgMTEuOTA2IDI2Ljc3NCAzMC43NDQgMCA5LjY4LTkuMDEzIDI1LjcxNS0yMS4zMzQgMjMuMzYtMTIuMzIyLTMuMTg3LTIxLjkyLTI1LjAxMi0xLjEwNi0zNi42NjgiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTU4MjYgMCAwIC41MjczMyA1NDAuODA0IC02NS4wOTYpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0zMzcuNDEgODQ0LjU5czkuNzY1IDUuNjg1IDcuNDEgMTAuMzk1Yy0yLjM1NCA0LjcxLTguNjU4IDIuNy00LjQ5Ni0yLjI5NiIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0MC44MDQgLTY1LjA5NikiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTIzOC45NSAyOTEuNHMtNi42NiA2LjY2LTMuMzMgMjIuNDggOS45OSAxNC45ODYgOS45OSAxNC45ODZNMjE2LjQ3IDMwMC41NWMtLjgzMyAxLjY2NS05LjcwNiAxMS44NTgtNC43MSAyMi42OCA0Ljk5NSAxMC44MjUgOC45NTYgMTIuOTc4IDguOTU2IDEyLjk3OE0xOTMuOTkgMzEzLjg3cy03LjE5NSAxMC42MjItOC41NjcgMjkuNTU1IDcuNzkgNDUgNy41MzMgNTQuNjk4Yy0uNTggMjAuNjEtMjQuMDEyIDMwLjg0LTI0LjAxMiAzMC44NE0xNTkuODUgNTQzLjY2YzEuNjY1IDAgMzQuMTM1LTI5Ljk3MiAzNC4xMzUgNzYuNTk3LTIuNDk4IDYxLjYxLTM4LjI5OCA2Ny40MzgtMzguMjk4IDY3LjQzOCIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0Mi40ODIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE1OC4wNyA3MDEuMDNjMTYuMjA1LTE0LjI5NiA0Ny4yMiAxMy4xMTIgMzUuNzA4IDM4LjUwNiIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0Mi42NjggLTY4LjY5MikiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE2Ny43OCA2ODEuNDdjOC40NC43ODUgMTcuMzU3IDYuMTk3IDIwLjQ5NiAxNC42MzYiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTU4MjYgMCAwIC41MjczMyA1NDQuNzYyIC02NC41OSkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTE0OC4yIDQ3Ny4wNnM5Ljk5IDE0LjE1NCAyNC45NzcgMTQuMTU0IDE5Ljk4Mi0xNS44MiAxOS45ODItMTUuODIiIHRyYW5zZm9ybT0ibWF0cml4KC0uNTU4MjYgMCAwIC41MjczMyA1NDIuNDgyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik0xNDYuNTMgNDg0LjU1czkuMTU4IDE2LjY1MiAyNC45NzcgMTcuNDg0YzE1LjgyLjgzMyAyMS42NDctMTAuODIzIDIxLjY0Ny0xMC44MjNNMTc5Ljg0IDUwOS41MnMxMS42NTcgNC45OTYgMTEuNjU3IDE5LjE1YzAgMTQuMTUzLTEwLjgyNCAxMC44MjMtMTAuODI0IDEwLjgyMyIgdHJhbnNmb3JtPSJtYXRyaXgoLS41NTgyNiAwIDAgLjUyNzMzIDU0Mi40ODIgLTY2LjIzOCkiIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTM1My4wMSAzMTMuNDZjLjQxNi0uNDE2LTEuNjY1LTkuMTYgOC4zMjYtOC43NDIgOS45OS40MTYgNi4yNDQgOS41NzQgMTQuNTcgMTIuOTA0IDcuOTEgMi4wODIgMjIuMDYzIDQuMTY0IDIyLjUyOCA0LjE2NHMxNC42Mi0yLjA4MiAyMi41MjgtNC4xNjRjOC4zMjYtMy4zMyA0LjU4LTEyLjQ4OCAxNC41Ny0xMi45MDQgOS45OS0uNDE3IDcuOTEgOC4zMjYgOC4zMjYgOC43NDIiIHRyYW5zZm9ybT0ibWF0cml4KC41NTgyNiAwIDAgLjUyNzMzIDk3LjYyMiAtNjYuMjM4KSIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIi8+CiAgICA8cGF0aCBkPSJNMzczLjI4IDM0OS40MmMtLjI5NC00LjEyLTEuMjUtOS41NS02Ljg3LTkuOTY2LTEwLjUyNi0uMzQ1LTE4Ljg1NyAyMC42MDUgNC40NDMgMjAuNzUzIDE3LjA1NS4xMSAxNy4xOTgtMzIuMzU1LjgwNC0zMi44My0yMy41NS0uNjY4LTI2Ljc4OCAxMy4zODgtMjYuNDAyIDE2LjE0MiA1Ljk1Ny01MC4zOTgtMzMuMjQ2LTQwLjIwNy0zMS4zNzMtNTkuNzcuMjA3LTEwLjYwNyAxMC44NS0xMS44MjMgMjIuNDgtOS44NTggMTcuNDU4IDIuOCAxNC4xNSAzMC45NjcgNjIuMDc3IDMwLjE5OCA0Ny45MjYuNzcgNDQuNjE4LTI3LjQgNjIuMDc3LTMwLjE5OCAxMS42My0xLjk2NSAyMi4yNzItLjc1IDIyLjQ4IDkuODU3IDEuODcyIDE5LjU2My0zNy4zMyA5LjM3Mi0zMS4zNzQgNTkuNzcuMzg2LTIuNzU1LTIuODUzLTE2LjgxLTI2LjQwMi0xNi4xNDQtMTYuMzkzLjQ3Ni0xNi4yNSAzMi45NDIuODA1IDMyLjgzIDIzLjMtLjE0NyAxNC45Ny0yMS4wOTcgNC40NDQtMjAuNzUyLTUuNjIzLjQxNi02LjU3OCA1Ljg0NS02Ljg3MiA5Ljk2NiIgdHJhbnNmb3JtPSJtYXRyaXgoLjU1ODI2IDAgMCAuNTI3MzMgOTcuNjIyIC02Ni4yMzgpIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGQ9Ik00MDkuMzUgMzU1LjAxM2wuMDY3LjQtNi4yODQgMS41NS0uMDY2LS40LjQtLjFjLjM1LS4wODYuNjE2LS4yMy44MDQtLjQzNS4xMzctLjE0LjIyNy0uMzQuMjctLjYwNy4wMzYtLjE5LS4wMDYtLjY1Mi0uMTI3LTEuMzg4bC0xLjU5NC05LjY2NmMtLjEyNS0uNzUtLjIzNS0xLjIxMi0uMzMyLTEuMzg0LS4wOTUtLjE3LS4yNTUtLjMtLjQ4LS4zODgtLjIxOC0uMDk4LS40OTUtLjEwNS0uODMyLS4wMjJsLS40LjA5OC0uMDY1LS40IDYuMjg0LTEuNTQ4LjA2Ni40LS40LjA5OGMtLjM0Ny4wODYtLjYxNi4yMy0uODA0LjQzNS0uMTM2LjE0LS4yMjguMzQzLS4yNzcuNjEtLjAzNy4xOS4wMDYuNjUzLjEyNyAxLjM5bDEuNTk0IDkuNjY1Yy4xMjUuNzUuMjM0IDEuMjEzLjMzIDEuMzg0LjEwMi4xNy4yNjIuMzA0LjQ4LjQuMjI1LjA4OC41MDQuMDkuODQuMDA3bC40LS4wOTd6TTQwMC4wODIgMzQyLjdsLjQyNiA0LjAyMi0uMzIyLjA1Yy0uMjktLjg5Ni0uNTczLTEuNTMtLjg0OC0xLjg5Mi0uMjc4LS4zNzMtLjYzMi0uNjQ3LTEuMDYzLS44MjQtLjI0Mi0uMDk1LS42NDctLjA5Ny0xLjIxNC0uMDA3bC0uOTAzLjE0MiAxLjIxNiAxMS40NjVjLjA4Ljc2LjE2MyAxLjIzLjI1IDEuNDA4LjA5LjE4LjI0NC4zMjcuNDU2LjQ0LjIxNi4xMDguNS4xMzMuODQ2LjA3OGwuNDAyLS4wNjQuMDQzLjQwNS02LjM2MyAxLjAxLS4wNDMtLjQwNi40MDQtLjA2NWMuMzUyLS4wNTYuNjI4LS4xNzguODI4LS4zNjYuMTQzLS4xMjguMjQ3LS4zMi4zMS0uNTg0LjA0OC0uMTg3LjAzMi0uNjUyLS4wNDctMS4zOTdsLTEuMjE4LTExLjQ2Ni0uODc4LjE0Yy0uODE4LjEzLTEuMzkuNDM1LTEuNzE2LjkyLS40NTguNjcyLS42OTcgMS41NjgtLjcyIDIuNjg2bC0uMzM4LjA1NC0uNDI3LTQuMDIyIDEwLjkyLTEuNzMyek0zNTQuOSAzNDguODVsLjQwNCA2LjEzNi4zNTItLjAzNWMuNTQtLjA1Mi45NzUtLjE5NCAxLjMwNC0uNDI3LjMzLS4yMy41OTYtLjU5NC43OTgtMS4wODcuMjEtLjQ5NC4zMjQtMS4xNDUuMzQ0LTEuOTUzbC4zMTUtLjAzLjQ5NSA3LjUtLjMxNS4wMzJjLS4yMDgtMS40MDUtLjU4LTIuMzA4LTEuMTItMi43MDUtLjUzNi0uNDA2LTEuMTI2LS41NzYtMS43NjctLjUxM2wtLjM1Mi4wMzUuMzAyIDQuNTcyYy4wNS43NjQuMTE0IDEuMjM4LjE5MyAxLjQyMi4wODQuMTg0LjIzLjM0LjQ0LjQ2Ny4yMTMuMTIuNDkuMTYyLjgzMi4xMjhsLjQwNi0uMDQuMDI4LjQxLTYuMzg3LjYzLS4wMjYtLjQxLjQwNC0uMDRjLjM1Ni0uMDM0LjYzNS0uMTQuODQyLS4zMTQuMTUtLjEyLjI1OC0uMzA2LjMyNS0uNTY0LjA1NC0uMTg0LjA1Ny0uNjUuMDA4LTEuMzk4bC0uNjUtOS44MjhjLS4wNS0uNzYzLS4xMTQtMS4yMzctLjE5My0xLjQyMy0uMDgtLjE4My0uMjI0LS4zMzUtLjQzNy0uNDU0LS4yMDgtLjEzLS40ODQtLjE3Ny0uODI3LS4xNDNsLS40MDQuMDQtLjAyNy0uNDA2IDEwLjMwNy0xLjAxNi4yODIgNC4yODUtLjM3LjAzNWMtLjE1LS45OTctLjQxNi0xLjcyMi0uNzk1LTIuMTczLS4zNzYtLjQ1LS44OTctLjc0My0xLjU2NS0uODc1LS4zNjctLjA3Ni0xLjAzOC0uMDY0LTIuMDEuMDMybC0xLjEzNi4xMXpNMzMxLjQ2NiAzNDkuMDgzdjQuMDU1aC0uMzI1Yy0uMTkyLS45MzUtLjQwNi0xLjYwNy0uNjQtMi4wMS0uMjM3LS40MTMtLjU2LS43NDItLjk2OC0uOTg1LS4yMy0uMTMyLS42My0uMTk4LTEuMjAzLS4xOThoLS45MTN2MTEuNTZjMCAuNzY3LjAzMiAxLjI0Ni4xIDEuNDM3LjA3LjE5Mi4yMDcuMzYyLjQwNi41MS4yMDQuMTM4LjQ4LjIwOC44My4yMDhoLjQwN3YuNDFoLTYuNDE3di0uNDFoLjQwN2MuMzU1IDAgLjY0Mi0uMDc3Ljg2LS4yMzIuMTU1LS4xMDQuMjc4LS4yOC4zNy0uNTMuMDY2LS4xNzcuMDk4LS42NC4wOTgtMS4zOTJ2LTExLjU2aC0uODg1Yy0uODI2IDAtMS40MjYuMjEyLTEuOC42NC0uNTIzLjU5Ni0uODU1IDEuNDQ3LS45OTQgMi41NTJoLS4zNDN2LTQuMDU1aDExLjAxek0zMTguNzk0IDM2My42NjR2LjQxaC02LjQwOHYtLjQxaC40MDZjLjM1NiAwIC42NDItLjA3Ny44Ni0uMjMyLjE1NS0uMTA0LjI3Ny0uMjguMzYtLjUzLjA2Ni0uMTc3LjEtLjY0LjEtMS4zOTJ2LTkuODZjMC0uNzY2LS4wMzQtMS4yNDUtLjEtMS40MzctLjA2Ni0uMTktLjIwMi0uMzU3LS40MDYtLjQ5Ni0uMi0uMTUtLjQ3LS4yMjMtLjgxNC0uMjIzaC0uNDA2di0uNDA3aDYuNDA4di40MDdoLS40MDdjLS4zNTUgMC0uNjQyLjA3OC0uODU4LjIzMi0uMTU4LjEwNC0uMjgyLjI4LS4zNzMuNTMyLS4wNjYuMTc2LS4wOTguNjQtLjA5OCAxLjM5MnY5Ljg2YzAgLjc2Ni4wMyAxLjI0NS4wOTcgMS40MzUuMDczLjE5My4yMS4zNjIuNDA4LjUxLjIwNS4xNC40OC4yMS44MjIuMjFoLjQwN3pNMzAyLjY4MyAzNDkuMDgzbDYuMDQ3IDkuMjk0di02LjQ0NGMwLS44OTgtLjEwNi0xLjUwNS0uMzE3LTEuODIyLS4yOS0uNDI3LS43NzUtLjYzMy0xLjQ1NS0uNjJ2LS40MDdoNC4wNXYuNDA3Yy0uNTIuMDgyLS44NjguMTktMS4wNS4zMi0uMTc0LjEyNy0uMzEzLjMzNy0uNDE1LjYzLS4wOTcuMjktLjE0NS43ODYtLjE0NSAxLjQ5M3YxMi40OGgtLjMwN2wtOC4yODctMTIuNDh2OS41MjhjMCAuODYzLjE2IDEuNDQ2LjQ3OCAxLjc0Ny4zMjcuMzAyLjY5OC40NTMgMS4xMTMuNDUzaC4yOXYuNDFoLTQuMzQ4di0uNDFjLjY3NS0uMDA3IDEuMTQ0LS4xNzcgMS40MS0uNTA3LjI2NS0uMzMyLjM5OC0uODk2LjM5OC0xLjY5MnYtMTAuNTc2bC0uMjYzLS4zOThjLS4yNi0uMzk4LS40ODctLjY2LS42ODYtLjc4NC0uMi0uMTI3LS40ODYtLjE5Ni0uODYtLjIxMnYtLjQwN2g0LjM1ek0yOTcuNTgyIDM0OC4xbC0uMDEzLjQwNmMtLjQ1LjA2Ni0uODU3LjMzOC0xLjIyMi44MTMtLjI2NS4zNTYtLjY3IDEuMjAyLTEuMjE2IDIuNTM4bC00LjYgMTEuMjMtLjI5OC0uMDE0LTMuODAyLTEyLjExNmMtLjQ1Ny0xLjQ2LS43Ny0yLjMyLS45MzUtMi41OC0uMTYtLjI1Ny0uNDc3LS40MzItLjk1LS41MjNsLjAxMy0uNDA3IDUuODcuMjkzLS4wMTMuNDA4LS4yLS4wMWMtLjUzLS4wMjYtLjg5Mi4wMzctMS4wOS4xOS0uMTQzLjEwNC0uMjE4LjI2Mi0uMjI1LjQ3NS0uMDA0LjEzMi4wMTMuMjkyLjA1Ny40OC4wNC4xNzguMTg2LjY3LjQzNyAxLjQ3bDIuMzYgNy41ODUgMi42NDQtNi41MTdjLjMxNi0uNzg3LjUxMy0xLjMxNS41ODctMS41ODQuMDc1LS4yNy4xMTctLjUuMTIzLS42OS4wMDctLjIyMi0uMDM0LS40Mi0uMTI1LS41OTMtLjA5LS4xNzUtLjIyOC0uMzEtLjQxLS40MDgtLjI1Ni0uMTM3LS41OTgtLjIyLTEuMDI1LS4yNGwuMDE0LS40MDcgNC4wMTguMnpNMjc1Ljk1NyAzNDYuMjJsLS4xNDMgNC45OTMtLjM3LS4wMjdjLS4xMTQtMS4yNjMtLjQ5NC0yLjI5OC0xLjE0My0zLjEwNS0uNjQyLS44MTMtMS4zNi0xLjI1LTIuMTU0LTEuMzA4LS42MTMtLjA0NS0xLjExLjEyMy0xLjQ5LjUtLjM3Ni4zNzMtLjU3Ni44Mi0uNiAxLjM0LS4wMTcuMzMyLjAzMi42My4xNDUuODk4LjE1OC4zNTcuNDIyLjcyLjc5IDEuMDg3LjI3Mi4yNjQuOTAyLjc0IDEuODk1IDEuNDMzIDEuMzkuOTY1IDIuMzE2IDEuODUgMi43NzcgMi42NS40NTcuODAyLjY2IDEuNjk0LjYxMyAyLjY4LS4wNiAxLjI1LS41MTQgMi4yOTgtMS4zNTcgMy4xNDYtLjgzOC44MzgtMS44NyAxLjIxMy0zLjA5OCAxLjEyNC0uMzg1LS4wMy0uNzQ3LS4xMDItMS4wODQtLjIyMy0uMzQtLjEyLS43Ni0uMzMtMS4yNjUtLjYzNS0uMjgtLjE2OC0uNTE0LS4yNTgtLjctLjI3Mi0uMTU4LS4wMS0uMzI2LjA1LS41MDcuMTg0LS4xODMuMTM0LS4zMzQuMzQ4LS40NTguNjQzbC0uMzMzLS4wMjQuMjc2LTUuNjUuMzMyLjAyNWMuMTg4IDEuNjA3LjYzNyAyLjg2IDEuMzUgMy43NS43MTYuODkgMS41MSAxLjM2MyAyLjM4MiAxLjQyNi42NzQuMDUgMS4yMi0uMTM2IDEuNjQtLjU1NS40MjQtLjQyLjY1LS45My42OC0xLjUyNC4wMTgtLjM1NC0uMDQ0LS43LS4xODQtMS4wNDMtLjEzNS0uMzQyLS4zNS0uNjcyLS42NS0uOTg4LS4yOTgtLjMyNS0uODMyLS43NTUtMS42MDMtMS4yOS0xLjA4LS43NTItMS44NTItMS4zOC0yLjMxNi0xLjg4NS0uNDY2LS41MDctLjgxNi0xLjA2LTEuMDUzLTEuNjYtLjIzLS42LS4zMjgtMS4yNS0uMjk0LTEuOTUuMDU4LTEuMTkyLjQ2Ni0yLjE4IDEuMjIzLTIuOTY2czEuNjc4LTEuMTQgMi43NjctMS4wNmMuMzk3LjAyOC43OC4xMTQgMS4xNDYuMjYuMjc4LjExLjYxNC4zIDEuMDA0LjU3LjM5OC4yNjYuNjguNDA1Ljg0LjQxNy4xNTcuMDEyLjI4My0uMDM3LjM3OC0uMTUuMDk3LS4xMS4xOTUtLjM4Ny4yOTQtLjgzbC4yNy4wMnpNMjY3LjU4IDM0NS43MzRsLS4wNC40MDVjLS40NS4wMjQtLjg3Mi4yNTgtMS4yNjcuNjk3LS4yODYuMzMyLS43NDIgMS4xMzgtMS4zNjcgMi40MmwtNS4yOCAxMC43NzctLjI5NS0uMDQyLTMuMDQ2LTEyLjQzYy0uMzY2LTEuNS0uNjI1LTIuMzg2LS43NzQtMi42Ni0uMTQ0LS4yNy0uNDUtLjQ3NC0uOTE2LS42MWwuMDQtLjQwNCA1LjgzNS44MzItLjA0LjQwNS0uMTk3LS4wMjhjLS41MjctLjA3NS0uODk0LS4wNDYtMS4xLjA4OC0uMTUuMDktLjIzMy4yNDItLjI1My40NTQtLjAxMy4xMy0uMDAzLjI5LjAyNy40OC4wMy4xODQuMTQ3LjY4Ny4zNDcgMS41MWwxLjg5IDcuNzggMy4wMzQtNi4yNTZjLjM2Mi0uNzU4LjU5LTEuMjY2LjY4My0xLjUyNy4wOTItLjI2Mi4xNDctLjQ4OC4xNjUtLjY3Ny4wMi0uMjItLjAwOC0uNDItLjA5LS42MDMtLjA3OC0uMTgyLS4yMDctLjMzLS4zODQtLjQ0NC0uMjQ0LS4xNi0uNTgtLjI3My0xLjAwNC0uMzM0bC4wMzgtLjQwNSAzLjk5NS41N3pNMjUzLjY1NCAzNDQuNDk0bC0uNDc2IDQuMDE0LS4zMjItLjA1N2MtLjA4LS45Ni0uMjE1LTEuNjYtLjQtMi4xMDItLjE4My0uNDUtLjQ2My0uODMtLjg0LTEuMTQ0LS4yMS0uMTctLjYtLjMwNy0xLjE2Ny0uNDA3bC0uOTA1LS4xNi0xLjM1NiAxMS40NDJjLS4wOS43NTctLjExNSAxLjIzNi0uMDcyIDEuNDM3LjA1LjIwMy4xNjQuMzk1LjM0My41NzUuMTg4LjE3NC40NTMuMjkyLjguMzUzbC40MDMuMDcyLS4wNDguNDA1LTYuMzUtMS4xMjYuMDQ3LS40MDUuNC4wNzJjLjM1NC4wNjIuNjQ1LjAzNi44OC0uMDguMTY1LS4wNzQuMzEtLjIyNi40MjctLjQ2LjA4Ni0uMTYyLjE3NC0uNjE2LjI2Mi0xLjM2bDEuMzU2LTExLjQ0LS44NzgtLjE1NmMtLjgxNi0uMTQ1LTEuNDM0LS4wNC0xLjg1NS4zMi0uNTkuNDk3LTEuMDE1IDEuMjgtMS4yODMgMi4zNWwtLjM0LS4wNi40NzYtNC4wMTMgMTAuODk2IDEuOTN6TTIyNC41NDQgMzUzLjlsLS4wOC4zOTgtNi4yMjctMS44NDUuMDgtLjM5Ny4zOTUuMTE3Yy4zNDQuMTAyLjYzOC4xMS44NzguMDIuMTczLS4wNTQuMzIzLS4xOS40NTQtLjQxLjA5Ny0uMTUzLjIyLS41OTQuMzY0LTEuMzI0bDEuOS05LjU4NGMuMTQ2LS43NDQuMjA1LTEuMjIuMTgtMS40MjUtLjAyOC0uMjAzLS4xMjgtLjQwNC0uMy0uNTk4LS4xNjYtLjIwMi0uNDE1LS4zNTItLjc0OC0uNDVsLS4zOTYtLjExOC4wOC0uMzk2IDYuMjI3IDEuODQ1LS4wNzguMzk2LS4zOTYtLjExOGMtLjM0NC0uMTAyLS42MzgtLjExLS44NzgtLjAyMi0uMTczLjA1Ni0uMzI3LjE5My0uNDYyLjQxLS4wOTguMTUyLS4yMi41OTUtLjM2NiAxLjMyNWwtMS44OTggOS41ODJjLS4xNDguNzQ1LS4yMDcgMS4yMi0uMTggMS40MjQuMDMzLjIxLjEzMi40MTMuMjk3LjYxMy4xNzIuMTk1LjQyNS4zNDIuNzU4LjQ0bC4zOTYuMTE3ek0yMjAuMTE4IDMzOC4yNGwtLjA4NS4zOTNjLS40NS0uMDU0LS44OTUuMTA2LTEuMzM2LjQ3My0uMzIyLjI4LS44NjYgMS0xLjYzMyAyLjE2bC02LjQ2NyA5Ljc2LS4yODgtLjA5Mi0xLjU4Ni0xMi44M2MtLjE5LTEuNTUtLjM0My0yLjQ3LS40Ni0yLjc2Ny0uMTEtLjI5NC0uMzktLjU0Ny0uODM3LS43NmwuMDg1LS4zOTUgNS42ODIgMS44My0uMDg1LjM5My0uMTkzLS4wNjJjLS41MTMtLjE2Ni0uODgtLjItMS4xLS4xMDMtLjE1Ny4wNjUtLjI1OC4yLS4zMDIuNDA2LS4wMjguMTI4LS4wMzcuMjktLjAzLjQ4My4wMS4xODUuMDY4LjcwMy4xNyAxLjU1bC45NzUgOC4wMyAzLjcyNS01LjY3MmMuNDQ4LS42ODcuNzMyLTEuMTUuODUyLTEuMzkzLjEyLS4yNDQuMi0uNDYuMjQtLjY0My4wNDctLjIxNS4wNC0uNDE4LS4wMTgtLjYxMi0uMDU4LS4xOTQtLjE2OC0uMzYyLS4zMy0uNTA2LS4yMjUtLjItLjU0NC0uMzctLjk1OC0uNTAzbC4wODUtLjM5MyAzLjg5IDEuMjUyek00MTQuOTYgMzM5LjQyNWMxLjkyNy0uMzk1IDMuNTczLjA0OCA0LjkzNiAxLjMyNSAxLjM3IDEuMjc2IDIuMTcgMy4wMTcgMi40MDQgNS4yMjQuMiAxLjg4Ni0uMDc2IDMuNjE3LS44MjUgNS4xOS0uOTk1IDIuMDktMi41OCAzLjMxLTQuNzYzIDMuNjU1LTIuMTg3LjM0Ni0zLjk3NC0uMjkzLTUuMzYtMS45MTYtMS4xLTEuMjgtMS43NS0yLjkwNS0xLjk2LTQuODctLjIzMy0yLjIwOC4xODQtNC4xNDIgMS4yNTQtNS44MDUgMS4wNzUtMS42NzIgMi41MTItMi42MDggNC4zMTUtMi44MDV6bS4xODIuNjg1Yy0xLjExLjE3Ni0xLjg4MyAxLjAwNC0yLjMxNSAyLjQ4Ni0uMzUyIDEuMjE0LS40MTQgMi44ODgtLjE4NyA1LjAyMy4yNjggMi41MzQuODMgNC4zNSAxLjY5IDUuNDQ3LjU5OC43NjggMS4zNTQgMS4wNzggMi4yNjcuOTMzLjYxNy0uMDk3IDEuMTEyLS4zNjIgMS40ODQtLjc5Mi40NzgtLjU1Mi44MS0xLjM2Ljk5My0yLjQzLjE4Mi0xLjA3OC4xODctMi40NDIuMDEyLTQuMDk0LS4yMS0xLjk2NC0uNTE0LTMuNDEtLjkxNi00LjMzNC0uNDAzLS45My0uODYtMS41NjMtMS4zNjgtMS44OS0uNTAzLS4zMjgtMS4wNTUtLjQ0Ni0xLjY2LS4zNXpNMzY4LjE2IDM0Ni40NjNjMS45NC0uMjggMy41NjUuMjYgNC44NzYgMS42MTYgMS4zMTcgMS4zNTUgMi4wNDcgMy4xNCAyLjE5NCA1LjM2LjEyNSAxLjg5NS0uMjE3IDMuNjA3LTEuMDMgNS4xMzUtMS4wNzYgMi4wMy0yLjcxIDMuMTUtNC45IDMuMzY4LTIuMi4yMTctMy45Ni0uNTI3LTUuMjgtMi4yMy0xLjA0NC0xLjM0Ni0xLjYzMi0zLjAwNi0xLjc2Mi00Ljk4Mi0uMTQ3LTIuMjE4LjM0Ni00LjEyNSAxLjQ4LTUuNzIyIDEuMTQtMS42MDYgMi42MTQtMi40NTUgNC40Mi0yLjU0NXptLjE1NC42OTVjLTEuMTE3LjExLTEuOTIuODktMi40MSAyLjM0Ni0uNCAxLjE5Mi0uNTMgMi44Ni0uMzg4IDUuMDA2LjE2OCAyLjU0Ny42NiA0LjM5NSAxLjQ3MyA1LjU0LjU2NS44MDUgMS4zMDggMS4xNiAyLjIyOCAxLjA2OC42MTgtLjA2IDEuMTIzLS4yOTYgMS41MTItLjcwNC40OTgtLjUyMi44Ni0xLjMxIDEuMDg2LTIuMzY4LjIyNy0xLjA2NS4yODQtMi40MjguMTc1LTQuMDg4LS4xMy0xLjk3NC0uMzc2LTMuNDM2LS43NDItNC4zODQtLjM2NS0uOTUzLS43OTUtMS42MS0xLjI5LTEuOTY3LS40OS0uMzYtMS4wMzctLjUxLTEuNjQ0LS40NXpNMzgwLjk5MiAzNTMuMjZsLjQ0MiA0LjE2NGMuMDg1LjgwNC4xNzcgMS4zMDcuMjc4IDEuNTA2LjEwNS4xOS4yNjUuMzMyLjQ4Mi40MjUuMjE2LjA5Mi42MDIuMDkzIDEuMTU4LjAwNWwuMDQzLjQwNi02LjIyLjk4Ny0uMDQ0LS40MDZjLjU2My0uMDkuOTM2LS4yMSAxLjEyLS4zNjYuMTktLjE2NC4zMTItLjM1NS4zNjctLjU3LjA2My0uMjE4LjA1LS43My0uMDM1LTEuNTM0bC0xLjAyMy05LjY0NWMtLjA4Ny0uODAzLS4xODItMS4zLS4yODctMS40OS0uMS0uMjAyLS4yNTgtLjM0OC0uNDc1LS40NHMtLjYwMi0uMDk0LTEuMTU4LS4wMDVsLS4wNDMtLjQwNCA1LjY0Ny0uODk1YzEuNDctLjIzMyAyLjU2LS4yOCAzLjI2OC0uMTQuNzA3LjE0IDEuMzEuNTEzIDEuODE0IDEuMTE2LjUuNi43OTcgMS4zNDcuODkzIDIuMjQ0LjExNSAxLjA5Ny0uMTEyIDIuMDUzLS42OCAyLjg3Mi0uMzY1LjUxOC0uOTA1Ljk1LTEuNjIyIDEuMjk0bDMuNDU2IDQuNTY4Yy40NS41OS43NjcuOTUuOTQ0IDEuMDg3LjI3LjE4Ny41NjcuMjY2Ljg5Mi4yMzdsLjA0My40MDYtMy44MjguNjA3LTQuNjM2LTYuMTUyLS43OTguMTI3em0tLjc3NC03LjI5bC42OSA2LjUxLjUxMi0uMDhjLjgzLS4xMyAxLjQ0Mi0uMzIyIDEuODM0LS41Ny4zOTMtLjI1NS42OC0uNjQzLjg2Mi0xLjE2Mi4xODgtLjUyNy4yNC0xLjE4LjE1Ny0xLjk2My0uMTItMS4xMzQtLjQyOC0xLjkzNS0uOTItMi40MDctLjQ4OC0uNDcyLTEuMjEzLS42MzMtMi4xNzYtLjQ4bC0uOTYuMTUyek00MjcuNSAzNDUuMDkzbC44NTYgNC4wNjdjLjE2NS43ODUuMzA2IDEuMjcuNDI2IDEuNDUzLjEyMy4xNzQuMjk3LjI5LjUyLjM1LjIyNS4wNi42MDguMDAyIDEuMTUtLjE2OGwuMDg0LjM5Ni02LjA3NSAxLjkxLS4wODItLjM5NmMuNTQ4LS4xNzIuOTA2LS4zNSAxLjA3NC0uNTMuMTctLjE5Mi4yNzItLjQuMzA3LS42MjMuMDQtLjIyMy0uMDI0LS43My0uMTktMS41MTVsLTEuOTgtOS40MmMtLjE2NC0uNzg1LS4zMDgtMS4yNjQtLjQzMi0xLjQzNy0uMTItLjE4NS0uMjktLjMwNi0uNTE0LS4zNjRzLS42MDgtLjAwNC0xLjE1LjE2NmwtLjA4My0uMzk0IDUuNTE1LTEuNzMzYzEuNDM2LS40NTIgMi41MS0uNjYgMy4yMjctLjYyNy43MTguMDMzIDEuMzU1LjMxMiAxLjkxMi44MzYuNTU4LjUxOC45MjggMS4yMTYgMS4xMTIgMi4wOTMuMjI1IDEuMDcuMDk2IDIuMDU0LS4zODggMi45NTItLjMxLjU2OC0uODAyIDEuMDc4LTEuNDggMS41MjZsMy44ODggNC4wMThjLjUwNy41MTcuODU0LjgzIDEuMDQ2LjkzOC4yODUuMTQ2LjU5LjE4LjkwOC4xMDJsLjA4NC4zOTYtMy43MzggMS4xNzUtNS4yMTctNS40MTItLjc4LjI0NXptLTEuNDk2LTcuMTJsMS4zMzcgNi4zNi41LS4xNTdjLjgxLS4yNTUgMS40LS41MzUgMS43NjMtLjg0LjM2NS0uMzEyLjYxLS43NC43NC0xLjI4Mi4xMzItLjU1LjExOC0xLjIwOC0uMDQzLTEuOTcyLS4yMzItMS4xMDctLjYxNi0xLjg1Ny0xLjE1My0yLjI1LS41MzItLjM5Ni0xLjI2OC0uNDQ4LTIuMjA2LS4xNTNsLS45MzYuMjk0ek0yMzMuMzkgMzQ4LjkyM2wtLjUxNiA0LjE1Yy0uMS44MDItLjEyNSAxLjMxNy0uMDc0IDEuNTQyLjA2LjIyLjE4LjQxLjM2Ny41NzIuMTg4LjE2LjU1OC4yOTMgMS4xMTMuMzk3bC0uMDUuNDA0LTYuMjAyLTEuMTU2LjA1LS40MDVjLjU2LjEwNC45NDYuMTEzIDEuMTU4LjAyNy4yMi0uMDk1LjM4LS4yMzYuNDgzLS40MjUuMTA3LS4xOS4yMTMtLjY4NC4zMTMtMS40ODZsMS4yLTkuNjE1Yy4xLS44MDMuMTItMS4zMTIuMDYyLTEuNTMtLjA1Mi0uMjI4LS4xNy0uNDIyLS4zNTgtLjU4My0uMTg2LS4xNi0uNTU4LS4yOTUtMS4xMTItLjM5OGwuMDUtLjQwNCA1LjYzIDEuMDVjMS40NjYuMjc0IDIuNTIzLjU5NyAzLjE3Ljk3czEuMTQ2LjkzOCAxLjQ5IDEuNjg4Yy4zNDcuNzQzLjQ2NSAxLjU2My4zNTMgMi40NTgtLjEzNiAxLjA5My0uNTcgMS45MzUtMS4zMDMgMi41My0uNDY4LjM3NC0xLjA4NS42MDYtMS44NTIuNjk0bDIuMjg3IDUuNTZjLjMuNzE3LjUyMiAxLjE3My42NjIgMS4zNjMuMjE3LjI3LjQ4NC40NDYuODAzLjUyOGwtLjA1LjQwNS0zLjgxNi0uNzEyLTMuMDYzLTcuNDgtLjc5Ni0uMTQ3em0uOTA4LTcuMjY3bC0uODEgNi40OS41MS4wOTZjLjgyOC4xNTQgMS40NTguMTggMS44OTMuMDczLjQzNC0uMTEyLjc5OC0uMzg4IDEuMDktLjgyNS4zLS40NDMuNDk4LTEuMDU1LjU5NS0xLjgzNC4xNC0xLjEzLjAyNy0yLjAwNC0uMzQtMi42MjQtLjM2Mi0uNjItMS4wMjItMS4wMi0xLjk4LTEuMTk4bC0uOTU3LS4xNzh6TTMzOS4zNTggMzU5LjczN2wtNC4zMjQuMjIzLS40NjUgMS40ODVjLS4xNTQuNDkzLS4yMjMuOS0uMjEyIDEuMjE2LjAxNC40Mi4xNjIuNzIzLjQ0Ni45MDguMTY4LjExLjU3LjE3NyAxLjIxLjIwMmwuMDE0LjQxLTQuMDcyLjIxLS4wMTQtLjQxYy40MzctLjEwMy43OS0uMzQzIDEuMDYtLjcxNy4yNzItLjM4NC41OTQtMS4xNTYuOTctMi4zMmwzLjk3LTEyLjE3Mi4xNy0uMDA4IDQuODQgMTIuMDVjLjQ2IDEuMTQyLjgzMiAxLjg1NyAxLjExNCAyLjE0NC4yMTIuMjE4LjUwNS4zMzcuODguMzUzbC4wMTMuNDA4LTUuOTIzLjMwNi0uMDE0LS40MS4yNDMtLjAxMmMuNDc1LS4wMjQuODA2LS4xMjIuOTkzLS4yOTQuMTI4LS4xMjQuMTg4LS4yOTcuMTgtLjUxOC0uMDA0LS4xMzMtLjAyNy0uMjY4LS4wNjctLjQwNi0uMDE1LS4wNjUtLjExNC0uMzM4LS4zLS44MTVsLS43MTUtMS44MzN6bS0uMzM1LS44bC0yLTUuMDY0LTEuNzAyIDUuMjU1IDMuNzAzLS4xOXoiLz4KICA8L2c+CiAgPGcgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGZpbGw9IiNmZmY2MDAiIGQ9Ik0zMjUuMTAyIDIyNy4xMTVoOTguOTA4djkzLjQyN2gtOTguOTA4eiIvPgogICAgPHBhdGggZmlsbD0iI2NjMTkwMCIgZD0iTTMzOS4yMzIgMTMzLjY4OGgxNC4xM3Y5My40MjdoLTE0LjEzek0zNjcuNDkgMTMzLjY4OGgxNC4xM3Y5My40MjdoLTE0LjEzek0zOTUuNzUgMTMzLjY4OGgxNC4xM3Y5My40MjdoLTE0LjEzeiIvPgogICAgPHBhdGggZmlsbD0iI2ZmZjYwMCIgZD0iTTMyNS4xMDIgMTMzLjY4OGgxNC4xM3Y5My40MjdoLTE0LjEzek0zNTMuMzYyIDEzMy42ODhoMTQuMTN2OTMuNDI3aC0xNC4xM3pNMzgxLjYyIDEzMy42ODhoMTQuMTN2OTMuNDI3aC0xNC4xM3pNNDA5Ljg4IDEzMy42ODhoMTQuMTN2OTMuNDI3aC0xNC4xM3oiLz4KICAgIDxwYXRoIGZpbGw9IiNjYzE5MDAiIGQ9Ik0yNDkuMjc0IDIzNi40NmgxMC45OXY4NC4wODJoLTEwLjk5ek0yNzEuMjUzIDIzNi40NmgxMC45OXY4NC4wODJoLTEwLjk5ek0yOTMuMjMgMjM2LjQ2aDEwLjk5djg0LjA4MmgtMTAuOTl6Ii8+CiAgICA8cGF0aCBmaWxsPSIjZmZmNjAwIiBkPSJNMjM4LjI4NyAyMzYuNDZoMTAuOTl2ODQuMDgyaC0xMC45OXpNMjYwLjI2NiAyMzYuNDZoMTAuOTl2ODQuMDgyaC0xMC45OXpNMjgyLjI0NSAyMzYuNDZoMTAuOTl2ODQuMDgyaC0xMC45OXpNMzA0LjIyMyAyMzYuNDZoMTAuOTl2ODQuMDgyaC0xMC45OXoiLz4KICAgIDxwYXRoIGZpbGw9IiNjYzE5MDAiIGQ9Ik0yMjcuMjk1IDIzNi40NmgxMC45OXY4NC4wODJoLTEwLjk5eiIvPgogICAgPHBhdGggZmlsbD0iI2ZmZjYwMCIgZD0iTTIxNi4zMDggMjM2LjQ2aDEwLjk5djg0LjA4MmgtMTAuOTl6Ii8+CiAgICA8cGF0aCBmaWxsPSIjY2MxOTAwIiBkPSJNMjE2LjMwOCAxMzMuNjg4aDk4LjkwOHY5My40MjdoLTk4LjkwOHoiLz4KICAgIDxwYXRoIGQ9Ik0zMDYuNDM2IDE2MS4xNDZjMi4wMjctLjU0NCAyLjMyNC0zLjI0MiAyLjYzNC01LjQ2NS42Mi00LjQ0NS0zLjE0Ny04LjU4NS04LjQxLTkuMjRzLTkuOTc2IDEuOTkzLTEwLjU5NyA2LjQ0bC00LjA5OCAxLjU2NCA1LjcxLjcxLTYuMTYgMi41MSA3LjYyOC45NS02MS40NzYgNTEuMzQ2IDMuMzY0IDMuNjk2IDYxLjQ3Ny01MS4zNDVjMS42MjMtMS4zNTUuNDUtMy4yMi0xLjM0My00Ljc1My0yLjExNC0xLjgwNy0xLjU3Mi0yLjE2NC0xLjI5NS00LjE1My40MDQtMi44OTggMy4xODMtNC4xMzUgNi4zNC0zLjc0MnM1LjQyIDIuODc3IDUuMDQ3IDUuNTQ0Yy0uMTg2IDEuMzM0LS43MzQgMi45MDMtMi4xNTMgMy4yMDgtMi4zMzUgMS4xNSAxLjAzIDQuODQ2IDMuMzMyIDIuNzMyeiIgZmlsbD0iI2ZmZjYwMCIvPgogICAgPHBhdGggZD0iTTE5NC44OCAzNjEuNDJ2MzM2LjYxYzAgMzUuNDM0IDE2Ljk3OCA1My4xNSA1MC45MzQgNTMuMTVoMTE4Ljg1YzMzLjk1NyAwIDMzLjk1NyAzNS40MzMgMzMuOTU3IDM1LjQzM3MwLTM1LjQzMyAzMy45NTctMzUuNDMzaDExOC44NWMzMy45NTcgMCA1MC45MzUtMTcuNzE2IDUwLjkzNS01My4xNVYzNjEuNDJoLTQwNy40OHptMTcuNzE2IDE3LjcxN3YxNzcuMTZoMTc3LjE3di0xNzcuMTZoLTE3Ny4xN3ptMTk0Ljg4IDB2MTc3LjE2aDE3Ny4xN3YtMTc3LjE2aC0xNzcuMTd6bS0xOTQuODggMTk0Ljg4djEwNi4zYzAgMzUuNDM0IDE2Ljk3OCA1My4xNSA1MC45MzQgNTMuMTVIMzg5Ljc2di0xNTkuNDVIMjEyLjZ6bTM3Mi4wNSAwdjEwNi4zYzAgMzUuNDM0LTE2Ljk3NyA1My4xNS01MC45MzQgNTMuMTVINDA3LjQ4MnYtMTU5LjQ1aDE3Ny4xNnoiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxcHQiIGZpbGw9IiNjYmEzMjMiIHRyYW5zZm9ybT0ibWF0cml4KC41NTgyNiAwIDAgLjUyNzMzIDk3LjYyMiAtNjYuMjM4KSIvPgogICAgPHBhdGggZD0iTTI2NS43NTYgMTQzLjAzNGwtMTkuNzggMjAuMDIgNi4wODYgMzYuMDM1aDI3LjM5bDYuMDg1LTM2LjAzNi0xOS43OC0yMC4wMnoiIGZpbGw9IiNmZmYiLz4KICAgIDxwYXRoIGQ9Ik0yNjQuMjQgMTUwLjUwNGwtMTUuMjE2IDE0Ljk0OCA2LjA4NiAyOS44OTZoOS4xM3YtNDQuODQyem0zLjA0MyAwdjQ0Ljg0Mmg5LjEzbDYuMDg2LTI5Ljg5Ni0xNS4yMTctMTQuOTQ4eiIgZmlsbD0iI2ZmZjYwMCIvPgogICAgPHBhdGggZD0iTTI3MC43MDUgMTk5LjA4N2gtNC45NDVzMi40NzMgNy43NCA0Ljk0NSA3Ljc0YzkuODkgMCAyOS43MjItMTEuMjkgMjkuNjcyLTcuNzQgMCA3Ljc0LTQuOTQ1IDMuODctNC45NDUgNy43NHM5Ljg5IDAgOS44OS0zLjg3IDAtNy43NC00Ljk0NS03Ljc0LTE5LjMyNCA3Ljc5LTI0LjcyNiA3Ljc0Yy00Ljk0NSAwLTQuOTQ1LTMuODctNC45NDUtMy44N3pNMjYwLjgxMyAxOTkuMDg3aDQuOTQ1cy0yLjQ3MiA3Ljc0LTQuOTQ1IDcuNzRjLTkuODkgMC0yOS43MjItMTEuMjktMjkuNjcyLTcuNzQgMCA3Ljc0IDQuOTQ3IDMuODcgNC45NDcgNy43NHMtOS44OSAwLTkuODktMy44NyAwLTcuNzQgNC45NDQtNy43NGM0Ljk0NyAwIDE5LjMyNSA3Ljc5IDI0LjcyOCA3Ljc0IDQuOTQ1IDAgNC45NDUtMy44NyA0Ljk0NS0zLjg3eiIgZmlsbD0iI2ZmZmJmZiIvPgogICAgPHBhdGggZD0iTTcwLjg2NiA1NzQuMDJjMCAzNS40MzMgMjguNzA0IDM2LjY2OCAxNy43MTcgNTMuMTVMNTMuMTUgNjgwLjMySDM1LjQzNGwxNy43MTYtNTMuMTVjNS45MDUtMTcuNzE3IDE3LjcxNi02NS4zNzQgMTcuNzE2LTUzLjE1eiIgdHJhbnNmb3JtPSJtYXRyaXgoLjIwNzcgLjAzNTU2IC0uMDQ0NTIgLjE2NTg3IDQwMC4yODMgMTU2LjAxNikiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI1IiBmaWxsPSIjY2MxOTAwIi8+CiAgICA8cGF0aCBkPSJNMzUuNDMzIDQyMy40MmMwIDMuNjY3IDIuMjQyIDMxLjg4OCAwIDM1LjA2Ny0yLjI0MiAzLjE4LTguOTctMTguNjg0LTEyLjk3Ny0xNi4yOC00LjAwOCAyLjQwNi03LjYwMyAyNC4xNi0xMi45MDIgMjUuNTA1LTUuMjk4IDEuMzUtMTIuMy0xNy43MS0xOC40MTItMTcuNzEtNi4xMTIgMC0xMS45MzcgMTkuMDYyLTE3LjIzNSAxNy43MTctNS4yOTgtMS4zNDctMTAuMDctMjMuMS0xNC4wOC0yNS41MDUtNC4wMDctMi40MDUtMTAuNzM0IDE5LjQ1OC0xMi45NzYgMTYuMjgtMi4yNC0zLjE4IDAtMzEuNCAwLTM1LjA2OCAwLTE0LjY3IDE5Ljg0My0yNi41NzUgNDQuMjkyLTI2LjU3NXM0NC4yOSAxMS45MDYgNDQuMjkgMjYuNTc1eiIgdHJhbnNmb3JtPSJtYXRyaXgoLjE2NjIgMCAwIC4wODQ5IDM5MC4xMTUgMjI0LjEwNSkiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI3Ljk5IiBmaWxsPSIjY2MxOTAwIi8+CiAgICA8cGF0aCBkPSJNMzU0LjAxOCAyMzkuMjJjMi4xOCAxLjAwNSAyLjAwMyAyLjY4IDEuMjYgMy4wMS0uNzQuMzI3LTEuNzY4LS44MTYtMy45NDgtMS44MnMtNC42OTItMS40OTQtMy45NS0xLjgyMiA0LjQ1OC0uMzczIDYuNjM4LjYzMnoiIGZpbGw9IiMwMDhkMDAiLz4KICAgIDxwYXRoIGQ9Ik0tNzAuODY2IDQxNC41N3Y1My4xNWg1My4xNXYtMTcuNzE3SC01My4xNVY0MTQuNTdoLTE3LjcxNXoiIHRyYW5zZm9ybT0ibWF0cml4KC4xMTM1NiAuMTQzMzYgLS4xNzk1IC4wOTA3IDQ0My4wMTUgMjI4LjU1NikiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI1IiBmaWxsPSIjY2MxOTAwIi8+CiAgICA8cGF0aCBkPSJNNzAuODY2IDU3NC4wMmMwIDM1LjQzMyAyOC43MDQgMzYuNjY4IDE3LjcxNyA1My4xNUw1My4xNSA2ODAuMzJIMzUuNDM0bDE3LjcxNi01My4xNWM1LjkwNS0xNy43MTctMTcuNzE2LTM1LjQzNC03MC44NjYgMC0xMi4yMjQgMC03MC44NjYtOC45NjQtNzAuODY2IDB2NTMuMTVoLTE3LjcxNnYtNTMuMTVjMC02Ljk0Mi0zNS40MzMtNTMuMTUtMzUuNDMzLTcwLjg2NyAwLTEyLjIyNC01My4xNSAwLTUzLjE1LTE3LjcxNiAwLTguODYgMzUuNDMyLTE3LjcxNyAzNS40MzItMzUuNDMzIDAtMTcuNzE3IDM1LjQzMyAwIDUzLjE1IDAgMCAxNy43MTYtMTcuNzE3IDM1LjQzMyAxNy43MTYgMzUuNDMzIDI0LjQ1IDAgMTc3LjE3IDAgMTc3LjE3IDE3LjcxNiAwIDE3LjcxNy0xNy43MTcgNS40OTMtMTcuNzE3IDE3LjcxN3oiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI1IiBmaWxsPSIjY2MxOTAwIiB0cmFuc2Zvcm09Im1hdHJpeCguMjEyNCAwIDAgLjE2OTY0IDM4NC44OCAxNTYuMDMpIi8+CiAgICA8cGF0aCBkPSJNMzYzLjU1MiAyNzEuNDRjMi4wNDMtLjAxMiAyLjc4IDEuNTA2IDIuNDI3IDIuMDktLjM1Mi41OC0xLjY2LjAwOC0zLjcuMDJzLTQuMDU0LjYwMi0zLjcwMi4wMiAyLjkzMi0yLjEyIDQuOTc0LTIuMTN6TTM5My42NTcgMjcxLjQ0YzIuMDQzLS4wMTIgMi43NzggMS41MDYgMi40MjcgMi4wOS0uMzUyLjU4LTEuNjU4LjAwOC0zLjcuMDJzLTQuMDUzLjYwMi0zLjcwMi4wMiAyLjkzMi0yLjEyIDQuOTc1LTIuMTN6TTM1OC43OTcgMjY3LjI0YzEuNjU2LS45NTQgMy4zNTgtLjA1OCAzLjQ5NC41OC4xMzcuNjM3LTEuMzQzLjc3NS0zIDEuNzNzLTIuODY0IDIuMzY3LTMgMS43My44NS0zLjA4NSAyLjUwNy00LjA0ek0zNzkuMDE2IDI2OC45NTNjMi4wNC0uMDU1IDIuODI4IDEuNDQ3IDIuNDk2IDIuMDM3LS4zMzIuNTktMS42NTcuMDQ0LTMuNy4xcy00LjAzLjY5LTMuNjk4LjEgMi44Ni0yLjE4MiA0LjkwMi0yLjIzN3pNMzUzLjM0IDI1MS4wMmw4Ljk2LTUuNDg0IDIuMjkgMi4zODYtOC45NiA1LjQ4NXoiIGZpbGw9IiMwMDhkMDAiLz4KICAgIDxwYXRoIGQ9Ik0zNTcuMDYgMjU0LjkxYzAgLjgzLS41MSAxLjUwMi0xLjE0MiAxLjUwMnMtMS4xNDMtLjY3My0xLjE0My0xLjUwMy41MTItMS41MDQgMS4xNDMtMS41MDQgMS4xNDMuNjczIDEuMTQzIDEuNTAzeiIgZmlsbD0iIzAwOGQwMCIvPgogICAgPHBhdGggZD0iTTQ3Ljk5NSA2ODEuODVjMzQuMDg2LjAyIDM0LjA4NiAxMi45IDE5LjgzNSAxMi45LTE5LjgzNSAwLTY3LjgzIDQuMzgtNjcuODMgMy4yOCAwLTEuMTAyLTE2LjQ4NC0xNC4yMDItMTYuNDg0LTE0LjIwMi0xLjIzMi0zLjUxMyAxLjE3NyAxNC4xMjgtMS4yMzIgMTQuMjAzLTIuNDEuMDc1LTE2LjQzLTE1LjM4LTE2LjQzLTE1LjM4czEuMjg4IDE1LjIzMiAwIDE1LjMwN2MtMS4yODcuMDc0LTE3LjY2LTkuNDItMTcuNjYtOS40MmwtMS4xNzggOC4yNDItMTUuMzA2IDkuNDIgMTUuMzA2IDEwLjU5NnY4LjI0MmwxNS4zMDYtOC4yNDIgMS4xNzggMTUuMzA2IDE4Ljg0LTE1LjMwNnM0Ljc2MyAxNi4zIDIuMzUzIDE2LjQ4NGMtMi40MS4xODUgMTYuNDg0LTE2LjQ4NCAxNi40ODQtMTYuNDg0LTEuMTc4LTEuMDUgNTQuMDUxIDAgODcuNDA1LTEuMDUgMzMuMzU1LTEuMDQ4IDMyLjc0Ny01MS45MzcgMTcuNzE3LTUzLjE1LTE1LjAzMy0xLjIxMy01OC4zMDYgMy4zMy01OC4zMDYtLjIwMyIgdHJhbnNmb3JtPSJtYXRyaXgoLjExMDQgMCAwIC4xMjY3NiAzOTAuODcgMTY1LjM0MykiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI1LjA1NSIgZmlsbD0iI2NjMTkwMCIvPgogICAgPGc+CiAgICAgIDxwYXRoIGQ9Ik03MC44NjYgNTc0LjAyYzAgMzUuNDMzIDI4LjcwNCAzNi42NjggMTcuNzE3IDUzLjE1TDUzLjE1IDY4MC4zMkgzNS40MzRsMTcuNzE2LTUzLjE1YzUuOTA1LTE3LjcxNyAxNy43MTYtNjUuMzc0IDE3LjcxNi01My4xNXoiIHRyYW5zZm9ybT0ibWF0cml4KC4yMDc3IC4wMzU1NiAtLjA0NDUyIC4xNjU4NyA0MDAuMjgzIDE5My4zODgpIiBzdHJva2U9IiNmZmY2MDAiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0iI2NjMTkwMCIvPgogICAgICA8cGF0aCBkPSJNMzUuNDMzIDQyMy40MmMwIDMuNjY3IDIuMjQyIDMxLjg4OCAwIDM1LjA2Ny0yLjI0MiAzLjE4LTguOTctMTguNjg0LTEyLjk3Ny0xNi4yOC00LjAwOCAyLjQwNi03LjYwMyAyNC4xNi0xMi45MDIgMjUuNTA1LTUuMjk4IDEuMzUtMTIuMy0xNy43MS0xOC40MTItMTcuNzEtNi4xMTIgMC0xMS45MzcgMTkuMDYyLTE3LjIzNSAxNy43MTctNS4yOTgtMS4zNDctMTAuMDctMjMuMS0xNC4wOC0yNS41MDUtNC4wMDctMi40MDUtMTAuNzM0IDE5LjQ1OC0xMi45NzYgMTYuMjgtMi4yNC0zLjE4IDAtMzEuNCAwLTM1LjA2OCAwLTE0LjY3IDE5Ljg0My0yNi41NzUgNDQuMjkyLTI2LjU3NXM0NC4yOSAxMS45MDYgNDQuMjkgMjYuNTc1eiIgdHJhbnNmb3JtPSJtYXRyaXgoLjE2NjIgMCAwIC4wODQ5IDM5MC4xMTUgMjYxLjQ3NykiIHN0cm9rZT0iI2ZmZjYwMCIgc3Ryb2tlLXdpZHRoPSI3Ljk5IiBmaWxsPSIjY2MxOTAwIi8+CiAgICAgIDxwYXRoIGQ9Ik0zNTQuMDE4IDI3Ni41OTJjMi4xOCAxLjAwNSAyLjAwMyAyLjY4IDEuMjYgMy4wMS0uNzQuMzI3LTEuNzY4LS44MTctMy45NDgtMS44MjJzLTQuNjkyLTEuNDkyLTMuOTUtMS44MiA0LjQ1OC0uMzczIDYuNjM4LjYzMnoiIGZpbGw9IiMwMDhkMDAiLz4KICAgICAgPHBhdGggZD0iTS03MC44NjYgNDE0LjU3djUzLjE1aDUzLjE1di0xNy43MTdILTUzLjE1VjQxNC41N2gtMTcuNzE1eiIgdHJhbnNmb3JtPSJtYXRyaXgoLjExMzU2IC4xNDMzNiAtLjE3OTUgLjA5MDcgNDQzLjAxNSAyNjUuOTI4KSIgc3Ryb2tlPSIjZmZmNjAwIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9IiNjYzE5MDAiLz4KICAgICAgPHBhdGggZD0iTTcwLjg2NiA1NzQuMDJjMCAzNS40MzMgMjguNzA0IDM2LjY2OCAxNy43MTcgNTMuMTVMNTMuMTUgNjgwLjMySDM1LjQzNGwxNy43MTYtNTMuMTVjNS45MDUtMTcuNzE3LTE3LjcxNi0zNS40MzQtNzAuODY2IDAtMTIuMjI0IDAtNzAuODY2LTguOTY0LTcwLjg2NiAwdjUzLjE1aC0xNy43MTZ2LTUzLjE1YzAtNi45NDItMzUuNDMzLTUzLjE1LTM1LjQzMy03MC44NjcgMC0xMi4yMjQtNTMuMTUgMC01My4xNS0xNy43MTYgMC04Ljg2IDM1LjQzMi0xNy43MTcgMzUuNDMyLTM1LjQzMyAwLTE3LjcxNyAzNS40MzMgMCA1My4xNSAwIDAgMTcuNzE2LTE3LjcxNyAzNS40MzMgMTcuNzE2IDM1LjQzMyAyNC40NSAwIDE3Ny4xNyAwIDE3Ny4xNyAxNy43MTYgMCAxNy43MTctMTcuNzE3IDUuNDkzLTE3LjcxNyAxNy43MTd6IiBzdHJva2U9IiNmZmY2MDAiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0iI2NjMTkwMCIgdHJhbnNmb3JtPSJtYXRyaXgoLjIxMjQgMCAwIC4xNjk2NCAzODQuODggMTkzLjQpIi8+CiAgICAgIDxwYXRoIGQ9Ik0zNjMuNTUyIDMwOC44MWMyLjA0My0uMDEgMi43OCAxLjUwOCAyLjQyNyAyLjA5LS4zNTIuNTgzLTEuNjYuMDEtMy43LjAycy00LjA1NC42MDQtMy43MDIuMDIyIDIuOTMyLTIuMTIgNC45NzQtMi4xM3pNMzkzLjY1NyAzMDguODFjMi4wNDMtLjAxIDIuNzc4IDEuNTA4IDIuNDI3IDIuMDktLjM1Mi41ODMtMS42NTguMDEtMy43LjAycy00LjA1My42MDQtMy43MDIuMDIyIDIuOTMyLTIuMTIgNC45NzUtMi4xM3pNMzU4Ljc5NyAzMDQuNjEyYzEuNjU2LS45NTUgMy4zNTgtLjA1OCAzLjQ5NC41OC4xMzcuNjM3LTEuMzQzLjc3NS0zIDEuNzNzLTIuODY0IDIuMzY3LTMgMS43My44NS0zLjA4NSAyLjUwNy00LjA0ek0zNzkuMDE2IDMwNi4zMjVjMi4wNC0uMDU1IDIuODI4IDEuNDQ3IDIuNDk2IDIuMDM3LS4zMzIuNTktMS42NTcuMDQ0LTMuNy4xcy00LjAzLjY4OC0zLjY5OC4xIDIuODYtMi4xODMgNC45MDItMi4yMzd6TTM1My4zNCAyODguMzkzbDguOTYtNS40ODUgMi4yOSAyLjM4Ni04Ljk2IDUuNDg1ek0zNTcuMDYgMjkyLjI4YzAgLjgzLS41MSAxLjUwNC0xLjE0MiAxLjUwNHMtMS4xNDMtLjY3My0xLjE0My0xLjUwMy41MTItMS41MDIgMS4xNDMtMS41MDIgMS4xNDMuNjczIDEuMTQzIDEuNTAzeiIgZmlsbD0iIzAwOGQwMCIvPgogICAgICA8cGF0aCBkPSJNNDcuOTk1IDY4MS44NWMzNC4wODYuMDIgMzQuMDg2IDEyLjkgMTkuODM1IDEyLjktMTkuODM1IDAtNjcuODMgNC4zOC02Ny44MyAzLjI4IDAtMS4xMDItMTYuNDg0LTE0LjIwMi0xNi40ODQtMTQuMjAyLTEuMjMyLTMuNTEzIDEuMTc3IDE0LjEyOC0xLjIzMiAxNC4yMDMtMi40MS4wNzUtMTYuNDMtMTUuMzgtMTYuNDMtMTUuMzhzMS4yODggMTUuMjMyIDAgMTUuMzA3Yy0xLjI4Ny4wNzQtMTcuNjYtOS40Mi0xNy42Ni05LjQybC0xLjE3OCA4LjI0Mi0xNS4zMDYgOS40MiAxNS4zMDYgMTAuNTk2djguMjQybDE1LjMwNi04LjI0MiAxLjE3OCAxNS4zMDYgMTguODQtMTUuMzA2czQuNzYzIDE2LjMgMi4zNTMgMTYuNDg0Yy0yLjQxLjE4NSAxNi40ODQtMTYuNDg0IDE2LjQ4NC0xNi40ODQtMS4xNzgtMS4wNSA1NC4wNTEgMCA4Ny40MDUtMS4wNSAzMy4zNTUtMS4wNDggMzIuNzQ3LTUxLjkzNyAxNy43MTctNTMuMTUtMTUuMDMzLTEuMjEzLTU4LjMwNiAzLjMzLTU4LjMwNi0uMjAzIiB0cmFuc2Zvcm09Im1hdHJpeCguMTEwNCAwIDAgLjEyNjc2IDM5MC44NyAyMDIuNzE1KSIgc3Ryb2tlPSIjZmZmNjAwIiBzdHJva2Utd2lkdGg9IjUuMDU1IiBmaWxsPSIjY2MxOTAwIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4K" class="w-auto h-[16px]">                                </td>
+                            </tr>
+                            <tr class="bg-white">
+                                <td class="px-6 py-3"></td>
+                            </tr>
+                        </thead>
+                                            <thead class="md:text-2xl uppercase bg-pink-600 text-white font-bold">
+                            <tr>
+                                <td colspan="9" class="px-6 py-3">
+                                    <span id="-27957"></span>
+                                    <span>RAMIREZ ABELLA Monica (1993/20 ans) <i class="fa fa-venus"></i> AND </span>
+                                    <span class="italic">[-27957]</span>
+                                    <span></span>
+                                </td>
+                            </tr>
+                        </thead>
+                    
+                    <tr class="border-b bg-gray-200">
+                        <td class="px-6 py-1">56e</td>
+                        <td class="px-6 py-1">
+                            <a class="tippy-button font-bold" data-tippy-content="Voir les résultats complets de cette épreuve" href="resultats.php?idact=nat$$on&idcpt=18999&go=epr&idepr=1">
+                                50 Nage Libre Dames                            </a>
+                        </td>
+                        <td class="px-6 py-1 text-blue-500">Séries</td>
+                        <td class="px-6 py-1 text-orange-500"></td>
+                        <td class="px-6 py-1 font-bold">00:28.35</td>
+                        <td class="px-6 py-1 text-red-700">
+                            <p class="tippy-button" data-tippy-content="Temps de réaction">
+                                +0.70                            </p>
+                        </td>
+                        <td class="px-6 py-1 text-purple-600 italic">1155 pts</td>
+                        <td class="px-6 py-1"></td>
+                        <td class="px-6 py-1"></td>
+                    </tr>
+                
+                    <tr class="border-b bg-white">
+                        <td class="px-6 py-1">59e</td>
+                        <td class="px-6 py-1">
+                            <a class="tippy-button font-bold" data-tippy-content="Voir les résultats complets de cette épreuve" href="resultats.php?idact=nat$$on&idcpt=18999&go=epr&idepr=2">
+                                100 Nage Libre Dames                            </a>
+                        </td>
+                        <td class="px-6 py-1 text-blue-500">Séries</td>
+                        <td class="px-6 py-1 text-orange-500"></td>
+                        <td class="px-6 py-1 font-bold"><button class='tippy-button' data-tippy-content='&lt;table id=&#039;styleNoBorderNoBottom&#039;&gt;&lt;tr&gt;&lt;td class=&#039;text-lime-600 w-[60px]&#039;&gt;50 m : &lt;/td&gt;&lt;td class=&#039;ml-3 text-green-700&#039;&gt;00:29.24&lt;/td&gt;&lt;td class=&#039;ml-3 text-red-700&#039;&gt;(00:29.24)&lt;/td&gt;&lt;td class=&#039;ml-3 text-purple-800&#039;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#039;text-lime-600 w-[60px]&#039;&gt;100 m : &lt;/td&gt;&lt;td class=&#039;ml-3 text-green-700&#039;&gt;01:00.98&lt;/td&gt;&lt;td class=&#039;ml-3 text-red-700&#039;&gt;(00:31.74)&lt;/td&gt;&lt;td class=&#039;ml-3 text-purple-800&#039;&gt;[01:00.98]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;'><a class='text-blue-600'>01:00.98</a></button></td>
+                        <td class="px-6 py-1 text-red-700">
+                            <p class="tippy-button" data-tippy-content="Temps de réaction">
+                                +0.71                            </p>
+                        </td>
+                        <td class="px-6 py-1 text-purple-600 italic">1153 pts</td>
+                        <td class="px-6 py-1"></td>
+                        <td class="px-6 py-1"></td>
+                    </tr>
+                            </table>
+        </div>
+
+        <section>
+            <div class="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
+                <div class="mx-auto max-w-lg text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right mb-10">
+                    <h2 class="text-3xl font-bold sm:text-4xl">Légende</h2>
+                </div>
+
+                <div class="grid grid-cols-2 gap-4 sm:grid-cols-4">
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            Epr NC
+                        </span>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Épreuve non courue, ce code est utilisé pour disputer une finale directe sur l'épreuve
+                        </p>
+                    </div>
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            *
+                        </span>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Les noms et prénoms ont été changés
+                        </p>
+                    </div>
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            <i class="fa-solid fa-arrow-trend-up text-blue-600 text-lg"></i>
+                        </span>
+                        <p class="mt-2 font-bold">Amélioration</p>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Amélioration
+                            des records personnels dans une compétition donnée par rapport aux MPP de chacun des nageurs
+                            répertoriés dans la base fédérale à J-1 du premier jour de la compétition
+                        </p>
+                    </div>
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            <i class="fa-solid fa-equals text-lime-800 text-lg"></i>
+                        </span>
+                        <p class="mt-2 font-bold">Égal</p>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Les MPP de
+                            chacun des nageurs ont été égalé lors de cette compétition
+                        </p>
+                    </div>
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            <i class="fa-solid fa-arrow-trend-down text-orange-500 text-lg"></i>
+                        </span>
+                        <p class="mt-2 font-bold">Baisse</p>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Non-amélioration des records personnels dans une compétition donnée par rapport aux performances
+                            recherchées de chacun des nageurs dans toute la base fédérale à J-1 de la compétition.
+                        </p>
+                    </div>
+                    <div class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring">
+                        <span class="inline-block rounded-lg bg-gray-50 p-3">
+                            <i class="fa-solid fa-plus text-green-700 text-lg"></i>
+                        </span>
+                        <p class="mt-2 font-bold">Nouvelle</p>
+                        <p class="sm:mt-1 sm:text-sm sm:text-gray-600">
+                            Ces individus
+                            ne possédaient pas de MPP dans la base fédérale et donc établissent des nouvelles MPP
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+	    </div>
+
+</div>
+
+
+
+<div class="xl:ml-64">
+    <div class="mt-8 w-full not-for-print">
+    <img src="../media/img/footer_wave.svg" alt="Footer" class="w-full">
+</div>
+<footer class="bg-[#111F69] not-for-print" aria-labelledby="footer-heading">
+    <div class="mx-auto max-w-7xl px-6 pb-8 lg:px-8 pt-4">
+        <div class="xl:grid xl:grid-cols-3 xl:gap-8">
+            <div class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
+                <div class="md:grid md:grid-cols-2 md:gap-8">
+                    <div>
+                        <h3 class="text-sm font-semibold leading-6 text-white">ESPACE RESSOURCES</h3>
+                        <ul role="list" class="mt-6 space-y-4">
+                            <li>
+                                <a href="https://ffnatation.fr/le-statut-haut-niveau/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Haut-Niveau</a>
+                            </li>
+                            <li>
+                                <a href="https://ffnatation.fr/gestion-administrative/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Centre Fédéral de ressources</a>
+                            </li>
+                            <li>
+                                <a href="https://ffnatation.fr/boite-outils-natation-course/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Outils compétitions</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-10 md:mt-0">
+                        <h3 class="text-sm font-semibold leading-6 text-white">PARTENAIRES</h3>
+                        <ul role="list" class="mt-6 space-y-4">
+                            <li>
+                                <a href="https://ffnatation.fr/devenir-partenaire/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Nous soutenir</a>
+                            </li>
+                            <li>
+                                <a href="https://ffnatation.fr/edf-partenaire-principal/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Ils nous accompagnent</a>
+                            </li>
+                            <li>
+                                <a href="https://ffnatation.fr/vos-avantages-partenaires/" target="ffnatation" class="text-sm leading-6 text-gray-200 hover:text-white">Vos avantages partenaires</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="md:grid md:grid-cols-2 md:gap-8">
+                    <div>
+                        <h3 class="text-sm font-semibold leading-6 text-white">SITES COMPLÉMENTAIRES</h3>
+                        <ul role="list" class="space-y-4">
+                            <li>
+                                <a href="https://www.worldaquatics.com/" target="_blank" class="text-sm leading-6 text-gray-200 hover:text-white">World Aquatics</a>
+                            </li>
+                            <li>
+                                <a href="https://www.len.eu/" target="_blank" class="text-sm leading-6 text-gray-200 hover:text-white">LEN</a>
+                            </li>
+                            <li>
+                                <a href="https://www.aifn.fr/" target="_blank" class="text-sm leading-6 text-gray-200 hover:text-white">AIFN</a>
+                            </li>
+                            <li>
+                                <a href="https://ffnatation.e-marchespublics.com/pack/recherche_d_appels_d_offres_marches_publics_1_aapc_________1.html" target="_blank" class="text-sm leading-6 text-gray-200 hover:text-white">Appels d'offres</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="mt-10 md:mt-0">
+                        <h3 class="text-sm font-semibold leading-6 text-white">CONSULTER VOS RÉSULTATS</h3>
+                        <ul role="list" class="mt-6 space-y-4">
+                                                            <li>
+                                    <a href="index.php?idact=nat" class="text-sm leading-6 text-gray-300 hover:text-white">Natation</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=wp" class="text-sm leading-6 text-gray-300 hover:text-white">Water-polo</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=ns" class="text-sm leading-6 text-gray-300 hover:text-white">Natation artistique</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=pl" class="text-sm leading-6 text-gray-300 hover:text-white">Plongeon</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=eau" class="text-sm leading-6 text-gray-300 hover:text-white">Eau libre</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=ete" class="text-sm leading-6 text-gray-300 hover:text-white">Natation estivale</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=mtr" class="text-sm leading-6 text-gray-300 hover:text-white">Maîtres</a>
+                                </li>
+                                                            <li>
+                                    <a href="index.php?idact=ffn" class="text-sm leading-6 text-gray-300 hover:text-white">FFN</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="space-y-8">
+                <h3 class="text-sm font-semibold leading-6 text-white">CONTACT</h3>
+                <ul role="list" class="mt-6 space-y-4">
+                    <li>
+                        <a href="https://ffnatation.fr/contact/" target="ffnatation" class="text-sm leading-6 text-gray-300 hover:text-white underline">Nous contacter</a>
+                    </li>
+                    <li>
+                        <a href="https://ffnatation.fr/stop-aux-violences-je-signale" target="ffnatation" class="text-sm leading-6 text-gray-300 hover:text-white border border-white rounded-full p-4 bg-red-600">Stop aux violences</a>
+                    </li>
+                    <li>
+                        <p class="text-white leading-6 font-semibold text-sm">104, Rue Martre, CS 70052</p>
+                        <p class="text-white leading-6 font-semibold text-sm">92583 CLICHY Cedex</p>
+                        <p class="text-white leading-6 font-semibold text-sm">Tél. : +33 (0)1 70 48 45 70</p>
+                    </li>
+                </ul>
+
+                <div class="flex space-x-6">
+                    <a href="https://twitter.com/FFNatation?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" class="text-gray-200 hover:text-white">
+                        <span class="sr-only">Twitter</span>
+                        <i class="fa-brands fa-x-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/ffnatation/?hl=fr" target="_blank" class="text-gray-200 hover:text-white">
+                        <span class="sr-only">Instagram</span>
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                    <a href="https://fr.linkedin.com/company/f%C3%A9d%C3%A9ration-fran%C3%A7aise-de-natation" target="_blank" class="text-gray-200 hover:text-white">
+                        <span class="sr-only">LinkedIn</span>
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC5CfuljS6XHTsa_O_4uDbkw/videos" target="_blank" class="text-gray-200 hover:text-white">
+                        <span class="sr-only">YouTube</span>
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                    <a href="https://www.facebook.com/FederationFrancaiseNatation/?locale=fr_FR" target="_blank" class="text-gray-200 hover:text-white">
+                        <span class="sr-only">Facebook</span>
+                        <i class="fa-brands fa-facebook"></i>
+                    </a>
+                </div>
+
+                <div class="flex flex-wrap w-full justify-end">
+                    <img src="../media/img/ffn_logo_white.svg" alt="Logo FFN White">
+                </div>
+            </div>
+        </div>
+        <div class="mt-8 pt-2 sm:mt-6 lg:mt-12 text-center text-white">
+            <div class="text-center text-white font-bold mb-4">
+                Vous ne retrouvez pas vos rubriques habituelles ? Contactez-nous : site.vitrine@ffnatation.fr
+            </div>
+            <div class="border-t border-white/10 pt-4">
+                <span class="m-1"><a href="https://ffnatation.fr/mentions-legales/" target="ffnatation">Mentions légales</a></span>
+                <span class="m-1"><a href="https://ffnatation.fr/credits/" target="ffnatation">Crédits</a></span>
+                <span class="m-1"><a href="https://ffnatation.fr/actualites/actu-reseau#tarteaucitron" target="ffnatation">Cookies</a></span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light.css"/>
+<script>
+    tippy('.tippy-button:not(.specific-tooltip)', {
+        allowHTML: true,
+        theme: 'light',
+        maxWidth: 'none',
+    });
+
+    // Pour l'info-bulle avec la classe 'specific-tooltip'
+    tippy('.specific-tooltip', {
+        allowHTML: true,
+        theme: 'light',
+        maxWidth: '250px',
+    });
+
+    tippy('.tippy-button-left', {
+        allowHTML: true,
+        theme: 'light',
+        placement: 'left',
+        trigger: 'click',
+        interactive: true,
+    });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9B2DSM3BM1"></script>
+					<script>
+					  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9B2DSM3BM1');
+</script>
+
+<script>
+ if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+   navigator.serviceWorker.register('sw.js');
+  });
+ }
+</script>
+
+
+</body>
+</html>
+</div>
