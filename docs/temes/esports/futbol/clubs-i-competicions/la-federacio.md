@@ -110,7 +110,11 @@ identificava com a club de la federació també té secció de futbol sala**, i
   nascut el 10 de juliol del 1966, president des del 2019.** **Segueix
   sense saber-se quants presidents ha tingut la federació ni qui la va
   presidir abans.**
-- **El pressupost.** El corpus no té ni un import.
+- ~~**El pressupost.** El corpus no té ni un import.~~ — **`parcial` el
+  19-09-2026**: un comunicat de la [FAF sobre l'Assemblea General de
+  2020](../../../../raw/web/esport/faf/assemblea-general-2020-pressupost.txt)
+  fixa el pressupost d'aquell exercici en **prop de 6 milions d'euros**. Encara
+  no hi ha els comptes auditats ni una sèrie anual comparable.
 - ~~**El futsal**: la font categoritza la federació també com a rectora del
   **futbol sala**, i el corpus no en té cap fitxa.~~ `resolt` **el 2026-09-18**:
   [el futbol sala](../../seleccions/el-futbol-sala.md). **Segueix obert si
