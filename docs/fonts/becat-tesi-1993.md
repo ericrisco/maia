@@ -5,7 +5,7 @@ title: "Jean Becat — L'Andorre. Mutations d'une économie montagnarde (tesi d'
 titular: Jean (Joan) Becat · ICRESS, Universitat de Perpinyà Via Domitia
 autor: "Jean Becat, geògraf. Tesi de Doctorat d'Estat dirigida per Jean Le Coz i Pierre Carrière"
 publicacio: "Presentada i defensada públicament el 18 de desembre del 1993 a la Universitat Paul Valéry Montpeller III amb el títol «Les Pyrénées méditerranéennes, mutations d'une économie montagnarde: le cas de l'Andorre». Reedició sense modificacions, ICRESS, 2019, amb el títol «L'Andorre. Mutations d'une économie montagnarde»"
-url: "no registrada"
+url: "https://www.govern.ad/ca/l/4522728"
 llicencia: "drets reservats — obra d'autor viu, reedició del 2019, sense llicència explícita identificada"
 redistribucio: no
 data_consulta: 2026-09-13
@@ -99,7 +99,10 @@ interpretació que n'adopti**.
   [nota de procedència](../raw/allaus/becat-risque-avalanche-2014.txt)). Això
   cobreix parcialment el llibre 4; els llibres 1, 3, 5, 6 i 7, i la resta del
   llibre 4, segueixen sense ser al corpus.
-- **L'URL no consta.** La procedència del fitxer ve de sessions anteriors.
+- ~~**L'URL no consta.**~~ — **`parcial` el 19-09-2026**: el catàleg del
+  [Govern d'Andorra](../raw/web/fonts/becat-tesi-1993-url.txt) identifica la
+  tesi completa i en dona l'URL pública; no confirma que el llibre 2 sigui
+  descarregable des d'aquell registre.
 - **Del llibre 2, s'han llegit el sumari sencer, el capítol 4.1 (els quarts),
   3.1 sencer (la casa i el seu aparell jurídic, amb la carta de gràcia, els
   préstecs del comú i les boïgues), 4.3 (els coprínceps), 4.4 en la part de
