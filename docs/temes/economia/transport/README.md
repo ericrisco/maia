@@ -153,8 +153,12 @@ transició andorrana passa, ara mateix, per l'híbrid.**
   —**4.052.858 entrades en dotze mesos**, vegeu
   [La frontera](#la-frontera-quatre-milions-de-vehicles-lany-i-tres-de-cada-quatre-per-espanya)—;
   `el temps d'espera segueix sense font.`
-- **El [projecte d'aeroport propi](../../historia/historia-recent/els-anys-daurats.md)**,
+- ~~**El [projecte d'aeroport propi](../../historia/historia-recent/els-anys-daurats.md)**,
   que la font descriu com **«un desig mitigat»** que torna a la premsa des dels
+  anys 2000.~~ **`parcial` el 2026-09-19**: [l'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md)
+  ja documenta els intents de **1931** i **1975**, la construcció i obertura de
+  **1980-1982**, el projecte d'**Air Andorra** i el final dels vols comercials
+  el **1984**; falta reconstruir el retorn del projecte a la premsa des dels
   anys 2000.
 
 ## Related
