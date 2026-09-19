@@ -188,7 +188,8 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
 > estaven contestats en altres branques** —i **un d'ells és un buit que aquesta
 > fitxa declarava en nom d'una altra**, que entretant l'havia tancat.
 
-- **Tot el que hi ha a la taula de dalt.**
+- ~~**Tot el que hi ha a la taula de dalt.**~~ — **`no-es-buit`**: és una
+  referència de context a la taula, no una pregunta de recerca pendent.
 - ~~**Què ha canviat des del 1997**: si hi ha lloc de culte islàmic a Andorra
   avui, com és el règim de quotes ara, i si l'escola ofereix llengües d'origen.~~
   — **`parcial`, i la part del culte té ara una resposta amb forma de silenci.**
