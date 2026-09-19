@@ -339,12 +339,13 @@ parroquia»**.
    concreta del 1863 no consta en aquesta font** — coherent amb un patró
    de col·laboració continuada, no un fet aïllat verificat. **Joaquim de
    Riba** continua sense fitxa.
-7. **Les xifres del pressupost de cada parròquia**: Brutails les qualifica i no
-   les dona. — **`explicat` el 16-09-2026, encara que no tancat**: **«*Los
-   Consejos parroquiales no hacen presupuestos*»**, diu la font del 1918
-   ([el pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)). **Podria ser que no les donés perquè no existien.** **El que
-   sí que consta és d'on venien els diners**: **els arrendaments de les terres
-   comunals sobrants, fets en pública subhasta.**
+7. ~~**Les xifres del pressupost de cada parròquia**: Brutails les qualifica i
+   no les dona.~~ — **`parcial` el 19-09-2026**: la font del 1918 diu
+   explícitament **«*Los Consejos parroquiales no hacen presupuestos*»** ([el
+   pressupost no existia, i el van fer davant seu](../../economia/banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)).
+   També identifica els ingressos com a **arrendaments de terres comunals
+   sobrants en pública subhasta**; les xifres o comptes concrets continuen
+   oberts.
 8. ~~**El Politar, pàgines 262-263** (qui paga quèstia i qui estrany) i **281**
    (el poder dels coprínceps de regular matèries pròpies del Consell), contra
    l'original.~~ — **`resolt` el 18-09-2026: les tres pàgines s'han llegit dins
