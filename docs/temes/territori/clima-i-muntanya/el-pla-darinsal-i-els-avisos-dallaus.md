@@ -92,9 +92,10 @@ previsions; no les converteix en una prohibició absoluta d'informar.
 - No s'ha trobat en aquesta còpia una solució a les discrepàncies de
   periodicitat i avisos. No s'ha contrastat una versió posterior ni el
   registre real d'actualitzacions, adhesions, formacions o activacions.
-- L'índex identifica annexos de telèfons i censos com a informació
+- ~~L'índex identifica annexos de telèfons i censos com a informació
   restringida. No formen part de les 29 pàgines consultades; no s'han
-  buscat dades personals dels afectats.
+  buscat dades personals dels afectats.~~ — **`no-es-buit` el 19-09-2026**:
+  és un avís de privacitat i d'abast de consulta, no una pregunta de recerca.
 - Els altres cinc plans només s'han identificat. **Antecedents de
   1996, buit parcialment tancat:** una
   [lectura de mesures, estimacions i simulacions](que-es-va-mesurar-a-lallau-darinsal.md)
