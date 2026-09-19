@@ -312,8 +312,11 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
    XVII**, d'origen italià, francès i anglès; **a Catalunya era sobretot el nom
    d'una moneda de ral de vuit que corria al segle XVII**, i el DCVB en documenta
    l'ús el 1609 parlant de «reals testons» trasquilats i falsos.
-10. **Quan va deixar la rebel·lia de comportar la pèrdua del dret d'apel·lació.**
-    **La font diu «encara no fa gaire» i no ho data.**
+10. ~~**Quan va deixar la rebel·lia de comportar la pèrdua del dret d'apel·lació.**~~ —
+    **`parcial`, actualitzat el 2026-09-19**: la fitxa contrasta l'estat antic
+    (la rebel·lia implicava perdre el dret d'apel·lar) amb el règim descrit el
+    **1904**, en què el rebel era condemnat després de tres citacions i la font
+    ja no diu que perdés l'apel·lació. **Segueix oberta la data exacta del canvi.**
 11. **Per què les audiències dels batlles no són públiques**, **i si ho van ser
     mai.**
 
