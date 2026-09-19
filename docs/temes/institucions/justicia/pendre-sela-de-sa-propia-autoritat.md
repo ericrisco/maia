@@ -179,13 +179,15 @@ amb autor. El corpus les registra com a seves.`
 
 ## Buits registrats
 
-1. **La peça justificativa núm. XXIII**, *Autre vente à réméré combinée avec
-   bail (1875 environ)*, **p. XLIII**. — **CORRECCIÓ del 16-09-2026: NO és al
-   fitxer que el corpus té.** **La pàgina XLIII falta a l'exemplar
-   digitalitzat**, juntament amb la XLII, la XLVI i la XLVII. **La citació que
-   aquesta fitxa reprodueix a la taula ve del cos de l'obra, no de la peça**, i
-   **el text sencer de la peça segueix sense llegir**: `requereix un altre
-   exemplar del volum`.
+1. ~~**La peça justificativa núm. XXIII**, *Autre vente à réméré combinée avec
+   bail (1875 environ)*, **p. XLIII**.~~ — **`parcial` el 20-09-2026**: les
+   pàgines XLII–XLIII que falten a l'exemplar de Google Books **sí que són a la
+   segona digitalització d'Internet Archive** ([exemplar complet](../../../fonts/brutails-coutume-ia.md)).
+   La fitxa de [les quatre pàgines](../../economia/banca-i-fiscalitat/quatre-pagines-que-no-hi-son.md)
+   ja ha llegit la nota de Brutails: l'acte de cap al **1875** no compleix el
+   decret episcopal de **1853** sobre taxació prèvia. **La transcripció completa
+   de l'acte encara no s'ha incorporat i la data s'ha de verificar sobre la
+   pàgina renderitzada**, perquè l'OCR confon «1875» i «1785» en aquest volum.
 2. ~~**Les fórmules del notari Soldevila** als actes del **13 d'abril i 19
    d'octubre de 1788**, **peces justificatives pp. XXI i XXXV**.~~ — **`resolt`
    el 16-09-2026** (PDF 45 i 59). **Les dues pàgines confirmen que la fórmula
