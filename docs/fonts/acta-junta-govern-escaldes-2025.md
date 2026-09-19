@@ -3,7 +3,7 @@ type: font
 id: acta-junta-govern-escaldes-2025
 title: "Acta de la Junta de Govern núm. 18 del Comú d'Escaldes-Engordany, 12 de maig de 2025"
 titular: Comú d'Escaldes-Engordany
-url: "URL de publicació no registrada; l'exemplar és a docs/raw/hemeroteca/12052025.txt"
+url: "https://e-e.ad/uploads/JuntesGovern/12052025.pdf"
 llicencia: acta formalitzada d'una administració comunal andorrana; document públic
 redistribucio: pendent
 data_consulta: 2026-09-13
@@ -69,7 +69,10 @@ un segle o de fa trenta anys.
 
 ## Buits registrats
 
-1. **L'URL** de publicació de l'acta.
+1. ~~**L'URL** de publicació de l'acta.~~ — **`resolt` el 19-09-2026**: el PDF
+   oficial és [Acta formalitzada — Junta de Govern núm. 18
+   (12-05-2025)](../raw/web/institucions/acta-junta-govern-escaldes-2025.txt),
+   publicat pel Comú d'Escaldes-Engordany.
 2. ~~**L'Ordinació del 20-3-2025 d'ajut per al foment i suport del petit
    comerç**, i el seu **annex 1**, que és el que decideix qui cobra i qui no.~~
    `resolt`
