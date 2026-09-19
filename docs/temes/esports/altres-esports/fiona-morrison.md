@@ -81,7 +81,11 @@ que no té cap artista andorrà de naixement fitxat.**
   documenta**, al costat dels germans
   [Ramón](../estiu/oscar-ramon.md) — **i tots tres van competir als mateixos
   Jocs del 1996.**
-- **Com un país sense mar organitza vela de competició.**
+- ~~**Com un país sense mar organitza vela de competició.**~~ **[parcial ·
+  2026-09-19]** La fitxa ja explica el mecanisme general: els andorrans
+  entrenen al **litoral català**, a menys de tres hores, i el sistema esportiu
+  funciona amb **infraestructura catalana**. Encara falten els clubs, les
+  instal·lacions i l'organització concreta de la vela andorrana.
 
 ## Related
 
