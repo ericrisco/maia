@@ -81,11 +81,40 @@ d'una Constitució escrita per un expedient de drets humans**, i **que el bisbe
 de la Seu va amenaçar d'abandonar el títol de copríncep si el text no li donava
 més poder.** **Cap de les dues coses no està verificada en font primària.**
 
-~~El text de la Constitució article per article~~ — **obert el 14-09-2026**:
-[Vuit dies i no més de quinze](./vuit-dies-i-no-mes-de-quinze.md) llegeix el text
-complet —preàmbul, disposicions i fórmula de promulgació inclosos— i en destil·la
-el **títol I**, el **títol III dels coprínceps**, els articles **63 a 66** i el
-**títol IX** de reforma.
+~~El text de la Constitució article per article~~ — **`parcial`, actualitzat el
+2026-09-19**: [Vuit dies i no més de quinze](./vuit-dies-i-no-mes-de-quinze.md)
+transcriu el text complet —preàmbul, disposicions i fórmula de promulgació
+inclosos— i en destil·la el **títol I**, el **títol III dels coprínceps**, els
+articles **63 a 66** i el **títol IX** de reforma. El text local complet és a
+[la Constitució](../../../raw/lleis/constitucio.txt); els títols restants es
+poden resumir així:
+
+**Títol II (articles 4–42):** dignitat, igualtat i nacionalitat; vida,
+  llibertat, defensa, religió, expressió, intimitat, reunió, associació,
+  educació, circulació i petició; sufragi i partits; propietat, empresa, treball,
+  salut, medi ambient, habitatge, patrimoni i consum; deures fiscals i servei
+  cívic; garanties judicials, empara i estats d'alarma i d'emergència.
+**Títol IV (articles 50–71):** el Consell General representa el poble i les
+  parròquies, legisla, aprova pressupostos i controla el Govern; regula eleccions,
+  Sindicatura, comissions, majories, iniciativa, delegació i urgència legislativa,
+  tractats i relació parlamentària amb el cap de Govern.
+
+**Títol V (articles 72–78):** el Govern dirigeix la política i l'administració,
+  exerceix la potestat reglamentària, respon davant del Consell General i queda
+  sotmès a investidura, qüestió de confiança, censura, dissolució i límits de
+  mandat.
+
+**Títol VI (articles 79–84):** els Comuns tenen personalitat, autogovern,
+  pressupost, béns i competències pròpies; la llei qualificada fixa recursos,
+  transferències, conflictes competencials i la relació amb quarts i veïnats.
+
+**Títol VII (articles 85–94):** justícia única i independent, tribunals,
+  garanties del procés, Consell Superior de la Justícia, nomenament i disciplina
+  de jutges, responsabilitat per error judicial i funció del Ministeri Fiscal.
+
+**Títol VIII (articles 95–104):** el Tribunal Constitucional interpreta la
+  Constitució, resol inconstitucionalitat, empara i conflictes de competència;
+  fixa composició, legitimació, terminis i efectes de les seves decisions.
 
 **Tres coses que aquesta fitxa no podia donar i el text sí:**
 
@@ -107,10 +136,10 @@ el **títol I**, el **títol III dels coprínceps**, els articles **63 a 66** i 
   — **`no-es-buit`**: és una citació constitucional ja transcrita, no un buit de
   recerca.
 
-**El que segueix obert:** els **títols II, IV, V, VI, VII i VIII** —vuitanta
-articles, entre ells tot el catàleg de drets i llibertats— **no s'han
-destil·lat**. I **la data de publicació al BOPA**, que és la d'entrada en vigor,
-**segueix sense constar**.
+**El que segueix obert:** una lectura **article per article i amb comentari
+propi** dels títols II, IV, V, VI, VII i VIII. El corpus ja en conserva el text
+complet i en té el resum de conjunt anterior; la data de publicació al BOPA ja
+és resolta: **núm. 24, 3 de maig de 1993**.
 
 ## Related
 
