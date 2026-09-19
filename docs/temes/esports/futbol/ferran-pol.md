@@ -63,7 +63,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Quan va plegar** i la resta de la carrera.
+- ~~**Quan va plegar** i la resta de la carrera.~~ **[parcial · 2026-09-19]**
+  La taula ja recull la carrera disponible fins a la seva última etapa
+  documentada, **UE Santa Coloma (2019-2021)**, amb 20 partits i 1 gol. No hi
+  consta una data explícita de retirada ni si va continuar després.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
