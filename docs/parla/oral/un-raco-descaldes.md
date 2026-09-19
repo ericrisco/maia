@@ -355,7 +355,9 @@ diccionari.
 
 **Sobre la transcripció**
 
-1. **Cap de les 147 paraules marcades no s'ha verificat.** Mateix deute que la tanda 1.
+1. **`no-es-buit`** — **Cap de les 147 paraules marcades no s'ha verificat.** És
+   el mateix deute de validació de l'àudio que la tanda 1, no una pregunta de
+   contingut textual.
 2. **`en Gordany` apareix desenes de vegades i és sistemàticament fals.** Queda
    sense corregir per fidelitat, però **qualsevol ús d'aquesta transcripció com a
    text d'entrenament propagarà l'error**. És el primer cas del corpus en què la

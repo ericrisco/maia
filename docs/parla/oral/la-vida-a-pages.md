@@ -176,8 +176,9 @@ diferents i totes dues es resolen escoltant**, no raonant.
 
 **Sobre la transcripció**
 
-1. **Cap de les 69 paraules marcades no s'ha verificat contra l'àudio.** És el
-   buit principal i el que bloqueja tota la resta. Es tanca escoltant.
+1. **`no-es-buit`** — **Cap de les 69 paraules marcades no s'ha verificat contra
+   l'àudio.** És una limitació de validació que es tanca escoltant, no una
+   pregunta de contingut textual.
 2. ~~**Els candidats concrets**~~ — **`parcial` el 19-09-2026**: `[?rets]` →
    probablement **recs** (00:04:28); `[?l'equa]` → probablement **l'euga**
    (00:09:30); `[?armats]` → probablement **ramats** (00:02:32);

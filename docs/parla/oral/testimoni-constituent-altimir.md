@@ -321,7 +321,8 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
 
 ## Buits registrats
 
-1. **212 marques sense verificar**, la pitjor proporció del corpus.
+1. **`no-es-buit`** — **212 marques sense verificar**, la pitjor proporció del
+   corpus: és un estat de validació de l'àudio, no una pregunta de contingut.
 2. ~~**`[?enredarits]`** (00:00:50) és quasi segur *endarrerits*.~~ —
    **`resolt` el 16-09-2026 per la peça mateixa**: **el títol de la font és
    «Ens havíem quedat una mica endarrerits»**, que és **la mateixa frase, sencera
