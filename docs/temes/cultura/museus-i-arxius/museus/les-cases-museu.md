@@ -123,9 +123,9 @@ país».**
   dotze generacions de la Casa Rull, del 1600 al 1959, i explica per què la casa
   s'ha dit Naufreu, Rossell, Pal i Perich sense deixar de ser la mateixa casa.
 - **Els Cristo i els Pal**: **segueixen sense genealogia i sense nom propi.**
-- **Les darreres propietàries de Casa Cristo**, i per què van marxar a França.
+- ~~**Les darreres propietàries de Casa Cristo**, i per què van marxar a França.~~ **[parcial · 2026-09-19]** La fitxa ja estableix que eren les darreres propietàries de la casa i que es van establir a **França cap als anys cinquanta**. El motiu concret de la marxa encara no consta.
 - ~~**L'emigració andorrana**~~ — [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
-- **Els boquers amb rostres humans de Cal Pal.**
+- ~~**Els boquers amb rostres humans de Cal Pal.**~~ **[parcial · 2026-09-19]** La fitxa ja els situa a la **façana nord-oest** de Cal Pal i els descriu com a **caps de biga amb rostres humans**. L'inventari i el detall constructiu complet encara no consten.
 - **Quantes moles i serradores hi havia al país.**
 
 ## Related
