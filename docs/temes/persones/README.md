@@ -33,6 +33,7 @@ s'infla amb suposicions. **El que no es pot fonamentar no s'escriu.**
 | **Lídia Armengol i Vila** | [historiografia](../historia/historiografia/lidia-armengol-vila.md) | Va fer la historiografia moderna d'Andorra i va morir als 43 anys |
 | **Guillem d'Areny-Plandolit** | [segle XIX](../historia/segle-xix/guillem-dareny-plandolit.md) | El síndic de la Nova Reforma de 1866 |
 | **Boris Skossyreff** | [segle XX](../historia/segle-xx-primera-meitat/boris-skossyreff.md) | Es va proclamar rei d'Andorra el 1934 |
+| **Esteve Albert i Corp** | [fitxa](./esteve-albert-i-corp.md) | Va impulsar el teatre popular pirinenc des d'Andorra |
 
 **Tres al començament d'aquesta branca.** La taula de sota ja no és només una
 llista de buits: bona part de les files hi apunten a fitxa.

@@ -250,8 +250,11 @@ pogut datar-ne els anys**.
 5. **Qui va escriure l'operació del Carnestoltes**, cap al 1970.
 6. **Per què Ordino l'atura el 1959 i el 1992**, i qui la recupera el 1978 i el
    2017.
-7. **Esteve Albert i Corp**: apareix dirigint dues obres i **el corpus no en té
-   fitxa**.
+7. ~~**Esteve Albert i Corp**: apareix dirigint dues obres i **el corpus no en té
+   fitxa**.~~ — **`resolt` el 2026-09-19**: vegeu la [fitxa d'Esteve Albert i
+   Corp](../../persones/esteve-albert-i-corp.md), que en dona les dates, l'exili
+   a Andorra el 1956 i els muntatges populars que expliquen la seva presència
+   en aquest article.
 8. **El Grup Artístic Pirene** i **Narcís Bonet**.
 9. **El lèxic del carnaval andorrà**, que el corpus ja tenia registrat com a
    buit i **segueix obert**.
