@@ -232,8 +232,11 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    pensa** —**i ho dona com a opinió.**
 6. **L'avantatge del *foraster* en el càlcul de les despeses**, que la font
    remet a més endavant en la mateixa obra. **Pendent de lectura.**
-7. **D'on surten les 15 pessetes** de l'audiència fora de feriats: **si és
-   aranzel escrit o ús.**
+7. ~~**D'on surten les 15 pessetes** de l'audiència fora de feriats: **si és
+   aranzel escrit o ús.**~~ — **`parcial`, actualitzat el 2026-09-19**: la font
+   fixa les **15 pessetes** com el preu d'una audiència especial fora dels
+   feriats i exigeix avisar la part contrària amb **tres dies** de marge.
+   **Segueix oberta la norma, l'aranzel o l'acte que va fixar aquesta quantia.**
 8. **Quantes audiències especials es van demanar**, **i si algun andorrà podia
    demanar-ne.** **La font ho dona com a facilitat exclusiva del foraster.**
 9. **L'Usatge *Item inviolabili*** i **la constitució catalana de 1493** sobre
