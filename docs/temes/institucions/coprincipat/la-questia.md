@@ -213,8 +213,12 @@ l'article 47 de la Constitució.`
 - **Per què els andorrans van demanar el restabliment del 1806.**
 - **Les cròniques dels lliuraments del 1991 i del 1992.**
 - **Si es va pagar mai en fruits**, i **què.**
-- **El text literal de l'article 47 de la Constitució**, que és la base de la
-  dotació actual dels coprínceps.
+- ~~**El text literal de l'article 47 de la Constitució**, que és la base de la
+  dotació actual dels coprínceps.~~ — **`resolt` el 19-09-2026**: el [text
+  oficial del Govern](https://www.govern.ad/documents/d/guest/constitucio-d-andorra-1)
+  diu: «El Pressupost General del Principat ha d’assignar una quantitat igual a
+  cada Copríncep, destinada al funcionament de llurs serveis, de la qual poden
+  disposar lliurement.»
 - **Com es reparteixen els 707.499,60 € entre els dos coprínceps**, i **des de
   quin any hi és la partida.**
 
