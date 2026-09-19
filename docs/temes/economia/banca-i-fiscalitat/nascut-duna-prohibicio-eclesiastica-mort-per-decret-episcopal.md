@@ -281,8 +281,10 @@ Caldes**.
    doble del tipus legal del censal posterior a 1854.** **Vegeu** [«per considerar-se com a pensió alimentícia»](./per-considerarse-com-a-pencio-alimenticia.md).
 8. **Per què posar la vida d'un infant aliè al contracte «disminuïa l'àlea».**
    **La font ho afirma i no ho explica.**
-9. **Quants censals hi havia el 1904** i **quants se n'havien creat abans del 1854.**
-   **La font diu que el nom és el més freqüent dels textos i no compta.**
+9. ~~**Quants censals hi havia el 1904** i **quants se n'havien creat abans del
+   1854.**~~ — **`parcial` el 19-09-2026**: la font diu que el nom de *censal*
+   és el més freqüent dels textos consultats, però no compta els casos ni els
+   separa per període.
 
 ## Related
 
