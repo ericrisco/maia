@@ -78,7 +78,13 @@ per la 25a edició.
   Casamanya amb l'Escola de Música i el Grup Artístic**. L'entrevista de la
   Coral Rocafort situa l'inici de les caramelles de Sant Julià **el 1962**;
   **el corpus encara no té la data d'inici dels grups d'Ordino**.
-- Si hi ha caramelles documentades a l'arxiu abans del segle XX.
+- ~~**Si hi ha caramelles documentades a l'arxiu abans del segle XX.**~~ —
+  **`parcial` el 2026-09-19**: la fitxa patrimonial del [Govern
+  d'Andorra](../../../raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt)
+  situa l'aparició de les caramelles a Andorra **a l'inici de la Segona Guerra
+  Mundial**, amb l'arribada de refugiats catalans que en van transmetre el
+  folklore. **Això no és una consulta dels arxius anteriors al segle XX** i no
+  permet afirmar que no hi hagi cap document anterior.
 
 ## Related
 
