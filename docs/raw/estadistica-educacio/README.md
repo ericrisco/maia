@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-educacio/` — indicadors de l'educació
+# Indicadors de l'educació — evidència estadística
 
 Nota del **Departament d'Estadística** del Govern d'Andorra, elaborada amb dades
 del **Ministeri d'Educació**.

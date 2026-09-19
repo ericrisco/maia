@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-cultura-esport/` — cultura i esport federat
+# Cultura i esport federat — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

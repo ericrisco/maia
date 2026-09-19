@@ -1,4 +1,4 @@
-# `docs/raw/eleccions/` — resultats electorals oficials
+# Resultats electorals oficials
 
 Dossiers del portal electoral del Govern d'Andorra.
 

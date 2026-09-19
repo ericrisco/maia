@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-xifres/` — Andorra en xifres
+# Andorra en xifres — evidència estadística
 
 **Andorra en xifres 2024**, 127 pàgines, publicat el **9 de desembre del 2025**.
 Edició del **Departament d'Estadística** amb la Cambra de Comerç i Andorra

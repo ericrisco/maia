@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-renda/` — Enquesta de condicions de vida del 2024
+# Enquesta de condicions de vida del 2024 — evidència estadística
 
 Nota de premsa **A047-A163-A164**, publicada el **28 de juliol del 2025** pel
 Departament d'Estadística: distribució personal de la renda, enquesta de

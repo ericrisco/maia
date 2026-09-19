@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-demografia/` — migracions, llars, projeccions
+# Migracions, llars i projeccions — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

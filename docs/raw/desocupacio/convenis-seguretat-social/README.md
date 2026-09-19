@@ -1,4 +1,4 @@
-# `convenis-seguretat-social/` — els dos convenis bilaterals
+# Convenis bilaterals de seguretat social
 
 Sis peces del BOPA baixades el **17 de setembre del 2026**: les propostes de
 ratificació dels convenis de seguretat social **amb França** (2001) i **amb

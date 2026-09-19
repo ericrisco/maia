@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-turisme/` — allotjament i visitants
+# Allotjament i visitants — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

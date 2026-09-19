@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-habitatge/` — transaccions i preus de l'habitatge
+# Transaccions i preus de l'habitatge — evidència estadística
 
 Notes del **Departament d'Estadística** que ajunten **dues activitats en un sol
 document**: **A117. Estadística de transaccions immobiliàries** i **A145.

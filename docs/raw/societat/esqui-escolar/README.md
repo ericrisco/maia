@@ -1,4 +1,4 @@
-# `docs/raw/societat/esqui-escolar/` — els nou reglaments de l'esquí escolar
+# Nou reglaments de l'esquí escolar
 
 Tots els reglaments de l'esquí escolar publicats al BOPA entre el **1993 i el
 2025**, baixats el **17 de setembre del 2026**, més la llei del 1996 que modifica

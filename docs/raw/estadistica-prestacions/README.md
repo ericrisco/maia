@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-prestacions/` — prestacions socials
+# Prestacions socials — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra, elaborades amb els
 **registres del Departament d'Afers Socials**.

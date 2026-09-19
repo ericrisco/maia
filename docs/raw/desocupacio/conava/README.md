@@ -1,4 +1,4 @@
-# `docs/raw/desocupacio/conava/` — el reglament de la Comissió Nacional de Valoració
+# Comissió Nacional de Valoració — reglament
 
 Tres decrets del BOPA baixats el **17 de setembre del 2026**: les modificacions
 del **16-2-2011**, del **10-1-2018** i del **4-7-2022** del Reglament de regulació

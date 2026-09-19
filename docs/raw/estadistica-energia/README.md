@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-energia/` — energia
+# Energia — evidència estadística
 
 **A115. Estadística de l'energia** del **Departament d'Estadística**. Nota
 **mensual**.

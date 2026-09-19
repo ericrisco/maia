@@ -1,4 +1,4 @@
-# `docs/raw/institucions/transferencies-comuns/` — les regularitzacions de les transferències
+# Regularitzacions de les transferències als comuns
 
 Peces del BOPA baixades el **17 de setembre del 2026**. La Llei 28/2018 importa
 perquè és la que explica, amb xifres, **què va passar el 9 de febrer del 2017**

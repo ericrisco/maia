@@ -1,4 +1,4 @@
-# `eurlex/` — el Reglament europeu de censos
+# Reglament europeu de censos
 
 **Reglament (CE) núm. 763/2008 del Parlament Europeu i del Consell, de 9 de
 juliol del 2008, relatiu als censos de població i habitatge**, baixat d'EUR-Lex

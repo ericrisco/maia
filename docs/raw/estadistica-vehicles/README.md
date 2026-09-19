@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-vehicles/` — vehicles, conductors i accidents
+# Vehicles, conductors i accidents — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

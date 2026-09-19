@@ -1,4 +1,4 @@
-# `relacions-exteriors/` — textos de tractats
+# Textos de tractats — relacions exteriors
 
 Material de partida de l'àmbit **relacions exteriors**. A diferència de la resta
 de `docs/raw/`, **aquí els drets estan oberts**: EUR-Lex autoritza la

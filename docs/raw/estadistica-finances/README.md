@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-finances/` — execució del pressupost del sector públic
+# Execució del pressupost del sector públic — evidència estadística
 
 **A134. Estadística de l'execució trimestral del pressupost del sector públic**,
 del **Departament d'Estadística**.

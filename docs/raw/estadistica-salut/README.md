@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-salut/` — accidents i salut
+# Accidents i salut — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

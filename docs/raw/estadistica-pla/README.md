@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-pla/` — el Pla i el Programa estadístics
+# Pla i Programa estadístics
 
 Tres peces del BOPA baixades el **17 de setembre del 2026**: la **Llei 27/2025,
 de l'11 de desembre, del Pla d'estadística 2026-2029**, el **Decret 25/2026,

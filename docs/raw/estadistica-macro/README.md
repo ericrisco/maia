@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-macro/` — comptes nacionals i previsions
+# Comptes nacionals i previsions — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.
 

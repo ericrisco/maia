@@ -1,4 +1,4 @@
-# `web/esport/` — captures sobre esport andorrà
+# Captures web sobre esport andorrà
 
 **Captures de la Viquipèdia en anglès**, baixades el **2026-09-13**, per obrir la
 branca d'esports, que era la més buida del corpus.

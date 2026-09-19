@@ -1,4 +1,4 @@
-# `web/costums/` — captures sobre costums andorrans
+# Captures web sobre costums andorrans
 
 | Fitxer | URL | Consulta | Llicència / termes |
 | --- | --- | --- | --- |

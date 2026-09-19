@@ -1,4 +1,4 @@
-# `quotes-immigracio-1989-2011/` — la sèrie de quotes anterior a la llei del 2012
+# Quotes d'immigració, 1989–2011
 
 Cent un textos del BOPA baixats el **17 de setembre del 2026**: totes les quotes
 d'immigració publicades entre **el juny del 1989 i el novembre del 2011**. Són

@@ -1,4 +1,4 @@
-# `docs/raw/economia/aeroport/` — l'Aeroport d'Andorra - La Seu d'Urgell al Butlletí
+# Aeroport d'Andorra - La Seu d'Urgell — Butlletí
 
 | | |
 | --- | --- |

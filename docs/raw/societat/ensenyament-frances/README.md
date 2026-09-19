@@ -1,4 +1,4 @@
-# `docs/raw/societat/ensenyament-frances/` — els convenis amb França en matèria d'ensenyament
+# Convenis amb França en matèria d’ensenyament
 
 Tres dels quatre convenis que han regulat el sistema educatiu francès a Andorra,
 baixats del BOPA el **17 de setembre del 2026**: el del **19-3-1993** (19

@@ -1,4 +1,4 @@
-# `docs/raw/societat/ensenyament-espanyol/` — els convenis educatius amb Espanya
+# Convenis educatius amb Espanya
 
 Tres peces del BOPA baixades el **17 de setembre del 2026**: el **Conveni
 Hispano-Andorrà en matèria educativa de l'11 de gener del 1993**, el **Conveni

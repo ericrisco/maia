@@ -1,4 +1,4 @@
-# `sac-debats-recerca/` — Recull de conferències / Debats de Recerca (SAC)
+# Debats de Recerca (SAC) — recull de conferències
 
 **Cicle de conferències de la Societat Andorrana de Ciències**, publicat
 anualment com a *Recull de conferències* / *Debats de Recerca*. **No són les

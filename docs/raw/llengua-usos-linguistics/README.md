@@ -1,4 +1,4 @@
-# `llengua-usos-linguistics/` — fons documental de llengua del Servei de Política Lingüística
+# Fons documental de llengua — Servei de Política Lingüística
 
 Material de partida de les tandes de l'àmbit **llengua**. Tot ve de la pàgina
 **«La llengua a Andorra»** del portal del Govern, llegida i desada el

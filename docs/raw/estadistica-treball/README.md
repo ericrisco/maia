@@ -1,4 +1,4 @@
-# `docs/raw/estadistica-treball/` — salaris
+# Salaris — evidència estadística
 
 **A149. Estadística de salaris** del **Departament d'Estadística**. Nota
 **mensual**, amb dades semidefinitives del mes que fa tres mesos.

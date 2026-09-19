@@ -1,4 +1,4 @@
-# `docs/raw/territori/caca/` — els vedats de caça
+# Vedats de caça
 
 La **Llei dels vedats de caça del 13 d'abril del 2000**, baixada del BOPA el **17
 de setembre del 2026**. És la norma que **crea i delimita els quatre vedats**

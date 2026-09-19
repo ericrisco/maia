@@ -1,4 +1,4 @@
-# `docs/raw/lleis/bopa/impostos/` — les sis lleis que modifiquen els tres impostos
+# Sis lleis que modifiquen els tres impostos
 
 Baixades del BOPA el **17 de setembre del 2026**. Són **totes** les lleis que
 modifiquen l'IGI (Llei 11/2012), l'IRPF (Llei 5/2014) i l'impost sobre societats

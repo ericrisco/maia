@@ -1,4 +1,4 @@
-# `docs/raw/societat/habitatge-preus/` — els preus del lloguer, en xifres del Govern
+# Preus del lloguer — xifres del Govern
 
 Presentació del **projecte de llei del règim jurídic aplicable als contractes
 d'arrendament d'habitatge prorrogats fins al 2027**, Andorra la Vella,

@@ -1,4 +1,4 @@
-# `web/esport/faf/` — comunicats i documents de la FAF
+# Federació Andorrana de Futbol — comunicats i documents
 
 **Font oficial:** [Federació Andorrana de Futbol](https://www.faf.ad/).
 La pàgina es va baixar el **19-09-2026** amb una sessió de galeta del portal;

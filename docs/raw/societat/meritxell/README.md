@@ -1,4 +1,4 @@
-# `docs/raw/societat/meritxell/` — l'Escola Especialitzada i la Fundació
+# Escola Especialitzada i Fundació Meritxell
 
 Dues peces del BOPA baixades el **17 de setembre del 2026**: el **Conveni de
 col·laboració educativa del 30-11-1995** entre el Govern i l'Escola Especialitzada

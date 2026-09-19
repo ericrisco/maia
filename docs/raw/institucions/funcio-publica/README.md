@@ -1,4 +1,4 @@
-# `docs/raw/institucions/funcio-publica/` — normativa de funció pública al Butlletí
+# Normativa de funció pública al Butlletí
 
 Peces del BOPA baixades el **17 de setembre del 2026**. La primera és el
 **Reglament de formació del personal de l'Administració general del 22-3-2000**,

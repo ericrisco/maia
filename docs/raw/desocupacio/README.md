@@ -1,4 +1,4 @@
-# `docs/raw/desocupacio/` — el reglament de l'ajut per desocupació
+# Ajut per desocupació — reglament
 
 La tanda inicial conserva quatre textos del BOPA i un consolidat. S'hi han
 afegit el decret de desembre de 2020 i material de contrast de la CASS i del
