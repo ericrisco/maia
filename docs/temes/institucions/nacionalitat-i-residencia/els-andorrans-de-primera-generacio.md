@@ -160,10 +160,14 @@ nacionals** en l'altra.
 
 ## El que falta
 
-- **Quan es va abolir el Tribunal d'Assimilació** i quan es va igualar la
-  majoria d'edat política. **Buit prioritari** — la ponència és del 1990 i
-  reclama uns canvis que probablement van arribar amb
-  [la Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md).
+- ~~**Quan es va abolir el Tribunal d'Assimilació** i quan es va igualar la
+  majoria d'edat política.~~ **`parcial` el 22-09-2026**: la [cronologia
+  legislativa](../justicia/cronologia-legislativa.md) documenta que el **1971**
+  la majoria d'edat política era als **21 anys**; la Llei qualificada de la
+  nacionalitat de **1995** ja encomana la integració a la **Comissió de la
+  Nacionalitat**, però no fixa quan va desaparèixer el Tribunal ni quan es va
+  igualar l'edat política a 18 anys. La data exacta i la norma de transició
+  continuen obertes.
 - ~~Com es va resoldre el problema dels nascuts després de l'1 de gener de 1975.~~
   **TANCAT a mitges.** La Llei del **1985** hi va afegir **l'article 31**: els
   nascuts després d'aquella data podien adquirir la nacionalitat **si tenien un
