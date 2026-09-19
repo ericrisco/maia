@@ -65,8 +65,13 @@ competició»**.
 ## El que falta
 
 - **Els seus resultats**, cursa a cursa. **El bolcat en dona un i prou.**
-- **Marc Casal Mir**, el germà: **no té article a la Viquipèdia** —comprovat el
-  18-09-2026, ni amb el nom complet ni sense— **i el corpus no en té cap fitxa.**
+- ~~**Marc Casal Mir**, el germà: **no té article a la Viquipèdia** —comprovat el
+  18-09-2026, ni amb el nom complet ni sense— **i el corpus no en té cap fitxa.**~~ —
+  **`resolt` el 19-09-2026**: la fitxa pròpia [Marc Casal Mir](./marc-casal-mir.md)
+  es basa en l'entrevista de [Dona Secret](../../../fonts/donasecret-oscar-marc-casal-2018.md),
+  que dona la data de naixement, els estudis, la feina a l'Hotel Nòrdic, el
+  parentiu i la trajectòria compartida de curses de muntanya. El palmarès cursa
+  a cursa continua obert dins la fitxa nova.
 - **Què vol dir «el nou format de competició» del 2019** que els perjudicava, i
   **qui el va decidir.**
 - ~~**Què fa des del 2023.**~~ — **`no-es-buit`**: és el mateix enunciat que

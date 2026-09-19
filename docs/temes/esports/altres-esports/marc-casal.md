@@ -74,7 +74,8 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
 
   **El Marc Casal Mir del bolcat és, doncs, un corredor de muntanya.** **El Marc
   Casal d'aquesta fitxa és patinador sobre gel, nascut a Canillo el 13 d'agost
-  del 1987.** **No hi ha cap font que els identifiqui**, i **n'hi ha una que
+  del 1987.** **El [Marc Casal Mir](./marc-casal-mir.md) és el corredor de
+  muntanya germà d'Òscar.** **No hi ha cap font que els identifiqui**, i **n'hi ha una que
   situa el germà d'Òscar al mateix esport que Òscar.**
 
   **El corpus tanca la col·lisió així**: **dues persones amb el mateix nom i la
