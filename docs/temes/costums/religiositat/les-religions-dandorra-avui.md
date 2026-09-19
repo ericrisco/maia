@@ -218,11 +218,13 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    és exposada al registre públic, però **encara no es pot afirmar si hi ha
    mesquita o sala d'oració**.
 2. **D'on ve la població musulmana**, si no és majoritàriament marroquina.
-3. **Xifres oficials de confessions.** Les dues que hi ha són estimacions de
+3. ~~**Xifres oficials de confessions.** Les dues que hi ha són estimacions de
    premsa — i **no n'hi pot haver de censals**: l'article 11.1 de la Constitució
    diu que **ningú no pot ser obligat a declarar la seva religió**. El que sí que
    existeix des del 2025 és **el nombre aproximat de practicants** que cada entitat
-   declara al Registre.
+   declara al Registre.~~ — **`no-es-buit` el 19-09-2026: la fitxa ja avisa que
+   les xifres són estimacions i no dades oficials; el marc constitucional explica
+   per què no hi pot haver un cens obligatori.**
 4. **Quan s'implanta cada confessió** a Andorra. **Cap data a la font** — però el
    Registre n'ha de fer constar «**la data de l'establiment de la religió a
    Andorra**».
