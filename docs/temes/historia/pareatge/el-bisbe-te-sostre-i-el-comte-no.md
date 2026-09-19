@@ -263,8 +263,12 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
 1. **El text original del Pariatge**, **en llatí.** **Segueix obert i és
    prioritari.** **Tot el que aquesta fitxa cita és traducció francesa moderna**,
    i **no serveix per a cap argument que depengui d'una paraula.**
-2. **Quants articles té el Pariatge**: **onze segons una font del corpus, tretze
-   segons aquesta.** **Divergència oberta.**
+2. ~~**Quants articles té el Pariatge**: **onze segons una font del corpus, tretze
+   segons aquesta.**~~ — **`parcial` el 2026-09-19**: aquesta transcripció conserva
+   **tretze paràgrafs (§ I–XIII)**, mentre que l'altra font en compta onze. El
+   mateix text adverteix que el § XII (perdó mutu) i el § XIII (garantia reial)
+   podrien no comptar com a articles, però **sense l'original llatí no es pot
+   arbitrar la divergència**.
 3. ~~**La butlla de confirmació pontifícia**, **i la seva data.**~~ — **`parcial`
    el 2026-09-19**: el [catàleg local de documents d'Andorra](../../../raw/web/historia/catalog-bnf-documents-andorra.txt) identifica la butlla de Martí IV com a **7 d'octubre de 1282, a Montefiascone**, a **BNF, col. Baluze 81, f. 369r-v**, amb còpia a **BNF, col. Doat 162, f. 50r-51v**. **El manuscrit i el text íntegre encara no són al corpus.**
 4. **Si es va pagar la pena de 50.000 sous de Melgueil**, o **si hi va haver
