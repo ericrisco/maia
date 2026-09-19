@@ -137,8 +137,9 @@ la matança del porc, feta el diumenge al matí**.
   recuperació**~~ — **respost**: Encamp la manté «des de temps immemorials»;
   **Ordino la va aturar el 1959, recuperar el 1978, aturar el 1992 i recuperar
   el 2017**; **Andorra la Vella la va perdre entre el 1913 i el 1918**.
-- **El vocabulari del carnaval** andorrà. **Segueix obert**, i ara se sap que hi
-  ha «llenguatge vulgar» documentat a l'operació del Carnestoltes.
+- ~~**El vocabulari del carnaval** andorrà.~~ — **`parcial` el 19-09-2026**:
+  segueix obert el vocabulari complet, però l'operació del Carnestoltes ja
+  documenta l'existència de «llenguatge vulgar».
 
 ## Related
 
