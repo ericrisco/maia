@@ -125,7 +125,11 @@ transició andorrana passa, ara mateix, per l'híbrid.**
   generals, una trentena de secundàries, i la CG-1/CG-2 com les úniques
   dues portes terrestres del país**
   ([font](../../../fonts/wikipedia-ca-llista-carreteres-andorra.md)).
-- **El túnel d'Envalira** i **el túnel del Cadí**, que va tancar l'aeroport.
+- ~~**El túnel d'Envalira** i **el túnel del Cadí**, que va tancar l'aeroport.~~ —
+  **`resolt` el 2026-09-19**: [les carreteres](./les-carreteres.md) fixa el
+  túnel d'Envalira (**2002, 2.879 m**) i [l'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md)
+  situa l'obertura del túnel del Cadí el **29 d'octubre de 1984**, el mateix
+  any que van acabar els vols comercials d'Andorra-la Seu.
 - ~~**L'heliport d'Andorra la Vella.**~~ — **`parcial` el 18-09-2026**: **la
   concessió de l'Heliport Nacional corre del 2022 al 2052**, amb una
   **compensació de fins a 7.627.034 € —el 75% de l'amortització— si el
