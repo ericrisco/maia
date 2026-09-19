@@ -45,7 +45,9 @@ confon.** Vegeu [Sergi Moreno](./sergi-moreno.md), on hi ha la nota sencera.
 ## El que falta
 
 - **Quan va arribar a Andorra i quan es va nacionalitzar.**
-- **Els seus clubs.** Ara juga al **FC Encamp**, segons la font.
+- ~~**Els seus clubs.**~~ — **`parcial` el 19-09-2026**: la font només
+  identifica el **FC Encamp** com el club actual; no hi consten la trajectòria
+  completa ni les temporades de cada club.
 
 ## Related
 
