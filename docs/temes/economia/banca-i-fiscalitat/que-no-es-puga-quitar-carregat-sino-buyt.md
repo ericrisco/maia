@@ -244,8 +244,10 @@ l'adquirent per les reparacions, *adobs***.
 7. **Quina *sacristania* era la de la compra de 1760**, i **de quina parròquia.**
 8. **Si la classificació dels *sabis* en tres menes de millores** té **cap base
    escrita** o **és doctrina oral.**
-9. **Quantes vendes portaven clàusula de millores** i **quantes no.** **La font diu
-   «nombre de ventes» i no compta.**
+9. ~~**Quantes vendes portaven clàusula de millores** i **quantes no.**~~ —
+   **`parcial` el 2026-09-19**: **la font només parla d'un «nombre de ventes»**;
+   **confirma que n'hi havia més d'una, però no dona ni el recompte ni el total
+   de vendes sense clàusula.**
 
 ## Related
 
