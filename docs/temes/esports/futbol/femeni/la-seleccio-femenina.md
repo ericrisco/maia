@@ -215,9 +215,12 @@ actual és [Teresa Morató](./teresa-morato.md).**
 
 - ~~**Les altres nou victòries**~~: el corpus en documenta tres amb data i
   marcador. **`parcial`: les sis restants continuen sense documentar.
-- **La lliga femenina que no existeix**: si mai n'hi va haver, i per què no n'hi
-  ha. La font parla d'**«una competició nacional femenina que va tenir lloc el
-  2010-11»** i no en diu res més.
+- ~~**La lliga femenina que no existeix**: si mai n'hi va haver, i per què no
+  n'hi ha.~~ — **`parcial` el 19-09-2026**: la mateixa font confirma que hi va
+  haver **una competició nacional femenina durant la temporada 2010-11**. El
+  corpus pot afirmar l'existència d'aquella edició, però la font no en dona ni
+  el format, ni els equips, ni explica per què no es va mantenir; l'absència de
+  competició actual continua documentada a la fitxa.
 - ~~**Les seleccions de base femenines** —la sub-17 existeix, hi va jugar
   [Maria Moles](./maria-moles.md) el 2018— i el corpus no en té res.~~ —
   **`parcial` el 2026-09-18**: **la sub-17 està confirmada com a entitat amb
