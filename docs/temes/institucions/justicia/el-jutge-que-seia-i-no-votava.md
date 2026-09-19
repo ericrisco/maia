@@ -293,11 +293,12 @@ jutjar.
 
 ## Buits registrats
 
-1. **Quan es va prendre la decisió de portar totes les causes als Corts**, **i
-   la deliberació del Consell General que la demana.** **La font diu «depuis déjà
-   quelques années» i no data res.** **Prioritari: tanca el buit 4 de
-   [cesan los demes tribunals inferiors](./cesan-los-demes-tribunals-inferiors.md)
-   quant al fet, no quant a la data.**
+1. ~~**Quan es va prendre la decisió de portar totes les causes als Corts**, **i
+   la deliberació del Consell General que la demana.**~~ — **`parcial` el
+   2026-09-19**: Vilar confirma que la decisió ja era vigent el **1904**, que
+   havia estat presa **a petició del Consell General** i que havia convertit les
+   sessions en una audiència anual de març o abril. **La font no dona l'any
+   exacte ni conserva l'acta de la deliberació**, que continuen oberts.
 2. **El decret de Catalán de Ocón sencer** *(«Archives de l'Andorre»)*. **Tercera
    vegada que el corpus el reclama**, **i ara en té el passatge sobre els
    rahonadors.** **Prioritari.**
