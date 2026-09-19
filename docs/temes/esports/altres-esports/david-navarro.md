@@ -44,11 +44,11 @@ amb [Tomás Cano](./tomas-cano.md).
 
 ## El que falta
 
-- **El BC Andorra / MoraBanc Andorra**, sencer: quan es funda, quan puja a
-  l'ACB, què hi ha fet. **Buit prioritari**: és **el club esportiu andorrà de
-  més nivell competitiu** que el corpus coneix.
-> **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
-> (`David_Navarro_(basketball).wiki`).
+- ~~**El BC Andorra / MoraBanc Andorra**~~ — **`resolt` el 19-09-2026**:
+  la fitxa del club ja documenta la fundació, la inscripció a la federació
+  catalana, les pujades a l’ACB, els noms de patrocini, el palmarès i els
+  presidents. Vegeu [El BC Andorra](./bc-andorra.md); la trajectòria personal
+  de Navarro queda registrada separadament.
 
 - ~~**Quantes temporades** hi va jugar Navarro.~~ — **`resolt`: quatre**,
   **del 2013 al 2017**, **i en va ser el capità.** **Hi va arribar quan el club
