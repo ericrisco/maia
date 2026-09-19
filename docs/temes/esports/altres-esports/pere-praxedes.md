@@ -54,8 +54,15 @@ altres figures esportives del país.**
 
 ## Buits registrats
 
-1. **Quan i com va obtenir la nacionalitat andorrana.**
-2. **Detall dels seus anys com a entrenador**, temporades i resultats.
+1. ~~**Quan i com va obtenir la nacionalitat andorrana.**~~ **[parcial ·
+   2026-09-19]** La fitxa ja confirma que tenia **doble nacionalitat,
+   espanyola i andorrana**. El moment i el procediment d'obtenció encara no
+   consten.
+2. ~~**Detall dels seus anys com a entrenador**, temporades i resultats.~~
+   **[parcial · 2026-09-19]** La fitxa ja estableix que va ser **segon
+   entrenador del BC Andorra** i que va formar durant diverses temporades gran
+   part del planter. Les temporades concretes i els resultats encara no
+   consten.
 
 ## Related
 
