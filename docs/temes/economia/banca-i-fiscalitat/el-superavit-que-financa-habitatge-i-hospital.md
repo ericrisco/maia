@@ -88,9 +88,10 @@ nova redacció de l'art. 26.2, p. 3.)
 
 ## Buits registrats
 
-- **Canvi pressupostari acreditat:** la Llei 10/2026 afegeix aquests
-  crèdits al pressupost de 2026. No s'ha reconstruït la totalitat de
-  modificacions posteriors ni la vigència consolidada de les lleis afectades.
+- ~~**Canvi pressupostari acreditat**~~ — **`parcial` el 19-09-2026**: la
+  Llei 10/2026 i les partides que afegeix al pressupost de 2026 s’han llegit i
+  contrastat. No s’ha reconstruït la totalitat de les modificacions posteriors
+  ni la vigència consolidada de les lleis afectades.
 - No s'han llegit la liquidació de 2025, l'execució de 2026, els
   contractes, les adjudicacions ni possibles redistribucions.
 - ~~**Lectura de justificacions parcialment tancada**~~ — **`parcial` el
