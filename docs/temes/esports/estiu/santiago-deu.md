@@ -59,10 +59,10 @@ branca.**
 - ~~**Tota la resta de la carrera.**~~ — **`obert`, confirmat**: **el bolcat
   només li dona aquesta prova i aquests Jocs.** **Santiago Deu Sandoval,
   Andorra la Vella, 21 de març del 1980, migfondista de lliures.**
-- **La plaça d'universalitat queda confirmada per la font pròpia**: **la va
-  rebre de la FINA.** **És el mateix mecanisme que
-  [Carolina Cerqueda](./carolina-cerqueda.md) el 2004** i que **la invitació
-  tripartida de [Toni Besolí](./toni-besoli.md) el mateix any.**
+- ~~**La plaça d’universalitat**~~ — **`resolt` el 19-09-2026**: la font
+  pròpia confirma que **la va rebre de la FINA**. És el mateix mecanisme que
+  [Carolina Cerqueda](./carolina-cerqueda.md) el 2004 i que la invitació
+  tripartida de [Toni Besolí](./toni-besoli.md) el mateix any.
 - **Quants dels olímpics andorrans hi han anat per plaça d'universalitat.**
   **Buit registrat i interessant.**
 
