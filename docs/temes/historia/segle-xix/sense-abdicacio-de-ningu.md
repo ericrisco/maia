@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: la-cuestion-de-andorra-1894
-timestamp: 2026-09-16T05:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [segle-xix, coprincipat, sobirania, consell-general, esglesia, dret, font-primaria, prioritari]
 ---
 
@@ -153,8 +153,9 @@ L'última pàgina del fitxer digitalitzat conserva dos segells de propietat:
 5. **Si la proposta de decisió per majoria de tres elements va tenir cap
    continuació** en documents andorrans posteriors. **El corpus no ho ha
    comprovat**, i **no afirma cap relació amb el règim vigent.**
-6. **Per què hi havia dos síndics generals presidents** el 1894. **Buit repetit de
-   la tanda anterior i encara obert.**
+6. ~~**Per què hi havia dos síndics generals presidents** el 1894. **Buit repetit de
+   la tanda anterior i encara obert.**~~ — **`resolt` com a duplicat el 19-09-2026**:
+   la resposta documental és a [Quan la seu és vacant, Andorra torna a Roma](./quan-la-seu-es-vacant-andorra-torna-a-roma.md), que explica que els dos síndics generals presidents més el síndic segon formen el cas excepcional de tres síndics a final del segle XIX.
 7. **Els vint-i-cinc anys de conflicte, fet per fet.** **Aquest volum els resumeix
    i els data** —**1868-1878** i **1883-1886**— **i no els narra.**
 8. **La versió episcopal i la romana de tot plegat.**
