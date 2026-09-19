@@ -92,7 +92,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   etapes**).
 - ~~**Quants partits hi va jugar.**~~ — **`resolt`** en les etapes de què el
   bolcat en dona compte (taula de dalt).
-- **On juga ara.**
+- ~~**On juga ara.**~~ — **`resolt` el 19-09-2026** segons la instantània de
+  club del **25 d'agost de 2026**: la taula el situa a **Europa FC des del
+  2025**. La resposta queda limitada a aquella data de tall.
 
 ## Related
 
