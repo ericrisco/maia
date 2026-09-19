@@ -206,19 +206,15 @@ consten, o no existeixen o no s'han publicat.`
   declarat mai, no s'ha publicat.** **La via del BOPA queda descartada, no
   pendent.** `Requereix l'informe del Raonador del Ciutadà o una petició
   directa.`
-- **La Comissió Nacional d'Accés i Avaluació de la Documentació** (CNAAD) —
-  articles 23 a 27— **llegida el 14-09-2026**:
-  [El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md).
-  **El mateix òrgan que resol els recursos d'accés aprova els procediments
-  d'eliminació de documentació**, hi seu per llei **un historiador
-  contemporani**, i el quòrum exigeix **tres representants del Govern de cinc
-  membres**. **Correcció el 18-09-2026**: aquesta fitxa deia que «cap
-  resolució de la CNAAD... no s'ha localitzat», però l'article citat ja ho
-  havia tancat el 14-09-2026 amb **sis edictes de resolucions** publicats al
-  BOPA (2023-2025) — són **taules d'avaluació documental** (què s'elimina i
-  què es conserva), no resolucions de recursos d'accés concrets. **Segueix
-  obert**: cap memòria anual no s'ha localitzat, tot i que l'article 26.7
-  obliga a publicar-les al BOPA en quinze dies hàbils.
+- ~~**Activitat i memòries de la Comissió Nacional d'Accés i Avaluació de la
+  Documentació (CNAAD)**~~ — **`parcial` el 19-09-2026**: els articles 23 a 27
+  ja estan llegits ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md)).
+  El mateix òrgan resol els recursos d'accés i aprova els procediments
+  d'eliminació; el quòrum exigeix **tres representants del Govern de cinc
+  membres**. El BOPA també conserva **sis edictes de resolucions** de 2023–2025,
+  que són taules d'avaluació documental i no resolucions de recursos d'accés.
+  Encara no s'ha localitzat cap memòria anual, tot i que l'article 26.7 obliga
+  a publicar-la al BOPA en quinze dies hàbils.
 - ~~**El títol de govern obert i participació ciutadana** (articles 29-35), amb
   les **iniciatives reglamentàries populars**, segueix **sense llegir**.~~
   `resolt` el 17-09-2026 — vegeu
