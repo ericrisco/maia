@@ -231,9 +231,13 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    declara al Registre.~~ — **`no-es-buit` el 19-09-2026: la fitxa ja avisa que
    les xifres són estimacions i no dades oficials; el marc constitucional explica
    per què no hi pot haver un cens obligatori.**
-4. **Quan s'implanta cada confessió** a Andorra. **Cap data a la font** — però el
-   Registre n'ha de fer constar «**la data de l'establiment de la religió a
-   Andorra**».
+4. ~~**Quan s'implanta cada confessió** a Andorra.~~ — **`parcial`, actualitzat
+   el 2026-09-19**: la fitxa ja fixa l'arribada del bahaisme amb **William
+   Danjon el 7 d'octubre de 1953** ([font](../../../fonts/bahai-world-news-andorra-danjon.md))
+   i l'existència de l'**ACIV des de 1998** ([font](../../../fonts/jpost-comunitat-jueva-andorra.md)).
+   Continuen sense data d'establiment documentada les comunitats musulmana,
+   evangèlica, Moon i els Testimonis de Jehovà; el Registre ha de fer constar
+   aquesta dada quan la font sigui consultable.
 5. ~~**William Danjon** i l'arribada del bahaisme.~~ — **`resolt` el
    18-09-2026**: francès resident a Dinamarca, respon a una crida de
    **Shoghi Effendi** en un congrés a **Estocolm (agost del 1953)** i
