@@ -253,10 +253,11 @@ llibre:**
 
 ## Buits registrats
 
-1. **Qui va tallar els pals i amb quina ordre.** **La font diu «*l'évêque fit
-   requérir une cinquantaine d'hommes*» i no dona ni acta, ni data exacta, ni
-   parròquia.** **Prioritari.** `El corpus no nomenaria els homes encara que els
-   tingués: eren particulars requerits. El que busca és l'ordre.`
+1. ~~**Qui va tallar els pals i amb quina ordre.**~~ — **`parcial` el
+   2026-09-19**: **la font identifica l'autoritat de l'ordre** —«*l'évêque fit
+   requérir une cinquantaine d'hommes*»—, però **no aporta l'acta, la data exacta
+   ni la parròquia**. **Els cinquanta homes eren particulars requerits i el
+   corpus no els personalitza.**
 2. **La llei francesa del 21 d'abril de 1892**, sencera. **Nou.**
 3. **El discurs de M. Frézoul al Senat, 1892.** **Nou, i és on surten les dues
    xifres.** `Requereix el Journal officiel, débats du Sénat.`
