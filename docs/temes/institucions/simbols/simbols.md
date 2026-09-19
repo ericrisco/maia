@@ -20,7 +20,7 @@ tags: [simbols, index, identitat]
 | **Himne** — [El Gran Carlemany](./el-gran-carlemany.md) | Fitxa amb dades; falta el text |
 | **Lema** — *Virtus, unita, fortior* | Aquí sota; mereix fitxa pròpia |
 | **Bandera** — [La bandera](./la-bandera.md) | Fitxa amb origen; falta verificar la lectura dels colors |
-| **Escut** | **Sense fitxa** |
+| **Escut** — [L'escut](./lescut.md) | Fitxa amb descripció; falta contrastar l'atribució amb el blasó oficial |
 
 ## El lema
 
