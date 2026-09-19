@@ -31,6 +31,13 @@ Un interior de gran riquesa artística:
 - Un **retaule amb elements gòtics i renaixentistes**.
 - Una **escultura d'estil barroc**.
 
+La fitxa patrimonial del Govern precisa que l'església fou consagrada el
+**1164**, té una nau única amb **absis semicircular llombard**, i va rebre
+reformes entre els segles XVI i XVIII. Les pintures murals romàniques
+representen fragments de l'Apocalipsi i les del segle XVI, escenes de sant
+Pere i un Crist en Majestat; el retaule de tradició gòtica és del segle XVI i
+de l'escola del Mestre de Canillo ([fitxa del Govern](../../../fonts/govern-sant-roma-les-bons-2026.md)).
+
 ## El que la fa diferent de les altres dues
 
 Sant Joan de Caselles i Sant Martí de la Cortinada es llegeixen sobretot com a
@@ -42,12 +49,22 @@ vall.
 
 ## El que falta
 
-Què hi ha exactament al conjunt: torre, casa forta, què més. Quines pintures i de
-quines èpoques. Per què es va perdre la resta de la pintura de la nau i on és, si
-s'ha conservat en algun museu. Règim de visita — consta que roman oberta a la
-tardor juntament amb Sant Miquel d'Engolasters.
-
-**Buit registrat.**
+1. ~~**Què hi ha exactament al conjunt: torre, casa forta, què més.**~~ —
+   **`parcial`, confirmat el 19-09-2026**: el conjunt inclou l'església, la
+   torre dels Moros, un dipòsit d'aigua adjacent i dos colomers; la font no
+   qualifica la torre com a casa forta.
+2. ~~**Quines pintures i de quines èpoques.**~~ — **`parcial`, confirmat el
+   19-09-2026**: hi ha murals romànics amb fragments de l'Apocalipsi, pintures
+   del segle XVI de tradició gòtica i un Crist en Majestat; no és un inventari
+   complet de totes les capes.
+3. ~~**Per què es va perdre la resta de la pintura de la nau i on és, si s'ha
+   conservat en algun museu.**~~ — **`parcial`, confirmat el 19-09-2026**: les
+   pintures romàniques es van arrencar als anys vint i les conservades són al
+   MNAC; la font no explica el motiu de l'arrencada ni el destí de cada
+   fragment.
+4. ~~**Règim de visita.**~~ — **`parcial`, confirmat el 19-09-2026**: el
+   Govern documenta l'obertura gratuïta de tardor de 2025 amb horaris de
+   setembre, octubre i novembre; no és un horari permanent.
 
 ## Related
 
