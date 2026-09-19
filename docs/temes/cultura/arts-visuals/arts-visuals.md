@@ -79,8 +79,12 @@ artístic més valuós del país.
   **`parcial`, confirmat el 2026-09-19**: la cronologia cultural oficial
   identifica Francesc Galobardes, Carme Massana i Sergi Mas; encara falta la
   fitxa de cada artista i l'inventari d'obra.
-- Els **museus d'art** i què hi ha
-  ([museus i arxius](../museus-i-arxius/museus-i-arxius.md)).
+- ~~Els **museus d'art** i què hi ha
+  ([museus i arxius](../museus-i-arxius/museus-i-arxius.md)).~~ — **`parcial`
+  el 19-09-2026: la subbranca [dels museus](../museus-i-arxius/museus/README.md)
+  ja llista **vint museus** i en descriu les col·leccions i els equipaments,
+  inclòs el **Centre d'Art d'Escaldes-Engordany**. **Encara falta extreure'n un
+  inventari específic d'art i d'obres.**
 - L'**art públic**: consta que el Principat promou escultura i instal·lacions
   repartides pels pobles, i **no n'hi ha cap inventari aquí**.
 - La **fotografia històrica** d'Andorra, que per a un país que es va transformar
