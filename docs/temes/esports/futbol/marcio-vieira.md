@@ -74,8 +74,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 - **Quin era el seu primer club** portuguès, i què vol dir que l'A.D. Marco 09
   en va sorgir «de les cendres».
-- **Els seus dos gols.** — **`obert`**: **el bolcat no en porta taula**, només
-  el compte a la fitxa de selecció (taula de dalt).
+- ~~**Els seus dos gols.** — **`obert`**: **el bolcat no en porta taula**, només
+  el compte a la fitxa de selecció (taula de dalt).~~ — **`resolt`**: [la fitxa
+  de la selecció](./la-seleccio.md) ja en dona el recompte de **2 gols** per a
+  **129 partits**; el que continua obert és només saber en quins partits els
+  va marcar.
 - **El seu comiat amb Andorra**, el 2024.
 
 ## Related
