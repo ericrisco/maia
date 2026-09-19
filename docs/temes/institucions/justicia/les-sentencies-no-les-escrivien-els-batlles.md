@@ -207,10 +207,12 @@ una pràctica pròpia.**
    corpus en té els títols i no el contingut.** `obert, amb referència completa.`
 8. **Els quatre notaris en exercici el 1904**: **qui eren i on van fer les
    pràctiques**, en concret. `obert.`
-9. **En què s'apartava, de fet, la pràctica notarial andorrana de la catalana.**
-   La font ho afirma —**«tothom està d'acord»**— i **remet a la seva pròpia
-   enquesta**, sense donar-ne la llista aquí. `obert; possiblement resolt en
-   capítols posteriors del mateix llibre.`
+9. ~~**En què s'apartava, de fet, la pràctica notarial andorrana de la catalana.**~~
+   **`parcial` el 2026-09-19**: la font concreta que els actes andorrans **no
+   copiaven literalment** els formularis catalans, que **cada notari es feia el
+   seu formulari** i que les **necessitats locals i l'intercanvi de parers entre
+   els quatre notaris** produïen una pràctica pròpia. **No enumera els punts
+   concrets de divergència**, que continuen oberts.
 
 **Un buit de la font no és un buit del món.** Que **les sentències fossin en fulls
 solts a casa d'escrivans el 1904** no vol dir que s'hagin perdut: vol dir que
