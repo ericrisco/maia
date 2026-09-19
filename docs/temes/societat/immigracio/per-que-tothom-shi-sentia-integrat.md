@@ -276,8 +276,13 @@ provocació metodològica**— i no com una descripció d'Andorra.
    fet.**
 4. **La composició de les comissions** sobre residents passius: si mai n'han
    inclòs cap.
-5. **Si la representativitat que demanaven s'ha arribat a articular** d'alguna
-   manera.
+5. ~~**Si la representativitat que demanaven s'ha arribat a articular** d'alguna
+   manera.~~ — **`parcial`, confirmat el 19-09-2026**: la ponència documenta que
+   els residents volien **guanyar representativitat abans que obtenir el dret de
+   vot** i que les institucions andorranes **no preveien, de moment, els mitjans
+   per escoltar-los i reconèixer-los**. Això respon l'estat de la demanda el
+   1997; **no prova si després es va articular cap mecanisme estable**, que queda
+   obert.
 6. ~~**Per què els residents trien tan poc l'escola andorrana**, i si això ha
    canviat.~~ — **`parcial`, i el «si ha canviat» té resposta: sí, i molt.**
    **El corpus tenia les dues xifres i aquesta fitxa no les citava.**
