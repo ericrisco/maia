@@ -523,7 +523,10 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   l'Administració**— a
   «[Els banders, que el corpus no tenia](#els-banders-que-el-corpus-no-tenia)».
   **Quants són i què fan, segueix obert.**
-- **Tràmits**, la finestreta única oberta el gener del 1999.
+- ~~**Tràmits**, la finestreta única oberta el gener del 1999.~~ — **`no-es-buit`
+  el 19-09-2026**: la mateixa fitxa ja explica que l'obertura de Tràmits el
+  **gener del 1999** va obligar a formar el personal propi i el relacionat
+  indirectament. És una dada documentada, no una pregunta pendent.
 - ~~**El Reglament de formació del 14 d'agost de 1996** i per què va estar
   suspès.~~ — **`parcial` el 17-09-2026, i el motiu pel qual no es trobava és que
   no era públic.** El **Reglament de formació del personal de l'Administració
@@ -546,7 +549,12 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   2000 no ho explica.`
 - **El Pla integral de formació del 2001**: es va fer?
 - **Es va crear mai una escola d'administració pública**, ni que fos temporal?
-- **Si Xavier Llovera** és el mateix del patrimoni cultural.
+- ~~**Si Xavier Llovera** és el mateix del patrimoni cultural.~~ — **`parcial` el
+  19-09-2026**: les dues referències donen el nom complet **Xavier Llovera i
+  Massana**; una el presenta com a president de l'associació de personal públic
+  i l'altra el relaciona amb el patrimoni cultural i l'arqueologia. No hi ha,
+  però, una dada biogràfica independent que provi que els dos papers són de la
+  mateixa persona.
 - **L'estat dels arxius administratius** avui.
 
 ## Related
