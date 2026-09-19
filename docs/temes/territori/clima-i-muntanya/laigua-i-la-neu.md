@@ -85,6 +85,14 @@ parròquia ([fitxa AR+I](../../../fonts/ari-piragua-recurs-hidric.md),
 [PDF E4.7](../../../raw/web/territori/piragua-e47-recursos-hidrics-andorra.pdf),
 p. 24–29 i 44–47).
 
+**El PSIEA que l'informe cita també té una primera peça oficial.** La nota del
+Govern del 16 de maig de 2018 confirma l'aprovació definitiva després de
+l'exposició pública, el suport dels set comuns i l'informe favorable de la CTU.
+El descriu com a instrument urbanístic de reserva de sòl i fixa l'objectiu de
+portar la producció nacional al **33% de la demanda elèctrica el 2030**. La
+nota i la pàgina temàtica no són el pla íntegre: no donen els plànols ni la
+llista completa d'infraestructures ([fitxa PSIEA](../../../fonts/govern-psiea-2018.md)).
+
 **El règim és nival**, típic d'una zona de muntanya d'influència mediterrània:
 **cabals alts a la primavera, baixos a l'estiu**, amb una lleugera aportació de
 les pluges de tardor.
@@ -290,7 +298,7 @@ data de finalització de l'esquí.
    de 2015 i del balanç de 2025: [fitxa i abast exacte](../../../fonts/mediambient-recurs-hidric.md).
 2. ~~**El projecte POCTEFA PIRAGUA-PIREAU** i l'informe de Travesset et al. (2021).~~ — **`parcial` el 19-09-2026**: l'E4.7 institucional d'AR+I és al corpus i documenta el model WEAP-Andorra, l'any base 2019, les demandes i els escenaris de 2050. La sèrie posterior, la reproducció del model i les taules completes per parròquia continuen pendents ([fitxa i abast](../../../fonts/ari-piragua-recurs-hidric.md)).
 3. ~~**Andorra Recerca + Innovació**: apareix com a font de dades i **el corpus no en té fitxa**.~~ — **`resolt` el 19-09-2026**: fitxa AR+I, pàgina del projecte i informe E4.7 conservats, amb llicència CC BY 4.0 declarada per als materials AR+I; les dades de tercers hi queden separades ([font](../../../fonts/ari-piragua-recurs-hidric.md)).
-4. **El *Pla sectorial d'infraestructures energètiques d'Andorra*** (2018).
+4. ~~**El *Pla sectorial d'infraestructures energètiques d'Andorra*** (2018).~~ — **`parcial` el 19-09-2026**: la nota oficial d'aprovació i la pàgina vigent del Govern acrediten l'aprovació definitiva, la reserva de sòl i l'objectiu del 33% nacional el 2030. El text íntegre, els mapes i la relació completa d'infraestructures continuen pendents ([fitxa PSIEA](../../../fonts/govern-psiea-2018.md)).
  5. ~~**Captacions per xarxes de neu de 2019**~~ — **`parcial` el 18-09-2026**:
     localitzades i llegides, amb golf inclòs a ENSISA. No equivalen a
    volum de neu produïda. La separació d'usos, la sèrie completa i
