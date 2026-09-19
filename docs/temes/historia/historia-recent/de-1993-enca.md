@@ -85,8 +85,13 @@ gent i no té on posar-la.
   **`parcial`**: [la globalització i el català](../../llengua/politica-linguistica/la-globalitzacio-i-el-catala.md)
   ja recull el debat andorrà i dues veus locals; encara falta una síntesi
   econòmica i social de la globalització al país.
-- L'article dels **40 anys del primer Govern executiu**, que situa l'executiu
-  **abans** de la Constitució i que aquesta fitxa no explica.
+- ~~L'article dels **40 anys del primer Govern executiu**, que situa l'executiu
+  **abans** de la Constitució i que aquesta fitxa no explica.~~ — **`parcial`,
+  actualitzat el 2026-09-19**: [la cronologia del parlamentarisme](../../politica/parlamentarisme/el-parlamentarisme-andorra.md)
+  ja fixa **1982** com l'any del primer Govern executiu i identifica
+  **Estanislau Sangrà** com el darrer síndic anterior; aquesta fitxa manté
+  oberts el contingut de l'article dels quaranta anys i la seqüència completa
+  fins a la Constitució de 1993.
 
 ## Related
 
