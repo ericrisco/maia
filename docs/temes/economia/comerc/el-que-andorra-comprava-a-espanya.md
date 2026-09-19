@@ -250,8 +250,10 @@ serien unes **525 persones**, prop d'una desena part del país.
 
 1. **Què entrava de França.** Aquest estat només compta Espanya. La meitat de la
    frontera **no hi és**.
-2. **Què exportava Andorra**, partida per partida. La font només en dona el total
-   —**no més de 220.000 pessetes**— i diu que **principalment bestiar**.
+2. ~~**Què exportava Andorra**, partida per partida.~~ — **`parcial` el
+   19-09-2026**: la font limita el total a **220.000 pessetes** com a màxim i
+   diu que les exportacions eren **principalment bestiar**; no en dona el
+   desglossament per partida.
 3. ~~**Qui va aixecar l'inventari i com.**~~ **`resolt` en la mesura que una
    absència es pot resoldre**: comprovat el 18-09-2026 contra el text complet
    de l'apèndix 40 (`docs/raw/hemeroteca/congreso-1895-ap40.txt`),
