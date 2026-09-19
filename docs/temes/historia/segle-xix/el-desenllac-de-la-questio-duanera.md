@@ -450,12 +450,15 @@ caracterització del frau andorrà.**
 1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té
    **una frase, traduïda al francès, citada per un tercer**.
 2. ~~**Les actes de la comissió mixta del 26 de juny de 1895.**~~ **REFORMULAT i
-   ara TANCAT a mitges.** El 26 de juny no era la comissió mixta sinó **la
-   comissió de pressupostos del Senat**. **El dictamen de la comissió mixta ja hi
-   és** —Apèndix 5è al núm. 155, passat per OCR el 2026-09-13— i **suprimeix
-   l'article 56 sense donar-ne cap raó**. **El que segueix faltant són les actes
-   de la sessió del 26 de juny**, que és on el bisbe va parlar: **és l'únic lloc
-   on es va dir res, i és el que no hi és.**
+   ara `parcial`.** El 26 de juny no era la comissió mixta sinó **la comissió de
+   pressupostos del Senat**. **El dictamen de la comissió mixta ja hi és**
+   —Apèndix 5è al núm. 155, passat per OCR el 2026-09-13— i **suprimeix
+   l'article 56 sense donar-ne cap raó**. Una crònica d'*El Siglo Futuro* de l'1
+   de juliol confirma retrospectivament que **Carvajal va censurar la conducta
+   del bisbe per la seva intervenció a la comissió** i que el president Mellado
+   va considerar el debat ja discutit ([extracte local](../../../raw/web/historia/siglo-futuro-1895-07-01-andorra.txt)).
+   **Les actes pròpies de la sessió del 26 de juny continuen faltant**: és
+   l'únic lloc on es va dir res a la cambra i la notícia no les substitueix.
 3. ~~**Els originals dels dos diaris del 27 de juny de 1895.**~~ **TANCAT a
    mitges, i el motiu ja se sap.** *La Correspondencia de España* **ja té text**,
    per OCR, i la frase del bisbe hi és. ***El Heraldo de Madrid* segueix obert, i

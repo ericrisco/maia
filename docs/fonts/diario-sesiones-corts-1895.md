@@ -101,5 +101,9 @@ pel punt de tall (columna 57-58) i llegint-les per separat.
    [el desenllaç de la qüestió duanera](../temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md).
 4. **Les actes de la comissió de pressupostos del Senat del 26 de juny de 1895**,
    que és **l'únic lloc on es va arribar a dir res sobre Andorra** en tot el
-   tràmit. **Prioritari**: el plenari del Senat no en va pronunciar el nom ni el
-   28 ni el 29.
+   tràmit. **`parcial` el 19-09-2026:** la crònica d'*El Siglo Futuro* de l'1 de
+   juliol confirma retrospectivament que Carvajal va censurar la intervenció del
+   bisbe a la comissió i que el president Mellado va donar el debat per ja
+   discutit ([extracte local](../raw/web/historia/siglo-futuro-1895-07-01-andorra.txt)).
+   **Les actes pròpies de la sessió continuen obertes**; el plenari del Senat no
+   en va pronunciar el nom ni el 28 ni el 29.
