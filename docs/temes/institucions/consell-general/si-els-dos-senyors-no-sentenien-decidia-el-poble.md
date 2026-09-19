@@ -252,9 +252,10 @@ quart, «de tal manera que cada veïnat important hi sigui representat».**
    règim de llicència per demandar l'autoritat, amb recurs al Príncep Sobirà si
    la neguen.**
 
-   `El que segueix obert és la transcripció dels articles que la fitxa de
-   destil·lació no cita —el 2, 4, 6, 11, 14 i 15—, que és lectura pendent i no
-   document absent.`
+   `La transcripció dels setze articles ja és completa a la fitxa dedicada;
+   el que continua obert aquí són els casos d'aplicació de l'article 10 i la
+   composició efectiva dels grups de quart, que no es poden deduir del text
+   normatiu.`
 3. **Si la regla de l'article 10 es va aplicar mai**, en un cas o en l'altre.
 4. **Com es componien de fet les llistes dels grups de quart**, i **si la quota
    per veïnat era escrita o consuetudinària.**
