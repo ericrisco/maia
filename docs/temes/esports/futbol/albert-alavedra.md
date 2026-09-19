@@ -67,7 +67,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus clubs** i per què va plegar tan jove.
+- ~~**Els seus clubs** i per què va plegar tan jove.~~ **[parcial ·
+  2026-09-19]** La taula de la carrera ja identifica els clubs i les etapes
+  **2018-2023**, amb **nou equips** i els seus partits i gols. El motiu pel
+  qual va plegar tan jove encara no consta.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related

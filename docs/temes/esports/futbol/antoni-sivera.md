@@ -56,7 +56,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- Tot: **les dates, els clubs i els partits.**
+- ~~Tot: **les dates, els clubs i els partits.**~~ **[parcial · 2026-09-19]**
+  La taula ja dona les dates i els clubs —**US Luzenac (2005-06), FC Santa
+  Coloma (2006-07) i FC Campello (2007-)**—, però la font no hi publica els
+  partits ni els gols de club.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
