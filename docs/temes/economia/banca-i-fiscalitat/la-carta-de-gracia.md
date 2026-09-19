@@ -326,8 +326,10 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
   que el neguen per a mobles i bestiar en venda judicial.
 - **Els casos dels anys setanta.** **Becat en parla en plural i no en dona cap.**
   `Requereix font externa.`
-- **Assier-Andrieu 1984**, citat i no llegit. **Localitzat: *Quaderns de
-  l'I.C.A.*, 5, p. 9-27.**
+- ~~**Assier-Andrieu 1984**, citat i no llegit. **Localitzat: *Quaderns de
+  l'I.C.A.*, 5, p. 9-27.**~~ — **`parcial`, actualitzat el 2026-09-19**: la
+  referència bibliogràfica ja queda identificada i la fitxa en conserva la
+  citació; el corpus encara no ha pogut llegir l’article complet.
 - ~~**Brutails, *La Coutume d'Andorre*, p. 213** — **el cas del 1691 restituït el
   1899**. **El corpus té el llibre sencer** i **aquesta pàgina no s'ha
   llegit.**~~ — **`resolt`, i abans del que aquesta llista deia**: **la pàgina
