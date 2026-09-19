@@ -261,9 +261,10 @@ genètic o neurològic** segons la classificació de l'OMS.
 
 ## Buits registrats
 
-- Decret i reglament llegits complets en les tretze pàgines. Renders de
-  les pàgines 1, 6, 7 i 11–13 contrastats visualment. No s’ha certificat
-  una cadena exhaustiva de canvis posteriors al 5 d’agost de 2026.
+- ~~Lectura completa del decret i del reglament en tretze pàgines~~ — **`parcial`
+  el 19-09-2026**: renders de les pàgines 1, 6, 7 i 11–13 contrastats
+  visualment. No s’ha certificat una cadena exhaustiva de canvis posteriors al
+  5 d’agost de 2026.
 - ~~Antecedents i modificacions normatives de la via preferent~~ — **`parcial`
   el 17-09-2026**: el text de 2026 deroga el de 2018 i enumera les modificacions posteriors,
   fins al Decret 80/2025. Tancat parcialment el buit d’antecedents amb
