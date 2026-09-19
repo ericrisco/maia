@@ -401,9 +401,15 @@ dos textos, dos anys, dos editors.**
   estaven un dia desplaçades.** **El corpus ho registra com a patró, no com a
   coincidència**: **una data copiada d'un llibre s'ha de verificar encara que
   el número de butlletí quadri.**
-- **Els percentatges del 2007 per nacionalitat no existeixen.** La taula creuada
+- ~~**Els percentatges del 2007 per nacionalitat no existeixen.** La taula creuada
   és només del 1999-2000. **La pregunta «on estudien avui els andorrans» no té
-  resposta al corpus per a cap any posterior al 2000.** **Buit prioritari.**
+  resposta al corpus per a cap any posterior al 2000.**~~ **`parcial` el
+  19-09-2026**: [Els tres sistemes educatius](./els-tres-sistemes.md) aporta el
+  repartiment general del curs **2023-2024** —andorrà **41,33 %**, francès
+  **29,66 %**, espanyol **26,79 %** i anglès **2,22 %**— i, per als estudis
+  superiors, situa els universitaris en **50,32 % a Espanya, 31,87 % a França,
+  15,24 % a Andorra i 2,58 % en altres països**. Encara no hi ha la taula
+  creuada per nacionalitat que demanava aquest buit.
 - **Bastida i Areny, «Els tres sistemes educatius a Andorra», dins *Estudi sobre
   la joventut al Principat d'Andorra*, Càritas Andorrana, 2001**, sense llegir.
   **És un segon text de l'autora que el corpus ja cita per una altra peça.**
