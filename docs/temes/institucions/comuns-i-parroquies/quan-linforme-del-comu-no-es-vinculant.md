@@ -213,8 +213,8 @@ no sempre surt.
 - No s’han consultat informes comunals concrets, cessions, reversions,
   compensacions ni lleis singulars que aixequin un informe vinculant
   negatiu. La sentència no acredita l’execució de cap d’aquests supòsits.
-- Censos, serveis i potestats fiscals de la reforma s’han llegit, però no
-  es desenvolupen tots aquí. De la reforma urbanística de 2018 queda
-  sense destil·lació detallada la major part de l’execució dels plans i
-  les reformes del Codi de l’Administració. El desenvolupament reglamentari
-  d’avaluació ambiental ordenat per la final segona no s’ha contrastat.
+- ~~Lectura de censos, serveis i potestats fiscals de la reforma~~ — **`parcial`
+  el 19-09-2026**: no es desenvolupen tots aquí. De la reforma urbanística de
+  2018 queda sense destil·lació detallada la major part de l'execució dels plans
+  i les reformes del Codi de l'Administració. El desenvolupament reglamentari
+  d'avaluació ambiental ordenat per la final segona no s'ha contrastat.
