@@ -216,10 +216,11 @@ segle XVII** ([abrogats el 1839](./abrogats-el-1839-aplicats-el-1889.md)).
 5. **Si «R. de Areny, vicarii Vallium» de 1412 és un Areny**, que **l'editor
    mateix marca amb interrogant**, i **si lliga amb el fil d'Arenys que el corpus
    té obert.** `Requereix l'original.`
-6. **Quants ducats eren 131 el 19 de juliol de 1580.** **El corpus té la
-   conversió del 24 d'agost del mateix any** —**10 ducats = 11 lliures
-   barceloneses**— **i no l'aplica**: **són dos actes diferents i la taula de
-   monedes del llibre està mal extreta.**
+6. ~~**Quants ducats eren 131 el 19 de juliol de 1580.**~~ — **`parcial`,
+   actualitzat el 2026-09-19**: el corpus conserva una conversió del **24
+   d'agost del mateix any** —**10 ducats = 11 lliures barceloneses**—, però no
+   l'aplica perquè correspon a **un altre acte** i la taula monetària del llibre
+   està mal extreta. **Segueix oberta la conversió específica dels 131 ducats.**
 7. **On és el «Cayrefort dels Cavallins»**, a la Massana, **i què vol dir
    «*enfre abdos dels comuns*»** —**entre els dos comuns?** **El corpus no ho
    dedueix.**
