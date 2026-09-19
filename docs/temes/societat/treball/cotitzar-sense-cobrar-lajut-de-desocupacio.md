@@ -161,9 +161,10 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
   està tancada** i **el text del 2018 és el vigent**. `Segueix obert què hi
   afegeixen els dos reglaments d'inscripció i afiliació —27-5-2015 i Decret
   135/2024— quan citen el 224 bis.`
-- Del reglament de 2024 s’han llegit els articles 21 i 35 complets,
-  el preàmbul, l’article únic i les disposicions derogatòria i final;
-  altres fragments, però no els 53 articles íntegres. Pàgina 9 vista.
+- ~~Lectura parcial del reglament de 2024~~ — **`parcial` el 19-09-2026**:
+  s’han llegit els articles 21 i 35 complets, el preàmbul, l’article únic i
+  les disposicions derogatòria i final; també altres fragments, però no els 53
+  articles íntegres. Pàgina 9 vista.
 - ~~**El buit de la norma introductora**~~ — **`resolt` el 18-09-2026**:
   Llei 25/2011, article 13 complet i disposicions transitòries i final llegides; pàgines 340–341
   contrastades visualment. L’exposició de motius s’ha llegit completa,

@@ -127,9 +127,10 @@ capçalera i article únic del decret, p. 1.)
 
 ## Buits registrats
 
-- Originals de 2016 i 2023 llegits complets. Falta verificar exhaustivament
-  modificacions posteriors, revisions cartogràfiques i normativa urbanística
-  relacionada; la cerca no acredita que no n'hi hagi.
+- ~~**Originals de 2016 i 2023 llegits complets**~~ — **`parcial` el
+  19-09-2026**: falta verificar exhaustivament modificacions posteriors,
+  revisions cartogràfiques i normativa urbanística relacionada; la cerca no
+  acredita que no n'hi hagi.
 - No s'han consultat els polígons reglamentaris, el Cadastre ni un PIDA
   d'estació. No s'assigna cap classificació a una parcel·la o instal·lació.
 - ~~**Buit de 2012**~~ — **`resolt` el 18-09-2026**: decret llegit complet a les p.3938–3939
