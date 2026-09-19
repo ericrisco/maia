@@ -121,10 +121,15 @@ pròpia cobertura sanitària.**
 
 - ~~**La data exacta de la visita.**~~ — **`parcial` el 2026-09-18**: el corpus
   pot fixar **l'any 1967**, però **la font no dona el dia ni el mes**.
-- **El text dels dos discursos.** **Font primària no consultada.**
+- ~~**El text dels dos discursos.**~~ **[parcial · 2026-09-19]** La fitxa ja
+  conserva fragments i el contingut central dels dos discursos —la visita de
+  **1967** i la revocació de **1945**—, però no en té el text íntegre.
 - **Per quina via** es prohibeix el sufragi universal masculí el 1941.
-- **Si les revocacions del Consell General són una o dues** — 1945, 1967, o
-  totes dues.
+- ~~**Si les revocacions del Consell General són una o dues** — 1945, 1967, o
+  totes dues.~~ **[parcial · 2026-09-19]** La mateixa font dona una revocació
+  el **1945** i una altra el **1967**, amb el mateix motiu i protagonista; la
+  fitxa registra la contradicció sense arbitrar si són dos fets o un error de
+  datació.
 - **El reportatge del Diari d'Andorra** que la font cita.
 - ~~**La CASS**: el corpus no en té fitxa pròpia.~~ — **`resolt` el
   18-09-2026**: **sí que en té**, i extensa:
