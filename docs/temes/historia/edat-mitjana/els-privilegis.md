@@ -322,18 +322,13 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 1. **Els documents de 843, 860, 1001, ~~1133~~, 1170, 1186, 1213, 1266, 1280,
    1303 i 1328.** ~~Cap no s'ha vist.~~ — **El de 1133 s'ha llegit sencer el
    15-09-2026** ([per aquests malfets i per la redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md)).
-   **En queden deu**, i **dos més són a l'abast immediat**: **el del 8 de gener de
-   1176** i **el Pariatge**, apèndixs B i C del mateix volum de Ríos Urruti. — **`obert`, i des del 2026-09-13 amb l'edició
-   localitzada dins del corpus**: **Ferran Valls i Taberner, *Privilegis i
-   ordinacions de les Valls Pirinenques*, III, *Vall d'Andorra*, Barcelona,
-   1920** —**reeditat el 1990 per les universitats de Saragossa i de Màlaga**—,
-   citat al document d'historiografia que el corpus ja tenia
-   ([les tres fases](../historiografia/les-tres-fases.md)). **És el volum que
-   Valls i Taberner va dedicar sencer a Andorra**, i **el lloc on aquests
-   documents haurien de ser transcrits.** **I hi ha una segona porta per al
-   llibre de privilegis de les Sis Claus**: **Ignasi J. Baiges (ed.), *El llibre
-   de la terra. Un llibre de privilegis*, Andorra, 1997**, que el corpus ja
-   fitxa a [el Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md).
+   **En queden deu** de la llista principal. **També queden resolts els dos
+   documents que abans es presentaven com a lectura immediata**: la concòrdia del
+   **8 de gener de 1176** i el **Pariatge**, llegits als apèndixs B i C de [Ríos Urruti
+   (1920)](../../../fonts/rios-urruti-andorra-1920.md) i contrastats amb el text del Pariatge que el corpus ja tenia.
+   **Continua oberta la localització dels deu documents restants**; el volum de
+   Valls i Taberner (1920) i *El llibre de la terra* (1997) són portes
+   bibliogràfiques, no transcripcions incorporades al corpus.
 2. **Les tres contradiccions** de dalt.
 3. **L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.
 4. El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
