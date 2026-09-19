@@ -207,7 +207,11 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
 ## El que falta
 
 - **Qui era el coronel Pellejero.**
-- **Què va ser de Dausa.**
+- ~~**Què va ser de Dausa.**~~ **`parcial` el 2026-09-19**: l’**Enciclopèdia
+  Catalana** confirma que Josep Betriu va crear **Desarrollo del Alto Urgel,
+  SA (DAUSA)** el **1975** per construir l’aeroport i que **la instal·lació es
+  va vendre a l’Institut Català del Sòl el 2007** ([font local](../../../raw/web/economia/transport/dausa/README.md)).
+  La font no diu quin va ser el destí jurídic posterior de la societat DAUSA.
 - ~~**Si el tractat internacional del 2004 es va arribar a signar.**~~ —
   **`resolt` el 17-09-2026**: **no consta que s'hagi signat cap tractat**, i
   l'instrument viu és **un conveni amb la Generalitat de Catalunya** amb una
