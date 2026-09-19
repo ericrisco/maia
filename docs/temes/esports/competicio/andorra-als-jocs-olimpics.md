@@ -518,9 +518,13 @@ olímpica.** I **no és a la neu: és en aigües braves**.
    més**.~~ — **`resolt`, i era un buit duplicat**: [els altres
    Jocs](./els-altres-jocs.md#els-jocs-del-mediterrani-lunica-medalla) ja en
    té l'historial complet des del 2001, amb font oficial del COA.
-10. **Els Jocs Europeus** i **els Jocs Olímpics de la Joventut**, on Andorra ha
+10. ~~**Els Jocs Europeus** i **els Jocs Olímpics de la Joventut**, on Andorra ha
     competit en **bàsquet 3x3**, **esquí de muntanya** i **esquí acrobàtic** —
-    **tres esports que no han arribat mai als Jocs absoluts**.
+    **tres esports que no han arribat mai als Jocs absoluts**.~~ **[parcial ·
+    2026-09-19]** El bolcat ja identifica als **Jocs Olímpics de la Joventut**
+    el **bàsquet 3x3, el piragüisme en esprint, l'esquí acrobàtic i l'esquí de
+    muntanya**. Encara falten el detall de les edicions i el recorregut dels
+    Jocs Europeus.
 11. ~~**Les biografies**: de tots els noms d'aquesta fitxa, **el corpus només en
     té cinc de fitxats**.~~ **`parcial`:** les cinc fitxes ja identificables són
     [Joan Verdú](../../persones/joan-verdu.md), [Irineu Esteve
