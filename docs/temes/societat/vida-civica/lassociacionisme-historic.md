@@ -220,7 +220,7 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
    [Joan Becat](../../../fonts/becat-tesi-1993.md). **El que va matar la funció
    no va ser una llei: van ser les tallades de bosc**, que eren l'únic ingrés
    propi i **s'havien exhaurit.**
-8. **1604 o 1659** (vegeu l'avís).
+8. ~~**1604 o 1659**.~~ — **`parcial` el 19-09-2026**: la fitxa ja registra la divergència entre **Canturri (2007), que situa la constitució de la Confraria de Paraires i Teixidors el 1659**, i **Canturri (1994), citant Amades i Cebrià Baraut, que situa les ordinacions el 13 de febrer de 1604**. Poden ser dos actes diferents —ordinacions i constitució formal—, però cap font ho resol i el corpus no ho arbitra.
 
 ## Related
 
