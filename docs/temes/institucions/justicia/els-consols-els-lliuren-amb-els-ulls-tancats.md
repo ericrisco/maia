@@ -331,9 +331,10 @@ sencera, amb el que la font hi afegeix:**
    reflecsio», perquè **«serie facil secundar y sufragar moltes vegades a la mera
    malicia y no justicia de las parts»**.
 8. **Quan es va deixar d'exigir els tres *bandejaments*** previs a l'ordre.
-9. **Quantes vegades el Consell General va atribuir una causa a una jurisdicció
-   prohibint a l'altra de conèixer-ne.** **La font diu que ho fa «de bon grat» i
-   dona un sol cas.**
+9. ~~**Quantes vegades el Consell General va atribuir una causa a una jurisdicció
+   prohibint a l'altra de conèixer-ne.**~~ — **`parcial` el 19-09-2026**: la
+   font diu que ho fa **«de bon grat»** i només dona **un cas**; el corpus no
+   té la sèrie històrica completa.
 10. **Si el secret de vuit dies es complia mai.** **La font diu que ell coneixia
     el judici el mateix dia «per la veu pública».**
 
