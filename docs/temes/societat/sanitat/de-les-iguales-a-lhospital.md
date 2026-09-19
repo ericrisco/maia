@@ -160,12 +160,14 @@ comprova**. Aquest corpus les marca sempre.
 1. **La classificació de l'OMS**, verificada contra l'informe.
 2. **Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
    d'aquest.
-3. **Quan es crea el SUM** (Servei d'urgències mèdiques) i el **SAAS**. Del SAAS
-   se'n té, de moment, **una branca datada**: els **Serveis de Salut Mental**,
-   **1998** ([la salut mental](./la-salut-mental.md)).
-4. **Quants metges** hi ha avui i amb quina distribució.
-5. **Qui eren** els doctors Cardelús, Vallverdú, Pujol, Vilanova i Ruiz.
-6. La **CASS com a font primària** — segueix sense obrir-se
+3. ~~**Quan es crea el SAAS**.~~ — **`resolt` el 2026-09-19**: la fitxa
+   institucional del [SAAS](./el-saas.md) fixa la creació en la **Llei del 23
+   de desembre del 1986**. La branca dels **Serveis de Salut Mental** queda
+   datada el **1998** ([la salut mental](./la-salut-mental.md)).
+4. **Quan es crea el SUM** (Servei d'urgències mèdiques).
+5. **Quants metges** hi ha avui i amb quina distribució.
+6. **Qui eren** els doctors Cardelús, Vallverdú, Pujol, Vilanova i Ruiz.
+7. La **CASS com a font primària** — segueix sense obrir-se
    ([la CASS i la sanitat](./la-cass-i-la-sanitat.md)).
 
 ## Related
