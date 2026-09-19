@@ -238,8 +238,12 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
 3. ~~**L'acord dels coprínceps del 25 de febrer de 1881 sencer.**~~ **`parcial`**:
    el corpus en té ara **dues clàusules** —concessions i jocs— **per dues fonts
    diferents**, i **no el text.** **Prioritari.**
-4. **Quan s'acaba la revolució de 1880-81**: **febrer o juny de 1881.**
-   **Divergència oberta.**
+4. ~~**Quan s'acaba la revolució de 1880-81**: **febrer o juny de 1881.**~~ —
+   **`parcial` el 2026-09-19**: Vilar situa el final dels aldarulls el **febrer
+   de 1881**, després de la intervenció francesa, mentre que l'altra font
+   allarga la revolució fins al **juny**. La fitxa ja conserva les dues lectures,
+   però **no es pot decidir si daten el final dels aldarulls o el del procés
+   polític**.
 5. **L'afer d'estafa instruït pel *parquet* del Sena.** **Sense data ni nom.**
 6. **Quantes concessions de mines, aigües, ferrocarrils i tramvies elèctrics va
    atorgar el Consell General**, **i a qui.** **Tercera tanda que el corpus ho
