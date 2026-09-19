@@ -176,8 +176,11 @@ aquell any.**
 - **Qui el va fer**: l'autora hi dedica l'exposició central i aquesta fitxa només
   n'ha pres el marc.
 - **Per què Andorra Magazine es distribuïa a Algèria i al Marroc.**
-- **Les capçaleres del 1981 al 1993**, que la ponència llista i aquesta fitxa
-  només recull en part.
+- ~~**Les capçaleres del 1981 al 1993**, que la ponència llista i aquesta fitxa
+  només recull en part.~~ — **`parcial` el 19-09-2026**: el cos ja enumera les
+  capçaleres de **1991** (*Diari d'Andorra* i *Informacions Diari*) i les de
+  **1993** (*Actual* i *Andorra Magazine*). **Resta oberta la cobertura de
+  1981–1990 i la llista completa de la ponència.**
 - **Si la llista de la Biblioteca Nacional és completa**: l'autora diu que no ho
   pot garantir.
 
