@@ -150,17 +150,18 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    en cita la localització, no n'ha baixat cap imatge. El que segueix obert és
    l'URL de la digitalització de Google Books d'on surt el text del corpus.`
 2. ~~**Els capítols IV a IX**, sencers.~~ — **`parcial` el 19-09-2026**: s'ha
-   llegits i contrastats sencers els **capítols IV, «Obligations et contrats», i
-   V, «Les personnes et la famille»**: **pp. 73–105 i 107–159** de l'edició
-   (línies **11029–12549 i 12566–15286** de
-   `docs/raw/llibres/brutails-coutume.txt`). El IV recorre la teoria de les
-   obligacions, les renúncies i el jurament, les garanties, les fiances,
-   l'*hostatge*, les clàusules de *constitut* i de *procurador*, els contractes
-   privilegiats, la clàusula de *terç*, el formalisme, els actes i els notaris;
-   el V, la ciutadania, els clergues, absències, dones, tutela, família,
-   matrimoni, noms, dot, augment, hereu, llegítima, marmessors, successió i
-   *vincle*. **Els capítols VI–IX continuen oberts**; aquests dos capítols no es
-   presenten com si fossin la lectura del conjunt.
+   llegits i contrastats sencers els **capítols IV, «Obligations et contrats», V,
+   «Les personnes et la famille», i VI, «Les biens»**: **pp. 73–105, 107–159 i
+   161–217** de l'edició (línies **11029–12549, 12566–15286 i 15298–18033** de
+   `docs/raw/llibres/brutails-coutume.txt`). El IV recorre obligacions,
+   garanties, fiances, *hostatge*, *constitut*, *procurador*, contractes
+   privilegiats, *terç*, formalisme i notariat; el V, ciutadania, clergat,
+   absència, tutela, família, matrimoni, dot, augment, hereu, llegítima,
+   marmessors, successió i *vincle*; el VI, béns públics i privats, comunals,
+   *bohigues*, servituds, censos, préstecs, *censal*, *violari*, prescripció,
+   expropiació, venda i *carta de gràcia*. **Els capítols VII–IX continuen
+   oberts**; aquests tres capítols no es presenten com si fossin la lectura del
+   conjunt.
 3. **Les peces justificatives**: hi ha transcrits documents d'arxiu que el corpus
    no té per cap altra via.
 4. ~~**La taula de la pàgina 20** (valor real de la lliura, 1420-1783), que
