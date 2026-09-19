@@ -197,8 +197,10 @@ una pràctica pròpia.**
    proposa. `obert.`
 4. **Els judicis antics de la Curia**, a la Casa de la Vall: **quants eren i si
    s'hi conserven.** `obert.`
-5. **El formulari manuscrit de cap al 1768** del notari Palmitjavila, fet
-   probablement a la Seu d'Urgell. `obert, datat i localitzat el 1904.`
+5. ~~**El formulari manuscrit de cap al 1768** del notari Palmitjavila, fet
+   probablement a la Seu d'Urgell. `obert, datat i localitzat el 1904.`~~ —
+   **`parcial`, actualitzat el 2026-09-19**: el manuscrit ja està datat i
+   localitzat per la font de 1904; el corpus encara no n'ha incorporat el text.
 6. **El model d'«attestat de limpiesa de sanch»** i **si se'n va estendre mai cap
    a Andorra**, a qui i per a què. `obert, prioritari i nou.`
 7. **Els dos formularis impresos**, **Falguera 1888** i **Morelló 1827**: **el

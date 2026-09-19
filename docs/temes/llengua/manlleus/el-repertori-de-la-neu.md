@@ -278,9 +278,11 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
 
 - **Les 26 entrades del repertori que aquesta lectura no ha recuperat.**
   `Diferència entre les 993 entrades del repertori i les 967 recuperades.`
-- **L'índex de termes neològics que designen conceptes nous** (p. 309-316):
+- ~~**L'índex de termes neològics que designen conceptes nous** (p. 309-316):
   **257 termes**, el **28,5%** de tot el corpus, **per als quals no hi ha cap
-  proposta oficial.** `Localitzat, no buidat.`
+  proposta oficial.** `Localitzat, no buidat.`~~ — **`parcial`, actualitzat el
+  2026-09-19**: l'índex ja està localitzat a les pàgines 309-316 i se'n coneix
+  el recompte; encara no s'han buidat els 257 termes.
 - **Quina part d'aquestes formes es diu realment a Andorra avui**, contra
   [parla](../../../parla/README.md).
 - **El mateix exercici per a un altre àmbit.** **No n'hi ha cap.** L'estudi és
