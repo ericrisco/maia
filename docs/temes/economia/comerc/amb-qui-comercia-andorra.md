@@ -197,8 +197,10 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   `pregunta_oberta`
 - **Per què Turquia, Hong Kong i Gran Bretanya apareixen com a destins** a
   partir del 2015. `pregunta_oberta`
-- **Les exportacions anteriors al 1997**, que la sèrie dona a zero i no existien
-  com a recompte. `serie_estadistica`
+- ~~**Les exportacions anteriors al 1997**, que la sèrie dona a zero i no existien
+  com a recompte.~~ — **`no-es-buit` el 19-09-2026**: el zero anterior a 1997
+  és una absència de cobertura de la sèrie, no una dada que indiqui exportacions
+  nul·les.
 - **El comerç de serveis**, que no és en aquesta taula i és on Andorra té
   superàvit ([tot el superàvit és el turisme](../transformacio-economica/tot-el-superavit-es-el-turisme.md)).
 - **Si les xifres inclouen el comerç amb la UE en règim d'unió duanera** de
