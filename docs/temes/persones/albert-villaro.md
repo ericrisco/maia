@@ -75,8 +75,14 @@ totes dues coses alhora.**
 
 ## Buits registrats
 
-1. **Bibliografia completa i cronologia detallada dels càrrecs** —
-   la font consultada és una síntesi enciclopèdica, no un currículum.
+1. ~~**Bibliografia completa i cronologia detallada dels càrrecs** —
+   la font consultada és una síntesi enciclopèdica, no un currículum.~~ —
+   **`parcial` el 19-09-2026**: la fitxa ja identifica obres com *La ciutat i el
+   riu* (1992), *Hèrcules i la ciutat* (1995), *El temps dels rais a la ribera
+   del Segre* (1997), *Els ambaixadors* (2013/2014) i *Tercer origen* (2024), i
+   els càrrecs de director de Cultura, director d'Arxius, Patrimoni i Recerca i
+   coordinador d'història d'Andorra Recerca + Innovació. La bibliografia
+   completa i les dates precises dels càrrecs encara no consten.
 2. **El contingut complet d'*Estudis polítics i historiografia
    andorrana*** — el corpus en cita fragments, no l'obra sencera.
 
