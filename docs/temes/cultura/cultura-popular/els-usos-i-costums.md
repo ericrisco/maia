@@ -124,9 +124,9 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
    gegants](../../costums/gegants/els-gegants.md#els-gegants-tenen-nom-i-qui-els-va-fer-tambe):
    **Joan Roure i Jané** (Solsona, 1921 — Andorra la Vella, 1990), **a Andorra
    des del 1963**, fundador i director de l'**Orfeó Andorrà** fins a la mort.
-3. **Ventura Armengol «de ca l'Orelleta»** — qui era. **Bessó amb**
-   [el cas Amades](../../historia/historiografia/el-cas-amades.md#el-que-falta),
-   **cercat sense èxit el 18-09-2026.**
+3. ~~**Ventura Armengol «de ca l'Orelleta»** — qui era.~~ — **`resolt` com a
+   duplicat el 19-09-2026**: el buit canònic, cercat sense èxit, és a [el cas
+   Amades](../../historia/historiografia/el-cas-amades.md#el-que-falta).
 4. ~~**El Sr. Pantebre** de l'Agrupació sardanista de les Valls.~~ — **`parcial`
    el 18-09-2026, bessó amb** [escacs](../../esports/escacs/README.md#el-que-falta):
    **hi ha un Benet Pantebre Martínez identificat** (escacs, cònsol d'Andorra
