@@ -139,14 +139,18 @@ què el seu successor podia arribar al ministeri el 1908.**
    sencers. El contingut cobreix etnografia, costums, història i Pareatges,
    institucions locals, Consell General, sindicatura, jurisdicció civil i penal,
    viguiers, bayles i Corts.
-3. **Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.
-   **`parcial` el 19-09-2026:** la *Gaceta de Madrid* identifica la Reial ordre
-   d'Hisenda de **25 de maig de 1908** (publicada el 12 de juny, pp. 1222–1223)
-   i en conserva el dispositiu: drets més reduïts vigents per als ramats i
-   productes andorrans a les duanes limítrofes, amb l'excepció dels avantatges
-   especials de Portugal i el Marroc. **Segueix obert** l'expedient administratiu
-   complet i la documentació de la gestió de Benlloch que hi va donar origen;
-   Vilar no en dona el número d'expedient.
+3. ~~**Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.~~
+   — **`resolt` el 19-09-2026** per la **Reial ordre d'Hisenda de 25 de maig de
+   1908**, publicada a la *Gaceta de Madrid* del 12 de juny (pp. 1222–1223;
+   còpia local a `docs/raw/gaceta/gmd-1908-164.txt`): mentre fos vigent el
+   conveni entre Espanya i França, a les duanes nacionals limítrofes amb Andorra
+   s'havien d'aplicar als ramats i productes andorrans els drets més reduïts de
+   les tarifes vigents, excepte els avantatges especials concedits o concedibles
+   a Portugal i el Marroc.
+3b. **L'expedient administratiu complet i la gestió de Benlloch que van donar
+   origen a la Reial ordre**: la disposició publicada queda acreditada, però
+   Vilar no en dona el número d'expedient i aquest registre encara no l'ha
+   localitzat.
 4. ~~**Qui era Benlloch y Vivó**, i què més va fer per Andorra.~~ —
    **`resolt` el 18-09-2026, i la resposta ja era mig dins el corpus.**
 
