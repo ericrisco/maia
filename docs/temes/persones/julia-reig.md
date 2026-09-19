@@ -147,7 +147,7 @@ arbre explícit: registrat com a fort, no com a confirmat del tot.
    (1961-1966), però la font no en fa el vincle explícit.** **Qui era
    Bedaux i què deia exactament l'informe, segueix sense saber-se** —el
    propi Cavero el cita amb punts suspensius, sense detallar-lo.
-5. **Quin paper hi va tenir en l'andorranització**, més enllà de coincidir-hi.
+5. ~~**Quin paper hi va tenir en l'andorranització**, més enllà de coincidir-hi.~~ **[parcial · 2026-09-19]** La fitxa situa el projecte durant el seu primer període de sindicatura i en documenta l'objectiu —aprenentatge del català i coneixement de la història i les institucions—, però la font no atribueix a Reig cap actuació personal concreta.
 6. **Si la família Reig té arxiu**, com Casa Rossell en tenia
    ([el Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)).
 
