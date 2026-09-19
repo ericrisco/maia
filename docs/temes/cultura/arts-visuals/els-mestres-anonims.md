@@ -123,7 +123,7 @@ manté. Vegeu [Sant Joan de Caselles](../arquitectura/sant-joan-de-caselles.md).
 
 | Estil | Què hi ha |
 | --- | --- |
-| **Gòtic** | **Poca cosa**, i religiosa: sobretot **retaules**. Destaquen **Sant Miquel de Prats** (**fora d'Andorra**) i **Sant Joan de Caselles** |
+| **Gòtic** | **Poca cosa**, i religiosa: sobretot **retaules**. Destaquen **Sant Miquel de Prats** (**Prats, Canillo, Andorra**) i **Sant Joan de Caselles** |
 | **Barroc** | **El segon gran moment**, i **més tard que a l'entorn**: **finals del s. XVII i principis del XVIII** |
 
 Sobre el barroc, la causa que en proposa és econòmica:
@@ -149,14 +149,33 @@ només podia conèixer d'aquesta manera**».
 
 **Segueix sent un còmic, set-cents anys després.**
 
+### El retaule de Prats no era fora: el que en va sortir va ser el conjunt
+
+La fitxa del Govern situa **l'església de Sant Miquel de Prats a Prats,
+parròquia de Canillo**, i en dona la primera notícia documental, de 1312. El
+retaule renaixentista del segle XVI, pintat per **Miquel Ramells** i daurat per
+**Guiu Borgonyó** (el Mestre de Canillo), va ser venut el **1926** i dispersat.
+El Govern ha localitzat i recuperat la taula *La victòria de Sant Miquel*, la
+predel·la i *L'aparició del mont Gàrgan*; la primera és a les reserves de
+Patrimoni Cultural i les altres dues a la col·lecció Fons d'Art de Crèdit
+Andorrà. La resta (quatre taules, guardapols i fragments de cels estrellats)
+continua sense localitzar. El 2026 s'ha anunciat una reproducció per
+reinstal·lar-la a l'església.
+
 ## Buits registrats
 
-1. **On són** les peces romàniques andorranes que són fora. **Prioritari.**
+1. ~~**On són** les peces romàniques andorranes que són fora. **Prioritari.**~~ —
+   **`parcial`, confirmat el 2026-09-19**: per al retaule de Sant Miquel de
+   Prats ja consten tres peces recuperades i les seves col·leccions; encara no
+   se sap on són les quatre taules, els guardapols i els fragments restants.
 2. **Els caps del campanar**: què són i què volen dir.
 3. Per què **no hi ha escultura en pedra**.
 4. El **mestre de la Cortinada** i el **mestre de Santa Coloma**: quines obres.
 5. **Els retaules barrocs**: inventari, i quins es conserven.
-6. **Sant Miquel de Prats** — on és exactament, fora d'Andorra.
+6. ~~**Sant Miquel de Prats** — on és exactament, fora d'Andorra.~~ —
+   **`resolt`, confirmat el 2026-09-19**: l'església és a **Prats, Canillo,
+   Andorra**. El que es va dispersar fora del temple és el retaule del segle
+   XVI, i la seva localització queda registrada al buit 1.
 
 ## Related
 
