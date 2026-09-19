@@ -272,8 +272,8 @@ I la regla que el Consell subratlla:
    18-09-2026**: **la font en cita el principi i el final**, inclosa la regla que
    els veguers governen junts i que el present pot actuar quan l'altre és absent;
    **el text complet del decret encara falta**.
-7. **El text dels Pariatges del 8 de setembre de 1278** i **la confirmació de
-   Martí IV.** **`parcial` el 19-09-2026:** el catàleg BnF identifica la butlla
+7. ~~**El text dels Pariatges del 8 de setembre de 1278** i **la confirmació de
+   Martí IV.**~~ **`parcial` el 19-09-2026:** el catàleg BnF identifica la butlla
    de confirmació com a **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
    Doat 162, f. 50r-51v). **El manuscrit i el text de la butlla encara no s'han
    vist.**

@@ -276,8 +276,8 @@ nota al peu en cita un altre:**
 
 ## Buits registrats
 
-1. **L'estudi del Servei de Política Lingüística del 2002 sobre els
-   *Coneixements i usos lingüístics dels escolars d'Andorra*.** **La font
+1. ~~**L'estudi del Servei de Política Lingüística del 2002 sobre els
+   *Coneixements i usos lingüístics dels escolars d'Andorra*.**~~ **La font
    original continua sense formar part de les catorze peces del fons**, però la
    recerca de 2017 n'ha confirmat el títol, el curs **2000-2001** i l'ús com a
    comparació; el model sistèmic posterior n'ha fixat l'univers de **8 a 16 anys**
@@ -286,21 +286,21 @@ nota al peu en cita un altre:**
 2. ~~**La quarta onada del 2004** de l'enquesta de població.~~ — **`resolt` el
    2026-09-18**: el PDF [*Coneixements i usos lingüístics de la població
    d'Andorra. Situació actual i evolució (1995-2009)*](../../../raw/llengua-usos-linguistics/coneixements2011.pdf), **DL AND. 908-2011**, explica a la p. 7 que la metodologia permet comparar els estudis de **1995, 1999, 2004 i 2009**; el gràfic de llengua materna de la p. 9 inclou les quatre sèries i la fitxa tècnica de la p. 27 torna a enumerar les quatre onades. **Divergència registrada:** l'etiqueta de la segona sèrie del gràfic extret diu «2000», mentre que el text metodològic diu «1999»; el corpus no l'arbitra.
-3. **Sobre quina mostra i amb quina pregunta es va mesurar que «un 20% dels joves
-   enquestats no sabien que l'única llengua oficial al país és la catalana».**
+3. ~~**Sobre quina mostra i amb quina pregunta es va mesurar que «un 20% dels joves
+   enquestats no sabien que l'única llengua oficial al país és la catalana».**~~
    **La recerca posterior dona el contrapunt del 2011-2012 —un 97% ja deia
    saber quina era la llengua oficial (p. 102)— i el model sistèmic concreta que
    l'univers del 2002 era la població de **8 a 16 anys**. Confirma que el
    2000-2001 és una comparació metodològicament diferent. `parcial` el
    2026-09-19:** la mostra concreta i la formulació exacta de la pregunta del
    20% encara no s'han vist.
-4. **Si el gràfic del nivell de parla existeix en alguna altra edició o
-   reimpressió** del llibre. **A la que el corpus té, no hi és.** La recerca de
+4. ~~**Si el gràfic del nivell de parla existeix en alguna altra edició o
+   reimpressió** del llibre.~~ **A la que el corpus té, no hi és.** La recerca de
    2017 sí que reprodueix en un gràfic posterior la sèrie **2000-2001/2011-2012**
    del nivell de parla (p. 69), però no és una reimpressió del llibre del 2010.
    **`parcial` el 2026-09-19.**
-5. **Lapresta**, citat com a autoritat sobre els factors del contacte de
-   llengües, i **Apple i Muysken (1993)**. La font escolar de 2017 identifica
+5. ~~**Lapresta**, citat com a autoritat sobre els factors del contacte de
+   llengües, i **Apple i Muysken (1993)**.~~ La font escolar de 2017 identifica
    **Cecilio Lapresta i Àngel Huguet, «Identidad colectiva y lengua en contextos
    pluriculturales y plurilingües. El caso del Valle de Arán», *Revista
    Internacional de Sociología*, LXIV, 45 (2006)** (p. 36), però **Apple i

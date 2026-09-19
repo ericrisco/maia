@@ -326,7 +326,7 @@ data de finalització de l'esquí.
    divisió dona **259 litres per habitant i dia el 2007** i **220 el 2019**, un
    **−15%**; per **població equivalent** —que inclou els visitants—, **de 186 a
    156**. **Queda obert només què vol dir exactament «població equivalent».**
-7. **El consum d'aigua per parròquia**, i quines conques abasteixen què. — **`parcial` el 19-09-2026**: l'E4.7 confirma que el model associa cada node a una parròquia i a un tram de riu, però el PDF no publica la taula completa de valors parroquials.
+7. ~~**El consum d'aigua per parròquia**, i quines conques abasteixen què.~~ — **`parcial` el 19-09-2026**: l'E4.7 confirma que el model associa cada node a una parròquia i a un tram de riu, però el PDF no publica la taula completa de valors parroquials.
 8. ~~**Si les dades dels usos són d'un any concret**; la font no el diu.~~ —
    **`resolt` el 18-09-2026**: **la divisió 2470 de l'API dona la sèrie anual
    completa del 2007 al 2019**, ús per ús. **No és un any concret: són tretze.**

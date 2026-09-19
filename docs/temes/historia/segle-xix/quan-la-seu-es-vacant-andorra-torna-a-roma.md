@@ -299,7 +299,7 @@ excepció que el resum no duia:**
 6. **Els col·lectors de la Reverenda Cambra Apostòlica a Andorra durant les seus
    vacants**: **quantes vegades, quines rendes i quina documentació en queda.**
    **Prioritari**, i **comprovable**: la Cambra Apostòlica té arxiu.
-7. **La contradicció de la data de Martí IV.** **`parcial` el 19-09-2026:** el
+7. ~~**La contradicció de la data de Martí IV.**~~ **`parcial` el 19-09-2026:** el
    catàleg BnF dona **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
    Doat 162, f. 50r-51v), en acord amb Vilar i en contradicció amb el 1288 del
    Consell General. **Falta llegir el manuscrit i explicar la data divergent.**

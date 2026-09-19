@@ -372,8 +372,8 @@ diversitat lingüística de l'aula.
   llista encara no s'han comprovat sencers en aquesta auditoria.** Els quatre
   nivells de llengua catalana i els programes de medi/ciències humanes que són al
   recull ja estan llegits. `Parcial: cal localitzar els altres annexos.`
-- **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
-  que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
+- ~~**El programa històric de segona ensenyança del 1999** i el de **batxillerat**
+  que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.~~
   **`Parcial` el 19-09-2026**: el programa actual de ciències humanes i socials
   de batxillerat de Formació Andorrana ja és llegit a l'annex del **Decret
   438/2025, del 3-12-2025**, vigent des de l'**1-09-2026** (52 pàgines, [PDF

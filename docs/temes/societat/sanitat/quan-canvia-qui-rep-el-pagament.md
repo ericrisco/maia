@@ -152,8 +152,8 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   La remissió de p. 196 a la nota 18 s’ha resseguit, però no s’hi ha
   identificat una fila SAAS separada que conciliï els imports.
   ([Nota 18, p. 188–190](../../../raw/desocupacio/cass-estats-financers-2018.pdf).)
-- La xifra HNSM de 2017 varia entre exemplars: **29.014.704 euros** als
-  comptes de 2017 i **28.716.182** als de 2018. **`Parcial` el 19-09-2026**:
+- ~~La xifra HNSM de 2017 varia entre exemplars: **29.014.704 euros** als
+  comptes de 2017 i **28.716.182** als de 2018.~~ **`Parcial` el 19-09-2026**:
   la taula de 2017 és una sèrie de despesa liquidada per data de pagament,
   mentre que els comptes de 2018 presenten la sèrie 2016–2018 i expliquen que
   els valors de liquidació es mantenen estables després d'**homogeneïtzar les

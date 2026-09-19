@@ -239,8 +239,8 @@ amb judici de valor:**
    Tolosa, 1892.** **Nova.**
 3. **Miret y Sans, *Noves y documents inèdits sobre la família senyorial de
    Caboet y la Qüestió d'Andorra*, Barcelona, 1918.** **Nova i prioritària.**
-4. **El document de remissió dels mals usos a Andorra**: **quin comte, quina
-   data, quina signatura.** — **`parcial`, actualitzat el 2026-09-19**: l'apèndix
+4. ~~**El document de remissió dels mals usos a Andorra**: **quin comte, quina
+   data, quina signatura.**~~ — **`parcial`, actualitzat el 2026-09-19**: l'apèndix
    identifica **Roger-Bernard III, comte de Foix**, i el **8 de setembre de 1278**;
    la nota remet a **`Marca Hispánica, 8834`**, però el volum no dona la signatura
    arxivística de l'original.

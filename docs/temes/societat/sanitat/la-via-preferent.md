@@ -170,7 +170,7 @@ decrets.`
 
 ## Buits registrats
 
-- **La via preferent, la llei no la defineix.** **`parcial` el 2026-09-19**:
+- ~~**La via preferent, la llei no la defineix.**~~ **`parcial` el 2026-09-19**:
   el [Reglament de l'accés a l'Assistència Sanitària Pública de l'1 d'agost de
   2018](../../../raw/lleis/bopa/decret-2018-reglament-acces-assistencia-sanitaria.txt)
   ja és al recull i defineix la **via d'atenció integrada (VAI)** com l'itinerari
