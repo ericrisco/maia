@@ -378,15 +378,18 @@ l'ONU són públiques.**
 
 ## El que falta
 
-- **La bibliografia que la font dona i el corpus no té**, sis títols més:
+- ~~**La bibliografia que la font dona i el corpus no té**, sis títols més:
   Armengol Aleix (2009), Guillamet Anton (2009), Jordi Planellas (2013), Víctor
   Pou i Serradell (*Andorra, Unió Europea*, Crèdit Andorrà, 2011), **Gualbert
   Osorio, *Ràdio Andorra, la història d'un mite que va fer història* (Crèdit
   Andorrà, 2013)** i **Toni Solanelles, *Allò que l'aigua s'endugué* (Premsa
   Andorrana, 2012)** — **aquest últim sobre
-  [els aiguats](./els-aiguats-del-1982.md)**.
-- **El documental *Els primers 30 anys de l'Escola Andorrana*** (Andorra
-  Televisió, 2013), que la font enllaça.
+  [els aiguats](./els-aiguats-del-1982.md)**.~~ **[parcial · 2026-09-19]** Els
+  sis títols i autors ja estan identificats; el corpus encara no n'ha llegit el
+  contingut.
+- ~~**El documental *Els primers 30 anys de l'Escola Andorrana*** (Andorra
+  Televisió, 2013), que la font enllaça.~~ **[parcial · 2026-09-19]** El títol,
+  productor i any ja consten; el corpus encara no ha vist el documental.
 - ~~**Josep Enric Dallerès**, citat el 2023 i sense fitxa.~~ — **`resolt` el
   18-09-2026**: **és el mateix [Josep Dallerès i Codina](../../politica/parlamentarisme/la-deriva-presidencialista.md)
   que el corpus ja documenta com a ex-síndic general — i, a més, poeta i
