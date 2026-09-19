@@ -105,14 +105,13 @@ identificava com a club de la federació també té secció de futbol sala**, i
 ## El que falta
 
 - ~~**Qui és Fèlix Álvarez**, i quants presidents ha tingut la federació.~~ —
-  **`parcial` el 19-09-2026**: la [fitxa oficial de la
+  **`resolt` el 19-09-2026**: la [fitxa oficial de la
   UEFA](../../../../fonts/uefa-faf-member-association.md) el dona com a
-  **andorrà, nascut el 10 de juliol del 1966 i president des del 2019**, i el
-  comunicat de la [FAF sobre les eleccions de
-  2019](../../../../raw/web/esport/faf/president-2019.txt) el presenta com el
-  **cinquè president de la història**. Els comunicats de 2013 i 2015
-  identifiquen **Víctor Santos** com a president i confirmen el seu segon
-  mandat. Encara falten els noms i els mandats dels tres primers presidents.
+  **andorrà, nascut el 10 de juliol del 1966 i president des del 2019**. La
+  [pàgina institucional de la FAF](../../../../raw/web/esport/faf/institucio-presidents.txt)
+  conserva l'històric complet: **Fèlix Álvarez (2019–), Víctor Santos
+  (2013–2019), Antoni Giribet (2009–2013), Francesc Amat (2001–2009) i
+  Francesc Vila (1994–2000)**.
 - ~~**El pressupost.** El corpus no té ni un import.~~ — **`parcial` el
   19-09-2026**: un comunicat de la [FAF sobre l'Assemblea General de
   2020](../../../../raw/web/esport/faf/assemblea-general-2020-pressupost.txt)

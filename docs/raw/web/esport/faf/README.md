@@ -13,3 +13,4 @@ conserva per a citació i verificació, no per a redistribució íntegra.
 | `president-2013.html` / `.txt` | Comunicat de l'elecció de **Víctor Santos** com a president (9 d'octubre de 2013). |
 | `president-2015.html` / `.txt` | Comunicat de la reelecció de Víctor Santos per un segon mandat. |
 | `president-2019.html` / `.txt` | Comunicat de l'elecció de **Fèlix Álvarez**; el presenta com el **cinquè president** de la FAF (13 de setembre de 2019). |
+| `institucio-presidents.html` / `.txt` | Pàgina institucional de la FAF amb l'històric complet: **Fèlix Álvarez (2019–), Víctor Santos (2013–2019), Antoni Giribet (2009–2013), Francesc Amat (2001–2009) i Francesc Vila (1994–2000)**. |
