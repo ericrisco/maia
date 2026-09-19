@@ -211,7 +211,13 @@ dona el rector. **Aprovada el 30 de juliol, publicada el 20 d'agost.**
   **Dos articles, la mateixa peça, cap dels dos no la té.**
 - **Les actes del Consell General de final dels vuitanta** sobre les
   negociacions educatives — **font primària nomenada per la font**.
-- **L'estat d'aquest marc legal el 2026.**
+- ~~**L'estat d'aquest marc legal el 2026.**~~ — **`parcial` el 19-09-2026**:
+  el corpus ja pot situar els dos convenis bilaterals més recents que afecten
+  directament els sistemes escolars —**Espanya, ratificat el 17 de maig del
+  2007**, i **França, conveni signat el 10 de desembre del 2025 i ratificat el
+  19 de març del 2026**—, a més del conveni amb Portugal del 2001. Això permet
+  descriure l'estat de les relacions educatives amb els tres veïns, però no és
+  encara un inventari consolidat de tota la normativa vigent el 2026.
 
 ## Related
 
