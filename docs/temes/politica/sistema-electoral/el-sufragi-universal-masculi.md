@@ -141,10 +141,12 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
    `Requereix el decret dels delegats permanents del 1941.`
 2. **Qui eren els delegats permanents** d'aquells anys.
 3. **En què va consistir «la pressió de part de la població»** del 1947.
-4. **Si el 1945 de Duró correspon a algun fet real** —una llei electoral
-   intermèdia?— o és un error de memòria. **Les actes del Consell no tenen res
-   del 1945 que hi pugui correspondre**: l'única sessió de l'any és la del **15
-   de novembre**. **El 1945 segueix sol.**
+4. ~~**Si el 1945 de Duró correspon a algun fet real** —una llei electoral
+   intermèdia?— o és un error de memòria.~~ **`parcial` el 19-09-2026**: les
+   actes del Consell no tenen cap decisió electoral del 1945 que hi correspongui;
+   l'única sessió de l'any és la del **15 de novembre**. La data de Duró queda
+   acotada com a **no corroborada**, però encara no se'n pot identificar l'origen
+   ni afirmar que sigui un error.
 
    **En canvi el 1948 ara té una explicació possible, i és de calendari**: **les
    eleccions del decret del 1947 es van fer el 12 de desembre**, i **el Consell
