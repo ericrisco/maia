@@ -102,10 +102,12 @@ Andorra.**
 - **Quanta gent hi treballa, i quants són temporers.** Vegeu
   [treball](../../../societat/treball/treball.md).
 - **Quant factura.**
-- **Si Francesc Viladomat té relació amb l'escultor
+- ~~**Si Francesc Viladomat té relació amb l'escultor
   [Josep Viladomat](../../../cultura/arts-visuals/josep-viladomat.md)**, que
-  feia obra pública andorrana als mateixos anys. **El corpus no ho afirma i
-  registra la coincidència de cognom.**
+  feia obra pública andorrana als mateixos anys.~~ — **`resolt` el 19-09-2026**:
+  el reportatge de [Turiski](../../../../fonts/turiski-francesc-viladomat-2007.md)
+  identifica Francesc com a **fill de l'escultor Josep Viladomat** i situa
+  l'exili de la família a Andorra el 1941.
 
 ## Related
 
