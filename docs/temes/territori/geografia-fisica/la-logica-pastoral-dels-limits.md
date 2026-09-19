@@ -220,11 +220,13 @@ mateix tros de muntanya, dos règims alhora.**
   contenciós.
 - **La Concòrdia**: on és, quin acord la va crear, i entre qui. **Buit
   prioritari** — Becat la cita com a cabdal i el corpus no la té.
-- **La transhumància** andorrana: **dates i final, tancats** a
+- ~~**La transhumància** andorrana: **dates i final, tancats** a
   [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md),
   que hi afegeix una cosa que canvia com s'ha de llegir aquesta fitxa: **quan una
   parròquia guanyava una muntanya, no hi pujava el seu bestiar — la llogava**.
-  **Rutes i qui hi anava: segueixen sent buit.**
+  **Rutes i qui hi anava: segueixen sent buit.**~~ — **`parcial`, actualitzat el
+  2026-09-19**: la fitxa enllaçada ja resol les dates i el final i documenta el
+  lloguer de les muntanyes; resten obertes les rutes i els ramats concrets.
 - ~~El **tractat** que fixa la frontera nord, citat aquí com a «de Corbeil» a
   partir d'una lectura OCR dubtosa.~~ — **`parcial` el 18-09-2026**: **la lectura
   d'OCR era bona i la conjectura del corpus, dolenta.** **La pàgina impresa diu
