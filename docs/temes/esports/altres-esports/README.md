@@ -172,13 +172,14 @@ una pràctica legal i comuna, i és com funciona.**
   andorrana classificada per a una final de la FIG (2024) i va guanyar tres
   argents als Jocs dels Petits Estats de casa el 2025.** **La federació segueix
   `obert`.**
-- **El taekwondo.** Hi surt **dues vegades** —[Yolanda
+- ~~**El taekwondo.** Hi surt **dues vegades** —[Yolanda
   García](./yolanda-garcia.md) el 1994-95 i [Naiara
   Liñán](../../persones/naiara-linan.md) el 2026— **i el corpus no sap si hi ha
-  relació entre les dues.** — **`obert`, i ara amb un matís que canvia la
-  pregunta**: **el bolcat de Yolanda García la descriu com a taekwondista
-  ESPANYOLA nascuda a Andorra**, i **no diu sota quina bandera va guanyar les
-  medalles.** `Divergència registrada, no arbitrada.`
+  relació entre les dues.**~~ — **`parcial` el 2026-09-19**: **el bolcat de
+  Yolanda García la descriu com a taekwondista ESPANYOLA nascuda a Andorra**, i
+  **no diu sota quina bandera va guanyar les medalles**. La relació entre les
+  dues esportistes continua sense documentar-se; **divergència registrada, no
+  arbitrada**.
 - ~~**El pitch and putt**, que és selecció nacional i el corpus no sap ni què hi
   fa Andorra. I **[Kevin Esteve Rigail](../esqui/esquiadors/kevin-esteve-rigail.md)**,
   esquiador olímpic reconvertit en **golfista professional**. ~~— **`obert`,
