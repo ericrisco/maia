@@ -127,9 +127,18 @@ què el seu successor podia arribar al ministeri el 1908.**
 1. ~~**L'URL** del volum digitalitzat.~~ — **`resolt` el 18-09-2026**:
    [Bibliothèque numérique patrimoniale de l’Université Bordeaux Montaigne](https://1886.u-bordeaux-montaigne.fr/files/original/1cda3491b3e3a2d273f9711f9d4b64d09c18c763.pdf),
    exemplar escanejat de *Un État ignoré: l’Andorre* (1908).
-2. **Els capítols I a IV**, que el corpus **no ha llegit sencers**: s'ha
-   comprovat que repeteixen el llibre de 1904 **per cadenes clau**, no paraula
-   per paraula. Hi pot haver matisos nous que aquesta comprovació no veu.
+2. ~~**Els capítols I a IV**, que el corpus **no ha llegit sencers**.~~ —
+   **`resolt` el 19-09-2026**: s'han llegit sencers al text local
+   `docs/raw/llibres/andre-vilar-andorre.txt`, amb els trams **I,
+   «Ethnographie et mœurs», pp. 2–6 (línies 101–267); II, «Historique», pp.
+   6–17 (línies 268–700); III, «Institutions publiques andorranes», pp. 17–36
+   (línies 701–1433); i IV, «La souveraineté et la justice des coseigneurs»,
+   pp. 37–50 (línies 1434–1960)**. La lectura confirma que l'edició de 1908
+   reprèn passatges i arguments de 1904, però ara el corpus no ho dona per
+   verificat només per cadenes: els quatre capítols han estat inspeccionats
+   sencers. El contingut cobreix etnografia, costums, història i Pareatges,
+   institucions locals, Consell General, sindicatura, jurisdicció civil i penal,
+   viguiers, bayles i Corts.
 3. **Què va acordar exactament Espanya el maig de 1908**, i amb quina norma.
    **`parcial` el 19-09-2026:** la *Gaceta de Madrid* identifica la Reial ordre
    d'Hisenda de **25 de maig de 1908** (publicada el 12 de juny, pp. 1222–1223)
