@@ -68,7 +68,7 @@ El corpus **no té**, ni de lluny:
 - **Els comuns i les eleccions comunals** com a política, més enllà de
   [les set parròquies](../institucions/comuns-i-parroquies/les-set-parroquies.md).
 - **El referèndum del 14 de març de 1993** vist des de la campanya.
-- **La política d'avui.** El volum s'atura el 2018.
+- ~~**La política d'avui.**~~ **`parcial` el 19-09-2026**: [Els partits d'avui](./partits/els-partits-davui.md) documenta els partits vius, els seus líders i els escons recents; [els tres sistemes electorals](./sistema-electoral/els-tres-sistemes-electorals.md) arriba fins a **2025-2026**, i [la desigualtat del vot](./sistema-electoral/la-desigualtat-del-vot.md) buida els resultats generals fins al **2023**. La cobertura posterior al 2018 ja no és buida, però encara no és una història completa de la política actual.
 - **Les 17 ponències del mateix volum** que el corpus encara no ha llegit.
 
 ## Els volums que el corpus sap que existeixen i no té
