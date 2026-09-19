@@ -130,9 +130,10 @@ i mig abans.
    seixanta-set al IV—, **sovint amb l'import i el nom del metge.** **El que no
    hi ha és cap contracte d'iguala; els comptes de comú encara no queden
    identificats.**
-6. *Iguala* al ***Vocabulari d'Andorra*** (1992) i al
+6. ~~*Iguala* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
-   hi consta**.
+   hi consta**.~~ **`resolt` el 19-09-2026**: el glossari ja incorpora
+   **`iguala`** amb la definició funcional que dona Pallarès.
 
 ## Related
 

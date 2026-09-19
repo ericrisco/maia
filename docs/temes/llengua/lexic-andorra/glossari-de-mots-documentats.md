@@ -521,6 +521,12 @@ Proposats el 2003 pel Servei de Política Lingüística i acceptats:
 | **termoludisme** | turisme termal (el TERMCAT va preferir *turisme termal*; Andorra continua dient *termoludisme*) |
 | **fer cunya** | disposar els esquís en V — castellanisme arrelat; abans es recomanava *fer tascó* |
 
+## Sanitat
+
+| Mot | Significat |
+| --- | --- |
+| **iguala** | **contracte de serveis mèdics d'una família amb un metge de capçalera**, pagat amb una tarifa periòdica mensual, trimestral o anual; no cobria especialitats ni hospitalització. [*Les iguales*](../../societat/sanitat/les-iguales.md). |
+
 ## Gastronomia i alimentació
 
 | Mot | Significat |
