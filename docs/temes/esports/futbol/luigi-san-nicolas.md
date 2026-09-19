@@ -74,8 +74,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **Els seus cinc partits.** — **`obert`**: el bolcat en dona el compte i no el
-  detall. **La carrera de club sí que hi és** (taula de dalt).
+- ~~**Els seus cinc partits.**~~ **[parcial · 2026-09-19]** La taula confirma
+  **5 partits amb Andorra** i 0 gols, però el bolcat no en dona les dates ni els
+  rivals. **La carrera de club sí que hi és** (taula de dalt).
 - ~~**Si és parent de [Moisés San Nicolás](./moises-san-nicolas.md).** ~~—
   **`obert`, confirmat**: **els dos bolcats no s'esmenten l'un a l'altre.**
 ## Related

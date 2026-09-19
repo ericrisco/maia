@@ -68,8 +68,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## El que falta
 
-- **Els seus dos partits**: quan, i contra qui. — **`obert`**: el bolcat en dona
-  el compte i no el detall. **La carrera de club sí que hi és** (taula de dalt).
+- ~~**Els seus dos partits**: quan, i contra qui.~~ **[parcial · 2026-09-19]**
+  La taula confirma **2 partits amb Andorra** i 0 gols, però el bolcat no en
+  dona les dates ni els rivals. **La carrera de club sí que hi és** (taula de
+  dalt).
 
 ## Related
 

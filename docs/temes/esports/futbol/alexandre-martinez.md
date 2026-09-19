@@ -69,8 +69,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   fitxa al corpus**,
   [Alexandre «Àlex» Martínez i Palau](./alex-martinez.md) —**davanter
   internacional des del 2016, i també jugador de futbol platja**.
-- **Els seus set partits.** — **`obert`**: el bolcat en dona el compte i no el
-  detall. **El que sí que hi és ara és la carrera de club** (taula de dalt).
+- ~~**Els seus set partits.**~~ **[parcial · 2026-09-19]** La taula confirma
+  **7 partits amb Andorra** i 0 gols, però el bolcat no en dona les dates ni els
+  rivals. **El que sí que hi és ara és la carrera de club** (taula de dalt).
 
 ## Related
 
