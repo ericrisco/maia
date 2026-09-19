@@ -249,7 +249,11 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    **ningú no pot ser obligat a declarar la seva religió** —per això no hi pot
    haver cens— i **garantia nominal a l'Església catòlica** de «col·laboració
    especial amb l'Estat d'acord amb la tradició andorrana».
-7. **La missa rociera** i **les janeiras**: quan, on, des de quan.
+7. ~~**La missa rociera** i **les janeiras**: quan, on, des de quan.~~ —
+   **`parcial` el 19-09-2026**: la font ja identifica **la missa rociera anual
+   dels andalusos** i **les *janeiras* dels portuguesos**, i confirma que totes
+   dues es fan a Andorra. **Continuen oberts el lloc concret, l'antiguitat i
+   el calendari exacte** de cadascuna.
 8. ~~**Si hi ha comunitat jueva**, budista o ortodoxa. **La font no en diu
    res** i hi ha **578 russos i 122 ucraïnesos** al país.~~ — **`parcial`
    el 18-09-2026**: **sí, comunitat jueva, uns 73 membres (2024)**, l'ACIV
