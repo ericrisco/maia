@@ -80,9 +80,10 @@ I.1 p. 4 i I.3 p. 5.)
 
 ## Buits registrats
 
-- **Memòria llegida íntegrament:** no tanca l'inventari que connectaria
-  458 habitatges previstos amb l'objectiu de 650. Falta comprovar
-  concursos, adjudicacions, propietat o arrendament, acabament i ocupació.
+- ~~**Memòria llegida íntegrament**~~ — **`parcial` el 19-09-2026**: no tanca
+  l'inventari que connectaria 458 habitatges previstos amb l'objectiu de 650.
+  Falta comprovar concursos, adjudicacions, propietat o arrendament, acabament
+  i ocupació.
 - No s'han llegit les dades individuals del registre, la metodologia
   del 23% ni la normativa completa d'accés. No s'infereix que la resta
   de sol·licituds siguin totes denegades o totes pendents.

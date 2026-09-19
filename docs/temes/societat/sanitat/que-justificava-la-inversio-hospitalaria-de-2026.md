@@ -89,10 +89,10 @@ errata, a una versió anterior ni a una exclusió comptable determinada.
 
 ## Buits registrats
 
-- Memòria de Salut i informe d'Intervenció llegits íntegrament.
-  La [memòria d'Habitatge](../habitatge/els-recomptes-del-parc-public-el-2026.md)
-  també s'ha llegit. Projecte parlamentari original, contractes,
-  execució i recepció d'obres continuen pendents.
+- ~~Memòria de Salut i informe d'Intervenció llegits íntegrament~~ — **`parcial`
+  el 19-09-2026**: la [memòria d'Habitatge](../habitatge/els-recomptes-del-parc-public-el-2026.md)
+  també s'ha llegit. El projecte parlamentari original, els contractes,
+  l'execució i la recepció d'obres continuen pendents.
 - No s'ha verificat la partida receptora dels 750.000 euros, les
   discrepàncies numèriques ni una correcció posterior de l'informe.
 - No s'han contrastat l'inventari independent d'equips de RMN,
