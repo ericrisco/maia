@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa
-timestamp: 2026-09-17T22:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [educacio, infancia, dret-vigent, societat]
 ---
 
@@ -290,9 +290,14 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
   de règim interior](#llum-vacunes-i-un-reglament-de-regim-interior)». `Queden
   els capítols VII (procediment d'autorització), VIII (funcions i
   responsabilitats) i IX (inspecció i règim sancionador), articles 28 a 40.`
-- **Les escoles bressol comunals** (la Baldufa, Prada Casadet, les Orenetes, la
+- ~~**Les escoles bressol comunals** (la Baldufa, Prada Casadet, les Orenetes, la
   Guarderia comunal dels Serradells) tenen decrets de creació propis al BOPA i
-  **no s'han llegit**.
+  **no s'han llegit**.~~ — **`parcial` el 19-09-2026**: el llistat oficial del
+  **Registre Nacional de Serveis Socials i Sociosanitaris** conserva **18
+  guarderies** i identifica els centres actuals, inclosos **Les Orenetes, La
+  Baldufa, Prada Casadet i Conxita Mora Jordana** al complex dels Serradells
+  ([evidència local](../../../raw/web/societat/educacio/llistat-guarderies-govern.txt)).
+  **Els decrets històrics de creació de cada escola encara no s'han llegit.**
 - **Si el termini d'adaptació de cinc anys es va complir**, i què va passar amb
   els centres que hi havia el 1995.
 
