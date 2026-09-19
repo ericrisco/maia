@@ -60,7 +60,13 @@ que es conserva és el que va tenir sort.
   Cristina Tarradellas Corominas**, defensada el 2017 a la Universitat de
   Barcelona, amb PDF complet al Dipòsit Digital de la UB; el buidatge crític
   encara és pendent.
-- L'inventari complet del patrimoni cultural del Govern.
+- ~~L'inventari complet del patrimoni cultural del Govern.~~ — **`parcial`,
+  confirmat el 19-09-2026**: el Govern té un [cercador oficial de béns
+  immobles](../../../fonts/govern-inventari-bens-immobles-2026.md) que dona
+  accés a les fitxes de l'Inventari general. En la consulta hi constaven **75
+  béns d'interès cultural**, **55 béns immobles inventariats** i **11 entrades
+  romàniques**. **El corpus encara no ha buidat les fitxes una per una**, de
+  manera que l'inventari queda localitzat però no transcrit completament.
 - ~~**Buit nou**: **Sant Miquel de Prats**, esmentat per Sant Serni de Canillo
   com a església sota la mateixa jurisdicció el 1312 — el corpus no en té
   cap fitxa ni referència prèvia.~~ — **`resolt` el 18-09-2026**: fitxa
