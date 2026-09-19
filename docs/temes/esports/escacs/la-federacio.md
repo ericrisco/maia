@@ -84,7 +84,7 @@ Grans Mestres i tres Mestres Internacionals.**
 
 - ~~**Quants jugadors federats hi ha.**~~ — **`resolt` el 19-09-2026**: la FEVA publica **118 llicències actives** per a la temporada **2026**, tramitades a través del GEVA o el CEA ([font](../../../fonts/escacsandorra-llicencies-feva-2026.md)).
 - **Si hi ha lliga andorrana d'escacs**, i quins clubs.
-- **El Club Escacs Peona i Peó**, que la font esmenta i el corpus no ha mirat.
+- ~~**El Club Escacs Peona i Peó**, que la font esmenta i el corpus no ha mirat.~~ — **`resolt` el 19-09-2026**: Escacs Andorra el documenta com l'equip visitant del GEVA-CEA a la **Lliga Catalana Divisió d'Honor 2025**; havia ascendit la temporada anterior i el matx va acabar **GEVA-CEA 5½–4½ Peona i Peó** ([font](../../../fonts/escacsandorra-peona-i-peo-2025.md)). La font consultada identifica el paper competitiu, però no n'aporta una història completa ni permet afirmar que sigui un club andorrà.
 - **Per què tants jugadors catalans i espanyols competeixen per Andorra**, que
   és la pregunta de fons de tota aquesta subbranca.
 
