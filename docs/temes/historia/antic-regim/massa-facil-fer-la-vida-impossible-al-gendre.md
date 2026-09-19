@@ -178,8 +178,9 @@ promet i en aquesta secció no els dona.**
    drets de l'hereu. **La font els anuncia i no els dona aquí.**
 6. **Si el lliurament *inestimadament* dels béns de la *pubilla* al marit tenia
    les mateixes conseqüències** que en el dot. **La font no ho diu.**
-7. **Quins *heretaments* preveien la separació** i **sobre quin peu es feia la
-   partició provisional**: **la font diu «alguns» i no en cita cap.**
+7. ~~**Quins *heretaments* preveien la separació** i **sobre quin peu es feia la
+   partició provisional**~~ — **`parcial` el 19-09-2026**: la font confirma que
+   n’hi havia **«alguns»**, però no n’identifica cap ni descriu la partició.
 8. **El procés recent** en què la Justícia va confirmar a tots els graus el
    mecanisme dels dos parents àrbitres.
 
