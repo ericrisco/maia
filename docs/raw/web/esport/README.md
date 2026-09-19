@@ -15,6 +15,7 @@ branca d'esports, que era la més buida del corpus.
 | `olympedia-emili-perez.txt` | Olympedia, fitxa biogràfica d'Emili Pérez — **termes no especificats, només extracte de citació breu** |
 | `national-football-teams-richard-imbernon.txt` | National Football Teams, perfil internacional — **drets reservats, només extracte de citació breu** |
 | `uefa-faf-antoni-giribet.txt` | UEFA i Federació Andorrana de Futbol, presidències d'Antoni Giribet — **drets reservats, només extracte de citació breu** |
+| `bdfutbol-leonel-alves.txt` | BDFutbol, lloc de naixement de Leonel Alves — **drets reservats, només extracte de citació breu** |
 
 ## Avisos
 
