@@ -41,11 +41,13 @@ duana és, en aquest sentit, la institucionalització d'una cosa que ja passava.
 > desglossa en punts, perquè un buit escrit en prosa seguida no es pot tancar
 > per parts.
 
-- ~~**Quan es consolida el model comercial i per quines decisions.** ~~— **`obert`,
-  confirmat.** **El corpus té l'abans i el després i no té la frontissa**: té
-  [el contraban](../../historia/contraban/contraban.md) i té
-  [l'economia el 1997](../transformacio-economica/leconomia-el-1997.md), i no té
-  cap document que dati la consolidació.
+- ~~**Quan es consolida el model comercial i per quines decisions.**~~ —
+  **`parcial` el 2026-09-19**: [l'economia el 1997](../transformacio-economica/leconomia-el-1997.md)
+  fixa els ancoratges del model —**entrada d'Espanya a la CE el 1986**, que
+  redueix el diferencial alimentari, **acord duaner amb la UE el 1991** i
+  l'estructura comercial quantificada el **1995-1997**. **Encara no hi ha el
+  document que dati la consolidació ni que identifiqui una decisió única com a
+  frontissa.**
 - ~~**Què va significar l'acord duaner amb la Comunitat Europea de 1990.**~~ —
   **`parcial`.** **[La duana](./la-duana.md) ho llegeix al Codi de Duana
   vigent**: **Andorra és dos territoris duaners alhora** —el seu propi per als
