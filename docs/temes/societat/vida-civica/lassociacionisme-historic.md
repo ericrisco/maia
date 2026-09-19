@@ -174,8 +174,11 @@ constitució formal— però **cap de les dues ponències no ho diu**, i el corp
 
 ## Buits registrats
 
-1. **La Crema de Canillo**: dates, estatuts, quants associats, si en queda
-   documentació. **El corpus no en té res més que aquest paràgraf.**
+1. ~~**La Crema de Canillo**: dates, estatuts, quants associats, si en queda
+   documentació.~~ — **`parcial` el 19-09-2026**: la fitxa ja en fixa la funció:
+   **rescabalar els danys d'incendi dels immobles dels associats**, una forma
+   d'assegurança mutualitzada de parròquia. Continuen oberts la data, els
+   estatuts, el nombre d'associats i la documentació conservada.
 2. ~~**Els estatuts de la Consòrcia** i si les obligacions d'assistència hi consten
    per escrit.~~ — **`parcial`, actualitzat el 2026-09-19**: el llibre ja és
    localitzat dins del corpus —**Pere Canturri, *La consòrcia de casats
