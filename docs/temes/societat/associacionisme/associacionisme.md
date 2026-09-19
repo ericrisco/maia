@@ -67,7 +67,12 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
   ja documenten l'**Associació de Dones Migrants d'Andorra** i l'**Associació de
   Residents Marroquins**, entre altres ponències. **Encara falta el cens
   sistemàtic d'associacions de cada comunitat, amb dates i activitat.**
-- Els **sindicats** i les patronals.
+- ~~Els **sindicats** i les patronals.~~ — **`parcial` el 2026-09-19**: [la
+  fitxa del sindicalisme](../treball/el-sindicalisme.md) ja documenta el primer
+  SAT (1990), els sindicats sectorials de 2000-2001 i la Llei 32/2018; [el
+  Consell Econòmic i Social](../treball/el-consell-economic-i-social.md) dona
+  la representació de dos agents sindicals i dos de patronals. **Encara falta
+  el cens complet d'organitzacions i les seves dates.**
 - Les entitats de **caça, pesca i muntanya**, que en un país així pesen.
 
 ## Per què això importa per a maia
