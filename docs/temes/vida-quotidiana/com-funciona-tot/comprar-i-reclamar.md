@@ -266,8 +266,13 @@ secrets empresarials**.
   no: la llei no l'anomena mai.** `Requereix font externa: el decret
   d'estructura del ministeri competent en matèria de consum.`
 - ~~**Els títols II i III** (…) **queden per llegir**. Són la meitat de la
-  llei.~~ — **`resolt`** (secció de dalt). **El que segueix obert és el títol V**,
-  el procediment judicial civil i el paper del Ministeri Fiscal.
+  llei.~~ — **`resolt`** (secció de dalt). **El títol V també és resolt**: els
+  articles 50–58, ja buidats a [muntar alguna cosa](../../economia/comerc/muntar-alguna-cosa.md),
+  cobreixen les accions declaratives, de cessació, rectificació i indemnització,
+  la legitimació de perjudicats, associacions i Ministeri Fiscal, la prescripció
+  de tres anys, el procediment civil abreujat, la confiscació de beneficis i la
+  representació internacional. El nom de l'òrgan administratiu que rep la
+  reclamació continua sent una font externa.
 - ~~**Les modalitats especials de venda** (vendes a distància, a domicili,
   rebaixes) (…) la **Llei del comerç** (111 articles) segueix **sense
   llegir**.~~ — **`incorrecte` des d'abans que s'escrivís.** **El corpus ja
@@ -280,13 +285,10 @@ secrets empresarials**.
   mateixa llei que un tercer ja havia buidat.**
 
   **El que sí que queda obert de la Llei del comerç**, i es diu amb precisió:
-  **la venda ambulant, automàtica, domiciliària i en subhasta pública**
-  (arts. 49-70), **els grans establiments**, **el procediment d'obertura** i **el
-  quadre de sancions**. **D'aquestes, el corpus ja en té dues dades**: **tota
-  venda especial necessita autorització prèvia del Govern, tret de l'ambulant,
-  que l'autoritza el comú** (art. 50), i **les vendes piramidals o en cadena i
-  la venda per sota del cost estan prohibides**, amb excepció per a saldos,
-  liquidació i productes peribles a punt de fer-se malbé (art. 91).
+  **els capítols de noms comercials i rètols, franquícies, horaris comercials i
+  publicitat exterior**. El règim de venda ambulant, automàtica, domiciliària i
+  en subhasta pública (arts. 49–70), els grans establiments, el procediment
+  d'obertura i el quadre de sancions ja són buidats a [muntar alguna cosa](../../economia/comerc/muntar-alguna-cosa.md).
 
 ## Related
 
