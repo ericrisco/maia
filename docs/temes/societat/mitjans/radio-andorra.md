@@ -18,7 +18,9 @@ tags: [mitjans, historia, segle-xx, neutralitat, veu]
 > **«Aquí Ràdio Andorra»**
 
 La va pronunciar per primera vegada la locutora **Victòria Zorzano**, el **7
-d'agost de 1939** ([Viquipèdia](../../../fonts/viquipedia-ca.md), i reportatges
+d'agost de 1939** segons la font inicial; la cronologia del Govern distingeix,
+però, **Maria Escrihuela com la primera locutora documentada** i situa Zorzano
+a l'emissora el **27 d'abril de 1940** ([Viquipèdia](../../../fonts/viquipedia-ca.md), i reportatges
 de la [premsa andorrana](../../../fonts/premsa-andorrana.md)).
 
 Aquesta falca va ser, durant dècades, **la manera com un continent sencer sabia
@@ -118,8 +120,14 @@ estat, i qui en té els drets.
 ## El que falta
 
 - El paper d'Andorra durant la Segona Guerra Mundial en conjunt.
-- Qui era **Victòria Zorzano** — la primera veu. Mereix fitxa pròpia.
-- La programació: què s'hi emetia, en quines llengües, i quant en català.
+- ~~Qui era **Victòria Zorzano** — la primera veu.~~ — **`parcial`, confirmat
+  el 19-09-2026**: fitxa pròpia amb la incorporació del 27 d'abril de 1940 i el
+  paper de veu femenina popular; la biografia completa continua oberta.
+- ~~La programació: què s'hi emetia, en quines llengües, i quant en català.~~ —
+  **`parcial`, confirmat el 19-09-2026**: la cronologia del Govern descriu una
+  programació principalment musical, amb francès en ona mitjana durant el dia i
+  castellà en ona curta a la nit; no quantifica el català ni dona la graella
+  completa.
 - ~~Sud Ràdio i el transmissor del **Pic Blanc**.~~ — **`parcial` des del
   2026-09-13.** **De Sud Ràdio, el corpus en té més del que aquesta fitxa
   suposava, repartit en tres articles**, **i amb una data que no encaixa amb la
@@ -131,12 +139,10 @@ estat, i qui en té els drets.
   | **El Consell General les tanca totes dues el mateix dia: 5 de novembre de 1981** | [RTVA](./rtva.md) |
   | **«1951-1958: Ràdio de les Valls; des del 1962, Sud Radio»** | [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md) |
 
-  > `Divergència registrada, no arbitrada:` **aquesta fitxa situa Sud Ràdio com a
-  > resposta francesa d'època indeterminada; l'altre article la data del 1962 i
-  > la fa successora de «Ràdio de les Valls» (1951-1958).** **Cap dels dos no
-  > diu si són la mateixa emissora rebatejada o dues de diferents**, i **entre el
-  > 1958 i el 1962 hi queden quatre anys sense res.** `Requereix font externa: la
-  > cronologia de les concessions radiofòniques franceses a Andorra.`
+  > `Divergència resolta parcialment:` la cronologia del Govern situa **AndoRàdio
+  > el 1958**, després **Ràdio de les Valls i Sud Ràdio**, i data el **pic Blanc
+  > el 1964**; encara falta contrastar els noms comercials amb els contractes de
+  > concessió i la data exacta del canvi a Sud Ràdio.
 
   **Del transmissor del Pic Blanc, en canvi, el corpus només en té la
   constatació que li falta** — i **la té dues vegades**:
@@ -144,8 +150,11 @@ estat, i qui en té els drets.
   **«no documentat»** pel seu compte, raonant que **una emissió comercial des
   del 1939 implica infraestructura de transmissió pròpia.** **Dos articles, el
   mateix buit.** `Requereix font externa.`
-- **Qui era el director acusat**, i **si Ràdio Andorra va ser realment del
-  govern franquista**. **Buit prioritari obert el 2026-09-13.**
+- ~~**Qui era el director acusat**, i **si Ràdio Andorra va ser realment del
+  govern franquista**.~~ — **`parcial`, confirmat el 19-09-2026**: Jacques
+  Trémoulet va ser acusat i condemnat a mort pels tribunals francesos el 1946
+  per col·laboracionisme amb els nazis, i absolt el 1949; la font no prova que
+  l'emissora fos cedida al govern franquista.
 - **Les assemblees magnes** com a instrument de legitimació exterior.
 - El debat del tancament del 1981, amb les dues versions.
 
