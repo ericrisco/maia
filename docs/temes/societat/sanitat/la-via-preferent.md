@@ -170,9 +170,18 @@ decrets.`
 
 ## Buits registrats
 
-- **La via preferent, la llei no la defineix.** Diu «la via que s'estableixi com
-  a preferent **per reglament**», i els reglaments no són al corpus. El corpus
-  sap què costa saltar-se-la i no sap exactament quina és.
+- **La via preferent, la llei no la defineix.** **`parcial` el 2026-09-19**:
+  el [Reglament de l'accés a l'Assistència Sanitària Pública de l'1 d'agost de
+  2018](../../../raw/lleis/bopa/decret-2018-reglament-acces-assistencia-sanitaria.txt)
+  ja és al recull i defineix la **via d'atenció integrada (VAI)** com l'itinerari
+  en què la porta d'entrada és el metge referent o els professionals d'accés
+  directe (art. 1.25); l'article 4.2 diu expressament que la VAI és la **via
+  d'accés preferent** a l'assistència sanitària pública. La regla general és la
+  derivació pel metge referent, amb excepcions per urgències, hospitalització i
+  els accessos directes que el reglament enumera (arts. 4, 9 i 15). **Falta
+  comprovar la versió vigent i les modificacions posteriors**; per això el
+  corpus ja sap què vol dir «via preferent» el 2018, però no ho dona encara com
+  a definició vigent del 2026.
 - ~~**Les tarifes de responsabilitat tampoc hi són**: els percentatges s'apliquen
   sobre una nomenclatura que fixa el Govern i es publica a part.~~ — **`parcial`
   el 17-09-2026: ara se sap on es publiquen i amb quin ritme.** **Les tarifes de
