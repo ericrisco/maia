@@ -232,17 +232,10 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   **El conflicte d'interès s'estén a la família de primer grau i mira cinc anys
   enrere.** **A l'inspector se li exigeix una distància del sector que al
   regulador no se li demana.**
-- **Què hi havia abans d'aquesta llei** —quan i com es va autoritzar el joc a
-  Andorra— és una història que el corpus encara no té. **Té el començament, des
-  del 15-09-2026.** *La cuestión de Andorra* (1894), **pp. 24-25**, narra que **la
-  primera concessió per construir carreteres a Andorra**, feta a una **companyia
-  estrangera** i decretada **pel bisbe oficiant de president honorari del Consell
-  General**, obligava a fer **un llarg tram de carretera abans d'aixecar cap
-  edifici**; que la companyia, **després de simular que hi treballava**, hi va
-  traslladar **una casa portàtil** per **començar el joc «á estilo de Spa y
-  Mónaco»** i finançar la carretera amb els guanys; i que **el bisbe es va posar
-  del costat de la companyia contra el Consell**, de manera que **«á las gentes
-  poco enteradas les parecía que el Consejo General se oponía al juego y que el
-  Sr. Obispo lo patrocinaba»**. **Ni la companyia, ni la data de la concessió, ni
-  si es va arribar a jugar, no consten.** Vegeu [semblava que el bisbe patrocinava
+- ~~**Què hi havia abans d'aquesta llei** —quan i com es va autoritzar el joc a
+  Andorra—~~ — **`parcial` el 19-09-2026**: **La cuestión de Andorra** (1894),
+  **pp. 24-25**, documenta el primer intent conegut —un casino projectat com a
+  annex d'una concessió de carreteres— i el conflicte amb el Consell General.
+  **Encara falten el nom de la companyia, la data i el text de la concessió, i
+  saber si s'hi va arribar a jugar**; vegeu [semblava que el bisbe patrocinava
   el joc](../../historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md).
