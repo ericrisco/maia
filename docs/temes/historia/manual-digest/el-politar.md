@@ -340,11 +340,14 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
    **El capítol VII del Politar és, literalment, el que aquella llei anomena
    «la tradició»**, i **el corpus té el terme final de la sèrie i no el
    principi.** **Buit barat i d'alt rendiment.**
-7. **El títol sencer del Politar no diu el mateix segons l'exemplar**, i **el
-   corpus no ha col·lacionat cap còpia**. Registrat a
-   [els costumaris andorrans](./els-costumaris-andorrans.md), amb **l'avís de
-   Brutails del 1904**: **«serà prudent no acceptar aquests textos sinó sota
-   benefici de revisió»**. **Això afecta totes les citacions d'aquesta fitxa.**
+7. ~~**El títol sencer del Politar no diu el mateix segons l'exemplar**~~ —
+   **`parcial` el 2026-09-19**: [els costumaris andorrans](./els-costumaris-andorrans.md)
+   reprodueix el títol de l'edició de **1983** i el de l'exemplar de la **Casa
+   de la Vall** consultat per Brutails, i en documenta les diferències de país,
+   identificació de Fiter i Rossell, procedència del material i nom de l'autor.
+   **Encara no s'ha fet la col·lació física de còpies**, i l'avís de Brutails del
+   1904 —«serà prudent no acceptar aquests textos sinó sota benefici de revisió»—
+   continua aplicant-se a les citacions.
 
 > **Afegit el 15-09-2026.** **La *cisena* té un privilegi d'origen, i el corpus
 > ja en sap l'autor.** *La cuestión de Andorra* (1894), **p. 20**, parla del
