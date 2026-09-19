@@ -58,3 +58,4 @@ explicar.
 - [Els olímpics d'estiu](./README.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
+- [El rugbi: Els Isards](../seleccions/el-rugbi.md) — la seva convocatòria amb el nom complet.

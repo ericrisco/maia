@@ -243,8 +243,10 @@ la descriu en passat i només en set.**
   2026-09-19]** La fitxa ja confirma que l'equip femení només ha jugat a set i
   que va competir els **anys 2006 i 2007**. Encara en falten les jugadores,
   els partits i els resultats.
-- **Si el Pol Arias de la selecció és el [nedador olímpic](../estiu/pol-arias.md)
-  del mateix nom.**
+- ~~**Si el Pol Arias de la selecció és el [nedador olímpic](../estiu/pol-arias.md)
+  del mateix nom.**~~ — **`resolt` el 19-09-2026**: l'acta oficial de Rugby
+  Europe del partit **Noruega-Andorra del 4 de maig de 2024** escriu el suplent
+  andorrà com **«ARIAS DOURDET Pol»** ([font](../../../fonts/rugbyeurope-pol-arias-2024.md)).
 - **La font declara ella mateixa que l'article té recerca original i poques
   referències** *(«original research», «more footnotes»)*. **El corpus ho
   registra: aquesta fitxa és la menys ben fonamentada de la subbranca.**
