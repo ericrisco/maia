@@ -181,7 +181,7 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 
 1. ~~**Les vint respostes no llegides.**~~ **TANCAT: les vint-i-dues estan
    buidades** a [les respostes de 1994](./les-respostes-de-1994.md).
-2. **De qui és la frase «Andorra és un Estat, però no una nació».**
+2. ~~**De qui és la frase «Andorra és un Estat, però no una nació».**~~ — **`resolt` el 19-09-2026**: és d’**Antoni López Montanya**, que l’escriu gairebé literalment — «Andorra era un estat (entre cometes) i avui, un Estat, però no una nació. Catalunya és una nació, però no un Estat» —; vegeu [les respostes de 1994](./les-respostes-de-1994.md#de-qui-és-la-frase-andorra-és-un-estat-però-no-una-nació).
 3. ~~**Qui eren els seixanta.**~~ — **`no-es-buit`**: Valls diu que **els qui
    no van respondre queden «forçosament en l'anonimat»** i la llista d'enviaments
    no es publica.
