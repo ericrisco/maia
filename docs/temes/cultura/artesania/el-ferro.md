@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: mas-pagesos-i-artesans
-timestamp: 2026-09-12T10:50:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [artesania, ferro, farga, protoindustria, oficis, economia]
 ---
 
@@ -277,8 +277,11 @@ no és qui ho fa, és el món que ho necessitava**.
 
    **La farga era, alhora, la principal indústria i el principal risc
    sanitari del país.**
-6. El **lèxic de l'ofici**: *fornal*, *mola*, *martinet*, *mall*, *encluse*.
-   Contra el *Vocabulari d'Andorra* (1992). **Font prioritària no consultada.**
+6. ~~El **lèxic de l'ofici**: *fornal*, *mola*, *martinet*, *mall*, *encluse*.
+   Contra el *Vocabulari d'Andorra* (1992).~~ — **`parcial` el 19-09-2026**:
+   la ponència de Mas (2002) confirma i contextualitza **fornal, mola i
+   martinet** com a equipament que es mecanitza al segle XX. **Mall, encluse i
+   la confrontació amb el *Vocabulari d'Andorra* (1992) continuen pendents.**
 7. **Noms de ferrers** i cases de ferrer per parròquia. La
    [toponímia](../../territori/toponimia/toponimia-andorrana.md) i els noms de
    casa n'han de conservar.

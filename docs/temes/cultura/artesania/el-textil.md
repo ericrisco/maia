@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: mas-pagesos-i-artesans
-timestamp: 2026-09-12T10:40:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [artesania, textil, economia, confraries, escaldes]
 ---
 
@@ -165,9 +165,12 @@ motiu, no xifres.`
    identifica el Museu de la Llana d’Arsèguel, les màquines en funcionament, les
    peces centenàries i un batà del segle XVII. **Segueixen oberts** el nom, els
    propietaris, l’emplaçament exacte i la maquinària de la fàbrica d’Escaldes.
-5. El **lèxic de l'ofici** —*paraire*, *batan*, *tondre*, *peuc*, *drap*— contra
-   el *Vocabulari d'Andorra* (Badia, Ganyet i Pérez, 1992). **Font prioritària
-   encara no consultada.**
+5. ~~El **lèxic de l'ofici** —*paraire*, *batan*, *tondre*, *peuc*, *drap*— contra
+   el *Vocabulari d'Andorra* (Badia, Ganyet i Pérez, 1992).~~ — **`parcial` el
+   19-09-2026**: Mas (2002) defineix el **paraire** com qui prepara i acaba la
+   llana, esmenta **batanar** i **tondre**, i documenta **peucs** i **drap** en
+   la fàbrica de mantes d'Escaldes. **La confrontació lexicogràfica directa amb
+   el *Vocabulari d'Andorra* (1992) encara no s'ha fet.**
 6. **La resta d'oficis artesans**: fusta, pell, pedra. Mas només en tracta dos.
 
 ## Related
