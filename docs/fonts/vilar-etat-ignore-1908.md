@@ -171,9 +171,13 @@ què el seu successor podia arribar al ministeri el 1908.**
 
    *(Font: `docs/raw/web/historia/viqui-joan_benlloch_i_vivo.txt`, baixada el
    18-09-2026 de la [Viquipèdia](./viquipedia-ca.md).)*
-5. **Les 8 figures i el mapa**, que el text extret no conté. **`parcial` el
-   19-09-2026:** la lectura visual del PDF ha identificat els peus de foto de
-   nou pàgines amb figura i el mapa final (PDF p. 75), amb la pàgina impresa i
-   el text de cada llegenda a la [fitxa local d'il·lustracions](../raw/llibres/andre-vilar-andorre-illustrations.txt).
-   **Segueixen oberts** la discrepància entre el recompte de la portada (8) i
-   les nou figures visibles, l'autoria de les imatges i la seva reutilització.
+5. ~~**Les figures i el mapa**, que el text extret no conté.~~ — **`resolt` el
+   19-09-2026** per inspecció visual del PDF: la còpia conserva **nou pàgines
+   amb figura** (pp. impreses **7, 13, 19, 23, 31, 37, 45, 51 i 55**) i el
+   **mapa «LE VAL D'ANDORRE»** al PDF p. 75, sense numeració impresa. Els peus
+   de foto, la paginació i el text de cada llegenda consten a la [fitxa local
+   d'il·lustracions](../raw/llibres/andre-vilar-andorre-illustrations.txt). La
+   portada diu «Avec 8 figures et une carte»: queda registrat com una
+   discrepància editorial observable, sense inventar-ne la causa.
+6. **L'autoria de les imatges i la seva reutilització**: el volum no les
+   acredita i no consta una llicència específica.
