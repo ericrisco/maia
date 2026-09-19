@@ -307,8 +307,10 @@ Vegeu [els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md).
    externa: els registres parroquials.`
 3. **Els registres de l'Oficialitat** per a les causes matrimonials andorranes.
    `Requereix font externa: l'Arxiu Capitular de la Seu d'Urgell.`
-4. **Quan deixa l'Oficialitat de conèixer de les separacions**, i **què la
-   substitueix**. **La font ho dona com a vigent el 1904.**
+4. ~~**Quan deixa l'Oficialitat de conèixer de les separacions**, i **què la
+   substitueix**.~~ — **`parcial`, actualitzat el 2026-09-19**: la font descriu
+   aquesta competència **com a vigent el 1904**. **Segueixen obertes la data en
+   què va cessar i la institució o procediment que la substituí.**
 5. **La sentència del batlle Jaume Casal**: **la font no la data** —«cap al 1860».
 6. **Les denúncies de noies embarassades del segle XVII**: **sense data ni
    signatura d'arxiu**, i **el corpus no sap si l'ordre «sota pena de mort» era
