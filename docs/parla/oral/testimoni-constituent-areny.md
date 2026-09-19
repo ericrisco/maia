@@ -484,5 +484,11 @@ tot.
 5. **`pro-[?piscopal]`**: *episcopal* amb la vocal inicial caiguda. **Pot ser ell
    o pot ser la màquina**, i és el mateix dubte que `endorrans`.
 6. **De la persona no consta** ni generació exacta, ni llengua primera, ni ofici.
-7. **Falta una parròquia.** Amb aquesta en són sis; **Andorra la Vella és
-   l'única del corpus de parla que encara no té veu.**
+7. ~~**Falta una parròquia.** Amb aquesta en són sis; **Andorra la Vella és
+   l'única del corpus de parla que encara no té veu.**~~ **`resolt`**: el corpus
+   ja té veus d'Andorra la Vella, entre d'altres [Miquel
+   Armengol](./testimoni-constituent-armengol.md), [Antoni Armengol
+   Vila](./testimoni-constituent-armengolvila.md), [Jaume
+   Bartumeu](./testimoni-constituent-bartumeu.md) i [Robert Cassany
+   Vila](./testimoni-constituent-cassanyvila.md). L'avís de la parròquia que
+   faltava era un recompte antic.
