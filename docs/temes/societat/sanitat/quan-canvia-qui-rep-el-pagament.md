@@ -152,11 +152,17 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   La remissió de p. 196 a la nota 18 s’ha resseguit, però no s’hi ha
   identificat una fila SAAS separada que conciliï els imports.
   ([Nota 18, p. 188–190](../../../raw/desocupacio/cass-estats-financers-2018.pdf).)
-- La xifra HNSM de 2017 també varia entre exemplars: **29.014.704 euros**
-  als comptes de 2017 i **28.716.182** als de 2018. No s’ha conciliat
-  aquesta diferència ni s’atribueix automàticament a la transició.
+- La xifra HNSM de 2017 varia entre exemplars: **29.014.704 euros** als
+  comptes de 2017 i **28.716.182** als de 2018. **`Parcial` el 19-09-2026**:
+  la taula de 2017 és una sèrie de despesa liquidada per data de pagament,
+  mentre que els comptes de 2018 presenten la sèrie 2016–2018 i expliquen que
+  els valors de liquidació es mantenen estables després d'**homogeneïtzar les
+  xifres per la transició de 2017**; el mateix volum separa l'activitat per data
+  de prestació i hi declara un augment del 9%. La documentació no aporta encara
+  el pont d'assentaments que permeti reproduir exactament el pas de 29.014.704 a
+  28.716.182, i el buit de conciliació queda obert.
   ([2017, taula p. 34](../../../raw/desocupacio/cass-estats-financers-2017.pdf);
-  [2018, taula p. 37](../../../raw/desocupacio/cass-estats-financers-2018.pdf).)
+  [2018, taula p. 37–38](../../../raw/desocupacio/cass-estats-financers-2018.pdf).)
 - Lectures noves limitades: 2017, portada i p. 21–23, 34–36; 2018,
   portada, p. 37–38, nota 18 p. 188–190 i p. 195–197. Renders 22, 34–35
   de 2017 i 37–38, 196 de 2018 vistos. No els volums complets ni les
