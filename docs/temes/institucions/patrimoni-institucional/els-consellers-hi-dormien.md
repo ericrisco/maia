@@ -183,8 +183,11 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
    que és el que confirmaria la lectura del dipòsit com a residu.
 4. **Si el mer i mixt imperi és dels senyors o dels veguers.** **Dues fonts, dues
    atribucions.** **Obert.**
-5. **La llei de Recesvint del *Fuero Juzgo*** que assigna funció judicial al
-   vicarius, **citada com a 4.II.1.25** i no vista.
+5. ~~**La llei de Recesvint del *Fuero Juzgo*** que assigna funció judicial al
+   vicarius, **citada com a 4.II.1.25** i no vista.~~ — **`parcial` el
+   20-09-2026**: la fitxa ja identifica el **vicarius** com a antecedent del
+   veguer i resumeix que la llei de Recesvint li atribueix **funció judicial**.
+   **El text exacte de l'edició citada (4.II.1.25) encara no és al corpus.**
 6. **El *Llibre de la Cadena* de Peralada**, citat per comparació. **Nou.**
 
 ## Related
