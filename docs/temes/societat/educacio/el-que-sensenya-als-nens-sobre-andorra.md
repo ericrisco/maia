@@ -346,14 +346,18 @@ diversitat lingüística de l'aula.
   resol aquesta absència històrica. `Requereix una cerca per data, no per frase.`
 - **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
   que són els que fixen hores i condicions, **no s'han vist**.
-- ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'ha
-  buidat** aquí, ni els blocs de llengua catalana ni els de música.~~ —
-  **`parcial` el 19-09-2026**: el PDF vigent ja permet buidar l'estructura del
-  bloc 2 (paisatge, usos agrícoles i ramaders, indústria, serveis, urbanització,
+- ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'havia
+  buidat**, ni els blocs de llengua catalana ni els de música.~~ — **`resolt` el
+  19-09-2026**: els annexos de medi de 2021–2022 permeten descriure el bloc 2
+  (paisatge, usos agrícoles i ramaders, indústria, serveis, urbanització,
   comunicacions, migracions, esquí, residus, boscos, espais protegits, energia i
-  canvi climàtic), i el PDF de llengua catalana de primera ensenyança ja deixa
-  llegits els cinc blocs lingüístics. Cap dels dos documents no descriu encara
-  l'aplicació real a aules concretes; música continua oberta.
+  canvi climàtic), i els annexos de llengua catalana de 2021, 2023 i 2024 deixen
+  llegits els blocs d'oralitat, lectura, escriptura, literatura i reflexió sobre
+  la llengua. La música dels decrets locals de 1997 i 1998 també queda llegida:
+  el maternal treballa escolta, cançó, dansa, audició i instruments, i primera
+  ensenyança ho desplega en percepció i comprensió, expressió musical i llenguatge
+  musical. L'aplicació real a aules concretes queda registrada en el buit separat
+  de les dades d'aplicació.
 - **Cap dada d'aplicació**: quants infants segueixen formació andorrana, en quins
   centres, i amb quants ensenyants. `Requereix Estadística o el ministeri.`
 - ~~**La nota-informe sobre l'andorranització del juny de 1972**, que és l'origen
