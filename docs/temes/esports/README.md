@@ -206,8 +206,12 @@ Gairebé tot. El corpus **no té res** sobre:
   ja en documenta la ubicació, la pista nacional, els serveis i les xifres del
   Comú fins al 2011. El cost actual i l'any de construcció continuen oberts a
   aquella fitxa.
-- El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
-  fase 3 i no està recollit enlloc.
+- ~~El **lèxic de la neu i de la muntanya**, que és el que més valdria per a la
+  fase 3 i no estava recollit enlloc.~~ — **`parcial` el 2026-09-19**: [el
+  repertori de la neu](../llengua/manlleus/el-repertori-de-la-neu.md) buida les
+  pàgines 105-280 de l'estudi Montané-Bastida i recupera **967 formes
+  terminològiques** de la neu i l'esquí. **El lèxic general de muntanya encara
+  no té inventari propi.**
 
 ## La via que tancaria dos-cents buits d'aquesta branca, i per què està tancada
 
