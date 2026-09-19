@@ -248,9 +248,12 @@ curadors.**
 5. **Els lligalls de Soldevila de 1783** amb vendes a preu fixat per perits.
 6. **Si la renúncia a l'evicció era corrent** o **excepcional.** **La font en dona un
    cas i no en dona proporció.**
-7. **Quan va deixar de ser obligatori el lliurament a les vendes amistoses**, i **per
-   què es va mantenir a les judicials.** **La font posa les dues coses juntes i no
-   les lliga.**
+7. ~~**Quan va deixar de ser obligatori el lliurament a les vendes amistoses**, i
+   **per què es va mantenir a les judicials.**~~ — **`parcial`, actualitzat el
+   2026-09-19**: la font ja constata que **el 1904** el lliurament no figura com
+   a obligatori en les vendes amistoses, però es manté en les judicials amb
+   formalitats i honoraris. **No dona la data del canvi ni n’explica la causa
+   històrica.**
 8. **Si la fórmula de la quitança fictícia va tenir mai conseqüències judicials**
    —un plet on es demostrés que el preu no s'havia pagat. **El corpus té el
    mecanisme i cap cas.**
