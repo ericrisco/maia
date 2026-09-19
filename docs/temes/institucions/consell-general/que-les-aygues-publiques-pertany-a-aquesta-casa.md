@@ -295,8 +295,13 @@ defensava.`
    `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`~~
 4. **Si el monopoli dels tabacs es va arribar a concedir a una Companyia.** **El
    1904 se'n parlava.**
-5. **Les concessions de casinos**: **quantes, quan i a qui.** **La font les compta
-   entre les nul·les i no en dona cap.**
+5. ~~**Les concessions de casinos**: **quantes, quan i a qui.**~~ — **`parcial`
+   el 19-09-2026**: [el síndic va tornar i es va posar al capdavant del
+   motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)
+   identifica **la concessió de 1866**, anul·lada pel segon síndic **Molins** per
+   manca de consulta a França, i l'acord de prohibició dels coprínceps del
+   **25-02-1881**. **La font continua sense donar el nombre, els altres
+   concessionaris ni els actes complets.**
 6. **La concessió de mines de cap al 1875** i **la més recent**, senceres. **La
    font se'n nega a donar detalls i diu per què**: **per no informar els
    *brasseurs d'affaires*.**

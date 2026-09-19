@@ -229,9 +229,13 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
    de permisos** —cap si el deute és de particular, del síndic per citar cònsols
    i consellers, del Consell per citar el síndic— **amb l'obligació de
    concedir-lo quan els terminis han vençut.** `El § 11 segueix obert.`
-2. **Les concessions de casino anul·lades pels coprínceps**: **quantes, quan, a
-   qui, i amb quin acte.** La font diu **«diversos casos»** i **no en data cap.**
-   `obert, prioritari i datable —són d'abans del 1904 i «ben recents».`
+2. ~~**Les concessions de casino anul·lades pels coprínceps**: **quantes, quan, a
+   qui, i amb quin acte.**~~ — **`parcial` el 19-09-2026**: [el síndic va tornar
+   i es va posar al capdavant del motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)
+   documenta **la concessió de 1866**, anul·lada pel segon síndic **Molins** perquè
+   no s'havia consultat França, i l'acord dels coprínceps del **25-02-1881**, que
+   prohibeix les cases de joc. **Continuen oberts el nombre dels altres casos,
+   els seus concessionaris i els actes complets.**
 3. **Les peticions que els Cosenyors «acaben de rebre»** contra reglaments del
    Consell. `obert.`
 4. ~~**Si les pàgines del Politar que Brutails cita són dins de l'extracte del
