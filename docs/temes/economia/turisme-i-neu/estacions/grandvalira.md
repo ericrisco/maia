@@ -92,8 +92,11 @@ Andorra.**
 
 ## El que falta
 
-- **L'any de la fusió** entre Viladomat i el Comú d'Encamp. **La font en dona el
-  dia i el mes —14 d'agost— i no l'any.** **Buit.**
+- ~~**L'any de la fusió** entre Viladomat i el Comú d'Encamp.~~ — **`parcial` el
+  19-09-2026**: la cronologia situa la fusió **onze anys després de la creació
+  de SAETDE el 1967**, és a dir, **1978** (càlcul del corpus), i la font en dona
+  el dia i el mes (**14 d'agost**). **Encara falta una font que imprimeixi la
+  data completa**, perquè la referència consultada no hi posa l'any.
 - **Qui són les famílies Baró, Salvans i Torrallardona**, que van posar el
   capital de Soldeu el 1964.
 - **Quanta gent hi treballa, i quants són temporers.** Vegeu
