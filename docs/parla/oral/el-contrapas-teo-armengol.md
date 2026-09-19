@@ -7,7 +7,7 @@ veu: originaria
 epoca: contemporania
 apte_llengua: true
 font: ari-capsules
-timestamp: 2026-09-16T19:45:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [parla, danses, contrapas, vestit-tradicional, lexic-marcat, transcripcio-no-verificada]
 ---
 
@@ -304,9 +304,9 @@ està verificada contra l'àudio.**
 ## Buits registrats
 
 1. **Les 197 marques no s'han verificat.**
-2. **`esbar` i `ar` no són evidència fonètica.** Veure sobre. **No s'han de citar
-   com a pronúncia documentada.** `no-es-buit`: és un avís d'interpretació, no
-   una pregunta pendent.
+2. ~~**`esbar` i `ar` no són evidència fonètica.** Veure sobre. **No s'han de citar
+   com a pronúncia documentada.**~~ — **`no-es-buit`**: és un avís d'interpretació,
+   no una pregunta pendent.
 3. **`[?pobilla]`** — **`obert`, i el 16-09-2026 contrastat: no és forma
    documentada.** **El [DCVB](../../fonts/dcvb.md) no té cap entrada `pobilla`**,
    i **el corpus escriu *pubilla* onze vegades**. **Per tant, o és una realització
@@ -318,5 +318,5 @@ està verificada contra l'àudio.**
    *Esbart Dansaire*), `[?Vars] Santana` i `[?Vall] de [?Santana]` per *Ball de
    Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**
 5. **De la persona no consta** ni generació, ni origen, ni llengua primera.
-6. **`miqueta` és d'un sol parlant**: idiolecte fins que no aparegui en un altre.
-   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
+6. ~~**`miqueta` és d'un sol parlant**: idiolecte fins que no aparegui en un altre.~~
+   **`no-es-buit`**: és una limitació d'ús de la mostra, no una pregunta pendent.
