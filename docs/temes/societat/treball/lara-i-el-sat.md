@@ -37,6 +37,21 @@ Ubach el situa amb precisió i el moment ho explica tot
 drets sindicals al seu país d'origen, i els fills de casa bona andorrans que
 tornen de la universitat. **L'ARA és la intersecció d'aquestes dues.**
 
+### El Centre Cultural d'Andorra
+
+El Centre Cultural d'Andorra, fundat el **1975**, va ser un espai obert de
+trobada per a les idees, la cultura i la llibertat d'expressió. Hi havia teatre,
+xerrades, presentacions i activitats de crítica social; en el context de la
+dictadura franquista, també va funcionar com un espai de dissidència i de
+resistència. La recerca de Roser Porta el documenta entre **1975 i 1980** i
+identifica **Jordi Sasplugas** com a impulsor, des de l'Hotel Mirador, i
+**Xavier Rebés** com el president que en va prendre el relleu. La mateixa
+recerca descriu un entorn d'intel·lectuals i metges exiliats, però encara no en
+tenim una nòmina completa.
+
+([font web local](../../../raw/web/cultura/centre-cultural/README.md) ·
+[article d'El Periòdic d'Andorra](https://elperiodic.ad/cultura/un-segell-per-recordar-el-centre-cultural-dandorra-un-espai-de-llibertat-en-temps-dificils/))
+
 Val la pena creuar-ho amb
 [la democratització](../../historia/democratitzacio/democratitzacio.md): el
 procés andorrà que desemboca en la
@@ -118,8 +133,10 @@ parapúblics.
 
 1. **El manifest de l'ARA a Andorra-7** — text i data. **Font primària
    localitzable.**
-2. **El Centre Cultural d'Andorra**: què era, qui hi havia. **El corpus no en té
-   res.**
+2. ~~**El Centre Cultural d'Andorra**: què era, qui hi havia.~~ — **`parcial`,
+   19-09-2026**: ja en tenim la fundació (1975), el període actiu (1975–1980),
+   les activitats, **Jordi Sasplugas** i **Xavier Rebés**; la nòmina completa de
+   participants i la documentació primària encara són buits.
 3. ~~**Noms** dels socis fundadors de l'ARA i del SAT.~~ — **`parcial` el
    18-09-2026**: **Andrés Orihuela**, resident immigrat amb vincles PSUC/PCE,
    n'és un dels impulsors —un obituari el data el 1977, no el 1976— i **més

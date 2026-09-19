@@ -96,7 +96,9 @@ té **més que les vint-i-vuit federacions més petites juntes**.
 federació del país ([l'esquí](./esqui/README.md)).
 
 **El tir és la tercera federació, amb 366 llicències** — més que el rugbi, el
-voleibol o l'atletisme, i el corpus no en té ni una fitxa.
+voleibol o l'atletisme. La branca ja en té una primera fitxa sobre la
+[Federació Andorrana de Tir](./estiu/joan-tomas-roca.md#el-tir-andorrà), però
+encara no en documenta els camps ni la base sencera de practicants.
 
 ### Vuit temporades, i dues coses que un any sol no diu
 
