@@ -285,14 +285,24 @@ el programa explicita que s'integra en els sistemes espanyol i francès i que
 treballa llengua i literatura catalanes des d'un enfocament comunicatiu,
 plurilingüe i intercultural.
 
+### La llengua catalana d'educació maternal
+
+L'annex I del Decret del **21-07-2021** ([29 pàgines, còpia local](../../../raw/web/societat/formacio-andorrana/llengua-catalana-maternal-2021.pdf))
+prioritza la competència oral i l'aproximació escrita i multimodal. Les dues
+competències són intervenir en activitats comunicatives orals guiades i entendre
+i produir aspectes bàsics de la llengua escrita. Els tres blocs són **llengua
+oral**, **llengua escrita** i **literatura infantil** (poemes, contes, cançons,
+dites i altres manifestacions), amb enfocament comunicatiu i atenció a la
+diversitat lingüística de l'aula.
+
 ## Buits registrats
 
 - **Els altres programes nous encara no s'han llegit.** Els annexos del
   **Programa de medi d'Andorra de primera ensenyança (2022)**, d'**educació
   maternal (2021)**, de **ciències humanes i socials de segona ensenyança (2022)**
-  i de **llengua catalana de primera (2024) i segona ensenyança (2023)** ja són
-  al corpus; resten pendents els annexos dels altres nivells. `Parcial: cal
-  baixar i llegir els altres PDF annexos.`
+  i de **llengua catalana de maternal (2021), primera (2024) i segona ensenyança
+  (2023)** ja són al corpus; resten pendents els annexos dels altres nivells.
+  `Parcial: cal baixar i llegir els altres PDF annexos.`
 - **El programa històric de segona ensenyança del 1999** i el de **batxillerat**
   que l'Escola Andorrana esperava per al 2003-04 **no s'han localitzat al BOPA**.
   El programa vigent de segona ensenyança de 2022 ja és al corpus, però no
