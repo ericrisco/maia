@@ -75,7 +75,11 @@ Catalana d'Escacs.**
 
 ## El que falta
 
-- **Quan i per què va passar a competir per Andorra**, el 2000.
+- ~~**Quan i per què va passar a competir per Andorra**, el 2000.~~ — **`parcial`
+  el 2026-09-19**: la fitxa de la font [Òscar de la Riva
+  Aguado](../../../raw/web/esport/estructura/Òscar_de_la_Riva_Aguado-ca.wiki)
+  confirma que **representa la Federació Andorrana des del 2000**. La font no
+  explica **per què** va canviar de federació.
 - **Si viu a Andorra.**
 - ~~**Les seves set Olimpíades** una per una: quins anys, i on.~~ — **`resolt` el 19-09-2026**: la FEVA les situa a **Istanbul (2000), Bled (2002), Calvià (2004), Torí (2006), Dresden (2008), Khanty-Mansysk (2010) i Istanbul (2012)** ([font](../../../fonts/escacsandorra-olimpiades-oscar.md)).
 - ~~**Qui és el número 1 i el número 2 d'Andorra**, si ell n'era el tercer el 2022.~~
