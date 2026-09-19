@@ -63,7 +63,15 @@ per la 25a edició.
 - **Les lletres.** Són text cantat en català d'Andorra: si són de composició
   local i tradicional, poden ser material de
   [parla](../../../parla/README.md) i no només de temes. **Prioritari.**
-- El format concret de Sant Julià: en què consisteix exactament la singularitat.
+- ~~**El format concret de Sant Julià: en què consisteix exactament la
+  singularitat.**~~ — **`parcial` el 2026-09-19**: **la fitxa del [Govern
+  d'Andorra](../../../raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt)
+  confirma que la Coral Rocafort recorre els carrers i s'atura sota balcons o
+  en places per cantar i recollir donatius**; una entrevista a la directora
+  concreta el format actual: **comença a les 11 al Comú, fa unes deu parades i
+  acaba cap a les 14 h**, amb adults de la coral i Petits Cantaires lauredians
+  vestits tradicionalment. **El corpus ja pot explicar la singularitat del
+  recorregut complet de tres hores; queda obert el llistat exacte dels carrers.**
 - Qui són les corals i des de quan.
 - Si hi ha caramelles documentades a l'arxiu abans del segle XX.
 
