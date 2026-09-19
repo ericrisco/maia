@@ -188,14 +188,9 @@ dona la mesura real del que costava moure un pagament.
    parcel·la pagant un cànon** — **que és l'interès**. **A Andorra, a més, el
    dret de recompra sembla il·limitat**, i **als anys setanta encara es
    recuperaven parcel·les venudes al segle XIX pel preu d'aleshores.**
-4. El **crèdit eclesiàstic** medieval a Andorra. — **`obert`, i ara amb el motiu
-   pel qual importa**: **el préstec amb interès era prohibit i condemnat per
-   l'Església**, i **Andorra tenia un copríncep bisbe** — cosa que Becat
-   qualifica de **«circumstància agreujant»** per a l'ús encobert de la carta de
-   gràcia ([la venda a carta de gràcia](./la-carta-de-gracia.md)).
-   **La institució que prestava era també la que ho prohibia.**
-
-   **`parcial` el 17-09-2026, i amb noms.** Les [actes històriques del Consell
+4. ~~El **crèdit eclesiàstic** medieval a Andorra.~~ — **`parcial` el
+   2026-09-17, i amb noms.** El préstec amb interès era prohibit i condemnat per
+   l'Església, però les [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) **documenten qui
    finançava Andorra entre els segles XIV i XVI**, i **l'Església hi és per les
    dues bandes**:
