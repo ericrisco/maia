@@ -55,18 +55,18 @@ l'objectiu de l'eina i els itineraris.)
 
 ## Buits registrats
 
-- **Normativa, primera lectura tancada:** el
-  [reglament de terrenys i la modificació de 2023](el-terreny-sense-classificar-i-les-allaus.md)
-  permeten distingir zonificació urbanística i exposició ATES.
-  Els polígons reglamentaris i la cadena posterior continuen pendents.
+- ~~**Normativa, primera lectura tancada**~~ — **`parcial` el 19-09-2026**:
+  el [reglament de terrenys i la modificació de 2023](el-terreny-sense-classificar-i-les-allaus.md)
+  permeten distingir zonificació urbanística i exposició ATES. Els polígons
+  reglamentaris i la cadena posterior continuen pendents.
 - No s'han inspeccionat els polígons, les fotografies ni els recorreguts
   del visor. No es verifica la classificació o la seguretat de cap ruta.
-- **BPA, primera lectura tancada:** el
+- ~~**BPA, primera lectura tancada**~~ — **`parcial` el 19-09-2026**: el
   [portal oficial i l'avís estacional](les-dates-i-lescala-del-butlleti-dallaus.md)
-  s'han contrastat amb dates i escala. No s'ha llegit un pronòstic
-  hivernal complet ni una sèrie d'accidents. L'inventari històric té
-  una [primera lectura d'Arinsal1996](dos-blaus-diferents-als-mapes-dallaus.md),
-  sense cobrir el conjunt del país ni validar tots els polígons.
+  s'han contrastat amb dates i escala. No s'ha llegit un pronòstic hivernal
+  complet ni una sèrie d'accidents. L'inventari històric té una [primera
+  lectura d'Arinsal1996](dos-blaus-diferents-als-mapes-dallaus.md), sense
+  cobrir el conjunt del país ni validar tots els polígons.
 - Falta contrastar la metodologia tècnica original i la versió
   cartogràfica aplicada a cada zona. Els peus del catàleg i la història
   del projecte s'han llegit sense auditar les dades que els sustenten.
