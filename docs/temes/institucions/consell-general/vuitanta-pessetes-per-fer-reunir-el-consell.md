@@ -452,8 +452,9 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
 6. **Quants membres té el consell de parròquia.** **La font en dona dotze al text
    i deu a la nota**, **i no ho resol.** `divergència interna registrada, no
    arbitrada.`
-7. **Quants consellers elegia Canillo realment.** La font diu **divuit**, i
-   afegeix **«si no m'equivoco»**. `obert, i la font mateixa dubta.`
+7. ~~**Quants consellers elegia Canillo realment.**~~ — **`parcial` el
+   19-09-2026**: la font diu **divuit**, però hi afegeix **«si no m'equivoco»**;
+   el corpus conserva el dubte i no ho pot verificar amb una altra font.
 8. **Qui era Bonaventure Riba Guillaumas** i què deia exactament l'acta del 22 de
    juny de 1805 *(Archives de l'Ariège, Andorre, lligall 2)*. `obert, amb
    signatura.`
