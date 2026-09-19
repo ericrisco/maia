@@ -318,10 +318,13 @@ genètic o neurològic** segons la classificació de l'OMS.
   una eventual esmena i els expedients d’aplicació continuen pendents; no
   s’ha corregit silenciosament cap exemplar. La pàgina CASS de Catalunya
   aporta el tall del 29-07-2026, amb el límit informatiu exposat més amunt.
-- No s’han llegit les normes específiques que puguin desplegar l’accés
-  directe del 8.3, els protocols de derivació o prescripció d’infermeria,
-  els convenis ni la cartera i nomenclatura completes. No s’han consultat
-  expedients, factures, temps d’espera reals o informes de la Cosvai.
+- ~~**Desplegament i aplicació de l’accés sanitari**~~ — **`parcial` el
+  19-09-2026**: l’article 8.3 ja està llegit i identifica ginecologia i
+  obstetrícia, oftalmologia i estomatologia/odontologia com a accessos directes.
+  Encara no s’han llegit les normes específiques de desplegament, els
+  protocols de derivació o prescripció d’infermeria, els convenis ni la
+  cartera i nomenclatura completes. Tampoc no s’han consultat expedients,
+  factures, temps d’espera reals o informes de la Cosvai.
 - ~~El buit d’evidència d’aplicació~~ — **`parcial` el 17-09-2026** amb la
   [lectura de la memòria CASS de 2025](quan-canvia-qui-rep-el-pagament.md):
   imports del canal SAAS i nota explicativa, p. 129, contrastats amb
