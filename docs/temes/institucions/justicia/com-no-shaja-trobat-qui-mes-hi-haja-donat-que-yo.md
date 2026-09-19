@@ -248,10 +248,12 @@ segle XVII** ([abrogats el 1839](./abrogats-el-1839-aplicats-el-1889.md)).
    *immobles* on el sentit demana *mobles*; **el corpus el conserva i no el
    corregeix.** `Queda registrat que aquí el text imprès i el sentit no
    coincideixen, i que el corpus no arbitra.`
-10. **Esmein, *Formation des contrats*, pp. 151 i 153 i següents**, que la font
+10. ~~**Esmein, *Formation des contrats*, pp. 151 i 153 i següents**, que la font
     invoca per dir que **al vell dret germànic el creditor tenia presa sobre els
     mobles i **sobre la persona** del deutor, i no sobre els immobles.**
-    **El corpus registra la referència i no n'adopta la comparació.**
+    **El corpus registra la referència i no n'adopta la comparació.**~~ —
+    **`no-es-buit`**: és una referència bibliogràfica comparativa que la fitxa
+    conserva com a context i declara expressament que no incorpora al corpus.
 
 ## Related
 
