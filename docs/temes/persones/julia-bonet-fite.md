@@ -35,9 +35,10 @@ es va inaugurar el **2004**.
 
 ## Buits registrats
 
-1. **Si Perfumeries Júlia continua sent una empresa familiar avui.** La font
-   documenta la incorporació del marit i les filles al negoci el 1969, però no
-   descriu la propietat actual.
+1. ~~**Si Perfumeries Júlia continua sent una empresa familiar avui.**~~ —
+   **`parcial`, confirmat el 19-09-2026**: una notícia de 2024 identifica Anna
+   Maria Zamora com una de les tres germanes propietàries; no és una
+   certificació registral de l'estructura accionarial de 2026.
 
 ## Related
 

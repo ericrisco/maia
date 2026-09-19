@@ -64,7 +64,9 @@ canvis dràstics.**
 - ~~**Quan la perruqueria passa a ser perfumeria.**~~ — **`parcial`, confirmat
   el 19-09-2026**: la primera perfumeria és de 1969 i Perfumeries Júlia es
   funda el 1987; la transició interna del negoci no queda descrita any per any.
-- **Si Perfumeries Júlia segueix sent familiar.**
+- ~~**Si Perfumeries Júlia segueix sent familiar.**~~ — **`parcial`, confirmat
+  el 19-09-2026**: una notícia de 2024 identifica tres germanes de la família
+  com a propietàries; no acredita l'estructura registral actual.
 
 ## Related
 
