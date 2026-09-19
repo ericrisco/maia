@@ -223,4 +223,6 @@ diferents i totes dues es resolen escoltant**, no raonant.
     d'audiovisuals (`webapps.govern.ad/bbdds_arxius/`) **respon 404** el
     2026-09-13. El fons d'història oral que hi pugui haver queda **pendent**, i
     amb ell la pregunta del consentiment dels informants morts.
-13. **Cap altra càpsula de la sèrie no té la llicència verificada.** Només la #56.
+13. **`no-es-buit`** — **Cap altra càpsula de la sèrie no té la llicència
+    verificada.** Només la #56: és un estat de drets, no una pregunta de
+    contingut.

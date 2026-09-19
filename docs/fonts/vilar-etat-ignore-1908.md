@@ -183,5 +183,6 @@ què el seu successor podia arribar al ministeri el 1908.**
    d'il·lustracions](../raw/llibres/andre-vilar-andorre-illustrations.txt). La
    portada diu «Avec 8 figures et une carte»: queda registrat com una
    discrepància editorial observable, sense inventar-ne la causa.
-6. **L'autoria de les imatges i la seva reutilització**: el volum no les
-   acredita i no consta una llicència específica.
+6. **`no-es-buit`** — **L'autoria de les imatges i la seva reutilització**: el
+   volum no les acredita i no consta una llicència específica. És un avís de
+   drets de la font, no una pregunta de coneixement.
