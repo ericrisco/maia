@@ -71,8 +71,9 @@ sobre xarxa d'estacions i observadors.)
 
 ## Buits registrats
 
-- Primera lectura del BPA tancada amb un avís estacional. Falta una
-  emissió hivernal amb pronòstic complet i contrast de la metodologia EAWS.
+- ~~Primera lectura del BPA tancada amb un avís estacional~~ — **`parcial` el
+  19-09-2026**: falta una emissió hivernal amb pronòstic complet i el contrast
+  de la metodologia EAWS.
 - No s'han llegit dades individuals d'estacions, límits geogràfics precisos
   de les zones ni una sèrie d'actualitzacions. Cap ruta o perill local verificat.
 - No s'ha establert per què difereixen les dates de l'HTML i del PDF.
