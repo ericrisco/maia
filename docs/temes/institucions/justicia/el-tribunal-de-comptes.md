@@ -118,9 +118,12 @@ fet tal com surt del BOPA.
   localitzat. Pot ser pròrroga de funcions (article 22.4, límit de sis
   mesos, insuficient per explicar nou anys), un edicte no publicat de la
   mateixa manera, o simplement no trobat.
-- **Els noms de Carles de Unzueta Rullán, Montserrat Montes Echevarría i
+- ~~**Els noms de Carles de Unzueta Rullán, Montserrat Montes Echevarría i
   Núria López Sellés**: apareixen només al càrrec de membre del Tribunal,
-  sense cap altra dada biogràfica al corpus.
+  sense cap altra dada biogràfica al corpus.~~ — **`parcial` el 20-09-2026**:
+  els quatre edictes ja permeten situar-los: **Unzueta Rullán** hi consta el
+  2000 i el 2006, **Montes Echevarría** el 2015, i **López Sellés** el 2021.
+  **Les seves biografies fora del càrrec continuen sense documentar-se.**
 
 ## Related
 
