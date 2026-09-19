@@ -77,7 +77,10 @@ ritu de pas.**
 
 ## El que falta
 
-- **Les tres parròquies que falten**, amb data.
+- ~~**Les tres parròquies que falten**, amb data.~~ — **`resolt` el
+  2026-09-19**: la taula de dates ja conté **les set parròquies**. **El que
+  continua obert són les divergències de dates** entre les fonts per a Canillo,
+  Sant Julià i Ordino, no l'existència de les festes.
 - **Una fitxa per festa major**, amb el seu programa i els seus actes propis.
 - Els **sants patrons** de cada parròquia, que són qui fixa la data.
 - ~~Els **esbarts** del país — l'Esbart Laurèdia n'és un i el corpus no té la
