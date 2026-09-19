@@ -239,8 +239,9 @@ blanc de qualsevol altra parròquia
   l'exclusivitat geogràfica del mot «cònsol». Les afirmacions anteriors
   queden en una [instantània d'auditoria fora del corpus](../../../raw/consell-general/les-set-parroquies-abans-auditoria-20260913.txt),
   sense considerar-les provades ni refutades.
-- L'article 83 s'ha llegit, però no es desenvolupen aquí la iniciativa
-  legislativa i els recursos d'inconstitucionalitat: cal completar-ne les
-  condicions constitucionals i procedimentals. No s'han llegit expedients
-  concrets d'aplicació en aquesta unitat; la causa 2017-2-L llegida és un
-  recurs directe d'inconstitucionalitat contra la reforma.
+- ~~Lectura de l'article 83 i de la causa 2017-2-L~~ — **`parcial` el
+  19-09-2026**: no es desenvolupen aquí la iniciativa legislativa ni els
+  recursos d'inconstitucionalitat; cal completar-ne les condicions
+  constitucionals i procedimentals. No s'han llegit expedients concrets
+  d'aplicació en aquesta unitat; la causa 2017-2-L és un recurs directe
+  d'inconstitucionalitat contra la reforma.
