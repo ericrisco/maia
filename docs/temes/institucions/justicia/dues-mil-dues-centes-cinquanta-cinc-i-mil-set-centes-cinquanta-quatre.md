@@ -347,7 +347,11 @@ existeixen.**
 
 ## Buits registrats
 
-- **Què vol dir «infracció resolta»**, la font no ho defineix. `pregunta_oberta`
+- ~~**Què vol dir «infracció resolta»**~~ — **`parcial` el 19-09-2026**: l’API
+  separa les sèries d’**infraccions denunciades** i **infraccions resoltes per
+  article**, i la fitxa en calcula la taxa comparant els dos recomptes. La font
+  no defineix formalment si «resolta» vol dir identificació policial, resolució
+  judicial o un altre estat administratiu; aquesta semàntica continua oberta.
 - **Per què les detencions no posades a disposició judicial pugen de 26 a 403 i
   tornen a 46** en poc més d'una dècada. `pregunta_oberta`
 - **Per què les detencions de menors s'aturen el 2013.** Canvi de llei, de
