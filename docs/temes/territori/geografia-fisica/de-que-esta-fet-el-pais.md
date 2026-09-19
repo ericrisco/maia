@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: estadistica-ad
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 tags: [territori, geografia, xifres, urbanisme, bosc, estadistica]
 ---
 
@@ -113,8 +113,13 @@ entren tres de cada quatre vehicles** ([el transport](../../economia/transport/R
 
 ## El que falta
 
-- **De quin any és el mesurament de cobertes del sòl**, i **amb quina
-  cartografia.** `Repetit idèntic el 2020 i el 2024.`
+- ~~**De quin any és el mesurament de cobertes del sòl**, i **amb quina
+  cartografia.** `Repetit idèntic el 2020 i el 2024.`~~ — **`parcial` el
+  19-09-2026**: la nota de font de l'edició 2024 d'[Andorra en
+  xifres](../../../raw/estadistica-xifres/andorra-en-xifres-2024.txt) identifica
+  el **Mapa de cobertes del sòl d'Andorra de l'any 2012 (CENMA)**. El corpus ja
+  pot datar el mesurament i atribuir-lo; encara no té l'escala, la versió de la
+  cartografia ni la metodologia de classificació.
 - **El 0,16% que falta perquè les dotze classes sumin 100.**
 - ~~**El repartiment per parròquia**: la superfície de cadascuna **segueix sense
   font al corpus**, i és la meitat oberta del buit de
