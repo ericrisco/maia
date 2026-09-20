@@ -408,8 +408,7 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    dels prats arrendats amb clàusula expressa de retorn al comú ([notes 2 i 3,
    pp. 172-173](../../../raw/llibres/brutails-coutume.txt)). **No són els decrets
    íntegres amb les seves actes i formalitats.**
-6. **La data del decret de 1849**, que **la font no dona** — **només l'any**, i
-   **l'aprovació del Bisbe que el precedeix.**
+6. ~~**La data del decret de 1849**, que **la font no dona** — **només l'any**, i **l'aprovació del Bisbe que el precedeix.**~~ — **`parcial` el 20-09-2026**: el volum de De los Ríos el situa al **desembre de 1849** i en resumeix l'autorització per als estrangers, però no en dona el dia ni el text íntegre ([font](../../../fonts/rios-urruti-andorra-1920.md)).
 7. **Per què el decret dels pasturatges del 23-05-1746 es va revocar el 04-06-1764 i
    restablir el 20-05-1765.** **Tres dates i cap raó.**
 8. ~~**Cap cas real de retracte.** **La font diu que no en pot citar cap.** **I el
