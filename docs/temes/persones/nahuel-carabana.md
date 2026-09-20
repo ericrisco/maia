@@ -110,8 +110,14 @@ corpus, i queda marcada com a tal.**
    fitxa ja ho documenta — **La Rabassa**, amb el club **NEC La Rabassa-
    Naturlàndia**, i **Noruega**, amb el **Team Aker Dæhlie**. La font no dona
    cap rutina ni calendari més detallat.
-4. **La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
-   Munic.
+4. ~~**La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
+   Munic.~~ — **`resolt` el 2026-09-20**: el [Diari d'Andorra](../../fonts/premsa-nahuel-carabana-2021-2022.md)
+   publica el **12-07-2021** «Nahuel Carabaña, bronze als 3.000 metres
+   obstacles» (Ivan Álvarez) i el **16-08-2022** «Nahuel Carabaña afronta
+   l'Europeu amb ganes i ambició» (redacció, Munic). **El Periòdic d'Andorra**
+   hi afegeix el **03-09-2022** l'opinió «Gràcies, Nahuel Carabaña» (Maria
+   Martisella), que descriu l'ajuda a Axel Vang Christensen i el Premi Fair
+   Play.
 5. ~~**El World Fair Play Award**: any i categoria exactes.~~ — **`resolt` el
    20-09-2026**: **World Fair Play Award**, **27 d'agost de 2022**, en els
    Campionats Europeus Multiesport de Munic, segons la referència de
