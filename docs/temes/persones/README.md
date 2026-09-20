@@ -57,7 +57,7 @@ llista de buits: bona part de les files hi apunten a fitxa.
 | **Josep Dallerès i Codina** | Ex-síndic general, exministre, exambaixador | [què en diu](../politica/parlamentarisme/la-deriva-presidencialista.md) |
 | **Vicenç Mateu i Zamora** | Síndic general, doctor en filosofia, exambaixador | [què en diu](../politica/parlamentarisme/com-funciona-el-consell-general.md) |
 | **Roser Suñé i Pascuet** | **Primera síndica general**, 2019-2023. Mestra, filòloga del català i ambaixadora a Suècia, Noruega i Islàndia | **[fitxa](./roser-sune.md)** |
-| **Guillem d'Areny i Teixidor** | Síndic el **1762**, en conflicte amb el bisbe. **Cent quatre anys abans del de la Nova Reforma, i el mateix cognom** | **buit** |
+| **Guillem d'Areny i Teixidor** | Síndic el **1762**, en conflicte amb el bisbe. **Cent quatre anys abans del de la Nova Reforma, i el mateix cognom** | **`parcial`: parentiu amb Guillem d'Areny-Plandolit obert** |
 | **Francesc Duran (a) Guillemó** | Síndic conservador que tanca la revolució andorrana, **1881**. A la llista hi consta **tres mandats**: 1861-65, 1881-83 i 1886 | [a la llista](./els-sindics-generals.md) |
 | **Marc Forné i Molné** | **El mandat més llarg del càrrec**: cap de Govern **deu anys i mig**, 1994-2005 | [a la llista](./els-caps-de-govern.md) |
 | **Xavier Espot Zamora** | Cap de Govern des del **2019** i **president de DA** | [a la llista](./els-caps-de-govern.md) |
