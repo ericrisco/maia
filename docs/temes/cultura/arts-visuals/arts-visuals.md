@@ -85,8 +85,7 @@ artístic més valuós del país.
   ja llista **vint museus** i en descriu les col·leccions i els equipaments,
   inclòs el **Centre d'Art d'Escaldes-Engordany**. **Encara falta extreure'n un
   inventari específic d'art i d'obres.**
-- L'**art públic**: consta que el Principat promou escultura i instal·lacions
-  repartides pels pobles, i **no n'hi ha cap inventari aquí**.
+- ~~L'**art públic**: consta que el Principat promou escultura i instal·lacions repartides pels pobles, i **no n'hi ha cap inventari aquí**.~~ — **`parcial` el 20-09-2026**: el document pressupostari del Govern per al 2026 inclou la **finalització del registre i mapa d’escultura pública** com a activitat de l’Àrea d’Acció Cultural ([font](../../../raw/web/cultura/museus/consell-general-museu-nacional-objectiu-2026.txt)). El corpus confirma l’existència del projecte, però encara no té el registre ni el mapa publicats per extreure’n l’inventari.
 - La **fotografia històrica** d'Andorra, que per a un país que es va transformar
   tan de pressa és document de primer ordre.
 - El **retaule** i l'**art religiós** posterior al romànic.
