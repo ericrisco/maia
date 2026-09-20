@@ -42,6 +42,10 @@ el corpus hi documenta**.
 **Nou edicions de tir en quaranta anys, i des del 2016 cap.** **El tir és, de
 tots els esports d'estiu, el que Andorra ha mantingut més temps als Jocs.**
 
+**El bolcat dels Jocs d'Atenes 2004** ([font](../../../raw/web/esport/atletes/wikipedia-andorra-atenes-2004.txt),
+Viquipèdia, CC BY-SA 4.0) concreta el resultat de Repiso: **fossa (trap), 106
+punts a la qualificació, 35è lloc i sense passar a la final**.
+
 **I un canvi de disciplina que val la pena notar:** **tots els homes van tirar
 FOSSA** —tir al plat, a l'aire lliure, amb escopeta— i **ella va tirar
 CARRABINA D'AIRE**, que és tir de precisió en sala. **No és el mateix esport.**
@@ -73,9 +77,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de 10 m a
   Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la font li
   dona.**
-- **Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
-  té el nom i la posició**. **No hi ha entrada d'enciclopèdia.** **Buit
-  registrat.**
+- ~~**Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
+  té el nom i la posició**. **No hi ha entrada d'enciclopèdia.**~~ — **`parcial`
+  el 20-09-2026**: el bolcat dels Jocs d'Atenes 2004 dona **fossa (trap), 106
+  punts de qualificació, 35è lloc i sense passar a la final**. **Encara no hi
+  ha una entrada biogràfica independent.**
 - ~~**La federació andorrana de tir.**~~ — **`parcial` el 18-09-2026**: el
   representant actual al COA (2024-2028) és **Marc Otero Rodriguez**
   ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
