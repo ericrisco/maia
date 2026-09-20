@@ -351,8 +351,11 @@ matèries i el lloc de signatura.**
 9. **La resolució de 1288 sobre les muntanyes entre Andorra i Sant Julià**, i
    **l'aclariment de 1435 sobre boscos, pesca i aigua.** **Citats sense
    referència.**
-10. **Quantes parròquies i quants vocals** tenia el Consell abans i després del
-    1775. **La font en dona vint-i-quatre i sis** **per a un sol dia.**
+10. ~~**Quantes parròquies i quants vocals** tenia el Consell abans i després del
+    1775.~~ — **`parcial` el 2026-09-20**: per a la sessió extraordinària del
+    **23 de març de 1775** la font dona **24 vocals** i **6 rectors o vicaris
+    perpetus** de les sis parròquies; no hi ha una sèrie anterior ni posterior
+    per comparar el nombre.
 11. **La versió episcopal** de la sobirania *pro indiviso*. **No hi és.**
 
 ## Related
