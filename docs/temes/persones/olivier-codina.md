@@ -47,8 +47,12 @@ llançar a la producció de ferro.**
 
 ## Buits registrats
 
-1. **El contingut complet de l'obra**, més enllà de la ressenya
-   editorial.
+1. ~~**El contingut complet de l'obra**, més enllà de la ressenya editorial.~~ —
+   **`parcial` el 20-09-2026**: la fitxa ja concreta que *De fer et de laine*
+   cobreix **1575-1875**, l'economia i la societat de les valls andorranes,
+   la ramaderia, l'oligarquia, el comerç transpirinenc i la producció de ferro.
+   El text íntegre i el desenvolupament capítol per capítol encara no s'han
+   consultat.
 2. ~~**Si mai s'ha traduït al català o al castellà** — la font que el
    citava deia que no, el 2018.~~ — **`parcial` el 20-09-2026**: el
    [catàleg de les Presses Universitaires de Perpignan](../../raw/web/persones/historiografia/obres-franceses/pup-codina-2005.txt)
