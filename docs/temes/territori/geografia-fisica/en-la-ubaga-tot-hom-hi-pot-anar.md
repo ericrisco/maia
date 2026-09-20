@@ -351,10 +351,19 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    **La font diu que els reglaments la fixaven i no en dona cap.**~~ —
    **`no-es-buit` el 20-09-2026**: el passatge constata que existien reglaments
    però no n'identifica cap ni en publica la data.
-9. **La muntanya de Just**, on el 1474 es van fitar les pastures d'Encamp i la
-   Massana: **on és, i si el topònim és viu.**
-10. **Si les *filoles* es feien servir a Andorra amb la mateixa funció direccional
-    que a Catalunya**, o **si això és una analogia de l'autor.**
+9. ~~**La muntanya de Just**, on el 1474 es van fitar les pastures d'Encamp i
+   la Massana: **on és, i si el topònim és viu.**~~ — **`parcial` el
+   20-09-2026**: el corpus conserva la referència històrica de **1474** i la
+   vinculació amb les pastures d'Encamp i la Massana, però no té cap mapa ni
+   una font toponímica moderna que permeti situar-la o confirmar que el nom
+   continuï viu.
+10. ~~**Si les *filoles* es feien servir a Andorra amb la mateixa funció
+    direccional que a Catalunya**, o **si això és una analogia de l'autor.**~~ —
+    **`resolt` el 20-09-2026**: la font descriu a Andorra una **fita amb una
+    pedra llarga i dues *filoles*** i diu que **les pedres petites indiquen la
+    direcció del límit**; la comparació amb Catalunya queda expressament
+    separada, perquè allà es poden suprimir quan la fita principal ja marca la
+    direcció.
 
 ## Related
 
