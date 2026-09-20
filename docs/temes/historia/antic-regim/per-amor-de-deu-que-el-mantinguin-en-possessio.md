@@ -192,8 +192,13 @@ pública](./la-institucio-no-es-publica.md).
    `Requereix font externa: els llibres d'acords del Consell General.`
 2. **La *tercera sala* d'Urgell**: **què era, quina jurisdicció tenia i fins quan.**
    **El corpus no la té en cap altra unitat.**
-3. **La petició al Tribunal Superior de partició *per capita*** feta per **qui
-   tenia interès en la *per stirpes***: **sense data i sense explicació.**
+3. ~~**La petició al Tribunal Superior de partició *per capita*** feta per **qui
+   tenia interès en la *per stirpes***: **sense data i sense explicació.**~~ —
+   **`parcial` el 2026-09-20**: la prosa la situa **«més recentment»**, identifica
+   el **Tribunal Superior** i explica que la part demandant tenia interès a fer
+   valer el principi **`per stirpes`**; el pronunciament es basa en raons de fet
+   i deixa intacta la qüestió jurídica. **La data exacta, les parts i el
+   raonament complet continuen oberts.**
 4. ~~**Quants *béns vinculats* hi havia** —la font diu «en petit nombre»— i **si
    alguna d'aquelles presentacions anuals ha deixat rastre escrit.**~~ —
    **`parcial` el 19-09-2026**: la font els qualifica **«en petit nombre»** i
