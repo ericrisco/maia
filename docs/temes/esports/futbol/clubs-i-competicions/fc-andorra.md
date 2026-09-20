@@ -235,8 +235,12 @@ Nike des del 2019.**
   accionista, i **Pyrénées**, «soci prèmium» des del febrer del 2020.
 - **Quant paga el club per jugar a l'Estadi de la FAF**, i **què passa el maig
   del 2026** quan l'acord venci.
-- **El Club Gimnàstic de Manresa**, que el bolcat dona com a planter del club, i
-  **per què el viver del FC Andorra és a Catalunya.**
+- ~~**El Club Gimnàstic de Manresa**, que el bolcat dona com a planter del club, i
+  **per què el viver del FC Andorra és a Catalunya.**~~ **[parcial · 2026-09-20]**:
+  el bolcat del FC Andorra obre la secció juvenil amb `Club Gimnàstic de
+  Manresa`, i la fitxa d'[Iván Rodríguez](../ivan-rodriguez.md) el descriu com
+  a **filial del FC Andorra**. La font no explica per què el viver és a
+  Catalunya.
 - **La Copa Catalunya del 1994** sencera: **el corpus en té el resultat i cap
   nom de plantilla.**
 
