@@ -111,7 +111,7 @@ així avui.`
   partits de Campionat de Nacions Emergents, dues victòries**, a dalt. **Del
   2018 ençà el bolcat no porta res**, i **no diu si és que no s'ha jugat o que
   no consta.**
-- **Si hi ha lliga andorrana d'handbol.**
+- ~~**Si hi ha lliga andorrana d'handbol.**~~ — **`parcial` el 20-09-2026**: l'[Handbol Club Engolasters](../../../raw/web/esport/handbol/hc-engolasters-2026.txt) documenta que el 2016 va competir a la **Lliga de 4a Catalana** i que l'escola actual vol arribar a organitzar una competició regular entre parròquies; la [Federació Andorrana d'Handbol](../../../raw/web/esport/handbol/fahandbol-2026.txt) no publica cap lliga, calendari ni resultat en la consulta. **No queda provada tota l'absència històrica d'una lliga andorrana pròpia.**
 - ~~**Qui és Gerrard Pifarré.**~~ `resolt`: **president de la Federació
   Andorrana d'Handbol.**
 - ~~**La Federació Andorrana d'Handbol no surt a la llista de les vint-i-sis
