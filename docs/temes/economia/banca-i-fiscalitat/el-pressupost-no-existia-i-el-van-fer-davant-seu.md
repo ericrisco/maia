@@ -332,9 +332,17 @@ treball com a impost.**
 4. **El capital de 2.931,89 pessetes d'interessos d'expropiacions rústiques.**
    **Al 5 % serien uns 58.600 pessetes d'expropiacions pendents de pagar**;
    `càlcul del corpus, i el tipus no consta`. **Quantes finques i de qui, no hi és.**
-5. **La concessió elèctrica** que donava llum gratuïta als comuns.
-6. **Quantes centrals telefòniques hi havia** i **quantes telefonistes**. **La
-   partida de 1.450 pessetes no es pot desglossar sense saber-ho.**
+5. ~~**La concessió elèctrica** que donava llum gratuïta als comuns.~~ —
+   **`parcial` el 20-09-2026**: **la font confirma que la gratuïtat dels llums
+   elèctrics dels comuns era una clàusula del contracte de concessió de
+   l'explotador** (p. 116). **No en dona el nom, la data ni el text.**
+6. ~~**Quantes centrals telefòniques hi havia** i **quantes telefonistes**. **La
+   partida de 1.450 pessetes no es pot desglossar sense saber-ho.**~~ —
+   **`parcial` el 20-09-2026**: **la xarxa unia els pobles principals i Andorra la
+   Vella amb la Seu; hi havia una oficina principal a Andorra la Vella i
+   telefonistes a la resta de pobles**, remunerades amb **350 pessetes** i **125
+   pessetes anuals**, respectivament (p. 113). **La font no compta les centrals
+   ni el nombre total de telefonistes i no permet desglossar les 1.450 pessetes.**
 7. **Qui eren «algunas personas de los Valls»** que demanaven un criteri
    impositiu, i **on ho van escriure.**
 8. ~~**El repartiment del llot**: **igual o proporcional.**~~ — **`parcial` el
@@ -343,7 +351,11 @@ treball com a impost.**
    la seva riquesa. **Les dues lectures i les seves dates queden documentades;
    no es pot establir si hi va haver una reforma entre 1904 i 1918 o si una de
    les fonts descriu malament la pràctica.**
-9. **Si les parròquies van començar a fer pressupost mai**, i quan.
+9. ~~**Si les parròquies van començar a fer pressupost mai**, i quan.~~ —
+   **`parcial` el 20-09-2026**: **Ríos Urruti diu que el 1918 els consells
+   parroquials «*no hacen presupuestos*» i que ingressaven sobretot pels
+   arrendaments en subhasta** (p. 116). **La font no permet saber si n'havien fet
+   abans o si en van començar a fer després.**
 
 ## Related
 
