@@ -38,10 +38,22 @@ Caselles**, dels segles XI-XII. Tres estrats en pocs quilòmetres.
 
 Aquest article descriu una posició i no descriu la roca:
 
-- **Què representen els gravats**, de quina època són, com s'han datat.
-- **La llegenda pròpiament dita**: què s'explica del lloc, qui hi feia què. Aquest
-  article porta el nom d'una llegenda i no en conté el relat.
-- L'estat de protecció i d'accés.
+- ~~**Què representen els gravats**, de quina època són, com s'han datat.~~ —
+  **`parcial` el 2026-09-20**: la [fitxa del Govern](../../../fonts/govern-roc-bruxes-2026.md)
+  els divideix en **tres grups**: incisions fondes en V, petites cassoletes o
+  clots picotejats, i incisions fines amb figures humanes i un cavall,
+  probablement medievals. **La fitxa no dona una datació absoluta ni el mètode
+  de datació** dels dos primers grups.
+- ~~**La llegenda pròpiament dita**: què s'explica del lloc, qui hi feia què. Aquest
+  article porta el nom d'una llegenda i no en conté el relat.~~ — **`parcial` el
+  2026-09-20**: la fitxa del Govern conserva la creença que les marques eren
+  **ungles del dimoni** i que les bruixes hi invocaven el mal. **No hi ha el
+  relat complet ni les seves variants.**
+- ~~L'estat de protecció i d'accés.~~ — **`parcial` el 2026-09-20**: el Govern
+  el classifica com a **bé d'interès cultural** i **zona arqueològica**; [una
+  notícia de 2018](../../../fonts/bondia-roc-bruxes-2018.md) recull que el
+  Ministeri el considerava **no obert al públic** i exigia autorització per a
+  visitar-lo. **El règim vigent després de 2018 no queda comprovat.**
 
 **Buit registrat, prioritari.** El patrimoni cultural del Govern i l'Arxiu
 Nacional són fonts primàries que no s'han consultat.
