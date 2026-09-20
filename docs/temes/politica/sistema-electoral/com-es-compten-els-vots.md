@@ -273,5 +273,7 @@ dins de la inhabilitació per a l'exercici de drets públics.
   representació i cobrar, i una candidatura sense partit pot tenir-ne i no
   cobrar.**
 - **Si el sorteig de l'article 61.3 s'ha fet servir mai**, no consta.
-- **Per què es va fixar 28 i no més**, tampoc: la llei dona el número i no el
-  motiu.
+- ~~**Per què es va fixar 28 i no més**~~ — **`parcial` el 2026-09-20**: la
+  Constitució fixa un interval de **28 a 42** consellers i la Llei 44/2022 tria
+  el mínim, amb **14 escons parroquials i 14 nacionals**. La llei dona el
+  número, però no explica per què es va escollir el mínim.
