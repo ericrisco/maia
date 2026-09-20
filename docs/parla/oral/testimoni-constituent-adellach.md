@@ -243,8 +243,11 @@ Aquesta tanda existeix, en bona part, per haver-ho pogut comprovar.
    per al mateix so i una és una paraula existent en el context i l'altra no,
    el dubte es tanca sense escoltar.** **El mot és *escó*, el seient al Consell**,
    i **la transcripció es queda com està.**
-4. **Noms mal sentits**: `l'Enric Dolça` per *Enric Dolsa*, `l'Andreu [?Gaspar]`
-   per *Andreu Gaspà*, `[?l'espot]` per *l'espot* publicitari o per *Espot*.
+4. ~~**Noms mal sentits**: `l'Enric Dolça` per *Enric Dolsa*, `l'Andreu [?Gaspar]`
+   per *Andreu Gaspà*, `[?l'espot]` per *l'espot* publicitari o per *Espot*.~~ —
+   **`resolt` el 20-09-2026**: la [llista dels constituents](qui-eren-els-constituents.md)
+   confirma **Enric Dolsa Font** i **Andreu Gaspà Picart**; i la mateixa
+   transcripció concreta «**l'espot publicitari**» en la frase següent.
 
 **Sobre els trets**
 
