@@ -413,11 +413,12 @@ el corpus la reté com a **posició**, no com a descripció neutra.
    que no apareix a la cerca: entre la llei del novembre del 1993 —que cobria fins
    al maig del 1994— i la del juny del 1995 hi ha un any sense norma localitzada.`
 6. ~~**Les revisions mèdiques dels immigrants** (reglament del 15.06.1993): què
-   comprovaven i amb quines conseqüències.~~ **PARCIALMENT TANCAT**: segons
-   l'ADMA, el protocol excloïa **no sols malalties infectocontagioses o defectes
-   físics greus, sinó diabetis, hepatitis C i sordesa**, i **el pagava
-   l'immigrant** ([les dones migrants el 1997](./les-dones-migrants-el-1997.md)).
-   **El text del protocol segueix sense veure's.**
+   comprovaven i amb quines conseqüències.~~ — **`resolt` el 21-09-2026**: el
+   [reglament de 15.06.1993](../../../raw/lleis/bopa/reglament-revisions-mediques-immigrants-1993.txt)
+   fixa les proves (PPD, analítiques i exploració), les exclusions de l'article 19,
+   els resultats, el recurs i el pagament de les proves complementàries. La fitxa
+   [Les dones migrants el 1997](./les-dones-migrants-el-1997.md) conserva la
+   divergència: diabetis, hepatitis C i sordesa no hi figuren literalment.
 7. ~~**La incoherència de les dues sèries de percentatges.**~~ **TANCADA** (vegeu
    més amunt).
 8. **Què va ser de la Comissió mixta d'alt nivell** després del 1993.
