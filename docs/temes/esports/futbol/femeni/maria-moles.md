@@ -46,11 +46,10 @@ afirma parentiu i registra la coincidència.**
 
 ## El que falta
 
-- **On va néixer.** — **provat el 18-09-2026 i segueix obert**: **Wikidata
-  només dona el país (Andorra)**, la **Viquipèdia en anglès no té camp de lloc
-  de naixement**, i **cap font trobada arrisca una parròquia.** És l'única de
-  les vuit fitxes d'aquesta sèrie que no es mou. Vegeu [l'avís sobre aquesta
-  sèrie de buits](../README.md#els-altres-cinquanta-tres).
+- ~~**On va néixer.**~~ — **`no-es-buit` el 20-09-2026**: **Wikidata només
+  dona el país (Andorra)**, la **Viquipèdia en anglès no té camp de lloc de
+  naixement**, i **cap font local trobada publica una parròquia**. El corpus no
+  en dedueix cap. Vegeu [l'avís sobre aquesta sèrie de buits](../README.md#els-altres-cinquanta-tres).
 - ~~**Quants partits té realment.**~~ **[parcial · 2026-09-19]** Les fonts
   internes divergeixen: la llista dona **1 partit amb Andorra**, mentre la
   plantilla del 2025 en dona **5**. La fitxa confirma a més **3 partits amb la
