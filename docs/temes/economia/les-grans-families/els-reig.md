@@ -84,8 +84,9 @@ tenia és que la mateixa nissaga tingués també una tabaquera canària.**
 
 **Això toca [les capçaleres](../../societat/mitjans/les-capcaleres.md) i
 [els mitjans](../../societat/mitjans/README.md), i cap de les dues no tenia la
-propietat registrada.** **Buit obert: què publica Premsa Andorrana i des de
-quan.**
+propietat registrada.** **Buit parcial: ja consta que Premsa Andorrana edita el
+*Diari d'Andorra* i algunes publicacions, però el catàleg complet i la data
+d'inici de cada capçalera encara no hi són.**
 
 ### Fundació i museus
 
