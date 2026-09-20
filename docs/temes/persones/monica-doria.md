@@ -136,7 +136,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    2014**, que està establerta a **Espanya** i que **competeix per Andorra**
    ([font local](../../raw/web/esport/atletes/Mònica_Dòria.wiki)).
    **Per què representa Andorra** continua sense explicar-se.
-5. **Per què competeix per Andorra.**
+5. ~~**Per què competeix per Andorra.**~~ — **`parcial` el 2026-09-20**: [Altaveu](../../fonts/altaveu-monica-doria-nacionalitat-2024.md) documenta que només disposa del **passaport andorrà**, que va tenir passaport espanyol de petita i que **als 18 anys va renunciar a la nacionalitat espanyola**; la FACC confirma que **mai no ha competit internacionalment per Espanya** i que la fitxa federativa homologada als dos països només li permet competir en campionats nacionals. **La font no explica el motiu personal de la tria.**
 6. ~~**Si hi ha més piragüistes andorrans.**~~ — **`resolt` el
    18-09-2026**: **sí, almenys dos més**: **Nil Checa** i **Ona
    Perelegre** (16 anys, debutant en Copa del Món absoluta el 2026)
