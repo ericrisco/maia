@@ -170,8 +170,7 @@ pràcticament nul».**
   fins al **1991**. La font no dona la llista ni els imports individuals dels
   dipositants, de manera que aquesta part no es pot reconstruir amb aquesta
   font. **`no-es-buit`**
-- **La sèrie d'assalariats per sector entre el 1979 i el 1990.** La ponència
-  només dona els dos extrems. `serie_estadistica`
+- ~~**La sèrie d'assalariats per sector entre el 1979 i el 1990.** La ponència només dona els dos extrems.~~ — **`no-es-buit` el 20-09-2026**: la font és una fotografia amb les taules de 1979 i 1990; no publica la sèrie anual intermèdia.
 - **L'enquesta de la conselleria de Turisme i Esports del 1988**, sencera.
   `font_externa`
 - **Si el subsector financer «sense permís» que descriu va deixar cap rastre
