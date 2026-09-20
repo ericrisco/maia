@@ -61,8 +61,10 @@ de les Escaldes.
 
 ## Buits registrats
 
-1. **Detall de la seva actuació com a president del Consell Superior de
-   la Justícia (1999-2005).**
+1. ~~**Detall de la seva actuació com a president del Consell Superior de
+   la Justícia (1999-2005).**~~ — **`parcial` el 20-09-2026**: la fitxa ja
+   fixa el mandat de **1999 a 2005**, però el corpus encara no conserva cap
+   decisió, memòria o actuació concreta que se li pugui atribuir.
 2. **El contingut del seu pròleg al Politar del 1982**, encara no
    consultat pel corpus.
 
