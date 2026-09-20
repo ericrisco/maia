@@ -100,8 +100,14 @@ Andorra.**
   Viladomat per SAETDE, i la font que ja donava el dia conserva el **14
   d'agost**. **Queda oberta només la prova que totes dues referències descriuen
   exactament el mateix acte i no dues fases de la integració.**
-- **Qui són les famílies Baró, Salvans i Torrallardona**, que van posar el
-  capital de Soldeu el 1964.
+- ~~**Qui són les famílies Baró, Salvans i Torrallardona**, que van posar el
+  capital de Soldeu el 1964.~~ — **`parcial` el 20-09-2026**: la història
+  institucional de Creand identifica els tres socis fundadors com **Miquel
+  Baró, Martí Salvans i Josep Torrallardona**, que el **1963** van crear ENSISA
+  i van promoure l'estació de Soldeu amb el suport financer de Crèdit Andorrà
+  ([font conservada](../../../../raw/web/economia/creand-75-anys-1968-sobanca.txt)).
+  La font no aporta encara la genealogia ni les biografies completes de les
+  tres famílies.
 - **Quanta gent hi treballa, i quants són temporers.** Vegeu
   [treball](../../../societat/treball/treball.md).
 - **Quant factura.**
