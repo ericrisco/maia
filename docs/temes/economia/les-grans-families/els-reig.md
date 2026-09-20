@@ -133,7 +133,13 @@ vint anys, i part de la informació pot ser caduca.**
   des del 26 d'abril del 2023**, ja documentat a
   [els síndics generals](../../persones/els-sindics-generals.md). **El
   corpus no l'havia creuat mai amb la seva mare.**
-- **Premsa Andorrana**: **què edita.**
+- ~~**Premsa Andorrana**: **què edita.**~~ — **`parcial` el 2026-09-20**:
+  el peu d'un article local del *Diari d'Andorra* identifica **Premsa
+  Andorrana** com l'empresa editora del diari ([font](../../../raw/web/esport/linan-diariandorra.txt)),
+  i el catàleg local conserva diverses publicacions de **2016** amb
+  **Premsa Andorrana** com a peu editorial ([catàleg](../../../raw/web/cultura/ferro/govern-ferro-2017.txt)).
+  Queden oberts el catàleg complet i des de quan edita cadascuna d'aquestes
+  capçaleres o col·leccions.
 - **L'estructura real de propietat** de cadascuna de les societats citades.
 - ~~**Les altres grans famílies.**~~ **`parcial`: la font en documenta una; n'hi
   ha més, i el corpus té
