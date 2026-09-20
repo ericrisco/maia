@@ -258,13 +258,18 @@ sí.**
 
 ## Buits registrats
 
-1. **Si la quarta era imperativa (privilegi de 1608) o facultativa a instància
-   del creditor (*Instructa* de 1740).** `Registrat, no arbitrat.`
-   **Prioritari**: **el corpus no descarta que siguin dues coses diferents** —**la
-   rebaixa del preu de sortida i la pèrdua del quart en l'adjudicació**— **i la
-   font no les distingeix.** `Requereix el privilegi de 1608 sencer.`
-2. **Si «reservar **al pages** lo parell de llaurar» limita la protecció als
-   pagesos** o **és una designació genèrica.** **El corpus no ho afirma.**
+1. ~~**Si la quarta era imperativa (privilegi de 1608) o facultativa a instància
+   del creditor (*Instructa* de 1740).**~~ — **`parcial` el 20-09-2026**: el
+   privilegi de **1608** diu «**ni més ni manco**», mentre la *Instructa* de
+   **1740** permet al batlle fer perdre la quarta «**si la part instant ho vol**».
+   El corpus conserva la divergència i les dues lectures possibles —rebaixa del
+   preu de sortida o pèrdua del quart en l'adjudicació—, però necessita el
+   privilegi sencer per decidir si són dues operacions o un canvi de regla.
+2. ~~**Si «reservar **al pages** lo parell de llaurar» limita la protecció als
+   pagesos** o **és una designació genèrica.**~~ — **`parcial` el 20-09-2026**:
+   el text adreça la reserva «**al pages**» i protegeix alhora el parell de
+   llaurar i la bèstia de carreig, però només hi ha aquesta atestació i la font no
+   defineix si *pages* és un ofici jurídicament limitat o una designació genèrica.
 3. ~~**Què era la ***ressenya* o *mostra d'armes*** de les parròquies: **cada quan
    es feia, qui hi havia d'anar i amb què.** ~~— **`obert`, confirmat el
    16-09-2026 sobre la peça mateixa** (p. LIII, PDF 73). **La *Instructa* la
