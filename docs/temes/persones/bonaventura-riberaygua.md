@@ -55,8 +55,12 @@ documentació llençada.**
 
 ## Buits registrats
 
-1. **El contingut del fons de 200 documents** recuperat el 2016, un cop
-   catalogat.
+1. ~~**El contingut del fons de 200 documents** recuperat el 2016, un cop
+   catalogat.~~ — **`parcial` el 20-09-2026**: la mateixa biografia ja
+   documenta **uns dos-cents documents oficials**, amb segells del Comú i de
+   la Sindicatura, datats als **anys vint i quaranta del segle XX**, i que es
+   van dipositar a l'Arxiu Nacional per a desinfecció i catalogació. Encara no
+   hi ha l'inventari ni el contingut peça per peça.
 2. **Detall de la seva formació** abans d'arribar al càrrec de secretari.
 
 ## Related
