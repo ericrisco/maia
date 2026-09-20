@@ -69,9 +69,14 @@ olímpics** i **el buit es tanca amb números, no amb una línia.**
 - **El seu club.** **Les fonts consultades l'associen al Club de Tir la
   Rabassa**, i **el corpus no ho dona per provat amb una font pròpia del club o
   de la federació.** `font_externa`
-- **Com hi va accedir**: **per mínima o per plaça d'universalitat**
+- ~~**Com hi va accedir**: **per mínima o per plaça d'universalitat**
   ([la plaça d'universalitat](./santiago-deu.md#la-placa-duniversalitat-que-explica-mitja-branca)).
-  **Cap font consultada no ho diu.** `pregunta_oberta`
+  **Cap font consultada no ho diu.**~~ — **`parcial` el 20-09-2026**: el
+  bolcat de la prova de *trap* explica que l'accés exigia una **quota olímpica
+  obtinguda pel comitè nacional**, una **classificació creuada** des del *double
+  trap* o una de les **places d'invitació i addicionals**; la font no assigna
+  cap d'aquestes vies a Repiso individualment
+  ([resultats i criteris de classificació de la prova](../../../raw/web/esport/atletes/wikipedia-trap-atenes-2004.txt)).
 
 ## Related
 
