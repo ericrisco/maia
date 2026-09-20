@@ -165,6 +165,32 @@ el perfil d'una població escolar que envelleix per la base**, i encaixa amb el
 que el corpus té de demografia
 ([les tres migracions](../demografia/les-tres-migracions.md)).
 
+## Qui es mou per anar a escola
+
+La nota de l'A024 del curs **2023/2024** creua la parròquia de residència amb la
+del centre. A **primera ensenyança**, **2.814 de 4.218 alumnes (66,7%)** estudien
+a la mateixa parròquia i **1.404 (33,3%)** en una altra. A **segona ensenyança**
+la mobilitat és gairebé el doble: **2.236 de 3.505 (63,8%)** estudien fora de la
+parròquia de residència i només **1.269 (36,2%)** s'hi queden.
+
+| Residència | Primera: mateixa | Primera: altra | Segona: mateixa | Segona: altra |
+| --- | ---: | ---: | ---: | ---: |
+| Canillo | 178 (80,2%) | 44 (19,8%) | 0 (0,0%) | 175 (100,0%) |
+| Encamp | 397 (70,9%) | 163 (29,1%) | 221 (45,3%) | 267 (54,7%) |
+| Ordino | 252 (73,5%) | 91 (26,5%) | 132 (49,4%) | 135 (50,6%) |
+| La Massana | 350 (63,5%) | 201 (36,5%) | 52 (10,5%) | 445 (89,5%) |
+| Andorra la Vella | 838 (73,4%) | 303 (26,6%) | 812 (89,7%) | 93 (10,3%) |
+| Sant Julià de Lòria | 288 (60,0%) | 192 (40,0%) | 0 (0,0%) | 415 (100,0%) |
+| Escaldes-Engordany | 511 (73,2%) | 187 (26,8%) | 52 (9,0%) | 527 (91,0%) |
+
+La font mostra dues geografies escolars: la primera ensenyança és sobretot de
+proximitat, mentre que la segona concentra els desplaçaments cap a altres
+parròquies —especialment des de la Massana i Escaldes— i deixa Canillo i Sant
+Julià sense cap alumne resident que estudiï a la mateixa parròquia.
+
+([fitxer primari de l'A024](../../../raw/estadistica-sondeig-2024/a024-20241118.txt),
+apartats 3.1 i 3.2.)
+
 ## Comprovacions
 
 - **Les dues taules de cinc anys sumen exactament el total imprès, els cinc
@@ -205,8 +231,12 @@ que el corpus té de demografia
   l'andorrà (**2.200 → 4.700**) i l'anglès (**0 → 252**), i l'espanyol es
   recupera fins a **3.047**; aquestes dades descriuen el canvi de composició,
   però la font no n'estableix la causa.
-- **La mobilitat escolar per parròquies**, que la nota publica als apartats 3.1
-  i 3.2 i **el corpus no ha llegit**.
+- ~~**La mobilitat escolar per parròquies**, que la nota publica als apartats
+  3.1 i 3.2 i **el corpus no ha llegit**.~~ — **`resolt` el 20-09-2026**: la
+  taula de l'A024 del curs 2023/2024 creua residència i centre per a primera i
+  segona ensenyança. La primera es mou fora en **1.404 de 4.218 casos (33,3%)**;
+  la segona, en **2.236 de 3.505 (63,8%)**. El desglossament per parròquia queda
+  incorporat a «Qui es mou per anar a escola».
 
 ## Related
 
