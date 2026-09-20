@@ -84,9 +84,9 @@ seria pitjor.** Vegeu [el criteri](./README.md).
   [els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
   tenia obert**: **aquella fitxa té medallers per edició i cap nom, i aquesta
   hi posa deu noms de cop.**
-- **On va néixer, quin club** — **`obert`, i el motiu és de font**: **l'infobox
-  d'aquest bolcat no té ni `birth_place` ni `club`.** **Només hi ha la data: 1
-  de juny del 1975.**
+- ~~**On va néixer, quin club**~~ — **`no-es-buit` el 20-09-2026**: l'infobox
+  del bolcat no té ni `birth_place` ni `club`; només hi consta la data, **1 de
+  juny del 1975**.
 - ~~**quan va plegar**~~ — **`parcial`**: **l'última competició que el bolcat li
   registra és el Mundial de Berlín del 2009**, i **el text el tracta com a
   exatleta**. **Una última data no és una retirada, i el corpus no la converteix

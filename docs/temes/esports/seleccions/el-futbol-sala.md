@@ -172,8 +172,9 @@ el bolcat no diu és si hi ha competició andorrana pròpia.**
   internacionalitat amb la selecció de **futbol** (2011), i no l'inclou en cap
   selecció nacional de sala. **Queda oberta la prova d'una convocatòria o partit
   internacional de futbol sala.**
-- **Els màxims internacionals i els màxims golejadors històrics.** **El bolcat
-  deixa els dos camps buits.**
+- ~~**Els màxims internacionals i els màxims golejadors històrics.**~~ —
+  **`no-es-buit` el 20-09-2026**: el bolcat local deixa buits els dos camps i
+  només permet conservar els resultats i els convocats que sí hi publica.
 - ~~**L'ENFAF CM Andorra**, que **posa sis dels catorze convocats** i **no té
   fitxa al corpus.**~~ **`parcial`:** aquesta fitxa ja identifica el club i
   els sis internacionals que hi juguen; encara no hi ha fitxa pròpia del club.
