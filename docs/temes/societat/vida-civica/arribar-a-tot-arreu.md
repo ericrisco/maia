@@ -174,4 +174,12 @@ donar dades veraces** (article 43.2).
   sencera.** **El percentatge concret segueix essent reglamentari** —el
   desplega el **Reglament d'accessibilitat**, modificat per Decret de l'11-3-2014
   (butlletí 21 del 2015)—, **i aquesta és la peça que encara falta.**
-- **Si la Comissió ha emès cap informe** des del 2025, no consta.
+- ~~**Si la Comissió ha emès cap informe** des del 2025, no consta.~~ —
+  **`parcial` el 21-09-2026**: la Llei 24/2025 fixa que la Comissió ha
+  d'elaborar un **informe general cada tres anys** ([article 43](../../../raw/lleis/bopa/llei-24-2025-accessibilitat-universal.txt)).
+  La fitxa documenta que el reglament de la Comissió es va aprovar el juny de
+  2026 i que la designació dels representants es va publicar el juny i el juliol
+  del mateix any. Amb una comissió acabada de constituir i una periodicitat
+  triennal, el corpus no té cap informe posterior a 2025 per consultar; això
+  fixa el calendari, però no permet afirmar que no s'hagi emès cap informe
+  especial o consultiu.
