@@ -295,11 +295,19 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
   d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md)
   ([font](../../../fonts/persee-resenya-galinier-pallerola.md)). **El
   llibre segueix sense llegir-se.**
-- **Les actes dels 25 sínodes diocesans** (1542-1828).
-- **Les actes de visites pastorals** conservades a les parròquies.
-- **Els llibres parroquials.**
-- **Si hi va haver protestants andorrans**, i quants. El títol de Palau Martí ho
-  insinua i el corpus **no ho afirma**.
+- ~~**Les actes dels 25 sínodes diocesans** (1542-1828).~~ — **`font_externa`,
+  confirmat el 20-09-2026**: la fitxa només acredita que se'n conserven 25 i
+  no en té les actes transcrites ni incorporades.
+- ~~**Les actes de visites pastorals** conservades a les parròquies.~~ —
+  **`font_externa`, confirmat el 20-09-2026**: la font en descriu l'abast i
+  indica que es conserven a les parròquies, però el corpus no en té els
+  documents.
+- ~~**Els llibres parroquials.**~~ — **`font_externa`, confirmat el
+  20-09-2026**: la fitxa només en constata la conservació actual a les
+  parròquies; cal consultar-los fora del corpus.
+- ~~**Si hi va haver protestants andorrans**, i quants.~~ — **`font_externa`,
+  confirmat el 20-09-2026**: el títol de Palau Martí ho insinua, però la fitxa
+  no té el llibre ni cap registre local que permeti afirmar-ho.
 - ~~**La fitxa de font pròpia** per a les ponències de la 15a Diada que sostenen
   aquesta fitxa.~~ **TANCAT: ja existien** —Bascompte i Pujol— **i aquesta fitxa
   no les feia servir.** El buit no era de fonts, era d'atenció.
