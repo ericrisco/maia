@@ -270,7 +270,12 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
    registra la hipòtesi que les tres són la mateixa paraula** —amb l'article
    aglutinat a *assecle*— **i no l'afirma**: **cap font del corpus no ho
    documenta**, i **la parlant no les usa mai en la mateixa frase.**
-4. **`[?Tobira]`** (×4), el molí d'Andorra la Vella, **no s'ha identificat**.
+4. ~~**`[?Tobira]`** (×4), el molí d'Andorra la Vella, **no s'ha identificat**.~~ —
+   **`parcial` el 20-09-2026**: [els annexos dels topònims](../../temes/territori/toponimia/els-annexos-dels-toponims.md)
+   identifica **Tobira** com un carrer del barri vell, de Quatre Camins al riu,
+   i una de les velles entrades a la vila. Això fixa el topònim actual, però
+   la mateixa font diu que no n'ha trobat cap referència històrica i encara no
+   documenta el molí ni la seva ubicació exacta.
 5. ~~**Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.~~ —
    **`no-es-buit` el 20-09-2026**: la peça indica que sap els mots **per recerca**
    i que l'informant era «un vell moliner» que el corpus no té enregistrat; no
