@@ -130,10 +130,12 @@ Vegeu [la toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md
   s.** **És el recull de referència i el corpus no l'ha obert.** **Buit
   prioritari per a tota la branca.**
 - **Martina Camiade (2005)**, l'article citat més amunt.
-- **Quin bisbe.** **La llegenda diu «en temps remots» i cap font no l'anomena.**
-- **Quin síndic.**
-- **Des de quan es documenta la llegenda.** **Cap font d'aquestes en dona la
-  primera aparició escrita.**
+- ~~**Quin bisbe.**~~ — **`no-es-buit` el 20-09-2026**: la llegenda només diu
+  «en temps remots» i cap font local no l'anomena.
+- ~~**Quin síndic.**~~ — **`no-es-buit` el 20-09-2026**: el relat només diu «un
+  síndic» i no en dona el nom.
+- ~~**Des de quan es documenta la llegenda.**~~ — **`no-es-buit` el 20-09-2026**:
+  cap de les fonts locals consultades no dona la primera aparició escrita.
 - **Toni Cruz**, l'escultor.
 
 ## Related
