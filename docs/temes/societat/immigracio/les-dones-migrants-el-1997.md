@@ -82,8 +82,38 @@ revisions mèdiques dels immigrants i amb quines conseqüències
 confirmada — **i pagant-se la prova un mateix**. El corpus ho registra amb
 l'avís que **és el que denuncia l'ADMA i que no n'ha vist el protocol**.
 
-**Buit registrat, prioritari:** **el text del protocol de salut** i la llista de
-causes d'exclusió.
+### El reglament que l'ADMA no havia vist
+
+El **Reglament regulador de les revisions mèdiques dels immigrants**, acordat el
+**9 de juny de 1993** i publicat amb data **15 de juny de 1993**, concreta el
+circuit ([text del reglament](../../../raw/lleis/bopa/reglament-revisions-mediques-immigrants-1993.txt)):
+
+- **Obligació universal per al treball assalariat**, també per a presència
+  transitòria laboral (art. 1), amb convocatòria de l'Oficina de Treball i
+  execució pel Servei Mèdic d'Immigració (arts. 4, 6 i 9).
+- **Proves:** exploració clínica, PPD de tuberculina, radioscòpia si el PPD és
+  positiu, analítica de sang i orina, anamnesi i exploració física completa;
+  els menors també passen la verificació de vacunes (art. 12).
+- **No aptitud:** malalties quarantenables del Reglament Sanitari Internacional,
+  tuberculosi activa, malalties amb hospitalitzacions llargues, toxicomanies,
+  alteracions psicomentals greus i defectes físics o psíquics incapacitants
+  (art. 19). Les proves complementàries o tractaments que se'n derivin van a
+  càrrec de la persona interessada (art. 13).
+- El resultat podia ser **apte**, **no apte per incompareixença** o **no apte per
+  malaltia o incapacitat**, amb la causa expressada i **recurs de reposició en
+  tretze dies hàbils** (arts. 15 i 21). Els temporers podien rebre una
+  autorització limitada i no renovable si la malaltia no implicava encara
+  hospitalització (art. 20).
+
+**Això tanca el protocol i la llista normativa d'exclusions**, però també obliga a
+separar les fonts: **diabetis, hepatitis C i sordesa no apareixen amb aquests
+noms a l'article 19**; el text només podria absorbir-les, si escau, dins de
+«defectes ... incapacitants». El reglament no confirma per si sol que fossin
+criteris automàtics, com afirma el testimoni de l'ADMA.
+
+**La lectura del reglament deixa aquest buit documental tancat**; el que queda
+obert és només si l'aplicació pràctica va convertir els criteris amplis de l'article
+19 en exclusions automàtiques per a les tres malalties que denuncia l'ADMA.
 
 ### Segona: el permís que separa famílies
 
@@ -180,7 +210,11 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
 
 ## Buits registrats
 
-1. **El protocol de salut del control mèdic d'immigració.** **Prioritari.**
+1. ~~**El protocol de salut del control mèdic d'immigració.** **Prioritari.**~~ —
+   **`resolt` el 21-09-2026**: el reglament de **15-06-1993** ja és al corpus i
+   fixa les proves, les exclusions, els resultats, el recurs i el circuit
+   administratiu. **La divergència amb el testimoni de l'ADMA queda registrada**:
+   diabetis, hepatitis C i sordesa no hi figuren literalment com a exclusions.
 2. **Si es va obrir la residència refugi** per a dones maltractades.
 3. ~~**L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.~~
    **`parcial`:** els edictes del BOPA confirmen una subvenció de **250.000
