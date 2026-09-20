@@ -78,7 +78,11 @@ habitants.** **No és casualitat: és l'escala.**
   d'hoquei, amb un milió d'euros l'any del Comú de Canillo fins al 2011**.
   `El que segueix obert són els esports de gel andorrans com a conjunt: el
   patinatge artístic, que és el d'aquesta fitxa, no hi surt.`
-- **Si segueix patinant.**
+- ~~**Si segueix patinant.**~~ — **`parcial` el 2026-09-20**: la [Federació
+  Andorrana d'Esports de Gel](../../../fonts/faeg-la-federacio-2026.md) encara
+  identifica **Melissandre Fuentes com a jutge nacional de patinatge artístic
+  sobre gel**. **La pàgina no diu si continua patinant com a competidora**, de
+  manera que aquesta part queda oberta.
 
 ## Related
 
