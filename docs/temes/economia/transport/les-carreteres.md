@@ -60,8 +60,11 @@ gestió de la xarxa viària.**
 ## Buits registrats
 
 1. **El text complet de la Llei 18/2016.**
-2. **Quan es van construir cadascuna de les CG** — la font en dona el
-   recorregut i la longitud, no la datació.
+2. ~~**Quan es van construir cadascuna de les CG** — la font en dona el
+   recorregut i la longitud, no la datació.~~ — **`parcial` el 20-09-2026**: la
+   fitxa identifica les **CG-1 a CG-6**, els seus recorreguts i longituds, i
+   distingeix les dues connexions frontereres de les quatre carreteres internes;
+   les fonts disponibles no en donen els anys de construcció.
 3. ~~**El túnel d'Envalira i el túnel del Cadí**, encara sense fitxa.~~ —
    **`resolt` el 18-09-2026**: **el túnel d'Envalira** (2002, 2.879 m,
    2.050 m d'altitud, el més alt d'Europa) **evita el port d'Envalira a
