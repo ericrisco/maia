@@ -347,8 +347,10 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
 7. **Quantes *rodalies* dobles es conserven**, i **on.** **La sentència de 1780 diu
    que n'havien vist d'altres.**
    `Requereix font externa: els arxius comunals.`
-8. **Quina era la data en què els ramats estrangers podien entrar a les Valls.**
-   **La font diu que els reglaments la fixaven i no en dona cap.**
+8. ~~**Quina era la data en què els ramats estrangers podien entrar a les Valls.**
+   **La font diu que els reglaments la fixaven i no en dona cap.**~~ —
+   **`no-es-buit` el 20-09-2026**: el passatge constata que existien reglaments
+   però no n'identifica cap ni en publica la data.
 9. **La muntanya de Just**, on el 1474 es van fitar les pastures d'Encamp i la
    Massana: **on és, i si el topònim és viu.**
 10. **Si les *filoles* es feien servir a Andorra amb la mateixa funció direccional
