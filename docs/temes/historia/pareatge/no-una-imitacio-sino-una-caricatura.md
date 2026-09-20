@@ -496,10 +496,13 @@ l'òrgan.**
 8. **L'estudi de Mérignhac** al *Bulletin du Comité des travaux historiques*,
    Congrés de 1899, p. 267. **El corpus el té citat i criticat, no llegit.**
    `obert.`
-9. **El decret de Catalan de Ocon del 2 de març de 1762** i **la reivindicació de
-   Mgr Casañas de 1894**, textos. **Tanquen el buit 1 de [les tres
-   sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) si
-   apareixen.** `obert, prioritari.`
+9. ~~**El decret de Catalan de Ocon del 2 de març de 1762** i **la reivindicació de
+   Mgr Casañas de 1894**, textos.~~ — **`parcial` el 20-09-2026**: [Les tres
+   sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) reprodueix
+   l'escrit de Casañas del **12 d'agost de 1894** dins la primera exposició del
+   Consell General (**pp. 10-11**), amb les seves condicions i represàlies.
+   **L'original de Casañas i el decret de Catalan de Ocon del 2 de març de 1762
+   encara no són al corpus.**
 10. ~~**Les dues manifestacions episcopals favorables**: **la del 9 de juny de
     1806 a Napoleó** i **la del 20 de novembre de 1822 a Lluís XVIII.**~~ —
     **`parcial` el 20-09-2026**: [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)
