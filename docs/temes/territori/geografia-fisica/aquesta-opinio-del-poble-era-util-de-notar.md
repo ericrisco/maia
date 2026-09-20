@@ -415,10 +415,13 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    frau dels preus ficticis és informació de tercers, sense cap cas ni nom.**~~ —
    **`no-es-buit` el 20-09-2026**: la font declara que no disposa de cap cas
    identificable i la fitxa no en pot reconstruir un a partir del passatge.
-9. **Si els béns de propietat alternada eren convencionals o consuetudinaris.**
-   **L'autor no va poder lligar-los a cap costum i ho marca com a creença seva.**
-10. **Quan i com van caure en desuetud** les prescripcions sobre estrangers.
-    **La font ho constata i no ho data.**
+9. ~~**Si els béns de propietat alternada eren convencionals o consuetudinaris.**~~
+   — **`no-es-buit` el 20-09-2026**: l'autor no els pot lligar a cap costum i
+   presenta l'explicació convencional com una creença seva, no com una dada
+   demostrada.
+10. ~~**Quan i com van caure en desuetud** les prescripcions sobre estrangers.~~
+    — **`no-es-buit` el 20-09-2026**: la font només constata que havien caigut
+    en desuetud i no en dona ni el moment ni el mecanisme.
 
 ## Related
 
