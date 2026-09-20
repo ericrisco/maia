@@ -253,12 +253,12 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    d'Urgell.** **El corpus té una transcripció d'una transcripció**: Ríos Urruti
    *apud* **Baudon de Mony**. `Requereix l'edició de Baudon de Mony, que aquest
    corpus ja té registrada com a cap de sèrie prioritari i no ha obert mai.`
-2. **L'any de la datació.** **L'encapçalament de l'editor diu 1133**; **la
-   clàusula diu «VI Kalendas februarii»**, que és el 27 de gener; **l'any imprès
-   no es llegeix a l'exemplar digital.** **I hi ha un problema d'estil de
-   datació**: **«anno ab incarnacione» no compta l'any com el comptem avui**, i
-   **el corpus no té cap taula de conversió verificada.** `Registrat. La data
-   d'aquesta fitxa és la de l'editor.`
+2. ~~**L'any de la datació.**~~ — **`parcial` el 20-09-2026**: l'encapçalament
+   de l'editor dona **1133** i la clàusula «*VI Kalendas februarii*» fixa el **27
+   de gener**. La [síntesi d'actes del Consell General](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)
+   també cataloga l'acte com **1133, gener 27**, i una transcripció acadèmica
+   local repeteix aquesta data. L'any continua il·legible en el passatge OCR i
+   la conversió de l'estil «*anno ab incarnatione*» no es resol des de l'original.
 3. ~~**Qui era «Pere, bisbe d'Urgell».**~~ — **`parcial` el 2026-09-19**: el
    document diu «Petrus» i prou, però dues fonts secundàries el donen com a
    **Pere Berenguer** ([la donació del 988](../origens/la-donacio-de-988.md);
