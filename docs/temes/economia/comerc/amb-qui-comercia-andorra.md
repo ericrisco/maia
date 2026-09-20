@@ -219,8 +219,11 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   de **140,87 a 367,53 M€** prové sobretot del **capítol 97**, que passa de
   **1,42 a 201,25 M€** i explica el **88,2%** de l'augment; la font no permet
   identificar l'operació o l'esdeveniment que hi ha al darrere.
-- **Per què Turquia, Hong Kong i Gran Bretanya apareixen com a destins** a
-  partir del 2015. `pregunta_oberta`
+- ~~**Per què Turquia, Hong Kong i Gran Bretanya apareixen com a destins a
+  partir del 2015**~~ — **`parcial` el 20-09-2026**: la sèrie per països en
+  confirma l'aparició —el 2025 representen **Turquia 3,1% (6,1 M€), Hong Kong
+  3,3% i Gran Bretanya 7,4%**—, però la font no explica el canvi de mercats ni
+  quins productes hi van.
 - ~~**Les exportacions anteriors al 1997**, que la sèrie dona a zero i no existien
   com a recompte.~~ — **`no-es-buit` el 19-09-2026**: el zero anterior a 1997
   és una absència de cobertura de la sèrie, no una dada que indiqui exportacions
