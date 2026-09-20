@@ -113,8 +113,10 @@ dir**.
 
 ## Buits registrats
 
-1. **La data exacta** i l'acta del comú que ho va acordar. Canturri dona «cap al
-   1982»; la font primària és municipal.
+1. ~~**La data exacta** i l'acta del comú que ho va acordar.~~ — **`parcial`,
+   confirmat el 20-09-2026**: Canturri situa la idea o decisió inicial «cap al
+   1982» i la font dels gegants documenta la construcció el **1985**, any de la
+   constitució de la Gresca Gegantera. Encara falta l'acta municipal exacta.
 2. ~~**Mestre Roure**: nom complet, biografia, què hi feia a Andorra.~~ —
    **`resolt` el 18-09-2026**: **Joan Roure i Jané** — vegeu [més amunt](#els-gegants-tenen-nom-i-qui-els-va-fer-tambe).
 3. ~~**Qui va construir els gegants** — l'amic geganter del Solsonès.~~ —
