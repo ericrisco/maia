@@ -194,6 +194,21 @@ I la prioritat concreta del moment:
 **Buit registrat: si es va obrir, quan, i qui la va acabar fent.** Vegeu
 [les dones](../dones/README.md).
 
+### El servei que sí que queda documentat
+
+La documentació posterior permet separar la petició de l'ADMA del servei que
+finalment es va regular. La **Llei 1/2015 per a l'eradicació de la violència de
+gènere i de la violència domèstica** obliga a articular mesures de protecció i
+preveu la col·laboració amb entitats per prestar l'assistència a les víctimes
+([text de la Llei 1/2015](../../../raw/lleis/bopa/llei-1-2015-violencia-de-genere.txt)).
+El reglament econòmic de **2020** ja enumera els ajuts per al **suport a
+l'acolliment de dones víctimes de violència de gènere** i per als serveis de
+suport a aquestes víctimes ([Reglament de prestacions socials de 2020](../../../raw/lleis/bopa/decret-2020-reglament-prestacions-economiques-serveis-socials.txt)).
+
+Això documenta un **marc d'acolliment i suport posterior**, però no identifica
+una casa concreta, la data d'obertura ni si és la «residència refugi» que ADMA
+demanava el 1997.
+
 ## Una afirmació jurídica que cal matisar
 
 Barbero escriu que **«la inexistència d'una Llei d'immigració comporta una
@@ -215,7 +230,10 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
    fixa les proves, les exclusions, els resultats, el recurs i el circuit
    administratiu. **La divergència amb el testimoni de l'ADMA queda registrada**:
    diabetis, hepatitis C i sordesa no hi figuren literalment com a exclusions.
-2. **Si es va obrir la residència refugi** per a dones maltractades.
+2. ~~**Si es va obrir la residència refugi** per a dones maltractades.~~ —
+   **`parcial` el 21-09-2026**: la Llei 1/2015 i el reglament de 2020 documenten
+   protecció, acolliment i ajuts per a víctimes, però no acrediten l'obertura,
+   la data ni la identitat d'una residència concreta.
 3. ~~**L'ADMA**: quan es funda exactament, quantes sòcies, i què n'ha estat.~~
    **`parcial`:** els edictes del BOPA confirmen una subvenció de **250.000
    PTA el 1998**, altres ajudes localitzades fins al **2011**, i la cancel·lació
