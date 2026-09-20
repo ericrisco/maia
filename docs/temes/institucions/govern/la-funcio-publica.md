@@ -548,7 +548,7 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   estar suspès segueix sense resposta: el text intern no és al Butlletí i el del
   2000 no ho explica.`
 - **El Pla integral de formació del 2001**: es va fer?
-- **Es va crear mai una escola d'administració pública**, ni que fos temporal?
+- ~~**Es va crear mai una escola d'administració pública**, ni que fos temporal?~~ — **`parcial` el 20-09-2026**: la mateixa fitxa documenta que **el 2000 encara no existia** i que la font només proposava estudiar una escola temporal; el període posterior continua sense verificar.
 - ~~**Si Xavier Llovera** és el mateix del patrimoni cultural.~~ — **`parcial` el
   19-09-2026**: les dues referències donen el nom complet **Xavier Llovera i
   Massana**; una el presenta com a president de l'associació de personal públic
