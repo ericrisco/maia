@@ -198,6 +198,20 @@ El reglament sectorial de **2011** mostra el mateix mecanisme en una activitat
 concreta: **90 autoritzacions per a agències de viatges**, amb un màxim de 50
 per a nacionals de fora de la UE o l'EEE
 ([reglament de 2011](../../../raw/lleis/bopa/quotes-immigracio-1989-2011/2011-10-25-decret-del-19-10-2011-pel-qual-s-aprova-el-reglament-de-e8066e.txt)).
+**La mateixa llei explica l'excepció de quota.** L'article **23.10** diu que les
+autoritzacions de residència sense activitat lucrativa es compten dins la quota,
+**excepte** les dels articles **91, 93 i 94** i les situacions de l'article 97
+([Llei qualificada d'immigració, art. 23.10](../../../raw/lleis/immigracio.txt)):
+
+- l'**article 91** regula les persones a càrrec —cònjuge o parella, ascendents,
+fills, altres descendents i tutelats— que accedeixen per la residència del titular;
+- l'**article 93** permet que una persona a càrrec assumeixi la titularitat després
+de la mort del titular principal, si compleix els requisits;
+- l'**article 94** regula el pas a una nova autorització quan s'acaba la
+dependència, amb el termini i les taxes d'una renovació.
+
+**No són tres vies noves d'entrada principal**, sinó continuïtats o canvis d'estat
+d'una residència ja existent; per això l'article 23.10 les exclou del recompte.
 
 ## Buits registrats
 
@@ -235,7 +249,11 @@ per a nacionals de fora de la UE o l'EEE
 
    `El que segueix obert és la sèrie d'imports entre el 1995 i el vigent: caldria
    buidar la Llei 17/2006 i les modificacions posteriors.`
-4. **Els articles 91, 93 i 94** que queden fora del còmput de quota: per què.
+4. ~~**Els articles 91, 93 i 94** que queden fora del còmput de quota: per què.~~ —
+   **`resolt` el 21-09-2026**: l'article **23.10** de la Llei d'immigració ho
+   exclou expressament perquè són, respectivament, **persones a càrrec**, la
+   continuïtat de la residència després de la mort del titular i el canvi de
+   situació quan s'acaba la dependència; no són noves entrades principals.
 5. **Si el Fons d'Habitatge ha atret inversió** per la via dels 400.000 €.
 6. **Quanta gent ha perdut la renovació per no acreditar el català.**
 
