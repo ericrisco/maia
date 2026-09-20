@@ -238,7 +238,12 @@ se'l mira amb simpatia i no amb vergonya.
 1. **L'acta del Consell General** de juliol de 1934 — data, recompte, i què s'hi
    va dir. **La font primària decisiva.**
 2. Els **dos mesos entre el rebuig de maig i el vot de juliol**.
-3. **Qui va ser l'únic vot en contra.**
+3. ~~**Qui va ser l'únic vot en contra.**~~ — **`parcial` el 20-09-2026**:
+   [La Constitució de 1934](./la-constitucio-de-1934.md) fixa la votació el **10
+   de juliol de 1934** i dona **23 vots a favor i un en contra**, però no
+   identifica el conseller. La fitxa conserva la divergència d'altres fonts,
+   que donen **24 a 1** o dates diferents; l'acta primària continua sent
+   necessària per saber qui va votar en contra.
 4. La tesi de la connexió nazi, verificada.
 5. La cronologia 1944–1946, que no quadra.
 6. El **documental de Jorge Cebrián** i els **~6.000 registres d'arxiu**.

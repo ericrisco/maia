@@ -90,7 +90,10 @@ una constitució de disset articles.**
   estrangers amenaçats d'expulsió. **El buit del text literal segueix
   prioritari i obert.**
 - **Qui era el síndic Pere Torras**, i per què hi va posar el nom.
-- **Qui va votar en contra.**
+- ~~**Qui va votar en contra.**~~ — **`parcial` el 20-09-2026**: la mateixa
+  fitxa documenta la data (**10 de juliol de 1934**) i el recompte (**23 a
+  favor, 1 en contra**), però no el nom del conseller contrari. Cal l'acta
+  primària per tancar aquesta identitat.
 - **Què va passar amb el text després de l'expulsió de Skossyreff**, vuit dies
   després de la coronació.
 - **Si el Consell General va derogar mai formalment aquesta Constitució.**
