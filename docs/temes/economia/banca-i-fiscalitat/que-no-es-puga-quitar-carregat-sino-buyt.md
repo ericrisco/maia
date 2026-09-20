@@ -214,10 +214,12 @@ l'adquirent per les reparacions, *adobs***.
 
 ## Buits registrats
 
-1. **Les quatre lliures de diferència del rescat del 19 d'octubre de 1788.**
+1. ~~**Les quatre lliures de diferència del rescat del 19 d'octubre de 1788.**
    **Càlcul fet i no tancat**: 200 ll. 4 s. − 181 ll. 9 s. 6 d. = **18 ll. 14 s. 6
-   d.**, i el text imprimeix **18 ll. 10 s. 6 d.** `Requereix l'original imprès o el
-   document.`
+   d.**, i el text imprimeix **18 ll. 10 s. 6 d.**~~ — **`parcial` el 20-09-2026**:
+   el desfasament és de **quatre sous** i la fitxa ja acota tres explicacions
+   compatibles —errata d'impremta o d'OCR, arrodoniment de les parts, o una base
+   de càlcul no conservada—. Cal l'original per decidir-ne una.
 2. **Les sentències sobre *millores necessàries*** que **la font diu que existeixen
    «m'han dit» i no cita.**
 3. **Les sentències del 10-10-1840, 12-05-1855 i 06-08-1863**, senceres.
