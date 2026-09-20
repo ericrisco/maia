@@ -289,9 +289,14 @@ no és qui ho fa, és el món que ho necessitava**.
    la ponència de Mas (2002) confirma i contextualitza **fornal, mola i
    martinet** com a equipament que es mecanitza al segle XX. **Mall, encluse i
    la confrontació amb el *Vocabulari d'Andorra* (1992) continuen pendents.**
-7. **Noms de ferrers** i cases de ferrer per parròquia. La
+7. ~~**Noms de ferrers** i cases de ferrer per parròquia. La
    [toponímia](../../territori/toponimia/toponimia-andorrana.md) i els noms de
-   casa n'han de conservar.
+   casa n'han de conservar.~~ — **`parcial` el 20-09-2026**: el corpus ja
+   documenta **Romà G.**, ferrer de la Cortinada, **Lluís G.**, ferrer d'Ordino,
+   i un **ferrer de la Massana** sense nom complet; encara no hi ha un cens de
+   ferrers per parròquia ni cap casa de ferrer identificada
+   ([exemples documentals](../../economia/banca-i-fiscalitat/quatre-pagines-que-no-hi-son.md)
+   i [menció judicial](../../institucions/justicia/no-prohibia-matar-los-els-eximia-de-pagar.md)).
 
 ## Related
 
