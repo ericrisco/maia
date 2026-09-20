@@ -127,9 +127,13 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   categoria temporal **2024** per a la divisió 3564. **La sèrie no existeix a la
   font**, de manera que no es pot calcular si els 93 especialistes en
   intel·ligència artificial són molts o pocs respecte de fa cinc anys.
-- **El corpus té els percentatges d'empreses i no els absoluts.** **Sense el
+- ~~**El corpus té els percentatges d'empreses i no els absoluts.** **Sense el
   nombre d'empreses de cada any no es pot saber si el sector es contreu o
-  només es dilueix.** `pregunta_oberta`
+  només es dilueix.**~~ — **`no-es-buit`**: el [README de la font TIC](../../../raw/estadistica-api/tic/README.md)
+  separa l'enquesta d'empreses de la de llars i adverteix que les taules amb
+  «DISTRIBUCIÓ» donen percentatges. La sèrie d'empreses publica, per tant, la
+  proporció d'empreses amb especialistes o contractació, però no el denominador
+  anual que permetria convertir-la en absoluts.
 - **Les divisions 246 i 247 de la branca retornen `500 Internal Server
   Error`.** **El corpus no sap què contenen.** `font_externa`
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
