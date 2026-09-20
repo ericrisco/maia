@@ -324,7 +324,11 @@ per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
   amb **les 69 descripcions fisiogràfiques comptades per tipus de terreny** i
   **set llocs que el corpus no tenia**. `El text sencer de cada descripció no
   s'ha transcrit: se n'ha buidat el contingut, no la lletra.`
-- **La discrepància 4.225 / 4.240** entre l'annex i el cos del llibre.
+- ~~**La discrepància 4.225 / 4.240** entre l'annex i el cos del llibre.~~ —
+  **`no-es-buit` el 20-09-2026**: la fitxa ja registra que l'annex diu **4.225**,
+  que el cos del llibre diu **4.240** i que són dues xifres de la mateixa obra;
+  la diferència queda conservada com a divergència de font, sense una hipòtesi
+  per arbitrar-la.
 - ~~**Per què Sant Julià de Lòria concentra 21 de les 80 fitxes.**~~ —
   **`parcial` el 2026-09-20**: el repartiment és **21** fitxes a Sant Julià,
   **11** a Ordino i la Massana, **10** a Canillo i **4** a Andorra la Vella i
