@@ -280,8 +280,7 @@ resol: l'evita.**
   metodologia no s'han pogut confirmar directament**: cap pàgina consultada en
   dona el detall. `Requereix font externa: la monografia o l'informe tècnic de
   l'IEA/CRES.`
-- **L'estudi *Coneixements i usos lingüístics de la població d'Andorra* d'on
-  surten les xifres de bilingüisme**: any d'onada no declarat en aquest apartat.
+- ~~**L'estudi *Coneixements i usos lingüístics de la població d'Andorra* d'on surten les xifres de bilingüisme**: any d'onada no declarat en aquest apartat.~~ — **`resolt` el 20-09-2026**: la fitxa de la font l'identifica com la **quarta onada**, amb treball de camp de l'**11 al 29 de maig de 2009** ([font](../../../fonts/spl-coneixements-usos-linguistics-2009.md)).
 - ~~**Tota la part teòrica de Haarmann, Ballarín, Bastardas, Turell, Berstein,
   Viladot, Tizón i Querol** queda **deliberadament fora del corpus**: no són fets
   andorrans comprovables, són el bastiment de l'estudi. **Es registra que hi són,
