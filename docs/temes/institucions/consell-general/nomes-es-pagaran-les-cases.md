@@ -178,8 +178,13 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 8. **Quan es va introduir l'expropiació a Andorra.** **La font diu «innovació
    recent» i no dona ni data ni norma fundacional.**
 9. **Els actes d'*in solutum* de 1831 i de cap al 1875**, sencers.
-10. **Si els *judicadors* elegits de comú acord entre les parts tenien el mateix
-    estatut que els *judicadors jurats***.
+10. ~~**Si els *judicadors* elegits de comú acord entre les parts tenien el mateix
+    estatut que els *judicadors jurats***.~~ — **`parcial` el 20-09-2026**:
+    **l'acte diu que els primers eren elegits de comú acord entre els atorgants**,
+    mentre que el glossari del corpus documenta els **`judicadors jurats`** com a
+    taxadors i adjudicadors de l'execució forçosa. **La font permet distingir el
+    procediment de designació, però no diu si els dos tipus tenien el mateix
+    estatut jurídic.**
 
 ## Related
 
