@@ -187,9 +187,13 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
 
 1. **On és la llei que defineix la llegítima.** **L'autor la cita de Vives i
    declara que no l'ha trobada a les *Constitucions* de 1588.**
-2. **Si a Andorra la llegítima va ser mai diferent d'un quart**, i **des de
-   quan**. La font dona la regla catalana *(1343 Barcelona, 1585 tot el
-   Principat)* i **no en dona cap d'andorrana.**
+2. ~~**Si a Andorra la llegítima va ser mai diferent d'un quart**, i **des de
+   quan**.~~ — **`parcial` el 20-09-2026**: una sentència andorrana de **1890**
+   aplica la llegítima d'**un quart** als quatre avis del testador; la font
+   també dona la regla catalana —Barcelona **1343**, tot el Principat **1585**—
+   i declara que no ha localitzat la llei andorrana de 1588. Queda confirmada la
+   pràctica del quart el 1890, però no si abans havia estat diferent ni des de
+   quan regia a Andorra.
 3. **L'ordre de magnitud de les llegítimes de 1874** —**750 contra 200**— segueix
    obert: **ara se'n sap la raó, no la mesura.**
 4. ~~**Quantes accions de complement de llegítima van prosperar**, i **des de
