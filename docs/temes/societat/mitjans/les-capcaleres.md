@@ -119,7 +119,7 @@ propietari.** Vegeu
 [la llegenda negra dels passadors](../../historia/historiografia/la-llegenda-negra-dels-passadors.md),
 on el corpus ja cita una entrevista d'*Informacions*.
 
-**Buit registrat, prioritari:** **per què es va tancar P.P.**, i la sentència.
+**Buit registrat, prioritari:** ~~**per què es va tancar P.P.**, i la sentència.~~ — **`parcial` el 20-09-2026**: la fitxa fixa que *P.P. (Promocions Publicitàries)* era un setmanari de **1973–1975**, amb **113 números**, que fou **tancat per sentència del Tribunal de Corts el 1975** i dirigit per **Manuel Sansa**. **La font no dona el motiu del tancament ni el text de la sentència.**
 
 ## El fet que Andorra hauria de saber de si mateixa
 
@@ -168,8 +168,7 @@ aquell any.**
 
 - **Les dates exactes de *Les Valls d'Andorra***, on les dues fonts discrepen.
   **Prioritari.**
-- **Per què es va tancar *P.P.*** per sentència del Tribunal de Corts.
-  **Prioritari.**
+- ~~**Per què es va tancar *P.P.*** per sentència del Tribunal de Corts.~~ — **`parcial` el 20-09-2026**: la font en fixa el període **1973–1975**, els **113 números**, el **tancament per sentència del Tribunal de Corts el 1975** i la direcció de **Manuel Sansa**. **No hi consten el motiu ni el text de la sentència.**
 - **On s'imprimia *Andorra Agrícola***, si a Andorra no hi havia impremta.
 - **La col·lecció de *Poble Andorrà*** (1974-1977), que és **el primer diari en
   català de la postguerra** i el corpus no n'ha llegit ni un número.
