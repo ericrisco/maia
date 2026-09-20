@@ -114,8 +114,14 @@ visites.**
 
 ## El que falta
 
-- **Lluís Samper**: **qui és, i on va publicar la descripció** més enllà de la
-  represa a *Fòrum.ad* del 7 de març del 2022.
+- ~~**Lluís Samper**: **qui és, i on va publicar la descripció** més enllà de la
+  represa a *Fòrum.ad* del 7 de març del 2022.~~ — **`parcial` el 20-09-2026**:
+  la còpia local de la [13a Diada andorrana a la UCE (2000)](../../../raw/sac-diades/13a-2000-formacio-i-ensenyament-a-andorra.txt)
+  conserva el nom complet **Lluís Samper i Pascual**, i la [referència local de
+  la Viquipèdia](../../../raw/web/llegendes/Tamarro-ca.wiki) identifica la
+  publicació coneguda, *Caçar el tamarro: una broma pesada*, a *Fòrum.ad* el 7
+  de març de 2022. No s'ha localitzat encara una publicació anterior o
+  diferent de la descripció.
 - ~~**Quan es feia, i fins quan.**~~ — **`no-es-buit` el 20-09-2026**: cap de
   les fonts locals consultades no dona una data d'inici ni de final de la
   cacera del tamarro; el corpus només documenta la pràctica com a costum
