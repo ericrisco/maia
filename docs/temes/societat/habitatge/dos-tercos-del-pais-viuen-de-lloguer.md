@@ -205,8 +205,11 @@ semestral.`
 - ~~**No hi ha desglossament per parròquia del lloguer.**~~ — **`no-es-buit`**:
   la font sí que desglossa el preu de compra ([tres-centes tretze, els dos
   anys](./tres-centes-tretze-els-dos-anys.md)), però no publica el del lloguer.
-- **Per què el lloguer mitjà baixa un 5,5% el 2022.** `La font no ho explica, i
-  pot ser composició de la mostra.` `pregunta_oberta`
+- ~~**Per què el lloguer mitjà baixa un 5,5% el 2022**~~ — **`parcial` el
+  20-09-2026**: el preu mitjà passa de **671,48 € el 2021** a **634,24 € el
+  2022** (**−5,5%**) i després puja a **685,82 € el 2023**. La font confirma el
+  descens i la recuperació, però no explica si és un canvi de preu o de
+  composició de la mostra.
 - **El preu mitjà del lloguer no és per metre quadrat.** No es pot comparar
   directament amb els **13,5 €/m² del SICAR** ni amb els **9,5 €/m² de l'A062**
   sense la superfície mitjana dels pisos llogats, **que aquesta taula no dona**.
