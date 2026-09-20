@@ -168,7 +168,7 @@ massís**.
 ## El que falta
 
 - ~~**El setzè transsecte de SOCA.**~~ — **`parcial` el 20-09-2026**: la [xarxa actual](../../../raw/web/territori/fauna-flora/seguiments/iea-soca-transsectes-2026.txt) publica **27 transsectes prioritaris**, de manera que la llista històrica de quinze noms no descriu tota la xarxa actual. **La font antiga no permet identificar quin era el setzè.**
-- **Les dades**, no els protocols: què han donat aquests seguiments des del 2016.
+- ~~**Les dades**, no els protocols: què han donat aquests seguiments des del 2016.~~ — **`parcial` el 20-09-2026**: la [pàgina de resultats del SOCA](../../../raw/web/territori/fauna-flora/seguiments/iea-soca-resultats-2016-2019.txt) enumera les memòries oficials de **2016, 2017, 2018 i 2019**, però el corpus encara no n’ha llegit ni destil·lat les xifres.
 - ~~**Si el BMSAnd i el SOCA continuen** avui.~~ — **`resolt` el 20-09-2026**: [AR+I](../../../raw/web/territori/fauna-flora/seguiments/ari-bmsand-2026.txt) anuncia la **21a temporada del BMSAnd** i l’[IEA](../../../raw/web/territori/fauna-flora/seguiments/iea-soca-2026.txt) manté el **SOCA** com a programa vigent, amb voluntariat. **Això prova la continuïtat dels programes, no substitueix les sèries de resultats.**
 - **Quines espècies de congestera** hi ha a Andorra, amb nom.
 - **Els resultats de les Open Top Chambers.**
