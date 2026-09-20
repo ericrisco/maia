@@ -735,9 +735,12 @@ la prosa són sistemàtics i cap no altera una conclusió.**
   màxim històric en sis dels nou àmbits socioeconòmics**, **set dels quals no
   tenen cap canvi de disseny declarat.** `Requereix la metodologia de l'onada del
   2014.`
-- **Per què l'edició del 2022 reprodueix 77,5 on aquesta imprimeix 75,4.**
-  **És la segona discrepància de reproducció del fons**, després de la dècima del
-  2004. **Cap de les dues no té explicació al document.**
+- ~~**Per què l'edició del 2022 reprodueix 77,5 on aquesta imprimeix 75,4.**~~ —
+  **`parcial` el 20-09-2026**: quatre files de la taula coincideixen, però la
+  fila principal passa de **75,4 %** a **77,5 %** i les quatre opcions d'acció
+  sumen **99,2** a l'edició de 2018 i **101,5** a la reproducció de 2022. La
+  discrepància de reproducció queda provada, però cap dels dos documents no
+  n'explica la causa.
 - ~~**Els capítols d'usos lingüístics (pp. 15-31) no s'han destil·lat valor a
   valor.** Disset pàgines de gràfics apilats.~~ — **`resolt` el 17-09-2026.**
   **Les seves disset pàgines són ara [al cos d'aquest
