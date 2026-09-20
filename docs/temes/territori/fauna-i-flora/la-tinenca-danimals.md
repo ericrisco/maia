@@ -99,6 +99,13 @@ Durant el transport dins del país, els animals han de tenir **espai adaptat a
 l'espècie** i mitjans que els protegeixin «de la intempèrie i de les diferències
 climàtiques fortes» (article 5.4).
 
+La llei també fixa el preu de fer aquests tràmits: la taxa és de **18 €** per
+cada original amb inspecció o control físic, **7 €** per cada original sense
+inspecció i **3 €** per cada còpia o diligència (article 37). El règim
+sancionador classifica les infraccions en lleus, greus i molt greus i fixa
+multes de **60–300 €**, **300,01–3.000 €** i **3.000,01–9.000 €**, respectivament
+(articles 38–39). ([Llei 11/2016, articles 37–39](../../../raw/lleis/tinenca-animals.txt).)
+
 ## Buits registrats
 
 - ~~**Els animals de renda** tenen capítol propi (títol III, capítol segon) i
@@ -134,7 +141,13 @@ climàtiques fortes» (article 5.4).
   **La quarta converteix una excursió o un rodatge en una activitat
   autoritzable.** **El reglament ha de fixar les condicions «basant-se en el
   grau d'amenaça» de cada espècie** —i **aquest reglament no és al corpus.**
-- **Les sancions** i la taxa d'autoritzacions queden pendents.
+- ~~**Les sancions** i la taxa d'autoritzacions queden pendents.~~ —
+  **`resolt` el 20-09-2026** amb el text de la Llei 11/2016: la taxa és de
+  **18 €** amb inspecció o control físic, **7 €** sense inspecció i **3 €** per
+  còpia o diligència (article 37); les multes van de **60 € a 9.000 €** i es
+  distribueixen en els tres trams d'infracció dels articles 38–39. Aquest
+  tancament descriu el règim legal, no el nombre d'expedients ni d'autoritzacions
+  efectivament tramitats.
 - **Quantes autoritzacions d'entrada i sortida es donen**, no consta.
 - ~~**Si hi ha obligació d'identificació i registre** dels animals de companyia
   —xip, cens comunal— no s'ha comprovat en el que s'ha llegit.~~ — **`parcial` el
