@@ -54,8 +54,13 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
 > **1580** al portal, «*tal vez la de la erección*».** Vegeu [els consellers hi
 > dormien](./els-consellers-hi-dormien.md).
 - Quan el Consell General en va marxar a la seu nova i què s'hi fa ara.
-- Els [set mil cinc-centes actes](../../cultura/museus-i-arxius/museus-i-arxius.md)
-  que hi eren dipositades abans d'anar a l'Arxiu Nacional.
+- ~~Els [set mil cinc-centes actes](../../cultura/museus-i-arxius/museus-i-arxius.md)
+  que hi eren dipositades abans d'anar a l'Arxiu Nacional.~~ — **`parcial` el
+  20-09-2026**: la fitxa d'[arxius i museus](../../cultura/museus-i-arxius/museus-i-arxius.md)
+  confirma que el Consell General hi va dipositar la seva documentació i que
+  se'n publiquen **prop de 7.500 actes**, transcrites per **Jordi Guillamet**.
+  Continua obert el recompte exacte i la documentació del trasllat des de la
+  Casa de la Vall.
 
 **Buit registrat, i dels més visibles**: és probablement l'edifici més conegut del
 país i aquesta fitxa amb prou feines el descriu.
