@@ -412,8 +412,10 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    **l'aprovació del Bisbe que el precedeix.**
 7. **Per què el decret dels pasturatges del 23-05-1746 es va revocar el 04-06-1764 i
    restablir el 20-05-1765.** **Tres dates i cap raó.**
-8. **Cap cas real de retracte.** **La font diu que no en pot citar cap.** **I el
-   frau dels preus ficticis és informació de tercers, sense cap cas ni nom.**
+8. ~~**Cap cas real de retracte.** **La font diu que no en pot citar cap.** **I el
+   frau dels preus ficticis és informació de tercers, sense cap cas ni nom.**~~ —
+   **`no-es-buit` el 20-09-2026**: la font declara que no disposa de cap cas
+   identificable i la fitxa no en pot reconstruir un a partir del passatge.
 9. **Si els béns de propietat alternada eren convencionals o consuetudinaris.**
    **L'autor no va poder lligar-los a cap costum i ho marca com a creença seva.**
 10. **Quan i com van caure en desuetud** les prescripcions sobre estrangers.
