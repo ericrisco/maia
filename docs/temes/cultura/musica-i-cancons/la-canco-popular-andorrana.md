@@ -134,8 +134,12 @@ segons la mateixa font, **gairebé no n'hi ha recollida**.
    el 2026-09-19**: la font institucional identifica Eva Julián i Adán, la seva
    biografia, el treball de camp, el llibre i els àlbums; la consulta directa dels
    enregistraments continua pendent.
-3. **Si els enregistraments originals** de les entrevistes es conserven, i sota
-   quines condicions ([el criteri de l'AEA](../museus-i-arxius/larxiu-detnografia.md)).
+3. ~~**Si els enregistraments originals** de les entrevistes es conserven, i
+   sota quines condicions ([el criteri de l'AEA](../museus-i-arxius/larxiu-detnografia.md)).~~
+   — **`parcial`, confirmat el 20-09-2026**: la ressenya institucional situa el
+   treball de camp d'Eva Julián entre **1990 i 2000**, amb **264 hores de
+   gravacions** i gairebé **180 informants**, però el corpus no documenta on es
+   conserven els enregistraments originals ni les condicions de consulta.
 4. **El repertori del Cor** i si ha encarregat obra andorrana.
 5. ~~**Si hi ha més cors** a Andorra.~~ — **`parcial`, confirmat el 2026-09-19**: el corpus ja identifica, a més del Cor dels Petits Cantors, la **Coral Rocafort** de Sant Julià, els **Petits Cantaires lauredians** i diversos grups corals d’Ordino ([les caramelles](../../costums/caramelles/les-caramelles.md)); continua obert el cens complet de cors i les seves dates.
 6. ~~**Les caramelles**, que el corpus té esmentades i no descrites.~~ —
