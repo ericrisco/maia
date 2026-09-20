@@ -196,10 +196,18 @@ per un de menys recaptador en proporció al PIB durant els primers anys.**
   el mateix —l'agregat consolidat dona 233,8 M€ de salut el 2022 i la taula de
   funció 180,5— i per tant les xifres no es poden barrejar; el que serveix és el
   signe, i el signe diu que hi va haver creixement.`
-- **La correspondència entre la nomenclatura SEC** —`D211 Taxes tipus IVA`— **i
+- ~~**La correspondència entre la nomenclatura SEC** —`D211 Taxes tipus IVA`— **i
   els impostos andorrans** —IGI, IMI, IAC— **no s'ha comprovat contra les lleis
   fiscals.** La taula 2887 la proposa en subfiles i **el corpus no l'ha
-  auditada.** `pregunta_oberta`
+  auditada.**~~ — **`resolt` el 2026-09-20**: la divisió 2887 publica dins de
+  `D211` les subfiles **IMI**, **IAC** i **IGI** (a més dels antics IPI i ISI).
+  El text consolidat de la [Llei de l'IGI](../../../raw/lleis/igi.txt) defineix
+  l'IGI com a tribut indirecte sobre el consum i, a la disposició derogatòria,
+  enumera la llei de l'IMI i les lleis de l'IPI i l'IAC que substitueix. La
+  [Llei 29/2012](../../../raw/lleis/bopa/impostos/llei-29-2012.txt) també
+  identifica expressament l'IMI i l'IAC en la transició a l'IGI. La
+  correspondència publicada per l'API queda, per tant, contrastada amb el
+  corpus legal local.
 - ~~**No hi ha COFOG anterior al 2018**, i **la pressió fiscal no es desglossa
   per parròquia.**~~ — **`no-es-buit`**: és una limitació de publicació de la
   font, que no ofereix ni la sèrie anterior ni aquest desglossament.
