@@ -104,7 +104,11 @@ ritu de pas.**
   ja documenta **Carlemany i Ermessenda** (Andorra la Vella, construïts el
   **1985**) i **el Rei Moro i la Dama Blanca** (Sant Julià de Lòria). **No hi ha
   encara l'inventari de capgrossos ni el de les altres festes majors.**
-- Què es **canta** i què es **menja** a cada festa.
+- ~~Què es **canta** i què es **menja** a cada festa.~~ — **`parcial`,
+  confirmat el 20-09-2026**: per a **Sant Julià de Lòria** la fitxa ja
+  identifica **La Passa**, el **ball del Cerdà** i el **ball de la Marratxa**;
+  el corpus encara no té el repertori cantat ni la gastronomia pròpia de les
+  set festes majors.
 
 ## Related
 
