@@ -58,8 +58,10 @@ Andorra.
   faltava a aquesta fitxa**: **es va fer professional del golf el 2015 DESPRÉS
   DE TRENCAR-SE EL GENOLL EL 2014.** **No és una reconversió d'ofici: és una
   lesió.**
-- **Naixement: Andorra, 27 de desembre del 1989**, **180 cm i 80 kg.**
-  **El camp `birth_place` diu «Andorra» i cap parròquia**: **quina parròquia.**
+- ~~**Naixement: Andorra, 27 de desembre del 1989**, **180 cm i 80 kg.**
+  **El camp `birth_place` diu «Andorra» i cap parròquia**: **quina parròquia.**~~
+  — **`no-es-buit` el 20-09-2026**: **el bolcat publica «Andorra» com a lloc de
+  naixement però no la parròquia; el corpus no l'infereix.**
 - ~~**El golf andorrà sencer**: federació, camps, quanta gent.~~ —
   **`parcial` el 18-09-2026**: **Federació de Golf d'Andorra**,
   representada al COA (2024-2028) per **Gabriel Guerrero Ruiz**

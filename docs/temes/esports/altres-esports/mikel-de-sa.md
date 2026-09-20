@@ -61,10 +61,9 @@ patró documentat.**
   rècord andorrà dels 100 metres a l'aire lliure en categoria sub-23**, amb
   **11"20, fet a Barcelona el 2012.** **El rècord absolut no és seu, i el
   corpus segueix sense saber de qui és.**
-- **On va néixer** exactament. — **`obert`, i el motiu és de font**: **el camp
-  `birth_place` diu «Andorra» i cap parròquia.** **És el mateix cas que a
-  [Francesc Gaset](../estiu/francesc-gaset.md) i
-  [Pol Arias](../estiu/pol-arias.md).** **Data: 6 de juliol del 1990.**
+- ~~**On va néixer** exactament.~~ — **`no-es-buit` el 20-09-2026**: **el camp
+  `birth_place` diu «Andorra» i cap parròquia**; el bolcat publica la data, **6
+  de juliol del 1990**, però no el municipi i el corpus no l'infereix.
 
 ## Related
 
