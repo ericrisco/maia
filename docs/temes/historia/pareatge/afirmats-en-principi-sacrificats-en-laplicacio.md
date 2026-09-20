@@ -266,8 +266,13 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    2098, liasse**) segons la referència reproduïda a [«Predicar miserias y
    flaquesas de las Valls»](../manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md),
    però el document en si segueix sense veure's.
-7. **Bernat d'Espanya, senyor de Ramafort, senescal**, i **Bernat d'Héliot, jutge
-   ordinari del comtat de Foix**: **quan exercien i què més en queda.**
+7. ~~**Bernat d'Espanya, senyor de Ramafort, senescal**, i **Bernat d'Héliot, jutge
+   ordinari del comtat de Foix**: **quan exercien i què més en queda.**~~ —
+   **`parcial` el 2026-09-20**: la informació feta a la cort d'Andorra el **1404**
+   consta feta per ordre d'ells amb aquests càrrecs; [la fitxa de la informació](../manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md)
+   conserva també la referència **Archives de Perpignan, Série C, 2098, liasse**.
+   **La cronologia més àmplia dels càrrecs i la resta de documentació continuen
+   obertes.**
 8. **A qui es va presentar l'escrit de concòrdia de 1347**: **cúria o consell
    general.** **Dues fonts, dues respostes.**
 9. ~~**Si el rei d'Aragó va haver de pagar mai res** per la fiança.~~ —
