@@ -237,9 +237,10 @@ quan l'ús va deixar de practicar-se.`
    **la font en resol una —el benefici d'ordre i divisió— i deixa les altres sis
    sense examinar**. `El programa de treball que la font mateixa suggereix
    continua obert.`
-6. **Cap acte real de constitució de censal al 7 %** amb la renúncia i el «pur
-   do». **La font descriu el muntatge i no en cita cap.** `obert, prioritari: és
-   la forma documental de la usura andorrana.`
+6. ~~**Cap acte real de constitució de censal al 7 %** amb la renúncia i el «pur
+   do». **La font descriu el muntatge i no en cita cap.**~~ — **`no-es-buit` el
+   20-09-2026**: el passatge descriu la fórmula però no identifica cap acte
+   concret que la documenti.
 7. **Si els tribunals andorrans van anul·lar mai cap d'aquests actes.** `obert.`
 8. **Què és exactament la «nova constitució»** i **el «costum de Barcelona»** a
    què es renunciava, i **per què renunciar-hi feia l'obligació solidària.**
