@@ -243,9 +243,13 @@ bruixeria*»**, **amb el compte de despeses del juny de 1604**
    per jutjar, quantes persones eren, i si n'hi ha més casos.** **Prioritari**:
    **és una cessió de jurisdicció criminal a una assemblea popular, i el corpus no
    en té cap altra.**
-2. **Com es concilia aquest cas de 1516 amb la tesi de la mateixa font** que la
+2. ~~**Com es concilia aquest cas de 1516 amb la tesi de la mateixa font** que la
    campanya contra dones acusades de bruixeria **va succeir** la supressió del
-   Sant Ofici. **El corpus registra les dues i no les concilia.** **Prioritari.**
+   Sant Ofici.~~ — **`parcial` el 2026-09-20**: el corpus conserva la
+   divergència sense arbitrar-la —**el cas de 1516 és anterior** i la font
+   descriu la campanya com a posterior—; **no hi ha una font addicional que
+   expliqui si «campanya» té un sentit més restringit o si la seqüència és
+   errònia**.
 3. ~~**Qui eren Girvasi de Lordat i Damià Simon**, i **si el jutge Damià Simon és
    el «jutge comú» dels dos cosenyors** —el títol ho diu— **en una època en què
    el corpus ja sap que el jutge comú era la regla**
