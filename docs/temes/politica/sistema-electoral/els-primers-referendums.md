@@ -182,7 +182,10 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
   **el corpus en té les sis opcions numerades amb vots i percentatges**, i
   identifica les propostes **5** —Quart de les Escaldes— i **6** —Agrupament
   Democràtic d'Andorra—; **el text complet de les sis encara falta**.
-- **Per què a Sant Julià va votar en blanc més de la meitat del cens.**
+- ~~**Per què a Sant Julià va votar en blanc més de la meitat del cens.**~~ —
+  **`parcial` el 2026-09-20**: al referèndum de 1977 els vots en blanc van ser
+  el **51,6% dels vots emesos** a Sant Julià de Lòria; la font no explica el
+  motiu i no permet afirmar que fossin més de la meitat del cens.
 
 ## Related
 
