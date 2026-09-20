@@ -108,10 +108,14 @@ Els establiments **han d'exposar l'horari de tots els dies de la setmana** de
 manera visible **fins i tot amb l'establiment tancat** (article 7.1). Incomplir
 els horaris, el descans dominical **o el rètol** és infracció (article 8).
 
+## Què permet comptar el registre de convenis
+
+El [registre oficial d'acords i convenis col·lectius en vigor](../../../raw/web/economia/treball/registre-acords-convenis-2026/registre-acords-convenis-2026.txt), actualitzat el **7 d'abril de 2026**, llista **15 empreses**: **10 acords col·lectius d'empresa** i **5 convenis col·lectius d'empresa**. El document no dona el sector d'activitat, de manera que no permet separar quines empreses són comerços ni comptar quants establiments poden acollir-se a l'horari lliure.
+
 ## Buits registrats
 
-- **Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
-  consta. Sense això no se sap si el règim de 7-22 h és la regla o l'excepció.
+- ~~**Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
+  consta. Sense això no se sap si el règim de 7-22 h és la regla o l'excepció.~~ — **`parcial` el 2026-09-20**: el registre oficial permet comptar **15 empreses amb algun instrument col·lectiu** i diferencia **5 convenis** de **10 acords**, però no publica el sector d'activitat ni el nombre d'establiments comercials afectats.
 - ~~**Quantes botigues paguen l'impost de les 24 hores**, tampoc.~~ — **`parcial`
   el 2026-09-18**: **el nombre no consta i l'import sí.** **El pressupost del
   2026 preveu recaptar 53.951,56 €** pel subconcepte «Sobre activitats que
