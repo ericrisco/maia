@@ -262,8 +262,12 @@ estadi.**
   dona el recompte per club** —**la UE Sant Julià és la gran perdedora amb 9
   subcampionats i 7 tercers llocs contra 2 títols**— **i no la sèrie any per
   any.**
-- **Per què Canillo, Ordino i la Massana no han guanyat mai**, i **si hi han
-  tingut mai equip a Primera.**
+- ~~**Per què Canillo, Ordino i la Massana no han guanyat mai**, i **si hi han
+  tingut mai equip a Primera.**~~ — **`parcial` el 20-09-2026**: la taula
+  històrica de [la Primera Divisió](../../../../raw/web/esport/estructura/Primera_Divisió.wiki)
+  hi registra **FC Ordino (8 temporades)** i **Deportivo La Massana (5)**;
+  **no hi consta cap club de Canillo**. La font permet respondre la
+  participació, però **no explica per què cap dels tres no ha guanyat el títol**.
 
 - ~~**La Segona Divisió**: vuit clubs, dos dels quals filials. Res més.~~
   `resolt` **el 2026-09-18**: **des del 1999**, **el palmarès sencer fins al
