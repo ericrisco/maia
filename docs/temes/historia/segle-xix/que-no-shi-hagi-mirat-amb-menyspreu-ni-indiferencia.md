@@ -478,11 +478,12 @@ el sufragi**, que ja era dels caps de casa.
 3. **L'exposició de motius adreçada al Govern francès el 24 d'abril de 1866** i
    **l'acte d'aprovació francès del 10 d'abril de 1868.** **Cap de les dues no hi
    és.**
-4. **Què va passar el 31 de maig de 1866.** **Vilar data la llei aquell dia i diu
-   que el bisbe la va voler imposar «au nom de sa souveraineté absolue».** **El
-   text que el corpus acaba de llegir és del 22 d'abril.** **Les dues dates
-   segueixen registrades i el corpus no arbitra**; **el que sí que consta ara és
-   que el document del 22 d'abril ja conté les bases i els setze articles.**
+4. ~~**Què va passar el 31 de maig de 1866.**~~ — **`parcial` el 20-09-2026**:
+   Vilar data la llei el **31 de maig** i diu que el bisbe la volgué imposar
+   «*au nom de sa souveraineté absolue*», però el text primari transcrit i
+   signat que conserva el corpus és del **22 d'abril** i ja conté les quatre
+   bases i els setze articles. La data del document llegit queda establerta;
+   continua obert quin acte o esdeveniment correspon al 31 de maig.
 5. **Quina era l'«edat de jubilació»** a Andorra el 1866. **La llei no la diu.**
    **Seixanta és de dues fonts franceses de 1904.**
 6. **Si el requisit de conducta de l'article 1r es va aplicar mai a algú**, i amb
