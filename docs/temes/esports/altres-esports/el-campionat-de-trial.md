@@ -135,10 +135,14 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
    punt 2**: **enducross, enduro sobre gel i supermoto**, a més del trial —
    **no consta velocitat ni motocròs.**
 5. **Si cap d'aquests pilots ha competit mai en un mundial de trial.**
-6. **La relació amb [Xavier Cardelús](./xavier-cardelus.md)** i
+6. ~~**La relació amb [Xavier Cardelús](./xavier-cardelus.md)** i
    **[Cyril Despres](./cyril-despres.md)**, els dos motociclistes que el corpus
    sí que té: **cap dels dos no és pilot de trial**, i **el corpus no sap si la
-   FMA els llicencia.**
+   FMA els llicencia.**~~ — **`parcial` el 20-09-2026**: Cardelús hi consta
+   com a pilot de **Supersport** i Despres com a pilot de **ral·lis Dakar**;
+   per tant, cap dels dos no és pilot de trial. La FMA regula el campionat de
+   trial, però **no hi ha prova de cap llicència seva en aquestes altres
+   disciplines**.
 
 ## Related
 
