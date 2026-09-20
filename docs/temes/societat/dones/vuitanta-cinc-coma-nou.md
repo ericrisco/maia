@@ -283,7 +283,10 @@ alineades.` `no-es-buit`
   retallades a desembres, a 1990, a 2000 i a 2010.** **Són, amb la 391, la 246 i
   la 247, les cinc úniques divisions del catàleg que el corpus no pot obtenir de
   cap manera.** `font_externa`
-- **Per què la relació cau set punts entre el 1970 i el 1975.**
+- ~~**Per què la relació cau set punts entre el 1970 i el 1975.**~~ —
+  **`parcial` el 2026-09-20**: la taula passa del **68,0% el 1970** al
+  **61,0% el 1975**, però la font no n'explica la causa ni permet separar
+  composició sectorial, jornada o retribució dins de la sèrie agregada.
 
 ## Related
 
