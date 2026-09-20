@@ -247,9 +247,14 @@ simbòlica als qui no hereten:**
    hipòtesi de l'autor**. Ell mateix escriu **«potser fins i tot el batlle»**.
 6. **Si el fill de 1783 va pagar els germans**: **el 1784 encara devia les 32
    lliures 4 sous 2 diners a cadascun** i **prometia pagar en tres mesos.**
-7. **Si la primogenitura era «lo estil de las Valls regular»**, com diu una part el
-   1792, **o no tenia res de constant**, com diu l'autor. **Divergència
-   registrada.**
+7. ~~**Si la primogenitura era «lo estil de las Valls regular»**, com diu una part el
+   1792, **o no tenia res de constant**, com diu l'autor.~~ — **`parcial` el
+   20-09-2026**: Brutails afirma que el privilegi de primogenitura **«no té res
+   de legal ni de constant»**, mentre el plet de 1792 el descriu com **«lo estil
+   de las Valls regular»**; cinc testaments de **1500 a 1896** documenten néts i
+   filles que hereten per davant de fills o germans. La contradicció queda
+   documentada, però el corpus encara no pot arbitrar si hi havia una regla
+   general o només una pràctica invocada en aquell plet.
 8. **Amb quina freqüència s'instituïa hereva l'ànima.** **Quatre casos no en fan
    una.**
 9. ~~**Per què les filles reben més que els fills** a 1697 i a 1874. **La hipòtesi
