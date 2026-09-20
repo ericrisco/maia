@@ -215,7 +215,13 @@ segle XI dient que és del IX**, exactament el mateix mecanisme que
    però **no té cap edifici o objecte atribuït amb seguretat a l'època
    visigòtica**; el buit de restes materials directament visigòtiques continua
    obert.
-6. Si Andorra **va ser mai musulmana**, ni que fos nominalment.
+6. ~~Si Andorra **va ser mai musulmana**, ni que fos nominalment.~~ —
+   **`parcial` el 2026-09-20**: el corpus només té **objectes de filiació
+   islàmica en necròpolis andorranes** i notícies d'incursions musulmanes a
+   Urgell; això no prova ocupació ni administració musulmana. **Montserrat Palau
+   i Martí** considera poc probable que els sarraïns haguessin ocupat les valls,
+   però la font no permet convertir aquesta probabilitat en una certesa
+   històrica.
 7. ~~**Santa Coloma** consignada a part de les sis parròquies — per què.~~ —
    **`parcial` el 2026-09-19**: el corpus pot identificar Santa Coloma com el
    **barri d'Andorra la Vella** ([fitxa de Santa
