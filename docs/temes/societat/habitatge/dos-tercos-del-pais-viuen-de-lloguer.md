@@ -219,8 +219,11 @@ semestral.`
 - **La sèrie d'hipoteques no dona ni mediana ni distribució**, i **la mitjana
   del 2025 es dobla en un any.** **Sense la distribució no es pot saber si és
   el mercat o una sola operació.** `font_externa`
-- **Per què el 2025 «altres usos» i «demandants internacionals» valen tots dos
-  103.** `pregunta_oberta`
+- ~~**Per què el 2025 «altres usos» i «demandants internacionals» valen tots dos
+  103**~~ — **`parcial` el 20-09-2026**: les dues xifres provenen de taules
+  diferents —**103 hipoteques per a altres usos** i **103 demandants
+  internacionals**—, però la font no diu que siguin les mateixes operacions ni
+  explica la coincidència numèrica.
 - ~~**L'edat mitjana dels titulars d'hipoteca només es publica per al 2025** en
   sèrie anual.~~ — **`resolt` el 18-09-2026 amb la sèrie semestral a la mà**, i
   **la resposta és que la sèrie anual no és anual**:
