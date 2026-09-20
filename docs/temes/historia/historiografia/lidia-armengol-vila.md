@@ -61,9 +61,11 @@ buides del corpus.
 
 ## El que falta, i és gairebé tot
 
-- **La bibliografia completa.** Aquesta fitxa **no dona el títol de cap llibre
-  seu**, i és inacceptable per a algú que el corpus presenta com a figura
-  central. **Buit registrat, prioritari.**
+- ~~**La bibliografia completa.**~~ — **`parcial` el 20-09-2026**: el corpus
+  ja identifica la seva aportació **«Els moviments migratoris al segle XIX»**,
+  publicada dins la col·lecció *Debat-2* el **1991**, pp. **21-24**, i el
+  treball premiat de 1987 sobre els llegats eclesiàstics. La bibliografia
+  completa i els llibres que se li puguin atribuir encara no estan reunits.
 - La seva feina com a **funcionària**: què va fer des de dins de l'administració
   per la llengua.
 - El seu paper en la creació de l'**Escola Andorrana** (1982) i de les
