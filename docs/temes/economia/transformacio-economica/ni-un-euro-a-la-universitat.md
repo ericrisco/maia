@@ -174,8 +174,11 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
   publicada, no una pregunta de recerca.
 - **Cap comparació internacional.** **Sense el mateix indicador d'un altre
   país, un 0,37% del PIB no es pot qualificar.** `font_externa`
-- **Per què la indústria passa de 3,22 M€ a 0,66 M€** en dos anys. La font dona
-  el salt i cap nota. `pregunta_oberta`
+- ~~**Per què la indústria passa de 3,22 M€ a 0,66 M€**~~ — **`parcial` el
+  20-09-2026**: la taula dona **3,22 M€ el 2022** i **0,66 M€ el 2024**
+  (**657.000 €** en el valor desglossat), una caiguda de cinc vegades. La
+  font no explica si és un canvi d'estructura o una empresa que només declara
+  en un dels dos anys.
 - **Què és la recerca en humanitats i arts** que declaren les empreses
   andorranes, i **quines empreses la fan**. `pregunta_oberta`
 - **Per què la recerca bàsica és gairebé la meitat** de la R+D empresarial.
