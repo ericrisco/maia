@@ -164,9 +164,10 @@ i [la historiografia](./historiografia.md) documenten com a construcció.**
 
 ## El que falta
 
-- **L'article de Benet, *«L'Andorra "fosca" i l'Andorra "generosa" durant la
+- ~~**L'article de Benet, *«L'Andorra "fosca" i l'Andorra "generosa" durant la
   Segona Guerra Mundial»*, *Papers de Recerca Històrica* 4 (SAC, 2004),
-  p. 80-100.** **El títol sol ja val la fitxa.**
+  p. 80-100.** **El títol sol ja val la fitxa.**~~ — **`resolt` el 20-09-2026**:
+  llegit l'article de **Claudi Benet i Mas** ([text conservat](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/benet-2004-andorra-fosca-generosa.txt)), que descriu la doble cara d'Andorra durant la Segona Guerra Mundial, el pas de **prop de trenta mil persones** pels Pirineus i una cadena pel **port d'Arinsal, el Port del Siguer, el port de l'Abeille, el Serrat, Llorts i la Massana**. Dona els noms de **Joaquim Baldrich, Vicenç Conejos, Joan Calvet, Monpel, la família Molné de casa Palanques i Antoni Forné i Jou**, els hotels utilitzats i dues tarifes atribuïdes als testimonis —**3.000** i **1.300 pessetes** per persona—; també conserva el document sobre **Grosjean** i l'article sensacionalista de *Reporter* de 1977, amb les reserves de veracitat que hi posa l'autor.
 - **Calvet, Rieu-Mias i Riudor**, ***La batalla del Pirineu*** (Garsineu, 2011).
 - **Émilienne Eychenne**, **les tres obres**: el corpus no en té cap.
 - **David Mas**, ***Les valls d'Andorra i el maquis antifranquista*** (Editorial
