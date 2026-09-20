@@ -23,8 +23,16 @@ ser una de les veus associades a l'indicatiu **«Aquí Ràdio Andorra»**.
 
 ## Buits registrats
 
-1. **La biografia completa de Victòria Zorzano**: dates de naixement i mort,
-   formació i trajectòria abans i després de Ràdio Andorra.
+1. ~~**La biografia completa de Victòria Zorzano**: dates de naixement i mort,
+   formació i trajectòria abans i després de Ràdio Andorra.~~ — **`parcial` el
+   20-09-2026**: **Bondia** i **Aqui Radio Andorra** la daten el **1908–1998**,
+   documenten que abans havia estat professora de mecanografia en un convent de
+   Madrid, que va entrar a Ràdio Andorra l'**abril de 1940** per substituir Maria
+   Escrihuela i que en va sortir el **1946** per casar-se amb el concessionari
+   d'automòbils **Antonio Font**; no consta encara la formació completa ni la
+   trajectòria posterior. El portal conserva, a més, els noms «Victoria Perez» i
+   «Victoria Bername» com a variants periodístiques i adverteix que part de la
+   llegenda no es pot establir amb precisió.
 
 ## Related
 

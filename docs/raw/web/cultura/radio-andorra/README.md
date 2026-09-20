@@ -4,6 +4,13 @@ title: "Fonts web sobre Ràdio Andorra i la radiodifusió"
 
 # Fonts web sobre Ràdio Andorra i la radiodifusió
 
+## Victòria Zorzano — `bondia-victoria-zorzano-2020.txt` / `aquiradio-victoria-zorzano.txt`
+
+- [Bondia](./bondia-victoria-zorzano-2020.txt) — <https://www.bondia.ad/cultura/victoria-zorzano-a-la-bustia>, consulta del 20-09-2026.
+- [Aqui Radio Andorra](./aquiradio-victoria-zorzano.txt) — <https://www.aquiradioandorra.com/zorzano_victoria.html>, consulta del 20-09-2026.
+- Ús: identificació biogràfica de la locutora (1908–1998), la seva incorporació a Ràdio Andorra el 1940, la sortida el 1946 i el casament amb Antonio Font.
+- Condicions: extractes de treball; el text íntegre i les fotografies continuen subjectes als drets dels respectius mitjans i arxius.
+
 ## `govern-radio-andorra-2011.pdf` / `.txt`
 
 - URL: <https://www.govern.ad/documents/d/guest/2011_els_hostes_lincroyable_aventure_de_radio_andorra>
