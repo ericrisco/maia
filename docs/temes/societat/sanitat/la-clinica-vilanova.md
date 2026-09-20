@@ -89,7 +89,10 @@ important que un model ha d'entendre sobre ell.
 ## Buits registrats
 
 1. **On era exactament** la Clínica Vilanova i **quins anys** va funcionar.
-2. **Qui era el Dr. Antoni Vilanova** i el **Dr. Ruiz**.
+2. ~~**Qui era el Dr. Antoni Vilanova** i el **Dr. Ruiz**.~~ — **`resolt` el
+   20-09-2026**: la secció [Els tres metges](#els-tres-metges) ja identifica
+   **Antoni Vilanova** com a cirurgià i cap de la clínica, i **Dr. Ruiz** com a
+   anestesista.
 3. **Quina congregació** eren les monges italianes i com van arribar-hi.
 4. Si **queda alguna fotografia** o documentació.
 5. **Quantes intervencions** s'hi feien.
