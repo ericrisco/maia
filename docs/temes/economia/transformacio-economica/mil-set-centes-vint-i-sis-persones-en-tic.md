@@ -134,8 +134,13 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   «DISTRIBUCIÓ» donen percentatges. La sèrie d'empreses publica, per tant, la
   proporció d'empreses amb especialistes o contractació, però no el denominador
   anual que permetria convertir-la en absoluts.
-- **Les divisions 246 i 247 de la branca retornen `500 Internal Server
-  Error`.** **El corpus no sap què contenen.** `font_externa`
+- ~~**Les divisions 246 i 247 de la branca retornen `500 Internal Server
+  Error`.** **El corpus no sap què contenen.**~~ — **`no-es-buit` el
+  20-09-2026**: la fitxa de l'API documenta que són les divisions d'**abonaments
+  per servei** i **tràfic telefònic**, i que retornen `500` senceres i també
+  després de retallar la consulta als desembres i als anys 1990, 2000 i 2010;
+  no hi ha cap resposta de dades que es pugui llegir
+  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
   d'aquesta branca.~~ — **`no-es-buit`**: és una limitació declarada de la
   font, que no publica aquests desglossaments.
