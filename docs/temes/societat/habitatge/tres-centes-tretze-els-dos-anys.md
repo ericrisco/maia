@@ -99,6 +99,13 @@ anteriors no tenien, i és la que el corpus buscava:
 cinc compres de societat és d'una societat majoritàriament no resident.** **La
 mateixa proporció per les dues vies.**
 
+La taula de la font també dona el recompte: el 2025 les persones físiques
+residents adquireixen **3.179 béns** i les no residents **1.052**; el 2024 eren
+**2.546** i **525**, respectivament. En les persones jurídiques la font no
+etiqueta «no resident» com una categoria única: separa **1.487** societats amb
+capital 100% resident, **226** amb almenys el 50% resident i **412** amb menys
+del 50% resident.
+
 ## D'on surt la xifra
 
 **No és una taxació ni una enquesta: són les liquidacions trimestrals que els
@@ -153,8 +160,12 @@ va cometre ell mateix i el va cometre el mateix dia que el diagnosticava.**
   un **10,5%** i les altres parròquies augmenten entre **3,8% i 32,1%**. La
   font confirma el contrast, però no permet separar preu i composició de les
   operacions.
-- **Quantes compres de no residents hi ha, en nombre.** La nota del 2T 2026 en
-  dona **percentatges dins de cada tipus de comprador** i no el recompte.
+- ~~**Quantes compres de no residents hi ha, en nombre.**~~ — **`resolt` el
+  20-09-2026**: la taula anual de la nota dona **1.052 béns adquirits per
+  persones físiques no residents el 2025** i **525 el 2024**. Per a les
+  persones jurídiques publica la composició del capital —**412 béns el 2025
+  amb menys del 50% de capital resident**—, no un total únic de societats «no
+  residents».
 - **La sèrie de compradors per residència abans del 2026.** És una
   classificació nova: `les notes anteriors no la porten`.
 - ~~**Si el salt del 32,1% de Sant Julià és de preu o de composició**~~ —
