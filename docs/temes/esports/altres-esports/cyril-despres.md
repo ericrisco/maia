@@ -78,8 +78,12 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
   amb Carlos Sainz i Stéphane Peterhansel, i les posicions **34è el 2015 i
   setè el 2016**. Els anys dels quatre Rallye du Maroc i la resta de resultats
   encara no consten en la font llegida.
-- **Quants esportistes d'elit resideixen a Andorra**, que és una dada que el
-  país publica i el corpus no té.
+- ~~**Quants esportistes d'elit resideixen a Andorra**, que és una dada que el
+  país publica i el corpus no té.~~ — **`parcial` el 20-09-2026**: el Govern va
+  concedir **8 beques de categoria Elit** del programa ARA per al curs
+  **2025–2026**, dins de 144 ajuts; la nota oficial no diu quants esportistes
+  d'elit resideixen a Andorra ni permet equiparar becats i residents ([font
+  local](../../../raw/web/esport/ara/govern-ara-2025-2026.txt)).
 
 ## Related
 
