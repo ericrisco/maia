@@ -324,8 +324,9 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
   **Segueix obert** el **decret episcopal del 15 d'octubre del 1881**, que
   restringeix el retracte als immobles, i **les pàgines 213-214 del Politar**,
   que el neguen per a mobles i bestiar en venda judicial.
-- **Els casos dels anys setanta.** **Becat en parla en plural i no en dona cap.**
-  `Requereix font externa.`
+- ~~**Els casos dels anys setanta.** **Becat en parla en plural i no en dona cap.**~~
+  — **`no-es-buit` el 20-09-2026**: la font només afirma que n'hi havia més d'un
+  i no identifica cap cas concret.
 - ~~**Assier-Andrieu 1984**, citat i no llegit. **Localitzat: *Quaderns de
   l'I.C.A.*, 5, p. 9-27.**~~ — **`parcial`, actualitzat el 2026-09-19**: la
   referència bibliogràfica ja queda identificada i la fitxa en conserva la
