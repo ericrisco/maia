@@ -191,8 +191,12 @@ seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
 
 ## Buits registrats
 
-1. **El cens de 1989**: què conté, qui el va fer, i per què no va tenir
-   continuïtat. **Prioritari** — és l'únic cens que la font reconeix.
+1. ~~**El cens de 1989**: què conté, qui el va fer, i per què no va tenir
+   continuïtat.~~ — **`parcial` el 20-09-2026**: Lluelles confirma que hi va
+   haver **un cens el 1989** i que **no va tenir continuïtat**, i atribueix la
+   limitació general de les dades a finalitats administratives i a criteris no
+   científics. **La font no diu què contenia exactament, qui el va fer ni el
+   motiu específic de la discontinuïtat.**
 2. **El *Recull d'estadístiques de població*** des del 1979: sèrie sencera, no
    consultada.
 3. **Les sèries del servei d'ordre des del 1947**: on són.
