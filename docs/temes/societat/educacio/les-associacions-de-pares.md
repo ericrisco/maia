@@ -141,7 +141,11 @@ oblidada:
   Engordany**, fons local, signatura **37 PER**, exclòs de préstec ([fitxa de
   font](../../../fonts/llibre-l-avui-al-dema-cataleg.md)). **El llibre encara no
   s'ha llegit**; el buit de contingut i l'accés per consulta continuen oberts.
-- **Per què l'APA de l'Escola Andorrana no forma part de la CONAPA.**
+- ~~**Per què l'APA de l'Escola Andorrana no forma part de la CONAPA.**~~ —
+  **`parcial` el 2026-09-20**: la CONAPA enumera les federacions d'APA
+  confessionals, espanyoles i franceses, més l'APA de Nostra Senyora de
+  Meritxell; l'APA de l'Escola Andorrana queda fora de la llista, tot i que la
+  font diu que hi col·laborava. **No en dona el motiu.**
 - **Quantes APA hi ha** i quants socis.
 - **Si la CONAPA existeix encara.**
 - ~~**El Reglament del transport escolar** (BOPA 9.9.1998).~~ — **`parcial` el
