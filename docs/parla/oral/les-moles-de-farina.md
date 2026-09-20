@@ -271,9 +271,9 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
    aglutinat a *assecle*— **i no l'afirma**: **cap font del corpus no ho
    documenta**, i **la parlant no les usa mai en la mateixa frase.**
 4. **`[?Tobira]`** (×4), el molí d'Andorra la Vella, **no s'ha identificat**.
-5. **Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.
-   Sap els mots **per recerca**, no necessàriament per haver-los viscut, i això
-   canvia què proven: **són mots que ella ha recollit, i el seu informant era
-   «un vell moliner» que el corpus no té enregistrat.**
+5. ~~**Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.~~ —
+   **`no-es-buit` el 20-09-2026**: la peça indica que sap els mots **per recerca**
+   i que l'informant era «un vell moliner» que el corpus no té enregistrat; no
+   publica cap perfil que permeti situar-la.
 6. **El «vell moliner» és la font de veritat i no hi som a temps.** Aquesta peça
    assenyala una generació de parlants d'ofici que **ningú no va gravar**.

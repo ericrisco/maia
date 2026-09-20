@@ -334,8 +334,9 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
    mal sentida. **Queda sense resoldre.**
 4. **«30 i escaig d'anys»** (00:00:21) és ambigu —edat o durada— i va marcat.
    **No serveix per datar-lo.**
-5. **De la persona no consta res**: ni origen, ni llengua primera, ni ofici. És
-   el perfil més buit de les cinc tandes.
+5. ~~**De la persona no consta res**: ni origen, ni llengua primera, ni ofici.~~ —
+   **`no-es-buit` el 20-09-2026**: el registre de la tanda conserva el testimoni
+   però no publica metadata biogràfica.
 6. **`sigut` i `inclús` són candidats, no trets confirmats.** Tres parlants d'una
    mateixa cohort política i d'un mateix registre no són una mostra del país; i
    totes tres ocurrències de `sigut` podrien ser normalització de whisper cap a

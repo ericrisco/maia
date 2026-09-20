@@ -550,5 +550,7 @@ més consistent del corpus**. Es tanca escoltant.
    peces i dos topònims. `no-es-buit`: és un avís d'ús de la transcripció, no una
    pregunta pendent.
 5. **`[?ben] cuidor`** és probablement *bé, cuidador* o *soc cuidador*. Sense resoldre.
-6. **De la persona no consta** ni generació, ni origen, ni llengua primera.
+6. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera.~~ —
+   **`no-es-buit` el 20-09-2026**: la peça conserva l'enregistrament i el tema,
+   però no publica un perfil biogràfic del parlant.
 7. **Els noms de campanes** —*Bàrbara*, *Tempesta Marge*— no s'han verificat.

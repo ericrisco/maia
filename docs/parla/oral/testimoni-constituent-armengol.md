@@ -240,8 +240,9 @@ no.** El mateix patró que `sigut` i `tindre`.
 3. **`[?empenyagut]`** és el tipus de forma que interessaria —un participi
    refet— i és **justament la que la màquina dona amb menys confiança**. Sense
    escoltar, no és res.
-4. **Del parlant no consta res**: ni generació, ni origen, ni llengua primera,
-   ni ofici. **És el quart perfil buit seguit d'aquesta sèrie.**
+4. ~~**Del parlant no consta res**: ni generació, ni origen, ni llengua primera,
+   ni ofici.~~ — **`no-es-buit` el 20-09-2026**: la sèrie d'entrevistes no
+   publica cap metadata biogràfica del parlant.
 5. **Lèxicament és la peça més pobra** de les onze: cap mot d'ofici, cap
    andorranisme. Confirma per tercera vegada que **les entrevistes polítiques
    donen sintaxi i marcadors, no lèxic**. `no-es-buit`: és una observació de

@@ -975,8 +975,10 @@ principi que un corrector destruiria la dada.
    Simorra**; `Salvador [?Armet]` i `[?Comte] de Carlet` sense verificar;
    `Cal [?Callehueta] del Puyal` sense identificar. **El corpus no els ha de
    donar per bons.**
-4. **Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.
-   Cita llocs d'Andorra la Vella però com a exemples. **No es pot situar la veu.**
+4. ~~**Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.
+   Cita llocs d'Andorra la Vella però com a exemples.~~ — **`no-es-buit` el
+   20-09-2026**: la font no publica metadata per situar la veu i el corpus no
+   converteix exemples de lloc en residència.
 5. **`fallaire` en singular no surt enlloc de `docs/temes/`**, però *fallaires*
    sí, a tres articles. **No és lèxic nou per al corpus: és lèxic ja conegut,
    dit per primera vegada.** `no-es-buit`: és una nota de novetat lèxica, no una

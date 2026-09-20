@@ -483,7 +483,9 @@ tot.
    s'ha contrastat amb cap descripció del sistema electoral d'abans del 1993**.
 5. **`pro-[?piscopal]`**: *episcopal* amb la vocal inicial caiguda. **Pot ser ell
    o pot ser la màquina**, i és el mateix dubte que `endorrans`.
-6. **De la persona no consta** ni generació exacta, ni llengua primera, ni ofici.
+6. ~~**De la persona no consta** ni generació exacta, ni llengua primera, ni ofici.~~ —
+   **`no-es-buit` el 20-09-2026**: la fitxa no publica aquestes dades personals
+   del parlant.
 7. ~~**Falta una parròquia.** Amb aquesta en són sis; **Andorra la Vella és
    l'única del corpus de parla que encara no té veu.**~~ **`resolt`**: el corpus
    ja té veus d'Andorra la Vella, entre d'altres [Miquel

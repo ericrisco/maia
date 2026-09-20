@@ -325,10 +325,9 @@ I la seva ocurrència dona **la construcció sencera**, no el participi solt:
 1. **`no-es-buit`** — **Les 116 marques no s'han verificat.**
 2. **Cap mot nou.** És una tanda de confirmació, com la 18.
    `no-es-buit`: és una descripció del resultat, no una pregunta pendent.
-3. **De la persona no consta** ni generació, ni origen, ni llengua primera, ni
-   ofici. **És el cinquè perfil buit seguit d'aquesta sèrie**, i ja no és un
-   descuit: **les entrevistes del Consell General no pregunten res personal**.
-   Qui vulgui perfils haurà de treure'ls d'una altra banda.
+3. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera, ni
+   ofici.~~ — **`no-es-buit` el 20-09-2026**: les entrevistes del Consell General
+   no pregunten dades personals i aquesta peça no publica cap perfil biogràfic.
 4. **`sigut` amb set parlants segueix sense provar res sobre Andorra.** És
    corrent a tot el domini lingüístic. El que prova és **que la parla el fa
    servir i la prosa del corpus no**. `no-es-buit`: és una limitació d'ús de la

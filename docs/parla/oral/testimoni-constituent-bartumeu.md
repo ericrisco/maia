@@ -1423,7 +1423,8 @@ tandes 3 i 4 van ensenyar què passa quan s'afirma amb un sol parlant.
    qualitat d'àudio, afectaria la resta igual.
 3. **`[?l'Instenstein]`** és quasi segur *Liechtenstein*; **`[?botina a bordo]`**
    no té lectura. Sense resoldre.
-4. **De la persona no consta** ni llengua primera, ni ofici, ni any de naixement.
+4. ~~**De la persona no consta** ni llengua primera, ni ofici, ni any de naixement.~~ —
+   **`no-es-buit` el 20-09-2026**: el testimoni no incorpora cap perfil biogràfic.
 5. **Es parla de persones vives i de conflictes polítics concrets** —llicències,
    vetos, el paper dels coprínceps— **amb la transcripció sense verificar**. Cap
    afirmació d'aquesta peça no s'ha de citar com a fet.
