@@ -63,8 +63,8 @@ Seu d'Urgell**. **Aconsegueix el reconeixement papal de Sant Ermengol el
 
 ## Buits registrats
 
-1. **El text complet del decret del 3 de febrer de 1715**, més enllà de
-   la citació de *La cuestión de Andorra* (1894).
+1. ~~**El text complet del decret del 3 de febrer de 1715**, més enllà de
+   la citació de *La cuestión de Andorra* (1894).~~ — **`resolt` el 20-09-2026** com a buit duplicat: [No obeïu cap ordre que no vingui dels dos](../historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md) ja en conserva la transcripció íntegra, amb data de Balaguer, signatura de **Simeó, bisbe d’Urgell**, i secretari **Pedro Vizent**. L’original d’arxiu continua sent un buit separat d’aquella fitxa.
 2. ~~**Detall de la seva actuació episcopal** més enllà dels fets ja
    documentats.~~ — **`parcial` el 19-09-2026**: la fitxa ja en documenta tres
    fets concrets —**convent d'ensenyament per a noies (1722)**, **catecisme
