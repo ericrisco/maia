@@ -256,7 +256,7 @@ pogut datar-ne els anys**.
    Corp](../../persones/esteve-albert-i-corp.md), que en dona les dates, l'exili
    a Andorra el 1956 i els muntatges populars que expliquen la seva presència
    en aquest article.
-8. **El Grup Artístic Pirene** i **Narcís Bonet**.
+8. ~~**El Grup Artístic Pirene** i **Narcís Bonet**.~~ — **`parcial` el 20-09-2026**: la mateixa fitxa identifica el **Grup Artístic Pirene** com el grup que va representar l’*Oratori del Naixement* a Andorra el **desembre de 1963**, amb música de **Narcís Bonet**. La trajectòria del grup i la biografia completa del compositor continuen obertes.
 9. ~~**El lèxic del carnaval andorrà**, que el corpus ja tenia registrat com a
    buit i **segueix obert**.~~ — **`parcial`, actualitzat el 2026-09-19**: la
    farsa ja documenta que incorpora referències eròtiques i **llenguatge vulgar**
