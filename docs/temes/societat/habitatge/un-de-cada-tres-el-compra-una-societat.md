@@ -163,8 +163,12 @@ o més en compren tres vegades més que ells.**
   font, que no publica aquests creuaments.
 - **El preu pagat per tipus de comprador.** **La font dona qui compra i quants
   béns, i no per quant.** `font_externa`
-- **Per què els portuguesos compren el 2,3% dels béns** essent molt més del 2,3%
-  de la població. `pregunta_oberta`
+- ~~**Per què els portuguesos compren el 2,3% dels béns essent molt més del 2,3%
+  de la població**~~ — **`parcial` el 20-09-2026**: el 2025 hi ha **97 béns**
+  comprats per persones de nacionalitat portuguesa (**2,3% de les persones
+  físiques**), mentre la comunitat portuguesa del país ronda les **9.000
+  persones**. La font no creua les compres amb renda, antiguitat de residència
+  ni altres variables que permetrien explicar la diferència.
 - **Quina part dels béns transmesos són habitatges** i quina part són places
   d'aparcament, trasters, terrenys o locals. **La taula per tipologia existeix i
   aquesta fitxa no l'ha buidada.** `serie_estadistica`
