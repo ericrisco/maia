@@ -189,6 +189,17 @@ civil i la llei de successions, i dona al Govern **sis mesos** per al desplegame
 reglamentari. **El registre civil andorrà té trenta anys i acaba d'estrenar la
 seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
 
+**El primer registre de taxa d'atur que el corpus pot consultar ara és molt
+posterior al buit que descriu la ponència.** El bolcat del Departament
+d'Estadística dona la sèrie **«TAXA D'ATUR TOTAL · 15 ANYS I MÉS»** des de
+**desembre de 2009**, amb **3,5 %** en el primer període; el mateix catàleg
+distingeix aquesta taxa d'enquesta del registre administratiu de demandants
+d'ocupació, que arrenca el gener de 2008
+([README de mercat de treball](../../../raw/estadistica-api/treball-mercat/README.md),
+[bolcat de la sèrie](../../../raw/estadistica-api/treball-mercat/treball-mercat-api-2026-09-18.tsv)).
+**És el primer punt disponible al corpus, no una prova que no n'hi hagués cap
+altre abans.**
+
 ## Buits registrats
 
 1. ~~**El cens de 1989**: què conté, qui el va fer, i per què no va tenir
@@ -211,7 +222,10 @@ seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
    [Reglament de l’Arxiu Nacional](../../cultura/museus-i-arxius/series-senceres-no.md)
    fixa les regles generals d’accés, però el corpus encara no ha consultat els
    llibres ni pot confirmar la consulta pràctica de cada parròquia.
-5. **Quan apareix la primera taxa d'atur andorrana** digna d'aquest nom.
+5. ~~**Quan apareix la primera taxa d'atur andorrana** digna d'aquest nom.~~ —
+   **`parcial` el 21-09-2026**: la sèrie oficial disponible al corpus comença el
+   **desembre de 2009 (3,5 %)**; el bolcat no permet afirmar que sigui la primera
+   taxa publicada històricament.
 6. ~~**Si el cens es va reprendre** després del 1997.~~ — **`parcial` el 20-09-2026**: [Estadística](../../../raw/web/societat/demografia/censos/estadistica-poblacio-2025.txt) documenta que des del **desembre de 2009** estima mensualment la població amb censos comunals i registres administratius; el [Govern](../../../raw/web/societat/demografia/censos/govern-pla-estadistic-2017.txt) va projectar el 2017 un Registre Estadístic de Població i un cens estadístic. **No queda provat que es fes un cens general equivalent al de 1989.**
 7. ~~**La Llei del Registre Civil** i la data exacta de la seva entrada en vigor:
    la font diu «el febrer d'enguany» i **no dona el dia ni la norma**.~~
