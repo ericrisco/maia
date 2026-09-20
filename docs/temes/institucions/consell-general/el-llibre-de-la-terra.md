@@ -105,7 +105,7 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
 ## Buits registrats
 
 1. **On és el Llibre de la Terra** avui i si està editat o transcrit.
-2. **Qui era Miquel Ribot d'Aixirivall.**
+2. ~~**Qui era Miquel Ribot d'Aixirivall.**~~ — **`parcial` el 20-09-2026**: la mateixa fitxa ja l'identifica com l'**escrivà del Consell de la Terra** que començà a redactar el *Llibre de la Terra* el **1486**; la biografia completa encara no hi consta.
 3. ~~**Les set ordinacions senceres**, una per una.~~ — **`parcial` el 17-09-2026:
    **dues de les set ja són al corpus, senceres i transcrites**, des de les
    [actes històriques del Consell
