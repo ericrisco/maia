@@ -273,9 +273,15 @@ partits o més amb Andorra.**
   hauria de pujar al cos d'aquest article**: **dotze victòries en quaranta-set
   partits** — **la selecció femenina andorrana guanya quatre vegades més sovint
   que la masculina**, **en un país sense lliga femenina.**
-- **Les seleccions de base** —sub-21, sub-19, sub-17— i **el futbol sala,
+- ~~**Les seleccions de base** —sub-21, sub-19, sub-17— i **el futbol sala,
   l'handbol, el rugbi i les altres vint seleccions nacionals**
-  ([els altres Jocs](../competicio/els-altres-jocs.md)).
+  ([els altres Jocs](../competicio/els-altres-jocs.md)).~~ — **`parcial` el
+  20-09-2026**: [la llista de seleccions nacionals](../competicio/els-altres-jocs.md#les-seleccions-nacionals-per-fi-llistades)
+  enumera les categories de futbol (masculina, sub-21, sub-19, sub-17,
+  femenina i femenina sub-17), futbol sala, handbol i les tres variants de
+  rugbi, dins d'una taula de **27 entrades en 12 esports**. **La xifra de 23
+  seleccions que apareix en una altra font queda registrada com a divergència,
+  sense arbitrar-la.**
 
 ## Related
 
