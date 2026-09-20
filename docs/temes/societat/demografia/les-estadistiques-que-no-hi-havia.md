@@ -204,7 +204,7 @@ seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
    registre civil fins al 1997: **on es conserven i si són consultables**. Vegeu
    [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md).
 5. **Quan apareix la primera taxa d'atur andorrana** digna d'aquest nom.
-6. **Si el cens es va reprendre** després del 1997.
+6. ~~**Si el cens es va reprendre** després del 1997.~~ — **`parcial` el 20-09-2026**: [Estadística](../../../raw/web/societat/demografia/censos/estadistica-poblacio-2025.txt) documenta que des del **desembre de 2009** estima mensualment la població amb censos comunals i registres administratius; el [Govern](../../../raw/web/societat/demografia/censos/govern-pla-estadistic-2017.txt) va projectar el 2017 un Registre Estadístic de Població i un cens estadístic. **No queda provat que es fes un cens general equivalent al de 1989.**
 7. ~~**La Llei del Registre Civil** i la data exacta de la seva entrada en vigor:
    la font diu «el febrer d'enguany» i **no dona el dia ni la norma**.~~
    `resolt` el 17-09-2026 — vegeu
