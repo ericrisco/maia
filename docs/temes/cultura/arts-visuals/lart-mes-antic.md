@@ -107,7 +107,12 @@ tot el Pirineu de sota i amb la idea que
 2. ~~**La Feixa del Moro de Juberri** — l'enterrament.~~ — **`resolt` el 19-09-2026**: vegeu [la fitxa de la Feixa del Moro](./feixa-del-moro.md), basada en el registre del Govern i l'article acadèmic de 2016. El conjunt té **tres sepultures en cista**, a més d'estructures d'hàbitat, llars i sitges, datades entre el neolític antic i mitjà.
 3. ~~**El Cedre** i **l'Oral** — jaciments.~~ **[parcial · 2026-09-19]** La fitxa ja identifica **l'Oral** com el lloc on es van trobar el **peu votiu** i la **fíbula** de l'edat del bronze. Encara falten les fitxes completes de l'Oral i del Cedre.
 4. **Els gravats rupestres**: inventari.
-5. **Què hi havia en època romana**, si no hi ha vil·les.
+5. ~~**Què hi havia en època romana**, si no hi ha vil·les.~~ — **`parcial` el
+   2026-09-20**: la font afirma que a Andorra **no hi ha grans temples grecs o
+   romans ni cap vil·la**, i només documenta **contacte** amb el món romà com a
+   context de l'evangelització posterior. **Aquesta font no aporta un inventari
+   romà alternatiu ni permet saber quins assentaments o objectes romans hi
+   havia**, de manera que el buit arqueològic concret continua obert.
 6. ~~**On són avui** aquestes peces. Museu?~~ — **`parcial`, confirmat el
    19-09-2026**: l'article 26.1 de la [Llei 9/2003 del patrimoni
    cultural](../../../raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt)
