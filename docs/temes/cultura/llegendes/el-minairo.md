@@ -118,7 +118,7 @@ tradició pròpia i aïllada.
 - **Quines cases andorranes tenien fama de tenir-ne.**
 - **Versions andorranes recollides**: la font parla d'Andorra i els exemples que
   dona són tots de fora.
-- **L'herba menaironera**: si té nom botànic i si és la falguera.
+- ~~**L'herba menaironera**: si té nom botànic i si és la falguera.~~ — **`parcial` el 20-09-2026**: la guia oficial del [bosc dels menairons de Pal](../../../raw/web/cultura/llegendes/lamassana-bosc-dels-menairons-2021.txt), del Comú de La Massana, la descriu dins la llegenda com «un tipus de falguera», però no n'aporta cap nom botànic ni identifica una espècie real.
 - ~~**Si els minairons surten al recull de [llegendes](./llegendes.md)
   andorrà** que el corpus ja té.~~ — **`resolt` el 18-09-2026**: l'índex actual
   del recull enumera només **la troballa de Meritxell, el Roc de les Bruixes i
