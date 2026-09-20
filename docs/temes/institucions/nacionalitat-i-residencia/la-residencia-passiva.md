@@ -186,10 +186,25 @@ cohesió social**».
 **I les residències sense activitat lucrativa computen dins la quota** —excepte
 les dels articles 91, 93 i 94 i les persones exemptes de l'article 97.
 
+**El corpus ja conserva mostres de com es concretava la quota abans i després de
+la llei del 2012.** L'edicte de **1989** fixava **950 autoritzacions temporals
+d'hivern**, **80 per a tècnics d'estacions d'esquí** i **50 prorrogables**
+([text de 1989](../../../raw/societat/immigracio-quotes/quota-1989-15596.txt));
+l'edicte de **1991** separava **909 prorrogables**, **750 temporals**, **75 per
+a personal qualificat**, **300 per a noves empreses** i **900 temporers
+d'hivern**, amb equips esportius i administracions fora de quota
+([text de 1991](../../../raw/societat/immigracio-quotes/quota-1991-1200E.txt)).
+El reglament sectorial de **2011** mostra el mateix mecanisme en una activitat
+concreta: **90 autoritzacions per a agències de viatges**, amb un màxim de 50
+per a nacionals de fora de la UE o l'EEE
+([reglament de 2011](../../../raw/lleis/bopa/quotes-immigracio-1989-2011/2011-10-25-decret-del-19-10-2011-pel-qual-s-aprova-el-reglament-de-e8066e.txt)).
+
 ## Buits registrats
 
-1. **Els reglaments de quota**: quants permisos s'aproven cada any i per a quins
-   sectors. **La llei diu qui decideix i no quant.**
+1. ~~**Els reglaments de quota**: quants permisos s'aproven cada any i per a quins
+   sectors.~~ — **`parcial` el 21-09-2026**: els edictes de **1989** i **1991** i
+   el reglament sectorial de **2011** ja donen xifres i sectors concrets, però el
+   corpus encara no ha buidat la sèrie anual completa ni tots els reglaments.
 2. ~~**Quantes residències sense activitat lucrativa hi ha concedides.**~~ — **`parcial` el 2026-09-19**: [La llei d'immigració del 2012](../../societat/immigracio/la-llei-dimmigracio-del-2012.md) reprodueix la sèrie d'autoritzacions vigents i situa la categoria de **residència sense treball** —que el mateix text identifica amb la residència passiva— en **10.199 autoritzacions al desembre de 2025**, davant de **6.893 el 2008**. **La sèrie compta autoritzacions vigents, no el total acumulat de concessions, i no separa les excepcions dels articles 91, 93 i 94.**
 3. ~~**Quan es va crear la figura** i com han evolucionat els imports.~~ —
    **`parcial` el 17-09-2026, i la creació queda datada** des del
