@@ -274,12 +274,18 @@ secretari del Consell General.**
    desplaçament anual** ([Vilar, 1904, p. 80](../../../raw/llibres/vilar-andorre-1904.txt)).
    **La font justifica la periodicitat i confirma el tribut, però no identifica
    l'acord que la va establir ni des de quin any s'aplicava.**
-7. **La fórmula del jurament de fidelitat a França** que els delegats prestaven en
-   lliurar el tribut.
-8. **Qui era el metge del país el 1904** i **des de quan hi havia servei mèdic
-   pagat.** `El corpus no reprodueix el nom d'un particular; el que interessa és la
-   plaça.`
-9. **Quan es van deixar de fer les revistes de tropes** «per economia».
+7. ~~**La fórmula del jurament de fidelitat a França** que els delegats prestaven
+   en lliurar el tribut.~~ — **`parcial` el 20-09-2026**: **Vilar confirma que
+   els delegats prestaven el jurament de fidelitat a França davant del delegat
+   permanent** (p. 80, nota 3), però **la font no en transcriu la fórmula.**
+8. ~~**Qui era el metge del país el 1904** i **des de quan hi havia servei mèdic
+   pagat.**~~ — **`parcial` el 20-09-2026**: **el pressupost de 1904 ja compta
+   un servei mèdic amb un metge remunerat amb **1.500 francs**, però **Vilar no
+   en dona el nom ni la data d'inici.**
+9. ~~**Quan es van deixar de fer les revistes de tropes** «per economia».~~ —
+   **`parcial` el 20-09-2026**: **Vilar diu que la formalitat ja s'havia
+   abandonat per economia quan escriu el 1904** (p. 80, nota 2); **no en dona
+   l'any exacte.**
 10. **Les famílies que detenien els càrrecs de generació en generació.** **El
     corpus no les nomena** i **no té cap sèrie de síndics ni de cònsols per
     comprovar l'afirmació.** **Prioritari si es vol verificar.**
