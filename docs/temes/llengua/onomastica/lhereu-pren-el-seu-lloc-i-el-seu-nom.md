@@ -156,9 +156,13 @@ mou així:
 
 ## Buits registrats
 
-1. **Què volen dir *Fusilé*, *Bota*, *Nyerro*, *Xixarró* i *Malestivat***. **La
-   font els llista i no els glossa.** `Requereix font externa: el Vocabulari
-   d'Andorra (1992) o el Diccionari enciclopèdic d'Andorra (2007).`
+1. ~~**Què volen dir *Fusilé*, *Bota*, *Nyerro*, *Xixarró* i *Malestivat***. **La
+   font els llista i no els glossa.**~~ — **`parcial` el 2026-09-20**: Brutails
+   (1904, p. 118) només permet identificar **`Tabacayre` i `Texidor` com a
+   oficis**, **`Coll Tort` com a tret físic** i *Malestivat* com una lectura
+   provisional que la font no defineix. **`Fusilé`, `Bota`, `Nyerro` i `Xixarró`
+   continuen sense significat documentat**; la possible relació històrica de
+   *Nyerro* queda al punt següent.
 2. **Si el renom *Nyerro* té relació amb les bandositats catalanes.**
    **Coincidència registrada, causalitat no afirmada.**
 3. **Un recull de noms de casa andorrans.** **Segueix sent el buit prioritari de
