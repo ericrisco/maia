@@ -277,12 +277,16 @@ alineades.` `no-es-buit`
   també provat](#el-segon-defecte-tambe-provat) i [Per sector, un cop
   corregit](#per-sector-un-cop-corregit). **La divisió 779 ja no dona `502`**:
   respon retallant la petició als desembres.
-- **Dues divisions que l'API no va servir**: **402 i 411**, els creuaments de
+- ~~**Dues divisions que l'API no va servir**: **402 i 411**, els creuaments de
   massa salarial i salari mitjà per sector i edat. **El 18-09-2026 s'ha provat
   la regla de retall amb elles i no funciona**: **`500` senceres i `502`
   retallades a desembres, a 1990, a 2000 i a 2010.** **Són, amb la 391, la 246 i
   la 247, les cinc úniques divisions del catàleg que el corpus no pot obtenir de
-  cap manera.** `font_externa`
+  cap manera.**~~ — **`no-es-buit` el 20-09-2026**: el README de les divisions
+  que no responen identifica 402 com a **massa salarial per sector i edat** i
+  411 com a **salari mitjà per sector i edat**, i registra les mateixes respostes
+  `500`/`502` després de les retallades
+  ([fitxa de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
 - ~~**Per què la relació cau set punts entre el 1970 i el 1975.**~~ —
   **`parcial` el 2026-09-20**: la taula passa del **68,0% el 1970** al
   **61,0% el 1975**, però la font no n'explica la causa ni permet separar
