@@ -239,9 +239,15 @@ apareixerà a la nota del juny del 2027.**
   per dia**, amb **Ab 0,67 €/dia**, **UBG**, **Co** i **Cp d'època**, al
   **Decret de l'11-04-2018**, que desplega el **Reglament del 31-01-2001**.
   Vegeu l'apartat «Com es calcula, exactament».
-- **Si el Decret del 2018 continua vigent el 2025**, o si hi ha hagut una
+- ~~**Si el Decret del 2018 continua vigent el 2025**, o si hi ha hagut una
   revisió posterior dels imports. **El sondeig del BOPA no n'ha trobat cap de
-  més nova**, i **l'absència no és prova.** `pregunta_oberta`
+  més nova**, i **l'absència no és prova.**~~ — **`parcial` el 2026-09-20**:
+  el [Decret de l'11-04-2018](../../../raw/lleis/bopa/decret-2018-imports-calcul-ajuts-ramaders.txt)
+  deroga expressament el decret d'imports del 2015 i continua sent l'únic
+  decret específic d'aquests ajuts localitzat al corpus. La [Llei 31/2022](../../../raw/lleis/bopa/llei-31-2022-sectors-ramader-agricola.txt)
+  manté el marc dels ajuts i ordena que s'incrementin anualment segons l'IPC,
+  però el corpus no té cap decret posterior que permeti confirmar els imports
+  aplicables el 2025.
 - **Els ajuts dels comuns parròquia per parròquia.** La nota en dona el total i
   diu que Ordino i Sant Julià són estimats. `La font no desagrega.`
 - ~~**A105 (superfícies de cultiu), A106 (explotacions agràries) i A109
