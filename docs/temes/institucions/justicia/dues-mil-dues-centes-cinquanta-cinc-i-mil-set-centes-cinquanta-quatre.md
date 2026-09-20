@@ -354,9 +354,12 @@ existeixen.**
   judicial o un altre estat administratiu; aquesta semàntica continua oberta.
 - **Per què les detencions no posades a disposició judicial pugen de 26 a 403 i
   tornen a 46** en poc més d'una dècada. `pregunta_oberta`
-- **Per què les detencions de menors s'aturen el 2013.** Canvi de llei, de
-  pràctica o de recompte: **la font no ho diu**, i **el corpus té la llei de
-  jurisdicció de menors sense llegir.** `pregunta_oberta`
+- ~~**Per què les detencions de menors s'aturen el 2013.**~~ — **`parcial` el
+  20-09-2026**: el [text refós de la jurisdicció de menors](../../../raw/lleis/bopa/text-refos-jurisdiccio-menors.txt)
+  identifica modificacions de les lleis **9/2005, 87/2010, 17/2014, 28/2014 i
+  40/2014**, però manté l'àmbit dels majors de **12** i menors de **18** anys.
+  No hi consta cap canvi legal de 2013 que expliqui la caiguda; continua oberta
+  la hipòtesi d'un canvi de pràctica o de recompte estadístic.
 - ~~**Les taules «per article» del Codi penal existeixen i no s'han
   destil·lat.**~~ **`resolt` el 18-09-2026**, i **amb una correcció del buit
   mateix**: **deia que el bolcat les deixava fora, i no era veritat.** Les
