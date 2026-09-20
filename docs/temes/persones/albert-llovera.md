@@ -122,7 +122,7 @@ Martí**.
   **Albert Llovera no hi apareix**. **Això documenta l'absència en el registre
   consultat**, però no permet afirmar que mai hi competís sense el registre
   federatiu complet de la FADEA.
-- **La seva trajectòria d'esquiador abans del 1984.**
+- ~~**La seva trajectòria d'esquiador abans del 1984.**~~ — **`parcial` el 20-09-2026**: la [font local](../../fonts/wikipedia-jocs-andorra.md) i el raw consultat indiquen que els seus inicis esportius foren en l'esquí i que el 1984 hi arribà com a **jove promesa amb 17 anys**; el corpus no té una cronologia de proves anterior als Jocs de Sarajevo.
 - ~~**El documental i el llibre**, que són **fonts andorranes de primera persona**
   i el corpus no els té. **Buit prioritari**: *No limits* és **una autobiografia
   esportiva andorrana**.~~ — **`parcial` el 19-09-2026**: la fitxa ja identifica
