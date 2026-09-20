@@ -48,7 +48,7 @@ col·lectives i privades i lloguer d'equip des dels 5 anys —
 
 ## Buits registrats
 
-1. **Quins esquiadors andorrans s'hi entrenen** — la font no ho diu.
+1. ~~**Quins esquiadors andorrans s'hi entrenen** — la font no ho diu.~~ — **`parcial` el 20-09-2026**: la fitxa d’[Irineu Esteve](../../persones/irineu-esteve-altimiras.md) identifica el **NEC La Rabassa-Naturlàndia** com el seu club i confirma que és un fondista que s’hi entrena. **La font de l’estació no dona la llista completa d’esquiadors.**
 2. ~~**Any d'obertura de l'estació.**~~ — **`resolt` el 19-09-2026**: la
    [història institucional de Naturland](../../../fonts/naturland-historia-la-rabassa.md)
    situa els inicis del Camp de neu de La Rabassa el **1994**, amb els primers
