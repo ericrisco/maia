@@ -485,5 +485,8 @@ milió.**
 
   `Requereix la resta dels cent quinze articles; el que s'ha llegit són els
   límits d'endeutament, el tancament en dèficit i els topalls dels tributs.`
-- **Els tributs propis dels comuns** —que l'article 80.2 de la Constitució els
-  reserva, incloent-hi els «tributs tradicionals»— són una altra fitxa.
+- ~~**Els tributs propis dels comuns** —que l'article 80.2 de la Constitució els
+  reserva, incloent-hi els «tributs tradicionals»— són una altra fitxa.~~ —
+  **`no-es-buit` el 21-09-2026**: és una remissió editorial a [Els altres
+  impostos](../../economia/banca-i-fiscalitat/els-altres-impostos.md), no una
+  pregunta pendent d'aquesta fitxa.
