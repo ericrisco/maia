@@ -190,8 +190,10 @@ tradicionals més aquestes tres. **Buit registrat: quantes n'hi ha avui.**
    queda registrada a [la duana](../comerc/la-duana.md) i **no s'arbitra**.
 5. **Quantes d'aquelles cinc sortides s'han fet**, i què va ser del túnel del Rat
    i del port de Cabús.
-6. **Les xifres d'avui** per a cadascuna d'aquestes taules. **Cap dada d'aquesta
-   fitxa no s'ha de donar per vigent.**
+6. ~~**Les xifres d'avui** per a cadascuna d'aquestes taules. **Cap dada
+   d'aquesta fitxa no s'ha de donar per vigent.**~~ — **`no-es-buit`, confirmat
+   el 20-09-2026**: és un avís de vigència de la fitxa de 1995-1997, no una
+   pregunta de recerca amb una resposta continguda al document.
 
 ## Related
 
