@@ -100,8 +100,13 @@ anys.**
 
 ## Buits registrats
 
-1. **L'article d'Antoni Pol al *Periòdic d'Andorra*** que enumera els vuit.
-   **Prioritari i fàcil.**
+1. ~~**L'article d'Antoni Pol al *Periòdic d'Andorra*** que enumera els vuit.~~
+   **`parcial` el 20-09-2026**: la presentació de la 31a Diada reprodueix la
+   formulació exacta —vuit commemoracions entre 2016 i 2020, sis dels moments
+   dins dels darrers cent anys— i l'atribueix a l'article d'Antoni Pol, però el
+   volum no conserva ni l'article original ni la llista dels vuit moments
+   ([font bibliogràfica](../../../fonts/bascompte-consell-de-la-terra.md);
+   [text local](../../../raw/sac-diades/31a-2018-el-parlamentarisme-andorra.txt)).
 2. **El programa oficial de commemoracions del 600 aniversari** del Consell de
    la Terra (2019).
 3. **Què es va publicar en cadascuna** de les vuit efemèrides. Cada aniversari
