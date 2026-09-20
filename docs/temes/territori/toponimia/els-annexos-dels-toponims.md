@@ -325,7 +325,11 @@ per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
   **set llocs que el corpus no tenia**. `El text sencer de cada descripció no
   s'ha transcrit: se n'ha buidat el contingut, no la lletra.`
 - **La discrepància 4.225 / 4.240** entre l'annex i el cos del llibre.
-- **Per què Sant Julià de Lòria concentra 21 de les 80 fitxes.**
+- ~~**Per què Sant Julià de Lòria concentra 21 de les 80 fitxes.**~~ —
+  **`parcial` el 2026-09-20**: el repartiment és **21** fitxes a Sant Julià,
+  **11** a Ordino i la Massana, **10** a Canillo i **4** a Andorra la Vella i
+  Escaldes-Engordany; els autors no expliquen per què la concentració és tan
+  desigual.
 - **El Nomenclàtor d'Andorra** com a font pròpia. `Segueix sense ser al corpus.`
 - ~~**El creuament amb els polígons de perillositat d'allaus** que el corpus ja
   té localitzats: la fitxa de Llorts el convida explícitament.~~ — **`parcial` el
