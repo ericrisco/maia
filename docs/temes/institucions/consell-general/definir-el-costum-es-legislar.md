@@ -290,12 +290,19 @@ font és un present** *(pp. 108-109)*:
 
 ## Buits registrats
 
-1. **Pallerola y Gabriel**, *El Principado de Andorra y su Constitución política*,
+1. ~~**Pallerola y Gabriel**, *El Principado de Andorra y su Constitución política*,
    **Lleida, 1912**. **Llibre nou per al corpus**, citat aquí per dues pàgines
-   concretes —**124** i **127-128**. **Prioritari.**
-2. **Si aquell autor és el veguer episcopal Pallerola** que informava Brutails.
+   concretes —**124** i **127-128**. **Prioritari.**~~ — **`parcial` el
+   20-09-2026**: el [Govern d'Andorra](../../../raw/web/institucions/consell-general/pallerola/govern-pallerola-2004.txt)
+   confirma el títol, l'any i l'estructura en tres parts (història, institucions
+   públiques i dret privat), però el corpus encara no n'ha llegit l'obra
+   completa.
+2. ~~**Si aquell autor és el veguer episcopal Pallerola** que informava Brutails.
    **No comprovat i no afirmat.** `Requereix la portada del llibre o una llista
-   de veguers episcopals.`
+   de veguers episcopals.`~~ — **`resolt` el 20-09-2026**: la mateixa [font del
+   Govern](../../../raw/web/institucions/consell-general/pallerola/govern-pallerola-2004.txt)
+   documenta que Francesc Pallerola i Gabriel fou nomenat **veguer episcopal el
+   juliol de 1882** i que continuava en el càrrec el març de 1912.
 3. ~~**Joan de Déu Trias**, *Constitución política y personalidad internacional
    del Principado de Andorra*, **p. 8**.~~ — **`resolt` com a duplicat el
    19-09-2026**: el buit canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
