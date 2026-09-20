@@ -162,7 +162,7 @@ I una nota al peu que val or:
 
 > «**Molts d'ells pertanyen a la confederació regional del treball.**»
 
-**Els obrers eren de la CNT.** Això confirma, des d'una font de 1989, el que el
+**Una part dels obrers eren de la CNT.** Això confirma, des d'una font de 1989, el que el
 corpus tenia registrat a
 [les vagues de FHASA](../../historia/segle-xx-primera-meitat/les-vagues-de-fhasa.md)
 —vagues fetes «sobretot per obrers espanyols de la CNT»— **i hi afegeix que la
@@ -228,7 +228,7 @@ primera onada és de 1931 i és de carreteres, no de central**.
    ([la primera policia](../../historia/segle-xx-primera-meitat/la-primera-policia.md))
    — de manera que **el contracte de concessió tenia almenys disset articles i
    regulava molt més que l'aigua**.
-7. **Quants dels obrers de 1931** eren de la CNT i què se'n va fer.
+7. ~~**Quants dels obrers de 1931** eren de la CNT i què se'n va fer.~~ — **`parcial` el 20-09-2026**: la font diu que **molts** pertanyien a la **Confederació Regional del Treball**, i la fitxa d’FHASA la identifica com a filial catalana de la **CNT**. **No hi consta quants eren ni què se’n va fer després de les vagues.**
 8. **Si el 1931 van entrar gendarmes francesos**, o si la frase de Camiade avança
    els fets del 1933.
 
