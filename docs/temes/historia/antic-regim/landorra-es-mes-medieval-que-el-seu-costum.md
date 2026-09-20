@@ -249,8 +249,11 @@ la transhumància.**
    adquirir «casa o altres *fincas*», **sencer**.
 4. **Què eren les *consignes*** exactament, i **què les distingia de les
    *animeries* i de les *causes pies*.** La font les enumera i **no les defineix.**
-5. **Com s'anunciaven les *consignes* a l'església**, i **si mai se'n va exigir
-   comptes.** **La font diu «fora de tot control».**
+5. ~~**Com s'anunciaven les *consignes* a l'església**, i **si mai se'n va exigir
+   comptes.**~~ — **`parcial` el 20-09-2026**: la font diu que **les anuncia de
+   tant en tant a l'església** i que són administrades **«fora de tot control»**;
+   queda documentat el canal d'anunci i l'absència de control que descriu
+   l'autor, però no si mai hi hagué una rendició de comptes formal.
 6. **La proporció entre propietat privada i col·lectiva.** **Declarada impossible
    per la font**, i **la causa és institucional: no hi ha cadastre ni impost
    immobiliari.** `Requereix font externa: el cadastre andorrà, si existeix avui.`
