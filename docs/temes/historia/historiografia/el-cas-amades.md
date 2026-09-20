@@ -340,8 +340,9 @@ Tres conseqüències pràctiques:
   sense fer-se** aquí.
 - ~~Quan i com entra la sardana a Andorra~~ — **tancat**: contacte als anys
   trenta via Barcelona, implantació als quaranta. Vegeu més amunt.
-- **Ventura Armengol**: qui era. **Buit registrat**, i **cercat sense èxit el
-  18-09-2026.**
+- ~~**Ventura Armengol**: qui era.~~ — **`parcial` el 20-09-2026**: la mateixa
+  peça el situa com **«mestre de ca l'Orelleta»**, responsable d'ensenyar la
+  sardana; encara no hi ha biografia ni una identificació més completa.
 - ~~**El Sr. Pantebre**: qui era.~~ — **`parcial` el 18-09-2026, bessó amb**
   [escacs](../../esports/escacs/README.md#el-que-falta): **hi ha un Benet
   Pantebre Martínez identificat** (escacs, cònsol d'Andorra la Vella, 1929),
