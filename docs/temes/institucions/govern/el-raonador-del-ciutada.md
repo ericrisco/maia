@@ -194,10 +194,13 @@ Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13)
   d'aquest tipus.
 - **Quantes queixes rep i contra qui**, tampoc; ni si l'informe anual ha arribat
   a assenyalar mai un vici d'inconstitucionalitat.
-- **Si ha actuat mai com a *amicus curiae***, no consta. **Cercat el
+- ~~**Si ha actuat mai com a *amicus curiae***, no consta. **Cercat el
   18-09-2026** al [BOPA](../../../fonts/bopa.md) per la frase exacta: només hi
   surt la llei que li'n dona la potestat (article 3.1.d), cap acte concret
-  d'exercici. `La via del BOPA queda descartada, no pendent.`
+  d'exercici. `La via del BOPA queda descartada, no pendent.`~~ —
+  **`no-es-buit` el 20-09-2026**: la cerca exacta al BOPA només recupera la
+  potestat legal de l'article 3.1.d i cap acte d'exercici; això classifica el
+  límit d'aquesta font sense afirmar que no s'hagi exercit fora del BOPA.
 - ~~**El procediment de tramitació de les queixes** (títol II i següents) no s'ha
   llegit.~~ — **`resolt`** (secció de dalt). **El text era al corpus** a
   [`raw/lleis/raonador-ciutada.txt`](../../../raw/lleis/raonador-ciutada.txt).
