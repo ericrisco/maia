@@ -206,7 +206,11 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
 
 ## El que falta
 
-- **Qui era el coronel Pellejero.**
+- ~~**Qui era el coronel Pellejero.**~~ — **`parcial` el 20-09-2026**: Eugeni
+  Bregolat confirma que, als anys setanta, **la part tècnica de l'aeroport
+  d'Ensiura era a càrrec del coronel Pellejero** ([font conservada](../../../raw/web/economia/transport/pellejero/README.md)).
+  La font no dona el nom complet ni la seva trajectòria militar, de manera que
+  la identificació biogràfica continua oberta.
 - ~~**Què va ser de Dausa.**~~ **`parcial` el 2026-09-19**: l’**Enciclopèdia
   Catalana** confirma que Josep Betriu va crear **Desarrollo del Alto Urgel,
   SA (DAUSA)** el **1975** per construir l’aeroport i que **la instal·lació es
