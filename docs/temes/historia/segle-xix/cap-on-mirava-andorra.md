@@ -184,9 +184,8 @@ tribunal**.
    situa l'obertura de les primeres escoles franceses el **1900**, successivament
    en diferents parròquies. Encara no hi ha al corpus la xifra d'alumnes ni la
    data d'integració en el sistema actual.
-3. **La colònia andorrana de Puisserguier**: quants, des de quan, si en queda
-   rastre. **Prioritari** — és el primer destí d'emigració andorrana amb nom de
-   poble que té el corpus.
+3. ~~**La colònia andorrana de Puisserguier**: quants, des de quan, si en queda
+   rastre.~~ — **`parcial` el 20-09-2026**: [la fitxa de la diàspora](../../societat/immigracio/els-nats-a-andorra.md) ja enllaça **Puisserguier, prop de Besiers (Erau)** com a **«una veritable colònia andorrana»** documentada per Brutails. Encara no hi ha al corpus el nombre de persones, l’inici de la colònia ni el rastre actual.
 4. **Els casos de tancament del trànsit amb França «per raons sanitàries»**.
    Brutails ho afirma i no en data cap.
 5. **La banda de música militar de la Seu** a les festes andorranes: quins anys,
