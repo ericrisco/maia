@@ -176,7 +176,13 @@ abandonades i vi importat— **i registra la de Tor al costat.**
    [el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md).~~
    **TANCAT**: [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md),
    amb les dates, la superfície i l'avançament de la verema.
-6. La **font primària** de Mas per a la documentació de mitjan XVIII.
+6. ~~La **font primària** de Mas per a la documentació de mitjan XVIII.~~ —
+   **`parcial` el 21-09-2026**: la ponència està identificada a la [fitxa de
+   font](../../../fonts/mas-relacions-comercials-1994.md) com **David Mas,
+   «Relacions comercials entre Catalunya i Andorra a l’edat moderna», 7a Diada
+   Andorrana, 1994, p. 61–73**. El corpus té la font publicada i n’ha buidat
+   les dades, però encara no té els documents d’arxiu que Mas va consultar per
+   documentar les vinyes de mitjan segle XVIII.
 
 ## Related
 
