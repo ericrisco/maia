@@ -1,3 +1,7 @@
+---
+title: "Manifestació pel dret a avortar (2018)"
+---
+
 # Manifestació pel dret a avortar (2018)
 
 Font: [Altaveu, «Una seixantena de persones marxen a Andorra la Vella per reivindicar el dret a avortar»](https://www.altaveu.com/actualitat/una-seixantena-depersones-marxen-a-andorra-la-vella-per-reivindicar-el-dret-a-avortar_5592_102.html), publicada el **29 de setembre de 2018** i consultada el **20 de setembre de 2026**.
