@@ -233,8 +233,11 @@ detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica
 - **Què es planta al «tabac amb conreu posterior».**
 - **Quants conreadors de tabac hi ha.** La taula dona explotacions totals per
   parròquia, **no quantes fan tabac**.
-- **Per què Andorra la Vella.** El 42,4% de la terra declarada de la capital és
-  la proporció més alta del país i **no hi ha cap explicació a la font**.
+- ~~**Per què Andorra la Vella**~~ — **`parcial` el 20-09-2026**: la parròquia
+  declara **171.452 m² de tabac**, el **16,7% del tabac del país**, i el tabac
+  ocupa el **42,4% de la seva terra agrària declarada**, la proporció més alta;
+  però la font no explica si ho determinen el parcel·lari, el reg, el relleu o
+  decisions dels conreadors.
 - ~~**La sèrie de superfícies.** Els fitxers arriben fins al **2003** i només
   s'ha llegit el del 2025.~~ — **`resolt` el 18-09-2026**: **llegits els
   vint-i-dos fitxers del 2004 al 2025**, i **l'API d'Estadística
