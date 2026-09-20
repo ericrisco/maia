@@ -144,7 +144,7 @@ consultat s'atura aquí.
    del XX, cinc escoles i biografies de 23 artistes. La pàgina pública no dona
    la llista completa d'obres paisatgístiques ni prova quines representen
    Andorra; resta pendent buidar el catàleg.
-4. **Joan Oromí**, de la Seu d'Urgell: qui era, què més va pintar.
+4. ~~**Joan Oromí**, de la Seu d'Urgell: qui era, què més va pintar.~~ — **`parcial` el 20-09-2026**: la bibliografia local identifica **Josep Oromí i Muntada (1837–1915)** i en registra estudis sobre la seva obra a **Coll de Nargó i Andorra** ([bibliografia de l'IEA](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.txt)). La ponència de Canturri conserva, però, el nom **Joan Oromí**; la identitat entre les dues formes queda com a divergència no arbitrada.
 5. ~~**Sant Joan de la Mosquera** — el corpus no en té res.~~ — **`parcial`,
    confirmat el 2026-09-19**: la mateixa cronologia confirma que **Joan Oromí**
    hi va pintar la volta, però encara no descriu l'edifici ni conserva una fitxa
