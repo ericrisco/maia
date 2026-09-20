@@ -118,8 +118,12 @@ del 2024.`
 - **A quines universitats van els becats**, i a quins països. La fitxa de [la
   Universitat d'Andorra](./la-universitat-dandorra.md) tracta una qüestió
   institucional diferent i no aporta aquesta distribució. `font_externa`
-- **Què va passar el 2024** perquè l'import caigués 314.794 € en un any.
-  `pregunta_oberta`
+- ~~**Què va passar el 2024 perquè l'import caigués 314.794 € en un any**~~ —
+  **`parcial` el 20-09-2026**: l'import passa de **2.663.510 € el 2023** a
+  **2.348.716 € el 2024** (**−314.794 €**), mentre les ajudes baixen de
+  **4.538 a 4.115** i les sol·licituds atorgades de **2.365 a 2.254**; les
+  denegacions pugen de **456 a 484**. La font quantifica el canvi, però no
+  identifica quina prestació o decisió pressupostària el va provocar.
 - **Els crèdits d'estudis**, que la llei del 1992 crea al costat de les beques i
   **no tenen cap taula en aquesta font.** `font_externa`
 
