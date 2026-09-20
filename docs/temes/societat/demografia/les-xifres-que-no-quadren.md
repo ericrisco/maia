@@ -168,7 +168,7 @@ i cadascuna té un autor que responia a una pregunta diferent.
 
 ## El que falta
 
-- **La font de cada xifra**, no l'autor que la cita: cens, estimació o padró.
+- ~~**La font de cada xifra**, no l'autor que la cita: cens, estimació o padró.~~ — **`parcial` el 2026-09-20**: la taula local de la 33a Diada andorrana ([font](../../../raw/sac-diades/33a-2021-andorra-i-la-multiculturalitat/22.txt), «realitzat per CTF, 2020») només explicita que els **4.039 habitants de 1932** provenen d'un **cens**. Per a Pallerola (1912), De Los Ríos Urruti (1920) i Moreno (1930), la font conserva l'autor i la xifra però no diu si són cens, estimació o padró; la naturalesa de cada recompte continua oberta.
 - ~~**Pallerola**~~ **IDENTIFICAT**: és el **veguer episcopal Pallerola**, nomenat
   pel bisbe Casañas, autor d'***El Principado de Andorra y su constitución
   política***, escrit **per reacció a la *Coutume* de Brutails** quan ja feia
