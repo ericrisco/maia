@@ -276,7 +276,11 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    document.`
 6. **El prefaci sencer de Brutails**, i **qui més hi consta.** **El corpus n'ha
    llegit el passatge dels agraïments i no la resta.**
-7. **Si Izarn era jutge o suplent el 1902.** **Divergència menor oberta.**
+7. ~~**Si Izarn era jutge o suplent el 1902.**~~ — **`parcial` el 20-09-2026**:
+   la sentència del **21 de juny de 1902** el llista com a **jutge**, mentre la
+   mateixa font de **1904** el dona com a **suplent**. El corpus conserva les dues
+   dades; falta la cronologia del canvi o una font que permeti decidir quina llista
+   és imprecisa.
 8. **Quants plets andorrans va resoldre aquest tribunal en total.**
 
 ## Related
