@@ -480,9 +480,11 @@ l'òrgan.**
    t. 178, fol. 1-5.
 3. **La carta de delimitació del bisbat d'Urgell** que s'ha llegit com a cessió
    d'Andorra. `obert.`
-4. **Les peces «de les quals s'ha tret penosament una teoria favorable a la
+4. ~~**Les peces «de les quals s'ha tret penosament una teoria favorable a la
    supremacia dels prelats»**: **Brutails no les enumera.** **Sense la llista no
-   es pot comprovar la seva crítica.** `obert, i és una limitació de la font.`
+   es pot comprovar la seva crítica.**~~ — **`no-es-buit` el 20-09-2026**: la
+   mateixa font declara que no identifica les peces i la fitxa no les pot
+   reconstruir a partir d'aquest passatge.
 5. **La concessió de 1433** feta de comú acord pels dos cosenyors, **Bibliothèque
    nationale, fons Dupuy, LII, 18-23 i CLIII, 65-69.** `obert, amb signatura.`
 6. **Quines són les paraules del «joc de paraules» de la neutralitat.** **La font
