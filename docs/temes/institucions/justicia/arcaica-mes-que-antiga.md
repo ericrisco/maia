@@ -304,9 +304,10 @@ tandes.**
    preveia. **Fora de l'abast d'aquesta obra.**
 6. **La llista dels «aportaments castellans»**, **que el corpus té per
    comprovar un per un** després del cas de *postor*.
-7. **Quines eren les altres normes episcopals** que, segons la Conclusió, **han
+7. ~~**Quines eren les altres normes episcopals** que, segons la Conclusió, **han
    perdut la força efectiva.** **La font diu que només dues la conserven i no
-   enumera les que no.**
+   enumera les que no.**~~ — **`no-es-buit` el 20-09-2026**: la conclusió només
+   declara que n'hi ha dues de vigents i no identifica la resta.
 8. ~~**El fons Palmitjavila**: **el manuscrit de procediment, la memòria de reforma
    de la tercera instància i l'expedició original del decret de 1854.**
    **Prioritat màxima, i ara amb tres documents identificats.**~~ — **`parcial`,
