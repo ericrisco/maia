@@ -70,9 +70,14 @@ a la sèrie «andorrana», **46,4** per a «espanyola, llengua materna castellà
   **55,1% de nacionalitat estrangera**, i permet retirar la dependència de
   Viquipèdia per a aquestes dues xifres. **No classifica per lloc de naixement
   el 2024**, que continua obert.
-- La trajectòria històrica de la immigració portuguesa i l'afirmació sobre
-  prioritats de les quotes del 2002 resten pendents de fonts exactes.
-  La taula de nacionalitats de 2026 no les verifica.
+- ~~La trajectòria històrica de la immigració portuguesa i l'afirmació sobre
+  prioritats de les quotes del 2002 resten pendents de fonts exactes.~~ —
+  **`parcial` el 21-09-2026**: la sèrie local ja documenta el pes portuguès —**10 %
+  el 2002**, **16 % i 13.794 persones el 2008**, **14 % i 10.809 el 2012**, i
+  **11,64 % i 9.083 el 2020**— i descriu la davallada posterior a la crisi
+  ([composició per nacionalitats](./la-composicio-per-nacionalitats.md)). La
+  font exacta de l'afirmació sobre les prioritats de les quotes del 2002 encara
+  no s'ha identificat, i la taula de 2026 no la verifica.
 - ~~No s'ha llegit una taula d'ús lingüístic per origen que permeti estimar
   parlants de la varietat andorrana. Nacionalitat i naixement no resolen
   aquest buit.~~ — **`parcial` el 20-09-2026**: la divisió 1975 de l'API sí
