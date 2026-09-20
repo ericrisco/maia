@@ -179,8 +179,10 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
   (**657.000 €** en el valor desglossat), una caiguda de cinc vegades. La
   font no explica si és un canvi d'estructura o una empresa que només declara
   en un dels dos anys.
-- **Què és la recerca en humanitats i arts** que declaren les empreses
-  andorranes, i **quines empreses la fan**. `pregunta_oberta`
+- ~~**Què és la recerca en humanitats i arts, i quines empreses la fan**~~ —
+  **`parcial` el 20-09-2026**: la taula de personal identifica **327 persones**
+  en humanitats i arts el 2024 (**22%** del personal intern en R+D), però la
+  font no descriu els projectes ni les empreses que les ocupen.
 - ~~**Per què la recerca bàsica és gairebé la meitat** de la R+D empresarial~~ —
   **`parcial` el 20-09-2026**: el 2024 la font reparteix la R+D interna en
   **46,8% bàsica, 29,2% aplicada i 24,1% de desenvolupament experimental**;
