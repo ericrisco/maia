@@ -203,9 +203,14 @@ seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
    cobreix el total **2009–2025** i les sèries per poble **2010–2025**; la
    sèrie històrica del *Recull* des de 1979 encara no és al corpus.
 3. **Les sèries del servei d'ordre des del 1947**: on són.
-4. **Els registres parroquials** de naixements i defuncions, que van fer de
-   registre civil fins al 1997: **on es conserven i si són consultables**. Vegeu
-   [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md).
+4. ~~**Els registres parroquials** de naixements i defuncions, que van fer de
+   registre civil fins al 1997: **on es conserven i si són consultables**.~~
+   **`parcial` el 21-09-2026**: [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md)
+   precisa que els **llibres parroquials es conserven fins avui a les
+   parròquies**; no són una sèrie dipositada sencera a l’Arxiu Nacional. El
+   [Reglament de l’Arxiu Nacional](../../cultura/museus-i-arxius/series-senceres-no.md)
+   fixa les regles generals d’accés, però el corpus encara no ha consultat els
+   llibres ni pot confirmar la consulta pràctica de cada parròquia.
 5. **Quan apareix la primera taxa d'atur andorrana** digna d'aquest nom.
 6. ~~**Si el cens es va reprendre** després del 1997.~~ — **`parcial` el 20-09-2026**: [Estadística](../../../raw/web/societat/demografia/censos/estadistica-poblacio-2025.txt) documenta que des del **desembre de 2009** estima mensualment la població amb censos comunals i registres administratius; el [Govern](../../../raw/web/societat/demografia/censos/govern-pla-estadistic-2017.txt) va projectar el 2017 un Registre Estadístic de Població i un cens estadístic. **No queda provat que es fes un cens general equivalent al de 1989.**
 7. ~~**La Llei del Registre Civil** i la data exacta de la seva entrada en vigor:
