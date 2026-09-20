@@ -160,8 +160,9 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
   l'alfabetització per llengua fins al 2009
   ([sis onades en una taula](../llengua/politica-linguistica/sis-onades-en-una-taula.md))
   **i cap dada de llengua de lectura posterior.** `font_externa`
-- **Què es llegeix** —llibres, premsa, pantalla— **no consta.** La taula diu
-  «lectura per oci» i prou.
+- ~~**Què es llegeix** —llibres, premsa, pantalla— **no consta.**~~ —
+  **`no-es-buit` el 20-09-2026**: la variable publicada només és «lectura per
+  oci» i la taula no separa el tipus de contingut.
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat.~~ —
   **`no-es-buit`**: és una limitació declarada de la font, que no publica aquest
   desglossament.
