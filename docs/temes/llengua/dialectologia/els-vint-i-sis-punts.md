@@ -196,7 +196,7 @@ andorrana entri als diccionaris i a l'estàndard oral**
 
 - **Els vint-i-sis punts**, un a un. **Prioritari.**
 - **L'estudi complet** del qual això són «les conclusions generals».
-- **Els gràfics i mapes** de l'annex: aquesta edició no els dona llegibles.
+- ~~**Els gràfics i mapes** de l'annex: aquesta edició no els dona llegibles.~~ — **`no-es-buit` el 20-09-2026**: la font només remet a l'esquema i als gràfics, però aquesta edició no els reprodueix de manera llegible.
 - **Quins dos trets havien desaparegut** ja el 1994.
 - **Refer l'enquesta**: han passat **més de trenta anys** i **dues generacions
   més**. La tercera generació de Rabassa avui té **entre 50 i 60 anys**.
