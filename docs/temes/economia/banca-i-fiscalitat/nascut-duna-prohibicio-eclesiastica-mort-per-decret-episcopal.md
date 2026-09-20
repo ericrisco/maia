@@ -274,19 +274,18 @@ Caldes**.
    actes de 1390 i 1404.** **Vol dir que el censal de 1412 no el garantia una
    cosa: el garantia algú.** **El que segueix obert és qui**, i **si a Andorra
    l'ostatge era real o ja una fórmula del notari.**
-7. ~~**Quan va desaparèixer el violari.**~~ — **Matisat el 24-09-2026 pel mateix
-   volum.** **La peça justificativa XX**, que l'editor titula «*Constitution d'un
-   **violari***» i data **1870-1880**, **és una renda constituïda «*per via de
-   violari o vitalici*»** sobre dues vides. **Dos segles i mig després dels
-   exemples de 1628 i 1639, i trenta anys abans que l'autor escrigui que ja no
-   existeix.** **El corpus no en fa una contradicció**: **l'afirmació és
-   defensable llegida com «ja no existeix com a figura distinta del vitalici» i
-   no ho és llegida com «el mot ha desaparegut».** `Registrat, no arbitrat.`
-   **I permet el càlcul**: **el tipus va passar del **14,29 %** de 1628 al
-   **6,73 %** de cap al 1875** —60 lliures sobre 891—, **que segueix essent el
-   doble del tipus legal del censal posterior a 1854.** **Vegeu** [«per considerar-se com a pensió alimentícia»](./per-considerarse-com-a-pencio-alimenticia.md).
-8. **Per què posar la vida d'un infant aliè al contracte «disminuïa l'àlea».**
-   **La font ho afirma i no ho explica.**
+7. ~~**Quan va desaparèixer el violari.**~~ — **`parcial` el 24-09-2026**:
+   la peça justificativa XX, datada **1870–1880**, encara titula una renda
+   «*Constitution d'un **violari***» i la descriu «*per via de violari o
+   vitalici*», mentre el text de 1904 diu que el violari ja no existia. La
+   divergència queda acotada com a possible desaparició de la figura diferenciada,
+   però no del mot; el tipus passa del **14,29 %** de 1628 al **6,73 %** cap al
+   1875.
+8. ~~**Per què posar la vida d'un infant aliè al contracte «disminuïa l'àlea».**~~ —
+   **`parcial` el 20-09-2026**: la font diu que la renda podia durar fins a la
+   mort de dues vides i que això disminuïa l'àlea; la fitxa acota que el termini
+   depèn de la primera o la segona mort, però la font no explica la fórmula
+   actuarial ni permet quantificar-ne l'efecte.
 9. ~~**Quants censals hi havia el 1904** i **quants se n'havien creat abans del
    1854.**~~ — **`parcial` el 19-09-2026**: la font diu que el nom de *censal*
    és el més freqüent dels textos consultats, però no compta els casos ni els
