@@ -146,6 +146,14 @@ fins al 2073 és molt més petit.
 **El total és 6.308.874,02 €**, calculat —diu el llibre— amb **les previsions
 d'IPC publicades pel Departament d'Estadística el 9 de febrer del 2023**.
 
+**El nombre d'habitatges no apareix al llibre de compromisos, però una peça
+posterior permet acotar-lo sense confondre magnituds.** La memòria d'Habitatge de
+2026 diu que el Govern **disposarà de 458 habitatges**, **distribuïts per totes
+les parròquies**, per al parc públic de lloguer a preu assequible
+([memòria d'Habitatge, p. 1](../../../raw/pressupost-2026/consell-memoria-habitatge-2827.txt)).
+Aquesta xifra és una previsió del parc i **no identifica quants corresponen als
+contractes pluriennals ni quins immobles són seus**.
+
 **A banda, i separat**: **8.000.000 € en vuit anualitats iguals d'un milió
 (2026-2033)** per al **programa extraordinari d'avals per facilitar la compra
 d'un habitatge de residència habitual i permanent.**
@@ -236,8 +244,11 @@ els que superen aquest termini.`
   **CTRASA** com a instrument de gestió directa, mantenint les anualitats i
   les xifres del compromís. El corpus documenta el canvi jurídic, però cap font
   consultada n'explica la motivació política o econòmica.
-- **Quants habitatges cobreixen els contractes d'arrendament assequible** i on
-  són. `L'import hi és; el nombre d'habitatges, no.`
+- ~~**Quants habitatges cobreixen els contractes d'arrendament assequible** i on
+  són.~~ — **`parcial` el 21-09-2026**: la memòria d'Habitatge de 2026 preveu
+  **458 habitatges** per al parc públic de lloguer assequible, distribuïts per
+  totes les parròquies; **no desglossa quants corresponen als contractes del
+  llibre ni permet identificar-ne els immobles.**
 - **Els compromisos pluriennals de menys de cinc anys.**
 - ~~**Si l'heliport ha tingut resultats negatius** i s'ha activat la compensació.~~ — **`parcial` el 2026-09-19**: [el transport](../transport/README.md) documenta la concessió de l’Heliport Nacional **2022-2052** i la compensació contractual de fins a **7.627.034 €** —el **75% de l’amortització**— **si** el concessionari té resultats negatius. **El corpus no té, però, cap compte o resolució que provi que s’hagi produït el resultat negatiu ni que la compensació s’hagi activat.**
 
