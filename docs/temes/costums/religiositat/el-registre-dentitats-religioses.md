@@ -156,7 +156,11 @@ es poden notificar al Registre **«a efectes informatius»**.
    avui](./les-religions-dandorra-avui.md#buits-registrats)). **La resposta
    del Govern a aquella pregunta és ara el buit real, no el registre en
    si.**
-2. **Quantes entitats s'hi han inscrit** des del 2025.
+2. ~~**Quantes entitats s'hi han inscrit** des del 2025.~~ — **`font_externa`,
+   confirmat el 20-09-2026**: la Llei 2/2025 estableix que el registre és
+   públic, però el corpus només conserva la sol·licitud oficial de Susanna Vela
+   del **30 de març de 2026** i no la resposta del Govern ni el contingut del
+   registre. El recompte depèn d'aquest document extern.
 3. ~~**Què hi havia abans del 2025.** Si les confessions no catòliques tenien
    alguna via de personalitat jurídica, i quina.~~ — **`parcial` el 2026-09-20**:
    la disposició transitòria de la **Llei 2/2025** confirma que les entitats
@@ -172,7 +176,10 @@ es poden notificar al Registre **«a efectes informatius»**.
    ja té sencer, setze articles, a
    `docs/raw/relacions-exteriors/concordat-2008/` —**BOPA núm. 47, d'11 de juny
    del 2008.** Aquesta fitxa el citava com si encara faltés.
-5. **Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.
+5. ~~**Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.~~ —
+   **`font_externa`, confirmat el 20-09-2026**: la llei descriu els motius i el
+   procediment de denegació, però el corpus no té resolucions ni resposta del
+   registre que permetin saber si s'ha aplicat mai aquesta clàusula.
 6. ~~**Els canals de diàleg** de l'article 14: si existeixen.~~ — **`parcial`
    el 2026-09-20**: l'article 14 obliga el Govern a establir canals de
    comunicació i diàleg amb les entitats inscrites, i l'exposició de motius
