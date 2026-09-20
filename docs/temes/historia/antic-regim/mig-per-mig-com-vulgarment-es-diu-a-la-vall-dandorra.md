@@ -182,8 +182,9 @@ raó sinó sobre quin dels tres patrimonis paga.**
 7. **Si l'àvia era realment propietària** o **si els sogres ho van al·legar per
    protegir la casa.** **La sentència no resol la titularitat: només diu d'on s'ha
    de pagar.**
-8. **Quants contractes amb clàusula de *millores migeres*** hi ha: la font en
-   dona **quatre entre 1443 i 1551** i **cap del segle XVIII o XIX.**
+8. ~~**Quants contractes amb clàusula de *millores migeres*** hi ha.~~ —
+   **`resolt` el 2026-09-20**: la font en dona **quatre entre 1443 i 1551** i
+   **cap dels segles XVIII o XIX**.
 
 ## Related
 
