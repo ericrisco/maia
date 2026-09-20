@@ -58,8 +58,11 @@ neige*. **Cavaller de la Legió d'Honor des del 14 de gener del 1902.**
 
 ## Buits registrats
 
-1. **El contingut de la seva obra literària**, més enllà del títol
-   premiat.
+1. ~~**El contingut de la seva obra literària**, més enllà del títol
+   premiat.~~ — **`parcial` el 20-09-2026**: la mateixa biografia documenta
+   **assajos sobre Grècia**, poesia en francès i català, i el poema *Fleurs de
+   neige*, premiat als Jocs Florals de Tolosa del 1896. Encara no hi ha el
+   catàleg ni el contingut complet de la seva obra.
 2. **Detall de la seva actuació com a jutge del Tribunal Superior.**
 
 ## Related
