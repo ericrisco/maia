@@ -158,7 +158,11 @@ motiu, no xifres.`
    —aprovació d'ordinacions i constitució formal— però **cap de les dues
    ponències no ho diu**. **El corpus manté el 1604 al cos** perquè és la data
    amb document a l'arxiu parroquial, **i deixa la discrepància escrita**.
-2. **Per què Sant Pere Màrtir** com a patró.
+2. ~~**Per què Sant Pere Màrtir** com a patró.~~ — **`parcial` el 20-09-2026**:
+   els estatuts aprovats pel bisbe **Andreu Capella el 13 de febrer de 1604**
+   donen al gremi de paraires i teixidors d'Escaldes els patrons **Sant Pere
+   Màrtir i Sant Ivó**, i la font descriu la festa del sant el **29 d'abril**.
+   No hi consta el motiu històric de l'elecció de Sant Pere Màrtir ([font web](../../../raw/web/cultura/oficis/README.md)).
 3. **Quants** paraires i teixidors hi havia, i a quines cases.
 4. ~~La **fàbrica de mantes**: el referent comparatiu d’Arsèguel~~ — **`parcial`
    el 18-09-2026**: [*Ara Lleida* núm. 17 (1999), p. 59](../../../fonts/ara-lleida-ruta-oficis-ahir-1999.md)
