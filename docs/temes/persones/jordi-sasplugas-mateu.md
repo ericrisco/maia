@@ -65,8 +65,12 @@ el 27 d'octubre, combinat amb la projecció d'**El món de Pau Casals**
    fixa la creació del **Cineclub de les Valls d'Andorra el 1968** i identifica
    **Jordi Sasplugas** com el primer president. El **1970** que constava al
    corpus era incorrecte.
-2. **El contingut del documental de l'Arxiu Nacional** — el corpus
-   només en sap l'existència i la data de projecció.
+2. ~~**El contingut del documental de l'Arxiu Nacional** — el corpus
+   només en sap l'existència i la data de projecció.~~ — **`parcial` el
+   20-09-2026**: la mateixa fitxa confirma que l'Arxiu Nacional li va dedicar
+   un documental, projectat el **27 d'octubre** junt amb *El món de Pau Casals*
+   (1970-1973), de Joan Baptista Bellsolell. Encara no se n'ha consultat el
+   contingut intern.
 3. **Detalls de la seva activitat al PSUC.**
 
 ## Related
