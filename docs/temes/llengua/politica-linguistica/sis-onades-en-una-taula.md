@@ -298,7 +298,11 @@ català per damunt del que rep**, que és una cosa ben diferent.
   [El català s'escriu pitjor que el castellà](#el-catala-sescriu-pitjor-que-el-castella-i-es-la-distancia-mes-gran-de-la-taula).
   `Tercera vegada en dos dies que un buit del corpus declarava absent una cosa
   que la font publicava sota un altre identificador.`
-- **L'alfabetització del 2014 i del 2018.**
+- ~~**L'alfabetització del 2014 i del 2018.**~~ — **`no-es-buit` el
+  20-09-2026**: la divisió **1962** de l'API només publica la llengua en què es
+  va aprendre a llegir i escriure per a **1995, 1999, 2004 i 2009**; no hi ha
+  files de 2014 ni 2018 en el bolcat local. La discontinuïtat és de la sèrie
+  publicada, no una dada que falti destil·lar.
 - ~~**Els desglossaments per nacionalitat** només hi són per a l'indicador d'ús
   (divisions 1975-1978), no per a les preguntes d'àmbit.~~ — **`no-es-buit`**:
   és l'abast que publica l'API.
