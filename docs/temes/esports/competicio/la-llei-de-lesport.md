@@ -49,7 +49,7 @@ efecte que no és esportiu:
 > olímpic**, atorga a l'esportista **mèrits en les proves d'aptituds físiques**
 > en cas que en el moment de finalitzar la seva carrera esportiva vulgui optar a
 > desenvolupar el seu futur professional **en un lloc de treball de
-> l'Administració pública**» (article 55.4).
+> l'Administració pública**» (article 50.4).
 
 L'acreditació la signa **el Comitè Olímpic Andorrà**.
 
@@ -214,7 +214,12 @@ ensenya abans que l'aula, no és un detall menor.
 
   `L'any 2024 no és a la sèrie: va del 2023 al 2025. I el 2017 hi consta amb
   tots els valors buits. Registrat, no explicat.`
-- **Si algú ha fet servir mai els mèrits de l'article 55.4**, no consta.
+- ~~**Si algú ha fet servir mai els mèrits de l'article 55.4**, no consta.~~ —
+  **`parcial` el 20-09-2026**: la Llei 37/2018 situa la regla a l'article
+  **50.4** i afegeix que la condició d'esportista d'alt nivell és un mèrit
+  avaluable per a l'accés i la promoció a l'Administració (article 50.6), amb
+  acreditació mitjançant certificat del Comitè Olímpic Andorrà. No s'han
+  localitzat convocatòries o expedients que permetin identificar cap ús efectiu.
 - ~~**La [Llei d'esports electrònics](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 8/2021, 44 articles) és al recull i **queda per llegir**: Andorra té llei
   pròpia d'esports electrònics.~~ — **`resolt` el 17-09-2026**, llegida al
