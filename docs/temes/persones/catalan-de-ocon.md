@@ -58,8 +58,12 @@ i **escriu una carta al Consell General** que el corpus documenta a
 
 1. **El text complet del decret del 2 de març de 1762** — el corpus en
    té citacions de dues fonts, no el document sencer.
-2. **La carta al Consell General**, sencera — el corpus en té almenys
-   una frase citada, no el contingut complet.
+2. ~~**La carta al Consell General**, sencera — el corpus en té almenys
+   una frase citada, no el contingut complet.~~ — **`parcial` el 20-09-2026**:
+   [la fitxa de justícia](../institucions/justicia/nomes-per-aquesta-vegada-i-que-no-faci-precedent.md)
+   extreu de la carta una disposició precisa: **les funcions de procurador
+   fiscal no poden ser confiades als rahonadors**. El text íntegre continua
+   requerint l'arxiu del bisbat d'Urgell.
 
 ## Related
 
