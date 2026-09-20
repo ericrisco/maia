@@ -183,12 +183,20 @@ per la via de definir el costum.**
    remissió queda situada a la p. 58 i als capítols **VI, *Les biens*, i VIII,
    *Procédure civile***. Brutails continua sense donar-ne la llista ni el
    nombre: aquest residu documental queda obert.
-5. **Qui eren «els dos delegats»** del Consell General a la justícia criminal, i
-   **si són els rahonadors.** `obert; el corpus no identifica les dues figures.`
+5. ~~**Qui eren «els dos delegats»** del Consell General a la justícia criminal,
+   i **si són els rahonadors.**~~ — **`parcial` el 20-09-2026**: **Brutails diu
+   que el Consell hi intervenia per dos delegats**; una altra fitxa del corpus
+   documenta **dos `rahonadors`** nomenats pel Consell dins de causes ([dos sous
+   per lliura](../justicia/dos-sous-per-lliura-perque-no-sapelli.md)). **La font
+   no nomena els delegats ni prova que siguin aquells dos rahonadors.**
 6. **Un exemple de dictamen «signat successivament pels consellers a petició d'una
    part»**, per veure'n la forma. `obert.`
-7. **Des de quan el Consell General certificava el costum**, i **amb quin
-   fonament**. `obert.`
+7. ~~**Des de quan el Consell General certificava el costum**, i **amb quin
+   fonament**.~~ — **`parcial` el 20-09-2026**: **Brutails diu que conservar el
+   costum era una missió del Consell, que per a un cas difícil consultava els
+   antics o l'assessor, i que la fórmula habitual era «segons les lleis i
+   costums immemorials del país»** (pp. 57-58). **La font no fixa des de quin
+   any exercia aquesta facultat ni aporta el fonament normatiu original.**
 
 **Un buit de la font no és un buit del món.** Que **Brutails no doni les proves de
 les consultes desfigurades** no vol dir que no existissin: **els dictàmens del
