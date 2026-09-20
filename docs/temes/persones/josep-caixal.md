@@ -74,8 +74,8 @@ Pontifici.** **Enterrat a la Seu d'Urgell.**
    [els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md).~~ —
    **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda a
    *Els casalers i els anfochs*.
-2. **Detall de la seva actuació com a copríncep** durant els vint-i-sis
-   anys de mandat, més enllà de la Nova Reforma.
+2. ~~**Detall de la seva actuació com a copríncep** durant els vint-i-sis
+   anys de mandat, més enllà de la Nova Reforma.~~ — **`parcial` el 20-09-2026**: el corpus ja documenta el **decret del 30-09-1853 sobre el control dels estrangers**, l’**indult unilateral de 1855** que va obrir un conflicte sobre el dret de gràcia, la compra del **garrot el 1860** segons una font enciclopèdica, i el seu paper al capdavant del **Pla de Reforma** i en l’aprovació de la **Nova Reforma de 1866**. La raó de la compra del garrot té una divergència explícita amb Brutails (1904), i encara falta una cronologia completa del mandat.
 
 ## Related
 
