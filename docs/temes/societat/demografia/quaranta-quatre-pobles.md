@@ -114,5 +114,7 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
   publica el criteri d'inclusió; la sèrie no permet deduir-lo.
 - **La font barreja dos noms per a la mateixa parròquia** a la taula de pobles.
   Registrat a `docs/raw/estadistica-api/poblacio/README.md`. `no-es-buit`
-- **Aquestes xifres són de padró, no d'estimació de població.** Les dues sèries
-  no donen el mateix ([qui compta com a resident](./qui-compta-com-a-resident.md)).
+- ~~**Aquestes xifres són de padró, no d'estimació de població.** Les dues sèries
+  no donen el mateix ([qui compta com a resident](./qui-compta-com-a-resident.md)).~~
+  — **`no-es-buit`, confirmat el 20-09-2026**: és una cautela metodològica sobre
+  la naturalesa de la sèrie, no una dada pendent de recuperar.
