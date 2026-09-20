@@ -174,11 +174,12 @@ sap si existeix.`
   cita.** `font_externa`
 - **La taula per tipus de família diu «nous casos» i el seu total és el de tots
   els casos.** El corpus la llegeix com a total i ho diu. `font_externa`
-- **La categoria «abús sexual» passa de 22 casos (2019) a zero (2022-2025)** el
+- ~~**La categoria «abús sexual» passa de 22 casos (2019) a zero (2022-2025)** el
   mateix any en què n'apareixen quatre de noves —maltractament psicològic,
   incapacitat parental, violència filioparental, conflicte greu entre
-  progenitors—. **És una recategorització i el corpus no cita aquella sèrie**,
-  però **no ha trobat cap nota metodològica que ho confirmi.** `pregunta_oberta`
+  progenitors—.~~ — **`no-es-buit` el 20-09-2026**: la font no publica cap nota
+  metodològica del canvi; la lectura com a recategorització és una cautela del
+  corpus, no una afirmació verificable amb una dada absent.
 - ~~**No hi ha desglossament per parròquia ni per nacionalitat.**~~ —
   **`no-es-buit`**: és una limitació declarada de la font, que no publica aquests
   desglossaments.
