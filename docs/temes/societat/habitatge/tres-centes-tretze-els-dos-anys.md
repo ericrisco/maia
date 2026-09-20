@@ -157,8 +157,11 @@ va cometre ell mateix i el va cometre el mateix dia que el diagnosticava.**
   dona **percentatges dins de cada tipus de comprador** i no el recompte.
 - **La sèrie de compradors per residència abans del 2026.** És una
   classificació nova: `les notes anteriors no la porten`.
-- **Si el salt del 32,1% de Sant Julià és de preu o de composició** —quins pisos
-  s'hi han venut—. La font no ho permet distingir.
+- ~~**Si el salt del 32,1% de Sant Julià és de preu o de composició**~~ —
+  **`parcial` el 20-09-2026**: el preu mitjà passa de **2.524,4 €/m² el 2024**
+  a **3.335,1 €/m² el 2025** (**+32,1%**), però la font no publica la
+  composició de les operacions per tipologia, superfície o ubicació i no permet
+  separar un efecte de preu d'un efecte de composició.
 - **Els preus per parròquia anteriors al 2024.** `No s'han sondejat les notes
   `A117_A145` anteriors al 20250210.`
 
