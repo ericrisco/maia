@@ -149,7 +149,13 @@ fragmenta amb les herències**.
    l'Andorra actual.**
 5. Si hi ha **historiografia crítica** sobre aquestes dues donacions, com n'hi ha
    sobre la Carta de Carlemany.
-6. **Qui era Borrell II** i per què s'hi desprenia.
+6. ~~**Qui era Borrell II** i per què s'hi desprenia.~~ — **`parcial` el
+   2026-09-20**: la mateixa fitxa ja l'identifica com a **comte de Barcelona i
+   d'Urgell**, i [la consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
+   el situa al terç final del segle X com a constructor del castell de
+   Bragafolls, destruït pels andorrans. **El corpus pot documentar qui era i el
+   context de tensió amb les valls, però no el motiu concret pel qual cedí els
+   alous del 988.**
 
 ## Related
 
