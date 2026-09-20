@@ -123,7 +123,13 @@ agronòmiques** i marca **el judici** com a seu.
    decisiva, i localitzable.**
 2. **Quant** aliment va arribar per la ruta de Santander, i durant quant temps.
 3. **Qui** va gestionar el racionament i com es controlava.
-4. **Quants refugiats** hi havia a Andorra el 1937.
+4. ~~**Quants refugiats** hi havia a Andorra el 1937.~~ — **`parcial` el
+   20-09-2026**: [Els refugiats de la Guerra Civil](../../historia/guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md)
+   situa la població refugiada en aproximadament **4.000 persones el 1936** i
+   **8.000 el 1939**, i recull el flux estimat de **80 refugiats diaris el
+   primer any** i d'uns **200 al mes durant els tres anys de guerra**. El corpus
+   encara no té una xifra de població refugiada resident específicament per al
+   1937.
 5. **Què va passar el 1938-1939** i com enllaça amb la Segona Guerra Mundial.
 6. ~~**Maria Jesús Lluelles**, *La transformació econòmica d'Andorra* —
    **font citada i no consultada**.~~ — **`parcial` el 18-09-2026**:
