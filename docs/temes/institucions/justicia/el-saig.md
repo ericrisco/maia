@@ -177,8 +177,8 @@ Vegeu
    **el règim de l'ofici, sí**, i és a
    [l'execució forçosa](./lexecucio-forcosa.md), que ja treballava sobre el
    text del 2023 sense dir-ho.
-2. **La data exacta del canvi de saig a batlle.** El Politar **la deixa en blanc**
-   i el corpus tampoc la té.
+2. ~~**La data exacta del canvi de saig a batlle.**~~ El Politar **la deixa en
+   blanc** i el corpus tampoc la té.
    - **Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del
      llibre II** del Politar torna a explicar el canvi i **deixa l'any en blanc
      dues vegades** —«nomenats ab aquest nom **desde l'any ….**» i «**desde
