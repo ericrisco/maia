@@ -197,8 +197,11 @@ seva segona llei.** `Unitat pendent: la Llei 9/2026 no s'ha destil·lat.`
    limitació general de les dades a finalitats administratives i a criteris no
    científics. **La font no diu què contenia exactament, qui el va fer ni el
    motiu específic de la discontinuïtat.**
-2. **El *Recull d'estadístiques de població*** des del 1979: sèrie sencera, no
-   consultada.
+2. ~~**El *Recull d'estadístiques de població*** des del 1979: sèrie sencera,
+   no consultada.~~ — **`parcial` el 20-09-2026**: el [bolcat actual de
+   població de l'API](../../../raw/estadistica-api/poblacio/README.md) només
+   cobreix el total **2009–2025** i les sèries per poble **2010–2025**; la
+   sèrie històrica del *Recull* des de 1979 encara no és al corpus.
 3. **Les sèries del servei d'ordre des del 1947**: on són.
 4. **Els registres parroquials** de naixements i defuncions, que van fer de
    registre civil fins al 1997: **on es conserven i si són consultables**. Vegeu
