@@ -227,9 +227,14 @@ detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica
 
 ## Buits registrats
 
-- **El rendiment per hectàrea.** Hi ha collita (109.038 kg el 2024) i
+- ~~**El rendiment per hectàrea.** Hi ha collita (109.038 kg el 2024) i
   superfície (102,8 ha el 2025), **però d'anys diferents**; dividir-les seria
-  inventar-se una xifra. `Cal la superfície del 2024 o la collita del 2025.`
+  inventar-se una xifra. `Cal la superfície del 2024 o la collita del 2025.`~~ —
+  **`parcial` el 20-09-2026**: la mateixa fitxa ja calcula el rendiment per als
+  anys **2010 (1.491 kg/ha), 2020 (821), 2023 (1.133) i 2024 (1.032)** a
+  [la secció de rendiment](#el-rendiment-i-la-precaucio-que-shi-ha-de-posar).
+  El rendiment del **2025** continua obert perquè la superfície i la collita
+  disponibles no són del mateix any.
 - **Què es planta al «tabac amb conreu posterior».**
 - **Quants conreadors de tabac hi ha.** La taula dona explotacions totals per
   parròquia, **no quantes fan tabac**.
