@@ -87,7 +87,12 @@ ni el recorregut complet de totes les peces.
    pas per la Galeria Costa de Palma i una localització posterior al Palau
    March; encara no consta qui va autoritzar l'operació ni el recorregut
    complet.
-3. **Si el crucifix de Yale arriba a tornar**, fins i tot en préstem.
+3. ~~**Si el crucifix de Yale arriba a tornar**, fins i tot en préstem.~~ —
+   **`parcial` el 20-09-2026**: el catàleg de la Universitat de Barcelona encara
+   situa la *Majestat de Sant Miquel de Prats* a la **Yale University Art Gallery**
+   (Maitland F. Griggs Collection, núm. 1930.41), i la cobertura de la
+   recomposició del 2026 parla de reproduccions i rehabilitació, no d'un retorn o
+   préstec. **La possibilitat futura continua oberta.**
 4. ~~**La data de finalització** del projecte de recomposició.~~ — **`parcial`,
    confirmat el 19-09-2026**: el conveni anunciat pel Govern preveu licitar
    durant el 2026 els treballs d'intervenció estructural de l'església, però no
