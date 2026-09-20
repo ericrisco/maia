@@ -301,24 +301,34 @@ contra del costum:**
    **Prioritari**: és la pregunta que tanca el capítol i el corpus no la pot
    respondre amb aquesta font.
    `Requereix font externa: la legislació andorrana posterior a 1904.`
-2. **La sentència de 1898** que ordena retrocedir una terra venuda el 1691, i **el
-   plet del començament del segle XX** sobre un immoble alienat al segle XVII.
-   **Cap dels dos no ve identificat.**
-3. **La sentència sense data que aplica *Filius, ergo hæres***, i **si es va
-   corregir.**
+2. ~~**La sentència de 1898** que ordena retrocedir una terra venuda el 1691, i **el
+   plet del començament del segle XX** sobre un immoble alienat al segle XVII.~~ —
+   **`parcial` el 20-09-2026**: la fitxa ja fixa les dues cronologies —**207 anys**
+   i **més de dos segles**— i el sentit de la retrocessió, però no conserva els
+   textos, les parts ni la identificació arxivística dels dos casos.
+3. ~~**La sentència sense data que aplica *Filius, ergo hæres***, i **si es va
+   corregir.**~~ — **`parcial` el 20-09-2026**: la font conserva la fórmula i la
+   fitxa la contrasta amb la sentència datada del **21 de juny de 1861**, que
+   exigeix provar també la condició d'hereu; la segona sentència continua sense
+   data i no consta cap correcció formal.
 4. **El manuscrit del notari Anton Picart**, que la font cita i el corpus no té.
    `Requereix font externa.`
-5. **El tràfic de drets de rescat que el Consell General va prohibir el 1871**:
+5. ~~**El tràfic de drets de rescat que el Consell General va prohibir el 1871**:
    **l'acord, sencer, i qui era l'individu** —**que el corpus no nomenaria de totes
-   maneres.**
+   maneres.**~~ — **`parcial` el 20-09-2026**: la fitxa confirma que el Consell es
+   va commoure i va prohibir el tràfic el **1871**, i que la font coneixia un dels
+   negociants; falten l'acord íntegre i la identitat, que el corpus no inferirà.
 6. **Quantes famílies venien els seus drets possibles**, i **amb quina quota-litis.**
    **La font coneix personalment un d'aquests homes de negocis i no dona xifres.**
 7. **L'exemple de 1902** d'afixació d'avisos judicials, **que la font diu haver
    tingut a la vista.**
 8. **La crida del 25 de maig de 1487**, de la qual **la font confessa no entendre'n
    tot el sentit.**
-9. **Si es va arribar a organitzar la hipoteca a Andorra**, **que és la primera de
-   les tres propostes.**
+9. ~~**Si es va arribar a organitzar la hipoteca a Andorra**, **que és la primera de
+   les tres propostes.**~~ — **`parcial` el 20-09-2026**: el capítol documenta
+   **hipoteques secretes** i clàusules hipotecàries en actes concrets, però no
+   permet saber si hi va haver una organització general de la hipoteca com a
+   institució.
 
 ## Related
 
