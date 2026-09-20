@@ -241,8 +241,9 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
 - **La població absoluta d'Andorra la Vella i d'Escaldes-Engordany per
   separat**, que **aquesta font no pot donar perquè el 1989 no se'n coneixia el
   límit.**
-- **El total del país al cens del 31-05-1989**, que la ponència no publica.
-  `Els ~50.200 d'aquesta fitxa són càlcul del corpus.`
+- ~~**El total del país al cens del 31-05-1989**, que la ponència no publica.~~ —
+  **`no-es-buit`**: els **~50.200** d'aquesta fitxa són un càlcul del corpus a
+  partir dels totals disponibles, no un total publicat per la ponència.
 - ~~**La taula XII** (Encamp i Sant Julià, evolució 1947-1987), que aquesta
   lectura no ha transcrit. `Localitzada, p. 32-33.`~~ — **`parcial`, actualitzat
   el 2026-09-19**: la taula ja està localitzada a les pàgines 32-33; encara no

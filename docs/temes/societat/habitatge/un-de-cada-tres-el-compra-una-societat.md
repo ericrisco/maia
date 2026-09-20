@@ -178,9 +178,10 @@ divisió **995**, «Béns immobles transmesos per tipologia de bé immoble
   **544 el 2012**; les societats sumen **2.961 béns** el 2011 (**60,0%** del
   total). La font confirma el pic i la reversió immediata, però no identifica
   l'operació ni un canvi de registre que els expliqui.
-- **La nacionalitat i l'edat del capital de les societats compradores**, que és
-  un terç del mercat i **no es publica.** `La font només en dona el percentatge
-  de capital resident.`
+- ~~**La nacionalitat i l'edat del capital de les societats compradores**, que és
+  un terç del mercat i **no es publica.**~~ — **`no-es-buit`**: la font només
+  publica el percentatge de capital resident; no ofereix nacionalitat ni edat
+  dels socis o del capital.
 - ~~**El creuament entre nacionalitat del comprador i parròquia**, i entre
   nacionalitat i tipologia del bé.~~ — **`no-es-buit`**: és una limitació de la
   font, que no publica aquests creuaments.

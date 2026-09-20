@@ -189,8 +189,9 @@ sentit.**
 4. **Quantes vegades es va reclamar la llegítima davant el batlle**, i **amb quin
    resultat**. La font afirma **que el batlle donava la raó al reclamant** i **no
    cita cap cas.** `obert.`
-5. **D'on surt el «nou sobre deu»**: **la font no publica el recompte.** `obert, i
-   és una limitació de la font.`
+5. ~~**D'on surt el «nou sobre deu»**: **la font no publica el recompte.**~~ —
+   **`no-es-buit`**: l'autor ho presenta com una apreciació dels protocols i no
+   acompanya la frase amb cap sèrie o recompte publicat.
 6. ~~**El capítol sobre la llegítima que l'autor anuncia** —«veurem que…»— **més
    endavant al mateix llibre.**~~ — **`resolt` el 19-09-2026**: és la secció
    **«La légitime»** de *La Coutume d'Andorre*, que comença a la p. 149 i
