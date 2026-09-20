@@ -553,4 +553,9 @@ més consistent del corpus**. Es tanca escoltant.
 6. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera.~~ —
    **`no-es-buit` el 20-09-2026**: la peça conserva l'enregistrament i el tema,
    però no publica un perfil biogràfic del parlant.
-7. **Els noms de campanes** —*Bàrbara*, *Tempesta Marge*— no s'han verificat.
+7. ~~**Els noms de campanes** —*Bàrbara*, *Tempesta Marge*— no s'han verificat.~~ —
+   **`parcial` el 20-09-2026**: la mateixa peça identifica **Bàrbara** com la
+   campana d'Ordino de **1620**, usada per conjurar les tempestes, i explica que
+   la campana de Sant Romà de Vila porta la inscripció que anomena **Tempesta
+   Marge**. La transcripció llatina continua marcada com a incerta i cap catàleg
+   campanològic extern no ho ha verificat.
