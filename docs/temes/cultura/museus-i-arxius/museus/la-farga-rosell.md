@@ -62,6 +62,13 @@ importants van ser la **Farga Areny, a Ordino**, i la **Farga Rossell**. També
 situa el principal mener al fons de la vall de **Ransol**, al peu del coll de la
 Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../raw/web/cultura/ferro/README.md))
 
+La documentació patrimonial identifica **Casa Rossell d'Ordino** com la casa
+dels béns i de l'arxiu de la farga, integrats després al patrimoni de l'Estat
+andorrà ([Diada Andorrana de 2002](../../../../raw/sac-diades/15a-2002-una-historia-dandorra-tematica.txt)).
+Una font biogràfica local afegeix que la casa Rossell d'Ordino es va associar
+amb la família Areny-Plandolit per fundar les fargues del Serrat i del Puntal
+([biografia de Guillem de Plandolit i d'Areny](../../../../raw/web/historia/viqui-guillem_de_plandolit_i_dareny.txt)).
+
 ## El que falta
 
 - ~~**Les altres nou fargues** i **les cinc mines de carbó**: on eren i com es
@@ -83,7 +90,11 @@ Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../ra
   Ransol** ([font](../../../../fonts/museusad-mina-de-llorts.md)). **«La
   collada dels Meners» no consta amb aquest nom exacte a la font** —podria
   ser el mateix indret que «els meners de Ransol», sense arbitrar-ho.
-- **Qui eren els Rosell.**
+- ~~**Qui eren els Rosell.**~~ — **`parcial`, confirmat el 20-09-2026**: les
+  fonts locals els identifiquen com la **Casa Rossell d'Ordino**, casa
+  patrimonial vinculada a la farga i associada amb Areny-Plandolit en la
+  fundació d'altres establiments siderúrgics. La genealogia completa i els
+  noms dels seus membres continuen oberts.
 
 ## Related
 
