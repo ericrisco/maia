@@ -107,9 +107,11 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
 - **La sèrie per poble no arrenca fins al 2010.** **Del despoblament dels
   pobles alts al segle XX** —que és el fenomen que el corpus documenta amb
   textos— **no hi ha xifres per nucli.** `font_externa`
-- **Els 44 pobles de la font no són tots els nuclis habitats del país.** **El
-  corpus no sap quin criteri fa servir la font per identificar-los.**
-  `pregunta_oberta`
+- ~~**Els 44 pobles de la font no són tots els nuclis habitats del país.** **El
+  corpus no sap quin criteri fa servir la font per identificar-los.**~~ —
+  **`no-es-buit`**: el [README de població](../../../raw/estadistica-api/poblacio/README.md)
+  declara que «població per poble» són els **44 que la font identifica**, però no
+  publica el criteri d'inclusió; la sèrie no permet deduir-lo.
 - **La font barreja dos noms per a la mateixa parròquia** a la taula de pobles.
   Registrat a `docs/raw/estadistica-api/poblacio/README.md`. `no-es-buit`
 - **Aquestes xifres són de padró, no d'estimació de població.** Les dues sèries

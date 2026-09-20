@@ -168,8 +168,8 @@ pràcticament nul».**
   altres bancs assumeixen **l'actiu i el passiu** de l'entitat, amb un cost final
   de liquidació d'uns **34 milions de pessetes**. El procediment no es clausura
   fins al **1991**. La font no dona la llista ni els imports individuals dels
-  dipositants, de manera que aquesta part queda oberta.
-  `pregunta_oberta`
+  dipositants, de manera que aquesta part no es pot reconstruir amb aquesta
+  font. **`no-es-buit`**
 - **La sèrie d'assalariats per sector entre el 1979 i el 1990.** La ponència
   només dona els dos extrems. `serie_estadistica`
 - **L'enquesta de la conselleria de Turisme i Esports del 1988**, sencera.
