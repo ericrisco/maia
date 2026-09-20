@@ -159,7 +159,7 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
 
 ## Buits registrats
 
-1. **S. Llobet** — qui és i quin estudi dona el 4%.
+1. ~~**S. Llobet** — qui és i quin estudi dona el 4%.~~ — **`parcial` el 20-09-2026**: la [semblança de la Societat Catalana de Geografia](../../../fonts/salvador-llobet-agricultura-andorra.md) identifica **Salvador Llobet i Reverter (1908–1991)** com a geògraf i esmenta *El medio y la vida en Andorra* (**1947**); l’article de David Mas atribueix a Llobet la dada del **4% de superfície conreable**. **Encara no consta la pàgina ni si la xifra prové exactament d’aquest llibre o d’un altre estudi.**
 2. ~~Les **importacions d'urgència organitzades per les institucions**: quines,
    quan, com es pagaven.~~ — **`parcial` el 17-09-2026, i el que apareix no és
    d'urgència: és un abastament permanent, amb contracte.** Font: els [llibres
