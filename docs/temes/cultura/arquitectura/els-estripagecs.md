@@ -105,7 +105,7 @@ vernacular, i el corpus no en té res més.**
 - **Quan es comencen a posar i fins quan.** **Cap font no ho data.**
 - **Si hi ha estripagecs datats o signats.**
 - **Qui els feia.**
-- **El repartiment geogràfic dins Andorra.**
+- ~~**El repartiment geogràfic dins Andorra.**~~ — **`no-es-buit` el 20-09-2026**: la font local declara que no el dona; el buit és una limitació explícita de l’article, no una distribució pendent de reconstruir.
 - ~~**L'escultor** de les peces de Sorteny i dels cims.~~ — **`resolt` el
   18-09-2026**: **Pere Moles Sans**, en una entrevista pròpia
   ([font](../../../fonts/donasecret-pere-moles-entrevista.md)), confirmada
