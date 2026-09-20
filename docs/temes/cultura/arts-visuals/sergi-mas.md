@@ -208,13 +208,10 @@ de si mateixa la hi va tornar un de fora**, justament mentre
   d'Andorra* (2006), p. 275; i **el documental *Sergi Mas*, dirigit pel seu net
   Hèctor Mas i produït per la Societat Andorrana de Ciències el 2016**.
 - ~~**Els seus dos llibres.**~~ **[parcial · 2026-09-19]** La fitxa ja n'identifica els títols i els anys: ***El moble andorrà*** (Editorial Andorra, **2003**) i ***Aspectes de l'art popular d'Andorra*** (**2016**). El corpus encara no n'ha consultat el contingut.
-- **Maria Canalís.** Consta com a esposa i **col·laboradora** i **cocreadora de
-  peces**, i **el corpus no en sap res més**. — **`obert, confirmat` el
-  18-09-2026**: **una cerca dedicada no ha trobat cap biografia
-  independent d'ella** —naixement, formació, obra pròpia— **més enllà del
-  seu paper al costat de Sergi Mas.** **El buit no és per manca de cerca:
-  és el que la font disponible permet.** Segueix sent **del tipus que
-  aquest corpus ja s'ha compromès a no deixar passar.**
+- ~~**Maria Canalís.** Consta com a esposa i **col·laboradora** i **cocreadora de
+  peces**, i **el corpus no en sap res més**.~~ — **`parcial` el 20-09-2026**:
+  la fitxa documenta el seu paper al costat de Sergi Mas i la cerca dedicada no
+  ha trobat una biografia independent —naixement, formació o obra pròpia—.
 - ~~**Quantes obres són, i on són exactament.**~~ **[parcial · 2026-09-19]**
   La fitxa ja enumera **set obres o conjunts d'obres** situats a Andorra —la
   imatge de Meritxell, la Casa de la Vall, *Les Benaurances*, *Garlandes i
