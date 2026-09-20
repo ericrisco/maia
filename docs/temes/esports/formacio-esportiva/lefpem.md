@@ -199,7 +199,10 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
   l'Escola de Formació de Professions Esportives i de Muntanya** (BOPA 6,
   17-1-1996). **Continua pendent qualsevol conveni o relació operativa entre
   les dues.**
-- **La hípica**: es va acabar reconeixent?
+- ~~**La hípica: es va acabar reconeixent?**~~ — **`parcial` el 20-09-2026**:
+  la font de 2000 inclou la **hípica** entre les disciplines de l'Efpem, però
+  l'etiqueta que hi posa és **«en procés de reconeixement»**. El corpus no té
+  una font posterior que confirmi si el reconeixement es va completar.
 - ~~**Què va passar realment** del 2001 ençà. Aquesta fitxa són **previsions del
   2000**.~~ — **`parcial` el 18-09-2026**: **l'escola existeix i està finançada el
   2026 amb 290.542,76 €**, vegeu
