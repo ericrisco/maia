@@ -192,8 +192,10 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
   públics, projectes europeus, convenis— que aquesta estadística no vegi,
   perquè **aquesta enquesta és d'empreses i no de centres**.
   `pregunta_oberta`
-- **Quin programa públic dona els 17.000 € del 2024**, i per què baixa.
-  `pregunta_oberta`
+- ~~**Quin programa públic dona els 17.000 € del 2024**, i per què baixa.~~ —
+  **`parcial` el 2026-09-20**: la taula registra **25.000 € el 2022** i
+  **17.000 € el 2024**, del **4,9‰ a l'1,2‰** del total de R+D interna; però
+  l'enquesta no identifica el programa ni explica la baixada.
 
 ## Related
 
