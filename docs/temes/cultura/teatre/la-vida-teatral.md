@@ -178,9 +178,10 @@ d'investigació amb signatura**:
 1. **La tesi sencera** (Universitat de Lleida, 2017), amb els sis capítols.
    **Prioritari.**
 2. **Els textos de les 87 obres**, i sobretot els dels **dos autors andorrans**.
-3. **Qui va escriure l'obra del conflicte de 1935.** **L'autora no ho ha pogut
-   esbrinar.**
-4. **On era el Teatre d'Ordino.** **Tampoc.**
+3. ~~**Qui va escriure l'obra del conflicte de 1935.** **L'autora no ho ha pogut
+   esbrinar.**~~ — **`no-es-buit` el 20-09-2026**: la font declara que no n’ha
+   pogut identificar l’autoria i aquesta fitxa no n’infereix cap.
+4. ~~**On era el Teatre d'Ordino.** **Tampoc.**~~ — **`no-es-buit` el 20-09-2026**: la font declara que tampoc n’ha pogut esbrinar la localització i la fitxa no la reconstrueix a partir del nom.
 5. **De 1970 ençà**: setanta anys estudiats, cinquanta-sis sense estudiar.
 6. **El Casal del Centre** i els seus cursos de teatre.
 7. **El Sindicat d'Iniciativa de les Valls d'Andorra.**
