@@ -108,7 +108,7 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
 ## El que falta
 
 - **Les catorze obres.** **Cap no és al corpus.**
-- **Quan va arribar a Andorra**, i per què. **Va morir a Sant Julià de Lòria.**
+- ~~**Quan va arribar a Andorra**, i per què.~~ — **`parcial` el 20-09-2026**: la [font biogràfica](../../fonts/wikipedia-religio-andorra.md) conserva la fórmula **«De tornada a Andorra»** abans de la redacció d’*Andorra* (Selecta, 1967), de manera que acredita el retorn previ a 1967; no dona l’any exacte ni el motiu. **Va morir a Sant Julià de Lòria** el 17 de gener de 2004.
 - ***7 gats***, que la font esmenta sense dades d'edició.
 - ~~**La Nit Literària Andorrana** i **l'AEPA**: cap fitxa de cap.~~ —
   **`parcial` el 18-09-2026**: **l'AEPA es funda el 1995**, amb seu a la
