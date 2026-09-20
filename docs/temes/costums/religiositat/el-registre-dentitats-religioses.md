@@ -157,8 +157,15 @@ es poden notificar al Registre **«a efectes informatius»**.
    del Govern a aquella pregunta és ara el buit real, no el registre en
    si.**
 2. **Quantes entitats s'hi han inscrit** des del 2025.
-3. **Què hi havia abans del 2025.** Si les confessions no catòliques tenien alguna
-   via de personalitat jurídica, i quina.
+3. ~~**Què hi havia abans del 2025.** Si les confessions no catòliques tenien
+   alguna via de personalitat jurídica, i quina.~~ — **`parcial` el 2026-09-20**:
+   la disposició transitòria de la **Llei 2/2025** confirma que les entitats
+   religioses que ja estaven inscrites al **Registre d'associacions** podien
+   existir per aquella via i les obliga a demanar la inscripció específica en
+   un termini de dos anys, sense repetir la documentació compatible. **La llei
+   no identifica quines entitats hi havia ni permet reconstruir si totes les
+   confessions no catòliques hi tenien personalitat jurídica**; per això queda
+   oberta la composició concreta del registre anterior.
 4. ~~**L'Acord entre el Principat i la Santa Seu**, sencer.~~ — **`resolt` el
    18-09-2026, i era un buit duplicat**: **és el mateix Concordat del 2008**
    que [aquella fitxa](../../institucions/coprincipat/el-concordat-del-2008.md)
