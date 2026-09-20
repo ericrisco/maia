@@ -1,5 +1,5 @@
 ---
-title: "Escaldes-Engordany"
+title: "Escaldes-Engordany — índex de fitxes"
 ---
 
 # Escaldes-Engordany — índex de fitxes

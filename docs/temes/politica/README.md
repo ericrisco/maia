@@ -1,5 +1,5 @@
 ---
-title: "Política d'Andorra"
+title: "Política d'Andorra — índex de fitxes"
 ---
 
 # Política d'Andorra — índex de fitxes

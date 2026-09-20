@@ -1,5 +1,5 @@
 ---
-title: "Govern"
+title: "Govern — índex de fitxes"
 ---
 
 # Govern — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Patrimoni natural"
+title: "Patrimoni natural — índex de fitxes"
 ---
 
 # Patrimoni natural — índex de fitxes

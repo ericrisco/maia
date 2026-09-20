@@ -1,5 +1,5 @@
 ---
-title: "Com funciona tot"
+title: "Com funciona tot — índex de fitxes"
 ---
 
 # Com funciona tot — índex de fitxes

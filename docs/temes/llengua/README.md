@@ -1,5 +1,5 @@
 ---
-title: "Llengua d'Andorra"
+title: "Llengua d'Andorra — índex de fitxes"
 ---
 
 # Llengua d'Andorra — índex de fitxes

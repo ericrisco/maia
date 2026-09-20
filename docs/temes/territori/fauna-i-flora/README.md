@@ -1,5 +1,5 @@
 ---
-title: "Fauna i flora"
+title: "Fauna i flora — índex de fitxes"
 ---
 
 # Fauna i flora — índex de fitxes

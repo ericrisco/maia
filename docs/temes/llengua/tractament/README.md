@@ -1,5 +1,5 @@
 ---
-title: "Tractament"
+title: "Tractament — índex de fitxes"
 ---
 
 # Tractament — índex de fitxes

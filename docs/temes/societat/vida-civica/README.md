@@ -1,5 +1,5 @@
 ---
-title: "Vida cívica"
+title: "Vida cívica — índex de fitxes"
 ---
 
 # Vida cívica — índex de fitxes

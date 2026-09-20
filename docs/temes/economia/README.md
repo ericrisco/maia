@@ -1,5 +1,5 @@
 ---
-title: "Economia d'Andorra"
+title: "Economia d'Andorra — índex de fitxes"
 ---
 
 # Economia d'Andorra — índex de fitxes

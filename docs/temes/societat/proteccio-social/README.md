@@ -1,5 +1,5 @@
 ---
-title: "Protecció social"
+title: "Protecció social — índex de fitxes"
 ---
 
 # Protecció social — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Calendari festiu"
+title: "Calendari festiu — índex de fitxes"
 ---
 
 # Calendari festiu — índex de fitxes

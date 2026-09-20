@@ -1,5 +1,5 @@
 ---
-title: "Ramaderia i agricultura"
+title: "Ramaderia i agricultura — índex de fitxes"
 ---
 
 # Ramaderia i agricultura — índex de fitxes

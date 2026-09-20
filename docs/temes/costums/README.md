@@ -1,5 +1,5 @@
 ---
-title: "Costums d'Andorra"
+title: "Costums d'Andorra — índex de fitxes"
 ---
 
 # Costums d'Andorra — índex de fitxes

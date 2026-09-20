@@ -1,5 +1,5 @@
 ---
-title: "Arquitectura"
+title: "Arquitectura — índex de fitxes"
 ---
 
 # Arquitectura — índex de fitxes

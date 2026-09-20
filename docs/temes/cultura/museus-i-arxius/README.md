@@ -1,5 +1,5 @@
 ---
-title: "Museus i arxius"
+title: "Museus i arxius — índex de fitxes"
 ---
 
 # Museus i arxius — índex de fitxes

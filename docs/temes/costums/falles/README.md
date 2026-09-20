@@ -1,5 +1,5 @@
 ---
-title: "Falles"
+title: "Falles — índex de fitxes"
 ---
 
 # Falles — índex de fitxes

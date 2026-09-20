@@ -1,5 +1,5 @@
 ---
-title: "Mitjans"
+title: "Mitjans — índex de fitxes"
 ---
 
 # Mitjans — índex de fitxes

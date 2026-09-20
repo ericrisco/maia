@@ -1,5 +1,5 @@
 ---
-title: "Plats"
+title: "Plats — índex de fitxes"
 ---
 
 # Plats — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Habitatge"
+title: "Habitatge — índex de fitxes"
 ---
 
 # Habitatge — índex de fitxes

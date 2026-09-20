@@ -1,5 +1,5 @@
 ---
-title: "Sanitat"
+title: "Sanitat — índex de fitxes"
 ---
 
 # Sanitat — índex de fitxes

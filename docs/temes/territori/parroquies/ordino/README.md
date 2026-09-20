@@ -1,5 +1,5 @@
 ---
-title: "Ordino"
+title: "Ordino — índex de fitxes"
 ---
 
 # Ordino — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Registres"
+title: "Registres — índex de fitxes"
 ---
 
 # Registres — índex de fitxes

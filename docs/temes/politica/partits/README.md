@@ -1,6 +1,6 @@
 ---
 type: index
-title: Partits polítics
+title: "Partits polítics — índex de fitxes"
 description: "La subbranca que tanca el buit que el corpus es tenia registrat com el més gros de la política: qui són els partits andorrans, quan neixen i d'on vénen."
 tema: temes/politica/partits
 veu: compilada

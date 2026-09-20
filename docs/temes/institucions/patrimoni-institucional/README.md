@@ -1,5 +1,5 @@
 ---
-title: "Patrimoni institucional"
+title: "Patrimoni institucional — índex de fitxes"
 ---
 
 # Patrimoni institucional — índex de fitxes

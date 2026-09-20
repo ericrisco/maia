@@ -1,6 +1,6 @@
 ---
 type: article
-title: Les seleccions
+title: "Les seleccions — índex de fitxes"
 description: "Bàsquet, hoquei gel, rugbi, tennis i futbol sala: les altres seleccions nacionals d'Andorra, i el palmarès que el corpus no sabia que existia."
 tema: temes/esports/seleccions
 veu: compilada

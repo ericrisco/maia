@@ -1,5 +1,5 @@
 ---
-title: "Energia i serveis"
+title: "Energia i serveis — índex de fitxes"
 ---
 
 # Energia i serveis — índex de fitxes

@@ -1,6 +1,6 @@
 ---
 type: index
-title: Futbol
+title: "Futbol — índex de fitxes"
 description: "La selecció d'Andorra i els seus futbolistes. Una selecció que no podia existir abans de la Constitució de 1993, i que té el rècord mundial de carrera internacional més llarga."
 tema: temes/esports/futbol
 veu: compilada

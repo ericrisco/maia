@@ -1,5 +1,5 @@
 ---
-title: "Andorra vista de fora"
+title: "Andorra vista de fora — índex de fitxes"
 ---
 
 # Andorra vista de fora — índex de fitxes

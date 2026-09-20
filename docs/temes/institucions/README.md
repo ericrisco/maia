@@ -1,5 +1,5 @@
 ---
-title: "Institucions d'Andorra"
+title: "Institucions d'Andorra — índex de fitxes"
 ---
 
 # Institucions d'Andorra — índex de fitxes

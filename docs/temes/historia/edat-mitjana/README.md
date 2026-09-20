@@ -1,5 +1,5 @@
 ---
-title: "Edat mitjana"
+title: "Edat mitjana — índex de fitxes"
 ---
 
 # Edat mitjana — índex de fitxes

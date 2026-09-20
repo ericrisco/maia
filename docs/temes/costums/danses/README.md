@@ -1,5 +1,5 @@
 ---
-title: "Danses"
+title: "Danses — índex de fitxes"
 ---
 
 # Danses — índex de fitxes

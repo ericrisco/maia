@@ -1,5 +1,5 @@
 ---
-title: "Esquí"
+title: "Esquí — índex de fitxes"
 ---
 
 # Esquí — índex de fitxes

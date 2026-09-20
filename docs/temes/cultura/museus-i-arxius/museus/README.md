@@ -1,6 +1,6 @@
 ---
 type: article
-title: Els museus d'Andorra
+title: "Els museus d'Andorra — índex de fitxes"
 description: "Vint museus, i un Museu Nacional que mai no s'ha construït. La xarxa d'antenes sense tronc."
 tema: temes/cultura/museus-i-arxius/museus
 veu: compilada

@@ -1,5 +1,5 @@
 ---
-title: "Lèxic andorrà"
+title: "Lèxic andorrà — índex de fitxes"
 ---
 
 # Lèxic andorrà — índex de fitxes

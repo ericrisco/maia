@@ -1,6 +1,6 @@
 ---
 type: article
-title: Futbol femení
+title: "Futbol femení — índex de fitxes"
 description: "La subbranca que faltava: trenta-nou fitxes de la selecció andorrana que guanya quatre vegades més sovint que la masculina."
 tema: temes/esports/futbol/femeni
 veu: compilada

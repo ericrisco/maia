@@ -1,5 +1,5 @@
 ---
-title: "Onomàstica"
+title: "Onomàstica — índex de fitxes"
 ---
 
 # Onomàstica — índex de fitxes

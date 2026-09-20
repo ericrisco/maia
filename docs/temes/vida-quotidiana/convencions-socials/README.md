@@ -1,5 +1,5 @@
 ---
-title: "Convencions socials"
+title: "Convencions socials — índex de fitxes"
 ---
 
 # Convencions socials — índex de fitxes

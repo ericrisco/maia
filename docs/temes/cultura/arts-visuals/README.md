@@ -1,6 +1,6 @@
 ---
 type: index
-title: Arts visuals
+title: "Arts visuals — índex de fitxes"
 description: "Artistes i moviments. La branca s'obre amb els dos escultors catalans que van fer bona part de l'Andorra visible del segle XX."
 tema: temes/cultura/arts-visuals
 veu: compilada

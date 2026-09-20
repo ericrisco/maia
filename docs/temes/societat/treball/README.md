@@ -1,5 +1,5 @@
 ---
-title: "Treball"
+title: "Treball — índex de fitxes"
 ---
 
 # Treball — índex de fitxes

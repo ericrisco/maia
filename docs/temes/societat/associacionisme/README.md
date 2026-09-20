@@ -1,5 +1,5 @@
 ---
-title: "Associacionisme"
+title: "Associacionisme — índex de fitxes"
 ---
 
 # Associacionisme — índex de fitxes

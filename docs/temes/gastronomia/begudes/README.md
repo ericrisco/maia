@@ -1,5 +1,5 @@
 ---
-title: "Begudes"
+title: "Begudes — índex de fitxes"
 ---
 
 # Begudes — índex de fitxes

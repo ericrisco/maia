@@ -1,5 +1,5 @@
 ---
-title: "Persones d'Andorra"
+title: "Persones d'Andorra — índex de fitxes"
 ---
 
 # Persones d'Andorra — índex de fitxes

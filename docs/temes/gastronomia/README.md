@@ -1,5 +1,5 @@
 ---
-title: "Gastronomia d'Andorra"
+title: "Gastronomia d'Andorra — índex de fitxes"
 ---
 
 # Gastronomia d'Andorra — índex de fitxes

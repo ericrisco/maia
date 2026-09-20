@@ -1,5 +1,5 @@
 ---
-title: "Contacte de llengües"
+title: "Contacte de llengües — índex de fitxes"
 ---
 
 # Contacte de llengües — índex de fitxes

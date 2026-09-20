@@ -1,5 +1,5 @@
 ---
-title: "Encamp"
+title: "Encamp — índex de fitxes"
 ---
 
 # Encamp — índex de fitxes

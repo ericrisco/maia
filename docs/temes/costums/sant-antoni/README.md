@@ -1,5 +1,5 @@
 ---
-title: "Sant Antoni"
+title: "Sant Antoni — índex de fitxes"
 ---
 
 # Sant Antoni — índex de fitxes

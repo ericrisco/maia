@@ -1,5 +1,5 @@
 ---
-title: "Historiografia"
+title: "Historiografia — índex de fitxes"
 ---
 
 # Historiografia — índex de fitxes

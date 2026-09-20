@@ -1,5 +1,5 @@
 ---
-title: "Competició"
+title: "Competició — índex de fitxes"
 ---
 
 # Competició — índex de fitxes

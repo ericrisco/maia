@@ -1,5 +1,5 @@
 ---
-title: "Religiositat"
+title: "Religiositat — índex de fitxes"
 ---
 
 # Religiositat — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "La Massana"
+title: "La Massana — índex de fitxes"
 ---
 
 # La Massana — índex de fitxes

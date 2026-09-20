@@ -1,5 +1,5 @@
 ---
-title: "Manual Digest"
+title: "Manual Digest — índex de fitxes"
 ---
 
 # Manual Digest — índex de fitxes

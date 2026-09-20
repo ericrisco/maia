@@ -1,5 +1,5 @@
 ---
-title: "Petits estats"
+title: "Petits estats — índex de fitxes"
 ---
 
 # Petits estats — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Història alimentària"
+title: "Història alimentària — índex de fitxes"
 ---
 
 # Història alimentària — índex de fitxes

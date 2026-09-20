@@ -1,5 +1,5 @@
 ---
-title: "Segle XIX"
+title: "Segle XIX — índex de fitxes"
 ---
 
 # Segle XIX — índex de fitxes

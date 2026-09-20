@@ -1,5 +1,5 @@
 ---
-title: "Andorra la Vella"
+title: "Andorra la Vella — índex de fitxes"
 ---
 
 # Andorra la Vella — índex de fitxes

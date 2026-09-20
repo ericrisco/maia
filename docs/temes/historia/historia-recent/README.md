@@ -1,5 +1,5 @@
 ---
-title: "Història recent"
+title: "Història recent — índex de fitxes"
 ---
 
 # Història recent — índex de fitxes

@@ -1,6 +1,6 @@
 ---
 type: article
-title: Clubs i competicions
+title: "Clubs i competicions — índex de fitxes"
 description: "L'estructura del futbol andorrà: una lliga sense camps propis, una copa més vella que la Constitució, un club que juga a Espanya i una federació que ho conté tot."
 tema: temes/esports/futbol/clubs-i-competicions
 veu: compilada

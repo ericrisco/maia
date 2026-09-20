@@ -1,5 +1,5 @@
 ---
-title: "Democratització"
+title: "Democratització — índex de fitxes"
 ---
 
 # Democratització — índex de fitxes

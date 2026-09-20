@@ -1,5 +1,5 @@
 ---
-title: "Esport"
+title: "Esport — índex de fitxes"
 ---
 
 # Esport — índex de fitxes

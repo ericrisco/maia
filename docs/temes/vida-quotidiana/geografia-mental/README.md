@@ -1,5 +1,5 @@
 ---
-title: "Geografia mental"
+title: "Geografia mental — índex de fitxes"
 ---
 
 # Geografia mental — índex de fitxes

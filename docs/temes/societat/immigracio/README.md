@@ -1,5 +1,5 @@
 ---
-title: "Immigració"
+title: "Immigració — índex de fitxes"
 ---
 
 # Immigració — índex de fitxes

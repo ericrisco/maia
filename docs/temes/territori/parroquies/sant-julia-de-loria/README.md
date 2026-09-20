@@ -1,5 +1,5 @@
 ---
-title: "Sant Julià de Lòria"
+title: "Sant Julià de Lòria — índex de fitxes"
 ---
 
 # Sant Julià de Lòria — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Cultura d'Andorra"
+title: "Cultura d'Andorra — índex de fitxes"
 ---
 
 # Cultura d'Andorra — índex de fitxes

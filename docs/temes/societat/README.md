@@ -1,5 +1,5 @@
 ---
-title: "Societat andorrana"
+title: "Societat andorrana — índex de fitxes"
 ---
 
 # Societat andorrana — índex de fitxes

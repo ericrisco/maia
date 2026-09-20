@@ -1,5 +1,5 @@
 ---
-title: "Paisatge construït"
+title: "Paisatge construït — índex de fitxes"
 ---
 
 # Paisatge construït — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Creences"
+title: "Creences — índex de fitxes"
 ---
 
 # Creences — índex de fitxes

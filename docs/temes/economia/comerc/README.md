@@ -1,5 +1,5 @@
 ---
-title: "Comerç"
+title: "Comerç — índex de fitxes"
 ---
 
 # Comerç — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Les grans famílies"
+title: "Les grans famílies — índex de fitxes"
 ---
 
 # Les grans famílies — índex de fitxes

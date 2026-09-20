@@ -1,5 +1,5 @@
 ---
-title: "Canillo"
+title: "Canillo — índex de fitxes"
 ---
 
 # Canillo — índex de fitxes

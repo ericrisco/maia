@@ -1,5 +1,5 @@
 ---
-title: "Turisme i neu"
+title: "Turisme i neu — índex de fitxes"
 ---
 
 # Turisme i neu — índex de fitxes

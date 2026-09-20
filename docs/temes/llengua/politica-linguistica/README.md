@@ -1,5 +1,5 @@
 ---
-title: "Política lingüística"
+title: "Política lingüística — índex de fitxes"
 ---
 
 # Política lingüística — índex de fitxes

@@ -1,6 +1,6 @@
 ---
 type: article
-title: Transport
+title: "Transport — índex de fitxes"
 description: "La branca que faltava: com s'entra i se surt d'un país sense aeroport, sense tren i sense port."
 tema: temes/economia/transport
 veu: compilada

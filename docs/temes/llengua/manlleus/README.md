@@ -1,5 +1,5 @@
 ---
-title: "Manlleus"
+title: "Manlleus — índex de fitxes"
 ---
 
 # Manlleus — índex de fitxes

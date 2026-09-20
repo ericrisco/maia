@@ -1,5 +1,5 @@
 ---
-title: "Quarts i veïnats"
+title: "Quarts i veïnats — índex de fitxes"
 ---
 
 # Quarts i veïnats — índex de fitxes

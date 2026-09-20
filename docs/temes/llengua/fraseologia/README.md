@@ -1,5 +1,5 @@
 ---
-title: "Fraseologia"
+title: "Fraseologia — índex de fitxes"
 ---
 
 # Fraseologia — índex de fitxes

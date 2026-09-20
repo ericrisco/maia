@@ -1,5 +1,5 @@
 ---
-title: "Transformació econòmica"
+title: "Transformació econòmica — índex de fitxes"
 ---
 
 # Transformació econòmica — índex de fitxes

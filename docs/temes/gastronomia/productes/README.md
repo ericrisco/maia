@@ -1,5 +1,5 @@
 ---
-title: "Productes"
+title: "Productes — índex de fitxes"
 ---
 
 # Productes — índex de fitxes

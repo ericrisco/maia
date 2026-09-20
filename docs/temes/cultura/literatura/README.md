@@ -1,5 +1,5 @@
 ---
-title: "Literatura"
+title: "Literatura — índex de fitxes"
 ---
 
 # Literatura — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Fonètica"
+title: "Fonètica — índex de fitxes"
 ---
 
 # Fonètica — índex de fitxes

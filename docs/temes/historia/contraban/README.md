@@ -1,5 +1,5 @@
 ---
-title: "Contraban"
+title: "Contraban — índex de fitxes"
 ---
 
 # Contraban — índex de fitxes

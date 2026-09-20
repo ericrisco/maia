@@ -1,5 +1,5 @@
 ---
-title: "Morfosintaxi"
+title: "Morfosintaxi — índex de fitxes"
 ---
 
 # Morfosintaxi — índex de fitxes

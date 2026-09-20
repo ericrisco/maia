@@ -1,5 +1,5 @@
 ---
-title: "Dialectologia"
+title: "Dialectologia — índex de fitxes"
 ---
 
 # Dialectologia — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Ritus de pas"
+title: "Ritus de pas — índex de fitxes"
 ---
 
 # Ritus de pas — índex de fitxes

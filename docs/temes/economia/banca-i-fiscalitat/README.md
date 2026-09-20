@@ -1,5 +1,5 @@
 ---
-title: "Banca i fiscalitat"
+title: "Banca i fiscalitat — índex de fitxes"
 ---
 
 # Banca i fiscalitat — índex de fitxes

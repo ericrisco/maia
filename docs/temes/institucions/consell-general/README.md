@@ -1,5 +1,5 @@
 ---
-title: "Consell General"
+title: "Consell General — índex de fitxes"
 ---
 
 # Consell General — índex de fitxes

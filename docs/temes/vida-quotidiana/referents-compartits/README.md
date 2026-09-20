@@ -1,5 +1,5 @@
 ---
-title: "Referents compartits"
+title: "Referents compartits — índex de fitxes"
 ---
 
 # Referents compartits — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "El Pareatge"
+title: "El Pareatge — índex de fitxes"
 ---
 
 # El Pareatge — índex de fitxes

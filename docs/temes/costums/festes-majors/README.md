@@ -1,5 +1,5 @@
 ---
-title: "Festes majors"
+title: "Festes majors — índex de fitxes"
 ---
 
 # Festes majors — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Símbols"
+title: "Símbols — índex de fitxes"
 ---
 
 # Símbols — índex de fitxes

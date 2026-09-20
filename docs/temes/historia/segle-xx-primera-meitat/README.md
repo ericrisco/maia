@@ -1,5 +1,5 @@
 ---
-title: "Segle XX, primera meitat"
+title: "Segle XX, primera meitat — índex de fitxes"
 ---
 
 # Segle XX, primera meitat — índex de fitxes

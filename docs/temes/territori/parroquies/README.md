@@ -1,5 +1,5 @@
 ---
-title: "Les set parròquies"
+title: "Les set parròquies — índex de fitxes"
 ---
 
 # Les set parròquies — índex de fitxes

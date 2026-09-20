@@ -1,5 +1,5 @@
 ---
-title: "Territori d'Andorra"
+title: "Territori d'Andorra — índex de fitxes"
 ---
 
 # Territori d'Andorra — índex de fitxes

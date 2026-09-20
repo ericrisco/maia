@@ -1,6 +1,6 @@
 ---
 type: index
-title: Els olímpics d'estiu
+title: "Els olímpics d'estiu — índex de fitxes"
 description: "Fitxa per persona de tots els olímpics d'estiu andorrans que el corpus ha pogut documentar: atletisme, tir, natació, judo, ciclisme, piragüisme i boxa."
 tema: temes/esports/estiu
 veu: compilada

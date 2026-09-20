@@ -1,5 +1,5 @@
 ---
-title: "Calendari gastronòmic"
+title: "Calendari gastronòmic — índex de fitxes"
 ---
 
 # Calendari gastronòmic — índex de fitxes

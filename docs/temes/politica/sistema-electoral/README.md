@@ -1,5 +1,5 @@
 ---
-title: "Sistema electoral"
+title: "Sistema electoral — índex de fitxes"
 ---
 
 # Sistema electoral — índex de fitxes

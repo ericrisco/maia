@@ -1,5 +1,5 @@
 ---
-title: "Gegants"
+title: "Gegants — índex de fitxes"
 ---
 
 # Gegants — índex de fitxes

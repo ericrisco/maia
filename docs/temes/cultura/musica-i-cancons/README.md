@@ -1,5 +1,5 @@
 ---
-title: "Música i cançons"
+title: "Música i cançons — índex de fitxes"
 ---
 
 # Música i cançons — índex de fitxes

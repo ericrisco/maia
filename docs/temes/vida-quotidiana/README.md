@@ -1,5 +1,5 @@
 ---
-title: "Vida quotidiana a Andorra"
+title: "Vida quotidiana a Andorra — índex de fitxes"
 ---
 
 # Vida quotidiana a Andorra — índex de fitxes

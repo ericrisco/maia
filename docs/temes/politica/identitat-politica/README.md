@@ -1,5 +1,5 @@
 ---
-title: "Identitat política"
+title: "Identitat política — índex de fitxes"
 ---
 
 # Identitat política — índex de fitxes

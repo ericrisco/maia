@@ -1,5 +1,5 @@
 ---
-title: "Comuns i parròquies"
+title: "Comuns i parròquies — índex de fitxes"
 ---
 
 # Comuns i parròquies — índex de fitxes

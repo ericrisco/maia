@@ -1,5 +1,5 @@
 ---
-title: "Artesania"
+title: "Artesania — índex de fitxes"
 ---
 
 # Artesania — índex de fitxes

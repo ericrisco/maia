@@ -1,5 +1,5 @@
 ---
-title: "Relacions exteriors"
+title: "Relacions exteriors — índex de fitxes"
 ---
 
 # Relacions exteriors — índex de fitxes

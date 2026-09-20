@@ -1,5 +1,5 @@
 ---
-title: "El Coprincipat"
+title: "El Coprincipat — índex de fitxes"
 ---
 
 # El Coprincipat — índex de fitxes

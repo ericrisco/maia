@@ -1,5 +1,5 @@
 ---
-title: "Teatre"
+title: "Teatre — índex de fitxes"
 ---
 
 # Teatre — índex de fitxes

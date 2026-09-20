@@ -1,5 +1,5 @@
 ---
-title: "Caramelles"
+title: "Caramelles — índex de fitxes"
 ---
 
 # Caramelles — índex de fitxes

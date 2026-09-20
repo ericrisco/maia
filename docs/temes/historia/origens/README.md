@@ -1,5 +1,5 @@
 ---
-title: "Orígens"
+title: "Orígens — índex de fitxes"
 ---
 
 # Orígens — índex de fitxes

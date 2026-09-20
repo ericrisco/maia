@@ -1,5 +1,5 @@
 ---
-title: "Toponímia"
+title: "Toponímia — índex de fitxes"
 ---
 
 # Toponímia — índex de fitxes

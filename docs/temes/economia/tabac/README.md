@@ -1,5 +1,5 @@
 ---
-title: "Tabac"
+title: "Tabac — índex de fitxes"
 ---
 
 # Tabac — índex de fitxes

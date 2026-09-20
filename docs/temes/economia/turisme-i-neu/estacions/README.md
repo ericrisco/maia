@@ -1,6 +1,6 @@
 ---
 type: article
-title: Les estacions d'esquí
+title: "Les estacions d'esquí — índex de fitxes"
 description: "Com un telesquí de 450 esquiadors l'hora del 1956 va acabar sent el domini esquiable més gran dels Pirineus, i una empresa que gestiona estacions a nou països."
 tema: temes/economia/turisme-i-neu/estacions
 veu: compilada

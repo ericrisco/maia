@@ -1,5 +1,5 @@
 ---
-title: "Antic règim"
+title: "Antic règim — índex de fitxes"
 ---
 
 # Antic règim — índex de fitxes

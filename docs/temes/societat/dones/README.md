@@ -1,5 +1,5 @@
 ---
-title: "Dones"
+title: "Dones — índex de fitxes"
 ---
 
 # Dones — índex de fitxes

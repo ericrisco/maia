@@ -1,5 +1,5 @@
 ---
-title: "Història d'Andorra"
+title: "Història d'Andorra — índex de fitxes"
 ---
 
 # Història d'Andorra — índex de fitxes

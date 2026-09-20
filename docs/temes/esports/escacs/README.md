@@ -1,6 +1,6 @@
 ---
 type: article
-title: Escacs
+title: "Escacs — índex de fitxes"
 description: "Andorra té més Grans Mestres d'escacs documentats que futbolistes de primera divisió. La subbranca que tanca el buit més desproporcionat del corpus."
 tema: temes/esports/escacs
 veu: compilada

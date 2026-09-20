@@ -1,5 +1,5 @@
 ---
-title: "Meritxell"
+title: "Meritxell — índex de fitxes"
 ---
 
 # Meritxell — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Constitució de 1993"
+title: "Constitució de 1993 — índex de fitxes"
 ---
 
 # Constitució de 1993 — índex de fitxes

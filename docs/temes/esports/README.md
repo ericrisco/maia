@@ -1,5 +1,5 @@
 ---
-title: "Esports d'Andorra"
+title: "Esports d'Andorra — índex de fitxes"
 ---
 
 # Esports d'Andorra — índex de fitxes

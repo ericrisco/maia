@@ -1,5 +1,5 @@
 ---
-title: "Cultura popular"
+title: "Cultura popular — índex de fitxes"
 ---
 
 # Cultura popular — índex de fitxes

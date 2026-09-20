@@ -1,5 +1,5 @@
 ---
-title: "Rebosteria"
+title: "Rebosteria — índex de fitxes"
 ---
 
 # Rebosteria — índex de fitxes

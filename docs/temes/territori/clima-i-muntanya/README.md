@@ -1,5 +1,5 @@
 ---
-title: "Clima i muntanya"
+title: "Clima i muntanya — índex de fitxes"
 ---
 
 # Clima i muntanya — índex de fitxes

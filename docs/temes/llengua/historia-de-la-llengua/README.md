@@ -1,5 +1,5 @@
 ---
-title: "Història de la llengua"
+title: "Història de la llengua — índex de fitxes"
 ---
 
 # Història de la llengua — índex de fitxes

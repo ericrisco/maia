@@ -1,5 +1,5 @@
 ---
-title: "Llegendes"
+title: "Llegendes — índex de fitxes"
 ---
 
 # Llegendes — índex de fitxes

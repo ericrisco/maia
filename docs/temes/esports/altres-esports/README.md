@@ -1,6 +1,6 @@
 ---
 type: index
-title: Altres esports
+title: "Altres esports — índex de fitxes"
 description: "Tennis, escacs, motor i bàsquet: els àmbits on Andorra té fites internacionals que no surten a cap medaller olímpic."
 tema: temes/esports/altres-esports
 veu: compilada

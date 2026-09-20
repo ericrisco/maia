@@ -1,5 +1,5 @@
 ---
-title: "Educació"
+title: "Educació — índex de fitxes"
 ---
 
 # Educació — índex de fitxes

@@ -1,5 +1,5 @@
 ---
-title: "Moments històrics"
+title: "Moments històrics — índex de fitxes"
 ---
 
 # Moments històrics — índex de fitxes

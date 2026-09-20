@@ -1,5 +1,5 @@
 ---
-title: "Humor"
+title: "Humor — índex de fitxes"
 ---
 
 # Humor — índex de fitxes

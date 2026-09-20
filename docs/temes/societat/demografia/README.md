@@ -1,5 +1,5 @@
 ---
-title: "Demografia"
+title: "Demografia — índex de fitxes"
 ---
 
 # Demografia — índex de fitxes

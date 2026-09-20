@@ -1,5 +1,5 @@
 ---
-title: "Parlamentarisme"
+title: "Parlamentarisme — índex de fitxes"
 ---
 
 # Parlamentarisme — índex de fitxes

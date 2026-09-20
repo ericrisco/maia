@@ -1,6 +1,6 @@
 ---
 type: index
-title: Els esquiadors
+title: "Els esquiadors — índex de fitxes"
 description: "Fitxa per persona de tots els esquiadors olímpics i paralímpics andorrans que el corpus ha pogut documentar: vint-i-un noms, del 1976 al 2026."
 tema: temes/esports/esqui/esquiadors
 veu: compilada

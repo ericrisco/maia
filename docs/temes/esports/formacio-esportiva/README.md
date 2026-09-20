@@ -1,5 +1,5 @@
 ---
-title: "Formació esportiva"
+title: "Formació esportiva — índex de fitxes"
 ---
 
 # Formació esportiva — índex de fitxes

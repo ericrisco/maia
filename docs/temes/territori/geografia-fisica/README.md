@@ -1,5 +1,5 @@
 ---
-title: "Geografia física"
+title: "Geografia física — índex de fitxes"
 ---
 
 # Geografia física — índex de fitxes

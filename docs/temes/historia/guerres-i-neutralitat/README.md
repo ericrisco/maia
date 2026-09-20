@@ -1,5 +1,5 @@
 ---
-title: "Guerres i neutralitat"
+title: "Guerres i neutralitat — índex de fitxes"
 ---
 
 # Guerres i neutralitat — índex de fitxes
