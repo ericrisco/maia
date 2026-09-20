@@ -228,7 +228,14 @@ no és qui ho fa, és el món que ho necessitava**.
 1. ~~**On eren les fargues** i quantes n'hi va haver.~~ **TANCAT** amb Mas
    1994: nou establiments, amb parròquia i propietari. Queda obert **on eren
    exactament la farga de Moles i les dues de Canillo**.
-2. La **farga de casa Areny**: què en queda, si és visitable.
+2. ~~La **farga de casa Areny**: què en queda, si és visitable.~~ — **`parcial`
+   el 20-09-2026**: les [campanyes arqueològiques del Govern
+   (2024–2025)](../../../raw/web/cultura/ferro/README.md) han documentat restes
+   de la farga d'Ordino: **dos forns de grillatge, un mur que
+   podria correspondre a la casa del factor i els sistemes de drenatge de la
+   carbonera i del pati**; la farga va funcionar entre **1753 i 1876**. Les
+   peces consultades descriuen intervencions arqueològiques, però no acrediten
+   un règim de visita pública, que queda obert.
 3. ~~**D'on sortia el mineral** — mines andorranes o importació?~~ — **`parcial`
    el 18-09-2026**: Mas 1994 parla d'«obtenció de les matèries primeres» com a
    condicionant **sense dir-ne l'origen**. **L'acta del 13 de setembre de 1629**
