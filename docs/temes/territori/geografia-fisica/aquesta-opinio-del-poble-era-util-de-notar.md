@@ -395,8 +395,19 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    comunals**— **amb recurs davant d'ell mateix** (§27); i **el judici de pròmens
    o del Consell no té lloc en causes criminals, només en les civils polítiques
    dels seus privilegis** (§29).
-4. **La sentència de visura de la «tanca de bestiar gros»**: **sense data.**
-5. **El decret del 21 de desembre de 1893** i **el del 26 de març de 1871**, sencers.
+4. ~~**La sentència de visura de la «tanca de bestiar gros»**: **sense data.**~~ —
+   **`parcial` el 20-09-2026**: **Brutails en conserva els considerants i la
+   descriu com un judici de visura recent; l'acte diu que el requeriment per
+   retirar la paret i l'acequia s'havia fet l'11 de desembre «últim»**
+   ([text brut de *La Coutume*](../../../raw/llibres/brutails-coutume.txt), p.
+   173). **La font no dona l'any ni la data completa de la sentència.**
+5. ~~**El decret del 21 de desembre de 1893** i **el del 26 de març de 1871**, sencers.~~ —
+   **`parcial` el 20-09-2026**: **la font bruta conserva el text operatiu del
+   decret de 1893** —autorització comunal i tarifa única d'una pesseta— i **la
+   prohibició de 1871** d'entrar amb bestiar als prats d'altri, amb l'excepció
+   dels prats arrendats amb clàusula expressa de retorn al comú ([notes 2 i 3,
+   pp. 172-173](../../../raw/llibres/brutails-coutume.txt)). **No són els decrets
+   íntegres amb les seves actes i formalitats.**
 6. **La data del decret de 1849**, que **la font no dona** — **només l'any**, i
    **l'aprovació del Bisbe que el precedeix.**
 7. **Per què el decret dels pasturatges del 23-05-1746 es va revocar el 04-06-1764 i
