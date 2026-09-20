@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: wikipedia-esport-andorra
-timestamp: 2026-09-13T23:30:00Z
+timestamp: 2026-09-20T12:00:00Z
 tags: [persones, esports, atletisme, jocs-olimpics, fair-play, font-secundaria]
 ---
 
@@ -46,6 +46,26 @@ atletisme que aquesta font documenta.**
 **Va ser abanderat a París 2024**, junt amb
 [Mònica Dòria](./monica-doria.md), i **abanderat sol a la clausura**.
 
+## Els rècords, amb la font i el límit de la data
+
+El bolcat local de la font secundària enumera els quatre rècords nacionals i en
+dona la marca, la ciutat i l'any:
+
+| Prova | Marca | Lloc i any |
+| --- | ---: | --- |
+| **3.000 metres** | **8:01.65** | Sabadell, **2023** |
+| **5.000 metres** | **14:05.16** | Marsa, **2023** |
+| **10.000 metres** | **28:51.57** | Burjassot, **2023** |
+| **3.000 metres obstacles** | **8:16.04** | Marsella, **2024** |
+
+La font només dona **l'any**, no el dia exacte. El perfil de [World
+Athletics](../../fonts/world-athletics-nahuel-carabana.md), consultat el 19 de
+setembre de 2026, dona marques posteriors: **8:12.80 als 3.000 obstacles el 9
+d'agost de 2025**, **7:54.02 als 3.000 el 7 de febrer de 2024** i **28:04 als
+10 km de ruta l'11 de gener de 2026**. **El corpus conserva la divergència i no
+decideix quina taula representa els rècords de pista vigents**; la data exacta
+dels quatre registres de la font secundària continua sense constar.
+
 ## Munic 2022
 
 **És la història per la qual se'l coneix fora d'Andorra, i no és per una marca.**
@@ -58,6 +78,12 @@ A les sèries dels 3.000 obstacles del **Campionat d'Europa de Munic**, el danè
 
 **Després va rebre un World Fair Play Award del Comitè Internacional de Fair
 Play.**
+
+La referència local de la mateixa font identifica **l'any i la categoria**:
+**«Fair Play Award at Multisport European Championships Munich 2022»**, del
+**27 d'agost de 2022**, atorgat pel **International Fair Play Committee**. El
+reconeixement és, per tant, el **World Fair Play Award de 2022** en el marc dels
+Campionats Europeus Multiesport de Munic.
 
 **El corpus registra això com a fet i s'absté de fer-ne una moral nacional.** El
 que sí que assenyala és **la coincidència amb el que ja tenia documentat sobre
@@ -76,11 +102,17 @@ corpus, i queda marcada com a tal.**
    és accessible i mostra els personal bests i l'historial dinàmic —inclou
    **8:12.80 als 3.000 m obstacles (2025)** i **7:54.02 als 3.000 m (2024)**—,
    però el corpus no en transcriu la taula completa.
-2. **Els rècords andorrans** que té: marques i dates exactes.
+2. ~~**Els rècords andorrans** que té: marques i dates exactes.~~ — **`parcial`
+   el 20-09-2026**: el bolcat local dona les quatre marques i l'any, però no el
+   dia; el perfil oficial de World Athletics ja mostra marques posteriors i el
+   corpus conserva la divergència sense arbitrar-la.
 3. **On s'entrena i amb qui.**
 4. **La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
    Munic.
-5. **El World Fair Play Award**: any i categoria exactes.
+5. ~~**El World Fair Play Award**: any i categoria exactes.~~ — **`resolt` el
+   20-09-2026**: **World Fair Play Award**, **27 d'agost de 2022**, en els
+   Campionats Europeus Multiesport de Munic, segons la referència de
+   l'International Fair Play Committee conservada al bolcat local.
 6. ~~**Els altres atletes andorrans**: el corpus té els noms d'**Antoni Bernadó**
    (maratonià, quatre Jocs), **Pol Moya**, **Cristina Llovera**, **Silvia
    Felipo**, **Montserrat Pujol** i **Josep Graells**, **i cap biografia**.~~ —
