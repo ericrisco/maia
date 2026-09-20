@@ -185,7 +185,11 @@ capital.` `font_externa`
   projecte **SETAP365**. La font documenta la integració empresarial, però no
   explica quina decisió o motiu concret va provocar la dissolució de Vallnord.
 - ~~**Què són EMAP, Ensisa, Nevasa i SETAP365**, i qui les controla.~~ — **`resolt` el 18-09-2026**: vegeu [les societats, amb nom sencer i número de registre](#les-societats-amb-nom-sencer-i-numero-de-registre).
-- **Què va passar amb Josep Serra** després de cedir Arinsal.
+- ~~**Què va passar amb Josep Serra després de cedir Arinsal**~~ — **`parcial`
+  el 20-09-2026**: la font només documenta que **va crear l'estació d'Arinsal
+  el 1973** i que la va haver de cedir al **Comú de la Massana per motius
+  econòmics**. El corpus no té cap font posterior que expliqui la seva
+  trajectòria després de la cessió.
 - ~~**Les xifres de les dues estacions: visitants, facturació, ocupació**~~ —
    **`parcial` el 18-09-2026**: **del país sí que n'hi ha sèrie** —**dies
   d'esquí venuts per temporada, 1993-2017, font Ski Andorra**
