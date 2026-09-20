@@ -1,3 +1,7 @@
+---
+title: "Ajut per desocupació — reglament"
+---
+
 # Ajut per desocupació — reglament
 
 La tanda inicial conserva quatre textos del BOPA i un consolidat. S'hi han

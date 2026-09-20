@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Jordi Torres Alís"
+---
+
 # Testimoni del Consell Constituent — Jordi Torres Alís
 
 Material de partida. La fitxa viu a

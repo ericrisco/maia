@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Ladislau Baró Solà"
+---
+
 # Testimoni del Consell Constituent — Ladislau Baró Solà
 
 Material de partida. La fitxa viu a

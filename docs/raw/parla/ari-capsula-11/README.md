@@ -1,3 +1,7 @@
+---
+title: "Càpsula #11 — «Les moles de farina d'Andorra», per Francina Pons"
+---
+
 # Càpsula #11 — «Les moles de farina d'Andorra», per Francina Pons
 
 Material de partida de la **tanda 8 de parla**. La fitxa viu a

@@ -1,3 +1,7 @@
+---
+title: "Donacions als partits polítics — edictes del Tribunal de Comptes"
+---
+
 # Donacions als partits polítics — edictes del Tribunal de Comptes
 
 **Origen**: [BOPA](../../../fonts/bopa.md), edictes del Tribunal de Comptes

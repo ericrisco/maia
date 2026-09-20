@@ -1,3 +1,7 @@
+---
+title: "Tutaj en les actes IPN de 2025"
+---
+
 # Tutaj en les actes IPN de 2025
 
 Consulta i descàrrega: 12 de setembre de 2026.

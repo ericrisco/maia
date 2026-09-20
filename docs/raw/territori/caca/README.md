@@ -1,3 +1,7 @@
+---
+title: "Vedats de caça"
+---
+
 # Vedats de caça
 
 La **Llei dels vedats de caça del 13 d'abril del 2000**, baixada del BOPA el **17

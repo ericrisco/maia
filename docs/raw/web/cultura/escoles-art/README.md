@@ -1,3 +1,7 @@
+---
+title: "Programa de l'Escola d'Art d'Andorra la Vella"
+---
+
 # Programa de l'Escola d'Art d'Andorra la Vella
 
 - **Font:** Comú d'Andorra la Vella, *Llibret Escola d'Art 23–24*.

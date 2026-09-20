@@ -1,3 +1,7 @@
+---
+title: "Pressió fiscal i despesa per funcions, per l'API d'Estadística"
+---
+
 # Pressió fiscal i despesa per funcions, per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

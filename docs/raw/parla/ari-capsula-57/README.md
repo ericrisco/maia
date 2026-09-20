@@ -1,3 +1,7 @@
+---
+title: "Càpsula #57 — «Un racó d'Escaldes-Engordany», per Ruth Casabella"
+---
+
 # Càpsula #57 — «Un racó d'Escaldes-Engordany», per Ruth Casabella
 
 Material de partida de la **tanda 2 de parla**. La fitxa viu a

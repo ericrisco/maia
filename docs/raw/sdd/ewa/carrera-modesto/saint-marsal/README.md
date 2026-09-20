@@ -1,3 +1,7 @@
+---
+title: "Saint-Marsal — censos i accés als arxius dels Pirineus Orientals"
+---
+
 # Saint-Marsal — censos i accés als arxius dels Pirineus Orientals
 
 Consulta: 12 de setembre de 2026.

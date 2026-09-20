@@ -1,3 +1,7 @@
+---
+title: "Càpsula #66 — «La dansa tradicional d'Andorra: el contrapàs», per Teo Armengol"
+---
+
 # Càpsula #66 — «La dansa tradicional d'Andorra: el contrapàs», per Teo Armengol
 
 Material de partida de la **tanda 12 de parla**. La fitxa viu a

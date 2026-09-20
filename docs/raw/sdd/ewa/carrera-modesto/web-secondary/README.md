@@ -1,3 +1,7 @@
+---
+title: "Transmissió web primerenca del registre Carrera"
+---
+
 # Transmissió web primerenca del registre Carrera
 
 Captura: 12 de setembre de 2026.

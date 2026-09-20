@@ -1,3 +1,7 @@
+---
+title: "Krzysztof Piotr Tutaj / Pierre Christophe Juven / «Tomasz»"
+---
+
 # Krzysztof Piotr Tutaj / Pierre Christophe Juven / «Tomasz»
 
 Consulta i descàrrega: 12 de setembre de 2026.

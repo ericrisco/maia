@@ -1,3 +1,7 @@
+---
+title: "Andorra en xifres — evidència estadística"
+---
+
 # Andorra en xifres — evidència estadística
 
 **Andorra en xifres 2024**, 127 pàgines, publicat el **9 de desembre del 2025**.

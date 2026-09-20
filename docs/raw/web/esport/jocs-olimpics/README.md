@@ -1,3 +1,7 @@
+---
+title: "Andorra als Jocs Olímpics — bolcat de la Viquipèdia"
+---
+
 # Andorra als Jocs Olímpics — bolcat de la Viquipèdia
 
 **Baixat el 18-09-2026** amb `action=raw` de la Viquipèdia en anglès.

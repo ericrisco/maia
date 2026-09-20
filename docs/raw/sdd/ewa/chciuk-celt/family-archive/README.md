@@ -1,3 +1,7 @@
+---
+title: "Fitxa genealògica familiar de Tadeusz Chciuk"
+---
+
 # Fitxa genealògica familiar de Tadeusz Chciuk
 
 Consulta i descàrrega: 12 de setembre de 2026.

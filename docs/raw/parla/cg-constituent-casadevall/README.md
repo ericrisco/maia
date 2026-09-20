@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Enric Casadevall Medrano"
+---
+
 # Testimoni del Consell Constituent — Enric Casadevall Medrano
 
 Material de partida. La fitxa viu a

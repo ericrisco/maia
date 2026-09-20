@@ -1,3 +1,7 @@
+---
+title: "Originals de les lleis que el corpus tenia consolidades"
+---
+
 # Originals de les lleis que el corpus tenia consolidades
 
 Seixanta-dos textos baixats del BOPA el **17 de setembre del 2026**. Són

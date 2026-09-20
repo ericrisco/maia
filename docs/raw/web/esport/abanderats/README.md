@@ -1,3 +1,7 @@
+---
+title: "Abanderats olímpics d'Andorra — bolcat de la Viquipèdia"
+---
+
 # Abanderats olímpics d'Andorra — bolcat de la Viquipèdia
 
 **Baixat el 18-09-2026** amb `action=raw` de la Viquipèdia en anglès.

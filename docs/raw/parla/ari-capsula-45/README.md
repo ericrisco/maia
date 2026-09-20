@@ -1,3 +1,7 @@
+---
+title: "Càpsula #45 — «Toponímia preromana a Andorra», per Xavier Planas"
+---
+
 # Càpsula #45 — «Toponímia preromana a Andorra», per Xavier Planas
 
 Material de partida de la **tanda 17 de parla**. La fitxa viu a

@@ -1,3 +1,7 @@
+---
+title: "Salut, cultura i medi per l'API d'Estadística"
+---
+
 # Salut, cultura i medi per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

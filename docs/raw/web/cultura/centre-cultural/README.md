@@ -1,3 +1,7 @@
+---
+title: "Centre Cultural d'Andorra — font web"
+---
+
 # Centre Cultural d'Andorra — font web
 
 ## `el-periodic-centre-cultural-2025.html` / `.txt`

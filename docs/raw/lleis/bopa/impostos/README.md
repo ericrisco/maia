@@ -1,3 +1,7 @@
+---
+title: "Sis lleis que modifiquen els tres impostos"
+---
+
 # Sis lleis que modifiquen els tres impostos
 
 Baixades del BOPA el **17 de setembre del 2026**. Són **totes** les lleis que

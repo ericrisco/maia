@@ -1,3 +1,7 @@
+---
+title: "Quotes d'immigració, 1989–2011"
+---
+
 # Quotes d'immigració, 1989–2011
 
 Cent un textos del BOPA baixats el **17 de setembre del 2026**: totes les quotes

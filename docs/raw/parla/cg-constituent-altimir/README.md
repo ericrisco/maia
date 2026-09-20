@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Pere Altimir Pintat"
+---
+
 # Testimoni del Consell Constituent — Pere Altimir Pintat
 
 Material de partida de la **tanda 5 de parla**. La fitxa viu a

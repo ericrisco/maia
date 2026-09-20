@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Albert Gelabert Grau"
+---
+
 # Testimoni del Consell Constituent — Albert Gelabert Grau
 
 Material de partida. La fitxa viu a

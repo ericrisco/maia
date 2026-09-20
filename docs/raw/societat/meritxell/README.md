@@ -1,3 +1,7 @@
+---
+title: "Escola Especialitzada i Fundació Meritxell"
+---
+
 # Escola Especialitzada i Fundació Meritxell
 
 Dues peces del BOPA baixades el **17 de setembre del 2026**: el **Conveni de

@@ -1,3 +1,7 @@
+---
+title: "Comptes nacionals i previsions — evidència estadística"
+---
+
 # Comptes nacionals i previsions — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

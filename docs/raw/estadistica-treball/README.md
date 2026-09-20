@@ -1,3 +1,7 @@
+---
+title: "Salaris — evidència estadística"
+---
+
 # Salaris — evidència estadística
 
 **A149. Estadística de salaris** del **Departament d'Estadística**. Nota

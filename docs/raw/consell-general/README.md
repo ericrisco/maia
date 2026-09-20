@@ -1,3 +1,7 @@
+---
+title: "Consell General — evidència fora del corpus"
+---
+
 # Consell General — evidència fora del corpus
 
 Registre de provinença previ a consulta a consell-general-web i bopa-ad,

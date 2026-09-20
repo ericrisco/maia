@@ -1,3 +1,7 @@
+---
+title: "Preus del lloguer — xifres del Govern"
+---
+
 # Preus del lloguer — xifres del Govern
 
 Presentació del **projecte de llei del règim jurídic aplicable als contractes

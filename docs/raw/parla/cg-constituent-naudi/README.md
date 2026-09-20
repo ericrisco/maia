@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Miquel Naudi Casal"
+---
+
 # Testimoni del Consell Constituent — Miquel Naudi Casal
 
 Material de partida. La fitxa viu a

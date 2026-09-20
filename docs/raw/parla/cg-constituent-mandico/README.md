@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Rosa Maria Mandicó Alcobé"
+---
+
 # Testimoni del Consell Constituent — Rosa Maria Mandicó Alcobé
 
 Material de partida de la **tanda 3 de parla**. La fitxa viu a

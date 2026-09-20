@@ -1,3 +1,7 @@
+---
+title: "Cultura i esport federat — evidència estadística"
+---
+
 # Cultura i esport federat — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

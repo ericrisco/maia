@@ -1,3 +1,7 @@
+---
+title: "Éloïse i els dos canadencs: Fontargente, 1944"
+---
+
 # Éloïse i els dos canadencs: Fontargente, 1944
 
 ## Estat de la pista

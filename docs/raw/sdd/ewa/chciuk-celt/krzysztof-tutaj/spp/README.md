@@ -1,3 +1,7 @@
+---
+title: "Catàleg SPP: fons A, Oddział VI Sztabu Naczelnego Wodza"
+---
+
 # Catàleg SPP: fons A, Oddział VI Sztabu Naczelnego Wodza
 
 Consulta i descàrrega: 12 de setembre de 2026.

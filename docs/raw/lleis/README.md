@@ -1,3 +1,7 @@
+---
+title: "Legislació andorrana vigent"
+---
+
 # Legislació andorrana vigent
 
 **104 normes consolidades · 8.956 articles · 11 MB de text.**

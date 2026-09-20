@@ -1,3 +1,7 @@
+---
+title: "Càpsula #13 — «Els hostals comunals», per Ludmilla Lacueva"
+---
+
 # Càpsula #13 — «Els hostals comunals», per Ludmilla Lacueva
 
 Material de partida de la **tanda 14 de parla**. La fitxa viu a

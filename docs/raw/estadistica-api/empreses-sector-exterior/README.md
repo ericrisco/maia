@@ -1,3 +1,7 @@
+---
+title: "Estoc d'empreses, comptabilitat empresarial, R+D i associacions — API del Departament d'Estadística"
+---
+
 # Estoc d'empreses, comptabilitat empresarial, R+D i associacions — API del Departament d'Estadística
 
 **Baixat el 18-09-2026** amb

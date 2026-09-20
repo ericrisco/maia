@@ -1,3 +1,7 @@
+---
+title: "Rectificació francesa de l'estat civil de Modesto Carrera"
+---
+
 # Rectificació francesa de l'estat civil de Modesto Carrera
 
 Consulta: 12 de setembre de 2026.

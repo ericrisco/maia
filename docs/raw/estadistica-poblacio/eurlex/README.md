@@ -1,3 +1,7 @@
+---
+title: "Reglament europeu de censos"
+---
+
 # Reglament europeu de censos
 
 **Reglament (CE) núm. 763/2008 del Parlament Europeu i del Consell, de 9 de

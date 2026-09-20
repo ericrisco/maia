@@ -1,3 +1,7 @@
+---
+title: "Convenis bilaterals de seguretat social"
+---
+
 # Convenis bilaterals de seguretat social
 
 Sis peces del BOPA baixades el **17 de setembre del 2026**: les propostes de

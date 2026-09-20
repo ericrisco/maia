@@ -1,3 +1,7 @@
+---
+title: "Federació Andorrana de Futbol — comunicats i documents"
+---
+
 # Federació Andorrana de Futbol — comunicats i documents
 
 **Font oficial:** [Federació Andorrana de Futbol](https://www.faf.ad/).

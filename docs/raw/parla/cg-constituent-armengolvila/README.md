@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Antoni Armengol Vila"
+---
+
 # Testimoni del Consell Constituent — Antoni Armengol Vila
 
 Material de partida. La fitxa viu a

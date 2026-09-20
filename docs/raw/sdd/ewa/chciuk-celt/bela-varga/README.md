@@ -1,3 +1,7 @@
+---
+title: "Béla Varga i la identitat sacerdotal de Chciuk"
+---
+
 # Béla Varga i la identitat sacerdotal de Chciuk
 
 Consulta i descàrrega: 12 de setembre de 2026.

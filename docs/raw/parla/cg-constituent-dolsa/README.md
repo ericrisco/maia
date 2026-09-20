@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Enric Dolsa Font"
+---
+
 # Testimoni del Consell Constituent — Enric Dolsa Font
 
 Material de partida. La fitxa viu a

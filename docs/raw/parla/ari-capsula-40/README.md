@@ -1,3 +1,7 @@
+---
+title: "Càpsula #40 — «Les campanes d'Andorra», per Robert Lizarte"
+---
+
 # Càpsula #40 — «Les campanes d'Andorra», per Robert Lizarte
 
 Material de partida de la **tanda 13 de parla**. La fitxa viu a

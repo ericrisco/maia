@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Jordi Mas Torres"
+---
+
 # Testimoni del Consell Constituent — Jordi Mas Torres
 
 Material de partida. La fitxa viu a

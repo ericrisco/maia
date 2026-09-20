@@ -1,3 +1,7 @@
+---
+title: "Allaus — FORA_DEL_CORPUS"
+---
+
 # Allaus — FORA_DEL_CORPUS
 
 Provinença prèvia al workspace: `02-DOCS/raw/sources/allaus-ad.md`

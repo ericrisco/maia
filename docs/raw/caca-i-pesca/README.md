@@ -1,3 +1,7 @@
+---
+title: "Caça i pesca — evidència primària"
+---
+
 # Caça i pesca — evidència primària
 
 Consulta del **18-09-2026**. **Òrgan responsable: Departament de Medi Ambient i

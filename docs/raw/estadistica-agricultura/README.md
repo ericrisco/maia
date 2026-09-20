@@ -1,3 +1,7 @@
+---
+title: "Estadística d'agricultura — evidència primària"
+---
+
 # Estadística d'agricultura — evidència primària
 
 Consulta del **18-09-2026**. Provinença registrada a

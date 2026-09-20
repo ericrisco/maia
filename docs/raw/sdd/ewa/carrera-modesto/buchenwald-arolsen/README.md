@@ -1,3 +1,7 @@
+---
+title: "Expedient individual de Buchenwald a Arolsen"
+---
+
 # Expedient individual de Buchenwald a Arolsen
 
 Consulta i verificació: 12 de setembre de 2026.

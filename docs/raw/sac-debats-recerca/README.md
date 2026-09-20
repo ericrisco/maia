@@ -1,3 +1,7 @@
+---
+title: "Debats de Recerca (SAC) — recull de conferències"
+---
+
 # Debats de Recerca (SAC) — recull de conferències
 
 **Cicle de conferències de la Societat Andorrana de Ciències**, publicat

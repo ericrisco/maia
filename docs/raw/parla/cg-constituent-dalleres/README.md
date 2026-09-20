@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Gabriel Dallerès Codina"
+---
+
 # Testimoni del Consell Constituent — Gabriel Dallerès Codina
 
 Material de partida. La fitxa viu a

@@ -1,3 +1,7 @@
+---
+title: "Comissió Nacional de Valoració — reglament"
+---
+
 # Comissió Nacional de Valoració — reglament
 
 Tres decrets del BOPA baixats el **17 de setembre del 2026**: les modificacions

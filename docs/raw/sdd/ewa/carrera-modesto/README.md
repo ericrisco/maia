@@ -1,3 +1,7 @@
+---
+title: "Carrera / Modesto — materials bruts de recerca"
+---
+
 # Carrera / Modesto — materials bruts de recerca
 
 Captura: 12 de setembre de 2026.

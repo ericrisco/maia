@@ -1,3 +1,7 @@
+---
+title: "Convenis educatius amb Espanya"
+---
+
 # Convenis educatius amb Espanya
 
 Tres peces del BOPA baixades el **17 de setembre del 2026**: el **Conveni

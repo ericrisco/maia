@@ -1,3 +1,7 @@
+---
+title: "Càpsula #20 — «Els molins d'aigua d'Andorra», per Alan Ward"
+---
+
 # Càpsula #20 — «Els molins d'aigua d'Andorra», per Alan Ward
 
 Material de partida de la **tanda 29 de parla**. La fitxa viu a

@@ -1,3 +1,7 @@
+---
+title: "Textos de tractats — relacions exteriors"
+---
+
 # Textos de tractats — relacions exteriors
 
 Material de partida de l'àmbit **relacions exteriors**. A diferència de la resta

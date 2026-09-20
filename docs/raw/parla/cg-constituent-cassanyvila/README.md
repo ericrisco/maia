@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Robert Cassany Vila"
+---
+
 # Testimoni del Consell Constituent — Robert Cassany Vila
 
 Material de partida. La fitxa viu a

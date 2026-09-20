@@ -1,3 +1,7 @@
+---
+title: "James Hughes als expedients de frontera de Girona (1942–1943)"
+---
+
 # James Hughes als expedients de frontera de Girona (1942–1943)
 
 ## Resultat

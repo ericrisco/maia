@@ -1,3 +1,7 @@
+---
+title: "Drets dels portals — evidència fora del corpus"
+---
+
 # Drets dels portals — evidència fora del corpus
 
 Còpies de consulta dels avisos, obtingudes el 13-09-2026 després dels

@@ -1,3 +1,7 @@
+---
+title: "Jerzy Stempowski: la baula Berna–França"
+---
+
 # Jerzy Stempowski: la baula Berna–França
 
 Consulta i descàrrega: 12 de setembre de 2026.

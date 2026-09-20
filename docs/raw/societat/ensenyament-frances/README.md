@@ -1,3 +1,7 @@
+---
+title: "Convenis amb França en matèria d’ensenyament"
+---
+
 # Convenis amb França en matèria d’ensenyament
 
 Tres dels quatre convenis que han regulat el sistema educatiu francès a Andorra,

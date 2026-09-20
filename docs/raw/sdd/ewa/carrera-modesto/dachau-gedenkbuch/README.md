@@ -1,3 +1,7 @@
+---
+title: "Llibre digital de morts del KZ Dachau — controls nominals"
+---
+
 # Llibre digital de morts del KZ Dachau — controls nominals
 
 Consulta: 12 de setembre de 2026.

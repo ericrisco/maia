@@ -1,3 +1,7 @@
+---
+title: "Càpsula #70 — «La nissaga dels Martí de les Bons», per Sara Ubach"
+---
+
 # Càpsula #70 — «La nissaga dels Martí de les Bons», per Sara Ubach
 
 Material de partida de la **tanda 29 de parla**. La fitxa viu a

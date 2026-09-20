@@ -1,3 +1,7 @@
+---
+title: "Càpsula #34 — «Les falles d'Andorra», per Albert Roig"
+---
+
 # Càpsula #34 — «Les falles d'Andorra», per Albert Roig
 
 Material de partida de la **tanda 6 de parla**. La fitxa viu a

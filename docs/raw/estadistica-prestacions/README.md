@@ -1,3 +1,7 @@
+---
+title: "Prestacions socials — evidència estadística"
+---
+
 # Prestacions socials — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra, elaborades amb els

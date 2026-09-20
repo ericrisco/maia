@@ -1,3 +1,7 @@
+---
+title: "Indicadors de l'educació — evidència estadística"
+---
+
 # Indicadors de l'educació — evidència estadística
 
 Nota del **Departament d'Estadística** del Govern d'Andorra, elaborada amb dades

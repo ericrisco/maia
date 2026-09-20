@@ -1,3 +1,7 @@
+---
+title: "Accidents i salut — evidència estadística"
+---
+
 # Accidents i salut — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Guillem Areny Argelich"
+---
+
 # Testimoni del Consell Constituent — Guillem Areny Argelich
 
 Material de partida de la **tanda 10 de parla**. La fitxa viu a

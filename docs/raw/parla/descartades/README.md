@@ -1,3 +1,7 @@
+---
+title: "Peces descartades"
+---
+
 # Peces descartades
 
 Peces transcrites i **no admeses** al corpus de parla. Es guarden senceres amb el

@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Maria Reig Moles"
+---
+
 # Testimoni del Consell Constituent — Maria Reig Moles
 
 Material de partida de la **tanda 9 de parla**. La fitxa viu a

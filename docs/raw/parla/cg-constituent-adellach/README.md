@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Olga Adellach Coma"
+---
+
 # Testimoni del Consell Constituent — Olga Adellach Coma
 
 Material de partida de la **tanda 4 de parla**. La fitxa viu a

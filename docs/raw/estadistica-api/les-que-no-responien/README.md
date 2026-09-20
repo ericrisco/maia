@@ -1,3 +1,7 @@
+---
+title: "Les divisions que semblava que l'API no servia"
+---
+
 # Les divisions que semblava que l'API no servia
 
 **Baixat el 18-09-2026**, **després de descobrir que el problema no era el

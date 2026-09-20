@@ -1,3 +1,7 @@
+---
+title: "«Ewa» de Budapest, 1939–1940: expedient de desambiguació"
+---
+
 # «Ewa» de Budapest, 1939–1940: expedient de desambiguació
 
 Consulta i descàrrega: 12 de setembre de 2026.

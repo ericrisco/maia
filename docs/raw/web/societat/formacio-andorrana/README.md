@@ -1,3 +1,7 @@
+---
+title: "Formació andorrana — annex curricular oficial"
+---
+
 # Formació andorrana — annex curricular oficial
 
 | Fitxer | URL | Consulta | Llicència / termes |

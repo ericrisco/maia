@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Ramon Canut Bové"
+---
+
 # Testimoni del Consell Constituent — Ramon Canut Bové
 
 Material de partida. La fitxa viu a

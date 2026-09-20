@@ -1,3 +1,7 @@
+---
+title: "Habitatges i superfícies construïdes per l'API d'Estadística"
+---
+
 # Habitatges i superfícies construïdes per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

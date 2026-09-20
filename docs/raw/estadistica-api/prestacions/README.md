@@ -1,3 +1,7 @@
+---
+title: "Prestacions socials per l'API d'Estadística"
+---
+
 # Prestacions socials per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

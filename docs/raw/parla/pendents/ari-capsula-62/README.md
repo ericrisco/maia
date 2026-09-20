@@ -1,3 +1,7 @@
+---
+title: "Càpsula #62 — «Els camins dels cérvols», per Laura de Castellet"
+---
+
 # Càpsula #62 — «Els camins dels cérvols», per Laura de Castellet
 
 Transcrita a la **tanda 29 de parla** i **no admesa al corpus**. **No té fitxa

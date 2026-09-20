@@ -1,3 +1,7 @@
+---
+title: "Valor del punt de jubilació, 2009-2026"
+---
+
 # Valor del punt de jubilació, 2009-2026
 
 **19 decrets** baixats del **BOPA** el **2026-09-17** amb l'API pública. Un

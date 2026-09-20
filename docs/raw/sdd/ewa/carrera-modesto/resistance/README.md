@@ -1,3 +1,7 @@
+---
+title: "Homologació de resistència de Modesto Carrera"
+---
+
 # Homologació de resistència de Modesto Carrera
 
 Captura: 12 de setembre de 2026.

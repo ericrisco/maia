@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Josep Marsal Riba"
+---
+
 # Testimoni del Consell Constituent — Josep Marsal Riba
 
 Material de partida. La fitxa viu a

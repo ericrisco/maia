@@ -1,3 +1,7 @@
+---
+title: "Fonts web sobre Josep Viladomat i Sergi Mas"
+---
+
 # Fonts web sobre Josep Viladomat i Sergi Mas
 
 Captures sobre els dos escultors de l'Andorra del segle XX, **12 de setembre

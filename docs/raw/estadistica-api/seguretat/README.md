@@ -1,3 +1,7 @@
+---
+title: "Seguretat, infraccions i detencions per l'API d'Estadística"
+---
+
 # Seguretat, infraccions i detencions per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

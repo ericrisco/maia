@@ -1,3 +1,7 @@
+---
+title: "Càpsula #49 — «Cal Pal de la Cortinada», per Esther Jover"
+---
+
 # Càpsula #49 — «Cal Pal de la Cortinada», per Esther Jover
 
 Material de partida de la **tanda 15 de parla**. La fitxa viu a

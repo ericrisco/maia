@@ -1,3 +1,7 @@
+---
+title: "Estadístiques de gènere i indicadors d’igualtat"
+---
+
 # Estadístiques de gènere i indicadors d’igualtat
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

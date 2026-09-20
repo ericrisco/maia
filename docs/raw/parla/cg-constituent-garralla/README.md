@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Josep Garrallà Rossell"
+---
+
 # Testimoni del Consell Constituent — Josep Garrallà Rossell
 
 Material de partida. La fitxa viu a

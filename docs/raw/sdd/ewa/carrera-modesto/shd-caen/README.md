@@ -1,3 +1,7 @@
+---
+title: "Expedient individual de Modesto Carrera al SHD/DAVCC de Caen"
+---
+
 # Expedient individual de Modesto Carrera al SHD/DAVCC de Caen
 
 Consulta: 12 de setembre de 2026.

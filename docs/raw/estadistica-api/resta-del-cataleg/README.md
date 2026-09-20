@@ -1,3 +1,7 @@
+---
+title: "La resta del catàleg — API del Departament d'Estadística"
+---
+
 # La resta del catàleg — API del Departament d'Estadística
 
 **Baixat el 18-09-2026.** **No és una branca temàtica: són totes les divisions

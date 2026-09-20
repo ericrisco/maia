@@ -1,3 +1,7 @@
+---
+title: "Pressupost inicial de 2026 — FORA_DEL_CORPUS"
+---
+
 # Pressupost inicial de 2026 — FORA_DEL_CORPUS
 
 Provinença prèvia: `02-DOCS/raw/sources/govern-pressupost-2026.md`

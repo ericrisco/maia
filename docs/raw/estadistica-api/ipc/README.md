@@ -1,3 +1,7 @@
+---
+title: "L'IPC andorrà per l'API d'Estadística"
+---
+
 # L'IPC andorrà per l'API d'Estadística
 
 **Baixat el 18-09-2026** amb

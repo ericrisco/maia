@@ -1,3 +1,7 @@
+---
+title: "Diari Oficial del Consell General — 1995"
+---
+
 # Diari Oficial del Consell General — 1995
 
 **Els catorze diaris de sessions de l'any 1995**, baixats sencers el 2026-09-17.

@@ -1,3 +1,7 @@
+---
+title: "Càpsula #56 — «La vida a pagès», per Albert Rossa Naudí"
+---
+
 # Càpsula #56 — «La vida a pagès», per Albert Rossa Naudí
 
 Material de partida de la **tanda 1 de parla**. Aquesta carpeta guarda la

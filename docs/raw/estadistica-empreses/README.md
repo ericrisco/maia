@@ -1,3 +1,7 @@
+---
+title: "Societats i empreses — evidència estadística"
+---
+
 # Societats i empreses — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

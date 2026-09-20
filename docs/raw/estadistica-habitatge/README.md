@@ -1,3 +1,7 @@
+---
+title: "Transaccions i preus de l'habitatge — evidència estadística"
+---
+
 # Transaccions i preus de l'habitatge — evidència estadística
 
 Notes del **Departament d'Estadística** que ajunten **dues activitats en un sol

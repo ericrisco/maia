@@ -1,3 +1,7 @@
+---
+title: "Sondeig del patró d'URL d'Estadística, finestra 2024-06-01 → 2025-09-30"
+---
+
 # Sondeig del patró d'URL d'Estadística, finestra 2024-06-01 → 2025-09-30
 
 **18-09-2026.** Notes de premsa del **Departament d'Estadística**, **CC BY 4.0**

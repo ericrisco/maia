@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Jordi Farràs Forné"
+---
+
 # Testimoni del Consell Constituent — Jordi Farràs Forné
 
 Material de partida. La fitxa viu a

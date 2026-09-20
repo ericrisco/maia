@@ -1,3 +1,7 @@
+---
+title: "TIC, competències digitals i administració electrònica, per l'API d'Estadística"
+---
+
 # TIC, competències digitals i administració electrònica, per l'API d'Estadística
 
 **Baixat el 18-09-2026** de l'API pública descrita a

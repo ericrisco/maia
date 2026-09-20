@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Joan Santamaria Terré"
+---
+
 # Testimoni del Consell Constituent — Joan Santamaria Terré
 
 Material de partida. La fitxa viu a

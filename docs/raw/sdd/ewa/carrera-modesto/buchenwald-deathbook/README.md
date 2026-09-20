@@ -1,3 +1,7 @@
+---
+title: "Cerca al llibre de morts de Buchenwald"
+---
+
 # Cerca al llibre de morts de Buchenwald
 
 Consulta directa: 12 de setembre de 2026.

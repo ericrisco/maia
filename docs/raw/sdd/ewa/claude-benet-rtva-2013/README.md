@@ -1,3 +1,7 @@
+---
+title: "Entrevista de Claude Benet a RTVA (12-12-2013)"
+---
+
 # Entrevista de Claude Benet a RTVA (12-12-2013)
 
 ## Procedència

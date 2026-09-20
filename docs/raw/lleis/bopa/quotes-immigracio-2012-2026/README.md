@@ -1,3 +1,7 @@
+---
+title: "Reglaments de quota d'immigració, 2012-2026"
+---
+
 # Reglaments de quota d'immigració, 2012-2026
 
 **105 documents** baixats del **BOPA** el **2026-09-17** amb l'API pública,

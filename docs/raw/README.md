@@ -1,3 +1,7 @@
+---
+title: "Material de partida del corpus (docs/raw/)"
+---
+
 # Material de partida del corpus (`docs/raw/`)
 
 Aquí hi ha **els documents originals** de què surt el corpus. Fins ara vivien al

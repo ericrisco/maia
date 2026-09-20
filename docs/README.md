@@ -1,3 +1,7 @@
+---
+title: "El cervell andorrà"
+---
+
 # El cervell andorrà
 
 Aquesta carpeta és **el corpus**. S'obre directament com a vault d'Obsidian:

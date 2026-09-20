@@ -1,3 +1,7 @@
+---
+title: "Allotjament i visitants — evidència estadística"
+---
+
 # Allotjament i visitants — evidència estadística
 
 Notes del **Departament d'Estadística** del Govern d'Andorra.

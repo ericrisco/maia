@@ -1,3 +1,7 @@
+---
+title: "Controls de Raport z Podziemia 1942"
+---
+
 # Controls de `Raport z Podziemia 1942`
 
 Consulta i descàrrega: 12 de setembre de 2026.

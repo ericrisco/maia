@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Josep Areny Fité"
+---
+
 # Testimoni del Consell Constituent — Josep Areny Fité
 
 Material de partida. La fitxa viu a

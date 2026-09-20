@@ -1,3 +1,7 @@
+---
+title: "Població registrada i estimada — FORA_DEL_CORPUS"
+---
+
 # Població registrada i estimada — FORA_DEL_CORPUS
 
 Evidència primària i derivats de consulta, 13-09-2026. Provinença registrada

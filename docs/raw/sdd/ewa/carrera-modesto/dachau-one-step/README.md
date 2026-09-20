@@ -1,3 +1,7 @@
+---
+title: "Índex Dachau de Morse i Landé"
+---
+
 # Índex Dachau de Morse i Landé
 
 Captura i verificació: 12 de setembre de 2026.

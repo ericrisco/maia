@@ -1,3 +1,7 @@
+---
+title: "Energia — evidència estadística"
+---
+
 # Energia — evidència estadística
 
 **A115. Estadística de l'energia** del **Departament d'Estadística**. Nota

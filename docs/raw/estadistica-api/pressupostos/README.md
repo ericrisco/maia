@@ -1,3 +1,7 @@
+---
+title: "Pressupostos i finances públiques — API del Departament d'Estadística"
+---
+
 # Pressupostos i finances públiques — API del Departament d'Estadística
 
 **Baixat el 18-09-2026** amb

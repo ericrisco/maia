@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Jaume Bartumeu Cassany"
+---
+
 # Testimoni del Consell Constituent — Jaume Bartumeu Cassany
 
 Material de partida de la **tanda 18 de parla**. La fitxa viu a

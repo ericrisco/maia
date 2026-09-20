@@ -1,3 +1,7 @@
+---
+title: "Pla i Programa estadístics"
+---
+
 # Pla i Programa estadístics
 
 Tres peces del BOPA baixades el **17 de setembre del 2026**: la **Llei 27/2025,

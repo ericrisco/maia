@@ -1,3 +1,7 @@
+---
+title: "Topografia del pas Ax–Andorra–Cerdanya (desembre de 1942)"
+---
+
 # Topografia del pas Ax–Andorra–Cerdanya (desembre de 1942)
 
 ## Pregunta

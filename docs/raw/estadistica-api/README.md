@@ -1,3 +1,7 @@
+---
+title: "L'API pública del Departament d'Estadística"
+---
+
 # L'API pública del Departament d'Estadística
 
 **Trobada el 18-09-2026.** **2.709 taules estadístiques** consultables per HTTP

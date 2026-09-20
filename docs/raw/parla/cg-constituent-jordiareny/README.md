@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Antoni Jordi Areny"
+---
+
 # Testimoni del Consell Constituent — Antoni Jordi Areny
 
 Material de partida. La fitxa viu a

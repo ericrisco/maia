@@ -1,3 +1,7 @@
+---
+title: "Càpsula #27 — «Els noms dels carrers andorrans», per Alfred Llahí"
+---
+
 # Càpsula #27 — «Els noms dels carrers andorrans», per Alfred Llahí
 
 Material de partida de la **tanda 20 de parla**. La fitxa viu a

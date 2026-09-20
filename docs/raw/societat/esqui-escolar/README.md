@@ -1,3 +1,7 @@
+---
+title: "Nou reglaments de l'esquí escolar"
+---
+
 # Nou reglaments de l'esquí escolar
 
 Tots els reglaments de l'esquí escolar publicats al BOPA entre el **1993 i el

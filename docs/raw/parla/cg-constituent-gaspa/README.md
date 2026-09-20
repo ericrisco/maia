@@ -1,3 +1,7 @@
+---
+title: "Testimoni del Consell Constituent — Andreu Gaspà Picart"
+---
+
 # Testimoni del Consell Constituent — Andreu Gaspà Picart
 
 Material de partida. La fitxa viu a
