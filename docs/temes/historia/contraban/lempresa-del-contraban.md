@@ -174,8 +174,13 @@ comptabilitat**.
 
 ## Buits registrats
 
-1. **Què es passava, exactament, i en quines proporcions.** Llumins i tabac
-   consten; la resta, no.
+1. ~~**Què es passava, exactament, i en quines proporcions.** Llumins i tabac
+   consten; la resta, no.~~ — **`parcial` el 20-09-2026**: les dades de 1895
+   quantifiquen **200 quintars de llumins** i **400 quintars de xocolata** que
+   Andorra importava d'Espanya per a una població d'uns sis mil habitants, i
+   Brutails confirma el tràfic de **tabac** a la frontera francesa. La resta de
+   mercaderies i una proporció global del contraban continuen sense comptar
+   ([importacions d'Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md)).
 2. **El text de la decisió del 23 de desembre de 1772** i el de la sentència de
    1896.
 3. **Qui era M. Sicard**, jutge d'apel·lacions, i on és la seva sentència.
