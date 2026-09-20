@@ -239,7 +239,13 @@ Olímpic Andorrà o al CIO.**
   corpus ja identifica [Naiara Liñán](../../persones/naiara-linan.md), medalla
   de bronze de taekwondo el 2026; les delegacions completes i la resta de noms
   encara falten.
-- **En quins esports** hi va Andorra a cadascuna.
+- ~~**En quins esports** hi va Andorra a cadascuna.~~ **[parcial · 2026-09-20]**:
+  la pàgina del [Comitè Olímpic Andorrà](../../../raw/web/esport/competicio/coa-jocs-mediterrani.txt)
+  identifica la delegació de **Tunis 2001**: **atletisme** (Montserrat Pujol,
+  Toni Bernadó i Josep Sansa), **natació** (Carolina Cerqueda i Ivan
+  Grougnet), **tennis** (Joan Jiménez), **tir** (Toni Llorens) i **judo**
+  (Mari Carme Fernàndez i Blanca Montoro). Les fonts locals no despleguen els
+  esports de les delegacions posteriors ni dels Jocs Europeus.
 - ~~**Els Jocs de la Joventut**, sencers.~~ — **`parcial` el 19-09-2026**:
   [Maeva Estévez](../esqui/esquiadors/maeva-estevez.md) ja queda documentada a
   **Innsbruck 2012**, en *halfpipe* i *slopestyle*, i [Ludovic
