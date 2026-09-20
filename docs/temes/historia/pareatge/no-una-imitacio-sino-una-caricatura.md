@@ -514,9 +514,13 @@ l'òrgan.**
 12. **Com van obtenir els andorrans les dispenses dels drets de trànsit**, i què
     en van fer. **Pregunta plantejada per la font mateixa com a tema d'estudi.**
     `obert.`
-13. **La datació del matrimoni que porta Andorra a Foix**: **segle XI a
-    l'exemplar digitalitzat de Brutails, 1208 a Palau i Martí.** **Registrada com
-    a divergència; el corpus no arbitra.** `obert.`
+13. ~~**La datació del matrimoni que porta Andorra a Foix**: **segle XI a
+    l'exemplar digitalitzat de Brutails, 1208 a Palau i Martí.**~~ — **`parcial`
+    el 20-09-2026**: Brutails mostra **«al començament del segle XI»**, mentre
+    Palau i Martí dona **1208**; la mateixa pàgina de Brutails fa un salt semblant
+    entre el segle XI i l'arbitratge de 1278, de manera que el corpus conserva
+    com a hipòtesis tant una pèrdua d'OCR com una data realment diferent. La
+    divergència queda documentada, però no es pot arbitrar sense l'original.
 14. ~~**La resta del capítol II**~~ —*Organisation administrative*, *Le droit
     électoral*, *Attributions des divers conseils*, *Leurs rapports de
     hiérarchie*, *Budgets*, *Extension des pouvoirs du Conseil général*,
