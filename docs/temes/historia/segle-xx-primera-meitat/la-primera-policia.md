@@ -116,8 +116,14 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
 
 - **El text de l'article 17** del contracte de concessió del 1929.
 - **Els noms dels sis agents** i què cobraven.
-- **Quant va durar el Servei d'Ordre** i què en va sortir: el cos de policia
-  actual es diu Servei de Policia i el corpus no en té la cronologia.
+- ~~**Quant va durar el Servei d'Ordre** i què en va sortir.~~ — **`parcial` el
+  2026-09-20**: l'exposició de motius de la **Llei 8/2004, del 27 de maig,
+  qualificada del Cos de Policia** diu que la policia andorrana fou creada el
+  **1931** amb el nom de **Servei d'Ordre**, amb **un cap i sis agents**, i que
+  aquesta llei obre una **nova etapa** de la policia andorrana
+  ([font](../../../raw/lleis/bopa/llei-8-2004-cos-de-policia.txt)). El corpus
+  encara no té la data exacta en què va desaparèixer el nom «Servei d'Ordre» ni
+  la cronologia completa de la transició al Cos de Policia.
 - **Què va fer el Servei d'Ordre el 1933**, quan van arribar els gendarmes
   francesos. Si hi havia policia andorrana, per què calia gendarmeria estrangera.
 - **El text de la decisió del Consell General** sobre el registre d'estrangers, i
