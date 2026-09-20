@@ -50,8 +50,13 @@ segons
 
 ## Buits registrats
 
-1. **El seu nom complet i dades biogràfiques** (naixement, mort,
-   formació) — cap font consultada les dona.
+1. ~~**El seu nom complet i dades biogràfiques** (naixement, mort,
+   formació) — cap font consultada les dona.~~ — **`parcial` el 20-09-2026**:
+   [La peça del mes (2024)](../../fonts/govern-alvar-menendez-2024.md), de
+   l'Arxiu Nacional, identifica **Àlvar Menéndez García** com a **enginyer
+   industrial d'origen argentí**, vinculat a **Firmes y Construcciones** i
+   instal·lat definitivament a **Escaldes-Engordany**. La pàgina encara no dona
+   les dates de naixement o mort ni la seva formació acadèmica.
 2. ~~**La proposta de remuntadors a Arinsal el 1956**, amb Amadeu
    Rossell — esmentada per una cerca agregada, no verificada per
    lectura directa d'una font.~~ — **`resolt` el 19-09-2026**: el catàleg
