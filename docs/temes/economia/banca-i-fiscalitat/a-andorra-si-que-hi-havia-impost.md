@@ -267,8 +267,13 @@ secretari del Consell General.**
 5. **DIVERGÈNCIA**: **la part del bisbe en la quèstia, 450 francs (Vilar) o 450
    pessetes (el corpus).** `No arbitrada.` **`no-es-buit`**: és una divergència
    registrada que no s'ha d'arbitrar sense una font millor.
-6. **Des de quan es pagava el tribut francès cada dos anys** i **si la pràctica
-   consta en algun acord.**
+6. ~~**Des de quan es pagava el tribut francès cada dos anys** i **si la pràctica
+   consta en algun acord.**~~ — **`parcial` el 20-09-2026**: **Vilar explica que
+   els **960 francs** de la part francesa es pagaven **cada dos anys** —**1.920
+   francs** en cada lliurament— **per evitar als tres delegats andorrans el
+   desplaçament anual** ([Vilar, 1904, p. 80](../../../raw/llibres/vilar-andorre-1904.txt)).
+   **La font justifica la periodicitat i confirma el tribut, però no identifica
+   l'acord que la va establir ni des de quin any s'aplicava.**
 7. **La fórmula del jurament de fidelitat a França** que els delegats prestaven en
    lliurar el tribut.
 8. **Qui era el metge del país el 1904** i **des de quan hi havia servei mèdic
