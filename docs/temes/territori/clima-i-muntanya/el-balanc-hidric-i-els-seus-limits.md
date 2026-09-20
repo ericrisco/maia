@@ -222,10 +222,12 @@ què el corpus ja té documentada la reconstrucció.`
   desenvolupament complet per unitats i conques. Tampoc no s'han
   llegit totes les pàgines de la reconstrucció de 2015 ni reconstruït
   les sèries originals de temperatura, precipitació i cabal.
-- **Nova discrepància:** la taula 2, p. 8, dona una variació de reserva
-  de 4,3 mm per a 2025; la taula de la figura 52, p. 52, en dona
-  0,05 mm. Es conserven ambdós valors. La prosa de p. 47 arrodoneix
-  els dos extrems a 8,4 mm i no resol aquesta diferència.
+- ~~**Variació de la reserva el 2025**~~ — **`parcial` el 20-09-2026**:
+  la taula 2, p. 8, dona **4,3 mm**; la taula de la figura 52, p. 52,
+  dona **0,05 mm**. La prosa de p. 47 arrodoneix els dos extrems a
+  **8,4 mm**, de manera que confirma els extrems publicats però no permet
+  reconstruir la variació. Es conserven els dos valors sense atribuir la
+  diferència a una causa no comprovada.
 - No s'ha comprovat el compliment real dels cabals ecològics ni cercat
    una correcció editorial dels informes. Els drets de redistribució
    continuen pendents a la [fitxa de font](../../../fonts/mediambient-recurs-hidric.md);
