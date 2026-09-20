@@ -319,8 +319,14 @@ que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
    2010**. Les tres llistes, comparades, són a
    [Apte per residir](./apte-per-residir.md): **sis causes de no-aptitud el 1993,
    sis el 1998, tres el 2010.**
-2. **Si l'article 23.2 s'exerceix**: quines associacions s'han consultat mai i
-   amb quin efecte.
+2. ~~**Si l'article 23.2 s'exerceix**: quines associacions s'han consultat mai i
+   amb quin efecte.~~ — **`parcial` el 21-09-2026**: l’article 23.2 de la [Llei
+   qualificada d’immigració](../../../raw/lleis/immigracio.txt) identifica com a
+   interlocutors la Cambra de Comerç, les organitzacions empresarials i
+   sindicals, el Consell de Col·legis Professionals i les associacions d’àmbit
+   nacional interessades en immigració. El text obliga el Govern a fer les
+   consultes que consideri oportunes, però no acredita quines es van fer ni quin
+   efecte van tenir sobre la política o les quotes.
 3. ~~**Els reglaments de quota des del 2012: xifres per any i per tipus**~~ —
    **`parcial` el 17-09-2026**: **baixats els 105 reglaments** i extreta la sèrie
    de la quota general de treball — vegeu
