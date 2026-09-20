@@ -115,7 +115,7 @@ tradició pròpia i aïllada.
 
 ## El que falta
 
-- **Quines cases andorranes tenien fama de tenir-ne.**
+- ~~**Quines cases andorranes tenien fama de tenir-ne.**~~ — **`parcial` el 21-09-2026**: la guia institucional del **bosc dels menairons de Pal** situa la versió andorrana a la **Massana** i diu que els menairons protegeixen les pedres blanques d’Andorra, però no atribueix el canut ni la riquesa a cap casa pairal. El buit nominal —quines cases, i si n’hi havia— continua obert ([font local](../../../raw/web/cultura/llegendes/README.md)).
 - **Versions andorranes recollides**: la font parla d'Andorra i els exemples que
   dona són tots de fora.
 - ~~**L'herba menaironera**: si té nom botànic i si és la falguera.~~ — **`parcial` el 20-09-2026**: la guia oficial del [bosc dels menairons de Pal](../../../raw/web/cultura/llegendes/lamassana-bosc-dels-menairons-2021.txt), del Comú de La Massana, la descriu dins la llegenda com «un tipus de falguera», però no n'aporta cap nom botànic ni identifica una espècie real.
