@@ -219,8 +219,12 @@ com a buit «quan va desaparèixer el violari».**
 4. ~~**Per què el tipus del violari va passar del 14,29 % de 1628 al 6,73 % de cap
    al 1875.**~~ — **`parcial` el 18-09-2026**: **el corpus té els dos punts
    separats per 247 anys**, però **cap dada intermèdia ni la causa del canvi**.
-5. **Si el *violari* i el *vitalici* eren la mateixa figura el 1875** o **si
-   l'acte els acumula per cautela notarial.** `Registrat, no arbitrat.`
+5. ~~**Si el *violari* i el *vitalici* eren la mateixa figura el 1875** o **si
+   l'acte els acumula per cautela notarial.**~~ — **`parcial` el 20-09-2026**:
+   l'escriptura de **1870–1880** diu literalment **«per via de violari o
+   vitalici»**, i l'editor titula la peça **«Constitution d'un violari»**. La
+   font confirma que les dues qualificacions apareixen juntes en el mateix acte,
+   però no permet decidir si són una sola figura o una cautela notarial.
 6. **L'operació de base**: **una *in solutum datio* prèvia, una revenda per 1.641
    lliures i una donació de 891.** **El corpus no té l'acte anterior** ni sap
    **per què les mateixes parts es tornen la finca.**
