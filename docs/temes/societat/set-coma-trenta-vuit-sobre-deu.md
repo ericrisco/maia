@@ -204,9 +204,10 @@ diferents i la font les publica totes dues.**
   **`no-es-buit` el 19-09-2026: és un avís metodològic sobre la cobertura
   temporal de la taula, no una pregunta ni una afirmació sobre l'absència de
   dades al país.**
-- **La formació contínua salta del 2,4% al 9,8% en un any** (2023 → 2024).
-  **El corpus no ho cita com un canvi real**: **no s'ha trobat cap nota
-  metodològica** que expliqui un factor de quatre. `pregunta_oberta`
+- ~~**La formació contínua salta del 2,4% al 9,8% en un any** (2023 → 2024).~~
+  — **`parcial` el 20-09-2026**: la taula de la font confirma el salt de
+  **7,4 punts** i el corpus no el cita com un canvi real; **no s'ha trobat cap
+  nota metodològica** que expliqui un factor de quatre.
 - ~~**Per què el segon quintil està menys satisfet econòmicament que el primer**~~
   — **`parcial` el 2026-09-20**: la taula dona **4,75** per al segon quintil i
   **5,10** per al primer, però la font no n'explica la inversió.
