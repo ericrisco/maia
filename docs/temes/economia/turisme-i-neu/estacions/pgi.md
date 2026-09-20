@@ -24,6 +24,14 @@ havia posat el primer telesquí del Pas de la Casa el 1956**
 
 **Seu: Prat de la Creu, 59-65, cinquena planta, Andorra la Vella.**
 
+**Comprovació del 20-09-2026:** el [web oficial de PGI](../../../../raw/web/economia/pgi-quienes-somos-2026.html)
+es presenta com a empresa de consultoria turística internacional, dona una
+experiència en **més de 20 països de quatre continents** i manté les pàgines de
+[projectes i contacte](../../../../raw/web/economia/pgi-trabaja-con-nosotros-2026.html),
+amb ofertes de feina i un correu de recursos humans. Això acredita que **PGI
+continua activa en la data de la consulta**, sense permetre inferir-ne ni la
+plantilla ni la facturació.
+
 > **És la subsidiària internacional de SAETDE**, la societat que gestiona el
 > sector del Pas de la Casa - Grau Roig **i que és participada pel Comú
 > d'Encamp.**
@@ -93,8 +101,12 @@ l'any i no només a l'hivern.**
 - **Quanta gent hi treballa i què factura.**
 - **La rivalitat entre SAETDE i el Comú de Canillo**: d'on ve, i des de quan.
 - **Qui és Joan Viladomat.**
-- **Si PGI segueix activa.** **La font no dona cap data posterior al 2005 tret
-  de la llista de projectes.**
+- ~~**Si PGI segueix activa.** **La font no dona cap data posterior al 2005 tret
+  de la llista de projectes.**~~ — **`resolt` el 20-09-2026**: el [web oficial
+  de PGI](../../../../raw/web/economia/pgi-quienes-somos-2026.html) manté la
+  presentació corporativa, l'activitat internacional i els projectes; la [pàgina
+  de treball](../../../../raw/web/economia/pgi-trabaja-con-nosotros-2026.html)
+  publica ofertes actives i un contacte de recursos humans.
 - **L'article de la font porta una etiqueta de canvi de nom pendent**
   («denominació corregida»). **Registrat.**
 
