@@ -106,7 +106,10 @@ corpus, i queda marcada com a tal.**
    el 20-09-2026**: el bolcat local dona les quatre marques i l'any, però no el
    dia; el perfil oficial de World Athletics ja mostra marques posteriors i el
    corpus conserva la divergència sense arbitrar-la.
-3. **On s'entrena i amb qui.**
+3. ~~**On s'entrena i amb qui.**~~ — **`resolt` el 20-09-2026**: el cos de la
+   fitxa ja ho documenta — **La Rabassa**, amb el club **NEC La Rabassa-
+   Naturlàndia**, i **Noruega**, amb el **Team Aker Dæhlie**. La font no dona
+   cap rutina ni calendari més detallat.
 4. **La premsa andorrana** sobre el bronze europeu sub-23 del 2021 i sobre
    Munic.
 5. ~~**El World Fair Play Award**: any i categoria exactes.~~ — **`resolt` el
