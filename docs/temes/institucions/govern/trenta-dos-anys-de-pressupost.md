@@ -186,8 +186,10 @@ legal deu anys seguits no era una regla escrita: era una decisió repetida.**
   figura amb **163.722.589,58 € (20,3%)** i Salut amb **121.413.814,34 €
   (15,1%)**; la resta de partides i el contrast aritmètic són a
   [les partides ministerials del pressupost 2026](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md#les-partides-ministerials-una-per-una).
-- **Per què el 2009 cau un 14,7%.** **És l'única caiguda gran de la sèrie i la
-  font no la comenta.**
+- ~~**Per què el 2009 cau un 14,7%.**~~ — **`parcial` el 2026-09-20**: el
+  pressupost baixa de **419,2 M€ el 2008** a **357,6 M€ el 2009** (**−14,7%**),
+  i el mateix any també perden pressupost els comuns; la font no n'identifica
+  la causa.
 
 ## Related
 
