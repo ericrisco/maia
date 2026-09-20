@@ -346,8 +346,16 @@ ningú.**
   s'aplica l'excepció i amb quins la regla.** **Buit prioritari.**
 - **Quant és «prou importància»** (article 4.g). **La llei no ho diu i el corpus
   no té cap resolució que ho apliqui.**
-- **Què queda protegit pel secret bancari** un cop la comissió rogatòria és
-  conforme (article 32). **La frase hi és; el seu abast, no.**
+- ~~**Què queda protegit pel secret bancari** un cop la comissió rogatòria és
+  conforme (article 32). **La frase hi és; el seu abast, no.**~~ — **`parcial`
+  el 21-09-2026**: l’article 35 remet als articles 190–192 del [Codi
+  penal](../../../raw/lleis/codi-penal.txt), que protegeixen els secrets
+  personals coneguts per raó de la feina, el secret professional i l’obligació
+  que continua després de deixar l’ofici; l’article 190 exclou la informació
+  privada que els bancs comparteixen entre administradors sobre crèdits i riscos
+  d’un client quan ho permet la llei. La llei de cooperació encara no concreta
+  quina informació bancària queda protegida quan la comissió rogatòria ja és
+  conforme.
 - **Quantes comissions rogatòries rep i executa Andorra cada any**, i de quins
   estats. **No consta enlloc del corpus.** `Requereix la memòria del Consell
   Superior de la Justícia o del Ministeri Fiscal.`
