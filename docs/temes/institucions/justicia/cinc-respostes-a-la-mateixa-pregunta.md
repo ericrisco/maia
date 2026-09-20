@@ -280,9 +280,10 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
    garbes d'una fracció**, i **no té cap font que ho digui amb lletres.** `parcial
    —abans no en tenia cap xifra.~~ — **`parcial`: les disset garbes derivades
    donen una xifra de treball, però no hi ha font que la publiqui en lletres.
-8. **Els dos documents del segle XV**: **capítols matrimonials del 18 de gener de
+8. ~~**Els dos documents del segle XV**: **capítols matrimonials del 18 de gener de
    1470** i **l'embargament del 18 d'abril de 1472**. **Brutails no en dona
-   signatura d'arxiu.** `obert, i és una limitació de la font.`
+   signatura d'arxiu.**~~ — **`no-es-buit` el 20-09-2026**: la font només en
+   dona les dates i la naturalesa i no permet identificar millor les peces.
 9. **L'encàrrec del codi del 17 de desembre de 1868**: **si se'n va escriure cap
    esborrany**, i **on és**. `obert.`
 10. ~~**L'Apèndix de la Reforma de 1866**.~~ — **`parcial` el 2026-09-18**:
