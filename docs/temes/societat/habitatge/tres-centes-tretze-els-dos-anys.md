@@ -147,7 +147,12 @@ va cometre ell mateix i el va cometre el mateix dia que el diagnosticava.**
   i **313 el 2025**, una variació de **0,0%**, mentre el total del país passa de
   **1.608 a 2.175** (**+35,3%**). És l'única parròquia amb aquesta coincidència,
   però la font no identifica si respon a composició, calendari o registre.
-- **Per què el preu de la capital baixa** mentre el de les altres sis puja.
+- ~~**Per què el preu de la capital baixa mentre el de les altres sis puja**~~ —
+  **`parcial` el 20-09-2026**: Andorra la Vella passa de **5.063,6 €/m² el
+  2024** a **4.885,9 €/m² el 2025** (**−3,5%**), mentre el preu del país puja
+  un **10,5%** i les altres parròquies augmenten entre **3,8% i 32,1%**. La
+  font confirma el contrast, però no permet separar preu i composició de les
+  operacions.
 - **Quantes compres de no residents hi ha, en nombre.** La nota del 2T 2026 en
   dona **percentatges dins de cada tipus de comprador** i no el recompte.
 - **La sèrie de compradors per residència abans del 2026.** És una
