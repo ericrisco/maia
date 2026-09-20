@@ -116,7 +116,10 @@ visites.**
 
 - **Lluís Samper**: **qui és, i on va publicar la descripció** més enllà de la
   represa a *Fòrum.ad* del 7 de març del 2022.
-- **Quan es feia, i fins quan.** **Cap font no ho data.**
+- ~~**Quan es feia, i fins quan.**~~ — **`no-es-buit` el 20-09-2026**: cap de
+  les fonts locals consultades no dona una data d'inici ni de final de la
+  cacera del tamarro; el corpus només documenta la pràctica com a costum
+  narrat.
 - ~~**Joan de Déu Prats**, *«Andorra i la caça del Tamarro»*, *El Temps de les
   Arts*, 19 de maig del 2021 — **no llegit.**~~ — **`parcial` el 19-09-2026**:
   la còpia local de l'article de la Viquipèdia conserva la referència, l'URL i
