@@ -163,7 +163,10 @@ existeix.**
 - ~~**Qui és Gerard Àvila**, l'únic nom que la font dona. **Cap fitxa.**~~ —
   **`parcial` el 2026-09-18**: **12 gols i 16 punts, màxim golejador i màxim
   anotador de la selecció**; **la biografia segueix oberta.**
-- **Els altres jugadors.** Cap nom. **El bolcat no en porta cap convocatòria.**
+- ~~**Els altres jugadors.** Cap nom.~~ — **`no-es-buit` el 20-09-2026**: el
+  bolcat de la selecció només identifica Gerard Àvila i no incorpora cap
+  convocatòria ni cap altre nom; la resta de la plantilla no es pot reconstruir
+  des d'aquesta font.
 - ~~**La Federació Andorrana d'Esports de Gel**: cap fitxa, tot i que és la
   federació d'un país de muntanya.~~ **`parcial`**: **creada el 1992, membre
   associat de la IIHF des del 4 de maig del 1995**, web **`faeg.ad`**. **Sense
