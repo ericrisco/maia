@@ -291,7 +291,15 @@ parroquia»**.
    de mercaderia importada, exempts blat, pa i farina — i **els productes
    francesos en tenien immunitat per conveni exprés**. Vegeu
    [l'extensió dels poders](./lextensio-dels-poders.md).
-2. **Els segells de correus** emesos pel Consell General i mai posats en curs.
+2. ~~**Els segells de correus** emesos pel Consell General i mai posats en curs.~~
+   **`parcial` el 21-09-2026**: la bibliografia local identifica la peça que cal
+   consultar, **Gerhard Lang-Valchs, «Els assaigs de segells republicans per a
+   l’Andorra de 1938», *Papers de Recerca Històrica*, 8 (2016), p. 107–109**
+   ([catàleg bibliogràfic](../../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.txt)).
+   La fitxa de [les compres a Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md)
+   confirma el contrast de **6.000 segells espanyols** importats el 1895, però
+   l’article de Lang-Valchs encara no és al corpus i no permet comprovar quins
+   assaigs es van arribar a emetre ni si mai van circular.
 3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
 4. ~~**Quant rendia el llot**, i amb quina freqüència s'enviava.~~ — **`parcial`**:
    el 1918 es fa **«a menudo… cuando no bastan estos ingresos normales»**, és a
