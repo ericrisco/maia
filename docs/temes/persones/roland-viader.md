@@ -44,8 +44,12 @@ i dret.
 
 ## Buits registrats
 
-1. **El contingut de la tesi**, més enllà del títol i el tema — el corpus
-   no l'ha consultada.
+1. ~~**El contingut de la tesi**, més enllà del títol i el tema.~~ —
+   **`parcial` el 20-09-2026**: la fitxa ja concreta que *Pouvoirs et
+   communautés en Andorre (IXe-XIVe siècles)* estudia la història econòmica i
+   social del camp feudal, les formes de propietat i les relacions socials,
+   amb aportacions d'antropologia i dret. El text íntegre encara no s'ha
+   consultat.
 2. ~~**Si mai s'ha traduït al català o al castellà** — la font que el
    citava deia que no, el 2018.~~ — **`parcial` el 20-09-2026**: el
    [catàleg del Govern](../../raw/web/persones/historiografia/obres-franceses/govern-viader-2000.txt)
