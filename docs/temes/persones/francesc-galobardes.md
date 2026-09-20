@@ -56,8 +56,12 @@ amb Carme Demiquels Guix des del 1957**, dos fills.
 
 ## Buits registrats
 
-1. **El contingut de l'obra**: quins paisatges, quines tècniques, més
-   enllà de «la neu».
+1. ~~**El contingut de l'obra**: quins paisatges, quines tècniques, més
+   enllà de «la neu».~~ — **`parcial` el 20-09-2026**: la mateixa fitxa
+   documenta **unes 524 obres** a l'Espai Galobardes, exposicions a
+   **Barcelona, Madrid, París i Brussel·les**, segells de Correus francès amb
+   les seves pintures i una retrospectiva al Museu Reig. Encara no desglossa
+   els paisatges ni les tècniques obra per obra.
 2. ~~**Detall de la seva feina a Crèdit Andorrà.**~~ **[parcial · 2026-09-19]** La fitxa ja estableix que, després d'establir-se a Andorra el 1961, hi va treballar. Encara falten les funcions concretes i els anys exactes.
 
 ## Related
