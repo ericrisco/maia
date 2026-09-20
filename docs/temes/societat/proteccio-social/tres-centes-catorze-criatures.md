@@ -148,6 +148,13 @@ la infància atesa del país**: **són els del servei especialitzat.** **El risc
 lleu i moderat el porta l'atenció primària i no surt en aquestes taules.**
 `El corpus no ha trobat cap sèrie del que fa l'atenció primària amb infants.`
 
+La Llei 14/2019 sí que descriu el circuit: el servei social d'atenció primària
+valora i intervé en el risc lleu i moderat; si aprecia risc greu o no aconsegueix
+reduir-lo, eleva un informe a la **Comissió d'Atenció a la Infància i
+l'Adolescència**, i el servei especialitzat completa la valoració i proposa les
+mesures. Això explica **què fa** l'atenció primària, però no quants casos porta
+ni quins resultats obté.
+
 **I explica per què les xifres d'acolliment són tan petites al costat de les
 d'atenció**: **cap acolliment no es pot fer sense resolució judicial motivada**
 (art. 95), **que llista sis mesures possibles** —suspensió de la pàtria potestat
@@ -214,8 +221,12 @@ amb aquell nom.
   **`parcial` el 21-09-2026**: l'API publica des de 2016 agregats de casos
   intervinguts per tipus de maltractament, però no el registre individual ni
   una prova que s'hagi creat formalment en els termes de l'article 71.
-- **Què fa l'atenció primària amb els infants en risc lleu i moderat**, que és
-  el gruix que no surt en aquestes taules. `font_externa`
+- ~~**Què fa l'atenció primària amb els infants en risc lleu i moderat**, que és
+  el gruix que no surt en aquestes taules.~~ — **`parcial` el 21-09-2026**: la
+  Llei 14/2019 descriu la valoració i la intervenció en risc lleu i moderat, i
+  l'elevació d'un informe quan hi ha risc greu o la intervenció no el redueix;
+  la font estadística no publica el nombre de casos ni els resultats de la
+  xarxa d'atenció primària.
 - **La Comissió Nacional de la Infància i l'Adolescència, el Pla Nacional i el
   Consell Nacional**: composició, actes i pressupost. `pregunta_oberta`
 - **La distribució de totes les famílies andorranes per tipus** —nuclear,
