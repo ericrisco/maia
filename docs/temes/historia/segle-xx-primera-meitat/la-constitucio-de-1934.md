@@ -89,7 +89,13 @@ una constitució de disset articles.**
   prohibia l'expulsió de ciutadans andorrans i garantia drets als
   estrangers amenaçats d'expulsió. **El buit del text literal segueix
   prioritari i obert.**
-- **Qui era el síndic Pere Torras**, i per què hi va posar el nom.
+- ~~**Qui era el síndic Pere Torras**, i per què hi va posar el nom.~~ —
+  **`parcial` el 20-09-2026**: [Els síndics generals](../../persones/els-sindics-generals.md)
+  identifica **Pere Torres i Riba** com a síndic del **18 de setembre de 1933
+  al 1936**, i la cronologia del corpus el situa encara en el càrrec el 1935.
+  Es conserva la divergència de grafia **Torras/Torres** entre les fitxes; el
+  corpus no documenta per què va signar la Constitució ni si la variant és un
+  error de la font.
 - ~~**Qui va votar en contra.**~~ — **`parcial` el 20-09-2026**: la mateixa
   fitxa documenta la data (**10 de juliol de 1934**) i el recompte (**23 a
   favor, 1 en contra**), però no el nom del conseller contrari. Cal l'acta
