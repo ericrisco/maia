@@ -130,9 +130,15 @@ naturalitzacions i el corpus no ho pot separar.`
 ## El que falta
 
 - Els tipus de residència: **coberts** a [la residència passiva](./la-residencia-passiva.md).
-  Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
+  ~~Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
   —el Govern, per reglament, després de consultar la Cambra de Comerç, els
-  sindicats i les patronals— i **no quantes són**.
+  sindicats i les patronals— i **no quantes són**.~~ — **`parcial` el 21-09-2026**:
+  [el mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md)
+  ja documenta la sèrie de quotes generals i especials de **1989–1997**,
+  **2002–2011** i **2012–2026**; entre l’agost de 1997 i el setembre de 2002
+  el BOPA no en publica cap. El residu són les quotes de compte propi i de
+  residència sense activitat lucrativa, que encara no tenen una sèrie anual
+  completa.
 - ~~La sèrie demogràfica: d'on ve aquest 54,7 % i com ha evolucionat.~~ —
   ~~Les nacionalitats concretes (espanyola, portuguesa, francesa) i el seu
   pes.~~ — **`resolt` el 18-09-2026** amb l'API del Departament d'Estadística
