@@ -74,7 +74,7 @@ dels dos andorrans no va acabar cap cursa.
   destil·lada, no una pregunta pendent.
 - ~~**Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
   entrada. ~~— **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
-- **La Federació Andorrana d'Esports Adaptats (FADEA).**
+- ~~**La Federació Andorrana d'Esports Adaptats (FADEA).**~~ — **`no-es-buit` el 2026-09-20**: és una identificació institucional, no una pregunta pendent; el registre comunal i la fitxa de [fundació i registre](../../../../fonts/fadea-fundacio-1998.md) ja documenten la federació, el canvi de nom FADEM→FADEA i la inscripció del 2013.
 
 ## Related
 
