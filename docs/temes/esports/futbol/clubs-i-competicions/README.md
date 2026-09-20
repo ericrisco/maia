@@ -66,7 +66,7 @@ l'estructura.**
   ja en dona el primer partit, les dinou fases de classificació, 63 partits i
   els convocats del 2026; encara no hi consta si hi ha competició andorrana
   pròpia.
-- **L'arbitratge.**
+- ~~**L'arbitratge.**~~ — **`resolt` com a duplicat el 2026-09-20**: la pregunta canònica sobre l'arbitratge femení andorrà queda registrada a [Futbol femení](../femeni/README.md#el-que-falta), a partir de l'apunt d'[Ainhoa Fernández](../femeni/ainhoa-fernandez.md).
 
 ## Related
 
