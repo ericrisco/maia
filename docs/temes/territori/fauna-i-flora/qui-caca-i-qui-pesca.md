@@ -181,8 +181,7 @@ que l'Administració creu que n'hi ha més.**
 
 - ~~**Quants isards, muflons i cabirols hi ha.**~~ — **`parcial` el 2026-09-19**: la font dona **captures atorgades i percentatges de compliment**, però no publica la **població**. La Llei 18/2024 (article 8.2) fixa, per activar el pla de caça de l’isard, el llindar de **més de 300 isards** i un **creixement del 14 %**. **El llindar legal i les captures no substitueixen el cens de les tres espècies, que continua obert.**
 - ~~**Per què el mufló del sector Setúria-Comapedrosa-Madriu passa del 89 % al 26,5 % de compliment en cinc anys.**~~ — **`parcial` el 2026-09-19**: la taula de la font fixa el descens del **89,1 %** al **26,51 %** entre les sèries comparades. **No explica si el canvi prové d’una població menor, de menys caçadors o d’un pla més ambiciós.**
-- **Quantes truites es pesquen.** Hi ha llicències i permisos; **de captures,
-  res**.
+- ~~**Quantes truites es pesquen.**~~ — **`parcial` el 2026-09-19**: la sèrie d’Estadística compta **1.271 llicències de pesca de temporada el 2025** i la fitxa també dona permisos d’acotat i llicències turístiques. **Cap font no publica el nombre de truites capturades, de manera que les autoritzacions no es poden convertir en captures.**
 - ~~**Qui són els 474 caçadors**: la font en publica el desglossament per edat
   i residència **en un gràfic sense etiquetes** i no en dona la taula.~~ —
   **`resolt` el 18-09-2026 per una altra taula de la mateixa casa**
