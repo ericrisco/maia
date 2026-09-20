@@ -245,7 +245,11 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
 - ~~**Francesc Betriu**, el germà.~~ **`resolt` el 2026-09-19**: **Francesc
   Betriu i Tàpies (1926–2014)** era **enginyer**, germà de Josep Betriu i
   cofundador de Taurus ([font local](../../../raw/web/economia/transport/dausa/README.md)).
-- **Per què la valoració dels terrenys va passar de 40 a 8 milions.**
+- ~~**Per què la valoració dels terrenys va passar de 40 a 8 milions.**~~ —
+  **`parcial` el 2026-09-20**: la compra negociada el **2005** es valorava en
+  **40 M€**, mentre que l'Institut Català del Sòl va adquirir el **85%** dels
+  terrenys el **2007** per **8 M€**; la font documenta la diferència però no
+  n'explica la causa.
 
 ## Related
 
