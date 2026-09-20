@@ -233,7 +233,7 @@ mateix tros de muntanya, dos règims alhora.**
   «el tractat de Courville»**, comprovat sobre el render a 400 ppp de la p. 53.
   `El que segueix obert és quin tractat és: cap font del corpus no coneix un
   «tractat de Courville», i Corbeil (1258) queda descartat per sentit.`
-- **Joan Becat** i la seva obra sobre Andorra.
+- ~~**Joan Becat** i la seva obra sobre Andorra.~~ — **`parcial` el 20-09-2026**: la [fitxa bibliogràfica de la tesi](../../../fonts/becat-tesi-1993.md) l’identifica com a geògraf de la Universitat de Perpinyà i descriu *L’Andorre. Mutations d’une économie montagnarde* (tesi de 1993, reedició ICRESS 2019) i el seu llibre 2, que és el que aquesta fitxa cita; el corpus també conserva treballs seus sobre fronteres i límits, vida pastoral, migracions i allaus. La bibliografia completa de l’autor continua pendent.
 
 ## Un tros de límit que no segueix aquesta lògica
 
