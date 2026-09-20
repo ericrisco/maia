@@ -55,6 +55,27 @@ paren de pujar**: **1.323 → 1.773 → 1.846 → 1.838 → 1.997.**
 la sèrie d'exportacions comença el 1997. El 2026 és un any parcial i no s'ha de
 comparar amb els anteriors.`
 
+### El salt del 2022, per capítol
+
+La mateixa API publica l'altra desagregació que la taula per països no dona:
+**exportacions per capítol aranzelari**. Sumant els dotze mesos de la divisió
+68, el total passa de **140,87 M€ el 2021** a **367,53 M€ el 2022**, coherent
+amb els **140,9** i **367,5 M€** de la sèrie anual per països.
+
+| Capítol | 2021 | 2022 | Variació |
+| --- | ---: | ---: | ---: |
+| **97 — art, col·lecció i antiguitat** | 1,42 M€ | **201,25 M€** | **+199,83 M€** |
+| **85 — màquines i aparells elèctrics** | 28,08 M€ | **46,39 M€** | **+18,31 M€** |
+| **84 — màquines i aparells mecànics** | 6,61 M€ | **9,96 M€** | **+3,35 M€** |
+| **87 — vehicles** | 32,81 M€ | **35,84 M€** | **+3,04 M€** |
+| **90 — òptica i precisió** | 14,28 M€ | **16,04 M€** | **+1,76 M€** |
+
+El capítol 97 explica **199,83 dels 226,66 M€** d'augment interanual (**88,2
+%**); els quatre capítols següents n'expliquen **26,45 M€** més. La taula
+identifica què va sortir en valor, però la font no descriu quines operacions o
+esdeveniments expliquen l'entrada extraordinària d'objectes d'art el 2022.
+([sèrie per capítol](../../../raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv), divisió 68.)
+
 ## França se'n va, Espanya arriba a set de cada deu
 
 **Percentatge de les importacions andorranes, per origen:**
@@ -193,8 +214,11 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   s'exporta](#que-simporta-i-que-sexporta). **El que continua obert és el
   creuament capítol × país**: **la font no el publica**, dona les dues
   desagregacions per separat. `font_externa`
-- **Què va passar el 2022**, quan les exportacions es van multiplicar per 2,6.
-  `pregunta_oberta`
+- ~~**Què va passar el 2022**, quan les exportacions es van multiplicar per 2,6~~
+  — **`parcial` el 20-09-2026**: la desagregació per capítol mostra que el salt
+  de **140,87 a 367,53 M€** prové sobretot del **capítol 97**, que passa de
+  **1,42 a 201,25 M€** i explica el **88,2%** de l'augment; la font no permet
+  identificar l'operació o l'esdeveniment que hi ha al darrere.
 - **Per què Turquia, Hong Kong i Gran Bretanya apareixen com a destins** a
   partir del 2015. `pregunta_oberta`
 - ~~**Les exportacions anteriors al 1997**, que la sèrie dona a zero i no existien
