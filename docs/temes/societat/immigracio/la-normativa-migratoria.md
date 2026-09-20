@@ -120,6 +120,21 @@ I el que crea el Decret de bases:
   dependències**».
 - **El fitxer informatitzat** del Servei d'Immigració.
 
+### El relleu de la Comissió
+
+El **Decret regulador del Servei d'Immigració, de 15-02-1996**, conserva el
+rastre institucional de la comissió: la seva disposició addicional primera diu
+que **totes les competències** que el Decret de bases atribuïa als Veguers o a
+la **Comissió Mixta d'Alt Nivell** passen, «d'ara endavant», al **Govern**
+([text del decret de 1996](../../../raw/web/societat/immigracio/decret-servei-immigracio-1996.html)).
+El mateix decret posa la concessió de la residència legal en mans del Servei
+d'Immigració, format pel Departament de Treball i el Servei de Policia.
+
+Per tant, després de 1993 la comissió deixa de ser l'òrgan competent en la
+gestió ordinària: les seves atribucions s'integren al Govern i al nou Servei
+d'Immigració. El corpus encara no permet reconstruir si va mantenir reunions o
+cap funció política residual.
+
 ## Les quotes, i el que diuen
 
 ### 1984-1987: per nacionalitat
@@ -421,7 +436,11 @@ el corpus la reté com a **posició**, no com a descripció neutra.
    divergència: diabetis, hepatitis C i sordesa no hi figuren literalment.
 7. ~~**La incoherència de les dues sèries de percentatges.**~~ **TANCADA** (vegeu
    més amunt).
-8. **Què va ser de la Comissió mixta d'alt nivell** després del 1993.
+8. ~~**Què va ser de la Comissió mixta d'alt nivell** després del 1993.~~ —
+   **`parcial` el 21-09-2026**: el decret de 15-02-1996 traspassa al Govern
+   totes les competències que tenia la comissió i les concentra al Servei
+   d'Immigració; no consta si va continuar reunint-se amb alguna funció
+   residual.
 9. ~~**Francesca Ros Pascuet**: el corpus no té fitxa de persona, i és **font i, després,
    ministra de la matèria que descriu**.~~ **`parcial`:** el corpus ja la
    identifica com a autora de *Població i migracions actuals* i de la ponència
