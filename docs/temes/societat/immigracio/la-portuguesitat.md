@@ -76,8 +76,10 @@ acordar.
 
 ## L'accident del túnel dels Dos Valires
 
-**El 2009, cinc portuguesos hi van morir.** El corpus **no tenia aquest fet per
-cap altra via**.
+**El 7 de novembre de 2009 es va esfondrar el viaducte en construcció de la
+boca oest del túnel.** **Van morir cinc obrers portuguesos i sis més van quedar
+ferits**, segons la notícia de RTVA; el Govern en conserva el desè aniversari i
+la data del sinistre ([fonts web](../../../raw/web/societat/immigracio/dos-valires/README.md)). **El corpus no tenia aquest fet per cap altra via**.
 
 L'autor l'explica per la resposta que hi va haver: el Grup **«va voler agrair la
 implicació del Principat davant la catàstrofe»** i va portar les **Janeiras a la
@@ -344,9 +346,7 @@ queda com a buidatge pendent el contingut i la font del vídeo del Grup.
 > **Auditat contra la resta del corpus el 2026-09-13.** **Un buit era fals**:
 > **la fitxa que demanava ja existia i és bona.**
 
-- ~~**L'accident del túnel dels Dos Valires**, 2009. **Prioritari.** ~~— **`obert`,
-  confirmat.** **Cap document del corpus no l'esmenta**; aquesta fitxa és
-  l'única que en parla. `Requereix font externa: la premsa del 2009.`
+- ~~**L'accident del túnel dels Dos Valires**, 2009. **Prioritari.**~~ — **`parcial` el 20-09-2026**: el [Govern](../../../raw/web/societat/immigracio/dos-valires/govern-2019.txt) fixa el sinistre el **7 de novembre de 2009** i [RTVA](../../../raw/web/societat/immigracio/dos-valires/rtva-2016.txt) en concreta el balanç: **cinc obrers morts i sis ferits**, tots portuguesos. **La causa tècnica i les responsabilitats judicials no queden tancades** amb aquestes notícies.
 - ~~**Els tamarros**: fitxa pròpia. **Prioritari** — apareixen a tot arreu i el
   corpus no els té.~~ — **`incorrecte`.** **El corpus en té fitxa pròpia**
   —[el tamarro](../../cultura/llegendes/el-tamarro.md)— **i fitxa de font**
