@@ -120,8 +120,20 @@ dopatge de totes les federacions.
 
 ## Buits registrats
 
-- **El sistema de protecció** —risc, desemparament, mesures, acolliment— ocupa
-  tot el títol II i **aquesta fitxa només en toca la porta d'entrada**.
+- ~~**El sistema de protecció** —risc, desemparament, mesures, acolliment— ocupa
+  tot el títol II i **aquesta fitxa només en toca la porta d'entrada**.~~ —
+  **`parcial` el 21-09-2026** amb la [Llei 14/2019 dels drets dels infants i
+  els adolescents](../../../raw/lleis/drets-infancia.txt): el risc es gradua
+  en **lleu, moderat i greu** (article 81), amb servei social d’atenció
+  primària per als dos primers i servei especialitzat —i batlle de menors en el
+  desemparament— per al tercer. El pla d’intervenció pot incloure suport
+  familiar, capacitació parental, assistència educativa, atenció domiciliària,
+  serveis socioeducatius i tractament sanitari (article 84); el desemparament
+  permet suspensió de l’autoritat parental, acolliment familiar temporal o
+  permanent, acolliment especialitzat o residencial i supervisió o suspensió
+  de visites (article 95). L’acolliment temporal dura com a màxim **dos anys**,
+  prorrogable excepcionalment **un any** (article 97). El detall reglamentari,
+  l’aplicació de casos concrets i les dades d’ús continuen oberts.
 - **Cap dada**: quantes notificacions es fan, quants infants estan sota mesura de
   protecció, quantes trucades rep la línia.
 - **Si algun cas andorrà ha arribat mai al Comitè dels Drets de l'Infant**, no
