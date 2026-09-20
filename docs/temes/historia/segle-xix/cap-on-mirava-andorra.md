@@ -178,8 +178,12 @@ tribunal**.
 
 1. **Quin era l'afer greu** decidit per un agent francès seguint el seu germà
    espanyol, i quin any. **Prioritari** — és una acusació concreta sense noms.
-2. **Les escoles franceses**: quin any exacte es van obrir, quants alumnes, i
-   quan es van integrar al sistema actual.
+2. ~~**Les escoles franceses**: quin any exacte es van obrir, quants alumnes, i
+   quan es van integrar al sistema actual.~~ — **`parcial` el 20-09-2026**:
+   [La cronologia escolar](../../societat/educacio/la-cronologia-escolar.md)
+   situa l'obertura de les primeres escoles franceses el **1900**, successivament
+   en diferents parròquies. Encara no hi ha al corpus la xifra d'alumnes ni la
+   data d'integració en el sistema actual.
 3. **La colònia andorrana de Puisserguier**: quants, des de quan, si en queda
    rastre. **Prioritari** — és el primer destí d'emigració andorrana amb nom de
    poble que té el corpus.
