@@ -500,8 +500,12 @@ l'òrgan.**
    Mgr Casañas de 1894**, textos. **Tanquen el buit 1 de [les tres
    sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) si
    apareixen.** `obert, prioritari.`
-10. **Les dues manifestacions episcopals favorables**: **la del 9 de juny de 1806
-    a Napoleó** i **la del 20 de novembre de 1822 a Lluís XVIII.** `obert.`
+10. ~~**Les dues manifestacions episcopals favorables**: **la del 9 de juny de
+    1806 a Napoleó** i **la del 20 de novembre de 1822 a Lluís XVIII.**~~ —
+    **`parcial` el 20-09-2026**: [Les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)
+    confirma les dues dates i en resumeix el contingut —felicitació per compartir
+    la sobirania amb Napoleó i pressió a Lluís XVIII perquè la fes valer, fins i
+    tot per la força—. **Els textos originals encara no són al corpus.**
 11. **El text de la Reforma de 1866 i l'acte d'aprovació francès del 10 d'abril
     de 1868.** `obert; el segon és nou.`
 12. **Com van obtenir els andorrans les dispenses dels drets de trànsit**, i què
