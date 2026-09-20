@@ -337,8 +337,12 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
 > una font que el corpus ja tenia**, i **la lectura n'ha obert un de nou que és
 > més gran que cap dels set.**
 
-1. ~~**Els registres parroquials.** **La font demogràfica bàsica, sense tocar.** ~~—
-   **`obert`, confirmat.**
+1. ~~**Els registres parroquials.** **La font demogràfica bàsica, sense tocar.**~~ —
+   **`parcial` el 21-09-2026**: [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md)
+   estableix que els llibres parroquials es conserven fins avui a les
+   parròquies, i el [Reglament de l’Arxiu Nacional](../../cultura/museus-i-arxius/series-senceres-no.md)
+   permet descriure les regles generals d’accés. El corpus encara no ha llegit
+   els llibres ni n’ha verificat la consulta parròquia per parròquia.
 2. ~~**Les mines de talc de Luzenac**: quants andorrans, quins anys.~~ —
    **`parcial`.** **Ara se sap que n'eren dues** —**La Greda i Luzenac**— i
    **d'on sortien**: **sobretot d'Encamp i de Canillo**, **dues temporades l'any
