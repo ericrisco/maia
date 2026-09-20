@@ -171,8 +171,12 @@ existeix.**
   federació d'un país de muntanya.~~ **`parcial`**: **creada el 1992, membre
   associat de la IIHF des del 4 de maig del 1995**, web **`faeg.ad`**. **Sense
   fitxa pròpia.**
-- **Si Andorra ha arribat mai als seixanta jugadors federats** que la IIHF
-  demana, i **si s'ha arribat a crear la lliga interna** que també exigeix.
+- ~~**Si Andorra ha arribat mai als seixanta jugadors federats** que la IIHF
+  demana, i **si s'ha arribat a crear la lliga interna** que també exigeix.~~ —
+  **`parcial` el 20-09-2026**: el bolcat de la font d'Andorra Difusió conserva
+  que el **2022** la federació reconeixia dificultats per complir aquests dos
+  requisits. La font fixa el llindar i la situació declarada aquell any, però
+  **no dona el cens de jugadors ni confirma si la lliga interna existeix avui**.
 - ~~**El patinatge artístic** —[Melissandre Fuentes](../altres-esports/melissandre-fuentes.md)
   i [Marc Casal](../altres-esports/marc-casal.md) hi tenen fitxa— **i el corpus
   no sap si depèn de la mateixa federació.**~~ — **`parcial` el 2026-09-19**:
