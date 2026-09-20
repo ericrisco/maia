@@ -280,10 +280,11 @@ resol: l'evita.**
   l'IEA/CRES.`
 - **L'estudi *Coneixements i usos lingüístics de la població d'Andorra* d'on
   surten les xifres de bilingüisme**: any d'onada no declarat en aquest apartat.
-- **Tota la part teòrica de Haarmann, Ballarín, Bastardas, Turell, Berstein,
+- ~~**Tota la part teòrica de Haarmann, Ballarín, Bastardas, Turell, Berstein,
   Viladot, Tizón i Querol** queda **deliberadament fora del corpus**: no són fets
   andorrans comprovables, són el bastiment de l'estudi. **Es registra que hi són,
-  no què diuen.**
+  no què diuen.**~~ — **`no-es-buit` el 20-09-2026**: és una decisió explícita
+  d'abast, no una pregunta pendent sobre Andorra.
 
 ## Related
 
