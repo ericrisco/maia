@@ -343,8 +343,12 @@ matèries i el lloc de signatura.**
    ni dia, ni signatura.**
 6. **El document del 1591 on Enric IV es firma «Señor Soberano de Andorra».**
    **Citat sense referència.**
-7. **La contradicció «1727 / Lluís XIV».** **Registrada, no resolta.** `Cal el
-   document de confirmació dels privilegis francesos.`
+7. ~~**La contradicció «1727 / Lluís XIV».**~~ — **`parcial` el 20-09-2026**:
+   la font atribueix a **Lluís XIV** una confirmació datada el **1727**, però el
+   rei havia mort el **1715**. El corpus conserva les dues dades i les hipòtesis
+   que en deriven —error de nom, error d'any o confirmació posterior d'un acte
+   anterior—; la resolució requereix el document de confirmació dels privilegis
+   francesos.
 8. **L'ordre de Lluís XIV sobre el bestiar entre parròquies.** **Dues fonts
    independents la descriuen i cap no la transcriu.** **El corpus té registrada
    la pista: Arxius dels Pirineus Orientals, C 2098, decisió del 24-08-1687.**
