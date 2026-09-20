@@ -162,9 +162,12 @@ quantes criatures tenen avui passaport portuguès.`
 - **La piràmide per parròquia**, que també existeix
   (`POBLACIÓ PER PARRÒQUIA, EDAT (TRAMS 1 ANY) I SEXE`). `serie_estadistica`
 - **Els anys anteriors al 2010.** `serie_estadistica`
-- **Per què la generació del 1972 és la més nombrosa**: **què va passar a
-  Andorra aquell any, o qui va arribar després amb aquella edat.**
-  `pregunta_oberta`
+- ~~**Per què la generació del 1972 és la més nombrosa**: **què va passar a
+  Andorra aquell any, o qui va arribar després amb aquella edat.**~~ —
+  **`parcial` el 2026-09-20**: la cohort és el pic de la piràmide i passa de
+  **1.470 persones el 2010 a 1.635 el 2025** (**+11,2%**); la fitxa estableix
+  que aquest augment només pot venir de fora, però no identifica quins fluxos
+  o esdeveniments la van formar.
 
 ## Related
 
