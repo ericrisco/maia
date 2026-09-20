@@ -471,9 +471,11 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
     el 1904, però no dona l’any d’extinció ni confirma que desapareguessin.
 11. **La composició dels consells de quart**, que **cap text no fixava el 1904**.
     **Si mai se'n va escriure una norma, no és al corpus.** `obert.`
-12. **Els dos documents d'assemblea general de parròquia** —**Encamp, 16 de
+12. ~~**Els dos documents d'assemblea general de parròquia** —**Encamp, 16 de
     desembre de 1443**, i **Andorra, 27 d'agost de 1599**— sencers. **Brutails no
-    en dona signatura d'arxiu.** `obert, i és una limitació de la font.`
+    en dona signatura d'arxiu.**~~ — **`no-es-buit` el 20-09-2026**: la font
+    només aporta les dates i els llocs i no permet identificar millor les peces
+    a partir d'aquesta referència.
 13. **Quan es va deixar de convocar el consell general de parròquia.** La font diu
     «no crec que es convoquin mai, **com antigament**», i **no data el canvi.**
     `obert.`
