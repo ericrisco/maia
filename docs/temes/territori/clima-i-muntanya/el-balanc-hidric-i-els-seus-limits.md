@@ -209,9 +209,13 @@ què el corpus ja té documentada la reconstrucció.`
   996 mm són l'arrodoniment de 995,88 mm, però no determina si els 1.200 mm
   són un error editorial, un àmbit diferent o un altre càlcul. Es conserven
   les tres afirmacions sense escollir-ne una com a correcció oficial.
-- La prosa i la taula 4 de p. 11 també divergeixen en dades del Madriu
-  i en el cabal específic de Prada Casadet. Aquestes xifres no s'utilitzen
-  aquí com a valors resolts; [detall de les discrepàncies](../../../raw/recurs-hidric/README.md).
+- ~~**Discrepàncies de la taula 4 de p. 11**~~ — **`parcial` el 20-09-2026**:
+  al Madriu, la prosa dona **1,2 m³/s, 37 hm³/any i 251 L/m²·any**, mentre
+  la taula dona **0,93 m³/s, 29,24 hm³/any i 1.122,60 L/m²·any**; a Prada
+  Casadet, la prosa qualifica **198** de cabal específic, però la taula dona
+  **197,67 hm³/any** de volum i **556,50 L/m²·any** de cabal específic.
+  La font i el registre de discrepàncies fixen els valors, però no permeten
+  determinar si hi ha un error d'etiqueta, d'unitat o de transcripció.
 - ~~**Lectura de l’annex metodològic de 2025**~~ — **`parcial` el 13-09-2026**:
    p. 44–53, llegit; reserva, dèficit i supòsits incorporats. Queden
   pendents la reproducció numèrica amb els ràsters originals i el
