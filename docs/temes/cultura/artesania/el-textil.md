@@ -163,7 +163,12 @@ motiu, no xifres.`
    donen al gremi de paraires i teixidors d'Escaldes els patrons **Sant Pere
    Màrtir i Sant Ivó**, i la font descriu la festa del sant el **29 d'abril**.
    No hi consta el motiu històric de l'elecció de Sant Pere Màrtir ([font web](../../../raw/web/cultura/oficis/README.md)).
-3. **Quants** paraires i teixidors hi havia, i a quines cases.
+3. ~~**Quants** paraires i teixidors hi havia, i a quines cases.~~ — **`parcial`
+   el 20-09-2026**: el corpus localitza el **registre de la confraria dels
+   paraires d'Escaldes, 1669–1807**, i un acte de **1788** que esmenta «un
+   paraire de la vila» sense nom. Encara no s'ha estudiat el registre i no hi ha
+   recompte de membres ni cases identificades ([registre localitzat](../../territori/geografia-fisica/la-sessio-de-les-perdius.md)
+   i [acte de 1788](../../historia/antic-regim/el-dot-va-canviar-de-terra.md)).
 4. ~~La **fàbrica de mantes**: el referent comparatiu d’Arsèguel~~ — **`parcial`
    el 18-09-2026**: [*Ara Lleida* núm. 17 (1999), p. 59](../../../fonts/ara-lleida-ruta-oficis-ahir-1999.md)
    identifica el Museu de la Llana d’Arsèguel, les màquines en funcionament, les
