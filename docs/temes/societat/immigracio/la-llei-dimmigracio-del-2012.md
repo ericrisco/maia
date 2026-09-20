@@ -341,7 +341,15 @@ que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
    de tres graons** —estats amb conveni signat i ratificat, després UE i EEE,
    després la resta— **i cap no nomena un sol estat.** `La llista no és als
    reglaments de quota: cal buscar-la als convenis mateixos o demanar-la.`
-5. **Si els anys de sojorn compten** per a la residència.
+5. ~~**Si els anys de sojorn compten** per a la residència.~~ — **`parcial`
+   el 21-09-2026**: l’article 53 de la [Llei qualificada d’immigració](../../../raw/lleis/immigracio.txt)
+   diu que, per renovar una autorització —excepte la de fronterer i la de
+   treball sense residència—, cal haver residit de forma **permanent i
+   efectiva** al Principat, i hi computa les vacances, el tractament mèdic o la
+   formació a l’estranger i els desplaçaments laborals autoritzats de fins a
+   dotze mesos. El text fixa aquesta regla de renovació i no resol si els anys
+   d’un permís de sojorn serveixen per a altres còmputs de residència, com la
+   nacionalitat.
 6. ~~**Les divuit modificacions: què va canviar cadascuna**~~ — **`parcial` el
    17-09-2026**: la xifra de divuit no és de lleis sinó de versions
    consolidades.** **Al BOPA, la cadena sencera de la llei d'immigració són dotze
