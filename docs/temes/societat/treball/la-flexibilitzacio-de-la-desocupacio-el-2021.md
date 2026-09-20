@@ -88,9 +88,19 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
   No s'ha localitzat cap errata específica d'aquesta enumeració.~~ —
   **`no-es-buit` el 19-09-2026**: és una nota de lectura sobre una discrepància
   interna del text normatiu, no una pregunta de recerca independent.
-- **Espera i compensació per comiat:** no s'ha llegit cap instrucció ni
+- ~~**Espera i compensació per comiat:** no s'ha llegit cap instrucció ni
   resolució sobre l'aplicació conjunta del nou 1.1.b i de la regla de
-  compensació del 26.4.d de 2020. La taula no resol aquest punt.
+  compensació del 26.4.d de 2020. La taula no resol aquest punt.~~ —
+  **`parcial` el 20-09-2026**: el text de 2020 fixava inscripció 45 dies
+  abans o 90 dies des del fet causant, amb augment de l'espera equivalent a
+  la meitat dels dies de compensació per acomiadament (màxim 120 dies)
+  ([Reglament del 7-10-2020, article 26.4.d](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt)).
+  El Decret 44/2021 va substituir temporalment aquesta alternativa per
+  inscripció abans de sol·licitar o 30 dies des del fet causant
+  ([article 1.1.b](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt)),
+  mantenint els altres requisits a l'article 1.2. **No hi ha al corpus cap
+  instrucció o resolució que digui com es va aplicar la compensació juntament
+  amb aquesta flexibilització**, i aquest residu administratiu segueix obert.
 - ~~**Aplicació de la norma més beneficiosa**~~ — **`parcial` el 19-09-2026**:
   no s’han llegit resolucions d’expedients ni verificat quantes persones van
   accedir a l’ajut gràcies a aquesta flexibilització. Sí que s’ha incorporat
