@@ -197,14 +197,20 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
 
 ## Buits registrats
 
-1. **Qui sostenia que el retracte és indivisible.** **La font ho dona en «es
-   pretén» i no ho atribueix.**
+1. ~~**Qui sostenia que el retracte és indivisible.**~~ — **`parcial` el
+   20-09-2026**: la font conserva la tesi en forma impersonal —«**es pretén**»—
+   i la contraposa als exemples datats de retractes desdoblats, però no n'atribueix
+   l'autoria a cap persona o institució.
 2. **La sentència del batlle en el plet de 1864-1901**, sencera, i **si es va
    apel·lar.**
-3. **Els «dos simples papers» de l'1 de setembre de 1788**: **si es conserven i
-   quina forma tenien.** **Un dret real conferit per escriptura privada.**
-4. **L'equivalència de 25 unces per 400 duros**: **si val per a tot el segle XIX o
-   només per a aquella data.** `Requereix una sèrie de canvis.`
+3. ~~**Els «dos simples papers» de l'1 de setembre de 1788**: **si es conserven i
+   quina forma tenien.**~~ — **`parcial` el 20-09-2026**: la fitxa ja acota que
+   eren **escriptures privades** que conferien un dret de rescat vàlid; no consta
+   si els dos papers es conserven ni el seu format material.
+4. ~~**L'equivalència de 25 unces per 400 duros**: **si val per a tot el segle XIX o
+   només per a aquella data.**~~ — **`parcial` el 20-09-2026**: l'acte de cap al
+   1900 fixa **25 unces = 400 duros**, és a dir, **16 duros per unça**; el corpus
+   no té una sèrie de canvis que permeti generalitzar-ho a tot el segle XIX.
  5. ~~**La peça justificativa p. XLV (cessió de retracte del 10 d'agost de 1788)**~~ —
     **`resolt` el 2026-09-19 amb una segona digitalització** ([exemplar
    d'Internet Archive](../../../fonts/brutails-coutume-ia.md)). La p. XLV en
@@ -219,8 +225,11 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    textual —ordre lògic, no cronològic—, l’exemple de 1890–1892 i la regla que
    el retracte derivat precedeix el més recent; només falta el final literal de
    la nota impresa.
-7. **Quantes vendes portaven la clàusula «*ab propris diners*»**, i **si era pacte
-   d'estil o excepció.**
+7. ~~**Quantes vendes portaven la clàusula «*ab propris diners*»**, i **si era pacte
+   d'estil o excepció.**~~ — **`parcial` el 20-09-2026**: la font diu que la
+   cessió del retracte era freqüent i la fitxa conserva **vuit actes** de cessió,
+   però no compta quantes portaven aquesta clàusula ni permet saber si era d'estil
+   o excepcional.
 8. **Si un rescat fet amb diners manllevats es va arribar a anul·lar mai.**
    **El corpus té la prohibició i cap cas d'aplicació directa.**
 
