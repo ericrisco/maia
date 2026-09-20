@@ -284,8 +284,12 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    > un terme andorrà sense entrada lexicogràfica**, i **la variació de grafia
    > n'és la prova**: **un mot que s'escriu de quatre maneres és un mot que no ha
    > passat mai per un diccionari.**
-7. **Si l'*antoixà* donava preferència per a les bohigues a tot el país** o **només
-   a Soldeu**, d'on ve l'exemple. **La font el dona com a cas que li van assenyalar.**
+7. ~~**Si l'*antoixà* donava preferència per a les bohigues a tot el país** o **només
+   a Soldeu**, d'on ve l'exemple.~~ — **`parcial` el 21-09-2026**: el testimoni
+   recollit per Brutails només documenta la preferència **a Soldeu** —«no es
+   concedirà una bohiga a ningú més que a mi a la vora de la meva propietat»— i
+   defineix l’*antoxà* com «tros de comunal prop de una finca particular». La
+   font no permet estendre aquest ús a tot el país ni identificar l’informador.
 8. **Fins on arribava «la profunditat imprecisa» de l'antoixà**, que **és
    exactament el que la font declara indeterminat.**
 9. **Qui eren els jutges de visura de segona instància** i **com es constituïa
