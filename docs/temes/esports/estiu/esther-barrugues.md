@@ -78,10 +78,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la font li
   dona.**
 - ~~**Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
-  té el nom i la posició**. **No hi ha entrada d'enciclopèdia.**~~ — **`parcial`
-  el 20-09-2026**: el bolcat dels Jocs d'Atenes 2004 dona **fossa (trap), 106
-  punts de qualificació, 35è lloc i sense passar a la final**. **Encara no hi
-  ha una entrada biogràfica independent.**
+  té el nom i la posició**. **No hi ha entrada d'enciclopèdia.**~~ — **`resolt`
+  el 20-09-2026**: el corpus ja té [la fitxa pròpia de Francesc Repiso
+  Romero](./francesc-repiso.md), amb el naixement el **1964**, la prova de
+  **fossa olímpica**, les cinc sèries, **106 punts**, **35è de 35** i sense
+  accedir a la final.
 - ~~**La federació andorrana de tir.**~~ — **`parcial` el 18-09-2026**: el
   representant actual al COA (2024-2028) és **Marc Otero Rodriguez**
   ([font](../../../fonts/coa-membres.md)). **Any de fundació i clubs
