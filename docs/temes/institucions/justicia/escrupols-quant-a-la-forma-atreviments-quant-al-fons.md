@@ -298,9 +298,12 @@ Tres coses que aquesta taula diu i que no s'endevinen:
    externa: l'Arxiu Capitular de la Seu d'Urgell o els Arxius Nacionals.`
 3. **Si el decret del 20 de desembre de 1900 es va complir**, i **si els cosenyors
    hi van intervenir mai** com Brutails demanava.
-4. **Quines eren «les col·leccions de minutes indegudament retingudes per alguns
-   particulars»** el 1904, i **on van anar a parar**. Vegeu [l'Arxiu
-   Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md).
+4. ~~**Quines eren «les col·leccions de minutes indegudament retingudes per alguns
+   particulars»** el 1904, i **on van anar a parar**.~~ — **`parcial` el
+   21-09-2026**: [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)
+   confirma que els **protocols notarials** formen part dels fons que conserva i
+   que la documentació és d'accés lliure per defecte; **no identifica, però, les
+   col·leccions concretes que Brutails deia retingudes ni la seva trajectòria.**
 5. **El cas de la cessió de béns contra un notari** en què les minutes es van
    separar de l'actiu: **sense data ni referència a la font**.
 6. **Si les despeses d'enterrament eren crèdit privilegiat.** **Les sentències
