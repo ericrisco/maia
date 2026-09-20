@@ -107,5 +107,7 @@ un segle o de fa trenta anys.
    la continuïtat de la sèrie i permet començar a comparar l'estructura de les
    sessions, però **no hi ha encara les disset actes anteriors ni les posteriors**
    en el corpus.
-4. **Els altres sis comuns.** Res del que hi ha aquí no és extrapolable sense
-   comprovar-ho.
+4. ~~**Els altres sis comuns.** Res del que hi ha aquí no és extrapolable sense
+   comprovar-ho.~~ — **`no-es-buit`**: aquesta font és una sola sessió d'una
+   sola parròquia i d'un sol any; el seu abast no permet generalitzar-la als
+   altres comuns.
