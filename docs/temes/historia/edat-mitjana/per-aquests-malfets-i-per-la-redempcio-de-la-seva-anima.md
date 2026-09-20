@@ -275,10 +275,14 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    el registra com l'antecedent llatí de l'*empriu*. **El corpus no té, però,
    cap testimoni d'exercici efectiu ni cap data final d'aquest dret.**
 6. **Què hi deia a l'espai en blanc de tres lletres.**
-7. **Els altres documents de la sèrie**: **843, 860, 1001, 1170, 1186, 1213,
+7. ~~**Els altres documents de la sèrie**: **843, 860, 1001, 1170, 1186, 1213,
    1266, 1280, 1303 i 1328.** **El 1133 surt de la llista; els altres deu hi
    queden.** **I dos són a dos apèndixs d'aquest mateix volum**: **el del 8 de
-   gener de 1176** (apèndix B) i **el Pariatge** (apèndix C).
+   gener de 1176** (apèndix B) i **el Pariatge** (apèndix C).~~ — **`parcial`
+   el 20-09-2026**: [Els privilegis](./els-privilegis.md) ja identifica els
+   deu anys i en resumeix l'atorgant i el contingut —843, 860, 1001, 1170,
+   1186, 1213, 1266, 1280, 1303 i 1328—; els textos originals i els dos
+   apèndixs encara no s'han buidat.
 8. ~~**Si Sant Julià de Lòria era parròquia el 1133.** **No hi signa ningú.**~~
    — **`no-es-buit` el 19-09-2026: la font no dona signants ni estat parroquial,
    i l'avís descriu aquesta absència documental, no una resposta que el corpus
