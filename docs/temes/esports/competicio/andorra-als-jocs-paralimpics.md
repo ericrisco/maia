@@ -1,7 +1,7 @@
 ---
 type: article
 title: Andorra als Jocs Paralímpics
-description: "Vuit Jocs des del 2002, sis esportistes, cap medalla. El millor resultat és un novè lloc de Paquita Ramírez a Vancouver 2010."
+description: "Vuit Jocs des del 2002, sis esportistes, cap medalla i un diploma: Roger Puig va ser cinquè en descens a Milà-Cortina 2026."
 tema: temes/esports/competicio
 veu: compilada
 epoca: contemporania
@@ -43,7 +43,7 @@ pàgines a `docs/raw/web/esport/` —`paralimpics.txt` i una per edició.
 | 2014 | Sotxi *(hivern)* | **Xavier Fernández** | esquí alpí |
 | 2018 | PyeongChang *(hivern)* | **Roger Puig**, classe LW9.2 | esquí alpí |
 | 2022 | Pequín *(hivern)* | **Roger Puig** | esquí alpí |
-| 2026 | — | *el registre hi consta; el bolcat no en dona delegació* | — |
+| **2026** | Milà-Cortina *(hivern)* | **Roger Puig** | esquí alpí; **5è en descens** |
 
 **Sis noms en vint anys**, i **la delegació més gran que Andorra hi ha portat mai
 és de dues persones.**
@@ -66,6 +66,13 @@ l'esquí alpí, i **tots dos van córrer el gegant i l'eslàlom**:
 
 ## El millor resultat de la història
 
+**Milà-Cortina 2026 passa a ocupar el primer lloc:** **Roger Puig va ser cinquè
+en descens**, i el Govern d'Andorra el va reconèixer com el primer diploma
+paralímpic del medaller nacional
+([font](../../../raw/web/esport/roger-puig-milano-cortina-2026-govern.txt)).
+
+### El millor resultat abans de 2026
+
 **Vancouver 2010, esquí alpí, categoria de discapacitat visual.**
 
 | Esportista | Prova | Temps | Lloc |
@@ -75,9 +82,9 @@ l'esquí alpí, i **tots dos van córrer el gegant i l'eslàlom**:
 | Xavi Fernández Vásquez | Eslàlom gegant masculí *(sitting)* | 3:40.16 | 24è |
 | Xavi Fernández Vásquez | Eslàlom masculí *(sitting)* | 1:17.08 i **no acaba** | — |
 
-**El novè lloc de Paquita Ramírez al gegant de Vancouver és, segons el
-Comitè Paralímpic Internacional, el millor resultat d'Andorra als Jocs d'hivern
-paralímpics.** **L'abanderat d'aquells Jocs va ser Xavier Fernández.**
+**El novè lloc de Paquita Ramírez al gegant de Vancouver era, abans de 2026,
+el millor resultat d'Andorra als Jocs d'hivern paralímpics.** **L'abanderat
+d'aquells Jocs va ser Xavier Fernández.**
 
 `Una identitat probable que el corpus registra sense afirmar-la: la «Francesca
 Ramírez» de Torí 2006 i la «Paquita Ramírez Capitán» de Vancouver 2010 són molt
@@ -111,8 +118,8 @@ el **2018 a PyeongChang**, en classe **LW9.2**, i el **2022 a Pequín**, on
 | Súper-G | **No acaba** |
 
 **Cinc proves en uns Jocs és el programa més ample que cap andorrà hi ha fet
-mai**, i **el 17è del gegant és el segon millor resultat de la història
-paralímpica del país**, després del novè de Ramírez.
+mai**, i **el 17è del gegant era el segon millor resultat abans del diploma de
+2026**, després del novè de Ramírez.
 
 ## Dues coses que el bolcat diu malament
 
@@ -147,7 +154,12 @@ participacions».**
    Llongueras, Paquita Ramírez, Antonio Sánchez i Roger Puig encara no en tenen**.
 2. **Les delegacions del 2016, 2020 i 2024**, que el registre d'estiu esmenta i
    cap pàgina no detalla.
-3. **Els Jocs del 2026**, que el registre llista i el bolcat no documenta.
+3. ~~**Els Jocs del 2026**, que el registre llista i el bolcat no documenta.~~ —
+   **`resolt` el 20-09-2026**: una notícia del **Govern d'Andorra** confirma la
+   participació de **Roger Puig** a Milà-Cortina 2026 i el seu **cinquè lloc en
+   descens**, primer diploma paralímpic del medaller nacional ([extracte del
+   Govern](../../../raw/web/esport/roger-puig-milano-cortina-2026-govern.txt);
+   [RTVA](../../../raw/web/esport/roger-puig-milano-cortina-2026-rtva.txt)).
 4. ~~**Els resultats del 2006, del 2014 i del 2018** un per un: **el bolcat en
    dona els noms i no les classificacions.**~~ — **`parcial` el 18-09-2026,
    rellegint els bolcats sencers**, i **el que hi ha és això**:
@@ -163,9 +175,8 @@ participacions».**
    cap classificació**, i **el corpus no en pot inventar cap.**
 
    `La pàgina del 2018 hi afegeix, de passada, la confirmació que el novè lloc
-   de Paquita Ramírez al gegant de Vancouver 2010 és el millor resultat
-   paralímpic d'hivern d'Andorra: «Their best finish at the Winter Games was in
-   2010, when Paquita Ramirez Capitan was ninth in the women's Giant Slalom».`
+   de Paquita Ramírez al gegant de Vancouver 2010 era el millor resultat
+   paralímpic d'hivern d'Andorra abans de Milà-Cortina 2026.`
 5. ~~**La FADEA**: **quan es crea, quanta gent hi ha federada i com es
    finança.**~~ — **`parcial` el 18-09-2026**: `fadea.ad` no publica cap
    d'aquestes dades. **Cota inferior trobada al BOPA**: la Federació

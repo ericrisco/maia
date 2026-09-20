@@ -52,6 +52,8 @@ versiona.**
 | `llovera`, `llovera-en` | Albert Llovera, ca i en | CC BY-SA 4.0 |
 | `linan-ana`, `reconeixement-doria-linan` | https://www.anaesports.ad/ | **drets reservats — citació breu** |
 | `linan-diariandorra` | https://www.diariandorra.ad/ | **drets reservats — citació breu** |
+| `roger-puig-milano-cortina-2026-govern.txt` | Govern d'Andorra, recepció institucional després dels Jocs Paralímpics d'hivern 2026 — **extracte factual breu; termes no especificats** |
+| `roger-puig-milano-cortina-2026-rtva.txt` | RTVA, resultat de Roger Puig als Jocs Paralímpics d'hivern 2026 — **extracte factual breu; termes no especificats** |
 
 ## Una URL que no existeix, registrada
 
