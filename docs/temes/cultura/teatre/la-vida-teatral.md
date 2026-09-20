@@ -182,7 +182,10 @@ d'investigació amb signatura**:
    esbrinar.**~~ — **`no-es-buit` el 20-09-2026**: la font declara que no n’ha
    pogut identificar l’autoria i aquesta fitxa no n’infereix cap.
 4. ~~**On era el Teatre d'Ordino.** **Tampoc.**~~ — **`no-es-buit` el 20-09-2026**: la font declara que tampoc n’ha pogut esbrinar la localització i la fitxa no la reconstrueix a partir del nom.
-5. **De 1970 ençà**: setanta anys estudiats, cinquanta-sis sense estudiar.
+5. ~~**De 1970 ençà**: setanta anys estudiats, cinquanta-sis sense estudiar.~~ —
+   **`no-es-buit` el 2026-09-20**: és una nota de cobertura temporal de la
+   bibliografia consultada, no una pregunta factual amb una resposta que la
+   fitxa pugui donar.
 6. **El Casal del Centre** i els seus cursos de teatre.
 7. **El Sindicat d'Iniciativa de les Valls d'Andorra.**
  8. ~~**El bisbe Guitart i la seva posició sobre les escoles**~~ — **`parcial` des
