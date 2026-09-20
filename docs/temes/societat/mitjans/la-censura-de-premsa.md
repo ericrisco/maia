@@ -92,10 +92,8 @@ Seu**; **l'arquebisbe de Tarragona** hi va posar pau; i Casañas va ser
 l'ajuntament —**el pressupost de cultura del 1909**, «tema absolutament central
 en la història del catalanisme».
 
-**Buit registrat, prioritari:** **quan van ser aquells dos anys sense
-sagraments**, i com va afectar la gent. El corpus no en té res
-([l'ensenyament confessional](../educacio/lensenyament-confessional.md),
-[la religiositat](../../costums/religiositat/religiositat.md)).
+**Buit registrat, prioritari:** ~~**quan van ser aquells dos anys sense
+sagraments**, i com va afectar la gent.~~ — **`parcial` el 20-09-2026**: la font confirma que Casañas va privar **tot el territori de les Valls** de **tots els sagraments durant dos anys**; hi va intervenir la **Santa Seu** i l’**arquebisbe de Tarragona** va posar pau. **No en dona les dates ni els efectes socials concrets.**
 
 ## Les Valls d'Andorra: la revista que va acabar amb detencions
 
@@ -219,8 +217,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 ## El que falta
 
 - **Si el decret del 1919 es va derogar**, i quan. **Prioritari.**
-- **Els dos anys sense sagraments** de l'època Casañas: dates i abast.
-  **Prioritari.**
+- ~~**Els dos anys sense sagraments** de l'època Casañas: dates i abast.~~ — **`parcial` el 20-09-2026**: la font confirma la suspensió de **tots els sagraments a tot el territori de les Valls durant dos anys**, la intervenció de la **Santa Seu** i la mediació de l’**arquebisbe de Tarragona**. **No consten les dates ni els efectes socials concrets.**
 - ~~***El Principado de Andorra y su constitución política***, de **Pallerola**:
   any exacte i edició.~~ — **`resolt` el 17-09-2026** des de la bibliografia de
   la [síntesi d'actes del Consell
