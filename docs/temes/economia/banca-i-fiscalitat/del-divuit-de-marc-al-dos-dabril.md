@@ -176,10 +176,16 @@ ho diu ella mateixa i hi posa una xifra:**
    **`parcial`**: la font diu que la finestra apareixia «sovint», cosa que
    documenta recurrència, però no compta quantes vendes la portaven ni quantes
    no.
-5. **El conflicte sobre les notes marginals d'anul·lació**: **la font hi remet i el
-   corpus només en té l'enunciat.**
-6. **Si la consignació prèvia del preu era norma escrita** o **pràctica.** **La font
-   ho enuncia sense citar res.**
+5. ~~**El conflicte sobre les notes marginals d'anul·lació**: **la font hi remet i el
+   corpus només en té l'enunciat.**~~ — **`parcial` el 20-09-2026**: la fitxa ja
+   identifica el conflicte i la raó pràctica —un rescat podia quedar documentat
+   només amb un rebut o una anotació al marge—, però encara no conserva el text
+   de l'acord ni les posicions completes.
+6. ~~**Si la consignació prèvia del preu era norma escrita** o **pràctica.**~~ —
+   **`parcial` el 20-09-2026**: la font descriu que calia **consignar el preu de
+   rescat en entaular la instància**, i la fitxa en conserva la conseqüència
+   processal; no cita cap norma que permeti separar la regla escrita de la
+   pràctica.
 7. ~~**Si alguna alienació feta en violació del dret de preferència es va anul·lar
    judicialment.**~~ — **`parcial` el 2026-09-19**: **la font qualifica
    l'alienació de «mancada de valor»**, però **l'únic cas que aporta és una
