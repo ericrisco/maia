@@ -59,8 +59,11 @@ Mora.**
 
 ## Buits registrats
 
-1. **El contingut complet de les seves obres literàries** més enllà de
-   *Boris I, rei d'Andorra*.
+1. ~~**El contingut complet de les seves obres literàries** més enllà de
+   *Boris I, rei d'Andorra*.~~ — **`parcial` el 20-09-2026**: la mateixa
+   biografia ja enumera quatre títols addicionals —*Set lletanies de mort*, *La
+   neu adversa*, *Passaport sense nom* i *El llarg caminar d'un home bo*—, però
+   encara no en descriu el contingut íntegre.
 2. ~~**Detall de la seva tasca com a ambaixador al Vaticà (2005-2010).**~~ —
    **`parcial` el 20-09-2026**: la [documentació oficial de la Santa Seu](../../fonts/antoni-morell-ambaixador-vatican.md)
    confirma que Antoni Morell va presentar les credencials l'**1 de desembre
