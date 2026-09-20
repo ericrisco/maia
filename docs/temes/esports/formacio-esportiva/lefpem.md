@@ -189,8 +189,11 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
   (39 d'esquí alpí, 6 de surf de neu, 5 d'esquí nòrdic i 8 de muntanyisme)
   i preveu entre **30 i 40 candidats anuals** de nivell 1 d'esquí alpí, però
   no dona el nombre acumulat de monitors titulats des de la creació de l'Efpem.
-- **Quina és la formació anterior** que l'Efpem substitueix, i des de quan
-  existia.
+- ~~**Quina és la formació anterior** que l'Efpem substitueix, i des de quan
+  existia.~~ — **`parcial` el 20-09-2026**: la font identifica el model previ
+  com una **formació de monitor d'esquí** de **tres nivells**, amb menys d'una
+  quarta part del volum horari de l'Efpem; no en dona el nom institucional ni
+  l'any d'inici.
 - ~~**L'Escola Nacional Andorrana d'Esquí**: quina relació té amb l'Efpem. Són la
   mateixa cosa? Dues institucions?~~ — **`parcial` el 19-09-2026**: són **dues
   institucions diferents**, perquè l'índex legislatiu les enumera en entrades
