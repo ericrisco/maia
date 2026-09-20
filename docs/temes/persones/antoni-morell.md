@@ -61,7 +61,13 @@ Mora.**
 
 1. **El contingut complet de les seves obres literàries** més enllà de
    *Boris I, rei d'Andorra*.
-2. **Detall de la seva tasca com a ambaixador al Vaticà (2005-2010).**
+2. ~~**Detall de la seva tasca com a ambaixador al Vaticà (2005-2010).**~~ —
+   **`parcial` el 20-09-2026**: la [documentació oficial de la Santa Seu](../../fonts/antoni-morell-ambaixador-vatican.md)
+   confirma que Antoni Morell va presentar les credencials l'**1 de desembre
+   de 2005**, amb una missió de relació bilateral i cooperació internacional,
+   i que el **17 de març de 2008** va participar com a ambaixador en la
+   signatura de l'acord Santa Seu–Andorra, de **setze articles**. Encara no hi
+   ha una relació completa de la seva activitat entre 2005 i 2010.
 
 ## Related
 
