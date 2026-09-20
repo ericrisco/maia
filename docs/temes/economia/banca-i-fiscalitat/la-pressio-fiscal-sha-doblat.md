@@ -211,6 +211,12 @@ per un de menys recaptador en proporció al PIB durant els primers anys.**
 - ~~**No hi ha COFOG anterior al 2018**, i **la pressió fiscal no es desglossa
   per parròquia.**~~ — **`no-es-buit`**: és una limitació de publicació de la
   font, que no ofereix ni la sèrie anterior ni aquest desglossament.
-- **Què entra a «Habitatge i serveis comunitaris»** i què se'n queda fora
+- ~~**Què entra a «Habitatge i serveis comunitaris»** i què se'n queda fora
   —crèdit, aval, societat pública—, **el corpus no ho sap**, i **sense això la
-  xifra del 0,83% s'ha de llegir amb prudència.** `font_externa`
+  xifra del 0,83% s'ha de llegir amb prudència.**~~ — **`parcial` el
+  20-09-2026**: la mateixa taula COFOG publica el desglossament de 2024 en
+  **7061 «Desenvolupament d'habitatges» (0 €), 7065 «R+D» (0 €), 7066 «no
+  classificats en una altra part» (184.035,65 €) i 7106 «Habitatge»
+  (29.310.290,15 €)**. El nivell publicat no identifica si hi ha crèdit, avals
+  o societats públiques dins de la funció; la composició econòmica concreta
+  continua oberta.
