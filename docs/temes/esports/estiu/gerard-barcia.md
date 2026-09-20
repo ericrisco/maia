@@ -43,9 +43,9 @@ del corpus**, repetida prou vegades per merèixer una fitxa pròpia algun dia.
 - ~~**El seu resultat** a Atlanta: ni punts ni posició.~~ — **`resolt`:
   117 punts i 37è lloc**, **després de dos dies de tirada**, sense
   classificar-se per a la final.
-- **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
-  `birth_place` del bolcat és buit.** **Hi ha la data —9 de novembre del
-  1963— i no el lloc.**
+- ~~**On va néixer.**~~ — **`no-es-buit` el 20-09-2026**: el camp
+  `birth_place` del bolcat és buit; la font només conserva la data, **9 de
+  novembre del 1963**, i no el lloc.
 - ~~**Tota la resta de la carrera.** ~~— **`obert`, confirmat**: **el bolcat són
   tres línies.**
 ## Related

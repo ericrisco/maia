@@ -62,8 +62,9 @@ diferència.**
   ex aequo**, sense passar a semifinals. **La prova hi consta com a fossa
   mixta**, que és **el detall que explica per què el corpus hi trobava dones i
   homes a la mateixa llista de tir.**
-- **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
-  `birth_place` del bolcat és buit.** **Data: 17 de setembre del 1959.**
+- ~~**On va néixer.**~~ — **`no-es-buit` el 20-09-2026**: el camp
+  `birth_place` del bolcat és buit; la font només dona la data, **17 de
+  setembre del 1959**, i no el lloc.
 - ~~**Tota la resta de la carrera.** ~~— **`obert`, confirmat**: **el bolcat són
   tres línies.**
 ## Related

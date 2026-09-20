@@ -72,8 +72,9 @@ més propers de la història** —a tres hores— i **la delegació més gran d'
   1991 i el 1993, i una reaparició el 2005 i el 2007 amb 1,65 m** —**divuit
   centímetres per sota del seu propi rècord, i catorze anys després.** **Va ser abanderada d'Andorra a la cerimònia
   d'obertura de Barcelona 1992.**
-- **On va néixer.** — **`obert`, i el motiu és de font**: **el camp
-  `birth_place` és buit.** **Data: 3 d'abril del 1968. 176 cm.**
+- ~~**On va néixer.**~~ — **`no-es-buit` el 20-09-2026**: el camp
+  `birth_place` del bolcat és buit; la font només dona la data, **3 d'abril del
+  1968**, i l'alçada (**176 cm**), però no el lloc.
 
 ## Related
 

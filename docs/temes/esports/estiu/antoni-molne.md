@@ -60,10 +60,10 @@ el 2004, escrius que el 2004 és el començament.
 > corpus**: **no calia cap font nova, calia obrir el fitxer que la fitxa ja
 > citava.**
 
-- **On va néixer**: la font posa el lloc dins del camp d'alçada. **Errata
-  registrada.** — **`obert`, i l'errata queda confirmada llegint el bolcat**:
-  **el camp `birth_place` hi és buit.** **No és que el corpus no ho hagi
-  destil·lat: la font no ho té.**
+- ~~**On va néixer**: la font posa el lloc dins del camp d'alçada. **Errata
+  registrada.**~~ — **`no-es-buit` el 20-09-2026**: l'auditoria del bolcat
+  confirma que el camp `birth_place` és buit i que el lloc no es pot recuperar
+  d'aquesta font.
 - ~~**El seu resultat d'Atlanta 1996.**~~ — **`resolt`**, **i el de Barcelona
   1992 també, que la fitxa donava sense rival:**
 
