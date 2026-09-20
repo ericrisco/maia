@@ -419,9 +419,14 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    I, núm. 848; **Bibliothèque Nationale, col·lecció Doat, vol. 161, ff.
    264-272.** **Cap no s'ha vist**, i **el corpus llegeix la transcripció d'una
    transcripció.**
-3. **La concòrdia de 1162**, que una font del corpus qualifica d'**«ineficaç»** i
+3. ~~**La concòrdia de 1162**, que una font del corpus qualifica d'**«ineficaç»** i
    que seria la primera. **Aquest document parla d'una *longa contencio* i no
-   n'esmenta cap acord anterior.** `obert`.
+   n'esmenta cap acord anterior.**~~ — **`parcial` el 20-09-2026**: el catàleg
+   d'**Institucions i fronteres: privilegis** la identifica com la concòrdia del
+   **7 de març de 1162** entre el bisbe **Bernat Sans**, els canonges d'Urgell i
+   els homes de la vall d'Andorra; l'original consta com a **perdut** i se'n
+   conserva una còpia al **Cartulari de la Catedral d'Urgell, vol. I, f. 244 v.,
+   doc. 844**. El text íntegre i la llista dels fiadors encara no són al corpus.
 4. ~~**Què són la *levate* i el *mers*** que se separen del delme abans de
    barrejar-lo. **Dues deduccions amb nom i sense explicació.**~~ — **`parcial`
    el 2026-09-20**: la concòrdia estableix que són les dues deduccions que es

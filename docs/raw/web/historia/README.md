@@ -4,6 +4,12 @@ title: "Fonts web sobre història, arxius i biografies d'Andorra"
 
 # Fonts web sobre història, arxius i biografies d'Andorra
 
+## *Institucions i fronteres: privilegis* — `institucions-i-fronteres-privilegis-2025.*`
+
+- [PDF](./institucions-i-fronteres-privilegis-2025.pdf), [text](./institucions-i-fronteres-privilegis-2025.txt) — [Història d'Andorra](https://www.historia.ad/wp-content/uploads/2025/03/Institucions-i-fronteres-privilegis.pdf), consulta del 20-09-2026.
+- Ús: identificació de la concòrdia del **7 de març de 1162**, del bisbe Bernat Sans i els canonges d'Urgell amb els homes de la vall, i de la còpia al Cartulari de la Catedral d'Urgell, vol. I, f. 244 v., doc. 844.
+- Condicions: document institucional de consulta pública; drets i termes de reutilització no especificats; se'n conserva la còpia per a traçabilitat i citació.
+
 ## 14a Diada andorrana (2001) — `14a-diada-andorrana-2001.txt`
 
 - Font: [Calaix / Dipòsit Digital de Documents](https://www.calaix.cat/bitstream/handle/10687/427978/14a%20Diada%20Andorrana_2001_08_18_e.pdf?isAllowed=y&sequence=1), p. 17.
