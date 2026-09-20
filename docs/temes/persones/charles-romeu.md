@@ -63,7 +63,13 @@ neige*. **Cavaller de la Legió d'Honor des del 14 de gener del 1902.**
    **assajos sobre Grècia**, poesia en francès i català, i el poema *Fleurs de
    neige*, premiat als Jocs Florals de Tolosa del 1896. Encara no hi ha el
    catàleg ni el contingut complet de la seva obra.
-2. **Detall de la seva actuació com a jutge del Tribunal Superior.**
+2. ~~**Detall de la seva actuació com a jutge del Tribunal Superior.**~~ —
+   **`parcial` el 20-09-2026**: [la composició del Tribunal Superior el
+   1904](../institucions/justicia/qui-decideix-si-un-recurs-sadmet.md)
+   identifica **Charles Romeu com a jutge i veguer de França**, assegut al
+   mateix banc que Brutails (Vilar, *L'Andorre*, 1904, p. 102, n. 1). El
+   corpus encara no té cap sentència ni intervenció concreta que se li pugui
+   atribuir.
 
 ## Related
 
