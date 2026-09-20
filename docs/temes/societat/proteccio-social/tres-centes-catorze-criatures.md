@@ -166,6 +166,17 @@ sap si existeix.`
 (art. 29). **L'article 10 es titula «Prioritat pressupostària».**
 `De cap dels tres el corpus no té ni composició, ni actes, ni pressupost.`
 
+### El rastre estadístic del registre
+
+Tot i que el corpus no ha localitzat el registre administratiu que l'article 71
+ordena crear, l'API del Departament d'Estadística publica des de **2016** una
+taula de **casos intervinguts per tipus de situació de risc detectada**. Inclou,
+entre d'altres, sèries de maltractament físic i psicològic, amb **11 casos de
+maltractament físic el 2016 i 16 el 2025**, i **0 i 8 casos de maltractament
+psicològic**, respectivament. Són agregats estadístics del servei, no el registre
+individual ni una prova que la base jurídica de l'article 71 s'hagi desplegat
+amb aquell nom.
+
 ## Buits registrats
 
 - ~~**El 2024 no existeix a cap de les set taules.**~~ — **`no-es-buit` el
@@ -198,9 +209,11 @@ sap si existeix.`
   corpus té les xifres del servei i no la norma que el crea.~~ — **`resolt` el
   18-09-2026**: **Llei 14/2019, del 15 de febrer, qualificada dels drets dels
   infants i els adolescents**, llegida al BOPA i resumida a l'apartat anterior.
-- **El registre de maltractament** que mana l'article 71 de la Llei 14/2019:
-  **el corpus no en té cap xifra i no sap si s'ha arribat a crear.**
-  `pregunta_oberta`
+- ~~**El registre de maltractament** que mana l'article 71 de la Llei 14/2019:
+  **el corpus no en té cap xifra i no sap si s'ha arribat a crear.**~~ —
+  **`parcial` el 21-09-2026**: l'API publica des de 2016 agregats de casos
+  intervinguts per tipus de maltractament, però no el registre individual ni
+  una prova que s'hagi creat formalment en els termes de l'article 71.
 - **Què fa l'atenció primària amb els infants en risc lleu i moderat**, que és
   el gruix que no surt en aquestes taules. `font_externa`
 - **La Comissió Nacional de la Infància i l'Adolescència, el Pla Nacional i el
