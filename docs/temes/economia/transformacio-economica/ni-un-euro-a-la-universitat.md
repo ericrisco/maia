@@ -188,10 +188,15 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
   **46,8% bàsica, 29,2% aplicada i 24,1% de desenvolupament experimental**;
   el 2022 la bàsica era **35,6%**. La sèrie confirma el pes i el canvi, però
   no explica per què les empreses declaren aquesta composició.
-- **Si la Universitat d'Andorra fa recerca finançada d'una altra manera** —fons
+- ~~**Si la Universitat d'Andorra fa recerca finançada d'una altra manera** —fons
   públics, projectes europeus, convenis— que aquesta estadística no vegi,
-  perquè **aquesta enquesta és d'empreses i no de centres**.
-  `pregunta_oberta`
+  perquè **aquesta enquesta és d'empreses i no de centres**.~~ —
+  **`no-es-buit`**: la font mesura la R+D interna i externa de les empreses i,
+  dins de la compra externa, publica separadament «universitats i centres
+  d'ensenyament superior d'Andorra» (**0 el 2022 i 0 el 2024**). No observa la
+  recerca pròpia de la Universitat d'Andorra ni els seus convenis o fons fora
+  de les empreses, de manera que aquesta pregunta queda fora de l'univers de
+  la taula.
 - ~~**Quin programa públic dona els 17.000 € del 2024**, i per què baixa.~~ —
   **`parcial` el 2026-09-20**: la taula registra **25.000 € el 2022** i
   **17.000 € el 2024**, del **4,9‰ a l'1,2‰** del total de R+D interna; però
