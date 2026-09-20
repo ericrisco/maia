@@ -267,10 +267,13 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
 4. **On era el monestir de Sant Serni** que fixa el límit, i **si «ad amont»
    coincideix amb alguna frontera posterior.** **Prioritari**: **és l'única
    descripció territorial que aquest acte dona.**
-5. **Si els andorrans van exercir mai l'emprament a les terres del comte**, i
-   **fins quan.** **La concessió és del 1133 i el corpus no té cap ús
-   documentat.** **Seria la prova que els drets d'ús andorrans travessaven la
-   frontera.**
+5. ~~**Si els andorrans van exercir mai l'emprament a les terres del comte**, i
+   **fins quan.**~~ — **`parcial` el 20-09-2026**: l'acte de 1133 ja prova la
+   concessió d'*empramentum* **a les terres del comte** —pastura i llenya fora
+   d'Andorra— i la clàusula que el garanteix «tan bé com mai no ho hàgiu tingut»;
+   [En la ubaga tot hom hi pot anar](../../territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md)
+   el registra com l'antecedent llatí de l'*empriu*. **El corpus no té, però,
+   cap testimoni d'exercici efectiu ni cap data final d'aquest dret.**
 6. **Què hi deia a l'espai en blanc de tres lletres.**
 7. **Els altres documents de la sèrie**: **843, 860, 1001, 1170, 1186, 1213,
    1266, 1280, 1303 i 1328.** **El 1133 surt de la llista; els altres deu hi
