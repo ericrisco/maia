@@ -261,9 +261,15 @@ i **116 per a empreses estrangeres** (+9,4%). **L'estoc creix i el flux cau**, i
   mensual del juliol de 2026 remet al Pla 2026-2029. No s'ha comprovat si els
   passos descrits seguien igual el juliol de 2026 ni si existeix una versió
   posterior d'aquest document.
-- No s'ha comprovat si el cens estadístic de població s'ha desplegat després
+- ~~No s'ha comprovat si el cens estadístic de població s'ha desplegat després
   de la redacció d'aquesta metodologia. El futur del verb acredita l'estat en
-  el document, no l'estat del país el 2026.
+  el document, no l'estat del país el 2026.~~ — **`parcial` el 20-09-2026**:
+  la [nota d'Estadística de 2025](../../../raw/web/societat/demografia/censos/estadistica-poblacio-2025.txt)
+  confirma que des del desembre de 2009 es fan estimacions mensuals amb censos
+  comunals i registres administratius, i el [projecte del Pla d'estadística
+  2017–2020](../../../raw/web/societat/demografia/censos/govern-pla-estadistic-2017.txt)
+  preveia un Registre Estadístic de Població i un cens estadístic. **No hi ha
+  prova que aquest cens estadístic de camp s'hagi desplegat.**
 - ~~No s'ha trobat en aquesta lectura quantes persones afecten els segments que
   el registre estadístic «pot arribar a incloure» —fronterers i permisos de
   residència temporal—, ni si alguna publicació els quantifica per separat.~~ —
