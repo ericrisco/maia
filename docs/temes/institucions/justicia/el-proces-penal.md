@@ -114,9 +114,20 @@ període d'execució** de la sentència» (article 1.2).
   s'ha de dictar **en deu**, **hagi informat o no**. **Si no es resol dins del
   termini, es pot demanar al Tribunal directament**, sens perjudici de la
   responsabilitat del batlle.
-- **Les mesures aplicables als menors** (internament, llibertat vigilada,
+- ~~**Les mesures aplicables als menors** (internament, llibertat vigilada,
   prestacions en benefici de la comunitat) i les seves durades **queden
-  pendents**: el corpus sap qui els jutja, no què els pot passar.
+  pendents**: el corpus sap qui els jutja, no què els pot passar.~~ —
+  **`resolt` el 21-09-2026** amb la [Llei 15/2019 de responsabilitat penal de
+  les persones menors d’edat](../../../raw/lleis/resp-penal-menors.txt):
+  l’internament **tancat** no pot superar un terç de la pena del delicte,
+  el **semiobert** té màxim **dos anys**, l’**obert** màxim **un any**,
+  la permanència al domicili arriba a **dotze caps de setmana** o **sis
+  mesos**, i els serveis en benefici de la comunitat van de **30 a 150 hores**
+  (màxim sis hores diàries). La llei no usa literalment «llibertat vigilada»:
+  la mesura equivalent és el programa d’activitats socioeducatives, de **sis
+  mesos a dos anys**; el tractament mèdic pot durar fins a **tres anys**.
+  L’internament s’ha de complir en instal·lacions específiques separades dels
+  adults.
 - **Les 18 versions del Codi de Procediment Penal no s'han comparat.**
 - **El Codi de Procediment Civil** (439 articles, el segon més llarg del país) i
   ~~**la Llei transitòria de procediments judicials** (221)~~ segueixen sense
