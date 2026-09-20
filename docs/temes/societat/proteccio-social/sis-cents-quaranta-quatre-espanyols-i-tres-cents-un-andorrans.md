@@ -173,14 +173,20 @@ el curs 2013 i 1.871 el del 2024**
 
 ## Buits registrats
 
-- **Quant cobra cadascú.** Hi ha import total i nombre de beneficiaris; **la
+- ~~**Quant cobra cadascú.** Hi ha import total i nombre de beneficiaris; **la
   divisió és del corpus** i **no és la prestació d'una persona**, perquè els
-  beneficiaris són mitjana anual i els imports, acumulat.
+  beneficiaris són mitjana anual i els imports, acumulat.~~ — **`no-es-buit`**:
+  la nota només publica imports agregats i mitjanes anuals; no permet reconstruir
+  quant cobra cap persona concreta.
 - ~~**Quina és la quantia legal** de cada prestació i com s'actualitza.~~
   **`resolt` el 18-09-2026** amb la **Llei 6/2014** —**que el corpus ja tenia
   consolidada**— i el **Reglament del 7-10-2020**, baixat del BOPA: vegeu [Quant hauria de cobrar cadascú, per
   llei](#quant-hauria-de-cobrar-cadascu-per-llei).
-- **Per què la pensió no contributiva del Govern s'extingeix.**
+- ~~**Per què la pensió no contributiva del Govern s'extingeix.**~~ —
+  **`parcial` el 20-09-2026**: la sèrie passa de **121 beneficiaris el 2013** a
+  **12 el 2025**, amb descens cada any, i la fitxa acota que sembla una
+  prestació tancada a nous beneficiaris que s'apaga amb els existents. La nota no
+  identifica l'acte normatiu ni confirma si hi ha hagut baixes per altres causes.
 - **Quants dels 644 espanyols cobren també pensió espanyola.** **És la pregunta
   que decideix si la xifra mesura pobresa o mesura carrera de cotització
   partida**, i **cap de les dues administracions no ho publica aquí.**
