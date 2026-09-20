@@ -79,7 +79,12 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
 
 ## Buits registrats
 
-1. **La legislació laboral andorrana**, article a article. **Buit gran.**
+1. ~~**La legislació laboral andorrana**, article a article.~~ **`parcial` el
+   21-09-2026**: el text consolidat de la [Llei de relacions laborals](../../../raw/lleis/llei-relacions-laborals.txt)
+   ja és al corpus amb **172 articles** i es pot cartografiar en set títols:
+   àmbit i principis, contracte de treball, règim disciplinari, drets col·lectius,
+   negociació col·lectiva, règim sancionador i control administratiu. La fitxa
+   encara no n'ha destil·lat el contingut article per article.
 2. ~~**Quan i si** es regula l'acomiadament amb compensació.~~ — **`resolt`**:
    [el preu de l'acomiadament](./el-preu-de-lacomiadament.md). **Es regula, i
    segueix sense caldre motiu**: **el que costa són 25 dies de sou per any
