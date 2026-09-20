@@ -103,8 +103,10 @@ s'anuncia una escola privada a Andorra l'any 2000.**
 ## Buits registrats
 
 - **D'on venen els alumnes** i quants són interns.
-- **Què costa.** La font no dona cap xifra. En l'única escola de pagament del
-  país, **és la dada que falta.**
+- ~~**Què costa.** La font no dona cap xifra.~~ — **`no-es-buit` el
+  2026-09-20**: la ponència és una presentació del centre i descriu l'obertura,
+  els 45 alumnes i el model d'internat, però no publica cap preu de matrícula;
+  el corpus no pot extreure aquesta dada de la font llegida.
 - ~~**Si existeix encara** i amb quin nom.~~ — **`resolt` el 18-09-2026**:
   el **Col·legi dels Pirineus** continua al llistat de centres del Departament
   d'Estadística el **2024**, amb **60 alumnes de maternal** ([la sèrie escolar
