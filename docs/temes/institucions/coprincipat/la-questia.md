@@ -231,8 +231,13 @@ l'article 47 de la Constitució.`
   diu: «El Pressupost General del Principat ha d’assignar una quantitat igual a
   cada Copríncep, destinada al funcionament de llurs serveis, de la qual poden
   disposar lliurement.»
-- **Com es reparteixen els 707.499,60 € entre els dos coprínceps**, i **des de
-  quin any hi és la partida.**
+- ~~**Com es reparteixen els 707.499,60 € entre els dos coprínceps**, i **des de
+  quin any hi és la partida.**~~ — **`parcial` el 20-09-2026**: l'article 47 de
+  la Constitució ja citat per la fitxa obliga el pressupost a assignar **una
+  quantitat igual a cada copríncep**. La línia del 2026 és conjunta i no publica
+  el desglossament; per tant, **queda establerta la regla d'igualtat**, però no
+  es pot afirmar sense una liquidació que els 707.499,60 € siguin exactament
+  **353.749,80 € per cap**, ni se'n sap encara l'any d'origen.
 
 > **Afegit el 16-09-2026: una xifra anterior, i en una altra unitat.**
 > **André Vilar, *L'Andorre* (1904), p. 36**, diu que **Lluís XIV va confirmar
