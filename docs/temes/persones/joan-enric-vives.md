@@ -39,8 +39,8 @@ maig i l'11 de juny del 2025. **El succeeix
 ## Buits registrats
 
 1. **Els seus càrrecs a la Conferència Episcopal Tarraconense i espanyola.**
-2. **Qualsevol font andorrana pròpia** — la biografia ve de la
-   Viquipèdia en anglès.
+2. ~~**Qualsevol font andorrana pròpia** — la biografia ve de la
+   Viquipèdia en anglès.~~ — **`parcial` el 20-09-2026**: el [BOPA](../institucions/coprincipat/el-coprincipat.md) ja aporta una font andorrana pròpia per al seu mandat i el relleu —la **Llei 10/2025, del 13 de maig**, encara signada per Vives—, però la biografia general continua venint de la font externa.
 
 ## Related
 

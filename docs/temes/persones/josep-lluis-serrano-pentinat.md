@@ -42,8 +42,8 @@ de juliol del 2026** ([les penes del Codi Penal](../institucions/justicia/les-pe
 
 1. **La seva activitat com a copríncep** més enllà de les signatures
    legislatives — visites, discursos, primeres declaracions públiques.
-2. **Qualsevol font andorrana pròpia** — la biografia ve de la
-   Viquipèdia en anglès.
+2. ~~**Qualsevol font andorrana pròpia** — la biografia ve de la
+   Viquipèdia en anglès.~~ — **`parcial` el 20-09-2026**: el [BOPA](../institucions/coprincipat/el-coprincipat.md) ja aporta una font andorrana pròpia per al seu mandat —el **Decret 211/2025, de l’11 de juny**, és la primera signatura seva—, però la biografia general continua venint de la font externa.
 
 ## Related
 
