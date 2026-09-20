@@ -109,7 +109,7 @@ Moçambic per 4-3.**
   **qüestions econòmiques**, després del descens del Mundial A del 2009, i que
   no hi va tornar fins al **2019**. Encara falta el detall de cada any
   intermedi.
-- **Si hi ha lliga andorrana d'hoquei patins.**
+- ~~**Si hi ha lliga andorrana d'hoquei patins.**~~ — **`parcial` el 20-09-2026**: l'[Andorra Hoquei Club](../../../raw/web/esport/hoquei-patins/hoquei-info-andorra-club-2025-26.txt) figura a la **Primera Catalana masculina de la FECAPA** el 2025–26; el [Comú d'Andorra la Vella](../../../raw/web/esport/hoquei-patins/comu-andorra-hoquei-2026.txt) descriu formació i participació europea/mundial amb la FAP. **No s'ha identificat una lliga andorrana pròpia en aquestes fonts, però tampoc no se'n pot provar l'absència històrica.**
 
 ## Related
 
