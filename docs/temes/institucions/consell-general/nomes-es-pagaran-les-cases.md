@@ -170,11 +170,19 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 4. **Si algú va atacar la decisió**, com l'autor diu que era possible.
 5. **El decret del 12 de maig de 1891 contra el *quart* de les Escaldes**, sencer, i
    **quines obres eren.**
-6. **El decret del 18 de maig de 1893** i **la concessió de ciments del 24 de
+6. ~~**El decret del 18 de maig de 1893** i **la concessió de ciments del 24 de
    novembre de 1896**, sencers. **La segona declara l'expropiació forçosa i alhora
-   remet a entendre's amb el propietari.**
-7. **La concessió d'aigua al sindicat del canal de les Escaldes del 30 d'octubre de
-   1877**, i **si els perits es van arribar a nomenar.**
+   remet a entendre's amb el propietari.**~~ — **`parcial` el 20-09-2026**:
+   **la fitxa ja conserva la data i l'extracte del decret de 1893**, que prohibeix
+   obligar un particular a vendre fora d'una causa d'utilitat pública, i **el text
+   de la concessió de 1896**, que declara la utilitat pública i l'expropiació
+   forçosa però obliga el concessionari a entendre's amb els propietaris. **No en
+   té els documents íntegres.**
+7. ~~**La concessió d'aigua al sindicat del canal de les Escaldes del 30 d'octubre de
+   1877**, i **si els perits es van arribar a nomenar.**~~ — **`parcial` el
+   20-09-2026**: **la font identifica la concessió i diu que el Consell va
+   nomenar perits per valorar els terrenys en cas de desacord entre les parts**.
+   **No consta si el desacord es va produir ni si els perits van arribar a actuar.**
 8. **Quan es va introduir l'expropiació a Andorra.** **La font diu «innovació
    recent» i no dona ni data ni norma fundacional.**
 9. **Els actes d'*in solutum* de 1831 i de cap al 1875**, sencers.
