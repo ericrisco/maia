@@ -181,8 +181,11 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
   en un dels dos anys.
 - **Què és la recerca en humanitats i arts** que declaren les empreses
   andorranes, i **quines empreses la fan**. `pregunta_oberta`
-- **Per què la recerca bàsica és gairebé la meitat** de la R+D empresarial.
-  `pregunta_oberta`
+- ~~**Per què la recerca bàsica és gairebé la meitat** de la R+D empresarial~~ —
+  **`parcial` el 20-09-2026**: el 2024 la font reparteix la R+D interna en
+  **46,8% bàsica, 29,2% aplicada i 24,1% de desenvolupament experimental**;
+  el 2022 la bàsica era **35,6%**. La sèrie confirma el pes i el canvi, però
+  no explica per què les empreses declaren aquesta composició.
 - **Si la Universitat d'Andorra fa recerca finançada d'una altra manera** —fons
   públics, projectes europeus, convenis— que aquesta estadística no vegi,
   perquè **aquesta enquesta és d'empreses i no de centres**.
