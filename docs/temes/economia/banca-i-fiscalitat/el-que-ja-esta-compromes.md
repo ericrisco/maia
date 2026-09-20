@@ -229,7 +229,13 @@ els que superen aquest termini.`
 - **El detall de les onze línies d'autobús**: qui les presta i des de quan. `La
   concessió és única i es va adjudicar per a quatre línies; el llibre no diu
   quina empresa.`
-- **Per què el 2002 es tria la concessió per als residus i el 2022 es desfà.**
+- ~~**Per què el 2002 es tria la concessió per als residus i el 2022 es desfà**~~
+  — **`parcial` el 20-09-2026**: la **Llei del 31 d'octubre de 2002** va
+  establir el règim de concessió i el contracte es va signar el **6 de febrer
+  de 2003**; la **Llei 2/2022** va substituir-lo per un encàrrec-programa a
+  **CTRASA** com a instrument de gestió directa, mantenint les anualitats i
+  les xifres del compromís. El corpus documenta el canvi jurídic, però cap font
+  consultada n'explica la motivació política o econòmica.
 - **Quants habitatges cobreixen els contractes d'arrendament assequible** i on
   són. `L'import hi és; el nombre d'habitatges, no.`
 - **Els compromisos pluriennals de menys de cinc anys.**
