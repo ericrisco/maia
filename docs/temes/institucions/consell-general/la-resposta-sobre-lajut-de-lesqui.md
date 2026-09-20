@@ -73,8 +73,11 @@ disposicions addicional i derogatòria 1.)
 
 - No s'han llegit expedients, dades de pagaments o denegacions ni
   instruccions que acreditin l'aplicació individual descrita pel Govern.
-- No s'ha llegit el BCG13/2021 amb la pregunta inicial; la seva data i
-  contingut es coneixen aquí per la reproducció del BCG23/2021.
+- ~~No s'ha llegit el BCG13/2021 amb la pregunta inicial; la seva data i
+  contingut es coneixen aquí per la reproducció del BCG23/2021.~~ —
+  **`no-es-buit` el 20-09-2026**: és una nota de cobertura de la font, no una
+  pregunta pendent; aquesta fitxa ja conserva la pregunta, la data i el
+  contingut rellevant a partir de la reproducció publicada del **BCG23/2021**.
 - No s'ha cercat una correcció de la remissió a la disposició addicional.
   No es dedueix que el Consell n'aprovés la interpretació: la peça és
   una resposta escrita publicada, no una votació.
