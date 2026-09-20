@@ -376,6 +376,10 @@ existeixen.**
   impossible té 54 valors, dels quals 47 són zero**: **només el 2017 (9 g), el
   2018 (1 g) i el 2022 (2.690 g: 1.124 g de plantes i 1.566 g de cabdells de
   marihuana) hi ha res.** **Vuit anys de sèrie i un sol any amb quantitat.**
-- **Les condemnes no hi són.** Aquesta branca és policial: **denúncies,
-  resolucions i detencions**. **Què passa després al tribunal**, el corpus no
-  ho té en sèrie. `font_externa`
+- ~~**Les condemnes no hi són.**~~ **`parcial` el 21-09-2026**: la branca
+  policial continua separant **denúncies, resolucions i detencions**, però el
+  catàleg estadístic ja identifica la sèrie oficial **A071, «Estadística de
+  condemnats: adults i menors»**, produïda pel Departament de Justícia i Interior
+  i el Consell Superior de Justícia ([fitxa de la sèrie](../../../raw/estadistica-justicia/a071-condemnats-20260205.txt)).
+  Falta incorporar la memòria de la Fiscalia i llegir-ne les condemnes per poder
+  enllaçar-les amb les denúncies i detencions d'aquesta fitxa.
