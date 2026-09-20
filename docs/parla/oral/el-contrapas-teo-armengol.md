@@ -317,6 +317,8 @@ està verificada contra l'àudio.**
 4. **Els noms propis cauen**: `mestre [?Orelleta]`, `esbar d'en [?Saire]` (que és
    *Esbart Dansaire*), `[?Vars] Santana` i `[?Vall] de [?Santana]` per *Ball de
    Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**
-5. **De la persona no consta** ni generació, ni origen, ni llengua primera.
+5. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera.~~ —
+   **`no-es-buit` el 20-09-2026**: la càpsula dona el tema i la transcripció,
+   però no publica metadata personal del parlant.
 6. ~~**`miqueta` és d'un sol parlant**: idiolecte fins que no aparegui en un altre.~~
    **`no-es-buit`**: és una limitació d'ús de la mostra, no una pregunta pendent.

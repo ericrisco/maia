@@ -591,10 +591,9 @@ parlants**.
    **El corpus manté el que ja feia bé**: **la fitxa es queda amb la forma del
    títol i la transcripció conserva la de la màquina**, perquè **el que s'ha
    acreditat és qui parla, no què es va sentir.**
-5. **Parròquia, generació, de casa o vingut, llengua primera: cap consta.** El
-   nom no és d'arrel catalana i **el corpus no en dedueix res**: ni que sigui
-   vingut, ni que el català no li sigui primer. Es registra el buit, no la
-   sospita.
+5. ~~**Parròquia, generació, de casa o vingut, llengua primera: cap consta.**~~ —
+   **`no-es-buit` el 20-09-2026**: el registre només identifica la peça i el
+   tema; el corpus no dedueix cap perfil a partir del nom o de la parla.
 6. ~~**Les imatges.** La peça n'ensenya i el corpus només en té el so. Les
    frases «el que veieu aquí» queden penjades i **la transcripció no les pot
    completar**.~~ — **`no-es-buit`**: és una limitació del material audiovisual,

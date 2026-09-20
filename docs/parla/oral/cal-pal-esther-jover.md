@@ -397,4 +397,6 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
    enumera no hi és**, i **el corpus no té cap altra atestació d'aquest llinatge
    a les Valls.** **El buit es tanca de debò amb un document de casa**:
    `requereix el capbreu o els protocols de la Massana`.
-6. **De la persona no consta res**: ni si és d'Ordino, ni generació, ni ofici.
+6. ~~**De la persona no consta res**: ni si és d'Ordino, ni generació, ni ofici.~~ —
+   **`no-es-buit` el 20-09-2026**: la càpsula conserva el testimoni però no
+   publica cap fitxa biogràfica del parlant.

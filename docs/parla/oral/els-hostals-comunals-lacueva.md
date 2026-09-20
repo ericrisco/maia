@@ -433,7 +433,9 @@ doni per bones.
    encara que el lèxic segueixi valent. `no-es-buit`: és una limitació d'ús de la
    peça, no una pregunta pendent.
 4. **`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.
-5. **De la persona no consta** ni parròquia, ni generació, ni llengua primera.
+5. ~~**De la persona no consta** ni parròquia, ni generació, ni llengua primera.~~ —
+   **`no-es-buit` el 20-09-2026**: el registre de la peça no incorpora cap
+   perfil biogràfic del parlant.
 6. **La comparació escrit/parlat no s'ha fet.** Hi ha la mateixa autora en totes
    dues formes i **ningú no ha posat els dos textos de costat**. És l'exercici
    que aquesta peça fa possible i que queda pendent.

@@ -288,10 +288,10 @@ en donen quatre.
    **és el mateix patró que el corpus ha documentat amb el *mostassà* convertit
    en «Mostafa»** ([els hostals comunals](./els-hostals-comunals-lacueva.md)).
    **La transcripció es queda com està i la fitxa es queda amb el títol.**
-6. **Parròquia, generació, casa o vingut, llengua primera: cap consta.** Com a
-   tota la sèrie AR+I, la peça dona tema i no dona parlant. El registre ho
-   arrossega des de la tanda 6 i **només es resol amb una font que enquesti el
-   parlant**, no amb una que el convidi a parlar.
+6. ~~**Parròquia, generació, casa o vingut, llengua primera: cap consta.**~~ —
+   **`no-es-buit` el 20-09-2026**: com a la resta de la sèrie AR+I, la peça dona
+   tema i transcripció però no un perfil del parlant; el nom no permet deduir-ne
+   l'origen ni la llengua primera.
 7. **On és la ponent mentre parla: no consta.** No diu «aquí a Andorra» ni res
    equivalent. La tanda 29 va trobar a la mateixa sèrie una ponent que diu
    explícitament **«no a Andorra»**

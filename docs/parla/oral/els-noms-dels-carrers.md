@@ -353,8 +353,9 @@ no existeixi.
    **cap xifra no s'ha de citar.**~~ — **`no-es-buit` el 19-09-2026**: és el
    mateix avís d'ús de la transcripció que els punts 2 i 6; no valida ni demana
    citar aquest recompte.
-5. **De la persona no consta res**, ni tan sols la parròquia; només que **l'àvia
-   era laurediana**.
+5. ~~**De la persona no consta res**, ni tan sols la parròquia; només que **l'àvia
+   era laurediana**.~~ — **`no-es-buit` el 20-09-2026**: la peça només conserva
+   aquesta dada familiar i no publica cap perfil del parlant.
 6. **Cinc parlants no són una mostra dialectal.** Que *padrí* domini aquí no vol
    dir que domini a Andorra: vol dir que domina **en aquests disset enregistraments**.
    `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
