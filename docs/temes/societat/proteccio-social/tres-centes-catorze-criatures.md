@@ -168,12 +168,21 @@ sap si existeix.`
 
 ## Buits registrats
 
-- **El 2024 no existeix a cap de les set taules.** `font_externa`
-- **La taula de «nous casos» (divisió 1538) està trencada**: dona **44 famílies
+- ~~**El 2024 no existeix a cap de les set taules.**~~ — **`no-es-buit` el
+  20-09-2026**: la fitxa de l'API confirma que les set divisions només tenen
+  dades de **2016-2023 i 2025**; el 2024 no és una dada que falti de la lectura,
+  sinó de la publicació
+  ([fitxa de protecció a la infància](../../../raw/estadistica-api/infancia/README.md)).
+- ~~**La taula de «nous casos» (divisió 1538) està trencada**: dona **44 famílies
   i 63 menors quatre anys seguits** i **zero del 2021 ençà**. **El corpus no la
-  cita.** `font_externa`
-- **La taula per tipus de família diu «nous casos» i el seu total és el de tots
-  els casos.** El corpus la llegeix com a total i ho diu. `font_externa`
+  cita.**~~ — **`no-es-buit` el 20-09-2026**: el README de la font registra la
+  sèrie impossible (**44 i 63 el 2016-2019; zero del 2021 al 2025**) i deixa
+  constància que no s'utilitza.
+- ~~**La taula per tipus de família diu «nous casos» i el seu total és el de tots
+  els casos.** El corpus la llegeix com a total i ho diu.~~ — **`no-es-buit` el
+  20-09-2026**: la fitxa de l'API comprova que els totals de la divisió 1542
+  coincideixen amb la divisió 1537, que és el total de famílies ateses; el títol
+  «nous casos» és un defecte de l'etiqueta de la font.
 - ~~**La categoria «abús sexual» passa de 22 casos (2019) a zero (2022-2025)** el
   mateix any en què n'apareixen quatre de noves —maltractament psicològic,
   incapacitat parental, violència filioparental, conflicte greu entre
