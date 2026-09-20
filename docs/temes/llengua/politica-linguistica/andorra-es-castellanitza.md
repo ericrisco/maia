@@ -149,7 +149,7 @@ sector principal del país?**
    [La sèrie històrica del català a Andorra](./la-serie-historica.md).
 2. Si **plantar cara al client que parla català** segueix passant, i amb quina
    freqüència.
-3. **Joan Becat** — qui és i què més ha escrit sobre això.
+3. ~~**Joan Becat** — qui és i què més ha escrit sobre això.~~ — **`parcial` el 20-09-2026**: el corpus ja el pot identificar com a **geògraf de la Universitat de Perpinyà**, vinculat al **Centre de Recerques i d’Estudis Catalans**, i en té la ponència de 1989 i la tesi en set volums; també hi consten treballs seus sobre **fronteres i límits**, **vida pastoral i migracions** i **risc d’allaus** ([fitxa de la font](../../../fonts/debat-2a-diada-migracions.md), [fitxa biogràfica](../../societat/immigracio/el-diagnostic-de-1989.md)). **Queda oberta una bibliografia completa dels seus textos sobre política lingüística.**
 4. **Què va passar amb l'escola i els mitjans** des del 1989: ell deia que
    calia dominar-los.
 5. **Testimoni d'aquells «nanos»** que Font esmenta. **Fase 3.**
