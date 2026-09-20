@@ -338,8 +338,9 @@ tot.**
    termini de cinquanta anys és diferent del dels cent anys pel traspàs dels
    protocols**, que ja constava per una altra llei. Vegeu
    [museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md).
-4. **Quin costum** invoca l'article 2.1.a de la Llei del notariat. — **`resolt`
-   el 17-09-2026 en el sentit que es podia resoldre: la llei no en nomena cap.**
+4. ~~**Quin costum** invoca l'article 2.1.a de la Llei del notariat.~~ —
+   **`parcial` el 17-09-2026 en el sentit que es podia resoldre:** la llei no en
+   nomena cap.
    **El text diu que els notaris donen fe pública dels actes i contractes que
    autoritzen «amb subjecció a les lleis i la normativa aplicable restant i,
    **subsidiàriament, d'acord amb el costum**»** (`docs/raw/lleis/notariat.txt`).
