@@ -78,8 +78,9 @@ més** a la llista que aquesta branca va acumulant.
   **és membre de la selecció andorrana d'esquí de muntanya des del 2006.**
 - ~~**Si segueix**~~ — **`obert`, confirmat**: **l'últim resultat del bolcat és
   del 2012.**
-- **On va néixer** — **`obert`, i el motiu és de font**: **l'infobox no té
-  `birth_place`.** **Data: 4 de maig del 1979.**
+- ~~**On va néixer**~~ — **`no-es-buit` el 20-09-2026**: **el bolcat propi
+  dona la data, **4 de maig del 1979**, però l'infobox no té `birth_place`.
+  **La font no publica el lloc i el corpus no l'infereix.**
 - **Nota `no-es-buit`** — **el que fa fora de la neu, que el corpus no tenia**:
   **és comptable expert
   i assessor comercial**, **treballa en àrees comercials des del 1999**, i

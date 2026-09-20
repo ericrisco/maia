@@ -37,8 +37,9 @@ estadística.**
 > **Auditat el 2026-09-14 contra el bolcat de la font pròpia**
 > ([`Jordi_Trilla_Clanchet.wiki`](../../../raw/web/esport/estructura/Jordi_Trilla_Clanchet.wiki)).
 
-- **On va néixer.** — **`obert`, i el motiu és de font**: **l'infobox no té
-  `birth_place`.** **Data: 21 de desembre del 2004.**
+- ~~**On va néixer.**~~ — **`no-es-buit` el 20-09-2026**: **el bolcat propi
+  dona la data, **21 de desembre del 2004**, però l'infobox no té `birth_place`.
+  **La font no publica el lloc i el corpus no l'infereix.**
 - ~~**Els seus clubs**, el seu rànquing i si segueix competint. ~~— **`obert`,
   confirmat**: **cap dels tres no és al bolcat.** **Hi consta que és dretà.**
 - ~~**Els dos partits.**~~ — **`resolt`.** **Van ser els dos de dobles de dues
