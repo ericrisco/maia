@@ -30,8 +30,10 @@ fitxa documenta la sèrie sense presentar-la com un receptari andorrà tancat.
 
 ## El que falta
 
-- **Les receptes i variants locals** de la cassola de brossat, la greixonera de
-  carbassa, els flaons i les panades.
+- ~~**Les receptes i variants locals** de la cassola de brossat, la greixonera de
+  carbassa, els flaons i les panades.~~ — **`no-es-buit` el 20-09-2026**: Ribes
+  enumera les quatre menges i l'ús del forn, però no transcriu cap recepta
+  completa ni atribueix una variant concreta a cap parròquia.
 
 ## Related
 
