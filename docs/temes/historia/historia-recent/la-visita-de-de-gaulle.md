@@ -124,7 +124,7 @@ pròpia cobertura sanitària.**
 - ~~**El text dels dos discursos.**~~ **[parcial · 2026-09-19]** La fitxa ja
   conserva fragments i el contingut central dels dos discursos —la visita de
   **1967** i la revocació de **1945**—, però no en té el text íntegre.
-- **Per quina via** es prohibeix el sufragi universal masculí el 1941.
+- ~~**Per quina via** es prohibeix el sufragi universal masculí el 1941.~~ — **`parcial` el 20-09-2026**: la fitxa atribueix la prohibició al **gir a la dreta posterior a la Segona Guerra Mundial** i explica que la restauració posterior es va fer **obligant a tornar al sistema anterior de la Nova Reforma**. Encara falta el decret o instrument jurídic concret que va formalitzar la prohibició de 1941.
 - ~~**Si les revocacions del Consell General són una o dues** — 1945, 1967, o
   totes dues.~~ **[parcial · 2026-09-19]** La mateixa font dona una revocació
   el **1945** i una altra el **1967**, amb el mateix motiu i protagonista; la
