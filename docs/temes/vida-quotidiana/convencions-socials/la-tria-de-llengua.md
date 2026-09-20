@@ -122,10 +122,11 @@ va arribar el 1990 i la televisió el 1995**
 
 ## El que falta
 
-- **Si això s'ha mesurat.** Hi ha un estudi identificat sobre **els usos
+- ~~**Si això s'ha mesurat.** Hi ha un estudi identificat sobre **els usos
   lingüístics als establiments comercials d'Andorra la Vella** (repositori de la
-  UPF), **inaccessible en la consulta** (accés denegat). **Buit registrat,
-  prioritari** — seria la comprovació empírica d'aquesta fitxa.
+  UPF), **inaccessible en la consulta** (accés denegat).~~ — **`font_externa`,
+  confirmat el 20-09-2026**: l'estudi queda identificat com a font potencial,
+  però el contingut no es pot consultar ni verificar dins del corpus.
 - **Què fa la gent avui**, trenta anys després i amb la
   [Llei 6/2024](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) que
   obliga a **saludar en català** a l'atenció al públic.
