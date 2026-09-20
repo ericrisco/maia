@@ -273,8 +273,11 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    conserva també la referència **Archives de Perpignan, Série C, 2098, liasse**.
    **La cronologia més àmplia dels càrrecs i la resta de documentació continuen
    obertes.**
-8. **A qui es va presentar l'escrit de concòrdia de 1347**: **cúria o consell
-   general.** **Dues fonts, dues respostes.**
+8. ~~**A qui es va presentar l'escrit de concòrdia de 1347**: **cúria o consell
+   general.**~~ — **`parcial` el 20-09-2026**: *La cuestión de Andorra* (1894,
+   p. 14) diu **«la Curia de los Valles»**, mentre Vilar (1904, p. 30) diu
+   **«au Conseil général des Vallées»**. La divergència de les dues fonts queda
+   documentada, però el corpus no pot determinar quin òrgan va rebre l'escrit.
 9. ~~**Si el rei d'Aragó va haver de pagar mai res** per la fiança.~~ —
    **`parcial` el 2026-09-19**: **el § X exclou del còmput dels quatre anys el
    temps de vacant a la Cort de Roma** i fixa una pena de **50.000 sous de
