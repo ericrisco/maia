@@ -69,10 +69,17 @@ els límits del recurs d’empara.
 
 ## Buits registrats
 
-- No s’han consultat les sentències originals 20-2010 i 13-2010, els
+- ~~No s’han consultat les sentències originals 20-2010 i 13-2010, els
   POUP, els decrets previs d’urbanització ni els informes pericials.
   Els antecedents i arguments de la Sala s’atribueixen a la seva
-  reproducció en aquesta sentència constitucional.
+  reproducció en aquesta sentència constitucional.~~ — **`parcial` el
+  20-09-2026**: la [còpia textual de la sentència constitucional
+  2026-25-RE](../../../raw/consell-general/bopa-sentencia-2026-25-re.txt)
+  confirma les dates de la **20-2010** (12 d’abril de 2010) i la **13-2010**
+  (3 de març de 2010), identifica els **POUP de 2007 i 2018** i reprodueix els
+  arguments sobre l'article 83 de la LGOTU i els decrets urbanístics. Els
+  originals, els POUP complets, els decrets previs i els informes pericials
+  encara no s'han llegit.
 - No s’ha localitzat i llegit la resolució de la Sala posterior a aquesta
   anul·lació. No es dona per comprovada la classificació actual de la finca.
 - ~~Lectura de la sentència al portal i al BOPA~~ — **`parcial` el 19-09-2026**:
