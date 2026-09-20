@@ -74,8 +74,8 @@ creuar-lo amb la seva mare.**
 
 ## Buits registrats
 
-1. **Els càrrecs de govern exactes** que va ocupar — la font en parla en
-   general, sense noms ni anys.
+1. ~~**Els càrrecs de govern exactes** que va ocupar — la font en parla en
+   general, sense noms ni anys.~~ — **`parcial` el 20-09-2026**: l’[acta parlamentària de 1993 i l’entrevista biogràfica](../../fonts/maria-reig-carrers-politics.md) documenten que era **consellera general per Encamp**, **presidenta de la Comissió legislativa de Sanitat, Benestar Social i Medi Ambient** i membre de la **Comissió Constituent**; ella mateixa declara haver estat membre del Govern, però les fonts consultades no donen els ministeris ni els anys.
 2. ~~**Rafael Reig i Sans**: quan funda Tabacs Reig, i què hi havia abans
    — buit que ja assenyalava [els Reig](../economia/les-grans-families/els-reig.md).~~ —
    **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda a
