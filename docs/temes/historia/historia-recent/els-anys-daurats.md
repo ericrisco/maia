@@ -262,7 +262,13 @@ concret que la branca d'història té: sis títols amb autor i any.**
   —amb la data exacta divergent entre 1938, 1942 i 1945, segons la font
   ([font](../../../fonts/wikipedia-ca-futbol-club-andorra.md)). **La seva
   biografia més enllà d'aquest fet segueix sense trobar-se.**
-- **La plaça de braus**: quan es va tancar, i què hi va haver.
+- ~~**La plaça de braus**: quan es va tancar, i què hi va haver.~~ — **`parcial`
+  el 20-09-2026**: [Bondia](../../../fonts/bondia-enderroc-placa-braus-2022.md)
+  informa que el **19 d'octubre de 2022** el Comú va adjudicar a **Locub SA**
+  l'enderroc de l'edifici per **169.710,93 €**, amb un termini anunciat de sis
+  setmanes; l'ús provisional previst era un **aparcament** mentre es decidia el
+  projecte definitiu. La font no documenta ni la data efectiva de tancament de
+  la plaça ni si l'enderroc es va acabar dins del termini anunciat.
 - ~~**Els aiguats del 1982**, que el corpus no té fitxats.~~ — **tancat el
   mateix dia**: [els aiguats del 1982](./els-aiguats-del-1982.md). **Set morts i
   dotze desapareguts a Andorra**, i **la segona font confirma que la manca de
