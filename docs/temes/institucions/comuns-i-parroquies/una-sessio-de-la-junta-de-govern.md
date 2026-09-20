@@ -261,8 +261,12 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    no s'han buidat** i no es pot dir si el repartiment de 69/79 acords a Finances
    és estructura o casualitat.
 3. **Els altres sis comuns.**
-4. **Per què es mouen els 15.000 €** de les associacions de pares a control de
-   plagues.
+4. ~~**Per què es mouen els 15.000 €** de les associacions de pares a control de
+   plagues.~~ — **`parcial` el 2026-09-20**: l'acord 14 identifica l'origen
+   (`502-1690000-48224`, associacions socials de pares d'alumnes) i el destí —
+   **6.000 €** per a altres subministraments i **9.000 €** per a treballs
+   d'empreses de control de plagues—, però **l'acta no hi posa cap justificació**
+   i el corpus no ha localitzat la causa material del trasllat.
 5. ~~**Què diu l'article 30.1.d) de la Llei 14/2022**~~ — **tancat**: vegeu [la contractació directa](../govern/la-contractacio-directa.md).
 6. **«Les cases tenen nom»**: què és i quin abast té.
 7. **Si la recusació per conflicte d'interès està reglada** en alguna norma
