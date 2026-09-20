@@ -457,10 +457,16 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    genèricament un «dret de mercat», **és un dret d'ENTRADA de mercaderia**.
    **De *vista* i de *parada* amb sentit tributari, cap dels dos diccionaris no
    en dona res**: **`requereix documentació fiscal medieval`.**
-7. **«*Trevam vero Domini que inter nos facta fuerit redirigamus semper ad
+7. ~~**«*Trevam vero Domini que inter nos facta fuerit redirigamus semper ad
    stagnum, sicut antecessorum nostrorum et vestrorum consuetudinis fuit.*»**
    **La Treva de Déu apareix amb una fórmula que el corpus no sap llegir**:
-   *ad stagnum*. `Registrat sense traduir.`
+   *ad stagnum*. `Registrat sense traduir.`~~ — **`parcial` el 20-09-2026**:
+   *Origenes históricos de Cataluña* dedica un apartat als dipòsits d'aigua i
+   explica que el llatí **`stagnum`** vol dir «estanque, laguna, agua detenida»,
+   d'on ve el català **estany** ([font local](../../../raw/llibres/balari-1899/origenes-historicos-catalunya_djvu.txt)).
+   La lectura lèxica queda acotada a **«a l'estany» o «a l'aigua estancada»**;
+   encara no se sap quin lloc concret designa ni quin sentit jurídic té la
+   fórmula dins la Treva de Déu.
 8. **Els *usatges* que els andorrans tenien amb els seus *frontalers*.** **El
    document els reconeix com a dret aplicable i no en dona cap.** **Prioritari:
    és el dret internacional andorrà més antic de què el corpus té notícia.**
