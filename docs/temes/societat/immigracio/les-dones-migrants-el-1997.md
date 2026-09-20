@@ -205,9 +205,16 @@ El reglament econòmic de **2020** ja enumera els ajuts per al **suport a
 l'acolliment de dones víctimes de violència de gènere** i per als serveis de
 suport a aquestes víctimes ([Reglament de prestacions socials de 2020](../../../raw/lleis/bopa/decret-2020-reglament-prestacions-economiques-serveis-socials.txt)).
 
-Això documenta un **marc d'acolliment i suport posterior**, però no identifica
-una casa concreta, la data d'obertura ni si és la «residència refugi» que ADMA
-demanava el 1997.
+La cronologia institucional permet anar més lluny: el Govern diu que el
+**Servei d'Atenció a les Víctimes de Violència de Gènere (SAVVG)** va començar
+el **desembre de 2006** ([pàgina d'Igualtat](../../../raw/web/societat/violencia-genere/README.md)).
+Una nota oficial del **23 de novembre de 2017** concreta que ja hi havia **tres
+pisos d'acollida**, ocupats aquell any per **15 famílies** durant períodes d'un
+dia a 315 dies ([nota del SAVVG de 2017](../../../raw/web/societat/violencia-genere/govern-savvg-2017.html)).
+
+Això prova que el recurs d'acolliment existia com a mínim el 2017 i que el
+servei especialitzat existia des de 2006, però no identifica la data d'obertura
+dels pisos ni si eren la «residència refugi» concreta que ADMA demanava el 1997.
 
 ## Una afirmació jurídica que cal matisar
 
