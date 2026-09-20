@@ -108,8 +108,12 @@ Andorra.**
   ([font conservada](../../../../raw/web/economia/creand-75-anys-1968-sobanca.txt)).
   La font no aporta encara la genealogia ni les biografies completes de les
   tres famílies.
-- **Quanta gent hi treballa, i quants són temporers.** Vegeu
-  [treball](../../../societat/treball/treball.md).
+- ~~**Quanta gent hi treballa, i quants són temporers.**~~ — **`parcial` el
+  20-09-2026**: [la fitxa de treball](../../../societat/treball/treball.md)
+  mesura l'estacionalitat del conjunt del mercat andorrà —**49.409 assalariats
+  el desembre del 2025 contra 42.127 el maig del 2024**, una diferència de
+  **7.282**—, però **no desglossa Grandvalira ni identifica quants són
+  temporers**. La plantilla pròpia de l'estació continua oberta.
 - **Quant factura.**
 - ~~**Si Francesc Viladomat té relació amb l'escultor
   [Josep Viladomat](../../../cultura/arts-visuals/josep-viladomat.md)**, que
