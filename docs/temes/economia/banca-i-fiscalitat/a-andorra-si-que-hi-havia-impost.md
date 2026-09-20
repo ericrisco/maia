@@ -257,13 +257,25 @@ secretari del Consell General.**
    discrecional.** **I aquella taula no és un document comptable**: **el
    pressupost andorrà no existia escrit, i el van compondre davant del qui el
    demanava.** **El nombre de contribuents segueix sense constar.**
-2. **Com determinaven els `contadors` la renda de cadascú**, i **si hi havia
-   recurs contra el seu repartiment.**
-3. **El decret del Consell General en matèria de pastures revisat pel Tribunal de
+2. ~~**Com determinaven els `contadors` la renda de cadascú**, i **si hi havia
+   recurs contra el seu repartiment.**~~ — **`parcial` el 20-09-2026**: **Vilar
+   diu que hi havia un `contador` per parròquia, que recollien informació sobre
+   el terreny i repartien l'impost proporcionalment a la renda de cadascú** (p.
+   81). **També diu que les decisions del Consell es podien reformar per recurs
+   als cosenyors**, però **no especifica si aquest recurs servia per impugnar el
+   repartiment fiscal.**
+3. ~~**El decret del Consell General en matèria de pastures revisat pel Tribunal de
    Corts a finals de març de 1904**, i **quina parròquia hi va recórrer.**
-   **Prioritari**: **és un cas de control de legalitat amb data.**
-4. **Com es formaven les tres seccions** amb què el Consell oferia tres instàncies
-   successives en matèria de servituds.
+   **Prioritari**: **és un cas de control de legalitat amb data.**~~ — **`parcial`
+   **el 20-09-2026**: **Vilar identifica el cas, el moment —finals de març de
+   1904— i que era un decret sobre pastures recorregut per una parròquia que es
+   considerava perjudicada** (p. 78). **No dona el nom de la parròquia ni el
+   text del decret.**
+4. ~~**Com es formaven les tres seccions** amb què el Consell oferia tres instàncies
+   successives en matèria de servituds.~~ — **`parcial` el 20-09-2026**: **la
+   font diu que el Consell oferia les tres jurisdiccions successives «*par
+   sectionnement*», és a dir, per seccionament intern (p. 79, nota 1). **No
+   explica quins consellers formaven cada secció ni com es designaven.**
 5. **DIVERGÈNCIA**: **la part del bisbe en la quèstia, 450 francs (Vilar) o 450
    pessetes (el corpus).** `No arbitrada.` **`no-es-buit`**: és una divergència
    registrada que no s'ha d'arbitrar sense una font millor.
