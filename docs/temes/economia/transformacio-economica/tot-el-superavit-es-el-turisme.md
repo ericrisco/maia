@@ -171,7 +171,11 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
 - **Què hi ha dins de «Viatges».** És el 106% del superàvit de serveis i **la
   nota no en publica cap desglossament**: ni allotjament, ni comerç, ni
   procedència del visitant.
-- **Per què cau la renda primària.** Hi ha el fet i cap explicació.
+- ~~**Per què cau la renda primària.**~~ — **`parcial` el 2026-09-20**: el saldo
+  baixa de **330,59 M€ el 2020** a **57,41 M€ el 2024** i gira a **−32,00 M€ el
+  2025**; dins seu, les rendes d'inversions passen de **359,20 a 129,74 M€** i
+  les rendes del treball són negatives els cinc anys. La font desglossa el
+  moviment, però no n'identifica la causa completa.
 - ~~**La sèrie anterior al 2020.**~~ — **`resolt` el 18-09-2026**: **l'API dona
   el 2019 i el 2025**, i **el 2019 és el punt de comparació prepandèmic que
   faltava**. `De més antic del 2019, res: la divisió 2221 comença allà.`
