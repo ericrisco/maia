@@ -242,8 +242,9 @@ evitar que un relat s'escampi sobre un altre període per contagi.
   **[parcial · 2026-09-19]** Els quatre autors i la referència prioritària de
   Benet ja estan identificats; el corpus encara no ha llegit directament les
   obres.
-- **La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
-  revista *Reporter*** (segons [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md)).
+- ~~**La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
+  revista *Reporter***~~ — **`resolt` el 20-09-2026**: la fitxa ja en dona la
+  data i el mitjà, amb la referència a [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md).
 - Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).
 - ~~***Entre el torb i la Gestapo***, de **Francesc Viadiu**, **sencer**.~~ —
   **`parcial` el 18-09-2026**: **l'autor i el llibre ja són al corpus per tres
