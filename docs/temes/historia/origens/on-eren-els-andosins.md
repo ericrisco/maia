@@ -126,11 +126,17 @@ els ilergets, els bargusis i els airenosis.**
 
 ## El que falta
 
-- **Quim Valera**, ***L'antic país antic***, **Anem Editors, Encamp, 2024**.
+- ~~**Quim Valera**, ***L'antic país antic***, **Anem Editors, Encamp, 2024**.
   **Buit obert: el corpus només en té les pàgines 43-46 per referència de
-  tercers.** **És un llibre andorrà del 2024 i s'ha de llegir sencer.**
-- **Jean-Luc Schenck-David**, ***Era Val d'Aran ena epòca romana***, **Institut
-  d'Estudis Aranesi, 2023** — **per al paral·lel dels airenosis.**
+  tercers.** **És un llibre andorrà del 2024 i s'ha de llegir sencer.**~~ —
+  **`parcial` el 20-09-2026**: la [fitxa bibliogràfica de la Viquipèdia](../../../fonts/wikipedia-andosins.md)
+  confirma les pàgines 43-46 i resumeix la proposta de situar els andosins
+  entre Berga i Oliana; la lectura completa del llibre encara falta.
+- ~~**Jean-Luc Schenck-David**, ***Era Val d'Aran ena epòca romana***, **Institut
+  d'Estudis Aranesi, 2023** — **per al paral·lel dels airenosis.**~~ —
+  **`parcial` el 20-09-2026**: la mateixa font identifica l'obra i el §2.3 i
+  resumeix el paral·lel dels airenosis com una identificació per homofonia; el
+  capítol sencer encara no s'ha llegit.
 - **Oriol Olesti i Oriol Mercadal**, *«L'explotació dels territoris pirinencs
   orientals en època antiga (s. VI-I ane)»*, **Treballs d'Arqueologia 21 (UAB,
   2017)**.
