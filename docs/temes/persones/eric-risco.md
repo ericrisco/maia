@@ -123,7 +123,14 @@ Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
    registrada, no arbitrada**: fonts més recents el situen avui a la
    **División de Honor B espanyola**, la direcció contrària. `Requereix la
    Federació Andorrana de Rugbi.`
-5. **La Federació Andorrana de Judo** i **la de Rugbi**.
+5. ~~**La Federació Andorrana de Judo** i **la de Rugbi**.~~ — **`parcial`,
+   confirmat el 20-09-2026**: una partida pressupostària comunal del 2026
+   identifica la **Federació Andorrana de Judo**, i la fitxa local de rugbi
+   documenta la **Federació Andorrana de Rugbi**, creada el **1986** i afiliada
+   a **World Rugby el 1991** ([pressupost comunal](../../raw/lleis/bopa/pressupostos-comunals-2026/4.txt);
+   [fitxa de la Federació de Rugbi](../../raw/web/esport/estructura/Federació_Andorrana_de_Rugbi-ca.wiki)).
+   Les trajectòries i funcions completes de les dues federacions continuen
+   obertes.
 6. ~~**Els Jocs Mediterranis**: hi participa Andorra regularment?~~ —
    **`resolt`, i era un buit duplicat**: [els altres
    Jocs](../esports/competicio/els-altres-jocs.md#els-jocs-del-mediterrani-lunica-medalla)
