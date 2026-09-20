@@ -224,8 +224,13 @@ plus florissante de ce pays: la contrebande*».**
 7. **Què deien els andorrans** de l'acusació de doble comptatge. **El corpus té
    la queixa francesa i la declaració del bisbe, i cap resposta del Consell
    General sobre les xifres.**
-8. **Si les franquícies espanyoles es van restablir mai** després del 1904.
-   **Segueix obert.**
+8. ~~**Si les franquícies espanyoles es van restablir mai** després del 1904.
+   **Segueix obert.**~~ — **`resolt` el 2026-09-20**: [El desenllaç de la
+   qüestió duanera](../../historia/segle-xix/el-desenllac-de-la-questio-duanera.md)
+   documenta que **no es van restablir formalment**, però que la **Reial ordre
+   d'Hisenda de 25 de maig de 1908** va aplicar als ramats i productes d'Andorra
+   els drets més reduïts de les tarifes vigents. La distinció entre franquícia i
+   rebaixa aranzelària queda conservada.
 
 ## Related
 
