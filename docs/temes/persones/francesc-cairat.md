@@ -98,10 +98,15 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
 4. **Què va fer exactament durant la Segona Guerra Mundial**: quines decisions,
    quins documents. **Buit prioritari** — és el període més mitificat i menys
    documentat del corpus.
-5. **La relació amb els coprínceps** i amb els delegats permanents durant
+5. ~~**La relació amb els coprínceps** i amb els delegats permanents durant
    l'anul·lació del sufragi universal masculí el **1941** i el restabliment del
-   **1947** ([fitxa](../politica/sistema-electoral/el-sufragi-universal-masculi.md)).
-   **Hi era, i el corpus no sap de quina banda.**
+   **1947**.~~ — **`parcial` el 20-09-2026**: [la fitxa del sufragi
+   universal masculí](../politica/sistema-electoral/el-sufragi-universal-masculi.md)
+   documenta que el **1941** els delegats permanents dels coprínceps anul·len
+   el sufragi i que el **23 d'agost de 1947** els veguers, «delegats pels
+   coprínceps», en llegeixen el restabliment al Consell. Cairat hi era com a
+   síndic, però les actes consultades no permeten establir la seva posició
+   personal ni una relació directa amb els delegats.
 6. ~~**Qui el va succeir el 1960**, abans de Julià Reig.~~ — **tancat**:
    **ningú**. **Julià Reig el succeeix directament**, el 31 de desembre del
    1960 ([els síndics generals](./els-sindics-generals.md)).
