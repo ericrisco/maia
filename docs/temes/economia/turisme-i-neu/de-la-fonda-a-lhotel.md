@@ -218,7 +218,15 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
 
 1. **Quins van ser els intents fallits** de gran centre turístic: qui els
    proposava, quan, i per què van caure. **Buit gran i molt interessant.**
-2. **Els primers hotels balnearis** d'Escaldes: noms i dates.
+2. ~~**Els primers hotels balnearis** d'Escaldes: noms i dates.~~ —
+   **`parcial` el 20-09-2026**: les [fonts patrimonials i històriques sobre
+   l'hoteleria d'Escaldes](../../../fonts/hotels-balnearis-escaldes.md)
+   identifiquen **Hotel Pla, Muntanya, Paulet, Serra i Palacín** com els primers
+   hotels balnearis; situen l'**Hotel Pla el 1863** i l'**Hotel Banys Muntanya
+   el 1904**, i confirmen que el Pla fou el primer establiment balneari que
+   oferia els beneficis de l'aigua termal d'Escaldes. Encara falta la
+   cronologia completa de Paulet, Serra i Palacín i aclarir la denominació de
+   Muntanya.
 3. **El termalisme** com a branca.
 4. **Quan arriben els esports d'hivern** i quina estació és la primera.
 5. ~~**Xifres**: places hoteleres per dècades.~~ — **`parcial` el 17-09-2026 per la
