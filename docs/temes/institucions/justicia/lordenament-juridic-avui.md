@@ -383,8 +383,15 @@ recull**, i el corpus no sap si existeix ni què hi diu.
    incidental de l'article 100.
 5. **Quantes vegades s'ha fet servir** la delegació legislativa i el procediment
    d'extrema urgència. El text hi és; **la pràctica, no**.
-6. **Si alguna llei ha desenvolupat l'article 84** —el costum com a criteri per
-   fixar la competència dels quarts i els veïnats— i què hi va determinar.
+6. ~~**Si alguna llei ha desenvolupat l'article 84** —el costum com a criteri per
+   fixar la competència dels quarts i els veïnats— i què hi va determinar.~~
+   **`parcial` el 21-09-2026**: la [Llei qualificada de delimitació de
+   competències dels Comuns de 1993](../../../raw/lleis/bopa/llei-qualificada-competencies-comuns-1993.txt),
+   article 4.4, atribueix als comuns la **delimitació de terres comunals amb
+   quarts i particulars**, i l’article 4.13 sotmet l’organització dels comuns a
+   la Constitució, les lleis generals i els **usos i costums**. És un desplegament
+   territorial concret; el corpus no hi ha trobat una regulació completa de les
+   competències pròpies dels quarts i els veïnats.
 
 ## Related
 
