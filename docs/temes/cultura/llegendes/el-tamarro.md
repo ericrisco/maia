@@ -142,8 +142,11 @@ visites.**
   conserva la referència RACO i l'atribució del **Tamarro com a mascota dels
   Jocs dels Petits Estats d'Europa de 1991**. **El PDF original no s'ha obert
   directament.**
-- **Si hi ha nom andorrà propi** de la broma, o si sempre s'hi ha dit «caçar el
-  tamarro».
+- ~~**Si hi ha nom andorrà propi** de la broma, o si sempre s'hi ha dit «caçar el
+  tamarro».~~ — **`parcial` el 21-09-2026**: la font local només documenta les
+  formes **«la cacera del tamarro»** i **«caçar el tamarro»**; no hi apareix cap
+  nom andorrà alternatiu. Això no prova que no n'hagi existit cap de local o
+  oral.
 
 ## Related
 
