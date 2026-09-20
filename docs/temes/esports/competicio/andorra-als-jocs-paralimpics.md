@@ -152,8 +152,11 @@ participacions».**
    el corpus en té dos fitxats**, [Xavier Barios](../esqui/esquiadors/xavier-barios.md)
    i [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md); **Miguel
    Llongueras, Paquita Ramírez, Antonio Sánchez i Roger Puig encara no en tenen**.
-2. **Les delegacions del 2016, 2020 i 2024**, que el registre d'estiu esmenta i
-   cap pàgina no detalla.
+2. ~~**Les delegacions del 2016, 2020 i 2024**, que el registre d'estiu
+   esmenta i cap pàgina no detalla.~~ — **`parcial` el 20-09-2026**: el
+   bolcat general només registra el rang **«2016–2024»** com a aparicions
+   d'estiu i no dona cap nom, prova ni delegació per edició; les pàgines locals
+   conservades no permeten desglossar-les sense una font addicional.
 3. ~~**Els Jocs del 2026**, que el registre llista i el bolcat no documenta.~~ —
    **`resolt` el 20-09-2026**: una notícia del **Govern d'Andorra** confirma la
    participació de **Roger Puig** a Milà-Cortina 2026 i el seu **cinquè lloc en
