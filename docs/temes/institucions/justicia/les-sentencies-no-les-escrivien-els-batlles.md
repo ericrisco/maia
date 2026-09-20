@@ -191,8 +191,13 @@ una pràctica pròpia.**
    dels batlles. **La font no el nomena ni diu si era sempre el mateix**, i **no
    l'identifica amb l'assessor**, de qui parla amb un altre mot. `obert,
    prioritari: canvia com s'ha de llegir tota sentència andorrana del corpus.`
-2. **On són avui les sentències** que el 1904 eren **«a casa dels escrivans i dels
-   seus descendents»**. `obert, prioritari.`
+2. ~~**On són avui les sentències** que el 1904 eren **«a casa dels escrivans i dels
+   seus descendents»**.~~ — **`parcial` el 21-09-2026**: la fitxa localitza els
+   judicis antics a la **Curia de la Casa de la Vall** i els moderns com a peces
+   comunicades per particulars; [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)
+   confirma que conserva el fons del Tribunal de Corts. **No s'ha comprovat que
+   les sentències que Brutails va trobar en cases privades hi hagin ingressat ni
+   on són avui.**
 3. **Si es va fer mai el registre de sentències dipositat a la Curia** que la font
    proposa. `obert.`
 4. **Els judicis antics de la Curia**, a la Casa de la Vall: **quants eren i si
