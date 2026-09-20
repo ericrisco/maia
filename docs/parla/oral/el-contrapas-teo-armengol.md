@@ -314,9 +314,14 @@ està verificada contra l'àudio.**
    **Amb una sola ocurrència i sense escolta, el corpus no ho decideix** i
    **manté que no es reclama com a tret andorrà.** **Es tanca escoltant**, com
    la resta de marques d'aquesta peça.
-4. **Els noms propis cauen**: `mestre [?Orelleta]`, `esbar d'en [?Saire]` (que és
+4. ~~**Els noms propis cauen**: `mestre [?Orelleta]`, `esbar d'en [?Saire]` (que és
    *Esbart Dansaire*), `[?Vars] Santana` i `[?Vall] de [?Santana]` per *Ball de
-   Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**
+   Santa Anna*, `la [?Marratxa]`. **Cap no s'ha verificat.**~~ — **`parcial` el
+   20-09-2026**: [la fitxa de cultura popular](../../temes/cultura/cultura-popular/els-usos-i-costums.md)
+   identifica el **mestre d'Orelleta** com **Ventura Armengol**, i la mateixa
+   peça ja desambigua **Esbart Dansaire**, **Ball de Santa Anna** i **la
+   Marratxa**, que també té fitxa pròpia. Queden sense verificar contra l'àudio
+   la realització exacta i el nom que hi ha darrere de `[?Saire]`.
 5. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera.~~ —
    **`no-es-buit` el 20-09-2026**: la càpsula dona el tema i la transcripció,
    però no publica metadata personal del parlant.
