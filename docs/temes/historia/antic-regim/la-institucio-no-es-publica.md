@@ -273,9 +273,13 @@ d'una tanda diferent**:
    andorrana.`
 3. **Per què el decret del Consell General del 31 de maig de 1876 és en castellà**,
    i **si n'hi ha més d'aquella època.**
-4. **Si els batlles intervenien sempre en la presa de possessió**, com diu el
-   decret, **o només en cas de conflicte**, com diu l'autor. **Divergència
-   registrada.**
+4. ~~**Si els batlles intervenien sempre en la presa de possessió**, com diu el
+   decret, **o només en cas de conflicte**, com diu l'autor.~~ — **`parcial` el
+   20-09-2026**: el decret del **31 de maig de 1876** certifica que un batlle hi
+   intervé sempre, mentre Brutails declara errònia aquesta proposició i limita
+   la intervenció als casos de conflicte actual o previst; afegeix que no cal en
+   vendes ni transmissions pacífiques. La divergència queda documentada, però el
+   corpus no pot arbitrar-la.
 5. ~~**Els altres articles posats a enquesta pel Consell Sobirà del Rosselló el 16
    de juny de 1751.**~~ — **`parcial` el 18-09-2026**: **el corpus en té dos**
    —**aquest i el del verb *heretar***—, mentre que **la font només diu
