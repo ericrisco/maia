@@ -259,10 +259,17 @@ quart, «de tal manera que cada veïnat important hi sigui representat».**
 3. **Si la regla de l'article 10 es va aplicar mai**, en un cas o en l'altre.
 4. **Com es componien de fet les llistes dels grups de quart**, i **si la quota
    per veïnat era escrita o consuetudinària.**
-5. **Quantes vegades el Consell General va exercir la interpretació obligatòria**,
-   i **si se'n va recórrer mai davant dels cosenyors.**
-6. **Què passava amb les sessions quan una festa queia malament** —Pasqua és
-   mòbil— i **si el nombre de cinc es va respectar.**
+5. ~~**Quantes vegades el Consell General va exercir la interpretació obligatòria**,
+   i **si se'n va recórrer mai davant dels cosenyors.**~~ **`parcial` el
+   21-09-2026**: la font ja descriu la regla —interpretació amb força obligatòria
+   i recurs davant dels autors de la llei—, però el corpus no té una sèrie de
+   decisions ni cap recurs que en provi l'aplicació.
+6. ~~**Què passava amb les sessions quan una festa queia malament** —Pasqua és
+   mòbil— i **si el nombre de cinc es va respectar.**~~ **`parcial` el
+   21-09-2026**: la font fixa **cinc sessions ordinàries** —Nadal, Pasqua,
+   Pentecosta, Tots Sants i Sant Andreu— i diu que anaven precedides de missa
+   (p. 75). No explica com s'ajustava el calendari quan una festa era mòbil ni
+   acredita l'assistència efectiva a cada sessió.
 7. **Des de quan el Consell es diu «i de la Terra»**, i **si el títol tenia ús
    oficial o era, com diu Vilar, el «més pompós».**
 8. **Si algú va contestar mai la incompatibilitat de 1866** entre càrrec comunal i
