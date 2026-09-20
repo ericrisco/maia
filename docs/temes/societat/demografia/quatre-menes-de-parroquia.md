@@ -238,9 +238,12 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
 
 ## El que falta
 
-- **La població absoluta d'Andorra la Vella i d'Escaldes-Engordany per
+- ~~**La població absoluta d'Andorra la Vella i d'Escaldes-Engordany per
   separat**, que **aquesta font no pot donar perquè el 1989 no se'n coneixia el
-  límit.**
+  límit.**~~ — **`no-es-buit` el 2026-09-20**: la nota 5 de la ponència diu que
+  la superfície conjunta és aproximada perquè es desconeixia la delimitació
+  exacta entre les dues parròquies; la separació estadística que demana el punt
+  no existeix en aquesta font.
 - ~~**El total del país al cens del 31-05-1989**, que la ponència no publica.~~ —
   **`no-es-buit`**: els **~50.200** d'aquesta fitxa són un càlcul del corpus a
   partir dels totals disponibles, no un total publicat per la ponència.
