@@ -207,8 +207,9 @@ diferents i la font les publica totes dues.**
 - **La formació contínua salta del 2,4% al 9,8% en un any** (2023 → 2024).
   **El corpus no ho cita com un canvi real**: **no s'ha trobat cap nota
   metodològica** que expliqui un factor de quatre. `pregunta_oberta`
-- **Per què el segon quintil està menys satisfet econòmicament que el primer**,
-  el corpus no ho sap i la font no ho comenta. `pregunta_oberta`
+- ~~**Per què el segon quintil està menys satisfet econòmicament que el primer**~~
+  — **`parcial` el 2026-09-20**: la taula dona **4,75** per al segon quintil i
+  **5,10** per al primer, però la font no n'explica la inversió.
 - ~~**No hi ha desglossament per parròquia** de cap indicador d'aquesta branca.~~
   — **`no-es-buit`**: la font no publica aquest desglossament.
 - ~~**La satisfacció amb l'habitatge no es creua amb el règim de tinença** a cap
@@ -220,5 +221,8 @@ diferents i la font les publica totes dues.**
 - ~~**La felicitat declarada només existeix per al 2022**, i **no es creua ni amb
   la salut ni amb la situació laboral**, que és el creuament que la faria
   llegible.~~ — **`no-es-buit`**: la font no publica aquests creuaments.
-- **Per què la felicitat per decils d'ingressos fa dents de serra** mentre la
-  satisfacció amb la vida no en fa. `pregunta_oberta`
+- ~~**Per què la felicitat per decils d'ingressos fa dents de serra** mentre la
+  satisfacció amb la vida no en fa.~~ — **`parcial` el 2026-09-20**: la suma de
+  «tot el temps» i «la major part» va del **50,2% del primer decil al 73,4%
+  del desè**, però el **sisè decil (72,97%)** supera el **novè (65,07%)**; la
+  font ho atribueix només a la mostra petita i no explica els graons.
