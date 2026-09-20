@@ -269,8 +269,12 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   d'Estadística. Segueix requerint el ministeri.`
 - **En quins temes Andorra pot «fer aportacions significatives al coneixement»**:
   la font ho declara com a objectiu i no ho respon.
-- **L'Escola d'Informàtica, el Centre d'Estudis Virtuals i el Centre d'Extensió
-  Universitària**: només en tenim el nom.
+- ~~**L'Escola d'Informàtica, el Centre d'Estudis Virtuals i el Centre d'Extensió
+  Universitària**: només en tenim el nom.~~ — **`resolt` el 2026-09-20**:
+  l'estructura del **2000** ja en dona la funció: **informàtica de gestió**,
+  **ensenyament a distància** i **formació oberta**, respectivament. La fitxa
+  no presenta això com l'estat actual; l'actualització posterior continua
+  sent un buit separat.
 
 ## Related
 
