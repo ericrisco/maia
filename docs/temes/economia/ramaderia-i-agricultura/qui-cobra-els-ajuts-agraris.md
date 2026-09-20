@@ -262,9 +262,14 @@ apareixerà a la nota del juny del 2027.**
   Destil·lades a [Cent hectàrees de tabac](../tabac/cent-hectarees-de-tabac.md)
   i [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md).
   `La nota A105 segueix sense localitzar; les seves dades, no.`
-- **Les 38 explotacions que falten.** La nota compta **340 explotacions** i el
-  parcel·lari del mateix any en compta **302 amb terra declarada**. `Cap de les
-  dues fonts no comenta la diferència.`
+- ~~**Les 38 explotacions que falten.** La nota compta **340 explotacions** i el
+  parcel·lari del mateix any en compta **302 amb terra declarada**.~~ —
+  **`parcial` el 20-09-2026**: el registre per activitat suma **340 explotacions**
+  ([gràfic de tipus d'explotació](../../../raw/estadistica-agricultura/explotacions-tipus-2025.txt)),
+  mentre que la taula de superfície declarada suma **302** i separa **108 amb
+  bestiar de renda** i **194 sense** ([taula de superfície per parròquia](../../../raw/estadistica-agricultura/superficie-conreu-parroquia-2025.txt)).
+  Les fonts descriuen universos de difusió diferents, però cap no explica quines
+  són les 38 explotacions que no entren a la taula de superfície.
 - **On és el suport al tabac**, si n'hi ha. `Cal buscar fora del Departament
   d'Agricultura.`
 
