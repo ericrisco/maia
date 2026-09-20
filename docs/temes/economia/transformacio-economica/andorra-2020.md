@@ -354,8 +354,11 @@ immobiliàries en guanyen 250,51. El corpus ho registra i no en dona la causa.`
    `resolt` el 17-09-2026 — vegeu
    [El PIB no es va doblar: el 2019 encara era per sota del 2007](#el-pib-no-es-va-doblar-el-2019-encara-era-per-sota-del-2007).
 
-6. **Les obres citades** —Bourdieu, Coleman, Putnam, Fukuyama, Kliksberg— no s'han
-   llegit; el corpus només en té els noms i els anys.
+6. ~~**Les obres citades** —Bourdieu, Coleman, Putnam, Fukuyama, Kliksberg— no s'han
+   llegit; el corpus només en té els noms i els anys.~~ — **`no-es-buit` el
+   2026-09-20**: és un inventari de fonts no incorporades, no una pregunta
+   factual pendent; el corpus conserva honestament només les referències
+   bibliogràfiques.
 
 ## Related
 
