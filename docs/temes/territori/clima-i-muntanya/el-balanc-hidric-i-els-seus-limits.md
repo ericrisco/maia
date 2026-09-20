@@ -202,10 +202,13 @@ què el corpus ja té documentada la reconstrucció.`
   sèrie anual del recurs hídric 2006-2019 sí que hi és**, a l'API d'Estadística,
   i és a «[La sèrie anual](#la-serie-anual-i-que-en-fa-de-les-dues-superficies)».
   `Els anys 2020-2025 no hi són, i la sèrie mensual de reserva tampoc.`
-- **Discrepància de la font de 2025:** p. 4 i taula 2, p. 8, donen 996 mm
-  de precipitació anual mitjana; les conclusions, p. 42, en donen 1.200.
-  La taula 6, p. 23, dona 995,88 mm als límits administratius. Es conserven
-  les dues afirmacions sense escollir-ne una com a correcció oficial.
+- ~~**Discrepància de la font de 2025**~~ — **`parcial` el 20-09-2026**:
+  p. 4 i la taula 2, p. 8, donen 996 mm de precipitació anual mitjana;
+  les conclusions, p. 42, en donen 1.200; i la taula 6, p. 23, dona
+  995,88 mm per als límits administratius. La lectura confirma que els
+  996 mm són l'arrodoniment de 995,88 mm, però no determina si els 1.200 mm
+  són un error editorial, un àmbit diferent o un altre càlcul. Es conserven
+  les tres afirmacions sense escollir-ne una com a correcció oficial.
 - La prosa i la taula 4 de p. 11 també divergeixen en dades del Madriu
   i en el cabal específic de Prada Casadet. Aquestes xifres no s'utilitzen
   aquí com a valors resolts; [detall de les discrepàncies](../../../raw/recurs-hidric/README.md).
