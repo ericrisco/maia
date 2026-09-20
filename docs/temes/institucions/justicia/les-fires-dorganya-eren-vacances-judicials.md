@@ -337,8 +337,14 @@ Andorra:**
    quan.** **La font ho constata i no ho data.**
 5. **Si el feriat de la sega i de les fires va tenir mai força**, **i qui
    l'havia afegit.**
-6. **On són Salàs i Bertí**, i **per què les fires d'aquestes quatre poblacions
-   i no d'altres.** **El corpus no ho afirma de memòria.**
+6. ~~**On són Salàs i Bertí**, i **per què les fires d'aquestes quatre poblacions
+   i no d'altres.** **El corpus no ho afirma de memòria.**~~ — **`parcial` el
+   21-09-2026**: [Les mules](../../economia/ramaderia-i-agricultura/les-mules.md)
+   situa **Salàs al Pallars** i documenta el seu mercat de **mulatí**, juntament
+   amb Organyà i Santa Coloma de Queralt; la mateixa font separa Guissona com a
+   fira de bestiar oví. **Bertí encara no s’ha identificat** i tampoc no s’ha
+   provat per què el feriat judicial va triar exactament aquestes quatre
+   poblacions.
 7. **El decret del Consell General del 26 de maig de 1868** sobre el termini de
    vuit dies i el dipòsit de fiança.
 8. **Les llistes de feriats de 1585** *(Constitucions, III, XXIX, 2)* **i de
