@@ -340,7 +340,10 @@ el corpus la reté com a **posició**, no com a descripció neutra.
    ja no ho ha de buscar al Butlletí.`
 2. **Les màximes 41 i 42 del Manual Digest**, i el **núm. 41 de l'*Apéndice
    Misceláneo***: el corpus **no en té el text**.
-3. **Què va passar el 1988** perquè no s'aprovés cap quota.
+3. ~~**Què va passar el 1988** perquè no s'aprovés cap quota.~~ — **`parcial` el
+   21-09-2026**: la taula **«El que passa després»** de la mateixa fitxa ja fixa
+   el fet documentat: **el Consell General no va aprovar cap quota d'immigració
+   el 1988**. **La causa concreta de la no-aprovació, però, no consta a la font.**
 4. ~~**Les quotes del 1985, 1993-94 endavant per nacionalitat**: l'autora només
    dona el repartiment 40/40/20 per al període 1984-1987.~~ — **`parcial` el
    21-09-2026**: la taula de quotes ja documenta **1993–94** amb **250** permisos
