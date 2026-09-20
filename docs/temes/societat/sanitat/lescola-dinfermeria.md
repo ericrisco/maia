@@ -151,9 +151,10 @@ també ha d'evitar la malaltia.
 - ~~L'escola especialitzada Nostra Senyora de Meritxell~~ — **fitxa oberta**;
   en queda pendent la data exacta de fundació. El **Centre d'Acolliment
   d'Infants**, en canvi, segueix sense res.
-- **Quantes de les 111 eren dones**: la font no ho diu, i en una professió tan
-  marcada per gènere és una dada que falta. Vegeu
-  [dones](../dones/README.md).
+- ~~**Quantes de les 111 eren dones**: la font no ho diu, i en una professió tan
+  marcada per gènere és una dada que falta.~~ — **`no-es-buit` el 20-09-2026**:
+  l'article només publica el total de titulats i no ofereix cap desglossament per
+  sexe; el corpus no l'infereix de la professió. Vegeu [dones](../dones/README.md).
 - ~~**El SAAS**: història pròpia, encara no fitxada.~~ — **`parcial` el
   19-09-2026**: el primer tros documentat és que els **Serveis de Salut
   Mental del SAAS es posen en marxa el 1998** ([la salut mental](./la-salut-mental.md));
