@@ -206,12 +206,15 @@ jurament davant del Consell perquè les seves sentències siguin vàlides.**
 
 ## Buits registrats
 
-1. **Si el Tribunal de Perpinyà aplicava dret català i el bisbat dret romà.**
-   **La font ho recull com a dita i diu que no ho ha pogut comprovar.**
-   **Prioritari**: **es comprovaria amb les sentències, i el corpus en té tres de
-   Perpinyà** ([va afegir a la sentència coses que ningú no havia
-   demanat](./va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md)),
-   **i cap de la Seu.**
+1. ~~**Si el Tribunal de Perpinyà aplicava dret català i el bisbat dret romà.**~~
+   — **`parcial` el 20-09-2026**: el corpus ja té tres sentències del Tribunal
+   Superior d'Andorra a Perpinyà, de **1902 i 1903**, amb la composició del
+   tribunal, el procediment de deliberació i la fórmula d'execució a les Valls
+   ([va afegir a la sentència coses que ningú no havia demanat](./va-afegir-a-la-sentencia-coses-que-ningu-no-havia-demanat.md)).
+   **Cap d'aquestes sentències identifica, però, el dret supletori material que
+   aplica, i el corpus continua sense una sentència episcopal comparable.** La
+   dita de 1918 sobre dret català a Perpinyà i dret romà al bisbat continua
+   **sense prova directa** ([el dret supletori](./el-dret-supletori.md)).
 2. **Qui formulava el 1918 la demanda d'un tribunal suprem únic**, **i on
    consta.** **Nou i prioritari.**
 3. **La norma que fa aplicable el Codi penal espanyol a Andorra**, **i la seva
