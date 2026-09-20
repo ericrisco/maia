@@ -152,9 +152,10 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
 
 ## Buits registrats
 
-- **L'enquesta té dos punts, 2019 i 2024.** **Tota lectura de tendència és
+- ~~**L'enquesta té dos punts, 2019 i 2024.** **Tota lectura de tendència és
   impossible**, i **un dels dos anys és anterior a la pandèmia i l'altre
-  posterior**. `font_externa`
+  posterior**.~~ — **`no-es-buit` el 20-09-2026**: és una limitació temporal
+  de la font; no hi ha una sèrie contínua amb què inferir una tendència.
 - ~~**En quina llengua es llegeix, l'enquesta no ho pregunta** —o no ho publica—,
   i **és exactament la xifra que més valdria per a maia.**~~ — **`no-es-buit` el
   20-09-2026**: el corpus té l'alfabetització per llengua fins al 2009
