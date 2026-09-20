@@ -258,10 +258,12 @@ estadi.**
 
 ## El que falta
 
-- **Els subcampions i els tercers**, temporada per temporada. **El bolcat en
+- ~~**Els subcampions i els tercers**, temporada per temporada. **El bolcat en
   dona el recompte per club** —**la UE Sant Julià és la gran perdedora amb 9
   subcampionats i 7 tercers llocs contra 2 títols**— **i no la sèrie any per
-  any.**
+  any.**~~ — **`resolt` el 20-09-2026**: el [wikitext de la Primera Divisió](../../../../raw/web/esport/estructura/Primera_Divisió.wiki)
+  conté la taula completa de **1994–95 a 2025–26**; el [bolcat tabulat](../../../../raw/web/esport/estructura/primera-divisio-palmares-1995-2026.tsv)
+  en conserva els **32** registres de campió, subcampió i tercer lloc.
 - ~~**Per què Canillo, Ordino i la Massana no han guanyat mai**, i **si hi han
   tingut mai equip a Primera.**~~ — **`parcial` el 20-09-2026**: la taula
   històrica de [la Primera Divisió](../../../../raw/web/esport/estructura/Primera_Divisió.wiki)

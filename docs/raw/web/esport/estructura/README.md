@@ -54,3 +54,5 @@ no existeix també és informació**:
 
 - [La selecció femenina](../../../../temes/esports/futbol/femeni/la-seleccio-femenina.md)
 - [Futbol femení](../../../../temes/esports/futbol/femeni/README.md)
+
+- `primera-divisio-palmares-1995-2026.tsv` — extracte tabulat de la taula de guanyadors de `Primera_Divisió.wiki`, amb campió, subcampió i tercer lloc per temporada (1994–95 a 2025–26).
