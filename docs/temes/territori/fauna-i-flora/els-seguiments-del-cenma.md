@@ -169,7 +169,7 @@ massís**.
 
 - **El setzè transsecte de SOCA.**
 - **Les dades**, no els protocols: què han donat aquests seguiments des del 2016.
-- **Si el BMSAnd i el SOCA continuen** avui.
+- ~~**Si el BMSAnd i el SOCA continuen** avui.~~ — **`resolt` el 20-09-2026**: [AR+I](../../../raw/web/territori/fauna-flora/seguiments/ari-bmsand-2026.txt) anuncia la **21a temporada del BMSAnd** i l’[IEA](../../../raw/web/territori/fauna-flora/seguiments/iea-soca-2026.txt) manté el **SOCA** com a programa vigent, amb voluntariat. **Això prova la continuïtat dels programes, no substitueix les sèries de resultats.**
 - **Quines espècies de congestera** hi ha a Andorra, amb nom.
 - **Els resultats de les Open Top Chambers.**
 - ~~**El segell de carn de qualitat d'Andorra**: què és, qui l'atorga, quants
