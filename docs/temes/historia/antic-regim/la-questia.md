@@ -374,7 +374,15 @@ avèria**; i **cent vint cavallons de blat com un metado**
 
    `Requereix el que es recaptava dins del país; això segueix obert, i el que
    ara hi ha és el que se n'havia de pagar a fora.`
-6. La relació entre **quèstia, delme i talla** — són tres coses i aquí es toquen.
+6. ~~La relació entre **quèstia, delme i talla** — són tres coses i aquí es
+   toquen.~~ — **`parcial` el 20-09-2026**: [Per què valia la pena ser
+   Andorra](../../societat/vida-civica/per-que-valia-la-pena-ser-andorra.md)
+   fixa que la **talla** és el repartiment de l'exacció i que les ordinacions
+   donen quantitats del **delme**; [El Llibre de la Terra](../../institucions/consell-general/el-llibre-de-la-terra.md)
+   conserva la taula de la quèstia on **sis feixos de delme de blat** o **sis
+   quintars de verema de delme** equivalen a **un metador de quèstia**. **La
+   relació quantitativa documentada queda identificada, però el corpus encara
+   no té la història completa de com es vinculaven delme, quèstia i talla.**
 
 ## Related
 
