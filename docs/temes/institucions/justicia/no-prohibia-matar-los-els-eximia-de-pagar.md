@@ -390,8 +390,8 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
 4. **L'acte del 17 d'agost de 1420** sencer, **i on és «*a Pesses Caldes*»**.
 5. **L'acte del 15 de juliol de 1420** sencer, **i què vol dir comprar vi «*in
    albis*»** —**en moneda blanca?**—, **que el corpus no dedueix.**
-6. **Per què el 1420 hi ha dos saigs alhora** quan la carta de 1305 en concedia
-   **un de sol.** — **`parcial` des del 22-09-2026**: el corpus ja documenta
+6. ~~**Per què el 1420 hi ha dos saigs alhora** quan la carta de 1305 en concedia
+   **un de sol.**~~ — **`parcial` des del 22-09-2026**: el corpus ja documenta
    **dos saigs simultanis el 1364 i el 1390**, un al servei del comte de Foix i
    l'altre del bisbe d'Urgell, i el 1390 els andorrans han d'anar a cadascun per
    separat perquè la jurisdicció compartida no fa que un manament obligui
