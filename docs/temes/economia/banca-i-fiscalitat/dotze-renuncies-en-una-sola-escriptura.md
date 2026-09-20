@@ -256,9 +256,12 @@ comptar.**
    **El buit no es tanca** —**la sèrie no s'ha vist**— **però deixa de ser una
    pregunta i passa a ser una petició concreta**: `requereix l'Arxiu Nacional o
    les corts`, **i ara se sap quin tipus de document s'hi busca.**
-2. **El testament del 10 de juny de 1770** atorgat en poder del mateix Reverend
-   Salvador Areny, **i si la pràctica que el marmessor col·loqui a censal els
-   diners de la marmessoria era regulada.** **La font no hi fa cap comentari.**
+2. ~~**El testament del 10 de juny de 1770** atorgat en poder del mateix
+   Reverend Salvador Areny, **i si la pràctica que el marmessor col·loqui a
+   censal els diners de la marmessoria era regulada.**~~ — **`parcial` el
+   20-09-2026**: **el corpus identifica el testament i el marmessor**, però **no
+   documenta si aquesta pràctica estava regulada**; **la font no hi fa cap
+   comentari**.
 3. ~~**Si hi havia límit a les renúncies.**~~ — **`parcial` el 18-09-2026**:
    **el corpus té dotze renúncies en un sol acte**, inclosa la renúncia a la llei
    que prohibeix la renúncia general; **no sap si cap tribunal en va invalidar
