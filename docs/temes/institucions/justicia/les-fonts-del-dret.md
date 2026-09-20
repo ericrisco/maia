@@ -166,7 +166,7 @@ res.**
    posa com a **criteri que les lleis han de tenir en compte** per fixar la
    competència dels quarts i dels veïnats — no com a font que desplaci la llei.
    Ho recull [l'ordenament jurídic avui](./lordenament-juridic-avui.md).
-5. **Carles Obiols i Taberner** — qui era.
+5. ~~**Carles Obiols i Taberner** — qui era.~~ — **`parcial` el 20-09-2026**: la mateixa fitxa ja l'identifica com el **primer president del Tribunal Superior de la Mitra d'Urgell**; resten obertes la biografia i la trajectòria judicial completes.
 6. ~~**Quines són les fonts del dret avui**, segons la Constitució.~~
    **TANCAT** amb el text de la Constitució:
    [L'ordenament jurídic avui](./lordenament-juridic-avui.md). El vèrtex és la
