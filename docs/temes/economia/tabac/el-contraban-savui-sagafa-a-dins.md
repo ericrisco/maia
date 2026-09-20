@@ -126,8 +126,11 @@ Estadística.`
 - **Els anys anteriors al 2017.** `serie_estadistica`
 - **Quantes persones hi ha detingudes per contraban**, que la taula de
   detencions no desglossa. `font_externa`
-- **Què va passar el 2022**, l'únic any en què el comís es fa a les fronteres.
-  `pregunta_oberta`
+- ~~**Què va passar el 2022**, l'únic any en què el comís es fa a les fronteres~~
+  — **`parcial` el 20-09-2026**: aquell any es van intervenir **70.054**
+  unitats, de les quals **39.694** a la frontera francesa i **22.920** a
+  l'espanyola (**89,4%**), mentre que **7.440 (10,6%)** es van intervenir a
+  l'interior. La font confirma el canvi de lloc i no n'explica la causa.
 - **Què va passar el 2025**, que multiplica per 5,5 l'any anterior.
   `pregunta_oberta`
 - **Les dades franceses i espanyoles de tabac andorrà comissat**, que són l'altra
