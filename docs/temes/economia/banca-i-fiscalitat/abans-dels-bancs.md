@@ -174,9 +174,15 @@ Creuat amb les guies de viatge —**Soldeu a Andorra la Vella, 4 h 15 min amb
 mula** ([les guies de viatge](../../cultura/andorra-vista-de-fora/les-guies-de-viatge.md))—
 dona la mesura real del que costava moure un pagament.
 
+La font de Cerqueda només identifica la **Seu d'Urgell** com el punt bancari
+més proper i hi compta **dos petits bancs**; no en dona els noms ni cap altra
+fitxa identificadora ([text local de la ponència](../../../raw/sac-diades/15a-2002-una-historia-dandorra-tematica.txt)).
+
 ## Buits registrats
 
-1. **Els dos bancs de la Seu**: quins eren.
+1. ~~**Els dos bancs de la Seu**: quins eren.~~ — **`no-es-buit`, confirmat el
+   20-09-2026**: la font només en fixa el nombre i la localització, sense
+   noms ni dades identificadores addicionals.
 2. Els **comptes del Consell General** als anys trenta: quant hi tenia.
 3. ~~La **venda a carta de gràcia** — figura jurídica esmentada també pel notari
    ([el notariat](../../institucions/justicia/el-notariat.md)). **Cap fitxa.**~~
