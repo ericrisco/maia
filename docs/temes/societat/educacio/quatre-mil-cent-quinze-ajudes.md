@@ -111,8 +111,9 @@ del 2024.`
 ## El que falta
 
 - **Els anys anteriors al 2016.** `serie_estadistica`
-- **Per què es denega**: la font dona el nombre de denegacions i **cap motiu.**
-  `font_externa`
+- ~~**Per què es denega**~~ — **`parcial` el 2026-09-20**: la taxa de
+  denegació passa del **10,6% el 2016** al **17,7% el 2024** (**456** casos el
+  2023 i **484** el 2024), però la font no publica cap motiu de denegació.
 - **La renda de les famílies que les demanen**, que és el criteri de la llei i
   **no es publica.** `font_externa`
 - **A quines universitats van els becats**, i a quins països. La fitxa de [la
