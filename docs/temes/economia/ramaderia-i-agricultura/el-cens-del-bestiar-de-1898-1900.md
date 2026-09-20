@@ -166,8 +166,13 @@ cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
    —ni qui els va aixecar, ni amb quin procediment—, i **sense això no se sap
    si compten caps o declaracions.**
    **Prioritari**: és OCR de xifres.
-2. **Si la discrepància de Vilar és d'impremta o d'autor.** El corpus té el text
-   de 1904 i el de 1908 i **no ha vist cap dels dos originals en paper**.
+2. ~~**Si la discrepància de Vilar és d'impremta o d'autor.**~~ — **`parcial` el
+   20-09-2026**: Vilar **1908** i Brutails **1904** coincideixen en **100 cavalls
+   i 7.000 caps de bestiar de llana**, mentre Vilar **1904** dona **10 i 700**;
+   el recompte francès independent també només és compatible amb la primera
+   lectura. L'evidència apunta a una errada de transmissió o impressió en la
+   versió de 1904, però el corpus no ha vist els originals en paper i no pot
+   atribuir-ne la responsabilitat.
 3. **El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***,
    Madrid, 1895, **pàgina 9**, que és d'on surt la quota. Brutails el cita; el
    corpus no el té.
