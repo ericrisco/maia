@@ -245,7 +245,7 @@ pogut datar-ne els anys**.
    ja hi surten els dallaires, les criades, els senyors, els caçadors i
    l'ossa.** **El que segueix obert són els arguments de les parròquies que la
    van perdre**, i **és probable que no existeixin escrits.**
-5. **Qui va escriure l'operació del Carnestoltes**, cap al 1970.
+5. ~~**Qui va escriure l'operació del Carnestoltes**, cap al 1970.~~ — **`no-es-buit` el 20-09-2026**: la ponència local declara que **se’n desconeix l’autor**; la fitxa no en pot donar cap nom sense una font addicional.
 6. ~~**Per què Ordino l'atura el 1959 i el 1992**, i qui la recupera el 1978 i el
    2017~~ — **`parcial` el 20-09-2026**: la cronologia documenta que el ball de
    l'óssa d'Ordino s'atura el **1959**, es recupera el **1978**, torna a aturar-se
