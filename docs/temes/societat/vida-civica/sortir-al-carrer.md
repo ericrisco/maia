@@ -100,6 +100,14 @@ Dues coses que un lector no esperaria trobar al mateix text:
   categories, no dues**—, amb **un Registre integrat d'armes del Principat
   d'Andorra (RIAPA)** a l'article 7. **Les disposicions transitòries parlen de
   categories numerades fins a la desena.**
-- Els **66 articles** de la llei cobreixen molt més (espectacles, animals
+- ~~Els **66 articles** de la llei cobreixen molt més (espectacles, animals
   perillosos, sortida del territori): només se n'han llegit els capítols de
-  reunió, manifestació, armes i prostitució.
+  reunió, manifestació, armes i prostitució.~~ — **`parcial` el 21-09-2026**
+  amb la [Llei qualificada de seguretat pública](../../../raw/lleis/seguretat-publica.txt):
+  el text també regula identificació, escorcolls i controls de circulació
+  (articles 13–18), videovigilància i instal·lacions vulnerables (19–30),
+  esdeveniments amb comunicació prèvia (32), objectes perduts (34), alcohol i
+  drogues, restauració, oci nocturn, alarmes i descans (35–43 bis), i el règim
+  complet d’infraccions, sancions, recursos i registre (44–65). La fitxa ja no
+  presenta aquests capítols com a absents; queden pendents el desenvolupament
+  reglamentari i la comparació de les versions consolidades.
