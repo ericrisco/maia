@@ -38,7 +38,7 @@ maig i l'11 de juny del 2025. **El succeeix
 
 ## Buits registrats
 
-1. **Els seus càrrecs a la Conferència Episcopal Tarraconense i espanyola.**
+1. ~~**Els seus càrrecs a la Conferència Episcopal Tarraconense i espanyola.**~~ — **`resolt` el 20-09-2026**: la [biografia institucional contrastada](../../fonts/vives-carrers-episcopals.md) documenta el càrrec de **bisbe secretari i portaveu de la CET (1997–14-04-2021)**, els encàrrecs de **Seminaris i Pastoral Vocacional (1993–2008)**, **Litúrgia (des de 2004)** i **Ensenyament (1993–2002)**, i la cronologia de les comissions espanyoles de **Seminaris i Universitats**, **Ensenyament i Catequesi**, **Pastoral Social/Justícia i Pau**, **Clergat i Seminaris** i **Litúrgia**.
 2. ~~**Qualsevol font andorrana pròpia** — la biografia ve de la
    Viquipèdia en anglès.~~ — **`parcial` el 20-09-2026**: el [BOPA](../institucions/coprincipat/el-coprincipat.md) ja aporta una font andorrana pròpia per al seu mandat i el relleu —la **Llei 10/2025, del 13 de maig**, encara signada per Vives—, però la biografia general continua venint de la font externa.
 
