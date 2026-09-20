@@ -274,12 +274,14 @@ tandes.**
 
 ## Buits registrats
 
-1. **Com es concilien «una organització judicial distinta i completament
+1. ~~**Com es concilien «una organització judicial distinta i completament
    independent» (p. 331) i «Andorra no és sobirana; les autoritats locals no
-   detenen, en la més petita mesura, la justícia criminal» (p. 329).**
-   **`Divergència interna al cos, registrada i no arbitrada.`**
-   **Prioritari**: **és la segona del llibre que no és en nota, i la primera que
-   és una qualificació jurídica i no una data.**
+   detenen, en la més petita mesura, la justícia criminal» (p. 329).**~~ —
+   **`parcial` el 20-09-2026**: el corpus conserva les dues formulacions i apunta
+   una possible distinció entre la independència de l'organització i la
+   titularitat de la jurisdicció; la mateixa font, però, no les concilia i el
+   corpus no ho fa per ella. La divergència jurídica interna queda documentada,
+   amb el residu d'interpretació obert.
 2. ~~**L'Erratum sencer.** **L'extracció el talla a «*C'est bien vingt-cinq
    annuités*» i no consta què rectifica exactament de la p. 193.**~~ —
    **`resolt` el 16-09-2026 sobre la pàgina impresa** (p. 336, PDF 523 del
