@@ -41,6 +41,14 @@ La versió anterior inferia que la varietat era minoritària a partir del
 país de naixement; la inferència es retira perquè no disposava d'una
 mesura d'ús lingüístic que la sostingués.
 
+Sí que hi ha una taula sociolingüística creuada per **nacionalitat**: la divisió
+1975 de l'API publica l'indicador d'ús del català per a les onades de **1995,
+1999, 2004, 2009, 2014 i 2018**. El 2018 hi consten, per exemple, **79,6** per
+a la sèrie «andorrana», **46,4** per a «espanyola, llengua materna castellà»,
+**84,4** per a «espanyola, llengua materna català», **27,7** per a «francesa» i
+**27,9** per a «portuguesa». ([API d'usos lingüístics, divisió 1975](../../../raw/estadistica-api/llengua/usos-linguistics-api-2026-09-18.tsv);
+[lectura de les sis onades](../../llengua/politica-linguistica/sis-onades-en-una-taula.md).)
+
 ## Related
 
 - [Immigració](../immigracio/immigracio.md) — d'on ve la gent.
@@ -65,9 +73,14 @@ mesura d'ús lingüístic que la sostingués.
 - La trajectòria històrica de la immigració portuguesa i l'afirmació sobre
   prioritats de les quotes del 2002 resten pendents de fonts exactes.
   La taula de nacionalitats de 2026 no les verifica.
-- No s'ha llegit una taula d'ús lingüístic per origen que permeti estimar
+- ~~No s'ha llegit una taula d'ús lingüístic per origen que permeti estimar
   parlants de la varietat andorrana. Nacionalitat i naixement no resolen
-  aquest buit.
+  aquest buit.~~ — **`parcial` el 20-09-2026**: la divisió 1975 de l'API sí
+  publica l'ús del català per nacionalitat i, en el cas de la nacionalitat
+  espanyola, separa la llengua materna catalana de la castellana, amb sis
+  onades entre 1995 i 2018. La taula no és una classificació per lloc de
+  naixement ni una mesura de la varietat andorrana; aquest residu continua
+  obert.
 - ~~No s'han llegit les p. 2–6 i 9–11 de la nota mensual ni cercat encara
   les peces històriques anteriors.~~ — **`parcial` el 19-09-2026**: s'ha llegit
   la nota completa (p. 1–12). Les p. 2–6 aporten la distribució per sexe, edat,
