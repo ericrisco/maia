@@ -215,8 +215,13 @@ tribunal**.
    > **Dues institucions que miraven al sud per raons diferents**: **la sanitat
    > perquè els papers hi valien**, **i la justícia perquè els graduats hi
    > eren.**
-7. **Quan es va invertir la tendència**, si es va invertir: Brutails ja hi veu
-   que «l'activité andorrane s'oriente manifestement vers la France».
+7. ~~**Quan es va invertir la tendència**, si es va invertir: Brutails ja hi veu
+   que «l'activité andorrane s'oriente manifestement vers la France».~~ —
+   **`parcial` el 2026-09-20**: el mateix passatge situa **abans de 1904** unes
+   escoles franceses i cursos de francès ja reeixits a Andorra la Vella, Encamp,
+   Sant Julià i Escaldes, i atribueix a Romeu que n'obtingués la creació.
+   **El moment exacte del canvi de tendència i si va ser un gir únic continuen
+   oberts.**
 
 ## Related
 
