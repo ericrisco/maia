@@ -584,10 +584,14 @@ facin, seria un tret; amb això, és una frase repetida.
 2. **La densitat de marcadors pot estar subestimada.** Whisper tendeix a ometre
    titubeigs; si n'ha omès, el 11 % és un **terra**, no un sostre. **No es pot
    saber quant sense escoltar.**
-3. **Els noms propis cauen.** `[?passos] [?perdurs]` per *sala dels passos
+3. ~~**Els noms propis cauen.** `[?passos] [?perdurs]` per *sala dels passos
    perduts* (00:00:58), `[?plancartes]` per *pancartes* (00:00:23), i persones
    citades —«el Clemens pel mig de Vila» (00:09:13), «Josep Maria Béal»— que
-   **no s'han pogut identificar** i que probablement són mal sentides.
+   **no s'han pogut identificar** i que probablement són mal sentides.~~ —
+   **`parcial` el 20-09-2026**: la prosa i la [transcripció d'una altra entrevista
+   constituent](testimoni-constituent-jordiareny.md) confirmen **sala dels Passos
+   Perduts**, **pancartes** i **Josep Maria Béal**, repetit dues vegades en
+   aquesta altra peça. Encara no s'identifica «el Clemens pel mig de Vila».
 4. **`[?proven] el pressupost`** (00:00:49) és quasi segur *aprovin*, però va marcat.
 
 **Sobre la parlant**
