@@ -225,11 +225,15 @@ Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
    dels guanys d'un matrimoni andorrà.** **Sense això no es pot dir si la reserva
    per testar era generosa o simbòlica.** `Requereix una sèrie de preus o salaris
    andorrans del segle XIX.`
-6. **Si aquesta donació entre cònjuges necessitava alguna autorització.** La
-   [venda a carta de gràcia de
-   1788](../antic-regim/es-va-treure-el-barret-perque-feia-vent.md)
-   es va fer «ab la authoritat y decret del honorable Balthasar Perich, Battle»;
-   **aquí no hi intervé cap batlle**, i **la font no diu si calia o no.**
+6. ~~**Si aquesta donació entre cònjuges necessitava alguna autorització.**~~ —
+   **`parcial` el 21-09-2026**: en la peça IX la donació recíproca dels cònjuges
+   sense fills es formalitza davant del notari i **no hi intervé cap batlle**;
+   per tant, l’acte concret no mostra una autorització judicial. La [venda a
+   carta de gràcia de 1788](../antic-regim/es-va-treure-el-barret-perque-feia-vent.md)
+   sí que porta «ab la authoritat y decret del honorable Balthasar Perich,
+   Battle», però és un altre negoci jurídic. **La font no permet establir si
+   existia una regla general d’autorització per a totes les donacions entre
+   cònjuges.**
 7. ~~**Què passava si el supervivent es tornava a casar.**~~ — **`parcial` el
    2026-09-18**: **l'acte no ho preveu**, però la font registra un contracte del
    **1865-1870** que sí que hi entrava —donació recíproca «tant si guardaven
