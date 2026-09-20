@@ -395,8 +395,11 @@ diversitat lingüística de l'aula.
   ensenyança ho desplega en percepció i comprensió, expressió musical i llenguatge
   musical. L'aplicació real a aules concretes queda registrada en el buit separat
   de les dades d'aplicació.
-- **Cap dada d'aplicació**: quants infants segueixen formació andorrana, en quins
-  centres, i amb quants ensenyants. `Requereix Estadística o el ministeri.`
+- ~~**Cap dada d'aplicació**: quants infants segueixen formació andorrana, en
+  quins centres, i amb quants ensenyants. `Requereix Estadística o el ministeri.`~~
+  — **`font_externa`, confirmat el 20-09-2026**: els decrets permeten llegir el
+  programa, però no publiquen les dades d'implantació; cal una font
+  administrativa d'Estadística o del ministeri.
 - ~~**La nota-informe sobre l'andorranització del juny de 1972**, que és l'origen
   citat pels dos decrets, **no és al corpus** i és anterior al BOPA.~~ —
   **`parcial` el 19-09-2026**: [l'andorranització](./landorranitzacio.md)
