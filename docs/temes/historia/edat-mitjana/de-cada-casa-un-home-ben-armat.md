@@ -467,9 +467,13 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    La lectura lèxica queda acotada a **«a l'estany» o «a l'aigua estancada»**;
    encara no se sap quin lloc concret designa ni quin sentit jurídic té la
    fórmula dins la Treva de Déu.
-8. **Els *usatges* que els andorrans tenien amb els seus *frontalers*.** **El
+8. ~~**Els *usatges* que els andorrans tenien amb els seus *frontalers*.** **El
    document els reconeix com a dret aplicable i no en dona cap.** **Prioritari:
-   és el dret internacional andorrà més antic de què el corpus té notícia.**
+   és el dret internacional andorrà més antic de què el corpus té notícia.**~~ —
+   **`parcial` el 20-09-2026**: la mateixa fitxa ja explica que els *frontalers*
+   són veïns de frontera amb pau o jurament i que el bisbe ha de fer-los justícia
+   **«segons els usatges que tenim amb ells»**; queda identificada la funció del
+   dret fronterer, però no la llista ni el text dels usatges.
 9. **Quines esglésies deia el bisbe que els andorrans posseïen injustament**, i
    **com va acabar.** **El document ajorna la qüestió i el corpus no en té la
    continuació.**
