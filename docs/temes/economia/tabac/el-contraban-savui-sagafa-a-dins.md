@@ -131,8 +131,12 @@ Estadística.`
   unitats, de les quals **39.694** a la frontera francesa i **22.920** a
   l'espanyola (**89,4%**), mentre que **7.440 (10,6%)** es van intervenir a
   l'interior. La font confirma el canvi de lloc i no n'explica la causa.
-- **Què va passar el 2025**, que multiplica per 5,5 l'any anterior.
-  `pregunta_oberta`
+- ~~**Què va passar el 2025**, que multiplica per 5,5 l'any anterior~~ —
+  **`parcial` el 20-09-2026**: es van intervenir **245.207** unitats, contra
+  **44.515 el 2024**; **244.656 (99,8%)** es van comissar a l'interior, **473**
+  a la frontera francesa i **78** a l'espanyola, i el **91,0%** va anar per via
+  penal. La font quantifica l'augment i la seva distribució, però no explica
+  quin operatiu o fet el va provocar.
 - **Les dades franceses i espanyoles de tabac andorrà comissat**, que són l'altra
   meitat del fenomen. `font_externa`
 - **El valor econòmic** del que s'intervé. `font_externa`
