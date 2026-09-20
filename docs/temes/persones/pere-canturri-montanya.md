@@ -79,9 +79,9 @@ estudiants universitaris que investiguen temes d'història andorrana —
 
 1. **L'inventari complet de les quinze obres**: només dues ponències i
    un llibre són al corpus.
-2. **La contrastació individual** de les desenes de citacions que el
+2. ~~**La contrastació individual** de les desenes de citacions que el
    corpus li atribueix, article per article — tasca de manteniment, no
-   de recerca.
+   de recerca.~~ — **`no-es-buit` el 20-09-2026**: la mateixa fitxa la defineix explícitament com una **tasca de manteniment**, no com una dada factual absent.
 3. ~~**La denúncia del 2005-2007 sobre la presó, com a episodi polític
    propi** —ja narrada des del punt de vista de la reforma penitenciària
    a [la presó sense llei](../institucions/justicia/la-preso-sense-llei.md),
