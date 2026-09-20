@@ -235,9 +235,10 @@ les actes.`
   norma i data per data. El corpus té **els dos salts de l'índex** i **una
   menció de l'abonament gratuït**, i **no ha creuat cap de les dues coses amb el
   BOPA**.~~ — **`parcial` el 19-09-2026**: la nota oficial del Govern del **1 de juliol de 2022** confirma l'entrada en vigor de l'abonament mensual gratuït per a les línies nacionals, com a prova pilot fins al 31 de desembre, i la del **6 de setembre de 2022** confirma un reforç de **18 autobusos** en hores punta a partir de l'inici del curs, motivat per l'augment d'usuaris de l'abonament gratuït i del Bus Jove. Són les dues mesures que el corpus pot assignar als salts de juliol i setembre; encara no hi ha al corpus la norma o l'acte del BOPA que permeti atribuir-los norma per norma a l'índex. Fonts: [`2022-07-01-abonament-gratuit.txt`](../../../raw/web/economia/transport/2022-07-01-abonament-gratuit.txt) i [`2022-09-06-reforc-bus-jove.txt`](../../../raw/web/economia/transport/2022-09-06-reforc-bus-jove.txt).
-- **Els preus abans del 1997 no existeixen com a sèrie.** L'índex andorrà
-  comença el **desembre del 1997**. Per a qualsevol cosa anterior —el que
-  costava el pa als anys cinquanta, la pesseta contra el franc— **el corpus
-  depèn de preus solts citats en textos**, no d'un índex.
+- ~~**Els preus abans del 1997 no existeixen com a sèrie.**~~ — **`no-es-buit el
+  2026-09-20`**: l'índex andorrà comença el **desembre del 1997**; per a
+  qualsevol cosa anterior —el que costava el pa als anys cinquanta, la pesseta
+  contra el franc— el corpus només té preus solts citats en textos, no un índex
+  històric.
 - ~~**No hi ha IPC per parròquia** ni per tipus de llar.~~ — **`no-es-buit`**:
   l'índex de la font és d'Andorra sencera i no publica aquest desglossament.
