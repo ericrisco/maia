@@ -147,6 +147,29 @@ compra un home.**
 **I els menors de trenta anys en compren un de cada tretze.** **Els de seixanta
 o més en compren tres vegades més que ells.**
 
+## Què és el que es transmet
+
+La taula anual de tipologia separa els **6.356 béns immobles del 2025**. Els
+pisos i els habitatges unifamiliars sumen **2.141 béns, el 33,7%**; els
+aparcaments en són **2.504, el 39,4%**. La font manté separats els terrenys,
+locals, magatzems, edificis i altres construccions:
+
+| Tipologia del bé, 2025 | Béns | % del total |
+| --- | ---: | ---: |
+| Pis | 2.004 | 31,5% |
+| Habitatge unifamiliar | 137 | 2,2% |
+| Aparcament | 2.504 | 39,4% |
+| Terreny | 276 | 4,3% |
+| Local comercial | 76 | 1,2% |
+| Magatzem | 3 | 0,0% |
+| Edifici | 7 | 0,1% |
+| Altres construccions | 1.349 | 21,2% |
+| **Total** | **6.356** | **100%** |
+
+(`docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-energia-api-2026-09-18.tsv`,
+divisió **995**, «Béns immobles transmesos per tipologia de bé immoble
+(anual)».)
+
 ## El que falta
 
 - ~~**Què va passar el 2011**, quan les societats de capital resident van
@@ -169,9 +192,13 @@ o més en compren tres vegades més que ells.**
   físiques**), mentre la comunitat portuguesa del país ronda les **9.000
   persones**. La font no creua les compres amb renda, antiguitat de residència
   ni altres variables que permetrien explicar la diferència.
-- **Quina part dels béns transmesos són habitatges** i quina part són places
-  d'aparcament, trasters, terrenys o locals. **La taula per tipologia existeix i
-  aquesta fitxa no l'ha buidada.** `serie_estadistica`
+- ~~**Quina part dels béns transmesos són habitatges** i quina part són places
+  d'aparcament, trasters, terrenys o locals.~~ — **`resolt` el 20-09-2026**:
+  la taula anual de tipologia de la font separa els **6.356 béns del 2025**;
+  els habitatges (pisos i unifamiliars) són **2.141 (33,7%)**, els aparcaments
+  **2.504 (39,4%)**, els terrenys **276 (4,3%)**, els locals comercials
+  **76 (1,2%)** i els magatzems **3**. La resta són **1.356 béns (21,3%)**:
+  edificis i «altres construccions».
 - **La relació entre aquesta sèrie i la de transaccions immobiliàries**, que
   compta 2.175 on aquesta en compta 6.356. `pregunta_oberta`
 
