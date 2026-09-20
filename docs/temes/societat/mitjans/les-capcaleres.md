@@ -166,8 +166,13 @@ aquell any.**
 
 ## El que falta
 
-- **Les dates exactes de *Les Valls d'Andorra***, on les dues fonts discrepen.
-  **Prioritari.**
+- ~~**Les dates exactes de *Les Valls d'Andorra***, on les dues fonts discrepen.~~
+  — **`parcial` el 20-09-2026**: la fitxa [La censura de
+  premsa](./la-censura-de-premsa.md) conserva la seqüència que dona Giralt:
+  **primer número el gener de 1917**, **reaparició el 19 de gener de 1919** i
+  **decret de premsa el 7 de maig de 1919**. **Sorribes dona el 8 de maig de
+  1919 per a la reaparició**, de manera que la divergència entre les dues fonts
+  queda registrada i no arbitrada.
 - ~~**Per què es va tancar *P.P.*** per sentència del Tribunal de Corts.~~ — **`parcial` el 20-09-2026**: la font en fixa el període **1973–1975**, els **113 números**, el **tancament per sentència del Tribunal de Corts el 1975** i la direcció de **Manuel Sansa**. **No hi consten el motiu ni el text de la sentència.**
 - **On s'imprimia *Andorra Agrícola***, si a Andorra no hi havia impremta.
 - **La col·lecció de *Poble Andorrà*** (1974-1977), que és **el primer diari en
