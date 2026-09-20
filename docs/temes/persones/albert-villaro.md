@@ -83,8 +83,10 @@ totes dues coses alhora.**
    els càrrecs de director de Cultura, director d'Arxius, Patrimoni i Recerca i
    coordinador d'història d'Andorra Recerca + Innovació. La bibliografia
    completa i les dates precises dels càrrecs encara no consten.
-2. **El contingut complet d'*Estudis polítics i historiografia
-   andorrana*** — el corpus en cita fragments, no l'obra sencera.
+2. ~~**El contingut complet d'*Estudis polítics i historiografia
+   andorrana*** — el corpus en cita fragments, no l'obra sencera.~~ —
+   **`resolt` el 20-09-2026**: llegit l'estudi complet d'**Albert Villaró**
+   ([text conservat](../../raw/academic/historiografia/iea-estudis-politics-i-historiografia-andorrana.txt)). La peça s'organitza en **dotze seccions**, des de les fonts documentals fins als llibres de text i les conclusions, i perioditza la historiografia en tres fases: **la descoberta (1749–1950)**, **la mirada interior (1950–2000)** i **la fragmentació (2000–avui)**. El capítol final proposa una quarta fase de **consolidació**, amb professionalització de la recerca, retorn del coneixement a la societat, un portal digital amb repositori, un anuari de referència, renovació dels llibres de text, col·laboració institucional i beques.
 
 ## Related
 
