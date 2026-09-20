@@ -238,12 +238,12 @@ educatiu estranger **formant cambrers per a Andorra**. Vegeu
    consta és **què en surt**: dels alumnes de nacionalitat francesa, **el 66% diu
    que entén bé el català i el 52% que el parla bé**, trenta punts per sota dels
    d'origen portuguès.
-5. **Per què els portuguesos trien l'escola francesa** — és la dada més
-   intrigant de la fitxa. — **`obert` quant al perquè; quantificat quant al
-   quant.** El curs 2011-2012, **el 44% dels alumnes d'origen portuguès** i **el
-   30% dels andorrans** eren al sistema francès. **Compte amb el denominador**:
-   aquesta fitxa diu *qui hi ha a l'escola francesa* i aquella diu *on va cada
-   grup*. **No són la mateixa pregunta i no es contradiuen.**
+5. ~~**Per què els portuguesos trien l'escola francesa**~~ — **`parcial` el
+   20-09-2026**: el curs **2011-2012**, el **44% dels alumnes d'origen
+   portuguès** i el **30% dels andorrans** eren al sistema francès. Les dades
+   quantifiquen la tria, però cap font del corpus n'explica el motiu. **Compte
+   amb el denominador**: aquesta fitxa diu *qui hi ha a l'escola francesa* i
+   aquella diu *on va cada grup*; no són la mateixa pregunta.
 6. ~~**L'ensenyament espanyol** i **el confessional**: ponències del mateix
    volum, **pendents**.~~ — **`resolt` el 18-09-2026**: **totes dues tenen
    fitxa**, [L'ensenyament espanyol](./lensenyament-espanyol.md) —**deu centres
