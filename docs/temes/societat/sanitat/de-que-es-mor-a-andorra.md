@@ -151,9 +151,11 @@ posterior. **Les xifres es citen totes dues amb la seva font i no s'arbitra.**
 
 ## El que falta
 
-- **Les causes any per any.** **La font només publica quinquennis mòbils**, i
+- ~~**Les causes any per any.** **La font només publica quinquennis mòbils**, i
   **això impedeix dir quantes morts per Covid-19 hi va haver el 2020 i quantes
-  el 2021** sense restar quinquennis, que és una estimació i no una dada.
+  el 2021** sense restar quinquennis, que és una estimació i no una dada.~~ —
+  **`no-es-buit` el 20-09-2026**: la sèrie disponible no publica el desglossament
+  anual i la resta de quinquennis només produiria una estimació.
 - **La classificació exacta que es fa servir** —CIM-9, CIM-10 o una adaptació—
   i **on cau la demència.** `La taula no ho declara.`
 - ~~**L'esperança de vida per sexe**, que no és en aquesta branca de l'API.~~ —

@@ -257,8 +257,10 @@ resol: l'evita.**
   mateixa categoria que els «nats a Andorra» de Becat. **Sense això, els sis punts
   i mig de recompte són un màxim, no una mesura.** `Requereix el Registre del Cens
   Comunal i la llei de la nacionalitat.` **Buit prioritari.**
-- **De qui és el 16,4 % de pares que la font no declara.** Tres percentatges
-  sumen 83,6 i el quart no hi és.
+- ~~**De qui és el 16,4 % de pares que la font no declara.** Tres percentatges
+  sumen 83,6 i el quart no hi és.~~ — **`no-es-buit` el 20-09-2026**: la
+  taula publica només les tres categories identificades i deixa el **16,4 %**
+  sense atribució; el corpus no pot reconstruir-ne l'origen.
 - **Com un fill de pares portuguesos arriba a «nascut andorrà» el 2007**, amb una
   immigració recent i la nacionalitat als divuit anys.
 - **Les dades de matrimonis mixtos**, que segons les autores **no existeixen**. El
