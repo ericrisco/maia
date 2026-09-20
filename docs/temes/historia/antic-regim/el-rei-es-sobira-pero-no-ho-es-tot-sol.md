@@ -315,7 +315,12 @@ mateixa família.`
     1258 i 1278; [la fitxa de Vilar sobre la paraula república](../segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md)
     conserva l'altra lectura, que Corbeil afectà l'Urgell però no Andorra.
     **El tractat original i la resolució de la divergència continuen oberts.**
-11. **Si el títol gravat al palau episcopal d'Urgell hi és encara.**
+11. ~~**Si el títol gravat al palau episcopal d'Urgell hi és encara.**~~ —
+    **`parcial` el 2026-09-20**: Vilar transcriu el 1904 el títol ***Principe
+    soberano de las Valles de Andorra*** com a gravat al palau episcopal
+    d'Urgell, i la mateixa fitxa en conserva el context històric. **No consta
+    cap comprovació posterior que permeti afirmar que la inscripció encara hi
+    és.**
 
 ## Related
 
