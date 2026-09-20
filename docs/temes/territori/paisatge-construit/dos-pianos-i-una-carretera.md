@@ -194,8 +194,14 @@ projecte d'explotació del granit andorrà.
 
 1. **Qui demanava els monopolis de força a distància el 1904**, i què se'n va
    fer. **Prioritari** — és la prehistòria de FHASA.
-2. **Quan es va acabar la carretera de França a Soldeu**, i si es va continuar
-   cap a Espanya com es projectava.
+2. ~~**Quan es va acabar la carretera de França a Soldeu**, i si es va continuar
+   cap a Espanya com es projectava.~~ — **`resolt` el 21-09-2026**: la carretera
+   **Soldeu–Pas de la Casa** es va lliurar el **novembre de 1903**; la connexió
+   francesa amb **l’Ospitalet** es va acabar l’**octubre de 1910** i el primer
+   automòbil va entrar el **13 d’agost de 1911**. No es va prolongar aquella
+   mateixa via fins a Espanya: la connexió espanyola va ser la carretera
+   **Andorra la Vella–la Seu d’Urgell**, inaugurada el **24 d’agost de 1913** i
+   acabada completament el **1915** ([cronologia de carreteres](../../../raw/web/territori/carreteres/README.md)).
 2 bis. **Com es va aplicar la decisió de pagar només els immobles bastits**, i
    **si el Consell va arribar mai a saldar el capital dels terrenys.** **La font
    diu «hi hauria molt a dir» i no ho diu.** **Prioritari.**
