@@ -276,8 +276,14 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
 
    `De dècades anteriors al 2004 encara cal una altra font.`
 6. **Quines famílies** hoteleres continuen, i des de quin hostal comunal.
-7. **L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
-   inaugurat».
+7. ~~**L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
+   inaugurat».~~ — **`parcial` el 20-09-2026**: la font sobre el [Centre d'Art
+   d'Escaldes-Engordany](../../../fonts/wikipedia-ca-centre-art-escaldes-engordany.md)
+   identifica l'edifici com un annex de l'Hostal Valira construït pels monjos
+   benedictins de Montserrat entre **1932 i 1933**; la cronologia local també en
+   situa la construcció el **1933**. El corpus encara no documenta el dia de
+   la inauguració ni si «recentment inaugurat» descriu l'obertura de l'hotel o
+   només la finalització de l'edifici.
 
 ## Related
 
