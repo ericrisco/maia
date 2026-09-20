@@ -112,6 +112,10 @@ els horaris, el descans dominical **o el rètol** és infracció (article 8).
 
 El [registre oficial d'acords i convenis col·lectius en vigor](../../../raw/web/economia/treball/registre-acords-convenis-2026/registre-acords-convenis-2026.txt), actualitzat el **7 d'abril de 2026**, llista **15 empreses**: **10 acords col·lectius d'empresa** i **5 convenis col·lectius d'empresa**. El document no dona el sector d'activitat, de manera que no permet separar quines empreses són comerços ni comptar quants establiments poden acollir-se a l'horari lliure.
 
+## Les tres versions de la llei
+
+La [fitxa de situació del Portal Jurídic](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/README.md) conserva tres instantànies: l'**original del 20 de gener de 2011**, el **text refós 1 del 9 de setembre de 2011** i el **text refós 2 de l'11 de juliol de 2013**. La comparació dels [tres textos](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/README.md) mostra que el refós 1 incorpora la Llei 7/2011: fixa el règim general de **7 a 22 h i 84 hores setmanals**, supedita l'horari lliure al conveni col·lectiu, afegeix la suspensió del tancament del 14 de març i amplia el control i les sancions. El refós 2 només modifica l'article 4.5 per incloure també les **botigues de conveniència de benzinera** entre els establiments exempts.
+
 ## Buits registrats
 
 - ~~**Quants comerços tenen conveni col·lectiu**, i per tant horari lliure, no
@@ -153,8 +157,11 @@ El [registre oficial d'acords i convenis col·lectius en vigor](../../../raw/web
   comerç** instrueix i resol el que és d'horaris i de publicitat d'horaris, i
   **el de treball**, el que és de descans dominical. **La mateixa botiga oberta
   un diumenge pot rebre dos expedients de dos ministeris diferents.**
-- **Les 3 versions consolidades no s'han comparat**: no se sap si els quatre
-  dies de tancament n'han estat sempre quatre.
+- ~~**Les 3 versions consolidades no s'han comparat**: no se sap si els quatre
+  dies de tancament n'han estat sempre quatre.~~ — **`resolt` el 2026-09-20**: la
+  comparació de l'original (20-01-2011), el refós 1 (09-09-2011) i el refós 2
+  (11-07-2013) conserva els canvis de la Llei 7/2011 i de la Llei 12/2013;
+  els quatre dies de tancament ja apareixen a l'original.
 - ~~**La Llei del comerç** (Llei 12/2013, 111 articles) és al recull i **queda per
   llegir**: aquesta fitxa només cobreix els horaris.~~ — **`parcial` el
   17-09-2026**: llegida al [BOPA](../../../fonts/bopa.md), butlletí **32 del
