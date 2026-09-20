@@ -363,10 +363,11 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
 7. ~~**Quants** marxaven, de quina edat, i si tornaven. ~~— **`obert`, confirmat.**
    **Cap font del corpus no en dona xifres.** **De l'edat sí que se'n sap una
    cosa**: **al *tragí* hi anaven «homes joves i fins i tot adolescents»**.
-8. **NOU, i és el més gran:** **la migració femenina andorrana.** **Anaven a
-   Barcelona i a les ciutats de Catalunya, i també a França, de *minyones*.**
-   **El corpus no en té res més que aquesta frase**: ni quantes, ni quan, ni
-   si tornaven, ni què en va ser.
+8. ~~**NOU, i és el més gran:** **la migració femenina andorrana.**~~ —
+   **`parcial` el 2026-09-20**: la font identifica el fenomen i les destinacions
+   —**Barcelona i altres ciutats de Catalunya, i França**— i l'ofici de
+   **minyona**. **No en dona el nombre, la cronologia, el retorn ni el destí
+   posterior**, i el corpus encara no té una sèrie per completar-los.
    `Requereix font externa, i sobretot [parla](../../../parla/README.md).`
 
 ## Related
