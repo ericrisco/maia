@@ -223,7 +223,13 @@ més que el 2020, perquè **les cases baixen del 9,3% al 7,8%**.
 
 ## Buits registrats
 
-- **Si s'ha aplicat mai**, no consta. El corpus té el procediment i cap cas.
+- ~~**Si s'ha aplicat mai**, no consta. El corpus té el procediment i cap cas.~~ —
+  **`parcial` el 20-09-2026**: la [Llei del pressupost 2026](../../../raw/pressupost-2026/bopa-llei-1-2026.txt)
+  reserva el subconcepte **22630 «Jurisdicció i contenciosos»** per a les
+  despeses de procediments judicials vinculats a les cessions obligatòries i
+  temporals d'habitatges buits, i el **48266** per a les contraprestacions de
+  cessions voluntàries i obligatòries. Això prova que el mecanisme té via
+  pressupostària, però no identifica cap expedient ni cap cessió executada.
 - ~~**Quants habitatges buits hi ha a Andorra**~~ — **`parcial` el 17-09-2026**:
    la llei els defineix i no els compta. **Cap estadística no en publica el
   nombre**, però dues n'acoten l'ordre de magnitud — vegeu
