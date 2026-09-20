@@ -245,8 +245,14 @@ Caldes**.
    de juny de 1834 i del 19 de juny de 1866**, sencers. **Prioritari**: són la
    cadena que porta al decret de 1854 i el corpus només en té les citacions.
    `Requereix font externa: els llibres d'acords del Consell General.`
-2. **Si el 3 % del Consell General de 1833-1834 es va aplicar mai**, i **si el
-   decret episcopal de 1854 el va derogar expressament.** **Registrat, no arbitrat.**
+2. ~~**Si el 3 % del Consell General de 1833-1834 es va aplicar mai**, i **si el
+   decret episcopal de 1854 el va derogar expressament.**~~ — **`parcial` el
+   20-09-2026**: el Consell General el decreta el **17 de desembre de 1833** i
+   el fa extensiu als censals creats i futurs el **14 de juny de 1834**; el
+   Bisbe el fixa en **3,33 %** el **4 d'agost de 1854**, i el Consell ho manté el
+   **19 de juny de 1866**. La cronologia demostra quin tipus prevalia el 1866,
+   però no prova si el 3 % es va aplicar efectivament ni si hi hagué derogació
+   expressa.
 3. **Què va respondre el Govern francès** a la sol·licitud d'aprovació de desembre
    de 1833. **La font no ho diu.**
 4. ~~**Les peces justificatives p. XXIX (creació de censal del 13-01-1788), p. XXXII
