@@ -97,12 +97,14 @@ andorrana. **I el corpus gairebé no en sap res.**
   2026-09-19**: el portal institucional ja està identificat com a font
   potencial per a aquesta branca, però el corpus encara no l'ha pogut obrir.
 - El **voluntariat** i com es mobilitza la gent.
-- **Com es discrepa en públic** en un país on tothom es coneix —
+- ~~**Com es discrepa en públic** en un país on tothom es coneix —
   [convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md).
   — **`obert`, i confirmat que ho seguirà sent per un motiu de mètode.**
   **Aquella fitxa declara explícitament que aquesta branca «no s'omple
   llegint»**: **el que aquí es demana no és a cap document, és a la conversa**.
-  **Va a [parla](../../../parla/README.md), no a bibliografia.**
+  **Va a [parla](../../../parla/README.md), no a bibliografia.**~~ —
+  **`no-es-buit` el 20-09-2026**: és una línia de recerca oral, no una dada
+  absent que es pugui tancar amb documents del corpus.
 
 ## Related
 
