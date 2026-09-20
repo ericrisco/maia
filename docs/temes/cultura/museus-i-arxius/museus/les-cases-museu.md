@@ -116,13 +116,21 @@ país».**
 
 **La visita ofereix una demostració in situ del funcionament.**
 
+La descripció local de les cases museu només presenta els **Cristo** com una
+família humil dedicada a la pagesia i descriu **Cal Pal** com una casa
+vernacular i un espai patrimonial; no hi afegeix noms propis ni una genealogia
+([fitxa de Museus d'Andorra](../../../../raw/web/museus/Museus_d_Andorra-ca.wiki)).
+
 ## El que falta
 
 - ~~**Els Rull**~~ — **tancat el mateix dia**:
   [la nissaga Perich](../../../historia/antic-regim/la-nissaga-perich.md) dona
   dotze generacions de la Casa Rull, del 1600 al 1959, i explica per què la casa
   s'ha dit Naufreu, Rossell, Pal i Perich sense deixar de ser la mateixa casa.
-- **Els Cristo i els Pal**: **segueixen sense genealogia i sense nom propi.**
+- ~~**Els Cristo i els Pal**: **segueixen sense genealogia i sense nom propi.**~~
+  — **`no-es-buit`, confirmat el 20-09-2026**: la font local només dona el
+  descriptor social dels Cristo i la descripció arquitectònica de Cal Pal; no
+  hi consta cap genealogia ni cap nom propi addicional.
 - ~~**Les darreres propietàries de Casa Cristo**, i per què van marxar a França.~~ **[parcial · 2026-09-19]** La fitxa ja estableix que eren les darreres propietàries de la casa i que es van establir a **França cap als anys cinquanta**. El motiu concret de la marxa encara no consta.
 - ~~**L'emigració andorrana**~~ — [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
 - ~~**Els boquers amb rostres humans de Cal Pal.**~~ **[parcial · 2026-09-19]** La fitxa ja els situa a la **façana nord-oest** de Cal Pal i els descriu com a **caps de biga amb rostres humans**. L'inventari i el detall constructiu complet encara no consten.
