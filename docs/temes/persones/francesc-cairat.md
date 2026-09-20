@@ -88,7 +88,7 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
 1. ~~**Qui era.** Any i lloc de naixement, casa, ofici, any de mort.~~ —
    **tancat en part**: 1880-1968, de Sant Julià de Lòria. **Casa i ofici,
    oberts.**
-2. **Com i quan es treu el límit de mandat**, i **quan es torna a posar**.
+2. ~~**Com i quan es treu el límit de mandat**, i **quan es torna a posar**.~~ — **`parcial` el 20-09-2026**: Bascompte diu que el **Consell General** va decidir, en els moments difícils de **1937**, que la sindicatura no tingués durada limitada, i Cairat la va ocupar fins al **1960**. **La font no identifica l’acta ni data quan es va restablir el límit.**
 3. **Si va ser reelegit cada any** o el càrrec va quedar obert.
 4. **Què va fer exactament durant la Segona Guerra Mundial**: quines decisions,
    quins documents. **Buit prioritari** — és el període més mitificat i menys
