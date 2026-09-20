@@ -94,9 +94,20 @@ no freqüències d'accidents observades en edificis andorrans.
 - No s'ha consultat cap inventari de boscos R7, informe de revisió,
   expedient de desallotjament, escriptura ni contracte. La prescripció
   publicada no acredita el seu compliment efectiu.
-- Falta contrastar les remissions a la Llei general d'ordenació del
+- ~~Falta contrastar les remissions a la Llei general d'ordenació del
   territori i urbanisme i la jurisprudència sobre responsabilitat,
-  renúncia de reclamacions, declaració de ruïna i transmissions.
+  renúncia de reclamacions, declaració de ruïna i transmissions.~~ —
+  **`parcial` el 20-09-2026**: el text refós de 2019 atribueix al propietari
+  la inspecció, el manteniment i la reparació, incloses les proteccions contra
+  riscos naturals, i ordena fer constar aquesta responsabilitat en totes les
+  escriptures de transmissió (article 127.2). L'article 129 permet declarar la
+  ruïna quan la rehabilitació supera el 50% del valor de l'edifici, hi ha
+  feblesa estructural generalitzada o les obres no són autoritzables per estar
+  fora d'ordenació; el comú pot ordenar el desallotjament urgent (article
+  129.1–3). ([Text refós d'ordenació del territori i urbanisme, articles
+  127 i 129](../../../raw/lleis/bopa/decret-legislatiu-2019-text-refos-ordenacio-territori-urbanisme.txt).)
+  No s'ha localitzat jurisprudència sobre aquests punts ni sobre la renúncia
+  de reclamacions de l'annex V del reglament d'allaus.
 - No s'ha verificat la metodologia completa per calcular el risc
   residual ni s'ha fet cap avaluació de seguretat d'una propietat.
 - La cadena de modificacions i de cartografia posterior resta oberta;
