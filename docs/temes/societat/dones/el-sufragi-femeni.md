@@ -250,7 +250,9 @@ de cada moment i no pas a un programa preordenat»**
    *(ANA ASC 9.491, fol. 4.889)*.
 
    **La primera dona al Consell General hi entra per la porta que obre un home
-   que se'n va al Govern.** `Requereix qui era ella; això segueix obert.`
+   que se'n va al Govern.** ~~**Qui era ella.**~~ — **`resolt` el 20-09-2026**:
+   **Mercè Bonell Bertran**, identificada a l'acta del **20 de novembre de
+   1984** com la consellera que substitueix Bonaventura Riberaygua.
 4. ~~**Maria Teresa Armengol i Bonet**: biografia, parròquia, any de naixement.
    La primera parlamentària del país **i no en sabem la parròquia**.~~ — **`parcial` el 20-09-2026**: la mateixa fitxa documenta que fou la primera dona elegida al Consell General el **1985** i la primera dona al Consell Superior de la Justícia el **2005**; resten obertes la biografia, la parròquia i l'any de naixement.
 5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
