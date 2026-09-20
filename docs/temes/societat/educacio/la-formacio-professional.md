@@ -222,8 +222,8 @@ volum expliquen com els pares trien sistema educatiu.
 
 ## Buits registrats
 
-- **Si es va crear el marc legal general de la FP** que la Comissió Nacional va
-  encomanar per al curs següent.
+- ~~**Si es va crear el marc legal general de la FP** que la Comissió Nacional va
+  encomanar per al curs següent.~~ — **`parcial` el 20-09-2026**: la [Llei d’ordenament del sistema educatiu de 1994](../../../raw/web/societat/educacio/fp-marc-legal/portal-1994.txt) ja regula la FP, els programes i la pràctica obligatòria en empresa; la [Llei 7/2023](../../../raw/web/societat/educacio/fp-marc-legal/portal-2023.txt) crea el Marc andorrà de qualificacions i hi equival les titulacions de FP. **Continua obert l’expedient concret de la Comissió de l’any 2000 i si aquell encàrrec va produir un text nou.**
 - **Si es va fer alguna cosa amb els dos-cents contractes de menors.**
 - **Quantes promocions d'aprenents hi ha hagut des del 2000** i amb quines
   branques.
