@@ -147,17 +147,12 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
   de branca sencera**: **el corpus no té cap article sobre drets LGBTI a
   Andorra**, ni la unió civil, ni el matrimoni igualitari.
   `Requereix font externa.`
-- **La manifestació del setembre del 2018**, «la primera de la història del país»
-  per aquest tema. **Quanta gent hi va anar.** — **`obert` pel que fa a la
-  xifra, i el fet ja circula pel corpus per tres llocs**:
-  [sortir al carrer](../vida-civica/sortir-al-carrer.md), que **en fa el
-  principi de la sèrie de manifestacions andorranes**, i
-  [els problemes d'Andorra](../vida-civica/els-problemes-dandorra.md), que
-  **hi registra una tensió sense arbitrar-la**: **el 2018 es descriu com la
-  primera manifestació de la història i el 1933 hi va haver una vaga d'un mes
-  amb gendarmes**. **Vaga i manifestació no són el mateix, i el corpus deixa les
-  dues afirmacions dretes.** `Requereix font externa: premsa del setembre del
-  2018.`
+- ~~**La manifestació del setembre del 2018**, «la primera de la història del país»
+  per aquest tema. **Quanta gent hi va anar.**~~ — **`parcial` el 20-09-2026**:
+  [Altaveu](../../../raw/web/societat/dones/manifestacio-avortament-2018/altaveu-2018.txt)
+  informa d'**una seixantena de persones** a la primera marxa a favor de la
+  despenalització de l'avortament i explica que s'hi van anar afegint durant el
+  recorregut; no hi ha una xifra oficial més precisa al corpus.
 
 ## Related
 
