@@ -228,8 +228,11 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   com a recompte.~~ — **`no-es-buit` el 19-09-2026**: el zero anterior a 1997
   és una absència de cobertura de la sèrie, no una dada que indiqui exportacions
   nul·les.
-- **El comerç de serveis**, que no és en aquesta taula i és on Andorra té
-  superàvit ([tot el superàvit és el turisme](../transformacio-economica/tot-el-superavit-es-el-turisme.md)).
+- ~~**El comerç de serveis**, que no és en aquesta taula i és on Andorra té
+  superàvit.~~ — **`resolt` el 20-09-2026**: [*Tot el superàvit és el
+  turisme*](../transformacio-economica/tot-el-superavit-es-el-turisme.md) ja
+  desglossa les dotze partides; el **2024** els serveis sumen **+2.160,91 M€**,
+  els viatges **+2.292,14 M€** i la resta de serveis en conjunt **−131,22 M€**.
 - ~~**Si les xifres inclouen el comerç amb la UE en règim d'unió duanera** de
   manera diferent de la resta.~~ — **`parcial` el 2026-09-20**: l'[Acord
   duaner amb la CEE](../../../raw/relacions-exteriors/acord-duaner/bopa-1991-acord-duaner-cee.txt)
