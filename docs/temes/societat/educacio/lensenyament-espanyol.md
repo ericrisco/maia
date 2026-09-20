@@ -257,7 +257,11 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   **25 de juny de 1993**, com la norma que regula l'acció educativa espanyola a
   l'exterior i situa l'Institut Espanyol posterior; el corpus encara no en té
   el text íntegre ni ha documentat el paper concret de la Consejería.
-- **Per què el 90% fa religió** en centres aconfessionals.
+- ~~**Per què el 90% fa religió en centres aconfessionals**~~ — **`parcial` el
+  20-09-2026**: la font de 2000 diu que l'assignatura **no és obligatòria** als
+  centres, però que la fa aproximadament el **90% dels alumnes**. El testimoni
+  només parla de «diferents motius» i no els enumera; el corpus no en pot
+  deduir cap.
 - ~~**La delegació d'ensenyament mitjà del 1964** i la seva dependència de la
   Seu d'Urgell.~~ — **`parcial`, i el cos d'aquesta mateixa fitxa ja en té el
   fet.** **El 1964 Espanya estableix a Andorra la Vella una delegació
