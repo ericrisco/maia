@@ -432,7 +432,12 @@ doni per bones.
 3. **Pot ser llegida.** Si ho és, **no serveix com a mostra de llengua parlada**,
    encara que el lèxic segueixi valent. `no-es-buit`: és una limitació d'ús de la
    peça, no una pregunta pendent.
-4. **`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.
+4. ~~**`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.~~ —
+   **`parcial` el 20-09-2026**: la [font institucional de l'École hôtelière de
+   Lausanne](../../fonts/ehl-ecole-hoteliere-lausanne.md) confirma una escola
+   hotelera suïssa amb aquest nom, fundada el 1893. En el context de la formació
+   hotelera de Lacueva, això permet identificar la lectura com **Lausana**; la
+   font no acredita per si sola que ella hi estudiés.
 5. ~~**De la persona no consta** ni parròquia, ni generació, ni llengua primera.~~ —
    **`no-es-buit` el 20-09-2026**: el registre de la peça no incorpora cap
    perfil biogràfic del parlant.
