@@ -263,9 +263,11 @@ pàgina la daten:**
    > als raonadors**, «encara que asso no vinga compres en lo privilegi de
    > rahonadors», **donant-los els Veguers «sa taula», com també als batlles i a
    > l'escrivà de les Corts.**
-6. **Qui era el síndic general** que sostenia que els Veguers podien apartar el
+6. ~~**Qui era el síndic general** que sostenia que els Veguers podien apartar el
    Jutge, **i en quin document.** **La font no el nomena i en desqualifica el
-   testimoni.**
+   testimoni.**~~ — **`no-es-buit` el 20-09-2026**: la font no identifica la
+   persona ni el document i desacredita el testimoni per animositat contra el
+   jutge; la fitxa no en dedueix cap nom.
 7. **Els documents de 1444, 1492, 1502, 1518, 1604, 1630 i 1739** sencers.
 8. ~~**Si Antoni Martin, jutge el 1599 i «jutge y acessor ordinari» el 1604, és la
    mateixa persona**: **el corpus ho dona per probable i no ho afirma.**~~ —
