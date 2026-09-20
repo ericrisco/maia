@@ -149,8 +149,9 @@ quantes criatures tenen avui passaport portuguès.`
 
 ## El que falta
 
-- **Les edats de 100 anys o més.** **La taula s'atura als 99** i **no té cap
-  tram obert de dalt.** `serie_estadistica`
+- ~~**Les edats de 100 anys o més.**~~ — **`no-es-buit` el 20-09-2026**: la
+  taula d'Estadística s'atura explícitament en el tram **99** i no publica cap
+  categoria oberta de **100 anys o més**.
 - ~~**La piràmide per nacionalitat**, que diria quina part de la bombolla dels
   40-60 és andorrana i quina part és arribada.~~ — **`resolt` el mateix dia**:
   vegeu «Qui és andorrà, a cada edat». **La taula en trams d'un any
