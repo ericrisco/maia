@@ -159,11 +159,16 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
    destil·lat els **capítols I–III**, inclosa la dada demogràfica de 1897; els
    **capítols IV–IX** i les peces justificatives continuen oberts ([fitxa de
    font](../../../fonts/brutails-coutume-1904.md)).
-2. **Gaston Combarnou** — qui era i d'on treu les xifres. **Segueix obert**, però
-   amb una pista: Claudine Tarrene atribueix el cens del **1932** a un
-   **«Comarnous»** ([font](../../../fonts/tarrene-influencies-multiculturals.md)),
-   **probablement el mateix cognom mal transcrit**. Si ho fos, **Combarnou
-   arribaria fins al 1932** i no s'aturaria al segle XIX.
+2. ~~**Gaston Combarnou** — qui era i d'on treu les xifres.~~ **[parcial ·
+   2026-09-20]**: la bibliografia local l'identifica com **Gaston de
+   Combarnous**, autor de ***Les vallées d'Andorre. Voyage aux états
+   Lilliputiens*** (Montpellier, **Les Chênes Vertes, 1933**) ([bibliografia de
+   la 15a Diada](../../../raw/web/cultura/15a-diada-andorrana-2002.txt), p. 49),
+   i la ponència de Camiade reprodueix les xifres de **1832, 1874, 1896 i
+   1897** ([text de la 2a Diada](../../../raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.txt),
+   p. 82). El corpus registra la divergència **Combarnou/Combarnous** i encara
+   no té una biografia de l'autor ni prova que sigui el mateix «Comarnous» del
+   cens de 1932.
    Vegeu [les xifres que no quadren](./les-xifres-que-no-quadren.md).
 3. ~~**La discrepància 1896/1897.**~~ — **`parcial` el 2026-09-19**: [Les xifres que no quadren](./les-xifres-que-no-quadren.md) documenta **5.800 habitants el 1896** i **5.210 el 1897**; la font del Congrés dels Diputats de **1895** parla d’**uns 6.000**, coherent amb el primer valor, mentre que el segon coincideix exactament amb la dada atribuïda a Brutails. **La procedència concreta de cada xifra i si el 1897 és una transcripció o una dada no comparable continuen obertes.**
 4. **L'arraigo**: definició, quantia, com s'acredita.

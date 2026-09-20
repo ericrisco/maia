@@ -205,7 +205,12 @@ i cadascuna té un autor que responia a una pregunta diferent.
 - **Moreno**, la font del 4.142 del 1930: **qui era i què va publicar.** **El
   corpus només el té per citació de Tarrene** i **no en té ni el nom de pila.**
   `font_externa`
-- **L'obra de Combarnou**, amb títol i any.
+- ~~**L'obra de Combarnou**, amb títol i any.~~ — **`resolt` el 2026-09-20**:
+  la bibliografia local dona **Gaston de Combarnous, *Les vallées d'Andorre.
+  Voyage aux états Lilliputiens*, Montpellier, **Les Chênes Vertes, 1933**
+  ([15a Diada](../../../raw/web/cultura/15a-diada-andorrana-2002.txt), p. 49).
+  La ponència de Camiade és la font que en reprodueix la sèrie de població; la
+  diferència ortogràfica **Combarnou/Combarnous** queda registrada.
 - **Què passa entre 1912 i 1920.** **Prioritari.**
 - **Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes
   aquestes xifres són de fora.
