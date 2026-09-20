@@ -199,8 +199,11 @@ divisió **995**, «Béns immobles transmesos per tipologia de bé immoble
   **2.504 (39,4%)**, els terrenys **276 (4,3%)**, els locals comercials
   **76 (1,2%)** i els magatzems **3**. La resta són **1.356 béns (21,3%)**:
   edificis i «altres construccions».
-- **La relació entre aquesta sèrie i la de transaccions immobiliàries**, que
-  compta 2.175 on aquesta en compta 6.356. `pregunta_oberta`
+- ~~**La relació entre aquesta sèrie i la de transaccions immobiliàries**, que
+  compta 2.175 on aquesta en compta 6.356.~~ — **`resolt`**: la prosa inicial
+  de la fitxa ja fixa la diferència d'unitat; aquesta taula compta **béns
+  immobles transmesos** i l'altra compta **transaccions**, de manera que els
+  totals no són comparables.
 
 ## Related
 
