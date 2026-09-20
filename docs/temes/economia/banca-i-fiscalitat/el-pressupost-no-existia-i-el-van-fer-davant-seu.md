@@ -346,8 +346,10 @@ treball com a impost.**
    telefonistes a la resta de pobles**, remunerades amb **350 pessetes** i **125
    pessetes anuals**, respectivament (p. 113). **La font no compta les centrals
    ni el nombre total de telefonistes i no permet desglossar les 1.450 pessetes.**
-7. **Qui eren «algunas personas de los Valls»** que demanaven un criteri
-   impositiu, i **on ho van escriure.**
+7. ~~**Qui eren «algunas personas de los Valls»** que demanaven un criteri
+   impositiu, i **on ho van escriure.**~~ — **`no-es-buit` el 20-09-2026**: la
+   font només en conserva la menció col·lectiva i la fitxa deixa constància que
+   no en té cap nom ni cap escrit.
 8. ~~**El repartiment del llot**: **igual o proporcional.**~~ — **`parcial` el
    19-09-2026**: Brutails (1904) diu que totes les parròquies pagaven la mateixa
    xifra, mentre que Ríos Urruti (1918) diu que cadascuna pagava en proporció de
