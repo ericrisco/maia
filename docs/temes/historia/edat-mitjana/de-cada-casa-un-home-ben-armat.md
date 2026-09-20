@@ -422,8 +422,12 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
 3. **La concòrdia de 1162**, que una font del corpus qualifica d'**«ineficaç»** i
    que seria la primera. **Aquest document parla d'una *longa contencio* i no
    n'esmenta cap acord anterior.** `obert`.
-4. **Què són la *levate* i el *mers*** que se separen del delme abans de
-   barrejar-lo. **Dues deduccions amb nom i sense explicació.**
+4. ~~**Què són la *levate* i el *mers*** que se separen del delme abans de
+   barrejar-lo. **Dues deduccions amb nom i sense explicació.**~~ — **`parcial`
+   el 2026-09-20**: la concòrdia estableix que són les dues deduccions que es
+   separen del delme abans de barrejar les primícies i els delmes; el context
+   fiscal queda identificat. **La naturalesa exacta de cada terme continua
+   oberta i requereix documentació decimal del bisbat d'Urgell.**
 5. ~~**Què són les *potacions* i les *beratiques*** que els andorrans cobraven per
    lliurar el delme. — **`obert`, i el 16-09-2026 confirmat que no és
    lexicogràfic.** **`potació` no és al [DCVB](../../../fonts/dcvb.md) ni al
