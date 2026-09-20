@@ -149,12 +149,13 @@ del fenomen. No és un nivell de perill emès pel
 
 ## Buits registrats
 
-- Les afirmacions de Becat, p.230–232, sobre responsabilitat estatal
-  i indemnitzacions continuen sense contrast amb la resolució original.
-  La [nota de cerca judicial](../../../raw/allaus/arinsal-resolucions-cerca-2026-09-13.md)
-  registra una pista hemerogràfica i metadades del cercador oficial.
-  L'accés a un possible antecedent exigeix CAPTCHA i no s'ha completat;
-  no s'ha acreditat el dispositiu, la fermesa ni l'execució.
+- ~~Les afirmacions de Becat, p.230–232, sobre responsabilitat estatal
+  i indemnitzacions continuen sense contrast amb la resolució original.~~ —
+  **`parcial` el 20-09-2026**: la [nota de cerca judicial](../../../raw/allaus/arinsal-resolucions-cerca-2026-09-13.md)
+  conserva la notícia d'El País del **26-09-2000**, que atribueix a la secció
+  administrativa de la Batllia una indemnització de **115 milions de pessetes
+  per a cinc afectats**. L'accés a la resolució original continua bloquejat pel
+  CAPTCHA i no s'han acreditat el dispositiu, la fermesa ni l'execució.
 - ~~**Lectura de Becat i del preinforme d’Arinsal**~~ — **`parcial` el 18-09-2026**:
    s'han llegit la tercera part del llibre de2014 i el text del sector d'Arinsal del preinforme
   de1996 reproduït a l'annex12. Hi ha una
