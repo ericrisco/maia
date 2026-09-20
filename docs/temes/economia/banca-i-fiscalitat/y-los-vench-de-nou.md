@@ -191,9 +191,14 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
    de cua— la peça no ho explica**, i **cap altra peça del volum no hi torna.**
    `Requereix l'escriptura de venda del 8 de desembre de 1776`, que és la que
    aquesta addició «vol tenir per expressada».
-4. **Si es van fer més addicions de preu sobre els mateixos prats**, **i si el
+4. ~~**Si es van fer més addicions de preu sobre els mateixos prats**, **i si el
    rescat es va arribar a exercir.** **L'escriptura preveu expressament «*las
-   altras quantitats que sobre ells legitimament acreditia*».**
+   altras quantitats que sobre ells legitimament acreditia*».**~~ — **`parcial`
+   el 2026-09-20**: aquesta clàusula documenta que l'acte admetia altres
+   quantitats sobre els prats; [la fitxa sobre els títols de rescat](./si-aquells-vells-titols-donaven-dret-de-rescat.md)
+   documenta rescats exercits en altres casos, inclosos els de **1676–1828** i
+   **1691–1898**. **No consta al corpus cap acte posterior que provi addicions o
+   exercici del rescat d'aquests prats concrets.**
 5. ~~**Si l'addició de preu era una figura reconeguda** o **una construcció
    d'aquest notari.**~~ — **`parcial` el 18-09-2026**: **el corpus en té un sol
    acte**, suficient per documentar l'operació però **no per saber si era figura
