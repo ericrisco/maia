@@ -178,9 +178,12 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
 
 ## Buits registrats
 
-1. **Si el testament sacramental es va arribar a regular a Andorra**, i **quan
-   deixa de fer-s'hi**. **La font diu «antigament en ús» i alhora en té un de fa
-   pocs dies.** **La contradicció és de la font i el corpus la registra.**
+1. ~~**Si el testament sacramental es va arribar a regular a Andorra**, i **quan
+   deixa de fer-s'hi**.~~ — **`parcial` el 20-09-2026**: la font conserva casos
+   andorrans de **1412, 1442 i 1462** i diu que l'autor havia tingut a les mans
+   un testament d'aquesta mena **de feia pocs dies**, cap al 1900; això prova la
+   continuïtat de la pràctica fins a l'entorn de 1900, però no documenta cap
+   regulació formal ni la data en què va deixar de fer-se.
 2. **El testament de feia pocs dies** que l'autor va tenir a les mans: **sense
    data, sense parròquia, sense notari.**
 3. **Si l'acusació dels notaris contra els testaments dels rectors es pot
