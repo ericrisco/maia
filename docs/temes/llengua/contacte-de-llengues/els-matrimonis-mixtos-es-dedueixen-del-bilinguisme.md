@@ -269,8 +269,12 @@ resol: l'evita.**
   de les xifres de bilingüisme. El corpus conserva aquesta absència explícita;
   queda oberta la investigació aprofundida que les autores proposaven sobre
   llengua i lligams familiars.
-- **Quina és la llengua vehicular real del sistema congregacional**, avui i el
-  2010. **Dues fonts del corpus diuen coses diferents.**
+- ~~**Quina és la llengua vehicular real del sistema congregacional**, avui i el
+  2010.~~ — **`parcial` el 20-09-2026**: Molla (2003) descriu el **castellà** com
+  a llengua vehicular del sistema congregacional espanyol, amb l'excepció d'algun
+  col·legi de monges, mentre Margarit i Monné (2010) afirma que és el **català**
+  sense excepcions. La divergència del 2010 queda documentada; la llengua
+  vehicular actual encara requereix el projecte lingüístic dels centres.
 - ~~**Les xifres d'audiència de l'Observatori del CRES sobre mitjans.** La font
   remet a `http://www.iea.ad/cres/recerca/acabades/mitjans.htm` **i no en dona ni
   any ni mostra**.~~ — **`parcial` el 18-09-2026**: **l'IEA llista una «Enquesta
