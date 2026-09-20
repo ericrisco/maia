@@ -142,6 +142,13 @@ Un artista acreditat pot fer **activitats complementàries** relacionades
 —formació artística, disseny gràfic, artesania, gestió— sempre que segueixi
 sustentant-se principalment de l'art (article 3.3).
 
+La primera memòria de la Comissió Andorrana de Seguiment de l'Estatut de
+l'Artista informa que fins a l'**1 de juliol de 2025** hi havia **nou artistes
+professionals acreditats**: **2** de música, **2** d'arts escèniques, **2** de
+tatuatge, **1** de màgia i espectacle, **1** de joieria artística i **1** d'arts
+plàstiques. ([Memòria anual CASEA 2024–2025](../../../raw/web/cultura/estatut-artista/memoria-anual-casea-2024-2025.txt),
+apartat 6.)
+
 ## Buits registrats
 
 - ~~**Desocupació: norma localitzada i redaccions de 2020–2021 llegides.**~~ —
@@ -151,8 +158,12 @@ sustentant-se principalment de l'art (article 3.3).
   reglamentària, no prova d'absència de prestació.
 - **Els nivells d'ingressos** que decideixen qui és artista acreditat van a
   reglament i **no són al corpus**.
-- **Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes
-  persones al Servei d'Ocupació, no consta.
+- ~~**Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes
+  persones al Servei d'Ocupació, no consta.~~ — **`parcial` el 20-09-2026**:
+  la memòria anual de la Comissió fixa **nou artistes professionals acreditats
+  fins a l'1 de juliol de 2025** i en dona el desglossament per àmbit. No hi
+  ha al corpus un recompte posterior, ni el nombre d'autònoms del registre o de
+  persones inscrites al Servei d'Ocupació; aquests residus continuen oberts.
 - ~~**La Llei de la seguretat i la salut en el treball** (34/2008, 47 articles) és
   al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**, llegida
   sencera (`docs/raw/lleis/seguretat-salut-treball.txt`). **L'article que toca
