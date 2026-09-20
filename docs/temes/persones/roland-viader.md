@@ -46,8 +46,12 @@ i dret.
 
 1. **El contingut de la tesi**, més enllà del títol i el tema — el corpus
    no l'ha consultada.
-2. **Si mai s'ha traduït al català o al castellà** — la font que el
-   citava deia que no, el 2018.
+2. ~~**Si mai s'ha traduït al català o al castellà** — la font que el
+   citava deia que no, el 2018.~~ — **`parcial` el 20-09-2026**: el
+   [catàleg del Govern](../../raw/web/persones/historiografia/obres-franceses/govern-viader-2000.txt)
+   identifica la tesi de 2000 *Pouvoirs et communautes en Andorre* com a
+   francesa; la comprovació no permet afirmar que no n'hi hagi cap
+   traducció posterior.
 
 ## Related
 

@@ -49,8 +49,11 @@ llançar a la producció de ferro.**
 
 1. **El contingut complet de l'obra**, més enllà de la ressenya
    editorial.
-2. **Si mai s'ha traduït al català o al castellà** — la font que el
-   citava deia que no, el 2018.
+2. ~~**Si mai s'ha traduït al català o al castellà** — la font que el
+   citava deia que no, el 2018.~~ — **`parcial` el 20-09-2026**: el
+   [catàleg de les Presses Universitaires de Perpignan](../../raw/web/persones/historiografia/obres-franceses/pup-codina-2005.txt)
+   identifica l'edició de 2005 de *De fer et de laine* com a francesa; la
+   comprovació no permet afirmar que no n'hi hagi cap traducció posterior.
 
 ## Related
 
