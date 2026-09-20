@@ -308,8 +308,13 @@ mateixa família.`
 8. **Si el conveni sobre desertors es va arribar a signar.** **La font dona la
    proposta i la rèplica, no el desenllaç.**
 9. **Qui era l'intendant de Perpinyà el 1745** i **qui l'intendant Horey**.
-10. **El tractat de Corbeil de 1258** i **si va canviar la subjecció dels bisbes
-    d'Urgell**. **Peça central de l'argument de Vilar i el corpus no la té.**
+10. ~~**El tractat de Corbeil de 1258** i **si va canviar la subjecció dels bisbes
+    d'Urgell**. **Peça central de l'argument de Vilar i el corpus no la té.**~~ —
+    **`parcial` el 2026-09-20**: [la nota de Brutails sobre Mérignhac](../pareatge/no-una-imitacio-sino-una-caricatura.md)
+    ja registra que Andorra no quedaria afectada i que no hi hauria canvi entre
+    1258 i 1278; [la fitxa de Vilar sobre la paraula república](../segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md)
+    conserva l'altra lectura, que Corbeil afectà l'Urgell però no Andorra.
+    **El tractat original i la resolució de la divergència continuen oberts.**
 11. **Si el títol gravat al palau episcopal d'Urgell hi és encara.**
 
 ## Related
