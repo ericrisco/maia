@@ -246,8 +246,11 @@ pogut datar-ne els anys**.
    l'ossa.** **El que segueix obert són els arguments de les parròquies que la
    van perdre**, i **és probable que no existeixin escrits.**
 5. **Qui va escriure l'operació del Carnestoltes**, cap al 1970.
-6. **Per què Ordino l'atura el 1959 i el 1992**, i qui la recupera el 1978 i el
-   2017.
+6. ~~**Per què Ordino l'atura el 1959 i el 1992**, i qui la recupera el 1978 i el
+   2017~~ — **`parcial` el 20-09-2026**: la cronologia documenta que el ball de
+   l'óssa d'Ordino s'atura el **1959**, es recupera el **1978**, torna a aturar-se
+   el **1992** i es recupera el **2017**. La font no identifica els responsables
+   de les dues recuperacions ni explica les dues interrupcions.
 7. ~~**Esteve Albert i Corp**: apareix dirigint dues obres i **el corpus no en té
    fitxa**.~~ — **`resolt` el 2026-09-19**: vegeu la [fitxa d'Esteve Albert i
    Corp](../../persones/esteve-albert-i-corp.md), que en dona les dates, l'exili
