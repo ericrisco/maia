@@ -184,7 +184,11 @@ diners: el pressupost dona l'import i cap indicador d'activitat.`
 
 ## Buits registrats
 
-- **Quants monitors hi ha titulats en total** des del 1996.
+- ~~**Quants monitors hi ha titulats en total** des del 1996~~ — **`parcial` el
+  20-09-2026**: la font de 2000 identifica **58 tutors de pràctiques**
+  (39 d'esquí alpí, 6 de surf de neu, 5 d'esquí nòrdic i 8 de muntanyisme)
+  i preveu entre **30 i 40 candidats anuals** de nivell 1 d'esquí alpí, però
+  no dona el nombre acumulat de monitors titulats des de la creació de l'Efpem.
 - **Quina és la formació anterior** que l'Efpem substitueix, i des de quan
   existia.
 - ~~**L'Escola Nacional Andorrana d'Esquí**: quina relació té amb l'Efpem. Són la
