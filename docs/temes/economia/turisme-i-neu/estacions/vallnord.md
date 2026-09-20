@@ -178,7 +178,12 @@ capital.` `font_externa`
 
 ## El que falta
 
-- **Per què es va dissoldre Vallnord.**
+- ~~**Per què es va dissoldre Vallnord**~~ — **`parcial` el 20-09-2026**: la
+  marca deixa d'existir a partir de la temporada **2022–2023**; **EMAP** i
+  **SECNOA** mantenen les concessions de Pal-Arinsal i Ordino Arcalís, mentre
+  la comercialització s'unifica sota **Grandvalira Resorts / Nevasa** dins del
+  projecte **SETAP365**. La font documenta la integració empresarial, però no
+  explica quina decisió o motiu concret va provocar la dissolució de Vallnord.
 - ~~**Què són EMAP, Ensisa, Nevasa i SETAP365**, i qui les controla.~~ — **`resolt` el 18-09-2026**: vegeu [les societats, amb nom sencer i número de registre](#les-societats-amb-nom-sencer-i-numero-de-registre).
 - **Què va passar amb Josep Serra** després de cedir Arinsal.
 - ~~**Les xifres de les dues estacions: visitants, facturació, ocupació**~~ —
