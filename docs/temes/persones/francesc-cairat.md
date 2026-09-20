@@ -89,7 +89,12 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
    **tancat en part**: 1880-1968, de Sant Julià de Lòria. **Casa i ofici,
    oberts.**
 2. ~~**Com i quan es treu el límit de mandat**, i **quan es torna a posar**.~~ — **`parcial` el 20-09-2026**: Bascompte diu que el **Consell General** va decidir, en els moments difícils de **1937**, que la sindicatura no tingués durada limitada, i Cairat la va ocupar fins al **1960**. **La font no identifica l’acta ni data quan es va restablir el límit.**
-3. **Si va ser reelegit cada any** o el càrrec va quedar obert.
+3. ~~**Si va ser reelegit cada any** o el càrrec va quedar obert.~~ — **`parcial`
+   el 20-09-2026**: Bascompte diu que durant **23 anys, del 1937 al 1960, fou
+   elegit síndic general**, i [els síndics generals](./els-sindics-generals.md)
+   en registra la continuïtat fins al **31 de desembre de 1960**. El corpus no
+   conserva les actes anuals que permetrien saber si hi hagué una reelecció cada
+   any o una sola continuïtat excepcional del càrrec.
 4. **Què va fer exactament durant la Segona Guerra Mundial**: quines decisions,
    quins documents. **Buit prioritari** — és el període més mitificat i menys
    documentat del corpus.
