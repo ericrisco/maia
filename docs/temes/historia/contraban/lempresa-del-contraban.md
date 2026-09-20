@@ -181,8 +181,12 @@ comptabilitat**.
    Brutails confirma el tràfic de **tabac** a la frontera francesa. La resta de
    mercaderies i una proporció global del contraban continuen sense comptar
    ([importacions d'Espanya](../../economia/comerc/el-que-andorra-comprava-a-espanya.md)).
-2. **El text de la decisió del 23 de desembre de 1772** i el de la sentència de
-   1896.
+2. ~~**El text de la decisió del 23 de desembre de 1772** i el de la sentència
+   de 1896.~~ — **`parcial` el 20-09-2026**: la font descriu la decisió de 1772
+   com l'expulsió de les andorranes que es casessin amb un contrabandista i el
+   reglament que limitava les plantes de tabac per família; per a 1896 conserva
+   la pena de **800 pessetes** per al primer contraban. Els textos íntegres i la
+   seva signatura d'arxiu no consten al corpus.
 3. **Qui era M. Sicard**, jutge d'apel·lacions, i on és la seva sentència.
 4. **La fàbrica andorrana de llumins**: qui la tenia i des de quan.
 5. **Quant pesava el contraban en el PIB**, si es pot estimar.
