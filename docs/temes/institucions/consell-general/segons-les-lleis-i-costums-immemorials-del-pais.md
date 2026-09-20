@@ -160,9 +160,12 @@ per la via de definir el costum.**
    pràctica del Consell de definir el costum; per tant, la decisió de París no va
    impedir-ne la continuïtat de facto. **Segueix oberta la qüestió de l'efecte
    jurídic exacte del dictamen i de com es va aplicar.**
-3. **Les proves** que la veritat era «de vegades cruelment desfigurada» als
-   dictàmens del Consell. **La font diu que se'n podrien donar i no en dona cap.**
-   `obert, i és una limitació de la font.`
+3. ~~**Les proves** que la veritat era «de vegades cruelment desfigurada» als
+   dictàmens del Consell. **La font diu que se'n podrien donar i no en dona cap.**~~ —
+   **`no-es-buit` el 20-09-2026**: la font declara que no reprodueix cap cas; el
+   conflicte documentat de **1885–1886** és un exemple datat d’aplicació del
+   costum, però no prova aquella acusació. Els dictàmens addicionals, si es
+   volen cercar, són documentació externa.
 
    > **N'ha aparegut un cas concret, i no va en aquell sentit.** El **20 de març de
    > 1885** el Consell General va ordenar a «**lo Batlle frances**», **amb
