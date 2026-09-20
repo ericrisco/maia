@@ -142,7 +142,11 @@ va cometre ell mateix i el va cometre el mateix dia que el diagnosticava.**
 
 ## Buits registrats
 
-- **Per què Andorra la Vella fa 313 transaccions els dos anys.**
+- ~~**Per què Andorra la Vella fa 313 transaccions els dos anys**~~ —
+  **`parcial` el 20-09-2026**: la sèrie registra **313 transaccions el 2024**
+  i **313 el 2025**, una variació de **0,0%**, mentre el total del país passa de
+  **1.608 a 2.175** (**+35,3%**). És l'única parròquia amb aquesta coincidència,
+  però la font no identifica si respon a composició, calendari o registre.
 - **Per què el preu de la capital baixa** mentre el de les altres sis puja.
 - **Quantes compres de no residents hi ha, en nombre.** La nota del 2T 2026 en
   dona **percentatges dins de cada tipus de comprador** i no el recompte.
