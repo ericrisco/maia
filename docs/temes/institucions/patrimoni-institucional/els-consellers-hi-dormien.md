@@ -181,8 +181,11 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
    pressupost del Consell per altres vies i cap partida d'allotjament.**
 3. **Un acte del Consell Obert on un cap de casa en demani la convocatòria**,
    que és el que confirmaria la lectura del dipòsit com a residu.
-4. **Si el mer i mixt imperi és dels senyors o dels veguers.** **Dues fonts, dues
-   atribucions.** **Obert.**
+4. ~~**Si el mer i mixt imperi és dels senyors o dels veguers.**~~ — **`parcial`
+   el 20-09-2026**: aquesta font diu que correspon als **senyors** segons els
+   Pariatges i descriu els veguers com a exercici delegat, mentre el *Politar*
+   l'atribueix als **veguers**. La divergència queda acotada com a possible
+   diferència entre titularitat i exercici, però el corpus no l'arbitra.
 5. ~~**La llei de Recesvint del *Fuero Juzgo*** que assigna funció judicial al
    vicarius, **citada com a 4.II.1.25** i no vista.~~ — **`parcial` el
    20-09-2026**: la fitxa ja identifica el **vicarius** com a antecedent del
