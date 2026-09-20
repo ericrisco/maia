@@ -157,7 +157,12 @@ abandonades i vi importat— **i registra la de Tor al costat.**
 
    **Es legalitza el conreu per a ús propi, no la venda.** `Requereix la
    legalització de la venda, que segueix oberta.`
-2. **Quines parròquies** exactament, i quantes feixes.
+2. ~~**Quines parròquies** exactament, i quantes feixes.~~ — **`parcial` el
+   20-09-2026**: Bascompte situa el conreu de la vinya sobretot a **Sant Julià
+   de Lòria**, a la zona d'**Andorra la Vella** i a **Escaldes-Engordany**, i
+   assenyala que **podria haver arribat fins a Canillo**; també documenta una
+   vinya d'Andorra la Vella encara el **1710**. L'article no ofereix el nombre
+   de feixes ni un inventari parcel·lari ([font web](../../../raw/web/economia/vinya/README.md)).
 3. ~~**Què deia el Consell** del tabac il·legal mentre ho era.~~ — **`resolt` el
    17-09-2026**: **ho deia cinc vegades en dos anys, i cada vegada perquè la
    vegada anterior no s'havia obeït.** **El Llibre III d'actes** dona la sèrie
