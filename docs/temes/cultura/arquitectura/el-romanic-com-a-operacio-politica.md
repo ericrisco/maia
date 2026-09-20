@@ -152,7 +152,12 @@ ni la forma del campanar** d'aquestes esglésies.»
 
 1. **Contrastar la hipòtesi.** Hi ha bibliografia que la sostingui o la
    desmenteixi? **Prioritari.**
-2. **Els homenatges de 1162 i 1176** — documents.
+2. ~~**Els homenatges de 1162 i 1176** — documents.~~ — **`parcial` el
+   2026-09-20**: Rodríguez i Rossa dona **1162 i 1176**; Bascompte, a [els
+   privilegis](../../historia/edat-mitjana/els-privilegis.md), dona **1170** com
+   al primer jurament i no esmenta els altres dos. **La coincidència segura és
+   que hi hagué juraments de fidelitat al bisbe al segle XII**, però el corpus no
+   té encara els documents originals per decidir quines dates són correctes.
 3. ~~**La casa de Caboet** i **Arnalda de Caboet**: fitxa pròpia pendent.~~ —
    **`parcial`, actualitzat el 2026-09-19**: la cronologia ja documenta que el
    bisbe tenia Andorra infeudada a la casa de Caboet al segle XI, que el 1133 va
