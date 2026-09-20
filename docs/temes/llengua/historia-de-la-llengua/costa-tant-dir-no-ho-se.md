@@ -167,9 +167,11 @@ judici**, i sobretot **que el judici no és seu tot sol**: «**després d'altres
    corpus **no ho demana**: **són particulars**. `tancat per criteri, no per manca
    de dades.` **`no-es-buit`**: és una decisió de l'abast de la font, no una
    pregunta de recerca.
-2. **Els terminis de prescripció** que li van donar, i **quins d'aquells eren
-   andorrans i quins catalans**. **La font explica que es va confondre i no
-   publica la llista corregida.** `obert.`
+2. ~~**Els terminis de prescripció** que li van donar, i **quins d'aquells eren
+   andorrans i quins catalans**.~~ — **`no-es-buit` el 20-09-2026**: Brutails
+   descriu la confusió i el moment en què l'informant obre el volum català, però
+   el text no transcriu els terminis ni publica cap llista corregida que permeti
+   separar-los. El buit és de la font disponible, no una dada pendent de càlcul.
 3. **El «petit volum català»**: **quin llibre era.** `obert, i el corpus no el
    dedueix.`
 4. **Els *costumeys*** de Bordeus, per comparació: **Archives de la Gironde, E

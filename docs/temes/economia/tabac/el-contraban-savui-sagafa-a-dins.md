@@ -121,8 +121,10 @@ Estadística.`
 
 ## El que falta
 
-- **La unitat.** **La font no diu si compta caixetes, paquets o cigarretes.**
-  `serie_estadistica`
+- ~~**La unitat.** **La font no diu si compta caixetes, paquets o cigarretes.**~~ —
+  **`no-es-buit` el 20-09-2026**: la taula només publica «quantitat
+  intervinguda» i no defineix si la unitat és una caixeta, un paquet o una
+  cigarreta. El corpus conserva els valors sense convertir-los.
 - **Els anys anteriors al 2017.** `serie_estadistica`
 - **Quantes persones hi ha detingudes per contraban**, que la taula de
   detencions no desglossa. `font_externa`
