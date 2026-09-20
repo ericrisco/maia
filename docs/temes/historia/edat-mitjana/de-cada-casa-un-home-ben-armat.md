@@ -458,8 +458,15 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
 9. **Quines esglésies deia el bisbe que els andorrans posseïen injustament**, i
    **com va acabar.** **El document ajorna la qüestió i el corpus no en té la
    continuació.**
-10. **Qui era Arnau de Perexens**, i **per què l'episcopologi que el corpus té
-    s'atura el 1122** ([els bisbes d'Urgell](./els-bisbes-durgell.md)).
+10. ~~**Qui era Arnau de Perexens**, i **per què l'episcopologi que el corpus té
+    s'atura el 1122** ([els bisbes d'Urgell](./els-bisbes-durgell.md)).~~ —
+    **`parcial` el 2026-09-20**: [el Pareatge](../pareatge/el-pareatge.md)
+    identifica **Arnau de Perexens com a bisbe d'Urgell** en la concòrdia amb
+    els homes d'Andorra del **1176**. **La llista de bisbes no s'atura realment
+    el 1122**: la font de la primera taula arriba fins a **Sant Ot (1096-1122)**
+    i una altra font reprèn l'episcopologi el **1388** amb Galceran de Vilanova.
+    **Continuen oberts els bisbes del 1123 al 1387 i el motiu pel qual la
+    primera font talla la seva sèrie el 1122.**
 11. ~~**Si els serveis del 1176 es comptaven per *foch* o *fumo***. **El corpus ho
     tenia d'una font secundària; el text diu *domo* i no diu ni *foch* ni
     *fumo*.**~~ — **`resolt` el 19-09-2026**: l'apèndix B de Ríos Urruti diu
