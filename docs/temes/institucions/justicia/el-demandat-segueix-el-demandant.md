@@ -301,7 +301,12 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
    de cinc sous** i **assenyalant dia cert**. **No és que la justícia
    s'externalitzi: és que el demandant hi fa de missatger amb fórmula
    obligatòria.**
-7. **La deliberació del Consell General del 16 de desembre de 1768** sencera.
+7. ~~**La deliberació del Consell General del 16 de desembre de 1768** sencera.~~ —
+   **`parcial` el 20-09-2026**: la fitxa ja conserva el passatge que fixa les
+   audiències dels batlles **els dimecres**, a la **Cúria de la Vall**, amb
+   l'alternativa que hi assisteixi **només un** si l'altre no pot o no vol.
+   Continua faltant la deliberació íntegra i qualsevol condició que quedi fora
+   d'aquest fragment.
 8. **Els documents del segle XV, de 1603, de 1552** *(enviament en possessió,
    Pièces justificatives p. VII)* **i de 1793.**
 9. **Què és una *tapa*** al document del segle XV. — **segueix obert**: el
@@ -317,8 +322,10 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
     (la rebel·lia implicava perdre el dret d'apel·lar) amb el règim descrit el
     **1904**, en què el rebel era condemnat després de tres citacions i la font
     ja no diu que perdés l'apel·lació. **Segueix oberta la data exacta del canvi.**
-11. **Per què les audiències dels batlles no són públiques**, **i si ho van ser
-    mai.**
+11. ~~**Per què les audiències dels batlles no són públiques**, **i si ho van ser
+    mai.**~~ — **`parcial` el 20-09-2026**: la font descriu les audiències del
+    règim de **1904** com a no públiques, però no n'explica el motiu ni permet
+    establir si en algun període anterior havien estat obertes.
 
 ## Related
 
