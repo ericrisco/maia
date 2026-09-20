@@ -113,11 +113,12 @@ fet tal com surt del BOPA.
   corpus no ha trobat cap d'aquests informes publicats ni un índex que en
   permeti saber el volum. `Requereix font externa: web del Tribunal de
   Comptes o publicacions del Consell General.`
-- **El buit de nou anys entre el 2006 i el 2015**: amb un mandat de sis
-  anys, en caldria un edicte cap al 2012 que la cerca a BOPA no ha
-  localitzat. Pot ser pròrroga de funcions (article 22.4, límit de sis
-  mesos, insuficient per explicar nou anys), un edicte no publicat de la
-  mateixa manera, o simplement no trobat.
+- ~~**El buit de nou anys entre el 2006 i el 2015**~~ — **`parcial` el
+  20-09-2026**: els edictes conservats fixen la seqüència de designacions en
+  **11-10-2000, 27-10-2006, 22-10-2015 i 14-10-2021**; l'article 22.4 del text
+  refós només permet continuar en funcions fins a sis mesos. La cerca local no
+  ha trobat cap edicte cap al 2012, però el corpus no pot determinar si manca
+  una publicació, si hi hagué una pròrroga irregular o si l'acte no es conserva.
 - ~~**Els noms de Carles de Unzueta Rullán, Montserrat Montes Echevarría i
   Núria López Sellés**: apareixen només al càrrec de membre del Tribunal,
   sense cap altra dada biogràfica al corpus.~~ — **`parcial` el 20-09-2026**:
