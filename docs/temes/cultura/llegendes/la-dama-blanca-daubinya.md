@@ -107,8 +107,9 @@ tercer que li falta** ([la nissaga Perich](../../historia/antic-regim/la-nissaga
 **Una escultura metàl·lica a l'entrada d'Aubinyà, de l'escultor andorrà
 Toni Cruz**, **on es veu la Dama Blanca acompanyada d'un llop.**
 
-**El corpus no té fitxa de Toni Cruz.** Vegeu
-[les arts visuals](../arts-visuals/README.md). **Buit obert.**
+**El corpus encara no té una fitxa biogràfica pròpia de Toni Cruz**, però la
+identificació de l'escultor queda documentada aquí. Vegeu
+[les arts visuals](../arts-visuals/README.md) per a la branca.
 
 **I l'Esbart Laurèdia hi té una peça del 2013**, **el mateix esbart que
 interpreta [la marratxa](../../costums/danses/la-marratxa.md) des del 1963.**
@@ -136,7 +137,9 @@ Vegeu [la toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md
   síndic» i no en dona el nom.
 - ~~**Des de quan es documenta la llegenda.**~~ — **`no-es-buit` el 20-09-2026**:
   cap de les fonts locals consultades no dona la primera aparició escrita.
-- **Toni Cruz**, l'escultor.
+- ~~**Toni Cruz**, l'escultor.~~ — **`resolt` el 20-09-2026**: la mateixa fitxa
+  l'identifica com l'**escultor andorrà** de l'escultura metàl·lica de la Dama
+  Blanca a l'entrada d'Aubinyà ([El que en queda al territori](#el-que-en-queda-al-territori)).
 
 ## Related
 
