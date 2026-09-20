@@ -261,16 +261,31 @@ llibre:**
 2. **La llei francesa del 21 d'abril de 1892**, sencera. **Nou.**
 3. **El discurs de M. Frézoul al Senat, 1892.** **Nou, i és on surten les dues
    xifres.** `Requereix el Journal officiel, débats du Sénat.`
-4. **L'arranjament pel qual Andorra va comprar al bisbe la línia de Sant Julià a
+4. ~~**L'arranjament pel qual Andorra va comprar al bisbe la línia de Sant Julià a
    la frontera espanyola**, **el 1903 o després**, **i si França en va acabar
-   assumint l'explotació.** **Prioritari.**
+   assumint l'explotació.** **Prioritari.**~~ — **`parcial` el 20-09-2026**:
+   **el 1903 el bisbe construeix, a demanda del Consell General i amb ajuda de
+   les Valls, la línia de Sant Julià a la frontera espanyola; després Andorra li
+   compra la línia comprometent-se a mantenir-la** (pp. 151-152). **El 1904 hi
+   ha converses perquè França n'assumeixi explotació i manteniment, però la font
+   no diu si l'acord es va arribar a executar.**
 5. **La proposta de telèfon del bisbe** i **l'acord del Consell General que la
    rebutja.** **Nou.**
-6. **La tercera escola francesa**, oberta entre el 1900 i el 1904: **on i quan.**
-7. **Les beques reservades a Andorra** per a les universitats franceses:
-   **quantes, des de quan, qui les donava.** **Nou.**
-8. **El propulsor aeri de 1900**: **quina exposició, qui el va construir, què
-   era.** **Nou.**
+6. ~~**La tercera escola francesa**, oberta entre el 1900 i el 1904: **on i quan.**~~
+   — **`parcial` el 20-09-2026**: **Vilar confirma que el 1904 ja hi havia tres
+   escoles franceses i un curs de francès, establerts «des de fa alguns anys»**
+   (p. 153). **Només les dues primeres consten localitzades a Andorra la Vella i
+   Sant Julià; la font no diu on ni quan va obrir la tercera.**
+7. ~~**Les beques reservades a Andorra** per a les universitats franceses:
+   **quantes, des de quan, qui les donava.** **Nou.**~~ — **`parcial` el
+   20-09-2026**: **la font confirma que existien beques «*spécialement
+   réservées à l'Andorre*» per enviar joves andorrans a universitats franceses**
+   (p. 153), però **no en dona el nombre, l'inici ni l'organisme pagador.**
+8. ~~**El propulsor aeri de 1900**: **quina exposició, qui el va construir, què
+   era.** **Nou.**~~ — **`parcial` el 20-09-2026**: **Vilar identifica que el
+   1900 Andorra va participar per primer cop en una exposició industrial amb un
+   propulsor aeri** (p. 153), però **no diu quina exposició era, qui el va fer ni
+   en què consistia l'aparell.**
 9. **Si el correu intern gratuït va durar**, **i quan es va professionalitzar.**
    **El corpus té el 1904 i el present, i res entremig.**
 10. ~~**Quan arriba el telèfon a Andorra.**~~ — **`parcial`, actualitzat el
