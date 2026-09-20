@@ -170,7 +170,7 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
 5. **L'afer de les concessions** del segle XIX.
 6. **L'abolició dels delmes** a Andorra: any.
 7. **El grup reformista**: qui el formava.
-8. **Els 44 pobles** de 1897: la llista.
+8. ~~**Els 44 pobles** de 1897: la llista.~~ — **`no-es-buit` el 20-09-2026**: Camiade, citant Brutails, només publica el recompte de **44 pobles**, junt amb **1.042 cases** i **5.210 habitants**; la font no identifica els nuclis i la fitxa no els pot reconstruir a partir d’aquesta lectura.
 
 ## Related
 
