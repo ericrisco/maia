@@ -1,3 +1,7 @@
+---
+title: "Família"
+---
+
 # Família — índex de fitxes
 
 Matrimoni, parella, filiació i autoritat parental: com el dret andorrà construeix

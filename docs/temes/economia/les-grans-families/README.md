@@ -1,3 +1,7 @@
+---
+title: "Les grans famílies"
+---
+
 # Les grans famílies — índex de fitxes
 
 **Una branca que neix d'un buit declarat per una font.**

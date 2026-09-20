@@ -1,3 +1,7 @@
+---
+title: "Llegendes"
+---
+
 # Llegendes — índex de fitxes
 
 Meritxell, bruixes, ponts, éssers fantàstics. On la llengua es deixa anar.

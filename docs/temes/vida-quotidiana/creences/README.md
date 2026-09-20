@@ -1,3 +1,7 @@
+---
+title: "Creences"
+---
+
 # Creences — índex de fitxes
 
 El que la gent donava per cert sobre el cos, la sort i el món, al marge de la

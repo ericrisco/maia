@@ -1,3 +1,7 @@
+---
+title: "Sant Antoni"
+---
+
 # Sant Antoni — índex de fitxes
 
 L'escudella i les benediccions.

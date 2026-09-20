@@ -1,3 +1,7 @@
+---
+title: "Persones d'Andorra"
+---
+
 # Persones d'Andorra — índex de fitxes
 
 **El corpus cita més de cent persones amb nom i cognom i en té tres fitxades.**

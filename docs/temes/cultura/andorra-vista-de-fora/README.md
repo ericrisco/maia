@@ -1,3 +1,7 @@
+---
+title: "Andorra vista de fora"
+---
+
 # Andorra vista de fora — índex de fitxes
 
 Novel·les, pel·lícules i sèries sobre Andorra fetes per gent que no hi vivia:

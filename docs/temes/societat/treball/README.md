@@ -1,3 +1,7 @@
+---
+title: "Treball"
+---
+
 # Treball — índex de fitxes
 
 Temporers, sectors, estacionalitat.

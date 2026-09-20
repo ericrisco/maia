@@ -1,3 +1,7 @@
+---
+title: "Fauna i flora"
+---
+
 # Fauna i flora — índex de fitxes
 
 Amb els noms locals, que sovint no són els normatius.

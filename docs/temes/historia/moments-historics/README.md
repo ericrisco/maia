@@ -1,3 +1,7 @@
+---
+title: "Moments històrics"
+---
+
 # Moments històrics — índex de fitxes
 
 **Una branca transversal.** No aporta fets nous: **posa en ordre els que el

@@ -1,3 +1,7 @@
+---
+title: "Sistema electoral"
+---
+
 # Sistema electoral — índex de fitxes
 
 Qui vota a Andorra, des de quan, i com es compta. **És la branca on es veu

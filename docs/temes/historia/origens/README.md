@@ -1,3 +1,7 @@
+---
+title: "Orígens"
+---
+
 # Orígens — índex de fitxes
 
 **Els dos relats fundacionals d'Andorra —els andosins i Carlemany— i el que la

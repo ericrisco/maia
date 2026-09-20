@@ -1,3 +1,7 @@
+---
+title: "Govern"
+---
+
 # Govern — índex de fitxes
 
 Cap de Govern, ministeris, administració general. Com s'executa el que el Consell decideix.

@@ -1,3 +1,7 @@
+---
+title: "Símbols"
+---
+
 # Símbols — índex de fitxes
 
 Bandera, escut, himne, el Virolai, les festes oficials.

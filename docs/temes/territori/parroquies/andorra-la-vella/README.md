@@ -1,3 +1,7 @@
+---
+title: "Andorra la Vella"
+---
+
 # Andorra la Vella — índex de fitxes
 
 Territori, història local, festes i parla pròpies.

@@ -1,3 +1,7 @@
+---
+title: "Morfosintaxi"
+---
+
 # Morfosintaxi — índex de fitxes
 
 Construccions i formes verbals pròpies.

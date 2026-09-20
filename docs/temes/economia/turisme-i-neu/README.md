@@ -1,3 +1,7 @@
+---
+title: "Turisme i neu"
+---
+
 # Turisme i neu — índex de fitxes
 
 Estacions, estacionalitat, dependència.

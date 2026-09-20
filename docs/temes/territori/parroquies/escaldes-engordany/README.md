@@ -1,3 +1,7 @@
+---
+title: "Escaldes-Engordany"
+---
+
 # Escaldes-Engordany — índex de fitxes
 
 La parròquia més jove, segregada el 1978.

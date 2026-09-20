@@ -1,3 +1,7 @@
+---
+title: "Història d'Andorra"
+---
+
 # Història d'Andorra — índex de fitxes
 
 Vuit segles amb documentació pròpia. Molta en català antic, que entra marcat com a històric.

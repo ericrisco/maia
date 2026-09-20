@@ -1,3 +1,7 @@
+---
+title: "Política d'Andorra"
+---
+
 # Política d'Andorra — índex de fitxes
 
 La branca que faltava. El corpus tenia **les institucions** —qui és el Consell

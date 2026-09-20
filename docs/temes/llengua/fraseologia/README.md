@@ -1,3 +1,7 @@
+---
+title: "Fraseologia"
+---
+
 # Fraseologia — índex de fitxes
 
 Dites, refranys, fórmules fixes. On viu el registre.

@@ -1,3 +1,7 @@
+---
+title: "Associacionisme"
+---
+
 # Associacionisme — índex de fitxes
 
 Esbarts, corals, entitats. On es fa comunitat.

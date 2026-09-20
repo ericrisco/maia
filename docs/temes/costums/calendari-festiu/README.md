@@ -1,3 +1,7 @@
+---
+title: "Calendari festiu"
+---
+
 # Calendari festiu — índex de fitxes
 
 El cicle anual sencer, com a mapa de tota la branca.

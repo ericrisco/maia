@@ -1,3 +1,7 @@
+---
+title: "Comuns i parròquies"
+---
+
 # Comuns i parròquies — índex de fitxes
 
 Els set comuns, cònsol major i cònsol menor, i què decideix cadascú. La parròquia no és només territori: és govern.

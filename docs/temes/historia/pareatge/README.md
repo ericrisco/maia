@@ -1,3 +1,7 @@
+---
+title: "El Pareatge"
+---
+
 # El Pareatge — índex de fitxes
 
 **1278**, i una confirmació pontifícia de data ara identificada. Què va fixar

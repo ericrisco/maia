@@ -1,3 +1,7 @@
+---
+title: "Caramelles"
+---
+
 # Caramelles — índex de fitxes
 
 La cantada i el seu calendari.

@@ -1,3 +1,7 @@
+---
+title: "Ritus de pas"
+---
+
 # Ritus de pas — índex de fitxes
 
 Naixement, casament, dol. Com es marca la vida.

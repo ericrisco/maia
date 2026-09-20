@@ -1,3 +1,7 @@
+---
+title: "Identitat política"
+---
+
 # Identitat política — índex de fitxes
 
 **No la identitat cultural: la política.** Què fa que Andorra s'entengui a si

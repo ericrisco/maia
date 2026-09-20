@@ -1,3 +1,7 @@
+---
+title: "Territori d'Andorra"
+---
+
 # Territori d'Andorra — índex de fitxes
 
 La geografia i el lèxic de paisatge que l'acompanya.

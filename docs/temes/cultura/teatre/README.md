@@ -1,3 +1,7 @@
+---
+title: "Teatre"
+---
+
 # Teatre — índex de fitxes
 
 **El corpus no tenia res.** La branca s'obre el **2026-09-13** amb una sola font,

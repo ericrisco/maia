@@ -1,3 +1,7 @@
+---
+title: "Registres"
+---
+
 # Registres — índex de fitxes
 
 Formal institucional, mediàtic, col·loquial. El mateix parlant no parla igual als tres.

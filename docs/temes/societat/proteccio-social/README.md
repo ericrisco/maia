@@ -1,3 +1,7 @@
+---
+title: "Protecció social"
+---
+
 # Protecció social — índex de fitxes
 
 Les prestacions que no depenen d'haver cotitzat: solidaritat, pensions no

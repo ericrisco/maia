@@ -1,3 +1,7 @@
+---
+title: "Plats"
+---
+
 # Plats — índex de fitxes
 
 Trinxat, escudella, cuixa de porc, civet.

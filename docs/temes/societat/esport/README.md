@@ -1,3 +1,7 @@
+---
+title: "Esport"
+---
+
 # Esport — índex de fitxes
 
 Esquí, federacions, els Jocs dels Petits Estats.

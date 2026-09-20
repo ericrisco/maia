@@ -1,3 +1,7 @@
+---
+title: "Demografia"
+---
+
 # Demografia — índex de fitxes
 
 Una població d'unes 85.000 persones i tot el que això implica.

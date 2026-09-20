@@ -1,3 +1,7 @@
+---
+title: "Clima i muntanya"
+---
+
 # Clima i muntanya — índex de fitxes
 
 L'altitud com a condició de tot: l'agricultura, l'economia, el calendari.

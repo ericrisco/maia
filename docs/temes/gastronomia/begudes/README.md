@@ -1,3 +1,7 @@
+---
+title: "Begudes"
+---
+
 # Begudes — índex de fitxes
 
 **Branca oberta i buida a propòsit.**

@@ -1,3 +1,7 @@
+---
+title: "Esquí"
+---
+
 # Esquí — índex de fitxes
 
 **Veu per defecte d'aquesta branca:** `compilada`.

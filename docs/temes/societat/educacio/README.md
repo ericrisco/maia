@@ -1,3 +1,7 @@
+---
+title: "Educació"
+---
+
 # Educació — índex de fitxes
 
 El triple sistema —andorrà, espanyol i francès— conviuen al mateix país. Poc conegut a fora i explica el multilingüisme real.

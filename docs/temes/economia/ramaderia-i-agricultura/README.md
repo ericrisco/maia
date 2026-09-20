@@ -1,3 +1,7 @@
+---
+title: "Ramaderia i agricultura"
+---
+
 # Ramaderia i agricultura — índex de fitxes
 
 Transhumància, cabanes, béns comunals.

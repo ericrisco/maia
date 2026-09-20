@@ -1,3 +1,7 @@
+---
+title: "Consell General"
+---
+
 # Consell General — índex de fitxes
 
 Síndic i subsíndic general, consellers generals, legislatures, el Diari de Sessions. El parlament més antic d'Europa en funcionament continuat.

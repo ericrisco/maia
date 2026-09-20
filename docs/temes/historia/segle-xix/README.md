@@ -1,3 +1,7 @@
+---
+title: "Segle XIX"
+---
+
 # Segle XIX — índex de fitxes
 
 **El segle en què Andorra es va arruïnar, es va buidar de gent, es va revoltar

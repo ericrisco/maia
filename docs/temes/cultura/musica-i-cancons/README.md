@@ -1,3 +1,7 @@
+---
+title: "Música i cançons"
+---
+
 # Música i cançons — índex de fitxes
 
 Repertori propi i tradició.

@@ -1,3 +1,7 @@
+---
+title: "Gastronomia d'Andorra"
+---
+
 # Gastronomia d'Andorra — índex de fitxes
 
 Què es menja, quan, i com se'n diu.

@@ -1,3 +1,7 @@
+---
+title: "Dialectologia"
+---
+
 # Dialectologia — índex de fitxes
 
 Què és el català d'Andorra dins del domini lingüístic català: a quin bloc

@@ -1,3 +1,7 @@
+---
+title: "Tabac"
+---
+
 # Tabac — índex de fitxes
 
 El cultiu que va estructurar el país sencer abans del comerç.

@@ -1,3 +1,7 @@
+---
+title: "Museus i arxius"
+---
+
 # Museus i arxius — índex de fitxes
 
 Arxiu Nacional, museus parroquials. On són les fonts.

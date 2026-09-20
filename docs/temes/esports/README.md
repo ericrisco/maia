@@ -1,3 +1,7 @@
+---
+title: "Esports d'Andorra"
+---
+
 # Esports d'Andorra — índex de fitxes
 
 Un país on l'esquí és assignatura obligatòria, professió reglada i escola d'estat

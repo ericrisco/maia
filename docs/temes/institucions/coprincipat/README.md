@@ -1,3 +1,7 @@
+---
+title: "El Coprincipat"
+---
+
 # El Coprincipat — índex de fitxes
 
 Els dos coprínceps —el bisbe d'Urgell i el president francès—, els veguers, i com funciona un cap d'estat compartit. No hi ha cap altre cas al món.

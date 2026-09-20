@@ -1,3 +1,7 @@
+---
+title: "Manual Digest"
+---
+
 # Manual Digest — índex de fitxes
 
 Fiter i Rossell, 1748. Les Màximes, el Politar. Text fundacional de la identitat i català d'època.

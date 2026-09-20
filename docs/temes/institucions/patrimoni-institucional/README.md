@@ -1,3 +1,7 @@
+---
+title: "Patrimoni institucional"
+---
+
 # Patrimoni institucional — índex de fitxes
 
 La Casa de la Vall, les seus, el protocol.

@@ -1,3 +1,7 @@
+---
+title: "Manlleus"
+---
+
 # Manlleus — índex de fitxes
 
 Gal·licismes i castellanismes propis d'Andorra, que no són els mateixos que al Principat.

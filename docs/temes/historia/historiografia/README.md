@@ -1,3 +1,7 @@
+---
+title: "Historiografia"
+---
+
 # Historiografia — índex de fitxes
 
 Qui ha escrit la història d'Andorra, amb quines fonts i amb quins buits.

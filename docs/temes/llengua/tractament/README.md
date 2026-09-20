@@ -1,3 +1,7 @@
+---
+title: "Tractament"
+---
+
 # Tractament — índex de fitxes
 
 Salutacions i formes d'adreçar-se. El primer que delata d'on ets.

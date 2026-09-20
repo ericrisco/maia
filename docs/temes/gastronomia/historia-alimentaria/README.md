@@ -1,3 +1,7 @@
+---
+title: "Història alimentària"
+---
+
 # Història alimentària — índex de fitxes
 
 No els plats, sinó **com es menjava**: els atuells, qui seia a taula, què menjava
