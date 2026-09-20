@@ -325,8 +325,11 @@ treball com a impost.**
    Consell.** **Prioritari, i la resposta pot ser que no.**~~ — **`parcial` el
    19-09-2026**: la font exclou que el **1918** n'hi hagués cap d'escrit o
    imprès, però no permet demostrar què passava abans d'aquell any.
-2. **La quèstia del 1917**, que **falta en aquesta taula i la nota ho adverteix.**
-   **Sense ella el total de despeses és incomplet.**
+2. ~~**La quèstia del 1917**, que **falta en aquesta taula i la nota ho
+   adverteix.** **Sense ella el total de despeses és incomplet.**~~ —
+   **`no-es-buit`, confirmat el 20-09-2026**: és una limitació declarada de la
+   reconstrucció pressupostària, no una xifra que la mateixa font permeti
+   recuperar.
 3. **Els comptes del deute de 4.000 pessetes** que el Consell devia al Comú
    d'Andorra la Vella: **quan es va contreure i per què.**
 4. **El capital de 2.931,89 pessetes d'interessos d'expropiacions rústiques.**
