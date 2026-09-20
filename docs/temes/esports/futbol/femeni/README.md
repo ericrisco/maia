@@ -122,8 +122,12 @@ Alexia també hi ha corregut.** **Tres persones de la mateixa família al Dakar.
   [una jugadora](./maria-moles.md).~~ **`parcial`:** la fitxa ja confirma
   l'existència de la sub-17 i documenta Maria Moles; les plantilles completes
   i les altres categories de base encara no són al corpus.
-- **L'arbitratge femení andorrà**, que [Ainhoa Fernández](./ainhoa-fernandez.md)
-  apunta i el corpus no ha llegit.
+- ~~**L'arbitratge femení andorrà**, que [Ainhoa Fernández](./ainhoa-fernandez.md)
+  apunta i el corpus no ha llegit.~~ — **`parcial` el 20-09-2026**: [Diari d'Andorra](../../../../raw/web/esport/arbitratge-femeni/diari-andorra-ainhoa-2024.txt)
+  confirma que Fernández arbitra la màxima categoria masculina andorrana i la
+  Women’s Champions League; [Altaveu](../../../../raw/web/esport/arbitratge-femeni/altaveu-ainhoa-mundial-2024.txt)
+  documenta que va ser la primera andorrana assistent en un Mundial femení
+  sub-17. **La composició completa del col·lectiu femení continua oberta.**
 - ~~**Les 37 jugadores que la federació declarava a la FIFA el 1997.** Cap nom.~~ **[parcial · duplicat]** El buit canònic és a [la selecció femenina](./la-seleccio-femenina.md); encara no hi ha els noms.
 - ~~**Alba**, l'autora del primer gol de la història. **Sense cognom.**~~
   **`resolt` el 2026-09-19**: [Alba López](./alba-lopez.md) és el nom que la
