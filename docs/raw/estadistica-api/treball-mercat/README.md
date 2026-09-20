@@ -9,13 +9,13 @@ title: "Mercat de treball per l'API d'Estadística"
 
 | | |
 | --- | --- |
-| **Fitxers** | `treball-mercat-api-2026-09-18.tsv` — **47.827 valors** · `massa-salarial-desembres-2026-09-18.tsv` — **29.960 valors** |
+| **Fitxers** | `treball-mercat-api-2026-09-18.tsv` — **47.827 valors** · `massa-salarial-desembres-2026-09-18.tsv` — **29.960 valors** · `massa-salarial-mensual-2026-09-20.tsv` — **4.320 valors** |
 | **Columnes** | `idDivision · taula · codi · serie · periode · valor` |
 | **Font** | **Departament d'Estadística** |
 | **Llicència** | **CC BY 4.0** — **redistribució: sí**, amb atribució |
 | **Abast** | prefixos `010202` massa salarial i salari mitjà, `010203` taxa d'activitat, `010204` demandants d'ocupació, `010206` inspecció de treball |
 
-## Per què hi ha dos fitxers, i és una regla
+## Per què hi ha dos tipus de bolcat, i és una regla
 
 **Les divisions de massa salarial i salari mitjà són mensuals des del juliol del
 1966.** **L'URL que l'API proposa per a cadascuna fa 5.922 caràcters i el
@@ -35,8 +35,11 @@ anual.
   EDAT` i `SALARI MITJÀ PER SECTOR D'ACTIVITAT (NIVELL 1) I EDAT`— **van
   retornar `502` fins i tot amb els desembres.** **Es poden tornar a demanar amb
   un rang d'anys més curt.**
-- **Els mesos que no són desembre.** Es baixen amb el mateix guió traient el
-  filtre, divisió per divisió i amb un rang curt.
+- **Els mesos que no són desembre de les altres divisions**: les divisions
+  agregades **408 (massa salarial per sexe)** i **417 (salari mitjà per sexe)**
+  ja tenen la sèrie mensual sencera al fitxer
+  `massa-salarial-mensual-2026-09-20.tsv`; les altres divisions continuen
+  representades només pels desembres.
 
 ## El que aquest bolcat ha obert
 

@@ -25,6 +25,13 @@ sèrie d'assalariats des del desembre del 1966
 > mes que el corpus ja feia servir per a la sèrie d'assalariats** i el que la
 > font mateixa fa servir de referència anual.
 
+> **La sèrie mensual completa, recuperada el 20-09-2026.** **Les divisions 408
+> (massa salarial per sexe) i 417 (salari mitjà per sexe) responen quan es
+> demanen en blocs de cinc anys**, amb **4.320 valors** entre **juliol de 1966 i
+> juny de 2026**. El bolcat és
+> [`massa-salarial-mensual-2026-09-20.tsv`](../../../raw/estadistica-api/treball-mercat/massa-salarial-mensual-2026-09-20.tsv). **La resta de divisions mensuals
+> continua limitada als desembres** per la longitud de l'URL.
+
 ## La sèrie
 
 **Salari mitjà mensual del desembre, en euros, i la relació entre tots dos:**
@@ -267,8 +274,11 @@ alineades.` `no-es-buit`
   vegeu «La mateixa feina, el mateix contracte, el mateix títol». **Retallar per
   jornada, per contracte, per estudis i per ocupació no tanca el diferencial**;
   **l'única retallada que el redueix de debò és el sector públic.**
-- **La sèrie mensual sencera**, que la font té des del juliol del 1966 i que
-  aquest bolcat només porta en desembres.
+- ~~**La sèrie mensual sencera**, que la font té des del juliol del 1966 i que
+  aquest bolcat només porta en desembres.~~ — **`resolt` el 2026-09-20** per a
+  les divisions agregades **408 i 417**: la petició en blocs de cinc anys
+  recupera **4.320 valors mensuals** de juliol de 1966 a juny de 2026. Les
+  altres divisions mensuals continuen en el bolcat de desembres.
 - ~~**El salari mitjà per sector i sexe**, que el bolcat sí que porta, **però
   amb cel·les molt petites**.~~ **`resolt` el 18-09-2026, i amb una correcció
   del corpus a si mateix**: **el 9.388,88 € de «construcció, dones» no és un
