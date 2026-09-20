@@ -92,7 +92,11 @@ escrita. Vegeu [els síndics generals](./els-sindics-generals.md).
   una decisió, ni un debat, ni un discurs.
 - **Si va trobar resistència per ser la primera.** Cap font ho diu, i **el
   corpus no ho suposa**.
-- **Les seves dues publicacions.**
+- ~~**Les seves dues publicacions.**~~ — **`resolt` el 20-09-2026**: la
+  mateixa fitxa les enumera a [El que ha publicat](#el-que-ha-publicat):
+  *Projecte de recerca sobre prospecció de textos catalans* (**1983**) i *El
+  llibre de les bèsties de Ramon Llull. Una proposta de treball per al
+  batxillerat* (**1990**).
 - ~~**La primera ministra.**~~ — **`parcial` el 2026-09-19**: el bolcat local
   del Govern 1994–1997 conserva el decret del **22 de desembre de 1994**, que
   nomena **Susagna Arasanz Serra** ministra de Finances i **Carme Sala Sansa**
