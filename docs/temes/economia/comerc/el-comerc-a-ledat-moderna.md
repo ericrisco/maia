@@ -269,9 +269,11 @@ Deducció de Mas: **les compraven per revendre**.
    igual. **Comptat un sol cop, és un buit i no dos.**
 2. **Les companyies de negoci**: contractes, durada, si en queda documentació
    notarial.
-3. **La quantificació global.** Mas avisa que «**és força difícil quantificar en
-   la seva totalitat aquesta mena de comerç**». El corpus no té sèries, només
-   exemples.
+3. ~~**La quantificació global.** Mas avisa que «**és força difícil quantificar
+   en la seva totalitat aquesta mena de comerç**». El corpus no té sèries, només
+   exemples.~~ — **`no-es-buit`, confirmat el 20-09-2026**: la limitació és
+   declarada per la mateixa font i el corpus només pot conservar els exemples
+   documentats.
 4. ~~**La Sentència de manutenció (c. 1731)**: el corpus no n'ha vist el text.~~ — **`parcial` el 19-09-2026**: David Mas la data cap al **1731**, després de tres anys de negociació, i en resumeix el règim: **el bestiar francès pagava el 10% i l'andorrà n'estava exempt**, amb mesures de control ([font](../../../fonts/mas-relacions-comercials-1994.md)). **El text original continua sense localitzar-se.** Vegeu [la revolta del tabac](../tabac/la-revolta-del-tabac-de-1733.md).
 5. **Què passa entre el 1800 i el 1895**, que és on comença la primera
    fotografia completa que té el corpus.
