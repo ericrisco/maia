@@ -197,9 +197,14 @@ el curs 2013 i 1.871 el del 2024**
   (593)**, vegeu
   [La sèrie](#la-serie-i-totes-les-prestacions-a-la-vegada). `De cap d'elles
   no hi ha res anterior al 2010 a l'API.`
-- **Les prestacions que no són en aquesta nota**: ajuts ocasionals (A057),
+- ~~**Les prestacions que no són en aquesta nota**: ajuts ocasionals (A057),
   discapacitat (A058) i lloguer (A059) **tenen activitat pròpia** i **el corpus
-  en té alguna, no totes.**
+  en té alguna, no totes.**~~ — **`parcial` el 20-09-2026**: el
+  [catàleg d'activitats estadístiques](../../../raw/estadistica-pla/catalog-activitats-2026.md)
+  confirma les tres sèries i en dona els títols oficials —**A057**, ajuts
+  econòmics ocasionals; **A058**, prestacions socials a persones amb
+  discapacitat; **A059**, prestacions al pagament del lloguer—. **Encara no hi
+  ha les taules completes ni la sèrie de valors de totes tres.**
 
 ## Quant hauria de cobrar cadascú, per llei
 
