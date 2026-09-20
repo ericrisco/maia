@@ -241,8 +241,13 @@ religiositat d'aquest corpus necessita.** **Buit prioritari absolut.**
 
 - ~~**La data del privilegi d'Enric IV** (1601?).~~ **TANCAT: 1601**, llegit net
   al volum re-extret.
-- **Les tres dates que Bascompte i Pujol no diuen igual** (el cot, la sisena,
-  l'escrivania). **Prioritari.**
+- ~~**Les tres dates que Bascompte i Pujol no diuen igual** (el cot, la sisena,
+  l'escrivania).~~ — **`parcial` el 2026-09-20**: el corpus ja té les tres
+  divergències delimitades —**cot: 1589 / 1598 / sense any al *Politar***;
+  **sisena: 7-05-1589 / 1551 / sense any al *Politar***; **escrivania: 1607 /
+  1604 / sense any al *Politar***— i el contingut dels privilegis primaris,
+  però **cap font no conserva encara la signatura o una data que permeti
+  arbitrar-les**.
 - ~~**Què hi va fer exactament el Tribunal de la Inquisició** —la font diu que no
   consta cap actuació, però **«no consta» no és «no n'hi va haver»**.~~ —
   **`parcial` des del 2026-09-18, i ara contra una font primària.** **Brutails
