@@ -63,7 +63,15 @@ la fitxa ([font específica](../../fonts/sac-rosa-ferrer-1990.md)).
 1. ~~**Si és la mateixa persona que M. Rosa Ferrer**, autora de la
    ponència del 1990 — buit heretat, no tancat.~~ — **`resolt` el 19-09-2026**:
    les actes oficials signen la ponència com **M. Rosa Ferrer i Obiols**.
-2. **Detall dels seus anys com a ministra de Salut** (2015).
+2. ~~**Detall dels seus anys com a ministra de Salut** (2015).~~ — **`parcial`
+   el 20-09-2026**: les fonts oficials del Consell General la documenten com a
+   **ministra de Relacions Institucionals, Afers Socials i Ocupació des de l'1
+   d'abril de 2015**, i després com a **ministra de Salut, Afers Socials i
+   Ocupació**; el **19 de novembre de 2015** encara responia preguntes al
+   Consell en aquest càrrec. Les fonts consultades permeten situar el mandat i
+   les àrees, però varien en la denominació (**Salut/Benestar** i
+   **Sanitat/Afers Socials**) i no n'han reconstruït totes les actuacions ni la
+   data formal de sortida ([fonts locals](../../raw/web/persones/rosa-ferrer/README.md)).
 
 ## Related
 
