@@ -230,8 +230,14 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   nul·les.
 - **El comerç de serveis**, que no és en aquesta taula i és on Andorra té
   superàvit ([tot el superàvit és el turisme](../transformacio-economica/tot-el-superavit-es-el-turisme.md)).
-- **Si les xifres inclouen el comerç amb la UE en règim d'unió duanera** de
-  manera diferent de la resta. `pregunta_oberta`
+- ~~**Si les xifres inclouen el comerç amb la UE en règim d'unió duanera** de
+  manera diferent de la resta.~~ — **`parcial` el 2026-09-20**: l'[Acord
+  duaner amb la CEE](../../../raw/relacions-exteriors/acord-duaner/bopa-1991-acord-duaner-cee.txt)
+  estableix la unió duanera per als capítols **25–97** del Sistema Harmonitzat,
+  i el [README del bolcat estadístic](../../../raw/estadistica-api/resta-del-cataleg/README.md)
+  confirma que el comerç exterior es publica per **capítol, país i quantitat**.
+  Cap dels dos textos no documenta, però, si les sèries de valor separen o
+  tracten de manera diferent els fluxos amb la UE; aquesta part continua oberta.
 
 ## Related
 
