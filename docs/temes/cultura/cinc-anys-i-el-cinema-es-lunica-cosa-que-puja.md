@@ -168,8 +168,12 @@ tenen més de 3.000 € al mes i el 65,2% dels qui en tenen menys de 1.200**.
 - ~~**El desglossament per renda només es publica per al 2019.**~~ —
   **`no-es-buit` el 19-09-2026**: és una nota sobre la cobertura temporal de la
   font, no una pregunta ni una afirmació que no existeixin dades posteriors.
-- **Per què el cinema puja** mentre tota la resta de cultura de sala baixa, el
-  corpus no ho sap. `pregunta_oberta`
+- ~~**Per què el cinema puja mentre tota la resta de cultura de sala baixa**~~ —
+  **`parcial` el 20-09-2026**: la proporció que va al cinema passa de **57,4%
+  el 2019** a **66,3% el 2024** (**+8,9 punts**), mentre teatre queda en
+  **39,4% → 39,0%**, biblioteques en **36,4% → 30,7%** i museus en **63,8%
+  → 54,5%**. El cinema puja a totes les edats —sobretot **45–64 (+12,8
+  punts)** i **65 o més (+10,4)**—, però la font no estableix la causa.
 - ~~**El voluntariat té una sèrie 2010-2024 que no es pot citar sencera**: **el
   total i la suma d'homes i dones divergeixen del 2022 al 2024** (468 contra
   242, 517 contra 260, 476 contra 281).~~ — **`resolt` el 18-09-2026, i el
