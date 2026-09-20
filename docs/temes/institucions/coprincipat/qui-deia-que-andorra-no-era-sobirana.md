@@ -164,7 +164,7 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    Brutails, Bladé, Font i Rius, Gubern, Bélinguier, Duverger, Rousseau, Miret i
    Sans. **El corpus no ha llegit cap d'aquests textos** i no en pot citar ni
    una línia. **Buit gran i molt tancable.**
-2. **Quin Vilar** (vegeu més amunt).
+2. ~~**Quin Vilar** (vegeu més amunt).~~ — **`parcial` el 21-09-2026**: la fitxa ja identifica els dos candidats que permet la font: **André Vilar**, autor de *L'Andorre* (1904), i **Pierre Vilar**, citat en un altre passatge. **Segueix obert quin dels dos designa la llista de Massa**, perquè l'original només diu «Vilar» sense inicial.
 3. ~~**La tesi doctoral de Nemesi Marquès**, que Massa invoca com a autoritat i el
    corpus no té.~~ — **`parcial` el 17-09-2026**: **el que se'n va publicar ja té
    referència**, des de la bibliografia de la [síntesi d'actes del Consell
