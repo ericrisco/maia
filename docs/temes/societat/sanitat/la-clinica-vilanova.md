@@ -88,7 +88,13 @@ important que un model ha d'entendre sobre ell.
 
 ## Buits registrats
 
-1. **On era exactament** la Clínica Vilanova i **quins anys** va funcionar.
+1. ~~**On era exactament** la Clínica Vilanova i **quins anys** va funcionar.~~
+   — **`parcial` el 20-09-2026**: es va obrir el **1944** a la part alta de
+   **cal Guillemó, a la plaça Príncep Benlloch**, i es va traslladar el **1954**
+   a l'**edifici Molines**, davant de l'emplaçament inicial. La inauguració de
+   la clínica pública Verge de Meritxell el **1971** fixa el canvi de sistema,
+   però les fonts consultades no documenten expressament l'any de tancament de
+   la Vilanova ([fonts web](../../../raw/web/societat/sanitat/clinica-vilanova/README.md)).
 2. ~~**Qui era el Dr. Antoni Vilanova** i el **Dr. Ruiz**.~~ — **`resolt` el
    20-09-2026**: la secció [Els tres metges](#els-tres-metges) ja identifica
    **Antoni Vilanova** com a cirurgià i cap de la clínica, i **Dr. Ruiz** com a
