@@ -198,7 +198,13 @@ que el corpus té de demografia
   — **`resolt` el 18-09-2026**: el residual de **1.504** es descompon en les
   categories de la divisió 256, incloses **534 nacionalitats desconegudes** i
   **611** a la categoria `ALTRES` de la font.
-- **Per què el sistema francès perd alumnes** mentre el país en guanya.
+- ~~**Per què el sistema francès perd alumnes mentre el país en guanya**~~ —
+  **`parcial` el 20-09-2026**: el sistema francès passa de **3.585 alumnes el
+  1999-2000** a **3.373 el 2023-2024** (**−5,9%**), mentre el total escolar
+  puja de **9.318 a 11.372** (**+22%**). En el mateix període creixen
+  l'andorrà (**2.200 → 4.700**) i l'anglès (**0 → 252**), i l'espanyol es
+  recupera fins a **3.047**; aquestes dades descriuen el canvi de composició,
+  però la font no n'estableix la causa.
 - **La mobilitat escolar per parròquies**, que la nota publica als apartats 3.1
   i 3.2 i **el corpus no ha llegit**.
 
