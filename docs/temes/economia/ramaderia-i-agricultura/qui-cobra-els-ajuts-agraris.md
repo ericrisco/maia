@@ -225,9 +225,10 @@ apareixerà a la nota del juny del 2027.**
 
 ## El que falta
 
-- **Quant cobra cada explotació.** La nota dona imports per parròquia i nombre
-  de beneficiaris, **mai el repartiment dins la parròquia**. `La font no ho
-  publica.`
+- ~~**Quant cobra cada explotació.** La nota dona imports per parròquia i nombre
+  de beneficiaris, **mai el repartiment dins la parròquia**.~~ —
+  **`no-es-buit`**: la nota publica només els totals parroquials i el nombre de
+  beneficiaris; no ofereix cap distribució individual.
 - ~~**Per què Escaldes-Engordany cobra 2.119 € per beneficiari i Encamp 33.321 €.**
   L'explicació per superfície pasturada és **inferència**, no dada.~~ —
   **`parcial` el 18-09-2026**: **la fórmula del decret no compta superfície, sinó
@@ -248,8 +249,10 @@ apareixerà a la nota del juny del 2027.**
   manté el marc dels ajuts i ordena que s'incrementin anualment segons l'IPC,
   però el corpus no té cap decret posterior que permeti confirmar els imports
   aplicables el 2025.
-- **Els ajuts dels comuns parròquia per parròquia.** La nota en dona el total i
-  diu que Ordino i Sant Julià són estimats. `La font no desagrega.`
+- ~~**Els ajuts dels comuns parròquia per parròquia.** La nota en dona el total i
+  diu que Ordino i Sant Julià són estimats.~~ — **`no-es-buit`**: la font només
+  dona el total i identifica que les xifres d'Ordino i Sant Julià són estimades;
+  no publica el desglossament parroquial.
 - ~~**A105 (superfícies de cultiu), A106 (explotacions agràries) i A109
   (ramaderia)** segueixen sense localitzar pel sondeig del patró d'URL.~~ —
   **`resolt` el 18-09-2026 pel que importa**: **A106 i A109 s'han localitzat**
