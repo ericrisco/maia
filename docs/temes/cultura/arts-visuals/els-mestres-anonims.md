@@ -169,7 +169,13 @@ reinstal·lar-la a l'església.
    Prats ja consten tres peces recuperades i les seves col·leccions; encara no
    se sap on són les quatre taules, els guardapols i els fragments restants.
 2. **Els caps del campanar**: què són i què volen dir.
-3. Per què **no hi ha escultura en pedra**.
+3. ~~Per què **no hi ha escultura en pedra**.~~ — **`parcial` el 2026-09-20**:
+   l'inventari que dona la font es redueix a la **decoració de l'absis de Sant
+   Esteve**, **poques piques baptismals**, una **columna procedent de Canillo**
+   difícil de datar i els **caps humans dels campanars** de Santa Coloma, Sant
+   Miquel d'Engolasters i Sant Marc i Santa Maria d'Encamp. **La font diu
+   expressament que no sap per què és tan escassa l'escultura medieval en
+   pedra**, i el corpus no té una hipòtesi documental per completar-ho.
 4. ~~El **mestre de la Cortinada** i el **mestre de Santa Coloma**: quines
    obres.~~ — **`parcial`, confirmat el 2026-09-19**: el primer queda
    documentat a les pintures murals de **Sant Martí de la Cortinada** (finals
