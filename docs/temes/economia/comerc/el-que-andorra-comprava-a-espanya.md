@@ -267,7 +267,10 @@ serien unes **525 persones**, prop d'una desena part del país.
    uns **125 kg per habitant**. Vegeu
    [les mesures i les monedes](./les-mesures-i-les-monedes.md).
 5. **Què són les «carguetes»** que van amb les barretines.
-6. **Si el sègol era per a les persones o per al bestiar.** El document no ho diu.
+6. ~~**Si el sègol era per a les persones o per al bestiar.**~~ —
+   **`no-es-buit` el 20-09-2026**: el document publica **1.250 quintars** de
+   sègol, però no n'indica l'ús; el corpus no el pot assignar a consum humà o
+   alimentació animal.
 
 ## Related
 
