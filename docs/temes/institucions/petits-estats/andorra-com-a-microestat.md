@@ -290,7 +290,12 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - ~~**Les trobades anuals de presidents de parlament** dels petits estats:
   **2014 a Andorra, 2015 a Mònaco**.~~ **[parcial · 2026-09-19]** Ja consten
   les seus i els anys **2014** i **2015**; falta la resta de la sèrie.
-- **Karl Zemanek** i on va escriure l'«OJNI».
+- ~~**Karl Zemanek** i on va escriure l'«OJNI».~~ **[parcial · 2026-09-21]** La transcripció local de
+  *Petits estats i especificitat* ([font](../../../raw/sac-diades/28a-2015-andorra-i-els-petits-estats-deuropa.txt)) conserva la
+  qualificació d'Andorra com a «objecte jurídic no identificat» i la bibliografia de l'IEC identifica
+  l'obra on cal cercar-la: **Karl Zemanek, *L'estatut internacional d'Andorra*, Casa de la Vall,
+  Andorra, 1981** ([nota 20 de *Les relacions internacionals d'Andorra*](https://publicacions.iec.cat/repository/pdf/00000034/00000045.pdf)).
+  Falta llegir l'original de Zemanek per fixar la pàgina i comprovar-hi la frase literal.
 - ~~***De l'Empordanet a Andorra***, de **Josep Pla**: el corpus en té tres
   línies citades de segona mà.~~ **[parcial · 2026-09-19]** El títol, l'autor i
   les tres línies citades ja consten; falta llegir la font directament.
