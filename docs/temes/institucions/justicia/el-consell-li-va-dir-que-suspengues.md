@@ -217,8 +217,10 @@ clàusula mateixa i el registre.**
    de 1337**. `obert, amb referència.`
 6. **L'arrest del Consell Sobirà del Rosselló del 27 d'abril de 1735.** `obert,
    datat.`
-7. **L'estudi sobre la clàusula de ters en dret català** que Brutails critica:
-   **no en dona autor ni títol.** `obert, i és una limitació de la font.`
+7. ~~**L'estudi sobre la clàusula de ters en dret català** que Brutails critica:
+   **no en dona autor ni títol.**~~ — **`no-es-buit` el 20-09-2026**: la nota de
+   Brutails només el descriu com un estudi recent i no n’identifica la
+   referència bibliogràfica; la fitxa no en fabrica cap.
 8. ~~**Quan va deixar de fer-se servir la clàusula de ters a Andorra**, si va
    deixar de fer-se'n.~~ — **`parcial`, actualitzat el 2026-09-19**: la font diu
    que el **1904** la clàusula **«perdia cada dia de la seva força»**, però que
