@@ -170,6 +170,14 @@ buit des de la banda sanitària.
 i interrupcions de l'embaràs en població immigrada** a l'Andorra dels noranta.
 **No n'hi ha cap al corpus.**
 
+La nota del Govern sobre el **SAVVG el 2017** ofereix, com a contrast posterior,
+**155 casos atesos** (107 nous i 48 de prevalença), 71 dones amb seguiment
+psicològic, 98 amb assessorament jurídic, 55 mares i 74 menors amb seguiment
+maternoinfantil, i **15 famílies** allotjades als tres pisos d'acollida. Són
+dades del servei i no estan desglossades per nacionalitat, ni cobreixen les
+separacions, els avortaments o la salut mental de 1997; per tant **acoten el
+tipus de registre que existeix, però no resolen la sèrie històrica que falta**.
+
 ## L'ADMA
 
 **Vuit comissions de treball** que **es reunien setmanalment**. Oberta «no tan
@@ -247,8 +255,11 @@ Barbero descriu bé **l'efecte**: un règim fet de decrets i de quotes anuals
    d'ofici del Registre d'Associacions resolta el **18-12-2015** i publicada el
    2016 ([font BOPA](../../../fonts/bopa-adma-existencia-i-cancellacio.md)).
    La data exacta de fundació i el nombre de sòcies continuen sense constar.
-4. **Dades sobre les conseqüències socials** que la ponència descriu sense
-   xifres.
+4. ~~**Dades sobre les conseqüències socials** que la ponència descriu sense
+   xifres.~~ — **`parcial` el 21-09-2026**: el Govern publica per al SAVVG de
+   2017 casos atesos, seguiment psicològic, assessorament jurídic, atenció
+   maternoinfantil i famílies allotjades; no hi ha desglossament migratori ni
+   sèrie comparable per a l'Andorra dels noranta.
 5. ~~**Quan apareix l'assegurança d'atur** a Andorra, si ho fa. ~~— **`obert`,
    confirmat.** **Cap document del corpus no en registra cap.** **I el corpus té
    la branca laboral prou treballada com perquè l'absència signifiqui alguna
