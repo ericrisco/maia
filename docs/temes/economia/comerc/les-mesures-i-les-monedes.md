@@ -407,9 +407,7 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    **No és una dada de Brutails**: la mateixa taula també escriu «sac = 6
    sisterons», i el corpus no arbitra si és una equivalència o una etiqueta
    divergent.
-3. **Les mesures perdudes** que els documents esmenten i que ell no defineix: la
-   ***justia*** d'oli (14 de febrer de 1445) i el ***cortó*** d'oli (3 d'abril de
-   1446), tots dos «**ad rectam mensuram Vallium Andorre**».
+3. ~~**Les mesures perdudes** que els documents esmenten i que ell no defineix: la ***justia*** d'oli (14 de febrer de 1445) i el ***cortó*** d'oli (3 d'abril de 1446), tots dos «**ad rectam mensuram Vallium Andorre**».~~ — **`parcial` el 20-09-2026**: els actes del Consell del **26 d'octubre de 1801** documenten la **justia** com a unitat de venda de vi («de quatre justias en avall»), i el mateix llibre usa repetidament el **cortó** per fixar preus del vi ([actes històrics](../../../raw/consell-general/actes-historiques/text/llibre-iv-1743-1864.txt)). Això n'acredita l'ús com a mesures de líquids, però no en fixa la capacitat ni resol la relació amb les mesures d'oli de 1445-1446 ([Brutails](../../../raw/llibres/brutails-coutume.txt)).
 4. **Els patrons mateixos**: si es conserven, i on. Brutails diu que els guardava
    la confraria dels teixidors d'Escaldes el 1904.
 5. **Quan es va passar al sistema mètric** a Andorra, i amb quina norma.
