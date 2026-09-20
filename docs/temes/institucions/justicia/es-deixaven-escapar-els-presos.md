@@ -393,10 +393,10 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 9. **Com es mantenia econòmicament un detingut** quan la guarda i el manteniment
    incumbien a la milícia: **qui pagava què.** **La font diu que és onerós i no
    diu a càrrec de qui.**
-10. **Si el règim de capacitat de les dones casades permetia obligar-se com a
-    fiadores.** **El corpus té un acte de 1551 on una dona s'obliga, restitueix
-    el seu marit i el torna a garantir**, **i no en dedueix cap regla.**
-    **Pista per a la branca de societat.**
+10. ~~**Si el règim de capacitat de les dones casades permetia obligar-se com a
+    fiadores.**~~ — **`no-es-buit` el 20-09-2026**: el corpus només té l'acte de
+    1551 en què una dona s'obliga, restitueix el seu marit i el torna a garantir;
+    la mateixa fitxa en deixa constància sense deduir-ne cap regla general.
 
 ## Related
 
