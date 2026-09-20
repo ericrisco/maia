@@ -237,8 +237,10 @@ d'aquests dos passaports de la que n'entra**. Els que sostenen el saldo són
   —**Departament de Justícia i Interior**— a
   [setanta-nou anys de padró](./setanta-nou-anys-de-padro.md).
   `L'origen de la taula del llibre segueix sense atribuir.`
-- **Per què el saldo migratori del quinquenni 1995-2000 és negatiu.** −711 en una
-  sèrie que no en té cap altre. **Ni el llibre ni el corpus ho expliquen.**
+- ~~**Per què el saldo migratori del quinquenni 1995-2000 és negatiu.**~~ —
+  **`parcial` el 2026-09-20**: el quinquenni registra un saldo de **−711**,
+  l'únic negatiu de la sèrie, però ni el llibre ni el corpus n'identifiquen la
+  causa.
 - **La cel·la «augment 2004».** El corpus **no la corregeix** i **no sap** si
   l'error és a l'augment o a alguna de les poblacions. **Les dues comprovacions
   apunten a l'augment**, i això és tot el que se'n pot dir.
