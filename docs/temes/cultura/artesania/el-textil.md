@@ -171,7 +171,13 @@ motiu, no xifres.`
    llana, esmenta **batanar** i **tondre**, i documenta **peucs** i **drap** en
    la fàbrica de mantes d'Escaldes. **La confrontació lexicogràfica directa amb
    el *Vocabulari d'Andorra* (1992) encara no s'ha fet.**
-6. **La resta d'oficis artesans**: fusta, pell, pedra. Mas només en tracta dos.
+6. ~~**La resta d'oficis artesans**: fusta, pell, pedra. Mas només en tracta dos.~~
+   — **`parcial` el 20-09-2026**: el fullet del Govern *Els hostes: oficis i
+   indústries desapareguts* dedica apartats a la **fusta** (picadors, tiradors,
+   serradores i fusters) i a la **pedra** (mestres de cases, forns de calç,
+   llosers, tosquers i terrissaires), i enumera el **baster** entre altres oficis.
+   La font no dedica un apartat específic a la **pell**, de manera que aquest
+   fil queda obert ([font web](../../../raw/web/cultura/oficis/README.md)).
 
 ## Related
 
