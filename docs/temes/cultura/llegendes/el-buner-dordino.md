@@ -57,7 +57,7 @@ consultada no ho diu. El buner es queda a mig camí, tocant.
 
 ## El que falta
 
-- **La versió sencera i les seves variants.** Aquesta és un resum de resum.
+- ~~**La versió sencera i les seves variants.**~~ — **`parcial` el 21-09-2026**: una font periodística sobre la tradició urgellenca i andorrana atribueix a **Pep Coll** la difusió moderna de la versió de la Vall Fosca (1992) i documenta una variant de la Seu d’Urgell amb **Ot i Urgell**; l’article diu que a Andorra aquest personatge auxiliar no hi és. Encara no s’ha buidat la versió sencera del *buner* ni s’han comparat variants pròpies d’Ordino ([font de variants](../../../raw/web/cultura/llegendes/README.md)).
 - **Si el buner té nom** en alguna versió.
 - Si la **buna** s'ha tocat mai a Andorra de debò, quan es va perdre, i si hi ha
   cap instrument conservat. **Aquesta és la pregunta bona**, i lligaria la
