@@ -263,10 +263,12 @@ resol: l'evita.**
   sense atribució; el corpus no pot reconstruir-ne l'origen.
 - **Com un fill de pares portuguesos arriba a «nascut andorrà» el 2007**, amb una
   immigració recent i la nacionalitat als divuit anys.
-- **Les dades de matrimonis mixtos**, que segons les autores **no existeixen**. El
-  seu propi encàrrec —«un estudi aprofundit sobre la relació entre la renúncia i
-  el manteniment d'una llengua i els lligams familiars»— **segueix sense fer-se
-  fins on el corpus sap.**
+- ~~**Les dades de matrimonis mixtos**, que segons les autores **no existeixen**.~~
+  — **`no-es-buit` el 2026-09-20**: l'estudi declara «**no disposem de dades
+  sobre el nombre de matrimonis mixtos**» i només en dedueix situacions a partir
+  de les xifres de bilingüisme. El corpus conserva aquesta absència explícita;
+  queda oberta la investigació aprofundida que les autores proposaven sobre
+  llengua i lligams familiars.
 - **Quina és la llengua vehicular real del sistema congregacional**, avui i el
   2010. **Dues fonts del corpus diuen coses diferents.**
 - ~~**Les xifres d'audiència de l'Observatori del CRES sobre mitjans.** La font
