@@ -971,10 +971,14 @@ principi que un corrector destruiria la dada.
    segueix sent no verificada.
 2. **«Ves» no s'ha confirmat com a *beç*.** L'argument intern és fort —la mateixa
    peça escriu *bedoll* quan cita un text— però **ningú no ho ha escoltat**.
-3. **Els noms propis cauen tots.** `Ramon Violani Simorra` per **Ramon Violant i
+3. ~~**Els noms propis cauen tots.** `Ramon Violani Simorra` per **Ramon Violant i
    Simorra**; `Salvador [?Armet]` i `[?Comte] de Carlet` sense verificar;
    `Cal [?Callehueta] del Puyal` sense identificar. **El corpus no els ha de
-   donar per bons.**
+   donar per bons.**~~ — **`parcial` el 2026-09-20**: [la càpsula #34](../../raw/parla/ari-capsula-34/README.md)
+   identifica correctament **Ramon Violant i Simorra** quan el parlant cita el
+   text històric. **Salvador [?Armet]**, **[?Comte] de Carlet** i **Cal
+   [?Callehueta] del Puyal** continuen sense verificar; no es resolen per
+   inferència.
 4. ~~**Del parlant no consta gairebé res**: ni parròquia, ni generació, ni origen.
    Cita llocs d'Andorra la Vella però com a exemples.~~ — **`no-es-buit` el
    20-09-2026**: la font no publica metadata per situar la veu i el corpus no
