@@ -98,8 +98,9 @@ una constitució de disset articles.**
   error de la font.
 - ~~**Qui va votar en contra.**~~ — **`parcial` el 20-09-2026**: la mateixa
   fitxa documenta la data (**10 de juliol de 1934**) i el recompte (**23 a
-  favor, 1 en contra**), però no el nom del conseller contrari. Cal l'acta
-  primària per tancar aquesta identitat.
+  favor, 1 en contra**). Una entrevista de [Bondia](../../../fonts/bondia-boris-cinto-2024.md)
+  l'identifica com **«el Cinto»**, conseller encampadà, però no en dona el nom
+  civil complet; cal l'acta primària per tancar aquesta identitat.
 - **Què va passar amb el text després de l'expulsió de Skossyreff**, vuit dies
   després de la coronació.
 - **Si el Consell General va derogar mai formalment aquesta Constitució.**
