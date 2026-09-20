@@ -214,10 +214,16 @@ que el corpus ha destil·lat a [contraban](../../historia/contraban/contraban.md
 
 **Dues coses que això obre:**
 
-1. **L'autora no consta a la llista d'escriptors andorrans**, i **el corpus no
+1. ~~**L'autora no consta a la llista d'escriptors andorrans**, i **el corpus no
    sap si ho és.** **Pot ser exactament el cas contrari del que aquesta fitxa
    estudia**: **no literatura andorrana, sinó literatura sobre Andorra** — el
-   territori de [Andorra vista de fora](../andorra-vista-de-fora/els-descobridors.md).
+   territori de [Andorra vista de fora](../andorra-vista-de-fora/els-descobridors.md).~~ —
+   **`parcial` el 20-09-2026**: la mateixa fitxa ja classifica *Escapa't
+   d'Andorra* com a **literatura sobre Andorra escrita des de fora**, amb una
+   protagonista treballadora immigrada, i la situa també a [l'experiència de
+   migrar](../../societat/immigracio/lexperiencia-de-migrar.md). Això resol la
+   classificació de l'obra, però **no prova documentalment la nacionalitat de
+   l'autora**; el text sencer també continua absent.
 2. **És l'únic text de ficció del corpus sencer del qual es coneixen frases.**
    **Si resulta que hi ha novel·la andorrana amb tema andorrà**, **el buit
    «el corpus no té ni un vers andorrà» té un germà en prosa**, i **totes dues
