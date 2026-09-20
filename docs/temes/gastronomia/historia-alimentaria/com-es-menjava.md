@@ -125,8 +125,8 @@ al país.** **Buit registrat, i llaminer:** quina coca té cada poble.
    tradicional](../plats/menges-del-forn-tradicional.md), que documenta els
    quatre noms i l'ús del forn a partir de Ribes. Les receptes completes i les
    variants locals continuen obertes dins la fitxa nova.
-3. Els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992) i el
-   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).
+3. ~~Els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992) i el
+   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).~~ — **`no-es-buit` el 20-09-2026**: és una **instrucció de manteniment lèxic** per contrastar les formes de la fitxa, no una pregunta sobre un fet absent del corpus.
 4. **Quan arriba la taula** a les cases humils, i per què als anys cinquanta.
 5. Els **documents de 1004 i 1043** — d'on surten.
 6. **Cullereres de pastor**: se'n conserven? Als museus?
