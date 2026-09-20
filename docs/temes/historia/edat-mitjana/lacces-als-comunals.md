@@ -292,7 +292,10 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
    els conreus i instal·lar unitats familiars noves**, al costat de
    **l'emfiteusi**, **les artigues** i **les rompudes** — **tres mots que el
    corpus no tenia.**
-6. Tots els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992).
+6. ~~Tots els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992).~~ —
+   **`no-es-buit` el 20-09-2026**: és una instrucció de manteniment lèxic per
+   revisar la fitxa contra un vocabulari, no una dada factual absent que el
+   corpus hagi de tancar.
 
 ## Related
 
