@@ -234,7 +234,11 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 - **La col·lecció de «Les Valls d'Andorra»**, 1917 i 1919.
 - **Què va passar als detinguts** del segrest.
 - **El Cadí**, la revista de FHASA.
-- **Qui era Weillemann** i què hi pintava a La Nova Andorra.
+- ~~**Qui era Weillemann** i què hi pintava a *La Nova Andorra*.~~ —
+  **`parcial` el 20-09-2026**: la mateixa fitxa només el identifica com
+  **«un alemany»** i conserva que probablement va aportar diners a *La Nova
+  Andorra* després de la divisió de la Societat, però la font ho marca com a
+  **conjectura** i no permet identificar-lo ni establir-ne el paper exacte.
 - ~~**Quan apareix la primera impremta** a Andorra, exactament.~~ — **`parcial`
   el 18-09-2026**: **la primera editorial amb impremta i tallers gràfics
   propis és Casal i Vall, fundada el 1956** pels germans **Jaume, Joan i
