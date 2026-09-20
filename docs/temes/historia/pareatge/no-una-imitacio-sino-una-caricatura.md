@@ -493,9 +493,10 @@ l'òrgan.**
    *Revue des Universités du Midi* 1897 i 1898— **que contenen, segons ell,
    l'exposició completa i documentada del que aquí només esbossa.** `obert, amb
    referència exacta.`
-8. **L'estudi de Mérignhac** al *Bulletin du Comité des travaux historiques*,
-   Congrés de 1899, p. 267. **El corpus el té citat i criticat, no llegit.**
-   `obert.`
+8. ~~**L'estudi de Mérignhac** al *Bulletin du Comité des travaux historiques*,
+   Congrés de 1899, p. 267. **El corpus el té citat i criticat, no llegit.**~~ —
+   **`resolt` com a duplicat el 2026-09-20**: la nota llegida i el seu enunciat
+   canònic ja consten a [el Pareatge](./el-pareatge.md#la-nota-contra-mérignhac).
 9. ~~**El decret de Catalan de Ocon del 2 de març de 1762** i **la reivindicació de
    Mgr Casañas de 1894**, textos.~~ — **`parcial` el 20-09-2026**: [Les tres
    sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md) reprodueix
