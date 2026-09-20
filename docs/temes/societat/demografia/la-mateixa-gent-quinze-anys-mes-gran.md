@@ -159,8 +159,26 @@ quantes criatures tenen avui passaport portuguès.`
 - **Quants dels andorrans de cada tram ho són de naixement i quants per
   adquisició.** **És la pregunta que faria llegible la V**, i **la font no la
   respon.** `font_externa`
-- **La piràmide per parròquia**, que també existeix
-  (`POBLACIÓ PER PARRÒQUIA, EDAT (TRAMS 1 ANY) I SEXE`). `serie_estadistica`
+- ~~**La piràmide per parròquia**, que també existeix
+  (`POBLACIÓ PER PARRÒQUIA, EDAT (TRAMS 1 ANY) I SEXE`).~~ — **`parcial` el
+  2026-09-20**: la divisió **1108** del catàleg d'Estadística conserva la sèrie
+  d'un any per edat i sexe per a les set parròquies, **2010–2025** ([dades
+  locals](../../../raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv)).
+  El resum de **2025** per trams amplis és:
+
+  | Parròquia | 0–14 | 15–24 | 25–39 | 40–54 | 55–64 | 65–79 | 80 o més | Total |
+  |---|---:|---:|---:|---:|---:|---:|---:|---:|
+  | Andorra la Vella | 2.678 | 2.539 | 5.255 | 5.981 | 3.816 | 3.404 | 1.163 | 24.836 |
+  | Canillo | 625 | 544 | 1.867 | 1.796 | 851 | 612 | 162 | 6.457 |
+  | Encamp | 1.326 | 1.427 | 3.305 | 3.529 | 2.091 | 1.409 | 433 | 13.520 |
+  | Escaldes-Engordany | 1.749 | 1.643 | 3.565 | 3.974 | 2.439 | 2.047 | 745 | 16.162 |
+  | La Massana | 1.341 | 1.380 | 2.698 | 3.234 | 1.816 | 1.337 | 342 | 12.148 |
+  | Ordino | 760 | 638 | 1.128 | 1.591 | 831 | 573 | 158 | 5.679 |
+  | Sant Julià de Lòria | 1.110 | 1.215 | 2.046 | 2.528 | 1.637 | 1.282 | 438 | 10.256 |
+
+  **La font permet, doncs, construir la piràmide parroquial completa**; el
+  corpus només en deixa aquí el resum de 2025 i no ha generat encara la
+  visualització ni la sèrie interpretada any per any.
 - **Els anys anteriors al 2010.** `serie_estadistica`
 - ~~**Per què la generació del 1972 és la més nombrosa**: **què va passar a
   Andorra aquell any, o qui va arribar després amb aquella edat.**~~ —
