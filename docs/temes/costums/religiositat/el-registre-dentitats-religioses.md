@@ -173,7 +173,14 @@ es poden notificar al Registre **«a efectes informatius»**.
    `docs/raw/relacions-exteriors/concordat-2008/` —**BOPA núm. 47, d'11 de juny
    del 2008.** Aquesta fitxa el citava com si encara faltés.
 5. **Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.
-6. **Els canals de diàleg** de l'article 14: si existeixen.
+6. ~~**Els canals de diàleg** de l'article 14: si existeixen.~~ — **`parcial`
+   el 2026-09-20**: l'article 14 obliga el Govern a establir canals de
+   comunicació i diàleg amb les entitats inscrites, i l'exposició de motius
+   documenta que per elaborar la llei es van mantenir reunions amb el **Grup de
+   diàleg interreligiós**, que treballa amb la Comissió Nacional Andorrana per a
+   la UNESCO. **La norma i els treballs preparatoris acrediten el canal com a
+   obligació i com a interlocutor existent, però no hi ha una font sobre la
+   seva activitat posterior ni sobre el mecanisme concret.**
 
 ## Related
 
