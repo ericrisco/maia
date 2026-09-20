@@ -348,9 +348,12 @@ França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md). **El que hi ha d
 - ~~**Maluquer i Rosés 1962** i **Camps i Arboix**, citats i no llegits.~~
   **[parcial · 2026-09-19]** Les dues referències ja consten com a pistes
   bibliogràfiques, però el corpus encara no n'ha llegit les obres.
-- **El *censal***, l'altra figura de crèdit que
+- ~~**El *censal***, l'altra figura de crèdit que
   [el notariat](../../institucions/justicia/el-notariat.md) declara i que **cap
-  font del corpus no explica**. **Segueix obert.**
+  font del corpus no explica**. **Segueix obert.**~~ — **`resolt` el
+  2026-09-20**: [Nascut d'una prohibició eclesiàstica, mort per decret episcopal](./nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md)
+  explica el censal com a renda constituïda, en descriu les variants segons
+  l'època i en documenta la pràctica andorrana amb actes de 1412–1788.
 - ~~**El crèdit eclesiàstic medieval**, que [abans dels bancs](./abans-dels-bancs.md)
   declara.~~ — **`parcial` el 2026-09-19**: [Abans dels bancs](./abans-dels-bancs.md)
   ja documenta cinc casos entre **1383 i 1532**, amb prestamistes, imports i
