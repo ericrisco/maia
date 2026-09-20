@@ -212,9 +212,13 @@ s'endevina:
 3. **Si el termini del pregó anava amb la finalitat** —**un mes per cridar els
    creditors d'un patrimoni, deu dies per assegurar una compra**. **`Hipòtesi del
    corpus` sobre tres actes**; **caldrien més crides de cada classe.**
-4. **Per què el 1488 un particular demana sentència al **Veguer** en matèria de
-   béns**, quan la justícia civil de primera instància és dels batlles.
-   **Registrat, no arbitrat.**
+4. ~~**Per què el 1488 un particular demana sentència al **Veguer** en matèria de
+   béns**, quan la justícia civil de primera instància és dels batlles.~~ —
+   **`parcial` el 20-09-2026**: el requeriment del **21 de març de 1488** demana
+   al Veguer sentència i declaració sobre els béns de Guillem R., mentre el corpus
+   situa la primera instància civil als batlles. La fitxa acota dues explicacions
+   possibles —una distribució de competències anterior o un ús ampli de «Cort»—,
+   però no permet provar-ne cap.
 5. ~~**Quan van desaparèixer els pregoners públics de les Valls.**~~ —
    **`parcial`, actualitzat el 2026-09-19**: [El qui tastava el vi i posava el
    preu de la fruita](./el-qui-tastava-el-vi-i-posava-el-preu-de-la-fruita.md)
