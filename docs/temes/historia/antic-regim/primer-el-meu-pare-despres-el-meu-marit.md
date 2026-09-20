@@ -170,7 +170,7 @@ papers](./la-casa-als-papers.md).
    la font només documenta **una adopció**, del 13 d’agost de 1788, i afirma que
    la institució **no s’hi practicava**; el corpus no té una sèrie ni pot dir si
    n’hi hagué més. **Un buit de la font no és un buit del món.**
-4. **El cas de la sogra assassinada**: **sense data, sense noms i sense
+4. ~~**El cas de la sogra assassinada**: **sense data, sense noms i sense
    referència**. **El corpus no sap si va arribar a sentència.** `Requereix font
    externa: els registres de judicis criminals dels batlles.` — **Pista afegida el
    2026-09-18**: la mateixa obra, a la **p. 147**, explica que **les Corts van
@@ -179,7 +179,11 @@ papers](./la-casa-als-papers.md).
    fàcil fer la vida impossible al gendre](./massa-facil-fer-la-vida-impossible-al-gendre.md)).
    **Podria ser el mateix fet vist dues vegades**, un cop com a fet social i
    l'altre com a plet successori, **però cap dels dos passatges no porta data ni
-   nom i la font no els relaciona.** `hipòtesi del corpus, no verificada.`
+   nom i la font no els relaciona.** `hipòtesi del corpus, no verificada.`~~ —
+   **`parcial` el 20-09-2026**: queda documentat el nucli del cas —un fill hereu
+   que mata la mare i una decisió de les Corts que protegeix els fills del
+   culpable—, però no la identitat, la data ni l'eventual sentència del cas narrat
+   com a fet social.
 5. ~~**Quants processos entre sogres i nores hi va haver**~~ — **`parcial` el
    19-09-2026**: la font els qualifica de **«força freqüents»**, però no en
    dona cap xifra ni cap cas datat.
