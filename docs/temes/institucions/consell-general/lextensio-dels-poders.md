@@ -191,11 +191,19 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
 
 ## Buits registrats
 
-1. **El text del decret del 13 de maig de 1902**, i quan es va derogar o deixar
-   d'aplicar.
-2. **Les «convencions expresses»** que donaven immunitat als productes francesos:
-   quines són i de quin any. **Prioritari** — són el que va tombar l'impost.
-3. **Les 8.000 pessetes per hectàrea** del tabac i els prats: d'on surten.
+1. ~~**El text del decret del 13 de maig de 1902**, i quan es va derogar o deixar
+   d'aplicar.~~ — **`parcial` el 20-09-2026**: la fitxa ja conserva el text i la
+   data —**1 pesseta per càrrega importada**, amb exempció del blat, pa i
+   farina—, però no ha localitzat l'acte de derogació ni la darrera aplicació.
+2. ~~**Les «convencions expresses»** que donaven immunitat als productes francesos:
+   quines són i de quin any. **Prioritari** — són el que va tombar l'impost.~~ —
+   **`parcial` el 20-09-2026**: la font afirma que existien i que el Consell va
+   haver de reconèixer-ne la immunitat, però no identifica els convenis ni en dona
+   l'any.
+3. ~~**Les 8.000 pessetes per hectàrea** del tabac i els prats: d'on surten.~~ —
+   **`parcial` el 20-09-2026**: la xifra i el fet que els prats grassos i el tabac
+   no pagaven ni el delme consten a la nota de 1902; la font no n'explica la base
+   de valoració.
 4. **Si el tabac va començar a tributar**, i quan.
 5. ~~**Els casos «tout récents»** en què una ordre als batlles va bloquejar el
    Consell General. Brutails els esmenta i no en data cap.~~ — **`parcial` des del
@@ -215,8 +223,11 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
    Vegeu [«Diria que sí»](./diria-que-si.md).
 6. **Els dos documents sencers**, de 1580 i 1603, i **com van acabar**. El corpus
    en té el plantejament i no el desenllaç.
-7. **Qui eren** Berthomeu Guiem, Bernat Ricart, Bernat Sucarana, Pere Vilar alias
-   Terrat, Jean Morato alias Aymar i Catherina.
+7. ~~**Qui eren** Berthomeu Guiem, Bernat Ricart, Bernat Sucarana, Pere Vilar alias
+   Terrat, Jean Morato alias Aymar i Catherina.~~ — **`parcial` el 20-09-2026**:
+   l'acte del **17 de gener de 1603** ja els identifica com a veïns d'Engordany,
+   cinc homes i **Catherina**, que hi figura pel nom i com a muller de Jean
+   Morato; no hi ha dades biogràfiques ni una identificació més completa.
 8. **On era «la hera de Riberaygua»**, i per on passava el camí general abans i
    després.
 
