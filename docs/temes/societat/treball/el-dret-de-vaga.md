@@ -152,8 +152,14 @@ vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
   > no és quants n'hi ha sinó si n'hi ha cap en el sentit de la norma.**
   > `deducció del corpus, no verificada contra cap resolució.`
   **El recompte d'avui i els llindars segueixen oberts.**
-- **Quantes vagues s'han convocat** des del 2018, tampoc; ni si el Govern ha
-  fixat mai serveis essencials.
+- ~~**Quantes vagues s'han convocat** des del 2018, i si el Govern ha fixat mai
+  serveis essencials.~~ **`parcial` el 21-09-2026**: l’article 21.2 de la llei
+  de conflictes col·lectius ja enumera els serveis on el Govern pot imposar un
+  funcionament mínim —sanitat, seguretat, prestacions socials, transport,
+  comunicacions, subministraments, educació, justícia, presons i duanes— i
+  l’article 21.3 en fixa la motivació, proporcionalitat i consulta prèvia. La
+  norma acredita la potestat, però el corpus encara no té el recompte de vagues
+  2018–2026 ni cap resolució que provi que s’hagi exercit.
 - ~~**El Consell Econòmic i Social** no té fitxa al corpus.~~ — **`resolt` el
   18-09-2026**: [fitxa pròpia](./el-consell-economic-i-social.md), amb el
   marc legal, la composició i les funcions del Consell.
