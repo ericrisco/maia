@@ -155,7 +155,7 @@ relat, no una prova a favor seu.**
 - ~~**L'operació Catalunya** com a objecte: **el corpus no en té fitxa, i aquí hi
   surt com a context donat per sabut.**~~ — **`resolt` el 18-09-2026**:
   **ara en té**, a [l'Operació Catalunya](../../economia/banca-i-fiscalitat/loperacio-catalunya.md).
-- **Eric Merola**: **qui és, què ha fet abans, i com arriba a Andorra.**
+- ~~**Eric Merola**: **qui és, què ha fet abans, i com arriba a Andorra.**~~ — **`parcial` el 20-09-2026**: la [font oficial del director](../../../fonts/eric-merola-the-andorra-hustle.md) el presenta com a **director, productor i periodista**, amb documentals anteriors sobre **Burzynski**, **Laetrile** i **cèl·lules fetals**, i explica que abans treballava en **motion graphics i animació**; el dossier diu que l’interès per BPA va començar per curiositat sobre el poder de la **Section 311** del Tresor dels EUA i que el rodatge es va fer a Andorra, Espanya, Bèlgica i els EUA. **La biografia completa i la trajectòria anterior detallada encara no hi són.**
 - **Les altres «episodis de corrupció» que el documental repassa**, que la font
   no enumera.
 
