@@ -147,7 +147,12 @@ oblidada:
   Meritxell; l'APA de l'Escola Andorrana queda fora de la llista, tot i que la
   font diu que hi col·laborava. **No en dona el motiu.**
 - **Quantes APA hi ha** i quants socis.
-- **Si la CONAPA existeix encara.**
+- ~~**Si la CONAPA existeix encara.**~~ — **`parcial` el 2026-09-20**: la
+  [pàgina actual del Govern sobre les AMPA](../../../fonts/govern-ampa-2026.md)
+  enumera les associacions per centre i **no hi inclou cap entrada amb el nom
+  CONAPA o Confederació d'Associacions de Pares d'Alumnes**. **Aquesta absència
+  només acota el registre institucional consultat: no prova que l'entitat s'hagi
+  dissolt ni que no existeixi jurídicament.**
 - ~~**El Reglament del transport escolar** (BOPA 9.9.1998).~~ — **`parcial` el
   17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí **44 del 1998**
   (`docs/raw/societat/educacio-bopa/reglament-1998-transport-escolar.txt`).
