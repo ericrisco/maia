@@ -85,9 +85,12 @@ Aquests sis mesos són **la base material** de
   hivernal complet, l'inventari històric, altres episodis i la verificació
   dels mapes; no es declara coberta tota la matèria.
 - ~~El **canvi climàtic** i què li fa a la temporada de neu — «no hi ha ni una
-  línia».~~ **JA HI HA FITXA:**
-  [El canvi climàtic a Andorra](./el-canvi-climatic.md) — les màximes d'estiu
-  pugen **0,45 °C per dècada** i la pluja cau un **4%**.
+  línia».~~ — **`parcial` el 20-09-2026**: [El canvi climàtic a
+  Andorra](./el-canvi-climatic.md) ja documenta **+0,45 °C per dècada a les
+  màximes d'estiu**, **+0,22 °C a les mínimes d'hivern**, **−0,6 dies gèlids per
+  dècada** i **−4% de precipitació per dècada**. La fitxa encara no té les
+  projeccions numèriques de cota de neu ni de dies esquiables, que continuen
+  obertes a la seva pròpia secció «El que falta».
 - Les dades oficials andorranes de clima, per estació.
 - ~~El **lèxic de la neu i del temps**: Andorra va col·laborar en el *Vocabulari
   de la neu* i el *Diccionari de la neu* del TERMCAT. **Aquest lèxic és el que

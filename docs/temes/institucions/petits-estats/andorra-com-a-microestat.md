@@ -281,8 +281,12 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
   recupera): [els petits estats comparats](./els-petits-estats-comparats.md).
   **Els gràfics del PDF són imatges i no s'han extret**, de manera que hi ha el
   comentari del Departament i no totes les xifres. Queda obert **fer-ne OCR**.
-- ~~**Els Jocs dels Petits Estats d'Europa** i la participació andorrana.~~
-  **JA HI HA FITXA:** [Els Jocs dels Petits Estats d'Europa](../../esports/competicio/els-jocs-dels-petits-estats.md).
+- ~~**Els Jocs dels Petits Estats d'Europa** i la participació andorrana.~~ —
+  **`parcial` el 20-09-2026**: [la fitxa dels Jocs](../../esports/competicio/els-jocs-dels-petits-estats.md)
+  ja documenta el reglament, la participació andorrana de **1985, 1987, 1989,
+  2013, 2015 i 2025**, i les tres edicions organitzades a casa (**1991, 2005 i
+  2025**). El recompte de medalles de **2005** encara no consta i el
+  desglossament de medalles de 2025 té una divergència entre fonts.
 - ~~**Les trobades anuals de presidents de parlament** dels petits estats:
   **2014 a Andorra, 2015 a Mònaco**.~~ **[parcial · 2026-09-19]** Ja consten
   les seus i els anys **2014** i **2015**; falta la resta de la sèrie.
