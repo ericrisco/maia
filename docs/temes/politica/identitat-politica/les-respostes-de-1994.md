@@ -575,8 +575,11 @@ precisament el que Joan Massa advertia al mateix volum.
    ([font](../../../fonts/ara-ribas-reig-onu-1993.md)). **Primer discurs
    oficial en català a l'ONU** — Pau Casals l'havia usat el 1971, en acte no
    oficial.
-4. **Les dides andorranes a França.** Exportació de treball de cura, sense cap
-   fitxa al corpus.
+4. ~~**Les dides andorranes a França.**~~ — **`parcial` el 2026-09-20**: Betriu
+   descriu l'exportació de **dones andorranes que feien de dides a França** com
+   una de les relacions econòmiques amb aquell país. **La resposta no en dona
+   noms, nombre, dates ni localitats**, i el corpus encara no té una fitxa o una
+   sèrie específica sobre aquest treball de cura.
 5. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
    corpus no en té res.
 6. ~~**L'any d'entrada d'Andorra a la UNESCO.**~~ — **`resolt` el
