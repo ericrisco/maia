@@ -149,8 +149,12 @@ o més en compren tres vegades més que ells.**
 
 ## El que falta
 
-- **Què va passar el 2011**, quan les societats de capital resident van comprar
-  2.600 béns. `pregunta_oberta`
+- ~~**Què va passar el 2011**, quan les societats de capital resident van
+  comprar 2.600 béns~~ — **`parcial` el 20-09-2026**: les societats de capital
+  100% resident passen de **91 béns el 2010** a **2.600 el 2011** i baixen a
+  **544 el 2012**; les societats sumen **2.961 béns** el 2011 (**60,0%** del
+  total). La font confirma el pic i la reversió immediata, però no identifica
+  l'operació ni un canvi de registre que els expliqui.
 - **La nacionalitat i l'edat del capital de les societats compradores**, que és
   un terç del mercat i **no es publica.** `La font només en dona el percentatge
   de capital resident.`
