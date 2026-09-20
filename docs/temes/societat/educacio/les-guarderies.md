@@ -236,12 +236,14 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
 
 ## Buits registrats
 
-- ~~**Quantes guarderies hi ha, quantes places i quants infants**, no consta. ~~—
-  **`obert`, confirmat el 18-09-2026 amb l'API d'Estadística a la mà.** **La
-  branca d'ensenyament no compta guarderies**: **compta la maternal**, que és
-  escola i no guarderia. `La divisió 259 dona els alumnes de maternal centre
-  per centre i curs per curs, i el 0-3 no hi surt.` **Segueix fent falta el
-  registre d'autoritzacions del ministeri.**
+- ~~**Quantes guarderies hi ha, quantes places i quants infants**, no consta.~~ —
+  **`parcial` el 20-09-2026**: el [llistat oficial del Registre Nacional de
+  Serveis Socials i Sociosanitaris](../../../raw/web/societat/educacio/llistat-guarderies-govern.txt)
+  conserva **18 guarderies** i les identifica per nom, adreça i parròquia, però
+  no dona ni el nombre de places ni el d'infants atesos. **La branca
+  d'ensenyament no compta guarderies**: **compta la maternal**, que és escola i
+  no guarderia. `La divisió 259 dona els alumnes de maternal centre per centre i
+  curs per curs, i el 0-3 no hi surt.`
 
   **El que sí que es pot dir és quantes criatures hi ha al tram següent, i
   que en són cada any menys**: **2.453 alumnes de maternal el curs 2013 i
