@@ -281,8 +281,10 @@ privat:**
 7. ~~**Quantes desposessions hi va haver**~~ — **`parcial` el 19-09-2026**: la
    font diu que **«sembla» que eren freqüents** i només cita **un registre**;
    no hi ha recompte.
-8. **La discrepància dels 5 sous**: **0,65 pta imprès contra 0,665 pta calculat.**
-   **Registrada, no arbitrada.**
+8. ~~**La discrepància dels 5 sous**: **0,65 pta imprès contra 0,665 pta calculat.**
+   **Registrada, no arbitrada.**~~ — **`no-es-buit` el 20-09-2026**: la fitxa ja
+   conserva les dues xifres i explicita que la diferència queda registrada sense
+   una arbitració documental.
 9. **Si la *peixena* encara existia el 1904 als rebaixants**, o **si el moviment de
    1893 ja l'havia buidada.** **La font descriu el moviment en curs i no en dona
    l'abast.**
