@@ -233,8 +233,13 @@ Nike des del 2019.**
   des de l'abril del 2019**, presentat pel mateix Piqué. **L'import, no
   consta.** **I hi ha dos patrocinadors andorrans més**: **el Grup Cierco**,
   accionista, i **Pyrénées**, «soci prèmium» des del febrer del 2020.
-- **Quant paga el club per jugar a l'Estadi de la FAF**, i **què passa el maig
-  del 2026** quan l'acord venci.
+- ~~**Quant paga el club per jugar a l'Estadi de la FAF**, i **què passa el maig
+  del 2026** quan l'acord venci.~~ — **`parcial` el 20-09-2026**: la [Cadena
+  SER](../../../../raw/web/esport/fc-andorra-estadi/README.md) informa que la
+  renovació amplia l'ús de l'estadi fins al **30 de juny de 2028**, amb un
+  preu anual de **850.000 euros**; el Govern n'havia assumit aproximadament
+  **400.000** l'any anterior. La peça consultada descriu el pacte com a tancat
+  però pendent de signatura, i el contracte formal no consta al corpus.
 - ~~**El Club Gimnàstic de Manresa**, que el bolcat dona com a planter del club, i
   **per què el viver del FC Andorra és a Catalunya.**~~ **[parcial · 2026-09-20]**:
   el bolcat del FC Andorra obre la secció juvenil amb `Club Gimnàstic de
