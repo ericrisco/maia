@@ -173,6 +173,14 @@ sap si existeix.`
 (art. 29). **L'article 10 es titula «Prioritat pressupostària».**
 `De cap dels tres el corpus no té ni composició, ni actes, ni pressupost.`
 
+La mateixa llei, però, en fixa l'esquelet: la Comissió Nacional coordina les
+polítiques de Govern i comuns i avalua'n l'impacte; el Pla Nacional ha de durar
+com a mínim quatre anys i s'ha d'elaborar amb administracions, entitats socials
+i participació dels infants; el Consell Nacional i els consells comunals són
+espais de participació, amb composició i funcions pendents de reglament. El
+desplegament reglamentari de la Comissió Nacional tenia un termini màxim de sis
+mesos des de l'entrada en vigor de la llei ([articles 7-10 i 29](../../../raw/lleis/bopa/llei-14-2019-qualificada-drets-infants-adolescents.txt)).
+
 ### El rastre estadístic del registre
 
 Tot i que el corpus no ha localitzat el registre administratiu que l'article 71
@@ -227,8 +235,11 @@ amb aquell nom.
   l'elevació d'un informe quan hi ha risc greu o la intervenció no el redueix;
   la font estadística no publica el nombre de casos ni els resultats de la
   xarxa d'atenció primària.
-- **La Comissió Nacional de la Infància i l'Adolescència, el Pla Nacional i el
-  Consell Nacional**: composició, actes i pressupost. `pregunta_oberta`
+- ~~**La Comissió Nacional de la Infància i l'Adolescència, el Pla Nacional i el
+  Consell Nacional**: composició, actes i pressupost.~~ — **`parcial` el
+  21-09-2026**: la Llei 14/2019 en fixa funcions, durada mínima del Pla,
+  participació i termini de desplegament; continuen sense localitzar-se la
+  composició reglamentària efectiva, els actes i el pressupost executat.
 - **La distribució de totes les famílies andorranes per tipus** —nuclear,
   separada, monoparental— **no es publica**, i sense ella **no es pot dir si el
   41,6% de famílies separades ateses és més o menys del que li tocaria.**
