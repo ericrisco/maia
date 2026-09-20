@@ -269,8 +269,11 @@ llibre:**
    compra la línia comprometent-se a mantenir-la** (pp. 151-152). **El 1904 hi
    ha converses perquè França n'assumeixi explotació i manteniment, però la font
    no diu si l'acord es va arribar a executar.**
-5. **La proposta de telèfon del bisbe** i **l'acord del Consell General que la
-   rebutja.** **Nou.**
+5. ~~**La proposta de telèfon del bisbe** i **l'acord del Consell General que la
+   rebutja.** **Nou.**~~ — **`parcial` el 20-09-2026**: **Vilar diu que el
+   bisbe havia proposat el telèfon feia més d'un any i que volia confiar-ne
+   l'administració als rectors de les parròquies; el Consell General ho va
+   rebutjar** (p. 152). **La font no dona la data exacta ni transcriu l'acord.**
 6. ~~**La tercera escola francesa**, oberta entre el 1900 i el 1904: **on i quan.**~~
    — **`parcial` el 20-09-2026**: **Vilar confirma que el 1904 ja hi havia tres
    escoles franceses i un curs de francès, establerts «des de fa alguns anys»**
