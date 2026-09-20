@@ -325,8 +325,12 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
 6. **Quan van desaparèixer les fargues** i **què venien els comuns després.**
 7. **La «mena de prestació»** amb què les parròquies reparaven els camins:
    **quants dies, a qui obligava i com es commutava.**
-8. **La xifra de 6.000 habitants** i **la proporció que vivia fora dels burgs**.
-   **La font no dona font.** `El corpus té sèries de població per contrastar.`
+8. ~~**La xifra de 6.000 habitants** i **la proporció que vivia fora dels
+   burgs**.~~ — **`parcial` el 2026-09-20**: Vilar, *L'Andorre* (1904, p. 64),
+   diu que **més de la meitat dels 6.000 habitants** vivien als annexos de les
+   parròquies; la proporció que dona la font és, per tant, **superior al 50 %**
+   (més de 3.000 persones). **El text no identifica el cens ni la data de la
+   xifra**, i el corpus no la pot verificar independentment.
 9. ~~**Des de quan «el partit francès» guanyava sempre**, i **què vol dir això en
    un sistema sense partits.**~~ — **`parcial` el 2026-09-18**: la font fixa **1887**
    com l'any des del qual ho afirma, però **no dona resultats electorals ni
