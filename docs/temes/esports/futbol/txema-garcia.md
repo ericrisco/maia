@@ -44,7 +44,7 @@ confon.** Vegeu [Sergi Moreno](./sergi-moreno.md), on hi ha la nota sencera.
 
 ## El que falta
 
-- **Quan va arribar a Andorra i quan es va nacionalitzar.**
+- ~~**Quan va arribar a Andorra i quan es va nacionalitzar.**~~ — **`parcial`**: [BDFutbol](../../../raw/web/esport/futbol/txema-garcia/bdfutbol-txema-garcia.html) el situa jugant amb el **FC Andorra la temporada 1997-98** i li atribueix nacionalitats espanyola i andorrana; la fitxa no dona la data d'arribada al Principat ni la de naturalització.
 - ~~**Els seus clubs.**~~ — **`parcial` el 19-09-2026**: la font només
   identifica el **FC Encamp** com el club actual; no hi consten la trajectòria
   completa ni les temporades de cada club.
