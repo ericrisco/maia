@@ -152,7 +152,7 @@ aquest.
 
 ## Buits registrats
 
-1. **La ponència de Ferrer de 1990** sentera, per contrastar-la amb aquesta.
+1. ~~**La ponència de Ferrer de 1990** sentera, per contrastar-la amb aquesta.~~ — **`parcial` el 21-09-2026**: el [PDF oficial de les actes de la 3a Diada Andorrana](../../../raw/llibres/sac-3a-diada-1990.pdf) conserva la ponència **«Integració social i política dels andorrans de primera generació»** de **M. Rosa Ferrer i Obiols**, a les pàgines **59–68**, i el corpus ja n’ha extret la identificació, la signatura i la dada del 83 % de població estrangera. **La lectura comparada completa amb el text de 2002 encara no s’ha fet.**
 2. ~~**Dades reals** de percentatge de població estrangera el 2002 i avui.~~ — **`parcial` el 21-09-2026**: el 2002 consten **67.159 persones registrades**, de les quals **25.467 (37,9 %) tenien nacionalitat andorrana**; la població de nacionalitat estrangera era, per tant, **62,1 %**. La sèrie oficial posterior dona **54,7 % el 2024** i **55,3 % el 2025**. La dada del 2002 prové dels censos registrats i les de 2024–2025 del registre de població estimada, de manera que la comparació no és estrictament homogènia ([font de 2002](../../../raw/web/societat/demografia/README.md) i [sèrie oficial posterior](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)).
 3. ~~**Què va passar** amb el reconeixement d'Andorra per part dels estats de la UE.~~ —
    **`parcial` el 21-09-2026**: el [Tractat de bon veïnatge de 1993](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
