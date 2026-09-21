@@ -291,7 +291,7 @@ de cada moment i no pas a un programa preordenat»**
     la font secundària diu incapacitat fins al 1975, la primària diu que el 1904
     la incapacitat no era la llei i que la pràctica notarial la contradeia.
     **Sense el text de 1975 el corpus no pot dir què va tancar.**
-10. **El sufragi femení comunal** — anava alhora?
+10. ~~**El sufragi femení comunal** — anava alhora?~~ — **`resolt` el 21-09-2026**: la cronologia del [Consell General](../../../fonts/consell-general-web.md) fixa que el **14 de desembre de 1971** les dones van votar per primera vegada **a les eleccions generals i comunals**.
 11. ~~**Roser Suñé** i la sindicatura del 2019.~~ — **`resolt` amb el corpus,
     sense cap font nova.** **Roser Suñé i Pascuet, Andorra la Vella, 26 d'agost
     del 1960**, **síndica general del 2 de maig del 2019 al 26 d'abril del
