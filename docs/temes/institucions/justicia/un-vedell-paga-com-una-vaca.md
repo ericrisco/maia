@@ -247,13 +247,21 @@ de novembre de 1898**.
    aplicar.**~~ — **`parcial` el 2026-09-18**: la font en diu **«cas estrany»** i el
    corpus confirma que **no té cap altre exemple**; el text sencer i qualsevol
    aplicació posterior continuen oberts.
-4. **El decret del 22 de desembre de 1886** sobre els vedells, **i quina
-   controvèrsia el va provocar.**
-5. **El decret del Consell del 25 de novembre de 1898** sobre a quin cònsol es
-   paga la indemnització.
-6. **La decisió del Consell General del 17 de maig de 1874** que cassa la decisió
-   del comú, **sencera, i de quin comú era.** **Prioritari**: **és un límit
-   escrit a la potestat normativa d'un comú.**
+4. ~~**El decret del 22 de desembre de 1886** sobre els vedells, **i quina
+   controvèrsia el va provocar.**~~ — **`parcial` el 21-09-2026**: [Brutails, *La
+   Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt) confirma que el
+   decret va establir que el vedell tingués la mateixa tarifa que la vaca; **no
+   conserva el text ni la controvèrsia que el va motivar**.
+5. ~~**El decret del Consell del 25 de novembre de 1898** sobre a quin cònsol es
+   paga la indemnització.~~ — **`parcial` el 21-09-2026**: la fitxa ja en
+   conserva la regla concreta —qui refusa pagar queda sotmès al *cot de la
+   parròquia*, però no paga al cònsol de la parròquia on s'ha comès la
+   contravenció—; **el decret íntegre encara falta**.
+6. ~~**La decisió del Consell General del 17 de maig de 1874** que cassa la decisió
+   del comú, **sencera, i de quin comú era.**~~ — **`parcial` el 21-09-2026**:
+   Brutails confirma que el Consell va anul·lar la decisió d'un comú que volia
+   triar per endavant entre *ban* i *dany*; **no identifica el comú ni conserva
+   l'acta sencera**.
 7. ~~**Què són exactament els *tardivalls* i les «*herbas maencas o artificials*».**~~
    — **`resolt` a mitges el 18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**,
    **i la meitat que es tanca es tanca del tot.**
