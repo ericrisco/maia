@@ -257,9 +257,14 @@ carreteres**, **i la fractura institucional que en va sortir.**
    **Sense data ni referència.** **Prioritari pel que afirma.**
 6. **L'expedient del dipòsit de les rendes del bisbe i els canonges el 1836**, amb
    **intervenció del bisbe d'Albi.**
-7. **El dictamen del Consejo de Estado de 1864** i **el del Consejo Real de cap al
-   1852**. **Prioritari**: **és la reclamació espanyola de domini fonamentada al
-   Tractat dels Pirineus**, i **contradiu el que el corpus té.**
+7. ~~**El dictamen del Consejo de Estado de 1864** i **el del Consejo Real de cap al
+   1852**.~~ — **`parcial` el 2026-09-21**: la font ja identifica el dictamen de
+   **1864** com a basat en un altre del **Consejo Real de dotze anys abans** i en
+   conserva la tesi: la duana espanyola havia d’anar a la frontera francesa i el
+   Tractat dels Pirineus donava a Espanya **domini, jurisdicció i propietat**
+   sobre les Valls. **La divergència amb la font del corpus que diu que el tractat
+   no afectava les Valls queda registrada i no arbitrada; falten els dos textos
+   íntegres.**
 8. **Els dos mil duros retornats de la Capitania General de Catalunya el 1854**, i
    **quina era la partida detinguda.**
 9. ~~**Què va passar exactament els períodes 1868-1878 i 1883-1886.**~~ —
