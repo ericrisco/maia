@@ -238,8 +238,7 @@ cabaler](./lhereu-i-el-cabaler.md).
    **`parcial`**: la font en dona **dos casos** i diu **«sovint al segle XV»**,
    prou per descartar que sigui un cas únic, però sense una sèrie que permeti
    mesurar-ne la freqüència.
-7. **Si a Andorra es deia «casat sense capítols»** per a la unió lliure. **El
-   testimoni que la font dona és rossellonès.**
+7. ~~**Si a Andorra es deia «casat sense capítols»** per a la unió lliure.~~ — **`parcial` el 21-09-2026**: el testimoni que conserva Brutails és **rossellonès**, no andorrà; la fitxa pot documentar l'expressió i el seu origen, però no confirmar-ne l'ús a Andorra.
 8. ~~**L'ordenança de Lluís XV del 27 de març de 1748**, en la part que Brutails cita.~~ — **`parcial` el 21-09-2026**: Brutails n'utilitza la regla per explicar el marc dels capítols matrimonials, però el corpus no té el passatge d'Isambert (t. XXII, p. 193) que en permetria la lectura literal.
 
 ## Related
