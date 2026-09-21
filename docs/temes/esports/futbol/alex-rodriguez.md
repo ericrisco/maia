@@ -32,8 +32,8 @@ tags: [esports, futbol, seleccio]
 
 ## El que falta
 
-- Tot: **quan va ser aquell partit, contra qui, i la resta de la carrera.**
-- **La resta de la carrera.**
+- ~~Tot: **quan va ser aquell partit, contra qui, i la resta de la carrera.**~~ — **`parcial` el 21-09-2026**: el [bolcat biogràfic](../../../fonts/wikipedia-atletes-andorrans.md) fixa la internacionalitat en **2004** i confirma el pas pel **FC Santa Coloma**, però no identifica el rival ni dona la cronologia completa.
+- ~~**La resta de la carrera.**~~ — **`parcial` el 21-09-2026**: la font només conserva el **FC Santa Coloma** com a club conegut; no hi ha més clubs ni dates de carrera.
 
 ## Related
 
