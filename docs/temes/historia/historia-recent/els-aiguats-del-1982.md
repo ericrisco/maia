@@ -153,10 +153,14 @@ diluvi d'aigua...»*.**
   2026-09-22**: **la fitxa només ha llegit un article sobre la conca del Segre**.
   **Cal consultar *El Diari d'Andorra* i l'Arxiu Nacional per completar la
   perspectiva andorrana.**
-- **L'exposició *Aiguats del 1982*** del
+- ~~**L'exposició *Aiguats del 1982*** del
   [Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md),
-  del **2013**.
-- **Què es va canalitzar exactament, i quan.**
+  del **2013**.~~ — **`font_externa` el 2026-09-22**: cal consultar el catàleg o
+  l'arxiu del Museu del Tabac per verificar el contingut i la data de l'exposició.
+- ~~**Què es va canalitzar exactament, i quan.**~~ — **`font_externa` el 2026-09-22**:
+  la fitxa només conserva la notícia que el riu es va canalitzar; el projecte
+  d'obra i l'expedient administratiu són la font necessària per precisar l'abast
+  i la data.
 - **Si va haver-hi canvi normatiu urbanístic** després del 1982.
 
 ## Related

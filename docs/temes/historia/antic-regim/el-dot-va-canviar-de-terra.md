@@ -230,8 +230,10 @@ I els venedors **renuncien «a la lley que ajuda als engañats en mes de la mita
    Andorra](../../llengua/lexic-andorra/la-marca-que-no-vol-dir-andorra.md).
    **Segueix obert el que demanava actes**: més atestacions andorranes del sentit
    de tanteig. `Requereix més actes notarials.`
-10. **Brutails no dona signatura d'arxiu** d'aquesta peça, com de cap acte notarial
-    del volum. `Requereix els protocols d'Ignasi Soldevila.`
+10. ~~**Brutails no dona signatura d'arxiu** d'aquesta peça, com de cap acte notarial
+    del volum.~~ — **`font_externa` el 2026-09-22**: la font publicada només identifica
+    el notari **Ignasi Soldevila**; per localitzar l'original cal consultar els seus
+    protocols notarials, que no formen part del corpus.
 
 ## Related
 

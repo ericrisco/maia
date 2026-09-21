@@ -163,9 +163,11 @@ papers](./la-casa-als-papers.md).
 1. **El testament del 5 d'octubre de 1519**, sencer, i **si la fórmula «*dominum
    majorem*» era corrent**. **La font en cita l'ítem i el dona per típic amb una
    sola peça.**
-2. **L'acta d'adopció del 13 d'agost de 1788**, sencera, **i si la donació
+2. ~~**L'acta d'adopció del 13 d'agost de 1788**, sencera, **i si la donació
    universal es va arribar a fer efectiva.** **La font en dona l'àpoca, no el
-   desenllaç.**
+   desenllaç.**~~ — **`font_externa` el 2026-09-22**: la fitxa només conserva
+   l'àpoca publicada; cal consultar l'acta notarial completa i la documentació
+   patrimonial posterior per saber si la donació universal es va fer efectiva.
 3. ~~**Si hi va haver més adopcions a Andorra**~~ — **`parcial` el 19-09-2026**:
    la font només documenta **una adopció**, del 13 d’agost de 1788, i afirma que
    la institució **no s’hi practicava**; el corpus no té una sèrie ni pot dir si

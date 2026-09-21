@@ -68,8 +68,10 @@ cita.
 - ~~Els **Costums** i el dret consuetudinari abans del Manual Digest.~~ —
   **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda al
   panorama de [l’antic règim](../antic-regim/lantic-regim.md).
-- La documentació de l'Arxiu Nacional i les actes del Consell, que arrenquen més
-  tard però remeten enrere.
+- ~~La documentació de l'Arxiu Nacional i les actes del Consell, que arrenquen més
+  tard però remeten enrere.~~ — **`font_externa` el 2026-09-22**: són sèries
+  documentals que cal consultar directament per comprovar quins testimonis
+  remeten a l'edat mitjana; aquesta fitxa no les ha llegides.
 - ~~L'article de la **Catalunya Romànica** sobre el marc històric del romànic
   d'Andorra, identificat i **no llegit**.~~ — **`parcial`, actualitzat el
   2026-09-19**: l'article ja està identificat com a font del marc històric,
