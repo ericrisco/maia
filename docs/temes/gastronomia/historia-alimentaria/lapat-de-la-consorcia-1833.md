@@ -126,8 +126,15 @@ menja: **regula el dia sencer**.
 
 ## Buits registrats
 
-1. **Què era exactament la consòrcia de casats** d'Andorra la Vella: qui hi
-   entrava, quan es reunia, què més feia.
+1. ~~**Què era exactament la consòrcia de casats** d'Andorra la Vella: qui hi
+   entrava, quan es reunia, què més feia.~~ — **`parcial` el 2026-09-21**:
+   [l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md)
+   la situa el **1778** com a **Consòrcia de Casats de la Parròquia**, dedicada
+   a **Carnestoltes i assistència**. Quan un germà queia malalt, **dos germans
+   l'havien de vetllar i assistir**, i la germandat havia de **cuidar-li el
+   bestiar o fer les feines del camp**; també disposava d'un capital que deixava
+   als membres a baix interès. Encara no consten els requisits d'entrada, el
+   calendari de reunions ni els estatuts complets.
 2. **El document original** del 1833 — Ribes el cita via Canturri; ningú del
    corpus l'ha vist.
 3. **Si el menú es va mantenir** i fins quan.
