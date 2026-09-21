@@ -179,8 +179,13 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
 - ~~**La sèrie anterior al 2020.**~~ — **`resolt` el 18-09-2026**: **l'API dona
   el 2019 i el 2025**, i **el 2019 és el punt de comparació prepandèmic que
   faltava**. `De més antic del 2019, res: la divisió 2221 comença allà.`
-- **Els errors i omissions de 42,50 milions**, que la taula del FMI publica i la
-  nota d'Andorra no comenta.
+- ~~**Els errors i omissions de 42,50 milions**, que la taula del FMI publica i
+  la nota d'Andorra no comenta.~~ — **`parcial` el 2026-09-21**: la taula
+  oficial de l'A138 (*Balança de pagaments i posició inversora internacional*,
+  2024) hi posa **42,50 M€** a la línia **«Errors i omissions nets»**; la sèrie
+  anterior dona **48,67 M€ (2020), 57,71 M€ (2021), 33,95 M€ (2022) i −21,42 M€
+  (2023)**. La nota no en publica cap desglossament ni causa, de manera que
+  queda obert què compon aquests saldos ([font](../../../fonts/estadistica-ad.md)).
 - **Qui són els 8.124 milions de passius.** La PII els classifica per
   instrument, mai per país.
 - ~~**Les notes A138 anteriors i posteriors.**~~ — **`parcial` el 19-09-2026**:
