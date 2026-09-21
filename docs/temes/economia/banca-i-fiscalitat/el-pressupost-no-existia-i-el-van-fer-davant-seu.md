@@ -330,8 +330,8 @@ treball com a impost.**
    **`no-es-buit`, confirmat el 20-09-2026**: és una limitació declarada de la
    reconstrucció pressupostària, no una xifra que la mateixa font permeti
    recuperar.
-3. **Els comptes del deute de 4.000 pessetes** que el Consell devia al Comú
-   d'Andorra la Vella: **quan es va contreure i per què.**
+3. ~~**Els comptes del deute de 4.000 pessetes** que el Consell devia al Comú
+   d'Andorra la Vella: **quan es va contreure i per què.**~~ — **`parcial` el 21-09-2026**: el pressupost de **1917** registra les **4.000 pessetes** com a préstec del Comú d'Andorra la Vella i en calcula **200 pessetes d'interès anual**, però no identifica la data de contractació ni la causa del deute.
 4. ~~**El capital de 2.931,89 pessetes d'interessos d'expropiacions rústiques.**~~ — **`parcial` el 21-09-2026**: la reconstrucció pressupostària conserva l'import i el presenta com a interessos d'expropiacions pendents, però el corpus no pot fixar el tipus aplicat ni les finques i propietaris que hi ha al darrere.
 5. ~~**La concessió elèctrica** que donava llum gratuïta als comuns.~~ —
    **`parcial` el 20-09-2026**: **la font confirma que la gratuïtat dels llums
