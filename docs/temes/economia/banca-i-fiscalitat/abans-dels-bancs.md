@@ -221,8 +221,14 @@ fitxa identificadora ([text local de la ponència](../../../raw/sac-diades/15a-2
    **`parcial` el 18-09-2026**: **els del 1468, 1522 i 1532 porten import,
    contrapartida i termini**; **segueix obert el préstec de particular a
    particular sense el Consell pel mig**.
-6. **Quina moneda** circulava: pessetes, francs, totes dues?
-   **Buit important i sense resposta.**
+6. ~~**Quina moneda** circulava: pessetes, francs, totes dues?~~ —
+   **`parcial` el 21-09-2026**: l'apèndix parlamentari espanyol del **27 de març
+   de 1895** afirma que les voluntats dels andorrans s'inclinaven cap a Espanya
+   «**per la moneda**» i que **la moneda que circulava a Andorra era espanyola**
+   ([la qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md)).
+   La font fixa aquest punt per a **1895**, però el corpus encara no pot
+   determinar si els francs circulaven alhora ni quina moneda predominava en
+   altres períodes.
 
 ## Related
 
