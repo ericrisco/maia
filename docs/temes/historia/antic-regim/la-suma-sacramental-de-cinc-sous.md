@@ -194,8 +194,8 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    i declara que no ha localitzat la llei andorrana de 1588. Queda confirmada la
    pràctica del quart el 1890, però no si abans havia estat diferent ni des de
    quan regia a Andorra.
-3. **L'ordre de magnitud de les llegítimes de 1874** —**750 contra 200**— segueix
-   obert: **ara se'n sap la raó, no la mesura.**
+3. ~~**L'ordre de magnitud de les llegítimes de 1874** —**750 contra 200**— segueix
+   obert: **ara se'n sap la raó, no la mesura.**~~ — **`parcial` el 21-09-2026**: la taula de la font fixa **750 lliures per filla** (**600 + 150**) i **200 per fill** (**150 + 50**), i explica que la diferència respon a la dot de les filles; el corpus no pot convertir aquestes quantitats nominals en poder adquisitiu ni comparar-les amb una sèrie més àmplia.
 4. ~~**Quantes accions de complement de llegítima van prosperar**, i **des de
    quan s'admeten.** **La font diu «molt ben admeses» i no en data cap.**~~ —
    **`parcial` des del 2026-09-18: ara n'hi ha dues datades.** **19 de febrer de
@@ -234,8 +234,8 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    > que protegeix l'hereu.**
 6. **El testament recent interpretat pel Tribunal Superior**, i **fins on
    arribava la influència dels legistes de la Seu.**
-7. **Si l'hereu havia de fer inventari en un mes**, com deia el notable, **o no**.
-   **La font ho atribueix a una confusió i no cita cap norma.**
+7. ~~**Si l'hereu havia de fer inventari en un mes**, com deia el notable, **o no**.
+   **La font ho atribueix a una confusió i no cita cap norma.**~~ — **`parcial` el 21-09-2026**: el testimoni d'un notable sosté que l'hereu havia de començar l'inventari dins del mes sota pena de perdre la quarta, però Brutails ho identifica com una confusió amb l'obligació de l'hereu fiduciari; el corpus no té la norma que permeti decidir entre les dues lectures.
 8. **Si el «dret de cinch sous» de l'aranzel de 1740** té relació amb **la suma
    sacramental**. **Segueix obert, i ara amb un motiu més per mirar-s'ho.**
 

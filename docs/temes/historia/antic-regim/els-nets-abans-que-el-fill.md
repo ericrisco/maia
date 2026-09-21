@@ -245,8 +245,8 @@ simbòlica als qui no hereten:**
    hereu entre ells, i **quants d'aquests actes es van rebre.**
 5. **Si la nominació d'hereu feta pel batlle d'ofici es va fer mai**, o **si és una
    hipòtesi de l'autor**. Ell mateix escriu **«potser fins i tot el batlle»**.
-6. **Si el fill de 1783 va pagar els germans**: **el 1784 encara devia les 32
-   lliures 4 sous 2 diners a cadascun** i **prometia pagar en tres mesos.**
+6. ~~**Si el fill de 1783 va pagar els germans**: **el 1784 encara devia les 32
+   lliures 4 sous 2 diners a cadascun** i **prometia pagar en tres mesos.**~~ — **`parcial` el 21-09-2026**: l'acte de 1784 documenta que encara devia **32 lliures 4 sous 2 diners a cadascun**, declarava que no tenia diners i prometia pagar en tres mesos; el corpus no té cap acte posterior que acrediti si finalment va pagar.
 7. ~~**Si la primogenitura era «lo estil de las Valls regular»**, com diu una part el
    1792, **o no tenia res de constant**, com diu l'autor.~~ — **`parcial` el
    20-09-2026**: Brutails afirma que el privilegi de primogenitura **«no té res
