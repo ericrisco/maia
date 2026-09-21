@@ -158,8 +158,14 @@ comprova**. Aquest corpus les marca sempre.
 ## Buits registrats
 
 1. **La classificació de l'OMS**, verificada contra l'informe.
-2. **Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
-   d'aquest.
+2. ~~**Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
+   d'aquest.~~ — **`resolt` el 21-09-2026**: el recull històric oficial del
+   [SAAS](../../../raw/web/societat/sanitat/cronologia-hospitals/README.md) fixa
+   la Clínica Verge de Meritxell el **1971**, la Clínica Santa Coloma el **1977**
+   i el tancament d'aquesta el **1994**, quan obre l'Hospital Nostra Senyora de
+   Meritxell i assumeix els serveis de totes dues. El registre d'inauguracions
+   del Govern concreta el **7 de novembre de 1971** per a Meritxell i l'**1
+   d'agost de 1977** per al Centre Hospitalari.
 3. ~~**Quan es crea el SAAS**.~~ — **`resolt` el 2026-09-19**: la fitxa
    institucional del [SAAS](./el-saas.md) fixa la creació en la **Llei del 23
    de desembre del 1986**. La branca dels **Serveis de Salut Mental** queda
