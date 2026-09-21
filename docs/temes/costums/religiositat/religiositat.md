@@ -103,8 +103,8 @@ cremar.
   documenta la comunitat jueva i el marc de les confessions inscrites, però
   **encara no resol l'origen de la població musulmana ni la presència de
   comunitats budistes i ortodoxes**.
-- El **lèxic religiós popular** i les frases fetes que en vénen — que és el que
-  més val per a maia i no es troba a cap web institucional.
+- ~~El **lèxic religiós popular** i les frases fetes que en vénen — que és el que
+  més val per a maia i no es troba a cap web institucional.~~ — **`parcial` el 21-09-2026**: el [glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja recull lèxic de pràctiques i obligacions religioses com **«mitges creus»** (festes amb missa obligatòria), **«cot de fallits»** (multa per faltar a una missa de devoció), **«boltejar a pausa»** (campanes de la processó d'execució), **«des de lo combregar»** (el viàtic com a llindar comptable) i **«aplech»** (fira al voltant dels santuaris). El repertori no és encara una recollida sistemàtica de frases fetes ni de parla oral contemporània.
 
 ## Related
 
