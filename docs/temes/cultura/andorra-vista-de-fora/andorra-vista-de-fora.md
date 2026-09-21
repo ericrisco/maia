@@ -50,8 +50,13 @@ cosa que fa pensar en la *Carmen* de Bizet més que en cap ofici andorrà.
 És una crítica petita i és exactament el tipus de cosa que el corpus vol tenir
 marcada: **l'obra és útil, i té un filtre**.
 
-**Buit registrat:** el corpus no ha vist ni la novel·la ni la pel·lícula. Tot el
-que en diu ve de Canturri. **Cal anar a la font.**
+~~**Buit registrat:** el corpus no ha vist ni la novel·la ni la pel·lícula. Tot el
+que en diu ve de Canturri. **Cal anar a la font.**~~ — **`parcial` el 21-09-2026**:
+el [fons Jordi Sasplugas de l'Arxiu Nacional](../../../fonts/govern-arxiu-sandy-2026.md)
+conserva documentació del guió, la traducció i la versió subtitulada del film;
+el programa oficial n'identifica la producció i en dona la sinopsi. El text
+íntegre de la novel·la i el visionat de la còpia cinematogràfica encara no
+formen part del corpus.
 
 ## El cas mal resolt: *Entre el torb i la Gestapo* a la televisió
 
@@ -102,7 +107,13 @@ comprovable** ([el cas Amades](../../historia/historiografia/el-cas-amades.md)).
 
 ## Buits registrats
 
-1. **La novel·la i la pel·lícula de Sandy**, vistes de primera mà.
+1. ~~**La novel·la i la pel·lícula de Sandy**, vistes de primera mà.~~ —
+   **`parcial` el 21-09-2026**: l'Arxiu Nacional descriu **tres documents
+   audiovisuals** i una unitat de paper produïts en relació amb el film, amb
+   reproducció restringida; el programa oficial fixa el film el **1941**,
+   estrenat el **27 de juliol de 1942**, dirigit per **Émile Couzinet** i basat
+   en Sandy. La novel·la sencera i el visionat de la còpia continuen pendents
+   ([font](../../../fonts/govern-arxiu-sandy-2026.md)).
 2. ~~**Quina adaptació televisiva** era exactament i de quin any.~~ — **`parcial`
    el 19-09-2026**: identificada com **_Andorra, entre el torb i la Gestapo_**,
    minisèrie de quatre capítols dirigida per Lluís Maria Güell; les fonts
