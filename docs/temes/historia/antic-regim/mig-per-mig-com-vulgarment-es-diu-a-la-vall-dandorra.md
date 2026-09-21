@@ -173,8 +173,10 @@ raó sinó sobre quin dels tres patrimonis paga.**
    sinònims o figures separades.
 4. **Què vol dir «*pro returnis*»** a l'acte de 1443.
 5. ~~**Com es liquidaven de fet els *millorers***: **qui taxava el treball del marit i com es provava.** **El contracte posa la càrrega de la prova a ell** i **la font no diu com es complia.**~~ — **`parcial` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) conserva el contracte de 1476: els **guanys o treballs demostrats del marit** sobre l'heretat de la dona es partien **mig per mig**, amb la **càrrega de la prova a ell**. Encara no consta qui taxava el treball ni com s'acreditava en la pràctica.
-6. **El plet de 1840**, sencer, i **si es va apel·lar**. `Requereix font externa:
-   els registres de judicis dels batlles.`
+6. ~~**El plet de 1840**, sencer, i **si es va apel·lar**.~~ — **`font_externa`
+   el 2026-09-22**: **la fitxa conserva la cronologia i el sentit de la
+   sentència, però no el dossier íntegre ni una dada d'apel·lació**. **Cal
+   consultar els registres de judicis dels batlles.**
 7. **Si l'àvia era realment propietària** o **si els sogres ho van al·legar per
    protegir la casa.** **La sentència no resol la titularitat: només diu d'on s'ha
    de pagar.**

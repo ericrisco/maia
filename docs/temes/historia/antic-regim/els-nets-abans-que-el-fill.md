@@ -233,10 +233,11 @@ simbòlica als qui no hereten:**
 
 ## Buits registrats
 
-1. **El plet andorrà davant del Consell Sobirà del Rosselló** *(ordenances del
-   16-06 i 31-07-1751, arrest del 21-12-1753)*, **sencer**. **És la segona causa
-   andorrana davant d'aquell tribunal que el corpus registra.** `Requereix font
-   externa: Archives départementales des Pyrénées-Orientales.`
+1. ~~**El plet andorrà davant del Consell Sobirà del Rosselló** *(ordenances del
+   16-06 i 31-07-1751, arrest del 21-12-1753)*, **sencer**.~~ — **`font_externa`
+   el 2026-09-22**: **la fitxa només en conserva les dates i la qüestió
+   successòria**. **Cal consultar les *Archives départementales des
+   Pyrénées-Orientales* per recuperar la causa sencera.**
 2. ~~**Què va resoldre l'enquesta sobre si *heretar* vol dir *donar*.**~~ — **`parcial` el 21-09-2026**: l'ordenança del Consell Sobirà del Rosselló del **31 de juliol de 1751** conserva la qüestió i formula que en català *heretar* significa **«donar»**; el corpus encara no té l'arrest complet ni sap com es va resoldre formalment l'enquesta.
 3. ~~**El cas de vint anys (1868-1888)**: **les tres resolucions, senceres**, i **com
    va acabar**.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la seqüència —el batlle el **1868**, una nova intervenció dels parents cap al **1878** i el Tribunal Superior el **15 de desembre de 1888**—, però no els textos sencers ni el desenllaç posterior.

@@ -187,9 +187,10 @@ pública](./la-institucio-no-es-publica.md).
 
 ## Buits registrats
 
-1. **El decret del Consell General sobre els béns dels *concos***: **sense data,
-   sense citació**, i **la sentència que l'hauria confirmat, tampoc.**
-   `Requereix font externa: els llibres d'acords del Consell General.`
+1. ~~**El decret del Consell General sobre els béns dels *concos*** i **la
+   sentència que l'hauria confirmat.**~~ — **`font_externa` el 2026-09-22**:
+   **la font no en dona data ni citació**. **Cal consultar els llibres d'acords
+   del Consell General per identificar el decret i la confirmació judicial.**
 2. ~~**La *tercera sala* d'Urgell**: **què era, quina jurisdicció tenia i fins quan.**
    **El corpus no la té en cap altra unitat.**~~ — **`parcial` el 21-09-2026**:
    el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)

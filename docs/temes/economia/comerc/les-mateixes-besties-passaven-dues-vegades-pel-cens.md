@@ -205,9 +205,11 @@ plus florissante de ce pays: la contrebande*».**
 
 ## Buits registrats
 
-1. **El vot del Consell General dels Pirineus Orientals del 5 d'octubre de 1904**,
-   sencer, **i si es va aplicar cap dels tres punts.** **Prioritari, i és nou.**
-   `Requereix les actes del Conseil général des Pyrénées-Orientales.`
+1. ~~**El vot del Consell General dels Pirineus Orientals del 5 d'octubre de 1904**,
+   sencer, **i si es va aplicar cap dels tres punts.**~~ — **`font_externa` el
+   2026-09-22**: **la fitxa en conserva la data i l'objecte, però no l'acta ni
+   cap prova d'aplicació**. **Cal consultar les actes del *Conseil général des
+   Pyrénées-Orientales*.**
 2. ~~**L'arrêt del Consell de 1767** que confirma les franquícies andorranes.~~ —
    **`parcial` el 21-09-2026**: Vilar el descriu com l'acte que confirma i
    determina per última vegada la franquícia d'importació des de França, però el

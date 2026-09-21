@@ -224,9 +224,10 @@ l'encadenament.**
    exactament el 1788 i per què es va arribar a acumular aquest període.**
 5. **La data del censal de la peça XVIII-XIX**, **que l'escriptura no transcriu**,
    **i l'acte de Pere Guarda y Martí.**
-6. **Si la designació «*la casa y hort de [el deutor difunt]*» era la
-   denominació oficial** o **una identificació d'aquell acte.**
-   `Requereix creuar amb els capbreus.`
+6. ~~**Si la designació «*la casa y hort de [el deutor difunt]*» era la
+   denominació oficial** o **una identificació d'aquell acte.**~~ — **`font_externa`
+   el 2026-09-22**: **la fórmula només identifica l'immoble dins l'escriptura**.
+   **Cal creuar-la amb els capbreus per saber si era una denominació oficial.**
 7. ~~**Guillem Carreu**, **notari públic de les Valls, documentat el 1444 i el
    1456**: **quins protocols seus es conserven.** **Prioritari**: **seria la
    sèrie notarial andorrana més antiga que el corpus tindria identificada.**~~ —
