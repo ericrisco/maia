@@ -186,8 +186,16 @@ d'investigació amb signatura**:
    **`no-es-buit` el 2026-09-20**: és una nota de cobertura temporal de la
    bibliografia consultada, no una pregunta factual amb una resposta que la
    fitxa pugui donar.
-6. **El Casal del Centre** i els seus cursos de teatre.
-7. **El Sindicat d'Iniciativa de les Valls d'Andorra.**
+6. ~~**El Casal del Centre** i els seus cursos de teatre.~~ — **`parcial` el
+   21-09-2026**: la font situa el **1960** l’apogeu del Casal del Centre i diu
+   que aleshores s’hi comencen a fer **cursos de teatre**; també documenta que
+   la seva secció teatral representa *Cançó d’amor i de guerra* el **1968**.
+   Encara falten el programa, el professorat i la continuïtat dels cursos.
+7. ~~**El Sindicat d'Iniciativa de les Valls d'Andorra.**~~ — **`parcial` el
+   21-09-2026**: la fitxa identifica el Sindicat com a promotor cultural que,
+   per afavorir el turisme, organitzava activitats entre les quals hi havia
+   representacions teatrals. No hi consten encara la data de creació, els
+   responsables ni la sèrie completa d’activitats.
  8. ~~**El bisbe Guitart i la seva posició sobre les escoles**~~ — **`parcial` des
     del 2026-09-13**: mig buit era fals: la posició ja és aquí, a la taula de
    dalt, i **és la declaració més explícita que el corpus té sobre els tres
