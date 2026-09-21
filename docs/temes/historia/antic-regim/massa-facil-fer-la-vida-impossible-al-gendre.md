@@ -166,23 +166,45 @@ promet i en aquesta secció no els dona.**
 
 ## Buits registrats
 
-1. **Com va acabar el plet de 1502** entre pare i fill per la promesa d'heretat.
-2. **El cas del gendre i el sogre**: **sense data, sense parròquia**, i **el corpus
-   no en té la sentència del Tribunal Superior.**
-3. **L'arrest de les Corts sobre el fill parricida**: **sense data**, i **el corpus
+1. ~~**Com va acabar el plet de 1502** entre pare i fill per la promesa d'heretat.~~
+   — **`parcial` el 22-09-2026**: la fitxa conserva que el fill reclama davant la
+   Cúria una promesa d'heretat i que el pare la nega; **la font no dona el
+   desenllaç**.
+2. ~~**El cas del gendre i el sogre**: **sense data, sense parròquia**, i **el corpus
+   no en té la sentència del Tribunal Superior.**~~ — **`parcial` el 22-09-2026**:
+   queda establert que el sogre havia condicionat l'heretament a la convivència,
+   que va perdre davant **batlle, Jutge d'Apel·lacions i Tribunal Superior**, i
+   que aquest darrer va tenir la clàusula per no escrita; **no en sabem la data,
+   la parròquia ni tenim la sentència**.
+3. ~~**L'arrest de les Corts sobre el fill parricida**: **sense data**, i **el corpus
    no sap ni quan va ser ni si consta en registre.** `Requereix font externa: els
-   registres de les Corts.`
-4. **Si el cas de les Corts i l'assassinat de la sogra són el mateix fet.**
-   **Hipòtesi del corpus, no verificada.**
-5. **Els «actes força estranys»** en què el pare de família passa per damunt dels
-   drets de l'hereu. **La font els anuncia i no els dona aquí.**
-6. **Si el lliurament *inestimadament* dels béns de la *pubilla* al marit tenia
-   les mateixes conseqüències** que en el dot. **La font no ho diu.**
+   registres de les Corts.`~~ — **`parcial` el 22-09-2026**: la fitxa conserva la
+   decisió —les Corts no resolen el principi de la desheretació i protegeixen els
+   fills del culpable—, però **no en té la data ni el registre**.
+4. ~~**Si el cas de les Corts i l'assassinat de la sogra són el mateix fet.**
+   **Hipòtesi del corpus, no verificada.**~~ — **`parcial` el 22-09-2026**: tots
+   dos relats descriuen **un fill o marit jove que mata la mare o sogra** i la
+   mateixa fitxa explicita que podria ser un sol cas vist des de dues fonts; **no
+   hi ha data, nom ni cap font que els relacioni**.
+5. ~~**Els «actes força estranys»** en què el pare de família passa per damunt dels
+   drets de l'hereu. **La font els anuncia i no els dona aquí.**~~ — **`parcial`
+   el 22-09-2026**: queda documentat que Brutails **anuncia** aquests actes com
+   una advertència sobre els poders efectius del pare, però **aquesta secció no en
+   dona cap exemple ni permet identificar-los**.
+6. ~~**Si el lliurament *inestimadament* dels béns de la *pubilla* al marit tenia
+   les mateixes conseqüències** que en el dot. **La font no ho diu.**~~ —
+   **`parcial` el 22-09-2026**: la fitxa confirma que *inestimadament* vol dir
+   **sense avaluació prèvia** tant en la clàusula de la pubilla com en la
+   sentència de 1861, però **no afirma que les conseqüències jurídiques siguin
+   les mateixes**.
 7. ~~**Quins *heretaments* preveien la separació** i **sobre quin peu es feia la
    partició provisional**~~ — **`parcial` el 19-09-2026**: la font confirma que
    n’hi havia **«alguns»**, però no n’identifica cap ni descriu la partició.
-8. **El procés recent** en què la Justícia va confirmar a tots els graus el
-   mecanisme dels dos parents àrbitres.
+8. ~~**El procés recent** en què la Justícia va confirmar a tots els graus el
+   mecanisme dels dos parents àrbitres.~~ — **`parcial` el 22-09-2026**: la fitxa
+   conserva que un procés recent va confirmar **a tots els graus** que el
+   conflicte entre les dues bandes el resolguessin **dos parents, un de cada
+   banda**; **no en dona l'expedient, la data ni els noms**.
 
 ## Related
 
