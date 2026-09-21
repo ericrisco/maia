@@ -203,10 +203,16 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
    d'aquest notari.**~~ — **`parcial` el 18-09-2026**: **el corpus en té un sol
    acte**, suficient per documentar l'operació però **no per saber si era figura
    reconeguda o pràctica d'aquest notari**.
-6. **Tomàs Palmitjavila, notari públic d'Encamp**: **exercia el 8 de desembre de
+6. ~~**Tomàs Palmitjavila, notari públic d'Encamp**: **exercia el 8 de desembre de
    1776 i era mort abans del 15 de juny de 1788.** **Quins protocols seus es
    conserven**, i **si és el mateix nom del manuscrit de procediment.**
-   **Prioritari.**
+   **Prioritari.**~~ — **`parcial` el 21-09-2026**: el corpus el documenta com a
+   **notari públic d'Encamp el 1776** i també com a **secretari de batlle el
+   1872** ([fitxa dels secretaris](../../institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md));
+   el manuscrit només és atribuït a «**Palmitjavila pare**» ([fitxa del
+   manuscrit](../../institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md)).
+   Encara no hi ha inventari dels protocols ni prova que sigui exactament la
+   mateixa persona.
 7. ~~**Si el comprador d'Ers i les dues contraparts del 15 de juny de 1788
    formaven part d'una sola operació.**~~ — **`parcial` el 18-09-2026**: **el
    corpus té coincidència de data, notari, comprador i testimoni compartit**,
