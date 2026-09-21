@@ -122,8 +122,16 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 4. ~~La **transhumància**: rutes, calendari, quan s'acaba.~~ **Calendari i final,
    tancats:** [La transhumància](./la-transhumancia.md). **Les rutes concretes
    segueixen sent buit.**
-5. **Els cartons** antics i els actuals: dues fitxes, no una.
-6. **Orris i pletes**: definició, construcció, inventari.
+5. ~~**Els cartons** antics i els actuals: dues fitxes, no una.~~ — **`parcial`**:
+   el text identifica els *cartons* antics com el sistema d'**arrendament de les
+   pastures comunals** i adverteix que són **totalment diferents** dels actuals,
+   adaptats al bestiar gros; encara no hi ha dues fitxes amb la definició i el
+   funcionament complet de cada sistema.
+6. ~~**Orris i pletes**: definició, construcció, inventari.~~ — **`parcial`**:
+   la fitxa els identifica com les **traces principals que resten a la
+   muntanya** de l'economia ovina dels segles XVI–XVIII i com a **ruïnes** del
+   sistema ramader; la definició tècnica, la construcció i l'inventari territorial
+   encara no estan reunits.
 
 ## Related
 
