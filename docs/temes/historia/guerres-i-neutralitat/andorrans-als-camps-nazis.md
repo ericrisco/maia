@@ -126,13 +126,20 @@ habitants no podia fer-hi res**.
 ## El que falta
 
 - **Els onze noms restants.**
-- ***13 camins cap a l'infern***, el llibre digital.
+- ~~***13 camins cap a l'infern***, el llibre digital.~~ — **`parcial` el
+  21-09-2026**: l'article de *Bondia* del **29-04-2025** el descriu com un
+  **audiovisual**, elaborat pel mateix equip d'alumnes que havia investigat el
+  catorzè deportat, i en reconstrueix la trajectòria dels catorze; **el fitxer
+  audiovisual encara no és al corpus** ([còpia local](../../../raw/web/historia/andorrans-camps-nazis/bondia-postals-des-de-l-infern-2025.html)).
 - ~~El llibre de **Porta i Cebrián**, i la ressenya de l'**IEC**.~~ — **`parcial`
   el 21-09-2026**: la notícia de RTVA identifica el llibre com *Andorrans als
   camps de concentració nazis*, de **Roser Porta i Jorge Cebrián**, i diu que
   tots dos hi farien una xerrada al programa de l'exposició; **el volum i la
   ressenya de l'IEC encara no són al corpus**.
-- El **treball dels alumnes**, publicat a *EABATX Report*.
+- ~~El **treball dels alumnes**, publicat a *EABATX Report*.~~ — **`parcial` el
+  21-09-2026**: la font identifica els autors com a **alumnes del Batxillerat
+  Internacional de l'Escola Andorrana** i documenta l'audiovisual *13 camins cap
+  a l'infern*; **no confirma que es publiqués a *EABATX Report***.
 - La recerca de **Pau Chica**, quan es publiqui.
 - ~~**Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
   d'Andorra.~~ — **`resolt` el 21-09-2026**: la notícia de **RTVA del
