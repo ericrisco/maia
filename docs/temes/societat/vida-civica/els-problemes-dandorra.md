@@ -266,7 +266,13 @@ molt bona».
   des de la imatge. El que sí que s'hi llegeix: el trànsit hi arriba a 80,0 i
   les «dificultats per trobar feina» a 50,4, i les dues corbes es creuen cap al
   2008-2009.`
-- **Els resultats concrets** de les preguntes de 2002, 2003, 2004, 2007 i 2009.
+- ~~**Els resultats concrets** de les preguntes de 2002, 2003, 2004, 2007 i
+  2009.~~ — **`parcial` el 21-09-2026**: la taula de la fitxa conserva el
+  desglossament de **2003** (**185 respostes sobre medi ambient, 22,7%; forn
+  incinerador, 20, 2,5%**) i de **2016** (**53 respostes, 6,9%; gossos que
+  embruten els carrers, 15, 2,0%**). La cronologia també identifica les
+  preguntes de 2002, 2003, 2004, 2007 i 2009, però el corpus encara no té els
+  resultats complets de totes aquestes onades.
 - ~~**La cronologia de la protesta al carrer a Andorra.** **Prioritari** — el
   corpus no en té res.~~ — **`incorrecte`: el corpus en té, i n'hi ha prou per
   començar la cronologia**, comprovat el **2026-09-13**.
