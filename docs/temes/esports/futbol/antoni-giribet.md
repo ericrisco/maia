@@ -47,7 +47,7 @@ Lucendo](./jesus-lucendo.md)** la sub-19 i **[Koldo
 
 ## El que falta
 
-- **De què era activista.**
+- ~~**De què era activista.**~~ — **`parcial` el 21-09-2026**: el bolcat biogràfic i la [font UEFA/FAF](../../../raw/web/esport/uefa-faf-antoni-giribet.txt) concreten l'activisme en la gestió del futbol —**president de la UE Sant Julià** i **president de la Federació Andorrana de Futbol entre 2009 i 2013**—. La font no descriu cap activitat cívica o política més enllà de l'àmbit futbolístic.
 - ~~**Si va ser internacional** i quants partits.~~ — **`parcial` el 19-09-2026**:
   la biografia disponible només documenta la seva activitat com a jugador del
   **FC Andorra** i de la **UE Sant Julià** i no dona cap internacionalitat; la
