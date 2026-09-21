@@ -63,8 +63,15 @@ branca.**
   pròpia confirma que **la va rebre de la FINA**. És el mateix mecanisme que
   [Carolina Cerqueda](./carolina-cerqueda.md) el 2004 i que la invitació
   tripartida de [Toni Besolí](./toni-besoli.md) el mateix any.
-- **Quants dels olímpics andorrans hi han anat per plaça d'universalitat.**
-  **Buit registrat i interessant.**
+- ~~**Quants dels olímpics andorrans hi han anat per plaça d'universalitat.**~~ —
+  **`parcial`**: els bolcats locals permeten documentar **cinc esportistes
+  diferents** i **sis participacions** per aquesta via: **Santiago Deu** (2000),
+  **Carolina Cerqueda** (2004), **Pol Moya** (2016 i 2020), **Pol Arias** (2016)
+  i **Mònica Ramírez** (2016). El bolcat de Rio especifica **una plaça de la
+  IAAF per a atletisme i dues invitacions de la FINA per a natació** ([2016](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki));
+  el de Tòquio confirma la plaça d'atletisme per a Pol Moya ([2020](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2020_Summer_Olympics.wiki)).
+  El recompte és el que documenten aquests bolcats i no una auditoria completa
+  de totes les edicions olímpiques.
 
 ## Related
 
