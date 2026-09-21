@@ -140,9 +140,7 @@ cases. **El corpus no ho fa**, per dues raons que hi consten:
 
 1. **Més contractes.** Amb dos no es fa una sèrie, i les xifres d'aquesta fitxa
    són **de dos casos del mateix any**.
-2. **Amb quina freqüència heretaven les dones.** El cas VIII en dona **el
-   mecanisme**, no la freqüència — el buit de
-   [l'hereu i el cabaler](./lhereu-i-el-cabaler.md) segueix obert.
+2. ~~**Amb quina freqüència heretaven les dones.**~~ — **`parcial` el 21-09-2026**: el cas VIII documenta el mecanisme d'institució d'hereva i la fitxa el connecta amb la regla successòria de [l'hereu i el cabaler](./lhereu-i-el-cabaler.md), però no hi ha una sèrie per mesurar-ne la freqüència.
 3. **Què valia una lliura barcelonesa** a l'Andorra de 1788. Sense això, 170 i 10
    són **números sense magnitud**.
 4. **Els noms sencers.** Brutails els va abreujar; **els originals han de ser a

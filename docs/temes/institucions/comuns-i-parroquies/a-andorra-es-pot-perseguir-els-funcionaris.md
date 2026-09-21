@@ -292,9 +292,7 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
    **Dels articles que aquesta fitxa citava per Vilar, el 5è i el 8è ja són
    literals al corpus**; **el 4è i el 6è, no.** `Requereix acabar de transcriure
    l'apèndix, que és una tasca de lectura i no un document que falti.`
-2. **Les dues convencions de 1903** que van extingir els delmes capitular i
-   episcopal —**13 d'abril** i **8 de maig**— i **d'on surt la xifra de 4.685
-   pessetes.** **Prioritari.**
+2. ~~**Les dues convencions de 1903** que van extingir els delmes capitular i episcopal —**13 d'abril** i **8 de maig**— i **d'on surt la xifra de 4.685 pessetes.**~~ — **`parcial` el 21-09-2026**: la fitxa identifica el delme capitular, el delme episcopal i la substitució per un pressupost de cultes de **4.685 pessetes**, però no té el text de les dues convencions ni el repartiment comptable de la xifra.
 3. ~~**Què vol dir exactament `caps grossos`** i **si el mot és viu.**~~ —
    **`parcial` el 16-09-2026**: **el sentit andorrà no és a cap dels dos
    diccionaris.** El DIEC2 ([font](../../../fonts/diec2.md)) **no té entrada**

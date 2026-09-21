@@ -165,8 +165,7 @@ a Andorra, la manera més ràpida de perdre una protecció.**
    que no en cita cap ni la considera dret del país.
 2. **Si la clàusula de les 50 lliures feia realment la funció de la
    trebel·liànica.** **És una pregunta de l'autor, no una conclusió.**
-3. **Si la xifra de 50 lliures era estàndard** o **variava amb la casa**. **La
-   font en dona una fórmula model, no una sèrie.**
+3. ~~**Si la xifra de 50 lliures era estàndard** o **variava amb la casa**.~~ — **`parcial` el 21-09-2026**: la font dona una fórmula model de **50 lliures** per a la clàusula, però el corpus no té prou cases per saber si era una quantia fixa o adaptada a cada patrimoni.
 4. ~~**Fins a quants graus s'encadenaven de fet les substitucions**, si no hi havia
    límit legal.~~ — **`parcial` el 18-09-2026**: **el corpus documenta cadenes
    de tres i quatre graons**, però **no en té cap de més llarga ni el límit legal**.

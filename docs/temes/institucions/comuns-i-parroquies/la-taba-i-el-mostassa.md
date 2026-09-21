@@ -125,7 +125,7 @@ i amb ells, presumiblement, aquesta manera d'arrendar els serveis.
 ## Buits registrats
 
 1. **El text d'una taba.** **Prioritari** — llengua administrativa andorrana.
-2. **Quan i com** desapareix la figura del mostassà.
+2. ~~**Quan i com desapareix la figura del mostassà.**~~ — **`parcial` el 21-09-2026**: la fitxa situa la desaparició dels hostals comunals entre **1920 i 1930** i documenta que el mostassà ja no hi apareix a les ordinacions de 1910, però no té l'acte que en fixa la desaparició ni si tots els arrendaments van caure alhora.
 3. Si la **subhasta** de serveis es feia a totes les parròquies i amb quina
    periodicitat.
 4. **Quant** recaptava un comú per aquesta via.

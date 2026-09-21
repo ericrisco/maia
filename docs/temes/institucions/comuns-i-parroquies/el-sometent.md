@@ -114,12 +114,7 @@ frase de llei vigent**, no d'un llibre de folklore.
 
 ## Buits registrats
 
-1. **La història del sometent andorrà entre el segle XIX i el 2022.** Quan deixa
-   de ser policial. **Prioritari.** — **Confirmat obert el 16-09-2026.** La
-   lectura del capítol VII del Politar dona **l'estat de la institució cap al
-   1763** i **res del que va passar després**
-   ([«Y si no tenen, paciència»](../justicia/y-si-no-tenen-paciencia.md)).
-   **El buit no s'estreny per aquesta banda.**
+1. ~~**La història del sometent andorrà entre el segle XIX i el 2022, i quan deixa de ser policial.**~~ — **`parcial` el 21-09-2026**: el *Politar* fixa l'estat de la institució cap al **1763** i la fitxa conserva que actuava com a força policial i armada; el corpus no té encara la continuïtat del segle XIX al 2022.
 2. **Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
    parròquies, set normes**, i el corpus no n'ha vist cap.
 3. **Quantes persones el formen** avui, per parròquia.
