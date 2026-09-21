@@ -195,8 +195,11 @@ francès per escrit**.
 
 ## Buits registrats
 
-1. **El tractat de límits de 1863** amb Espanya: text, signants, vigència.
-   **Prioritari.**
+1. ~~**El tractat de límits de 1863** amb Espanya: text, signants, vigència.
+   **Prioritari.**~~ — **`parcial` el 2026-09-21**: el corpus ja identifica un
+   **tractat de límits negociat el 1863 entre Andorra i Espanya**, sense
+   intervenció dels coprínceps, i constata que el **1904 regia la frontera a la
+   pràctica**. **El text, els signants i la vigència jurídica continuen oberts.**
 2. **Quan i com Andorra va demanar obrir consolats**, i quantes vegades. Vilar
    diu «de nombreuses démarches» i no en data cap.
 3. ~~**Les sentències Laugé (1845) i Vives (1859)**, senceres — i **la referència
