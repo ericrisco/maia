@@ -208,7 +208,12 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
 
    `Requereix els ports i les jornades; el document dona els llocs de cobrament,
    no el camí.`
-2. **Qui hi anava**: si els pastors eren de casa, llogats, o de fora.
+2. ~~**Qui hi anava**: si els pastors eren de casa, llogats, o de fora.~~ —
+   **`parcial`**: la font defineix la transhumància com el desplaçament dels
+   ramats **només acompanyats dels pastors** i diferencia els ramats de la
+   plana que pujaven dels ramats de les cases de muntanya que baixaven; no
+   identifica, però, si aquells pastors eren membres de la casa, assalariats o
+   contractats fora.
 3. **E. Pée-Laby (1900)**, la font per a l'Arieja. El corpus no la té.
 4. ~~**Els contractes de conlloc**: com s'escrivien i què hi constava.~~ —
    **`parcial` des del 2026-09-15.** **El que s'ha tancat: que existien com a
