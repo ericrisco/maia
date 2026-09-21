@@ -104,8 +104,11 @@ Res, i això és el que val la pena:
 referència a la tradició**, sense dir quins colors, quins quarters ni quina
 lletra. Vegeu [l'ordenament jurídic avui](../justicia/lordenament-juridic-avui.md).
 
-**Buit registrat:** si hi ha alguna norma de rang inferior que **sí que els
-descrigui**.
+~~**Buit registrat:** si hi ha alguna norma de rang inferior que **sí que els
+descrigui**.~~ — **`parcial` el 21-09-2026**: l'annex de la versió consolidada
+de la **Llei sobre la utilització dels signes d'Estat** ja descriu l'escut
+tradicional i la divisa; la forma gràfica oficial i el llibre de normes
+gràfiques encara no consten al corpus.
 
 ## Buits registrats
 
