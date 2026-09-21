@@ -91,7 +91,12 @@ s'enfonsi l'oví** i pot haver estat part del coixí.
 
 ## Buits registrats
 
-1. **La data documentada** de la patata a Andorra.
+1. ~~**La data documentada** de la patata a Andorra.~~ — **`parcial` el
+   2026-09-21**: la fitxa ja conserva dues dates documentades i contradictòries:
+   **David Mas i Canalís** diu «a partir del segle XVIII», mentre **M. Dolors
+   Ribes** situa la introducció **cap a l'any 1830**. El corpus registra les
+   dues fonts i no arbitra quina descriu l'arribada inicial i quina descriu el
+   pas a cultiu; encara falta una font que resolgui aquesta divergència.
 2. **Quantes varietats** hi havia i si en queda alguna de local.
 3. ~~*Trumfa* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
