@@ -285,12 +285,24 @@ enunciat:**
 
    `Requereix encara quins són els «privilegis dels habitants» que exigien
    dictar dins del territori.`
-4. **El cas de les dues parts apel·lant cadascuna a un copríncep** cap al 1749, i
-   **el desistiment de 1753.**
-5. **Quin jutge d'apel·lacions va rebutjar una demanda per no ser «en forma»** cap
-   al 1889, **i com se'n va «fer justícia».**
-6. **Els jutges que transformaven d'ofici l'*apellacio* en *suplica***: **quins,
-   quan, i si algun cas va arribar a la instància superior.**
+4. ~~**El cas de les dues parts apel·lant cadascuna a un copríncep** cap al 1749, i
+   **el desistiment de 1753.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva
+   que les dues parts van apel·lar, cadascuna, a un cosenyor cap al **1749**, i que
+   el **1753** la part que havia recorregut al Bisbe es va desistir i, si calia,
+   va apel·lar davant del Rei. **No hi consten les parts ni el text íntegre de
+   l'afer.**
+5. ~~**Quin jutge d'apel·lacions va rebutjar una demanda per no ser «en forma»** cap
+   al 1889, **i com se'n va «fer justícia».**~~ — **`parcial` el 2026-09-21**:
+   la font documenta que **fa quinze anys** un jutge d'apel·lacions va rebutjar
+   una demanda per no ser «en forma» i que després se'n va fer justícia, perquè
+   n'hi havia prou que la requesta estigués redactada en termes correctes. **No
+   en dona el nom, la data exacta ni el desenllaç processal.**
+6. ~~**Els jutges que transformaven d'ofici l'*apellacio* en *suplica***: **quins,
+   quan, i si algun cas va arribar a la instància superior.**~~ — **`parcial` el
+   2026-09-21**: la fitxa descriu el mecanisme pel qual alguns jutges
+   requalificaven d'ofici l'apel·lació com a súplica i anunciaven que revisarien
+   la seva pròpia sentència. **No identifica els jutges, les dates ni cap cas
+   concret arribat a la instància superior.**
 7. **La demanda de recurs en termes injuriosos de 1845** i **el rebuig del 19 de
    desembre** *(Archives de l'Ariège, Andorre, lligall 2 — **tretzena peça
    registrada i cap consultada**)*.
