@@ -339,8 +339,11 @@ font andorrana de 1551 fes servir exactament la mateixa construcció jurídica.*
    > **El que això diu, dit sense eufemismes**: **la tortura i la fustigació
    > tenen preu unitari en un aranzel oficial**, **el cobra el porter**, i **la
    > condició per cobrar-lo és que el reu tingui amb què pagar.**
-7. **El registre de *mostres***: **quan es va deixar de portar i si se'n conserva
-   cap.** **La font en parla en passat.**
+7. ~~**El registre de *mostres***: **quan es va deixar de portar i si se'n
+   conserva cap.**~~ — **`parcial` el 2026-09-21**: la font el descriu en passat i
+   el corpus ja constata que **el registre no existia el 1904**; també conserva
+   què era la *mostra* i quina peça pujava del batlle a les Corts. **Encara no
+   fixa l’any de desaparició ni si se’n conserva cap exemplar.**
 8. **Les *Constitucions*, II, i, pp. 175-177**, sobre **les treves entre
    particulars**, que la font invoca com a marc.
 9. **Si la *pena* de cent ducats de les treves es va cobrar mai**, i **a quin
