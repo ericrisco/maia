@@ -172,7 +172,7 @@ ni la forma del campanar** d'aquestes esglésies.»
    **`resolt`, confirmat el 2026-09-19**: l'índex del [romànic andorrà](./romanic.md)
    en recull **sis** i dona per a cadascuna la parròquia i la cronologia
    arquitectònica.
-6. **Qui les pagava.**
+6. ~~**Qui les pagava.**~~ — **`parcial` el 21-09-2026**: les fitxes de [Sant Serni de Canillo](./sant-serni-de-canillo.md) i de [la concòrdia de 1176](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md) documenten el circuit econòmic eclesiàstic —**la parròquia conserva la meitat del delme, l'altra meitat puja al bisbe, i el Capítol de la Seu en percep part**— i una dotació episcopal de blat al capellà el 1312. Això acota els finançadors institucionals, però no identifica qui va pagar cada obra romànica.
 
 ## Related
 
