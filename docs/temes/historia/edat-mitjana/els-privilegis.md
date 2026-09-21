@@ -334,8 +334,12 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 4. ~~El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
    document més localitzable de tota la llista.**~~ — **`no-es-buit` el 21-09-2026**: és una dada de localització del document, no una pregunta de recerca oberta.
 5. **El bovatge** i el **monedatge**: què eren.
-6. **La pega** — el delme del 860 la grava, i el corpus no sap què era ni qui la
-   feia. *(Resina de pi? **No resolt.**)*
+6. ~~**La pega** — el delme del 860 la grava, i el corpus no sap què era ni qui la
+   feia.~~ — **`parcial` el 21-09-2026**: la [memòria arqueològica del Madriu
+   (2008)](../../../raw/web/historia/pega-andorra/README.md) identifica la pega
+   com a resina explotada des del segle IX i relaciona l'**ACU pergamí 10** amb
+   el dret del bisbe Guisad al delme del ferro i de la pega d'Andorra; no
+   identifica encara els productors ni el procés local complet.
 7. ~~**Vallcivera** — on és.~~ — **`parcial` el 17-09-2026: ja se sap en quina
    direcció i què hi separa.** Font: el **Llibre II d'actes del Consell
    General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
