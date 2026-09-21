@@ -267,29 +267,46 @@ fet:**
 1. **Per què la víctima de la ganivetada del ball va ser condemnada a dos dies
    d'arrest i a un quart de les despeses.** **La font no ho diu.**
    **Prioritari**: **és el que faria intel·ligible tot el cas.**
-2. **El cas del ball sencer**, **amb data** —**la font diu «fa una desena
-   d'anys», cap al 1894**— **parròquia i desenllaç.**
-3. **Les tres sentències de galeres i marca** —**abril de 1630, març de 1644 i
+2. ~~**El cas del ball sencer**, **amb data** —**la font diu «fa una desena
+   d'anys», cap al 1894**— **parròquia i desenllaç.**~~ — **`parcial`**: la fitxa
+   situa el cas **cap al 1894**, descriu el desafiament, la ganivetada i les
+   penes desiguals de l'agressor i la víctima. **La data exacta, la parròquia i
+   el desenllaç processal continuen pendents.**
+3. ~~**Les tres sentències de galeres i marca** —**abril de 1630, març de 1644 i
    26 de novembre de 1742**— **senceres, amb signatura d'arxiu.**
    **Prioritari**: **donen data a un article que el corpus tenia escrit des d'una
-   enciclopèdia.**
-4. **Els quatre casos de difamació** —**24-06-1453, dos de 1488 i juliol de
-   1897**— **sencers.** **Prioritari.**
+   enciclopèdia.**~~ — **`parcial`**: la fitxa conserva les **tres dates**, les
+   penes —galeres, assots, marca i desterrament— i el protocol de lliurament.
+   **Les sentències senceres i les signatures d'arxiu continuen pendents.**
+4. ~~**Els quatre casos de difamació** —**24-06-1453, dos de 1488 i juliol de
+   1897**— **sencers.** **Prioritari.**~~ — **`parcial`**: la fitxa identifica
+   les **quatre dates**, la *mostra* de 1453, els dos casos de 1488 —inclòs el
+   ram a la porta— i la restitució pública de fama del **1897**. **Els casos
+   sencers i les peces d'arxiu no són al corpus.**
 5. **Si posar «*rams per les portes per enamoraments*» és un ritual documentat
    en altres fonts andorranes.** **El corpus en té una sola atestació, de 1488, i
    **en boca d'un acusat que l'al·lega en defensa seva**.**
    `Requereix comprovació etnogràfica.` **Prioritari.**
-6. **Si el costum del ball —cedir la parella a qui la demana— consta en cap
-   norma escrita.** **La font el descriu i li atribueix un motiu «sens dubte».**
+6. ~~**Si el costum del ball —cedir la parella a qui la demana— consta en cap
+   norma escrita.** **La font el descriu i li atribueix un motiu «sens dubte».**~~ —
+   **`parcial`**: la fitxa documenta que **la parella s'havia de cedir
+   immediatament** i que la font n'atribueix el motiu a impedir els flirteigs,
+   però **no cita cap norma escrita** i marca el motiu com a conjectura.**
 7. ~~**Quan i per quina norma es van abandonar la marca, la mutilació,
    l'estenallament i la fustigació.**~~ — **`parcial`, actualitzat el 2026-09-19**:
    la font de **1904** afirma que **Andorra ja hi havia renunciat**. **Segueixen
    obertes la data de la renúncia i la norma que la va establir.**
-8. **Si és cert que el copríncep espanyol va refusar de participar en
+8. ~~**Si és cert que el copríncep espanyol va refusar de participar en
    l'administració de la justícia el 1868.** **El corpus ho té **per una
-   atribució a l'obra de M. Moras**, no per document.** **Prioritari.**
-9. **La decisió del Consell General de 1886** sobre els establiments
-   penitenciaris, **sencera.**
+   atribució a l'obra de M. Moras**, no per document.** **Prioritari.**~~ —
+   **`parcial`**: la fitxa conserva l'atribució de **M. Moras** i la data de
+   **1868**, amb la cadena que diu que el copríncep espanyol va refusar participar
+   en la justícia. **La font primària que ho confirmaria continua pendent.**
+9. ~~**La decisió del Consell General de 1886** sobre els establiments
+   penitenciaris, **sencera.**~~ — **`parcial`**: la fitxa en conserva la resposta:
+   el Consell presenta com a **privilegi doble** que França i Espanya rebin
+   presoners andorrans i declara que no pot renunciar a cap dels dos avantatges.
+   **La decisió sencera i la referència d'arxiu continuen pendents.**
 10. ~~**El manuscrit de M. Palmitjavila.**~~ — **`resolt` el 18-09-2026**:
     les pp. 344 i 349-350 del *Politar* són llegides, i les galeres tenen una
     explicació que no és jurídica sinó meteorològica.
