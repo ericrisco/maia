@@ -460,9 +460,16 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
 7. ~~**Quants consellers elegia Canillo realment.**~~ — **`parcial` el
    19-09-2026**: la font diu **divuit**, però hi afegeix **«si no m'equivoco»**;
    el corpus conserva el dubte i no ho pot verificar amb una altra font.
-8. **Qui era Bonaventure Riba Guillaumas** i què deia exactament l'acta del 22 de
-   juny de 1805 *(Archives de l'Ariège, Andorre, lligall 2)*. `obert, amb
-   signatura.`
+8. ~~**Qui era Bonaventure Riba Guillaumas** i què deia exactament l'acta del 22
+   de juny de 1805 *(Archives de l'Ariège, Andorre, lligall 2)*.~~ — **`parcial`
+   el 21-09-2026**: la transcripció dels actes del Consell identifica
+   **Bonaventura Riba, Guillaumes** com el **síndic elegit el 22 de juny de 1805**
+   i conserva el passatge: «*Y ha passat lo Il·lustre Consell General en elegir y
+   nombrar per síndich al senyor Antoni Picart y Areny, síndich procurador general,
+   y al senyor Bonaventura Riba, Guillaumes, síndich*» ([actes històrics](../../../raw/consell-general/actes-historiques/text/llibre-iv-1743-1864.txt)).
+   **Això resol la identitat i el contingut de l'acte transcrit**, però no permet
+   comprovar si és exactament la peça de l'**Archives de l'Ariège, lligall 2** ni
+   donar-ne la signatura arxivística.
 9. **Els dos actes de 1552 i 1649** pels quals el Consell nomena apoderats, i
    **quin era el col·legi de Foix** amb plaça reservada a un clergue andorrà.
    **L'interrogant sobre el col·legi és de Brutails.** `obert.`
