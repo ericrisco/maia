@@ -311,11 +311,11 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    police des étrangers, l'emploi des recettes communales, les auberges, les
    danses*.** **Segueixen oberts els articles que aquesta fitxa no necessita**,
    que el corpus ha llegit i no destil·la aquí.
-2. **La Reforma de 1866**, p. 12-13 de l'apèndix del mateix volum. **Segueix com a
-   lead obert des de fa tandes.**
+2. ~~**La Reforma de 1866**, p. 12-13 de l'apèndix del mateix volum. **Segueix com a
+   lead obert des de fa tandes.**~~ — **`parcial` el 21-09-2026**: [l'Apèndix D de Ríos Urruti](../../../fonts/rios-urruti-andorra-1920.md) conserva el text de la Reforma del 22 d'abril de 1866 i ja s'han destil·lat els articles que el corpus utilitza; però l'apèndix que Brutails cita a les pàgines 12-13 és una peça distinta i el seu text continua absent.
 3. ~~**La data de la sentència Encamp-Andorra: 1760 o 1780**, i **si són una o dues.**~~ — **`parcial` el 21-09-2026**: la font conserva les dues dates com a possibilitats per al conflicte i la fitxa n'identifica l'àmbit Encamp-Andorra, però el corpus no té els llibres d'acords que permetin decidir si és una sentència o dues.
-4. **Els decrets del 23-12-1869 (Sornàs), del 22-12-1886 (la borda) i del
-   24-12-1900 (emprius y terrenos mitgés)**, sencers.
+4. ~~**Els decrets del 23-12-1869 (Sornàs), del 22-12-1886 (la borda) i del
+   24-12-1900 (emprius y terrenos mitgés)**, sencers.~~ — **`parcial` el 21-09-2026**: el corpus ja n'identifica el contingut de treball —el costum de no tancar els *solans* abans de Sant Pere el **23-12-1869**, el tractament dels vedells com les vaques el **22-12-1886** i el règim d'**«emprius y terrenos mitgés»** el **24-12-1900**—, però no en conserva cap dels tres textos íntegres.
 5. ~~**La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,
    i com va acabar.**~~ — **`parcial` el 19-09-2026**: la comissió del Consell
    General va resoldre el diferend entre els *quarts* de **la Cortinada i
