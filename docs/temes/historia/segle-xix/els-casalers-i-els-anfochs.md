@@ -38,10 +38,17 @@ participar»** ([la cronologia](../moments-historics/la-cronologia-dandorra.md))
 És a dir: **els casalers són una categoria política del sistema de cases**, i la
 reforma del 1866 els hi dona entrada.
 
-**Anfochs**: **el corpus no té aquesta paraula enlloc més.** No la pot definir,
-no en sap l'etimologia i no la pot situar dins el sistema de cases. **Buit
-registrat, prioritari.** La fitxa la deixa escrita tal com la dona la font, sense
-glossar-la: **inventar-ne el significat seria pitjor que no tenir-lo.**
+**Anfochs**: ara el corpus ja té una definició política externa. La guia del
+**Museu Casa d'Areny-Plandolit** els descriu com els **caps de família del grup
+que formava el consell comunal, tenia dret de vot i podia arribar al Consell
+General mitjançant el càrrec de cònsol** ([font](../../../fonts/museu-casa-plandolit-anfochs-casalers-2006.md)). **No en dona l'etimologia**, però sí el lloc que ocupaven dins el sistema.
+
+**Casalers**: la mateixa font els identifica com **els altres hereus**,
+**usufructuaris dels comunals** però sense participació directa en la gestió.
+Per a Ordino dona una sèrie que fa visible el desequilibri: **40 anfochs i 34
+casalers** a començament del segle XVII, **23 i 63** a finals del XVIII, i **19
+anfochs efectius i 120 casalers** el 1863. La Reforma arriba, doncs, sobre una
+representació que ja només cobria el **13 % del cens**.
 
 **El que sí que es pot dir sense forçar res**: si el 1866 el debat era **si els
 casalers podien participar**, aleshores **la rivalitat era sobre qui compta dins
@@ -144,9 +151,9 @@ cases es van perdre i quines.
 
 ## El que falta
 
-- **Què vol dir «anfochs»**, d'on ve la paraula, i qui eren. **Prioritari.**
-- **Qui eren els casalers** en el conflicte, més enllà del dret de participació
-  del 1866.
+- ~~**Què vol dir «anfochs»**, d'on ve la paraula, i qui eren.~~ — **`parcial` el 21-09-2026**: la guia del Museu Casa d'Areny-Plandolit n'explica el paper polític i la relació amb el consell, el vot i el càrrec de cònsol; **no en documenta l'etimologia**.
+- ~~**Qui eren els casalers** en el conflicte, més enllà del dret de participació
+  del 1866.~~ — **`resolt` el 21-09-2026**: eren **els altres hereus**, usufructuaris dels comunals i exclosos de la gestió directa; la sèrie d'Ordino de la mateixa guia mostra com passen a ser **120** davant **19 anfochs efectius** el 1863.
 - ~~**Els successors de Caixal**: noms, dates i què van fer exactament.~~ — **`parcial` el 21-09-2026**: el corpus identifica **Salvador Casañas** com a successor immediat des del **1879** i conserva la seva reivindicació política del **1894**; **no hi ha encara la llista completa de successors ni una atribució documental de cada conflicte**.
 - ~~**La biografia de Josep Caixal**: quan va ser bisbe, què li va passar amb les
   guerres carlines, i quan va morir.~~ — **`resolt` el 18-09-2026**: **ara té
