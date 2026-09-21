@@ -346,8 +346,11 @@ i 1859, V, 89.)*
    aquest buit donava per existent no existeix**: **era un artefacte d'OCR.**
    **Segueix obert** el concepte de les **79,85 pessetes** restants, que la font
    no enumera.
-3. **L'afer de la multa de 20 pessetes amb 51,50 de despeses**: **data,
-   jurisdicció i delicte.**
+3. ~~**L'afer de la multa de 20 pessetes amb 51,50 de despeses**: **data,
+   jurisdicció i delicte.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva
+   que una causa va acabar amb **20 pessetes de multa** i **51,50 pessetes de
+   despeses**, dues vegades i mitja la pena. **No en consten la data, la
+   jurisdicció ni el delicte.**
 4. ~~**La sentència de 1896 amb la rúbrica «*Indemnisacio de lo robat*»** de 100
    a 200 pessetes, **i si la indemnització a la víctima sempre s'inscrivia entre
    les costes.**~~ — **`parcial` el 2026-09-22**: la mateixa fitxa ja documenta
@@ -356,9 +359,14 @@ i 1859, V, 89.)*
    indemnització a la víctima hi apareix com a **despesa del procés**. **El
    corpus no té altres sentències que permetin afirmar que aquesta inscripció
    fos sempre la regla.**
-5. **El decret del Consell General del 1r d'abril de 1890** sobre l'embargament
+5. ~~**El decret del Consell General del 1r d'abril de 1890** sobre l'embargament
    per quantitat fixada, **sencer**, **i si és de la mateixa sessió que el que
-   anul·la l'edicte no signat a Andorra.** **Prioritari.**
+   anul·la l'edicte no signat a Andorra.** **Prioritari.**~~ — **`parcial` el
+   2026-09-21**: la fitxa transcriu el decret, que permet l'embargament de béns
+   per salvar les resultes del judici però exigeix una **quantitat fixada i
+   determinada**, i registra que el mateix dia el Consell va declarar nul un
+   altre edicte per no estar signat a Andorra. **No hi ha prova que fossin la
+   mateixa sessió.**
 6. ~~**Si la constricció per cos valia contra els fiadors.**~~ — **`resolt` el
    18-09-2026 per la banda del *Politar*, que és explícit i dona la raó.** **La
    p. 338 diu que quan s'instrueix causa formal els encausats van a la presó,
