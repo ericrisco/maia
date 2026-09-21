@@ -266,7 +266,12 @@ serien unes **525 persones**, prop d'una desena part del país.
    2026-09-13: 124,800 kg de pes net.** 6.000 càrregues són **748.800 kg l'any**,
    uns **125 kg per habitant**. Vegeu
    [les mesures i les monedes](./les-mesures-i-les-monedes.md).
-5. **Què són les «carguetes»** que van amb les barretines.
+5. ~~**Què són les «carguetes»** que van amb les barretines.~~ — **`parcial`**:
+   l'apèndix comercial de 1895 publica la partida castellana «**Barretinas y
+   carguetes**» amb **20 quintars** —«20 idem» al document— ([text local](../../../raw/hemeroteca/congreso-1895-ap40.txt));
+   per tant, el terme queda identificat com un article comercial que entrava
+   amb les barretines. L'extracte no descriu la peça ni el seu ús, i això encara
+   no permet dir què era exactament una *cargueta*.
 6. ~~**Si el sègol era per a les persones o per al bestiar.**~~ —
    **`no-es-buit` el 20-09-2026**: el document publica **1.250 quintars** de
    sègol, però no n'indica l'ús; el corpus no el pot assignar a consum humà o
