@@ -330,7 +330,11 @@ jutjar.
    2026-09-21**: la font confirma el mecanisme de selecció —**els consellers
    generals en trien dos d'entre ells** en obrir-se la sessió—, però no dona els
    noms ni una sèrie de nomenaments ([Vilar, *L'Andorre* (1904)](../../../fonts/vilar-andorre-1904.md)).
-8. **Quan desapareixen els rahonadors.** **Segueix obert.**
+8. ~~**Quan desapareixen els rahonadors.**~~ — **`parcial` el 21-09-2026**: el
+   decret de **1762** ja en fixa la funció com a procuradors honorables del
+   públic, i **Vilar encara els descriu dins dels Corts el 1904**. El corpus pot
+   acotar que no havien desaparegut abans d'aquesta data, però no té la decisió
+   ni la data de la seva desaparició posterior.
 
 ## Related
 
