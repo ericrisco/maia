@@ -80,7 +80,7 @@ Catalana d'Escacs.**
   Aguado](../../../raw/web/esport/estructura/Òscar_de_la_Riva_Aguado-ca.wiki)
   confirma que **representa la Federació Andorrana des del 2000**. La font no
   explica **per què** va canviar de federació.
-- **Si viu a Andorra.**
+- ~~**Si viu a Andorra.**~~ — **`parcial` el 21-09-2026**: la pàgina oficial del [Centre d'Escacs d'Andorra](../../../raw/web/esport/escacs/escacsandorra-cea-2026.html) situa el CEA al complex dels Serradells d'Andorra la Vella i hi enumera **Oscar de la Riva Aguado com a vocal de la junta**. Això documenta la seva vinculació institucional i professional activa amb Andorra, però la font no declara el seu domicili de residència.
 - ~~**Les seves set Olimpíades** una per una: quins anys, i on.~~ — **`resolt` el 19-09-2026**: la FEVA les situa a **Istanbul (2000), Bled (2002), Calvià (2004), Torí (2006), Dresden (2008), Khanty-Mansysk (2010) i Istanbul (2012)** ([font](../../../fonts/escacsandorra-olimpiades-oscar.md)).
 - ~~**Qui és el número 1 i el número 2 d'Andorra**, si ell n'era el tercer el 2022.~~
   — **`resolt`: la llista FIDE d'abril de 2022 posa [Lance Henderson](../altres-esports/lance-henderson.md)
