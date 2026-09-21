@@ -218,28 +218,39 @@ Trias invoca.**
 
 ## Buits registrats
 
-1. **L'escrit del bisbe del 12 d'agost de 1894**, **original**. **El corpus el té
-   citat pel seu adversari dins d'un escrit de part**, **i només la «sección
-   política»**. **No se'n sap l'extensió total ni si tenia altres seccions.**
-   **Prioritari.**
-2. **Si el bisbe era realment «Jefe mayor de la Aduana de Seo de Urgel»**, i per
-   quin acte del Govern espanyol. **La font ho afirma dues vegades i no el cita.**
-   `Requereix la Gaceta de Madrid.`
-3. **Si alguna de les quatre represàlies es va arribar a aplicar**, i quan.
-   **Aquesta fitxa té l'amenaça, no l'execució.**
-4. **El text de la Carta Pobla.** **La font en dona el contingut i la clàusula de
-   data, i no la transcriu.** **Prioritari, i la font diu exactament on és:**
-   **l'Arxiu de la Casa de la Vall.**
-5. **Si la datació «anno feliciter vigesimo IIII» = 792 és sostenible.** **És un
-   any de regnat i la conversió és de la font**; **el corpus no l'ha verificada ni
-   l'adopta.**
-6. **Quins eren els límits que la Carta Pobla fixa** i **si són «los mismos de
-   hoy día»**, com afirma la font. `No verificat.`
-7. **El «Consejo llamado de los Valles» anterior al Consell General**: **quins
-   són els «documentos antiguos»** que el descriuen i **què més en diuen.**
-8. **Els convenis i concerts comercials amb Espanya i França** signats pel Consell
-   General i els seus síndics. **La font els invoca en bloc i no en data ni en
-   nomena cap.** **Prioritari per a l'àmbit de relacions exteriors.**
+1. ~~**L'escrit del bisbe del 12 d'agost de 1894**, **original**.~~ — **`parcial` el
+   2026-09-21**: l'exposició del Consell reprodueix la **secció política** amb
+   les dues condicions i les quatre represàlies, però l'original i la resta de
+   seccions encara no s'han localitzat ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+2. ~~**Si el bisbe era realment «Jefe mayor de la Aduana de Seo de Urgel»**, i per
+   quin acte del Govern espanyol.~~ — **`parcial` el 2026-09-21**: l'exposició
+   ho afirma i ho presenta com la base material de les represàlies, però no cita
+   l'acte del Govern espanyol ni permet verificar el nomenament ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+3. ~~**Si alguna de les quatre represàlies es va arribar a aplicar**, i quan.~~ —
+   **`parcial` el 2026-09-21**: la font enumera les quatre mesures —guies,
+   aranzels, fiança pel bestiar i consideració de bestiar estranger—, però no en
+   documenta l'execució ni la data ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+4. ~~**El text de la Carta Pobla.**~~ — **`parcial` el 2026-09-21**: la font en
+   resumeix els drets, les tres excepcions jurisdiccionals i la clàusula de data,
+   i declara que l'original o còpia legalitzada és a l'Arxiu de la Casa de la
+   Vall; la transcripció íntegra continua pendent ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+5. ~~**Si la datació «anno feliciter vigesimo IIII» = 792 és sostenible.**~~ —
+   **`parcial` el 2026-09-21**: **792** és la conversió que fa la font de l'any
+   de regnat, però el corpus encara no l'ha contrastada amb una font externa
+   ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+6. ~~**Quins eren els límits que la Carta Pobla fixa** i **si són «los mismos de
+   hoy día»**, com afirma la font.~~ — **`parcial` el 2026-09-21**: l'exposició
+   afirma que els límits de les Valls són els mateixos d'avui, però no en dona la
+   descripció ni una verificació cartogràfica ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+7. ~~**El «Consejo llamado de los Valles» anterior al Consell General**: **quins
+   són els «documentos antiguos»** que el descriuen i **què més en diuen.**~~ —
+   **`parcial` el 2026-09-21**: la font conserva la cita i atribueix la notícia a
+   documents antics, però no els identifica ni en transcriu cap ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+8. ~~**Els convenis i concerts comercials amb Espanya i França** signats pel Consell
+   General i els seus síndics.~~ — **`parcial` el 2026-09-21**: l'exposició els
+   invoca com a pràctica exterior del Consell i els síndics, juntament amb les
+   comissions a Madrid i París, però no en dona cap data ni títol; la font
+   contrària del 1904 tampoc no els identifica ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
 9. ~~***Constitución política y personal internacional del Principado de Andorra***,
    de **Joan de Déu Trias** (1890). **No és al corpus**~~ —**`parcial` des del
    17-09-2026**: **l'obra ja té referència completa i el títol que el corpus en
@@ -258,8 +269,9 @@ Trias invoca.**
    `Requereix el text; la referència ja no.`
 10. ***Étude critique sur les origines de la question d'Andorre***, de **Brutails**.
     **Segona vegada que surt i segueix sense trobar-se.** **Prioritari.**
-11. **Els actes de sobirania de Carles el Calb del 860** sobre Andorra. **Citats
-    sense referència.**
+11. ~~**Els actes de sobirania de Carles el Calb del 860** sobre Andorra.~~ —
+    **`parcial` el 2026-09-21**: la font els invoca com a actes de sobirania
+    exercits el **860**, però no en dona cap referència ni text ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
 12. ~~**La versió episcopal** de tot això.~~ **`parcial`: el corpus només llegeix
     una part de la versió i no en pot reconstruir el conjunt.
 
