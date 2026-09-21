@@ -282,15 +282,28 @@ mateixa família.`
    **El corpus reté el que les tres dates fan juntes**: **en quatre anys el mateix
    rei cobra tribut, legisla sobre el delme i es titula senyor sobirà** — **la
    sèrie és l'argument de Vilar, no una il·lustració.**
-3. **L'informe de d'Audon, governador del comtat de Foix.** **Citat sense data ni
-   signatura.**
-4. **Les lletres patents d'Enric IV** sobre allotjaments i requises — *Arxius de
-   Perpinyà, C 2098*. **Prioritari**, i **el lligall ja era a la llista.**
-5. **Les lletres patents de Lluís XIV** amb el tribut de **973 lliures 10 sous** —
+3. ~~**L'informe de d'Audon, governador del comtat de Foix.** **Citat sense data ni
+   signatura.**~~ — **`parcial` el 22-09-2026**: la fitxa conserva el fragment en
+   què el governador alerta Enric IV que el bisbe intenta anorrear l'autoritat
+   reial; **no en té la data ni la signatura d'arxiu**.
+4. ~~**Les lletres patents d'Enric IV** sobre allotjaments i requises — *Arxius de
+   Perpinyà, C 2098*. **Prioritari**, i **el lligall ja era a la llista.**~~ —
+   **`parcial` el 22-09-2026**: la fitxa ja en dona el contingut —prohibeixen
+   allotjar tropes i requisar queviures, i autoritzen els veïns a perseguir els
+   infractors— i la signatura **C 2098**; **les lletres originals no s'han
+   consultat**.
+5. ~~**Les lletres patents de Lluís XIV** amb el tribut de **973 lliures 10 sous** —
    *mateix lligall*. **Prioritari**: **és una xifra de quèstia que el corpus no
-   tenia.**
-6. **Les lletres patents de Lluís XVI de 1783** — *Arxius de Perpinyà, C 2101* —
-   i **la confirmació de 1770 als habitants de Mérens**.
+   tenia.**~~ — **`parcial` el 22-09-2026**: la fitxa conserva la xifra, la
+   condició d'obediència i la referència al mateix fons de Perpinyà; **no té el
+   text de les lletres ni permet convertir-lo amb la quèstia moderna de 960
+   francs**.
+6. ~~**Les lletres patents de Lluís XVI de 1783** — *Arxius de Perpinyà, C 2101* —
+   i **la confirmació de 1770 als habitants de Mérens**.~~ — **`parcial` el
+   22-09-2026**: la taula de la fitxa identifica **la confirmació de 1770** dels
+   drets de pastura i barra de Mérens i **les lletres de 1783** que confirmen els
+   privilegis d'Andorra, amb la signatura **C 2101**; **cap dels dos originals no
+   s'ha llegit**.
 - ~~**El dret de *barra*.**~~ — **`parcial` el 18-09-2026**: **el
    [DCVB](../../../fonts/dcvb.md) descriu la pràctica sota `barra` I.1.a** —
    **«Antigament posaven barra de través a un pont o camí, si el passatge estava
@@ -302,13 +315,24 @@ mateixa família.`
    drets que fan servir els qui baixen a Andorra amb bestiar.** `Cap dels dos
    diccionaris no té la locució «dret de barra» com a entrada; l'encaix és del
    corpus i es marca com a tal. I segueix obert quins camins i quin import.`
-7. **La carta del contrôleur général del 22 de març de 1745** — *C 2100* — i **la
+7. ~~**La carta del contrôleur général del 22 de març de 1745** — *C 2100* — i **la
    correspondència d'Argenson i de l'intendant de Perpinyà de juny de 1745**.
    **Prioritari**: **són la doctrina francesa escrita i el corpus només en té els
-   fragments que Vilar transcriu.**
-8. **Si el conveni sobre desertors es va arribar a signar.** **La font dona la
-   proposta i la rèplica, no el desenllaç.**
-9. **Qui era l'intendant de Perpinyà el 1745** i **qui l'intendant Horey**.
+   fragments que Vilar transcriu.**~~ — **`parcial` el 22-09-2026**: la fitxa
+   reprodueix la doctrina de la carta del **22 de març** —sobirania en paréage,
+   alternança i cap dret espanyol— i les cartes de **18 i 28 de juny** sobre els
+   desertors, amb la referència **C 2100**; **els originals no s'han consultat**.
+8. ~~**Si el conveni sobre desertors es va arribar a signar.** **La font dona la
+   proposta i la rèplica, no el desenllaç.**~~ — **`parcial` el 22-09-2026**: la
+   fitxa conserva la proposta de Madrid i la resposta de l'intendant, que en
+   rebutja el principi perquè Espanya intenta establir-hi el seu domini; **no hi
+   ha prova que el conveni s'arribés a signar**.
+9. ~~**Qui era l'intendant de Perpinyà el 1745** i **qui l'intendant Horey**.~~ —
+   **`parcial` el 22-09-2026**: la fitxa identifica **Horey** com el destinatari
+   de la carta fiscal del **22 de març de 1745**, **d'Argenson** com el ministre
+   que proposa el conveni el **18 de juny**, i **l'intendant de Perpinyà** com
+   l'oficial que respon el **28 de juny**; **no en conserva els noms complets ni
+   una biografia que permeti identificar-los millor**.
 10. ~~**El tractat de Corbeil de 1258** i **si va canviar la subjecció dels bisbes
     d'Urgell**. **Peça central de l'argument de Vilar i el corpus no la té.**~~ —
     **`parcial` el 2026-09-20**: [la nota de Brutails sobre Mérignhac](../pareatge/no-una-imitacio-sino-una-caricatura.md)
