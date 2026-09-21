@@ -255,23 +255,46 @@ la força**, perquè **la sola unió seria força moral suficient**; en els dos 
    que el Consell proposava per proveir una batllia vacant, i confirmen que el
    privilegi el donà Urries i el restaurà Capella; encara falten la data i el
    text.
-3. **Si el privilegi de la *cisena* va ser mai confirmat pel comte** o va quedar
-   sempre unilateral.
-4. **Quan i com els bisbes es van oposar a la residència del veguer francès.**
-   **La font diu «alguna vez» i no data res.**
-5. **El decret o document de 1762 de Catalán de Ocón.** **Dues fonts
+3. ~~**Si el privilegi de la *cisena* va ser mai confirmat pel comte** o va quedar
+   sempre unilateral.~~ — **`parcial` el 22-09-2026**: el document que el
+   Consell retreu diu que **només hi parla la Mitra, sense comptar amb el comte**;
+   **no hi ha una confirmació comtal conservada que permeti saber si l'acte es va
+   corregir després**.
+4. ~~**Quan i com els bisbes es van oposar a la residència del veguer francès.**
+   **La font diu «alguna vez» i no data res.**~~ — **`parcial` el 22-09-2026**:
+   la fitxa conserva que els bisbes **s'hi van oposar en alguna ocasió**, tot i
+   que la residència ja era gairebé necessària després dels Pariatges; **no hi ha
+   data ni episodi concret**.
+5. ~~**El decret o document de 1762 de Catalán de Ocón.** **Dues fonts
    independents l'atribueixen al mateix bisbe i al mateix any i cap no el
-   transcriu.** **Prioritari.**
-6. **Les butlles de preconització dels bisbes d'Urgell** on el títol de Príncep
+   transcriu.** **Prioritari.**~~ — **`parcial` el 22-09-2026**: la fitxa fixa
+   **Catalán de Ocón**, l'any **1762** i l'efecte que Brutails li atribueix —fer
+   servir per primer cop el títol de **Príncep Sobirà**—, i registra la
+   divergència de fonts sobre si és el mateix acte que el decret de 2 de març;
+   **cap document no és transcrit**.
+6. ~~**Les butlles de preconització dels bisbes d'Urgell** on el títol de Príncep
    Sobirà hauria quedat transcrit. **Afirmació central de l'escrit i no
    documentada.** **Prioritari**, i **comprovable**: les butlles són a l'Arxiu
-   Vaticà i al bisbat.
-7. **Des de quan la llengua catalana era «oficial» a la cúria episcopal d'Urgell**,
-   i **en quin sentit**. **La font ho dona per sabut.**
-8. **Quantes apel·lacions andorranes van anar a França abans i després.** **La
+   Vaticà i al bisbat.~~ — **`parcial` el 22-09-2026**: la font afirma que el
+   títol es va anar transcrivint en les butlles dels successors i la fitxa en
+   conserva el mecanisme de perpetuació; **no s'ha consultat cap butlla ni se'n
+   té una signatura**.
+7. ~~**Des de quan la llengua catalana era «oficial» a la cúria episcopal d'Urgell**,
+   i **en quin sentit**. **La font ho dona per sabut.**~~ — **`parcial` el
+   22-09-2026**: el Consell de **1894** dona per fet que el català era la llengua
+   oficial de la cúria i que els advocats de la Seu la feien útil per apel·lar;
+   **no fixa l'inici ni si «oficial» vol dir llengua normativa, de treball o de
+   procediment**.
+8. ~~**Quantes apel·lacions andorranes van anar a França abans i després.** **La
    font afirma que els andorrans en van prescindir «durante muchas generaciones» i
-   no dona cap sèrie.**
-9. **La versió episcopal.** **Com sempre en aquest volum.**
+   no dona cap sèrie.**~~ — **`parcial` el 22-09-2026**: queda establert el dret
+   d'apel·lar al príncep francès i que els andorrans en van prescindir durant
+   generacions per proximitat, llengua i advocats de la Seu; **no hi ha recompte
+   abans ni després**.
+9. ~~**La versió episcopal.** **Com sempre en aquest volum.**~~ — **`parcial` el
+   22-09-2026**: la fitxa conserva **la versió del Consell General** sobre la
+   comoditat processal i l'absorció de competències; **no hi ha al corpus cap
+   resposta episcopal a aquesta interpretació**.
 
 ## Related
 
