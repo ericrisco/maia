@@ -170,10 +170,17 @@ legal deu anys seguits no era una regla escrita: era una decisió repetida.**
 
 ## El que falta
 
-- **La definició dels tres pressupostos** —exercici, caixa i gestió—, que la
-  taula no dona.
-- **El pressupost liquidat**, no el previst. **Tot el que hi ha aquí és
-  previsió.**
+- ~~**La definició dels tres pressupostos** —exercici, caixa i gestió—, que la
+  taula no dona.~~ — **`parcial` el 21-09-2026**: la nota A134 defineix el
+  **resultat de gestió** com ingressos menys despeses sense financers ni actius
+  o passius, el **resultat de caixa** com ingressos menys despeses sense actius
+  ni passius, i el **resultat pressupostari** incloent-los tots; no són, però,
+  definicions dels tres formats de pressupost que tracta aquesta fitxa.
+- ~~**El pressupost liquidat**, no el previst.~~ — **`parcial` el 21-09-2026**:
+  la sèrie A134 ja aporta execució trimestral del sector públic —per al 3r
+  trimestre de 2025, **532,47 milions d'euros de despeses** i **1.022,41
+  milions d'ingressos**, sense transferències internes—; encara falta el
+  pressupost anual liquidat comparable amb la sèrie de previsions.
 - **Els anys anteriors al 1995.**
 - ~~**Quina norma fixa el tipus d'interès legal** i **per què el 2025 canvia la
   relació amb el moratori.**~~ — **`parcial` el 18-09-2026**: **la norma és
