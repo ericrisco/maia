@@ -230,9 +230,14 @@ confusió*», aquest cop **entre el *cens* i el *censal***.**
    ningú que el conegués.** **Prioritari**: és una regla de propietat sense base
    localitzada.
 2. **La sentència de l'11-09-1875**, sencera, i **de qui eren les finques.**
-3. **La declaració del Consell General del 19 de desembre de 1884** i **el decret del
-   19 de juny de 1866**, sencers. **El de 1866 fa dues coses alhora** —tipus del
-   censal i costum de la prescripció— **i el corpus només en té les dues citacions.**
+3. ~~**La declaració del Consell General del 19 de desembre de 1884** i **el decret
+   del 19 de juny de 1866**, sencers. **El de 1866 fa dues coses alhora** —tipus
+   del censal i costum de la prescripció— **i el corpus només en té les dues
+   citacions.**~~ — **`parcial` el 2026-09-21**: [Nascut d'una prohibició
+   eclesiàstica, mort per decret episcopal](../../economia/banca-i-fiscalitat/nascut-duna-prohibicio-eclesiastica-mort-per-decret-episcopal.md)
+   conserva la data i l'efecte del decret del **19 de juny de 1866** —manté el
+   tipus del censal en el **3,33 %**—, però no en té el text íntegre. La
+   declaració del **19 de desembre de 1884** continua només citada.
    `Requereix font externa: els llibres d'acords del Consell General.`
 4. **L'arrest sobre la prescripció del retracte convencional**, que **la font troba
    discutible i no data.**
