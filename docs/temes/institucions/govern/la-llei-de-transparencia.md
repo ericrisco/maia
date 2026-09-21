@@ -164,8 +164,12 @@ Documentació** (capítol cinquè).
   **`resolt` el 18-09-2026, com a duplicat intern de l'execució de la llei**:
   el buit canònic, amb la cerca al BOPA i el que encara cal demanar, queda a
   [el que no et deixen veure](./el-que-no-et-deixen-veure.md).
-- **Si el caràcter confidencial de la declaració de patrimoni s'ha discutit**
-  políticament, el corpus no en té cap font.
+- ~~**Si el caràcter confidencial de la declaració de patrimoni s'ha discutit**
+  políticament.~~ — **`parcial` el 21-09-2026**: l'article 28.3 de la **Llei
+  33/2021** fixa que les declaracions només les poden consultar els afectats o
+  l'autoritat competent en un procediment judicial; el corpus no conserva cap
+  debat parlamentari o intervenció política que permeti saber si aquesta
+  confidencialitat es va discutir.
 
 ## Related
 
