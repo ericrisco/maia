@@ -82,7 +82,9 @@ I què en treiem, que és el que fa aquesta fitxa útil:
 
 **El que sorprèn el foraster és exactament el que el local no escriu.** Per això
 aquests relats són **font etnogràfica de primer ordre**, precisament perquè
-**l'autor no sabia que estava fent etnografia**.
+**l'autor no sabia que estava fent etnografia**. El corpus en conserva aquesta
+descripció de conjunt, però encara no ha buidat cap passatge literal sobre un ús,
+un costum o un plat concret.
 
 La cronologia cultural del Govern d'Andorra permet posar-hi noms i anys. La
 pròpia font diu que no és una relació exhaustiva, però ja deixa una primera
@@ -142,7 +144,7 @@ trajecte; **el que digui dels costums s'ha de contrastar**.
    en té cap d'identificat.~~ — **`parcial`, confirmat el 2026-09-19**: la
    cronologia cultural del Govern identifica una primera sèrie d'autors, títols
    i anys, però adverteix que la relació exhaustiva continua oberta.
-3. **Què hi deien dels costums** i del menjar, literalment.
+3. ~~**Què hi deien dels costums** i del menjar, literalment.~~ — **`parcial` el 21-09-2026**: la font conserva que als viatgers els sorprenien els usos i costums i que descrivien les fondes, els propietaris i el que menjaven; el corpus encara no té els passatges literals de cap relat concret.
 4. ~~**Quines fondes** recomanaven, per parròquia.~~ — **`parcial` el
    21-09-2026**: la font ja permet afirmar que les guies recomanaven **algunes
    fondes a cada parròquia**, i els relats descrivien els propietaris i el que
