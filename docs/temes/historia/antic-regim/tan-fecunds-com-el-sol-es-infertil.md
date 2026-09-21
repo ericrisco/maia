@@ -335,16 +335,7 @@ Vegeu [els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md).
    no en rebien actes, però conserva una **declaració judicial del segle XV** que
    acredita una promesa de matrimoni i l'intercanvi d'anells com a *jogos*; no és
    un contracte de *sposalles* ni permet datar-ne la desaparició ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
-8. **Què eren els *jogos*** exactament. — **`obert`, i el 16-09-2026 amb els dos
-   diccionaris consultats i buits.** **Ni el [DIEC2](../../../fonts/diec2.md) ni
-   el [DCVB](../../../fonts/dcvb.md) no tenen `jogos`**; **el DCVB té `JOC`**
-   amb els sentits corrents de joc i entreteniment, **cap d'ells de regal ni
-   d'aportació matrimonial.**
-   **Per tant `jogos` no és un mot de la llengua descrita: és un mot d'aquests
-   documents**, com `asetiada` o `assecle`. **El que el corpus en pot dir és el
-   que en diu el context** —**acompanyaven una *sposalla***— **i prou.**
-   **Es tanca amb actes matrimonials andorrans, no amb lexicografia**:
-   `requereix capítols matrimonials del mateix fons`.
+8. ~~**Què eren els *jogos*** exactament.~~ — **`parcial` el 21-09-2026**: la [fitxa lèxica](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja en fixa el sentit contextual: **eren els regals que recolzaven una promesa de matrimoni**, i la declaració judicial del segle XV precisa que eren **anells**. El DIEC2 i el DCVB continuen sense entrada per a `jogos`, de manera que **la definició és documental i no lexicogràfica**.
 9. ~~**Què vol dir «de caball o dot»** al contracte de 1551, i **si el *cavall* era
    una aportació amb nom propi diferent del dot**.~~ — **`parcial` el 2026-09-21**:
    el contracte conserva l'expressió i quantifica l'aportació masculina en **160

@@ -388,8 +388,8 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
    anys i vuitanta actes per part, i el de partició de més de deu anys**—
    **sense data, parròquia ni desenllaç.** **La font els resumeix de la memòria.**
 4. **L'acte del 17 d'agost de 1420** sencer, **i on és «*a Pesses Caldes*»**.
-5. **L'acte del 15 de juliol de 1420** sencer, **i què vol dir comprar vi «*in
-   albis*»** —**en moneda blanca?**—, **que el corpus no dedueix.**
+5. ~~**L'acte del 15 de juliol de 1420** sencer, **i què vol dir comprar vi «*in
+   albis*»** —**en moneda blanca?**—, **que el corpus no dedueix.**~~ — **`parcial` el 21-09-2026**: l'acte ja conserva que **«*in albis*» era l'excepció monetària** que permetia comprar vi quan la resta de moneda de Barcelona estava prohibida; el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) en registra l'ús com **la moneda admesa el 1420**, però marca explícitament que **el significat material de l'expressió encara no està comprovat**.
 6. ~~**Per què el 1420 hi ha dos saigs alhora** quan la carta de 1305 en concedia
    **un de sol.**~~ — **`parcial` des del 22-09-2026**: el corpus ja documenta
    **dos saigs simultanis el 1364 i el 1390**, un al servei del comte de Foix i
