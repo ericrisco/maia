@@ -232,8 +232,7 @@ de cada moment i no pas a un programa preordenat»**
 
 ## Buits registrats
 
-1. **Els noms de les set** peticionàries de 1967 i **la llista de les 378**.
-   **Prioritari.**
+1. ~~**Els noms de les set peticionàries de 1967 i la llista de les 378.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva els noms de **Pepita Aguilar, Quima Calvó i Angelina Mas** entre les 378 signants i confirma que eren set peticionàries, una per parròquia; el corpus no té els quatre noms restants ni la llista completa.
 2. ~~**El nom de la primera dona elegida** —consellera de comú a Escaldes, 1973—~~ —
    **`resolt` el 19-09-2026**: és **Carme Travesset Travesset**, elegida
    consellera del Quart d'Escaldes-Engordany el **1973**; el catàleg de les
@@ -255,8 +254,8 @@ de cada moment i no pas a un programa preordenat»**
    1984** com la consellera que substitueix Bonaventura Riberaygua.
 4. ~~**Maria Teresa Armengol i Bonet**: biografia, parròquia, any de naixement.
    La primera parlamentària del país **i no en sabem la parròquia**.~~ — **`parcial` el 20-09-2026**: la mateixa fitxa documenta que fou la primera dona elegida al Consell General el **1985** i la primera dona al Consell Superior de la Justícia el **2005**; resten obertes la biografia, la parròquia i l'any de naixement.
-5. **Qui van ser els vots en contra** del 4 de juliol de 1969.
-6. **El text dels decrets** de 1970 i 1973.
+5. ~~**Qui van ser els vots en contra del 4 de juliol de 1969.**~~ — **`parcial` el 21-09-2026**: l'acta política de la votació fixa **12 vots contra**, **6 a favor** i **1 abstenció** per al sufragi passiu, però el corpus no identifica els consellers que van votar en cada sentit.
+6. ~~**El text dels decrets de 1970 i 1973.**~~ — **`parcial` el 21-09-2026**: la cronologia fixa el decret de **1970** que concedeix el vot i el de **5 de setembre de 1973** que permet a les dones andorranes presentar-se en les mateixes condicions que els homes, però el corpus no en té els textos íntegres.
 7. **Què deia la premsa** andorrana entre 1967 i 1973.
 8. ~~**Si el maig francès del 1968 hi va tenir res a veure.**~~ — **`parcial` el
    19-09-2026**: una segona font ([els anys daurats](../../historia/historia-recent/els-anys-daurats.md)) diu que les andorranes estaven **«contagiades per l'ambient del maig francès»**, però situa la primera recollida de signatures el **1967**, un any abans. La petició ampliada, amb més de 370 signatures, sí que es va presentar el **15 de maig de 1968**, durant el maig francès. **La coincidència temporal queda documentada; la relació causal no es pot afirmar.**
