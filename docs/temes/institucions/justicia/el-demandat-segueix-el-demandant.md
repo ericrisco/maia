@@ -268,9 +268,17 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 2. **Cap cas documentat de plet reprès davant de l'altre batlle** després
    d'haver-lo perdut. **La font ho dona com a temptació forçosa i no en cita
    cap.**
-3. **Què passava si el veí més pròxim no transmetia la citació.**
-4. **El conveni o la base jurídica** de l'assistència judicial amb França que la
-   font descriu com a pràctica corrent. **No en cita cap.**
+3. ~~**Què passava si el veí més pròxim no transmetia la citació.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa documenta que la segona citació podia
+   lliurar-se al **veí més pròxim** quan l'adreça actual era desconeguda. **La font
+   no diu què passava si el veí no la transmetia.**
+4. ~~**El conveni o la base jurídica** de l'assistència judicial amb França que la
+   font descriu com a pràctica corrent. **No en cita cap.**~~ — **`parcial` el
+   2026-09-21**: la fitxa conserva el circuit pràctic de les notificacions —la
+   **Delegació permanent** les transmet al president del districte francès, que
+   designa un agutzil, i el batlle tramita les notificacions franceses a Andorra
+   sota l'article 69 del Codi francès. **La font no cita cap conveni ni base
+   jurídica bilateral.**
 5. ~~**L'*Instructa*, Pièces justificatives p. XLVIII, `resolta` el 16-09-2026**
    (PDF 68); **el *Politar*, pp. 208 i 209, `resolt` el 18-09-2026**: **la regla
    que dona títol a aquesta fitxa hi és amb la seva raó de dret.**~~ **En les
