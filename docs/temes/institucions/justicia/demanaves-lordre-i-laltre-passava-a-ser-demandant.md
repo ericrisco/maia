@@ -310,8 +310,11 @@ registrar**
    terminis ni dels dies feriats.** **L'única modificació documentada del decret
    de 1888 no recull l'esmena que l'autor proposava**, i **el text sencer de
    totes dues normes segueix sense veure's.**
-10. **La constitució de renda del 19 de desembre de 1628** amb la clàusula «*cum
-    facultate variandi*».
+10. ~~**La constitució de renda del 19 de desembre de 1628** amb la clàusula «*cum
+    facultate variandi*».~~ — **`parcial` el 2026-09-21**: el corpus ja en dona
+    la data, la naturalesa de constitució censal i la fórmula llatina completa,
+    i explica que permetia variar de judici; l'acte íntegre i la seva referència
+    d'arxiu encara no hi són.
 
 ## Related
 

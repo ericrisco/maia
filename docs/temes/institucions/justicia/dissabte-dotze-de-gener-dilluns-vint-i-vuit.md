@@ -259,16 +259,25 @@ exemple datat. El corpus el refà.**
    dels fets per rebutjar l'apel·lació manifestament frívola i temerària.**
    **Segueix obert** si algun *apostoli refutatorii* andorrà es conserva: la
    font en dona la figura i cap cas datat.
-3. **Les lletres d'apel·lació de 1902** que només mencionen deu dies. **Són dels
-   documents més moderns que aquest llibre cita.**
-4. **El decret del Consell General del 21 de desembre de 1895**, i **quina és «la
-   lley general» que invoca.**
+3. ~~**Les lletres d'apel·lació de 1902** que només mencionen deu dies.~~ —
+   **`resolt` el 2026-09-21**: la fitxa en conserva la dada i explica que els
+   tres dies de gràcia i els feriats s'hi afegeixen encara que no s'escriguin;
+   són dels documents més moderns que el llibre cita.
+4. ~~**El decret del Consell General del 21 de desembre de 1895**, i **quina és
+   «la lley general» que invoca.**~~ — **`parcial` el 2026-09-21**: el text del
+   decret ja és transcrit i el corpus el relaciona amb la regla de tretze dies
+   del *Politar* i amb el mateix llindar de deu lliures; la font, però, no
+   identifica amb precisió quina norma denomina «la lley general».
 5. ~~**Quan es va acabar d'admetre l'apel·lació contra les sentències *en
    rebeldia***, **i qui protestava.**~~ — **`parcial`, actualitzat el 2026-09-19**:
    la font presenta aquesta admissió com una **evolució encara en curs el
    1904**. **Segueixen obertes la data en què es va completar i la identitat de
    qui hi protestava.**
-6. **Els documents de 1503, 1601, 1603, 1604, 1788 i 1793** sencers.
+6. ~~**Els documents de 1503, 1601, 1603, 1604, 1788 i 1793** sencers.~~ —
+   **`parcial` el 2026-09-21**: la fitxa ja conserva els casos de **1788** i
+   **1793** amb la seqüència d'apel·lació i la resposta del batlle, però només en
+   extracte; els quatre documents més antics i els textos íntegres continuen
+   pendents.
 7. ~~**El *Politar*, pp. 209 i 212.**~~ — **`resolt` el 18-09-2026, i el termini
    de tretze dies té dins una distinció que aquesta fitxa necessitava.**
 
@@ -301,9 +310,10 @@ exemple datat. El corpus el refà.**
    dels deu dies.**~~ **`parcial`:** l'*arrêt* de 1749 ja permet documentar que
    la requesta d'execució es va formar al cap de deu dies; el corpus encara no
    té el procés sencer ni en pot reconstruir totes les actuacions.
-10. **Quines són exactament les «requestes dispensades del procediment de
-    judici»** que s'executen immediatament. **La font en dona la categoria i no la
-    llista.**
+10. ~~**Quines són exactament les «requestes dispensades del procediment de
+    judici»** que s'executen immediatament.~~ — **`parcial` el 2026-09-21**: el
+    corpus n'identifica almenys el **manament sobre títol**, que passa directament
+    a execució, però la font no en dona la llista completa.
 
 ## Related
 
