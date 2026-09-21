@@ -221,10 +221,13 @@ la més precisa de totes:**
 
 ## Buits registrats
 
-1. **El text del privilegi de 1433**, **i l'anàlisi del segle XVII que li
+1. ~~**El text del privilegi de 1433**, **i l'anàlisi del segle XVII que li
    atribueix la sessió anual.** **Prioritari i doble**: **la font diu que
    l'original no conté la disposició, i el corpus vol saber què hi conté i què hi
-   va afegir el resum.**
+   va afegir el resum.**~~ — **`parcial` el 2026-09-21**: la fitxa ja estableix
+   que **el document original de 1433 no conté la regla d’una sola sessió anual**
+   i que aquesta atribució prové d’una **anàlisi del segle XVII**. **El text
+   íntegre del privilegi i l’anàlisi completa encara no són al corpus.**
 2. ~~**Quines eren les «circumstàncies»** que, segons la font, treuen autoritat a les cartes de 1872 del batlle i el veguer francesos.~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data, els autors i l'efecte jurídic atribuït a les cartes, però no el contingut que explicaria aquelles circumstàncies; cal consultar l'**Andorre, lligall 2** dels Archives de l'Ariège.
 3. ~~**Els decrets del Consell General del 19 de maig de 1874 i del 25 d'agost de
    1877**, sencers. **Prioritari**: **cauen dins la crisi i el corpus només en té
