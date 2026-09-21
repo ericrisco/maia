@@ -149,7 +149,11 @@ habitants no podia fer-hi res**.
   21-09-2026**: la font identifica els autors com a **alumnes del Batxillerat
   Internacional de l'Escola Andorrana** i documenta l'audiovisual *13 camins cap
   a l'infern*; **no confirma que es publiqués a *EABATX Report***.
-- La recerca de **Pau Chica**, quan es publiqui.
+- ~~La recerca de **Pau Chica**, quan es publiqui.~~ — **`parcial` el
+  21-09-2026**: *Bondia* el documenta com a professor del curs de l'UdA sobre
+  l'Holocaust i el projecte Stolpersteine (28–30 d'abril de 2025), però **la
+  recerca de quatre anys sobre les conseqüències de la guerra encara no s'ha
+  publicat**.
 - ~~**Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
   d'Andorra.~~ — **`resolt` el 21-09-2026**: la notícia de **RTVA del
   21-03-2018** identifica l'exposició *Més enllà de Mauthausen. Francesc Boix*
