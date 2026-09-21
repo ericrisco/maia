@@ -77,7 +77,14 @@ creació.**
    competències, òrgans, unitats organitzatives i recursos.
 2. **Com era la sanitat pública abans del SAAS**, entre el 1934 (Consell
    Sanitari) i el 1986.
-3. **L'evolució pressupostària i d'efectius des del 1986.**
+3. ~~**L'evolució pressupostària i d'efectius des del 1986.**~~ — **`parcial`
+   el 21-09-2026**: l'API d'Estadística conserva el **pressupost final de
+   despeses del SAAS des de 2006**. El total passa de **39.426.820 € el 2006**
+   a **60.608.239 € el 2015** i **116.249.098 € el 2025**; el capítol de
+   personal passa de **23.868.583 €** a **35.681.784 €** i **62.971.315 €**,
+   respectivament. La sèrie no arriba a 1986 i són imports pressupostaris, no
+   un recompte de persones: els efectius del SAAS i el tram 1986–2005 continuen
+   oberts ([font local](../../../raw/estadistica-api/README.md)).
 
 ## Related
 
