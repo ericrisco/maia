@@ -247,7 +247,7 @@ usos de l'aigua**».
 **El buit del corpus era, aquí, el buit de la ciència.** La ponència és **la
 presentació d'una tesi doctoral que es proposava omplir-lo**.
 
-**Buit registrat, prioritari:** si aquella tesi es va acabar, i què va donar.
+**Acotació del buit:** la ponència només documenta una tesi doctoral **en curs el 2016**; no hi ha aquí prova que s'acabés ni resultats finals atribuïbles a la tesi.
 
 ### Les dues pressions que els gestors ja preveien el 2016
 
@@ -336,7 +336,7 @@ data de finalització de l'esquí.
    1961–1990 continuen pendents. La coincidència numèrica no resol el buit.
 10. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
    andorrans i el corpus només els té citats.
-11. **La tesi de Cristina Pesado**: si es va acabar i què va donar.
+11. ~~**La tesi de Cristina Pesado**: si es va acabar i què va donar.~~ — **`parcial` el 21-09-2026**: la font es presenta com una **ponència de 2016 sobre una tesi doctoral en curs**; el corpus sap quin buit científic volia estudiar i quines dades preliminars exposava, però no ha verificat que la tesi s'acabés ni en té els resultats finals ([fitxa de la font](../../../fonts/pesado-recurs-hidric-andorra.md)).
 12. **Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.
 
 13. Drets de redistribució dels informes de Medi Ambient pendents; els
