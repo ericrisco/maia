@@ -143,9 +143,7 @@ també ha d'evitar la malaltia.
 
 - ~~**Per què 111 i no 150.**~~ — **`parcial` el 2026-09-19**: el pla de viabilitat de **1988** preveia formar **150 infermeres en deu anys**, mentre que la font compta **111 titulades el 2000**. **La font no explica si la diferència prové de la demanda, de les candidates o d’una projecció inicial massa alta.**
 - ~~**Quantes infermeres andorranes hi ha avui** i quin percentatge — la xifra del 10% del 1987 **demana un tancament**. **Buit prioritari.** **Comprovat el 18-09-2026**: **l'API pública del Departament d'Estadística no té cap divisió de personal sanitari per professió** (cercat «infermeres», «professionals sanitaris», «salut»).~~ — **`parcial` el 21-09-2026**: el [COIA](../../../raw/web/societat/sanitat/infermeria/README.md) publica **515 col·legiats**; aquesta xifra és del col·legi professional i no desglossa nacionalitat ni percentatge d’infermeres andorranes.
-- ~~L'escola especialitzada Nostra Senyora de Meritxell~~ — **fitxa oberta**;
-  en queda pendent la data exacta de fundació. El **Centre d'Acolliment
-  d'Infants**, en canvi, segueix sense res.
+- ~~L'escola especialitzada Nostra Senyora de Meritxell~~ — **`parcial` el 21-09-2026**: la [Llei 2/2019](../../../raw/web/societat/educacio/escola-meritxell/README.md) acredita que l’associació de l’escola va ser autoritzada el **12 de novembre de 1969** pel Decret 790/K. La fitxa històrica completa i el **Centre d’Acolliment d’Infants** encara no estan documentats.
 - ~~**Quantes de les 111 eren dones**: la font no ho diu, i en una professió tan
   marcada per gènere és una dada que falta.~~ — **`no-es-buit` el 20-09-2026**:
   l'article només publica el total de titulats i no ofereix cap desglossament per
