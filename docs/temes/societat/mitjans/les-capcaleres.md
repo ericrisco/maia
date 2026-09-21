@@ -175,8 +175,11 @@ aquell any.**
   queda registrada i no arbitrada.
 - ~~**Per què es va tancar *P.P.*** per sentència del Tribunal de Corts.~~ — **`parcial` el 20-09-2026**: la font en fixa el període **1973–1975**, els **113 números**, el **tancament per sentència del Tribunal de Corts el 1975** i la direcció de **Manuel Sansa**. **No hi consten el motiu ni el text de la sentència.**
 - ~~**On s'imprimia *Andorra Agrícola***, si a Andorra no hi havia impremta.~~ — **`parcial` el 21-09-2026**: Sorribes la situa com a primera publicació editada a Ordino el 1933, mentre Giralt situa la primera impremta cap al 1940; el corpus no ha trobat el taller o la ciutat on es va imprimir.
-- **La col·lecció de *Poble Andorrà*** (1974-1977), que és **el primer diari en
-  català de la postguerra** i el corpus no n'ha llegit ni un número.
+- ~~**La col·lecció de *Poble Andorrà*** (1974-1977), que és **el primer diari en
+  català de la postguerra** i el corpus no n'ha llegit ni un número.~~ —
+  **`parcial` el 21-09-2026**: la fitxa ja en fixa la primera etapa —**1974–1977**—
+  i la reaparició de **1994**, tres cops per setmana; encara no conserva cap
+  exemplar ni el recompte complet de números.
 - **Qui el va fer**: l'autora hi dedica l'exposició central i aquesta fitxa només
   n'ha pres el marc.
 - **Per què Andorra Magazine es distribuïa a Algèria i al Marroc.**
