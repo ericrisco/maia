@@ -232,8 +232,8 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    > tria, per il·lustrar la prelació del costum sobre el dret comú, justament la
    > matèria successòria.** **El costum andorrà que s'imposa al dret romà és el
    > que protegeix l'hereu.**
-6. **El testament recent interpretat pel Tribunal Superior**, i **fins on
-   arribava la influència dels legistes de la Seu.**
+6. ~~**El testament recent interpretat pel Tribunal Superior**, i **fins on
+   arribava la influència dels legistes de la Seu.**~~ — **`parcial` el 21-09-2026**: la font adverteix que totes les peces d'aquell procés portaven traces de la influència dels legistes de la Seu i que no és segur usar-lo per definir el dret andorrà; el corpus no té encara la sentència ni pot delimitar fins on arribava aquella influència.
 7. ~~**Si l'hereu havia de fer inventari en un mes**, com deia el notable, **o no**.
    **La font ho atribueix a una confusió i no cita cap norma.**~~ — **`parcial` el 21-09-2026**: el testimoni d'un notable sosté que l'hereu havia de començar l'inventari dins del mes sota pena de perdre la quarta, però Brutails ho identifica com una confusió amb l'obligació de l'hereu fiduciari; el corpus no té la norma que permeti decidir entre les dues lectures.
 8. **Si el «dret de cinch sous» de l'aranzel de 1740** té relació amb **la suma

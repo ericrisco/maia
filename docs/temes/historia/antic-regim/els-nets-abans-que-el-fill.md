@@ -239,12 +239,12 @@ simbòlica als qui no hereten:**
    externa: Archives départementales des Pyrénées-Orientales.`
 2. **Què va resoldre l'enquesta sobre si *heretar* vol dir *donar*.** **El corpus
    té la pregunta i no la resposta.**
-3. **El cas de vint anys (1868-1888)**: **les tres resolucions, senceres**, i **com
-   va acabar**.
+3. ~~**El cas de vint anys (1868-1888)**: **les tres resolucions, senceres**, i **com
+   va acabar**.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la seqüència —el batlle el **1868**, una nova intervenció dels parents cap al **1878** i el Tribunal Superior el **15 de desembre de 1888**—, però no els textos sencers ni el desenllaç posterior.
 4. **El model d'acte del formulari del segle XVIII** per quan els germans trien
    hereu entre ells, i **quants d'aquests actes es van rebre.**
-5. **Si la nominació d'hereu feta pel batlle d'ofici es va fer mai**, o **si és una
-   hipòtesi de l'autor**. Ell mateix escriu **«potser fins i tot el batlle»**.
+5. ~~**Si la nominació d'hereu feta pel batlle d'ofici es va fer mai**, o **si és una
+   hipòtesi de l'autor**. Ell mateix escriu **«potser fins i tot el batlle»**.~~ — **`parcial` el 21-09-2026**: en el cas de 1783 la font diu expressament que el batlle **no va instituir hereu**, sinó que va atribuir els béns a un fill perquè pagués els germans; el corpus no té cap altre cas que permeti saber si la nominació d'ofici es va practicar mai.
 6. ~~**Si el fill de 1783 va pagar els germans**: **el 1784 encara devia les 32
    lliures 4 sous 2 diners a cadascun** i **prometia pagar en tres mesos.**~~ — **`parcial` el 21-09-2026**: l'acte de 1784 documenta que encara devia **32 lliures 4 sous 2 diners a cadascun**, declarava que no tenia diners i prometia pagar en tres mesos; el corpus no té cap acte posterior que acrediti si finalment va pagar.
 7. ~~**Si la primogenitura era «lo estil de las Valls regular»**, com diu una part el
@@ -255,8 +255,8 @@ simbòlica als qui no hereten:**
    filles que hereten per davant de fills o germans. La contradicció queda
    documentada, però el corpus encara no pot arbitrar si hi havia una regla
    general o només una pràctica invocada en aquell plet.
-8. **Amb quina freqüència s'instituïa hereva l'ànima.** **Quatre casos no en fan
-   una.**
+8. ~~**Amb quina freqüència s'instituïa hereva l'ànima.** **Quatre casos no en fan
+   una.**~~ — **`parcial` el 21-09-2026**: el corpus ja té **quatre casos entre 1675 i 1874**, amb inventari, venda a l'encant, misses i marmessors documentats; no té una sèrie completa ni un denominador que permeti calcular-ne la freqüència.
 9. ~~**Per què les filles reben més que els fills** a 1697 i a 1874. **La hipòtesi
    del dot és del corpus i no està verificada.**~~ — **TANCAT el 2026-09-18: la
    font ho diu en una línia.** **La llegítima «és augmentada o disminuïda a
