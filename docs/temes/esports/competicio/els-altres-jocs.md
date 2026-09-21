@@ -264,12 +264,12 @@ Olímpic Andorrà o al CIO.**
   almenys una, Paquita Ramírez a Vancouver 2010, i el guia no consta.**~~ —
   **`resolt` el 18-09-2026, bessó**: **Manel Fernández Flores**, detallat
   més amunt en aquesta mateixa fitxa.
-- **La FADEA**: ~~què fa~~ **i** quan es crea, quanta gent. — **`parcial` el
-  2026-09-19**: **és la Federació Andorrana d'Esports Adaptats**, **el Comitè
-  Paralímpic Nacional d'Andorra**, amb codi **AND** i web **`fadea.ad`**.
-  *Bondia* situa la fundació de la **FADEM el 1998** per **Susana Herrera** i
-  el canvi de nom a **FADEA el 2002**; el registre comunal hi dona el número
-  **116-18/2002** i la inscripció del **28 d'agost de 2013**
+- **La FADEA**: ~~què fa i quan es crea~~ — **`resolt` el 2026-09-21**:
+  **és la Federació Andorrana d'Esports Adaptats**, **el Comitè Paralímpic
+  Nacional d'Andorra**, amb codi **AND** i web **`fadea.ad`**. *Bondia* situa
+  la fundació de la **FADEM el 1998** per **Susana Herrera** i el canvi de nom
+  a **FADEA el 2002**; el registre comunal hi dona el número **116-18/2002** i
+  la inscripció del **28 d'agost de 2013**
   ([font](../../../fonts/fadea-fundacio-1998.md)). **El nombre de federats
   continua obert.**
 - ~~**Les vint-i-tres seleccions nacionals.**~~ `resolt` **el 2026-09-18**:

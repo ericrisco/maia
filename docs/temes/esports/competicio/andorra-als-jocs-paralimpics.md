@@ -180,14 +180,17 @@ participacions».**
    `La pàgina del 2018 hi afegeix, de passada, la confirmació que el novè lloc
    de Paquita Ramírez al gegant de Vancouver 2010 era el millor resultat
    paralímpic d'hivern d'Andorra abans de Milà-Cortina 2026.`
-5. ~~**La FADEA**: **quan es crea, quanta gent hi ha federada i com es
-   finança.**~~ — **`parcial` el 18-09-2026**: `fadea.ad` no publica cap
-   d'aquestes dades. **Cota inferior trobada al BOPA**: la Federació
-   Andorrana d'Esports Adaptats ja rebia una ajuda pública de **55.000 €**
-   com a entitat «legalment constituïda» el **14-12-2011**
-   ([font](../../../fonts/bopa-edicte-2011-ajudes-esportives.md)) — no és
-   la data de creació, només confirma que existia abans del 2011. **La
-   xifra de federats i el finançament actual segueixen sense localitzar-se.**
+5. ~~**La FADEA**: **quan es crea**.~~ — **`resolt` el 2026-09-21**: *Bondia*
+   atribueix a **Susana Herrera** la fundació de la **FADEM el 1998** i explica
+   que l'entitat va adoptar el nom **FADEA el 2002**; el registre comunal hi
+   dona el número **116-18/2002** i la inscripció del **28 d'agost de 2013**
+   ([font](../../../fonts/fadea-fundacio-1998.md)). **Continua obert quanta
+   gent hi ha federada i com es finança avui.** `fadea.ad` no publica aquestes
+   dades. **Cota inferior trobada al BOPA**: la Federació Andorrana d'Esports
+   Adaptats ja rebia una ajuda pública de **55.000 €** com a entitat
+   «legalment constituïda» el **14-12-2011**
+   ([font](../../../fonts/bopa-edicte-2011-ajudes-esportives.md)); confirma que
+   existia abans del 2011, però no resol el finançament actual.
 6. ~~**Òscar Espallargas**, que la pàgina del 2018 cita en referència sense
    explicar quin paper hi té.~~ — **`parcial` el 18-09-2026**, i **el que es pot
    dir amb precisió és això**: **la referència és una de les tres que sostenen
