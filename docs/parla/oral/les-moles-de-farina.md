@@ -250,16 +250,13 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
 ## Buits registrats
 
 1. **`no-es-buit`** — **Les 79 marques no s'han verificat.**
-2. **`assecle`, contrastat el 16-09-2026 amb els dos diccionaris: no hi és.**
-   **Ni al [DCVB](../../fonts/dcvb.md) ni al [DIEC2](../../fonts/diec2.md).**
-   **I això el converteix en el candidat a andorranisme més seriós d'aquesta
-   peça**, per tres raons que es poden escriure: **surt quatre vegades**, **tres
-   de les quatre ocurrències són netes**, i **la parlant el glossa ella mateixa**
-   —«**un assecle o rec**» (00:07:31)—, de manera que **el significat no depèn de
-   la nostra lectura sinó de la seva.**
-   **El que segueix obert és l'etimologia i l'extensió**: **si és viu fora
-   d'Andorra i des de quan.** `Requereix un segon testimoni i recerca
-   lexicogràfica més enllà dels dos diccionaris normatiu i descriptiu.`
+2. ~~**`assecle`, contrastat el 16-09-2026 amb els dos diccionaris: no hi és.**~~ —
+   **`parcial` el 21-09-2026**: no apareix ni al [DCVB](../../fonts/dcvb.md) ni al
+   [DIEC2](../../fonts/diec2.md), però surt **quatre vegades**, tres de netes, i
+   la parlant el glossa com **«un assecle o rec»** (00:07:31); el significat és
+   segur dins la peça. **Resta oberta l'etimologia i l'extensió fora d'Andorra**:
+   caldria un segon testimoni i recerca lexicogràfica més enllà dels dos
+   diccionaris.
 3. **`[?secla]`** (00:10:42) — **`resolt` el 16-09-2026, i al revés del que
    aquest buit suposava: no és un error de màquina.** **El DCVB té `SECLA` com a
    entrada pròpia, remetent a `sèquia`** —«excavació llarga i estreta... per a
