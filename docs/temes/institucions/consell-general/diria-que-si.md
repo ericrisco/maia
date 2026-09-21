@@ -241,8 +241,16 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
    Consell General.**~~ — **`parcial` el 21-09-2026**: la font no en data cap cas,
    però el corpus ja documenta el mecanisme institucional: **els batlles els
    nomenen els coprínceps**. **Continuen pendents els casos concrets i les dates.**
-6. **Si el recurs als coprínceps es va exercir mai fora de les concessions**, i
-   **què va passar després del 1904** amb aquesta doctrina. `obert.`
+6. ~~**Si el recurs als coprínceps es va exercir mai fora de les concessions**, i
+   **què va passar després del 1904** amb aquesta doctrina.~~ — **`parcial` el
+   21-09-2026**: el corpus ja té dues vies explícites fora de les concessions:
+   el **recurs al Príncep Sobirà** contra el dubte del Comú sobre l'elegibilitat
+   d'un foraster casat amb pubilla i el recurs contra la negativa de llicència
+   per demandar una autoritat ([Que no s'hi hagi mirat amb menyspreu ni
+   indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+   Aquestes peces proven que la via estava prevista en matèries electorals i
+   administratives; no proven encara un expedient efectivament tramitat contra
+   un reglament del Consell ni la seva continuïtat després de 1904.
 7. ~~**Què deia exactament el Politar a les pàgines 242, 250, 252, 275 i 280**
    **sobre els punts pels quals Brutails les cita.**~~ — **`resolt` el
    18-09-2026: les cinc pàgines s'han llegit, i la 275 és la que justifica el
