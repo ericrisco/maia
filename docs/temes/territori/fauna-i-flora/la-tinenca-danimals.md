@@ -139,8 +139,7 @@ multes de **60–300 €**, **300,01–3.000 €** i **3.000,01–9.000 €**, r
   lleure» que puguin afectar la fauna autòctona.**
 
   **La quarta converteix una excursió o un rodatge en una activitat
-  autoritzable.** **El reglament ha de fixar les condicions «basant-se en el
-  grau d'amenaça» de cada espècie** —i **aquest reglament no és al corpus.**
+  autoritzable.** **El reglament fixa les condicions «basant-se en el grau d'amenaça» de cada espècie**; el **Decret 256/2022, del 15 de juny**, ja n'estableix els permisos, certificats i procediments d'importació, exportació i transport ([font local](../../../raw/web/territori/fauna-flora/autoritzacions/README.md)).
 - ~~**Les sancions** i la taxa d'autoritzacions queden pendents.~~ —
   **`resolt` el 20-09-2026** amb el text de la Llei 11/2016: la taxa és de
   **18 €** amb inspecció o control físic, **7 €** sense inspecció i **3 €** per
