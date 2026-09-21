@@ -115,9 +115,9 @@ frase de llei vigent**, no d'un llibre de folklore.
 ## Buits registrats
 
 1. ~~**La història del sometent andorrà entre el segle XIX i el 2022, i quan deixa de ser policial.**~~ — **`parcial` el 21-09-2026**: el *Politar* fixa l'estat de la institució cap al **1763** i la fitxa conserva que actuava com a força policial i armada; el corpus no té encara la continuïtat del segle XIX al 2022.
-2. **Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
-   parròquies, set normes**, i el corpus no n'ha vist cap.
-3. **Quantes persones el formen** avui, per parròquia.
+2. ~~**Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
+   parròquies, set normes**, i el corpus no n'ha vist cap.~~ — **`parcial` el 21-09-2026**: la Llei 28/2022 estableix que **cada comú fixa els criteris i el nombre per ordinació comunal**, i que la formació i els simulacres també els concreta cada comú; el corpus no ha llegit les set ordinacions.
+3. ~~**Quantes persones el formen** avui, per parròquia.~~ — **`parcial` el 21-09-2026**: la llei fixa que cada comú designa membres entre els residents inscrits al cens de població, d'entre **18 i 60 anys**, i que el nombre el fixa el mateix comú; el corpus no té el recompte vigent de persones per parròquia.
 4. **Quan s'ha mobilitzat** i per què. ~~**Cap cas documentat al corpus.**~~ —
    **`parcial` el 17-09-2026: ara en té un, i és un cas de negativa.** Font: les
    [actes històriques del Consell
