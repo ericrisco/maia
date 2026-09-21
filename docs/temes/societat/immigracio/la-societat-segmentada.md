@@ -186,7 +186,13 @@ col·lectiva**, i per això **no es veu amb el recel d'altres societats**.
    llegir-lo.**
 2. ~~**Si la segmentació s'ha reduït** en trenta anys.~~ — **respost el 2021**:
    segueix, reformulada en tres línies, amb la cúspide eixamplant-se.
-3. **Dades quantitatives**: matrimonis mixtos, tria d'escola, barris.
+3. ~~**Dades quantitatives**: matrimonis mixtos, tria d'escola, barris.~~ —
+   **`parcial` el 21-09-2026**: el mapa escolar del 2000 dona **3.585 alumnes
+   al sistema francès (38,3%), 3.578 a l'espanyol (38,2%) i 2.200 a
+   l'andorrà (23,5%)**, i la fitxa sobre els nascuts andorrans aporta el cens
+   comunal del 2007 (**5.384 de 30.441 andorrans registrats, el 17,69%**)
+   desglossat per origen dels pares. El corpus encara no té una sèrie directa
+   de matrimonis mixtos ni dades de segmentació per barris.
 4. **Com es viu des de dins** cada segment. Material d'entrevista.
 5. ~~**Quins són els espais** on sí que hi ha interacció~~ — **respost**:
    l'escola, la mida del país, el mercat de treball i les festes
