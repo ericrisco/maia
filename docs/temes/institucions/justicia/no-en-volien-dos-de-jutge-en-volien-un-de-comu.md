@@ -211,11 +211,22 @@ fet:**
    identificació de la destinatària** a l'extracció que el corpus llegeix.
    **Prioritari**: **és el document que prova que el costum era el jutge comú i no
    l'alternança.**
-2. **El document del 24 de febrer de 1484** sencer, i **quin «privilegi e costum»
-   invocava el Consell** per exigir el nomenament conjunt.
-3. **Si Joan Safarera va acabar sent admès**, i **com.** **La font no ho diu.**
-4. **L'ordenança del 13 de maig de 1841** i **la destitució de 1851**: **textos,
-   noms i motius.** **De la de 1851 la font no dona ni data exacta ni causa.**
+2. ~~**El document del 24 de febrer de 1484** sencer, i **quin «privilegi e costum»
+   invocava el Consell** per exigir el nomenament conjunt.~~ — **`parcial` el
+   2026-09-21**: la fitxa en conserva la data i el passatge en què el Consell
+   només accepta Joan Safarera si és proveït **«de abdos los Senyos»**, segons el
+   seu **«privilegi e costum»**. **No hi consta el document íntegre ni una
+   identificació més precisa del privilegi.**
+3. ~~**Si Joan Safarera va acabar sent admès**, i **com.** **La font no ho diu.**~~
+   — **`parcial` el 2026-09-21**: la resposta del Consell fixa que l’hauria
+   admès només si el nomenaven tots dos cosenyors; **la font no diu si aquesta
+   condició es va complir ni si Safarera va arribar a exercir.**
+4. ~~**L'ordenança del 13 de maig de 1841** i **la destitució de 1851**: **textos,
+   noms i motius.** **De la de 1851 la font no dona ni data exacta ni causa.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa documenta que el **13 de maig de 1841**
+   un jutge d’apel·lacions francès en fallida va ser revocat i substituït, i que
+   el **1851** el successor va ser destituït i se’n va nomenar un altre. **No hi
+   consten els textos, els noms ni els motius; la data exacta de 1851 tampoc.**
 5. **L'observació del prefecte de l'Arieja** sobre la rehabilitació del fallit
    *(Archives de l'Ariège, Andorre, lligall 2 — **vuitena peça registrada i cap
    consultada**)*.
