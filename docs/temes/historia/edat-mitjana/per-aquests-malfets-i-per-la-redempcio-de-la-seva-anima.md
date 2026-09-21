@@ -264,9 +264,13 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    **Pere Berenguer** ([la donació del 988](../origens/la-donacio-de-988.md);
    [els bisbes d'Urgell](./els-bisbes-durgell.md)). **El nom compost no és al
    document i la identificació directa del bisbe continua oberta.**
-4. **On era el monestir de Sant Serni** que fixa el límit, i **si «ad amont»
-   coincideix amb alguna frontera posterior.** **Prioritari**: **és l'única
-   descripció territorial que aquest acte dona.**
+4. ~~**On era el monestir de Sant Serni** que fixa el límit, i **si «ad amont»
+   coincideix amb alguna frontera posterior.**~~ — **`parcial` el 2026-09-22**:
+   el text de **1133** conserva la referència **«de ipso monasterio Sancti
+   Saturnini ad amont»** —del monestir de Sant Serni cap amunt— i la fitxa de
+   [la donació del 988](../origens/la-donacio-de-988.md) la relaciona amb els
+   béns d'Andorra. **El corpus encara no identifica la situació del monestir ni
+   demostra que «cap amunt» coincideixi amb una frontera posterior.**
 5. ~~**Si els andorrans van exercir mai l'emprament a les terres del comte**, i
    **fins quan.**~~ — **`parcial` el 20-09-2026**: l'acte de 1133 ja prova la
    concessió d'*empramentum* **a les terres del comte** —pastura i llenya fora

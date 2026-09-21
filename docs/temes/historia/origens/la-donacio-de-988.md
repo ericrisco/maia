@@ -128,7 +128,12 @@ fragmenta amb les herències**.
 
 ## Buits registrats
 
-1. **El document del 988** — existeix? on és? què diu exactament?
+1. ~~**El document del 988** — existeix? on és? què diu exactament?~~ —
+   **`parcial` el 2026-09-22**: el corpus en conserva una identificació
+   secundària —**Borrell II** cedeix els **alous comtals d'Andorra** al bisbe
+   **Sal·la** l'any **988**, a canvi d'«altres béns»— i en té la funció
+   patrimonial. **No conserva l'original, la signatura d'arxiu ni el text íntegre
+   de l'acte.**
 2. **Quins «altres béns»** va rebre Borrell II a canvi. **Saber què valia
    Andorra és saber quant valia.**
 3. ~~**El document de 1133**~~ i el bisbe **Pere Berenguer**. — **`tancat a
