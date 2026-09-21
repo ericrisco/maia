@@ -216,7 +216,12 @@ ara** — amb datació document a document, del 1176 al 1978.
   **Segueix obert**: **mides, fusta, autor i data**, i **si l'armari que hi ha
   avui és aquest** o si es va arribar a construir així. **I què era el
   «secret»**: el text el nomena dues vegades i no el descriu.
-- Si les set claus **encara existeixen** i qui les guarda avui.
+- ~~Si les set claus **encara existeixen** i qui les guarda avui.~~ —
+  **`parcial` el 21-09-2026**: el testimoni de 1904 confirma que les claus eren
+  en mans dels **cònsols de cada parròquia**, i la fitxa distingeix que el fons
+  documental es va transferir a l’Arxiu Nacional el **1993** mentre el moble es
+  conserva a la Casa de la Vall. Encara no hi ha una font que confirmi si les
+  set claus materials existeixen avui ni qui les custodia.
 - **Quan es va obrir per última vegada** amb les set claus posades.
 - ~~Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
   web i **no consultades**.~~ — **`parcial`, actualitzat el 2026-09-19**: el
