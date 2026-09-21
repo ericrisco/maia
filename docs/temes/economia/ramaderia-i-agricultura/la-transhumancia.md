@@ -230,8 +230,16 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
    al darrere. **El corpus no afirma que sigui el mateix que el `conlloc`.**
 5. **Si la transhumància de repoblament dels anys 1990 continua avui**, i amb
    quants caps.
-6. **Els *emprius* i els *cortons***: la diferència jurídica exacta entre uns i
-   altres.
+6. ~~**Els *emprius* i els *cortons***: la diferència jurídica exacta entre uns i
+   altres.~~ —
+   **`parcial`**: les fitxes locals defineixen els **emprius** com drets d'ús
+   exercits per dues parròquies sobre una franja o terra comuna, mentre els
+   **cortons** són espais comunals que es lloguen per a pastura (a Canillo,
+   tots els cortons ja es llogaven a ramats catalans als anys 1930)
+   ([el sòl comunal](../../territori/geografia-fisica/el-sol-comunal.md) i
+   [el glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md));
+   el detall jurídic de cada títol i totes les variants locals encara no està
+   reunit.
 
 ## Related
 
