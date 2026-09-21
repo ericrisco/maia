@@ -138,8 +138,11 @@ error: és una escala d'arrelament, amb dos esglaons.
 
 ## Buits registrats
 
-- **Quant recapta** cadascuna d'aquestes figures, i si el mercat s'ha mogut des
-  del 2025, **no consta**: la llei descriu el marc, no el resultat.
+- ~~**Quant recapta** cadascuna d'aquestes figures, i si el mercat s'ha mogut des
+  del 2025, **no consta**: la llei descriu el marc, no el resultat.~~ —
+  **`parcial` el 21-09-2026**: la fitxa fixa els tipus i llindars de les figures
+  tributàries, però **no hi ha al corpus liquidacions ni una sèrie de mercat
+  posterior al 2025** per calcular la recaptació o l’efecte real.
 - ~~**La resta del títol V** —les modificacions concretes de l'IRPF, article 79,
   i les regles de càlcul del guany—~~ **`parcial` el 19-09-2026**: **només
   s'han llegit en el que fixa tipus i llindars**.

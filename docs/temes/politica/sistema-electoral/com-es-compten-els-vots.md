@@ -272,7 +272,10 @@ dins de la inhabilitació per a l'exercici de drets públics.
   un efecte que cap article d'aquesta fitxa recollia: un partit pot no tenir
   representació i cobrar, i una candidatura sense partit pot tenir-ne i no
   cobrar.**
-- **Si el sorteig de l'article 61.3 s'ha fet servir mai**, no consta.
+- ~~**Si el sorteig de l'article 61.3 s'ha fet servir mai**, no consta.~~ —
+  **`parcial` el 21-09-2026**: la Llei 44/2022 preveu el sorteig com a mecanisme
+  de desempat de l’article 61.3, però **el corpus no ha localitzat cap acta o
+  resultat electoral que en documenti l’ús**.
 - ~~**Per què es va fixar 28 i no més**~~ — **`parcial` el 2026-09-20**: la
   Constitució fixa un interval de **28 a 42** consellers i la Llei 44/2022 tria
   el mínim, amb **14 escons parroquials i 14 nacionals**. La llei dona el

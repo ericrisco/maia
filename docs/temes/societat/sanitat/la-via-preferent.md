@@ -197,5 +197,8 @@ decrets.`
   i 139 bis.2). Els d'aquesta fitxa són els de la instantània del 2026-09-12.~~ —
   **`no-es-buit`** el 19-09-2026: és un avís metodològic sobre la vigència de
   la instantània, no una pregunta de recerca pendent.
-- **Les 34 versions no s'han comparat.** Aquesta és la llei que més ha canviat
-  del país i el corpus no té la seva història.
+- ~~**Les 34 versions no s'han comparat.** Aquesta és la llei que més ha canviat
+  del país i el corpus no té la seva història.~~ — **`parcial` el 21-09-2026**:
+  el corpus té la definició de la via preferent del 2018 i la sèrie de decrets
+  que en modifiquen les tarifes, però **no ha construït el diff complet de les
+  34 versions de la llei**.

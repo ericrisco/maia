@@ -147,8 +147,10 @@ notificacions rebudes ni de trucades a una línia d’ajuda.
   protecció, quantes trucades rep la línia.~~ — **`parcial` el 21-09-2026**: l’API
   oficial publica menors intervinguts i mesures de protecció, però no les
   notificacions d’entrada ni les trucades a la línia.
-- **Si algun cas andorrà ha arribat mai al Comitè dels Drets de l'Infant**, no
-  consta.
+- ~~**Si algun cas andorrà ha arribat mai al Comitè dels Drets de l'Infant**, no
+  consta.~~ — **`parcial` el 21-09-2026**: la fitxa documenta el dret de
+  comunicació al Comitè i el marc de la Llei 14/2019, però **no hi ha al corpus
+  cap cas andorrà identificat**.
 - ~~**La [Llei de responsabilitat penal dels menors](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 15/2019, 75 articles) és al recull i **queda per llegir**: és l'altra
   cara, quan l'infant no és la víctima.~~ — **`parcial`, auditat el 2026-09-14:

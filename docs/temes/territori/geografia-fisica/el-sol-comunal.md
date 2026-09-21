@@ -147,10 +147,13 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
 
 ## Buits registrats
 
-1. **El «dret de veure».** Segueix obert:
+1. ~~**El «dret de veure».** Segueix obert:
    [la lògica pastoral dels límits](./la-logica-pastoral-dels-limits.md) el
    registra com a **prioritari** i **Brutails no l'esmenta enlloc**. Buscat i no
-   trobat.
+   trobat.~~ — **`parcial` el 21-09-2026**: la fitxa de límits confirma que el
+   terme és una pregunta de dret pastoral que Brutails no tracta, i la cerca
+   local no n’ha trobat cap atestació. **Cal una ordinació o un acte de comú per
+   establir-ne el sentit jurídic.**
 2. **El decret del Consell General del 4 de juny de 1878**, sencer.
  3. ~~**El document de 1366, i per què Brutails el considera sospitós**~~ — **`parcial`
     des del 2026-09-18**: **la raó ja la tenim, i no és el contingut, és la

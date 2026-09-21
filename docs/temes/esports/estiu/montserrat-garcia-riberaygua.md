@@ -59,9 +59,11 @@ Vegeu [els abanderats](../competicio/els-abanderats.md).
   de novembre del 1989**, **caiac eslàlom, K-1**, **eliminada a la ronda
   classificatòria de Pequín 2008, 20a.** `no-es-buit`: són dades ja destil·lades,
   no una pregunta pendent.
-- **La relació amb Mònica Dòria**: mateix club? Mateixa escola? **El corpus no
+- ~~**La relació amb Mònica Dòria**: mateix club? Mateixa escola? **El corpus no
   ho sap** i **és la pregunta que explicaria com un país sense riu navegable
-  produeix dues piragüistes olímpiques.**
+  produeix dues piragüistes olímpiques.**~~ — **`parcial` el 21-09-2026**: les
+  dues fitxes confirmen que són piragüistes olímpiques andorranes, però **no hi
+  ha cap dada compartida de club, escola o entrenament que permeti relacionar-les**.
 - ~~**On s'entrena el piragüisme a Andorra.**~~ — **`parcial` el 19-09-2026**: la fitxa de **Mònica Dòria** situa el canal de formació al **Parc Olímpic del Segre, a la Seu d'Urgell**, fora d'Andorra. El corpus encara no té una instal·lació de piragüisme identificada dins del Principat ni sap si n'hi ha cap.
 
 ## Related

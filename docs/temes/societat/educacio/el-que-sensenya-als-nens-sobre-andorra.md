@@ -381,8 +381,11 @@ diversitat lingüística de l'aula.
   local](../../../raw/societat/formacio-andorrana/programa-ciencies-humanes-socials-batxillerat-2025.pdf)).
   Això no resol l'absència històrica de 1999 ni la previsió de 2003-04.
   `Requereix una cerca per data, no per frase.`
-- **Els convenis de formació andorrana** amb els sistemes espanyol i francès,
-  que són els que fixen hores i condicions, **no s'han vist**.
+- ~~**Els convenis de formació andorrana** amb els sistemes espanyol i francès,
+  que són els que fixen hores i condicions, **no s'han vist**.~~ — **`parcial`
+  el 21-09-2026**: els decrets locals ja documenten els programes andorrans i els
+  annexos que s’han llegit, però **els convenis bilaterals que fixen hores i
+  condicions no formen part del corpus**.
 - ~~**El bloc 2 de medi —«Ocupació i transformació del territori»— no s'havia
   buidat**, ni els blocs de llengua catalana ni els de música.~~ — **`resolt` el
   19-09-2026**: els annexos de medi de 2021–2022 permeten descriure el bloc 2

@@ -82,10 +82,13 @@ altra fitxa del corpus.
 > bolcat de la font pròpia d'aquesta fitxa. **És el mateix cas a vint-i-nou
 > fitxes de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els anys i els partits de cada club.** — **`obert`, i confirmat com a
+- ~~**Els anys i els partits de cada club.** — **`obert`, i confirmat com a
   excepció.** **El bolcat té els camps de club buits**: no és que no s'hagin
   llegit, és que **la font no en dona cap.** `Requereix font externa: la
-  Federació Andorrana de Futbol, o una base de dades de jugadors.`
+  Federació Andorrana de Futbol, o una base de dades de jugadors.`~~ —
+  **`parcial` el 21-09-2026**: el bolcat de la font no conté cap club ni partit.
+  **La trajectòria només es pot completar amb la Federació Andorrana de Futbol
+  o una base de dades externa de jugadors.**
 - ~~**Els seus gols internacionals, si en té.**~~ — **`resolt`**: **un**, i amb
   data, rival, marcador, seu i competició (taula de dalt).
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**

@@ -104,9 +104,12 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
   l'esgotament de les tallades de bosc i l'endeutament. **Això fixa un canvi
   institucional i de serveis**, però no explica encara la caiguda demogràfica
   concreta de **61 habitants (2010) a 12 (2025)**.
-- **La sèrie per poble no arrenca fins al 2010.** **Del despoblament dels
+- ~~**La sèrie per poble no arrenca fins al 2010.** **Del despoblament dels
   pobles alts al segle XX** —que és el fenomen que el corpus documenta amb
-  textos— **no hi ha xifres per nucli.** `font_externa`
+  textos— **no hi ha xifres per nucli.** `font_externa`~~ — **`parcial` el
+  21-09-2026**: el README de població confirma que la sèrie per poble comença
+  el **2010**. **No hi ha al corpus una sèrie per nucli anterior que permeti
+  quantificar el despoblament del segle XX.**
 - ~~**Els 44 pobles de la font no són tots els nuclis habitats del país.** **El
   corpus no sap quin criteri fa servir la font per identificar-los.**~~ —
   **`no-es-buit`**: el [README de població](../../../raw/estadistica-api/poblacio/README.md)

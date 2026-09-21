@@ -266,9 +266,12 @@ comptar.**
    **el corpus té dotze renúncies en un sol acte**, inclosa la renúncia a la llei
    que prohibeix la renúncia general; **no sap si cap tribunal en va invalidar
    alguna ni quin límit general se'n desprenia**.
-4. **Què era el «*benefici de novas constitucions*»** i **la «*consuetut de
+4. ~~**Què era el «*benefici de novas constitucions*»** i **la «*consuetut de
    Barcelona que tracta de dos o mes que a solas se obligan*»**, **que el corpus
-   registra com a noms sense contingut.** `Requereix les Constitucions.`
+   registra com a noms sense contingut.** `Requereix les Constitucions.`~~ —
+   **`parcial` el 21-09-2026**: el formulari ja situa totes dues referències dins
+   de les renúncies de fiadors i deutors, i en fixa el nom i la funció dins l’acte.
+   **El contingut jurídic exacte requereix consultar les Constitucions citades.**
 5. ~~**Si «*a for o raho de cinch per cent*» era fórmula obligada** o **si hi ha
    censals andorrans del segle XVIII a un altre tipus.**~~ — **`parcial` el
    18-09-2026**: **el corpus en té tres al cinc, tots de 1788**, però **no ha

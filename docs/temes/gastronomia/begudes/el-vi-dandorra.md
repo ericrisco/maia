@@ -157,7 +157,7 @@ dues són andorranes.**
 - **La taula d'índexs bioclimàtics** de la ponència —índex hidrotèrmic,
   producte heliotèrmic, ITE, possibilitat heliotèrmica, índex de Davitaja, valor
   bioclimàtic—, que és **una figura** i el text no en dona els valors.
-- **L'última referència documental** de la vinya històrica. **Prioritari.**
+- ~~**L'última referència documental** de la vinya històrica. **Prioritari.**~~ — **`parcial` el 21-09-2026**: [la vinya i el tabac](../../economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) conserva la divergència entre **mitjan segle XVIII** (Mas) i referències **fins al 1800** (Tor), ambdues fonts del corpus. **No hi ha encara un document primari que permeti triar l’última data.**
 - ~~**La superfície de vinya d'Andorra** avui, en total.~~ — **`resolt` el
   18-09-2026**: **prop de 20 hectàrees en total**, repartides entre els cinc
   cellers, **majoritàriament varietats importades** —Riesling, Gewürztraminer,

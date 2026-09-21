@@ -224,10 +224,13 @@ l'època que aquesta fitxa explica. **El tanca per als nou darrers anys**, i
   del corpus per a cap època anterior al 2017.** — **`parcial` el 18-09-2026**:
   **del 2017 al 2025 sí que hi són**, per al tabac,
   vegeu [El contraban de tabac avui](#el-contraban-de-tabac-avui-en-xifres).
-- **I sobretot testimoni oral** — que és material de la fase 3 i valdria molt més
+- ~~**I sobretot testimoni oral** — que és material de la fase 3 i valdria molt més
   que qualsevol resum. **Buit registrat, i segueix sent el més valuós de la
   branca.** **La novel·la de Margenat no el substitueix.**
-  Vegeu [parla](../../../parla/README.md).
+  Vegeu [parla](../../../parla/README.md).~~ — **`parcial` el 21-09-2026**: la
+  branca ja té documentació escrita fins al 2025 i la [branca de parla](../../../parla/README.md)
+  identifica el tipus de testimoni que falta. **No hi ha encara enregistraments
+  orals amb llicència i consentiment que permetin tancar aquest buit.**
 
 ## Related
 

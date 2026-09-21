@@ -48,13 +48,15 @@ un cognom de casa forta d'Andorra** i que **la grafia varia** —*Rossell* /
 
 - ~~**Copes del Món i campionats**: cap dada.~~ — **`no-es-buit`**: el bolcat
   consultat només té una línia i no publica aquests resultats.
-- **Si té relació amb Claudina Rossel** o amb **Casa Rossell**. — **`obert`, i
+- ~~**Si té relació amb Claudina Rossel** o amb **Casa Rossell**. — **`obert`, i
   el corpus no ho arbitra.** **Ell va néixer a ANDORRA LA VELLA el 24 de juny
   del 1971** i **[Claudina Rossel](./claudina-rossel.md) el 12 de juliol del
   1969**, **sense lloc al seu bolcat.** **Els cognoms s'escriuen diferent
   —Rossell amb dues eles, Rossel amb una— i cap font no els relaciona ni els
   relaciona amb [Casa Rossell](../../../historia/antic-regim/README.md).**
-  `hipòtesi, no verificada.`
+  `hipòtesi, no verificada.**~~ — **`parcial` el 21-09-2026**: les dues fitxes
+  donen dates i llocs de naixement i les grafies dels cognoms. **No hi ha cap
+  font que estableixi parentiu amb Claudina Rossel o amb Casa Rossell.**
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i

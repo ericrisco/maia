@@ -99,13 +99,15 @@ andorrana del canvi de segle.
   **1991**. **La font no explica la causa de la fallida**, que continua oberta.
 - ~~**Quan acaba l'oligopoli.**~~ — **`parcial` el 19-09-2026**: la font només
   l'acota **fins al principi del segle XXI** i no en dona l'any exacte.
-- **Si l'acord del 1968 consta per escrit** a les actes del Consell General.
+- ~~**Si l'acord del 1968 consta per escrit** a les actes del Consell General.
   **Font primària no consultada.**
   **`obert` — confirmat el 2026-09-13**, i **no és un buit aïllat**: el Banc
   Agrícol n'hi envia tres més (les concessions de 1928-1930, la clàusula del
   5% i les dates de la Caixa). **Quatre buits de la branca esperen el mateix
   fons.**
-  `Requereix font externa: les actes del Consell General de 1928-1930 i de 1968.`
+  `Requereix font externa: les actes del Consell General de 1928-1930 i de 1968.`~~ —
+  **`parcial` el 21-09-2026**: la font secundària identifica l’acord i el fons
+  que cal consultar. **El corpus no té les actes primàries de 1928–1930 i 1968.**
 - ~~**Quan va arribar la Caixa: 1949 o 1951?**~~ — **`parcial`**: aquesta
   fitxa dona les dues dates —s'instal·la el 1949 i entra el 1951 com a «primer
   banc estranger del país»—, i **[el Banc Agrícol](./el-banc-agricol.md)** hi

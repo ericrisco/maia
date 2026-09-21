@@ -60,9 +60,12 @@ per la 25a edició.
 
 ## El que falta
 
-- **Les lletres.** Són text cantat en català d'Andorra: si són de composició
+- ~~**Les lletres.** Són text cantat en català d'Andorra: si són de composició
   local i tradicional, poden ser material de
-  [parla](../../../parla/README.md) i no només de temes. **Prioritari.**
+  [parla](../../../parla/README.md) i no només de temes. **Prioritari.**~~ —
+  **`parcial` el 21-09-2026**: la fitxa documenta el recorregut i les corals, però
+  **no conserva cap transcripció de les lletres ni una font amb drets clars per
+  incorporar-les al corpus de parla**.
 - ~~**El format concret de Sant Julià: en què consisteix exactament la
   singularitat.**~~ — **`parcial` el 2026-09-19**: **la fitxa del [Govern
   d'Andorra](../../../raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt)

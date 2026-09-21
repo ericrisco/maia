@@ -78,10 +78,12 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
   **`parcial` el 19-09-2026**: el decret intermedi ja està llegit i documentat
   amb el seu article 26 bis; continua oberta la reconstrucció de les altres
   normes excepcionals de la seqüència.
-- **Aplicació temporal pendent:** el límit del 30-06-2021 és el que diu
+- ~~**Aplicació temporal pendent:** el límit del 30-06-2021 és el que diu
   l'article 3. No s'ha verificat una eventual decisió anterior de deixar-lo
   sense efecte ni la normativa posterior. No s'afirma una durada efectiva
-  ininterrompuda ni una vigència actual.
+  ininterrompuda ni una vigència actual.~~ — **`parcial` el 21-09-2026**: el
+  decret fixa el límit del **30-06-2021**, però **el corpus no té una decisió de
+  pròrroga, derogació o aplicació posterior que permeti establir la vigència real**.
 - ~~**Remissió defectuosa conservada:** la frase inicial de l'article 1.1
   enumera literalment «c, d, i i»; l'apartat 1.1.d sí remet expressament a
   la lletra j i fixa els nou mesos. L'exposició de motius també esmenta j.

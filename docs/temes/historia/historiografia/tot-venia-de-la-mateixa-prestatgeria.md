@@ -202,18 +202,28 @@ l'1 d'agost de 1882**.
 
 ## Buits registrats
 
-1. **L'opuscle *Las cortes españolas de 1895 y las franquicias de Andorra***,
+1. ~~**L'opuscle *Las cortes españolas de 1895 y las franquicias de Andorra***,
    Madrid, Hernandez, 1895. **Prioritari absolut**: **conté el compte rendut dels
    debats davant de la Comissió extraparlamentària**, que és **on el corpus té el
-   forat de la sessió del 26 de juny de 1895.**
-2. **Victorin Vidal, «Une révolution en Andorre», *Le Correspondant*, 25 de
+   forat de la sessió del 26 de juny de 1895.**~~ — **`parcial` el 21-09-2026**:
+   la fitxa i [el desenllaç de la qüestió duanera](../segle-xix/el-desenllac-de-la-questio-duanera.md) ja fixen la identificació bibliogràfica i el contingut anunciat de l’opuscle. **No se n’ha consultat l’exemplar per comprovar la sessió del 26 de juny.**
+2. ~~**Victorin Vidal, «Une révolution en Andorre», *Le Correspondant*, 25 de
    febrer de 1881.** **Prioritari**: **és contemporani dels fets i cau dins la
-   divergència de dates que el corpus té oberta.**
-3. **Baudon de Mony**, **les dues obres, amb imprempta.** **Prioritari**: **és
-   l'historiador episcopal que el corpus no ha llegit mai.**
-4. **El fullet imprès de la Reforma de 1866.** **Prioritari**: **el corpus té
+   divergència de dates que el corpus té oberta.**~~ — **`parcial` el
+   21-09-2026**: la referència, l’autor, la revista i la data ja són identificats.
+   **L’article directe encara no és al corpus i no resol la divergència cronològica.**
+3. ~~**Baudon de Mony**, **les dues obres, amb imprempta.** **Prioritari**: **és
+   l'historiador episcopal que el corpus no ha llegit mai.**~~ — **`parcial` el
+   21-09-2026**: la fitxa ja dona les dues obres i les dades editorials; [el que
+   es dona en feu](../pareatge/el-que-es-dona-en-feu-es-el-domini-util.md) en
+   confirma la funció com a repertori de fonts. **Els volums no han estat llegits.**
+4. ~~**El fullet imprès de la Reforma de 1866.** **Prioritari**: **el corpus té
    una acusació registrada que l'aprovació episcopal s'hi va afegir
-   subrepticiament**, i **la comparació d'impresos és el que la resoldria.**
+   subrepticiament**, i **la comparació d'impresos és el que la resoldria.**~~ —
+   **`parcial` el 21-09-2026**: el corpus té la transcripció de 1920 i identifica
+   l’edició rara de **Seu d’Urgell, 1866, in-12, 16 pàgines**. **L’imprès
+   original encara no s’ha comparat amb la transcripció ni amb l’aprovació
+   episcopal.**
 5. ~~**L'article de Ch. Romeu al *Tour du Monde* del 4 de desembre de 1897.**~~ —
    **`parcial` el 2026-09-19**: la data exacta ja consta, i [el veguer que va
    corregir el llibre](../../institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md)
@@ -221,7 +231,10 @@ l'1 d'agost de 1882**.
    Vilar agraeix els informes i les correccions del seu llibre. Això confirma la
    identitat proposada per «Ch. Romeu», però **encara falta consultar l'article
    directe i provar que el seu autor n'és el mateix veguer**.
-6. **Qui era «l'abbé Puigt»**, i **si és realment l'autor del Politar.**
+6. ~~**Qui era «l'abbé Puigt»**, i **si és realment l'autor del Politar.**~~ —
+   **`parcial` el 21-09-2026**: el nom queda identificat com una atribució que la
+   historiografia del *Politar* fa servir, però **el corpus no té una font que
+   identifiqui biogràficament l’abbé Puigt ni que provi l’autoria.**
 7. ~~**Si *Republica de Andorra* (Barcelona, 1849) és de Dalmau de Baquer, de
    Léon Clos, o de tots dos.**~~ — **`resolt` el 17-09-2026 amb la portada al
    davant.** **L'exemplar de la Library of Congress, de domini públic
@@ -244,9 +257,12 @@ l'1 d'agost de 1882**.
 
    **El que segueix obert és d'on surt la confusió amb Clos**: **la font que va
    generar el dubte segueix sense identificar-se.**
-8. **Si la Biblioteca del Comité de législation comparée / étrangère existeix
+8. ~~**Si la Biblioteca del Comité de législation comparée / étrangère existeix
    encara**, i **si hi són les transcripcions de 1879.** **Prioritari**: **són
-   les còpies que van llegir tots dos autors francesos del 1904.**
+   les còpies que van llegir tots dos autors francesos del 1904.**~~ — **`parcial`
+   el 21-09-2026**: la fitxa conserva la procedència declarada de les còpies i
+   la seva relació amb els autors de 1904. **No s’ha comprovat l’existència actual
+   de la biblioteca ni el seu catàleg; és una consulta externa pendent.**
 
 ## Related
 

@@ -376,4 +376,7 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
   > document no és trobar el document vigent.* `Requereix llegir els
   > trenta-quatre articles del consolidat; el que s'ha llegit és què hi va
   > canviar.`
-- **Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.
+- ~~**Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.~~ —
+  **`parcial` el 21-09-2026**: l’article 24 fixa la inversió de la càrrega de la
+  prova en els processos d’igualtat, però **el corpus no ha localitzat cap
+  sentència andorrana que documenti una aplicació concreta**.

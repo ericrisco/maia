@@ -119,9 +119,12 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
 
 ## Buits registrats
 
-- **L'enquesta a les persones s'atura el 2019.** **Accés a internet, ús,
+- ~~**L'enquesta a les persones s'atura el 2019.** **Accés a internet, ús,
   dispositius i competències digitals no s'han tornat a mesurar**, i **la de les
-  empreses sí que arriba al 2024.** `font_externa`
+  empreses sí que arriba al 2024.** `font_externa`~~ — **`parcial` el
+  21-09-2026**: el README de l’API TIC confirma que la sèrie de llars acaba el
+  **2019** mentre la d’empreses arriba al **2024**. **No hi ha una observació
+  posterior de llars al material estadístic consultat.**
 - ~~**El nombre d'especialistes en TIC per àrea només existeix per al 2024.**~~ —
   **`no-es-buit` el 19-09-2026**: l'API d'Estadística només exposa la
   categoria temporal **2024** per a la divisió 3564. **La sèrie no existeix a la
