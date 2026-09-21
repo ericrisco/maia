@@ -107,8 +107,9 @@ l'any i no només a l'hivern.**
   presentació corporativa, l'activitat internacional i els projectes; la [pàgina
   de treball](../../../../raw/web/economia/pgi-trabaja-con-nosotros-2026.html)
   publica ofertes actives i un contacte de recursos humans.
-- **L'article de la font porta una etiqueta de canvi de nom pendent**
-  («denominació corregida»). **Registrat.**
+- ~~**L'article de la font porta una etiqueta de canvi de nom pendent**
+  («denominació corregida»). **Registrat.**~~ — **`no-es-buit`**: és una
+  incidència editorial de la font, no una dada factual pendent.
 
 ## Related
 
