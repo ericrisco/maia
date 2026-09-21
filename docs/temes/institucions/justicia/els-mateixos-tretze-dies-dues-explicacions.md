@@ -272,12 +272,12 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
    2026-09-19**: la fitxa identifica **Odon Estañol**, que va morir el **1891**,
    i **Germain Sicart**, nomenat per França aquell any. **No hi ha encara la
    sèrie completa de titulars ni les dates de tots els nomenaments.**
-6. **Quants notables consultava un batlle** — **`obert`, sense xifra.** **Si la
-   pràctica deixava rastre**: **`resolt`, per definició, no**: la font diu que
-   el consell **no pot tenir cap influència oficial.**
-7. **Si l'absència de formalitat de publicació de les subhastes va donar mai
+6. **Quants notables consultava un batlle** — **`obert`, sense xifra.**
+7. ~~**Si la pràctica deixava rastre.**~~ — **`resolt`**: per definició, no; la
+   font diu que el consell **no pot tenir cap influència oficial.**
+8. **Si l'absència de formalitat de publicació de les subhastes va donar mai
    problemes**, i **si es va canviar.**
-8. **Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
+9. **Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
    per aturar l'execució.
 
 ## Related
