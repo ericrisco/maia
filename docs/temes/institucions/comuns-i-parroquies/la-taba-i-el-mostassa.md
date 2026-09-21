@@ -68,9 +68,11 @@ Aquesta és una forma de governar molt concreta i molt andorrana, i encaixa amb
 el que diu [les fonts del dret](../justicia/les-fonts-del-dret.md): **el dret
 andorrà neix del costum posat per escrit**, no de la voluntat d'un legislador.
 
-**Buit registrat, prioritari:** **el text sencer d'una taba**. N'hi ha d'haver
+~~**Buit registrat, prioritari:** **el text sencer d'una taba**. N'hi ha d'haver
 als arxius comunals i seria **una de les millors fonts de llengua administrativa
-andorrana antiga** que es podrien incorporar.
+andorrana antiga** que es podrien incorporar.~~ — **`parcial` el 21-09-2026**:
+el *Politar* en conserva la definició i les matèries que regulava, però cap
+exemplar comunal sencer no és al corpus.
 
 ## El mostassà
 
@@ -109,9 +111,11 @@ juridicoinstitucional catalanoaragonès**, i encaixa amb el que ja sabíem: que 
 **dret català anterior al 1714 era font del dret andorrà**
 ([les fonts del dret](../justicia/les-fonts-del-dret.md)).
 
-**Avís:** l'etimologia i el paral·lelisme són **context afegit pel corpus**, no
+~~**Avís:** l'etimologia i el paral·lelisme són **context afegit pel corpus**, no
 per Lacueva, i **s'han de verificar** contra bibliografia específica. **Buit
-registrat.**
+registrat.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la proposta
+*muhtasib* i el paral·lelisme catalanoaragonès, però encara no els ha contrastat
+amb bibliografia específica.
 
 ## Quan s'acaba
 
@@ -119,8 +123,11 @@ Els hostals comunals **desapareixen entre el 1920 i el 1930**
 ([els hostals comunals](../../economia/turisme-i-neu/els-hostals-comunals.md)),
 i amb ells, presumiblement, aquesta manera d'arrendar els serveis.
 
-**Buit registrat:** **quan desapareix el mostassà** i si la resta d'arrendaments
-—fleca, taverna, tenda, carnisseria— van caure alhora o abans.
+~~**Buit registrat:** **quan desapareix el mostassà** i si la resta d'arrendaments
+—fleca, taverna, tenda, carnisseria— van caure alhora o abans.~~ — **`parcial`
+el 21-09-2026**: les ordinacions de **1910** ja no nomenen el mostassà i els
+hostals comunals se situen entre **1920 i 1930**; falta l'acte de desaparició i
+la seqüència de la resta d'arrendaments.
 
 ## Buits registrats
 
