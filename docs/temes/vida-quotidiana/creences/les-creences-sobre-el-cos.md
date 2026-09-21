@@ -127,8 +127,12 @@ Canturri diu que **no existeix cap costumari d'Andorra**.
    amb nom, es manté obert.
 3. Les creences sobre **el part i el nadó**, que no apareixen aquí i són sempre
    les més denses.
-4. **El mal d'ull, les bruixes, les remeieres.** Creuar amb
-   [llegendes](../../cultura/llegendes/README.md).
+4. ~~**El mal d'ull, les bruixes, les remeieres.**~~ — **`parcial` el
+   2026-09-21**: el corpus ja conserva **el mal d’ull** com a explicació donada
+   per un pacient ([La salut mental](../../societat/sanitat/la-salut-mental.md)),
+   processos històrics i llegendes de **bruixes**, i el cas documentat d’una
+   curandera que va exercir a Andorra el **1843**. **Encara no té el mapa
+   etnogràfic complet ni una remeiera nascuda a la vall.**
 5. **Fórmules i oracions** de guarició — material de llengua pura.
 6. **Quan cauen** aquestes creences i per què.
 
