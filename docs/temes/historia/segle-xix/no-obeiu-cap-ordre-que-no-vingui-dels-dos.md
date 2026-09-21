@@ -253,9 +253,10 @@ I la regla que el Consell subratlla:
 
 ## Buits registrats
 
-1. **El decret de Simeó de Guinda del 3 de febrer de 1715, original.** **El corpus
-   en té la còpia íntegra que en fa un imprès de 1894** i **no ha vist l'original
-   ni en sap la signatura d'arxiu.** **Prioritari.**
+1. ~~**El decret de Simeó de Guinda del 3 de febrer de 1715, original.**~~ —
+   **`parcial`**: el corpus ja conserva la còpia íntegra que en fa l'imprès de
+   1894, [*La cuestión de Andorra*](../../../raw/llibres/la-cuestion-de-andorra-1894.txt),
+   però no ha vist l'original ni en sap la signatura d'arxiu.
 2. ~~**Què va passar entre el 1715 i el 1728-1733** perquè el mateix bisbe passés de
    manar desobeir l'intendent general a cedir-hi.~~ — **`parcial` el 18-09-2026**:
    **el corpus fixa els dos extrems** —l'ordre de desobediència del **3 de febrer
