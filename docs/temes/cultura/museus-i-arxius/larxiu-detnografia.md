@@ -122,7 +122,11 @@ saber què van signar les persones entrevistades.**
    anomena sencer **«Àrea de Recerca Històrica de Patrimoni Cultural»**
    ([font](../../../fonts/de-la-parte-immigracio-cultura.md)). **«Avui»
    segueix sense confirmar-se**: la font és del 2002.
-2. **Volum, suport i estat de transcripció.**
+2. ~~**Volum, suport i estat de transcripció.**~~ — **`parcial` el 21-09-2026**:
+   la font de 2002 documenta **més de tres-centes entrevistes**, entre relats
+   biogràfics i entrevistes temàtiques, recollides des dels anys noranta; el
+   corpus no sap quin és el volum actual, en quin suport es conserva ni si està
+   transcrit.
 3. **Condicions d'accés i d'ús**, i què deia el consentiment.
 4. ~~**Qui el va crear** i quan exactament.~~ — **`parcial`, ja constava a
    la taula de dalt** i no s'havia marcat com a tancat: **l'origen és
