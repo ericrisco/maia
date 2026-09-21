@@ -134,7 +134,13 @@ habitants no podia fer-hi res**.
 
 ## El que falta
 
-- **Els onze noms restants.**
+- ~~**Els onze noms restants.**~~ — **`parcial` el 21-09-2026**: les fonts locals
+  ja permeten afegir a la taula **Miquel Adellach Torres, Francesc Mora, Josep
+  Calvó Torres, Josep Franch, Bonaventura Casal, Bonaventura Bonfill, Càndid
+  Rossell i Francesc Vidal**. [RTVA](../../../raw/web/historia/francesc-boix-caee/rtva-instantanies-francesc-boix-caee-2018.html)
+  i [*Bondia*](../../../raw/web/historia/andorrans-camps-nazis/bondia-postals-des-de-l-infern-2025.html)
+  els nomenen en les notícies conservades, però **encara no hi ha una concordança completa entre les sèries
+  de tretze, catorze i quinze deportats ni la llista íntegra dels noms restants**.
 - ~~***13 camins cap a l'infern***, el llibre digital.~~ — **`parcial` el
   21-09-2026**: l'article de *Bondia* del **29-04-2025** el descriu com un
   **audiovisual**, elaborat pel mateix equip d'alumnes que havia investigat el
