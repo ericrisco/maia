@@ -140,7 +140,7 @@ va haver de fer **per la via del conveni**— i això deixa marca.
   **H.G.I. és Història, Geografia i Institucions d'Andorra**, lectura del
   corpus a partir de l'abreviatura de la font, no confirmada literalment
   al text.
-- **Qui són els professors de Formació Andorrana** i quants són.
+- ~~**Qui són els professors de Formació Andorrana** i quants són.~~ — **`parcial` el 21-09-2026**: la font estableix que el Govern garanteix la dotació de personal docent per als centres francesos i espanyols i que la Formació Andorrana és obligatòria, però no dona noms ni plantilla.
 - ~~**Què s'hi ensenya exactament**: els programes d'història i institucions
   andorranes fets pel Govern serien **una font directa de com el país s'explica
   a si mateix als seus nens**. Per a aquest corpus, seria dels materials més
@@ -207,7 +207,7 @@ va haver de fer **per la via del conveni**— i això deixa marca.
   `Requereix buidar els altres decrets de programa, que ara se sap que són tots
   al BOPA —i que des del 2021 porten el programa en un PDF annex que l'edicte no
   conté.`
-- **Si algun centre s'hi va resistir**, i què va passar.
+- ~~**Si algun centre s'hi va resistir**, i què va passar.~~ — **`parcial` el 21-09-2026**: els convenis de **1993** integren definitivament la Formació Andorrana al currículum hispanoandorrà i amplien les hores al sistema francès, però la ponència no identifica cap centre resistent ni cap expedient de conflicte.
 
 ## Related
 
