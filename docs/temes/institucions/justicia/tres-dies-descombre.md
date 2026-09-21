@@ -254,9 +254,13 @@ font andorrana de 1551 fes servir exactament la mateixa construcció jurídica.*
    atestacions —1551 i 1606— donen la mateixa durada de tres dies.**
    **El corpus manté que **no l'identifica amb l'*escombre* dels camins***.
    **Vegeu** [homes armats a la porta de l'església](./homes-armats-a-la-porta-de-lesglesia.md).
-3. **Què volia dir exactament ser tingut i reputat per ***bar i traïdor***, i
-   **quines conseqüències jurídiques efectives tenia** a Andorra.
-   **Prioritari**: **el corpus té la clàusula i cap cas d'aplicació.**
+3. ~~**Què volia dir exactament ser tingut i reputat per ***bar i traïdor***, i
+   **quines conseqüències jurídiques efectives tenia** a Andorra.~~ — **`parcial`
+   el 2026-09-21**: la treva de **1551** fixa una pena de **cent ducats d’or** i
+   afegeix que qui la trenqui serà tingut i reputat per **«bar, traïdor i enemic
+   dels Senyors de les Valls»**, amb renúncia a les lleis, usos i constitucions
+   que li permetessin excusar-se de la *baria* i la traïció. **El corpus encara no
+   conserva cap cas que demostri l’aplicació efectiva d’aquesta sanció.**
 4. ~~**L'*Instructa* de 1740, peces justificatives p. LIII** —**dissetena
    citació**—, **amb el règim de la denúncia amb instància i sense.**
    **Prioritari.**~~ — **`no-es-buit`**: la correcció ja constata que la peça
