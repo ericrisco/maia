@@ -152,9 +152,13 @@ setanta-dos notables al judici de constitucionalitat.**
   es convoca l’Assemblea Magna i que finalment **els batlles en manen el
   tancament**, de manera que aquest cas apunta a una funció de cobertura d’una
   decisió prèvia. **No permet generalitzar-ho a totes les assemblees.**
-- **La proposta del 1991-92**: qui la va fer i per què no va prosperar.
+- ~~**La proposta del 1991-92**: qui la va fer i per què no va prosperar.
   **És el moment en què una institució de sis segles es descarta**, i **el
-  corpus no en té el debat.**
+  corpus no en té el debat.**~~ — **`parcial` el 21-09-2026**: la fitxa situa la
+  proposta en el **bloqueig entre el Govern i la majoria del Consell General**,
+  que paralitzava administrativament el país, i durant la negociació de la
+  Constitució; també indica que la van formular **polítics i grups de pressió**.
+  **No en dona els noms ni conserva el debat que explica per què no va prosperar.**
 
 ## Related
 
