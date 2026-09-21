@@ -188,9 +188,12 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
   queda obert què compon aquests saldos ([font](../../../fonts/estadistica-ad.md)).
 - **Qui són els 8.124 milions de passius.** La PII els classifica per
   instrument, mai per país.
-- ~~**Les notes A138 anteriors i posteriors.**~~ — **`parcial` el 19-09-2026**:
-  **n'hi ha dues de localitzades** —`20250123` i `20250731`— i **només s'ha
-  llegit la segona**.
+- ~~**Les notes A138 anteriors i posteriors.**~~ — **`resolt` el 2026-09-21**:
+  les dues peces adjacents que el corpus tenia localitzades —**A138 de l'any
+  2023**, publicada el **23-01-2025**, i **A138 de l'any 2024**, publicada el
+  **31-07-2025**— ja són llegides i conservades a `docs/raw/estadistica-sondeig-2024/`.
+  La peça anterior confirma la sèrie 2019–2023 i situa el canvi de publicació;
+  no es dona per establerta cap altra edició fora d'aquestes dues còpies.
 
 ## Related
 
