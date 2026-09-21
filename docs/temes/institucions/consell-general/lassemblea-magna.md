@@ -138,15 +138,20 @@ setanta-dos notables al judici de constitucionalitat.**
 - ~~**Les actes de les assemblees del 1974, 1975 i 1980-81.** **El corpus no en té
   cap**: ni ordre del dia, ni assistents, ni resultat.~~ — **`parcial` el
   21-09-2026**: la mateixa fitxa ja fixa el **1974 i 1975** com les dues assemblees pel projecte d’anul·lació i rescat de les concessions de **FHASA**, i el **1980–81** com l’assemblea de la guerra de les ràdios. **Continuen pendents les actes, l’ordre del dia, els assistents i el resultat documental de cadascuna.**
-- **Quantes se'n van reunir en total**, i **quan va ser la primera de què hi ha
+- ~~**Quantes se'n van reunir en total**, i **quan va ser la primera de què hi ha
   constància**. Becat en documenta tres i diu que la institució és «molt
-  antiga»; **entre el 1866 i el 1974 el corpus no en té cap.**
+  antiga»; **entre el 1866 i el 1974 el corpus no en té cap.**~~ — **`parcial` el
+  21-09-2026**: la font de Becat permet afirmar que el corpus documenta **tres
+  reunions** i que no n’hi ha cap de localitzada entre **1866 i 1974**. **No fixa
+  ni el nombre total històric ni la primera reunió conservada.**
 - **Quines parròquies feien *Reunió de Poble*** i quines deixaven que designés el
   comú. **Becat diu que variava i no diu quines.**
-- **Si l'Assemblea Magna va decidir mai res que s'apliqués**, o si **la seva
-  funció era donar cobertura a una decisió ja presa.** **La descripció de la
-  guerra de les ràdios apunta al segon cas** —es convoca i tanquen els batlles—
-  **però un cas no fa regla.**
+- ~~**Si l'Assemblea Magna va decidir mai res que s'apliqués**, o si **la seva
+  funció era donar cobertura a una decisió ja presa.**~~ — **`parcial` el
+  21-09-2026**: en el cas de la **guerra de les ràdios**, la fitxa descriu que
+  es convoca l’Assemblea Magna i que finalment **els batlles en manen el
+  tancament**, de manera que aquest cas apunta a una funció de cobertura d’una
+  decisió prèvia. **No permet generalitzar-ho a totes les assemblees.**
 - **La proposta del 1991-92**: qui la va fer i per què no va prosperar.
   **És el moment en què una institució de sis segles es descarta**, i **el
   corpus no en té el debat.**
