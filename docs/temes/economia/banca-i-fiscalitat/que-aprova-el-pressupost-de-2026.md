@@ -273,9 +273,12 @@ principal es calcula.`
   de canvis i l'execució continuen pendents. El
   [projecte d'Andorra Digital](../../institucions/consell-general/la-proposta-de-pressupost-dandorra-digital.md)
   s'ha llegit com a proposta, sense acreditar aprovació posterior.
-- La correspondència comptable proposada és hipòtesi explícita.
+- ~~La correspondència comptable proposada és hipòtesi explícita.
   Falta verificar la metodologia de consolidació i les eliminacions
-  entre entitats; no s'han sumat els seus totals com si fossin independents.
+  entre entitats; no s'han sumat els seus totals com si fossin independents.~~ —
+  **`no-es-buit` el 2026-09-22**: és una **cautela metodològica** sobre una
+  correspondència encara hipotètica, no una pregunta factual independent; els
+  totals no s'han presentat com si fossin independents.
 - Només s'han llegit les pàgines delimitades a la
   [fitxa](../../../fonts/govern-pressupost-2026.md). ~~Resta de l'articulat,
   partides ministerials, justificacions i pluriennals pendents.~~ — **`parcial`
