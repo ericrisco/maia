@@ -245,16 +245,27 @@ capella**. Vegeu [la religiositat](../../costums/religiositat/religiositat.md).
 
 ## Buits registrats
 
-1. **El text del decret del 23 de desembre de 1772** sobre el matrimoni dels
-   forasters, i **si es va aplicar mai**. La font en cita una línia.
-2. **Qui eren els dos síndics privats de la ciutadania** —**en tant que decisió
+1. ~~**El text del decret del 23 de desembre de 1772** sobre el matrimoni dels
+   forasters, i **si es va aplicar mai**. La font en cita una línia.~~ —
+   **`parcial` el 22-09-2026**: la fitxa conserva la clàusula operativa —cap
+   foraster es pot casar a les Valls sense **llicència expressa del Consell**—,
+   però **no té el decret sencer ni cap cas que en demostri l'aplicació**.
+2. ~~**Qui eren els dos síndics privats de la ciutadania** —**en tant que decisió
    institucional**, la data i l'acord del Consell. **La font no els identifica ni
-   els data.**
-3. **Què volia dir exactament «y sos productos»** a la fórmula de la privació: si
-   la pena s'estenia als descendents.
-4. **Quan es fixa la «tercera generació»** com a llindar i **per quina decisió**.
+   els data.**~~ — **`parcial` el 22-09-2026**: la font confirma que eren **dues
+   persones elegides síndics que es negaven a acceptar el càrrec** i que la
+   privació incloïa drets comunals i documents de la Vall; **no en dona els noms,
+   la data ni l'acord**.
+3. ~~**Què volia dir exactament «y sos productos»** a la fórmula de la privació: si
+   la pena s'estenia als descendents.~~ — **`parcial` el 22-09-2026**: el text
+   associa «sos productos» amb **els drets que els eren adherents**, la privació
+   de document de la Vall i de servitud comunal; **no permet decidir si
+   «productos» designa descendents o els efectes patrimonials de la pena**.
+4. ~~**Quan es fixa la «tercera generació»** com a llindar i **per quina decisió**.
    El 1904 era **una tendència**, no una norma escrita. **Entre això i el codi de
-   1977 el corpus no té res.**
+   1977 el corpus no té res.**~~ — **`parcial` el 22-09-2026**: la fitxa només
+   pot situar la tercera generació com **la tendència que prevalia el 1904**;
+   **no hi ha decisió, data d'adopció ni baula documental fins al codi de 1977**.
 5. ~~**Si la naturalització «sense decisió»** va deixar rastre documental, i **com
    es provava aleshores la condició d'andorrà**.~~ — **`parcial` el 17-09-2026, i
    pel cantó contrari: el que sí que va deixar rastre és com s'admetia
@@ -296,16 +307,28 @@ capella**. Vegeu [la religiositat](../../costums/religiositat/religiositat.md).
    estrangers sense permís i llicència del Consell General, sota pena del cot
    de la Terra.** **Primer es controla qui entra i després qui li dona
    sostre.**
-6. **El brevet de ciutadà andorrà**: **quants se'n van concedir i a qui**, i **si
+6. ~~**El brevet de ciutadà andorrà**: **quants se'n van concedir i a qui**, i **si
    la figura sobreviu**. `Requereix font externa: els llibres d'acords del Consell
-   General.`
-7. **Quan desapareix el *privilegium fori*** dels clergues a Andorra. **La font
-   el preveu i no el veu desaparèixer.**
-8. **Si els eclesiàstics eren realment exempts de contribucions personals.** **La
-   font ho dona com a reputació.**
-9. **Els actes notarials de castedat dels ermitans**: **cap data, cap
+   General.`~~ — **`parcial` el 22-09-2026**: la fitxa documenta **Carvajal**, un
+   barceloní catalanista que va rebre el títol per identificar-se amb un país
+   català; **no té el recompte, la resta de beneficiaris ni la continuïtat de la
+   figura**.
+7. ~~**Quan desapareix el *privilegium fori*** dels clergues a Andorra. **La font
+   el preveu i no el veu desaparèixer.**~~ — **`parcial` el 22-09-2026**: la
+   font descriu l'exempció de jurisdicció laica i prediu que aquestes regles
+   desapareixeran perquè ja no lliguen amb les teories modernes; **no en fixa la
+   supressió efectiva**.
+8. ~~**Si els eclesiàstics eren realment exempts de contribucions personals.** **La
+   font ho dona com a reputació.**~~ — **`parcial` el 22-09-2026**: el text diu
+   literalment que **«passen per ser»** exempts i la fitxa ho conserva com a
+   reputació, remetent a l'exempció de talla del dret català; **no és una prova
+   d'exempció real a Andorra**.
+9. ~~**Els actes notarials de castedat dels ermitans**: **cap data, cap
    signatura d'arxiu**. `Requereix font externa: el fons notarial de l'Arxiu
-   Nacional d'Andorra.`
+   Nacional d'Andorra.`~~ — **`parcial` el 22-09-2026**: Brutails identifica la
+   figura jurídica —**un compromís notarial de castedat mentre dura la funció de
+   guardià d'una capella**— i la fitxa en conserva el límit temporal; **no té
+   cap acte, data ni signatura**.
 
 ## Related
 
