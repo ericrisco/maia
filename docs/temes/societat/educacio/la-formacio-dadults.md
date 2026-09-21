@@ -226,9 +226,7 @@ metàfora: **és la funció principal.**
 - ~~**Quanta gent aprova** de les 480 que s'hi presenten.~~ — **`resolt`
   el 19-09-2026** com a buit duplicat: la pregunta canònica continua a
   [Els exàmens oficials de català](../../llengua/politica-linguistica/els-examens-oficials-de-catala.md).
-- **Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a
-  altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior
-  que el corpus no coneix.
+- ~~**Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior que el corpus no coneix.~~ — **`parcial` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/lectorat-praga/README.md) confirma que el lectorat creat el **1991** es va convertir el **2017** en el **Centre Carlemany de Llengua Catalana** de la Universitat Carolina de Praga i que continua oferint cursos i activitats. No s'hi identifica encara una xarxa d'altres lectorats en universitats diferents.
 - ~~**Promocions Mèdiques Andorranes**, l'empresa andorrana amb seu a Praga que
   cofinançava el lectorat el 2000. **El corpus no en té res**, i és una porta a
   la presència econòmica andorrana a l'estranger.~~ **`resolt` el 19-09-2026**:
