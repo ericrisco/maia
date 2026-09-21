@@ -327,17 +327,17 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    **i no pot dir qui és qui aquí.**
 6. **Si existia cap norma andorrana sobre reunió, associació o culte el 1918.**
    **L'afirmació que no n'hi havia és d'autor i no porta prova.**
-7. **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** ~~Aquí deia que el
-   corpus té el títol de príncep el 1866 i no abans.~~ **És fals.** **El corpus el
-   té el 1762**, i amb nom: *La cuestión de Andorra* (1894), **p. 21**, nota —
-   «**El Obispo Catalán de Ocón fué el primero que usó en 1762 el título de
-   Príncipe Soberano**»—, i **Brutails data el 2 de març de 1762 un decret del
-   mateix bisbe** ([van deixar d'apel·lar a França per
+7. ~~**CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** Aquí deia que el
+   corpus tenia el títol de príncep el 1866 i no abans.**~~ — **`no-es-buit`**:
+   **és fals**; el corpus el té el **1762**, amb nom, a *La cuestión de Andorra*
+   (1894), **p. 21**, nota —«**El Obispo Catalán de Ocón fué el primero que usó
+   en 1762 el título de Príncipe Soberano**»—, i **Brutails data el 2 de març de
+   1762 un decret del mateix bisbe** ([van deixar d'apel·lar a França per
    comoditat](../../historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md)).
-   **El que segueix obert, i és una altra pregunta**, és **quan apareix la fórmula
-   en plural aplicada als dos cosenyors alhora** —*Prínceps sobirans pro
-   indivís*— **i si cap text anterior al 1866 l'atribueix als Pariatges.**
-8. **Si algú va respondre a aquest llibre** des d'Andorra o des de França. **Un
+8. **Quan apareix la fórmula en plural aplicada als dos cosenyors alhora**
+   —*Prínceps sobirans pro indivís*— **i si cap text anterior al 1866 l'atribueix
+   als Pariatges.**
+9. **Si algú va respondre a aquest llibre** des d'Andorra o des de França. **Un
    volum que diu que dir-se príncep d'Andorra afalaga una vanitat pueril és un
    volum que convida a resposta**, i **el corpus no en té cap notícia.**
 
