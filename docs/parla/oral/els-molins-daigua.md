@@ -577,12 +577,19 @@ parlants**.
    lectura **`aviat`** en els tres contextos i explica per què és la que els
    concorda; el que segueix pendent és escoltar l'àudio, i per això la
    transcripció conserva `[?llat]`.
-2. **`aletes`.** Un sol parlant. **No es pot dir si és el mot de l'ofici aquí o
-   la manera de dir-ho d'ell.** Cal un segon parlant de molins, i el corpus ja
-   n'ha esgotat dos.
-3. **Les 3,9 paraules per segment.** El parlant fa el doble de pauses que la
+2. ~~**`aletes`.** Un sol parlant. **No es pot dir si és el mot de l'ofici aquí o
+   la manera de dir-ho d'ell.**~~ — **`parcial` el 2026-09-22**: Alan Ward el fa
+   servir quatre vegades per a les pales de la roda, i la comparació amb
+   [la peça de Francina Pons](les-moles-de-farina.md) confirma que ja hi ha un
+   segon parlant del mateix ofici, però no hi apareix aquest mot. **El corpus
+   encara no pot separar lèxic tècnic compartit d'idiolecte.**
+3. ~~**Les 3,9 paraules per segment.** El parlant fa el doble de pauses que la
    ponent de la #70. **No s'ha comprovat si és manera de parlar, tema tècnic o
-   qualitat de la gravació de confinament.**
+   qualitat de la gravació de confinament.**~~ — **`parcial` el 2026-09-22**:
+   la fitxa conserva la taxa de **3,9 paraules per segment** i la compara amb
+   la ponent de la **#70**, amb el doble de pauses. **No hi ha encara una prova
+   que separi efecte del tema tècnic, estil del parlant o qualitat de la
+   gravació de confinament.**
 4. **El nom.** — **`resolt` el 16-09-2026 per la font mateixa.** **La màquina
    escriu `[?Alnuart]` al punt on el parlant es presenta, i el títol de la
    càpsula, publicat per qui la va editar, diu *Alan Ward*.** **Coincideixen la
