@@ -341,23 +341,38 @@ representació**, com a la renovació del comú.
 
 ## Buits registrats
 
-1. **Qui forma un quart.** **L'autor declara que «en parte alguna se dice»**, i
+1. ~~**Qui forma un quart.** **L'autor declara que «en parte alguna se dice»**, i
    **el corpus tampoc no ho té.** **Prioritari, i ara amb la declaració d'un
-   jurista que va anar a buscar-ho.**
-2. **La divergència sobre qui presideix o executa al quart** —torn de cases
+   jurista que va anar a buscar-ho.**~~ — **`parcial` el 22-09-2026**: la font
+   conserva el costum que hi concorrin **els qui han exercit o exerceixen
+   autoritat, els notables**, i declara que no hi ha cap text que n'estableixi la
+   composició; **no hi ha llista normativa ni padró de membres**.
+2. ~~**La divergència sobre qui presideix o executa al quart** —torn de cases
    contra càrrec derivat— **queda oberta.** `Requereix ordinacions d'un quart
-   concret.`
+   concret.`~~ — **`parcial` el 22-09-2026**: Canturri documenta una **presidència
+   rotatòria per cases**, mentre que Ríos Urruti atribueix l'execució al cònsol
+   del quart o al conseller que el representa; **cap font identifica el quart ni
+   l'ordinació que permetria decidir si són èpoques o funcions diferents**.
 3. ~~**Si Andorra la Vella tenia quarts el 1918.**~~ — **`parcial` el
    18-09-2026**: **la font en diu dues que no en tenen i no inclou Andorra la
    Vella**; el corpus la registra com a parròquia sense divisió, però **no és una
    prova directa per al 1918**.
-4. **Els conflictes freqüents entre quarts i parròquies.** **La font els dona per
+4. ~~**Els conflictes freqüents entre quarts i parròquies.** **La font els dona per
    coneguts i no en cita cap.** **Prioritari**: **serien la millor font sobre on
-   acaba la competència de cada un.**
-5. **Els certificats de sanitat** que expedia el cònsol major: **quina norma els
-   regulava, què acreditaven i si se'n conserva cap.**
-6. **La data exacta del consell de les bohigues.** **És l'únic dels cinc que la
-   font deixa sense situar al calendari.**
+   acaba la competència de cada un.**~~ — **`parcial` el 22-09-2026**: la font
+   afirma que els conflictes són freqüents per l'administració dels béns i les
+   mesures de policia i bon govern; **no en dona cap cas, data ni límit concret
+   de competència**.
+5. ~~**Els certificats de sanitat** que expedia el cònsol major: **quina norma els
+   regulava, què acreditaven i si se'n conserva cap.**~~ — **`parcial` el
+   22-09-2026**: la fitxa estableix que el cònsol major els expedia com a part de
+   la comunicació entre autoritats i parròquies, i que acreditaven la sanitat
+   d'una persona o mercaderia; **no té la norma reguladora ni cap certificat
+   conservat**.
+6. ~~**La data exacta del consell de les bohigues.** **És l'únic dels cinc que la
+   font deixa sense situar al calendari.**~~ — **`parcial` el 22-09-2026**: la
+   fitxa confirma que és **un dels cinc consells ordinaris de l'any** i en fixa la
+   funció —concedir terres comunals per cultivar—; **la font no dona cap data**.
 7. ~~**Si els cinc consells ordinaris es fan avui**, i **amb quins noms.**~~ —
    **`parcial` el 2026-09-21**: la fitxa ja identifica la sèrie de **1918** amb
    els cinc noms —**dels Innocents**, **de les talles**, **de la Pasqua de
@@ -372,10 +387,16 @@ representació**, com a la renovació del comú.
    primer.` **Registrat com a concordança, no com a prova.** — **`parcial`: dues
    fonts coincideixen en la inferència de deu, però la divergència amb els
    dotze de Brutails i l'excepció de Canillo continua oberta.
-9. **Qui són els «escritores que estudian su Derecho»** que fan de detractors dels
-   quarts. **No en nomena cap.**
-10. **García Ramos**, *Arqueología jurídico-consuetudinaria-económica de la región
-    gallega*, Madrid, 1910, i **el paral·lel gallec.** **El corpus no el té.**
+9. ~~**Qui són els «escritores que estudian su Derecho»** que fan de detractors dels
+   quarts. **No en nomena cap.**~~ — **`parcial` el 22-09-2026**: queda establert
+   que Ríos Urruti atribueix als escriptors de dret andorrà una oposició molt
+   severa als quarts per la defensa fins i tot del que és nimi; **no en dona cap
+   nom ni llista**.
+10. ~~**García Ramos**, *Arqueología jurídico-consuetudinaria-económica de la región
+    gallega*, Madrid, 1910, i **el paral·lel gallec.** **El corpus no el té.**~~ —
+    **`parcial` el 22-09-2026**: la fitxa identifica l'obra, l'autor i l'any, i
+    conserva el paral·lel —el *concejo* gallec com a forma semblant, subsistent
+    fins a començaments del segle XX—; **el llibre no forma part del corpus**.
 
 ## Related
 
