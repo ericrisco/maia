@@ -169,9 +169,7 @@ els dona per separat.`
 3. ~~**El decret del Consell General del 28 de maig de 1895** a instància del quart de Pal, sencer.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la data, el quart de Pal que el va instar i la disposició perquè el nunci també cridés els llibres del quart, però no el text íntegre.
 4. ~~**Si el pregó es feia encara després del 1904**, i **fins quan.**~~ — **`parcial` el 21-09-2026**: el text de 1904 diu que el pregó no tenia efecte i era una reminiscència, però el corpus no té cap font posterior que en fixi la continuïtat o la data final.
 5. ~~**Per què cada parròquia el feia en un dia diferent**, i **per què Andorra el lligava a Corpus i les altres a Pentecosta.**~~ — **`parcial` el 21-09-2026**: la fitxa ja documenta el calendari —Corpus a Andorra, Pentecosta a Encamp, Canillo, la Massana i Ordino, i l'endemà a Sant Julià—, però no en té la raó històrica.
-6. **Quantes execucions abans de judici van demanar els comuns, els quarts i les
-   esglésies**, i **amb quin resultat**. **La font dona la regla i cap cas.**
-   `obert, prioritari.`
+6. ~~**Quantes execucions abans de judici van demanar els comuns, els quarts i les esglésies, i amb quin resultat.**~~ — **`parcial` el 21-09-2026**: la font estableix que aquestes administracions podien requerir l'execució abans de judici i que l'executat només podia al·legar raons plausibles davant del batlle, però no dona cap recompte ni cas complet.
 7. ~~**L'acte del 15 d'octubre de 1584**, sencer, i **si el gest de prendre per la mà dreta era la forma habitual** o **un detall d'aquell document.**~~ — **`parcial` el 21-09-2026**: la font conserva el gest amb què el batlle posa el creditor en possessió del prat i el motiu del deute, però el corpus no té l'acte íntegre ni altres casos per saber si era una fórmula habitual.
 8. **Els passatges de les Constitucions de Catalunya** sobre causes executives:
    **III, xxv, 1, p. 255**, i **VII, x**. `obert, amb referència.`
