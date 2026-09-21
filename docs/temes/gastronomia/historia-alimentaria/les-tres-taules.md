@@ -151,7 +151,7 @@ precisament perquè **ningú no la va escriure per parlar de menjar**.
 
 ## Buits registrats
 
-1. **La taula mitjana**, que té una línia.
+1. ~~**La taula mitjana**, que té una línia.~~ — **`parcial` el 2026-09-21**: la font la descriu com **un plat cuinat de carn amb alguns llegums**; no hi aporta cap altre plat, ingredient o exemple de menú.
 2. ~~**El testament del segle XII** i els **tractats de concòrdia** —
    fonts primàries, no consultades.~~ — **`parcial` el 18-09-2026**: **la
    citació original** (SAC, 15a Diada, 2002, p. 92) **no dona número de
@@ -166,7 +166,7 @@ precisament perquè **ningú no la va escriure per parlar de menjar**.
    i `flaó`** es contrasten a més amb el DIEC2; els altres tres mantenen la
    definició contextual de Ribes.
 4. **El robatori de pernils com a tema literari**: en quins textos?
-5. **Quan desapareix el pa d'ordi** i el substitueix el de blat.
+5. ~~**Quan desapareix el pa d'ordi** i el substitueix el de blat.~~ — **`parcial` el 2026-09-21**: la fitxa documenta el **pa d'ordi** com a base de la taula humil i registra **ordi i forment** entre els cereals abundants del segle XII, però no data el canvi de l'ordi al blat.
 
 ## Related
 
