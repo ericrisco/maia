@@ -154,7 +154,11 @@ medieval que el seu costum](../../historia/antic-regim/landorra-es-mes-medieval-
    terme és una pregunta de dret pastoral que Brutails no tracta, i la cerca
    local no n’ha trobat cap atestació. **Cal una ordinació o un acte de comú per
    establir-ne el sentit jurídic.**
-2. **El decret del Consell General del 4 de juny de 1878**, sencer.
+2. ~~**El decret del Consell General del 4 de juny de 1878**, sencer.~~ —
+   **`parcial` el 2026-09-21**: la nota de Brutails conserva la data i diu que
+   el decret **«oposa *prat* a *boichs»**, però el corpus no té el text íntegre
+   ni la peça original ([*La Coutume d'Andorre*](../../../fonts/brutails-coutume-1904.md)).
+   Queda pendent l'original del decret per saber què resolia exactament.
  3. ~~**El document de 1366, i per què Brutails el considera sospitós**~~ — **`parcial`
     des del 2026-09-18**: **la raó ja la tenim, i no és el contingut, és la
    procedència** — «**no cito aquest document sinó amb reserva: la font d'on prové
