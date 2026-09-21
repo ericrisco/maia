@@ -288,7 +288,7 @@ d'aquesta fitxa promet per endavant.**
    `Hipòtesi de Becat, registrada com a seva.`
    **El que segueix obert és el que el buit demanava de debò: comparar text amb
    text.**
-5. **Què passava** quan els dos parents pròxims no es posaven d'acord.
+5. ~~**Què passava** quan els dos parents pròxims no es posaven d'acord.~~ — **`resolt` el 21-09-2026**: [una vegada de cada tres](../../institucions/justicia/una-vegada-de-cada-tres.md) documenta que el batlle, el **30 d'octubre de 1863**, va ordenar que **dos parents, un de cada banda, arreglessin el desacord** entre una sogra i un gendre; i que el **Jutge d'Apel·lacions**, l'abril de **1893**, es va declarar incompetent i va fer respectar la clàusula del contracte de 1883, que encarregava l'afer a **un parent i un tercer**.
 6. ~~La **Llei del notariat de 1996** i què en diu, dels capítols.~~ — **`resolt`
    el 17-09-2026, i la resposta és que gairebé no en diu res.**
 
