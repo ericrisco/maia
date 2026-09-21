@@ -214,7 +214,10 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
    plana que pujaven dels ramats de les cases de muntanya que baixaven; no
    identifica, però, si aquells pastors eren membres de la casa, assalariats o
    contractats fora.
-3. **E. Pée-Laby (1900)**, la font per a l'Arieja. El corpus no la té.
+3. ~~**E. Pée-Laby (1900)**, la font per a l'Arieja.~~ — **`font_externa` el
+   2026-09-22**: **Becat la cita com a font de les dades ariegenques, però el
+   corpus no en té cap exemplar ni transcripció**. **Cal recuperar la peça per
+   verificar què mesura i amb quin abast.**
 4. ~~**Els contractes de conlloc**: com s'escrivien i què hi constava.~~ —
    **`parcial` des del 2026-09-15.** **El que s'ha tancat: que existien com a
    figura judicial i de qui depenien.** La *Instructa als senyors batlles* del

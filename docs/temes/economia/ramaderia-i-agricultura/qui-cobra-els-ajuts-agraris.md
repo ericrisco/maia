@@ -270,8 +270,10 @@ apareixerà a la nota del juny del 2027.**
   bestiar de renda** i **194 sense** ([taula de superfície per parròquia](../../../raw/estadistica-agricultura/superficie-conreu-parroquia-2025.txt)).
   Les fonts descriuen universos de difusió diferents, però cap no explica quines
   són les 38 explotacions que no entren a la taula de superfície.
-- **On és el suport al tabac**, si n'hi ha. `Cal buscar fora del Departament
-  d'Agricultura.`
+- ~~**On és el suport al tabac**, si n'hi ha.~~ — **`font_externa` el
+  2026-09-22**: **l'estadística d'ajuts agraris no hi troba cap línia**, però la
+  fitxa no pot determinar si el suport és un preu garantit, un règim duaner o una
+  partida d'un altre departament. **Cal consultar aquestes fonts administratives.**
 
 ## Related
 

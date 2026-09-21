@@ -179,7 +179,9 @@ l'alçada d'un mur de pedra seca.
   confirma **7 versions**, **99 articles** i una instantània del **12 de setembre
   de 2026**. **Encara no s'ha fet el diff article per article de les set versions,
   de manera que no se'n pot donar la cronologia de canvis.**
-- **Els requisits tècnics dels HUT** van a reglament i no són al corpus.
+- ~~**Els requisits tècnics dels HUT**.~~ — **`font_externa` el 2026-09-22**:
+  **la llei remet els requisits al reglament i aquest reglament no és al corpus**.
+  **Cal incorporar la disposició reglamentària per descriure'ls.**
 - ~~**L'impost sobre les estades en allotjaments turístics** (Llei 19/2022, 47
   articles) és al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**
   al [BOPA](../../../fonts/bopa.md), butlletí **76 del 2022**

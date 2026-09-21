@@ -156,8 +156,9 @@ apartat 6.)
   involuntària](lajut-per-desocupacio-involuntaria.md). Queda oberta la
   verificació completa de la vigència actual; el buit era de documentació
   reglamentària, no prova d'absència de prestació.
-- **Els nivells d'ingressos** que decideixen qui és artista acreditat van a
-  reglament i **no són al corpus**.
+- ~~**Els nivells d'ingressos** que decideixen qui és artista acreditat.~~ —
+  **`font_externa` el 2026-09-22**: **la fitxa remet al reglament, però no el té
+  al corpus**. **Cal recuperar la norma per saber els llindars aplicables.**
 - ~~**Quants artistes acreditats hi ha**, quants autònoms al Registre i quantes
   persones al Servei d'Ocupació, no consta.~~ — **`parcial` el 20-09-2026**:
   la memòria anual de la Comissió fixa **nou artistes professionals acreditats

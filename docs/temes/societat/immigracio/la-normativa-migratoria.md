@@ -353,8 +353,10 @@ el corpus la reté com a **posició**, no com a descripció neutra.
 
    `Requereix, doncs, l'Arxiu per a tot el que és anterior al 1989, i el corpus
    ja no ho ha de buscar al Butlletí.`
-2. **Les màximes 41 i 42 del Manual Digest**, i el **núm. 41 de l'*Apéndice
-   Misceláneo***: el corpus **no en té el text**.
+2. ~~**Les màximes 41 i 42 del Manual Digest**, i el **núm. 41 de l'*Apéndice
+   Misceláneo***.~~ — **`font_externa` el 2026-09-22**: **la fitxa les cita com
+   a referents, però el corpus no en té el text**. **Cal consultar els exemplars
+   corresponents per comprovar què diuen i com s'hi relacionen.**
 3. ~~**Què va passar el 1988** perquè no s'aprovés cap quota.~~ — **`parcial` el
    21-09-2026**: la taula **«El que passa després»** de la mateixa fitxa ja fixa
    el fet documentat: **el Consell General no va aprovar cap quota d'immigració
