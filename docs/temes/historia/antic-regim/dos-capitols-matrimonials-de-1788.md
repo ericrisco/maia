@@ -159,7 +159,7 @@ cases. **El corpus no ho fa**, per dues raons que hi consten:
    notari, no un pacte negociat entre les parts.**
    **El que segueix obert** és **si alguna parella la va fer treure**: el corpus
    no té cap capítol matrimonial andorrà d'aquests anys que NO la porti.
-6. **L'*aixovar***: què hi entrava, exactament, i com es distingia del dot.
+6. ~~**L'*aixovar***: què hi entrava, exactament, i com es distingia del dot.~~ — **`parcial` el 21-09-2026**: [la fitxa del dot](./el-dot.md) precisa que, quan la dona és hereva, el dot el porta el marit i s'anomena **adot, exovar o aixovar**; té hipoteca, però no opció dotal ni *tenuta*. El corpus encara no té l'inventari material complet del que hi entrava.
 
 ## Related
 
