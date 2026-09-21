@@ -258,7 +258,13 @@ dataset**.`
    **El debat de globalitat del 25 de maig (DCG 5/1995) també s'ha llegit**, i
    hi consta **per què vint-i-cinc**: «el nombre d'anys que hom reconeix a tot
    arreu com el d'una generació».
-3. **Quan i com es passa de vint-i-cinc anys a vint.**
+3. ~~**Quan i com es passa de vint-i-cinc anys a vint.**~~ — **`resolt` el
+   21-09-2026**: la **Llei 10/2004, del 27 de maig**, entrada en vigor el **29
+   de juny de 2004**, va fixar en **vint anys** el període general de residència
+   per demanar la naturalització i en **deu** el dels joves escolaritzats al
+   país. La cronologia i la remissió a l'exposició de motius de la Llei 8/2026
+   consten a [El codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)
+   i [Qui podia ser andorrà el 1997](./qui-podia-ser-andorra-el-1997.md).
 4. ~~**El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.~~ — **`parcial` el 21-09-2026**: el [llistat oficial de candidatures de les eleccions generals de 1997](../../../raw/web/institucions/politica-1997/ara-partit/eleccions-consell-general-1997.txt) només hi enumera **AND, ND, IDN i UL** a la circumscripció nacional, més les llistes parroquials, i **no hi apareix cap partit sorgit de l'ARA**. Això acota que no es va presentar amb aquest projecte a aquelles eleccions, però **no resol si la iniciativa va existir fora d'una candidatura electoral ni si va arribar a constituir-se després**.
 5. ~~**Què vol dir «un dret que ens ha estat retallat».**~~ — **`parcial` el
    18-09-2026**: **el sindicat ja té fitxa**,
@@ -271,8 +277,13 @@ dataset**.`
    la **Llei 9/2012, qualificada d'immigració** — **més de divuit anys després de
    la Constitució**, quan es demanava en sis mesos. Vegeu
    [la llei d'immigració del 2012](../../societat/immigracio/la-llei-dimmigracio-del-2012.md).
-7. **L'ARA**: fundació, nombre de socis, i què n'ha estat. És **l'única
-   associació de residents anterior al 1993** segons Sandrine Rui.
+7. ~~**L'ARA**: fundació, nombre de socis, i què n'ha estat.~~ — **`parcial` el
+   21-09-2026**: [L'ARA i el SAT](../../societat/treball/lara-i-el-sat.md) la
+   situa com una associació informal nascuda el **1976**, formada sobretot per
+   residents espanyols (molts catalans) amb alguns joves andorrans, i documenta
+   el pas d'una part dels seus socis al **Sindicat Andorrà de Treballadors (SAT),
+   fundat el 8 de març de 1990**. El corpus encara no té el nombre de socis ni
+   el destí institucional complet de l'ARA.
 
 ## Related
 
