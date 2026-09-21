@@ -115,7 +115,11 @@ Pujadas ho tanca amb una frase que retrata el problema: «**Ho deixo aquí, en
 l'espera que el legislador —i no el jutjador— acabi per resoldre la
 qüestió.**»
 
-**Buit registrat:** si això s'ha resolt des del 2002.
+~~**Buit registrat:** si això s'ha resolt des del 2002.~~ — **`parcial` el
+21-09-2026**: la Constitució resol el vèrtex de la piràmide i l'article **84**
+fa que el costum sigui un criteri que les lleis han de tenir en compte per als
+quarts i els veïnats; la jurisprudència posterior no està sistematitzada al
+corpus.
 
 > **Una pista, del 2021.** La **Llei del notariat** diu que els notaris donen fe
 > «amb subjecció a les lleis... **i, subsidiàriament, d'acord amb el costum**». No
@@ -141,8 +145,11 @@ Pujadas n'esmenta una família que el corpus no tenia:
 d'ordenació del procés judicial civil i penal, paral·lel i contemporani dels
 costumaris constitucionals**».
 
-**Buit registrat:** les Instructes, text i contingut. **El corpus no en sabia
-res.**
+~~**Buit registrat:** les Instructes, text i contingut. **El corpus no en sabia
+res.**~~ — **`resolt` el 21-09-2026**: la *Instructa als senyors batlles* és la
+peça justificativa **XXVI** de Brutails, redactada a les Corts de **1740**, i el
+text local conserva els folis **531–540 i 542**; el corpus ja n'ha destil·lat
+les regles principals.
 
 ## Buits registrats
 
