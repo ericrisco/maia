@@ -168,8 +168,8 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 3. **Quants propietaris hi van quedar afectats**, i **si el Consell va arribar mai a
    saldar el capital.**
 4. **Si algú va atacar la decisió**, com l'autor diu que era possible.
-5. **El decret del 12 de maig de 1891 contra el *quart* de les Escaldes**, sencer, i
-   **quines obres eren.**
+5. ~~**El decret del 12 de maig de 1891 contra el *quart* de les Escaldes**, sencer, i
+   **quines obres eren.**~~ — **`parcial` el 21-09-2026**: la fitxa oficial de l’**Arxiu Històric d’Escaldes-Engordany** ([captura del fons](../../../raw/web/institucions/consell-general/arxiu-historic-escaldes-4673502.html)) descriu **1.684 documents dels segles XVII–1982**, inclou el **procés polític de creació de la parròquia** i indica **accés lliure**. És el fons localitzat on cal cercar l’expedient, però encara no s’ha identificat el decret ni les obres concretes.
 6. ~~**El decret del 18 de maig de 1893** i **la concessió de ciments del 24 de
    novembre de 1896**, sencers. **La segona declara l'expropiació forçosa i alhora
    remet a entendre's amb el propietari.**~~ — **`parcial` el 20-09-2026**:
