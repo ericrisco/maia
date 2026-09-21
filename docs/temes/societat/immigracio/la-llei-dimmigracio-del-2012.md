@@ -382,26 +382,20 @@ que mentrestant ha passat de 70.290 habitants el 2010 a 89.058 el 2025**
    toca**, mentre que **els reglaments de quota s'han publicat dues vegades l'any
    cada any.** `Requereix llegir cadascuna per dir què va canviar; ara se sap
    quantes són i quines.`
-7. **La llei de nacionalitat vigent**, que és una altra norma i **el corpus no la
-   té a `raw/lleis/`**. — **`obert`, confirmat el 2026-09-13.** **A
-   `raw/lleis/` hi ha `immigracio.txt` i cap fitxer de nacionalitat.** **És
-   un buit estructural i no de lectura**, i **té conseqüències més enllà
-   d'aquesta branca**: [els andorrans de primera
+7. ~~**La llei de nacionalitat vigent**, que és una altra norma i que abans no
+   constava a `raw/lleis/`. **És un buit estructural i no de lectura**, amb
+   conseqüències per a [els andorrans de primera
    generació](../../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md),
    [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md)
-   i [els nats a Andorra](./els-nats-a-andorra.md) **descriuen tots la
-   política de nacionalitat sense que el corpus tingui el text de la llei que
-   la fixa avui.** ~~`Requereix font externa: la Llei qualificada de la
-   nacionalitat, al BOPA o a jurisprudencia.ad.`~~ — **`resolt` el 17-09-2026
-   des del [BOPA](../../../fonts/bopa.md).** És la **Llei qualificada de la
-   nacionalitat del 5 d'octubre de 1995**, publicada el **30-1-1996**, amb la
-   **Llei 10/2004**, la **Llei 15/2006** i la **Llei 8/2026, del 7 de maig**
+   i [els nats a Andorra](./els-nats-a-andorra.md).**~~ — **`resolt` el
+   17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: és la **Llei qualificada
+   de la nacionalitat del 5 d'octubre de 1995**, publicada el **30-1-1996**, amb
+   la **Llei 10/2004**, la **Llei 15/2006** i la **Llei 8/2026, del 7 de maig**
    que la modifiquen, i la del **3 de setembre de 1993** que la precedeix
    ([evidència](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt),
    [evidència](../../../raw/lleis/bopa/llei-8-2026-mod-nacionalitat.txt),
    [evidència](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt)).
-   La cadena sencera és a
-   [El Codi de la nacionalitat de 1977](../../institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md).
+   La cadena sencera és a [El Codi de la nacionalitat de 1977](../../institucions/nacionalitat-i-residencia/el-codi-de-la-nacionalitat-de-1977.md).
 
 ## Related
 
