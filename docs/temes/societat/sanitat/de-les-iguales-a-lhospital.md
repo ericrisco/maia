@@ -151,13 +151,25 @@ millor del món **per facilitat d'accés**» és una categoria molt específica.
 
 **Buit registrat, prioritari i fàcil de tancar:** l'informe és públic.
 
+La lectura de l'informe resol la discrepància. A la **taula 1 de l'annex
+estadístic**, Andorra ocupa el lloc **28** en nivell de *responsiveness* i el
+lloc **39–42** en la distribució d'aquesta dimensió. A la **taula 10**, ocupa el
+lloc **4 de 191** en rendiment global del sistema sanitari, amb estimacions de
+1997. L'informe no té una categoria titulada «facilitat d'accés» que la situï
+tercera ([font web](../../../raw/web/societat/sanitat/oms-2000/README.md)).
+
 **Regla general que se'n deriva:** les classificacions internacionals afavorables
 són **exactament el tipus d'afirmació que un país repeteix i que ningú no
 comprova**. Aquest corpus les marca sempre.
 
 ## Buits registrats
 
-1. **La classificació de l'OMS**, verificada contra l'informe.
+1. ~~**La classificació de l'OMS**, verificada contra l'informe.~~ — **`resolt`
+   el 21-09-2026**: l'informe de 2000 situa Andorra **quarta de 191 en
+   rendiment global**; el nivell de *responsiveness* és **28è** i la seva
+   distribució **39è–42è**. La frase sobre la «tercera millor» per facilitat
+   d'accés no correspon a cap d'aquestes files de la taula
+   ([font web](../../../raw/web/societat/sanitat/oms-2000/README.md)).
 2. ~~**Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
    d'aquest.~~ — **`resolt` el 21-09-2026**: el recull històric oficial del
    [SAAS](../../../raw/web/societat/sanitat/cronologia-hospitals/README.md) fixa
