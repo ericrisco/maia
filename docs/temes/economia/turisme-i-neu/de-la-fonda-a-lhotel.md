@@ -216,8 +216,8 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
 
 ## Buits registrats
 
-1. **Quins van ser els intents fallits** de gran centre turístic: qui els
-   proposava, quan, i per què van caure. **Buit gran i molt interessant.**
+1. ~~**Quins van ser els intents fallits** de gran centre turístic: qui els
+   proposava, quan, i per què van caure. **Buit gran i molt interessant.**~~ — **`parcial` el 21-09-2026**: Lacueva descriu nombrosos intents de companyies estrangeres per establir grans hotels i diu que van caure perquè no hi hagué consens ni canvi polític; només el projecte de **Skossyreff (1934)** queda identificat amb casino, turisme de muntanya i inversió estrangera, sense la llista completa d'intents ni els seus promotors.
 2. ~~**Els primers hotels balnearis** d'Escaldes: noms i dates.~~ —
    **`parcial` el 20-09-2026**: les [fonts patrimonials i històriques sobre
    l'hoteleria d'Escaldes](../../../fonts/hotels-balnearis-escaldes.md)
@@ -227,7 +227,7 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
    oferia els beneficis de l'aigua termal d'Escaldes. Encara falta la
    cronologia completa de Paulet, Serra i Palacín i aclarir la denominació de
    Muntanya.
-3. **El termalisme** com a branca.
+3. ~~**El termalisme** com a branca.~~ — **`parcial` el 21-09-2026**: la fitxa situa el centre termal a **Escaldes**, documenta els primers hotels balnearis i els banyistes espanyols de finals del segle XIX, i confirma que l'aigua termal va ser el nucli del projecte; encara no té la història completa, els usos mèdics ni la continuïtat actual.
 4. ~~**Quan arriben els esports d'hivern** i quina estació és la primera.~~ —
    **`parcial` el 2026-09-22**: la cronologia de [les estacions](./estacions/README.md)
    fixa el primer telesquí d'Andorra al **Coll Blanc el 1956**, instal·lat per
