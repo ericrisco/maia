@@ -246,9 +246,9 @@ sentència de batlle **de 1890**:
 2. ~~**Quan els deu dies van passar a ser deu més tres**, **i per quin acte.**~~ —
    **`parcial` el 19-09-2026**: la font diu que el termini **sembla haver estat
    de deu dies**, però no data ni identifica l’acte que hi afegí els tres dies.
-3. **El document del 1760** en què el tribunal refusa la prova testifical «*per
+3. ~~**El document del 1760** en què el tribunal refusa la prova testifical «*per
    no acarrear animas a perdrer*». **Prioritari**: **és la peça més forta
-   d'aquesta unitat i el corpus només en té la frase.**
+   d'aquesta unitat i el corpus només en té la frase.**~~ — **`parcial` el 24-09-2026**: Brutails situa el cas en un procés entre dues parròquies i en transcriu la frase a la nota 4 de la **p. 272** de *La Coutume d'Andorre*; no hi dona el dia, les parts ni la signatura del procés original ([font](../../../fonts/brutails-coutume-1904.md)).
 4. **La sentència del Tribunal Superior** que rebutja el *testis unus, testis
    nullus*: **data, parts i si el criteri va prevaler.**
 5. **La sentència del batlle Jaume Casal del 12 de setembre de 1864** i **la
