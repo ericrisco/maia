@@ -93,7 +93,7 @@ i d'origen desconegut**. **El corpus ho deixa marcat i no ho dona per resolt.**
 
 1. **El castell del puig d'Enclar**: excavacions, restes, què se'n sap.
    **Prioritari** — és un jaciment amb data de demolició documentada.
-2. **La clàusula del segon Pareatge** que el mana enderrocar. **Text literal.**
+2. ~~**La clàusula del segon Pareatge** que el mana enderrocar. **Text literal.**~~ — **`parcial` el 21-09-2026**: el corpus identifica l'ordre d'enderroc del castell d'Enclar i conserva la definició de la *rendableté* —lliurar les places fortes en pau i guerra—, però encara no té la transcripció literal de la disposició de 1288.
 3. **La Torre dels Moros de les Bons**: datació, funció.
 4. **Roc del Castell** i **Castellot de la Moixella**: on són.
 5. Si hi ha **altres topònims** de fortificació.
@@ -152,6 +152,14 @@ d'ocupar-les.** **De la clàusula no en quedava res.**
 
 `Buit que obre: el text de la clàusula de rendableté al Pareatge, i quines places
 fortes hi eren anomenades, si n'hi eren.`
+
+**Aquesta clàusula ja es pot acotar, però no transcriure sencera.** La fitxa del
+[Pareatge](../../historia/pareatge/el-pareatge.md) conserva que la *rendableté*
+era l'**obligació de lliurar, en pau com en guerra, les places fortes del feu**;
+la mateixa fitxa explica que el segon Pareatge ordenava enderrocar el castell que
+el comte de Foix havia començat a Sant Vicenç d'Enclar. El corpus té, doncs, el
+contingut de la regla feudal i el seu cas d'aplicació, però no el **text literal
+de la disposició de 1288** que mana l'enderroc.
 
 ## Related
 
