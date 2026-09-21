@@ -279,24 +279,44 @@ tot aliè.
 
 ## Buits registrats
 
-1. **L'expedient de la comissió de límits del baró de Las Courbières**, **1766-67**,
+1. ~~**L'expedient de la comissió de límits del baró de Las Courbières**, **1766-67**,
    **i la seva decisió.** **Prioritari i nou**: **és el document que fixa el tram
    de frontera anòmal del nord-est.** `Requereix els arxius de la intendència de
-   Perpinyà; el corpus ja té registrada la sèrie C dels Arxius de Perpinyà.`
-2. **Si el suborn del comissari consta en algun lloc.** **La font l'afirma sense
-   cap referència.**
-3. **L'arrêt del Consell del 18 de desembre de 1767**, sencer. **Ara amb data
-   completa i sense text.** **Prioritari.**
-4. **La carta dels administradors de l'Arieja del 22 d'agost de 1793** refusant
-   la qüèstia. **Nou i prioritari**: **és el document que talla el tribut.**
-5. **La requesta andorrana de 1801** i **l'ordenança reial d'abril de 1820.**
-   **Noves.**
-6. **La butlla papal del 25 de desembre de 1879** que autoritza el bisbe a
+   Perpinyà; el corpus ja té registrada la sèrie C dels Arxius de Perpinyà.`~~ —
+   **`parcial` el 22-09-2026**: la fitxa ja conserva la instància, el comissari,
+   el conflicte de pasturatges i la decisió que **la Solana es va adjudicar als
+   andorrans fins a l'Hospitalet**; **l'expedient de la sèrie C no s'ha llegit**.
+2. ~~**Si el suborn del comissari consta en algun lloc.** **La font l'afirma sense
+   cap referència.**~~ — **`parcial` el 22-09-2026**: la font diu que el síndic
+   va pagar i que els notables de Mérens no van reunir els **mil lluïsos**, però
+   la mateixa fitxa ho conserva com **una acusació sense acta, expedient ni xifra
+   del pagament andorrà**.
+3. ~~**L'arrêt del Consell del 18 de desembre de 1767**, sencer. **Ara amb data
+   completa i sense text.** **Prioritari.**~~ — **`parcial` el 22-09-2026**: la
+   fitxa en fixa la data i el contingut —la franquícia d'exportar mercaderies de
+   França sense impost—, però **no en té el text íntegre**.
+4. ~~**La carta dels administradors de l'Arieja del 22 d'agost de 1793** refusant
+   la qüèstia. **Nou i prioritari**: **és el document que talla el tribut.**~~ —
+   **`parcial` el 22-09-2026**: el quadre cronològic conserva la data, els
+   emissors i el motiu jurídic —la qüèstia és feudal i la feudalitat ha estat
+   abolida—; **la carta original no s'ha consultat**.
+5. ~~**La requesta andorrana de 1801** i **l'ordenança reial d'abril de 1820.**
+   **Noves.**~~ — **`parcial` el 22-09-2026**: la fitxa ja en fixa la funció i
+   la seqüència —la requesta demana reprendre les tradicions i nomenar veguer,
+   el decret de **27 de març de 1806** ho concedeix i l'ordenança d'abril de
+   **1820** ho confirma—, però **no conserva cap dels dos textos**.
+6. ~~**La butlla papal del 25 de desembre de 1879** que autoritza el bisbe a
    reprendre la suzeraineté. **Nova i prioritària**: **és la peça que tanca els
-   dotze anys.**
-7. **Com va funcionar el país entre 1868 i 1880** amb un sol veguer: **qui
+   dotze anys.**~~ — **`parcial` el 22-09-2026**: la font dona la data i l'efecte,
+   i la fitxa els vincula amb la represa de la representació episcopal el **1880**;
+   **la butlla no s'ha llegit**.
+7. ~~**Com va funcionar el país entre 1868 i 1880** amb un sol veguer: **qui
    nomenava els batlles de la banda episcopal, si el Tribunal de Corts es reunia,
-   què passava amb l'alternança.** **Prioritari.**
+   què passava amb l'alternança.** **Prioritari.**~~ — **`parcial` el 22-09-2026**:
+   la fitxa estableix que el veguer francès va quedar **sol representant dels dos
+   cosenyors** i relaciona aquesta finestra amb les sentències i decrets de
+   **1874-1877**; **no permet reconstruir els nomenaments episcopals, la reunió
+   del Tribunal ni el funcionament de l'alternança**.
 8. ~~**Qui era el veguer protestant nomenat el 1880** i **quant va durar.**~~ —
    **`parcial` el 21-09-2026**: el relat institucional d'[Història
    d'Andorra](../../../raw/web/historia/veguer-ladeveze/relat-cronologic-08-auge-consell.txt)
@@ -313,8 +333,12 @@ tot aliè.
    diu que va morir **poques setmanes després, de les ferides que tenia**. La
    font resol la disjuntiva a favor de les ferides, però **encara falta
    identificar el condemnat i la causa**.
-10. **El cas de 1885**: **qui era el condemnat, on havia de complir, i l'informe
-    de Papinaud.** `El corpus no nomenaria el condemnat: era un particular.`
+10. ~~**El cas de 1885**: **qui era el condemnat, on havia de complir, i l'informe
+    de Papinaud.** `El corpus no nomenaria el condemnat: era un particular.`~~ —
+    **`parcial` el 22-09-2026**: la fitxa ja fixa la pena de **catorze anys**, que
+    s'havia de complir a França perquè el bisbe no tenia establiment penal, i
+    identifica **M. Papinaud** com a delegat permanent enviat per restablir la
+    calma; **el condemnat i l'informe no són identificats**.
 
 ## Related
 
