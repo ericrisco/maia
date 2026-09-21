@@ -173,9 +173,9 @@ cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
    lectura. L'evidència apunta a una errada de transmissió o impressió en la
    versió de 1904, però el corpus no ha vist els originals en paper i no pot
    atribuir-ne la responsabilitat.
-3. **El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***,
+3. ~~**El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***,
    Madrid, 1895, **pàgina 9**, que és d'on surt la quota. Brutails el cita; el
-   corpus no el té.
+   corpus no el té.~~ — **`parcial` el 24-09-2026**: la [bibliografia de Becat](../../../fonts/becat-bibliografia-carvajal-2019.md) identifica l'obra com **J. de Carvajal**, **Imp. Hijos de M. G. Hernández**, **Madrid, 1895**, **45 pàgines**, **20 cm**, i en descriu l'objectiu duaner i la dedicatòria de la p. 4. El fullet i la taula de la p. 9 encara no són al corpus.
 4. ~~**Els censos posteriors a 1900**, i si es van seguir fent.~~ —
    **`resolt` el 18-09-2026**: **es van seguir fent, i el que hi ha publicat és
    el *Padral*** del Departament d'Agricultura, **comptat cada juny i amb sèrie
