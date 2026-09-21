@@ -489,8 +489,13 @@ el sufragi**, que ja era dels caps de casa.
 6. **Si el requisit de conducta de l'article 1r es va aplicar mai a algú**, i amb
    quin resultat. **`Requereix actes comunals`**, i **aquest corpus no cita noms de
    particulars.** **El que es pot buscar és la decisió, no qui la va patir.**
-7. **Quantes visures es van fallar, i si cap va arribar a tercera instància.** **El
-   corpus té el procediment i cap cas.**
+7. ~~**Quantes visures es van fallar, i si cap va arribar a tercera instància.**~~ —
+   **`parcial` el 2026-09-21**: l’article **13 de la Reforma de 1866** ja fixa
+   les **tres instàncies** —dos cònsols i dos consellers; els deu cònsols de les
+   altres parròquies; i el Consell General amb assessor—, i [Quants notaris](../../institucions/justicia/quants-notaris.md)
+   identifica **cinc visures dins de sis transaccions de 1875–1877**. **El
+   corpus encara no té el recompte de causes ni cap cas que provi l’arribada a
+   la tercera instància.**
 8. **Si els comuns van complir la disposició d'anar a buscar els costums**, i **si
    en va quedar cap inventari.** **Prioritari**: **seria la llista dels papers que
    el 1866 hi havia a les cases.**
