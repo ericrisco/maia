@@ -770,9 +770,9 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    l'article 62.2 reserva els escons de resta a les candidatures **«que ja
    tinguessin representació»**. **Una llista per sota del quocient no entra al
    repartiment de restes.**
-7. **La Llei de competències i transferències**, l'única vegada citada en què la
-   distinció territorial/nacional va comptar.
-8. **Verificar** que els consellers territorials voten sempre amb el seu grup.
+7. ~~**La Llei de competències i transferències**, l'única vegada citada en què la
+   distinció territorial/nacional va comptar.~~ — **`parcial` el 21-09-2026**: la fitxa identifica aquesta llei com l'únic exemple que la font dona d'una votació on va comptar la distinció territorial/nacional; el corpus no té encara l'expedient ni la votació concreta.
+8. ~~**Verificar** que els consellers territorials voten sempre amb el seu grup.~~ — **`parcial` el 21-09-2026**: la font afirma que els **14 consellers territorials** s'han unit als **14 nacionals** en totes les votacions, independentment de la relació amb el territori; la fitxa encara no ha repassat les votacions una per una.
 9. ~~**El cens electoral per parròquia** avui, per veure si la desviació del
    400% s'ha mogut.~~ `resolt` **Sí, i poc: del 393% del 2011 al 357% del
    2023**, amb **les mateixes dues parròquies de set** dins del marge

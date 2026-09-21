@@ -324,7 +324,7 @@ un mestre de noys y un de noyes en cada paroquia.»**
    Electoral, adoptada pel Consell General de les Valls l'any 1987». És
    anterior al BOPA, que comença el 1989, i per tant no és a la via que el
    corpus té oberta: és material de l'arxiu del Consell General.`
-6. **Si les parròquies tenien mestre i mestra el 1899**, i quantes.
+6. ~~**Si les parròquies tenien mestre i mestra el 1899**, i quantes.~~ — **`parcial` el 21-09-2026**: el text de la Reforma ja transcrit ordena «posar un mestre de noys y un de noyes en cada paroquia» tan aviat com sigui possible; el corpus no documenta si l'obligació ja s'havia executat el 1899 ni el nombre efectiu de mestres.
 7. **La *gambeto***: si se'n conserva cap, i des de quan es fa servir.
 
 ## Related
