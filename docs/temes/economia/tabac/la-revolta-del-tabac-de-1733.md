@@ -221,12 +221,12 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
    1733. **Tercera, que el Consell no actua contra el bisbe sinó amb ell, i
    invocant la seva pròpia jurisdicció.** **La revolta del 1733 no esclata
    contra una prohibició nova: esclata contra la quarta.**
-3. **La instructa de c. 1790** i si és el «decret de Boltàs» de la tradició.
+3. ~~**La instructa de c. 1790** i si és el «decret de Boltàs» de la tradició.~~ — **`parcial` el 21-09-2026**: Mas situa una instructa episcopal cap al **1790** que limita el conreu al consum propi i el corpus identifica **Josep Boltas** com el copríncep d'aquell any; queda oberta la identificació documental de la instructa i si és el decret tradicionalment atribuït a Boltàs.
 4. **On és el Puialt.** El topònim apareix com «el Puialt d'Andorra» i el corpus
    no l'ha situat ([toponímia](../../territori/toponimia/toponimia-andorrana.md)).
-5. **Quant és una arrova** de tabac.
-6. **Què va passar amb els dos capturats pels duaners espanyols** el 1757. La
-   font només segueix els que van tornar.
+5. ~~**Quant és una arrova** de tabac.~~ — **`resolt` el 21-09-2026**: la taula de mesures del corpus equival una arrova a **26 lliures**, és a dir, **10,400 kg** ([les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md)).
+6. ~~**Què va passar amb els dos capturats pels duaners espanyols** el 1757. La
+   font només segueix els que van tornar.~~ — **`parcial` el 21-09-2026**: la font conserva que dos dels cinc homes van ser capturats pels duaners espanyols i que els tres restants van tornar a Andorra, però no dona l'acte ni el desenllaç dels dos capturats.
 7. ~~**Si el Consell General va tornar a jutjar mai res.** Mas diu que se n'ha
    conservat **una sola sentència**: no diu que només en dictés una.~~ —
    **`parcial` el 17-09-2026, i cal precisar la pregunta abans de respondre-la.**
