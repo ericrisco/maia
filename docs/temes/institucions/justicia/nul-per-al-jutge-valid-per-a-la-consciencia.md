@@ -190,28 +190,46 @@ sempre**, i **«ab jurament llargament» és, el 1904, tinta i prou.**
 
 ## Buits registrats
 
-1. **El dossier del cas de 1845**: **Archives de l'Ariège, Andorre, lligall 2**.
+1. ~~**El dossier del cas de 1845**: **Archives de l'Ariège, Andorre, lligall 2**.
    `obert, amb signatura.` **És la tercera peça que el corpus busca en aquell
    mateix lligall**, amb **el dossier de 1846 sobre els decrets del Consell**
    ([segons les lleis i costums immemorials](../consell-general/segons-les-lleis-i-costums-immemorials-del-pais.md))
    i **el nomenament de procurador del 22 de juny de 1805**
-   ([vuitanta pessetes](../consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)).
-2. **El decret del Consell Sobirà del Rosselló del 18 de desembre de 1772.**
-   `obert, datat.`
-3. **Les sentències catalanes de 1875, 1876 i 1879** citades per Brocá i Amell.
-   `obert.`
-4. **La constitució de 1302** sobre el jurament dels menors de vint-i-cinc anys,
-   *Pragmaticas y altres drets*, IV, iv, 2, p. 84. `obert, amb referència.`
-5. **El registre del notari Soldevila**, d'on surt l'afer de 1792-1793. `obert,
-   prioritari: és una sèrie notarial identificada per nom.`
+   ([vuitanta pessetes](../consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)).~~ —
+   **`parcial`**: la fitxa confirma la signatura **Archives de l'Ariège, Andorre,
+   lligall 2** i el contingut processal del cas —la negativa del batlle i la
+   intervenció del Jutge d'apel·lacions francès—. **El dossier físic continua
+   pendent de consulta.**
+2. ~~**El decret del Consell Sobirà del Rosselló del 18 de desembre de 1772.**
+   `obert, datat.`~~ — **`parcial`**: la fitxa en dona la data i l'efecte: el
+   Consell Sobirà **prohibeix als notaris inserir el jurament** i declara que les
+   renúncies valen com a convencions consentides. **El text íntegre i la peça
+   d'arxiu continuen pendents.**
+3. ~~**Les sentències catalanes de 1875, 1876 i 1879** citades per Brocá i Amell.
+   `obert.`~~ — **`parcial`**: la fitxa confirma que Brocá i Amell les cita per
+   sostenir que, abans de rescindir un contracte jurat, cal l'aixecament del
+   jurament per l'autoritat eclesiàstica. **Les sentències i les seves dades
+   completes continuen pendents.**
+4. ~~**La constitució de 1302** sobre el jurament dels menors de vint-i-cinc anys,
+   *Pragmaticas y altres drets*, IV, iv, 2, p. 84. `obert, amb referència.`~~ —
+   **`parcial`**: la fitxa la identifica per obra, llibre, títol i pàgina, i n'explica
+   l'efecte: el menor que vol anul·lar el contracte ha de fer aixecar abans el
+   jurament diocesà. **La constitució sencera continua pendent.**
+5. ~~**El registre del notari Soldevila**, d'on surt l'afer de 1792-1793. `obert,
+   prioritari: és una sèrie notarial identificada per nom.`~~ — **`parcial`**: la
+   fitxa identifica **el notari Soldevila** i en reconstrueix sis moments entre
+   l'1 de gener de 1792 i el 14 d'agost de 1793. **El registre sencer i la seva
+   signatura d'arxiu continuen pendents.**
 6. **El desenllaç d'aquell procés.** **La font declara que les seves notes no en
    diuen res.** `obert, i és una limitació declarada de la font.`
 7. **Quantes «lletres de relaxació de jurament» va despatxar el tribunal del
    vicari general d'Urgell** per a afers andorrans, i **si se'n conserva la
    sèrie.** `obert, prioritari.` `Requereix font externa: l'Arxiu Diocesà
    d'Urgell.`
-8. **Si el jurament dels menors de vint-i-cinc anys va sobreviure al 1904**, i
-   **fins quan.** `obert.`
+8. ~~**Si el jurament dels menors de vint-i-cinc anys va sobreviure al 1904**, i
+   **fins quan.** `obert.`~~ — **`parcial`**: la fitxa estableix que el 1904 era
+   **l'únic cas d'antic jurament que encara es practicava davant notari**. **No
+   consta fins quan va sobreviure després de 1904.**
 
 **Un buit de la font no és un buit del món.** Que **Brutails no sàpiga com va
 acabar el plet de 1793** és una limitació de les seves notes, **no una prova que
