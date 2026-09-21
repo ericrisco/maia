@@ -149,7 +149,12 @@ l'**hostal arrendat pels seus avantpassats**.
 2. **El text d'una taba** sencera.
 3. ~~**Per què desapareixen** exactament als anys 1920-1930.~~ — **`parcial` el 21-09-2026**: la fitxa documenta els hostals comunals i el seu context, però **no té una font que expliqui el moment i la causa concreta de la desaparició**.
 4. **Quants llits** tenia un hostal comunal.
-5. Si **totes** les parròquies en van tenir, i des de quan.
+5. ~~Si **totes** les parròquies en van tenir, i des de quan.~~ — **`parcial`
+   el 21-09-2026**: Lacueva documenta el primer arrendament conegut a **Canillo
+   (mitjan segle XVI)** i dóna activitat d'hostal a **Sant Julià, Ordino,
+   Escaldes i Andorra la Vella**; la font només diu que probablement n'hi havia
+   un a cada parròquia i no aporta encara la prova ni la data per a **Encamp i
+   la Massana**.
 6. **Els preus d'arrendament**, com a sèrie.
 7. **Què passava** si un foraster dormia en una altra casa.
 
