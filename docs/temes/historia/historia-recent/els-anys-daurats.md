@@ -228,7 +228,7 @@ concret que la branca d'història té: sis títols amb autor i any.**
 ## El que falta
 
 - ~~**Les sis obres de la bibliografia.**~~ — **`parcial` el 2026-09-21**: la [fitxa bibliogràfica](../../../fonts/anys-daurats-bibliografia-2026.md) confirma les sis referències amb dades editorials: **Comas** (Pagès, 2002, 400 pàgines, ISBN 978-84-7935-952-2), **Bricall** (publicat l'abril de 2001), **Lluelles** (2004, 559 pàgines, i l'obra de 1991 ja fitxada), **Rocha Simões** (2019, 274 pàgines, ISBN 9788413311791) i **Memòries de la construcció de l'avinguda de Meritxell** (Comú d'Andorra la Vella, 2019, 89 pàgines, ISBN 978-99920-3-206-0). Cap dels sis llibres s'ha buidat encara.
-- **Xavier de Plandolit** i la revista ***Andorra Agrícola***.
+- ~~**Xavier de Plandolit** i la revista ***Andorra Agrícola***.~~ — **`parcial` el 2026-09-21**: la [fitxa institucional](../../../fonts/plandolit-andorra-agricola-2009.md) identifica **Pau Xavier Areny de Plandolit i de Plandolit**, situa l'inici de *La Ciència Agrícola* el **1914** i confirma que més endavant va crear la revista mensual il·lustrada *Andorra Agrícola*, dedicada a l'avicultura, l'agricultura, les indústries rurals, la ramaderia i l'apicultura. Encara falta consultar la col·lecció de la revista i precisar-ne les dates.
 - ~~**Gil Torres**~~ — **`parcial` el 18-09-2026**: **l'Automòbil Club
   d'Andorra, que hauria impulsat, es va constituir exactament el 25 de maig
   de 1954** ([font](../../../fonts/mobilitat-ad-aca-1954-2017.md)). **Gil
