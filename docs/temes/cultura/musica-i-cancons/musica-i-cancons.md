@@ -31,7 +31,13 @@ I això és tot el que aquesta recerca ha pogut documentar.
   Carnaval** i **15 peces religioses**— i el volum posterior *Andorra: Cançons
   de vetllades vora el foc* (2017). El corpus encara no ha escoltat els àudios
   ni pot atribuir cada cançó, cantant o ocasió.
-- Les **cobles** i els músics.
+- ~~Les **cobles** i els músics.~~ — **`parcial` el 21-09-2026**: [L'IAEM i el
+  1980](./liaem-i-el-1980.md) situa als anys quaranta una cobla formada sota el
+  **Sr. Pantebre**, que tocava **flabiol i tamborí**; [la Marratxa](../../costums/danses/la-marratxa.md)
+  conserva la cadena de **Ricard Mas**, **Daniel Areny** i **Isidre Marbà** per
+  a la tonada i la coreografia fixades als anys seixanta, i [el contrapàs](../../costums/danses/el-contrapas.md)
+  confirma que s'hi toca amb cobla en directe. Encara falta el repertori i la
+  nòmina completa de cobles i músics, amb la seva continuïtat.
 - ~~L'himne nacional, *El Gran Carlemany*, que no té fitxa enlloc del corpus.~~ —
   **`resolt` el 18-09-2026**: [El Gran Carlemany](../../institucions/simbols/el-gran-carlemany.md)
   ja té fitxa pròpia amb autors, adopció i oficialització.
