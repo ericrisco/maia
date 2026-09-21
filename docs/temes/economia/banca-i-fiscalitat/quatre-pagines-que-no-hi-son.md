@@ -300,9 +300,12 @@ la terra per sempre.**
    **`resolt`**: **terra del mateix venedor, que aleshores ja posseïa la
    vicaria perpètua d'Ordino.** **Tres de les quatre afrontacions són
    eclesiàstiques.**
-5. **Qui era «*lo noble D. Guillem de Areny*»**, d'Ordino, 1788, **i quina
-   relació té amb els altres Areny que el corpus té registrats.**
-   **`El corpus no n'afirma cap.`**
+5. ~~**Qui era «*lo noble D. Guillem de Areny*»**, d'Ordino, 1788, **i quina
+   relació té amb els altres Areny que el corpus té registrats.**~~ — **`parcial`
+   el 2026-09-21**: l'acte ja l'identifica com **«lo noble D. Guillem de Areny»**,
+   resident a **Ordino** i amb tractament de **noble** i **don** el **1788**; el
+   corpus també conserva altres Areny en càrrecs o actes de la parròquia.
+   **Encara no estableix cap relació genealògica entre aquestes ocurrències.**
 6. **Quantes parcel·les havia venut aquell pagès d'Ansalonga a l'església de Sant
    Martí de la Cortinada**, i **si les va recuperar mai** pel pacte de gràcia.
 7. ~~**Si els rèdits d'una parròquia es podien col·locar lliurement** o **hi havia
