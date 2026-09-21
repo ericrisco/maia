@@ -154,7 +154,7 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
    Setmana Santa, amb els seus càrrecs per al trienni **1948-1950**. **Qui dati
    el sufragi pel Consell que en resulta, i no pel decret que el restableix,
    escriurà 1948.** **Hipòtesi del corpus, no de les actes.**
-5. **El sufragi censatari de 1866** i com funcionava exactament.
+5. ~~**El sufragi censatari de 1866** i com funcionava exactament.~~ — **`parcial` el 21-09-2026**: [la fitxa del Consell Obert](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md) documenta que abans de la Reforma votaven els caps de casa —i, segons la font llegida, els de casa antiga que representaven un *foch*—, i que el 1866 la reforma va canviar l'elecció dels consellers; el corpus no té encara el règim censatari complet article per article.
 6. ~~**Els tribunals superiors de la Mitra i de Perpinyà** (1888).~~ — **`parcial` el 21-09-2026**: [la fitxa sobre la justícia d'abans](../../institucions/justicia/la-justicia-dabans.md) situa el Tribunal Superior d'Andorra a Perpinyà com a darrera instància de les sentències del jutge d'apel·lacions i el Tribunal Superior de la Mitra d'Urgell com a recurs de revisió; el de Perpinyà funciona del **13 de juliol de 1888 al 31 de desembre de 1993**. El corpus encara no té els textos dels decrets francesos de 1888 i 1898.
 
 ## Related
