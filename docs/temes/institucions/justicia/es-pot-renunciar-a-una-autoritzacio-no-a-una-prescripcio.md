@@ -222,16 +222,21 @@ quan l'ús va deixar de practicar-se.`
 
 ## Buits registrats
 
-1. **Les dues vendes del 13 d'abril i el 15 de juny de 1788** amb la renúncia a
-   l'*engany de mitges*, senceres. **Brutails no en dona signatura d'arxiu.**
-   `obert, datat.`
+1. ~~**Les dues vendes del 13 d'abril i el 15 de juny de 1788** amb la renúncia a
+   l'*engany de mitges*, senceres. **Brutails no en dona signatura d'arxiu.**~~ —
+   **`parcial`**: la fitxa ja conserva **les dues dates** i la clàusula de
+   renúncia a la llei que protegia els venedors lesionats en més de la meitat del
+   preu. **Els actes sencers i les signatures d'arxiu continuen pendents.**
 2. **L'estudi de Meynial**, *Des renonciations au moyen âge et dans notre ancien
    droit*, ***Nouvelle revue historique du droit*, 1900-1902**. `obert, amb
    referència completa.`
 3. **Brocá i Amell**, *Instituciones del derecho civil catalán*, **2a ed., t. II,
    p. 151**. `obert, amb referència completa.`
-4. **La sentència del batlle francès** sobre el pagament dels salaris com a
-   obligació sagrada. **Sense data ni nom.** `obert.`
+4. ~~**La sentència del batlle francès** sobre el pagament dels salaris com a
+   obligació sagrada. **Sense data ni nom.**~~ — **`parcial`**: la fitxa conserva
+   el principi de la sentència —**el pagament dels salaris és una obligació
+   sagrada**— i que l'autoritat era **un batlle francès**, però **no en té el nom,
+   la data ni el plet.**
 5. ~~**Quantes de les renúncies de la llista eren realment operatives** el 1904, i
    **quines eren pur formulisme heretat**.~~ — **`parcial` el 18-09-2026**:
    **la font en resol una —el benefici d'ordre i divisió— i deixa les altres sis
@@ -242,9 +247,12 @@ quan l'ús va deixar de practicar-se.`
    20-09-2026**: el passatge descriu la fórmula però no identifica cap acte
    concret que la documenti.
 7. **Si els tribunals andorrans van anul·lar mai cap d'aquests actes.** `obert.`
-8. **Què és exactament la «nova constitució»** i **el «costum de Barcelona»** a
-   què es renunciava, i **per què renunciar-hi feia l'obligació solidària.**
-   `obert.`
+8. ~~**Què és exactament la «nova constitució»** i **el «costum de Barcelona»** a
+   què es renunciava, i **per què renunciar-hi feia l'obligació solidària.**~~ —
+   **`parcial`**: la fitxa els identifica com els **beneficis que protegien les
+   parts quan hi havia diversos obligats** i explica que la renúncia els
+   convertia en **obligació solidària**. **Continuen oberts el text i l'abast
+   exacte de cadascuna de les dues fonts.**
 
 **Un buit de la font no és un buit del món.** Les set renúncies de la llista
 **estaven escrites a milers d'escriptures andorranes**, i **la que la font resol la
