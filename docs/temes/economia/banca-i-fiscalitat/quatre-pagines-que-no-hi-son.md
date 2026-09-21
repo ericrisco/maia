@@ -306,8 +306,14 @@ la terra per sempre.**
    resident a **Ordino** i amb tractament de **noble** i **don** el **1788**; el
    corpus també conserva altres Areny en càrrecs o actes de la parròquia.
    **Encara no estableix cap relació genealògica entre aquestes ocurrències.**
-6. **Quantes parcel·les havia venut aquell pagès d'Ansalonga a l'església de Sant
-   Martí de la Cortinada**, i **si les va recuperar mai** pel pacte de gràcia.
+6. ~~**Quantes parcel·les havia venut aquell pagès d'Ansalonga a l'església de
+   Sant Martí de la Cortinada**, i **si les va recuperar mai** pel pacte de
+   gràcia.~~ — **`parcial` el 2026-09-21**: l’acte del **18 de desembre de 1788**
+   documenta la venda d’un tros de terra al camp del Sero i, en una afrontació,
+   identifica una **parcel·la contigua del mateix venedor que l’església ja
+   posseïa**. El corpus pot provar **com a mínim dues parcel·les** venudes a
+   Sant Martí, però **no conserva cap prova que el pagès les recuperés** pel
+   pacte de gràcia.
 7. ~~**Si els rèdits d'una parròquia es podien col·locar lliurement** o **hi havia
    norma sobre en què.**~~ — **`parcial` el 18-09-2026**: **el corpus té dos
    actes de 1788**, però **cap regla que permeti generalitzar la pràctica**.
