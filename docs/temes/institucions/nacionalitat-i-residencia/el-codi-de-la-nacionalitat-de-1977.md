@@ -305,7 +305,7 @@ les quatre fa perdre l'andorrana.
 
 ## El que falta
 
-- **El text del Codi del 1977** i de la Llei del 1985, sencers. **Prioritari.** —
+- ~~**El text del Codi del 1977** i de la Llei del 1985, sencers. **Prioritari.** —
   **`obert` el 17-09-2026, i amb la via del [BOPA](../../../fonts/bopa.md)
   descartada.** **El Butlletí comença el 1989** i no en publica cap dels dos:
   cercant-hi «Codi de la nacionalitat» només tornen quatre documents, i són
@@ -313,7 +313,12 @@ les quatre fa perdre l'andorrana.
   més antiga que el Butlletí serveix en aquesta matèria és la Llei qualificada de
   la nacionalitat del 3 de setembre del 1993.** `Requereix l'arxiu del Consell
   General: aquests dos textos són anteriors a la publicació oficial i només hi
-  poden ser.`
+  poden ser.`~~ — **`parcial` el 2026-09-21**: el [DCG 13/1992](../../../fonts/consell-general-dcg-13-1992.md)
+  del Consell General confirma la traça parlamentària del **Codi de l'11 de
+  març de 1977** i de la seva modificació de **1985**, i la pàgina oficial
+  ofereix el diari de la sessió del 27 d'octubre de 1992. La pàgina diu «8 de
+  setembre» i la llei de 1993 diu «7 de setembre»; cap de les dues fonts no
+  reprodueix els textos sencers.
 - ~~**La Llei qualificada de la nacionalitat del 5 d'octubre de 1995**, que és la
   que va derogar tot això, i **què en va conservar**.~~ `resolt` el 17-09-2026,
   **i la premissa era mig falsa: la que va derogar allò és la del 1993** — vegeu
