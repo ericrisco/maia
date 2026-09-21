@@ -227,9 +227,12 @@ l'encadenament.**
 6. **Si la designació «*la casa y hort de [el deutor difunt]*» era la
    denominació oficial** o **una identificació d'aquell acte.**
    `Requereix creuar amb els capbreus.`
-7. **Guillem Carreu**, **notari públic de les Valls, documentat el 1444 i el
+7. ~~**Guillem Carreu**, **notari públic de les Valls, documentat el 1444 i el
    1456**: **quins protocols seus es conserven.** **Prioritari**: **seria la
-   sèrie notarial andorrana més antiga que el corpus tindria identificada.**
+   sèrie notarial andorrana més antiga que el corpus tindria identificada.**~~ —
+   **`parcial` el 21-09-2026**: el corpus conserva un acte del **20-10-1444**
+   amb Carreu com a notari i l'escriptura del **24-05-1456** que el cita com a
+   *quondam notari*; encara no hi ha inventari dels seus protocols.
 8. ~~**Si el tipus del cinc per cent era general abans de 1854** o **si aquestes
    dues escriptures són coincidència.**~~ **`parcial`**: el corpus té dos casos
    independents del mateix any i amb imports diferents, prou per documentar
