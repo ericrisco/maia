@@ -176,9 +176,12 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
 
 1. **Què és la data de 1580 del portal de la Casa de la Vall.** **La font ho dona
    com a hipòtesi.** **Nou.**
-2. **Des de quan i fins quan els consellers s'allotjaven a la Casa de la Vall**,
-   i **què costava al Consell.** **Nou i prioritari**: **el corpus té el
-   pressupost del Consell per altres vies i cap partida d'allotjament.**
+2. ~~**Des de quan i fins quan els consellers s'allotjaven a la Casa de la Vall**,
+   i **què costava al Consell.**~~ — **`parcial` el 21-09-2026**: el testimoni
+   de **1918** explica que els consellers s’hi allotjaven mentre acudien a
+   celebrar els Consells, que hi vivien i que les despeses eren **a càrrec del
+   Consell General**. Encara no hi ha una sèrie que fixi des de quan i fins quan
+   es va mantenir la pràctica ni el seu cost.
 3. **Un acte del Consell Obert on un cap de casa en demani la convocatòria**,
    que és el que confirmaria la lectura del dipòsit com a residu.
 4. ~~**Si el mer i mixt imperi és dels senyors o dels veguers.**~~ — **`parcial`
