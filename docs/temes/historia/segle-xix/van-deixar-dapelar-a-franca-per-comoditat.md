@@ -247,9 +247,14 @@ la força**, perquè **la sola unió seria força moral suficient**; en els dos 
    conserva quatre fragments llatins —les conclusions **1a i 12a**, la regla
    d'apel·lació i la del notari—, però les altres conclusions i el document
    complet encara no s'han llegit.
-2. **El privilegi de la *cisena*** donat pel **bisbe Urries** i restaurat pel
+2. ~~**El privilegi de la *cisena*** donat pel **bisbe Urries** i restaurat pel
    **bisbe Capella**. **Sense data ni text.** **Prioritari**: el corpus té la
-   institució pel Politar i no el privilegi.
+   institució pel Politar i no el privilegi.~~ — **`parcial` el 21-09-2026**:
+   la fitxa i el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+   identifiquen la *cisena* com la llista de sis prohoms, un per parròquia,
+   que el Consell proposava per proveir una batllia vacant, i confirmen que el
+   privilegi el donà Urries i el restaurà Capella; encara falten la data i el
+   text.
 3. **Si el privilegi de la *cisena* va ser mai confirmat pel comte** o va quedar
    sempre unilateral.
 4. **Quan i com els bisbes es van oposar a la residència del veguer francès.**

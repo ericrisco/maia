@@ -163,8 +163,12 @@ a Andorra, la manera més ràpida de perdre una protecció.**
    documents apareix**.~~ — **`parcial` el 19-09-2026**: la font diu que és
    esmentada en **«alguns documents de les Valls»**, però que són **«tan rars»**
    que no en cita cap ni la considera dret del país.
-2. **Si la clàusula de les 50 lliures feia realment la funció de la
-   trebel·liànica.** **És una pregunta de l'autor, no una conclusió.**
+2. ~~**Si la clàusula de les 50 lliures feia realment la funció de la
+   trebel·liànica.** **És una pregunta de l'autor, no una conclusió.**~~ —
+   **`parcial` el 21-09-2026**: la fitxa conserva la hipòtesi de Brutails que la
+   clàusula podria fer la funció de la quarta trebel·liànica, definida com la
+   quarta part que l'hereu gravat pot retenir; no hi ha document que provi que
+   aquesta fos la funció efectiva a Andorra.
 3. ~~**Si la xifra de 50 lliures era estàndard** o **variava amb la casa**.~~ — **`parcial` el 21-09-2026**: la font dona una fórmula model de **50 lliures** per a la clàusula, però el corpus no té prou cases per saber si era una quantia fixa o adaptada a cada patrimoni.
 4. ~~**Fins a quants graus s'encadenaven de fet les substitucions**, si no hi havia
    límit legal.~~ — **`parcial` el 18-09-2026**: **el corpus documenta cadenes

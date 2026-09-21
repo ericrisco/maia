@@ -242,8 +242,12 @@ l'adquirent per les reparacions, *adobs***.
    el 19-09-2026**: el glossari ja fixa el significat jurídic i la fracció; queda
    oberta només la lectura de la secció de la font que ho aplica al cas de Z.
 7. **Quina *sacristania* era la de la compra de 1760**, i **de quina parròquia.**
-8. **Si la classificació dels *sabis* en tres menes de millores** té **cap base
-   escrita** o **és doctrina oral.**
+8. ~~**Si la classificació dels *sabis* en tres menes de millores** té **cap base
+   escrita** o **és doctrina oral.**~~ — **`parcial` el 21-09-2026**: el
+   [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+   conserva la classificació local en **necessàries, útils i d'agrado**, i la
+   fitxa l'atribueix als *sabis*; no hi ha cap text escrit que n'acrediti la
+   base ni cap sentència citada.
 9. ~~**Quantes vendes portaven clàusula de millores** i **quantes no.**~~ —
    **`parcial` el 2026-09-19**: **la font només parla d'un «nombre de ventes»**;
    **confirma que n'hi havia més d'una, però no dona ni el recompte ni el total
