@@ -172,8 +172,10 @@ desenvolupament. Aquí surt al revés, i el corpus no en té l'explicació.`
 - ~~**Només hi ha 2022 i 2024.** **El 2023 no existeix a cap taula**, i **abans
   del 2022 no hi ha res.**~~ — **`no-es-buit`**: és una limitació de la sèrie
   publicada, no una pregunta de recerca.
-- **Cap comparació internacional.** **Sense el mateix indicador d'un altre
-  país, un 0,37% del PIB no es pot qualificar.** `font_externa`
+- ~~**Cap comparació internacional.**~~ — **`font_externa`, confirmat el
+  22-09-2026**: el corpus conserva el **0,37% del PIB** andorrà, però no té cap
+  país comparable amb el mateix indicador i any; la qualificació requereix una
+  sèrie estadística externa homogènia.
 - ~~**Per què la indústria passa de 3,22 M€ a 0,66 M€**~~ — **`parcial` el
   20-09-2026**: la taula dona **3,22 M€ el 2022** i **0,66 M€ el 2024**
   (**657.000 €** en el valor desglossat), una caiguda de cinc vegades. La

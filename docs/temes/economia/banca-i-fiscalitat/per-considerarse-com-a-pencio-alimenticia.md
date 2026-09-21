@@ -206,8 +206,10 @@ com a buit «quan va desaparèixer el violari».**
 
 ## Buits registrats
 
-1. **La data exacta i el lloc de l'acte.** **L'editor els ha buidat** i **dona
-   «1870-1880» com a forquilla seva.** **El corpus no data la peça.**
+1. ~~**La data exacta i el lloc de l'acte.**~~ — **`font_externa`, confirmat el
+   22-09-2026**: l'editor només dona la forquilla **«1870-1880»** i no publica
+   ni el lloc ni una data més precisa; cal consultar el registre o l'exemplar
+   bibliogràfic de procedència.
 2. ~~**El contingut de la llei ***Si convenerit ut alias***, *ff.*, ***De jurisdictione omnium judicum***, i d'***Ubi acceptum est semel juditium***.~~ — **`parcial` el 21-09-2026**: l'escriptura identifica els tres títols del Digest i els utilitza per justificar les renúncies de competència, però el corpus no n'ha comprovat el text literal.
 3. ~~**Si la inembargabilitat dels aliments existia a Andorra com a categoria
    jurídica.** **Buit obert a `avui-trec-penyores`.**~~ — **`parcial` el
