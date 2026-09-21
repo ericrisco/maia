@@ -73,10 +73,14 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   18-09-2026**: el bolcat de l'edició ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki),
   Viquipèdia, CC BY-SA 4.0) dona **carrabina d'aire de 10 m, 396,9 punts,
   51a**, sense avançar; **hi va anar per invitació de la Comissió Tripartita**.
-- **On va néixer** i el club — **`obert`, confirmat** —; ~~el palmarès~~ —
-  **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de 10 m a
-  Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la font li
-  dona.**
+- ~~**On va néixer** i el club.~~ — **`parcial`**: el lloc de naixement continua
+  sense constar, però el Club de Tiro Olímpico de Barcelona inclou **Esther
+  Barrugués Alviñá** entre els seus tiradors olímpics i la Federació Andorrana
+  de Tir la identifica com a **vocal i delegada de tir de precisió**
+  ([fonts web](../../../raw/web/esport/esther-barrugues/README.md)). ~~**El
+  palmarès**~~ — **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de
+  10 m a Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la
+  font li dona.**
 - ~~**Francesc Repiso Romero**, tirador a Atenes 2004, **de qui el corpus només
   té el nom i la posició**. **No hi ha entrada d'enciclopèdia.**~~ — **`resolt`
   el 20-09-2026**: el corpus ja té [la fitxa pròpia de Francesc Repiso
