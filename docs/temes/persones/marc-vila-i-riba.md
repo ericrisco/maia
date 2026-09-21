@@ -65,8 +65,15 @@ de les Escaldes.
    la Justícia (1999-2005).**~~ — **`parcial` el 20-09-2026**: la fitxa ja
    fixa el mandat de **1999 a 2005**, però el corpus encara no conserva cap
    decisió, memòria o actuació concreta que se li pugui atribuir.
-2. **El contingut del seu pròleg al Politar del 1982**, encara no
-   consultat pel corpus.
+2. ~~**El contingut del seu pròleg al Politar del 1982**, encara no
+   consultat pel corpus.~~ — **`parcial` el 21-09-2026**: la transcripció de la
+   31a Diada Andorrana reprodueix a la **p. 153** una citació que atribueix al
+   pròleg de **M. Vila i Riba** de l'edició del **1983**: els andorrans no
+   obeïen els ministres de França o Espanya, recorrien a les Corts dels grans
+   monarques i no toleraven cap lesió de la seva neutralitat. La font no
+   conserva el pròleg sencer i la data **1982/1983** queda divergent. Vegeu
+   [*Consciència nacional andorrana*](../../fonts/pol-consciencia-nacional.md)
+   i el text local de `docs/raw/sac-diades/31a-2018-el-parlamentarisme-andorra.txt`.
 
 ## Related
 
