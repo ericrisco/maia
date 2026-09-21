@@ -162,7 +162,7 @@ aquest.
    situa el **Consell de la UE** aprovant l’acord el **16 de juliol de 2026**,
    amb la signatura dels 27 estats encara prevista. Falta la seqüència de
    reconeixement o relacions de cada estat membre.
-4. **L'estat actual** de la qüestió del català a les institucions europees.
+4. ~~**L'estat actual** de la qüestió del català a les institucions europees.~~ — **`parcial` el 21-09-2026**: les pàgines de la [Representació de la Comissió Europea a Barcelona](../../../raw/web/cultura/andorra-vista-de-fora/catala-ue/README.md) i de la Generalitat descriuen el català com a **llengua no oficial de la UE**, amb **ús administratiu limitat** mitjançant acords amb Espanya. La Generalitat documenta la sol·licitud espanyola del **17 d’agost de 2023** per incorporar català, basc i gallec al règim lingüístic de la UE; les fonts consultades **no acrediten que la reforma s’hagi aprovat**.
 5. ~~Si aquesta **por s'ha confirmat o dissipat** en vint anys.~~ —
    **`parcial` el 21-09-2026**: les dades posteriors situen la població de
    nacionalitat estrangera en **54,7 % el 2024** i **55,3 % el 2025**, mentre
