@@ -93,6 +93,14 @@ la Nova Reforma no és del bisbe.**
 períodes sagnants del corpus: **1868-1878** i **1883-1886** cauen tots dos
 després del 1866 i tots dos sota successors de Caixal.
 
+**El nom que el corpus pot posar-hi és Salvador Casañas.** **És el successor
+immediat de Caixal** i ja consta com a bisbe des del **1879**; el corpus també
+conserva la seva reivindicació del **12 d'agost de 1894**, amb autorització
+prèvia per a obres i establiments i amb l'exigència que Andorra no tractés amb
+cap govern sense el bisbe ([la ruptura de relacions](../../institucions/justicia/te-rao-el-mes-fort-o-el-mes-avisat.md), [les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)).
+**Això documenta un successor i una actuació concreta, però no permet reconstruir
+encara tota la successió ni atribuir als altres bisbes cadascun dels disturbis.**
+
 ## I a sota, una economia que s'ensorra
 
 La font no ho deixa en política. Hi posa la base material:
@@ -139,7 +147,7 @@ cases es van perdre i quines.
 - **Què vol dir «anfochs»**, d'on ve la paraula, i qui eren. **Prioritari.**
 - **Qui eren els casalers** en el conflicte, més enllà del dret de participació
   del 1866.
-- **Els successors de Caixal**: noms, dates i què van fer exactament.
+- ~~**Els successors de Caixal**: noms, dates i què van fer exactament.~~ — **`parcial` el 21-09-2026**: el corpus identifica **Salvador Casañas** com a successor immediat des del **1879** i conserva la seva reivindicació política del **1894**; **no hi ha encara la llista completa de successors ni una atribució documental de cada conflicte**.
 - ~~**La biografia de Josep Caixal**: quan va ser bisbe, què li va passar amb les
   guerres carlines, i quan va morir.~~ — **`resolt` el 18-09-2026**: **ara té
   fitxa**, a [persones/josep-caixal](../../persones/josep-caixal.md) — **bisbe i
