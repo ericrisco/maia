@@ -43,7 +43,7 @@ triar.**
 
 ## El que falta
 
-- **Els seus clubs** i els seus anys d'internacional.
+- ~~**Els seus clubs** i els seus anys d'internacional.~~ — **`parcial` el 21-09-2026**: la còpia local del wikitext de la fitxa [font local del wikitext](../../../fonts/wikipedia-atletes-andorrans.md) (`docs/raw/web/esport/atletes/Ángel_Martín_(footballer,_born_1978).wiki`) dona **FC Santa Coloma, 1995–2017**, i situa la seva etapa internacional amb **Andorra entre 1996 i 1999**, amb **18 partits i 0 gols**. Les categories de la mateixa pàgina també l’associen a **Constel·lació Esportiva**, però **no hi ha una cronologia completa dels clubs ni de les temporades**.
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Preguntar què fa avui una persona a partir d'un bolcat datat no és un
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
