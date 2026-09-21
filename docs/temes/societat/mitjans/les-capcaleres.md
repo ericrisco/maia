@@ -155,6 +155,13 @@ que surt el 1976 «en un moment en què la democràcia» arribava a Espanya.
 
 **El diari andorrà mor de l'èxit del que havia anticipat.**
 
+**La mateixa ponència també identifica qui el va fer.** El primer número del
+diari és de l'**1 de desembre de 1974**: **Ricard Fité** n'era l'editor i
+**Antoni Sementé** el director oficial; la direcció efectiva la portava el
+periodista català **Enric Bastardes**, perquè les lleis no permetien que una
+persona de fora dirigís una publicació andorrana. És una dada de la font, no una
+inferència del corpus ([fitxa de font](../../../fonts/sorribes-evolucio-premsa-1994.md)).
+
 ## I els diaris d'avui
 
 | | |
@@ -185,8 +192,13 @@ aquell any.**
   **`parcial` el 21-09-2026**: la fitxa ja en fixa la primera etapa —**1974–1977**—
   i la reaparició de **1994**, tres cops per setmana; encara no conserva cap
   exemplar ni el recompte complet de números.
-- **Qui el va fer**: l'autora hi dedica l'exposició central i aquesta fitxa només
-  n'ha pres el marc.
+- ~~**Qui el va fer**: l'autora hi dedica l'exposició central i aquesta fitxa només
+  n'ha pres el marc.~~ — **`parcial` el 21-09-2026**: el primer número és de l'**1
+  de desembre de 1974**, amb **Ricard Fité** com a editor, **Antoni Sementé** com
+  a director oficial i **Enric Bastardes** com a director efectiu, perquè la llei
+  no permetia que una persona de fora dirigís una publicació andorrana. La
+  col·lecció i la resta de l'equip redactor continuen sense consultar-se
+  ([font](../../../fonts/sorribes-evolucio-premsa-1994.md)).
 - ~~**Per què Andorra Magazine es distribuïa a Algèria i al Marroc.**~~ —
   **`parcial` el 21-09-2026**: les fonts confirmen una revista quinzenal de
   **1970–1975**, amb **63 números**, edició en **català, castellà i francès** i
