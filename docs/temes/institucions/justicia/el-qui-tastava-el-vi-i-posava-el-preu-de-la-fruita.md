@@ -237,8 +237,8 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
 ## Buits registrats
 
 1. ~~**La nota de Bladé sobre els *mostasafs* d'Andorra**, *Recueil de l'Académie de législation de Toulouse*, **1873**.~~ — **`parcial` el 21-09-2026**: Brutails identifica aquesta nota com la base de l'origen andalusí de l'ofici i en conserva el resum, però el corpus no té l'article original.
-2. **Fins quan el mostafà va posar preus als aplecs**, **i si l'atribució
-   sobreviu en alguna norma comunal.** ~~**El corpus no té res de posterior al
+2. ~~**Fins quan el mostafà va posar preus als aplecs**, **i si l'atribució
+   sobreviu en alguna norma comunal.** **El corpus no té res de posterior al
    1904.**~~ — **`parcial` el 17-09-2026: ara en té del 1910, i el mostafà ja no
    hi és.**
 
