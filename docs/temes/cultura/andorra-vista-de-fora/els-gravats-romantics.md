@@ -154,7 +154,11 @@ consultat s'atura aquí.
    confirmat el 2026-09-19**: la mateixa cronologia confirma que **Joan Oromí**
    hi va pintar la volta, però encara no descriu l'edifici ni conserva una fitxa
    completa de les pintures.
-6. Els **altres elements** que canvien la cultura al segle XX.
+6. ~~Els **altres elements** que canvien la cultura al segle XX.~~ —
+   **`parcial` el 21-09-2026**: el text consultat enumera **la infraestructura
+   hidroelèctrica de FHASA** com el primer dels «tres o quatre elements» i
+   n’explica l’efecte d’intercanvi d’idees i procedències. El fragment conservat
+   s’atura aquí i no identifica els altres elements.
 
 ## Related
 
