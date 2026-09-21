@@ -233,8 +233,13 @@ poder-los llogar, es van acabar oferint de franc perquè algú hi pugés.**
    **`A mig guany` reparteix el guany per meitat**, i **és un ramat de fora en
    mans andorranes**, que és la figura que aquesta fitxa descriu sense contracte
    al darrere. **El corpus no afirma que sigui el mateix que el `conlloc`.**
-5. **Si la transhumància de repoblament dels anys 1990 continua avui**, i amb
-   quants caps.
+5. ~~**Si la transhumància de repoblament dels anys 1990 continua avui**, i amb
+   quants caps.~~ —
+   **`parcial`**: la font només documenta el repoblament dels **inicis dels
+   anys 1990**, quan els comuns de Canillo i la Massana van cedir cortons i
+   muntanyes a ramats de Lleida, i afirma que fins als anys 1990 només hi
+   quedava una ramaderia ovina residual; no aporta cap dada posterior ni cap
+   recompte actual.
 6. ~~**Els *emprius* i els *cortons***: la diferència jurídica exacta entre uns i
    altres.~~ —
    **`parcial`**: les fitxes locals defineixen els **emprius** com drets d'ús
