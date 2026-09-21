@@ -147,8 +147,12 @@ cadascun dels tres moments. Creuar amb
    capital dels andorrans» (*Els moviments migratoris a Andorra*, p. 82). La
    font l'inscriu dins «el departament de l'Arieja» i el corpus conserva aquesta
    formulació sense corregir-la ni convertir-la en una dada pròpia.
-2. **Les mines de ferro** de la Catalunya Nord on anaven els andorrans: quines,
-   quants, quan.
+2. ~~**Les mines de ferro** de la Catalunya Nord on anaven els andorrans: quines,
+   quants, quan.~~ — **`parcial` el 21-09-2026**: Camiade situa el flux als
+   **Pirineus Orientals / Catalunya Nord** i diu que eren **llocs d'oferta de
+   treball per a treballadors andorrans temporers** (*Els moviments migratoris a
+   Andorra*, p. 82). El corpus encara no té els noms de les mines, el nombre de
+   treballadors ni els anys de cada episodi.
 3. **L'estudi de testaments** de Camiade — quins, d'on.
 4. ~~**Les enquestes orals** que va fer: existeixen, estan dipositades? Creuar
    amb [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~
