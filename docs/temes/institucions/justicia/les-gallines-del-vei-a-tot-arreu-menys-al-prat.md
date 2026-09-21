@@ -313,27 +313,49 @@ final d'un decret** —«*baix pena del cot de la Terra*»—
 
 ## Buits registrats
 
-1. **Els dos notables de 1874 que van deixar de ser andorrans per no voler ser
-   síndics.** **No consta **qui eren** —i el corpus no els cerca, hi consten com
-   a particulars—, **ni si van acabar acceptant el càrrec**, **ni què va
-   provocar la remissió al cap de tres mesos i mig.** **Prioritari.**
-2. **La decisió de Lluís XIV del 24 d'agost de 1687** i **l'exposició del síndic a
-   Montlluís** *(Arxius dels Pirineus Orientals, C 2098)*. **Prioritari, i amb
-   signatura d'arxiu**: **és de les poques peces d'aquest llibre que en porten.**
-3. **El decret del Consell del 26 de març de 1800** sencer, **i si el preu del ral
-   per cap es va apujar mai.**
-4. **El reglament contra el qual el Consell General va protestar el 26 de març de
-   1871** per atemptatori a la seva competència. **No consta de qui era.**
-5. **El decret del 20 de desembre de 1881** que **torna un *cot* a 8 pessetes,
-   «*com es de consuetut en la Vall*»** —**és a dir que algú l'havia apujat.**
-6. **El decret del Consell General del 24 de novembre de 1892** sobre els
-   *banders*, **i com es nomenaven.**
-7. **El cas de 1883 sobre els dies feriats** sencer, **i què era exactament «*la
-   cere per la iglesia*»**: **quantitat, forma i si es lliurava a la parròquia
-   pròpia.**
-8. **Els casos de 1896 (contraban, 800 pessetes) i 1897 (venda de passaport,
-   ferros a la plaça)** sencers. **De la legalitat del segon la font mateixa
-   dubta.**
+1. ~~**Els dos notables de 1874 que van deixar de ser andorrans per no voler ser
+   síndics.**~~ — **`parcial` el 21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
+   confirma la seqüència: **45 lliures de *cot* i 90 de *recot***, pèrdua dels
+   drets d'andorrà per a ells i els seus, bandejament per dos i tres anys i
+   remissió un mes i mig després. **Els noms, l'acceptació del càrrec i el motiu
+   de la remissió encara no consten.**
+2. ~~**La decisió de Lluís XIV del 24 d'agost de 1687** i **l'exposició del síndic a
+   Montlluís** *(Arxius dels Pirineus Orientals, C 2098)*.~~ — **`parcial` el
+   21-09-2026**: Brutails conserva l'exposició del síndic, situada a la muntanya
+   de la Solana, i la decisió de Lluís XIV que substitueix la *degolla* per la
+   retenció proporcional al dany, avaluat pels cònsols de les dues parròquies;
+   **l'original d'arxiu encara falta**.
+3. ~~**El decret del Consell del 26 de març de 1800** sencer, **i si el preu del
+   ral per cap es va apujar mai.**~~ — **`parcial` el 21-09-2026**: Brutails
+   resumeix que permetia matar les gallines del veí al jardí o al camp sembrat,
+   però no al prat, i que calia retornar-les o pagar-les; fixa el preu de
+   referència en **un ral per cap**, però **el text sencer i l'evolució posterior
+   del preu no consten**.
+4. ~~**El reglament contra el qual el Consell General va protestar el 26 de març de
+   1871** per atemptatori a la seva competència.~~ — **`parcial` el 21-09-2026**:
+   Brutails en confirma la data i que el Consell el considerava contrari a la
+   seva competència; **no identifica l'autor ni en conserva el text**.
+5. ~~**El decret del 20 de desembre de 1881** que **torna un *cot* a 8 pessetes,
+   «*com es de consuetut en la Vall*»**.~~ — **`parcial` el 21-09-2026**: Brutails
+   conserva la data, la quantia i la fórmula de costum; **no permet saber quin
+   acte havia apujat abans el *cot* ni en dona l'original**.
+6. ~~**El decret del Consell General del 24 de novembre de 1892** sobre els
+   *banders*, **i com es nomenaven.**~~ — **`parcial` el 21-09-2026**: Brutails
+   en dona la data i conserva la fórmula segons la qual un **bande jurat per la
+   parròquia** podia denunciar el *ban* davant particulars i autoritats;
+   **l'acta completa i el procediment de nomenament encara falten**.
+7. ~~**El cas de 1883 sobre els dies feriats** sencer, **i què era exactament «*la
+   cere per la iglesia*»**.~~ — **`parcial` el 21-09-2026**: Brutails documenta
+   que el cònsol va ser multat amb **4 duros**, que qui treballava advertit pagava
+   el *cot* de la parròquia i qui no ho havia estat pagava **«la cera per a
+   l'església»**, mentre el cònsol s'exposava al *cot de la Terra*; **no en dona
+   la quantitat de cera ni l'acta íntegra**.
+8. ~~**Els casos de 1896 (contraban, 800 pessetes) i 1897 (venda de passaport,
+   ferros a la plaça)** sencers.~~ — **`parcial` el 21-09-2026**: Brutails
+   confirma la condemna de **800 pessetes** per contraban el 1896 i, el 1897,
+   **tres dies d'arrest als ferros a la plaça i 80 pessetes** per vendre un
+   passaport; també conserva que en dubta la legalitat. **Els expedients sencers
+   encara falten**.
 9. ~~**La citació de Ducange**, **que la font esmena.**~~ — **`resolt` el
    18-09-2026**: les pp. **208, 215, 235 i 244 del *Politar*** ja són llegides i
    transcrites aquí; la font diu literalment que **Ducange s'equivoca en atribuir
