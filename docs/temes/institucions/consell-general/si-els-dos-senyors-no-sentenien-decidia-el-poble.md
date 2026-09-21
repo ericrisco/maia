@@ -270,8 +270,8 @@ quart, «de tal manera que cada veïnat important hi sigui representat».**
    Pentecosta, Tots Sants i Sant Andreu— i diu que anaven precedides de missa
    (p. 75). No explica com s'ajustava el calendari quan una festa era mòbil ni
    acredita l'assistència efectiva a cada sessió.
-7. **Des de quan el Consell es diu «i de la Terra»**, i **si el títol tenia ús
-   oficial o era, com diu Vilar, el «més pompós».**
+7. ~~**Des de quan el Consell es diu «i de la Terra»**, i **si el títol tenia ús
+   oficial o era, com diu Vilar, el «més pompós».**~~ — **`parcial` el 21-09-2026**: Vilar documenta el nom complet **«l'Il·lustre Consell General i de la Terra»** i el qualifica de títol «més pompós»; una fitxa veïna conserva que antigament també s'anomenava **Consell de la Terra** i **Consell dels Vint-i-quatre**, però el corpus no fixa des de quan s'usava «i de la Terra» ni si tenia caràcter oficial.
 8. **Si algú va contestar mai la incompatibilitat de 1866** entre càrrec comunal i
    càrrec general.
 9. **Quants electors hi havia**, i **quants andorrans ho eren per matrimoni amb
