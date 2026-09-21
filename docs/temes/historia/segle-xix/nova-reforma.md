@@ -221,8 +221,9 @@ relacionades; registra que ara hi ha una finestra temporal.`
   > repeteix a les bases** — cosa que **el mateix autor qualifica d'ampliació que
   > cap text no autoritza**. Vegeu [una ampliació no autoritzada pels
   > textos](../../institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md).
-- **L'imprès original** —*Plan de reforma…*, Seu d'Urgell, 1866, 16 pàgines—.
-  `El corpus en té una transcripció de 1920, no l'edició.`
+- ~~**L'imprès original** —*Plan de reforma…*, Seu d'Urgell, 1866, 16 pàgines—.~~ —
+  **`parcial`**: el corpus en té la transcripció de 1920, amb el text llegit
+  article per article, però no l'edició original ni pot comprovar si difereixen.
 
 ## Related
 

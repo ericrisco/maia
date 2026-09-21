@@ -466,11 +466,11 @@ el sufragi**, que ja era dels caps de casa.
 
 ## Buits registrats
 
-1. **L'imprès original**: *Plan de reforma adoptat en las valls de Andorra…*, **Seu
-   d'Urgell, 1866, in-12, 16 pàgines**, que Brutails ja qualificava de «molt rara»
-   el 1904. **El corpus en té ara el text per una transcripció de 1920 i segueix
-   sense tenir l'imprès.** `Una transcripció no és l'original: si les dues
-   difereixen, el corpus no ho pot saber.`
+1. ~~**L'imprès original**: *Plan de reforma adoptat en las valls de Andorra…*,
+   **Seu d'Urgell, 1866, in-12, 16 pàgines**, que Brutails ja qualificava de «molt
+   rara» el 1904.~~ — **`parcial`**: el corpus en té ara el text per una
+   transcripció de 1920, però segueix sense tenir l'imprès i no pot comprovar si
+   les dues edicions difereixen.
 2. **L'apèndix de la Reforma**, que és una **peça diferent** del que aquí es
    transcriu. Brutails en cita **la pàgina 13** —el projecte de codificar els
    costums— i **la pàgina 14** —mestre i mestra. **L'apèndix D d'aquest volum no
