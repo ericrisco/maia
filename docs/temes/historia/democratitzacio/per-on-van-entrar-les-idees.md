@@ -163,9 +163,17 @@ casa.**
 ## El que falta
 
 - **La Unió Andorrana**: qui, quan, què. **Prioritari.**
-- **Nova Andorra**: qui l'editava, on, quants números. **Prioritari** — seria
-  **la primera premsa andorrana** que el corpus documentaria.
-- **El Butlletí de Residents d'Andorra a Barcelona**: anys i col·lecció.
+- ~~**Nova Andorra**: qui l'editava, on, quants números.~~ — **`parcial` el
+  21-09-2026**: Sorribes la situa a **Barcelona**, del **primer d'agost de
+  1932 al desembre de 1933**, com a mensual de **17 números** patrocinada pel
+  **Centre Andorrà de Barcelona**; Giralt, però, la descriu com el producte d'una
+  **escissió de la Societat Andorrana de Residents**, i el corpus conserva la
+  discrepància sobre qui l'editava.
+- ~~**El Butlletí de Residents d'Andorra a Barcelona**: anys i col·lecció.~~ —
+  **`resolt` el 21-09-2026**: Sorribes en dona la capçalera completa —**Butlletí
+  de la Societat Andorrana de Residents a Barcelona**—, la situa entre **l'1
+  d'octubre de 1929 i 1932**, i en compta **34 números**, amb carreteres,
+  turisme, passaports i la «dignitat i humanitat d'Andorra» com a temes.
 - ~~**«Le réveil de l'Andorre»**, 1931 — **digitalitzat a la BnF i no consultat**.~~ — **`parcial` el 21-09-2026**: la cerca oficial de la **Presse locale ancienne** de la BnF ([captura amb el filtre d’accés en línia](../../../raw/web/historia/democratitzacio/reveil-andorre-bnf-1931.html)) identifica la capçalera com a **òrgan oficial —després mensual— de l’Amicale franco-andorrane de Béziers**, amb data **1931–1931**, i la mostra dins del conjunt de premsa amb accés en línia. Encara no s’han inspeccionat els exemplars ni se n’ha extret cap número.
 - **La Societat de Veïns de Barcelona** i l'**Amicale Franco-Andorrane**: dates
   de fundació i qui les integrava.
