@@ -271,14 +271,23 @@ en donen quatre.
    **`parcial`**: el títol de la peça i el **DIEC2** sustenten la forma editorial
    **`nissaga`**, però el cos de la fitxa deixa clar que sense escoltar l'àudio
    no es pot arbitrar si la `m-` és de la parlant o de la màquina.
-2. **`l'adot`.** No és al DIEC2. És al corpus només dins d'una citació de 1788.
-   **No se sap si és arcaisme, tecnicisme o forma viva.** Caldria sentir-la fora
-   del tema històric, o trobar un segon parlant.
-3. **`les Baix`.** Almenys tres ocurrències volen dir *les Valls*; una quarta
-   («a Baix d'Espanya») podria voler dir *a baix*. **Cap de les dues lectures no
-   s'escriu a la transcripció.**
-4. **`orfans`, `préstams`, `ventes`, `caval`.** Un sol parlant cadascuna. **No es
-   poden separar les formes de la parlant de les grafies de la màquina.**
+2. ~~**`l'adot`.** No és al DIEC2. És al corpus només dins d'una citació de 1788.~~ —
+   **`parcial` el 2026-09-22**: la ponent el diu dues vegades com a mot seu
+   (**00:03:25–00:03:37**), i el corpus ja en conserva una ocurrència documental
+   dins la citació notarial de **1788**. **Encara no es pot decidir si és arcaisme
+   conservat, tecnicisme d'arxiu o forma viva general: falta escolta fora del
+   tema històric o un segon parlant.**
+3. ~~**`les Baix`.** Almenys tres ocurrències volen dir *les Valls*; una quarta
+   («a Baix d'Espanya») podria voler dir *a baix*.~~ — **`parcial` el 2026-09-22**:
+   les tres ocurrències d'Andorra (**00:02:32, 00:04:04 i
+   00:06:01**) concorden amb **les Valls**, però «a Baix d'Espanya» i «a Baix a
+   França» (**00:02:41**) descriuen literalment els territoris de baix respecte
+   d'Andorra. **La transcripció conserva les dues lectures i no les arbitra.**
+4. ~~**`orfans`, `préstams`, `ventes`, `caval`.** Un sol parlant cadascuna.~~ —
+   **`parcial` el 2026-09-22**: la fitxa ja contrasta les formes amb la prosa del
+   corpus —**`préstec`** (27), **`venda`/`vendes`** (100) i **`orfe`** (6)— i
+   identifica les ocurrències de la peça. **Amb una sola veu i sense escolta no
+   es pot separar una forma de la parlant d'una grafia de la màquina.**
 5. **El cognom de la ponent.** — **`resolt` el 16-09-2026 per la font mateixa.**
    **La màquina escriu `[?Bat-Balaguer]` exactament on la parlant es presenta
    —«soc la Sara …», 00:00:36— i el títol de la càpsula diu *Sara Ubach*.**
