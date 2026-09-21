@@ -171,7 +171,15 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   18-09-2026**: **ara en té**, a [el SAAS](./el-saas.md) — **entitat
   parapública creada per la Llei del 23 de desembre del 1986**
   ([font](../../../fonts/saas-ad-historia.md)).
-- **Què hi havia abans del 1998**: on s'atenien els malalts mentals andorrans.
+- ~~**Què hi havia abans del 1998**: on s'atenien els malalts mentals andorrans.~~ —
+  **`parcial` el 21-09-2026**: la biografia del psiquiatre **Ramon Pigem i
+  Serra** documenta que va obrir **despatx al Principat el 1967**, que va ser
+  nomenat **psiquiatre andorrà** i que, des de **1986**, visitava al consultori
+  del nou **Hospital General Nostra Senyora de Meritxell**. Això acredita
+  atenció psiquiàtrica ambulatòria abans de la posada en marxa dels Serveis de
+  Salut Mental del SAAS, però la font no diu on s'ingressaven els casos greus
+  ni permet reconstruir tota l'oferta assistencial del període
+  ([font web](../../../raw/web/societat/salut-mental-pre1998/README.md)).
 - ~~**El pla de salut mental** anunciat el 2020: si es va aprovar i què diu.~~ —
   **`parcial` el 21-09-2026**: el Govern va aprovar el **Pla integral de salut
   mental i addiccions (PISMA) el 21 de febrer de 2022**, amb una estratègia
@@ -190,7 +198,13 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
 - ~~**Si hi ha unitat d'internament** al país o si els casos greus es deriven.~~
   — **`resolt` el 18-09-2026**: **es deriven, al centre Sant Joan de Déu
   Terres de Lleida, a Lleida** ([font](../../../fonts/saas-ad-historia.md)).
-- **Si la recerca del 2002 es va reprendre.**
+- ~~**Si la recerca del 2002 es va reprendre.**~~ — **`parcial` el 21-09-2026**:
+  el **PISMA aprovat el 2022** inclou una nova agenda de recerca en salut
+  mental i addiccions (**A58**), relacions amb instituts i universitats (**A59**)
+  i un sistema d'ajuts (**A60**), però el document no identifica l'estudi de la
+  Marató de TV3 del 2002 ni n'acredita la represa. El que queda documentat és
+  una política posterior per impulsar recerca, no la continuació d'aquella
+  mostra ([font local](../../../raw/web/societat/salut-mental/README.md)).
 - **El congrés del 2001**: actes i publicacions que en van sortir.
 - ~~**On diu Fiter i Rossell** que no hi ha diferència essencial.~~ **TANCAT**:
   capítol tercer del Manual Digest, via Camiade. **Queda obert verificar-ho

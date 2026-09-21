@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+
+<title>Metges Catalans | Ramon Pigem i Serra</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<link rel="stylesheet" type="text/css" href="css/settings.css" media="screen"/>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
+	<link rel="stylesheet" href="css/yamm/yamm.css">
+	<link rel="stylesheet" href="css/color-scheme/blue.css">
+	<link rel="stylesheet" href="css/responsive.css">
+    
+        <style media="screen" type="text/css">
+			
+		.goog-te-banner-frame.skiptranslate {
+    		display: none !important;
+    	} 
+		body {
+    		top: 0px !important; 
+    	}
+			
+		</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8H43YGD9M"></script>	
+	<!-- Base JS -->
+	<script src="js/jquery-1.9.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/stellar.js"></script>
+	<script src="js/main.js"></script>
+	
+	<!-- Revolution Slider -->
+	<script src="js/jquery.themepunch.plugins.min.js"></script>
+	<script src="js/jquery.themepunch.revolution.min.js"></script>
+	<script src="js/revolution-slider-options1.js"></script>
+    <script src="js/cookieLib.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/revolution-slider-options.js"></script>
+    <script src="js/ofuscador_correu.js"></script>
+    
+	
+	<!-- Prety photo -->
+	<script src="js/jquery.prettyPhoto.js"></script>
+    
+    <!-- Google Translate -->
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script type="text/javascript">
+		function googleTranslateElementInit() {
+		  new google.translate.TranslateElement({pageLanguage: 'ca', includedLanguages: 'en,es,fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+		}
+	</script>
+    
+    <!-- Scripts JS-->
+    <script type="text/javascript" src="includes/js/validaform.js"></script>
+    <script type="text/javascript">
+
+		function langCat() {
+		 	$('[id=":0.container"]').contents().find('[id=":0.restore"]').trigger( "click" );
+			
+			var url      = window.location.href
+			
+			url = url.split("#");
+			//alert(url[0]);
+		 	window.location.replace(url[0]);
+ 		}
+		function langEs() {
+			var url      = window.location.href
+			
+			url = url.split("#");
+			
+			url[0] += "#googtrans(ca|es)";
+			//alert(url[0]);
+		 	window.location.replace(url[0]);
+			location.reload(true);
+			return false;
+ 		}
+		function langEn() {
+			var url      = window.location.href;   
+			
+			url = url.split("#");
+			
+			url[0] += "#googtrans(ca|en)";
+			//alert(url[0]);
+		 	window.location.replace(url[0]);
+			location.reload(true);
+			return false;
+		}
+		function langFr() {
+			var url      = window.location.href;   
+			
+			url = url.split("#");
+			
+			url[0] += "#googtrans(ca|fr)";
+			//alert(url[0]);
+		 	window.location.replace(url[0]);
+			location.reload(true);
+			return false;
+		}
+		
+	 
+	</script>
+    
+
+
+
+
+
+
+
+    
+ 
+ <script type="text/javascript">
+		function filtrarperlletra(lletra)
+		{
+			if (lletra.length==0)
+			  {
+			  document.getElementById("resultatcerca").innerHTML="";
+			  document.getElementById("resultatcerca").style.border="0px";
+			  return;
+			  }
+			if (window.XMLHttpRequest)
+			  {// code for IE7+, Firefox, Chrome, Opera, Safari
+			  xmlhttp=new XMLHttpRequest();
+			  }
+			else
+			  {// code for IE6, IE5
+			  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			  }
+			xmlhttp.onreadystatechange=function()
+			  {
+			  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+				{
+				document.getElementById("resultatcerca").innerHTML=xmlhttp.responseText;
+				document.getElementById("resultatcerca").style.border="1px solid #A5ACB2";
+				}
+			  }
+			xmlhttp.open("GET","includes/ajax/cercadordinamic.php?q="+lletra,true);
+			xmlhttp.send();
+			}
+	</script>
+
+   
+    <script type="text/javascript">
+		$(document).ready(function () {
+			$('#novetats-header').removeClass().addClass('dropdown-toggle');
+			$('#galeria-header').removeClass().addClass('dropdown-toggle active');
+		});
+	</script>
+    </head>
+<body>
+    <!-- 
+    <div id="popup-cookies" style="display:none">
+		<div class="close"><a href="#" onclick="emmagatzemarPreferenciesGaletes();return false;"><i class="icon icon-close"></i></a></div><p>A Galeria de METGES CATALANS fem servir cookies de tercers per millorar els nostres serveis i oferir la millor experiència de navegació possible. Si continues navegant, considerem que acceptes el seu ús. </p>
+	</div>
+
+   -->
+     
+<div class="main">
+   	<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+        <div id="popup-cookies" style="display: none">
+            <div class="close">
+                <a href="#" onclick="tancarCapaCookies();return false;">
+                    <span class="icon-close"><strong>×</strong></span>
+                </a>
+            </div>
+            <p>
+                Aquest web utilitza cookies que permeten el funcionament i la prestació dels serveis del web així com cookies analítiques i de sessió que emmagatzemen i recuperen informació quan navegues. Clica <a href="cookies.php">AQUÍ</a> per a mes informació o per a canviar la configuració de les cookies
+            </p>
+            <p>Pots acceptar totes les cookies prement ACCEPTAR o CONFIGURAR les <a href="#" onclick="obrirCapaConfiguracioCookies();return false;">preferències</a>. </p>
+            <div id="capaBotoCookies" style="margin: 20px">
+                <p>
+                    <a href="#" class="btn btn-default mr-20 col-md-3" onclick="emmagatzemarPreferenciesGaletes(true);return false;">Acceptar totes</a>
+                </p>
+                <p>
+                    <a href="#" class="btn btn-default mr-20 col-md-3" onclick="emmagatzemarPreferenciesGaletes(false);return false;">Rebutjar totes</a>
+                </p>
+            </div>
+            <div id="capaConfiguracioCookies" style="margin: 20px; display:none;">
+
+                <div class="bcb-option" data-name="necessary">
+
+                    <div class="custom-control custom-checkbox mb-1 form-check">
+                        <input type="checkbox" checked="" disabled="" class="custom-control-input" id="cookieCheckNecessaries">
+                        <label class="custom-control-label label-text" for="cookieCheckNecessaries"><b>Necessàries</b></label>
+                    </div>
+                    <ul style="margin-left: 20px;">
+                        <li>Són aquelles que permeten a l'usuari la navegació a través d'una pàgina web, plataforma o aplicació i la utilització de les diferents opcions o serveis que en ella hi hagi com, per exemple, controlar el trànsit i la comunicació de dades, identificar la sessió o accedir a parts d'accés restringit entre d’altres.</li>
+                    </ul>
+                </div>
+                <div class="bcb-option" data-name="analyses">
+                    <div class="custom-control custom-checkbox mb-1">
+                        <input type="checkbox" class="custom-control-input" id="cookieCheckAnalitiques">
+                        <label class="custom-control-label label-text" for="cookieCheckAnalitiques"><b>Anàlisi</b></label>
+                    </div>
+                    <ul style="margin-left: 20px;">
+                        <li>Són aquelles que permeten al responsable d'aquestes, el seguiment i anàlisi del comportament dels usuaris dels llocs web als quals estan vinculades. La informació recollida mitjançant aquest tipus de cookies s'utilitza en la mesura de l'activitat dels llocs web, aplicació o plataforma i per a l'elaboració de perfils de navegació dels usuaris d'aquests llocs, aplicacions i plataformes i per introduir millores en funció de l'anàlisi de les dades d'ús que fan els usuaris del servei.</li>
+
+                    </ul>
+                </div>
+                <div style="margin: 20px; ">
+                    <p><a href="#" class="btn btn-default mr-20 col-md-4" onclick="enregistrarPreferenciesCookies();return false;">Enregistrar preferències i tancar</a></p>
+                    <p><a href="#" class="btn btn-default mr-20 col-md-3" onclick="tancarCapaConfiguracioCookies();return false;">Tornar </a></p>
+                </div>
+            </div>
+            <br class="clear" />
+        </div>
+    </div>
+  </div>
+</div>
+<div class="b-top-bar">
+  <div class="container layout">
+    <!-- Some text -->
+    <div class="wrap-left">
+      <span class="top-bar-text"
+        >Idioma: <a class="notranslate" onclick="langCat();">Català</a> |
+        <a class="notranslate" onclick="langEs();">Castellano</a> |
+        <a class="notranslate" onclick="langEn();">English</a> |
+        <a class="notranslate" onclick="langFr();">Français</a></span
+      >
+      <span style="padding-left: 10px; font-size: 10px"
+        >traducido por
+        <img src="/img/google-transalate.png" width="70" alt="Google translate"
+      /></span>
+    </div>
+    <div class="wrap-right">
+      <!-- Phone -->
+
+      <!-- Social Icons -->
+      <div class="top-bar-social">
+        <form
+          action="resultats_cerca_nou.php"
+          id="searchbox_001384964245369827582:d0s2te_mfcg"
+          method="GET"
+          class="b-search-form"
+        >
+          <div class="input-wrap">
+            <input
+              value="001384964245369827582:d0s2te_mfcg"
+              name="cx"
+              type="hidden"
+            />
+            <input value="FORID:11" name="cof" type="hidden" />
+            <input
+              type="text"
+              placeholder="Search ..."
+              name="q"
+              id="q"
+              onfocus="defaultInput(this)"
+              onblur="clearInput(this)"
+            />
+            <!--<input type="submit" id="searchsubmit" value=" " />-->
+          </div>
+        </form>
+      </div>
+      <!-- End Social Icons -->
+    </div>
+  </div>
+</div>
+<!-- HEADER 
+	  ============================================= -->
+<div class="header">
+  <header>
+    <div class="navbar yamm navbar-default navbar-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbar-collapse-1"
+            class="navbar-toggle"
+          >
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="index.php" class="navbar-brand logo"
+            ><img
+              src="../img/logo.png"
+              alt="Galeria de Metges Catalans"
+              width="250"
+          /></a>
+        </div>
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <!-- Classic list -->
+            <li class="dropdown">
+              <a
+                id="novetats-header"
+                href="#"
+                data-toggle="dropdown"
+                class="dropdown-toggle"
+                >Presentació</a
+              >
+              <ul class="dropdown-menu yamm-sm">
+                <li><a href="./presentacio.php">Benvinguda</a></li>
+                <li><a href="./novetats.php">Arxiu de novetats</a></li>
+                <li>
+                  <a href="./actualitzacions.php">Arxiu d'actualitzacions</a>
+                </li>
+                <li><a href="./autors.php">Redactors</a></li>
+              </ul>
+            </li>
+            <!--<li class="dropdown">
+								  <a id="presentacio-header" href="#" class="dropdown-toggle">Presentació</a>
+								  
+								  <ul class="dropdown-menu yamm-sm">
+									  <li><a href="./presentacio.php">Benvinguda</a></li>
+									  <li><a href="./1000biografies.php">1000 biografies</a></li>
+									  <li><a href="./context.php">Context històric</a></li>
+								  </ul> 
+								  </li>-->
+            <li class="dropdown">
+              <a id="galeria-header" href="galeria.php" class="dropdown-toggle"
+                >Galeria</a
+              >
+            </li>
+
+            <li class="dropdown">
+              <a
+                id="metges-eua-canada-header"
+                href="#"
+                data-toggle="dropdown"
+                class="dropdown-toggle"
+                >Altres galeries</a
+              >
+              <ul class="dropdown-menu yamm-sm">
+                <li>
+                  <a href="./metges_eua_canada.php">Metges EUA / Canadà</a>
+                </li>
+                <li><a href="http://www.metgesalexili.cat/exili-39.html" target="_blank">Metges a l'exili</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a
+                id="memoria-header"
+                href="#"
+                data-toggle="dropdown"
+                class="dropdown-toggle"
+                >Memòria Professió</a
+              >
+              <ul class="dropdown-menu yamm-sm">
+                <li>
+                  <a href="./presentacio-memoria_professio.php">Presentació</a>
+                </li>
+                <li><a href="./memoria_professio.php">Memòria Professió</a></li>
+              </ul>
+            </li>
+
+            <!-- <li class="dropdown yamm-fw">
+								  <a id="eponimia-header" href="eponimia.php" class="dropdown-toggle">Eponímia mèdica</a></li>-->
+            <li class="dropdown yamm-fw">
+              <a
+                id="efemerida-header"
+                href="efemerides.php"
+                class="dropdown-toggle"
+                >Efemèrides mèdiques</a
+              >
+            </li>
+
+            <!-- End Search Form -->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+
+<script>
+
+    var galetaAntiga = cercarGaleta("capacookiesaccept")
+    if (galetaAntiga == "true") {
+
+        var checkbox = document.getElementById("cookieCheckAnalitiques");
+        var checkbox2 = document.getElementById("cookieCheckNecessaries");
+
+        // Establece el estado del checkbox a true
+        checkbox.checked = true;
+        checkbox2.checked = true;
+    }
+
+
+    function cercarGaleta(nom) {
+        var i, x, y, ARRcookies = document.cookie.split(";");
+        for (i = 0; i < ARRcookies.length; i++) {
+            x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+            y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+            x = x.replace(/^\s+|\s+$/g, "");
+            if (x == nom) {
+                return unescape(y);
+            }
+        }
+    }
+
+</script>
+<!-- END HEADER 
+	  ============================================= -->
+<div class="b-titlebar">
+		<div class="container layout">
+			<ul class="crumbs">
+				<li> </li>
+				<li><a href="index.php">Inici</a></li>
+				<li><a href="galeria.php">Galeria</a></li>
+                <li><a class='notranslate' href="galeria-fitxa.php?icod=EGME">Ramon Pigem i Serra</a></li>
+			</ul>
+			<h1>Galeria de  metges</h1>
+		</div>
+	</div>
+  	<div class="content">
+   		<div class="container-fons layout">
+        	<div class="row">
+            <div id="capaMetgeMobile" class="hidden-lg hidden-md hidden-sm visible-xs-block" >
+            <div class="row">
+                    	<div class="row-item"> 
+                            <img class="foto-metge" src="../includes/ajax/redimensionarimatgecarnet.php?hw=123&width=124&idimatge=7481.jpg" />
+                            <p class="nom-metge"><a class='notranslate' href="galeria-fitxa.php?icod=EGME">Ramon Pigem i Serra</a><br />
+                            <span>[Vilobí d’Onyar, 16/02/1924 - Lleida 14/09/1997] </span> </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                     	<div class="row-item col-md-12" style="text-align:right">
+							                                <a href="galeria-fitxa.php?icod=EKFD" class="seguent-anterior"><i class="icon-double-angle-left"></i> Anterior</a>
+                                                                                        | <a href="galeria-fitxa.php?icod=JE" class="seguent-anterior">Següent <i class="icon-double-angle-right"></i></a>
+                                              		</div>
+               		</div>
+            </div>
+      			<div class="row-item col-md-3 sidebar">
+     				<!-- SIDEBAR 
+	============================================= -->
+
+<blockquote class="blockquote"> Pioner de la psiquiatria a Lleida i al Principat d'Andorra a més d'impulsor de l’esport a les Terres de Ponent </blockquote>
+<div id="caixa-apartats" class="margin-30">
+    <h5><a id="sidebar-fotografies" href="galeria-fotografies.php?icod=EGME">FOTOGRAFIES</a></h5>
+    <div class="latest-project">
+        <div class="latest-project-item"> <a href="galeria-fotografies.php?icod=EGME"><img src="../includes/ajax/redimensionarimatgecarnet.php?hw=93&width=89&idimatge=7479.jpg" /></a></div>
+        <div class="latest-project-item"> <a href="galeria-fotografies.php?icod=EGME"><img src="../includes/ajax/redimensionarimatgecarnet.php?hw=93&width=89&idimatge=7472.jpg" /></a></div>
+      </div>
+      <h5><a id="sidebar-bibliografia" href="galeria-bibliografia.php?icod=EGME"> BIBLIOGRAFIA</a></h5>
+      <h5><a id="sidebar-obrapublicada" href="galeria-obrapublicada.php?icod=EGME">Obra publicada</a></h5>
+      <h5><a id="sidebar-links" href="galeria-links.php?icod=EGME">Links de referència</a></h5>
+        <h5><a id="sidebar-hemeroteca" href="galeria-hemeroteca.php?icod=EGME"> Hemeroteca</a></h5>
+  </div>
+<div align="right"> <a href="galeria-aportacions.php?icod=EGME" class="btn small red" title="Aportacions" /><i class="icon-edit"></i>Aporta més informació</a> </div>
+<p>&nbsp;</p>
+<hr />
+<!-- END SIDEBAR 
+	============================================= --> 
+                   
+              	</div>
+ 
+                <div class="row-item col-md-9"> 
+                
+                	<div id="capaNoMobile" class="visible-lg visible-md visible-sm hidden-xs">
+                    <div class="row">
+                    	<div class="row-item"> 
+                            <img class="foto-metge" src="../includes/ajax/redimensionarimatgecarnet.php?hw=123&width=124&idimatge=7481.jpg" />
+                            <p class="nom-metge"><a class='notranslate' href="galeria-fitxa.php?icod=EGME">Ramon Pigem i Serra</a><br />
+                            <span>[Vilobí d’Onyar, 16/02/1924 - Lleida 14/09/1997] </span> </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                     	<div class="row-item col-md-12" style="text-align:right">
+							                                <a href="galeria-fitxa.php?icod=EKFD" class="seguent-anterior"><i class="icon-double-angle-left"></i> Anterior</a>
+                                                                                        | <a href="galeria-fitxa.php?icod=JE" class="seguent-anterior">Següent <i class="icon-double-angle-right"></i></a>
+                                              		</div>
+               		</div>
+                    </div>
+              		<div id="cos-text">
+                 		<h3 class="lined margin-20">Biografia</h3>
+                   		<p class="margin-20"><div style="text-align: justify;">Neix a Viloví d’Onyar, fill de Josep Pigem i de Mercè Serra, família de la pagesia gironina. Titulat batxiller a l’Institut Balmes barceloní el 1942, inicia la carrera a la Facultat de Medicina de la Universitat de Barcelona on es llicencia el 1949. La vocació per la Psiquiatria li neix precoçment mentre fa la carrera quan entra al  Dispensari de Psiquiatria que depèn de la càtedra de Patologia General perquè la càtedra de Psiquiatria -que dirigia <a href="http://www.galeriametges.cat/galeria-fitxa.php?icod=HM" class="" classname="" target="_blank" name="">Emili Mira</a> i que havia estat la primera del país- se suspèn quan acaba la Guerra Civil. Ja metge, Ramon Pigem entra a l’Institut Mental de la Santa Creu, primer, com a alumne intern fins al 1951 i, seguidament, continua com a metge auxiliar fins al 1957, moment en què es trasllada definitivament a Lleida. </div><div style="text-align: justify;"><br></div><div style="text-align: justify;">Conscient de la carència assistencial psiquiàtrica a les Terres de Ponent, a principis dels anys 1950, Ramon Pigem obre una consulta a la ciutat de Lleida i és on coneix Monxi Palmés, una jove de Mollerussa de família acomodada i de bon patrimoni amb qui contrau matrimoni. Amb l’esforç econòmic de la família política, que es ven terres i propietats, Ramon Pigem funda la Clínica Bellavista, un centre  amb 20 llits dedicat a l’atenció psiquiàtrica hospitalària. Així, el 1954, sense cap ajut públic, aconsegueix inaugurar l’establiment  ajudat també amb una hipoteca personal de trenta mil pessetes.  Poc després,  s’instal·len a la Clínica Bellavista les monges de l’Orde de Sant Josep, conegudes com les “Josefines”. El creixement de l’activitat assistencial de la clínica adquireix funció docent quan es converteix en l'Escola Professional de Psiquiatria, adscrita a la Facultat de Medicina de la Universitat de Barcelona i, aquí, es formaran i faran pràctiques diverses generacions de psiquiatres que es titulen en l’especialitat fins als anys 1970, abans de l’entrada en vigor del nou sistema de formació dels Metges Interns Residents (MIR). </div><div style="text-align: justify;"><br></div><div style="text-align: justify;">L’any 1967, Ramon Pigem obre un despatx professional al Principat d’Andorra i, poc després, és nomenat psiquiatre andorrà. Després, el 1986, quan es funda el Servei d’Atenció Sanitària d’Andorra l’any 1986, passa a visitar al consultori del nou Hospital General Nostra Senyora de Meritxell. Paral·lelament, en aquest temps, manté l’activitat assistencial a la Clínica Bellavista de Lleida on exerceix com a director des de la seva fundació el 1953 fins al 1986, aconseguint un creixement continuat i el reconeixement de la professionalització del centre. Amb el temps, també, visita als consultoris que ha obert a Tàrrega i Barbastre. Igualment, el 1968, Ramon Pigem assisteix a la inauguració del Pavelló de Psiquiatria de l’Hospital de Santa Maria de Lleida, una iniciativa de què n’ha estat principal promotor i centre que dirigeix fins al 1983.</div><div style="text-align: justify;"><br></div><div style="text-align: justify;">Doctorat  amb la texi <i>Una experiencia de sector y un programa de sectorización para Líerida sobre la asistencia psiquiàtrica</i> que, dirigida pel professor <a href="http://www.galeriametges.cat/galeria-fitxa.php?icod=GJE" class="" classname="" target="_blank" name="">Joan Obiols</a>, Ramon Pigem llegeix a la Facultat de Medicina de la UB el 1978. Aquest mateix any, a més, assoleix el  càrrec de professor associat de la Facultat de Medicina de la Universitat de Lleida quan es crea com a extensió de  la UB. Ramon Pigem és un clínic perspicaç, un excel·lent comunicador i un notable organitzador de la funció assistencial i així impulsa l’atenció psiquiàtrica a Lleida i a Andorra i, en general, a les zones de Catalunya més desateses en Salut Mental. En el camp organitzatiu, Ramon Pigem exerceix com cap provincial del Patronat Nacional d’Assistència Psiquiàtrica (PANAP) i del Servei de Recuperació i Rehabilitació de Minusvàlids (SEREM). </div><div style="text-align: justify;"><br></div><div style="text-align: justify;">Destaca també en l’àmbit social i, més concretament, com a promotor de l’esport. Ramon Pigem és fundador del Club de Tennis de Lleida, del Club Nàutic de Salou i del Reial Automòbil Club de Lleida. Tanmateix, destaca la seva afició per l’automobilisme, un àmbit en què promociona diversos ral·lis automobilístics a les terres lleidatanes. </div><div style="text-align: justify;"><br></div><div style="text-align: justify;">Familiarment, destaca que el seu germà gran, Josep Maria Pigem Serra, també és psiquiatre i durant anys director del Manicomi de Salt. Per la seva banda, fruit del matrimoni amb Monxi Palmés, neixen quatre fills. Tres d’ells: Mercè, Jordi i Maria Eugènia es dediquen al Dret mentre que Josep Ramon és continuador d’aquesta nissaga psiquiàtrica i també s’encarrega de la direcció de la Clínica Bellavista de Lleida des del 1989 quan Ramon Pigem Serra es jubila de gairebé tots els càrrecs  per dedicar-se exclusivament a l’exercici professional a Andorra.</div>  </p>    
+                    	
+                        <p><em>GCG</em></p>
+                    </div>
+                </div>
+        	</div>
+      	</div>
+    </div>
+    <!-- FOOTER 
+	============================================= -->
+	<div class="footer">
+		<!-- Widget Area -->
+		<div class="b-widgets">
+			<div class="container layout">
+				<div class="row">
+					<!-- About -->
+					<div class="row-item col-md-2">
+						<img src="img/logo_COMB.png" alt="" style="margin-bottom: 10px;">
+						<h3>Segueix-nos a</h3>
+                        <ul class="footer-social__list">
+	<li class="footer-social__list-item">
+         <a class="footer-social__list-link" href="https://x.com/MHMedicinaCat" target="_blank">
+           <img class="footer-social__list-link-image js-footer-hover-img" alt="Icona de Twitter" data-default="../img/xxss/twitter-c.svg" data-hover="../img/xxss/twitter-c-sobre.svg" src="../img/xxss/twitter-c.svg"></a></li>
+       
+         <li class="footer-social__list-item">
+          <a class="footer-social__list-link" href="https://www.instagram.com/museuhistoriamedicinacat" target="_blank"><img class="footer-social__list-link-image js-footer-hover-img" alt="Icona d'Instagram" data-default="../img/xxss/instagram-c.svg" data-hover="../img/xxss/instagram-c-sobre.svg" src="../img/xxss/instagram-c.svg"></a></li>
+         
+</ul>
+					</div>
+					<!-- End About -->
+                    <!-- About -->
+					<div class="row-item col-md-4">
+						
+						<p style="text-align:left">La Galeria de Metges Catalans és un web de biografies mèdiques i·lustrades creat pel CoMB amb l'objectiu de donar a conèixer els metges i metgesses que han destacat al llarg de la història i, al mateix temps, retre'ls l'homenatge de la professió. </p>
+                        
+					</div>
+					<!-- End About -->
+					<!-- Links -->
+					<div class="row-item col-md-3" style="padding-left: 40px;">
+                   
+						<h3>Més informació</h3>
+							<ul class="b-list just-links m-dark">
+								<li><a href="../avis-legal.php" class="link">Avís legal</a></li>
+								<li><a href="../credits.php" class="link">Crèdits</a></li>
+                                <li><a href="../contacte.php" class="link">Contacte</a></li>
+							</ul>
+						
+					</div>
+					<!-- End Links -->
+					
+					<!-- Contact Information -->
+					<div class="row-item col-md-3">
+						<h3>Informació de contacte</h3>
+						<!-- Address -->
+						<ul class="b-list b-contact m-dark" style="margin-bottom: 15px;">
+							<li class="contact-address"><i class="icon-map-marker"></i><span><strong>Col·legi Oficial de Metges de Barcelona</strong>
+                                <br>
+                            UNITAT D'ESTUDIS ACADÈMICS<br>Passeig de la Bonanova, 47 
+<br>
+08017 Barcelona
+</span></li>
+							<li class="contact-mail"><i class="icon-envelope"></i><a href="#" onclick="javascript:"><img onclick="javascript:ofuscar_correu_enviar('comb','cat','galeriametges');" style="cursor:pointer;border:none;" src="/img/comb.cat_1_galeriametges.png"></a></li>
+							<li class="contact-phone"><i class="icon-phone"></i><span>34 935 678 888</span></li>
+							
+						</ul>
+						<!-- End Address -->
+					</div>
+					<!-- End Contact Information -->
+				</div>
+			</div>
+		</div>
+		<!-- End Widget Area -->
+		<!-- Copyright Area -->
+		<div class="b-copyright">
+			<div class="container layout">
+				<!-- Copyright Text -->
+				<span class="copy">Copyright © 2015 <a href="http://www.comb.cat" target="_blank">Col·legi Oficial de Metges de Barcelona</a>.</span>
+				<!-- Social Icons -->
+				<ul class="b-social bot">
+					<li>Segueix-nos a:</li>
+					<li><a class="fb" href="https://www.facebook.com/profile.php?id=100009365153706" target="_blank"><i class="icon-facebook"></i></a></li>
+					<li><a class="tw" href="https://twitter.com/GALMETCAT" target="_blank"><i class="icon-twitter"></i></a></li>
+					
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- END FOOTER 
+	============================================= -->
+
+  <script src="js/galetes.js"></script>
+<script>
+  cridarAnalytics();
+  missatgePoliticaGaletes();
+
+		</script>
+</div>
+</body>
+    <script type="text/javascript">
+	var tamany = '100%';
+
+</script>
+</html>
+ 
