@@ -220,12 +220,14 @@ sempre**, i **«ab jurament llargament» és, el 1904, tinta i prou.**
    fitxa identifica **el notari Soldevila** i en reconstrueix sis moments entre
    l'1 de gener de 1792 i el 14 d'agost de 1793. **El registre sencer i la seva
    signatura d'arxiu continuen pendents.**
-6. **El desenllaç d'aquell procés.** **La font declara que les seves notes no en
-   diuen res.** `obert, i és una limitació declarada de la font.`
-7. **Quantes «lletres de relaxació de jurament» va despatxar el tribunal del
-   vicari general d'Urgell** per a afers andorrans, i **si se'n conserva la
-   sèrie.** `obert, prioritari.` `Requereix font externa: l'Arxiu Diocesà
-   d'Urgell.`
+6. ~~**El desenllaç d'aquell procés.**~~ — **`font_externa` el 2026-09-22**:
+   **la font declara que les seves notes no en diuen res**; la fitxa només pot
+   deixar identificats el procés i el límit de la font. **Cal el dossier judicial
+   o notarial per saber com va acabar.**
+7. ~~**Quantes «lletres de relaxació de jurament» va despatxar el tribunal del
+   vicari general d'Urgell**, i **si se'n conserva la sèrie.**~~ — **`font_externa`
+   el 2026-09-22**: **el corpus no té cap recompte ni la sèrie documental**.
+   **Cal consultar l'Arxiu Diocesà d'Urgell per establir-ne l'abast.**
 8. ~~**Si el jurament dels menors de vint-i-cinc anys va sobreviure al 1904**, i
    **fins quan.** `obert.`~~ — **`parcial`**: la fitxa estableix que el 1904 era
    **l'únic cas d'antic jurament que encara es practicava davant notari**. **No
