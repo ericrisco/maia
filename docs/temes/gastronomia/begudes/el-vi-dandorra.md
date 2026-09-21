@@ -154,9 +154,32 @@ dues són andorranes.**
   18-09-2026**: **cinc en total** —Borda Sabaté, Casa Auvinyà, Casa Beal,
   Celler Mas Berenguer i Casus Belli
   ([font](../../../fonts/wikipedia-ca-vi-andorra.md)).
-- **La taula d'índexs bioclimàtics** de la ponència —índex hidrotèrmic,
+- ~~**La taula d'índexs bioclimàtics** de la ponència —índex hidrotèrmic,
   producte heliotèrmic, ITE, possibilitat heliotèrmica, índex de Davitaja, valor
-  bioclimàtic—, que és **una figura** i el text no en dona els valors.
+  bioclimàtic—, que és **una figura** i el text no en dona els valors.~~ —
+  **`resolt` el 2026-09-21**: la figura de la **p. 103** de la ponència (la
+  pàgina 100 del PDF local) dona la taula sencera, atribuïda al **Celler Casa
+  Auvinyà (2005)**:
+
+  | Índex | Resultat | Valoració |
+  | --- | ---: | --- |
+  | **P** (índex hidrotèrmic) | **4.577,10** | Favorable |
+  | **PH** (producte heliotèrmic) | **2,57** | Acceptable |
+  | **ITE** (integral tèrmica eficaç) | **1.169,52** | Favorable |
+  | **IH** (possibilitat heliotèrmica) | **1.674,25** | Favorable |
+  | **ID** (verema de Davitaja) | **0,22** | Favorable |
+  | **IB** (valor bioclimàtic) | **3,27** | Acceptable |
+  | **Pluvm** (pluja mitjana del període vegetatiu, mm) | **280,41** | Favorable |
+  | **Drg** (risc real de gelada, dies) | **2,40** | Favorable |
+  | **Drgp** (risc probable de gelada, dies) | **35,00** | Acceptable |
+  | **H** (hores d'insolació) | **2.200** | Acceptable |
+  | **Pv** (període vegetatiu, dies) | **183** | Acceptable |
+  | **Cero vegetatiu** | **10 °C** | — |
+  | **Tming** (temperatura mínima de gelada) | **7 °C** | — |
+  | **Tmg** (temperatura mitjana de gelada) | **0 °C** | — |
+
+  ([font](../../../fonts/tor-climatologia-casa-auvinya.md); [render de la
+  figura](../../../raw/sac-diades/29a-2016-casa-auvinya-page-100.png)).
 - ~~**L'última referència documental** de la vinya històrica. **Prioritari.**~~ — **`parcial` el 21-09-2026**: [la vinya i el tabac](../../economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) conserva la divergència entre **mitjan segle XVIII** (Mas) i referències **fins al 1800** (Tor), ambdues fonts del corpus. **No hi ha encara un document primari que permeti triar l’última data.**
 - ~~**La superfície de vinya d'Andorra** avui, en total.~~ — **`resolt` el
   18-09-2026**: **prop de 20 hectàrees en total**, repartides entre els cinc
