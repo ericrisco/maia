@@ -80,14 +80,15 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
 
 **Molt, i és d'allò més fructífer del corpus.**
 
-- Fitxa per topònim, començant per **les set parròquies**: Canillo, Encamp,
+- ~~Fitxa per topònim, començant per **les set parròquies**: Canillo, Encamp,
   Ordino, la Massana, Andorra la Vella, Sant Julià de Lòria, Escaldes-Engordany.
-  ~~**Aquesta fitxa no dona l'etimologia de cap d'elles.**~~ **OBERT A MITGES**:
-  [el substrat als noms de lloc](./el-substrat-als-noms-de-lloc.md) en dona
-  **les formes documentades i datades** de quinze topònims —**Canillo s'escriu
-  *kanillave* el 860 i *caniyoll* el 1295**— i les etimologies que s'hi
-  proposen, **marcades com a propostes**. **Canillo queda «en quarantena» pel seu
-  propi autor.** Falten **Encamp, la Massana i Sant Julià**.
+  **Aquesta fitxa no dona l'etimologia de cap d'elles.** [El substrat als noms
+  de lloc](./el-substrat-als-noms-de-lloc.md) en dona **les formes documentades i
+  datades** de quinze topònims —**Canillo s'escriu *kanillave* el 860 i *caniyoll*
+  el 1295**— i les etimologies que s'hi proposen, **marcades com a propostes**.
+  **Canillo queda «en quarantena» pel seu propi autor.** Falten **Encamp, la
+  Massana i Sant Julià**.~~ — **`parcial` el 21-09-2026**: les etimologies de
+  tres parròquies continuen obertes.
 - ~~**L'etimologia d'«Andorra»**~~ — **`resolt` el 18-09-2026**: [el nom
   d'Andorra](../../historia/origens/el-nom-dandorra.md) ja en dona l'etimologia.
   Hi consta també que **«Andorra la Vella» ve de *vila d'Andorra*, no de
