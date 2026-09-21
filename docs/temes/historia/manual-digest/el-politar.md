@@ -285,9 +285,16 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 
 1. **L'any i els noms** que el Politar deixa en blanc. Els va deixar ell; el
    corpus tampoc els té.
-2. **Qui era Bernat d'Areny** i quina relació té amb
-   [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md),
-   set segles després.
+2. ~~**Qui era Bernat d'Areny** i quina relació té amb
+   [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md).~~
+   — **`parcial` el 21-09-2026**: el *Politar* només identifica **Bernat de
+   Areny** com l'home amb qui el Consell de la Vall tenia plet per **no voler
+   pagar quèsties** i per **donar facultat per edificar en comunals**. La lectura
+   creuada amb [Tinga's pres per lo Príncep](../../institucions/justicia/tingas-pres-per-lo-princep.md)
+   i [el saig](../../institucions/justicia/el-saig.md) confirma el conflicte i
+   deixa oberta la seva datació exacta; **no hi ha cap document al corpus que
+   permeti identificar-lo més ni demostrar cap relació genealògica amb Guillem
+   d'Areny-Plandolit, del segle XIX**.
 3. **Els capítols que Brutails no reprodueix.** Aquests extractes són una tria
    d'un jutge francès: **el que no li interessava, no hi és**.
 4. **El llibre I del Politar**, el d'història i dominis, que el capítol II esmenta
