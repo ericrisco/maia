@@ -77,8 +77,11 @@ estudiants universitaris que investiguen temes d'història andorrana —
 
 ## Buits registrats
 
-1. **L'inventari complet de les quinze obres**: només dues ponències i
-   un llibre són al corpus.
+1. ~~**L'inventari complet de les quinze obres**: només dues ponències i
+   un llibre són al corpus.~~ — **`parcial`**: la font biogràfica només parla
+   d'**unes quinze obres** i en resumeix els àmbits —numismàtica, toponímia,
+   art medieval, pobles desapareguts i costumari—; el corpus n'ha identificat
+   tres, però encara no en té el llistat bibliogràfic complet.
 2. ~~**La contrastació individual** de les desenes de citacions que el
    corpus li atribueix, article per article — tasca de manteniment, no
    de recerca.~~ — **`no-es-buit` el 20-09-2026**: la mateixa fitxa la defineix explícitament com una **tasca de manteniment**, no com una dada factual absent.
