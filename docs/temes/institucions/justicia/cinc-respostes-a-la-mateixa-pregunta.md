@@ -268,14 +268,24 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
 2. ~~**Les cinc respostes**, una per una.~~ **Brutails no les reprodueix.** —
    **`parcial`: una de les cinc respostes queda documentada amb interlocutor i
    raonament; les altres quatre no es reprodueixen.
-3. **El text de les dues convencions del 13 d'abril i el 8 de maig de 1903** que
-   van suprimir el delme, i **quina era la prestació fixa** que les va
-   substituir. `obert, prioritari i datat.`
-4. **Els tres decrets del Consell General de 1892 i 1894**, sencers. `obert, amb
-   data exacta.`
-5. **La protesta del Bisbe del 21 d'agost de 1894.** `obert.`
-6. **Quan el bisbe d'Urgell va deixar d'anar a Andorra**, en anys: **la font ho
-   data per un trasllat de seu que no nomena.** `obert.`
+3. ~~**El text de les dues convencions del 13 d'abril i el 8 de maig de 1903**
+   que van suprimir el delme, i **quina era la prestació fixa** que les va
+   substituir.~~ — **`parcial`**: la fitxa confirma les **dues dates**, que les
+   convencions van suprimir el delme del **Capítol i del Bisbe** i que el van
+   substituir per **una prestació fixa per al Bisbe**, però **no en conserva el
+   text ni l'import.**
+4. ~~**Els tres decrets del Consell General de 1892 i 1894**, sencers.~~ —
+   **`parcial`**: la fitxa en dona les dates del **30 de maig de 1892**, **17 de
+   març de 1894** i **9 de maig de 1894**, amb el contingut de cadascun, però
+   **els decrets sencers encara no són al corpus.**
+5. ~~**La protesta del Bisbe del 21 d'agost de 1894.**~~ — **`parcial`**: la
+   fitxa confirma la **data** i que el Bisbe **va protestar contra les decisions
+   del Consell**, però **no en conserva el text ni les al·legacions.**
+6. ~~**Quan el bisbe d'Urgell va deixar d'anar a Andorra**, en anys: **la font ho
+   data per un trasllat de seu que no nomena.**~~ — **`parcial`**: la fitxa
+   confirma que **va deixar d'anar-hi fins al trasllat a una altra seu** i que
+   aquesta és la referència temporal de la font. **Continuen oberts l'any i la
+   seu concreta.**
 7. ~~**La mida real del cavalló**, contrastada: **el corpus n'ha derivat disset
    garbes d'una fracció**, i **no té cap font que ho digui amb lletres.** `parcial
    —abans no en tenia cap xifra.~~ — **`parcial`: les disset garbes derivades
@@ -284,16 +294,21 @@ dues coses que aquell mateix decenni es discuteixen**. Vegeu
    1470** i **l'embargament del 18 d'abril de 1472**. **Brutails no en dona
    signatura d'arxiu.**~~ — **`no-es-buit` el 20-09-2026**: la font només en
    dona les dates i la naturalesa i no permet identificar millor les peces.
-9. **L'encàrrec del codi del 17 de desembre de 1868**: **si se'n va escriure cap
-   esborrany**, i **on és**. `obert.`
+9. ~~**L'encàrrec del codi del 17 de desembre de 1868**: **si se'n va escriure
+   cap esborrany**, i **on és**.~~ — **`parcial`**: la fitxa conserva el text de
+   l'encàrrec, els **cinc comissionats** i que el projecte **no va tenir
+   continuació**. **No consta si se'n va redactar cap esborrany ni on seria.**
 10. ~~**L'Apèndix de la Reforma de 1866**.~~ — **`parcial` el 2026-09-18**:
     se'n coneixen dues pàgines de contingut, **la 13 i la 14**, i **segueix sense
     ser al corpus**. **El text de la Reforma sí que s'ha llegit**, a l'apèndix D
     de Ríos Urruti, **i l'obligació de mestre i mestra que Brutails situava a la
     pàgina 14 hi és**, com a disposició final. **L'*Apèndix* que Brutails cita
     segueix sent una peça distinta i no consta en aquella transcripció.**
-11. **El delme del Capítol**: **quina part era i des de quan**. **El conflicte hi
-    va esclatar i la font no en dona la fracció.** `obert.`
+11. ~~**El delme del Capítol**: **quina part era i des de quan**. **El conflicte
+    hi va esclatar i la font no en dona la fracció.**~~ — **`parcial`**: la fitxa
+    confirma que el conflicte era sobre **la part de delmes del Capítol** i en
+    descriu l'excomunió i la suspensió de les franquícies duaneres. **Continuen
+    obertes la fracció i la data d'inici.**
 
 **Un buit de la font no és un buit del món.** Que **cinc juristes donessin cinc
 respostes el 1904** no vol dir que la qüestió fos indeterminada en dret: vol dir
