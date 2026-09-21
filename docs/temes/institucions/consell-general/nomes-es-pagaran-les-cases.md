@@ -183,8 +183,9 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
    20-09-2026**: **la font identifica la concessió i diu que el Consell va
    nomenar perits per valorar els terrenys en cas de desacord entre les parts**.
    **No consta si el desacord es va produir ni si els perits van arribar a actuar.**
-8. **Quan es va introduir l'expropiació a Andorra.** **La font diu «innovació
-   recent» i no dona ni data ni norma fundacional.**
+8. ~~**Quan es va introduir l'expropiació a Andorra.** **La font diu «innovació
+   recent» i no dona ni data ni norma fundacional.**~~ — **`parcial` el 21-09-2026**:
+   la **Llei d’expropiació de 1993** ([captura del BOPA](../../../raw/web/institucions/consell-general/llei-expropiacio-1993.txt)) identifica el règim legal anterior com el **Decret de 1958**, modificat el **1974**, i explica que el projecte aprovat el 1989 no es va poder promulgar abans de la Constitució. **Això fixa el primer instrument normatiu localitzat, però no prova quan es va introduir la institució que Brutails anomena «innovació recent» el 1904.**
 9. **Els actes d'*in solutum* de 1831 i de cap al 1875**, sencers.
 10. ~~**Si els *judicadors* elegits de comú acord entre les parts tenien el mateix
     estatut que els *judicadors jurats***.~~ — **`parcial` el 20-09-2026**:
