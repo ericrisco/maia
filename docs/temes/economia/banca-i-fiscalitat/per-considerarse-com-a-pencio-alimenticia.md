@@ -208,10 +208,7 @@ com a buit «quan va desaparèixer el violari».**
 
 1. **La data exacta i el lloc de l'acte.** **L'editor els ha buidat** i **dona
    «1870-1880» com a forquilla seva.** **El corpus no data la peça.**
-2. **El contingut de la llei ***Si convenerit ut alias***, *ff.*, ***De
-   jurisdictione omnium judicum***, i d'***Ubi acceptum est semel juditium***.**
-   **El corpus en registra els noms i no n'ha comprovat el text.**
-   `Requereix el Digest.`
+2. ~~**El contingut de la llei ***Si convenerit ut alias***, *ff.*, ***De jurisdictione omnium judicum***, i d'***Ubi acceptum est semel juditium***.~~ — **`parcial` el 21-09-2026**: l'escriptura identifica els tres títols del Digest i els utilitza per justificar les renúncies de competència, però el corpus no n'ha comprovat el text literal.
 3. ~~**Si la inembargabilitat dels aliments existia a Andorra com a categoria
    jurídica.** **Buit obert a `avui-trec-penyores`.**~~ — **`parcial` el
    18-09-2026**: **en aquesta escriptura opera com a pacte i amb una fórmula de

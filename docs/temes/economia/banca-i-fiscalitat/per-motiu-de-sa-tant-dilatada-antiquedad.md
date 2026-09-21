@@ -212,12 +212,8 @@ l'encadenament.**
 
 ## Buits registrats
 
-1. **El llibre de la sacristia de Sant Esteve d'Andorra la Vella**, **que és el
-   que va acreditar el censal de 1456 quan l'escriptura no es va trobar.**
-   **Prioritari**: **és un registre comptable eclesiàstic que servia de prova
-   civil.** `Requereix l'arxiu parroquial.`
-2. **L'acte de creació del censal del 24 de maig de 1456**, **donat per perdut
-   el 1788.** **El corpus no sap si es va retrobar.**
+1. ~~**El llibre de la sacristia de Sant Esteve d'Andorra la Vella**, que va acreditar el censal de 1456 quan l'escriptura no es va trobar.~~ — **`parcial` el 21-09-2026**: la font el descriu com un registre comptable eclesiàstic amb valor probatori civil, però el corpus no té el llibre de l'arxiu parroquial.
+2. ~~**L'acte de creació del censal del 24 de maig de 1456**, donat per perdut el 1788.~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data, el tipus del censal i el fet que el 1788 no es va trobar, però el corpus no sap si l'original es va retrobar després.
 3. **Quin era el «*mas o heretat de la P.*»** de la parròquia d'Andorra la Vella
    sobre el qual requeia el censal.
 4. ~~**Per què hi havia deu anys i nou mesos de pensions endarrerides** i **per què

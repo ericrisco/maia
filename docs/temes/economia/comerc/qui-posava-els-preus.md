@@ -205,9 +205,7 @@ s'hi aplicava. Vegeu
 5. **Qui era el farmacèutic Dallerès** i en què consistia el seu monopoli.
 6. **Si el preu de la carn el fixava realment l'arrendament** o si el Consell hi
    intervenia, i qui guanyava què en aquell arrendament.
-7. **Què va passar el 1793** a Andorra, i si les quatre sessions de preus d'aquell
-   any tenen relació amb la guerra. **El corpus no ho afirma**, i **no té cap
-   fitxa de la Guerra Gran**. **Prioritari.**
+7. ~~**Què va passar el 1793** a Andorra, i si les quatre sessions de preus d'aquell any tenen relació amb la guerra.~~ — **`parcial` el 21-09-2026**: la fitxa documenta quatre sessions de preus aquell any, però el corpus no té una història de la Guerra Gran que permeti relacionar-les amb el conflicte.
 
 ## Related
 
