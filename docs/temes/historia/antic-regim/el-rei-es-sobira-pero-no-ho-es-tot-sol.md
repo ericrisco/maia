@@ -264,9 +264,10 @@ mateixa família.`
 
 ## Buits registrats
 
-1. **Els dos edictes d'incorporació**: **Enric IV, juliol de 1607**, i **Lluís
+1. ~~**Els dos edictes d'incorporació**: **Enric IV, juliol de 1607**, i **Lluís
    XIII, 19 d'octubre de 1620**. **Citats i no vistos**, i **del segon només se'n
-   té la frase transcrita.** **Prioritari.**
+   té la frase transcrita.** **Prioritari.**~~ — **`parcial` el 21-09-2026**: la
+   **Gran Enciclopèdia Catalana** ([captura](../../../raw/web/historia/antic-regim/enciclopedia-andorra-edictes-1607-1620.html)) identifica els dos edictes com els actes pels quals els drets de la casa de Foix foren incorporats a la corona de França, i confirma les dates de **1607** i **1620**. **Els textos originals i la frase completa del segon continuen sense consulta directa.**
 2. ~~**L'any exacte de l'homenatge de Montauban** i **el de l'acte sobre el delme
    i la Inquisició**. **L'extracció dona «158^» i «i58p».**~~ — **`resolt` el
    16-09-2026 renderitzant la pàgina** (PDF 41 de
