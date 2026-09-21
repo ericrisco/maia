@@ -94,7 +94,7 @@ Això confirma el que una altra font insinuava amb el títol *«acotar-se per
 llegir el seu nom»*: **les plaques són a terra i cal ajupir-se per llegir-les**.
 Aquest és, precisament, el sentit del projecte de Demnig arreu d'Europa.
 
-I hi ha un **llibre digital**, ***13 camins cap a l'infern***, que difon les
+I hi ha un **audiovisual**, ***13 camins cap a l'infern***, que difon les
 històries dels tretze.
 
 ~~**Buit registrat:** quantes llambordes hi ha instal·lades a Andorra, on, i amb
