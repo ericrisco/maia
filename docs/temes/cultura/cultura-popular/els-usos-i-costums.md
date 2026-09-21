@@ -117,8 +117,11 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
 
 ## Buits registrats
 
-1. **La resta de la ponència de Canturri** — el corpus n'ha extret els casos
-   datats; el text complet en té més.
+1. ~~**La resta de la ponència de Canturri**~~ — **`parcial` el 21-09-2026**:
+   el corpus ja n’ha extret tres casos datats —**gegants (1982), sardana
+   (anys quaranta) i falles (canvi d’escorça de bedoll a cotó amb combustible)**—
+   i la tesi sobre el pas de l’espontaneïtat a l’associació. Encara no s’ha
+   buidat el text complet ni els altres exemples de la ponència.
 2. ~~**Mestre Roure**, el solsoní: nom complet, anys a Andorra, què més va
    muntar.~~ — **`resolt` el 18-09-2026, bessó amb** [els
    gegants](../../costums/gegants/els-gegants.md#els-gegants-tenen-nom-i-qui-els-va-fer-tambe):
