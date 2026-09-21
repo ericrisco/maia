@@ -250,7 +250,7 @@ confusió*», aquest cop **entre el *cens* i el *censal***.**
    (22-07-1893). **La sentència és provisional.**
 9. **Si el Tribunal Superior va arribar a allargar el termini comercial.**
    **La font el veu «disposat» i no dona cap resolució.**
-10. **Què eren «las cuaranta pesetas de conducta»** de la sentència de 1887.
+10. ~~**Què eren «las cuaranta pesetas de conducta»** de la sentència de 1887.~~ — **`resolt` el 21-09-2026**: eren **el salari pels treballs fets en una casa**, una forma de *soldadas* o *conducta* que **prescrivia als tres anys** ([glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), amb els casos del 2 d'abril de 1887 i el 22 de juliol de 1893).
 
 ## Related
 
