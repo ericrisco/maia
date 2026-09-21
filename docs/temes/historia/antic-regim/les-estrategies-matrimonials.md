@@ -153,7 +153,11 @@ cadascun dels tres moments. Creuar amb
    treball per a treballadors andorrans temporers** (*Els moviments migratoris a
    Andorra*, p. 82). El corpus encara no té els noms de les mines, el nombre de
    treballadors ni els anys de cada episodi.
-3. **L'estudi de testaments** de Camiade — quins, d'on.
+3. ~~**L'estudi de testaments** de Camiade — quins, d'on.~~ — **`parcial` el
+   21-09-2026**: la ponència explica que la composició de la casa es reconstrueix
+   **a partir d'un estudi de testaments** i en dona el resultat —padrins, pares,
+   hereu o hereva, cònjuge, fills i germans solters— (*Els moviments migratoris a
+   Andorra*, p. 81). No identifica quins testaments són ni d'on provenen.
 4. ~~**Les enquestes orals** que va fer: existeixen, estan dipositades? Creuar
    amb [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~
    — **`parcial`, i amb un testimoni de tercer que en confirma l'existència el
