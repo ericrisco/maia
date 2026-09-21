@@ -176,7 +176,7 @@ massís**.
   vegetació de congestera** (classe *Salicetea herbaceae*) i **16 briòfits**, dos
   dels quals són primera citació al Pirineu andorrà. El resum no dona els noms
   dels 21 tàxons, que continuen oberts ([font local](../../../raw/web/territori/fauna-flora/congesteres/README.md)).
-- **Els resultats de les Open Top Chambers.**
+- ~~**Els resultats de les Open Top Chambers.**~~ — **`parcial` el 21-09-2026**: el projecte d’[ARI](../../../raw/web/territori/fauna-flora/congesteres/otc/README.md) confirma el disseny experimental: des del **2017** hi ha **vuit OTC** en congesteres, amb un escalfament d’uns **2 °C**; en quatre també s’elimina la neu a mitjan maig per simular una fosa primerenca, i hi ha parcel·les control. La font només descriu el seguiment florístic i funcional a llarg termini, però **no publica encara les xifres de resposta de la vegetació**.
 - ~~**El segell de carn de qualitat d'Andorra**: què és, qui l'atorga, quants
   ramaders.~~ — **`parcial` el 18-09-2026**: **el «quants ramaders» ja té xifra**,
   i **el segell resulta ser-ne tres**: **«Carn de qualitat controlada d'Andorra»,

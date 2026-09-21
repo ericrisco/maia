@@ -1,0 +1,364 @@
+EL CANVI CLIMÀTIC I ANDORRA 29A DIADA ANDORRANA A L’UCE: 115-122 (2016)
+SOCIETAT ANDORRANA DE CIèNCIES, ANDORRA
+DOI: 10.2436/15.8060.09.15 ISBN: 978-99920-61-33-6
+                                                                                 Societat Andorrana de Ciències
+
+
+
+
+Efectes del canvi
+climàtic sobre la
+biodiversitat a Andorra
+   Benjamin KOMAC i MINGAUD
+
+
+Introducció
+El clima és un dels principals factors que condiciona la distribució de la
+flora, que al seu torn és un element important per a la fauna. Per això una
+mínima variació climàtica es converteix en un element molt pertorbador
+que pot posar en perill la supervivència de la flora i la fauna.
+Des de sempre el clima ha fluctuat per diverses raons, molt sovint de
+manera molt plàcida, a vegades de manera més pronunciada, com durant
+els períodes postglaciació, amb un escalfament del voltant d'1 ºC durant
+períodes de mil anys. Aquests canvis climàtics moderats van provocar que
+les espècies s’adaptessin a les noves condicions o les van fer migrar fins a
+llocs amb condicions climàtiques més idònies. En comparació, el canvi
+climàtic que ens espera ara serà molt més ràpid, i per això pot tenir
+conseqüències molt preocupants per la conservació de la flora i fauna. Es
+preveu que les conseqüències del canvi climàtic sobre la biodiversitat
+siguin més importants a les zones de muntanya, on fins un 30% de les
+espècies de flora podrien desaparèixer. A Andorra el canvi climàtic ja és
+una realitat: segons els treballs dels companys de la Unitat de Medi Físic Figura 1. Comparació del
+del Centre d’Estudis de la Neu i de la Muntanya d’Andorra, s’observa un nombre d’espècies de
+increment de les temperatures de 0,14 ºC per dècada i una disminució de quiròpters, de papallones
+les precipitacions al voltant d’un 4% també per dècada; també s’observa dïurnes i de plantes
+                                                                             vasculars entre Andorra,
+un augment del nombre de dies càlids de 2,2 per dècada.                      Espanya i França
+Andorra té una gran biodiversitat en comparació entre la seva petita
+superfície i el nombre d’espècies si la comparem amb els països veïns,
+França i Espanya. Per exemple, hi ha 18 espècies de quiròpters al Principat, 29 a Espanya i 34
+a França, en països més de mil cops més grans que Andorra (vegeu figura 1).
+
+
+29a Diada andorrana a l’UCE: El canvi climàtic i Andorra                                                 115
+Ens podem demanar com el canvi climàtic afectarà aquesta gran biodiversitat que tenim a les
+nostres muntanyes. Les espècies que viuen a les muntanyes van evolucionar durant mil·lennis
+per adaptar-se a les severes condicions climàtiques d’aquests indrets. Aquesta forta
+especialització a unes condiciones particulars les fa molt més vulnerables als canvis climàtics
+en general. Perquè no desapareguin les espècies davant del canvi climàtic, o bé s’hauran
+d’adaptar, o bé hauran de migrar. Per determinar com una espècie respondrà als canvis es
+poden fer dos tipus d’estudis: els seguiments a llarg termini o els estudis de modelització de
+nínxol. En aquest article presentarem els seguiments a llarg termini i els estudis de
+modelització de nínxol duts a terme pel Cenma per estudiar els efectes del canvi climàtic
+sobre la gran biodiversitat del Principat.
+
+Els seguiments a llarg termini
+Les llargues sèries de dades obtingudes amb els seguiments a llarg termini permeten definir
+si una fluctuació o una tendència temporal és natural o deguda a una pertorbació, com per
+exemple el canvi climàtic. També es pot simular el canvi climàtic utilitzant un gradient
+altitudinal, ja que les temperatures disminueixen amb l’alçada, però també cal fer seguiments
+durant diversos anys per poder determinar si les tendències són realment degudes a un canvi
+de les condicions climàtiques o no. Aquí presentarem els seguiments a llarg termini que el
+Cenma fa a Andorra per poder predir les conseqüències del canvi climàtic sobre algunes
+espècies o grups d’espècies.
+
+Les papallones diürnes
+Les papallones diürnes són excel·lents bioindicadors de l’ambient i del clima que els envolta,
+ja que són sensibles a la composició, la fragmentació i l’estructura de la vegetació i a variables
+climàtiques com les temperatures o les precipitacions, a més del seu valor estètic i de
+presentar relativa facilitat per ser identificades.
+L’any 2004 es va iniciar la xarxa de seguiment Butterfly Monitoring Scheme a Andorra
+(BMSAnd, www.iea.ad/bmsand) per tenir un coneixement exhaustiu de les diferents
+poblacions de papallones i de la seva distribució dins del país. La tècnica del BMSAnd és la
+mateixa que es fa servir a molts països d’Europa i consisteix a realitzar itineraris (anomenats
+també transsectes) al camp i fer recomptes visuals d’exemplars adults. Actualment hi ha set
+transsectes que se segueixen a Andorra (Comapedrosa, Enclar, Fontaneda, Madriu, rec del
+Solà, Sorteny i vall del Riu) que permeten tenir una molt bona representativitat de la diversitat
+dels hàbitats del Principat. El període oficial de recollida de dades consta de trenta setmanes,
+des de la primera de març fins a l’última de setembre; no obstant, en els itineraris de més
+alçada d’Andorra, per qüestions de nivologia i de baixes temperatures, s’inicia la temporada
+la primera setmana de maig.
+Amb les dades obtingudes, per exemple, podem veure a quina setmana del BMSAnd s’ha vist
+el 25% de tots els individus d’una mateixa espècie durant la temporada de mostreig. En el cas
+de la bruna boscana (Pararge aegeria) o de la blanqueta de la col (Pieris rapae) al transsecte
+d’Enclar, vam trobar per l’any 2014 un avançament de cinc i set setmanes, respectivament, de
+la setmana en la qual s’assoleix aquest percentatge d’individus (vegeu figura 2). Això és un clar
+
+
+116                                                                Universitat Catalana d’Estiu 2016
+efecte del canvi climàtic, però encara que hi ha
+un avançament fenològic, cal esperar uns anys
+per veure si té conseqüències en el nombre
+d’individus que s’observa en el transsecte, o si
+fins i tot si pot desaparèixer l’espècie.
+
+Els ocells comuns
+L’elecció del grup de les aus per estudis de llarg
+termini té diversos motius. Els ocells han estat
+tradicionalment afició de naturalistes, però a
+partir de l’estudi al llarg dels anys, els experts es
+van adonar del potencial que tenien com a
+indicadors dels canvis ambientals així com a
+reflex de l’estat actual d’un ecosistema. La Figura 2. Evolució dels percentatges d’individus de les
+diversitat en el regne dels ocells fa que existeixin espècies de papallones de bruna boscana (dalt) i de
+espècies de tota mena. Algunes requereixen blanqueta de la col (baix) durant les 30 setmanes del
+condicions particulars per sobreviure, altres són seguiment, durant el període 2006-2014 al transsecte
+                                                      d’Enclar
+espècies molt generalistes, alguns ocells tenen
+gran capacitat de moviment, en trobem d’altres
+que no són gens adaptables als nous canvis... Veure al llarg dels anys les reaccions i les
+dinàmiques de les espècies ornitològiques permet, doncs, inferir la variació dels ecosistemes.
+El seguiment porta el nom de SOCA: seguiment dels ocells comuns d’Andorra. S’estudien els
+ocells anomenats comuns perquè es vol que les dades obtingudes siguin representatives
+d’una part del territori i els seus hàbitats, i no es busca valorar la presència o absència de
+determinades espècies rares, migratòries o passavolants. Els ocells comuns també tenen
+l’avantatge que acaben sent fàcilment reconeixibles per la població local, la qual cosa permet
+la implicació de la societat en un estudi de caire científic.
+Com per al BMSAnd, l’estudi es fa amb itineraris, però en el cas del ocells es fa només quatre
+cops l’any: dos cops a l’hivern i dos cops a la primavera. Aquesta metodologia de seguiment
+es comuna a molts països d’Europa. A Andorra actualment hi ha setze transsectes que se
+segueixen: Certers, coll Jovell, coll d'Ordino, Cortals d’Encamp, el Castellar, els Pujols,
+Encamp, Ensagents, Fontaneda, Incles, les Pardines, Ordino-la Cortinada, rec de l'Obac, rec
+del Solà i Sorteny.
+De moment, la sèrie de dades és curta (6 anys) per poder observar una tendència realment
+certa quant a l’abundància, presència o diversitat dels ocells, però amb més dades podrem
+determinar quins són els àmbits que pateixen més les conseqüències i la sensibilitat als canvis
+de determinats hàbitats.
+
+La vegetació de congesta
+Una congesta és una acumulació de neu que roman en una clotada o terreny de muntanya i
+que recobreix el sòl tot o part del període estival. Aquesta neu és aportada habitualment per
+l’acció del vent, per una allau o per un canvi de pendent del vessant. La neu roman sense
+
+
+29a Diada andorrana a l’UCE: El canvi climàtic i Andorra                                            117
+fondre’s perquè es troba situada en una zona obaga, per l’orografia del lloc, tot i que sovint
+es dóna més d’una d’aquestes condicions. Aquestes congestes acostumen a fer-se sempre als
+mateixos indrets, ja que les causes d’acumulació de neu són força estables (com, per exemple,
+l’orografia, els vents dominants...). L’estabilitat en el temps d’aquesta coberta de neu fa que
+s’hi creï un ambient ecològicament particular, anomenat congestera. Això es tradueix en
+l’establiment de plantes predominantment quionòfiles (espècies adaptades a la presència de
+neu), amb un període vegetatiu molt curt. Per això, la majoria d’espècies vegetals que es
+troben a les congesteres són exclusives d’aquest tipus d’hàbitat, el qual esdevé un reservori
+de biodiversitat únic als Pirineus. Les congesteres poden ser considerades com un model de
+comunitat vegetal per estudiar i predir les conseqüències del canvi climàtic sobre la vegetació
+alpina, i això va motivar la posada en marxa l’any 2009 d’un seguiment de la vegetació en
+dues congestes d’Andorra que es va implementar en altres congestes del Pirineu a l’any 2013.
+Dins de la congesta, fem un seguiment de la presència (amb codis d’abundància) i de la
+fenologia de les espècies entre l'1 de juliol i el 10 de setembre. La fenologia estudia la relació
+entre els factors climàtics i els cicles biològics dels éssers vius; el moment i la durada dels
+esdeveniments fenològics particulars varia segons els anys depenent de la situació
+meteorològica. En el cas de les plantes de congestes estudiem quan es produeixen l’aparició
+i caiguda de fulles, la floració i la maduració dels fruits. Per fer-ne el seguiment, a cada
+congesta hi ha tres placetes de mostreig, cadascuna de 3 m2, repartides al llarg del gradient
+de fosa de la neu. L’estudi fenològic ha demostrat que determinades espècies adapten la seva
+fenologia als factors físics locals (com, per exemple, la data de la fosa de la neu) a fi de
+permetre maximitzar les probabilitats d’èxit reproductiu. També s’ha avaluat la diversitat
+funcional (diversitat d’atributs funcionals, com per exemple, el nombre de flors, la superfície
+foliar...) per tal de conèixer l’estabilitat de l’hàbitat de congestera i la seva resposta als canvis
+ambientals (com, per exemple, respostes en la productivitat o en la resiliència després de
+canvis sobtats o pertorbacions). Amb aquest estudi s’ha detectat que algunes espècies
+augmenten el nombre d’inflorescències quan es troben en congestes on la neu es fon més
+tard.
+L’any 2016, en el marc d’un projecte Poctefa (Programa operatiu de cooperació
+transfronterera Espanya-França-Andorra finançat per fons Feder i del Govern d’Andorra) sobre
+la flora dels Pirineus es va posar en marxa un
+estudi per simular l’efecte del canvi climàtic a les
+congestes mitjançant Open Top Chambers. Les
+parets de plexiglàs de les Open Top Chambers
+simulen un escalfament de la temperatura
+d’aproximadament 1,8 ºC. Amb un seguiment
+de la vegetació any rere any a dins i a fora de les
+Open Top Chambers podrem veure si el canvi
+climàtic afectarà les espècies de congestes: si
+algunes es veuen afavorides per una pujada de
+les temperatures, si altres desapareixen, i fins i
+tot, si noves espècies hi emergeixen.                     Figura 3. Foto d'una Open Top Chambers
+
+
+
+118                                                                  Universitat Catalana d’Estiu 2016
+Aquests són clars exemples d’estudis a llarg termini que ens han de permetre determinar si
+algunes espècies de les congestes tenen la capacitat d’adaptar-se i de fer front al canvi
+climàtic. De manera més general també podran predir les conseqüències del canvi climàtic
+sobre la vegetació alpina.
+
+Els fongs
+Els fongs són uns organismes microscòpics, dels quals, si no es realitzen estudis moleculars
+del terreny, només tenim els cossos fructífers (els bolets) per tenir una idea de l’estructura de
+les seves comunitats. Aquests cossos fructífers depenen, per desenvolupar-se, de diverses
+condicions ambientals, bàsicament del règim de precipitacions i temperatura, tot i que també
+es veuen afectats per les condicions de la vegetació (per exemple, l’estructura i l’edat de les
+masses forestals constitueixen un element molt important que determina les espècies de
+fongs ectomicorrizogens).
+Cal esperar que, amb una disminució de les precipitacions, també hi haurà una disminució de
+la producció de bolets. D'altra banda, l’augment de les temperatures pot provocar un
+desplaçament de l’època de fructificació i ajornar-se més cap a la tardor.
+L’objectiu de l’estudi no se centra en la biodiversitat dels fongs, sinó en la fenologia i la producció
+dels cossos fructífers a mesura que varien les condicions climàtiques. Per això s’han definit quatres
+parcel·les de seguiment de 10x10m a la vall de Sorteny, al llarg d’un gradient altitudinal i també
+en dos vessants d’orientació diferent. Se segueixen les parcel·les cada nou dies entre els mesos
+d’agost i d’octubre i a cada visita es recullen tots els fongs ectomicorrizongens (i els sapròfits amb
+algun tipus d’interès comercial) presents dins de les parcel·les, s’identifiquen les espècies i, per
+l’estudi de producció, es mesura al laboratori el pes fresc i sec de cadascuna de les espècies.
+
+Els boscos
+Els ecosistemes forestals són el reflex de les condicions climàtiques, topogràfiques i
+antròpiques. Amb la modificació del règim de precipitacions i l’augment de les temperatures
+degudes al canvi climàtic es podria veure afectada la distribució de les espècies. Aquest any
+2017, en el marc d’un projecte Poctefa sobre l’adaptació dels boscos del Pirineu al canvi
+climàtic, es va iniciar un seguiment amb l’objectiu d’anticipar els possibles canvis i adaptar, en
+conseqüència, la gestió de les masses forestals. Ja que la fenologia depèn exclusivament de
+les condiciones meteorològiques, aquest indicador ens permet, a curt termini, comparar
+anualment les diferències entre els cicles biològics del desenvolupament de les espècies
+forestals. Per això s’han instal·lat tres parcel·les de seguiment a Andorra al llarg d’un gradient
+altitudinal, i en cadascuna es fa un seguiment setmanal de la fenologia de 36 pins roig (Pinus
+sylvestris) entre els mesos de març i juny.
+Amb el canvi climàtic, és particularment important i interesant poder desenvolupar a escala
+del massís eines que ens proporcionin una visió compartida de l’impacte del canvi climàtic
+sobre els boscos. Per això aquest seguiment que es fa en tres parcel·les a Andorra és
+complementat amb 32 parcel·les de seguiment en el Pirineu francès i amb 18 parcel·les en el
+Pirineu espanyol, on s’aplica el mateix protocol de mostreig d’observació de l’estat fenològic
+dels brots dels arbres.
+
+
+29a Diada andorrana a l’UCE: El canvi climàtic i Andorra                                           119
+L’interès d’aquest seguiment és poder realitzar observacions
+durant diversos anys per poder intuir les tendències. D'altra
+banda el seguiment serà simultani a imatges de satèl·lit per
+poder desenvolupar el càlcul d’algoritmes amb l’objectiu de
+realitzar en un futur el seguiment per teledetecció a tot el
+Pirineu. Tot això ha de contribuir a garantir la perennitat dels
+béns i serveis ecosistèmics actuals i futurs proporcionats pels
+boscos del Pirineu.
+
+Les pastures
+A Andorra les pastures representen gairebé un 27,5% del
+territori i avui en dia tenen un valor patrimonial molt gran. Les
+pastures de muntanya són un recurs molt important per al
+sector de la ramaderia, ja que l’herba d’aquest hàbitat és la
+base de l’alimentació del bestiar durant més de cinc mesos a
+l’any. L’activitat ramadera és molt important a Andorra, ja que
+és una activitat tradicional i té un impacte important a
+l’economia del país, sobretot des de l’any 1999, quan es
+                                                                    Figura 4. Foto d'una parcel·la de
+produeix carn amb el segell de carn de qualitat d’Andorra mostreig
+(promogut pel Govern d’Andorra). Per tant, si es vol mantenir
+aquesta activitat tradicional és important saber com el canvi
+climàtic pot afectar les pastures. Des del punt de vista de la conservació, les comunitats
+vegetals de pastures són hàbitats amb una gran biodiversitat, a causa d'unes condicions
+climàtiques i a un efecte del bestiar bastant heterogeni.
+L'objectiu genèric d'aquest estudi és veure si un gradient altitudinal, utilitzat per simular el
+canvi climàtic, afecta la qualitat farratgera i al mateix temps també la biodiversitat de la
+pastura. L’estudi té lloc en quatre valls d’Ordino amb diferents intensitats de pasturatge. S’ha
+iniciat el 2016 un seguiment a les valls de Sorteny, Rialb, el Comís Vell i la Coma d’Arcalís, amb
+la instal·lació de parcel·les d’exclusió de 5x5m, és a dir zones sense bestiar, a dues cotes
+diferents dins de cada vall. La diferencia d’alçada d’uns 250 m entre els llocs de mostreig a
+dins de cada vall simula un increment de les temperatures d'1,5 ºC. Després es fa durant els
+mesos d’estiu un seguiment de la producció d’herba a dins i a fora de les parcel·les d’exclusió,
+però també un seguiment de la qualitat de l’herba i de la diversitat de la vegetació. Els
+resultats d’aquest estudi ens permetran determinar si canvia o no la producció i la qualitat de
+l’herba en el mateix gradient altitudinal i llavors si s’han d’adaptar les pràctiques ramaderes
+per contrarestar els efectes del canvi climàtic amb la finalitat de mantenir uns nivells de
+producció ramadera suficient i alhora contribuir a la conservació dels hàbitats de pastures.
+
+La modelització i els canvis de nínxol
+Per poder preveure la resposta d’una espècie al canvi climàtic, també podem utilitzar el seu
+nínxol ecològic, és a dir les condicions bioclimàtiques necessàries que determinen la seva
+presència i viabilitat. Després es pot modelitzar com canviaria el nínxol de l’espècie segons les
+
+
+120                                                                  Universitat Catalana d’Estiu 2016
+prediccions de modificacions climàtiques previstes pels diferents escenaris de canvi climàtic.
+Com que hi ha molts escenaris de canvi climàtic, i una gran incertesa en la seva magnitud,
+s’acostumen a fer servir escenaris més conservadors i d’altres de més severs per poder predir
+la resposta de l’espècie en el cas de canvis més suaus o bé més dràstics de les condicions
+climàtiques. En comparació amb els seguiments a llarg termini, els resultats d’una simulació
+són més immediats però també comporten un grau d’incertesa molt més alt. Aquí
+presentarem uns estudis de modelització de nínxol realitzats al Cenma per veure com el canvi
+climàtic podria afectar les espècies presents a Andorra.
+
+El cas de l’abarset
+L’abarset (Rhododendron ferrugineum) és una espècie adequada per fer aquest tipus
+d’estudis i veure com el canvi climàtic pot afectar el seu nínxol i la seva supervivència en el
+futur, ja que té uns requeriments ecològics particulars: la planta ha d’estar coberta de neu a
+l’hivern i a la primavera per no patir gelades. La capa de neu aïlla les plantes de l’aire i
+protegeix les gemmes, fulles i arrels de les temperatures negatives de l’hivern, evita que el gel
+afecti els òrgans de desenvolupament de les plantes. Si no hi hagués neu, les plantes patirien
+danys importants i el creixement i desenvolupament se'n veurien afectats.
+En aquest estudi s’ha definit el nínxol ecològic potencial actual de l‘abarset fent servir
+variables topogràfiques (com, per exemple, l’alçada, l’orientació i el pendent, a més a més de
+la radiació solar) i climàtiques (la temperatura mitjana de les mínimes anuals i de les màximes
+anuals, i la precipitació mitjana anual) i un índex d’acumulació potencial de neu per estimar la
+durada de la presència de neu. És la variació d’aquestes variables climàtiques com, per
+exemple, de la precipitació mitjana anual amb un increment de 57,5 mm en el cas d’un
+escenari conservador o una disminució de 34,4 mm en el cas d’un escenari sever, el que ens
+permet obtenir el nínxol de l’espècie a Andorra sota els efectes del canvi climàtic.
+La superfície ocupada actualment per l’abarset a Andorra és de 14,6 km2 (o bé el 3,1% del
+territori), i amb la modelització es va obtenir un nínxol ecològic potencial actual de 70,7 km2
+al Principat (15,1% del territori). Per a un escenari de canvi climàtic conservador, obtenim per
+a l’abarset un nínxol ecològic potencial de 32,8 km2 a llarg termini, mentre per a un escenari
+de canvi climàtic sever, obtenim un nínxol ecològic potencial de 5,6 km2 a llarg termini. El
+canvi climàtic obligarà l’espècie a una migració altitudinal per trobar condicions climàtiques
+més idònies, i excepte en el cas d’un escenari conservador, es tractarà d’una migració
+altitudinal força pronunciada (al voltant d’uns 300 m d’alçada). De manera general, la migració
+altitudinal també dependrà de la capacitat de l’abarset de colonitzar altres espais i hàbitats,
+majoritàriament hàbitats de tarteres i roquissars, menys propicis per al seu establiment en
+comparació a les pastures. En canvi, a cotes baixes, amb la migració de l’espècie, es pot
+esperar un reemplaçament per altres matollars com el boix (Buxus sempervirens) o l’avellaner
+(Corylus avellana).
+
+Les plantes invasores
+Una altra realitat del canvi climàtic és que les condicions climàtiques es podrien tornar més
+idònies al Principat per aquestes espècies forasteres, i fins i tot per a espècies invasores
+
+
+29a Diada andorrana a l’UCE: El canvi climàtic i Andorra                                     121
+d’origen més exòtic. Les zones de muntanya no
+són més resistents a les invasions, però a causa
+d'unes condicions climàtiques més austeres, són
+sempre més difícils de colonitzar per les
+espècies no-natives. Amb el canvi climàtic, es
+preveu que els factors limitants de les invasions Figura 5. Representació de la presència actual del
+                                                       seneci (esquerra) i de la budleia (dreta) amb els nínxols
+disminueixin i que es produeixi un augment en la potencials futurs (color blau) amb el canvi climàtic
+densitat d’espècies invasores. Com que
+l’aparició d’espècies invasores sempre és nefasta
+per a la biodiversitat, la prevenció i el control d’aquestes espècies és un repte important, ja
+que l’eradicació és casi sempre molt costosa i complicada.
+Aquest estudi s’ha centrat en dues espècies invasores al Principat, el seneci del cap (Seneci
+inaequidens) i la budleia (Buddleja davidii) amb l’objectiu de determinar els futurs nínxols de les
+espècies que tindran lloc amb el canvi climàtic, i per poder aplicar estratègies de control més
+efectives. Actualment el seneci ocupa uns 5,1 km2 i té un nínxol potencial actual al voltant dels
+74 km2, mentre que la budleia ocupa només 1 km2 i té un nínxol potencial al voltant dels
+45 km2. Amb el canvi climàtic, el nínxol del seneci se situa a llarg termini entre 80 i 143 km2, en
+el cas d’un escenari conservador i un escenari sever respectivament, a banda de presentar un
+risc elevat de propagació sota noves condicions climàtiques. Pel que fa a la budleia, el seu
+nínxol potencial a llarg termini seria d’uns 33 km2 en el cas d’un escenari conservador i d’uns
+62 km2 en el cas d’un escenari server, tot i que la planta presentaria un risc més elevat de
+propagació que el seneci (la budleia és menys sensible a la disminució de les precipitacions).
+Es preveu que la budleia pugui colonitzar vores de rius fins a uns 2.300 m d’alçada amb el canvi
+climàtic i que el seneci pugui colonitzar prats i pastures fins als 2.000 m d’alçada, amb
+conseqüències més importants per a la conservació de la biodiversitat en el cas del seneci, i un
+impacte negatiu per la ramaderia, ja que es una planta tòxica per al bestiar. Aquest resultats,
+encara que siguin amb modelització, confirmen que la invasió d’espècies no-natives és un dels
+principals perills per a la conservació de la biodiversitat en el marc del canvi climàtic.
+
+Conclusió
+A les nostres muntanyes, les espècies que no podran adaptar-se als canvis de temperatures,
+de precipitacions o de durada de presència de neu hauran de migrar si no volen desaparèixer.
+Per a algunes espècies molt circumscrites a un tipus de condicions climàtiques o a un àmbit
+molt particular, la facultat d’adaptar-se molt ràpidament serà clau per sobreviure al canvi
+climàtic. Per a d'altres tot dependrà de la seva capacitat de migració fins a llocs on les
+condicions els siguin més idònies. Nombrosos estudis que es desenvolupen des del Cenma
+han de poder permetre respondre a aquesta incertesa però com que no es poden estudiar
+totes les espècies o comunitats vegetals, ens centrem en algunes espècies representatives o
+comunitats clau per poder definir les tendències més generals sobre l’evolució de la
+biodiversitat amb el canvi climàtic a Andorra.
+
+                                                                                      Benjamin Komac i Mingaud,
+                                                           doctor en ciències biològiques i investigador al CENMA
+
+
+122                                                                         Universitat Catalana d’Estiu 2016
+
