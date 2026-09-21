@@ -170,7 +170,11 @@ comprova**. Aquest corpus les marca sempre.
    institucional del [SAAS](./el-saas.md) fixa la creació en la **Llei del 23
    de desembre del 1986**. La branca dels **Serveis de Salut Mental** queda
    datada el **1998** ([la salut mental](./la-salut-mental.md)).
-4. **Quan es crea el SUM** (Servei d'urgències mèdiques).
+4. ~~**Quan es crea el SUM** (Servei d'urgències mèdiques).~~ — **`resolt` el
+   21-09-2026**: la fitxa institucional del Govern sobre el primer balanç del
+   servei estableix que **funciona des del setembre de 1994**, amb un model
+   comparable als SAMU. El balanç cobreix setembre de 1994–agost de 1995
+   ([font web](../../../raw/web/societat/sanitat/sum-1994/README.md)).
 5. ~~**Quants metges** hi ha avui i amb quina distribució.~~ — **`parcial` el
    21-09-2026**: la fitxa del [Col·legi de Metges d’Andorra](./el-colegi-de-metges.md)
    documenta **410 metges col·legiats i 49 especialitats el 2026**. Un col·legiat
