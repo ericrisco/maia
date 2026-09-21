@@ -190,9 +190,8 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
    plet de Perafita i Frontanya entre Andorra la Vella i Sant Julià.**
    **Mateix any, mateixos senyors, document diferent.** `Requereix encara
    l'arbitratge de Roger Bernat III.`
-6. **Perafita i Frontanya**: on són i per què s'hi barallaven Andorra la Vella i
-   Sant Julià. Creuar amb
-   [la lògica pastoral dels límits](../../territori/geografia-fisica/la-logica-pastoral-dels-limits.md).
+6. ~~**Perafita i Frontanya**: on són i per què s'hi barallaven Andorra la Vella i
+   Sant Julià.~~ — **`parcial` el 21-09-2026**: la fitxa situa el conflicte en l'**aprofitament de les muntanyes** entre els homes d'Andorra la Vella i Sant Julià, i [la lògica pastoral dels límits](../../territori/geografia-fisica/la-logica-pastoral-dels-limits.md) confirma que gairebé tots els límits de la part alta d'aquest sector tenen origen en l'ús de pastures; el corpus no fixa encara la localització exacta de Perafita i Frontanya ni el detall del plet.
 
 ## Related
 

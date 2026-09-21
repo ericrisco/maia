@@ -217,8 +217,7 @@ mateix tros de muntanya, dos règims alhora.**
 ## El que falta
 
 - ~~**Quines són exactament les Velletes i Montmalús**, i l'estat actual del contenciós.~~ — **`parcial` el 21-09-2026**: Becat identifica les dues valls com a punts del contenciós i defensa que Andorra hi té probablement raó, però el corpus no fixa les localitzacions exactes ni l'estat administratiu actual.
-- **La Concòrdia**: on és, quin acord la va crear, i entre qui. **Buit
-  prioritari** — Becat la cita com a cabdal i el corpus no la té.
+- ~~**La Concòrdia**: on és, quin acord la va crear, i entre qui.~~ — **`parcial` el 21-09-2026**: Becat la situa entre els espais pastorals de frontera i explica que és la **primera pastura d'estiu que necessiten tant Andorra com Escaldes**, però el corpus no té l'acord que la va crear ni els seus signants.
 - ~~**La transhumància** andorrana: **dates i final, tancats** a
   [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md),
   que hi afegeix una cosa que canvia com s'ha de llegir aquesta fitxa: **quan una
