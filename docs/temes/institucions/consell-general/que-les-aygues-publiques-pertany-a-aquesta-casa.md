@@ -293,8 +293,9 @@ defensava.`
    el considerant que la font cita** i **la referència de la revista on es va
    publicar**, no el text.
    `Requereix font externa: Revue de droit international et de législation comparée, 1881, p. 223.`~~
-4. **Si el monopoli dels tabacs es va arribar a concedir a una Companyia.** **El
-   1904 se'n parlava.**
+4. ~~**Si el monopoli dels tabacs es va arribar a concedir a una Companyia.** **El
+   1904 se'n parlava.**~~ — **`parcial` el 21-09-2026**: la transcripció digital de
+   *La Coutume d’Andorre* ([passatge de 1904](../../../raw/web/institucions/consell-general/coutume-andorre-chapitre-1-tabacs.html)) només diu que es plantejava concedir el monopoli a una societat local; la fitxa oficial de l’Arxiu Nacional ([fons de la Tabacalera Andorrana](../../../raw/web/institucions/consell-general/tabacalera-andorrana-4673684.html)) identifica una empresa i el seu fons **AD ANA, ATA**, amb **1.706 documents** dels anys **1830–1929**. **No s’ha localitzat l’acte que acrediti que el monopoli s’arribés a concedir.**
 5. ~~**Les concessions de casinos**: **quantes, quan i a qui.**~~ — **`parcial`
    el 19-09-2026**: [el síndic va tornar i es va posar al capdavant del
    motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)
