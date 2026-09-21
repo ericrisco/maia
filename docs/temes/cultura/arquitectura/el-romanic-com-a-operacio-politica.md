@@ -166,8 +166,7 @@ ni la forma del campanar** d'aquestes esglésies.»
    de Caboet, Sant Joan i Andorra a Castellbò consta el 1186 ([els privilegis](../../historia/edat-mitjana/els-privilegis.md),
    [el Pareatge](../../historia/pareatge/el-pareatge.md)). La fitxa biogràfica
    pròpia de la casa i d’Arnalda continua pendent.
-4. **El catarisme a Andorra.** L'autor l'esmenta i **el corpus no en té res**.
-   **Buit gran.**
+4. ~~**El catarisme a Andorra.**~~ — **`resolt` el 21-09-2026**: [Carles Gascón Chopo, *El catarisme a les valls d’Andorra* (2009)](../../../raw/web/cultura/arquitectura/catarisme-andorra/README.md) revisa les hipòtesis de Ventura i Baraut, el **Memorial dels danys**, la protecció dels comtes de Foix i el cas documentat del càtar andorrà **Ramon Boer**. La conclusió manté que la presència càtara a les valls és una qüestió **problemàtica i amb evidències escasses**, però el corpus ja té l’estudi i el marc de fonts per no deixar l’esment sense tractar.
 5. ~~**Quantes** esglésies romàniques hi ha i **de quin segle és cadascuna**.~~ —
    **`resolt`, confirmat el 2026-09-19**: l'índex del [romànic andorrà](./romanic.md)
    en recull **sis** i dona per a cadascuna la parròquia i la cronologia
