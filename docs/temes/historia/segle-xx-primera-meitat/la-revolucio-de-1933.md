@@ -65,15 +65,23 @@ corpus s'havien llegit així.
 
 ## El que falta
 
-- Qui eren aquells joves. Noms, organització, reivindicacions concretes.
+- ~~**Qui eren aquells joves. Noms, organització, reivindicacions concretes.**~~ —
+  **`parcial` el 2026-09-21**: Camiade els identifica com a **joves andorrans
+  emigrants**; el corpus interpreta que molts eren cabalers que havien marxat a
+  treballar fora i reclamaven el sufragi universal masculí. **Encara no en té
+  els noms, l'organització ni el programa complet de reivindicacions.**
 - Què va motivar la destitució del Consell pel Tribunal de Corts.
 - El paper de cada copríncep per separat.
 - Les actes del Consell d'aquells mesos, que són font primària al
   [Consell General](../../institucions/consell-general/el-consell-general.md).
-- S'ha vist un titular de premsa que en diu *«la República que quasi va ser»*.
+- ~~**S'ha vist un titular de premsa que en diu «la República que quasi va ser»**.
   Amb la CNT a les obres de FHASA, aquell adjectiu ja no sorprèn tant — però
   **la relació real entre la vaga obrera i la reivindicació del vot continua
-  sense documentar**.
+  sense documentar**.~~ — **`parcial` el 2026-09-21**: Lluelles documenta que les
+  protestes laborals, la destitució del Consell i les reivindicacions dels joves
+  coincidien, i que els coprínceps van fer entrar la Gendarmeria pels conflictes
+  laborals i les tensions polítiques; les fonts no proven que la vaga obrera
+  reclamés el vot ni n'estableixen una relació causal.
 
 **Buit registrat, prioritari.** Hi ha bibliografia específica —*La cruïlla
 andorrana de 1933*— i un article a les publicacions de l'IEC, cap dels dos
