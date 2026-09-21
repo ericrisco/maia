@@ -22,3 +22,14 @@ title: "Fonts web sobre institucions, símbols i actes comunals"
 - **Condicions:** document públic de consulta; la mateixa font adverteix que la
   versió consolidada no té validesa jurídica i no se'n redistribueix el
   contingut fora del corpus.
+
+## Bandera d'Andorra (Viquipèdia)
+
+- **Font:** [article «Bandera d'Andorra» de la Viquipèdia catalana](https://ca.wikipedia.org/wiki/Bandera_d%27Andorra).
+- **Fitxer:** `Bandera_d_Andorra-ca.wiki`.
+- **Ús:** identificar la hipòtesi publicada sobre l'origen dels colors; la
+  mateixa font la presenta com a especulativa i no substitueix una font
+  primària.
+- **Condicions:** la Viquipèdia es publica sota **CC BY-SA**; es conserva el
+  bolcat per a verificació i no s'incorpora a cap dataset sense mantenir
+  l'atribució i la llicència.
