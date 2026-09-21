@@ -304,18 +304,31 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
 
    `Requereix una data de desaparició; el que hi ha és l'última vegada que
    consta, i la via que el va substituir.`
-5. **El reglament dels Veguers del 19 de maig de 1608** sobre les vendes de
-   justícia, **i els «precedents recents» que la font invoca sense citar.**
-6. **La prohibició de comerç de 1638 i la carta del Bisbe del 28 de juny**:
-   **abast, durada i si es va revocar.** **Prioritari**: **és una mesura de
-   política comercial internacional presa per un veguer.**
+5. ~~**El reglament dels Veguers del 19 de maig de 1608** sobre les vendes de
+   justícia, **i els «precedents recents» que la font invoca sense citar.**~~ —
+   **`parcial` el 21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
+   identifica el reglament dels Veguers del **19 de maig de 1608** com una norma
+   sobre les vendes judicials, l'ordre de venda i la depreciació dels béns;
+   **els precedents i el text sencer encara falten**.
+6. ~~**La prohibició de comerç de 1638 i la carta del Bisbe del 28 de juny**:
+   **abast, durada i si es va revocar.**~~ — **`parcial` el 21-09-2026**:
+   Brutails confirma que el veguer del bisbe va prohibir el **1638** tot comerç
+   entre França i Espanya a través de les Valls per urgència, i que la carta del
+   Bisbe és del **28 de juny de 1638**; **no consten la durada ni la revocació**.
 7. ~~**Els documents del 20 de novembre de 1495 i del 22 de maig de 1758**
    sencers, **i quantes vegades es va nomenar un *capità general*.**~~ —
    **`parcial` el 2026-09-18**: el corpus identifica **dos casos**, el **1495** i
    el **1758**, separats per **263 anys**. **Els documents sencers i la freqüència
    completa dels nomenaments continuen oberts.**
-8. **Què era «la era de la Terra»** on es reunien el jutge i el Consell el 1495.
-9. **Si l'acumulació de Síndic i capità general del 1758 era habitual.**
+8. ~~**Què era «la era de la Terra»** on es reunien el jutge i el Consell el 1495.~~ —
+   **`parcial` el 21-09-2026**: el document del **20 de novembre de 1495** que
+   transcriu Brutails situa el jutge i tot el Consell «**essent tots plegats en la
+   era de la Terra**» quan nomenen el capità general; **la font no identifica
+   l'espai físic ni el topònim**.
+9. ~~**Si l'acumulació de Síndic i capità general del 1758 era habitual.**~~ —
+   **`parcial` el 21-09-2026**: Brutails documenta dos casos separats —**Anton
+   Moles el 1495** i **Guillem d'Areny el 1758**—, però **no aporta una sèrie que
+   permeti dir si l'acumulació era habitual**.
 10. ~~**El *Politar*, pp. 171, 179-180 i 264.**~~ — **`resolt` el 18-09-2026, i
     la p. 264 porta la frase que dona títol a aquesta fitxa, en el català de
     1763.**
