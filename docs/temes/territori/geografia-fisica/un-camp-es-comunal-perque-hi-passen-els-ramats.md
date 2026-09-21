@@ -272,9 +272,11 @@ privat:**
    la terra.**
 4. **Les tarifes de les altres parròquies**: **Ordino i Encamp no hi consten per
    als perits**, i **la font marca amb un «crec» la de Sant Julià.**
-5. **Per què només Canillo exigeix el tancat de murs**, i **des de quan.**
-6. **Si el consell de quart havia de confirmar les concessions sobre terra de
-   quart.** **La font ho dona com a creença seva.**
+5. ~~**Per què només Canillo exigeix el tancat de murs**, i **des de quan.**~~ — **`parcial` el 21-09-2026**: la font documenta que **tota bohiga de Canillo ha de ser closa de murs** i que a les altres parròquies la clotura no és indispensable; no explica per què Canillo té aquesta excepció ni des de quan regeix.
+6. ~~**Si el consell de quart havia de confirmar les concessions sobre terra de
+   quart.**~~ — **`parcial` el 21-09-2026**: Brutails diu que ho **creu** quan la
+   terra és del quart, però no cita cap norma, acta ni cas que confirmi que fos
+   una obligació efectiva.
 7. ~~**Quantes desposessions hi va haver**~~ — **`parcial` el 19-09-2026**: la
    font diu que **«sembla» que eren freqüents** i només cita **un registre**;
    no hi ha recompte.
