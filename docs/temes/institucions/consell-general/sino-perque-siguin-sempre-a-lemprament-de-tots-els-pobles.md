@@ -279,11 +279,15 @@ català** *(p. 125)*:
 
 ## Buits registrats
 
-1. **El text sencer de l'acord dels coprínceps del 25 de febrer de 1881.** **El
+1. ~~**El text sencer de l'acord dels coprínceps del 25 de febrer de 1881.** **El
    corpus en té ara *dues clàusules de dues fonts diferents*** —la reserva de la
    facultat de jutjar l'oportunitat i l'extensió, per Brutails, i la de la sanció
    prèvia dels treballs públics, en català, per aquesta— **i no té el document.**
-   **Prioritari.**
+   **Prioritari.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva dues
+   clàusules independents de l’acord —la reserva de la facultat de jutjar
+   l’**oportunitat i l’extensió** dels treballs, i la **sanció prèvia** dels
+   treballs públics—. **El document complet i la resta de l’articulat continuen
+   oberts.**
 2. ~~**L'article de Brutails *Étude historique sur la loi Stratae***, *Revue
    historique du droit français et étranger*, **1888**.~~ — **`parcial` el
    19-09-2026**: l'article queda identificat al registre bibliogràfic de Persée
