@@ -248,10 +248,13 @@ font sobre ella mateixa:**
 
 ## Buits registrats
 
-1. **Els comptes de les Corts**: **el corpus no en té cap.** **Si els
+1. ~~**Els comptes de les Corts**: **el corpus no en té cap.** **Si els
    *rahonadors* els portaven, hauria d'existir un llibre.** **Prioritari**: **és
    el que permetria comprovar si la commutació de penes en multes era realment la
-   font d'ingressos.**
+   font d'ingressos.**~~ — **`parcial` el 22-09-2026**: el *Politar* atribueix als
+   *rahonadors* el control de les multes i dels gastos de les Corts, i la fitxa
+   conserva el circuit; **no hi ha cap llibre de comptes que permeti comprovar
+   els imports o que les multes fossin realment la font d'ingressos**.
 2. ~~**El *Politar*, pp. 346-347.**~~ — **`resolt` el 18-09-2026, i la 347 tanca
    el comptable del cerimonial.**
 
@@ -401,8 +404,12 @@ font sobre ella mateixa:**
    més enllà del dia de publicació de les Corts per comparèixer**, i **passats,
    les fiances incorren en penes trencades «quedant los delictes en son enter
    estat»**.
-3. **El privilegi de 1433**, **en una còpia millor que la que la font posa en
-   dubte.** **Prioritari**: **és el text fundacional dels *rahonadors*.**
+3. ~~**El privilegi de 1433**, **en una còpia millor que la que la font posa en
+   dubte.** **Prioritari**: **és el text fundacional dels *rahonadors*.**~~ —
+   **`parcial` el 22-09-2026**: la fitxa conserva el fragment que autoritza el
+   Consell a elegir *rahonadors* per conservar privilegis i mirar la justícia i
+   la culpa, i també la reserva d'autenticitat de Brutails; **no té una còpia
+   alternativa ni el document original**.
 4. ~~**La resposta del bisbe Catalán de Ocón (1757-1762) al Consell General**~~ sobre
    les funcions dels *rahonadors*. **La font només n'ha vist una anàlisi i diu
    que no en treu res.** `Requereix font externa: arxiu del bisbat.`
@@ -414,21 +421,39 @@ font sobre ella mateixa:**
      intercedeix per l'acusat i porta els comptes de les multes no pot ser qui
      l'acusa.** **Segueix obert tot el que la carta digui de positiu sobre què
      **sí** que feien.**
-5. **Qui feia d'agutzil als tribunals de visura**, si el *nunci* no hi servia.
-   **La font ho exclou i no ho substitueix.**
+5. ~~**Qui feia d'agutzil als tribunals de visura**, si el *nunci* no hi servia.
+   **La font ho exclou i no ho substitueix.**~~ — **`parcial` el 22-09-2026**:
+   queda establert que el *nunci* és l'únic oficial de justícia de les Valls però
+   que **no serveix la justícia política ni els tribunals de visura**; **la font
+   no identifica cap substitut**.
 6. ~~**El manuscrit del senyor Palmitjavila**~~ i **la memòria que enumera els
    membres de les Corts sense el *procurador fiscal*.** — **`parcial` el
    19-09-2026**: el manuscrit és el mateix buit canònic que consta a [Trenta-dues
    citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md); la
    memòria específica encara no està identificada per separat.
-7. **Els «altres documents» que atribueixen el paper d'acusador públic al
-   Jutge.** **La font els invoca i no els cita aquí.**
-8. **Com es nomenava el *procurador fiscal***, **si era un càrrec o una funció
-   acumulada**, i **quan es va separar** si es va separar.
-9. **Els documents de 1502, 1627, 1628-1629 i 1733** sencers.
-10. **El memòria de 1767 de la Intendència de Perpinyà** *(Archives des
+7. ~~**Els «altres documents» que atribueixen el paper d'acusador públic al
+   Jutge.** **La font els invoca i no els cita aquí.**~~ — **`parcial` el
+   22-09-2026**: la fitxa conserva la hipòtesi de Brutails que **el Jutge** també
+   podia assumir la funció de procurador fiscal, però **els documents que ho
+   sustentarien no són identificats**.
+8. ~~**Com es nomenava el *procurador fiscal***, **si era un càrrec o una funció
+   acumulada**, i **quan es va separar** si es va separar.~~ — **`parcial` el
+   22-09-2026**: el document del **29 de desembre de 1627** identifica **Pere
+   Peirot** com a «*nuntio y procurador fiscal*», cosa que prova una funció
+   acumulada almenys en aquell moment; **no consta el nomenament formal ni cap
+   separació posterior**.
+9. ~~**Els documents de 1502, 1627, 1628-1629 i 1733** sencers.~~ — **`parcial`
+   el 22-09-2026**: la fitxa en conserva les dates i el contingut funcional —la
+   demanda del procurador fiscal de **1502**, Pere Peirot el **1627**, el quadern
+   criminal de **1628-1629** i el procurador fiscal de **1733**—; **cap dels
+   originals sencers no forma part del corpus**.
+10. ~~**El memòria de 1767 de la Intendència de Perpinyà** *(Archives des
     Pyrénées-Orientales, C 1282)* —**segona tanda que el reclama**— **i si el
-    «procurador del Rei» que hi surt tenia existència andorrana.**
+    «procurador del Rei» que hi surt tenia existència andorrana.**~~ —
+    **`parcial` el 22-09-2026**: la fitxa conserva la reserva de Brutails —el
+    document francès enumera un **procurador del Rei**, però la font no el pren
+    com a prova de l'organització andorrana—; **la memòria C 1282 no s'ha
+    consultat i el càrrec no es pot confirmar**.
 
 ## Related
 
