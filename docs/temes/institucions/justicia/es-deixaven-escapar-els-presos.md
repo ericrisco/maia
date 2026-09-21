@@ -390,9 +390,12 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    *Politar* i fixa que eren **oficials per indivís dels dos coprínceps**, amb el
    capità per sobre del desener dins la parròquia, sotmesos als batlles, i amb
    funcions de guarda de les Valls i dels presos.
-9. **Com es mantenia econòmicament un detingut** quan la guarda i el manteniment
+9. ~~**Com es mantenia econòmicament un detingut** quan la guarda i el manteniment
    incumbien a la milícia: **qui pagava què.** **La font diu que és onerós i no
-   diu a càrrec de qui.**
+   diu a càrrec de qui.**~~ — **`parcial` el 2026-09-21**: la fitxa documenta que
+   es comptaven **les guàrdies i els dies** de custòdia i que, **si el presoner
+   tenia recursos**, se’l podia condemnar a pagar-les. **No consta qui assumia la
+   despesa quan el detingut era insolvent.**
 10. ~~**Si el règim de capacitat de les dones casades permetia obligar-se com a
     fiadores.**~~ — **`no-es-buit` el 20-09-2026**: el corpus només té l'acte de
     1551 en què una dona s'obliga, restitueix el seu marit i el torna a garantir;
