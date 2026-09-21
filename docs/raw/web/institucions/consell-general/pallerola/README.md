@@ -1,8 +1,8 @@
 ---
-title: "Pallerola i Gabriel — font web"
+title: "Josep Pallerola i Gabriel — veguer episcopal i autor (1882–1912)"
 ---
 
-# Pallerola i Gabriel — font web
+# Josep Pallerola i Gabriel — veguer episcopal i autor (1882–1912)
 
 | Font | Què acredita |
 | --- | --- |

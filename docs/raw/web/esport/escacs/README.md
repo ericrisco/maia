@@ -1,8 +1,8 @@
 ---
-title: "Fonts web d'escacs"
+title: "Centre d'Escacs d'Andorra — seu i vocalia documentades"
 ---
 
-# Fonts web d'escacs
+# Centre d'Escacs d'Andorra — seu i vocalia documentades
 
 Captura de la pàgina del **Centre d'Escacs d'Andorra (CEA)**: [escacsandorra-cea-2026.html](./escacsandorra-cea-2026.html).
 

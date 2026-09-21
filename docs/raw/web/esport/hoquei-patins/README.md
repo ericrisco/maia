@@ -1,8 +1,8 @@
 ---
-title: "Hoquei patins — fonts web"
+title: "Hoquei patins andorrà — club i competició documentada"
 ---
 
-# Hoquei patins — fonts web
+# Hoquei patins andorrà — club i competició documentada
 
 | Font | Què acredita |
 | --- | --- |

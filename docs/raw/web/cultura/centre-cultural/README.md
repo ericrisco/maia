@@ -1,8 +1,8 @@
 ---
-title: "Centre Cultural d'Andorra — font web"
+title: "Centre Cultural d'Andorra (1975–1980) — història i activitat cultural"
 ---
 
-# Centre Cultural d'Andorra — font web
+# Centre Cultural d'Andorra (1975–1980) — història i activitat cultural
 
 ## `el-periodic-centre-cultural-2025.html` / `.txt`
 
