@@ -293,8 +293,14 @@ llibre:**
    1900 Andorra va participar per primer cop en una exposició industrial amb un
    propulsor aeri** (p. 153), però **no diu quina exposició era, qui el va fer ni
    en què consistia l'aparell.**
-9. **Si el correu intern gratuït va durar**, **i quan es va professionalitzar.**
-   **El corpus té el 1904 i el present, i res entremig.**
+9. ~~**Si el correu intern gratuït va durar**, **i quan es va professionalitzar.**~~
+   — **`parcial` el 21-09-2026**: el **1904** Vilar encara descriu un servei
+   interior **absolutament gratuït, portat per nens**; el pressupost del **1917**
+   ja hi assigna **200 pessetes al peató del servei de correu** i **60 pessetes
+   a sis administradors de correus**, deu per cap ([El pressupost no existia,
+   i el van fer davant seu](../banca-i-fiscalitat/el-pressupost-no-existia-i-el-van-fer-davant-seu.md)).
+   La professionalització, per tant, ja s'havia produït entre **1904 i 1917**,
+   però el corpus no té la data ni l'acte que la va fer efectiva.
 10. ~~**Quan arriba el telèfon a Andorra.**~~ — **`parcial`, actualitzat el
     2026-09-19**: la font estableix que **el telèfon encara no havia arribat a
     Andorra el 1904**. **Segueix oberta la data exacta de la primera arribada.**
