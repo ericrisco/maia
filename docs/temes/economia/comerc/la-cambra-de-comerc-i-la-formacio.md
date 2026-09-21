@@ -266,7 +266,7 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   assistents**. La nota no dona el nombre d'empreses participants ni permet
   saber si cada inscripció correspon a una persona diferent
   ([font local](../../../raw/web/economia/cambra/README.md)).
-- **Es van crear les «vies de formació ocupacional»** més flexibles?
+- ~~**Es van crear les «vies de formació ocupacional»** més flexibles?~~ — **`parcial` el 21-09-2026**: la Cambra i els ministeris d'Educació i Treball les estudiaven com a vies amb menys empreses i promocions i obertura i tancament més dinàmics, però la font no documenta que s'arribessin a crear.
 - ~~**Sèries salarials andorranes**, de qualsevol any. **Buit transversal
   prioritari.**~~ — **`resolt` el 17-09-2026 per la via d'Estadística**: la nota
   **A149. Estadística de salaris** és **mensual** i dona mitjà, medià, massa
@@ -275,8 +275,8 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   [el mínim contra el que es cobra de veritat](../../societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat).
   `El calendari de publicació és a `raw/estadistica-treball/README.md`; les
   sèries anteriors al 2025 encara s'han de baixar nota a nota.`
-- **Es van obrir «sectors nous»** per als universitaris? Aquesta pregunta té
-  **vint-i-sis anys** i el corpus no en sap la resposta.
+- ~~**Es van obrir «sectors nous»** per als universitaris? Aquesta pregunta té
+  **vint-i-sis anys** i el corpus no en sap la resposta.~~ — **`parcial` el 21-09-2026**: la Cambra identifica que el mercat de comerç, hoteleria i banca no absorbeix els titulats i formula l'obertura de sectors nous com a conclusió, però no en documenta cap creació ni sector concret.
 - ~~**La Cambra avui**: estructura, sectors, xifres.~~ — **`resolt` el
   18-09-2026**: **creada per llei el 1993** —aprovada pel Consell General els
   **2 i 3 de setembre**, publicada al **BOPA núm. 51, any 5, el 28 de
