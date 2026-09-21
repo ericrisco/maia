@@ -83,7 +83,7 @@ i mig abans.
 
 ## Buits registrats
 
-1. **Quant costava** una iguala, i en quina moneda.
+1. ~~**Quant costava** una iguala, i en quina moneda.~~ — **`parcial` el 21-09-2026**: la fitxa encara no té una tarifa directa d'**iguala** entre metge i casa, però conserva imports de la **conducta comunitària** que no s'han de confondre amb ella: el **1733**, 75 lliures per metge i 42 per al barber; el 1744-1746, 10 lliures per a l'advocat de la Seu i 1 lliura 8 sous per al llosador. La moneda documentada és la lliura, però el preu de la iguala privada continua obert.
 2. ~~**Quan comencen les iguales a Andorra**~~ — **`parcial` el 17-09-2026**: el
    sistema és peninsular i antic; aquí no se'n sap la data d'entrada. Cal
    separar dues coses que s'assemblen.** Font: els [llibres d'actes del Consell
