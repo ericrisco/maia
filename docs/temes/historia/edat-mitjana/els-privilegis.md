@@ -333,7 +333,11 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 3. ~~**L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.~~ — **`parcial` el 21-09-2026**: la fitxa identifica el fons com la via documental dels cartularis i registres, però **encara no se n’ha consultat cap unitat**.
 4. ~~El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
    document més localitzable de tota la llista.**~~ — **`no-es-buit` el 21-09-2026**: és una dada de localització del document, no una pregunta de recerca oberta.
-5. **El bovatge** i el **monedatge**: què eren.
+5. ~~**El bovatge** i el **monedatge**: què eren.~~ — **`parcial` el 21-09-2026**:
+   el privilegi reial de **12 de juny de 1213** els enumera entre les
+   **exaccions comtals o reials** de les quals eximeix els homes de la Seu
+   d'Urgell i d'Andorra; el corpus encara no en distingeix el contingut ni la
+   forma de cobrament.
 6. ~~**La pega** — el delme del 860 la grava, i el corpus no sap què era ni qui la
    feia.~~ — **`parcial` el 21-09-2026**: la [memòria arqueològica del Madriu
    (2008)](../../../raw/web/historia/pega-andorra/README.md) identifica la pega
