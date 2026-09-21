@@ -97,11 +97,12 @@ emigraven**. **Almenys alguns, mines.** I encaixa amb
 [el ferro](../../cultura/artesania/el-ferro.md): el país n'exportava, i també hi
 exportava braços.
 
-**Avís de lectura:** el text consultat anomena una ciutat de l'Arieja
-«**sovint anomenada capital dels andorrans**», però **la forma que en retorna el
-PDF sembla corrompuda per l'OCR** i el corpus **no la transcriu** per no propagar
-un error. **Buit registrat, i molt llaminer:** **quina ciutat francesa era
-«la capital dels andorrans»?**
+**La ciutat és Besiers.** El text de Camiade diu literalment: **«el departament
+de l'Arieja (**Besiers**, sovint anomenada capital dels andorrans)»** ([*Els
+moviments migratoris a Andorra*, p. 82](../../../raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra.txt)).
+La transcripció OCR de la mateixa pàgina havia corromput el nom, però el text
+local permet recuperar-lo. **El corpus conserva la descripció geogràfica de la
+font sense arbitrar-la.**
 
 ## Com es coneixien
 
@@ -141,7 +142,11 @@ cadascun dels tres moments. Creuar amb
 
 ## Buits registrats
 
-1. **La ciutat de l'Arieja** «capital dels andorrans».
+1. ~~**La ciutat de l'Arieja** «capital dels andorrans».~~ — **`resolt` el
+   21-09-2026**: Camiade identifica **Besiers** com la ciutat «sovint anomenada
+   capital dels andorrans» (*Els moviments migratoris a Andorra*, p. 82). La
+   font l'inscriu dins «el departament de l'Arieja» i el corpus conserva aquesta
+   formulació sense corregir-la ni convertir-la en una dada pròpia.
 2. **Les mines de ferro** de la Catalunya Nord on anaven els andorrans: quines,
    quants, quan.
 3. **L'estudi de testaments** de Camiade — quins, d'on.
