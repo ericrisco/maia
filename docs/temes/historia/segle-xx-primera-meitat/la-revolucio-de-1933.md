@@ -71,7 +71,11 @@ corpus s'havien llegit així.
   treballar fora i reclamaven el sufragi universal masculí. **Encara no en té
   els noms, l'organització ni el programa complet de reivindicacions.**
 - Què va motivar la destitució del Consell pel Tribunal de Corts.
-- El paper de cada copríncep per separat.
+- ~~**El paper de cada copríncep per separat.**~~ — **`parcial` el 2026-09-21**:
+  la font atribueix als **delegats permanents dels dos coprínceps** el decret del
+  sufragi del 17 de juliol i diu que **els coprínceps, conjuntament**, van
+  acordar l'entrada de la Gendarmeria francesa. **El corpus no separa quina
+  decisió o actuació correspon a cadascun.**
 - Les actes del Consell d'aquells mesos, que són font primària al
   [Consell General](../../institucions/consell-general/el-consell-general.md).
 - ~~**S'ha vist un titular de premsa que en diu «la República que quasi va ser»**.

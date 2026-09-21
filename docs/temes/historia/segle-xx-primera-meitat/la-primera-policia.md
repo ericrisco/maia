@@ -124,8 +124,13 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
   ([font](../../../raw/lleis/bopa/llei-8-2004-cos-de-policia.txt)). El corpus
   encara no té la data exacta en què va desaparèixer el nom «Servei d'Ordre» ni
   la cronologia completa de la transició al Cos de Policia.
-- **Què va fer el Servei d'Ordre el 1933**, quan van arribar els gendarmes
-  francesos. Si hi havia policia andorrana, per què calia gendarmeria estrangera.
+- ~~**Què va fer el Servei d'Ordre el 1933**, quan van arribar els gendarmes
+  francesos.~~ — **`parcial` el 2026-09-21**: el corpus ja estableix que el
+  Servei d'Ordre depenia operativament dels **veguers i els batlles**, i que la
+  Gendarmeria francesa va entrar el 1933 per la combinació de **conflictes
+  laborals i tensions polítiques internes**. **No hi ha cap font que descrigui
+  l'actuació concreta del Servei d'Ordre aquell agost ni per què no va assumir
+  l'operació.**
 - **El text de la decisió del Consell General** sobre el registre d'estrangers, i
   si se'n conserva cap registre parroquial.
 - ~~**Si el 1931 hi va haver gendarmes francesos**, com diu Camiade.~~ —
