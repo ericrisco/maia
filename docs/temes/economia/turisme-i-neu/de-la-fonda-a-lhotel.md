@@ -228,7 +228,13 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
    cronologia completa de Paulet, Serra i Palacín i aclarir la denominació de
    Muntanya.
 3. **El termalisme** com a branca.
-4. **Quan arriben els esports d'hivern** i quina estació és la primera.
+4. ~~**Quan arriben els esports d'hivern** i quina estació és la primera.~~ —
+   **`parcial` el 2026-09-22**: la cronologia de [les estacions](./estacions/README.md)
+   fixa el primer telesquí d'Andorra al **Coll Blanc el 1956**, instal·lat per
+   **Francesc Viladomat**, i el primer remuntador obert oficialment al **Pas de la
+   Casa l'1 de desembre de 1957**. **Això acota l'inici de l'esquí alpí; la fitxa
+   encara no pot dir si hi havia una pràctica d'esports d'hivern anterior ni
+   establir una «primera estació» per a totes les disciplines.**
 5. ~~**Xifres**: places hoteleres per dècades.~~ — **`parcial` el 17-09-2026 per la
    via d'Estadística** (activitat **A125**): vegeu
    [El parc hoteler d'avui, i que ja no creix](#el-parc-hoteler-davui-i-que-ja-no-creix).
