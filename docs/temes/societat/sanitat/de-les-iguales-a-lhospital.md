@@ -165,7 +165,11 @@ comprova**. Aquest corpus les marca sempre.
    de desembre del 1986**. La branca dels **Serveis de Salut Mental** queda
    datada el **1998** ([la salut mental](./la-salut-mental.md)).
 4. **Quan es crea el SUM** (Servei d'urgències mèdiques).
-5. **Quants metges** hi ha avui i amb quina distribució.
+5. ~~**Quants metges** hi ha avui i amb quina distribució.~~ — **`parcial` el
+   21-09-2026**: la fitxa del [Col·legi de Metges d’Andorra](./el-colegi-de-metges.md)
+   documenta **410 metges col·legiats i 49 especialitats el 2026**. Un col·legiat
+   no és necessàriament un metge en actiu al país, i la font no dona la
+   distribució geogràfica ni el nombre d’efectius per especialitat.
 6. ~~**Qui eren** els doctors Cardelús, Vallverdú, Pujol, Vilanova i Ruiz.~~ —
    **`resolt` el 20-09-2026**: la secció [Els tres hospitals, en ordre](#els-tres-hospitals-en-ordre) ja identifica **Cardelús** (cirurgia), **Vallverdú**
    (medicina interna i anestèsia) i **Pujol** (tocoginecologia), i la fitxa de
