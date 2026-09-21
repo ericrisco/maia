@@ -260,7 +260,7 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    primera comparació, però **les disset actes anteriors i les posteriors encara
    no s'han buidat** i no es pot dir si el repartiment de 69/79 acords a Finances
    és estructura o casualitat.
-3. **Els altres sis comuns.**
+3. ~~**Els altres sis comuns.**~~ — **`parcial` el 21-09-2026**: el [portal oficial d'actes comunals](../../../raw/web/institucions/README.md) confirma una sèrie pública de la Junta de Govern d'Escaldes-Engordany i permet conservar actes de 2025, però el corpus encara no té actes equivalents dels altres sis comuns. La comparació territorial continua oberta.
 4. ~~**Per què es mouen els 15.000 €** de les associacions de pares a control de
    plagues.~~ — **`parcial` el 2026-09-20**: l'acord 14 identifica l'origen
    (`502-1690000-48224`, associacions socials de pares d'alumnes) i el destí —
