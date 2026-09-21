@@ -409,16 +409,18 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
 
 ## Buits registrats
 
-1. **La llista de signants de l'original**, amb **els signes i subscripcions de
-   tots els homes de la vall d'Andorra**. **És la peça que aquesta còpia declara
-   i no porta.** **Prioritari i de conseqüències múltiples**: tancaria el buit de
-   **Soldeu**, donaria **la nòmina dels caps de casa del 1176** i, probablement,
-   **la font de les formes toponímiques que el corpus data d'aquell any.**
-2. **Les tres còpies que l'editor cita.** **Arxiu de la Corona d'Aragó**,
-   cartes datades d'Alfons I, núm. 191; **Arxiu Capitular d'Urgell**, cartulari
-   I, núm. 848; **Bibliothèque Nationale, col·lecció Doat, vol. 161, ff.
-   264-272.** **Cap no s'ha vist**, i **el corpus llegeix la transcripció d'una
-   transcripció.**
+1. ~~**La llista de signants de l'original**, amb **els signes i subscripcions de
+   tots els homes de la vall d'Andorra**.~~ — **`parcial`**: la còpia declara que
+   l'original conserva els signes i subscripcions de **tots els homes de la vall
+   i de molts testimonis**, però no en dona cap nom. La llista continuaria sent
+   necessària per resoldre el buit de **Soldeu**, la nòmina dels caps de casa del
+   1176 i les formes toponímiques que el corpus data d'aquell any.
+2. ~~**Les tres còpies que l'editor cita.**~~ — **`parcial`**: Ríos Urruti
+   identifica **l'Arxiu de la Corona d'Aragó**, cartes datades d'Alfons I, núm.
+   191; **l'Arxiu Capitular d'Urgell**, cartulari I, núm. 848; i la
+   **Bibliothèque Nationale**, col·lecció Doat, vol. 161, ff. 264-272. Cap dels
+   tres exemplars no s'ha vist, i el corpus continua llegint la transcripció
+   d'una transcripció.
 3. ~~**La concòrdia de 1162**, que una font del corpus qualifica d'**«ineficaç»** i
    que seria la primera. **Aquest document parla d'una *longa contencio* i no
    n'esmenta cap acord anterior.**~~ — **`parcial` el 20-09-2026**: el catàleg
