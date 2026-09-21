@@ -51,7 +51,10 @@ explicar.
   1996, 175 cm i 80 kg.**
   **El camp `birth_place` diu «Andorra» i cap parròquia**: **el buit del lloc
   exacte és de font.**
-- **Per què s'atura la natació olímpica andorrana.**
+- ~~**Per què s'atura la natació olímpica andorrana.**~~ — **`parcial`**: la
+  fitxa fixa **set Jocs seguits amb nedadors, d'Atlanta 1996 a Rio 2016**, i
+  cap representant de natació a **Tòquio 2020 ni París 2024**; el corpus encara
+  no té la causa d'aquesta aturada.
 
 ## Related
 
