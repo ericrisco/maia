@@ -200,7 +200,12 @@ francès per escrit**.
 2. **Quan i com Andorra va demanar obrir consolats**, i quantes vegades. Vilar
    diu «de nombreuses démarches» i no en data cap.
 3. **Les sentències Laugé (1845) i Vives (1859)**, senceres — i **la referència exacta del Dalloz de la segona**, que les dues edicions de Vilar donen diferent.
-4. **Si la pràctica d'extradició va canviar** entre 1904 i 1908, o només el relat.
+4. ~~**Si la pràctica d'extradició va canviar** entre 1904 i 1908, o només el
+   relat.~~ — **`parcial` el 2026-09-21**: Vilar descriu el 1904 una extradició
+   **autoritzada pel síndic** a requeriment d’un magistrat francès, i el 1908 una
+   extradició **efectuada pel veguer per simple avís** a la Sindicatura i al
+   veguer de la Mitra. **El corpus documenta la divergència, però no pot decidir
+   si va canviar la pràctica o només el relat.**
 5. **El decret francès del 27 de març de 1806**, que és la base de tot això i que
    el corpus cita sempre de segona mà.
 6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
