@@ -230,9 +230,13 @@ no esmenta cap d'aquests decrets**. **El corpus no sap si el de 1786 seguia
 vigent el 1854, ni si el de 1854 el va derogar** per la seva clàusula general
 contra «totas y cualsevols disposicions que se oposian».
 
-**No s'ha comprovat què eren exactament un `censal`, un `cens`, una `imposició` i
+~~**No s'ha comprovat què eren exactament un `censal`, un `cens`, una `imposició` i
 una `terra emfitèutica`** en el dret andorrà d'aquest període. El corpus els cita
-perquè els decrets els enumeren; **no els distingeix.**
+perquè els decrets els enumeren; **no els distingeix.**~~ — **`parcial` el 21-09-2026**:
+el [glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+defineix el **censal** com una renda constituïda i descriu l'**emfiteusi** amb
+domini directe i domini útil; encara no separa prou el **cens**, la **imposició**
+i l'ús exacte de **terra emfitèutica** en aquest període.
 
 ~~**El «beneficio» irrenunciable no s'ha comprovat en cap contracte.**~~ —
 **tancat parcialment el 22-09-2026.** **El corpus ja té una escriptura anterior
