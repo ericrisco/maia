@@ -227,7 +227,7 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
   **Aquesta partició de l'article 10 és la peça interessant**: **no diu que la
   universitat sigui autònoma**, **diu de què ho és.** **Programes, professorat,
   admissió i relacions exteriors, sí; plantilles, pressupost i gestió, no.**
-- **Què va passar amb el campus nou.**
+- ~~**Què va passar amb el campus nou.**~~ — **`parcial` el 21-09-2026**: el rector el presenta com a objectiu de consolidació per al futur i hi vincula l'ampliació de l'oferta amb algun centre nou, però la font de **2000** no dona projecte, ubicació, calendari ni resultat.
 - ~~**Quina és la Universitat d'Andorra avui**: centres, titulacions, nombre
   d'estudiants. Aquesta fitxa **s'atura el 2000**. **Buit prioritari.** ~~—
   **`obert`, confirmat el 2026-09-14, i declarat també des de
@@ -267,8 +267,8 @@ del 1997 **no crea uns estudis: els aixopluga**. Vegeu
 
   `El seguiment del ministeri que la font invoca no és al catàleg
   d'Estadística. Segueix requerint el ministeri.`
-- **En quins temes Andorra pot «fer aportacions significatives al coneixement»**:
-  la font ho declara com a objectiu i no ho respon.
+- ~~**En quins temes Andorra pot «fer aportacions significatives al coneixement»**:
+  la font ho declara com a objectiu i no ho respon.~~ — **`parcial` el 21-09-2026**: la ponència concreta que l'objectiu forma part d'una estratègia per atraure estudiants de fora i que la recerca s'ha d'aplicar als sectors estratègics del país, però no identifica cap tema ni projecte.
 - ~~**L'Escola d'Informàtica, el Centre d'Estudis Virtuals i el Centre d'Extensió
   Universitària**: només en tenim el nom.~~ — **`resolt` el 2026-09-20**:
   l'estructura del **2000** ja en dona la funció: **informàtica de gestió**,
