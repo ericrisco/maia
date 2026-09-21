@@ -157,9 +157,15 @@ quantes criatures tenen avui passaport portuguès.`
   vegeu «Qui és andorrà, a cada edat». **La taula en trams d'un any
   (`POBLACIÓ PER EDAT (TRAMS 1 ANY) I NACIONALITAT`) segueix sense buidar**;
   aquesta fitxa fa servir la de trams de cinc.
-- **Quants dels andorrans de cada tram ho són de naixement i quants per
+- ~~**Quants dels andorrans de cada tram ho són de naixement i quants per
   adquisició.** **És la pregunta que faria llegible la V**, i **la font no la
-  respon.** `font_externa`
+  respon.**~~ — **`parcial` el 21-09-2026**: el Cens Comunal del 2007 identifica
+  **5.384 nascuts andorrans (17,69% dels 30.441 andorrans registrats)** i en
+  dona l'origen dels pares ([els nats a Andorra](../immigracio/els-nats-a-andorra.md));
+  la taula de 2025 permet veure el percentatge d'andorrans per tram d'edat,
+  però no separa naixement i adquisició. La sèrie anual de naturalitzacions
+  ([qui podia ser andorrà el 1997](../../institucions/nacionalitat-i-residencia/qui-podia-ser-andorra-el-1997.md))
+  tampoc no té edat, de manera que encara falta el creuament tram × via d'accés.
 - ~~**La piràmide per parròquia**, que també existeix
   (`POBLACIÓ PER PARRÒQUIA, EDAT (TRAMS 1 ANY) I SEXE`).~~ — **`parcial` el
   2026-09-20**: la divisió **1108** del catàleg d'Estadística conserva la sèrie
