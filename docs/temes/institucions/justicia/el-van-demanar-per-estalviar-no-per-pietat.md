@@ -220,10 +220,13 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 
 ## Buits registrats
 
-1. **La súplica del Consell General al Bisbe del 23 de novembre de 1854**,
+1. ~~**La súplica del Consell General al Bisbe del 23 de novembre de 1854**,
    **sencera.** **Prioritari**: **és el document que decideix entre les dues
    versions del motiu del garrot**, **i la font el coneix només perquè el veguer
-   episcopal Pallerola l'hi va assenyalar.**
+   episcopal Pallerola l'hi va assenyalar.**~~ — **`parcial` el 2026-09-21**:
+   Brutails en dona la data, l'autor institucional i el motiu expressat —la
+   penjada era costosa i es demanava el garrot per economia—, però no en
+   transcriu el text i l'original continua pendent.
 2. **Si el garrot el va demanar el Consell General per economia o el va comprar
    el copríncep per humanitat.** `Registrat, no arbitrat.` **El corpus té dues
    versions incompatibles, i la que ve d'enciclopèdia no cita document.**
@@ -246,7 +249,10 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 4. **El rapport del veguer de França sobre aquell afer** *(Arxius de l'Arieja,
    Andorre, lligall 2)*. **Prioritari, i és el mateix lligall que el corpus té
    marcat amb tretze peces registrades i cap consultada.**
-5. **La deliberació del Consell General del 2 de gener de 1855**, **sencera.**
+5. ~~**La deliberació del Consell General del 2 de gener de 1855**, **sencera.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa en conserva la fórmula literal sobre
+   que cap autoritat no prengui jurisdicció ni dret dels altres, però no la
+   deliberació completa.
 6. **L'amnistia episcopal de 1882**: **a quants condemnats afectava, de quin
    delicte, i qui va declarar nul l'acte.**
 7. **Quins eren els precedents d'exercici episcopal del dret de gràcia** que
