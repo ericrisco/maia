@@ -308,8 +308,12 @@ fet:**
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
 8. **Els documents de 1533, 1599, 1601, 1608 i 1696** sencers, i **si alguna
    d'aquelles protestes va tenir mai efecte.**
-9. **Quan i per què el Jutge va deixar de conèixer en primera instància.** **La
-   font constata el canvi i no el data.**
+9. ~~**Quan i per què el Jutge va deixar de conèixer en primera instància.**~~ —
+   **`parcial` el 2026-09-21**: la font documenta el canvi en les peces del **27
+   de novembre i del 2 de desembre de 1608**; des d’aleshores el Jutge hi consta
+   essencialment com a òrgan d’apel·lació sobre causes ja jutjades pel batlle.
+   **Encara no hi ha la norma ni el motiu que expliquin quan i per què es va
+   perdre la primera instància.**
 10. **Si l'esmena de «l'home moridor» que l'autor proposa es va arribar a
     considerar.** **És proposta seva i el corpus no té cap rastre posterior.**
 
