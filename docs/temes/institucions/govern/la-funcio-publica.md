@@ -547,7 +547,7 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   articles 12 a 15 del Reglament del Cos de Banders.** `Per què el del 1996 va
   estar suspès segueix sense resposta: el text intern no és al Butlletí i el del
   2000 no ho explica.`
-- **El Pla integral de formació del 2001**: es va fer?
+- ~~**El Pla integral de formació del 2001**: es va fer?~~ — **`parcial` el 21-09-2026**: la fitxa documenta que era el primer **«instrument marc»**, havia d'integrar els plans de tots els ministeris i departaments, preveia **tendències triennals** i volia racionalitzar la despesa; el corpus no té cap acta, pla aprovat o memòria posterior que acrediti si es va executar.
 - ~~**Es va crear mai una escola d'administració pública**, ni que fos temporal?~~ — **`parcial` el 20-09-2026**: la mateixa fitxa documenta que **el 2000 encara no existia** i que la font només proposava estudiar una escola temporal; el període posterior continua sense verificar.
 - ~~**Si Xavier Llovera** és el mateix del patrimoni cultural.~~ — **`parcial` el
   19-09-2026**: les dues referències donen el nom complet **Xavier Llovera i
