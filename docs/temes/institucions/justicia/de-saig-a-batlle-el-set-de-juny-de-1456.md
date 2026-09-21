@@ -281,9 +281,10 @@ Jutge el 19 de novembre de 1846:**
    Consell General procedia a nomenaments provisionals quan França oblidava de
    nomenar, per la raresa de les relacions. **No en dona cap recompte ni cap
    data.**
-10. **Els Archives de l'Ariège, Andorre, lligall 2.** **Sisena peça registrada i
-    segueix sense consultar-se.** **Prioritari per acumulació.**
-    `Requereix font externa: Archives départementales de l'Ariège.`
+10. ~~**Els Archives de l'Ariège, Andorre, lligall 2.**~~ — **`font_externa` el
+    2026-09-22**: **la sisena peça del lligall està identificada però no
+    consultada**. **Cal accés als *Archives départementales de l'Ariège* per
+    recuperar-la.**
 
 ## Related
 

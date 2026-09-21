@@ -227,10 +227,10 @@ fet:**
    un jutge d’apel·lacions francès en fallida va ser revocat i substituït, i que
    el **1851** el successor va ser destituït i se’n va nomenar un altre. **No hi
    consten els textos, els noms ni els motius; la data exacta de 1851 tampoc.**
-5. **L'observació del prefecte de l'Arieja** sobre la rehabilitació del fallit
-   *(Archives de l'Ariège, Andorre, lligall 2 — **vuitena peça registrada i cap
-   consultada**)*.
-   `Requereix font externa: Archives départementales de l'Ariège.`
+5. ~~**L'observació del prefecte de l'Arieja** sobre la rehabilitació del fallit.~~
+   — **`font_externa` el 2026-09-22**: **la vuitena peça del lligall està
+   registrada però no consultada**. **Cal accés als *Archives départementales de
+   l'Ariège* per llegir-la.**
 6. ~~**El *Politar*, p. 186**~~ — **`resolt` el 18-09-2026, i la delegació a
    graduats hi és explicada com a conseqüència d'una prohibició.**
 

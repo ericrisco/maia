@@ -262,8 +262,10 @@ I la regla que el Consell subratlla:
    **el corpus fixa els dos extrems** —l'ordre de desobediència del **3 de febrer
    de 1715** i la prohibició del tabac **cap al 1728-1733** sota pressió duanera—,
    però **no té cap document del gir ni el seu moment exacte**.
-3. **Quins eren els «Ministros subdelegados» i què reclamaven** el 1715. **La font
-   no ho diu.** `Requereix documentació de la Intendència General de Catalunya.`
+3. ~~**Quins eren els «Ministros subdelegados» i què reclamaven** el 1715.~~ —
+   **`font_externa` el 2026-09-22**: **la font no els identifica ni explica la
+   reclamació**. **Cal consultar la documentació de la Intendència General de
+   Catalunya.**
 4. **La concòrdia i reglament d'Andreu Capella al gremi de teixidors, 1604.**
    **Citada per la titulatura i no vista.** **Interessa dues vegades: per la
    fórmula i perquè és un reglament gremial andorrà que el corpus no té.**

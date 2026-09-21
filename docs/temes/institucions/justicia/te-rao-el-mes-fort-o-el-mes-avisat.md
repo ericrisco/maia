@@ -278,8 +278,10 @@ n'ha llegit:**
    Cúria de **1492**, la compareixença de **1502**, la pena de **1608** i la
    sentència de **1644** d’un veguer de la ciutat d’Urgell i de les Valls.
    **No en té els documents íntegres ni les signatures d’arxiu.**
-7. **Com un veguer nomenat per França podia ser alhora veguer de la ciutat
-   d'Urgell el 1644.** `Requereix context històric extern.`
+7. ~~**Com un veguer nomenat per França podia ser alhora veguer de la ciutat
+   d'Urgell el 1644.**~~ — **`font_externa` el 2026-09-22**: **la fitxa conserva
+   la doble titulació, però no el context institucional que l'explica**. **Cal
+   documentació històrica externa sobre els càrrecs d'Urgell i de les Valls.**
 8. ~~**El manuscrit del senyor Palmitjavila** —**setena tanda seguida**, i aquí és **l'única font de la finestra de Sant Miquel a Sant Miquel**—, **sense
    identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
    identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
