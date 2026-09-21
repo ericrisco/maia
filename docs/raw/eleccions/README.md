@@ -49,8 +49,8 @@ taules de resultats són imatges. Per llegir-ne una cal renderitzar la pàgina.
 | `eg-2001-resultats-22.png` | íd. del 2001 |
 | `eg-2005-resultats-06.png` | **la casella nacional en blanc («N/D»)** i la parroquial de les set parròquies |
 | `eg-2009-resultats-21.png` | percentatges nacionals i de les set parròquies |
-| `eg-2011-escrutini-19.png` | escrutini nacional del 2011 i el de Canillo |
-| `eg-2015-escrutini-19.png` | íd. del 2015 |
+| `eg-2011-escrutini-19.png` … `-25.png` | escrutini parroquial del 2011 per les set parròquies, amb el total nacional repetit; no hi ha desglossament nacional per parròquia |
+| `eg-2015-escrutini-19.png` … `-25.png` | íd. del 2015 |
 | `eg-2019-escrutini-13.png` | íd. del 2019 |
 
 ## El que el dossier del 2005 no porta

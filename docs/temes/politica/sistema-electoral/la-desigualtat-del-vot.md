@@ -737,9 +737,13 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    2001, 2009, 2011, 2015, 2019 i 2023**, i la parroquial del **2005** i del
    **2009**, a
    [Els resultats oficials, elecció per elecció](#els-resultats-oficials-eleccio-per-eleccio).
-   **El 2005 nacional no es tanca perquè el dossier oficial diu «N/D»**, i
-   **queda obert el detall per parròquia del vot nacional del 2011 i del 2015**,
-   que és a les pàgines 19-25 dels dossiers respectius. ~~**El detall per
+   **El 2005 nacional no es tanca perquè el dossier oficial diu «N/D»**. **Les
+   pàgines 19-25 dels dossiers del 2011 i del 2015 ja s'han renderitzat i
+   llegit** ([font](../../../fonts/eleccions-ad.md)): cada pàgina dona el
+   resultat parroquial i repeteix al costat el total nacional, però **no
+   publica cap desglossament del vot nacional per parròquia**. **Aquest detall
+   continua obert perquè no consta en aquests dossiers oficials**, no perquè
+   quedin pàgines sense llegir. ~~**El detall per
    parròquia del vot nacional del 2019**~~ — **`resolt` el 21-09-2026**: les
    pàgines 13-16 d'`eg-2019.pdf` tenen la taula **«Escrutini de la
    circumscripció nacional per parròquia»** per a les set parròquies, amb
