@@ -447,8 +447,12 @@ caracterització del frau andorrà.**
 
 ## Buits registrats
 
-1. **El text sencer de la carta pastoral del 21 d'agost de 1894.** El corpus en té
-   **una frase, traduïda al francès, citada per un tercer**.
+1. ~~**El text sencer de la carta pastoral del 21 d'agost de 1894.**~~ —
+   **`parcial` el 21-09-2026**: [*L'Andorre* de Vilar (1904)](../../../raw/llibres/vilar-andorre-1904.txt)
+   conserva la frase francesa que Carvajal va llegir al Congrés i identifica la
+   data de la pastoral; és una transcripció de tercer, no el document episcopal
+   complet. **El text íntegre de la carta i el seu original de circulació encara
+   falten.**
 2. ~~**Les actes de la comissió mixta del 26 de juny de 1895.**~~ **REFORMULAT i
    ara `parcial`.** El 26 de juny no era la comissió mixta sinó **la comissió de
    pressupostos del Senat**. **El dictamen de la comissió mixta ja hi és**
