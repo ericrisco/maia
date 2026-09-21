@@ -121,6 +121,11 @@ d'Andorra**, «i altres» — **i el conductor, Bartomeu Font**.
 
 > «**Detenen el transportista, i aquí s'acaba la broma.**»
 
+L'**Arxiu Nacional** permet seguir el cas de l'editor: el **juny de 1920**, el
+Tribunal de Corts va condemnar **Josep Alemany Borràs**, responsable directe de
+l'editorial, a **tres anys de desterrament de les Valls**, una **multa de 1.000
+pessetes** i el pagament de les **costes del procés** ([fitxa de font](../../../fonts/govern-peca-mes-les-valls-1917-2017.md), [còpia local](../../../raw/web/societat/mitjans/govern-peca-mes-les-valls-1917-2017.html)). La font institucional no dona el desenllaç individual dels altres detinguts ni del conductor **Bartomeu Font**.
+
 **Qui la feia i què deia.** El fundador, propietari i director era **Josep
 Alemany i Borràs**, gerent de **La Il·lustració Catalana** —propietat de
 **Francesc Mateu**—, «des d'on es fa tota la campanya **en contra de l'acceptació
@@ -241,7 +246,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
   la **reaparició del 19 de gener de 1919**, amb l'editorial «Al tornar-hi»;
   encara no té la col·lecció sencera ni el recompte dels exemplars que es van
   arribar a distribuir.
-- **Què va passar als detinguts** del segrest.
+- ~~**Què va passar als detinguts** del segrest.~~ — **`parcial` el 21-09-2026**: el Tribunal de Corts va condemnar l'editor **Josep Alemany Borràs** el **juny de 1920** a **tres anys de desterrament**, **1.000 pessetes de multa** i **costes del procés**. **No consta el desenllaç individual dels altres detinguts ni del conductor Bartomeu Font.**
 - **El Cadí**, la revista de FHASA.
 - ~~**Qui era Weillemann** i què hi pintava a *La Nova Andorra*.~~ —
   **`parcial` el 20-09-2026**: la mateixa fitxa només el identifica com
