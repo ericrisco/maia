@@ -319,12 +319,18 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
 
 ## Buits registrats
 
-1. **La carta del baró de Breteuil al Contrôleur général del 12 de maig de
-   1788** *(Arxius Nacionals, H 721)*, **sencera.** **Prioritari, i amb
-   signatura d'arxiu**: **dona la tercera explicació de l'asimetria 3:1 i és
-   l'única de font externa.**
-2. **Per què la vegueria francesa va estar vacant des de 1768**, **i quan es va
-   tornar a proveir.** **Prioritari.**
+1. ~~**La carta del baró de Breteuil al Contrôleur général del 12 de maig de
+   1788** *(Arxius Nacionals, H 721)*, **sencera.**~~ — **`parcial` el
+   21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
+   en conserva el contingut essencial: el veguer francès no tenia sou ni
+   assignació, vivia de les multes i havia d'assumir les despeses de les
+   sessions; Breteuil proposava nomenar-lo per una simple comissió sense exigir
+   fiança. **La carta íntegra encara falta**.
+2. ~~**Per què la vegueria francesa va estar vacant des de 1768**, **i quan es va
+   tornar a proveir.**~~ — **`parcial` el 21-09-2026**: la nota de Brutails
+   confirma que la plaça va romandre vacant **vint anys** i remet a la carta de
+   Breteuil del 12 de maig de 1788, que proposava una comissió sense fiança;
+   **encara no consta quan es va tornar a proveir**.
 3. ~~**Els comptes de les Corts de 1488**, **sencers i des de l'imprès**: **la
    suma que el corpus té no tanca per 18 sous i 6 diners**.~~ — **`resolt` el
    16-09-2026 llegint la pàgina com a imatge** (p. 326, nota 1). **El
@@ -350,8 +356,10 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    pregunta no demanava i que importa**: **l'espècie no passa per comptabilitat.**
    `El manuscrit de Palmitjavila segueix sense llegir, de manera que la
    discrepància continua registrada i no arbitrada.`
-6. **Si el mot del manuscrit de Palmitjavila és *fruyta* o *truyta*.**
-   **L'interrogant és de l'editor.**
+6. ~~**Si el mot del manuscrit de Palmitjavila és *fruyta* o *truyta*.**~~ —
+   **`parcial` el 21-09-2026**: la nota de Brutails transcriu literalment **«la
+   fruyta (ou truyta ?)»** i confirma que **l'interrogant és de l'editor**;
+   **el manuscrit original encara no s'ha consultat**.
 7. ~~**El *Politar*, p. 203**, sobre el deure dels *rahonadors* d'impedir les
    composicions en espècie.~~ — **`resolt` el 18-09-2026, i el deure no és
    d'impedir-les: és de limitar-les.**
