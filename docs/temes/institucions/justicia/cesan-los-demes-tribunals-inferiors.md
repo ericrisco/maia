@@ -226,9 +226,12 @@ la més precisa de totes:**
    l'original no conté la disposició, i el corpus vol saber què hi conté i què hi
    va afegir el resum.**
 2. ~~**Quines eren les «circumstàncies»** que, segons la font, treuen autoritat a les cartes de 1872 del batlle i el veguer francesos.~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data, els autors i l'efecte jurídic atribuït a les cartes, però no el contingut que explicaria aquelles circumstàncies; cal consultar l'**Andorre, lligall 2** dels Archives de l'Ariège.
-3. **Els decrets del Consell General del 19 de maig de 1874 i del 25 d'agost de
+3. ~~**Els decrets del Consell General del 19 de maig de 1874 i del 25 d'agost de
    1877**, sencers. **Prioritari**: **cauen dins la crisi i el corpus només en té
-   la frase citada.**
+   la frase citada.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva
+   fragments literals dels dos decrets, amb la data i l'efecte processal —el de
+   1874 limita les apel·lacions al tribunal de Corts obert i el de 1877 declara
+   que cessen els tribunals inferiors—, però no en té els textos íntegres.
 4. ~~**Si la doctrina de la suspensió dels tribunals inferiors va acabar
    imposant-se**, **i quan.**~~ — **`parcial` el 19-09-2026**: una segona font
    francesa del mateix 1904 confirma que la doctrina es va aplicar i que totes
