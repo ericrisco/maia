@@ -335,8 +335,10 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    protestar i va prohibir que l'afer sortís d'Andorra, perquè el defensor era
    familiar del Sant Ofici. **La font no diu quin parer va prevaler ni com va
    acabar el plet.**
-4. **La *Notule de l'Inquisition*** dels Arxius dels Pirineus Orientals, **que és la
-   signatura de la fórmula de 1574.** `Requereix font externa.`
+4. ~~**La *Notule de l'Inquisition*** dels Arxius dels Pirineus Orientals.~~ —
+   **`font_externa` el 2026-09-22**: **la font només en dona la signatura de la
+   fórmula de 1574**. **Cal consultar el manuscrit als Arxius dels Pirineus
+   Orientals.**
 5. **El document de 1646** amb la fórmula catalana: **sense signatura.**
 6. ~~**El *Politar*, pp. 163-164**, **i el *Manual Digest*** en el passatge de la
    «guerra formidable».~~ — **`parcial`: les pp. 244, 276 §10, 279 §25 i 285 §8

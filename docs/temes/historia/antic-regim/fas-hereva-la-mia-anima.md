@@ -186,9 +186,10 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
    regulació formal ni la data en què va deixar de fer-se.
 2. **El testament de feia pocs dies** que l'autor va tenir a les mans: **sense
    data, sense parròquia, sense notari.**
-3. **Si l'acusació dels notaris contra els testaments dels rectors es pot
-   verificar**, comparant testaments rebuts per uns i altres. `Requereix font
-   externa: el fons notarial i els arxius parroquials.`
+3. ~~**Si l'acusació dels notaris contra els testaments dels rectors es pot
+   verificar**, comparant testaments rebuts per uns i altres.~~ — **`font_externa`
+   el 2026-09-22**: **la fitxa no té prou sèries de testaments rebuts per
+   notaris i rectors**. **Cal el fons notarial i els arxius parroquials.**
 4. ~~**Quants testaments amb l'ànima per hereva hi ha a Andorra**, i **qui n'eren
    marmessors**. **El corpus en té un, de 1675.**~~ — **`parcial` des del
    2026-09-18: en són quatre**, entre **1679 i 1874**, i **ara se'n coneix el

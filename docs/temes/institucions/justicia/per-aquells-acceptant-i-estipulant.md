@@ -287,10 +287,10 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
    el decret episcopal de 1853.** Els noms, el lloc, el dia i alguns camps
    continuen en blanc a la font, i la data s'ha de comprovar sobre la pàgina
    renderitzada perquè l'OCR és defectuós.
-3. **El lligall 13 dels Arxius de l'Arieja, Andorra** —el del cas de 1882 del
-   bisbe contra el notari francès. El corpus ja té obert **el lligall 2** per
-   [altres casos](./nul-per-al-jutge-valid-per-a-la-consciencia.md).
-   `Requereix font externa: Archives départementales de l'Ariège.`
+3. ~~**El lligall 13 dels Arxius de l'Arieja, Andorra**, el del cas de 1882 del
+   bisbe contra el notari francès.~~ — **`font_externa` el 2026-09-22**: **el
+   corpus identifica el lligall però no n'ha consultat cap peça**. **Cal accés als
+   *Archives départementales de l'Ariège*.**
 4. ~~**El text del reglament del 8 de febrer de 1607** sencer, i **si el sistema
    de presentació de dos noms pel Consell es va aplicar sempre**.~~ — **`parcial`
    el 21-09-2026: la consolidació oficial del notariat confirma que el privilegi

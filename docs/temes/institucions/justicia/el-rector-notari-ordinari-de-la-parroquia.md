@@ -314,16 +314,18 @@ conserva i on.**
    **`parcial` el 19-09-2026**: la font estableix que **no hi era el 1904**, però
    no diu si se’n va projectar mai un equivalent ni quin mecanisme el va
    substituir. **Un buit de la font no és un buit del món.**
-3. **El decret episcopal atribuït a Andreu Capella**, en text. La divergència de
-   dalt només es tanca amb **l'original**, no amb una còpia del *Llibre de
-   privilegis*. `Requereix font externa: l'Arxiu Capitular de la Seu d'Urgell.`
+3. ~~**El decret episcopal atribuït a Andreu Capella**, en text.~~ —
+   **`font_externa` el 2026-09-22**: **la divergència només es pot resoldre amb
+   l'original**, no amb una còpia del *Llibre de privilegis*. **Cal l'Arxiu
+   Capitular de la Seu d'Urgell.**
 4. ~~**Quan deixen els rectors de rebre actes a Andorra.**~~ — **`parcial` el
    19-09-2026**: la sèrie documentada arriba fins al **1788** i Brutails escriu
    el 1904 que **«els rectors redacten els testaments ordinaris»** en present;
    la pràctica encara era viva aleshores, però el corpus no en pot fixar l’any
    d’extinció.
-5. **Si els testaments closos dipositats als rectors es conserven**, i on.
-   `Requereix font externa: els arxius parroquials.`
+5. ~~**Si els testaments closos dipositats als rectors es conserven**, i on.~~ —
+   **`font_externa` el 2026-09-22**: **la fitxa documenta el dipòsit però no en
+   té cap inventari de conservació**. **Cal consultar els arxius parroquials.**
 6. **La sentència del 14 d'abril de 1888** sobre la *procura* privada, i **les
    quatre sentències dels llibres mercantils**, en text sencer: la font en cita
    el considerant, no el cas.

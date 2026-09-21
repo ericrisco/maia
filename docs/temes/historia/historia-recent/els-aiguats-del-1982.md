@@ -149,9 +149,10 @@ diluvi d'aigua...»*.**
 ## El que falta
 
 - **Els noms dels set morts i els dotze desapareguts andorrans.**
-- **Les fonts andorranes**: el corpus llegeix això des d'un article sobre la
-  conca del Segre. **El Diari d'Andorra i l'Arxiu Nacional en deuen tenir molt
-  més.** **Buit prioritari.**
+- ~~**Les fonts andorranes** sobre els aiguats.~~ — **`font_externa` el
+  2026-09-22**: **la fitxa només ha llegit un article sobre la conca del Segre**.
+  **Cal consultar *El Diari d'Andorra* i l'Arxiu Nacional per completar la
+  perspectiva andorrana.**
 - **L'exposició *Aiguats del 1982*** del
   [Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md),
   del **2013**.
