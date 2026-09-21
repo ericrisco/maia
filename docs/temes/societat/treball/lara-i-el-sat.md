@@ -144,7 +144,14 @@ parapúblics.
    ([font](../../../fonts/altaveu-orihuela-obituari-ara-sat.md)). **La resta
    de noms segueixen sense identificar.**
 4. **Què va ser de l'ARA** — existeix encara?
-5. **La segmentació social** dels col·lectius immigrats, descrita.
+5. ~~**La segmentació social** dels col·lectius immigrats, descrita.~~ —
+   **`parcial` el 21-09-2026**: la fitxa [La societat segmentada](../immigracio/la-societat-segmentada.md)
+   identifica una fractura **econòmica i ocupacional**, una de **política**
+   (qui pot votar) i una de **prestigi cultural**; [La piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md)
+   documenta que els estereotips segueixen sobretot la posició laboral i
+   canvien de grup —gallecs i andalusos als anys seixanta-setanta, portuguesos
+   des dels vuitanta-noranta—. El corpus encara no desglossa aquestes fractures
+   per a cada col·lectiu de l’ARA o del SAT.
 6. ~~**La comunitat filipina** a Andorra.~~ — **`parcial`, i és el mateix buit que
    declara [la piràmide de prestigi](../immigracio/la-piramide-de-prestigi.md).**
    **La menció d'aquesta fitxa, del 1976, és la més antiga que el corpus en té**,
