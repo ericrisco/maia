@@ -555,7 +555,7 @@ del 2026 ja fixa el que es cobrarà el 2027.**
   i l'altra el relaciona amb el patrimoni cultural i l'arqueologia. No hi ha,
   però, una dada biogràfica independent que provi que els dos papers són de la
   mateixa persona.
-- **L'estat dels arxius administratius** avui.
+- ~~**L'estat dels arxius administratius** avui.~~ — **`parcial` el 21-09-2026**: el Decret del 20 d'abril de 2016 regula l'**Arxiu Central o Intermedi Administratiu** com l'òrgan que custodia la documentació semiactiva del Govern, amb transferències periòdiques, inventari i traspàs a l'Arxiu Nacional o eliminació segons la CAAD; el corpus no té un inventari, una memòria d'activitat o una auditoria que permeti descriure'n l'estat actual.
 
 ## Related
 
