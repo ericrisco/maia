@@ -324,10 +324,17 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    mecanisme funcionant al revés del que s'esperaria**: **no és el senyor qui
    empeny el país a perseguir, és el país qui ofereix diners al tribunal perquè
    continuï.**
-2. **A qui van anar les 219 lliures restants** de les 260 de composicions.
-   **El full només n'atribueix 41.**
-3. **Com va acabar el plet de 1608** portat a la Inquisició de Barcelona.
-   **La font diu expressament que no sap quin parer va prevaler.**
+2. ~~**A qui van anar les 219 lliures restants** de les 260 de composicions.
+   **El full només n'atribueix 41.**~~ — **`parcial` el 2026-09-21**: el compte
+   de juny de 1604 atribueix **26 lliures al jutge i 15 al botxí**, **41 en total**;
+   les **219 lliures restants** no consten atribuïdes i el corpus no pot saber a
+   qui van anar.
+3. ~~**Com va acabar el plet de 1608** portat a la Inquisició de Barcelona.
+   **La font diu expressament que no sap quin parer va prevaler.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa conserva que el veguer de França va
+   protestar i va prohibir que l'afer sortís d'Andorra, perquè el defensor era
+   familiar del Sant Ofici. **La font no diu quin parer va prevaler ni com va
+   acabar el plet.**
 4. **La *Notule de l'Inquisition*** dels Arxius dels Pirineus Orientals, **que és la
    signatura de la fórmula de 1574.** `Requereix font externa.`
 5. **El document de 1646** amb la fórmula catalana: **sense signatura.**
@@ -405,13 +412,26 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    > el porter del país el substituïa.** **El corpus registra que el Politar no
    > preveu el mateix per a les penes capitals: per a la tortura sí, per a la
    > forca no ho diu.**
-7. **Si les Corts van durar realment fins a vuit mesos**, i **quin any.**
-   **El *Manual Digest* ho diu i no ho data.**
-8. **Els decrets del 2 de juliol de 1887 i del 12 d'abril de 1897** sencers, i **si
-   el segon derogava el primer o el precisava.**
-9. **El cas de 1884** de recusació del Jutge d'Apel·lacions.
-10. **Quan va aparèixer la *suspensio***. **La font afirma que no és antiga i no
-    dona cap data.**
+7. ~~**Si les Corts van durar realment fins a vuit mesos**, i **quin any.**
+   **El *Manual Digest* ho diu i no ho data.**~~ — **`parcial` el 2026-09-21**:
+   el *Manual Digest* afirma que les Corts van durar **fins a vuit mesos** i que
+   van emprendre una «guerra formidable» contra la bruixeria. **El corpus no té
+   una comprovació independent ni l'any a què es refereix.**
+8. ~~**Els decrets del 2 de juliol de 1887 i del 12 d'abril de 1897** sencers, i **si
+   el segon derogava el primer o el precisava.**~~ — **`parcial` el 2026-09-21**:
+   la fitxa conserva que el decret de **1887** invoca el dret comú fins al tercer
+   grau i que el de **1897** exclou de les visures el germà o cosí germà. **No en
+   té els textos íntegres ni prova que el segon derogui el primer; tots dos
+   queden documentats com a regles de visura.**
+9. ~~**El cas de 1884** de recusació del Jutge d'Apel·lacions.~~ — **`parcial` el
+   2026-09-21**: la fitxa documenta que **una part va recusar el Jutge
+   d'Apel·lacions i que aquest va ser reemplaçat per un interí**. **No hi consten
+   les parts, el motiu concret ni l'acte sencer.**
+10. ~~**Quan va aparèixer la *suspensio***. **La font afirma que no és antiga i no
+    dona cap data.**~~ — **`parcial` el 2026-09-21**: la fitxa en descriu el
+    mecanisme —ajornar *sine die* l'execució d'una sentència, i també
+    desapoderar una jurisdicció abans de sentenciar— i conserva que la font la
+    considera una pràctica no antiga. **No en fixa la primera aparició.**
 
 ## Related
 
