@@ -7,6 +7,7 @@ title: "PISMA — pla integral de salut mental i addiccions"
 | Fitxer | Font | Què acredita |
 | --- | --- | --- |
 | [`pisma-govern-2022.html`](./pisma-govern-2022.html) | [Govern d'Andorra, PISMA](https://www.govern.ad/ca/tematiques/salut/salut-mental-i-addiccions/pisma) | El pla es va aprovar pel Govern el 21 de febrer de 2022 i desplega una estratègia 2021–2030. |
+| [`pisma-presentacio.pdf`](./pisma-presentacio.pdf) i [`pisma-presentacio.txt`](./pisma-presentacio.txt) | [Presentació PISMA](https://www.govern.ad/documents/d/guest/pisma_presentacio?download=true) | Dades SAAS 2019–2021, recursos, pressupost 2022 i les 62 accions del pla. |
 
 Consulta local feta el **21-09-2026**. La pàgina és un document públic de
 consulta; el Govern no hi indica una llicència de reutilització. Se'n conserva

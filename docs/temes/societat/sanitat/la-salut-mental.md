@@ -178,7 +178,15 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   **2021–2030**. La pàgina oficial en conserva la presentació i el document
   complet, però aquesta còpia no n'ha extret encara les accions ni el grau
   d'execució ([font local](../../../raw/web/societat/salut-mental/README.md)).
-- **Xifres**: quants professionals, quants pacients, quins recursos.
+- ~~**Xifres**: quants professionals, quants pacients, quins recursos.~~ —
+  **`parcial` el 21-09-2026**: la presentació oficial del PISMA dona activitat
+  del SAAS, però no el recompte de professionals. El 2021 (gener–novembre) hi
+  consten **1.604 usuaris de consultes externes de psiquiatria adults**, **1.289
+  d'exteriors de psicologia adults**, **202 altes d'hospitalització de salut
+  mental d'adults** i **26 persones vinculades al Centre de Dia** el 2020; el
+  document fixa també **12 llits d'adults**, **4 de menors**, un **pressupost
+  PISMA de 160.000 € el 2022** i **62 accions**. Les xifres són de fonts SAAS i
+  no equivalen a persones úniques anuals ([font local](../../../raw/web/societat/salut-mental/README.md)).
 - ~~**Si hi ha unitat d'internament** al país o si els casos greus es deriven.~~
   — **`resolt` el 18-09-2026**: **es deriven, al centre Sant Joan de Déu
   Terres de Lleida, a Lleida** ([font](../../../fonts/saas-ad-historia.md)).
