@@ -283,8 +283,12 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    instrumento eorum previlegiorum continetur*»** — **tal com els seus
    privilegis preveuen.** **Per poder discutir amb el veguer calia demanar-li
    permís per contractar un advocat.**
-6. **Quan es van suprimir les revistes del dilluns de Pentecosta**, i **quines
-   «manifestacions tumultuoses» hi va haver.**
+6. ~~**Quan es van suprimir les revistes del dilluns de Pentecosta**, i **quines
+   «manifestacions tumultuoses» hi va haver.**~~ — **`parcial` el 2026-09-21**:
+   el text confirma que les revistes anuals del **dilluns de Pentecosta** es van
+   suprimir perquè servien de pretext per a **manifestacions tumultuoses** i
+   perquè eren **molt oneroses per a l'Estat**. **La data de la supressió i els
+   episodis concrets continuen oberts.**
 7. **Si l'obligació de tenir fusell i municions constava en algun text**, o **era
    consuetudinària.**
 8. **Si algun veguer va refusar mai una primera llista de sis**, i **què va passar
