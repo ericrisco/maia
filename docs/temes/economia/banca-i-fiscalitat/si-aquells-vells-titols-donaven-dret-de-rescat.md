@@ -314,12 +314,17 @@ contra del costum:**
    maneres.**~~ — **`parcial` el 20-09-2026**: la fitxa confirma que el Consell es
    va commoure i va prohibir el tràfic el **1871**, i que la font coneixia un dels
    negociants; falten l'acord íntegre i la identitat, que el corpus no inferirà.
-6. **Quantes famílies venien els seus drets possibles**, i **amb quina quota-litis.**
-   **La font coneix personalment un d'aquests homes de negocis i no dona xifres.**
-7. **L'exemple de 1902** d'afixació d'avisos judicials, **que la font diu haver
-   tingut a la vista.**
-8. **La crida del 25 de maig de 1487**, de la qual **la font confessa no entendre'n
-   tot el sentit.**
+6. ~~**Quantes famílies venien els seus drets possibles**, i **amb quina
+   quota-litis**.~~ — **`font_externa` el 2026-09-22**: **la font coneix
+   personalment un dels homes de negocis, però no dona cap recompte ni quota**.
+   **Cal una sèrie d'actes o una font comptable per quantificar el tràfic.**
+7. ~~**L'exemple de 1902** d'afixació d'avisos judicials.~~ — **`font_externa`
+   el 2026-09-22**: **la font diu haver tingut el cas a la vista, però la fitxa
+   no en conserva l'acte ni la identificació**. **Cal recuperar la peça judicial
+   per descriure-la.**
+8. ~~**La crida del 25 de maig de 1487**.~~ — **`font_externa` el 2026-09-22**:
+   **la font mateixa confessa que no n'entén tot el sentit** i el corpus no té
+   l'original. **Cal consultar la crida per establir-ne el text i el context.**
 9. ~~**Si es va arribar a organitzar la hipoteca a Andorra**, **que és la primera de
    les tres propostes.**~~ — **`parcial` el 20-09-2026**: el capítol documenta
    **hipoteques secretes** i clàusules hipotecàries en actes concrets, però no
