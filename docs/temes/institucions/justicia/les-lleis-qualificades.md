@@ -160,14 +160,17 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
   crear.** `Requereix el Diari de Sessions del 3 de setembre i del 4 de
   novembre de 1993 per saber amb quina majoria es van aprovar de fet, i si algú
   hi va plantejar la qüestió.`
-- **Falta la llei qualificada de competències comunals** al fons. **Però la
-  regla que la governa queda `resolta` el 17-09-2026 amb el text constitucional
-  al davant** (`docs/raw/lleis/constitucio.txt`, article 57.3): **les lleis
-  qualificades s'aproven per majoria absoluta dels membres del Consell General**,
-  **llevat de quatre** —**l'electoral i de referèndum, la de competències
-  comunals i la de transferències als Comuns**— **que requereixen el vot
-  favorable de la majoria absoluta dels consellers elegits en circumscripció
-  parroquial I la dels elegits en circumscripció nacional.**
+- ~~**Falta la llei qualificada de competències comunals** al fons.~~ — **`resolt`
+  el 21-09-2026**: el text complet és a
+  `docs/raw/lleis/bopa/llei-qualificada-competencies-comuns-1993.txt` i la còpia
+  del BOPA 64 (29-11-1993) a `docs/raw/consell-general/bopa-competencies-comuns-1993.txt`.
+  **La regla que la governa queda `resolta` el 17-09-2026 amb el text
+  constitucional al davant** (`docs/raw/lleis/constitucio.txt`, article 57.3):
+  **les lleis qualificades s'aproven per majoria absoluta dels membres del
+  Consell General**, **llevat de quatre** —**l'electoral i de referèndum, la de
+  competències comunals i la de transferències als Comuns**— **que requereixen
+  el vot favorable de la majoria absoluta dels consellers elegits en
+  circumscripció parroquial I la dels elegits en circumscripció nacional.**
   **El corpus corregeix aquí el seu propi enunciat**: **no en són tres, en són
   quatre**, perquè **la Constitució compta «l'electoral i de referèndum» com una
   sola llei i aquest buit la comptava com una.** **La doble majoria protegeix
