@@ -379,8 +379,16 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
 5. **El memòria de 1767**, *Archives des Pyrénées-Orientales, C 1282*, i **el
    procediment de la lligalla del notari Soldevila de 1783** que la font dona com
    a cas extrem.
-6. **Els documents del 18 de febrer de 1781, 24 de maig de 1784 i 23 d'abril de
-   1786**, i **amb quin títol el Bisbe manava destituir el batlle francès.**
+6. ~~**Els documents del 18 de febrer de 1781, 24 de maig de 1784 i 23 d'abril de
+   1786**, i **amb quin títol el Bisbe manava destituir el batlle francès.**~~ —
+   **`parcial` el 21-09-2026**: el llibre d'actes conserva l'acta del **23 d'abril
+   de 1786** i diu que una carta o resolució del Bisbe d'Urgell manava
+   **desemplear el batlle Pere Riba, Ramon Guiem**; ell ja havia renunciat el 21
+   d'abril, i el Consell va nomenar **Jaume Areny, Calbó**, interinament, fins que
+   hi hagués veguer francès ([actes històrics](../../../raw/consell-general/actes-historiques/text/llibre-iv-1743-1864.txt)).
+   **La mateixa acta diu que la carta queda cusida al llibre**, però el corpus no
+   en té el text ni la signatura; els documents del **18 de febrer de 1781** i
+   **24 de maig de 1784** també continuen pendents.
 7. **L'acta d'instal·lació del batlle francès del 26 de gener de 1880** i **la
    carta del Síndic al prefecte de l'Arieja del 6 de juliol de 1831** *(Archives
    de l'Ariège, Andorre, lligall 2 — **setena peça registrada**)*.
