@@ -167,8 +167,15 @@ relacionades; registra que ara hi ha una finestra temporal.`
   en bàndols fins a finals del segle XIX**. Els dos períodes «ruidosos y
   sangrientos» del corpus —**1868-1878** i **1883-1886**— **són tots dos
   posteriors a aquesta llei**.
-- **Qui era Areny i Plandolit i amb qui es va enfrontar** en concret. `Queda
-  obert.`
+- ~~**Qui era Areny i Plandolit i amb qui es va enfrontar** en concret.~~ —
+  **`parcial` el 21-09-2026**: [la biografia de Guillem d'Areny-Plandolit](./guillem-dareny-plandolit.md)
+  l'identifica com a **Guillem Maria d'Areny i de Plandolit**, tercer baró de
+  Senaller i Gramenet, nascut a la Seu d'Urgell el **19 de febrer de 1822**,
+  mort el **23 de febrer de 1876**, promotor principal de la Nova Reforma i
+  primer síndic del **28-05-1866 al 02-12-1867**. La fitxa dels bàndols situa el
+  conflicte amb **els casalers, els anfochs i el bisbe Josep Caixal** ([els
+  casalers i els anfochs](./els-casalers-i-els-anfochs.md)); encara falta la
+  relació nominal completa dels adversaris i el detall de cada enfrontament.
 - ~~**L'anomenada «Qüestió d'Andorra» del segle XIX**, no investigada.~~ —
   **`resolt`**: **ja té fitxa**,
   [La qüestió d'Andorra](./la-questio-dandorra.md) — un quart de segle de conflicte
