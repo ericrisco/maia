@@ -325,8 +325,13 @@ més citades.**
    **Vilar en transcriu set en català a la nota de la p. 61** i el corpus ja les
    ha destil·lades. **La font no diu quantes màximes conté en total el llibre
    sisè, de manera que les restants continuen obertes.**
-7. **Si la màxima de no afillar forasters es va aplicar mai**, i **quan es deixa
-   d'aplicar.**
+7. ~~**Si la màxima de no afillar forasters es va aplicar mai**, i **quan es
+   deixa d'aplicar.**~~ — **`parcial` el 21-09-2026**: la màxima de **1741 o
+   1748** ordena que ni els forasters casats amb andorranes entrin al Consell,
+   mentre una font de **1904** diu que l'estranger casat amb una pubilla
+   esdevenia andorrà. El corpus pot confrontar la regla escrita amb aquesta
+   pràctica de nacionalitat, però no té un cas que provi si l'exclusió del
+   Consell es va aplicar ni la data en què va deixar de fer-se.
 8. **D'on surt el lema «Tot pel poble, però sense el poble»**, i **si té font
    andorrana.** **Nou.**
 9. ~~**El decret de Guinda del 3 de febrer de 1715**, que aquest tram reprodueix
