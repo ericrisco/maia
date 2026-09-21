@@ -51,9 +51,12 @@ que va ser jutjada penalment a Andorra sense advocat**.
 Pujadas els descriu amb prudència: consellers generals amb funcions imprecises
 «que tanmateix **podrien semblar llunyanament les del jurat popular**».
 
-**Dos membres del parlament asseguts al tribunal penal.** El corpus no en sap
+~~**Dos membres del parlament asseguts al tribunal penal.** El corpus no en sap
 res més. **Buit registrat, i molt llaminer** — és una institució andorrana sense
-equivalent evident.
+equivalent evident.~~ — **`parcial` el 21-09-2026**: el *Politar* i el decret de
+Catalán de Ocón ja documenten que el Consell en nomenava **dos**, que
+intercedien pels presos i vetllaven pels privilegis de les Valls. L'origen i la
+data final de la institució continuen oberts.
 
 ## La justícia administrativa: el recurs en queixa
 
