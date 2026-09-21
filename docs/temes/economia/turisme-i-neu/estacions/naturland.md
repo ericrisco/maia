@@ -110,7 +110,7 @@ però no diu què va passar amb cada animal o amb cada treballador.
   consten el préstec comunal disposat de **5.539.752 €** i avals per
   **6.830.957 €**.
 - ~~**Els comptes del 2021 a avui**, per veure si el pla de reestructuració es va
-  aplicar i si el deute es va convertir en accions.**~~ — **`parcial` el
+  aplicar i si el deute es va convertir en accions.~~ — **`parcial` el
   19-09-2026**: per al 2022, el [butlletí del Comú](https://comusantjulia.ad/media/documentacio/EL-COMU-AMB-TU-N14.pdf)
   dona una facturació de **4.837.000 €**, una aportació comunal reduïda de
   **600.000 € a 500.000 €**, un EBITDA de **303.000 €** i un primer retorn de
