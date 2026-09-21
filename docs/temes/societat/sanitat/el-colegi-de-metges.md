@@ -59,7 +59,11 @@ concretes a la formació continuada ([la fitxa de la reacreditació](./la-reacre
 
 ## Buits registrats
 
-1. **D'on vénen els metges**, geogràficament — segueix sense resposta.
+1. ~~**D'on vénen els metges**, geogràficament — segueix sense resposta.~~ —
+   **`parcial` el 2026-09-21**: el directori del COMA confirma **410 metges
+   col·legiats i 49 especialitats** el 2026, però no publica la procedència
+   geogràfica; aquesta part del buit continua oberta ([la reacreditació dels
+   metges](./la-reacreditacio-dels-metges.md)).
 2. ~~**Els altres col·legis professionals andorrans** —advocats,
    arquitectes, infermeria— **cap encara sense fitxa.**~~ — **`parcial` el
    21-09-2026**: el directori del Govern confirma, dins l'àmbit sanitari, els
