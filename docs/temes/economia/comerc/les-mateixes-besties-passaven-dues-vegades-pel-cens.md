@@ -208,16 +208,27 @@ plus florissante de ce pays: la contrebande*».**
 1. **El vot del Consell General dels Pirineus Orientals del 5 d'octubre de 1904**,
    sencer, **i si es va aplicar cap dels tres punts.** **Prioritari, i és nou.**
    `Requereix les actes del Conseil général des Pyrénées-Orientales.`
-2. **L'arrêt del Consell de 1767** que confirma les franquícies andorranes.
-   **Nou, i no s'ha vist.**
-3. **El decret francès del 27 de març de 1806**, sencer. **Segueix sense veure's**,
-   i **és la baula que totes les fitxes d'aquest afer citen de segona mà.**
-   **Prioritari.**
-4. **L'acord comercial de 1867 i la circular del 18 de desembre de 1867**,
-   senceres.
-5. **Qualsevol cens del bestiar andorrà del segle XIX fet per a efectes
-   duaners**, **i qui el feia.** **Prioritari**: **de la seva xifra depenia la
-   mida de la franquícia**, i **dues fonts de dos països diuen que era falsa.**
+2. ~~**L'arrêt del Consell de 1767** que confirma les franquícies andorranes.~~ —
+   **`parcial` el 21-09-2026**: Vilar el descriu com l'acte que confirma i
+   determina per última vegada la franquícia d'importació des de França, però el
+   text de l'arrêt encara no és al corpus ([*L'Andorre* de Vilar, 1904](../../../raw/llibres/vilar-andorre-1904.txt)).
+3. ~~**El decret francès del 27 de març de 1806**, sencer.~~ — **`parcial` el
+   21-09-2026**: la mateixa font diu que el decret va satisfer la petició
+   andorrana de reprendre les relacions i nomenar un veguer, i el torna a citar
+   com a antecedent de l'acord comercial de 1867; **l'articulat francès complet
+   encara falta** ([Vilar, 1904](../../../raw/llibres/vilar-andorre-1904.txt)).
+4. ~~**L'acord comercial de 1867 i la circular del 18 de desembre de 1867**,
+   senceres.~~ — **`parcial` el 21-09-2026**: Vilar identifica l'acord com el
+   règim aplicable a les franquícies i transcriu la circular —exempció de drets,
+   certificat d'origen signat pel president del Consell i inspecció francesa en
+   cas de sospita d'abús—; **els originals dels dos instruments encara falten**
+   ([Vilar, 1904](../../../raw/llibres/vilar-andorre-1904.txt)).
+5. ~~**Qualsevol cens del bestiar andorrà del segle XIX fet per a efectes
+   duaners**, **i qui el feia.**~~ — **`parcial` el 21-09-2026**: [els censos
+   del bestiar de 1898–1900](../ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md)
+   donen tres recomptes consecutius fets **sota el control del veguer i d'agents
+   de les duanes franceses**; encara no s'han identificat els agents ni el
+   procediment complet, i la font és posterior a la discussió de 1895.
 6. **`Las Cortes Españolas de 1895 y las franquicias de Andorra`**, Madrid,
    **citat en nota a la p. 139 com a font de l'article de Carvajal.** **Opuscle
    nou i no vist.**
