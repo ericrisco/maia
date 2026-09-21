@@ -20,3 +20,12 @@ title: "Fonts web sobre llegendes i imaginari popular"
 - **Consulta i baixada:** 2026-09-21.
 - **Ús:** contrastar variants de la llegenda: l’article atribueix a Pep Coll la difusió moderna de la versió urgellenca i andorrana, diu que a Andorra no hi ha el personatge auxiliar Ot i Urgell de la Seu, i situa el bosc dels menairons a Pal (la Massana).
 - **Condicions:** publicació periodística amb drets reservats; es conserva la còpia local per a verificació i no es redistribueix ni entra en cap dataset.
+
+## *El buner d’Ordino* (CulturaPopular.ad)
+
+- **Font:** CulturaPopular.ad, Ministeri de Cultura, Joventut i Esports del Govern d’Andorra.
+- **URL:** <https://www.culturapopular.ad/categories/el-buner-d-ordino>
+- **Fitxer:** [`culturapopular-buner-ordino-2026.txt`](./culturapopular-buner-ordino-2026.txt)
+- **Consulta i baixada:** 2026-09-21.
+- **Ús:** la pàgina situa la llegenda al coll d’Ordino, explica que el músic anava a tocar la buna a la festa major de Canillo i no li dona cap nom propi; també documenta l’espectacle de l’Esbart Valls del Nord.
+- **Condicions:** pàgina institucional; termes de reutilització no especificats. Es conserva la captura textual per a verificació i no es redistribueix ni entra en cap dataset.

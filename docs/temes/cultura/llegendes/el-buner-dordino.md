@@ -58,7 +58,12 @@ consultada no ho diu. El buner es queda a mig camí, tocant.
 ## El que falta
 
 - ~~**La versió sencera i les seves variants.**~~ — **`parcial` el 21-09-2026**: una font periodística sobre la tradició urgellenca i andorrana atribueix a **Pep Coll** la difusió moderna de la versió de la Vall Fosca (1992) i documenta una variant de la Seu d’Urgell amb **Ot i Urgell**; l’article diu que a Andorra aquest personatge auxiliar no hi és. Encara no s’ha buidat la versió sencera del *buner* ni s’han comparat variants pròpies d’Ordino ([font de variants](../../../raw/web/cultura/llegendes/README.md)).
-- **Si el buner té nom** en alguna versió.
+- ~~**Si el buner té nom** en alguna versió.~~ — **`parcial` el 21-09-2026**:
+  [CulturaPopular.ad](../../../raw/web/cultura/llegendes/README.md) identifica el
+  personatge com el buner d’Ordino que va a tocar la buna a la festa major de
+  Canillo i no li atribueix cap nom propi. La pàgina remet a la versió de Ricard
+  Fiter i Vilajoana, però no exhaureix les variants publicades; encara falta
+  comprovar si alguna altra versió li dona nom.
 - Si la **buna** s'ha tocat mai a Andorra de debò, quan es va perdre, i si hi ha
   cap instrument conservat. **Aquesta és la pregunta bona**, i lligaria la
   llegenda amb [música i cançons](../../cultura/musica-i-cancons/musica-i-cancons.md).
