@@ -368,7 +368,7 @@ anys anteriors cal una altra font.
    **No verificat si coincideix exactament amb «tots els andorrans majors
    de 18 anys».**
 4. ~~**El text de les tres lleis** (1975, 1984, 1993).~~ **`parcial` el 2026-09-19**: els textos de **1993** i **1995** ja són al corpus i estan llegits a [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) —[llei de 1993](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt) i [llei de 1995](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt)—, però el text de **1975** i la norma de quotes de **1984** encara no hi són.
-5. **Els 7.000 «nascuts a Andorra»**: què se'n va fer, un a un.
+5. ~~**Els 7.000 «nascuts a Andorra»**: què se'n va fer, un a un.~~ — **`parcial` el 21-09-2026**: la fitxa fixa que a principi dels anys noranta hi havia **més de 7.000 persones nascudes a Andorra sense nacionalitat andorrana**, conseqüència del règim de 1975, però el corpus no té el seguiment individual de les seves nacionalitzacions, sortides o canvis d'estatus.
 6. ~~**Els repatriats portuguesos de les colònies africanes**: quants, d'on.~~ —
    **`parcial` el 21-09-2026**: la mateixa font ja concreta l'origen del primer
    flux —**repatriats de les antigues colònies portugueses de l'Àfrica**— i el
