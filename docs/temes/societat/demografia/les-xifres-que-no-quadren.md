@@ -211,7 +211,14 @@ i cadascuna té un autor que responia a una pregunta diferent.
   ([15a Diada](../../../raw/web/cultura/15a-diada-andorrana-2002.txt), p. 49).
   La ponència de Camiade és la font que en reprodueix la sèrie de població; la
   diferència ortogràfica **Combarnou/Combarnous** queda registrada.
-- **Què passa entre 1912 i 1920.** **Prioritari.**
+- ~~**Què passa entre 1912 i 1920.** **Prioritari.**~~ — **`parcial` el
+  21-09-2026**: la fitxa [La transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md)
+  documenta que la **Primera Guerra Mundial va trencar les ramades ariegeses
+  entre 1914 i 1918**, i que després els ramats lleidatans no van tornar perquè
+  havien trobat estives al Pallars i a la Ribagorça. Això dona un canvi concret
+  dins l'interval de la caiguda de **6.100 habitants (1912) a 4.309 (1920)**,
+  però el corpus encara no pot atribuir-hi tota la pèrdua ni reconstruir-ne la
+  demografia any per any.
 - **Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes
   aquestes xifres són de fora.
 
