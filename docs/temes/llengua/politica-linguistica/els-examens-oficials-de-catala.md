@@ -171,18 +171,22 @@ aquí operant al nivell de la teoria i no del folklore.
 
 ## Buits registrats
 
-- **Què s'avalua exactament a la part oral**, i **si es penalitzen o es toleren
-  els trets andorrans**. **Buit prioritari absolut per a aquest projecte.**
-  **Tres cerques dedicades el 18-09-2026 no troben cap barem ni criteri de
-  correcció publicat**: la pàgina d'exàmens oficials del govern.ad no en
-  dona cap PDF navegable des de fora, i les cerques amb «barems»,
-  «criteris de correcció» i «expressió oral» només retornen documents
-  d'altres territoris (Catalunya, València). `Requereix contacte directe
-  amb l'Àrea de titulacions i exàmens oficials del Govern; no és un buit
-  de cerca, és un document no publicat.`
-- **Els programes i models d'examen** dels nivells A, B i C. Són documents
-  públics i **definirien l'estàndard andorrà operatiu**.
-- **Quanta gent aprova** de les 480 que s'hi presenten.
+- ~~**Què s'avalua exactament a la part oral**, i **si es penalitzen o es toleren
+  els trets andorrans**.~~ — **`parcial` el 22-09-2026**: **tres cerques
+  dedicades** no han trobat cap barem ni criteri de correcció publicat; la
+  pàgina d'exàmens oficials del govern.ad no ofereix cap PDF navegable des de
+  fora, i les cerques amb «barems», «criteris de correcció» i «expressió oral»
+  només retornen documents d'altres territoris. **El criteri andorrà continua
+  obert i requereix contacte directe amb l'Àrea de titulacions i exàmens
+  oficials del Govern.**
+- ~~**Els programes i models d'examen** dels nivells A, B i C.~~ —
+  **`font_externa`**, confirmat el 22-09-2026: la ponència els pressuposa com a
+  documents públics, però cap programa ni model forma part del corpus i no se'n
+  pot descriure el contingut.
+- ~~**Quanta gent aprova** de les 480 que s'hi presenten.~~ — **`parcial` el
+  22-09-2026**: la font conserva el nombre de persones mobilitzades (**480**)
+  i les dues convocatòries anuals, però no publica el nombre d'aptes ni una
+  taxa d'aprovació.
 - ~~**Si els nivells segueixen sent A, B i C** el 2026, o s'han alineat amb el
   MECR (A1-C2).~~ **`parcial` el 19-09-2026**: la [Llei de la llengua pròpia i
   oficial de 2024](./la-llei-de-la-llengua.md) ja fixa **A1** en la primera
@@ -190,10 +194,15 @@ aquí operant al nivell de la teoria i no del folklore.
   hagin substituït els exàmens oficials **A, B i C** documentats aquí. Queda
   acotat l'ús contemporani d'A1/A2, però no la reforma ni l'alineació completa
   del sistema d'exàmens amb el MECR.
-- **La relació amb els nivells de la Generalitat** i amb el **certificat
-  internacional de català (CIC)**, que la font esmenta per als lectorats.
-- **Qui són els examinands**: nouvinguts? andorrans que no saben escriure?
-  funcionaris?
+- ~~**La relació amb els nivells de la Generalitat** i amb el **certificat
+  internacional de català (CIC)**, que la font esmenta per als lectorats.~~ —
+  **`font_externa`**, confirmat el 22-09-2026: la ponència només els esmenta
+  com a referents dels lectorats i no aporta cap equivalència amb A, B o C.
+- ~~**Qui són els examinands**: nouvinguts? andorrans que no saben escriure?
+  funcionaris?~~ — **`parcial` el 22-09-2026**: la font enumera motius per
+  examinar-se —millorar el currículum, ascendir, atendre el públic en català i
+  complir les exigències legals—, però no publica el perfil ni el recompte dels
+  examinands.
 
 ## Related
 
