@@ -258,7 +258,10 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   al [BOPA](../../../fonts/bopa.md), vint articles, competències senceres.
   `Requereix les normes reglamentàries que la llei diu que el Govern dicta, i el
   reglament del cens obligatori.`
-- **Quins bancs** van finançar els cursos i amb quant.
+- ~~**Quins bancs** van finançar els cursos i amb quant.~~ — **`parcial` el
+  22-09-2026**: la ponència només diu que la Cambra va obtenir ajudes
+  econòmiques de **diverses institucions bancàries del país** per abaratir els
+  cursos; no en dona els noms, els imports ni els cursos concrets finançats.
 - ~~**Quantes empreses i quantes persones** van passar per la formació contínua.~~ —
   **`parcial` el 21-09-2026**: la Cambra informa que durant el **2024** hi va
   haver **84 formacions** i **892 persones assistents**; dins d'aquest total, 18
