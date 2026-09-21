@@ -1,14 +1,14 @@
 ---
-title: "Llistat oficial de guarderies"
+title: "Formació d'adults — dades recents del CFLV"
 ---
 
-# Llistat oficial de guarderies
+# Formació d'adults — dades recents del CFLV
 
-- **Font:** Govern d'Andorra, *Registre Nacional de Serveis Socials i
-  Sociosanitaris — Llistat de guarderies*.
-- **URL:** <https://www.govern.ad/documents/d/guest/llistat_guarderies-pdf?download=true>
-- **Consulta:** 2026-09-19.
-- **Fitxers:** `llistat-guarderies-govern.pdf` (original descarregat) i
-  `llistat-guarderies-govern.txt` (text extret amb `pdftotext`).
-- **Condicions:** còpia de consulta d'un document públic del Govern; no se'n
-  redistribueix el contingut fora del corpus.
+| Fitxer | Font | Què acredita |
+| --- | --- | --- |
+| [`cflv-alumnes-2024-2025.html`](./cflv-alumnes-2024-2025.html) | [Bondia, «El Centre de Formació al Llarg de la Vida, 700 alumnes més enguany»](https://www.bondia.ad/societat/el-centre-de-formacio-al-llarg-de-la-vida-700-alumnes-mes-enguany) | 1.594 alumnes el curs 2023–2024 i 2.294 el 2024–2025; el desglossament del primer curs és 760, 465, 234, 48 i 87. |
+
+Consulta local feta el **21-09-2026**. Article de premsa amb dades atribuïdes al
+Centre de Formació al Llarg de la Vida; la pàgina no indica una llicència de
+reutilització. Se'n conserva la còpia HTML per a verificació factual i no se'n
+redistribueix el text íntegre ni s'incorpora a cap dataset.

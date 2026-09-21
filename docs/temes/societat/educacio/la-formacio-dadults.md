@@ -239,7 +239,14 @@ metàfora: **és la funció principal.**
 - **Pyrénées, Andorra 2000, Andimesa i Viladomat Esports**: el corpus no té cap
   fitxa d'empresa andorrana.
 - **El centre d'autoaprenentatge d'Encamp**: es va obrir?
-- **Quants adults** passen per aquests serveis cada any.
+- ~~**Quants adults** passen per aquests serveis cada any.~~ — **`parcial` el
+  21-09-2026**: el **Centre de Formació al Llarg de la Vida** registra **1.594
+  alumnes el curs 2023–2024** i **2.294 el 2024–2025**. Per al primer curs, la
+  font desglossa **760** de formació continuada general, **465** de formació
+  continuada professional, **234** del diploma de ciències humanes i socials,
+  **48** de preparació per a l'accés universitari de majors de 25 anys i **87**
+  del graduat en segona ensenyança. La dada cobreix el CFLV, no tots els serveis
+  històrics de la fitxa ([font local](../../../raw/web/societat/educacio/README.md)).
 - ~~**Com es prepara i què demana** el graduat en segona ensenyança per lliures.~~
   **`resolt` el 19-09-2026** dins d'aquesta fitxa: el prepara el Centre
   d'Educació Bàsica d'Adults per a majors de 16 anys, amb convocatòries a
