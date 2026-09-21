@@ -262,8 +262,15 @@ carreteres**, **i la fractura institucional que en va sortir.**
    Tractat dels Pirineus**, i **contradiu el que el corpus té.**
 8. **Els dos mil duros retornats de la Capitania General de Catalunya el 1854**, i
    **quina era la partida detinguda.**
-9. **Què va passar exactament els períodes 1868-1878 i 1883-1886.** **La font els
-   qualifica de «ruidosos y sangrientos» i aquí no els explica.**
+9. ~~**Què va passar exactament els períodes 1868-1878 i 1883-1886.**~~ —
+   **`parcial` el 2026-09-21**: les fitxes sobre la Nova Reforma i els bàndols
+   situen **tots dos períodes després de la reforma de 1866**, sota els
+   **successors de Caixal**, i els relacionen amb la continuïtat de les
+   **divisions entre el progrés i el conservadorisme** fins a finals del segle
+   XIX ([els casalers i els anfochs](./els-casalers-i-els-anfochs.md), [la Nova
+   Reforma](./nova-reforma.md)). **La font els qualifica de «ruidosos y
+   sangrientos», però el corpus encara no identifica els episodis concrets de
+   1868-1878 ni els de 1883-1886.**
 10. **La versió episcopal de l'afer de la carretera.** **Tota aquesta narració és
     d'una part**, i **la part contrària és el destinatari de la carta.**
 
