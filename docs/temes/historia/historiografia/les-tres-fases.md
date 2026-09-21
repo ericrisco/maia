@@ -356,7 +356,7 @@ sabia.**
   **Codina és investigador del Patrimoni Cultural d'Andorra**, autor de
   *De fer et de laine*
   ([font](../../../fonts/olivier-codina-biografia.md)).
-- **Els diplomataris**, tots.
+- ~~**Els diplomataris**, tots.~~ — **`parcial` el 21-09-2026**: la mateixa fitxa ja enumera els set volums publicats pel Govern —**Cartulari IX–XIII I–II** i **Diplomataris XIV, XV, XVII, XVIII i XIX**— i identifica el **segle XVI** com l'únic tram que falta a la sèrie. Encara no s'ha obert ni buidat el contingut dels volums.
 
 ## Related
 
