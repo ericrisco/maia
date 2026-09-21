@@ -236,8 +236,14 @@ Andorra qui no té fills és menys lliure](./a-andorra-qui-no-te-fills-es-menys-
    arribava la influència dels legistes de la Seu.**~~ — **`parcial` el 21-09-2026**: la font adverteix que totes les peces d'aquell procés portaven traces de la influència dels legistes de la Seu i que no és segur usar-lo per definir el dret andorrà; el corpus no té encara la sentència ni pot delimitar fins on arribava aquella influència.
 7. ~~**Si l'hereu havia de fer inventari en un mes**, com deia el notable, **o no**.
    **La font ho atribueix a una confusió i no cita cap norma.**~~ — **`parcial` el 21-09-2026**: el testimoni d'un notable sosté que l'hereu havia de començar l'inventari dins del mes sota pena de perdre la quarta, però Brutails ho identifica com una confusió amb l'obligació de l'hereu fiduciari; el corpus no té la norma que permeti decidir entre les dues lectures.
-8. **Si el «dret de cinch sous» de l'aranzel de 1740** té relació amb **la suma
-   sacramental**. **Segueix obert, i ara amb un motiu més per mirar-s'ho.**
+8. ~~**Si el «dret de cinch sous» de l'aranzel de 1740** té relació amb **la suma
+   sacramental**.~~ — **`parcial` el 21-09-2026**: [Els notaris deien que sense
+   escriptura no hi havia venda](../../institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md)
+   identifica **«lo dret de cinch sous»** com el dret de retracte del propietari
+   en una venda judicial, mentre aquesta fitxa i el glossari reserven **la suma
+   sacramental** al llegat simbòlic que extingia la reclamació de llegítima.
+   La coincidència numèrica queda documentada com a **dos usos jurídics
+   diferents**; encara falta l'explicació històrica de si comparteixen origen.
 
 ## Related
 
