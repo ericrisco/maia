@@ -241,9 +241,13 @@ la més precisa de totes:**
 5. ~~**Quantes vegades el Consell General va refusar d'obrir les Corts**, **i amb
    quin motiu.**~~ — **`parcial` el 19-09-2026**: la font confirma que el fet
    ha passat, però no dona cap cas concret ni el motiu de cap negativa.
-6. **La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
+6. ~~**La deliberació del Consell del 26 de febrer de 1886**, sencera, **i els
    comptes de reemborsament.** **Tercera tanda que el corpus reclama documents
-   comptables de les Corts.**
+   comptables de les Corts.**~~ — **`parcial` el 2026-09-21**: la fitxa ja
+   conserva el mecanisme de la deliberació —les Corts havien de reemborsar
+   l’avançament del Consell **amb el producte de les multes percebudes durant les
+   sessions següents**— i estableix que era un préstec, no una subvenció. **L’acta
+   íntegra i els comptes de reemborsament encara no són al corpus.**
 7. ~~**El *Politar*, pp. 185, 218 i 254.**~~ — **`resolt` el 18-09-2026, amb les
    pp. 336 i 349.** **La 254 és la que diu en quins actes hi és el Consell, i la
    llista val per ella mateixa.**
