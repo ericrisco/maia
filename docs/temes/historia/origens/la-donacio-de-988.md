@@ -147,8 +147,11 @@ fragmenta amb les herències**.
    cap amunt.~~ **`parcial`: el text fixa aquesta referència, però encara no
    permet identificar quin traçat geogràfic cobreix ni si coincideix amb
    l'Andorra actual.**
-5. Si hi ha **historiografia crítica** sobre aquestes dues donacions, com n'hi ha
-   sobre la Carta de Carlemany.
+5. ~~Si hi ha **historiografia crítica** sobre aquestes dues donacions, com n'hi
+   ha sobre la Carta de Carlemany.~~ — **`parcial`**: el corpus conserva la
+   síntesi moderna de **Joan Pujol (2002)** i una discrepància historiogràfica
+   entre **Brutails** i **Baudon de Mony** sobre la traducció d'*allaudes*; no
+   hi ha, però, un estudi crític específic de les actes del **988** i **1133**.
 6. ~~**Qui era Borrell II** i per què s'hi desprenia.~~ — **`parcial` el
    2026-09-20**: la mateixa fitxa ja l'identifica com a **comte de Barcelona i
    d'Urgell**, i [la consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
