@@ -32,8 +32,8 @@ tags: [esports, futbol, seleccio]
 
 ## El que falta
 
-- Tot: **els clubs, les dates i els partits.**
-- **La resta de la carrera.**
+- ~~Tot: **els clubs, les dates i els partits.**~~ — **`parcial` el 21-09-2026**: la font biogràfica conservada a [la font d'atletes andorrans](../../../fonts/wikipedia-atletes-andorrans.md) fixa la selecció entre **1996 i 2004** i desglossa les **sis internacionalitats** per any (1996, 1999, 2001 i 2004), però no identifica els clubs ni els rivals.
+- ~~**La resta de la carrera.**~~ — **`parcial` el 21-09-2026**: la font només permet documentar la trajectòria internacional; no hi ha clubs ni dates de carrera de club.
 
 ## Related
 
