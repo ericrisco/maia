@@ -253,7 +253,12 @@ al·legar, i la Direcció General resol.
   mèdiques de la SAC**. Per això no té data de fundació ni nombre de
   membres propis. **Sí existeix encara**: hi consta activa al directori
   del 2026.
-- **Es va signar el conveni amb la Fundació Les Heures?**
+- ~~**Es va signar el conveni amb la Fundació Les Heures?**~~ — **`parcial` el
+  21-09-2026**: la ponència de **Joan Martínez i Benazet** només diu que la
+  SAC-ACMA hi estava **en negociació** i que el conveni el podrien signar les
+  dues entitats juntament amb la Universitat d'Andorra. El text no afirma que
+  s'arribés a signar i no s'ha localitzat cap conveni posterior al recull
+  consultat ([font](../../../fonts/martinez-benazet-professions-liberals.md)).
 - ~~**El conveni SAC–Universitat d'Andorra de maig del 2000.**~~ — **`parcial` el 21-09-2026**: la cronologia confirma que la SAC el va signar amb la Universitat d'Andorra i que tractava de formació continuada; el text íntegre no és al BOPA ni al corpus i cal demanar-lo a la Universitat o al Col·legi de Metges.
 - ~~**Quants metges hi ha a Andorra** i d'on vénen~~ — **`parcial` el
   18-09-2026**: **410 metges col·legiats i 49 especialitats el 2026**
