@@ -65,10 +65,19 @@ cremar.
 
 ## El que falta, i és molt
 
-- **La pràctica real.** Quanta gent va a missa, com ha canviat, què queda de la
-  religiositat quotidiana. **Cap dada.**
-- **La secularització** d'un país que constitucionalment té un bisbe per cap
-  d'estat: la tensió és evident i **no està documentada**.
+- ~~**La pràctica real.** Quanta gent va a missa, com ha canviat, què queda de la
+  religiositat quotidiana. **Cap dada.**~~ — **`parcial` el 21-09-2026**: [la
+  fitxa sobre les religions d'Andorra](./les-religions-dandorra-avui.md) conserva
+  l'estudi del CRES de 2013: **30%** considera el fet religiós bastant o molt
+  important, **70%** poc o gens important, **48%** se sent religiós, **37,5%** no
+  religiós i **14,2%** es declara ateu convençut. No hi ha una sèrie de pràctica
+  sacramental ni una evolució llarga.
+- ~~**La secularització** d'un país que constitucionalment té un bisbe per cap
+  d'estat: la tensió és evident i **no està documentada**.~~ — **`parcial` el
+  21-09-2026**: el mateix estudi situa l'índex de favoritisme religiós en **5,7
+  el 2003** i **7 el 2008**, i documenta el **70%** de poca o nul·la importància
+  religiosa; encara falta una sèrie històrica que permeti descriure el procés de
+  secularització del país.
 - ~~**Les ermites i esglésies parroquials**, una per una. Andorra és plena de
   romànic i el corpus ja en té més de tres fitxes: [Sant Joan de
   Caselles](../../cultura/arquitectura/sant-joan-de-caselles.md), [Sant Martí de
