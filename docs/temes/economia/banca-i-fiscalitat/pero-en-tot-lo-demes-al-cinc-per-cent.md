@@ -301,8 +301,14 @@ naturalesa, l'arrendament».**
 7. **L'acte del 7 de desembre de 1419** de Mosquera, **cinquanta bèsties de llana**:
    **d'on surt.**
 8. **L'acte de 1670** de venda de la tercera part dels fruits.
-9. **Si la parceria de sis anys sobre vaques era pacte o costum**, i **si la meitat
-   del creixement admetia excepcions.**
+9. ~~**Si la parceria de sis anys sobre vaques era pacte o costum**, i **si la meitat
+   del creixement admetia excepcions.**~~ — **`parcial` el 2026-09-21**: la font
+   descriu la *parceria* com un contracte **habitualment de sis anys i sobre
+   vaques**, en què els vedells es venen, les *velles* es conserven i el
+   prenedor reté **la meitat del creixement** ([glossari de mots
+   documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
+   No diu si la durada i el repartiment eren costum jurídic o pacte de cada
+   acte, ni si admetien excepcions.
 10. **Per què la data d'entrada dels masovers era el 25 de març**, i **si valia a
     totes les parròquies.**
 
