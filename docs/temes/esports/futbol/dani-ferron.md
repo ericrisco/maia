@@ -32,8 +32,8 @@ tags: [esports, futbol, seleccio]
 
 ## El que falta
 
-- Tot: **les dates, els partits i la carrera.**
-- **La resta de la carrera.**
+- ~~Tot: **les dates, els partits i la carrera.**~~ — **`parcial` el 21-09-2026**: el bolcat biogràfic fixa la selecció entre **2001 i 2004**, amb una internacionalitat cadascun dels quatre anys, i confirma el **FC Andorra** com a club actual de la fitxa; no identifica els rivals ni la cronologia completa.
+- ~~**La resta de la carrera.**~~ — **`parcial` el 21-09-2026**: només consta el **FC Andorra**; no hi ha més clubs ni dates.
 
 ## Related
 

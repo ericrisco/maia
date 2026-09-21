@@ -33,7 +33,7 @@ tags: [esports, futbol, seleccio]
 ## El que falta
 
 - ~~Tot.~~ — **`no-es-buit` el 19-09-2026**: placeholder sense pregunta ni dada concreta.
-- **La resta de la carrera.**
+- ~~**La resta de la carrera.**~~ — **`parcial` el 21-09-2026**: la font conserva la trajectòria internacional entre **1999 i 2002** —1 partit el 1999, 5 el 2000, 3 el 2001 i 1 el 2002—, però no identifica cap club ni la resta de la carrera.
 
 ## Related
 
