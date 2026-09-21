@@ -261,8 +261,14 @@ Jutge el 19 de novembre de 1846:**
    Pareatge i **no explica ni la data exacta del canvi ni el motiu**.
 5. ~~**El *mandement* dels *saigs* de 1420** sobre les monedes, **i la reforma que les
    Corts hi van fer.**~~ — **`parcial` el 21-09-2026**: [la fitxa de l'acte](./no-prohibia-matar-los-els-eximia-de-pagar.md) conserva el contingut —prohibició de comprar vi amb moneda de Barcelona, excepte «*in albis*», sota pena de deu sous— i identifica qui la va aixecar: **Tomàs Cubells**, veguer episcopal, i **Francesc d'Apília**, jutge ordinari, actuant plegats. La reforma no la fan les Corts i el text íntegre del *mandement* continua absent.
-6. **Els documents de 1433, 1471, 1472 i 1484**, sencers.
-7. **Per què el 1472 es parla del «batlle del capítol»** i no del batlle del bisbe.
+6. ~~**Els documents de 1433, 1471, 1472 i 1484**, sencers.~~ — **`parcial` el
+   2026-09-21**: la fitxa en conserva les atestacions principals —el *saig* de
+   **1433**, el batlle de **1471**, les mencions de **1472** i l'obertura de Corts
+   de **1484**—, però **no els documents íntegres ni les signatures d'arxiu**.
+7. ~~**Per què el 1472 es parla del «batlle del capítol»** i no del batlle del bisbe.~~
+   — **`parcial` el 2026-09-21**: la fitxa confirma que el document diu **«batlle
+   del capítol»** i ho conserva com a dada institucional. **La font no explica
+   per què es feia servir aquesta denominació.**
 8. ~~**Quantes vegades el Consell General va haver de presentar més d'una sisena**, i
    **si alguna vegada s'hi va negar.**~~ — **`parcial`, actualitzat el 2026-09-19**:
    el mecanisme permetia presentar **una o diverses sisenes successivament** fins
@@ -270,8 +276,11 @@ Jutge el 19 de novembre de 1846:**
    complet del **8 d'octubre de 1718**, amb els sis candidats, el lliurament al
    veguer de França i el jurament posterior. **Segueixen oberts el recompte de
    casos amb més d'una sisena i si el Consell va arribar a negar-se.**
-9. **Els nomenaments provisionals** fets pel Consell quan França oblidava de nomenar:
-   **quants i quan.**
+9. ~~**Els nomenaments provisionals** fets pel Consell quan França oblidava de nomenar:
+   **quants i quan.**~~ — **`parcial` el 2026-09-21**: la font confirma que el
+   Consell General procedia a nomenaments provisionals quan França oblidava de
+   nomenar, per la raresa de les relacions. **No en dona cap recompte ni cap
+   data.**
 10. **Els Archives de l'Ariège, Andorre, lligall 2.** **Sisena peça registrada i
     segueix sense consultar-se.** **Prioritari per acumulació.**
     `Requereix font externa: Archives départementales de l'Ariège.`
