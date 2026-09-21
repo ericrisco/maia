@@ -248,9 +248,12 @@ Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
    és**: el DIEC2 registra el nom d'acció del verb, **no** la donació entre
    esposos sense fills que defineix Brutails. Els dos sentits que aquesta fitxa
    compara **no es poden separar per diccionari**.
-9. **Els actes andorrans de donació entre cònjuges anteriors al segle XIX.** La
+9. ~~**Els actes andorrans de donació entre cònjuges anteriors al segle XIX.** La
    font en cita **un del 16 de novembre de 1788** —donació entre vius de tots els
-   béns del marit a la dona— **i no en transcriu el text.**
+   béns del marit a la dona— **i no en transcriu el text.**~~ — **`parcial` el
+   2026-09-21**: la fitxa identifica l'acte del **16 de novembre de 1788** com
+   una donació entre vius de tots els béns del marit a la dona. **No en té el text
+   íntegre ni cap altra sèrie d'actes anteriors al segle XIX.**
 
 ## Related
 
