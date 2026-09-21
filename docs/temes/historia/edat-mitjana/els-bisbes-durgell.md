@@ -193,7 +193,11 @@ segle XX** quan es planifiquen instituts «un per vall»
    actualitzat el 2026-09-19**: la fitxa ja identifica la consagració de **1055**
    per Guillem Guifré i afirma que se'n conserva l'acta. Continua pendent
    consultar i buidar el document.
-4. **La donació de Borrell II a Guissad II** — quins béns i drets, i quin any.
+4. ~~**La donació de Borrell II a Guissad II** — quins béns i drets, i quin any.~~ —
+   **`parcial`**: l'episcopologi ja diu que Borrell II li va fer una **important
+   donació de béns i drets que posseïa a les valls d'Andorra** i situa Guissad II
+   com a bisbe entre **944 i 978**; la font no concreta l'any de l'acte ni
+   enumera els béns transferits.
 5. **El Pont de Bar** i la mort de Sant Ermengol.
 6. **Quins bisbes** han estat coprínceps en època contemporània.
 
