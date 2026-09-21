@@ -299,25 +299,42 @@ Vegeu [els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md).
 
 ## Buits registrats
 
-1. **L'article 170 del Codi civil francès** i **per què Andorra no hi entra com a
-   «país estranger»**: **la font ho afirma i no ho argumenta.** **És una qüestió
-   d'estatut internacional, no de dret de família.**
-2. **Quants matrimonis d'estrangers es van celebrar a Andorra per eludir la llei
-   de casa seva**, i **si les parròquies en portaven compte**. `Requereix font
-   externa: els registres parroquials.`
-3. **Els registres de l'Oficialitat** per a les causes matrimonials andorranes.
-   `Requereix font externa: l'Arxiu Capitular de la Seu d'Urgell.`
+1. ~~**L'article 170 del Codi civil francès** i **per què Andorra no hi entra com a
+   «país estranger»**.~~ — **`parcial` el 2026-09-21**: Brutails explica que
+   l'article no es pot aplicar directament a Andorra perquè no la tracta com un
+   país estranger, però que l'esperit de la norma porta a declarar nuls els
+   matrimonis francesos celebrats allí per eludir la llei francesa; l'estatut
+   internacional que ho fonamenta encara no queda provat ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+2. ~~**Quants matrimonis d'estrangers es van celebrar a Andorra per eludir la llei
+   de casa seva**, i **si les parròquies en portaven compte**.~~ — **`parcial` el
+   2026-09-21**: la font identifica tres grups que hi acudien —catòlics francesos
+   o espanyols, fills de família sense consentiment patern i joves espanyols que
+   no havien complert la llei militar— i en dona un cas de vídua, però no compta
+   matrimonis ni aporta registres parroquials ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+3. ~~**Els registres de l'Oficialitat** per a les causes matrimonials andorranes.~~
+   — **`parcial` el 2026-09-21**: Brutails confirma que les dificultats matrimonials
+   i les separacions de cossos eren competència de l'Oficialitat i que n'hi havia
+   força, però no aporta els llibres ni les signatures de l'Arxiu Capitular de la
+   Seu d'Urgell ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 4. ~~**Quan deixa l'Oficialitat de conèixer de les separacions**, i **què la
    substitueix**.~~ — **`parcial`, actualitzat el 2026-09-19**: la font descriu
    aquesta competència **com a vigent el 1904**. **Segueixen obertes la data en
    què va cessar i la institució o procediment que la substituí.**
-5. **La sentència del batlle Jaume Casal**: **la font no la data** —«cap al 1860».
-6. **Les denúncies de noies embarassades del segle XVII**: **sense data ni
-   signatura d'arxiu**, i **el corpus no sap si l'ordre «sota pena de mort» era
-   una fórmula o una pena aplicada mai.**
-7. **Si les *sposalles* van deixar mai rastre escrit**, atès que **els notaris no
-   en rebien actes**. La prova documental que hi ha és **una declaració judicial
-   del segle XV**, no un contracte.
+5. ~~**La sentència del batlle Jaume Casal**.~~ — **`parcial` el 2026-09-21**:
+   la font la situa **cap al 1860** i en conserva la doctrina —el batlle es
+   declara incompetent en les sevícies matrimonials i remet la causa a
+   l'autoritat eclesiàstica—, però no en dona la data exacta ni el text íntegre
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+6. ~~**Les denúncies de noies embarassades del segle XVII**.~~ — **`parcial` el
+   2026-09-21**: Brutails conserva que el batlle ordenava tenir en bona guarda el
+   fruit sota pena de mort i transcriu una petició de manutenció, despeses i
+   vestit; les dates, signatures i eventual aplicació de la pena continuen
+   desconegudes ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+7. ~~**Si les *sposalles* van deixar mai rastre escrit**, atès que **els notaris no
+   en rebien actes**.~~ — **`parcial` el 2026-09-21**: la font diu que els notaris
+   no en rebien actes, però conserva una **declaració judicial del segle XV** que
+   acredita una promesa de matrimoni i l'intercanvi d'anells com a *jogos*; no és
+   un contracte de *sposalles* ni permet datar-ne la desaparició ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 8. **Què eren els *jogos*** exactament. — **`obert`, i el 16-09-2026 amb els dos
    diccionaris consultats i buits.** **Ni el [DIEC2](../../../fonts/diec2.md) ni
    el [DCVB](../../../fonts/dcvb.md) no tenen `jogos`**; **el DCVB té `JOC`**
@@ -328,10 +345,15 @@ Vegeu [els ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md).
    que en diu el context** —**acompanyaven una *sposalla***— **i prou.**
    **Es tanca amb actes matrimonials andorrans, no amb lexicografia**:
    `requereix capítols matrimonials del mateix fons`.
-9. **Què vol dir «de caball o dot»** al contracte de 1551, i **si el *cavall* era
-   una aportació amb nom propi diferent del dot**.
-10. **Si la desproporció de 1551 —25 lliures contra 160— era corrent**, o un cas.
-    **Amb un sol contracte no es pot dir.**
+9. ~~**Què vol dir «de caball o dot»** al contracte de 1551, i **si el *cavall* era
+   una aportació amb nom propi diferent del dot**.~~ — **`parcial` el 2026-09-21**:
+   el contracte conserva l'expressió i quantifica l'aportació masculina en **160
+   lliures**, contra **25** de dot de la dona, però la font no defineix si
+   *cavall* és una categoria separada del dot ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+10. ~~**Si la desproporció de 1551 —25 lliures contra 160— era corrent**, o un cas.~~
+    — **`parcial` el 2026-09-21**: el contracte de 1551 dona la proporció **25/160**
+    i la mateixa obra aporta un segon cas de **1697** amb el marit aportant 100
+    lliures, però no hi ha una sèrie que permeti saber si era habitual ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 
 ## Related
 
