@@ -341,13 +341,21 @@ inventari de l'arxiu del Consell que el reculli**
 **Tampoc no consta si la taula de sis còpies per a les parròquies es va ordenar
 mai.**
 
-**No consta què és un `cavalló` en aquesta llista fiscal**, ni un **`xarpó`**,
-ni **`allcalar`**. **Cap dels tres no és al corpus** i **no se'n dedueix el
-sentit.**
+~~**No consta què és un `cavalló` en aquesta llista fiscal**~~ — **`resolt` el
+21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+el defineix com la **unitat de blat comptada a l'efecte de la quèstia**, amb 120
+cavallons per un metado i 17 garbes per cavalló derivades del delme.
 
-**No consta què era exactament una `mitja conducta`** de metge o barber, ni quant
+Continua obert què són un **`xarpó`** i **`allcalar`**; cap dels dos no és al
+corpus ni se'n dedueix el sentit.
+
+~~**No consta què era exactament una `mitja conducta`** de metge o barber, ni quant
 era, ni per què es pagava en dos consells diferents de l'any. **El corpus té el
-calendari del pagament i no el contracte.**
+calendari del pagament i no el contracte.**~~ — **`parcial` el 21-09-2026**: el
+[glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) la
+defineix com la **meitat de la iguala anual** amb metges i barbers, pagada en
+part per **Sant-Cugesma** i la resta per **Sant Andreu**; encara no consta
+l'import ni el motiu del repartiment entre els dos consells.
 
 **No consta l'import de cap `adot` per fera**, ni el criteri de «xichs y
 grossos». **El corpus té la pràctica i no la tarifa.**
