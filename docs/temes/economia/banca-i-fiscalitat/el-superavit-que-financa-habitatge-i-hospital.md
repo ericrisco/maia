@@ -92,8 +92,7 @@ nova redacció de l'art. 26.2, p. 3.)
   Llei 10/2026 i les partides que afegeix al pressupost de 2026 s’han llegit i
   contrastat. No s’ha reconstruït la totalitat de les modificacions posteriors
   ni la vigència consolidada de les lleis afectades.
-- No s'han llegit la liquidació de 2025, l'execució de 2026, els
-  contractes, les adjudicacions ni possibles redistribucions.
+- ~~No s'han llegit la liquidació de 2025, l'execució de 2026, els contractes, les adjudicacions ni possibles redistribucions.~~ — **`parcial` el 21-09-2026**: la nota [A134 d'execució pressupostària](../../../raw/estadistica-finances/README.md) del Departament d'Estadística aporta execució trimestral del **3r trimestre de 2025** i del **1r trimestre de 2026**. No és la liquidació anual i no inclou contractes, adjudicacions ni possibles redistribucions.
 - ~~**Lectura de justificacions parcialment tancada**~~ — **`parcial` el
   19-09-2026**: la
   [memòria de Salut i l'informe d'Intervenció](../../societat/sanitat/que-justificava-la-inversio-hospitalaria-de-2026.md)
