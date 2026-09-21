@@ -124,14 +124,14 @@ i amb ells, presumiblement, aquesta manera d'arrendar els serveis.
 
 ## Buits registrats
 
-1. **El text d'una taba.** **Prioritari** — llengua administrativa andorrana.
+1. ~~**El text d'una taba.** **Prioritari** — llengua administrativa andorrana.~~ — **`parcial` el 21-09-2026**: el *Politar* en conserva la definició com a **plec de condicions d'una subhasta o encant**, tarifat per fulls, i la fitxa descriu que regulava drets, obligacions, joc i baralles; encara no hi ha cap exemplar transcrit.
 2. ~~**Quan i com desapareix la figura del mostassà.**~~ — **`parcial` el 21-09-2026**: la fitxa situa la desaparició dels hostals comunals entre **1920 i 1930** i documenta que el mostassà ja no hi apareix a les ordinacions de 1910, però no té l'acte que en fixa la desaparició ni si tots els arrendaments van caure alhora.
 3. ~~Si la **subhasta** de serveis es feia a totes les parròquies i amb quina periodicitat.~~ — **`parcial` el 2026-09-21**: la font documenta que **sovint** s'arrendaven per subhasta la fleca, la taverna, la tenda, la carnisseria i l'hostal, però no permet afirmar que passés a totes les parròquies ni en fixa la periodicitat.
-4. **Quant** recaptava un comú per aquesta via.
+4. ~~**Quant** recaptava un comú per aquesta via.~~ — **`parcial` el 21-09-2026**: la font diu que els arrendaments omplien les arques comunals, que es consideraven minses, i que el preu canviava molt segons l'activitat econòmica; no dona cap import ni sèrie de recaptació.
 5. ~~**Les altres funcions** del mostassà que Lacueva no enumera.~~ — **`parcial` el 2026-09-21**: la font enumera controlar la taba, verificar pesos i mesures, tastar el vi i comprovar la qualitat del pa i la carn, i diu **«entre d'altres»**; no identifica les funcions restants.
 6. ~~L'**etimologia** i el paral·lelisme amb el *mustaçaf*, verificats.~~ — **`parcial` el 2026-09-21**: la fitxa proposa l'origen àrab de *mostassà* (*muhtasib*) i el paral·lelisme amb la Corona d'Aragó i el País Valencià, però ho marca explícitament com a context que encara s'ha de contrastar amb bibliografia específica.
-7. Si hi havia **taba** per a altres coses: el molí, la ferreria
-   ([el ferro](../../cultura/artesania/el-ferro.md)), el pastor comunal.
+7. ~~Si hi havia **taba** per a altres coses: el molí, la ferreria
+   ([el ferro](../../cultura/artesania/el-ferro.md)), el pastor comunal.~~ — **`parcial` el 21-09-2026**: la font només enumera fleca, taverna, tenda, carnisseria i hostal com a serveis arrendats sovint; no acredita una taba específica per al molí, la ferreria o el pastor comunal.
 
 ## Related
 
