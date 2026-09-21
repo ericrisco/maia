@@ -185,9 +185,15 @@ cens](../comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md).
    [Mil vuitanta bovins el 1900, mil vuitanta-un el 1988](./mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md).
    `El que segueix obert són els vuitanta-vuit anys del mig: entre el 1900 i el
    1988 no s'ha localitzat cap recompte.`
-5. **Quantes bèsties tenia Andorra el 1895**, l'any de la discussió. Els censos
-   són de tres anys després.
-6. **Els porcs**: la taula francesa no els compta, i la quota espanyola sí (56).
+5. ~~**Quantes bèsties tenia Andorra el 1895**, l'any de la discussió. Els censos
+   són de tres anys després.~~ — **`parcial`**: els censos francesos de
+   **1898–1900** permeten estimar unes **22.500 existències**, incloses unes
+   **165 mules**, però el tancament de la frontera espanyola entre la discussió
+   i els censos impedeix reconstruir el total exacte de 1895.
+6. ~~**Els porcs**: la taula francesa no els compta, i la quota espanyola sí
+   (56).~~ — **`parcial`**: el cens francès exclou els porcs de les seves
+   categories, mentre la quota espanyola en registra **56**; són dues cobertures
+   diferents i el corpus no pot convertir-les en una comparació del ramat real.
 
 ## Related
 
