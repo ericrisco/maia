@@ -272,11 +272,17 @@ institucions «l'air de former un véritable musée rétrospectif».**
 
 ## Buits registrats
 
-1. **El decret del 13 de juliol de 1888 sencer.** **El corpus en té ara el visto
-   i els articles 1, 2 i 4 per citació de dues fonts**, i **no el text.**
-   **Prioritari**, i **hauria de ser al *Journal officiel* del 20-07-1888.**
-2. **El decret del 19 de gener de 1898 sencer**, *JO* del **22-01-1898**. **Ara
-   se'n coneix el contingut per citació; el text, no.**
+1. ~~**El decret del 13 de juliol de 1888 sencer.**~~ — **`parcial` el
+   2026-09-22**: el corpus ja conserva el **vist**, els articles **1, 2 i 4** per
+   citació, la institució del Tribunal Superior de Perpinyà i el seu termini de
+   tretze dies; [Si no dius a quin copríncep](./si-no-dius-a-quin-coprincep-tria-laltra-part.md)
+   també en transcriu el vist i els articles 1 i 2. **El text íntegre del
+   *Journal officiel* del 20-07-1888 encara falta.**
+2. ~~**El decret del 19 de gener de 1898 sencer**, *JO* del **22-01-1898**.~~ —
+   **`parcial` el 2026-09-22**: el corpus ja en coneix el contingut essencial —la
+   **composició** del tribunal i el **quòrum de tres dels cinc membres**— per
+   citació contemporània, però **no conserva el text íntegre** del *Journal
+   officiel*.
 3. ~~**Els annexos del llibre de Vilar**, amb **tres sentències del Tribunal
    Superior d'Andorra**.~~ — **`TANCAT EL 17-09-2026`**, pp. 173-180
    ([va afegir a la sentència coses que ningú no havia
