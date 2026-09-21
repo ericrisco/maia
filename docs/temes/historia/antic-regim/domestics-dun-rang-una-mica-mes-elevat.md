@@ -202,14 +202,21 @@ a **terme pejoratiu**.
 
 ## Buits registrats
 
-1. **Si un pare podia desheretar un fill per motius greus.** **La font ho pregunta
-   i només obté testimonis orals.** **No cita cap sentència ni cap norma
-   andorrana.**
-2. **Els casos d'exheredació que li van citar**: **sense data ni referència.**
-3. **La sentència de 1893 sobre els jornals**, sencera, i **quant es va acabar
-   pagant.**
-4. **Quin termini de prescripció es va invocar** el 1893. **La font no el diu**, i
-   **el corpus no té el règim de prescripció andorrà.**
+1. ~~**Si un pare podia desheretar un fill per motius greus.**~~ — **`parcial` el
+   2026-09-21**: Brutails només obté testimonis que això es feia de vegades i
+   adverteix que a Andorra no troba regla ni sentència; el buit queda limitat a
+   una pràctica oral no verificada ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+2. ~~**Els casos d'exheredació que li van citar**.~~ — **`parcial` el 2026-09-21**:
+   la font situa exemples el **1 de febrer de 1456** i el **5 d'octubre de 1519**,
+   amb cinc sous als fills exclosos, però no n'identifica els expedients ni les
+   parts ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+3. ~~**La sentència de 1893 sobre els jornals**, sencera, i **quant es va acabar
+   pagant.**~~ — **`parcial` el 2026-09-21**: la font confirma el litigi entre el
+   germà hereu i el legitimari, i que la defensa invocava prescripció, però no
+   conserva el text ni la quantitat final ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+4. ~~**Quin termini de prescripció es va invocar** el 1893.~~ — **`parcial` el
+   2026-09-21**: l'hereu va invocar la prescripció per limitar el pagament dels
+   jornals, però la font no dona el termini ni el règim jurídic aplicable ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 5. ~~**Què era exactament el *dret de vincle***.~~ — **TANCAT el 2026-09-18**:
    **el mot té tres capes** —**obligació, hipoteca o fideïcomís** en sentit propi;
    **el dret sobre una successió *ab intestat* en línia col·lateral** en sentit
@@ -220,11 +227,15 @@ a **terme pejoratiu**.
    possessió](./per-amor-de-deu-que-el-mantinguin-en-possessio.md)). **Segueix
    obert si prescrivia als trenta anys**: **els *sabis* ho deien i no hi ha ni
    norma ni sentència.**
-6. **Si el *dret al pa i a l'aigua* era una fórmula fixa** o **una reserva
-   ocasional**, i **si mai es va executar.** **La interpretació alimentària és de
-   l'autor.**
-7. **Si el jurament era realment innecessari** a Andorra per validar una
-   *diffinitio*. **La font ho creu i no ho prova.**
+6. ~~**Si el *dret al pa i a l'aigua* era una fórmula fixa** o **una reserva
+   ocasional**, i **si mai es va executar.**~~ — **`parcial` el 2026-09-21**: la
+   font conserva la reserva en diverses renúncies i l'interpreta com a dret
+   alimentari, però no permet saber si era fórmula general ni si es va reclamar
+   mai ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+7. ~~**Si el jurament era realment innecessari** a Andorra per validar una
+   *diffinitio*.~~ — **`parcial` el 2026-09-21**: Brutails diu que la figura havia
+   passat a costum i que no creia que el jurament hi afegís validesa, però no cita
+   norma ni sentència andorrana que ho confirmi ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 8. ~~**Quantes accions de complement de llegítima hi va haver.**~~ — **`parcial`
    el 18-09-2026**: el corpus en té dues datades, **1848 i 1891**, amb dues
    resolucions favorables, però **no hi ha una sèrie completa ni un total
