@@ -84,8 +84,12 @@ independencia contraria á los derechos é intereses de la Nación española**»
    primer. El corpus la té per la còpia provincial, no per l'original.~~ —
    **`resolt` el 19-09-2026** com a buit duplicat; la pregunta canònica queda a
    [la fitxa temàtica de la reial ordre](../temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
-4. **Els altres butlletins provincials** que la van reproduir, i si el text hi és
-   idèntic.
+4. ~~**Els altres butlletins provincials** que la van reproduir, i si el text hi és
+   idèntic.~~ — **`parcial` el 2026-09-22**: la circular de Valladolid del **12
+   de setembre de 1894** es va adreçar a tot el seu districte judicial, i la
+   mateixa fitxa ja infereix que havia de publicar-se en altres butlletins. El
+   corpus només conserva l'exemplar de **León** i no ha comprovat ni la llista
+   d'altres províncies ni la identitat textual de les còpies.
 5. ~~**Si es va derogar mai**, i quan.~~ — **`resolt` el 19-09-2026** com a
    buit duplicat; la pregunta canònica queda a
    [la fitxa temàtica de la reial ordre](../temes/historia/segle-xix/la-reial-ordre-de-setembre-de-1894.md).
