@@ -133,9 +133,13 @@ període d'execució** de la sentència» (article 1.2).
   i 18 versions** (`docs/raw/lleis/codi-procediment-penal.txt`), i la fitxa ja
   pot llegir-ne el règim vigent; encara no s'ha fet la comparació article per
   article de les divuit versions per reconstruir les reformes.
-- **El Codi de Procediment Civil** (439 articles, el segon més llarg del país) i
-  ~~**la Llei transitòria de procediments judicials** (221)~~ segueixen sense
-  llegir. — **La transitòria, `parcial` el 17-09-2026**: baixada del
+- ~~**El Codi de Procediment Civil** (439 articles, el segon més llarg del país)~~
+  — **`parcial` el 21-09-2026**: la fitxa [Tretze dies](./tretze-dies.md) ja
+  llegeix el text consolidat de **439 articles i 8 versions** i hi compta **116
+  aparicions** del termini de tretze dies; encara no se n'ha fet la lectura
+  íntegra ni la comparació històrica. **La Llei transitòria de procediments
+  judicials** (221) segueix sense llegir. — **La transitòria, `parcial` el
+  17-09-2026**: baixada del
   [BOPA](../../../fonts/bopa.md), butlletí **3 del 1994**
   (`docs/raw/lleis/bopa/llei-transitoria-procediments-judicials-1993.txt`), i
   **llegida per l'exposició de motius, que és on diu què és.**
