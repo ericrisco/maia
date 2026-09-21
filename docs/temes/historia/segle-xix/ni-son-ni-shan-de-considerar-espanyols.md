@@ -185,34 +185,54 @@ atrás»** i s'hi notarà **«una enorme diferencia en sentido negativo»**.
 
 ## Buits registrats
 
-1. **Qui era el bisbe que va retirar els empleats judicials** i **quan exactament**.
+1. ~~**Qui era el bisbe que va retirar els empleats judicials** i **quan exactament**.
    **La font diu «el antecesor de V. E. I.» i prou.** **Segueix com a buit
-   prioritari**, ara **amb la formulació exacta de la font.**
+   prioritari**, ara **amb la formulació exacta de la font.**~~ — **`resolt` el
+   22-09-2026**: [Té raó el més fort o el més avisat](../../institucions/justicia/te-rao-el-mes-fort-o-el-mes-avisat.md)
+   ja identifica el predecessor de Casañas com a **Josep Caixal i Estradé** i el
+   situa al capdavant del conflicte de **1874**; aquesta fitxa confirma que és
+   ell qui havia retirat els empleats judicials.
 2. ~~**Qui eren «los dos Jefes públicos del movimiento perturbador»**, **de quin
    moviment** i **de quins fets se'ls acusava.**~~ — **`no-es-buit` el
    2026-09-19**: **la font els qualifica de persones de «cualidad» i lligades al
    bisbe «con toda clase de relaciones»**, però **no els nomena**. **El corpus no
    necessita identificar particulars** quan el que pot sostenir és l'acte
    institucional que el document atribueix al bisbe.
-3. **La detenció dels tres representants del Consell al castell de la Seu**:
+3. ~~**La detenció dels tres representants del Consell al castell de la Seu**:
    **data, noms dels càrrecs, durada i com va acabar.** **Prioritari**: **és una
    detenció de membres d'una assemblea per ordre d'un cap d'estat**, i **el corpus
-   només en té aquesta línia.**
+   només en té aquesta línia.**~~ — **`parcial` el 22-09-2026**: la font fixa que
+   eren **tres representants enviats en comissió al Palau episcopal**, detinguts
+   per ordre del bisbe i conduïts al castell com a presoners; **no en dona data,
+   càrrecs individuals, durada ni desenllaç**.
 4. ~~**El procés obert pel veguer francès**, **el procediment excepcional que hi
    va aplicar** i **la sentència**.~~ — **`parcial` el 2026-09-18**: la font en dona
    el resultat —**multa i curt desterrament**—, però **no la data, el procediment
    ni el text de la sentència**.
-5. **Quan es va restablir la jurisdicció episcopal** i **si es va nomenar mai el
-   veguer interí** que el Consell demanava.
-6. **Si Roma va respondre** a la petició de considerar els bisbes «prácticamente
+5. ~~**Quan es va restablir la jurisdicció episcopal** i **si es va nomenar mai el
+   veguer interí** que el Consell demanava.~~ — **`parcial` el 22-09-2026**: la
+   fitxa situa la petició dins la paràlisi de **1874-1877** i documenta que el
+   veguer francès va acabar obrint procés tot sol; **no aporta la data de
+   restauració episcopal ni cap nomenament interí**.
+6. ~~**Si Roma va respondre** a la petició de considerar els bisbes «prácticamente
    en la clase de Copríncipes». **El volum conté l'exposició al Papa i cap
-   resposta.**
-7. **Què volia dir «la Reforma convenientemente ampliada»** en concret. **La font
-   assenyala la via i no en dona el contingut.**
-8. **Amb què es mesurava la «desmoralización»** que la font atribueix als
-   vint-i-cinc anys de conflicte. **Cap indicador.**
-9. **La versió episcopal de la detenció dels tres consellers.** **Com de tota la
-   resta.**
+   resposta.**~~ — **`parcial` el 22-09-2026**: queda documentada la petició
+   d'una reducció recíproca de sobiranies i que **el volum no conté cap resposta
+   de Roma**; **no es pot afirmar si la resposta existeix fora d'aquest volum**.
+7. ~~**Què volia dir «la Reforma convenientemente ampliada»** en concret. **La font
+   assenyala la via i no en dona el contingut.**~~ — **`parcial` el 22-09-2026**:
+   el Consell concreta que volia **desenvolupar els organismes governamentals
+   sobre la base de la Reforma de 1866**; **no descriu quines ampliacions
+   institucionals proposava**.
+8. ~~**Amb què es mesurava la «desmoralización»** que la font atribueix als
+   vint-i-cinc anys de conflicte. **Cap indicador.**~~ — **`parcial` el
+   22-09-2026**: la carta atribueix la desmoralització a la intromissió política
+   del clergat durant els vint-i-cinc anys anteriors i proposa comparar-la amb
+   cinc lustres enrere; **no dona cap indicador ni sèrie**.
+9. ~~**La versió episcopal de la detenció dels tres consellers.** **Com de tota la
+   resta.**~~ — **`parcial` el 22-09-2026**: aquesta fitxa conserva **només la
+   versió del Consell General** i identifica la detenció com una ordre episcopal;
+   **no hi ha al corpus una resposta o relat del Bisbat**.
 
 ## Related
 
