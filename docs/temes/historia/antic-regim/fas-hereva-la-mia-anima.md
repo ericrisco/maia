@@ -198,16 +198,16 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
    1679, fet havent-hi hereus naturals.** Vegeu [els néts abans que el
    fill](./els-nets-abans-que-el-fill.md). **El que segueix obert és la
    freqüència**: **quatre casos triats per un autor no en fan una.**
-5. **La sentència del Tribunal Superior del 28 de juliol de 1899**, sencera, i
+5. ~~**La sentència del Tribunal Superior del 28 de juliol de 1899**, sencera, i
    **si va fixar alguna excepció** —per exemple **substitució prevista al mateix
-   testament**.
+   testament**.~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data i la regla que la mort de l'hereu instituït abans del testador fa caducar el testament sencer; encara no en té el text íntegre ni sap si hi havia excepcions.
 6. **Si el testament clos es podia obrir abans de la mort**, i **què passava si el
    dipositari moria abans.**
 7. **El cas del germà del notari** que va rebre un testament: **sense data ni
    desenllaç**. **El corpus no sap si l'acte va ser tingut per vàlid.**
-8. **Què vol dir exactament «*heretament es causa y principi de fer testament*»**
+8. ~~**Què vol dir exactament «*heretament es causa y principi de fer testament*»**
    en la traducció catalana de la màxima de Gai, i **si la fórmula és corrent als
-   testaments andorrans** o **pròpia d'aquell rector.**
+   testaments andorrans** o **pròpia d'aquell rector.**~~ — **`parcial` el 21-09-2026**: el cos de la fitxa explica que la fórmula declara la **institució d'hereu com a cap i fonament essencial del testament**, no una posició física dins del document, i en conserva un exemple català de **1675**; encara no permet saber si era una fórmula corrent o pròpia d'aquell rector.
 
 ## Related
 
