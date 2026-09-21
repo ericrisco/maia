@@ -268,7 +268,12 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    d'empreses de control de plagues—, però **l'acta no hi posa cap justificació**
    i el corpus no ha localitzat la causa material del trasllat.
 5. ~~**Què diu l'article 30.1.d) de la Llei 14/2022**~~ — **tancat**: vegeu [la contractació directa](../govern/la-contractacio-directa.md).
-6. **«Les cases tenen nom»**: què és i quin abast té.
+6. ~~**«Les cases tenen nom»**: què és i quin abast té.~~ — **`parcial` el
+   21-09-2026**: l’acta documenta que el Comú paga **569,53 € per 33
+   il·lustracions** destinades a un llibre d’aquest projecte, i la fitxa el
+   relaciona amb la tradició històrica de posar nom a les cases. Encara falten
+   el títol o projecte complet, el nombre total de cases i les persones que hi
+   treballen.
 7. **Si la recusació per conflicte d'interès està reglada** en alguna norma
    comunal o nacional, o si és pràctica.
 8. **Quants negocis hi ha inscrits en total** a la parròquia. L'acta en dona el
