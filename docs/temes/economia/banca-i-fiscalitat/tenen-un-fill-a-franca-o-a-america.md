@@ -282,8 +282,10 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
 8. ~~**Quan es va deixar de fixar un termini de rescat**, entre el 1412 i el
    1904.~~ — **`parcial` el 18-09-2026**: **la font dona els dos extrems i cap
    punt intermedi**; el moment de transició continua sense documentar-se.
-9. **Els noms dels *prohoms* taxadors**: la font els imprimeix i **el corpus no els
-   reprodueix**, per tractar-se de particulars.
+9. ~~**Els noms dels *prohoms* taxadors**.~~ — **`parcial` el 2026-09-22**:
+   **Brutails els imprimeix als actes**, però **el corpus no els reprodueix**:
+   són particulars i la fitxa només necessita conservar-ne el paper de perits
+   elegits per les parts, no identificar-los nominalment.
 
 ## Related
 
