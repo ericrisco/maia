@@ -148,8 +148,16 @@ apunten, cap amb la precisió d'un arbre explícit.**
 
 ## El que falta
 
-- **Els seus dos governs per dins.** Cap ministre, cap decisió.
-- **Què deia el programa econòmic que li van tombar**, cap de les dues vegades.
+- ~~**Els seus dos governs per dins.**~~ — **`parcial`**: el [bolcat local de la
+  fitxa](../../raw/web/politica/ribas-reig.txt) fixa el primer gabinet del **14
+  de gener de 1982**, el retorn al Govern el **12 de gener de 1990** i la
+  dimissió del novembre de 1994; la font no dona la composició dels ministres
+  ni les decisions de cap dels dos governs.
+- ~~**Què deia el programa econòmic que li van tombar**, cap de les dues vegades.~~ —
+  **`parcial`**: el mateix bolcat atribueix la dimissió de 1984 a la manca de
+  suport per aprovar nova legislació d'impostos i la de 1994 al rebuig del
+  programa econòmic; no conserva el text ni les mesures concretes dels dos
+  programes.
 - ~~**El seu paper concret al procés constituent.** La font diu «paper
   clau» i no diu quin.~~ — **`resolt` el 18-09-2026**: **defensava
   inicialment un model «a l'anglesa»** —modernitzar per lleis successives
