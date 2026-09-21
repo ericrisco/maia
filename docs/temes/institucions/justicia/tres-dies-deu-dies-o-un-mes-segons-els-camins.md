@@ -235,8 +235,12 @@ arriben, el rellotge corre.**
    de Perpinyà. **Segueix obert si el «Tribunal Superior d'Urgell» que una font
    oralment citada situa el 1918 és exactament aquest òrgan** i com s'hi
    relacionava el prevere amb mandat especial de cada plet.
-2. **Quina apel·lació «d'aquesta mena» acaba de retenir**, i **quan.** **La font
-   diu «acaba de».**
+2. ~~**Quina apel·lació «d'aquesta mena» acaba de retenir**, i **quan.** **La font
+   diu «acaba de».**~~ — **`parcial` el 2026-09-21**: la font identifica una
+   **apel·lació incidental contra el refús dels *apòstols***, que pot pujar del
+   batlle al Jutge d’Apel·lacions i d’aquest a un dels coprínceps, i diu que el
+   **Tribunal Superior d’Urgell** n’acaba de retenir una. **El cas concret i la
+   data continuen sense identificar-se.**
 3. **Si a Andorra el silenci del batlle passats els deu dies feia seguir
    l'apel·lació**, com a la constitució catalana de 1363. **La font dona el
    precedent i no diu si s'hi aplicava.**
