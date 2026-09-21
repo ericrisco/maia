@@ -135,9 +135,9 @@ setanta-dos notables al judici de constitucionalitat.**
 
 ## Buits registrats
 
-- **Les actes de les assemblees del 1974, 1975 i 1980-81.** **El corpus no en té
-  cap**: ni ordre del dia, ni assistents, ni resultat.
-  `Requereix font externa: l'Arxiu Nacional o el Consell General.`
+- ~~**Les actes de les assemblees del 1974, 1975 i 1980-81.** **El corpus no en té
+  cap**: ni ordre del dia, ni assistents, ni resultat.~~ — **`parcial` el
+  21-09-2026**: la mateixa fitxa ja fixa el **1974 i 1975** com les dues assemblees pel projecte d’anul·lació i rescat de les concessions de **FHASA**, i el **1980–81** com l’assemblea de la guerra de les ràdios. **Continuen pendents les actes, l’ordre del dia, els assistents i el resultat documental de cadascuna.**
 - **Quantes se'n van reunir en total**, i **quan va ser la primera de què hi ha
   constància**. Becat en documenta tres i diu que la institució és «molt
   antiga»; **entre el 1866 i el 1974 el corpus no en té cap.**
