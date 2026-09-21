@@ -155,6 +155,16 @@ representant dels assalariats, sinó també **qui hagi presentat la seva
 candidatura a les eleccions de representants**. **La protecció comença amb la
 candidatura, no amb el càrrec.**
 
+## Quants diners són vint-i-cinc dies
+
+El buit no és absolut: el [bolcat de l’API d’Estadística sobre el mercat de treball](../../../raw/estadistica-api/treball-mercat/treball-mercat-api-2026-09-18.tsv)
+publica el **salari mitjà mensual** en euros. La sèrie del total passa de
+**1.753,88 € el desembre de 2018** a **2.298,61 € el desembre de 2025**; en el
+sector d’agricultura, ramaderia, caça i silvicultura és de **1.795,07 € el
+desembre de 2025**. Aquestes xifres donen una escala monetària per entendre què
+significa «25 dies de salari», però no substitueixen el salari de cada persona ni
+diuen quantes indemnitzacions s’han pagat.
+
 ## Buits registrats
 
 - ~~**Des de quan.** Aquesta és la llei consolidada del 2026 i el corpus **no ha
@@ -216,5 +226,7 @@ candidatura, no amb el càrrec.**
   **comunicació escrita amb la data i els fets**, per **carta certificada amb
   avís de recepció** o **entrega directa signada**, i **si la persona es nega a
   signar, davant de dos testimonis.**
-- **Els salaris reals no hi són.** «25 dies de sou» no diu res sense saber
-  quants diners són ni com es reparteixen.
+- ~~**Els salaris reals no hi són.** «25 dies de sou» no diu res sense saber
+  quants diners són ni com es reparteixen.~~ — **`parcial` el 21-09-2026**: l’API
+  oficial ja dona salaris mitjans mensuals i per sector, però no el salari de cada
+  acomiadament ni la distribució de les indemnitzacions.
