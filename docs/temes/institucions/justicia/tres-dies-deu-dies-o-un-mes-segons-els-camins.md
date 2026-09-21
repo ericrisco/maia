@@ -242,9 +242,14 @@ arriben, el rellotge corre.**
    precedent i no diu si s'hi aplicava.**
 4. **Qui va ratllar «*en ambos effectes*»** al document de 1793, **quan i per
    què.**
-5. **La carta del Jutge d'Apel·lacions del 8 de desembre de 1845** i **la del 16
-   de juny de 1845** al prefecte de l'Arieja *(Archives de l'Ariège, Andorre,
-   lligall 2 — **dotzena peça registrada i cap consultada**)*.
+5. ~~**La carta del Jutge d'Apel·lacions del 8 de desembre de 1845** i **la del
+   16 de juny de 1845** al prefecte de l'Arieja *(Archives de l'Ariège,
+   Andorre, lligall 2 — **dotzena peça registrada i cap consultada**)*.~~ —
+   **`parcial` el 2026-09-21**: [Remunten a la casa d'on els béns han sortit](../../historia/antic-regim/remunten-a-la-casa-don-els-bens-han-sortit.md)
+   conserva, a través de *La Coutume d'Andorre* (1904), la data i la
+   transcripció de la deliberació que la carta del **16 de juny de 1845** va
+   transmetre, però no la carta sencera ni la pregunta exacta del prefecte.
+   La carta del **8 de desembre de 1845** continua sense consulta directa.
    `Requereix font externa: Archives départementales de l'Ariège.`
 6. ~~**L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX, `resolta` el
    16-09-2026** (PDF 68-69); **el *Politar*, pp. 212 i 213, `resolt` el
