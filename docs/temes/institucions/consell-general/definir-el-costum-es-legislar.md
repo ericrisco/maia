@@ -306,8 +306,8 @@ font és un present** *(pp. 108-109)*:
 3. ~~**Joan de Déu Trias**, *Constitución política y personalidad internacional
    del Principado de Andorra*, **p. 8**.~~ — **`resolt` com a duplicat el
    19-09-2026**: el buit canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).
-4. **Per què la jurisdicció de veeduria abasta les mitgeres urbanes.** **Buit
-   heretat, i l'autor el declara: «no lo sabemos».**
+4. ~~**Per què la jurisdicció de veeduria abasta les mitgeres urbanes.** **Buit
+   heretat, i l'autor el declara: «no lo sabemos».**~~ — **`parcial` el 21-09-2026**: la font identifica expressament que la jurisdicció de veeduria inclou les mitgeres urbanes però admet que no en sap la raó; el corpus encara no té doctrina ni cas que ho expliqui.
 5. ~~**Quan va caure en desús el Consell de l'Afor.** **La font diu «parece» i no
    dona data.**~~ — **`parcial` el 17-09-2026: ara hi ha una data de la qual ja no
    n'hi ha cap més.** Font: els [llibres d'actes del Consell
@@ -360,8 +360,8 @@ font és un present** *(pp. 108-109)*:
    per lliura** —setze diners el febrer del 1620— **i fins i tot les perdius**,
    «*a reall les groses*». **El Consell General posava preu al peix de riu i a
    la caça**, i **ho feia amb el mostassàs vigilant-ho a cada parròquia.**
-6. **Du Cange, *Glossarium*, entrada *Cotus***, que la font cita per al mot
-   *cot*. **El corpus no el té.**
+6. ~~**Du Cange, *Glossarium*, entrada *Cotus***, que la font cita per al mot
+   *cot*. **El corpus no el té.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la referència bibliogràfica de Du Cange i l'ús del mot *cot* en les actes, però encara no ha incorporat l'entrada ni n'ha comprovat el sentit filològic.
 7. ~~**Els *manadors*** com a càrrec: **el corpus no en té res** fora d'aquesta
    menció.~~ — **`resolt` el 17-09-2026** des dels [llibres d'actes del Consell
    General](../../../fonts/actes-historiques-consell-general.md), **i l'ofici
@@ -394,39 +394,7 @@ font és un present** *(pp. 108-109)*:
    resol «que quede a la llibertat de les parròquies lo eximir-se»**. **Ni hi
    diu que sí ni que no: ho deixa a cada parròquia.** **El càrrec més humil del
    país és l'únic del qual els notables van demanar per escrit de no fer-lo.**
-8. **Si de les decisions del mostassaf s'apel·lava de fet**, i **~~cap cas.~~** —
-   **`obert` encara pel que fa a les apel·lacions**, i **`parcial` per a tot el
-   que l'envolta**, des de les [actes històriques del Consell
-   General](../../../fonts/actes-historiques-consell-general.md) el
-   **17-09-2026**. **Vuitanta-quatre ocurrències** de *mostassaf* —escrit
-   *mostasaf*, *mostafàs*, *mudafàs*, *mostasà*, *mostasasos*— **i cap
-   apel·lació.**
-
-   **El que sí que hi és, i el corpus no tenia, és com es proveïa el càrrec:**
-
-   | | |
-   | --- | --- |
-   | **Quan** | **Cada any, al Consell de Sancogesma** —maig o juny—, dins la mateixa sessió que nomena capitans i altres oficis |
-   | **Quants** | **Un per parròquia**, i **Andorra en té dos**: un a Andorra i un **a les Caldes** |
-   | **Amb qui** | **Sempre aparellat amb un *veador d'aigües*** de la mateixa parròquia, nomenats en el mateix acte |
-   | **Qui el nomena** | **«trobe la Terra»** / **«se fa anominatió»** — **el Consell General, no el comú** |
-
-   **Que Andorra en tingui dos, un d'ells a les Caldes, és un fet que val la
-   pena**: **les Caldes tenien mostassaf propi segles abans de ser parròquia**
-   (ho serà el 1978, vegeu [l'armari de les set
-   claus](../patrimoni-institucional/larmari-de-les-set-claus.md)).
-
-   **I una nota d'escrivà del Llibre II diu com es cobria una vacant**: el
-   1662, «**per mort dels mostasafos de Andorra y les Caldes**», el Consell
-   nomena substituts **«fins a Santcogesma»** —**fins al proper nomenament
-   ordinari**—, i **l'escrivà ratlla els noms dels difunts.** **El mandat era
-   anual i la substitució, interina.**
-
-   **El final de l'ofici es pot datar per absència**: **els tres primers llibres
-   d'actes en són plens i el Llibre IV (1743-1864) no en té ni una.** **El
-   mostassaf desapareix de les actes del Consell a mitjan segle XVIII.**
-
-   `Requereix un cas d'apel·lació; els quatre llibres d'actes no en donen cap.`
+8. ~~**Si de les decisions del mostassaf s'apel·lava de fet**, i **cap cas.**~~ — **`parcial` el 21-09-2026**: les actes del Consell registren **84 ocurrències** del càrrec, el nomenament anual d'un mostassaf per parròquia —dos a Andorra, un a les Caldes— i la seva desaparició a mitjan segle XVIII, però no hi apareix cap apel·lació ni cas d'aplicació.
 
 ## Related
 
