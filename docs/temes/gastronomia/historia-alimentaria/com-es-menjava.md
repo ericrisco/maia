@@ -119,7 +119,7 @@ al país.** **Buit registrat, i llaminer:** quina coca té cada poble.
 
 ## Buits registrats
 
-1. **Quina coca fa cada poble** per la festa major. Buit gran i tancable.
+1. ~~**Quina coca fa cada poble** per la festa major.~~ — **`parcial` el 2026-09-21**: la font afirma que **cada poble té la seva coca** a la festa major, però la fitxa encara no identifica quina coca correspon a cada parròquia.
 2. ~~**Cassola de brossat**, **greixonera de carbassa**, **flaó**, **panada** — cap
    no té fitxa.~~ — **`resolt` el 19-09-2026** amb [Menges del forn
    tradicional](../plats/menges-del-forn-tradicional.md), que documenta els
@@ -127,7 +127,7 @@ al país.** **Buit registrat, i llaminer:** quina coca té cada poble.
    variants locals continuen obertes dins la fitxa nova.
 3. ~~Els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992) i el
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).~~ — **`no-es-buit` el 20-09-2026**: és una **instrucció de manteniment lèxic** per contrastar les formes de la fitxa, no una pregunta sobre un fet absent del corpus.
-4. **Quan arriba la taula** a les cases humils, i per què als anys cinquanta.
+4. ~~**Quan arriba la taula** a les cases humils, i per què als anys cinquanta.~~ — **`parcial` el 2026-09-21**: la font situa el canvi **fins ben entrat el 1950** i explica que menjar a taula era **«signe de senyoria»** per a les cases humils; encara no documenta el procés concret que va fer canviar aquesta pràctica.
 5. Els **documents de 1004 i 1043** — d'on surten.
 6. **Cullereres de pastor**: se'n conserven? Als museus?
 
