@@ -189,7 +189,12 @@ reinstal·lar-la a l'església.
    ([Santa Coloma](../arquitectura/santa-coloma.md), [Sant Miquel](../arquitectura/sant-miquel-dengolasters.md)).
    **No és encara un catàleg exhaustiu d’obres ni una atribució crítica peça per
    peça.**
-5. **Els retaules barrocs**: inventari, i quins es conserven.
+5. ~~**Els retaules barrocs**: inventari, i quins es conserven.~~ — **`parcial`
+   el 21-09-2026**: la font situa el gran moment del barroc entre **finals del
+   segle XVII i principis del XVIII**, i diu que hi havia retaules a **totes les
+   esglésies parroquials**, a temples menors i fins i tot a **capelles
+   particulars de cases benestants**. El corpus encara no té l'inventari peça
+   per peça ni sap quins es conserven.
 6. ~~**Sant Miquel de Prats** — on és exactament, fora d'Andorra.~~ —
    **`resolt`, confirmat el 2026-09-19**: l'església és a **Prats, Canillo,
    Andorra**. El que es va dispersar fora del temple és el retaule del segle
