@@ -201,8 +201,11 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    20-09-2026**: la font conserva la tesi en forma impersonal —«**es pretén**»—
    i la contraposa als exemples datats de retractes desdoblats, però no n'atribueix
    l'autoria a cap persona o institució.
-2. **La sentència del batlle en el plet de 1864-1901**, sencera, i **si es va
-   apel·lar.**
+2. ~~**La sentència del batlle en el plet de 1864-1901**, sencera, i **si es va
+   apel·lar.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva el resultat
+   essencial —el batlle va **desestimar el tercer** basant-se en les clàusules de
+   l’acte de **1864**— i el context del plet fins a **1901**. **El text íntegre i
+   la informació sobre una eventual apel·lació continuen oberts.**
 3. ~~**Els «dos simples papers» de l'1 de setembre de 1788**: **si es conserven i
    quina forma tenien.**~~ — **`parcial` el 20-09-2026**: la fitxa ja acota que
    eren **escriptures privades** que conferien un dret de rescat vàlid; no consta
