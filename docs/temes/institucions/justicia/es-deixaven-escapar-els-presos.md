@@ -322,12 +322,19 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    **fora**.** **Segueix obert per què els valors varien d'acte en acte**
    —**10/10, 6/10, 3/6**—: **pot ser que es pactessin cas per cas i la font no ho
    diu.**
-4. **El cas de 1887 de moneda falsa** sencer, **i si el parer dels *rahonadors*
+4. ~~**El cas de 1887 de moneda falsa** sencer, **i si el parer dels *rahonadors*
    era preceptiu per a les commutacions o va ser un fet d'aquell cas.**
-   **El corpus ho registra sobre un sol cas.**
-5. **L'acte de llibertat provisional de l'11 de juny de 1434**, **el més antic que
+   **El corpus ho registra sobre un sol cas.**~~ — **`parcial` el 2026-09-21**:
+   la fitxa conserva el cas —**un any de presó, 1.000 pessetes de multa i
+   caució**, commutació per **un any de bandejament i 1.000 pessetes més**— i que
+   va passar **després del parer dels *rahonadors***. **No consta el text íntegre
+   ni si aquest parer era preceptiu o només propi del cas.**
+5. ~~**L'acte de llibertat provisional de l'11 de juny de 1434**, **el més antic que
    la font declara**, **i si realment al segle XV hi havia poques caucions al
-   criminal.** **La font ho diu com a impressió.**
+   criminal.** **La font ho diu com a impressió.**~~ — **`parcial` el 2026-09-21**:
+   el corpus fixa l’**11 de juny de 1434** com el límit inferior documentat i
+   conserva la impressió de l’autor que al segle XV hi havia poques caucions.
+   **L’acte íntegre no hi és i la freqüència no queda demostrada.**
 6. ~~**El *Politar*, pp. 337 i 345.**~~ — **`resolt` el 18-09-2026, i la p. 345
    porta la frase literal que aquesta fitxa buscava.**
 
