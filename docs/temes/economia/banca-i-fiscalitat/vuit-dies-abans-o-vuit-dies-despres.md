@@ -209,13 +209,25 @@ solts.**
 2. ~~**Si un prevere amb cura d'ànimes podia rebre actes notarials a Andorra el
    1707**, **i si era pràctica regular.**~~ — **`parcial` el 18-09-2026**:
    **el corpus té el cas i no la norma** ni la prova que fos una pràctica regular.
-3. **La venda originària dels tutors i curadors dels pupils de casa C.**,
-   **sense data**, **per vuit dobles i onze lliures.**
-4. **Si la coincidència entre les vuit dobles del preu antic i les 44 ll. 16 s.
+3. ~~**La venda originària dels tutors i curadors dels pupils de casa C.**,
+   **sense data**, **per vuit dobles i onze lliures.**~~ — **`parcial` el
+   2026-09-21**: la cadena identifica una venda feta pels **tutors i curadors
+   dels pupils de casa C., de Pal**, a **un pagès i batlle d’Estamariu i un pagès
+   d’Arfa**, per **vuit dobles i onze lliures**, anterior al **12 de novembre de
+   1707**. **La data exacta de la venda originària i el seu acte íntegre continuen
+   oberts.**
+4. ~~**Si la coincidència entre les vuit dobles del preu antic i les 44 ll. 16 s.
    del preu nou és casual.** **El corpus dona el càlcul i no el converteix en
-   afirmació.** `Requereix l'acte de 1707.`
-5. **Si el dret de rescat dels hereus de casa C. es va exercir mai.**
-   **Vuitanta-un anys després encara es reservava per escrit.**
+   afirmació.** `Requereix l'acte de 1707.`~~ — **`parcial` el 2026-09-21**:
+   **8 dobles × 5 lliures 12 sous = 44 lliures 16 sous**, exactament el preu de
+   la venda del **15 de juny de 1788**. **La igualtat queda comprovada, però el
+   corpus no pot decidir si és causal o casual sense l’acte de 1707.**
+5. ~~**Si el dret de rescat dels hereus de casa C. es va exercir mai.**
+   **Vuitanta-un anys després encara es reservava per escrit.**~~ — **`parcial`
+   el 2026-09-21**: l’escriptura del **15 de juny de 1788** encara reserva el
+   dret de rescat als hereus de casa C., **81 anys després** de la retrovenda de
+   1707. **Això prova la persistència escrita del dret, però no que els hereus
+   l’arribessin a exercir.**
 6. ~~**Si la finestra de disset dies era habitual en vendes de prats** o **un pacte
    d'aquestes parts.**~~ — **`parcial` el 18-09-2026**: el corpus en té un sol
    cas, insuficient per saber si era habitual.
