@@ -59,7 +59,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Si va jugar a futbol sala amb Andorra**, i contra qui va ser el seu partit.
+- ~~**Si va jugar a futbol sala amb Andorra**, i contra qui va ser el seu partit.~~ — **`parcial`**: el [wikitext de la fitxa](../../../raw/web/esport/atletes/Joaquim_Besora.wiki) el descriu com a **exjugador de futbol sala** i hi conserva una referència a la LNFS; el corpus no hi troba cap partit internacional de futbol sala amb Andorra ni el rival.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
