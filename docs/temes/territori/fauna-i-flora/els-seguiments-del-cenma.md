@@ -181,7 +181,16 @@ massís**.
   1 i Escaldes cap**—, segons l'estadística A112
   ([Qui cobra els ajuts agraris](../../economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md)).
   `El que segueix obert és qui l'atorga i amb quin plec de condicions.`
-- **Les 18 espècies de quiròpters d'Andorra**, amb nom.
+- ~~**Les 18 espècies de quiròpters d'Andorra**, amb nom.~~ — **`parcial` el
+  21-09-2026**: la memòria del CENMA de **2008** enumera **13 espècies o tàxons**
+  coneguts: *Rhinolophus hipposideros*, *Myotis myotis/M. blythii*, *Myotis
+  daubentonii*, *Pipistrellus pipistrellus*, *P. kuhlii*, *Hypsugo savii*,
+  *Nyctalus leisleri*, *Eptesicus serotinus*, *Plecotus auritus*, *P. austriacus*,
+  *P. macrobullaris*, *Barbastella babastellus* i *Tadarida teniotis*. La font
+  diu que la campanya en va citar **9**. Això aporta noms i deixa registrada una
+  divergència amb les **18** espècies que la fitxa dona per al conjunt posterior;
+  encara falten cinc noms i una font que expliqui l'ampliació
+  ([font local](../../../raw/web/territori/fauna-flora/quiropters/README.md)).
 - ~~**El CENMA** mateix: fitxa pròpia.~~ — **`parcial` el 18-09-2026**: **no en té
   de pròpia, però està descrit dins la de la casa mare**,
   [L'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md),

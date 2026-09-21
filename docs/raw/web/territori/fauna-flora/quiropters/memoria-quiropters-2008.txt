@@ -1,0 +1,598 @@
+Primera diagnosi de l’estat de les poblacions de
+quiròpters cavernícoles d’Andorra: inspecció de
+cavitats i bordes. Campanya 2008.
+Flaquer C., X. Puig i A. Arrizabalaga (2008). Primera diagnosi de l’estat de les
+poblacions de quiròpters cavernícoles d’Andorra: inspecció de cavitats i bordes.
+Campanya 2008. Pp. 18. inèdit.
+
+
+Realització de feina de camp: gener 2008 - setembre 2008
+Anàlisi de dades : setembre - octubre del 2008
+Elaboració de l’informe: desembre del 2008.
+
+
+Equip de treball
+Coordinació i planificació:
+CARLES FLAQUER (Biòleg)
+Treball de camp:
+XAVI PUIG (Ambientòleg)
+CARLES FLAQUER (Biòleg)
+Anàlisi de dades :
+XAVI PUIG (Ambientòleg)
+CARLES FLAQUER (Biòleg)
+Elaboració de l’informe:
+CARLES FLAQUER (Biòleg)
+Assessorament tècnic i supervisió:
+ANTONI ARRIZABALAGA I BLANCH (Conservador del Museu de Granollers).
+Fotografia de portada: Rhinolophus hipposideros feta per JORDI BAS.
+
+
+Agraïments:
+Agrair la col·laboració de tota la gent que treballa al Centre d'Estudis de la Neu i de
+la Muntanya d'Andorra (CENMA) i sobretot a: Marta Domènech i Montserrat Masses.
+També agrair el seu suport a la nostre guia i companya la Lourdes Garet.
+Per altra banda agrair a la Marie-Jo Dubourg-Savage les facilitats obtingudes per
+tenir la informació bibliogràfica necessària. Finalment també esmentar la
+col·laboració obtinguda per part del cos de bombers d’Andorra.
+
+
+Amb la col·laboració de:
+Índex
+
+1.     Resum..................................................................................................................2
+2.     Antecedents i introducció .....................................................................................3
+3.     Material i mètodes................................................................................................5
+     3.1.    Estacions de captura.....................................................................................5
+     3.2.    Localitzacions i estacions amb detectors d’ultrasons....................................6
+     3.3.    Seguiment de refugis ....................................................................................7
+     3.4.    Divulgació i sensibilització.............................................................................9
+4.     Resultats i anàlisi de dades................................................................................10
+5.     Discussió i conclusions ......................................................................................14
+6.     Mesures de Conservació i gestió .......................................................................15
+7.     Bibliografía de consulta ......................................................................................15
+            Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+1. Resum
+  Les dades obtingudes a partir de la inspecció d’11 refugis potencials per a quiròpters
+(bordes i cavitats) i de la col·locació de 13 paranys de captura a la sortida i a l’entorn de
+refugis potencials, confirmen que Andorra no presenta poblacions de quiròpters cavernícoles
+de gran interès. Aquest fet sembla ser degut a la manca de cavitats naturals adequades com
+a refugi de cria o hivernada i a les condicions meteorològiques adverses (massa fredes) per
+criar-hi espècies mediterrànies.
+  En general l’eficiència de captura obtinguda ha estat molt baixa (0,22 captures/hora)
+sobretot si la comparem amb un altre indret amb característiques semblant com el Parc
+Natural de l’Alt Pirineu (1,37 captures/hora). Tot i així durant la campanya del 2008 han estat
+citades 9 espècies de quiròpters (un 69% de les ja conegudes a Andorra).
+  Malgrat l’evident manca d’esforç, les dades obtingudes durant la campanya no semblen ser
+indicatives d’un bon estat de salut de les poblacions de quiròpters forestals i es recomana fer
+prospeccions amb reclams a espais naturals ben conservats per confirmar aquesta hipòtesi.
+Igualment es recomana afavorir la presència de bordes com a refugi alternatiu per a
+quiròpters forestals i cavernícoles i mantenir la campanya de divulgació iniciada amb la 1ª nit
+Andorrana dels Ratpenats.
+
+
+  Paraules clau: Quiròpters, ratespenades, Andorra, cavernícoles, inventari, conservació, nit
+dels ratpenats.
+
+
+
+
+                                                                                                  2
+               Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+2. Antecedents i introducció
+Entre els anys 1995 i 1996 Bertrand i Médard (2000) van realitzar el primer inventari de les
+poblacions de quiròpters o ratespenades d’Andorra. Aquest treball estava basat en visites a
+indrets favorables (cavitats, construccions humanes, etc.) i contenia un esforç d’11 estacions
+de captura i 10 localitzacions amb detectors d’ultrasons. L’estudi era introductori però oferia
+un llistat força ampli d’espècies. Arrel d’aquest estudi els investigadors: MJ Dubourg Savage,
+D. Savage, A. Bertrand i P. Médard van seguir fent petits esforços de prospecció fins arribar al
+llistat de 13 espècies de quiròpters que actualment es coneixen a Andorra (taula 1). D’aquest
+llistat en destaca la presència de P. macrobullaris, una espècie críptica d’orellut recentment
+descoberta per la ciència i de la qual encara se’n sap molt poc (Kock, 2002).
+
+
+   nº              Espècie                             Nom comú                      Font primera cita          Mètode      Estatus
+
+   1      Rhinolophus hipposideros           Ratapinyada petita de ferradura         Bertrand i Médard (2000)   captura    hivernada
+
+   2      Myotis myotis/ Myotis blythii      Ratapinyada de musell llarg/agut           Marie-Jo en pers.       captura    desconegut
+
+   3          Myotis daubentonii                   Ratapinyada d’aigua                  Marie-Jo en pers.       captura    desconegut
+
+   4        Pipistrellus pipistrellus        Ratapinyada pipistrel·la comuna         Bertrand i Médard (2000)   captura         Cria
+
+   5           Pipistrellus. kuhlii       Ratapinyada pipistrel·la de vores clares   Bertrand i Médard (2000)   captura    desconegut
+
+   6             Hypsugo savii            Ratapinyada pipistrel·la muntanyenca       Bertrand i Médard (2000)   captura         Cria
+
+   7            Nyctalus leisleri                  Ratpenat nòctul petit             Bertrand i Médard (2000)   detector   desconegut
+
+   8          Eptesicus serotinus               Ratapinyada dels graners             Bertrand i Médard (2000)   detector   desconegut
+
+   9            Plecotus auritus            Ratapinyada orelluda septentrional       Bertrand i Médard (2000)   captura         Cria
+
+   10         Plecotus austriacus            Ratapinyada orelluda meridional            Marie-Jo en pers.       captura    desconegut
+
+   11       Plecotus macrobullaris             Ratapinyada orelluda alpina              Marie-Jo en pers.       captura         Cria
+
+   12       Barbastella babastellus                Ratapinyada de bosc               Bertrand i Médard (2000)   captura         Cria
+
+   13          Tadarida teniotis                Ratapinyada de cua llarga            Bertrand i Médard (2000)   detector   desconegut
+
+
+Taula 1.- Inventari d’espècies trobades a Andorra segons fons bibliogràfiques consultades i dades aportades per
+Marie-Jo Dubourg-Savage. Mètode amb el qual s’ha identificat l’espècie (captura o identificació d’ultrasons
+mitjançant detector).
+
+
+
+
+                                                                                                                            3
+                Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+                                                                                                             captures
+                                  Cites de quiròpters a Andorra (1995-2004)                                  detectors
+    30
+
+    25
+
+    20
+
+    15
+
+    10
+
+     5
+
+     0
+               Pi                                Pl
+     hi hi        ppip
+                         Ba  rbar              H Ep
+                                                 yp
+                                                     ea
+                                                     ts  ur
+                                                        er                                               sp .   Ta
+          p   Pi pk
+                         Pl em  ac           Mm yo  /Msa v
+                                                        bl y                                          Pl          dten
+    R              uh    Pl ea  us           M M
+                                               yoyo
+                                                  tis da
+                                                       sp u.                                             e
+                                               N N
+                                                 yc  yc
+                                                      nole i
+                                               N yc   sp c
+                                                         e
+
+
+Figura 1.- Cites d’espècies trobades a Andorra segons dades aportades per MJ Dubourg Savage, D. Savage, A.
+Bertrand i P. Médard a partir de captures i anàlisi de sons amb detectors obtinguts entre el 1995 i el 2004. Les
+espècies estan citades utilitzant les tres primeres lletres de gènere i espècie.
+
+
+
+
+El present informe pretén recollir la informació existent sobre la fauna quiropterològica
+Andorrana i obtenir noves dades de camp sobre refugis potencials de quiròpters cavernícoles.
+Paral·lelament es preveu iniciar una campanya de sensibilització i divulgació així com
+planificar mesures de gestió d’aquest grup faunísitc.
+
+
+
+
+                                                                                                                  4
+              Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+3. Material i mètodes
+3.1. Estacions de captura
+Per tal de capturar quiròpters en el seu hàbitat s’han col·locat paranys d’arpa i xarxes en
+punts d’aigua i bosc, en canvi, per capturar quiròpters quan sortien de refugis només s’han
+utilitzat paranys d’arpa, els quals no provoquen tant estrès als animals. Les captures s’han
+realitzat des de la posta de sol fins que s’ha observat una baixada de l’activitat de quiròpters.
+
+
+Entre el dia 14 i 18 de juliol s’han realitzat 8 estacions de captura en les quals s’han tingut
+parats paranys durant un total de 1540 (SD±54,64) minuts. S’han muntat 6 arpes i 7 xarxes
+(total de 71 metres).
+
+
+
+
+Figura 2.- Exemple de Parany d’arpa col·locat en un finestra d’una borda (en aquest cas de l’Alt Pirineu).
+
+
+
+
+                                                                                                       5
+              Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+                              Data                            Nom                        Refugi
+                            14-jul-08        Cova i borda del Roc de la Persona            Si
+                            15-jul-08                Pont d’Arans al riu                   No
+                            15-jul-08                  Borda d Arans                       Si
+                            15-jul-08                   Cova d'Arans                       Si
+                            16-jul-08           Cova de la Coma d Arcalís                  Si
+                           16-sep-08                 Borda Orriu Arcalís                   Si
+                            17-jul-08                Borda de Bizissarri                   Si
+                            17-jul-08               Bassa del Forat fosc                   No
+
+
+Taula 2.- Topònims de les localitzacions de les sessions de captura de quiròpters realitzades durant la
+campanya del 2008 a Andorra.
+
+
+
+3.2. Localitzacions i estacions amb detectors d’ultrasons.
+Per a la identificació de crits de quiròpters en llibertat s’han utilitzat detectors de sons d’alta
+freqüència (Pettersson Elektronics models 240, 230 i 240x), amb 3 sistemes de captació del
+so:
+      1) heterodí, o de banda curta, que permet identificar in situ aquelles espècies que emeten
+sons propers a la freqüència seleccionada en el detector.
+
+
+
+
+      2) temps expandit o de banda ample, que permet identificar tot els crits emesos des de 10
+fins a 200 kHz amb gran finesa per l’anàlisi. En tots els casos els enregistraments han estat
+emmagatzemats en una enregistradora digital (models Archos Gmini 200 i/o Edirol R9) i
+analitzats mitjançant un ordinador amb targeta de so professional i software específic
+(BatSound 3.1). Els criteris d’identificació específica dels ultrasons han estat basats en els
+següents paràmetres: tipus de crits (freqüència modulada, constant o variable entre
+ambdues), crits socials, freqüències de màxima energia, duració de cada crit i duració entre
+
+
+                                                                                                    6
+              Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+crits. També s’han tingut en compte aspectes relatius a la forma i velocitat de vol (utilització
+de focus) com a criteris d’identificació (Ahlen 1999),
+   3) divisió de freqüència, que permet capturar sons en tot l’ample de la banda “in situ”, però
+que no manté un qualitat suficient del so com per analitzar-lo amb alta fiabilitat.
+Si bé cap de les tècniques permet identificar totes les espècies de quiròpters presents a
+Catalunya, la identificació acústica és la tècnica més eficient (Flaquer et al. 2007) i no provoca
+estrès als animals doncs aquests no són molestats ni capturats.
+Les espècies han estat identificades amb detector només quan la fiabilitat de la tècnica era
+del 100%, en cas contrari les dades recollides s’han deixat com a gènere o grup acústic. Per
+tal de completar l’inventari també han estat preses localitzacions puntuals d’individus
+mitjançant la utilització del GPS. Igualment, s’han tingut en compte les condicions ambientals
+(temperatura, humitat, vent, etc.) durant l’enregistrament ja que condicionen l’activitat dels
+quiròpters (Russo i Jones 2003).
+Enguany només s’han fet algunes localitzacions a l’atzar a prop de les estacions de captura.
+
+
+3.3. Seguiment de refugis
+  La supervivència dels quiròpters té una gran dependència de la protecció que ofereixen els
+refugis en front els depredadors i les inclemències meteorològiques. Hi ha nombrosos estudis
+sobre evolució i tendències de les poblacions de quiròpters en refugis que mostren que el
+seguiment d’aquests és de gran interès per tal de conèixer l’estat d’algunes poblacions de
+quiròpters.
+  D’acord amb (Puig 2008) el cens de quiròpters en refugi bàsicament es pot realitzar de
+dues maneres:
+1) recompte visual o per fotografia durant el dia a l’interior d’un refugi que pugi ser controlat
+   en la seva totalitat (p. ex. búnquer, cases, cavitats petites sense clivelles…).
+2) Mitjançant el recompte a la sortida dels quiròpters del refugi, imprescindible per refugis en
+   els quals no es pot controlar tota la superfície del refugi (p. ex. avencs, grans cavitats,
+   grans edificis …). Aquest mètode és més efectiu però implica molt més esforç ja que
+   només es pot controlar un refugi per equip i nit. A més, aquest mètode requereix de
+   detectors i un equip de filmació.
+Per colònies de menys de 500 individus (sobretot d’una única espècie) es considera que un
+observador experimentat amb l’ajut d’un detector pot fer recomptes precisos a la sortida dels
+animals. L’observador es col·loca sense interferir en la sortida dels animals i a poder ser amb
+el suport de llum vermella i un detector. El recompte comença amb la sortida del primer
+animal fins que passin 10 minuts que no en surt cap (Puig 2008).
+                                                                                                    7
+               Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+Els refugis amb colònies multiespecífiques o amb nombre major a 500 individus, és
+recomanable utilitzar mètodes diferits de recompte com per exemple la utilització d’una
+camera de filmació digital que disposi de mode “O Lux” amb un suport de focus d’infraroig
+(Puig 2008).
+
+
+                                            Topònim                                  x           y
+                    Cova de l'Ossa                                                375293     4702137
+                    Cova forat del Grau (Arinsal)                                 375799     4714536
+                    Arens Sta. Coloma                                             376276     4705671
+                    Cova de la Margineda                                          375625     4704130
+                    Cova de Sta. Coloma. Roc de la Persona                        375634     4704448
+                    Borda de Sta. Coloma                                          375651     4704392
+                    Borda d Arans
+                    Cova d'Arans                                                  379254 4715788
+                    Cova de la Coma d Arcalís
+                    Borda Orriu Arcalís
+                    Borda de Bizissarri
+
+Taula 3.- Refugis potencials per a quiròpters cavernícoles visitats entre el 14 i el 18 de juliol del 2008 a Andorra.
+En tots els casos caldrà revisar la toponímia i les coordenades ja que en la majoria de casos el GPS no ha
+agafat cobertura.
+
+
+Durant la present campanya tots els refugis han estat
+revisats mitjançant inspecció diürna del refugi amb focus o
+col·locant paranys d’arpa a la sortida.
+
+
+La cavitats visitades no han requerit d’equip d’espeleologia
+però s’ha comptat amb el suport dels bombers pels
+accessos a boques complicades.
+
+
+
+
+                                                                                                         8
+            Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+3.4. Divulgació i sensibilització
+Dins el marc d’EUROBATS a St. Julià de Lòria s’ha col·laborat en l’organització de la nit dels
+ratpenats (20/10/08). Seguint les indicacions d’EUROBATS la nit ha tingut com a objectiu fer
+diverses activitats per sensibilitzar i educar sobre la importància dels quiròpters pel nostre
+entorn.
+
+
+
+
+                                                                                                  9
+             Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+4. Resultats i anàlisi de dades
+Durant la present campanya s’han capturat un total de 4 animals de 3 espècies dels quals
+només la ratapinyada orelluda septentrional (P. auritus) era una femella i presentava
+evidències d’haver parit. També s’han realitzat 7 localitzacions gràcies a enregistraments
+d’ultrasons amb detectors. Els detectors han permès identificar amb tota fiabilitat P.
+pipistrellus i T. teniotis en canvi sense la presència de crits socials no es pot diferenciar la
+parella acústica P. kuhlii i P. nathusii (la segona molt rara i per tant poc probable). Igualment
+els Myotis no presenten una fiabilitat absoluta d’identificació amb detectors (taula 2).
+
+
+
+
+                 nº               espècie                            Nom comú                      mètode
+
+                 1       Rhinolophus hipposideros          Ratapinyada petita de ferradura          captura
+
+                 2      Myotis myotis/ Myotis blythii      Ratapinyada de musell llarg/agut        detector*
+
+                 3         Pipistrellus pipistrellus       Ratapinyada pipistrel·la comuna         detector
+
+                 4            Pipistrellus kuhlii       Ratapinyada pipistrel·la de vores clares   detector**
+
+                 5             Hypsugo savii            Ratapinyada pipistrel·la muntanyenca        captura
+
+                 6            Plecotus auritus            Ratapinyada orelluda septentrional        captura
+
+                 7          Plecotus austriacus            Ratapinyada orelluda meridional          captura
+
+                 8            Tadarida teniotis               Ratapinyada de cua llarga            detector
+
+                 9         Myotis a 41-47 FMAX                                                     detector*
+
+
+
+Taula 4.- Espècies citades durant la present campanya. *Identificació sense certesa absoluta. ** Parella
+acústica.
+
+
+De tots els refugis inspeccionats (taula 3) només a la cova del Roc de la Persona i a la cova
+d’Arans s’hi ha trobat quiròpters refugiats però en cap cas colònies. En la primera s’hi ha
+capturat un mascle de P. austriacus i s’han enregistrat els sons d’un petit grup (4 o 5) R.
+hipposideros. A la segona s’hi ha enregistrat un Myotis sp que no ha pogut ser capturat. Pel
+tipus de crit podria ser M. daubentonii/capaccinii o M. mystacinus però difícilment es pot
+identificar un quiròpter del gènere Myotis només pels seus crits d’ecolocalització.
+
+
+
+
+                                                                                                                10
+             Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+                        9
+
+                        8                                                  PNAP        Andorra
+                        7
+
+                        6
+
+                        5
+
+                        4
+
+                        3
+
+                        2
+
+                        1
+
+                        0
+                              Mitjana Abudància        Mitjana riquesa     eficiència paranys/hora
+
+
+
+Figura 3.- Comparativa de resultats obtinguts en la inspecció de refugis amb paranys realitzada el 2008 a
+Andorra (n= 7) i al Parc Natural de l’Alt Pirineu (n=5).
+
+
+
+
+Figura 4.- Enregistrament de Tadarida teniotis a Santa Coloma. Espectrograma del so. Freqüència de màxima
+intensitat del so de 13 kHz.
+
+
+
+
+                                                                                                     11
+              Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+Figura 5.- Tallers duts a terme la Nit del Ratpenats: disfresses, màscares, pintures, etc. (a dalt) i xerrada per a
+tots els públics (a baix).
+
+
+
+
+                                                                                                        12
+              Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+Figura 6.- Passejada nocturna per escoltar els ultrasons emesos pels quiròpters.
+
+
+La nit dels ratpenats ha resultat una activitat de divulgació de gran interès que a més a més
+de la bona acollida que ha tingut (més de 50 persones presents a les activitats), ha permès
+donar a conèixer els quiròpters a través de la televisió Andorrana i premsa.
+
+
+
+
+                                                                                                    13
+             Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+5. Discussió i conclusions
+  D’acord amb Bertrand i Médard (2000) durant la present campanya no s’ha trobat cavitats
+favorables ni per la hivernada ni per la cria de grans colònies de quiròpters cavernícoles
+(troglòfils). La manca de cavernícoles ve donada per la manca de grans cavitats naturals i per
+l’alçada d’Andorra que provoca temperatures mitjanes baixes (al voltant dels 6ºC) i poc
+favorables per formar colònies de cria. Així doncs en principi es pot considerar com un fet
+natural l’absència de grans colònies d’espècies cavernícoles (p. ex. M. capaccinii, M. euryale,
+etc.) sobretot en període de cria. A més a més les valls (més temperades) estan fortament
+antropitzades i no s’hi troben mines ni massa bordes abandonades que serveixin de refugi
+alternatiu a les cavitats naturals.
+  Malgrat no haver-hi colònies de cria de cavernícoles sorprèn la baixa eficiència de captures
+obtinguda durant la campanya (4 individus; taula 4). Les cavitats habitualment són utilitzades
+com a refugi de pas o descans per diferents espècies de quiròpters no cavernícoles (forestals
+o rupícoles). Comparant les dades obtingudes pel mateix equip de recerca (igual metodologia)
+inspeccionant refugis del Parc Natural de l’Alt Pirineu i a Andorra durant l’any 2008, s’observa
+que a Andorra s’obté una eficiència de captures molt més baixa (figura 3). Malgrat cal realitzar
+més esforç aquest fet pot ser degut a una menor presència de quiròpters en general.
+  Durant el present estudi, amb només 4 nits de camp, s’aporten dades sobre un mínim de 9
+espècies de quiròpters que representen el 69,3% de les espècies citades a Andorra (taula 1).
+Per altra banda, de les espècies citades per Bertrand i Médard (2000) caldria posar en dubte,
+malgrat ser espècies comuns a Europa, les cites de E. serotinus i N. leisleri només trobades
+mitjançant detectors (Hayes 2000, Obrist 2004, Flaquer 2007a). Aquests resultats semblen
+ser indicatius de que la fauna quiropterològica Andorrana no es troba en un bon estat de
+conservació.
+  Contràriament al que afirmen Bertrand i Médard (2000) les dades obtingudes durant la
+campanya no semblen ser indicatives d’un bon estat de salut de les poblacions de quiròpters
+forestals, en tot cas caldrà campanyes específiques en espais naturals protegits per confirmar
+aquesta percepció.
+  La iniciativa de realitzar una nit dels ratpenats andorrana ha estat un gran encert que
+caldrà repetir en propers anys. Aquest tipus d’activitats complementen les investigacions
+científiques i ajuden a que la gent del territori entengui la necessitat de realitzar estudis i
+protegir l’entorn.
+
+
+                                                                                                   14
+            Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+6. Mesures de Conservació i gestió
+  L’esforç realitzat en la present campanya és insuficient per marcar línies de seguiment o
+conservació a llarg termini però permet tenir una primera diagnosi sobre les poblacions de
+quiròpters d’Andorra i realitzar algunes indicacions:
+   •   Caldria fer un estudi específic sobre quiròpters forestals i aquàtics utilitzant reclams
+       (Hill i Greenaway 2005).
+   •   Cal fomentar el manteniment de Bordes en desús com a refugis potencials de
+       quiròpters cavernícoles (p. ex. R. hipposideros) i forestals (p. ex. B. barbastellus). Una
+       investigació duta a terme al Parc Natural del l’Alt Pirineu demostra que els quiròpters
+       forestals utilitzen les bordes com a refugis, fins i tot per criar (Flaquer et al 2007c).
+   •   Donada la presència de ratpenat d’aigua (M. daubentonii) al principat, seria de gran
+       interès iniciar l’aplicació del seguiment de quiròpters aquàtics (QuiroRius) que
+       actualment ja es desenvolupa a Catalunya:
+          www.museugranollersciencies.org/quiropters/ca/seguiments.html
+         www.asgalanthus.org/CAT/recerca_ratpenats.php
+
+
+
+
+7. Bibliografía de consulta
+Bertrand A. i P. Médard. (2000). Les ratespenades d’Andorra. Monografia núm 1 ADN.
+       Andorra la Vella.
+Flaquer C., R. Jarillo, i A. Arrizabalaga. (2004). Aportación de nuevas citas a la fauna
+       quiropterológica de Cataluña. Galemys 16(2): 39-55
+Flaquer C., R. Jarillo, I. Torre i A. Arrizabalaga (2005). First resident population of Pipistrellus
+       nathusii (Keyserling and Blasius, 1839) in the Iberian Peninsula. Acta Chiropterologica.
+       (7)1:183-188.
+Flaquer C., I. Torre and R. Jarillo. (2006). The value of bat boxes in the conservation of
+       Pipistrellus pygmaeus in wetland rice paddys. Biol. Conserv.128: 223-230.
+Flaquer, C., Torre, I., and Arrizabalaga, A. (2007a). Comparison of sampling methods for
+       inventory of bat communities. Journal of Mammalogy. 88 (2): 526-533.
+Flaquer, C., Torre, I., Arrizabalaga, A. (2007b). Selección de refugios, gestión forestal y
+       conservación de los quirópteros forestales. En: Camprodon, J., Plana, E. (Eds.),
+       Conservación de la biodiversidad y gestión forestal: su aplicación en la fauna
+       vertebrada, Edicions de la Universitat de Barcelona.
+
+                                                                                                  15
+            Primera diagnosi de l’estat de les poblacions de quiròpters cavernícoles d’Andorra.
+
+
+
+
+Flaquer C., X. Puig; D. Guixé i J. Camprodon (2007c). Inventari de cavitats i habitacles
+      utilitzats com a refugi per a quiròpters del Parc Natural de l’Alt Pirineu. Any 2007.
+      Generalitat de Catalunya.
+Flaquer, C., Puig-Montserrat, X., Burgas A., i D. Russo (2008). Habitat selection by Geoffroy’s
+      bats (Myotis emarginatus) in a rural Mediterranean landscape: implications for
+      conservation. Acta Chiropterologica 10 (1) 61-67.
+Hayes, J. P. (2000). Assumptions and practical considerations in the design and interpretation
+       of echolocation-monitoring studies Acta Chiropterologica 2(2): 225-236.
+Hill, D. A. I F. Greenaway (2005). Effectiveness of an acoustic lure for surveying bats in British
+       woodlands Mammal Review 35(1): 116-122.
+Kock, D. (2002). "The publication dates of Plecotus alpinus Kiefer and Veith, 2002 and of
+       Plecotus microdontus Spitzenberger, 2002." Acta Chiropterologica 4(2): 219-220.
+Obrist, M. K., R. Boesch, et al. (2004). Variability in echolocation call design of 26 Swiss bat
+       species: consequences, limits and options for automated field identification with a
+       synergetic pattern recognition approach. Mammalia 68(4): 307-322.
+Palomo, L. J., J.G. Gisbert i J. Blanco. 2007. Atlas de los Mamíferos Terrestres de España.
+       Madrid. Pp. 564.
+Puig. X (2008). Propuesta de protocolos para el monitoreo de murciélagos en España.
+       Ministerio de Medio ambiente i Sociedad Española para la Conservación y Estudio de
+       los Mamíferos (SECEM). Inédito. Pp. 72
+Russo, D. and G. Jones (2002). "Identification of twenty-two bat species (Mammalia :
+       Chiroptera) from Italy by analysis of time-expanded recordings of echolocation calls."
+       Journal of Zoology 258: 91-103.
+
+
+
+
+                                                                                                  16
+
