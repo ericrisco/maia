@@ -165,7 +165,7 @@ precisament perquè **ningú no la va escriure per parlar de menjar**.
    **`resolt` el 19-09-2026**: els cinc termes ja hi tenen entrada. **`brossat`
    i `flaó`** es contrasten a més amb el DIEC2; els altres tres mantenen la
    definició contextual de Ribes.
-4. **El robatori de pernils com a tema literari**: en quins textos?
+4. ~~**El robatori de pernils com a tema literari**: en quins textos?~~ — **`parcial` el 2026-09-21**: la font afirma que el robatori de pernils **sovint era un tema literari**, però no identifica cap text concret ni permet reconstruir-ne el repertori.
 5. ~~**Quan desapareix el pa d'ordi** i el substitueix el de blat.~~ — **`parcial` el 2026-09-21**: la fitxa documenta el **pa d'ordi** com a base de la taula humil i registra **ordi i forment** entre els cereals abundants del segle XII, però no data el canvi de l'ordi al blat.
 
 ## Related
