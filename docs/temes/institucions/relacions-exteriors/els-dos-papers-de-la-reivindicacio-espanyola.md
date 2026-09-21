@@ -58,7 +58,7 @@ Andorra, Foix, Perpinyà i sobretot la Corona d'Aragó**.
 | Document | Data | Què fa |
 |---|---|---|
 | **Provisió reial** | **1 de juny de 1335** | **prohibeix percebre drets de duana sobre els productes de les Valls** |
-| **Provisió reial** | **27 de setembre de 1391** | **el mateix** |
+| **Provisió reial** | **27 de setembre de 1391 segons Vilar** | **el mateix** |
 
 **Totes dues «confirmant un état de choses déjà existant»**, i **confirmades
 elles mateixes pels reis de Castella i després per la dinastia dels Borbons
@@ -212,10 +212,15 @@ llegir París:**
 
 ## Buits registrats
 
-1. **Les dues provisions reials, senceres**: ~~**1 de juny de 1335**~~ i **27 de
-   setembre de 1391.** — **La primera, `resolta` el 17-09-2026; la segona
-   segueix oberta.** **I el que hi diu no és el que aquesta fitxa deia que hi
-   deia.**
+1. ~~**Les dues provisions reials, senceres**: **1 de juny de 1335** i **27 de
+   setembre de 1391.**~~ — **`parcial`**: la primera queda **`resolta` el
+   17-09-2026**; de la segona, el corpus ja té la transcripció completa del
+   document notarial de **4 de novembre de 1391** (ANA, ASC, perg. **4.899**),
+   que incorpora la carta reial datada **26 de setembre de 1391**
+   ([text local](../../../raw/consell-general/actes-historiques/text/segle-xiv--1391-novembre-4.txt)).
+   **La data del document disponible i la de la provisió que Vilar cita no
+   coincideixen**, de manera que no es dona per llegida la peça exacta del
+   **27 de setembre**.
 
    **On era.** **No a l'Arxiu de la Corona d'Aragó**, que és on el buit deia que
    calia anar: **a Andorra**, **ANA, ASC, pergamí núm. 1.470**, amb **un trasllat
@@ -260,7 +265,7 @@ llegir París:**
    donat.** **És un document que, per poder dir alguna cosa d'Andorra, ha de
    nomenar Foix tres vegades.**
 
-   `Requereix encara la provisió del 27 de setembre de 1391.`
+   `La data i la peça exactes de la provisió que Vilar cita encara requereixen contrast.`
 2. **Les confirmacions dels reis de Castella i dels Borbons** d'aquelles dues
    provisions. **La font les menciona en bloc, sense data ni nombre.**
 3. **Si algú ha buscat a l'Arxiu de la Corona d'Aragó després del 1904.** **La

@@ -205,19 +205,22 @@ francès per escrit**.
    el corpus cita sempre de segona mà.
 6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
    de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.
-7. **Les dues provisions reials en què descansava la reivindicació espanyola**
-   —~~**1 de juny de 1335**~~ **i 27 de setembre de 1391**—, **senceres.** —
-   **la del 1335, `resolta` el mateix 17-09-2026 que es va obrir**, **i no era a
-   l'Arxiu de la Corona d'Aragó sinó a l'Arxiu Nacional d'Andorra**: **pergamí
-   ASC 1.470**, text llatí sencer, dins les [actes històriques del Consell
-   General](../../../fonts/actes-historiques-consell-general.md).
+7. ~~**Les dues provisions reials en què descansava la reivindicació espanyola**
+   —**1 de juny de 1335** i **27 de setembre de 1391**—, **senceres.**~~ —
+   **`parcial`**: la del 1335, **`resolta` el mateix 17-09-2026 que es va obrir**,
+   **i no era a l'Arxiu de la Corona d'Aragó sinó a l'Arxiu Nacional d'Andorra**:
+   **pergamí ASC 1.470**, text llatí sencer, dins les [actes històriques del
+   Consell General](../../../fonts/actes-historiques-consell-general.md). Per a
+   la segona, el corpus té el document notarial de **4 de novembre de 1391** i
+   la carta reial datada **26 de setembre** ([text local](../../../raw/consell-general/actes-historiques/text/segle-xiv--1391-novembre-4.txt));
+   no s'afirma que sigui la provisió del **27 de setembre** que cita Vilar.
 
    **I no prohibeix cobrar duana**: **confirma «privilegia, franchisia et bonos
    usus» concedits pels comtes de Foix**, sense anomenar cap dret ni cap
    mercaderia
    ([els dos papers de la reivindicació
    espanyola](./els-dos-papers-de-la-reivindicacio-espanyola.md)).
-   `Requereix encara la del 1391.`
+   `La data i la peça exactes de la del 1391 encara requereixen contrast.`
 
 ## Related
 
