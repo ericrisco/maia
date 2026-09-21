@@ -207,8 +207,13 @@ Va a
    proposició**. **Prioritari.**
 2. **L'estudi d'Albert Villaró sobre la tradició manuscrita** del Manual Digest
    (ed. 2018).
-3. **La crisi de 1762** entre el Consell General i el bisbe **Francisco Catalán
-   de Ocón**. Cap font del corpus la descriu.
+3. ~~**La crisi de 1762** entre el Consell General i el bisbe **Francisco Catalán
+   de Ocón**.~~ — **`parcial` el 21-09-2026**: la biografia local del bisbe el
+   situa com a **copríncep i bisbe d'Urgell entre 1757 i 1762**, amb mort el **8
+   de setembre de 1762**; també relaciona el decret del **2 de març de 1762**
+   amb la crisi que el corpus ja cita amb el síndic Guillem d'Areny i Teixidor
+   ([font biogràfica](../../../fonts/wikipedia-es-catalan-de-ocon.md)). **El
+   dossier de la crisi i la seva seqüència completa encara no són al corpus.**
 4. ~~**Guillem d'Areny i Teixidor**, síndic el 1762 — i **si és de la mateixa casa
    que Guillem d'Areny-Plandolit**.~~ — **`parcial` el 20-09-2026**: la identitat i el càrrec de **síndic del 1762** ja consten a la prosa i a la taula de [persones](../../persones/README.md); **el parentiu amb Guillem d'Areny-Plandolit continua sense documentar**.
 5. ~~**Antoni Puig i Busquets**, autor del Politar: el corpus no en té biografia.~~ — **`parcial` el 20-09-2026**: [Els costumaris andorrans](./els-costumaris-andorrans.md) ja el documenta, amb la [font de l’Enciclopèdia Catalana](../../../fonts/enciclopedia-cat-politar-antoni-puig.md), com a **rector de les Escaldes** i autor del *Politar*; encara falten les dates de naixement i mort.
