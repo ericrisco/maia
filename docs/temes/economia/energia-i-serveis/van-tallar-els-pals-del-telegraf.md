@@ -258,7 +258,11 @@ llibre:**
    requérir une cinquantaine d'hommes*»—, però **no aporta l'acta, la data exacta
    ni la parròquia**. **Els cinquanta homes eren particulars requerits i el
    corpus no els personalitza.**
-2. **La llei francesa del 21 d'abril de 1892**, sencera. **Nou.**
+2. ~~**La llei francesa del 21 d'abril de 1892**, sencera.~~ — **`parcial` el
+   21-09-2026**: [Vilar, *L'Andorre* (1904)](../../../raw/llibres/vilar-andorre-1904.txt)
+   en conserva la dada operativa: la llei va autoritzar una despesa de **15.000
+   francs** per al telègraf andorrà. **El text íntegre i l'article que fixa
+   l'autorització encara falten.**
 3. **El discurs de M. Frézoul al Senat, 1892.** **Nou, i és on surten les dues
    xifres.** `Requereix el Journal officiel, débats du Sénat.`
 4. ~~**L'arranjament pel qual Andorra va comprar al bisbe la línia de Sant Julià a
