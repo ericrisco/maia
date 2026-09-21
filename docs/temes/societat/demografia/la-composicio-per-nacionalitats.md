@@ -369,7 +369,13 @@ anys anteriors cal una altra font.
    de 18 anys».**
 4. ~~**El text de les tres lleis** (1975, 1984, 1993).~~ **`parcial` el 2026-09-19**: els textos de **1993** i **1995** ja són al corpus i estan llegits a [la política de nacionalitat](../../institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md) —[llei de 1993](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt) i [llei de 1995](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt)—, però el text de **1975** i la norma de quotes de **1984** encara no hi són.
 5. **Els 7.000 «nascuts a Andorra»**: què se'n va fer, un a un.
-6. **Els repatriats portuguesos de les colònies africanes**: quants, d'on.
+6. ~~**Els repatriats portuguesos de les colònies africanes**: quants, d'on.~~ —
+   **`parcial` el 21-09-2026**: la mateixa font ja concreta l'origen del primer
+   flux —**repatriats de les antigues colònies portugueses de l'Àfrica**— i el
+   segon —**del nord de Portugal**—, a partir de 1975. No dona el **nombre de
+   repatriats** ni el desglossament per colònia, que continua obert
+   ([font](../../../fonts/mico-interculturalitat.md); text local a
+   `raw/sac-diades/33a-2021-andorra-i-la-multiculturalitat/_tot.txt`).
 7. ~~**Per què els francesos baixen** del 7,8% al 4%.~~ — **`parcial` el
    2026-09-20**: la sèrie documenta la baixada del **7,8% el 1989** al **4%
    el 2020**, però la font no n'explica la causa ni permet separar efecte
