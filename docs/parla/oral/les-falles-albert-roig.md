@@ -969,8 +969,11 @@ principi que un corrector destruiria la dada.
 
 1. **`no-es-buit`** — **Les 121 marques no s'han verificat.** És la millor proporció del corpus i
    segueix sent no verificada.
-2. **«Ves» no s'ha confirmat com a *beç*.** L'argument intern és fort —la mateixa
-   peça escriu *bedoll* quan cita un text— però **ningú no ho ha escoltat**.
+2. ~~**«Ves» no s'ha confirmat com a *beç*.**~~ — **`parcial` el 21-09-2026**:
+   la mateixa peça diu *bedoll* quan cita el text de Violant i la fitxa
+   etnogràfica del corpus identifica l'escorça de la falla com a **beç
+   (bedoll)**; encara no s'ha escoltat l'àudio per decidir si «Ves» és la forma
+   del parlant o una transcripció de màquina.
 3. ~~**Els noms propis cauen tots.** `Ramon Violani Simorra` per **Ramon Violant i
    Simorra**; `Salvador [?Armet]` i `[?Comte] de Carlet` sense verificar;
    `Cal [?Callehueta] del Puyal` sense identificar. **El corpus no els ha de
