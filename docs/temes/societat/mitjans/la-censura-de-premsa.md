@@ -231,7 +231,11 @@ que l'única col·lecció que existeix és en una biblioteca particular.
   **Escriu-lo essent veguer episcopal en actiu i publicar-lo a Lleida** no és un
   detall menor per a una obra que defensa la censura: **no és un tractat
   d'Andorra estant.**
-- **La col·lecció de «Les Valls d'Andorra»**, 1917 i 1919.
+- ~~**La col·lecció de «Les Valls d'Andorra»**, 1917 i 1919.~~ — **`parcial`
+  el 21-09-2026**: la fitxa conserva el **primer número del gener de 1917** i
+  la **reaparició del 19 de gener de 1919**, amb l'editorial «Al tornar-hi»;
+  encara no té la col·lecció sencera ni el recompte dels exemplars que es van
+  arribar a distribuir.
 - **Què va passar als detinguts** del segrest.
 - **El Cadí**, la revista de FHASA.
 - ~~**Qui era Weillemann** i què hi pintava a *La Nova Andorra*.~~ —
