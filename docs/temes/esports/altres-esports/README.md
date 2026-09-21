@@ -150,7 +150,7 @@ una pràctica legal i comuna, i és com funciona.**
   **I hi ha la regla que explica les seleccions**: **la FIBA Europa deixa jugar
   els residents de quatre anys als països petits**
   ([David Navarro](./david-navarro.md)).
-- **El motor**: federació, el ral·li d'Andorra, quants pilots. — **`parcial`**:
+- ~~**El motor**: federació, el ral·li d'Andorra, quants pilots.~~ — **`parcial`**:
   **hi ha [Xavier Cardelús](./xavier-cardelus.md)** —**Mundial de Supersport el
   2026**— **i [Cyril Despres](./cyril-despres.md)**. ~~**I a
   `raw/web/esport/estructura/` hi ha el bolcat del Campionat d'Andorra de

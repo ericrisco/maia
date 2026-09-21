@@ -186,24 +186,14 @@ error: és una escala d'arrelament, amb dos esglaons.
   **El parentiu arriba al tercer grau** —**oncles i nebots**— **i inclou
   expressament la parella de fet.** **I els tipus es poden canviar per la llei
   del pressupost** (article 8.4).
-- **Què és exactament «preu assequible»** ho fixen la Llei 15/2021 i la 30/2021,
-  citades però **no llegides en aquest punt**. — **`obert` pel que fa a la
-  definició legal, confirmat el 2026-09-14**: **el corpus té la Llei 15/2021
-  llegida només en la part de l'INH** ([llogar un pis](./llogar-un-pis.md)) **i
-  no té la 30/2021.** **El que sí que té és un llindar d'accés que hi funciona
-  al costat**: **les sol·licituds es desestimen quan la llar no destinaria més
-  del 30% dels ingressos al lloguer**, i el ministeri calcula que **gairebé un
-  23%** dels expedients superarien aquest llindar en el context macroeconòmic
-  que descriu ([els recomptes del parc públic el 2026](./els-recomptes-del-parc-public-el-2026.md)).
-  **Marcat com a deducció del corpus, no com a definició**: **un criteri
-  d'admissió de sol·licitants no és el mateix que la fórmula del preu.**
-  ~~`Requereix font externa: el text de la Llei 30/2021.`~~ — **`resolt` el
-  17-09-2026** des del [BOPA](../../../fonts/bopa.md), butlletins **126 del
-  2021** i **132 del 2024**
-  (`docs/raw/lleis/bopa/llei-30-2021-arrendament-habitatge.txt` i
-  `docs/raw/lleis/bopa/decret-454-2024-preus-assequibles.txt`). **I la deducció
-  que el corpus havia marcat com a seva era bona: el 30% hi és, però al final,
-  no a la definició.**
+- ~~**Què és exactament «preu assequible»** ho fixen la Llei 15/2021 i la
+  30/2021, citades però **no llegides en aquest punt**.~~ — **`resolt` el
+  17-09-2026** des del [BOPA](../../../fonts/bopa.md), amb la Llei 30/2021 i
+  el Decret 454/2024 conservats a
+  `docs/raw/lleis/bopa/llei-30-2021-arrendament-habitatge.txt` i
+  `docs/raw/lleis/bopa/decret-454-2024-preus-assequibles.txt`. **El 30% dels
+  ingressos és un criteri d'assequibilitat de la llar, no la definició del
+  preu; la definició legal i el seu desplegament són els que segueixen.**
 
   **La definició legal és una sola frase, i té un topall dur** (Llei 30/2021,
   article 3.1):

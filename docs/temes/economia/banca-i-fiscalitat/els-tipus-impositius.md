@@ -375,8 +375,8 @@ M€)**, **ingressos patrimonials (46,2 M€)**, **actius financers (49,6 M€)*
   els d'aquesta fitxa són els de la instantània.~~ — **`no-es-buit`** el
   19-09-2026: és un avís metodològic sobre la vigència de la instantània, no
   una pregunta de recerca pendent.
-- **Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
-  es finança l'Estat. — **`parcial` el 17-09-2026, i amb dos graons guanyats**:
+- ~~**Quant recapta cada impost**, no consta. Sense això, els tipus no diuen com
+  es finança l'Estat.~~ — **`parcial` el 17-09-2026, i amb dos graons guanyats**:
   **la suma** a «[Quant pesa tot plegat](#quant-pesa-tot-plegat-275-del-pib)» i
   ara **el desglossament en directes i indirectes**, amb sèrie 2021-2025, a
   «[Directes contra indirectes](#directes-contra-indirectes-el-gir-que-la-serie-ensenya)»

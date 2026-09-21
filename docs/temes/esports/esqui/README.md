@@ -71,11 +71,11 @@ I el que el corpus té sobre esquí que viu en altres branques:
 - ~~**Les estacions**, una per una.~~ — **`parcial` el 18-09-2026**: **la
   primera hi és**, [La Rabassa](./la-rabassa.md), l'única estació de fons.
   **Les estacions d'esquí alpí segueixen obertes.**
-- **I un buit nou que surt d'aquesta passada**: **de trenta-un esquiadors, el
+- ~~**I un buit nou que surt d'aquesta passada**: **de trenta-un esquiadors, el
   corpus només té el CLUB d'un** —l'Esquí Club Ordino-Arcalís de Mireia
-  Gutiérrez— **i el d'Arinsal-Pal de Roger Vidosa.** ~~**Els clubs d'esquí
+  Gutiérrez— **i el d'Arinsal-Pal de Roger Vidosa.** Els clubs d'esquí
   andorrans són la unitat organitzativa real d'aquest esport i el corpus no en
-  té cap fitxa.**~~ — **`parcial` el 18-09-2026**: **l'Esquí Club
+  té cap fitxa.~~ — **`parcial` el 18-09-2026**: **l'Esquí Club
   Ordino-Arcalís (ECOA) ja en té**, a [ECOA](../../../fonts/ecoa-ad-junta.md)
   — president Agustí Guimerà, estructura per categories d'edat. **L'any
   de fundació no hi consta.** **L'Esquí Club Arinsal-Pal (ECAP), de
