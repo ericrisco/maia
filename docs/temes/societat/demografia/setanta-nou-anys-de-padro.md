@@ -240,10 +240,22 @@ quartes parts del creixement eren migració**
 
   `Abans del 2016 segueix sense publicar-se, i el saldo que aquesta fitxa
   calcula per als quinquennis anteriors continua sent un càlcul del corpus.`
-- **Els anys anteriors al 1947** de població, i **anteriors al 1953** de
-  naixements.
-- **La població registrada i la total no es poden conciliar** amb el que hi ha:
-  faria falta la definició operativa de cadascuna, any per any.
+- ~~**Els anys anteriors al 1947** de població, i **anteriors al 1953** de
+  naixements.~~ — **`parcial` el 21-09-2026**: la sèrie homogènia de l'API
+  comença el **1947** per a la població registrada i el **1953** per als
+  naixements i les defuncions (`docs/raw/estadistica-api/`). Abans, el corpus
+  només conserva punts històrics dispersos —**1832: 3.900; 1874: 5.231;
+  1895: ~6.000; 1896: 5.800; 1897: 5.210; 1900: 5.231; 1912: 6.100;
+  1920: 4.309; 1930: 4.142/4.042; 1932: 4.039**—, no una sèrie contínua
+  ([les xifres que no quadren](./les-xifres-que-no-quadren.md)).
+- ~~**La població registrada i la total no es poden conciliar** amb el que hi
+  ha: faria falta la definició operativa de cadascuna, any per any.~~ —
+  **`parcial` el 21-09-2026**: [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md)
+  defineix la **registrada** com el recompte dels padrons comunals i la
+  **estimada/total** com una estimació que creua els padrons amb registres
+  administratius. El **31-07-2026** eren **94.596** i **90.021**,
+  respectivament (**−4.575; 5,1%**). El corpus encara no té el pont operatiu
+  any per any que expliqui tota la diferència.
 
 ## Related
 
