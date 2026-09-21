@@ -266,8 +266,11 @@ cada parroquia, segons las circunstancias»** i **no dona ni xifra ni criteri.**
 de capitans o deseners**. **El corpus té el procediment sencer i cap cas.**
 `Requereix les actes del Consell General i dels consells de parròquia.`
 
-**No consta què vol dir `galejar`** en aquest context. El text el posa entre
-viure escandalosament i avalotar de nits, i **el corpus no el tradueix.**
+~~**No consta què vol dir `galejar`** en aquest context. El text el posa entre
+viure escandalosament i avalotar de nits, i **el corpus no el tradueix.**~~ —
+**`resolt` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+recull l'accepció andorrana del DCVB: **celebrar una festa amb grans sorolls,
+especialment amb salves d'escopeteria**, i l'atestació de la *Instructa* de 1740.
 
 **No consta si les deu de la nit eren hora de tancament general dels hostals o
 només el llindar a partir del qual l'oficial podia intervenir.** El text diu

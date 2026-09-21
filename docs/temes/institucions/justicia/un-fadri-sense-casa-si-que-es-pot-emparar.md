@@ -356,10 +356,14 @@ en dedueix una regla única.**
 
 **Nou dies o deu**, al paràgraf 14. **Registrat, no arbitrat.**
 
-**No consta què és un `judicador` ni un `prom`** en aquest procediment més enllà
-que són **dos, jurats i pagats de la seva feina**. Els actes de possessió els
-diuen **prohoms jurats sota pena de cinc sous**; **el corpus no ha comprovat si
-és el mateix ofici.**
+~~**No consta què és un `judicador`** en aquest procediment més enllà que és un
+taxador; **ni un `prom`**, que surt al costat dels dos homes **jurats i pagats de
+la seva feina**. Els actes de possessió els diuen **prohoms jurats sota pena de
+cinc sous**; **el corpus no ha comprovat si és el mateix ofici.**~~ — **`parcial`
+el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+defineix el **judicador** com el taxador jurat que estima les penyores; continua
+obert si és el mateix ofici que el *prohom jurat* i què designa exactament
+*prom* en aquest procediment.
 
 **No consta si aquest procediment era el vigent quan es va escriure la
 *Instructa* del 1740**, ni què va passar entremig. **El corpus té dos textos de

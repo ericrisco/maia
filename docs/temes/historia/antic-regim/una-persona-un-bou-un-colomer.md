@@ -380,9 +380,14 @@ de sola. `Registrat, no arbitrat.`
 **Tres criteris d'edat per pagar la quèstia personal**, un d'ells amb **«si no me
 enganyo»** de l'autor. `Registrat, no arbitrat.`
 
-**No consta què és un `cavalló`** més enllà que **cent vint en fan un metado**,
-ni **un `carnalatge`**, ni una **`cartilla`** de la Cúria d'Urgell, ni **`peu
-rado`** i **`peu forcat`** fora d'aquest ús fiscal. **El corpus no els dedueix.**
+~~**No consta què és un `cavalló`** més enllà que **cent vint en fan un metado**~~ —
+**`resolt` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+el defineix com la **unitat de blat comptada a l'efecte de la quèstia**, amb
+**120 cavallons per un metado**, i en deriva **17 garbes per cavalló** a partir
+del delme documentat.
+
+Continua obert què són un **`carnalatge`**, una **`cartilla`** de la Cúria
+d'Urgell, i **`peu rado`** i **`peu forcat`** fora d'aquest ús fiscal.
 
 **`Cot y recot` surt quatre vegades en aquesta sèrie i el text no els distingeix
 mai.** `Requereix una definició.`
