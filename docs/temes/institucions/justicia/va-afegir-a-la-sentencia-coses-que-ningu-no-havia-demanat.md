@@ -271,9 +271,12 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    documentat un cas, el plet de les tres germanes en què el Tribunal Superior
    anul·la les disposicions noves afegides pel jutge; no té una segona
    ocurrència per establir si va passar més d'una vegada.
-5. **Qui era Paul Vilar** i **quan va morir**, i **si tenia relació amb l'autor
-   del llibre.** **Nou.** `Requereix font externa; el corpus no ho afirmarà sense
-   document.`
+5. ~~**Qui era Paul Vilar** i **quan va morir**, i **si tenia relació amb l'autor
+   del llibre.**~~ — **`parcial` el 21-09-2026**: les sentències el documenten
+   com a **president del Tribunal Superior** el 1902, i el prefaci de Brutails
+   l'anomena **«el regretté Paul Vilar»** el 1904; per tant, el corpus només pot
+   situar la mort **abans de 1904**, sense data exacta. El cognom coincideix amb
+   l'autor **André Vilar**, però **no hi ha prova de parentiu**.
 6. **El prefaci sencer de Brutails**, i **qui més hi consta.** **El corpus n'ha
    llegit el passatge dels agraïments i no la resta.**
 7. ~~**Si Izarn era jutge o suplent el 1902.**~~ — **`parcial` el 20-09-2026**:
