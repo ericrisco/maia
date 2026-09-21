@@ -184,7 +184,12 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
    extingir, respectivament, el delme capitular i l'episcopal, i els van
    substituir per un pressupost de cultes de **4.685 pessetes** ([la fitxa de
    les dues convencions](../../institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md)).
-7. **El grup reformista**: qui el formava.
+7. ~~**El grup reformista**: qui el formava.~~ — **`parcial` el 21-09-2026**:
+   la Nova Reforma de 1866 té **Guillem d'Areny i Plandolit** com a dirigent, i
+   la documentació del Consell General diu que el text el va redactar **el poble
+   andorrà**, no el bisbe Caixal ([la Nova Reforma](../../historia/segle-xix/nova-reforma.md)).
+   El corpus encara no té la relació nominal completa del grup ni permet saber
+   quins membres hi van intervenir.
 8. ~~**Els 44 pobles** de 1897: la llista.~~ — **`no-es-buit` el 20-09-2026**: Camiade, citant Brutails, només publica el recompte de **44 pobles**, junt amb **1.042 cases** i **5.210 habitants**; la font no identifica els nuclis i la fitxa no els pot reconstruir a partir d’aquesta lectura.
 
 ## Related
