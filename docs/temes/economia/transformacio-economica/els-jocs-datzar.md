@@ -181,7 +181,12 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   `Requereix el nom de l'operador del casino i del bingo, que aquesta llista
   dona per categoria i no per raó social, i la sèrie any per any des del 2016,
   que permetria veure si el nombre de llicències creix.`
-- **Quantes persones figuren als registres d'interdicció**, tampoc.
+- ~~**Quantes persones figuren als registres d'interdicció**, tampoc.~~ —
+  **`font_externa`**, confirmat el 22-09-2026: la Llei 14/2024 crea el Registre
+  General d'Interdiccions d'Accés al Joc d'Atzar i obliga els operadors a
+  consultar-lo, però el text legal i la llista pública de llicències no
+  publiquen el nombre de persones inscrites. El recompte requereix dades del
+  Consell Regulador Andorrà del Joc.
 - **I una xifra nova que el corpus no tenia** —**`resolt` el 2026-09-18**:
   **què val el joc per a l'Estat.** El pressupost del 2026
   (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) preveu recaptar:
