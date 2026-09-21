@@ -118,7 +118,11 @@ frase de llei vigent**, no d'un llibre de folklore.
 2. ~~**Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
    parròquies, set normes**, i el corpus no n'ha vist cap.~~ — **`parcial` el 21-09-2026**: la Llei 28/2022 estableix que **cada comú fixa els criteris i el nombre per ordinació comunal**, i que la formació i els simulacres també els concreta cada comú; el corpus no ha llegit les set ordinacions.
 3. ~~**Quantes persones el formen** avui, per parròquia.~~ — **`parcial` el 21-09-2026**: la llei fixa que cada comú designa membres entre els residents inscrits al cens de població, d'entre **18 i 60 anys**, i que el nombre el fixa el mateix comú; el corpus no té el recompte vigent de persones per parròquia.
-4. **Quan s'ha mobilitzat** i per què. ~~**Cap cas documentat al corpus.**~~ —
+4. ~~**Quan s'ha mobilitzat** i per què.~~ — **`parcial` el 21-09-2026**: les
+   actes del Consell General documenten una negativa a sortir el **1463** i
+   mobilitzacions efectives el **1628** i el **1630**, amb guàrdies, armes i
+   relleus parroquials contra la pesta. La sèrie completa de mobilitzacions i
+   les seves causes encara no és al corpus. ~~**Cap cas documentat al corpus.**~~ —
    **`parcial` el 17-09-2026: ara en té un, i és un cas de negativa.** Font: les
    [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) *(ANA, TC, núm.
