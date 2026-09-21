@@ -128,7 +128,11 @@ període d'execució** de la sentència» (article 1.2).
   mesos a dos anys**; el tractament mèdic pot durar fins a **tres anys**.
   L’internament s’ha de complir en instal·lacions específiques separades dels
   adults.
-- **Les 18 versions del Codi de Procediment Penal no s'han comparat.**
+- ~~**Les 18 versions del Codi de Procediment Penal no s'han comparat.**~~ —
+  **`parcial` el 21-09-2026**: el text consolidat local confirma **284 articles
+  i 18 versions** (`docs/raw/lleis/codi-procediment-penal.txt`), i la fitxa ja
+  pot llegir-ne el règim vigent; encara no s'ha fet la comparació article per
+  article de les divuit versions per reconstruir les reformes.
 - **El Codi de Procediment Civil** (439 articles, el segon més llarg del país) i
   ~~**la Llei transitòria de procediments judicials** (221)~~ segueixen sense
   llegir. — **La transitòria, `parcial` el 17-09-2026**: baixada del
