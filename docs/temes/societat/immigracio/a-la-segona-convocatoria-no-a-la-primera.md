@@ -294,10 +294,19 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
    adquisició i pèrdua ([text de 1993](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt); [text de 1995](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt)).
    **La font no permet saber quin d'aquests dos canvis tenia en ment quan dona
    una sola data; la divergència queda registrada, no arbitrada.**
-3. **El text dels convenis del 2003** amb Espanya i França, i **l'instrument que
-   el 2008 l'estén als portuguesos.** **El buit segueix obert i ara té data i
-   contingut**: **el que falta és el text.** **I la divergència 2007/2008 queda
-   registrada.**
+3. ~~**El text dels convenis del 2003** amb Espanya i França, i **l'instrument que
+   el 2008 l'estén als portuguesos.**~~ — **`parcial` el 21-09-2026**: el
+   [Diari Oficial del Consell General 10/2003](../../../raw/web/societat/immigracio/convenis/dcg-10-2003.txt)
+   confirma que el conveni trilateral entre Espanya, França i Andorra —relatiu a
+   l'entrada, la circulació, el sojorn i l'establiment— entra en vigor l'1 de
+   juliol de 2003. La [Resolução da Assembleia da República n.º
+   28/2008](../../../raw/web/societat/immigracio/convenis/resolucao-28-2008-portugal-andorra.txt)
+   conserva el text del conveni Portugal-Andorra, signat a Lisboa el 23 de
+   juliol de 2007: l'article 8 reserva els llocs de sobirania als nacionals,
+   però permet als portuguesos presentar-se a la segona convocatòria en igualtat
+   de condicions amb els andorrans si la primera queda deserta. **Encara falta
+   el text oficial andorrà del conveni trilateral i l'instrument andorrà que
+   n'acredita l'extensió a Portugal; la divergència 2007/2008 queda registrada.**
 4. **A quin any correspon «una de cada quatre persones més grans de 18 anys».**
    **Ve d'una obra del 2004 citada en un llibre del 2010 sobre un cens del 2007.**
 5. ~~**La taula completa d'assalariats per sector del 2006**~~: **`parcial`: la
