@@ -33,8 +33,11 @@ concreta d'un edifici concret**. El mot no descriu una categoria, descriu un llo
 
 Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
 
-- **Quan es va construir** i per a qui. Consta com a casa forta d'una família
-  abans de ser seu del Consell, i cal documentar-ho.
+- ~~**Quan es va construir** i per a qui.~~ — **`parcial` el 21-09-2026**: el
+  testimoni de **1918** la descriu com un edifici del **segle XVI** i llegeix al
+  portal la data **1580**, «tal vegada la de l’erecció» ([els consellers hi
+  dormien](./els-consellers-hi-dormien.md)). Encara no consta l’any exacte de
+  construcció ni la família per a qui es va aixecar.
 - ~~Quan la va adquirir el Consell General i en quines circumstàncies.~~ —
   **`parcial` el 21-09-2026**: [el Consell de la Terra](../consell-general/el-consell-de-la-terra.md)
   fixa que **el 1702 el Consell General va comprar l’antiga casa Busquets** per
