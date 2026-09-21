@@ -303,9 +303,10 @@ defensava.`
    manca de consulta a França, i l'acord de prohibició dels coprínceps del
    **25-02-1881**. **La font continua sense donar el nombre, els altres
    concessionaris ni els actes complets.**
-6. **La concessió de mines de cap al 1875** i **la més recent**, senceres. **La
+6. ~~**La concessió de mines de cap al 1875** i **la més recent**, senceres. **La
    font se'n nega a donar detalls i diu per què**: **per no informar els
-   *brasseurs d'affaires*.**
+   *brasseurs d'affaires*.**~~ — **`parcial` el 21-09-2026**: l’article acadèmic
+   sobre dret miner ([captura de la revista](../../../raw/web/institucions/consell-general/historia-dret-mines-andorra-scielo-2006.txt)) identifica en la concessió de **1875** la prohibició de transmetre-la a un estranger i la reserva del Consell General per reclamar una part dels beneficis. **No aporta el text íntegre ni identifica encara la concessió «més recent» que la font de 1904 manté sense detallar.**
 7. **La concessió emfitèutica de Sant Julià del 21 d'abril de 1883**: **el lloc
    és en blanc al text** («*en lo lloch nomenat ……*») i **els noms dels
    concessionaris no els reprodueix.**
