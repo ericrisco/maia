@@ -352,8 +352,12 @@ existeixen.**
   article**, i la fitxa en calcula la taxa comparant els dos recomptes. La font
   no defineix formalment si «resolta» vol dir identificació policial, resolució
   judicial o un altre estat administratiu; aquesta semàntica continua oberta.
-- **Per què les detencions no posades a disposició judicial pugen de 26 a 403 i
-  tornen a 46** en poc més d'una dècada. `pregunta_oberta`
+- ~~**Per què les detencions no posades a disposició judicial pugen de 26 a 403 i
+  tornen a 46** en poc més d'una dècada.~~ — **`parcial` el 21-09-2026**: la
+  sèrie A070 d'activitat judicial fixa els valors **26 (2007), 403 (2019), 88
+  (2022) i 46 (2025)**, sobre **657, 1.051, 1.100 i 779 detencions** totals,
+  respectivament; la nota estadística no explica si el salt respon a un canvi de
+  criteri, de llei o de pràctica.
 - ~~**Per què les detencions de menors s'aturen el 2013.**~~ — **`parcial` el
   20-09-2026**: el [text refós de la jurisdicció de menors](../../../raw/lleis/bopa/text-refos-jurisdiccio-menors.txt)
   identifica modificacions de les lleis **9/2005, 87/2010, 17/2014, 28/2014 i
