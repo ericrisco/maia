@@ -225,13 +225,15 @@ diferents i totes dues es resolen escoltant**, no raonant.
 
 **Sobre l'abast**
 
-11. **La branca `espontani` segueix buida.** Això és xerrada preparada. El que
-    falta —conversa real, dos andorrans encavalcant-se— **no s'ha trobat amb
-    llicència neta**.
-12. **L'Arxiu Nacional d'Andorra no s'ha pogut consultar.** La seva base de dades
-    d'audiovisuals (`webapps.govern.ad/bbdds_arxius/`) **respon 404** el
-    2026-09-13. El fons d'història oral que hi pugui haver queda **pendent**, i
-    amb ell la pregunta del consentiment dels informants morts.
+11. ~~**La branca `espontani` segueix buida.**~~ — **`font_externa` el
+    2026-09-22**: **la sèrie només conserva aquesta conversa preparada** i no
+    s'hi ha trobat una conversa espontània amb llicència neta. **El buit depèn
+    d'una nova font d'àudio autoritzada.**
+12. ~~**L'Arxiu Nacional d'Andorra no s'ha pogut consultar.**~~ — **`font_externa`
+    el 2026-09-22**: la base de dades d'audiovisuals
+    (`webapps.govern.ad/bbdds_arxius/`) **responia 404 el 2026-09-13** i el fons
+    d'història oral no s'ha incorporat. **Cal accés a l'Arxiu per comprovar si hi
+    ha peces i el règim de consentiment dels informants morts.**
 13. **`no-es-buit`** — **Cap altra càpsula de la sèrie no té la llicència
     verificada.** Només la #56: és un estat de drets, no una pregunta de
     contingut.
