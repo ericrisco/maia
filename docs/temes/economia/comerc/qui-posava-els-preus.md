@@ -218,8 +218,15 @@ s'hi aplicava. Vegeu
    també registra que el Consell pagava anualitats al farmacèutic i podia pactar
    remeis gratuïts amb les parròquies. **No consta el nom complet ni el títol,
    la durada o les condicions del monopoli.**
-6. **Si el preu de la carn el fixava realment l'arrendament** o si el Consell hi
-   intervenia, i qui guanyava què en aquell arrendament.
+6. ~~**Si el preu de la carn el fixava realment l'arrendament** o si el Consell hi
+   intervenia, i qui guanyava què en aquell arrendament.~~ — **`parcial` el
+   2026-09-22**: la síntesi institucional de la fitxa atribueix a **la
+   parròquia** la carnisseria i diu que **l'arrendament fixa el preu** i es fa
+   **en profit de la parròquia**; la fitxa de [la taba i el
+   mostassà](../../institucions/comuns-i-parroquies/la-taba-i-el-mostassa.md)
+   confirma que la carnisseria s'arrendava per subhasta i que el mostassà en
+   controlava la qualitat. **Encara falta un contracte d'arrendament que permeti
+   comprovar el preu i el repartiment concrets.**
 7. ~~**Què va passar el 1793** a Andorra, i si les quatre sessions de preus d'aquell any tenen relació amb la guerra.~~ — **`parcial` el 21-09-2026**: la fitxa documenta quatre sessions de preus aquell any, però el corpus no té una història de la Guerra Gran que permeti relacionar-les amb el conflicte.
 
 ## Related
