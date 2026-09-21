@@ -180,9 +180,8 @@ la consciència](../../institucions/justicia/nul-per-al-jutge-valid-per-a-la-con
 
 1. **En què consistia «aquest alguna cosa»** que el pare devia al fill natural.
    **El síndic ho omet i la font ho fa notar.**
-2. **La carta del síndic general del 12 de gener de 1846**, sencera, i **a qui
-   anava dirigida**. `Requereix font externa: Archives départementales de
-   l'Ariège, Andorre, lligall 2.`
+2. ~~**La carta del síndic general del 12 de gener de 1846**, sencera, i **a qui
+   anava dirigida**.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la data i la funció dins del cas del fill natural, però no el text ni el destinatari; cal consultar l'**Andorre, lligall 2** dels Archives départementales de l'Ariège.
 3. **L'arbitratge que va donar l'herència al fill natural**: **sense data, sense
    parts, i no és sentència.**
 4. ~~**Què era un *visor*** al costat dels marmessors.~~ — **`parcial` el

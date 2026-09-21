@@ -268,9 +268,7 @@ d'una tanda diferent**:
 
 1. **Com va acabar el plet del préstec**: **la font el segueix i no en dona el
    resultat.**
-2. **Si mai hi va haver a Andorra cap registre d'*heretaments***, i **quan
-   apareix**, si apareix. `Requereix font externa: la legislació registral
-   andorrana.`
+2. ~~**Si mai hi va haver a Andorra cap registre d'*heretaments***, i **quan apareix**, si apareix.~~ — **`parcial` el 21-09-2026**: la fitxa documenta transmissions i presa de possessió sense identificar un registre específic; el corpus no ha localitzat la legislació registral que permetria datar-ne l'aparició.
 3. **Per què el decret del Consell General del 31 de maig de 1876 és en castellà**,
    i **si n'hi ha més d'aquella època.**
 4. ~~**Si els batlles intervenien sempre en la presa de possessió**, com diu el

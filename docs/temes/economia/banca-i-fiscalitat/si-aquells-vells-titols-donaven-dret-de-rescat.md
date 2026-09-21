@@ -297,10 +297,7 @@ contra del costum:**
 
 ## Buits registrats
 
-1. **Si es va limitar mai la durada del dret de rescat a Andorra**, i **quan.**
-   **Prioritari**: és la pregunta que tanca el capítol i el corpus no la pot
-   respondre amb aquesta font.
-   `Requereix font externa: la legislació andorrana posterior a 1904.`
+1. ~~**Si es va limitar mai la durada del dret de rescat a Andorra**, i **quan.**~~ — **`parcial` el 21-09-2026**: la font documenta el dret de rescat i casos que arriben fins al segle XX, però no permet saber si una legislació posterior a 1904 en va limitar la durada.
 2. ~~**La sentència de 1898** que ordena retrocedir una terra venuda el 1691, i **el
    plet del començament del segle XX** sobre un immoble alienat al segle XVII.~~ —
    **`parcial` el 20-09-2026**: la fitxa ja fixa les dues cronologies —**207 anys**

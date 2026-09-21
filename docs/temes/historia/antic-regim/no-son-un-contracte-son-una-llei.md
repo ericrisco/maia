@@ -240,8 +240,7 @@ cabaler](./lhereu-i-el-cabaler.md).
    mesurar-ne la freqüència.
 7. **Si a Andorra es deia «casat sense capítols»** per a la unió lliure. **El
    testimoni que la font dona és rossellonès.**
-8. **L'ordenança de Lluís XV del 27 de març de 1748**, en la part que Brutails
-   cita. `Requereix font externa: Isambert, t. XXII, p. 193.`
+8. ~~**L'ordenança de Lluís XV del 27 de març de 1748**, en la part que Brutails cita.~~ — **`parcial` el 21-09-2026**: Brutails n'utilitza la regla per explicar el marc dels capítols matrimonials, però el corpus no té el passatge d'Isambert (t. XXII, p. 193) que en permetria la lectura literal.
 
 ## Related
 

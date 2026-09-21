@@ -273,9 +273,7 @@ naturalesa, l'arrendament».**
 
 1. **Quantes cases llogades hi havia, i quantes a Sant Julià.** **La font ordena les
    parròquies i no compta.**
-2. **El decret del Consell General del 25 de novembre de 1895**, sencer. **És la
-   peça que resol la divergència del tres i terç i el corpus només en té la citació.**
-   `Requereix font externa: els llibres d'acords del Consell General.`
+2. ~~**El decret del Consell General del 25 de novembre de 1895**, sencer.~~ — **`parcial` el 21-09-2026**: la fitxa el situa com la peça que resol la divergència del tres i terç i en conserva la citació i la funció; el text complet encara requereix els llibres d'acords del Consell General.
 3. **L'arrest del Tribunal Superior de l'11 d'octubre de 1894** i **l'arrest del
    Jutge d'Apel·lacions que reforma**, sencers. **El segon admetia el 6 % comercial i
    el corpus no en sap res més.**

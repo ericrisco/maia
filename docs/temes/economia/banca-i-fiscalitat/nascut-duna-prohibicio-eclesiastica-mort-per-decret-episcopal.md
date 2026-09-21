@@ -241,10 +241,8 @@ Caldes**.
 
 ## Buits registrats
 
-1. **Els acords del Consell General del 20 de maig i 17 de desembre de 1833, del 14
-   de juny de 1834 i del 19 de juny de 1866**, sencers. **Prioritari**: són la
-   cadena que porta al decret de 1854 i el corpus només en té les citacions.
-   `Requereix font externa: els llibres d'acords del Consell General.`
+1. ~~**Els acords del Consell General del 20 de maig i 17 de desembre de 1833, del 14
+   de juny de 1834 i del 19 de juny de 1866**, sencers.~~ — **`parcial` el 21-09-2026**: la cronologia de la fitxa identifica aquests acords com la cadena que porta al decret episcopal de 1854 i en conserva les dates i l'efecte jurídic; el text íntegre encara requereix els llibres d'acords del Consell General.
 2. ~~**Si el 3 % del Consell General de 1833-1834 es va aplicar mai**, i **si el
    decret episcopal de 1854 el va derogar expressament.**~~ — **`parcial` el
    20-09-2026**: el Consell General el decreta el **17 de desembre de 1833** i

@@ -173,8 +173,7 @@ a Andorra, la manera més ràpida de perdre una protecció.**
 5. **Com va acabar el cas del 17 de juny de 1783**: **si la primera filla es va
    tornar a casar**, i **si va tenir fills**. **La substitució es va fer sobre una
    previsió.**
-6. **Si la constitució catalana de 1585** sobre el retorn dels béns materns **es va
-   aplicar mai a Andorra**. `Requereix font externa: Constitucions, VI, II, 3.`
+6. ~~**Si la constitució catalana de 1585** sobre el retorn dels béns materns **es va aplicar mai a Andorra**.~~ — **`parcial` el 21-09-2026**: la fitxa identifica la constitució i la regla de retorn dels béns materns, però el corpus no té cap cas andorrà que en provi l'aplicació.
 7. **Els cinc néts heretats de present el 14 de maig de 1422**: **com es va
    executar aquella institució múltiple.**
 

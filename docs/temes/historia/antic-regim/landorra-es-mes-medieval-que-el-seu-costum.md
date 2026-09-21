@@ -254,9 +254,7 @@ la transhumància.**
    tant en tant a l'església** i que són administrades **«fora de tot control»**;
    queda documentat el canal d'anunci i l'absència de control que descriu
    l'autor, però no si mai hi hagué una rendició de comptes formal.
-6. **La proporció entre propietat privada i col·lectiva.** **Declarada impossible
-   per la font**, i **la causa és institucional: no hi ha cadastre ni impost
-   immobiliari.** `Requereix font externa: el cadastre andorrà, si existeix avui.`
+6. ~~**La proporció entre propietat privada i col·lectiva.**~~ — **`parcial` el 21-09-2026**: la font explica que no la podia calcular perquè no hi havia cadastre ni impost immobiliari, però el corpus tampoc té un cadastre contemporani que permeti substituir aquella absència.
 7. **Quan i per què els *comuns* van deixar de ser «els banquers de les Valls»**,
    i **què va passar amb els boscos.**
 8. **Si el bestiar s'assimilava als mobles a tots els efectes** o **només a les

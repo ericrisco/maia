@@ -193,9 +193,7 @@ I els venedors **renuncien «a la lley que ajuda als engañats en mes de la mita
 1. **D'on van sortir les deu lliures que falten** entre les 90 del rescat d'Aldies
    i les «passadas cent» de la Ribalta. **La diferència està registrada; l'origen,
    no.**
-2. **Què era «com a tenint dret»** en la persona que va rescatar Aldies el 1787.
-   **No consta si era una titular del dret de gràcia, una hereva o una creditora.**
-   **És la peça que explicaria per què el dot va haver de moure's.**
+2. ~~**Què era «com a tenint dret»** en la persona que va rescatar Aldies el 1787.~~ — **`parcial` el 21-09-2026**: l'escriptura documenta que la persona rescata Aldies i que actua amb un dret reconegut, però no permet distingir si era titular del dret de gràcia, hereva o creditora.
 3. **Si el dot es va arribar a executar mai** — **la meitat que queda oberta del
    buit 4 de** [el dot](./el-dot.md). **Aquesta escriptura mostra com es
    protegia, no com es cobrava.**

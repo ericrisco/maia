@@ -297,8 +297,7 @@ algú l'havia escrita.**
    nomenats pel batlle, la fan hereva universal «atenent al crescut adot y
    aixovar» que hi portava el marit. Vegeu [dos capítols matrimonials de
    1788](./dos-capitols-matrimonials-de-1788.md).
-2. **Amb quina freqüència** heretaven filles. L'autor diu que no hi havia
-   discriminació «en principi»; **el corpus no té cap xifra**.
+2. ~~**Amb quina freqüència heretaven filles.**~~ — **`parcial` el 21-09-2026**: l'autor afirma que no hi havia discriminació «en principi» i la fitxa documenta la regla successòria, però el corpus no té cap sèrie de casos que en mesuri la freqüència.
 3. ~~Què passava amb els cabalers que emigraven~~ — **tancat** a
    [les tres migracions](../../societat/demografia/les-tres-migracions.md). I
    **amb prou feines tornaven**: qui havia marxat de debò «no gaudia de la
