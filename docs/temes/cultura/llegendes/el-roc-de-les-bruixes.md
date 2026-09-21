@@ -55,8 +55,11 @@ Aquest article descriu una posició i no descriu la roca:
   Ministeri el considerava **no obert al públic** i exigia autorització per a
   visitar-lo. **El règim vigent després de 2018 no queda comprovat.**
 
-**Buit registrat, prioritari.** El patrimoni cultural del Govern i l'Arxiu
-Nacional són fonts primàries que no s'han consultat.
+~~**Buit registrat, prioritari.** El patrimoni cultural del Govern i l'Arxiu
+Nacional són fonts primàries que no s'han consultat.~~ — **`parcial` el
+21-09-2026**: la fitxa del **Govern** ja s'ha consultat i sustenta els tres
+punts anteriors; **l'Arxiu Nacional encara no s'ha consultat** i el règim
+d'accés posterior a **2018** continua sense comprovació.
 
 ## Related
 
