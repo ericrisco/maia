@@ -99,7 +99,7 @@ hauria de tenir fitxa pròpia a
 ## El que falta
 
 - **Què es canta o es toca** durant la Passa, si és que s'hi toca res.
-- **Com es formen les parelles**, i què passa si algú no en té.
+- ~~**Com es formen les parelles**, i què passa si algú no en té.~~ — **`parcial` el 2026-09-21**: la font només documenta que la Passa és una cercavila de **parelles de fadrins**, amb els qui es casaran aquell any al davant i la resta ordenada de més grans a més joves. No explica com es formen les parelles ni què passa quan algú no en té.
 - **Des de quan** es fa, i si és tradició continuada o recuperada.
 - ~~L'**Esbart Laurèdia** publica un recull, *Els balls d'Andorra*, **identificat i
   no consultat** — hauria de tancar bona part d'aquests buits.~~ — **`parcial`,
