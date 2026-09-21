@@ -164,7 +164,7 @@ dues són andorranes.**
   Cornalin, Pinot Noir— **sense varietats autòctones des de la fil·loxera del
   segle XIX** ([font](../../../fonts/wikipedia-ca-vi-andorra.md)).
 - **Si el ministeri d'Agricultura** ha fet més plans com el del 2005.
-- **Què passa amb la verema des del 2016.**
+- ~~**Què passa amb la verema des del 2016.**~~ — **`parcial` el 2026-09-21**: la ponència només dona dades fins al **2016**, quan Casa Auvinyà tenia dues hectàrees i una collita mitjana de 3.000 kg, i registra l'avançament de la verema fins a la primera quinzena d'octubre el 2015. No hi ha al corpus una sèrie posterior sobre superfície, producció o dates de verema.
 
 ## Related
 
