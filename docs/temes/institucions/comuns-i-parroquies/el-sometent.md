@@ -212,8 +212,8 @@ frase de llei vigent**, no d'un llibre de folklore.
    no tenen, paciencia»**. **Segueix obert el mot**: **origen, etimologia i si és
    viu**, i **la relació amb el `nunci`** que el capítol de les Corts insinuava i
    aquest no confirma.
-6. **Si el sometent andorrà i el sometent català** tenen el mateix origen o són
-   institucions paral·leles.
+6. ~~**Si el sometent andorrà i el sometent català** tenen el mateix origen o són
+   institucions paral·leles.~~ — **`parcial` el 21-09-2026**: el corpus documenta el sometent andorrà com a crida armada de veïns per perseguir delinqüents i, en una fitxa sobre la Guerra del Francès, registra el **sometent català** actuant amb els miquelets per a la defensa de Girona; això confirma el paral·lelisme funcional i el mateix nom, però no permet establir un origen comú.
 7. ~~**El text anterior a la Llei 28/2022**: quina norma regulava el sometent
    abans.~~ — **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**,
    butlletí **94 del 2022**
