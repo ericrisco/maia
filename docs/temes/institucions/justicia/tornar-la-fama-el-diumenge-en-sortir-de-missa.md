@@ -283,10 +283,11 @@ fet:**
    les **quatre dates**, la *mostra* de 1453, els dos casos de 1488 —inclòs el
    ram a la porta— i la restitució pública de fama del **1897**. **Els casos
    sencers i les peces d'arxiu no són al corpus.**
-5. **Si posar «*rams per les portes per enamoraments*» és un ritual documentat
-   en altres fonts andorranes.** **El corpus en té una sola atestació, de 1488, i
-   **en boca d'un acusat que l'al·lega en defensa seva**.**
-   `Requereix comprovació etnogràfica.` **Prioritari.**
+5. ~~**Si posar «*rams per les portes per enamoraments*» és un ritual documentat
+   en altres fonts andorranes.**~~ — **`font_externa`, confirmat el 22-09-2026**:
+   el corpus només té una atestació, de **1488**, i és **en boca d'un acusat que
+   l'al·lega en defensa seva**. No hi ha cap altra font etnogràfica al corpus que
+   permeti generalitzar el ritual; cal una comprovació externa.
 6. ~~**Si el costum del ball —cedir la parella a qui la demana— consta en cap
    norma escrita.** **La font el descriu i li atribueix un motiu «sens dubte».**~~ —
    **`parcial`**: la fitxa documenta que **la parella s'havia de cedir

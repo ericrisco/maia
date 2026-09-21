@@ -724,17 +724,14 @@ la prosa són sistemàtics i cap no altera una conclusió.**
   («[Arbitrat el 18-09-2026](#arbitrat-el-18-09-2026-el-text-tenia-rao-i-el-grafic-no)»).
   `Per què s'hi va dibuixar malament, i si existeix cap fe d'errates, segueix
   obert. El corpus no ho ha comunicat a ningú.`
-- **Quina part de la caiguda de l'atenció en català a l'Administració és el canvi
-  de perímetre del 2018.** **`obert`, i el 17-09-2026 confirmat amb el gràfic
-  llegit**: **el document no publica la sèrie sense els CAP i l'Hospital**, i
-  **sense desglossament per àmbit el repartiment no es pot fer.** `Requereix les
-  taules per àmbit de l'onada del 2018.` **El que el corpus ja no ha de donar per
-  bo és la mida del titular**: **els 30 punts es mesuren contra el 91,5 % del
-  2014, que és el màxim de tota la sèrie**; **contra la mitjana de les quatre
-  onades anteriors en són uns 18.** **I el buit s'ha eixamplat**: **el 2014 és el
-  màxim històric en sis dels nou àmbits socioeconòmics**, **set dels quals no
-  tenen cap canvi de disseny declarat.** `Requereix la metodologia de l'onada del
-  2014.`
+- ~~**Quina part de la caiguda de l'atenció en català a l'Administració és el canvi
+  de perímetre del 2018.**~~ — **`parcial` el 22-09-2026**: **el document no
+  publica la sèrie sense els CAP i l'Hospital**, i sense desglossament per àmbit
+  el repartiment no es pot fer. La fitxa conserva el que sí que es pot verificar:
+  els **30 punts** es mesuren contra el **91,5 %** del 2014 i són uns **18** contra
+  la mitjana de les quatre onades anteriors; el 2014 és el màxim històric en sis
+  dels nou àmbits socioeconòmics. **El repartiment exacte requereix les taules per
+  àmbit i la metodologia de l'onada del 2014.**
 - ~~**Per què l'edició del 2022 reprodueix 77,5 on aquesta imprimeix 75,4.**~~ —
   **`parcial` el 20-09-2026**: quatre files de la taula coincideixen, però la
   fila principal passa de **75,4 %** a **77,5 %** i les quatre opcions d'acció
