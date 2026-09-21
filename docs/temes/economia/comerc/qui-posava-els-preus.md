@@ -200,9 +200,19 @@ s'hi aplicava. Vegeu
    lliura.** Vegeu [les mesures i les monedes](./les-mesures-i-les-monedes.md).
 3. **Quan es va deixar de fer el *Consell del Afor***, i quan es va deixar de
    taxar el blat.
-4. **El text dels decrets** de 1752, 1873, 1875, 1888, 1889 i 1893. Brutails els
-   data i en cita fragments; **el corpus no en té cap de sencer**.
-5. **Qui era el farmacèutic Dallerès** i en què consistia el seu monopoli.
+4. ~~**El text dels decrets** de 1752, 1873, 1875, 1888, 1889 i 1893. Brutails els
+   data i en cita fragments; **el corpus no en té cap de sencer**.~~ —
+   **`parcial` el 2026-09-22**: la fitxa ja transcriu els fragments dels decrets
+   del **27-03-1752**, **25-10-1873** i **23-11-1893**, i identifica les dates
+   dels tres que fixaven la tarifa mèdica (**23-03-1875**, **20-12-1888** i
+   **12-04-1889**). **Encara falta l'expedient íntegre de cadascun** i no es pot
+   comprovar si el text citat és complet.
+5. ~~**Qui era el farmacèutic Dallerès** i en què consistia el seu monopoli.~~ —
+   **`parcial` el 2026-09-22**: Brutails l'identifica com **M. Dallerès**, el
+   farmacèutic anterior, mort feia poc, i diu que havia tingut un **monopoli**;
+   també registra que el Consell pagava anualitats al farmacèutic i podia pactar
+   remeis gratuïts amb les parròquies. **No consta el nom complet ni el títol,
+   la durada o les condicions del monopoli.**
 6. **Si el preu de la carn el fixava realment l'arrendament** o si el Consell hi
    intervenia, i qui guanyava què en aquell arrendament.
 7. ~~**Què va passar el 1793** a Andorra, i si les quatre sessions de preus d'aquell any tenen relació amb la guerra.~~ — **`parcial` el 21-09-2026**: la fitxa documenta quatre sessions de preus aquell any, però el corpus no té una història de la Guerra Gran que permeti relacionar-les amb el conflicte.
