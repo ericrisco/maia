@@ -201,22 +201,40 @@ clàusula mateixa i el registre.**
 
 ## Buits registrats
 
-1. **El dossier del cas de 1885-1886**, sencer: **la instància, el dictamen de
+1. ~~**El dossier del cas de 1885-1886**, sencer: **la instància, el dictamen de
    l'assessor, la comunicació del Consell General del 20 de març, la sentència del
    batlle del 30 de maig i la sentència d'apel·lació del 6 de març de 1886.**
-   `obert, prioritari i datat: és el conflicte del Consell i la justícia amb text.`
-2. **Qui era el batlle francès** d'aquell cas, i **qui el jutge interí
-   d'apel·lacions del 1886.** `obert.`
-3. **Si el Consell General va reaccionar** quan el batlle no el va obeir.
-   `obert, prioritari.`
-4. **Els *llibres corresponents*** on s'inscrivien les escriptures de ters: **quins
-   eren i si se'n conserva cap.** `obert.`
-5. **Les constitucions catalanes citades**: **1512** *(VII, viii, 4, p. 414)*,
+   `obert, prioritari i datat: és el conflicte del Consell i la justícia amb text.`~~
+   — **`parcial` el 2026-09-21**: la fitxa reprodueix la comunicació del Consell
+   del **20 de març de 1885**, la sentència del batlle del **30 de maig** i la
+   d'apel·lació del **6 de març de 1886**. **La instància, el dictamen de
+   l'assessor i els textos íntegres d'aquestes peces encara no hi són.**
+2. ~~**Qui era el batlle francès** d'aquell cas, i **qui el jutge interí
+   d'apel·lacions del 1886.** `obert.`~~ — **`parcial` el 2026-09-21**: la font
+   identifica el primer com **«lo Batlle frances»**, batlle del copríncep francès,
+   i el segon com **un jutge interí d'apel·lacions**. **No en dona els noms.**
+3. ~~**Si el Consell General va reaccionar** quan el batlle no el va obeir.
+   `obert, prioritari.`~~ — **`parcial` el 2026-09-21**: el Consell General va
+   ordenar al batlle que escoltés l'executat i suspengués l'execució; el batlle
+   va manar continuar-la i rematar els béns. **La fitxa no documenta cap reacció
+   posterior del Consell.**
+4. ~~**Els *llibres corresponents*** on s'inscrivien les escriptures de ters: **quins
+   eren i si se'n conserva cap.** `obert.`~~ — **`parcial` el 2026-09-21**: la
+   font explica que el crèdit s'inscrivia al registre d'una jurisdicció i que la
+   fórmula parlava dels «llibres corresponents». **No identifica els llibres ni
+   en documenta cap exemplar conservat.**
+5. ~~**Les constitucions catalanes citades**: **1512** *(VII, viii, 4, p. 414)*,
    **1564-1585** *(VII, x, 23-24, pp. 435-436)*, **1422 i 1585** *(IV, xvi, 8-9)*,
    **1534** *(III, xxv, 4)*, i les **ordres reials del 16 de gener i el 20 de juny
-   de 1337**. `obert, amb referència.`
-6. **L'arrest del Consell Sobirà del Rosselló del 27 d'abril de 1735.** `obert,
-   datat.`
+   de 1337**. `obert, amb referència.`~~ — **`parcial` el 2026-09-21**: la
+   fitxa conserva les dates, les referències i la funció general de les ordres
+   reials i de les constitucions en la cronologia del procediment. **No en té els
+   textos íntegres.**
+6. ~~**L'arrest del Consell Sobirà del Rosselló del 27 d'abril de 1735.** `obert,
+   datat.`~~ — **`parcial` el 2026-09-21**: la fitxa en conserva la data i el
+   contingut que Brutails li atribueix: interpretar que la clàusula de *ters* es
+   podia denunciar davant qualsevol cort. **L'arrest sencer i la seva signatura
+   encara no són al corpus.**
 7. ~~**L'estudi sobre la clàusula de ters en dret català** que Brutails critica:
    **no en dona autor ni títol.**~~ — **`no-es-buit` el 20-09-2026**: la nota de
    Brutails només el descriu com un estudi recent i no n’identifica la
