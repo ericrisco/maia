@@ -86,7 +86,11 @@ judicial del 2024-2025 a Madrid **és part de la mateixa incertesa.**
 
 1. **El text complet de l'informe de la comissió d'investigació del
    Parlament de Catalunya (2016).**
-2. **La denúncia de l'IDHA (2016-2017)**, sencera.
+2. ~~**La denúncia de l'IDHA (2016-2017)**, sencera.~~ — **`parcial` el
+   2026-09-21**: la [fitxa de VilaWeb sobre els deu anys del cas BPA](../../../fonts/vilaweb-deu-anys-bpa-operacio-catalunya.md)
+   identifica la denúncia, la situa entre **2016 i 2017** i en resumeix
+   l'objecte —les **coaccions a la sobirania andorrana**—, però no en conserva
+   el text íntegre.
 3. ~~**L'estat exacte del bloqueig judicial de Madrid (2024-2025)** i per
    què es va desestimar la querella.~~ — **`parcial` el 21-09-2026**: la font de
    VilaWeb ja fixa que hi va haver **bloqueig judicial a Madrid** i una
