@@ -376,9 +376,14 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
    LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
    `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
-5. **El memòria de 1767**, *Archives des Pyrénées-Orientales, C 1282*, i **el
+5. ~~**El memòria de 1767**, *Archives des Pyrénées-Orientales, C 1282*, i **el
    procediment de la lligalla del notari Soldevila de 1783** que la font dona com
-   a cas extrem.
+   a cas extrem.~~ — **`parcial` el 2026-09-21**: del memòria de **1767** ja se’n
+   conserva la signatura **C 1282**, un extracte llegit que presenta el batlle
+   com a «espècie de lloctinent del Veguer» i les seves atribucions, i una
+   segona lectura que hi identifica el **procurador del Rei** en una enumeració
+   emanada de la Intendència de Perpinyà. **El procediment de la lligalla de
+   Soldevila de 1783 continua només anunciat per la font i no llegit.**
 6. ~~**Els documents del 18 de febrer de 1781, 24 de maig de 1784 i 23 d'abril de
    1786**, i **amb quin títol el Bisbe manava destituir el batlle francès.**~~ —
    **`parcial` el 21-09-2026**: el llibre d'actes conserva l'acta del **23 d'abril
