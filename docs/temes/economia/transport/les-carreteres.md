@@ -59,7 +59,13 @@ gestió de la xarxa viària.**
 
 ## Buits registrats
 
-1. **El text complet de la Llei 18/2016.**
+1. ~~**El text complet de la Llei 18/2016.**~~ — **`resolt` el 22-09-2026**:
+   llegit el PDF oficial del Consell General/BOPA, **14 pàgines**, i conservat
+   amb [l'extracció textual](../../../raw/web/territori/carreteres/llei-18-2016-carreteres.txt).
+   El text conté l'objecte i les definicions (articles 1-2), la titularitat de
+   les carreteres generals i secundàries (articles 3-5), la gestió de la xarxa
+   bàsica de vials (articles 9-16) i els directoris de carreteres generals,
+   xarxa bàsica i carreteres secundàries dels annexos I-III.
 2. ~~**Quan es van construir cadascuna de les CG** — la font en dona el
    recorregut i la longitud, no la datació.~~ — **`parcial` el 20-09-2026**: la
    fitxa identifica les **CG-1 a CG-6**, els seus recorreguts i longituds, i
