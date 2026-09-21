@@ -173,7 +173,11 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
 3. ~~**La discrepància 1896/1897.**~~ — **`parcial` el 2026-09-19**: [Les xifres que no quadren](./les-xifres-que-no-quadren.md) documenta **5.800 habitants el 1896** i **5.210 el 1897**; la font del Congrés dels Diputats de **1895** parla d’**uns 6.000**, coherent amb el primer valor, mentre que el segon coincideix exactament amb la dada atribuïda a Brutails. **La procedència concreta de cada xifra i si el 1897 és una transcripció o una dada no comparable continuen obertes.**
 4. **L'arraigo**: definició, quantia, com s'acredita.
 5. **L'afer de les concessions** del segle XIX.
-6. **L'abolició dels delmes** a Andorra: any.
+6. ~~**L'abolició dels delmes** a Andorra: any.~~ — **`resolt` el
+   21-09-2026**: les convencions del **13 d'abril i del 8 de maig de 1903** van
+   extingir, respectivament, el delme capitular i l'episcopal, i els van
+   substituir per un pressupost de cultes de **4.685 pessetes** ([la fitxa de
+   les dues convencions](../../institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md)).
 7. **El grup reformista**: qui el formava.
 8. ~~**Els 44 pobles** de 1897: la llista.~~ — **`no-es-buit` el 20-09-2026**: Camiade, citant Brutails, només publica el recompte de **44 pobles**, junt amb **1.042 cases** i **5.210 habitants**; la font no identifica els nuclis i la fitxa no els pot reconstruir a partir d’aquesta lectura.
 
