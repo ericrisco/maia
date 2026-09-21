@@ -264,7 +264,7 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
    XVII-XVIII de l'ovella de referència: valia més, i força més.** [La
    quèstia](../antic-regim/la-questia.md) registra el mateix dubte amb les
    mateixes paraules i es pot tancar igual.
-3. ***Parra*** i ***stali***.
+3. ~~***Parra*** i ***stali***.~~ — **`parcial` el 21-09-2026**: la captura d'[Herència d'Andorra](../../../raw/academic/herencia-andorra.txt) conserva la nota 28 d'Alcover-Moll: **parra** és «cadascun dels caps de bestiar dolents, que es queden a la muntanya perquè no poden seguir el ramat». El mateix text documenta els ***stalis*** com a béns comunals recuperats el **1366**, però no en dona encara una definició lèxica.
 4. **Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
    pengin?
 5. ~~Si el sistema d'**aprés** i **artiga** **va sobreviure** i fins quan.~~
