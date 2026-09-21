@@ -189,7 +189,11 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
    **ho feia amb quota, contracte i guies nominals.** `Requereix les
    importacions de gra en anys de fam, que segueixen obertes.`
 3. El **dot** com a mecanisme: contractes matrimonials, quantitats, a quines cases.
-4. **Quantes cases noves** es funden al segle XVIII i on.
+4. ~~**Quantes cases noves** es funden al segle XVIII i on.~~ — **`parcial` el
+   21-09-2026**: la font confirma la **fundació de tota una sèrie de cases noves
+   al segle XVIII**, majoritàriament de menestrals, i n'explica els dos motors
+   de terra —**dot** i **artigatge o feixes**—. No en dona el nombre ni la
+   distribució per parròquies.
 5. L'**artigatge**: tècnica, dret sobre la terra artigada, si calia permís.
 6. ~~El **mallador** — el corpus no en té definició pròpia.~~ — **`resolt` el
    18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**, i **el diccionari hi posa
