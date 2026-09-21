@@ -234,9 +234,11 @@ els que superen aquest termini.`
 
 ## El que falta
 
-- **El detall de les onze línies d'autobús**: qui les presta i des de quan. `La
-  concessió és única i es va adjudicar per a quatre línies; el llibre no diu
-  quina empresa.`
+- ~~**El detall de les onze línies d'autobús**~~ — **`parcial` el 21-09-2026**:
+  el llibre enumera **nou línies, L1–L9**, dins la concessió **2019–2034**; el
+  cànon inicial només cobria **L2, L4, L5 i L6**. **Resta pendent identificar
+  l'empresa prestadora i la data d'entrada de cada línia**, i aclarir per què la
+  pregunta parlava d'onze.
 - ~~**Per què el 2002 es tria la concessió per als residus i el 2022 es desfà**~~
   — **`parcial` el 20-09-2026**: la **Llei del 31 d'octubre de 2002** va
   establir el règim de concessió i el contracte es va signar el **6 de febrer
