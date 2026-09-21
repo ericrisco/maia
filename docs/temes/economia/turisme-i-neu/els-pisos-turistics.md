@@ -174,7 +174,11 @@ l'alçada d'un mur de pedra seca.
   pernoctar en autocaravana, caravana, càmper o furgoneta condicionada fora
   d'aquests espais.** `Requereix saber quantes àrees d'autocaravanes hi ha
   habilitades, perquè la prohibició depèn que n'hi hagi.`
-- **Les 7 versions consolidades no s'han comparat.**
+- ~~**Les 7 versions consolidades no s'han comparat.**~~ — **`parcial` el
+  2026-09-22**: el [text consolidat local](../../../raw/lleis/allotjament-turistic.txt)
+  confirma **7 versions**, **99 articles** i una instantània del **12 de setembre
+  de 2026**. **Encara no s'ha fet el diff article per article de les set versions,
+  de manera que no se'n pot donar la cronologia de canvis.**
 - **Els requisits tècnics dels HUT** van a reglament i no són al corpus.
 - ~~**L'impost sobre les estades en allotjaments turístics** (Llei 19/2022, 47
   articles) és al recull i **queda per llegir**.~~ — **`resolt` el 17-09-2026**
