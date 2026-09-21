@@ -145,8 +145,10 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
 
 ## El que falta
 
-- **Josep Perich Puigcercós**, ***Casa Rull de Sispony: Andorra*** (1994),
-  ISBN 99920-1-078-9. **El corpus només en té l'extracte genealògic.**
+- ~~**Josep Perich Puigcercós**, ***Casa Rull de Sispony: Andorra*** (1994),
+  ISBN 99920-1-078-9.~~ — **`no-es-buit`**: **és la referència bibliogràfica
+  de la font base** i la fitxa ja en conserva l'extracte genealògic; no és una
+  pregunta pendent dins d'aquesta secció.
 - ~~**Martina Camiade Boyer**, ***La casa en la comunitat andorrana del S. XVII al
   S. XIX. Solidaritats i estratègies d'aliances i de poder***, **Editorial
   Andorra, 2001**~~ — **`parcial` el 18-09-2026**: el catàleg de Perpinianum

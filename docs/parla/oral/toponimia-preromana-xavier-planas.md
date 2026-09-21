@@ -251,8 +251,9 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
 1. **`no-es-buit`** — **Les 236 marques no s'han verificat**, i són el 9,9 % dels mots.
 2. **Cap topònim d'aquesta peça no s'ha de donar per bo.** Ni un.
    `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
-3. **`[?decòrins]` (p=0,03) i `[?portudiment]` (p=0,07) no tenen lectura.** No
-   són paraules: són el que la màquina escriu quan no sent res.
+3. ~~**`[?decòrins]` (p=0,03) i `[?portudiment]` (p=0,07) no tenen lectura.**~~ —
+   **`no-es-buit`**: **són marques de transcripció sense lectura**, no una
+   pregunta de recerca ni formes lèxiques que el corpus pugui donar per bones.
 4. ~~**Les etimologies no s'han contrastat** amb
    [el substrat](../../temes/llengua/dialectologia/el-substrat.md), que és
    l'article del corpus sobre el mateix tema.~~ — **`parcial` el 2026-09-22**:
