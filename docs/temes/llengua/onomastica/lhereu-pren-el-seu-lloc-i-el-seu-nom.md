@@ -163,8 +163,10 @@ mou així:
    provisional que la font no defineix. **`Fusilé`, `Bota`, `Nyerro` i `Xixarró`
    continuen sense significat documentat**; la possible relació històrica de
    *Nyerro* queda al punt següent.
-2. **Si el renom *Nyerro* té relació amb les bandositats catalanes.**
-   **Coincidència registrada, causalitat no afirmada.**
+2. ~~**Si el renom *Nyerro* té relació amb les bandositats catalanes.**~~ —
+   **`parcial`**: el mot coincideix amb el nom d'un dels bàndols de les
+   bandositats catalanes dels segles **XVI–XVII**, però la font no diu que el
+   renom andorrà en provingui i el corpus no té cap prova causal.
 3. ~~**Un recull de noms de casa andorrans.**~~ — **`parcial` el 21-09-2026**: Brutails aporta tres noms documentats (*Babot*, *Moles* i *Guillemó*) i descriu el mecanisme d'herència, però no és un recull general; cal consultar la bibliografia onomàstica i el fons de l'Arxiu Nacional.
 4. ~~**Des de quan els andorrans porten els dos cognoms als actes oficials**, i
    **si era costum o norma**.~~ — **`parcial`, actualitzat el 2026-09-19**: la
