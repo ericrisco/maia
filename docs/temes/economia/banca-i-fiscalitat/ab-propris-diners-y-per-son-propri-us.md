@@ -230,8 +230,12 @@ part d'hort que Z ja té, sinó sobre la resta dels béns.**
    cessió del retracte era freqüent i la fitxa conserva **vuit actes** de cessió,
    però no compta quantes portaven aquesta clàusula ni permet saber si era d'estil
    o excepcional.
-8. **Si un rescat fet amb diners manllevats es va arribar a anul·lar mai.**
-   **El corpus té la prohibició i cap cas d'aplicació directa.**
+8. ~~**Si un rescat fet amb diners manllevats es va arribar a anul·lar mai.**
+   **El corpus té la prohibició i cap cas d'aplicació directa.**~~ — **`parcial`
+   el 2026-09-21**: la clàusula prohibeix rescatar amb diners manllevats, i el
+   plet de **1864–1901** mostra que un titular va al·legar que encara no tenia
+   fons per rescatar, sense que això anul·lés el seu dret. **El corpus no conserva
+   cap cas d’anul·lació d’un rescat fet efectivament amb un préstec.**
 
 ## Related
 
