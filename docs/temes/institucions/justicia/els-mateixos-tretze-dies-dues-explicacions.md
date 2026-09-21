@@ -277,8 +277,8 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
    font diu que el consell **no pot tenir cap influència oficial.**
 8. **Si l'absència de formalitat de publicació de les subhastes va donar mai
    problemes**, i **si es va canviar.**
-9. **Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
-   per aturar l'execució.
+9. ~~**Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
+   per aturar l'execució.~~ — **`resolt` el 21-09-2026**: eren **l'ordre del jutge d'apel·lacions al batlle**, un cop assabentat de l'apel·lació, per **aturar l'execució de la sentència** ([glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), a partir de Vilar 1904, p. 98).
 
 ## Related
 
