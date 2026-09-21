@@ -71,7 +71,10 @@ creació.**
 
 ## Buits registrats
 
-1. **El text complet de la Llei del 23 de desembre del 1986.**
+1. ~~**El text complet de la Llei del 23 de desembre del 1986.**~~ — **`resolt`
+   el 21-09-2026**: el [Portal jurídic del Principat d'Andorra](../../../raw/web/societat/sanitat/saas-llei-1986/README.md)
+   en conserva el text complet, inclosos els capítols sobre funcions,
+   competències, òrgans, unitats organitzatives i recursos.
 2. **Com era la sanitat pública abans del SAAS**, entre el 1934 (Consell
    Sanitari) i el 1986.
 3. **L'evolució pressupostària i d'efectius des del 1986.**
