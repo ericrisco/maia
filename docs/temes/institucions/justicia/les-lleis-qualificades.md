@@ -202,8 +202,11 @@ però **el gruix del contingut és de fa quinze anys**: coherent amb el fet que
   per comprar vots** amb diners, espècies o promeses de feina; **fins a un any
   per atemptar contra el secret del vot**; **multa de fins a 500.000 pessetes**
   per la resta.
-- **No s'ha comprovat cap votació real.** Que la regla existeixi no diu com s'ha
-  aplicat ni si alguna llei qualificada ha decaigut per no arribar-hi.
+- ~~**No s'ha comprovat cap votació real.** Que la regla existeixi no diu com s'ha
+  aplicat ni si alguna llei qualificada ha decaigut per no arribar-hi.~~ —
+  **`parcial` el 21-09-2026**: el corpus té la regla constitucional i l’inventari
+  de matèries, però **no ha revisat cap Diari de Sessions per comprovar vots o
+  intents fallits**.
 
 ## Related
 

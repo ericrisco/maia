@@ -113,8 +113,10 @@ el moll de l'os del model de dades
 
 ## El que falta
 
-- **L'inventari sencer**, buidat unitat a unitat. Aquesta fitxa n'ha vist ~140 de
-  **5.859**.
+- ~~**L'inventari sencer**, buidat unitat a unitat. Aquesta fitxa n'ha vist ~140 de
+  **5.859**.~~ — **`parcial` el 21-09-2026**: el corpus ha revisat aproximadament
+  **140 de les 5.859 peces** i en té la signatura del fons, però **no disposa
+  encara del buidatge unitat per unitat**.
 - ~~Les **condicions de consulta i reproducció** del fons.~~ — **`resolt` el 21-09-2026**: la fitxa oficial de l’**Arxiu de les Set Claus (AD ANA, ASC)** ([captura de l’Arxiu Nacional](../../../raw/web/institucions/patrimoni-institucional/arxiu-set-claus-4673670.html)) publica **accés restringit (50 anys)** i **reproducció restringida (50 anys)**.
 - ~~Si hi ha **transcripcions** ja fetes, i de quins volums.~~ — **`parcial` el 21-09-2026**: el corpus identifica com a mínim tres volums del fons amb edició o transcripció publicada: **el Llibre de la Terra (ASC 34087)**, transcrit i publicat per Ignasi J. Baiges el **1997**; el **Politar andorrà**, en edició diplomàtica de **2015**; i el **Manual Digest**, amb edició diplomàtica dels anys vuitanta ([les tres fases de la historiografia](../../historia/historiografia/les-tres-fases.md)). La fitxa oficial del fons confirma que tots tres són entre els 39 llibres manuscrits, però encara no hi ha el buidatge complet de transcripcions per a tot el fons.
 - ~~Si n'hi ha de **digitalitzades** i accessibles — l'Arxiu Nacional té **catorze

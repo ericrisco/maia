@@ -292,9 +292,12 @@ sí.**
    **en custòdia amb guardes de la terra, a despeses de qui l'ha requerida**.
    **Detenien per a altri i no lliuraven a ningú.**
    **El corpus té la norma i cap cas.**
-6. **Si el Vicari General d'Urgell conserva causes de seducció andorranes.**
+6. ~~**Si el Vicari General d'Urgell conserva causes de seducció andorranes.**
    **Prioritari**: **és una jurisdicció sencera sobre matèria andorrana de la qual
-   el corpus no té ni un sol expedient.** `Requereix l'Arxiu Diocesà d'Urgell.`
+   el corpus no té ni un sol expedient.** `Requereix l'Arxiu Diocesà d'Urgell.`~~ —
+   **`parcial` el 21-09-2026**: la fitxa delimita la jurisdicció eclesiàstica i
+   la matèria, però **no hi ha cap expedient localitzat**; cal consultar l’Arxiu
+   Diocesà d’Urgell.
 7. ~~**Què vol dir «*averia de carrey*»**~~ — **`resolt` el 16-09-2026**
    ([DCVB](../../../fonts/dcvb.md)). **`averia`** hi és com a **«bèstia de
    treball, sia cavallina, sia bovina»**, i també com a «animal de peu rodó» i
@@ -304,7 +307,7 @@ sí.**
    **dues funcions, no dues espècies.** **El mateix animal podia fer les dues
    coses**, i **el que la *Instructa* protegeix són les dues funcions alhora**,
    no un nombre de caps.
-   **Segueix obert si la distinció es mantenia sempre**, que és la segona meitat
+   **El residu és si la distinció es mantenia sempre**, que és la segona meitat
    de la pregunta: **el corpus té una sola atestació de la parella de termes** i
    **no pot dir si algun acte n'embarga una i deixa l'altra.**
 8. ~~**Si el manuscrit de M. Palmitjavila tracta els mateixos punts.**~~ —

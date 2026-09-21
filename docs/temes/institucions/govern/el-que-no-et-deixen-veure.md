@@ -188,9 +188,11 @@ consten, o no existeixen o no s'han publicat.`
 
 ## Buits registrats
 
-- **Quantes sol·licituds d'accés es deneguen** i per quina lletra de l'article
+- ~~**Quantes sol·licituds d'accés es deneguen** i per quina lletra de l'article
   11, no consta: el registre de consultes existeix per llei, els seus números no
-  són al recull.
+  són al recull.~~ — **`parcial` el 21-09-2026**: la llei obliga a mantenir un
+  registre de consultes, però **el recull local no conté les xifres ni el
+  desglossament de denegacions per l’article 11**; cal el registre d’execució.
 - ~~**Si s'ha declarat mai informació reservada d'Estat**, i quanta, tampoc.~~ —
   **`parcial`, confirmat el 2026-09-14**: és el mateix buit escrit dues vegades;
   **[la llei de transparència](./la-llei-de-transparencia.md) el declara amb les

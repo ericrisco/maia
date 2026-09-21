@@ -280,8 +280,11 @@ ni al Vaticà.**
   **El que segueix obert és només el número**: `Requereix el text de
   l'Ordinació número 3 de Foment del 25 de juny de 1976, que és anterior al
   BOPA i diria quin percentatge exacte podia posseir un estranger.`
-- **La bibliografia internacional sobre microestats**, que aquesta és l'única
-  font que el corpus té que la nomeni:
+- ~~**La bibliografia internacional sobre microestats**, que aquesta és l'única
+  font que el corpus té que la nomeni:~~ — **`parcial` el 21-09-2026**: la
+  ponència enumera referències comparatives de microestats, però **el corpus
+  encara no les ha incorporat ni n’ha comprovat les dades bibliogràfiques
+  completes**:
   - **Armstrong & Read** (1998, 2000) — economia comparada de microestats.
   - **Baldacchino** (1993, 2008, 2012) — estratègies de jurisdiccions petites.
   - **Eccardt (2005)**, *Secrets of the Seven Smallest States of Europe*.

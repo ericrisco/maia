@@ -192,8 +192,11 @@ Consell Superior de la Justícia** i **les esmenta a l'informe anual** (art. 13)
   per un avís de convocatòria de candidats del 25-10-2023. **Qui exercia el
   càrrec abans del 2024 segueix sense confirmar-se** amb una font primària
   d'aquest tipus.
-- **Quantes queixes rep i contra qui**, tampoc; ni si l'informe anual ha arribat
-  a assenyalar mai un vici d'inconstitucionalitat.
+- ~~**Quantes queixes rep i contra qui**, tampoc; ni si l'informe anual ha arribat
+  a assenyalar mai un vici d'inconstitucionalitat.~~ — **`parcial` el
+  21-09-2026**: la fitxa documenta les competències legals del Raonador, però
+  **no hi ha al corpus les memòries anuals amb el recompte de queixes, els
+  organismes afectats o eventuals retrets d’inconstitucionalitat**.
 - ~~**Si ha actuat mai com a *amicus curiae***, no consta. **Cercat el
   18-09-2026** al [BOPA](../../../fonts/bopa.md) per la frase exacta: només hi
   surt la llei que li'n dona la potestat (article 3.1.d), cap acte concret

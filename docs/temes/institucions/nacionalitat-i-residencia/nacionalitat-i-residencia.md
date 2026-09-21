@@ -144,8 +144,11 @@ naturalitzacions i el corpus no ho pot separar.`
   pes.~~ — **`resolt` el 18-09-2026** amb l'API del Departament d'Estadística
   (`docs/raw/estadistica-api/poblacio/`, divisió **1106**, **2010-2025**), a
   [La sèrie](#la-serie-i-el-pes-de-cada-nacionalitat).
-- El debat polític sobre escurçar els vint anys, i la ponència de la
-  *Diada andorrana a la UCE* dedicada a la nacionalitat, publicada per l'IEC.
+- ~~El debat polític sobre escurçar els vint anys, i la ponència de la
+  *Diada andorrana a la UCE* dedicada a la nacionalitat, publicada per l'IEC.~~ —
+  **`parcial` el 21-09-2026**: la fitxa documenta el règim vigent de vint anys,
+  però **no hi ha al corpus les actes del debat ni la ponència de la Diada
+  publicada per l’IEC**.
 - ~~La doble nacionalitat: cal verificar-ho.~~ **VERIFICAT, i no és una llei: és
   la Constitució.** Article **7.2**: «**L'adquisició o el manteniment d'una
   nacionalitat diferent de l'andorrana implicarà la pèrdua d'aquesta** en els

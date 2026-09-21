@@ -332,8 +332,10 @@ en conserva còpia — vegeu
   estranger** per conveni internacional (art. 17.3). **El buit real, i segueix
   obert, és un altre**: **quantes persones hi ha, en quin règim i per quant
   temps.**
-- **Les 28 versions no s'han comparat.** Saber què ha canviat del Codi del 2005
-  al d'avui demanaria llegir-ne els diffs, i això no s'ha fet.
+- ~~**Les 28 versions no s'han comparat.** Saber què ha canviat del Codi del 2005
+  al d'avui demanaria llegir-ne els diffs, i això no s'ha fet.~~ — **`parcial` el
+  21-09-2026**: la fitxa contrasta el text vigent i les penes aplicades, però
+  **no s’ha construït el diff complet de les 28 versions del Codi des de 2005**.
 - ~~**El llibre segon, amb els delictes concrets, queda per llegir.** Aquesta
   fitxa cobreix la part general: qui respon i com es castiga, no de què.~~ —
   **`parcial` el 18-09-2026**: **s'han llegit els articles que apareixen a

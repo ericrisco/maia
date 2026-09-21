@@ -189,8 +189,11 @@ nacionals** en l'altra.
   de quina casa eren els fills.** `El que segueix obert és el dret andorrà: cap
   dels dos diccionaris no diu què hi afegeix Andorra, i per què importava que
   ho fos la mare** ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md))**.`
-- La **26a Diada Andorrana**, dedicada íntegrament a **la nacionalitat
-  andorrana** ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).
+- ~~La **26a Diada Andorrana**, dedicada íntegrament a **la nacionalitat
+  andorrana** ([les Diades](../../historia/historiografia/les-diades-andorranes.md)).~~ —
+  **`parcial` el 21-09-2026**: la fitxa de [les Diades](../../historia/historiografia/les-diades-andorranes.md)
+  n’identifica el número i el tema, però **les ponències de la 26a edició encara
+  no són al corpus**.
 - Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat
   andorrana, present i futur*~~ **LLEGIDA** —
   [el Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)—;

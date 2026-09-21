@@ -200,9 +200,11 @@ Vives i Sicília](../../persones/joan-enric-vives.md)** i
   dels coprínceps i càrrecs afins, **d'acord amb l'article 48 de la
   Constitució**
   ([font](../../../fonts/llei-nacionalitat-1995-article14.md)).
-- **Quantes vegades el copríncep francès va deixar de designar veguer**, i
+- ~~**Quantes vegades el copríncep francès va deixar de designar veguer**, i
   **quins noms hi va posar el Consell General provisionalment.** **És un buit
-  molt concret i diria molt.**
+  molt concret i diria molt.**~~ — **`parcial` el 21-09-2026**: el règim de
+  designació dels veguers és documentat a la fitxa, però **el corpus no té una
+  sèrie de vacants ni els noms dels substituts provisionals**.
 - ~~**Charles Romeu**: qui era, quan va ser veguer, què hi va fer. **El corpus
   només té el seu nom i que era de Prada.**~~ — **`resolt` el 18-09-2026**:
   **ara té fitxa**, a [persones/charles-romeu](../../persones/charles-romeu.md)

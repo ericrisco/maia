@@ -405,7 +405,9 @@ d'un sol proveïdor.**
    (30.6).~~ `resolt` el 17-09-2026: **Decret 38/2026, del 4 de febrer del 2026,
    d'aprovació del Reglament de la Llei de contractació pública** — vegeu
    [El reglament que obliga a dir per quina lletra](#el-reglament-que-obliga-a-dir-per-quina-lletra).
-5. **Els altres 129 articles** d'aquesta llei.
+5. ~~**Els altres 129 articles** d'aquesta llei.~~ — **`parcial` el 21-09-2026**:
+   la fitxa ha buidat els articles que afecten la contractació directa; **els
+   altres 129 articles del text legal encara no s’han comparat**.
 6. ~~**Si hi ha hagut litigi** sobre l'article 30.~~ — **`parcial` el 18-09-2026:
    litigi no en consta cap, control parlamentari sí.** **El Butlletí del Consell
    General 61/2026 publica una pregunta amb resposta oral i declaració

@@ -221,9 +221,12 @@ exclusiva permanent, hi ha retribució per activitat.
   Constitució**. **La matèria és el nom del matrimoni**, i és a
   [casar-se a Andorra](../../societat/familia/casar-se-a-andorra.md).
   **La resta de disposicions impugnades es declaren conformes.**
-- **Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
+- ~~**Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
   [l'ordenament jurídic avui](lordenament-juridic-avui.md) deixava oberta
-  precisament la pregunta de què passa quan un copríncep no sanciona.
+  precisament la pregunta de què passa quan un copríncep no sanciona.~~ —
+  **`parcial` el 21-09-2026**: la Constitució i la fitxa de l’ordenament en
+  descriuen la funció, però **no s’ha localitzat cap expedient que documenti un
+  ús efectiu del dictamen ni el cas d’una no-sanció**.
 - ~~**Si el Raonador ha assenyalat mai un vici d'inconstitucionalitat** al seu
   informe anual, com li mana la seva llei
   ([el Raonador](../govern/el-raonador-del-ciutada.md)), segueix sense saber-se.

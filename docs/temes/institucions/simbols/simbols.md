@@ -46,7 +46,10 @@ el lema la nomena.
   figura.~~ **TANCAT**, amb la descripció de la pedra del portal de la Casa de la
   Vall feta el 1904: [l'escut](./lescut.md). Amb l'avís que l'atribució dels pals
   **no s'ha pogut contrastar** amb el blasó oficial d'avui.
-- L'origen i la datació del lema.
+- ~~L'origen i la datació del lema.~~ — **`parcial` el 21-09-2026**: el lema
+  **Virtus Unita Fortior** és documentat com a part de l’escut, però **el corpus
+  encara no ha localitzat la primera aparició ni una datació segura del seu ús
+  oficial**.
 
 **Buit registrat.** Aquesta branca **ja té tres fitxes de quatre**: l'himne,
 la bandera i l'escut; el lema encara no té fitxa pròpia.

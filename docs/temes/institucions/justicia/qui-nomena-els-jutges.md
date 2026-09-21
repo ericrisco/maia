@@ -131,8 +131,11 @@ temporals o descarregar sales, amb **la mateixa consideració que les ordinàrie
   aquest buit**: el cos inclou personal administratiu i de secretaria, no
   només batlles i magistrats amb potestat jurisdiccional. **Quants d'aquests
   129 exerceixen de jutge, encara no consta.**
-- **Quants magistrats són de nacionalitat espanyola o francesa** avui, tampoc:
-  és la xifra que diria si la transitòria segona és residual o estructural.
+- ~~**Quants magistrats són de nacionalitat espanyola o francesa** avui, tampoc:
+  és la xifra que diria si la transitòria segona és residual o estructural.~~ —
+  **`parcial` el 21-09-2026**: la fitxa identifica la transitòria segona i el cos
+  de justícia, però **no hi ha una taula pública al corpus amb la nacionalitat
+  individual dels magistrats**.
 - ~~**Les 22 versions no s'han comparat.** És la tercera llei més retocada del
   recull i el corpus no en té la història.~~ — **`parcial` el 17-09-2026**: **les
   tres darreres sí**, baixades del [BOPA](../../../fonts/bopa.md) amb una

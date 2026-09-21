@@ -249,11 +249,14 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
 
 ## Buits registrats
 
-1. **Què era una «casa antiga»** als efectes del Consell Obert, **i qui ho
-   decidia.** **Nou i prioritari: és el llindar del cos polític andorrà.**
+1. ~~**Què era una «casa antiga»** als efectes del Consell Obert, **i qui ho
+   decidia.** **Nou i prioritari: és el llindar del cos polític andorrà.**~~ —
+   **`parcial` el 21-09-2026**: la font defineix el llindar com **cap de casa d’una
+   casa antiga que representi un *foch* o llar**, però **no explica quin criteri
+   feia antiga una casa ni quin òrgan ho resolia**.
 2. ~~**Si la Reforma de 1866 va abolir el Consell Obert**, **i amb quin article.**~~
    **`parcial`: la font només afirma «al menos parcialmente» i no cita cap
-   article; l'abast exacte continua obert.
+   article; l'abast exacte encara no consta.
 3. ~~**L'acord de 1176 entre els homes d'Andorra i el bisbe**, sencer.~~ —
    **`TANCAT` el 15-09-2026**: és **l'apèndix B de Ríos Urruti (1920), pp.
    133-136**, en llatí i amb tres signatures d'arxiu ([de cada casa, un home ben armat](../../historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)).
@@ -271,12 +274,20 @@ actos que tienen inmediata transcendencia jurídica para ellos*»**:
    text de ciutadania**. Aquest text és al capítol III, **p. 72**, i el seu peu
    remet a «apèndix C, 1.º»; **la funció exacta d'aquesta remissió no queda
    demostrada i no s'hi atribueix cap contingut que l'apèndix no tingui**.
-5. **Qui era José de Riba**, veguer episcopal, **i què se n'ha fet, de l'original
-   del Manual Digest que guardava a Ordino.** **Prioritari.**
-6. **Si el *prohijamiento* del Comú té text normatiu**, o **és pràctica.** **La
-   font ho sap de boca del veguer episcopal.**
-7. **Quantes vegades es va negar la ciutadania per menyspreu o indiferència.**
-   **El corpus té la regla i cap cas.**
+5. ~~**Qui era José de Riba**, veguer episcopal, **i què se n'ha fet, de l'original
+   del Manual Digest que guardava a Ordino.** **Prioritari.**~~ — **`parcial` el
+   21-09-2026**: el testimoni de 1918 identifica **José de Riba com el veguer
+   episcopal** i situa l’original del *Manual Digest* a casa seva a Ordino. **No
+   consta encara una biografia del veguer ni la localització actual de l’original.**
+6. ~~**Si el *prohijamiento* del Comú té text normatiu**, o **és pràctica.** **La
+   font ho sap de boca del veguer episcopal.**~~ — **`parcial` el 21-09-2026**: la
+   font de 1918 en registra l’existència com a pràctica explicada pel veguer
+   episcopal. **No hi ha al corpus el text normatiu que permeti decidir si era una
+   regla escrita o un ús del Comú.**
+7. ~~**Quantes vegades es va negar la ciutadania per menyspreu o indiferència.**
+   **El corpus té la regla i cap cas.**~~ — **`parcial` el 21-09-2026**: la regla de
+   conducta i el paper del Comú ja són documentats; **no s’ha localitzat cap
+   expedient o sèrie que permeti comptar denegacions per aquest motiu.**
 8. ~~**Les prohibicions del Politar, p. 277**, que la font cita com a mostra de
    la «tendència patrícia».~~ — **`resolt` el 18-09-2026, i són quatre punts
    numerats, del 13è al 16è.**

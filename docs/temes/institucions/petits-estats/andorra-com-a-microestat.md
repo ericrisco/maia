@@ -299,7 +299,9 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 - ~~***De l'Empordanet a Andorra***, de **Josep Pla**: el corpus en té tres
   línies citades de segona mà.~~ **[parcial · 2026-09-19]** El títol, l'autor i
   les tres línies citades ja consten; falta llegir la font directament.
-- **Com ha anat la partida** des del 2015.
+- ~~**Com ha anat la partida** des del 2015.~~ — **`parcial` el 21-09-2026**: la
+  fitxa compara la situació documentada fins al 2015, però **no ha incorporat
+  encara una sèrie posterior de resultats i indicadors dels petits estats**.
 
 ## Related
 

@@ -300,7 +300,7 @@ parroquia»**.
    confirma el contrast de **6.000 segells espanyols** importats el 1895, però
    l’article de Lang-Valchs encara no és al corpus i no permet comprovar quins
    assaigs es van arribar a emetre ni si mai van circular.
-3. **El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.
+3. ~~**El cataclisme** a les valls veïnes, i l'estat dels boscos andorrans el 1904.~~ — **`parcial` el 21-09-2026**: la font de 1904 permet situar el problema en el context de la recaptació i dels boscos, però **no descriu cap cataclisme concret ni ofereix un inventari forestal andorrà**; cal una font ambiental o històrica específica.
 4. ~~**Quant rendia el llot**, i amb quina freqüència s'enviava.~~ — **`parcial`**:
    el 1918 es fa **«a menudo… cuando no bastan estos ingresos normales»**, és a
    dir **quan cal**, no amb periodicitat fixa. **La xifra segueix sense

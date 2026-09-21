@@ -106,13 +106,16 @@ fet tal com surt del BOPA.
 - ~~**El Tribunal de Comptes**: citat de passada al corpus, sense fitxa
   pròpia.~~ — **`resolt` el 18-09-2026**: aquesta fitxa, a partir de la
   Llei del 2000 i quatre edictes de designació (2000-2021).
-- **La llista dels seus informes anuals segueix sense localitzar-se.** La
+- ~~**La llista dels seus informes anuals segueix sense localitzar-se.** La
   Llei obliga el Tribunal a elevar cada any al Consell General una memòria
   d'activitats, l'informe de liquidació de pressupostos i, en anys
   electorals, un informe de fiscalització electoral (article 3), però el
   corpus no ha trobat cap d'aquests informes publicats ni un índex que en
   permeti saber el volum. `Requereix font externa: web del Tribunal de
-  Comptes o publicacions del Consell General.`
+  Comptes o publicacions del Consell General.`~~ — **`parcial` el 21-09-2026**:
+  l’article 3 fixa quins informes s’han de presentar, però **el corpus encara
+  no té la sèrie anual ni un índex de publicació**; requereix consultar el
+  Tribunal de Comptes o el Consell General.
 - ~~**El buit de nou anys entre el 2006 i el 2015**~~ — **`parcial` el
   20-09-2026**: els edictes conservats fixen la seqüència de designacions en
   **11-10-2000, 27-10-2006, 22-10-2015 i 14-10-2021**; l'article 22.4 del text

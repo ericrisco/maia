@@ -260,8 +260,10 @@ dividit en parts iguals** llevat que es provi el contrari (7.4).
   [El salari mínim, de 362 pessetes a 9,05 euros](../../societat/treball/el-salari-minim-de-362-pessetes-a-9-euros.md).
   **El mínim inembargable de l'article 8 és, doncs, una xifra que canvia cada
   gener** —i el 2026, dues vegades.
-- **Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
-  consta.
+- ~~**Si la causa de «conseqüències desproporcionades» s'ha invocat mai**, no
+  consta.~~ — **`parcial` el 21-09-2026**: la llei preveu aquesta causa
+  d’exoneració, però **el corpus no ha localitzat cap resolució que en documenti
+  l’aplicació efectiva**.
 - ~~**L'antecedent històric ja és al corpus des del 14-09-2026, i no és una
   metàfora.**~~ — **`parcial` el 19-09-2026**: abans del saig, qui posava algú en possessió d'una finca era **el
   batlle, amb el cos**: entrava a la finca, agafava la persona per la mà dreta,

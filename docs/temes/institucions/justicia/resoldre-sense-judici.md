@@ -204,7 +204,10 @@ matèria penal» (article 1). En un estat encaixat entre dues jurisdiccions gran
   **I la sanció per no pagar és processal, no econòmica**: si no s'adjunta el
   justificant, **el secretari judicial requereix esmena en deu dies hàbils** i,
   si no s'esmena, **l'escrit s'inadmet** (art. 6).
-- **Quants procediments de mediació i d'arbitratge hi ha**, no consta.
+- ~~**Quants procediments de mediació i d'arbitratge hi ha**, no consta.~~ —
+  **`parcial` el 21-09-2026**: la normativa i les institucions de mediació i
+  arbitratge ja són identificades, però **el corpus no té la sèrie estadística
+  de procediments iniciats o resolts**.
 - ~~**La cooperació judicial**~~ — **`parcial` el 19-09-2026**: només s'ha
   llegit el seu article primer; les condicions concretes de l'ajuda,
   l'extradició i el reconeixement de resolucions estrangeres **queden

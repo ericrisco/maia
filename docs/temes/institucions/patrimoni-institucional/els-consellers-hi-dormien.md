@@ -186,8 +186,9 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
    celebrar els Consells, que hi vivien i que les despeses eren **a càrrec del
    Consell General**. Encara no hi ha una sèrie que fixi des de quan i fins quan
    es va mantenir la pràctica ni el seu cost.
-3. **Un acte del Consell Obert on un cap de casa en demani la convocatòria**,
-   que és el que confirmaria la lectura del dipòsit com a residu.
+3. ~~**Un acte del Consell Obert on un cap de casa en demani la convocatòria**,
+   que és el que confirmaria la lectura del dipòsit com a residu.~~ — **`parcial` el
+   21-09-2026**: les fitxes de [cap de casa, però de casa antiga](../consell-general/cap-de-casa-pero-de-casa-antiga.md) i [vuitanta pessetes](../consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md) documenten el Consell Obert i el dipòsit per convocar el Consell General. **No hi ha al corpus l’acte concret d’un cap de casa que faci aquesta petició**, de manera que la lectura com a residu continua sent una interpretació de la font.
 4. ~~**Si el mer i mixt imperi és dels senyors o dels veguers.**~~ — **`parcial`
    el 20-09-2026**: aquesta font diu que correspon als **senyors** segons els
    Pariatges i descriu els veguers com a exercici delegat, mentre el *Politar*
@@ -198,7 +199,8 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
    20-09-2026**: la fitxa ja identifica el **vicarius** com a antecedent del
    veguer i resumeix que la llei de Recesvint li atribueix **funció judicial**.
    **El text exacte de l'edició citada (4.II.1.25) encara no és al corpus.**
-6. **El *Llibre de la Cadena* de Peralada**, citat per comparació. **Nou.**
+6. ~~**El *Llibre de la Cadena* de Peralada**, citat per comparació. **Nou.**~~ — **`parcial` el
+   21-09-2026**: la font de 1918 identifica el *Llibre de la Cadena* com a exemple de senyoriu on els senyors designen els jutges. **El volum i el passatge comparatiu encara no són al corpus**, així que no se’n pot comprovar el context ni la formulació exacta.
 
 ## Related
 
