@@ -68,7 +68,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Els seus partits amb la selecció** i ~~on juga ara~~. — **`parcial` el
+- ~~**Els seus partits amb la selecció** i **on juga ara**.~~ — **`parcial` el
   2026-09-18**: **on juga sí que se sap.** **És jugador del
   [FC Andorra](./clubs-i-competicions/fc-andorra.md) i està cedit a la UD
   Logroñés fins al 30 de juny del 2027**, segons la plantilla del club
