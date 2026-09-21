@@ -323,8 +323,10 @@ no arbitrat.`
 **Tres versions del privilegi del cot**, amb **dos bisbes diferents** i **dues
 dates**, i **cap font no en dona la signatura.**
 
-**No consta què és un `fallit`** en el sentit que li dona el *cot de fallits*.
-**El corpus no ho dedueix.**
+~~**No consta què és un `fallit`** en el sentit que li dona el *cot de fallits*.
+**El corpus no ho dedueix.**~~ — **`resolt` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+defineix el *fallit* com qui no compareix al judici i el *cot de fallits* com
+la pena per faltar a una manobra o a una missa de devoció manades.
 
 **No consta cap cot imposat.** **El corpus té el sistema sencer** —quatre
 graus, criteri de graduació, via d'apel·lació— **i cap cas amb import.**
