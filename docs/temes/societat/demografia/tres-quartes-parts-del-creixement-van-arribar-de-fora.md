@@ -241,9 +241,7 @@ d'aquests dos passaports de la que n'entra**. Els que sostenen el saldo són
   **`parcial` el 2026-09-20**: el quinquenni registra un saldo de **−711**,
   l'únic negatiu de la sèrie, però ni el llibre ni el corpus n'identifiquen la
   causa.
-- **La cel·la «augment 2004».** El corpus **no la corregeix** i **no sap** si
-  l'error és a l'augment o a alguna de les poblacions. **Les dues comprovacions
-  apunten a l'augment**, i això és tot el que se'n pot dir.
+- ~~**La cel·la «augment 2004».**~~ — **`parcial` el 21-09-2026**: les dues comprovacions internes de la taula apunten que l'error és a la cel·la de l'augment i no a les poblacions, però el corpus no pot reconstruir el valor correcte sense la font original.
 - ~~**La sèrie és quinquennal fins al 1995 i després salta a 2000, 2004 i 2007.**
   **Els anys intermedis no hi són**, i el corpus **no pot situar en quin any
   concret es va girar el saldo migratori.**~~ — **`resolt` el 18-09-2026**:

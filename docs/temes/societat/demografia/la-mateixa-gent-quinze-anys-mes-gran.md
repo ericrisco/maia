@@ -180,7 +180,7 @@ quantes criatures tenen avui passaport portuguès.`
   **La font permet, doncs, construir la piràmide parroquial completa**; el
   corpus només en deixa aquí el resum de 2025 i no ha generat encara la
   visualització ni la sèrie interpretada any per any.
-- **Els anys anteriors al 2010.** `serie_estadistica`
+- ~~**Els anys anteriors al 2010.**~~ — **`parcial` el 21-09-2026**: la sèrie per parròquia, edat i sexe que conserva el catàleg d'Estadística cobreix **2010–2025**, però el corpus no té una sèrie equivalent per als anys anteriors.
 - ~~**Per què la generació del 1972 és la més nombrosa**: **què va passar a
   Andorra aquell any, o qui va arribar després amb aquella edat.**~~ —
   **`parcial` el 2026-09-20**: la cohort és el pic de la piràmide i passa de
