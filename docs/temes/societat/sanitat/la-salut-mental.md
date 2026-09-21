@@ -172,7 +172,12 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   parapública creada per la Llei del 23 de desembre del 1986**
   ([font](../../../fonts/saas-ad-historia.md)).
 - **Què hi havia abans del 1998**: on s'atenien els malalts mentals andorrans.
-- **El pla de salut mental** anunciat el 2020: si es va aprovar i què diu.
+- ~~**El pla de salut mental** anunciat el 2020: si es va aprovar i què diu.~~ —
+  **`parcial` el 21-09-2026**: el Govern va aprovar el **Pla integral de salut
+  mental i addiccions (PISMA) el 21 de febrer de 2022**, amb una estratègia
+  **2021–2030**. La pàgina oficial en conserva la presentació i el document
+  complet, però aquesta còpia no n'ha extret encara les accions ni el grau
+  d'execució ([font local](../../../raw/web/societat/salut-mental/README.md)).
 - **Xifres**: quants professionals, quants pacients, quins recursos.
 - ~~**Si hi ha unitat d'internament** al país o si els casos greus es deriven.~~
   — **`resolt` el 18-09-2026**: **es deriven, al centre Sant Joan de Déu
