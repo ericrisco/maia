@@ -159,11 +159,14 @@ i només reprodueix el català a partir del ritu. **Tot el que aquesta fitxa en 
 abans de «Per so ha passat dit honorable Batlle» és resum de l'editor, no text de
 l'acte.**
 
-**No consta què és exactament una `fillola`** en aquest context. El corpus
+~~**No consta què és exactament una `fillola`** en aquest context. El corpus
 entén, pel text, que són **pedres que acompanyen la fita i en confirmen la
 posició**, i **no ho pot sostenir amb cap diccionari ni amb cap altra font**.
 `Requereix comprovació lexicogràfica.` **El mot no és al
-[glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).**
+[glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).**~~ — **`parcial` el 21-09-2026**: la lectura de l'acte de 14 de juny de 1783 permet
+acotar que les *fillolas* són **pedres petites que acompanyen la fita i en
+confirmen la posició**; encara no hi ha una confirmació lexicogràfica ni una
+segona font.
 
 > **Ampliat el 22-09-2026: el ritu és vuitanta anys més antic del que aquesta
 > fitxa tenia.** **Un acte del 18 d'abril de 1472** *(Brutails, p. 298, nota 1)*
