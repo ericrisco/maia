@@ -260,9 +260,10 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
 
 ## Buits registrats
 
-1. **El text original del Pariatge**, **en llatí.** **Segueix obert i és
-   prioritari.** **Tot el que aquesta fitxa cita és traducció francesa moderna**,
-   i **no serveix per a cap argument que depengui d'una paraula.**
+1. ~~**El text original del Pariatge**, **en llatí.**~~ — **`parcial`**: el text
+   sencer ja s'ha llegit en la traducció francesa moderna de Vilar (1904), però
+   el corpus encara no té el llatí original; per això cap citació d'aquesta fitxa
+   no serveix per a un argument que depengui d'una paraula llatina.
 2. ~~**Quants articles té el Pariatge**: **onze segons una font del corpus, tretze
    segons aquesta.**~~ — **`parcial` el 2026-09-19**: aquesta transcripció conserva
    **tretze paràgrafs (§ I–XIII)**, mentre que l'altra font en compta onze. El
