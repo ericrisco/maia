@@ -247,10 +247,11 @@ paràgraf**: **ni si hi havia norma, ni acord entre parròquies, ni destinació.
 **És testimoni d'un observador, no una font normativa.**
 
 ~~No consta qui era `Monsieur Romeu, viguier de France`, ni els anys del seu
-mandat.~~ — **`parcial` el 21-09-2026**: el corpus conserva una altra referència
-a [Ch. Romeu, *viguier d'Andorre*](../../institucions/justicia/els-mateixos-tretze-dies-dues-explicacions.md),
-en un article de *Tour du Monde* de 1897; no prova que sigui el mateix que
-«Monsieur Romeu, viguier de France» ni dona els anys del seu mandat.
+mandat.~~ — **`resolt` el 21-09-2026**: la [fitxa de Charles
+Romeu](../../persones/charles-romeu.md) identifica el veguer francès d'Andorra,
+nomenat el **15-03-1887** i en el càrrec fins a la seva mort, el **05-03-1933**.
+La consulta directa de l'article de *Tour du Monde* de 1897 continua sent un
+buit separat.
 
 **Amb això el capítol primer queda destil·lat sencer**, entre aquesta unitat, la
 de la terra i els conreus, i les quatre fitxes anteriors que en cobrien la resta.
