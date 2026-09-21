@@ -87,14 +87,18 @@ i d'origen desconegut**. **El corpus ho deixa marcat i no ho dona per resolt.**
 > conservada **amb una certa noblesa encara que com a ruïna**.»
 
 **Les Bons**, a **Encamp** — el mateix conjunt de
-[Sant Romà de les Bons](../../cultura/arquitectura/sant-roma-de-les-bons.md).
+[Sant Romà de les Bons](../../cultura/arquitectura/sant-roma-de-les-bons.md). La [Llei
+9/2003 del patrimoni cultural](../../../raw/lleis/bopa/llei-9-2003-patrimoni-cultural.txt)
+la inscriu com a **«Torre dels Moros (Castell de les Bons)»**, dins la llista de
+**monuments** de la parròquia d'Encamp. La norma confirma la identitat patrimonial
+de la torre, però no en dona ni la datació ni la funció original.
 
 ## Buits registrats
 
 1. **El castell del puig d'Enclar**: excavacions, restes, què se'n sap.
    **Prioritari** — és un jaciment amb data de demolició documentada.
 2. ~~**La clàusula del segon Pareatge** que el mana enderrocar. **Text literal.**~~ — **`parcial` el 21-09-2026**: el corpus identifica l'ordre d'enderroc del castell d'Enclar i conserva la definició de la *rendableté* —lliurar les places fortes en pau i guerra—, però encara no té la transcripció literal de la disposició de 1288.
-3. **La Torre dels Moros de les Bons**: datació, funció.
+3. ~~**La Torre dels Moros de les Bons**: datació, funció.~~ — **`parcial` el 21-09-2026**: la Llei 9/2003 la identifica oficialment com a **«Torre dels Moros (Castell de les Bons)»** i la classifica com a monument d'Encamp; el corpus encara no té la datació ni la funció original.
 4. **Roc del Castell** i **Castellot de la Moixella**: on són.
 5. Si hi ha **altres topònims** de fortificació.
 6. **Verificar la inferència**: hi ha historiografia que expliqui l'absència de
