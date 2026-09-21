@@ -205,17 +205,17 @@ greus, **i el Govern per a les molt greus** (article 45).
   (`docs/raw/lleis/comptabilitat-empresaris.txt`, **Llei 30/2007**). `Queden els
   capítols de comptes anuals i de consolidació —articles 16 a 39—, que són
   tècnica comptable i no règim jurídic.`
-- **La competència efectiva i protecció del consumidor** (58 articles): el seu
+- ~~**La competència efectiva i protecció del consumidor** (58 articles): el seu
   **títol IV**, el que dona drets a qui compra, ja és al corpus a
-  [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).
-  ~~Els **títols II i III** —defensa de la competència, concentracions i
-  competència deslleial— **queden per llegir**.~~ — **tancat el 2026-09-13**, al
+  [comprar i reclamar](../../vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md).~~
+  **Els títols II i III** —defensa de la competència, concentracions i
+  competència deslleial— **ja estan llegits**. — **tancat el 2026-09-13**, al
   mateix article: **acords restrictius i abús de posició dominant**, el llindar
   de **«menor importància»** (10% horitzontal, 15% vertical), el **control de
   concentracions** —que només s'ha de notificar amb **≥50% de quota** i **dues
   empreses de més de 2,5 M€**—, la sanció de **fins al 3% del volum de negoci**,
-  i les **sis conductes deslleials** de l'article 19. ~~**El títol V**, el
-  procediment judicial civil.~~ — **`resolt`** amb els articles 50–58 de la
+  i les **sis conductes deslleials** de l'article 19. **El títol V**, el
+  procediment judicial civil. — **`resolt`** amb els articles 50–58 de la
   [Llei de competència efectiva i protecció del consumidor](../../../raw/lleis/competencia-consumidor.txt):
   accions declaratives, de cessació, rectificació i indemnització; legitimació
   de perjudicats, associacions i Ministeri Fiscal; prescripció de tres anys;
