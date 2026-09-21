@@ -290,17 +290,28 @@ registrar**
    de Lió, 1668, t. I, p. 245). **És l'enllaç documentat entre el dret andorrà i
    el romà.** **Prioritari.** **`no-es-buit`**: és la referència identificada i
    descrita, no una pregunta pendent.
-5. **Fins on arriba la regla que «les jurisdiccions andorranes han de seguir la
+5. ~~**Fins on arriba la regla que «les jurisdiccions andorranes han de seguir la
    llei romana»**: **la font ho diu per a la cosa jutjada i la revisió, i no com a
-   principi general.**
-6. **Els arrêts del Tribunal Superior del 28 de juliol de 1899 i del 21 de juny
+   principi general.**~~ — **`parcial`**: la fitxa en fixa l'abast en **la cosa
+   jutjada i la revisió**, i deixa clar que **no és un principi general** per a
+   totes les matèries. **La font supletòria completa i l'aplicació a altres
+   àmbits continuen obertes.**
+6. ~~**Els arrêts del Tribunal Superior del 28 de juliol de 1899 i del 21 de juny
    de 1902**, i **l'ordenança en *référé* del 24 de gener de 1900.** **Són dels
-   documents més moderns que aquest llibre cita.**
-7. **Com es concilia la «*facultat de variar de judici*» amb la regla que a la
+   documents més moderns que aquest llibre cita.**~~ — **`parcial`**: la fitxa ja
+   n'identifica **les tres dates** i el contingut: peces afegides al dossier i
+   nous caps de demanda el **1899 i 1902**, i una pensió alimentària cautelar el
+   **1900**. **Els textos íntegres i les referències d'arxiu continuen pendents.**
+7. ~~**Com es concilia la «*facultat de variar de judici*» amb la regla que a la
    rèplica i la dúplica el litigi queda definitivament assentat.** **La font no
-   les confronta.**
-8. **Quan i en quin plet va pledejar el veguer episcopal davant del Tribunal
-   Superior de Perpinyà.**
+   les confronta.**~~ — **`parcial`**: la fitxa documenta les dues regles i la
+   tensió entre elles: la facultat permet afegir nous mitjans durant el procés,
+   mentre la rèplica i la dúplica el deixen assentat. **La font no ofereix la
+   conciliació ni un cas que la resolgui.**
+8. ~~**Quan i en quin plet va pledejar el veguer episcopal davant del Tribunal
+   Superior de Perpinyà.**~~ — **`parcial`**: la fitxa confirma que **hi va
+   pledejar en una de les darreres sessions** i que no calia que l'advocat fos
+   francès. **Continuen oberts la data, el plet i la identificació de la defensa.**
 9. ~~**Si la proposta de redacció de l'autor es va arribar a adoptar.**~~ —
    **`parcial`, `estret` el 16-09-2026 i en sentit negatiu:** **el corpus ja té el
    contingut del decret modificatiu del 19 de gener de 1898**, per una segona
