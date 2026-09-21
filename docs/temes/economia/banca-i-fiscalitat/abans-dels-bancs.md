@@ -183,7 +183,7 @@ fitxa identificadora ([text local de la ponència](../../../raw/sac-diades/15a-2
 1. ~~**Els dos bancs de la Seu**: quins eren.~~ — **`no-es-buit`, confirmat el
    20-09-2026**: la font només en fixa el nombre i la localització, sense
    noms ni dades identificadores addicionals.
-2. Els **comptes del Consell General** als anys trenta: quant hi tenia.
+2. ~~Els **comptes del Consell General** als anys trenta: quant hi tenia.~~ — **`parcial` el 21-09-2026**: Cerqueda confirma que el Consell General tenia **llibretes obertes a la Seu d'Urgell «al voltant dels anys trenta»**, però la font no dona cap saldo, moviment ni extracte dels comptes.
 3. ~~La **venda a carta de gràcia** — figura jurídica esmentada també pel notari
    ([el notariat](../../institucions/justicia/el-notariat.md)). **Cap fitxa.**~~
    — **`resolt` des del 2026-09-14**:
