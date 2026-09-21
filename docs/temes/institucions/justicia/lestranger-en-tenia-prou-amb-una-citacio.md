@@ -223,13 +223,21 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    **Si hi ha requestes que s'executen sense judici, no poder apel·lar l'execució
    voldria dir no poder apel·lar-les mai.** **Queda obert quines són exactament
    aquestes requestes**: **la font en dona la categoria i no la llista.**
-3. **Els exemples de multes al batlle pel Jutge**, i **l'acord de tercera
+3. ~~**Els exemples de multes al batlle pel Jutge**, i **l'acord de tercera
    instància que reprèn els dos batlles.** **La font diu que n'hi ha i no en cita
-   cap.**
-4. **Qui era el jutge que prohibia als batlles de prendre inventari**, i **amb
-   quin fonament.**
-5. **Si alguna d'aquestes multes es va pagar mai.** **La font diu que no ho
-   pensa** —**i ho dona com a opinió.**
+   cap.**~~ — **`parcial`**: la fitxa confirma les facultats de **multa**, pagament
+   de despeses, blasme i reprensió, i que hi havia **un acord de tercera
+   instància** contra els dos batlles. **No en dona cap exemple identificable ni
+   el text de l'acord.**
+4. ~~**Qui era el jutge que prohibia als batlles de prendre inventari**, i **amb
+   quin fonament.**~~ — **`parcial`**: la fitxa conserva que **un jutge conegut
+   per la font** prohibia als batlles, sota pena de multa, de prendre inventari.
+   **Continuen oberts el nom i el fonament jurídic.**
+5. ~~**Si alguna d'aquestes multes es va pagar mai.** **La font diu que no ho
+   pensa** —**i ho dona com a opinió.**~~ — **`parcial`**: la font expressa que
+   **no pensa que s'arribessin a pagar** i ho relaciona amb xifres sovint de
+   **500 ducats o similars**, vistes com a fórmules vanes. **No hi ha prova de
+   pagament o impagament d'una multa concreta.**
 6. **L'avantatge del *foraster* en el càlcul de les despeses**, que la font
    remet a més endavant en la mateixa obra. **Pendent de lectura.**
 7. ~~**D'on surten les 15 pessetes** de l'audiència fora de feriats: **si és
@@ -244,8 +252,10 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    de si algun andorrà hi podia accedir.**
 9. **L'Usatge *Item inviolabili*** i **la constitució catalana de 1493** sobre
    els plets d'estrangers.
-10. **Si la conciliació interrompia els terminis de debò.** **La font hi posa
-    «sembla».**
+10. ~~**Si la conciliació interrompia els terminis de debò.** **La font hi posa
+    «sembla».**~~ — **`parcial`**: la fitxa conserva que les temptatives de
+    conciliació **semblen interrompre els terminis** entre els estats successius
+    de la causa. **La font no ho afirma com a regla segura ni en dona cap cas.**
 11. **El decret del Consell General del 19 de maig de 1890** sobre les citacions
     al cap de casa resident fora del país.
 
