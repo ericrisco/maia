@@ -304,15 +304,19 @@ defensava.`
    font se'n nega a donar detalls i diu per què**: **per no informar els
    *brasseurs d'affaires*.**~~ — **`parcial` el 21-09-2026**: l’article acadèmic
    sobre dret miner ([captura de la revista](../../../raw/web/institucions/consell-general/historia-dret-mines-andorra-scielo-2006.txt)) identifica en la concessió de **1875** la prohibició de transmetre-la a un estranger i la reserva del Consell General per reclamar una part dels beneficis. **No aporta el text íntegre ni identifica encara la concessió «més recent» que la font de 1904 manté sense detallar.**
-7. **La concessió emfitèutica de Sant Julià del 21 d'abril de 1883**: **el lloc
-   és en blanc al text** («*en lo lloch nomenat ……*») i **els noms dels
-   concessionaris no els reprodueix.**
+7. ~~**La concessió emfitèutica de Sant Julià del 21 d'abril de 1883**.~~ —
+   **`parcial` el 2026-09-21**: la fitxa identifica que era una concessió minera
+   en forma de **cens emfitèutic**, aprovada pel Consell General a favor d'uns
+   concessionaris del comú de Sant Julià; el lloc i els noms queden en blanc a la
+   font ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 8. ~~**De quina font prové el document de 1366**, que és **la raó de la
    desconfiança de l'autor**.~~ — **`parcial` el 2026-09-19**, com a [el sòl
    comunal](../../territori/geografia-fisica/el-sol-comunal.md): la raó és la
    procedència, no el contingut; **la font exacta continua sense identificar-se.**
-9. **La caució que el Consell General va rebre «fa uns quinze anys»**: **de qui,
-   per què i de quant.**
+9. ~~**La caució que el Consell General va rebre «fa uns quinze anys»**.~~ —
+   **`parcial` el 2026-09-21**: la font situa el cas cap al **1889**, explica que
+   el Consell va hipotecar béns, rendes i emoluments i que part de la suma es va
+   repartir entre les parròquies; no identifica el caucionant ni la quantitat ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 10. **Si algú va impugnar mai cap d'aquestes concessions** davant de cap tribunal,
     **o si la tesi de la nul·litat es va quedar en el llibre.**
 
