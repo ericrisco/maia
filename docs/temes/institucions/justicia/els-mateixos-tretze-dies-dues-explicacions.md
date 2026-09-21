@@ -275,8 +275,8 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
 6. **Quants notables consultava un batlle** — **`obert`, sense xifra.**
 7. ~~**Si la pràctica deixava rastre.**~~ — **`resolt`**: per definició, no; la
    font diu que el consell **no pot tenir cap influència oficial.**
-8. **Si l'absència de formalitat de publicació de les subhastes va donar mai
-   problemes**, i **si es va canviar.**
+8. ~~**Si l'absència de formalitat de publicació de les subhastes va donar mai
+   problemes**, i **si es va canviar.**~~ — **`parcial` el 21-09-2026**: la font explica que la venda es feia sense cartell ni publicació perquè l'hora de la sortida de missa funcionava com a convocatòria, i que l'acte de la venda era suficient per posar en possessió. El corpus encara no té cap cas de conflicte per aquesta manca de publicitat ni cap prova d'un canvi posterior.
 9. ~~**Què eren exactament les *lletres de defensa*** que el jutge enviava al batlle
    per aturar l'execució.~~ — **`resolt` el 21-09-2026**: eren **l'ordre del jutge d'apel·lacions al batlle**, un cop assabentat de l'apel·lació, per **aturar l'execució de la sentència** ([glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md), a partir de Vilar 1904, p. 98).
 
