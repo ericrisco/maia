@@ -366,8 +366,10 @@ queda com a buidatge pendent el contingut i la font del vídeo del Grup.
   no en dona ni data ni nombre de socis**: el que se'n sap és **que organitza la
   processó de ciris a Meritxell** i **que no era a la llista de l'anuari del
   2015**. `Requereix font externa.`
-- **El llibre *Portuguesos a Andorra – Una visió Global***, de l'autor mateix,
-  editat per **Andbank el 2007**. **Citat, no consultat.**
+- ~~**El llibre *Portuguesos a Andorra – Una visió Global***, de l'autor mateix,
+  editat per **Andbank el 2007**. **Citat, no consultat.**~~ — **`parcial` el
+  2026-09-21**: la fitxa en conserva el títol, l'autoria atribuïda i l'editorial
+  **Andbank**, amb data de **2007**; el llibre no s'ha localitzat ni llegit.
 - ~~**La ponència de Magda Santos i Matias** a la 20a Diada (2007), sencera.~~
   **TANCAT**: el volum s'ha recuperat per OCR i la ponència és llegida.
   **Queda obert l'estudi complet del CRES** —*A que sabe um sumol a 2.000 metros
