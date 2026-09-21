@@ -283,9 +283,12 @@ I la regla que el Consell subratlla:
    al butlletí del bisbat.`
 9. **Si la comissió del Consell dins del Tribunal de Corts va demanar mai rebaixa
    de pena**, i **si es va concedir.** **La font en dona la facultat, no cap cas.**
-10. **Si aquesta descripció del Tribunal de Corts coincideix amb la de Brutails**,
-    que el corpus té de deu anys després. **No s'han contrastat article per
-    article.**
+10. ~~**Si aquesta descripció del Tribunal de Corts coincideix amb la de Brutails**,
+    que el corpus té de deu anys després.~~ — **`parcial` el 21-09-2026**: totes
+    dues fitxes documenten que el Consell General ha de ser reunit per obrir i
+    tancar les Corts, que hi nomena una comissió de vigilància i que aquesta pot
+    demanar rebaixa de pena ([la fitxa de Brutails](../../institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md)).
+    Encara no s'han contrastat els dos textos article per article.
 
 ## Related
 
