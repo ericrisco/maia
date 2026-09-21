@@ -265,8 +265,15 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
    quèstia](../antic-regim/la-questia.md) registra el mateix dubte amb les
    mateixes paraules i es pot tancar igual.
 3. ~~***Parra*** i ***stali***.~~ — **`parcial` el 21-09-2026**: la captura d'[Herència d'Andorra](../../../raw/academic/herencia-andorra.txt) conserva la nota 28 d'Alcover-Moll: **parra** és «cadascun dels caps de bestiar dolents, que es queden a la muntanya perquè no poden seguir el ramat». El mateix text documenta els ***stalis*** com a béns comunals recuperats el **1366**, però no en dona encara una definició lèxica.
-4. **Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
-   pengin?
+4. ~~**Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
+   pengin?~~ — **`parcial` el 2026-09-21**: a més de decidir qui es queda
+   l'aprés si hi és el matí del **7 de juny**, les [actes històriques del
+   Consell General](../../../fonts/actes-historiques-consell-general.md)
+   utilitzen **el dia de Sant Bernabé** com a termini col·lectiu per tenir
+   arreglats els **camins reals, senderes, senderons, mates i aigües**, sota
+   pena del *cot de la Terra* (Llibre II, acte de **20 de març de 1674**).
+   El corpus encara no ha reunit tots els altres drets o obligacions que
+   poguessin penjar d'aquesta data.
 5. ~~Si el sistema d'**aprés** i **artiga** **va sobreviure** i fins quan.~~
    **VA SOBREVIURE, i el 1904 encara funcionava**, amb un altre nom: **les
    bohigues**, «terres comunes concedides, amb vista al conreu, a particulars»,
