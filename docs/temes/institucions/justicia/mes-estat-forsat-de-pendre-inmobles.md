@@ -321,7 +321,11 @@ llibre:**
    **El recompte de «citacions sense llegir» era erroni.** **El que quedava per
    fer —i s'ha fet— era comprovar passatge per passatge els llocs que el cos de
    l'obra en cita.** **Vegeu** [«si la part instant ho vol»](./si-la-part-instant-ho-vol.md).
-8. **Els documents de 1412, 1461 i 1635 sencers.**
+8. ~~**Els documents de 1412, 1461 i 1635 sencers.**~~ — **`parcial` el
+   21-09-2026**: la fitxa ja conserva el fragment llatí de l'acte de **1412**,
+   les fórmules de **1635** i la menció del censal de **1461** amb la renúncia
+   a la inembargabilitat del parell. El corpus encara no té la transcripció
+   íntegra dels tres documents ni les seves signatures d'arxiu.
    ~~**Qui era el pregoner públic i jurat de les Valls.**~~ — **CORRECCIÓ,
    22-09-2026: aquest buit estava mal declarat.** **La mateixa nota que el corpus
    citava dona el nom**: **Joan Teixidor**, *preco publicum et juratum Vallium
