@@ -128,6 +128,14 @@ ensenya on és la frontera:
 > ([deu dies de dret i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md)).
 > **Registrat com a paral·lel de forma, no com a identitat.**
 
+Un testimoni català independent confirma el valor temporal del mot: Manuel
+Gabriel i Forn explica que un pacte d'Oliola del **19 de febrer de 1494** tenia
+«**un any i deu dies de tinàncies**» i glossa *tinença* com el període o
+**obligació de mantenir el pacte** (pp. 388–389 i transcripció de la p. 391;
+[font comparativa](../../../fonts/ifc-ivsfugit-pactes-oliola-1494.md)). **Això
+acota *tinencies* com una extensió temporal de la treva, però no prova que la
+font andorrana de 1551 fes servir exactament la mateixa construcció jurídica.**
+
 **La sanció, que té dos pisos:**
 
 > **Primer pis**: **prometen que durant les treves i *tinencies* no faran ni
@@ -232,7 +240,11 @@ ensenya on és la frontera:
    d'arxiu**, **i els noms afegits al marge de l'original.** **Prioritari**:
    **és el formulari complet d'una institució que el corpus només tenia
    resumida.**
-2. **Què són les ***tinencies***.** `Requereix comprovació lexicogràfica.`
+2. ~~**Què són les ***tinencies***.** `Requereix comprovació lexicogràfica.`~~ —
+   **`parcial` el 21-09-2026**: l'estudi català d'Oliola (1494) defineix
+   *tinença* com l'obligació de mantenir el pacte i documenta «un any i deu dies
+   de tinàncies»; el residu és comprovar si la treva andorrana de 1551 hi dona
+   exactament el mateix abast jurídic.
    ~~**I què és *escombre* en aquest context.**~~ — **Tancat el 23-09-2026 amb una
    segona atestació independent.** **El pregó de convocatòria de Corts del **5 de
    desembre de 1606*** *(Brutails, p. 320, nota 3)* **desguia en bloc totes les
