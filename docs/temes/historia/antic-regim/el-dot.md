@@ -180,7 +180,7 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
    **4 d'abril de 1788**. Vegeu
    [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md).
    **Amb un contracte no es fa una regla**: cal sèrie.
-3. **Qui aportava què**, estadísticament: aportaven més les dones o els homes?
+3. ~~**Qui aportava què**, estadísticament: aportaven més les dones o els homes?~~ — **`parcial` el 21-09-2026**: la sèrie de Brutails reuneix **dotze dots datats entre 1470 i 1875** i documenta els dos sentits de l’aportació: dot aportat per la dona i **exovar/aixovar aportat per l’home quan ella és hereva** ([lectura de la sèrie](./segons-lo-poder-de-la-casa-a-coneixenca-dels-amics.md)). No publica un denominador homogeni ni permet calcular quina aportació era més freqüent.
 4. ~~Com funcionava **la hipoteca dotal** a la pràctica~~; **si es van executar
    mai**. **Tancat a mitges el 15-09-2026.** **Com funcionava, consta**: una
    escriptura del **19 d'octubre de 1788** mostra que **el dot no anava lligat a
