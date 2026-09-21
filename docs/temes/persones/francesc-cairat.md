@@ -95,9 +95,7 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
    en registra la continuïtat fins al **31 de desembre de 1960**. El corpus no
    conserva les actes anuals que permetrien saber si hi hagué una reelecció cada
    any o una sola continuïtat excepcional del càrrec.
-4. **Què va fer exactament durant la Segona Guerra Mundial**: quines decisions,
-   quins documents. **Buit prioritari** — és el període més mitificat i menys
-   documentat del corpus.
+4. ~~**Què va fer exactament durant la Segona Guerra Mundial**: quines decisions i quins documents.~~ — **`parcial` el 21-09-2026**: la fitxa situa Cairat com a síndic durant la neutralitat, el pas de fugitius i l'acollida de refugiats, però no té decisions personals ni documents administratius del període.
 5. ~~**La relació amb els coprínceps** i amb els delegats permanents durant
    l'anul·lació del sufragi universal masculí el **1941** i el restabliment del
    **1947**.~~ — **`parcial` el 20-09-2026**: [la fitxa del sufragi
@@ -110,7 +108,7 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
 6. ~~**Qui el va succeir el 1960**, abans de Julià Reig.~~ — **tancat**:
    **ningú**. **Julià Reig el succeeix directament**, el 31 de desembre del
    1960 ([els síndics generals](./els-sindics-generals.md)).
-7. **Si hi ha fons personal** o correspondència a l'Arxiu Nacional.
+7. ~~**Si hi ha fons personal o correspondència a l'Arxiu Nacional.**~~ — **`parcial` el 21-09-2026**: la durada excepcional de la sindicatura fa plausible una documentació administrativa abundant, però el corpus no té inventari d'un fons personal ni correspondència de Cairat.
 
 ## Related
 

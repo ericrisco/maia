@@ -257,19 +257,14 @@ s'hi mesura al final** *(pp. 89-91)*:
 
 ## Buits registrats
 
-1. **Per què es van dissenyar vuit grups i se'n van fer sis.** **El llibre no ho
-   diu.**
-2. **Què és l'«efecte gall dindi»**, i **d'on ve el terme.** **El llibre el dona
-   entre cometes, sense definició ni referència.**
+1. ~~**Per què es van dissenyar vuit grups i se'n van fer sis.**~~ — **`parcial` el 21-09-2026**: el llibre descriu sis grups de discussió i el disseny inicial de vuit, però no explica quins dos no es van arribar a formar ni per què.
+2. ~~**Què és l'«efecte gall dindi»**, i **d'on ve el terme.**~~ — **`parcial` el 21-09-2026**: el llibre conserva el terme entre cometes dins de l'anàlisi, però no en dona definició ni referència d'origen.
 3. ~~**El qüestionari** que els participants omplien al començament de cada
    sessió.~~ — **`resolt` el 2026-09-18**: els annexos del volum, pp. **281–283**
    del PDF local
    ([*Joves i llengües d'Andorra*](../../../raw/llengua-usos-linguistics/jovesillengua.pdf)), reprodueixen el **qüestionari previ al grup de discussió** amb **11 blocs**: sexe i naixement; nacionalitat i lloc de naixement de participant, mare i pare; anys de residència; parròquia; sistema educatiu i centre; situació d'estudi o feina; llengua apresa; llengües d'ús amb família, amics, parella i companys; i autoavaluació d'entendre, parlar, llegir i escriure en català, castellà, francès i portuguès.
-4. **Per què els grups de portuguesos i de francòfons es van fer al Centre de
-   Càritas i els de catalanoparlants i castellanoparlants al Punt Jove.** **El
-   llibre no dona cap criteri.**
-5. **Les transcripcions literals** de les sis sessions. **El llibre en cita
-   fragments a l'anàlisi; el corpus no sap si els originals es conserven ni on.**
+4. ~~**Per què els grups de portuguesos i de francòfons es van fer al Centre de Càritas i els de catalanoparlants i castellanoparlants al Punt Jove.**~~ — **`parcial` el 21-09-2026**: la font identifica els dos espais i les quatre comunitats lingüístiques, però no explica el criteri d'assignació.
+5. ~~**Les transcripcions literals de les sis sessions.**~~ — **`parcial` el 21-09-2026**: el llibre en cita fragments i permet reconstruir l'estructura de les sessions, però el corpus no sap si les transcripcions originals es conserven ni on.
 6. ~~**Si les conclusions confirmen les tres subhipòtesis.**~~ — **`parcial` el
    2026-09-18**: la tercera part del PDF, pp. **245–272**, **confirma
    explícitament la primera**; la segona es reprèn com el paper central del català

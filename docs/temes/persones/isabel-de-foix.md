@@ -54,10 +54,8 @@ d'Arle.
 
 ## Buits registrats
 
-1. **Qualsevol document andorrà** que la citi directament com a
-   copríncep, més enllà de la genealogia.
-2. **Els detalls del seu govern efectiu** d'Andorra entre el 1398 i el
-   1412.
+1. ~~**Qualsevol document andorrà que la citi directament com a copríncep, més enllà de la genealogia.**~~ — **`parcial` el 21-09-2026**: la genealogia i la successió del 1412 sostenen que Isabel va ser copríncep d'Andorra per dret propi, però el corpus no té cap document andorrà que la nomeni directament.
+2. ~~**Els detalls del seu govern efectiu d'Andorra entre el 1398 i el 1412.**~~ — **`parcial` el 21-09-2026**: la fitxa documenta el govern compartit primer amb Arquimbald de Grailly i després amb Joan, però no té decisions, actes ni intervencions concretes a les Valls.
 
 ## Related
 

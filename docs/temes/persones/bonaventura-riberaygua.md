@@ -61,7 +61,7 @@ documentació llençada.**
    la Sindicatura, datats als **anys vint i quaranta del segle XX**, i que es
    van dipositar a l'Arxiu Nacional per a desinfecció i catalogació. Encara no
    hi ha l'inventari ni el contingut peça per peça.
-2. **Detall de la seva formació** abans d'arribar al càrrec de secretari.
+2. ~~**Detall de la seva formació abans d'arribar al càrrec de secretari.**~~ — **`parcial` el 21-09-2026**: la biografia el situa com a secretari i conserva el fons documental posterior, però no aporta estudis, mestres ni trajectòria formativa anterior.
 
 ## Related
 

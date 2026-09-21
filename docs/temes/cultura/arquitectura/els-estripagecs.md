@@ -102,8 +102,8 @@ vernacular, i el corpus no en té res més.**
 
 ## El que falta
 
-- **Quan es comencen a posar i fins quan.** **Cap font no ho data.**
-- **Si hi ha estripagecs datats o signats.**
+- ~~**Quan es comencen a posar i fins quan.**~~ — **`parcial` el 21-09-2026**: les rèpliques modernes de Sorteny i dels cims estan datades el **2015** i el **2017**, però el corpus no pot datar l'inici ni el final de l'ús tradicional dels estripagecs.**
+- ~~**Si hi ha estripagecs datats o signats.**~~ — **`parcial` el 21-09-2026**: el corpus té peces i rèpliques documentades, amb l'obra moderna de Pere Moles identificada, però no ha localitzat cap estripagec tradicional amb data o signatura.**
 - ~~**Qui els feia.**~~ — **`parcial` el 21-09-2026**: la mateixa fitxa identifica la **forja** com l'ofici que produeix els estripagecs i els relaciona amb les fargues i l'artesania. Encara no hi ha cap nom d'escloper, ferrer o taller concret.
 - ~~**El repartiment geogràfic dins Andorra.**~~ — **`no-es-buit` el 20-09-2026**: la font local declara que no el dona; el buit és una limitació explícita de l’article, no una distribució pendent de reconstruir.
 - ~~**L'escultor** de les peces de Sorteny i dels cims.~~ — **`resolt` el

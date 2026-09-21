@@ -339,10 +339,7 @@ s'arbitra.**
   obertes.**
 - **Per què el valor del 2004 passa de 48,5 a 48,6 el 2016.** **La dècima té
   edició i pàgina; no té explicació.** Cap edició no ho comenta.
-- **El total d'assalariats i els disset sectors vénen del Departament
-  d'Estadística i el corpus no té la font original**, només aquest annex.
-  **La sèrie s'acaba el 2013** i **no hi ha desglossament per nacionalitat.**
-  `Requereix font externa: el Departament d'Estadística.`
+- ~~**El total d'assalariats i els disset sectors de la sèrie.**~~ — **`parcial` el 21-09-2026**: l'annex conserva els totals i la desagregació sectorial fins al **2013**, però el corpus no té la font original del Departament d'Estadística ni el desglossament per nacionalitat.
 - **La base de la pregunta del canvi de llengua a les onades del 2018 i del
   2022.** **Cap de les dues no la imprimeix**, i la hipòtesi d'aquesta fitxa
   **es podria confirmar o desmentir amb una sola línia** d'aquells documents.
