@@ -217,18 +217,12 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
 
 ## Buits registrats
 
-1. **El paràgraf 11 de la Reforma de 1866.** — **El § 16, `resolt` el
-   18-09-2026**: **el corpus el té sencer des del 15 de setembre**
-   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)),
-   **i el que fa dels Senyors àrbitres és la seva darrera frase**: **«En
-   l'inesperat cas que neguessin dita llisencia, ***se podrá acudir al Princep
-   Soberá***.»**
-
-   **L'arbitratge del copríncep no és general: és el recurs contra una negativa
-   de llicència per demandar l'autoritat.** **La resta de l'article és un règim
-   de permisos** —cap si el deute és de particular, del síndic per citar cònsols
-   i consellers, del Consell per citar el síndic— **amb l'obligació de
-   concedir-lo quan els terminis han vençut.** `El § 11 segueix obert.`
+1. ~~**El paràgraf 11 de la Reforma de 1866.**~~ — **`parcial` el 21-09-2026**:
+   el corpus té sencer el **§16** i hi documenta el recurs al príncep contra una
+   negativa de llicència per demandar l’autoritat ([que no s'hi hagi mirat amb
+   menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)). **Això no resol el
+   §11 que encapçala aquesta entrada: el seu text complet encara no és al
+   corpus.**
 2. ~~**Les concessions de casino anul·lades pels coprínceps**: **quantes, quan, a
    qui, i amb quin acte.**~~ — **`parcial` el 19-09-2026**: [el síndic va tornar
    i es va posar al capdavant del motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md)
@@ -242,9 +236,9 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
    corpus.**~~ — **TANCAT.** **Les sis hi són**, i **la 283 conté el passatge
    criticat.**
 5. ~~**Els casos «ben recents» en què una ordre als batlles va tenir en escac el
-   Consell General.**~~ **Segueix obert** —la font no en data cap— **però deixa de
-   ser un buit solt**: ara el corpus sap **per què podia passar**, que és **que
-   els batlles els nomenen els coprínceps**. `parcial.`
+   Consell General.**~~ — **`parcial` el 21-09-2026**: la font no en data cap cas,
+   però el corpus ja documenta el mecanisme institucional: **els batlles els
+   nomenen els coprínceps**. **Continuen pendents els casos concrets i les dates.**
 6. **Si el recurs als coprínceps es va exercir mai fora de les concessions**, i
    **què va passar després del 1904** amb aquesta doctrina. `obert.`
 7. ~~**Què deia exactament el Politar a les pàgines 242, 250, 252, 275 i 280**
