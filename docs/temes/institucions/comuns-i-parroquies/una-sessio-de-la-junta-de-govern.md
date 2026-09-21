@@ -186,13 +186,15 @@ Comunal va recaptar **396 €** i cada any van a una ONG diferent. Aquest any, a
 Mans Unides.
 
 **«Les cases tenen nom.»** El Comú paga **569,53 €** per **33 il·lustracions de
-cases** per a un llibre d'aquest projecte. **El corpus no tenia notícia d'aquest
+cases** per a un llibre d'aquest projecte. ~~**El corpus no tenia notícia d'aquest
 projecte**, i el seu títol toca de ple el que ja té escrit sobre
 [la casa als papers](../../historia/antic-regim/la-casa-als-papers.md): a
 l'Andorra d'antic règim **la unitat social era la casa i la casa tenia nom**. Que
 un comú del 2025 en faci un llibre il·lustrat és **la continuïtat d'aquella idea
 convertida en política cultural**. **Buit registrat:** què és «Les cases tenen
-nom», quantes cases hi ha i qui hi treballa.
+nom», quantes cases hi ha i qui hi treballa.~~ — **`parcial` el 21-09-2026**:
+l'acta confirma el pagament i les 33 il·lustracions; encara falten el projecte
+complet, el nombre total de cases i les persones que hi treballen.
 
 ## Els diners de la sessió
 

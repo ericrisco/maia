@@ -16,7 +16,8 @@ tags: [justicia, dret, costum, dret-roma, dret-catala, identitat, font-primaria]
 [Les fonts del dret](./les-fonts-del-dret.md) donava la prelació que Pujadas
 atribueix als tribunals andorrans, i registrava tres buits: **un cas concret**
 on s'hagués aplicat dret romà o català, **el Politar** citat i no llegit, i **les
-Instructes als batlles**, de les quals el corpus no en sabia res.
+Instructes als batlles**, que la versió anterior de la fitxa encara no havia
+llegit.
 
 **Els tanca tots tres un llibre de 1904** escrit per un home que **seia al
 Tribunal Superior d'Andorra**: J.-A. Brutails, *La Coutume d'Andorre*
