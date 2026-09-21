@@ -202,7 +202,12 @@ segle XX** quan es planifiquen instituts «un per vall»
    situa Sant Ermengol com a bisbe entre **1010 i 1035** i diu que **mor en la
    construcció del Pont de Bar**; no hi consta la data exacta ni les
    circumstàncies de l'obra o de la mort.
-6. **Quins bisbes** han estat coprínceps en època contemporània.
+6. ~~**Quins bisbes** han estat coprínceps en època contemporània.~~ —
+   **`parcial`**: el corpus ja identifica **Josep Caixal i Estradé** com a
+   copríncep al segle XIX ([font local](../segle-xix/trenta-nou-anys-si-el-creditor-es-lesglesia.md))
+   i **Josep-Lluís Serrano Pentinat** com a bisbe i copríncep actual ([el
+   Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md));
+   la successió completa de l'època contemporània encara no està reunida.
 
 ## Related
 
