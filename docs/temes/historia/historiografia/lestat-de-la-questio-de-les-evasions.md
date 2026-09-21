@@ -174,7 +174,7 @@ i [la historiografia](./historiografia.md) documenten com a construcció.**
   Andorra, 1985).
 - **Assumpta Montellà**, ***Contrabandistes de la llibertat*** (Ara Llibres,
   2009).
-- **La placa de la Massana.**
+- ~~**La placa de la Massana.**~~ — **`parcial` el 21-09-2026**: la pàgina d'[Endrets](../../../raw/web/historia/evasions/massana/README.md) identifica el **Monument als Passadors** de la Massana, vinculat a l’**Hotel Palanques**, i confirma que la placa hi porta noms; hi llegeix **Antoni Forné, Alfred Vicente Conejos, Josep Mompel i Salvador Calvet**. Encara no hi consta qui va instal·lar el monument, la data exacta ni la transcripció completa de la placa.
 - **Si l'Arxiu Episcopal de la Seu d'Urgell s'ha obert des del 2015.**
 
 ## Related
