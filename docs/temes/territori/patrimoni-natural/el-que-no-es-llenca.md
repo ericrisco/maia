@@ -123,5 +123,4 @@ travessa tot el que descriu
   de desembre, de residus**, butlletí **3 del 2005**
   (`docs/raw/lleis/bopa/llei-25-2004-residus.txt`). **La norma base de la qual
   l'economia circular pren les definicions ja és al corpus.**
-- **El Pla nacional de residus** i l'**Estratègia d'economia circular** són
-  instruments, no lleis: no hi són.
+- ~~**El Pla nacional de residus** i l'**Estratègia d'economia circular** són instruments, no lleis: no hi són.~~ — **`resolt` el 21-09-2026**: el [PNR Horitzó 2035](../../../raw/web/territori/residus/pnr-enec/README.md) va ser aprovat pel Govern el **22 de desembre de 2022** i queda integrat com a **eix 3 de l'ENEC**, amb sis programes d'acció i 31 actuacions. La font confirma que són instruments estratègics derivats de la Llei 25/2022, no lleis.
