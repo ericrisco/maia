@@ -146,18 +146,37 @@ corpus.`
 
 ## Buits registrats
 
-1. **Els FinCEN Files**: consta que **tota la banca andorrana excepte Banc
-   Sabadell hi surt retratada**. **No consultat.**
-2. Què va passar amb els **treballadors** de BPA.
-3. El **cas Anacleto**, citat i no explicat.
-4. L'estat **actual** de cada causa oberta, andorrana i espanyola.
+1. ~~**Els FinCEN Files**: consta que **tota la banca andorrana excepte Banc
+   Sabadell hi surt retratada**. **No consultat.**~~ — **`parcial` el 22-09-2026**:
+   la fitxa conserva l'afirmació sobre l'abast dels *Files* i la deixa marcada
+   com a **font no consultada**; **no permet verificar quines entitats hi surten
+   ni què hi diu cadascun dels documents**.
+2. ~~Què va passar amb els **treballadors** de BPA.~~ — **`parcial` el
+   22-09-2026**: la fitxa documenta la presa de control de l'AREB, la resolució
+   i el traspàs a Vall Banc, però **no hi ha dades sobre acomiadaments,
+   recol·locacions o indemnitzacions dels treballadors**.
+3. ~~El **cas Anacleto**, citat i no explicat.~~ — **`parcial` el 22-09-2026**:
+   el cas queda identificat com **una causa oberta contra la direcció de BPA**,
+   dins del conjunt d'investigacions per coacció i extorsió; **la fitxa no en
+   dona fets, persones, estat processal ni resolució**.
+4. ~~L'estat **actual** de cada causa oberta, andorrana i espanyola.~~ —
+   **`parcial` el 22-09-2026**: la fitxa només pot afirmar que hi havia **causes
+   obertes a Andorra** i processos relacionats a Espanya, i que el judici als
+   Pujol reactiva el cas el **2026**; **no té un estat processal actualitzat de
+   cada expedient**.
 5. ~~El reportatge **«Deu anys d'ombres: el llegat de BPA que Andorra no pot
    esborrar»**, identificat i no llegit.~~ — **`parcial`, actualitzat el
    2026-09-19**: el títol del reportatge ja està identificat com a font per a
    aquesta fitxa, però el corpus encara no n'ha llegit el contingut.
-6. Com va afectar **la resta del sistema financer andorrà** i la seva reputació.
-7. El document de l'**Associació de Bancs Andorrans** sobre el sistema financer
-   del 2015.
+6. ~~Com va afectar **la resta del sistema financer andorrà** i la seva reputació.~~
+   — **`parcial` el 22-09-2026**: queda documentat l'efecte sistèmic immediat —
+   **els bancs estrangers van tallar les línies**, BPA no va poder operar i el
+   FinCEN va retirar l'avís el **4 de març de 2016**—; **no hi ha una mesura
+   comparativa de reputació ni l'impacte sobre cada altra entitat**.
+7. ~~El document de l'**Associació de Bancs Andorrans** sobre el sistema financer
+   del 2015.~~ — **`parcial` el 22-09-2026**: la fitxa identifica el document com
+   una font que hauria de descriure el sistema financer de **2015**, però **no en
+   conserva el títol complet, el text ni cap dada extreta**.
 8. ~~**L'operació Catalunya** com a objecte propi. **Surt citada a
    [l'estafa d'Andorra](../../cultura/andorra-vista-de-fora/lestafa-dandorra.md)
    com a context donat per sabut, i el corpus no en té fitxa.**~~ —
