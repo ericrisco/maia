@@ -358,8 +358,12 @@ representació**, com a la renovació del comú.
    regulava, què acreditaven i si se'n conserva cap.**
 6. **La data exacta del consell de les bohigues.** **És l'únic dels cinc que la
    font deixa sense situar al calendari.**
-7. **Si els cinc consells ordinaris es fan avui**, i **amb quins noms.** **El
-   corpus té la sèrie del 1918 i res del segle XXI.**
+7. ~~**Si els cinc consells ordinaris es fan avui**, i **amb quins noms.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa ja identifica la sèrie de **1918** amb
+   els cinc noms —**dels Innocents**, **de les talles**, **de la Pasqua de
+   l’Esperit Sant**, **de Sant Miquel** i **de les bohigues**— i en conserva les
+   funcions i les dates quan la font les dona. **Encara no hi ha prova de la
+   continuïtat al segle XXI ni dels noms actuals.**
 8. ~~**La composició del comú, un altre cop.**~~ **Aquesta font diu deu consellers;
    Brutails, el 1904, en donava dotze i deia que Canillo n'elegia divuit; i tots
    dos observen que l'article 8è de la Reforma «dona a entendre» que són deu.**
