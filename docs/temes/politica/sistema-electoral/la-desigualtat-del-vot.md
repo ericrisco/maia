@@ -665,6 +665,23 @@ Electors 24.512 · participació **65,6%** · blancs **1.064** · nuls **309**.
 2023. **L'any de la participació més baixa és també el de més gent que hi va
 anar per no triar ningú.**
 
+### Ordino, el 2015
+
+El dossier oficial d'[eleccions.ad](../../../fonts/eleccions-ad.md) dona per a
+Ordino **1.133 vots vàlids**: **Demòcrates per Andorra (DA), 413 (36,45%)**;
+**Liberals d'Andorra, 352 (31,06%)**; **PS + Verds + IC + I, 263 (23,21%)**;
+i **Socialdemocràcia i Progrés, 105 (9,26%)**. És la pàgina 21 del dossier
+([render conservat](../../../raw/eleccions/eg-2015-escrutini-21.png)).
+
+Com que l'article 61.1 adjudica els dos escons territorials a la llista més
+votada, **DA va obtenir els dos escons d'Ordino**. El mateix dossier mostra DA
+com a primera llista a **Canillo, Encamp, Ordino, Andorra la Vella i
+Escaldes-Engordany**; amb cinc victòries parroquials (**10 escons**) i els
+**5 escons nacionals** que resulten del repartiment proporcional, arriba als
+**15 de 28** que la sèrie del corpus registra com a majoria. Per això els dos
+escons d'Ordino són aritmèticament decisius: sense aquesta victòria, DA hauria
+quedat en **13**.
+
 ### 2019 — set llistes
 
 | Candidatura | Vots | % |
@@ -786,8 +803,12 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    400% s'ha mogut.~~ `resolt` **Sí, i poc: del 393% del 2011 al 357% del
    2023**, amb **les mateixes dues parròquies de set** dins del marge
    recomanat. La sèrie sencera del 2001 al 2023, a dalt.
-10. **Ordino el 2015**: els seus dos escons territorials, decisius segons la
-    font.
+10. ~~**Ordino el 2015**: els seus dos escons territorials, decisius segons la
+    font.~~ — **`resolt` el 21-09-2026**: el dossier oficial dona **413 vots
+    (36,45%)** a DA, per davant dels **352** dels Liberals, i la regla de
+    l'article 61.1 li adjudica els dos escons. La victòria és una de les cinc
+    que formen els **10 escons territorials** de DA; sumats als **5 nacionals**,
+    expliquen la majoria de **15/28**.
 
 ## Related
 
