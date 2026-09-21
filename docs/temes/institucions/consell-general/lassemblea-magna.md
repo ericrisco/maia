@@ -144,8 +144,11 @@ setanta-dos notables al judici de constitucionalitat.**
   21-09-2026**: la font de Becat permet afirmar que el corpus documenta **tres
   reunions** i que no n’hi ha cap de localitzada entre **1866 i 1974**. **No fixa
   ni el nombre total històric ni la primera reunió conservada.**
-- **Quines parròquies feien *Reunió de Poble*** i quines deixaven que designés el
-  comú. **Becat diu que variava i no diu quines.**
+- ~~**Quines parròquies feien *Reunió de Poble*** i quines deixaven que designés el
+  comú. **Becat diu que variava i no diu quines.**~~ — **`parcial` el 21-09-2026**:
+  la font confirma que el procediment **variava segons la parròquia**. **No
+  identifica encara quines convocaven la Reunió de Poble ni quines delegaven la
+  designació al comú.**
 - ~~**Si l'Assemblea Magna va decidir mai res que s'apliqués**, o si **la seva
   funció era donar cobertura a una decisió ja presa.**~~ — **`parcial` el
   21-09-2026**: en el cas de la **guerra de les ràdios**, la fitxa descriu que
