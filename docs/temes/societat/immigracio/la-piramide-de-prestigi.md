@@ -313,8 +313,12 @@ en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
 
 ## Buits registrats
 
-1. **L'estudi *La immigració a Andorra*** (Batalla, Casals, Micó — Pagès
-   Editors, **2004**). **Prioritari.**
+1. ~~**L'estudi *La immigració a Andorra*** (Batalla, Casals, Micó — Pagès
+   Editors, **2004**). **Prioritari.**~~ — **`parcial` el 21-09-2026**: la
+   fitxa [La societat segmentada](./la-societat-segmentada.md) n'identifica els
+   autors —**Dolors Batalla, Jordi Casals i Miquel Àngel Micó**—, l'editorial
+   **Pagès Editors** i l'any **2004**, i en conserva la hipòtesi de les tres
+   fractures; el corpus encara no ha llegit el llibre sencer.
 2. **Els informes del Consell d'Europa** (ECRI) sobre Andorra. La font en cita
    el **tercer, del 2008**, amb URL.
 3. ~~**Si la posició de la comunitat marroquina ha canviat** entre el 1997 de
@@ -340,9 +344,17 @@ en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
    `Si la quota per origen es va mantenir després del 1997, segueix obert: la
    sèrie documentada s'acaba aquell any i la sèrie de població no diu res de
    quotes.`
-4. **Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.
+4. ~~**Les festes interculturals** del Pas de la Casa i d'Andorra la Vella.~~ —
+   **`parcial` el 21-09-2026**: la font concreta la **festa intercultural del
+   Pas de la Casa** i les **jornades interculturals del Comú d'Andorra la
+   Vella** com a espais d'interacció entre grups; encara no en consten les
+   dates, els organitzadors ni la continuïtat.
 5. **D'on ve «pota negra»** i des de quan es diu.
-6. **Quantes candidatures amb cognoms no andorrans**, amb xifres.
+6. ~~**Quantes candidatures amb cognoms no andorrans**, amb xifres.~~ —
+   **`parcial` el 21-09-2026**: la font observa que a les candidatures de tots
+   els partits i en qualsevol elecció **cada cop hi ha més cognoms d'origen no
+   andorrà**, i ho relaciona amb les onades migratòries; el corpus encara no té
+   el recompte per elecció o candidatura.
 7. ~~**La comunitat filipina i la índia**: 509 i 59 persones el 2020. (…) **i de
    la filipina, res**.~~ — **`parcial`, i la filipina ja no és «res».** **Surt
    en cinc documents més del corpus, i sempre com a exemple d'una altra cosa:**
