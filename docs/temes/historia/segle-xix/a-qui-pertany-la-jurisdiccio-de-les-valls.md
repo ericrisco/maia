@@ -349,9 +349,14 @@ matèries i el lloc de signatura.**
    que en deriven —error de nom, error d'any o confirmació posterior d'un acte
    anterior—; la resolució requereix el document de confirmació dels privilegis
    francesos.
-8. **L'ordre de Lluís XIV sobre el bestiar entre parròquies.** **Dues fonts
-   independents la descriuen i cap no la transcriu.** **El corpus té registrada
-   la pista: Arxius dels Pirineus Orientals, C 2098, decisió del 24-08-1687.**
+8. ~~**L'ordre de Lluís XIV sobre el bestiar entre parròquies.**~~ — **`parcial`
+   el 21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
+   en conserva el contingut essencial i la signatura **Archives des
+   Pyrénées-Orientales, C 2098**: el **24 d'agost de 1687**, Lluís XIV va
+   decidir que els ramats sorpresos pasturant il·legalment no es matessin; només
+   se'n podien retenir caps en proporció al dany, que havien d'avaluar els
+   cònsols de les dues parròquies, amb possibilitat de nomenar un tercer àrbitre.
+   **L'original francès encara no és al corpus.**
 9. **La resolució de 1288 sobre les muntanyes entre Andorra i Sant Julià**, i
    **l'aclariment de 1435 sobre boscos, pesca i aigua.** **Citats sense
    referència.**
