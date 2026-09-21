@@ -41,8 +41,11 @@ dels segles XVII i XVIII», sense text ni data.
 | **On és el text** | Brutails **la reprodueix** a les seves peces justificatives (**XXVI**) |
 | **Qui la cita** | **El Politar mateix**, a la pàgina 214 |
 
-**El text és al mateix llibre que hi ha a `docs/raw/llibres/`.** El corpus encara
-no l'ha llegit: **buit registrat, però ja no és un buit d'accés**.
+~~**El text és al mateix llibre que hi ha a `docs/raw/llibres/`.** El corpus encara
+no l'ha llegit: **buit registrat, però ja no és un buit d'accés**.~~ — **`resolt`
+el 21-09-2026**: la *Instructa als senyors batlles* ja s'ha llegit als folis
+**531–540 i 542** del text local de Brutails i se n'han destil·lat les regles
+principals. El buidatge article per article és una feina separada.
 
 ## El manuscrit que és anterior al Politar
 
