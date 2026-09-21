@@ -421,7 +421,12 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    vendes** ([síntesi d'actes, 1.169](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)).
    **El corpus encara no té el text íntegre de l'acta ni una norma separada**
    que en fixi l'abast i les sancions.
-6. **El Politar, pàgines 583-585**, contra l'original.
+6. ~~**El Politar, pàgines 583-585**, contra l'original.~~ — **`parcial` el
+   21-09-2026**: [Brutails, *La Coutume d'Andorre* (1904)](../../../raw/llibres/brutails-coutume.txt)
+   transcriu la sèrie de cursos de la doble d'or entre 1640 i 1653 i identifica
+   que l'extreu del *Politar* del Consell General, pp. 583–585; adverteix que les
+   xifres potser no s'apliquen especialment a Andorra. **L'exemplar original del
+   *Politar* i la col·lació de les pàgines encara falten.**
 7. ~~**El ducat, a una data concreta**~~ — **`parcial` el 15-09-2026**, i és
    una relació que la taula mal extreta no dona.** Un acte del **24 d'agost del
    1580**, en què un cònsol i un prom judiquen unes penyores a instància del
