@@ -263,8 +263,12 @@ llibre:**
    en conserva la dada operativa: la llei va autoritzar una despesa de **15.000
    francs** per al telègraf andorrà. **El text íntegre i l'article que fixa
    l'autorització encara falten.**
-3. **El discurs de M. Frézoul al Senat, 1892.** **Nou, i és on surten les dues
-   xifres.** `Requereix el Journal officiel, débats du Sénat.`
+3. ~~**El discurs de M. Frézoul al Senat, 1892.**~~ — **`parcial` el
+   2026-09-22**: **Vilar ja conserva les dues xifres que en cita** —**960
+   francs** de cànon i **uns 11.000 francs** de despesa francesa—, però **el
+   *Journal officiel, débats du Sénat* no és al corpus** i la citació no permet
+   reconstruir el discurs ni la pàgina. **Cal la font parlamentària francesa per
+   verificar-ne el context i el text.**
 4. ~~**L'arranjament pel qual Andorra va comprar al bisbe la línia de Sant Julià a
    la frontera espanyola**, **el 1903 o després**, **i si França en va acabar
    assumint l'explotació.** **Prioritari.**~~ — **`parcial` el 20-09-2026**:
