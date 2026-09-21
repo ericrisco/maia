@@ -133,7 +133,7 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
    —velocitat, enduro, motocròs.~~ — **`resolt` el 18-09-2026, veure el
    punt 2**: **enducross, enduro sobre gel i supermoto**, a més del trial —
    **no consta velocitat ni motocròs.**
-5. **Si cap d'aquests pilots ha competit mai en un mundial de trial.**
+5. ~~**Si cap d'aquests pilots ha competit mai en un mundial de trial.**~~ — **`resolt`**: la memòria de la [Federació Motociclista d'Andorra de 2023](../../../raw/web/esport/trial/fma-2023/resultats-esportius-fma-2023.pdf) documenta que **Gaudí Vall** va disputar **sis proves** del FIM TrialGP i **Jordi Lestang**, **cinc**, tots dos a Trial2; per tant, com a mínim dos dels pilots del campionat nacional sí que han competit en un mundial.
 6. ~~**La relació amb [Xavier Cardelús](./xavier-cardelus.md)** i
    **[Cyril Despres](./cyril-despres.md)**, els dos motociclistes que el corpus
    sí que té: **cap dels dos no és pilot de trial**, i **el corpus no sap si la
