@@ -289,14 +289,24 @@ de novembre de 1898**.
    pronúncia andorrana anotada (`reðáʎ`)**. **Si *tardivall* volia dir el segon
    farratge, el mot que Andorra fa servir per a això és documentadament un
    altre.**
-8. **Si el *ban de vista* tenia termini propi.** **La font diu que el propietari
+8. ~~**Si el *ban de vista* tenia termini propi.** **La font diu que el propietari
    «difereix» d'intimar-lo i no diu fins quan**, **quan per al ban ordinari dona
-   vint-i-quatre hores.**
-9. **On va la meitat del ban que cobren els cònsols**: **si entra a la caixa del
-   comú o als seus emoluments.** **La font no ho diu.**
-10. **La decisió del 26 de març de 1871** i **el reglament contra el qual el
+   vint-i-quatre hores.**~~ — **`parcial` el 2026-09-21**: la fitxa defineix el
+   *ban de vista* com el ban constatat a distància i intimat després, amb
+   testimonis, i fixa **vint-i-quatre hores** per al ban ordinari. **No consta cap
+   termini propi per al *ban de vista*.**
+9. ~~**On va la meitat del ban que cobren els cònsols**: **si entra a la caixa del
+   comú o als seus emoluments.** **La font no ho diu.**~~ — **`parcial` el
+   2026-09-21**: el text estableix que **la meitat del ban correspon als cònsols**
+   i l’altra meitat a l’interessat. **No permet saber si la part dels cònsols
+   entrava a la caixa del comú o era un emolument personal.**
+10. ~~**La decisió del 26 de març de 1871** i **el reglament contra el qual el
     Consell va protestar el mateix dia.** **Prioritari**: **poden ser la mateixa
-    sessió.**
+    sessió.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva la decisió del
+    **26 de març de 1871**, que prohibia injúries o provocacions contra guardes i
+    propietaris que denunciessin el ban, i també registra una protesta del mateix
+    dia contra un reglament considerat contrari a la competència del Consell.
+    **No hi ha prova que fossin la mateixa sessió.**
 
 ## Related
 
