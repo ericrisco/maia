@@ -398,8 +398,12 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    **No és sou ni dret d'ofici: és propina**, i **això encaixa amb el que diu
    aquesta fitxa** —que aquells oficis no tenien retribució fixa. **Segueix
    obert l'import**, que la font no dona.
-9. **Qui eren les dues noies de 1475 i com va acabar l'home a qui van trencar el
-   cap.** **El corpus té la composició i no el desenllaç per a ell.**
+9. ~~**Qui eren les dues noies de 1475 i com va acabar l'home a qui van trencar el
+   cap.**~~ — **`parcial` el 2026-09-21**: el registre ja descriu les **dues noies**
+   sorpreses en delicte de pastura, l’home particular que les va penyorar, la
+   recuperació de les penyores i la ferida; també conserva que el **pare d’una
+   d’elles** va compondre per **set formatges d’ovella** —sis als jutges i un al
+   *greffier*. **Els noms de les noies i el desenllaç de l’home no consten.**
 10. ~~**Si composar era possible en tots els delictes** o **només en alguns**.~~ —
     **`parcial` el 19-09-2026**: la font documenta que es podia composar **fins i
     tot una pena capital**, en el cas de **1471**, però no dona el límit general.
