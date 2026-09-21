@@ -321,8 +321,7 @@ dataset**.`
    **La ràtio és de 4,28 a la meitat parroquial del Consell.**
 4. **Comparar els criteris d'Aristòtil amb les màximes del Manual Digest.**
 5. ~~**Quines qüestions exactament** requereixen majoria de consellers parroquials.~~ — **`resolt` el 2026-09-21**: [les lleis qualificades](../../institucions/justicia/les-lleis-qualificades.md) transcriu l'article 57.3: exigeixen majoria absoluta separada dels consellers de circumscripció parroquial i nacional les lleis **electoral i de referèndum**, de **competències comunals** i de **transferències als Comuns**.
-6. **La diferència entre població estimada (74.794) i registrada (80.209)**: què
-   la produeix.
+6. ~~**La diferència entre població estimada (74.794) i registrada (80.209)**: què la produeix.~~ — **`parcial` el 2026-09-21**: [el model del 2009, comprovat](../../llengua/politica-linguistica/el-model-del-2009-comprovat.md) documenta els **80.209** com la suma de **11.079 menors de 15** i **69.130 majors de 14** de l'onada lingüística de **2017**. La diferència amb els **74.794** de l'estimació demogràfica és de **5.415 persones**, però el corpus encara no té la nota metodològica que expliqui si són universos, dates de tall o criteris de registre diferents.
 
 ## Related
 
