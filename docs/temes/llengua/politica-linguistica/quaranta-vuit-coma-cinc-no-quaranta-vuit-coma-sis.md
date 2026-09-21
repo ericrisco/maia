@@ -447,12 +447,15 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
 - **La fórmula de l'indicador lingüístic no reprodueix els seus propis valors.**
   **Setze proves, setze fallades en el mateix sentit.** El corpus hi deixa una
   hipòtesi marcada i **no la pot comprovar sense les dades individuals.**
-- **Les fonts demogràfiques del perfil sociodemogràfic**: el document diu que els
+- ~~**Les fonts demogràfiques del perfil sociodemogràfic**: el document diu que els
   percentatges d'edat i nacionalitat vénen de **«les dades reals de població de
   1994, 1998, 2004 i 2008 publicades pel Ministeri d'Interior»**. **Quatre anys
   que no són els de les onades** —1995, 1999, 2004, 2009—: **tres de les quatre
   referències demogràfiques són d'un any abans de l'enquesta.** El corpus **no té
-  aquelles publicacions.**
+  aquelles publicacions.**~~ — **`parcial` el 2026-09-21**: la font identifica
+  explícitament les quatre sèries administratives —**1994, 1998, 2004 i 2008**—
+  i el Ministeri d'Interior com a origen, però les publicacions originals i les
+  dades que hi ha darrere dels percentatges no són al corpus.
 - ~~**El capítol d'usos lingüístics d'aquesta edició (pp. 12-22) no s'ha
   destil·lat sencer.** Els divuit gràfics de barres apilades per situació no
   s'han transcrit.~~ — **`resolt` el 17-09-2026, i per una via que val la pena
