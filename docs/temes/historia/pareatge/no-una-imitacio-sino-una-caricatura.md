@@ -489,10 +489,13 @@ l'òrgan.**
    nationale, fons Dupuy, LII, 18-23 i CLIII, 65-69.** `obert, amb signatura.`
 6. **Quines són les paraules del «joc de paraules» de la neutralitat.** **La font
    afirma que n'hi ha un i no el descriu.** `obert, prioritari.`
-7. **Els quatre articles erudits de Brutails** —*Revue des Pyrénées* 1891 i 1892,
+7. ~~**Els quatre articles erudits de Brutails** —*Revue des Pyrénées* 1891 i 1892,
    *Revue des Universités du Midi* 1897 i 1898— **que contenen, segons ell,
    l'exposició completa i documentada del que aquí només esbossa.** `obert, amb
-   referència exacta.`
+   referència exacta.`~~ — **`parcial` el 2026-09-21**: la [fitxa de la font](../../../fonts/brutails-etude-origines-1891.md)
+   i el PDF de l'Université Bordeaux Montaigne localitzen el fullet de **1891**
+   (39 pàgines), relacionat amb l'article de la *Revue des Pyrénées*; els textos
+   de **1892, 1897 i 1898** encara no s'han localitzat ni buidat.
 8. ~~**L'estudi de Mérignhac** al *Bulletin du Comité des travaux historiques*,
    Congrés de 1899, p. 267. **El corpus el té citat i criticat, no llegit.**~~ —
    **`resolt` com a duplicat el 2026-09-20**: la nota llegida i el seu enunciat
