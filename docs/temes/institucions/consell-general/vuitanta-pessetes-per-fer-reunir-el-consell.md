@@ -497,16 +497,15 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
 10. ~~**Quan van desaparèixer els comissionats**, si van desaparèixer.~~ —
     **`parcial` el 19-09-2026**: la font els descriu **«en vies de desaparició»**
     el 1904, però no dona l’any d’extinció ni confirma que desapareguessin.
-11. **La composició dels consells de quart**, que **cap text no fixava el 1904**.
-    **Si mai se'n va escriure una norma, no és al corpus.** `obert.`
+11. ~~**La composició dels consells de quart**, que **cap text no fixava el 1904**.
+    **Si mai se'n va escriure una norma, no és al corpus.**~~ — **`parcial` el 21-09-2026**: Vilar i Brutails descriuen els grups de quart com a unitats electorals i la fitxa remet a les llistes negociades dels veïnats, però cap text del corpus fixa la seva composició ni una ordinació pròpia.
 12. ~~**Els dos documents d'assemblea general de parròquia** —**Encamp, 16 de
     desembre de 1443**, i **Andorra, 27 d'agost de 1599**— sencers. **Brutails no
     en dona signatura d'arxiu.**~~ — **`no-es-buit` el 20-09-2026**: la font
     només aporta les dates i els llocs i no permet identificar millor les peces
     a partir d'aquesta referència.
-13. **Quan es va deixar de convocar el consell general de parròquia.** La font diu
-    «no crec que es convoquin mai, **com antigament**», i **no data el canvi.**
-    `obert.`
+13. ~~**Quan es va deixar de convocar el consell general de parròquia.** La font diu
+    «no crec que es convoquin mai, **com antigament**», i **no data el canvi.**~~ — **`parcial` el 21-09-2026**: la font testimonia que el **1904** ja no es creia que es convoquessin com antigament i conserva la comparació amb la pràctica antiga, però no fixa l'any ni l'acte del canvi.
 
 **Un buit de la font no és un buit del món.** Que **cap text no fixés la
 composició dels consells de quart** és una constatació d'un jurista francès el
