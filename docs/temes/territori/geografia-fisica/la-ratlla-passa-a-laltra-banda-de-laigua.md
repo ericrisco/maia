@@ -246,8 +246,11 @@ l'escrivania pública.`
 paràgraf**: **ni si hi havia norma, ni acord entre parròquies, ni destinació.**
 **És testimoni d'un observador, no una font normativa.**
 
-**No consta qui era `Monsieur Romeu, viguier de France`**, ni els anys del seu
-mandat. **El corpus té veguers francesos nomenats per altres vies i no aquest.**
+~~No consta qui era `Monsieur Romeu, viguier de France`, ni els anys del seu
+mandat.~~ — **`parcial` el 21-09-2026**: el corpus conserva una altra referència
+a [Ch. Romeu, *viguier d'Andorre*](../../institucions/justicia/els-mateixos-tretze-dies-dues-explicacions.md),
+en un article de *Tour du Monde* de 1897; no prova que sigui el mateix que
+«Monsieur Romeu, viguier de France» ni dona els anys del seu mandat.
 
 **Amb això el capítol primer queda destil·lat sencer**, entre aquesta unitat, la
 de la terra i els conreus, i les quatre fitxes anteriors que en cobrien la resta.
