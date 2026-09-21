@@ -248,8 +248,11 @@ n'ha llegit:**
      V. E. I.»** — **el predecessor de Casañas—, i no el nomena.** **El corpus no
      el converteix en nom.** Vegeu [ni són ni s'han de considerar
      espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md).
-2. **L'ordre al batlle francès d'admetre les apel·lacions** i **la suspensió que
-   el Bisbe hi va respondre**: **textos i dates.**
+2. ~~**L'ordre al batlle francès d'admetre les apel·lacions** i **la suspensió que
+   el Bisbe hi va respondre**: **textos i dates.**~~ — **`parcial` el 2026-09-21**:
+   la fitxa conserva que el batlle francès va rebre l'ordre d'admetre les
+   apel·lacions davant del Jutge d'Apel·lacions i que el Bisbe va respondre
+   suspenent-lo. **No hi consten els textos íntegres ni les dates.**
 3. ~~**Quant va durar la paràlisi**, **quantes presons preventives s'hi van
    allargar** i **què va passar amb les causes avocades pel veguer francès.**~~
    - **`parcial` des del 20-09-2026: ja té durada mínima.** **Les notes de la
@@ -270,7 +273,11 @@ n'ha llegit:**
 5. **El text del Pareatge de 1278** en la clàusula dels batlles absents
    *(Baudon de Mony, t. II, p. 162)*, **i quan es va començar a aplicar als
    Veguers.** **La font diu «s'admet» i no dona cap acte.**
-6. **Els documents de 1492, 1502, 1608 i 1644** sencers.
+6. ~~**Els documents de 1492, 1502, 1608 i 1644** sencers.~~ — **`parcial` el
+   2026-09-21**: la fitxa en conserva la seqüència i els fets principals —la
+   Cúria de **1492**, la compareixença de **1502**, la pena de **1608** i la
+   sentència de **1644** d’un veguer de la ciutat d’Urgell i de les Valls.
+   **No en té els documents íntegres ni les signatures d’arxiu.**
 7. **Com un veguer nomenat per França podia ser alhora veguer de la ciutat
    d'Urgell el 1644.** `Requereix context històric extern.`
 8. ~~**El manuscrit del senyor Palmitjavila** —**setena tanda seguida**, i aquí és **l'única font de la finestra de Sant Miquel a Sant Miquel**—, **sense
@@ -307,10 +314,16 @@ n'ha llegit:**
    d'obertura**, **amb la mateixa fórmula de protesta que Andorra feia servir per
    als lloctinents: admetre i negar el precedent.** **Segueix obert si hi ha Corts
    documentades dins l'estiu**, **que és l'altra meitat de l'exclusió.**
-10. **Quins eren els «delictes de gravetat secundària»** que cada veguer jutjava
-    sol, **i on era el llindar.**
-11. **Quants anys va estar impedit el veguer episcopal** «recentment» abans del
-    1904.
+10. ~~**Quins eren els «delictes de gravetat secundària»** que cada veguer jutjava
+    sol, **i on era el llindar.**~~ — **`parcial` el 2026-09-21**: la font els
+    compara amb els delictes del dret francès i la fitxa conserva que cada veguer
+    podia conèixer-ne aïlladament quan el Jutge no hi intervenia. **No en dona la
+    llista ni fixa el llindar.**
+11. ~~**Quants anys va estar impedit el veguer episcopal** «recentment» abans del
+    1904.~~ — **`parcial` el 2026-09-21**: la font afirma que el veguer episcopal
+    havia passat **diversos anys** sense poder complir les seves obligacions i que
+    el país s’havia acostumat a la justícia d’un sol veguer. **No en quantifica
+    els anys.**
     - **I hi ha un precedent molt més gros, del 20-09-2026**: **al segle XVIII la
       plaça de veguer **francès** va restar vacant **vint anys*** *(Archives des
       Pyrénées-Orientales, C 2101)*. **La font no diu quins vint anys.**
