@@ -115,7 +115,7 @@ el moll de l'os del model de dades
 
 - **L'inventari sencer**, buidat unitat a unitat. Aquesta fitxa n'ha vist ~140 de
   **5.859**.
-- Les **condicions de consulta i reproducció** del fons.
+- ~~Les **condicions de consulta i reproducció** del fons.~~ — **`resolt` el 21-09-2026**: la fitxa oficial de l’**Arxiu de les Set Claus (AD ANA, ASC)** ([captura de l’Arxiu Nacional](../../../raw/web/institucions/patrimoni-institucional/arxiu-set-claus-4673670.html)) publica **accés restringit (50 anys)** i **reproducció restringida (50 anys)**.
 - Si hi ha **transcripcions** ja fetes, i de quins volums.
 - ~~Si n'hi ha de **digitalitzades** i accessibles — l'Arxiu Nacional té **catorze
   exposicions virtuals** i consta que «les Set Claus» són **en línia**.~~ —
