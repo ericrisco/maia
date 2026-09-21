@@ -118,6 +118,15 @@ tenia.** És la solució d'un país petit —la mateixa lògica que fa que
 [una sola agència](../../esports/competicio/la-llei-de-lesport.md) cobreixi el
 dopatge de totes les federacions.
 
+## El rastre estadístic de la protecció
+
+El [bolcat de l’API d’Estadística sobre protecció a la infància](../../../raw/estadistica-api/infancia/proteccio-infancia-api-2026-09-18.tsv)
+ja dona una part de les dades que faltaven. El **2025** hi consten **314 menors
+amb casos intervinguts**, **11 ingressos a La Gavernera**, **6 derivacions a
+centres terapèutics fora del país** i **41 infants i adolescents atesos al
+centre**. Són registres d’intervenció i de mesures, no el nombre de
+notificacions rebudes ni de trucades a una línia d’ajuda.
+
 ## Buits registrats
 
 - ~~**El sistema de protecció** —risc, desemparament, mesures, acolliment— ocupa
@@ -134,8 +143,10 @@ dopatge de totes les federacions.
   de visites (article 95). L’acolliment temporal dura com a màxim **dos anys**,
   prorrogable excepcionalment **un any** (article 97). El detall reglamentari,
   l’aplicació de casos concrets i les dades d’ús continuen oberts.
-- **Cap dada**: quantes notificacions es fan, quants infants estan sota mesura de
-  protecció, quantes trucades rep la línia.
+- ~~**Cap dada**: quantes notificacions es fan, quants infants estan sota mesura de
+  protecció, quantes trucades rep la línia.~~ — **`parcial` el 21-09-2026**: l’API
+  oficial publica menors intervinguts i mesures de protecció, però no les
+  notificacions d’entrada ni les trucades a la línia.
 - **Si algun cas andorrà ha arribat mai al Comitè dels Drets de l'Infant**, no
   consta.
 - ~~**La [Llei de responsabilitat penal dels menors](../../institucions/justicia/el-dret-vigent.md)**
