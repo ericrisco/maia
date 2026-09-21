@@ -242,9 +242,13 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
 
 ## Buits registrats
 
-1. **De quina notaria són els registres de 1844-1847 i 1872-1874**, i **si és la
-   mateixa que la del recompte de 1875-1877.** **Sense això les tres finestres no es
-   poden encadenar.**
+1. ~~**De quina notaria són els registres de 1844-1847 i 1872-1874**, i **si és la
+   mateixa que la del recompte de 1875-1877.**~~ — **`parcial` el 22-09-2026**:
+   Brutails només identifica que va buidar **els registres d'una notaria** per a
+   les dues primeres finestres i no en dona el nom; el recompte de 1875-1877 que
+   el corpus té a [quants notaris](../../institucions/justicia/quants-notaris.md)
+   prové d'una peça separada. **Les tres finestres no es poden encadenar com una
+   sèrie de la mateixa notaria.**
 2. ~~**El decret del 30 de setembre de 1853** sencer, **en la part que obliga a la
    taxació prèvia**.~~ — **`parcial` el 18-09-2026**: **el corpus en té
    l'obligació de presentar anualment les minutes i sap que és sense efecte**;
