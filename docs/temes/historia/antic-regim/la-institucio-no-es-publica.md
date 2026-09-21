@@ -266,8 +266,8 @@ d'una tanda diferent**:
 
 ## Buits registrats
 
-1. **Com va acabar el plet del préstec**: **la font el segueix i no en dona el
-   resultat.**
+1. ~~**Com va acabar el plet del préstec**: **la font el segueix i no en dona el
+   resultat.**~~ — **`parcial` el 21-09-2026**: la font conserva la seqüència del plet i la doctrina que hi discuteix sobre patrimoni i presa de possessió, però no dona la sentència final ni el desenllaç de les parts.
 2. ~~**Si mai hi va haver a Andorra cap registre d'*heretaments***, i **quan apareix**, si apareix.~~ — **`parcial` el 21-09-2026**: la fitxa documenta transmissions i presa de possessió sense identificar un registre específic; el corpus no ha localitzat la legislació registral que permetria datar-ne l'aparició.
 3. ~~**Per què el decret del Consell General del 31 de maig de 1876 és en castellà**,
    i **si n'hi ha més d'aquella època.**~~ — **`parcial` el 2026-09-21**: la
