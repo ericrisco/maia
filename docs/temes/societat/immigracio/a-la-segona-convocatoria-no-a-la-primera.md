@@ -314,10 +314,16 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
    llegir quan calgui.`
 6. **El Cens Comunal d'Andorra del 2007**, com a font. **El corpus el cita per
    mitjà d'aquest llibre i no l'ha vist.**
-7. **Batalla, Casals i Micó**, *La immigració a Andorra* (2004) i *Anàlisi de la
+7. ~~**Batalla, Casals i Micó**, *La immigració a Andorra* (2004) i *Anàlisi de la
    situació laboral a Andorra* (2003), i **Comas i Pujadas**, *Andorra, un país
    de frontera* (1997). **Cap de les tres no és al corpus**, i **dues d'elles són
-   la font última de la piràmide de prestigi que el corpus ja tenia.**
+   la font última de la piràmide de prestigi que el corpus ja tenia.**~~ —
+   **`parcial` el 21-09-2026**: [la societat segmentada](./la-societat-segmentada.md)
+   conserva la identificació bibliogràfica de *La immigració a Andorra* i la
+   [fitxa de Comas i Pujadas](../../../fonts/comas-pujadas-andorra-pais-frontera-1997.md)
+   identifica completament *Andorra, un país de frontera*; *Anàlisi de la situació
+   laboral a Andorra* continua només citada, i cap dels tres llibres no s'ha
+   llegit sencer.
 
 ## Related
 
