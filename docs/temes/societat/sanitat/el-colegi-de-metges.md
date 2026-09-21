@@ -52,13 +52,21 @@ corpus té a «quants metges hi ha a Andorra»**, un buit registrat des de
 necessàriament un metge en actiu al país, i **la font no dona la
 procedència geogràfica.** `parcial`.
 
+La font de la reacreditació no documenta cap conveni **COMA–Universitat
+d'Andorra**: el que identifica és un conveni de la **Societat Andorrana de
+Ciències (SAC)** amb la UdA, signat el **maig del 2000**, amb referències
+concretes a la formació continuada ([la fitxa de la reacreditació](./la-reacreditacio-dels-metges.md), [fitxa de font](../../../fonts/martinez-benazet-professions-liberals.md)). La pregunta del COMA queda, per tant, com una atribució no demostrada i no com un conveni confirmat.
+
 ## Buits registrats
 
 1. **D'on vénen els metges**, geogràficament — segueix sense resposta.
 2. **Els altres col·legis professionals andorrans** —advocats,
    arquitectes, infermeria— **cap encara sense fitxa.**
-3. **El conveni entre el COMA i la Universitat d'Andorra** sobre la
-   reacreditació, citat i no consultat.
+3. ~~**El conveni entre el COMA i la Universitat d'Andorra** sobre la
+   reacreditació, citat i no consultat.~~ — **`parcial` el 21-09-2026**: la font
+   consultada identifica un conveni **SAC–UdA** del **maig del 2000** per a la
+   formació continuada, no pas un conveni COMA–UdA. **No consta cap document que
+   acrediti aquest últim.**
 
 ## Related
 
