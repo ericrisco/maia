@@ -259,8 +259,8 @@ Jutge el 19 de novembre de 1846:**
    fonts: **dos batlles el 1278**, **saigs documentats el 1346** i **batlles
    novament documentats el 1471**. La font només diu «**poc després**» del
    Pareatge i **no explica ni la data exacta del canvi ni el motiu**.
-5. **El *mandement* dels *saigs* de 1420** sobre les monedes, **i la reforma que les
-   Corts hi van fer.**
+5. ~~**El *mandement* dels *saigs* de 1420** sobre les monedes, **i la reforma que les
+   Corts hi van fer.**~~ — **`parcial` el 21-09-2026**: [la fitxa de l'acte](./no-prohibia-matar-los-els-eximia-de-pagar.md) conserva el contingut —prohibició de comprar vi amb moneda de Barcelona, excepte «*in albis*», sota pena de deu sous— i identifica qui la va aixecar: **Tomàs Cubells**, veguer episcopal, i **Francesc d'Apília**, jutge ordinari, actuant plegats. La reforma no la fan les Corts i el text íntegre del *mandement* continua absent.
 6. **Els documents de 1433, 1471, 1472 i 1484**, sencers.
 7. **Per què el 1472 es parla del «batlle del capítol»** i no del batlle del bisbe.
 8. ~~**Quantes vegades el Consell General va haver de presentar més d'una sisena**, i
