@@ -130,8 +130,12 @@ habitants no podia fer-hi res**.
 - El llibre de **Porta i Cebrián**, i la ressenya de l'**IEC**.
 - El **treball dels alumnes**, publicat a *EABATX Report*.
 - La recerca de **Pau Chica**, quan es publiqui.
-- **Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
-  d'Andorra.
+- ~~**Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
+  d'Andorra.~~ — **`resolt` el 21-09-2026**: la notícia de **RTVA del
+  21-03-2018** identifica l'exposició *Més enllà de Mauthausen. Francesc Boix*
+  al **Centre d'Art d'Escaldes-Engordany**, amb **132 reproduccions** del seu
+  fons, i la relaciona explícitament amb la memòria dels andorrans deportats
+  ([còpia local de la notícia](../../../raw/web/historia/francesc-boix-caee/rtva-instantanies-francesc-boix-caee-2018.html)).
 
 ## Related
 
