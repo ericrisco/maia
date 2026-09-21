@@ -188,9 +188,13 @@ font en dona la prova, i ve d'un altre lloc del dret:**
    1899** en què la primera instància no es va constituir per parentiu dels
    jutges. **La font no permet calcular quina proporció representen sobre les
    quinze o vint visures anuals.**
-3. **Si el tribunal de segon grau del 27 de juliol de 1874**, amb dos cònsols
+3. ~~**Si el tribunal de segon grau del 27 de juliol de 1874**, amb dos cònsols
    malalts a més dels exclosos, **complia el quòrum de meitat més un.** **La font
-   no ho comenta.**
+   no ho comenta.**~~ — **`parcial` el 2026-09-21**: la fitxa documenta que els
+   cònsols de la parròquia interessada i **dos cònsols més estaven malalts**, de
+   manera que la segona instància va jutjar amb menys dels deu cònsols que li
+   corresponien. **No hi ha una font que permeti decidir si això complia el
+   quòrum de meitat més un.**
 4. ~~**El *Politar*, p. 284**, que obliga els consellers illetrats a seguir
    cegament el consell.~~ — **`resolt` el 18-09-2026, i el text diu una cosa més
    fina que «cegament».** **La pàgina és dins l'extracte de Brutails** i s'ha
@@ -233,20 +237,35 @@ font en dona la prova, i ve d'un altre lloc del dret:**
    **Quatre persones, després deu, després vint-i-cinc.** **I això és el que
    aquesta fitxa necessitava**: **la visura no és un peritatge, és una
    jurisdicció de tres graus feta tota de cònsols.**
-6. **La sentència de visura de 1710** dictada sense *assessor*.
-7. **Què van trobar les recerques que el Consell General va ordenar el 3 de
+6. ~~**La sentència de visura de 1710** dictada sense *assessor*.~~ — **`parcial`
+   el 2026-09-21**: el decret del Consell General del **25 d'octubre de 1887**
+   invoca una sentència de visura de **1710** dictada sense l'assessor. **No hi
+   consta el text de la sentència ni el seu afer.**
+7. ~~**Què van trobar les recerques que el Consell General va ordenar el 3 de
    juliol de 1789** sobre si les seves sentències eren apel·lables.
-   **Prioritari**: **és el moment en què la institució dubta d'ella mateixa.**
-8. **Qui eren els «*Magnífics visurers de les aigües de les Valls d'Andorra*»**
+   **Prioritari**: **és el moment en què la institució dubta d'ella mateixa.**~~ —
+   **`parcial` el 2026-09-21**: el Consell va rebre lletres citatòries, va
+   declarar que no hi havia apel·lació i **va ordenar recerques per assegurar-se'n**.
+   **La font no diu què van trobar aquestes recerques.**
+8. ~~**Qui eren els «*Magnífics visurers de les aigües de les Valls d'Andorra*»**
    del **7 d'abril de 1603**, **i si el plet pendent a la Cort del vicari general
-   d'Urgell era una apel·lació d'una sentència del Consell General.**
+   d'Urgell era una apel·lació d'una sentència del Consell General.**~~ —
+   **`parcial` el 2026-09-21**: la peça documenta una sentència dels **visurers
+   de les aigües** i un plet pendent, o una apel·lació, davant la Cort del vicari
+   general d'Urgell. **No identifica els visurers ni permet saber si aquell
+   tribunal era el Consell General.**
 9. ~~**El manuscrit del senyor Palmitjavila** — **aquí és l'única autoritat de
    la inapel·labilitat**.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
    canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
-10. **Quan i per quin acte el secretari del Consell General va deixar de ser
-    escrivà de dret de les visures.**
-11. **La «mena de requesta civil adreçada al Consell General mateix»**: **si té
-    nom, forma i terminis.**
+10. ~~**Quan i per quin acte el secretari del Consell General va deixar de ser
+    escrivà de dret de les visures.**~~ — **`parcial` el 2026-09-21**: la font
+    atesta que el secretari era **de dret escrivà de les visures** i que això
+    **havia deixat de ser cert**. **No en dona la data ni l'acte de canvi.**
+11. ~~**La «mena de requesta civil adreçada al Consell General mateix»**: **si té
+    nom, forma i terminis.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva
+    que la font només coneix, contra les decisions judicials del Consell General,
+    **una mena de requesta civil adreçada al mateix Consell**. **No en consta el
+    nom tècnic, la forma ni els terminis.**
 
 ## Related
 
