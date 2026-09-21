@@ -8,6 +8,7 @@ url: https://www.museupostal.ad/ca/museu-postal/el-segell-com-una-imatge-mes
 llicencia: pàgina institucional amb drets reservats
 redistribucio: no
 data_consulta: 2026-09-19
+raw: ../raw/web/museus/museu-postal-segell-2026.html
 abast: >
   Conveni postal franco-espanyol de 1930 i primera sèrie de segells amb el nom
   d'Andorra, posada a la venda per Correos el 1929.

@@ -184,6 +184,12 @@ manant coses contràries**. Cavero hi afegeix que **el tema l'han estudiat Giral
 i Lluelles**, i que Lluelles **«aviat publicarà el seu estudi»**
 ([font](../../../fonts/cavero-parlamentarisme-segle-xx.md)). **Buit prioritari.**
 
+El **Museu Postal d'Andorra** identifica el buit: el conveni va entrar en vigor
+l'**1 d'agost de 1930**, el van signar **l'Estat francès i l'espanyol**, i va
+establir una explotació conjunta del servei postal i de les emissions de segells
+**al marge d'Andorra** ([fitxa de font](../../../fonts/museu-postal-segells-2026.md);
+[còpia local](../../../raw/web/museus/museu-postal-segell-2026.html)).
+
 ## Els desacords amb el mateix volum
 
 Pol contradiu altres ponències del llibre en tres punts. **El corpus els
@@ -347,7 +353,11 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
 
    **De Puigoriol (1963) la síntesi no en diu res**: `Requereix el segon llibre
    de país.`
-10. **El conveni postal de 1930** signat sense Andorra.
+10. ~~**El conveni postal de 1930** signat sense Andorra.~~ — **`resolt` el
+    21-09-2026**: el Museu Postal fixa l'entrada en vigor a l'**1 d'agost de
+    1930**, identifica com a signataris **França i Espanya** i diu explícitament
+    que l'explotació conjunta es va establir **al marge d'Andorra** ([fitxa de
+    font](../../../fonts/museu-postal-segells-2026.md)).
 11. ~~**L'oficialitat del català el 1938**: quina norma, i per què just
     llavors.~~ — **`resolt` el 17-09-2026 quant a la norma**, i **la font
     externa que el buit demanava és ara al corpus**: les [actes del Consell
