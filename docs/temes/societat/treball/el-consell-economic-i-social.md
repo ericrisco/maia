@@ -53,8 +53,17 @@ font.**
 
 ## Buits registrats
 
-1. **La data de constitució efectiva**, un cop aprovat el reglament.
-2. **Els dictàmens que ha emès realment**, un a un.
+1. ~~**La data de constitució efectiva**, un cop aprovat el reglament.~~ —
+   **`parcial` el 21-09-2026**: la Llei 32/2018 va entrar en vigor l’1 de
+   gener de 2019 i la seva disposició final primera donava al Govern sis mesos
+   per aprovar el reglament del Consell (termini: 30 de juny de 2019); el
+   corpus encara no té l’acte que acrediti la constitució efectiva.
+2. ~~**Els dictàmens que ha emès realment**, un a un.~~ —
+   **`parcial` el 21-09-2026**: la Llei 3/2026 documenta que a finals de 2024
+   el Consell va instar les organitzacions sindicals i patronals a estudiar
+   mesures per incentivar la representació al sector privat, i que després hi
+   va haver diverses rondes de negociació; el corpus encara no conserva la
+   relació individual dels dictàmens o informes emesos.
 3. **Els noms** dels representants sindicals, patronals i cívics que
    l'han integrat.
 4. **El reglament de funcionament** en si — el corpus només en sap
