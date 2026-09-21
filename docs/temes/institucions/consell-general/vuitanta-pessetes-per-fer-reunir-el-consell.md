@@ -433,13 +433,19 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
    valls de Andorra…*, **Seu d'Urgell, 1866, in-12, 16 pàgines**, qualificada de
    **«molt rara»** ja el 1904—: **el corpus en té una transcripció de 1920, no
    l'edició.**
-2. **L'aprovació episcopal impresa al capdavant de la Reforma**, amb els seus
-   paràgrafs. **En cita el § 1.** `obert, prioritari: és la peça que l'acusació
-   del 1894 posa en qüestió.`
-3. **L'exposició de motius del 24 d'abril de 1866** adreçada al Govern francès.
-   `obert.`
-4. **El decret del Consell General del 16 d'octubre de 1900** que fixa la tarifa
-   de la consignació. `obert, datat.`
+2. ~~**L'aprovació episcopal impresa al capdavant de la Reforma**, amb els seus
+   paràgrafs. **En cita el § 1.**~~ — **`parcial` el 21-09-2026**: Brutails
+   confirma que l'aprovació episcopal era impresa al capdavant de la Reforma i
+   en cita el **§ 1** com a base de la renovació per meitat del Consell General;
+   **els paràgrafs íntegres encara falten** ([*La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)).
+3. ~~**L'exposició de motius del 24 d'abril de 1866** adreçada al Govern francès.~~ —
+   **`parcial` el 21-09-2026**: la mateixa nota de Brutails identifica la data,
+   el destinatari i el propòsit, que qualifica de «bastant confús»; **el text de
+   l'exposició encara no és al corpus** ([Brutails](../../../raw/llibres/brutails-coutume.txt)).
+4. ~~**El decret del Consell General del 16 d'octubre de 1900** que fixa la tarifa
+   de la consignació.~~ — **`parcial` el 21-09-2026**: Brutails en dona la data i
+   confirma que el decret és la font de la tarifa, però **no en transcriu
+   l'articulat ni les quantitats** ([Brutails](../../../raw/llibres/brutails-coutume.txt)).
 5. ~~**El Politar, p. 252 i p. 240.** Cal comprovar si aquelles dues pàgines són
    dins de l'extracte.~~ — **TANCAT el 2026-09-16.** **Hi són.** Creuant la
    paginació interna registrada de cada unitat amb els números que Brutails dona,
