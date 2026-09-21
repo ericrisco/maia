@@ -97,7 +97,12 @@ la data i no n'infereix la causa**.
 | **Punt polític** | **1979** | butlletí del **Partit Polític Demòcrata Andorrà** |
 
 **Andorra Magazine es distribuïa a Algèria i al Marroc.** El corpus no té cap
-altra constància de premsa andorrana al Magrib. **Buit registrat:** per què.
+altra constància de premsa andorrana al Magrib. ~~**Buit registrat:** per què.~~ —
+**`parcial` el 21-09-2026**: la [ponència de la 7a Diada d'Andorra](../../../fonts/premsa-andorra-magazine-distribucio.md)
+documenta els **63 números** i la distribució a cinc territoris; una síntesi
+posterior descriu el producte com a modern, **trilingüe** i inserit en
+l'expansió del comerç i el turisme dels anys setanta. No hi ha contracte ni
+declaració explícita que expliqui la tria d'Algèria i el Marroc.
 
 **I la revista *Claror* la dirigia un refugiat català** — cosa que lliga amb
 [els passadors](../../historia/guerres-i-neutralitat/els-passadors.md) i amb
@@ -182,7 +187,13 @@ aquell any.**
   exemplar ni el recompte complet de números.
 - **Qui el va fer**: l'autora hi dedica l'exposició central i aquesta fitxa només
   n'ha pres el marc.
-- **Per què Andorra Magazine es distribuïa a Algèria i al Marroc.**
+- ~~**Per què Andorra Magazine es distribuïa a Algèria i al Marroc.**~~ —
+  **`parcial` el 21-09-2026**: les fonts confirmen una revista quinzenal de
+  **1970–1975**, amb **63 números**, edició en **català, castellà i francès** i
+  distribució a Andorra, Espanya, França, Algèria i el Marroc. El context és
+  l'obertura informativa i l'expansió comercial i turística dels anys setanta;
+  el motiu contractual o comercial exacte de la distribució magribina continua
+  sense documentar-se ([font](../../../fonts/premsa-andorra-magazine-distribucio.md)).
 - ~~**Les capçaleres del 1981 al 1993**, que la ponència llista i aquesta fitxa
   només recull en part.~~ — **`parcial` el 19-09-2026**: el cos ja enumera les
   capçaleres de **1991** (*Diari d'Andorra* i *Informacions Diari*) i les de
