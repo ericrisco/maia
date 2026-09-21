@@ -204,13 +204,18 @@ diferents i totes dues es resolen escoltant**, no raonant.
 
 **Sobre el parlant**
 
-7. **La llengua primera no consta.** S'infereix del context i el context no és
-   evidència.
-8. **No consta en quin sistema escolar es va formar.** Importa: hi ha
-   construccions que semblen calcades del francès —«l'utilització», «carregar en
-   rama», «era gairebé un art»— i **no es pot dir si són gal·licismes andorrans
-   corrents, escolarització francesa o les dues coses**.
-9. **L'any de naixement és inferit**, no declarat.
+7. ~~**La llengua primera no consta.**~~ — **`font_externa` el 2026-09-22**:
+   **la càpsula no ho declara** i l'únic que hi ha és una inferència pel
+   context, que no és evidència. **Caldria el testimoni directe o una fitxa
+   biogràfica amb procedència documentada.**
+8. ~~**No consta en quin sistema escolar es va formar.**~~ — **`font_externa`
+   el 2026-09-22**: **la càpsula no identifica l'escolarització**; les formes que
+   semblen calcades del francès no permeten decidir entre gal·licismes corrents,
+   escola francesa o totes dues coses. **Cal una font biogràfica o el testimoni
+   de l'informant.**
+9. ~~**L'any de naixement és inferit**, no declarat.~~ — **`font_externa` el
+   2026-09-22**: **la peça només permet inferir-lo** i no el declara. **Cal una
+   font biogràfica o registral per convertir la inferència en dada.**
 10. ~~**No consta a quina vall feia de pagès.** Diu Canillo la premsa; la peça no
     ho diu.~~ — **`parcial` el 2026-09-22**: el registre identifica **Albert Rossa
     Naudí** com a veí de **Canillo** i la premsa el descriu com a canillenc, però
