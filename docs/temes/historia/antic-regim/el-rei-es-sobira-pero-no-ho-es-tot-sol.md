@@ -290,18 +290,18 @@ mateixa família.`
    *mateix lligall*. **Prioritari**: **és una xifra de quèstia que el corpus no
    tenia.**
 6. **Les lletres patents de Lluís XVI de 1783** — *Arxius de Perpinyà, C 2101* —
-   i **la confirmació de 1770 als habitants de Mérens**. **~~El dret de *barra*~~,
-   `parcial` el 18-09-2026**: **el [DCVB](../../../fonts/dcvb.md) descriu la
-   pràctica sota `barra` I.1.a** —**«Antigament posaven barra de través a un pont
-   o camí, si el passatge estava subjecte a impost, i així no hi podien passar si
-   no pagaven»**—, **amb un document de 1399 que en dona el mecanisme**: «*no
-   gosen passar les dites barres fins que leyalment hagen denunciat a les guardes
-   quant vi aporten*». **És, doncs, un dret de pas i de peatge de camí**, i **que
-   aparegui al costat del dret de pastura en una confirmació als de Mérens
-   encaixa**: **són els dos drets que fan servir els qui baixen a Andorra amb
-   bestiar.** `Cap dels dos diccionaris no té la locució «dret de barra» com a
-   entrada; l'encaix és del corpus i es marca com a tal. I segueix obert quins
-   camins i quin import.`
+   i **la confirmació de 1770 als habitants de Mérens**.
+- ~~**El dret de *barra*.**~~ — **`parcial` el 18-09-2026**: **el
+   [DCVB](../../../fonts/dcvb.md) descriu la pràctica sota `barra` I.1.a** —
+   **«Antigament posaven barra de través a un pont o camí, si el passatge estava
+   subjecte a impost, i així no hi podien passar si no pagaven»**—, **amb un
+   document de 1399 que en dona el mecanisme**: «*no gosen passar les dites
+   barres fins que leyalment hagen denunciat a les guardes quant vi aporten*».
+   **És, doncs, un dret de pas i de peatge de camí**, i **que aparegui al costat
+   del dret de pastura en una confirmació als de Mérens encaixa**: **són els dos
+   drets que fan servir els qui baixen a Andorra amb bestiar.** `Cap dels dos
+   diccionaris no té la locució «dret de barra» com a entrada; l'encaix és del
+   corpus i es marca com a tal. I segueix obert quins camins i quin import.`
 7. **La carta del contrôleur général del 22 de març de 1745** — *C 2100* — i **la
    correspondència d'Argenson i de l'intendant de Perpinyà de juny de 1745**.
    **Prioritari**: **són la doctrina francesa escrita i el corpus només en té els

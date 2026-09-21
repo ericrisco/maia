@@ -208,9 +208,9 @@ del 2026, cerca per nom i per sigla.`
 ## Buits registrats
 
 1. **Si s'ha sancionat mai** algú sota aquesta llei, i quantes vegades.
-2. **El desplegament reglamentari**: el règim de funcionament ~~i la dotació
-   pressupostària~~ de la JCLF i del CNL **s'estableixen per reglament**, i el
-   corpus no en té cap. — **`parcial` el 2026-09-18**: **la dotació no existeix
+2. ~~**El desplegament reglamentari**: el règim de funcionament **i la dotació
+   pressupostària** de la JCLF i del CNL **s'estableixen per reglament**, i el
+   corpus no en té cap.~~ — **`parcial` el 2026-09-18**: **la dotació no existeix
    com a partida.** **Cap dels dos òrgans no surt al llibre del pressupost del
    2026**, que sí que dona **2.134.984,61 € al Departament de Política
    Lingüística**, repartits a dalt. **El reglament de funcionament segueix

@@ -740,8 +740,8 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
 
 ## Buits registrats
 
-1. **Els resultats oficials de les eleccions generals**, de qualsevol any.
-   **Prioritari i elemental.** — **`parcial` el 17-09-2026.** **Tancada la part
+1. ~~**Els resultats oficials de les eleccions generals**, de qualsevol any.
+   **Prioritari i elemental.**~~ — **`parcial` el 17-09-2026.** **Tancada la part
    nominal i identificada la causa de la resta.** El corpus té ara **els nou
    decrets de proclamació del 1993 al 2023**
    (`docs/raw/lleis/bopa/decret-proclamacio-elegits-*.txt` i
