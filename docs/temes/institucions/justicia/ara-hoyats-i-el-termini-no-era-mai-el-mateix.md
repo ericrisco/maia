@@ -205,13 +205,21 @@ s'endevina:
 1. **Els tres actes medievals sencers** —**25-07-1477, 21-03-1488 i
    27-07-1599**—, **cap amb signatura d'arxiu.** **Prioritari**: **són les
    crides senceres i el corpus només en té l'extracte.**
-2. **Per què el pregó del 25 de juliol de 1477 dona trenta-un dies i les
+2. ~~**Per què el pregó del 25 de juliol de 1477 dona trenta-un dies i les
    declaracions de crèdits es reben el 15 d'agost**, **deu dies abans que
    s'acabi el termini.** **Pot ser que el termini corri des de la darrera crida.**
-   `Requereix l'acte sencer.`
-3. **Si el termini del pregó anava amb la finalitat** —**un mes per cridar els
+   `Requereix l'acte sencer.`~~ — **`parcial` el 2026-09-21**: la fitxa compta
+   les crides del **25 de juliol, 5 d'agost i 15 d'agost de 1477**, amb intervals
+   d'**onze i deu dies**, i conserva el desajust entre els **trenta-un dies**
+   anunciats i les declaracions rebudes el 15 d'agost. **No permet decidir si el
+   termini corria des de la primera o de la darrera crida.**
+3. ~~**Si el termini del pregó anava amb la finalitat** —**un mes per cridar els
    creditors d'un patrimoni, deu dies per assegurar una compra**. **`Hipòtesi del
-   corpus` sobre tres actes**; **caldrien més crides de cada classe.**
+   corpus` sobre tres actes**; **caldrien més crides de cada classe.**~~ —
+   **`parcial` el 2026-09-21**: les quatre versions reunides mostren **trenta-un o
+   trenta dies** per a crides generals de cessió de béns i **deu dies** per
+   assegurar una compra. **La relació entre termini i finalitat continua sent
+   una hipòtesi del corpus, no una regla demostrada.**
 4. ~~**Per què el 1488 un particular demana sentència al **Veguer** en matèria de
    béns**, quan la justícia civil de primera instància és dels batlles.~~ —
    **`parcial` el 20-09-2026**: el requeriment del **21 de març de 1488** demana
