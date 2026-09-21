@@ -99,5 +99,4 @@ Aquests sis mesos són **la base material** de
   recupera **967 formes terminològiques** de la neu i l'esquí a partir de
   l'estudi Montané-Bastida. **El lèxic del temps i el repertori general de
   muntanya encara no estan buidats.**
-- La **toponímia dels cims**, coll a coll — lligat al
-  [Nomenclàtor](../toponimia/toponimia-andorrana.md).
+- ~~La **toponímia dels cims**, coll a coll — lligat al [Nomenclàtor](../toponimia/toponimia-andorrana.md).~~ — **`parcial` el 21-09-2026**: el [Nomenclàtor oficial](../../../raw/web/andorra_nomenclator.html) ja queda identificat com a font pública de topònims i permet consulta i descàrrega en CSV; encara no s’ha extret la llista específica de cims ni s’ha contrastat coll a coll.
