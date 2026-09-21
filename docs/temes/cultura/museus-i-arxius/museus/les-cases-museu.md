@@ -134,7 +134,11 @@ vernacular i un espai patrimonial; no hi afegeix noms propis ni una genealogia
 - ~~**Les darreres propietàries de Casa Cristo**, i per què van marxar a França.~~ **[parcial · 2026-09-19]** La fitxa ja estableix que eren les darreres propietàries de la casa i que es van establir a **França cap als anys cinquanta**. El motiu concret de la marxa encara no consta.
 - ~~**L'emigració andorrana**~~ — [La Qüestió d'Andorra](../../../historia/segle-xix/la-questio-dandorra.md).
 - ~~**Els boquers amb rostres humans de Cal Pal.**~~ **[parcial · 2026-09-19]** La fitxa ja els situa a la **façana nord-oest** de Cal Pal i els descriu com a **caps de biga amb rostres humans**. L'inventari i el detall constructiu complet encara no consten.
-- **Quantes moles i serradores hi havia al país.**
+- ~~**Quantes moles i serradores hi havia al país.**~~ — **`parcial` el
+  21-09-2026**: la fitxa identifica **una mola i una serradora a Cal Pal, a
+  la Massana**, actives fins als voltants dels anys seixanta, i la font parla de
+  **«les diferents serradores i moles del país»**. El corpus encara no té el
+  recompte ni l'inventari de les altres instal·lacions.
 
 ## Related
 
