@@ -413,7 +413,14 @@ del síndich»**: **el síndic general podia refixar el canvi tot sol.**
    de Paraires i Teixidors de Sant Pere Màrtir d'Escaldes**, que el corpus té
    documentada des del **1604** ([el tèxtil](../../cultura/artesania/el-textil.md)).
    **No consta, però, si els patrons es conserven avui ni on són.**
-5. **Quan es va passar al sistema mètric** a Andorra, i amb quina norma.
+5. ~~**Quan es va passar al sistema mètric** a Andorra, i amb quina norma.~~ —
+   **`parcial` el 2026-09-22**: la **síntesi dels actes del Consell General**
+   situa l'adopció en la sessió del **16 de maig de 1934** (acta **1.169**),
+   continuació del Consell de Sancogesma, i transcriu l'ordre d'adoptar
+   **estrictament el sistema mètric decimal en tots els tractes de compres i
+   vendes** ([síntesi d'actes, 1.169](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)).
+   **El corpus encara no té el text íntegre de l'acta ni una norma separada**
+   que en fixi l'abast i les sancions.
 6. **El Politar, pàgines 583-585**, contra l'original.
 7. ~~**El ducat, a una data concreta**~~ — **`parcial` el 15-09-2026**, i és
    una relació que la taula mal extreta no dona.** Un acte del **24 d'agost del
