@@ -128,7 +128,11 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
   francesos. Si hi havia policia andorrana, per què calia gendarmeria estrangera.
 - **El text de la decisió del Consell General** sobre el registre d'estrangers, i
   si se'n conserva cap registre parroquial.
-- **Si el 1931 hi va haver gendarmes francesos**, com diu Camiade.
+- ~~**Si el 1931 hi va haver gendarmes francesos**, com diu Camiade.~~ —
+  **`parcial` el 2026-09-21**: la fitxa conserva la discrepància —Camiade ho
+  situa el 1931, mentre que les entrades amb cronologia documentada només tenen
+  l'entrada de la Gendarmeria francesa el 1933— i encara no hi ha una font
+  primària que permeti arbitrar-la.
 
 ## Related
 

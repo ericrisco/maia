@@ -229,8 +229,12 @@ primera onada és de 1931 i és de carreteres, no de central**.
    — de manera que **el contracte de concessió tenia almenys disset articles i
    regulava molt més que l'aigua**.
 7. ~~**Quants dels obrers de 1931** eren de la CNT i què se'n va fer.~~ — **`parcial` el 20-09-2026**: la font diu que **molts** pertanyien a la **Confederació Regional del Treball**, i la fitxa d’FHASA la identifica com a filial catalana de la **CNT**. **No hi consta quants eren ni què se’n va fer després de les vagues.**
-8. **Si el 1931 van entrar gendarmes francesos**, o si la frase de Camiade avança
-   els fets del 1933.
+8. ~~**Si el 1931 van entrar gendarmes francesos**, o si la frase de Camiade
+   avança els fets del 1933.~~ — **`parcial` el 2026-09-21**: Camiade associa
+   els gendarmes a l'any 1931, però les entrades del corpus que tenen
+   cronologia i documentació situen l'entrada de la Gendarmeria francesa el
+   **1933**; no hi ha una font primària que permeti decidir si Camiade avança
+   els fets o descriu una altra intervenció.
 
 ## Related
 
