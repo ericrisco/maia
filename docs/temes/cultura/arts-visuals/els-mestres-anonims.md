@@ -168,7 +168,7 @@ reinstal·lar-la a l'església.
    **`parcial`, confirmat el 2026-09-19**: per al retaule de Sant Miquel de
    Prats ja consten tres peces recuperades i les seves col·leccions; encara no
    se sap on són les quatre taules, els guardapols i els fragments restants.
-2. **Els caps del campanar**: què són i què volen dir.
+2. ~~**Els caps del campanar**: què són i què volen dir.~~ — **`parcial` el 21-09-2026**: la font els identifica com a **caps humans esculpits** al capdamunt dels campanars de **Santa Coloma, Sant Miquel d'Engolasters i Sant Marc i Santa Maria d'Encamp**, i en precisa la situació a Santa Coloma; el corpus encara no en sap la funció ni el significat.
 3. ~~Per què **no hi ha escultura en pedra**.~~ — **`parcial` el 2026-09-20**:
    l'inventari que dona la font es redueix a la **decoració de l'absis de Sant
    Esteve**, **poques piques baptismals**, una **columna procedent de Canillo**
