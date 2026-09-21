@@ -179,7 +179,7 @@ Coco).
 - **Els 150 andorrans que hi van fer d'extres**: **cap nom.** **És la
   participació popular més gran en una producció audiovisual sobre la pròpia
   història que el corpus coneix, i no en sap res.**
-- **Francesc Viadiu**, ***Entre el torb i la Gestapo***: **el llibre, no llegit.**
+- ~~**Francesc Viadiu**, ***Entre el torb i la Gestapo***: **el llibre, no llegit.**~~ — **`parcial` el 21-09-2026**: el registre bibliogràfic del [Parlament de Catalunya](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/parlament-fitxa-viadiu-2025.txt) i el [catàleg CCUC](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ccuc-sru-entre-torb-1975.xml) identifiquen Francesc Viadiu i Vendrell, la **2a edició**, **Nova Terra**, **Barcelona, 1975** i **237 pàgines**; el llibre encara no s'ha llegit.
 - **El reportatge d'Eliseo Bayo del 1977.**
 - **El TFG de Sergi Esteves**, en accés obert.
 - ~~**Els cinc llibres nous** de la taula.~~ **[parcial · 2026-09-19]** La
