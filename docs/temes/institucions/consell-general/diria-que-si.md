@@ -230,8 +230,10 @@ aplicada al dret administratiu intern**, i **és de la mateixa mà.**
    no s'havia consultat França, i l'acord dels coprínceps del **25-02-1881**, que
    prohibeix les cases de joc. **Continuen oberts el nombre dels altres casos,
    els seus concessionaris i els actes complets.**
-3. **Les peticions que els Cosenyors «acaben de rebre»** contra reglaments del
-   Consell. `obert.`
+3. ~~**Les peticions que els Cosenyors «acaben de rebre»** contra reglaments del
+   Consell.~~ — **`parcial` el 2026-09-21**: la font confirma que els coprínceps
+   acabaven de rebre peticions contra reglaments del Consell i que les revisaven,
+   però no identifica els peticionaris, els reglaments ni els expedients ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 4. ~~**Si les pàgines del Politar que Brutails cita són dins de l'extracte del
    corpus.**~~ — **TANCAT.** **Les sis hi són**, i **la 283 conté el passatge
    criticat.**
