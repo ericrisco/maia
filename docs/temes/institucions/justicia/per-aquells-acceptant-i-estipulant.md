@@ -291,8 +291,18 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
    bisbe contra el notari francès. El corpus ja té obert **el lligall 2** per
    [altres casos](./nul-per-al-jutge-valid-per-a-la-consciencia.md).
    `Requereix font externa: Archives départementales de l'Ariège.`
-4. **El text del reglament del 8 de febrer de 1607** sencer, i **si el sistema de
-   presentació de dos noms pel Consell es va aplicar sempre**.
+4. ~~**El text del reglament del 8 de febrer de 1607** sencer, i **si el sistema
+   de presentació de dos noms pel Consell es va aplicar sempre**.~~ — **`parcial`
+   el 21-09-2026: la consolidació oficial del notariat confirma que el privilegi
+   d'Andreu Capella del **8 de febrer de 1607** va donar al Consell la facultat de
+   presentar **dos persones idònies**, va fer **únic i vitalici** el notari i va
+   reservar als coprínceps l'elecció alternativa ([Llei 14/2021, exposició de
+   motius](../../../raw/lleis/bopa-originals/original-14-2021.txt)). El mateix
+   text diu que el sistema es mantingué fins al **decret episcopal del 17 de març
+   de 1769**; des d'aleshores els coprínceps nomenaven coetàniament un notari
+   entre dos candidats proposats pel Consell. **Això documenta la continuïtat i
+   el canvi de pràctica, però encara falta el reglament de 1607 sencer i la sèrie
+   de nomenaments que permetria comprovar cada aplicació.**
 5. **Per què el 1466-1468 el notari ho és només pel bisbe d'Urgell** i no pels dos
    cosenyors. **La font no ho comenta.**
 6. ~~**Quan es passa d'un notari a quatre, i per quina decisió.**~~ — **`parcial`
