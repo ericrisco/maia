@@ -247,8 +247,14 @@ Els universitaris que estudien al Principat van passar de **15 el curs
   **El que segueix `obert` és l'«avui»** —centres, titulacions, nombre
   d'estudiants—, **i és el mateix buit que declara la fitxa de la universitat**:
   **totes dues s'aturen el 2000.**
-- **Com tria la gent** el sistema, que és una decisió social carregada i no està
-  documentada enlloc.
+- ~~**Com tria la gent** el sistema, que és una decisió social carregada i no
+  està documentada enlloc.~~ — **`parcial` el 21-09-2026**: [la fitxa de les
+  associacions de pares](./les-associacions-de-pares.md) identifica els **pares**
+  com qui pren «en primer moment les decisions més transcendentals», inclosa la
+  tria del sistema educatiu, i documenta que el **desconeixement social** i els
+  **estereotips** dificultaven diferenciar la formació professional escolar
+  d'altres itineraris. El corpus encara no té una enquesta que separi els
+  criteris de tria per família, llengua, proximitat o sistema.
 - ~~Els col·legis congregacionals i el seu paper històric~~ — **tancat** a
   [l'ensenyament confessional](./lensenyament-confessional.md), que data el pas
   al català a **la segona meitat dels anys setanta** i en dona el mecanisme.
