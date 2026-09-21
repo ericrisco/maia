@@ -97,8 +97,17 @@ Aquest és, precisament, el sentit del projecte de Demnig arreu d'Europa.
 I hi ha un **llibre digital**, ***13 camins cap a l'infern***, que difon les
 històries dels tretze.
 
-**Buit registrat:** quantes llambordes hi ha instal·lades a Andorra, on, i amb
-quins noms. **És la llista que aquesta fitxa necessita.**
+~~**Buit registrat:** quantes llambordes hi ha instal·lades a Andorra, on, i amb
+quins noms. **És la llista que aquesta fitxa necessita.**~~ — **`resolt` el
+21-09-2026**: la iniciativa va acabar amb **vuit pedres**. La llista de la
+primera fase és: **Bonaventura Bonfill** (cal Candela, Meritxell), **Josep
+Calvó** (casa Jaumina de Prats), **Anton Vidal** (casa Vidal), **Josep Franch**
+(cal Ponet del Forn) i **Pere Mandicó** (casa Xicos de Prats; les plaques de les
+cases de Prats es van posar a l'inici del camí ral), **Càndid Rossell** (ca
+l'Adela, Andorra la Vella), **Salvador Montanya**
+(ca la Conxita, Andorra la Vella) i **Bonaventura Casal** (ca l'Aern, la
+Margineda). La font dona també les dates i els camps de deportació ([còpia
+local](../../../raw/web/historia/andorrans-camps-nazis/bondia-stolpersteine-amb-rostre-2025.html)).
 
 ## La recerca en curs
 
