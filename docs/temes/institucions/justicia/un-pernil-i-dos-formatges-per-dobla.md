@@ -468,10 +468,14 @@ localitzat: els llibres de Corts i l'escrivania pública de les Valls.`
 **No consta si els veguers van arribar a treure's l'espasa de debò**, ni quan.
 El Politar diu **«alguna vegada se age experimentat»** i **no dona cap cas.**
 
-**No consta què és exactament un `desener`** ni la seva relació amb el `nunci`,
+~~**No consta què és exactament un `desener`** ni la seva relació amb el `nunci`,
 que el text identifica entre parèntesis —«**que aqui de cert se entenen los
 deners**»— **sense explicar-ho.** **El capítol dels capitans, deseners i guardes
-és al mateix extracte i no s'ha llegit.**
+és al mateix extracte i no s'ha llegit.**~~ — **`parcial` el 21-09-2026**: el
+[glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) el
+defineix com a **oficial de justícia de parròquia, inferior al capità i sotmès al
+batlle**, i el capítol VII ja s'ha llegit; encara no consta la relació exacta amb
+el *nunci* ni què vol dir la glossa «*los deners*».
 
 **No consta l'arreglament sobre les despeses que el Consell avança.** El text hi
 remet amb un **«vide …….» que queda en blanc a l'imprès**.
