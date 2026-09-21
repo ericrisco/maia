@@ -204,7 +204,10 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
    **`parcial` el 20-09-2026**: la xifra i el fet que els prats grassos i el tabac
    no pagaven ni el delme consten a la nota de 1902; la font no n'explica la base
    de valoració.
-4. **Si el tabac va començar a tributar**, i quan.
+4. ~~**Si el tabac va començar a tributar**, i quan.~~ — **`parcial` el
+   2026-09-21**: la font confirma que el tabac **no pagava cap càrrega ni delme
+   el 1904**, però no documenta quan —o si— va començar a tributar després
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 5. ~~**Els casos «tout récents»** en què una ordre als batlles va bloquejar el
    Consell General. Brutails els esmenta i no en data cap.~~ — **`parcial` des del
    2026-09-16**: **segueix sense data**, **però el corpus ja en té la raó
@@ -221,15 +224,21 @@ directament a l'agent dels coprínceps en una matèria del Consell**.
    país el nomenaven els coprínceps.** **Això no explica només aquests casos:
    explica per què l'impost del 1902 va poder caure sense cap sentència.**
    Vegeu [«Diria que sí»](./diria-que-si.md).
-6. **Els dos documents sencers**, de 1580 i 1603, i **com van acabar**. El corpus
-   en té el plantejament i no el desenllaç.
+6. ~~**Els dos documents sencers**, de 1580 i 1603, i **com van acabar**.~~ —
+   **`parcial` el 2026-09-21**: la fitxa transcriu la queixa de Canillo del **30
+   de maig de 1580** i l'obligació notarial dels sis veïns d'Engordany del **17
+   de gener de 1603**, però no conserva els originals ni el desenllaç dels dos
+   procediments ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 7. ~~**Qui eren** Berthomeu Guiem, Bernat Ricart, Bernat Sucarana, Pere Vilar alias
    Terrat, Jean Morato alias Aymar i Catherina.~~ — **`parcial` el 20-09-2026**:
    l'acte del **17 de gener de 1603** ja els identifica com a veïns d'Engordany,
    cinc homes i **Catherina**, que hi figura pel nom i com a muller de Jean
    Morato; no hi ha dades biogràfiques ni una identificació més completa.
-8. **On era «la hera de Riberaygua»**, i per on passava el camí general abans i
-   després.
+8. ~~**On era «la hera de Riberaygua»**, i per on passava el camí general abans i
+   després.~~ — **`parcial` el 2026-09-21**: l'acte de 1603 situa el canvi del camí
+   general **des de les Caldes fins sobre la porta de la hera de Riberaygua**, per
+   la carrera plana i entre terres particulars; la ubicació exacta de la *hera* i
+   el traçat complet anterior i posterior encara no s'han reconstruït ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 
 ## Related
 
