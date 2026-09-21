@@ -176,6 +176,21 @@ inferència del corpus ([fitxa de font](../../../fonts/sorribes-evolucio-premsa-
 importa: **cap dada del corpus que vingui del Diari d'Andorra pot ser anterior a
 aquell any.**
 
+La mateixa relació de Sorribes enumera sis capçaleres que completen el tram que
+faltava entre **1981 i 1993** ([fitxa de font](../../../fonts/sorribes-evolucio-premsa-1994.md)):
+
+| Any o període | Capçalera | Dades que dona la font |
+| --- | --- | --- |
+| **1981–1989** | *Activitats Andorranes* | Setmanari dirigit per **Antoni Zorzano**, amb **468 números** |
+| **1981** | *Noticiari de les Valls* | **50 números** |
+| **1986** | *Línia* | Mensual, amb **10 números** |
+| **1987** | *Guia de l'Oci* | La font en registra el primer número i que va arribar al **núm. 168** |
+| **1989–1993** | *Correu d'Andorra* | **175 números**, dirigit per **Cristina Cornella** |
+| **1992** | *Blanc i Negre* | Publicació juvenil, amb **3 números** |
+
+La llista queda identificada, però el corpus encara no conserva exemplars ni ha
+contrastat la seqüència completa amb la ponència original.
+
 ## El que falta
 
 - ~~**Les dates exactes de *Les Valls d'Andorra***, on les dues fonts discrepen.~~
@@ -207,10 +222,13 @@ aquell any.**
   el motiu contractual o comercial exacte de la distribució magribina continua
   sense documentar-se ([font](../../../fonts/premsa-andorra-magazine-distribucio.md)).
 - ~~**Les capçaleres del 1981 al 1993**, que la ponència llista i aquesta fitxa
-  només recull en part.~~ — **`parcial` el 19-09-2026**: el cos ja enumera les
-  capçaleres de **1991** (*Diari d'Andorra* i *Informacions Diari*) i les de
-  **1993** (*Actual* i *Andorra Magazine*). **Resta oberta la cobertura de
-  1981–1990 i la llista completa de la ponència.**
+  només recull en part.~~ — **`parcial` el 21-09-2026**: el cos ja enumera les
+  capçaleres de **1981–1993** —*Activitats Andorranes*, *Noticiari de les Valls*,
+  *Línia*, *Guia de l'Oci*, *Correu d'Andorra*, *Blanc i Negre*, *Diari
+  d'Andorra*, *Informacions Diari*, *Actual* i *Andorra Magazine*— i en dona
+  anys, directors o nombre de números quan la font els registra. **Resta oberta
+  la consulta d'exemplars i la comprovació de la llista completa de la
+  ponència.**
 - **Si la llista de la Biblioteca Nacional és completa**: l'autora diu que no ho
   pot garantir.
 
