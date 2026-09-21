@@ -227,9 +227,11 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    Brutails en dona la data, l'autor institucional i el motiu expressat —la
    penjada era costosa i es demanava el garrot per economia—, però no en
    transcriu el text i l'original continua pendent.
-2. **Si el garrot el va demanar el Consell General per economia o el va comprar
-   el copríncep per humanitat.** `Registrat, no arbitrat.` **El corpus té dues
-   versions incompatibles, i la que ve d'enciclopèdia no cita document.**
+2. ~~**Si el garrot el va demanar el Consell General per economia o el va comprar
+   el copríncep per humanitat.**~~ — **`parcial` el 21-09-2026**: Brutails
+   atribueix la petició al **Consell General per motius econòmics**; la versió
+   alternativa, procedent d'una enciclopèdia sense document citat, l'atribueix al
+   copríncep per humanitat. **La divergència queda registrada i no arbitrada.**
 3. ~~**El cas de l'indult de 1854**: **qui era el condemnat, per quin delicte, i
    quant va durar la discussió**~~ — **`parcial` el 15-09-2026**: **consta que
    va morir a la presó i no quan**. La lectura queda tancada per la banda
