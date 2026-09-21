@@ -156,8 +156,9 @@ contra l'original** abans de citar-les enlloc.
 
 ## El que falta
 
-- ***Arrels d'Andorra***, d'Anglada (Ed. Andorra, **1993**) — **el llibre on
-  desplega tot això**.
+- ~~***Arrels d'Andorra***, d'Anglada (Ed. Andorra, **1993**) — **el llibre on
+  desplega tot això**.~~ — **`parcial` el 21-09-2026**: la bibliografia queda
+  identificada, però el corpus encara no ha llegit el llibre.
 - El **Cartulari de la Vall d'Andorra** de **Cebrià Baraut** (1988, 1990) i el
   **Diplomatari del segle XIV** (1993) — **les fonts documentals de base**.
 - ~~L'***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
