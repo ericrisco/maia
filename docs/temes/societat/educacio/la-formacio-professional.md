@@ -233,9 +233,9 @@ respon quines branques va triar cada noia.
 
 - ~~**Si es va crear el marc legal general de la FP** que la Comissió Nacional va
   encomanar per al curs següent.~~ — **`parcial` el 20-09-2026**: la [Llei d’ordenament del sistema educatiu de 1994](../../../raw/web/societat/educacio/fp-marc-legal/portal-1994.txt) ja regula la FP, els programes i la pràctica obligatòria en empresa; la [Llei 7/2023](../../../raw/web/societat/educacio/fp-marc-legal/portal-2023.txt) crea el Marc andorrà de qualificacions i hi equival les titulacions de FP. **Continua obert l’expedient concret de la Comissió de l’any 2000 i si aquell encàrrec va produir un text nou.**
-- **Si es va fer alguna cosa amb els dos-cents contractes de menors.**
-- **Quantes promocions d'aprenents hi ha hagut des del 2000** i amb quines
-  branques.
+- ~~**Si es va fer alguna cosa amb els dos-cents contractes de menors.**~~ — **`parcial` el 21-09-2026**: la ponència compta **uns 200 contractes** de menors de 16 a 18 anys sense formació i diu que el Departament de Treball i la Cambra hi treballaven per crear un model amb un mínim de formació; el corpus no té el programa ni el resultat posterior.
+- ~~**Quantes promocions d'aprenents hi ha hagut des del 2000** i amb quines
+  branques.~~ — **`parcial` el 21-09-2026**: la font documenta la **primera promoció (1997)** i la **segona (1998)**, amb automoció, hoteleria i comerç, i l'API moderna dona totals d'estudiants de FP, però no la sèrie completa de promocions del CFA ni les branques de cada any.
 - ~~**Els salaris reals**: el corpus sap que un aprenent va del 25% al 80% del
   salari base, i **no sap quant és el salari base andorrà** de cap any. **Buit
   prioritari i transversal** — afecta totes les fitxes d'economia. ~~—
@@ -265,7 +265,7 @@ decrets i edictes entre el 1989 i el 2026**. **La sèrie sencera és a
 quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
 del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
 amb una sola cerca.**
-- **Si el sector hoteler ha canviat de criteri** sobre la formació.
+- ~~**Si el sector hoteler ha canviat de criteri** sobre la formació.~~ — **`parcial` el 21-09-2026**: entre 1997 i 2000 la font descriu horaris difícils, poca demanda de personal format i poca consciència de la necessitat de formació, mentre la Cambra confirma que l'hoteleria no semblava atractiva als joves; no hi ha una font posterior que acrediti el canvi de criteri.
 - ~~**Quantes noies** hi ha hagut a cada branca.~~ — **`parcial` el 21-09-2026**:
   l’API oficial dona el total de noies de FP entre 2010 i 2024, però no el
   desglossament per branca ni la sèrie de promocions d’aprenents.
