@@ -241,9 +241,9 @@ el Govern**, no el comú.
 
 ## Buits registrats
 
-- **Els comuns poden ser més restrictius** que la llei (article 27.2, final), i
+- ~~**Els comuns poden ser més restrictius** que la llei (article 27.2, final), i
   **els set POUP no són al corpus**: el que realment es pot construir a cada
-  parròquia es decideix allà.
+  parròquia es decideix allà.~~ — **`parcial` el 21-09-2026**: una [nota del Govern](../../../fonts/govern-capacitat-carrega-parroquial-2026.md) del 03-06-2026 confirma que s’havien informat sis estudis de capacitat de càrrega —tots menys el d’Escaldes-Engordany— i que els plans d’urbanisme comunals n’hauran d’incorporar els preceptes quan els aprovin els comuns. La font no publica els set POUP ni les seves normes parcel·làries completes, de manera que encara no permet saber què es pot construir en cada parròquia.
 - ~~**Les 20 versions no s'han comparat.**~~ — **`parcial` el 2026-09-22**: el
   [text consolidat local](../../../raw/lleis/ordenacio-territorial.txt) confirma
   **20 versions** de la Llei general d'ordenació del territori i urbanisme de
