@@ -235,9 +235,9 @@ detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica
   [la secció de rendiment](#el-rendiment-i-la-precaucio-que-shi-ha-de-posar).
   El rendiment del **2025** continua obert perquè la superfície i la collita
   disponibles no són del mateix any.
-- **Què es planta al «tabac amb conreu posterior».**
-- **Quants conreadors de tabac hi ha.** La taula dona explotacions totals per
-  parròquia, **no quantes fan tabac**.
+- ~~**Què es planta al «tabac amb conreu posterior».**~~ — **`parcial` el 21-09-2026**: la sèrie d'Agricultura identifica la categoria i en compta **282.991,61 m²** el 2025, però el fitxer no especifica quin conreu posterior s'hi fa.
+- ~~**Quants conreadors de tabac hi ha.** La taula dona explotacions totals per
+  parròquia, **no quantes fan tabac**.~~ — **`parcial` el 21-09-2026**: el quadre de 2025 dona **302 explotacions totals** —i **194 sense bestiar de renda**— i la superfície de tabac per parròquia, però no el nombre d'explotacions que el conreen.
 - ~~**Per què Andorra la Vella**~~ — **`parcial` el 20-09-2026**: la parròquia
   declara **171.452 m² de tabac**, el **16,7% del tabac del país**, i el tabac
   ocupa el **42,4% de la seva terra agrària declarada**, la proporció més alta;
