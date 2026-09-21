@@ -373,8 +373,13 @@ contingut religiós** i **la inspecció espanyola controlant la resta**.
   recompte.
 - **Els «diferents centres escolars que van obrir (i alguns també van tancar)»**:
   la font insinua que n'hi va haver més dels cinc que enumera.
-- **La llengua abans dels setanta**: si s'hi ensenyava en castellà des del 1882,
-  el corpus té un segle de castellanització escolar documentada per aquesta via.
+- ~~**La llengua abans dels setanta**: si s'hi ensenyava en castellà des del 1882.~~ —
+  **`parcial` el 21-09-2026**: [Ríos y Urruti (1920)](../../../raw/llibres/rios-urruti-andorra-1920.txt)
+  descriu les escoles primàries i diu que **s'hi ensenya el català**, però que
+  **l'única gramàtica estudiada és la castellana**. És una dada contemporània
+  que separa llengua d'ensenyament i gramàtica, però no permet projectar aquesta
+  pràctica fins a l'obertura del col·legi de Canillo el 1882 ni cobrir tot el
+  període anterior als setanta.
 
 ## Related
 
