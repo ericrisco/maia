@@ -196,13 +196,11 @@ s'havien llegit.** **Aquí hi és, i és curt:**
    hauria de buscar i que no ho ha fet.** **Prioritari i explícit.**
    `Requereix font externa: l'Arxiu Diocesà i Capitular de la Seu d'Urgell.`
 2. **La censiva de 1167**, i **on és la referència anterior del llibre** (p. 61).
-3. **El decret del Consell General del 30 d'octubre de 1877**, sencer. **Que un comú
-   tingui el domini directe de tots els seus comunals no és poca cosa i el corpus
-   no en té res més.**
+3. ~~**El decret del Consell General del 30 d'octubre de 1877**, sencer.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la data i la disposició substantiva —el comú de Sant Julià tenia el domini directe de tots els comunals de la parròquia—, però no el text íntegre ni l'expedient.
 4. **El contracte d'emfiteusi del got d'aigua**: **de quina parròquia i de quina
    confraria.** **La font escriu «la paroisse de X.».**
-5. **L'emfiteusi de 1890** de l'escola de noies d'Andorra la Vella, **i si l'escola
-   es va arribar a construir.**
+5. ~~**L'emfiteusi de 1890** de l'escola de noies d'Andorra la Vella, **i si l'escola
+   es va arribar a construir.**~~ — **`parcial` el 21-09-2026**: la font identifica l'emplaçament donat en emfiteusi a les autoritats d'Andorra la Vella i un cens d'uns **3 duros anuals**; el corpus no ha verificat si l'escola es va arribar a construir.
 6. ~~**Quantes censives hi havia el 1904.**~~ — **`parcial` el 19-09-2026**: la
    font les qualifica **«en petit nombre»** i en cita **quatre**, però no dona el
    total.
