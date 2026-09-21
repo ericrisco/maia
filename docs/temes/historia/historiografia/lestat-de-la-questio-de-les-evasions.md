@@ -168,12 +168,12 @@ i [la historiografia](./historiografia.md) documenten com a construcció.**
   Segona Guerra Mundial»*, *Papers de Recerca Històrica* 4 (SAC, 2004),
   p. 80-100.** **El títol sol ja val la fitxa.**~~ — **`resolt` el 20-09-2026**:
   llegit l'article de **Claudi Benet i Mas** ([text conservat](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/benet-2004-andorra-fosca-generosa.txt)), que descriu la doble cara d'Andorra durant la Segona Guerra Mundial, el pas de **prop de trenta mil persones** pels Pirineus i una cadena pel **port d'Arinsal, el Port del Siguer, el port de l'Abeille, el Serrat, Llorts i la Massana**. Dona els noms de **Joaquim Baldrich, Vicenç Conejos, Joan Calvet, Monpel, la família Molné de casa Palanques i Antoni Forné i Jou**, els hotels utilitzats i dues tarifes atribuïdes als testimonis —**3.000** i **1.300 pessetes** per persona—; també conserva el document sobre **Grosjean** i l'article sensacionalista de *Reporter* de 1977, amb les reserves de veracitat que hi posa l'autor.
-- **Calvet, Rieu-Mias i Riudor**, ***La batalla del Pirineu*** (Garsineu, 2011).
+- ~~**Calvet, Rieu-Mias i Riudor**, ***La batalla del Pirineu*** (Garsineu, 2011).~~ — **`parcial` el 2026-09-21**: la [fitxa bibliogràfica](../../../fonts/passadors-bibliografia-2026.md) localitza una edició francesa relacionada, *La bataille des Pyrénées*, de **Josep Calvet, Annie Rieu Mias i Noemi Riudor Garcia**, publicada per **Le Pas d'oiseau el 2014**, ISBN **978-2-917971-37-6**. La referència catalana de Garsineu (2011) queda com a possible edició diferent; cap de les dues no s'ha llegit.
 - ~~**Émilienne Eychenne**, **les tres obres**: el corpus no en té cap.~~ — **`parcial` el 20-09-2026**: la [bibliografia contrastada](../../../fonts/eychenne-bibliografia.md) identifica *Les Pyrénées de la liberté* (France-Empire, 1983; reedició Privat, 1998), *Les Montagnards de la liberté* (Milan, 1984) i *Les Portes de la liberté* (Privat, 1985). Continua pendent llegir els llibres i extreure què hi ha específicament sobre Andorra.
-- **David Mas**, ***Les valls d'Andorra i el maquis antifranquista*** (Editorial
-  Andorra, 1985).
-- **Assumpta Montellà**, ***Contrabandistes de la llibertat*** (Ara Llibres,
-  2009).
+- ~~**David Mas**, ***Les valls d'Andorra i el maquis antifranquista*** (Editorial
+  Andorra, 1985).~~ — **`parcial` el 2026-09-21**: [Editors d'Andorra](../../../fonts/passadors-bibliografia-2026.md) confirma la primera edició de **1985**, en català, amb **152 pàgines** i pròleg de **Josep M. Ainaud de Lasarte**. El llibre encara no s'ha llegit.
+- ~~**Assumpta Montellà**, ***Contrabandistes de la llibertat*** (Ara Llibres,
+  2009).~~ — **`parcial` el 2026-09-21**: la [fitxa de la BnF](../../../fonts/passadors-bibliografia-2026.md) confirma **Badalona, Ara Llibres, 2009** i l'ISBN **978-84-92552-17-7**. El llibre encara no s'ha llegit.
 - ~~**La placa de la Massana.**~~ — **`parcial` el 21-09-2026**: [Endrets](../../../raw/web/historia/evasions/massana/README.md) identifica el **Monument als Passadors** de la Massana, vinculat a l’**Hotel Palanques**, i llegeix **Antoni Forné, Alfred Vicente Conejos, Josep Mompel i Salvador Calvet**. La crònica de l’[ARA](../../../raw/web/historia/evasions/massana/README.md) precisa que la placa té **vuit noms** i es va col·locar el **2006** «en record de tots els que van lluitar per la llibertat durant la Segona Guerra Mundial». Encara falta la transcripció completa i qui en va promoure la instal·lació.
 - **Si l'Arxiu Episcopal de la Seu d'Urgell s'ha obert des del 2015.**
 
