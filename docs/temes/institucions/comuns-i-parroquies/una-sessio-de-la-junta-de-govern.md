@@ -274,10 +274,8 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    relaciona amb la tradició històrica de posar nom a les cases. Encara falten
    el títol o projecte complet, el nombre total de cases i les persones que hi
    treballen.
-7. **Si la recusació per conflicte d'interès està reglada** en alguna norma
-   comunal o nacional, o si és pràctica.
-8. **Quants negocis hi ha inscrits en total** a la parròquia. L'acta en dona el
-   flux d'un dia, no l'estoc.
+7. ~~**Si la recusació per conflicte d'interès està reglada** en alguna norma comunal o nacional, o si és pràctica.~~ — **`parcial` el 21-09-2026**: l'acta documenta un cas concret —David Pérez Casas abandona la sala mentre es tracta la sol·licitud d'Aparcament Escaldes Centre i s'hi reincorpora després—, però el corpus no ha localitzat la norma ni altres casos per saber si és una pràctica general.
+8. ~~**Quants negocis hi ha inscrits en total** a la parròquia.~~ — **`parcial` el 21-09-2026**: l'acta compta **23 obertures**, **16 modificacions** i **18 ajuts al petit comerç** en una sessió, però no publica l'estoc total d'activitats inscrites.
 
 ## Related
 
