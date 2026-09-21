@@ -212,8 +212,11 @@ l'article 47 de la Constitució.`
   reclama.** **Dues fitxes de branques diferents demanen el mateix llibre.**~~ —
   **`resolt` el 19-09-2026** com a buit duplicat: la referència canònica i el
   que en queda pendent són a la fitxa del ball de l'ossa.
-- **Lluís Dalmau i de Baquer**, ***Historia de la República de Andorra***
-  (1849).
+- ~~**Lluís Dalmau i de Baquer**, ***Historia de la República de Andorra***
+  (1849).~~ — **`parcial` el 21-09-2026**: l'extracció del llibre es conserva a
+  `docs/raw/llibres/dalmau-1849/historia-republica-andorra-1849_djvu.txt` i té
+  fitxa de font pròpia; encara no se n'ha fet la lectura dirigida per a la
+  quèstia.
 - ~~**Què és un sou melgorès**~~, i **quant valien 4.000.** — **`parcial` el
   18-09-2026**: **la moneda, tancada.** **El [DIEC2](../../../fonts/diec2.md) té
   l'entrada**: **«melgorès m. [NU] Moneda emesa pels comtes de Melguell i
