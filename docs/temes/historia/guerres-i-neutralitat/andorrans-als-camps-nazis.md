@@ -127,7 +127,11 @@ habitants no podia fer-hi res**.
 
 - **Els onze noms restants.**
 - ***13 camins cap a l'infern***, el llibre digital.
-- El llibre de **Porta i Cebrián**, i la ressenya de l'**IEC**.
+- ~~El llibre de **Porta i Cebrián**, i la ressenya de l'**IEC**.~~ — **`parcial`
+  el 21-09-2026**: la notícia de RTVA identifica el llibre com *Andorrans als
+  camps de concentració nazis*, de **Roser Porta i Jorge Cebrián**, i diu que
+  tots dos hi farien una xerrada al programa de l'exposició; **el volum i la
+  ressenya de l'IEC encara no són al corpus**.
 - El **treball dels alumnes**, publicat a *EABATX Report*.
 - La recerca de **Pau Chica**, quan es publiqui.
 - ~~**Francesc Boix**, fotògraf de Mauthausen, de qui consta exposició al **CAEE**
