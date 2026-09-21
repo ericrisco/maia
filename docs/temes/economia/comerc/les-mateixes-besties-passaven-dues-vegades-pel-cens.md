@@ -229,9 +229,13 @@ plus florissante de ce pays: la contrebande*».**
    donen tres recomptes consecutius fets **sota el control del veguer i d'agents
    de les duanes franceses**; encara no s'han identificat els agents ni el
    procediment complet, i la font és posterior a la discussió de 1895.
-6. **`Las Cortes Españolas de 1895 y las franquicias de Andorra`**, Madrid,
+6. ~~**`Las Cortes Españolas de 1895 y las franquicias de Andorra`**, Madrid,
    **citat en nota a la p. 139 com a font de l'article de Carvajal.** **Opuscle
-   nou i no vist.**
+   nou i no vist.**~~ — **`parcial` el 2026-09-24**: la [bibliografia de
+   Becat](../../../fonts/becat-bibliografia-carvajal-2019.md) identifica el
+   fulletó com *Las Cortes Españolas de 1895. Las Franquícias de Andorra*, de
+   J. de Carvajal, Imp. Hijos de M.G. Hernández, Madrid, 1895, 45 p., 20 cm.;
+   encara no tenim l'opuscle ni la taula de la p. 9.
 7. **Què deien els andorrans** de l'acusació de doble comptatge. **El corpus té
    la queixa francesa i la declaració del bisbe, i cap resposta del Consell
    General sobre les xifres.**

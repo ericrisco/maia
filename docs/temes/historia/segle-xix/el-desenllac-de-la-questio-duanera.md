@@ -490,10 +490,14 @@ caracterització del frau andorrà.**
 5. ~~**Quan es va restablir la franquícia**, si és que es va restablir. El 1904
    encara no.~~ **TANCAT el 2026-09-13: el maig de 1908.** Vegeu la secció de
    sota.
-6. **El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***
+6. ~~**El fullet *Las Cortes españolas de 1895 y las franquicias de Andorra***
    (Madrid, **1895**), que Vilar cita en nota i el corpus no té. **Brutails el
    cita amb pàgina —la 9—** i n'extreu la quota; segueix sent el document que
-   falta.
+   falta.~~ — **`parcial` el 2026-09-24**: la [bibliografia de
+   Becat](../../../fonts/becat-bibliografia-carvajal-2019.md) identifica el
+   fulletó com *Las Cortes Españolas de 1895. Las Franquícias de Andorra*, de
+   J. de Carvajal, Imp. Hijos de M.G. Hernández, Madrid, 1895, 45 p., 20 cm.;
+   encara no tenim l'opuscle ni la taula de la p. 9.
 7. **La temptativa espanyola de 1864**, des d'altres fonts.
 
 ## Related
