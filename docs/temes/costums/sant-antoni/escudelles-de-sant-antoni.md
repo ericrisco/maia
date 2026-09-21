@@ -81,7 +81,10 @@ folklore andorrà no és un bloc immòbil heretat; té capes, i algunes són d'a
   identifica la **Confraria de Sant Sebastià de Sant Julià** com una forma
   d’assistència mútua; encara falta la fitxa de la festa del 20 de gener i l’any
   de pesta associat a la confraria.
-- La benedicció d'animals: si encara es fa i on.
+- ~~La benedicció d'animals: si encara es fa i on.~~ — **`parcial` el 21-09-2026**:
+  la fitxa documenta que la festa de Sant Antoni estava lligada a dur el bestiar
+  a beneir i que les escudelles es fan a totes les parròquies; el corpus no té
+  una font actual que confirmi si la benedicció encara es fa ni en quins llocs.
 - El *sant Antoni del porquet* i el debat sobre «reinventar les tradicions» que
   apareix a la premsa cultural.
 
