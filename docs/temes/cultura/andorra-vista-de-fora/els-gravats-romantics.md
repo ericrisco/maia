@@ -136,7 +136,12 @@ consultat s'atura aquí.
    identifica Langlois/Jory, Boucourian, Vuillier, Burnand i de
    Meaulle/Meyer, amb títols, anys i nombre de peces quan la font el dona; el
    corpus encara no ha inspeccionat totes les estampes.
-2. Un **cas documentat** de gravat que no s'assembla al lloc real.
+2. ~~Un **cas documentat** de gravat que no s'assembla al lloc real.~~ —
+   **`parcial` el 21-09-2026**: la ponència de la [15a Diada Andorrana](../../../raw/web/cultura/15a-diada-andorrana-2002.txt)
+   identifica el gravador **Dunki** i diu que les seves representacions eren
+   desmesurades i que en ocasions s’allunyaven de la realitat. La font encara
+   no dona el títol ni el lloc concret d’un gravat, de manera que el cas visual
+   complet queda pendent.
 3. ~~Els **reculls editats** dels paisatgistes catalans a Andorra~~ —
    **`parcial` el 18-09-2026**: identificat el catàleg de l'exposició
    *Talents amb denominació d'origen. De Rigalt a Puigdengolas* del Museu
