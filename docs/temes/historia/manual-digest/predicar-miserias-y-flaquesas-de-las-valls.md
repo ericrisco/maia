@@ -314,9 +314,13 @@ més citades.**
    mateix volum. **La divergència queda identificada, però no es tria cap data
    sense establir si la font està datada per un manuscrit, una còpia o una
    errata editorial.**
-5. **Si la còpia autèntica de 1879 és encara al ministeri de Justícia francès**,
-   i **si es pot col·lacionar amb els exemplars d'Andorra.** **Prioritari**:
-   **és la que van llegir tots dos autors francesos.**
+5. ~~**Si la còpia autèntica de 1879 és encara al ministeri de Justícia francès**,
+   i **si es pot col·lacionar amb els exemplars d'Andorra.**~~ — **`parcial` el
+   21-09-2026**: la font la descriu com una **còpia autèntica, certificada pel
+   síndic Moles i el prefecte de l'Arieja el 1879**, dipositada al Ministeri de
+   Justícia francès i llegida pels autors francesos. **El corpus no n'ha
+   comprovat la supervivència actual ni ha fet la col·lació amb els exemplars
+   andorrans.**
 6. ~~**Les altres màximes del llibre sisè.**~~ — **`parcial` el 18-09-2026:
    **Vilar en transcriu set en català a la nota de la p. 61** i el corpus ja les
    ha destil·lades. **La font no diu quantes màximes conté en total el llibre
