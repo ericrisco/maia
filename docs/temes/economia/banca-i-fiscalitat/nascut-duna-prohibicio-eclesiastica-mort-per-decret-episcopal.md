@@ -251,8 +251,15 @@ Caldes**.
    **19 de juny de 1866**. La cronologia demostra quin tipus prevalia el 1866,
    però no prova si el 3 % es va aplicar efectivament ni si hi hagué derogació
    expressa.
-3. **Què va respondre el Govern francès** a la sol·licitud d'aprovació de desembre
-   de 1833. **La font no ho diu.**
+3. ~~**Què va respondre el Govern francès** a la sol·licitud d'aprovació de desembre
+   de 1833. **La font no ho diu.**~~ — **`parcial` el 2026-09-21**: les
+   [actes històriques del Consell General](../../../fonts/actes-historiques-consell-general.md)
+   registren que el **15 d'abril de 1834** el Consell, en vista de la súplica
+   de la majoria dels veïns, va encarregar **Anton Rossell**, cònsol d'Encamp,
+   i **Gil Areny (Som)**, cònsol de Canillo, d'acudir al copríncep francès per
+   obtenir l'aprovació de la rebaixa al 3 %. El volum consultat no conserva la
+   resposta del Govern francès ni permet saber si va arribar; el contingut de
+   l'aprovació continua obert.
 4. ~~**Les peces justificatives p. XXIX (creació de censal del 13-01-1788), p. XXXII
    (acte de rescat del 16-03-1788), p. XXXIII (encarregament del 13-04-1788)**~~ —
    **totes tres llegides el 24-09-2026**, i **el corpus té ara el cicle sencer d'un
