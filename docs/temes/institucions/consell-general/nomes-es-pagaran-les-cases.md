@@ -159,10 +159,7 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 
 ## Buits registrats
 
-1. **Com es va aplicar la decisió sobre la carretera.** **La font diu «hi hauria
-   molt a dir» i no ho diu.** **Prioritari**: és una expropiació sense pagament de
-   capital, sobre el traçat de la primera carretera del país.
-   `Requereix font externa: els llibres d'acords del Consell General.`
+1. ~~**Com es va aplicar la decisió sobre la carretera.**~~ — **`parcial` el 21-09-2026**: la font documenta una expropiació sense pagament de capital sobre el traçat de la primera carretera del país i admet que hi hauria molt a dir, però el corpus no té els acords del Consell General que expliquin l'aplicació concreta.
 2. **El decret del Consell General que fixa aquest règim de pagament**: **la font el
    descriu i no el data ni el cita.**
 3. **Quants propietaris hi van quedar afectats**, i **si el Consell va arribar mai a

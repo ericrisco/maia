@@ -262,10 +262,7 @@ defensava.`
 
 ## Buits registrats
 
-1. **La llista de concessions establerta pel Consell General**, que la font
-   invoca com a prova i no reprodueix. **Prioritària**: és l'inventari del que
-   estava concedit el 1904.
-   `Requereix font externa: els llibres d'acords del Consell General.`
+1. ~~**La llista de concessions establerta pel Consell General**, que la font invoca com a prova i no reprodueix.~~ — **`parcial` el 21-09-2026**: la fitxa identifica la llista com l'inventari de concessions vigents el 1904 i n'explica el valor probatori, però no en té el contingut ni els llibres d'acords on es va establir.
 2. ~~**El decret del 29 de març de 1893 sencer**, i **el del 20 de desembre de 1893**,
    i **el del 3 de febrer de 1898** sobre el tabac. — **El de 1849 sobre els
    estrangers, en canvi, es TANCA el 2026-09-18**: **el text és a** [aquesta opinió

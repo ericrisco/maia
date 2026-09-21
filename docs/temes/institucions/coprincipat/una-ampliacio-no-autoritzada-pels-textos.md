@@ -314,9 +314,7 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    16è—, i **a la titulatura i a la signatura del bisbe**: «*Josep Bisbe d'Urgell,
    Princep soberá de les valls d'Andorra*». `Registrat: la frase «se repite en las
    bases» és certa per al títol singular i no per a la fórmula plural.`
-3. **La norma per la qual l'Estat espanyol nomenava el bisbe d'Urgell «en calidad
-   de patrono» el 1918.** **Citada sense referència.** `Requereix font externa: el
-   règim de patronat vigent a Espanya abans de 1931.`
+3. ~~**La norma per la qual l'Estat espanyol nomenava el bisbe d'Urgell «en calidad de patrono» el 1918.**~~ — **`parcial` el 21-09-2026**: la font documenta la titulatura i el nomenament del bisbe en aquell règim, però no dona la norma espanyola ni la referència que permeti verificar el patronat.
 4. **Cárdenas, *Historia de la propiedad territorial*, I, pp. 227 i seg.** i **el
    règim de les behetries**. **El corpus no té cap dels dos**, ni la *Crónica del
    rey don Pedro*, ni el *Doctrinal de Caballeros*, ni les Partides, llibre III,

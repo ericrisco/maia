@@ -309,10 +309,7 @@ conserva i on.**
 
 ## Buits registrats
 
-1. **Què vol dir *authorisada* en el document de 1784.** **El buit és de l'autor
-   i el corpus l'hereta**: una escriptura privada «autoritzada» per un batlle que
-   tot i així no té «major validitat». `Requereix font externa: el fons notarial
-   de l'Arxiu Nacional d'Andorra, o el mateix document.`
+1. ~~**Què vol dir *authorisada* en el document de 1784.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la fórmula, el paper del batlle i la limitació de «major validitat»; el document original o el fons notarial encara són necessaris per fixar-ne el sentit tècnic.
 2. ~~**Si hi va haver mai cap equivalent andorrà de l'*enregistrement*.**~~ —
    **`parcial` el 19-09-2026**: la font estableix que **no hi era el 1904**, però
    no diu si se’n va projectar mai un equivalent ni quin mecanisme el va

@@ -247,10 +247,7 @@ Jutge el 19 de novembre de 1846:**
 
 ## Buits registrats
 
-1. **L'anàlisi antiga dels arxius d'Encamp** que dona la data del 7 de juny de 1456,
-   **i l'original de la decisió.** **Prioritari i doble**, com ja ho era per a l'altra
-   citació de la mateixa data.
-   `Requereix font externa: l'arxiu comunal d'Encamp.`
+1. ~~**L'anàlisi antiga dels arxius d'Encamp** que dona la data del 7 de juny de 1456, **i l'original de la decisió.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data i les dues conseqüències atribuïdes a la decisió —el canvi de nom dels saigs i el dret de llicències d'obres—, però no té ni l'anàlisi ni l'original de l'arxiu comunal d'Encamp.
 2. **Si les dues citacions del 7 de juny de 1456** —el canvi de nom dels saigs i el
    dret de llicències d'obres— **són el mateix document.** **El corpus no les
    identifica.**

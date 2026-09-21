@@ -356,9 +356,7 @@ ningú.**
   d’un client quan ho permet la llei. La llei de cooperació encara no concreta
   quina informació bancària queda protegida quan la comissió rogatòria ja és
   conforme.
-- **Quantes comissions rogatòries rep i executa Andorra cada any**, i de quins
-  estats. **No consta enlloc del corpus.** `Requereix la memòria del Consell
-  Superior de la Justícia o del Ministeri Fiscal.`
+- ~~**Quantes comissions rogatòries rep i executa Andorra cada any**, i de quins estats.~~ — **`parcial` el 21-09-2026**: la llei enumera les regles d'execució, la gratuïtat ordinària i les despeses anormals, però el corpus no té la memòria del Consell Superior de la Justícia o del Ministeri Fiscal amb el recompte anual i els estats d'origen.
 - **Quant s'ha comissat en benefici de l'Estat andorrà** per l'article 39.
   **La regla és clara i la xifra no existeix al corpus.**
 - ~~**L'article 194 del Codi de procediment penal**, que fixa les formes i els

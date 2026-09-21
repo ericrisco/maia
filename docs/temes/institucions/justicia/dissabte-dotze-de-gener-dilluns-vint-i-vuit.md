@@ -251,9 +251,7 @@ exemple datat. El corpus el refà.**
 
 ## Buits registrats
 
-1. **Amb quin fonament el batlle podia empresonar un ciutadà **sobre una simple
-   sospita***, **amb quin termini i amb quin control.** **La font ho diu com a
-   argument i no cita cap norma.** **Prioritari.**
+1. ~~**Amb quin fonament el batlle podia empresonar un ciutadà sobre una simple sospita, amb quin termini i amb quin control.**~~ — **`parcial` el 21-09-2026**: la font documenta l'argument i la pràctica d'empresonament, però no cita la norma ni permet reconstruir-ne el termini i el control.
 2. ~~**El final de la frase de la p. 278** sobre per quines raons el jutge *a
    quo* pot refusar les lletres d'apel·lació.~~ — **`resolt` el 16-09-2026
    sobre la pàgina impresa** (p. 278, PDF 465). **Raons de procediment** —valor
