@@ -144,19 +144,30 @@ l'**hostal arrendat pels seus avantpassats**.
 
 ## Buits registrats
 
-1. **La llista d'arrendataris** i els **noms de casa**. **Font primària que
-   existeix** — Lacueva la va treballar.
-2. **El text d'una taba** sencera.
+1. ~~**La llista d'arrendataris** i els **noms de casa**.~~ — **`font_externa`
+   el 2026-09-22**: **Lacueva confirma que la font primària existeix i que la va
+   treballar**, però la llista no s'ha incorporat al corpus. **Cal recuperar el
+   registre per publicar-ne els noms amb context.**
+2. ~~**El text d'una taba** sencera.~~ — **`font_externa` el 2026-09-22**:
+   **la fitxa només en descriu la funció contractual** i no en conserva cap
+   exemplar complet. **Cal localitzar una taba d'arrendament per transcriure-la.**
 3. ~~**Per què desapareixen** exactament als anys 1920-1930.~~ — **`parcial` el 21-09-2026**: la fitxa documenta els hostals comunals i el seu context, però **no té una font que expliqui el moment i la causa concreta de la desaparició**.
-4. **Quants llits** tenia un hostal comunal.
+4. ~~**Quants llits** tenia un hostal comunal.~~ — **`font_externa` el
+   2026-09-22**: **la font no dona cap capacitat** i el corpus no té inventaris
+   ni contractes amb el nombre de llits. **Cal una peça d'arrendament o un
+   inventari d'hostal.**
 5. ~~Si **totes** les parròquies en van tenir, i des de quan.~~ — **`parcial`
    el 21-09-2026**: Lacueva documenta el primer arrendament conegut a **Canillo
    (mitjan segle XVI)** i dóna activitat d'hostal a **Sant Julià, Ordino,
    Escaldes i Andorra la Vella**; la font només diu que probablement n'hi havia
    un a cada parròquia i no aporta encara la prova ni la data per a **Encamp i
    la Massana**.
-6. **Els preus d'arrendament**, com a sèrie.
-7. **Què passava** si un foraster dormia en una altra casa.
+6. ~~**Els preus d'arrendament**, com a sèrie.~~ — **`font_externa` el
+   2026-09-22**: **la fitxa no conserva cap quota ni calendari de preus**. **Cal
+   reunir contractes o comptes d'arrendament per formar la sèrie.**
+7. ~~**Què passava** si un foraster dormia en una altra casa.~~ — **`font_externa`
+   el 2026-09-22**: **la font no descriu aquesta situació** i el corpus no té una
+   regla, taba o cas que la resolgui. **Cal una ordenança o un expedient concret.**
 
 ## Related
 
