@@ -270,7 +270,7 @@ d'aquesta fitxa promet per endavant.**
 2. ~~**Capítols matrimonials reals** d'arxiu, sencers.~~ **TANCAT, amb dos**, del
    **1788**: [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md)
    — un d'hereu i un **d'hereva**.
-3. **Quan cauen en desús** — cap data.
+3. ~~**Quan cauen en desús** — cap data.~~ — **`parcial` el 21-09-2026**: la mateixa fitxa documenta que els capítols matrimonials **han caigut clarament en desús** i que avui es fan servir sobretot per pactar règims econòmics o convencions de crisi matrimonial. Encara no hi ha una data o una sèrie que situï el canvi.
 4. ~~Si la fórmula era **específicament andorrana** o compartida amb
    Catalunya.~~ — **`parcial`, i ara amb una segona veu que diu el mateix.**
    **A Brutails** —«la institució d'hereu per contracte de matrimoni és corrent
