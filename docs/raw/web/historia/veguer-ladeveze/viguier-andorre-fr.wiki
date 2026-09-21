@@ -1,0 +1,244 @@
+{{Voir homonymes|Viguier}}
+
+Le '''viguier''' était, en [[Andorre]], un juge au [[Tribunal supérieur d'Andorre]]. Chaque [[Cosuzeraineté d'Andorre|cosuzerain de la principauté]], l'[[Liste des évêques d'Urgell|évêque d'Urgell]] et le [[président de la République française]], nommait un viguier, respectivement désignés sous le terme de « viguier épiscopal » et « viguier français ». La fonction a disparu en {{date|1993}}.
+
+== Historique ==
+{{Article détaillé|Cosuzeraineté d'Andorre}}
+
+Le terme de {{citation|viguier}} provient de {{citation|[[wikt:vicaire|vicaire]]}}<ref name="Indépendance">{{Lien web |titre=Andorre : de la double suzeraineté à l'indépendance |périodique=[[Le Monde]] |date=13 mars 1993 |url=https://www.lemonde.fr/archives/article/1993/03/13/espace-europeen-andorre-de-la-double-suzerainete-a-l-independance_3918420_1819218.html}}.</ref> et désigne un représentant du seigneur.
+
+En {{date|819}}, [[Louis le Pieux]] concéda aux habitants d'Andorre la Grande [[Charte]] ({{lang|la|Magna Carta}}) qui accorde l'indépendance de la communauté des bergers et des agriculteurs des vallées andorranes<ref name="All Andorra">{{Lien web |titre=Création de l’Europe. Europe histoire: Andorre |site=all-andorra.com |url=https://all-andorra.com/fr/lhistoire/ |consulté le=14 février 2017}}.</ref>.
+
+En {{date|1278}}, fut signé le traité de [[paréage]] instaurant la suzeraineté partagée de l'Andorre entre le comte de Foix, {{souverain3|Roger-Bernard III de Foix}}, et l'évêque d'Urgell, [[Pere d'Urtx]]. Ceci donna à la petite principauté son territoire et sa forme politique. Les Andorrans s'engageaient à verser annuellement une prestation, la ''quèstia'', fixée à quarante mille sous, à l'Évêque d'Urgell. En {{date|1288}} un nouveau traité de paréage est signé entre {{souverain-|Roger-Bernard III}} et Pere d'Urtx pour sceller un accord sur la démolition d'un château (Saint Vincent) que le Comte de Foix avait fait bâtir contrairement aux accords du premier paréage garantissant la neutralité entre les deux coprinces.
+
+Andorre est placée depuis {{date|1278}} sous l'autorité indivise de deux [[Cosuzeraineté d'Andorre|coprinces]] : l'[[Liste des évêques d'Urgell|évêque d'Urgell]] et le chef d'État français (le [[Liste des monarques de France|roi de France]], l'[[empereur des Français]] puis le [[président de la République française]]). Chacun de ces deux coprinces délègue ses pouvoirs à un viguier : 
+* le viguier épiscopal, choisi par les Andorrans et nommé pour trois années par l'évêque d'Urgel ;
+* le viguier français, initialement originaire du [[département français]] de l'[[Ariège (département)|Ariège]], et nommé pour une durée illimitée par le gouvernement français.
+
+À partir de {{date|1981}}, le viguier français est remplacé systématiquement, dans ses fonctions judiciaires, par un [[Magistrat (France)|magistrat français]]. De son côté, le viguier épiscopal se fait lui aussi remplacer par un magistrat espagnol à partir de {{date|1988}}.
+
+En {{date|1993}}, la fonction de viguier disparaît avec l'entrée en vigueur de la [[Constitution d'Andorre]]<ref name="Indépendance"/>.
+
+== Liste des viguiers ==
+
+=== Viguiers épiscopaux ===
+{{...}}
+
+* {{période|1737|1748}} : [[Antoni Fiter i Rossell]]
+* {{période|1748|1754}} : Pere Fiter i Rossell
+* {{période|1756|1777}} : Guillem Moles i Rossell
+* ?–? : Pere Mateu Moles
+* ?–? : Guillem d'Areny i Montargull
+* ?–? : Pere Mateu Moles
+* {{période|1845|1858}} : Bonaventura Riba
+* {{période|1858|1860}} (?) : Guillem Torres
+* {{date|1863}}–? : Rossell
+* ?–? : Manuel Arnalot
+* {{période|9 août 1868|1881}} : Pere Dallerès i Sucrana
+* {{période|22 janvier|1881}} : Pere Canturri
+* {{période|1 juillet 1881|1882}} : Josep Oriol Dodero i Pont
+* {{période|27 juillet 1882|1885}} : Francesc Pallerola
+* {{période|16 avril 1885|1886}} : Antoni Cerqueda
+* {{période|8 novembre 1886|1915}} : Francesc Pallerola
+* {{période|17 mai 1915|1933}} : Joseph de Riba
+* {{période|3 juillet 1933|1934}} : Enric de Llorens
+* {{période|3 février 1934|1936}} : Jaume Sansa Nequí
+* {{période|1936|1937}} : Francesc Cairat
+* {{période|1937|1972}} : Jaume Sansa Nequí
+* {{période|19 avril 1972|4 mai 1993}} : Francesc Badia Batalla
+
+=== Viguiers français ===
+* {{période|1144|1185}} : Ramon de Falguera<ref name="L'Andorre du IXe au XIVe siècle p147">[https://books.google.fr/books?id=-DDnfJEoCLwC&pg=PA147&lpg=PA147&dq=viguier+d'andorre&source=bl&ots=pGxnrusE-S&sig=QAj-wdArSXvyfBQ8un1NLP-5fxg&hl=fr&ei=i7n2SYfmG6DNjAegzNTbDA&sa=X&oi=book_result&ct=result&resnum=5 L'Andorre du {{s mini-|IX}} au {{s-|XIV}}], {{p.|147}}.</ref>
+* {{date|1201}}–? : Ramon de Carmanill<ref name="L'Andorre du IXe au XIVe siècle p147" />
+* ?–{{date|1278}} : ''viguiers non connus''
+* {{période|1278|1302}}<ref>De {{date|1278}} à {{date|1479}}, la charge de viguier d'Andorre incombe aux [[Liste des comtes de Foix|comtes de Foix]].</ref> : {{souverain2|Roger-Bernard III de Foix}}, [[Liste des comtes de Foix|comte de Foix]] 
+* {{période|1302|1315}} : {{souverain2|Gaston Ier de Foix-Béarn|Gaston Ier}}, comte de Foix et [[Liste des vicomtes de Béarn|vicomte de Béarn]]
+* {{période|1315|1343}} : {{souverain2|Gaston II de Foix-Béarn}}, comte de Foix, vicomte de Béarn et Lautrec
+* {{période|1343|1391}} : {{souverain2|Gaston III de Foix-Béarn|Gaston III}}, comte de Foix, vicomte de Béarn et Lautrec
+* {{période|1391|1398}} : [[Mathieu de Foix-Castelbon|Mathieu]], comte de Foix, vicomte de Béarn et Castelbon
+* {{période|1398|1412}} : [[Isabelle de Foix-Castelbon|Isabelle]], comtesse de Foix, vicomtesse de Béarn et Castelbon
+* {{période|1412|1436}} : {{souverain2|Jean Ier de Foix}}, comte de Foix et de Bigorre, vicomte de Béarn et Villemur
+* {{période|1436|1472}} : {{souverain2|Gaston IV de Foix-Béarn}}, comte de Foix et de Bigorre, vicomte de Béarn, Nébouzan, Villemeur et Lautrec, [[Pairie de France (Ancien Régime)|pair de France]]
+* {{période|1472|1482}} : [[François Fébus]], [[Liste des monarques de Navarre|roi de Navarre]], duc de Nemours, comte de Foix et Bigorre, vicomte de Béarn, pair de France
+* {{période|1483|1516}}<ref>De {{date|1479}} à {{date|1589}} la charge de viguier d'Andorre incombe aux [[Liste des monarques de Navarre|rois de Navarre]].</ref> : [[Catherine de Navarre|Catherine]], reine de Navarre, duchesse de Nemours, comtesse de Foix et Bigorre, vicomtesse de Béarn
+* {{période|1516|1555}} : {{souverain2|Henri II (roi de Navarre)}}, roi de Navarre, duc de Nemours et d'Albret, comte de Foix, Bigorre, Armagnac et Périgord, vicomte de Béarn et Limoges
+* {{période|1555|1572}} : [[Jeanne d'Albret|Jeanne]], reine de Navarre, duchesse de Nemours et d'Albret, comtesse de Foix, Bigorre, Armagnac et Périgord, vicomtesse de Béarn et Limoges
+* {{date|1580}} : Noble Jean de Godoffre
+* {{période|1614|1615}} : Sr Guillaume de Prétiane
+* {{date|1615}} : Noble Jean de Prétiane, fils du précédent<ref>Registre paroissial des baptêmes d'Ax-les-Thermes 1NUM2/220EDT/GG2 le {{date|26 novembre 1615}} baptême de Jean Tardieu (image 127).</ref>
+* {{période|1617|1628}} : Noble Guillaume de Prétiane  <ref>Registre paroissial des baptêmes d'Ax-les-Thermes 1NUM2/220EDT/GG2 le 05/09/1618 baptême de Guillaume Martin (image 152) baptême d'Arnaud (patronyme non cité)1NUM2/220EDT/GG2 le {{date|27 janvier 1619}} (image 156) ; baptême de Guillaume Pretiane fs Jean Pretiane Sieur de Fontfroide p Noble Guillaume Pretiane viguier d'Andorre 1NUM2/220EDT/GG3 (image 57) ; décès le {{date|28 février 1626}} de Pierre, fils de Guillaume de Prétiane, viguier d'Andorre ; décès le {{date|30 avril 1628}} de Dominus Guillaume de Prétiane, viguier des vallées d'Andorre, inhumé dans l'église Saint-Vincent d'Ax.</ref>
+* {{période|1628|1632}} : Noble Jean de Prétiane, seigneur de Fontfroide d'Ax<ref>Registre paroissial d'Ax-les-Thermes baptême le 15/10/1628 Jean François Claverie parrain Jean Pretiane viguier d'Andorre 1NUM2/220EDT/GG3 image 112 Registre paroissial des mariages d'Ax-les-Thermes 1NUM2/220EDT/GG6 image 141 (mariage le {{date|6 septembre 1629}} Maitre Jean de Prétianne, viguier d'Andorre avec demoiselle Marguerite de Claverie), image 153 mariage le {{date|29 avril 1632}} Pierre Antugnac et Esclarmonde de Munier ; baptême le {{date|30 juillet 1632}} de Jean Pretiane fs Noble Jean de Pretiane Sieur de Fontfroide viguier d'Andorre et Delle Marguerite de Claverie 1NUM2/220EDT/GG3 ; en {{date|1637}} ne porte plus que le titre de Sieur de Fontfroide.</ref>
+* {{date|1650}} : Sieur Guillaume de Prétiane, viguier d'Andorre<ref>Registre paroissial d'Ax-les-Thermes sépulture le {{date|25 octobre 1650}} Marguerite MARTIN veuve de Sr Guillaume PRETIANE viguier d'Andorre.</ref>
+* {{période|1667|1695}} : Noble Jérôme Fournier, Sieur de Garanou, Conseiller du Roi<ref>Registre paroissial d'Ax-les-Thermes baptême le {{date|6 décembre 1667}} Jérôme VAQUIÉ fs Jean Pierre VAQUIÉ et Marthe SERDA Parrain Noble Jérôme Fornié viguier d’Andorre Marraine  Demoiselle Anne Françoise de Fornié femme de {{M.|de}} Claverie.</ref>{{,}}<ref>Registre Notarial de Me Jean TARDIEU notaire d'Ax-les-Thermes 5E 8074 Vente le lundi {{date|2 décembre 1675}} entre Noble Jérôme de FORNIÉ, Seigneur de Garanou, Conseiller du Roi et son Viguier au Pays Souverrain d'Andorre et Sr Jean LULHET jeune marchand et consul d'Ax {{folio|391|verso}} ; Cession le lundi {{date|2 décembre 1675}} entre les mêmes {{folio|392|recto}}.</ref>
+* {{période|1702|8 août 1715}} : François de Moreau, de la paroisse Sainte Madeleine de Béziers, Avocat<ref>Registre paroissial d'Ax-les-Thermes mariage le {{date|26 juillet 1682}} François MOREAU 
+avocat de Béziers Sainte Madeleine avec Catherine de Fornier D'Orlu 1NUM/220EDT/GG8 image 18.</ref>{{,}}<ref>Registre paroissial d'Ax-les-Thermes Mariage le {{date|23 juin 1698}} François MORAU Avocat et Marguerite PRETIANE de FONTFREDE.</ref>, co-seigneur d'Orlu, viguier souverain des vallées d'Andorre<ref>Registre paroissial d'Ax-les-Thermes 1NUM2/220EDT/GG10 (mariage le {{date|27 septembre 1718}} François de Mourau, viguier souverain des vallées d'Andorre, co-seigneur d'Orlu avec demoiselle Marguerite Perpère d'Ax.</ref>{{,}}<ref>Registre paroissial d'Ax-les-Thermes 1NUM2/220EDT/GG9 (Sépulture le {{date|17 juillet 1702}} de Jeanne MOREAU fille de Sr François MOREAU avocat et Delle Marguerite PRÉTIANE DE FONTFRÈDE sa femme en secondes noces). Ceci explique sûrement comment cette fonction héréditaire est passée de la famille DE PRÉTIANE à la famille (de) MOREAU.</ref>{{,}}<ref>Registre paroissial d'Ax les Thermes : Décès le {{date|8 août 1715}} de François MOUREAU 66 ans Viguier d'Andorre inhumé dans l'église le {{date|9 août 1715-}}.</ref>
+* {{période|1715|14 février 1735}} Jean-François Moreau Co-Seigneur d'Orlu Viguier Souverain des Vallées d'Andorre fils du précédent<ref>Registre paroissial d'Ax les Thermes : Mariage le {{date|27 septembre 1718}} Sr François MOREAU Viguier d'Andorre et Coseigneur d'Orlu avec Melle Marguerite DE PERPERE.</ref>{{,}}<ref>Registre paroissial d'Ax les Thermes : Baptême le {{date|25 juillet 1719}} Anne Marguerite MOREAU fille Me François MOREAU Coseigneur d’Orlu et Viguier d’Andorre 
+et Delle Marguerite PERPERE Parrain Noble Joseph de Thonel Seigneur d'Orgeix Marraine Delle Marguerite Verniole.</ref>{{,}}<ref>Registre paroissial d'Ax les Thermes : Décès le {{date|19 juillet 1724}} Jeanne TRAPÉ métayère du Sieur (François) MOREAU Viguier d’Andorre.</ref>{{,}}<ref>Registre paroissial d'Ax les Thermes : Sépulture le {{date|14 février 1735}} de Messire François de Moureau avocat en parlement et viguier souverain de la vallée d'Andorre inhumé dans la nef de l'église d'Ax.</ref>
+*  {{période|5 décembre 1735|14 mars 1768}} : Jean de Perpère<ref>Nommé par [[lettres patentes]] de {{souverain2|Louis XV}} : ''Bulletin archéologique et historique'', [[Société archéologique et historique de Tarn-et-Garonne|Société archéologique de Tarn-et-Garonne]]'', {{t.}}{{XXIII}}, année {{date|1895}}, {{p.}}308 {{lire en ligne|url=https://gallica.bnf.fr/ark:/12148/bpt6k57458196/f320}}.</ref>{{,}}<ref>{{Citation|Lettres patentes du roi {{souverain-|Louis XV}}, portant nomination de M. Jean Perpere, avocat en la cour du parlement de Toulouse, à l'office de « notre conseiller-viguier de la Vallée et souveraineté d'Andorre, en notre comté de Foix, que tenoit et exerçoit défunt François Moreau, dernier possesseur » ({{date|1735}})}} : ''Inventaire-sommaire des archives départementales antérieures à 1790. Pyrénées-Orientales : Archives civiles, tome second, série C'' {{BNF|34017274}}, {{p.}}467 {{lire en ligne|url=https://books.google.fr/books?id=zfc7AAAAMAAJ&pg=PA467}}.</ref>{{,}}<ref>Registre paroissiaux d'Ax les Thermes 1NUM/220EDT/GG111749-1759 Baptême le {{date|30 décembre 1749}} Marie Marguerite DE CLAVERIE fille Noble Pierre DE CLAVERIE et Dame Paule DE PERPERE Parrain : Jean de Perpere viguier souverain des vallées d'Andorre.</ref>{{,}}<ref>Décès le {{date|14 mars 1768}} Jean DE PERPERE 79 ans viguier pour le roi de la vallée d’Andorre inhumé le {{date|15 mars 1768-}}.</ref>
+* {{refnec|{{date|1759}} : Messire Louis Gaspard de Sales Marquis de Gudanes, Baron de Château-Verdun et d’Aston, Seigneur de Luzenac, Montgaillard et autres places, commandant pour le roi dans la province de Foix, Pays de Donezan et des vallées d’Andorre<ref>Registre paroissial des mariages des Cabannes 1NUM5/276EDT/GG3 le {{date|1 juillet 1759}} mariage de Messire noble Philippe Mathieu Marie Comte DE LONS de Pau en Béarn et Delle Marie Anne DE SALES.</ref>}}
+* {{refnec|{{date|1760}} : François de Moreau, d'Ax, est co-seigneur d'Orlu, viguier souverain des vallées d'Andorre}}
+*  {{période|1768|1788}} : vacance de la fonction<ref>{{Citation|Nous trouvons aux archives nationales (H 720) des pièces qui indiquent une vacance, pour les viguiers français d'Andorre, depuis {{date|1768}} jusqu'en {{date|1788}}. [...] Pendant vingt ans, il n'y eut pas de viguier français, parce que la charge avait été refusée plusieurs fois, faute de s'entendre sur certains frais et dépenses. [...] Précédemment, l'office de viguier français en Andorre avait été successivement rempli par les sieurs Foucier de Garanou, Moreau et Perpère. Ce dernier, décédé en 1768, n'était pas encore remplacé en {{date|1788}}}} : {{ouvrage |auteur1=[[Henri-Louis Duclos|Henri Duclos]] |titre=Histoire des Ariégeois (comté de Foix et vicomté de Couserans) |sous-titre=De l'esprit et de la force intellectuelle et morale dans l'Ariège et les Pyrénées centrales |tome={{V}} |bnf=34101696 |passage=407}}.</ref>
+* {{refnec|{{période|1780|1783}} : [[Louis Auguste Le Tonnelier de Breteuil]] (en prenant ce poste que toutes les personnalités refusaient, il évite alors à cette principauté d'être rattachée à [[Pampelune]] et sauve ainsi son indépendance)}}
+* {{période|1788|1806}} : Boniface Gomma<ref>{{lien web |titre=La coutume d'Andorre - par J.-A. Brutails,... |url=https://gallica.bnf.fr/ark:/12148/bpt6k57903147/f430 |site=Gallica |date=1904 |consulté le=16-11-2023}}.</ref>{{,}}<ref>{{Sic}} pour Gomma-Montaud : Joseph Boniface Gomma Montaud, fils de Jean Joseph Gomma (dit Gomma Montaud) et de son épouse Anne Dorothée (de) Moreau (fille d'un précédent viguier français d'Andorre, François de Moreau), est né à [[Ax-les-Thermes]] le {{date|10 mai 1760}}, et mort dans la même ville le {{date|11 février 1833}} (ses parents s'étaient mariés dans la même ville le {{date|4 février 1755}}) : [[archives départementales de l'Ariège]], [[Registre paroissial|registres BMS]] de la paroisse d'Ax (années {{période|1749|1759}} et {{période|1760|1768}}), et registre des décès de la commune d'Ax (années {{période|1825|1852}}) {{lire en ligne|url=https://mdr-archives.ariege.fr/mdr/index.php/rechercheTheme/requeteConstructor/1/1/A/271825/AX-LES-THERMES}}.</ref>, reste en poste<ref>Bruno Labrousse, ''Les politiques ariégeois : {{période|1789|2003}}'' {{BNF|39183790}}, {{p.}}159.</ref> jusqu'en {{date|1806}}.
+* {{période|15 octobre 1806|1820}} : [[Joseph Pilhes]]<ref>Nommé par {{souverain2|Napoléon Ier}} : [https://books.google.fr/books?id=sAhOAAAAcAAJ&pg=PA796 décret du {{date|11 juin 1806}}].</ref> dit La Baumelle, poète et auteur dramatique ; il démissionne en {{date|1820}} en raison de son grand âge<ref>Auguste Teulière, ''La Constitution de l'Andorre, les pouvoirs législatif et exécutif'', thèse pour le doctorat {{BNF|31447697}}, {{p.}}163 {{lire en ligne|url=http://scans.library.utoronto.ca/pdf/4/45/laconstitutionde00teul/laconstitutionde00teul.pdf}}.</ref>.
+* {{période|1820|{{refnec|1835}}}} : Pierre-Roch Roussillou ({{période|1785|1874}})<ref>https://gallica.bnf.fr/ark:/12148/bpt6k9606320x/f16</ref>{{,}}<ref>Sa mère, Margueritte Bonifacie Gomma, était la sœur de Boniface Gomma-Montaud, le viguier nommé par {{souverain2|Louis XVI}} : [[archives départementales de l'Ariège]], [[Registre paroissial|registres BMS]] de la paroisse d'Ax (années {{période|1749|1759}}, vue 268, et {{période|1780|1792}}, vues 33 et 161) {{lire en ligne|url=https://mdr-archives.ariege.fr/mdr/index.php/rechercheTheme/requeteConstructor/1/1/A/271825/AX-LES-THERMES}}.</ref>{{,}}<ref>''Annuaire de la noblesse de France et des maisons souveraines de l'Europe'', année {{date|1875}}, {{p.}}293 {{BNF|32696497}} {{lire en ligne|url=https://books.google.fr/books?id=zWg_AQAAMAAJ&pg=PA293}}.</ref>, qui sera destitué<ref>{{ouvrage |auteur1=[[Michel Chevalier (homme politique)|Michel Chevalier]] |titre= La République d'Andorre, ou une république séculaire heureuse et stable depuis Charlemagne jusqu'à nos jours ({{période|790|1848}}) |lieu=Paris |éditeur=Garnot et Barba |année=1848 |pages totales=16 |passage=9 |url=https://gallica.bnf.fr/ark:/12148/bpt6k5719896d/f10}}.</ref> en {{date|1831}} en raison de ses opinions [[Légitimisme|légitimiste]]s<ref>https://gallica.bnf.fr/ark:/12148/bpt6k4243624/f594</ref>, par le gouvernement de {{souverain2|Louis-Philippe Ier}} (c'était la première fois qu'un viguier français d'Andorre était destitué<ref>{{article |auteur1=[[Michel Chevalier (homme politique)|Michel Chevalier]] |titre=La Vallée de l'Ariège et la République d'Andorre |périodique=[[Revue des Deux Mondes]] |série={{4e|série}} |tome={{XII}} |date=1 décembre 1837 |passage=631 |wikisource=La Vallée de l’Ariège et la République d’Andorre |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k86861g/f634}}.</ref>). Anobli le {{date|6 octobre 1827}} et titré chevalier de Roussillou, avec des [[Héraldique|armes]] {{Citation|parti au premier, d'argent, à trois flammes de gueules posées dans un anneau de sable ; au deuxième, d'or, à la fasce de sable, chargée de trois étoiles d'or et accompagnées de deux vaches de gueules}}<ref>{{ouvrage |auteur1=[[Henri-Louis Duclos|Henri Duclos]] |titre=Histoire des Ariégeois (comté de Foix et vicomté de Couserans) |sous-titre=De l'esprit et de la force intellectuelle et morale dans l'Ariège et les Pyrénées centrales |tome={{VII}} |bnf=34101696 |passage=146}}.</ref>.
+*  {{période|18 janvier 1835|1867}} : Lucien Saint-André<ref>Nommé par [[ordonnance royale]] de {{souverain2|Louis-Philippe Ier}} : ''[[Journal des débats]]'', {{date|14 février 1835}} {{lire en ligne|url=https://gallica.bnf.fr/ark:/12148/bpt6k438672r/f2}}.</ref>
+* {{période|1867|1880}} : Henry de Foix-Fabas, conseiller général de l'[[Ariège (département)|Ariège]]
+
+{| class="wikitable centre"
+! scope="col" colspan="2" | Décret de nomination
+! scope="col" style="width: 15em" | Viguier français
+! scope="col" | Remarques
+|-
+| align="right" | {{date|23 décembre 1879}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k62138865/f1 Décret du {{date|23 décembre 1879}}], JORF, {{n°}}7, {{date|8 janvier 1880}}, {{p.}}177.</ref>
+| Tibulle Ladevèze
+| 
+|-
+| align="right" | {{date|29 janvier 1882}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k6223209k/f2 Décret du {{date|29 janvier 1882}}], JORF, {{n°}}31, {{date|1 février 1882}}, {{p.}}578.</ref>
+| Alexandre-Napoléon Mancini
+| Non installé.
+|-
+| align="right" | {{date|23 février 1882}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k6223234n/f1 Décret du {{date|23 février 1882}}], JORF, {{n°}}56, {{date|26 février 1882}}, {{p.}}1065.</ref>
+| Tibulle Ladevèze
+|
+|-
+| align="right" | {{date|3 juin 1882}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k63695463/f2 Décret du {{date|3 juin 1882}}], JORF {{n°}}151, {{date|4 juin 1882}}, {{p.}}2954.</ref>
+| [[Bonaventure Vigo]]
+| Maire de [[Saillagouse]] et arrière-grand-père du cinéaste [[Jean Vigo]].
+|-
+| align="right" | {{date|1886}}
+|
+| {{lien par élément|Q124788176|Jacques-Emmanuel Varenne}}
+| Chef de division à la [[Liste des préfets des Pyrénées-Orientales|préfecture des Pyrénées-Orientales]], assure l'intérim à la suite de la démission de Vigo<ref>''Le Mémorial diplomatique'', {{23e|année}}, {{n°}}24, {{date|12 juin 1886}}, {{p.}}371 {{lire en ligne|url={{Google Livres|_WrsPNK71xoC|page=371}}}}.</ref>.
+|-
+| align="right" | {{date|31 janvier 1887}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k6272636x/f4 Décret du {{date|31 janvier 1887}}], JORF, {{n°}}33, {{date|3 février 1887}}, {{p.}}564.</ref>
+| [[Charles Romeu]]
+| Grand-oncle de [[Claude Rostain]], qui fut viguier de {{date|1972}} à {{date|1977}}<ref>{{lien web|auteur1=Andrés Luengo|url=http://www.elperiodicdandorra.ad/cultura-i-oci/33312-vida-de-romeu-el-veguer-etern.html|titre=Vida de Romeu, el veguer etern|site=elperiodicdandorra.ad|date=10 avril 2014}}.</ref>.
+|-
+| align="right" | {{date|30 mars 1933}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k6547359b/f3 Décret du {{date|30 mars 1933}}], JORF, {{n°}}85, {{date|9 avril 1933}}, {{p.}}3671.</ref>
+| Henri Samalens
+| Décède dans cette fonction<ref>[https://www.worldstatesmen.org/Andorra.html Andorra Chronology].</ref>.
+|-
+| align="right" | {{date|12 novembre 1937}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k65840797/f2 Décret du {{date|12 novembre 1937}}], JORF, {{n°}}267, {{date|18 novembre 1937}}, {{p.}}12586.</ref>
+| [[Jean-Baptiste Laumond]]
+| Député-maire d'[[Aubazines|Aubazine]], démis en {{date|1940}} par le [[régime de Vichy]]<ref name="ES">{{lien web |langue=es |auteur1=Manuel J. Peláez |auteur2=María del Carmen Amaya Galván |titre=Informes jurídicos y notas políticas sobre la situación política y jurídica de Andorra remitidos al Prefecto de los Pirineos Orientales ({{période|1881|1965}}) por el Ministerio de Asuntos Exteriores galo, por el Comisario extraordinario para los Valles de Andorra René Baulard ({{date|1933}} y {{période|1936|1940}}) y por otras autoridades y personalidades políticas y académicas (tercera parte) |périodique=Contribuciones a las Ciencias Sociales |date=octobre 2010 |url=https://www.eumed.net/rev/cccss/10/pag.htm}}.</ref>.
+|-
+| align="right" | {{date|23 septembre 1940}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k9695236m/f3 Décret du {{date|23 septembre 1940}}], JORF, {{n°}}242, {{date|24 septembre 1940}}, {{p.}}5147.</ref>
+| rowspan="2" | Jules Lasmartres
+| rowspan="2" | Nommé par le [[régime de Vichy]]. Il s'enfuit en [[Espagne]] dès la [[Libération de la France|Libération]]<ref name="ES"/>.
+|-
+| align="right" | {{date|6 mars 1943}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k9760878w/f4 Décret du {{date|6 mars 1943}}], JORF, {{n°}}69, {{date|21 mars 1943}}, {{p.}}820.</ref>
+|-
+| align="right" | {{date|14 septembre 1944}}
+| 
+| [[Robert Barran]]
+| Résistant, rugbyman et journaliste sportif.
+|-
+| align="right" | {{date|21 février 1945}}
+| <ref group="alpha">[https://gallica.bnf.fr/ark:/12148/bpt6k97739860/f2 Décret du {{date|21 février 1945}}], JORF, {{n°}}83, {{date|8 avril 1945}}, {{p.}}1938.</ref>
+| {{lien par élément|Q55077416|Georges Degrand}}
+| [[Ministre plénipotentiaire]], Officier de la Légion d'honneur, Croix de guerre et Officier de l'Instruction publique. Fut [[Ambassade de France en Albanie|ambassadeur de France en Albanie]] de {{date|1929}} à {{date|1934}}.
+|-
+| align="right" | {{date|1947}}
+|
+| {{lien par élément|Q55077393|André Bertrand}}
+|
+|-
+| align="right" | {{date|11 avril 1952}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000844541 Décret du {{date|11 avril 1952}}], JORF, {{n°}}91, {{date|13 avril 1952}}, {{p.}}3892.</ref>
+| [[Guy Menant]]
+| Résistant, ministre plénipotentiaire et officier de la Légion d'honneur.
+|-
+| align="right" | {{date|31 mai 1956}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000492958 Décret du {{date|31 mai 1956}}], JORF, {{n°}}130, {{date|6 juin 1956}}, {{p.}}5200.</ref>
+| {{lien par élément|Q55077350|Yves Michel}}
+|
+|-
+| align="right" | {{date|10 novembre 1958}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/jo/1958/11/11 Décret du {{date|10 novembre 1958}}], JORF, {{n°}}264, {{date|11 novembre 1958}}, {{p.}}10161.</ref>
+| {{lien par élément|Q55077280|Jean de Lageneste}}
+|
+|-
+| align="right" | {{date|9 juin 1961}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/jo/1961/06/10 Décret du {{date|9 juin 1961}}], JORF, {{n°}}136, {{date|10 juin 1961}}, {{p.}}5261.</ref>
+| {{lien par élément|Q55077263|Étienne Vaysset}}
+|
+|-
+| align="right" | {{date|30 juillet 1964}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000854875 Décret du {{date|30 juillet 1964}}], JORF, {{n°}}178, {{date|1er août 1964}}, {{p.}}6949.</ref>
+| {{lien par élément|Q55077198|Roger Vincenot}}
+| Sera nommé en 1970 [[ambassade de France au Liberia|ambassadeur de France au Liberia]].
+|-
+| align="right" | {{date|14 août 1970}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000494579 Décret du {{date|14 août 1970}}], JORF, {{n°}}194, {{date|22 août 1970}}, {{p.}}7908.</ref>
+| {{lien par élément|Q50078377|Hubert Dubois}}
+| Sera par la suite [[Ambassade de France au Cameroun|ambassadeur de France au Cameroun]] et [[Ambassade de France en Hongrie|en Hongrie]].
+|-
+| align="right" | {{date|13 novembre 1972}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/jo/1972/11/14 Décret du {{date|13 novembre 1972}}], JORF, {{n°}}265, {{date|14 novembre 1972}}, {{p.}}11798.</ref>
+| [[Claude Rostain]]
+| Fut [[Ambassade de France au Niger|ambassadeur de France au Niger]].
+|-
+| align="right" | {{date|17 mai 1977}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000513700 Décret du {{date|17 mai 1977}}], JORF, {{n°}}119, {{date|24 mai 1977}}, {{p.}}2928.</ref>
+| [[André Prunet-Foch]]
+|
+|-
+| align="right" | {{date|13 mai 1980}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000307613 Décret du {{date|13 mai 1980}}], JORF, {{n° NC|115}}, {{date|17 mai 1980}}, {{p.}}4349.</ref>
+| {{lien par élément|Q54913705|René Lalouette}}
+| Fut [[Ambassade de France au Guatemala|ambassadeur de France au Guatemala]].
+|-
+| align="right" | {{date|3 février 1982}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000879027 Décret du {{date|3 février 1982}}], JORF, {{n° NC|30}}, {{date|5 février 1982}}, {{p.}}1402.</ref>
+| {{lien par élément|Q25292943|Henri de Coignac}}
+|
+|-
+| align="right" | {{date|21 novembre 1984}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000516201 Décret du {{date|21 novembre 1984}}], JORF, {{n° NC|274}}, {{date|23 novembre 1984}}, {{p.}}10710.</ref>
+| {{lien par élément|Q54913711|Louis Deblé}}
+| Fut [[Ambassade de France en Haïti|ambassadeur de France en Haïti]] et [[Ambassade de France au Guatemala|au Guatemala]].
+|-
+| align="right" | {{date|7 juillet 1989}}
+| <ref group="alpha">[https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000700181 Décret du {{date|7 juillet 1989}}], JORF, {{n°}}158, {{date|8 juillet 1989}}, {{p.}}8594, [[Système NOR|NOR]] MAEA8920198D.</ref>
+| {{lien par élément|Q54913744|Jean-Pierre Courtois}}
+|
+|}
+
+== Notes et références ==
+{{Références}}
+
+Décrets de nomination dans le ''[[Journal officiel de la République française]]'' (JORF), sur [[Légifrance]] ou [[Gallica]] :
+{{Références|groupe=alpha|taille=20}}
+
+== Annexes ==
+=== Articles connexes ===
+* [[Andorre]]
+* [[Histoire de l'Andorre]]
+* [[Cosuzeraineté d'Andorre|Coprinces d'Andorre]]
+* [[Constitution d'Andorre]]
+* {{Lien
+|langue= en
+|trad= List of representatives of the co-princes of Andorra
+|fr= Liste des représentants des coprinces d'Andorre
+}}
+
+=== Liens externes ===
+*[https://www.worldstatesmen.org/Andorra.html Andorre] sur le site worldstatesmen.org
+*[http://geociti.es/CapitolHill/Rotunda/2209/Andorra.html Andorre] sur le site geociti.es
+*[http://www.portalestoria.net/andorra.htm Andorre] sur le site portalestoria.net
+
+{{Portail|relations internationales|Andorre}}
+
+[[Catégorie:Viguier d'Andorre| ]]
+[[Catégorie:Liste de personnalités politiques andorranes]]
+[[Catégorie:Liste de personnalités politiques françaises]]

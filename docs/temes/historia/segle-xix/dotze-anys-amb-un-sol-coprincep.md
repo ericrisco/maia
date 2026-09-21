@@ -297,7 +297,16 @@ tot aliè.
 7. **Com va funcionar el país entre 1868 i 1880** amb un sol veguer: **qui
    nomenava els batlles de la banda episcopal, si el Tribunal de Corts es reunia,
    què passava amb l'alternança.** **Prioritari.**
-8. **Qui era el veguer protestant nomenat el 1880** i **quant va durar.**
+8. ~~**Qui era el veguer protestant nomenat el 1880** i **quant va durar.**~~ —
+   **`parcial` el 21-09-2026**: el relat institucional d'[Història
+   d'Andorra](../../../raw/web/historia/veguer-ladeveze/relat-cronologic-08-auge-consell.txt)
+   identifica **Tibulle Ladevèze** com el veguer francès que substitueix Henri de
+   Foix el **1880** i que és substituït per Bonaventura Vigo el **1882**. El
+   registre de nomenaments conservat en wikitext ([font local](../../../raw/web/historia/veguer-ladeveze/viguier-andorre-fr.wiki))
+   dona el nom complet **Albert Tibulle Ladevèze** i dos períodes: **22-02-1880
+   – 01-02-1882** i **26-02-1882 – 03-07-1882**. Les fonts consultades no
+   acrediten la seva confessió protestant; aquesta part del buit continua
+   oberta.
 9. ~~**De què va morir el condemnat de 1855**: **de les ferides de la detenció o a
    la presó.**~~ — **`parcial` el 2026-09-19**: la versió del Consell conservada a
    [Se li reconeixerà com als seus antecessors](./se-li-reconeixera-com-als-seus-antecessors.md)
