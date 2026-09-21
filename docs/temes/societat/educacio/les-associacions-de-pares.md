@@ -146,7 +146,7 @@ oblidada:
   confessionals, espanyoles i franceses, més l'APA de Nostra Senyora de
   Meritxell; l'APA de l'Escola Andorrana queda fora de la llista, tot i que la
   font diu que hi col·laborava. **No en dona el motiu.**
-- **Quantes APA hi ha** i quants socis.
+- ~~**Quantes APA hi ha** i quants socis.~~ — **`parcial` el 21-09-2026**: la [llista institucional actual del Govern](../../../fonts/govern-ampa-2026.md) permet comptar **16 associacions de mares, pares o famílies d’alumnes** per centre i sistema educatiu. La pàgina no publica el nombre de socis de cap associació.
 - ~~**Si la CONAPA existeix encara.**~~ — **`parcial` el 2026-09-20**: la
   [pàgina actual del Govern sobre les AMPA](../../../fonts/govern-ampa-2026.md)
   enumera les associacions per centre i **no hi inclou cap entrada amb el nom
