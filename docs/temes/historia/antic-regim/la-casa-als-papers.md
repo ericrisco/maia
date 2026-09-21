@@ -170,17 +170,35 @@ Vegeu [el Manual Digest](../manual-digest/manual-digest.md),
 
 ## El que falta
 
-- **La citació del Manual Digest verificada contra el text**, no contra aquesta
-  ponència. **Prioritari** — és una citació de segona mà.
-- **Els padrals de la carretera del 1913**: on són i què hi consta.
-- **El llibre d'adjudicacions**: de quina parròquia parla l'autora.
-- **El primer document que diu «coprincipat»** en lloc de «cosenyoria».
-  **Prioritari.**
-- **Quan apareix el segon cognom** a l'administració andorrana.
-- **Si l'ordre «sempre baixant»** es dona a les altres parròquies o només a
-  Canillo.
-- **L'obra de Martina Camiade sobre la casa andorrana**, que ella esmenta i el
-  corpus no té.
+- ~~**La citació del Manual Digest verificada contra el text**, no contra aquesta
+  ponència. **Prioritari** — és una citació de segona mà.~~ — **`parcial` el
+  22-09-2026**: la ponència atribueix el passatge al **capítol tercer del
+  *Manual Digest* de 1748** i en conserva la frase sobre els andorrans «catalans
+  en tot rigor»; **el capítol original encara no s'ha contrastat**.
+- ~~**Els padrals de la carretera del 1913**: on són i què hi consta.~~ —
+  **`parcial` el 22-09-2026**: la fitxa fixa que el **1913** es pagava un impost
+  per fer carreteres i que els padrals eren llistes de cases; **no identifica
+  l'arxiu ni conserva cap padró**.
+- ~~**El llibre d'adjudicacions**: de quina parròquia parla l'autora.~~ —
+  **`parcial` el 22-09-2026**: queda establert que el llibre només anotava **el
+  nom de la casa** en adjudicar terres a particulars; **la ponència no diu de
+  quina parròquia és el llibre**.
+- ~~**El primer document que diu «coprincipat»** en lloc de «cosenyoria».
+  **Prioritari.**~~ — **`parcial` el 22-09-2026**: Camiade només pot situar el
+  canvi terminològic **durant el segle XVIII**, mentre que per als períodes
+  anteriors dona «cosenyoria»; **no identifica el primer document**.
+- ~~**Quan apareix el segon cognom** a l'administració andorrana.~~ —
+  **`parcial` el 22-09-2026**: la fitxa documenta que fins a la font de Camiade
+  les autoritats elegides portaven **un sol cognom** i contraposa aquesta pràctica
+  al costum modern de dos; **no fixa quan apareix el segon**.
+- ~~**Si l'ordre «sempre baixant»** es dona a les altres parròquies o només a
+  Canillo.~~ — **`parcial` el 22-09-2026**: l'ordre protocol·lari de Soldeu a
+  Meritxell queda documentat **al comú de Canillo**; **no hi ha observació de les
+  altres parròquies**.
+- ~~**L'obra de Martina Camiade sobre la casa andorrana**, que ella esmenta i el
+  corpus no té.~~ — **`parcial` el 22-09-2026**: la fitxa identifica **Martina
+  Camiade** i la seva ponència com la font de la demostració administrativa;
+  **no en té la monografia o obra més àmplia que la mateixa autora esmenta**.
 
 ## Related
 
