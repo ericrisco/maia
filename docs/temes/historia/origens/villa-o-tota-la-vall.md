@@ -316,8 +316,8 @@ faisait l'Andorran*».**
 
 ## Buits registrats
 
-1. **La còpia del document del 843** i **la polèmica Brutails-Trias sobre la seva
-   lectura.** **Prioritari i doble**: **dos articles del corpus hi descansen.**
+1. ~~**La còpia del document del 843** i **la polèmica Brutails-Trias sobre la seva
+   lectura.**~~ — **`parcial` el 21-09-2026**: Vilar conserva la divergència de 1891 entre la lectura de **Brutails** —«*villa*»— i la de **Trias** —«*vallis*»—, en dona el passatge llatí i explica la conseqüència política; el corpus encara no té la còpia del document ni l'obra de Trias llegida directament.
 2. **Joan de Déu Trias**, *Constitución política y **personalidad** internacional
    del Principado de Andorra* (1890, Barcelona, Subirana Hermanos; títol
    corregit el 17-09-2026 des de la bibliografia de la [síntesi
