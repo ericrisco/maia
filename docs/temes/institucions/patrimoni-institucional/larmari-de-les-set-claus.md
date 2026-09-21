@@ -222,7 +222,7 @@ ara** — amb datació document a document, del 1176 al 1978.
   documental es va transferir a l’Arxiu Nacional el **1993** mentre el moble es
   conserva a la Casa de la Vall. Encara no hi ha una font que confirmi si les
   set claus materials existeixen avui ni qui les custodia.
-- **Quan es va obrir per última vegada** amb les set claus posades.
+- ~~**Quan es va obrir per última vegada** amb les set claus posades.~~ — **`parcial` el 21-09-2026**: la fitxa oficial de **La peça del mes** ([captura del Govern, juny de 2018](../../../raw/web/institucions/patrimoni-institucional/peca-del-mes-armari-2018.html)) fixa el darrer moment institucional documentat —la **transferència del fons a l’Arxiu Nacional el 22 de març de 1993**— i confirma que el moble queda a la sala del Consell. **No hi ha, però, una data publicada de l’última obertura física amb les set claus.**
 - ~~Les **catorze exposicions virtuals** de l'Arxiu Nacional, accessibles al seu
   web i **no consultades**.~~ — **`parcial`, actualitzat el 2026-09-19**: el
   corpus ja en coneix el nombre i l'accés públic al web de l'Arxiu Nacional;
