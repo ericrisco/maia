@@ -146,7 +146,7 @@ consta:
 
 ## Buits registrats
 
-1. **Els textos** d'aquestes normes. Cap no s'ha consultat.
+1. ~~**Els textos** d'aquestes normes. Cap no s'ha consultat.~~ — **`parcial` el 2026-09-21**: el [DCG 13/1992](../../../fonts/consell-general-dcg-13-1992.md) confirma la traça parlamentària del Codi de nacionalitat de **1977** i de la seva modificació de **1985**; els articulats d'aquestes dues normes i els textos de la resta de la cronologia encara no s'han consultat.
 2. ~~**El sufragi femení** a Andorra: any i llei. **Buit prioritari.**~~
    **EL CORPUS JA HO SABIA EN UNA ALTRA BRANCA**, amb dates i votacions:
    [el sufragi femení](../../societat/dones/el-sufragi-femeni.md) — vot concedit
