@@ -289,8 +289,11 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    suprimir perquè servien de pretext per a **manifestacions tumultuoses** i
    perquè eren **molt oneroses per a l'Estat**. **La data de la supressió i els
    episodis concrets continuen oberts.**
-7. **Si l'obligació de tenir fusell i municions constava en algun text**, o **era
-   consuetudinària.**
+7. ~~**Si l'obligació de tenir fusell i municions constava en algun text**, o **era
+   consuetudinària.**~~ — **`parcial` el 2026-09-21**: el text documenta que
+   **tot milicià havia de tenir un fusell en bon estat i municions** i que la
+   sanció havia desaparegut amb les revistes anuals. **No permet determinar si
+   l’obligació provenia d’un text normatiu o del costum.**
 8. ~~**Si algun veguer va refusar mai una primera llista de sis**, i **què va
    passar amb la segona.**~~ — **`parcial` el 2026-09-21**: el text fixa el
    procediment: el veguer pot refusar la primera llista sencera, l’assemblea ha
