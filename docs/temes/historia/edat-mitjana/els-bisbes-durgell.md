@@ -198,7 +198,10 @@ segle XX** quan es planifiquen instituts «un per vall»
    donació de béns i drets que posseïa a les valls d'Andorra** i situa Guissad II
    com a bisbe entre **944 i 978**; la font no concreta l'any de l'acte ni
    enumera els béns transferits.
-5. **El Pont de Bar** i la mort de Sant Ermengol.
+5. ~~**El Pont de Bar** i la mort de Sant Ermengol.~~ — **`parcial`**: la fitxa
+   situa Sant Ermengol com a bisbe entre **1010 i 1035** i diu que **mor en la
+   construcció del Pont de Bar**; no hi consta la data exacta ni les
+   circumstàncies de l'obra o de la mort.
 6. **Quins bisbes** han estat coprínceps en època contemporània.
 
 ## Related
