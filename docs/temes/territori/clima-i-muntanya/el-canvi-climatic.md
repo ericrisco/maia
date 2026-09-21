@@ -133,9 +133,20 @@ publicació pròpia**.
 
 ## El que falta
 
-- **Les projeccions numèriques**: escenaris **RCP 4,5** i **RCP 8,5**, horitzons
+- ~~**Les projeccions numèriques**: escenaris **RCP 4,5** i **RCP 8,5**, horitzons
   **2021-2050**, **2041-2070** i **2071-2100**, amb resolució de **12,5 km**
-  (EuroCordex). **Les xifres són a les figures.**
+  (EuroCordex).~~ — **`parcial` el 2026-09-22**: l'informe local de
+  [la 29a Diada sobre el canvi climàtic](../../../raw/sac-diades/29a-2016-el-canvi-climatic-i-andorra.txt)
+  confirma l'ensemble Euro-Cordex, la resolució de **12,5 km**, els escenaris
+  **RCP 4,5/RCP 8,5**, la referència **1975-2005** i nou punts de la geografia
+  andorrana. Dona un augment de temperatura mitjana anual de **+1,3–1,7 °C** el
+  **2021-2050**, **+1,7–3 °C** el **2041-2070** i **+2,2–5,1 °C** el
+  **2071-2100**; a l'estiu, **+1,7–2,2 °C**, **+2,1–3,3 °C** i **+2,5–6 °C**,
+  respectivament. Per a la precipitació anual projecta **−3 %**, **−2–5 %** i
+  **−2–15 %**, amb fins a **−27 %** a l'estiu a llarg termini. **Les figures
+  mensuals i els valors separats per escenari encara no s'han transcrit.** La
+  metodologia conté una errata («2071-2010»), però les conclusions i l'horitzó
+  de la fitxa donen **2071-2100**.
 - ~~**Els efectes sobre la biodiversitat** — hi ha ponència de **Benjamin Komac**
   (CENMA) i el corpus no l'ha llegida.~~ **TANCAT**:
   [els seguiments del CENMA](../fauna-i-flora/els-seguiments-del-cenma.md). Sis
