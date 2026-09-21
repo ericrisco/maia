@@ -176,8 +176,8 @@ I Goya no la converteix en nihilisme:
 
 ## Buits registrats
 
-1. **Barate i Riera, *Le dépassement des contradictions en Andorre*** (1980).
-   **Prioritari.** El corpus en té un paràgraf de segona mà.
+1. ~~**Barate i Riera, *Le dépassement des contradictions en Andorre*** (1980).
+   **Prioritari.** El corpus en té un paràgraf de segona mà.~~ — **`parcial` el 21-09-2026**: la fitxa de [Per una integració democràtica](../../../fonts/goya-integracio-democratica-1997.md) en conserva la citació francesa i l'any **1980**, però només de segona mà i sense referència editorial completa ni lectura de l'original.
 2. **L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
    quina norma, i què se'n va dir. **Prioritari.**
 3. ~~**Els edictes de contractació pública** de 1996-1997 i la seva

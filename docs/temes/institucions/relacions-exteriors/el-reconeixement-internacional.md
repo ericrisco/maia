@@ -208,11 +208,11 @@ que es parlaran; no diu què faran.**
   zona de lliure circulació per als excedents ramaders**. **El text segueix
   sense llegir.** Vegeu
   [l'economia el 1997](../../economia/transformacio-economica/leconomia-el-1997.md).
-- **Maurice Duverger (1981)**, *La reforma de les institucions d'Andorra*, **Comú
+- ~~**Maurice Duverger (1981)**, *La reforma de les institucions d'Andorra*, **Comú
   d'Andorra**. Un dels constitucionalistes més importants del segle XX escrivint
-  sobre Andorra, **editat per un comú**. **Buit destacat.**
-- **P. Raton**, *Le statut international de la Principauté d'Andorre*, Govern
-  d'Andorra.
+  sobre Andorra, **editat per un comú**. **Buit destacat.**~~ — **`parcial` el 21-09-2026**: la bibliografia local en confirma l'autor, l'any, el títol i l'edició del Comú, però el llibre no s'ha llegit.
+- ~~**P. Raton**, *Le statut international de la Principauté d'Andorre*, Govern
+  d'Andorra.~~ — **`parcial` el 21-09-2026**: [la font bibliogràfica](../../../fonts/serra-vatica-microestat.md) en fixa l'autor, el títol, la **2a edició** i el Govern d'Andorra com a editor; l'obra continua sense lectura.
 - **Marc Maresceau (2008)**, p. 275 i el seu context.
 - ~~**L'entrada d'Andorra a l'ONU** el 1993: **data exacta**, procés, qui la va
   apadrinar.~~ — **`parcial` el 18-09-2026**: la pàgina oficial de l'ONU
