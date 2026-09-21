@@ -257,13 +257,12 @@ enunciat:**
    de la regla del copríncep declarat i el límit territorial de les intimacions
    i dels testimonis.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
    canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
-3. **L'afer de 1749-1753** davant del Consell Sobirà del Rosselló, **i l'acord
-   dictat «prop del rierol de la Palomera»**. ~~**On és aquest rierol**~~ i
-   **quins són els «privilegis dels habitants»** que exigien dictar dins del
-   territori. — **`parcial` el 17-09-2026: el rierol ja té situació, i és
-   exactament la que explica per què s'hi va dictar.** Font: el **Llibre IV
-   d'actes del Consell General**
-   ([actes](../../../fonts/actes-historiques-consell-general.md)).
+3. ~~**L'afer de 1749-1753** davant del Consell Sobirà del Rosselló, **i l'acord
+   dictat «prop del rierol de la Palomera»**. **On és aquest rierol** i **quins
+   són els «privilegis dels habitants»** que exigien dictar dins del territori.~~ —
+   **`parcial` el 17-09-2026**: el rierol ja té situació, i és exactament la que
+   explica per què s'hi va dictar. Font: el **Llibre IV d'actes del Consell
+   General** ([actes](../../../fonts/actes-historiques-consell-general.md)).
 
    **Una acta del mateix segle situa la Palomera «a la ralla de la jurisdicció
    de Andorra»** —**sobre la ratlla, el límit jurisdiccional**—, i **ho fa

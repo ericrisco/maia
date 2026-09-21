@@ -129,8 +129,8 @@ naturalitzacions i el corpus no ho pot separar.`
 
 ## El que falta
 
-- Els tipus de residència: **coberts** a [la residència passiva](./la-residencia-passiva.md).
-  ~~Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
+- ~~Els tipus de residència: **coberts** a [la residència passiva](./la-residencia-passiva.md).~~ — **`no-es-buit` el 21-09-2026**: és una remissió de cobertura, no una pregunta pendent.
+- ~~Les **quotes any per any** segueixen sent buit: la llei diu **qui les fixa**
   —el Govern, per reglament, després de consultar la Cambra de Comerç, els
   sindicats i les patronals— i **no quantes són**.~~ — **`parcial` el 21-09-2026**:
   [el mercat de treball dual](../../societat/immigracio/el-mercat-de-treball-dual.md)
