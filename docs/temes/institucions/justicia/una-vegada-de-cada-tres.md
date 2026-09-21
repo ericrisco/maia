@@ -304,8 +304,13 @@ tres.**
    seves clàusules d'arbitratge.
 5. **Les resolucions del 30 d'octubre de 1863 i d'abril de 1893**, senceres, i **el
    contracte de matrimoni del 12 d'agost de 1883** que la segona cita.
-6. **El plet de 1885** sobre la forma de les sentències arbitrals, **i com va
-   acabar.** **La font diu què proposaria ella i no diu què es va decidir.**
+6. ~~**El plet de 1885** sobre la forma de les sentències arbitrals, **i com va
+   acabar.** **La font diu què proposaria ella i no diu què es va decidir.**~~ —
+   **`parcial` el 2026-09-21**: la fitxa conserva les dues posicions —uns litigants
+   exigien que la sentència arbitral tingués aparença de judici i els altres
+   consideraven irrellevant la forma—, així com la proposta de Brutails que els
+   àrbitres declaressin si volien dictar sentència. **El desenllaç efectiu del
+   plet encara no consta.**
 7. ~~**D'on surt «una vegada de cada tres».** **És d'un notable, no d'un recompte**, i
    **el corpus no té cap sèrie amb què comprovar-ho.**~~ — **`parcial` anotat el
    22-09-2026**: **el corpus no en té la freqüència però ara en té el preu.**
