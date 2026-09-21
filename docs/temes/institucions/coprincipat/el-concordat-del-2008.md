@@ -400,8 +400,8 @@ Diari **pendents de determinar**; **no entra en cap dataset**.`
   Vegeu [El diari de sessions del 2014](#el-diari-de-sessions-del-2014-i-que-hi-diuen-les-dues-bandes).
 - **Què ha passat des del 2015** amb aquest debat. **Buit prioritari i
   sensible**: el corpus el deixa obert i **no anticipa cap desenllaç**.
-- **L'episodi Sarkozy**: data, context i com es va resoldre.
-- **Les negociacions de 1998-2008**: per què van trigar tretze anys.
+- ~~**L'episodi Sarkozy**: data, context i com es va resoldre.~~ — **`parcial` el 21-09-2026**: la font identifica que Sarkozy va anunciar als andorrans que la seva figura de copríncep era incompatible amb la situació de **blanqueig de capitals i opacitat bancària**; el corpus no té encara la data de l'anunci ni el desenllaç documentat.
+- ~~**Les negociacions de 1998-2008**: per què van trigar tretze anys.~~ — **`parcial` el 21-09-2026**: la cronologia del Concordat diu que les negociacions van començar el **1998** i el tractat es va signar el **2008**, mentre la font diplomàtica descriu la feina com a pausada entre **1995 i 2008**; la divergència queda registrada i el corpus no té els actes que expliquin la durada.
 
 ## Related
 
