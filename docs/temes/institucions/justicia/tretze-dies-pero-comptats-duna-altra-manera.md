@@ -244,10 +244,15 @@ enunciat:**
 
 ## Buits registrats
 
-1. **El text del decret del 13 de juliol de 1888**, article per article.
+1. ~~**El text del decret del 13 de juliol de 1888**, article per article.
    **Tercera tanda que el corpus el reclama** i **ara en sap tres disposicions
-   concretes que endureixen el còmput del termini.** **Prioritari.**
-   `Requereix el Journal Officiel del 20 de juliol de 1888.`
+   concretes que endureixen el còmput del termini.**~~ — **`parcial` el
+   21-09-2026**: l'exposició de motius del Codi de procediment civil confirma
+   que el decret del **13 de juliol de 1888** va crear el **Tribunal Superior de
+   Perpinyà** ([Llei 24/2018, exposició de motius](../../../raw/lleis/bopa/llei-24-2018-codi-procediment-civil.txt)).
+   **Això confirma la institució i la data que Brutails atribueix al decret**;
+   encara falten el *Journal Officiel* del 20 de juliol de 1888 i el text
+   article per article de les tres regles de còmput.
 2. ~~**El manuscrit del senyor Palmitjavila**, que aquí dona la font andorrana
    de la regla del copríncep declarat i el límit territorial de les intimacions
    i dels testimonis.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
