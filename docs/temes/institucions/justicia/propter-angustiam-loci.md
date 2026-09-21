@@ -216,9 +216,11 @@ font en dona la prova, i ve d'un altre lloc del dret:**
    la formulació exacta**: **un ordenament que reconeix per escrit que els seus
    jutges no saben de lletres i els dona una excusa institucional per a quan
    s'equivoquin.**
-5. **El decret del 25 d'octubre de 1887.** — **L'article 13 de la Reforma de
-   1866, `resolt` el 18-09-2026, i el corpus el tenia des del 15 de setembre**
-   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+5. ~~**El decret del 25 d'octubre de 1887.**~~ — **`parcial` el 18-09-2026**:
+   **l'article 13 de la Reforma de 1866**, que el corpus tenia des del 15 de
+   setembre, dona la regla material que el títol necessitava; **el text del
+   decret datat del 1887 encara no és al recull**.
+   La Reforma llegida és [aquesta fitxa](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
    **Diu, literalment, quina gent jutja cada instància d'una visura:**
 
    > «Per ordenar y procurar lo mellor acert en la práctica de les visures,

@@ -270,11 +270,11 @@ qualsevol plet comunal.**
 3. **El decret del Consell del 12 de maig de 1866**, sencer, i **fins quan va
    regir la facultat dels cònsols de detenir «*sens recorrer a la Justicia*»**.
    **Prioritari.**
-4. **Els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.** —
-   **L'article 16 de la Reforma de 1866, `resolt` el 18-09-2026**: **el corpus el
-   té literal des del 15 de setembre**
-   ([que no s'hi hagi mirat amb menyspreu ni indiferència](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)), **i és la
-   norma que hi ha darrere del títol d'aquesta fitxa.**
+4. ~~**Els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.**~~ —
+   **`parcial` el 18-09-2026**: **l'article 16 de la Reforma de 1866** és la
+   norma que hi ha darrere del títol i el corpus la té literal des del 15 de
+   setembre; **els dos decrets datats encara no són al recull**. La Reforma
+   llegida és [aquesta fitxa](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md).
 
    > «**Les autoritats comunals y del Consell general podrán ser citades pels
    > particulars devant dels competents tribunals de justicia per deutes que
