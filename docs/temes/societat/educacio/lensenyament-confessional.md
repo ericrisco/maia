@@ -366,13 +366,13 @@ contingut religiós** i **la inspecció espanyola controlant la resta**.
   amb l'Estat espanyol**, el 17 de maig del 2007. `El que segueix obert és què hi
   ha als annexos I i II —la llista de centres i la dedicació horària de la
   formació andorrana—, que el Butlletí no publica amb el text.`
-- **El col·legi Meritxell dels benedictins (1931-1943)** i **els jesuïtes**: què
-  hi van fer i per què van marxar.
+- ~~**El col·legi Meritxell dels benedictins (1931-1943)** i **els jesuïtes**: què
+  hi van fer i per què van marxar.~~ — **`parcial` el 21-09-2026**: la font confirma que benedictins i jesuïtes es van establir a Escaldes arran de la República espanyola, que el col·legi Meritxell era per a nens i que tots dos van tancar el **1943**, però no identifica les funcions concretes dels jesuïtes ni el motiu immediat de la sortida.
 - ~~**Quantes nenes hi van passar, en total.**~~ — **`parcial` el 19-09-2026**:
   la font només dona l’ordre de magnitud, **«milers»**, i no publica cap
   recompte.
-- **Els «diferents centres escolars que van obrir (i alguns també van tancar)»**:
-  la font insinua que n'hi va haver més dels cinc que enumera.
+- ~~**Els «diferents centres escolars que van obrir (i alguns també van tancar)»**:
+  la font insinua que n'hi va haver més dels cinc que enumera.~~ — **`parcial` el 21-09-2026**: la fitxa enumera cinc fundacions i n'acota les dates de tancament conegudes, però la font no identifica cap centre addicional dels que anuncia.
 - ~~**La llengua abans dels setanta**: si s'hi ensenyava en castellà des del 1882.~~ —
   **`parcial` el 21-09-2026**: [Ríos y Urruti (1920)](../../../raw/llibres/rios-urruti-andorra-1920.txt)
   descriu les escoles primàries i diu que **s'hi ensenya el català**, però que
