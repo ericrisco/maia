@@ -334,7 +334,7 @@ llibre:**
 9. **Les constitucions catalanes de 1291 i 1298** sobre els béns que es toquen en
    darrer lloc, i **si la inspiració que la font apunta és demostrable o és una
    conjectura seva.** **Ella hi posa «potser».**
-10. **El *Recognoverunt proceres*** i la seva fórmula de jurament.
+10. ~~**El *Recognoverunt proceres*** i la seva fórmula de jurament.~~ — **`parcial` el 2026-09-21**: la fitxa ja conserva la fórmula citada per a obtenir termini de venda d'un immoble: el deutor havia de jurar **«*Se non habere res mobiles, de quibus possit creditori satisfacere*»**, és a dir, que no tenia béns mobles per satisfer el creditor. El corpus encara no té el text complet del *Recognoverunt proceres* ni la referència exacta de l'edició.
 11. **Si la depreciació d'un terç anterior a 1608 té base documental** o és una
     descripció de l'autor. **La font no en dona cap acte.**
 
