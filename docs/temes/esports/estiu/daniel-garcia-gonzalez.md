@@ -94,9 +94,16 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   el marcador—, i els de Pequín sí. Aquest tros segueix obert.`
 - ~~**On va néixer**~~ — **`resolt` de passada**: **Andorra la Vella, 9
   d'octubre del 1984.**
-- **El seu palmarès europeu i mundial** — **`obert`, confirmat** —, i ~~els Jocs
-  dels Petits Estats~~ — **`resolt` el 2026-09-13**: **or a Luxemburg 2013, en
-  -73 kg** (medaller de dalt).
+- ~~**El seu palmarès europeu i mundial**~~ — **`parcial` el 2026-09-21**:
+  el perfil oficial de la **IJF** el registra al **Mundial de París 2011**,
+  als **Europeus d'Istanbul 2011 i dels sèniors del 2012**, i en quatre proves
+  del 2012 (**Grand Slam de París, Grand Prix de Düsseldorf, World Cup de
+  Madrid i Londres 2012**); l'IJF hi compta **vuit participacions** i el resum
+  no hi mostra cap medalla. **La fitxa no dona els marcadors ni les
+  classificacions detallades**, de manera que el palmarès europeu i mundial
+  complet continua obert ([font](../../../fonts/ijf-daniel-garcia.md)). I ~~els
+  Jocs dels Petits Estats~~ — **`resolt` el 2026-09-13**: **or a Luxemburg
+  2013, en -73 kg** (medaller de dalt).
 - ~~**La Federació Andorrana de Judo.**~~ — **`parcial` el 18-09-2026**: al
   COA (2024-2028) hi consta com a **Federació de Judo i Ju-jitsu**,
   representada per **Marc Bernadó Escarre**
