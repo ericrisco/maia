@@ -358,8 +358,8 @@ Tabacalera Andorrana, SA, el 1899.**
 
 - **Les publicacions, l'associació i el partit** que van fer els andorrans de
   Barcelona. **Buit prioritari.**
-- **El llibret *La Qüestió d'Andorra*** del Consell General, i **els que van fer
-  els profrancesos i els probisbe.**
+- ~~**El llibret *La Qüestió d'Andorra*** del Consell General, i **els que van fer
+  els profrancesos i els probisbe.**~~ — **`parcial` el 21-09-2026**: [la font de la Viquipèdia](../../../fonts/wikipedia-questio-dandorra.md) confirma que el Consell General va redactar el llibret amb aquest títol i que els dos corrents oposats en van fer publicacions pròpies per defensar la seva postura. El corpus encara no en té els títols ni els exemplars.
 - **La biblioteca de Guillem d'Areny-Plandolit.**
 - ~~**El decret del bisbe Boltàs** sobre el tabac.~~ — **`parcial` el
   17-09-2026: el decret com a tal segueix sense aparèixer, i les dues meitats de
