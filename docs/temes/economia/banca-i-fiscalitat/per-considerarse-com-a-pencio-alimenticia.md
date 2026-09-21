@@ -225,9 +225,7 @@ com a buit «quan va desaparèixer el violari».**
    vitalici»**, i l'editor titula la peça **«Constitution d'un violari»**. La
    font confirma que les dues qualificacions apareixen juntes en el mateix acte,
    però no permet decidir si són una sola figura o una cautela notarial.
-6. **L'operació de base**: **una *in solutum datio* prèvia, una revenda per 1.641
-   lliures i una donació de 891.** **El corpus no té l'acte anterior** ni sap
-   **per què les mateixes parts es tornen la finca.**
+6. ~~**L'operació de base**: **una *in solutum datio* prèvia, una revenda per 1.641 lliures i una donació de 891.**~~ — **`parcial` el 21-09-2026**: l'escriptura posterior conserva les tres operacions i els imports, però el corpus no té l'acte anterior ni el motiu pel qual les mateixes parts es tornen la finca.
 7. ~~**Si els rendistes francesos podien exigir que la pensió se'ls portés fora
    d'Andorra.**~~ — **`parcial` el 18-09-2026**: **l'acte diu «*a la sua propia
    casa, en la villa de ……*»**, mentre que **el censal de 1788 posa expressament

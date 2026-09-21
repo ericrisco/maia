@@ -332,9 +332,7 @@ treball com a impost.**
    recuperar.
 3. **Els comptes del deute de 4.000 pessetes** que el Consell devia al Comú
    d'Andorra la Vella: **quan es va contreure i per què.**
-4. **El capital de 2.931,89 pessetes d'interessos d'expropiacions rústiques.**
-   **Al 5 % serien uns 58.600 pessetes d'expropiacions pendents de pagar**;
-   `càlcul del corpus, i el tipus no consta`. **Quantes finques i de qui, no hi és.**
+4. ~~**El capital de 2.931,89 pessetes d'interessos d'expropiacions rústiques.**~~ — **`parcial` el 21-09-2026**: la reconstrucció pressupostària conserva l'import i el presenta com a interessos d'expropiacions pendents, però el corpus no pot fixar el tipus aplicat ni les finques i propietaris que hi ha al darrere.
 5. ~~**La concessió elèctrica** que donava llum gratuïta als comuns.~~ —
    **`parcial` el 20-09-2026**: **la font confirma que la gratuïtat dels llums
    elèctrics dels comuns era una clàusula del contracte de concessió de

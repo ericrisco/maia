@@ -64,11 +64,8 @@ olímpics** i **el buit es tanca amb números, no amb una línia.**
 
 ## Buits registrats
 
-- **La resta de la seva carrera esportiva**: **campionats del món, europeus,
-  Jocs dels Petits Estats.** **El corpus només té aquests Jocs.** `font_externa`
-- **El seu club.** **Les fonts consultades l'associen al Club de Tir la
-  Rabassa**, i **el corpus no ho dona per provat amb una font pròpia del club o
-  de la federació.** `font_externa`
+- ~~**La resta de la seva carrera esportiva**: **campionats del món, europeus i Jocs dels Petits Estats.**~~ — **`parcial` el 21-09-2026**: la fitxa confirma la participació olímpica documentada, però el corpus no té el palmarès federatiu de Mundials, Europeus i Jocs dels Petits Estats.
+- ~~**El seu club.**~~ — **`parcial` el 21-09-2026**: les fonts consultades l'associen al **Club de Tir la Rabassa**, però el corpus encara no té una font pròpia del club o de la federació que ho confirmi.
 - ~~**Com hi va accedir**: **per mínima o per plaça d'universalitat**
   ([la plaça d'universalitat](./santiago-deu.md#la-placa-duniversalitat-que-explica-mitja-branca)).
   **Cap font consultada no ho diu.**~~ — **`parcial` el 20-09-2026**: el

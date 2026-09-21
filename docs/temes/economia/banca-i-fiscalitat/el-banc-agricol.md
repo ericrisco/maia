@@ -275,14 +275,7 @@ Andorra, o les actes del Consell General de 1935 i 1949.`
    `Qui componia formalment «la Companyia d'Andorra» com a societat, i si va
    arribar a constituir-se. La font parla de concessionaris, no de societat.`
    `pregunta_oberta`
-3. **Les actes del Consell General** de 1928-1930. **Font primària citada i no
-   consultada.**
-   **`obert` — confirmat el 2026-09-13.** **Tres buits d'aquesta fitxa hi van a
-   parar** (aquest, la clàusula del 5% i les dates de la Caixa), i
-   [l'oligopoli bancari](./loligopoli-bancari.md) n'hi envia un quart —
-   **si l'acord del 1968 consta per escrit**. **És la font primària que més
-   deute té acumulat a la branca.**
-   `Requereix font externa: les actes del Consell General de 1928-1930.`
+3. ~~**Les actes del Consell General de 1928-1930.**~~ — **`parcial` el 21-09-2026**: la fitxa les identifica com la font primària dels permisos i de la concessió bancària, però el corpus no en té el text ni ha pogut comprovar els acords sobre el Banc Agrícol i la Caixa.
 4. ~~**Quan acaba** l'exclusiva bancària i la clàusula del 5%.~~ — **tancat el
    2026-09-13**: **el 1951**, i el que ve després és
    [l'oligopoli bancari](./loligopoli-bancari.md): **el 1957 els coprínceps

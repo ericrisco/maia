@@ -110,8 +110,7 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
 
 ## El que falta
 
-1. **Els catorze anys sense campió**: **1990-1995, 1999-2000 i 2003-2008.**
-   `Requereix la FMA o l'hemeroteca del Diari d'Andorra.`
+1. ~~**Els catorze anys sense campió**: **1990-1995, 1999-2000 i 2003-2008.**~~ — **`parcial` el 21-09-2026**: la fitxa enumera els intervals sense campió que apareixen a la font, però no té les actes de la FMA ni l'hemeroteca que permetin verificar cada edició.
 2. ~~**La Federació Motociclista d'Andorra (FMA)**: quan es crea, quanta gent
    hi ha federada, quines altres competicions organitza. Cap fitxa.~~ —
    **`parcial` el 18-09-2026**: **creada el 1985**, afiliada a la FIM el

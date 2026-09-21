@@ -308,8 +308,7 @@ contra del costum:**
    fitxa la contrasta amb la sentència datada del **21 de juny de 1861**, que
    exigeix provar també la condició d'hereu; la segona sentència continua sense
    data i no consta cap correcció formal.
-4. **El manuscrit del notari Anton Picart**, que la font cita i el corpus no té.
-   `Requereix font externa.`
+4. ~~**El manuscrit del notari Anton Picart**, que la font cita i el corpus no té.~~ — **`parcial` el 21-09-2026**: la font el cita com a testimoni de la pràctica del dret de rescat, però el corpus no en té cap descripció ni la peça manuscrita.
 5. ~~**El tràfic de drets de rescat que el Consell General va prohibir el 1871**:
    **l'acord, sencer, i qui era l'individu** —**que el corpus no nomenaria de totes
    maneres.**~~ — **`parcial` el 20-09-2026**: la fitxa confirma que el Consell es

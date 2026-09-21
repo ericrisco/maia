@@ -298,9 +298,7 @@ secretari del Consell General.**
    **`parcial` el 20-09-2026**: **Vilar diu que la formalitat ja s'havia
    abandonat per economia quan escriu el 1904** (p. 80, nota 2); **no en dona
    l'any exacte.**
-10. **Les famílies que detenien els càrrecs de generació en generació.** **El
-    corpus no les nomena** i **no té cap sèrie de síndics ni de cònsols per
-    comprovar l'afirmació.** **Prioritari si es vol verificar.**
+10. ~~**Les famílies que detenien els càrrecs de generació en generació.**~~ — **`parcial` el 21-09-2026**: la font descriu la transmissió familiar dels càrrecs com una pràctica, però el corpus no nomena les famílies ni té una sèrie de síndics i cònsols per verificar-la.
 
 ## Related
 
