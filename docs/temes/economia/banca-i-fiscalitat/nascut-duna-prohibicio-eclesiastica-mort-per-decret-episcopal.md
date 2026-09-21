@@ -271,8 +271,12 @@ Caldes**.
    l'abast.**
 5. **Com va acabar la petició de rescat en dues *lluïcions* del 23 de gener de
    1783.**
-6. **Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**
-   segueixen oberts. ~~I **què era exactament l'*ostatge***~~ — **`resolt` el
+6. ~~**Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**
+   segueixen oberts.~~ — **`parcial` el 21-09-2026**: la fitxa ja identifica els
+   quatre actes i en conserva la dada essencial —el de **1412** sense hipoteca,
+   i els de **1420, 1461 i 1754** com a exemples de creació de censal—, però no
+   en té la transcripció íntegra ni les signatures d'arxiu. ~~I **què era
+   exactament l'*ostatge***~~ — **`resolt` el
    16-09-2026** ([DCVB](../../../fonts/dcvb.md)): **`ostatge`** —també escrit *hostatge*—
    és **la persona lliurada a l'altra part com a penyora del compliment d'un
    pacte**, el que en castellà és un *rehén*. **Documentat a Jaume I, Desclot i
