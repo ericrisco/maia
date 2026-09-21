@@ -104,7 +104,14 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
 
 ## Buits registrats
 
-1. **On és el Llibre de la Terra** avui i si està editat o transcrit.
+1. ~~**On és el Llibre de la Terra** avui i si està editat o transcrit.~~ —
+   **`parcial` el 21-09-2026**: l’inventari de [les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
+   el identifica amb la signatura **ASC 34087**, datat **1486–1497**, dins el
+   fons que es va transferir a l’Arxiu Nacional; i [les tres fases de la
+   historiografia](../../historia/historiografia/les-tres-fases.md) confirma
+   que està **transcrit i publicat** per Ignasi J. Baiges el **1997**. Encara
+   falta comprovar la localització física actual de la unitat i l’abast exacte
+   de l’edició respecte de totes les ordinacions.
 2. ~~**Qui era Miquel Ribot d'Aixirivall.**~~ — **`parcial` el 20-09-2026**: la mateixa fitxa ja l'identifica com l'**escrivà del Consell de la Terra** que començà a redactar el *Llibre de la Terra* el **1486**; la biografia completa encara no hi consta.
 3. ~~**Les set ordinacions senceres**, una per una.~~ — **`parcial` el 17-09-2026:
    **dues de les set ja són al corpus, senceres i transcrites**, des de les
