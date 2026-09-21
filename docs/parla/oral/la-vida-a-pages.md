@@ -211,8 +211,12 @@ diferents i totes dues es resolen escoltant**, no raonant.
    rama», «era gairebé un art»— i **no es pot dir si són gal·licismes andorrans
    corrents, escolarització francesa o les dues coses**.
 9. **L'any de naixement és inferit**, no declarat.
-10. **No consta a quina vall feia de pagès.** Diu Canillo la premsa; la peça no
-    ho diu.
+10. ~~**No consta a quina vall feia de pagès.** Diu Canillo la premsa; la peça no
+    ho diu.~~ — **`parcial` el 2026-09-22**: el registre identifica **Albert Rossa
+    Naudí** com a veí de **Canillo** i la premsa el descriu com a canillenc, però
+    la càpsula només diu que treballava de pagès durant els estius i no nomena la
+    vall. **La procedència parroquial queda documentada; el lloc concret de les
+    feixes continua sense prova dins l'àudio.**
 
 **Sobre l'abast**
 
