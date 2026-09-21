@@ -126,11 +126,18 @@ Vegeu [la toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md
 
 ## El que falta
 
-- **Àlvar Valls i Núria Carol**, ***Llegendes d'Andorra***, **Publicacions de
-  l'Abadia de Montserrat, 2010**, **cap. «La Dama Blanca d'Aubinyà», p. 53 i
-  s.** **És el recull de referència i el corpus no l'ha obert.** **Buit
-  prioritari per a tota la branca.**
-- **Martina Camiade (2005)**, l'article citat més amunt.
+1. ~~**Àlvar Valls i Núria Carol**, ***Llegendes d'Andorra***, **Publicacions de
+   l'Abadia de Montserrat, 2010**, **cap. «La Dama Blanca d'Aubinyà», p. 53 i
+   s.** **És el recull de referència i el corpus no l'ha obert.** **Buit
+   prioritari per a tota la branca.**~~ — **`parcial` el 2026-09-21**: la
+   fitxa ja en conserva l'autoria, l'editorial, l'any i el capítol amb la pàgina
+   inicial; el recull encara no s'ha consultat.
+2. ~~**Martina Camiade (2005)**, l'article citat més amunt.~~ — **`parcial` el
+   2026-09-21**: la fitxa identifica **«Dama blanca, bruixa, Verge: la
+   representació de la dona en les llegendes andorranes»**, publicat per les
+   **Presses universitaires de Perpignan / Association archéologique des
+   Pyrénées-Orientales**, Perpinyà, **2005, p. 555–563**, i n'indica l'accés
+   obert a OpenEdition; l'article encara no s'ha buidat.
 - ~~**Quin bisbe.**~~ — **`no-es-buit` el 20-09-2026**: la llegenda només diu
   «en temps remots» i cap font local no l'anomena.
 - ~~**Quin síndic.**~~ — **`no-es-buit` el 20-09-2026**: el relat només diu «un
