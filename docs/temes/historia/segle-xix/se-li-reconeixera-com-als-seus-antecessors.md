@@ -244,22 +244,35 @@ corpus tingués aquest text.**
    cap exemplar.** **Prioritari**: és **l'obra de Brutails anterior a la que el
    corpus ha destil·lat sencera**, i **la font l'usa com a autoritat contra el
    copríncep**.
-2. **La data de la conversa de *La Vanguardia***. La font diu «**11 de Septiembre
-   último**» i **no dona l'any**; per la data d'impressió (1894) seria **1893**,
-   **i el corpus no ho afirma.** `Requereix l'hemeroteca de La Vanguardia.`
-3. **Qui era el condemnat del 1855 i per quin delicte.** **Segueix obert**: aquesta
-   font dona la seqüència i el desenllaç, **no la persona ni la causa.**
-4. **L'ordre del copríncep francès** que va deixar el sentenciat a disposició del
-   Consell. **Citada i no transcrita.** `Probablement als Arxius de l'Arieja,
-   Andorre, lligall 2.`
-5. **Quina era «una sola población»** que el 1868 no va estar en armes. **La font
-   l'exclou expressament i no la nomena.**
-6. **Qui era el «representante ilegal» del bisbe** del 1868, i per què era il·legal.
-7. **El nom del seminarista fet llicenciat en medicina**, la data i si en queda
-   acta. **El corpus no el reprodueix encara que la font el donés**: és un
-   particular. **El que interessa és l'acte del bisbe, no la persona.**
-8. **De quin bisbe és el segon indult** —«el Sr. Obispo actual»— i **de quina
-   causa.** El bisbe d'Urgell el 1894 **no consta en aquesta Introducció pel nom.**
+2. ~~**La data de la conversa de *La Vanguardia***.~~ — **`parcial` el
+   2026-09-21**: la font la situa l'**11 de setembre** i la impressió és de
+   **1894**, de manera que 1893 és una hipòtesi plausible, però l'hemeroteca no
+   s'ha consultat i el corpus no ho afirma ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+3. ~~**Qui era el condemnat del 1855 i per quin delicte.**~~ — **`parcial` el
+   2026-09-21**: la font conserva la seqüència de l'indult unilateral, la
+   retenció a disposició del Consell el **23 de gener de 1855** i la mort del
+   condemnat poques setmanes després per les ferides, però no en dona el nom ni
+   la causa ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+4. ~~**L'ordre del copríncep francès** que va deixar el sentenciat a disposició del
+   Consell.~~ — **`parcial` el 2026-09-21**: l'exposició en conserva el contingut
+   pràctic —el sentenciat no s'entregaria als veguers fins que el copríncep
+   francès resolgués la qüestió—, però no en transcriu l'ordre ni en dona la
+   referència d'arxiu ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+5. ~~**Quina era «una sola población»** que el 1868 no va estar en armes.~~ —
+   **`parcial` el 2026-09-21**: la font confirma que una sola població en quedà
+   fora, però no la nomena ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+6. ~~**Qui era el «representante ilegal» del bisbe** del 1868, i per què era
+   il·legal.~~ — **`parcial` el 2026-09-21**: el relat confirma la seva existència
+   i que va provocar la mobilització, però no n'identifica la persona ni explica
+   la il·legalitat ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+7. ~~**El nom del seminarista fet llicenciat en medicina**, la data i si en queda
+   acta.~~ — **`parcial` el 2026-09-21**: la font descriu el recorregut, la
+   investidura al palau episcopal d'Urgell i el seu rebuig com a metge oficial,
+   però no en dona el nom, la data ni l'acta ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
+8. ~~**De quin bisbe és el segon indult** —«el Sr. Obispo actual»— i **de quina
+   causa.**~~ — **`parcial` el 2026-09-21**: la font conserva que el decret va
+   trigar **tres mesos** i que calgué un indult del copríncep francès per obrir
+   les presons, però no identifica el bisbe ni la causa ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
 9. **La versió episcopal de cadascun d'aquests fets.** **El corpus té l'al·legació
    d'una part i no la de l'altra**, i **cap d'aquestes afirmacions no s'ha
    verificat contra document extern.** **Registrades com el que són.**
