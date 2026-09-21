@@ -178,7 +178,15 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
    l'arraigo](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
    El corpus encara no té la quantia exigida ni el procediment documental per
    acreditar-la.
-5. **L'afer de les concessions** del segle XIX.
+5. ~~**L'afer de les concessions** del segle XIX.~~ — **`parcial` el
+   21-09-2026**: el corpus ja en té una seqüència mínima: l'acord dels
+   coprínceps del **25 de febrer de 1881** sobre el control de l'oportunitat i
+   l'extensió de les concessions, el decret del Consell General del **29 de
+   març de 1893** sobre la competència per concedir les aigües i la llista de
+   concessions que una font de **1904** diu que el Consell havia establert ([les
+   concessions d'aigües i mines](../../institucions/consell-general/que-les-aygues-publiques-pertany-a-aquesta-casa.md)).
+   Encara falta reconstruir l'expedient complet i la relació de concessions del
+   segle XIX.
 6. ~~**L'abolició dels delmes** a Andorra: any.~~ — **`resolt` el
    21-09-2026**: les convencions del **13 d'abril i del 8 de maig de 1903** van
    extingir, respectivament, el delme capitular i l'episcopal, i els van
