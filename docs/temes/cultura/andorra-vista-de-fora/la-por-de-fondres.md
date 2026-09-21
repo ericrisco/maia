@@ -154,7 +154,14 @@ aquest.
 
 1. **La ponència de Ferrer de 1990** sentera, per contrastar-la amb aquesta.
 2. ~~**Dades reals** de percentatge de població estrangera el 2002 i avui.~~ — **`parcial` el 21-09-2026**: el 2002 consten **67.159 persones registrades**, de les quals **25.467 (37,9 %) tenien nacionalitat andorrana**; la població de nacionalitat estrangera era, per tant, **62,1 %**. La sèrie oficial posterior dona **54,7 % el 2024** i **55,3 % el 2025**. La dada del 2002 prové dels censos registrats i les de 2024–2025 del registre de població estimada, de manera que la comparació no és estrictament homogènia ([font de 2002](../../../raw/web/societat/demografia/README.md) i [sèrie oficial posterior](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)).
-3. **Què va passar** amb el reconeixement d'Andorra per part dels estats de la UE.
+3. ~~**Què va passar** amb el reconeixement d'Andorra per part dels estats de la UE.~~ —
+   **`parcial` el 21-09-2026**: el [Tractat de bon veïnatge de 1993](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
+   documenta que **França i Espanya van reconèixer el Principat com a Estat
+   sobirà** i hi van establir relacions diplomàtiques; la fitxa de [l’acord
+   d’associació amb la UE](../../institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md)
+   situa el **Consell de la UE** aprovant l’acord el **16 de juliol de 2026**,
+   amb la signatura dels 27 estats encara prevista. Falta la seqüència de
+   reconeixement o relacions de cada estat membre.
 4. **L'estat actual** de la qüestió del català a les institucions europees.
 5. ~~Si aquesta **por s'ha confirmat o dissipat** en vint anys.~~ —
    **`parcial` el 21-09-2026**: les dades posteriors situen la població de
