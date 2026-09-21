@@ -349,9 +349,13 @@ faisait l'Andorran*».**
    Books (quota exhaurida). Queda com a petició d'arxiu o de biblioteca.`
 3. **Baudon de Mony**, *Les origines historiques de la question d'Andorre*.
    **Nou, i és l'altra font episcopal.** **Prioritari.**
-4. **Brutails, *Étude critique sur la question d'Andorre*, *Revue des Pyrénées*,
+4. ~~**Brutails, *Étude critique sur la question d'Andorre*, *Revue des Pyrénées*,
    1891.** **Segona forma d'una pista ja registrada**; **el corpus no decideix si
-   és el mateix treball que l'edició de Privat.**
+   és el mateix treball que l'edició de Privat.**~~ — **`parcial` el 2026-09-21**:
+   la [fitxa de procedència](../../../fonts/brutails-etude-critique-1891.md)
+   identifica la publicació a la *Revue des Pyrénées* i en conserva la pista de
+   localització; el text no s'ha llegit i continua oberta la identitat respecte
+   de l'edició de Privat.
 5. **L'article de Brutails a la *Revue des Universités du Midi*, 1897**, sobre la
    cessió de 988. **Nou.**
 6. **La butlla de Benet VIII de 1013** i **la donació del comte als bisbes de
