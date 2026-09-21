@@ -305,12 +305,19 @@ institucions «l'air de former un véritable musée rétrospectif».**
    conserva que les sentències es redactaven **en francès i en català**, dins una
    audiència solemne al Palau de Justícia de Perpinyà. **No identifica quina
    versió era l'original ni quin redactor feia cada llengua.**
-7. **En quina de les cinc places seia Brutails.** **La font llista els noms i no
-   els atribueix cap article.**
-8. **El tribunal eclesiàstic del bisbat d'Urgell** com a tercera instància de la
-   via episcopal. **El corpus en té el que Brutails en diu —un prevere amb mandat
-   especial per a cada plet— i cap norma.** **Prioritari: és la meitat que falta
-   d'aquest sistema.**
+7. ~~**En quina de les cinc places seia Brutails.**~~ — **`parcial` el
+   2026-09-21**: el decret ja fixa les cinc places i l'ordre de la composició, i
+   la nota de Vilar identifica Brutails com un dels cinc jutges; també sabem que
+   la cinquena plaça es triava preferentment entre persones que coneguessin la
+   llengua i els usos andorrans. **La font no atribueix cap nom a cada article i
+   no prova que Brutails ocupés aquesta cinquena plaça.**
+8. ~~**El tribunal eclesiàstic del bisbat d'Urgell** com a tercera instància de la
+   via episcopal.~~ — **`parcial` el 2026-09-21**: [la justícia d'abans](./la-justicia-dabans.md)
+   identifica la regulació episcopal de **1905** com la rèplica normativa davant
+   del **Tribunal Superior de la Mitra d'Urgell**, en paral·lel al de Perpinyà, i
+   conserva que abans es nomenava **un prevere amb mandat especial per a cada
+   litigi**. **Encara falta el text constitutiu i la relació exacta entre aquest
+   tribunal i cada prevere.**
 9. ~~**Quan s'extingeix el Tribunal Superior.**~~ — **`resolt` el 2026-09-19**:
    [la justícia d'abans](./la-justicia-dabans.md) documenta que la **Llei
    qualificada de la Justícia, del 3 de setembre de 1993**, substitueix els dos
