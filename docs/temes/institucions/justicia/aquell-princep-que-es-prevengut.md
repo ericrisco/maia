@@ -156,17 +156,30 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
 
 ## Buits registrats
 
-1. **L'ordenança d'Adrien de Montluc de 1605**: **text, forma i si va tenir cap
+1. ~~**L'ordenança d'Adrien de Montluc de 1605**: **text, forma i si va tenir cap
    efecte.** **La font la cita per a la pretensió, no per al resultat.**
    **Prioritari**: **és la reclamació francesa d'exclusivitat més antiga que el
-   corpus té documentada.**
-2. **La protesta d'Odon Estañol de 1888**: **text i destinatari.** **La font hi
-   era i la qualifica de «manifestació epistolar».**
-3. **La carta de Fiter i Rossell al Consell d'Estat espanyol**, sencera. **El
-   corpus la cita ja dues vegades i no en té el text.** **Prioritari.**
-4. **Expilly**, *Dictionnaire*, **verbo Andorre** (aquesta part va aparèixer el
+   corpus té documentada.**~~ — **`parcial`**: la fitxa identifica **Adrien de
+   Montluc**, el càrrec de governador i la pretensió que les apel·lacions
+   andorranes pertanyessin al Rei i als seus oficials, amb exclusió dels altres
+   jutges. **L'ordenança, la forma i qualsevol efecte no consten.**
+2. ~~**La protesta d'Odon Estañol de 1888**: **text i destinatari.** **La font hi
+   era i la qualifica de «manifestació epistolar».**~~ — **`parcial`**: la fitxa
+   identifica **Odon Estañol com a jutge d'apel·lacions**, que reclamava el dret
+   de tercera sala per al **sol Bisbe**, i situa la protesta mentre instruïa
+   causes sotmeses a França. **El text i el destinatari documental continuen
+   oberts.**
+3. ~~**La carta de Fiter i Rossell al Consell d'Estat espanyol**, sencera. **El
+   corpus la cita ja dues vegades i no en té el text.** **Prioritari.**~~ —
+   **`parcial`**: la fitxa en conserva la regla que el recurs va **dels jutges als
+   Prínceps** i que coneix el copríncep **previngut**, és a dir, requerit primer.
+   **La carta sencera i la referència d'arxiu continuen pendents.**
+4. ~~**Expilly**, *Dictionnaire*, **verbo Andorre** (aquesta part va aparèixer el
    **1762**), i **dom Vaissete**, *Géographie historique de Languedoc*, t. III,
-   p. 115. **Cap de les dues no és al corpus.**
+   p. 115. **Cap de les dues no és al corpus.**~~ — **`parcial`**: la fitxa
+   confirma que **Expilly**, **dom Vaissete** i els intendants de Perpinyà són
+   testimonis que Brutails invoca per la regla de la tercera sala. **Les obres i
+   el passatge concret encara no són al corpus.**
 5. **Els memòries dels intendants de Perpinyà.** — ~~**El manuscrit del senyor Palmitjavila** —**tercera vegada que surt en tres tandes**—, **sense
    identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
    identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
@@ -191,15 +204,23 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
 6. **El «dossier d'afers portats molt antigament en darrer terme davant de
    jurisdiccions franceses»** que la font diu posseir. **No l'enumera aquí.**
-7. **Quan i durant quant de temps es va aplicar la segona esmena** —el darrer
+7. ~~**Quan i durant quant de temps es va aplicar la segona esmena** —el darrer
    grau al copríncep que ha nomenat el Jutge. **La font diu «potser
-   transitòriament».**
-8. **L'arrêt del Consell del Rei del 27 de novembre de 1749** *(Archives
-   Nationales, E 2286)* sencer, i **qui era Guillem Moles.**
+   transitòriament».**~~ — **`parcial`**: la fitxa identifica la segona proposta
+   —el copríncep que ha nomenat el **Jutge**— i conserva que potser fou adoptada
+   **transitòriament**. **No en dona data, norma ni període d'aplicació.**
+8. ~~**L'arrêt del Consell del Rei del 27 de novembre de 1749** *(Archives
+   Nationales, E 2286)* sencer, i **qui era Guillem Moles.**~~ — **`parcial`**:
+   la fitxa conserva la data, la signatura **E 2286**, el canvi dels Giberga del
+   Bisbe al Rei i l'acte del **23 d'agost** davant Guillem Moles. **L'arrêt
+   sencer i la identitat de Guillem Moles continuen pendents.**
 9. **Mercadier**, *Ébauche d'une description abrégée du département de l'Ariège*,
    reimpressió de **1819**, p. 3.
-10. **Si la regla de prevenció i el criteri que els Giberga van aplicar el 1749
-    són compatibles.** **El corpus les registra totes dues i no les concilia.**
+10. ~~**Si la regla de prevenció i el criteri que els Giberga van aplicar el 1749
+    són compatibles.** **El corpus les registra totes dues i no les concilia.**~~ —
+    **`parcial`**: la fitxa documenta la regla de prevenció i el canvi dels
+    Giberga després d'haver requerit el Bisbe. **La divergència queda registrada
+    i no es pot conciliar amb la font disponible.**
 
 ## Related
 
