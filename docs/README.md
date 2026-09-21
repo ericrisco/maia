@@ -1,8 +1,8 @@
 ---
-title: "El cervell andorrà"
+title: "El cervell andorrà — índex del corpus"
 ---
 
-# El cervell andorrà
+# El cervell andorrà — índex del corpus
 
 Aquesta carpeta és **el corpus**. S'obre directament com a vault d'Obsidian:
 poseu-hi `docs/` com a carpeta base, no l'arrel del repositori.

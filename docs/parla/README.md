@@ -1,8 +1,8 @@
 ---
-title: "Parla andorrana — corpus oral i audiovisual"
+title: "Parla andorrana — índex del corpus oral i audiovisual"
 ---
 
-# Parla andorrana — corpus oral i audiovisual
+# Parla andorrana — índex del corpus oral i audiovisual
 
 Transcripcions literals. L'únic material del corpus que és llengua andorrana de veritat.
 

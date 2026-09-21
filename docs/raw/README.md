@@ -1,8 +1,8 @@
 ---
-title: "Material de partida del corpus (docs/raw/)"
+title: "Índex del material de partida del corpus (`docs/raw/`)"
 ---
 
-# Material de partida del corpus (`docs/raw/`)
+# Índex del material de partida del corpus (`docs/raw/`)
 
 Aquí hi ha **els documents originals** de què surt el corpus. Fins ara vivien al
 directori temporal de la sessió i **es perdien en acabar**; des d'ara tot el que
