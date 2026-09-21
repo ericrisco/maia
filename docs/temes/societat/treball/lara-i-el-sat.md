@@ -164,7 +164,7 @@ parapúblics.
    ([per què tothom s'hi sentia integrat](../immigracio/per-que-tothom-shi-sentia-integrat.md)).
    **Cinquanta anys de presència documentada, i cap paraula dita per la
    comunitat mateixa.** **Comptat un sol cop, és un buit i no dos.**
-7. **Si el SAT existeix avui** i amb quin estatus.
+7. ~~**Si el SAT existeix avui** i amb quin estatus.~~ — **`parcial` el 21-09-2026**: [Bondia](../../../raw/web/societat/treball/sat/bondia-sat-assemblea-2020.html) documenta que el 2020 Guillem Fornieles es jubila, el SAT queda en interinitat i prepara una assemblea per trobar una nova junta i evitar desaparèixer; [el manifest de l’1 de maig de 2021](../../../raw/web/societat/treball/sat/periodic-sat-manifest-2021.html) encara el presenta com a secretari general del SAT. **No hi ha en aquestes fonts una prova de l’estatus del SAT el 2026**, ni del resultat d’aquella assemblea.
 
 ## Related
 
