@@ -301,9 +301,16 @@ el corpus no ho ha comprovat lexicogràficament.»**
    baixa jurisdicsio»**, per ser vicegerents dels prínceps i **«per estar aixi
    disposat en los Pariatges, ***pedra fundamental sobre que esta fundat lo
    principal govern de estes Valls***».**
-5. **Els decrets del Consell General del 19 de maig de 1874, del 25 d'agost de
-   1877 i del 8 d'abril de 1884**, sencers. **Segona tanda que els reclama.**
-6. **Els documents de 1492, 1533, 1580, 1599, 1601, 1606 i 1623** sencers.
+5. ~~**Els decrets del Consell General del 19 de maig de 1874, del 25 d'agost de
+   1877 i del 8 d'abril de 1884**, sencers.~~ — **`parcial` el 2026-09-21**: la
+   font identifica els tres decrets com la base de la inapel·labilitat de les
+   sentències de Corts i de la suspensió dels tribunals inferiors; els textos
+   íntegres encara no són al corpus ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+6. ~~**Els documents de 1492, 1533, 1580, 1599, 1601, 1606 i 1623** sencers.~~ —
+   **`parcial` el 2026-09-21**: la fitxa ja conserva extractes datats de tots els
+   casos —inclosa l'apel·lació de **1492**, la recusació per frívola de **1533**,
+   els recursos de **1580–1601**, l'obertura de Corts de **1606** i la *comanda*
+   de **1623**—, però no les peces completes ni les signatures d'arxiu ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 7. **Si hi ha cap cas de revisió d'una sentència de les Corts.** **La font no
    n'ha trobat cap i pregunta si n'hi hauria d'haver.**
 8. ~~**Què és exactament una *comanda* al procediment català**.~~ — **`parcial`
@@ -313,9 +320,12 @@ el corpus no ho ha comprovat lexicogràficament.»**
    diccionari no en dona el sentit processal**, i **per què era litigi
    privilegiat no ho respon cap dels dos diccionaris**: **`requereix doctrina
    processal catalana`**, no lexicografia.
-9. **Si el document de 1623 val com a prova que la doctrina de la suspensió dels
-   tribunals inferiors és més antiga del que la font diu.** **El corpus registra
-   la tensió i no la resol.**
+9. ~~**Si el document de 1623 val com a prova que la doctrina de la suspensió dels
+   tribunals inferiors és més antiga del que la font diu.**~~ — **`parcial` el
+   2026-09-21**: l'acte de **23 de juny de 1623** diu dues vegades que el batlle
+   només actua durant l'absència de les Corts, molt abans dels decrets de
+   **1874–1884**; això documenta una tensió cronològica, però no permet arbitrar
+   si ja hi havia la doctrina general de suspensió ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 10. ~~**El *Politar*, p. 172.**~~ — **La p. 185, `resolta` el 18-09-2026, i dona el
     rellotge de les causes en temps de Corts.**
 
