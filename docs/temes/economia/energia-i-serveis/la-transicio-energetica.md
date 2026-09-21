@@ -277,8 +277,15 @@ al 2050.**
   obliga a integrar el clima en polítiques i plans, i el 55 encarrega la
   sensibilització escolar. **Segueixen fora del corpus l'inventari efectiu, les
   comunicacions nacionals i les fitxes de dades de cada eix.**
-- **El Reglament provisional del 1975** no és al corpus, i és la norma que
-  defineix qui distribueix electricitat al país.
+- ~~**El Reglament provisional del 1975** no és al corpus, i és la norma que
+  defineix qui distribueix electricitat al país.~~ — **`parcial` el
+  2026-09-22**: l'article **3.r de la Llei 21/2018** identifica el text com el
+  **Reglament provisional de la distribució de l'energia elèctrica del 28 de
+  juliol de 1975**, modificat el 2010, i enumera les cinc entitats distribuïdores:
+  **Forces Elèctriques d'Andorra, Nord Andorra SA, Mútua Elèctrica d'Encamp,
+  Mútua Elèctrica de Sant Julià i Serveis Comunals d'Encamp SA** ([text
+  consolidat local](../../../raw/lleis/transicio-energetica.txt)). **El reglament
+  original i el detall de les seves regles encara no són al corpus.**
 - ~~**FEDA** —l'empresa pública elèctrica— no té fitxa pròpia al corpus.~~
   **`parcial`:** el corpus ja documenta a [FHASA](./fhasa.md#feda) que el
   1988 Andorra n'adquireix el patrimoni i crea FEDA, que n'assumeix la
