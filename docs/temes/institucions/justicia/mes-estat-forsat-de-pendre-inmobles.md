@@ -302,8 +302,8 @@ llibre:**
    **Segueix obert per al benefici concret de l'ordre mobles/immobles**, que el
    1461 encara no existia.
 6. **El decret del Consell General del 23 de març de 1880** sencer.
-7. **L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
-   parell i la bèstia de càrrega. — **`resolt` el 16-09-2026** (PDF 75). **El
+7. ~~**L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
+   parell i la bèstia de càrrega.~~ — **`resolt` el 16-09-2026** (PDF 75). **El
    text és aquest**: «**pot lo Batlle reservar al pages lo parell de llaurar y la
    averia de carrey, mediant li quedie heretat per conrear, altrament no**».
    **I la condició és el que importa i el que el corpus no tenia**: **la reserva

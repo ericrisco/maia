@@ -87,8 +87,8 @@ Dues coses que un lector no esperaria trobar al mateix text:
   una sèrie que potser tot just comença. `deducció del corpus, no verificada.`
   `Requereix font externa: el registre de comunicacions del ministeri
   d'Interior.`
-- **El reglament d'armes** —la classificació i quines són prohibides— és
-  reglamentari i **no és al recull de lleis**. — **`resolt` el 17-09-2026 des
+- ~~**El reglament d'armes** —la classificació i quines són prohibides— és
+  reglamentari i **no és al recull de lleis**.~~ — **`resolt` el 17-09-2026 des
   del [BOPA](../../../fonts/bopa.md)**: el **Decret 447/2022, del 2-11-2022,
   d'aprovació del Reglament d'armes**, butlletí **131 del 2022**
   (`docs/raw/lleis/bopa/decret-447-2022-reglament-armes.txt`), **el segon del

@@ -290,8 +290,8 @@ diferència entre ells, igual al principi i al final.**
   **I els pactes fets després de la ruptura sense advocat propi per a cadascú
   es poden desfer** (article 138): **qualsevol dels dos els pot deixar sense
   efecte durant tres mesos**, i com a màxim fins a contestar la demanda.
-- **La Llei del Registre Civil**, a la qual aquesta remet per a la inscripció,
-  **no és al recull de normes del corpus**. — **`resolt` el 17-09-2026 des del
+- ~~**La Llei del Registre Civil**, a la qual aquesta remet per a la inscripció,
+  **no és al recull de normes del corpus**.~~ — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: la **Llei del Registre Civil, de l'11 de
   juliol del 1996**, butlletí **57 del 1996**
   (`docs/raw/lleis/bopa/llei-1996-registre-civil.txt`).

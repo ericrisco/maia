@@ -167,8 +167,8 @@ coherent amb un país la banca del qual viu de la seva homologació
   > de la frase exacta **«de mesures restrictives»**, paginada de vint en vint
   > fins a esgotar-la, **deduplicant pel sumari**. `Requereix el contingut dels
   > decrets, que no s'ha llegit: això és la sèrie, no la matèria.`
-- **La Llei qualificada del Cos de Policia**, que la de seguretat pública cita
-  com a norma germana, **no és al recull**. — **`resolt` el 17-09-2026 des del
+- ~~**La Llei qualificada del Cos de Policia**, que la de seguretat pública cita
+  com a norma germana, **no és al recull**.~~ — **`resolt` el 17-09-2026 des del
   [BOPA](../../../fonts/bopa.md)**: és la **Llei 8/2004, del 27 de maig,
   qualificada del Cos de Policia**, butlletí **39 del 2004**
   (`docs/raw/lleis/bopa/llei-8-2004-cos-de-policia.txt`). **La norma germana ja

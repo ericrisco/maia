@@ -271,9 +271,9 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
 3. **Què passava si el veí més pròxim no transmetia la citació.**
 4. **El conveni o la base jurídica** de l'assistència judicial amb França que la
    font descriu com a pràctica corrent. **No en cita cap.**
-5. **L'*Instructa*, Pièces justificatives p. XLVIII, `resolta` el 16-09-2026**
+5. ~~**L'*Instructa*, Pièces justificatives p. XLVIII, `resolta` el 16-09-2026**
    (PDF 68); **el *Politar*, pp. 208 i 209, `resolt` el 18-09-2026**: **la regla
-   que dona títol a aquesta fitxa hi és amb la seva raó de dret.** **En les
+   que dona títol a aquesta fitxa hi és amb la seva raó de dret.**~~ **En les
    causes civils «(sens que hi age apellacio de Batlle a Batlle, **per ser de
    igual jurisdicsio, per la regla *Par in parem non habet imperium***), proceheyx
    dels dos Batlles **aquell que es previngut per les parts, per citacio**»**, i

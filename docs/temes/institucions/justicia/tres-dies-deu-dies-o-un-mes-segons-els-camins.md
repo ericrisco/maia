@@ -246,10 +246,10 @@ arriben, el rellotge corre.**
    de juny de 1845** al prefecte de l'Arieja *(Archives de l'Ariège, Andorre,
    lligall 2 — **dotzena peça registrada i cap consultada**)*.
    `Requereix font externa: Archives départementales de l'Ariège.`
-6. **L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX, `resolta` el
+6. ~~**L'*Instructa*, Pièces justificatives pp. XLVIII i XLIX, `resolta` el
    16-09-2026** (PDF 68-69); **el *Politar*, pp. 212 i 213, `resolt` el
    18-09-2026, i hi ha una regla que el títol d'aquesta fitxa no preveia: el
-   termini depenia de quin copríncep havia nomenat el Jutge, i de l'estació.**
+   termini depenia de quin copríncep havia nomenat el Jutge, i de l'estació.**~~
 
    > «**Si lo Jutge es a la part de Fransa**, que age tocat a la elecsio del
    > Compte de Foyx, **y se escau al ivern**, en cuyo temps **es dificultos lo

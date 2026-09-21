@@ -246,9 +246,9 @@ ningú.**
 
 ## Buits registrats
 
-- **L'extradició no és en aquesta llei.** El títol diu «cooperació judicial
+- ~~**L'extradició no és en aquesta llei.** El títol diu «cooperació judicial
   internacional en matèria penal» i **el text la esmenta tres vegades com a cosa
-  que pot no ser possible** (articles 25 i 30) **sense regular-la mai**.
+  que pot no ser possible** (articles 25 i 30) **sense regular-la mai**.~~
   ~~**La llei d'extradició andorrana no és al recull que el corpus té.**~~ —
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: és la
   **Llei qualificada d'extradició, del 28 de novembre de 1996**, butlletí del

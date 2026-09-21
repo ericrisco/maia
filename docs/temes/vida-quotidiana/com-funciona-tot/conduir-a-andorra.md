@@ -234,8 +234,8 @@ frontera espanyola plana (**+0,4%**) i **la francesa caiguda un 18,9%**.
   d'ampla** —vint quilòmetres hora en comptes de deu—. **A 50 per hora, passar a
   75 ja és greu; a 80 per hora, passar a 105 encara és lleu.** **El codi és més
   tolerant amb l'excés a les vies ràpides que a les urbanes.**
-- El buit original deia: el corpus té les normes de conducta i no què
-  costa incomplir-les. — **`resolt` des del 2026-09-13.**
+- ~~El buit original deia: el corpus té les normes de conducta i no què
+  costa incomplir-les.~~ — **`resolt` des del 2026-09-13.**
 - ~~**El permís de conduir** —categories, edats, obtenció— és al títol III i no
   s'ha buidat.~~ — **`parcial`, i el buit estava mal adreçat.** **El títol III
   ja és buidat** (secció de dalt), i **les categories i les edats no hi són**:
