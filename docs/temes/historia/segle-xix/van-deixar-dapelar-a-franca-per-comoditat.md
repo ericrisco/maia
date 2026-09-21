@@ -243,9 +243,10 @@ la força**, perquè **la sola unió seria força moral suficient**; en els dos 
 
 ## Buits registrats
 
-1. **L'informació-concòrdia de 1347.** **Segona tanda que en surten citacions i
-   segueix sense veure's.** **Ara el corpus en té quatre fragments llatins** —les
-   conclusions 1a i 12a, la regla d'apel·lació i la del notari. **Prioritari.**
+1. ~~**L'informació-concòrdia de 1347, sencera.**~~ — **`parcial`**: el corpus ja
+   conserva quatre fragments llatins —les conclusions **1a i 12a**, la regla
+   d'apel·lació i la del notari—, però les altres conclusions i el document
+   complet encara no s'han llegit.
 2. **El privilegi de la *cisena*** donat pel **bisbe Urries** i restaurat pel
    **bisbe Capella**. **Sense data ni text.** **Prioritari**: el corpus té la
    institució pel Politar i no el privilegi.
