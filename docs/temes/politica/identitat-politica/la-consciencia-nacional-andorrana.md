@@ -324,8 +324,7 @@ hagut necessitat», i **l'escola nacional pròpia no comença fins al 1982**,
    **[el Museu de la Ràdio](../../cultura/museus-i-arxius/museus/el-museu-de-la-radio.md)**,
    **previst per al 2015 i del qual el corpus no sap si va obrir**. **Sud Ràdio
    hi surt, amb una divergència ja registrada** a la fitxa de Ràdio Andorra.
-   **El que segueix obert és Ràdio de les Valls**, **de la qual el corpus només
-   té el nom dins aquesta cronologia.**
+   **El que seguia obert era Ràdio de les Valls**, però [la fitxa de Ràdio Andorra](../../societat/mitjans/radio-andorra.md) i aquesta cronologia ja en situen la seqüència: **Ràdio de les Valls, 1951–1958**, i **Sud Radio des del 1962**. El corpus encara no té la graella, els contractes de concessió ni una font independent que resolgui el canvi de noms; el buit queda **`parcial`**.
 9. ~~Els dos llibres de país: **Riberaygua (1946)** i **Puigoriol (1963)**.~~ —
    **`parcial` el 17-09-2026: del primer ja se sap la referència i, sobretot,
    qui el va escriure.** Font: les [actes del Consell
