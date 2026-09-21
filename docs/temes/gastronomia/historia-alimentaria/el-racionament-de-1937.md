@@ -123,8 +123,8 @@ agronòmiques** i marca **el judici** com a seu.
    decisiva, i localitzable.**~~ — **`parcial` el 21-09-2026**: la fitxa situa
    l’acord en el marc del racionament, però **l’acta del Consell General encara
    no és al corpus**.
-2. **Quant** aliment va arribar per la ruta de Santander, i durant quant temps.
-3. **Qui** va gestionar el racionament i com es controlava.
+2. ~~**Quant** aliment va arribar per la ruta de Santander, i durant quant temps.~~ — **`parcial` el 2026-09-21**: la fitxa documenta la ruta **Santander → Irun → França → l'Hospitalet → Andorra** i que s'hi transportaven mercaderies de primera necessitat, però no aporta el tonatge, el nombre d'expedicions ni la durada del subministrament.
+3. ~~**Qui** va gestionar el racionament i com es controlava.~~ — **`parcial` el 2026-09-21**: el **Consell General** va activar la intercessió del copríncep episcopal i la resposta de Burgos va permetre la ruta, però el corpus no identifica l'òrgan que distribuïa les racions ni el sistema de control.
 4. ~~**Quants refugiats** hi havia a Andorra el 1937.~~ — **`parcial` el
    20-09-2026**: [Els refugiats de la Guerra Civil](../../historia/guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md)
    situa la població refugiada en aproximadament **4.000 persones el 1936** i
