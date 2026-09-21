@@ -247,9 +247,9 @@ el corpus no ho ha comprovat lexicogràficament.»**
 
 ## Buits registrats
 
-1. **D'on treia la font el termini de tretze dies el 1904.** **El dona com a cosa
+1. ~~**D'on treia la font el termini de tretze dies el 1904.** **El dona com a cosa
    sabuda i no cita norma ni ús.** **Prioritari**: **és el pont que faltaria entre
-   el tretze històric i el del Codi vigent.**
+   el tretze històric i el del Codi vigent.**~~ — **`parcial` el 21-09-2026**: la fitxa pot reconstruir la regla que coneixia Brutails —**deu dies de dret i tres de gràcia**, amb notificació efectiva, exclusió dels festius i requeriment dins del termini—, però la font no identifica la norma històrica d'on la treu.
 2. ~~**Les «regles molt netes que fixen els diversos terminis del procediment
    d'apel·lació»** que la font invoca.~~ — **`parcial`, actualitzat el
    2026-09-19**: el corpus ja pot enumerar les regles que governen el còmput:
@@ -311,8 +311,8 @@ el corpus no ho ha comprovat lexicogràficament.»**
    casos —inclosa l'apel·lació de **1492**, la recusació per frívola de **1533**,
    els recursos de **1580–1601**, l'obertura de Corts de **1606** i la *comanda*
    de **1623**—, però no les peces completes ni les signatures d'arxiu ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
-7. **Si hi ha cap cas de revisió d'una sentència de les Corts.** **La font no
-   n'ha trobat cap i pregunta si n'hi hauria d'haver.**
+7. ~~**Si hi ha cap cas de revisió d'una sentència de les Corts.** **La font no
+   n'ha trobat cap i pregunta si n'hi hauria d'haver.**~~ — **`parcial` el 21-09-2026**: Brutails declara que no n'ha trobat cap i la fitxa només pot documentar la possibilitat teòrica de retractació a partir d'una altra sala; el corpus no té cap expedient de revisió de Corts.
 8. ~~**Què és exactament una *comanda* al procediment català**.~~ — **`parcial`
    el 2026-09-18**: el sentit general, documentat el 16-09-2026
    ([DCVB](../../../fonts/dcvb.md)), és **l'acte i efecte de comanar** —encàrrec—,
