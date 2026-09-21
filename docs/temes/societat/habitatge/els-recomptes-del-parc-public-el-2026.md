@@ -84,9 +84,10 @@ I.1 p. 4 i I.3 p. 5.)
   l'inventari que connectaria 458 habitatges previstos amb l'objectiu de 650.
   Falta comprovar concursos, adjudicacions, propietat o arrendament, acabament
   i ocupació.
-- No s'han llegit les dades individuals del registre, la metodologia
-  del 23% ni la normativa completa d'accés. No s'infereix que la resta
-  de sol·licituds siguin totes denegades o totes pendents.
+- ~~**Les dades individuals del registre, la metodologia del 23% i la normativa
+  completa d'accés.**~~ — **`font_externa` el 2026-09-22**: **la memòria només
+  publica el percentatge agregat i no permet inferir l'estat de cada sol·licitud**.
+  **Cal consultar el registre i la normativa d'accés per reconstruir-ho.**
 - Els codis de projecte de les dues partides de Territori figuren com
   IN0109 a p. 3 i PR0278 a p. 5. Es preserva la discrepància sense
   decidir-ne la causa; no s'alteren els codis del BOPA.

@@ -302,9 +302,10 @@ exemple datat. El corpus el refà.**
    ([tretze dies, i ja hi eren el 1904](./tretze-dies-i-ja-hi-eren-el-1904.md))—
    **i sobreseuen tota execució «fins age passat altres 10 dias, tan si se li
    presentan lletras inhibitorias com no».**
-8. **El despatx dels Afers Estrangers del 19 de novembre de 1846** *(Archives de
-   l'Ariège, Andorre, lligall 2 — **onzena peça registrada i cap consultada**)*.
-   `Requereix font externa: Archives départementales de l'Ariège.`
+8. ~~**El despatx dels Afers Estrangers del 19 de novembre de 1846**.~~ —
+   **`font_externa` el 2026-09-22**: **l'onzena peça del lligall està registrada
+   però el corpus no en té el text**. **Cal consultar els *Archives
+   départementales de l'Ariège*.**
 9. ~~**El procés andorrà jutjat el 1749-1753 davant del Consell Sobirà del
    Rosselló**, en què **la part guanyadora va formar requesta d'execució al cap
    dels deu dies.**~~ **`parcial`:** l'*arrêt* de 1749 ja permet documentar que

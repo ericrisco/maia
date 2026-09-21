@@ -372,8 +372,10 @@ desglossament, perquè les segones sumen entre elles.`
    ell hi ha votants per tram i no participació per tram.`
 6. ~~**El percentatge exacte del 1997 i del 2009**, que la citació no dona.~~
    `resolt` **81,6% i 75,3%.**
-7. **El 2005**, que és l'únic any sense participació publicada. `Requereix una
-   font que no sigui el dossier oficial: el dossier no la porta i ho diu.`
+7. ~~**El 2005**, que és l'únic any sense participació publicada.~~ —
+   **`font_externa` el 2026-09-22**: **el dossier oficial conserva «N/D» i no
+   publica la participació**. **Cal una font independent del dossier per saber
+   si hi ha una xifra recuperable.**
 
 ## Related
 

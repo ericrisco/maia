@@ -209,10 +209,10 @@ de 1975 i no ho pot dir**.
    quan**.~~ — **`parcial`, actualitzat el 2026-09-19**: la font estableix que
    **el 1904 no n'hi havia cap**. **Segueixen obertes l'existència d'una
    declaració en un altre moment i la data d'inici o desaparició del règim.**
-9. **La revocació del jutge d'apel·lacions de 1840**: el corpus té **la petició
-   del Síndic** i **que es va pronunciar**, **no l'acte de revocació**.
-   `Requereix font externa: Archives départementales de l'Ariège, Andorre,
-   lligall 2.`
+9. ~~**La revocació del jutge d'apel·lacions de 1840**.~~ — **`font_externa` el
+   2026-09-22**: **el corpus només té la petició del Síndic i la constància que
+   es va pronunciar**, no l'acte. **Cal consultar els *Archives départementales
+   de l'Ariège*, Andorre, lligall 2.**
 
 ## Related
 

@@ -253,10 +253,11 @@ resol: l'evita.**
 
 ## Buits registrats
 
-- **El criteri exacte del Cens Comunal per a «nascut andorrà»**, i si és la
-  mateixa categoria que els «nats a Andorra» de Becat. **Sense això, els sis punts
-  i mig de recompte són un màxim, no una mesura.** `Requereix el Registre del Cens
-  Comunal i la llei de la nacionalitat.` **Buit prioritari.**
+- ~~**El criteri exacte del Cens Comunal per a «nascut andorrà»**, i si és la
+  mateixa categoria que els «nats a Andorra» de Becat.~~ — **`font_externa` el
+  2026-09-22**: **sense el criteri censal i jurídic no es pot convertir el
+  recompte en una mesura**. **Cal el Registre del Cens Comunal i la llei de la
+  nacionalitat.**
 - ~~**De qui és el 16,4 % de pares que la font no declara.** Tres percentatges
   sumen 83,6 i el quart no hi és.~~ — **`no-es-buit` el 20-09-2026**: la
   taula publica només les tres categories identificades i deixa el **16,4 %**
