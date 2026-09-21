@@ -258,11 +258,15 @@ aquest capítol està escrit en condicional** —«serie molt convenient nomenas
 **Tampoc no consta si l'arrest rigorós dels tres punts es va prendre**, ni si les
 parròquies van tenir mai la tauleta.
 
-**No consta què és una `gravada`** amb precisió. Brutails la glossa com a
+~~**No consta què és una `gravada`** amb precisió. Brutails la glossa com a
 **costa pedregosa i xaragallada**
 ([dos pianos i una carretera](./dos-pianos-i-una-carretera.md)); **el Politar la
 tracta com una cosa que s'enterra, s'arrasa i s'omple de runa**. `El corpus
-registra els dos usos i no en fixa la definició.`
+registra els dos usos i no en fixa la definició.`~~ — **`parcial` el 21-09-2026**:
+el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) la
+defineix com una **costa empedrada**, i aquesta fitxa en conserva l'ús del camí
+que es manté i l'ús de la costa que s'enterra, s'arrasa i s'omple de runa; encara
+no queda resolta la diferència entre els dos contextos.
 
 **No consta què vol dir «fer plats ni comares».** **El corpus no ho tradueix.**
 
