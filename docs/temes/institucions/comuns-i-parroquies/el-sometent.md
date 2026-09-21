@@ -96,9 +96,13 @@ Vall i el Tribunal de Corts
 **perseguir lladres** a **socórrer en emergències**. La forma —designació pel
 comú, capità, deseners, crida del cònsol— **s'ha conservat**.
 
-> **El corpus no ha traçat el camí entre les dues coses.** **Buit registrat:**
+> ~~**El corpus no ha traçat el camí entre les dues coses.** **Buit registrat:**
 > **quan i com el sometent passa de policial a protecció civil**, i quina norma
-> ho fa. **Entre el 1904 i el 2022 hi ha una història sencera sense documentar.**
+> ho fa. **Entre el 1904 i el 2022 hi ha una història sencera sense documentar.**~~
+> — **`parcial` el 21-09-2026**: el corpus ja conserva la funció policial del
+> **1904**, els casos de mobilització de **1628** i **1630** i la remissió legal
+> a les funcions històriques en la **Llei 28/2022**; la continuïtat documentada
+> entre el 1904 i el 2022 i la norma de transformació encara falten.
 
 ## Per què això importa per al corpus
 
