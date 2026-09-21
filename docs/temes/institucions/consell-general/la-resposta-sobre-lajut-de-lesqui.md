@@ -78,9 +78,15 @@ disposicions addicional i derogatòria 1.)
   **`no-es-buit` el 20-09-2026**: és una nota de cobertura de la font, no una
   pregunta pendent; aquesta fitxa ja conserva la pregunta, la data i el
   contingut rellevant a partir de la reproducció publicada del **BCG23/2021**.
-- No s'ha cercat una correcció de la remissió a la disposició addicional.
-  No es dedueix que el Consell n'aprovés la interpretació: la peça és
-  una resposta escrita publicada, no una votació.
+- ~~La remissió de la resposta a la disposició addicional.~~ — **`resolt` el
+  2026-09-21**: el text del **Decret 44/2021** situa la derogació expressa a la
+  **disposició derogatòria, apartat 1**; la disposició addicional tracta
+  l'assimilació i el còmput dels períodes cobrats. La discrepància amb la
+  resposta del ministre queda registrada i no es corregeix per simple
+  concordança ([BOPA](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt),
+  disposicions addicional i derogatòria 1).
+- **Si el Consell va aprovar o no la interpretació** de la resposta. No es
+  dedueix: la peça és una resposta escrita publicada, no una votació.
 - No s'han llegit les altres peces del butlletí ni reconstruït totes
   les mesures posteriors. Aquesta resposta de 2021 no acredita vigència actual.
  - [Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
