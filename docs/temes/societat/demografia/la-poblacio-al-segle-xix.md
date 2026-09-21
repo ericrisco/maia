@@ -171,7 +171,13 @@ especialment interessant, perquè prefigura **la concessió de 1928-1930 a FHASA
    cens de 1932.
    Vegeu [les xifres que no quadren](./les-xifres-que-no-quadren.md).
 3. ~~**La discrepància 1896/1897.**~~ — **`parcial` el 2026-09-19**: [Les xifres que no quadren](./les-xifres-que-no-quadren.md) documenta **5.800 habitants el 1896** i **5.210 el 1897**; la font del Congrés dels Diputats de **1895** parla d’**uns 6.000**, coherent amb el primer valor, mentre que el segon coincideix exactament amb la dada atribuïda a Brutails. **La procedència concreta de cada xifra i si el 1897 és una transcripció o una dada no comparable continuen obertes.**
-4. **L'arraigo**: definició, quantia, com s'acredita.
+4. ~~**L'arraigo**: definició, quantia, com s'acredita.~~ — **`parcial` el
+   21-09-2026**: una font de la Nova Reforma formula l'exigència com **tenir
+   prou béns al sòl i crèdit suficient**, i la fitxa ja la relaciona amb
+   l'exclusió de les persones desproveïdes de recursos ([la fórmula de
+   l'arraigo](../../historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md)).
+   El corpus encara no té la quantia exigida ni el procediment documental per
+   acreditar-la.
 5. **L'afer de les concessions** del segle XIX.
 6. ~~**L'abolició dels delmes** a Andorra: any.~~ — **`resolt` el
    21-09-2026**: les convencions del **13 d'abril i del 8 de maig de 1903** van
