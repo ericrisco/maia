@@ -253,10 +253,14 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
    `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
 3. **`[?decòrins]` (p=0,03) i `[?portudiment]` (p=0,07) no tenen lectura.** No
    són paraules: són el que la màquina escriu quan no sent res.
-4. **Les etimologies no s'han contrastat** amb
+4. ~~**Les etimologies no s'han contrastat** amb
    [el substrat](../../temes/llengua/dialectologia/el-substrat.md), que és
-   l'article del corpus sobre el mateix tema. **L'exercici queda pendent i, amb
-   aquesta transcripció, seria arriscat.**
+   l'article del corpus sobre el mateix tema.~~ — **`parcial` el 2026-09-22**:
+   les dues fitxes coincideixen a situar la romanització tardana i un substrat
+   prellatí o bascoide a l'alta muntanya, i aquesta peça concreta la comparació
+   amb **piturri/pur** i els topònims en **dor/dur**. **La fitxa del substrat no
+   valida, però, cap d'aquestes etimologies particulars; el contrast nominal
+   continua pendent i la transcripció no permet fer-lo amb seguretat.**
 5. ~~**De la persona no consta** ni parròquia, ni generació, ni origen.~~ —
    **`no-es-buit` el 20-09-2026**: la peça toponímica publica el contingut de la
    conversa, però no metadata biogràfica del parlant.
