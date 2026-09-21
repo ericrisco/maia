@@ -214,10 +214,10 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
 
 ## Buits registrats
 
-1. **Les ordinacions de Sancta Cília**, i **fins on els usos andorrans les
+1. ~~**Les ordinacions de Sancta Cília**, i **fins on els usos andorrans les
    modifiquen.** **La font ho declara i no ho detalla.** **Prioritari**: és dret
    vigent declarat, i el corpus no en té el text.
-   `Requereix font externa: Pragmaticas, IV, 11, p. 71; Pella y Forgas, Tratado de las relaciones y servidumbres entre las fincas.`
+   `Requereix font externa: Pragmaticas, IV, 11, p. 71; Pella y Forgas, Tratado de las relaciones y servidumbres entre las fincas.`~~ — **`parcial` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja identifica les ordinacions com a **barcelonines**, aplicables a Andorra en matèria de servituds, i conserva la reserva de la font: els **usos locals les completen o modifiquen**, però encara no en determina l'abast ni conserva el text.
 2. ~~**La sentència de visura de 1899** que enuncia la presumpció a favor del fons
    servent, **sencera**, i **si el principi consta en alguna norma escrita.**~~ —
    **`parcial` el 18-09-2026**: **la font en conserva la frase que formula la

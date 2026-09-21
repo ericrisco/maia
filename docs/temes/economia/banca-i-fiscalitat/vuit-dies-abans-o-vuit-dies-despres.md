@@ -219,10 +219,10 @@ solts.**
 6. ~~**Si la finestra de disset dies era habitual en vendes de prats** o **un pacte
    d'aquestes parts.**~~ — **`parcial` el 18-09-2026**: el corpus en té un sol
    cas, insuficient per saber si era habitual.
-7. **El contingut exacte del ***benefici Velleià*** i de l'***Authentica*** tal com
+7. ~~**El contingut exacte del ***benefici Velleià*** i de l'***Authentica*** tal com
    s'aplicaven a Andorra, **i si la renúncia sense el «cerciorament» del notari
    era nul·la.** **El corpus té la formalitat i no la sanció.**
-   `Requereix comprovació.`
+   `Requereix comprovació.`~~ — **`parcial` el 21-09-2026**: la fitxa i el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja fixen el nucli de les dues normes —**protegeixen la dona d'obligar-se pel deute d'altri**— i la formalitat andorrana: el notari l'havia d'haver **cerciorada plenament** abans de la renúncia. Encara no consta el contingut complet de l'*Authentica* ni la sanció de renunciar sense informació.
 8. **On són «*lo prat de la Olla*» de l'Obac i el del Solà**, al torrent del
    Mamo, terme de Pal, **amb les seves afrontacions**, **i el «*comunal dit de la
    Ubaga dels Agrels*».** **Registrat per a la branca de territori.**
