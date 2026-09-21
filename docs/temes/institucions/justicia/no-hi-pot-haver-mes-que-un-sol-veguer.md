@@ -264,28 +264,57 @@ vestit*». La font hi respon:**
    veguer i reforça la identificació amb la sentència de 1742; **la font de la
    sentència només escriu «Ant.» i encara cal la peça original o una biografia
    que llegeixi el nom complet.**
-2. **El document de l'11 d'abril de 1661** *(Archives Nationales, O¹ 7, f. 307)*,
+2. ~~**El document de l'11 d'abril de 1661** *(Archives Nationales, O¹ 7, f. 307)*,
    i **si la instal·lació de Vital Serre es va arribar a fer.** **I per què hi ha
-   vint-i-cinc anys entre el nomenament i aquesta ordre.**
-3. **Qui era Bernat Motier**, jutge d'Andorra mort abans del 15 de març de 1636.
-4. **El decret episcopal del 16 d'abril de 1885** i **l'acta del Consell del 20
+   vint-i-cinc anys entre el nomenament i aquesta ordre.** — **`parcial` el
+   22-09-2026**: la fitxa ja conserva el contingut de l'ordre —Serre havia estat
+   proveït jutge el **15 de març de 1636**, el veguer no l'havia pogut instal·lar
+   perquè no havia estat rebut, i el comandant del comtat de Foix rep l'ordre de
+   fer-ho—, però **no consta si l'acte es va executar** ni si el document de 1661
+   recapitula un afer antic o testimonia un retard de vint-i-cinc anys.~~
+3. ~~**Qui era Bernat Motier**, jutge d'Andorra mort abans del 15 de març de 1636.
+   — **`parcial` el 22-09-2026**: només queda establert que era el jutge que
+   **Vital Serre havia de substituir**; la peça llegida no dona la seva
+   procedència, dates ni cap altre càrrec, i el corpus no té una identificació
+   biogràfica independent.~~
+4. ~~**El decret episcopal del 16 d'abril de 1885** i **l'acta del Consell del 20
    d'abril**, sencers, i **com va acabar exactament** —**la font diu que el
-   Consell «va guanyar la causa» i no diu per quin acte.**
+   Consell «va guanyar la causa» i no diu per quin acte.** — **`parcial` el
+   22-09-2026**: la fitxa conserva el motiu i la decisió del Consell —un sol
+   veguer per príncep, i cap suplent general amb atribucions generals— i la
+   conseqüència documentada, **la negativa a rebre el jurament**; encara no té
+   el text íntegre del decret ni de l'acta, ni l'acte concret al qual la font
+   redueix que el Consell «va guanyar la causa».~~
 5. ~~**L'acte de 1599** en què els andorrans neguen obediència al lloctinent de
    qualsevol oficial: **si és el mateix del 29 de novembre de 1599 que el corpus
    ja té.**~~ — **`parcial`**: la mateixa fitxa ja estableix que és **la mateixa
    doctrina** i que **probablement és el mateix acte** que l'admissió del
    lloctinent del 29 de novembre; la font només en dona l'any i no permet
    convertir aquesta coincidència en identificació segura.
-6. **La comissió i l'acta de presa de possessió del veguer Gomma-Montou (1788)**
-   *(Archives Nationales, F¹ᵉ 205, i minutes del notari Soldevila)*.
-7. **La relació del veguer del 15 d'octubre de 1806** *(Archives de l'Ariège,
+6. ~~**La comissió i l'acta de presa de possessió del veguer Gomma-Montou (1788)**
+   *(Archives Nationales, F¹ᵉ 205, i minutes del notari Soldevila).* —
+   **`parcial` el 22-09-2026**: la fitxa en fixa les dues dates —**28 de maig**
+   per a la comissió i **14 d'octubre** per a la presa de possessió—, el càrrec
+   i el nom de l'advocat d'Ax; **no s'ha llegit encara cap de les dues peces**.~~
+7. ~~**La relació del veguer del 15 d'octubre de 1806** *(Archives de l'Ariège,
    Andorre, lligall 2 — **novena peça registrada i cap consultada**)*.
-   `Requereix font externa: Archives départementales de l'Ariège.`
-8. **Els «privilegis especials d'Andorra»** que potser prohibien als Veguers
-   arrendar l'ofici. **La font ho diu en condicional i no els cita.**
-9. **Les Corts de 1444**, amb un *gerent de la Vigueria* i un lloctinent. **El
-   corpus no té aquest càrrec en cap altra font.**
+   `Requereix font externa: Archives départementales de l'Ariège.` —
+   **`parcial` el 22-09-2026**: Brutails en reprodueix el passatge de la recepció
+   a Andorra i la descripció del vestit, i la fitxa n'ha registrat la crítica
+   per observació directa; **la novena peça de lligall i l'original no s'han
+   consultat**.~~
+8. ~~**Els «privilegis especials d'Andorra»** que potser prohibien als Veguers
+   arrendar l'ofici. **La font ho diu en condicional i no els cita.** —
+   **`parcial` el 22-09-2026**: el *Politar*, p. 180, ja dona la regla operativa
+   —**els Veguers no poden arrendar el càrrec, sota pena de nul·litat i
+   vacació**—; queda obert **quin privilegi concret** és el fonament que la
+   font de Brutails formula només com a possibilitat.~~
+9. ~~**Les Corts de 1444**, amb un *gerent de la Vigueria* i un lloctinent. **El
+   corpus no té aquest càrrec en cap altra font.** — **`parcial` el 22-09-2026**:
+   la fitxa ja conserva la dada de Brutails —**a les Corts els dos Veguers són
+   reemplaçats, l'un per un gerent de la Vigueria i l'altre per un lloctinent**—
+   i el context que ho presenta com una organització ordinària; **no s'ha llegit
+   encara l'acta de les Corts ni hi ha una segona font per al títol de gerent**.~~
 10. ~~**El *Politar*, p. 173.**~~ — **`resolt` el 18-09-2026, i la recepció és un
     acte d'examen, no de cortesia.** **Els Veguers «deuhen ser rebuts per lo
     Concell General de les Valls»**, que **el síndic convoca «a requisicio,
