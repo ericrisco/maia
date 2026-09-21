@@ -236,9 +236,10 @@ els que superen aquest termini.`
 
 - ~~**El detall de les onze línies d'autobús**~~ — **`parcial` el 21-09-2026**:
   el llibre enumera **nou línies, L1–L9**, dins la concessió **2019–2034**; el
-  cànon inicial només cobria **L2, L4, L5 i L6**. **Resta pendent identificar
-  l'empresa prestadora i la data d'entrada de cada línia**, i aclarir per què la
-  pregunta parlava d'onze.
+  cànon inicial només cobria **L2, L4, L5 i L6**. La fitxa del transport
+  identifica les operadores actuals: **Coopalsa** gestiona el **71,4%** de les
+  validacions i **Nadal** el **28,6%**; encara falta la data d'entrada de cada
+  línia i aclarir per què la pregunta parlava d'onze.
 - ~~**Per què el 2002 es tria la concessió per als residus i el 2022 es desfà**~~
   — **`parcial` el 20-09-2026**: la **Llei del 31 d'octubre de 2002** va
   establir el règim de concessió i el contracte es va signar el **6 de febrer
