@@ -339,8 +339,13 @@ dos textos, dos anys, dos editors.**
   `El que no hi ha, i és el que aquesta fitxa necessitaria, és la taula creuada
   de sistema per nacionalitat: l'A024 dona les dues distribucions per separat.`
 - ~~**La conferència de Josep Areny del 2007**.~~ — **`parcial` el 21-09-2026**: la fitxa conserva les tres xifres de matrícula que el llibre n'atribueix i identifica el postgrau en Ciències de l'educació com la font, però no en té ni el lloc ni la paginació.
-- **Si «S.E. Espanyol» del 2007 inclou les congregacionals i la privada.** Sense
-  això, la sèrie espanyola 1999-2000 → 2007 no es pot tancar.
+- ~~**Si «S.E. Espanyol» del 2007 inclou les congregacionals i la privada.**~~ —
+  **`parcial` el 21-09-2026**: el gràfic del 2007 dona **3.484 alumnes** al
+  sistema espanyol, però no explica si la categoria inclou les escoles
+  congregacionals i la privada. Per al 1999-2000, la taula permet reconstruir
+  el contrast: **1.594 escoles espanyoles públiques + 1.939 congregacionals +
+  45 de privada = 3.578**; l'assignació interna del total del 2007 continua
+  sense font.
 - ~~**El text de la nota informe de l'andorranització del 1972**, sencer i amb
   signatura.~~ — **`parcial` el 19-09-2026**: aquesta fitxa n'aporta **un
   paràgraf citat de segona mà** i [l'andorranització](./landorranitzacio.md)
@@ -408,9 +413,12 @@ dos textos, dos anys, dos editors.**
   superiors, situa els universitaris en **50,32 % a Espanya, 31,87 % a França,
   15,24 % a Andorra i 2,58 % en altres països**. Encara no hi ha la taula
   creuada per nacionalitat que demanava aquest buit.
-- **Bastida i Areny, «Els tres sistemes educatius a Andorra», dins *Estudi sobre
-  la joventut al Principat d'Andorra*, Càritas Andorrana, 2001**, sense llegir.
-  **És un segon text de l'autora que el corpus ja cita per una altra peça.**
+- ~~**Bastida i Areny, «Els tres sistemes educatius a Andorra», dins *Estudi
+  sobre la joventut al Principat d'Andorra*, Càritas Andorrana, 2001**, sense
+  llegir.~~ — **`parcial` el 21-09-2026**: el corpus en conserva la referència
+  bibliogràfica i ja n'ha utilitzat l'annex escolar del curs 1999-2000 i les
+  xifres per centre; encara no ha llegit el text complet ni pot extreure'n els
+  arguments educatius que no siguin aquesta taula.
 
 ## Related
 
