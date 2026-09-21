@@ -284,9 +284,16 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
    de la nacionalitat del 5 d'octubre de 1995** com el gir jurídic posterior.
    **Encara falta identificar el primer cens concret que aplica el nou recompte**;
    sense aquesta peça, cap sèrie del pes dels andorrans no és homogènia.
-2. **La divergència de data del canvi legislatiu de nacionalitat**: **1993**
+2. ~~**La divergència de data del canvi legislatiu de nacionalitat**: **1993**
    segons la font que el corpus tenia, **1995** segons aquesta. **Cap dels dos
-   textos no és al corpus.**
+   textos no és al corpus.**~~ — **`parcial` el 2026-09-22**: el corpus ja té
+   els dos instruments. La **Llei qualificada de la nacionalitat aprovada els
+   dies 2 i 3 de setembre de 1993** recull la proposta de modificació del Codi
+   de 1977 i la modificació de 1985; la **Llei qualificada aprovada el 5
+   d'octubre de 1995** és un text nou amb règim de nacionalitat d'origen,
+   adquisició i pèrdua ([text de 1993](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1993.txt); [text de 1995](../../../raw/lleis/bopa/llei-qualificada-nacionalitat-1995.txt)).
+   **La font no permet saber quin d'aquests dos canvis tenia en ment quan dona
+   una sola data; la divergència queda registrada, no arbitrada.**
 3. **El text dels convenis del 2003** amb Espanya i França, i **l'instrument que
    el 2008 l'estén als portuguesos.** **El buit segueix obert i ara té data i
    contingut**: **el que falta és el text.** **I la divergència 2007/2008 queda
