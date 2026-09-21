@@ -348,9 +348,14 @@ i 1859, V, 89.)*
    no enumera.
 3. **L'afer de la multa de 20 pessetes amb 51,50 de despeses**: **data,
    jurisdicció i delicte.**
-4. **La sentència de 1896 amb la rúbrica «*Indemnisacio de lo robat*»** de 100 a
-   200 pessetes, **i si la indemnització a la víctima sempre s'inscrivia entre
-   les costes.**
+4. ~~**La sentència de 1896 amb la rúbrica «*Indemnisacio de lo robat*»** de 100
+   a 200 pessetes, **i si la indemnització a la víctima sempre s'inscrivia entre
+   les costes.**~~ — **`parcial` el 2026-09-22**: la mateixa fitxa ja documenta
+   que la taxa de despeses derivada d'una sentència de **1896** inclou **100–200
+   pessetes** sota la rúbrica «*Indemnisacio de lo robat*», i que la
+   indemnització a la víctima hi apareix com a **despesa del procés**. **El
+   corpus no té altres sentències que permetin afirmar que aquesta inscripció
+   fos sempre la regla.**
 5. **El decret del Consell General del 1r d'abril de 1890** sobre l'embargament
    per quantitat fixada, **sencer**, **i si és de la mateixa sessió que el que
    anul·la l'edicte no signat a Andorra.** **Prioritari.**
