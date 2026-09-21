@@ -215,16 +215,16 @@ jurament davant del Consell perquè les seves sentències siguin vàlides.**
    aplica, i el corpus continua sense una sentència episcopal comparable.** La
    dita de 1918 sobre dret català a Perpinyà i dret romà al bisbat continua
    **sense prova directa** ([el dret supletori](./el-dret-supletori.md)).
-2. **Qui formulava el 1918 la demanda d'un tribunal suprem únic**, **i on
-   consta.** **Nou i prioritari.**
-3. **La norma que fa aplicable el Codi penal espanyol a Andorra**, **i la seva
-   data.** **Nou i prioritari**: **el corpus no en tenia notícia.**
+2. ~~**Qui formulava el 1918 la demanda d'un tribunal suprem únic**, **i on
+   consta.** **Nou i prioritari.**~~ — **`parcial` el 21-09-2026**: la font comprova que hi havia una aspiració a un únic tribunal suprem format pels **dos veguers i el jutge d'apel·lacions**, per superar la disparitat de jurisprudència; no identifica qui la va formular ni en quin document consta.
+3. ~~**La norma que fa aplicable el Codi penal espanyol a Andorra**, **i la seva
+   data.** **Nou i prioritari**: **el corpus no en tenia notícia.**~~ — **`parcial` el 21-09-2026**: la font afirma que el **1918** ja s'aplicava el Codi penal espanyol, al costat de pràctiques indígenes, privilegis i decrets dels veguers; el corpus no té encara la norma que ho va disposar ni la data d'entrada.
 4. **Sentències episcopals de darrera instància.** **El corpus no en té cap.**
    **Segueix obert.**
-5. **Quan es deixa d'aplicar la pena d'exposició a la porta de l'església.**
-6. **Si hi va haver cap assassinat a Andorra entre el 1878 i el 1918.** **La font
-   ho diu «según me informan».**
-7. **El sou del batlle francès**: **des de quan són 1.200 francs i qui els paga.**
+5. ~~**Quan es deixa d'aplicar la pena d'exposició a la porta de l'església.**~~ — **`parcial` el 21-09-2026**: una font de **1918** encara descriu, per al furt de poc valor, exposar el condemnat a la porta de l'església durant tres festes amb els objectes furtats al costat; el corpus no té la data en què aquesta pena deixa d'aplicar-se.
+6. ~~**Si hi va haver cap assassinat a Andorra entre el 1878 i el 1918.** **La font
+   ho diu «según me informan».**~~ — **`parcial` el 21-09-2026**: la font afirma, per informació rebuda, que feia uns quaranta anys de l'últim assassinat, és a dir, cap al **1878**; el corpus no té una sèrie criminal ni una font independent que ho comprovi.
+7. ~~**El sou del batlle francès**: **des de quan són 1.200 francs i qui els paga.**~~ — **`parcial` el 21-09-2026**: la font fixa **1.200 francs** per al batlle nomenat per França i cap remuneració per al batlle episcopal, i també diu que el nomenament dura tres anys; no documenta des de quan regeix la xifra ni qui paga formalment el sou francès.
 
 ## Related
 
