@@ -103,8 +103,10 @@ criteris, i surten citats:
 comerç petit: és per al comerç petit que ja hi era**. Qui obri avui —i n'obren
 vint-i-tres en una sola sessió— **no hi entra**.
 
-**El corpus no té el text de l'Ordinació ni el seu annex 1**, que és on es
-decideix de debò qui cobra. **Buit registrat, prioritari.**
+~~**El corpus no té el text de l'Ordinació ni el seu annex 1**, que és on es
+decideix de debò qui cobra. **Buit registrat, prioritari.**~~ — **`resolt` el
+17-09-2026**: l'ordinació i l'annex 1 són al BOPA 34/2025 i la còpia local
+permet llegir les condicions de la bonificació i les causes de denegació.
 
 ## Quinze mil euros que canvien de partida
 
