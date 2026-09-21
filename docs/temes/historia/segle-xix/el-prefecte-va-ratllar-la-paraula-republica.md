@@ -202,28 +202,52 @@ l'un en treu què queda a baix, l'altre què deixa de tenir el de dalt.**
 
 ## Buits registrats
 
-1. **La carta del director de Correus dels Pirineus Orientals**, de **novembre de
+1. ~~**La carta del director de Correus dels Pirineus Orientals**, de **novembre de
    1892**. **El dia queda il·legible a l'extracció.** **I no consta si el quadre
-   es va arribar a penjar.**
-2. **La instrucció del ministeri d'Afers Estrangers** que fixava **«Vallées
+   es va arribar a penjar.**~~ — **`parcial` el 22-09-2026**: la fitxa conserva
+   el text de la carta i en pot llegir **«Perpignan, le 1[0] novembre 1892»**;
+   queda pendent la verificació de l'original i no hi ha prova que el cartell es
+   pengés a les parròquies.
+2. ~~**La instrucció del ministeri d'Afers Estrangers** que fixava **«Vallées
    d'Andorre»** com a única designació reconeguda. **Citada de segona mà per un
-   director de correus.** **Prioritari**: **és la norma que hi ha al darrere.**
-3. **Des de quan i fins quan va regir aquella designació**, i **quan França va
-   passar a dir-ne una altra cosa.**
-4. **El tractat de Corbeil de 1258.** **Tercera vegada que surt citat en aquesta
-   sèrie i el corpus no el té.** **Prioritari.**
-5. **Els senyors de Caboet i el seu vassallatge al bisbe d'Urgell**: **la font ho
-   dona com a premissa d'una objecció i no ho documenta.**
-6. **Quins «escriptors» sostenen el sistema d'igualtat** que Vilar rebat. **No els
-   nomena en aquest passatge.**
-7. **Si el govern francès va formular mai per escrit la posició que Vilar li
+   director de correus.** **Prioritari**: **és la norma que hi ha al darrere.**~~
+   — **`parcial` el 22-09-2026**: la carta del director reprodueix que el
+   ministeri **«ne reconnaît que la désignation de Vallées d'Andorre»**, però
+   no tenim la instrucció ministerial ni en sabem la data, l'abast o la forma.
+3. ~~**Des de quan i fins quan va regir aquella designació**, i **quan França va
+   passar a dir-ne una altra cosa.**~~ — **`parcial` el 22-09-2026**: el corpus
+   pot situar l'aplicació administrativa com a mínim el **1892**; la fitxa no
+   permet establir ni l'inici de la instrucció ni quan va deixar de regir.
+4. ~~**El tractat de Corbeil de 1258.** **Tercera vegada que surt citat en aquesta
+   sèrie i el corpus no el té.** **Prioritari.**~~ — **`parcial` el 22-09-2026**:
+   Vilar el cita com a objecció i en fixa l'efecte que atribueix —la cessió de
+   drets de suzerania sobre l'Urgell—, però **el tractat no forma part del
+   corpus** i la dada no s'ha contrastat amb la peça.
+5. ~~**Els senyors de Caboet i el seu vassallatge al bisbe d'Urgell**: **la font ho
+   dona com a premissa d'una objecció i no ho documenta.**~~ — **`parcial` el
+   22-09-2026**: la fitxa conserva la premissa i la conseqüència que Vilar en
+   dedueix —l'anul·lació dels títols francès i episcopal—, però **no té la font
+   del vassallatge** ni pot verificar-la.
+6. ~~**Quins «escriptors» sostenen el sistema d'igualtat** que Vilar rebat. **No els
+   nomena en aquest passatge.**~~ — **`parcial` el 22-09-2026**: el passatge
+   queda registrat com una objecció col·lectiva a la tesi de Vilar, però **no
+   dona cap nom** i el corpus no pot atribuir-la a cap escriptor concret.
+7. ~~**Si el govern francès va formular mai per escrit la posició que Vilar li
    atribueix** —mantenir-se al mateix rang que el bisbe. **El corpus té la carta
    del contrôleur général de 1745**, que diu **«en paréage»**, i **no res del segle
-   XIX.**
-8. **La reialesa d'Yvetot**, que Vilar fa servir de terme de comparació. **El
-   corpus no en sap res.**
-9. **Si la lectura de competències residuals** —tot el que no és enumerat és del
-   govern local— **la sostenia algú més**, o **és seva.**
+   XIX.**~~ — **`parcial` el 22-09-2026**: la carta de **1745** confirma la
+   fórmula «en paréage», coherent amb la igualtat, però **no documenta una
+   formulació francesa del segle XIX** ni prova que sigui la posició que Vilar
+   atribueix al govern.
+8. ~~**La reialesa d'Yvetot**, que Vilar fa servir de terme de comparació. **El
+   corpus no en sap res.**~~ — **`parcial` el 22-09-2026**: queda establert que
+   Yvetot és només **el terme de comparació** que Vilar usa per oposar alou i
+   feu; **la reialesa mateixa continua sense font al corpus**.
+9. ~~**Si la lectura de competències residuals** —tot el que no és enumerat és del
+   govern local— **la sostenia algú més**, o **és seva.**~~ — **`parcial` el
+   22-09-2026**: la fitxa la registra com **la lectura de Vilar del Pariatge** i
+   la contrasta amb la lectura simètrica de Ríos Urruti; **no identifica cap
+   precedent anterior ni permet dir que fos una doctrina compartida**.
 
 ## Related
 
