@@ -385,8 +385,8 @@ català** *(p. 125)*:
    la llista de concessions atorgades pel Consell abans del 1918.**
 7. **Si algú va respondre a aquest llibre des de França**, i **si va tenir cap
    efecte sobre la qüestió de les concessions.** **El corpus no en té notícia.**
-8. **Què va passar entre 1920 i 1929** amb la potestat de concedir. **El corpus
-   té el llibre i té la concessió de FHASA, i no té res entremig.**
+8. ~~**Què va passar entre 1920 i 1929** amb la potestat de concedir. **El corpus
+   té el llibre i té la concessió de FHASA, i no té res entremig.**~~ — **`parcial` el 21-09-2026**: la fitxa documenta que el 1918-1920 es reclamava que França no negués a Andorra la potestat de concedir aigües, i que el **27 de març de 1929** es va atorgar la concessió hidroelèctrica de FHASA; el corpus no té encara els actes intermedis que expliquin com es va passar d'una posició a l'altra.
 
 ## Related
 
