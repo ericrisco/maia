@@ -169,7 +169,7 @@ cadascun dels tres moments. Creuar amb
    datats d'una sola casa de Sispony, del 1600 al 1959, amb l'origen de cada
    consort** — i quatre dels dotze vénen de fora d'Andorra, tres de l'Alt Urgell
    i la Cerdanya. **Un cas, no una sèrie**, però és el primer que el corpus té.
-7. **Els rituals de veïnatge.**
+7. ~~**Els rituals de veïnatge.**~~ — **`parcial` el 21-09-2026**: la mateixa font concreta que els veïns intervenien en els tres moments essencials —**naixement, casament i mort**— i que calia la seva col·laboració; el corpus encara no té la seqüència exacta d’actes o obligacions de cada ritual.
 
 ## Related
 
