@@ -139,8 +139,8 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
    1941** es limita a llegir **quins membres formen «definitivament» el Consell
    General**, sense dir d'on surten ni per quina regla.
    `Requereix el decret dels delegats permanents del 1941.`
-2. **Qui eren els delegats permanents** d'aquells anys.
-3. **En què va consistir «la pressió de part de la població»** del 1947.
+2. ~~**Qui eren els delegats permanents** d'aquells anys.~~ — **`parcial` el 21-09-2026**: la fitxa identifica la funció i situa l'aparició dels delegats del bisbe el 1881 i del copríncep francès el 1882, però el corpus no té els noms dels delegats que van intervenir el 1941.
+3. ~~**En què va consistir «la pressió de part de la població»** del 1947.~~ — **`parcial` el 21-09-2026**: l'acta del 23 d'agost de 1947 documenta que els veguers, delegats pels coprínceps, van llegir el decret de restabliment i van convocar eleccions, però cap font del corpus descriu quina pressió concreta va precedir la decisió.
 4. ~~**Si el 1945 de Duró correspon a algun fet real** —una llei electoral
    intermèdia?— o és un error de memòria.~~ **`parcial` el 19-09-2026**: les
    actes del Consell no tenen cap decisió electoral del 1945 que hi correspongui;
