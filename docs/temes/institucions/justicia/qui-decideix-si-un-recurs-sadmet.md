@@ -291,14 +291,20 @@ institucions «l'air de former un véritable musée rétrospectif».**
    l'afer, sinó que delega el batlle francès perquè verifiqui un pagament**, de
    manera que **«*l'affaire est immédiatement et définitivement close*» no és
    sempre literal.** **També hi consta Izarn com a jutge i no com a suplent.**
-4. **Res no resol la contradicció d'aquesta fitxa.** **Caldria una sentència en
-   què el Tribunal examinés o refusés d'examinar l'admissibilitat.** **El corpus
-   no en té cap.**
+4. ~~**Res no resol la contradicció d'aquesta fitxa.**~~ — **`parcial` el 2026-09-22**:
+   la fitxa ja fixa els dos testimonis sobre el mateix circuit
+   —**Vilar** el considera definitiu i **Brutails** provisional i contrari a les
+   regles— i registra la hipòtesi que poden descriure la lletra del decret i la
+   pràctica que es volia reformar. **Encara falta una sentència que mostri si el
+   Tribunal va examinar o refusar l'admissibilitat; el corpus no en conserva cap.**
 5. ~~**Quantes vegades es va reunir el tribunal.**~~ — **`parcial` el
    19-09-2026**: la font ho qualifica d’**«assez rares»**, però no dona cap
    recompte ni sèrie històrica.
-6. **Com eren de fet les sentències bilingües**: **si el català era traducció o
-   original, i qui les redactava.** **Prioritari també per a l'àmbit de llengua.**
+6. ~~**Com eren de fet les sentències bilingües**: **si el català era traducció o
+   original, i qui les redactava.**~~ — **`parcial` el 2026-09-22**: el corpus ja
+   conserva que les sentències es redactaven **en francès i en català**, dins una
+   audiència solemne al Palau de Justícia de Perpinyà. **No identifica quina
+   versió era l'original ni quin redactor feia cada llengua.**
 7. **En quina de les cinc places seia Brutails.** **La font llista els noms i no
    els atribueix cap article.**
 8. **El tribunal eclesiàstic del bisbat d'Urgell** com a tercera instància de la
