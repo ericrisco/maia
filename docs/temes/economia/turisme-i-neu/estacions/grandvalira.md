@@ -114,7 +114,7 @@ Andorra.**
   el desembre del 2025 contra 42.127 el maig del 2024**, una diferència de
   **7.282**—, però **no desglossa Grandvalira ni identifica quants són
   temporers**. La plantilla pròpia de l'estació continua oberta.
-- **Quant factura.**
+- ~~**Quant factura.**~~ — **`parcial` el 21-09-2026**: els resultats d'[Ensisa](../../../../raw/web/economia/turisme/grandvalira/README.md) situen els **ingressos d'explotació en 54,3 milions d'euros** a la temporada 2022–2023 (44,9 milions l'any anterior), mentre el balanç 2024–2025 registra **1,7 milions de dies d'esquí venuts** a Grandvalira. La xifra publicada és d'Ensisa i no del conjunt societari de Grandvalira Resorts, i encara falta una sèrie comparable del domini complet.
 - ~~**Si Francesc Viladomat té relació amb l'escultor
   [Josep Viladomat](../../../cultura/arts-visuals/josep-viladomat.md)**, que
   feia obra pública andorrana als mateixos anys.~~ — **`resolt` el 19-09-2026**:
