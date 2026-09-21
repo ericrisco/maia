@@ -231,9 +231,17 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    ([ni amb els seus peus ni amb els peus d'altri](../../institucions/justicia/ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md)).
    **I no consta si són el mateix manuscrit.** `La datació segueix oberta; el
    text, no.`
-3. **El volum d'Anton Picart**: on és.
-4. **Si les còpies de 1879 són encara a París**, i què n'ha estat de la
-   Bibliothèque du Comité de législation comparée.
+3. ~~**El volum d'Anton Picart**: on és.~~ — **`parcial` el 21-09-2026**:
+   Brutails identifica **Anton Picart** com a **antic batlle francès** i un dels
+   *sabis* més considerats d'Andorra, i diu que va posar per escrit records
+   sobre la història, l'organització i el procediment de les Valls. **El volum
+   no s'ha localitzat ni el corpus en pot donar una signatura.**
+4. ~~**Si les còpies de 1879 són encara a París**, i què n'ha estat de la
+   Bibliothèque du Comité de législation comparée.~~ — **`parcial` el
+   21-09-2026**: el corpus pot afirmar que **Bonaventura Moles va enviar el 1879
+   còpies autèntiques del *Manual Digest* i del *Politar* a la biblioteca del
+   Comitè**, i que Vilar encara la cita per a les seves transcripcions el 1904;
+   **no ha comprovat que el dipòsit o les còpies sobrevisquin avui.**
 5. ~~**Qui eren Palmitjavila, de Riba i Bonaventura Moles.**~~ — **`parcial` el
    19-09-2026**: **de Riba** era el veguer episcopal i una font espanyola del
    1918 diu que conservava l'original del *Manual Digest* ([cap de casa, però
