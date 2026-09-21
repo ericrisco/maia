@@ -175,9 +175,10 @@ de pujar els ramats a la muntanya**, i pràcticament totes les ordinacions van d
    vistes de Sancogesma» vol dir la trobada de Sancogesma**, **el mot antic i
    general per a una reunió convinguda entre parts**. **Que el Consell hi
    legislés no és al mot: és al que s'hi feia.**
-5. **L'arbitratge de 1289** i el **requeriment de 1390** — ~~documents reals, no
-   consultats~~ — **`resolt` el 17-09-2026 quant al requeriment, i amb una
-   correcció quant a l'arbitratge.**
+5. ~~**L'arbitratge de 1289** i el **requeriment de 1390** — documents reals, no
+   consultats.~~ — **`parcial` el 17-09-2026**: el requeriment ja té el text
+   sencer i la data corregida; el document de l'arbitratge de Roger Bernat III
+   encara no s'ha localitzat.
 
    **El requeriment del 1390 és del 23 de febrer** *(ANA, ASC, núm. 5.431, i
    còpia al Llibre de la Terra, doc. 18)*, i el corpus ara en té **el text

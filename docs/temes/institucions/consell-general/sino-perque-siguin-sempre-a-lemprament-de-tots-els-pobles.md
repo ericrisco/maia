@@ -304,12 +304,11 @@ català** *(p. 125)*:
    que diu Ríos ni el que diu Brutails**: Brutails titula el seu article
    ***loi Stratae***. **Tres formes del mateix nom en tres llocs**, i **només una
    —*Strate*— és la paraula amb què l'usatge comença.**
-4. **Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260;
-   ~~**Balari**, pp. 319-320~~; ~~**Costa**, *Colectivismo agrario*, pp. 257 i
-   seg.~~; **Du Cange**, entrades *Bosiga* i *Scalia* —**la primera resolta per
-   Balari, la segona oberta**—. **Costa i Balari `resolts` el 17-09-2026**
-   ([fitxa](../../../fonts/costa-colectivismo-1898.md)); **els altres tres
-   segueixen oberts.**
+4. ~~**Vives**, *Usajes y demás derechos en Cataluña*, I, p. 260; **Balari**,
+   pp. 319-320; **Costa**, *Colectivismo agrario*, pp. 257 i seg.; **Du Cange**,
+   entrades *Bosiga* i *Scalia*.~~ — **`parcial` el 17-09-2026**: [la fitxa de
+   Costa](../../../fonts/costa-colectivismo-1898.md) i Balari ja resolen dues
+   referències; Vives i les entrades de Du Cange continuen oberts.
 
    **El primer que Costa aporta és un no**: **no esmenta Andorra ni una sola
    vegada** en tota l'obra. **El corpus el tenia registrat com una font

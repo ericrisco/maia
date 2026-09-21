@@ -319,16 +319,16 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 
 ## Buits registrats
 
-1. **Els documents de 843, 860, 1001, ~~1133~~, 1170, 1186, 1213, 1266, 1280,
-   1303 i 1328.** ~~Cap no s'ha vist.~~ — **El de 1133 s'ha llegit sencer el
-   15-09-2026** ([per aquests malfets i per la redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md)).
-   **En queden deu** de la llista principal. **També queden resolts els dos
-   documents que abans es presentaven com a lectura immediata**: la concòrdia del
-   **8 de gener de 1176** i el **Pariatge**, llegits als apèndixs B i C de [Ríos Urruti
-   (1920)](../../../fonts/rios-urruti-andorra-1920.md) i contrastats amb el text del Pariatge que el corpus ja tenia.
-   **Continua oberta la localització dels deu documents restants**; el volum de
-   Valls i Taberner (1920) i *El llibre de la terra* (1997) són portes
-   bibliogràfiques, no transcripcions incorporades al corpus.
+1. ~~**Els documents de 843, 860, 1001, 1133, 1170, 1186, 1213, 1266, 1280,
+   1303 i 1328.** **Cap no s'havia vist.**~~ — **`parcial` el 21-09-2026**: el
+   de **1133** s'ha llegit sencer el **15-09-2026** ([per aquests malfets i per la
+   redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md));
+   també s'han resolt la concòrdia del **8 de gener de 1176** i el **Pariatge**,
+   llegits als apèndixs B i C de [Ríos Urruti (1920)](../../../fonts/rios-urruti-andorra-1920.md)
+   i contrastats amb el text del Pariatge que el corpus ja tenia. **Continua
+   oberta la localització dels deu documents restants**; Valls i Taberner (1920)
+   i *El llibre de la terra* (1997) són portes bibliogràfiques, no transcripcions
+   incorporades al corpus.
 2. **Les tres contradiccions** de dalt.
 3. ~~**L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.~~ — **`parcial` el 21-09-2026**: la fitxa identifica el fons com la via documental dels cartularis i registres, però **encara no se n’ha consultat cap unitat**.
 4. ~~El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
