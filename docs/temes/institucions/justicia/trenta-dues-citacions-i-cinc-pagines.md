@@ -219,15 +219,19 @@ mateix**.
    llibre**, **però ara està especificat**: **falten els nou primers paràgrafs,
    tota la matèria criminal i l'aranzel.** **Prioritari.**
    `Requereix localitzar el fons Palmitjavila.`
-2. **El *terminus ante quem*.** **El corpus el data **posterior al febrer de
-   1607** i no té cap límit superior.**
+2. ~~**El *terminus ante quem*.**~~ — **`parcial` el 2026-09-21**: la referència
+   de Brutails al règim notarial de la carta de **febrer de 1607** permet fixar
+   que el manuscrit és **posterior a aquella data**; **el corpus encara no té
+   cap límit superior de datació.**
 3. **Si «*Un* manuscrit… del segle XVI» i «*le* manuscrit… del segle XVII» són
    dos textos diferents.** **La font els tracta gramaticalment com a coses
    distintes i no ho diu enlloc.**
-4. **La carta de febrer de 1607** sobre el nomenament del notari de la Cort
+4. ~~**La carta de febrer de 1607** sobre el nomenament del notari de la Cort
    —**llista de dos noms del Consell General, tria alternativa dels Cosenyors**—,
-   **que el corpus té per aquesta sola menció.** **Prioritari**: **és el que
-   data el manuscrit.**
+   **que el corpus té per aquesta sola menció.**~~ — **`parcial` el 2026-09-21**:
+   Brutails en conserva el contingut essencial —**el Consell sotmet dos noms i
+   els Cosenyors trien alternativament**— i el fa servir per datar el manuscrit;
+   **l'original de la carta continua fora del corpus.**
 5. **Si el fons Palmitjavila es conserva i on.** **Prioritari**: **el corpus té
    tres documents identificats i cap localització.**
 6. **La norma que permet al Jutge d'Apel·lacions «*provehir… en lo lloch de sa
