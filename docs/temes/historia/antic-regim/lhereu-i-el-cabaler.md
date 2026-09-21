@@ -302,7 +302,7 @@ algú l'havia escrita.**
    [les tres migracions](../../societat/demografia/les-tres-migracions.md). I
    **amb prou feines tornaven**: qui havia marxat de debò «no gaudia de la
    possibilitat de disposar de tres mesos» per venir a ajudar.
-4. La **clàusula de viduïtat**: es complia? es litigava?
+4. ~~La **clàusula de viduïtat**: es complia? es litigava?~~ — **`parcial` el 2026-09-21**: la fitxa documenta que el cònjuge supervivent conservava l'usdefruit dels béns relictes **fins a la mort mentre es mantingués en viduïtat**, i que tornar-se a casar feia perdre aquest dret. No hi ha cap cas judicial o acte posterior que permeti saber si la condició es complia o es litigava.
 5. ~~**Quan cau** el sistema — l'autor diu que els capítols «han caigut clarament
    en desús», i no dona data.~~ — **`parcial` el 18-09-2026, i ara amb tres fites**.
    **La primera
