@@ -217,8 +217,13 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    `Haurien de ser al Bulletin des lois o al Journal officiel.`
 3. **Per què el 1882 es va crear el delegat permanent** i **per què dos anys
    després la delegació va passar del sotsprefecte de Prada al prefecte.**
-4. **Quan el veguer francès va passar de dependre d'Interior a dependre d'Afers
-   Estrangers.** **La font dona els dos estats i no la data del canvi.**
+4. ~~**Quan el veguer francès va passar de dependre d'Interior a dependre d'Afers
+   Estrangers.**~~ — **`parcial` el 2026-09-21**: el corpus ja situa la
+   dependència del veguer al **ministeri de l'Interior el 1806** i al d'**Afers
+   Estrangers el 1904**. Els decrets de **3 de juny de 1882** i **27 de febrer
+   de 1884** documenten el trasllat de la representació permanent a la
+   Prefectura dels Pirineus Orientals, però no fixen el moment del canvi
+   ministerial del veguer. **La data exacta continua oberta.**
 5. ~~**La fórmula exacta del jurament dels veguers** davant del Consell General.~~ —
    **`parcial` el 17-09-2026: la fórmula segueix sense aparèixer, i l'acte
    sencer sí.** **Quatre actes notarials del segle XV**, a les [actes
