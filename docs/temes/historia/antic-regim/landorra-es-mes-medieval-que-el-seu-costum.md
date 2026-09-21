@@ -247,18 +247,18 @@ la transhumància.**
    **el corpus no en té l'arrest.**
 3. ~~**El decret del Consell General de 1849** sobre els estrangers que volen
    adquirir «casa o altres *fincas*», **sencer**.~~ — **`parcial` el 24-09-2026**: Brutails el descriu a les **pp. 161 i 175** com una norma que exigia a l’estranger autorització prèvia del **comú** i del **Consell General** per adquirir immobles, i afegeix que les prescripcions havien caigut en desús el 1904. El text íntegre i l’acte original no són al corpus ([font](../../../fonts/brutails-coutume-1904.md)).
-4. **Què eren les *consignes*** exactament, i **què les distingia de les
-   *animeries* i de les *causes pies*.** La font les enumera i **no les defineix.**
+4. ~~**Què eren les *consignes*** exactament, i **què les distingia de les
+   *animeries* i de les *causes pies*.** La font les enumera i **no les defineix.**~~ — **`parcial` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja fixa que les **consignes** eren **fundacions pietoses administrades pel clergat**; les **animeries**, en canvi, eren fundacions d'ànimes administrades pels cònsols i consellers. El corpus usa **causes pies** com el terme general per als llegats, sufragis i obres pietoses, però no n'ha establert una taxonomia completa.
 5. ~~**Com s'anunciaven les *consignes* a l'església**, i **si mai se'n va exigir
    comptes.**~~ — **`parcial` el 20-09-2026**: la font diu que **les anuncia de
    tant en tant a l'església** i que són administrades **«fora de tot control»**;
    queda documentat el canal d'anunci i l'absència de control que descriu
    l'autor, però no si mai hi hagué una rendició de comptes formal.
 6. ~~**La proporció entre propietat privada i col·lectiva.**~~ — **`parcial` el 21-09-2026**: la font explica que no la podia calcular perquè no hi havia cadastre ni impost immobiliari, però el corpus tampoc té un cadastre contemporani que permeti substituir aquella absència.
-7. **Quan i per què els *comuns* van deixar de ser «els banquers de les Valls»**,
-   i **què va passar amb els boscos.**
-8. **Si el bestiar s'assimilava als mobles a tots els efectes** o **només a les
-   vendes judicials.**
+7. ~~**Quan i per què els *comuns* van deixar de ser «els banquers de les Valls»**,
+   i **què va passar amb els boscos.**~~ — **`parcial` el 21-09-2026**: la font explica que la mà morta laica va conservar els **pasturatges**, però **no va saber estalviar els boscos**, i que la riquesa dels comuns va disminuir fins a deixar de fer de «banquers de les Valls». El corpus encara no té una data de canvi ni una sèrie que permeti explicar-ne el procés.
+8. ~~**Si el bestiar s'assimilava als mobles a tots els efectes** o **només a les
+   vendes judicials.**~~ — **`parcial` el 21-09-2026**: el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) i la mateixa fitxa documenten l'assimilació **en les vendes judicials**, on mobles i immobles reben tractament diferent. No hi ha al corpus una regla general que permeti estendre aquesta assimilació a tots els efectes.
 9. ~~**La data del decret dels perits de finques rústiques: 1876 o 1896.**~~ —
    **`parcial` el 2026-09-18**: **la font dona les dues dates** i el corpus
    registra la divergència, però **no la pot decidir des d'aquest llibre**.
