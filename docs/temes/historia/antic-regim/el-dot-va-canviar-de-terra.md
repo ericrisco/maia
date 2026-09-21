@@ -190,25 +190,33 @@ I els venedors **renuncien «a la lley que ajuda als engañats en mes de la mita
 
 ## Buits registrats
 
-1. **D'on van sortir les deu lliures que falten** entre les 90 del rescat d'Aldies
-   i les «passadas cent» de la Ribalta. **La diferència està registrada; l'origen,
-   no.**
+1. ~~**D'on van sortir les deu lliures que falten** entre les 90 del rescat d'Aldies
+   i les «passadas cent» de la Ribalta.~~ — **`parcial` el 2026-09-21**: la peça
+   confirma el rescat per **90 lliures**, la recuperació de la Ribalta per
+   «**passadas cent**» i que es va fer «**ab los mateixos diners**»; la diferència
+   queda registrada però l'escriptura no n'explica l'origen ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 2. ~~**Què era «com a tenint dret»** en la persona que va rescatar Aldies el 1787.~~ — **`parcial` el 21-09-2026**: l'escriptura documenta que la persona rescata Aldies i que actua amb un dret reconegut, però no permet distingir si era titular del dret de gràcia, hereva o creditora.
-3. **Si el dot es va arribar a executar mai** — **la meitat que queda oberta del
-   buit 4 de** [el dot](./el-dot.md). **Aquesta escriptura mostra com es
-   protegia, no com es cobrava.**
-4. **Quant era el dot.** **L'escriptura el dona per constituït i no en diu la
-   quantia**, de manera que **no es pot comparar amb les 170 lliures dels**
-   [capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md)
-   ni saber si les 51 ll. 9 s. venudes el posaven en perill.
-5. **Si el decret del batlle era exigible o de precaució.** **La fórmula «a major
-   abundament» admet les dues coses** i **la font no dona cap norma que ho
-   resolgui.**
-6. **Si la venedora va poder negar-se.** **L'acte certifica que va ser informada;
-   no diu res de què hauria passat si hagués dit que no.** `Requereix doctrina o
-   jurisprudència sobre el benefici Valleià a Andorra.`
-7. **Què hi feia un administrador de la tropa d'Urgell a la vila d'Andorra**
-   l'octubre de 1788. `Requereix documentació militar espanyola.`
+3. ~~**Si el dot es va arribar a executar mai** — **la meitat que queda oberta del
+   buit 4 de** [el dot](./el-dot.md).~~ — **`parcial` el 2026-09-21**: aquesta
+   escriptura documenta el mecanisme de protecció i **reallotjament** del dot
+   quan es rescata la finca hipotecada, però no una execució ni un cobrament
+   forçós ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+4. ~~**Quant era el dot.**~~ — **`parcial` el 2026-09-21**: l'escriptura el dona
+   per constituït i descriu la seva garantia sobre Aldies i després la Ribalta,
+   però no en diu la quantia i no permet comparar-la amb les **170 lliures** dels
+   capítols de 1788 ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+5. ~~**Si el decret del batlle era exigible o de precaució.**~~ — **`parcial` el
+   2026-09-21**: l'acte conserva el decret de Balthasar Perich i la fórmula **«a
+   major abundament»**, però aquesta expressió no permet decidir si l'autoritat
+   era obligatòria o cautelar ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+6. ~~**Si la venedora va poder negar-se.**~~ — **`parcial` el 2026-09-21**: el
+   notari deixa escrit que la muller fou informada dels seus drets abans de
+   renunciar al benefici Valleià i a l'*Autèntica*, però la peça no diu què hauria
+   passat si s'hi hagués oposat ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+7. ~~**Què hi feia un administrador de la tropa d'Urgell a la vila d'Andorra**
+   l'octubre de 1788.~~ — **`parcial` el 2026-09-21**: la peça l'identifica com a
+   testimoni i confirma que era a la vila el **19 d'octubre de 1788**, però no
+   explica la seva missió ni permet reconstruir la documentació militar ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 8. **Si la compradora va arribar a ser inquietada o el tros es va quitar.** **No hi
    ha cap acte posterior al corpus.**
 9. ~~**El sentit de `fadiga` com a tanteig en altres documents andorrans.**~~ —
