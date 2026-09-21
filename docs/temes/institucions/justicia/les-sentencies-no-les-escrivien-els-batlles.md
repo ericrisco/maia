@@ -198,10 +198,16 @@ una pràctica pròpia.**
    confirma que conserva el fons del Tribunal de Corts. **No s'ha comprovat que
    les sentències que Brutails va trobar en cases privades hi hagin ingressat ni
    on són avui.**
-3. **Si es va fer mai el registre de sentències dipositat a la Curia** que la font
-   proposa. `obert.`
-4. **Els judicis antics de la Curia**, a la Casa de la Vall: **quants eren i si
-   s'hi conserven.** `obert.`
+3. ~~**Si es va fer mai el registre de sentències dipositat a la Curia** que la font
+   proposa. `obert.`~~ — **`parcial` el 2026-09-21**: la font proposa el 1904 que
+   les sentències es copiïn en un registre sota responsabilitat de l'escrivà i
+   que es dipositi a la Curia. **No hi ha prova que aquell registre arribés a
+   crear-se.**
+4. ~~**Els judicis antics de la Curia**, a la Casa de la Vall: **quants eren i si
+   s'hi conserven.** `obert.`~~ — **`parcial` el 2026-09-21**: la fitxa documenta
+   que la campanya de **1887** va buidar de la Curia de la Casa de la Vall un
+   **nombre força considerable de judicis antics**. **No en dona el recompte ni
+   permet confirmar quins es conserven avui.**
 5. ~~**El formulari manuscrit de cap al 1768** del notari Palmitjavila, fet
    probablement a la Seu d'Urgell. `obert, datat i localitzat el 1904.`~~ —
    **`parcial`, actualitzat el 2026-09-19**: el manuscrit ja està datat i
