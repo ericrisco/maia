@@ -115,7 +115,12 @@ relació real entre les dues coses.
   **Servei d'Ordre**, la primera policia d'Andorra, es constitueix
   **el 15 de maig de 1931**, és a dir **enmig d'aquella tanda de vagues**
   ([la primera policia](./la-primera-policia.md)).
-- **Les reivindicacions concretes** i com es van resoldre.
+- ~~**Les reivindicacions concretes** i com es van resoldre.~~ — **`parcial` el
+  2026-09-21**: la fitxa identifica com a motiu les **condicions laborals,
+  especialment els salaris**, en un país sense aparell laboral ni arbitratge
+  públic, i documenta que els conflictes van contribuir a l'entrada de la
+  Gendarmeria; **no conserva la llista completa de demandes ni l'acord que va
+  tancar cadascuna de les vagues**.
 - ~~**Joan Vehils**, la font de tot això, i la seva obra.~~ — **`resolt` el
   18-09-2026**, llegint directament l'article de Lluelles
   (`docs/raw/web/historia/lluelles-impactes-fhasa-2020.txt`).
