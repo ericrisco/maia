@@ -310,22 +310,34 @@ d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
 
 ## Buits registrats
 
-1. **Les sentències que esperen trenta i quaranta anys sense pagar-se.**
-   **No consta **quantes**, ni **de quins anys**, ni si es va resoldre mai.**
-   **Prioritari**: **és una via de denegació de justícia que la font descriu i no
-   documenta.**
-2. **El decret del Consell General sobre el jornal dels declarants**, **del qual
-   l'autor diu que **ha omès d'anotar la data***. **Buit declarat per la font.**
-3. **La carta del Síndic al Ministre d'Afers Estrangers del 6 de febrer de 1840**
-   *(Arxius de l'Arieja, Andorre, lligall 2)*, **que l'autor només coneix per una
-   traducció que considera probablement infidel i que declara no entendre.**
-   **Prioritari**, **i és al lligall que el corpus ja té marcat.**
-4. **El decret del Consell General del 19 de maig de 1890** sobre el 10 % del
-   Jutge d'Apel·lacions, **i la declaració del mateix Jutge al Consell General
-   del 16 de març de 1891.**
-5. **El decret del Consell General del 8 d'abril de 1892** sobre les despeses
+1. ~~**Les sentències que esperen trenta i quaranta anys sense pagar-se.**~~ —
+   **`parcial` el 21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
+   confirma que hi ha sentències de la tercera sala d'Urgell que esperen així,
+   sense efecte, perquè no s'han consignat honoraris i despeses; **no en dona
+   nombre, anys ni desenllaç**.
+2. ~~**El decret del Consell General sobre el jornal dels declarants**, **del qual
+   l'autor diu que **ha omès d'anotar la data***.~~ — **`parcial` el 21-09-2026**:
+   Brutails conserva el contingut —**5 sous catalans per declarant i 10 sous si
+   presta jurament**— i declara expressament que **n'ha omès la data**; **el
+   decret sencer i la data continuen oberts**.
+3. ~~**La carta del Síndic al Ministre d'Afers Estrangers del 6 de febrer de 1840**
+   *(Arxius de l'Arieja, Andorre, lligall 2)*.~~ — **`parcial` el 21-09-2026**:
+   Brutails en conserva el resum —el Síndic retreu al Jutge d'Apel·lacions cobrar
+   més dels **27 pessetes i 15 sous** assignats per sentència— i adverteix que
+   només n'ha vist una traducció probablement infidel; **l'original del lligall 2
+   encara falta**.
+4. ~~**El decret del Consell General del 19 de maig de 1890** sobre el 10 % del
+   Jutge d'Apel·lacions, **i la declaració del mateix Jutge al Consell General del
+   16 de març de 1891.**~~ — **`parcial` el 21-09-2026**: la font identifica el
+   decret de 1890 i conserva la declaració de 1891: el jutge francès renunciava a
+   l'exigència del 5 % i fixava **15 francs**, dels quals **10 per al secretari i
+   5 per al nunci**; **els textos íntegres encara falten**.
+5. ~~**El decret del Consell General del 8 d'abril de 1892** sobre les despeses
    d'execució, **i el del 29 de maig de 1786** sobre el pagament dels jutges
-   absents.
+   absents.~~ — **`parcial` el 21-09-2026**: Brutails dona les despeses d'execució
+   —**15 pessetes en total** entre batlle, secretari i nunci— i transcriu la regla
+   de 1786: en les *visures* es paguen tots els jutges competents, excepte els
+   absents per recusació; **els dos decrets sencers encara falten**.
 6. ~~**El *Politar*, pp. 188 i 190**, **on es prohibeixen els drets alts i
    s'admet el principi proporcional.**~~ — **`resolt` el 18-09-2026, i el
    principi proporcional és el primer article de l'aranzel.**
