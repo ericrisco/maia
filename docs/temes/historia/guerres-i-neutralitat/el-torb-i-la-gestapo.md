@@ -189,7 +189,16 @@ Coco).
   guerra secreta del Pirineu* (Daniel Arasa)—, però el corpus encara no n'ha
   llegit el contingut.
 - **L'informe nord-americà** sobre el Banc Agrícol i el nazisme.
-- **Joaquim Jordà** com a guionista: **qui era i per què el van cridar.**
+- ~~**Joaquim Jordà** com a guionista: **qui era i per què el van cridar.**~~ —
+  **`parcial` el 21-09-2026**: l'**Enciclopèdia Catalana** identifica **Joaquim
+  Jordà i Català** (Santa Coloma de Farners, **1935**) com a **director i
+  guionista** ([captura local](../../../raw/web/historia/torb-jorda/enciclopedia-joaquim-jorda.html)).
+  El retrat de l'AELC sobre Jaume Fuster documenta que, una dotzena d'anys
+  després d'un projecte de 1988 que no es va fer, **TV3 i Televisió d'Andorra
+  van produir la minisèrie del 2000 amb guió de Jordà i realització de Lluís
+  Maria Güell**, sense relació amb aquell projecte anterior ([text local](../../../raw/web/historia/torb-jorda/retrat-jaume-fuster-aelc.txt)).
+  El corpus ja pot identificar el guionista i l'encàrrec, però cap font
+  consultada explica per què el van escollir.
 
 ## Related
 
