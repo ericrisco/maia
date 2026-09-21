@@ -216,25 +216,45 @@ D'aquí la instrucció de l'autor als jutges:
 
 ## Buits registrats
 
-1. **La sentència del plet de la *donacio propter nupcias***: **sense data ni
-   referència**, i **la font no diu si es va apel·lar**.
-2. **Qui era el notari que va ajudar a preparar-la** —**en tant que ofici**— i
-   **si la pràctica de consultar el notari autor de la clàusula era corrent**.
-3. **La deliberació del Consell General del 12 de desembre de 1844**, **en text
-   original**. **El corpus en té la transcripció francesa dins d'una carta de
-   1845.** `Requereix font externa: els llibres d'acords del Consell General, o
-   Archives départementales de l'Ariège.`
-4. **La carta del Jutge d'Apel·lacions del 16 de juny de 1845**, sencera, i **què
-   preguntava el prefecte.**
-5. **Fins quan va regir el principi de reversió a la casa d'origen**, i **si
-   figura en alguna norma escrita posterior.**
-6. **Si el creix es reduïa quan el dot es pagava a mitges.** **La font declara
-   expressament que no ho pot afirmar.**
-7. **El *Manual* de Carreu** *(1443)*, **on aquestes clàusules «són constants»**:
-   **quantes n'hi ha i si es conserva.** `Requereix font externa: el fons notarial
-   de l'Arxiu Nacional d'Andorra.`
-8. **La discordança de la font sobre la *coutume* de Bordeus** —**doblar el dot**
-   contra **un exemple de la meitat**. **El corpus la registra i no la resol.**
+1. ~~**La sentència del plet de la *donacio propter nupcias***.~~ — **`parcial` el
+   2026-09-21**: la font en dona el context, les parts, la doctrina del batlle i
+   la condemna a **280 lliures**, però no en conserva la data, la referència ni
+   l'eventual apel·lació ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+2. ~~**Qui era el notari que va ajudar a preparar-la** —**en tant que ofici**— i
+   **si la pràctica de consultar el notari autor de la clàusula era corrent**.~~ —
+   **`parcial` el 2026-09-21**: Brutails confirma que el batlle va preparar la
+   sentència amb **un dels notaris que inserien habitualment la clàusula de
+   donació**, però no en dona el nom ni una sèrie que permeti mesurar la pràctica
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+3. ~~**La deliberació del Consell General del 12 de desembre de 1844**, **en text
+   original**.~~ — **`parcial` el 2026-09-21**: la carta del Jutge d'Apel·lacions
+   del **16 de juny de 1845** en transcriu el contingut i el principi de reversió
+   «de temps immemorial», però no substitueix l'original dels llibres d'acords
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+4. ~~**La carta del Jutge d'Apel·lacions del 16 de juny de 1845**, sencera, i **què
+   preguntava el prefecte**.~~ — **`parcial` el 2026-09-21**: la font en conserva
+   la data i la transcripció de la deliberació que responia a una qüestió
+   successòria, però no la carta sencera ni la pregunta exacta del prefecte
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+5. ~~**Fins quan va regir el principi de reversió a la casa d'origen**, i **si
+   figura en alguna norma escrita posterior.**~~ — **`parcial` el 2026-09-21**:
+   el costum queda certificat per al **1844** i és aplicable quan els fills moren
+   adolescents, però no se'n pot fixar la vigència posterior ni una codificació
+   escrita ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+6. ~~**Si el creix es reduïa quan el dot es pagava a mitges.**~~ — **`parcial` el
+   2026-09-21**: la font diu expressament que **no ho pot afirmar** i nega que a
+   Andorra hi hagués una proporció constant; la qüestió no es resol amb els casos
+   disponibles ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+7. ~~**El *Manual* de Carreu** *(1443)*, **on aquestes clàusules «són constants»**:
+   **quantes n'hi ha i si es conserva.**~~ — **`parcial` el 2026-09-21**: Brutails
+   cita la fórmula de retorn del dot per terminis i afirma que aquestes clàusules
+   eren constants al manual, però no en dona el nombre ni la conservació actual
+   ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+8. ~~**La discordança de la font sobre la *coutume* de Bordeus** —**doblar el dot**
+   contra **un exemple de la meitat**.~~ — **`parcial` el 2026-09-21**: la mateixa
+   font posa en tensió la regla del doble amb l'exemple del **26 de juliol de
+   1512**, de 30 francs de dot i 15 de do, però el corpus no pot arbitrar la
+   contradicció ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 
 ## Related
 
