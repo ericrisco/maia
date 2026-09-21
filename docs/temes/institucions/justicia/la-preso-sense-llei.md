@@ -371,8 +371,12 @@ servir les deu files, que sumen el total imprès.`
    hi consta exactament. **Molt localitzables.**
 3. **La sentència de mort de 1942**: qui, per què, i **si es va executar**. El
    corpus **no ho sap** i la ponència **no ho diu**.
-4. **El garrot**: en quina exposició catalana és cedit, i on consta la sol·licitud
-   al copríncep episcopal.
+4. ~~**El garrot**: en quina exposició catalana és cedit, i on consta la sol·licitud
+   al copríncep episcopal.~~ — **`parcial` el 2026-09-21**: la ponència ja
+   conserva que **a mitjan segle XIX** es va demanar permís al **copríncep
+   episcopal** per adquirir-lo i que actualment és cedit en **una exposició a
+   Catalunya**; també diu que no hi ha constància que s’hagués fet servir.
+   **Encara no identifica l’exposició ni la peça documental del permís.**
 5. **Quants botxins hi va haver** i d'on venien.
 6. ~~**La presó actual**: on és i què hi ha passat des del 2007.~~ — **`parcial` el
    18-09-2026, i el «quants interns» queda tancat**: **l'API del Departament
