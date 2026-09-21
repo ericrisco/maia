@@ -289,7 +289,12 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
    no ho adverteix.` `no-es-buit`
 
    `De dècades anteriors al 2004 encara cal una altra font.`
-6. **Quines famílies** hoteleres continuen, i des de quin hostal comunal.
+6. ~~**Quines famílies** hoteleres continuen, i des de quin hostal comunal.~~ —
+   **`parcial` el 22-09-2026**: [els hostals comunals](./els-hostals-comunals.md)
+   confirma que Lacueva hi va trobar **noms de casa que encara existeixen** i
+   famílies que continuen al capdavant de negocis hotelers, després de passar
+   per la fonda i l'hostal arrendat pels avantpassats. **La font no enumera els
+   noms ni vincula cada família amb un hostal concret.**
 7. ~~**L'Hostal Valira**, on es va allotjar Skossyreff el 1934, «recentment
    inaugurat».~~ — **`parcial` el 20-09-2026**: la font sobre el [Centre d'Art
    d'Escaldes-Engordany](../../../fonts/wikipedia-ca-centre-art-escaldes-engordany.md)
