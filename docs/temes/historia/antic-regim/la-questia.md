@@ -308,8 +308,7 @@ avèria**; i **cent vint cavallons de blat com un metado**
    com a **adult solter** i en dona el plural *libets*; la fitxa en conserva la
    definició sense afirmar-ne l’etimologia.
 3. ~~**On es feia el recompte**.~~ — **`parcial` el 2026-09-21**: Vela declara que es desconeix el lloc exacte, però proposa tres contextos documentats com a hipòtesis de treball: **els punts de xoll i marcatge del juny**, **les fires del setembre** o **el recompte posterior a Pasqua** per al bestiar gros. El corpus encara no pot triar-ne cap com a lloc efectiu.
-4. **Quan deixa de cobrar-se** la quèstia i què la substitueix. **El que ja se
-   sap és que el 1904 encara es cobrava.**
+4. ~~**Quan deixa de cobrar-se** la quèstia i què la substitueix.~~ — **`resolt` el 21-09-2026** des de [la fitxa del Coprincipat](../../institucions/coprincipat/la-questia.md): l'última quèstia francesa es va lliurar a París el **26-11-1991**, l'última episcopal a la Seu d'Urgell el **12-11-1992**, i la **Constitució del 1993** en va fer desaparèixer el tribut. El que la substitueix és la dotació pressupostària conjunta als dos coprínceps prevista per l'**article 47**; la fitxa en documenta **707.499,60 €** al pressupost del 2026.
 4b. ~~**Quan es va eixamplar el *metadó de pa***, d'adults no casats a tothom que hagi combregat, i amb quina norma.~~ — **`parcial` el 2026-09-21**: Vela grava **adults no casats** al segle XV, mentre Brutails descriu el 1904 **tota persona andorrana que hagi fet la primera comunió i no sigui clergue**. La divergència acredita l'eixamplament, però el corpus no té el document intermedi ni la norma que el va ordenar.
 4c. ~~**Quants metadors hi havia**, que és el que faria calculable tota la
    recaptació.~~ — **`parcial` el 17-09-2026: no el nombre, però sí una liquidació
