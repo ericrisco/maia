@@ -64,7 +64,15 @@ xifres no arriba als quatre gols que la mateixa font li documenta amb data.**
   es contradiu: la biografia i la taula de rècords donen **3
   internacionalitats**, la llista d'internacionals en dona **6**, i la fitxa
   documenta **4 gols amb data**. El recompte real continua sense arbitrar.
-- **Què va passar entre Pardinyes i el retorn a l'ENFAF.**
+- ~~**Què va passar entre Pardinyes i el retorn a l'ENFAF.**~~ — **`parcial` el
+  21-09-2026**: la trajectòria publicada situa **Pardinyes (2014–2016)**,
+  **ENFAF (2017)**, **SE AEM (2017–2019)** i **ENFAF (des de 2019)**. La peça
+  manté, però, el **solapament de 2017** i no permet saber si va ser una
+  temporada partida o una doble inscripció. Una peça posterior de RTVA també
+  documenta que el **2022** va deixar temporalment l'ENFAF per jugar a l'**AEM B**
+  de Lleida, entrenant entre setmana a Andorra. El pas per AEM queda identificat;
+  el detall federatiu del retorn del 2019 continua obert
+  ([font web](../../../../raw/web/esport/futbol-femeni/marina-fernandez/README.md)).
 
 ## Related
 
