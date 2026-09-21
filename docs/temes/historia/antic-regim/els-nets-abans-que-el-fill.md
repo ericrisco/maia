@@ -237,12 +237,11 @@ simbòlica als qui no hereten:**
    16-06 i 31-07-1751, arrest del 21-12-1753)*, **sencer**. **És la segona causa
    andorrana davant d'aquell tribunal que el corpus registra.** `Requereix font
    externa: Archives départementales des Pyrénées-Orientales.`
-2. **Què va resoldre l'enquesta sobre si *heretar* vol dir *donar*.** **El corpus
-   té la pregunta i no la resposta.**
+2. ~~**Què va resoldre l'enquesta sobre si *heretar* vol dir *donar*.**~~ — **`parcial` el 21-09-2026**: l'ordenança del Consell Sobirà del Rosselló del **31 de juliol de 1751** conserva la qüestió i formula que en català *heretar* significa **«donar»**; el corpus encara no té l'arrest complet ni sap com es va resoldre formalment l'enquesta.
 3. ~~**El cas de vint anys (1868-1888)**: **les tres resolucions, senceres**, i **com
    va acabar**.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la seqüència —el batlle el **1868**, una nova intervenció dels parents cap al **1878** i el Tribunal Superior el **15 de desembre de 1888**—, però no els textos sencers ni el desenllaç posterior.
-4. **El model d'acte del formulari del segle XVIII** per quan els germans trien
-   hereu entre ells, i **quants d'aquests actes es van rebre.**
+4. ~~**El model d'acte del formulari del segle XVIII** per quan els germans trien
+   hereu entre ells, i **quants d'aquests actes es van rebre.**~~ — **`parcial` el 21-09-2026**: la font confirma que el formulari contenia aquest model i que encara se'n rebien actes —l'autor n'havia vist un de molt recent—, però no en conserva el model íntegre ni dona el recompte.
 5. ~~**Si la nominació d'hereu feta pel batlle d'ofici es va fer mai**, o **si és una
    hipòtesi de l'autor**. Ell mateix escriu **«potser fins i tot el batlle»**.~~ — **`parcial` el 21-09-2026**: en el cas de 1783 la font diu expressament que el batlle **no va instituir hereu**, sinó que va atribuir els béns a un fill perquè pagués els germans; el corpus no té cap altre cas que permeti saber si la nominació d'ofici es va practicar mai.
 6. ~~**Si el fill de 1783 va pagar els germans**: **el 1784 encara devia les 32
