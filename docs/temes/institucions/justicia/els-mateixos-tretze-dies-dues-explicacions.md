@@ -261,9 +261,11 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
    el buit canònic i la cerca de la peça jurídica continuen a [deu dies de dret
    i tres de gràcia](./deu-dies-de-dret-i-tres-de-gracia.md); aquí només queda
    documentada la mateixa divergència aplicada al tercer grau.
-2. **L'article de Ch. Romeu a *Le Tour du Monde*, 1897.** **No és al corpus.**
-   **Prioritari**: **és una font del 1897 escrita pel veguer francès en
-   exercici**, i **una de les que Vilar fa servir.**
+2. ~~**L'article de Ch. Romeu a *Le Tour du Monde*, 1897.** **No és al corpus.**~~ —
+   **`parcial` el 21-09-2026**: la [fitxa de Charles
+   Romeu](../../persones/charles-romeu.md) confirma que era el veguer francès
+   d'Andorra en exercici des del **15-03-1887**, i la nota de Vilar en fixa la
+   publicació el **1897**. El text directe de l'article encara no és al corpus.
 3. **El dret de rescat d'un any sobre les vendes judicials**: **quin text el
    fundava**, **qui el discutia** i **si era d'un any exacte.**
 4. **Si el jutge d'apel·lacions va jutjar mai sense anar a Andorra**, i **com es
