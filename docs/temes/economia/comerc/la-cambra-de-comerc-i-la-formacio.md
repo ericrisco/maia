@@ -259,7 +259,13 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   `Requereix les normes reglamentàries que la llei diu que el Govern dicta, i el
   reglament del cens obligatori.`
 - **Quins bancs** van finançar els cursos i amb quant.
-- **Quantes empreses i quantes persones** van passar per la formació contínua.
+- ~~**Quantes empreses i quantes persones** van passar per la formació contínua.~~ —
+  **`parcial` el 21-09-2026**: la Cambra informa que durant el **2024** hi va
+  haver **84 formacions** i **892 persones assistents**; dins d'aquest total, 18
+  formacions d'intel·ligència artificial i digitalització van reunir **212
+  assistents**. La nota no dona el nombre d'empreses participants ni permet
+  saber si cada inscripció correspon a una persona diferent
+  ([font local](../../../raw/web/economia/cambra/README.md)).
 - **Es van crear les «vies de formació ocupacional»** més flexibles?
 - ~~**Sèries salarials andorranes**, de qualsevol any. **Buit transversal
   prioritari.**~~ — **`resolt` el 17-09-2026 per la via d'Estadística**: la nota
