@@ -271,16 +271,27 @@ naturalesa, l'arrendament».**
 
 ## Buits registrats
 
-1. **Quantes cases llogades hi havia, i quantes a Sant Julià.** **La font ordena les
-   parròquies i no compta.**
+1. ~~**Quantes cases llogades hi havia, i quantes a Sant Julià.**~~ — **`parcial` el
+   2026-09-21**: Brutails confirma que hi havia **cases llogades a totes les
+   parròquies** i que **Sant Julià era la que en tenia més**, però la font no
+   compta ni el total ni el nombre de Sant Julià ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 2. ~~**El decret del Consell General del 25 de novembre de 1895**, sencer.~~ — **`parcial` el 21-09-2026**: la fitxa el situa com la peça que resol la divergència del tres i terç i en conserva la citació i la funció; el text complet encara requereix els llibres d'acords del Consell General.
-3. **L'arrest del Tribunal Superior de l'11 d'octubre de 1894** i **l'arrest del
-   Jutge d'Apel·lacions que reforma**, sencers. **El segon admetia el 6 % comercial i
-   el corpus no en sap res més.**
-4. **La campanya de les Corts contra l'usura**: **quan, quants casos i amb quin
-   resultat.** **I si els «préstecs al 75 %» tenen cap expedient al darrere.**
-5. **Els decrets del 30 d'agost de 1892 i els actes del 19-03-1874 i 16-03-1898**,
-   sencers.
+3. ~~**L'arrest del Tribunal Superior de l'11 d'octubre de 1894** i **l'arrest del
+   Jutge d'Apel·lacions que reforma**, sencers.~~ — **`parcial` el 2026-09-21**:
+   la font conserva que el Tribunal Superior va **reformar** l'arrest del Jutge
+   d'Apel·lacions que admetia el **6 % comercial** i va tornar el tipus al **5 %**;
+   els dos textos íntegres encara falten ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+4. ~~**La campanya de les Corts contra l'usura**: **quan, quants casos i amb quin
+   resultat.** **I si els «préstecs al 75 %» tenen cap expedient al darrere.**~~ —
+   **`parcial` el 2026-09-21**: Brutails diu que les Corts hi van intervenir
+   **diverses vegades** i que es citaven préstecs al **75 %**, però no dona casos,
+   anys, sentències ni expedients identificables ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+5. ~~**Els decrets del 30 d'agost de 1892 i els actes del 19-03-1874 i 16-03-1898**,
+   sencers.~~ — **`parcial` el 2026-09-21**: la fitxa ja conserva la regla del
+   decret de **30 d'agost de 1892** sobre arrendar lliurement i el contrast entre
+   la subhasta de béns embargats del **19 de març de 1874** i l'acta de prats i
+   camps del **16 de març de 1898** sense menció de subhasta; els originals
+   complets encara falten ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 6. ~~**El *capsou* del 9 de juny de 1783**, **peça justificativa núm. XI del
    mateix volum.**~~ — **`resolt` el 16-09-2026** (peça XI, pàgina XXII, PDF 46).
    **És un *bail à cheptel* i el corpus en reté tots els termes.**
@@ -298,9 +309,14 @@ naturalesa, l'arrendament».**
    cap no és un percentatge d'aquell capital: és un lloguer del bestiar.**
    **I la propietat es transfereix**: els administradors es «desapoderen del
    domini» i el traspassen, **salvada sempre la facultat de quitar.**
-7. **L'acte del 7 de desembre de 1419** de Mosquera, **cinquanta bèsties de llana**:
-   **d'on surt.**
-8. **L'acte de 1670** de venda de la tercera part dels fruits.
+7. ~~**L'acte del 7 de desembre de 1419** de Mosquera, **cinquanta bèsties de llana**:
+   **d'on surt.**~~ — **`parcial` el 2026-09-21**: la font identifica un habitant
+   de **Mosquera** que reconeix tenir **cinquanta bèsties de llana en parceria**;
+   no conserva la procedència documental completa de l'acte ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+8. ~~**L'acte de 1670** de venda de la tercera part dels fruits.~~ — **`parcial` el
+   2026-09-21**: Brutails descriu l'acte com la venda, per una suma determinada,
+   de **la tercera part dels fruits** d'un fons, que compara amb l'arrendament;
+   el document íntegre i la identificació del fons encara falten ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 9. ~~**Si la parceria de sis anys sobre vaques era pacte o costum**, i **si la meitat
    del creixement admetia excepcions.**~~ — **`parcial` el 2026-09-21**: la font
    descriu la *parceria* com un contracte **habitualment de sis anys i sobre
@@ -309,8 +325,11 @@ naturalesa, l'arrendament».**
    documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)).
    No diu si la durada i el repartiment eren costum jurídic o pacte de cada
    acte, ni si admetien excepcions.
-10. **Per què la data d'entrada dels masovers era el 25 de març**, i **si valia a
-    totes les parròquies.**
+10. ~~**Per què la data d'entrada dels masovers era el 25 de març**, i **si valia a
+    totes les parròquies.**~~ — **`parcial` el 2026-09-21**: la font dona el **25
+    de març, l'Anunciació**, com a terme ordinari d'entrada dels arrendataris i
+    parcers, però adverteix que les condicions poden variar segons les parts i no
+    confirma que la data fos uniforme a totes les parròquies ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 
 ## Related
 
