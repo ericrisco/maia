@@ -109,7 +109,7 @@ generació més tard. Vegeu [el ferro](../../cultura/artesania/el-ferro.md) i
 
 ## Buits registrats
 
-1. La **sentència de 1731** — text, qui la dicta, què deia exactament.
+1. ~~La **sentència de 1731** — text, qui la dicta, què deia exactament.~~ — **`parcial` el 21-09-2026**: la fitxa identifica la sentència com a peça del conflicte ramader, però **no en té el text ni la signatura d’arxiu**.
 2. **Quina epidèmia** va delmar els ramats i amb quines pèrdues.
 3. ~~Les **xifres** de cabana ovina al llarg dels segles~~ — **`parcial` el
    18-09-2026**: **del 1988 al 2026 la sèrie hi és, any per any**, i diu una

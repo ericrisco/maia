@@ -147,7 +147,7 @@ l'**hostal arrendat pels seus avantpassats**.
 1. **La llista d'arrendataris** i els **noms de casa**. **Font primària que
    existeix** — Lacueva la va treballar.
 2. **El text d'una taba** sencera.
-3. **Per què desapareixen** exactament als anys 1920-1930.
+3. ~~**Per què desapareixen** exactament als anys 1920-1930.~~ — **`parcial` el 21-09-2026**: la fitxa documenta els hostals comunals i el seu context, però **no té una font que expliqui el moment i la causa concreta de la desaparició**.
 4. **Quants llits** tenia un hostal comunal.
 5. Si **totes** les parròquies en van tenir, i des de quan.
 6. **Els preus d'arrendament**, com a sèrie.

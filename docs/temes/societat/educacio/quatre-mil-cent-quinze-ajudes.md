@@ -116,9 +116,11 @@ del 2024.`
   2023 i **484** el 2024), però la font no publica cap motiu de denegació.
 - **La renda de les famílies que les demanen**, que és el criteri de la llei i
   **no es publica.** `font_externa`
-- **A quines universitats van els becats**, i a quins països. La fitxa de [la
+- ~~**A quines universitats van els becats**, i a quins països. La fitxa de [la
   Universitat d'Andorra](./la-universitat-dandorra.md) tracta una qüestió
-  institucional diferent i no aporta aquesta distribució. `font_externa`
+  institucional diferent i no aporta aquesta distribució. `font_externa`~~ —
+  **`parcial` el 21-09-2026**: les estadístiques ja donen el nombre total d’ajudes
+  i sol·licituds, però **no publiquen la distribució per universitat o país**.
 - ~~**Què va passar el 2024 perquè l'import caigués 314.794 € en un any**~~ —
   **`parcial` el 20-09-2026**: l'import passa de **2.663.510 € el 2023** a
   **2.348.716 € el 2024** (**−314.794 €**), mentre les ajudes baixen de

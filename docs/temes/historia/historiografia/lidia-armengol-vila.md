@@ -71,7 +71,7 @@ buides del corpus.
 - El seu paper en la creació de l'**Escola Andorrana** (1982) i de les
   institucions culturals, si n'hi va tenir.
 - ~~**Per què va morir tan jove.**~~ — **`parcial` el 21-09-2026**: el número 25 d’[Ex Libris del Govern](../../../raw/web/historia/historiografia/armengol/README.md) documenta que va viure i tractar-se durant **un any d’una malaltia digestiva**, que fou operada d’urgència a Barcelona el **13 d’agost de 1991** i que morí a la Clínica Verge de Meritxell el **26 de novembre de 1991**. La font no especifica el diagnòstic mèdic.
-- Si hi ha **fons personal** a l'Arxiu Nacional.
+- ~~Si hi ha **fons personal** a l'Arxiu Nacional.~~ — **`parcial` el 21-09-2026**: la fitxa documenta la trajectòria pública de Lídia Armengol, però **no ha localitzat un inventari de fons personal a l'Arxiu Nacional**.
 - El text complet de la semblança del Govern.
 
 ## Una nota sobre qui escriu Andorra

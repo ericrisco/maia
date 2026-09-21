@@ -156,8 +156,10 @@ Documentació** (capítol cinquè).
   BOPA (2023–2025), que són taules d'avaluació documental; encara no s'ha
   localitzat cap memòria anual.
   ([El registre del que ja no hi és](../../cultura/museus-i-arxius/el-registre-del-que-ja-no-hi-es.md).)
-- **Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
-  consta.
+- ~~**Quantes sol·licituds d'accés hi ha hagut** i quantes s'han denegat, no
+  consta.~~ — **`parcial` el 21-09-2026**: la llei exigeix un registre de
+  consultes, però **el corpus no té la memòria anual ni el recompte de peticions
+  i denegacions**.
 - ~~**Quanta informació s'ha declarat reservada d'Estat**, tampoc.~~ —
   **`resolt` el 18-09-2026, com a duplicat intern de l'execució de la llei**:
   el buit canònic, amb la cerca al BOPA i el que encara cal demanar, queda a

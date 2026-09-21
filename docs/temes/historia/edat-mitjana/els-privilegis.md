@@ -330,7 +330,7 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
    Valls i Taberner (1920) i *El llibre de la terra* (1997) són portes
    bibliogràfiques, no transcripcions incorporades al corpus.
 2. **Les tres contradiccions** de dalt.
-3. **L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.
+3. ~~**L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.~~ — **`parcial` el 21-09-2026**: la fitxa identifica el fons com la via documental dels cartularis i registres, però **encara no se n’ha consultat cap unitat**.
 4. El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
    document més localitzable de tota la llista.**
 5. **El bovatge** i el **monedatge**: què eren.

@@ -119,8 +119,10 @@ agronòmiques** i marca **el judici** com a seu.
 
 ## Buits registrats
 
-1. **L'acord del Consell General de setembre de 1937** — l'acta. **Font primària
-   decisiva, i localitzable.**
+1. ~~**L'acord del Consell General de setembre de 1937** — l'acta. **Font primària
+   decisiva, i localitzable.**~~ — **`parcial` el 21-09-2026**: la fitxa situa
+   l’acord en el marc del racionament, però **l’acta del Consell General encara
+   no és al corpus**.
 2. **Quant** aliment va arribar per la ruta de Santander, i durant quant temps.
 3. **Qui** va gestionar el racionament i com es controlava.
 4. ~~**Quants refugiats** hi havia a Andorra el 1937.~~ — **`parcial` el

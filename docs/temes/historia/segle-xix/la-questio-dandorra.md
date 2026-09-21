@@ -400,7 +400,7 @@ Tabacalera Andorrana, SA, el 1899.**
   síndic del Consell Revolucionari Provisional i **Pere Baró i Mas** com a
   subsíndic i metge de Sant Julià; les biografies pròpies i la trajectòria
   posterior continuen pendents.
-- **El Tractat del Pont dels Escalls**: el text.
+- ~~**El Tractat del Pont dels Escalls**: el text.~~ — **`parcial` el 21-09-2026**: la fitxa en documenta la data i els efectes polítics, però **no incorpora el text íntegre del tractat**.
 - **Quants revolucionaris van ser condemnats, i a què.**
 - **La carta del bisbe Casañas del març del 1886**: font primària.
 

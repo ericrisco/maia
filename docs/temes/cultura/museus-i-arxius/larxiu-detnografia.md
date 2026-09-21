@@ -140,7 +140,7 @@ saber què van signar les persones entrevistades.**
    d'Andorra els va encarregar
    ([font](../../../fonts/comas-pujadas-andorra-pais-frontera-1997.md)).
    `El corpus no n'ha llegit encara el contingut.` `font_externa`
-6. Si hi ha **altres fons orals** andorrans.
+6. ~~Si hi ha **altres fons orals** andorrans.~~ — **`parcial` el 21-09-2026**: la fitxa identifica l’Arxiu d’Etnografia i les fonts orals que el corpus ja coneix, però **no ha inventariat altres fons orals andorrans ni el seu accés**.
 7. ~~La comunitat **hindú** i la **filipina** d'Andorra, que apareixen aquí i
    enlloc més.~~ — **`incorrecte` en l'afirmació d'absència, `obert` en el
    fons**, comprovat el **2026-09-13**. **«Enlloc més» és fals i no s'havia

@@ -119,5 +119,7 @@ nova redacció de l'art. 26.2, p. 3.)
   Reserva, s’han llegit. Encara no s’han destil·lat ni contrastat amb les
   normes completes modificades, i el mandat de consolidació de la final tercera
   tampoc no acredita que els textos ja s’hagin tramitat.
-- Les conclusions del FMI invocades al preàmbul no s'han contrastat
-  amb el document original del Fons.
+- ~~Les conclusions del FMI invocades al preàmbul no s'han contrastat
+  amb el document original del Fons.~~ — **`parcial` el 21-09-2026**: la fitxa
+  conserva la referència del preàmbul i el seu ús argumental, però **el document
+  original del FMI no és al corpus**.
