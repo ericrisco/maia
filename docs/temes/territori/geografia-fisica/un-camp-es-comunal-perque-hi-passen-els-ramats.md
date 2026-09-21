@@ -287,8 +287,13 @@ privat:**
 9. **Si la *peixena* encara existia el 1904 als rebaixants**, o **si el moviment de
    1893 ja l'havia buidada.** **La font descriu el moviment en curs i no en dona
    l'abast.**
-10. **On eren «la coltia de Vila», a Encamp, i «la devesa del Mas del Solà»**, i
-    **si els topònims són vius.**
+10. ~~**On eren «la coltia de Vila», a Encamp, i «la devesa del Mas del Solà»**, i
+    **si els topònims són vius.**~~ — **`parcial` el 21-09-2026**: el
+    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+    documenta la *coltia* com a cultia o terra comunal d'ús comú i la *devesa*
+    com a bé sostret al gaudi comú; conserva les atestacions d'**Encamp del 12
+    de setembre de 1580** i del **20 de setembre de 1551**, però no permet
+    situar-les amb més precisió ni saber si els topònims són vius.
 
 ## Related
 
