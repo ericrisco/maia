@@ -211,10 +211,14 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    font agraeix «correccions precioses» i no diu quines ni sobre què.**
    **PRIORITARI**: **determina com s'ha de llegir tot el volum.** `Caldria
    correspondència o un manuscrit.`
-2. **El decret del 27 de març de 1806**, **el del 3 de juny de 1882** i **el del
-   27 de febrer de 1884**, **sencers**. **El corpus en té articles citats i cap
-   text.** **Prioritari**: **són les normes que organitzen la presència francesa.**
-   `Haurien de ser al Bulletin des lois o al Journal officiel.`
+2. ~~**El decret del 27 de març de 1806**, **el del 3 de juny de 1882** i **el
+   del 27 de febrer de 1884**, **sencers**. **El corpus en té articles citats i
+   cap text.** **Prioritari**: **són les normes que organitzen la presència
+   francesa.**~~ — **`parcial` el 2026-09-21**: la fitxa ja en resumeix les
+   disposicions principals —el nomenament i les atribucions del veguer el **1806**,
+   la creació del delegat i el trasllat de competències el **1882**, i el pas de
+   la delegació al prefecte el **1884**—. **Els tres textos íntegres encara no
+   formen part del corpus.**
 3. ~~**Per què el 1882 es va crear el delegat permanent** i **per què dos anys
    després la delegació va passar del sotsprefecte de Prada al prefecte.**~~ —
    **`parcial` el 2026-09-21**: el decret de **3 de juny de 1882** identifica la
