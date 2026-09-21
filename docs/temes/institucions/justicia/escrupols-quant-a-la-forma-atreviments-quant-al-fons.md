@@ -293,11 +293,18 @@ Tres coses que aquesta taula diu i que no s'endevinen:
 
 1. **Si l'arrest del 12 de maig de 1898 és un de sol amb dos punts de dret o dos
    de diferents.** La font el cita **dues vegades per a coses distintes**.
-2. **El text del privilegi de 1607 sencer.** Ara se'n coneix **la finalitat** i
-   **la clàusula d'arxiu en llatí**; **no se'n té el document**. `Requereix font
-   externa: l'Arxiu Capitular de la Seu d'Urgell o els Arxius Nacionals.`
-3. **Si el decret del 20 de desembre de 1900 es va complir**, i **si els cosenyors
-   hi van intervenir mai** com Brutails demanava.
+2. ~~**El text del privilegi de 1607 sencer.** Ara se'n coneix **la finalitat** i
+   **la clàusula d'arxiu en llatí**; **no se'n té el document**.~~ — **`parcial`**:
+   la fitxa transcriu la clàusula que obliga a conservar els documents a
+   **l'escrivania pública de la Vall**, en prohibeix l'extracció i exclou el
+   benefici dels hereus i successors. **El privilegi sencer i la referència
+   d'arxiu continuen pendents.**
+3. ~~**Si el decret del 20 de desembre de 1900 es va complir**, i **si els cosenyors
+   hi van intervenir mai** com Brutails demanava.~~ — **`parcial`**: la fitxa
+   conserva el decret que fa passar els manuals al successor i la crítica de
+   Brutails, que tem que les famílies l'eludeixin i demana mesures dels
+   **cosenyors**. **No hi ha prova d'aplicació efectiva ni de la intervenció que
+   la font reclamava.**
 4. ~~**Quines eren «les col·leccions de minutes indegudament retingudes per alguns
    particulars»** el 1904, i **on van anar a parar**.~~ — **`parcial` el
    21-09-2026**: [l'Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md)
@@ -306,10 +313,16 @@ Tres coses que aquesta taula diu i que no s'endevinen:
    col·leccions concretes que Brutails deia retingudes ni la seva trajectòria.**
 5. **El cas de la cessió de béns contra un notari** en què les minutes es van
    separar de l'actiu: **sense data ni referència a la font**.
-6. **Si les despeses d'enterrament eren crèdit privilegiat.** **Les sentències
-   diuen que sí i els pràctics que no**, i **la font no ho tanca**.
-7. **La sentència del 27 de novembre de 1868**: **la data porta un interrogant de
-   l'autor mateix.**
+6. ~~**Si les despeses d'enterrament eren crèdit privilegiat.** **Les sentències
+   diuen que sí i els pràctics que no**, i **la font no ho tanca.**~~ — **`parcial`**:
+   la fitxa documenta la sentència de **27 de novembre de 1868 (?)** i la
+   consulta del **10 de novembre de 1843** que les tracta com a privilegiades,
+   al costat del rebuig dels *sabis*. **La divergència queda oberta i no
+   s'arbitra.**
+7. ~~**La sentència del 27 de novembre de 1868**: **la data porta un interrogant de
+   l'autor mateix.**~~ — **`parcial`**: la fitxa conserva la data amb l'interrogant
+   de Brutails i la seva fórmula: **«los gastos de enterro son privilegiats»**.
+   **Continuen oberts la data exacta i el text íntegre de la sentència.**
 8. ~~**Què era exactament la *curia***, i **si el mot tenia també el sentit de
    tribunal**.~~ — **`resolt` el 16-09-2026** ([DCVB](../../../fonts/dcvb.md)):
    **sí que el tenia, i és el sentit principal.** L'entrada `CÚRIA` dona **«cort
