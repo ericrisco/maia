@@ -316,13 +316,10 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
    > de la que aquesta fitxa tenia**, i **confirma que a Andorra no és l'insult
    > que recullen els diccionaris sinó una designació d'estament.** `El que
    > segueix obert és si el mot és viu avui.`
-4. **Quan es va crear la figura dels delegats als comptes** i **si van arribar a
-   fer perseguir cap cònsol.** **La font en dona la facultat, no cap cas.**
-5. **L'arrendament de la muntanya de Canillo a l'Hospitalet**: **quina muntanya,
-   des de quan i fins quan.** **Mil francs l'any el 1904.**
-6. **Quan van desaparèixer les fargues** i **què venien els comuns després.**
-7. **La «mena de prestació»** amb què les parròquies reparaven els camins:
-   **quants dies, a qui obligava i com es commutava.**
+4. ~~**Quan es va crear la figura dels delegats als comptes** i **si van arribar a fer perseguir cap cònsol.**~~ — **`parcial` el 21-09-2026**: la font documenta que el delegat als comptes s'elegia sense poder votar i que podia activar la persecució del cònsol deutor, però no en dona la data de creació ni cap cas aplicat.
+5. ~~**L'arrendament de la muntanya de Canillo a l'Hospitalet**: **quina muntanya, des de quan i fins quan.**~~ — **`parcial` el 21-09-2026**: la font confirma que Canillo arrendava una muntanya a la comuna francesa de l'Hospitalet per **1.000 francs anuals el 1904**, però no n'identifica el nom ni la durada.
+6. ~~**Quan van desaparèixer les fargues** i **què venien els comuns després.**~~ — **`parcial` el 21-09-2026**: la font afirma que totes les fargues ja havien desaparegut quan descriu els boscos comunals i que els comuns venien l'excedent de les tallades, però no fixa les dates ni la transició comercial.
+7. ~~**La «mena de prestació»** amb què les parròquies reparaven els camins.~~ — **`parcial` el 21-09-2026**: la fitxa identifica l'obligació comunal de mantenir els camins, però no té el nombre de jornals, els subjectes obligats ni la regla de commutació.
 8. ~~**La xifra de 6.000 habitants** i **la proporció que vivia fora dels
    burgs**.~~ — **`parcial` el 2026-09-20**: Vilar, *L'Andorre* (1904, p. 64),
    diu que **més de la meitat dels 6.000 habitants** vivien als annexos de les
@@ -333,8 +330,7 @@ la instrucció primària dels infants»**, i **ensenyen sobretot el catecisme.**
    un sistema sense partits.**~~ — **`parcial` el 2026-09-18**: la font fixa **1887**
    com l'any des del qual ho afirma, però **no dona resultats electorals ni
    explica què vol dir «partit»** en aquell sistema.
-10. **Si l'exclusió dels impedits i dels embriacs era de la Reforma o del costum
-    anterior.** **La font no ho separa.**
+10. ~~**Si l'exclusió dels impedits i dels embriacs era de la Reforma o del costum anterior.**~~ — **`parcial` el 21-09-2026**: la font documenta que impedits, deutors públics i embriacs quedaven exclosos de l'exercici del càrrec, però no separa l'origen normatiu de la Reforma i el costum anterior.
 
 ## Related
 
