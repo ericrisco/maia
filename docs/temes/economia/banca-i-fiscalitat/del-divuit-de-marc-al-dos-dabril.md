@@ -153,8 +153,12 @@ ho diu ella mateixa i hi posa una xifra:**
 ## Buits registrats
 
 1. ~~**La fórmula de la indemnització per collita**: **«la meitat de la collita, més una part inversament proporcional al temps que separa de la sega»**.~~ — **`parcial` el 2026-09-19**: la fitxa ja conserva la fórmula i el seu estatut de **informació de tercers** —«m’han dit»—, amb l’aplicació deixada al **criteri del jutge**. **La font no diu una part de què ni quin coeficient s’ha d’aplicar, de manera que el càlcul continua impossible.**
-2. **Cap sentència que apliqui aquella indemnització.** **El corpus té la regla i
-   cap cas.**
+2. ~~**Cap sentència que apliqui aquella indemnització.** **El corpus té la regla
+   i cap cas.**~~ — **`parcial` el 2026-09-21**: la fitxa conserva la regla de la
+   indemnització per collita —**meitat de la collita més una part inversament
+   proporcional al temps fins a la sega**— i documenta que la font la deixava al
+   criteri del jutge. **No s’ha localitzat cap sentència que n’expliqui una
+   aplicació efectiva.**
 3. ~~**La peça justificativa p. XL** *(acte del 15 de juny de 1788)*, **que és on
    la font remet per a la finestra del 18 de març al 2 d'abril.**~~ — **`resolt`
    el 16-09-2026** (PDF 64 de `docs/raw/llibres/brutails-coutume.pdf`). **La
