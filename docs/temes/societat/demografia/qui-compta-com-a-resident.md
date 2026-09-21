@@ -256,11 +256,11 @@ i **116 per a empreses estrangeres** (+9,4%). **L'estoc creix i el flux cau**, i
   cobreix 2022-2025 i el corpus el llegeix el 2026**: `Requereix saber si el
   registre estadístic de població va arribar a entrar en producció i si hi ha
   un pla d'estadística posterior al 2025.`
-- No s'ha identificat cap data de publicació ni historial de revisions de la
-  metodologia. Es presenta com a A001 del Pla 2022-2025, mentre que la nota
-  mensual del juliol de 2026 remet al Pla 2026-2029. No s'ha comprovat si els
-  passos descrits seguien igual el juliol de 2026 ni si existeix una versió
-  posterior d'aquest document.
+- ~~**La data de publicació, l'historial de revisions i la vigència dels passos
+  de la metodologia.**~~ — **`font_externa` el 2026-09-22**: **la fitxa només
+  identifica A001 del Pla 2022-2025 i la remissió posterior al Pla 2026-2029**.
+  **Cal obtenir les versions metodològiques i la nota mensual completa per
+  comprovar-ne l'evolució.**
 - ~~No s'ha comprovat si el cens estadístic de població s'ha desplegat després
   de la redacció d'aquesta metodologia. El futur del verb acredita l'estat en
   el document, no l'estat del país el 2026.~~ — **`parcial` el 20-09-2026**:

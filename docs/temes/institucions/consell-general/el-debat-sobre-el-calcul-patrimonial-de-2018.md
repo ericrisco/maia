@@ -78,9 +78,10 @@ no s'ha comprovat. Aquests totals no identifiquen l'efecte causal del barem.
 
 ## Buits registrats
 
-- No s'ha comprovat la referència d'Alís a una objecció de Sindicatura
-  amb cap document original d'aquest òrgan; no s'atribueix al Consell
-  una conclusió jurídica institucional a partir d'aquella intervenció.
+- ~~**La referència d'Alís a una objecció de Sindicatura.**~~ — **`font_externa`
+  el 2026-09-22**: **la fitxa no té cap document original d'aquest òrgan** i no
+  atribueix al Consell una conclusió jurídica institucional a partir d'aquella
+  intervenció. **Cal l'acta o l'escrit de Sindicatura.**
 - ~~Contrast parcial de xifres tancat~~ — **`parcial` el 19-09-2026** amb la
   [memòria APAP 2017 i notícia de 2016](../../../fonts/govern-apap-2017.md).
   No s'ha localitzat la memòria 2016 en les cerques fetes, ni s'han contrastat

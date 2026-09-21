@@ -79,6 +79,7 @@ l'agència pugui dir que no**. Compareu-ho amb el mecanisme paral·lel de
   qual s'atura l'any 2000 i tampoc no en té les titulacions.**
   **Les dues fitxes es reclamen la mateixa llista i cap de les dues no la
   té.**
-- **Què passa amb els títols estrangers** impartits a Andorra —hi ha
-  ensenyament superior espanyol i francès al país— **no s'ha comprovat** en
-  aquesta lectura.
+- ~~**Què passa amb els títols estrangers** impartits a Andorra.~~ —
+  **`font_externa` el 2026-09-22**: **la fitxa no ha comprovat el règim dels
+  ensenyaments superiors espanyol i francès**. **Cal consultar les normes de
+  reconeixement i els expedients d'autorització corresponents.**

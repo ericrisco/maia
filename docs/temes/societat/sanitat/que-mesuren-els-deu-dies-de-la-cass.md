@@ -45,10 +45,15 @@ resoldre una demanda i rebre assistència són fets diferents.
 
 ## Buits registrats
 
-- No s’han consultat expedients individuals, dispersió dels terminis,
-  dies naturals o hàbils, inici del còmput ni fórmula d’agregació del quadre.
-- No s’ha comprovat si el màxim i les mitjanes inclouen les mateixes fases
-  mèdiques i administratives, ni si les demandes pendents entren al recompte.
+- ~~**Els expedients individuals, la dispersió dels terminis, els dies naturals o
+  hàbils, l'inici del còmput i la fórmula d'agregació del quadre.**~~ —
+  **`font_externa` el 2026-09-22**: **la fitxa només té el quadre agregat i no
+  els expedients ni la metodologia completa**. **Cal consultar la documentació
+  de la CASS.**
+- ~~**Si el màxim i les mitjanes inclouen les mateixes fases mèdiques i
+  administratives, i si les demandes pendents entren al recompte.**~~ —
+  **`font_externa` el 2026-09-22**: **la taula publicada no desglossa aquestes
+  fases ni l'estat de les demandes**. **Cal la definició metodològica de la font.**
 - Tres pàgines, 77–79, llegides completes amb renders vistos; la taula
   de p. 78 és una imatge que l’extracció textual omet. No lectura íntegra
   de les 331 pàgines, ni validació independent o seguiment posterior.
