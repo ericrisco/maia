@@ -104,7 +104,7 @@ vernacular, i el corpus no en té res més.**
 
 - **Quan es comencen a posar i fins quan.** **Cap font no ho data.**
 - **Si hi ha estripagecs datats o signats.**
-- **Qui els feia.**
+- ~~**Qui els feia.**~~ — **`parcial` el 21-09-2026**: la mateixa fitxa identifica la **forja** com l'ofici que produeix els estripagecs i els relaciona amb les fargues i l'artesania. Encara no hi ha cap nom d'escloper, ferrer o taller concret.
 - ~~**El repartiment geogràfic dins Andorra.**~~ — **`no-es-buit` el 20-09-2026**: la font local declara que no el dona; el buit és una limitació explícita de l’article, no una distribució pendent de reconstruir.
 - ~~**L'escultor** de les peces de Sorteny i dels cims.~~ — **`resolt` el
   18-09-2026**: **Pere Moles Sans**, en una entrevista pròpia
