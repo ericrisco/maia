@@ -277,8 +277,15 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    l'anomena **«el regretté Paul Vilar»** el 1904; per tant, el corpus només pot
    situar la mort **abans de 1904**, sense data exacta. El cognom coincideix amb
    l'autor **André Vilar**, però **no hi ha prova de parentiu**.
-6. **El prefaci sencer de Brutails**, i **qui més hi consta.** **El corpus n'ha
-   llegit el passatge dels agraïments i no la resta.**
+6. ~~**El prefaci sencer de Brutails**, i **qui més hi consta.**~~ — **`resolt`
+   el 21-09-2026**: el prefaci complet és al [text local de *La Coutume
+   d'Andorre](../../../raw/llibres/brutails-coutume.txt). A més dels noms ja citats, hi consten **Liard, Bayet, de
+   Saint-Arroman, Pams, Delcros, Viollet, J. Deffès, G. Lafargue, E. Robert,
+   G. de Linière, M. Calvá, Sauveur Sansa, Joaquin de Areny, Hyacinthe Rossell,
+   Joseph de Riba, Joseph Moles (Pepi), Anton Picart, Joseph Picart, Bonaventure
+   Moles, els dos Palmitjavila, François Pallerola, Charles Romeu, J. Banais i
+   M. Platon**; el mateix prefaci explica el paper de cadascun en la missió i en
+   l'agraïment de l'autor.
 7. ~~**Si Izarn era jutge o suplent el 1902.**~~ — **`parcial` el 20-09-2026**:
    la sentència del **21 de juny de 1902** el llista com a **jutge**, mentre la
    mateixa font de **1904** el dona com a **suplent**. El corpus conserva les dues
