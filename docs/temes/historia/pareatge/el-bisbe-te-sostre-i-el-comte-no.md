@@ -277,11 +277,15 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    50.000. **El corpus no té cap taula de canvi medieval.**
 6. **La sentència sobre la Roca d'Afa**, que havia de ser **abans del Nadal
    de 1278**, **sense apel·lació.** **Nova.**
-7. **Si la permuta de castells del § IX es va fer per Pasqua**, o **si es van
-   pagar els 1.000 sous.** **Nova.**
-8. **De quin crim d'Arnau de Castellbò i la seva filla Ermessenda parla el
-   § IX**, i **què s'havia confiscat.** **Nou, i lliga amb la cadena d'entrada
-   dels drets a la casa de Foix.**
+7. ~~**Si la permuta de castells del § IX es va fer per Pasqua**, o **si es van
+   pagar els 1.000 sous.**~~ — **`parcial` el 21-09-2026**: el § IX fixa la
+   **Pasqua** com a termini i els **1.000 sous de Melgueil** com a pena si no es
+   compleix, però el corpus no té cap instrument que provi que la permuta es fes
+   ni que la pena es pagués.
+8. ~~**De quin crim d'Arnau de Castellbò i la seva filla Ermessenda parla el
+   § IX**, i **què s'havia confiscat.**~~ — **`parcial` el 21-09-2026**: el text
+   només confirma que hi havia un crim que afectava tots dos i que la permuta
+   aixecava una confiscació; no identifica el delicte ni els béns confiscats.
 9. **Què és «la constitution du divin Adrien»** a què renuncia el rei d'Aragó.
    **Nou.**
 10. ~~**Si el Pariatge de 1288 té una estructura semblant.** **El corpus segueix
