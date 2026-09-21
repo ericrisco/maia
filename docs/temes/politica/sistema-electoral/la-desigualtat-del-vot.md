@@ -738,9 +738,14 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    **2009**, a
    [Els resultats oficials, elecció per elecció](#els-resultats-oficials-eleccio-per-eleccio).
    **El 2005 nacional no es tanca perquè el dossier oficial diu «N/D»**, i
-   **queda obert el detall per parròquia del vot nacional del 2011, del 2015 i
-   del 2019**, que és a les pàgines 19-25, 19-25 i 13-16 dels dossiers
-   respectius. **En canvi, el corpus ja té els resultats numèrics complets de
+   **queda obert el detall per parròquia del vot nacional del 2011 i del 2015**,
+   que és a les pàgines 19-25 dels dossiers respectius. ~~**El detall per
+   parròquia del vot nacional del 2019**~~ — **`resolt` el 21-09-2026**: les
+   pàgines 13-16 d'`eg-2019.pdf` tenen la taula **«Escrutini de la
+   circumscripció nacional per parròquia»** per a les set parròquies, amb
+   candidatures, vots vàlids, blancs, nuls i participació; el total nacional
+   que encapçala el dossier és **17.783 vots vàlids, 531 blancs i 324 nuls**.
+   **En canvi, el corpus ja té els resultats numèrics complets de
    les eleccions del 1989 i del 1992**, que sí que sortien al butlletí.
 2. **L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
    **Prioritari.**
