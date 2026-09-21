@@ -143,7 +143,11 @@ trajecte; **el que digui dels costums s'ha de contrastar**.
    cronologia cultural del Govern identifica una primera sèrie d'autors, títols
    i anys, però adverteix que la relació exhaustiva continua oberta.
 3. **Què hi deien dels costums** i del menjar, literalment.
-4. **Quines fondes** recomanaven, per parròquia.
+4. ~~**Quines fondes** recomanaven, per parròquia.~~ — **`parcial` el
+   21-09-2026**: la font ja permet afirmar que les guies recomanaven **algunes
+   fondes a cada parròquia**, i els relats descrivien els propietaris i el que
+   s'hi menjava. El corpus encara no té els noms de les fondes ni la llista
+   parròquia per parròquia.
 5. ~~**Quan apareix Andorra** per primera vegada en una guia turística.~~ —
    **`parcial` el 19-09-2026**: el corpus ja ha identificat una **Guide Bleu dels
    Pirineus de 1925** i una altra de **1943**, totes dues amb capítol andorrà,
