@@ -165,9 +165,7 @@ mou així:
    *Nyerro* queda al punt següent.
 2. **Si el renom *Nyerro* té relació amb les bandositats catalanes.**
    **Coincidència registrada, causalitat no afirmada.**
-3. **Un recull de noms de casa andorrans.** **Segueix sent el buit prioritari de
-   la branca.** `Requereix font externa: bibliografia onomàstica andorrana i el
-   fons de l'Arxiu Nacional.`
+3. ~~**Un recull de noms de casa andorrans.**~~ — **`parcial` el 21-09-2026**: Brutails aporta tres noms documentats (*Babot*, *Moles* i *Guillemó*) i descriu el mecanisme d'herència, però no és un recull general; cal consultar la bibliografia onomàstica i el fons de l'Arxiu Nacional.
 4. ~~**Des de quan els andorrans porten els dos cognoms als actes oficials**, i
    **si era costum o norma**.~~ — **`parcial`, actualitzat el 2026-09-19**: la
    font constata que **el 1904** els dos cognoms ja figuraven als actes oficials.

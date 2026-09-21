@@ -180,10 +180,8 @@ font en dona la prova, i ve d'un altre lloc del dret:**
 
 ## Buits registrats
 
-1. **Les fórmules de dispensa matrimonial que diuen «*propter angustiam loci*»**:
-   **quines, de quins anys, i amb quin grau de consanguinitat es dispensava.**
-   **Prioritari i de font externa**: **són expedients canònics del bisbat
-   d'Urgell.** `Requereix font externa.`
+1. ~~**Les fórmules de dispensa matrimonial que diuen «*propter angustiam loci*»**:
+   **quines, de quins anys, i amb quin grau de consanguinitat es dispensava.**~~ — **`parcial` el 21-09-2026**: Brutails confirma que la fórmula apareixia sovint en matrimonis celebrats a Andorra i n'explica el sentit, però el corpus no té els expedients canònics del bisbat d'Urgell amb els anys i graus de parentiu.
 2. ~~**Amb quantes visures de les quinze o vint anuals faltava la primera
    instància.**~~ — **`parcial`, actualitzat el 2026-09-19**: la taula de la
    fitxa enumera **cinc casos entre el 27 de juliol de 1874 i el 16 de gener de

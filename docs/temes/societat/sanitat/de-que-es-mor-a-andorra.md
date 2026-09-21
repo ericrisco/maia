@@ -156,8 +156,8 @@ posterior. **Les xifres es citen totes dues amb la seva font i no s'arbitra.**
   el 2021** sense restar quinquennis, que és una estimació i no una dada.~~ —
   **`no-es-buit` el 20-09-2026**: la sèrie disponible no publica el desglossament
   anual i la resta de quinquennis només produiria una estimació.
-- **La classificació exacta que es fa servir** —CIM-9, CIM-10 o una adaptació—
-  i **on cau la demència.** `La taula no ho declara.`
+- ~~**La classificació exacta que es fa servir** —CIM-9, CIM-10 o una adaptació—
+  i **on cau la demència.**~~ — **`parcial` el 21-09-2026**: la taula publica les categories agregades de causa de mort, però no declara si provenen de la CIM-9, la CIM-10 o una adaptació ni on classifica la demència.
 - ~~**L'esperança de vida per sexe**, que no és en aquesta branca de l'API.~~ —
   **`resolt` el 18-09-2026**: **era en una altra branca del mateix catàleg** i
   ara és a l'apartat de dalt. **La sèrie va del 2016 al 2024.**

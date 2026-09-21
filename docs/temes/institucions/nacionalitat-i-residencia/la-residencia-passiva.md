@@ -254,7 +254,7 @@ d'una residència ja existent; per això l'article 23.10 les exclou del recompte
    exclou expressament perquè són, respectivament, **persones a càrrec**, la
    continuïtat de la residència després de la mort del titular i el canvi de
    situació quan s'acaba la dependència; no són noves entrades principals.
-5. **Si el Fons d'Habitatge ha atret inversió** per la via dels 400.000 €.
+5. ~~**Si el Fons d'Habitatge ha atret inversió** per la via dels 400.000 €.~~ — **`parcial` el 21-09-2026**: la norma identifica la reducció de la inversió exigida fins a **400.000 €** quan es destina al Fons d'Habitatge, però el corpus no publica quants expedients ni quin volum d'inversió hi ha entrat per aquesta via.
 6. **Quanta gent ha perdut la renovació per no acreditar el català.**
 
 ## Related

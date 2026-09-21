@@ -175,4 +175,4 @@ període d'execució** de la sentència» (article 1.2).
 
   `Requereix els 221 articles; el que s'ha llegit és què fa la llei i per què
   es va fer així.`
-- **Quantes causes penals hi ha l'any**, i quantes amb menors, no consta.
+- ~~**Quantes causes penals hi ha l'any**, i quantes amb menors, no consta.~~ — **`parcial` el 21-09-2026**: el Codi fixa el règim i l'edat penal, però el corpus no té una sèrie anual de causes ni un desglossament de menors.

@@ -85,11 +85,10 @@ de fase 3 hauria de poder respondre.
 
 ## El que falta
 
-- La distribució exacta: *cap* hi va abans o després del participi? Les dades
-  mostren les dues (*no hi han cap anat* / *no ho escriurà cap*).
+- ~~La distribució exacta: *cap* hi va abans o després del participi?~~ — **`parcial` el 21-09-2026**: el corpus documenta les dues posicions (*no hi han cap anat* / *no ho escriurà cap*), però no té prou material contemporani per establir-ne la distribució.
 - Si conviu amb *pas* i en quins registres.
 - Si l'ús substitutiu de *no* arriba a Andorra o es queda al Pallars alt.
-- *got* a Andorra: documentat al Pallars, aquí no consta.
+- ~~*got* a Andorra: documentat al Pallars, aquí no consta.~~ — **`parcial` el 21-09-2026**: *got* és documentat per Coll i Sistac al Pallars, però el corpus no n'ha trobat cap testimoni andorrà.
 
 ## Related
 

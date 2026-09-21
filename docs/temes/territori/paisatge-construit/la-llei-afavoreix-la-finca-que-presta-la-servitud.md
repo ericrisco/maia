@@ -290,8 +290,7 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    concedirà una bohiga a ningú més que a mi a la vora de la meva propietat»— i
    defineix l’*antoxà* com «tros de comunal prop de una finca particular». La
    font no permet estendre aquest ús a tot el país ni identificar l’informador.
-8. **Fins on arribava «la profunditat imprecisa» de l'antoixà**, que **és
-   exactament el que la font declara indeterminat.**
+8. ~~**Fins on arribava «la profunditat imprecisa» de l'antoixà**.~~ — **`parcial` el 21-09-2026**: la font de 1904 declara expressament que la profunditat és imprecisa i el corpus no hi ha trobat una norma o visura posterior que la concreti.
 9. **Qui eren els jutges de visura de segona instància** i **com es constituïa
    aquesta segona instància.**
 

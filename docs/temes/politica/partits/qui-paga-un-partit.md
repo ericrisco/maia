@@ -103,6 +103,6 @@ dels 16 anys** (article 6.4).
   premia arribar al 10% i tenir partit**, **el segon paga per vot i per escó**.
   **Un partit pot cobrar sense representació i una candidatura independent pot
   tenir-ne i no cobrar la de representació.**
-- **Si mai s'ha instat la suspensió o dissolució d'un partit andorrà**, no consta.
+- ~~**Si mai s'ha instat la suspensió o dissolució d'un partit andorrà**, no consta.~~ — **`parcial` el 21-09-2026**: la Llei 43/2022 identifica el Fiscal General com qui ho insta i el Tribunal Superior com qui declara la dissolució, però el corpus no localitza cap expedient o cas aplicat.
 - **Quantes donacions publica el Tribunal de Comptes** i de quin ordre de
   magnitud, tampoc.

@@ -163,9 +163,8 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
 
 ## Buits registrats
 
-- **Quants funcionaris hi ha** i quants llocs queden sense cobrir a la primera
-  convocatòria, no consta. Seria la xifra que diria si la reserva de nacionalitat
-  és efectiva o formal.
+- ~~**Quants funcionaris hi ha** i quants llocs queden sense cobrir a la primera
+  convocatòria.~~ — **`parcial` el 21-09-2026**: la Llei 1/2019 regula la funció pública i la reserva de nacionalitat, però el corpus no té la plantilla anual ni les places desertes de la primera convocatòria; per això no permet mesurar-ne l'efecte.
 - ~~**El Procediment Contenciós Administratiu** només s'ha llegit per la porta
   d'entrada: terminis, legitimació i mesures cautelars **queden pendents**.~~ —
   **`resolt` el 17-09-2026** a «[Portar l'Administració a judici](#portar-ladministracio-a-judici)»

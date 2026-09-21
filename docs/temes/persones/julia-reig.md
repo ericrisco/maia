@@ -148,8 +148,8 @@ arbre explícit: registrat com a fort, no com a confirmat del tot.
    Bedaux i què deia exactament l'informe, segueix sense saber-se** —el
    propi Cavero el cita amb punts suspensius, sense detallar-lo.
 5. ~~**Quin paper hi va tenir en l'andorranització**, més enllà de coincidir-hi.~~ **[parcial · 2026-09-19]** La fitxa situa el projecte durant el seu primer període de sindicatura i en documenta l'objectiu —aprenentatge del català i coneixement de la història i les institucions—, però la font no atribueix a Reig cap actuació personal concreta.
-6. **Si la família Reig té arxiu**, com Casa Rossell en tenia
-   ([el Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)).
+6. ~~**Si la família Reig té arxiu**, com Casa Rossell en tenia
+   ([el Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)).~~ — **`parcial` el 21-09-2026**: la fitxa documenta la trajectòria pública de Maria Reig i Moles i la coincidència familiar amb Òscar Ribas Reig, però el corpus no té cap inventari d'un arxiu personal o familiar Reig.
 
 ## Related
 

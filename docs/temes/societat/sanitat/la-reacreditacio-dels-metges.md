@@ -254,12 +254,7 @@ al·legar, i la Direcció General resol.
   membres propis. **Sí existeix encara**: hi consta activa al directori
   del 2026.
 - **Es va signar el conveni amb la Fundació Les Heures?**
-- **El conveni SAC–Universitat d'Andorra de maig del 2000.** — **`obert` el
-  17-09-2026, i amb la via del [BOPA](../../../fonts/bopa.md) descartada.**
-  **Els convenis entre una entitat privada i la Universitat no es publiquen al
-  Butlletí**: la cerca no en torna cap, ni d'aquest ni de cap altre del mateix
-  tipus. `Requereix demanar-lo a la Universitat d'Andorra o al Col·legi de
-  Metges; no hi ha ruta documental pública.`
+- ~~**El conveni SAC–Universitat d'Andorra de maig del 2000.**~~ — **`parcial` el 21-09-2026**: la cronologia confirma que la SAC el va signar amb la Universitat d'Andorra i que tractava de formació continuada; el text íntegre no és al BOPA ni al corpus i cal demanar-lo a la Universitat o al Col·legi de Metges.
 - ~~**Quants metges hi ha a Andorra** i d'on vénen~~ — **`parcial` el
   18-09-2026**: **410 metges col·legiats i 49 especialitats el 2026**
   ([font](../../../fonts/coma-ad-institucional.md)), tot i que **un

@@ -199,9 +199,7 @@ on es va discutir, segueix obert.**
   oficial**, amb la francesa en circulació «al cambio»; encara no sabem què
   comprava aquella quantitat. El corpus no té cap salari base andorrà de cap
   any per comparar-la.
-- **Si hi ha actes comunals** sobre aquestes escoles. **Probablement sí**, i
-  serien font primària de primer ordre
-  ([museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md)).
+- ~~**Si hi ha actes comunals** sobre aquestes escoles.~~ — **`parcial` el 21-09-2026**: la documentació de 1920 confirma una escola comunal per parròquia i el paper dels comuns en el finançament, però el corpus no conserva les actes comunals que ho podrien documentar directament.
 
 ## Related
 
