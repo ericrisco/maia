@@ -215,8 +215,13 @@ francès per escrit**.
    extradició **efectuada pel veguer per simple avís** a la Sindicatura i al
    veguer de la Mitra. **El corpus documenta la divergència, però no pot decidir
    si va canviar la pràctica o només el relat.**
-5. **El decret francès del 27 de març de 1806**, que és la base de tot això i que
-   el corpus cita sempre de segona mà.
+5. ~~**El decret francès del 27 de març de 1806**, que és la base de tot això i
+   que el corpus cita sempre de segona mà.~~ — **`parcial` el 2026-09-21**: el
+   corpus ja en conserva els articles principals —**nomenament imperial a
+   proposta del ministre de l’Interior**, adscripció del veguer al departament
+   de l’**Arieja**, participació a les Corts, **nominació dels batlles**, cobrament
+   de la quèstia i jurament anual dels diputats davant del prefecte—, però **el
+   text íntegre encara no forma part del corpus**.
 6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
    de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.
 7. ~~**Les dues provisions reials en què descansava la reivindicació espanyola**
