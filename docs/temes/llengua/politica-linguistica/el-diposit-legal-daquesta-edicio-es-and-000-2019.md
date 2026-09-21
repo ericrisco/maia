@@ -715,9 +715,9 @@ la prosa són sistemàtics i cap no altera una conclusió.**
 
 ## Buits registrats
 
-- **L'ISBN i el dipòsit legal reals d'aquesta edició, si existeixen.** **La
+- ~~**L'ISBN i el dipòsit legal reals d'aquesta edició, si existeixen.** **La
   pàgina de crèdits no en té**, i **el corpus no ha comprovat si figura a cap
-  registre bibliogràfic.** `Requereix la Biblioteca Nacional d'Andorra.`
+  registre bibliogràfic.** `Requereix la Biblioteca Nacional d'Andorra.`~~ — **`parcial` el 2026-09-21**: el [portal oficial de l'edició](../../../fonts/spl-coneixements-usos-linguistics-2018.md) repeteix **ISBN `978-99920-0-000-0`** i **dipòsit legal `AND. 000-2019`**, però el PDF els imprimeix en vermell com a camps sense omplir i el patró de zeros no permet tractar-los com a identificadors reals. No s'ha trobat un registre bibliogràfic alternatiu.
 - ~~**Per què el gràfic de l'indicador no dibuixa el creuament del 2018**~~ —
   **`resolt` quant al fet el 18-09-2026**: **el gràfic està equivocat i el text
   té raó**, comprovat contra les divisions 1971 i 1972 de l'API d'Estadística

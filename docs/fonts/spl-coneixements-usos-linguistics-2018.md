@@ -6,12 +6,13 @@ titular: Govern d'Andorra · Servei de Política Lingüística (encàrrec i edic
 url: https://www.govern.ad/documents/d/guest/coneixements_i_usos_llengua_2018?download=true
 llicencia: drets reservats; cap llicència declarada al document ni al portal
 redistribucio: "no"
-data_consulta: 2026-09-13
+data_consulta: 2026-09-21
 abast: 44 pàgines, llegides senceres el 15-09-2026. Crèdits, presentació, introducció, perfil sociodemogràfic, llengua materna i pròpia, coneixements, indicador lingüístic, actituds, conclusions, fitxa tècnica i annex d'assalariats per sector, destil·lats. Els gràfics apilats per situació socioeconòmica (pp. 15-31) no s'han transcrit valor a valor.
 notes: >
   Sisena onada. Publicada el 2019 amb el dipòsit legal i l'ISBN sense omplir,
   impresos en vermell a la pàgina de crèdits com a AND. 000-2019 i
-  978-99920-0-000-0; no es pot citar per cap dels dos. Treball de camp del 19 de
+  978-99920-0-000-0. El portal oficial repeteix aquests dos valors com a
+  metadades, però el patró de zeros confirma que no són identificadors reals. Treball de camp del 19 de
   setembre al 19 d'octubre del 2018; 742 persones; marge +/- 3,65% per a
   P=Q=50% i probabilitat del 95,5%. Primera onada amb el marc de tots els
   telèfons possibles del país i no la guia. Cap text no entra en cap dataset i
@@ -31,8 +32,8 @@ tags: [font, llengua, sociolinguistica, enquesta, metodologia, drets-reservats]
 
 | | |
 |---|---|
-| **ISBN** | **`978-99920-0-000-0`** — **plantilla sense omplir** |
-| **Dipòsit legal** | **`AND. 000-2019`** — **plantilla sense omplir** |
+| **ISBN** | **`978-99920-0-000-0`** — valor que el portal oficial repeteix, però **plantilla sense omplir** |
+| **Dipòsit legal** | **`AND. 000-2019`** — valor que el portal oficial repeteix, però **plantilla sense omplir** |
 | **Pàgines** | **44** |
 | **Impressió** | Impremta Solber |
 | **Presentació signada per** | **Sílvia Riva González, ministra de Cultura i Esports** |
