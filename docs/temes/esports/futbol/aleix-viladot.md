@@ -64,7 +64,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
 > quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
 
-- **Per què va anar als Estats Units** i amb quina beca.
+- ~~**Per què va anar als Estats Units** i amb quina beca.~~ — **`parcial`**: [El Periòdic d'Andorra (7 de maig de 2019)](../../../raw/web/esport/futbol/aleix-viladot/periodic-viladot-lakeland-2019.html) recull que va enviar els seus vídeos al Lakeland Tropics, que buscava una lliga competitiva i que hi volia agafar experiència; també documenta el retorn posterior al Marshalltown Community College. La peça no documenta cap beca ni el motiu complet d'anar al sistema universitari dels Estats Units.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
