@@ -330,8 +330,8 @@ tres.**
    particulars interessos»**, perquè **cobrava per declaració**. `La xifra del
    títol —una vegada de cada tres— segueix sense sèrie que la comprovi: el
    Politar dona el deure, no el recompte.`
-9. **Si les clàusules d'arbitratge familiar es van arribar a declarar nul·les mai.**
-   **La font dubta que siguin fonamentades en dret i no cita cap anul·lació.**
+9. ~~**Si les clàusules d'arbitratge familiar es van arribar a declarar nul·les mai.**
+   **La font dubta que siguin fonamentades en dret i no cita cap anul·lació.**~~ — **`parcial` el 21-09-2026**: la font qüestiona que aquestes clàusules tinguin fonament jurídic i no aporta cap cas d'anul·lació; el corpus no té encara una sentència o resolució que permeti saber si se'n va declarar alguna nul·la.
 
 ## Related
 
