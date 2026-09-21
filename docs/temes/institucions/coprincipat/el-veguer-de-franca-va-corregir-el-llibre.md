@@ -291,8 +291,12 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    episodis concrets continuen oberts.**
 7. **Si l'obligació de tenir fusell i municions constava en algun text**, o **era
    consuetudinària.**
-8. **Si algun veguer va refusar mai una primera llista de sis**, i **què va passar
-   amb la segona.**
+8. ~~**Si algun veguer va refusar mai una primera llista de sis**, i **què va
+   passar amb la segona.**~~ — **`parcial` el 2026-09-21**: el text fixa el
+   procediment: el veguer pot refusar la primera llista sencera, l’assemblea ha
+   de presentar-ne una segona de sis noms i ell està obligat a triar-ne un. **El
+   corpus encara no conserva cap cas nominal que provi l’exercici del veto ni el
+   resultat d’una segona llista.**
 9. ~~**Charles Romeu**: **veguer francès des del 1887**. **El corpus el registra
    com a càrrec en exercici**, i **no en té res més.**~~ — **`parcial` el
    18-09-2026**: **Charles Jean-Baptiste Marie Joseph Romeu**, nascut a
