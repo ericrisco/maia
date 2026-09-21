@@ -249,10 +249,10 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
 
 ## Buits registrats
 
-1. **L'original, o la còpia del Cartulari V, f. 493 de l'Arxiu Capitular
-   d'Urgell.** **El corpus té una transcripció d'una transcripció**: Ríos Urruti
-   *apud* **Baudon de Mony**. `Requereix l'edició de Baudon de Mony, que aquest
-   corpus ja té registrada com a cap de sèrie prioritari i no ha obert mai.`
+1. ~~**L'original, o la còpia del Cartulari V, f. 493 de l'Arxiu Capitular
+   d'Urgell.**~~ — **`parcial` el 21-09-2026**: l'edició local de Ríos Urruti
+   identifica explícitament la peça com a **«Còpia. Arxiu Capitular d'Urgell,
+   Cartulari V, f. 493, *apud* Baudon de Mony»** ([font i transcripció local](../../../fonts/rios-urruti-andorra-1920.md)). Això fixa la cadena de transmissió i la referència del foli, però **el corpus encara no té ni la còpia del cartulari ni l'edició de Baudon de Mony per col·lacionar-les**.
 2. ~~**L'any de la datació.**~~ — **`parcial` el 20-09-2026**: l'encapçalament
    de l'editor dona **1133** i la clàusula «*VI Kalendas februarii*» fixa el **27
    de gener**. La [síntesi d'actes del Consell General](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)
