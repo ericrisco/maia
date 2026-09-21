@@ -120,7 +120,7 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    **Llei 14/2021**, 74 articles, en text consolidat — i hi diu una cosa que el
    corpus buscava per una altra banda: els notaris donen fe «amb subjecció a les
    lleis... **i, subsidiàriament, d'acord amb el costum**».
-2. **El text del segon Pareatge** en la part que regula el notariat.
+2. ~~**El text del segon Pareatge** en la part que regula el notariat.~~ — **`parcial` el 21-09-2026**: la legislació notarial de 1996 en fa arrencar la figura i una concòrdia de **1347** en cita la competència dels dos senyors per constituir i destituir el notari de la Cúria, però el corpus encara no té el text íntegre del segon Pareatge.
 3. ~~**Quants notaris** hi ha hagut i hi ha a Andorra.~~ **TANCAT en sèrie:**
    **un de sol** durant segles, **quatre el 1904** —«c'est beaucoup trop», deia
    Brutails— i, des del **2021**, **mínim quatre i màxim un per cada deu mil
