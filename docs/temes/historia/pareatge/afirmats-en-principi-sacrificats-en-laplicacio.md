@@ -246,9 +246,9 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    que el resum de l'autor deixava fora les clàusules contra el precedent, la
    prohibició d'emprar els andorrans l'un contra l'altre, i les exclusions
    nominals.**
-2. **Què era el «sou de Meigniel»** en què es taxa el topall de 4.000 de la talla
-   episcopal. **El corpus no té aquesta moneda.** `Requereix numismàtica o una
-   taula de canvi medieval.`
+2. ~~**Què era el «sou de Meigniel»** en què es taxa el topall de 4.000 de la talla
+   episcopal.~~ — **`font_externa` el 2026-09-22**: **el corpus no té la moneda ni
+   una equivalència fiable**. **Cal numismàtica o una taula de canvi medieval.**
 3. **La protesta anticipada del bisbe del 31 de maig de 1277**, durant el setge
    d'Urgell. **Citada per Trias, represa per Vilar, i no vista.**
 4. ~~**L'obra de Joan de Déu Trias.**~~ — **`resolt` com a duplicat el

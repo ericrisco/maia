@@ -131,8 +131,10 @@ capçalera i article únic del decret, p. 1.)
   19-09-2026**: falta verificar exhaustivament modificacions posteriors,
   revisions cartogràfiques i normativa urbanística relacionada; la cerca no
   acredita que no n'hi hagi.
-- No s'han consultat els polígons reglamentaris, el Cadastre ni un PIDA
-  d'estació. No s'assigna cap classificació a una parcel·la o instal·lació.
+- ~~**Els polígons reglamentaris, el Cadastre i un PIDA d'estació.**~~ —
+  **`font_externa` el 2026-09-22**: **la fitxa no ha consultat aquestes peces i
+  no assigna cap classificació a una parcel·la o instal·lació**. **Cal incorporar
+  la cartografia i el PIDA per fer una assignació concreta.**
 - ~~**Buit de 2012**~~ — **`resolt` el 18-09-2026**: decret llegit complet a les p.3938–3939
    i contrastat amb els dos renders. L'estudi i els mapes aprovats
   continuen pendents de consulta. La data original confirma l'any

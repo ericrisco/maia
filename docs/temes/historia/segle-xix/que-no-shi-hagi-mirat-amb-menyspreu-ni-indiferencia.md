@@ -486,9 +486,10 @@ el sufragi**, que ja era dels caps de casa.
    continua obert quin acte o esdeveniment correspon al 31 de maig.
 5. **Quina era l'«edat de jubilació»** a Andorra el 1866. **La llei no la diu.**
    **Seixanta és de dues fonts franceses de 1904.**
-6. **Si el requisit de conducta de l'article 1r es va aplicar mai a algú**, i amb
-   quin resultat. **`Requereix actes comunals`**, i **aquest corpus no cita noms de
-   particulars.** **El que es pot buscar és la decisió, no qui la va patir.**
+6. ~~**Si el requisit de conducta de l'article 1r es va aplicar mai a algú**, i
+   amb quin resultat.~~ — **`font_externa` el 2026-09-22**: **la llei fixa el
+   requisit, però la fitxa no té cap acta comunal que documenti una aplicació**.
+   **Cal buscar la decisió, sense identificar particulars.**
 7. ~~**Quantes visures es van fallar, i si cap va arribar a tercera instància.**~~ —
    **`parcial` el 2026-09-21**: l’article **13 de la Reforma de 1866** ja fixa
    les **tres instàncies** —dos cònsols i dos consellers; els deu cònsols de les
