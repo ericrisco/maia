@@ -337,12 +337,16 @@ s'arbitra.**
   ([lectura](./el-diposit-legal-daquesta-edicio-es-and-000-2019.md)).
   **Amb ella, les quatre edicions de l'enquesta que penja el portal estan
   obertes.**
-- **Per què el valor del 2004 passa de 48,5 a 48,6 el 2016.** **La dècima té
-  edició i pàgina; no té explicació.** Cap edició no ho comenta.
+- ~~**Per què el valor del 2004 passa de 48,5 a 48,6 el 2016.**~~ —
+  **`parcial` el 22-09-2026**: la dècima queda situada a l'edició i la pàgina
+  exactes —el gràfic de 2016 ja imprimeix **48,6**—, però cap edició no explica
+  per què canvia respecte del **48,5** de 2011.
 - ~~**El total d'assalariats i els disset sectors de la sèrie.**~~ — **`parcial` el 21-09-2026**: l'annex conserva els totals i la desagregació sectorial fins al **2013**, però el corpus no té la font original del Departament d'Estadística ni el desglossament per nacionalitat.
-- **La base de la pregunta del canvi de llengua a les onades del 2018 i del
-  2022.** **Cap de les dues no la imprimeix**, i la hipòtesi d'aquesta fitxa
-  **es podria confirmar o desmentir amb una sola línia** d'aquells documents.
+- ~~**La base de la pregunta del canvi de llengua a les onades del 2018 i del
+  2022.**~~ — **`parcial` el 22-09-2026**: cap de les dues edicions no
+  imprimeix la base; la fitxa només pot conservar com a **hipòtesi** que les
+  quatre accions es calculen sobre el subgrup que s'adreça en català, sostinguda
+  per la base explícita de l'edició de 2009.
 - ~~**L'informe exhaustiu de `www.catala.ad`**, que aquesta edició **ja no
   esmenta** —les del 2009 i del 2022 sí. **No consta si va deixar
   d'existir.**~~ — **`resolt` el 18-09-2026**: **sí, va deixar d'existir
@@ -351,11 +355,15 @@ s'arbitra.**
   domini redirigeix a la pàgina general de Llengua del Govern**
   ([font](../../../fonts/wayback-catala-ad.md)). **L'informe en si no
   s'ha recuperat.**
-- **El qüestionari del 2014**, i **quines preguntes noves va portar l'àmbit dels
-  companys d'estudis.**
-- **Les dades de llengua materna per anys de residència de les onades anteriors
-  al 2009.** El gràfic només té dues columnes. **Sense 1995, 1999 i 2004 no se
-  sap si el 64 % del 2014 és excepcional o si el segment ja havia oscil·lat.**
+- ~~**El qüestionari del 2014**, i **quines preguntes noves va portar l'àmbit
+  dels companys d'estudis.**~~ — **`font_externa`**, confirmat el 22-09-2026:
+  l'edició llegida reprodueix els resultats i descriu l'àmbit nou, però no
+  incorpora el qüestionari ni la formulació de les preguntes.
+- ~~**Les dades de llengua materna per anys de residència de les onades anteriors
+  al 2009.**~~ — **`font_externa`**, confirmat el 22-09-2026: el gràfic de
+  l'edició 2014 només dona les columnes de **2009** i **2014**; cal consultar
+  les tres edicions anteriors per saber si el **64 %** és excepcional o si el
+  segment ja havia oscil·lat.
 - **Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
   en cap dataset** i el PDF **no es versiona**. **`no-es-buit`**: és un avís de
   drets, no una pregunta de recerca.
