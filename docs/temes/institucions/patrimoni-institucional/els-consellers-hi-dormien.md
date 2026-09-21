@@ -174,8 +174,12 @@ conegut… en lo temps antich per los noms de **Bajulus, Vicarius o Veguer***.*�
 
 ## Buits registrats
 
-1. **Què és la data de 1580 del portal de la Casa de la Vall.** **La font ho dona
-   com a hipòtesi.** **Nou.**
+1. ~~**Què és la data de 1580 del portal de la Casa de la Vall.** **La font ho dona
+   com a hipòtesi.** **Nou.**~~ — **`parcial` el 21-09-2026**: el testimoni de
+   **1918** la llegeix al portal i diu que és **«tal vegada la de l’erecció»**;
+   la fitxa de [la Casa de la Vall](./casa-de-la-vall.md) ja fixa l’edifici com a
+   del **segle XVI** i conserva aquesta hipòtesi. **No hi ha encara un document
+   que provi que 1580 sigui l’any exacte de construcció.**
 2. ~~**Des de quan i fins quan els consellers s'allotjaven a la Casa de la Vall**,
    i **què costava al Consell.**~~ — **`parcial` el 21-09-2026**: el testimoni
    de **1918** explica que els consellers s’hi allotjaven mentre acudien a
