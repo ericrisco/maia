@@ -275,8 +275,13 @@ Deducció de Mas: **les compraven per revendre**.
    declarada per la mateixa font i el corpus només pot conservar els exemples
    documentats.
 4. ~~**La Sentència de manutenció (c. 1731)**: el corpus no n'ha vist el text.~~ — **`parcial` el 19-09-2026**: David Mas la data cap al **1731**, després de tres anys de negociació, i en resumeix el règim: **el bestiar francès pagava el 10% i l'andorrà n'estava exempt**, amb mesures de control ([font](../../../fonts/mas-relacions-comercials-1994.md)). **El text original continua sense localitzar-se.** Vegeu [la revolta del tabac](../tabac/la-revolta-del-tabac-de-1733.md).
-5. **Què passa entre el 1800 i el 1895**, que és on comença la primera
-   fotografia completa que té el corpus.
+5. ~~**Què passa entre el 1800 i el 1895**, que és on comença la primera
+   fotografia completa que té el corpus.~~ — **`parcial`**: les fitxes del corpus
+   ja fixen un **acord comercial francès de 1867**, la reacció aranzelària
+   espanyola de **1886–1887** i el conflicte duaner de **1894–1895** ([la
+   qüestió duanera de 1895](../../historia/segle-xix/la-questio-duanera-de-1895.md),
+   [el desenllaç](../../historia/segle-xix/el-desenllac-de-la-questio-duanera.md)).
+   El tram **1800–1866** i una sèrie comercial contínua encara no hi són.
 6. ~~**L'equivalència de les monedes** (lliures, sous) amb alguna magnitud
    comparable moderna.~~
    **`resolt` — 2026-09-13, sense cap font nova**: ja era al corpus, i
