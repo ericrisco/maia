@@ -261,8 +261,15 @@ resol: l'evita.**
   sumen 83,6 i el quart no hi és.~~ — **`no-es-buit` el 20-09-2026**: la
   taula publica només les tres categories identificades i deixa el **16,4 %**
   sense atribució; el corpus no pot reconstruir-ne l'origen.
-- **Com un fill de pares portuguesos arriba a «nascut andorrà» el 2007**, amb una
-  immigració recent i la nacionalitat als divuit anys.
+- ~~**Com un fill de pares portuguesos arriba a «nascut andorrà» el 2007**, amb una
+  immigració recent i la nacionalitat als divuit anys.~~ — **`parcial` el
+  21-09-2026**: el Cens Comunal del 2007 separa la categoria **«nascuts
+  andorrans»** de la nacionalitat dels pares i hi compta **1.680 persones amb
+  origen parental portuguès** (31,2% dels 5.384 nascuts andorrans) ([els nats a
+  Andorra](../../societat/immigracio/els-nats-a-andorra.md)). Això confirma que
+  naixement al país i nacionalitat dels pares són variables diferents; encara
+  falta el criteri jurídic i censal exacte que assigna cada cas a «nascut
+  andorrà» el 2007.
 - ~~**Les dades de matrimonis mixtos**, que segons les autores **no existeixen**.~~
   — **`no-es-buit` el 2026-09-20**: l'estudi declara «**no disposem de dades
   sobre el nombre de matrimonis mixtos**» i només en dedueix situacions a partir
