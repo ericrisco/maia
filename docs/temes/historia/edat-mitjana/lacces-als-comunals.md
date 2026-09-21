@@ -229,7 +229,11 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
 
 ## Buits registrats
 
-1. Les **ordinacions senceres**, en text.
+1. ~~Les **ordinacions senceres**, en text.~~ — **`parcial` el 21-09-2026**: la
+   fitxa ja conserva fragments dels capítols sobre jagudes, someres, bous,
+   averies i bans, amb les sancions i els terminis que s'hi llegeixen. El text
+   íntegre de les ordinacions i la seva unitat documental encara no són al
+   corpus.
  2. ~~**Quant valia un sou el segle XV**~~ — **`parcial` el 13-09-2026**: sense
     aquesta conversió, «cinc sous de ban» no es pot avaluar. **La conversió ja era al corpus i aquesta fitxa
    no hi anava.** Brutails la publica a l'apèndix del primer capítol de *La
