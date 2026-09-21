@@ -202,9 +202,8 @@ i cadascuna té un autor que responia a una pregunta diferent.
   d'aquesta taula— **però situa l'interès amb què es recompta.**
   *(Font: `docs/raw/web/historia/viqui-fernando_de_los_rios.txt`, baixada el
   18-09-2026 de la [Viquipèdia](../../../fonts/viquipedia-ca.md).)*
-- **Moreno**, la font del 4.142 del 1930: **qui era i què va publicar.** **El
-  corpus només el té per citació de Tarrene** i **no en té ni el nom de pila.**
-  `font_externa`
+- ~~**Moreno**, la font del 4.142 del 1930: **qui era i què va publicar.** **El
+  corpus només el té per citació de Tarrene** i **no en té ni el nom de pila.**~~ — **`parcial` el 21-09-2026**: la taula conserva **Moreno** com l'autor de la xifra de **4.142 habitants el 1930** i n'identifica la cadena de citació a través de Tarrene, però no el nom complet ni la publicació original.
 - ~~**L'obra de Combarnou**, amb títol i any.~~ — **`resolt` el 2026-09-20**:
   la bibliografia local dona **Gaston de Combarnous, *Les vallées d'Andorre.
   Voyage aux états Lilliputiens*, Montpellier, **Les Chênes Vertes, 1933**

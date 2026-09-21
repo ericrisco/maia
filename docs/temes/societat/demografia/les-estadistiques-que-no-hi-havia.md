@@ -213,7 +213,7 @@ altre abans.**
    població de l'API](../../../raw/estadistica-api/poblacio/README.md) només
    cobreix el total **2009–2025** i les sèries per poble **2010–2025**; la
    sèrie històrica del *Recull* des de 1979 encara no és al corpus.
-3. **Les sèries del servei d'ordre des del 1947**: on són.
+3. ~~**Les sèries del servei d'ordre des del 1947**: on són.~~ — **`parcial` el 21-09-2026**: Lluelles situa l'inici de les primeres sèries cronològiques el **1947** i les atribueix al **servei d'ordre**, però el corpus no ha localitzat els quaderns ni el fons que les conserva.
 4. ~~**Els registres parroquials** de naixements i defuncions, que van fer de
    registre civil fins al 1997: **on es conserven i si són consultables**.~~
    **`parcial` el 21-09-2026**: [La Inquisició a Andorra](../../costums/religiositat/la-inquisicio-a-andorra.md)
