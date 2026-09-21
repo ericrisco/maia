@@ -302,34 +302,37 @@ dues.**
 
 ## Buits registrats
 
-1. **Les xifres de la llegítima del contracte de 1874**, que **tal com estan
-   impreses donen a cada filla 600 ll. paternes i 150 maternes, i a cada fill 150
-   i 50** —**és a dir 750 contra 200, tres vegades i tres quartes parts més per a
-   les filles**. **El corpus registra la xifra impresa i declara que no la pot
-   verificar**: **podria ser un error de lectura de l'original.** `Requereix font
-   externa: el facsímil de la pàgina 124.` — **Actualitzat el 2026-09-18: la direcció
-   queda corroborada.** **El contracte del 17 de febrer de 1697 fixa 25 lliures per
-   a cada fill i 50 per a cada filla** ([els néts abans que el
-   fill](./els-nets-abans-que-el-fill.md)): **dues peces independents, dos segles
-   de distància, i a totes dues les filles reben més que els fills.** **El corpus
-   deixa d'insinuar que 1874 sigui un error de lectura i manté obert l'ordre de
-   magnitud**, que segueix sent molt més gran que el de 1697. **I la raó consta
-   des del 2026-09-18**: **la llegítima «és més alta en general per a les filles,
-   que s'han de dotar»** ([la suma sacramental de cinc
-   sous](./la-suma-sacramental-de-cinc-sous.md)). **Queda obert només l'ordre de
-   magnitud.**
-2. **La sentència sobre el dot de les dues germanes**: **sense data ni
-   referència.**
-3. **Si la hipoteca dotal era legal o només d'estil.** **La font ho infereix i no
-   ho resol.**
-4. **Quantes *tenutes* convencionals es van pactar**, i **si alguna es va
-   executar.**
-5. **Què era «l'opció dotal»** a Andorra, i **si hi existia com a tal**. La font la
-   nega a l'*exovar* **«si més no en dret català»** i **no diu què passava aquí.**
-6. **Si el compte «desde lo combregar» es feia servir sovint** o **només en el cas
-   de 1864.**
-7. **L'inventari de béns dotals de 1785**, sencer, i **si l'obligació de fer-lo en
-   dos mesos era de contracte o de costum.**
+1. ~~**Les xifres de la llegítima del contracte de 1874**...~~ — **`parcial` el
+   2026-09-21**: la peça conserva la distribució impresa de **750 lliures per
+   filla contra 200 per fill**, i un contracte de **1697** confirma la mateixa
+   direcció, però l'ordre de magnitud de 1874 encara no s'ha comprovat amb el
+   facsímil ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+2. ~~**La sentència sobre el dot de les dues germanes**.~~ — **`parcial` el
+   2026-09-21**: la font confirma que el batlle va rebutjar que el precedent d'una
+   germana fixés el dot de l'altra i va deixar oberta la via del complement de
+   llegítima, però no en dona data ni referència ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+3. ~~**Si la hipoteca dotal era legal o només d'estil.**~~ — **`parcial` el
+   2026-09-21**: Brutails en diu alhora una figura que considera probablement
+   legal i una pràctica «de estil» amb prou força perquè els esposos demanessin
+   autorització del batlle; no aporta la norma decisiva ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+4. ~~**Quantes *tenutes* convencionals es van pactar**, i **si alguna es va
+   executar.**~~ — **`parcial` el 2026-09-21**: la font descriu la *tenuta*
+   convencional i documenta una **agraduació de 1785** que posa el dot en rang
+   preferent i un cas de **1784** amb possessió del reclamant, però no dona el
+   recompte complet ni una sèrie d'execucions ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+5. ~~**Què era «l'opció dotal»** a Andorra, i **si hi existia com a tal**.~~ —
+   **`parcial` el 2026-09-21**: Brutails explica que l'*exovar* no gaudia, «si més
+   no en dret català», de l'opció dotal ni de la *tenuta*, però no resol si la
+   figura existia en el dret andorrà ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+6. ~~**Si el compte «desde lo combregar» es feia servir sovint** o **només en el
+   cas de 1864.**~~ — **`parcial` el 2026-09-21**: la font descriu el costum de
+   comptar les despeses de la darrera malaltia des del viàtic i en dona un procés
+   datat el **12 de setembre de 1864**, però no en mesura la freqüència ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
+7. ~~**L'inventari de béns dotals de 1785**, sencer, i **si l'obligació de fer-lo en
+   dos mesos era de contracte o de costum.**~~ — **`parcial` el 2026-09-21**: la
+   font identifica l'inventari del **26 d'octubre de 1785**, l'obligació de fer-lo
+   en dos mesos i la valoració d'alguns immobles, però no en conserva el text
+   íntegre ni permet saber si el termini era costum general ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
 8. ~~**Els *pro-parents***, que [el dot](./el-dot.md) declarava i **aquesta font no
    esmenta.**~~ — **`no-es-buit` el 19-09-2026: l'avís constata una omissió
    d'aquesta font, no una pregunta sobre el món; el concepte ja és documentat a
