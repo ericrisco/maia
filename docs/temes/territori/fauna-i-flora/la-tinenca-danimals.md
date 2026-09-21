@@ -148,7 +148,7 @@ multes de **60–300 €**, **300,01–3.000 €** i **3.000,01–9.000 €**, r
   distribueixen en els tres trams d'infracció dels articles 38–39. Aquest
   tancament descriu el règim legal, no el nombre d'expedients ni d'autoritzacions
   efectivament tramitats.
-- **Quantes autoritzacions d'entrada i sortida es donen**, no consta.
+- ~~**Quantes autoritzacions d'entrada i sortida es donen**, no consta.~~ — **`parcial` el 21-09-2026**: el [Govern](../../../raw/web/territori/fauna-flora/autoritzacions/README.md) publica una mitjana aproximada de **450 certificats anuals** en els cinc anys previs a la digitalització del tràmit, sobretot d’importacions de productes d’origen animal. No hi ha una sèrie anual ni un desglossament complet d’autoritzacions d’entrada i sortida.
 - ~~**Si hi ha obligació d'identificació i registre** dels animals de companyia
   —xip, cens comunal— no s'ha comprovat en el que s'ha llegit.~~ — **`parcial` el
   18-09-2026, per l'altra banda**: **el registre existeix i es publica**. L'API
