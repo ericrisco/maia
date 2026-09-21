@@ -239,10 +239,14 @@ bruixeria*»**, **amb el compte de despeses del juny de 1604**
 
 ## Buits registrats
 
-1. **El document del 4 de juny de 1516** sencer: **on és, qui eren els elegits
+1. ~~**El document del 4 de juny de 1516** sencer: **on és, qui eren els elegits
    per jutjar, quantes persones eren, i si n'hi ha més casos.** **Prioritari**:
    **és una cessió de jurisdicció criminal a una assemblea popular, i el corpus no
-   en té cap altra.**
+   en té cap altra.**~~ — **`parcial` el 22-09-2026**: la fitxa conserva la data,
+   els magistrats que cedeixen la jurisdicció —**Girvasi de Lordat** i **Damià
+   Simon**—, les quatre dones i el resultat —condemna a mort a la foguera—;
+   **l'exemplar, els noms de les persones elegides, el nombre exacte i altres
+   casos no hi consten**.
 2. ~~**Com es concilia aquest cas de 1516 amb la tesi de la mateixa font** que la
    campanya contra dones acusades de bruixeria **va succeir** la supressió del
    Sant Ofici.~~ — **`parcial` el 2026-09-20**: el corpus conserva la
@@ -281,20 +285,37 @@ bruixeria*»**, **amb el compte de despeses del juny de 1604**
    **La mateixa pàgina confirma el termini de tretze dies —«10 de justicia y 3 de
    gracia»— amb la reserva de l'autor**: **«si no me enganyo»**, i **«los que he
    vist obcervar en les Valls de Andorra»**.
-5. **Quins prelats van venir en persona a tenir les Corts**, **i què canviava
-   quan hi eren.** **La font diu que ho ignora.**
-6. **La resposta del Bisbe a la invitació del 28 de maig de 1869**, si n'hi va
-   haver.
-7. **El dossier del segle XIX** de les 100 pessetes: **data, parts i quin veguer.**
-   **La font el va tenir a les mans i no el cita.**
-8. **El cas de 1882**: **si l'arrest «prop de la creu» era una pena tipificada**,
+5. ~~**Quins prelats van venir en persona a tenir les Corts**, **i què canviava
+   quan hi eren.** **La font diu que ho ignora.**~~ — **`parcial` el 22-09-2026**:
+   la font confirma que **certs prelats** havien exercit aquesta prerrogativa i
+   que el Consell encara els hi convidava el **1869**; **no en dona els noms ni
+   explica quines modificacions produïa la seva presència**.
+6. ~~**La resposta del Bisbe a la invitació del 28 de maig de 1869**, si n'hi va
+   haver.~~ — **`parcial` el 22-09-2026**: queda documentada la invitació perquè
+   el bisbe concorregués a les Corts o hi delegués formalment; **la fitxa i la
+   font llegida no conserven cap resposta**.
+7. ~~**El dossier del segle XIX** de les 100 pessetes: **data, parts i quin veguer.**
+   **La font el va tenir a les mans i no el cita.**~~ — **`parcial` el 22-09-2026**:
+   la font descriu un afer remès als batlles en què **un veguer no francès** cobra
+   **50 pessetes per examinar el dossier i 50 per redactar la sentència**;
+   **no en dona data, parts ni nom**.
+8. ~~**El cas de 1882**: **si l'arrest «prop de la creu» era una pena tipificada**,
    **i què vol dir exactament.** **El corpus no té aquesta pena documentada en
-   cap altra font.**
-9. **Els registres de les Corts** amb les *mostres* escrites pels batlles.
+   cap altra font.**~~ — **`parcial` el 22-09-2026**: la fitxa conserva la
+   seqüència —**vuit hores d'arrest**, rebel·lió i fugides, i després **un dia
+   d'arrest prop de la creu, a la plaça**—; **no pot establir si era una pena
+   tipificada ni quin règim material tenia**.
+9. ~~**Els registres de les Corts** amb les *mostres* escrites pels batlles.
    **Segona tanda que el corpus reclama documents comptables o registrals de les
-   Corts i no en té cap.**
-10. **La carta de Catalán de Ocón**, ara que se sap que sí que conté almenys una
-    disposició precisa. `Requereix font externa: arxiu del bisbat d'Urgell.`
+   Corts i no en té cap.**~~ — **`parcial` el 22-09-2026**: la font conserva que
+   els batlles redactaven **requisitòries o *mostres*** al registre de les Corts
+   i que el tribunal hi decidia; **no s'ha consultat cap registre**.
+10. ~~**La carta de Catalán de Ocón**, ara que se sap que sí que conté almenys una
+    disposició precisa. `Requereix font externa: arxiu del bisbat d'Urgell.`~~ —
+    **`parcial` el 22-09-2026**: la fitxa ja en conserva la disposició precisa —
+    **les funcions de procurador fiscal no es poden confiar als *rahonadors***—;
+    **la carta sencera i la seva signatura continuen pendents de l'arxiu del
+    Bisbat d'Urgell**.
 
 ## Related
 
