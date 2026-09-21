@@ -355,13 +355,19 @@ d'Andorre*, de **J.-A. Brutails** (1904), amb les notes
    > dins del text, **«Vostra Magnificència»** —**«per ocupar un puesto de molta
    > dignitat y alta esfera, poch inferior a la dignitat o esfera dels
    > Veguers»**.
-7. **Si els *pobres de solemnitat* van estar mai exempts de costes a Andorra.**
-   **La font els nomena i diu que paguen.**
+7. ~~**Si els *pobres de solemnitat* van estar mai exempts de costes a Andorra.**~~ —
+   **`parcial` el 2026-09-22**: la font de **1904** els nomena i diu que **no
+   quedaven exempts de costes**; el corpus no té una font anterior que permeti
+   saber si en algun període ho havien estat.
 8. **Les *Constitucions*, VII, vi, 1 i 2, pp. 413-414**, que la font invoca per a
    *la justicia*, **i IV, x, pp. 296 i següents**, per a *dietes*.
 9. ~~**La sentència del 19 d'octubre de 1875** d'una comissió del Consell General entre els *quarts* de la Cortinada i d'Ansalonga, que condemna a pagar «*l'onsa que lo de Ansalonga depositá per fer celebrar Consell general*» i **10 duros 1 ral** de despeses.~~ — **`resolt` com a duplicat el 2026-09-19**: l'enunciat canònic i l'estat **`parcial`** són a [la sentència i el seu desenllaç](../../territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md); aquesta fitxa conserva la qüestió institucional, però no hi afegeix cap font ni dada.
-10. **Quant valia el terç de *la justicia* en casos reals.** **El corpus té la
-    proporció i cap liquidació.**
+10. ~~**Quant valia el terç de *la justicia* en casos reals.**~~ — **`parcial` el
+    2026-09-22**: [Una vegada de cada tres](./una-vegada-de-cada-tres.md) confirma
+    que els emoluments civils del jutge podien arribar a **un terç de l'objecte
+    del litigi**, i contrasta aquesta proporció amb les percepcions del 10 % del
+    1904 i de 1890. **Encara no hi ha cap liquidació d'un cas concret que permeti
+    convertir el terç en una quantitat.**
 
 ## Related
 
