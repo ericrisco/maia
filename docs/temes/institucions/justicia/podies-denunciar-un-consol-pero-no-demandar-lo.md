@@ -267,9 +267,13 @@ qualsevol plet comunal.**
    > **Això no explica del tot per què es podia denunciar un cònsol i no
    > demandar-lo, però hi posa la regla general de la qual la immunitat del
    > cònsol és un cas.**
-3. **El decret del Consell del 12 de maig de 1866**, sencer, i **fins quan va
+3. ~~**El decret del Consell del 12 de maig de 1866**, sencer, i **fins quan va
    regir la facultat dels cònsols de detenir «*sens recorrer a la Justicia*»**.
-   **Prioritari.**
+   **Prioritari.**~~ — **`parcial` el 2026-09-21**: la fitxa reprodueix sencer el
+   decret, que autoritza els cònsols a capturar amb ferros o arrest els qui facin
+   mal voluntàriament al bestiar o robin llenya i a retenir-los «lo temps que be
+   los apereguie», sense recórrer a la Justícia. **No consta fins quan va regir ni
+   si mai es va discutir.**
 4. ~~**Els decrets del 12 de setembre de 1895 i del 19 de maig de 1900.**~~ —
    **`parcial` el 18-09-2026**: **l'article 16 de la Reforma de 1866** és la
    norma que hi ha darrere del títol i el corpus la té literal des del 15 de
