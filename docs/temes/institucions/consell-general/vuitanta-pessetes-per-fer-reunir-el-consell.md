@@ -479,8 +479,15 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
    dels privilegis i llibertats de les Valls ([acta de 1552](../../../raw/consell-general/actes-historiques/text/segle-xvi--1552-juliol-7-era-de-pal-ordino.txt)).
    La síntesi d'actes en dona la referència **ANA TCN 137, fols. 2v-3v**
    ([índex d'actes](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)).
-   **L'acte de 1649 i la identificació del col·legi de Foix, que és una pregunta
-   de Brutails, encara no tenen peça localitzada.**
+   **La nota 5 de Brutails afegeix dues peces que el corpus no tenia
+   identificades**: el **21 de maig de 1552**, tres procuradors per presentar un
+   candidat a la plaça reservada a un clergue andorrà al **col·legi de Foix** —la
+   nota hi posa «(?)»—, i el **24 de setembre de 1649**, quan els vint-i-quatre
+   cònsols i consellers nomenen **sis procuradors, un per parròquia**, «*sindicos,
+   promotores et actores*» ([font de Brutails](../../../raw/llibres/brutails-coutume.txt)).
+   **Això resol la identificació i el contingut resumit de les dues dates, però
+   no substitueix els originals ni resol l'interrogant del col·legi; el buit
+   queda `parcial`.**
 10. ~~**Quan van desaparèixer els comissionats**, si van desaparèixer.~~ —
     **`parcial` el 19-09-2026**: la font els descriu **«en vies de desaparició»**
     el 1904, però no dona l’any d’extinció ni confirma que desapareguessin.
