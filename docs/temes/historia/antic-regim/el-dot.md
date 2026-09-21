@@ -169,7 +169,12 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
 
 ## Buits registrats
 
-1. **Quan** desapareix el dot, com a costum i com a llei. **Cap data.**
+1. ~~**Quan** desapareix el dot, com a costum i com a llei.~~ — **`parcial` el
+   21-09-2026**: la font primària de **1904** encara descriu el dot com una
+   institució viva i la mateixa fitxa conserva contractes datats entre **1470 i
+   1875**. Això fixa que no havia desaparegut abans de 1904, però encara falten
+   la data en què deixà de practicar-se i la norma que en va eliminar
+   l'imperatiu legal.
 2. ~~**Quantitats reals** de dots documentats.~~ **TANCAT amb un cas datat**: un
    dot de **170 lliures barceloneses** amb un **creix de 25** (el **14,7 %**), el
    **4 d'abril de 1788**. Vegeu

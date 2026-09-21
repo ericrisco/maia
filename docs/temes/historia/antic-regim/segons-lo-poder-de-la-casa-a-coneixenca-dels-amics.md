@@ -284,7 +284,7 @@ dona és l'hereva, el dot el porta ell**.
 
 | Buit que declarava | Estat després d'aquesta unitat |
 |---|---|
-| **1. Quan desapareix el dot** | **obert** — la font no ho diu; **el que sí que consta és que el 1904 era plenament viu** |
+| **1. Quan desapareix el dot** | **`parcial`** — **el 1904 encara era plenament viu** i hi ha contractes datats fins al **1875**; falten la data de desaparició del costum i la de la reforma legal |
 | **2. Quantitats reals, «cal sèrie»** | **`parcial` fort** — **dotze dots datats de 1470 a 1875**, amb ràtios; **però la mostra és de la font, no del país** |
 | **3. Qui aportava què** | **`parcial`** — **cinc dels dotze els porta l'home**, i **la font en dona la regla**: **quan la dona és hereva, el dot és d'ell** |
 | **4. Com funcionava la hipoteca dotal; si es va executar mai** | **`parcial` fort** — **sí**: **24 de març de 1784**, el batlle **fa avaluar el dot d'una vídua i envia el reclamant en possessió**; i **el 10 de setembre de 1785** una *agraduació* posa el dot de la mare **al primer rang dels crèdits** |
