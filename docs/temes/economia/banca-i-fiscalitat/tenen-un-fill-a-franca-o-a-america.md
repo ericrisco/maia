@@ -249,7 +249,12 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    taxació prèvia**.~~ — **`parcial` el 18-09-2026**: **el corpus en té
    l'obligació de presentar anualment les minutes i sap que és sense efecte**;
    **la taxació prèvia i el text sencer encara falten**.
-3. **El decret del Consell General del 12 de desembre de 1888**, sencer.
+3. ~~**El decret del Consell General del 12 de desembre de 1888**, sencer.~~ —
+   **`parcial` el 2026-09-22**: la fitxa en conserva el fragment sobre les
+   finques adjudicades —«**Las fincas que han estat judicadas no ten lloch la
+   sesio de bents**»— i n'explica el context com a regla sobre la cessió de béns
+   ([la combinació que convertia la venda en un préstec](./tenen-un-fill-a-franca-o-a-america.md#la-combinacio-que-convertia-la-venda-en-un-prestec)).
+   **El decret complet i la resta del seu articulat encara no són al corpus.**
 4. ~~**Les peces justificatives p. XXXIX, p. XLI i p. XLIII.**~~ — **`resolt` el
    2026-09-19 amb una segona digitalització** ([exemplar d'Internet
    Archive](../../../fonts/brutails-coutume-ia.md)): ara les tres pàgines són
