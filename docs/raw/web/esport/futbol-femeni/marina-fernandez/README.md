@@ -4,6 +4,8 @@ source_url: https://en.wikipedia.org/wiki/Marina_Fern%C3%A9ndez_(footballer)
 retrieved: 2026-09-21
 ---
 
+# Marina Fernández — trajectòria de clubs i pas per l'AEM
+
 La fitxa web de trajectòria situa la seqüència **Pardinyes CF (2014–2016)**,
 **ENFAF (2017)**, **SE AEM (2017–2019)** i **ENFAF (des de 2019)**. La mateixa
 fitxa fa solapar ENFAF i AEM el 2017; no permet decidir si és una temporada
