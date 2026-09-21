@@ -267,8 +267,13 @@ Trias invoca.**
    tres fitxes** i **en té la bona en dues més**
    ([definir el costum és legislar](../../institucions/consell-general/definir-el-costum-es-legislar.md)).
    `Requereix el text; la referència ja no.`
-10. ***Étude critique sur les origines de la question d'Andorre***, de **Brutails**.
-    **Segona vegada que surt i segueix sense trobar-se.** **Prioritari.**
+10. ~~***Étude critique sur les origines de la question d'Andorre***, de **Brutails**.
+    **Segona vegada que surt i segueix sense trobar-se.** **Prioritari.**~~ —
+    **`parcial` el 2026-09-21**: la [fitxa de la font](../../../fonts/brutails-etude-origines-1891.md)
+    i el PDF digital de l'Université Bordeaux Montaigne identifiquen el fulletó
+    com una obra de **Jean-Auguste Brutails**, publicada a **Toulouse per E.
+    Privat el 1891**, de **39 pàgines**; el text ja es pot consultar, però encara
+    no se n'ha fet el buidatge al corpus.
 11. ~~**Els actes de sobirania de Carles el Calb del 860** sobre Andorra.~~ —
     **`parcial` el 2026-09-21**: la font els invoca com a actes de sobirania
     exercits el **860**, però no en dona cap referència ni text ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).

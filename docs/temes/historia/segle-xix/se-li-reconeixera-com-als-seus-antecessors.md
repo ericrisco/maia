@@ -239,11 +239,15 @@ corpus tingués aquest text.**
 
 ## Buits registrats
 
-1. **L'opuscle de Brutails, *Étude critique sur les origines de la question
+1. ~~**L'opuscle de Brutails, *Étude critique sur les origines de la question
    d'Andorre*** (Toulouse, Édouard Privat). **No és al corpus i no se n'ha vist
    cap exemplar.** **Prioritari**: és **l'obra de Brutails anterior a la que el
    corpus ha destil·lat sencera**, i **la font l'usa com a autoritat contra el
-   copríncep**.
+   copríncep**.~~ — **`parcial` el 2026-09-21**: la [fitxa de la font](../../../fonts/brutails-etude-origines-1891.md)
+   i el PDF digital de l'Université Bordeaux Montaigne identifiquen el fulletó
+   com una obra de **Jean-Auguste Brutails**, publicada a **Toulouse per E.
+   Privat el 1891**, de **39 pàgines**; el text ja es pot consultar, però encara
+   no se n'ha fet el buidatge al corpus.
 2. ~~**La data de la conversa de *La Vanguardia***.~~ — **`parcial` el
    2026-09-21**: la font la situa l'**11 de setembre** i la impressió és de
    **1894**, de manera que 1893 és una hipòtesi plausible, però l'hemeroteca no
