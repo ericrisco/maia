@@ -166,6 +166,11 @@ si es protestés seriosament contra les decisions dels veguers**».
 > Constitució és del 1993** i **el corpus no ha verificat si es va derogar**.
 > **Buit registrat, prioritari.**
 
+La mateixa ponència transcriu l'article únic del decret dels veguers del
+**15-12-1961**: ordena que les disposicions del decret del **07-05-1919** sobre
+diaris i periòdics «**s'han d'entendre en sa totalitat**» i exigeix autorització
+prèvia dels veguers per a qualsevol publicació ([fitxa de font](../../../fonts/giral-mitjans-identitat-1990.md), [còpia local](../../../raw/web/societat/mitjans/diada-andorra-1990-premsa.pdf)). Això prova que el decret de 1919 continuava operant com a base normativa el 1961, però la font no aporta cap instrument ni data de derogació posterior.
+
 ## Per això la premsa andorrana es va fer fora
 
 > «Si es vol llegir la premsa... **de temes andorrans**, s'ha de recórrer a
@@ -216,7 +221,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 
 ## El que falta
 
-- **Si el decret del 1919 es va derogar**, i quan. **Prioritari.**
+- ~~**Si el decret del 1919 es va derogar**, i quan.~~ — **`parcial` el 21-09-2026**: el decret dels veguers del **15-12-1961** diu que les disposicions del decret del **07-05-1919** sobre diaris i periòdics «s'han d'entendre en sa totalitat» i manté l'autorització prèvia per a qualsevol publicació. **El corpus encara no té cap instrument ni data de derogació posterior.**
 - ~~**Els dos anys sense sagraments** de l'època Casañas: dates i abast.~~ — **`parcial` el 20-09-2026**: la font confirma la suspensió de **tots els sagraments a tot el territori de les Valls durant dos anys**, la intervenció de la **Santa Seu** i la mediació de l’**arquebisbe de Tarragona**. **No consten les dates ni els efectes socials concrets.**
 - ~~***El Principado de Andorra y su constitución política***, de **Pallerola**:
   any exacte i edició.~~ — **`resolt` el 17-09-2026** des de la bibliografia de

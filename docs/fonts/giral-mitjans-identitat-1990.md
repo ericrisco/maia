@@ -6,9 +6,10 @@ titular: Eugeni Giralt · Societat Andorrana de Ciències
 autor: Eugeni Giralt
 publicacio: "La identitat nacional. 3a Diada Andorrana a la XXII Universitat Catalana d'Estiu, Prada de Conflent, agost del 1990. Societat Andorrana de Ciències, primera edició desembre del 1996, p. 121-131. ISBN 99920-1-185-8, DL 451 AND/1996"
 url: https://www.calaix.cultura.gencat.cat/handle/10687/427967
+raw: ../raw/web/societat/mitjans/diada-andorra-1990-premsa.pdf
 llicencia: publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya)
 redistribucio: pendent
-data_consulta: 2026-09-13
+data_consulta: 2026-09-21
 abast: >
   La història de la premsa i de la censura a Andorra fins al 1990: la manca
   d'impremta fins als anys quaranta, el segrest de la revista «Les Valls
@@ -33,6 +34,8 @@ notes: >
   Nova Andorra són «segurament» i «un afer confós».
   EL VOLUM ERA INCITABLE fins al 2026-09-13: cap vocal accentuada.
   ÉS TEXT DEL 1990 publicat el 1996.
+  La còpia PDF consultada conserva el text de la ponència i queda fora del
+  corpus de coneixement; els termes de redistribució no s'hi especifiquen.
 ---
 
 # Mitjans de comunicació i identitat nacional
