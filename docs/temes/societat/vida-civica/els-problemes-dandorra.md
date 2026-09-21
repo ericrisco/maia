@@ -292,8 +292,16 @@ molt bona».
   documentat**, i **[la memòria de FHASA](../treball/la-memoria-de-fhasa.md)
   dona la pista de per què**: **la memòria col·lectiva va col·locar la protesta
   fora del país.**
-- **El forn incinerador**: l'antic, el nou, les dates i les deficiències.
-- **La xarxa de depuradores**: quan es fa i què cobreix.
+- ~~**El forn incinerador**: l'antic, el nou, les dates i les deficiències.~~ —
+  **`parcial` el 21-09-2026**: el 2003 el tancament de l'antic forn i la
+  possibilitat d'obrir-ne un de nou van provocar una de les primeres
+  manifestacions importants davant del Govern; el corpus encara no té la
+  cronologia tècnica completa ni l'expedient de les deficiències.
+- ~~**La xarxa de depuradores**: quan es fa i què cobreix.~~ — **`parcial` el
+  21-09-2026**: la fitxa situa la construcció i finalització de la xarxa a
+  mitjan dècada del 2000, i observa que el 2016 ja no apareixia com a queixa
+  principal; resten pendents les dates d'entrada en servei i la cobertura de
+  cada planta.
 - **Si l'Observatori continua** després del 2016.
 - **Quina mostra fa servir** l'Observatori.
 
