@@ -190,8 +190,11 @@ pública](./la-institucio-no-es-publica.md).
 1. **El decret del Consell General sobre els béns dels *concos***: **sense data,
    sense citació**, i **la sentència que l'hauria confirmat, tampoc.**
    `Requereix font externa: els llibres d'acords del Consell General.`
-2. **La *tercera sala* d'Urgell**: **què era, quina jurisdicció tenia i fins quan.**
-   **El corpus no la té en cap altra unitat.**
+2. ~~**La *tercera sala* d'Urgell**: **què era, quina jurisdicció tenia i fins quan.**
+   **El corpus no la té en cap altra unitat.**~~ — **`parcial` el 21-09-2026**:
+   el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)
+   la defineix com la **tercera instància andorrana**, que reté el fons i la
+   forma i sentencia definitivament; encara no consta fins quan va funcionar.
 3. ~~**La petició al Tribunal Superior de partició *per capita*** feta per **qui
    tenia interès en la *per stirpes***: **sense data i sense explicació.**~~ —
    **`parcial` el 2026-09-20**: la prosa la situa **«més recentment»**, identifica
@@ -205,8 +208,12 @@ pública](./la-institucio-no-es-publica.md).
    descriu la presentació anual al cònsol o al rector, però no en dona el total
    ni permet saber si en queda rastre als arxius comunals o parroquials.
 5. **Quina era «la quantitat mínima»** que es pagava cada any, i **si variava.**
-6. **Si el *dret de vincle* prescrivia als trenta anys**: **els *sabis* ho diuen,
-   l'autor hi està d'acord per raonament, i no hi ha ni norma ni sentència.**
+6. ~~**Si el *dret de vincle* prescrivia als trenta anys**: **els *sabis* ho diuen,
+   l'autor hi està d'acord per raonament, i no hi ha ni norma ni sentència.**~~ —
+   **`parcial` el 21-09-2026**: la font registra que els *sabis* sostenen els
+   **trenta anys** i que Brutails hi concorda *a priori*; també deixa constància
+   de la dita contrària que el dret era imprescriptible. No hi ha norma ni
+   sentència que resolgui la divergència.
 7. **Qui havia dit que el *dret de vincle* era imprescriptible.** **La font ho
    dona en passiva —«s'ha dit»— i no ho atribueix.**
 8. **Si les decisions judicials que seguien el dret romà per als impúbers es van
