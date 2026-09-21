@@ -338,9 +338,7 @@ dos textos, dos anys, dos editors.**
   ([l'escola andorrana ha passat al davant](./lescola-andorrana-ha-passat-al-davant.md)).
   `El que no hi ha, i és el que aquesta fitxa necessitaria, és la taula creuada
   de sistema per nacionalitat: l'A024 dona les dues distribucions per separat.`
-- **La conferència de Josep Areny del 2007** no és al corpus. És l'única font de
-  les tres xifres del 2007, i **el llibre no en dona ni lloc ni paginació**.
-  `Requereix font externa: el postgrau en Ciències de l'educació.`
+- ~~**La conferència de Josep Areny del 2007**.~~ — **`parcial` el 21-09-2026**: la fitxa conserva les tres xifres de matrícula que el llibre n'atribueix i identifica el postgrau en Ciències de l'educació com la font, però no en té ni el lloc ni la paginació.
 - **Si «S.E. Espanyol» del 2007 inclou les congregacionals i la privada.** Sense
   això, la sèrie espanyola 1999-2000 → 2007 no es pot tancar.
 - ~~**El text de la nota informe de l'andorranització del 1972**, sencer i amb

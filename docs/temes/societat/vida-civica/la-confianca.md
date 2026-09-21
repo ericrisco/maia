@@ -228,8 +228,7 @@ manera qualitativa.
   123).
 - **Les altres dimensions de l'enquesta**: religió, família, feina, política.
   Aquesta ponència només n'explota la part de capital social.
-- **Per què l'Església andorrana té un 20% de confiança**: no hi ha cap font que
-  ho expliqui.
+- ~~**Per què l'Església andorrana té un 20% de confiança.**~~ — **`parcial` el 21-09-2026**: l'enquesta de 2005 fixa el percentatge de confiança, però la fitxa no té cap variable ni font qualitativa que n'expliqui la causa.
 - **Si el 16% dels partits polítics ha canviat** des del 2005.
 - **Quantes persones es van enquestar** i com es va fer la mostra.
 

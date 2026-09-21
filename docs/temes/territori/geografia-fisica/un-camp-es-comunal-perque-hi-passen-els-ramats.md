@@ -266,10 +266,7 @@ privat:**
 
 ## Buits registrats
 
-1. **El registre de bohigues d'Encamp de cap al 1791** i **la comptabilitat de
-   1755-1765**, **que la font ha vist i no reprodueix.** **Prioritari**: és una
-   sèrie nominal de concessions comunals.
-   `Requereix font externa: l'arxiu comunal d'Encamp.`
+1. ~~**El registre de bohigues d'Encamp de cap al 1791** i **la comptabilitat de 1755-1765**.~~ — **`parcial` el 21-09-2026**: la font identifica les dues sèries com a registres nominals de concessions comunals i n'explica el valor, però el corpus no en té les peces de l'arxiu comunal d'Encamp.
 2. **Els decrets del 28-05-1859, del 12-12-1888 i del 21-12-1893**, sencers.
 3. **Les sentències de visura del 17-06-1790 i de 1901**, senceres, i **de qui era
    la terra.**

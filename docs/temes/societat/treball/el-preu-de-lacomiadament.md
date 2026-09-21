@@ -174,8 +174,7 @@ diuen quantes indemnitzacions s’han pagat.
   **els 25 dies per any i el sostre de 365 ja són a l'article 90 del Codi del
   2008**. `Les vuit versions del consolidat comercial segueixen sense
   identificar-se una a una; al Butlletí la cadena són quatre documents.`
-- **Quantes vegades s'aplica cada via**, no consta. Sense dades d'inspecció ni
-  de sentències, no se sap si el no causal és la porta habitual o l'excepció.
+- ~~**Quantes vegades s'aplica cada via.**~~ — **`parcial` el 21-09-2026**: el Codi enumera l'acomiadament causal, el no causal i les compensacions, però el corpus no té dades d'inspecció ni sentències per saber quina via és l'habitual.
 - ~~**L'article 99**, que taxa les causes disciplinàries, no s'ha llegit.~~ —
   **`resolt` el 17-09-2026** (`docs/raw/lleis/llei-relacions-laborals.txt`,
   articles 97 a 101). **El text ja era al corpus.**

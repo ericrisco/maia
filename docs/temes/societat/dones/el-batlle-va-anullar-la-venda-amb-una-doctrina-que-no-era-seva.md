@@ -195,8 +195,7 @@ de 1975 i no ho pot dir**.
    batlle als articles 2.2, 2.4 i 7.3. Això confirma la data, el títol i que el
    decret formava part del dret procedimental posterior, però **no reprodueix
    l'articulat substantiu**. Font local: [`decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt`](../../../raw/lleis/bopa/decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt).
-2. **La sentència del batlle que va anul·lar la venda d'una dona**: **sense data
-   ni referència**. **La font en cita la ratio i prou.**
+2. ~~**La sentència del batlle que va anul·lar la venda d'una dona**.~~ — **`parcial` el 21-09-2026**: la font en conserva la *ratio* —la venda es va anul·lar per manca d'autorització—, però no en dona la data ni la referència arxivística.
 3. **Qui era «el seu conseller»** en aquella sentència, **com a ofici**: si era
    l'assessor del tribunal o un *sabi* consultat.
 4. **La controvèrsia del Tribunal Superior sobre l'absència**: **quina sessió, i

@@ -313,8 +313,7 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
    que el corpus ha llegit i no destil·la aquí.
 2. **La Reforma de 1866**, p. 12-13 de l'apèndix del mateix volum. **Segueix com a
    lead obert des de fa tandes.**
-3. **La data de la sentència Encamp-Andorra: 1760 o 1780**, i **si són una o dues.**
-   `Requereix font externa: els llibres d'acords del Consell General.`
+3. ~~**La data de la sentència Encamp-Andorra: 1760 o 1780**, i **si són una o dues.**~~ — **`parcial` el 21-09-2026**: la font conserva les dues dates com a possibilitats per al conflicte i la fitxa n'identifica l'àmbit Encamp-Andorra, però el corpus no té els llibres d'acords que permetin decidir si és una sentència o dues.
 4. **Els decrets del 23-12-1869 (Sornàs), del 22-12-1886 (la borda) i del
    24-12-1900 (emprius y terrenos mitgés)**, sencers.
 5. ~~**La sentència del 19 d'octubre de 1875** entre dos *quarts*: **quins quarts,

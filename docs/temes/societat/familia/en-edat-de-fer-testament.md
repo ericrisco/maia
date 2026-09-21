@@ -227,9 +227,7 @@ gràcia](../../economia/banca-i-fiscalitat/la-carta-de-gracia.md).
 
 ## Buits registrats
 
-1. **L'acte d'emancipació de 1747**, i **l'arrest del Consell Sobirà del Rosselló
-   del 22 de desembre de 1749** que hi remet. `Requereix font externa: Archives
-   départementales des Pyrénées-Orientales.`
+1. ~~**L'acte d'emancipació de 1747**, i **l'arrest del Consell Sobirà del Rosselló del 22 de desembre de 1749** que hi remet.~~ — **`parcial` el 21-09-2026**: la font els identifica com la base del cas de tutela i en conserva les dates, però el corpus no té els documents dels Archives départementales des Pyrénées-Orientales.
 2. ~~**Quan passa dels veguers als batlles** la competència de nomenar tutors.~~ —
    **`parcial` el 18-09-2026**: **el corpus té 1444 amb veguers i 1640, 1783 amb
    batlle, i res entremig**; el moment de transició continua sense documentar.

@@ -331,10 +331,7 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    bestiar als prats d’altri excepte en els prats arrendats amb una clàusula
    expressa de retorn al comú. **No queda provat que aquest sigui l’únic acte
    dictat contra els abusos que la font resumeix com «no fa gaire».**
-2. **El document del 7 de juny de 1456**, que **la font només coneix per una
-   anàlisi conservada als arxius d'Encamp.** **Prioritari i doble**: **cal l'anàlisi
-   i cal l'original.**
-   `Requereix font externa: l'arxiu comunal d'Encamp.`
+2. ~~**El document del 7 de juny de 1456**, conegut per una anàlisi conservada als arxius d'Encamp.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la data, el canvi de nom dels saigs i la hipòtesi que inclogui el dret de llicències d'obres, però no té ni l'anàlisi ni l'original de l'arxiu comunal d'Encamp.
    - **Puja de prioritat el 19-09-2026: la mateixa anàlisi apareix una segona
      vegada al llibre, amb un contingut diferent i molt més gros.** A la
      p. 225 Brutails escriu que, **segons «una anàlisi antiga que subsisteix als
