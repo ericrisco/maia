@@ -470,9 +470,17 @@ asambleas del Concejo abierto correspondía a todo Cap de Casa***.*»**
    **Això resol la identitat i el contingut de l'acte transcrit**, però no permet
    comprovar si és exactament la peça de l'**Archives de l'Ariège, lligall 2** ni
    donar-ne la signatura arxivística.
-9. **Els dos actes de 1552 i 1649** pels quals el Consell nomena apoderats, i
-   **quin era el col·legi de Foix** amb plaça reservada a un clergue andorrà.
-   **L'interrogant sobre el col·legi és de Brutails.** `obert.`
+9. ~~**Els dos actes de 1552 i 1649** pels quals el Consell nomena apoderats, i
+   **quin era el col·legi de Foix** amb plaça reservada a un clergue andorrà.~~ —
+   **`parcial` el 21-09-2026**: l'acta del **7 de juliol de 1552**, conservada en
+   transcripció, diu que el Consell General nomena **Pere Domenge**, prevere
+   d'Ordino, i **Guillem Bons**, de Pal, «*síndics, actors i procuradors*» per
+   comparèixer a les corts generals de **Montsó** i demanar al rei la conservació
+   dels privilegis i llibertats de les Valls ([acta de 1552](../../../raw/consell-general/actes-historiques/text/segle-xvi--1552-juliol-7-era-de-pal-ordino.txt)).
+   La síntesi d'actes en dona la referència **ANA TCN 137, fols. 2v-3v**
+   ([índex d'actes](../../../raw/consell-general/actes-historiques/text/sintesi-actes-1133-2023.txt)).
+   **L'acte de 1649 i la identificació del col·legi de Foix, que és una pregunta
+   de Brutails, encara no tenen peça localitzada.**
 10. ~~**Quan van desaparèixer els comissionats**, si van desaparèixer.~~ —
     **`parcial` el 19-09-2026**: la font els descriu **«en vies de desaparició»**
     el 1904, però no dona l’any d’extinció ni confirma que desapareguessin.
