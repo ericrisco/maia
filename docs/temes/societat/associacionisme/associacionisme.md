@@ -63,7 +63,12 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
   substituir la participació espontània i organitza la forma recuperada del
   costum. Encara falten les colles de les altres parròquies, el cens complet i
   la verificació de com consta Andorra en el reconeixement de la UNESCO.
-- Les **entitats de festa major** parròquia per parròquia.
+- ~~Les **entitats de festa major** parròquia per parròquia.~~ — **`parcial` el
+  21-09-2026**: les fitxes de festes majors i danses ja identifiquen l'**Esbart
+  Laurèdia** (Sant Julià de Lòria), l'**Esbart Dansaire d'Andorra la Vella** i
+  els **Fallaires d'Andorra la Vella** com a entitats que sostenen actes i
+  tradicions de festa major. El corpus encara no té el cens complet de grups,
+  comissions i associacions de les set parròquies.
 - ~~L'**associacionisme de la immigració**: amb un **54,7 %** de població
   estrangera i el **portuguès** com a tercera llengua materna, hi ha
   necessàriament teixit associatiu de comunitats — **i el corpus no en diu res**.~~
