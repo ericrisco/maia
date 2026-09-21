@@ -203,9 +203,9 @@ solts.**
 
 ## Buits registrats
 
-1. **L'acte de retrovenda del 12 de novembre de 1707**, rebut per un prevere que
+1. ~~**L'acte de retrovenda del 12 de novembre de 1707**, rebut per un prevere que
    regia la cura d'ànimes de la Massana. **Prioritari**: **és el que diria si la
-   finestra de disset dies era nova de debò i quin era el preu.**
+   finestra de disset dies era nova de debò i quin era el preu.**~~ — **`parcial` el 24-09-2026**: la font identifica la data, la *retrovenda a carta de gràcia*, els dos venedors i el prevere de la Massana que va rebre l'acte; el text íntegre i el preu de 1707 encara no consten al corpus ([font](../../../fonts/brutails-coutume-1904.md)).
 2. ~~**Si un prevere amb cura d'ànimes podia rebre actes notarials a Andorra el
    1707**, **i si era pràctica regular.**~~ — **`parcial` el 18-09-2026**:
    **el corpus té el cas i no la norma** ni la prova que fos una pràctica regular.
