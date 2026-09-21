@@ -441,6 +441,10 @@ doni per bones.
 5. ~~**De la persona no consta** ni parròquia, ni generació, ni llengua primera.~~ —
    **`no-es-buit` el 20-09-2026**: el registre de la peça no incorpora cap
    perfil biogràfic del parlant.
-6. **La comparació escrit/parlat no s'ha fet.** Hi ha la mateixa autora en totes
-   dues formes i **ningú no ha posat els dos textos de costat**. És l'exercici
-   que aquesta peça fa possible i que queda pendent.
+6. ~~**La comparació escrit/parlat no s'ha fet.** Hi ha la mateixa autora en totes
+   dues formes i **ningú no ha posat els dos textos de costat**.~~ — **`parcial`
+   el **2026-09-22**: les dues peces ja es poden posar en relació —la ponència
+   escrita situa l'arrendament de l'hostal del Comú de Canillo a mitjan segle XVI,
+   i la càpsula oral concreta la primera referència en **1556** i repeteix els
+   eixos de la taba, l'hostaler i el mostassà—. **Encara falta una comparació
+   sistemàtica de variants, omissions i reformulacions de tot el text.**
