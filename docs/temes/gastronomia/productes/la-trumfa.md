@@ -109,7 +109,7 @@ s'enfonsi l'oví** i pot haver estat part del coixí.
    cuina de les valls ([font local](../../../raw/sac-diades/15a-2002-una-historia-dandorra-tematica.txt), p. 90). **No hi consta encara
    el títol de l'obra original ni una biografia segura de Montanya**; la
    identificació editorial continua oberta.
-5. **Trumfes eixutes**: recepta, si es fa encara.
+5. ~~**Trumfes eixutes**: recepta, si es fa encara.~~ — **`parcial` el 2026-09-21**: la fitxa conserva una descripció de Maria Montanya —**trumfes eixutes amb rostes de cansalada fregides**— i les situa al costat del trinxat en la cuina d'Andorra de principi del segle XX. No hi consta la recepta completa ni si el plat es continua fent avui.
 
 ## Related
 
