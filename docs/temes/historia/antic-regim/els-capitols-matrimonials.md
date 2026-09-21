@@ -266,7 +266,7 @@ d'aquesta fitxa promet per endavant.**
 
 ## Buits registrats
 
-1. **La datació** de la fórmula. **Prioritari.**
+1. ~~**La datació** de la fórmula.~~ — **`parcial` el 2026-09-21**: el corpus té dos capítols matrimonials sencers del **1788** i una fórmula de designació d'hereu que hi encaixa per funció i criteri, però l'autor no data el model literal ni permet afirmar que el text reproduït sigui exactament el dels actes de 1788.
 2. ~~**Capítols matrimonials reals** d'arxiu, sencers.~~ **TANCAT, amb dos**, del
    **1788**: [dos capítols matrimonials de 1788](./dos-capitols-matrimonials-de-1788.md)
    — un d'hereu i un **d'hereva**.
