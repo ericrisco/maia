@@ -91,7 +91,7 @@ Aquests sis mesos són **la base material** de
   dècada** i **−4% de precipitació per dècada**. La fitxa encara no té les
   projeccions numèriques de cota de neu ni de dies esquiables, que continuen
   obertes a la seva pròpia secció «El que falta».
-- Les dades oficials andorranes de clima, per estació.
+- ~~Les dades oficials andorranes de clima, per estació.~~ — **`parcial` el 21-09-2026**: el [Servei Meteorològic Nacional](../../../fonts/meteo-ad-climatologia-2026.md) declara que publica les dades de les estacions automàtiques com a «Dades Obertes» i la pàgina de climatologia permet consultar resums mensuals, períodes i anomalies per estació; el directori del servei enumera les estacions actives i les que només funcionen a l’hivern. La sèrie completa i la seva validació històrica encara no s’han extret.
 - ~~El **lèxic de la neu i del temps**: Andorra va col·laborar en el *Vocabulari
   de la neu* i el *Diccionari de la neu* del TERMCAT. **Aquest lèxic és el que
   més val per a maia** i no s'havia buidat.~~ — **`parcial` el 2026-09-19**:
