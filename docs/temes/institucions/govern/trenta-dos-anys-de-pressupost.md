@@ -181,7 +181,10 @@ legal deu anys seguits no era una regla escrita: era una decisió repetida.**
   trimestre de 2025, **532,47 milions d'euros de despeses** i **1.022,41
   milions d'ingressos**, sense transferències internes—; encara falta el
   pressupost anual liquidat comparable amb la sèrie de previsions.
-- **Els anys anteriors al 1995.**
+- ~~**Els anys anteriors al 1995.**~~ — **`parcial` el 21-09-2026**: la
+  descàrrega de l’API cobreix el període general 1990–2026, però les taules de
+  pressupostos previstos del Govern només publiquen valors des de 1995; el
+  corpus no té una sèrie pressupostària comparable per als anys anteriors.
 - ~~**Quina norma fixa el tipus d'interès legal** i **per què el 2025 canvia la
   relació amb el moratori.**~~ — **`parcial` el 18-09-2026**: **la norma és
   l'article 17 de la Llei del pressupost de cada any**, i **cap norma no fixa la
