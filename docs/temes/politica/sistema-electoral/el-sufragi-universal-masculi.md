@@ -155,7 +155,7 @@ qui s'hi oposaven**: **els capgrossos**, malnom dels consellers generals.
    el sufragi pel Consell que en resulta, i no pel decret que el restableix,
    escriurà 1948.** **Hipòtesi del corpus, no de les actes.**
 5. **El sufragi censatari de 1866** i com funcionava exactament.
-6. **Els tribunals superiors de la Mitra i de Perpinyà** (1888).
+6. ~~**Els tribunals superiors de la Mitra i de Perpinyà** (1888).~~ — **`parcial` el 21-09-2026**: [la fitxa sobre la justícia d'abans](../../institucions/justicia/la-justicia-dabans.md) situa el Tribunal Superior d'Andorra a Perpinyà com a darrera instància de les sentències del jutge d'apel·lacions i el Tribunal Superior de la Mitra d'Urgell com a recurs de revisió; el de Perpinyà funciona del **13 de juliol de 1888 al 31 de desembre de 1993**. El corpus encara no té els textos dels decrets francesos de 1888 i 1898.
 
 ## Related
 

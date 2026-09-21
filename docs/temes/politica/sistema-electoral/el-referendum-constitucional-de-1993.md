@@ -258,7 +258,7 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
   **`parcial` el 19-09-2026**: la mateixa còpia local conserva els dos passatges
   citats del PDF —els **precedents** (p. 12) i el **penúltim pas** (p. 17)— i
   l'enllaç a l'edició. **El PDF original no s'ha obert directament.**
-- **La memòria de reforma del 1978** i **el decret del 1981**: **textos.**
+- ~~**La memòria de reforma del 1978** i **el decret del 1981**: **textos.**~~ — **`parcial` el 21-09-2026**: la fitxa ja fixa que la memòria demanava avançar cap a un Estat i obtenir reconeixement internacional, i que el decret dels coprínceps va crear la separació entre executiu i legislatiu; el corpus encara no conserva els textos originals.
 - ~~La llei que va regular el referèndum.~~ — **`resolt` el 17-09-2026**, vegeu
   més amunt. **I n'obre una de nova**: **l'article 14 de la Llei Electoral del
   1987**, que aquell referèndum va desactivar expressament.

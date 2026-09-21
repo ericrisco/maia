@@ -154,11 +154,11 @@ fumar en un local públic**.
    comptant-hi **dos interins** (Pere López Agràs, 14 dies el 2011; Gilbert
    Saboya i Sunyé, 9 dies el 2015) que aquesta fitxa no tenia
    ([font](../../../fonts/wikipedia-ca-caps-de-govern.md)).
-4. **El llibre d'actes del Consell General entre 1745 i 1864**, que **ha
+4. ~~**El llibre d'actes del Consell General entre 1745 i 1864**, que **ha
    desaparegut**. Bascompte ho qualifica de pèrdua d'«un gran període
-   històric»: **de la Revolució Francesa a les carlinades**.
-5. **El sistema d'elecció dels representants** abans del 1866 i **el pes de les
-   famílies ramaderes**, que Vela demana explícitament a la recerca futura.
+   històric»: **de la Revolució Francesa a les carlinades**.~~ — **`no-es-buit` el 21-09-2026**: la fitxa ja registra la pèrdua declarada per Bascompte; és una absència documentada, no una dada que el corpus pugui completar.
+5. ~~**El sistema d'elecció dels representants** abans del 1866 i **el pes de les
+   famílies ramaderes**, que Vela demana explícitament a la recerca futura.~~ — **`parcial` el 21-09-2026**: la fitxa documenta les assemblees de prohoms i caps de casa, el pas del 1419 a **dotze a divuit jurats i pròcers** i la **Nova Reforma del 1866**, que estén el vot als caps de casa; no fixa el sistema complet d'elecció anterior ni el pes específic de les famílies ramaderes.
 6. Les **ordinacions de Sancogesma (1454-1500)** senceres.
 7. **Les disset ponències restants** del volum.
 
