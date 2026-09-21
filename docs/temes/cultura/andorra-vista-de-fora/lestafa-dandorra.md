@@ -150,7 +150,7 @@ relat, no una prova a favor seu.**
 
 - ~~**Veure el documental.**~~ **El corpus en té la fitxa tècnica i la llista
   d'entrevistats, no el contingut.** **Buit prioritari.**
-- **Què va respondre Amazon**, si va respondre.
+- ~~**Què va respondre Amazon**, si va respondre.~~ — **`parcial` el 21-09-2026**: en una entrevista d’[Altaveu](../../../raw/web/cultura/andorra-vista-de-fora/estafa-andorra/README.md), **Eric Merola** explica que la retirada del cercador va coincidir amb una **concatenació d’errors tècnics i tipogràfics** en el lliurament de les versions en anglès, espanyol i català; també diu que no tenia control sobre Amazon i que no havia planificat l’episodi. **No hi consta una comunicació directa d’Amazon**, de manera que queda oberta la resposta oficial de la plataforma.
 - **Si va haver-hi resposta institucional andorrana** al documental.
 - ~~**L'operació Catalunya** com a objecte: **el corpus no en té fitxa, i aquí hi
   surt com a context donat per sabut.**~~ — **`resolt` el 18-09-2026**:
