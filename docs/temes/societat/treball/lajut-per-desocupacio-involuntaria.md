@@ -450,8 +450,10 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
 - **Quina part del territori cau dins dels vint quilòmetres** de l'article
   26.4.f.iv segons el domicili: càlcul no fet. El corpus no afirma que el límit
   cobreixi tot el país.
-- **Cap jurisprudència llegida sobre l'article 26.3.** No s'ha buscat com
-  s'interpreta el requisit d'haver impugnat l'acomiadament per accedir a l'ajut.
+- ~~**Cap jurisprudència llegida sobre l'article 26.3.**~~ — **`font_externa` el
+  2026-09-22**: **la fitxa no ha localitzat cap resolució que interpreti el
+  requisit d'haver impugnat l'acomiadament**. **Cal consultar jurisprudència
+  administrativa o judicial per saber com s'aplica.**
 - ~~**El Decret del 16-12-2020 ja s'ha llegit directament al BOPA** i té una
   [lectura pròpia](lajut-per-la-feina-que-no-havia-comencat.md). Els decrets
   del 3-7-2019 i del 9-9-2020 encara només es coneixen per les remissions.~~ —

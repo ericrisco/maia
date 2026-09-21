@@ -190,14 +190,10 @@ amb una sola cerca.**
    omissió** —la proposta s'ha fet «**com de passada, sense massa filosofies al
    darrere**» i l'anàlisi «**seria prou dura com per estalviar-la**». **És una
    font que calla a posta**, no una fitxa que no hagi llegit prou.
-4. **La resposta de l'alcalde de la Seu.** — **`obert`, i el motiu és el
-   mateix**: **la font en dona el to i no el contingut** —«un comentari ple de
-   bon seny i de dignitat»— **i no en dona ni el nom ni el mitjà.** **El corpus
-   tampoc no té cap altre document sobre la relació entre les dues ciutats**
-   excepte una frase, i val la pena posar-la al costat d'aquesta:
-   **«Andorra i la Seu d'Urgell s'han donat l'esquena durant segles»**
-   ([les respostes de 1994](../../politica/identitat-politica/les-respostes-de-1994.md)).
-   `Requereix font externa: premsa de la Seu o d'Andorra, estiu del 1989.`
+4. ~~**La resposta de l'alcalde de la Seu.**~~ — **`font_externa` el
+   2026-09-22**: **la ponència en conserva només el to —«un comentari ple de bon
+   seny i de dignitat»— i no en dona ni el nom ni el mitjà**. **Cal la premsa de
+   la Seu o d'Andorra de l'estiu de 1989 per recuperar-ne el contingut.**
 5. ~~**Quan s'aprova el primer habitatge de protecció** a Andorra, si s'ha
    aprovat.~~ — **`parcial`: la segona meitat de la pregunta es tanca amb el
    corpus, la primera no.** **Sí que s'ha aprovat, i el corpus en té tres peces,

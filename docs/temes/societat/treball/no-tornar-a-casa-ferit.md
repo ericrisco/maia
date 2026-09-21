@@ -277,5 +277,8 @@ declaració: la font no ho separa.`
   lectures que el corpus no arbitra: que cap empresa no hagi acumulat dues
   infraccions molt greus en un any, o que la publicació obligatòria no s'hagi
   fet.`
-- **Si hi ha comitè de seguretat i salut** com a òrgan distint dels delegats de
-  personal, i a partir de quina mida d'empresa: **no comprovat**.
+- ~~**Si hi ha comitè de seguretat i salut** com a òrgan distint dels delegats de
+  personal, i a partir de quina mida d'empresa.~~ — **`font_externa` el
+  2026-09-22**: **la fitxa no ha comprovat aquesta organització ni el llindar
+  d'empresa**. **Cal la normativa de participació preventiva o expedients
+  laborals per establir-ho.**
