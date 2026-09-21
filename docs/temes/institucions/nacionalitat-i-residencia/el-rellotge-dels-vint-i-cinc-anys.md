@@ -259,7 +259,7 @@ dataset**.`
    hi consta **per què vint-i-cinc**: «el nombre d'anys que hom reconeix a tot
    arreu com el d'una generació».
 3. **Quan i com es passa de vint-i-cinc anys a vint.**
-4. **El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.
+4. ~~**El partit d'esquerres anunciat per l'ARA el 1997**: si va existir.~~ — **`parcial` el 21-09-2026**: el [llistat oficial de candidatures de les eleccions generals de 1997](../../../raw/web/institucions/politica-1997/ara-partit/eleccions-consell-general-1997.txt) només hi enumera **AND, ND, IDN i UL** a la circumscripció nacional, més les llistes parroquials, i **no hi apareix cap partit sorgit de l'ARA**. Això acota que no es va presentar amb aquest projecte a aquelles eleccions, però **no resol si la iniciativa va existir fora d'una candidatura electoral ni si va arribar a constituir-se després**.
 5. ~~**Què vol dir «un dret que ens ha estat retallat».**~~ — **`parcial` el
    18-09-2026**: **el sindicat ja té fitxa**,
    [El Sindicat Andorrà de Treballadors](../../societat/treball/el-sindicat-andorra-de-treballadors.md)
