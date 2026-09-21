@@ -60,8 +60,11 @@ concretes a la formació continuada ([la fitxa de la reacreditació](./la-reacre
 ## Buits registrats
 
 1. **D'on vénen els metges**, geogràficament — segueix sense resposta.
-2. **Els altres col·legis professionals andorrans** —advocats,
-   arquitectes, infermeria— **cap encara sense fitxa.**
+2. ~~**Els altres col·legis professionals andorrans** —advocats,
+   arquitectes, infermeria— **cap encara sense fitxa.**~~ — **`parcial` el
+   21-09-2026**: el directori del Govern confirma, dins l'àmbit sanitari, els
+   col·legis de **dietistes i nutricionistes, metges, farmacèutics, infermeres i
+   infermers, psicòlegs i logopedes**, entre d'altres ([font](../../../fonts/govern-collegis-professionals-salut-2026.md)). **La llista completa de col·legis del país i les fitxes d'advocats i arquitectes encara no consten.**
 3. ~~**El conveni entre el COMA i la Universitat d'Andorra** sobre la
    reacreditació, citat i no consultat.~~ — **`parcial` el 21-09-2026**: la font
    consultada identifica un conveni **SAC–UdA** del **maig del 2000** per a la
