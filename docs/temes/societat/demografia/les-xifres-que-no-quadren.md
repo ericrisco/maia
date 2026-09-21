@@ -219,8 +219,14 @@ i cadascuna té un autor que responia a una pregunta diferent.
   dins l'interval de la caiguda de **6.100 habitants (1912) a 4.309 (1920)**,
   però el corpus encara no pot atribuir-hi tota la pèrdua ni reconstruir-ne la
   demografia any per any.
-- **Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes
-  aquestes xifres són de fora.
+- ~~**Si hi va haver mai un cens oficial andorrà** abans del segle XX, o si totes
+  aquestes xifres són de fora.~~ — **`parcial` el 21-09-2026**: el corpus només
+  ha pogut documentar explícitament un **cens de 1932**, identificat en la taula
+  local de la 33a Diada andorrana ([font](../../../raw/sac-diades/33a-2021-andorra-i-la-multiculturalitat/22.txt)).
+  Les xifres de **1900, 1912, 1920 i 1930** hi arriben citades per autors
+  (Combarnou, Pallerola, De Los Ríos Urruti i Moreno), però encara no s'ha
+  localitzat cap acte censal andorrà anterior al 1900 ni es pot dir si aquells
+  recomptes són oficials o externs.
 
 ## Related
 
