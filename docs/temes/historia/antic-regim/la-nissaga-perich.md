@@ -114,8 +114,9 @@ a Andorra la Vella.**
 **que la va enderrocar per construir-hi un altre edifici.**
 
 > **Una casa pairal andorrana documentada des del 1614, al costat mateix de la
-> Casa de la Vall, enderrocada.** **La font no en dona la data.** **Buit
-> obert.**
+> Casa de la Vall, enderrocada.** **La font no en dona la data**, de manera
+> que el fet de l'enderrocament queda acreditat però la cronologia queda
+> **`parcial`**.
 
 ## L'origen documental
 
@@ -178,7 +179,10 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
   encaixa.** `deducció del corpus.` Vegeu
   [els emprius](../../territori/geografia-fisica/el-sol-comunal.md) i
   [quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md).
-- **Quan es va enderrocar la casa de la placeta Monjó.**
+- ~~**Quan es va enderrocar la casa de la placeta Monjó.**~~ — **`parcial` el
+  21-09-2026**: la font confirma que la casa va passar dels Molines als Guillem
+  i que aquests la van enderrocar per construir-hi un altre edifici, però no en
+  dona la data.
 - **Els Cristo i els Pal**: **segueixen sense genealogia.**
 
 ## Related
