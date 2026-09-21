@@ -100,9 +100,7 @@ d'un topònim ha de dir de quin document surt la forma que cita.**
   13-09-2026) i a
   [Els annexos dels topònims](./els-annexos-dels-toponims.md) (**les 80 fitxes
   de camp, 18-09-2026**).
-- El **Nomenclàtor** complet, que és públic a la cartografia oficial: **4.240
-  entrades disponibles**, i el corpus n'ha tocat zero. `I la xifra mateixa està
-  en dubte: l'annex de l'estudi del 2018 en diu 4.225.`
+- ~~El **Nomenclàtor** complet, que és públic a la cartografia oficial: **4.240 entrades disponibles**, i el corpus n'ha tocat zero. `I la xifra mateixa està en dubte: l'annex de l'estudi del 2018 en diu 4.225.`~~ — **`parcial` el 21-09-2026**: la captura local del [Nomenclàtor oficial](../../../raw/web/andorra_nomenclator.html) confirma que és públic, consultable i descarregable en CSV. La xifra continua divergent (**4.240** a la cartografia i **4.225** a l’annex del 2018) i el corpus encara no n’ha buidat les entrades.
 - El treball de Pujal, *Val de Norra*.
 - L'article del Nomenclàtor publicat per l'**IEC**.
 - La **hidronímia** i l'**antroponímia** pirinenques.

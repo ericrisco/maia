@@ -334,7 +334,7 @@ per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
   **11** a Ordino i la Massana, **10** a Canillo i **4** a Andorra la Vella i
   Escaldes-Engordany; els autors no expliquen per què la concentració és tan
   desigual.
-- **El Nomenclàtor d'Andorra** com a font pròpia. `Segueix sense ser al corpus.`
+- ~~**El Nomenclàtor d'Andorra** com a font pròpia. `Segueix sense ser al corpus.`~~ — **`parcial` el 21-09-2026**: el [Nomenclàtor oficial](../../../raw/web/andorra_nomenclator.html) ja queda identificat com a font pública de la cartografia d’Andorra i ofereix consulta i descàrrega en CSV; encara no s’ha incorporat ni buidat el catàleg complet.
 - ~~**El creuament amb els polígons de perillositat d'allaus** que el corpus ja
   té localitzats: la fitxa de Llorts el convida explícitament.~~ — **`parcial` el
   19-09-2026**: l'estudi d'allaus de Becat ja situa **«Ordino, Llorts: Vall de
