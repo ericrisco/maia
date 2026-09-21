@@ -198,8 +198,13 @@ s'hi aplicava. Vegeu
 2. ~~**La conversió entre rals i lliures/sous** a l'Andorra del set-cents, per
    poder llegir la sèrie sencera.~~ **TANCAT el 2026-09-13: deu rals fan una
    lliura.** Vegeu [les mesures i les monedes](./les-mesures-i-les-monedes.md).
-3. **Quan es va deixar de fer el *Consell del Afor***, i quan es va deixar de
-   taxar el blat.
+3. ~~**Quan es va deixar de fer el *Consell del Afor***, i quan es va deixar de
+   taxar el blat.~~ — **`parcial` el 2026-09-22**: els llibres d'actes del
+   Consell General conserven l'últim afor el **6 de juliol de 1795**; el Llibre
+   IV arriba al **1864** sense cap altre afor, i entre aquesta data documentada
+   i el «*parece que ha caído en desuso*» de 1918 hi ha seixanta-nou anys sense
+   cap assentament ([definir el costum és legislar](../../institucions/consell-general/definir-el-costum-es-legislar.md)).
+   **No es pot fixar si va deixar de celebrar-se o només va deixar de consignar-se.**
 4. ~~**El text dels decrets** de 1752, 1873, 1875, 1888, 1889 i 1893. Brutails els
    data i en cita fragments; **el corpus no en té cap de sencer**.~~ —
    **`parcial` el 2026-09-22**: la fitxa ja transcriu els fragments dels decrets
