@@ -220,6 +220,15 @@ voltant de la formació professional i fer-la una **opció desitjable**».
 [les associacions de pares](./les-associacions-de-pares.md), que en aquell mateix
 volum expliquen com els pares trien sistema educatiu.
 
+## El rastre estadístic de les noies
+
+El [bolcat de l’API d’Educació](../../../raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv)
+permet seguir el total de noies de formació professional, encara que no les
+separa per branca: **177 el 2010**, **189 el 2015**, **203 el 2020** i **206 el
+2024**. El total d’estudiants de FP era de **370**, **419**, **523** i **526** en
+els mateixos anys. El registre dona una sèrie de participació femenina, però no
+respon quines branques va triar cada noia.
+
 ## Buits registrats
 
 - ~~**Si es va crear el marc legal general de la FP** que la Comissió Nacional va
@@ -257,7 +266,9 @@ quaranta hores**— i **el primer publicat, de 362 pessetes l'hora l'1 de juliol
 del 1989.** **El buit transversal més gran que l'auditoria havia trobat es tanca
 amb una sola cerca.**
 - **Si el sector hoteler ha canviat de criteri** sobre la formació.
-- **Quantes noies** hi ha hagut a cada branca.
+- ~~**Quantes noies** hi ha hagut a cada branca.~~ — **`parcial` el 21-09-2026**:
+  l’API oficial dona el total de noies de FP entre 2010 i 2024, però no el
+  desglossament per branca ni la sèrie de promocions d’aprenents.
 
 ## Related
 
