@@ -122,8 +122,8 @@ el moll de l'os del model de dades
   **`parcial`, actualitzat el 2026-09-19**: el corpus ja confirma que «les Set
   Claus» són en línia i que l'Arxiu Nacional manté catorze exposicions virtuals;
   encara no n'ha verificat l'inventari digitalitzat ni les condicions d'accés.
-- La relació entre aquest fons i les **~7.500 actes transcrites** que el Consell
-  General cita.
+- ~~La relació entre aquest fons i les **~7.500 actes transcrites** que el Consell
+  General cita.~~ — **`parcial` el 21-09-2026**: [Museus i arxius](../../cultura/museus-i-arxius/museus-i-arxius.md) identifica la sèrie com a **prop de 7.500 actes transcrites per Jordi Guillamet** i el corpus ja conserva **79 fitxers de text** de la sèrie. Encara no hi ha una correspondència document a document amb les **5.754 peces** del fons ASC, ni el recompte del que procedeix de les Set Claus.
 
 ## Related
 
