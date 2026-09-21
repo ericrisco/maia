@@ -215,8 +215,14 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
    27 de febrer de 1884**, **sencers**. **El corpus en té articles citats i cap
    text.** **Prioritari**: **són les normes que organitzen la presència francesa.**
    `Haurien de ser al Bulletin des lois o al Journal officiel.`
-3. **Per què el 1882 es va crear el delegat permanent** i **per què dos anys
-   després la delegació va passar del sotsprefecte de Prada al prefecte.**
+3. ~~**Per què el 1882 es va crear el delegat permanent** i **per què dos anys
+   després la delegació va passar del sotsprefecte de Prada al prefecte.**~~ —
+   **`parcial` el 2026-09-21**: el decret de **3 de juny de 1882** identifica la
+   funció del delegat —representar França davant les autoritats andorranes i en
+   les relacions amb el bisbe d’Urgell— i el de **27 de febrer de 1884** en
+   trasllada la delegació al prefecte dels Pirineus Orientals. **Les raons
+   administratives concretes de crear-lo i de substituir el sotsprefecte no
+   consten.**
 4. ~~**Quan el veguer francès va passar de dependre d'Interior a dependre d'Afers
    Estrangers.**~~ — **`parcial` el 2026-09-21**: el corpus ja situa la
    dependència del veguer al **ministeri de l'Interior el 1806** i al d'**Afers
