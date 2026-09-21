@@ -208,10 +208,17 @@ una pràctica pròpia.**
    localitzat per la font de 1904; el corpus encara no n'ha incorporat el text.
 6. **El model d'«attestat de limpiesa de sanch»** i **si se'n va estendre mai cap
    a Andorra**, a qui i per a què. `obert, prioritari i nou.`
-7. **Els dos formularis impresos**, **Falguera 1888** i **Morelló 1827**: **el
-   corpus en té els títols i no el contingut.** `obert, amb referència completa.`
-8. **Els quatre notaris en exercici el 1904**: **qui eren i on van fer les
-   pràctiques**, en concret. `obert.`
+7. ~~**Els dos formularis impresos**, **Falguera 1888** i **Morelló 1827**.~~ —
+   **`parcial` el 2026-09-21**: [Quants notaris](./quants-notaris.md) en fixa les
+   referències completes —*Formulario completo de notaría*, 3a edició,
+   Barcelona, 1888, i *Colleccion de contratos, pactos públicos, testamentos, y
+   últimas voluntades*, 2 volums, 1827— i el seu ús pels notaris andorrans;
+   **el contingut dels formularis encara no s'ha incorporat**.
+8. ~~**Els quatre notaris en exercici el 1904**: **qui eren i on van fer les
+   pràctiques**, en concret.~~ — **`parcial` el 2026-09-21**: [Quants
+   notaris](./quants-notaris.md) confirma que eren **quatre** i que **tots
+   havien fet les pràctiques a Catalunya**, però la font no en dona els noms ni
+   el lloc concret de cada pràctica.
 9. ~~**En què s'apartava, de fet, la pràctica notarial andorrana de la catalana.**~~
    **`parcial` el 2026-09-19**: la font concreta que els actes andorrans **no
    copiaven literalment** els formularis catalans, que **cada notari es feia el
