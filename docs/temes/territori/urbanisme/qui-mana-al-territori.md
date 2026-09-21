@@ -244,8 +244,12 @@ el Govern**, no el comú.
 - **Els comuns poden ser més restrictius** que la llei (article 27.2, final), i
   **els set POUP no són al corpus**: el que realment es pot construir a cada
   parròquia es decideix allà.
-- **Les 20 versions no s'han comparat.** És una de les lleis més retocades del
-  país i no en tenim la història.
+- ~~**Les 20 versions no s'han comparat.**~~ — **`parcial` el 2026-09-22**: el
+  [text consolidat local](../../../raw/lleis/ordenacio-territorial.txt) confirma
+  **20 versions** de la Llei general d'ordenació del territori i urbanisme de
+  2000, amb **178 articles** i instantània del **12 de setembre de 2026**.
+  **Encara no s'ha fet la comparació article per article ni se'n pot reconstruir
+  la història de reformes.**
 - ~~**El sòl no urbanitzable** i el règim del **sòl urbanitzable** no s'han
   llegit.~~ — **`resolt` el 17-09-2026** a «[El sòl que no es pot tocar, i les set
   portes per tocar-lo](#el-sol-que-no-es-pot-tocar-i-les-set-portes-per-tocar-lo)»
