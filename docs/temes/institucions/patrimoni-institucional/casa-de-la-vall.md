@@ -35,7 +35,12 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
 
 - **Quan es va construir** i per a qui. Consta com a casa forta d'una família
   abans de ser seu del Consell, i cal documentar-ho.
-- Quan la va adquirir el Consell General i en quines circumstàncies.
+- ~~Quan la va adquirir el Consell General i en quines circumstàncies.~~ —
+  **`parcial` el 21-09-2026**: [el Consell de la Terra](../consell-general/el-consell-de-la-terra.md)
+  fixa que **el 1702 el Consell General va comprar l’antiga casa Busquets** per
+  convertir-la en la Casa de la Vall, i confirma que l’edifici no es va
+  construir com a parlament. Encara no consten l’acte de compra, el venedor ni
+  les condicions de l’adquisició.
 - ~~L'**armari de les set claus**, que la tradició situa aquí i que caldria
   verificar i descriure.~~ — **`resolt` el 18-09-2026**: **ja té fitxa pròpia**,
   [L'Armari de les Set Claus](./larmari-de-les-set-claus.md) —**un armari que
