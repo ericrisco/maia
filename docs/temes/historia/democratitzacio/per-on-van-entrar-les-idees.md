@@ -166,7 +166,7 @@ casa.**
 - **Nova Andorra**: qui l'editava, on, quants números. **Prioritari** — seria
   **la primera premsa andorrana** que el corpus documentaria.
 - **El Butlletí de Residents d'Andorra a Barcelona**: anys i col·lecció.
-- **«Le réveil de l'Andorre»**, 1931 — **digitalitzat a la BnF i no consultat**.
+- ~~**«Le réveil de l'Andorre»**, 1931 — **digitalitzat a la BnF i no consultat**.~~ — **`parcial` el 21-09-2026**: la cerca oficial de la **Presse locale ancienne** de la BnF ([captura amb el filtre d’accés en línia](../../../raw/web/historia/democratitzacio/reveil-andorre-bnf-1931.html)) identifica la capçalera com a **òrgan oficial —després mensual— de l’Amicale franco-andorrane de Béziers**, amb data **1931–1931**, i la mostra dins del conjunt de premsa amb accés en línia. Encara no s’han inspeccionat els exemplars ni se n’ha extret cap número.
 - **La Societat de Veïns de Barcelona** i l'**Amicale Franco-Andorrane**: dates
   de fundació i qui les integrava.
 - **Capgrossos**: si el malnom dels consellers ve de la figura de festa major.

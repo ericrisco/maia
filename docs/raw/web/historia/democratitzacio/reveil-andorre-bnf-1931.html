@@ -1,0 +1,2003 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Presse locale ancienne - R&eacute;sultat recherche</title>
+	
+	<meta charset="UTF-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+	<link href="/resources/img/favicon.ico"" rel="shortcut icon"/>
+    <link href="/resources/css/bootstrap-3.3.5.min.css" rel="stylesheet">
+    <link href="/resources/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css"/>
+    <link href="/resources/css/style.css" rel="stylesheet" type="text/css"/>
+	
+	
+	<script src="/resources/js/jquery-1.10.2.js"></script>
+	<script src="/resources/js/jquery.mCustomScrollbar.concat.min.js"></script> 
+	
+	<script src="/resources/js/jquery.serializejson.min.js"></script>
+	<script src="/resources/js/jquery.jscrollpane.min.js"></script>
+	
+	<script src="/resources/js/jquery-ui-1.11.2.js"></script>
+	<script src="/resources/js/bootstrap-3.3.5.min.js"></script>
+	
+	
+	<script src="/resources/js/script.js"></script>
+	<script src="https://tarteaucitron.io/load.js?domain=presselocaleancienne.bnf.fr&uuid=91ba7c974c752a888f0a2765181efcbea3a33ef9"></script>
+	<!--[if lte IE 9]><script src="/resources/js/css3-multi-column.js"></script><![endif]--> 
+
+
+<link href="/resources/css/res_rech.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+	<a href="#main" class="visually-hidden focusable">Aller au contenu principal</a>
+<script>
+	function remplirInput(id,txt) {
+	  document.getElementById(id).value = txt;
+	  if (txt == 'tout') {
+			$('.options-journaux').attr('src', '/resources/img/icone-options-journal.png')
+	  } else {
+			$('.options-journaux').attr('src', '/resources/img/icone-options-digital.png')
+	  }
+	  $('.options-liste').hide();
+	}
+
+</script>
+<!--header-->
+    <header class="header row-flex" role="banner">
+    <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+              <!--menu-->
+              <div class="menu">
+                <img class="open-menu" src="/resources/img/icone-menu.png" alt="Menu">
+                <div class="information">
+                  <img class="close-menu" src="/resources/img/icone-quitter.png" alt="quitterMenu"><br class="quitter"/>
+                  <div class="description">
+                    <a href="/html/liens-directs-pour-chercher-des-journaux"><span>Liens directs pour chercher des journaux</span></a>
+                    <a href="/html/apercus-historiques-par-departement"><span>Aperçus historiques par département</span></a>
+                    <a href="/html/en-savoir-plus-sur-cette-bibliographie"><span>En savoir plus sur cette bibliographie</span></a>
+                    <a href="/html/rubriques-aide">Toutes les rubriques d'aide</a>
+                  </div>
+                </div>
+              </div>
+              <a href="http://www.bnf.fr" target="_blank"><img class="logo-bnf" src="/resources/img/logoBnf.png" alt="Aller sur le site web de la Bibliothèque nationale de France"></a>
+              <div class="slogan slogan-article"><a href="/">Presse locale ancienne</a></div>
+			  <div class="moteur-recherche">
+				  <div class="outils">
+					  <img class="options-journaux" src="/resources/img/icone-options-journal.png" alt="Options">
+					  <div class="options-liste">
+							<div class="opt1"><a onclick="javascript:remplirInput('type','tout');">
+								<span>Tous</span> les journaux</a><br class="quitter"/>
+							</div>
+							<div class="opt2">
+								<a onclick="javascript:remplirInput('type','enligne');">
+									<span>Seulement</span>
+									<span>les journaux</span>
+									<span>numérisés</span>
+								</a><br class="quitter"/>
+							</div>
+					  </div>
+					  <form action="/cherche" id="rechercheSimpleForm" class="search-form">
+					  	<input id="type" type="text" name="type" hidden="hidden"/>
+						<input class="search-element" title="Chercher des journaux" placeholder="Chercher des journaux" id="search-mot" name="mot" type="text" value="">
+						<button type="submit" title="La recherche interroge la fiche descriptive des journaux mais ne rentre pas dans le contenu des articles." class="btn-recherche-mot" data-toggle="tooltip" data-placement="right" rel="tooltip">
+						  <img src="/resources/img/icone-loupe.png" alt="Lancer la recherche" />
+						</button>
+						<a href="/rechercheAvancee" class="pictos picto-help plus" data-toggle="tooltip" data-placement="right" title="Recherche avancée" rel="tooltip">
+                     	  <img src="/resources/img/icone-add.png" alt="Recherche avancée">
+                    	</a>
+						<a href="#" class="pictos picto-help blue" data-toggle="tooltip" data-placement="right" title='Pour chercher par départements ou croiser plusieurs critères, cliquer sur "Recherche avancée"' rel="tooltip">
+						  <i class="icon-help" data-icon="&#xe602;"></i>
+						</a>
+						<a href="/" class="pictos picto-help plus pictos-recherche-carte" data-toggle="tooltip" data-placement="right" title="Recherche par carte" rel="tooltip">
+						  <img src="/resources/img/icone-map.png" alt="Recherche par carte">
+						</a>
+						<a href="#" class="pictos picto-help blue" data-toggle="tooltip" data-placement="right" title='Pour chercher sur la carte de France par région, département, arrondissement, cliquer sur "Recherche par carte"' rel="tooltip">
+						  <i class="icon-help" data-icon="&#xe602;"></i>
+						</a>
+					  </form>
+					</div>	  
+			  </div>
+              <br class="quitter"/>
+          </div>
+        </div>
+      </div>
+    </header><main  role="main" class="main main-article">
+	<div id="main" class="container">
+		<div class="row menu-flex">
+			<!--titre contenu-->
+			<div class="col-xs-12">
+				<div class="fil-ariane">
+					<a href="/">Accueil</a> >  <span>Liste de résultats</span>
+				</div>
+				<div class="nbnotices" id="result" role="heading" aria-level="1">
+					<span class="nb" id="nbNotice">4311 journaux anciens</span>
+				</div>
+			</div>
+		</div> 
+		<div class="row middle-row-flex">
+			<div class="col-xs-3 left-side">
+<!-- Facettes -->
+				<div class="facettes">
+					<div class="facettes-int">
+						<!-- Recap de la recherche -->
+						<div class="recherche-simple div-opened">
+							<h2>Votre Affinage</h2>
+							<div class="recap" id="titreRecherche">
+								<div class="filtre">
+									<div id="titrefacetteracherche" class="titrefacetterecherche">Années de parution</div>
+									<ul>
+									<li class="facetteSiecle">
+											<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&suppAffinage=20"></a>
+											<span>1900 - 1999</span>
+										</li>
+										<li class="facetteDecennie">
+												<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&suppAffinage=193"></a>
+												<span>1930 - 1939</span>
+											</li>
+											<li class="facetteAnnee">
+													<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&suppAffinage=1931.0"></a>
+													<span>1931</span>
+												</li>
+											</ul>
+								</div>
+								</div>
+						</div>
+						<!-- Affiner -->
+						<div class="affiner">
+							<h2>Affiner</h2>
+							<div id="plusFacettesAffiche">
+								<div class="section section-opened" id="titrefacette-FacDat">
+									<h3><a href="#" role="button" aria-expanded="false">Années de parution</a></h3>
+									<!-- Contenu de la facette -->
+									<div id="plusFacettes1" class="contenu-section">
+										<ul>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&siecle=18">1700 - 1799 (2)</a>
+												<ul>
+												</ul><hr class="facette-hr">										
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&siecle=19">1800 - 1899 (1074)</a>
+												<ul>
+												</ul><hr class="facette-hr">										
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&siecle=20">1900 - 1999 (4311)</a>
+												<ul>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=190">1900 - 1909 (1501)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=191">1910 - 1919 (1932)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=192">1920 - 1929 (3560)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=193">1930 - 1939 (4311)</a>
+														</span>
+														<ul>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1930.0">1930 (3870)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1931.0">1931 (4311)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1932.0">1932 (3912)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1933.0">1933 (3548)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1934.0">1934 (3364)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1935.0">1935 (3170)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1936.0">1936 (2978)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1937.0">1937 (2765)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1938.0">1938 (2600)</a></span></li>
+															<li><span><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&anneeFac=1939.0">1939 (2416)</a></span></li>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=194">1940 - 1949 (1942)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=195">1950 - 1959 (605)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=196">1960 - 1969 (425)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=197">1970 - 1979 (281)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=198">1980 - 1989 (210)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												<li>
+														<span>
+															<a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&decennie=199">1990 - 1999 (174)</a>
+														</span>
+														<ul>
+															</ul>
+													</li>
+												</ul><hr class="facette-hr">										
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&siecle=21">2000 - 2099 (143)</a>
+												<ul>
+												</ul><hr class="facette-hr">										
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="section section-opened" id="titrefacette-FacEnLigne">
+									<h3><a href="#" role="button" aria-expanded="false">Accès en ligne</a></h3>
+									<!-- Contenu de la facette -->
+									<div id="plusFacettes3" class="contenu-section">
+										<ul>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteEnLigne=O">Journaux numérisés (1313)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteEnLigne=N">Journaux non numérisés (2998)</a>
+														<hr class="facette-hr">
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="section section-opened" id="titrefacette-FacDpt">
+									<h3><a href="#" role="button" aria-expanded="false">Départements</a></h3>
+									<!-- Contenu de la facette -->
+									<div id="plusFacettes2" class="contenu-section">
+										<ul>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d59">59 Nord (234)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d13">13 Bouches-du-Rhône (180)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d76">76 Seine-Maritime (159)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d33">33 Gironde (151)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d69">69 Rhône (144)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d06">06 Alpes-Maritimes (143)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d62">62 Pas-de-Calais (127)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d30">30 Gard (98)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d54">54 Meurthe-et-Moselle (95)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d31">31 Haute-Garonne (94)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d35">35 Ille-et-Vilaine (93)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d14">14 Calvados (91)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d27">27 Eure (88)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d17">17 Charente-Maritime (85)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d34">34 Hérault (83)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d38">38 Isère (78)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d63">63 Puy-de-Dôme (78)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d44">44 Loire-Atlantique (77)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d57">57 Moselle (75)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d64">64 Pyrénées-Atlantiques (75)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d03">03 Allier (68)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d24">24 Dordogne (68)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d29">29 Finistère (66)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d51">51 Marne (66)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d71">71 Saône-et-Loire (66)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d61">61 Orne (65)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d21">21 Côte-d’Or (64)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d37">37 Indre-et-Loire (62)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d88">88 Vosges (61)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d22">22 Côtes-d’Armor (60)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d83">83 Var (59)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d50">50 Manche (58)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d72">72 Sarthe (57)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d49">49 Maine-et-Loire (54)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d11">11 Aude (51)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d58">58 Nièvre (51)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d87">87 Haute-Vienne (51)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d26">26 Drôme (49)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d20">20 Corse (48)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d47">47 Lot-et-Garonne (48)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d16">16 Charente (47)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d08">08 Ardennes (46)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d18">18 Cher (46)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d41">41 Loir-et-Cher (46)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d45">45 Loiret (46)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d77">77 Seine-et-Marne (46)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d73">73 Savoie (45)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d81">81 Tarn (45)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d25">25 Doubs (44)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d79">79 Deux-Sèvres (44)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d56">56 Morbihan (43)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d65">65 Hautes-Pyrénées (43)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d10">10 Aube (41)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d55">55 Meuse (39)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d66">66 Pyrénées-Orientales (39)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d84">84 Vaucluse (39)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d89">89 Yonne (39)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d01">01 Ain (38)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d12">12 Aveyron (38)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d86">86 Vienne (38)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d28">28 Eure-et-Loir (37)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d32">32 Gers (37)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d40">40 Landes (37)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d53">53 Mayenne (37)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d15">15 Cantal (36)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d36">36 Indre (36)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d05">05 Hautes-Alpes (33)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d85">85 Vendée (32)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d09">09 Ariège (31)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d46">46 Lot (31)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d04">04 Alpes-de-Haute-Provence (30)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d19">19 Corrèze (30)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d976">976 Mayotte (30)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d39">39 Jura (27)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d70">70 Haute-Saône (27)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d43">43 Haute-Loire (23)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d82">82 Tarn-et-Garonne (23)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d52">52 Haute-Marne (22)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d48">48 Lozère (20)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d23">23 Creuse (19)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d90">90 Territoire de Belfort (19)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d74">74 Haute-Savoie (16)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d971">971 Guadeloupe (14)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d972">972 Martinique (13)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d974">974 La Réunion (12)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d98">98 Principauté de Monaco (9)</a>
+														<hr class="facette-hr">
+											</li>
+										<li><a href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&nombrePages=1&page=1&taille=100&facetteDpt=d973">973 Guyane (2)</a>
+														<hr class="facette-hr">
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-xs-6 center-side">
+				<div class="row-liste">
+					<!-- Listes des notices trouvées -->
+					<div class="selection">
+						<form action="">
+							<input name="cbSel" id="cbSel" title="Tout sélectionner" type="checkbox">
+							<a href="/ark" id="selectNotice">
+								<span class="pictos"><i class="icon-select" title="Voir la sélection" data-icon="&#xe614;"></i></span>
+								<span class="libelle">Voir la sélection (
+									<span id="nbSelectNotice"></span>
+								)</span>
+							</a>
+							<input id="ttSelect" value="Tout sélectionner" type="hidden">
+							<input id="ttDeselect" value="Tout désélectionner" type="hidden">
+							<div class="export-csv">
+							<a id="exportCSV" href="#"> 
+							<span class="pictos"><i class="icon-csv" title="export CSV"></i></span>
+							
+							<span class="libelle">Exporter tous les résultats en CSV</span>
+							</a>
+				            </div>
+						</form>
+					</div>
+				
+				</div>
+				
+				<!-- Tri et pagination -->
+			<div class="pagination-liste">
+				<form action="cherche" id="barreDuHaut" name="barreDuHaut">
+					<input type="hidden" name="av" value="false"/>
+					<input type="hidden" name="type" value="tout"/>
+					<input type="hidden" name="mot" value=""/>					
+					<input type="hidden" name="equRech1" value="mot"/>
+					<input type="hidden" name="mot1" value=""/>
+					<input type="hidden" name="typeRechCritere1" value="all"/>
+					<input type="hidden" name="relation" value="et"/>
+					<input type="hidden" name="equRech2" value="mot"/>
+					<input type="hidden" name="mot2" value=""/>
+					<input type="hidden" name="typeRechCritere2" value="all"/>
+					<input type="hidden" name="territoire" value=""/>
+					<input type="hidden" name="siecle" value="20"/>
+					<input type="hidden" name="decennie" value="193,193"/>
+					<input type="hidden" name="annee" value=""/>
+					<input type="hidden" name="anneeFac" value="1931.0"/>
+					<input type="hidden" name="facetteDpt" value=""/>
+					<input type="hidden" name="facetteEnLigne" value=""/>
+					<input type="hidden" name="nombrePages" value="44"/>
+
+					<!-- Tri par pertinence -->
+						<div class="tri">
+								<div class="skin-select">
+									<label for="triDuHaut">Tri par :</label>
+									<select id="triDuHaut" name="tri" onchange="validerTriDuHaut();">
+										<option  value="date">Date (croissant)</option>
+										<option selected="selected" value="datedecr">Date (décroissant)</option>
+										<option  value="titre">Nom du journal (a..z)</option>
+										<option  value="titreza">Nom du journal (z..a)</option>
+										<option  value="pertinence">Pertinence</option>
+									</select>
+								</div>
+						</div>
+						<!-- Navigation entre pages -->
+						<ul class="pages">
+							<li>
+								<input type="text" value="1" title="Aller à la page" name="page" id="pageDuHaut" class="page" onchange="validerPaginationDuHaut(44)" onKeyPress="OnKeyPressDuHaut(event,44)"  /> 
+								<span>sur&nbsp;44</span>
+							</li>
+							<li>
+								<a class="pictos" title="Page suivante" href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr
+								&page=2&taille=100&nombrePages=44">
+									<i class="icon-next" title="Page suivante" data-icon="&#xe607;"></i></a>
+							</li>
+							<li>
+								<a class="pictos" title="Dernière page" href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&page=44&taille=100&nombrePages=44">
+									<i class="icon-last" title="Dernière page" data-icon="&#xe610;"></i>
+								</a>
+							</li>
+								</ul>
+						<!-- Affichage du nombres de notice/pages -->
+						<div class="nbres">
+							<div class="skin-select">
+								<select name="taille" title="Nombre de résultats par page" onchange='validerNbResultatsDuHaut();'>
+									<option value="10"  >10 résultats/page</option>
+									<option value="20"  >20 résultats/page</option>
+									<option value="50"  >50 résultats/page</option>
+								</select>
+							</div>
+						</div>
+					</form>
+			</div>
+			<script>
+	
+	function validerTriDuHaut() {
+		$('#pageDuHaut').val(1);
+		$('#barreDuHaut').submit();			
+	}
+	function validerNbResultatsDuHaut() {
+		$('#pageDuHaut').val(1);
+		$('#barreDuHaut').submit();			
+	}
+
+			
+			
+	function validerPaginationDuHaut(nombrePages) {
+		if($('#pageDuHaut').val() <= nombrePages) {};
+		if($('#pageDuHaut').val() > nombrePages) {
+			$('#pageDuHaut').val(nombrePages);
+		};
+		$('#barreDuHaut').submit();			
+	}
+
+	function OnKeyPressDuHaut(event, nombrePages) {
+		var chCode = ('charCode' in event) ? event.charCode : event.keyCode;
+		if (chCode == 0) {
+			if($('#pageDuHaut').val() <= nombrePages) {};
+			if($('#pageDuHaut').val() > nombrePages) {
+				$('#pageDuHaut').val(nombrePages);
+			};
+			$('#barreDuHaut').submit();	
+		}
+	}
+			</script>
+<!-- Fin tri et pagination --><div class="liste-notices">
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">1</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb412744950" id="cb412744950" title="S&eacute;lectionner Le Travail de la Marne. Suppl&eacute;ment illustr&eacute;"><input type="hidden" name="url" value="ark:/12148/cb412744950"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb412744950">Le Travail de la Marne. Suppl&eacute;ment illustr&eacute;</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">2</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41256306b" id="cb41256306b" title="S&eacute;lectionner Eur ger : bulletin mensuel breton"><input type="hidden" name="url" value="ark:/12148/cb41256306b"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41256306b">Eur ger : bulletin mensuel breton</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">3</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb45861627q" id="cb45861627q" title="S&eacute;lectionner Plages normandes du pays de Caux"><input type="hidden" name="url" value="ark:/12148/cb45861627q"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb45861627q">Plages normandes du pays de Caux</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1939</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">4</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb44254915w" id="cb44254915w" title="S&eacute;lectionner Nous... et lui... : revue [&quot;puis&quot; revue mensuelle] de documentation pratique : commerce, industrie, agriculture, assurances sociales"><input type="hidden" name="url" value="ark:/12148/cb44254915w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb44254915w">Nous... et lui... : revue ["puis" revue mensuelle] de documentation pratique : commerce, industrie, agriculture, assurances sociales</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">5</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb412927080" id="cb412927080" title="S&eacute;lectionner Pau mondial : B&eacute;arn-Bigorre-Aragon : revue illustr&eacute;e du Sud-Ouest"><input type="hidden" name="url" value="ark:/12148/cb412927080"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb412927080">Pau mondial : B&eacute;arn-Bigorre-Aragon : revue illustr&eacute;e du Sud-Ouest</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">6</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb412878800" id="cb412878800" title="S&eacute;lectionner Zorza"><input type="hidden" name="url" value="ark:/12148/cb412878800"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb412878800">Zorza</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">7</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41254083g" id="cb41254083g" title="S&eacute;lectionner Aubusson r&eacute;publicain : journal hebdomadaire paraissant le jeudi"><input type="hidden" name="url" value="ark:/12148/cb41254083g"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41254083g">Aubusson r&eacute;publicain : journal hebdomadaire paraissant le jeudi</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">8</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41285944x" id="cb41285944x" title="S&eacute;lectionner Le Syndiqu&eacute; unitaire : feuille de propagande / Section syndicale unitaire, Fosses 3, 3 bis et 3 ter"><input type="hidden" name="url" value="ark:/12148/cb41285944x"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41285944x">Le Syndiqu&eacute; unitaire : feuille de propagande / Section syndicale unitaire, Fosses 3, 3 bis et 3 ter</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">9</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41487306j" id="cb41487306j" title="S&eacute;lectionner Bulletin du Syndicat du commerce montreuillois et des environs"><input type="hidden" name="url" value="ark:/12148/cb41487306j"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41487306j">Bulletin du Syndicat du commerce montreuillois et des environs</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">10</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41396681x" id="cb41396681x" title="S&eacute;lectionner Insorgiamo! : periodico anarchico"><input type="hidden" name="url" value="ark:/12148/cb41396681x"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41396681x">Insorgiamo! : periodico anarchico</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">11</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41285989w" id="cb41285989w" title="S&eacute;lectionner La Semaine &agrave; Boulogne-sur-Mer : revue du Syndicat d'initiative"><input type="hidden" name="url" value="ark:/12148/cb41285989w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41285989w">La Semaine &agrave; Boulogne-sur-Mer : revue du Syndicat d'initiative</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">12</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb414899269" id="cb414899269" title="S&eacute;lectionner Le Lido de la C&ocirc;te Vermeille"><input type="hidden" name="url" value="ark:/12148/cb414899269"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb414899269">Le Lido de la C&ocirc;te Vermeille</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1935</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">13</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32824302x" id="cb32824302x" title="S&eacute;lectionner Les Normands de Brest et du Finist&egrave;re : bulletin trimestriel de l'Association amicale des Normands de Brest et du Finist&egrave;re"><input type="hidden" name="url" value="ark:/12148/cb32824302x"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32824302x">Les Normands de Brest et du Finist&egrave;re : bulletin trimestriel de l'Association amicale des Normands de Brest et du Finist&egrave;re</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1938</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">14</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41287492w" id="cb41287492w" title="S&eacute;lectionner L'Union sociale r&eacute;publicaine d'Aire-sur-la-Lys : organe politique"><input type="hidden" name="url" value="ark:/12148/cb41287492w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41287492w">L'Union sociale r&eacute;publicaine d'Aire-sur-la-Lys : organe politique</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1937</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">15</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32854019f" id="cb32854019f" title="S&eacute;lectionner Le R&eacute;veil de l'Andorre : organe officiel [&quot;puis&quot; mensuel] de l'Amicale franco-andorrane de B&eacute;ziers"><input type="hidden" name="url" value="ark:/12148/cb32854019f"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32854019f">Le R&eacute;veil de l'Andorre : organe officiel ["puis" mensuel] de l'Amicale franco-andorrane de B&eacute;ziers</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">16</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb414908200" id="cb414908200" title="S&eacute;lectionner Le M&eacute;morial"><input type="hidden" name="url" value="ark:/12148/cb414908200"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb414908200">Le M&eacute;morial</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">17</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb423353854" id="cb423353854" title="S&eacute;lectionner Nancy-Est : journal d'union r&eacute;publicaine et d&eacute;mocratique"><input type="hidden" name="url" value="ark:/12148/cb423353854"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb423353854">Nancy-Est : journal d'union r&eacute;publicaine et d&eacute;mocratique</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">18</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb42463689n" id="cb42463689n" title="S&eacute;lectionner L'&Eacute;tincelle de l'Est : bulletin [&quot;puis&quot; organe] mensuel de la r&eacute;gion de l'Est de la Ligue communiste (opposition)"><input type="hidden" name="url" value="ark:/12148/cb42463689n"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb42463689n">L'&Eacute;tincelle de l'Est : bulletin ["puis" organe] mensuel de la r&eacute;gion de l'Est de la Ligue communiste (opposition)</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1933</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">19</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb437595778" id="cb437595778" title="S&eacute;lectionner Le Messager du Verdon : journal p&eacute;riodique : touristique, &eacute;conomique, agricole et d'annonces l&eacute;gales"><input type="hidden" name="url" value="ark:/12148/cb437595778"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb437595778">Le Messager du Verdon : journal p&eacute;riodique : touristique, &eacute;conomique, agricole et d'annonces l&eacute;gales</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">20</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327788295" id="cb327788295" title="S&eacute;lectionner Le Frisson : Hebdomadaire humoristique, litt&eacute;raire, sportif"><input type="hidden" name="url" value="ark:/12148/cb327788295"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327788295">Le Frisson : Hebdomadaire humoristique, litt&eacute;raire, sportif</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">21</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb47714006w" id="cb47714006w" title="S&eacute;lectionner Le Bagne Arbel : &eacute;dit&eacute; par le Syndicat unitaire des m&eacute;taux de Douai"><input type="hidden" name="url" value="ark:/12148/cb47714006w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb47714006w">Le Bagne Arbel : &eacute;dit&eacute; par le Syndicat unitaire des m&eacute;taux de Douai</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">22</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb43646723s" id="cb43646723s" title="S&eacute;lectionner L'&Eacute;cho des Andelys et de la r&eacute;gion"><input type="hidden" name="url" value="ark:/12148/cb43646723s"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb43646723s">L'&Eacute;cho des Andelys et de la r&eacute;gion</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">23</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb42729156f" id="cb42729156f" title="S&eacute;lectionner Le M&eacute;morial : journal hebdomadaire de l'arrondissement de Bar-sur-Aube"><input type="hidden" name="url" value="ark:/12148/cb42729156f"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb42729156f">Le M&eacute;morial : journal hebdomadaire de l'arrondissement de Bar-sur-Aube</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">24</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb477073961" id="cb477073961" title="S&eacute;lectionner Am&eacute;ricain bagne : organe de la Cellule d'usine de la CIMA"><input type="hidden" name="url" value="ark:/12148/cb477073961"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb477073961">Am&eacute;ricain bagne : organe de la Cellule d'usine de la CIMA</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">25</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621704k" id="cb48621704k" title="S&eacute;lectionner Le M&eacute;tallo : organe des m&eacute;tallurgistes de chez Fouga"><input type="hidden" name="url" value="ark:/12148/cb48621704k"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621704k">Le M&eacute;tallo : organe des m&eacute;tallurgistes de chez Fouga</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">26</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621686g" id="cb48621686g" title="S&eacute;lectionner Le Jeune m&eacute;tallo : organe des jeunes m&eacute;tallos de chez Fouga"><input type="hidden" name="url" value="ark:/12148/cb48621686g"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621686g">Le Jeune m&eacute;tallo : organe des jeunes m&eacute;tallos de chez Fouga</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">27</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb485095391" id="cb485095391" title="S&eacute;lectionner Le Docker rouge : organe des ouvriers du port de S&egrave;te"><input type="hidden" name="url" value="ark:/12148/cb485095391"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb485095391">Le Docker rouge : organe des ouvriers du port de S&egrave;te</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">28</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621489z" id="cb48621489z" title="S&eacute;lectionner L'Exploit&eacute; r&eacute;fractaire : organe de la Cellule de l'usine Lafarge"><input type="hidden" name="url" value="ark:/12148/cb48621489z"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621489z">L'Exploit&eacute; r&eacute;fractaire : organe de la Cellule de l'usine Lafarge</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">29</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32734896h" id="cb32734896h" title="S&eacute;lectionner Le Cabard&egrave;s socialiste : journal hebdomadaire"><input type="hidden" name="url" value="ark:/12148/cb32734896h"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32734896h">Le Cabard&egrave;s socialiste : journal hebdomadaire</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">30</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32821235w" id="cb32821235w" title="S&eacute;lectionner La Musique dans l'Yonne et l'Aube : journal musical, artistique, litt&eacute;raire et critique [&quot;puis&quot; &eacute;chos des &eacute;ditions et de la &quot;vie artistique parisienne&quot; &quot;puis&quot; le tour de chant, caf&eacute;-concert, les artistes &agrave; Paris : le plus important journal mensuel de la musique populaire]"><input type="hidden" name="url" value="ark:/12148/cb32821235w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32821235w">La Musique dans l'Yonne et l'Aube : journal musical, artistique, litt&eacute;raire et critique ["puis" &eacute;chos des &eacute;ditions et de la "vie artistique parisienne" "puis" le tour de chant, caf&eacute;-concert, les artistes &agrave; Paris : le plus important journal mensuel de la musique populaire]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">31</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32854707c" id="cb32854707c" title="S&eacute;lectionner Le R&eacute;veil du pigeon : Journal bimensuel"><input type="hidden" name="url" value="ark:/12148/cb32854707c"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32854707c">Le R&eacute;veil du pigeon : Journal bimensuel</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">32</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328025288" id="cb328025288" title="S&eacute;lectionner Joyeusement : journal paraissant le 25 de chaque mois"><input type="hidden" name="url" value="ark:/12148/cb328025288"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328025288">Joyeusement : journal paraissant le 25 de chaque mois</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">33</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327806694" id="cb327806694" title="S&eacute;lectionner La Gazette d&eacute;mocratique"><input type="hidden" name="url" value="ark:/12148/cb327806694"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327806694">La Gazette d&eacute;mocratique</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">34</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32871119d" id="cb32871119d" title="S&eacute;lectionner Le Soupir : Journal hebdomadaire, humoristique, litt&eacute;raire, sportif"><input type="hidden" name="url" value="ark:/12148/cb32871119d"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32871119d">Le Soupir : Journal hebdomadaire, humoristique, litt&eacute;raire, sportif</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">35</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb41292761f" id="cb41292761f" title="S&eacute;lectionner Sur la C&ocirc;te basque : (Pyr&eacute;n&eacute;es-oc&eacute;an) : revue illustr&eacute;e du Sud-Ouest : organe publi&eacute; avec l'appui et la collaboration des syndicats d'initiative des Pyr&eacute;n&eacute;es, de la C&ocirc;te basque, de la C&ocirc;te d'Argent et de leurs f&eacute;d&eacute;rations"><input type="hidden" name="url" value="ark:/12148/cb41292761f"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb41292761f">Sur la C&ocirc;te basque : (Pyr&eacute;n&eacute;es-oc&eacute;an) : revue illustr&eacute;e du Sud-Ouest : organe publi&eacute; avec l'appui et la collaboration des syndicats d'initiative des Pyr&eacute;n&eacute;es, de la C&ocirc;te basque, de la C&ocirc;te d'Argent et de leurs f&eacute;d&eacute;rations</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">36</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb486228101" id="cb486228101" title="S&eacute;lectionner La Schappe rouge : &eacute;dit&eacute; par la Cellule communiste du Vigan"><input type="hidden" name="url" value="ark:/12148/cb486228101"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb486228101">La Schappe rouge : &eacute;dit&eacute; par la Cellule communiste du Vigan</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">37</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb486216525" id="cb486216525" title="S&eacute;lectionner Le Jeune exploit&eacute; de chez Dupr&eacute; : &eacute;dit&eacute; par la Section des jeunes syndiqu&eacute;s unitaires de chez Dupr&eacute;"><input type="hidden" name="url" value="ark:/12148/cb486216525"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb486216525">Le Jeune exploit&eacute; de chez Dupr&eacute; : &eacute;dit&eacute; par la Section des jeunes syndiqu&eacute;s unitaires de chez Dupr&eacute;</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">38</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb486214549" id="cb486214549" title="S&eacute;lectionner L'Exploit&eacute; : organe de la Cellule des Ateliers Richard-Ducros"><input type="hidden" name="url" value="ark:/12148/cb486214549"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb486214549">L'Exploit&eacute; : organe de la Cellule des Ateliers Richard-Ducros</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">39</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb486230284" id="cb486230284" title="S&eacute;lectionner La Voix des exploit&eacute;s de Narbonne : journal &eacute;dit&eacute; par la cellule de rue"><input type="hidden" name="url" value="ark:/12148/cb486230284"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb486230284">La Voix des exploit&eacute;s de Narbonne : journal &eacute;dit&eacute; par la cellule de rue</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">40</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32839802q" id="cb32839802q" title="S&eacute;lectionner Les Pieuvres : organe mensuel d'informations fiscales de l'arrondissement de Libourne"><input type="hidden" name="url" value="ark:/12148/cb32839802q"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32839802q">Les Pieuvres : organe mensuel d'informations fiscales de l'arrondissement de Libourne</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">41</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32863233h" id="cb32863233h" title="S&eacute;lectionner Le Rubrimontain : journal r&eacute;publicain de la r&eacute;gion de Rougemont"><input type="hidden" name="url" value="ark:/12148/cb32863233h"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32863233h">Le Rubrimontain : journal r&eacute;publicain de la r&eacute;gion de Rougemont</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">42</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328012344" id="cb328012344" title="S&eacute;lectionner Journal du Var : Hebdomadaire d'annonces et d'exacte information"><input type="hidden" name="url" value="ark:/12148/cb328012344"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328012344">Journal du Var : Hebdomadaire d'annonces et d'exacte information</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">43</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32709016d" id="cb32709016d" title="S&eacute;lectionner L'Avenir savoyard : [&quot;puis&quot; Journal hebdomadaire]"><input type="hidden" name="url" value="ark:/12148/cb32709016d"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32709016d">L'Avenir savoyard : ["puis" Journal hebdomadaire]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1940</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">44</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327249988" id="cb327249988" title="S&eacute;lectionner Bulletin de la ville de Basse-Yutz"><input type="hidden" name="url" value="ark:/12148/cb327249988"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327249988">Bulletin de la ville de Basse-Yutz</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">45</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32710118d" id="cb32710118d" title="S&eacute;lectionner Le Bas-Limousin commercial : organe de la F&eacute;d&eacute;ration de d&eacute;fense du commerce, de l'industrie et de l'artisanat de l'arrondissement de Brive-la-Gaillarde"><input type="hidden" name="url" value="ark:/12148/cb32710118d"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32710118d">Le Bas-Limousin commercial : organe de la F&eacute;d&eacute;ration de d&eacute;fense du commerce, de l'industrie et de l'artisanat de l'arrondissement de Brive-la-Gaillarde</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">46</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32752250g" id="cb32752250g" title="S&eacute;lectionner Le Cri de Bordeaux et du M&eacute;doc"><input type="hidden" name="url" value="ark:/12148/cb32752250g"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32752250g">Le Cri de Bordeaux et du M&eacute;doc</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">47</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328919536" id="cb328919536" title="S&eacute;lectionner La Voix syndicale / publi&eacute; sous le contr&ocirc;le du Comit&eacute; de propagande pour l'unit&eacute; syndicale"><input type="hidden" name="url" value="ark:/12148/cb328919536"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328919536">La Voix syndicale / publi&eacute; sous le contr&ocirc;le du Comit&eacute; de propagande pour l'unit&eacute; syndicale</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">48</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328405247" id="cb328405247" title="S&eacute;lectionner Le Poilu : organe mensuel d'anciens combattants du Finist&egrave;re"><input type="hidden" name="url" value="ark:/12148/cb328405247"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328405247">Le Poilu : organe mensuel d'anciens combattants du Finist&egrave;re</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1939</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">49</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32748124w" id="cb32748124w" title="S&eacute;lectionner Le Coop&eacute;rateur : organe trimestriel de l'Union prol&eacute;tarienne"><input type="hidden" name="url" value="ark:/12148/cb32748124w"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32748124w">Le Coop&eacute;rateur : organe trimestriel de l'Union prol&eacute;tarienne</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">50</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32865184m" id="cb32865184m" title="S&eacute;lectionner La Savoie touristique : Bulletin officiel des &eacute;tats g&eacute;n&eacute;raux du tourisme savoyard"><input type="hidden" name="url" value="ark:/12148/cb32865184m"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32865184m">La Savoie touristique : Bulletin officiel des &eacute;tats g&eacute;n&eacute;raux du tourisme savoyard</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1937</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">51</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328098054" id="cb328098054" title="S&eacute;lectionner La Lutte : organe de publicit&eacute; collective, &eacute;conomique, industrielle et commerciale"><input type="hidden" name="url" value="ark:/12148/cb328098054"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328098054">La Lutte : organe de publicit&eacute; collective, &eacute;conomique, industrielle et commerciale</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">52</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328918668" id="cb328918668" title="S&eacute;lectionner La Voix potache : le plus int&eacute;ressant des journaux potaches, journal hebdomadaire, humoristique, litt&eacute;raire et sportif [&quot;puis&quot; hebdomadaire de la vie potache]"><input type="hidden" name="url" value="ark:/12148/cb328918668"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328918668">La Voix potache : le plus int&eacute;ressant des journaux potaches, journal hebdomadaire, humoristique, litt&eacute;raire et sportif ["puis" hebdomadaire de la vie potache]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1933</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">53</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32864127j" id="cb32864127j" title="S&eacute;lectionner Saint-Florentin et sa r&eacute;gion : organe du Syndicat d'initiative"><input type="hidden" name="url" value="ark:/12148/cb32864127j"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32864127j">Saint-Florentin et sa r&eacute;gion : organe du Syndicat d'initiative</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">54</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327894285" id="cb327894285" title="S&eacute;lectionner L'Ind&eacute;pendant : Organe bi-mensuel de d&eacute;fense de la d&eacute;mocratie varoise et des int&eacute;r&ecirc;ts g&eacute;n&eacute;raux du d&eacute;partement et de l'arrondissement"><input type="hidden" name="url" value="ark:/12148/cb327894285"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327894285">L'Ind&eacute;pendant : Organe bi-mensuel de d&eacute;fense de la d&eacute;mocratie varoise et des int&eacute;r&ecirc;ts g&eacute;n&eacute;raux du d&eacute;partement et de l'arrondissement</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">55</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32867329h" id="cb32867329h" title="S&eacute;lectionner Le Semeur normand : &eacute;conomie, politique, agriculture, commerce, industrie, litt&eacute;rature"><input type="hidden" name="url" value="ark:/12148/cb32867329h"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32867329h">Le Semeur normand : &eacute;conomie, politique, agriculture, commerce, industrie, litt&eacute;rature</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">56</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48504440r" id="cb48504440r" title="S&eacute;lectionner Le Cri des jeunes : &eacute;dit&eacute; par la Cellule des jeunes de La Grand'Combe (Gard)"><input type="hidden" name="url" value="ark:/12148/cb48504440r"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48504440r">Le Cri des jeunes : &eacute;dit&eacute; par la Cellule des jeunes de La Grand'Combe (Gard)</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">57</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48622986j" id="cb48622986j" title="S&eacute;lectionner Le Tube des exploit&eacute;s de l'Escaut &amp; Meuse"><input type="hidden" name="url" value="ark:/12148/cb48622986j"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48622986j">Le Tube des exploit&eacute;s de l'Escaut &amp; Meuse</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">58</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48622888z" id="cb48622888z" title="S&eacute;lectionner L'&Eacute;veil des textile [sic] : Fives, Hellemmes : journal d'usine &eacute;dit&eacute; par la Section syndical[e] d'Hellemmes Fives"><input type="hidden" name="url" value="ark:/12148/cb48622888z"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48622888z">L'&Eacute;veil des textile [sic] : Fives, Hellemmes : journal d'usine &eacute;dit&eacute; par la Section syndical[e] d'Hellemmes Fives</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">59</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621899c" id="cb48621899c" title="S&eacute;lectionner Głos z czeluści : organ Sekcji syndykalnej g&oacute;rnik&oacute;w Fontany i Rochebeli : w języku polskim wydawany przes Sekcję syn. g&oacute;rnik&oacute;w (CGTU)"><input type="hidden" name="url" value="ark:/12148/cb48621899c"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621899c">Głos z czeluści : organ Sekcji syndykalnej g&oacute;rnik&oacute;w Fontany i Rochebeli : w języku polskim wydawany przes Sekcję syn. g&oacute;rnik&oacute;w (CGTU)</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">60</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327694142" id="cb327694142" title="S&eacute;lectionner L'Est agricole : journal des agriculteurs et des &eacute;leveurs"><input type="hidden" name="url" value="ark:/12148/cb327694142"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327694142">L'Est agricole : journal des agriculteurs et des &eacute;leveurs</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">61</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32864356p" id="cb32864356p" title="S&eacute;lectionner La Saison des stations thermales du Centre : Vichy, Royat, La Bourboule, St Nectaire, Le Mont-Dore, Ch&acirc;tel-Guyon etc."><input type="hidden" name="url" value="ark:/12148/cb32864356p"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32864356p">La Saison des stations thermales du Centre : Vichy, Royat, La Bourboule, St Nectaire, Le Mont-Dore, Ch&acirc;tel-Guyon etc.</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">62</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32825298r" id="cb32825298r" title="S&eacute;lectionner Notre messager : correspondance trimestrielle des protestants diss&eacute;min&eacute;s de l'Yonne [&quot;puis&quot; et de la C&ocirc;te-d'Or]"><input type="hidden" name="url" value="ark:/12148/cb32825298r"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32825298r">Notre messager : correspondance trimestrielle des protestants diss&eacute;min&eacute;s de l'Yonne ["puis" et de la C&ocirc;te-d'Or]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">63</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32763120q" id="cb32763120q" title="S&eacute;lectionner L'&Eacute;cho sablais : bulletin du Syndicat des propri&eacute;taires et loueurs en meubl&eacute; saisonniers des &quot;Sables d'Olonne&quot;"><input type="hidden" name="url" value="ark:/12148/cb32763120q"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32763120q">L'&Eacute;cho sablais : bulletin du Syndicat des propri&eacute;taires et loueurs en meubl&eacute; saisonniers des "Sables d'Olonne"</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1940</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">64</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327512805" id="cb327512805" title="S&eacute;lectionner Le Courrier du M&eacute;doc : organe d'action r&eacute;publicaine radicale et sociale pour la d&eacute;fense des int&eacute;r&ecirc;ts du M&eacute;doc"><input type="hidden" name="url" value="ark:/12148/cb327512805"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327512805">Le Courrier du M&eacute;doc : organe d'action r&eacute;publicaine radicale et sociale pour la d&eacute;fense des int&eacute;r&ecirc;ts du M&eacute;doc</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">65</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32752440q" id="cb32752440q" title="S&eacute;lectionner Le Cri du cœur : journal humoristique et corporatif des percepteurs [&quot;puis&quot; journal humoristique ind&eacute;pendant des comptables du Tr&eacute;sor]"><input type="hidden" name="url" value="ark:/12148/cb32752440q"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32752440q">Le Cri du cœur : journal humoristique et corporatif des percepteurs ["puis" journal humoristique ind&eacute;pendant des comptables du Tr&eacute;sor]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1933</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">66</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32761196g" id="cb32761196g" title="S&eacute;lectionner L'&Eacute;cho de Vaour : journal de d&eacute;fense des int&eacute;r&ecirc;ts du canton"><input type="hidden" name="url" value="ark:/12148/cb32761196g"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32761196g">L'&Eacute;cho de Vaour : journal de d&eacute;fense des int&eacute;r&ecirc;ts du canton</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">67</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327090570" id="cb327090570" title="S&eacute;lectionner L'Avenir socialiste de Vaucluse"><input type="hidden" name="url" value="ark:/12148/cb327090570"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327090570">L'Avenir socialiste de Vaucluse</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1933</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">68</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328168288" id="cb328168288" title="S&eacute;lectionner La Mise en bo&icirc;te : journal humanitaire antineurasth&eacute;nique, paraissant &agrave; chaque sortie de Mar&eacute;ville de ses principaux r&eacute;dacteurs"><input type="hidden" name="url" value="ark:/12148/cb328168288"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328168288">La Mise en bo&icirc;te : journal humanitaire antineurasth&eacute;nique, paraissant &agrave; chaque sortie de Mar&eacute;ville de ses principaux r&eacute;dacteurs</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">69</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32881029n" id="cb32881029n" title="S&eacute;lectionner La Tribune de Montb&eacute;liard et de Morteau : organe de la F&eacute;d&eacute;ration SFIO du Doubs, socialiste, syndicaliste"><input type="hidden" name="url" value="ark:/12148/cb32881029n"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32881029n">La Tribune de Montb&eacute;liard et de Morteau : organe de la F&eacute;d&eacute;ration SFIO du Doubs, socialiste, syndicaliste</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1935</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">70</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb47714023g" id="cb47714023g" title="S&eacute;lectionner Barque rouge : journal d'usine des ouvriers &amp; ouvri&egrave;res de l'usine Marot / &eacute;dit&eacute; par la cellule communiste"><input type="hidden" name="url" value="ark:/12148/cb47714023g"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb47714023g">Barque rouge : journal d'usine des ouvriers &amp; ouvri&egrave;res de l'usine Marot / &eacute;dit&eacute; par la cellule communiste</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">71</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32822255r" id="cb32822255r" title="S&eacute;lectionner Nation de Bretagne : revue annuelle de l'Association des &eacute;tudiants bretons d'Angers"><input type="hidden" name="url" value="ark:/12148/cb32822255r"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32822255r">Nation de Bretagne : revue annuelle de l'Association des &eacute;tudiants bretons d'Angers</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1953</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">72</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328785850" id="cb328785850" title="S&eacute;lectionner Tout haut"><input type="hidden" name="url" value="ark:/12148/cb328785850"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328785850">Tout haut</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">73</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32763723d" id="cb32763723d" title="S&eacute;lectionner L'&Eacute;clair de l'Yonne : revue nationaliste d&eacute;partementale, paraissant tous les mois"><input type="hidden" name="url" value="ark:/12148/cb32763723d"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32763723d">L'&Eacute;clair de l'Yonne : revue nationaliste d&eacute;partementale, paraissant tous les mois</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1933</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">74</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328873602" id="cb328873602" title="S&eacute;lectionner Verbands-Blatt der Evangelischen Vereine Lothringens"><input type="hidden" name="url" value="ark:/12148/cb328873602"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328873602">Verbands-Blatt der Evangelischen Vereine Lothringens</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1935</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">75</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327621612" id="cb327621612" title="S&eacute;lectionner L'&Eacute;cho du Golfe et des Maures : organe des int&eacute;r&ecirc;ts de la C&ocirc;te d'Azur varoise"><input type="hidden" name="url" value="ark:/12148/cb327621612"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327621612">L'&Eacute;cho du Golfe et des Maures : organe des int&eacute;r&ecirc;ts de la C&ocirc;te d'Azur varoise</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">76</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32761542n" id="cb32761542n" title="S&eacute;lectionner L'&Eacute;cho des Flandres : grand hebdomadaire illustr&eacute; : journal r&eacute;publicain ind&eacute;pendant"><input type="hidden" name="url" value="ark:/12148/cb32761542n"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32761542n">L'&Eacute;cho des Flandres : grand hebdomadaire illustr&eacute; : journal r&eacute;publicain ind&eacute;pendant</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">77</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327837156" id="cb327837156" title="S&eacute;lectionner La Grande semaine : journal-programme gratuit"><input type="hidden" name="url" value="ark:/12148/cb327837156"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327837156">La Grande semaine : journal-programme gratuit</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">78</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32807097x" id="cb32807097x" title="S&eacute;lectionner Le Libre penseur : organe de la F&eacute;d&eacute;ration h&eacute;raultaise de la Libre pens&eacute;e"><input type="hidden" name="url" value="ark:/12148/cb32807097x"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32807097x">Le Libre penseur : organe de la F&eacute;d&eacute;ration h&eacute;raultaise de la Libre pens&eacute;e</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">79</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32710697x" id="cb32710697x" title="S&eacute;lectionner Le Beffroi de Douai : journal d'informations locales"><input type="hidden" name="url" value="ark:/12148/cb32710697x"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32710697x">Le Beffroi de Douai : journal d'informations locales</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">80</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32807758z" id="cb32807758z" title="S&eacute;lectionner Bulletin trimestriel de d&eacute;fense des int&eacute;r&ecirc;ts des contribuables / Ligue des contribuables d'Arcachon"><input type="hidden" name="url" value="ark:/12148/cb32807758z"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32807758z">Bulletin trimestriel de d&eacute;fense des int&eacute;r&ecirc;ts des contribuables / Ligue des contribuables d'Arcachon</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">81</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32862120n" id="cb32862120n" title="S&eacute;lectionner Rives et c&ocirc;teaux : Saint-Martin, Sainte-Catherine, Saint-Jacques"><input type="hidden" name="url" value="ark:/12148/cb32862120n"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32862120n">Rives et c&ocirc;teaux : Saint-Martin, Sainte-Catherine, Saint-Jacques</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1940</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">82</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32788590m" id="cb32788590m" title="S&eacute;lectionner L'Illustr&eacute; de Provence : organe mensuel, commercial, artistique, litt&eacute;raire..."><input type="hidden" name="url" value="ark:/12148/cb32788590m"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32788590m">L'Illustr&eacute; de Provence : organe mensuel, commercial, artistique, litt&eacute;raire...</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">83</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32707596s" id="cb32707596s" title="S&eacute;lectionner L'Avant-garde : hebdomadaire politique, litt&eacute;raire et m&eacute;dical"><input type="hidden" name="url" value="ark:/12148/cb32707596s"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32707596s">L'Avant-garde : hebdomadaire politique, litt&eacute;raire et m&eacute;dical</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">84</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328565315" id="cb328565315" title="S&eacute;lectionner La Revue cannoise : politique, commercial et litt&eacute;raire"><input type="hidden" name="url" value="ark:/12148/cb328565315"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328565315">La Revue cannoise : politique, commercial et litt&eacute;raire</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">85</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328416749" id="cb328416749" title="S&eacute;lectionner Le Pouliguen immobilier : bulletin mensuel [&quot;puis&quot; bulletin] de l'Agence Pornicaise du Pouliguen"><input type="hidden" name="url" value="ark:/12148/cb328416749"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328416749">Le Pouliguen immobilier : bulletin mensuel ["puis" bulletin] de l'Agence Pornicaise du Pouliguen</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">86</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32804675j" id="cb32804675j" title="S&eacute;lectionner La Baule &quot;La plage du soleil&quot; : bulletin immobilier de l'Agence Garson : para&icirc;t le 10 de chaque mois"><input type="hidden" name="url" value="ark:/12148/cb32804675j"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32804675j">La Baule "La plage du soleil" : bulletin immobilier de l'Agence Garson : para&icirc;t le 10 de chaque mois</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">87</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32798378d" id="cb32798378d" title="S&eacute;lectionner Journal de Lillebonne, du canton et des environs : organe ind&eacute;pendant, agricole, commercial et d'informations, paraissant le mercredi matin"><input type="hidden" name="url" value="ark:/12148/cb32798378d"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32798378d">Journal de Lillebonne, du canton et des environs : organe ind&eacute;pendant, agricole, commercial et d'informations, paraissant le mercredi matin</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">88</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621524n" id="cb48621524n" title="S&eacute;lectionner L'Exploit&eacute; du textile : bulletin syndical de la section du textile de Laroque-d'Olmes (CGTU)"><input type="hidden" name="url" value="ark:/12148/cb48621524n"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621524n">L'Exploit&eacute; du textile : bulletin syndical de la section du textile de Laroque-d'Olmes (CGTU)</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">89</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328077835" id="cb328077835" title="S&eacute;lectionner Bulletin mensuel / Ligue des droits de l'homme et du citoyen. Section de Louviers"><input type="hidden" name="url" value="ark:/12148/cb328077835"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328077835">Bulletin mensuel / Ligue des droits de l'homme et du citoyen. Section de Louviers</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1937</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">90</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb328850048" id="cb328850048" title="S&eacute;lectionner Unis comme au front : organe de l'UNC et des victimes de la guerre de la r&eacute;gion des C&eacute;vennes"><input type="hidden" name="url" value="ark:/12148/cb328850048"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb328850048">Unis comme au front : organe de l'UNC et des victimes de la guerre de la r&eacute;gion des C&eacute;vennes</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1937</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">91</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32728064f" id="cb32728064f" title="S&eacute;lectionner Bulletin du Syndicat de d&eacute;fense des int&eacute;r&ecirc;ts de Pyla-sur-Mer"><input type="hidden" name="url" value="ark:/12148/cb32728064f"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32728064f">Bulletin du Syndicat de d&eacute;fense des int&eacute;r&ecirc;ts de Pyla-sur-Mer</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">92</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32708655q" id="cb32708655q" title="S&eacute;lectionner L'Avenir du Cambr&eacute;sis : Organe [&quot;puis&quot; Organe hebdomadaire] socialiste de l'arrondissement de Cambrai"><input type="hidden" name="url" value="ark:/12148/cb32708655q"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32708655q">L'Avenir du Cambr&eacute;sis : Organe ["puis" Organe hebdomadaire] socialiste de l'arrondissement de Cambrai</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">93</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32789445r" id="cb32789445r" title="S&eacute;lectionner L'Ind&eacute;pendant : organe officiel des comit&eacute;s r&eacute;publicains du canton de Roussillon"><input type="hidden" name="url" value="ark:/12148/cb32789445r"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32789445r">L'Ind&eacute;pendant : organe officiel des comit&eacute;s r&eacute;publicains du canton de Roussillon</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">94</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327782850" id="cb327782850" title="S&eacute;lectionner Francia-Espa&ntilde;a : &Oacute;rgano oficial de la Colonia espa&ntilde;ola de Beziers y su distrito [&quot;puis&quot; y su distrito y de la Federaci&oacute;n mutualista espa&ntilde;ola del Mediod&iacute;a de Francia]"><input type="hidden" name="url" value="ark:/12148/cb327782850"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327782850">Francia-Espa&ntilde;a : &Oacute;rgano oficial de la Colonia espa&ntilde;ola de Beziers y su distrito ["puis" y su distrito y de la Federaci&oacute;n mutualista espa&ntilde;ola del Mediod&iacute;a de Francia]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1934</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">95</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327148069" id="cb327148069" title="S&eacute;lectionner La Bonne cause / journal &eacute;dit&eacute; par le Comit&eacute; de d&eacute;fense de L'Humanit&eacute;, de Brest"><input type="hidden" name="url" value="ark:/12148/cb327148069"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327148069">La Bonne cause / journal &eacute;dit&eacute; par le Comit&eacute; de d&eacute;fense de L'Humanit&eacute;, de Brest</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">96</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32881177s" id="cb32881177s" title="S&eacute;lectionner La Tribune des mineurs du Gard : organe mensuel du Syndicat r&eacute;gional unitaire des mineurs du Gard"><input type="hidden" name="url" value="ark:/12148/cb32881177s"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32881177s">La Tribune des mineurs du Gard : organe mensuel du Syndicat r&eacute;gional unitaire des mineurs du Gard</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1939</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">97</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb32768077m" id="cb32768077m" title="S&eacute;lectionner &Eacute;pernay : revue litt&eacute;raire illustr&eacute;e de l'activit&eacute; r&eacute;gionale et des grands crus et vins de Champagne : paraissant le 1er de chaque mois"><input type="hidden" name="url" value="ark:/12148/cb32768077m"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb32768077m">&Eacute;pernay : revue litt&eacute;raire illustr&eacute;e de l'activit&eacute; r&eacute;gionale et des grands crus et vins de Champagne : paraissant le 1er de chaque mois</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1932</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">98</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb327265990" id="cb327265990" title="S&eacute;lectionner Bulletin des sections de la Ligue des droits de l'homme de l'arrondissement de Saint-Di&eacute;"><input type="hidden" name="url" value="ark:/12148/cb327265990"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb327265990">Bulletin des sections de la Ligue des droits de l'homme de l'arrondissement de Saint-Di&eacute;</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">99</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb486228550" id="cb486228550" title="S&eacute;lectionner Le Soudier rouge : &eacute;dit&eacute; par les syndicats unitaires"><input type="hidden" name="url" value="ark:/12148/cb486228550"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb486228550">Le Soudier rouge : &eacute;dit&eacute; par les syndicats unitaires</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+<div class="notice-item">
+<div class="notice-contenu">
+<p>
+<span class="notice-numero">100</span><span class="notice-checkbox"><input type="checkbox" name="cb:/ark:/12148/cb48621855r" id="cb48621855r" title="S&eacute;lectionner La Masse : pour la d&eacute;fense des ouvriers des Aci&eacute;ries de Micheville et d'Aubrive [&quot;sic pour&quot; Aubrives]"><input type="hidden" name="url" value="ark:/12148/cb48621855r"></span>
+</p>
+<p>
+<a href="/ark:/12148/cb48621855r">La Masse : pour la d&eacute;fense des ouvriers des Aci&eacute;ries de Micheville et d'Aubrive ["sic pour" Aubrives]</a>
+</p>
+</div>
+<div class="notice-ordre">1931-1931</div>
+</div>
+</div>
+<!-- Tri et pagination -->
+			<div class="pagination-liste">
+				<form action="cherche" id="barreDuBas" name="barreDuBas">
+					<input type="hidden" name="av" value="false"/>
+					<input type="hidden" name="type" value="tout"/>
+					<input type="hidden" name="mot" value=""/>					
+					<input type="hidden" name="equRech1" value="mot"/>
+					<input type="hidden" name="mot1" value=""/>
+					<input type="hidden" name="typeRechCritere1" value="all"/>
+					<input type="hidden" name="relation" value="et"/>
+					<input type="hidden" name="equRech2" value="mot"/>
+					<input type="hidden" name="mot2" value=""/>
+					<input type="hidden" name="typeRechCritere2" value="all"/>
+					<input type="hidden" name="territoire" value=""/>
+					<input type="hidden" name="siecle" value="20"/>
+					<input type="hidden" name="decennie" value="193,193"/>
+					<input type="hidden" name="annee" value=""/>
+					<input type="hidden" name="anneeFac" value="1931.0"/>
+					<input type="hidden" name="facetteDpt" value=""/>
+					<input type="hidden" name="facetteEnLigne" value=""/>
+					<input type="hidden" name="nombrePages" value="44"/>
+
+					<!-- Tri par pertinence -->
+						<div class="tri">
+								<div class="skin-select">
+									<label for="triDuBas">Tri par :</label>
+									<select id="triDuBas" name="tri" onchange="validerTriDuBas();">
+										<option  value="date">Date (croissant)</option>
+										<option selected="selected" value="datedecr">Date (décroissant)</option>
+										<option  value="titre">Nom du journal (a..z)</option>
+										<option  value="titreza">Nom du journal (z..a)</option>
+										<option  value="pertinence">Pertinence</option>
+									</select>
+								</div>
+						</div>
+						<!-- Navigation entre pages -->
+						<ul class="pages">
+							<li>
+								<input type="text" value="1" title="Aller à la page" name="page" id="pageDuBas" class="page" onchange="validerPaginationDuBas(44)" onKeyPress="OnKeyPressDuBas(event,44)"  /> 
+								<span>sur&nbsp;44</span>
+							</li>
+							<li>
+								<a class="pictos" title="Page suivante" href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr
+								&page=2&taille=100&nombrePages=44">
+									<i class="icon-next" title="Page suivante" data-icon="&#xe607;"></i></a>
+							</li>
+							<li>
+								<a class="pictos" title="Dernière page" href="cherche?av=false&mot=&type=tout&siecle=20&decennie=193,193&anneeFac=1931.0&tri=datedecr&page=44&taille=100&nombrePages=44">
+									<i class="icon-last" title="Dernière page" data-icon="&#xe610;"></i>
+								</a>
+							</li>
+								</ul>
+						<!-- Affichage du nombres de notice/pages -->
+						<div class="nbres">
+							<div class="skin-select">
+								<select name="taille" title="Nombre de résultats par page" onchange='validerNbResultatsDuBas();'>
+									<option value="10"  >10 résultats/page</option>
+									<option value="20"  >20 résultats/page</option>
+									<option value="50"  >50 résultats/page</option>
+								</select>
+							</div>
+						</div>
+					</form>
+			</div>
+			<script>
+	
+	function validerTriDuBas() {
+		$('#pageDuBas').val(1);
+		$('#barreDuBas').submit();			
+	}
+	function validerNbResultatsDuBas() {
+		$('#pageDuBas').val(1);
+		$('#barreDuBas').submit();			
+	}
+
+			
+			
+	function validerPaginationDuBas(nombrePages) {
+		if($('#pageDuBas').val() <= nombrePages) {};
+		if($('#pageDuBas').val() > nombrePages) {
+			$('#pageDuBas').val(nombrePages);
+		};
+		$('#barreDuBas').submit();			
+	}
+
+	function OnKeyPressDuBas(event, nombrePages) {
+		var chCode = ('charCode' in event) ? event.charCode : event.keyCode;
+		if (chCode == 0) {
+			if($('#pageDuBas').val() <= nombrePages) {};
+			if($('#pageDuBas').val() > nombrePages) {
+				$('#pageDuBas').val(nombrePages);
+			};
+			$('#barreDuBas').submit();	
+		}
+	}
+			</script>
+<!-- Fin tri et pagination --></div>
+		</div>
+		<input id="reloadValue" type="hidden" name="reloadValue" value="" />
+		<div class="hautpage"><a href="#header" class="pictos hautPage"><i class="icon-haut" title="Haut de page" data-icon="&#xe61b;"></i></a></div>
+	</div>
+	</main>
+	<!--footer-->
+    <footer  role="contentinfo" class="footer row-flex">
+     <div id="footer" class="container">
+        <div class="row">
+			<span>&copy; BnF 2016 Version&nbsp;:&nbsp;7.1.0</span>
+            <span><a class="condition" href="/html/plan-du-site">Plan du site</a></span>
+            <span><a class="condition" href="/html/conditions-utilisation">Conditions d’utilisation</a></span>
+            <span><a class="condition" href="/html/accessibilite">Accessibilité (Non conforme)</a></span>
+            <span>contact : presselocaleancienne@bnf.fr</span>
+        </div>
+      </div>
+    </footer><script>
+	
+	function compterSelection()
+	{
+		var liste = $('.liste-notices input[type="checkbox"]:checked');
+		var nb = liste.length;
+		$('#nbSelectNotice').html(nb);
+		$('#selectNotice').prop('href', (nb > 0) ? '/ark' : '#');
+		return liste;
+	}
+	
+	function selectionToutOuRien()
+	{
+		var liste = compterSelection();
+		var nbAvant = liste.size();
+		var nbTotal = $('.liste-notices input:checkbox').length;
+		var cocher = false;
+		if (nbAvant < nbTotal)
+			cocher = true;
+		$('.liste-notices input:checkbox').each(function() {
+			$(this).prop('checked', cocher);
+		});
+		changeSelection();
+	}
+	
+	function changeSelection()
+	{
+		var liste = compterSelection();
+		var nb = liste.length;
+		var arks = "";
+		for (i = 0; i < nb; i++)
+		{
+			arks += liste[i].name + ";"
+		}
+		jQuery.ajax({
+			url: 'selectionNotice',
+			type : 'GET',
+			data: "listeNotice=" + arks
+		});
+	}
+	
+$(document).on('change', '.liste-notices input[type="checkbox"]', function() {
+	changeSelection();
+});
+
+$(document).on('change', '.selection input[type="checkbox"]', function() {
+	selectionToutOuRien();
+});
+
+
+$(document).ready(function() {
+	var d = new Date();
+	d = d.getTime();
+	if (jQuery('#reloadValue').val().length == 0)
+	{
+		jQuery('#reloadValue').val(d);
+		jQuery('body').show();
+	}
+	else
+	{
+		jQuery('#reloadValue').val('');
+		location.reload();
+	}
+	
+
+	compterSelection();
+	
+	jQuery('#exportCSV').click(function(){
+		
+		 window.location.href = "/ExportCsv";
+	})
+		
+});
+
+
+
+jQuery('.facettes .affiner .section h3 a').each(function(index){
+	jQuery('#plusFacettesAffiche h3 a').bind('click',function() {
+		if (jQuery(this).parents('.section').hasClass('section-opened')) {
+			jQuery(this).parents('.section').removeClass('section-opened');
+		}
+		else {
+			jQuery(this).parents('.section').addClass('section-opened');
+		}
+		return false;
+	});return false;
+});
+
+
+
+</script>
+			
+<!-- xiti -->
+	<div id="xiti-logo" style="display:none;">
+		<script>
+			xtnv = document;     //parent.document or top.document or document
+			xtsd = "https://logs";
+			xtsite = "18798";
+			xtn2 = "64";       	// level 2 site
+			xtpage = "Recherche::ResultatSimple";    //page name (with the use of :: to create chapters)
+			xtdi = "";        		//implication degree
+			xt_multc =""; 	 	//page's parameters
+			xt_mtcl = ""; //keyword value
+			if (window.xtparam!=null)
+			{
+				window.xtparam += "&mc=" + xt_mtcl + xt_multc;
+			}
+			else
+			{
+				window.xtparam = "&mc=" + xt_mtcl + xt_multc;
+			}
+		</script>
+		<script src="/resources/js/xtcore.js"></script>
+		<noscript>
+			<img width="1" height="1" alt="Xiti" src="https://logs.xiti.com/hit.xiti?s=18798&amp;s2=64&amp;p=Recherche::ResultatSimple&amp;di=&amp;" />
+		</noscript>
+	</div>
+</body>
+</html>
