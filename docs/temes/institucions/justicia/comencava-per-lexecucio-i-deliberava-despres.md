@@ -254,10 +254,17 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    > **El buit comptava tandes d'una cosa que ja era al calaix.** **De les tretze
    > vegades que el manuscrit sortia citat, l'extracte publicat n'hi era per a
    > totes.** `El que segueix obert és el manuscrit sencer, no l'extracte.`
-3. **El quadern de relacions del *nunci* al batlle de 1821-1823.** **Prioritari**:
-   **és una sèrie processal continuada i el corpus només en té tres exemples.**
-4. **Quan va desaparèixer l'embargament per creu**, **i si en queda cap rastre
-   material o toponímic.**
+3. ~~**El quadern de relacions del *nunci* al batlle de 1821-1823.**
+   **Prioritari**: és una sèrie processal continuada i el corpus només en té
+   tres exemples.~~ — **`parcial`**: la fitxa confirma que el quadern abasta
+   **tres anys**, que conté **nombrosos embargaments** i ja en dona exemples del
+   **16 d'agost** i del **9 de setembre de 1821**. **El quadern sencer i la
+   sèrie completa de relacions continuen pendents.**
+4. ~~**Quan va desaparèixer l'embargament per creu**, **i si en queda cap rastre
+   material o toponímic.**~~ — **`parcial`**: la font confirma que aquesta
+   manera d'embargar **ha desaparegut** i la fitxa n'identifica l'acte material
+   —la creu clavada a les garberes— i la tarifa de **1740**. **Continuen oberts
+   el moment de desaparició i qualsevol rastre material o toponímic.**
 5. **Què vol dir «establert», `resolt` el 16-09-2026** sobre la peça
    justificativa p. LIX (PDF 79). **El text andorrà ho diu amb altres
    paraules i amb una excepció que el resum francès no recull**: «**La ampara es
@@ -269,8 +276,15 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    **Segueix obert què es podia embargar aleshores**: **el 1840 s'embarga un
    salari**, que no és moble ni bestiar ni muntura, i **la peça no preveu aquest
    cas.**
-6. **Els documents de 1551, 1604, 1635, 1821, 1828, 1840 i 1891** sencers.
-7. **L'ordenança catalana de 1421** contra els abusos d'embargament.
+6. ~~**Els documents de 1551, 1604, 1635, 1821, 1828, 1840 i 1891** sencers.~~
+   — **`parcial`**: la fitxa ja n'ha extret **dates, actors, objecte de
+   l'embargament i conseqüències processals** —inclòs el salari de **1840** i
+   el decret de **1891**—, però **les peces senceres i les transcripcions
+   completes continuen pendents.**
+7. ~~**L'ordenança catalana de 1421** contra els abusos d'embargament.~~ —
+   **`parcial`**: la fitxa en confirma **l'any, l'abast català i la funció de
+   reacció contra els abusos**, però **el text de l'ordenança i la seva peça
+   d'arxiu continuen pendents.**
 8. **Si les vint-i-quatre hores per *refermar* l'embargament del cònsol consten
    en cap norma.** **La font diu «m'han dit».**
 9. ~~**Què és una ***rossina*** i què és un ***cavalló***.~~ — **`resolt` el
