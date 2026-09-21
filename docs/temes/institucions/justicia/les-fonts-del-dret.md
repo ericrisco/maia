@@ -146,11 +146,15 @@ res.**
 
 ## Buits registrats
 
-1. ~~**Les Instructes als batlles** — font primària, no consultada.~~
-   **LOCALITZADES.** Brutails en data una: **redactada a les Corts de 1740**, amb
-   dues còpies conegudes el 1904 i **el text reproduït a les seves peces
-   justificatives**. Vegeu [els costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
-   Queda obert **llegir-ne el text**, que ja és a `docs/raw/llibres/`.
+1. ~~**Les Instructes als batlles** — font primària, no consultada.~~ — **`resolt`
+   el 21-09-2026: **redactada a les Corts de 1740**, la *Instructa als senyors
+   batlles* és la peça justificativa **XXVI** de Brutails i el seu text és al
+   `docs/raw/llibres/brutails-coutume.txt`, als folis **531–540 i 542**. La
+   capçalera en fixa l'abast —justícia civil i criminal, drets i dietes— i el
+   corpus ja n'ha llegit i destil·lat les regles principals. Vegeu [els
+   costumaris andorrans](../../historia/manual-digest/els-costumaris-andorrans.md).
+   El buidatge article per article de tota la peça continua sent una tasca
+   separada.
 2. ~~**El Politar Andorrà** (1763) — citat i no llegit.~~ **LLEGIT**, pels
    extractes que en publica Brutails:
    [El Politar andorrà](../../historia/manual-digest/el-politar.md). En queda
