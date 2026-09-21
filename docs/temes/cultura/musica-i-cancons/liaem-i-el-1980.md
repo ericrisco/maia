@@ -143,7 +143,13 @@ I el consell concret als pares: **que no hi portin els fills a disgust**, i que
 3. ~~**El cor de petits cantors.**~~ **[parcial · 2026-09-19]** La fitxa ja
    documenta que **cap al 2000** Andorra tenia un cor de petits cantors; encara
    en falten el nom formal, l'origen i la trajectòria.
-4. **El repertori**: es fa música andorrana? n'hi ha?
+4. ~~**El repertori**: es fa música andorrana? n'hi ha?~~ — **`parcial` el
+   21-09-2026**: la Temporada de Música i Dansa ja conserva un repertori
+   documentat cap al 2000, amb **Alfredo Kraus, Teresa Berganza, Renata Scotto,
+   Joan Pons, Ainhoa Arteta, Krystian Zimerman, Maria João Pires, Vladimir
+   Ashkenazy, Ivo Pogorelich, Yo-Yo Ma, Gidon Kremer, Paco de Lucía i I Musici**.
+   Això acredita activitat i programació musical al país, però no resol si hi
+   havia composició andorrana ni quin repertori propi tenien les agrupacions.
 5. ~~**Mestre Roure** i l'esbart-orfeó d'Andorra la Vella
    ([els gegants](../../costums/gegants/els-gegants.md)).~~ **[parcial ·
    2026-09-19]** La prosa ja identifica el **mestre Roure**, solsoní, com a
