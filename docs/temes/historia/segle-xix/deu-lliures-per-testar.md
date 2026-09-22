@@ -209,22 +209,27 @@ Vegeu [el notariat](../../institucions/justicia/el-notariat.md).
 
 ## Buits registrats
 
-1. **La data.** **No se sap de quin any és aquest acte**, només que és **de la
-   dècada de 1860**. **Cap afirmació d'aquesta fitxa no es pot ancorar en un any.**
-2. **La parròquia.** **«En lo poble de, etc.»** El corpus **no sap ni a quina
+1. ~~**La data.** **No se sap de quin any és aquest acte**, només que és **de la
+   dècada de 1860**. **Cap afirmació d'aquesta fitxa no es pot ancorar en un any.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar el protocol original.
+2. ~~**La parròquia.** **«En lo poble de, etc.»** El corpus **no sap ni a quina
    parròquia es va signar**, i per tant **no pot dir si aquesta pràctica era
-   general a les Valls o d'un sol notari.**
-3. **El notari i el protocol.** **No consta qui el va rebre.** Sense això, **no es
+   general a les Valls o d'un sol notari.**~~ — **`font_externa` el 2026-09-22**:
+   la parròquia només pot sortir de l'original notarial.
+3. ~~**El notari i el protocol.** **No consta qui el va rebre.** Sense això, **no es
    pot anar a la sèrie i veure quants actes com aquest hi havia.**
-   `Requereix els protocols notarials andorrans del tercer quart del segle XIX.`
-4. **Si l'acte és una peça real o un model de formulari.** **La data per decenni i
+   `Requereix els protocols notarials andorrans del tercer quart del segle XIX.`~~ —
+   **`font_externa` el 2026-09-22**: cal consultar els protocols notarials.
+4. ~~**Si l'acte és una peça real o un model de formulari.** **La data per decenni i
    els «N. N.» són compatibles amb totes dues coses.** **Brutails diu que
    coneixia «un formulari modern»** (pàgina 122) **i no diu si aquesta peça n'ha
-   sortit.** **La fitxa no ho decideix.**
-5. **Què valien deu lliures barceloneses cap al 1865**, i **quina proporció eren
+   sortit.** **La fitxa no ho decideix.**~~ — **`font_externa` el 2026-09-22**:
+   cal comparar l'original amb el formulari notarial esmentat per Brutails.
+5. ~~**Què valien deu lliures barceloneses cap al 1865**, i **quina proporció eren
    dels guanys d'un matrimoni andorrà.** **Sense això no es pot dir si la reserva
    per testar era generosa o simbòlica.** `Requereix una sèrie de preus o salaris
-   andorrans del segle XIX.`
+   andorrans del segle XIX.`~~ — **`font_externa` el 2026-09-22**: cal una sèrie
+   històrica de preus o salaris andorrans.
 6. ~~**Si aquesta donació entre cònjuges necessitava alguna autorització.**~~ —
    **`parcial` el 21-09-2026**: en la peça IX la donació recíproca dels cònjuges
    sense fills es formalitza davant del notari i **no hi intervé cap batlle**;

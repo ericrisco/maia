@@ -338,11 +338,14 @@ matèries i el lloc de signatura.**
 
    `Requereix la carta-orde del 22 de març de 1775, que segons l'acta és a
    l'arxiu del Consell General.`
-5. **Si el privilegi del comte de Foix de 1305 que la font invoca és el mateix del
+5. ~~**Si el privilegi del comte de Foix de 1305 que la font invoca és el mateix del
    22 de març de 1305** que el corpus té per Brutails. **La font no dona ni mes,
-   ni dia, ni signatura.**
-6. **El document del 1591 on Enric IV es firma «Señor Soberano de Andorra».**
-   **Citat sense referència.**
+   ni dia, ni signatura.**~~ — **`parcial` el 2026-09-22**: la data i la matèria
+   coincideixen amb el privilegi local, però la font invocada no dona signatura
+   per provar que sigui el mateix acte.
+6. ~~**El document del 1591 on Enric IV es firma «Señor Soberano de Andorra».**
+   **Citat sense referència.**~~ — **`font_externa` el 2026-09-22**: cal
+   localitzar la peça de 1591 abans d'acreditar la titulatura.
 7. ~~**La contradicció «1727 / Lluís XIV».**~~ — **`parcial` el 20-09-2026**:
    la font atribueix a **Lluís XIV** una confirmació datada el **1727**, però el
    rei havia mort el **1715**. El corpus conserva les dues dades i les hipòtesis
