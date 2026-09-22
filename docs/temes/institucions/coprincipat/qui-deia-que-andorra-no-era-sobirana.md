@@ -160,10 +160,12 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
 
 ## Buits registrats
 
-1. **Les obres concretes.** Massa dona **cognoms sense títol ni any**:
+1. ~~**Les obres concretes.** Massa dona **cognoms sense títol ni any**:
    Brutails, Bladé, Font i Rius, Gubern, Bélinguier, Duverger, Rousseau, Miret i
    Sans. **El corpus no ha llegit cap d'aquests textos** i no en pot citar ni
-   una línia. **Buit gran i molt tancable.**
+   una línia. **Buit gran i molt tancable.**~~ — **`font_externa` el 2026-09-22**:
+   cal identificar i consultar les obres bibliogràfiques que la font només cita
+   pels autors.
 2. ~~**Quin Vilar** (vegeu més amunt).~~ — **`parcial` el 21-09-2026**: la fitxa ja identifica els dos candidats que permet la font: **André Vilar**, autor de *L'Andorre* (1904), i **Pierre Vilar**, citat en un altre passatge. **Segueix obert quin dels dos designa la llista de Massa**, perquè l'original només diu «Vilar» sense inicial.
 3. ~~**La tesi doctoral de Nemesi Marquès**, que Massa invoca com a autoritat i el
    corpus no té.~~ — **`parcial` el 17-09-2026**: **el que se'n va publicar ja té
@@ -177,7 +179,9 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    documental» sobre la Reforma de les Institucions**, i **el subtítol diu de
    què va**: **no de la sobirania en abstracte sinó de seixanta-tres anys
    concrets, del 1930 al 1993.** `Requereix el volum; la referència ja no.`
-4. **El pròleg de Porcioles** a l'edició del Manual Digest, citat dues vegades.
+4. ~~**El pròleg de Porcioles** a l'edició del Manual Digest, citat dues vegades.~~ —
+   **`font_externa` el 2026-09-22**: el corpus només en té les citacions i cal
+   consultar el pròleg de l'edició corresponent.
 5. ~~**Les reformes de 1978 i 1981**: el corpus no en té fitxa pròpia, i aquí
    consten com a actes constituents.~~ — **`parcial`, actualitzat el 2026-09-19**:
    [el referèndum constitucional de 1993](../../politica/sistema-electoral/el-referendum-constitucional-de-1993.md)
@@ -185,13 +189,14 @@ dir-ho. Vegeu [el Coprincipat](./el-coprincipat.md) i
    1981, i [els primers referèndums](../../politica/sistema-electoral/els-primers-referendums.md)
    en situa els efectes institucionals; continua pendent una fitxa monogràfica
    pròpia dels dos textos.
-6. **Els enregistraments dels debats.** El volum diu que **el debat posterior a
+6. ~~**Els enregistraments dels debats.** El volum diu que **el debat posterior a
    les ponències no s'hi reprodueix** i que **es pot consultar als
    enregistraments dipositats als Arxius Nacionals**. **Hi ha, doncs, una capa
    de discussió oral de totes les Diades que el corpus no ha tocat**, i el debat
    final del 1994 va anar sobre **la influència del nucli familiar i escolar en
    la identitat dels andorrans i dels residents**. **Buit registrat, i és una
-   porta gran.**
+   porta gran.**~~ — **`font_externa` el 2026-09-22**: cal consultar els
+   enregistraments dipositats als Arxius Nacionals.
 
 ## Related
 

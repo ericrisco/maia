@@ -71,8 +71,10 @@ disposicions addicional i derogatòria 1.)
 
 ## Buits registrats
 
-- No s'han llegit expedients, dades de pagaments o denegacions ni
-  instruccions que acreditin l'aplicació individual descrita pel Govern.
+- ~~No s'han llegit expedients, dades de pagaments o denegacions ni
+  instruccions que acreditin l'aplicació individual descrita pel Govern.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar els expedients administratius,
+  les dades de pagaments i les instruccions d'aplicació, que no són al corpus.
 - ~~No s'ha llegit el BCG13/2021 amb la pregunta inicial; la seva data i
   contingut es coneixen aquí per la reproducció del BCG23/2021.~~ —
   **`no-es-buit` el 20-09-2026**: és una nota de cobertura de la font, no una

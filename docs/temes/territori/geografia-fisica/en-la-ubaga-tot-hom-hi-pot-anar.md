@@ -343,9 +343,11 @@ definició** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentat
 
    `El que segueix obert és la tarifa: ni el Politar ni cap font del corpus no
    diu quant es pagava per cap ni per dia.`
-7. **Quantes *rodalies* dobles es conserven**, i **on.** **La sentència de 1780 diu
+7. ~~**Quantes *rodalies* dobles es conserven**, i **on.** **La sentència de 1780 diu
    que n'havien vist d'altres.**
-   `Requereix font externa: els arxius comunals.`
+   `Requereix font externa: els arxius comunals.`~~ — **`font_externa` el
+   2026-09-22**: cal consultar els arxius comunals per determinar quines
+   *rodalies* dobles es conserven i on.
 8. ~~**Quina era la data en què els ramats estrangers podien entrar a les Valls.**
    **La font diu que els reglaments la fixaven i no en dona cap.**~~ —
    **`no-es-buit` el 20-09-2026**: el passatge constata que existien reglaments

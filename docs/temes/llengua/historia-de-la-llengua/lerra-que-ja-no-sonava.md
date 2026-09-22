@@ -299,15 +299,19 @@ prova.**
 
 ## El que falta
 
-- **El detall de les partícules (3.1) i de les perífrasis (3.5)** que aquesta
+- ~~**El detall de les partícules (3.1) i de les perífrasis (3.5)** que aquesta
   fitxa resumeix però no esgota: `s'hi han pres els sis trets que l'autor
-  destaca, no totes les cites.`
-- **Cap document original no s'ha vist.** El corpus cita **Rull citant**
+  destaca, no totes les cites.`~~ — **`font_externa` el 2026-09-22**: cal
+  consultar el llibre complet per revisar les cites que la fitxa resumeix.
+- ~~**Cap document original no s'ha vist.** El corpus cita **Rull citant**
   Bascompte (1997), Pohle (2008), Riera i Simó (1980) o l'Arxiu Nacional, **i el
-  llibre no dona signatures d'arxiu.**
-- **El *Diplomatari de la vall d'Andorra*** (Bascompte 1997, Vela 2002) i el
+  llibre no dona signatures d'arxiu.**~~ — **`font_externa` el 2026-09-22**:
+  les signatures i els originals no consten a la font consultada.
+- ~~**El *Diplomatari de la vall d'Andorra*** (Bascompte 1997, Vela 2002) i el
   ***Vocabulari d'Andorra*** (Badia, Ganyet i Pérez 1992) **segueixen sense ser
-  al corpus**, i són les fonts pròpies d'on surt tot això.
+  al corpus**, i són les fonts pròpies d'on surt tot això.~~ — **`font_externa`
+  el 2026-09-22**: cal incorporar o consultar aquestes obres per verificar-ne
+  el contingut complet.
 - ~~**Cap tret d'aquesta fitxa no s'ha comprovat contra parla real d'avui.**~~ —
   **`font_externa` el 2026-09-22**: **la fitxa treballa fonts històriques i no
   incorpora una mostra oral contemporània**. **Cal una font de parla actual per
