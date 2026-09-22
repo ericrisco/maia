@@ -156,7 +156,7 @@ I el consell concret als pares: **que no hi portin els fills a disgust**, i que
    director de l'esbart i orfeó d'Andorra la Vella, i documenta que va portar
    els gegants el **1982**. La seva biografia i la cronologia completa de
    l'agrupació encara no consten.
-6. **Què ha passat des del 2000** — la font té vint-i-sis anys.
+6. ~~**Què ha passat des del 2000** — la font té vint-i-sis anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Les escoles d'art comunals**, que la mateixa Diada situa **a mitjan anys
    vuitanta**, creades a **Sant Julià, Andorra la Vella i Encamp** a demanda
    d'artistes i alumnes. **Fitxa pendent.**~~ — **`resolt` el 18-09-2026**:

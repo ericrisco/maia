@@ -175,9 +175,9 @@ d'investigació amb signatura**:
 
 ## Buits registrats
 
-1. **La tesi sencera** (Universitat de Lleida, 2017), amb els sis capítols.
-   **Prioritari.**
-2. **Els textos de les 87 obres**, i sobretot els dels **dos autors andorrans**.
+1. ~~**La tesi sencera** (Universitat de Lleida, 2017), amb els sis capítols.
+   **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Els textos de les 87 obres**, i sobretot els dels **dos autors andorrans**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Qui va escriure l'obra del conflicte de 1935.** **L'autora no ho ha pogut
    esbrinar.**~~ — **`no-es-buit` el 20-09-2026**: la font declara que no n’ha
    pogut identificar l’autoria i aquesta fitxa no n’infereix cap.

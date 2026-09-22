@@ -768,9 +768,9 @@ urna i no a l'altra**, i **cada circumscripció té el seu propi total**.
    que encapçala el dossier és **17.783 vots vàlids, 531 blancs i 324 nuls**.
    **En canvi, el corpus ja té els resultats numèrics complets de
    les eleccions del 1989 i del 1992**, que sí que sortien al butlletí.
-2. **L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
-   **Prioritari.**
-3. **Els informes del Consell d'Europa** sobre el sistema electoral andorrà.
+2. ~~**L'informe de l'OSCE/ODIHR del 2011** sencer, i els posteriors.
+   **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Els informes del Consell d'Europa** sobre el sistema electoral andorrà.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**La Llei electoral** vigent.~~ — **`resolt` el 17-09-2026.** És la
    **Llei 44/2022, del 12 de desembre, de text consolidat qualificada del règim
    electoral i del referèndum** (BOPA del 10-01-2023, **78 articles**,

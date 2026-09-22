@@ -338,7 +338,7 @@ llei**. Això és el que la font citava; el que aquesta lectura hi afegeix és q
    (`docs/raw/lleis/bopa/decret-legislatiu-2019-text-refos-ordenacio-territori-urbanisme.txt`).
    `Requereix, encara, comparar les vint versions consolidades: la llista
    d'equipaments és del 2018 i no se sap què hi havia abans.`
-2. **La sentència del Tribunal Constitucional sobre béns comunals.**
+2. ~~**La sentència del Tribunal Constitucional sobre béns comunals.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**El Tribunal Constitucional** en general: el corpus no en té fitxa.~~
    `resolt`: [El Tribunal Constitucional](../../institucions/justicia/el-tribunal-constitucional.md).
 4. ~~**El Butlletí del Consell General** com a font directa.~~ — **`font_externa`

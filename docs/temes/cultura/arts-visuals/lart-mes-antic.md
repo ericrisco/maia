@@ -103,7 +103,7 @@ tot el Pirineu de sota i amb la idea que
    país** i no en tenim res.~~ — **`parcial` el 19-09-2026**: vegeu [la fitxa de
    la Balma de la Margineda](./balma-de-la-margineda.md), que ordena la presència
    humana més antiga documentada, els còdols amb pigment i el descobriment de
-   1960. **La monografia d'excavació i l'inventari complet continuen pendents.**
+   1960. ~~**La monografia d'excavació i l'inventari complet continuen pendents.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La Feixa del Moro de Juberri** — l'enterrament.~~ — **`resolt` el 19-09-2026**: vegeu [la fitxa de la Feixa del Moro](./feixa-del-moro.md), basada en el registre del Govern i l'article acadèmic de 2016. El conjunt té **tres sepultures en cista**, a més d'estructures d'hàbitat, llars i sitges, datades entre el neolític antic i mitjà.
 3. ~~**El Cedre** i **l'Oral** — jaciments.~~ **[parcial · 2026-09-19]** La fitxa ja identifica **l'Oral** com el lloc on es van trobar el **peu votiu** i la **fíbula** de l'edat del bronze. Encara falten les fitxes completes de l'Oral i del Cedre.
 4. ~~**Els gravats rupestres**: inventari.~~ — **`parcial` el 21-09-2026**: el

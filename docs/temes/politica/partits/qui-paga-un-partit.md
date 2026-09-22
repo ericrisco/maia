@@ -104,5 +104,5 @@ dels 16 anys** (article 6.4).
   **Un partit pot cobrar sense representació i una candidatura independent pot
   tenir-ne i no cobrar la de representació.**
 - ~~**Si mai s'ha instat la suspensió o dissolució d'un partit andorrà**, no consta.~~ — **`parcial` el 21-09-2026**: la Llei 43/2022 identifica el Fiscal General com qui ho insta i el Tribunal Superior com qui declara la dissolució, però el corpus no localitza cap expedient o cas aplicat.
-- **Quantes donacions publica el Tribunal de Comptes** i de quin ordre de
-  magnitud, tampoc.
+- ~~**Quantes donacions publica el Tribunal de Comptes** i de quin ordre de
+  magnitud, tampoc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

@@ -67,7 +67,7 @@ les fonts citaven junts no fan el mateix ofici.**
   **el 1966 obren junts un taller de ceràmica a Sant Julià de Lòria**, però
   **no té fitxa pròpia** i **el corpus no sap res més de la seva obra
   individual.**
-- **L'art contemporani** i el mercat de l'art.
+- ~~**L'art contemporani** i el mercat de l'art.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -66,8 +66,8 @@ i el **Nomenclàtor** amb les seves 4.240 entrades és qui ho ha de dir.
 
 ## El que falta
 
-- La versió completa i les variants.
-- **Si el poble negat té nom** a la llegenda.
+- ~~La versió completa i les variants.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si el poble negat té nom** a la llegenda.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~La **relació amb el llac real**: Engolasters és avui un embassament lligat a
   la producció hidroelèctrica
   ([energia](../../economia/energia-i-serveis/README.md)) — **la llegenda parla
@@ -96,7 +96,7 @@ i el **Nomenclàtor** amb les seves 4.240 entrades és qui ho ha de dir.
   **El que segueix obert és el que el buit demanava**: **quan i com es converteix
   en embassament, i qui el va fer.**
   `Requereix font externa: FEDA, o la història de FHASA.`
-- El **paral·lel** amb altres llegendes de pobles negats del Pirineu.
+- ~~El **paral·lel** amb altres llegendes de pobles negats del Pirineu.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -293,7 +293,7 @@ cada cop menys gent** ([l'abstenció](../sistema-electoral/labstencio.md)).
    força l'acumulació, si n'hi ha, són els grups parlamentaris petits, que han
    de cobrir nou comissions amb pocs membres.** `Requereix la composició real
    d'una legislatura per veure quants consellers en fan tres o quatre.`
-5. **La comissió d'enquesta del cas BPA**: composició, conclusions.
+5. ~~**La comissió d'enquesta del cas BPA**: composició, conclusions.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si hi ha hagut mai una ILP** a Andorra, i quantes.~~ — **`resolt` el
    18-09-2026: cap.** El dret existeix des del 1993, **el procediment des del
    2023**, i **a la legislatura actual no se n'ha presentat ni una**. **La Llei 8/2023, del 30 de

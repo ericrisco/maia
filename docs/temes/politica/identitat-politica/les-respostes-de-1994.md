@@ -565,7 +565,7 @@ precisament el que Joan Massa advertia al mateix volum.
 1c. **Si la preferència per una immigració «més dòcil»** que Ros i Serra diu
    haver sentit d'«elements oficials» té cap més rastre. **Delicat: és
    testimoni d'una sola persona.**
-2. **V Columna** i el rock andorrà dels anys noranta. **Buit nou.**
+2. ~~**V Columna** i el rock andorrà dels anys noranta. **Buit nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**El discurs del cap de Govern a l'ONU**: el text, i si hi va citar
    Llull, Ausiàs March i Espriu com diu Marquet.~~ — **`resolt` el
    18-09-2026**: **sí**. **Òscar Ribas Reig**, el **28-7-1993**, mateix dia
@@ -580,8 +580,8 @@ precisament el que Joan Massa advertia al mateix volum.
    una de les relacions econòmiques amb aquell país. **La resposta no en dona
    noms, nombre, dates ni localitats**, i el corpus encara no té una fitxa o una
    sèrie específica sobre aquest treball de cura.
-5. **Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
-   corpus no en té res.
+5. ~~**Carlins i afrancesats a Andorra.** Betriu els dona per vius el 1994 i el
+   corpus no en té res.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**L'any d'entrada d'Andorra a la UNESCO.**~~ — **`resolt` el
    18-09-2026**: **1993** ([font](../../../fonts/unesco-countries-andorra.md)),
    **no confondre amb l'acceptació de la Convenció del Patrimoni Mundial, del

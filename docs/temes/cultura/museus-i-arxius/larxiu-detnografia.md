@@ -127,7 +127,7 @@ saber què van signar les persones entrevistades.**
    biogràfics i entrevistes temàtiques, recollides des dels anys noranta; el
    corpus no sap quin és el volum actual, en quin suport es conserva ni si està
    transcrit.
-3. **Condicions d'accés i d'ús**, i què deia el consentiment.
+3. ~~**Condicions d'accés i d'ús**, i què deia el consentiment.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Qui el va crear** i quan exactament.~~ — **`parcial`, ja constava a
    la taula de dalt** i no s'havia marcat com a tancat: **l'origen és
    l'estudi etnogràfic de 1993-1995** de Comas d'Argemir i Pujadas

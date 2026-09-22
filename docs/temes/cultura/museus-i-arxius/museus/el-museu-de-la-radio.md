@@ -88,7 +88,7 @@ dels contractes i del dossier judicial original encara no forma part del corpus.
   l'enemic i espionatge**, de perjudicar la defensa nacional, difondre programes
   favorables a l'enemic, treure material radioelèctric de França i relacionar-se
   amb els serveis d'espionatge alemanys; va ser absolt a Tolosa l'1 d'abril de
-  1949. **El dossier i la sentència originals encara no s'han llegit.**
+  1949. ~~**El dossier i la sentència originals encara no s'han llegit.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

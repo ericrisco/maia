@@ -87,7 +87,7 @@ expliquen els articles d'arquitectura i patrimoni construït del corpus.
   el BOPA decret a decret per tenir la xifra d'avui; el corpus té la del 2003.`
   `I la xifra d'inventariats —que és una altra cosa que la de declarats— segueix
   sense constar.`
-- **Si mai s'ha exercit el tempteig o el retracte**, tampoc.
+- ~~**Si mai s'ha exercit el tempteig o el retracte**, tampoc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El patrimoni immaterial**: la llei el nomena i li dona secció a
   l'Inventari, però **el corpus no n'ha llegit el règim**.~~ — **`resolt` el
   17-09-2026** (`docs/raw/lleis/patrimoni-cultural.txt`). **El règim és curt i

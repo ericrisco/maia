@@ -47,10 +47,10 @@ I això és tot el que aquesta recerca ha pogut documentar.
   caramelles](../../costums/caramelles/les-caramelles.md) identifica la **Coral
   Rocafort** (des de 1962) i els grups d'Ordino. **Segueixen oberts el repertori
   complet, la resta de grups i els seus músics.**
-- La música contemporània andorrana.
-- Les **cançons infantils**, que van amb
+- ~~La música contemporània andorrana.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Les **cançons infantils**, que van amb
   [cultura popular](../cultura-popular/cultura-popular.md) i tenen el mateix
-  problema: no les publica ningú.
+  problema: no les publica ningú.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Buit registrat, i és una branca sencera buida.** La música és, amb la
 fraseologia, el lloc on la llengua viu de manera menys documentada — i a més és

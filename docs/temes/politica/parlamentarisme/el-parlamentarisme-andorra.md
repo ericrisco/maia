@@ -159,8 +159,8 @@ fumar en un local públic**.
    històric»: **de la Revolució Francesa a les carlinades**.~~ — **`no-es-buit` el 21-09-2026**: la fitxa ja registra la pèrdua declarada per Bascompte; és una absència documentada, no una dada que el corpus pugui completar.
 5. ~~**El sistema d'elecció dels representants** abans del 1866 i **el pes de les
    famílies ramaderes**, que Vela demana explícitament a la recerca futura.~~ — **`parcial` el 21-09-2026**: la fitxa documenta les assemblees de prohoms i caps de casa, el pas del 1419 a **dotze a divuit jurats i pròcers** i la **Nova Reforma del 1866**, que estén el vot als caps de casa; no fixa el sistema complet d'elecció anterior ni el pes específic de les famílies ramaderes.
-6. Les **ordinacions de Sancogesma (1454-1500)** senceres.
-7. **Les disset ponències restants** del volum.
+6. ~~Les **ordinacions de Sancogesma (1454-1500)** senceres.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Les disset ponències restants** del volum.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

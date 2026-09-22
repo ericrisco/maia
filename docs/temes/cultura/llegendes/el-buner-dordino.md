@@ -64,11 +64,11 @@ consultada no ho diu. El buner es queda a mig camí, tocant.
   Canillo i no li atribueix cap nom propi. La pàgina remet a la versió de Ricard
   Fiter i Vilajoana, però no exhaureix les variants publicades; encara falta
   comprovar si alguna altra versió li dona nom.
-- Si la **buna** s'ha tocat mai a Andorra de debò, quan es va perdre, i si hi ha
+- ~~Si la **buna** s'ha tocat mai a Andorra de debò, quan es va perdre, i si hi ha
   cap instrument conservat. **Aquesta és la pregunta bona**, i lligaria la
-  llegenda amb [música i cançons](../../cultura/musica-i-cancons/musica-i-cancons.md).
-- Altres llegendes de **llops** i de **bèsties de muntanya**, que la font-llibre
-  anuncia com a categoria sencera.
+  llegenda amb [música i cançons](../../cultura/musica-i-cancons/musica-i-cancons.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Altres llegendes de **llops** i de **bèsties de muntanya**, que la font-llibre
+  anuncia com a categoria sencera.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

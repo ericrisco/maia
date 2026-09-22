@@ -290,7 +290,7 @@ assembla força al que aquest corpus intenta fer amb text.
   **CENMA**. Això documenta el desenllaç institucional i un límit temporal de
   l'arxiu, però **no permet reconstruir què va passar any per any entre el 2001
   i la transformació**, ni verificar totes les previsions de la ponència del
-  2000. El buit prioritari segueix obert en aquesta part.
+  2000. ~~El buit prioritari segueix obert en aquesta part.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La relació entre el CRECIT i el CENMA**~~ — **`parcial` des del 2026-09-13**:
    el corpus té una prova que no sabia que tenia: el CRECIT va existir i va
   treballar.** **[Com es compta l'aigua dels canons](../../territori/clima-i-muntanya/com-es-compta-laigua-dels-canons.md)
