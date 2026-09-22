@@ -228,8 +228,8 @@ què el corpus ja té documentada la reconstrucció.`
   **8,4 mm**, de manera que confirma els extrems publicats però no permet
   reconstruir la variació. Es conserven els dos valors sense atribuir la
   diferència a una causa no comprovada.
-- No s'ha comprovat el compliment real dels cabals ecològics ni cercat
+- ~~No s'ha comprovat el compliment real dels cabals ecològics ni cercat
    una correcció editorial dels informes. Els drets de redistribució
    continuen pendents a la [fitxa de font](../../../fonts/mediambient-recurs-hidric.md);
    aquesta lectura no autoritza incorporar el material a datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

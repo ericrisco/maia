@@ -334,14 +334,14 @@ data de finalització de l'esquí.
     primària situa aquesta xifra, però queda per demostrar la cadena fins a la citació de Pons.
    El BUR original i la comparabilitat de mètodes amb els 282 hm³ de
    1961–1990 continuen pendents. La coincidència numèrica no resol el buit.
-10. **El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
-   andorrans i el corpus només els té citats.
+10. ~~**El BUR del 2014** i el **PAACC del 2014** sencers. Són documents oficials
+   andorrans i el corpus només els té citats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 11. ~~**La tesi de Cristina Pesado**: si es va acabar i què va donar.~~ — **`parcial` el 21-09-2026**: la font es presenta com una **ponència de 2016 sobre una tesi doctoral en curs**; el corpus sap quin buit científic volia estudiar i quines dades preliminars exposava, però no ha verificat que la tesi s'acabés ni en té els resultats finals ([fitxa de la font](../../../fonts/pesado-recurs-hidric-andorra.md)).
-12. **Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.
+12. ~~**Miquel (2012)** i **Esteban et al. (2012)**, citats i no llegits.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
-13. Drets de redistribució dels informes de Medi Ambient pendents; els
+13. ~~Drets de redistribució dels informes de Medi Ambient pendents; els
     originals i la nova lectura de recerca no s'exporten a datasets.
-    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
-14. No s'ha resolt la diferència de classificació de la neu entre
+    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
+14. ~~No s'ha resolt la diferència de classificació de la neu entre
     Pons i l'inventari oficial; el 6,67% no s'ha recalculat sobre una
-    base aliena a la font.
+    base aliena a la font.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

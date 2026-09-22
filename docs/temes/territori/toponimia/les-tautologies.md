@@ -159,8 +159,8 @@ contra l'original** abans de citar-les enlloc.
 - ~~***Arrels d'Andorra***, d'Anglada (Ed. Andorra, **1993**) — **el llibre on
   desplega tot això**.~~ — **`parcial` el 21-09-2026**: la bibliografia queda
   identificada, però el corpus encara no ha llegit el llibre.
-- El **Cartulari de la Vall d'Andorra** de **Cebrià Baraut** (1988, 1990) i el
-  **Diplomatari del segle XIV** (1993) — **les fonts documentals de base**.
+- ~~El **Cartulari de la Vall d'Andorra** de **Cebrià Baraut** (1988, 1990) i el
+  **Diplomatari del segle XIV** (1993) — **les fonts documentals de base**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~L'***Anàlisi fisiogràfica de topònims andorrans d'arrel preromana*** (Planas,
   Gascón, López-Mugartza i Belasko, Govern d'Andorra, **2018**), que és **l'estat
   actual de la qüestió**.~~ — **`resolt` com a lectura el 18-09-2026**: el llibre

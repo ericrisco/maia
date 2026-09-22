@@ -88,5 +88,5 @@ sobre xarxa d'estacions i observadors.)
   ja tenen una primera lectura; no s'han verificat polígons reglamentaris
   ni tota la cadena posterior.~~ — **`parcial` el 2026-09-22**: el reglament
   local ja té una primera lectura, però resten polígons i episodis històrics.
- - Llicència de reutilització pendent; originals i lectura fora de datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+ - ~~Llicència de reutilització pendent; originals i lectura fora de datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

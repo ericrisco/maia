@@ -267,11 +267,11 @@ privat:**
 ## Buits registrats
 
 1. ~~**El registre de bohigues d'Encamp de cap al 1791** i **la comptabilitat de 1755-1765**.~~ — **`parcial` el 21-09-2026**: la font identifica les dues sèries com a registres nominals de concessions comunals i n'explica el valor, però el corpus no en té les peces de l'arxiu comunal d'Encamp.
-2. **Els decrets del 28-05-1859, del 12-12-1888 i del 21-12-1893**, sencers.
-3. **Les sentències de visura del 17-06-1790 i de 1901**, senceres, i **de qui era
-   la terra.**
-4. **Les tarifes de les altres parròquies**: **Ordino i Encamp no hi consten per
-   als perits**, i **la font marca amb un «crec» la de Sant Julià.**
+2. ~~**Els decrets del 28-05-1859, del 12-12-1888 i del 21-12-1893**, sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Les sentències de visura del 17-06-1790 i de 1901**, senceres, i **de qui era
+   la terra.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Les tarifes de les altres parròquies**: **Ordino i Encamp no hi consten per
+   als perits**, i **la font marca amb un «crec» la de Sant Julià.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Per què només Canillo exigeix el tancat de murs**, i **des de quan.**~~ — **`parcial` el 21-09-2026**: la font documenta que **tota bohiga de Canillo ha de ser closa de murs** i que a les altres parròquies la clotura no és indispensable; no explica per què Canillo té aquesta excepció ni des de quan regeix.
 6. ~~**Si el consell de quart havia de confirmar les concessions sobre terra de
    quart.**~~ — **`parcial` el 21-09-2026**: Brutails diu que ho **creu** quan la
@@ -284,9 +284,9 @@ privat:**
    **Registrada, no arbitrada.**~~ — **`no-es-buit` el 20-09-2026**: la fitxa ja
    conserva les dues xifres i explicita que la diferència queda registrada sense
    una arbitració documental.
-9. **Si la *peixena* encara existia el 1904 als rebaixants**, o **si el moviment de
+9. ~~**Si la *peixena* encara existia el 1904 als rebaixants**, o **si el moviment de
    1893 ja l'havia buidada.** **La font descriu el moviment en curs i no en dona
-   l'abast.**
+   l'abast.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**On eren «la coltia de Vila», a Encamp, i «la devesa del Mas del Solà»**, i
     **si els topònims són vius.**~~ — **`parcial` el 21-09-2026**: el
     [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)

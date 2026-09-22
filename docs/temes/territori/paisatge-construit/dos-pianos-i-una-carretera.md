@@ -192,8 +192,8 @@ projecte d'explotació del granit andorrà.
 
 ## Buits registrats
 
-1. **Qui demanava els monopolis de força a distància el 1904**, i què se'n va
-   fer. **Prioritari** — és la prehistòria de FHASA.
+1. ~~**Qui demanava els monopolis de força a distància el 1904**, i què se'n va
+   fer. **Prioritari** — és la prehistòria de FHASA.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Quan es va acabar la carretera de França a Soldeu**, i si es va continuar
    cap a Espanya com es projectava.~~ — **`resolt` el 21-09-2026**: la carretera
    **Soldeu–Pas de la Casa** es va lliurar el **novembre de 1903**; la connexió
@@ -205,10 +205,10 @@ projecte d'explotació del granit andorrà.
 2 bis. **Com es va aplicar la decisió de pagar només els immobles bastits**, i
    **si el Consell va arribar mai a saldar el capital dels terrenys.** **La font
    diu «hi hauria molt a dir» i no ho diu.** **Prioritari.**
-3. **Si la carretera va girar cap a França** les compres de petroli, sucre i vi.
-4. **El granit**: cap projecte conegut.
-5. **Els dos pianos**: on eren, i de qui.
-6. **Les palanques encadenades**: si en queda cap.
+3. ~~**Si la carretera va girar cap a França** les compres de petroli, sucre i vi.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**El granit**: cap projecte conegut.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Els dos pianos**: on eren, i de qui.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Les palanques encadenades**: si en queda cap.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**La recomanació del Manual Digest sobre els camins dels ports**, contra
    l'original — i **amb quin capítol**, perquè **Brutails el data malament**.~~ —
    **`parcial` des del 16-09-2026: l'original segueix sense aparèixer, però ja no

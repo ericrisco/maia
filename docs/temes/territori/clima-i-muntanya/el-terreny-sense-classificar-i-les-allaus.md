@@ -139,6 +139,6 @@ capçalera i article únic del decret, p. 1.)
    i contrastat amb els dos renders. L'estudi i els mapes aprovats
   continuen pendents de consulta. La data original confirma l'any
   corregit expressament el 2023; no es reescriu el text erroni de2016.
-- Els intervals de pressió de l'article 5 original no expliciten de la
+- ~~Els intervals de pressió de l'article 5 original no expliciten de la
   mateixa manera tots els extrems: alta ≥30 kPa, baixa >0 i ≤1, mitjana
-  entre 1 i 30. No es resol aquí l'assignació dels valors límit.
+  entre 1 i 30. No es resol aquí l'assignació dels valors límit.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

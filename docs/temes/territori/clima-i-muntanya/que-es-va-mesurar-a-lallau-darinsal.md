@@ -175,9 +175,9 @@ del fenomen. No és un nivell de perill emès pel
   han retornat 429.~~ — **`no-es-buit` el 19-09-2026**: és un avís de
   preservació d'una discrepància de la font, no una dada que el corpus presenti
   com a resolta ni una pregunta independent.
-- El pla de 2022, p. 8, esmenta més de 600 kPa, sense contrast
+- ~~El pla de 2022, p. 8, esmenta més de 600 kPa, sense contrast
   original aconseguit aquí. Els valors inferits el 2020 per arbres
-  i edificis no s'han equiparat automàticament a aquest màxim.
+  i edificis no s'han equiparat automàticament a aquest màxim.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Les defenses també tenen una discrepància pendent: el treball de
   2020, p. 21, descriu un dic de 18 m i un altre de més petit; el pla
   de 2022, p. 8, diu dos dics de 18 m construïts el 1999. No s'han
@@ -192,6 +192,6 @@ del fenomen. No és un nivell de perill emès pel
   l'operativitat actual de les proteccions.~~ — **`font_externa` el
   2026-09-22**: cal consultar l'inventari nacional, dades contemporànies i
   informes de manteniment o operativitat.
- - Article de2020 sota CC BY4.0; drets de la comunicació de1996,
+ - ~~Article de2020 sota CC BY4.0; drets de la comunicació de1996,
    de les peces de Becat i del pla pendents. Aquesta lectura conjunta no s'exporta a datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

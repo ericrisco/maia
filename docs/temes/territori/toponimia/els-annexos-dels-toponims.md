@@ -342,11 +342,11 @@ per tant, ja és llegit com a font i no converteix cap hipòtesi en resultat.
   Llorts com un con de dejecció. Això confirma el corredor i la relació
   fisiogràfica, però encara no és un creuament geomètric amb els polígons digitals
   de perillositat. Font local: [`becat-risque-avalanche-2014.txt`](../../../raw/allaus/becat-risque-avalanche-2014.txt).
-- **Drets tancats.** **Portal del Govern, drets reservats, cap llicència de
+- ~~**Drets tancats.** **Portal del Govern, drets reservats, cap llicència de
   reutilització.** **Res d'aquest material no entra en cap dataset**; els
   fitxers extrets viuen en una carpeta no versionada i el que hi ha aquí són
   citacions i recomptes. **`no-es-buit`**: és un avís de drets, no una pregunta
-  de recerca.
+  de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

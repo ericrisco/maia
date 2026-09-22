@@ -93,7 +93,7 @@ territori nacional blindat**, en un país que no té on posar la gent.
   planejament fixar el percentatge de sòl ocupable, el volum, la forma i el
   nombre de plantes de les edificacions (**article 4.1.b**). El corpus encara
   no té els perfils construïts ni la comparació històrica de les dues parròquies.
-- Les **estacions d'esquí** com a fet urbanístic, no com a indústria.
+- ~~Les **estacions d'esquí** com a fet urbanístic, no com a indústria.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~El **despoblament dels pobles alts** contra la concentració al fons de vall.~~ —
   **`font_externa` el 2026-09-22**: calen padrons, sèries demogràfiques i estudis
   territorials per mesurar el despoblament i la concentració residencial.

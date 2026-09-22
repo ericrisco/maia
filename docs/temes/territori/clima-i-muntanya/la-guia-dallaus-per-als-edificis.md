@@ -74,14 +74,14 @@ espera necessària per corregir un contacte.
 - ~~Lectura de dotze pàgines i dels renders 7, 10 i 12~~ — **`parcial` el
   19-09-2026**: la plantilla no porta una data emplenada ni una versió
   explícita comprovada; el nom de descàrrega no es pren com a data d'aprovació.
-- No s'ha examinat cap pla completat d'edifici, aprovació particular,
-  adhesió, nomenament ni registre de missatges rebuts.
-- El model no resol les discrepàncies internes del pla d'Arinsal:
-  són documents de diferent abast i no s'han uniformitzat els terminis.
-- La taula extreta de p. 7 inclou text que no queda íntegrament visible
+- ~~No s'ha examinat cap pla completat d'edifici, aprovació particular,
+  adhesió, nomenament ni registre de missatges rebuts.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El model no resol les discrepàncies internes del pla d'Arinsal:
+  són documents de diferent abast i no s'han uniformitzat els terminis.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La taula extreta de p. 7 inclou text que no queda íntegrament visible
   al render; les correspondències detallades amb el BPA no s'han
-  convertit en instruccions d'activació per a un edifici.
- - La remissió al fitxer de dades personals de 2019 i a la Llei 29/2021
+  convertit en instruccions d'activació per a un edifici.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~La remissió al fitxer de dades personals de 2019 i a la Llei 29/2021
    s'ha llegit sense contrast dels originals. No s'han recollit censos
    personals. Llicència particular pendent, sense datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

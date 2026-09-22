@@ -89,20 +89,20 @@ previsions; no les converteix en una prohibició absoluta d'informar.
 - ~~Lectura de la còpia pública de 29 pàgines~~ — **`parcial` el 19-09-2026**:
   s'han inspeccionat el mapa de p. 7 i diversos quadres i diagrames; no s'han
   verificat totes les capes, parcel·les, fotografies ni posicions de control.
-- No s'ha trobat en aquesta còpia una solució a les discrepàncies de
+- ~~No s'ha trobat en aquesta còpia una solució a les discrepàncies de
   periodicitat i avisos. No s'ha contrastat una versió posterior ni el
-  registre real d'actualitzacions, adhesions, formacions o activacions.
+  registre real d'actualitzacions, adhesions, formacions o activacions.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~L'índex identifica annexos de telèfons i censos com a informació
   restringida. No formen part de les 29 pàgines consultades; no s'han
   buscat dades personals dels afectats.~~ — **`no-es-buit` el 19-09-2026**:
   és un avís de privacitat i d'abast de consulta, no una pregunta de recerca.
-- Els altres cinc plans només s'han identificat. **Antecedents de
+- ~~Els altres cinc plans només s'han identificat. **Antecedents de
   1996, buit parcialment tancat:** una
   [lectura de mesures, estimacions i simulacions](que-es-va-mesurar-a-lallau-darinsal.md)
   contrasta una comunicació contemporània de 1996 i un estudi de 2020.
   Cronologia i alçada dels dics discrepen entre aquest estudi i el
   pla; no s'han resolt. Informes originals RTM/ASI, màxim de pressió
-  i contrast contemporani de l'episodi de 2015 continuen pendents.
- - Condicions particulars de reutilització pendents; originals i
+  i contrast contemporani de l'episodi de 2015 continuen pendents.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Condicions particulars de reutilització pendents; originals i
    lectura fora de datasets. **`no-es-buit`**: és un avís de drets, no una
-   pregunta de recerca.
+   pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

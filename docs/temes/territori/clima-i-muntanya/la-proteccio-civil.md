@@ -124,7 +124,7 @@ Hi ha també un **Cos de voluntaris de protecció civil** amb capítol propi
   s'estableix **any a any per ordre ministerial**, «per garantir un
   creixement sostenible». **Cap ordre d'aquest tipus s'ha trobat publicada
   al BOPA** des del setembre del 2024.
-- **Si el deure de col·laboració s'ha activat mai**, tampoc.
+- ~~**Si el deure de col·laboració s'ha activat mai**, tampoc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La [Llei de seguretat pública](../../institucions/justicia/el-dret-vigent.md)**
   (Llei 31/2021, 66 articles), que és la peça germana, és al recull i **queda per
   llegir**.~~ — **`resolt` el 17-09-2026**, llegida sencera

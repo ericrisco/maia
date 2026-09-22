@@ -204,13 +204,13 @@ que l'Administració creu que n'hi ha més.**
 
   `Les 474 llicències que aquesta fitxa cita són de l'informe del Departament
   de Medi Ambient per al 2025; les 433 són de l'activitat d'Estadística per al
-  2024. No són el mateix any i podrien no ser la mateixa definició: el corpus
+  2024. ~~No són el mateix any i podrien no ser la mateixa definició: el corpus
   dona les dues amb la seva font i no les suma ni les compara com a sèrie.`
 
   **I una dada de tràmit que val per ella mateixa**: **el 2016 les 452
   sol·licituds de llicència de caça eren totes presencials**; **el 2024, de
   433, n'hi ha 213 de presencials i 220 per tràmit electrònic.** **La
-  finestreta electrònica ha passat del zero a la majoria en vuit anys.**
+  finestreta electrònica ha passat del zero a la majoria en vuit anys.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La sèrie anterior al 2021.**~~ — **`resolt` el 18-09-2026**: **hi és a
   l'API d'Estadística** —**pesca des del 2016, caça des del 2014**— i **canvia
   la lectura**, vegeu

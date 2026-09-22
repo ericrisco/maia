@@ -95,15 +95,15 @@ de la torre, però no en dona ni la datació ni la funció original.
 
 ## Buits registrats
 
-1. **El castell del puig d'Enclar**: excavacions, restes, què se'n sap.
-   **Prioritari** — és un jaciment amb data de demolició documentada.
+1. ~~**El castell del puig d'Enclar**: excavacions, restes, què se'n sap.
+   **Prioritari** — és un jaciment amb data de demolició documentada.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La clàusula del segon Pareatge** que el mana enderrocar. **Text literal.**~~ — **`parcial` el 21-09-2026**: el corpus identifica l'ordre d'enderroc del castell d'Enclar i conserva la definició de la *rendableté* —lliurar les places fortes en pau i guerra—, però encara no té la transcripció literal de la disposició de 1288.
 3. ~~**La Torre dels Moros de les Bons**: datació, funció.~~ — **`parcial` el 21-09-2026**: la Llei 9/2003 la identifica oficialment com a **«Torre dels Moros (Castell de les Bons)»** i la classifica com a monument d'Encamp; el corpus encara no té la datació ni la funció original.
-4. **Roc del Castell** i **Castellot de la Moixella**: on són.
-5. Si hi ha **altres topònims** de fortificació.
-6. **Verificar la inferència**: hi ha historiografia que expliqui l'absència de
-   castells a Andorra pel Pareatge?
-7. Els **topònims de «moro»** a Andorra, com a família.
+4. ~~**Roc del Castell** i **Castellot de la Moixella**: on són.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~Si hi ha **altres topònims** de fortificació.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Verificar la inferència**: hi ha historiografia que expliqui l'absència de
+   castells a Andorra pel Pareatge?~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~Els **topònims de «moro»** a Andorra, com a família.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## I hi havia una norma escrita que ho prohibia
 

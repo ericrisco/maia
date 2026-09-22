@@ -223,8 +223,8 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    **`parcial` el 18-09-2026**: **la font en conserva la frase que formula la
    presumpció** i diu que és un principi sovint invocat; **no hi ha encara la
    resta de l'acta ni una norma escrita independent**.
-3. **Les sentències de visura de 1875 i de 1886**: **sense identificació de parts**,
-   i **la del mur de la presó sense data de dia.**
+3. ~~**Les sentències de visura de 1875 i de 1886**: **sense identificació de parts**,
+   i **la del mur de la presó sense data de dia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Què són les *merseries***~~ — **`parcial` el 16-09-2026.** **El
    [DCVB](../../../fonts/dcvb.md) té una accepció que hi encaixa i que el corpus registra
    com a hipòtesi, no com a fet**: `merceria` **2**, «**terra que es deixa per a
@@ -291,8 +291,8 @@ sigui *antoixà* seu.** **Es discuteix el fet, no el dret.**
    defineix l’*antoxà* com «tros de comunal prop de una finca particular». La
    font no permet estendre aquest ús a tot el país ni identificar l’informador.
 8. ~~**Fins on arribava «la profunditat imprecisa» de l'antoixà**.~~ — **`parcial` el 21-09-2026**: la font de 1904 declara expressament que la profunditat és imprecisa i el corpus no hi ha trobat una norma o visura posterior que la concreti.
-9. **Qui eren els jutges de visura de segona instància** i **com es constituïa
-   aquesta segona instància.**
+9. ~~**Qui eren els jutges de visura de segona instància** i **com es constituïa
+   aquesta segona instància.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

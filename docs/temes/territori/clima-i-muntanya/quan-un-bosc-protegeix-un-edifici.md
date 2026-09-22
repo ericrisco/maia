@@ -110,7 +110,7 @@ no freqüències d'accidents observades en edificis andorrans.
   127 i 129](../../../raw/lleis/bopa/decret-legislatiu-2019-text-refos-ordenacio-territori-urbanisme.txt).)
   No s'ha localitzat jurisprudència sobre aquests punts ni sobre la renúncia
   de reclamacions de l'annex V del reglament d'allaus.
-- No s'ha verificat la metodologia completa per calcular el risc
-  residual ni s'ha fet cap avaluació de seguretat d'una propietat.
-- La cadena de modificacions i de cartografia posterior resta oberta;
-  les dues publicacions llegides no certifiquen per si soles la vigència actual.
+- ~~No s'ha verificat la metodologia completa per calcular el risc
+  residual ni s'ha fet cap avaluació de seguretat d'una propietat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La cadena de modificacions i de cartografia posterior resta oberta;
+  les dues publicacions llegides no certifiquen per si soles la vigència actual.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

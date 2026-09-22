@@ -92,6 +92,6 @@ La portada diu gener de 2021 i la datació final, p. 41, diu
   de 2019 no acredita la producció de neu actual ni tota la sèrie històrica.~~ —
   **`parcial` el 2026-09-22**: queden per llegir els annexos i la sèrie completa;
   la lectura local només permet descriure parcialment l'inventari de 2019.
- - Drets de redistribució i correccions editorials pendents. Aquesta
+ - ~~Drets de redistribució i correccions editorials pendents. Aquesta
    lectura de recerca i els seus originals no s'exporten a datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

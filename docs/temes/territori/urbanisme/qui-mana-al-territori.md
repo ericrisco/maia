@@ -259,5 +259,5 @@ el Govern**, no el comú.
   set són dels comuns](#onze-persones-i-set-son-dels-comuns)» i «[Qui pot
   denunciar una obra, i qui la paga](#qui-pot-denunciar-una-obra-i-qui-la-paga)»
   (`docs/raw/lleis/ordenacio-territorial.txt`, articles 130 a 133 i 143 a 160).
-- **Cap dada**: quant sòl hi ha de cada classe, quanta edificabilitat s'ha
-  consumit, quantes llicències provisionals s'han revocat.
+- ~~**Cap dada**: quant sòl hi ha de cada classe, quanta edificabilitat s'ha
+  consumit, quantes llicències provisionals s'han revocat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

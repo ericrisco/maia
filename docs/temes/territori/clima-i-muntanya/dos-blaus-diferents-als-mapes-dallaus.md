@@ -86,20 +86,20 @@ preguntes diferents.
   text complet del sector14, p.90–136. S'han vist alguns mapes i fotografies,
   però no totes les imatges ni croquis. No s'han georeferenciat capes, mesurat
   superfícies o assignat parcel·les.
-- La lectura no cobreix els quinze sectors ni un inventari nacional
+- ~~La lectura no cobreix els quinze sectors ni un inventari nacional
   complet. P.1–12 de l'annex només permeten iniciar Soldeu i Incles;
-  les seves imatges no s'han inspeccionat.
-- Dates i testimonis dels episodis anteriors de la Canal Pregona
+  les seves imatges no s'han inspeccionat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Dates i testimonis dels episodis anteriors de la Canal Pregona
   no identificats. La manca de confirmació per enquesta al mapa
-  no equival a prova d'inexistència d'allaus al món.
-- L'annex diu 243 pàgines a la fitxa editorial, però el PDF té143
+  no equival a prova d'inexistència d'allaus al món.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'annex diu 243 pàgines a la fitxa editorial, però el PDF té143
   i l'índex del llibre, p.251, en diu143. La portada diu2014 i una
   nota p.3 remet a2013. No s'infereixen pàgines perdudes ni una
-  altra edició comprovada.
-- Els peus d'una fotografia de Prats Nous, p.109 i113, diuen1986
+  altra edició comprovada.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els peus d'una fotografia de Prats Nous, p.109 i113, diuen1986
   i repeteixen zona11 i codis de les Fonts, mentre p.98 identifica
   Prats Nous com a zona10 i parla del1996. Les etiquetes no s'han
-  corregit silenciosament ni utilitzat per vincular bases de dades.
- - Condicions de reutilització pendents, inclosos mapes i fotografies
+  corregit silenciosament ni utilitzat per vincular bases de dades.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Condicions de reutilització pendents, inclosos mapes i fotografies
    d'altres autors o institucions; originals i lectura fora de datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

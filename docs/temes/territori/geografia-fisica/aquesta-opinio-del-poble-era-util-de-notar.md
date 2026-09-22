@@ -332,14 +332,14 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    expressa de retorn al comú. **No queda provat que aquest sigui l’únic acte
    dictat contra els abusos que la font resumeix com «no fa gaire».**
 2. ~~**El document del 7 de juny de 1456**, conegut per una anàlisi conservada als arxius d'Encamp.~~ — **`parcial` el 21-09-2026**: la fitxa en conserva la data, el canvi de nom dels saigs i la hipòtesi que inclogui el dret de llicències d'obres, però no té ni l'anàlisi ni l'original de l'arxiu comunal d'Encamp.
-   - **Puja de prioritat el 19-09-2026: la mateixa anàlisi apareix una segona
+   - ~~**Puja de prioritat el 19-09-2026: la mateixa anàlisi apareix una segona
      vegada al llibre, amb un contingut diferent i molt més gros.** A la
      p. 225 Brutails escriu que, **segons «una anàlisi antiga que subsisteix als
      arxius d'Encamp»**, **la decisió que va canviar el nom dels *saigs* pel de
      *batlles* «seria del 7 de juny de 1456»**
      ([de saig a batlle](../../institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md)).
-     **Mateixa data, mateixa procedència, mateixa reserva de la font.**
-   - **`hipòtesi del corpus`: podria ser un sol document amb diversos capítols.**
+     **Mateixa data, mateixa procedència, mateixa reserva de la font.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**`hipòtesi del corpus`: podria ser un sol document amb diversos capítols.**
      **Hi ha un indici que ho suggereix i el corpus no el converteix en prova**:
      **el document de 1456 anul·la un permís d'obres «*sobre la casa d'en **Guilhem
      del Areny***»**, i **la declaració dels comissaris que va rebatejar els saigs
@@ -349,7 +349,7 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
      i les dues vegades el conflicte és sobre permisos d'obra.** **Cap de les dues
      fonts no els identifica, i el corpus tampoc.** **El que el corpus afirma és
      que l'anàlisi d'Encamp és ara doblement prioritària**: **tancaria dos buits
-     alhora.**
+     alhora.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**El *Manual Digest*, *Duptes* § 23.**~~ — **`parcial`, perquè els punts
    23 i 28 del *Politar* ja n'han aportat el text i han reduït la divergència**:
    **la p. 280 del *Politar* queda `resolta` el 18-09-2026**, i **la premissa era falsa: la pàgina sí que és dins
@@ -406,8 +406,8 @@ pertany a aquesta casa](../../institucions/consell-general/que-les-aygues-publiq
    pp. 172-173](../../../raw/llibres/brutails-coutume.txt)). **No són els decrets
    íntegres amb les seves actes i formalitats.**
 6. ~~**La data del decret de 1849**, que **la font no dona** — **només l'any**, i **l'aprovació del Bisbe que el precedeix.**~~ — **`parcial` el 20-09-2026**: el volum de De los Ríos el situa al **desembre de 1849** i en resumeix l'autorització per als estrangers, però no en dona el dia ni el text íntegre ([font](../../../fonts/rios-urruti-andorra-1920.md)).
-7. **Per què el decret dels pasturatges del 23-05-1746 es va revocar el 04-06-1764 i
-   restablir el 20-05-1765.** **Tres dates i cap raó.**
+7. ~~**Per què el decret dels pasturatges del 23-05-1746 es va revocar el 04-06-1764 i
+   restablir el 20-05-1765.** **Tres dates i cap raó.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Cap cas real de retracte.** **La font diu que no en pot citar cap.** **I el
    frau dels preus ficticis és informació de tercers, sense cap cas ni nom.**~~ —
    **`no-es-buit` el 20-09-2026**: la font declara que no disposa de cap cas

@@ -128,8 +128,8 @@ entren tres de cada quatre vehicles** ([el transport](../../economia/transport/R
   **`parcial` el 2026-09-20**: l'edició del **2020** publica **166 hab/km²** i
   la del **2024** ja no inclou aquesta línia, però cap nota de les dues edicions
   explica el motiu del canvi.
-- **Si els dominis esquiables entren a «zones esportives»**, que aquesta fitxa
-  suposa que no i no ho acredita.
+- ~~**Si els dominis esquiables entren a «zones esportives»**, que aquesta fitxa
+  suposa que no i no ho acredita.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Cims, ports, llacs, geologia i clima amb dades**, que és el buit ampli de
   [la geografia física](./geografia-fisica.md).~~ — **`parcial`, actualitzat el
   2026-09-19**: aquesta fitxa ja dona el **pic de Comapedrosa (2.942 m)** com
