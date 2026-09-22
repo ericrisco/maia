@@ -103,14 +103,14 @@ anys després — i és el millor argument possible a favor seu.
   **`resolt` el 2026-09-19** com a buit duplicat: l'enunciat canònic queda al
   panorama de [l'edat mitjana](../edat-mitjana/andorra-a-ledat-mitjana.md), que
   ja el conserva com a buit únic.
-- Com es **governava una parròquia** en la pràctica: el consell, els caps de
-  casa, els quarts.
-- El **dret de casa**: hereu, pubilla, successió — l'estructura social de
+- ~~Com es **governava una parròquia** en la pràctica: el consell, els caps de
+  casa, els quarts.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El **dret de casa**: hereu, pubilla, successió — l'estructura social de
   l'antic règim andorrà
-  ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md)).
-- Les **actes històriques del Consell**, ~**7.500 transcrites**. Hi hauria
+  ([ritus de pas](../../costums/ritus-de-pas/ritus-de-pas.md)).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Les **actes històriques del Consell**, ~**7.500 transcrites**. Hi hauria
   **andorrà escrit d'època**, que per al camp `epoca` és el material més
-  valuós que existeix. **Buit registrat, el més gran del corpus.**
+  valuós que existeix. **Buit registrat, el més gran del corpus.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

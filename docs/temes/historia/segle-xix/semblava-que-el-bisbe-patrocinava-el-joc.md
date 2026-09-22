@@ -199,8 +199,8 @@ carreteres**, **i la fractura institucional que en va sortir.**
 
 ## Buits registrats
 
-1. **El nom de la companyia estrangera**, **la data de la concessió** i **el text
-   de l'escriptura**. **Res d'això consta.** **Prioritari.**
+1. ~~**El nom de la companyia estrangera**, **la data de la concessió** i **el text
+   de l'escriptura**. **Res d'això consta.** **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Qui era el president del Consell** que la font diu identificat amb la
    companyia.~~ — **`resolt` el 18-09-2026: Guillem de Plandolit i d'Areny.**
 
@@ -269,8 +269,8 @@ carreteres**, **i la fractura institucional que en va sortir.**
    sobre les Valls. **La divergència amb la font del corpus que diu que el tractat
    no afectava les Valls queda registrada i no arbitrada; falten els dos textos
    íntegres.**
-8. **Els dos mil duros retornats de la Capitania General de Catalunya el 1854**, i
-   **quina era la partida detinguda.**
+8. ~~**Els dos mil duros retornats de la Capitania General de Catalunya el 1854**, i
+   **quina era la partida detinguda.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Què va passar exactament els períodes 1868-1878 i 1883-1886.**~~ —
    **`parcial` el 2026-09-21**: les fitxes sobre la Nova Reforma i els bàndols
    situen **tots dos períodes després de la reforma de 1866**, sota els
@@ -280,8 +280,8 @@ carreteres**, **i la fractura institucional que en va sortir.**
    Reforma](./nova-reforma.md)). **La font els qualifica de «ruidosos y
    sangrientos», però el corpus encara no identifica els episodis concrets de
    1868-1878 ni els de 1883-1886.**
-10. **La versió episcopal de l'afer de la carretera.** **Tota aquesta narració és
-    d'una part**, i **la part contrària és el destinatari de la carta.**
+10. ~~**La versió episcopal de l'afer de la carretera.** **Tota aquesta narració és
+    d'una part**, i **la part contrària és el destinatari de la carta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

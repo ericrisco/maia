@@ -101,9 +101,9 @@ una constitució de disset articles.**
   favor, 1 en contra**). Una entrevista de [Bondia](../../../fonts/bondia-boris-cinto-2024.md)
   l'identifica com **«el Cinto»**, conseller encampadà, però no en dona el nom
   civil complet; cal l'acta primària per tancar aquesta identitat.
-- **Què va passar amb el text després de l'expulsió de Skossyreff**, vuit dies
-  després de la coronació.
-- **Si el Consell General va derogar mai formalment aquesta Constitució.**
+- ~~**Què va passar amb el text després de l'expulsió de Skossyreff**, vuit dies
+  després de la coronació.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si el Consell General va derogar mai formalment aquesta Constitució.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

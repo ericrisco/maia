@@ -176,8 +176,8 @@ tribunal**.
 
 ## Buits registrats
 
-1. **Quin era l'afer greu** decidit per un agent francès seguint el seu germà
-   espanyol, i quin any. **Prioritari** — és una acusació concreta sense noms.
+1. ~~**Quin era l'afer greu** decidit per un agent francès seguint el seu germà
+   espanyol, i quin any. **Prioritari** — és una acusació concreta sense noms.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Les escoles franceses**: quin any exacte es van obrir, quants alumnes, i
    quan es van integrar al sistema actual.~~ — **`parcial` el 20-09-2026**:
    [La cronologia escolar](../../societat/educacio/la-cronologia-escolar.md)
@@ -186,10 +186,10 @@ tribunal**.
    data d'integració en el sistema actual.
 3. ~~**La colònia andorrana de Puisserguier**: quants, des de quan, si en queda
    rastre.~~ — **`parcial` el 20-09-2026**: [la fitxa de la diàspora](../../societat/immigracio/els-nats-a-andorra.md) ja enllaça **Puisserguier, prop de Besiers (Erau)** com a **«una veritable colònia andorrana»** documentada per Brutails. Encara no hi ha al corpus el nombre de persones, l’inici de la colònia ni el rastre actual.
-4. **Els casos de tancament del trànsit amb França «per raons sanitàries»**.
-   Brutails ho afirma i no en data cap.
-5. **La banda de música militar de la Seu** a les festes andorranes: quins anys,
-   quines festes.
+4. ~~**Els casos de tancament del trànsit amb França «per raons sanitàries»**.
+   Brutails ho afirma i no en data cap.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**La banda de música militar de la Seu** a les festes andorranes: quins anys,
+   quines festes.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El Politar, pàgines 186** i la màxima sanitària, contra l'original.~~ —
    **`resolt` el 18-09-2026: les dues coses són dins l'extracte de Brutails**
    ([El Politar andorrà, llegit](../manual-digest/el-politar.md)), **i totes dues

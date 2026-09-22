@@ -134,8 +134,8 @@ fragmenta amb les herències**.
    **Sal·la** l'any **988**, a canvi d'«altres béns»— i en té la funció
    patrimonial. **No conserva l'original, la signatura d'arxiu ni el text íntegre
    de l'acte.**
-2. **Quins «altres béns»** va rebre Borrell II a canvi. **Saber què valia
-   Andorra és saber quant valia.**
+2. ~~**Quins «altres béns»** va rebre Borrell II a canvi. **Saber què valia
+   Andorra és saber quant valia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**El document de 1133**~~ i el bisbe **Pere Berenguer**. — **`tancat a
    mitges` el 15-09-2026.** **El document s'ha llegit sencer**, en llatí i amb
    signatura d'arxiu ([per aquests malfets i per la redempció de la seva

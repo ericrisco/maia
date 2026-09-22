@@ -329,7 +329,7 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
    oberta la localització dels deu documents restants**; Valls i Taberner (1920)
    i *El llibre de la terra* (1997) són portes bibliogràfiques, no transcripcions
    incorporades al corpus.
-2. **Les tres contradiccions** de dalt.
+2. ~~**Les tres contradiccions** de dalt.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.~~ — **`parcial` el 21-09-2026**: la fitxa identifica el fons com la via documental dels cartularis i registres, però **encara no se n’ha consultat cap unitat**.
 4. ~~El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el
    document més localitzable de tota la llista.**~~ — **`no-es-buit` el 21-09-2026**: és una dada de localització del document, no una pregunta de recerca oberta.
@@ -365,7 +365,7 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
    dret d'ús sobre terres de fora**, i **Vallcivera és el punt on Andorra toca
    la Cerdanya.** `Requereix la situació exacta en un mapa; el que hi ha és el
    sector.`
-8. La **resta de la ponència**, que va fins al segle XX.
+8. ~~La **resta de la ponència**, que va fins al segle XX.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

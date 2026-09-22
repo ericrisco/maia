@@ -266,11 +266,11 @@ I la regla que el Consell subratlla:
    **`font_externa` el 2026-09-22**: **la font no els identifica ni explica la
    reclamació**. **Cal consultar la documentació de la Intendència General de
    Catalunya.**
-4. **La concòrdia i reglament d'Andreu Capella al gremi de teixidors, 1604.**
+4. ~~**La concòrdia i reglament d'Andreu Capella al gremi de teixidors, 1604.**
    **Citada per la titulatura i no vista.** **Interessa dues vegades: per la
-   fórmula i perquè és un reglament gremial andorrà que el corpus no té.**
-5. **Els documents de Joan Baptista Desbach.** **Cap data concreta**; només la de
-   la seva mort, **1688**.
+   fórmula i perquè és un reglament gremial andorrà que el corpus no té.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Els documents de Joan Baptista Desbach.** **Cap data concreta**; només la de
+   la seva mort, **1688**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El decret de Caixal del 22 d'abril de 1866 sencer.**~~ — **`parcial` el
    18-09-2026**: **la font en cita el principi i el final**, inclosa la regla que
    els veguers governen junts i que el present pot actuar quan l'altre és absent;
@@ -284,8 +284,8 @@ I la regla que el Consell subratlla:
    «sustancialmente», de memòria i en contra.**~~ — **`font_externa` el 2026-09-22**:
    cal consultar la premsa de la Seu o el butlletí del bisbat per trobar el text
    contemporani del discurs.
-9. **Si la comissió del Consell dins del Tribunal de Corts va demanar mai rebaixa
-   de pena**, i **si es va concedir.** **La font en dona la facultat, no cap cas.**
+9. ~~**Si la comissió del Consell dins del Tribunal de Corts va demanar mai rebaixa
+   de pena**, i **si es va concedir.** **La font en dona la facultat, no cap cas.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si aquesta descripció del Tribunal de Corts coincideix amb la de Brutails**,
     que el corpus té de deu anys després.~~ — **`parcial` el 21-09-2026**: totes
     dues fitxes documenten que el Consell General ha de ser reunit per obrir i

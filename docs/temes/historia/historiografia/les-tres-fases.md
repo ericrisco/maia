@@ -182,10 +182,10 @@ verificat.**
 
 **Del [segle XIX](../segle-xix/README.md):**
 
-- **Els episodis revolucionaris del 1868 i del 1888** — **«poden donar molt més
+- ~~**Els episodis revolucionaris del 1868 i del 1888** — **«poden donar molt més
   joc, en ser els preludis de les grans transformacions».** **El corpus té
   [la revolució del 1881](../segle-xix/la-questio-dandorra.md) i no té ni el
-  1868 ni el 1888.**
+  1868 ni el 1888.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Les grans famílies andorranes** — **la frase que va originar
   [aquella branca](../../economia/les-grans-families/README.md).**~~ —
   **`parcial` el 2026-09-19**: el document aporta una cronologia que el corpus
@@ -296,30 +296,30 @@ sabia.**
   paràgrafs de prosa analítica pròpia** abans de la bibliografia —no
   només els tres que el primer pas hi va trobar. Verificats sencers:
 
-  - **Capítol 4, Protohistòria i romanització** (p. 26): «la veritable
+  - ~~**Capítol 4, Protohistòria i romanització** (p. 26): «la veritable
     època fosca de la història d'Andorra», amb el balanç de què falta
-    per investigar-la (jaciments urbans, toponímia, paleoambient).
-  - **Capítol 6, Edat moderna** (p. 40): la relació amb les monarquies
+    per investigar-la (jaciments urbans, toponímia, paleoambient).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 6, Edat moderna** (p. 40): la relació amb les monarquies
     veïnes, el concepte de *Valls neutres*, i **la font del tribunal de
     Corts com «un material d'una extraordinària qualitat»** per a la
-    història social.
-  - **Capítol 7, El segle XIX** (p. 46): el segle «preludi del canvi»,
+    història social.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 7, El segle XIX** (p. 46): el segle «preludi del canvi»,
     amb un buit assenyalat explícitament per l'autora —**el paper de les
     grans famílies andorranes, «encara una ombra» per manca d'accés a
-    documentació privada.**
-  - **Capítol 8, L'Andorra contemporània** (p. 52): el segle «de la
+    documentació privada.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 8, L'Andorra contemporània** (p. 52): el segle «de la
     gran transformació», amb la mateixa queixa metodològica que el
-    capítol 7 —manquen relats globals, no estudis sectorials.
-  - **Capítol 9, Altres estudis** (p. 62): un paràgraf pont cap a
+    capítol 7 —manquen relats globals, no estudis sectorials.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 9, Altres estudis** (p. 62): un paràgraf pont cap a
     disciplines frontereres (geografia, lingüística, economia,
-    sociologia, història de l'art), després subdividit per matèria.
-  - **Capítol 5, L'edat mitjana i la formació d'Andorra** (p. 30):
+    sociologia, història de l'art), després subdividit per matèria.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 5, L'edat mitjana i la formació d'Andorra** (p. 30):
     «l'edat més transitada per la historiografia andorrana», amb els
     fonaments posats per **Baudon de Mony i Miret i Sans**, i una
     subsecció **«Els pioners»** que obre amb **Pierre de Marca**, *Marca
     Hispanica* (1688) — el mateix Marca que la fitxa del [Pariatge](../pareatge/el-que-es-dona-en-feu-es-el-domini-util.md)
-    cita per al document de remissió dels mals usos encara no localitzat.
-  - **Capítol 10, Política i institucions andorranes** (p. 74): la
+    cita per al document de remissió dels mals usos encara no localitzat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Capítol 10, Política i institucions andorranes** (p. 74): la
     manca de tradició en ciències polítiques, i **el tret distintiu de
     la branca**: «els principals autors que han tractat la història i
     descripció de les institucions andorranes sovint han tingut, a més,
@@ -340,14 +340,14 @@ sabia.**
   **No verificat si és la mateixa obra o una prèvia diferent**: el títol
   cobreix «els viatges a Catalunya» en general, i podria ser una edició
   més àmplia de la qual el 2004 n'extreu només la part andorrana.
-  `DIVERGÈNCIA REGISTRADA, NO ARBITRADA.`
+  `DIVERGÈNCIA REGISTRADA, NO ARBITRADA.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Albert Villaró**: **qui és.** **El corpus no en té fitxa.**~~ —
   **`resolt` el 18-09-2026**: **ara en té**, a
   [persones/albert-villaró](../../persones/albert-villaro.md) —
   historiador i novel·lista, nascut el 1964 a la Seu d'Urgell, director
   d'Arxius del comú d'Andorra la Vella i avui coordinador d'història a
   Andorra Recerca + Innovació ([font](../../../fonts/wikipedia-ca-albert-villaro.md)).
-- **El CEHiP**: **què ha fet des del 2018.**
+- ~~**El CEHiP**: **què ha fet des del 2018.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Roland Viader** i **Olivier Codina**.~~ — **`resolt` el 18-09-2026**:
   **ara tenen fitxa**, a [Roland Viader](../../persones/roland-viader.md)
   i [Olivier Codina](../../persones/olivier-codina.md). **Viader és

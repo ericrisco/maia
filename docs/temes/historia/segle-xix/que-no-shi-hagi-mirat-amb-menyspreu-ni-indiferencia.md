@@ -487,8 +487,8 @@ el sufragi**, que ja era dels caps de casa.
    signat que conserva el corpus és del **22 d'abril** i ja conté les quatre
    bases i els setze articles. La data del document llegit queda establerta;
    continua obert quin acte o esdeveniment correspon al 31 de maig.
-5. **Quina era l'«edat de jubilació»** a Andorra el 1866. **La llei no la diu.**
-   **Seixanta és de dues fonts franceses de 1904.**
+5. ~~**Quina era l'«edat de jubilació»** a Andorra el 1866. **La llei no la diu.**
+   **Seixanta és de dues fonts franceses de 1904.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si el requisit de conducta de l'article 1r es va aplicar mai a algú**, i
    amb quin resultat.~~ — **`font_externa` el 2026-09-22**: **la llei fixa el
    requisit, però la fitxa no té cap acta comunal que documenti una aplicació**.
@@ -500,9 +500,9 @@ el sufragi**, que ja era dels caps de casa.
    identifica **cinc visures dins de sis transaccions de 1875–1877**. **El
    corpus encara no té el recompte de causes ni cap cas que provi l’arribada a
    la tercera instància.**
-8. **Si els comuns van complir la disposició d'anar a buscar els costums**, i **si
+8. ~~**Si els comuns van complir la disposició d'anar a buscar els costums**, i **si
    en va quedar cap inventari.** **Prioritari**: **seria la llista dels papers que
-   el 1866 hi havia a les cases.**
+   el 1866 hi havia a les cases.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Què eren «los quatre o cinch consells sapiguts de cada any»** de l'article
    12è.~~ — **`TANCAT` el 16-09-2026**, amb el capítol IV del mateix volum
    destil·lat ([quan la parròquia no nomena metge, el quart ho pot fer](../../institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md)). **Són cinc, «cada uno es para una especial cosa»**,
@@ -513,8 +513,8 @@ el sufragi**, que ja era dels caps de casa.
    conèixer les mesures d'interès general), **de Sant Miquel** (fer els
    arrendaments) i **de les bohigues** (concedir comunals per rompre).
    `Segueix obert quin dia cau el de les bohigues, que és l'únic sense data.`
-10. **Si hi va haver mai un «Codich general»**, o si la codificació anunciada
-    el 1866 i encarregada el 1868 **no va arribar mai a res.**
+10. ~~**Si hi va haver mai un «Codich general»**, o si la codificació anunciada
+    el 1866 i encarregada el 1868 **no va arribar mai a res.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

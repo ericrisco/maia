@@ -79,8 +79,8 @@ gent i no té on posar-la.
   cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md) ja en dona la
   cronologia, l'impacte sobre els clients i la dimensió de sobirania; la
   investigació judicial continua oberta.
-- Els **acords fiscals** concrets amb la UE, Espanya i França, i l'**IRPF
-  andorrà**: quan entra, amb quins tipus.
+- ~~Els **acords fiscals** concrets amb la UE, Espanya i França, i l'**IRPF
+  andorrà**: quan entra, amb quins tipus.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~La **globalització a Andorra** — hi ha article específic no llegit.~~ —
   **`parcial`**: [la globalització i el català](../../llengua/politica-linguistica/la-globalitzacio-i-el-catala.md)
   ja recull el debat andorrà i dues veus locals; encara falta una síntesi

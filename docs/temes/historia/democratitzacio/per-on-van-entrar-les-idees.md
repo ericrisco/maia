@@ -162,7 +162,7 @@ casa.**
 
 ## El que falta
 
-- **La Unió Andorrana**: qui, quan, què. **Prioritari.**
+- ~~**La Unió Andorrana**: qui, quan, què. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Nova Andorra**: qui l'editava, on, quants números.~~ — **`parcial` el
   21-09-2026**: Sorribes la situa a **Barcelona**, del **primer d'agost de
   1932 al desembre de 1933**, com a mensual de **17 números** patrocinada pel
@@ -182,8 +182,8 @@ casa.**
   entitat editora del *Réveil* el 1931; **les dates de fundació i les llistes de
   membres encara no consten**.
 - ~~**Capgrossos**: si el malnom dels consellers ve de la figura de festa major.~~ — **`parcial` el 21-09-2026**: el corpus ja confirma que *capgrossos* era el **malnom dels consellers generals** ([el sufragi universal masculí](../../politica/sistema-electoral/el-sufragi-universal-masculi.md)); **cap font consultada no n'explica l'origen ni el vincle amb els capgrossos de festa major**.
-- **Quants andorrans vivien a Barcelona** els anys vint i trenta.
-- **El text de la decisió del 1933** amb el llindar dels 25 anys.
+- ~~**Quants andorrans vivien a Barcelona** els anys vint i trenta.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El text de la decisió del 1933** amb el llindar dels 25 anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

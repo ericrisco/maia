@@ -372,7 +372,7 @@ matèries i el lloc de signatura.**
     **23 de març de 1775** la font dona **24 vocals** i **6 rectors o vicaris
     perpetus** de les sis parròquies; no hi ha una sèrie anterior ni posterior
     per comparar el nombre.
-11. **La versió episcopal** de la sobirania *pro indiviso*. **No hi és.**
+11. ~~**La versió episcopal** de la sobirania *pro indiviso*. **No hi és.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

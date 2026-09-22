@@ -127,7 +127,7 @@ relació real entre les dues coses.
 
   **Joan Vehils va ser enginyer de FHASA** i **l'autor de les fotografies de
   les obres que il·lustren l'article de Lluelles** —«Canonada d'Engolasters,
-  1933. Autor: Joan Vehils. ANA»—, **conservades a l'Arxiu Nacional
+  1933. ~~Autor: Joan Vehils. ANA»—, **conservades a l'Arxiu Nacional
   d'Andorra**. **La seva obra és**:
 
   > **VEHILS, J. (1983). *Forces Hidroelèctriques d'Andorra SA. FHASA
@@ -141,10 +141,10 @@ relació real entre les dues coses.
   1933"** —**exactament la xifra que aquesta fitxa cita.**
 
   `L'obra de 1983 en si mateixa no s'ha vist: el corpus la coneix per la
-  citació de Lluelles, no de primera mà.` `font_externa`
-- El llibre de **René Baulard** (**1934**), que és **font primària del cap de la
-  gendarmeria ocupant**.
-- La cobertura de **La Vanguardia del 24 de juny de 1933**, citada per l'autora.
+  citació de Lluelles, no de primera mà.` `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El llibre de **René Baulard** (**1934**), que és **font primària del cap de la
+  gendarmeria ocupant**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La cobertura de **La Vanguardia del 24 de juny de 1933**, citada per l'autora.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Els llibres d'actes del Consell General** del 1929 i el 1933 a l'
   [Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md), que
   l'autora cita amb foli i tot (**ANA, 26-27.03.1929, f. 266 i seg.**;

@@ -277,8 +277,8 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    50.000. **El corpus no té cap taula de canvi medieval.**~~ — **`font_externa`
    el 2026-09-22**: cal una taula numismàtica o econòmica medieval externa al
    corpus per convertir els sous.
-6. **La sentència sobre la Roca d'Afa**, que havia de ser **abans del Nadal
-   de 1278**, **sense apel·lació.** **Nova.**
+6. ~~**La sentència sobre la Roca d'Afa**, que havia de ser **abans del Nadal
+   de 1278**, **sense apel·lació.** **Nova.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Si la permuta de castells del § IX es va fer per Pasqua**, o **si es van
    pagar els 1.000 sous.**~~ — **`parcial` el 21-09-2026**: el § IX fixa la
    **Pasqua** com a termini i els **1.000 sous de Melgueil** com a pena si no es
@@ -288,8 +288,8 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    § IX**, i **què s'havia confiscat.**~~ — **`parcial` el 21-09-2026**: el text
    només confirma que hi havia un crim que afectava tots dos i que la permuta
    aixecava una confiscació; no identifica el delicte ni els béns confiscats.
-9. **Què és «la constitution du divin Adrien»** a què renuncia el rei d'Aragó.
-   **Nou.**
+9. ~~**Què és «la constitution du divin Adrien»** a què renuncia el rei d'Aragó.
+   **Nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si el Pariatge de 1288 té una estructura semblant.** **El corpus segueix
     sense el seu text.**~~ — **`parcial` el 19-09-2026**: el text de 1288 ja hi
     és en **traducció francesa** a [El Pareatge](./el-pareatge.md), Vilar (1904),

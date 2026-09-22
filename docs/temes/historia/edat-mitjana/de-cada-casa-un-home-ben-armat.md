@@ -476,9 +476,9 @@ admeten i no ho neguen; es comprometen a acatar la sentència.**
    són veïns de frontera amb pau o jurament i que el bisbe ha de fer-los justícia
    **«segons els usatges que tenim amb ells»**; queda identificada la funció del
    dret fronterer, però no la llista ni el text dels usatges.
-9. **Quines esglésies deia el bisbe que els andorrans posseïen injustament**, i
+9. ~~**Quines esglésies deia el bisbe que els andorrans posseïen injustament**, i
    **com va acabar.** **El document ajorna la qüestió i el corpus no en té la
-   continuació.**
+   continuació.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Qui era Arnau de Perexens**, i **per què l'episcopologi que el corpus té
     s'atura el 1122** ([els bisbes d'Urgell](./els-bisbes-durgell.md)).~~ —
     **`parcial` el 2026-09-20**: [el Pareatge](../pareatge/el-pareatge.md)

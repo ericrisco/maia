@@ -63,11 +63,11 @@ sol cas.**
 
 Aquest article és, ara mateix, un esquelet. Falta gairebé tot:
 
-- La posició oficial d'Andorra durant la guerra civil espanyola i la seva
-  relació amb els dos coprínceps en aquell moment.
-- Dades sobre el pas de refugiats: quants, per on, en quins anys.
-- La relació amb la França de Vichy i amb la França Lliure.
-- El paper del Consell General.
+- ~~La posició oficial d'Andorra durant la guerra civil espanyola i la seva
+  relació amb els dos coprínceps en aquell moment.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Dades sobre el pas de refugiats: quants, per on, en quins anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La relació amb la França de Vichy i amb la França Lliure.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El paper del Consell General.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Buit registrat, i dels grans.** Hi ha bibliografia específica sobre Andorra
 durant la Segona Guerra Mundial que no s'ha pogut consultar encara. El que hi ha

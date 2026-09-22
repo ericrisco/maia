@@ -187,9 +187,9 @@ comptabilitat**.
    reglament que limitava les plantes de tabac per família; per a 1896 conserva
    la pena de **800 pessetes** per al primer contraban. Els textos íntegres i la
    seva signatura d'arxiu no consten al corpus.
-3. **Qui era M. Sicard**, jutge d'apel·lacions, i on és la seva sentència.
-4. **La fàbrica andorrana de llumins**: qui la tenia i des de quan.
-5. **Quant pesava el contraban en el PIB**, si es pot estimar.
+3. ~~**Qui era M. Sicard**, jutge d'apel·lacions, i on és la seva sentència.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**La fàbrica andorrana de llumins**: qui la tenia i des de quan.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Quant pesava el contraban en el PIB**, si es pot estimar.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Quan s'acaba.** Aquestes fonts arriben als anys quaranta i el corpus no té
    el final.~~ — **`incorrecte` en la premissa.** **No s'acaba.** **El dossier de
    premsa que [Joan Becat](../../../fonts/becat-tesi-1993.md) annexa a la seva

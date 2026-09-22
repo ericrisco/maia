@@ -284,15 +284,15 @@ excepció que el resum no duia:**
    les regalies a la sagristia de la catedral d'Urgell** *(ANA ASC 2.161 i
    2.162)*. **El segon síndic no és honorífic: és qui fa els pagaments a la
    mitra.**
-2. **La butlla de Pau V de 1607** sobre l'excomunió per deutes civils. **Citada i
+2. ~~**La butlla de Pau V de 1607** sobre l'excomunió per deutes civils. **Citada i
    no vista.** **Prioritari**: **és una limitació pontifícia d'una pena canònica
-   per raó de matèria civil, i el corpus no en té cap altra.**
+   per raó de matèria civil, i el corpus no en té cap altra.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'acord de Pau V sobre el notari de les Valls.**~~ — **`parcial` el
    18-09-2026**: **el corpus en té l'origen —una petició dels cònsols i
    consellers de les Valls— i la regla que en va resultar**, però **no el text
    sencer de la butlla**; la regla ja era documentada des del febrer de 1607.
-4. **L'autorització pontifícia de confiscar grans al clergat** de les Valls. **Ni
-   data ni text.**
+4. ~~**L'autorització pontifícia de confiscar grans al clergat** de les Valls. **Ni
+   data ni text.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**L'autorització al Consell General de recollir les escriptures dels rectors
    notaris.**~~ — **`parcial` el 2026-09-19**: la carta al Papa enumera
    expressament que la Santa Seu **autoritzava el Consell General a recollir les
@@ -310,11 +310,11 @@ excepció que el resum no duia:**
    catàleg BnF dona **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
    Doat 162, f. 50r-51v), en acord amb Vilar i en contradicció amb el 1288 del
    Consell General. **Falta llegir el manuscrit i explicar la data divergent.**
-8. **Si la Santa Seu va respondre.** **El volum no porta resposta**, i **el
-   corpus no sap si n'hi va haver.** **Prioritari.**
-9. **Si el títol es va arribar a modificar**, i quan. **El corpus sap que avui el
-   títol és el de copríncep, i no sap si ve d'aquesta petició.**
-10. **La versió episcopal i la romana.**
+8. ~~**Si la Santa Seu va respondre.** **El volum no porta resposta**, i **el
+   corpus no sap si n'hi va haver.** **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Si el títol es va arribar a modificar**, i quan. **El corpus sap que avui el
+   títol és el de copríncep, i no sap si ve d'aquesta petició.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**La versió episcopal i la romana.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

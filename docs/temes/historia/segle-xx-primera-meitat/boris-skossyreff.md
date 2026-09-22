@@ -239,7 +239,7 @@ se'l mira amb simpatia i no amb vergonya.
    va dir. **La font primària decisiva.**~~ — **`font_externa` el 2026-09-22**:
    les fonts secundàries divergeixen en la data i el recompte; cal consultar
    l'acta original del Consell General per resoldre-ho.
-2. Els **dos mesos entre el rebuig de maig i el vot de juliol**.
+2. ~~Els **dos mesos entre el rebuig de maig i el vot de juliol**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Qui va ser l'únic vot en contra.**~~ — **`parcial` el 20-09-2026**:
    [La Constitució de 1934](./la-constitucio-de-1934.md) fixa la votació el **10
    de juliol de 1934** i dona **23 vots a favor i un en contra**. Una entrevista
@@ -248,8 +248,8 @@ se'l mira amb simpatia i no amb vergonya.
    complet. La fitxa conserva la divergència d'altres fonts, que donen **24 a
    1** o dates diferents; l'acta primària continua sent necessària per tancar
    la identitat.
-4. La tesi de la connexió nazi, verificada.
-5. La cronologia 1944–1946, que no quadra.
+4. ~~La tesi de la connexió nazi, verificada.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~La cronologia 1944–1946, que no quadra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~El **documental de Jorge Cebrián** i els **~6.000 registres d'arxiu**.~~ —
    **`font_externa` el 2026-09-22**: cal obtenir el documental i el conjunt de
    registres per comprovar la biografia documental de Skossyreff.

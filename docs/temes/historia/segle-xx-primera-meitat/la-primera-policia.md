@@ -114,8 +114,8 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
 
 ## El que falta
 
-- **El text de l'article 17** del contracte de concessió del 1929.
-- **Els noms dels sis agents** i què cobraven.
+- ~~**El text de l'article 17** del contracte de concessió del 1929.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Els noms dels sis agents** i què cobraven.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quant va durar el Servei d'Ordre** i què en va sortir.~~ — **`parcial` el
   2026-09-20**: l'exposició de motius de la **Llei 8/2004, del 27 de maig,
   qualificada del Cos de Policia** diu que la policia andorrana fou creada el
@@ -131,8 +131,8 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
   laborals i tensions polítiques internes**. **No hi ha cap font que descrigui
   l'actuació concreta del Servei d'Ordre aquell agost ni per què no va assumir
   l'operació.**
-- **El text de la decisió del Consell General** sobre el registre d'estrangers, i
-  si se'n conserva cap registre parroquial.
+- ~~**El text de la decisió del Consell General** sobre el registre d'estrangers, i
+  si se'n conserva cap registre parroquial.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si el 1931 hi va haver gendarmes francesos**, com diu Camiade.~~ —
   **`parcial` el 2026-09-21**: la fitxa conserva la discrepància —Camiade ho
   situa el 1931, mentre que les entrades amb cronologia documentada només tenen

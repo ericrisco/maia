@@ -233,8 +233,8 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
    Guillem de Plandolit i Areny, baró de Senaller**, i **el bisbe Caixal i
    Estrada** com a via. **Segueix obert si «president del Consell» i «síndic» són
    el mateix càrrec al text de 1894**, i **si l'acusació és certa.**
-2. **El nom de la companyia i la data i el text de la concessió.** **Segueix
-   obert per totes dues fonts.** **Prioritari.**
+2. ~~**El nom de la companyia i la data i el text de la concessió.** **Segueix
+   obert per totes dues fonts.** **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'acord dels coprínceps del 25 de febrer de 1881 sencer.**~~ **`parcial`**:
    el corpus en té ara **dues clàusules** —concessions i jocs— **per dues fonts
    diferents**, i **no el text.** **Prioritari.**
@@ -244,10 +244,10 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
    allarga la revolució fins al **juny**. La fitxa ja conserva les dues lectures,
    però **no es pot decidir si daten el final dels aldarulls o el del procés
    polític**.
-5. **L'afer d'estafa instruït pel *parquet* del Sena.** **Sense data ni nom.**
-6. **Quantes concessions de mines, aigües, ferrocarrils i tramvies elèctrics va
+5. ~~**L'afer d'estafa instruït pel *parquet* del Sena.** **Sense data ni nom.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Quantes concessions de mines, aigües, ferrocarrils i tramvies elèctrics va
    atorgar el Consell General**, **i a qui.** **Tercera tanda que el corpus ho
-   reclama.**
+   reclama.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Si Plandolit va tornar de l'exili**, **i on va anar.**~~ — **`resolt` el
    18-09-2026: no va tornar. Va morir a Tolosa de Llenguadoc el 23 de febrer del
    1876**, als **54 anys**. **Havia nascut a la Seu d'Urgell el 19 de febrer del
@@ -271,9 +271,9 @@ any** ([dos pianos i una carretera](../../territori/paisatge-construit/dos-piano
    segona cita com a biografia de referència **Esteve Albert i Corp**, *Don
    Guillem d'Areny i de Plandolit, baró de Senaller i de Gramenet* (Editorial
    Andorra, 1987), **que el corpus no té.**)* `font_externa`
-8. **Les contribucions especials creades per pagar la carretera**: **quines eren,
+8. ~~**Les contribucions especials creades per pagar la carretera**: **quines eren,
    qui les pagava i quant van recaptar.** **Nou i prioritari**: **és un impost
-   andorrà del segle XIX amb finalitat declarada.**
+   andorrà del segle XIX amb finalitat declarada.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Si els sis quilòmetres francesos es van adjudicar**, i quan.~~ —
    **`parcial`, actualitzat el 2026-09-19**: la font dona l'adjudicació per
    **imminent el juny de 1904**, però aquesta expectativa no confirma que el

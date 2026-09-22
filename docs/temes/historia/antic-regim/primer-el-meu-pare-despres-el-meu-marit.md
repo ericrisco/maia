@@ -160,9 +160,9 @@ papers](./la-casa-als-papers.md).
 
 ## Buits registrats
 
-1. **El testament del 5 d'octubre de 1519**, sencer, i **si la fórmula «*dominum
+1. ~~**El testament del 5 d'octubre de 1519**, sencer, i **si la fórmula «*dominum
    majorem*» era corrent**. **La font en cita l'ítem i el dona per típic amb una
-   sola peça.**
+   sola peça.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**L'acta d'adopció del 13 d'agost de 1788**, sencera, **i si la donació
    universal es va arribar a fer efectiva.** **La font en dona l'àpoca, no el
    desenllaç.**~~ — **`font_externa` el 2026-09-22**: la fitxa només conserva
@@ -189,10 +189,10 @@ papers](./la-casa-als-papers.md).
 5. ~~**Quants processos entre sogres i nores hi va haver**~~ — **`parcial` el
    19-09-2026**: la font els qualifica de **«força freqüents»**, però no en
    dona cap xifra ni cap cas datat.
-6. **Fins quan va estar vigent la llicència del Consell per fer-se poblador.**
+6. ~~**Fins quan va estar vigent la llicència del Consell per fer-se poblador.**
    Brutails escriu, a la p. 44, que **«potser el dret s'ha suavitzat en aquest
-   punt»** — **una altra hipòtesi seva, i aquesta el corpus no la pot contestar.**
-7. **Quants *concos* hi havia per casa** — **obert**.
+   punt»** — **una altra hipòtesi seva, i aquesta el corpus no la pot contestar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Quants *concos* hi havia per casa** — **obert**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Quin estatut patrimonial tenien**~~ — **`parcial` des del 2026-09-18**:
    **no eren propietaris, però el fill no hereu «no està legalment obligat» a
    quedar-se** i, **si el cap de casa el vol retenir, en debaten les condicions**.

@@ -69,12 +69,12 @@ Aquesta fitxa existeix exactament per això.
 
 ## El que falta
 
-- Qui va fabricar la Carta de poblament, quan i **per a què**. Aquesta és la
-  pregunta bona i no està resposta.
+- ~~Qui va fabricar la Carta de poblament, quan i **per a què**. Aquesta és la
+  pregunta bona i no està resposta.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~La datació i la crítica textual de l'acta de consagració.~~ — **`parcial` el 21-09-2026**: la fitxa ja conserva la data que el document atribueix a l'acta (**819**) i la datació de la redacció entre **1016 i 1024**; encara falta la crítica textual i diplomàtica completa ([font](../../../fonts/viquipedia-ca.md)).
-- Quan neix el relat de Carlemany com a mite nacional i **qui el promou** —
+- ~~Quan neix el relat de Carlemany com a mite nacional i **qui el promou** —
   perquè un mite adoptat el 1921 com a himne té una història política moderna,
-  no només medieval.
+  no només medieval.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Els **andosins**.~~ — **`resolt`:** [el nom d'Andorra](./el-nom-dandorra.md)
   mostra que la seva menció és un hàpax i que la identificació amb Andorra no se
   sosté. **Els dos pilars del relat d'origen han caigut tots dos.**

@@ -218,22 +218,22 @@ cabaler](./lhereu-i-el-cabaler.md).
 
 ## Buits registrats
 
-1. **Quin despatx notarial i quins tres anys** donen la proporció de **40-42
+1. ~~**Quin despatx notarial i quins tres anys** donen la proporció de **40-42
    contractes per testament**. **La font diu «presos a l'atzar» i no els
-   identifica.**
-2. **Si la proporció es manté** en altres despatxos i altres períodes. **Amb una
-   sola mostra no es pot generalitzar**, i **la font no ho pretén.**
-3. **Qui era hereu al contracte del 24 de febrer de 1551**, per confirmar si és un
-   cas de *pubill*.
+   identifica.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Si la proporció es manté** en altres despatxos i altres períodes. **Amb una
+   sola mostra no es pot generalitzar**, i **la font no ho pretén.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Qui era hereu al contracte del 24 de febrer de 1551**, per confirmar si és un
+   cas de *pubill*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Què era el *spoli***, i **si era el mateix que el *sposalici*** documentat el
-   1551. **La font fa servir els dos mots i no els relaciona.**~~ — **`resolt` el
+   1551. ~~**La font fa servir els dos mots i no els relaciona.**~~ — **`resolt` el
    18-09-2026 amb la lectura de les pp. 121 i 129**: el *spoli* és **l'augment
    que el marit afegeix al dot** i la traducció de *sponsalicium*; el *sposalici*
    del 1551 és **el regal de prometatge pactat al contracte** (30 sous d'ell a
    ella i 15 d'ella a ell). **El corpus els distingeix per funció**, encara que
-   comparteixin l'arrel llatina; la font no els tracta com a sinònims.
-5. **Els quatre actes de desembre de 1443**, sencers. **El corpus en té el
-   resum de l'autor, no el text.**
+   comparteixin l'arrel llatina; la font no els tracta com a sinònims.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Els quatre actes de desembre de 1443**, sencers. **El corpus en té el
+   resum de l'autor, no el text.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si la fórmula «*jam proles fuit procreata*» era corrent** o excepcional.~~
    **`parcial`**: la font en dona **dos casos** i diu **«sovint al segle XV»**,
    prou per descartar que sigui un cas únic, però sense una sèrie que permeti

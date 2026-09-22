@@ -334,8 +334,8 @@ més citades.**
    esdevenia andorrà. El corpus pot confrontar la regla escrita amb aquesta
    pràctica de nacionalitat, però no té un cas que provi si l'exclusió del
    Consell es va aplicar ni la data en què va deixar de fer-se.
-8. **D'on surt el lema «Tot pel poble, però sense el poble»**, i **si té font
-   andorrana.** **Nou.**
+8. ~~**D'on surt el lema «Tot pel poble, però sense el poble»**, i **si té font
+   andorrana.** **Nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**El decret de Guinda del 3 de febrer de 1715**, que aquest tram reprodueix
    sencer en castellà i que **el corpus ja té per la font andorrana.**~~
    **`resolt`**: el text és cobert per la font andorrana i aquesta fitxa en deixa

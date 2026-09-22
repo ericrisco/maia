@@ -211,8 +211,8 @@ espanyola](../../institucions/relacions-exteriors/els-dos-papers-de-la-reivindic
    signada l'**18 d'octubre de 1894**—, però **allà no es parla de duanes**: es
    parla de sobirania. Qui va demanar la gestió a Madrid i qui la va negociar,
    segueix sense saber-se.
-5. **El plet.** El ministre de Foment esmenta que «la qüestió pèn ja davant els
-   tribunals de justícia». Quin plet, i com va acabar.
+5. ~~**El plet.** El ministre de Foment esmenta que «la qüestió pèn ja davant els
+   tribunals de justícia». Quin plet, i com va acabar.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

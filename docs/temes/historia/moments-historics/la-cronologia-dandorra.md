@@ -172,18 +172,18 @@ Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419, i
 
 ## Buits registrats
 
-1. **Els segles XI-XII i XVI-XVII** hi són fluixos. **Les fonts del corpus se
-   salten l'edat moderna quasi sencera.**
+1. ~~**Els segles XI-XII i XVI-XVII** hi són fluixos. **Les fonts del corpus se
+   salten l'edat moderna quasi sencera.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**De 1993 ençà.** La taula s'atura on s'aturen les fonts.~~ — **`parcial`
    el 20-09-2026**: [*De 1993 ençà*](../historia-recent/de-1993-enca.md) ja
    cobreix la Constitució, l'entrada a l'ONU i al Consell d'Europa, la
    transformació fiscal i bancària dels primers 2000 i l'acord d'associació amb
    la UE en procés de signatura el **2026**. El corpus encara no hi té una
    cronologia anual completa de tot el període.
-3. **Els fets econòmics i socials** hi són poc: la taula és **institucional**
-   perquè les fonts ho són.
-4. **Cap data de la vida de la gent** — collites, epidèmies, fams — **tret de la
-   fam, la pesta i la guerra del segle XVII**, que el corpus té sense any.
+3. ~~**Els fets econòmics i socials** hi són poc: la taula és **institucional**
+   perquè les fonts ho són.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Cap data de la vida de la gent** — collites, epidèmies, fams — **tret de la
+   fam, la pesta i la guerra del segle XVII**, que el corpus té sense any.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

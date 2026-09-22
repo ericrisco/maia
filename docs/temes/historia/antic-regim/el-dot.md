@@ -190,7 +190,7 @@ contrastat amb **la secció «La dot» de *La Coutume d'Andorre* de J.-A. Brutai
    **alienar terra carregada de dot demanava decret del batlle**. **El que
    segueix obert és si es va executar mai**: allà el dot **no es cobra, es
    reallotja**. Vegeu [el dot va canviar de terra](./el-dot-va-canviar-de-terra.md).
-5. Els **pro-parents** — el mot i la figura.
+5. ~~Els **pro-parents** — el mot i la figura.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~La relació entre el dot andorrà i el **dot català i balear**: l'autor els
    equipara i el corpus **no ho ha verificat**.~~ — **`parcial` el 2026-09-19**:
    [Segons lo poder de la casa](./segons-lo-poder-de-la-casa-a-coneixenca-dels-amics.md)

@@ -107,11 +107,11 @@ anys.**
    volum no conserva ni l'article original ni la llista dels vuit moments
    ([font bibliogràfica](../../../fonts/bascompte-consell-de-la-terra.md);
    [text local](../../../raw/sac-diades/31a-2018-el-parlamentarisme-andorra.txt)).
-2. **El programa oficial de commemoracions del 600 aniversari** del Consell de
-   la Terra (2019).
-3. **Què es va publicar en cadascuna** de les vuit efemèrides. Cada aniversari
-   sol deixar un llibre.
-4. **Si hi ha hagut més commemoracions des del 2020.**
+2. ~~**El programa oficial de commemoracions del 600 aniversari** del Consell de
+   la Terra (2019).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Què es va publicar en cadascuna** de les vuit efemèrides. Cada aniversari
+   sol deixar un llibre.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Si hi ha hagut més commemoracions des del 2020.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -400,7 +400,7 @@ l'ONU són públiques.**
   **28 d'octubre del 1977, 16 de gener del 1978 i 28 de maig del 1982**, tots
   tres no vinculants i **cap sense majoria.** **El 1978 l'opció més votada va ser
   «cap de les anteriors», amb el 35,6%.**
-- **La sentència del Constitucional francès** que va desbloquejar la reforma.
+- ~~**La sentència del Constitucional francès** que va desbloquejar la reforma.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

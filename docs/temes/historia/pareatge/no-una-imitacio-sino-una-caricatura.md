@@ -478,8 +478,8 @@ l'òrgan.**
    **Procedència**: **Archives des Basses-Pyrénées, E 459**, amb els passatges
    entre claudàtors **reconstituïts d'una còpia de 1666** de la col·lecció Doat,
    t. 178, fol. 1-5.
-3. **La carta de delimitació del bisbat d'Urgell** que s'ha llegit com a cessió
-   d'Andorra. `obert.`
+3. ~~**La carta de delimitació del bisbat d'Urgell** que s'ha llegit com a cessió
+   d'Andorra. `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Les peces «de les quals s'ha tret penosament una teoria favorable a la
    supremacia dels prelats»**: **Brutails no les enumera.** **Sense la llista no
    es pot comprovar la seva crítica.**~~ — **`no-es-buit` el 20-09-2026**: la
@@ -489,8 +489,8 @@ l'òrgan.**
    nationale, fons Dupuy, LII, 18-23 i CLIII, 65-69.**~~ — **`font_externa` el
    2026-09-22**: la signatura és concreta, però cal consultar el fons Dupuy de
    la Bibliothèque nationale de France per llegir la concessió.
-6. **Quines són les paraules del «joc de paraules» de la neutralitat.** **La font
-   afirma que n'hi ha un i no el descriu.** `obert, prioritari.`
+6. ~~**Quines són les paraules del «joc de paraules» de la neutralitat.** **La font
+   afirma que n'hi ha un i no el descriu.** `obert, prioritari.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Els quatre articles erudits de Brutails** —*Revue des Pyrénées* 1891 i 1892,
    *Revue des Universités du Midi* 1897 i 1898— **que contenen, segons ell,
    l'exposició completa i documentada del que aquí només esbossa.** `obert, amb
@@ -515,11 +515,11 @@ l'òrgan.**
     confirma les dues dates i en resumeix el contingut —felicitació per compartir
     la sobirania amb Napoleó i pressió a Lluís XVIII perquè la fes valer, fins i
     tot per la força—. **Els textos originals encara no són al corpus.**
-11. **El text de la Reforma de 1866 i l'acte d'aprovació francès del 10 d'abril
-    de 1868.** `obert; el segon és nou.`
-12. **Com van obtenir els andorrans les dispenses dels drets de trànsit**, i què
+11. ~~**El text de la Reforma de 1866 i l'acte d'aprovació francès del 10 d'abril
+    de 1868.** `obert; el segon és nou.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+12. ~~**Com van obtenir els andorrans les dispenses dels drets de trànsit**, i què
     en van fer. **Pregunta plantejada per la font mateixa com a tema d'estudi.**
-    `obert.`
+    `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 13. ~~**La datació del matrimoni que porta Andorra a Foix**: **segle XI a
     l'exemplar digitalitzat de Brutails, 1208 a Palau i Martí.**~~ — **`parcial`
     el 20-09-2026**: Brutails mostra **«al començament del segle XI»**, mentre

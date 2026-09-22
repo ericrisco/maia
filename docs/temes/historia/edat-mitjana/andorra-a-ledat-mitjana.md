@@ -60,11 +60,11 @@ cita.
 
 **Gairebé tot, i és una de les branques més pobres del corpus.**
 
-- Els **Caboet**, els **Castellbò** i els **comtes de Foix**: la línia que porta
-  el copríncep laic fins a França. **Cada casa mereix fitxa.**
-- La vida real a les valls: cases, quarts, pastures, camins, comerç.
-- L'església romànica andorrana, que és el patrimoni més important del país
-  d'aquest període i té **branca pròpia buida**.
+- ~~Els **Caboet**, els **Castellbò** i els **comtes de Foix**: la línia que porta
+  el copríncep laic fins a França. **Cada casa mereix fitxa.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La vida real a les valls: cases, quarts, pastures, camins, comerç.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'església romànica andorrana, que és el patrimoni més important del país
+  d'aquest període i té **branca pròpia buida**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Els **Costums** i el dret consuetudinari abans del Manual Digest.~~ —
   **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda al
   panorama de [l’antic règim](../antic-regim/lantic-regim.md).

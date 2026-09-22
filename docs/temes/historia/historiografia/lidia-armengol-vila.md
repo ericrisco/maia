@@ -66,13 +66,13 @@ buides del corpus.
   publicada dins la col·lecció *Debat-2* el **1991**, pp. **21-24**, i el
   treball premiat de 1987 sobre els llegats eclesiàstics. La bibliografia
   completa i els llibres que se li puguin atribuir encara no estan reunits.
-- La seva feina com a **funcionària**: què va fer des de dins de l'administració
-  per la llengua.
-- El seu paper en la creació de l'**Escola Andorrana** (1982) i de les
-  institucions culturals, si n'hi va tenir.
+- ~~La seva feina com a **funcionària**: què va fer des de dins de l'administració
+  per la llengua.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El seu paper en la creació de l'**Escola Andorrana** (1982) i de les
+  institucions culturals, si n'hi va tenir.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què va morir tan jove.**~~ — **`parcial` el 21-09-2026**: el número 25 d’[Ex Libris del Govern](../../../raw/web/historia/historiografia/armengol/README.md) documenta que va viure i tractar-se durant **un any d’una malaltia digestiva**, que fou operada d’urgència a Barcelona el **13 d’agost de 1991** i que morí a la Clínica Verge de Meritxell el **26 de novembre de 1991**. La font no especifica el diagnòstic mèdic.
 - ~~Si hi ha **fons personal** a l'Arxiu Nacional.~~ — **`parcial` el 21-09-2026**: la fitxa documenta la trajectòria pública de Lídia Armengol, però **no ha localitzat un inventari de fons personal a l'Arxiu Nacional**.
-- El text complet de la semblança del Govern.
+- ~~El text complet de la semblança del Govern.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Una nota sobre qui escriu Andorra
 

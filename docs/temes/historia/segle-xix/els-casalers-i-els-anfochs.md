@@ -161,12 +161,12 @@ cases es van perdre i quines.
   copríncep del 1853 al 1879, carlí exiliat i empresonat, mort a Roma el 1879**,
   i **el 1873 va fugir cap a Andorra disfressat de passejant** fugint de la
   Primera República ([font](../../../fonts/josep-caixal-biografia.md)).
-- **La indústria de la llana** a Andorra.
-- **L'obra de Lídia Armengol** sobre la desaparició de cases — **citada, no
-  consultada**.
-- **La interferència francoespanyola** que la font esmenta de passada: «entre el
+- ~~**La indústria de la llana** a Andorra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**L'obra de Lídia Armengol** sobre la desaparició de cases — **citada, no
+  consultada**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La interferència francoespanyola** que la font esmenta de passada: «entre el
   poder francès i el poder espanyol que volia intentar imposar i afirmar la seva
-  supremacia».
+  supremacia».~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

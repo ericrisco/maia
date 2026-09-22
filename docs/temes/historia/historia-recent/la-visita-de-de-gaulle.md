@@ -130,7 +130,7 @@ pròpia cobertura sanitària.**
   el **1945** i una altra el **1967**, amb el mateix motiu i protagonista; la
   fitxa registra la contradicció sense arbitrar si són dos fets o un error de
   datació.
-- **El reportatge del Diari d'Andorra** que la font cita.
+- ~~**El reportatge del Diari d'Andorra** que la font cita.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La CASS**: el corpus no en té fitxa pròpia.~~ — **`resolt` el
   18-09-2026**: **sí que en té**, i extensa:
   [la CASS i la sanitat](../../societat/sanitat/la-cass-i-la-sanitat.md)

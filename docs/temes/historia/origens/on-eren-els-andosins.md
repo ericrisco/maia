@@ -137,11 +137,11 @@ els ilergets, els bargusis i els airenosis.**
   **`parcial` el 20-09-2026**: la mateixa font identifica l'obra i el §2.3 i
   resumeix el paral·lel dels airenosis com una identificació per homofonia; el
   capítol sencer encara no s'ha llegit.
-- **Oriol Olesti i Oriol Mercadal**, *«L'explotació dels territoris pirinencs
+- ~~**Oriol Olesti i Oriol Mercadal**, *«L'explotació dels territoris pirinencs
   orientals en època antiga (s. VI-I ane)»*, **Treballs d'Arqueologia 21 (UAB,
-  2017)**.
-- **Antonio Tovar**, *Iberische Landeskunde*, II.3 (Baden-Baden, 1989), p. 45.
-- **Les tres Valldans**: **quina documentació en té cadascuna, i des de quan.**
+  2017)**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Antonio Tovar**, *Iberische Landeskunde*, II.3 (Baden-Baden, 1989), p. 45.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Les tres Valldans**: **quina documentació en té cadascuna, i des de quan.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

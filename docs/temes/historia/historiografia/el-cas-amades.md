@@ -318,7 +318,7 @@ Tres conseqüències pràctiques:
   i **dos casos marcats com a no confirmats per cap andorrà**
   ([les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md));
   la contrastació individual de les 63 citacions encara no s'ha fet.
-- ***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).
+- ~~***Un andorrà lluny del poble***, de Ricard Fiter (1967, 2a ed. 1985).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Els sis jocs tradicionals** que Amades recull amb gràfics. El corpus no té
   cap fitxa de jocs.~~ — **`parcial` el 18-09-2026, era un bessó**: detallat a
   [les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md),

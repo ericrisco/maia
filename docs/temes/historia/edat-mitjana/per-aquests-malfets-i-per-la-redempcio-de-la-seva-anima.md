@@ -278,7 +278,7 @@ Al mig de la clàusula de l'emprament, **l'editor hi posa una nota al peu**:
    [En la ubaga tot hom hi pot anar](../../territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md)
    el registra com l'antecedent llatí de l'*empriu*. **El corpus no té, però,
    cap testimoni d'exercici efectiu ni cap data final d'aquest dret.**
-6. **Què hi deia a l'espai en blanc de tres lletres.**
+6. ~~**Què hi deia a l'espai en blanc de tres lletres.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Els altres documents de la sèrie**: **843, 860, 1001, 1170, 1186, 1213,
    1266, 1280, 1303 i 1328.** **El 1133 surt de la llista; els altres deu hi
    queden.** **I dos són a dos apèndixs d'aquest mateix volum**: **el del 8 de

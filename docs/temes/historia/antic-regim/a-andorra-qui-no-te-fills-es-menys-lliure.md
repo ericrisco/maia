@@ -173,12 +173,12 @@ a Andorra, la manera més ràpida de perdre una protecció.**
 4. ~~**Fins a quants graus s'encadenaven de fet les substitucions**, si no hi havia
    límit legal.~~ — **`parcial` el 18-09-2026**: **el corpus documenta cadenes
    de tres i quatre graons**, però **no en té cap de més llarga ni el límit legal**.
-5. **Com va acabar el cas del 17 de juny de 1783**: **si la primera filla es va
+5. ~~**Com va acabar el cas del 17 de juny de 1783**: **si la primera filla es va
    tornar a casar**, i **si va tenir fills**. **La substitució es va fer sobre una
-   previsió.**
+   previsió.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si la constitució catalana de 1585** sobre el retorn dels béns materns **es va aplicar mai a Andorra**.~~ — **`parcial` el 21-09-2026**: la fitxa identifica la constitució i la regla de retorn dels béns materns, però el corpus no té cap cas andorrà que en provi l'aplicació.
-7. **Els cinc néts heretats de present el 14 de maig de 1422**: **com es va
-   executar aquella institució múltiple.**
+7. ~~**Els cinc néts heretats de present el 14 de maig de 1422**: **com es va
+   executar aquella institució múltiple.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

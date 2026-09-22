@@ -356,11 +356,11 @@ Tabacalera Andorrana, SA, el 1899.**
 
 ## El que falta
 
-- **Les publicacions, l'associació i el partit** que van fer els andorrans de
-  Barcelona. **Buit prioritari.**
+- ~~**Les publicacions, l'associació i el partit** que van fer els andorrans de
+  Barcelona. **Buit prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El llibret *La Qüestió d'Andorra*** del Consell General, i **els que van fer
   els profrancesos i els probisbe.**~~ — **`parcial` el 21-09-2026**: [la font de la Viquipèdia](../../../fonts/wikipedia-questio-dandorra.md) confirma que el Consell General va redactar el llibret amb aquest títol i que els dos corrents oposats en van fer publicacions pròpies per defensar la seva postura. El corpus encara no en té els títols ni els exemplars.
-- **La biblioteca de Guillem d'Areny-Plandolit.**
+- ~~**La biblioteca de Guillem d'Areny-Plandolit.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El decret del bisbe Boltàs** sobre el tabac.~~ — **`parcial` el
   17-09-2026: el decret com a tal segueix sense aparèixer, i les dues meitats de
   la frase que el resumeix ja estan datades i documentades**, des dels [llibres
@@ -393,7 +393,7 @@ Tabacalera Andorrana, SA, el 1899.**
 
   `Requereix el decret episcopal mateix; el que hi ha són els acords del Consell
   que l'apliquen.`
-- **La banca Duvivier de París.**
+- ~~**La banca Duvivier de París.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Joan Pla i Calvo** i **Pere Baró i Mas**, el síndic i el subsíndic
   revolucionaris. **Cap fitxa de cap.**~~ — **`parcial`, actualitzat el
   2026-09-19**: aquesta fitxa ja identifica **Joan Pla i Calvo** com a nou
@@ -401,8 +401,8 @@ Tabacalera Andorrana, SA, el 1899.**
   subsíndic i metge de Sant Julià; les biografies pròpies i la trajectòria
   posterior continuen pendents.
 - ~~**El Tractat del Pont dels Escalls**: el text.~~ — **`parcial` el 21-09-2026**: la fitxa en documenta la data i els efectes polítics, però **no incorpora el text íntegre del tractat**.
-- **Quants revolucionaris van ser condemnats, i a què.**
-- **La carta del bisbe Casañas del març del 1886**: font primària.
+- ~~**Quants revolucionaris van ser condemnats, i a què.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La carta del bisbe Casañas del març del 1886**: font primària.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

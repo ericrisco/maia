@@ -250,10 +250,10 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    1918 diu que conservava l'original del *Manual Digest* ([cap de casa, però
    de casa antiga](../../institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md)).
    **Palmitjavila i Moles segueixen oberts.**
-6. **La col·lació dels exemplars.** **Brutails avisa el 1904 que no es fiïn
+6. ~~**La col·lació dels exemplars.** **Brutails avisa el 1904 que no es fiïn
    de les còpies** (secció de dalt) i **ningú no les ha comparades**. **Aquest
    és el buit metodològicament més greu de la branca**: **tot el que el corpus
-   cita del Politar i del Manual Digest depèn de quin exemplar es llegeix.**
+   cita del Politar i del Manual Digest depèn de quin exemplar es llegeix.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**El Politar sencer.** Brutails en publica extractes (annex XXXIV) i el
    corpus encara no els ha llegit.~~ **Els extractes, llegits:**
    [El Politar andorrà](./el-politar.md). Queda obert **el Politar sencer**: el

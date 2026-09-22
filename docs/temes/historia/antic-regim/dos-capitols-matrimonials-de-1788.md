@@ -142,8 +142,8 @@ cases. **El corpus no ho fa**, per dues raons que hi consten:
    són **de dos casos del mateix any**.~~ — **`parcial` el 21-09-2026**: el mateix volum de Brutails cita, al capítol V i a les peces justificatives, contractes datats de **1796**, **1490**, **1470** i **1875**, a més dels dos actes íntegres de 1788 ([font i text conservat](../../../fonts/brutails-coutume-1904.md)). Aquests exemples amplien el conjunt de casos verificables, però no formen una sèrie sistemàtica i els noms dels atorgants continuen abreujats o sense identificar.
 2. ~~**Amb quina freqüència heretaven les dones.**~~ — **`parcial` el 21-09-2026**: el cas VIII documenta el mecanisme d'institució d'hereva i la fitxa el connecta amb la regla successòria de [l'hereu i el cabaler](./lhereu-i-el-cabaler.md), però no hi ha una sèrie per mesurar-ne la freqüència.
 3. ~~**Què valia una lliura barcelonesa** a l'Andorra de 1788.~~ — **`parcial` el 2026-09-21**: [les mesures i les monedes](../../economia/comerc/les-mesures-i-les-monedes.md) fixa la lliura catalana en **8/3 pessetes** (**2,6667**). Això situa les quantitats dels dos actes en **170 lliures = 453,33 pessetes** i **10 lliures = 26,67 pessetes** segons la conversió nominal del corpus; encara falta una equivalència de poder adquisitiu específica de 1788.
-4. **Els noms sencers.** Brutails els va abreujar; **els originals han de ser a
-   l'escrivania**.
+4. ~~**Els noms sencers.** Brutails els va abreujar; **els originals han de ser a
+   l'escrivania**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Si la clàusula d'alimentar «treballant empero estos a utilitat y
    profit»** era de fórmula o es negociava.~~ — **`resolt` el 16-09-2026 a
    favor de la fórmula**, comptant-ne les apraricions al volum sencer.

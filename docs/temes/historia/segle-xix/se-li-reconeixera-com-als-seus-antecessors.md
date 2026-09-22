@@ -277,11 +277,11 @@ corpus tingués aquest text.**
    causa.**~~ — **`parcial` el 2026-09-21**: la font conserva que el decret va
    trigar **tres mesos** i que calgué un indult del copríncep francès per obrir
    les presons, però no identifica el bisbe ni la causa ([*La cuestión de Andorra* (1894)](../../../fonts/la-cuestion-de-andorra-1894.md)).
-9. **La versió episcopal de cadascun d'aquests fets.** **El corpus té l'al·legació
+9. ~~**La versió episcopal de cadascun d'aquests fets.** **El corpus té l'al·legació
    d'una part i no la de l'altra**, i **cap d'aquestes afirmacions no s'ha
-   verificat contra document extern.** **Registrades com el que són.**
-10. **Si el Consell General va rebre resposta** del bisbe o de la Santa Seu.
-    **L'imprès no en porta cap.**
+   verificat contra document extern.** **Registrades com el que són.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**Si el Consell General va rebre resposta** del bisbe o de la Santa Seu.
+    **L'imprès no en porta cap.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

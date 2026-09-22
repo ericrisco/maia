@@ -184,8 +184,8 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
    un testament d'aquesta mena **de feia pocs dies**, cap al 1900; això prova la
    continuïtat de la pràctica fins a l'entorn de 1900, però no documenta cap
    regulació formal ni la data en què va deixar de fer-se.
-2. **El testament de feia pocs dies** que l'autor va tenir a les mans: **sense
-   data, sense parròquia, sense notari.**
+2. ~~**El testament de feia pocs dies** que l'autor va tenir a les mans: **sense
+   data, sense parròquia, sense notari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Si l'acusació dels notaris contra els testaments dels rectors es pot
    verificar**, comparant testaments rebuts per uns i altres.~~ — **`font_externa`
    el 2026-09-22**: **la fitxa no té prou sèries de testaments rebuts per
@@ -207,8 +207,8 @@ supletori](../../institucions/justicia/el-dret-supletori.md).
    procediment fixa que **el dipositari l'obre a la mort del testador, davant de
    testimonis**, de manera que no hi ha obertura anticipada documentada; encara
    no consta què passava si el dipositari moria abans.
-7. **El cas del germà del notari** que va rebre un testament: **sense data ni
-   desenllaç**. **El corpus no sap si l'acte va ser tingut per vàlid.**
+7. ~~**El cas del germà del notari** que va rebre un testament: **sense data ni
+   desenllaç**. **El corpus no sap si l'acte va ser tingut per vàlid.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Què vol dir exactament «*heretament es causa y principi de fer testament*»**
    en la traducció catalana de la màxima de Gai, i **si la fórmula és corrent als
    testaments andorrans** o **pròpia d'aquell rector.**~~ — **`parcial` el 21-09-2026**: el cos de la fitxa explica que la fórmula declara la **institució d'hereu com a cap i fonament essencial del testament**, no una posició física dins del document, i en conserva un exemple català de **1675**; encara no permet saber si era una fórmula corrent o pròpia d'aquell rector.

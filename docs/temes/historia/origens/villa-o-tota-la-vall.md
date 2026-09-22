@@ -347,8 +347,8 @@ faisait l'Andorran*».**
    `Cercat el 18-09-2026 sense èxit: Internet Archive (no hi és, ni per títol ni
    per autor), Biblioteca Digital Hispánica (403), HathiTrust (403), Google
    Books (quota exhaurida). Queda com a petició d'arxiu o de biblioteca.`
-3. **Baudon de Mony**, *Les origines historiques de la question d'Andorre*.
-   **Nou, i és l'altra font episcopal.** **Prioritari.**
+3. ~~**Baudon de Mony**, *Les origines historiques de la question d'Andorre*.
+   **Nou, i és l'altra font episcopal.** **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Brutails, *Étude critique sur la question d'Andorre*, *Revue des Pyrénées*,
    1891.** **Segona forma d'una pista ja registrada**; **el corpus no decideix si
    és el mateix treball que l'edició de Privat.**~~ — **`parcial` el 2026-09-21**:
@@ -356,14 +356,14 @@ faisait l'Andorran*».**
    identifica la publicació a la *Revue des Pyrénées* i en conserva la pista de
    localització; el text no s'ha llegit i continua oberta la identitat respecte
    de l'edició de Privat.
-5. **L'article de Brutails a la *Revue des Universités du Midi*, 1897**, sobre la
-   cessió de 988. **Nou.**
-6. **La butlla de Benet VIII de 1013** i **la donació del comte als bisbes de
-   951-954.** **Noves totes dues.**
-7. **La renúncia de la comtessa Aurembiaix d'Urgell de 1230**, que la font diu
-   que **s'aplica a propietats *in Urgello* i no a Andorra.** **Nova.**
-8. **El testament de Guillem Guitard de Caboet de 1110** i **l'acte de
-   reconeixement de 1150.** **Nous.**
+5. ~~**L'article de Brutails a la *Revue des Universités du Midi*, 1897**, sobre la
+   cessió de 988. **Nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**La butlla de Benet VIII de 1013** i **la donació del comte als bisbes de
+   951-954.** **Noves totes dues.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**La renúncia de la comtessa Aurembiaix d'Urgell de 1230**, que la font diu
+   que **s'aplica a propietats *in Urgello* i no a Andorra.** **Nova.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**El testament de Guillem Guitard de Caboet de 1110** i **l'acte de
+   reconeixement de 1150.** **Nous.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**La llista dels altres béns cedits pel mateix acte del 843** al Rosselló,
    el Conflent i la Cerdanya.~~ — **`parcial`, confirmat el 19-09-2026**: la
    prosa de Vilar ja identifica aquests **tres àmbits territorials** com els

@@ -283,8 +283,8 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
 
 ## Buits registrats
 
-1. **L'any i els noms** que el Politar deixa en blanc. Els va deixar ell; el
-   corpus tampoc els té.
+1. ~~**L'any i els noms** que el Politar deixa en blanc. Els va deixar ell; el
+   corpus tampoc els té.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Qui era Bernat d'Areny** i quina relació té amb
    [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md).~~
    — **`parcial` el 21-09-2026**: el *Politar* només identifica **Bernat de
@@ -302,8 +302,8 @@ la practicava**, i amb el mateix criteri: **un blanc es veu; un any inventat, no
    ministres i oficials de justícia, i la continuació sobre penes, bandejament i
    galeres)—, però el corpus no té l'índex complet del *Politar* ni una font que
    expliqui quins capítols va excloure Brutails.
-4. **El llibre I del Politar**, el d'història i dominis, que el capítol II esmenta
-   i el corpus no té.
+4. ~~**El llibre I del Politar**, el d'història i dominis, que el capítol II esmenta
+   i el corpus no té.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**«Fer la cisena»** — el privilegi que la regula. El document de 1894 l'anomena
    «el llamado privilegio de **Sisena**, dado por el Sr. Obispo Urries y
    restaurado más tarde por el Obispo Capella», i el corpus **no en té el text**.

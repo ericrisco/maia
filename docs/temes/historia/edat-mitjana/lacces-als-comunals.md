@@ -249,8 +249,8 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
    **I ara «cinc sous de ban» es pot avaluar** — `deducció del corpus`,
    aritmètica amb els números a la vista i **cap font no la fa**:
 
-   - **En pessetes:** 5 × 0,133 = **0,67 pessetes per nit**.
-   - **Contra un bé del corpus:** [les mules](../../economia/ramaderia-i-agricultura/les-mules.md)
+   - ~~**En pessetes:** 5 × 0,133 = **0,67 pessetes per nit**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**Contra un bé del corpus:** [les mules](../../economia/ramaderia-i-agricultura/les-mules.md)
      dona **una ovella a 3 lliures 2 sous**, que són **62 sous**. **El ban d'una
      nit és una dotzena part d'ovella**, i **dotze o tretze nits de bestiar mal
      jagut costaven l'ovella sencera**.
@@ -267,7 +267,7 @@ ramats](../../territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els
    XVI-XVIII**. **El sou del segle XV no valia el mateix que el dels segles
    XVII-XVIII de l'ovella de referència: valia més, i força més.** [La
    quèstia](../antic-regim/la-questia.md) registra el mateix dubte amb les
-   mateixes paraules i es pot tancar igual.
+   mateixes paraules i es pot tancar igual.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~***Parra*** i ***stali***.~~ — **`parcial` el 21-09-2026**: la captura d'[Herència d'Andorra](../../../raw/academic/herencia-andorra.txt) conserva la nota 28 d'Alcover-Moll: **parra** és «cadascun dels caps de bestiar dolents, que es queden a la muntanya perquè no poden seguir el ramat». El mateix text documenta els ***stalis*** com a béns comunals recuperats el **1366**, però no en dona encara una definició lèxica.
 4. ~~**Sant Bernabé (7 de juny)** com a data de dret: hi ha més drets que hi
    pengin?~~ — **`parcial` el 2026-09-21**: a més de decidir qui es queda

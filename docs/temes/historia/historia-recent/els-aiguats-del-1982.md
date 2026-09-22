@@ -148,7 +148,7 @@ diluvi d'aigua...»*.**
 
 ## El que falta
 
-- **Els noms dels set morts i els dotze desapareguts andorrans.**
+- ~~**Els noms dels set morts i els dotze desapareguts andorrans.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Les fonts andorranes** sobre els aiguats.~~ — **`font_externa` el
   2026-09-22**: **la fitxa només ha llegit un article sobre la conca del Segre**.
   **Cal consultar *El Diari d'Andorra* i l'Arxiu Nacional per completar la
@@ -161,7 +161,7 @@ diluvi d'aigua...»*.**
   la fitxa només conserva la notícia que el riu es va canalitzar; el projecte
   d'obra i l'expedient administratiu són la font necessària per precisar l'abast
   i la data.
-- **Si va haver-hi canvi normatiu urbanístic** després del 1982.
+- ~~**Si va haver-hi canvi normatiu urbanístic** després del 1982.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

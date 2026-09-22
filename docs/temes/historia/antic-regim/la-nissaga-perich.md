@@ -185,7 +185,7 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
   21-09-2026**: la font confirma que la casa va passar dels Molines als Guillem
   i que aquests la van enderrocar per construir-hi un altre edifici, però no en
   dona la data.
-- **Els Cristo i els Pal**: **segueixen sense genealogia.**
+- ~~**Els Cristo i els Pal**: **segueixen sense genealogia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

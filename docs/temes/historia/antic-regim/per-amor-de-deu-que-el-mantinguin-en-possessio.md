@@ -208,18 +208,18 @@ pública](./la-institucio-no-es-publica.md).
    **`parcial` el 19-09-2026**: la font els qualifica **«en petit nombre»** i
    descriu la presentació anual al cònsol o al rector, però no en dona el total
    ni permet saber si en queda rastre als arxius comunals o parroquials.
-5. **Quina era «la quantitat mínima»** que es pagava cada any, i **si variava.**
+5. ~~**Quina era «la quantitat mínima»** que es pagava cada any, i **si variava.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si el *dret de vincle* prescrivia als trenta anys**: **els *sabis* ho diuen,
    l'autor hi està d'acord per raonament, i no hi ha ni norma ni sentència.**~~ —
    **`parcial` el 21-09-2026**: la font registra que els *sabis* sostenen els
    **trenta anys** i que Brutails hi concorda *a priori*; també deixa constància
    de la dita contrària que el dret era imprescriptible. No hi ha norma ni
    sentència que resolgui la divergència.
-7. **Qui havia dit que el *dret de vincle* era imprescriptible.** **La font ho
-   dona en passiva —«s'ha dit»— i no ho atribueix.**
-8. **Si les decisions judicials que seguien el dret romà per als impúbers es van
+7. ~~**Qui havia dit que el *dret de vincle* era imprescriptible.** **La font ho
+   dona en passiva —«s'ha dit»— i no ho atribueix.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Si les decisions judicials que seguien el dret romà per als impúbers es van
    arribar a corregir.** **L'autor demana negligir-les i el corpus no sap si
-   ningú el va llegir.**
+   ningú el va llegir.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

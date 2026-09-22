@@ -242,9 +242,9 @@ la transhumància.**
 
 ## Buits registrats
 
-1. **Quan i com es desfà el règim de casa.** **La font ho prediu i no ho veu.**
-2. **El plet del sindicat de reg** davant del Tribunal Superior: **sense data**, i
-   **el corpus no en té l'arrest.**
+1. ~~**Quan i com es desfà el règim de casa.** **La font ho prediu i no ho veu.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**El plet del sindicat de reg** davant del Tribunal Superior: **sense data**, i
+   **el corpus no en té l'arrest.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**El decret del Consell General de 1849** sobre els estrangers que volen
    adquirir «casa o altres *fincas*», **sencer**.~~ — **`parcial` el 24-09-2026**: Brutails el descriu a les **pp. 161 i 175** com una norma que exigia a l’estranger autorització prèvia del **comú** i del **Consell General** per adquirir immobles, i afegeix que les prescripcions havien caigut en desús el 1904. El text íntegre i l’acte original no són al corpus ([font](../../../fonts/brutails-coutume-1904.md)).
 4. ~~**Què eren les *consignes*** exactament, i **què les distingia de les

@@ -145,10 +145,15 @@ antic»**.
 I en fa **hipòtesi explícita**, marcada com a tal —cosa que el corpus agraeix i
 imita—: els llocs de recompte podrien ser
 
-- **on es xollaria i marcaria els animals, al juny**, abans de pujar-los als cims;
-- **on hi hauria les fires, al setembre**, quan encara hi ha ramats d'ovelles a
-  les valls;
-- o **després de Pasqua**, quan es grava el bestiar gros que resta a les valls.
+- ~~**on es xollaria i marcaria els animals, al juny**, abans de pujar-los als cims;~~
+  **`no-es-buit` el 2026-09-22**: és una de les hipòtesis explícites de la font,
+  no un lloc que el corpus doni per comprovat.
+- ~~**on hi hauria les fires, al setembre**, quan encara hi ha ramats d'ovelles a
+  les valls;~~ **`no-es-buit` el 2026-09-22**: és una de les hipòtesis explícites
+  de la font, no un lloc que el corpus doni per comprovat.
+- ~~o **després de Pasqua**, quan es grava el bestiar gros que resta a les valls.~~
+  **`no-es-buit` el 2026-09-22**: és una de les hipòtesis explícites de la font,
+  no un lloc que el corpus doni per comprovat.
 
 La quèstia **es pagava als cosenyors un cop feta la recaptació** i **podia
 efectuar-se en dos terminis**.

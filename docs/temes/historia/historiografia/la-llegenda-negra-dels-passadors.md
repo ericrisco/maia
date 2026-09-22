@@ -245,7 +245,7 @@ evitar que un relat s'escampi sobre un altre període per contagi.
 - ~~**La data i el mitjà exactes**: **l'article és del 14 de juny del 1977, a la
   revista *Reporter***~~ — **`resolt` el 20-09-2026**: la fitxa ja en dona la
   data i el mitjà, amb la referència a [l'estat de la qüestió](./lestat-de-la-questio-de-les-evasions.md).
-- Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).
+- ~~Els articles d'**Antoni Forné a *Andorra 7*** (anys 70).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~***Entre el torb i la Gestapo***, de **Francesc Viadiu**, **sencer**.~~ —
   **`parcial` el 18-09-2026**: **l'autor i el llibre ja són al corpus per tres
   bandes** —[Els passadors](../guerres-i-neutralitat/els-passadors.md) el fa
@@ -255,7 +255,7 @@ evitar que un relat s'escampi sobre un altre període per contagi.
   [Andorra, entre el torb i la Gestapo](../guerres-i-neutralitat/el-torb-i-la-gestapo.md)
   descriu **la minisèrie del 2000 que se'n va fer**. `El que segueix obert és el
   text original, que el corpus no ha llegit.`
-- L'entrevista a **Baldrich** a *Informacions* (2004), sencera.
+- ~~L'entrevista a **Baldrich** a *Informacions* (2004), sencera.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Andorrans als camps de concentració nazis** — el corpus no té res sobre
   andorrans deportats. **Buit greu.**~~ — **`resolt` el 18-09-2026**: **sí que en
   té**, [Andorrans als camps nazis](../guerres-i-neutralitat/andorrans-als-camps-nazis.md)

@@ -249,8 +249,8 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
 2. ~~**Què era el «sou de Meigniel»** en què es taxa el topall de 4.000 de la talla
    episcopal.~~ — **`font_externa` el 2026-09-22**: **el corpus no té la moneda ni
    una equivalència fiable**. **Cal numismàtica o una taula de canvi medieval.**
-3. **La protesta anticipada del bisbe del 31 de maig de 1277**, durant el setge
-   d'Urgell. **Citada per Trias, represa per Vilar, i no vista.**
+3. ~~**La protesta anticipada del bisbe del 31 de maig de 1277**, durant el setge
+   d'Urgell. **Citada per Trias, represa per Vilar, i no vista.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**L'obra de Joan de Déu Trias.**~~ — **`resolt` com a duplicat el
    19-09-2026**: el buit canònic és a [Villa o tota la vall](../origens/villa-o-tota-la-vall.md).
 5. ~~**La butlla de Martí IV.**~~ **`parcial` el 19-09-2026:** el catàleg
@@ -283,8 +283,8 @@ Pariatges**, **comte Gastó i bisbe Pere de Narbona**, **tretze conclusions**—
    temps de vacant a la Cort de Roma** i fixa una pena de **50.000 sous de
    Melgueil**; una confirmació posterior al 1282 no prova per si sola que la pena
    es merités. **No hi ha cap document de pagament o d'exigència al corpus.**
-10. **Quantes vegades es va exigir la talla dins del topall dels 4.000 sous**, i
-    **si el topall es va respectar.**
+10. ~~**Quantes vegades es va exigir la talla dins del topall dels 4.000 sous**, i
+    **si el topall es va respectar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

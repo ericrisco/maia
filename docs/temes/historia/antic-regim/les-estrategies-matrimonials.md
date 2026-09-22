@@ -168,7 +168,7 @@ cadascun dels tres moments. Creuar amb
    **Les enquestes existien el 1993 i vuit anys després es van publicar**
    ([la nissaga Perich](./la-nissaga-perich.md)). **On són dipositades segueix
    sense saber-se.**
-5. **I el mecanisme que aquella recerca descriu ja és al corpus**: **casar-se
+5. ~~**I el mecanisme que aquella recerca descriu ja és al corpus**: **casar-se
    amb una casa d'una parròquia o d'un quart rival servia per «crear lligams
    perquè les baralles no anessin massa lluny» i per tenir «passarel·les» per
    negociar després dels enfrontaments**, en conflictes **sobre una muntanya
@@ -176,7 +176,7 @@ cadascun dels tres moments. Creuar amb
    fre**: **regles socials, «una mena de codi deontològic realment aplicat»,
    que limitaven els matrimonis entre hereus perquè no es formessin cases massa
    grans.** Vegeu [quarts i veïnats](../../institucions/quarts-i-veinats/quarts-i-veinats.md).
-   `no-es-buit`: és una resposta de context, no una pregunta pendent.
+   `no-es-buit`: és una resposta de context, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 6. ~~**Dades** de procedència dels consorts, per parròquia.~~ — **parcialment
    tancat**: [la nissaga Perich](./la-nissaga-perich.md) dona **dotze matrimonis
    datats d'una sola casa de Sispony, del 1600 al 1959, amb l'origen de cada

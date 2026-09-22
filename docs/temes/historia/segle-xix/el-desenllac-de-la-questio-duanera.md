@@ -498,7 +498,7 @@ caracterització del frau andorrà.**
    fulletó com *Las Cortes Españolas de 1895. Las Franquícias de Andorra*, de
    J. de Carvajal, Imp. Hijos de M.G. Hernández, Madrid, 1895, 45 p., 20 cm.;
    encara no tenim l'opuscle ni la taula de la p. 9.
-7. **La temptativa espanyola de 1864**, des d'altres fonts.
+7. ~~**La temptativa espanyola de 1864**, des d'altres fonts.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

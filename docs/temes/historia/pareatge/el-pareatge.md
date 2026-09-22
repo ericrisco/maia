@@ -318,9 +318,9 @@ pp. 30–36).
   serveix per a un argument que depengui d'una paraula.**
   **I hi ha divergència d'extensió**: **aquesta fitxa tenia onze articles i el
   text en porta tretze, § I a § XIII.** **Registrada, no arbitrada.**
-- **La contrasignatura de Pere II**. **Prioritari.**
-- **La carta de Pere II als andorrans del 25 de desembre de 1283**, sencera.
-  **Prioritari.**
+- ~~**La contrasignatura de Pere II**. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La carta de Pere II als andorrans del 25 de desembre de 1283**, sencera.
+  **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què cap comte de Foix no va tornar a fer l'homenatge**, i si algú els ho
   va reclamar.~~ — **`parcial`, confirmat el 19-09-2026**: Palau i Martí explica
   que els successors van **defugir executar el gest**, que era el signe visible
@@ -334,12 +334,12 @@ pp. 30–36).
   159-173**— és precisament el document de **1288**. El **llatí original**
   continua obert al punt anterior; aquest enunciat no hi afegeix una font ni una
   pregunta diferent.
-- **NOU, i comparatiu:** **el pariatge de la Vallferrera del 1265**, tretze anys
+- ~~**NOU, i comparatiu:** **el pariatge de la Vallferrera del 1265**, tretze anys
   anterior i **amb el mateix Roger Bernat com a part**
   ([els privilegis](../edat-mitjana/els-privilegis.md)). **Cap altra font del
   corpus no l'esmenta**, i **és el contrafactual d'aquesta fitxa**: **el mateix
   instrument, el mateix senyor, la vall del costat, i cap estat.** **`no-es-buit`**:
-  és context comparatiu incorporat, no una pregunta pendent.
+  és context comparatiu incorporat, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Si la sobirania catalana sobre Andorra** al segle XIII està establerta o és
   lectura de l'autora.~~ — **`parcial`, confirmat el 19-09-2026**: André Vilar,
   a *L'Andorre* (1904, pp. 26-28), confirma la posició de dret feudal —qui ret
