@@ -170,8 +170,10 @@ abandonades i vi importat— **i registra la de Tor al costat.**
    18 de maig de 1733 i 29 de juny de 1733**—, amb la fórmula, la pena i la
    manera de publicar-ho porta per porta
    ([la revolta del tabac de 1733](../../economia/tabac/la-revolta-del-tabac-de-1733.md)).
-4. Si **queda toponímia de vinya** — noms de lloc amb *vinya*, *tira*, *malhivern*.
-   Vegeu [toponímia](../../territori/toponimia/toponimia-andorrana.md).
+4. ~~Si **queda toponímia de vinya** — noms de lloc amb *vinya*, *tira*, *malhivern*.
+    Vegeu [toponímia](../../territori/toponimia/toponimia-andorrana.md).~~ —
+    **`font_externa` el 2026-09-22**: cal consultar el nomenclàtor i els estudis
+    toponímics complets.
 5. ~~El **retorn actual de la vinya** (celler de Casa Auvinyà), registrat a
    [el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md).~~
    **TANCAT**: [el vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md),

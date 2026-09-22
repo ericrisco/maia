@@ -267,8 +267,9 @@ Deducció de Mas: **les compraven per revendre**.
    **Un ofici professional amb una massa estacional a sobre.** **Bessó** a
    [les mules](../ramaderia-i-agricultura/les-mules.md), que el declara
    igual. **Comptat un sol cop, és un buit i no dos.**
-2. **Les companyies de negoci**: contractes, durada, si en queda documentació
-   notarial.
+2. ~~**Les companyies de negoci**: contractes, durada, si en queda documentació
+   notarial.~~ — **`font_externa` el 2026-09-22**: cal consultar protocols
+   notarials i arxius mercantils.
 3. ~~**La quantificació global.** Mas avisa que «**és força difícil quantificar
    en la seva totalitat aquesta mena de comerç**». El corpus no té sèries, només
    exemples.~~ — **`no-es-buit`, confirmat el 20-09-2026**: la limitació és

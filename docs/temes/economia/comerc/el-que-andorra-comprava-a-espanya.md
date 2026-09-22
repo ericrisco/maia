@@ -248,8 +248,9 @@ serien unes **525 persones**, prop d'una desena part del país.
 
 ## Buits registrats
 
-1. **Què entrava de França.** Aquest estat només compta Espanya. La meitat de la
-   frontera **no hi és**.
+1. ~~**Què entrava de França.** Aquest estat només compta Espanya. La meitat de la
+   frontera **no hi és**.~~ — **`font_externa` el 2026-09-22**: cal obtenir la
+   sèrie duanera francesa corresponent.
 2. ~~**Què exportava Andorra**, partida per partida.~~ — **`parcial` el
    19-09-2026**: la font limita el total a **220.000 pessetes** com a màxim i
    diu que les exportacions eren **principalment bestiar**; no en dona el

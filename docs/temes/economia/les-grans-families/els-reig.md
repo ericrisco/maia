@@ -141,7 +141,9 @@ vint anys, i part de la informació pot ser caduca.**
   **Premsa Andorrana** com a peu editorial ([catàleg](../../../raw/web/cultura/ferro/govern-ferro-2017.txt)).
   Queden oberts el catàleg complet i des de quan edita cadascuna d'aquestes
   capçaleres o col·leccions.
-- **L'estructura real de propietat** de cadascuna de les societats citades.
+- ~~**L'estructura real de propietat** de cadascuna de les societats citades.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar registres mercantils i
+  documents societaris.
 - ~~**Les altres grans famílies.**~~ **`parcial`: la font en documenta una; n'hi
   ha més, i el corpus té
   corpus en té [els Perich](../../historia/antic-regim/la-nissaga-perich.md) per

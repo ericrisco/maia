@@ -220,9 +220,11 @@ l'adquirent per les reparacions, *adobs***.
    el desfasament és de **quatre sous** i la fitxa ja acota tres explicacions
    compatibles —errata d'impremta o d'OCR, arrodoniment de les parts, o una base
    de càlcul no conservada—. Cal l'original per decidir-ne una.
-2. **Les sentències sobre *millores necessàries*** que **la font diu que existeixen
-   «m'han dit» i no cita.**
-3. **Les sentències del 10-10-1840, 12-05-1855 i 06-08-1863**, senceres.
+2. ~~**Les sentències sobre *millores necessàries*** que **la font diu que existeixen
+   «m'han dit» i no cita.**~~ — **`font_externa` el 2026-09-22**: cal localitzar
+   les resolucions que la font no identifica.
+3. ~~**Les sentències del 10-10-1840, 12-05-1855 i 06-08-1863**, senceres.~~ —
+   **`font_externa` el 2026-09-22**: cal obtenir els textos judicials íntegres.
 4. ~~**La peça justificativa p. XLVI** *(venda del 10 d'agost de 1788)*.~~ —
    **`resolt` el 2026-09-19 amb una segona digitalització** ([exemplar
    d'Internet Archive](../../../fonts/brutails-coutume-ia.md)): és la peça XXV,
@@ -241,7 +243,9 @@ l'adquirent per les reparacions, *adobs***.
    **i la secció que la font hi dedica encara no està llegida.**~~ — **`parcial`
    el 19-09-2026**: el glossari ja fixa el significat jurídic i la fracció; queda
    oberta només la lectura de la secció de la font que ho aplica al cas de Z.
-7. **Quina *sacristania* era la de la compra de 1760**, i **de quina parròquia.**
+7. ~~**Quina *sacristania* era la de la compra de 1760**, i **de quina parròquia.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar l'acte notarial i els llibres
+   parroquials corresponents.
 8. ~~**Si la classificació dels *sabis* en tres menes de millores** té **cap base
    escrita** o **és doctrina oral.**~~ — **`parcial` el 21-09-2026**: el
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md)

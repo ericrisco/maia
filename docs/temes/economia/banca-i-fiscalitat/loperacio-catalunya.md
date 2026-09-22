@@ -84,8 +84,9 @@ judicial del 2024-2025 a Madrid **és part de la mateixa incertesa.**
 
 ## Buits registrats
 
-1. **El text complet de l'informe de la comissió d'investigació del
-   Parlament de Catalunya (2016).**
+1. ~~**El text complet de l'informe de la comissió d'investigació del
+   Parlament de Catalunya (2016).**~~ — **`font_externa` el 2026-09-22**: cal
+   obtenir l'expedient parlamentari complet, que el corpus només cita.
 2. ~~**La denúncia de l'IDHA (2016-2017)**, sencera.~~ — **`parcial` el
    2026-09-21**: la [fitxa de VilaWeb sobre els deu anys del cas BPA](../../../fonts/vilaweb-deu-anys-bpa-operacio-catalunya.md)
    identifica la denúncia, la situa entre **2016 i 2017** i en resumeix
@@ -97,8 +98,9 @@ judicial del 2024-2025 a Madrid **és part de la mateixa incertesa.**
    **desestimació de la querella** entre 2024 i 2025; **el corpus encara no té la
    resolució ni el raonament judicial que expliqui l'estat exacte i la causa de
    la desestimació**.
-4. **Si hi ha resposta institucional andorrana** a l'Operació Catalunya
-   com a tal, més enllà del cas BPA.
+4. ~~**Si hi ha resposta institucional andorrana** a l'Operació Catalunya
+   com a tal, més enllà del cas BPA.~~ — **`font_externa` el 2026-09-22**: cal
+   consultar comunicats, actes i expedients institucionals fora del corpus.
 
 ## Related
 

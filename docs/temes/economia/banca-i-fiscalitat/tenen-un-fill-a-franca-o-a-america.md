@@ -275,10 +275,16 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    exemplar**: és la venda a carta de gràcia combinada amb arrendament, amb la
    nota de Brutails sobre l'incompliment de la taxació prèvia del decret de
    1853. Els noms i alguns camps hi són en blanc, tal com els deixa la font.
-5. **Si la presumpció catalana de simulació** —venedor que resta en possessió—
-   **s'aplicava a Andorra.** **La font enuncia les dues coses i no les confronta.**
-6. **Quants casos de tornada a la massa hi va haver** per venda sense taxació.
-7. **Si la clàusula «només amb diners propis» era corrent** o **excepcional.**
+5. ~~**Si la presumpció catalana de simulació** —venedor que resta en possessió—
+   **s'aplicava a Andorra.** **La font enuncia les dues coses i no les confronta.**~~ —
+   **`font_externa` el 2026-09-22**: cal comparar doctrina catalana i actes
+   notarials andorrans.
+6. ~~**Quants casos de tornada a la massa hi va haver** per venda sense taxació.~~ —
+   **`font_externa` el 2026-09-22**: cal una sèrie completa d'escriptures i
+   resolucions, que el corpus no conserva.
+7. ~~**Si la clàusula «només amb diners propis» era corrent** o **excepcional.**~~ —
+   **`font_externa` el 2026-09-22**: cal revisar una mostra més àmplia d'actes
+   notarials.
 8. ~~**Quan es va deixar de fixar un termini de rescat**, entre el 1412 i el
    1904.~~ — **`parcial` el 18-09-2026**: **la font dona els dos extrems i cap
    punt intermedi**; el moment de transició continua sense documentar-se.

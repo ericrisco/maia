@@ -269,8 +269,9 @@ Caldes**.
    l'acta**: «*a for o raho de cinch per cent*».
    **Segueix pendent** **la peça p. XXXVIII (vitalici de 1870-1880)**. **A
    l'abast.**
-5. **Com va acabar la petició de rescat en dues *lluïcions* del 23 de gener de
-   1783.**
+5. ~~**Com va acabar la petició de rescat en dues *lluïcions* del 23 de gener de
+   1783.**~~ — **`font_externa` el 2026-09-22**: cal consultar l'acte de
+   resolució i la documentació notarial que la font només esmenta.
 6. ~~**Els actes de creació de censal sense hipoteca de 1412, 1420, 1461 i 1754**
    segueixen oberts.~~ — **`parcial` el 21-09-2026**: la fitxa ja identifica els
    quatre actes i en conserva la dada essencial —el de **1412** sense hipoteca,

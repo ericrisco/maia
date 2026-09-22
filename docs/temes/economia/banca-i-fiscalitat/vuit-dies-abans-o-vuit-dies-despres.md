@@ -235,9 +235,11 @@ solts.**
    s'aplicaven a Andorra, **i si la renúncia sense el «cerciorament» del notari
    era nul·la.** **El corpus té la formalitat i no la sanció.**
    `Requereix comprovació.`~~ — **`parcial` el 21-09-2026**: la fitxa i el [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) ja fixen el nucli de les dues normes —**protegeixen la dona d'obligar-se pel deute d'altri**— i la formalitat andorrana: el notari l'havia d'haver **cerciorada plenament** abans de la renúncia. Encara no consta el contingut complet de l'*Authentica* ni la sanció de renunciar sense informació.
-8. **On són «*lo prat de la Olla*» de l'Obac i el del Solà**, al torrent del
+8. ~~**On són «*lo prat de la Olla*» de l'Obac i el del Solà**, al torrent del
    Mamo, terme de Pal, **amb les seves afrontacions**, **i el «*comunal dit de la
-   Ubaga dels Agrels*».** **Registrat per a la branca de territori.**
+   Ubaga dels Agrels*».** **Registrat per a la branca de territori.**~~ —
+   **`font_externa` el 2026-09-22**: cal fer la identificació toponímica i
+   cartogràfica amb fonts territorials.
 
 ## Related
 

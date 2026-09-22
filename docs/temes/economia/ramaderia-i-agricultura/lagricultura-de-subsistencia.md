@@ -188,13 +188,17 @@ Un país que ha deixat de fer el seu pa **depèn de la frontera per menjar**.
    **El Consell General feia de central de compres del país per a la sal**, i
    **ho feia amb quota, contracte i guies nominals.** `Requereix les
    importacions de gra en anys de fam, que segueixen obertes.`
-3. El **dot** com a mecanisme: contractes matrimonials, quantitats, a quines cases.
+3. ~~El **dot** com a mecanisme: contractes matrimonials, quantitats, a quines cases.~~ —
+   **`font_externa` el 2026-09-22**: cal una mostra de capítols matrimonials i
+   protocols notarials.
 4. ~~**Quantes cases noves** es funden al segle XVIII i on.~~ — **`parcial` el
    21-09-2026**: la font confirma la **fundació de tota una sèrie de cases noves
    al segle XVIII**, majoritàriament de menestrals, i n'explica els dos motors
    de terra —**dot** i **artigatge o feixes**—. No en dona el nombre ni la
    distribució per parròquies.
-5. L'**artigatge**: tècnica, dret sobre la terra artigada, si calia permís.
+5. ~~L'**artigatge**: tècnica, dret sobre la terra artigada, si calia permís.~~ —
+   **`font_externa` el 2026-09-22**: cal consultar ordenances, actes i estudis
+   agraris que el corpus no conserva.
 6. ~~El **mallador** — el corpus no en té definició pròpia.~~ — **`resolt` el
    18-09-2026 amb el [DCVB](../../../fonts/dcvb.md)**, i **el diccionari hi posa
    Andorra**: **«MALLADOR m. Corral on mallen o baten el gra (Andorra, Pallerols,
