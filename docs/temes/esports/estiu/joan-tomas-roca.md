@@ -89,16 +89,16 @@ anys de diferència entre les dues banderes**. Vegeu
   tirant per un club, i és espanyol.** **Tira pel Club de Mollet, a Barcelona**;
   **està casat i té dos fills**; **treballa en assegurances.** **La data del
   bolcat no hi consta, de manera que «segueix» no es pot afirmar en present.**
-- **Nota `no-es-buit`** — **una carrera internacional sencera que la fitxa no
+- ~~**Nota `no-es-buit`** — **una carrera internacional sencera que la fitxa no
   tenia**: **nou Mundials
   de l'ISSF**, amb **69è lloc el 2003** com a millor resultat, i **quinze
   Europeus de l'ISSF**, amb **38è lloc el 2000**. **Va començar a tirar el 1971
-  i a competir el 1973.**
-- **Nota `no-es-buit`** — **un parentiu que travessa la branca**: **el seu germà
+  i a competir el 1973.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
+- ~~**Nota `no-es-buit`** — **un parentiu que travessa la branca**: **el seu germà
   petit, Esteve Tomàs,
   va córrer l'eslàlom gegant als Jocs d'Hivern de 1976** — **els mateixos Jocs
   d'hivern de l'any en què ell debutava als d'estiu.** Vegeu
-  [l'esquí](../esqui/README.md).
+  [l'esquí](../esqui/README.md).~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**El tir andorrà**: federació, camps, quanta gent. **El tir és l'esport amb
   què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.**~~ —
   **`parcial` el 18-09-2026**: **la Federació Andorrana de Tir (FAT)

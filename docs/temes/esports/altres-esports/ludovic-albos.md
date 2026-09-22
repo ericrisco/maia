@@ -81,7 +81,7 @@ més** a la llista que aquesta branca va acumulant.
 - ~~**On va néixer**~~ — **`no-es-buit` el 20-09-2026**: **el bolcat propi
   dona la data, **4 de maig del 1979**, però l'infobox no té `birth_place`.
   **La font no publica el lloc i el corpus no l'infereix.**
-- **Nota `no-es-buit`** — **el que fa fora de la neu, que el corpus no tenia**:
+- ~~**Nota `no-es-buit`** — **el que fa fora de la neu, que el corpus no tenia**:
   **és comptable expert
   i assessor comercial**, **treballa en àrees comercials des del 1999**, i
   **l'esquí de muntanya el fa en el seu temps lliure.** **Formació: FP2 de
@@ -90,7 +90,7 @@ més** a la llista que aquesta branca va acumulant.
   **Un esportista de selecció nacional que competeix els caps de setmana.**
   **Això no és una anècdota**: **és com funciona l'esport d'un país de
   setanta-set mil habitants**, i **la fitxa de
-  [Xavier Capdevila](./xavier-capdevila.md), bomber, diu el mateix.**
+  [Xavier Capdevila](./xavier-capdevila.md), bomber, diu el mateix.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Els seus germans David i Joan també són esquiadors de muntanya de
   competició** — **[David Albós](./david-albos.md)** és, a més, **set vegades
   campió d'Andorra de contrarellotge en ciclisme.**~~ — **`no-es-buit`**:

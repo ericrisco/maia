@@ -74,11 +74,11 @@ donar-la per establerta.
 - ~~**Confirmar la caiguda**~~ — **`parcial`**: **la font pròpia ho diu**
   —**no va acabar el descens del 2026 després de caure**— **i la confirmació
   amb una font andorrana segueix `obert`.**
-- **Nota `no-es-buit`** — **un fet d'abanderats que tanca part del buit de
+- ~~**Nota `no-es-buit`** — **un fet d'abanderats que tanca part del buit de
   branca**: **a la cerimònia
   d'obertura dels Jocs del 2026 Andorra va tenir TRES abanderats**: **ella,
   Joan Verdú i Irineu Esteve.** Vegeu
-  [els abanderats](../../competicio/els-abanderats.md).
+  [els abanderats](../../competicio/els-abanderats.md).~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

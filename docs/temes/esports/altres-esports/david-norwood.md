@@ -101,7 +101,7 @@ declarades, no com a comprovades.**
 - ~~**Si viu a Andorra.**~~ — **`obert`, confirmat**: **el bolcat no en diu la
   residència.** **Va néixer a Farnworth, prop de Bolton, Lancashire, el 3
   d'octubre del 1968.**
-- **Nota `no-es-buit`** — **el que el bolcat sí que dona, i explica per què
+- ~~**Nota `no-es-buit`** — **el que el bolcat sí que dona, i explica per què
   aquesta fitxa és rara**:
   **Mestre Internacional el 1985 i Gran Mestre el 1989**, **elo màxim 2.545 el
   juliol del 1994**, **excapità de la selecció anglesa**; **llicenciat en
@@ -112,7 +112,7 @@ declarades, no com a comprovades.**
   milions de lliures a Keble College.**
   **El corpus registra la forma del cas**: **un Gran Mestre que va deixar de
   jugar, va fer fortuna i va canviar de federació.** **Per què va triar Andorra
-  és exactament el que la font no diu.**
+  és exactament el que la font no diu.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

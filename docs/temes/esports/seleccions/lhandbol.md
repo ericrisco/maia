@@ -106,7 +106,7 @@ així avui.`
 
 ## El que falta
 
-- **Els jugadors**: **cap nom**, ni una convocatòria.
+- ~~**Els jugadors**: **cap nom**, ni una convocatòria.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El balanç i les competicions.**~~ `parcial` **el 2026-09-18**: **dotze
   partits de Campionat de Nacions Emergents, dues victòries**, a dalt. **Del
   2018 ençà el bolcat no porta res**, i **no diu si és que no s'ha jugat o que

@@ -56,7 +56,7 @@ amb [Tomás Cano](./tomas-cano.md).
   2012-13 «la seva primera temporada»** —**una data que no encaixa amb el
   fitxatge del 2013 i que el corpus registra sense arbitrar-la.**
   `Divergència interna de la font, registrada.`
-- **Nota `no-es-buit`** — **el fet d'aquesta fitxa que el corpus no tenia i que
+- ~~**Nota `no-es-buit`** — **el fet d'aquesta fitxa que el corpus no tenia i que
   val per a tota la
   branca de seleccions**: **David Navarro va poder jugar amb la selecció
   andorrana després de viure quatre anys al país**, **per una norma especial
@@ -64,7 +64,7 @@ amb [Tomás Cano](./tomas-cano.md).
   maig del 2017, als Jocs dels Petits Estats de San Marino.**
   **El corpus té aquí, en una fitxa de jugador, la regla que explica com un
   país de setanta-set mil habitants fa seleccions competitives** — vegeu
-  [el bàsquet](../seleccions/el-basquet.md).
+  [el bàsquet](../seleccions/el-basquet.md).~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**La carrera sencera de David Navarro**~~ — **`resolt` el 19-09-2026**:
   la fitxa ja enumera **Olesa (2001-03), Melilla, Rosalía de Castro, Bàsquet
   Manresa —debut a l’ACB el 2005—, Ciudad de Vigo, Clavijo, Sant Josep Girona,

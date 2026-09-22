@@ -357,14 +357,14 @@ significa, en la pràctica, tenir setanta-set mil habitants.
   de fundació ni president** ([font](../../../fonts/fae-ad-i-coa-federacio-esqui.md)).
   **`obert`, confirmat, sobre la data**: **no hi ha bolcat de la FAE enlloc de
   `raw/web/esport/`.**
-- **Nota `no-es-buit`** — **dos parentius nous que aquesta fitxa pot afegir a la
+- ~~**Nota `no-es-buit`** — **dos parentius nous que aquesta fitxa pot afegir a la
   seva llista**:
   **[Sandra](./esquiadors/sandra-grau.md) i
   [Vicky Grau](./esquiadors/vicky-grau.md) van néixer totes dues a Sant Julià
   de Lòria**, i **[Esteve Tomàs](./esquiadors/esteve-tomas.md) és el germà petit
   de [Joan Tomàs Roca](../estiu/joan-tomas-roca.md), el tirador de cinc Jocs**
   — **els dos germans van debutar als Jocs el mateix any, el 1976, l'un als
-  d'hivern i l'altre als d'estiu.**
+  d'hivern i l'altre als d'estiu.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

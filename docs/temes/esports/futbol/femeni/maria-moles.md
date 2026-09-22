@@ -54,7 +54,7 @@ afirma parentiu i registra la coincidència.**
   internes divergeixen: la llista dona **1 partit amb Andorra**, mentre la
   plantilla del 2025 en dona **5**. La fitxa confirma a més **3 partits amb la
   sub-17**; el recompte absolut continua sense arbitrar.
-- **La sub-17 femenina**: quan es va crear, i qui hi ha jugat.
+- ~~**La sub-17 femenina**: quan es va crear, i qui hi ha jugat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

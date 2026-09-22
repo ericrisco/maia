@@ -91,13 +91,13 @@ seria pitjor.** Vegeu [el criteri](./README.md).
   registra és el Mundial de Berlín del 2009**, i **el text el tracta com a
   exatleta**. **Una última data no és una retirada, i el corpus no la converteix
   en una.**
-- **Nota `no-es-buit`** — **els seus rècords personals, que el corpus no tenia:**
+- ~~**Nota `no-es-buit`** — **els seus rècords personals, que el corpus no tenia:**
   **400 m 55.08**
   (Marsa 2010) · **800 m 1:48.69** (Mataró 1999) · **1.500 m 3:43.89** (Cottbus
   2001) · **milla 4:04.0** (Pamplona 2004) · **10 km 32:04**
   (**Andorra la Vella 2009**).
   **Els 400 m i els 10 km són posteriors al seu últim Mundial**: **va seguir
-  competint com a mínim fins al 2010.**
+  competint com a mínim fins al 2010.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

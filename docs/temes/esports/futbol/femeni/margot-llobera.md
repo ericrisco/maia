@@ -62,7 +62,7 @@ amb dades és copilot del Dakar i neboda d'un olímpic.**
   ([font](../../../../fonts/websearch-alexia-llobera-motorsport.md)). **El
   seu paper al Dakar sembla ser d'enginyeria d'equip, no de pilot o
   copilot** — matisa la lectura de «tres pilots a la família».
-- **Amb qui va córrer el Dakar del 2022, i què hi van fer.**
+- ~~**Amb qui va córrer el Dakar del 2022, i què hi van fer.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -103,14 +103,14 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   trampolins suïssos i espanyols** i **competia a la Molina, a Catalunya.**
   **Un país amb rècord nacional de salt d'esquí i cap trampolí documentat.**
   `deducció del corpus per absència, no verificada.`
-- **Nota `no-es-buit`** — **la carrera espanyola, que la fitxa no tenia**: **primer
+- ~~**Nota `no-es-buit`** — **la carrera espanyola, que la fitxa no tenia**: **primer
   espanyol que va
   competir al Torneig dels Quatre Trampolins** (1978-79); **campió d'Espanya
   cap al 1978-79** i **campió de Catalunya el 1981**; **rècord d'Espanya amb
   85 m a Oberstdorf el desembre del 1979**; **millor resultat de Copa del Món,
   48è a Holmenkollen el 1982**; **Mundial del 1982: 56è al trampolí normal i
   48è al llarg**; **segon a la Copa del Rei del 1981**, el seu únic podi.
-  **Nascut el 4 de gener del 1961.** **Saltava amb esquís Elan.**
+  **Nascut el 4 de gener del 1961.** **Saltava amb esquís Elan.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

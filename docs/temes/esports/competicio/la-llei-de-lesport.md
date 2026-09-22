@@ -172,14 +172,14 @@ ensenya abans que l'aula, no és un detall menor.
   2026-09-19** amb els articles 38–41 i 46–47 del [text consolidat local de la
   Llei 37/2018](../../../raw/lleis/esport.txt):
 
-  - **Subvencions (articles 38–41):** poden ser prestacions o ajuts econòmics,
+  - ~~**Subvencions (articles 38–41):** poden ser prestacions o ajuts econòmics,
     directes o indirectes, anuals, plurianuals o puntuals. Els criteris inclouen
     la muntanya, els resultats internacionals, la incidència social i
     mediambiental, la bona gestió, el nombre de federats, l'esport base, la
     igualtat i els programes d'inclusió. L'atorgament ha de ser transparent,
     equitatiu, condicionat al pressupost i publicat al BOPA; cal estar inscrit,
-    sol·licitar-ho dins termini i complir la llei i la normativa de desplegament.
-  - **Instal·lacions (articles 46–47):** Govern i comuns en fixen les
+    sol·licitar-ho dins termini i complir la llei i la normativa de desplegament.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Instal·lacions (articles 46–47):** Govern i comuns en fixen les
     condicions d'ús; el Govern pot dictar directrius vinculants de seguretat i
     qualitat, amb accés obligatori per a persones amb discapacitat i ús públic
     sostenible. Les instal·lacions escolars s'han de poder cedir fora de l'horari
@@ -193,7 +193,7 @@ ensenya abans que l'aula, no és un detall menor.
   | Federacions i clubs esportius | **5.278.369,70 €** |
   | **Subvenció esport professional** | **2.000.000,00 €** |
   | Instal·lacions esportives *(PR0172)* | **1.331.995,55 €** |
-  | Eficiència energètica del pavelló poliesportiu | 0,00 € el 2026, **6.000.000,00 € compromesos** |
+  | Eficiència energètica del pavelló poliesportiu | 0,00 € el 2026, **6.000.000,00 € compromesos** |~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quants esportistes d'alt nivell** hi ha a la llista anual~~ — **`resolt`
   el 18-09-2026** per l'API del Departament d'Estadística, divisions 2011-2015,
   **font declarada Secretaria d'Estat d'Esports i Joventut**:

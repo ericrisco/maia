@@ -69,12 +69,12 @@ font és una frase.**~~
   el 2009.**
 - ~~**Si segueix competint**~~ — **`obert`, confirmat**: **l'últim resultat del
   bolcat és del 2009.**
-- **Nota `no-es-buit`** — **la biografia, que és la mateixa forma que la de
+- ~~**Nota `no-es-buit`** — **la biografia, que és la mateixa forma que la de
   Ludovic Albós**: **és
   BOMBER professional** i **està casat amb Neus Tort Gendrau.** **Va néixer a
   Canillo el 17 de juliol del 1976** i **el bolcat el situa vivint a
   Escaldes-Engordany.**
-  **Dos internacionals andorrans d'esquí de muntanya, un comptable i un bomber.**
+  **Dos internacionals andorrans d'esquí de muntanya, un comptable i un bomber.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

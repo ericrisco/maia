@@ -113,14 +113,14 @@ inclòs històricament. **Néixer a la Seu no és néixer lluny.**
   d'aquest mateix any.** **Sí que segueix competint, i ha passat dels 800 als
   1.500 metres.** **El corpus deixa escrit l'error**: **una regla de branca es
   va aplicar sense comprovar el cas.**
-- **I un fet biogràfic que la fitxa no tenia i que el corpus no deixarà passar**:
+- ~~**I un fet biogràfic que la fitxa no tenia i que el corpus no deixarà passar**:
   **Pol Moya Betriu va néixer a la Seu d'Urgell, de pares espanyols**, i
   **estudia a la Universitat Politècnica de Catalunya**. **El seu club és el
   Club Atletisme Valls d'Andorra** i **el seu entrenador, José Antonio Prieto.**
   **L'home que té cinc rècords d'Andorra va néixer a vint quilòmetres de la
   frontera, a l'altra banda** — vegeu
   [les tres migracions](../../societat/demografia/les-tres-migracions.md).
-  `no-es-buit`
+  `no-es-buit`~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

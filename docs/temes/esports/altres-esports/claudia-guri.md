@@ -61,7 +61,7 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   **el camp de l'infobox és inutilitzable, però la primera frase del text ho
   diu**: **«nascuda l'1 de maig del 1995 a Escaldes»**. **El corpus s'havia
   quedat a l'infobox.**
-- **Nota `no-es-buit`** — **les seves marques personals senceres, que el corpus
+- ~~**Nota `no-es-buit`** — **les seves marques personals senceres, que el corpus
   no tenia**, i que
   **retraten una atleta combinada, no una saltadora:**
 
@@ -79,7 +79,7 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   events —alçada, llargada i triple— i les marques en donen set.**
   **I les millors són totes del 2015 al 2017**, cosa que **matisa el buit de
   «si segueix competint»**: **la darrera marca que el bolcat li registra és de
-  la temporada coberta del 2017.**
+  la temporada coberta del 2017.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**El bàsquet femení andorrà**~~ `resolt` **el 2026-09-18** —
   [el bàsquet femení](../seleccions/el-basquet-femeni.md): **onze Europeus de
   països petits, 48 partits, 13 victòries i un bronze del 2000**. **I el fil que

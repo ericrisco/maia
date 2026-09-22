@@ -60,7 +60,7 @@ Gibraltar**, en el mateix partit on va marcar
   **[parcial · 2026-09-19]** La biografia dona **5 gols**, i el corpus en pot
   situar un: el **16 de febrer del 2022 contra Gibraltar**. Els altres quatre
   no tenen rival ni data; la llista d'internacionals continua donant 0 gols.
-- **Per què va marxar d'Andorra el 2021 i no ha tornat.**
+- ~~**Per què va marxar d'Andorra el 2021 i no ha tornat.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

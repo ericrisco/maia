@@ -247,11 +247,11 @@ la descriu en passat i només en set.**
   del mateix nom.**~~ — **`resolt` el 19-09-2026**: l'acta oficial de Rugby
   Europe del partit **Noruega-Andorra del 4 de maig de 2024** escriu el suplent
   andorrà com **«ARIAS DOURDET Pol»** ([font](../../../fonts/rugbyeurope-pol-arias-2024.md)).
-- **La font declara ella mateixa que l'article té recerca original i poques
+- ~~**La font declara ella mateixa que l'article té recerca original i poques
   referències** *(«original research», «more footnotes»)*. **El corpus ho
   registra: aquesta fitxa és la menys ben fonamentada de la subbranca.**
   **`no-es-buit`**: és un avís sobre la qualitat de la font, no una pregunta de
-  recerca.
+  recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

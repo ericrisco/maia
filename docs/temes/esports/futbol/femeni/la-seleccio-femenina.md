@@ -236,7 +236,7 @@ actual és [Teresa Morató](./teresa-morato.md).**
   **friendly match not included** i el situa dins el **Torneig de
   Desenvolupament de la UEFA**; per això les taules oficials comencen el 2015.
   La font no conserva una resolució federativa més detallada sobre el criteri.
-- **Les 37 jugadores del 1997.** Cap nom.
+- ~~**Les 37 jugadores del 1997.** Cap nom.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

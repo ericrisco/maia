@@ -78,9 +78,9 @@ demostrar**.
   [Andorra als Jocs Paralímpics](../../competicio/andorra-als-jocs-paralimpics.md)**,
   i **la FADEA ja no és un nom buit: és la Federació Andorrana d'Esports
   Adaptats, el Comitè Paralímpic del país, `fadea.ad`.**
-- **El que segueix sent cert**: **cap medalla en vuit Jocs**, i **el millor
+- ~~**El que segueix sent cert**: **cap medalla en vuit Jocs**, i **el millor
   resultat és un novè lloc.** `no-es-buit`: és una dada de balanç ja destil·lada,
-  no una pregunta pendent.
+  no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

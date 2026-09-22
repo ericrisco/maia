@@ -67,11 +67,11 @@ dels dos andorrans no va acabar cap cursa.
   l'eslàlom** i **va ser 40è a l'eslàlom gegant.** **La LW10 és, precisament,
   una classe d'esquí assegut**, de manera que **les dues edicions són
   coherents**: **el corpus escriu la classe i no n'infereix el diagnòstic.**
-- **I el resultat que la fitxa no tenia**: **el 40è lloc de l'eslàlom gegant de
+- ~~**I el resultat que la fitxa no tenia**: **el 40è lloc de l'eslàlom gegant de
   Torí 2006 és l'ÚNIC resultat completat que el corpus documenta d'un
   paralímpic andorrà**: **de les quatre proves que va començar entre les dues
   edicions, tres les va deixar sense acabar.** `no-es-buit`: és una dada ja
-  destil·lada, no una pregunta pendent.
+  destil·lada, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Miguel Llongueras**, el seu company del 2002, de qui el corpus no té ni
   entrada. ~~— **`obert`, confirmat**: **no hi ha cap bolcat amb aquest nom.**
 - ~~**La Federació Andorrana d'Esports Adaptats (FADEA).**~~ — **`no-es-buit` el 2026-09-20**: és una identificació institucional, no una pregunta pendent; el registre comunal i la fitxa de [fundació i registre](../../../../fonts/fadea-fundacio-1998.md) ja documenten la federació, el canvi de nom FADEM→FADEA i la inscripció del 2013.

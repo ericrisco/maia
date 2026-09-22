@@ -182,13 +182,13 @@ partits o més amb Andorra.**
 
   **Tres coses noves:**
 
-  1. **La victòria contra Hongria ja té data**: **9 de juny del 2017**, i **gol
-     de Marc Rebés**. La taula de dalt la tenia com a *(data desconeguda)*.
-  2. **Hi ha una victòria que el corpus no tenia de cap manera**: **Saint Kitts
+  1. ~~**La victòria contra Hongria ja té data**: **9 de juny del 2017**, i **gol
+     de Marc Rebés**. La taula de dalt la tenia com a *(data desconeguda)*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  2. ~~**Hi ha una victòria que el corpus no tenia de cap manera**: **Saint Kitts
      i Nevis**, **25 de març del 2022**. **No és cap dels set rivals que donava
      l'altra font**, i **és el primer rival no europeu que el corpus li
-     coneix.**
-  3. **I una altra del 2026**: **Liechtenstein 2-0 a Encamp**, en **un estadi
+     coneix.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  3. ~~**I una altra del 2026**: **Liechtenstein 2-0 a Encamp**, en **un estadi
      que aquest article no anomena enlloc**, l'**Estadi de la FAF**.
 
   ### Tercera actualització, el mateix dia: tres victòries més
@@ -241,7 +241,7 @@ partits o més amb Andorra.**
   **Segueixen faltant les dates de la resta, i els marcadors.** **Buit
   prioritari, però molt més petit que abans: de catorze, sis ja tenen data.**~~ —
   **`parcial`: nou victòries ja tenen data i rival, però la contradicció entre
-  fonts i les restants dates i marcadors continuen obertes.
+  fonts i les restants dates i marcadors continuen obertes.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 > **Auditat el 2026-09-13.** **Quatre dels sis buits d'aquesta llista havien
 > deixat de ser certs el mateix dia que es van escriure**: **el corpus els va
 > omplir hores després i ningú no va tornar aquí a ratllar-los.** **És el cas

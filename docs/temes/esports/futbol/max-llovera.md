@@ -96,7 +96,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**Els seus clubs amb anys i partits.**~~ — **`resolt`** (taula de dalt):
   **sis etapes**, **una de cedit**, i **131 partits al San Cristóbal**, on
   segueix.
-- **Si té relació amb els altres Llovera.**
+- ~~**Si té relació amb els altres Llovera.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

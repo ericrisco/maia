@@ -55,10 +55,10 @@ Vegeu [els abanderats](../competicio/els-abanderats.md).
   només diu que competeix «des de mitjans dels anys 2000»**, sense una sola
   data. **És dels bolcats més curts de tota la subbranca.**
 - ~~**Quan va plegar.** ~~— **`obert`, confirmat, pel mateix motiu.**
-- **El que sí que hi és**: **Montserrat García Riberaygua, Andorra la Vella, 26
+- ~~**El que sí que hi és**: **Montserrat García Riberaygua, Andorra la Vella, 26
   de novembre del 1989**, **caiac eslàlom, K-1**, **eliminada a la ronda
   classificatòria de Pequín 2008, 20a.** `no-es-buit`: són dades ja destil·lades,
-  no una pregunta pendent.
+  no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**La relació amb Mònica Dòria**: mateix club? Mateixa escola? **El corpus no
   ho sap** i **és la pregunta que explicaria com un país sense riu navegable
   produeix dues piragüistes olímpiques.**~~ — **`parcial` el 21-09-2026**: les

@@ -82,7 +82,7 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
   acabar 34è.** **I hi va ser l'abanderat d'Andorra a la cerimònia
   d'obertura** — vegeu la divergència registrada a
   [Mireia Gutiérrez](./mireia-gutierrez.md).
-- **Naixement**: **Andorra la Vella, 12 d'octubre del 1988.** `no-es-buit`
+- ~~**Naixement**: **Andorra la Vella, 12 d'octubre del 1988.** `no-es-buit`~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Si segueix competint.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**
   **Que un bolcat datat no digui què ha passat després no és un buit
   d'aquest corpus: és el que significa tenir data.** **L'enunciat es
@@ -90,7 +90,7 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
   [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
-- **El surf de neu andorrà**: federació, pistes, gent.
+- ~~**El surf de neu andorrà**: federació, pistes, gent.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

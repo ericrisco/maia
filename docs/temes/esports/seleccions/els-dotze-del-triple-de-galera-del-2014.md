@@ -189,14 +189,14 @@ d'un sol intocable: és una cadena de generacions que se solapen.
 
 ## El que falta
 
-- Un vídeo o un àudio de la final.
-- El relat de la celebració al vestidor i de la rebuda al Principat.
+- ~~Un vídeo o un àudio de la final.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El relat de la celebració al vestidor i de la rebuda al Principat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El tir —si n'hi va haver— després del rebot ofensiu maltès a quatre
   segons.**~~ — **`resolt` el 2026-09-19**: després que Samuel Deguara capturés
   el rebot ofensiu, **l'acta no registra cap llançament perquè el temps es va
   acabar**.
-- El nombre exacte d'internacionalitats dels veterans.
-- L'edició impresa completa d'El Periòdic del 14 de juliol del 2014.
+- ~~El nombre exacte d'internacionalitats dels veterans.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'edició impresa completa d'El Periòdic del 14 de juliol del 2014.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

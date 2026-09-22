@@ -47,10 +47,10 @@ explicar.
   4:21.16, 49è**, no avança
   ([raw](../../../raw/web/esport/jocs-olimpics/en_Andorra_at_the_2016_Summer_Olympics.wiki)).
 - ~~**Tota la resta de la carrera.** ~~— **`obert`, confirmat, pel mateix motiu.**
-- **Nota `no-es-buit`** — **el que hi és**: **Pol Arias Dourdet, 8 d'agost del
+- ~~**Nota `no-es-buit`** — **el que hi és**: **Pol Arias Dourdet, 8 d'agost del
   1996, 175 cm i 80 kg.**
   **El camp `birth_place` diu «Andorra» i cap parròquia**: **el buit del lloc
-  exacte és de font.**
+  exacte és de font.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Per què s'atura la natació olímpica andorrana.**~~ — **`parcial`**: la
   fitxa fixa **set Jocs seguits amb nedadors, d'Atlanta 1996 a Rio 2016**, i
   cap representant de natació a **Tòquio 2020 ni París 2024**; el corpus encara

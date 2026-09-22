@@ -107,7 +107,7 @@ poden citar.`
    Guri](../altres-esports/claudia-guri.md), que va jugar a la selecció sub-16
    abans de passar-se a l'atletisme; encara falten les plantilles de les onze
    edicions, que el bolcat no porta.
-2. **Per què no van jugar el 2012 ni el 2014.**
+2. ~~**Per què no van jugar el 2012 ni el 2014.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**La tercera selecció femenina.** El corpus en tenia comptades tres i ara en
    té dues fitxades —**[futbol](../futbol/femeni/la-seleccio-femenina.md) i
    bàsquet**. `Requereix la llista oficial de seleccions del Comitè Olímpic

@@ -98,7 +98,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   SEGONA en esprint clàssic en categoria sub-23 als Mundials Júnior nòrdics.**
   **Dos podis mundials en dos anys seguits i en les dues tècniques.**
   **On i contra qui segueix `obert`.**
-- **Naixement: Sant Julià de Lòria, 26 de gener del 2004.** `no-es-buit`
+- ~~**Naixement: Sant Julià de Lòria, 26 de gener del 2004.** `no-es-buit`~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

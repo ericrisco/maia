@@ -42,13 +42,13 @@ de les dues dones, de qui la font no dona resultats.
 - ~~**On va néixer.** La font deixa el camp buit. ~~— **`obert`, confirmat llegint
   l'infobox sencer**: **no hi ha camp `birth_place`.** **Data: 18 de novembre
   del 1971.**
-  - **Comprovat el 17-09-2026 contra una segona base independent**:
+  - ~~**Comprovat el 17-09-2026 contra una segona base independent**:
     **[Wikidata](../../../../fonts/wikidata.md) (element Q11789232) tampoc no
     en té el lloc de naixement** —la propietat P19 hi és absent—, **i sí que hi
     ha la data, el sexe, la nacionalitat, l'esport, les dues participacions
     olímpiques i els identificadors de la FIS i d'Olympedia.** **No és, doncs,
     una dada perduda en una transcripció: no està publicada a cap de les
-    dues.**
+    dues.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Copes del Món, campionats del món, campionats d'Andorra**: cap dada.~~ —
   **`parcial` el 17-09-2026, i el que impedeix tancar-lo del tot no és la
   ignorància sinó els drets.**

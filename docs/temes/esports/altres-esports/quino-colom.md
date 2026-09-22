@@ -92,23 +92,23 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   temporades a la Lliga ACB**, **capità del Bàsquet Girona després de la
   retirada de Marc Gasol.** **Va néixer a Andorra la Vella l'1 de novembre del
   1988.**
-- **Nota `no-es-buit`** — **els reconeixements que la fitxa no tenia**: **millor
+- ~~**Nota `no-es-buit`** — **els reconeixements que la fitxa no tenia**: **millor
   sisè home de la VTB
   United League la temporada 2015-16** i **primer equip ideal de l'EuroCup el
-  2018**, **tots dos amb l'UNICS Kazan.**
+  2018**, **tots dos amb l'UNICS Kazan.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**El BC Andorra**, sencer.~~ `resolt`: [el BC Andorra](./bc-andorra.md).
 - ~~**Els seus números**: punts, assistències, temporades.~~ — **`parcial` el
   18-09-2026**: el **medaller** de dalt és el que la font en dona, i **no en
   dona estadístiques**.
 - ~~**Quan es va retirar.**~~ `resolt` més amunt en aquesta mateixa llista: **el
   25 de febrer del 2025**. `Entrada duplicada, retirada el 2026-09-18.`
-- **I una precisió que arriba del bolcat de la selecció** i que **confirma el
+- ~~**I una precisió que arriba del bolcat de la selecció** i que **confirma el
   límit de la seva trajectòria andorrana**: la fitxa de la
   [selecció absoluta](../seleccions/el-basquet.md) **el llista entre els
   jugadors notables amb la nota «seleccions de base»**, i **no apareix a cap
   taula de partits ni de punts de l'absoluta**. **El Colom de l'absoluta és
   Guillem** —33 partits, 423 punts, tercer màxim anotador històric.
-  `no-es-buit`: és una precisió d’abast de la font, no una pregunta pendent.
+  `no-es-buit`: és una precisió d’abast de la font, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

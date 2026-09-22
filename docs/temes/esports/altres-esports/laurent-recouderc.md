@@ -150,7 +150,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > `hipòtesi, no verificada.`
 > **L'infobox està actualitzat al juny del 2017.**
 
-- **Nota `no-es-buit`** — **el que el bolcat sí que dona, i que val la pena
+- ~~**Nota `no-es-buit`** — **el que el bolcat sí que dona, i que val la pena
   tenir**: **nascut a Toulouse
   el 10 de juliol del 1984**, **professional des del 2003**, **millor rànquing
   ATP individual el número 124, el 26 d'octubre del 2009**, **320 en dobles**,
@@ -160,7 +160,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   cinc sets abans de perdre amb Novak Djokovic en quatre.**
   **Perdre «en quatre sets» un partit al millor de cinc vol dir haver-ne guanyat
   un**: **el capità de la Copa Davis andorrana va guanyar un set a Djokovic.**
-  `lectura pròpia del corpus sobre el marcador que la font dona en paraules.`
+  `lectura pròpia del corpus sobre el marcador que la font dona en paraules.`~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

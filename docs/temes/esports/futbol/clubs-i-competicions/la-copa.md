@@ -161,8 +161,8 @@ Andorra la Vella». Aixovall és a Sant Julià de Lòria.`
 - ~~**Tots els finalistes i marcadors** de les edicions posteriors al 2000.~~
   `resolt` **el 2026-09-18** amb el bolcat propi: **el palmarès per club i totes
   les finals des del 1996**. **La del 1995 segueix sense finalista conegut.**
-- **Per què no es va jugar el 1992 i el 1993.** **El bolcat ho registra i no ho
-  explica.**
+- ~~**Per què no es va jugar el 1992 i el 1993.** **El bolcat ho registra i no ho
+  explica.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si el nom és anterior o posterior a la Constitució del 1993.**~~ —
   **`parcial`**: **la federació no compta com a oficials els títols del 1991 ni
   del 1994**, de manera que **la primera Copa Constitució oficial és la del

@@ -47,10 +47,10 @@ complet.
   **`parcial`: el lloc es tanca, el club i la resta no.** **Les Escaldes**, **1
   de febrer del 1964**, **170 cm i 62 kg**, **migfondista.** **El club no hi és
   i la carrera fora dels Jocs tampoc.**
-- **Nota `no-es-buit`** — **els temps de Seül, que la fitxa no tenia**: **1:53.34
+- ~~**Nota `no-es-buit`** — **els temps de Seül, que la fitxa no tenia**: **1:53.34
   als 800 m** i
   **3:52.68 als 1.500 m**, tots dos a les sèries. **Va ser l'abanderat d'Andorra
-  a la cerimònia d'obertura de Seül 1988.**
+  a la cerimònia d'obertura de Seül 1988.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Els seus rècords d'Andorra**, si en va tenir. ~~— **`obert`, confirmat**: **el
   bolcat no n'esmenta cap.**
 - ~~**Què fa ara.**~~ — **`no-es-buit`, requalificat el 18-09-2026.**

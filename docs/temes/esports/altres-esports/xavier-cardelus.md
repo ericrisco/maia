@@ -65,7 +65,7 @@ d'Andorra.
 - ~~**El seu pare, Xavier Cardelús Maestre**: quan va córrer i on. **Buit
   registrat.** ~~— **`obert`, confirmat**: **el bolcat el nomena i el qualifica
   d'«antic pilot de motociclisme», i prou.**
-- **Nota `no-es-buit`** — **la carrera sencera, que el corpus tenia a mitges**:
+- ~~**Nota `no-es-buit`** — **la carrera sencera, que el corpus tenia a mitges**:
   **Campionat d'Europa
   FIM CEV de Moto2 des del 2015**; **Mundial de Supersport el 2017 amb el Race
   Department ATK#25**; **Moto2 el 2018 (Stylobike i Marinelli Snipers), el 2019
@@ -74,7 +74,7 @@ d'Andorra.
   d'Arón Canet**; i **el 2026 corre el Mundial de Supersport amb el Cerba
   Yamaha Racing Team.**
   **El bolcat arriba al 2026: sí que segueix competint.**
-  **Nascut a Andorra la Vella el 15 de maig del 1998.**
+  **Nascut a Andorra la Vella el 15 de maig del 1998.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**El motociclisme i l'automobilisme andorrans**: federació,
   llicències, proves.~~ — **`parcial` el 18-09-2026**: dues federacions
   separades al COA (2024-2028) — **Federació Motociclista d'Andorra**:

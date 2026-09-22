@@ -82,11 +82,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   **El bolcat hi afegeix una cosa que explica la seva especialitat**: **era
   esquiador i no va començar a competir en ciclisme fins al 2008**, **als
   vint-i-quatre anys.**
-- **Nota `no-es-buit`** — **un parentiu que el corpus tenia mig escrit**: **els
+- ~~**Nota `no-es-buit`** — **un parentiu que el corpus tenia mig escrit**: **els
   seus germans
   [Ludovic](./ludovic-albos.md) i Joan Albós Cavaliere són esquiadors de
   muntanya de competició.** **Tres germans, tres esports de resistència, una
-  sola casa.**
+  sola casa.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**L'Agrupació Ciclista Andorrana**: què és, quan es crea, qui hi corre.
   **Buit registrat: és el primer equip nacional d'Andorra de cap esport que el
   corpus pot anomenar fora del futbol i del bàsquet.**~~ — **`parcial` el

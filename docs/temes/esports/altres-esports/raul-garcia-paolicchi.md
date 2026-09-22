@@ -97,11 +97,11 @@ sobre la federació, el campionat nacional o els clubs andorrans d'escacs.**
   amb cinc participacions; aquest n'ha jugat divuit de divuit.**
 - ~~**El seu elo.**~~ — **`resolt`: Mestre FIDE el 1993** i **elo màxim 2.420
   el juliol del 1998.**
-- **Nota `no-es-buit`** — **la resta del palmarès nacional, que la fitxa no
+- ~~**Nota `no-es-buit`** — **la resta del palmarès nacional, que la fitxa no
   tenia**: **campió
   d'Andorra el 2011 i el 2013**, **subcampió quatre vegades (2001, 2002, 2005 i
   2010)**, **quatre zonals de la FIDE (1987, 1993, 1995 i 1998)** i **guanyador
-  de l'Obert de Mollerussa del 1994.** **Nascut el 30 de desembre del 1952.**
+  de l'Obert de Mollerussa del 1994.** **Nascut el 30 de desembre del 1952.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Els escacs andorrans, sencers.**~~ — **`parcial`.** **I inclou una
   correcció d'aquesta mateixa fitxa: hi falta un títol nacional, el del
   2009.**

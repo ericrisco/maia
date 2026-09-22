@@ -111,7 +111,7 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
   segueix `obert`.**
 - ~~**El seu palmarès nacional** i els títols d'Andorra. ~~— **`obert`, confirmat**:
   **el bolcat no en dona cap.**
-- **Nota `no-es-buit`** — **la carrera en xifres, que la fitxa no tenia:**
+- ~~**Nota `no-es-buit`** — **la carrera en xifres, que la fitxa no tenia:**
 
   | | |
   | --- | --- |
@@ -126,7 +126,7 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 
   **Dotze anys entre el debut a la Copa del Món i la retirada.**
   **És la primera esquiadora andorrana de qui el corpus té la carrera acotada
-  per les dues puntes.**
+  per les dues puntes.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

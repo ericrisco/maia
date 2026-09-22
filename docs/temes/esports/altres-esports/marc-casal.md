@@ -89,11 +89,11 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
 - ~~**I hi ha, de passada, un esportista andorrà de primer nivell sense fitxa:
   Òscar Casal Mir.**~~ — **`resolt` el mateix 18-09-2026**:
   [Òscar Casal Mir](./oscar-casal-mir.md).
-- **La resta**: **nascut a Canillo el 13 d'agost del 1987**, **167 cm**,
+- ~~**La resta**: **nascut a Canillo el 13 d'agost del 1987**, **167 cm**,
   **entrenador Andrei Efremov.** **Tots dos patinadors són de Canillo, que és
   la parròquia del [Palau de Gel](./el-palau-de-gel.md)**: **el corpus ho deixa
   escrit com a coincidència amb causa probable i no com a fet provat.**
-  `no-es-buit`
+  `no-es-buit`~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

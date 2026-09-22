@@ -457,13 +457,13 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 
    **De passada, dos defectes de la font que el corpus registra i no arbitra**:
 
-   - **Al bolcat del 1996, el text diu que Aitor Osorio va nedar 2:12.59 i la
-     taula diu 2:12.56.** El corpus cita el de la taula.
-   - **Al bolcat del 2000, Meritxell Sabaté surt amb 1:59.31 als 200 estils,
+   - ~~**Al bolcat del 1996, el text diu que Aitor Osorio va nedar 2:12.59 i la
+     taula diu 2:12.56.** El corpus cita el de la taula.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**Al bolcat del 2000, Meritxell Sabaté surt amb 1:59.31 als 200 estils,
      que és exactament el temps de Santiago Deu als 200 lliures del mateix
      quadre.** **Un 200 estils femení en 1:59.31 el 2000 hauria estat rècord
      del món**; **és un error de còpia de la font** i **el corpus en cita la
-     posició i no el temps.**
+     posició i no el temps.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La font primària**: **el Comitè Olímpic Andorrà**. **Qui el va fundar, quan
    exactament el 1976, i qui l'ha presidit.**~~ El corpus només té un nom:
    **Jaume Martí**, president el 2015. — **`parcial` el 18-09-2026**: **el
