@@ -60,11 +60,21 @@ a `02-DOCS/raw/sources/`; reutilització pendent, cap exportació.
 
 ## Buits registrats
 
-- Original de la Batllia, identificador, data, fonaments i dispositiu.
-- Eventual recurs, resolució posterior, fermesa i execució efectiva.
-- Abast temporal i completesa del cercador oficial encara no comprovats.
-- El rebuig inicial no era absència de sentència ni zero resultats:
+- ~~Original de la Batllia, identificador, data, fonaments i dispositiu.~~ —
+  **`font_externa` el 2026-09-22**: cal obtenir l'original judicial; la nota
+  només conserva la pista i les metadades del cercador.
+- ~~Eventual recurs, resolució posterior, fermesa i execució efectiva.~~ —
+  **`font_externa` el 2026-09-22**: aquestes dades només es poden comprovar al
+  procediment judicial i als registres d'execució corresponents.
+- ~~Abast temporal i completesa del cercador oficial encara no comprovats.~~ —
+  **`font_externa` el 2026-09-22**: cal una consulta completa del servei oficial
+  per establir-ne l'abast i la completesa.
+- ~~El rebuig inicial no era absència de sentència ni zero resultats:
   el formulari ha permès obtenir metadades. El CAPTCHA encara impedeix
-  completar la consulta del document seleccionat.
-- No s'han consultat íntegrament l'hemeroteca de1996–2001 ni reculls
-  anuals judicials. La pista de Directa427 no s'ha obert ni verificat.
+  completar la consulta del document seleccionat.~~ — **`no-es-buit` el
+  2026-09-22**: és una nota metodològica sobre l'accés al cercador, no una
+  pregunta de recerca.
+- ~~No s'han consultat íntegrament l'hemeroteca de1996–2001 ni reculls
+  anuals judicials. La pista de Directa427 no s'ha obert ni verificat.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar l'hemeroteca i la pista
+  indicada per verificar-les.
