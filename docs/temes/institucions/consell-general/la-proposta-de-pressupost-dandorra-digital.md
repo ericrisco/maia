@@ -74,12 +74,12 @@ entrada «Projecte de llei de modificació de la Llei 1/2026».)
   esmenes ni eventual dictamen o votació final. No s'ha acreditat
   aprovació, rebuig o entrada en vigor posterior.~~ — **`font_externa` el
   2026-09-22**: cal consultar l'expedient parlamentari i pressupostari complet.
-- Llei 19/2025 i constitució registral citades pel projecte, encara
+- ~~Llei 19/2025 i constitució registral citades pel projecte, encara
   no contrastades amb les peces originals. Tampoc l'activitat o
-  la despesa efectiva de la societat.
-- El [pressupost inicial](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)
+  la despesa efectiva de la societat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El [pressupost inicial](../../economia/banca-i-fiscalitat/que-aprova-el-pressupost-de-2026.md)
   segueix separat d'aquesta proposta; falta reconstruir totes les
-  modificacions pressupostàries de 2026.
- - Drets de les peces parlamentàries pendents; originals i lectura
+  modificacions pressupostàries de 2026.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Drets de les peces parlamentàries pendents; originals i lectura
    de recerca no s'exporten a datasets. **`no-es-buit`**: és un avís de drets,
-   no una pregunta de recerca.
+   no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

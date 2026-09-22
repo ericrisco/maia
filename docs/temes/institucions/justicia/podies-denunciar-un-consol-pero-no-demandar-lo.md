@@ -365,19 +365,19 @@ qualsevol plet comunal.**
    consultar «ab homens de sciencia y conciencia» i, si hi ha oposició, donar-ne
    part als Veguers.** **El Politar en dona el motiu pràctic**: són **«las causas
    mes enredosas y enfadosas»**.
-6. **L'estudi del senyor Anton Picart** sobre l'execució del *cot* i el *recot*.
+6. ~~**L'estudi del senyor Anton Picart** sobre l'execució del *cot* i el *recot*.
    **El corpus té el manuscrit del notari Anton Picart registrat com a buit des
-   d'una altra tanda i no sap si és el mateix autor.**
-7. **El cas de 1788 de l'habitant d'Ordino**: **el decret especial del Bisbe** i
-   **com va acabar el plet.**
+   d'una altra tanda i no sap si és el mateix autor.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**El cas de 1788 de l'habitant d'Ordino**: **el decret especial del Bisbe** i
+   **com va acabar el plet.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**La sentència dels Veguers de 1450** entre Encamp i Andorra sobre límits de
    pastures.~~ **`parcial`:** la taula d'aquesta fitxa ja identifica l'any, les
    parts i la matèria —els límits de les pastures—; encara falta el text de la
    sentència i relacionar-la amb els dos plets d'altres dates.
-9. **Quines eren les «dificultats recents»** que, segons la font, demostraven la
-   insuficiència de la justícia administrativa el 1904.
-10. **Com s'executava el reemborsament de la multa** quan es multava el cònsol i
-    havia de pagar un altre *(cas del 22 de desembre de 1891)*.
+9. ~~**Quines eren les «dificultats recents»** que, segons la font, demostraven la
+   insuficiència de la justícia administrativa el 1904.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**Com s'executava el reemborsament de la multa** quan es multava el cònsol i
+    havia de pagar un altre *(cas del 22 de desembre de 1891)*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

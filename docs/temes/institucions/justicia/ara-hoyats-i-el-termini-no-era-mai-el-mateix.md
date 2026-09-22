@@ -278,13 +278,13 @@ s'endevina:
    l'editor** i el corpus manté l'abreujament. **Segueix obert** l'expedient
    sencer de cap d'aquestes dues cessions: **el volum en dona la fórmula, no el
    cas.**
-8. **La constitució catalana de 1311** *(Constitucions, VII, xiv, 1, p. 440)*,
-   que és **on la font situa el nom de la cessió de béns.**
-9. **Qui era Johan P., difunt el 1477, i Guillem R., de Sespony, difunt el
+8. ~~**La constitució catalana de 1311** *(Constitucions, VII, xiv, 1, p. 440)*,
+   que és **on la font situa el nom de la cessió de béns.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Qui era Johan P., difunt el 1477, i Guillem R., de Sespony, difunt el
    1488.** **L'editor els abreuja i el corpus manté l'abreujament**: **hi
-   consten com a particulars, no com a càrrecs.**
-10. **L'acte del 26 de maig de 1783** on apareix *postor*, **i si els altres nou
-    manlleus de la llista tenen atestacions andorranes anteriors a 1881.**
+   consten com a particulars, no com a càrrecs.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**L'acte del 26 de maig de 1783** on apareix *postor*, **i si els altres nou
+    manlleus de la llista tenen atestacions andorranes anteriors a 1881.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

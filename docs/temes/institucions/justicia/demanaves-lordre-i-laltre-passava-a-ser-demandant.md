@@ -285,13 +285,13 @@ registrar**
    amb la de la llista de feriats, que la font va fer redactar.**~~ — **`font_externa`
    el 2026-09-22**: la font en cita el contingut però no identifica els antics
    batlles ni l'encàrrec; cal localitzar l'attestació original.
-3. **Com es concilia l'excepció de cosa jutjada afirmada per aquella attestació
+3. ~~**Com es concilia l'excepció de cosa jutjada afirmada per aquella attestació
    amb la temptació de reprendre l'afer «sota una forma diferent» davant de
-   l'altre batlle.** **El corpus registra les dues i no les concilia.**
-4. **Fontanella, *Decisiones sacri regii senatus Cathaloniæ*, decisió 126** (ed.
+   l'altre batlle.** **El corpus registra les dues i no les concilia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Fontanella, *Decisiones sacri regii senatus Cathaloniæ*, decisió 126** (ed.
    de Lió, 1668, t. I, p. 245). **És l'enllaç documentat entre el dret andorrà i
    el romà.** **Prioritari.** **`no-es-buit`**: és la referència identificada i
-   descrita, no una pregunta pendent.
+   descrita, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 5. ~~**Fins on arriba la regla que «les jurisdiccions andorranes han de seguir la
    llei romana»**: **la font ho diu per a la cosa jutjada i la revisió, i no com a
    principi general.**~~ — **`parcial`**: la fitxa en fixa l'abast en **la cosa

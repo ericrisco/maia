@@ -176,9 +176,9 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
 - ~~**La Llei del 1989 va prometre un text sobre l'actuació dels advocats davant
   aquesta jurisdicció i no s'ha identificat.**~~ — **`parcial` el 21-09-2026**:
   la **Llei 48/2014 de l'exercici de la professió d'advocat** (`docs/raw/lleis/advocacia.txt`, articles 3 i 4) reserva als advocats la direcció, defensa o representació en **qualsevol procediment administratiu o judicial**; el corpus no ha localitzat, però, el text específic que la Llei del 1989 havia promès ni una norma que el desplegui per a aquesta jurisdicció.
-- **Del règim del 2022 s'ha llegit el títol preliminar i la primera instància.**
+- ~~**Del règim del 2022 s'ha llegit el títol preliminar i la primera instància.**
   **Els recursos (capítol segon), la revisió de sentències fermes (tercer) i tot
-  el llibre d'execució** —voluntària, forçosa i incidents— **queden per llegir.**
+  el llibre d'execució** —voluntària, forçosa i incidents— **queden per llegir.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La Llei transitòria de procediments judicials**, de la qual el 2022 en deroga
   els articles 138 a 187, **no s'ha llegit mai**. És dret processal supletori i no
   se sap què hi queda viu.~~ — **`parcial` el 17-09-2026** (text refós del

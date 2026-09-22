@@ -171,8 +171,8 @@ els dona per separat.`
 5. ~~**Per què cada parròquia el feia en un dia diferent**, i **per què Andorra el lligava a Corpus i les altres a Pentecosta.**~~ — **`parcial` el 21-09-2026**: la fitxa ja documenta el calendari —Corpus a Andorra, Pentecosta a Encamp, Canillo, la Massana i Ordino, i l'endemà a Sant Julià—, però no en té la raó històrica.
 6. ~~**Quantes execucions abans de judici van demanar els comuns, els quarts i les esglésies, i amb quin resultat.**~~ — **`parcial` el 21-09-2026**: la font estableix que aquestes administracions podien requerir l'execució abans de judici i que l'executat només podia al·legar raons plausibles davant del batlle, però no dona cap recompte ni cas complet.
 7. ~~**L'acte del 15 d'octubre de 1584**, sencer, i **si el gest de prendre per la mà dreta era la forma habitual** o **un detall d'aquell document.**~~ — **`parcial` el 21-09-2026**: la font conserva el gest amb què el batlle posa el creditor en possessió del prat i el motiu del deute, però el corpus no té l'acte íntegre ni altres casos per saber si era una fórmula habitual.
-8. **Els passatges de les Constitucions de Catalunya** sobre causes executives:
-   **III, xxv, 1, p. 255**, i **VII, x**. `obert, amb referència.`
+8. ~~**Els passatges de les Constitucions de Catalunya** sobre causes executives:
+   **III, xxv, 1, p. 255**, i **VII, x**. `obert, amb referència.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Un buit de la font no és un buit del món.** Que **el pregó no tingués efecte el
 1904** no vol dir que no en tingués abans: **el corpus té la data, la fórmula i

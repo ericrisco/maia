@@ -204,8 +204,8 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`~~ —
    **`font_externa` el 2026-09-22**: l'extracte és local, però el manuscrit sencer
    i la localització del fons requereixen consulta externa.
-6. **El «dossier d'afers portats molt antigament en darrer terme davant de
-   jurisdiccions franceses»** que la font diu posseir. **No l'enumera aquí.**
+6. ~~**El «dossier d'afers portats molt antigament en darrer terme davant de
+   jurisdiccions franceses»** que la font diu posseir. **No l'enumera aquí.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Quan i durant quant de temps es va aplicar la segona esmena** —el darrer
    grau al copríncep que ha nomenat el Jutge. **La font diu «potser
    transitòriament».**~~ — **`parcial`**: la fitxa identifica la segona proposta
@@ -216,8 +216,8 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
    la fitxa conserva la data, la signatura **E 2286**, el canvi dels Giberga del
    Bisbe al Rei i l'acte del **23 d'agost** davant Guillem Moles. **L'arrêt
    sencer i la identitat de Guillem Moles continuen pendents.**
-9. **Mercadier**, *Ébauche d'une description abrégée du département de l'Ariège*,
-   reimpressió de **1819**, p. 3.
+9. ~~**Mercadier**, *Ébauche d'une description abrégée du département de l'Ariège*,
+   reimpressió de **1819**, p. 3.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si la regla de prevenció i el criteri que els Giberga van aplicar el 1749
     són compatibles.** **El corpus les registra totes dues i no les concilia.**~~ —
     **`parcial`**: la fitxa documenta la regla de prevenció i el canvi dels

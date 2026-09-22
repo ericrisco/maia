@@ -228,8 +228,8 @@ manera:**
 
 ## Buits registrats
 
-1. **El cas dels joves i el ball**: **sense data, sense lloc i sense saber què van
-   fer després.** **La font el dona com a «al llarg d'aquests darrers anys».**
+1. ~~**El cas dels joves i el ball**: **sense data, sense lloc i sense saber què van
+   fer després.** **La font el dona com a «al llarg d'aquests darrers anys».**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La resta de la frase de la p. 244** sobre què eren «en realitat» els
    processos de veí a veí i les servituds.~~ — **`resolt` el 16-09-2026 sobre
    la pàgina impresa** (nota 3, començada a la p. 243 i acabada a la p. 244).
@@ -360,12 +360,12 @@ manera:**
    > es publica una norma en un país sense impremta.** **I en dona el motiu amb
    > les seves paraules**: **«prevenint los danys que de estas omissions han
    > patit, pateyxen y patiran les Valls, y molts irremediables».**
-6. **Els documents de 1547, 1601, 1603, 1760, 1875, 1887 i 1888** sencers.
-7. **Com es concilia que un tribunal pugui imposar i indemnitzar una servitud
+6. ~~**Els documents de 1547, 1601, 1603, 1760, 1875, 1887 i 1888** sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Com es concilia que un tribunal pugui imposar i indemnitzar una servitud
    però no pugui declarar la propietat ni concedir danys.** **La font ho constata
-   i no ho explica.**
-8. **Fins on arriba la submissió voluntària** en aquesta jurisdicció: **quan
-   jutja per imperi i quan per compromís de les parts.**
+   i no ho explica.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Fins on arriba la submissió voluntària** en aquesta jurisdicció: **quan
+   jutja per imperi i quan per compromís de les parts.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Què són ***antipeu*** i ***vicrono*** al text de 1364.~~ — **`parcial` el
    17-09-2026: un dels dos mots no existia.** **L'original —ANA, ASC, pergamí
    1.190— no diu *vicrono*: diu *vierono***, «*de antipeu vel de aliquo
@@ -389,8 +389,8 @@ manera:**
    **El corpus no proposa cap esmena**: **esmenar un mot llatí que no es pot
    contrastar amb l'original és inventar-lo.** `Requereix l'original de 1364 o
    una altra còpia.`
-10. **Els *bans y tales* i les *rigueres*** de la llista del manuscrit: **si el
-    corpus els té documentats en altres fonts amb el mateix abast.**
+10. ~~**Els *bans y tales* i les *rigueres*** de la llista del manuscrit: **si el
+    corpus els té documentats en altres fonts amb el mateix abast.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

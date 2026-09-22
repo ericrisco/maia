@@ -321,14 +321,14 @@ català** *(p. 125)*:
 
    **I aporta tres coses que el corpus no tenia:**
 
-   - **La versió catalana del 1588 de la clàusula**, al costat del llatí:
+   - ~~**La versió catalana del 1588 de la clàusula**, al costat del llatí:
      «**mas que tots temps sien empriu de lurs pobles**». **El corpus tenia el
-     llatí i cap versió d'època.**
-   - **El número de l'usatge, per segona via independent**: Costa el numera
+     llatí i cap versió d'època.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**El número de l'usatge, per segona via independent**: Costa el numera
      **«Usages de Barcelona, núm. 72»**, **el mateix 72** que [aquest
      article](#el-que-falta) va establir el mateix dia llegint la pàgina
-     impresa de Ríos Urruti. **Dues fonts, el mateix número.**
-   - **L'equivalència lèxica**: els comentaristes **identifiquen *emparamentum*
+     impresa de Ríos Urruti. **Dues fonts, el mateix número.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**L'equivalència lèxica**: els comentaristes **identifiquen *emparamentum*
      amb *ademprivium*** —**i Costa cita Brutails per dir-ho**—, amb la forma
      aragonesa ***ademprio***.
 
@@ -355,20 +355,20 @@ català** *(p. 125)*:
    segueix oberta.**
 
    **Dues coses més que Balari dona sobre Andorra i el corpus no tenia**, i que
-   **no són del tram citat**:
+   **no són del tram citat**:~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
-   - **La vall d'Andorra donava al comte de Barcelona vuit *pernas bonas* cada
+   - ~~**La vall d'Andorra donava al comte de Barcelona vuit *pernas bonas* cada
      any** —pernils—, **contra les 159 de Prats de Molló, 72 de Molló, 34 de
      Llagostera i 26 de Llívia.** **És, amb diferència, el cens més petit de la
-     llista.** `Requereix la data i el document: Balari no els dona aquí.`
-   - **Una escriptura del 1022** que diu **«*in ualle andorra... in locum que
+     llista.** `Requereix la data i el document: Balari no els dona aquí.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**Una escriptura del 1022** que diu **«*in ualle andorra... in locum que
      dicitur illa trapa*»**, i **Balari identifica la *trapa* com un lloc
      destinat a la caça d'ocells**, per paral·lel amb la Llei Sàlica.
      `Requereix el document.`
 
    **Les disset mencions d'Andorra de l'obra —Encamp, Sant Julià de Lòria, Boet,
-   Arinsal, Altavaca— no s'han destil·lat.** **Buit nou i acotat.**
-5. **Quan es va prohibir l'explotació en comú de les fustes**: **`resolt` el
+   Arinsal, Altavaca— no s'han destil·lat.** **Buit nou i acotat.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Quan es va prohibir l'explotació en comú de les fustes**: **`resolt` el
    16-09-2026 a favor del 1853, amb el document al davant** (peça justificativa
    I, article 8, PDF 27). **El decret del 30 de setembre de 1853 del bisbe Josep
    Caixal i Estradé hi és, i prohibeix «fer repartos vehinals dels productos de
@@ -381,13 +381,13 @@ català** *(p. 125)*:
    **I una precisió que canvia l'enunciat del buit**: **el decret no prohibeix
    l'explotació en comú.** **Prohibeix repartir-ne els diners entre els veïns**,
    que no és el mateix — i **carrega la devolució sobre els béns propis dels
-   cònsols i consellers que ho facin.**
-6. **Els «hechos que nos han sido citados por las autoridades de los Valls
+   cònsols i consellers que ho facin.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Els «hechos que nos han sido citados por las autoridades de los Valls
    relativos a concesiones de aguas, minas, carreteras, monopolios»**, que ell
    invoca com a prova del dret andorrà. **No en dona cap.** **Prioritari: serien
-   la llista de concessions atorgades pel Consell abans del 1918.**
-7. **Si algú va respondre a aquest llibre des de França**, i **si va tenir cap
-   efecte sobre la qüestió de les concessions.** **El corpus no en té notícia.**
+   la llista de concessions atorgades pel Consell abans del 1918.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Si algú va respondre a aquest llibre des de França**, i **si va tenir cap
+   efecte sobre la qüestió de les concessions.** **El corpus no en té notícia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Què va passar entre 1920 i 1929** amb la potestat de concedir. **El corpus
    té el llibre i té la concessió de FHASA, i no té res entremig.**~~ — **`parcial` el 21-09-2026**: la fitxa documenta que el 1918-1920 es reclamava que França no negués a Andorra la potestat de concedir aigües, i que el **27 de març de 1929** es va atorgar la concessió hidroelèctrica de FHASA; el corpus no té encara els actes intermedis que expliquin com es va passar d'una posició a l'altra.
 

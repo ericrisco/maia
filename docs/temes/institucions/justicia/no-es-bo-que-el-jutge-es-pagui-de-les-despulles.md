@@ -382,17 +382,17 @@ i 1859, V, 89.)*
    Palmitjavila segueix registrada i no arbitrada, perquè el manuscrit continua
    sense llegir; el que ha canviat és que ara una de les dues bandes és
    literal.`
-7. **Les dues sentències de la Cour de cassation del 9 de maig de 1845 i del 12
+7. ~~**Les dues sentències de la Cour de cassation del 9 de maig de 1845 i del 12
    de maig de 1859**, **senceres**, **i els fets de cada cas.**
    `Pandectes françaises, mot Andorre, §§ 22 bis i 23; Dalloz Pér. 1845, IV, 265,
    i 1859, V, 89.` **Prioritari**: **són jurisprudència externa sobre l'estatut
-   d'Andorra i el corpus només en té el sumari.**
+   d'Andorra i el corpus només en té el sumari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Si hi ha jurisprudència espanyola equivalent** sobre la mateixa qüestió.
    **La font només tracta la francesa i no diu si n'hi ha d'altra.**
    **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar els
    repertoris jurisprudencials espanyols per comprovar si hi ha casos equivalents.
-9. **Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
-   cita cap**.**
+9. ~~**Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
+   cita cap**.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**El manuscrit de M. Palmitjavila.**~~ — **`resolt` el 18-09-2026**:
     les pp. 197, 217 i 338 són dins l'extracte de Brutails i ja estan llegides.
 

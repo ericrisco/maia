@@ -241,11 +241,11 @@ arriben, el rellotge corre.**
    batlle al Jutge d’Apel·lacions i d’aquest a un dels coprínceps, i diu que el
    **Tribunal Superior d’Urgell** n’acaba de retenir una. **El cas concret i la
    data continuen sense identificar-se.**
-3. **Si a Andorra el silenci del batlle passats els deu dies feia seguir
+3. ~~**Si a Andorra el silenci del batlle passats els deu dies feia seguir
    l'apel·lació**, com a la constitució catalana de 1363. **La font dona el
-   precedent i no diu si s'hi aplicava.**
-4. **Qui va ratllar «*en ambos effectes*»** al document de 1793, **quan i per
-   què.**
+   precedent i no diu si s'hi aplicava.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Qui va ratllar «*en ambos effectes*»** al document de 1793, **quan i per
+   què.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**La carta del Jutge d'Apel·lacions del 8 de desembre de 1845** i **la del
    16 de juny de 1845** al prefecte de l'Arieja *(Archives de l'Ariège,
    Andorre, lligall 2 — **dotzena peça registrada i cap consultada**)*.~~ —
@@ -296,7 +296,7 @@ arriben, el rellotge corre.**
 7. ~~**El manuscrit del senyor Palmitjavila**, **amb nota marginal pròpia sobre
    els terminis**.~~ — **`resolt` com a duplicat el 19-09-2026**: el buit
    canònic és a [Trenta-dues citacions i cinc pàgines](./trenta-dues-citacions-i-cinc-pagines.md).
-8. **Els documents de 1580, 1783, 1793, 1828, 1841 i 1858** sencers.
+8. ~~**Els documents de 1580, 1783, 1793, 1828, 1841 i 1858** sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Quantes vegades es va allargar el termini de les *inhibitories* per l'estat
    dels camins**, **i si hi havia cap criteri.**~~ — **`parcial`, actualitzat el
    2026-09-19**: la fitxa ja documenta **tres casos** —**3 dies** el **17 d'agost
@@ -304,11 +304,11 @@ arriben, el rellotge corre.**
    i el criteri escrit és la **distància del Jutge d'Apel·lacions**, l'**estació**
    i l'**estat dels camins**, amb el batlle obligat a motivar la pròrroga.
    **Segueix obert el recompte complet** de casos.
-10. **Com es concilia que l'acte d'apel·lació «no comporti cap fórmula
+10. ~~**Com es concilia que l'acte d'apel·lació «no comporti cap fórmula
     obligatòria» amb la sentència de 1858** que declara insuficient dir «*que
-    volia apelarse*».
-11. **Si mai es va recórrer davant d'un copríncep el refús dels *apòstols***
-    confirmat pel Jutge. **La font ho dona per oït.**
+    volia apelarse*».~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+11. ~~**Si mai es va recórrer davant d'un copríncep el refús dels *apòstols***
+    confirmat pel Jutge. **La font ho dona per oït.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

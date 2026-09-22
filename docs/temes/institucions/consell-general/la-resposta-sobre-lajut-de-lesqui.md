@@ -95,6 +95,6 @@ disposicions addicional i derogatòria 1.)
   les mesures posteriors. Aquesta resposta de 2021 no acredita vigència actual.~~ —
   **`font_externa` el 2026-09-22**: cal consultar el butlletí complet i les
   mesures posteriors per establir-ne la vigència.
- - [Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
+ - ~~[Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
    originals i lectura compilada exclosos de datasets. **`no-es-buit`**: és un
-   avís de drets, no una pregunta de recerca.
+   avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

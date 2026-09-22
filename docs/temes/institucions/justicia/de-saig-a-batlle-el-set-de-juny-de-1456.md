@@ -248,9 +248,9 @@ Jutge el 19 de novembre de 1846:**
 ## Buits registrats
 
 1. ~~**L'anàlisi antiga dels arxius d'Encamp** que dona la data del 7 de juny de 1456, **i l'original de la decisió.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data i les dues conseqüències atribuïdes a la decisió —el canvi de nom dels saigs i el dret de llicències d'obres—, però no té ni l'anàlisi ni l'original de l'arxiu comunal d'Encamp.
-2. **Si les dues citacions del 7 de juny de 1456** —el canvi de nom dels saigs i el
+2. ~~**Si les dues citacions del 7 de juny de 1456** —el canvi de nom dels saigs i el
    dret de llicències d'obres— **són el mateix document.** **El corpus no les
-   identifica.**
+   identifica.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'enquesta de 1346**, *Archives des Pyrénées-Orientales, C 2098*, i **el
    reglament dels Veguers del 13 de juny de 1356**, als arxius d'Encamp.~~ —
    **`font_externa` el 2026-09-22**: la font dona la signatura de l'enquesta i

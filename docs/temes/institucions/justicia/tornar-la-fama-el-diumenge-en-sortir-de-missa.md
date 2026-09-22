@@ -264,9 +264,9 @@ fet:**
 
 ## Buits registrats
 
-1. **Per què la víctima de la ganivetada del ball va ser condemnada a dos dies
+1. ~~**Per què la víctima de la ganivetada del ball va ser condemnada a dos dies
    d'arrest i a un quart de les despeses.** **La font no ho diu.**
-   **Prioritari**: **és el que faria intel·ligible tot el cas.**
+   **Prioritari**: **és el que faria intel·ligible tot el cas.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El cas del ball sencer**, **amb data** —**la font diu «fa una desena
    d'anys», cap al 1894**— **parròquia i desenllaç.**~~ — **`parcial`**: la fitxa
    situa el cas **cap al 1894**, descriu el desafiament, la ganivetada i les
@@ -330,12 +330,12 @@ fet:**
     **Les galeres, pp. 349-350, i el Politar dona tres raons per les quals
     Andorra els enviava a Espanya i no a França:**
 
-    1. **«per ser mes natural als Espanyols lo portarlos en galeras o presidis de
-       la mateyxa nacio»**;
-    2. **la neu**: «**en lo hivern, tardo ni primavera no se podrie fer si se
+    1. ~~**«per ser mes natural als Espanyols lo portarlos en galeras o presidis de
+       la mateyxa nacio»**;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+    2. ~~**la neu**: «**en lo hivern, tardo ni primavera no se podrie fer si se
        habien de conduir a les galeres de Fransa, a causa de estar los Pirineus y
-       sos camins plens de neu**»;
-    3. **«per ser tambe lo gasto molt menor»**.
+       sos camins plens de neu**»;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+    3. ~~**«per ser tambe lo gasto molt menor»**.
 
     **I una quarta que és de consentiment**: **«per haberho ayxi sempre permes
     los Serenissims Comptes de Foyx y Reys de Fransa, moguts, pot ser, de estas
@@ -349,7 +349,7 @@ fet:**
     **fa fer rebut del lliurament.**
 
     > **Tres mesos l'any, el Pirineu decidia a quin estat anaven a raure els
-    > condemnats andorrans.**
+    > condemnats andorrans.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

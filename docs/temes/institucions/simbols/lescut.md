@@ -120,9 +120,9 @@ gràfiques encara no consten al corpus.
    l'autoritat competent la definició de la forma oficial i el llibre de normes
    gràfiques; per tant, queda pendent trobar aquesta especificació gràfica
    vigent i no es força la transcripció heràldica de Vilar.
-2. **Qui va gravar l'escut del portal i quan.** Vilar diu que l'edifici és del
-   segle XVI i **no data la pedra**.
-3. **Qui va escriure els quatre versos llatins**, i quan.
+2. ~~**Qui va gravar l'escut del portal i quan.** Vilar diu que l'edifici és del
+   segle XVI i **no data la pedra**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Qui va escriure els quatre versos llatins**, i quan.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Si l'escut d'avui és el mateix** que el de la pedra.~~ — **`resolt` el
    17-09-2026, i la resposta és que sí per decisió expressa**, des de les [actes
    del Consell General](../../../fonts/actes-historiques-consell-general.md).

@@ -339,7 +339,7 @@ afegeix és per què la font la considera insostenible, i ho fa amb pàgines del
    **`font_externa` el 2026-09-22**: **la font només en dona la signatura de la
    fórmula de 1574**. **Cal consultar el manuscrit als Arxius dels Pirineus
    Orientals.**
-5. **El document de 1646** amb la fórmula catalana: **sense signatura.**
+5. ~~**El document de 1646** amb la fórmula catalana: **sense signatura.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El *Politar*, pp. 163-164**, **i el *Manual Digest*** en el passatge de la
    «guerra formidable».~~ — **`parcial`: les pp. 244, 276 §10, 279 §25 i 285 §8
    queden `resoltes` el 18-09-2026; les 163 i 164 són les úniques dues pàgines

@@ -304,8 +304,8 @@ tandes.**
    fruita](./el-qui-tastava-el-vi-i-posava-el-preu-de-la-fruita.md) ja documenta
    les funcions i els nomenaments del *mostafà*; queda oberta només la
    classificació exacta com a càrrec judicial.
-5. **Si el dret canònic es va afeblir efectivament** després de 1904, com la font
-   preveia. **Fora de l'abast d'aquesta obra.**
+5. ~~**Si el dret canònic es va afeblir efectivament** després de 1904, com la font
+   preveia. **Fora de l'abast d'aquesta obra.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**La llista dels «aportaments castellans»**, **que el corpus té per
    comprovar un per un** després del cas de *postor*.~~ — **`parcial` el
    2026-09-22**: la fitxa [El dret supletori](./el-dret-supletori.md) ja ha

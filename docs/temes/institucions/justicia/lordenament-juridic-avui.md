@@ -379,10 +379,10 @@ recull**, i el corpus no sap si existeix ni què hi diu.
    [Vuit dies i no més de quinze](../../historia/constitucio-1993/vuit-dies-i-no-mes-de-quinze.md):
    **la Constitució no els treu el poder de dir que no; els treu el poder de no
    dir res.**
-4. **Si passats trenta dies** una llei només es pot impugnar per la via
-   incidental de l'article 100.
-5. **Quantes vegades s'ha fet servir** la delegació legislativa i el procediment
-   d'extrema urgència. El text hi és; **la pràctica, no**.
+4. ~~**Si passats trenta dies** una llei només es pot impugnar per la via
+   incidental de l'article 100.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Quantes vegades s'ha fet servir** la delegació legislativa i el procediment
+   d'extrema urgència. El text hi és; **la pràctica, no**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si alguna llei ha desenvolupat l'article 84** —el costum com a criteri per
    fixar la competència dels quarts i els veïnats— i què hi va determinar.~~
    **`parcial` el 21-09-2026**: la [Llei qualificada de delimitació de

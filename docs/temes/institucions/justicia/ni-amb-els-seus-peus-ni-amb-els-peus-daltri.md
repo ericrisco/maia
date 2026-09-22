@@ -261,14 +261,14 @@ notarials del XV al XVII.**
    mateix capítol.**~~ — **`resolt` el 19-09-2026** com a buit duplicat: les dues
    unitats ja són llegides a [Pendre-se-la de sa pròpia autoritat](./pendre-sela-de-sa-propia-autoritat.md)
    i [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md).
-5. **Les constitucions catalanes de 1283, 1289, 1291, 1321 i 1299.** `obert, amb
-   referència.`
-6. **Si s'empresonava o no per deute civil a Andorra** als segles XVII i XVIII.
+5. ~~**Les constitucions catalanes de 1283, 1289, 1291, 1321 i 1299.** `obert, amb
+   referència.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Si s'empresonava o no per deute civil a Andorra** als segles XVII i XVIII.
    **Dues lectures del mateix text del Politar, i cap document.** `obert,
-   prioritari.`
-7. **Els tres actes de 1603** davant el batlle **Joan Ricart**: **el jurament i
+   prioritari.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Els tres actes de 1603** davant el batlle **Joan Ricart**: **el jurament i
    homenatge del 26 d'octubre, la llibertat sota fiança del mateix dia, i la treva
-   de sis mesos del 5 de setembre.** `obert.`
+   de sis mesos del 5 de setembre.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Quantes treves entre particulars imposava la Justícia andorrana**, i **si se
    n'ha conservat sèrie**. **La font en cita una i diu que l'objecte de
    l'*hostatge* no hi apareix clarament.** `obert, nou.`~~ — **`font_externa` el

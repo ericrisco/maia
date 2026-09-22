@@ -171,7 +171,7 @@ consta:
    **`parcial` el 18-09-2026**: [el dret andorrà vigent](./el-dret-vigent.md)
    compta **104 normes i 8.956 articles**, amb **85 de les 93 datables del 2010
    endavant**; **el que falta és la cronologia any per any**, no el volum.
-5. Per què **1969, fallides** és de les primeres normes econòmiques.
+5. ~~Per què **1969, fallides** és de les primeres normes econòmiques.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El BOPA**: per què es regula dues vegades, el 1983 i el 1989.~~ —
    **`resolt` el 17-09-2026, i la resposta és al primer document que el BOPA va
    publicar mai**: el **Decret del 17 de gener del 1989**, butlletí **núm. 1**

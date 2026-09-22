@@ -303,11 +303,11 @@ la més precisa de totes:**
    avançat, «en les primeres Corts en que sobrien efectes y emoluments a la
    Cort».** **El tribunal no es tanca amb una sentència: es tanca amb una
    liquidació firmada per les dues potestats i pel Consell.**
-8. **Els documents de 1475, 1486, 1895 i 1896** sencers, i **si la pena de 1486
-   era de sous o d'una altra moneda** —**la font mateixa hi posa «[s. ?]»**.
-9. **Qui són els *sabis*** que sostenen la doctrina, **i en quins escrits.**
-10. **Si mai es va apel·lar la sentència d'un veguer sol**, **i davant de qui.**
-    **La font ho declara impossible per raó d'igualtat i no cita cap cas.**
+8. ~~**Els documents de 1475, 1486, 1895 i 1896** sencers, i **si la pena de 1486
+   era de sous o d'una altra moneda** —**la font mateixa hi posa «[s. ?]»**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Qui són els *sabis*** que sostenen la doctrina, **i en quins escrits.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**Si mai es va apel·lar la sentència d'un veguer sol**, **i davant de qui.**
+    **La font ho declara impossible per raó d'igualtat i no cita cap cas.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

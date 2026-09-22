@@ -291,8 +291,8 @@ Tres coses que aquesta taula diu i que no s'endevinen:
 
 ## Buits registrats
 
-1. **Si l'arrest del 12 de maig de 1898 és un de sol amb dos punts de dret o dos
-   de diferents.** La font el cita **dues vegades per a coses distintes**.
+1. ~~**Si l'arrest del 12 de maig de 1898 és un de sol amb dos punts de dret o dos
+   de diferents.** La font el cita **dues vegades per a coses distintes**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El text del privilegi de 1607 sencer.** Ara se'n coneix **la finalitat** i
    **la clàusula d'arxiu en llatí**; **no se'n té el document**.~~ — **`parcial`**:
    la fitxa transcriu la clàusula que obliga a conservar els documents a
@@ -311,8 +311,8 @@ Tres coses que aquesta taula diu i que no s'endevinen:
    confirma que els **protocols notarials** formen part dels fons que conserva i
    que la documentació és d'accés lliure per defecte; **no identifica, però, les
    col·leccions concretes que Brutails deia retingudes ni la seva trajectòria.**
-5. **El cas de la cessió de béns contra un notari** en què les minutes es van
-   separar de l'actiu: **sense data ni referència a la font**.
+5. ~~**El cas de la cessió de béns contra un notari** en què les minutes es van
+   separar de l'actiu: **sense data ni referència a la font**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si les despeses d'enterrament eren crèdit privilegiat.** **Les sentències
    diuen que sí i els pràctics que no**, i **la font no ho tanca.**~~ — **`parcial`**:
    la fitxa documenta la sentència de **27 de novembre de 1868 (?)** i la
@@ -338,8 +338,8 @@ Tres coses que aquesta taula diu i que no s'endevinen:
    **i el batlle hi tenia la seva.** **El despatx i el tribunal es deien igual
    perquè eren la mateixa institució vista per dues bandes.**
    **El corpus no afirma que fossin el mateix local**: això la font no ho diu.
-9. **Si hi havia a Andorra una hipoteca general positiva**, o si se sobreentenia.
-   **La font planteja la pregunta i declara que no té resposta.**
+9. ~~**Si hi havia a Andorra una hipoteca general positiva**, o si se sobreentenia.
+   **La font planteja la pregunta i declara que no té resposta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

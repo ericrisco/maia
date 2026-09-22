@@ -207,10 +207,10 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
 
 ## Buits registrats
 
-1. **Fins on va arribar la correcció de Charles Romeu al text de Vilar.** **La
+1. ~~**Fins on va arribar la correcció de Charles Romeu al text de Vilar.** **La
    font agraeix «correccions precioses» i no diu quines ni sobre què.**
    **PRIORITARI**: **determina com s'ha de llegir tot el volum.** `Caldria
-   correspondència o un manuscrit.`
+   correspondència o un manuscrit.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El decret del 27 de març de 1806**, **el del 3 de juny de 1882** i **el
    del 27 de febrer de 1884**, **sencers**. **El corpus en té articles citats i
    cap text.** **Prioritari**: **són les normes que organitzen la presència

@@ -179,15 +179,15 @@ Vegeu
    text del 2023 sense dir-ho.
 2. ~~**La data exacta del canvi de saig a batlle.**~~ El Politar **la deixa en
    blanc** i el corpus tampoc la té.
-   - **Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del
+   - ~~**Confirmat el 15-09-2026, i ara se sap per què.** El **capítol V del
      llibre II** del Politar torna a explicar el canvi i **deixa l'any en blanc
      dues vegades** —«nomenats ab aquest nom **desde l'any ….**» i «**desde
      l'any …., en que fou concedit a las Valls aquest privilegi**»— i **també hi
      deixa en blanc els noms dels comissionats**
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)). **No és
      que el Politar no ho dati: és que no ho omple.** `Requereix el privilegi
-     mateix, o l'exemplar d'on copia Brutails.`
-   - **Tancat com a `parcial` el 19-09-2026: la data existeix, però no al Politar.**
+     mateix, o l'exemplar d'on copia Brutails.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**Tancat com a `parcial` el 19-09-2026: la data existeix, però no al Politar.**
      **Brutails la dona** i **també en condicional**: «*segons **una anàlisi antiga
      que subsisteix als arxius d'Encamp**, aquesta decisió seria **del 7 de juny de
      1456***» (p. 225). **No és el document: és una anàlisi d'un document, i
@@ -196,25 +196,25 @@ Vegeu
      **Encaixa amb la forquilla documental que la mateixa font aixeca**: **saigs
      atestats el 1433 i el 1434, batlles atestats el 1471, el 1472 i el 1484.**
      **Segueix obert**: **l'anàlisi mateixa, i l'original de la decisió.**
-     `Requereix font externa: l'arxiu comunal d'Encamp.`
-   - **I el 1456 data el tercer Areny.** Si la declaració dels comissaris és del **7
+     `Requereix font externa: l'arxiu comunal d'Encamp.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**I el 1456 data el tercer Areny.** Si la declaració dels comissaris és del **7
      de juny de 1456**, **el plet amb Bernat de Areny** —que és el que la va
      provocar, segons el Politar— **és d'aquella data o d'abans**. **El corpus ho
      registra com a lectura seva**, **no com a afirmació de cap font**: **cap dels
-     dos textos no lliga la data amb el nom.**
+     dos textos no lliga la data amb el nom.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Si hi ha continuïtat real o només reaparició del mot** entre el saig comtal
    del 1390 i el saig del 2023.~~ — **`parcial` el 20-09-2026**: el corpus ja
    documenta **cinc aparicions de l'ofici entre 1305 i 1623**, incloent-hi
    **quatre Arenys**, i té el text que explica el canvi de *saig* a *batlle*.
    **No hi ha prova de parentiu entre els Areny ni que l'ofici fos hereditari**;
    queda oberta la continuïtat genealògica.
-   - **Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
+   - ~~**Afegit el 14-09-2026, i obre una pregunta nova.** El saig comtal del
      **1305** es diu **Bernat de Lareyu** i el del **1390**, **Ramon de
      l'Areny**: **el mateix nom de casa en el mateix ofici, a vuitanta-cinc anys
      de distància**. **El corpus no afirma parentiu ni caràcter hereditari de
      l'ofici**; registra la coincidència i que és comprovable contra el pergamí
-     E 459 i contra el Llibre de la Terra.
-   - **El canvi de nom de `saig` a `batlle` ja té el text que el diu —
+     E 459 i contra el Llibre de la Terra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**El canvi de nom de `saig` a `batlle` ja té el text que el diu —
      15-09-2026.** El **capítol I del llibre II del Politar**
      escriu que els qui avui són **batlles** «**entonces en eix temps antich se
      deyen Saig en vulgar y en lleti Sagiones, fins que los Comissaris dels
@@ -223,8 +223,8 @@ Vegeu
      ([al Bisbe la dignitat, al de Foix el profit](../coprincipat/al-bisbe-la-dignitat-al-de-foix-el-profit.md)).
      **El corpus el tenia per referència i ara en té el text.** **Segueix obert
      quan**: **el Politar no data la declaració dels Comissaris**, i **aquella
-     declaració no és al corpus.**
-   - **I ja se sap de què sortia la declaració — 15-09-2026.** **D'un plet.** El
+     declaració no és al corpus.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**I ja se sap de què sortia la declaració — 15-09-2026.** **D'un plet.** El
      **capítol V del llibre II** diu que els comissionats van venir a declarar
      «**diferents questions que lo Concell de la Vall per una part tenia ab
      Bernat de Areny**, […] acerca de **diferents extorcions que aquest habia
@@ -237,8 +237,8 @@ Vegeu
      parròquia —«vulgarmen dit fer la cisena de Batlle»**
      ([Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md)).
      **El nom de l'ofici, el seu termini i el dret de terna del parlament
-     andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**
-   - **I Ramon de l'Areny és nou anys més antic del que el corpus el tenia.**
+     andorrà tenen tots tres el mateix origen: els abusos d'un sol saig.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**I Ramon de l'Areny és nou anys més antic del que el corpus el tenia.**
      **No apareix el 1390: ja és saig el 7 de desembre de 1381** *(ANA, ASC,
      perg. 5.606)*, quan **mana a dotze homes de les parròquies que es presentin
      a Masseres en sis dies**, davant el procurador comtal, **per respondre del
@@ -250,9 +250,9 @@ Vegeu
      Arnau de Cos que faci complir un manament favorable als andorrans, i el
      veguer ho trasllada **«als seus saig a les Valls, Ramon de l'Areny i
      Guillem de Culties»** *(perg. 5.607)*. **No eren un per senyor i prou: el
-     comte en podia tenir dos alhora.**
+     comte en podia tenir dos alhora.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
-   - **I el mateix 17-09-2026 la parella de saigs es fa vint-i-sis anys més
+   - ~~**I el mateix 17-09-2026 la parella de saigs es fa vint-i-sis anys més
      vella.** **A l'apel·lació andorrana del 2 i 3 de maig de 1364** *(ANA, ASC,
      perg. 1.190)* **hi ha ja dos saigs en exercici**: **Pere de l'Areny, «*sagio
      dictarum Vallium pro dicto domino comite Fuxi*»**, davant qui es llegeix
@@ -264,9 +264,9 @@ Vegeu
      ara cinc en el mateix ofici** —**1305, 1364, 1390, el del 1456 i el batlle
      del 1623**— **i segueix sense afirmar-ne cap relació.** **El que sí que
      afirma és que la duplicitat de saigs no és una anomalia del 1390: és com
-     estava muntat l'ofici.**
+     estava muntat l'ofici.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
-   - **I el 17-09-2026 el corpus deixa de tenir el 1390 de referència i en té
+   - ~~**I el 17-09-2026 el corpus deixa de tenir el 1390 de referència i en té
      els dos documents sencers**, des de les [actes històriques del Consell
      General](../../../fonts/actes-historiques-consell-general.md). **Són dos,
      de cinc dies de diferència, i junts diuen més que qualsevol dels dos.**
@@ -326,14 +326,14 @@ Vegeu
      senyors bisbe d'Urgell i comte de Foix»** —**un sol notari per als dos
      senyors**—, **i les cartes del comte i del veguer hi van inserides en
      occità**. **Un document andorrà del 1390 amb tres llengües dins i cap
-     d'elles és el català.**
+     d'elles és el català.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
-   - **I és un tercer Areny.** **El corpus en té tres en el mateix ofici**:
+   - ~~**I és un tercer Areny.** **El corpus en té tres en el mateix ofici**:
      **Bernat de Lareyu (1305)**, **Ramon de l'Areny (1390)** i **aquest Bernat
      de Areny**, **que és el que va fer que l'ofici deixés de dir-se saig**.
      **El corpus registra els tres i no n'afirma cap relació**, i **no sap la
-     data d'aquest tercer.**
-   - **I un quart, del 19-09-2026, aquest ja amb el nom nou.** **Joan Areny,
+     data d'aquest tercer.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+   - ~~**I un quart, del 19-09-2026, aquest ja amb el nom nou.** **Joan Areny,
      d'Encamp, batlle episcopal**, dicta sentència el **23 de juny de 1623** «*y
      en dit nom jutge primitiu verbal de les causes civils de lesdites Valls*»
      ([dotze sentències de tretze](./dotze-sentencies-de-tretze-les-escrivia-un-altre.md)).
@@ -342,7 +342,7 @@ Vegeu
      cinquena menció** ([aquesta opinió del poble](../../territori/geografia-fisica/aquesta-opinio-del-poble-era-util-de-notar.md)).
      **El corpus segueix sense afirmar cap relació ni cap caràcter hereditari**,
      **i fa constar que la recurrència ja és prou densa per merèixer
-     comprovació**: **cinc aparicions, tres segles, un sol ofici.**
+     comprovació**: **cinc aparicions, tres segles, un sol ofici.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**La Cambra de Saigs**: quants n'hi ha i des de quan.~~ — **`resolt` el
    17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, que **té la sèrie
    sencera i és curta**.

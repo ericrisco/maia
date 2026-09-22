@@ -346,10 +346,10 @@ font andorrana de 1551 fes servir exactament la mateixa construcció jurídica.*
    el corpus ja constata que **el registre no existia el 1904**; també conserva
    què era la *mostra* i quina peça pujava del batlle a les Corts. **Encara no
    fixa l’any de desaparició ni si se’n conserva cap exemplar.**
-8. **Les *Constitucions*, II, i, pp. 175-177**, sobre **les treves entre
-   particulars**, que la font invoca com a marc.
-9. **Si la *pena* de cent ducats de les treves es va cobrar mai**, i **a quin
-   dels tres destinataris alternatius.**
+8. ~~**Les *Constitucions*, II, i, pp. 175-177**, sobre **les treves entre
+   particulars**, que la font invoca com a marc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Si la *pena* de cent ducats de les treves es va cobrar mai**, i **a quin
+   dels tres destinataris alternatius.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si les treves pactades i les imposades convivien o se succeeixen.**~~ —
     **`parcial` el 18-09-2026**: **el corpus té una de cada** —**1551 pactada,
     1603 imposada**—, però **no permet deduir-ne cap evolució**.

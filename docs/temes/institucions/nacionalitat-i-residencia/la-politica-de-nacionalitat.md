@@ -285,19 +285,19 @@ ni al Vaticà.**
   ponència enumera referències comparatives de microestats, però **el corpus
   encara no les ha incorporat ni n’ha comprovat les dades bibliogràfiques
   completes**:
-  - **Armstrong & Read** (1998, 2000) — economia comparada de microestats.
-  - **Baldacchino** (1993, 2008, 2012) — estratègies de jurisdiccions petites.
-  - **Eccardt (2005)**, *Secrets of the Seven Smallest States of Europe*.
-  - **Catudal (1975)**, «The plight of the Lilliputians».
-  - **Anckar (2004)** — eleccions de règim als microestats.
-  - **Domingo (2002)**, «Migracions i microestats», *Papers*.
-  - **Margarit (2012)**, *Les relacions frontereres entre el Principat d'Andorra
+  - ~~**Armstrong & Read** (1998, 2000) — economia comparada de microestats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Baldacchino** (1993, 2008, 2012) — estratègies de jurisdiccions petites.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Eccardt (2005)**, *Secrets of the Seven Smallest States of Europe*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Catudal (1975)**, «The plight of the Lilliputians».~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Anckar (2004)** — eleccions de règim als microestats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Domingo (2002)**, «Migracions i microestats», *Papers*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Margarit (2012)**, *Les relacions frontereres entre el Principat d'Andorra
     i l'Alt Urgell*, **publicada pel CRES a Encamp** — vegeu
     [l'IEA](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md).
-    **Aquesta és andorrana i el corpus no en té res. Buit destacat.**
-  - **Combarnous (1933)**, *Les Vallées d'Andorre. Voyage aux états
+    **Aquesta és andorrana i el corpus no en té res. Buit destacat.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Combarnous (1933)**, *Les Vallées d'Andorre. Voyage aux états
     Lilliputiens* — **el corpus ja el coneix** des de
-    [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md).
+    [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

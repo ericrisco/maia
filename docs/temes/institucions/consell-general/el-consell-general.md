@@ -113,11 +113,11 @@ permeten afirmar que mai se l'anomeni president en altres usos.
   composició nominal de 2026 ni el procediment de les dues votacions electorals.~~ —
   **`parcial` el 22-09-2026**: la pàgina institucional actual confirma els 28
   escons i publica la composició nominal vigent ([fitxa de font](../../../fonts/consell-general-composicio-actual-2026.md)). **El procediment de les dues votacions electorals continua pendent d'una font electoral específica.**
-- No s'ha comprovat la retransmissió televisiva de totes les sessions ni
+- ~~No s'ha comprovat la retransmissió televisiva de totes les sessions ni
   la fidelitat lingüística del Diari respecte a l'àudio. Retirades les
   afirmacions absolutes sobre aquests punts i sobre l'exclusivitat del lèxic
-  en tot el català institucional: no tenien evidència suficient.
- - [Peces del portal](../../../fonts/consell-general-organitzacio.md):
+  en tot el català institucional: no tenien evidència suficient.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~[Peces del portal](../../../fonts/consell-general-organitzacio.md):
    abast de reutilització per peça pendent; lectura exclosa de datasets
    mentre aquesta verificació no s'hagi resolt. **`no-es-buit`**: és un avís de
-   drets, no una pregunta de recerca.
+   drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

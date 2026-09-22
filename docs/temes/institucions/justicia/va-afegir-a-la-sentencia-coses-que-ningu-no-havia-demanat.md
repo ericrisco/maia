@@ -264,10 +264,10 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    sentències triades per un autor i cap sèrie.** **Prioritari.**~~ —
    **`font_externa` el 2026-09-22**: cal consultar la sèrie d'actes del Tribunal
    Superior, que no és al corpus.
-2. **D'on surt l'interès del 4 %** de les condemnes. **Cap de les sentències no
-   cita norma.** **Nou.**
-3. **L'equivalència de la lliura** d'aquests plets amb la pesseta i el duro.
-   **Sense ella, el corpus no pot comparar les tres quantitats.**
+2. ~~**D'on surt l'interès del 4 %** de les condemnes. **Cap de les sentències no
+   cita norma.** **Nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**L'equivalència de la lliura** d'aquests plets amb la pesseta i el duro.
+   **Sense ella, el corpus no pot comparar les tres quantitats.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Si el jutge d'apel·lacions va ser mai corregit per afegir disposicions
    estranyes a la causa més d'una vegada.**~~ **`parcial`:** el corpus ja té
    documentat un cas, el plet de les tres germanes en què el Tribunal Superior
@@ -293,7 +293,7 @@ prefaci)*, **que diu com va poder escriure el llibre:**
    mateixa font de **1904** el dona com a **suplent**. El corpus conserva les dues
    dades; falta la cronologia del canvi o una font que permeti decidir quina llista
    és imprecisa.
-8. **Quants plets andorrans va resoldre aquest tribunal en total.**
+8. ~~**Quants plets andorrans va resoldre aquest tribunal en total.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

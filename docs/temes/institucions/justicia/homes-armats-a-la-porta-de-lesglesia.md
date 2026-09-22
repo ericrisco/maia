@@ -361,8 +361,8 @@ tandes.**
    Palmitjavila confirma que hi havia recurs contra l'ordre de tortura i que els
    veguers nomenaven un altre assessor per resoldre'l, però no defineix quins
    casos tenien apel·lació ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
-9. **El manuscrit de M. Palmitjavila**, **citat dues vegades més en aquesta
-   unitat.** **Segueix sent la pista de prioritat màxima del corpus.**
+9. ~~**El manuscrit de M. Palmitjavila**, **citat dues vegades més en aquesta
+   unitat.** **Segueix sent la pista de prioritat màxima del corpus.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**El *Politar*, pp. 194, 196, 197 i 201.**~~ — **`resolt` el 18-09-2026,
     amb les pp. 177, 337, 339, 340, 341 i 346.** **De la 339 en surt com estava
     moblat el tribunal; de la 201, què hi havia a la sala de la tortura.**

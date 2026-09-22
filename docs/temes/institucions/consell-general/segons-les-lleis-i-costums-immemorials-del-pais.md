@@ -152,9 +152,9 @@ per la via de definir el costum.**
 
 ## Buits registrats
 
-1. **El dossier del 1846**: **Archives de l'Ariège, Andorre, lligall 2**. **La
+1. ~~**El dossier del 1846**: **Archives de l'Ariège, Andorre, lligall 2**. **La
    posició del Jutge d'Apel·lacions, la del Ministeri i la resposta de Guizot.**
-   `obert, prioritari i amb signatura.`
+   `obert, prioritari i amb signatura.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Si la decisió del 1846 va tenir cap efecte.**~~ — **`parcial`, actualitzat el
    2026-09-19**: Brutails, escrivint el **1904**, descriu encara com a vigent la
    pràctica del Consell de definir el costum; per tant, la decisió de París no va
@@ -192,8 +192,8 @@ per la via de definir el costum.**
    documenta **dos `rahonadors`** nomenats pel Consell dins de causes ([dos sous
    per lliura](../justicia/dos-sous-per-lliura-perque-no-sapelli.md)). **La font
    no nomena els delegats ni prova que siguin aquells dos rahonadors.**
-6. **Un exemple de dictamen «signat successivament pels consellers a petició d'una
-   part»**, per veure'n la forma. `obert.`
+6. ~~**Un exemple de dictamen «signat successivament pels consellers a petició d'una
+   part»**, per veure'n la forma. `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Des de quan el Consell General certificava el costum**, i **amb quin
    fonament**.~~ — **`parcial` el 20-09-2026**: **Brutails diu que conservar el
    costum era una missió del Consell, que per a un cas difícil consultava els

@@ -210,9 +210,9 @@ no sempre surt.
   els drets pendents, separats de les condicions de reutilització textual
   de la publicació BOPA ara citada. No s’ha llegit la Memòria 2018.
   No s’ha exportat cap dataset.
-- No s’han consultat informes comunals concrets, cessions, reversions,
+- ~~No s’han consultat informes comunals concrets, cessions, reversions,
   compensacions ni lleis singulars que aixequin un informe vinculant
-  negatiu. La sentència no acredita l’execució de cap d’aquests supòsits.
+  negatiu. La sentència no acredita l’execució de cap d’aquests supòsits.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Lectura de censos, serveis i potestats fiscals de la reforma~~ — **`parcial`
   el 19-09-2026**: no es desenvolupen tots aquí. De la reforma urbanística de
   2018 queda sense destil·lació detallada la major part de l'execució dels plans

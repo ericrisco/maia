@@ -226,10 +226,10 @@ sencera:**
 
 ## Buits registrats
 
-1. **Qui constatava la «impossibilitat legal de seure»** per parentiu, **amb quin
+1. ~~**Qui constatava la «impossibilitat legal de seure»** per parentiu, **amb quin
    grau de parentiu**, i **si la supressió del grau es podia discutir.** **La font
    descriu l'efecte i no el procediment.** **Prioritari**: **és el que determina
-   quantes instàncies té un plet.**
+   quantes instàncies té un plet.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**L'article 13 de la Reforma de 1866**, i **l'article 16**, ja registrat.
    **El corpus segueix sense el text de la Reforma.**~~ — **`resolt` el
    18-09-2026, i la premissa era falsa des del 15 de setembre**: **el corpus té
@@ -291,17 +291,17 @@ sencera:**
    LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
    `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
-5. **El cas «de fa quinze o vint anys»** en què un tribunal de visura va fer
+5. ~~**El cas «de fa quinze o vint anys»** en què un tribunal de visura va fer
    servir els títols escrits **com a pretext** per passar l'afer al batlle.
-   **Sense data ni parts.**
-6. **Les sentències de 1790, 1791, 1792, 1875, 1893 i 1901** senceres.
-7. **Qui era l'*assessor* del Consell General el 1904**, **des de quan** i
-   **d'on**. **La font el coneix i no el nomena.**
-8. **Si el *cònsol degà* té més funcions que la de dipositari**, i **com es
-   determinava qui ho era.**
-9. **Com es concilien el decret de 1893**, que remet un afer de danys a la
+   **Sense data ni parts.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Les sentències de 1790, 1791, 1792, 1875, 1893 i 1901** senceres.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Qui era l'*assessor* del Consell General el 1904**, **des de quan** i
+   **d'on**. **La font el coneix i no el nomena.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Si el *cònsol degà* té més funcions que la de dipositari**, i **com es
+   determinava qui ho era.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Com es concilien el decret de 1893**, que remet un afer de danys a la
    visura, **amb les sentències de 1875**, que declinen els danys. **La font no
-   ho fa.**
+   ho fa.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Què vol dir exactament «causes urbanes»** en aquestes fórmules.~~ —
     **`resolt` el 18-09-2026 amb exemples del *Politar*, p. 253.** **El text
     tracta primer una servitud rústica —el dret de pas per un prat— i després hi

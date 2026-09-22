@@ -49,7 +49,7 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
   [L'Armari de les Set Claus](./larmari-de-les-set-claus.md) —**un armari que
   només s'obre amb les set claus dels set cònsols alhora**, i **que fins al 1978
   en tenia sis**, perquè les parròquies eren sis.
-- La sala del Consell, la cúria, la capella, la cuina. **`no-es-buit`**: és un índex de les estances que la prosa següent ja descriu, no una pregunta de recerca.
+- ~~La sala del Consell, la cúria, la capella, la cuina. **`no-es-buit`**: és un índex de les estances que la prosa següent ja descriu, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 > **Per què hi ha cuina — 17-09-2026.** **Un jurista espanyol que hi va ser el
 > 1918 descriu l'interior «*como una gran posada, con cocinas, cuadras y en el

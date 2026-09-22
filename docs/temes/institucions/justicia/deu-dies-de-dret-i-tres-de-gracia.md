@@ -295,9 +295,9 @@ sentència de batlle **de 1890**:
    batlle per la negativa, el batlle ha de respondre «al peu de la requesta les
    rahons que tindra per la negacio de ella»** — **la denegació d'apel·lació
    s'ha de motivar per escrit i al mateix document.**
-10. **La comparació amb la *Ley de enjuiciamiento civil* espanyola** (arts.
+10. ~~**La comparació amb la *Ley de enjuiciamiento civil* espanyola** (arts.
     540-549 i 734) que la font qualifica de «parentiu manifest, **col·lateral**».
-    **El corpus no té aquesta llei.**
+    **El corpus no té aquesta llei.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 > **DIVERGÈNCIA AFEGIDA EL 16-09-2026, I NO ARBITRADA.** **André Vilar,
 > *L'Andorre* (1904), p. 97**, arriba als mateixos tretze dies per un altre camí:

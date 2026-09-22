@@ -194,12 +194,12 @@ nacionals** en l'altra.
   **`parcial` el 21-09-2026**: la fitxa de [les Diades](../../historia/historiografia/les-diades-andorranes.md)
   n’identifica el número i el tema, però **les ponències de la 26a edició encara
   no són al corpus**.
-- Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat
+- ~~Les altres ponències d'aquesta mateixa Diada: ~~**Ramon Viñas**, *Nacionalitat
   andorrana, present i futur*~~ **LLEGIDA** —
   [el Codi de la nacionalitat de 1977](./el-codi-de-la-nacionalitat-de-1977.md)—;
   ~~**Martina Camiade**, *Concepte d'identitat a través de la història
   andorrana*~~ **LLEGIDA** —
-  [la casa als papers](../../historia/antic-regim/la-casa-als-papers.md).
+  [la casa als papers](../../historia/antic-regim/la-casa-als-papers.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

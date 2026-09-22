@@ -274,9 +274,9 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
 
 ## Buits registrats
 
-1. **Qui va guanyar el plet del *cancellar***, i **què diuen els decrets del 27 de
+1. ~~**Qui va guanyar el plet del *cancellar***, i **què diuen els decrets del 27 de
    maig i del 21 de novembre de 1893**. La font en cita un i **només n'anomena
-   dos**.
+   dos**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La peça justificativa XXIII** de *La Coutume d'Andorre*, en text: **la
    venda de l'andorrà domiciliat a França feta «segons afirma»**.~~ — **`parcial`
    el 2026-09-19**: una segona digitalització ([exemplar d'Internet
@@ -303,15 +303,15 @@ cuant se ha reclamat*»—, **27 de maig** i **21 de novembre de 1893**.
    entre dos candidats proposats pel Consell. **Això documenta la continuïtat i
    el canvi de pràctica, però encara falta el reglament de 1607 sencer i la sèrie
    de nomenaments que permetria comprovar cada aplicació.**
-5. **Per què el 1466-1468 el notari ho és només pel bisbe d'Urgell** i no pels dos
-   cosenyors. **La font no ho comenta.**
+5. ~~**Per què el 1466-1468 el notari ho és només pel bisbe d'Urgell** i no pels dos
+   cosenyors. **La font no ho comenta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Quan es passa d'un notari a quatre, i per quina decisió.**~~ — **`parcial`
    el 18-09-2026**: la font dona **l'estat de 1607** i **l'estat de 1904**;
    **entremig, res**. El decret que creï el segon, el tercer i el quart **no consta**.
-7. **Si el decret episcopal del 30-09-1853 es va arribar a derogar**, o si
-   simplement es va deixar de complir. **Lletra morta no és derogació.**
-8. **Els *signos* reproduïts a la p. 99** són **imatges**: l'evidència de text del
-   corpus **no els conté**. Qui els vulgui veure ha d'anar al facsímil.
+7. ~~**Si el decret episcopal del 30-09-1853 es va arribar a derogar**, o si
+   simplement es va deixar de complir. **Lletra morta no és derogació.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Els *signos* reproduïts a la p. 99** són **imatges**: l'evidència de text del
+   corpus **no els conté**. Qui els vulgui veure ha d'anar al facsímil.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

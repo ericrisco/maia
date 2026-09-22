@@ -160,11 +160,11 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 ## Buits registrats
 
 1. ~~**Com es va aplicar la decisió sobre la carretera.**~~ — **`parcial` el 21-09-2026**: la font documenta una expropiació sense pagament de capital sobre el traçat de la primera carretera del país i admet que hi hauria molt a dir, però el corpus no té els acords del Consell General que expliquin l'aplicació concreta.
-2. **El decret del Consell General que fixa aquest règim de pagament**: **la font el
-   descriu i no el data ni el cita.**
-3. **Quants propietaris hi van quedar afectats**, i **si el Consell va arribar mai a
-   saldar el capital.**
-4. **Si algú va atacar la decisió**, com l'autor diu que era possible.
+2. ~~**El decret del Consell General que fixa aquest règim de pagament**: **la font el
+   descriu i no el data ni el cita.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Quants propietaris hi van quedar afectats**, i **si el Consell va arribar mai a
+   saldar el capital.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Si algú va atacar la decisió**, com l'autor diu que era possible.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**El decret del 12 de maig de 1891 contra el *quart* de les Escaldes**, sencer, i
    **quines obres eren.**~~ — **`parcial` el 21-09-2026**: la fitxa oficial de l’**Arxiu Històric d’Escaldes-Engordany** ([captura del fons](../../../raw/web/institucions/consell-general/arxiu-historic-escaldes-4673502.html)) descriu **1.684 documents dels segles XVII–1982**, inclou el **procés polític de creació de la parròquia** i indica **accés lliure**. És el fons localitzat on cal cercar l’expedient, però encara no s’ha identificat el decret ni les obres concretes.
 6. ~~**El decret del 18 de maig de 1893** i **la concessió de ciments del 24 de
@@ -183,7 +183,7 @@ una carretera](../../territori/paisatge-construit/dos-pianos-i-una-carretera.md)
 8. ~~**Quan es va introduir l'expropiació a Andorra.** **La font diu «innovació
    recent» i no dona ni data ni norma fundacional.**~~ — **`parcial` el 21-09-2026**:
    la **Llei d’expropiació de 1993** ([captura del BOPA](../../../raw/web/institucions/consell-general/llei-expropiacio-1993.txt)) identifica el règim legal anterior com el **Decret de 1958**, modificat el **1974**, i explica que el projecte aprovat el 1989 no es va poder promulgar abans de la Constitució. **Això fixa el primer instrument normatiu localitzat, però no prova quan es va introduir la institució que Brutails anomena «innovació recent» el 1904.**
-9. **Els actes d'*in solutum* de 1831 i de cap al 1875**, sencers.
+9. ~~**Els actes d'*in solutum* de 1831 i de cap al 1875**, sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si els *judicadors* elegits de comú acord entre les parts tenien el mateix
     estatut que els *judicadors jurats***.~~ — **`parcial` el 20-09-2026**:
     **l'acte diu que els primers eren elegits de comú acord entre els atorgants**,

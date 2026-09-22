@@ -312,9 +312,9 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
 
 ## Buits registrats
 
-1. **La col·lecció de tretze sentències** que l'autor va examinar: **de quin
+1. ~~**La col·lecció de tretze sentències** que l'autor va examinar: **de quin
    batlle, de quins anys, i on és.** **La font no ho diu.** **Sense això, el 92 %
-   no es pot comprovar ni ampliar.**
+   no es pot comprovar ni ampliar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Les mesures preses per restringir les consultes a la batllia francesa**:
    **quines, quan, per qui, i si es van aplicar.** **La font diu «crec saber».**~~ —
    **`parcial` el 2026-09-21**: la fitxa conserva que l'autor creia que la

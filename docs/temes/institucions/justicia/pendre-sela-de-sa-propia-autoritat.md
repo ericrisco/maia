@@ -213,14 +213,14 @@ amb autor. El corpus les registra com a seves.`
 3. ~~**L'acte del 12 de març de 1788**, sencer. **Sense signatura d'arxiu a la
    font.**~~ — **`font_externa` el 2026-09-22**: la fitxa només conserva la
    transcripció citada per Brutails i no aporta signatura ni original d'arxiu.
-4. **L'instrument «d'una dotzena d'anys enrere»** —**cap al 1892**— on la confusió
+4. ~~**L'instrument «d'una dotzena d'anys enrere»** —**cap al 1892**— on la confusió
    entre les dues clàusules és aparent. **La font el cita i no el data ni
-   l'identifica.** `obert.`
-5. **Quan es va deixar d'admetre la presa directa per la part interessada**, i
+   l'identifica.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Quan es va deixar d'admetre la presa directa per la part interessada**, i
    **amb quina norma o decisió**. **La font constata que havia desaparegut i no
-   diu ni quan ni com.** `obert, prioritari.`
-6. **L'ordenança del 24 de novembre de 1355**, *Pragmaticas*, IV, xv, 11, p. 117.
-   `obert, amb referència.`
+   diu ni quan ni com.** `obert, prioritari.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**L'ordenança del 24 de novembre de 1355**, *Pragmaticas*, IV, xv, 11, p. 117.
+   `obert, amb referència.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**La clàusula de *ters***, **la tercera traça**, que és a la secció següent del
    mateix capítol *(pp. 89-92)*.~~ — **`resolt` el 19-09-2026** com a buit duplicat:
    la unitat ja és llegida a [El Consell li va dir que suspengués](./el-consell-li-va-dir-que-suspengues.md).

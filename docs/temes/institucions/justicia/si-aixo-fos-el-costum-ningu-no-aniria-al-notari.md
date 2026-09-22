@@ -164,9 +164,9 @@ sentit.**
 
 ## Buits registrats
 
-1. **Les condicions de la successió *ab intestat*** a Andorra el 1904, i **a quina
+1. ~~**Les condicions de la successió *ab intestat*** a Andorra el 1904, i **a quina
    «legislació estrangera» es recorria** per suplir el testament. **La font ho
-   afirma i no ho concreta.** `obert, prioritari.`
+   afirma i no ho concreta.** `obert, prioritari.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Les altres quatre respostes sobre l'usdefruit de la vídua.**~~ —
    **`parcial`**: [cinc respostes](./cinc-respostes-a-la-mateixa-pregunta.md) ja
    ha incorporat **una de les cinc respostes**, amb el magistrat identificat i
@@ -186,9 +186,9 @@ sentit.**
    **el corpus només en té dos**, **tots dos del mateix any i tots dos amb hereu
    viu**. **El que el corpus registra és que els dos exemples que té no serveixen
    de prova**, i **que la clàusula segueix sense veure's escrita.**
-4. **Quantes vegades es va reclamar la llegítima davant el batlle**, i **amb quin
+4. ~~**Quantes vegades es va reclamar la llegítima davant el batlle**, i **amb quin
    resultat**. La font afirma **que el batlle donava la raó al reclamant** i **no
-   cita cap cas.** `obert.`
+   cita cap cas.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**D'on surt el «nou sobre deu»**: **la font no publica el recompte.**~~ —
    **`no-es-buit`**: l'autor ho presenta com una apreciació dels protocols i no
    acompanya la frase amb cap sèrie o recompte publicat.

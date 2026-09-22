@@ -216,14 +216,14 @@ pàgina la daten:**
    **Segueix obert**: **els comptes de les Corts, que el corpus no té**, i **si
    la commutació era realment la font principal d'ingressos** —**la font hi diu
    «és potser per aquest motiu».**
-2. **Com es concilia la definició dels *rahonadors* —dos delegats que **segueixen**
+2. ~~**Com es concilia la definició dels *rahonadors* —dos delegats que **segueixen**
    les Corts— amb l'acte del 2 d'octubre de 1876, en què el Consell els nomena
-   **per tenir-les i fallar apel·lacions**.** **La font no ho comenta.**
-3. **La carta del vescomte de Foix del 26 de desembre de 1877**, **a
+   **per tenir-les i fallar apel·lacions**.** **La font no ho comenta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**La carta del vescomte de Foix del 26 de desembre de 1877**, **a
    l'escrivania del Tribunal Superior**, i **com va acabar la crisi de 1874.**
-   **Prioritari**: **ara se'n sap la ubicació.**
-4. **Quins van ser els vint anys** en què la plaça de veguer francès va restar
-   vacant al segle XVIII *(Archives des Pyrénées-Orientales, C 2101)*.
+   **Prioritari**: **ara se'n sap la ubicació.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Quins van ser els vint anys** en què la plaça de veguer francès va restar
+   vacant al segle XVIII *(Archives des Pyrénées-Orientales, C 2101)*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**El manuscrit del senyor Palmitjavila.**~~ — **`parcial`: les pp. 194,
    336 i 343 del *Politar* queden `resoltes` el 18-09-2026, i la banda del
    Politar ja no és de segona mà.**
@@ -268,7 +268,7 @@ pàgina la daten:**
    testimoni.**~~ — **`no-es-buit` el 20-09-2026**: la font no identifica la
    persona ni el document i desacredita el testimoni per animositat contra el
    jutge; la fitxa no en dedueix cap nom.
-7. **Els documents de 1444, 1492, 1502, 1518, 1604, 1630 i 1739** sencers.
+7. ~~**Els documents de 1444, 1492, 1502, 1518, 1604, 1630 i 1739** sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Si Antoni Martin, jutge el 1599 i «jutge y acessor ordinari» el 1604, és la
    mateixa persona**: **el corpus ho dona per probable i no ho afirma.**~~ —
    **`parcial` el 19-09-2026**: el mateix article ja els relaciona pel nom
@@ -289,8 +289,8 @@ pàgina la daten:**
    *(El buit deia: «Què són les *composicions* que el manuscrit dona com a cas en
    què els Veguers sí que criden el Jutge. El corpus té *composició* al glossari
    com a acord que tanca una causa criminal i no sap si és el mateix ús.»)*
-10. **Si el Jutge, quan departeix els Veguers, podia mai proposar una tercera
-    solució.** **La font ho troba il·lògic i no cita cap norma.**
+10. ~~**Si el Jutge, quan departeix els Veguers, podia mai proposar una tercera
+    solució.** **La font ho troba il·lògic i no cita cap norma.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -303,15 +303,15 @@ enunciat:**
    requalificaven d'ofici l'apel·lació com a súplica i anunciaven que revisarien
    la seva pròpia sentència. **No identifica els jutges, les dates ni cap cas
    concret arribat a la instància superior.**
-7. **La demanda de recurs en termes injuriosos de 1845** i **el rebuig del 19 de
+7. ~~**La demanda de recurs en termes injuriosos de 1845** i **el rebuig del 19 de
    desembre** *(Archives de l'Ariège, Andorre, lligall 2 — **tretzena peça
-   registrada i cap consultada**)*.
-8. **Des de quan es transmetien els recursos per telègraf**, i **si això consta
-   en cap norma.**
-9. **Quantes vegades el Delegat permanent va declarar un recurs inadmissible**,
-   **i si el Tribunal Superior el va contradir mai.**
-10. **L'article del decret de 1888 que remet al procediment dels *conseils de
-    préfecture***, **i què en va aplicar realment el Tribunal.**
+   registrada i cap consultada**)*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Des de quan es transmetien els recursos per telègraf**, i **si això consta
+   en cap norma.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Quantes vegades el Delegat permanent va declarar un recurs inadmissible**,
+   **i si el Tribunal Superior el va contradir mai.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+10. ~~**L'article del decret de 1888 que remet al procediment dels *conseils de
+    préfecture***, **i què en va aplicar realment el Tribunal.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

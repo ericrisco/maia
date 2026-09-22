@@ -212,9 +212,9 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
 
 ## Buits registrats
 
-1. **Quina parròquia, quin reglament i quan** en el *recurs de queixa* que els
+1. ~~**Quina parròquia, quin reglament i quan** en el *recurs de queixa* que els
    Cosenyors van acollir. **La font diu «recentment».** **Prioritari**: **és un
-   precedent de control dels actes del Consell General.**
+   precedent de control dels actes del Consell General.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El final de la frase de la p. 276** sobre per què les mesures d'execució
    són apel·lables a Andorra.~~ — **Tancat el 21-09-2026**: **«*ja que, al costum
    andorrà, **certes requestes són dispensades del procediment de judici i van
@@ -238,8 +238,8 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    **no pensa que s'arribessin a pagar** i ho relaciona amb xifres sovint de
    **500 ducats o similars**, vistes com a fórmules vanes. **No hi ha prova de
    pagament o impagament d'una multa concreta.**
-6. **L'avantatge del *foraster* en el càlcul de les despeses**, que la font
-   remet a més endavant en la mateixa obra. **Pendent de lectura.**
+6. ~~**L'avantatge del *foraster* en el càlcul de les despeses**, que la font
+   remet a més endavant en la mateixa obra. **Pendent de lectura.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**D'on surten les 15 pessetes** de l'audiència fora de feriats: **si és
    aranzel escrit o ús.**~~ — **`parcial`, actualitzat el 2026-09-19**: la font
    fixa les **15 pessetes** com el preu d'una audiència especial fora dels
@@ -250,14 +250,14 @@ d'appel»** i l'obertura de **«Du premier appel»** (p. 273-276) del capítol V
    l'audiència especial fora dels feriats com una **facilitat exclusiva del
    *foraster***. **Segueixen oberts el nombre de sol·licituds i la comprovació
    de si algun andorrà hi podia accedir.**
-9. **L'Usatge *Item inviolabili*** i **la constitució catalana de 1493** sobre
-   els plets d'estrangers.
+9. ~~**L'Usatge *Item inviolabili*** i **la constitució catalana de 1493** sobre
+   els plets d'estrangers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si la conciliació interrompia els terminis de debò.** **La font hi posa
     «sembla».**~~ — **`parcial`**: la fitxa conserva que les temptatives de
     conciliació **semblen interrompre els terminis** entre els estats successius
     de la causa. **La font no ho afirma com a regla segura ni en dona cap cas.**
-11. **El decret del Consell General del 19 de maig de 1890** sobre les citacions
-    al cap de casa resident fora del país.
+11. ~~**El decret del Consell General del 19 de maig de 1890** sobre les citacions
+    al cap de casa resident fora del país.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

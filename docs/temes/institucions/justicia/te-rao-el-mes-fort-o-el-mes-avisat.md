@@ -232,7 +232,7 @@ n'ha llegit:**
 
    *(Fonts: `docs/raw/web/historia/`, baixades el 18-09-2026 de la
    [Viquipèdia](../../../fonts/viquipedia-ca.md).)*
-   - **Segona font, afegida el 16-09-2026, que dona el mecanisme i no el nom.**
+   - ~~**Segona font, afegida el 16-09-2026, que dona el mecanisme i no el nom.**
      *La cuestión de Andorra* (1894), **p. 25**, escrita pel **Consell General**,
      narra que **el bisbe va retirar tots els seus empleats de l'ordre judicial**,
      deixant «*suspensa la jurisdicción más eficaz*»; que **el Consell es va
@@ -247,7 +247,7 @@ n'ha llegit:**
      desterrament** per resultat. **La campanya, diu, «empezó… el antecesor de
      V. E. I.»** — **el predecessor de Casañas—, i no el nomena.** **El corpus no
      el converteix en nom.** Vegeu [ni són ni s'han de considerar
-     espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md).
+     espanyols](../../historia/segle-xix/ni-son-ni-shan-de-considerar-espanyols.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**L'ordre al batlle francès d'admetre les apel·lacions** i **la suspensió que
    el Bisbe hi va respondre**: **textos i dates.**~~ — **`parcial` el 2026-09-21**:
    la fitxa conserva que el batlle francès va rebre l'ordre d'admetre les
@@ -255,7 +255,7 @@ n'ha llegit:**
    suspenent-lo. **No hi consten els textos íntegres ni les dates.**
 3. ~~**Quant va durar la paràlisi**, **quantes presons preventives s'hi van
    allargar** i **què va passar amb les causes avocades pel veguer francès.**~~
-   - **`parcial` des del 20-09-2026: ja té durada mínima.** **Les notes de la
+   - ~~**`parcial` des del 20-09-2026: ja té durada mínima.** **Les notes de la
      p. 252 la daten de **1874 a 1877** com a mínim**: la sentència del vescomte
      de Foix «*en representacio dels Illustres senyors Com-princeps, estant reunit
      en tribunal de Corts per lo negoci civil promogut en grau de apelacio*»
@@ -266,13 +266,13 @@ n'ha llegit:**
      Superior**
      ([li vaig preguntar què feien](./li-vaig-preguntar-que-feien-no-gran-cosa.md)).
      **Segueix obert el contingut de la carta i el desenllaç**, **però ara se'n
-     sap la ubicació.**
-4. **Si l'avocació de les apel·lacions pel vescomte de Foix va ser mai
+     sap la ubicació.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Si l'avocació de les apel·lacions pel vescomte de Foix va ser mai
    discutida o revocada.** **La font la narra i no en diu el desenllaç
-   jurídic.**
-5. **El text del Pareatge de 1278** en la clàusula dels batlles absents
+   jurídic.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**El text del Pareatge de 1278** en la clàusula dels batlles absents
    *(Baudon de Mony, t. II, p. 162)*, **i quan es va començar a aplicar als
-   Veguers.** **La font diu «s'admet» i no dona cap acte.**
+   Veguers.** **La font diu «s'admet» i no dona cap acte.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Els documents de 1492, 1502, 1608 i 1644** sencers.~~ — **`parcial` el
    2026-09-21**: la fitxa en conserva la seqüència i els fets principals —la
    Cúria de **1492**, la compareixença de **1502**, la pena de **1608** i la
@@ -326,9 +326,9 @@ n'ha llegit:**
     havia passat **diversos anys** sense poder complir les seves obligacions i que
     el país s’havia acostumat a la justícia d’un sol veguer. **No en quantifica
     els anys.**
-    - **I hi ha un precedent molt més gros, del 20-09-2026**: **al segle XVIII la
+    - ~~**I hi ha un precedent molt més gros, del 20-09-2026**: **al segle XVIII la
       plaça de veguer **francès** va restar vacant **vint anys*** *(Archives des
-      Pyrénées-Orientales, C 2101)*. **La font no diu quins vint anys.**
+      Pyrénées-Orientales, C 2101)*. **La font no diu quins vint anys.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

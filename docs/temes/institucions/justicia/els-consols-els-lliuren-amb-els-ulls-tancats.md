@@ -286,19 +286,19 @@ sencera, amb el que la font hi afegeix:**
    2026-09-19**: la fitxa ja cita que el primer decret manava **no descomptar els
    dies feriats** en els terminis de visura i que el segon **el va revocar al cap
    de catorze dies**. **Segueixen pendents els textos íntegres dels dos decrets.**
-3. **Les sentències de visura de 1790 amb els noms dels dissidents**: **quantes
-   n'hi ha i fins quan es va fer.**
+3. ~~**Les sentències de visura de 1790 amb els noms dels dissidents**: **quantes
+   n'hi ha i fins quan es va fer.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Per què el suplent del Síndic és el primer conseller de Canillo.**~~ —
    **`resolt` el 19-09-2026**: la font enumera les sis parròquies «**en l'ordre
    de precedència: Canillo, Encamp, Ordino, la Massana, Andorra i Sant Julià**»;
    per això el **primer conseller de Canillo**, primera parròquia en l'ordre,
    era el substitut dels dos síndics ([l'ordre de precedència de les sis
    parròquies](../consell-general/vuitanta-pessetes-per-fer-reunir-el-consell.md)).
-5. **La *Ley de Reforma*, p. 11** —**cinquena tanda que el corpus reclama aquest
+5. ~~**La *Ley de Reforma*, p. 11** —**cinquena tanda que el corpus reclama aquest
    text**— i **el memòria del senyor Anton Picart** —**quarta citació**.
-   **Prioritat màxima.**
-6. **Els decrets i sentències del 1876 (3 d'abril i 19 d'abril), 1877, 1887, 1893
-   i 1899** sencers.
+   **Prioritat màxima.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Els decrets i sentències del 1876 (3 d'abril i 19 d'abril), 1877, 1887, 1893
+   i 1899** sencers.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**El *Politar*, pp. 252 i 253.**~~ — **`resolt` el 18-09-2026, i les dues
    pàgines donen el mecanisme sencer.**
 
@@ -336,7 +336,7 @@ sencera, amb el que la font hi afegeix:**
    com debien ser actors»**, i que per això han de procedir «ab molta maduresa y
    reflecsio», perquè **«serie facil secundar y sufragar moltes vegades a la mera
    malicia y no justicia de las parts»**.
-8. **Quan es va deixar d'exigir els tres *bandejaments*** previs a l'ordre.
+8. ~~**Quan es va deixar d'exigir els tres *bandejaments*** previs a l'ordre.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Quantes vegades el Consell General va atribuir una causa a una jurisdicció
    prohibint a l'altra de conèixer-ne.**~~ — **`parcial` el 19-09-2026**: la
    font diu que ho fa **«de bon grat»** i només dona **un cas**; el corpus no

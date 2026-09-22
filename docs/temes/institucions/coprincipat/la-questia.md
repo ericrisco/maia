@@ -225,9 +225,9 @@ l'article 47 de la Constitució.`
   catalana ni aragonesa: és llenguadociana**, i **el fet que la quèstia del
   Pareatge es taxi en melgoresos diu de quin espai monetari penjaven les Valls el
   1278.** `El que segueix obert és el valor: quant eren 4.000 sous melgoresos.`
-- **Per què els andorrans van demanar el restabliment del 1806.**
-- **Les cròniques dels lliuraments del 1991 i del 1992.**
-- **Si es va pagar mai en fruits**, i **què.**
+- ~~**Per què els andorrans van demanar el restabliment del 1806.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Les cròniques dels lliuraments del 1991 i del 1992.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si es va pagar mai en fruits**, i **què.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El text literal de l'article 47 de la Constitució**, que és la base de la
   dotació actual dels coprínceps.~~ — **`resolt` el 19-09-2026**: el [text
   oficial del Govern](https://www.govern.ad/documents/d/guest/constitucio-d-andorra-1)

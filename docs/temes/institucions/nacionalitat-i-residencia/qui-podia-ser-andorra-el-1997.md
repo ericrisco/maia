@@ -225,10 +225,10 @@ que és el que porta les etiquetes d'any al costat de cada valor.`
 
 ## Buits registrats
 
-1. **El règim transitori de l'article 7.2** i l'efecte retroactiu que Duró
-   denuncia. **Prioritari i sense confirmar.**
-2. **Enric París, segon síndic el 1979**, i quina va ser la seva intervenció
-   sobre integració. El corpus no en té res.
+1. ~~**El règim transitori de l'article 7.2** i l'efecte retroactiu que Duró
+   denuncia. **Prioritari i sense confirmar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Enric París, segon síndic el 1979**, i quina va ser la seva intervenció
+   sobre integració. El corpus no en té res.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Si la regla dels vint-i-cinc anys s'ha escurçat** i quan.~~ `resolt` el
    17-09-2026: **la va escurçar la Llei 10/2004, del 27 de maig**, que —segons
    l'exposició de motius de la Llei 8/2026— «va fixar en **vint anys** el període
@@ -241,14 +241,14 @@ que és el que porta les etiquetes d'any al costat de cada valor.`
    s'hi afegeix que els vint anys poden ser **interromputs**, si els cinc
    anteriors a la sol·licitud són continus
    ([la cadena sencera](./el-codi-de-la-nacionalitat-de-1977.md)).
-4. **La «repudiació» de la nacionalitat francesa**: com funciona el tràmit i si
-   es fa servir encara.
+4. ~~**La «repudiació» de la nacionalitat francesa**: com funciona el tràmit i si
+   es fa servir encara.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Quantes naturalitzacions hi ha hagut** cada any. Cap font del corpus no en
    dona sèrie.~~ — **`resolt` el 17-09-2026 per la via d'Estadística**
    (activitat **A009**, nota anual del 30-03-2026): vegeu
    [La sèrie que les dues ponències no tenien](#la-serie-que-les-dues-ponencies-no-tenien-2004-2025).
    `Segueixen obertes les naturalitzacions anteriors al 2004.`
-6. **Si hi ha hagut mai el debat** que totes dues ponències reclamen.
+6. ~~**Si hi ha hagut mai el debat** que totes dues ponències reclamen.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

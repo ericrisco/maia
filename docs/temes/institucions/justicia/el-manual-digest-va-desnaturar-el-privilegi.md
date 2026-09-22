@@ -288,7 +288,7 @@ jurisdiccions és aquí sencera:**
    un últim cas datat el **4 d’abril de 1603** i no en dona cap de posterior,
    tot i escriure el 1904. **Això fixa la darrera atestació de la font, però no
    prova l’any ni el fet de la desaparició.**
-9. **La constitució catalana de 1493 sobre les «*emparas verbals*».**
+9. ~~**La constitució catalana de 1493 sobre les «*emparas verbals*».**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Si la pràctica d'embargar abans de tot debat tenia cap límit**, **i qui
     l'autoritzava.**~~ — **`parcial`**: la fitxa confirma que l'embargament podia
     practicar-se **al començament del procés i abans de tot debat**, igual que

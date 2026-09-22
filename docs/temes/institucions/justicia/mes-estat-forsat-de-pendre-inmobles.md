@@ -290,18 +290,18 @@ llibre:**
    mateix**, que **la font només coneix per una anàlisi llegida en veu alta pel
    veguer episcopal Pallerola.** `Requereix l'Arxiu Capitular de la Seu d'Urgell.`
    **Prioritari.**
-2. **Què feia el bisbe d'Urgell a Montpeller l'octubre de 1839**, i si hi ha
+2. ~~**Què feia el bisbe d'Urgell a Montpeller l'octubre de 1839**, i si hi ha
    relació amb el final de la primera guerra carlina. **El corpus ho deixa com a
-   pregunta i no hi afirma cap vincle.**
-3. **Si els decrets segueixen en vigor «a títol de llei o de costum».** **La font
-   no tria, i la tria decideix si la derogació va ser vàlida.**
-4. **La segona derogació del decret del 21 d'agost de 1785**, que l'extracció
-   talla. **Prioritari.**
+   pregunta i no hi afirma cap vincle.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Si els decrets segueixen en vigor «a títol de llei o de costum».** **La font
+   no tria, i la tria decideix si la derogació va ser vàlida.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**La segona derogació del decret del 21 d'agost de 1785**, que l'extracció
+   talla. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Cap escriptura anterior al 1785 amb renúncia per clàusula a un benefici
    del costum.**~~ — **Tancat parcialment**: **el censal del 12 de març de 1461.**
    **Segueix obert per al benefici concret de l'ordre mobles/immobles**, que el
    1461 encara no existia.
-6. **El decret del Consell General del 23 de març de 1880** sencer.
+6. ~~**El decret del Consell General del 23 de març de 1880** sencer.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**L'*Instructa*, peces justificatives p. LV** —**quinzena citació**— sobre el
    parell i la bèstia de càrrega.~~ — **`resolt` el 16-09-2026** (PDF 75). **El
    text és aquest**: «**pot lo Batlle reservar al pages lo parell de llaurar y la
@@ -335,12 +335,12 @@ llibre:**
    encants a la plaça de Canillo el 1580**— **i una tercera menció del càrrec
    sense nom**, a la **sentència de les Corts del 15 de novembre de 1533**.
    **Vegeu** [com no s'haja trobat qui més hi haja donat que jo](./com-no-shaja-trobat-qui-mes-hi-haja-donat-que-yo.md).
-9. **Les constitucions catalanes de 1291 i 1298** sobre els béns que es toquen en
+9. ~~**Les constitucions catalanes de 1291 i 1298** sobre els béns que es toquen en
    darrer lloc, i **si la inspiració que la font apunta és demostrable o és una
-   conjectura seva.** **Ella hi posa «potser».**
+   conjectura seva.** **Ella hi posa «potser».**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**El *Recognoverunt proceres*** i la seva fórmula de jurament.~~ — **`parcial` el 2026-09-21**: la fitxa ja conserva la fórmula citada per a obtenir termini de venda d'un immoble: el deutor havia de jurar **«*Se non habere res mobiles, de quibus possit creditori satisfacere*»**, és a dir, que no tenia béns mobles per satisfer el creditor. El corpus encara no té el text complet del *Recognoverunt proceres* ni la referència exacta de l'edició.
-11. **Si la depreciació d'un terç anterior a 1608 té base documental** o és una
-    descripció de l'autor. **La font no en dona cap acte.**
+11. ~~**Si la depreciació d'un terç anterior a 1608 té base documental** o és una
+    descripció de l'autor. **La font no en dona cap acte.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

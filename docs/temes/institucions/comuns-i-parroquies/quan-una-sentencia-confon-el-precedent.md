@@ -80,8 +80,8 @@ els límits del recurs d’empara.
   arguments sobre l'article 83 de la LGOTU i els decrets urbanístics. Els
   originals, els POUP complets, els decrets previs i els informes pericials
   encara no s'han llegit.
-- No s’ha localitzat i llegit la resolució de la Sala posterior a aquesta
-  anul·lació. No es dona per comprovada la classificació actual de la finca.
+- ~~No s’ha localitzat i llegit la resolució de la Sala posterior a aquesta
+  anul·lació. No es dona per comprovada la classificació actual de la finca.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Lectura de la sentència al portal i al BOPA~~ — **`parcial` el 19-09-2026**:
   la còpia del portal del Tribunal s’ha llegit íntegra. Al BOPA s’han rellegit
   capçalera, antecedents 1.1–1.8, fonaments 3.1–3.6 i decisió 1–5; pàgines 8–9

@@ -266,8 +266,8 @@ llegir París:**
    nomenar Foix tres vegades.**
 
    `La data i la peça exactes de la provisió que Vilar cita encara requereixen contrast.`
-2. **Les confirmacions dels reis de Castella i dels Borbons** d'aquelles dues
-   provisions. **La font les menciona en bloc, sense data ni nombre.**
+2. ~~**Les confirmacions dels reis de Castella i dels Borbons** d'aquelles dues
+   provisions. **La font les menciona en bloc, sense data ni nombre.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Si algú ha buscat a l'Arxiu de la Corona d'Aragó després del 1904.** **La
    font declara una cerca infructuosa i el corpus no en té cap altra.**
    **Un negatiu declarat val el que val qui el declara**, i **aquest el declara
@@ -279,9 +279,9 @@ llegir París:**
    contradicció d'aquesta fitxa.** **El corpus en té una pista: el tractat de
    límits amb Espanya.**~~ — **`font_externa` el 2026-09-22**: cal localitzar els
    convenis comercials originals o el registre oficial de tractats.
-5. **L'exposició de motius de la proposició de llei de Carvajal de 1895**,
+5. ~~**L'exposició de motius de la proposició de llei de Carvajal de 1895**,
    sencera. **El corpus en té frases per dues vies —les actes del Congrés i
-   aquesta font— i no el text.**
+   aquesta font— i no el text.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**L'obra de Joan de Déu Trias**, *Constitución política y personalidad
    internacional del Principado de Andorra* (1890).~~ — **`resolt` com a
    duplicat el 19-09-2026**: l'enunciat canònic és a [Villa o tota la vall](../../historia/origens/villa-o-tota-la-vall.md).

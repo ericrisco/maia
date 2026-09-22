@@ -257,12 +257,12 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    **`parcial` el 2026-09-21**: la fitxa en conserva la fórmula literal sobre
    que cap autoritat no prengui jurisdicció ni dret dels altres, però no la
    deliberació completa.
-6. **L'amnistia episcopal de 1882**: **a quants condemnats afectava, de quin
-   delicte, i qui va declarar nul l'acte.**
-7. **Quins eren els precedents d'exercici episcopal del dret de gràcia** que
+6. ~~**L'amnistia episcopal de 1882**: **a quants condemnats afectava, de quin
+   delicte, i qui va declarar nul l'acte.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Quins eren els precedents d'exercici episcopal del dret de gràcia** que
    l'autor suposa que el Bisbe podria citar. **Parla en condicional i no en dona
-   cap.**
-8. **Quins veguers van reivindicar el dret de gràcia i quan.** **Cap cas citat.**
+   cap.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Quins veguers van reivindicar el dret de gràcia i quan.** **Cap cas citat.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**On és, a la riba de la Valira, el lloc de les execucions**, i **si el garrot
    es conserva encara.**~~ — **`parcial`, i bessó de**
    [la pena de mort](./la-pena-de-mort.md#el-que-falta), **on el 18-09-2026 es

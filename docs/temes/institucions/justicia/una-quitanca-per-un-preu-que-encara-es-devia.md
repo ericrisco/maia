@@ -222,8 +222,8 @@ curadors.**
 
 ## Buits registrats
 
-1. **Les sentències del 17-10-1885, 14-05-1886 i 14-05-1892**, senceres, i **de qui
-   eren les finques.**
+1. ~~**Les sentències del 17-10-1885, 14-05-1886 i 14-05-1892**, senceres, i **de qui
+   eren les finques.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La *Instructa* als batlles**, **peça justificativa p. LIV del mateix
    volum**, **que el corpus encara no ha llegit.**~~ — **`resolt` el 16-09-2026**
    (PDF 74). **La rúbrica és *Coses de vendes en lo dret civil* i la regla és
@@ -239,24 +239,24 @@ curadors.**
    **5 sous per cada verbal**, **1 sou de penyorar**, **1 sou i 6 diners de
    lliurar o de signar penyores i de la intima**, i **5 sous de l'empara** i de
    firmar una publicació de béns per anar a l'encant.
-3. **Quina era la indemnització per desdir-se havent donat arres.** **La font diu
+3. ~~**Quina era la indemnització per desdir-se havent donat arres.** **La font diu
    que el costum és vague i que «potser» és l'import de les arres.** **Sense
-   resoldre.**
-4. **La renda de 21 quintars d'herba de 1788**, i **la renda semblant «encara
+   resoldre.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**La renda de 21 quintars d'herba de 1788**, i **la renda semblant «encara
    servida» el 1904**: **quina, on i de qui.** **Informació de tercers, sense
-   document.**
-5. **Els lligalls de Soldevila de 1783** amb vendes a preu fixat per perits.
-6. **Si la renúncia a l'evicció era corrent** o **excepcional.** **La font en dona un
-   cas i no en dona proporció.**
+   document.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Els lligalls de Soldevila de 1783** amb vendes a preu fixat per perits.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Si la renúncia a l'evicció era corrent** o **excepcional.** **La font en dona un
+   cas i no en dona proporció.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Quan va deixar de ser obligatori el lliurament a les vendes amistoses**, i
    **per què es va mantenir a les judicials.**~~ — **`parcial`, actualitzat el
    2026-09-19**: la font ja constata que **el 1904** el lliurament no figura com
    a obligatori en les vendes amistoses, però es manté en les judicials amb
    formalitats i honoraris. **No dona la data del canvi ni n’explica la causa
    històrica.**
-8. **Si la fórmula de la quitança fictícia va tenir mai conseqüències judicials**
+8. ~~**Si la fórmula de la quitança fictícia va tenir mai conseqüències judicials**
    —un plet on es demostrés que el preu no s'havia pagat. **El corpus té el
-   mecanisme i cap cas.**
+   mecanisme i cap cas.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

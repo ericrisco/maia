@@ -266,15 +266,15 @@ tretze surten de deu més tres de gràcia o de deu amb els feriats descomptats.*
    Romeu](../../persones/charles-romeu.md) confirma que era el veguer francès
    d'Andorra en exercici des del **15-03-1887**, i la nota de Vilar en fixa la
    publicació el **1897**. El text directe de l'article encara no és al corpus.
-3. **El dret de rescat d'un any sobre les vendes judicials**: **quin text el
-   fundava**, **qui el discutia** i **si era d'un any exacte.**
-4. **Si el jutge d'apel·lacions va jutjar mai sense anar a Andorra**, i **com es
-   complia l'obligació de pronunciar en territori andorrà.**
+3. ~~**El dret de rescat d'un any sobre les vendes judicials**: **quin text el
+   fundava**, **qui el discutia** i **si era d'un any exacte.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Si el jutge d'apel·lacions va jutjar mai sense anar a Andorra**, i **com es
+   complia l'obligació de pronunciar en territori andorrà.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**La sèrie de jutges d'apel·lacions.**~~ — **`parcial`, actualitzat el
    2026-09-19**: la fitxa identifica **Odon Estañol**, que va morir el **1891**,
    i **Germain Sicart**, nomenat per França aquell any. **No hi ha encara la
    sèrie completa de titulars ni les dates de tots els nomenaments.**
-6. **Quants notables consultava un batlle** — **`obert`, sense xifra.**
+6. ~~**Quants notables consultava un batlle** — **`obert`, sense xifra.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Si la pràctica deixava rastre.**~~ — **`resolt`**: per definició, no; la
    font diu que el consell **no pot tenir cap influència oficial.**
 8. ~~**Si l'absència de formalitat de publicació de les subhastes va donar mai

@@ -240,17 +240,17 @@ mateix**.
    tres documents identificats i cap localització.**~~ — **`font_externa` el
    2026-09-22**: la localització del fons no consta en les fonts locals
    consultades.
-6. **La norma que permet al Jutge d'Apel·lacions «*provehir… en lo lloch de sa
+6. ~~**La norma que permet al Jutge d'Apel·lacions «*provehir… en lo lloch de sa
    habitació*», fos França o Espanya**, **contra el criteri amb què el Consell
    General va anul·lar un edicte el 1890 per no estar signat a Andorra.**
-   `Registrat, no arbitrat.`
-7. **Si la mort del Bisbe suspenia realment els poders del batlle.** **La font
+   `Registrat, no arbitrat.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Si la mort del Bisbe suspenia realment els poders del batlle.** **La font
    diu que ho llegeix al manuscrit i que **va comprovar que el costum de 1904 era
-   menys rigorós**, i no diu quan va canviar.**
-8. **L'*hostatge***, del qual el manuscrit dona precisions i **que el 1904 havia
+   menys rigorós**, i no diu quan va canviar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**L'*hostatge***, del qual el manuscrit dona precisions i **que el 1904 havia
    desaparegut fins del vocabulari dels pràctics.**
    **El corpus en té fitxa** ([ni amb els seus peus ni amb els peus d'altri](./ni-amb-els-seus-peus-ni-amb-els-peus-daltri.md))
-   **i no en té el text del manuscrit.**
+   **i no en té el text del manuscrit.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -167,7 +167,7 @@ exclusiva permanent, hi ha retribució per activitat.
   dues del 2017 sobre transferències als comuns, la del 2021 sobre les mesures
   sanitàries i la del 2022 sobre el nom del matrimoni.`
 
-- **Afegit el 17-09-2026: qui pot recórrer no és només una qüestió de
+- ~~**Afegit el 17-09-2026: qui pot recórrer no és només una qüestió de
   nombre.** **La sentència 2021-2-L és la peça doctrinal més forta que el
   corpus té d'aquest Tribunal**, i **tanca un buit que no estava escrit.**
   **`no-es-buit`**: és una nota de contingut ja incorporada, no una pregunta pendent.
@@ -210,9 +210,9 @@ exclusiva permanent, hi ha retribució per activitat.
   > ni Consultiu, ni de Garanties**, sinó que **és un autèntic Tribunal**.»
 
   **El corpus la reté perquè respon a una confusió freqüent**: **aquí no es
-  demanen dictàmens, es guanyen o es perden processos.**
+  demanen dictàmens, es guanyen o es perden processos.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
-- **Nota `no-es-buit`** — **una llei sí que ha caigut, en part — 17-09-2026.**
+- ~~**Nota `no-es-buit`** — **una llei sí que ha caigut, en part — 17-09-2026.**
   **La sentència del 20
   de desembre del 2022 (causa 2022-1-L) estima parcialment el recurs de set
   consellers generals contra la Llei 30/2022, qualificada de la persona i de la
@@ -220,7 +220,7 @@ exclusiva permanent, hi ha retribució per activitat.
   transitòria quarta** per vulnerar els **articles 6, 11 i 14 de la
   Constitució**. **La matèria és el nom del matrimoni**, i és a
   [casar-se a Andorra](../../societat/familia/casar-se-a-andorra.md).
-  **La resta de disposicions impugnades es declaren conformes.**
+  **La resta de disposicions impugnades es declaren conformes.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**Si el dictamen previ dels coprínceps s'ha fet servir mai**, tampoc; i
   [l'ordenament jurídic avui](lordenament-juridic-avui.md) deixava oberta
   precisament la pregunta de què passa quan un copríncep no sanciona.~~ —
@@ -239,7 +239,7 @@ exclusiva permanent, hi ha retribució per activitat.
   mogut a `Related`, on toca. **El mateix article ja el donava per tancat al
   primer punt d'aquesta llista**, de manera que la fitxa es contradeia amb ella
   mateixa.
-- **Afegit el 18-09-2026: qui hi seu avui.** Aquesta fitxa descrivia el
+- ~~**Afegit el 18-09-2026: qui hi seu avui.** Aquesta fitxa descrivia el
   disseny institucional sense noms. **Dominique Rousseau**, magistrat des
   d'un jurament que substitueix Pierre Subra de Bieusses, és professor de
   Dret Constitucional a la Sorbona i **vicepresident des del 2018**.
@@ -249,7 +249,7 @@ exclusiva permanent, hi ha retribució per activitat.
   Tribunal Europeu de Drets Humans (2015-2024). Detall i fonts a
   [com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md#buits-registrats),
   punt 8. **`no-es-buit`**: és una actualització nominal ja documentada, no una
-  pregunta pendent.
+  pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

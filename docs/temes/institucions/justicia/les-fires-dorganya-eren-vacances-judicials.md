@@ -329,10 +329,10 @@ Andorra:**
    data —**25 de novembre de 1902**—, **els noms dels dos batlles**, **les tres
    fires que la peça declara com a motiu** i **la nota que el paràgraf d'Organyà
    es va afegir després, amb un segon segell.**
-3. **La llista manuscrita «que podia remuntar al segle XVIII»** amb l'addició de
+3. ~~**La llista manuscrita «que podia remuntar al segle XVIII»** amb l'addició de
    la sega i les fires, **i les llistes de Josep Picart i de Palmitjavila**, que
    la font declara **sense caràcter d'autenticitat.** **Prioritari**: **són les
-   úniques fonts del feriat agrícola.**
+   úniques fonts del feriat agrícola.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Quina reforma eclesiàstica espanyola va reduir els feriats andorrans**, **i
    quan.** **La font ho constata i no ho data.**~~ — **`parcial` el 2026-09-21**:
    la font afirma que una decisió eclesiàstica espanyola va reduir el calendari de
@@ -357,9 +357,9 @@ Andorra:**
    conserva que el decret exclou les festes plenes i mitges festes del termini de
    vuit dies per dipositar una fiança, de manera que el còmput processal podia
    allargar-se durant setmanes. **No en té el text íntegre ni la signatura.**
-8. **Les llistes de feriats de 1585** *(Constitucions, III, XXIX, 2)* **i de
+8. ~~**Les llistes de feriats de 1585** *(Constitucions, III, XXIX, 2)* **i de
    1742** *(Vives, Traducción de los Usages, 2a ed., t. I, pp. 241-243)*, **per
-   comparar.**
+   comparar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**L'acte andorrà del 12 de març de 1461** amb la renúncia a les *feriæ messium et vindemiarum*.~~ — **`parcial` el 2026-09-19**: [Els tribunals tancaven per la fira d’Organyà](./els-tribunals-tancaven-per-la-fira-dorganya.md) confirma que Brutails situa en aquesta data una renúncia andorrana a les vacances de messes i verema. **L’acte original encara no s’ha consultat**, i per tant no es poden donar els atorgants ni el text.
 10. ~~**Per què el litigant de 1502 apel·la «*a son senyor lo rey d'Arago*»** i no
     a un copríncep. **La font no ho comenta.**~~ — **`parcial` el 2026-09-21**:

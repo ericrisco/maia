@@ -207,10 +207,10 @@ fet:**
 
 ## Buits registrats
 
-1. **La súplica a «Madama» per tenir *jutge comú***: **sense data i sense
+1. ~~**La súplica a «Madama» per tenir *jutge comú***: **sense data i sense
    identificació de la destinatària** a l'extracció que el corpus llegeix.
    **Prioritari**: **és el document que prova que el costum era el jutge comú i no
-   l'alternança.**
+   l'alternança.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El document del 24 de febrer de 1484** sencer, i **quin «privilegi e costum»
    invocava el Consell** per exigir el nomenament conjunt.~~ — **`parcial` el
    2026-09-21**: la fitxa en conserva la data i el passatge en què el Consell
@@ -317,8 +317,8 @@ fet:**
    LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
    `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
    la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
-8. **Els documents de 1533, 1599, 1601, 1608 i 1696** sencers, i **si alguna
-   d'aquelles protestes va tenir mai efecte.**
+8. ~~**Els documents de 1533, 1599, 1601, 1608 i 1696** sencers, i **si alguna
+   d'aquelles protestes va tenir mai efecte.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Quan i per què el Jutge va deixar de conèixer en primera instància.**~~ —
    **`parcial` el 2026-09-21**: la font documenta el canvi en les peces del **27
    de novembre i del 2 de desembre de 1608**; des d’aleshores el Jutge hi consta

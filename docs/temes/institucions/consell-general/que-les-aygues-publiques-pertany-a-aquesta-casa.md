@@ -317,8 +317,8 @@ defensava.`
    **`parcial` el 2026-09-21**: la font situa el cas cap al **1889**, explica que
    el Consell va hipotecar béns, rendes i emoluments i que part de la suma es va
    repartir entre les parròquies; no identifica el caucionant ni la quantitat ([*La Coutume d'Andorre* (1904)](../../../fonts/brutails-coutume-1904.md)).
-10. **Si algú va impugnar mai cap d'aquestes concessions** davant de cap tribunal,
-    **o si la tesi de la nul·litat es va quedar en el llibre.**
+10. ~~**Si algú va impugnar mai cap d'aquestes concessions** davant de cap tribunal,
+    **o si la tesi de la nul·litat es va quedar en el llibre.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

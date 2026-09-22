@@ -323,17 +323,17 @@ les quatre fa perdre l'andorrana.
   que va derogar tot això, i **què en va conservar**.~~ `resolt` el 17-09-2026,
   **i la premissa era mig falsa: la que va derogar allò és la del 1993** — vegeu
   [Què hi va haver després del 1977](#que-hi-va-haver-despres-del-1977).
-- **El decret del 1941-42** que crea les primeres generacions.
+- ~~**El decret del 1941-42** que crea les primeres generacions.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~***Nacionalitat i drets polítics al Principat d'Andorra***, de Viñas
   (Edicions Andorra Avui, **1989**), que ell mateix remet com a versió
   ampliada.~~ **[parcial · 2026-09-19]** La referència bibliogràfica i l'edició
   ja consten; el corpus encara no ha llegit el llibre.
-- **Quants apàtrides** nascuts a Andorra hi va haver. **Prioritari.**
+- ~~**Quants apàtrides** nascuts a Andorra hi va haver. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si la cadena d'ascendents** segueix sent obligatòria avui.~~ `resolt` el
   17-09-2026: **fins al maig del 2026 sí; des d'aleshores s'ha afluixat un
   graó** — vegeu
   [L'avi que ja no cal que hagi nascut aquí](#lavi-que-ja-no-cal-que-hagi-nascut-aqui).
-- **Quantes persones** van quedar fora per la data de l'1 de gener de 1975.
+- ~~**Quantes persones** van quedar fora per la data de l'1 de gener de 1975.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

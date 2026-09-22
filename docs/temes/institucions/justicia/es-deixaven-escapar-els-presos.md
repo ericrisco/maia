@@ -312,9 +312,9 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 
 ## Buits registrats
 
-1. **Si la decisió del Consell General del 12 de maig de 1866 es va aplicar mai,
+1. ~~**Si la decisió del Consell General del 12 de maig de 1866 es va aplicar mai,
    i si es va derogar.** **Prioritari**: **autoritza detenció de durada
-   discrecional pels cònsols, sense recurs a la Justícia i sense fiança.**
+   discrecional pels cònsols, sense recurs a la Justícia i sense fiança.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Els tres actes de *maleuta*** —**14-12-1551, 08-01-1553 i 09-05-1551**—
    **sencers, amb signatura d'arxiu.** **Prioritari.**~~ — **`font_externa` el
    2026-09-22**: la fitxa en transcriu fragments però no conserva la signatura
@@ -391,8 +391,8 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    patrullas de nit»**, perquè **«ab les omissions de estos ne poden ser en gran
    part responsables los Batlles»**. **Els batlles són «las sentinellas que
    deuhen continuament vetllar per lo publich repos».**
-7. **Les *Constitucions*, IX, i**, sobre **la *manlleuta* en dret català**, que la
-   font invoca com a marc.
+7. ~~**Les *Constitucions*, IX, i**, sobre **la *manlleuta* en dret català**, que la
+   font invoca com a marc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Què eren els *capitans* i els *deseners*** que feien les detencions per
    ordre del batlle.~~ — **`resolt`, actualitzat el 2026-09-19**: [Y si no
    tenen, paciència](./y-si-no-tenen-paciencia.md) transcriu el capítol VII del

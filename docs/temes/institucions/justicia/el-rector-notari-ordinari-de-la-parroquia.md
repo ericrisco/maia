@@ -326,9 +326,9 @@ conserva i on.**
 5. ~~**Si els testaments closos dipositats als rectors es conserven**, i on.~~ —
    **`font_externa` el 2026-09-22**: **la fitxa documenta el dipòsit però no en
    té cap inventari de conservació**. **Cal consultar els arxius parroquials.**
-6. **La sentència del 14 d'abril de 1888** sobre la *procura* privada, i **les
+6. ~~**La sentència del 14 d'abril de 1888** sobre la *procura* privada, i **les
    quatre sentències dels llibres mercantils**, en text sencer: la font en cita
-   el considerant, no el cas.
+   el considerant, no el cas.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Qui eren els dos secretaris de batlle de 1872** en tant que **ofici** —quant
    temps van servir, per a quins batlles— i **si el Consell General va tornar a
    provar el costum amb declaracions de secretaris**.~~ — **`parcial`, actualitzat

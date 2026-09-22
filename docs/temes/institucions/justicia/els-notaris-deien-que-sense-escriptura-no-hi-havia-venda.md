@@ -213,12 +213,12 @@ les vendes judicials. Vegeu
    **I la de l'arrendament la mateixa obra la data dues vegades**: **16 de juny de
    1886 a la p. 87** i **16 de juny de 1888 a la p. 183, nota 1**, amb la mateixa
    doctrina. **El corpus registra les dues i no arbitra.**
-2. **El decret del Consell General del 16 de març de 1887** que anul·la la
-   sentència del suplent del Jutge d'Apel·lacions. `obert, datat i prioritari.`
-3. **Quines són «las lleys del pais»** que preveien expressament el jurament del
-   jutge. **La font les invoca per boca del decret i no les identifica.** `obert.`
-4. **La decisió de les Corts** sobre les fiances escrites: **sense data a la
-   font.** `obert.`
+2. ~~**El decret del Consell General del 16 de març de 1887** que anul·la la
+   sentència del suplent del Jutge d'Apel·lacions. `obert, datat i prioritari.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Quines són «las lleys del pais»** que preveien expressament el jurament del
+   jutge. **La font les invoca per boca del decret i no les identifica.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**La decisió de les Corts** sobre les fiances escrites: **sense data a la
+   font.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**L'acta de la *possessio* d'abril de 1902** que l'autor tenia al davant.~~ —
    **`font_externa` el 2026-09-22**: la nota només n'acredita l'existència i el
    mes; cal localitzar l'acta per llegir-ne el cerimonial i les parts.

@@ -344,12 +344,12 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
     **I la mateixa pàgina posa el mostassaf dins un sistema de control econòmic
     més ample**, amb tres peces més:
 
-    - **Comissaris de satisfacció**, nomenats «de quant en quant» pel Consell
+    - ~~**Comissaris de satisfacció**, nomenats «de quant en quant» pel Consell
       General, **per visitar pesos i mesures, legalitzar-les amb les marques
-      acostumades i prendre les il·legals i falses**, castigant-ne els amos.
-    - **Vigilància dels teixidors de llana i cànem**, «zelant no frauden al
-      publich ab lo teyxir dels draps o en les medides».
-    - **Un dels síndics amb comissió per apujar o abaixar als hostalers i
+      acostumades i prendre les il·legals i falses**, castigant-ne els amos.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+    - ~~**Vigilància dels teixidors de llana i cànem**, «zelant no frauden al
+      publich ab lo teyxir dels draps o en les medides».~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+    - ~~**Un dels síndics amb comissió per apujar o abaixar als hostalers i
       taverners el preu del pa, del vi i de l'oli «segons las circunstancias del
       temps»**, i **l'*afor* anual del blat venut a fiar.**
 
@@ -361,7 +361,7 @@ si»** ([glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md))
     Veguers *no poden* fer hi ha precisament «ordenar cosas acerca […]
     arrendaments de ostals, tabernas, fleques, carniceries, pesos, mesuras […]
     treta de grans, preus de ells»**. **El control de preus és del Consell, i als
-    Veguers els és prohibit tocar-lo.**
+    Veguers els és prohibit tocar-lo.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

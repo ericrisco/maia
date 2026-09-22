@@ -265,7 +265,7 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    manera d'embargar **ha desaparegut** i la fitxa n'identifica l'acte material
    —la creu clavada a les garberes— i la tarifa de **1740**. **Continuen oberts
    el moment de desaparició i qualsevol rastre material o toponímic.**
-5. **Què vol dir «establert», `resolt` el 16-09-2026** sobre la peça
+5. ~~**Què vol dir «establert», `resolt` el 16-09-2026** sobre la peça
    justificativa p. LIX (PDF 79). **El text andorrà ho diu amb altres
    paraules i amb una excepció que el resum francès no recull**: «**La ampara es
    prohibida en las presents Valls y fora de elles de habitant a habitant, si no
@@ -275,7 +275,7 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    queda fora.** **El que protegeix no és ser andorrà: és ser cap de casa.**
    **Segueix obert què es podia embargar aleshores**: **el 1840 s'embarga un
    salari**, que no és moble ni bestiar ni muntura, i **la peça no preveu aquest
-   cas.**
+   cas.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Els documents de 1551, 1604, 1635, 1821, 1828, 1840 i 1891** sencers.~~
    — **`parcial`**: la fitxa ja n'ha extret **dates, actors, objecte de
    l'embargament i conseqüències processals** —inclòs el salari de **1840** i
@@ -285,8 +285,8 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    **`parcial`**: la fitxa en confirma **l'any, l'abast català i la funció de
    reacció contra els abusos**, però **el text de l'ordenança i la seva peça
    d'arxiu continuen pendents.**
-8. **Si les vint-i-quatre hores per *refermar* l'embargament del cònsol consten
-   en cap norma.** **La font diu «m'han dit».**
+8. ~~**Si les vint-i-quatre hores per *refermar* l'embargament del cònsol consten
+   en cap norma.** **La font diu «m'han dit».**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Què és una ***rossina*** i què és un ***cavalló***.~~ — **`resolt` el
    16-09-2026** ([DCVB](../../../fonts/dcvb.md)). **`cavalló`**: **munt d'un cert nombre de
    garbes —generalment deu— que es fa a mesura que es va segant i es deixa enmig
@@ -294,8 +294,8 @@ embargats) del capítol VIII de *La Coutume d'Andorre*, de **J.-A. Brutails**
    el *nunci* hi posava una creu. **`rossina`**: **bèstia morta; esquelet de
    bèstia**, documentat a la Plana de Vic. **Cap dels dos no és mot andorrà
    exclusiu**, i **el DCVB no els localitza a Andorra.**
-10. **Si l'*embarch preventiu* durava fins al final del procés al criminal.**
-    **La font ho creu i no ho documenta.**
+10. ~~**Si l'*embarch preventiu* durava fins al final del procés al criminal.**
+    **La font ho creu i no ho documenta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

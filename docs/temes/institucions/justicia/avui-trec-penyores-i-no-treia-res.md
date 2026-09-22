@@ -246,10 +246,10 @@ feia alguna cosa:**
    quantitat y gastos».**
    **Segueix obert** el text de les pàgines **LVI i LX** aplicat a aquesta fitxa,
    i **els documents dels casos concrets**, que la peça no dona.
-2. **El cas del canal embargat**: **data, parròquia, sindicat de reg i
+2. ~~**El cas del canal embargat**: **data, parròquia, sindicat de reg i
    desenllaç.** **La font el situa «fa una vintena d'anys» i no el
    documenta.** **Prioritari**: **és el cas extrem de l'embargament com a
-   coacció.**
+   coacció.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Per què els deutors preferien abandonar terra que mobles.**~~ — **Tancat
    el 22-09-2026, i amb dues raons.** **La primera, de subsistència**: «*un
    dissortat que posseeix just l'indispensable **queda reduït a la mendicitat si
@@ -300,10 +300,10 @@ feia alguna cosa:**
    Politar deixa en blanc el que no sap o el que no vol fixar** ([El Politar
    andorrà, llegit](../../historia/manual-digest/el-politar.md)). `L'aranzel
    existeix com a estructura i no com a preus. La p. 220 segueix per llegir.`
-7. **Si els nou dies corren des de la primera o de la segona fórmula.** **La font
-   no ho precisa.**
-8. **Quan els *nuncis* van començar a escriure en lloc de comparèixer**, **i si
-   cap norma ho va autoritzar.**
+7. ~~**Si els nou dies corren des de la primera o de la segona fórmula.** **La font
+   no ho precisa.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Quan els *nuncis* van començar a escriure en lloc de comparèixer**, **i si
+   cap norma ho va autoritzar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 9. ~~**Si *embarch* és realment d'importació castellana.** **La font diu «sembla
    ser».**~~ — **`resolt` el 18-09-2026, i la font s'equivocava.** **El
    [DCVB](../../../fonts/dcvb.md) té l'entrada amb aquesta grafia exacta al

@@ -429,9 +429,9 @@ servir les deu files, que sumen el total imprès.`
    font els compta a la mateixa taula que els adults.** `Que hi consti una
    categoria pròpia no demostra que hi hagi instal·lacions separades, que és el
    que la llei exigeix; i el corpus no ho afirma.`~~ — **`parcial`, actualitzat el 2026-09-19**.
-8. **L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
+8. ~~**L'informe de la Federació Iberoamericana de l'Ombudsman** (*Análisis del
    Sistema Penitenciario*, cinquè informe), que Canturri cita pels punts 54 i 55:
-   **Andorra hi participa** i el corpus no ho tenia registrat.
+   **Andorra hi participa** i el corpus no ho tenia registrat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -321,14 +321,14 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    títol 25. **Sense això, la comparació queda registrada i no comprovada.**~~ —
    **`font_externa` el 2026-09-22**: cal consultar les obres comparatives i les
    fonts medievals que la nota bibliogràfica invoca.
-5. **Qui són els «muchos» que en diuen pomposament principat** i **qui són els
+5. ~~**Qui són els «muchos» que en diuen pomposament principat** i **qui són els
    autors de la literatura «sumamente tendenciosa»** que exalta el bisbe o col·loca
    França en peu d'igualtat. **No en nomena cap.** **El corpus té la prestatgeria
    d'on sortien** ([tot venia de la mateixa
    prestatgeria](../../historia/historiografia/tot-venia-de-la-mateixa-prestatgeria.md))
-   **i no pot dir qui és qui aquí.**
-6. **Si existia cap norma andorrana sobre reunió, associació o culte el 1918.**
-   **L'afirmació que no n'hi havia és d'autor i no porta prova.**
+   **i no pot dir qui és qui aquí.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Si existia cap norma andorrana sobre reunió, associació o culte el 1918.**
+   **L'afirmació que no n'hi havia és d'autor i no porta prova.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** Aquí deia que el
    corpus tenia el títol de príncep el 1866 i no abans.**~~ — **`no-es-buit`**:
    **és fals**; el corpus el té el **1762**, amb nom, a *La cuestión de Andorra*
@@ -336,12 +336,12 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    en 1762 el título de Príncipe Soberano**»—, i **Brutails data el 2 de març de
    1762 un decret del mateix bisbe** ([van deixar d'apel·lar a França per
    comoditat](../../historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md)).
-8. **Quan apareix la fórmula en plural aplicada als dos cosenyors alhora**
+8. ~~**Quan apareix la fórmula en plural aplicada als dos cosenyors alhora**
    —*Prínceps sobirans pro indivís*— **i si cap text anterior al 1866 l'atribueix
-   als Pariatges.**
-9. **Si algú va respondre a aquest llibre** des d'Andorra o des de França. **Un
+   als Pariatges.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Si algú va respondre a aquest llibre** des d'Andorra o des de França. **Un
    volum que diu que dir-se príncep d'Andorra afalaga una vanitat pueril és un
-   volum que convida a resposta**, i **el corpus no en té cap notícia.**
+   volum que convida a resposta**, i **el corpus no en té cap notícia.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

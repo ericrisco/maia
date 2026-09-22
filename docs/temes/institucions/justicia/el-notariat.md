@@ -150,7 +150,7 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    quant al fons](./escrupols-quant-a-la-forma-atreviments-quant-al-fons.md).
    **Segueix obert quina part se'n va perdre i si el decret de 1900 es va
    complir.**
-5. **L'adaptació a l'euro** d'un país que no és a la UE.
+5. ~~**L'adaptació a l'euro** d'un país que no és a la UE.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~La **compravenda a carta de gràcia**~~ i el **censal** a Andorra. **La
    carta de gràcia, documentada en volum:** a les minutes de **1875-1877**
    Brutails hi compta **47 vendes a carta de gràcia** contra **55 de

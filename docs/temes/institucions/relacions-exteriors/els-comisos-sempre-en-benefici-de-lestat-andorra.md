@@ -361,8 +361,8 @@ ningú.**
   quina informació bancària queda protegida quan la comissió rogatòria ja és
   conforme.
 - ~~**Quantes comissions rogatòries rep i executa Andorra cada any**, i de quins estats.~~ — **`parcial` el 21-09-2026**: la llei enumera les regles d'execució, la gratuïtat ordinària i les despeses anormals, però el corpus no té la memòria del Consell Superior de la Justícia o del Ministeri Fiscal amb el recompte anual i els estats d'origen.
-- **Quant s'ha comissat en benefici de l'Estat andorrà** per l'article 39.
-  **La regla és clara i la xifra no existeix al corpus.**
+- ~~**Quant s'ha comissat en benefici de l'Estat andorrà** per l'article 39.
+  **La regla és clara i la xifra no existeix al corpus.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**L'article 194 del Codi de procediment penal**, que fixa les formes i els
   terminis del recurs en tres punts d'aquesta llei, i **els articles 190, 191 i
   192 del Codi penal**, que defineixen els secrets de l'article 35. **Els dos

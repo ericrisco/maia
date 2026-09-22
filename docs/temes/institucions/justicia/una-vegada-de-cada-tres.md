@@ -299,12 +299,12 @@ tres.**
    tercera instància d'Urgell fins fa poc.** **Vegeu** [vaig entendre per què els terminis es respectaven tant](./vaig-entendre-per-que-els-terminis-es-respectaven-tant.md).
    **Queda obert** **quant valia aquell terç en casos reals**: **el corpus té la
    proporció i cap liquidació.**
-3. **Els estatuts del sindicat del riu d'Andorra**, i **el plet que va seguir la
-   declaració d'incompetència del seu *bureau*.**
-4. **Els quatre contractes matrimonials de 1649, 1697, 1784 i 1796**, senceres les
-   seves clàusules d'arbitratge.
-5. **Les resolucions del 30 d'octubre de 1863 i d'abril de 1893**, senceres, i **el
-   contracte de matrimoni del 12 d'agost de 1883** que la segona cita.
+3. ~~**Els estatuts del sindicat del riu d'Andorra**, i **el plet que va seguir la
+   declaració d'incompetència del seu *bureau*.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Els quatre contractes matrimonials de 1649, 1697, 1784 i 1796**, senceres les
+   seves clàusules d'arbitratge.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Les resolucions del 30 d'octubre de 1863 i d'abril de 1893**, senceres, i **el
+   contracte de matrimoni del 12 d'agost de 1883** que la segona cita.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El plet de 1885** sobre la forma de les sentències arbitrals, **i com va
    acabar.** **La font diu què proposaria ella i no diu què es va decidir.**~~ —
    **`parcial` el 2026-09-21**: la fitxa conserva les dues posicions —uns litigants

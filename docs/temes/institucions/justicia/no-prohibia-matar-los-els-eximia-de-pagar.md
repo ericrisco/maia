@@ -433,9 +433,9 @@ d'Ers**— **i l'edició de 1904 n'escriu alguns sencers i n'abreuja d'altres.**
    [Tinga's pres per lo Príncep](./tingas-pres-per-lo-princep.md) i
    [Dos de tres, i les parts no ho saben](./dos-de-tres-i-les-parts-no-ho-saben.md).
    `El que segueix obert és quin privilegi de les Valls és el que s'invoca.`
-10. **Les Corts de 1475** senceres, **i què vol dir que d'una pena de 25 lliures
+10. ~~**Les Corts de 1475** senceres, **i què vol dir que d'una pena de 25 lliures
     el condemnat «*se appella, e no segui la appellatio. **Defunctus est**»* —**si
-    la mort del condemnat extingia la pena o si es cobrava dels hereus.**
+    la mort del condemnat extingia la pena o si es cobrava dels hereus.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

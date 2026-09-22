@@ -93,8 +93,8 @@ no s'ha comprovat. Aquests totals no identifiquen l'efecte causal del barem.
   No s'han llegit les actes de les reunions ni la resta de punts del
   diari íntegrament, ni contrastat l'enregistrament. L'informe no aporta
   un recompte numèric de les votacions de comissió.
-- No s'ha contrastat la normativa d'embargaments ni els casos esmentats
-  a la motivació liberal; no s'acrediten aquí actuacions concretes dels saigs.
- - [Drets pendents](../../../fonts/consell-general-dcg-2018-7.md): originals
+- ~~No s'ha contrastat la normativa d'embargaments ni els casos esmentats
+  a la motivació liberal; no s'acrediten aquí actuacions concretes dels saigs.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~[Drets pendents](../../../fonts/consell-general-dcg-2018-7.md): originals
    i lectura de recerca exclosos de datasets. **`no-es-buit`**: és un avís de
-   drets, no una pregunta de recerca.
+   drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

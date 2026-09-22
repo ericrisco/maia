@@ -265,9 +265,9 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
    > cal explicar ja no és quin text és sinó ***d'on surt la segona data***.**
    > **Una errata de premsa i una reforma distinta són dues hipòtesis, i el
    > corpus no en tria cap.**
-2. **Cap cas documentat de plet reprès davant de l'altre batlle** després
+2. ~~**Cap cas documentat de plet reprès davant de l'altre batlle** després
    d'haver-lo perdut. **La font ho dona com a temptació forçosa i no en cita
-   cap.**
+   cap.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Què passava si el veí més pròxim no transmetia la citació.**~~ —
    **`parcial` el 2026-09-21**: la fitxa documenta que la segona citació podia
    lliurar-se al **veí més pròxim** quan l'adreça actual era desconeguda. **La font
@@ -315,16 +315,16 @@ competencia de jurisdicción, porque **par in pari non habet imperium***»**.
    l'alternativa que hi assisteixi **només un** si l'altre no pot o no vol.
    Continua faltant la deliberació íntegra i qualsevol condició que quedi fora
    d'aquest fragment.
-8. **Els documents del segle XV, de 1603, de 1552** *(enviament en possessió,
-   Pièces justificatives p. VII)* **i de 1793.**
-9. **Què és una *tapa*** al document del segle XV. — **segueix obert**: el
+8. ~~**Els documents del segle XV, de 1603, de 1552** *(enviament en possessió,
+   Pièces justificatives p. VII)* **i de 1793.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+9. ~~**Què és una *tapa*** al document del segle XV. — **segueix obert**: el
    [DCVB](../../../fonts/dcvb.md) en dona una desena d'accepcions i **cap no s'imposa per al
    context**; **no es tria per versemblança.** ~~**Què és un *garberó*** i un
    ***testó***.~~ — **`resolt` el 16-09-2026.** **`garberó`**: **diminutiu de
    *garbera***, el munt de garbes. **`testó`**: **moneda dels segles XVI i
    XVII**, d'origen italià, francès i anglès; **a Catalunya era sobretot el nom
    d'una moneda de ral de vuit que corria al segle XVII**, i el DCVB en documenta
-   l'ús el 1609 parlant de «reals testons» trasquilats i falsos.
+   l'ús el 1609 parlant de «reals testons» trasquilats i falsos.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 10. ~~**Quan va deixar la rebel·lia de comportar la pèrdua del dret d'apel·lació.**~~ —
     **`parcial`, actualitzat el 2026-09-19**: la fitxa contrasta l'estat antic
     (la rebel·lia implicava perdre el dret d'apel·lar) amb el règim descrit el

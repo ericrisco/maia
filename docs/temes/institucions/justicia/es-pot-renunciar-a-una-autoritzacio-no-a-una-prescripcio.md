@@ -227,11 +227,11 @@ quan l'ús va deixar de practicar-se.`
    **`parcial`**: la fitxa ja conserva **les dues dates** i la clàusula de
    renúncia a la llei que protegia els venedors lesionats en més de la meitat del
    preu. **Els actes sencers i les signatures d'arxiu continuen pendents.**
-2. **L'estudi de Meynial**, *Des renonciations au moyen âge et dans notre ancien
+2. ~~**L'estudi de Meynial**, *Des renonciations au moyen âge et dans notre ancien
    droit*, ***Nouvelle revue historique du droit*, 1900-1902**. `obert, amb
-   referència completa.`
-3. **Brocá i Amell**, *Instituciones del derecho civil catalán*, **2a ed., t. II,
-   p. 151**. `obert, amb referència completa.`
+   referència completa.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Brocá i Amell**, *Instituciones del derecho civil catalán*, **2a ed., t. II,
+   p. 151**. `obert, amb referència completa.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**La sentència del batlle francès** sobre el pagament dels salaris com a
    obligació sagrada. **Sense data ni nom.**~~ — **`parcial`**: la fitxa conserva
    el principi de la sentència —**el pagament dels salaris és una obligació
@@ -246,7 +246,7 @@ quan l'ús va deixar de practicar-se.`
    do». **La font descriu el muntatge i no en cita cap.**~~ — **`no-es-buit` el
    20-09-2026**: el passatge descriu la fórmula però no identifica cap acte
    concret que la documenti.
-7. **Si els tribunals andorrans van anul·lar mai cap d'aquests actes.** `obert.`
+7. ~~**Si els tribunals andorrans van anul·lar mai cap d'aquests actes.** `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Què és exactament la «nova constitució»** i **el «costum de Barcelona»** a
    què es renunciava, i **per què renunciar-hi feia l'obligació solidària.**~~ —
    **`parcial`**: la fitxa els identifica com els **beneficis que protegien les
