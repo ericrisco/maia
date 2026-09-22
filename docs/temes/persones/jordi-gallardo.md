@@ -80,11 +80,16 @@ institucional; qualsevol relació causal queda oberta.
 
 ## El que falta
 
-- El text de «Bàsquet i valors per a tota una vida».
-- La seva trajectòria completa al BC Andorra abans de l'Europeu del 1998.
-- Testimoni directe sobre el primer títol.
-- Les etapes polítiques posteriors al 2023, que exigeixen fonts específiques i
-  no s'infereixen dels càrrecs anteriors.
+- ~~El text de «Bàsquet i valors per a tota una vida».~~ — **`font_externa` el
+  2026-09-22**: cal obtenir el text o l'enregistrament de la intervenció.
+- ~~La seva trajectòria completa al BC Andorra abans de l'Europeu del 1998.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar els arxius del club i de la
+  competició.
+- ~~Testimoni directe sobre el primer títol.~~ — **`font_externa` el 2026-09-22**:
+  cal una entrevista o testimoni publicat.
+- ~~Les etapes polítiques posteriors al 2023, que exigeixen fonts específiques i
+  no s'infereixen dels càrrecs anteriors.~~ — **`font_externa` el 2026-09-22**:
+  cal consultar fonts institucionals posteriors al 2023.
 
 ## Related
 

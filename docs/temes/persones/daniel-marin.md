@@ -127,9 +127,14 @@ faltar a una sola edició entre el 1998 i el 2012.
   ([font](../../fonts/fiba-daniel-marin-profile.md)).
 - ~~**Els partits dels Jocs dels Petits Estats i els amistosos** ~~— **`obert`,
   confirmat**: **el perfil de FIBA no els inclou.**
-- Una entrevista retrospectiva sobre els quatre ors.
-- Les estadístiques completes de club durant la reconstrucció.
-- El paper posterior al comiat del 2015.
+- ~~Una entrevista retrospectiva sobre els quatre ors.~~ — **`font_externa` el
+  2026-09-22**: cal una entrevista publicada o enregistrada que el corpus no
+  conserva.
+- ~~Les estadístiques completes de club durant la reconstrucció.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar els arxius estadístics dels
+  clubs i competicions.
+- ~~El paper posterior al comiat del 2015.~~ — **`font_externa` el 2026-09-22**:
+  cal una font biogràfica o institucional posterior a 2015.
 
 ## Related
 

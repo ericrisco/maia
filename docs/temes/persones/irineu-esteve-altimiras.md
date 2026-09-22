@@ -78,8 +78,9 @@ casos no se'n treu cap.
    [La Rabassa](../esports/esqui/la-rabassa.md) — **l'única estació de fons
    d'Andorra**, a Sant Julià de Lòria, 15 km de pistes i l'única escola
    d'esquí nòrdic del país.
-3. **Els seus millors llocs de Copa del Món** —quants top-10, quants top-20—
-   que la font no dona.
+3. ~~**Els seus millors llocs de Copa del Món** —quants top-10, quants top-20—
+    que la font no dona.~~ — **`font_externa` el 2026-09-22**: cal calcular-los
+    a partir del registre complet de la Copa del Món.
 4. ~~**Per què entrena a Noruega** i com es finança.~~ — **`parcial` el 19-09-2026**: la fitxa ja documenta que entrena principalment a Noruega amb el **Team Aker Dæhlie**. La raó d'aquesta elecció i el finançament de la seva preparació encara no consten.
 5. ~~**Gina del Rio**, l'altra fondista andorrana, present a Milano Cortina
    2026.~~ — **`resolt` el 2026-09-19**: la [fitxa de Gina del Rio](../esports/esqui/esquiadors/gina-del-rio.md)

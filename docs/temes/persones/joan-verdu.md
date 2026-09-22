@@ -119,7 +119,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
 ## Buits registrats
 
-1. **La font primària de la FIS** amb tots els seus resultats.
+1. ~~**La font primària de la FIS** amb tots els seus resultats.~~ —
+   **`font_externa` el 2026-09-22**: cal consultar i buidar el registre oficial
+   de la FIS.
 2. ~~**Els altres esquiadors andorrans de Copa del Món**: quants n'hi ha hagut,
    quin era el millor abans d'ell. **El corpus no en sap cap.**~~ —
    **`resolt` el 18-09-2026**: **[Mireia Gutiérrez](../esports/esqui/esquiadors/mireia-gutierrez.md)
@@ -149,7 +151,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    ([font](../../fonts/fae-ad-i-coa-federacio-esqui.md)). **El buit que ja
    assenyalava [la subbranca d'esquiadors](../esports/esqui/esquiadors/README.md)
    es confirma també a la font primària.**
-6. **Per què el contrast entre Copa del Món i Mundials.**
+6. ~~**Per què el contrast entre Copa del Món i Mundials.**~~ —
+   **`font_externa` el 2026-09-22**: cal comparar els resultats complets i el
+   calendari de les dues competicions.
 7. ~~**La premsa andorrana** sobre el podi del 2023.~~ — **`resolt` el
    18-09-2026**: **Altaveu, Diari d'Andorra i la mateixa FAE en van fer
    peça el mateix dia**, ja amb l'adjectiu «històric». Verdú, citat per

@@ -105,12 +105,15 @@ Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
 
 ## Buits registrats
 
-1. **Verificar la beca olímpica del COI** de cara a Londres 2012. **No
-   confirmada.**
-2. **Sota quina federació ha competit** i en quines dates. **Desacord IJF /
-   JudoInside obert.**
-3. **La seva trajectòria de rugbi**: anys a la selecció andorrana, partits,
-   posició confirmada.
+1. ~~**Verificar la beca olímpica del COI** de cara a Londres 2012. **No
+   confirmada.**~~ — **`font_externa` el 2026-09-22**: cal el registre del COI o
+   de la federació corresponent.
+2. ~~**Sota quina federació ha competit** i en quines dates. **Desacord IJF /
+   JudoInside obert.**~~ — **`font_externa` el 2026-09-22**: cal contrastar els
+   registres IJF, JudoInside i federatius.
+3. ~~**La seva trajectòria de rugbi**: anys a la selecció andorrana, partits,
+   posició confirmada.~~ — **`font_externa` el 2026-09-22**: cal l'arxiu de la
+   selecció i les actes de partits.
 4. ~~**El VPC Andorra**: què és, des de quan, quin paper té al rugbi
    andorrà.~~ — **`parcial` el 18-09-2026**: **VPC vol dir «Voluntaris de
    Protecció Civil»**, fundat el **1961** com a secció de rugbi del FC

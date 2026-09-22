@@ -71,7 +71,9 @@ el 27 d'octubre, combinat amb la projecció d'**El món de Pau Casals**
    un documental, projectat el **27 d'octubre** junt amb *El món de Pau Casals*
    (1970-1973), de Joan Baptista Bellsolell. Encara no se n'ha consultat el
    contingut intern.
-3. **Detalls de la seva activitat al PSUC.**
+3. ~~**Detalls de la seva activitat al PSUC.**~~ — **`font_externa` el
+   2026-09-22**: cal consultar arxius polítics i biogràfics que la font no
+   incorpora.
 
 ## Related
 
