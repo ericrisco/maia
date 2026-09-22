@@ -255,8 +255,10 @@ carreteres**, **i la fractura institucional que en va sortir.**
    d'aquesta sèrie.**
 5. **L'ordre al general Castellanos** de posar-se a les ordres del síndic general.
    **Sense data ni referència.** **Prioritari pel que afirma.**
-6. **L'expedient del dipòsit de les rendes del bisbe i els canonges el 1836**, amb
-   **intervenció del bisbe d'Albi.**
+6. ~~**L'expedient del dipòsit de les rendes del bisbe i els canonges el 1836**, amb
+   **intervenció del bisbe d'Albi.**~~ — **`font_externa` el 2026-09-22**: la font
+   només en resumeix el resultat; cal consultar l'expedient del dipòsit per
+   comprovar les actuacions i la intervenció d'Albi.
 7. ~~**El dictamen del Consejo de Estado de 1864** i **el del Consejo Real de cap al
    1852**.~~ — **`parcial` el 2026-09-21**: la font ja identifica el dictamen de
    **1864** com a basat en un altre del **Consejo Real de dotze anys abans** i en

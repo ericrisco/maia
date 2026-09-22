@@ -300,9 +300,12 @@ excepció que el resum no duia:**
    conserva el mecanisme dins dels set precedents pontificis. **Encara en falten
    la data, el text de l'autorització i la localització del document.** Enllaça
    amb [el rector, notari ordinari de la parròquia](../../institucions/justicia/el-rector-notari-ordinari-de-la-parroquia.md).
-6. **Els col·lectors de la Reverenda Cambra Apostòlica a Andorra durant les seus
+6. ~~**Els col·lectors de la Reverenda Cambra Apostòlica a Andorra durant les seus
    vacants**: **quantes vegades, quines rendes i quina documentació en queda.**
-   **Prioritari**, i **comprovable**: la Cambra Apostòlica té arxiu.
+   **Prioritari**, i **comprovable**: la Cambra Apostòlica té arxiu.~~ —
+   **`font_externa` el 2026-09-22**: la font descriu el mecanisme, però cal
+   consultar l'arxiu de la Cambra Apostòlica per identificar les vacants, les
+   rendes i les peces conservades.
 7. ~~**La contradicció de la data de Martí IV.**~~ **`parcial` el 19-09-2026:** el
    catàleg BnF dona **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
    Doat 162, f. 50r-51v), en acord amb Vilar i en contradicció amb el 1288 del

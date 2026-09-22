@@ -485,8 +485,10 @@ l'òrgan.**
    es pot comprovar la seva crítica.**~~ — **`no-es-buit` el 20-09-2026**: la
    mateixa font declara que no identifica les peces i la fitxa no les pot
    reconstruir a partir d'aquest passatge.
-5. **La concessió de 1433** feta de comú acord pels dos cosenyors, **Bibliothèque
-   nationale, fons Dupuy, LII, 18-23 i CLIII, 65-69.** `obert, amb signatura.`
+5. ~~**La concessió de 1433** feta de comú acord pels dos cosenyors, **Bibliothèque
+   nationale, fons Dupuy, LII, 18-23 i CLIII, 65-69.**~~ — **`font_externa` el
+   2026-09-22**: la signatura és concreta, però cal consultar el fons Dupuy de
+   la Bibliothèque nationale de France per llegir la concessió.
 6. **Quines són les paraules del «joc de paraules» de la neutralitat.** **La font
    afirma que n'hi ha un i no el descriu.** `obert, prioritari.`
 7. ~~**Els quatre articles erudits de Brutails** —*Revue des Pyrénées* 1891 i 1892,

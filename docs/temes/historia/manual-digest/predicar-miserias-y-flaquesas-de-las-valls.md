@@ -300,9 +300,11 @@ més citades.**
    el 18-09-2026: **Vilar transcriu les conclusions 1 i 12 de les tretze** i
    en conserva la resposta jurada dels andorrans de totes les parròquies
    (*L'Andorre*, pp. 30-33). **Les altres onze encara no són al corpus.**
-2. **La informació de 1404 sencera**, ara amb adreça: **Archives de Perpignan,
+2. ~~**La informació de 1404 sencera**, ara amb adreça: **Archives de Perpignan,
    Série C 2098, liasse.** **Prioritari, i és la pista d'arxiu més precisa que el
-   corpus té.**
+   corpus té.**~~ — **`font_externa` el 2026-09-22**: la font ja dona la signatura,
+   però cal consultar la peça a l'Arxiu dels Pirineus Orientals per llegir-la
+   sencera.
 3. ~~**La llei de 1433 sencera**, **catorze articles.**~~ — **`parcial` el
    18-09-2026: **la font en dona les matèries dels catorze articles** —rendes
    eclesiàstiques, aigües, herbes, pesca i entrada de ramats estrangers—, **el

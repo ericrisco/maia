@@ -153,8 +153,9 @@ relacionades; registra que ara hi ha una finestra temporal.`
 
 ## El que falta
 
-- **L'acte d'aprovació francès del 10 d'abril de 1868.** `Nou, i és la peça que
-  diria què va aprovar exactament França.`
+- ~~**L'acte d'aprovació francès del 10 d'abril de 1868.**~~ — **`font_externa`
+  el 2026-09-22**: la cronologia només en dona la data i el ministeri; cal
+  consultar l'expedient diplomàtic francès per saber què es va aprovar exactament.
 - ~~**Què va motivar la reforma i contra què.**~~ — **`resolt`.** La va motivar
   **la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la
   llana caient** i els primers indicis de **recursos agrícoles insuficients**; i
