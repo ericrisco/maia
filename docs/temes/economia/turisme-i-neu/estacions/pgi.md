@@ -98,8 +98,8 @@ l'any i no només a l'hivern.**
 
 ## El que falta
 
-- **Quanta gent hi treballa i què factura.**
-- **La rivalitat entre SAETDE i el Comú de Canillo**: d'on ve, i des de quan.
+- ~~**Quanta gent hi treballa i què factura.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La rivalitat entre SAETDE i el Comú de Canillo**: d'on ve, i des de quan.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Qui és Joan Viladomat.**~~ — **`parcial`**: el corpus l'identifica com el fundador de PGI el 2005 i fill de Francesc Viladomat; la biografia completa i la seva trajectòria professional encara no hi són documentades.
 - ~~**Si PGI segueix activa.** **La font no dona cap data posterior al 2005 tret
   de la llista de projectes.**~~ — **`resolt` el 20-09-2026**: el [web oficial

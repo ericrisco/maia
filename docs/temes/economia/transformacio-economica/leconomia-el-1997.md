@@ -172,9 +172,9 @@ tradicionals més aquestes tres. **Buit registrat: quantes n'hi ha avui.**
 
 ## Buits registrats
 
-1. **El tancament de la frontera de 1959**: durada, com es va resoldre, quines
-   conseqüències. **Prioritari.**
-2. **L'INAF** (1989) i la seva evolució fins a l'AFA d'avui.
+1. ~~**El tancament de la frontera de 1959**: durada, com es va resoldre, quines
+   conseqüències. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**L'INAF** (1989) i la seva evolució fins a l'AFA d'avui.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Els canvis de lletres de 1867**~~ — **`parcial` el 2026-09-19**:
    l'intercanvi amb Espanya i França tenia per objectiu establir una **zona de
    lliure circulació per als excedents ramaders** ([el reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)). **El text de les cartes encara no s'ha llegit.**
@@ -188,8 +188,8 @@ tradicionals més aquestes tres. **Buit registrat: quantes n'hi ha avui.**
    ha canviat amb l'acord d'associació. **I aquesta fitxa data l'acord el 1991
    mentre que dos documents més del corpus el daten el 1990**: la divergència
    queda registrada a [la duana](../comerc/la-duana.md) i **no s'arbitra**.
-5. **Quantes d'aquelles cinc sortides s'han fet**, i què va ser del túnel del Rat
-   i del port de Cabús.
+5. ~~**Quantes d'aquelles cinc sortides s'han fet**, i què va ser del túnel del Rat
+   i del port de Cabús.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Les xifres d'avui** per a cadascuna d'aquestes taules. **Cap dada
    d'aquesta fitxa no s'ha de donar per vigent.**~~ — **`no-es-buit`, confirmat
    el 20-09-2026**: és un avís de vigència de la fitxa de 1995-1997, no una

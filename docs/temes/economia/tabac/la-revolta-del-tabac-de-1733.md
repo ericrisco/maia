@@ -181,9 +181,9 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 
 ## Buits registrats
 
-1. **Els noms dels cinc condemnats al penal d'Orà el 1735.** Mas no els dona.
+1. ~~**Els noms dels cinc condemnats al penal d'Orà el 1735.** Mas no els dona.
    **Buit prioritari**: és una deportació d'andorrans i el corpus no en sap cap
-   nom.
+   nom.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El text de la prohibició de conreu** de Guinda i del Consell, i la seva
    data exacta. El corpus la situa entre **1728 i 1733** perquè és el que la
    narració permet, **no perquè tingui la data**.~~ — **`resolt` el 17-09-2026,
@@ -218,12 +218,12 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
    és del 18 de juny de 1731**, i el corpus la situava entre el 1728 i el 1733.
    **Segona, que no és un acte sinó una sèrie de cinc en dos anys**, i **la
    sèrie mateixa és la prova que no s'obeïa** —el Consell ho diu ell mateix el
-   1733. **Tercera, que el Consell no actua contra el bisbe sinó amb ell, i
+   1733. ~~**Tercera, que el Consell no actua contra el bisbe sinó amb ell, i
    invocant la seva pròpia jurisdicció.** **La revolta del 1733 no esclata
-   contra una prohibició nova: esclata contra la quarta.**
+   contra una prohibició nova: esclata contra la quarta.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**La instructa de c. 1790** i si és el «decret de Boltàs» de la tradició.~~ — **`parcial` el 21-09-2026**: Mas situa una instructa episcopal cap al **1790** que limita el conreu al consum propi i el corpus identifica **Josep Boltas** com el copríncep d'aquell any; queda oberta la identificació documental de la instructa i si és el decret tradicionalment atribuït a Boltàs.
-4. **On és el Puialt.** El topònim apareix com «el Puialt d'Andorra» i el corpus
-   no l'ha situat ([toponímia](../../territori/toponimia/toponimia-andorrana.md)).
+4. ~~**On és el Puialt.** El topònim apareix com «el Puialt d'Andorra» i el corpus
+   no l'ha situat ([toponímia](../../territori/toponimia/toponimia-andorrana.md)).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Quant és una arrova** de tabac.~~ — **`resolt` el 21-09-2026**: la taula de mesures del corpus equival una arrova a **26 lliures**, és a dir, **10,400 kg** ([les mesures i les monedes](../comerc/les-mesures-i-les-monedes.md)).
 6. ~~**Què va passar amb els dos capturats pels duaners espanyols** el 1757. La
    font només segueix els que van tornar.~~ — **`parcial` el 21-09-2026**: la font conserva que dos dels cinc homes van ser capturats pels duaners espanyols i que els tres restants van tornar a Andorra, però no dona l'acte ni el desenllaç dels dos capturats.

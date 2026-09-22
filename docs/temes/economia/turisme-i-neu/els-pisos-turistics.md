@@ -206,15 +206,15 @@ l'alçada d'un mur de pedra seca.
 
   **Quatre decisions que fan l'impost menys recaptador del que sembla:**
 
-  - **Els residents andorrans no el paguen** (article 4.1.a) —**és un impost
-    sobre el visitant, no sobre l'estada**.
-  - **Els menors de 16 anys tampoc**, i **si no tenen document, val la
-    declaració de l'acompanyant** (article 4.3).
-  - **Només es paguen els set primers dies**: «per a les estades d'una durada
+  - ~~**Els residents andorrans no el paguen** (article 4.1.a) —**és un impost
+    sobre el visitant, no sobre l'estada**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Els menors de 16 anys tampoc**, i **si no tenen document, val la
+    declaració de l'acompanyant** (article 4.3).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Només es paguen els set primers dies**: «per a les estades d'una durada
     superior a 7 dies en un mateix allotjament turístic, **la superació de
     l'esmentat termini**» queda exempta (article 4.1.c). **El sostre per estada
-    és, doncs, de 21 € en un cinc estrelles i 14 € en un HUT.**
-  - **Les àrees d'acollida d'autocaravanes queden fora del fet generador**
+    és, doncs, de 21 € en un cinc estrelles i 14 € en un HUT.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Les àrees d'acollida d'autocaravanes queden fora del fet generador**
     (article 3).
 
   **Qui paga i qui ingressa no són el mateix.** **El contribuent és qui s'hi
@@ -237,4 +237,4 @@ l'alçada d'un mur de pedra seca.
   no hi entren** (article 21.2) i **el Govern el pot desviar «a altres
   finalitats d'interès general» si s'activa la Llei qualificada dels estats
   d'alarma i d'emergència** (article 22.2). `Requereix la xifra recaptada i la
-  liquidació del Fons, que no són en aquesta llei.`
+  liquidació del Fons, que no són en aquesta llei.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

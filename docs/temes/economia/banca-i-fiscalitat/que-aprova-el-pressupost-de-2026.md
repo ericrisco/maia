@@ -279,7 +279,7 @@ principal es calcula.`
   **`no-es-buit` el 2026-09-22**: és una **cautela metodològica** sobre una
   correspondència encara hipotètica, no una pregunta factual independent; els
   totals no s'han presentat com si fossin independents.
-- Només s'han llegit les pàgines delimitades a la
+- ~~Només s'han llegit les pàgines delimitades a la
   [fitxa](../../../fonts/govern-pressupost-2026.md). ~~Resta de l'articulat,
   partides ministerials, justificacions i pluriennals pendents.~~ — **`parcial`
   el 2026-09-18**: **les partides ministerials es tanquen** —els tretze
@@ -290,6 +290,6 @@ principal es calcula.`
   que ja s'han llegit**: **l'ampliació del Centre Penitenciari**
   ([la presó sense llei](../../institucions/justicia/la-preso-sense-llei.md)),
   **els arrendaments del SAAS** i **l'eficiència energètica del pavelló
-  poliesportiu** ([el Comitè Olímpic](../../esports/competicio/el-comite-olimpic.md)).
- - Drets del llibre pendents; originals i lectura no s'exporten a datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+  poliesportiu** ([el Comitè Olímpic](../../esports/competicio/el-comite-olimpic.md)).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Drets del llibre pendents; originals i lectura no s'exporten a datasets.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

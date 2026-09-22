@@ -187,7 +187,7 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   consultar-lo, però el text legal i la llista pública de llicències no
   publiquen el nombre de persones inscrites. El recompte requereix dades del
   Consell Regulador Andorrà del Joc.
-- **I una xifra nova que el corpus no tenia** —**`resolt` el 2026-09-18**:
+- ~~**I una xifra nova que el corpus no tenia** —**`resolt` el 2026-09-18**:
   **què val el joc per a l'Estat.** El pressupost del 2026
   (`docs/raw/pressupost-2026/llibre-llei-pressupost-2026.txt`) preveu recaptar:
 
@@ -200,7 +200,7 @@ sense ànim de lucre —**però només fins a 5.000 euros per sessió o sorteig*
   **El bingo hi és una figura pròpia i val el 25,6% del total.** **I els dos
   junts són el 0,6% dels impostos indirectes**
   ([els tipus impositius](../banca-i-fiscalitat/els-tipus-impositius.md)):
-  **el joc, fiscalment, encara és petit.**
+  **el joc, fiscalment, encara és petit.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El Consell Regulador Andorrà del Joc** (títol III) i el **Servei
   d'Inspecció** (títol V) queden per llegir.~~ — **`resolt` el 17-09-2026, i
   el que hi ha és un regulador que és el Govern.**

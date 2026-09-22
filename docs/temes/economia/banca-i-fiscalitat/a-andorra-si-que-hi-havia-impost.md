@@ -276,9 +276,9 @@ secretari del Consell General.**
    font diu que el Consell oferia les tres jurisdiccions successives «*par
    sectionnement*», és a dir, per seccionament intern (p. 79, nota 1). **No
    explica quins consellers formaven cada secció ni com es designaven.**
-5. **DIVERGÈNCIA**: **la part del bisbe en la quèstia, 450 francs (Vilar) o 450
+5. ~~**DIVERGÈNCIA**: **la part del bisbe en la quèstia, 450 francs (Vilar) o 450
    pessetes (el corpus).** `No arbitrada.` **`no-es-buit`**: és una divergència
-   registrada que no s'ha d'arbitrar sense una font millor.
+   registrada que no s'ha d'arbitrar sense una font millor.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 6. ~~**Des de quan es pagava el tribut francès cada dos anys** i **si la pràctica
    consta en algun acord.**~~ — **`parcial` el 20-09-2026**: **Vilar explica que
    els **960 francs** de la part francesa es pagaven **cada dos anys** —**1.920

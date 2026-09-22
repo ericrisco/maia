@@ -256,16 +256,16 @@ greus, **i el Govern per a les molt greus** (article 45).
   **La peça institucional és el Protectorat**, que **exerceix el ministeri de
   Justícia** (article 32.2) i que **no és un registre passiu**:
 
-  - **impugna els acords del patronat contraris a la llei o als estatuts**
-    (article 33.2);
-  - **si hi veu indicis racionals d'il·licitud penal, ho comunica al Ministeri
-    Fiscal** (article 33.3);
-  - **pot assumir provisionalment la gestió de la fundació** —si es queda sense
+  - ~~**impugna els acords del patronat contraris a la llei o als estatuts**
+    (article 33.2);~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**si hi veu indicis racionals d'il·licitud penal, ho comunica al Ministeri
+    Fiscal** (article 33.3);~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**pot assumir provisionalment la gestió de la fundació** —si es queda sense
     patrons, o si hi adverteix «una irregularitat greu en la gestió econòmica»
     o «una desviació greu entre els fins fundacionals i l'activitat
     efectuada»— **amb autorització judicial i per un màxim de dos anys**
-    (article 34);
-  - **i si una fundació no presenta comptes durant dos anys seguits, demana a
+    (article 34);~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**i si una fundació no presenta comptes durant dos anys seguits, demana a
     la justícia que n'ordeni la intervenció temporal**, **i mentrestant no li
     inscriu cap document** llevat de cessaments i liquidació (article 24.2).
 
@@ -276,7 +276,7 @@ greus, **i el Govern per a les molt greus** (article 45).
   un any.**
 
   **I una regla de nom**: **la denominació ha de contenir els mots «fundació
-  privada»** i **el domicili «només pot ser a Andorra»** (article 10.1).
+  privada»** i **el domicili «només pot ser a Andorra»** (article 10.1).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quantes societats, associacions i fundacions hi ha**, no consta.~~ —
   **`parcial` el 17-09-2026, i només per a les fundacions**, **perquè és
   l'únic dels tres registres que el [BOPA](../../../fonts/bopa.md) publica

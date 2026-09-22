@@ -226,8 +226,8 @@ solts.**
    **Vuitanta-un anys després encara es reservava per escrit.**~~ — **`parcial`
    el 2026-09-21**: l’escriptura del **15 de juny de 1788** encara reserva el
    dret de rescat als hereus de casa C., **81 anys després** de la retrovenda de
-   1707. **Això prova la persistència escrita del dret, però no que els hereus
-   l’arribessin a exercir.**
+   1707. ~~**Això prova la persistència escrita del dret, però no que els hereus
+   l’arribessin a exercir.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Si la finestra de disset dies era habitual en vendes de prats** o **un pacte
    d'aquestes parts.**~~ — **`parcial` el 18-09-2026**: el corpus en té un sol
    cas, insuficient per saber si era habitual.

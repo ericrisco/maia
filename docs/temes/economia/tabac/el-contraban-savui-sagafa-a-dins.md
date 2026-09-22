@@ -125,9 +125,9 @@ Estadística.`
   **`no-es-buit` el 20-09-2026**: la taula només publica «quantitat
   intervinguda» i no defineix si la unitat és una caixeta, un paquet o una
   cigarreta. El corpus conserva els valors sense convertir-los.
-- **Els anys anteriors al 2017.** `serie_estadistica`
-- **Quantes persones hi ha detingudes per contraban**, que la taula de
-  detencions no desglossa. `font_externa`
+- ~~**Els anys anteriors al 2017.** `serie_estadistica`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quantes persones hi ha detingudes per contraban**, que la taula de
+  detencions no desglossa. `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Què va passar el 2022**, l'únic any en què el comís es fa a les fronteres~~
   — **`parcial` el 20-09-2026**: aquell any es van intervenir **70.054**
   unitats, de les quals **39.694** a la frontera francesa i **22.920** a
@@ -139,9 +139,9 @@ Estadística.`
   a la frontera francesa i **78** a l'espanyola, i el **91,0%** va anar per via
   penal. La font quantifica l'augment i la seva distribució, però no explica
   quin operatiu o fet el va provocar.
-- **Les dades franceses i espanyoles de tabac andorrà comissat**, que són l'altra
-  meitat del fenomen. `font_externa`
-- **El valor econòmic** del que s'intervé. `font_externa`
+- ~~**Les dades franceses i espanyoles de tabac andorrà comissat**, que són l'altra
+  meitat del fenomen. `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El valor econòmic** del que s'intervé. `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

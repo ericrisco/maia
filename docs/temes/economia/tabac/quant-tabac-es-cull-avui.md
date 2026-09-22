@@ -228,8 +228,8 @@ consultades no ho diu.`
   fulls de la nota**; vegeu [Qui cobra els ajuts agraris](../ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md).
   `El que segueix obert és on és el suport, si n'hi ha: no és un ajut agrari de
   la Llei d'agricultura i ramaderia.`
-- **Què se'n fa**: quant d'aquest tabac es transforma al país i quant
-  s'exporta.
+- ~~**Què se'n fa**: quant d'aquest tabac es transforma al país i quant
+  s'exporta.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què el trencament és el 2020 i no un altre any**~~ — **`parcial` el
    18-09-2026**: la pregunta s'ha hagut de reformular; amb **vint-i-cinc anys
   de rendiment per hectàrea** es veu que **el 2020 no és un any de menys terra

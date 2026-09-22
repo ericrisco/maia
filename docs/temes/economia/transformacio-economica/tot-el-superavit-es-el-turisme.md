@@ -168,9 +168,9 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
 
 ## Buits registrats
 
-- **Què hi ha dins de «Viatges».** És el 106% del superàvit de serveis i **la
+- ~~**Què hi ha dins de «Viatges».** És el 106% del superàvit de serveis i **la
   nota no en publica cap desglossament**: ni allotjament, ni comerç, ni
-  procedència del visitant.
+  procedència del visitant.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què cau la renda primària.**~~ — **`parcial` el 2026-09-20**: el saldo
   baixa de **330,59 M€ el 2020** a **57,41 M€ el 2024** i gira a **−32,00 M€ el
   2025**; dins seu, les rendes d'inversions passen de **359,20 a 129,74 M€** i
@@ -186,8 +186,8 @@ la cartera puja. **Es passa de tenir diners guardats a tenir títols comprats.**
   anterior dona **48,67 M€ (2020), 57,71 M€ (2021), 33,95 M€ (2022) i −21,42 M€
   (2023)**. La nota no en publica cap desglossament ni causa, de manera que
   queda obert què compon aquests saldos ([font](../../../fonts/estadistica-ad.md)).
-- **Qui són els 8.124 milions de passius.** La PII els classifica per
-  instrument, mai per país.
+- ~~**Qui són els 8.124 milions de passius.** La PII els classifica per
+  instrument, mai per país.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Les notes A138 anteriors i posteriors.**~~ — **`resolt` el 2026-09-21**:
   les dues peces adjacents que el corpus tenia localitzades —**A138 de l'any
   2023**, publicada el **23-01-2025**, i **A138 de l'any 2024**, publicada el

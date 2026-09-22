@@ -339,8 +339,8 @@ immobiliàries en guanyen 250,51. El corpus ho registra i no en dona la causa.`
 
 ## Buits registrats
 
-1. **El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
-   per aquesta crítica.
+1. ~~**El pla estratègic Andorra 2020.** **Prioritari.** El corpus el coneix només
+   per aquesta crítica.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**La llei d'inversions estrangeres** que el pla preveia i què se'n va fer.~~
    `resolt` el 17-09-2026 — vegeu
    [La llei que el pla demanava, i les dues que van caldre](#la-llei-que-el-pla-demanava-i-les-dues-que-van-caldre).
@@ -349,7 +349,7 @@ immobiliàries en guanyen 250,51. El corpus ho registra i no en dona la causa.`
 3. ~~**El sometent andorrà**: fitxa pendent.~~ **TANCAT.** Queda obert **quan
    deixa de ser policial i passa a protecció civil**: entre l'atestació de
    Brutails (1904) i la llei del 2022 hi ha una història sense documentar.
-4. **Les projeccions de la CASS** sobre pensions i salut d'aquells anys.
+4. ~~**Les projeccions de la CASS** sobre pensions i salut d'aquells anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Si el PIB es va doblar** entre 2007 i 2020, i què va passar el 2008.~~
    `resolt` el 17-09-2026 — vegeu
    [El PIB no es va doblar: el 2019 encara era per sota del 2007](#el-pib-no-es-va-doblar-el-2019-encara-era-per-sota-del-2007).

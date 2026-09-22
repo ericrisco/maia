@@ -274,7 +274,7 @@ gràcia es presumeix simulada quan el venedor resta en possessió de la finca.**
    **p. XLIII**: **la peça XXIII, de cap al 1875, es pot llegir al segon
    exemplar**: és la venda a carta de gràcia combinada amb arrendament, amb la
    nota de Brutails sobre l'incompliment de la taxació prèvia del decret de
-   1853. Els noms i alguns camps hi són en blanc, tal com els deixa la font.
+   1853. ~~Els noms i alguns camps hi són en blanc, tal com els deixa la font.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Si la presumpció catalana de simulació** —venedor que resta en possessió—
    **s'aplicava a Andorra.** **La font enuncia les dues coses i no les confronta.**~~ —
    **`font_externa` el 2026-09-22**: cal comparar doctrina catalana i actes

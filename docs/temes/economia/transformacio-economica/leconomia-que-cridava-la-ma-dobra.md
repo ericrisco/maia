@@ -156,8 +156,8 @@ pràcticament nul».**
 
 ## Buits registrats
 
-- **Les obres autoritzades del 1988 i del 1989.** **La taula de la ponència
-  s'atura el 1987** encara que el text parli del 1990. `serie_estadistica`
+- ~~**Les obres autoritzades del 1988 i del 1989.** **La taula de la ponència
+  s'atura el 1987** encara que el text parli del 1990. `serie_estadistica`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quina va ser l'entitat bancària que va fer fallida** a la segona meitat dels
   seixanta, **i què va passar amb els seus dipositants.** **Vila no la
   nomena**, i **és el fet que tanca el sector durant dècades.** **Prioritari.**~~
@@ -171,10 +171,10 @@ pràcticament nul».**
   dipositants, de manera que aquesta part no es pot reconstruir amb aquesta
   font. **`no-es-buit`**
 - ~~**La sèrie d'assalariats per sector entre el 1979 i el 1990.** La ponència només dona els dos extrems.~~ — **`no-es-buit` el 20-09-2026**: la font és una fotografia amb les taules de 1979 i 1990; no publica la sèrie anual intermèdia.
-- **L'enquesta de la conselleria de Turisme i Esports del 1988**, sencera.
-  `font_externa`
-- **Si el subsector financer «sense permís» que descriu va deixar cap rastre
-  documental.** `pregunta_oberta`
+- ~~**L'enquesta de la conselleria de Turisme i Esports del 1988**, sencera.
+  `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si el subsector financer «sense permís» que descriu va deixar cap rastre
+  documental.** `pregunta_oberta`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 
