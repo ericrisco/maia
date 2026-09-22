@@ -251,9 +251,10 @@ Jutge el 19 de novembre de 1846:**
 2. **Si les dues citacions del 7 de juny de 1456** —el canvi de nom dels saigs i el
    dret de llicències d'obres— **són el mateix document.** **El corpus no les
    identifica.**
-3. **L'enquesta de 1346**, *Archives des Pyrénées-Orientales, C 2098*, i **el
-   reglament dels Veguers del 13 de juny de 1356**, als arxius d'Encamp.
-   `Requereix font externa.`
+3. ~~**L'enquesta de 1346**, *Archives des Pyrénées-Orientales, C 2098*, i **el
+   reglament dels Veguers del 13 de juny de 1356**, als arxius d'Encamp.~~ —
+   **`font_externa` el 2026-09-22**: la font dona la signatura de l'enquesta i
+   l'arxiu del reglament, però cal consultar les dues peces per llegir-les.
 4. ~~**Per què van desaparèixer els batlles del Pareatge**, i **quan.**~~ —
    **`parcial`, actualitzat el 2026-09-19**: la seqüència queda acotada per les
    fonts: **dos batlles el 1278**, **saigs documentats el 1346** i **batlles

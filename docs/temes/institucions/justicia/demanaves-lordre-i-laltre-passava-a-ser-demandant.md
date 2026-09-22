@@ -280,9 +280,11 @@ registrar**
    lliuren els *manaments*, per dir-ho així, **amb els ulls tancats***»**
    ([els cònsols els lliuren amb els ulls tancats](./els-consols-els-lliuren-amb-els-ulls-tancats.md)).
    **La distància entre la doctrina i la pràctica, dita en una frase.**
-2. **L'attestació d'antics batlles** sobre la cosa jutjada: **qui la va demanar,
+2. ~~**L'attestació d'antics batlles** sobre la cosa jutjada: **qui la va demanar,
    quan i a instància de qui.** **Prioritari**: **la forma de la frase coincideix
-   amb la de la llista de feriats, que la font va fer redactar.**
+   amb la de la llista de feriats, que la font va fer redactar.**~~ — **`font_externa`
+   el 2026-09-22**: la font en cita el contingut però no identifica els antics
+   batlles ni l'encàrrec; cal localitzar l'attestació original.
 3. **Com es concilia l'excepció de cosa jutjada afirmada per aquella attestació
    amb la temptació de reprendre l'afer «sota una forma diferent» davant de
    l'altre batlle.** **El corpus registra les dues i no les concilia.**

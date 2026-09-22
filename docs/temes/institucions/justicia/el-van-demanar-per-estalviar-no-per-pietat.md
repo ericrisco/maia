@@ -248,9 +248,11 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
    delicte, segueix obert**, i **això és l'al·legació d'una part**. Vegeu [se li
    reconeixerà com als seus
    antecessors](../../historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md).
-4. **El rapport del veguer de França sobre aquell afer** *(Arxius de l'Arieja,
+4. ~~**El rapport del veguer de França sobre aquell afer** *(Arxius de l'Arieja,
    Andorre, lligall 2)*. **Prioritari, i és el mateix lligall que el corpus té
-   marcat amb tretze peces registrades i cap consultada.**
+   marcat amb tretze peces registrades i cap consultada.**~~ — **`font_externa` el
+   2026-09-22**: el lligall està identificat però el *rapport* no s'ha consultat;
+   cal accés als Arxius de l'Arieja.
 5. ~~**La deliberació del Consell General del 2 de gener de 1855**, **sencera.**~~ —
    **`parcial` el 2026-09-21**: la fitxa en conserva la fórmula literal sobre
    que cap autoritat no prengui jurisdicció ni dret dels altres, però no la

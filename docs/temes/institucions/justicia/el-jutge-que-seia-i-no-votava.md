@@ -312,9 +312,11 @@ jutjar.
    l'article del **4 de desembre de 1897**. El corpus ja té, doncs, autor,
    publicació i data; continua pendent la consulta directa de l'article a
    [Gallica](https://gallica.bnf.fr/ark:/12148/cb32878283g/date).
-4. **Cap acta de deliberació dels Corts.** **La font mateixa diu que la sala és
+4. ~~**Cap acta de deliberació dels Corts.** **La font mateixa diu que la sala és
    secreta**, de manera que **el buit pot ser irreductible** — **i això és una
-   propietat de la institució, no del corpus.**
+   propietat de la institució, no del corpus.**~~ — **`font_externa` el 2026-09-22**:
+   la font descriu deliberacions secretes i el corpus no té actes; caldria una
+   font institucional que acredités si se'n conserva alguna.
 5. ~~**On, a França, complien presó els condemnats andorrans**, **amb quin acord i
    quantes persones.**~~ — **`parcial` el 2026-09-21**: Vilar confirma que la
    **pena de presó s'executava a França**, perquè Andorra no tenia establiment,

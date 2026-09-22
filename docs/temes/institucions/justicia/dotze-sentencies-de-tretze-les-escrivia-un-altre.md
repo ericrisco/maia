@@ -398,9 +398,11 @@ renuncia a la successió dels pares i **es prega al batlle que ho aprovi**.
    **La mateixa acta diu que la carta queda cusida al llibre**, però el corpus no
    en té el text ni la signatura; els documents del **18 de febrer de 1781** i
    **24 de maig de 1784** també continuen pendents.
-7. **L'acta d'instal·lació del batlle francès del 26 de gener de 1880** i **la
+7. ~~**L'acta d'instal·lació del batlle francès del 26 de gener de 1880** i **la
    carta del Síndic al prefecte de l'Arieja del 6 de juliol de 1831** *(Archives
-   de l'Ariège, Andorre, lligall 2 — **setena peça registrada**)*.
+   de l'Ariège, Andorre, lligall 2 — **setena peça registrada**)*.~~ —
+   **`font_externa` el 2026-09-22**: la referència identifica el lligall i la
+   peça, però cal consultar els dos documents per llegir-ne el text complet.
 8. ~~**El dret que el batlle percebia pels dipòsits**, **«el tipus del qual no està
    ben fixat»**: **si mai es va tarifar.**~~ — **`parcial` el 2026-09-21**: la
    fitxa confirma que els dipòsits fets a mans del batlle li donaven dret a un
