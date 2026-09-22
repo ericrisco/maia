@@ -340,10 +340,12 @@ ningú.**
   **I una derogació anterior que el text recorda**: la llei del 2000 ja havia
   derogat **la Llei de protecció del secret bancari i de prevenció del blanqueig
   de l'11 de maig del 1995.**
-- **Quins tractats específics té Andorra en aquesta matèria.** L'article 36 fa
+- ~~**Quins tractats específics té Andorra en aquesta matèria.** L'article 36 fa
   dependre tot el règim de si hi ha «tractat internacional específic», i **el
   corpus no en té cap.** **Sense aquella llista, no se sap amb quins estats
-  s'aplica l'excepció i amb quins la regla.** **Buit prioritari.**
+  s'aplica l'excepció i amb quins la regla.** **Buit prioritari.**~~ —
+  **`font_externa` el 2026-09-22**: cal consultar el repertori oficial de tractats
+  i els convenis de cooperació penal per identificar les excepcions de l'article 36.
 - **Quant és «prou importància»** (article 4.g). **La llei no ho diu i el corpus
   no té cap resolució que ho apliqui.**
 - ~~**Què queda protegit pel secret bancari** un cop la comissió rogatòria és

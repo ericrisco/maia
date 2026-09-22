@@ -341,7 +341,9 @@ llei**. Això és el que la font citava; el que aquesta lectura hi afegeix és q
 2. **La sentència del Tribunal Constitucional sobre béns comunals.**
 3. ~~**El Tribunal Constitucional** en general: el corpus no en té fitxa.~~
    `resolt`: [El Tribunal Constitucional](../../institucions/justicia/el-tribunal-constitucional.md).
-4. **El Butlletí del Consell General** com a font directa.
+4. ~~**El Butlletí del Consell General** com a font directa.~~ — **`font_externa`
+   el 2026-09-22**: cal consultar els números del butlletí per contrastar les
+   dades i les taules de la ponència.
 5. ~~**Si la llei de protocol s'ha aprovat des del 2018.** El corpus s'atura
    aquí.~~ `resolt` el 17-09-2026: **sí, el 12 de maig del 2022** — vegeu
    [Vint-i-vuit anys després, la llei de protocol](#vint-i-vuit-anys-despres-la-llei-de-protocol).

@@ -176,12 +176,16 @@ judici**, i sobretot **que el judici no és seu tot sol**: «**després d'altres
    dedueix.`
 4. **Els *costumeys*** de Bordeus, per comparació: **Archives de la Gironde, E
    suppl. 3120**, i **Barckhausen, pp. XXIII-XXIV**. `obert, amb signatura.`
-5. **Qui eren «els altres»** que ja havien constatat que els arxius del Consell
-   General eren per sota de la seva reputació. `obert.`
-6. **Els arxius de la Delegació francesa**: **què hi havia i on són avui.**
-   `obert.`
-7. **Els arxius dels comuns d'Andorra la Vella i d'Encamp** el 1900: **què en va
-   treure.** `obert.`
+5. ~~**Qui eren «els altres»** que ja havien constatat que els arxius del Consell
+   General eren per sota de la seva reputació.~~ — **`font_externa` el 2026-09-22**:
+   la font no els identifica; caldria recuperar testimonis o correspondència de
+   l'entorn de la consulta de 1900.
+6. ~~**Els arxius de la Delegació francesa**: **què hi havia i on són avui.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar els inventaris de la Delegació
+   francesa i els seus successors per identificar aquest fons.
+7. ~~**Els arxius dels comuns d'Andorra la Vella i d'Encamp** el 1900: **què en va
+   treure.**~~ — **`font_externa` el 2026-09-22**: cal consultar els arxius
+   comunals per saber quina documentació va veure o extreure la font.
 8. **Si algú va fer mai a Andorra el paper de *costumey***, abans o després.
    `obert.`
 

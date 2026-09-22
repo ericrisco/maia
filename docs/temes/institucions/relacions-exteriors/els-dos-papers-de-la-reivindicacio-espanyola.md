@@ -268,14 +268,17 @@ llegir París:**
    `La data i la peça exactes de la provisió que Vilar cita encara requereixen contrast.`
 2. **Les confirmacions dels reis de Castella i dels Borbons** d'aquelles dues
    provisions. **La font les menciona en bloc, sense data ni nombre.**
-3. **Si algú ha buscat a l'Arxiu de la Corona d'Aragó després del 1904.** **La
+3. ~~**Si algú ha buscat a l'Arxiu de la Corona d'Aragó després del 1904.** **La
    font declara una cerca infructuosa i el corpus no en té cap altra.**
    **Un negatiu declarat val el que val qui el declara**, i **aquest el declara
-   una part del litigi.**
-4. **Els convenis o tractats de comerç que el Consell General diu haver
+   una part del litigi.**~~ — **`font_externa` el 2026-09-22**: només una consulta
+   de l'Arxiu de la Corona d'Aragó posterior a 1904 pot comprovar si hi ha hagut
+   una cerca nova.
+4. ~~**Els convenis o tractats de comerç que el Consell General diu haver
    contractat** amb França i Espanya. **Prioritari, i és el que decidiria la
    contradicció d'aquesta fitxa.** **El corpus en té una pista: el tractat de
-   límits amb Espanya.**
+   límits amb Espanya.**~~ — **`font_externa` el 2026-09-22**: cal localitzar els
+   convenis comercials originals o el registre oficial de tractats.
 5. **L'exposició de motius de la proposició de llei de Carvajal de 1895**,
    sencera. **El corpus en té frases per dues vies —les actes del Congrés i
    aquesta font— i no el text.**

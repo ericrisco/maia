@@ -173,8 +173,9 @@ mou així:
    font constata que **el 1904** els dos cognoms ja figuraven als actes oficials.
    **Segueixen obertes la data d'origen i la disposició —o el costum— que ho
    establí.**
-5. **Què són exactament «les circumstàncies solemnes»** en què s'afegeix el nom
-   de la mare.
+5. ~~**Què són exactament «les circumstàncies solemnes»** en què s'afegeix el nom
+   de la mare.~~ — **`font_externa` el 2026-09-22**: cal comparar actes oficials
+   i protocols notarials per determinar quines situacions rebien aquesta fórmula.
 6. **Si la fórmula «(a)» era d'ús notarial general** o **pròpia d'alguns
    escrivans**.
 7. **Si el nom de casa passava també quan l'heretat anava a una *pubilla***, i
