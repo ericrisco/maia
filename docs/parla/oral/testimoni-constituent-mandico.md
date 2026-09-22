@@ -596,10 +596,14 @@ facin, seria un tret; amb això, és una frase repetida.
 
 **Sobre la parlant**
 
-5. **No consta si és andorrana de casa.** S'infereix i la inferència no és prova.
-6. **La llengua primera no consta**, tot i que la formació francesa («al lice»,
+5. ~~**No consta si és andorrana de casa.** S'infereix i la inferència no és prova.~~ —
+   **`font_externa` el 2026-09-22**: la procedència de la parlant requereix la
+   fitxa d'origen o una font biogràfica externa.
+6. ~~**La llengua primera no consta**, tot i que la formació francesa («al lice»,
    «el maig del 68 a França») fa pensar en un bilingüisme escolar que
-   **precisament podria explicar `declic`**. Explicació plausible i **no verificada**.
+   **precisament podria explicar `declic`**. Explicació plausible i **no verificada**.~~ —
+   **`font_externa` el 2026-09-22**: la llengua primera no es pot establir amb
+   aquesta entrevista i requereix una font biogràfica externa.
 
 **Sobre l'abast**
 

@@ -371,10 +371,14 @@ diccionari.
 
 **Sobre la parlant**
 
-5. **No consta si és andorrana de casa o vinguda**, ni d'on. És el buit que més
+5. ~~**No consta si és andorrana de casa o vinguda**, ni d'on. És el buit que més
    pesa: sense això, **no es pot dir si els trets d'aquesta peça són andorrans o
-   catalans generals**, i quatre dels cinc trets nous són d'àmbit pirinenc ampli.
-6. **No consta la generació ni la llengua primera.**
+   catalans generals**, i quatre dels cinc trets nous són d'àmbit pirinenc ampli.~~ —
+   **`font_externa` el 2026-09-22**: la procedència de la parlant requereix la
+   fitxa d'origen o una font biogràfica externa.
+6. ~~**No consta la generació ni la llengua primera.**~~ — **`font_externa` el
+   2026-09-22**: aquestes dades no apareixen a la peça i requereixen una font
+   biogràfica externa.
 7. **No es presenta ella mateixa**, a diferència de la tanda 1. La identificació
    depèn enterament del que en diu AR+I.
 

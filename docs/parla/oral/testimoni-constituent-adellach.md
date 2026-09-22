@@ -258,7 +258,9 @@ Aquesta tanda existeix, en bona part, per haver-ho pogut comprovar.
    pregunta pendent.
 6. **`no… pas` també surt una sola vegada.** Mateixa reserva. `no-es-buit`: és
    una reserva metodològica, no una pregunta pendent.
-7. **No consta si és andorrana de casa**, ni la llengua primera, ni l'ofici.
+7. ~~**No consta si és andorrana de casa**, ni la llengua primera, ni l'ofici.~~ —
+   **`font_externa` el 2026-09-22**: aquesta informació biogràfica no consta a
+   la peça d'àudio i requereix la fitxa d'origen o una font externa.
 
 **Sobre l'abast**
 
