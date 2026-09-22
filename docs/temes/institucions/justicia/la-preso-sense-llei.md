@@ -367,17 +367,23 @@ servir les deu files, que sumen el total imprès.`
    que **l'article 12 hi continua igual** (vegeu més amunt). **El text de la del
    2007 segueix sense veure's**, i per tant **el corpus no pot dir què va canviar
    entre les dues**. **Buit afinat.**
-2. **El dibuix de *L'Illustration*** i **la fotografia de 1942**: on són, i què
-   hi consta exactament. **Molt localitzables.**
-3. **La sentència de mort de 1942**: qui, per què, i **si es va executar**. El
-   corpus **no ho sap** i la ponència **no ho diu**.
+2. ~~**El dibuix de *L'Illustration*** i **la fotografia de 1942**: on són, i què
+   hi consta exactament. **Molt localitzables.**~~ — **`font_externa` el
+   2026-09-22**: cal localitzar els exemplars de *L'Illustration* i l'arxiu
+   fotogràfic de 1942 per identificar les dues imatges.
+3. ~~**La sentència de mort de 1942**: qui, per què, i **si es va executar**. El
+   corpus **no ho sap** i la ponència **no ho diu**.~~ — **`font_externa` el
+   2026-09-22**: cal consultar els registres judicials i penitenciaris de 1942;
+   cap font llegida no identifica la persona ni l'execució.
 4. ~~**El garrot**: en quina exposició catalana és cedit, i on consta la sol·licitud
    al copríncep episcopal.~~ — **`parcial` el 2026-09-21**: la ponència ja
    conserva que **a mitjan segle XIX** es va demanar permís al **copríncep
    episcopal** per adquirir-lo i que actualment és cedit en **una exposició a
    Catalunya**; també diu que no hi ha constància que s’hagués fet servir.
    **Encara no identifica l’exposició ni la peça documental del permís.**
-5. **Quants botxins hi va haver** i d'on venien.
+5. ~~**Quants botxins hi va haver** i d'on venien.~~ — **`font_externa` el
+   2026-09-22**: cal reconstruir la sèrie de nomenaments i expedients del servei
+   penitenciari; la ponència només esmenta l'ofici.
 6. ~~**La presó actual**: on és i què hi ha passat des del 2007.~~ — **`parcial` el
    18-09-2026, i el «quants interns» queda tancat**: **l'API del Departament
    d'Estadística** (divisions 1887-1892, **font Departament de Justícia i

@@ -471,13 +471,16 @@ el sufragi**, que ja era dels caps de casa.
    rara» el 1904.~~ — **`parcial`**: el corpus en té ara el text per una
    transcripció de 1920, però segueix sense tenir l'imprès i no pot comprovar si
    les dues edicions difereixen.
-2. **L'apèndix de la Reforma**, que és una **peça diferent** del que aquí es
+2. ~~**L'apèndix de la Reforma**, que és una **peça diferent** del que aquí es
    transcriu. Brutails en cita **la pàgina 13** —el projecte de codificar els
    costums— i **la pàgina 14** —mestre i mestra. **L'apèndix D d'aquest volum no
-   el conté**, o **no el distingeix**. `Segueix obert.`
-3. **L'exposició de motius adreçada al Govern francès el 24 d'abril de 1866** i
+   el conté**, o **no el distingeix**.~~ — **`font_externa` el 2026-09-22**: cal
+   localitzar l'apèndix original o una còpia completa del volum per consultar
+   aquestes dues pàgines.
+3. ~~**L'exposició de motius adreçada al Govern francès el 24 d'abril de 1866** i
    **l'acte d'aprovació francès del 10 d'abril de 1868.** **Cap de les dues no hi
-   és.**
+   és.**~~ — **`font_externa` el 2026-09-22**: cal consultar l'expedient
+   diplomàtic francès de la Reforma per obtenir els dos textos.
 4. ~~**Què va passar el 31 de maig de 1866.**~~ — **`parcial` el 20-09-2026**:
    Vilar data la llei el **31 de maig** i diu que el bisbe la volgué imposar
    «*au nom de sa souveraineté absolue*», però el text primari transcrit i
