@@ -181,9 +181,9 @@ col·lectiva**, i per això **no es veu amb el recel d'altres societats**.
 
 ## Buits registrats
 
-1. ~~**L'estudi etnogràfic de 1993-1995 sencer.**~~ — **identificat**: Comas
-   d'Argemir i Pujadas, *Andorra, un país de frontera* (1997). **Segueix obert
-   llegir-lo.**
+1. ~~**L'estudi etnogràfic de 1993-1995 sencer.**~~ — **`font_externa` el
+   2026-09-22**: identificat com Comas d'Argemir i Pujadas, *Andorra, un país
+   de frontera* (1997), però el volum no forma part del corpus.
 2. ~~**Si la segmentació s'ha reduït** en trenta anys.~~ — **respost el 2021**:
    segueix, reformulada en tres línies, amb la cúspide eixamplant-se.
 3. ~~**Dades quantitatives**: matrimonis mixtos, tria d'escola, barris.~~ —
@@ -193,13 +193,18 @@ col·lectiva**, i per això **no es veu amb el recel d'altres societats**.
    comunal del 2007 (**5.384 de 30.441 andorrans registrats, el 17,69%**)
    desglossat per origen dels pares. El corpus encara no té una sèrie directa
    de matrimonis mixtos ni dades de segmentació per barris.
-4. **Com es viu des de dins** cada segment. Material d'entrevista.
+4. ~~**Com es viu des de dins** cada segment. Material d'entrevista.~~ —
+   **`font_externa` el 2026-09-22**: cal incorporar entrevistes qualitatives que
+   no formen part del corpus.
 5. ~~**Quins són els espais** on sí que hi ha interacció~~ — **respost**:
    l'escola, la mida del país, el mercat de treball i les festes
    interculturals.
-6. **L'Observatori del CRES** sencer, des del 2002. **Prioritari**: és una sèrie
-   d'opinió de vint anys sobre el país.
-7. **Les enquestes del CRES del 2017** sobre drets polítics dels residents.
+6. ~~**L'Observatori del CRES** sencer, des del 2002. **Prioritari**: és una sèrie
+   d'opinió de vint anys sobre el país.~~ — **`font_externa` el 2026-09-22**:
+   cal consultar la sèrie publicada pel CRES, que el corpus no conserva.
+7. ~~**Les enquestes del CRES del 2017** sobre drets polítics dels residents.~~ —
+   **`font_externa` el 2026-09-22**: cal obtenir els qüestionaris i resultats
+   publicats pel CRES.
 
 ## Related
 

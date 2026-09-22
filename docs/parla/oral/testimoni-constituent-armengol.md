@@ -230,20 +230,20 @@ no.** El mateix patró que `sigut` i `tindre`.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 151 marques no s'han verificat.** Són el **8,1 % dels mots**, dins del
+1. ~~**`no-es-buit`** — **Les 151 marques no s'han verificat.** Són el **8,1 % dels mots**, dins del
    rang del corpus (3,5 % – 9,7 %) i lluny de ser el pitjor.
    *(Aquesta línia deia «proporció dolenta: una marca per segment». Comptat per
    segments semblava alarmant; comptat per mots, que és l'única mesura estable,
-   és corrent. Corregit a la tanda 16.)*
-2. **`la Càmera`** surt en dos parlants però **les dues vegades marcada**. No es
-   reclama. `no-es-buit`: és una nota de no-reclamació, no una pregunta pendent.
-3. **`[?empenyagut]`** és el tipus de forma que interessaria —un participi
+   és corrent. Corregit a la tanda 16.)*~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**`la Càmera`** surt en dos parlants però **les dues vegades marcada**. No es
+   reclama. `no-es-buit`: és una nota de no-reclamació, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**`[?empenyagut]`** és el tipus de forma que interessaria —un participi
    refet— i és **justament la que la màquina dona amb menys confiança**. Sense
-   escoltar, no és res.
+   escoltar, no és res.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**Del parlant no consta res**: ni generació, ni origen, ni llengua primera,
    ni ofici.~~ — **`no-es-buit` el 20-09-2026**: la sèrie d'entrevistes no
    publica cap metadata biogràfica del parlant.
-5. **Lèxicament és la peça més pobra** de les onze: cap mot d'ofici, cap
+5. ~~**Lèxicament és la peça més pobra** de les onze: cap mot d'ofici, cap
    andorranisme. Confirma per tercera vegada que **les entrevistes polítiques
    donen sintaxi i marcadors, no lèxic**. `no-es-buit`: és una observació de
-   l'abast de la peça, no una pregunta pendent.
+   l'abast de la peça, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

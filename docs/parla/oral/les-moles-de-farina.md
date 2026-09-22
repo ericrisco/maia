@@ -249,7 +249,7 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 79 marques no s'han verificat.**
+1. ~~**`no-es-buit`** — **Les 79 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**`assecle`, contrastat el 16-09-2026 amb els dos diccionaris: no hi és.**~~ —
    **`parcial` el 21-09-2026**: no apareix ni al [DCVB](../../fonts/dcvb.md) ni al
    [DIEC2](../../fonts/diec2.md), però surt **quatre vegades**, tres de netes, i
@@ -257,7 +257,7 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
    segur dins la peça. **Resta oberta l'etimologia i l'extensió fora d'Andorra**:
    caldria un segon testimoni i recerca lexicogràfica més enllà dels dos
    diccionaris.
-3. **`[?secla]`** (00:10:42) — **`resolt` el 16-09-2026, i al revés del que
+3. ~~**`[?secla]`** (00:10:42) — **`resolt` el 16-09-2026, i al revés del que
    aquest buit suposava: no és un error de màquina.** **El DCVB té `SECLA` com a
    entrada pròpia, remetent a `sèquia`** —«excavació llarga i estreta... per a
    conduir aigua d'un riu o torrent, sia per a regar, **per a moure molins**»—,
@@ -266,7 +266,7 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
    diccionari, `sèquia` al diccionari, i **`assecle` enlloc**. **El corpus
    registra la hipòtesi que les tres són la mateixa paraula** —amb l'article
    aglutinat a *assecle*— **i no l'afirma**: **cap font del corpus no ho
-   documenta**, i **la parlant no les usa mai en la mateixa frase.**
+   documenta**, i **la parlant no les usa mai en la mateixa frase.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**`[?Tobira]`** (×4), el molí d'Andorra la Vella, **no s'ha identificat**.~~ —
    **`parcial` el 20-09-2026**: [els annexos dels topònims](../../temes/territori/toponimia/els-annexos-dels-toponims.md)
    identifica **Tobira** com un carrer del barri vell, de Quatre Camins al riu,
@@ -277,5 +277,5 @@ tenia com a entrada. **Tret confirmat en parla, no novetat lèxica.**
    **`no-es-buit` el 20-09-2026**: la peça indica que sap els mots **per recerca**
    i que l'informant era «un vell moliner» que el corpus no té enregistrat; no
    publica cap perfil que permeti situar-la.
-6. **El «vell moliner» és la font de veritat i no hi som a temps.** Aquesta peça
-   assenyala una generació de parlants d'ofici que **ningú no va gravar**.
+6. ~~**El «vell moliner» és la font de veritat i no hi som a temps.** Aquesta peça
+   assenyala una generació de parlants d'ofici que **ningú no va gravar**.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.

@@ -220,9 +220,11 @@ es finança principalment amb cotitzacions. És la part que hi posa el Govern.`
   específics i els buits detallats a la lectura enllaçada. No s’ha comprovat el tractament dels
   expedients entre el 17 de setembre i la publicació de la Llei 20/2019,
   ni la participació aplicada a cada servei el 2026.
-- Retirades les xifres de 75% i 90% presentades abans sense peça ni versió,
+- ~~Retirades les xifres de 75% i 90% presentades abans sense peça ni versió,
   i la comparació absoluta amb el pagament a Espanya. La nova lectura
-  acredita el marc legal de 2018, no valida aquella taula com a regla actual.
+  acredita el marc legal de 2018, no valida aquella taula com a regla actual.~~ —
+  **`no-es-buit` el 2026-09-22**: és una correcció editorial i una limitació de
+  la font, no una pregunta pendent.
 - ~~La data de creació de la CASS~~ — **`parcial` el 18-09-2026,
   DIVERGÈNCIA REGISTRADA, NO ARBITRADA**: la pàgina institucional pròpia
   ([font](../../../fonts/cass-informacio-institucional.md)) dona **1966**,

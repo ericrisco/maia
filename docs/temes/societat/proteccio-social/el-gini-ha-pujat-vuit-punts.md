@@ -180,12 +180,13 @@ declara.**
   cap indicador**, i no n'hi ha cap a l'API.~~ — **`font_externa` el 2026-09-22**:
   cal una sèrie històrica anterior a l'Enquesta de condicions de vida i fora de
   l'API local.
-- **Quina part de la caiguda de la taxa de pobresa del 2025 és el canvi de
-  llindar.** Caldrien els microdades de l'enquesta, que la font no publica.
-  `font_externa`
-- **Si el canvi de referència del llindar del 2021 està documentat en algun
+- ~~**Quina part de la caiguda de la taxa de pobresa del 2025 és el canvi de
+  llindar.** Caldrien els microdades de l'enquesta, que la font no publica.~~ —
+  **`font_externa`**: cal obtenir els microdades o la metodologia de l'enquesta.
+- ~~**Si el canvi de referència del llindar del 2021 està documentat en algun
   lloc.** El corpus l'ha deduït de l'aritmètica, **no d'una nota metodològica**;
-  no n'ha trobat cap. `pregunta_oberta`
+  no n'ha trobat cap.~~ — **`font_externa` el 2026-09-22**: cal consultar la
+  documentació metodològica de l'enquesta fora de l'API local.
 - ~~**No hi ha desagregació per nacionalitat.**~~ — **`no-es-buit`**: l'enquesta
   dona sexe, edat, tipologia de llar i règim de tinença, però **no diu si la
   pobresa andorrana té passaport**. Això és rellevant perquè **de les pensions
@@ -194,6 +195,7 @@ declara.**
   **La font no ho desagrega.**
 - ~~**No hi ha desagregació per parròquia.**~~ — **`no-es-buit`**: la font no
   publica aquest desglossament.
-- **El «pes de les despeses respecte els ingressos» s'atura el 2021** i el
+- ~~**El «pes de les despeses respecte els ingressos» s'atura el 2021** i el
   darrer any no suma 100. **La sèrie està trencada a la font** i el corpus no la
-  cita.
+  cita.~~ — **`font_externa` el 2026-09-22**: cal demanar a la font la
+  correcció o els anys que falten abans de citar la sèrie.

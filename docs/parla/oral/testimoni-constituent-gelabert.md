@@ -887,8 +887,8 @@ res**: no es pregunta.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 246 marques no s'han verificat.**
+1. ~~**`no-es-buit`** — **Les 246 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**Del parlant no consta** ni generació, ni llengua primera, ni ofici.~~ — **`parcial` el 18-09-2026: l'origen sí que consta**, i **per als consellers del Consell Constituent és a la síntesi d'actes del Consell General amb parròquia, poble i renom de casa**, vegeu [qui eren els constituents](./qui-eren-els-constituents.md). `Generació, llengua primera i ofici segueixen sense constar a cap font del corpus.`
-3. `no-és-buit` — **Els drets són `pendent`** (avís R005): consentiment sí, redistribució no. **No és una pregunta oberta: és l'estat de drets de la peça**, que viu al camp `redistribucio` de la seva fitxa de font. **Es resol signant una cessió, no consultant cap arxiu.**
-4. `no-és-buit` — **Cap afirmació d'aquesta peça no s'ha de citar com a fet.** És memòria
-   personal de fa trenta anys, transcrita per una màquina i no verificada. **No és una pregunta oberta: és una instrucció al lector sobre com s'ha de fer servir la peça.** **Seguirà sent certa quan tots els buits d'aquest article estiguin tancats.**
+3. ~~`no-és-buit` — **Els drets són `pendent`** (avís R005): consentiment sí, redistribució no. **No és una pregunta oberta: és l'estat de drets de la peça**, que viu al camp `redistribucio` de la seva fitxa de font. **Es resol signant una cessió, no consultant cap arxiu.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~`no-és-buit` — **Cap afirmació d'aquesta peça no s'ha de citar com a fet.** És memòria
+   personal de fa trenta anys, transcrita per una màquina i no verificada. **No és una pregunta oberta: és una instrucció al lector sobre com s'ha de fer servir la peça.** **Seguirà sent certa quan tots els buits d'aquest article estiguin tancats.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.

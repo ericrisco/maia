@@ -265,9 +265,10 @@ raó.` **També el 1998 es repeteix el mateix import tot l'any.**
   del 2002.** **La conversió és exacta** —674 PTA ÷ 166,386 = 4,0508— **i entre
   ella i el 4,24 hi ha dues pujades ordinàries**, no un arrodoniment. **El 4,24
   no és el primer import en euros: és el tercer.**
-- **El Reglament Laboral**, base legal dels primers vuit anys de la sèrie, **és
+- ~~**El Reglament Laboral**, base legal dels primers vuit anys de la sèrie, **és
   anterior al Butlletí i el corpus no en té el text**
-  ([l'acomiadament lliure](./lacomiadament-lliure.md)).
+  ([l'acomiadament lliure](./lacomiadament-lliure.md)).~~ — **`font_externa` el
+  2026-09-22**: cal consultar la norma laboral anterior a 1989.
 
 ## Related
 

@@ -38,9 +38,12 @@ parla dels seus objectius de temporada.
 ## El que falta
 
 - ~~**El palmarès complet**, amb les curses, dates, distàncies i posicions.~~ — **`parcial`**: l'entrevista de [*Dona Secret* del 6 de juny de 2018](../../../raw/web/esport/marc-oscar-casal-donasecret-2018.html) situa Marc **setè provisional de la Copa del Món d’Skyrunning**, recorda una **victòria dels germans a la Transalpine**, un **podi a la Xina** dos anys abans i l'inici a l'Ultra Trail d'Andorra; no és el llistat complet de curses demanat.
-- **La trajectòria posterior al 2018** i la situació esportiva actual.
-- **La font federativa o estadística** que permeti contrastar el rànquing i els
-  resultats resumits per l'entrevista.
+- ~~**La trajectòria posterior al 2018** i la situació esportiva actual.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar resultats i fitxes
+  esportives posteriors a l'entrevista de 2018, que el corpus no conserva.
+- ~~**La font federativa o estadística** que permeti contrastar el rànquing i els
+  resultats resumits per l'entrevista.~~ — **`font_externa` el 2026-09-22**:
+  la verificació demana els registres de la federació o de la competició.
 
 ## Related
 

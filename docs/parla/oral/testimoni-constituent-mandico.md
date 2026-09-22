@@ -580,10 +580,10 @@ facin, seria un tret; amb això, és una frase repetida.
 
 **Sobre la transcripció**
 
-1. **`no-es-buit`** — **Cap de les 243 marques no s'ha verificat.** Mateix deute que les tandes 1 i 2.
-2. **La densitat de marcadors pot estar subestimada.** Whisper tendeix a ometre
+1. ~~**`no-es-buit`** — **Cap de les 243 marques no s'ha verificat.** Mateix deute que les tandes 1 i 2.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**La densitat de marcadors pot estar subestimada.** Whisper tendeix a ometre
    titubeigs; si n'ha omès, el 11 % és un **terra**, no un sostre. **No es pot
-   saber quant sense escoltar.**
+   saber quant sense escoltar.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 3. ~~**Els noms propis cauen.** `[?passos] [?perdurs]` per *sala dels passos
    perduts* (00:00:58), `[?plancartes]` per *pancartes* (00:00:23), i persones
    citades —«el Clemens pel mig de Vila» (00:09:13), «Josep Maria Béal»— que
@@ -592,7 +592,7 @@ facin, seria un tret; amb això, és una frase repetida.
    constituent](testimoni-constituent-jordiareny.md) confirmen **sala dels Passos
    Perduts**, **pancartes** i **Josep Maria Béal**, repetit dues vegades en
    aquesta altra peça. Encara no s'identifica «el Clemens pel mig de Vila».
-4. **`[?proven] el pressupost`** (00:00:49) és quasi segur *aprovin*, però va marcat.
+4. ~~**`[?proven] el pressupost`** (00:00:49) és quasi segur *aprovin*, però va marcat.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 
 **Sobre la parlant**
 
@@ -607,15 +607,15 @@ facin, seria un tret; amb això, és una frase repetida.
 
 **Sobre l'abast**
 
-7. **Un sol testimoni de vint-i-set.** La cohort sencera —els consellers del 1993—
+7. ~~**Un sol testimoni de vint-i-set.** La cohort sencera —els consellers del 1993—
    és la millor mostra generacional datable que el corpus ha trobat, i **se n'ha
    fet el 4 %**. `no-es-buit`: és una limitació d'ús de la mostra, no una
-   pregunta pendent.
-8. **Només tres dones a la sèrie** (Reig, Aleix, Adellach) i aquesta n'és una.
+   pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+8. ~~**Només tres dones a la sèrie** (Reig, Aleix, Adellach) i aquesta n'és una.
    Prioritàries: el corpus de parla té **una sola veu de dona** abans d'aquesta.
    `no-es-buit`: és una limitació de representació de la mostra, no una
-   pregunta pendent.
-9. `no-es-buit` — **Els drets no acompanyen.** Llicència estàndard de YouTube,
+   pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+9. ~~`no-es-buit` — **Els drets no acompanyen.** Llicència estàndard de YouTube,
    redistribució `pendent` (avís R005). El consentiment consta; el permís de
    redistribuir, no. **No és una pregunta oberta: és l'estat de drets de la
-   peça**, que es resol amb una cessió, no consultant cap font.
+   peça**, que es resol amb una cessió, no consultant cap font.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

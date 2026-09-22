@@ -1417,15 +1417,15 @@ tandes 3 i 4 van ensenyar què passa quan s'afirma amb un sol parlant.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 321 marques no s'han verificat.**
-2. **`bueno` surt 13 vegades i 7 van marcades.** És l'única peça on la màquina
+1. ~~**`no-es-buit`** — **Les 321 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**`bueno` surt 13 vegades i 7 van marcades.** És l'única peça on la màquina
    dubta tant d'un marcador tan freqüent, i **no se sap per què**. Si fos
-   qualitat d'àudio, afectaria la resta igual.
-3. **`[?l'Instenstein]`** és quasi segur *Liechtenstein*; **`[?botina a bordo]`**
-   no té lectura. Sense resoldre.
+   qualitat d'àudio, afectaria la resta igual.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+3. ~~**`[?l'Instenstein]`** és quasi segur *Liechtenstein*; **`[?botina a bordo]`**
+   no té lectura. Sense resoldre.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**De la persona no consta** ni llengua primera, ni ofici, ni any de naixement.~~ —
    **`no-es-buit` el 20-09-2026**: el testimoni no incorpora cap perfil biogràfic.
-5. **Es parla de persones vives i de conflictes polítics concrets** —llicències,
+5. ~~**Es parla de persones vives i de conflictes polítics concrets** —llicències,
    vetos, el paper dels coprínceps— **amb la transcripció sense verificar**. Cap
    afirmació d'aquesta peça no s'ha de citar com a fet.
-   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

@@ -185,16 +185,20 @@ hi arriba trenta-dos anys després i **no ha trobat cap enquesta posterior**.
 3. ~~**Qui eren els seixanta.**~~ — **`no-es-buit`**: Valls diu que **els qui
    no van respondre queden «forçosament en l'anonimat»** i la llista d'enviaments
    no es publica.
-4. **Si s'ha repetit mai.** El corpus **no coneix cap enquesta andorrana
+4. ~~**Si s'ha repetit mai.** El corpus **no coneix cap enquesta andorrana
    posterior sobre identitat**. Si no n'hi ha, **aquesta és l'única sèrie que
-   existeix i té un sol punt**.
+   existeix i té un sol punt**.~~ — **`font_externa` el 2026-09-22**: cal
+   consultar els catàlegs d'enquestes i estudis posteriors per saber si la sèrie
+   es va repetir.
 5. ~~**Apapma**: el corpus no sap què és, i hi consta un gerent.~~ —
    **`resolt` el 18-09-2026**: **Associació Protectora d'Animals, Plantes i
    Medi Ambient**, creada el 10-8-1989 — descrita a
    [el canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md#les-institucions-que-això-revela)
    ([font](../../../fonts/apapma-registre-andorralavella.md)).
-6. **Les respostes del 2026.** La pregunta de Valls es podria tornar a fer.
-   **Fora de l'abast del corpus, però val escriure-ho.**
+6. ~~**Les respostes del 2026.** La pregunta de Valls es podria tornar a fer.
+   **Fora de l'abast del corpus, però val escriure-ho.**~~ —
+   **`font_externa` el 2026-09-22**: una repetició actual exigiria una nova
+   enquesta i una font publicada.
 
 ## Related
 

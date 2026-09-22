@@ -248,9 +248,9 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 236 marques no s'han verificat**, i són el 9,9 % dels mots.
-2. **Cap topònim d'aquesta peça no s'ha de donar per bo.** Ni un.
-   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
+1. ~~**`no-es-buit`** — **Les 236 marques no s'han verificat**, i són el 9,9 % dels mots.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**Cap topònim d'aquesta peça no s'ha de donar per bo.** Ni un.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 3. ~~**`[?decòrins]` (p=0,03) i `[?portudiment]` (p=0,07) no tenen lectura.**~~ —
    **`no-es-buit`**: **són marques de transcripció sense lectura**, no una
    pregunta de recerca ni formes lèxiques que el corpus pugui donar per bones.
@@ -265,6 +265,6 @@ preveu aquesta distinció** i aquesta peça ensenya que li faria falta.
 5. ~~**De la persona no consta** ni parròquia, ni generació, ni origen.~~ —
    **`no-es-buit` el 20-09-2026**: la peça toponímica publica el contingut de la
    conversa, però no metadata biogràfica del parlant.
-6. **El contracte no té camp per a «contingut no citable».** S'ha resolt amb una
+6. ~~**El contracte no té camp per a «contingut no citable».** S'ha resolt amb una
    etiqueta, que és una convenció d'aquesta branca i **no una regla validada**.
-   **`no-es-buit`**: és una nota del contracte, no una pregunta de recerca.
+   **`no-es-buit`**: és una nota del contracte, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

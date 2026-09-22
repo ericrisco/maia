@@ -91,7 +91,9 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
    treballat, fins a un any sencer.** **Andorra no ha passat de l'acomiadament
    lliure a l'acomiadament causal: ha passat de l'acomiadament lliure i gratuït
    a l'acomiadament lliure i pagat.**
-3. **Xifres de rotació laboral** al comerç i l'hoteleria.
+3. ~~**Xifres de rotació laboral** al comerç i l'hoteleria.~~ — **`font_externa`
+   el 2026-09-22**: cal consultar les estadístiques laborals sectorials, que no
+   formen part del corpus.
 4. **Com funciona avui** el lligam entre permís de treball i permís de
    residència.
 5. ~~**El salari mínim** andorrà, sèrie històrica. ~~— **`obert`, confirmat, i és

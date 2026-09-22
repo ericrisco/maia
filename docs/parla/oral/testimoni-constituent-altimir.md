@@ -321,8 +321,8 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **212 marques sense verificar**, la pitjor proporció del
-   corpus: és un estat de validació de l'àudio, no una pregunta de contingut.
+1. ~~**`no-es-buit`** — **212 marques sense verificar**, la pitjor proporció del
+   corpus: és un estat de validació de l'àudio, no una pregunta de contingut.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**`[?enredarits]`** (00:00:50) és quasi segur *endarrerits*.~~ —
    **`resolt` el 16-09-2026 per la peça mateixa**: **el títol de la font és
    «Ens havíem quedat una mica endarrerits»**, que és **la mateixa frase, sencera
@@ -330,18 +330,18 @@ corpus ha trobat fins ara. `inclús` el segueix, amb tres parlants.
    la forma en el seu propi títol. **La transcripció no es corregeix** —branca de
    `veu: originaria`— i **la marca de dubte es retira**, perquè el dubte ja no hi
    és.
-3. **`[?L'ADES]`** (×2) no s'ha pogut identificar: pot ser una sigla real, pot ser
-   mal sentida. **Queda sense resoldre.**
-4. **«30 i escaig d'anys»** (00:00:21) és ambigu —edat o durada— i va marcat.
-   **No serveix per datar-lo.**
+3. ~~**`[?L'ADES]`** (×2) no s'ha pogut identificar: pot ser una sigla real, pot ser
+   mal sentida. **Queda sense resoldre.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~**«30 i escaig d'anys»** (00:00:21) és ambigu —edat o durada— i va marcat.
+   **No serveix per datar-lo.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 5. ~~**De la persona no consta res**: ni origen, ni llengua primera, ni ofici.~~ —
    **`no-es-buit` el 20-09-2026**: el registre de la tanda conserva el testimoni
    però no publica metadata biogràfica.
-6. **`sigut` i `inclús` són candidats, no trets confirmats.** Tres parlants d'una
+6. ~~**`sigut` i `inclús` són candidats, no trets confirmats.** Tres parlants d'una
    mateixa cohort política i d'un mateix registre no són una mostra del país; i
    totes tres ocurrències de `sigut` podrien ser normalització de whisper cap a
-   una forma freqüent. **Es tanca escoltant, com tota la resta.**
-7. **Cap comparació no s'ha fet amb català no andorrà.** `sigut` i `inclús` són
+   una forma freqüent. **Es tanca escoltant, com tota la resta.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+7. ~~**Cap comparació no s'ha fet amb català no andorrà.** `sigut` i `inclús` són
    corrents a tot el domini: el que aquí es documenta és **que la parla els fa
    servir i la prosa del corpus no**, no que siguin d'Andorra. `no-es-buit`: és
-   una limitació d'ús de la mostra, no una pregunta pendent.
+   una limitació d'ús de la mostra, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

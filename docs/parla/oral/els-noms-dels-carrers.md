@@ -341,13 +341,13 @@ no existeixi.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 95 marques no s'han verificat.**
-2. **Cap topònim d'aquesta peça no s'ha de citar**, i és una peça de noms.
+1. ~~**`no-es-buit`** — **Les 95 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**Cap topònim d'aquesta peça no s'ha de citar**, i és una peça de noms.
    `[?Laura] [?Dia]`, `en Camp`, `Escalde`, `Sant Gordany`, `Canòlic`.
-   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
-3. **`gojos`** (×3, netes) hauria de ser **goigs**. Pot ser grafia de la màquina
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**`gojos`** (×3, netes) hauria de ser **goigs**. Pot ser grafia de la màquina
    i pot ser pronúncia. **Sense resoldre**, i el corpus només té *goigs* una
-   vegada.
+   vegada.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**L'estadística que dona** —17 sants, 5 santes, 15 carrers dedicats a dones—
    **no s'ha contrastat amb cap nomenclàtor**. Amb aquesta transcripció,
    **cap xifra no s'ha de citar.**~~ — **`no-es-buit` el 19-09-2026**: és el
@@ -356,6 +356,6 @@ no existeixi.
 5. ~~**De la persona no consta res**, ni tan sols la parròquia; només que **l'àvia
    era laurediana**.~~ — **`no-es-buit` el 20-09-2026**: la peça només conserva
    aquesta dada familiar i no publica cap perfil del parlant.
-6. **Cinc parlants no són una mostra dialectal.** Que *padrí* domini aquí no vol
+6. ~~**Cinc parlants no són una mostra dialectal.** Que *padrí* domini aquí no vol
    dir que domini a Andorra: vol dir que domina **en aquests disset enregistraments**.
-   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
+   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

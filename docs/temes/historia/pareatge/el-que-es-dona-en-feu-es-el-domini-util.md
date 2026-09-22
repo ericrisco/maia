@@ -237,24 +237,33 @@ amb judici de valor:**
    corpus no té cap document d'aquesta sèrie en original.**~~ — **`font_externa`
    el 2026-09-22**: cal consultar el tom de còpies autoritzades o els originals
    que invoca.
-2. **Baudon de Mony, *La Vallée d'Andorre et les évêques d'Urgel au Moyen âge*,
-   Tolosa, 1892.** **Nova.**
-3. **Miret y Sans, *Noves y documents inèdits sobre la família senyorial de
-   Caboet y la Qüestió d'Andorra*, Barcelona, 1918.** **Nova i prioritària.**
+2. ~~**Baudon de Mony, *La Vallée d'Andorre et les évêques d'Urgel au Moyen âge*,
+   Tolosa, 1892.** **Nova.**~~ — **`font_externa` el 2026-09-22**: cal
+   consultar aquesta monografia, que no forma part del corpus.
+3. ~~**Miret y Sans, *Noves y documents inèdits sobre la família senyorial de
+   Caboet y la Qüestió d'Andorra*, Barcelona, 1918.** **Nova i prioritària.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar aquesta monografia, que no
+   forma part del corpus.
 4. ~~**El document de remissió dels mals usos a Andorra**: **quin comte, quina
    data, quina signatura.**~~ — **`parcial`, actualitzat el 2026-09-19**: l'apèndix
    identifica **Roger-Bernard III, comte de Foix**, i el **8 de setembre de 1278**;
    la nota remet a **`Marca Hispánica, 8834`**, però el volum no dona la signatura
    arxivística de l'original.
-5. **Si hi va haver servitud de la gleva a Andorra.** **La font ho suggereix amb
-   prudència i la seva pròpia nota ho contradiu.** **Obert.**
+5. ~~**Si hi va haver servitud de la gleva a Andorra.** **La font ho suggereix amb
+   prudència i la seva pròpia nota ho contradiu.** **Obert.**~~ —
+   **`font_externa` el 2026-09-22**: cal contrastar la tesi i la nota amb els
+   documents originals i la bibliografia que la font cita.
 6. ~~**Qualsevol protesta andorrana contra els mals usos.** **La font diu que no
    n'ha trobat cap i que potser no s'han exhumat.**~~ — **`no-es-buit` el
    19-09-2026: l'avís descriu una absència de la font i no permet afirmar que no
    n'hi hagués; queda registrat com a límit documental, no com a resposta.**
-7. **Una sèrie datada de les «invasions» del comte de Foix en el dret
-   episcopal**, que és el que la tesi del costum requeriria per comprovar-se.
-8. **Miret y Sans, *Investigación histórica sobre el Vizcondado de Castellbó*.**
+7. ~~**Una sèrie datada de les «invasions» del comte de Foix en el dret
+   episcopal**, que és el que la tesi del costum requeriria per comprovar-se.~~ —
+   **`font_externa` el 2026-09-22**: requereix reconstruir la sèrie documental
+   medieval a partir dels arxius i estudis citats.
+8. ~~**Miret y Sans, *Investigación histórica sobre el Vizcondado de Castellbó*.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar la monografia, que no forma
+   part del corpus.
 
 ## Related
 

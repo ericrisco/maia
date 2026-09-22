@@ -474,11 +474,11 @@ tot.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 370 marques no s'han verificat.**
-2. **`endorrans` no és evidència fonètica.** Veure sobre. **No s'ha de citar com
+1. ~~**`no-es-buit`** — **Les 370 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**`endorrans` no és evidència fonètica.** Veure sobre. **No s'ha de citar com
    a pronúncia documentada.** `no-es-buit`: és un avís d'ús de la transcripció,
-   no una pregunta pendent.
-3. **`[?retisents]`** (×3) és probablement *reticents*. Marcat.
+   no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**`[?retisents]`** (×3) és probablement *reticents*. Marcat.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**`[?quiniela]`**~~ — **`parcial` el 21-09-2026**: la fitxa de [els tres
    sistemes electorals](../../temes/politica/sistema-electoral/els-tres-sistemes-electorals.md)
    descriu les **llistes obertes** d'abans de la Constitució, i la Llei
@@ -486,8 +486,8 @@ tot.
    tancades; el context de la peça confirma que permetia triar noms de llistes
    diferents. **Resta oberta la lectura exacta que tenia «quiniela» en l'ús
    local**, perquè la gravació no ho defineix com a terme jurídic.
-5. **`pro-[?piscopal]`**: *episcopal* amb la vocal inicial caiguda. **Pot ser ell
-   o pot ser la màquina**, i és el mateix dubte que `endorrans`.
+5. ~~**`pro-[?piscopal]`**: *episcopal* amb la vocal inicial caiguda. **Pot ser ell
+   o pot ser la màquina**, i és el mateix dubte que `endorrans`.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 6. ~~**De la persona no consta** ni generació exacta, ni llengua primera, ni ofici.~~ —
    **`no-es-buit` el 20-09-2026**: la fitxa no publica aquestes dades personals
    del parlant.

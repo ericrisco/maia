@@ -79,8 +79,10 @@ afiliar els beneficiaris a les branques general i de jubilació.
   d'extinció. No s'ha investigat com s'interpretava aquesta adequació en els
   expedients excepcionals.~~ — **`font_externa` el 2026-09-22**: la pràctica
   interpretativa només consta als expedients excepcionals, que no s'han consultat.
-- No s'han verificat imports efectivament pagats, beneficiaris, denegacions
+- ~~No s'han verificat imports efectivament pagats, beneficiaris, denegacions
   ni compliment del termini de deu dies hàbils. No s'atribueixen a aquesta
   prestació les xifres d'altres ajuts per desocupació. La
   [resposta parlamentària ja llegida](../../institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md)
-  aporta el relat del Govern; no tanca aquests buits d'aplicació individual.
+  aporta el relat del Govern; no tanca aquests buits d'aplicació individual.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar expedients de pagament i
+  denegació, que no formen part del corpus.

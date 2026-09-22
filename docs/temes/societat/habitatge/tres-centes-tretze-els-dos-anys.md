@@ -166,15 +166,19 @@ va cometre ell mateix i el va cometre el mateix dia que el diagnosticava.**
   persones jurídiques publica la composició del capital —**412 béns el 2025
   amb menys del 50% de capital resident**—, no un total únic de societats «no
   residents».
-- **La sèrie de compradors per residència abans del 2026.** És una
-  classificació nova: `les notes anteriors no la porten`.
+- ~~**La sèrie de compradors per residència abans del 2026.** És una
+  classificació nova: `les notes anteriors no la porten`.~~ — **`font_externa`
+  el 2026-09-22**: cal obtenir les notes estadístiques anteriors, que no formen
+  part del corpus.
 - ~~**Si el salt del 32,1% de Sant Julià és de preu o de composició**~~ —
   **`parcial` el 20-09-2026**: el preu mitjà passa de **2.524,4 €/m² el 2024**
   a **3.335,1 €/m² el 2025** (**+32,1%**), però la font no publica la
   composició de les operacions per tipologia, superfície o ubicació i no permet
   separar un efecte de preu d'un efecte de composició.
-- **Els preus per parròquia anteriors al 2024.** `No s'han sondejat les notes
-  `A117_A145` anteriors al 20250210.`
+- ~~**Els preus per parròquia anteriors al 2024.** `No s'han sondejat les notes
+  `A117_A145` anteriors al 20250210.`~~ — **`font_externa` el 2026-09-22**:
+  cal consultar les notes estadístiques anteriors a `A117_A145`, que no formen
+  part del corpus.
 
 ## Related
 

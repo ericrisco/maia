@@ -412,7 +412,7 @@ doni per bones.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 122 marques no s'han verificat.**
+1. ~~**`no-es-buit`** — **Les 122 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**`[?etapa]` per *taba* i `Mostafa` per *mostassà`.**~~ — **`parcial`:
    identificació `resolta` el 16-09-2026 pel contingut, no per l'escolta; la transcripció
    segueix sense corregir, com mana la fidelitat d'aquesta branca.**
@@ -429,9 +429,9 @@ doni per bones.
    substitueix pel nom propi que més se li assembla.** **És un cas de llibre del
    que la fase 3 vol evitar**: **l'ASR no sent malament, sent cap a allò que
    coneix**, i **el que perd és justament el lèxic institucional andorrà.**
-3. **Pot ser llegida.** Si ho és, **no serveix com a mostra de llengua parlada**,
+3. ~~**Pot ser llegida.** Si ho és, **no serveix com a mostra de llengua parlada**,
    encara que el lèxic segueixi valent. `no-es-buit`: és una limitació d'ús de la
-   peça, no una pregunta pendent.
+   peça, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 4. ~~**`[?l'Hosana] Suïssa`** és probablement *Lausana*. Sense verificar.~~ —
    **`parcial` el 20-09-2026**: la [font institucional de l'École hôtelière de
    Lausanne](../../fonts/ehl-ecole-hoteliere-lausanne.md) confirma una escola

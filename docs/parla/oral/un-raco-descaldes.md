@@ -355,19 +355,19 @@ diccionari.
 
 **Sobre la transcripció**
 
-1. **`no-es-buit`** — **Cap de les 147 paraules marcades no s'ha verificat.** És
+1. ~~**`no-es-buit`** — **Cap de les 147 paraules marcades no s'ha verificat.** És
    el mateix deute de validació de l'àudio que la tanda 1, no una pregunta de
-   contingut textual.
-2. **`en Gordany` apareix desenes de vegades i és sistemàticament fals.** Queda
+   contingut textual.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**`en Gordany` apareix desenes de vegades i és sistemàticament fals.** Queda
    sense corregir per fidelitat, però **qualsevol ús d'aquesta transcripció com a
    text d'entrenament propagarà l'error**. És el primer cas del corpus en què la
    fidelitat i la utilitat apunten en direccions contràries, i **no es resol aquí**.
-   `no-es-buit`: és un avís de qualitat de la transcripció, no una pregunta pendent.
-3. **Sense lectura**: `[?grats] de llana` (00:02:18), `es crea per tant un cap de
-   casa` (00:06:30), `[?esforçaments]` (00:07:27).
-4. **L'inici s'ha perdut.** El VAD talla fins a 00:00:15,200 i la transcripció
+   `no-es-buit`: és un avís de qualitat de la transcripció, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**Sense lectura**: `[?grats] de llana` (00:02:18), `es crea per tant un cap de
+   casa` (00:06:30), `[?esforçaments]` (00:07:27).~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~**L'inici s'ha perdut.** El VAD talla fins a 00:00:15,200 i la transcripció
    comença a mitja frase. **No se sap què diu abans**, i és justament on aniria
-   la presentació.
+   la presentació.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 
 **Sobre la parlant**
 
@@ -379,19 +379,19 @@ diccionari.
 6. ~~**No consta la generació ni la llengua primera.**~~ — **`font_externa` el
    2026-09-22**: aquestes dades no apareixen a la peça i requereixen una font
    biogràfica externa.
-7. **No es presenta ella mateixa**, a diferència de la tanda 1. La identificació
-   depèn enterament del que en diu AR+I.
+7. ~~**No es presenta ella mateixa**, a diferència de la tanda 1. La identificació
+   depèn enterament del que en diu AR+I.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 
 **Sobre la classificació**
 
-8. **Aquesta peça no és ben bé `oral`.** La branca diu «història oral i
+8. ~~**Aquesta peça no és ben bé `oral`.** La branca diu «història oral i
    testimoni» i això és **xerrada divulgativa d'una professional**, no testimoni
    viscut: ella no va anar a l'escola dels monjos, ho explica. S'hi ha posat per
    no inventar una branca amb dues peces, **però la taxonomia de `docs/parla/`
    no preveu aquest gènere** i ja hi ha dues peces que hi encaixen malament.
-   `no-es-buit`: és una advertència de classificació, no una pregunta pendent.
+   `no-es-buit`: és una advertència de classificació, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 
 **Sobre el duplicat**
 
-9. **La càpsula existeix dues vegades al canal** amb durades diferents (18:01 i
-   17:56) i **no s'han comparat**.
+9. ~~**La càpsula existeix dues vegades al canal** amb durades diferents (18:01 i
+   17:56) i **no s'han comparat**.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.

@@ -377,16 +377,16 @@ campanes, i val la pena dir-ho: **no totes les tandes de tema donen collita**.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 52 marques no s'han verificat.**
-2. **Pot ser llegida.** Si ho és, el lèxic val igual però **no és mostra de
+1. ~~**`no-es-buit`** — **Les 52 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**Pot ser llegida.** Si ho és, el lèxic val igual però **no és mostra de
    llengua parlada**. `no-es-buit`: és una limitació d'ús de la peça, no una
-   pregunta pendent.
-3. **`[?os]`** dins la llista de propietats de la casa **no s'ha resolt**:
-   podria ser *horts*, *hostals* o *boscos*, i **cap no s'ha de donar per bona**.
-4. **`Calpal`** hauria de ser **Cal Pal**, dues paraules. La màquina l'ajunta
+   pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**`[?os]`** dins la llista de propietats de la casa **no s'ha resolt**:
+   podria ser *horts*, *hostals* o *boscos*, i **cap no s'ha de donar per bona**.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~**`Calpal`** hauria de ser **Cal Pal**, dues paraules. La màquina l'ajunta
    sempre, i és **el tercer topònim andorrà que parteix o ajunta malament**,
    després de *en Gordany* (tanda 2) i *Comú d'en Camp* (tanda 13).
-   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.
+   `no-es-buit`: és un avís d'ús de la transcripció, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 5. ~~**`[?escoter]`** com a cognom de la família~~ — **`parcial` el 16-09-2026.**
    **El [DCVB](../../fonts/dcvb.md) documenta `ESCOTER` com a llinatge**, i
    l'enumera a Belianes, els Omells, Alcover, Barberà, l'Espluga, Figuerola,

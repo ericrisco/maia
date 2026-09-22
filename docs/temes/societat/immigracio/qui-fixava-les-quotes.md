@@ -160,23 +160,26 @@ irregular.**
 
 ## Buits registrats
 
-- **El decret de Bases sobre Immigració del 26 de juny del 1980** i **les
+- ~~**El decret de Bases sobre Immigració del 26 de juny del 1980** i **les
   Disposicions Complementàries del 25 d'abril del 1984**, en text. **El
-  [BOPA](../../../fonts/bopa.md) comença el 1989** i no els pot tenir.
-  `font_externa`
-- **Qui era el responsable del Servei d'Immigració que va dimitir el desembre
+  [BOPA](../../../fonts/bopa.md) comença el 1989** i no els pot tenir.~~ —
+  **`font_externa`**: cal consultar els butlletins o arxius anteriors al 1989.
+- ~~**Qui era el responsable del Servei d'Immigració que va dimitir el desembre
   del 1988**, i **per què ho va fer amb les seves paraules.** **Baró no el
-  nomena.** `pregunta_oberta`
-- **Les xifres de les quotes dels anys vuitanta.** **Aquesta ponència no en
-  dona ni una**: és una anàlisi de procés. `serie_estadistica`
-- **La recerca completa que Baró anuncia**: la ponència es declara «en fase
-  embrionària». **Si es va arribar a publicar, el corpus no ho sap.**
-  `font_externa`
-- **Quantificar la immigració clandestina tolerada** que la ponència afirma.
+  nomena.**~~ — **`font_externa` el 2026-09-22**: cal consultar actes, premsa
+  o expedients administratius del període.
+- ~~**Les xifres de les quotes dels anys vuitanta.** **Aquesta ponència no en
+  dona ni una**: és una anàlisi de procés.~~ — **`font_externa` el 2026-09-22**:
+  cal la sèrie administrativa o estadística de quotes, absent de la ponència.
+- ~~**La recerca completa que Baró anuncia**: la ponència es declara «en fase
+  embrionària». **Si es va arribar a publicar, el corpus no ho sap.**~~ —
+  **`font_externa`**: cal localitzar la publicació anunciada fora del corpus.
+- ~~**Quantificar la immigració clandestina tolerada** que la ponència afirma.
   **Per definició no té registre**, i **l'única pista quantitativa que el corpus
   té és indirecta**: [els assegurats a la CASS sense permís de
-  treball](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md#la-caixa-assegurava-gent-que-el-pais-no-comptava).
-  `pregunta_oberta`
+  treball](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md#la-caixa-assegurava-gent-que-el-pais-no-comptava).~~ —
+  **`font_externa` el 2026-09-22**: no hi ha un registre directe; només fonts
+  administratives o estudis externs podrien aportar una estimació.
 
 ## Related
 

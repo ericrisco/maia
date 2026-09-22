@@ -176,9 +176,9 @@ diferents i totes dues es resolen escoltant**, no raonant.
 
 **Sobre la transcripció**
 
-1. **`no-es-buit`** — **Cap de les 69 paraules marcades no s'ha verificat contra
+1. ~~**`no-es-buit`** — **Cap de les 69 paraules marcades no s'ha verificat contra
    l'àudio.** És una limitació de validació que es tanca escoltant, no una
-   pregunta de contingut textual.
+   pregunta de contingut textual.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**Els candidats concrets**~~ — **`parcial` el 19-09-2026**: `[?rets]` →
    probablement **recs** (00:04:28); `[?l'equa]` → probablement **l'euga**
    (00:09:30); `[?armats]` → probablement **ramats** (00:02:32);
@@ -189,18 +189,18 @@ diferents i totes dues es resolen escoltant**, no raonant.
    Això situa dues formes esperables, però no confirma què va dir el parlant:
    encara cal escoltar l’àudio i resten oberts `recs`, `ramats` i `bacallà`.
    `Requereix la branca de fonètica.`
-3. **Sense lectura de cap mena**: `[?faça]` (00:01:56, «abans dels treballs de
+3. ~~**Sense lectura de cap mena**: `[?faça]` (00:01:56, «abans dels treballs de
    ???»), `[?bun]` (00:08:04, «un ??? d'herba»), `[?Madreta]` (00:01:09, un dit
-   de la mà), «sobre l'anglera» (00:11:52).
-4. **`[?ar]` per *art***, dues vegades (00:07:28, 00:08:20). Si el parlant no
+   de la mà), «sobre l'anglera» (00:11:52).~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~**`[?ar]` per *art***, dues vegades (00:07:28, 00:08:20). Si el parlant no
    pronuncia la -t final, **és un tret fonètic**, no un error. Si és la màquina,
-   no és res. **No es pot decidir sense sentir-ho.**
-5. **Els titubeigs s'han perdut.** Whisper no els transcriu. Aquesta peça, per
+   no és res. **No es pot decidir sense sentir-ho.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+5. ~~**Els titubeigs s'han perdut.** Whisper no els transcriu. Aquesta peça, per
    tant, **no serveix per estudiar disfluència**, encara que sigui parla.
    `no-es-buit`: és una limitació tècnica de la transcripció, no una pregunta
-   pendent.
-6. **`[?àrguens]` a 00:05:34 i `[?àrgens]` a 00:10:29**: la mateixa paraula,
-   dues grafies. Almenys una és error de màquina.
+   pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+6. ~~**`[?àrguens]` a 00:05:34 i `[?àrgens]` a 00:10:29**: la mateixa paraula,
+   dues grafies. Almenys una és error de màquina.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 
 **Sobre el parlant**
 
@@ -234,6 +234,6 @@ diferents i totes dues es resolen escoltant**, no raonant.
     (`webapps.govern.ad/bbdds_arxius/`) **responia 404 el 2026-09-13** i el fons
     d'història oral no s'ha incorporat. **Cal accés a l'Arxiu per comprovar si hi
     ha peces i el règim de consentiment dels informants morts.**
-13. **`no-es-buit`** — **Cap altra càpsula de la sèrie no té la llicència
+13. ~~**`no-es-buit`** — **Cap altra càpsula de la sèrie no té la llicència
     verificada.** Només la #56: és un estat de drets, no una pregunta de
-    contingut.
+    contingut.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

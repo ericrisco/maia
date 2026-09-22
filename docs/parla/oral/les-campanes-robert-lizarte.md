@@ -537,19 +537,19 @@ més consistent del corpus**. Es tanca escoltant.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 138 marques no s'han verificat.**
-2. **`Indorra` i `endorrans` no són evidència fonètica.** Veure sobre.
-   `no-es-buit`: és un avís d'interpretació, no una pregunta pendent.
-3. **Les inscripcions llatines de les campanes** —`[?Vox] Domini Sona`,
+1. ~~**`no-es-buit`** — **Les 138 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+2. ~~**`Indorra` i `endorrans` no són evidència fonètica.** Veure sobre.
+   `no-es-buit`: és un avís d'interpretació, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+3. ~~**Les inscripcions llatines de les campanes** —`[?Vox] Domini Sona`,
    «Tempestate Fujita»— **estan mal transcrites** i no s'han comprovat contra cap
    catàleg campanològic. El corpus **no les ha de citar**. `no-es-buit`: és un
-   avís de citabilitat, no una pregunta pendent.
-4. **`Comú [?d'en] Camp`** és *Comú d'Encamp*: la màquina hi talla el topònim,
+   avís de citabilitat, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+4. ~~**`Comú [?d'en] Camp`** és *Comú d'Encamp*: la màquina hi talla el topònim,
    igual com feia `en Gordany` per *Engordany* a la [tanda 2](un-raco-descaldes.md).
    **És el mateix error sistemàtic amb topònims andorrans**, ara confirmat en dues
    peces i dos topònims. `no-es-buit`: és un avís d'ús de la transcripció, no una
-   pregunta pendent.
-5. **`[?ben] cuidor`** és probablement *bé, cuidador* o *soc cuidador*. Sense resoldre.
+   pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+5. ~~**`[?ben] cuidor`** és probablement *bé, cuidador* o *soc cuidador*. Sense resoldre.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 6. ~~**De la persona no consta** ni generació, ni origen, ni llengua primera.~~ —
    **`no-es-buit` el 20-09-2026**: la peça conserva l'enregistrament i el tema,
    però no publica un perfil biogràfic del parlant.

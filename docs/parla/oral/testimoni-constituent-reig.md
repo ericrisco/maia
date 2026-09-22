@@ -1480,8 +1480,8 @@ batejar una llei.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 376 marques no s'han verificat.** És la peça amb més marques en termes
-   absoluts del corpus.
+1. ~~**`no-es-buit`** — **Les 376 marques no s'han verificat.** És la peça amb més marques en termes
+   absoluts del corpus.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**`[?beguers]`**: sense resoldre.~~ — **`resolt` el 16-09-2026 pel context
    institucional, no per la fonètica.** **El mot és *veguers***: el parlant els
    nomena sis vegades sempre al costat dels **«delegats permanents dels
@@ -1498,10 +1498,10 @@ batejar una llei.
    cinc ocurrències — **no està descrita enlloc del corpus.** `Requereix la
    branca de fonètica`, vegeu
    [dialectologia](../../temes/llengua/fonetica/README.md).
-3. **`[?Derrescaldes]`** (×3) no s'ha identificat: sembla un nom de grup polític
-   i podria ser mal sentit.
-4. **`[?aminitat]`** és *unanimitat*; **`[?copríncipes]`** és forma castellanitzada
-   i **no se sap si és seva o de la màquina**.
+3. ~~**`[?Derrescaldes]`** (×3) no s'ha identificat: sembla un nom de grup polític
+   i podria ser mal sentit.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
+4. ~~**`[?aminitat]`** és *unanimitat*; **`[?copríncipes]`** és forma castellanitzada
+   i **no se sap si és seva o de la màquina**.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 5. ~~**Perfil biogràfic: generació, origen i llengua primera.**~~ — **`parcial`**:
    la fitxa ja fixa la **cohort del Consell Constituent (1993)**, però no una data
    de naixement. **L'origen i la llengua primera segueixen oberts** perquè ella no

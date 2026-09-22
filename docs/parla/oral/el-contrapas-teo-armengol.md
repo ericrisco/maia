@@ -303,7 +303,7 @@ està verificada contra l'àudio.**
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 197 marques no s'han verificat.**
+1. ~~**`no-es-buit`** — **Les 197 marques no s'han verificat.**~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**`esbar` i `ar` no són evidència fonètica.** Veure sobre. **No s'han de citar
    com a pronúncia documentada.**~~ — **`no-es-buit`**: és un avís d'interpretació,
    no una pregunta pendent.

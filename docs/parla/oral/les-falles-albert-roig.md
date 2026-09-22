@@ -967,8 +967,8 @@ principi que un corrector destruiria la dada.
 
 ## Buits registrats
 
-1. **`no-es-buit`** — **Les 121 marques no s'han verificat.** És la millor proporció del corpus i
-   segueix sent no verificada.
+1. ~~**`no-es-buit`** — **Les 121 marques no s'han verificat.** És la millor proporció del corpus i
+   segueix sent no verificada.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 2. ~~**«Ves» no s'ha confirmat com a *beç*.**~~ — **`parcial` el 21-09-2026**:
    la mateixa peça diu *bedoll* quan cita el text de Violant i la fitxa
    etnogràfica del corpus identifica l'escorça de la falla com a **beç
@@ -986,10 +986,10 @@ principi que un corrector destruiria la dada.
    Cita llocs d'Andorra la Vella però com a exemples.~~ — **`no-es-buit` el
    20-09-2026**: la font no publica metadata per situar la veu i el corpus no
    converteix exemples de lloc en residència.
-5. **`fallaire` en singular no surt enlloc de `docs/temes/`**, però *fallaires*
+5. ~~**`fallaire` en singular no surt enlloc de `docs/temes/`**, però *fallaires*
    sí, a tres articles. **No és lèxic nou per al corpus: és lèxic ja conegut,
    dit per primera vegada.** `no-es-buit`: és una nota de novetat lèxica, no una
-   pregunta pendent.
-6. **És xerrada preparada**, com les tandes 1 i 2: gairebé sense marcadors. **No
+   pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+6. ~~**És xerrada preparada**, com les tandes 1 i 2: gairebé sense marcadors. **No
    serveix per a l'estudi de la parla espontània**, només per al lèxic.
-   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.
+   `no-es-buit`: és una limitació d'ús de la mostra, no una pregunta pendent.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.

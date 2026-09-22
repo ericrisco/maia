@@ -590,14 +590,14 @@ parlants**.
    la ponent de la **#70**, amb el doble de pauses. **No hi ha encara una prova
    que separi efecte del tema tècnic, estil del parlant o qualitat de la
    gravació de confinament.**
-4. **El nom.** — **`resolt` el 16-09-2026 per la font mateixa.** **La màquina
+4. ~~**El nom.** — **`resolt` el 16-09-2026 per la font mateixa.** **La màquina
    escriu `[?Alnuart]` al punt on el parlant es presenta, i el títol de la
    càpsula, publicat per qui la va editar, diu *Alan Ward*.** **Coincideixen la
    posició —«Em dic …», 00:00:14— i el nombre de síl·labes**, i **no hi ha cap
    altra persona a la peça.** **El nom és Alan Ward.**
    **El corpus manté el que ja feia bé**: **la fitxa es queda amb la forma del
    títol i la transcripció conserva la de la màquina**, perquè **el que s'ha
-   acreditat és qui parla, no què es va sentir.**
+   acreditat és qui parla, no què es va sentir.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 5. ~~**Parròquia, generació, de casa o vingut, llengua primera: cap consta.**~~ —
    **`no-es-buit` el 20-09-2026**: el registre només identifica la peça i el
    tema; el corpus no dedueix cap perfil a partir del nom o de la parla.
@@ -605,13 +605,15 @@ parlants**.
    frases «el que veieu aquí» queden penjades i **la transcripció no les pot
    completar**.~~ — **`no-es-buit`**: és una limitació del material audiovisual,
    no una pregunta de recerca textual.
-7. **`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
+7. ~~**`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
    peces anteriors: és una limitació de validació del material audiovisual, no
-   una pregunta de contingut.
-8. **«Aquí a Andorra» no acredita ningú.** La tanda 29 va trobar, a la
+   una pregunta de contingut.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
+8. ~~**«Aquí a Andorra» no acredita ningú.** La tanda 29 va trobar, a la
    [#62](../../raw/parla/pendents/ari-capsula-62/README.md), una ponent de la
    mateixa sèrie que diu **«no a Andorra»**, i per això aquella peça **no ha
    entrat al corpus**. Des d'avui la sèrie AR+I arrossega **una pregunta oberta
    sobre la provinença dels seus ponents**, que convida qui sap del tema i no
    qui és del lloc. Aquesta peça és de les que en surten més ben parades, i
-   **tampoc no queda acreditada.**
+   **tampoc no queda acreditada.**~~ — **`font_externa` el 2026-09-22**: la
+   procedència dels ponents de la sèrie AR+I requereix consultar el registre o
+   els crèdits editorials de la sèrie completa, que el corpus no conserva.

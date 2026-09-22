@@ -141,9 +141,11 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   p. 2 i 4, p. 77–79, 127–129 i 253 llegides; renders 77–79, 128, 129 i 253
   vistos. No les 331 pàgines íntegres. La lectura nova tanca parcialment el
   buit de tramitacions, amb les limitacions detallades a l’article enllaçat.
-- No s’han contrastat factures, assentaments individuals, nombre de
+- ~~No s’han contrastat factures, assentaments individuals, nombre de
   beneficiaris del canal ni resultats d’accés. Tampoc una rectificació
-  de la capçalera o el criteri que explica cada diferència entre quadres.
+  de la capçalera o el criteri que explica cada diferència entre quadres.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar expedients, factures i
+  instruccions administratives que no formen part del corpus.
 - ~~El buit del conveni CASS-SAAS~~ — **`parcial` el 17-09-2026** amb la descripció
   dels comptes de 2017, el seguiment de 2018 i la instrucció de
   15-11-2017, ara llegida íntegra amb els quatre renders vistos.
@@ -163,11 +165,13 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   28.716.182, i el buit de conciliació queda obert.
   ([2017, taula p. 34](../../../raw/desocupacio/cass-estats-financers-2017.pdf);
   [2018, taula p. 37–38](../../../raw/desocupacio/cass-estats-financers-2018.pdf).)
-- Lectures noves limitades: 2017, portada i p. 21–23, 34–36; 2018,
+- ~~Lectures noves limitades: 2017, portada i p. 21–23, 34–36; 2018,
   portada, p. 37–38, nota 18 p. 188–190 i p. 195–197. Renders 22, 34–35
   de 2017 i 37–38, 196 de 2018 vistos. No els volums complets ni les
   memòries de 2023/2024; la sèrie 2023–2025 continua sense validar amb
-  aquests originals. Cap informe Cosvai obtingut en la cerca.
+  aquests originals. Cap informe Cosvai obtingut en la cerca.~~ —
+  **`font_externa` el 2026-09-22**: cal obtenir els volums i memòries que no
+  formen part del corpus, i l'informe Cosvai si existeix.
 - ~~El buit sobre condicions publicades per al Clínic i Teknon~~ — **`parcial`
   el 17-09-2026** amb la pàgina informativa de Catalunya. No s’han obtingut els
   convenis originals ni comprovants d’aplicació. El llistat «Convenis

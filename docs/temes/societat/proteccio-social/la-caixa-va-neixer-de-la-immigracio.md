@@ -202,8 +202,9 @@ social amb França i sobretot amb Espanya neixen de la composició del règim**,
 
 ## Buits registrats
 
-- **La sèrie posterior al 1988** de cotitzants i no cotitzants, i **si la
-  inversió que Bartumeu temia s'ha produït.** `serie_estadistica`
+- ~~**La sèrie posterior al 1988** de cotitzants i no cotitzants, i **si la
+  inversió que Bartumeu temia s'ha produït.**~~ — **`font_externa` el
+  2026-09-22**: cal obtenir les sèries estadístiques posteriors a la ponència.
 - **Quantes persones hi havia assegurades sense permís de treball**, que la
   ponència dedueix i no quantifica. `font_externa`
 - **El decret del Consell General del 1966** que crea el règim, en text. **El
@@ -213,9 +214,10 @@ social amb França i sobretot amb Espanya neixen de la composició del règim**,
   [fitxa de font](../../../fonts/bartumeu-immigracio-proteccio-social-1989.md)**:
   **la fila de no-cotitzants està desplaçada una columna** i **els percentatges,
   que sí que són correctes, ho demostren.**
-- **Si el règim va néixer amb reglament escrit o per pràctica**, i **qui eren
-  els experts francesos** que el van dissenyar. **La ponència no els nomena.**
-  `pregunta_oberta`
+- ~~**Si el règim va néixer amb reglament escrit o per pràctica**, i **qui eren
+  els experts francesos** que el van dissenyar. **La ponència no els nomena.**~~ —
+  **`font_externa` el 2026-09-22**: cal consultar l'expedient normatiu de 1966 i
+  els arxius administratius francesos o andorrans.
 
 ## Related
 

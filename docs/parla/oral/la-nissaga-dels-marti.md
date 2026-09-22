@@ -288,7 +288,7 @@ en donen quatre.
    corpus —**`préstec`** (27), **`venda`/`vendes`** (100) i **`orfe`** (6)— i
    identifica les ocurrències de la peça. **Amb una sola veu i sense escolta no
    es pot separar una forma de la parlant d'una grafia de la màquina.**
-5. **El cognom de la ponent.** — **`resolt` el 16-09-2026 per la font mateixa.**
+5. ~~**El cognom de la ponent.** — **`resolt` el 16-09-2026 per la font mateixa.**
    **La màquina escriu `[?Bat-Balaguer]` exactament on la parlant es presenta
    —«soc la Sara …», 00:00:36— i el títol de la càpsula diu *Sara Ubach*.**
    **La ponent és Sara Ubach.**
@@ -296,18 +296,20 @@ en donen quatre.
    audició d'`Ubach`, és una substitució per un cognom que el model coneix**, i
    **és el mateix patró que el corpus ha documentat amb el *mostassà* convertit
    en «Mostafa»** ([els hostals comunals](./els-hostals-comunals-lacueva.md)).
-   **La transcripció es queda com està i la fitxa es queda amb el títol.**
+   **La transcripció es queda com està i la fitxa es queda amb el títol.**~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 6. ~~**Parròquia, generació, casa o vingut, llengua primera: cap consta.**~~ —
    **`no-es-buit` el 20-09-2026**: com a la resta de la sèrie AR+I, la peça dona
    tema i transcripció però no un perfil del parlant; el nom no permet deduir-ne
    l'origen ni la llengua primera.
-7. **On és la ponent mentre parla: no consta.** No diu «aquí a Andorra» ni res
+7. ~~**On és la ponent mentre parla: no consta.** No diu «aquí a Andorra» ni res
    equivalent. La tanda 29 va trobar a la mateixa sèrie una ponent que diu
    explícitament **«no a Andorra»**
    ([#62](../../raw/parla/pendents/ari-capsula-62/README.md), **no admesa**), i
    això obre una **pregunta de provinença sobre tota la sèrie AR+I**: convida qui
    sap del tema, no qui és del lloc. Aquesta peça **no diu res en cap dels dos
-   sentits**.
-8. **`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
+   sentits**.~~ — **`font_externa` el 2026-09-22**: la procedència dels ponents
+   requereix el registre o els crèdits editorials de la sèrie AR+I completa,
+   que el corpus no conserva.
+8. ~~**`no-es-buit`** — **Zero minuts verificats contra l'àudio**, com les 38
    peces anteriors: és una limitació de validació del material audiovisual, no
-   una pregunta de contingut.
+   una pregunta de contingut.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
