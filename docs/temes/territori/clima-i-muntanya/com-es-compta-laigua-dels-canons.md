@@ -79,13 +79,19 @@ La portada diu gener de 2021 i la datació final, p. 41, diu
 
 ## Buits registrats
 
-- Falta demostrar l'any, la base i el mètode del repartiment de Pons;
-  no s'ha reconciliat amb l'inventari de 2019.
-- Queda sense separar el golf de la partida d'ENSISA i sense verificar
-  les dades originals de les estacions, les pèrdues i els retorns efectius.
-- L'inventari no s'ha llegit sencer: p. 1–4, 14, 22–27 i 36–41 llegides;
+- ~~Falta demostrar l'any, la base i el mètode del repartiment de Pons;
+  no s'ha reconciliat amb l'inventari de 2019.~~ — **`parcial` el 2026-09-22**:
+  l'inventari local conserva les dates i les xifres publicades, però no explica
+  la base ni el mètode del repartiment.
+- ~~Queda sense separar el golf de la partida d'ENSISA i sense verificar
+  les dades originals de les estacions, les pèrdues i els retorns efectius.~~ —
+  **`parcial` el 2026-09-22**: la fitxa separa el que declara l'inventari, però
+  les dades originals i els retorns efectius no hi consten.
+- ~~L'inventari no s'ha llegit sencer: p. 1–4, 14, 22–27 i 36–41 llegides;
   annexos i detall de la majoria de xarxes pendents. La dada parcial
-  de 2019 no acredita la producció de neu actual ni tota la sèrie històrica.
+  de 2019 no acredita la producció de neu actual ni tota la sèrie històrica.~~ —
+  **`parcial` el 2026-09-22**: queden per llegir els annexos i la sèrie completa;
+  la lectura local només permet descriure parcialment l'inventari de 2019.
  - Drets de redistribució i correccions editorials pendents. Aquesta
    lectura de recerca i els seus originals no s'exporten a datasets.
    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.

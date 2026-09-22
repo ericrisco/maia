@@ -234,8 +234,9 @@ metàfora: **és la funció principal.**
   **cofinançava el lectorat de català** amb el Ministeri d'Educació i que el
   curs **1999-2000** hi havia **25 alumnes**. El perfil societari complet de
   l'empresa no forma part d'aquest buit.
-- **Pyrénées, Andorra 2000, Andimesa i Viladomat Esports**: el corpus no té cap
-  fitxa d'empresa andorrana.
+- ~~**Pyrénées, Andorra 2000, Andimesa i Viladomat Esports**: el corpus no té cap
+  fitxa d'empresa andorrana.~~ — **`font_externa` el 2026-09-22**: els perfils
+  societaris requereixen registres mercantils o fonts empresarials fora del corpus.
 - ~~**El centre d'autoaprenentatge d'Encamp**: es va obrir?~~ — **`resolt` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/centre-encamp/README.md) confirma que el nou Centre de Català d’Encamp va obrir el **2 de setembre de 2025** a l’antic Hotel Hermus, amb **90 m²** d’aprenentatge guiat.
 - ~~**Quants adults** passen per aquests serveis cada any.~~ — **`parcial` el
   21-09-2026**: el **Centre de Formació al Llarg de la Vida** registra **1.594

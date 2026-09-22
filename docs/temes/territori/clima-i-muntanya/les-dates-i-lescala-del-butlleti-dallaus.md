@@ -74,13 +74,19 @@ sobre xarxa d'estacions i observadors.)
 - ~~Primera lectura del BPA tancada amb un avís estacional~~ — **`parcial` el
   19-09-2026**: falta una emissió hivernal amb pronòstic complet i el contrast
   de la metodologia EAWS.
-- No s'han llegit dades individuals d'estacions, límits geogràfics precisos
-  de les zones ni una sèrie d'actualitzacions. Cap ruta o perill local verificat.
-- No s'ha establert per què difereixen les dates de l'HTML i del PDF.
-  Els gruixos de la còpia de juliol no es tracten com a mesures de setembre.
-- Inventari d'allaus i episodis històrics pendents. El
+- ~~No s'han llegit dades individuals d'estacions, límits geogràfics precisos
+  de les zones ni una sèrie d'actualitzacions. Cap ruta o perill local verificat.~~ —
+  **`parcial` el 2026-09-22**: el PDF i l'HTML locals permeten descriure l'avís
+  i la seva escala, però no les dades d'estació ni els límits operatius.
+- ~~No s'ha establert per què difereixen les dates de l'HTML i del PDF.
+  Els gruixos de la còpia de juliol no es tracten com a mesures de setembre.~~ —
+  **`parcial` el 2026-09-22**: la discrepància queda documentada (12–15 de
+  juliol al PDF, 9–12 de setembre a l'HTML); la causa tècnica continua sense
+  prova i no s'atribueix a cap versió.
+- ~~Inventari d'allaus i episodis històrics pendents. El
   [reglament de terrenys de 2016 i la modificació de 2023](el-terreny-sense-classificar-i-les-allaus.md)
   ja tenen una primera lectura; no s'han verificat polígons reglamentaris
-  ni tota la cadena posterior.
+  ni tota la cadena posterior.~~ — **`parcial` el 2026-09-22**: el reglament
+  local ja té una primera lectura, però resten polígons i episodis històrics.
  - Llicència de reutilització pendent; originals i lectura fora de datasets.
    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
