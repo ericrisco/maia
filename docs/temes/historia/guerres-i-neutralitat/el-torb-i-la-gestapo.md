@@ -175,13 +175,21 @@ Coco).
 
 ## El que falta
 
-- **Veure la sèrie.** **El corpus en té la fitxa, no el contingut.**
+- ~~**Veure la sèrie.** **El corpus en té la fitxa, no el contingut.**~~ —
+  **`parcial` el 2026-09-22**: el corpus conserva els subtítols locals dels dos
+  capítols de 3Cat ([part 1](../../../raw/sdd/ewa/eloise-fontargente/3cat-torb-part1.ca.vtt)
+  i [part 2](../../../raw/sdd/ewa/eloise-fontargente/3cat-torb-part2.ca.vtt)) i la
+  fitxa de producció amb dates, durades i sinopsis. No s'ha revisat l'àudio ni la
+  imatge completa, de manera que aquesta lectura no substitueix veure la sèrie.
 - **Els 150 andorrans que hi van fer d'extres**: **cap nom.** **És la
   participació popular més gran en una producció audiovisual sobre la pròpia
   història que el corpus coneix, i no en sap res.**
 - ~~**Francesc Viadiu**, ***Entre el torb i la Gestapo***: **el llibre, no llegit.**~~ — **`parcial` el 21-09-2026**: el registre bibliogràfic del [Parlament de Catalunya](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/parlament-fitxa-viadiu-2025.txt) i el [catàleg CCUC](../../../raw/sdd/ewa/eloise-fontargente/francesc-viadiu-fons/ccuc-sru-entre-torb-1975.xml) identifiquen Francesc Viadiu i Vendrell, la **2a edició**, **Nova Terra**, **Barcelona, 1975** i **237 pàgines**; el llibre encara no s'ha llegit.
 - **El reportatge d'Eliseo Bayo del 1977.**
-- **El TFG de Sergi Esteves**, en accés obert.
+- ~~**El TFG de Sergi Esteves**, en accés obert.~~ — **`resolt` el 2026-09-22**:
+  el TFG ja consta com a baixat i llegit a la [fitxa de font](../../../fonts/esteves-exili-i-evasions.md),
+  i les seves troballes ja alimenten [els refugiats de la Guerra Civil](./els-refugiats-de-la-guerra-civil.md)
+  i [l'estat de la qüestió de les evasions](../historiografia/lestat-de-la-questio-de-les-evasions.md).
 - ~~**Els cinc llibres nous** de la taula.~~ **[parcial · 2026-09-19]** La
   taula ja identifica els cinc títols i autors nous —*El Andorrano* (Joaquín
   Abad), *Los senderos de la libertad* (Eduard Pons Prades), *Les cols de

@@ -238,9 +238,11 @@ plus florissante de ce pays: la contrebande*».**
    fulletó com *Las Cortes Españolas de 1895. Las Franquícias de Andorra*, de
    J. de Carvajal, Imp. Hijos de M.G. Hernández, Madrid, 1895, 45 p., 20 cm.;
    encara no tenim l'opuscle ni la taula de la p. 9.
-7. **Què deien els andorrans** de l'acusació de doble comptatge. **El corpus té
+7. ~~**Què deien els andorrans** de l'acusació de doble comptatge. **El corpus té
    la queixa francesa i la declaració del bisbe, i cap resposta del Consell
-   General sobre les xifres.**
+   General sobre les xifres.**~~ — **`font_externa` el 2026-09-22**: cal consultar
+   les actes del Consell General o la correspondència de la negociació duanera
+   per trobar una resposta andorrana sobre els recomptes.
 8. ~~**Si les franquícies espanyoles es van restablir mai** després del 1904.
    **Segueix obert.**~~ — **`resolt` el 2026-09-20**: [El desenllaç de la
    qüestió duanera](../../historia/segle-xix/el-desenllac-de-la-questio-duanera.md)

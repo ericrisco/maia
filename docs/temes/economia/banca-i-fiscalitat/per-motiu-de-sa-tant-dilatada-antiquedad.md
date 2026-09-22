@@ -222,8 +222,11 @@ l'encadenament.**
    protecció i pèrdua dels endarreriments dels decrets de **1785**, i el decret
    de **1854** fixa terminis posteriors. **Continua obert quin règim regia
    exactament el 1788 i per què es va arribar a acumular aquest període.**
-5. **La data del censal de la peça XVIII-XIX**, **que l'escriptura no transcriu**,
-   **i l'acte de Pere Guarda y Martí.**
+5. ~~**La data del censal de la peça XVIII-XIX**, **que l'escriptura no transcriu**,
+   **i l'acte de Pere Guarda y Martí.**~~ — **`parcial` el 2026-09-22**: la fitxa
+   identifica la peça com la venda de **13 d'abril de 1788** a Sant Julià i
+   conserva el nom del notari que hi és citat, **Pere Guarda y Martí**; el títol
+   anterior del censal i el seu acte original no formen part del document llegit.
 6. ~~**Si la designació «*la casa y hort de [el deutor difunt]*» era la
    denominació oficial** o **una identificació d'aquell acte.**~~ — **`font_externa`
    el 2026-09-22**: **la fórmula només identifica l'immoble dins l'escriptura**.
