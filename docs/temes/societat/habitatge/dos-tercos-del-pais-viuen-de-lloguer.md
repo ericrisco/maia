@@ -210,12 +210,14 @@ semestral.`
   2022** (**−5,5%**) i després puja a **685,82 € el 2023**. La font confirma el
   descens i la recuperació, però no explica si és un canvi de preu o de
   composició de la mostra.
-- **El preu mitjà del lloguer no és per metre quadrat.** No es pot comparar
+- ~~**El preu mitjà del lloguer no és per metre quadrat.** No es pot comparar
   directament amb els **13,5 €/m² del SICAR** ni amb els **9,5 €/m² de l'A062**
   sense la superfície mitjana dels pisos llogats, **que aquesta taula no dona**.
-  `font_externa`
-- **La sèrie no arrenca fins al 2010.** De **l'habitatge dels anys noranta i
-  del 1989** el corpus segueix tenint **només frases**, cap preu.
+  `font_externa`~~ — **`font_externa` el 2026-09-22**: cal la superfície
+  mitjana o microdades dels pisos llogats per fer la comparació.
+- ~~**La sèrie no arrenca fins al 2010.** De **l'habitatge dels anys noranta i
+  del 1989** el corpus segueix tenint **només frases**, cap preu.~~ —
+  **`font_externa` el 2026-09-22**: cal una sèrie de preus anterior a 2010.
 - ~~**La sèrie d'hipoteques no dona ni mediana ni distribució**, i **la mitjana
   del 2025 es dobla en un any.** **Sense la distribució no es pot saber si és
   el mercat o una sola operació.**~~ — **`font_externa` el 2026-09-22**: cal

@@ -269,9 +269,10 @@ notarials del XV al XVII.**
 7. **Els tres actes de 1603** davant el batlle **Joan Ricart**: **el jurament i
    homenatge del 26 d'octubre, la llibertat sota fiança del mateix dia, i la treva
    de sis mesos del 5 de setembre.** `obert.`
-8. **Quantes treves entre particulars imposava la Justícia andorrana**, i **si se
+8. ~~**Quantes treves entre particulars imposava la Justícia andorrana**, i **si se
    n'ha conservat sèrie**. **La font en cita una i diu que l'objecte de
-   l'*hostatge* no hi apareix clarament.** `obert, nou.`
+   l'*hostatge* no hi apareix clarament.** `obert, nou.`~~ — **`font_externa` el
+   2026-09-22**: cal consultar actes i protocols per saber si existeix una sèrie.
 
 **Un buit de la font no és un buit del món.** Que **els pràctics del 1904
 n'haguessin perdut la memòria** és una dada sobre el 1904, **no sobre els arxius**:

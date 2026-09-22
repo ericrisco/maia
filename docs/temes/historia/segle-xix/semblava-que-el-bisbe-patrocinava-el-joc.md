@@ -250,11 +250,13 @@ carreteres**, **i la fractura institucional que en va sortir.**
    anul·lar la concessió al·legant que no s’havia consultat França** —**els
    obrers van deixar la Solana**. **Si s’hi va jugar i durant quant de temps,
    segueix sense constar per cap de les dues fonts.**
-4. **La carta de Lluís XIII a M. d'Argenson del 14 de maig de 1642.** **Citada amb
+4. ~~**La carta de Lluís XIII a M. d'Argenson del 14 de maig de 1642.** **Citada amb
    data i destinatari, sense arxiu.** **Prioritari**: és **el document més antic
-   d'aquesta sèrie.**
-5. **L'ordre al general Castellanos** de posar-se a les ordres del síndic general.
-   **Sense data ni referència.** **Prioritari pel que afirma.**
+   d'aquesta sèrie.**~~ — **`font_externa` el 2026-09-22**: cal localitzar la
+   carta diplomàtica citada sense signatura d'arxiu.
+5. ~~**L'ordre al general Castellanos** de posar-se a les ordres del síndic general.
+   **Sense data ni referència.** **Prioritari pel que afirma.**~~ —
+   **`font_externa` el 2026-09-22**: cal localitzar l'ordre i la seva referència.
 6. ~~**L'expedient del dipòsit de les rendes del bisbe i els canonges el 1836**, amb
    **intervenció del bisbe d'Albi.**~~ — **`font_externa` el 2026-09-22**: la font
    només en resumeix el resultat; cal consultar l'expedient del dipòsit per

@@ -371,9 +371,10 @@ existeixen.**
   `docs/raw/estadistica-api/resta-del-cataleg/`** —**118.066 valors**— **des del
   bolcat del catàleg sencer**. El que faltava no era baixar-les, era llegir-les:
   [la taxa de resolució per article](#quines-infraccions-es-resolen-i-quines-no).
-- **No hi ha taxa per habitant** de cap d'aquestes sèries, i **la nacionalitat
+- ~~**No hi ha taxa per habitant** de cap d'aquestes sèries, i **la nacionalitat
   de detenció i la població per origen no es mesuren igual**, de manera que **el
-  corpus no la calcula.** `font_externa`
+  corpus no la calcula.**~~ — **`font_externa` el 2026-09-22**: calen
+  denominadors compatibles de població i detencions per construir la taxa.
 - ~~**La divisió 1840** —estupefaents, altres tipus, en grams per tipus— **fa
   *timeout*** a l'API.~~ **`resolt` el 18-09-2026**: **ni fa *timeout* ni falta**
   —**és al bolcat del catàleg sencer**—, i **la taula que es donava per
