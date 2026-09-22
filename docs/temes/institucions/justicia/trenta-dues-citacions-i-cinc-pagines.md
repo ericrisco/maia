@@ -225,9 +225,11 @@ mateix**.
    de Brutails al règim notarial de la carta de **febrer de 1607** permet fixar
    que el manuscrit és **posterior a aquella data**; **el corpus encara no té
    cap límit superior de datació.**
-3. **Si «*Un* manuscrit… del segle XVI» i «*le* manuscrit… del segle XVII» són
+3. ~~**Si «*Un* manuscrit… del segle XVI» i «*le* manuscrit… del segle XVII» són
    dos textos diferents.** **La font els tracta gramaticalment com a coses
-   distintes i no ho diu enlloc.**
+   distintes i no ho diu enlloc.**~~ — **`font_externa` el 2026-09-22**: només
+   la consulta del manuscrit o del fons Palmitjavila pot aclarir si són dues
+   peces o dues referències al mateix text.
 4. ~~**La carta de febrer de 1607** sobre el nomenament del notari de la Cort
    —**llista de dos noms del Consell General, tria alternativa dels Cosenyors**—,
    **que el corpus té per aquesta sola menció.**~~ — **`parcial` el 2026-09-21**:

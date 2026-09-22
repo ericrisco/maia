@@ -91,9 +91,11 @@ no freqüències d'accidents observades en edificis andorrans.
 
 ## Buits registrats
 
-- No s'ha consultat cap inventari de boscos R7, informe de revisió,
+- ~~No s'ha consultat cap inventari de boscos R7, informe de revisió,
   expedient de desallotjament, escriptura ni contracte. La prescripció
-  publicada no acredita el seu compliment efectiu.
+  publicada no acredita el seu compliment efectiu.~~ — **`font_externa` el
+  2026-09-22**: cal consultar inventaris, informes, expedients i documents
+  contractuals que no formen part del corpus.
 - ~~Falta contrastar les remissions a la Llei general d'ordenació del
   territori i urbanisme i la jurisprudència sobre responsabilitat,
   renúncia de reclamacions, declaració de ruïna i transmissions.~~ —

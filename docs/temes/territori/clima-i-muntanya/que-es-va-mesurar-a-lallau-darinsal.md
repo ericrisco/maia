@@ -178,16 +178,20 @@ del fenomen. No és un nivell de perill emès pel
 - El pla de 2022, p. 8, esmenta més de 600 kPa, sense contrast
   original aconseguit aquí. Els valors inferits el 2020 per arbres
   i edificis no s'han equiparat automàticament a aquest màxim.
-- Les defenses també tenen una discrepància pendent: el treball de
+- ~~Les defenses també tenen una discrepància pendent: el treball de
   2020, p. 21, descriu un dic de 18 m i un altre de més petit; el pla
   de 2022, p. 8, diu dos dics de 18 m construïts el 1999. No s'han
   llegit els projectes ni mesurat les obres per resoldre-la. Becat,
   p.231, també descriu un dic principal i un altre de més petit,
   sense resoldre'n les alçades. Els seus terminis d'obres, p.230,
-  tampoc no s'han contrastat amb expedients.
-- Aquesta lectura no cobreix l'inventari d'allaus del país ni el
+  tampoc no s'han contrastat amb expedients.~~ — **`font_externa` el
+  2026-09-22**: cal consultar els projectes, mesurar les obres i revisar els
+  expedients de construcció.
+- ~~Aquesta lectura no cobreix l'inventari d'allaus del país ni el
   contrast contemporani de l'episodi de 2015. Tampoc acredita
-  l'operativitat actual de les proteccions.
+  l'operativitat actual de les proteccions.~~ — **`font_externa` el
+  2026-09-22**: cal consultar l'inventari nacional, dades contemporànies i
+  informes de manteniment o operativitat.
  - Article de2020 sota CC BY4.0; drets de la comunicació de1996,
    de les peces de Becat i del pla pendents. Aquesta lectura conjunta no s'exporta a datasets.
    **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
