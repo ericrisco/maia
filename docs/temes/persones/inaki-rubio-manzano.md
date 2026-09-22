@@ -79,9 +79,9 @@ Festival (2018).
    **23 contes**, a més d'enumerar *Suite eterna*, *Trencadís*, *Els caus
    secrets*, *L'altre costat del mirall*, *Bestiari Pirinenc* i *Pau de Gósol*.
    Encara no en documenta el contingut íntegre.
-2. **Si el sumari judicial confirma** que Pere Areny va estar detingut
+2. ~~**Si el sumari judicial confirma** que Pere Areny va estar detingut
    al «corral» del soterrani de la Casa de la Vall — la font sobre
-   Rubio no ho confirma ni ho desmenteix.
+   Rubio no ho confirma ni ho desmenteix.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -113,7 +113,7 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
   a part la novel·la curta *7 gats*. El corpus encara no conserva els textos
   íntegres ni el contingut complet de cadascuna.
 - ~~**Quan va arribar a Andorra**, i per què.~~ — **`parcial` el 20-09-2026**: la [font biogràfica](../../fonts/wikipedia-religio-andorra.md) conserva la fórmula **«De tornada a Andorra»** abans de la redacció d’*Andorra* (Selecta, 1967), de manera que acredita el retorn previ a 1967; no dona l’any exacte ni el motiu. **Va morir a Sant Julià de Lòria** el 17 de gener de 2004.
-- ***7 gats***, que la font esmenta sense dades d'edició.
+- ~~***7 gats***, que la font esmenta sense dades d'edició.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La Nit Literària Andorrana** i **l'AEPA**: cap fitxa de cap.~~ —
   **`parcial` el 18-09-2026**: **l'AEPA es funda el 1995**, amb seu a la
   Biblioteca Nacional d'Andorra ([font](../../fonts/aepa-escriptorsand.md)).

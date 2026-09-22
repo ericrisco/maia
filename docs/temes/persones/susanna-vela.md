@@ -57,9 +57,9 @@ combinen erudició i càrrec públic.
 
 ## Buits registrats
 
-1. **La seva activitat com a consellera general** després del 2023, més
-   enllà de la reelecció.
-2. **El contingut complet de la seva tesi doctoral** (1994-95).
+1. ~~**La seva activitat com a consellera general** després del 2023, més
+   enllà de la reelecció.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**El contingut complet de la seva tesi doctoral** (1994-95).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

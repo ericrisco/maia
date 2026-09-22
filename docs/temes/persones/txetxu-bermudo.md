@@ -88,12 +88,12 @@ mostra com el club va convertir aquesta continuïtat en memòria institucional.
 
 ## El que falta
 
-- Una entrevista llarga en què expliqui el títol del 2004.
-- La crònica contemporània de la final.
-- El registre complet de les tretze internacionalitats.
-- Els seus números en les categories anteriors a LEB Plata després del retorn.
-- El dorsal retirat: la notícia consultada explica l'homenatge, però no en dona
-  el número.
+- ~~Una entrevista llarga en què expliqui el títol del 2004.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~La crònica contemporània de la final.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El registre complet de les tretze internacionalitats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els seus números en les categories anteriors a LEB Plata després del retorn.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El dorsal retirat: la notícia consultada explica l'homenatge, però no en dona
+  el número.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

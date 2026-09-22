@@ -157,12 +157,12 @@ en una còpia web de FIBA. El total d'internacionalitats, en canvi, s'ha perdut.
 
 ## El que falta
 
-- El total exacte d'internacionalitats.
-- Les estadístiques completes de les competicions que no conserva el perfil
-  FIBA consultat.
-- Una entrevista retrospectiva pròpia i no només les paraules de Jaume Tomàs.
-- Les estadístiques de club durant l'ascens des de Tercera Catalana.
-- Vídeo de la final del 2014 i de l'homenatge del 2015.
+- ~~El total exacte d'internacionalitats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Les estadístiques completes de les competicions que no conserva el perfil
+  FIBA consultat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Una entrevista retrospectiva pròpia i no només les paraules de Jaume Tomàs.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Les estadístiques de club durant l'ascens des de Tercera Catalana.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Vídeo de la final del 2014 i de l'homenatge del 2015.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 
