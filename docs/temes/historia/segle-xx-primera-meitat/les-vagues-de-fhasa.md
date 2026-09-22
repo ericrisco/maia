@@ -145,10 +145,12 @@ relació real entre les dues coses.
 - El llibre de **René Baulard** (**1934**), que és **font primària del cap de la
   gendarmeria ocupant**.
 - La cobertura de **La Vanguardia del 24 de juny de 1933**, citada per l'autora.
-- **Els llibres d'actes del Consell General** del 1929 i el 1933 a l'
+- ~~**Els llibres d'actes del Consell General** del 1929 i el 1933 a l'
   [Arxiu Nacional](../../cultura/museus-i-arxius/larxiu-nacional.md), que
   l'autora cita amb foli i tot (**ANA, 26-27.03.1929, f. 266 i seg.**;
-  **13.05.1929, f. 267 i seg.**).
+  **13.05.1929, f. 267 i seg.**).~~ — **`font_externa` el 2026-09-22**: cal
+  consultar aquests folis de l'Arxiu Nacional per llegir les actes i precisar
+  els dies de les vagues.
 
 ## Related
 

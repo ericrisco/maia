@@ -202,9 +202,11 @@ s'endevina:
 
 ## Buits registrats
 
-1. **Els tres actes medievals sencers** —**25-07-1477, 21-03-1488 i
+1. ~~**Els tres actes medievals sencers** —**25-07-1477, 21-03-1488 i
    27-07-1599**—, **cap amb signatura d'arxiu.** **Prioritari**: **són les
-   crides senceres i el corpus només en té l'extracte.**
+   crides senceres i el corpus només en té l'extracte.**~~ — **`font_externa` el
+   2026-09-22**: la font no dona signatura dels tres actes; cal localitzar els
+   originals o els llibres que els conserven.
 2. ~~**Per què el pregó del 25 de juliol de 1477 dona trenta-un dies i les
    declaracions de crèdits es reben el 15 d'agost**, **deu dies abans que
    s'acabi el termini.** **Pot ser que el termini corri des de la darrera crida.**

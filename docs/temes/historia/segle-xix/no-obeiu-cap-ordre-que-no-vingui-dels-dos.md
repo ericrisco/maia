@@ -280,9 +280,10 @@ I la regla que el Consell subratlla:
    de confirmació com a **7-10-1282, Montefiascone** (Baluze 81, f. 369r-v; còpia
    Doat 162, f. 50r-51v). **El manuscrit i el text de la butlla encara no s'han
    vist.**
-8. **L'acta o el text del discurs del bisbe del 1882.** **La font el cita
-   «sustancialmente», de memòria i en contra.** `Pot ser a la premsa de la Seu o
-   al butlletí del bisbat.`
+8. ~~**L'acta o el text del discurs del bisbe del 1882.** **La font el cita
+   «sustancialmente», de memòria i en contra.**~~ — **`font_externa` el 2026-09-22**:
+   cal consultar la premsa de la Seu o el butlletí del bisbat per trobar el text
+   contemporani del discurs.
 9. **Si la comissió del Consell dins del Tribunal de Corts va demanar mai rebaixa
    de pena**, i **si es va concedir.** **La font en dona la facultat, no cap cas.**
 10. ~~**Si aquesta descripció del Tribunal de Corts coincideix amb la de Brutails**,

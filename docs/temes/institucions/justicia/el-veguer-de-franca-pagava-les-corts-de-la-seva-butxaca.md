@@ -345,9 +345,11 @@ capítol IV, «*per tenir ja de altra part lo salari*»**
    **El mot és del document i no de la llengua descrita**, i **tancar-lo demana
    documentació fiscal medieval, no lexicogràfica.** També **segueixen oberts els
    6 diners** que no s'assignen a ningú.
-4. **Els sis casos de composició** —**18-05-1471, 1475, 26-03-1488, 1488/89,
+4. ~~**Els sis casos de composició** —**18-05-1471, 1475, 26-03-1488, 1488/89,
    02-08-1606 i 11-12-1606**— **sencers.** **Prioritari**: **cap no porta
-   signatura d'arxiu.**
+   signatura d'arxiu.**~~ — **`font_externa` el 2026-09-22**: la fitxa conserva
+   les dates i els resums, però cal localitzar els actes originals per llegir
+   els sis casos sencers.
 5. ~~**Si la *truita* es repartia **per meitats** o **tres quarts i un quart**.**~~ —
    **`parcial` el 18-09-2026: la banda del Politar ja és literal.** **La p. 203
    diu «per meitats» sense matisos**: **«La truita, com son pernills, formatges,
