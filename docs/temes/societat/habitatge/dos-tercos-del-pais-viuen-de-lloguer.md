@@ -216,9 +216,10 @@ semestral.`
   `font_externa`
 - **La sèrie no arrenca fins al 2010.** De **l'habitatge dels anys noranta i
   del 1989** el corpus segueix tenint **només frases**, cap preu.
-- **La sèrie d'hipoteques no dona ni mediana ni distribució**, i **la mitjana
+- ~~**La sèrie d'hipoteques no dona ni mediana ni distribució**, i **la mitjana
   del 2025 es dobla en un any.** **Sense la distribució no es pot saber si és
-  el mercat o una sola operació.** `font_externa`
+  el mercat o una sola operació.**~~ — **`font_externa` el 2026-09-22**: cal
+  la distribució estadística o les microdades de les hipoteques.
 - ~~**Per què el 2025 «altres usos» i «demandants internacionals» valen tots dos
   103**~~ — **`parcial` el 20-09-2026**: les dues xifres provenen de taules
   diferents —**103 hipoteques per a altres usos** i **103 demandants

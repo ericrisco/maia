@@ -748,8 +748,10 @@ la prosa són sistemàtics i cap no altera una conclusió.**
   mateix buit i el corpus no ha destil·lat.**
 - **El nom de l'organisme que fa l'estudi**, que el mateix llibret escriu de dues
   maneres.
-- **La font original de l'annex d'assalariats** segueix sense ser al corpus, i
-  **la sèrie acaba el 2017** sense desglossament per nacionalitat.
+- ~~**La font original de l'annex d'assalariats** segueix sense ser al corpus, i
+  **la sèrie acaba el 2017** sense desglossament per nacionalitat.~~ —
+  **`font_externa` el 2026-09-22**: cal obtenir la font administrativa original
+  i les dades posteriors amb desglossament.
 - **Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
   en cap dataset** i el PDF **no es versiona**. **`no-es-buit`**: és un avís de
   drets, no una pregunta de recerca.

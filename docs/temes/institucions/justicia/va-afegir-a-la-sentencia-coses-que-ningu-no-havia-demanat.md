@@ -260,8 +260,10 @@ prefaci)*, **que diu com va poder escriure el llibre:**
 
 ## Buits registrats
 
-1. **Les actes de les sessions del Tribunal Superior.** **El corpus té tres
-   sentències triades per un autor i cap sèrie.** **Prioritari.**
+1. ~~**Les actes de les sessions del Tribunal Superior.** **El corpus té tres
+   sentències triades per un autor i cap sèrie.** **Prioritari.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar la sèrie d'actes del Tribunal
+   Superior, que no és al corpus.
 2. **D'on surt l'interès del 4 %** de les condemnes. **Cap de les sentències no
    cita norma.** **Nou.**
 3. **L'equivalència de la lliura** d'aquests plets amb la pesseta i el duro.

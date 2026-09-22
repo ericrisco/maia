@@ -275,12 +275,14 @@ tot.**
 
 ## Buits registrats
 
-1. **Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
+1. ~~**Quants notaris hi ha avui, de fet.** La llei en fixa el mínim i el sostre;
    **el corpus no té el nombre real**. — **I des del 15-09-2026 se sap que el
    mínim legal d'avui és el doble del que hi va haver el 1918**: **la sèrie no és
    creixent.**
    `Buit nou: la data i la forma de l'acord entre França i el bisbe que va
-   suprimir notaris cap al 1918, i quants se'n van suprimir.`
+   suprimir notaris cap al 1918, i quants se'n van suprimir.`~~ — **`font_externa`
+   el 2026-09-22**: el nombre actual i l'acord de 1918 requereixen registres
+   notarials o dades oficials fora de les fitxes locals.
  2. ~~**La carta de febrer de 1607, sencera**~~ — **`parcial` des del 15-09-2026**:
     el mecanisme ja té nom andorrà. El **capítol VI del llibre II del Politar**
    descriu el sistema en vigor: **el nomenen «alternativament per vida» el Bisbe

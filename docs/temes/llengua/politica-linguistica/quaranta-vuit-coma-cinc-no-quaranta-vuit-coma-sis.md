@@ -441,9 +441,11 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
 - **El qüestionari.** No és al llibret. **Sense ell, no se sap com estava
   formulada cap pregunta** llevat de la del canvi de llengua, que sí que es
   reprodueix.
-- **El marge d'error de les submostres.** **199, 362, 429 i 528 persones**
+- ~~**El marge d'error de les submostres.** **199, 362, 429 i 528 persones**
   sostenen algunes de les xifres més citades i **el document només publica el
-  marge del conjunt**. `Requereix les bases de dades.`
+  marge del conjunt**. `Requereix les bases de dades.`~~ — **`font_externa` el
+  2026-09-22**: el càlcul requereix les bases de dades individuals de les
+  submostres.
 - **La fórmula de l'indicador lingüístic no reprodueix els seus propis valors.**
   **Setze proves, setze fallades en el mateix sentit.** El corpus hi deixa una
   hipòtesi marcada i **no la pot comprovar sense les dades individuals.**
