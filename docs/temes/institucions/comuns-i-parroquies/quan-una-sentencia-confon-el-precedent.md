@@ -87,10 +87,12 @@ els límits del recurs d’empara.
   capçalera, antecedents 1.1–1.8, fonaments 3.1–3.6 i decisió 1–5; pàgines 8–9
   contrastades visualment. No s’han rellegit íntegrament al PDF els arguments
   2.1–2.4 ni s’han comparat automàticament les còpies.
-- L’aute d’admissió del 27 d’abril de 2026 s’ha identificat però no
+- ~~L’aute d’admissió del 27 d’abril de 2026 s’ha identificat però no
   s’ha llegit. Aquesta lectura no resol el buit sobre l’article 117.8
   de la LGOTU i la suspensió cautelar de plans nacionals o sectorials,
-  ni acredita expedients de cessions o informes comunals vinculants.
+  ni acredita expedients de cessions o informes comunals vinculants.~~ —
+  **`font_externa` el 2026-09-22**: l’aute està identificat però cal consultar-lo,
+  i els expedients i informes comunals tampoc no formen part del corpus local.
 - ~~Els drets de la còpia del [portal del Tribunal](../../../fonts/tribunal-constitucional-ad.md)
   continuen pendents. Les cites remeten a la publicació BOPA, sota les seves
   condicions textuals registrades. Evidència fora del corpus; cap dataset.~~ —

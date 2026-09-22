@@ -236,10 +236,12 @@ font andorrana de 1551 fes servir exactament la mateixa construcció jurídica.*
 
 ## Buits registrats
 
-1. **L'acte de treves del 19 de setembre de 1551** sencer, **amb signatura
+1. ~~**L'acte de treves del 19 de setembre de 1551** sencer, **amb signatura
    d'arxiu**, **i els noms afegits al marge de l'original.** **Prioritari**:
    **és el formulari complet d'una institució que el corpus només tenia
-   resumida.**
+   resumida.**~~ — **`font_externa` el 2026-09-22**: la fitxa en conserva un
+   resum, però l'acte complet i l'original amb signatura i marges requereixen
+   consulta d'arxiu.
 2. ~~**Què són les ***tinencies***.** `Requereix comprovació lexicogràfica.`~~ —
    **`parcial` el 21-09-2026**: l'estudi català d'Oliola (1494) defineix
    *tinença* com l'obligació de mantenir el pacte i documenta «un any i deu dies

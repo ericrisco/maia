@@ -215,10 +215,12 @@ mateix**.
 
 ## Buits registrats
 
-1. **El manuscrit sencer.** **Segueix sent el buit més gran del corpus en aquest
+1. ~~**El manuscrit sencer.** **Segueix sent el buit més gran del corpus en aquest
    llibre**, **però ara està especificat**: **falten els nou primers paràgrafs,
    tota la matèria criminal i l'aranzel.** **Prioritari.**
-   `Requereix localitzar el fons Palmitjavila.`
+   `Requereix localitzar el fons Palmitjavila.`~~ — **`font_externa` el
+   2026-09-22**: el corpus només té les cinc pàgines publicades i les citacions;
+   el manuscrit sencer requereix localitzar el fons Palmitjavila.
 2. ~~**El *terminus ante quem*.**~~ — **`parcial` el 2026-09-21**: la referència
    de Brutails al règim notarial de la carta de **febrer de 1607** permet fixar
    que el manuscrit és **posterior a aquella data**; **el corpus encara no té
@@ -232,8 +234,10 @@ mateix**.
    Brutails en conserva el contingut essencial —**el Consell sotmet dos noms i
    els Cosenyors trien alternativament**— i el fa servir per datar el manuscrit;
    **l'original de la carta continua fora del corpus.**
-5. **Si el fons Palmitjavila es conserva i on.** **Prioritari**: **el corpus té
-   tres documents identificats i cap localització.**
+5. ~~**Si el fons Palmitjavila es conserva i on.** **Prioritari**: **el corpus té
+   tres documents identificats i cap localització.**~~ — **`font_externa` el
+   2026-09-22**: la localització del fons no consta en les fonts locals
+   consultades.
 6. **La norma que permet al Jutge d'Apel·lacions «*provehir… en lo lloch de sa
    habitació*», fos França o Espanya**, **contra el criteri amb què el Consell
    General va anul·lar un edicte el 1890 per no estar signat a Andorra.**

@@ -210,8 +210,9 @@ amb autor. El corpus les registra com a seves.`
    **La conclusió que el corpus n'extreu**: **«pendre-se-la de sa pròpia
    autoritat» no descriu un acte de força sinó una clàusula d'estil**, i **el que
    varia entre actes és el preu i la cosa, no les paraules.**
-3. **L'acte del 12 de març de 1788**, sencer. **Sense signatura d'arxiu a la
-   font.** `obert.`
+3. ~~**L'acte del 12 de març de 1788**, sencer. **Sense signatura d'arxiu a la
+   font.**~~ — **`font_externa` el 2026-09-22**: la fitxa només conserva la
+   transcripció citada per Brutails i no aporta signatura ni original d'arxiu.
 4. **L'instrument «d'una dotzena d'anys enrere»** —**cap al 1892**— on la confusió
    entre les dues clàusules és aparent. **La font el cita i no el data ni
    l'identifica.** `obert.`
