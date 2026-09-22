@@ -14,7 +14,7 @@ tags: [parla, onomastica, carrers, lexic-marcat, transcripcio-no-verificada]
 # El carrerer nacional
 
 **Tanda 20 de parla.** Càpsula #27 d'Andorra Recerca + Innovació, **13 min 44 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-27/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-27/capsula-27-els-noms-dels-carrers-andorrans-per-alfred-llahi.md)).
 
 ## Avís
 

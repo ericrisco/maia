@@ -17,7 +17,7 @@ tags: [arxius, patrimoni, dret-vigent, historia, documents, transparencia, prior
 
 **Vint-i-set peces del Butlletí Oficial del Principat d'Andorra**, descarregades
 el **2026-09-13**, amb hash i localitzador
-([evidència](../../../raw/historia-arxiu/README.md), [font](../../../fonts/bopa-ad.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md), [font](../../../fonts/bopa-ad.md)).
 Entre elles, les **setze** que fan la cadena d'aquesta fitxa: la Llei 20/2017, la
 Llei 33/2021, la Llei 4/2022, la dissolució d'una comissió i el nomenament d'una
 altra, dos decrets del 2022, i **els sis edictes que publiquen les trenta-dues
@@ -198,7 +198,7 @@ al butlletí oficial.
 **Els edictes de la CAD i de la CAAD s'han llegit.** Són **vint-i-sis edictes
 estatals** entre el **25 de juny del 2015** i el **18 de novembre del 2025**, més
 una correcció d'errata i un edicte comunal
-([evidència](../../../raw/lleis/bopa/avaluacio-documental/README.md)). Contenen, comptades
+([evidència](../../../raw/lleis/bopa/avaluacio-documental/taules-d-avaluacio-documental-publicades-al-bopa.md)). Contenen, comptades
 per número d'expedient, **223 taules d'avaluació documental**.
 
 | Any de la taula | Taules | Qui la va establir |

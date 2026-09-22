@@ -260,4 +260,4 @@ se'l mira amb simpatia i no amb vergonya.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — el que volia substituir.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — qui el va votar.
 - [Literatura andorrana](../../cultura/literatura/literatura-andorrana.md) — la novel·la de Morell.
-- [Persones](../../persones/README.md) — la branca de biografies.
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md) — la branca de biografies.

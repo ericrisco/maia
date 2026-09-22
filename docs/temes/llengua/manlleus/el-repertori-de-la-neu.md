@@ -305,7 +305,7 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
   2026-09-19**: l'índex ja està localitzat a les pàgines 309-316 i se'n coneix
   el recompte; encara no s'han buidat els 257 termes.
 - ~~**Quina part d'aquestes formes es diu realment a Andorra avui**, contra
-  [parla](../../../parla/README.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El mateix exercici per a un altre àmbit.** **No n'hi ha cap.** L'estudi és
   d'un sol camp, triat perquè a Andorra és econòmicament central.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Drets tancats.** **Copyright de les autores i de l'edició, cap llicència.**
@@ -319,4 +319,4 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
 - [Els anglicismes](./els-anglicismes.md) — per on entren.
 - [Lèxic andorrà](../lexic-andorra/lexic-andorra.md) — el vocabulari marcat.
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — qui ensenya aquest vocabulari.
-- [Les estacions d'esquí](../../economia/turisme-i-neu/estacions/README.md) — on es diu.
+- [Les estacions d'esquí](../../economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md) — on es diu.

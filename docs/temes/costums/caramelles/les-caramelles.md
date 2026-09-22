@@ -62,7 +62,7 @@ per la 25a edició.
 
 - ~~**Les lletres.** Són text cantat en català d'Andorra: si són de composició
   local i tradicional, poden ser material de
-  [parla](../../../parla/README.md) i no només de temes. **Prioritari.**~~ —
+  [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md) i no només de temes. **Prioritari.**~~ —
   **`parcial` el 21-09-2026**: la fitxa documenta el recorregut i les corals, però
   **no conserva cap transcripció de les lletres ni una font amb drets clars per
   incorporar-les al corpus de parla**.

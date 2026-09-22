@@ -82,4 +82,4 @@ Pontifici.** **Enterrat a la Seu d'Urgell.**
 - [Els casalers i els anfochs](../historia/segle-xix/els-casalers-i-els-anfochs.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
 - [Els bisbes d'Urgell](../historia/edat-mitjana/els-bisbes-durgell.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

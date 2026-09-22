@@ -14,7 +14,7 @@ tags: [parla, toponimia, llengua, transcripcio-no-verificada, contingut-no-citab
 # Una xerrada de topònims que la màquina no sap escriure
 
 **Tanda 17 de parla.** Càpsula #45 d'Andorra Recerca + Innovació, **17 min 32 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-45/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-45/capsula-45-toponimia-preromana-a-andorra-per-xavier-planas.md)).
 
 ## Avís fort: el contingut d'aquesta peça no s'ha de citar
 

@@ -78,7 +78,7 @@ dels dos andorrans no va acabar cap cursa.
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Els altres Jocs](../../competicio/els-altres-jocs.md) — el paralimpisme andorrà.

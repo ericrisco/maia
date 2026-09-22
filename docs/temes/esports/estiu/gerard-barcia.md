@@ -50,5 +50,5 @@ del corpus**, repetida prou vegades per merèixer una fitxa pròpia algun dia.
   tres línies.**
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)

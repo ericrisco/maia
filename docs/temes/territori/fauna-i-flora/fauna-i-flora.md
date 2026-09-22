@@ -185,7 +185,7 @@ andorrà*.**
   mots aplegats per camp semàntic**, tots del corpus. **El que segueix obert és
   el que el glossari mateix declara**: comprovar **mot per mot si és viu avui, en
   quina parròquia i en quina generació.** **Això no es fa amb bibliografia: es fa
-  amb [parla](../../../parla/README.md).**
+  amb [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).**
 - ~~La **transhumància** i els noms de les pastures — lligat a *peixena*,
   *peixeder*, *rebaixant*, *eixivern*, mots que el corpus ja té documentats.~~ —
   **`resolt` pel que fa als mots** (secció de dalt, amb l'escala d'altitud que

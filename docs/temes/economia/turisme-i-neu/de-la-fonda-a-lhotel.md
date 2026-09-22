@@ -109,7 +109,7 @@ desenvolupa i **esdevé un factor clau en l'economia del país**.»
 I el detall humà que no s'ha de perdre: al capdavant de les fondes que es fan
 hotels hi ha **«homes i dones treballadors i disposats a sacrificar-se per tirar
 endavant l'hotel i la família»**. **Dones, explícitament.** Vegeu
-[dones](../../societat/dones/README.md).
+[dones](../../societat/dones/dones-index-de-fitxes.md).
 
 ## Escaldes i l'aigua
 
@@ -229,7 +229,7 @@ gestionen— i per tant no pot dir quants pisos són. La relació amb
    Muntanya.
 3. ~~**El termalisme** com a branca.~~ — **`parcial` el 21-09-2026**: la fitxa situa el centre termal a **Escaldes**, documenta els primers hotels balnearis i els banyistes espanyols de finals del segle XIX, i confirma que l'aigua termal va ser el nucli del projecte; encara no té la història completa, els usos mèdics ni la continuïtat actual.
 4. ~~**Quan arriben els esports d'hivern** i quina estació és la primera.~~ —
-   **`parcial` el 2026-09-22**: la cronologia de [les estacions](./estacions/README.md)
+   **`parcial` el 2026-09-22**: la cronologia de [les estacions](estacions/les-estacions-d-esqui-index-de-fitxes.md)
    fixa el primer telesquí d'Andorra al **Coll Blanc el 1956**, instal·lat per
    **Francesc Viladomat**, i el primer remuntador obert oficialment al **Pas de la
    Casa l'1 de desembre de 1957**. **Això acota l'inici de l'esquí alpí; la fitxa

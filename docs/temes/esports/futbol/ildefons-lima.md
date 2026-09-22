@@ -142,15 +142,15 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
   **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
   **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
-  ho impedeixen, a [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  ho impedeixen, a [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Antoni Lima](./antoni-lima.md) — el germà.
 - [Óscar Sonejee](./oscar-sonejee.md) — el rècord que va superar.

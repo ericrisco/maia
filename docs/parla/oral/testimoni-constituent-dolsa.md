@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, ordino, transcripcio-n
 
 **Tanda 26 de parla.** Entrevista del Consell General amb **Enric Dolsa Font**,
 conseller general de **Ordino** al Consell Constituent, **19 min 4 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-dolsa/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-dolsa/testimoni-del-consell-constituent-enric-dolsa-font.md)).
 
 ## Avís
 

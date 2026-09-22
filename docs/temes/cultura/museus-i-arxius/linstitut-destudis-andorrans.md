@@ -246,7 +246,7 @@ Més **cursos i seminaris** per apropar-ne els resultats a la població, una
 
 **Que el país encarregui un mapa de perillositat sísmica i un de geomorfològic
 no és neutre:** és un país de vessants, allaus i esllavissades
-([el territori](../../territori/README.md)). La recerca segueix el risc.
+([el territori](../../territori/territori-d-andorra-index-de-fitxes.md)). La recerca segueix el risc.
 
 ## La biblioteca que havia de ser pública
 

@@ -150,8 +150,8 @@ relat, no una prova a favor seu.**
 
 - ~~**Veure el documental.**~~ **El corpus en té la fitxa tècnica i la llista
   d'entrevistats, no el contingut.** **Buit prioritari.**
-- ~~**Què va respondre Amazon**, si va respondre.~~ — **`parcial` el 21-09-2026**: en una entrevista d’[Altaveu](../../../raw/web/cultura/andorra-vista-de-fora/estafa-andorra/README.md), **Eric Merola** explica que la retirada del cercador va coincidir amb una **concatenació d’errors tècnics i tipogràfics** en el lliurament de les versions en anglès, espanyol i català; també diu que no tenia control sobre Amazon i que no havia planificat l’episodi. **No hi consta una comunicació directa d’Amazon**, de manera que queda oberta la resposta oficial de la plataforma.
-- ~~**Si va haver-hi resposta institucional andorrana** al documental.~~ — **`parcial` el 21-09-2026**: l’entrevista d’[Altaveu](../../../raw/web/cultura/andorra-vista-de-fora/estafa-andorra/README.md) diu que **no havia transcendit cap reacció pública** dels mandataris del Principat, tot i que fonts consultades pel mitjà asseguraven que el documental no s’havia rebut bé i que no es descartaven accions legals. **No hi ha al corpus una resposta institucional publicada ni constància del resultat d’aquelles possibles accions.**
+- ~~**Què va respondre Amazon**, si va respondre.~~ — **`parcial` el 21-09-2026**: en una entrevista d’[Altaveu](../../../raw/web/cultura/andorra-vista-de-fora/estafa-andorra/eric-merola-explica-la-retirada-temporal-de-the-andorra-hustle-damazon-2020.md), **Eric Merola** explica que la retirada del cercador va coincidir amb una **concatenació d’errors tècnics i tipogràfics** en el lliurament de les versions en anglès, espanyol i català; també diu que no tenia control sobre Amazon i que no havia planificat l’episodi. **No hi consta una comunicació directa d’Amazon**, de manera que queda oberta la resposta oficial de la plataforma.
+- ~~**Si va haver-hi resposta institucional andorrana** al documental.~~ — **`parcial` el 21-09-2026**: l’entrevista d’[Altaveu](../../../raw/web/cultura/andorra-vista-de-fora/estafa-andorra/eric-merola-explica-la-retirada-temporal-de-the-andorra-hustle-damazon-2020.md) diu que **no havia transcendit cap reacció pública** dels mandataris del Principat, tot i que fonts consultades pel mitjà asseguraven que el documental no s’havia rebut bé i que no es descartaven accions legals. **No hi ha al corpus una resposta institucional publicada ni constància del resultat d’aquelles possibles accions.**
 - ~~**L'operació Catalunya** com a objecte: **el corpus no en té fitxa, i aquí hi
   surt com a context donat per sabut.**~~ — **`resolt` el 18-09-2026**:
   **ara en té**, a [l'Operació Catalunya](../../economia/banca-i-fiscalitat/loperacio-catalunya.md).
@@ -164,5 +164,5 @@ relat, no una prova a favor seu.**
 
 - [Andorra vista de fora](./andorra-vista-de-fora.md)
 - [El cas BPA](../../economia/banca-i-fiscalitat/el-cas-bpa.md) — el fons.
-- [Els mitjans](../../societat/mitjans/README.md)
+- [Els mitjans](../../societat/mitjans/mitjans-index-de-fitxes.md)
 - [La por de fondre's](./la-por-de-fondres.md) — la mateixa branca, un segle abans.

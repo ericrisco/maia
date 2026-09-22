@@ -55,7 +55,7 @@ Font tenien relació.
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Carlos Font](./carlos-font.md) — el germà.

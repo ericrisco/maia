@@ -70,7 +70,7 @@ tenia:**
 > revolució popular del 1881.»**
 
 **La Crisi del Joc i la revolució del 1881 són dos episodis que el corpus té**
-([la revolució de 1881](../../../historia/segle-xix/README.md))
+([la revolució de 1881](../../../historia/segle-xix/segle-xix-index-de-fitxes.md))
 **i no els havia lligat a aquesta casa.** **Buit obert: quin paper hi van tenir.**
 
 ## El que falta
@@ -139,6 +139,6 @@ tenia:**
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [Casa d'Areny-Plandolit](./casa-dareny-plandolit.md)
 - [Guillem d'Areny-Plandolit](../../../historia/segle-xix/guillem-dareny-plandolit.md)

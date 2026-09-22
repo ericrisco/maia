@@ -113,6 +113,6 @@ Moçambic per 4-3.**
 
 ## Related
 
-- [Les seleccions](./README.md)
-- [Esports](../README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [El bàsquet](./el-basquet.md)

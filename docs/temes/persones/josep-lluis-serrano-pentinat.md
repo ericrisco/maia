@@ -52,4 +52,4 @@ de juliol del 2026** ([les penes del Codi Penal](../institucions/justicia/les-pe
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
 - [Joan Enric Vives i Sicília](./joan-enric-vives.md)
 - [Les penes del Codi Penal](../institucions/justicia/les-penes-del-codi-penal.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

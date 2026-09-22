@@ -286,7 +286,7 @@ Sotxi 2014, individual (48a) i esprint (66a).
 **Les catorze delegacions d'hivern, nom per nom i cursa per cursa, són a**
 [cinquanta anys d'esquí olímpic](../esqui/cinquanta-anys-desqui-olimpic.md),
 i **cada esquiador té fitxa pròpia** a
-[els esquiadors](../esqui/esquiadors/README.md).
+[els esquiadors](../esqui/esquiadors/els-esquiadors-index-de-fitxes.md).
 
 **Quarta i cinquena correccions, de la mateixa tongada:** aquesta taula
 **no tenia [Cande Moreno](../esqui/esquiadors/cande-moreno.md) a Pequín
@@ -537,10 +537,10 @@ olímpica.** I **no és a la neu: és en aigües braves**.
 ## Related
 
 - [Els Jocs dels Petits Estats d'Europa](./els-jocs-dels-petits-estats.md) — on sí que hi ha podi.
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
 - [L'Efpem](../formacio-esportiva/lefpem.md)
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
 - [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md)
 - [El reconeixement internacional](../../institucions/relacions-exteriors/el-reconeixement-internacional.md)
-- [Persones](../../persones/README.md)
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md)

@@ -34,7 +34,7 @@ Andorra.**
 **Perquè viure a Andorra és, per a una part significativa dels esportistes
 d'elit, una decisió econòmica i fiscal**, i **el corpus té documentat que
 aquesta és una de les coses que el país és**
-([banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md)).
+([banca i fiscalitat](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md)).
 
 **Despres és el cas més gros que el corpus ha trobat d'aquest fenomen**, i
 **registrar-lo amb la seva condició real —resident francès— és més informatiu
@@ -87,6 +87,6 @@ ral·lis del Mundial i el Dakar del 2020 en camió: **el motor és, a Andorra, u
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Albert Llovera](../../persones/albert-llovera.md) — el pilot andorrà de debò.

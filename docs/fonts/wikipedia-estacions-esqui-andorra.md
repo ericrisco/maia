@@ -62,7 +62,7 @@ prioritari: comprovar-ho en font primària.**
 
 | Tema | Fitxa |
 | --- | --- |
-| La subbranca sencera | [Les estacions d'esquí](../temes/economia/turisme-i-neu/estacions/README.md) |
+| La subbranca sencera | [Les estacions d'esquí](../temes/economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md) |
 | El domini més gran dels Pirineus | [Grandvalira](../temes/economia/turisme-i-neu/estacions/grandvalira.md) |
 | La marca que va desaparèixer | [Vallnord](../temes/economia/turisme-i-neu/estacions/vallnord.md) |
 | Andorra exporta el model | [PGI](../temes/economia/turisme-i-neu/estacions/pgi.md) |

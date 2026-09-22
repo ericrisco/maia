@@ -175,7 +175,7 @@ comprovar**.
 
 **Res d'això no s'ha comprovat contra parla andorrana real.** Un CI alt diu que
 un terme surt molt als textos d'aquest corpus, **no que un monitor d'Arinsal el
-digui**. Això es tanca amb [parla](../../../parla/README.md).
+digui**. Això es tanca amb [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).
 
 **Aquesta font no diu res de la resta de la llengua.** És un àmbit,
 **un de sol**, triat perquè a Andorra és econòmicament central. **No se'n dedueix

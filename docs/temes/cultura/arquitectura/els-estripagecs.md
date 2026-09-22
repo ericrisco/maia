@@ -30,7 +30,7 @@ Vallès**.
 en vol robar.**
 
 > **El corpus ho registra com a peça de
-> [lèxic](../../llengua/lexic-andorra/README.md) abans que d'arquitectura.** **És una
+> [lèxic](../../llengua/lexic-andorra/lexic-andorra-index-de-fitxes.md) abans que d'arquitectura.** **És una
 > paraula composta i transparent** —*estripa* + *gecs*— **que descriu una
 > funció, no una forma.** **I té sis sinònims documentats, tots construïts amb
 > el mateix procediment.**
@@ -97,8 +97,8 @@ vernacular, i el corpus no en té res més.**
   la construcció.**
 - **La llosa, la fusta, la pedra seca.**
 - **La forja andorrana**, que és l'ofici que fa els estripagecs, i que enllaça
-  amb [les fargues](../../economia/ramaderia-i-agricultura/README.md) i amb
-  [l'artesania](../artesania/README.md).
+  amb [les fargues](../../economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md) i amb
+  [l'artesania](../artesania/artesania-index-de-fitxes.md).
 
 ## El que falta
 
@@ -114,7 +114,7 @@ vernacular, i el corpus no en té res més.**
 
 ## Related
 
-- [L'arquitectura](./README.md)
+- [L'arquitectura](arquitectura-index-de-fitxes.md)
 - [Les cases museu](../museus-i-arxius/museus/les-cases-museu.md)
-- [L'artesania](../artesania/README.md)
+- [L'artesania](../artesania/artesania-index-de-fitxes.md)
 - [El tamarro](../llegendes/el-tamarro.md) — el mateix patró de reutilització.

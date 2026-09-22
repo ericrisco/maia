@@ -60,14 +60,14 @@ hi votin les dones per primera vegada**
 l'ampliació del sufragi **amb mig cens fora**.
 
 **I el primer també lliga:** **Joan Benlloch** és el copríncep que **escriu el
-text de l'himne el 1914** ([persones](../../persones/README.md)). El monument és
+text de l'himne el 1914** ([persones](../../persones/persones-d-andorra-index-de-fitxes.md)). El monument és
 del **1966**, dos anys abans de
 [les 378 sufragistes del 1968](../../societat/dones/el-sufragi-femeni.md).
 
 **El nom de l'obra del 1967 —*el Ball de la Morisca*— és de cultura popular, no
 de política.** El corpus registra la tensió i **no sap explicar-la**: un
 monument commemoratiu d'una reforma electoral que porta el nom d'una dansa.
-**Buit**, i va a [danses](../../costums/danses/README.md).
+**Buit**, i va a [danses](../../costums/danses/danses-index-de-fitxes.md).
 
 ## On és la seva obra, avui
 
@@ -76,7 +76,7 @@ d'Escaldes-Engordany.»**
 
 **Cinquanta obres d'un sol escultor en un sol centre andorrà.** També en té el
 **Museu Nacional d'Art de Catalunya** i el **Museu Abelló** de Mollet del
-Vallès. Vegeu [museus i arxius](../museus-i-arxius/README.md).
+Vallès. Vegeu [museus i arxius](../museus-i-arxius/museus-i-arxius-index-de-fitxes.md).
 
 La pàgina del **Comú d'Escaldes-Engordany** confirma el CAEE com a equipament
 amb una col·lecció permanent de Viladomat, una altra de maquetes romàniques i
@@ -139,8 +139,8 @@ el que està documentat s'escriu.
 
 ## Related
 
-- [Arts visuals](./README.md)
+- [Arts visuals](arts-visuals-index-de-fitxes.md)
 - [Sergi Mas](./sergi-mas.md) — l'altre, i coetani.
 - [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md) — la Nova Reforma, el centenari de la qual va esculpir.
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md)
-- [Museus i arxius](../museus-i-arxius/README.md)
+- [Museus i arxius](../museus-i-arxius/museus-i-arxius-index-de-fitxes.md)

@@ -17,7 +17,7 @@ tags: [persones, politica, economia, dones, les-grans-families]
 
 **El corpus la citava des de fa temps com un nom pendent** —
 [els Reig](../economia/les-grans-families/els-reig.md) la marcava «buit
-prioritari», i [la branca de les dones](../societat/dones/README.md) hi
+prioritari», i [la branca de les dones](../societat/dones/dones-index-de-fitxes.md) hi
 apuntava com un dels noms que faltaven. **Ara té fitxa, i la raó per la
 qual era prioritari es confirma**: **va ser l'única dona a la taula quan
 es va redactar la Constitució d'Andorra del 1993.**
@@ -87,5 +87,5 @@ creuar-lo amb la seva mare.**
 - [Òscar Ribas Reig](./oscar-ribas-reig.md)
 - [Els Reig](../economia/les-grans-families/els-reig.md)
 - [Els síndics generals](./els-sindics-generals.md)
-- [Les dones](../societat/dones/README.md)
-- [Persones](./README.md)
+- [Les dones](../societat/dones/dones-index-de-fitxes.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

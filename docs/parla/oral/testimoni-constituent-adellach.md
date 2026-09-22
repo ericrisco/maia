@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, ordino, lexic-marcat, 
 
 **Tanda 4 de parla.** Entrevista del Consell General amb **Olga Adellach Coma**,
 consellera general d'**Ordino** al Consell Constituent, **13 min 12 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-adellach/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-adellach/testimoni-del-consell-constituent-olga-adellach-coma.md)).
 
 ## Avís: la menys fiable de les quatre tandes
 

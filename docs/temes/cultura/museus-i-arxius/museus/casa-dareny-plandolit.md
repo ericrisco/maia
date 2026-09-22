@@ -67,7 +67,7 @@ sense precedents».**
 - **Mandats de quatre anys**, amb **renovació de la meitat cada dos anys**, tant
   al Comú com al Consell.
 
-**El corpus té la Nova Reforma** ([segle XIX](../../../historia/segle-xix/README.md))
+**El corpus té la Nova Reforma** ([segle XIX](../../../historia/segle-xix/segle-xix-index-de-fitxes.md))
 **i no en tenia el detall del mandat i la renovació per meitats.**
 
 ## El que falta
@@ -100,6 +100,6 @@ sense precedents».**
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [El primer museu](./el-primer-museu.md)
 - [Guillem d'Areny-Plandolit](../../../historia/segle-xix/guillem-dareny-plandolit.md)

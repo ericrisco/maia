@@ -55,5 +55,5 @@ estadística.**
 
 ## Related
 
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
 - [El tennis](../seleccions/el-tennis.md)

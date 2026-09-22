@@ -179,13 +179,13 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   atenció psiquiàtrica ambulatòria abans de la posada en marxa dels Serveis de
   Salut Mental del SAAS, però la font no diu on s'ingressaven els casos greus
   ni permet reconstruir tota l'oferta assistencial del període
-  ([font web](../../../raw/web/societat/salut-mental-pre1998/README.md)).
+  ([font web](../../../raw/web/societat/salut-mental-pre1998/atencio-psiquiatrica-abans-de-1998-ramon-pigem-i-serra.md)).
 - ~~**El pla de salut mental** anunciat el 2020: si es va aprovar i què diu.~~ —
   **`parcial` el 21-09-2026**: el Govern va aprovar el **Pla integral de salut
   mental i addiccions (PISMA) el 21 de febrer de 2022**, amb una estratègia
   **2021–2030**. La pàgina oficial en conserva la presentació i el document
   complet, però aquesta còpia no n'ha extret encara les accions ni el grau
-  d'execució ([font local](../../../raw/web/societat/salut-mental/README.md)).
+  d'execució ([font local](../../../raw/web/societat/salut-mental/pisma-pla-integral-de-salut-mental-i-addiccions.md)).
 - ~~**Xifres**: quants professionals, quants pacients, quins recursos.~~ —
   **`parcial` el 21-09-2026**: la presentació oficial del PISMA dona activitat
   del SAAS, però no el recompte de professionals. El 2021 (gener–novembre) hi
@@ -194,7 +194,7 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   mental d'adults** i **26 persones vinculades al Centre de Dia** el 2020; el
   document fixa també **12 llits d'adults**, **4 de menors**, un **pressupost
   PISMA de 160.000 € el 2022** i **62 accions**. Les xifres són de fonts SAAS i
-  no equivalen a persones úniques anuals ([font local](../../../raw/web/societat/salut-mental/README.md)).
+  no equivalen a persones úniques anuals ([font local](../../../raw/web/societat/salut-mental/pisma-pla-integral-de-salut-mental-i-addiccions.md)).
 - ~~**Si hi ha unitat d'internament** al país o si els casos greus es deriven.~~
   — **`resolt` el 18-09-2026**: **es deriven, al centre Sant Joan de Déu
   Terres de Lleida, a Lleida** ([font](../../../fonts/saas-ad-historia.md)).
@@ -204,7 +204,7 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   i un sistema d'ajuts (**A60**), però el document no identifica l'estudi de la
   Marató de TV3 del 2002 ni n'acredita la represa. El que queda documentat és
   una política posterior per impulsar recerca, no la continuació d'aquella
-  mostra ([font local](../../../raw/web/societat/salut-mental/README.md)).
+  mostra ([font local](../../../raw/web/societat/salut-mental/pisma-pla-integral-de-salut-mental-i-addiccions.md)).
 - ~~**El congrés del 2001**: actes i publicacions que en van sortir.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**On diu Fiter i Rossell** que no hi ha diferència essencial.~~ **TANCAT**:
   capítol tercer del Manual Digest, via Camiade. **Queda obert verificar-ho

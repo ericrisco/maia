@@ -20,7 +20,7 @@ abast: >
 
 **Els clubs d'esquí andorrans, la unitat organitzativa real de l'esport,
 sense cap fitxa** — buit registrat des de
-[esquí](../temes/esports/esqui/README.md). **ECOA és el club de
+[esquí](../temes/esports/esqui/esqui-index-de-fitxes.md). **ECOA és el club de
 [Mireia Gutiérrez](../temes/esports/esqui/esquiadors/mireia-gutierrez.md)**,
 l'únic dels trenta-un esquiadors del corpus amb club identificat.
 

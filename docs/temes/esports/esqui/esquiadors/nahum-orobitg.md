@@ -88,13 +88,13 @@ de les dues dones, de qui la font no dona resultats.
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
   **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
   **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
-  ho impedeixen, a [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  ho impedeixen, a [els esports](../../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)

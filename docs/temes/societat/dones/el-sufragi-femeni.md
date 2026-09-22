@@ -309,7 +309,7 @@ de cada moment i no pas a un programa preordenat»**
 
     | Qui | Què en té el corpus | On |
     | --- | --- | --- |
-    | **Mercè Bonell Bertran** | **Primera consellera general**, **20 de novembre del 1984**, **per substitució**. **Parròquia: d'Andorra** —Andorra la Vella—, i **substitueix Bonaventura Riberaygua**, que passa a **conseller de Govern** *(actes, ANA ASC 9.491, fol. 4.889; ampliat el 17-09-2026)*. **Segueix sense partit ni biografia** | [les persones](../../persones/README.md) |
+    | **Mercè Bonell Bertran** | **Primera consellera general**, **20 de novembre del 1984**, **per substitució**. **Parròquia: d'Andorra** —Andorra la Vella—, i **substitueix Bonaventura Riberaygua**, que passa a **conseller de Govern** *(actes, ANA ASC 9.491, fol. 4.889; ampliat el 17-09-2026)*. **Segueix sense partit ni biografia** | [les persones](../../persones/persones-d-andorra-index-de-fitxes.md) |
     | **Maria Reig i Moles (1951)** | **Empresària i política**, **filla de Serafí Reig i Ribó i de Maria Moles i Pasques**, **cosina d'Òscar Ribas Reig**, el primer cap de Govern, i **neboda de Julià Reig i Ribó**, síndic general dues vegades. **Única dona que va participar en la redacció de la Constitució del 1993** | [fitxa](../../persones/maria-reig-moles.md) |
     | **Maria Rosa Ferrer Obiols (1960-2018)** | **`resolt` el 18-09-2026**: consellera general (1994-2001, 2005-07, 2015), **cònsol major d'Andorra la Vella (2007-2015)**, ministra de Salut (2015). Membre fundadora del PS | [fitxa](../../persones/rosa-ferrer-obiols.md) |
     | **Montse Gil** | **Res.** Cap altra ocurrència a tot el corpus | — |
@@ -343,7 +343,7 @@ de cada moment i no pas a un programa preordenat»**
     sèrie**: **1984 la primera per substitució, 1985 la primera electa, el
     període constituent amb una sola consellera, i sis mesos de parlament en
     femení el 2011**
-    ([el sistema electoral](../../politica/sistema-electoral/README.md)).
+    ([el sistema electoral](../../politica/sistema-electoral/sistema-electoral-index-de-fitxes.md)).
     **`parcial` el 17-09-2026, i la cronologia es tanca encara que la sèrie
     no.** Les [actes històriques del Consell
     General](../../../fonts/actes-historiques-consell-general.md) **daten cada
@@ -463,4 +463,4 @@ de cada moment i no pas a un programa preordenat»**
 - [Lídia Armengol Vila](../../historia/historiografia/lidia-armengol-vila.md) — la mateixa persona.
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — la sala on es va votar.
 - [Convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md) — la societat d'aleshores.
-- [Sistema electoral](../../politica/sistema-electoral/README.md) — com es vota, i com es compta.
+- [Sistema electoral](../../politica/sistema-electoral/sistema-electoral-index-de-fitxes.md) — com es vota, i com es compta.

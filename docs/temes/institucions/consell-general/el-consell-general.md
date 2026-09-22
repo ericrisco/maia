@@ -92,7 +92,7 @@ permeten afirmar que mai se l'anomeni president en altres usos.
 
 - [Les set parròquies](../comuns-i-parroquies/les-set-parroquies.md) — el nivell local.
 - [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — el nivell sota la parròquia.
-- [Política](../../politica/README.md) — la branca que explica qui hi seu i com hi arriba.
+- [Política](../../politica/politica-d-andorra-index-de-fitxes.md) — la branca que explica qui hi seu i com hi arriba.
 - [L'estrany i el llot](./lestrany-i-el-llot.md) — de què vivia, i de què no vivia.
 
 ## Buits registrats

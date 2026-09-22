@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, sant-julia-de-loria, t
 
 **Tanda 27 de parla.** Entrevista del Consell General amb **Joan Santamaria Terré**,
 conseller general de **Sant Julià de Lòria** al Consell Constituent, **10 min 53 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-santamaria/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-santamaria/testimoni-del-consell-constituent-joan-santamaria-terre.md)).
 
 ## Avís
 

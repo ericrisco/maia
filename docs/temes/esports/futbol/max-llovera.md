@@ -100,7 +100,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Albert Llovera](../../persones/albert-llovera.md) · [Cristina Llovera](../estiu/cristina-llovera.md)

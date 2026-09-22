@@ -49,4 +49,4 @@ parla dels seus objectius de temporada.
 
 - [Òscar Casal Mir](./oscar-casal-mir.md) — el seu germà i company de curses.
 - [Marc Casal](./marc-casal.md) — patinador artístic de Canillo amb qui comparteix nom.
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)

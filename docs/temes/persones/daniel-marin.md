@@ -143,4 +143,4 @@ faltar a una sola edició entre el 1998 i el 2012.
 - [Els dotze campions a casa del 2000](../esports/seleccions/els-dotze-campions-a-casa-del-2000.md)
 - [Els dotze de la primera final del 2004](../esports/seleccions/els-dotze-de-la-primera-final-del-2004.md)
 - [El BC Andorra](../esports/altres-esports/bc-andorra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -104,10 +104,10 @@ contra San Marino**. Vegeu [la selecció](./la-seleccio.md).
   victòries datades** ([la selecció](./la-seleccio.md)).
 - ~~**La Primera Divisió andorrana.**~~ — **`resolt` el 2026-09-19** com a buit
   duplicat: la lliga, el FC Andorra i la Federació Andorrana de Futbol ja tenen
-  la fitxa canònica de [clubs i competicions](./clubs-i-competicions/README.md).
+  la fitxa canònica de [clubs i competicions](clubs-i-competicions/clubs-i-competicions-index-de-fitxes.md).
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

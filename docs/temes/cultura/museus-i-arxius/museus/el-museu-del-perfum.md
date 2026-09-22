@@ -46,7 +46,7 @@ França i Espanya.»**
 **Això és la mateixa tesi que
 [els anys daurats](../../../historia/historia-recent/els-anys-daurats.md)
 formula per als anys cinquanta**, **datada aquí als anys quaranta**, i
-**lligada al [contraban](../../../historia/contraban/README.md)**.
+**lligada al [contraban](../../../historia/contraban/contraban-index-de-fitxes.md)**.
 
 ## Què hi ha al museu
 
@@ -70,6 +70,6 @@ canvis dràstics.**
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [Ràdio Andorra](../../../societat/mitjans/radio-andorra.md)
 - [Els anys daurats](../../../historia/historia-recent/els-anys-daurats.md)

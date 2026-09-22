@@ -54,7 +54,7 @@ mateixos, amb el seu nom.** **No representen ningú.**
 **Feina, sexe, mort de la bèstia, reconeixement d'adult.**
 
 > **Això reclassifica la festa.** **El corpus la tenia a
-> [les danses](./README.md) i a
+> [les danses](danses-index-de-fitxes.md) i a
 > [el calendari festiu](../calendari-festiu/calendari-festiu.md).**
 > **També és un [ritu de pas](../ritus-de-pas/ritus-de-pas.md), i el corpus ho
 > deixa escrit aquí.**
@@ -160,7 +160,7 @@ generació.**
 > l'altra es fa burla de l'entorn dels segadors tot escenificant la cacera
 > fortuïta d'una ossa.»**
 
-**[El contraban](../../historia/contraban/README.md) i la sega: els dos oficis
+**[El contraban](../../historia/contraban/contraban-index-de-fitxes.md) i la sega: els dos oficis
 d'Andorra, parodiats en dies consecutius.**
 
 **En acabar la representació es reparteix all i oli de codony a tots els
@@ -278,4 +278,4 @@ respon amb una pàgina de verificació antibot en comptes del document.**
 - [El carnaval d'Encamp](../calendari-festiu/el-carnaval-dencamp.md) — el marc.
 - [Els ritus de pas](../ritus-de-pas/ritus-de-pas.md) — el que això també és.
 - [La marratxa](./la-marratxa.md) — el mateix mecanisme de conservació.
-- [Les danses](./README.md)
+- [Les danses](danses-index-de-fitxes.md)

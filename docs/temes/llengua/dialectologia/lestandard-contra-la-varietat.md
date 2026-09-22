@@ -72,9 +72,9 @@ Aquest és **el risc central del projecte**, i fins ara no estava escrit enlloc.
 Tres conseqüències pràctiques, totes per decidir:
 
 1. **La parla mediàtica no pot ser l'única font.** El corpus ja té branques
-   separades per a [mediàtic](../../../parla/mediatic/README.md),
-   [institucional](../../../parla/institucional/README.md) i
-   [espontani](../../../parla/espontani/README.md) — i ara se sap **per què la
+   separades per a [mediàtic](../../../parla/mediatic/parla-mediatica-d-andorra.md),
+   [institucional](../../../parla/institucional/parla-institucional-d-andorra.md) i
+   [espontani](../../../parla/espontani/parla-espontania-d-andorra.md) — i ara se sap **per què la
    distinció era necessària i no burocràtica**.
 2. **Cal mesurar, no suposar.** Abans de recollir hores de RTVA, s'ha de
    comprovar **quants trets andorrans hi sobreviuen realment**: la

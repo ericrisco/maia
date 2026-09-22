@@ -28,7 +28,7 @@ d'Andorra a la màxima categoria espanyola: MoraBanc Andorra.**
 **[La fitxa de Quino Colom](./quino-colom.md) parlava del «BC Andorra», on ell
 es va formar.** **«MoraBanc Andorra» és el mateix club amb el nom del
 patrocinador** —**MoraBanc és un dels bancs andorrans**
-([banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md)).
+([banca i fiscalitat](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md)).
 
 **El corpus ho deixa escrit** perquè **un model que llegeixi «MoraBanc Andorra»
 i «BC Andorra» com a dos clubs diferents s'equivocarà**, i **perquè descriu una
@@ -75,6 +75,6 @@ amb [Tomás Cano](./tomas-cano.md).
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Quino Colom](./quino-colom.md) — el jugador andorrà del club.

@@ -20,7 +20,7 @@ abast: >
 
 **Qui era Francesc Galobardes**, «el tercer nom» que les fonts citen al
 costat de Viladomat i Sergi Mas a
-[arts visuals](../temes/cultura/arts-visuals/README.md) — **i que, es
+[arts visuals](../temes/cultura/arts-visuals/arts-visuals-index-de-fitxes.md) — **i que, es
 descobreix, no era escultor: era pintor.**
 
 ## Què en treu

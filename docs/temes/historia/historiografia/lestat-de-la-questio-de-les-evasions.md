@@ -50,7 +50,7 @@ i Viadiu com si totes les obres valguessin igual.**
 > **Aquesta és la mateixa ombra que
 > [La Qüestió d'Andorra](../segle-xix/la-questio-dandorra.md) declara per al
 > segle XIX i que ha obert
-> [les grans famílies](../../economia/les-grans-families/README.md).** **Dues
+> [les grans famílies](../../economia/les-grans-families/les-grans-families-index-de-fitxes.md).** **Dues
 > fonts independents, dos segles diferents, la mateixa explicació: no s'hi
 > investiga perquè hi ha famílies pel mig.**
 
@@ -65,7 +65,7 @@ i Viadiu com si totes les obres valguessin igual.**
 
 **Una placa.** **A la Massana.**
 
-**El corpus té [els museus](../../cultura/museus-i-arxius/museus/README.md)
+**El corpus té [els museus](../../cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md)
 inventariats —del tabac, del perfum, postal, de la ràdio, les cases museu— i
 cap d'ells no és aquest.** **Buit obert: on és exactament aquella placa, què hi
 diu i qui la va posar.**
@@ -174,7 +174,7 @@ i [la historiografia](./historiografia.md) documenten com a construcció.**
   Andorra, 1985).~~ — **`parcial` el 2026-09-21**: [Editors d'Andorra](../../../fonts/passadors-bibliografia-2026.md) confirma la primera edició de **1985**, en català, amb **152 pàgines** i pròleg de **Josep M. Ainaud de Lasarte**. El llibre encara no s'ha llegit.
 - ~~**Assumpta Montellà**, ***Contrabandistes de la llibertat*** (Ara Llibres,
   2009).~~ — **`parcial` el 2026-09-21**: la [fitxa de la BnF](../../../fonts/passadors-bibliografia-2026.md) confirma **Badalona, Ara Llibres, 2009** i l'ISBN **978-84-92552-17-7**. El llibre encara no s'ha llegit.
-- ~~**La placa de la Massana.**~~ — **`parcial` el 21-09-2026**: [Endrets](../../../raw/web/historia/evasions/massana/README.md) identifica el **Monument als Passadors** de la Massana, vinculat a l’**Hotel Palanques**, i llegeix **Antoni Forné, Alfred Vicente Conejos, Josep Mompel i Salvador Calvet**. La crònica de l’[ARA](../../../raw/web/historia/evasions/massana/README.md) precisa que la placa té **vuit noms** i es va col·locar el **2006** «en record de tots els que van lluitar per la llibertat durant la Segona Guerra Mundial». Encara falta la transcripció completa i qui en va promoure la instal·lació.
+- ~~**La placa de la Massana.**~~ — **`parcial` el 21-09-2026**: [Endrets](../../../raw/web/historia/evasions/massana/monument-als-passadors-de-la-massana.md) identifica el **Monument als Passadors** de la Massana, vinculat a l’**Hotel Palanques**, i llegeix **Antoni Forné, Alfred Vicente Conejos, Josep Mompel i Salvador Calvet**. La crònica de l’[ARA](../../../raw/web/historia/evasions/massana/monument-als-passadors-de-la-massana.md) precisa que la placa té **vuit noms** i es va col·locar el **2006** «en record de tots els que van lluitar per la llibertat durant la Segona Guerra Mundial». Encara falta la transcripció completa i qui en va promoure la instal·lació.
 - ~~**Si l'Arxiu Episcopal de la Seu d'Urgell s'ha obert des del 2015.**~~ —
   **`font_externa` el 2026-09-22**: la font només constata les restriccions
   d'accés; cal una consulta o comunicació actual de l'Arxiu Episcopal per saber
@@ -186,4 +186,4 @@ i [la historiografia](./historiografia.md) documenten com a construcció.**
 - [La llegenda negra dels passadors](./la-llegenda-negra-dels-passadors.md)
 - [Els refugiats de la Guerra Civil](../guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md)
 - [Els passadors](../guerres-i-neutralitat/els-passadors.md)
-- [Les grans famílies](../../economia/les-grans-families/README.md) — la mateixa ombra, un altre segle.
+- [Les grans famílies](../../economia/les-grans-families/les-grans-families-index-de-fitxes.md) — la mateixa ombra, un altre segle.

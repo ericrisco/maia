@@ -65,5 +65,5 @@ que és font primària i no s'ha consultat.
 - [La Nova Reforma de 1866](./nova-reforma.md) — la seva obra.
 - [Símbols](../../institucions/simbols/simbols.md) — la bandera que en surt.
 - [Ordino](../../territori/parroquies/ordino/ordino.md) — on és la casa.
-- [Persones](../../persones/README.md) — la branca de biografies.
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md) — la branca de biografies.
 - [De lo que pot i no pot](../manual-digest/de-lo-que-pot-i-no-pot.md) — hi ha un Guillem d'Areny síndic el 1762, cent quatre anys abans. Parentiu no comprovat.

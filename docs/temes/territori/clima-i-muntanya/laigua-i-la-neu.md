@@ -268,7 +268,7 @@ país que perdrà aigua té previst fer-ne servir més**
 naturalesa deixarà de posar-n'hi.**
 
 El corpus tenia registrat que **l'esquí és assignatura escolar obligatòria,
-professió reglada i escola d'estat** ([esports](../../esports/README.md)) i que
+professió reglada i escola d'estat** ([esports](../../esports/esports-d-andorra-index-de-fitxes.md)) i que
 **el turisme i la neu són la base econòmica des dels seixanta**
 ([turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)).
 
@@ -281,7 +281,7 @@ data de finalització de l'esquí.
 - [El clima](./el-clima.md)
 - [El balanç hídric i els seus límits](el-balanc-hidric-i-els-seus-limits.md) — model, superfícies i contrast amb aforadors.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md)
-- [Esports](../../esports/README.md) — qui gasta aquesta neu.
+- [Esports](../../esports/esports-d-andorra-index-de-fitxes.md) — qui gasta aquesta neu.
 - [Ramaderia i agricultura](../../economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md) — qui la gastava abans.
 - [La memòria de FHASA](../../societat/treball/la-memoria-de-fhasa.md) — la hidroelèctrica.
 - [Geografia física](../geografia-fisica/geografia-fisica.md)

@@ -64,7 +64,7 @@ exclusiu d'Andorra**, i ho diu.
 
 Aquesta honestedat és útil i incòmoda alhora. **Confirma que la recepta és
 pirinenca, no andorrana en exclusiva** — el mateix problema que persegueix tota
-la branca de [costums](../../costums/README.md) i tota la
+la branca de [costums](../../costums/costums-d-andorra-index-de-fitxes.md) i tota la
 [dialectologia](../../llengua/dialectologia/es-landorra-un-dialecte.md): **el que
 és d'Andorra sol ser també del veí.**
 

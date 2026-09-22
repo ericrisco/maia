@@ -18,7 +18,7 @@ tags: [esports, basquet]
 **El corpus ha repetit, fitxa rere fitxa, que Andorra no ha guanyat mai res.**
 **Ho deia a [Victoria Jiménez Kasintseva](../altres-esports/victoria-jimenez-kasintseva.md)**
 —*«Tres fites de nivell mundial i cap medalla olímpica»*— i ho deia a
-[altres esports](../altres-esports/README.md), on **fins avui hi deia que les
+[altres esports](../altres-esports/altres-esports-index-de-fitxes.md), on **fins avui hi deia que les
 dues úniques medalles d'or documentades d'Andorra eren d'escacs**.
 
 **Era fals.**
@@ -266,8 +266,8 @@ el bolcat.**
 
 ## Related
 
-- [Les seleccions](./README.md)
-- [Esports](../README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)
 - [Els deu primers campions del 1998](./els-deu-primers-campions-del-1998.md)
 - [Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)

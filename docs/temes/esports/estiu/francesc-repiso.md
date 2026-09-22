@@ -56,7 +56,7 @@ sèries.` `no-es-buit`
 
 ## Per què hi és, aquesta fitxa
 
-**El [README de l'estiu](./README.md) el tenia registrat com a «nom sense
+**El [README de l'estiu](els-olimpics-d-estiu-index-de-fitxes.md) el tenia registrat com a «nom sense
 entrada»**: **el corpus sabia que hi havia anat i no en tenia res**, perquè
 **no hi ha cap bolcat amb aquest nom a `docs/raw/web/esport/atletes/`.**
 **El 18-09-2026 s'ha baixat el resultat de la font primària de resultats
@@ -77,6 +77,6 @@ olímpics** i **el buit es tanca amb números, no amb una línia.**
 
 ## Related
 
-- [Els esports d'estiu](./README.md)
+- [Els esports d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Francesc Gaset](./francesc-gaset.md) — l'altre tirador olímpic andorrà.

@@ -36,7 +36,7 @@ es publiquen des del 1995, en un portal propi, i amb el detall hora per hora.
 | **Comunals 2023** | la portada mateixa del portal | **HTML, text pla**: resultats per parròquia, escons i vots |
 
 Les còpies que el corpus ha baixat són a
-[`docs/raw/eleccions/`](../raw/eleccions/README.md), amb els renders de les
+[`docs/raw/eleccions/`](../raw/eleccions/resultats-electorals-oficials.md), amb els renders de les
 pàgines llegides.
 
 ## Drets de reutilització

@@ -15,7 +15,7 @@ tags: [parla, testimoni, pagesia, eines, lexic-marcat, canillo, transcripcio-no-
 
 **Tanda 1 de parla.** Càpsula #56 d'Andorra Recerca + Innovació, publicada el
 **2020-06-29**, **12 min 22 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-56/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-56/capsula-56-la-vida-a-pages-per-albert-rossa-naudi.md)).
 
 ## Avís abans de llegir: això encara no és verbatim
 
@@ -31,7 +31,7 @@ transcriu no pot escoltar.
 
 **Són 69 paraules marcades**, i el patró és el que compta: **cauen per sota del
 llindar justament les paraules andorranes**. El mètode i el llindar són a
-[material de partida](../../raw/parla/ari-capsula-56/README.md).
+[material de partida](../../raw/parla/ari-capsula-56/capsula-56-la-vida-a-pages-per-albert-rossa-naudi.md).
 
 Fins que algú no ho escolti, aquesta peça **val per saber què hi ha i on**, i no
 val com a mostra de llengua tancada.

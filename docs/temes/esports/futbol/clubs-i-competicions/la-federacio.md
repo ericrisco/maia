@@ -123,13 +123,13 @@ identificava com a club de la federació també té secció de futbol sala**, i
   [Joaquim Besora](../joaquim-besora.md) en va ser internacional.**
 - ~~**L'arbitratge.**~~ — **`resolt` com a duplicat el 19-09-2026**: la mateixa
   pregunta sobre l'arbitratge femení andorrà queda registrada com a buit canònic
-  a [Futbol femení](../femeni/README.md#el-que-falta), a partir de l'apunt
+  a [Futbol femení](../femeni/futbol-femeni-index-de-fitxes.md#el-que-falta), a partir de l'apunt
   d'[Ainhoa Fernández](../femeni/ainhoa-fernandez.md).
 
 ## Related
 
-- [Futbol](../README.md)
+- [Futbol](../futbol-index-de-fitxes.md)
 - [La lliga](./la-lliga.md)
 - [La copa](./la-copa.md)
 - [El FC Andorra](./fc-andorra.md)
-- [Institucions](../../../institucions/README.md)
+- [Institucions](../../../institucions/institucions-d-andorra-index-de-fitxes.md)

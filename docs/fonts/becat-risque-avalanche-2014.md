@@ -26,7 +26,7 @@ notes: >
   Llegits p.1–12 i sector14, p.90–136; renders3,4,90,91,92,98,110,119,135.
 - [Portal dels annexos](../raw/allaus/becat-etudes-clpa-portal.txt),
   [portal de la peça12](../raw/allaus/becat-annex12-portal.txt).
-  HTML i detall de comprovacions al [registre raw](../raw/allaus/README.md).
+  HTML i detall de comprovacions al [registre raw](../raw/allaus/allaus-fora-del-corpus.md).
 
 ## Lectures
 

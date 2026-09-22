@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, la-massana, transcripc
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Albert Gelabert Grau**,
 conseller general de **La Massana** al Consell Constituent, **18 min 45 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-gelabert/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-gelabert/testimoni-del-consell-constituent-albert-gelabert-grau.md)).
 
 ## Avís
 

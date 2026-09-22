@@ -64,4 +64,4 @@ llançar a la producció de ferro.**
 - [Les tres fases de la historiografia](../historia/historiografia/les-tres-fases.md)
 - [Roland Viader](./roland-viader.md)
 - [Julià Reig](./julia-reig.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

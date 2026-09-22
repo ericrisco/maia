@@ -61,7 +61,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 > **Auditat el 2026-09-13.** **Els dos primers buits d'aquesta llista eren
 > falsos**: la resposta era al bolcat de la font pròpia d'aquesta fitxa, dins del
 > corpus. **És el mateix cas a vint-i-nou fitxes de futbolistes** — vegeu
-> [futbol](./README.md).
+> [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Els anys i els partits de cada club.**~~ — **`resolt`** (taula de dalt).
 - ~~**La resta de la seva carrera internacional.**~~ — **`resolt` en part**: **el bolcat no en dona cap taula**, i la fitxa de la selecció absoluta en dona el compte a la taula de dalt. **Si el nombre de gols hi és 0, no en va fer cap.**
@@ -71,9 +71,9 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

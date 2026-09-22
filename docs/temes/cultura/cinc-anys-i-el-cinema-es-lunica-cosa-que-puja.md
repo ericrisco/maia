@@ -118,7 +118,7 @@ sigui plantilla.`
 
 **I això confirma per una via independent el que el corpus ja havia trobat
 comptant entrades**: **els museus andorrans tenien 149.679 visitants el 2019 i
-92.583 el 2024** ([els museus](./museus-i-arxius/museus/README.md)). **La
+92.583 el 2024** ([els museus](museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md)). **La
 comptabilitat de taquilla i l'enquesta a les llars diuen la mateixa cosa**, i
 **diuen a més qui ha deixat d'anar-hi.**
 

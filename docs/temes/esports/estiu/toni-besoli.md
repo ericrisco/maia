@@ -45,7 +45,7 @@ Barcelona (1992) i d'Atlanta (1996)**, **dotze anys abans**
 
 **El corpus ho escriu exactament així** perquè **és el que va passar** i perquè
 **aquesta subbranca ha decidit que el criteri no és el resultat sinó la
-participació documentada** ([el criteri](./README.md)).
+participació documentada** ([el criteri](els-olimpics-d-estiu-index-de-fitxes.md)).
 
 **I perquè és informatiu:** un país que **no té estructura d'alt rendiment de
 judo** envia el seu millor judoka **contra un doble olímpic**, i el resultat és
@@ -73,7 +73,7 @@ aquest. **No és una anècdota: és l'escala.**
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
   **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
   **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
-  ho impedeixen, a [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  ho impedeixen, a [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
@@ -85,6 +85,6 @@ aquest. **No és una anècdota: és l'escala.**
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)

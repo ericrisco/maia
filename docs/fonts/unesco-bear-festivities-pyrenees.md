@@ -25,5 +25,5 @@ general també esmenta danses, discursos en català i música.
 
 La pàgina és una font institucional per a l'estat de la inscripció, no per a
 reconstruir el repertori musical concret d'Encamp. La captura consultada és a
-[`raw/web/costums/`](../raw/web/costums/README.md); les fotografies de la pàgina
+[`raw/web/costums/`](../raw/web/costums/fonts-web-sobre-festes-carnestoltes-i-entitats-religioses-d-andorra.md); les fotografies de la pàgina
 tenen crèdits propis i no entren al corpus.

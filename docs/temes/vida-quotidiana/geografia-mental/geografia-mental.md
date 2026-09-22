@@ -73,7 +73,7 @@ camí de Tolosa**, dins del cap dels qui hi han estudiat.
 ## El que no està documentat i s'ha de recollir de la parla
 
 **Aquesta és la part que la bibliografia no dona.** Fan falta informants, i
-per tant [parla espontània](../../../parla/espontani/README.md):
+per tant [parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md):
 
 - Es diu **«baixar a la Seu»**? **«pujar a França»**? Quins verbs de moviment
   s'associen a cada direcció? *(hipòtesi no verificada)*

@@ -67,7 +67,7 @@ des de la tanda 6 sense que aquesta pregunta s'hagués fet mai en veu alta.
 sèrie de divulgació històrica i **no ho és gens** en una font de mostra de
 llengua. La càpsula **#62** ho ha fet visible dient-ho: «el confinament em va
 enganxar **no a Andorra**» (00:00:53), amb tot el relat situat a l'Alt Urgell.
-La peça **no ha entrat al corpus** ([pendents](../raw/parla/pendents/README.md)).
+La peça **no ha entrat al corpus** ([pendents](../raw/parla/pendents/peces-pendents.md)).
 
 S'han rellegit les dotze transcripcions buscant qualsevol frase on el ponent es
 col·loqui ell mateix en un lloc:
@@ -106,10 +106,10 @@ consellers generals electes i la provinença **sí que consta**.
 | #27. Els noms dels carrers | Alfred Llahí | [El carrerer nacional](../parla/oral/els-noms-dels-carrers.md) |
 | #70. La nissaga dels Martí de les Bons | Sara Ubach | [Una missaga que arriba als nostres dies](../parla/oral/la-nissaga-dels-marti.md) |
 | #20. Els molins d'aigua | Alan Ward | [Rodes verticals, rodes catalanes](../parla/oral/els-molins-daigua.md) |
-| #62. Els camins dels cérvols | Laura de Castellet | **pendent — [provinença](../raw/parla/pendents/README.md)** |
-| #33. La ramaderia als segles IX-XI | Climent Miró | **descartada — [text llegit](../raw/parla/descartades/README.md)** |
-| #58. Història de l'esquí | Daniel Areny | **descartada — [text llegit](../raw/parla/descartades/README.md)** |
-| #60. La pedra seca | Xavier Llovera | **descartada — [text llegit](../raw/parla/descartades/README.md)** |
+| #62. Els camins dels cérvols | Laura de Castellet | **pendent — [provinença](../raw/parla/pendents/peces-pendents.md)** |
+| #33. La ramaderia als segles IX-XI | Climent Miró | **descartada — [text llegit](../raw/parla/descartades/peces-descartades.md)** |
+| #58. Història de l'esquí | Daniel Areny | **descartada — [text llegit](../raw/parla/descartades/peces-descartades.md)** |
+| #60. La pedra seca | Xavier Llovera | **descartada — [text llegit](../raw/parla/descartades/peces-descartades.md)** |
 
 ## Peces candidates, per ordre d'interès per a la parla
 
@@ -161,4 +161,4 @@ catalans**. Un dels dos interlocutors és investigador alemany i parlen en caste
 
 **Es va donar per catalana perquè la font i el títol ho són.** Està descartada i
 documentada a
-[descartades](../raw/parla/descartades/README.md).
+[descartades](../raw/parla/descartades/peces-descartades.md).

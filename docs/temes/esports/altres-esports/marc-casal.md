@@ -97,6 +97,6 @@ andorrans**, que inclouen **dues seleccions d'hoquei**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Melissandre Fuentes](./melissandre-fuentes.md) — l'altra.

@@ -68,4 +68,4 @@ documentació llençada.**
 - [La consciència nacional andorrana](../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
 - [L'extensió dels poders](../institucions/consell-general/lextensio-dels-poders.md)
 - [La cronologia d'Andorra](../historia/moments-historics/la-cronologia-dandorra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -24,7 +24,7 @@ tags: [esports, vela, jocs-olimpics, arts-visuals, dones]
 > Venècia**.»
 
 **Aquesta és, fins on el corpus sap, l'única persona que apareix alhora a la
-branca d'esports i a la d'[arts visuals](../../cultura/arts-visuals/README.md).**
+branca d'esports i a la d'[arts visuals](../../cultura/arts-visuals/arts-visuals-index-de-fitxes.md).**
 
 ## Atlanta 1996
 
@@ -55,7 +55,7 @@ andorrà funciona amb infraestructura catalana.**
 **El corpus no sap què hi va exposar, ni si hi anava pel pavelló d'Andorra.**
 **Buit registrat i prioritari**, perquè **la Biennal és la cita d'art
 contemporani més important del món** i
-[la branca d'arts visuals](../../cultura/arts-visuals/README.md) **té escrit
+[la branca d'arts visuals](../../cultura/arts-visuals/arts-visuals-index-de-fitxes.md) **té escrit
 que no té cap artista andorrà de naixement fitxat.**
 
 **Aquí n'hi ha una, nascuda a Encamp.**
@@ -89,6 +89,6 @@ que no té cap artista andorrà de naixement fitxat.**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
-- [Arts visuals](../../cultura/arts-visuals/README.md) — l'altra meitat d'aquesta fitxa.
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
+- [Arts visuals](../../cultura/arts-visuals/arts-visuals-index-de-fitxes.md) — l'altra meitat d'aquesta fitxa.

@@ -94,7 +94,7 @@ important que un model ha d'entendre sobre ell.
    a l'**edifici Molines**, davant de l'emplaçament inicial. La inauguració de
    la clínica pública Verge de Meritxell el **1971** fixa el canvi de sistema,
    però les fonts consultades no documenten expressament l'any de tancament de
-   la Vilanova ([fonts web](../../../raw/web/societat/sanitat/clinica-vilanova/README.md)).
+   la Vilanova ([fonts web](../../../raw/web/societat/sanitat/clinica-vilanova/fonts-web-sobre-la-clinica-vilanova.md)).
 2. ~~**Qui era el Dr. Antoni Vilanova** i el **Dr. Ruiz**.~~ — **`resolt` el
    20-09-2026**: la secció [Els tres metges](#els-tres-metges) ja identifica
    **Antoni Vilanova** com a cirurgià i cap de la clínica, i **Dr. Ruiz** com a

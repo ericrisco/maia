@@ -93,7 +93,7 @@ molt més antigues, i **el corpus no n'ha mirat cap**.
 L'associacionisme és **on la gent parla en públic sense ser institució**: una
 assemblea de colla, una junta d'una coral, una entitat de barri. És un registre
 **intermedi entre l'institucional i l'espontani**, i el corpus de
-[parla](../../../parla/README.md) el necessita precisament perquè és el que
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md) el necessita precisament perquè és el que
 falta entre els dos que ja té previstos.
 
 ## Related

@@ -37,7 +37,7 @@ el lema la nomena.
 - ~~**La bandera**: els tres colors i el seu origen —blau i vermell de França,
   groc i vermell del bisbat i de la Corona d'Aragó, segons la lectura habitual—.
   **L'origen dels colors segueix sense verificar.**~~ — **`parcial` el
-  21-09-2026**: el [bolcat local de la Viquipèdia](../../../raw/web/institucions/README.md)
+  21-09-2026**: el [bolcat local de la Viquipèdia](../../../raw/web/institucions/fonts-web-sobre-institucions-simbols-i-actes-comunals.md)
   identifica aquesta atribució i la presenta com a especulativa; encara no hi ha
   una font primària que la confirmi. La versió amb escut i sense, i la data
   d'adopció, ja estan resoltes a [la bandera](./la-bandera.md): **22 de desembre

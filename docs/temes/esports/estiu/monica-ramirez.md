@@ -92,11 +92,11 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md) — on hi ha les medalles sense nom.

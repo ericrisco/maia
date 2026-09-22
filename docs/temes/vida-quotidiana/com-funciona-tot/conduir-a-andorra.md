@@ -152,7 +152,7 @@ tècnic del Museu Nacional de l'Automòbil.**
 > associacions que funden els retornats i refugiats de la postguerra
 > ([l'associacionisme històric](../../societat/vida-civica/lassociacionisme-historic.md));
 > **vuitanta anys després decideix, per llei, quins cotxes són patrimoni.**
-> Vegeu també [els museus](../../cultura/museus-i-arxius/museus/README.md).
+> Vegeu també [els museus](../../cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md).
 
 ## Hi ha més vehicles que persones
 
@@ -208,7 +208,7 @@ frontera espanyola plana (**+0,4%**) i **la francesa caiguda un 18,9%**.
   **l'annex II**, amb les multes per excés de velocitat per franges — i
   **no per manca de lectura**: el recull del corpus **serveix articles i no
   annexos**, i **45 de les 104 lleis en depenen**
-  ([`raw/lleis/README.md`](../../../raw/lleis/README.md)).
+  ([`raw/lleis/README.md`](../../../raw/lleis/legislacio-andorrana-vigent.md)).
 
   **`resolt` el 17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, butlletí
   **62 del 2021** (`docs/raw/lleis/bopa/`). **L'annex II és una matriu de vuit

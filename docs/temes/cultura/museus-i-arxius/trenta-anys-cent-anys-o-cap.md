@@ -283,7 +283,7 @@ d'abril del 2005 pel qual s'aprova el Reglament de l'Arxiu Nacional d'Andorra**,
 i **un segon decret del mateix dia** sobre el **Reglament de l'organització i el
 funcionament del Sistema d'Arxius i de l'Àrea d'Arxius del Govern d'Andorra**.
 Tots dos són **al BOPA i ja a l'evidència del corpus**
-([evidència](../../../raw/historia-arxiu/README.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md)).
 ~~**Localitzar no és llegir**: cap dels dos no s'ha destil·lat encara, i per tant
 el corpus segueix sense saber com s'entra a l'Arxiu Nacional~~ `resolt` el
 17-09-2026: el **Reglament de l'Arxiu Nacional** s'ha llegit, amb la seva

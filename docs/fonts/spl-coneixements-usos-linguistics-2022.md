@@ -51,7 +51,7 @@ Gràfics verificats sobre pàgina renderitzada a 300 ppp: **llengua inicial**
 l'extracció de text: les etiquetes hi surten desordenades i **l'assignació de
 sèrie es perd**.
 
-Provinença i hash: [registre de la carpeta](../raw/llengua-usos-linguistics/README.md).
+Provinença i hash: [registre de la carpeta](../raw/llengua-usos-linguistics/fons-documental-de-llengua-servei-de-politica-linguistica.md).
 
 ## Lectures
 

@@ -161,7 +161,7 @@ I el cas que en dona és polític:
 > Castella**.
 
 **La ciutadania andorrana usada com a declaració d'identitat catalana**, al segle
-XIX i des de Barcelona. Vegeu [el català a Andorra](../../llengua/historia-de-la-llengua/README.md).
+XIX i des de Barcelona. Vegeu [el català a Andorra](../../llengua/historia-de-la-llengua/historia-de-la-llengua-index-de-fitxes.md).
 
 ## Qui es refugiava a les Valls, segons un acte de 1783
 

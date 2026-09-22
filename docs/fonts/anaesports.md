@@ -32,7 +32,7 @@ femení**, cosa que la fa especialment útil per a dos àmbits on el corpus té
 poc.
 
 **I hi ha una raó de llengua, no només de dada:** és **premsa esportiva escrita
-en català d'Andorra, al dia**. Vegeu [parla](../parla/README.md).
+en català d'Andorra, al dia**. Vegeu [parla](../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).
 
 ## El que n'ha sortit fins ara
 

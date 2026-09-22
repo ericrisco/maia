@@ -409,7 +409,7 @@ retenir: **l'admissió del recurs es publica al Butlletí**, però **la publicac
   direcció**, **els comuns i els quarts i els òrgans que en depenen**, i **els
   organismes autònoms o entitats parapúbliques.** **Els quarts hi són nomenats,
   al codi administratiu general del país**
-  ([els comuns i les parròquies](../comuns-i-parroquies/README.md)). **La desviació de poder
+  ([els comuns i les parròquies](../comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md)). **La desviació de poder
   —fer servir una competència per a una finalitat que no és la seva— és alhora
   motiu de nul·litat de l'acte i de responsabilitat de qui el dicta**
   (article 16). **I la igualtat porta enganxada una clàusula que sembla una

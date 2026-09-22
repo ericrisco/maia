@@ -103,8 +103,8 @@ oficials, on es respectava, i es respecta, un estricte i cerimoniós protocol»*
 **Conclusió per a maia:** a Andorra, el registre institucional i el quotidià
 **estan molt més separats del que és habitual**, i **el marcador d'aquesta
 separació és el tractament**. Això reforça per què el corpus té branques
-separades per a [parla institucional](../../../parla/institucional/README.md) i
-[parla espontània](../../../parla/espontani/README.md).
+separades per a [parla institucional](../../../parla/institucional/parla-institucional-d-andorra.md) i
+[parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md).
 
 ## «Ai oi»
 

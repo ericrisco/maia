@@ -192,4 +192,4 @@ interessada, i el contrast amb els llibres parroquials queda com a buit.**
 - [L'hereu i el cabaler](./lhereu-i-el-cabaler.md) — què passa amb el patrimoni.
 - [Les estratègies matrimonials](./les-estrategies-matrimonials.md) — el patró que això confirma.
 - [Les cases museu](../../cultura/museus-i-arxius/museus/les-cases-museu.md) — Casa Rull avui.
-- [L'antic règim](./README.md)
+- [L'antic règim](antic-regim-index-de-fitxes.md)

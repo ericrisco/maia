@@ -15,7 +15,7 @@ tags: [societat, dones, politica, institucions, persones]
 
 ## Per què hi ha aquesta fitxa
 
-**La [branca de persones](../../persones/README.md) del corpus fixa dues
+**La [branca de persones](../../persones/persones-d-andorra-index-de-fitxes.md) del corpus fixa dues
 condicions per fitxar algú viu: que hi hagi fonts que documentin fets datats, no
 valoracions, i que la persona expliqui alguna cosa del país que no s'expliqui
 sense ella.**
@@ -156,7 +156,7 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
 
 ## Related
 
-- [Dones](./README.md)
+- [Dones](dones-index-de-fitxes.md)
 - [La llei d'igualtat](./la-llei-digualtat.md)
 - [El sufragi femení](./el-sufragi-femeni.md)
 - [La Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)

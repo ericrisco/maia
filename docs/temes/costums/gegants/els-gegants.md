@@ -103,7 +103,7 @@ laurediana.
 ## El que això vol dir per al corpus
 
 Els gegants són el cas net del patró que travessa tota la branca de
-[costums](../README.md): **una tradició amb data, autor conegut i origen forà,
+[costums](../costums-d-andorra-index-de-fitxes.md): **una tradició amb data, autor conegut i origen forà,
 que funciona igualment com a identitat**.
 
 Un model que descrigui els gegants d'Andorra com a «tradició secular» estarà

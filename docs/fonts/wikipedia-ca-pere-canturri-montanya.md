@@ -23,7 +23,7 @@ abast: >
 cops al corpus, cap fitxa» — en realitat, **la persona més citada de
 tot el corpus**, present en desenes d'articles de costums, cultura i
 historiografia com a font principal de la historiografia andorrana
-moderna ([persones](../temes/persones/README.md)).
+moderna ([persones](../temes/persones/persones-d-andorra-index-de-fitxes.md)).
 
 ## Què en treu
 

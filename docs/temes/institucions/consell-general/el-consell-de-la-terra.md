@@ -597,5 +597,5 @@ comprar.**
 - [L'Armari de les Set Claus](../patrimoni-institucional/larmari-de-les-set-claus.md)
 - [L'antic règim](../../historia/antic-regim/lantic-regim.md)
 - [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md) — els sis segles sencers.
-- [Política](../../politica/README.md) — la branca.
+- [Política](../../politica/politica-d-andorra-index-de-fitxes.md) — la branca.
 - [De lo que pot i no pot](../../historia/manual-digest/de-lo-que-pot-i-no-pot.md) — què podia i què no podia el Consell, segons el Manual Digest.

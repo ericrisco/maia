@@ -37,4 +37,4 @@ ser una de les veus associades a l'indicatiu **«Aquí Ràdio Andorra»**.
 ## Related
 
 - [Ràdio Andorra](../societat/mitjans/radio-andorra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

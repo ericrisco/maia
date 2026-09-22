@@ -53,7 +53,7 @@ un cognom de casa forta d'Andorra** i que **la grafia varia** —*Rossell* /
   del 1971** i **[Claudina Rossel](./claudina-rossel.md) el 12 de juliol del
   1969**, **sense lloc al seu bolcat.** **Els cognoms s'escriuen diferent
   —Rossell amb dues eles, Rossel amb una— i cap font no els relaciona ni els
-  relaciona amb [Casa Rossell](../../../historia/antic-regim/README.md).**
+  relaciona amb [Casa Rossell](../../../historia/antic-regim/antic-regim-index-de-fitxes.md).**
   `hipòtesi, no verificada.**~~ — **`parcial` el 21-09-2026**: les dues fitxes
   donen dates i llocs de naixement i les grafies dels cognoms. **No hi ha cap
   font que estableixi parentiu amb Claudina Rossel o amb Casa Rossell.**
@@ -62,14 +62,14 @@ un cognom de casa forta d'Andorra** i que **la grafia varia** —*Rossell* /
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
   **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
   **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
-  ho impedeixen, a [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  ho impedeixen, a [els esports](../../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Claudina Rossel](./claudina-rossel.md) — la mateixa arrel de cognom, grafia diferent.

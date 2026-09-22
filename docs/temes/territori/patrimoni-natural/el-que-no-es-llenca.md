@@ -116,11 +116,11 @@ travessa tot el que descriu
   la seva llista d'impacte ambiental és, per remissió, la de la UE.** És la
   mateixa arquitectura que aquesta fitxa ja descriu per als percentatges de
   reciclatge.
-- ~~**Quin percentatge de reciclatge assoleix Andorra avui**, no consta al recull de lleis.~~ — **`resolt` el 21-09-2026**: les dades oficials més recents fixen la taxa en **el 49% el 2024** per a les principals fraccions reciclables (paper i cartró, vidre i envasos), després d’un **49% el 2023** ([font local](../../../raw/web/territori/residus/reciclatge-2024/README.md)).
+- ~~**Quin percentatge de reciclatge assoleix Andorra avui**, no consta al recull de lleis.~~ — **`resolt` el 21-09-2026**: les dades oficials més recents fixen la taxa en **el 49% el 2024** per a les principals fraccions reciclables (paper i cartró, vidre i envasos), després d’un **49% el 2023** ([font local](../../../raw/web/territori/residus/reciclatge-2024/reciclatge-dels-residus-d-andorra-dades-2023-i-2024.md)).
 - ~~**La Llei 25/2004 de residus**, que la d'economia circular cita com a norma
   base i de la qual pren les definicions, **no és al recull**.~~ — **`resolt` el
   17-09-2026 des del [BOPA](../../../fonts/bopa.md)**: la **Llei 25/2004, del 14
   de desembre, de residus**, butlletí **3 del 2005**
   (`docs/raw/lleis/bopa/llei-25-2004-residus.txt`). **La norma base de la qual
   l'economia circular pren les definicions ja és al corpus.**
-- ~~**El Pla nacional de residus** i l'**Estratègia d'economia circular** són instruments, no lleis: no hi són.~~ — **`resolt` el 21-09-2026**: el [PNR Horitzó 2035](../../../raw/web/territori/residus/pnr-enec/README.md) va ser aprovat pel Govern el **22 de desembre de 2022** i queda integrat com a **eix 3 de l'ENEC**, amb sis programes d'acció i 31 actuacions. La font confirma que són instruments estratègics derivats de la Llei 25/2022, no lleis.
+- ~~**El Pla nacional de residus** i l'**Estratègia d'economia circular** són instruments, no lleis: no hi són.~~ — **`resolt` el 21-09-2026**: el [PNR Horitzó 2035](../../../raw/web/territori/residus/pnr-enec/pla-nacional-de-residus-i-estrategia-nacional-d-economia-circular.md) va ser aprovat pel Govern el **22 de desembre de 2022** i queda integrat com a **eix 3 de l'ENEC**, amb sis programes d'acció i 31 actuacions. La font confirma que són instruments estratègics derivats de la Llei 25/2022, no lleis.

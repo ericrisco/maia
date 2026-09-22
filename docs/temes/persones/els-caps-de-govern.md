@@ -108,14 +108,14 @@ les dones** ([el sufragi femení](../societat/dones/el-sufragi-femeni.md)).
 - **Els programes de govern i els debats d'investidura.**
 - **Per què cau cada govern.** Només se sap el del 2011.
 - **El Consell Executiu** com a institució: què fa, com es reuneix, què decideix
-  sol. Vegeu [institucions](../institucions/README.md).
+  sol. Vegeu [institucions](../institucions/institucions-d-andorra-index-de-fitxes.md).
 - **Cap dona ha estat cap de Govern.** Quaranta-quatre anys, vuit titulars, cap.
   **El corpus ho registra com a fet, no com a comentari**, i el contrasta amb
   [la sindicatura](./els-sindics-generals.md), que en té una des del 2019.
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Els síndics generals](./els-sindics-generals.md)
 - [Òscar Ribas Reig](./oscar-ribas-reig.md) — el primer.
 - [Els partits d'avui](../politica/partits/els-partits-davui.md)

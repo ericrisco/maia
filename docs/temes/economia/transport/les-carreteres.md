@@ -15,7 +15,7 @@ tags: [economia, transport, territori]
 
 ## Per què aquesta fitxa existeix
 
-**[Transport](./README.md) deia «la CG-1, la CG-2 i la resta: cap
+**[Transport](transport-index-de-fitxes.md) deia «la CG-1, la CG-2 i la resta: cap
 fitxa».** **En un país sense tren, sense port i sense aeroport propi**
 ([l'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md)), **la
 carretera no és una infraestructura més: és l'única porta d'entrada
@@ -85,5 +85,5 @@ gestió de la xarxa viària.**
 
 ## Related
 
-- [Transport](./README.md)
+- [Transport](transport-index-de-fitxes.md)
 - [L'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md)

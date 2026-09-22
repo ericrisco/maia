@@ -51,4 +51,4 @@ mensuals exactes a partir del gràfic.
 Ràsters i sèries originals, valors mensuals numèrics, implementació i
 reproducció del balanç; metodologia de reserva citada com Govern 2015.
 La discrepància de variació de reserva de 2025 es conserva al
-[registre general](README.md). La lectura no resol els drets de reutilització.
+[registre general](recurs-hidric-fora-del-corpus.md). La lectura no resol els drets de reutilització.

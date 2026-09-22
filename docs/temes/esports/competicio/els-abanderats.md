@@ -73,7 +73,7 @@ van anar hi van desfilar sota bandera olímpica.**
 **El corpus ho reté com un dels fets més interessants de tota la branca
 d'esports**, perquè **posa Andorra dins d'un gest polític internacional** — i
 perquè lliga amb el que el corpus ja té escrit sobre
-[la neutralitat com a doctrina](../../politica/identitat-politica/README.md) i
+[la neutralitat com a doctrina](../../politica/identitat-politica/identitat-politica-index-de-fitxes.md) i
 [les guerres i la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat.md).
 
 **Però el corpus s'atura i no interpreta.** **La font diu el fet i no en dona el
@@ -155,8 +155,8 @@ continua sent el buit pendent.**
 
 ## Related
 
-- [Competició](./README.md)
+- [Competició](competicio-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md)
-- [Els olímpics d'estiu](../estiu/README.md)
-- [Els esquiadors](../esqui/esquiadors/README.md)
-- [La bandera](../../institucions/simbols/README.md)
+- [Els olímpics d'estiu](../estiu/els-olimpics-d-estiu-index-de-fitxes.md)
+- [Els esquiadors](../esqui/esquiadors/els-esquiadors-index-de-fitxes.md)
+- [La bandera](../../institucions/simbols/simbols-index-de-fitxes.md)

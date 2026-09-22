@@ -14,7 +14,7 @@ tags: [parla, molins, oficis, aigua, lexic-marcat, transcripcio-no-verificada]
 # La mola de casa, deien tots
 
 **Tanda 8 de parla.** Càpsula #11 d'Andorra Recerca + Innovació, **13 min 57 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-11/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-11/capsula-11-les-moles-de-farina-d-andorra-per-francina-pons.md)).
 
 ## Cribratge i avís
 

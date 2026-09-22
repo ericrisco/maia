@@ -20,7 +20,7 @@ tags: [historia, institucions, politica]
 > **Des que el títol de copríncep francès va passar a mans del rei de França,
 > cap no havia tornat a trepitjar el país.** **De Gaulle va ser el primer a
 > fer-ho, pràcticament set-cents anys després dels
-> [pariatges](../pareatge/README.md).**
+> [pariatges](../pareatge/el-pareatge-index-de-fitxes.md).**
 
 **Hi va pronunciar dos discursos:**
 
@@ -44,7 +44,7 @@ tradicions»**.
 tradició en el mateix discurs en què demana que se n'abandoni una de
 fonamental.**
 
-**Vegeu [nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md)**:
+**Vegeu [nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md)**:
 el corpus ja té documentat que **la llei de nacionalitat andorrana demanava
 vint-i-cinc anys de residència i que els de permís de sojorn no comptaven.**
 **De Gaulle atacava exactament això, el 1967.**
@@ -139,8 +139,8 @@ pròpia cobertura sanitària.**
 
 ## Related
 
-- [Història recent](./README.md)
+- [Història recent](historia-recent-index-de-fitxes.md)
 - [Els anys daurats](./els-anys-daurats.md)
 - [Democratització](../democratitzacio/democratitzacio.md)
-- [El Coprincipat](../../institucions/coprincipat/README.md)
+- [El Coprincipat](../../institucions/coprincipat/el-coprincipat-index-de-fitxes.md)
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md)

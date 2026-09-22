@@ -15,7 +15,7 @@ tags: [begudes, vi, agricultura, canvi-climatic, economia, sant-julia]
 
 ## La branca que era buida a posta
 
-[Begudes](./README.md) era **una branca oberta i buida**, amb una nota que deia:
+[Begudes](begudes-index-de-fitxes.md) era **una branca oberta i buida**, amb una nota que deia:
 **«el celler i la viticultura d'alta muntanya andorrana mereixen fitxa pròpia i
 encara no en tenen»**. Aquesta és la fitxa.
 
@@ -191,7 +191,7 @@ dues són andorranes.**
 
 ## Related
 
-- [Begudes](./README.md) — la branca que registrava el buit.
+- [Begudes](begudes-index-de-fitxes.md) — la branca que registrava el buit.
 - [La vinya i el tabac](../../economia/ramaderia-i-agricultura/la-vinya-i-el-tabac.md) — la vinya que hi havia, i qui la va matar.
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — el marc, i la cara dolenta.
 - [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md) — el que Andorra hi perd.

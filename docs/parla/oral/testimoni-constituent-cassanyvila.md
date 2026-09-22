@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, andorra-la-vella, tran
 
 **Tanda 27 de parla.** Entrevista del Consell General amb **Robert Cassany Vila**,
 conseller general de **Andorra la Vella** al Consell Constituent, **6 min 41 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-cassanyvila/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-cassanyvila/testimoni-del-consell-constituent-robert-cassany-vila.md)).
 
 ## Avís
 

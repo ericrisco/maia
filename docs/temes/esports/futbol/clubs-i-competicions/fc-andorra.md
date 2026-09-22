@@ -235,7 +235,7 @@ Nike des del 2019.**
   accionista, i **Pyrénées**, «soci prèmium» des del febrer del 2020.
 - ~~**Quant paga el club per jugar a l'Estadi de la FAF**, i **què passa el maig
   del 2026** quan l'acord venci.~~ — **`parcial` el 20-09-2026**: la [Cadena
-  SER](../../../../raw/web/esport/fc-andorra-estadi/README.md) informa que la
+  SER](../../../../raw/web/esport/fc-andorra-estadi/fc-andorra-us-i-cost-de-l-estadi-de-la-faf.md) informa que la
   renovació amplia l'ús de l'estadi fins al **30 de juny de 2028**, amb un
   preu anual de **850.000 euros**; el Govern n'havia assumit aproximadament
   **400.000** l'any anterior. La peça consultada descriu el pacte com a tancat
@@ -252,6 +252,6 @@ Nike des del 2019.**
 
 ## Related
 
-- [Futbol](../README.md)
+- [Futbol](../futbol-index-de-fitxes.md)
 - [La lliga](./la-lliga.md)
 - [La federació](./la-federacio.md)

@@ -102,7 +102,7 @@ andorrana. **I el corpus gairebé no en sap res.**
   — **`obert`, i confirmat que ho seguirà sent per un motiu de mètode.**
   **Aquella fitxa declara explícitament que aquesta branca «no s'omple
   llegint»**: **el que aquí es demana no és a cap document, és a la conversa**.
-  **Va a [parla](../../../parla/README.md), no a bibliografia.**~~ —
+  **Va a [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md), no a bibliografia.**~~ —
   **`no-es-buit` el 20-09-2026**: és una línia de recerca oral, no una dada
   absent que es pugui tancar amb documents del corpus.
 

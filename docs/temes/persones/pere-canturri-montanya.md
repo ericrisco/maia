@@ -99,4 +99,4 @@ estudiants universitaris que investiguen temes d'història andorrana —
 - [El cas Amades](../historia/historiografia/el-cas-amades.md)
 - [La presó sense llei](../institucions/justicia/la-preso-sense-llei.md)
 - [L'associacionisme històric](../societat/vida-civica/lassociacionisme-historic.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

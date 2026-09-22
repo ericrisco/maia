@@ -70,7 +70,7 @@ i el **Nomenclàtor** amb les seves 4.240 entrades és qui ho ha de dir.
 - ~~**Si el poble negat té nom** a la llegenda.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~La **relació amb el llac real**: Engolasters és avui un embassament lligat a
   la producció hidroelèctrica
-  ([energia](../../economia/energia-i-serveis/README.md)) — **la llegenda parla
+  ([energia](../../economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md)) — **la llegenda parla
   d'un llac natural i el llac d'ara és en part obra humana**, i això mereix
   aclarir-se.~~ — **`parcial`, comprovat el 2026-09-14.** **El corpus no pot
   documentar la relació entre l'embassament i FHASA**: **la fitxa de

@@ -66,5 +66,5 @@ amb dades és copilot del Dakar i neboda d'un olímpic.**
 
 ## Related
 
-- [Futbol femení](./README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
 - [La selecció femenina](./la-seleccio-femenina.md)

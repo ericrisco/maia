@@ -113,7 +113,7 @@ l'any i no només a l'hivern.**
 
 ## Related
 
-- [Les estacions](./README.md)
+- [Les estacions](les-estacions-d-esqui-index-de-fitxes.md)
 - [Grandvalira](./grandvalira.md)
 - [Turisme i neu](../turisme-i-neu.md)
 - [Transformació econòmica](../../transformacio-economica/transformacio-economica.md)

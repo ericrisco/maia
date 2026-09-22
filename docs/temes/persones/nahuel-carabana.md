@@ -125,7 +125,7 @@ corpus, i queda marcada com a tal.**
 6. ~~**Els altres atletes andorrans**: el corpus té els noms d'**Antoni Bernadó**
    (maratonià, quatre Jocs), **Pol Moya**, **Cristina Llovera**, **Silvia
    Felipo**, **Montserrat Pujol** i **Josep Graells**, **i cap biografia**.~~ —
-   **`resolt`, actualitzat el 2026-09-19**: la branca [olímpics d'estiu](../esports/estiu/README.md)
+   **`resolt`, actualitzat el 2026-09-19**: la branca [olímpics d'estiu](../esports/estiu/els-olimpics-d-estiu-index-de-fitxes.md)
    ja enllaça les fitxes d'[Antoni Bernadó](../esports/estiu/antoni-bernado.md),
    [Pol Moya](../esports/estiu/pol-moya.md), [Cristina Llovera](../esports/estiu/cristina-llovera.md),
    [Silvia Felipo](../esports/estiu/silvia-felipo.md), [Montserrat Pujol](../esports/estiu/montserrat-pujol.md)
@@ -137,4 +137,4 @@ corpus, i queda marcada com a tal.**
 - [Joan Verdú](./joan-verdu.md)
 - [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md)
 - [Els Jocs dels Petits Estats](../esports/competicio/els-jocs-dels-petits-estats.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -17,7 +17,7 @@ tags: [economia, turisme, esports, territori]
 
 **Grandvalira és el domini esquiable més gran dels Pirineus: 215 km de pistes.**
 **És a dues parròquies —[Encamp i Canillo](../../../institucions/comuns-i-parroquies/les-set-parroquies.md)—
-i pren el nom del [Valira](../../../territori/geografia-fisica/README.md).**
+i pren el nom del [Valira](../../../territori/geografia-fisica/geografia-fisica-index-de-fitxes.md).**
 
 **És el resultat de la unió comercial de dues estacions**: **Pas de la Casa -
 Grau Roig** i **Soldeu El Tarter**. **La marca es va crear l'hivern del 2003.**
@@ -48,7 +48,7 @@ Grau Roig** i **Soldeu El Tarter**. **La marca es va crear l'hivern del 2003.**
 **El corpus ho subratlla perquè és la forma andorrana que ja ha documentat a
 altres branques**: **no és privatització ni nacionalització, és una societat
 mixta amb el govern de la parròquia.** Vegeu
-[els diners dels comuns](../../../institucions/comuns-i-parroquies/README.md) i
+[els diners dels comuns](../../../institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md) i
 [transformació econòmica](../../transformacio-economica/transformacio-economica.md).
 
 **I el nom de la societat ho diu tot**: **«de la Parròquia d'Encamp».** **No
@@ -114,7 +114,7 @@ Andorra.**
   el desembre del 2025 contra 42.127 el maig del 2024**, una diferència de
   **7.282**—, però **no desglossa Grandvalira ni identifica quants són
   temporers**. La plantilla pròpia de l'estació continua oberta.
-- ~~**Quant factura.**~~ — **`parcial` el 21-09-2026**: els resultats d'[Ensisa](../../../../raw/web/economia/turisme/grandvalira/README.md) situen els **ingressos d'explotació en 54,3 milions d'euros** a la temporada 2022–2023 (44,9 milions l'any anterior), mentre el balanç 2024–2025 registra **1,7 milions de dies d'esquí venuts** a Grandvalira. La xifra publicada és d'Ensisa i no del conjunt societari de Grandvalira Resorts, i encara falta una sèrie comparable del domini complet.
+- ~~**Quant factura.**~~ — **`parcial` el 21-09-2026**: els resultats d'[Ensisa](../../../../raw/web/economia/turisme/grandvalira/facturacio-i-activitat-de-grandvalira.md) situen els **ingressos d'explotació en 54,3 milions d'euros** a la temporada 2022–2023 (44,9 milions l'any anterior), mentre el balanç 2024–2025 registra **1,7 milions de dies d'esquí venuts** a Grandvalira. La xifra publicada és d'Ensisa i no del conjunt societari de Grandvalira Resorts, i encara falta una sèrie comparable del domini complet.
 - ~~**Si Francesc Viladomat té relació amb l'escultor
   [Josep Viladomat](../../../cultura/arts-visuals/josep-viladomat.md)**, que
   feia obra pública andorrana als mateixos anys.~~ — **`resolt` el 19-09-2026**:
@@ -124,7 +124,7 @@ Andorra.**
 
 ## Related
 
-- [Les estacions](./README.md)
+- [Les estacions](les-estacions-d-esqui-index-de-fitxes.md)
 - [Turisme i neu](../turisme-i-neu.md)
 - [PGI, l'exportació del model](./pgi.md)
 - [Vallnord, la marca que va desaparèixer](./vallnord.md)

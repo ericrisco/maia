@@ -296,7 +296,7 @@ alineades.` `no-es-buit`
   que no responen identifica 402 com a **massa salarial per sector i edat** i
   411 com a **salari mitjà per sector i edat**, i registra les mateixes respostes
   `500`/`502` després de les retallades
-  ([fitxa de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
+  ([fitxa de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/les-divisions-que-semblava-que-l-api-no-servia.md)).
 - ~~**Per què la relació cau set punts entre el 1970 i el 1975.**~~ —
   **`parcial` el 2026-09-20**: la taula passa del **68,0% el 1970** al
   **61,0% el 1975**, però la font no n'explica la causa ni permet separar

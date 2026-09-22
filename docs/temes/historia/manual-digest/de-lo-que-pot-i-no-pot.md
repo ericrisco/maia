@@ -215,7 +215,7 @@ Va a
    ([font biogràfica](../../../fonts/wikipedia-es-catalan-de-ocon.md)). **El
    dossier de la crisi i la seva seqüència completa encara no són al corpus.**
 4. ~~**Guillem d'Areny i Teixidor**, síndic el 1762 — i **si és de la mateixa casa
-   que Guillem d'Areny-Plandolit**.~~ — **`parcial` el 20-09-2026**: la identitat i el càrrec de **síndic del 1762** ja consten a la prosa i a la taula de [persones](../../persones/README.md); **el parentiu amb Guillem d'Areny-Plandolit continua sense documentar**.
+   que Guillem d'Areny-Plandolit**.~~ — **`parcial` el 20-09-2026**: la identitat i el càrrec de **síndic del 1762** ja consten a la prosa i a la taula de [persones](../../persones/persones-d-andorra-index-de-fitxes.md); **el parentiu amb Guillem d'Areny-Plandolit continua sense documentar**.
 5. ~~**Antoni Puig i Busquets**, autor del Politar: el corpus no en té biografia.~~ — **`parcial` el 20-09-2026**: [Els costumaris andorrans](./els-costumaris-andorrans.md) ja el documenta, amb la [font de l’Enciclopèdia Catalana](../../../fonts/enciclopedia-cat-politar-antoni-puig.md), com a **rector de les Escaldes** i autor del *Politar*; encara falten les dates de naixement i mort.
 6. ~~**El manuscrit Md0**, ANA **CR 40572**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Les edicions del Consell General del 2015 i el 2018**, que són les que

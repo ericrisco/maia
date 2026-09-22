@@ -47,7 +47,7 @@ nivell».**
 final**, i **la té perquè la federació la va publicar.** **La majoria de fitxes
 d'aquesta branca s'acaben on s'acaba el bolcat, sense que se sàpiga si la
 persona segueix competint**
-([els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada)).
+([els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada)).
 
 ## Dos germans a la mateixa selecció
 
@@ -85,5 +85,5 @@ competició»**.
 ## Related
 
 - [Marc Casal](./marc-casal.md) — el patinador amb qui es confonia el seu germà.
-- [Altres esports](./README.md)
-- [Els esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Els esports](../esports-d-andorra-index-de-fitxes.md)

@@ -247,7 +247,7 @@ lectura **no l'acredita ni el desmenteix**.
 
 **Cap tret d'aquesta fitxa no s'ha comprovat contra parla real d'avui.** Que
 *dos* femení estigui documentat al Setcents no acredita què diu una andorrana el
-2026. ~~Això es tanca amb [parla](../../../parla/README.md), no amb llibres.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2026. ~~Això es tanca amb [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md), no amb llibres.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **El text extret del PDF no és citable.** La lligadura «ti» hi surt corrompuda
 amb almenys sis glifs diferents. **Les cinc citacions d'aquesta fitxa s'han

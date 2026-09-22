@@ -260,5 +260,5 @@ carreteres, accessos o instal·lacions (art. 18).
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — què passa quan la matèria primera de l'assignatura s'escurça.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — les tres normes.
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — qui titula els monitors.
-- [Esports](../../esports/README.md) — la branca.
+- [Esports](../../esports/esports-d-andorra-index-de-fitxes.md) — la branca.
 - [L'escola privada](./lescola-privada.md) — on s'esquia dos dies per setmana.

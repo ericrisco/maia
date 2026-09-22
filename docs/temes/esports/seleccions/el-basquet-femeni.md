@@ -124,7 +124,7 @@ poden citar.`
 
 ## Related
 
-- [Les seleccions](./README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
 - [El bàsquet](./el-basquet.md) — la masculina, i els sis títols.
 - [La selecció femenina de futbol](../futbol/femeni/la-seleccio-femenina.md)
 - [Claudia Guri](../altres-esports/claudia-guri.md) — l'únic nom que el corpus hi té.

@@ -89,7 +89,7 @@ setanta-cinc anys d'impremta andorrana.**
    i no té el protestantisme andorrà.** **Que hi hagués protestants a l'Andorra
    del segle XVI és, per al corpus, una novetat.**
 2. ***Els noms de bateig a Andorra al segle XVII*** — **onomàstica històrica**,
-   que el corpus no té en cap forma. Vegeu [llengua](../llengua/README.md).
+   que el corpus no té en cap forma. Vegeu [llengua](../llengua/llengua-d-andorra-index-de-fitxes.md).
 3. ***Bibliografia impresa d'Andorra: 1598-1973*** — **és, literalment, el
    catàleg del que el corpus hauria de llegir.** **Buit prioritari absolut.**
 
@@ -137,8 +137,8 @@ organitzada pel **Cercle de les Arts i les Lletres** —**entitat fundada el
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [La seva ponència de 1994](../../fonts/palau-marti-identitat-andorrana-1994.md)
-- [Religiositat](../costums/religiositat/README.md)
+- [Religiositat](../costums/religiositat/religiositat-index-de-fitxes.md)
 - [La Inquisició a Andorra](../costums/religiositat/la-inquisicio-a-andorra.md)
 - [Historiografia](../historia/historiografia/historiografia.md)

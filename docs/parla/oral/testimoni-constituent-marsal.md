@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, sense-parroquia-declar
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Josep Marsal Riba**,
 conseller general de **sense parròquia declarada** al Consell Constituent, **17 min 8 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-marsal/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-marsal/testimoni-del-consell-constituent-josep-marsal-riba.md)).
 
 ## Avís
 

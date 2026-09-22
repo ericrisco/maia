@@ -60,7 +60,7 @@ Una publicació del Govern precisa que al llarg del període hi va haver **entre
 deu i dotze establiments**, no tots alhora, i que les dues fargues més
 importants van ser la **Farga Areny, a Ordino**, i la **Farga Rossell**. També
 situa el principal mener al fons de la vall de **Ransol**, al peu del coll de la
-Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../raw/web/cultura/ferro/README.md))
+Mina, i esmenta el mener de la **cort de Rossell**. ([font local](../../../../raw/web/cultura/ferro/fonts-web-sobre-les-fargues-i-el-ferro-andorra.md))
 
 La documentació patrimonial identifica **Casa Rossell d'Ordino** com la casa
 dels béns i de l'arxiu de la farga, integrats després al patrimoni de l'Estat
@@ -98,6 +98,6 @@ amb la família Areny-Plandolit per fundar les fargues del Serrat i del Puntal
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [Transformació econòmica](../../../economia/transformacio-economica/transformacio-economica.md)
 - [Casa d'Areny-Plandolit](./casa-dareny-plandolit.md)

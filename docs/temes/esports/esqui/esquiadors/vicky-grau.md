@@ -76,7 +76,7 @@ Calgary 1988.** **La primera Grau obre i la segona hi és catorze anys.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Sandra Grau](./sandra-grau.md) — la germana.

@@ -208,13 +208,13 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
 
 - ~~**Qui era el coronel Pellejero.**~~ — **`parcial` el 20-09-2026**: Eugeni
   Bregolat confirma que, als anys setanta, **la part tècnica de l'aeroport
-  d'Ensiura era a càrrec del coronel Pellejero** ([font conservada](../../../raw/web/economia/transport/pellejero/README.md)).
+  d'Ensiura era a càrrec del coronel Pellejero** ([font conservada](../../../raw/web/economia/transport/pellejero/el-coronel-pellejero-i-l-aeroport-andorra-pirineus.md)).
   La font no dona el nom complet ni la seva trajectòria militar, de manera que
   la identificació biogràfica continua oberta.
 - ~~**Què va ser de Dausa.**~~ **`parcial` el 2026-09-19**: l’**Enciclopèdia
   Catalana** confirma que Josep Betriu va crear **Desarrollo del Alto Urgel,
   SA (DAUSA)** el **1975** per construir l’aeroport i que **la instal·lació es
-  va vendre a l’Institut Català del Sòl el 2007** ([font local](../../../raw/web/economia/transport/dausa/README.md)).
+  va vendre a l’Institut Català del Sòl el 2007** ([font local](../../../raw/web/economia/transport/dausa/dausa-i-laeroport-de-la-seu.md)).
   La font no diu quin va ser el destí jurídic posterior de la societat DAUSA.
 - ~~**Si el tractat internacional del 2004 es va arribar a signar.**~~ —
   **`resolt` el 17-09-2026**: **no consta que s'hagi signat cap tractat**, i
@@ -248,7 +248,7 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
   aeroport substituiria.`
 - ~~**Francesc Betriu**, el germà.~~ **`resolt` el 2026-09-19**: **Francesc
   Betriu i Tàpies (1926–2014)** era **enginyer**, germà de Josep Betriu i
-  cofundador de Taurus ([font local](../../../raw/web/economia/transport/dausa/README.md)).
+  cofundador de Taurus ([font local](../../../raw/web/economia/transport/dausa/dausa-i-laeroport-de-la-seu.md)).
 - ~~**Per què la valoració dels terrenys va passar de 40 a 8 milions.**~~ —
   **`parcial` el 2026-09-20**: la compra negociada el **2005** es valorava en
   **40 M€**, mentre que l'Institut Català del Sòl va adquirir el **85%** dels
@@ -259,5 +259,5 @@ aeroport que porta el seu nom **es renova per pressupost cada any**.
 
 - [Els aiguats del 1982](../../historia/historia-recent/els-aiguats-del-1982.md)
 - [Els anys daurats](../../historia/historia-recent/els-anys-daurats.md)
-- [Economia](../README.md)
+- [Economia](../economia-d-andorra-index-de-fitxes.md)
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)

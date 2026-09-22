@@ -262,7 +262,7 @@ Barcelona i a París**. **Sis parades, cap col·lació.**
    **`parcial` el 18-09-2026**: **l'Enciclopèdia Catalana confirma
    independentment que era rector de les Caldes**, sense donar naixement ni
    mort ([font](../../../fonts/enciclopedia-cat-politar-antoni-puig.md)).
-   **Ara té fitxa a [persones](../../persones/README.md) amb el nom complet:
+   **Ara té fitxa a [persones](../../persones/persones-d-andorra-index-de-fitxes.md) amb el nom complet:
    Antoni Puig i Busquets.** **Troballa no buscada**: **hi ha una edició
    crítica del Politar del 2016**, del professor **Ignasi J. Baiges Jardí**,
    presentada al Consell General el 19 de gener del 2016, que **transcriu per

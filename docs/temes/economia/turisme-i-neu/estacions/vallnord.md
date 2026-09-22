@@ -146,7 +146,7 @@ França ha acabat tres vegades al seu país.**
 > ⚠ **Divergència registrada.** **L'avís legal només dona «SAETDE, S.A.»**, i
 > **el corpus té dues lectures de la sigla que no coincideixen**: **«Societat
 > Anònima d'Equipament Turístic-Esportiu de la Parròquia d'Encamp»**
-> ([les estacions](./README.md)) i **«Societat Anònima d'Equipaments Turístics
+> ([les estacions](les-estacions-d-esqui-index-de-fitxes.md)) i **«Societat Anònima d'Equipaments Turístics
 > de la Vall d'Encamp»**, que és la que circula a la premsa especialitzada.
 > **No s'arbitra: cal l'escriptura de constitució del 22 de novembre del 1967.**
 > `pregunta_oberta`
@@ -170,7 +170,7 @@ del 2021**:
 > **Dos comuns i un banc controlen l'explotació de Soldeu-el Tarter i Pal
 > Arinsal.** **El 60,0 % és públic comunal i el 39,7 % és d'una entitat
 > financera privada** — que és, exactament, **la manera andorrana**
-> ([les estacions](./README.md)).
+> ([les estacions](les-estacions-d-esqui-index-de-fitxes.md)).
 
 `El que segueix sense saber-se és l'accionariat de SAETDE, d'ENSISA i de
 SECNOA per separat, i qui té NEVASA. L'avís legal dona raó social i NRT, no
@@ -198,6 +198,6 @@ capital.` `font_externa`
 
 ## Related
 
-- [Les estacions](./README.md)
+- [Les estacions](les-estacions-d-esqui-index-de-fitxes.md)
 - [Grandvalira](./grandvalira.md)
 - [Turisme i neu](../turisme-i-neu.md)

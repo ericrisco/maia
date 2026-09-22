@@ -49,7 +49,7 @@ cronologia**: un país que incorpora les dones a la vida pública en la mateixa
 dècada, a les institucions i a l'equip nacional.
 
 Vegeu [el sufragi femení](../../../societat/dones/el-sufragi-femeni.md) i
-[dones](../../../societat/dones/README.md).
+[dones](../../../societat/dones/dones-index-de-fitxes.md).
 
 ## No hi va anar sola
 
@@ -77,7 +77,7 @@ consta»*. **Era Sandra Grau.** **Buit tancat.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Sandra Grau](./sandra-grau.md) — l'altra dona de Calgary.

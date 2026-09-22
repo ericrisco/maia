@@ -72,9 +72,9 @@ xifres no arriba als quatre gols que la mateixa font li documenta amb data.**
   documenta que el **2022** va deixar temporalment l'ENFAF per jugar a l'**AEM B**
   de Lleida, entrenant entre setmana a Andorra. El pas per AEM queda identificat;
   el detall federatiu del retorn del 2019 continua obert
-  ([font web](../../../../raw/web/esport/futbol-femeni/marina-fernandez/README.md)).
+  ([font web](../../../../raw/web/esport/futbol-femeni/marina-fernandez/marina-fernandez-trajectoria-de-clubs-i-pas-per-l-aem.md)).
 
 ## Related
 
-- [Futbol femení](./README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
 - [La selecció femenina](./la-seleccio-femenina.md)

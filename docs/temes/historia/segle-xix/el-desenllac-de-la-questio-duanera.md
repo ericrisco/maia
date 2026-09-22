@@ -116,7 +116,7 @@ alhora, i el corpus no té com decidir-ho.** Buit registrat.
 **Els dos `.txt` d'aquests diaris eren buits al corpus** —el PDF no tenia capa de
 text— i el corpus ho tenia registrat com a buit. **S'han passat per OCR**, i el
 que hi surt **precisa i corregeix el que el corpus tenia per Vilar**
-([raw/README](../../../raw/README.md)).
+([raw/README](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md)).
 
 ### 1. L'original espanyol de la frase del bisbe
 
@@ -469,7 +469,7 @@ caracterització del frau andorrà.**
    no és qüestió d'OCR: el fitxer `heraldo-1895-06-27-p2.pdf` no és el diari.**
    És **una pàgina HTML de la Biblioteca Nacional de España** —el formulari de
    sol·licitud de reproducció— **desada amb extensió `.pdf`**. El corpus **no té
-   aquest diari**, i creia que sí. Vegeu el [README de `raw/`](../../../raw/README.md).
+   aquest diari**, i creia que sí. Vegeu el [README de `raw/`](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md).
 3b. **La verificació caràcter a caràcter** de les citacions d'OCR contra el PDF.
    L'OCR de premsa del 1895 té errors sistemàtics.
 3c. **`PISTA NOVA I PRIORITÀRIA — 17-09-2026`**: **existeix un opuscle imprès el

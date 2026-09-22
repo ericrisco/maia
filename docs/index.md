@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1083** documents · **368** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
+**1090** documents · **368** fonts · **39** aptes com a model de llengua · **126** temes amb contingut.
 
 ## parla/oral
 
@@ -231,6 +231,7 @@
 | [El Museu Postal: el museu que la Constitució va desallotjar](temes/cultura/museus-i-arxius/museus/el-museu-postal.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 | [El primer museu andorrà: girafes dissecades a Ordino](temes/cultura/museus-i-arxius/museus/el-primer-museu.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 | [Els altres museus: art sacre, romànic, electricitat, còmic, miniatura, moto, aigua](temes/cultura/museus-i-arxius/museus/els-altres-museus.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
+| [Els museus d'Andorra — índex de fitxes](temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 | [La Farga Rosell i la ruta del ferro](temes/cultura/museus-i-arxius/museus/la-farga-rosell.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 | [Les cases museu: Rull, Cristo i Cal Pal](temes/cultura/museus-i-arxius/museus/les-cases-museu.md) | `temes/cultura/museus-i-arxius/museus` | compilada | contemporania | no | `wikipedia-museus-andorra` |
 
@@ -363,6 +364,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [L'aeroport que Andorra no té](temes/economia/transport/laeroport-que-andorra-no-te.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-aeroport-andorra` |
 | [Les carreteres d'Andorra](temes/economia/transport/les-carreteres.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-ca-llista-carreteres-andorra` |
+| [Transport — índex de fitxes](temes/economia/transport/transport-index-de-fitxes.md) | `temes/economia/transport` | compilada | contemporania | no | `wikipedia-aeroport-andorra` |
 
 ## temes/economia/turisme-i-neu
 
@@ -378,6 +380,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [Grandvalira](temes/economia/turisme-i-neu/estacions/grandvalira.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
+| [Les estacions d'esquí — índex de fitxes](temes/economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
 | [Naturland: el parc que ha perdut vint milions](temes/economia/turisme-i-neu/estacions/naturland.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-naturland` |
 | [PGI: Andorra exporta el model](temes/economia/turisme-i-neu/estacions/pgi.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
 | [Vallnord, la marca que va desaparèixer](temes/economia/turisme-i-neu/estacions/vallnord.md) | `temes/economia/turisme-i-neu/estacions` | compilada | contemporania | no | `wikipedia-estacions-esqui-andorra` |
@@ -435,6 +438,7 @@
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
 | [El Campionat d'Andorra d'escacs](temes/esports/escacs/el-campionat.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
+| [Escacs — índex de fitxes](temes/esports/escacs/escacs-index-de-fitxes.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [La Federació d'Escacs Vall d'Andorra](temes/esports/escacs/la-federacio.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [L'Obert Internacional d'Escacs d'Andorra](temes/esports/escacs/lobert-internacional.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [Òscar de la Riva i Aguado](temes/esports/escacs/oscar-de-la-riva.md) | `temes/esports/escacs` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
@@ -632,6 +636,7 @@
 
 | Document | Tema | Veu | Època | Apte | Font |
 | --- | --- | --- | --- | --- | --- |
+| [Clubs i competicions — índex de fitxes](temes/esports/futbol/clubs-i-competicions/clubs-i-competicions-index-de-fitxes.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Els clubs](temes/esports/futbol/clubs-i-competicions/els-clubs.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-clubs-futbol-andorra` |
 | [El FC Andorra](temes/esports/futbol/clubs-i-competicions/fc-andorra.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [La Copa Constitució](temes/esports/futbol/clubs-i-competicions/la-copa.md) | `temes/esports/futbol/clubs-i-competicions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
@@ -655,6 +660,7 @@
 | [Cristina Lacour](temes/esports/futbol/femeni/cristina-lacour.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Daniela Rodrigues](temes/esports/futbol/femeni/daniela-rodrigues.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Erica Gonçalves](temes/esports/futbol/femeni/erica-goncalves.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
+| [Futbol femení — índex de fitxes](temes/esports/futbol/femeni/futbol-femeni-index-de-fitxes.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Gemma Lluch](temes/esports/futbol/femeni/gemma-lluch.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Iria Domínguez](temes/esports/futbol/femeni/iria-dominguez.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [Júlia Domingo](temes/esports/futbol/femeni/julia-domingo.md) | `temes/esports/futbol/femeni` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
@@ -700,6 +706,7 @@
 | [Els dotze de la primera final: Andorra, 2004](temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2004` |
 | [Els dotze del triple de Galera del 2014](temes/esports/seleccions/els-dotze-del-triple-de-galera-del-2014.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2014` |
 | [Els dotze dels set segons: Andorra, 2012](temes/esports/seleccions/els-dotze-dels-set-segons-del-2012.md) | `temes/esports/seleccions` | compilada | contemporania | no | `fiba-andorra-basquet-2012` |
+| [Les seleccions — índex de fitxes](temes/esports/seleccions/les-seleccions-index-de-fitxes.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [L'handbol](temes/esports/seleccions/lhandbol.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |
 | [L'hoquei gel: un 12-0 i un 24-2](temes/esports/seleccions/lhoquei-gel.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-futbol-femeni-andorra` |
 | [L'hoquei sobre patins: dos campionats del món i una setena plaça mundial](temes/esports/seleccions/lhoquei-patins.md) | `temes/esports/seleccions` | compilada | contemporania | no | `wikipedia-escacs-andorra` |

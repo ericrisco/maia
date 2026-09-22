@@ -96,7 +96,7 @@ de la façana sud-oest**, i la casa **adquireix l'aspecte definitiu**.
 
 **Cares humanes tallades als caps de biga d'una casa de la Cortinada.** **El
 corpus no té res d'això a
-[arquitectura](../../arquitectura/README.md).** **Buit obert.**
+[arquitectura](../../arquitectura/arquitectura-index-de-fitxes.md).** **Buit obert.**
 
 ## I la mola i serradora de Cal Pal
 
@@ -142,6 +142,6 @@ vernacular i un espai patrimonial; no hi afegeix noms propis ni una genealogia
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [L'hereu i el cabaler](../../../historia/antic-regim/lhereu-i-el-cabaler.md)
-- [Arquitectura](../../arquitectura/README.md)
+- [Arquitectura](../../arquitectura/arquitectura-index-de-fitxes.md)

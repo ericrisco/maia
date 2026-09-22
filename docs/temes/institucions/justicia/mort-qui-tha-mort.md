@@ -159,7 +159,7 @@ popular.**
 
 - [«Cadàver, alça't que la Justícia et demana»](./cadaver-alsat-que-la-justicia-te-demana.md) — l'acta notarial de 1801, sencera, i tres atestacions més.
 
-- [Justícia](./README.md)
+- [Justícia](justicia-index-de-fitxes.md)
 - [La pena de mort](./la-pena-de-mort.md)
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md)
 - [La Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)

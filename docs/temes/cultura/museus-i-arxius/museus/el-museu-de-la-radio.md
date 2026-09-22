@@ -61,7 +61,7 @@ de l'Alliberament: a Trémoulet, Laffont i Puiggros se'ls va imputar
 la defensa nacional, difós programes favorables a l'enemic, tret material
 radioelèctric de França i mantingut relacions amb els serveis d'espionatge
 alemanys. La mateixa font situa l'absolució de Trémoulet a la **Cort de Tolosa,
-l'1 d'abril de 1949**. ([fonts locals](../../../../raw/web/cultura/radio-andorra/README.md))
+l'1 d'abril de 1949**. ([fonts locals](../../../../raw/web/cultura/radio-andorra/fonts-web-sobre-radio-andorra-i-la-radiodifusio.md))
 
 La mateixa documentació descriu també el vincle espanyol: establert a Madrid,
 Trémoulet va treballar estretament amb l'administració franquista i **Ramón
@@ -92,5 +92,5 @@ dels contractes i del dossier judicial original encara no forma part del corpus.
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [Ràdio Andorra](../../../societat/mitjans/radio-andorra.md)

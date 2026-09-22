@@ -18,13 +18,19 @@ FRONTMATTER = re.compile(r"\A---\s*\n(.*?)\n---\s*\n(.*)\Z", re.DOTALL)
 ENLLAC = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 WIKILINK = re.compile(r"\[\[([^\]]+)\]\]")
 CITA = re.compile(r"^>\s?(.+)$", re.MULTILINE)
-GENERATS = {"CONTRACT.md", "index.md", "README.md"}
+GENERATS = {
+    "CONTRACT.md",
+    "index.md",
+    "README.md",
+    "el-cervell-andorra-index-del-corpus.md",
+}
 
 # Subarbres de la bóveda que NO són corpus. `raw/` guarda el material de
 # partida —extractes de fonts, notes de consulta, registres de procedència— i
-# els seus .md no han de passar pel contracte: no són documents del corpus,
-# són la matèria primera d'on surten.
-FORA_DEL_CORPUS = {"raw"}
+# `_exemples/` conserva plantilles i exemples del contracte. Els seus .md no
+# han de passar pel contracte: no són documents del corpus, sinó material de
+# suport.
+FORA_DEL_CORPUS = {"raw", "_exemples"}
 
 
 @dataclass(frozen=True, slots=True)
@@ -131,6 +137,9 @@ def load_corpus(root: Path) -> Corpus:
             unparsed.append(Unparsed(md, "sense frontmatter o frontmatter no és un mapa"))
             continue
         data, body = parts
+
+        if data.get("type") == "index":
+            continue
 
         if data.get("type") == "font":
             fid = str(data.get("id", md.stem))

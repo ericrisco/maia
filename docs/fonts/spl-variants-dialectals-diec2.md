@@ -32,7 +32,7 @@ document:
 > Política Lingüística del Govern d'Andorra.»
 
 Pàgina que el publica, amb el seu text de presentació:
-[la captura del 13-09-2026](../raw/llengua-usos-linguistics/README.md).
+[la captura del 13-09-2026](../raw/llengua-usos-linguistics/fons-documental-de-llengua-servei-de-politica-linguistica.md).
 Drets i decisió: fitxa del fons al harness, `02-DOCS/raw/sources/spl-estudis-llengua.md`.
 
 ## Lectures

@@ -173,7 +173,7 @@ La llei ho preveu i deixa la porta oberta, cas per cas.
   **no s'ha llegit**.~~ — **`incorrecte` en la formulació, `obert` en el fons.**
   **No és que no s'hagi llegit: és que no es pot llegir per aquesta via.** El
   recull del corpus **serveix articles i no annexos**, i això està registrat des
-  d'abans a [`raw/lleis/README.md`](../../../raw/lleis/README.md):
+  d'abans a [`raw/lleis/README.md`](../../../raw/lleis/legislacio-andorrana-vigent.md):
   **45 de les 104 lleis citen un annex propi i cap dels 104 fitxers en conté
   cap.** **El codi de la circulació és el cas que aquell registre posa
   d'exemple**, precisament per l'annex II. `Requereix font externa: el text
@@ -199,7 +199,7 @@ La llei ho preveu i deixa la porta oberta, cas per cas.
   blaves o verdes. **Aparcar és dret comunal; la resta de la circulació, no.**
   **Aquest tros sí que queda obert**, i per un motiu estructural:
   **les ordinacions comunals no són al corpus** — ho registra
-  [`raw/lleis/README.md`](../../../raw/lleis/README.md).
+  [`raw/lleis/README.md`](../../../raw/lleis/legislacio-andorrana-vigent.md).
 
 ## Related
 

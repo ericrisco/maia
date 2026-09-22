@@ -33,7 +33,7 @@ notes: >
 
 L'[avís d'aprovació d'Arinsal](../raw/allaus/bopa-aprovacio-arinsal-2022.pdf)
 es registra separadament sota la fitxa [BOPA](bopa-ad.md).
-[Detall d'evidència i enllaços originals](../raw/allaus/README.md).
+[Detall d'evidència i enllaços originals](../raw/allaus/allaus-fora-del-corpus.md).
 
 ## Lectures
 

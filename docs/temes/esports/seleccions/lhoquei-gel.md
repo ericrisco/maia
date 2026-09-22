@@ -52,7 +52,7 @@ resultat és el quart lloc**, el **2017 i el 2018**.
 ## El que això tanca
 
 **El corpus tenia registrat com a buit el Palau de Gel d'Andorra, a Canillo**,
-*«on van a patinar els escolars»* ([esports](../README.md)). **Ara en sap una
+*«on van a patinar els escolars»* ([esports](../esports-d-andorra-index-de-fitxes.md)). **Ara en sap una
 cosa més: és la pista de la selecció nacional d'hoquei gel**, i **hi va perdre
 24-2 el 2025**.
 
@@ -189,5 +189,5 @@ existeix.**
 
 ## Related
 
-- [Les seleccions](./README.md)
-- [Esports](../README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

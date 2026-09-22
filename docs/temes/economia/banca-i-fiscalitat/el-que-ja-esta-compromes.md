@@ -259,7 +259,7 @@ els que superen aquest termini.`
   l'article 10—, però la font només enumera els contractes **superiors a cinc
   anys** i no permet saber si hi ha compromisos de menys de cinc anys ni quin
   total formen.
-- ~~**Si l'heliport ha tingut resultats negatius** i s'ha activat la compensació.~~ — **`parcial` el 2026-09-19**: [el transport](../transport/README.md) documenta la concessió de l’Heliport Nacional **2022-2052** i la compensació contractual de fins a **7.627.034 €** —el **75% de l’amortització**— **si** el concessionari té resultats negatius. **El corpus no té, però, cap compte o resolució que provi que s’hagi produït el resultat negatiu ni que la compensació s’hagi activat.**
+- ~~**Si l'heliport ha tingut resultats negatius** i s'ha activat la compensació.~~ — **`parcial` el 2026-09-19**: [el transport](../transport/transport-index-de-fitxes.md) documenta la concessió de l’Heliport Nacional **2022-2052** i la compensació contractual de fins a **7.627.034 €** —el **75% de l’amortització**— **si** el concessionari té resultats negatius. **El corpus no té, però, cap compte o resolució que provi que s’hagi produït el resultat negatiu ni que la compensació s’hagi activat.**
 
 ## Related
 

@@ -47,7 +47,7 @@ ha textos conservats.
 
 **Buit registrat, i és dels més valuosos del corpus.** Si hi ha **text**, és
 **teatre popular en català d'Andorra** — i, si el diuen andorrans, podria ser
-material de [parla](../../../parla/README.md) i no només de temes. **Prioritari.**
+material de [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md) i no només de temes. **Prioritari.**
 
 ### El que ara se'n sap
 

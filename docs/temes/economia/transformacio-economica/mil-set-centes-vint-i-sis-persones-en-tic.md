@@ -132,7 +132,7 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   intel·ligència artificial són molts o pocs respecte de fa cinc anys.
 - ~~**El corpus té els percentatges d'empreses i no els absoluts.** **Sense el
   nombre d'empreses de cada any no es pot saber si el sector es contreu o
-  només es dilueix.**~~ — **`no-es-buit`**: el [README de la font TIC](../../../raw/estadistica-api/tic/README.md)
+  només es dilueix.**~~ — **`no-es-buit`**: el [README de la font TIC](../../../raw/estadistica-api/tic/tic-competencies-digitals-i-administracio-electronica-per-l-api-d-estadistica.md)
   separa l'enquesta d'empreses de la de llars i adverteix que les taules amb
   «DISTRIBUCIÓ» donen percentatges. La sèrie d'empreses publica, per tant, la
   proporció d'empreses amb especialistes o contractació, però no el denominador
@@ -143,7 +143,7 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   per servei** i **tràfic telefònic**, i que retornen `500` senceres i també
   després de retallar la consulta als desembres i als anys 1990, 2000 i 2010;
   no hi ha cap resposta de dades que es pugui llegir
-  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
+  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/les-divisions-que-semblava-que-l-api-no-servia.md)).
 - ~~**No hi ha desglossament per parròquia** ni per nacionalitat de cap taula
   d'aquesta branca.~~ — **`no-es-buit`**: és una limitació declarada de la
   font, que no publica aquests desglossaments.
@@ -162,4 +162,4 @@ anys** i **el mòbil puja del 92,6% al 94,6%**; **la tauleta cau del 42,8% al
   sota del total** el 2022 i el 2024, divergència que es conserva sense
   arbitrar. El **tràfic telefònic** continua obert: és la divisió **247**, que
   el 18-09-2026 retorna `500 Internal Server Error` i no entra al TSV
-  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/README.md)).
+  ([README de les divisions que no responen](../../../raw/estadistica-api/les-que-no-responien/les-divisions-que-semblava-que-l-api-no-servia.md)).

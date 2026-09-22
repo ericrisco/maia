@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, sant-julia-de-loria, r
 **Tanda 5 de parla.** Entrevista del Consell General amb **Pere Altimir Pintat**,
 conseller general de **Sant Julià de Lòria** al Consell Constituent,
 **14 min 40 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-altimir/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-altimir/testimoni-del-consell-constituent-pere-altimir-pintat.md)).
 
 ## Avís: la pitjor proporció de marques de totes les tandes
 

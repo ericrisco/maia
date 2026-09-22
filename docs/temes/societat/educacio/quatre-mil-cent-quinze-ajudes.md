@@ -137,4 +137,4 @@ del 2024.`
 - [La Universitat d'Andorra](./la-universitat-dandorra.md)
 - [L'esquí escolar](./lesqui-escolar.md)
 - [Els tres sistemes](./els-tres-sistemes.md)
-- [Educació](./README.md)
+- [Educació](educacio-index-de-fitxes.md)

@@ -22,7 +22,7 @@ abast: >
 **La Federació Andorrana d'Esquí (FAE)**: quan es va fundar, qui la
 presideix, quines disciplines gestiona. El corpus no en tenia fitxa
 —confirmat contra els 39 bolcats institucionals de
-[la subbranca d'esquiadors](../temes/esports/esqui/esquiadors/README.md)—
+[la subbranca d'esquiadors](../temes/esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md)—
 i la buscava també per a [Joan Verdú](../temes/persones/joan-verdu.md).
 
 ## Què en treu

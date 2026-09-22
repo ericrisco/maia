@@ -101,10 +101,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**On va néixer exactament**: la font diu «Andorra» sense parròquia.~~ —
   **`resolt` el 18-09-2026**: **Andorra la Vella**, segons **la Viquipèdia en
   anglès i Wikidata**, que hi coincideixen. Vegeu [l'avís sobre aquesta sèrie
-  de buits](./README.md#els-altres-cinquanta-tres).
+  de buits](futbol-index-de-fitxes.md#els-altres-cinquanta-tres).
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

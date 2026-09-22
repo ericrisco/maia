@@ -79,4 +79,4 @@ el 27 d'octubre, combinat amb la projecció d'**El món de Pau Casals**
 
 - [Els anys daurats](../historia/historia-recent/els-anys-daurats.md)
 - [La censura de premsa](../societat/mitjans/la-censura-de-premsa.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

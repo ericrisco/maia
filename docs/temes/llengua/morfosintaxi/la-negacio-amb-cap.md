@@ -80,7 +80,7 @@ totes del segle XX. Si el tret ha recessit amb l'orientalització de la parla
 resol amb només dos valors.
 
 **Buit registrat, prioritari:** mesurar *cap* en material contemporani de
-[parla](../../../parla/README.md). És una de les primeres coses que el corpus
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md). És una de les primeres coses que el corpus
 de fase 3 hauria de poder respondre.
 
 ## El que falta

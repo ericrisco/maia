@@ -85,7 +85,7 @@ va fer, deliberadament, **enmig de tots dos**.
 **Això explica per què el volum del parlamentarisme existeix**, i per què **hi
 van escriure dos síndics generals, una exministra, quatre consellers generals en
 actiu i el Copríncep Episcopal**
-([política](../../politica/README.md)).
+([política](../../politica/politica-d-andorra-index-de-fitxes.md)).
 
 **No és un llibre acadèmic: és el país aprofitant una data rodona per
 pensar-se.** El síndic ho escriu així:

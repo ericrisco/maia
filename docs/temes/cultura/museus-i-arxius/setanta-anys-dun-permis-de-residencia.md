@@ -18,7 +18,7 @@ tags: [arxius, patrimoni, dret-vigent, documents, immigracio, dades-personals, p
 **Edicte del 16 de juny del 2021** i **edicte del 21 de juliol del 2021**, pels
 quals es publiquen les resolucions de la **CAAD** aprovades pel Govern en
 aquelles dues sessions
-([evidència](../../../raw/historia-arxiu/README.md), [font](../../../fonts/bopa-ad.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md), [font](../../../fonts/bopa-ad.md)).
 
 Són les dues peces que
 [la fitxa de la sèrie d'edictes](./abans-ho-decretava-el-govern.md) deixava

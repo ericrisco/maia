@@ -21,7 +21,7 @@ abast: >
 **Qui era Joan I, comte de Foix**, el copríncep en nom de qui es ratifica
 el privilegi del Consell de la Terra el 17 de desembre del 1419 — buit
 senyalat des de [el Consell de la Terra](../temes/institucions/consell-general/el-consell-de-la-terra.md)
-i des de la taula de [persones](../temes/persones/README.md).
+i des de la taula de [persones](../temes/persones/persones-d-andorra-index-de-fitxes.md).
 
 ## Què en treu
 

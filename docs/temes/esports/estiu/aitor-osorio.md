@@ -78,10 +78,10 @@ nedadors als Jocs?*
   18-09-2026**: el representant actual al COA (2024-2028) és **Joan Clotet
   Calves** ([font](../../../fonts/coa-membres.md)). **Any de fundació,
   clubs i nombre de nedadors federats segueixen sense documentar-se.**
-  Vegeu [els esports](../README.md).
+  Vegeu [els esports](../esports-d-andorra-index-de-fitxes.md).
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)

@@ -156,7 +156,7 @@ internacional**.
 >   VIQUIPÈDIA EN CATALÀ, el març del 2001**, **soci fundador d'Amical
 >   Viquipèdia** i **premi d'Actuació Cívica de la Fundació Lluís Carulla el
 >   2013.** **Aquest corpus està fet, en bona part, de Viquipèdia en català**
->   ([les fonts](../../../fonts/README.md)): **el primer article d'aquella
+>   ([les fonts](../../../fonts/index-de-fitxes-de-fonts-del-corpus.md)): **el primer article d'aquella
 >   enciclopèdia el va escriure un campió d'escacs d'Andorra.** **Buit
 >   prioritari, i de categoria pròpia.**
 > - **ROBERT ALOMÀ, JOAN MELLADO i JORDI FLUVIÀ**, **Mestres Internacionals**
@@ -170,6 +170,6 @@ internacional**.
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Lance Henderson de La Fuente](./lance-henderson.md) — l'altre gran mestre d'Andorra.

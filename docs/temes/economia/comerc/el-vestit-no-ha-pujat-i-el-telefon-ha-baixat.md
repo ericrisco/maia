@@ -92,7 +92,7 @@ mesos del 2022**, i ho fa en dos salts:
 **−51,5% des del desembre del 2021**, i és de molt la caiguda més gran de les
 **75 classes** de l'índex. **No és un mercat: és una decisió.** El corpus ja
 registrava que el Govern hi va afegir **l'abonament gratuït per a nou línies**
-([el transport](../transport/README.md)). `La data exacta de cada mesura i quina
+([el transport](../transport/transport-index-de-fitxes.md)). `La data exacta de cada mesura i quina
 correspon a quin dels dos salts, el corpus no ho té: té els dos salts.`
 
 ## L'altra cara: què s'ha encarit de debò des del 2021

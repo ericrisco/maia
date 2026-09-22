@@ -76,12 +76,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
   segons **Wikidata i National Football Teams**, que hi coincideixen igual que
   en la data i el nom complet. Vegeu [l'avís sobre aquesta sèrie de
-  buits](./README.md#els-altres-cinquanta-tres).
+  buits](futbol-index-de-fitxes.md#els-altres-cinquanta-tres).
 - ~~**Els seus vint-i-quatre partits**, i si va marcar mai.~~ — **`parcial`**:
   **el bolcat en dona el compte de gols a la taula de seleccions** (taula de
   dalt); **el detall dels partits, no.**
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

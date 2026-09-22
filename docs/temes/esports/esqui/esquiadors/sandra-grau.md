@@ -64,7 +64,7 @@ país petit, l'equip nacional és, literalment, unes quantes cases.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Vicky Grau](./vicky-grau.md) — la germana.

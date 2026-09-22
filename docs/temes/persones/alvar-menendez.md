@@ -71,5 +71,5 @@ segons
 
 - [FHASA](../economia/energia-i-serveis/fhasa.md)
 - [Els anys daurats](../historia/historia-recent/els-anys-daurats.md)
-- [Esquí](../esports/esqui/README.md)
-- [Persones](./README.md)
+- [Esquí](../esports/esqui/esqui-index-de-fitxes.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

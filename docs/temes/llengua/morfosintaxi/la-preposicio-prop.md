@@ -63,7 +63,7 @@ Un ús documentat al BOPA i a la parla que el diccionari normatiu no registra.
 ## Per què importa
 
 És **registre institucional andorrà**, i el corpus té una branca sencera per a
-això ([parla institucional](../../../parla/institucional/README.md)). Un model
+això ([parla institucional](../../../parla/institucional/parla-institucional-d-andorra.md)). Un model
 que hagi de generar text administratiu andorrà creïble ha de saber que aquí es
 diu **prop del Comú**.
 

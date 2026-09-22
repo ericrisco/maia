@@ -61,6 +61,6 @@ i desenvolupament. **Buit registrat.**
 
 - [La Constitució de 1993](../constitucio-1993/constitucio-1993.md) — el pas final.
 - [Nova Reforma](../segle-xix/nova-reforma.md) — qui votava abans.
-- [Sistema electoral](../../politica/sistema-electoral/README.md) — el vaivé del sufragi, datat.
+- [Sistema electoral](../../politica/sistema-electoral/sistema-electoral-index-de-fitxes.md) — el vaivé del sufragi, datat.
 - [Per on van entrar les idees](./per-on-van-entrar-les-idees.md) — els canals: Barcelona, Besiers i dues capçaleres.
 - [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md)

@@ -14,7 +14,7 @@ tags: [parla, hostals, oficis, institucions, lexic-marcat, possiblement-llegida,
 # Es regulaven per una taba
 
 **Tanda 14 de parla.** Càpsula #13 d'Andorra Recerca + Innovació, **15 min 49 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-13/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-13/capsula-13-els-hostals-comunals-per-ludmilla-lacueva.md)).
 
 ## Avís doble
 

@@ -61,4 +61,4 @@ i dret.
 
 - [Les tres fases de la historiografia](../historia/historiografia/les-tres-fases.md)
 - [Olivier Codina](./olivier-codina.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -18,7 +18,7 @@ tags: [esports, hoquei, economia, territori]
 **El Palau de Gel d'Andorra és a la carretera general de Canillo.**
 
 **El corpus el tenia registrat com un buit**, amb una sola línia: *«on van a
-patinar els escolars»* ([esports](../README.md)). **Ara en sap tres coses més.**
+patinar els escolars»* ([esports](../esports-d-andorra-index-de-fitxes.md)). **Ara en sap tres coses més.**
 
 ## És la pista de la selecció nacional
 
@@ -54,7 +54,7 @@ casa dos serveis.**
 
 **El Nadal del 2011 els usuaris van pujar un 20% respecte de l'any anterior.**
 
-**Això connecta amb [els diners dels comuns](../../institucions/comuns-i-parroquies/README.md)**:
+**Això connecta amb [els diners dels comuns](../../institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md)**:
 **un comú d'una parròquia petita sostenint un equipament d'escala nacional.**
 
 ## El que falta
@@ -75,7 +75,7 @@ casa dos serveis.**
   **El corpus subratlla la forma de la decisió**: **un comú redueix un terç la
   despesa d'un equipament esportiu externalitzant-ne els serveis
   complementaris, i no l'activitat esportiva.** Vegeu
-  [els comuns](../../institucions/comuns-i-parroquies/README.md).
+  [els comuns](../../institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md).
 - ~~**Si el patinatge artístic andorrà** —[Melissandre Fuentes](./melissandre-fuentes.md),
   [Marc Casal](./marc-casal.md)— **s'hi entrena.**~~ — **`parcial`, i la resposta
   s'acosta molt sense tocar-la.** **Tots dos patinadors van néixer a Canillo**,
@@ -95,6 +95,6 @@ casa dos serveis.**
 
 ## Related
 
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
 - [L'hoquei gel](../seleccions/lhoquei-gel.md)
 - [Canillo](../../institucions/comuns-i-parroquies/les-set-parroquies.md)

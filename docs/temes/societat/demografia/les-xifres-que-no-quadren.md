@@ -115,7 +115,7 @@ passa a Andorra entre 1912 i 1920.
 
 Tarrene atribueix el cens del 1932 a **«Comarnous»**. El corpus té **«Gaston
 Combarnou»** a la llista dels forasters que van escriure sobre Andorra
-([persones](../../persones/README.md)) i li atribueix la sèrie del segle XIX.
+([persones](../../persones/persones-d-andorra-index-de-fitxes.md)) i li atribueix la sèrie del segle XIX.
 
 **Probablement són la mateixa persona amb el cognom mal transcrit**, però **el
 corpus no ho dona per fet**: ho deixa com a **identificació versemblant i no

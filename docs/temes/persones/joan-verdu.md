@@ -127,7 +127,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    **`resolt` el 18-09-2026**: **[Mireia Gutiérrez](../esports/esqui/esquiadors/mireia-gutierrez.md)
    va ser 20a a la Copa del Món de Zagreb** (2010-18), **el millor resultat
    andorrà a la Copa del Món abans de Verdú**
-   ([font](../esports/esqui/esquiadors/README.md)). **Roger Vidosa té deu
+   ([font](../esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md)). **Roger Vidosa té deu
    victòries al circuit FIS**, però l'article no precisa si en Copa del Món
    pròpiament.
 3. ~~**D'on ve el malnom «La Mamba».**~~ — **`parcial` el 18-09-2026**: **no
@@ -149,7 +149,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
    i Estatuts publicats**, però **ni ella mateixa ni el COA donen any de
    fundació ni nom del president**
    ([font](../../fonts/fae-ad-i-coa-federacio-esqui.md)). **El buit que ja
-   assenyalava [la subbranca d'esquiadors](../esports/esqui/esquiadors/README.md)
+   assenyalava [la subbranca d'esquiadors](../esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md)
    es confirma també a la font primària.**
 6. ~~**Per què el contrast entre Copa del Món i Mundials.**~~ —
    **`font_externa` el 2026-09-22**: cal comparar els resultats complets i el
@@ -168,4 +168,4 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md)
 - [L'Efpem](../esports/formacio-esportiva/lefpem.md)
 - [Turisme i neu](../../temes/economia/turisme-i-neu/turisme-i-neu.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

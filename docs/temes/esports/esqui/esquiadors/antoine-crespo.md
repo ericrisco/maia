@@ -29,7 +29,7 @@ tags: [esports, esqui, jocs-olimpics, pioners]
 la seva primera delegació olímpica ho ensenyen**: al mateix equip hi ha un
 *Antoine Crespo Travesset* i un *Antoni Naudi Casal*. **El corpus ho registra
 com a dada d'onomàstica**, no d'esport. Vegeu
-[llengua](../../../llengua/README.md).
+[llengua](../../../llengua/llengua-d-andorra-index-de-fitxes.md).
 
 ## Què hi va fer
 
@@ -64,6 +64,6 @@ tres de Font —38è, 48è i 62è— i aquest 54è.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)

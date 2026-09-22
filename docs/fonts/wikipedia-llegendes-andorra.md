@@ -64,7 +64,7 @@ d'estripagecs al parc natural de la vall de Sorteny i als cims de la parròquia*
 
 **Aquest buit ja no és obert**: [els estripagecs](../temes/cultura/arquitectura/els-estripagecs.md)
  documenten l'element constructiu de defensa domèstica. El que continua obert a
-[l'arquitectura](../temes/cultura/arquitectura/README.md) és la casa pairal, la
+[l'arquitectura](../temes/cultura/arquitectura/arquitectura-index-de-fitxes.md) és la casa pairal, la
 borda i els materials constructius, que són preguntes més àmplies.
 
 ## La bibliografia que el corpus no té

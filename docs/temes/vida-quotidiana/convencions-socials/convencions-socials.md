@@ -76,8 +76,8 @@ Les convencions socials **no tenen font escrita**. No hi ha arxiu, ni article de
 l'IEC, ni portal institucional que digui com se saluda la gent.
 
 **S'omple observant i escoltant**, i per tant depèn de la
-[fase 3](../../../parla/README.md). Concretament de
-[parla espontània](../../../parla/espontani/README.md), que és la branca més
+[fase 3](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md). Concretament de
+[parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md), que és la branca més
 difícil de totes i la que més val.
 
 Deixar aquesta branca marcada com a buida és, ara mateix, **més útil que

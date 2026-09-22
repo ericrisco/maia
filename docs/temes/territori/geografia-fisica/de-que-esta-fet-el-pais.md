@@ -108,7 +108,7 @@ la densitat —166 hab/km²— i la del 2024 ja no la porta.**
 | **Total** | **120,3 km** |
 
 **La frontera espanyola és un 12,5% més llarga que la francesa**, i **per ella
-entren tres de cada quatre vehicles** ([el transport](../../economia/transport/README.md)).
+entren tres de cada quatre vehicles** ([el transport](../../economia/transport/transport-index-de-fitxes.md)).
 **Per cada quilòmetre de frontera hi ha 3,9 km² de país.**
 
 ## El que falta

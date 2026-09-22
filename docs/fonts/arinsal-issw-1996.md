@@ -23,7 +23,7 @@ notes: >
 La fitxa confirma any, actes, autors i pàgines.
 
 Lectura: [Què es va mesurar a l'allau d'Arinsal](../temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal.md).
-[Detall i límits](../raw/allaus/README.md).
+[Detall i límits](../raw/allaus/allaus-fora-del-corpus.md).
 
 ## Buits registrats
 

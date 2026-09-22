@@ -221,7 +221,7 @@ antigament». **No s'arbitra** que siguin la mateixa marca.
 **Cap dels 23 mots no està comprovat com a viu.** Que un mot sigui al diccionari
 normatiu **no vol dir que ningú el digui**. *Padral*, *cot*, *arrest* en sentit
 andorrà o *tabac espalillat* poden ser lletra morta, i aquesta fitxa **no en sap
-res**. Això no es tanca amb documents: es tanca amb [parla](../../../parla/README.md).
+res**. Això no es tanca amb documents: es tanca amb [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).
 
 **La secció 1.2 de la llista —els 12 mots «no exclusius d'Andorra»— s'ha
 comprovat però no destil·lat.** Tots 12 són al diccionari, i **cap dels dotze no duu `[AD]`**. El que queda obert és **de qui són**: la llista diu que no són

@@ -189,7 +189,7 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
 
 ## Related
 
-- [Sistema electoral](./README.md)
+- [Sistema electoral](sistema-electoral-index-de-fitxes.md)
 - [La desigualtat del vot](./la-desigualtat-del-vot.md)
 - [La Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)

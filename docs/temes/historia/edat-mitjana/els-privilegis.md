@@ -340,7 +340,7 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
    forma de cobrament.
 6. ~~**La pega** — el delme del 860 la grava, i el corpus no sap què era ni qui la
    feia.~~ — **`parcial` el 21-09-2026**: la [memòria arqueològica del Madriu
-   (2008)](../../../raw/web/historia/pega-andorra/README.md) identifica la pega
+   (2008)](../../../raw/web/historia/pega-andorra/pega-i-delme-del-ferro-a-andorra-memoria-arqueologica-del-madriu-2008.md) identifica la pega
    com a resina explotada des del segle IX i relaciona l'**ACU pergamí 10** amb
    el dret del bisbe Guisad al delme del ferro i de la pega d'Andorra; no
    identifica encara els productors ni el procés local complet.

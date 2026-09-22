@@ -35,7 +35,7 @@ banquers**.
 ## El buit que això tanca
 
 El corpus el tenia registrat com a **«buit prioritari»** a
-[la portada de persones](./README.md), amb dos fets solts: primer cap de
+[la portada de persones](persones-d-andorra-index-de-fitxes.md), amb dos fets solts: primer cap de
 Govern, i signant de la moció del 1973. **Ara en té la trajectòria.**
 
 ## La carrera, en ordre
@@ -120,7 +120,7 @@ Nacional, i un dels **Premis 31 de Desembre** de l'Obra Cultural Balear.
 
 **El cap de Govern que fa la Constitució rep, el mateix any que dimiteix, dos
 premis de catalanitat lingüística.** El corpus ho apunta per a
-[la branca de llengua](../llengua/README.md): **Andorra és l'únic estat que té
+[la branca de llengua](../llengua/llengua-d-andorra-index-de-fitxes.md): **Andorra és l'únic estat que té
 el català com a única llengua oficial**, i el 1994 això es premiava des de fora.
 
 ## El parentiu que tanca un altre buit
@@ -128,7 +128,7 @@ el català com a única llengua oficial**, i el 1994 això es premiava des de fo
 La font consigna un parent: **Maria Reig i Moles, cosina**.
 
 **Maria Reig és, al corpus, un buit registrat**: «**Única consellera de tot el
-període constituent**» ([persones](./README.md)). **Ara se'n sap una cosa: és
+període constituent**» ([persones](persones-d-andorra-index-de-fitxes.md)). **Ara se'n sap una cosa: és
 cosina del primer cap de Govern.**
 
 El corpus ho marca com el que és —**un parentiu, no una explicació**— però ho
@@ -178,7 +178,7 @@ apunten, cap amb la precisió d'un arbre explícit.**
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Els caps de Govern](./els-caps-de-govern.md)
 - [El sufragi femení](../societat/dones/el-sufragi-femeni.md) — la moció del 1973.
 - [La Constitució de 1993](../historia/constitucio-1993/constitucio-1993.md)

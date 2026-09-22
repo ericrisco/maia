@@ -103,10 +103,10 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

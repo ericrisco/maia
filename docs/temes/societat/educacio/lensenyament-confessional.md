@@ -43,7 +43,7 @@ d'abans de les carreteres**. Vegeu
 
 **I la finalitat declarada era formar les nenes.** L'escola arriba a Andorra
 **primer per a les noies**, no per als nois — cosa que caldrà creuar amb
-[dones](../dones/README.md), on el corpus ja té
+[dones](../dones/dones-index-de-fitxes.md), on el corpus ja té
 [les primeres becàries](../dones/les-primeres-becaries.md) i
 [el sufragi femení](../dones/el-sufragi-femeni.md).
 

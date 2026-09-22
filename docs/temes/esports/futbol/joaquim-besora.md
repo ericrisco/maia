@@ -57,12 +57,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Si va jugar a futbol sala amb Andorra**, i contra qui va ser el seu partit.~~ — **`parcial`**: el [wikitext de la fitxa](../../../raw/web/esport/atletes/Joaquim_Besora.wiki) el descriu com a **exjugador de futbol sala** i hi conserva una referència a la LNFS; el corpus no hi troba cap partit internacional de futbol sala amb Andorra ni el rival.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

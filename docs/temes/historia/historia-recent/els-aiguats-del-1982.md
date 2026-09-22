@@ -165,7 +165,7 @@ diluvi d'aigua...»*.**
 
 ## Related
 
-- [Història recent](./README.md)
+- [Història recent](historia-recent-index-de-fitxes.md)
 - [Els anys daurats](./els-anys-daurats.md) — la manca de planificació que els va agreujar
 - [Òscar Ribas Reig](../../persones/oscar-ribas-reig.md)
 - [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md)

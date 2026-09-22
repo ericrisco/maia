@@ -188,7 +188,7 @@ Nacional) i **Massa** (M, exsecretari del Copríncep Episcopal) per al 1419, i
 ## Related
 
 - [Els vuit centenaris](./els-vuit-centenaris.md)
-- [Moments històrics](./README.md)
+- [Moments històrics](moments-historics-index-de-fitxes.md)
 - [El parlamentarisme andorrà](../../politica/parlamentarisme/el-parlamentarisme-andorra.md)
 - [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md)

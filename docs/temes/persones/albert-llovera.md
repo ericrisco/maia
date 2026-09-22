@@ -142,8 +142,8 @@ Martí**.
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md) — Sarajevo 1984.
 - [Els altres Jocs](../esports/competicio/els-altres-jocs.md) — el paralimpisme andorrà.
 - [Cinquanta anys d'esquí olímpic](../esports/esqui/cinquanta-anys-desqui-olimpic.md)
-- [Esports](../esports/README.md)
+- [Esports](../esports/esports-d-andorra-index-de-fitxes.md)

@@ -201,7 +201,7 @@ de 1928-1930 a la branca bancària.
 
 ## Related
 
-- [Danses](./README.md)
+- [Danses](danses-index-de-fitxes.md)
 - [Els catorze balls](./els-catorze-balls.md)
 - [El calendari festiu](../calendari-festiu/calendari-festiu.md)
 - [Guillem d'Areny-Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md)

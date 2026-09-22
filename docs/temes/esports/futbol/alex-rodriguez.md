@@ -28,7 +28,7 @@ tags: [esports, futbol, seleccio]
 
 ## El que en destaca
 
-**Un sol partit internacional.** El corpus li fa fitxa igualment: **la participació documentada és el criteri** ([el criteri](../estiu/README.md)). **La font és una frase de dues línies.**
+**Un sol partit internacional.** El corpus li fa fitxa igualment: **la participació documentada és el criteri** ([el criteri](../estiu/els-olimpics-d-estiu-index-de-fitxes.md)). **La font és una frase de dues línies.**
 
 ## El que falta
 
@@ -37,5 +37,5 @@ tags: [esports, futbol, seleccio]
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

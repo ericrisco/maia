@@ -14,7 +14,7 @@ tags: [parla, danses, contrapas, vestit-tradicional, lexic-marcat, transcripcio-
 # El contrapàs
 
 **Tanda 12 de parla.** Càpsula #66 d'Andorra Recerca + Innovació, **16 min 45 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-66/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-66/capsula-66-la-dansa-tradicional-d-andorra-el-contrapas-per-teo-armengol.md)).
 
 ## Cribratge i avís
 

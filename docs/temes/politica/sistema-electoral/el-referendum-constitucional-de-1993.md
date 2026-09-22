@@ -239,7 +239,7 @@ i [la democratització](../../historia/democratitzacio/democratitzacio.md).
 - **Equiparava Andorra a la resta de països europeus.**
 - **Consagrava el català com a única llengua oficial del país.**
 
-Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md).
+Vegeu [la política lingüística](../../llengua/politica-linguistica/politica-linguistica-index-de-fitxes.md).
 
 ## El que falta
 
@@ -268,5 +268,5 @@ Vegeu [la política lingüística](../../llengua/politica-linguistica/README.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [Els primers referèndums](./els-primers-referendums.md) — 1977, 1978, 1982.
 - [Un elector per casa](./un-elector-per-casa.md) — el conflicte que s'hi veu.
-- [El sistema electoral](./README.md)
+- [El sistema electoral](sistema-electoral-index-de-fitxes.md)
 - [La Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)

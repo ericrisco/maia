@@ -81,4 +81,4 @@ concretes a la formació continuada ([la fitxa de la reacreditació](./la-reacre
 - [De les iguales a l'hospital](./de-les-iguales-a-lhospital.md)
 - [Donar i ser atès](./donar-i-ser-ates.md)
 - [El SAAS](./el-saas.md)
-- [Sanitat](./README.md)
+- [Sanitat](sanitat-index-de-fitxes.md)

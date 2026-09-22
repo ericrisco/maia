@@ -45,7 +45,7 @@ notes: >
 # Diario de las Sesiones de Cortes, 1895
 
 **El parlament espanyol discutint Andorra**, tres sessions de juny de **1895** i
-els seus apèndixs, a [`docs/raw/hemeroteca/`](../raw/README.md).
+els seus apèndixs, a [`docs/raw/hemeroteca/`](../raw/index-del-material-de-partida-del-corpus-docs-raw.md).
 
 ## Per què val tant
 

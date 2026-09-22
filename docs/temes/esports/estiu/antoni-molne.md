@@ -78,5 +78,5 @@ el 2004, escrius que el 2004 és el començament.
   font**: **el bolcat són cinc línies i no en diu res més.**
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)

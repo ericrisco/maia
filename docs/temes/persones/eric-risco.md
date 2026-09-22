@@ -146,4 +146,4 @@ Andorra**. **Buit registrat: sota quina federació ha competit, i quan.**
 - [Els Jocs dels Petits Estats](../esports/competicio/els-jocs-dels-petits-estats.md) — el criteri de selecció d'un país petit.
 - [Mònica Dòria](./monica-doria.md) · [Joan Verdú](./joan-verdu.md) · [Nahuel Carabaña](./nahuel-carabana.md)
 - [La piràmide de prestigi](../societat/immigracio/la-piramide-de-prestigi.md) — l'altre lloc on l'esport diu alguna cosa del país.
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

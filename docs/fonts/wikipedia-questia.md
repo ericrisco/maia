@@ -45,5 +45,5 @@ tribut el 1806, ni què és un sou melgorès en valor real.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)

@@ -42,7 +42,7 @@ local**.
 
 Lliga amb el document del **903** —una donació de vinya— que ja apareix a
 [el nom d'Andorra](../../historia/origens/el-nom-dandorra.md), i amb la
-[branca de begudes](../../gastronomia/begudes/README.md), que registrava com a
+[branca de begudes](../../gastronomia/begudes/begudes-index-de-fitxes.md), que registrava com a
 buit si hi havia hagut vinya. **Sí que n'hi havia, i molta més enrere del que
 sembla.**
 
@@ -162,7 +162,7 @@ abandonades i vi importat— **i registra la de Tor al costat.**
    de Lòria**, a la zona d'**Andorra la Vella** i a **Escaldes-Engordany**, i
    assenyala que **podria haver arribat fins a Canillo**; també documenta una
    vinya d'Andorra la Vella encara el **1710**. L'article no ofereix el nombre
-   de feixes ni un inventari parcel·lari ([font web](../../../raw/web/economia/vinya/README.md)).
+   de feixes ni un inventari parcel·lari ([font web](../../../raw/web/economia/vinya/fonts-web-sobre-la-vinya-i-l-agricultura-historica-d-andorra.md)).
 3. ~~**Què deia el Consell** del tabac il·legal mentre ho era.~~ — **`resolt` el
    17-09-2026**: **ho deia cinc vegades en dos anys, i cada vegada perquè la
    vegada anterior no s'havia obeït.** **El Llibre III d'actes** dona la sèrie
@@ -191,6 +191,6 @@ abandonades i vi importat— **i registra la de Tor al costat.**
 - [El tabac](../tabac/tabac.md) — on va anar a parar tot.
 - [El contraban](../../historia/contraban/contraban.md) — per què el tabac valia.
 - [L'agricultura de subsistència](./lagricultura-de-subsistencia.md) — el que hi havia abans.
-- [Begudes](../../gastronomia/begudes/README.md) — la branca que registrava el buit.
+- [Begudes](../../gastronomia/begudes/begudes-index-de-fitxes.md) — la branca que registrava el buit.
 - [El vi d'Andorra](../../gastronomia/begudes/el-vi-dandorra.md) — la vinya que hi torna a haver.
 - [El canvi climàtic](../../territori/clima-i-muntanya/el-canvi-climatic.md) — per què la vinya torna.

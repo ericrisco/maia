@@ -95,5 +95,5 @@ institucional; qualsevol relació causal queda oberta.
 
 - [Els deu primers campions del 1998](../esports/seleccions/els-deu-primers-campions-del-1998.md)
 - [El bàsquet](../esports/seleccions/el-basquet.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [L'arbre dels partits](../politica/partits/larbre-dels-partits.md)

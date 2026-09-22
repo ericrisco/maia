@@ -37,7 +37,7 @@ Barcelona el 1983**.
 
 **El corpus subratlla aquest detall:** la primera dona que presideix el Consell
 General **és filòloga del català**, en l'únic estat del món que té
-[el català com a única llengua oficial](../llengua/README.md). Cap font hi fa
+[el català com a única llengua oficial](../llengua/llengua-d-andorra-index-de-fitxes.md). Cap font hi fa
 cap relació; el corpus registra la coincidència i prou.
 
 ## La carrera, en ordre
@@ -113,8 +113,8 @@ escrita. Vegeu [els síndics generals](./els-sindics-generals.md).
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Els síndics generals](./els-sindics-generals.md)
 - [El sufragi femení](../societat/dones/el-sufragi-femeni.md) — la sèrie de les primeres.
-- [Dones](../societat/dones/README.md)
+- [Dones](../societat/dones/dones-index-de-fitxes.md)
 - [Els partits d'avui](../politica/partits/els-partits-davui.md)

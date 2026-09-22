@@ -111,7 +111,7 @@ llegit.
 
 Si es conserva material sonor de Ràdio Andorra, és **de les veus andorranes més
 antigues que poden existir gravades**. Això toca directament la
-[fase 3](../../../parla/README.md) i el camp `epoca`: una veu de 1939 és
+[fase 3](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md) i el camp `epoca`: una veu de 1939 és
 **andorrà del segle XX**, no contemporani, i el corpus l'ha de poder distingir.
 
 **Buit registrat, prioritari:** on són els fons sonors de Ràdio Andorra, en quin
@@ -146,7 +146,7 @@ estat, i qui en té els drets.
 
   **Del transmissor del Pic Blanc, en canvi, el corpus només en té la
   constatació que li falta** — i **la té dues vegades**:
-  [energia i serveis](../../economia/energia-i-serveis/README.md) el declara
+  [energia i serveis](../../economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md) el declara
   **«no documentat»** pel seu compte, raonant que **una emissió comercial des
   del 1939 implica infraestructura de transmissió pròpia.** **Dos articles, el
   mateix buit.** `Requereix font externa.`

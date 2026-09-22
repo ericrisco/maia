@@ -15,7 +15,7 @@ tags: [mitjans, premsa, censura, dret, segle-xx, coprincipat, migracions]
 
 ## El que el corpus no tenia
 
-La branca de [mitjans](./README.md) tenia **Ràdio Andorra** i **RTVA**: el segle
+La branca de [mitjans](mitjans-index-de-fitxes.md) tenia **Ràdio Andorra** i **RTVA**: el segle
 XX audiovisual. **No tenia premsa, no tenia impremta i no tenia censura.**
 
 I tenia una línia solta que ara s'explica: entre els quatre poders que
@@ -53,7 +53,7 @@ Dues conseqüències que ho fan tangible:
 
 **La manca de premsa no ve de l'aïllament.** Ve d'altra banda. Vegeu
 [la por de fondre's](../../cultura/andorra-vista-de-fora/la-por-de-fondres.md) i
-[Andorra vista de fora](../../cultura/andorra-vista-de-fora/README.md), on el
+[Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora-index-de-fitxes.md), on el
 corpus recull el tòpic contrari.
 
 ## El veguer que va escriure que el dret no existia
@@ -273,7 +273,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
 ## Related
 
 - [Les capçaleres](./les-capcaleres.md) — la llista sencera, del 1933 al 1994.
-- [Mitjans](./README.md) — la branca.
+- [Mitjans](mitjans-index-de-fitxes.md) — la branca.
 - [RTVA](./rtva.md) — l'audiovisual públic, seixanta anys després.
 - [Ràdio Andorra](./radio-andorra.md) — l'altra ràdio, privada i forana.
 - [Per on van entrar les idees](../../historia/democratitzacio/per-on-van-entrar-les-idees.md) — la premsa emigrada.

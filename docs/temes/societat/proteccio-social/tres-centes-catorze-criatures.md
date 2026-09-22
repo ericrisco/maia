@@ -198,7 +198,7 @@ amb aquell nom.
   20-09-2026**: la fitxa de l'API confirma que les set divisions només tenen
   dades de **2016-2023 i 2025**; el 2024 no és una dada que falti de la lectura,
   sinó de la publicació
-  ([fitxa de protecció a la infància](../../../raw/estadistica-api/infancia/README.md)).
+  ([fitxa de protecció a la infància](../../../raw/estadistica-api/infancia/proteccio-a-la-infancia-per-l-api-d-estadistica.md)).
 - ~~**La taula de «nous casos» (divisió 1538) està trencada**: dona **44 famílies
   i 63 menors quatre anys seguits** i **zero del 2021 ençà**. **El corpus no la
   cita.**~~ — **`no-es-buit` el 20-09-2026**: el README de la font registra la

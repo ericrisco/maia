@@ -79,7 +79,7 @@ acordar.
 **El 7 de novembre de 2009 es va esfondrar el viaducte en construcció de la
 boca oest del túnel.** **Van morir cinc obrers portuguesos i sis més van quedar
 ferits**, segons la notícia de RTVA; el Govern en conserva el desè aniversari i
-la data del sinistre ([fonts web](../../../raw/web/societat/immigracio/dos-valires/README.md)). **El corpus no tenia aquest fet per cap altra via**.
+la data del sinistre ([fonts web](../../../raw/web/societat/immigracio/dos-valires/accident-laboral-de-les-dos-valires-fonts-web.md)). **El corpus no tenia aquest fet per cap altra via**.
 
 L'autor l'explica per la resposta que hi va haver: el Grup **«va voler agrair la
 implicació del Principat davant la catàstrofe»** i va portar les **Janeiras a la
@@ -131,7 +131,7 @@ portuguesos cap a França als anys 60 i 70, i quin paper hi va tenir Andorra.*
 
 **El corpus citava aquesta ponència de segona mà i ara la té sencera.** El volum
 de la 20a Diada era **il·legible** —PDF escanejat sense capa de text— i se n'ha
-recuperat el text per OCR ([raw/README](../../../raw/README.md)).
+recuperat el text per OCR ([raw/README](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md)).
 
 L'estudi es diu **«A que sabe um sumol a 2.000 metros de altitude? Identidade,
 integração e redes sociais dos portugueses emigrados em Andorra»** i el va

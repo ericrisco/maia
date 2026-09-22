@@ -71,10 +71,10 @@ la fitxa ([font específica](../../fonts/sac-rosa-ferrer-1990.md)).
    Consell en aquest càrrec. Les fonts consultades permeten situar el mandat i
    les àrees, però varien en la denominació (**Salut/Benestar** i
    **Sanitat/Afers Socials**) i no n'han reconstruït totes les actuacions ni la
-   data formal de sortida ([fonts locals](../../raw/web/persones/rosa-ferrer/README.md)).
+   data formal de sortida ([fonts locals](../../raw/web/persones/rosa-ferrer/fonts-web-sobre-rosa-ferrer-i-obiols.md)).
 
 ## Related
 
 - [El sufragi femení](../societat/dones/el-sufragi-femeni.md)
 - [Els andorrans de primera generació](../institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

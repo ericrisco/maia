@@ -26,7 +26,7 @@ citant la Viquipèdia per a aquesta frase:**
 > *«el paper de les grans famílies andorranes (…) és encara una ombra a la
 > historiografia d'Andorra.»*
 
-**I hi va obrir una branca sencera**, [les grans famílies](../temes/economia/les-grans-families/README.md).
+**I hi va obrir una branca sencera**, [les grans famílies](../temes/economia/les-grans-families/les-grans-families-index-de-fitxes.md).
 
 **Hores després, llegint l'article de la Viquipèdia sobre les guerres carlines,
 el corpus va veure que aquella frase no és de la Viquipèdia: és una citació
@@ -66,6 +66,6 @@ judicis, i el corpus les marca com a tals.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [Esteves sobre l'exili i les evasions](./esteves-exili-i-evasions.md) — l'altre estat de la qüestió, d'un sol tema.
 - [La Societat Andorrana de Ciències](./societat-andorrana-ciencies.md)

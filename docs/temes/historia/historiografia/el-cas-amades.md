@@ -26,8 +26,8 @@ andorrà**.
 I perquè **algú ja ho havia advertit el 1994**, amb exemples comprovats.
 
 Aquest corpus ha deixat
-[artesania](../../cultura/artesania/README.md) i
-[begudes](../../gastronomia/begudes/README.md) **buides a propòsit** per aquesta
+[artesania](../../cultura/artesania/artesania-index-de-fitxes.md) i
+[begudes](../../gastronomia/begudes/begudes-index-de-fitxes.md) **buides a propòsit** per aquesta
 mateixa raó, abans de conèixer aquesta ponència. **Canturri li dona nom i
 bibliografia.**
 
@@ -100,7 +100,7 @@ il·lustracions**.
 
 > **Buit registrat, i és nou:** el corpus **no té cap fitxa de jocs
 > tradicionals**, i aquí n'hi ha sis amb nom i amb il·lustració a una font
-> localitzable. La branca de [costums](../../costums/README.md) no té aquesta
+> localitzable. La branca de [costums](../../costums/costums-d-andorra-index-de-fitxes.md) no té aquesta
 > porta oberta.
 
 **Creences** que Amades recull: **l'argolla que es converteix en or i on Noè va
@@ -344,7 +344,7 @@ Tres conseqüències pràctiques:
   peça el situa com **«mestre de ca l'Orelleta»**, responsable d'ensenyar la
   sardana; encara no hi ha biografia ni una identificació més completa.
 - ~~**El Sr. Pantebre**: qui era.~~ — **`parcial` el 18-09-2026, bessó amb**
-  [escacs](../../esports/escacs/README.md#el-que-falta): **hi ha un Benet
+  [escacs](../../esports/escacs/escacs-index-de-fitxes.md#el-que-falta): **hi ha un Benet
   Pantebre Martínez identificat** (escacs, cònsol d'Andorra la Vella, 1929),
   **però la seva biografia no esmenta música ni sardanes**, i **el corpus no
   arbitra si és el mateix «Sr. Pantebre» de l'Agrupació sardanista.**
@@ -357,7 +357,7 @@ Tres conseqüències pràctiques:
 ## Related
 
 - [La historiografia andorrana](./historiografia.md)
-- [Artesania](../../cultura/artesania/README.md) i [begudes](../../gastronomia/begudes/README.md) — les branques buidades pel mateix criteri.
+- [Artesania](../../cultura/artesania/artesania-index-de-fitxes.md) i [begudes](../../gastronomia/begudes/begudes-index-de-fitxes.md) — les branques buidades pel mateix criteri.
 - [Els catorze balls](../../costums/danses/els-catorze-balls.md) — l'inventari, amb el criteri de fiabilitat cas per cas.
 - [Les bruixes d'Engolasters](../../cultura/llegendes/les-bruixes-dengolasters.md) — i per què el tamarro no té fitxa.
 - [Danses](../../costums/danses/danses.md)

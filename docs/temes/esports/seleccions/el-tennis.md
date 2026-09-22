@@ -104,10 +104,10 @@ que el corpus ha trobat mai.**
   Princiesport, Club Tennis i Padel la Massana** i **Independent**, i registra
   la federació amb el número **054-20/2002** (inscripció comunal el 2012).
   **L'any de fundació encara no queda provat.**
-- ~~**L'Open ATP d'Andorra**.~~ — **`resolt` el 19-09-2026, com a duplicat d'índex**: el buit canònic és aquest mateix article i ja queda registrat a [l'índex d'esports](../README.md#el-que-hi-falta).
+- ~~**L'Open ATP d'Andorra**.~~ — **`resolt` el 19-09-2026, com a duplicat d'índex**: el buit canònic és aquest mateix article i ja queda registrat a [l'índex d'esports](../esports-d-andorra-index-de-fitxes.md#el-que-hi-falta).
 
 ## Related
 
-- [Les seleccions](./README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
 - [Èric Cervós](../altres-esports/eric-cervos.md)
 - [Victoria Jiménez Kasintseva](../altres-esports/victoria-jimenez-kasintseva.md)

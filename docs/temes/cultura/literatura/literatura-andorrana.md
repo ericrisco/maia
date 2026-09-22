@@ -184,7 +184,7 @@ Fundació Julià Reig.**
   quin volum.
 - ~~**El més valuós per a maia**: quins d'aquests textos són **prosa literària en
   català d'Andorra escrita per andorrans**. Això no és *veu compilada*: seria
-  material per a [parla](../../../parla/README.md). Cal mirar-ho un per un i
+  material per a [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md). Cal mirar-ho un per un i
   resoldre els drets, que en literatura viva no són els de la documentació
   institucional. — **`obert`, i ara amb una llista de partida.** **El corpus té
   els vint-i-quatre noms amb any de naixement** a

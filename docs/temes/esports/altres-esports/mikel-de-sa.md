@@ -67,5 +67,5 @@ patró documentat.**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

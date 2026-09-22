@@ -56,7 +56,7 @@ n'ha escrit un llibre i de l'altre no se'n sap ni l'ofici.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Albert Llovera](../../../persones/albert-llovera.md) — l'altre.

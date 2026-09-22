@@ -183,7 +183,7 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
   ([`Pena_de_mort_a_Andorra-ca.wiki`](../../../raw/web/referendums/Pena_de_mort_a_Andorra-ca.wiki)),
   que diu que **«es conduí el reu fins a la Roureda de Moles, on va ser afusellat
   per un escamot»** — **però no en diu la situació**, i **no surt enlloc més del
-  corpus**, ni a [toponímia](../../territori/toponimia/README.md).
+  corpus**, ni a [toponímia](../../territori/toponimia/toponimia-index-de-fitxes.md).
   `Requereix font externa: el nomenclàtor toponímic d'Andorra.` **Bessó**: [el
   buit del dret de gràcia](./el-van-demanar-per-estalviar-no-per-pietat.md#el-que-falta)
   el declarava amb el mateix bullet, ara corregit.
@@ -235,7 +235,7 @@ diu que se seguien «els costums del Manual Digest» i no els detalla.`
 
 ## Related
 
-- [Justícia](./README.md)
+- [Justícia](justicia-index-de-fitxes.md)
 - [La Casa de la Vall](../patrimoni-institucional/casa-de-la-vall.md)
 - [El Manual Digest](../../historia/manual-digest/manual-digest.md)
 - [La Transició Nacional](../../historia/historia-recent/la-transicio-nacional.md)

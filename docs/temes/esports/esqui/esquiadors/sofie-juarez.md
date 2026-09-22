@@ -30,7 +30,7 @@ a la parròquia de Canillo.**
 lloc de naixement més petit que apareix** —els altres diuen Andorra la Vella,
 Escaldes, Sant Julià, Ordino, la Massana, o directament «Andorra».
 
-**El corpus ho reté per a [territori](../../../territori/README.md)**: la vall
+**El corpus ho reté per a [territori](../../../territori/territori-d-andorra-index-de-fitxes.md)**: la vall
 d'Incles és **una de les valls glacials del país** i **el nom surt aquí per
 primera vegada al corpus com a lloc on viu gent**.
 
@@ -57,10 +57,10 @@ primera vegada al corpus com a lloc on viu gent**.
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)

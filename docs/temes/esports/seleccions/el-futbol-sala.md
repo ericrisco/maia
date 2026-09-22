@@ -181,5 +181,5 @@ el bolcat no diu és si hi ha competició andorrana pròpia.**
 
 ## Related
 
-- [Les seleccions](./README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
 - [La federació](../futbol/clubs-i-competicions/la-federacio.md)

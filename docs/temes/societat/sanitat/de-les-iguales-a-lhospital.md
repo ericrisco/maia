@@ -156,7 +156,7 @@ estadístic**, Andorra ocupa el lloc **28** en nivell de *responsiveness* i el
 lloc **39–42** en la distribució d'aquesta dimensió. A la **taula 10**, ocupa el
 lloc **4 de 191** en rendiment global del sistema sanitari, amb estimacions de
 1997. L'informe no té una categoria titulada «facilitat d'accés» que la situï
-tercera ([font web](../../../raw/web/societat/sanitat/oms-2000/README.md)).
+tercera ([font web](../../../raw/web/societat/sanitat/oms-2000/oms-2000-classificacio-del-sistema-sanitari-andorra.md)).
 
 **Regla general que se'n deriva:** les classificacions internacionals afavorables
 són **exactament el tipus d'afirmació que un país repeteix i que ningú no
@@ -169,10 +169,10 @@ comprova**. Aquest corpus les marca sempre.
    rendiment global**; el nivell de *responsiveness* és **28è** i la seva
    distribució **39è–42è**. La frase sobre la «tercera millor» per facilitat
    d'accés no correspon a cap d'aquestes files de la taula
-   ([font web](../../../raw/web/societat/sanitat/oms-2000/README.md)).
+   ([font web](../../../raw/web/societat/sanitat/oms-2000/oms-2000-classificacio-del-sistema-sanitari-andorra.md)).
 2. ~~**Dates** de la clínica Meritxell, del Centre de Santa Coloma i del tancament
    d'aquest.~~ — **`resolt` el 21-09-2026**: el recull històric oficial del
-   [SAAS](../../../raw/web/societat/sanitat/cronologia-hospitals/README.md) fixa
+   [SAAS](../../../raw/web/societat/sanitat/cronologia-hospitals/cronologia-oficial-de-les-cliniques-i-hospitals-d-andorra.md) fixa
    la Clínica Verge de Meritxell el **1971**, la Clínica Santa Coloma el **1977**
    i el tancament d'aquesta el **1994**, quan obre l'Hospital Nostra Senyora de
    Meritxell i assumeix els serveis de totes dues. El registre d'inauguracions
@@ -186,7 +186,7 @@ comprova**. Aquest corpus les marca sempre.
    21-09-2026**: la fitxa institucional del Govern sobre el primer balanç del
    servei estableix que **funciona des del setembre de 1994**, amb un model
    comparable als SAMU. El balanç cobreix setembre de 1994–agost de 1995
-   ([font web](../../../raw/web/societat/sanitat/sum-1994/README.md)).
+   ([font web](../../../raw/web/societat/sanitat/sum-1994/aide-medicale-urgente-en-andorre-primer-balanc-del-sum-1994-1995.md)).
 5. ~~**Quants metges** hi ha avui i amb quina distribució.~~ — **`parcial` el
    21-09-2026**: la fitxa del [Col·legi de Metges d’Andorra](./el-colegi-de-metges.md)
    documenta **410 metges col·legiats i 49 especialitats el 2026**. Un col·legiat

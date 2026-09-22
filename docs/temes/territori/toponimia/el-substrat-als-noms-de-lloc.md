@@ -287,4 +287,4 @@ freqüència':
 - [El substrat](../../llengua/dialectologia/el-substrat.md) — la llengua de sota.
 - [Les set parròquies](../../institucions/comuns-i-parroquies/les-set-parroquies.md) — els noms per explicar.
 - [Glossari de mots documentats](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — *barsa*, *baser*.
-- [Persones](../../persones/README.md) — Anglada i Baraut.
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md) — Anglada i Baraut.

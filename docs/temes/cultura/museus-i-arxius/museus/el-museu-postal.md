@@ -83,6 +83,6 @@ i **el museu és on s'explica.**
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [La Casa de la Vall](../../../institucions/patrimoni-institucional/casa-de-la-vall.md)
 - [La Constitució de 1993](../../../historia/constitucio-1993/constitucio-1993.md)

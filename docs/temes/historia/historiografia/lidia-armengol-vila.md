@@ -70,7 +70,7 @@ buides del corpus.
   per la llengua.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~El seu paper en la creació de l'**Escola Andorrana** (1982) i de les
   institucions culturals, si n'hi va tenir.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**Per què va morir tan jove.**~~ — **`parcial` el 21-09-2026**: el número 25 d’[Ex Libris del Govern](../../../raw/web/historia/historiografia/armengol/README.md) documenta que va viure i tractar-se durant **un any d’una malaltia digestiva**, que fou operada d’urgència a Barcelona el **13 d’agost de 1991** i que morí a la Clínica Verge de Meritxell el **26 de novembre de 1991**. La font no especifica el diagnòstic mèdic.
+- ~~**Per què va morir tan jove.**~~ — **`parcial` el 21-09-2026**: el número 25 d’[Ex Libris del Govern](../../../raw/web/historia/historiografia/armengol/lidia-armengol-ex-libris-25.md) documenta que va viure i tractar-se durant **un any d’una malaltia digestiva**, que fou operada d’urgència a Barcelona el **13 d’agost de 1991** i que morí a la Clínica Verge de Meritxell el **26 de novembre de 1991**. La font no especifica el diagnòstic mèdic.
 - ~~Si hi ha **fons personal** a l'Arxiu Nacional.~~ — **`parcial` el 21-09-2026**: la fitxa documenta la trajectòria pública de Lídia Armengol, però **no ha localitzat un inventari de fons personal a l'Arxiu Nacional**.
 - ~~El text complet de la semblança del Govern.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
@@ -121,4 +121,4 @@ la troba sempre citada i mai explicada.
 - [L'antic règim](../antic-regim/lantic-regim.md) — la feina d'inventari de la seva generació.
 - [El sufragi femení](../../societat/dones/el-sufragi-femeni.md) — l'altra lluita.
 - [Les tres taules](../../gastronomia/historia-alimentaria/les-tres-taules.md) — la seva descripció de la cuina antiga.
-- [Persones](../../persones/README.md) — qui més hi ha, i qui falta.
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md) — qui més hi ha, i qui falta.

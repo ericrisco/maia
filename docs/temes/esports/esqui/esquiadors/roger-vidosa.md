@@ -134,7 +134,7 @@ Tolosa— **i quedar-se dins l'esport, però no dins l'esquí ni dins Andorra**.
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Alex Antor](./alex-antor.md) — el seu company a Torí.

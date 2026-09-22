@@ -161,5 +161,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 - [Joan Verdú](./joan-verdu.md) — l'altre rècord.
 - [Nahuel Carabaña](./nahuel-carabana.md)
 - [Irineu Esteve Altimiras](./irineu-esteve-altimiras.md)
-- [Persones](./README.md)
-- [Esports](../esports/README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
+- [Esports](../esports/esports-d-andorra-index-de-fitxes.md)

@@ -57,7 +57,7 @@ afirmació de neutralitat, **hi troba ara una quarta lectura: també és un manu
 de control de fronteres**.
 
 I el **decret de Caixal de 1853** afegeix una peça a
-[el copríncep Josep Caixal](../../persones/README.md) i a
+[el copríncep Josep Caixal](../../persones/persones-d-andorra-index-de-fitxes.md) i a
 [la Nova Reforma](../../historia/segle-xix/nova-reforma.md).
 
 ### El segle XX, fins al 1975: policia

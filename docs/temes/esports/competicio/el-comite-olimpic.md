@@ -15,7 +15,7 @@ tags: [esports, institucions]
 
 ## El buit que això tanca
 
-**El corpus tenia registrat, a [esports](../README.md), que les federacions
+**El corpus tenia registrat, a [esports](../esports-d-andorra-index-de-fitxes.md), que les federacions
 esportives andorranes «apareixen esmentades com a col·laboradores de l'Escola
 Andorrana i mai descrites».**
 
@@ -30,12 +30,12 @@ divuit corresponen a disciplines olímpiques.**
 
 | Federació | El corpus què en té |
 | --- | --- |
-| **Atletisme** | [trenta-una fitxes d'olímpics d'estiu](../estiu/README.md), i [Antoni Bernadó](../estiu/antoni-bernado.md), rècord del món de maratons olímpiques acabades |
+| **Atletisme** | [trenta-una fitxes d'olímpics d'estiu](../estiu/els-olimpics-d-estiu-index-de-fitxes.md), i [Antoni Bernadó](../estiu/antoni-bernado.md), rècord del món de maratons olímpiques acabades |
 | **Basquetbol** | **[sis títols europeus](../seleccions/el-basquet.md)** i cap jugador |
 | **Canoa-caiac** | dues fitxes d'olímpics |
 | **Ciclisme** | [David Albós](../altres-esports/david-albos.md) i dos olímpics |
 | **Esports de gel** | **[la selecció d'hoquei gel](../seleccions/lhoquei-gel.md)** i [el Palau de Gel](../altres-esports/el-palau-de-gel.md) |
-| **Esquí** | **[trenta-una fitxes](../esqui/esquiadors/README.md)**, la subbranca més gran |
+| **Esquí** | **[trenta-una fitxes](../esqui/esquiadors/els-esquiadors-index-de-fitxes.md)**, la subbranca més gran |
 | **[Futbol](../futbol/clubs-i-competicions/la-federacio.md)** | **138 fitxes**, dues seleccions, la lliga i la copa |
 | **Gimnàstica** | [Berta Miquel](../altres-esports/berta-miquel.md) |
 | **Hípica** | **res** |
@@ -59,7 +59,7 @@ divuit corresponen a disciplines olímpiques.**
 | **Muntanyisme** | [Ludovic Albós](../altres-esports/ludovic-albos.md) i [Xavier Capdevila](../altres-esports/xavier-capdevila.md), esquí de muntanya |
 | **Patinatge** | **[dos campionats del món «B» d'hoquei patins](../seleccions/lhoquei-patins.md)**, i [Melissandre Fuentes](../altres-esports/melissandre-fuentes.md) |
 | **Petanca** | **res** |
-| **[Escacs](../escacs/README.md)** | **quatre Grans Mestres i dues medalles d'or d'Olimpíada** |
+| **[Escacs](../escacs/escacs-index-de-fitxes.md)** | **quatre Grans Mestres i dues medalles d'or d'Olimpíada** |
 | **Special Olympics** | **res** |
 
 **Andorra també forma part dels [Jocs del Mediterrani](./els-altres-jocs.md) i
@@ -213,7 +213,7 @@ Esports de 22.447.828,32 €.**
 
 ## Related
 
-- [La competició](./README.md)
-- [Esports](../README.md)
+- [La competició](competicio-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Els Jocs dels Petits Estats](./els-jocs-dels-petits-estats.md)
 - [Els altres Jocs](./els-altres-jocs.md)

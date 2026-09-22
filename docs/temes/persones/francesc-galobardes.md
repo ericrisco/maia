@@ -66,7 +66,7 @@ amb Carme Demiquels Guix des del 1957**, dos fills.
 
 ## Related
 
-- [Arts visuals](../cultura/arts-visuals/README.md)
+- [Arts visuals](../cultura/arts-visuals/arts-visuals-index-de-fitxes.md)
 - [Josep Viladomat](../cultura/arts-visuals/josep-viladomat.md)
 - [Sergi Mas](../cultura/arts-visuals/sergi-mas.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

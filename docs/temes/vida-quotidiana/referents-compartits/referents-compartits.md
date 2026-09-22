@@ -83,7 +83,7 @@ locals · les frases que circulen · els malnoms · els acudits interns · els
 llocs que són punt de trobada · els partits de futbol que es recorden.
 
 **Buit registrat**, i només es tanca amb
-[parla espontània](../../../parla/espontani/README.md) i gent.
+[parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md) i gent.
 
 ## Related
 

@@ -62,12 +62,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**On va néixer.**~~ — **`parcial` el 18-09-2026**: **Wikidata només dona el
   país (Andorra)**; **National Football Teams és l'única font que arrisca una
   parròquia, Andorra la Vella**, i **cap segona via independent ho
-  confirma.** Vegeu [l'avís sobre aquesta sèrie de buits](./README.md#els-altres-cinquanta-tres).
+  confirma.** Vegeu [l'avís sobre aquesta sèrie de buits](futbol-index-de-fitxes.md#els-altres-cinquanta-tres).
   `Requereix font externa: la fitxa de la FAF.`
 - ~~Els seus vint-i-un partits.~~ **[parcial · 2026-09-19]** La taula de
   seleccions confirma **21 partits amb Andorra i 0 gols**. Encara en falten els
@@ -76,5 +76,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

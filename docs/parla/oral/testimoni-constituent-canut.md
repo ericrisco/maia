@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, escaldes-engordany, tr
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Ramon Canut Bové**,
 conseller general de **Escaldes-Engordany** al Consell Constituent, **35 min 49 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-canut/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-canut/testimoni-del-consell-constituent-ramon-canut-bove.md)).
 
 ## Avís
 

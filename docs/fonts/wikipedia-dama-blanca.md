@@ -46,5 +46,5 @@ de la llegenda.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)

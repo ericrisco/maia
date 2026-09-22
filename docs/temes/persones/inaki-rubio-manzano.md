@@ -88,4 +88,4 @@ Festival (2018).
 - [La pena de mort](../institucions/justicia/la-pena-de-mort.md) — el cas Pere Areny.
 - [Mort qui t'ha mort](../institucions/justicia/mort-qui-tha-mort.md)
 - [La literatura andorrana](../cultura/literatura/literatura-andorrana.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

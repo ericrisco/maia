@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, andorra-la-vella, tran
 
 **Tanda 27 de parla.** Entrevista del Consell General amb **Antoni Armengol Vila**,
 conseller general de **Andorra la Vella** al Consell Constituent, **9 min 55 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-armengolvila/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-armengolvila/testimoni-del-consell-constituent-antoni-armengol-vila.md)).
 
 ## Avís
 

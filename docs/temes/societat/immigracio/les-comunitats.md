@@ -209,7 +209,7 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
   volum és al corpus sencer i llegible**: `raw/sac-diades/02a-1989-els-moviments-migratoris-a-andorra`,
   **reextret per OCR el 2026-09-13** perquè **la capa de text anterior no tenia
   cap vocal accentuada i no es podia citar**
-  ([`raw/README.md`](../../../raw/README.md)). **Dues ponències ja en tenen
+  ([`raw/README.md`](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md)). **Dues ponències ja en tenen
   fitxa de font** —[Becat](../../../fonts/becat-moviments-migratoris-1989.md) i
   [el debat](../../../fonts/debat-2a-diada-migracions.md)— **i dos articles
   n'han sortit**: [el diagnòstic de 1989](./el-diagnostic-de-1989.md) i
@@ -311,7 +311,7 @@ Dominicana, la República Txeca, Rússia, Ucraïna, el Vietnam i Xile.**
 
 **Armènia, Estònia, Islàndia i el Vietnam tenen consolat a Andorra.** Val la
 pena al costat de
-[les relacions exteriors](../../institucions/relacions-exteriors/README.md).
+[les relacions exteriors](../../institucions/relacions-exteriors/relacions-exteriors-index-de-fitxes.md).
 
 ## Related
 

@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, sense-parroquia-declar
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Jordi Farràs Forné**,
 conseller general de **sense parròquia declarada** al Consell Constituent, **44 min 7 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-farras/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-farras/testimoni-del-consell-constituent-jordi-farras-forne.md)).
 
 ## Avís
 

@@ -80,4 +80,4 @@ de les Escaldes.
 - [El Politar andorrà, llegit](../historia/manual-digest/el-politar.md)
 - [Els costumaris andorrans](../historia/manual-digest/els-costumaris-andorrans.md)
 - [Julià Reig](./julia-reig.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

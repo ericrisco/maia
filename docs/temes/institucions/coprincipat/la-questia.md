@@ -87,7 +87,7 @@ Europeu de Drets Humans en l'afer Drozd i Janousek contra França i Espanya
 
 > **Les dues xifres del tribut feudal andorrà consten en una sentència del
 > Tribunal Europeu de Drets Humans.** **El corpus té
-> [aquell cas](../../institucions/justicia/README.md) com a peça de la pressió
+> [aquell cas](../justicia/justicia-index-de-fitxes.md) com a peça de la pressió
 > internacional que va portar a la Constitució, i ara sap que el mateix text
 > judicial que qüestionava la justícia andorrana també hi va deixar escrita la
 > quantia de la quèstia.**

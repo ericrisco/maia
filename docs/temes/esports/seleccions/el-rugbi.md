@@ -17,7 +17,7 @@ tags: [esports, rugbi]
 
 **La selecció andorrana de rugbi a XV es diu Els Isards** — **pel mamífer de
 muntanya**, que el corpus té documentat a
-[fauna i flora](../../territori/fauna-i-flora/README.md).
+[fauna i flora](../../territori/fauna-i-flora/fauna-i-flora-index-de-fitxes.md).
 
 | | |
 | --- | --- |
@@ -152,7 +152,7 @@ júnior, sènior i femenina**, i el web és **`far.ad`**.
 —competir abans de tenir federació internacional— aquí es capgira**: **primer la
 federació (1986), després el primer partit (1987), i l'afiliació mundial cinc
 anys més tard (1991)**
-([les seleccions](./README.md)).
+([les seleccions](les-seleccions-index-de-fitxes.md)).
 
 ### I una data que el bolcat es contradiu a si mateix
 
@@ -255,5 +255,5 @@ la descriu en passat i només en set.**
 
 ## Related
 
-- [Les seleccions](./README.md)
-- [Esports](../README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

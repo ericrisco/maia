@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, la-massana, lexic-marc
 **Tanda 10 de parla.** Entrevista del Consell General amb **Guillem Areny
 Argelich**, conseller general de **La Massana** al Consell Constituent,
 **24 min 47 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-areny/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-areny/testimoni-del-consell-constituent-guillem-areny-argelich.md)).
 
 ## Cribratge i avís
 

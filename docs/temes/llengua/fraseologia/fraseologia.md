@@ -43,7 +43,7 @@ l'IEC, però no s'han pogut consultar directament.
 **Buit registrat, prioritari.** Dues vies per tancar-lo:
 
 1. ~~Accedir al *Vocabulari d'Andorra* i al DEA, que són fonts de referència.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-2. ~~Extreure fraseologia del material de la [fase 3](../../../README.md): la
+2. ~~Extreure fraseologia del material de la [fase 3](../../../el-cervell-andorra-index-del-corpus.md): la
    parla espontània n'és plena, i allà a més serà `veu: originaria` en lloc de
    prosa compilada.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 

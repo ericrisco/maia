@@ -115,7 +115,7 @@ anys escassos**:
 **Dotze escons amb el 28,7% el 2005 i sis escons amb el 34,8% el 2011.** Més
 percentatge i la meitat d'escons. **El sistema parroquial fa aquestes coses**, i
 el corpus ho deixa apuntat per a
-[la subbranca de sistema electoral](../sistema-electoral/README.md).
+[la subbranca de sistema electoral](../sistema-electoral/sistema-electoral-index-de-fitxes.md).
 
 **I el 2011 té una lectura constitucional:** un pressupost rebutjat tomba el
 Govern. És **el mecanisme parlamentari funcionant**, en un país del qual la
@@ -172,7 +172,7 @@ sent la **5a Diada (1992), *Tendències polítiques a Andorra***.
 
 ## Related
 
-- [Partits polítics](./README.md)
+- [Partits polítics](partits-politics-index-de-fitxes.md)
 - [Els partits d'avui](./els-partits-davui.md)
 - [Els caps de Govern](../../persones/els-caps-de-govern.md)
 - [Òscar Ribas Reig](../../persones/oscar-ribas-reig.md) — l'home de l'Agrupament Nacional Democràtic.

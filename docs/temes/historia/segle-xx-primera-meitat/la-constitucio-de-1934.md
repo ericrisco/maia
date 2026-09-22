@@ -108,6 +108,6 @@ una constitució de disset articles.**
 ## Related
 
 - [Boris Skossyreff](./boris-skossyreff.md)
-- [Segle XX, primera meitat](./README.md)
+- [Segle XX, primera meitat](segle-xx-primera-meitat-index-de-fitxes.md)
 - [La Constitució de 1993](../constitucio-1993/constitucio-1993.md)
 - [La Transició Nacional](../historia-recent/la-transicio-nacional.md)

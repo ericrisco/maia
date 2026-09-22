@@ -284,7 +284,7 @@ Els universitaris que estudien al Principat van passar de **15 el curs
   > tres sistemes també és un repartiment territorial.**
 
   **El que segueix obert és si es fan servir avui i per qui**, que és feina de
-  [parla](../../../parla/README.md), no de bibliografia.
+  [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md), no de bibliografia.
 
 ## Related
 

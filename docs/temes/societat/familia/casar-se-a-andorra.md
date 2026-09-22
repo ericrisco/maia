@@ -192,7 +192,7 @@ de rebre la que arribava.**
 
 **I n'arriba molta.** **El 2025 es casen 474 parelles, el màxim de tota la
 sèrie**, **més que el 1990 (153), el 2000 (226) i el 2010 (287)**, i **el país
-té avui menys naixements que mai** ([la natalitat](../demografia/README.md)).
+té avui menys naixements que mai** ([la natalitat](../demografia/demografia-index-de-fitxes.md)).
 **Casar-se i tenir fills s'han separat**: **el 2025, de 508 criatures, 288 són
 de mare casada i 202 de mare soltera.**
 

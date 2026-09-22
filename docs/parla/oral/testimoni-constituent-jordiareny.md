@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, escaldes-engordany, tr
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Antoni Jordi Areny**,
 conseller general de **Escaldes-Engordany** al Consell Constituent, **4 min 16 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-jordiareny/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-jordiareny/testimoni-del-consell-constituent-antoni-jordi-areny.md)).
 
 ## Avís
 

@@ -29,7 +29,7 @@ algú d'activista.**
 
 **El corpus no sap de què**: la font ho diu i no ho desenvolupa. **Buit
 registrat, i dels interessants**, perquè **connecta la branca d'esports amb
-[el teixit associatiu andorrà](../../societat/associacionisme/README.md)**.
+[el teixit associatiu andorrà](../../societat/associacionisme/associacionisme-index-de-fitxes.md)**.
 
 ## Jugador-president
 
@@ -64,5 +64,5 @@ Lucendo](./jesus-lucendo.md)** la sub-19 i **[Koldo
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

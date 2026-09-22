@@ -120,12 +120,12 @@ ministre**. **Ara en té dos.**
 corpus tenia **un fet gros documentat amb dues fonts andorranes** i va
 preferir escriure'l amb els buits a la vista que inflar-lo. **El
 18-09-2026 se n'han tancat quatre de cinc**, amb premsa andorrana
-verificada punt per punt. Vegeu [el criteri de la branca](./README.md).
+verificada punt per punt. Vegeu [el criteri de la branca](persones-d-andorra-index-de-fitxes.md).
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Els altres Jocs](../esports/competicio/els-altres-jocs.md) — la competició on va fer història.
 - [Mònica Dòria](./monica-doria.md) — l'altra, el mateix any.
 - [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md)
-- [Esports](../esports/README.md)
+- [Esports](../esports/esports-d-andorra-index-de-fitxes.md)

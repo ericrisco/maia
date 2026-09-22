@@ -112,8 +112,8 @@ diferent — que és la primera vegada que passa.
 | --- | --- | --- | --- | --- |
 | #70. La nissaga dels Martí de les Bons, Sara Ubach | 9:02 | 919 | **4,9 %** | **admesa** — [fitxa](docs/parla/oral/la-nissaga-dels-marti.md) |
 | #20. Els molins d'aigua, Alan Ward | 10:59 | 1.674 | 6,6 % | **admesa** — [fitxa](docs/parla/oral/els-molins-daigua.md) |
-| #33. La ramaderia als segles IX-XI, Climent Miró | 14:36 | 1.800 | — | **descartada**: [text llegit](docs/raw/parla/descartades/README.md) |
-| #62. Els camins dels cérvols, Laura de Castellet | 13:18 | 1.737 | 6,9 % | **pendent**: [provinença](docs/raw/parla/pendents/README.md) |
+| #33. La ramaderia als segles IX-XI, Climent Miró | 14:36 | 1.800 | — | **descartada**: [text llegit](docs/raw/parla/descartades/peces-descartades.md) |
+| #62. Els camins dels cérvols, Laura de Castellet | 13:18 | 1.737 | 6,9 % | **pendent**: [provinença](docs/raw/parla/pendents/peces-pendents.md) |
 
 **El 4,9 % de la #70 és la millor proporció de tot el corpus**: cap peça admesa
 no havia baixat del 5 %.
@@ -212,7 +212,7 @@ país**.
 
 **El brief diu «recull andorrà dit per andorrans».** Aquí la peça és andorrana
 —la publica AR+I— però **no consta que ho sigui la parla, i consta el contrari
-del lloc**. Va a [pendents](docs/raw/parla/pendents/README.md), no a descartades:
+del lloc**. Va a [pendents](docs/raw/parla/pendents/peces-pendents.md), no a descartades:
 **si algun dia es documenta que la parlant és andorrana de casa o resident de
 llarg, entra tal com està.**
 
@@ -627,7 +627,7 @@ esperat de la màquina davant d'un nom andorrà.**
 | --- | --- |
 | **Peça** | Càpsula #58 d'AR+I, «Història de l'esquí i dels esports de neu», Daniel Areny |
 | **La prova** | Tres passats simples sintètics en narració seva: «Aquestes **foren** activitats residuals, que no **tingueren** molta repercussió». I l'estructura de guió: «avui **vinc a exposar-vos**», «**En primer lloc**, m'agradaria donar les gràcies», «**En aquest vídeo intentaré exposar-vos breument**». |
-| **On és** | [`docs/raw/parla/descartades/`](docs/raw/parla/descartades/README.md), sencera. |
+| **On és** | [`docs/raw/parla/descartades/`](docs/raw/parla/descartades/peces-descartades.md), sencera. |
 
 ## El detector no la va agafar, i això era el problema
 
@@ -1084,7 +1084,7 @@ mai text escrit.
 | **La prova** | Dos **passats simples sintètics**: «els nostres avantpassats **passaren** moltes hores trastejant rocs» i «les feixes **robaren** espai fins a la roca». **Ningú no diu això parlant**; és forma exclusiva de l'escrit. |
 | **La prova que no bastava** | Densitat de marcadors **1,2 per mil**. Molt baixa — però **la càpsula #57, admesa, té exactament la mateixa** i és xerrada preparada, no llegida. Per això el veredicte ferm depèn del passat simple, no de la densitat. |
 | **Què se n'ha salvat** | Diu «dels seus **pares i padrins**»: **segon parlant** del corpus que fa servir *padrí* per *avi*, després de la tanda 2. Queda anotat com a indici de què buscar, **no citat com a parla**. |
-| **On és** | [`docs/raw/parla/descartades/`](docs/raw/parla/descartades/README.md), sencera i amb el motiu. |
+| **On és** | [`docs/raw/parla/descartades/`](docs/raw/parla/descartades/peces-descartades.md), sencera i amb el motiu. |
 
 **Per què val la pena que un descart ocupi una tanda.** La peça tenia tot el que
 el corpus busca —CC-BY, parlant nomenat, tema d'ofici, patrimoni UNESCO— i

@@ -126,7 +126,7 @@ tota la resta, **no són dues fonts**.
 
 **Regla que se'n deriva per al corpus:** dues aparicions d'una llegenda no en
 fan un fet més sòlid fins que no se sap **d'on va sortir cadascuna**. Vegeu
-[llegendes](../../cultura/llegendes/README.md) i
+[llegendes](../../cultura/llegendes/llegendes-index-de-fitxes.md) i
 [el cas Amades](./el-cas-amades.md), que és el mateix mecanisme una escala més
 amunt.
 

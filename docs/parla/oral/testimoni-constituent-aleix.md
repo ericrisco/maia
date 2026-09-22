@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, escaldes-engordany, tr
 
 **Tanda 21 de parla.** Entrevista del Consell General amb **Nadia Aleix Tugas**,
 consellera general d'**Escaldes-Engordany** al Consell Constituent, **15 min 3 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-aleix/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-aleix/testimoni-del-consell-constituent-nadia-aleix-tugas.md)).
 
 ## Avís
 

@@ -65,7 +65,7 @@ també per a persones**.
 - El **folklore d'Oriol (1997)**, amb transcripcions fetes per andorrans.
 - Els **fons orals** de l'Arxiu Nacional.
 - El ***Vocabulari d'Andorra*** (1992) i el ***DEA*** (2007) per als noms.
-- I, per al que es fa avui, [parla espontània](../../../parla/espontani/README.md).
+- I, per al que es fa avui, [parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md).
 
 ## Related
 

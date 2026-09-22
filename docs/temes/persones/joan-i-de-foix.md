@@ -76,4 +76,4 @@ d'Urgell (1435, sense fills)**.
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)
 - [Els bisbes d'Urgell](../historia/edat-mitjana/els-bisbes-durgell.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

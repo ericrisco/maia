@@ -14,7 +14,7 @@ tags: [parla, molins, oficis, aigua, tecnica, transcripcio-no-verificada]
 # Rodes verticals, rodes catalanes
 
 **Tanda 29 de parla.** Càpsula #20 d'Andorra Recerca + Innovació, **10 min 59 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-20/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-20/capsula-20-els-molins-d-aigua-d-andorra-per-alan-ward.md)).
 
 ## Cribratge i avís
 
@@ -609,7 +609,7 @@ parlants**.
    peces anteriors: és una limitació de validació del material audiovisual, no
    una pregunta de contingut.~~ — **`no-es-buit` el 2026-09-22**: és una limitació de la peça o de la mostra, no una pregunta de contingut.
 8. ~~**«Aquí a Andorra» no acredita ningú.** La tanda 29 va trobar, a la
-   [#62](../../raw/parla/pendents/ari-capsula-62/README.md), una ponent de la
+   [#62](../../raw/parla/pendents/ari-capsula-62/capsula-62-els-camins-dels-cervols-per-laura-de-castellet.md), una ponent de la
    mateixa sèrie que diu **«no a Andorra»**, i per això aquella peça **no ha
    entrat al corpus**. Des d'avui la sèrie AR+I arrossega **una pregunta oberta
    sobre la provinença dels seus ponents**, que convida qui sap del tema i no

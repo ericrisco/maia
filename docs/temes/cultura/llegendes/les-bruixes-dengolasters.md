@@ -163,7 +163,7 @@ resposta honesta és «no ho sabem».**
   cinc volums (1950-1956) organitzada pel calendari, no per tema, i **dues
   cerques dedicades no han trobat cap edició digital amb text cercable** que
   permeti localitzar-hi «garrapal» o els altres noms. **El corpus no té cap
-  fitxa de jocs tradicionals**, i [costums](../../costums/README.md) no té
+  fitxa de jocs tradicionals**, i [costums](../../costums/costums-d-andorra-index-de-fitxes.md) no té
   aquesta porta oberta. **No era el buit més barat de la branca**: calen els
   cinc volums originals, no la ponència que els cita.
 

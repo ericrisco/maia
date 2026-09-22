@@ -349,7 +349,7 @@ significa, en la pràctica, tenir setanta-set mil habitants.
 - ~~**Els resultats de tots aquests esquiadors fora dels Jocs**: Copes del Món,
   campionats del món, Universíades. **El corpus no en té cap.**~~ —
   **`parcial`, i «cap» ha deixat de ser cert**: **ara n'hi ha de vuit
-  esquiadors** — vegeu [els esquiadors](./README.md). **La Universíada del 2015
+  esquiadors** — vegeu [els esquiadors](esqui-index-de-fitxes.md). **La Universíada del 2015
   de [Marc Oliveras](./esquiadors/marc-oliveras.md) queda confirmada, sense
   resultat.**
 - ~~**La Federació Andorrana d'Esquí (FAE)**: cap fitxa.~~ — **`parcial` el
@@ -368,8 +368,8 @@ significa, en la pràctica, tenir setanta-set mil habitants.
 
 ## Related
 
-- [Esquí](./README.md)
-- [Els esquiadors](./esquiadors/README.md) — fitxa per persona.
+- [Esquí](esqui-index-de-fitxes.md)
+- [Els esquiadors](esquiadors/els-esquiadors-index-de-fitxes.md) — fitxa per persona.
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els altres Jocs](../competicio/els-altres-jocs.md)
 - [Albert Llovera](../../persones/albert-llovera.md)

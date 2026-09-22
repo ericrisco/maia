@@ -72,4 +72,4 @@ i **escriu una carta al Consell General** que el corpus documenta a
 - [No una imitació sinó una caricatura](../historia/pareatge/no-una-imitacio-sino-una-caricatura.md)
 - [Només per aquesta vegada i que no faci precedent](../institucions/justicia/nomes-per-aquesta-vegada-i-que-no-faci-precedent.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -27,7 +27,7 @@ tags: [esports, futbol, seleccio]
 
 ## El que en destaca
 
-**«Babot va néixer a Alemanya de mare andorrana i pare alemany. Va anar a l'escola Schule am Ried. Parla català i castellà.»** **El corpus reté la frase de les llengües**: **un futbolista nascut i criat a Alemanya que parla català.** Vegeu [llengua](../../llengua/README.md). **És el quart cas de nacionalitat per filiació materna** de la branca.
+**«Babot va néixer a Alemanya de mare andorrana i pare alemany. Va anar a l'escola Schule am Ried. Parla català i castellà.»** **El corpus reté la frase de les llengües**: **un futbolista nascut i criat a Alemanya que parla català.** Vegeu [llengua](../../llengua/llengua-d-andorra-index-de-fitxes.md). **És el quart cas de nacionalitat per filiació materna** de la branca.
 
 ## La carrera, club per club
 
@@ -61,12 +61,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Quants partits** ha jugat amb Andorra.~~ — **`resolt`**: **13 partits** amb l'absoluta i **0** gols, segons la taula de dalt.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

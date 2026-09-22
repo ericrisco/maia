@@ -42,7 +42,7 @@ de fora**. **Quaranta-dos gols documentats, tots dins del país.**
 amb moltes més seleccions, porta el mateix primer cognom i és **un any més
 gran** (1993). **El corpus no afirma parentiu i registra la coincidència**, com
 fa amb [Vales](./eric-vales.md), [Vieira](./xavier-vieira.md) i
-[Pérez Font](../estiu/README.md).
+[Pérez Font](../estiu/els-olimpics-d-estiu-index-de-fitxes.md).
 
 ## La carrera, club per club
 
@@ -81,5 +81,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
   **`obert`, confirmat**: **els dos bolcats no s'esmenten l'un a l'altre.**
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

@@ -31,7 +31,7 @@ diverses medalles continentals de petits estats són més palmarès internaciona
 que el de bona part dels olímpics andorrans d'aquesta mateixa subbranca.**
 
 **Si el criteri fos «ha anat als Jocs», aquesta fitxa no existiria i el corpus
-seria pitjor.** Vegeu [el criteri](./README.md).
+seria pitjor.** Vegeu [el criteri](els-olimpics-d-estiu-index-de-fitxes.md).
 
 ## El que falta
 
@@ -101,7 +101,7 @@ seria pitjor.** Vegeu [el criteri](./README.md).
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Els Jocs dels Petits Estats](../competicio/els-jocs-dels-petits-estats.md)

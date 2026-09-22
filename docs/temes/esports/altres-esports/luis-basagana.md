@@ -73,7 +73,7 @@ generació de la selecció, i ell, que no en va poder ser.**
 
 > **Auditat el 2026-09-13.** **Dos dels tres buits eren falsos**: la resposta era
 > al bolcat de la font pròpia d'aquesta fitxa. **És el mateix cas a quaranta-una
-> fitxes de futbolista** — vegeu [futbol](../futbol/README.md).
+> fitxes de futbolista** — vegeu [futbol](../futbol/futbol-index-de-fitxes.md).
 
 - ~~**Quants partits** hi va jugar i quantes temporades.~~ — **`resolt`**:
   **una temporada, la 1984-85, i un sol partit de lliga.**
@@ -89,6 +89,6 @@ generació de la selecció, i ell, que no en va poder ser.**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Marc Bernaus](../futbol/marc-bernaus.md) — l'observació que aquesta fitxa corregeix.

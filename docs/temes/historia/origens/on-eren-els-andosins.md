@@ -147,6 +147,6 @@ els ilergets, els bargusis i els airenosis.**
 
 - [El nom d'Andorra](./el-nom-dandorra.md) — l'altra meitat de la pregunta.
 - [La fundació per Carlemany](./la-fundacio-per-carlemany.md) — l'altre mite d'origen.
-- [Els orígens](./README.md)
+- [Els orígens](origens-index-de-fitxes.md)
 - [El substrat als noms de lloc](../../territori/toponimia/el-substrat-als-noms-de-lloc.md)
 - [La historiografia](../historiografia/historiografia.md)

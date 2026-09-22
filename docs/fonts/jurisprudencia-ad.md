@@ -38,14 +38,14 @@ notes: >
 # Jurisprudència.ad
 
 **Cent quatre normes andorranes en text consolidat**, baixades el **2026-09-12**
-a [`docs/raw/lleis/`](../raw/lleis/README.md). De la **Constitució de 1993** a la
+a [`docs/raw/lleis/`](../raw/lleis/legislacio-andorrana-vigent.md). De la **Constitució de 1993** a la
 **Llei 2/2026**.
 
 ## Per què val tant
 
 Perquè fins ara **el corpus no podia citar cap llei andorrana vigent**.
 
-La branca de [justícia](../temes/institucions/justicia/README.md) tenia
+La branca de [justícia](../temes/institucions/justicia/justicia-index-de-fitxes.md) tenia
 [les fonts del dret](../temes/institucions/justicia/les-fonts-del-dret.md),
 [la justícia d'abans](../temes/institucions/justicia/la-justicia-dabans.md) i
 [una cronologia legislativa](../temes/institucions/justicia/cronologia-legislativa.md)

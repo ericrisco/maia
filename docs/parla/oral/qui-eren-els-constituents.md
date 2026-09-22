@@ -125,6 +125,6 @@ corpus**, i **dues de les quatre que en surten, no.**
 
 ## Related
 
-- [El corpus de parla oral](./README.md)
+- [El corpus de parla oral](oral-d-arxiu-d-andorra.md)
 - [La Constitució de 1993](../../temes/historia/constitucio-1993/constitucio-1993.md)
 - [El sufragi femení](../../temes/societat/dones/el-sufragi-femeni.md) — les tres conselleres d'aquesta taula són el primer cop que n'hi ha més d'una alhora.

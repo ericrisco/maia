@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, escaldes-engordany, tr
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Miquel Aleix Areny**,
 conseller general de **Escaldes-Engordany** al Consell Constituent, **46 min 12 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-aleixareny/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-aleixareny/testimoni-del-consell-constituent-miquel-aleix-areny.md)).
 
 ## Avís
 

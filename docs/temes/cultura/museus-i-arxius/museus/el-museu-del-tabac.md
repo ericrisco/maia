@@ -67,6 +67,6 @@ n'esmenta tres**: ***Geisha i Samurai*** (2010), **pintures sobre Frida Kahlo**
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [Julià Reig](../../../persones/julia-reig.md)
-- [Ramaderia i agricultura](../../../economia/ramaderia-i-agricultura/README.md)
+- [Ramaderia i agricultura](../../../economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md)

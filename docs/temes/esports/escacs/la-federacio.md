@@ -95,7 +95,7 @@ Grans Mestres i tres Mestres Internacionals.**
 
 ## Related
 
-- [Escacs](./README.md)
+- [Escacs](escacs-index-de-fitxes.md)
 - [El Campionat d'Andorra](./el-campionat.md)
 - [L'Obert Internacional](./lobert-internacional.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

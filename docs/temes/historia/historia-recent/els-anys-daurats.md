@@ -169,7 +169,7 @@ l'administració.** **Aquesta és la llista:**
   majoria dels edificis d'aquesta època no estan integrats al paisatge.»**
 - **Es va urbanitzar al fons de les valls**, **que és on hi ha les millors terres
   de cultiu**. **El sector primari va caure en decadència i no s'ha recuperat
-  mai.** Vegeu [ramaderia i agricultura](../../economia/ramaderia-i-agricultura/README.md).
+  mai.** Vegeu [ramaderia i agricultura](../../economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md).
 - **Andorra la Vella va concentrar les empreses i l'administració**, **deixant
   les altres parròquies com a dormitori** i **empobrint-les**.
 - **Les cues de cotxes s'acumulaven al fons de la vall**, per manca de xarxa
@@ -276,7 +276,7 @@ concret que la branca d'història té: sis títols amb autor i any.**
 
 ## Related
 
-- [Història recent](./README.md)
+- [Història recent](historia-recent-index-de-fitxes.md)
 - [La visita de De Gaulle](./la-visita-de-de-gaulle.md)
 - [Transformació econòmica](../../economia/transformacio-economica/transformacio-economica.md)
 - [L'oligopoli bancari](../../economia/banca-i-fiscalitat/loligopoli-bancari.md)

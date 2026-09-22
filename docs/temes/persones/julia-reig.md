@@ -37,7 +37,7 @@ I amb això arriben **demandes socials noves** que la font enumera i que el
 Consell General ha d'atendre per primera vegada:
 
 - **L'atorgament de la nacionalitat andorrana** i **la situació dels residents**
-  ([nacionalitat i residència](../institucions/nacionalitat-i-residencia/README.md)).
+  ([nacionalitat i residència](../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md)).
 - **La modificació del sistema electoral.**
 - **La creació de la CASS**
   ([la CASS i la sanitat](../societat/sanitat/la-cass-i-la-sanitat.md)).
@@ -157,4 +157,4 @@ arbre explícit: registrat com a fort, no com a confirmat del tot.
 - [El gir dels seixanta](../gastronomia/historia-alimentaria/el-gir-dels-seixanta.md)
 - [El parlamentarisme andorrà](../politica/parlamentarisme/el-parlamentarisme-andorra.md)
 - [Les set parròquies i els seus comuns](../institucions/comuns-i-parroquies/les-set-parroquies.md) — la setena és del 1978.
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

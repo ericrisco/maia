@@ -181,7 +181,7 @@ Andorra la Vella». Aixovall és a Sant Julià de Lòria.`
 
 ## Related
 
-- [Futbol](../README.md)
+- [Futbol](../futbol-index-de-fitxes.md)
 - [La lliga](./la-lliga.md)
 - [La federació](./la-federacio.md)
 - [La Constitució de 1993](../../../historia/constitucio-1993/constitucio-1993.md)

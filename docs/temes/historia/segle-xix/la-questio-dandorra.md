@@ -106,7 +106,7 @@ sanitaris a les fronteres**, **però ni els metges andorrans ni els dels països
 veïns sabien que el còlera es transmet per l'aigua.**
 
 **Els andorrans es van adreçar a la Mare de Déu de
-[Meritxell](../../costums/meritxell/README.md) i es feien misses especials.**
+[Meritxell](../../costums/meritxell/meritxell-index-de-fitxes.md) i es feien misses especials.**
 
 > **El 1820 el prefecte de l'Arieja va ordenar al síndic que prengués mesures
 > contra la febre groga: prohibir la importació de mercaderies, prohibir emigrar
@@ -340,7 +340,7 @@ un procés paral·lel d'obertura econòmica a nous mercats i de participació
 política».**
 
 **El corpus ha obert una branca amb aquest buit com a raó de ser**:
-[les grans famílies](../../economia/les-grans-families/README.md). **No la pot
+[les grans famílies](../../economia/les-grans-families/les-grans-families-index-de-fitxes.md). **No la pot
 omplir —no té accés a documentació privada— però hi reuneix el que és públic i
 deixa el buit delimitat en comptes de difús.**
 
@@ -350,7 +350,7 @@ deixa el buit delimitat en comptes de difús.**
 per a ús agrícola**, i **la creació de la primera fàbrica tabaquera del país:
 Tabacalera Andorrana, SA, el 1899.**
 
-**El corpus té [el tabac](../../economia/tabac/README.md) i
+**El corpus té [el tabac](../../economia/tabac/tabac-index-de-fitxes.md) i
 [el Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md)
 —la fàbrica Reig, del 1909— i no tenia que n'hi hagués una deu anys abans.**
 
@@ -406,8 +406,8 @@ Tabacalera Andorrana, SA, el 1899.**
 
 ## Related
 
-- [Segle XIX](./README.md)
+- [Segle XIX](segle-xix-index-de-fitxes.md)
 - [Guillem d'Areny-Plandolit](./guillem-dareny-plandolit.md)
-- [El contraban](../contraban/README.md)
+- [El contraban](../contraban/contraban-index-de-fitxes.md)
 - [Els jocs d'atzar](../../economia/transformacio-economica/els-jocs-datzar.md)
 - [La consciència nacional andorrana](../../politica/identitat-politica/la-consciencia-nacional-andorrana.md)

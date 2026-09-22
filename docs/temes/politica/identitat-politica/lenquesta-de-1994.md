@@ -46,7 +46,7 @@ dada sobre el país**:
 **Trenta-vuit persones conegudes no van contestar una carta sobre identitat**, i
 l'enquestador ho troba normal. Vegeu
 [la tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md)
-i [les convencions socials](../../vida-quotidiana/convencions-socials/README.md):
+i [les convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials-index-de-fitxes.md):
 **el corpus ja té documentada la prudència andorrana en públic**; aquí en té una
 mesura.
 
@@ -159,7 +159,7 @@ També hi ha **qui veu Andorra a la perifèria cultural catalana**, i **qui diu
 
 **Aquest és el registre real del país parlant de si mateix**: ni consigna ni
 manifest, sinó **refranys de prudència**. Per a la fase de
-[parla](../../../parla/README.md), és or.
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md), és or.
 
 ## Com la tanca Valls
 

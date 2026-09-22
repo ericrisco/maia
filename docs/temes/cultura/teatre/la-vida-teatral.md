@@ -213,7 +213,7 @@ d'investigació amb signatura**:
 ## Related
 
 - [El teatre de Carnestoltes](./el-teatre-de-carnestoltes.md) — l'altra meitat, la popular.
-- [Teatre](./README.md)
+- [Teatre](teatre-index-de-fitxes.md)
 - [Els tres sistemes educatius](../../societat/educacio/els-tres-sistemes.md) — què deia el bisbe.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md)
 - [Cultura popular](../cultura-popular/cultura-popular.md)

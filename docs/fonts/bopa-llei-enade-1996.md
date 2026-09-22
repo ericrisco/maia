@@ -18,7 +18,7 @@ abast: >
 notes: >
   RESOL el buit «L'Escola Nacional Andorrana d'Esquí, que té llei de
   creació pròpia i de la qual el corpus només sap que existeix» a
-  [esquí](../temes/esports/esqui/README.md).
+  [esquí](../temes/esports/esqui/esqui-index-de-fitxes.md).
   **Data exacta de la llei original de creació: 23 de setembre del 1988**,
   aprovada pel Consell General en sessió ordinària — citada a l'article 1
   d'aquesta llei de modificació. **La llei original de 1988 no apareix

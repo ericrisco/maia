@@ -109,7 +109,7 @@ Toni Cruz**, **on es veu la Dama Blanca acompanyada d'un llop.**
 
 **El corpus encara no té una fitxa biogràfica pròpia de Toni Cruz**, però la
 identificació de l'escultor queda documentada aquí. Vegeu
-[les arts visuals](../arts-visuals/README.md) per a la branca.
+[les arts visuals](../arts-visuals/arts-visuals-index-de-fitxes.md) per a la branca.
 
 **I l'Esbart Laurèdia hi té una peça del 2013**, **el mateix esbart que
 interpreta [la marratxa](../../costums/danses/la-marratxa.md) des del 1963.**
@@ -153,5 +153,5 @@ Vegeu [la toponímia andorrana](../../territori/toponimia/toponimia-andorrana.md
 - [Les llegendes](./llegendes.md)
 - [El Roc de les Bruixes](./el-roc-de-les-bruixes.md)
 - [La troballa de Meritxell](./la-troballa-de-meritxell.md)
-- [El coprincipat](../../institucions/coprincipat/README.md) — l'altre protagonista.
+- [El coprincipat](../../institucions/coprincipat/el-coprincipat-index-de-fitxes.md) — l'altre protagonista.
 - [Sant Julià de Lòria](../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md)

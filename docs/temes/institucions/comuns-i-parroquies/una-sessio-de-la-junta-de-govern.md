@@ -152,7 +152,7 @@ pública**», i fa constar que era **l'única oferta obtinguda**.
 
 **Això té valor més enllà de l'acord.** La **Llei 14/2022** és una de les normes
 que el corpus té baixades a `raw/lleis/` i **no havia citat mai**; el
-[recompte del material sense fer servir](../../../raw/README.md) ho acabava de
+[recompte del material sense fer servir](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md) ho acabava de
 mesurar. **Aquesta acta n'és la primera aplicació real que el corpus veu**: no
 l'article llegit al text de la llei, sinó **l'article invocat per gastar tres mil
 cinc-cents euros**.
@@ -259,12 +259,12 @@ passen per la mateixa taula, el mateix dia, amb el mateix format d'acord.** Aix�
    comercial» i dona a la segona el doble de marge.**
 2. ~~**Les altres actes.**~~ **`parcial` el 19-09-2026:** ara el corpus conserva
    també les actes **6/2025 (17 de febrer)** i **12/2025 (31 de març)**, totes
-   dues del mateix portal oficial ([evidència local](../../../raw/web/institucions/README.md)).
+   dues del mateix portal oficial ([evidència local](../../../raw/web/institucions/fonts-web-sobre-institucions-simbols-i-actes-comunals.md)).
    Això confirma que la núm. 18 forma part d'una sèrie pública i permet una
    primera comparació, però **les disset actes anteriors i les posteriors encara
    no s'han buidat** i no es pot dir si el repartiment de 69/79 acords a Finances
    és estructura o casualitat.
-3. ~~**Els altres sis comuns.**~~ — **`parcial` el 21-09-2026**: el [portal oficial d'actes comunals](../../../raw/web/institucions/README.md) confirma una sèrie pública de la Junta de Govern d'Escaldes-Engordany i permet conservar actes de 2025, però el corpus encara no té actes equivalents dels altres sis comuns. La comparació territorial continua oberta.
+3. ~~**Els altres sis comuns.**~~ — **`parcial` el 21-09-2026**: el [portal oficial d'actes comunals](../../../raw/web/institucions/fonts-web-sobre-institucions-simbols-i-actes-comunals.md) confirma una sèrie pública de la Junta de Govern d'Escaldes-Engordany i permet conservar actes de 2025, però el corpus encara no té actes equivalents dels altres sis comuns. La comparació territorial continua oberta.
 4. ~~**Per què es mouen els 15.000 €** de les associacions de pares a control de
    plagues.~~ — **`parcial` el 2026-09-20**: l'acord 14 identifica l'origen
    (`502-1690000-48224`, associacions socials de pares d'alumnes) i el destí —

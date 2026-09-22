@@ -171,7 +171,7 @@ en una llista així.
 
 ## Les seleccions nacionals, per fi llistades
 
-Era un buit d'aquesta fitxa i del [README de les seleccions](../seleccions/README.md):
+Era un buit d'aquesta fitxa i del [README de les seleccions](../seleccions/les-seleccions-index-de-fitxes.md):
 **«les vint-i-tres seleccions nacionals»**, citades i mai enumerades.
 
 **La caixa de navegació «National sports teams of Andorra» dels bolcats propis
@@ -203,7 +203,7 @@ confirma ni la desmenteix.`
 
 1. **Andorra té selecció de futbol platja.**
 2. **Té selecció de pitch and putt** —cosa que
-   [altres esports](../altres-esports/README.md) ja havia registrat com a buit.
+   [altres esports](../altres-esports/altres-esports-index-de-fitxes.md) ja havia registrat com a buit.
 3. **Té seleccions de voleibol, masculina i femenina.**
 4. **Té seleccions de bàsquet 3x3**, que és la modalitat olímpica des del 2020.
 5. **Té selecció femenina d'hoquei gel**, i el corpus només tenia la masculina
@@ -278,9 +278,9 @@ Olímpic Andorrà o al CIO.**
 
 ## Related
 
-- [Competició](./README.md)
+- [Competició](competicio-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md)
 - [Els Jocs dels Petits Estats](./els-jocs-dels-petits-estats.md)
 - [Naiara Liñán](../../persones/naiara-linan.md) — la medalla.
 - [Albert Llovera](../../persones/albert-llovera.md) — l'olímpic que després va ser paraplègic.
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

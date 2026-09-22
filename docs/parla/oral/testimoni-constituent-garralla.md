@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, la-massana, transcripc
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Josep Garrallà Rossell**,
 conseller general de **La Massana** al Consell Constituent, **10 min 12 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-garralla/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-garralla/testimoni-del-consell-constituent-josep-garralla-rossell.md)).
 
 ## Avís
 

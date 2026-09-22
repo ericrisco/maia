@@ -172,4 +172,4 @@ en una còpia web de FIBA. El total d'internacionalitats, en canvi, s'ha perdut.
 - [Els dotze dels set segons del 2012](../esports/seleccions/els-dotze-dels-set-segons-del-2012.md)
 - [Daniel Marín Rodríguez](./daniel-marin.md)
 - [El BC Andorra](../esports/altres-esports/bc-andorra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

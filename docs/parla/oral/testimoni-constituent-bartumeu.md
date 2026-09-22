@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, andorra-la-vella, tran
 **Tanda 18 de parla.** Entrevista del Consell General amb **Jaume Bartumeu
 Cassany**, conseller general d'**Andorra la Vella** al Consell Constituent,
 **35 min 13 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-bartumeu/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-bartumeu/testimoni-del-consell-constituent-jaume-bartumeu-cassany.md)).
 
 ## Avís
 

@@ -15,7 +15,7 @@ tags: [artesania, textil, economia, confraries, escaldes]
 
 ## Per què aquesta fitxa existeix
 
-Perquè [la branca d'artesania](./README.md) estava **buida a propòsit**: no hi
+Perquè [la branca d'artesania](artesania-index-de-fitxes.md) estava **buida a propòsit**: no hi
 havia font andorrana i omplir-la amb inventaris d'oficis catalans hauria estat
 posar folklore d'un altre país dins un corpus andorrà.
 
@@ -162,7 +162,7 @@ motiu, no xifres.`
    els estatuts aprovats pel bisbe **Andreu Capella el 13 de febrer de 1604**
    donen al gremi de paraires i teixidors d'Escaldes els patrons **Sant Pere
    Màrtir i Sant Ivó**, i la font descriu la festa del sant el **29 d'abril**.
-   No hi consta el motiu històric de l'elecció de Sant Pere Màrtir ([font web](../../../raw/web/cultura/oficis/README.md)).
+   No hi consta el motiu històric de l'elecció de Sant Pere Màrtir ([font web](../../../raw/web/cultura/oficis/fonts-web-sobre-oficis-i-industries-desapareguts-d-andorra.md)).
 3. ~~**Quants** paraires i teixidors hi havia, i a quines cases.~~ — **`parcial`
    el 20-09-2026**: el corpus localitza el **registre de la confraria dels
    paraires d'Escaldes, 1669–1807**, i un acte de **1788** que esmenta «un
@@ -186,7 +186,7 @@ motiu, no xifres.`
    serradores i fusters) i a la **pedra** (mestres de cases, forns de calç,
    llosers, tosquers i terrissaires), i enumera el **baster** entre altres oficis.
    La font no dedica un apartat específic a la **pell**, de manera que aquest
-   fil queda obert ([font web](../../../raw/web/cultura/oficis/README.md)).
+   fil queda obert ([font web](../../../raw/web/cultura/oficis/fonts-web-sobre-oficis-i-industries-desapareguts-d-andorra.md)).
 
 ## Related
 

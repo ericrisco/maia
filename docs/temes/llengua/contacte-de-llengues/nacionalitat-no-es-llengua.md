@@ -163,7 +163,7 @@ consentiment.** L'estudi es basa en entrevistes a persones particulars i **no
 documenta en quins termes es va obtenir el consentiment** ni si permet reproduir
 res fora de l'obra. **Fins que això no consti, cap fragment d'entrevista d'aquesta
 font no entra al corpus** —ni com a article ni, sobretot, com a
-[parla](../../../parla/README.md).
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).
 
 **Els percentatges dels nou grups no són una estadística.** L'autor els declara
 **«un càlcul d'elaboració pròpia»** fet amb l'enquesta, amb dades oficials de

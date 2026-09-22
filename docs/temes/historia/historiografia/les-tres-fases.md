@@ -42,7 +42,7 @@ tags: [historiografia, arxius, institucions, bibliografia, metode]
 
 ## Fase 1 — La descoberta (1749-1950)
 
-**Comença amb [Anton Fiter i Rossell](../manual-digest/README.md) i el
+**Comença amb [Anton Fiter i Rossell](../manual-digest/manual-digest-index-de-fitxes.md) i el
 *Manual Digest***, **que «va començar a posar les bases de la història
 particular d'Andorra».**
 
@@ -61,7 +61,7 @@ document els caracteritza així:**
 | **Qui ho feia** | **«en la seva majoria (…) personatges nascuts fora de les Valls»** |
 
 > **Dos-cents anys d'història d'Andorra escrita majoritàriament per gent de
-> fora.** **Això explica [Andorra vista de fora](../../cultura/andorra-vista-de-fora/README.md)
+> fora.** **Això explica [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora-index-de-fitxes.md)
 > com a branca, i li dona una data de tancament: cap al 1950.**
 
 ## Fase 2 — La mirada interior (1950-2000)
@@ -180,14 +180,14 @@ verificat.**
 
 ## Els buits que el document declara, i que el corpus adopta
 
-**Del [segle XIX](../segle-xix/README.md):**
+**Del [segle XIX](../segle-xix/segle-xix-index-de-fitxes.md):**
 
 - ~~**Els episodis revolucionaris del 1868 i del 1888** — **«poden donar molt més
   joc, en ser els preludis de les grans transformacions».** **El corpus té
   [la revolució del 1881](../segle-xix/la-questio-dandorra.md) i no té ni el
   1868 ni el 1888.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Les grans famílies andorranes** — **la frase que va originar
-  [aquella branca](../../economia/les-grans-families/README.md).**~~ —
+  [aquella branca](../../economia/les-grans-families/les-grans-families-index-de-fitxes.md).**~~ —
   **`parcial` el 2026-09-19**: el document aporta una cronologia que el corpus
   no tenia —**arrels de la puixança als segles XVI i sobretot XVIII, i eclosió
   al XIX** en paral·lel a l'obertura econòmica i la participació política—,
@@ -362,6 +362,6 @@ sabia.**
 
 - [La historiografia](./historiografia.md)
 - [L'estat de la qüestió de les evasions](./lestat-de-la-questio-de-les-evasions.md) — el mateix diagnòstic des de baix.
-- [El Manual Digest](../manual-digest/README.md) — on comença tot, segons aquest document.
-- [Andorra vista de fora](../../cultura/andorra-vista-de-fora/README.md) — la fase 1.
-- [Les grans famílies](../../economia/les-grans-families/README.md) — el buit que aquest document va originar.
+- [El Manual Digest](../manual-digest/manual-digest-index-de-fitxes.md) — on comença tot, segons aquest document.
+- [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora-index-de-fitxes.md) — la fase 1.
+- [Les grans famílies](../../economia/les-grans-families/les-grans-families-index-de-fitxes.md) — el buit que aquest document va originar.

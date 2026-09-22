@@ -24,7 +24,7 @@ notes: >
 ## Què hi busca el corpus
 
 **Si el Museu Nacional d'Andorra continua previst i en quin punt es troba** —
-el buit obert a [els museus d'Andorra](../temes/cultura/museus-i-arxius/museus/README.md).
+el buit obert a [els museus d'Andorra](../temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md).
 
 ## Què en treu
 

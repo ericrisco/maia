@@ -31,7 +31,7 @@ d'Andorra**.
 
 **«Blanco va debutar amb Andorra el 6 de setembre del 2020, a la Lliga de Nacions de la UEFA contra les Illes Fèroe, en una derrota 0-1 a casa.»** **El mateix partit que el debut de [Víctor Bernat](./victor-bernat.md).**
 
-**És un altre cas de la sèrie**: nascut a **Barcelona, no a Andorra**, com [Óscar de la Riva](../escacs/oscar-de-la-riva.md) als escacs i tants altres — vegeu [la porositat de la nacionalitat esportiva andorrana](../escacs/README.md#i-la-pregunta-que-el-corpus-no-pot-respondre).
+**És un altre cas de la sèrie**: nascut a **Barcelona, no a Andorra**, com [Óscar de la Riva](../escacs/oscar-de-la-riva.md) als escacs i tants altres — vegeu [la porositat de la nacionalitat esportiva andorrana](../escacs/escacs-index-de-fitxes.md#i-la-pregunta-que-el-corpus-no-pot-respondre).
 
 ## La carrera, club per club
 
@@ -65,7 +65,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Gairebé tot: nom complet, naixement, posició.**~~ — **`resolt` el
   18-09-2026**: **la resposta era a l'infobox del mateix bolcat de la font**
@@ -77,5 +77,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

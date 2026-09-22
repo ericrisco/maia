@@ -97,4 +97,4 @@ casos no se'n treu cap.
 - [Mònica Dòria](./monica-doria.md)
 - [Andorra als Jocs Olímpics](../esports/competicio/andorra-als-jocs-olimpics.md)
 - [L'aigua i la neu](../territori/clima-i-muntanya/laigua-i-la-neu.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

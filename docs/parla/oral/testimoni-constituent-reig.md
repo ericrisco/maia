@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, encamp, marcadors-disc
 **Tanda 9 de parla.** Entrevista del Consell General amb **Maria Reig Moles**,
 consellera general d'**Encamp** i **membre de la Comissió Especial Encarregada
 del Procés Constituent**, **36 min 16 s** — la peça més llarga del corpus
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-reig/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-reig/testimoni-del-consell-constituent-maria-reig-moles.md)).
 
 ## Cribratge i avís
 
@@ -1497,7 +1497,7 @@ batejar una llei.
    *veguer*** — sistemàtica en aquest parlant i sense cap `[?…]` a les altres
    cinc ocurrències — **no està descrita enlloc del corpus.** `Requereix la
    branca de fonètica`, vegeu
-   [dialectologia](../../temes/llengua/fonetica/README.md).
+   [dialectologia](../../temes/llengua/fonetica/fonetica-index-de-fitxes.md).
 3. ~~**`[?Derrescaldes]`** (×3) no s'ha identificat: sembla un nom de grup polític
    i podria ser mal sentit.~~ — **`font_externa` el 2026-09-22**: cal escoltar l’àudio original o consultar els crèdits i la fitxa d’origen, que el corpus no conserva.
 4. ~~**`[?aminitat]`** és *unanimitat*; **`[?copríncipes]`** és forma castellanitzada

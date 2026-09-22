@@ -77,7 +77,7 @@ Dues coses a retenir:
 **1. FHASA.** Forces Hidroelèctriques d'Andorra: **l'obra que va portar
 treballadors forans al país** als anys trenta. Inglés hi va anar per això, i
 d'Andorra va acabar a Mauthausen. La fitxa d'
-[energia i serveis](../../economia/energia-i-serveis/README.md) tenia FHASA com a
+[energia i serveis](../../economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md) tenia FHASA com a
 buit; **aquest és el primer fet concret que el corpus en té**.
 
 **2. Era aragonès.** El compte de «andorrans» inclou **gent vinculada a Andorra,

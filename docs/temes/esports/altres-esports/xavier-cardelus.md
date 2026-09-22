@@ -84,6 +84,6 @@ d'Andorra.
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Cyril Despres](./cyril-despres.md) · [Albert Llovera](../../persones/albert-llovera.md)

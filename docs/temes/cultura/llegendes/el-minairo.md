@@ -63,8 +63,8 @@ que hi ha per tot el Pirineu andorrà— són, en aquest relat, muntanyes de ped
 apilades per follets que un home desesperat no sabia com aturar.**
 
 **El corpus ho lliga amb
-[el paisatge construït](../../territori/paisatge-construit/README.md) i amb
-[la toponímia](../../territori/toponimia/README.md)**: **és una etiologia, un
+[el paisatge construït](../../territori/paisatge-construit/paisatge-construit-index-de-fitxes.md) i amb
+[la toponímia](../../territori/toponimia/toponimia-index-de-fitxes.md)**: **és una etiologia, un
 relat que existeix per explicar una forma del terreny.**
 
 ## I expliquen les fortunes
@@ -105,7 +105,7 @@ Urgell que el corpus no té fitxat i que apareix també lligat a
 
 > **Els follets diminuts del Pirineu es diuen, literalment, «mineraires
 > petits».** **El corpus ho lliga amb
-> [la Farga Rosell](../../economia/turisme-i-neu/estacions/README.md) i amb les
+> [la Farga Rosell](../../economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md) i amb les
 > deu fargues i cinc mines de carbó que documenta**: **la llegenda dona als
 > éssers subterranis el nom de l'ofici que realment treballava sota terra.**
 
@@ -115,13 +115,13 @@ tradició pròpia i aïllada.
 
 ## El que falta
 
-- ~~**Quines cases andorranes tenien fama de tenir-ne.**~~ — **`parcial` el 21-09-2026**: la guia institucional del **bosc dels menairons de Pal** situa la versió andorrana a la **Massana** i diu que els menairons protegeixen les pedres blanques d’Andorra, però no atribueix el canut ni la riquesa a cap casa pairal. El buit nominal —quines cases, i si n’hi havia— continua obert ([font local](../../../raw/web/cultura/llegendes/README.md)).
+- ~~**Quines cases andorranes tenien fama de tenir-ne.**~~ — **`parcial` el 21-09-2026**: la guia institucional del **bosc dels menairons de Pal** situa la versió andorrana a la **Massana** i diu que els menairons protegeixen les pedres blanques d’Andorra, però no atribueix el canut ni la riquesa a cap casa pairal. El buit nominal —quines cases, i si n’hi havia— continua obert ([font local](../../../raw/web/cultura/llegendes/fonts-web-sobre-llegendes-i-imaginari-popular.md)).
 - ~~**Versions andorranes recollides**: la font parla d'Andorra i els exemples que
   dona són tots de fora.~~ — **`parcial` el 21-09-2026**: una font periodística
   documenta la versió andorrana moderna com a part del cicle difós per **Pep
   Coll** i assenyala que, a diferència de la Seu d’Urgell, a Andorra no hi ha
   els personatges **Ot i Urgell**; encara no s’ha buidat cap recull tradicional
-  andorrà complet ([font de variants](../../../raw/web/cultura/llegendes/README.md)).
+  andorrà complet ([font de variants](../../../raw/web/cultura/llegendes/fonts-web-sobre-llegendes-i-imaginari-popular.md)).
 - ~~**L'herba menaironera**: si té nom botànic i si és la falguera.~~ — **`parcial` el 20-09-2026**: la guia oficial del [bosc dels menairons de Pal](../../../raw/web/cultura/llegendes/lamassana-bosc-dels-menairons-2021.txt), del Comú de La Massana, la descriu dins la llegenda com «un tipus de falguera», però no n'aporta cap nom botànic ni identifica una espècie real.
 - ~~**Si els minairons surten al recull de [llegendes](./llegendes.md)
   andorrà** que el corpus ja té.~~ — **`resolt` el 18-09-2026**: l'índex actual
@@ -130,7 +130,7 @@ tradició pròpia i aïllada.
 
 ## Related
 
-- [Llegendes](./README.md)
+- [Llegendes](llegendes-index-de-fitxes.md)
 - [Les falles](../../costums/falles/falles.md)
 - [El buner d'Ordino](./el-buner-dordino.md)
 - [La bruixa de Sornàs](./la-bruixa-de-sornas.md)

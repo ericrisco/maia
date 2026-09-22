@@ -362,7 +362,7 @@ partit amb el nom d'un de dissolt judicialment** ni que pretengui succeir-lo
    **El que el corpus n'extreu són les xifres, no les persones.** **Els llistats
    porten el nom, el número d'identificació fiscal i la parròquia de cada
    donant**, i **aquesta fitxa no en reprodueix cap identificació fiscal**: el
-   motiu és a [la nota del fitxer](../../../raw/politica/donacions-partits/README.md)
+   motiu és a [la nota del fitxer](../../../raw/politica/donacions-partits/donacions-als-partits-politics-edictes-del-tribunal-de-comptes.md)
    i es recolza en [la Llei 30/2014](../../institucions/justicia/un-corpus-no-es-un-organisme-competent.md),
    que **no té excepció acadèmica**.
 

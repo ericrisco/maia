@@ -92,7 +92,7 @@ reglamentació.
 **Els banders encapçalen la llista.** Un estat de muntanya on **el cos de guarda
 forestal és un cos especial de ple dret**, al costat de la policia i la duana.
 Vegeu [fauna i flora](../../territori/fauna-i-flora/fauna-i-flora.md) i
-[patrimoni natural](../../territori/patrimoni-natural/README.md). **El corpus no
+[patrimoni natural](../../territori/patrimoni-natural/patrimoni-natural-index-de-fitxes.md). **El corpus no
 té cap fitxa dels banders. Buit registrat i atractiu.**
 
 ## Els quatre tipus de formació

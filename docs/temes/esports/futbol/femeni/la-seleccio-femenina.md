@@ -198,7 +198,7 @@ del primer partit oficial de la història.**
 
 **I la victòria contra l'Aràbia Saudita es va jugar a Girona.** **Andorra hi
 juga «a casa» a Espanya**, com el rugbi a França i la lliga masculina a Alàs i
-Cerc ([les seleccions](../../seleccions/README.md)).
+Cerc ([les seleccions](../../seleccions/les-seleccions-index-de-fitxes.md)).
 
 ## Qui l'ha dirigida
 
@@ -240,7 +240,7 @@ actual és [Teresa Morató](./teresa-morato.md).**
 
 ## Related
 
-- [Futbol femení](./README.md)
-- [Futbol](../README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
+- [Futbol](../futbol-index-de-fitxes.md)
 - [La selecció masculina](../la-seleccio.md)
-- [Dones](../../../societat/dones/README.md)
+- [Dones](../../../societat/dones/dones-index-de-fitxes.md)

@@ -48,6 +48,6 @@ queden registrades a la fitxa sense arbitrar.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)
 - [La tesi de Masegosa sobre el teatre a Andorra](./masegosa-teatre-andorra.md) — la font amb què discrepa.

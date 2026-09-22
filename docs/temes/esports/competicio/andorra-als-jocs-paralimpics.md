@@ -214,6 +214,6 @@ participacions».**
 - [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md)
 - [Els altres Jocs](./els-altres-jocs.md)
 - [El Comitè Olímpic Andorrà](./el-comite-olimpic.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Xavier Barios](../esqui/esquiadors/xavier-barios.md)
 - [Xavier Fernández](../esqui/esquiadors/xavier-fernandez.md)

@@ -19,7 +19,7 @@ abast: >
 ## Què hi busca el corpus
 
 **La CG-1, la CG-2 i la resta**: cap fitxa, buit senyalat des de
-[transport](../temes/economia/transport/README.md).
+[transport](../temes/economia/transport/transport-index-de-fitxes.md).
 
 ## Què en treu
 

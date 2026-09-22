@@ -127,7 +127,7 @@ llapis, entintat, color, disposició de les vinyetes.
 de Govern Antoni Martí», per reactivar el nucli antic de la parròquia.**
 
 **Gira al voltant de l'aigua en totes les seves fases, a partir de la
-[vall del Madriu-Perafita-Claror](../../../territori/patrimoni-natural/README.md),
+[vall del Madriu-Perafita-Claror](../../../territori/patrimoni-natural/patrimoni-natural-index-de-fitxes.md),
 patrimoni de la humanitat de la UNESCO.**
 
 > **La font diu «patrimoni immaterial de la humanitat».** **El corpus ho
@@ -163,6 +163,6 @@ en té una fitxa pròpia al [Centre d'Art d'Escaldes-Engordany](../../arts-visua
 
 ## Related
 
-- [Els museus](./README.md)
+- [Els museus](els-museus-d-andorra-index-de-fitxes.md)
 - [FHASA](../../../economia/energia-i-serveis/fhasa.md)
-- [Art romànic](../../arquitectura/README.md)
+- [Art romànic](../../arquitectura/arquitectura-index-de-fitxes.md)

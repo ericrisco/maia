@@ -86,7 +86,7 @@ Per al model caldrà decidir **tres coses diferents**, i convé no confondre-les
    de cada intervenció, o perdre'l.
 
 La tercera és la que s'ha de resoldre **abans** de la fase 3, no després. Si el
-material de [parla](../../../parla/README.md) es recull sense marcar el
+material de [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md) es recull sense marcar el
 tractament i la relació entre els parlants, la informació no es podrà
 recuperar.
 

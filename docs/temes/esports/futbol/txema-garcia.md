@@ -51,6 +51,6 @@ confon.** Vegeu [Sergi Moreno](./sergi-moreno.md), on hi ha la nota sencera.
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

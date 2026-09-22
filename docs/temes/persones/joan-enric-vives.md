@@ -46,4 +46,4 @@ maig i l'11 de juny del 2025. **El succeeix
 
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
 - [Josep-Lluís Serrano Pentinat](./josep-lluis-serrano-pentinat.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

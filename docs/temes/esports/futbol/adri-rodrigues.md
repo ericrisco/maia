@@ -67,12 +67,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Quants partits** va jugar amb l'absoluta.~~ — **`resolt`**: **21 partits** amb l'absoluta i **0** gols, segons la taula de dalt.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

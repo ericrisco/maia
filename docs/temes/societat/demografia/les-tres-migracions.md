@@ -278,7 +278,7 @@ cada parròquia**, i **al seu voltant una massa de gent que hi feia temporada**.
 
 1. **El calendari de tornada és el de la festa major.** **La migració andorrana
    no acaba una campanya: acaba un cicle festiu.** Vegeu
-   [el calendari festiu](../../costums/calendari-festiu/README.md).
+   [el calendari festiu](../../costums/calendari-festiu/calendari-festiu-index-de-fitxes.md).
 2. **A l'Erau hi coincidien amb els seus propis pastors transhumants.**
    **La ruta de la verema i la ruta del bestiar eren la mateixa** — vegeu
    [la transhumància](../../economia/ramaderia-i-agricultura/la-transhumancia.md).
@@ -311,7 +311,7 @@ Llenguadoc.»**
 
 **Les tres migracions que aquesta fitxa descriu són d'homes.** **La migració
 femenina andorrana existia, era de servei domèstic, i anava a ciutat.**
-**El corpus no en tenia res.** Vegeu [les dones](../dones/README.md) i
+**El corpus no en tenia res.** Vegeu [les dones](../dones/dones-index-de-fitxes.md) i
 [el treball](../treball/treball.md).
 
 > **I el destí definitiu no era el mateix per a tothom:** **«els migrants
@@ -372,7 +372,7 @@ va portar gallecs i minyots del nord de Portugal cap a Andorra.**
    —**Barcelona i altres ciutats de Catalunya, i França**— i l'ofici de
    **minyona**. **No en dona el nombre, la cronologia, el retorn ni el destí
    posterior**, i el corpus encara no té una sèrie per completar-los.
-   `Requereix font externa, i sobretot [parla](../../../parla/README.md).`
+   `Requereix font externa, i sobretot [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).`
 
 ## Related
 

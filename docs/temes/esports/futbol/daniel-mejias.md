@@ -28,7 +28,7 @@ l'infereix.**
 
 **Cinc internacionalitats són poques.** **La fitxa hi és igualment, pel criteri
 de la branca: la participació documentada és el criteri, no el resultat**
-([el criteri](../estiu/README.md)).
+([el criteri](../estiu/els-olimpics-d-estiu-index-de-fitxes.md)).
 
 **I perquè és una de les dues persones d'aquesta branca de qui el corpus
 documenta la mort** —l'altra és **[Esteve Dolsa](../estiu/esteve-dolsa.md)**,
@@ -89,5 +89,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

@@ -15,7 +15,7 @@ tags: [parla, escaldes-engordany, patrimoni, festa-major, lexic-marcat, possible
 
 **Tanda 2 de parla.** Càpsula #57 d'Andorra Recerca + Innovació, publicada el
 **2020-06-30**, **18 min 1 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-57/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-57/capsula-57-un-raco-d-escaldes-engordany-per-ruth-casabella.md)).
 
 ## Avís afegit a la tanda 14: aquesta peça **pot ser llegida**
 
@@ -44,7 +44,7 @@ proposa això i ningú no ho ha verificat* — **no** *diu això*. En són **147
 
 Els errors sistemàtics d'aquesta peça —**`en Gordany` per Engordany**, desenes
 de vegades— són a
-[material de partida](../../raw/parla/ari-capsula-57/README.md). **No s'han
+[material de partida](../../raw/parla/ari-capsula-57/capsula-57-un-raco-d-escaldes-engordany-per-ruth-casabella.md). **No s'han
 corregit**, perquè corregir sense sentir-hi és inventar.
 
 ## Consentiment

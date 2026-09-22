@@ -230,7 +230,7 @@ no és qui ho fa, és el món que ho necessitava**.
    exactament la farga de Moles i les dues de Canillo**.
 2. ~~La **farga de casa Areny**: què en queda, si és visitable.~~ — **`parcial`
    el 20-09-2026**: les [campanyes arqueològiques del Govern
-   (2024–2025)](../../../raw/web/cultura/ferro/README.md) han documentat restes
+   (2024–2025)](../../../raw/web/cultura/ferro/fonts-web-sobre-les-fargues-i-el-ferro-andorra.md) han documentat restes
    de la farga d'Ordino: **dos forns de grillatge, un mur que
    podria correspondre a la casa del factor i els sistemes de drenatge de la
    carbonera i del pati**; la farga va funcionar entre **1753 i 1876**. Les

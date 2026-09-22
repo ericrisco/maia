@@ -223,7 +223,7 @@ d'Agricultura, que en té **174 documents** i sèries que arriben fins al 2003.
 **CC BY 4.0**; la pàgina on remeten és `www.govern.ad`, **que reserva els
 drets** ([govern-andorra-web](../../../fonts/govern-andorra-web.md)). **Els
 fitxers no es versionen; les xifres se citen amb atribució.** Provinença, hash i
-detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica-agricultura/README.md).
+detall a [`docs/raw/estadistica-agricultura/README.md`](../../../raw/estadistica-agricultura/estadistica-d-agricultura-evidencia-primaria.md).
 
 ## Buits registrats
 

@@ -58,7 +58,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Si arriba a l'absoluta.**~~ **[parcial · 2026-09-19]** La taula només
   documenta **3 partits amb l'U17 i 3 amb l'U19** fins a la instantània
@@ -68,5 +68,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

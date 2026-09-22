@@ -41,5 +41,5 @@ obtingut ni reproduït les sèries originals d'aquests organismes.
 
 No s'han resolt els drets de redistribució dels informes. No s'han llegit
 totes les pàgines ni les sèries de camp originals. Les discrepàncies
-internes es detallen al [registre de lectura](../raw/recurs-hidric/README.md);
+internes es detallen al [registre de lectura](../raw/recurs-hidric/recurs-hidric-fora-del-corpus.md);
 no s'ha localitzat una fe d'errates ni contactat amb els autors.

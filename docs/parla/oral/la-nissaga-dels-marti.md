@@ -14,7 +14,7 @@ tags: [parla, families, medieval, encamp, lexic-marcat, transcripcio-no-verifica
 # Una missaga que arriba als nostres dies
 
 **Tanda 29 de parla.** Càpsula #70 d'Andorra Recerca + Innovació, **9 min 2 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-70/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-70/capsula-70-la-nissaga-dels-marti-de-les-bons-per-sara-ubach.md)).
 
 ## Cribratge i avís
 
@@ -304,7 +304,7 @@ en donen quatre.
 7. ~~**On és la ponent mentre parla: no consta.** No diu «aquí a Andorra» ni res
    equivalent. La tanda 29 va trobar a la mateixa sèrie una ponent que diu
    explícitament **«no a Andorra»**
-   ([#62](../../raw/parla/pendents/ari-capsula-62/README.md), **no admesa**), i
+   ([#62](../../raw/parla/pendents/ari-capsula-62/capsula-62-els-camins-dels-cervols-per-laura-de-castellet.md), **no admesa**), i
    això obre una **pregunta de provinença sobre tota la sèrie AR+I**: convida qui
    sap del tema, no qui és del lloc. Aquesta peça **no diu res en cap dels dos
    sentits**.~~ — **`font_externa` el 2026-09-22**: la procedència dels ponents

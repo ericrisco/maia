@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, ordino, transcripcio-i
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Andreu Gaspà Picart**,
 conseller general de **Ordino** al Consell Constituent, **7 min 34 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-gaspa/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-gaspa/testimoni-del-consell-constituent-andreu-gaspa-picart.md)).
 
 ## Avís
 

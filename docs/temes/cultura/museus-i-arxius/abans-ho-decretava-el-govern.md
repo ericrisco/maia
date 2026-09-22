@@ -18,7 +18,7 @@ tags: [arxius, patrimoni, dret-vigent, historia, documents, comuns, prioritari]
 **Vint-i-cinc edictes del BOPA de publicació de taules d'avaluació documental**,
 del **25 de juny del 2015** al **18 de novembre del 2025**, més l'edicte del
 **Comú de Canillo** del 29 de febrer del 2016
-([evidència](../../../raw/historia-arxiu/README.md), [font](../../../fonts/bopa-ad.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md), [font](../../../fonts/bopa-ad.md)).
 
 És la continuació directa de
 [Res d'anterior al 1984 no es tria](./res-danterior-al-1984-no-es-tria.md): un

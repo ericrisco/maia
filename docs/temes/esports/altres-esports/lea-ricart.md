@@ -56,11 +56,11 @@ país.
   la classifica a la categoria **«Place of birth missing (living people)»**.
   **No és que el corpus no ho hagi destil·lat: és que la Viquipèdia hi té el
   buit obert i el marca.** **És el mateix cas que a vuit fitxes de futbolista**
-  — vegeu [futbol](../futbol/README.md).
+  — vegeu [futbol](../futbol/futbol-index-de-fitxes.md).
 - ~~**Si segueix nedant.**~~ — **`obert`, confirmat.**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Pol Arias](../estiu/pol-arias.md) — l'últim nedador olímpic.

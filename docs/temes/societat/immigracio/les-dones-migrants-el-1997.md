@@ -200,7 +200,7 @@ I la prioritat concreta del moment:
 
 **Una casa d'acollida demanada el 1997 per una associació de dones immigrades.**
 **Buit registrat: si es va obrir, quan, i qui la va acabar fent.** Vegeu
-[les dones](../dones/README.md).
+[les dones](../dones/dones-index-de-fitxes.md).
 
 ### El servei que sí que queda documentat
 
@@ -215,7 +215,7 @@ suport a aquestes víctimes ([Reglament de prestacions socials de 2020](../../..
 
 La cronologia institucional permet anar més lluny: el Govern diu que el
 **Servei d'Atenció a les Víctimes de Violència de Gènere (SAVVG)** va començar
-el **desembre de 2006** ([pàgina d'Igualtat](../../../raw/web/societat/violencia-genere/README.md)).
+el **desembre de 2006** ([pàgina d'Igualtat](../../../raw/web/societat/violencia-genere/violencia-de-genere-savvg-i-pisos-dacollida.md)).
 Una nota oficial del **23 de novembre de 2017** concreta que ja hi havia **tres
 pisos d'acollida**, ocupats aquell any per **15 famílies** durant períodes d'un
 dia a 315 dies ([nota del SAVVG de 2017](../../../raw/web/societat/violencia-genere/govern-savvg-2017.html)).

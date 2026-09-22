@@ -115,7 +115,7 @@ tot el Pirineu de sota i amb la idea que
    Montalarí, la Bartra, Padern i el Lloser de Vila–l'Espeluga**, i parla de
    **més d'un centenar** de conjunts i gravats aïllats; el recompte no queda
    reconciliat amb els 62 gravats de les dues campanyes i l'inventari complet de
-   motius i localitzacions continua obert ([fonts web](../../../raw/web/cultura/arqueologia/README.md)).
+   motius i localitzacions continua obert ([fonts web](../../../raw/web/cultura/arqueologia/fonts-web-sobre-els-gravats-rupestres-d-andorra.md)).
 5. ~~**Què hi havia en època romana**, si no hi ha vil·les.~~ — **`parcial` el
    2026-09-20**: la font afirma que a Andorra **no hi ha grans temples grecs o
    romans ni cap vil·la**, i només documenta **contacte** amb el món romà com a

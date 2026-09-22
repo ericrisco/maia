@@ -43,7 +43,7 @@ Joan**, que la succeeix com a
 seva presència arriba per via genealògica, a través del fill.** És, amb
 tot, **una dona amb títol sobirà propi a la llista de coprínceps
 seculars** que el corpus comença ara a documentar
-([les dones](../societat/dones/README.md)).
+([les dones](../societat/dones/dones-index-de-fitxes.md)).
 
 ## La família
 
@@ -62,5 +62,5 @@ d'Arle.
 - [Joan I de Foix](./joan-i-de-foix.md)
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
-- [Les dones](../societat/dones/README.md)
-- [Persones](./README.md)
+- [Les dones](../societat/dones/dones-index-de-fitxes.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

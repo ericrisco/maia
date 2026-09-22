@@ -78,4 +78,4 @@ Seu d'Urgell**. **Aconsegueix el reconeixement papal de Sant Ermengol el
 - [No obeïu cap ordre que no vingui dels dos](../historia/segle-xix/no-obeiu-cap-ordre-que-no-vingui-dels-dos.md)
 - [La revolta del tabac de 1733](../economia/tabac/la-revolta-del-tabac-de-1733.md)
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

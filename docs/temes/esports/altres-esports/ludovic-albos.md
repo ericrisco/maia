@@ -35,7 +35,7 @@ Romero](./xavier-capdevila.md)**.
 **L'esquí de muntanya —skimo— és l'esport que millor encaixa amb el que Andorra
 és físicament**: **un país que és una muntanya sencera, amb el 90% del
 territori per damunt dels 1.800 metres** i **sense possibilitat d'urbanitzar-ne
-la major part** ([territori](../../territori/README.md)).
+la major part** ([territori](../../territori/territori-d-andorra-index-de-fitxes.md)).
 
 **I és disciplina olímpica des de Milano Cortina 2026.**
 
@@ -98,7 +98,7 @@ més** a la llista que aquesta branca va acumulant.
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [David Albós](./david-albos.md) — el mateix cognom.
 - [Xavier Capdevila](./xavier-capdevila.md) — l'altre esquiador de muntanya.

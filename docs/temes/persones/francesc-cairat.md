@@ -116,4 +116,4 @@ durar mig any i ell en va durar vint-i-tres.** Vegeu
 - [El parlamentarisme andorrà](../politica/parlamentarisme/el-parlamentarisme-andorra.md) — la cronologia on encaixa.
 - [Guerres i neutralitat](../historia/guerres-i-neutralitat/guerres-i-neutralitat.md)
 - [El sufragi universal masculí](../politica/sistema-electoral/el-sufragi-universal-masculi.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

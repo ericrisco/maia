@@ -21,7 +21,7 @@ abast: >
 **La biografia de Josep Caixal**: quan va ser bisbe, què li va passar amb
 les guerres carlines, i quan va morir — buit senyalat des de
 [els casalers i els anfochs](../temes/historia/segle-xix/els-casalers-i-els-anfochs.md)
-i des de la taula de [persones](../temes/persones/README.md).
+i des de la taula de [persones](../temes/persones/persones-d-andorra-index-de-fitxes.md).
 
 ## Què en treu
 

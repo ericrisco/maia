@@ -145,8 +145,8 @@ n'hi ha cap d'andorrana ni d'espanyola gran**: **Beta i Fantic són italianes**,
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Xavier Cardelús](./xavier-cardelus.md)
 - [Cyril Despres](./cyril-despres.md)
 - [El Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md)

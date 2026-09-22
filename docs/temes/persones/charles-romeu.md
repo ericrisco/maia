@@ -74,4 +74,4 @@ neige*. **Cavaller de la Legió d'Honor des del 14 de gener del 1902.**
 ## Related
 
 - [El coprincipat](../institucions/coprincipat/el-coprincipat.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

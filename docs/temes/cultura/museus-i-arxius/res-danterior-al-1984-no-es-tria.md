@@ -20,7 +20,7 @@ del 8 de juliol de 1998**, i el **Decret de l'11 de juny del 2014** que el
 refà sencer i el deroga; **Decret del 15 de setembre del 2010 d'aprovació del
 Reglament de transferències de documents del Govern d'Andorra**, signat per
 **Jaume Bartumeu Cassany**
-([evidència](../../../raw/historia-arxiu/README.md), [font](../../../fonts/bopa-ad.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md), [font](../../../fonts/bopa-ad.md)).
 
 **Aquesta fitxa surt d'una comprovació de vigència que va desmentir una frase
 d'una fitxa anterior.** Cercant si el reglament de transferències del 2010 havia

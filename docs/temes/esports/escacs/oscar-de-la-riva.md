@@ -90,7 +90,7 @@ Catalana d'Escacs.**
 
 ## Related
 
-- [Escacs](./README.md)
+- [Escacs](escacs-index-de-fitxes.md)
 - [El Campionat d'Andorra](./el-campionat.md)
 - [Josep Oms](../altres-esports/josep-oms.md)
 - [Lance Henderson de La Fuente](../altres-esports/lance-henderson.md)

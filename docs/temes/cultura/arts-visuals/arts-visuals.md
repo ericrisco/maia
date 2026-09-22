@@ -81,7 +81,7 @@ artístic més valuós del país.
   fitxa de cada artista i l'inventari d'obra.
 - ~~Els **museus d'art** i què hi ha
   ([museus i arxius](../museus-i-arxius/museus-i-arxius.md)).~~ — **`parcial`
-  el 19-09-2026: la subbranca [dels museus](../museus-i-arxius/museus/README.md)
+  el 19-09-2026: la subbranca [dels museus](../museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md)
   ja llista **vint museus** i en descriu les col·leccions i els equipaments,
   inclòs el **Centre d'Art d'Escaldes-Engordany**. **Encara falta extreure'n un
   inventari específic d'art i d'obres.**

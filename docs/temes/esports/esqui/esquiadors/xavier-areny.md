@@ -65,9 +65,9 @@ completar és la primera del gegant.**
   ~~— **`obert`, confirmat el 2026-09-13.** **El bolcat d'aquesta font, dins del
   corpus, no en porta cap identificador de FIS ni d'Olympedia**, i **confirma que
   l'entrada original és un esborrany d'una línia.** **El buit és exacte tal com
-  està escrit.** Vegeu [els esquiadors](./README.md).
+  està escrit.** Vegeu [els esquiadors](els-esquiadors-index-de-fitxes.md).
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)

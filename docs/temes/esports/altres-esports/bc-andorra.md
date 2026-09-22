@@ -66,7 +66,7 @@ Bàsquet.**
 subratlla perquè és la mateixa entitat que patrocina el
 [FC Andorra](../futbol/clubs-i-competicions/fc-andorra.md) des del 2019**: **un
 sol banc del país dona nom als dos clubs esportius més grans d'Andorra.**
-Vegeu [banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md).
+Vegeu [banca i fiscalitat](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md).
 
 ## El palmarès
 
@@ -130,7 +130,7 @@ afirmació de parentiu.**
   | --- | --- |
   | **Fundació** | **12 de juny del 1970**, com a **Club de Basket Les Escaldes** |
   | **Canvi de nom** | **12 d'abril del 1971**, Bàsquet Club Andorra |
-  | **Federació** | **la catalana**: juga al sistema de lligues espanyol, com el [FC Andorra](../futbol/clubs-i-competicions/README.md) |
+  | **Federació** | **la catalana**: juga al sistema de lligues espanyol, com el [FC Andorra](../futbol/clubs-i-competicions/clubs-i-competicions-index-de-fitxes.md) |
   | **Pujada a l'ACB** | **abril del 1992**, després de sis temporades a Primera B |
   | **Primera etapa ACB** | **1992-1996**, amb **Copa Korać la 1995-96** |
   | **Baixada** | **1996**; després, categories inferiors fins a la LEB Plata del 2009-10 |
@@ -141,7 +141,7 @@ afirmació de parentiu.**
   **River Andorra (2002-13)**, **River Andorra MoraBanc (2013-14)** i
   **MoraBanc Andorra (2014 fins avui)** — **d'una marca de rellotges a un banc
   andorrà**, que és **exactament el que va passar amb l'economia del país**
-  (vegeu [la banca](../../economia/banca-i-fiscalitat/README.md)).
+  (vegeu [la banca](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md)).
 
   **El palmarès**: **2 Lligues Catalanes ACB (2018-19 i 2020-21)**, **3 Lligues
   Catalanes EBA**, **2 LEB Or (2013-14 i 2022-23)**, **1 Copa Príncep d'Astúries
@@ -163,6 +163,6 @@ afirmació de parentiu.**
 
 ## Related
 
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
 - [El bàsquet](../seleccions/el-basquet.md)
 - [El FC Andorra](../futbol/clubs-i-competicions/fc-andorra.md)

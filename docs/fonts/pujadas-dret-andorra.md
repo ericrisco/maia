@@ -34,7 +34,7 @@ Andorrana**, Prada de Conflent, **2002**.
 
 ## Per què val tant
 
-Perquè la branca de [justícia](../temes/institucions/justicia/README.md) del
+Perquè la branca de [justícia](../temes/institucions/justicia/justicia-index-de-fitxes.md) del
 corpus era de les més primes, i aquesta ponència **la travessa sencera**: diu
 d'on venia el dret andorrà, quines fonts tenia, com era la justícia abans, i
 **dona una cronologia legislativa datada**.

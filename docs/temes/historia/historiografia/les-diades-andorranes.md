@@ -101,7 +101,7 @@ economia, dret, educació, matemàtiques, física, ciències naturals, història
 art, els Pirineus i Andorra i les seves relacions amb els estats veïns.
 
 **La col·lecció audiovisual és, potencialment, material de
-[parla](../../../parla/README.md)**: són andorrans parlant en públic sobre temes
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md)**: són andorrans parlant en públic sobre temes
 tècnics, en català. **Buit registrat, i podria ser important per a la fase 3.**
 
 ## El catàleg dels temes, 1988-2002

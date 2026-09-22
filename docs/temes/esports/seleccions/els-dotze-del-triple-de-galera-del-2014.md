@@ -205,4 +205,4 @@ d'un sol intocable: és una cadena de generacions que se solapen.
 - [Els dotze campions a casa del 2000](./els-dotze-campions-a-casa-del-2000.md)
 - [Els dotze de la primera final del 2004](./els-dotze-de-la-primera-final-del-2004.md)
 - [El bàsquet](./el-basquet.md)
-- [Les seleccions](./README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)

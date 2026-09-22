@@ -66,4 +66,4 @@ combinen erudició i càrrec públic.
 - [El parlamentarisme andorrà](../politica/parlamentarisme/el-parlamentarisme-andorra.md)
 - [Les respostes de 1994](../politica/identitat-politica/les-respostes-de-1994.md)
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

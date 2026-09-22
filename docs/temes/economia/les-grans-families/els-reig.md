@@ -70,7 +70,7 @@ produir.**
   avui el **Museu del Tabac**.
 - **Compañía Canariense de Tabacos**.
 
-**El corpus ja tenia [el tabac](../tabac/README.md) i la fàbrica.** **El que no
+**El corpus ja tenia [el tabac](../tabac/tabac-index-de-fitxes.md) i la fàbrica.** **El que no
 tenia és que la mateixa nissaga tingués també una tabaquera canària.**
 
 ### Patrimoni i altres
@@ -83,7 +83,7 @@ tenia és que la mateixa nissaga tingués també una tabaquera canària.**
 - **Premsa Andorrana**.
 
 **Això toca [les capçaleres](../../societat/mitjans/les-capcaleres.md) i
-[els mitjans](../../societat/mitjans/README.md), i cap de les dues no tenia la
+[els mitjans](../../societat/mitjans/mitjans-index-de-fitxes.md), i cap de les dues no tenia la
 propietat registrada.** **Buit parcial: ja consta que Premsa Andorrana edita el
 *Diari d'Andorra* i algunes publicacions, però el catàleg complet i la data
 d'inici de cada capçalera encara no hi són.**
@@ -124,7 +124,7 @@ vint anys, i part de la informació pot ser caduca.**
   situa l'inici de la fàbrica el **1909**. **No s'ha trobat encara què hi havia
   abans de la fàbrica ni si el negoci ja existia sota una altra forma.**
 - ~~**Maria Reig i Moles**: **empresària i política, i el corpus no en té
-  fitxa.** **Buit prioritari** — vegeu [les dones](../../societat/dones/README.md).~~
+  fitxa.** **Buit prioritari** — vegeu [les dones](../../societat/dones/dones-index-de-fitxes.md).~~
   — **`resolt` el 18-09-2026**: **ara en té**, a
   [persones/maria-reig-moles](../../persones/maria-reig-moles.md) — **va
   ser l'única dona que va participar en la redacció de la Constitució del
@@ -151,7 +151,7 @@ vint anys, i part de la informació pot ser caduca.**
 
 ## Related
 
-- [Les grans famílies](./README.md)
+- [Les grans famílies](les-grans-families-index-de-fitxes.md)
 - [Julià Reig i Ribó](../../persones/julia-reig.md)
 - [Òscar Ribas Reig](../../persones/oscar-ribas-reig.md)
 - [L'oligopoli bancari](../banca-i-fiscalitat/loligopoli-bancari.md)

@@ -307,7 +307,7 @@ sense suavitzar: **és el que diu la font, i qui la diu importa.**
 
 - [Els petits estats comparats](./els-petits-estats-comparats.md) — les xifres del Departament d'Estadística, del 2014.
 
-- [Petits estats](./README.md)
+- [Petits estats](petits-estats-index-de-fitxes.md)
 - [El Coprincipat](../coprincipat/el-coprincipat.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md)
 - [La funció pública](../govern/la-funcio-publica.md) — les estructures que va caldre desplegar.

@@ -24,7 +24,7 @@ d'Andorra.** Els altres quatre en tenien entre 18 i 20.
 **Naudi és un dels cognoms que travessa el corpus sencer**: hi ha un **Víctor
 Naudi i Zamora** a [la política](../../../politica/partits/els-partits-davui.md)
 —conseller general i líder de Socialdemocràcia i Progrés— i el cognom torna a
-sortir a [la ramaderia](../../../economia/ramaderia-i-agricultura/README.md).
+sortir a [la ramaderia](../../../economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md).
 **El corpus no afirma cap parentiu**; registra que **és un cognom de casa
 andorrana** i que això, en un país petit, vol dir que **el mateix llinatge
 apareix a l'equip olímpic i al Consell General**.
@@ -58,6 +58,6 @@ olímpica d'hivern d'Andorra, ell és qui té menys metres de cursa oficial.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)

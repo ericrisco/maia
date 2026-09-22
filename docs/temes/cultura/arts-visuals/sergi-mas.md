@@ -114,7 +114,7 @@ a una altra branca del corpus:
 > **les llegendes d'Andorra**.»**
 
 **Les llegendes andorranes tenen iconografia oficial, i és seva, i la va emetre
-França.** Vegeu [llegendes](../llegendes/README.md).
+França.** Vegeu [llegendes](../llegendes/llegendes-index-de-fitxes.md).
 
 **També va fer gegants i capgrossos** ([font](../../../fonts/museus-itinerari-sergi-mas.md)).
 
@@ -152,8 +152,8 @@ conformen l'art popular del mateix país».**
 
 **El corpus no els té, i els vol.** Són **fonts primàries sobre cultura
 material andorrana escrites per algú que la va fabricar**. **Buit prioritari**
-per a [cultura popular](../cultura-popular/README.md) i
-[arquitectura](../arquitectura/README.md).
+per a [cultura popular](../cultura-popular/cultura-popular-index-de-fitxes.md) i
+[arquitectura](../arquitectura/arquitectura-index-de-fitxes.md).
 
 ## L'itinerari: l'Estat converteix la seva obra en ruta
 
@@ -222,9 +222,9 @@ de si mateixa la hi va tornar un de fora**, justament mentre
 
 ## Related
 
-- [Arts visuals](./README.md)
+- [Arts visuals](arts-visuals-index-de-fitxes.md)
 - [Josep Viladomat](./josep-viladomat.md) — l'altre escultor català de l'Andorra del segle XX.
 - [Meritxell](../../costums/meritxell/meritxell.md) — la imatge que va fer.
 - [El Consell de la Terra](../../institucions/consell-general/el-consell-de-la-terra.md)
 - [Les escoles d'art comunals](./les-escoles-dart-comunals.md) — l'Espai Sergi Mas.
-- [Cultura popular](../cultura-popular/README.md)
+- [Cultura popular](../cultura-popular/cultura-popular-index-de-fitxes.md)

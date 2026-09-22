@@ -52,7 +52,7 @@ de parla, una mina que cap altra font andorrana iguala.
 
 Hi ha **permís demanat a RTVA** segons consta al projecte, i el fons de RTVA a
 l'**Arxiu Nacional** està identificat com a via d'accés. Vegeu
-[parla](../../../parla/README.md).
+[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).
 
 Distinció que cal mantenir: la parla de RTVA és **català d'Andorra
 institucional i mediàtic**, no espontani. És llengua real i andorrana, però amb

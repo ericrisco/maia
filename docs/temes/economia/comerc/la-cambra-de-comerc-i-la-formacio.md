@@ -268,7 +268,7 @@ pressupostari que el Govern **pot aprovar parcialment o denegar**. I l'article 1
   formacions d'intel·ligència artificial i digitalització van reunir **212
   assistents**. La nota no dona el nombre d'empreses participants ni permet
   saber si cada inscripció correspon a una persona diferent
-  ([font local](../../../raw/web/economia/cambra/README.md)).
+  ([font local](../../../raw/web/economia/cambra/cambra-de-comerc-formacio-continuada-2024.md)).
 - ~~**Es van crear les «vies de formació ocupacional»** més flexibles?~~ — **`parcial` el 21-09-2026**: la Cambra i els ministeris d'Educació i Treball les estudiaven com a vies amb menys empreses i promocions i obertura i tancament més dinàmics, però la font no documenta que s'arribessin a crear.
 - ~~**Sèries salarials andorranes**, de qualsevol any. **Buit transversal
   prioritari.**~~ — **`resolt` el 17-09-2026 per la via d'Estadística**: la nota

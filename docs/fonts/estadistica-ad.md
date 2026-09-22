@@ -29,7 +29,7 @@ indicades. Les còpies d'evidència es mantenen fora del corpus.
 
 La pàgina del portal de la nota té l'identificador de publicació `36426`;
 la metodologia, `26989`. Les URL originals són al registre
-[d'evidència](../raw/estadistica-poblacio/README.md).
+[d'evidència](../raw/estadistica-poblacio/poblacio-registrada-i-estimada-fora-del-corpus.md).
 
 ## Lectures
 

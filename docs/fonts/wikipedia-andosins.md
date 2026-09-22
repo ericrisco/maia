@@ -50,6 +50,6 @@ d'Andorra».** **La classificació mateixa és part de la disputa que descriu.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)
 - [La Societat Andorrana de Ciències](./societat-andorrana-ciencies.md)

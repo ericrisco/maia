@@ -195,7 +195,7 @@ d'Estadística dona la sèrie **«TAXA D'ATUR TOTAL · 15 ANYS I MÉS»** des de
 **desembre de 2009**, amb **3,5 %** en el primer període; el mateix catàleg
 distingeix aquesta taxa d'enquesta del registre administratiu de demandants
 d'ocupació, que arrenca el gener de 2008
-([README de mercat de treball](../../../raw/estadistica-api/treball-mercat/README.md),
+([README de mercat de treball](../../../raw/estadistica-api/treball-mercat/mercat-de-treball-per-l-api-d-estadistica.md),
 [bolcat de la sèrie](../../../raw/estadistica-api/treball-mercat/treball-mercat-api-2026-09-18.tsv)).
 **És el primer punt disponible al corpus, no una prova que no n'hi hagués cap
 altre abans.**
@@ -210,7 +210,7 @@ altre abans.**
    motiu específic de la discontinuïtat.**
 2. ~~**El *Recull d'estadístiques de població*** des del 1979: sèrie sencera,
    no consultada.~~ — **`parcial` el 20-09-2026**: el [bolcat actual de
-   població de l'API](../../../raw/estadistica-api/poblacio/README.md) només
+   població de l'API](../../../raw/estadistica-api/poblacio/poblacio-per-l-api-d-estadistica.md) només
    cobreix el total **2009–2025** i les sèries per poble **2010–2025**; la
    sèrie històrica del *Recull* des de 1979 encara no és al corpus.
 3. ~~**Les sèries del servei d'ordre des del 1947**: on són.~~ — **`parcial` el 21-09-2026**: Lluelles situa l'inici de les primeres sèries cronològiques el **1947** i les atribueix al **servei d'ordre**, però el corpus no ha localitzat els quaderns ni el fons que les conserva.

@@ -108,7 +108,7 @@ Precisions de context que dona la mateixa font:
 
 **El corpus ho reté perquè és el mateix mecanisme dues vegades**: **quan un
 copríncep és alhora cap d'un altre estat, la legislació d'aquell estat i la
-d'Andorra poden xocar.** Vegeu [la banca i la fiscalitat](../../economia/banca-i-fiscalitat/README.md) i
+d'Andorra poden xocar.** Vegeu [la banca i la fiscalitat](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md) i
 [el Coprincipat](./el-coprincipat.md).
 
 ### I la frase que tanca
@@ -358,7 +358,7 @@ Diari **pendents de determinar**; **no entra en cap dataset**.`
   i **hi són tots pel seu nom al cos d'aquest article.**
 - ~~**Amb quins vots es va aprovar el Concordat al Consell General** el 15 de maig
   del 2008.~~ — **`resolt` el 21-09-2026**: el [Diari Oficial del Consell
-  General núm. 6/2008](../../../raw/web/institucions/consell-general/dcg-2008/README.md),
+  General núm. 6/2008](../../../raw/web/institucions/consell-general/dcg-2008/diari-oficial-del-consell-general-6-2008-ratificacio-del-concordat.md),
   punt 3, registra **16 vots a favor i 12 abstencions** i el síndic declara
   aprovada la proposta. La peça també conserva el vot nominal; el recompte és
   el que faltava als autes del Tribunal Constitucional.

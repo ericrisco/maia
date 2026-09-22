@@ -34,7 +34,7 @@ documentat.**
 **La descripció completa de la «cacera», pas per pas, amb la comporta i el sac.**
 
 **La mascota dels Jocs dels Petits Estats del 1991**, dada que el corpus no
-tenia a [els Jocs dels Petits Estats](../temes/esports/competicio/README.md).
+tenia a [els Jocs dels Petits Estats](../temes/esports/competicio/competicio-index-de-fitxes.md).
 
 **I l'ús turístic actual amb xifra**: **el projecte «Troba el Tamarro» ha
 superat les 6.000 visites.**
@@ -48,5 +48,5 @@ no consta.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)

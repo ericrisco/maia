@@ -31,7 +31,7 @@ trobar buscant.
 ## Com s'omplirà
 
 No des d'aquí. Aquest article és un buit registrat per endavant, i la manera de
-tancar-lo és la [fase 3](../../../README.md): testimoni oral i enregistraments,
+tancar-lo és la [fase 3](../../../el-cervell-andorra-index-del-corpus.md): testimoni oral i enregistraments,
 transcrits literalment, amb `veu: originaria`.
 
 Fins llavors, el que hi hagi aquí serà prosa d'un agent parlant sobre cultura

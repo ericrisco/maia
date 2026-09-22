@@ -65,8 +65,8 @@ desproporcionat de tota la branca d'esports.**
 **El corpus ho escriu sencer perquè és el perfil que la branca d'economia
 descriu i la d'esports no havia trobat mai:** **una persona d'alt patrimoni que
 pren la representació esportiva andorrana.** Vegeu
-[banca i fiscalitat](../../economia/banca-i-fiscalitat/README.md) i
-[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md).
+[banca i fiscalitat](../../economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md) i
+[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md).
 
 **I ho escriu amb l'avís que la font mateixa hi posa**: **l'article porta una
 etiqueta de possible conflicte d'interessos** *(«COI»)* **des del setembre del
@@ -116,7 +116,7 @@ declarades, no com a comprovades.**
 
 ## Related
 
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
 - [Josep Oms](./josep-oms.md)
 - [Raül García Paolicchi](./raul-garcia-paolicchi.md)
 - [Lance Henderson de La Fuente](./lance-henderson.md)

@@ -240,8 +240,8 @@ programa, no un document constitutiu. **Buit registrat.**
 
 ## Related
 
-- [Esports](../README.md)
-- [Esquí](../esqui/README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
+- [Esquí](../esqui/esqui-index-de-fitxes.md)
 - [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
 - [Índex legislatiu en educació](../../societat/educacio/index-legislatiu-en-educacio.md)
 - [El mapa escolar del 2000](../../societat/educacio/el-mapa-escolar-del-2000.md)

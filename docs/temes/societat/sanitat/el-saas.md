@@ -72,7 +72,7 @@ creació.**
 ## Buits registrats
 
 1. ~~**El text complet de la Llei del 23 de desembre del 1986.**~~ — **`resolt`
-   el 21-09-2026**: el [Portal jurídic del Principat d'Andorra](../../../raw/web/societat/sanitat/saas-llei-1986/README.md)
+   el 21-09-2026**: el [Portal jurídic del Principat d'Andorra](../../../raw/web/societat/sanitat/saas-llei-1986/llei-de-creacio-del-saas-23-de-desembre-de-1986.md)
    en conserva el text complet, inclosos els capítols sobre funcions,
    competències, òrgans, unitats organitzatives i recursos.
 2. ~~**Com era la sanitat pública abans del SAAS**, entre el 1934 (Consell
@@ -93,7 +93,7 @@ creació.**
    personal passa de **23.868.583 €** a **35.681.784 €** i **62.971.315 €**,
    respectivament. La sèrie no arriba a 1986 i són imports pressupostaris, no
    un recompte de persones: els efectius del SAAS i el tram 1986–2005 continuen
-   oberts ([font local](../../../raw/estadistica-api/README.md)).
+   oberts ([font local](../../../raw/estadistica-api/l-api-publica-del-departament-d-estadistica.md)).
 
 ## Related
 
@@ -101,4 +101,4 @@ creació.**
 - [La CASS i la sanitat](./la-cass-i-la-sanitat.md)
 - [La reacreditació dels metges](./la-reacreditacio-dels-metges.md)
 - [La via preferent](./la-via-preferent.md)
-- [Sanitat](./README.md)
+- [Sanitat](sanitat-index-de-fitxes.md)

@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, encamp, transcripcio-i
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Gabriel Dallerès Codina**,
 conseller general de **Encamp** al Consell Constituent, **20 min 13 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-dalleres/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-dalleres/testimoni-del-consell-constituent-gabriel-dalleres-codina.md)).
 
 ## Avís
 

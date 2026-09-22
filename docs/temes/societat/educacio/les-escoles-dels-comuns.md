@@ -83,7 +83,7 @@ Dues coses:
 - **Hi ha una xifra.** El corpus no té termes de comparació per saber si **1.000
   pessetes de 1920** era molt o poc a Andorra, i **no ho inventa**. **Buit
   registrat**: salaris i preus andorrans del primer terç del segle XX. Vegeu
-  [economia](../../economia/README.md).
+  [economia](../../economia/economia-d-andorra-index-de-fitxes.md).
 
 ## Per què aquesta cita val el que val
 

@@ -89,12 +89,12 @@ una branca d'un sol nom. **Quan n'hi hagi més, es reorganitzarà.**
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 - ~~**El surf de neu andorrà**: federació, pistes, gent.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Joan Verdú](../../../persones/joan-verdu.md) — el podi que el corpus creia primer.

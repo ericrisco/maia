@@ -159,7 +159,7 @@ volums que en parlen** — no perquè no existeixin.
 
 **Les vint-i-una Diades no llegides són la feina pendent més gran i més ben
 delimitada que té el projecte.** Estan identificades, publicades i localitzables.
-El registre de procedència és a [`docs/raw/`](../../../raw/README.md).
+El registre de procedència és a [`docs/raw/`](../../../raw/index-del-material-de-partida-del-corpus-docs-raw.md).
 
 ## El que la SAC arregla
 

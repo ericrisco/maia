@@ -94,7 +94,7 @@ repertori antic**: és el ball d'una figura gegantera laurediana, i per tant és
 
 **El que encara falta:** la **llegenda** del Rei Moro i la Dama Blanca, que
 hauria de tenir fitxa pròpia a
-[llegendes](../../cultura/llegendes/README.md). **Buit registrat.**
+[llegendes](../../cultura/llegendes/llegendes-index-de-fitxes.md). **Buit registrat.**
 
 ## El que falta
 

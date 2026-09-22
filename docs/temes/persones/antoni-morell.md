@@ -78,4 +78,4 @@ Mora.**
 - [Julià Reig](./julia-reig.md)
 - [Òscar Ribas Reig](./oscar-ribas-reig.md)
 - [Literatura andorrana](../cultura/literatura/literatura-andorrana.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

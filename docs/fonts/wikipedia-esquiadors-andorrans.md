@@ -66,6 +66,6 @@ consultat, i la **Federació Andorrana d'Esquí**.
 
 | Tema | Fitxa |
 | --- | --- |
-| Tots els esquiadors, un per un | [Els esquiadors](../temes/esports/esqui/esquiadors/README.md) |
+| Tots els esquiadors, un per un | [Els esquiadors](../temes/esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md) |
 | Les catorze delegacions | [Cinquanta anys d'esquí olímpic](../temes/esports/esqui/cinquanta-anys-desqui-olimpic.md) |
 | La sèrie olímpica sencera | [Andorra als Jocs Olímpics](../temes/esports/competicio/andorra-als-jocs-olimpics.md) |

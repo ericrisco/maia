@@ -66,7 +66,7 @@ Canillo i el fons de la casa Bonavida, entre d'altres.
   «dates consultables als vídeos de l'Arxiu Nacional», confirmant que **el fons
   conté almenys vídeos de retransmissions televisives històriques**.
 - ~~Els museus i les seves col·leccions.~~ — **tancat el 2026-09-13**:
-  **[els museus d'Andorra](./museus/README.md)**, vint fitxats un per un. **El
+  **[els museus d'Andorra](museus/els-museus-d-andorra-index-de-fitxes.md)**, vint fitxats un per un. **El
   fet que n'ha sortit**: **la xarxa museística andorrana es va dissenyar el 1994
   com a antenes al voltant d'un Museu Nacional d'Andorra que no s'ha construït
   mai.** **El país té vint antenes i cap tronc.**

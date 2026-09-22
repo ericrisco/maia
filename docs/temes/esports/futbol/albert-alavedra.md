@@ -28,7 +28,7 @@ tags: [esports, futbol, seleccio]
 
 ## El que en destaca
 
-**«Alavedra va néixer a Castellbell i el Vilar, prop de Manresa, de mare andorrana.»** És un dels casos de **nacionalitat per filiació materna** que el corpus va trobant: com **[Kiko Pomares](./kiko-pomares.md)** i **[Pau Babot](./pau-babot.md)**. **La nacionalitat andorrana es transmet, i aquests futbolistes en són el rastre esportiu.** Vegeu [nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md).
+**«Alavedra va néixer a Castellbell i el Vilar, prop de Manresa, de mare andorrana.»** És un dels casos de **nacionalitat per filiació materna** que el corpus va trobant: com **[Kiko Pomares](./kiko-pomares.md)** i **[Pau Babot](./pau-babot.md)**. **La nacionalitat andorrana es transmet, i aquests futbolistes en són el rastre esportiu.** Vegeu [nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md).
 
 ## La carrera, club per club
 
@@ -65,7 +65,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Els seus clubs** i per què va plegar tan jove.~~ **[parcial ·
   2026-09-19]** La taula de la carrera ja identifica els clubs i les etapes
@@ -75,5 +75,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

@@ -33,7 +33,7 @@ s'utilitzava a l'hivern o com a camp de tir al plat.**
 
 **L'explota Camprabassa**, la societat del comú. **És exactament el mateix
 règim que les estacions d'esquí**
-([les estacions](./README.md#el-que-aixo-deixa-veure)): **ni pública ni
+([les estacions](les-estacions-d-esqui-index-de-fitxes.md#el-que-aixo-deixa-veure)): **ni pública ni
 privada de mercat, sinó comunal.** I, com la resta de la neu andorrana, **la
 unitat és la parròquia.**
 
@@ -92,7 +92,7 @@ però no diu què va passar amb cada animal o amb cada treballador.
 ## Buits registrats
 
 - ~~**Naturland, a Sant Julià de Lòria, que la font esmenta i el corpus no ha
-  mirat.**~~ — **`resolt` el 18-09-2026.** Vegeu [les estacions](./README.md).
+  mirat.**~~ — **`resolt` el 18-09-2026.** Vegeu [les estacions](les-estacions-d-esqui-index-de-fitxes.md).
 - ~~**Si el tancament del març del 2025 es va arribar a executar**, i **què se'n
   va fer, dels animals i del personal.**~~ — **`parcial` el 18-09-2026**: les
   notícies oficials anteriors acrediten que no es va executar un tancament
@@ -133,6 +133,6 @@ però no diu què va passar amb cada animal o amb cada treballador.
 
 ## Related
 
-- [Les estacions d'esquí](./README.md)
+- [Les estacions d'esquí](les-estacions-d-esqui-index-de-fitxes.md)
 - [Vallnord](./vallnord.md)
 - [Trenta-dos anys de pressupost](../../../institucions/govern/trenta-dos-anys-de-pressupost.md)

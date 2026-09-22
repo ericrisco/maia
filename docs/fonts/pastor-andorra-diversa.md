@@ -49,4 +49,4 @@ catolicisme i **res del present**.
 | Les religions d'avui | [Les religions d'Andorra avui](../temes/costums/religiositat/les-religions-dandorra-avui.md) |
 | Les associacions i les xifres | [Les comunitats](../temes/societat/immigracio/les-comunitats.md) |
 | La composició per parròquies | [La composició per nacionalitats](../temes/societat/demografia/la-composicio-per-nacionalitats.md) |
-| El futbol | [Esports](../temes/esports/README.md) |
+| El futbol | [Esports](../temes/esports/esports-d-andorra-index-de-fitxes.md) |

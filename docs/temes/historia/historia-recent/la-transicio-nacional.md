@@ -38,7 +38,7 @@ descripció més crua que té del país d'abans del 1993:**
 > extensió de les nacionalitats colonials.»**
 
 **Això s'ha de llegir contra
-[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/README.md)**
+[nacionalitat i residència](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md)**
 i contra **[la visita de De Gaulle](./la-visita-de-de-gaulle.md)**, on el
 copríncep francès demanava el dret de sòl **el 1967** **mentre els seus propis
 serveis regulaven la nacionalitat andorrana com si fos colonial.**
@@ -117,7 +117,7 @@ Andorrans.**
 
 **Avui el Ministeri fixa el calendari dels tres sistemes i cobreix el transport
 escolar**, però **França i Espanya segueixen finançant els seus**. Vegeu
-[l'educació](../../societat/educacio/README.md).
+[l'educació](../../societat/educacio/educacio-index-de-fitxes.md).
 
 ### La ràdio
 
@@ -404,7 +404,7 @@ l'ONU són públiques.**
 
 ## Related
 
-- [Història recent](./README.md)
+- [Història recent](historia-recent-index-de-fitxes.md)
 - [Els anys daurats](./els-anys-daurats.md)
 - [La Constitució de 1993](../constitucio-1993/constitucio-1993.md)
 - [Democratització](../democratitzacio/democratitzacio.md)

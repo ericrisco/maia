@@ -55,5 +55,5 @@ biogràfica pròpia ja el resolen.
 
 | Tema | Fitxa |
 | --- | --- |
-| La branca nova | [Transport](../temes/economia/transport/README.md) |
+| La branca nova | [Transport](../temes/economia/transport/transport-index-de-fitxes.md) |
 | L'aeroport | [L'aeroport que Andorra no té](../temes/economia/transport/laeroport-que-andorra-no-te.md) |

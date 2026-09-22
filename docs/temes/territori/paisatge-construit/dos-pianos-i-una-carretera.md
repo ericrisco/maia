@@ -201,7 +201,7 @@ projecte d'explotació del granit andorrà.
    automòbil va entrar el **13 d’agost de 1911**. No es va prolongar aquella
    mateixa via fins a Espanya: la connexió espanyola va ser la carretera
    **Andorra la Vella–la Seu d’Urgell**, inaugurada el **24 d’agost de 1913** i
-   acabada completament el **1915** ([cronologia de carreteres](../../../raw/web/territori/carreteres/README.md)).
+   acabada completament el **1915** ([cronologia de carreteres](../../../raw/web/territori/carreteres/carreteres-dandorra-cronologia-de-la-primera-meitat-del-segle-xx.md)).
 2 bis. **Com es va aplicar la decisió de pagar només els immobles bastits**, i
    **si el Consell va arribar mai a saldar el capital dels terrenys.** **La font
    diu «hi hauria molt a dir» i no ho diu.** **Prioritari.**

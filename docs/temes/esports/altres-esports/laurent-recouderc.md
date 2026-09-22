@@ -164,6 +164,6 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 
 ## Related
 
-- [Altres esports](./README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
 - [El tennis](../seleccions/el-tennis.md)
 - [Èric Cervós](./eric-cervos.md)

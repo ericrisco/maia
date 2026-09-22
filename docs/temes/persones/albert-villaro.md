@@ -20,7 +20,7 @@ polítics i historiografia andorrana. Un estat de la qüestió* apareix com a
 font en [les tres fases de la historiografia](../historia/historiografia/les-tres-fases.md),
 [la Qüestió d'Andorra](../historia/segle-xix/la-questio-dandorra.md), [el
 Manual Digest](../historia/manual-digest/de-lo-que-pot-i-no-pot.md) i
-[els Reig](../economia/les-grans-families/README.md) — **i no en tenia
+[els Reig](../economia/les-grans-families/les-grans-families-index-de-fitxes.md) — **i no en tenia
 fitxa.** **Ara la té.**
 
 ## Qui és
@@ -93,5 +93,5 @@ totes dues coses alhora.**
 - [Les tres fases de la historiografia](../historia/historiografia/les-tres-fases.md)
 - [La Qüestió d'Andorra](../historia/segle-xix/la-questio-dandorra.md)
 - [El Manual Digest — de lo que pot i no pot](../historia/manual-digest/de-lo-que-pot-i-no-pot.md)
-- [Els Reig](../economia/les-grans-families/README.md)
-- [Persones](./README.md)
+- [Els Reig](../economia/les-grans-families/les-grans-families-index-de-fitxes.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -177,7 +177,7 @@ joves, i **equilibra l'oferta de mecànica, molt més atractiva per als nois**»
 
 **Dit a l'inrevés: durant dos anys, la formació dual andorrana va ser, de fet,
 per a nois.** La font ho reconeix i ho corregeix amb una branca nova. Vegeu
-[dones](../dones/README.md).
+[dones](../dones/dones-index-de-fitxes.md).
 
 ## Els dos-cents
 

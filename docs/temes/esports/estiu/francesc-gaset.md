@@ -37,7 +37,7 @@ van anar ho van fer sota la bandera olímpica en comptes de la nacional**.
 
 **El corpus ho reté com un dels fets més interessants de tota la seva branca
 d'esports**, perquè **connecta directament amb
-[la neutralitat andorrana](../../politica/identitat-politica/README.md)**: un
+[la neutralitat andorrana](../../politica/identitat-politica/identitat-politica-index-de-fitxes.md)**: un
 país que **ha fet de la no-alineació la seva doctrina d'Estat**
 ([guerres i neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat.md))
 **fa el mateix a l'estadi olímpic**.
@@ -78,7 +78,7 @@ dels bons:** *per què Andorra va desfilar sota bandera olímpica a Moscou 1980?
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Els abanderats](../competicio/els-abanderats.md) — la sèrie sencera.

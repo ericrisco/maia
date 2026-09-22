@@ -72,7 +72,7 @@ sense especular sobre les circumstàncies i sense convertir-ho en relat.
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Joan Tomàs Roca](./joan-tomas-roca.md) — hi va competir al costat a Montreal.

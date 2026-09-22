@@ -160,7 +160,7 @@ registrat.**
   internacionals de llengua de Gironella** (Catalunya) i **visitessin Andorra**.
 
 **Això és política exterior amb forma d'assignatura.** Vegeu
-[relacions exteriors](../../institucions/relacions-exteriors/README.md) i
+[relacions exteriors](../../institucions/relacions-exteriors/relacions-exteriors-index-de-fitxes.md) i
 [Andorra vista de fora](../../cultura/andorra-vista-de-fora/andorra-vista-de-fora.md):
 el país que passa un segle sent explicat pels altres **comença a explicar-se ell
 a través d'un lector de català a Praga** — i **portant-hi estudiants txecs a
@@ -226,7 +226,7 @@ metàfora: **és la funció principal.**
 - ~~**Quanta gent aprova** de les 480 que s'hi presenten.~~ — **`resolt`
   el 19-09-2026** com a buit duplicat: la pregunta canònica continua a
   [Els exàmens oficials de català](../../llengua/politica-linguistica/els-examens-oficials-de-catala.md).
-- ~~**Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior que el corpus no coneix.~~ — **`parcial` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/lectorat-praga/README.md) confirma que el lectorat creat el **1991** es va convertir el **2017** en el **Centre Carlemany de Llengua Catalana** de la Universitat Carolina de Praga i que continua oferint cursos i activitats. No s'hi identifica encara una xarxa d'altres lectorats en universitats diferents.
+- ~~**Si el lectorat de Praga existeix encara**, i si n'hi ha hagut d'altres a altres universitats. **Buit prioritari** — seria la pista d'una xarxa exterior que el corpus no coneix.~~ — **`parcial` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/lectorat-praga/centre-carlemany-de-llengua-catalana-de-praga.md) confirma que el lectorat creat el **1991** es va convertir el **2017** en el **Centre Carlemany de Llengua Catalana** de la Universitat Carolina de Praga i que continua oferint cursos i activitats. No s'hi identifica encara una xarxa d'altres lectorats en universitats diferents.
 - ~~**Promocions Mèdiques Andorranes**, l'empresa andorrana amb seu a Praga que
   cofinançava el lectorat el 2000. **El corpus no en té res**, i és una porta a
   la presència econòmica andorrana a l'estranger.~~ **`resolt` el 19-09-2026**:
@@ -237,7 +237,7 @@ metàfora: **és la funció principal.**
 - ~~**Pyrénées, Andorra 2000, Andimesa i Viladomat Esports**: el corpus no té cap
   fitxa d'empresa andorrana.~~ — **`font_externa` el 2026-09-22**: els perfils
   societaris requereixen registres mercantils o fonts empresarials fora del corpus.
-- ~~**El centre d'autoaprenentatge d'Encamp**: es va obrir?~~ — **`resolt` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/centre-encamp/README.md) confirma que el nou Centre de Català d’Encamp va obrir el **2 de setembre de 2025** a l’antic Hotel Hermus, amb **90 m²** d’aprenentatge guiat.
+- ~~**El centre d'autoaprenentatge d'Encamp**: es va obrir?~~ — **`resolt` el 21-09-2026**: el [Govern](../../../raw/web/societat/educacio/centre-encamp/centre-de-catala-d-encamp.md) confirma que el nou Centre de Català d’Encamp va obrir el **2 de setembre de 2025** a l’antic Hotel Hermus, amb **90 m²** d’aprenentatge guiat.
 - ~~**Quants adults** passen per aquests serveis cada any.~~ — **`parcial` el
   21-09-2026**: el **Centre de Formació al Llarg de la Vida** registra **1.594
   alumnes el curs 2023–2024** i **2.294 el 2024–2025**. Per al primer curs, la
@@ -245,7 +245,7 @@ metàfora: **és la funció principal.**
   continuada professional, **234** del diploma de ciències humanes i socials,
   **48** de preparació per a l'accés universitari de majors de 25 anys i **87**
   del graduat en segona ensenyança. La dada cobreix el CFLV, no tots els serveis
-  històrics de la fitxa ([font local](../../../raw/web/societat/educacio/README.md)).
+  històrics de la fitxa ([font local](../../../raw/web/societat/educacio/formacio-d-adults-dades-recents-del-cflv.md)).
 - ~~**Com es prepara i què demana** el graduat en segona ensenyança per lliures.~~
   **`resolt` el 19-09-2026** dins d'aquesta fitxa: el prepara el Centre
   d'Educació Bàsica d'Adults per a majors de 16 anys, amb convocatòries a

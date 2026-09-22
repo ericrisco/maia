@@ -112,7 +112,7 @@ JULIÀ DE LÒRIA)». Qui agrupi per l'etiqueta obté vuit parròquies.`
   quantificar el despoblament del segle XX.**
 - ~~**Els 44 pobles de la font no són tots els nuclis habitats del país.** **El
   corpus no sap quin criteri fa servir la font per identificar-los.**~~ —
-  **`no-es-buit`**: el [README de població](../../../raw/estadistica-api/poblacio/README.md)
+  **`no-es-buit`**: el [README de població](../../../raw/estadistica-api/poblacio/poblacio-per-l-api-d-estadistica.md)
   declara que «població per poble» són els **44 que la font identifica**, però no
   publica el criteri d'inclusió; la sèrie no permet deduir-lo.
 - ~~**La font barreja dos noms per a la mateixa parròquia** a la taula de pobles.

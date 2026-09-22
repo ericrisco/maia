@@ -22,7 +22,7 @@ abast: >
 **Qui era Antoni Puig**, l'autor del Politar, ja documentat parcialment
 («prevere de les Escaldes») a
 [els costumaris andorrans](../temes/historia/manual-digest/els-costumaris-andorrans.md)
-i marcat com a «buit» a la taula de [persones](../temes/persones/README.md)
+i marcat com a «buit» a la taula de [persones](../temes/persones/persones-d-andorra-index-de-fitxes.md)
 amb el nom «Antoni Puig i Busquets».
 
 ## Què en treu

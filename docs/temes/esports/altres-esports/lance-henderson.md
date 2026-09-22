@@ -59,7 +59,7 @@ represents Andorra».**
 
 **És el mateix patró que [Josep Oms](./josep-oms.md) —que va jugar per Andorra
 del 2003 al 2007 i després va tornar a Espanya— i que bona part de la delegació
-olímpica del país** ([els olímpics d'estiu](../estiu/README.md)).
+olímpica del país** ([els olímpics d'estiu](../estiu/els-olimpics-d-estiu-index-de-fitxes.md)).
 
 **El corpus ho registra sense judici i ho subratlla com a estructura:** **la
 representació internacional d'un microestat es construeix, en part, amb gent
@@ -98,6 +98,6 @@ que hi arriba.**
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [Josep Oms](./josep-oms.md) — l'altre gran mestre.

@@ -133,5 +133,5 @@ així avui.`
 
 ## Related
 
-- [Les seleccions](./README.md)
+- [Les seleccions](les-seleccions-index-de-fitxes.md)
 - [El Comitè Olímpic Andorrà](../competicio/el-comite-olimpic.md)

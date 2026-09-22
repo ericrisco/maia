@@ -305,7 +305,7 @@ de judici.**
 (justicia.ad). **Citada, no reproduïda**: l'avís legal del portal prohibeix la
 reproducció total o parcial sense consentiment escrit, i per això el corpus no
 en conserva còpia — vegeu
-[`raw/estadistica-justicia/README.md`](../../../raw/estadistica-justicia/README.md).`
+[`raw/estadistica-justicia/README.md`](../../../raw/estadistica-justicia/poblacio-reclusa-i-seguretat-evidencia-estadistica.md).`
 
 ## Buits registrats
 

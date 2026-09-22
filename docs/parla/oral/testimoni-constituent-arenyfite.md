@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, canillo, transcripcio-
 
 **Tanda 26 de parla.** Entrevista del Consell General amb **Josep Areny Fité**,
 conseller general de **Canillo** al Consell Constituent, **15 min 52 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-arenyfite/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-arenyfite/testimoni-del-consell-constituent-josep-areny-fite.md)).
 
 ## Avís
 

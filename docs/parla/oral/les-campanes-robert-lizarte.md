@@ -14,7 +14,7 @@ tags: [parla, campanes, oficis, encamp, patrimoni, lexic-marcat, transcripcio-no
 # També sóc campaner
 
 **Tanda 13 de parla.** Càpsula #40 d'Andorra Recerca + Innovació, **18 min 23 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-40/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-40/capsula-40-les-campanes-d-andorra-per-robert-lizarte.md)).
 
 ## La peça que el registre demanava
 

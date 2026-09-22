@@ -77,7 +77,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
   sense constar, però el Club de Tiro Olímpico de Barcelona inclou **Esther
   Barrugués Alviñá** entre els seus tiradors olímpics i la Federació Andorrana
   de Tir la identifica com a **vocal i delegada de tir de precisió**
-  ([fonts web](../../../raw/web/esport/esther-barrugues/README.md)). ~~**El
+  ([fonts web](../../../raw/web/esport/esther-barrugues/esther-barrugues-club-i-federacio.md)). ~~**El
   palmarès**~~ — **`parcial` des del 2026-09-13**: **bronze de carabina d'aire de
   10 m a Liechtenstein 2011** (medaller de dalt). **És l'única medalla que la
   font li dona.**
@@ -101,7 +101,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa**, a `docs/raw/web/esport/`
 > néixer» és de font i no de destil·lació.**
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Joan Tomàs Roca](./joan-tomas-roca.md), [Esteve Dolsa](./esteve-dolsa.md), [Francesc Gaset](./francesc-gaset.md) — la resta del tir.

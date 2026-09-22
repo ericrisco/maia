@@ -80,7 +80,7 @@ altra fitxa del corpus.
 
 > **Auditat el 2026-09-13.** **El segon buit era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa. **És el mateix cas a vint-i-nou
-> fitxes de futbolistes** — vegeu [futbol](./README.md).
+> fitxes de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Els anys i els partits de cada club.** — **`obert`, i confirmat com a
   excepció.** **El bolcat té els camps de club buits**: no és que no s'hagin
@@ -96,12 +96,12 @@ altra fitxa del corpus.
   buit d'aquest corpus: és una propietat de qualsevol instantània**, i
   **l'enunciat sortia idèntic a vint-i-vuit fitxes d'aquesta branca.**
   **Viu escrit un sol cop**, amb les fonts que el tancarien i els drets que
-  ho impedeixen, a [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  ho impedeixen, a [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
   `El buit real no és «què fa ara»: és que els resultats de competició
   existeixen en fonts que no es poden reutilitzar sense permís, i això ja
   està registrat allà com a buit de permís.`
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

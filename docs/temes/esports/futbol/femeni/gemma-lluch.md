@@ -31,8 +31,8 @@ tags: [esports, futbol, dones, seleccio]
 
 ## El que falta
 
-- ~~**Els seus tres partits**, i la carrera de club. ~~— **`obert`, confirmat el 2026-09-13, i el motiu és de font, no de destil·lació**: **aquesta fitxa surt d'una llista de plantilla que es declara ella mateixa «non-exhaustive» i que porta etiqueta d'incompleta des de l'octubre del 2021** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md)). **Cap bolcat individual d'aquestes jugadores no és a `raw/`.** Vegeu [futbol femení](./README.md).
+- ~~**Els seus tres partits**, i la carrera de club. ~~— **`obert`, confirmat el 2026-09-13, i el motiu és de font, no de destil·lació**: **aquesta fitxa surt d'una llista de plantilla que es declara ella mateixa «non-exhaustive» i que porta etiqueta d'incompleta des de l'octubre del 2021** ([fitxa de font](../../../../fonts/wikipedia-futbol-femeni-andorra.md)). **Cap bolcat individual d'aquestes jugadores no és a `raw/`.** Vegeu [futbol femení](futbol-femeni-index-de-fitxes.md).
 ## Related
 
-- [Futbol femení](./README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
 - [La selecció femenina](./la-seleccio-femenina.md)

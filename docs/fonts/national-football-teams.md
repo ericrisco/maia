@@ -37,7 +37,7 @@ futbolistes andorrans** que els bolcats de la Viquipèdia no porten.
 ## El límit, mesurat
 
 **Coincidir amb Wikidata no vol dir estar verificat.** Vegeu la nota d'aquesta
-fitxa i [l'avís a la branca de futbol](../temes/esports/futbol/README.md#els-altres-cinquanta-tres):
+fitxa i [l'avís a la branca de futbol](../temes/esports/futbol/futbol-index-de-fitxes.md#els-altres-cinquanta-tres):
 **quan totes dues fonts diuen «Andorra la Vella», el corpus ho registra amb les
 dues fonts nomenades, sense pujar-ho de categoria a un fet acreditat per
 registre civil o federatiu.**

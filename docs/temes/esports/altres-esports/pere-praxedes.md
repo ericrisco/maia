@@ -69,4 +69,4 @@ altres figures esportives del país.**
 - [El bàsquet](../seleccions/el-basquet.md)
 - [Quino Colom](./quino-colom.md)
 - [El BC Andorra](./bc-andorra.md)
-- [Persones](../../persones/README.md)
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md)

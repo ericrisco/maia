@@ -29,7 +29,7 @@ consulta en línia. La fitxa de drets del harness, `02-DOCS/raw/sources/diec2-ie
 | Avís legal | Llegit complet el 13-09-2026 | `docs/raw/llengua-usos-linguistics/diec2-infolegal-2026-09-13.txt` |
 
 L'evidència **no es versiona**, per drets. Els URL i els hash són al
-[registre de la carpeta](../raw/llengua-usos-linguistics/README.md).
+[registre de la carpeta](../raw/llengua-usos-linguistics/fons-documental-de-llengua-servei-de-politica-linguistica.md).
 
 ## Lectures
 

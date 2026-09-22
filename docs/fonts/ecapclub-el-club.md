@@ -21,7 +21,7 @@ abast: >
 **El segon club d'esquí que el corpus pot identificar amb un esquiador
 concret**: [Roger Vidosa](../temes/esports/esqui/esquiadors/roger-vidosa.md),
 dins el buit sobre els clubs com a unitat organitzativa real de l'esport
-([esquí](../temes/esports/esqui/README.md)).
+([esquí](../temes/esports/esqui/esqui-index-de-fitxes.md)).
 
 ## Què en treu
 

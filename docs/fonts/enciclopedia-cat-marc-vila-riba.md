@@ -21,7 +21,7 @@ abast: >
 **Qui era Marc Vila i Riba**, subsíndic que «detecta l'atzucac
 institucional que porta a la Reformeta» i que prologa l'edició del
 Politar del 1983 — buit senyalat a la taula de
-[persones](../temes/persones/README.md).
+[persones](../temes/persones/persones-d-andorra-index-de-fitxes.md).
 
 ## Què en treu
 

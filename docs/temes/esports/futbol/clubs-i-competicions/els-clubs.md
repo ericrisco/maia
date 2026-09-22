@@ -249,7 +249,7 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
 
 ## Related
 
-- [Clubs i competicions](./README.md)
+- [Clubs i competicions](clubs-i-competicions-index-de-fitxes.md)
 - [La lliga](./la-lliga.md)
 - [El FC Andorra](./fc-andorra.md)
-- [Futbol](../README.md)
+- [Futbol](../futbol-index-de-fitxes.md)

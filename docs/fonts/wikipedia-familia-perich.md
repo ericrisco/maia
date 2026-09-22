@@ -48,6 +48,6 @@ polítics» i no diu quins.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)
 - [Camiade sobre migracions](./camiade-migracions.md)

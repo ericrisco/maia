@@ -183,7 +183,7 @@ oblidada:
 - ~~**Els menjadors escolars**, que gestionen les APA de cada centre
   ([l'ensenyament espanyol](./lensenyament-espanyol.md)) i sobre els quals el
   corpus no té res — **i que són, de fet, on mengen cada dia milers d'infants
-  andorrans**. Vegeu [gastronomia](../../gastronomia/README.md). ~~— **`obert`,
+  andorrans**. Vegeu [gastronomia](../../gastronomia/gastronomia-d-andorra-index-de-fitxes.md). ~~— **`obert`,
   confirmat el 2026-09-14**, **i el corpus hi afegeix el que sí que sap del
   mateix mecanisme**: **el Govern paga [l'esquí escolar](./lesqui-escolar.md)
   també als alumnes dels sistemes espanyol i francès**, mentre que **el menjador

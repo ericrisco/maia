@@ -110,4 +110,4 @@ fins ara no tenia. Vegeu [la selecció](../temes/esports/futbol/la-seleccio.md).
 | Tema | Fitxa |
 | --- | --- |
 | La selecció que guanya més | [La selecció femenina](../temes/esports/futbol/femeni/la-seleccio-femenina.md) |
-| Les jugadores | [Futbol femení](../temes/esports/futbol/femeni/README.md) |
+| Les jugadores | [Futbol femení](../temes/esports/futbol/femeni/futbol-femeni-index-de-fitxes.md) |

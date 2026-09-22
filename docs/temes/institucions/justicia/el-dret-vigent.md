@@ -18,7 +18,7 @@ tags: [justicia, dret, legislacio, institucions, constitucio-1993, segle-xxi]
 **104 normes amb rang de llei. 8.956 articles.** Això és el dret escrit amb què
 funciona Andorra, en text consolidat
 ([font](../../../fonts/jurisprudencia-ad.md); l'índex complet, a
-[`docs/raw/lleis/`](../../../raw/lleis/README.md)).
+[`docs/raw/lleis/`](../../../raw/lleis/legislacio-andorrana-vigent.md)).
 
 | Branca | Normes | Articles | % dels articles |
 | --- | ---: | ---: | ---: |

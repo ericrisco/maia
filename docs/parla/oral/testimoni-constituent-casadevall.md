@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, canillo, transcripcio-
 
 **Tanda 26 de parla.** Entrevista del Consell General amb **Enric Casadevall Medrano**,
 conseller general de **Canillo** al Consell Constituent, **15 min 56 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-casadevall/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-casadevall/testimoni-del-consell-constituent-enric-casadevall-medrano.md)).
 
 ## Avís
 

@@ -72,6 +72,6 @@ Verdú ho fa.
 
 | Tema | Fitxa |
 | --- | --- |
-| Els esquiadors i la gent de neu | [Els esquiadors](../temes/esports/esqui/esquiadors/README.md) |
-| Els olímpics d'estiu, un per un | [Els olímpics d'estiu](../temes/esports/estiu/README.md) |
+| Els esquiadors i la gent de neu | [Els esquiadors](../temes/esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md) |
+| Els olímpics d'estiu, un per un | [Els olímpics d'estiu](../temes/esports/estiu/els-olimpics-d-estiu-index-de-fitxes.md) |
 | La llista d'abanderats | [Els abanderats](../temes/esports/competicio/els-abanderats.md) |

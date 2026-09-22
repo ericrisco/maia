@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, sant-julia-de-loria, t
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Ladislau Baró Solà**,
 conseller general de **Sant Julià de Lòria** al Consell Constituent, **41 min 32 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-baro/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-baro/testimoni-del-consell-constituent-ladislau-baro-sola.md)).
 
 ## Avís
 

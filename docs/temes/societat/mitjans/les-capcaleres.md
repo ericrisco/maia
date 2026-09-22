@@ -235,7 +235,7 @@ contrastat la seqüència completa amb la ponència original.
 ## Related
 
 - [La censura de premsa](./la-censura-de-premsa.md) — per què tot això va tan tard.
-- [Mitjans](./README.md) — la branca.
+- [Mitjans](mitjans-index-de-fitxes.md) — la branca.
 - [RTVA](./rtva.md) — l'audiovisual públic.
 - [Per on van entrar les idees](../../historia/democratitzacio/per-on-van-entrar-les-idees.md) — les capçaleres de fora.
 - [Guillem d'Areny i Plandolit](../../historia/segle-xix/guillem-dareny-plandolit.md) — la casa que treu la primera revista d'Andorra.

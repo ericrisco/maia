@@ -68,7 +68,7 @@ lectura de la font.
 
 | Tema | Fitxa |
 | --- | --- |
-| La subbranca sencera d'escacs | [Escacs](../temes/esports/escacs/README.md) |
+| La subbranca sencera d'escacs | [Escacs](../temes/esports/escacs/escacs-index-de-fitxes.md) |
 | Les federacions del país | [El Comitè Olímpic Andorrà](../temes/esports/competicio/el-comite-olimpic.md) |
 | Dos títols mundials que el corpus no tenia | [L'hoquei sobre patins](../temes/esports/seleccions/lhoquei-patins.md) |
 | La selecció més nova | [L'handbol](../temes/esports/seleccions/lhandbol.md) |

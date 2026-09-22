@@ -98,7 +98,7 @@ anys de diferència entre les dues banderes**. Vegeu
   petit, Esteve Tomàs,
   va córrer l'eslàlom gegant als Jocs d'Hivern de 1976** — **els mateixos Jocs
   d'hivern de l'any en què ell debutava als d'estiu.** Vegeu
-  [l'esquí](../esqui/README.md).~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
+  [l'esquí](../esqui/esqui-index-de-fitxes.md).~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**El tir andorrà**: federació, camps, quanta gent. **El tir és l'esport amb
   què Andorra debuta als Jocs el 1976 i el corpus no en té cap fitxa.**~~ —
   **`parcial` el 18-09-2026**: **la Federació Andorrana de Tir (FAT)
@@ -110,7 +110,7 @@ anys de diferència entre les dues banderes**. Vegeu
 
 ## Related
 
-- [Els olímpics d'estiu](./README.md)
+- [Els olímpics d'estiu](els-olimpics-d-estiu-index-de-fitxes.md)
 - [Andorra als Jocs Olímpics](../competicio/andorra-als-jocs-olimpics.md)
 - [Els abanderats](../competicio/els-abanderats.md)
 - [Esteve Dolsa](./esteve-dolsa.md) i [Francesc Gaset](./francesc-gaset.md) — els altres tiradors.

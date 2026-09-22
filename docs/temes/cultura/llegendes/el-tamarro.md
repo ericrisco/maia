@@ -68,7 +68,7 @@ diu tant de la societat que la feia com de qui la rebia.**
 
 **Això dialoga amb
 [la piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md) i
-amb [les convencions socials](../../vida-quotidiana/convencions-socials/README.md).**
+amb [les convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials-index-de-fitxes.md).**
 
 ## La segona vida: de broma cruel a mascota i reclam turístic
 
@@ -78,7 +78,7 @@ alguna cosa.**
 ### 1991: mascota dels Jocs dels Petits Estats
 
 **En Tamarro va ser la mascota dels
-[Jocs dels Petits Estats d'Europa](../../esports/competicio/README.md) del 1991,
+[Jocs dels Petits Estats d'Europa](../../esports/competicio/competicio-index-de-fitxes.md) del 1991,
 amb seu a Andorra la Vella.**
 
 ### Avui: itinerari per a la mainada
@@ -153,4 +153,4 @@ visites.**
 - [Les llegendes](./llegendes.md)
 - [La piràmide de prestigi](../../societat/immigracio/la-piramide-de-prestigi.md) — qui és foraster i qui no.
 - [El minairó](./el-minairo.md) — l'altra criatura andorrana.
-- [Els Jocs dels Petits Estats](../../esports/competicio/README.md)
+- [Els Jocs dels Petits Estats](../../esports/competicio/competicio-index-de-fitxes.md)

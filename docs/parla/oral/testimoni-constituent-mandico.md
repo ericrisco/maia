@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, canillo, marcadors-dis
 **Tanda 3 de parla.** Entrevista del Consell General amb **Rosa Maria Mandicó
 Alcobé**, consellera general de Canillo al Consell Constituent, publicada el
 **2024-12-18**, **21 min 8 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-mandico/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-mandico/testimoni-del-consell-constituent-rosa-maria-mandico-alcobe.md)).
 
 ## Aquesta és la primera parla espontània del corpus
 

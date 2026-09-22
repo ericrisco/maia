@@ -64,7 +64,7 @@ d'evitar.
   **transcripcions fetes per andorrans**. **Aquesta és la porta més bona i està
   identificada.**
 
-Tot plegat és [parla espontània](../../../parla/espontani/README.md), fase 3.
+Tot plegat és [parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md), fase 3.
 
 ## Related
 

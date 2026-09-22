@@ -54,5 +54,5 @@ dues.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Societat Andorrana de Ciències](./societat-andorrana-ciencies.md) — editora de dos dels articles que inventaria.

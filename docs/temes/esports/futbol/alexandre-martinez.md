@@ -64,7 +64,7 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 - ~~**On va néixer.**~~ — **`resolt` el 18-09-2026**: **Andorra la Vella**,
   segons **Wikidata i National Football Teams**, que hi coincideixen, igual que
   en el nom complet i la data. Vegeu [l'avís sobre aquesta sèrie de
-  buits](./README.md#els-altres-cinquanta-tres).
+  buits](futbol-index-de-fitxes.md#els-altres-cinquanta-tres).
 - ~~**Qui és Alexandre Martínez Palau.**~~ — **`resolt` el 18-09-2026**: **ja té
   fitxa al corpus**,
   [Alexandre «Àlex» Martínez i Palau](./alex-martinez.md) —**davanter
@@ -75,5 +75,5 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

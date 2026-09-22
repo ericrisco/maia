@@ -227,8 +227,8 @@ l'època que aquesta fitxa explica. **El tanca per als nou darrers anys**, i
 - ~~**I sobretot testimoni oral** — que és material de la fase 3 i valdria molt més
   que qualsevol resum. **Buit registrat, i segueix sent el més valuós de la
   branca.** **La novel·la de Margenat no el substitueix.**
-  Vegeu [parla](../../../parla/README.md).~~ — **`parcial` el 21-09-2026**: la
-  branca ja té documentació escrita fins al 2025 i la [branca de parla](../../../parla/README.md)
+  Vegeu [parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md).~~ — **`parcial` el 21-09-2026**: la
+  branca ja té documentació escrita fins al 2025 i la [branca de parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md)
   identifica el tipus de testimoni que falta. **No hi ha encara enregistraments
   orals amb llicència i consentiment que permetin tancar aquest buit.**
 

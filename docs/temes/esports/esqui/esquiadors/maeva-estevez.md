@@ -72,7 +72,7 @@ andorrans són caigudes**, i que això forma part de la disciplina.
   Baux, 2 de març del 1995.**
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Lluís Marín Tarroch](./lluis-marin-tarroch.md) — l'altre del surf de neu.

@@ -71,7 +71,7 @@ d'aquesta branca.`
 
 ~~L'evolució històrica —quan arriba el primer telecadira, quan es consolida el
 model—~~ **tancat el 2026-09-13**:
-**[les estacions d'esquí](./estacions/README.md)**, des del primer telesquí del
+**[les estacions d'esquí](estacions/les-estacions-d-esqui-index-de-fitxes.md)**, des del primer telesquí del
 **1956** fins a la desaparició de la marca Vallnord el **2022**. **Hi surt que
 les estacions andorranes no són ni públiques ni privades, sinó comunals**, i que
 **una empresa andorrana, PGI, gestiona estacions d'esquí a nou països.**
@@ -183,5 +183,5 @@ gent ve.**
 - [Treball](../../societat/treball/treball.md) — els temporers.
 - [L'esquí escolar](../../societat/educacio/lesqui-escolar.md) — la neu com a assignatura obligatòria.
 - [L'Efpem](../../esports/formacio-esportiva/lefpem.md) — quants monitors forma el país, i de què.
-- [Esports](../../esports/README.md)
+- [Esports](../../esports/esports-d-andorra-index-de-fitxes.md)
 - [L'aigua i la neu](../../territori/clima-i-muntanya/laigua-i-la-neu.md) — el 6,67% de l'aigua consumida del país va a fabricar neu.

@@ -287,7 +287,7 @@ estadi.**
 
 ## Related
 
-- [Futbol](../README.md)
+- [Futbol](../futbol-index-de-fitxes.md)
 - [La copa](./la-copa.md)
 - [El FC Andorra](./fc-andorra.md)
 - [La federació](./la-federacio.md)

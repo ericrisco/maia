@@ -16,7 +16,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, andorra-la-vella, tran
 **Tanda 11 de parla.** Entrevista del Consell General amb **Miquel Armengol
 Pons**, conseller general d'**Andorra la Vella** al Consell Constituent,
 **12 min 24 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-armengol/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-armengol/testimoni-del-consell-constituent-miquel-armengol-pons.md)).
 
 **Amb aquesta peça, el corpus de parla té veu de les set parròquies.**
 

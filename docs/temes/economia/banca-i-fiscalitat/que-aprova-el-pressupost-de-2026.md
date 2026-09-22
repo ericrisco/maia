@@ -66,7 +66,7 @@ exteriors. **Hipòtesi del corpus:** la diferència respon al tractament
 d'aquests ingressos financers. L'aritmètica concorda, però no s'ha
 trobat una nota que expliqui expressament aquesta correspondència.
 ([Llibre](../../../raw/pressupost-2026/llibre-llei-pressupost-2026.pdf), p. 93;
-[comprovació](../../../raw/pressupost-2026/README.md).)
+[comprovació](../../../raw/pressupost-2026/pressupost-inicial-de-2026-fora-del-corpus.md).)
 
 ## Un perímetre més ampli que el Govern
 

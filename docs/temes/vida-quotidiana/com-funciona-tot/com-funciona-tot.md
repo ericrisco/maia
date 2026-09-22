@@ -98,7 +98,7 @@ d'abans de la Constitució.
 - ~~Com es demana hora, com es fa una reclamació, com es paga.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Buit registrat.** Aquesta branca no s'omple de la bibliografia: s'omple de
-[parla espontània](../../../parla/espontani/README.md) i d'observació.
+[parla espontània](../../../parla/espontani/parla-espontania-d-andorra.md) i d'observació.
 
 ## Related
 

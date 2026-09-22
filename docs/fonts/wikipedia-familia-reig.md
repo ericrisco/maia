@@ -29,7 +29,7 @@ font és el que hi ha de públic.**
 ## Què n'ha sortit
 
 - [Els Reig](../temes/economia/les-grans-families/els-reig.md)
-- La branca [les grans famílies](../temes/economia/les-grans-families/README.md)
+- La branca [les grans famílies](../temes/economia/les-grans-families/les-grans-families-index-de-fitxes.md)
 
 ## El que aporta i el corpus no tenia
 
@@ -53,5 +53,5 @@ citades.** **Les seves fonts tenen vint anys.**
 
 ## Related
 
-- [Les fonts](./README.md)
+- [Les fonts](index-de-fitxes-de-fonts-del-corpus.md)
 - [La Viquipèdia en català](./viquipedia-ca.md)

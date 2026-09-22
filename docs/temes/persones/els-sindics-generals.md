@@ -15,7 +15,7 @@ tags: [persones, politica, consell-general, sindicatura, edat-mitjana, segle-xx]
 
 ## El buit que això tanca
 
-El corpus tenia escrit, a [la portada de política](../politica/README.md):
+El corpus tenia escrit, a [la portada de política](../politica/politica-d-andorra-index-de-fitxes.md):
 
 > «**Els síndics generals.** En té **cinc noms solts** i cap llista.»
 
@@ -147,7 +147,7 @@ Aquí les dues fonts ja coincideixen en el gruix.
 
 **Dos noms d'aquesta taula són fonts del corpus, no només objectes seus**:
 **Josep Dallerès** i **Vicenç Mateu** van ser ponents de
-[la 31a Diada sobre el parlamentarisme](../politica/parlamentarisme/README.md).
+[la 31a Diada sobre el parlamentarisme](../politica/parlamentarisme/parlamentarisme-index-de-fitxes.md).
 **El corpus llegeix els síndics explicant la sindicatura.**
 
 ## Les contradiccions, registrades i no arbitrades
@@ -201,7 +201,7 @@ escriu aquí que la llista porta l'errata, perquè qui hi vagi la trobarà.
 
 ## Related
 
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)
 - [Els caps de Govern](./els-caps-de-govern.md) — l'altra meitat del càrrec, des del 1982.
 - [El Consell de la Terra](../institucions/consell-general/el-consell-de-la-terra.md) — el 1419.
 - [El Consell General](../institucions/consell-general/el-consell-general.md)

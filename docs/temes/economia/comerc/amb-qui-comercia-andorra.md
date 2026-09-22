@@ -237,7 +237,7 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
   manera diferent de la resta.~~ — **`parcial` el 2026-09-20**: l'[Acord
   duaner amb la CEE](../../../raw/relacions-exteriors/acord-duaner/bopa-1991-acord-duaner-cee.txt)
   estableix la unió duanera per als capítols **25–97** del Sistema Harmonitzat,
-  i el [README del bolcat estadístic](../../../raw/estadistica-api/resta-del-cataleg/README.md)
+  i el [README del bolcat estadístic](../../../raw/estadistica-api/resta-del-cataleg/la-resta-del-cataleg-api-del-departament-d-estadistica.md)
   confirma que el comerç exterior es publica per **capítol, país i quantitat**.
   Cap dels dos textos no documenta, però, si les sèries de valor separen o
   tracten de manera diferent els fluxos amb la UE; aquesta part continua oberta.
@@ -247,4 +247,4 @@ saltar.** **No és una millora de la indústria, és una caiguda del consum.**
 - [Tot el superàvit és el turisme](../transformacio-economica/tot-el-superavit-es-el-turisme.md) — la balança sencera.
 - [El vestit no ha pujat i el telèfon ha baixat](./el-vestit-no-ha-pujat-i-el-telefon-ha-baixat.md) — els preus.
 - [Quan el preu baixa](./quan-el-preu-baixa.md)
-- [Comerç](./README.md)
+- [Comerç](comerc-index-de-fitxes.md)

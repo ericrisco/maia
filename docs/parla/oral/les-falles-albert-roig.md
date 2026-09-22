@@ -15,7 +15,7 @@ tags: [parla, falles, sant-joan, patrimoni-immaterial, lexic-marcat, transcripci
 
 **Tanda 6 de parla.** Càpsula #34 d'Andorra Recerca + Innovació, publicada el
 **2020-05-28**, **23 min 17 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-34/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-34/capsula-34-les-falles-d-andorra-per-albert-roig.md)).
 
 ## La transcripció més neta del corpus
 
@@ -977,7 +977,7 @@ principi que un corrector destruiria la dada.
 3. ~~**Els noms propis cauen tots.** `Ramon Violani Simorra` per **Ramon Violant i
    Simorra**; `Salvador [?Armet]` i `[?Comte] de Carlet` sense verificar;
    `Cal [?Callehueta] del Puyal` sense identificar. **El corpus no els ha de
-   donar per bons.**~~ — **`parcial` el 2026-09-20**: [la càpsula #34](../../raw/parla/ari-capsula-34/README.md)
+   donar per bons.**~~ — **`parcial` el 2026-09-20**: [la càpsula #34](../../raw/parla/ari-capsula-34/capsula-34-les-falles-d-andorra-per-albert-roig.md)
    identifica correctament **Ramon Violant i Simorra** quan el parlant cita el
    text històric. **Salvador [?Armet]**, **[?Comte] de Carlet** i **Cal
    [?Callehueta] del Puyal** continuen sense verificar; no es resolen per

@@ -100,4 +100,4 @@ mostra com el club va convertir aquesta continuïtat en memòria institucional.
 - [Els dotze de la primera final del 2004](../esports/seleccions/els-dotze-de-la-primera-final-del-2004.md)
 - [El bàsquet](../esports/seleccions/el-basquet.md)
 - [El BC Andorra](../esports/altres-esports/bc-andorra.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -20,7 +20,7 @@ Nacional d'Andorra**, **71 articles**, signat per **Marc Forné Molné**, cap de
 Govern; **i el Decret del 20 d'abril del 2016 de modificació parcial** del
 mateix reglament, signat per **Antoni Martí Petit**, que en **reescriu vuit
 preceptes**: els articles **7.o, 19.2, 19.3, 26, 31, 41, 42 i 43**
-([evidència](../../../raw/historia-arxiu/README.md), [font](../../../fonts/bopa-ad.md)).
+([evidència](../../../raw/historia-arxiu/evidencia-historia-i-arxiu-bopa.md), [font](../../../fonts/bopa-ad.md)).
 Amb ells, el **decret del 6 d'abril del 2005** que aprova el **Reglament del
 Sistema d'Arxius i de l'Àrea d'Arxius del Govern**, **32 articles**, del qual
 aquí només se'n llegeix l'exposició de motius i els articles 1 i 2.

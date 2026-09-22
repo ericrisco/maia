@@ -62,12 +62,12 @@ bolcat de la mateixa font que ha donat aquesta fitxa:
 
 > **Auditat el 2026-09-13.** **El buit de la carrera era fals**: la resposta era al
 > bolcat de la font pròpia d'aquesta fitxa, dins del corpus. **És el mateix cas a
-> quaranta-una fitxes més de futbolistes** — vegeu [futbol](./README.md).
+> quaranta-una fitxes més de futbolistes** — vegeu [futbol](futbol-index-de-fitxes.md).
 
 - ~~**Per què va anar als Estats Units** i amb quina beca.~~ — **`parcial`**: [El Periòdic d'Andorra (7 de maig de 2019)](../../../raw/web/esport/futbol/aleix-viladot/periodic-viladot-lakeland-2019.html) recull que va enviar els seus vídeos al Lakeland Tropics, que buscava una lliga competitiva i que hi volia agafar experiència; també documenta el retorn posterior al Marshalltown Community College. La peça no documenta cap beca ni el motiu complet d'anar al sistema universitari dels Estats Units.
 - ~~**La resta de la carrera.**~~ — **`resolt`**: la taula de dalt en dona **els anys, els clubs, els partits i els gols de cada etapa**.
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

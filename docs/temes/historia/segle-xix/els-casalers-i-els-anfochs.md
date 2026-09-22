@@ -69,7 +69,7 @@ La font dona la causa política que el corpus no tenia:
 
 **Això tanca a mitges un buit explícit del corpus.** La taula de persones tenia
 **Josep Caixal** com a «bisbe que aprova la Nova Reforma, 1866» i **prou**
-([persones](../../persones/README.md)). Ara se'n sap **de quin costat era**.
+([persones](../../persones/persones-d-andorra-index-de-fitxes.md)). Ara se'n sap **de quin costat era**.
 
 I **explica una contradicció que el corpus tenia sense resoldre**: com pot ser
 que el bisbe que **aprova** la reforma democratitzadora del 1866 sigui el mateix

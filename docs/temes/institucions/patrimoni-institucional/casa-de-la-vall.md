@@ -62,7 +62,7 @@ Aquesta fitxa té una paraula ben documentada i cap dada de l'edifici:
 > **1580** al portal, «*tal vez la de la erección*».** Vegeu [els consellers hi
 > dormien](./els-consellers-hi-dormien.md).
 - ~~Quan el Consell General en va marxar a la seu nova i què s'hi fa ara.~~ —
-  **`parcial` el 21-09-2026**: [Museus i arxius](../../cultura/museus-i-arxius/museus/README.md)
+  **`parcial` el 21-09-2026**: [Museus i arxius](../../cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md)
   confirma que avui la Casa de la Vall és un **edifici històric visitable**, el
   segon més visitat del país després de Meritxell. Encara no consta en aquesta
   fitxa la data en què el Consell va marxar a la seu nova ni el règim actual de

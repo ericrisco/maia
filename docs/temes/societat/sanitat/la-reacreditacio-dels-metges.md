@@ -84,7 +84,7 @@ estudiar sense sortir del país**:
 - **Actualització:** avaluació en serveis sanitaris
 
 **«Psicologia aplicada al rendiment esportiu» apareix al catàleg sanitari d'un
-país de muntanya i neu.** Vegeu [esports](../../esports/README.md).
+país de muntanya i neu.** Vegeu [esports](../../esports/esports-d-andorra-index-de-fitxes.md).
 
 ### Fora, per conveni
 

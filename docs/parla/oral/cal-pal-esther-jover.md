@@ -14,7 +14,7 @@ tags: [parla, cases, ordino, patrimoni, lexic-marcat, possiblement-llegida, tran
 # Alberg és un sinònim de casa
 
 **Tanda 15 de parla.** Càpsula #49 d'Andorra Recerca + Innovació, **9 min 49 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-49/README.md)).
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-49/capsula-49-cal-pal-de-la-cortinada-per-esther-jover.md)).
 
 ## Avís doble
 

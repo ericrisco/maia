@@ -64,5 +64,5 @@ Gibraltar**, en el mateix partit on va marcar
 
 ## Related
 
-- [Futbol femení](./README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
 - [La selecció femenina](./la-seleccio-femenina.md)

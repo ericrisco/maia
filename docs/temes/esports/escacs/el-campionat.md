@@ -139,11 +139,11 @@ quatre.
   [Qui són, i d'on venen](#qui-son-i-don-venen). **El que segueix obert**: **els
   anys de naixement i la trajectòria de Robert Alomà, Joan Mellado i Jordi
   Fluvià**, i **tot Serni Ribera i Felipe Porras, dels quals només hi ha el
-  palmarès.** **Bessó** a [escacs](./README.md), que declara el mateix buit,
+  palmarès.** **Bessó** a [escacs](escacs-index-de-fitxes.md), que declara el mateix buit,
   ja `parcial`, amb els títols de cadascun.
 
 ## Related
 
-- [Escacs](./README.md)
+- [Escacs](escacs-index-de-fitxes.md)
 - [La federació](./la-federacio.md)
 - [Òscar de la Riva](./oscar-de-la-riva.md)

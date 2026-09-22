@@ -21,7 +21,7 @@ abast: >
 
 **Qui és Maria Reig i Moles**, marcada com a **«buit prioritari»** a
 [els Reig](../temes/economia/les-grans-families/els-reig.md) i des de
-[la branca de les dones](../temes/societat/dones/README.md).
+[la branca de les dones](../temes/societat/dones/dones-index-de-fitxes.md).
 
 ## Què en treu
 

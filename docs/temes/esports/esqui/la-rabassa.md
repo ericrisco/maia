@@ -56,13 +56,13 @@ col·lectives i privades i lloguer d'equip des dels 5 anys —
    més i el xalet; el corpus conserva la distinció entre inici de l'estació i
    ampliacions posteriors.
 3. ~~**La resta d'estacions andorranes**, una per una.~~ — **`resolt` el
-   2026-09-19**: la subbranca d'[estacions](../../economia/turisme-i-neu/estacions/README.md)
+   2026-09-19**: la subbranca d'[estacions](../../economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md)
    ja té fitxes pròpies per a **Grandvalira, Vallnord, PGI i Naturland**, i La
    Rabassa queda documentada aquí. El buit separat de visitants, facturació,
    ocupació i llocs de treball continua obert a l'índex.
 
 ## Related
 
-- [Esquí](../README.md)
+- [Esquí](../esports-d-andorra-index-de-fitxes.md)
 - [Irineu Esteve Altimiras](../../persones/irineu-esteve-altimiras.md)
 - [Sant Julià de Lòria](../../territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md)

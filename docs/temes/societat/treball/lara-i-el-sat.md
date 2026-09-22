@@ -49,7 +49,7 @@ identifica **Jordi Sasplugas** com a impulsor, des de l'Hotel Mirador, i
 recerca descriu un entorn d'intel·lectuals i metges exiliats, però encara no en
 tenim una nòmina completa.
 
-([font web local](../../../raw/web/cultura/centre-cultural/README.md) ·
+([font web local](../../../raw/web/cultura/centre-cultural/centre-cultural-d-andorra-19751980-historia-i-activitat-cultural.md) ·
 [article d'El Periòdic d'Andorra](https://elperiodic.ad/cultura/un-segell-per-recordar-el-centre-cultural-dandorra-un-espai-de-llibertat-en-temps-dificils/))
 
 Val la pena creuar-ho amb

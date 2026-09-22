@@ -90,7 +90,7 @@ delegació d'hivern d'Andorra dels anys noranta són, en gran part, ells tres.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Victor Gómez](./victor-gomez.md) i [Vicky Grau](./vicky-grau.md) — la seva generació.

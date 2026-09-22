@@ -53,7 +53,7 @@ Dos partits més consten com a formacions vives sense representació
 | **SDP** | **Socialdemocràcia i Progrés** | Víctor Naudi | socialdemocràcia |
 
 **Víctor Naudi i Zamora és un dels ponents de la 31a Diada** que sosté
-[la branca de parlamentarisme](../parlamentarisme/README.md) sencera: hi
+[la branca de parlamentarisme](../parlamentarisme/parlamentarisme-index-de-fitxes.md) sencera: hi
 consta com a conseller general. **La font del corpus i el mapa de partits es
 toquen en el mateix nom.**
 
@@ -110,7 +110,7 @@ contradicció escrita perquè es vegi que la font té parts desactualitzades.
 
 ## Related
 
-- [Partits polítics](./README.md)
+- [Partits polítics](partits-politics-index-de-fitxes.md)
 - [L'arbre dels partits](./larbre-dels-partits.md) — d'on surten.
 - [Els caps de Govern](../../persones/els-caps-de-govern.md)
 - [Quants diputats](../parlamentarisme/quants-diputats.md) — per què són 28.

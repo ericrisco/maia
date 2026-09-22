@@ -43,4 +43,4 @@ es va inaugurar el **2004**.
 ## Related
 
 - [El Museu del Perfum](../cultura/museus-i-arxius/museus/el-museu-del-perfum.md)
-- [Persones](./README.md)
+- [Persones](persones-d-andorra-index-de-fitxes.md)

@@ -269,7 +269,7 @@ partits o més amb Andorra.**
 - ~~**La selecció femenina**, que existeix i **el corpus no en té ni un nom**.~~
   — **`incorrecte`, i de llarg.** **El corpus en té la fitxa i quaranta noms**:
   **[la selecció femenina](./femeni/la-seleccio-femenina.md)** i **quaranta
-  fitxes de jugadora** a [femení](./femeni/README.md). **I la dada que en surt
+  fitxes de jugadora** a [femení](femeni/futbol-femeni-index-de-fitxes.md). **I la dada que en surt
   hauria de pujar al cos d'aquest article**: **dotze victòries en quaranta-set
   partits** — **la selecció femenina andorrana guanya quatre vegades més sovint
   que la masculina**, **en un país sense lliga femenina.**
@@ -285,7 +285,7 @@ partits o més amb Andorra.**
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La Constitució de 1993](../../historia/constitucio-1993/constitucio-1993.md) — per què la selecció no existeix abans.
 - [La composició per nacionalitats](../../societat/demografia/la-composicio-per-nacionalitats.md)
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

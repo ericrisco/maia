@@ -17,7 +17,7 @@ tags: [immigracio, identitat, llengua, demografia, metode, correccio]
 
 **Joan Becat** era, fins avui, **el buit prioritari número u de la taula de
 persones del corpus**: «citat nou cops, cap fitxa»
-([persones](../../persones/README.md)). Geògraf de la Universitat de Perpinyà,
+([persones](../../persones/persones-d-andorra-index-de-fitxes.md)). Geògraf de la Universitat de Perpinyà,
 autor d'una tesi en set volums sobre els Pirineus mediterranis, **el corpus el
 feia servir constantment i no havia llegit mai el seu text més citat**.
 
@@ -236,4 +236,4 @@ diferents.**
 - [RTVA](../mitjans/rtva.md) — les eines que no hi havia.
 - [La tria de llengua](../../vida-quotidiana/convencions-socials/la-tria-de-llengua.md) — la llengua del carrer.
 - [L'Andorra dels anys cinquanta](../../vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md) — qui el va citar el 1997, i com.
-- [Persones](../../persones/README.md) — el buit que aquesta fitxa tanca.
+- [Persones](../../persones/persones-d-andorra-index-de-fitxes.md) — el buit que aquesta fitxa tanca.

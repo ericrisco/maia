@@ -130,7 +130,7 @@ i millora el 19è de [Vicky Grau](./vicky-grau.md) a Nagano 1998.
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [Vicky Grau](./vicky-grau.md) — la que tenia el millor resultat abans.

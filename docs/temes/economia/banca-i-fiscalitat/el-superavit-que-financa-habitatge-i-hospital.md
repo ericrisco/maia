@@ -63,7 +63,7 @@ del corpus:** sumar-lo una altra vegada als 40,15 milions duplicaria
 els 4,4 milions que ja hi figuren. La igualtat es pot comprovar en
 els articles; falta contrastar-la amb l'estat consolidat d'execució.
 ([Llei](../../../raw/pressupost-2026/bopa-llei-10-2026.pdf), arts. 4–6,
-p. 4; [aritmètica](../../../raw/pressupost-2026/README.md).)
+p. 4; [aritmètica](../../../raw/pressupost-2026/pressupost-inicial-de-2026-fora-del-corpus.md).)
 
 L'exposició de motius associa les inversions sanitàries a un robot
 quirúrgic de 2 milions, una ressonància de 2,4 milions —equip d'1,6
@@ -92,7 +92,7 @@ nova redacció de l'art. 26.2, p. 3.)
   Llei 10/2026 i les partides que afegeix al pressupost de 2026 s’han llegit i
   contrastat. No s’ha reconstruït la totalitat de les modificacions posteriors
   ni la vigència consolidada de les lleis afectades.
-- ~~No s'han llegit la liquidació de 2025, l'execució de 2026, els contractes, les adjudicacions ni possibles redistribucions.~~ — **`parcial` el 21-09-2026**: la nota [A134 d'execució pressupostària](../../../raw/estadistica-finances/README.md) del Departament d'Estadística aporta execució trimestral del **3r trimestre de 2025** i del **1r trimestre de 2026**. No és la liquidació anual i no inclou contractes, adjudicacions ni possibles redistribucions.
+- ~~No s'han llegit la liquidació de 2025, l'execució de 2026, els contractes, les adjudicacions ni possibles redistribucions.~~ — **`parcial` el 21-09-2026**: la nota [A134 d'execució pressupostària](../../../raw/estadistica-finances/execucio-del-pressupost-del-sector-public-evidencia-estadistica.md) del Departament d'Estadística aporta execució trimestral del **3r trimestre de 2025** i del **1r trimestre de 2026**. No és la liquidació anual i no inclou contractes, adjudicacions ni possibles redistribucions.
 - ~~**Lectura de justificacions parcialment tancada**~~ — **`parcial` el
   19-09-2026**: la
   [memòria de Salut i l'informe d'Intervenció](../../societat/sanitat/que-justificava-la-inversio-hospitalaria-de-2026.md)

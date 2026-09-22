@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, canillo, transcripcio-
 
 **Tanda 24 de parla.** Entrevista del Consell General amb **Miquel Naudi Casal**,
 conseller general de **Canillo** al Consell Constituent, **8 min 23 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-naudi/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-naudi/testimoni-del-consell-constituent-miquel-naudi-casal.md)).
 
 ## Avís
 

@@ -72,7 +72,7 @@ Barcelona amb el seu pare**.
 > català natiu**.»
 
 **El corpus reté aquesta frase sencera** i la porta a
-[llengua](../../llengua/README.md): **una esportista andorrana de vint anys amb
+[llengua](../../llengua/llengua-d-andorra-index-de-fitxes.md): **una esportista andorrana de vint anys amb
 cinc llengües, i el català com a materna.**
 
 **És, en una sola persona, el retrat de
@@ -143,5 +143,5 @@ l'Open d'Austràlia.
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

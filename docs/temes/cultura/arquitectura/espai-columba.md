@@ -36,4 +36,4 @@ visites guiades, audioguia, tallers escolars, itineraris, botiga i accés adapta
 
 - [Santa Coloma](./santa-coloma.md)
 - [El romànic andorrà](./romanic.md)
-- [Els museus d'Andorra](../museus-i-arxius/museus/README.md)
+- [Els museus d'Andorra](../museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md)

@@ -91,7 +91,7 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
   repetia a quinze fitxes més de la branca, amb el mateix argument que
   les vint-i-vuit de «què fa ara».** **Viu escrit un sol cop**, amb les
   fonts que el tancarien i els drets que ho impedeixen, a
-  [els esports](../README.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
+  [els esports](../esports-d-andorra-index-de-fitxes.md#la-via-que-tancaria-dos-cents-buits-daquesta-branca-i-per-que-esta-tancada).
 - ~~**El bàsquet femení andorrà**: hi ha **tres seleccions femenines** i **cap
   fitxa**.~~ `resolt` **el 2026-09-18, i el compte era curt**: **no en són tres,
   en són sis** —bàsquet, bàsquet 3x3, futbol, hoquei gel, rugbi i voleibol—
@@ -102,5 +102,5 @@ Risco](../../persones/eric-risco.md)**, judoka i jugador de rugbi.
 
 ## Related
 
-- [Altres esports](./README.md)
-- [Esports](../README.md)
+- [Altres esports](altres-esports-index-de-fitxes.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)

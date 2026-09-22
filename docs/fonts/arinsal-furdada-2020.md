@@ -19,7 +19,7 @@ notes: >
 
 [PDF](../raw/allaus/arinsal-furdada-2020.pdf),
 [text](../raw/allaus/arinsal-furdada-2020.txt) i
-[detall de procedència, lectura i límits](../raw/allaus/README.md).
+[detall de procedència, lectura i límits](../raw/allaus/allaus-fora-del-corpus.md).
 
 Lectura: [Què es va mesurar a l'allau d'Arinsal](../temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal.md).
 

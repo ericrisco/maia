@@ -37,5 +37,5 @@ tags: [esports, futbol, seleccio]
 
 ## Related
 
-- [Futbol](./README.md)
+- [Futbol](futbol-index-de-fitxes.md)
 - [La selecció](./la-seleccio.md)

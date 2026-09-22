@@ -82,5 +82,5 @@ l'absoluta del seu** — un cas que no té paral·lel a la resta de la branca.
 
 ## Related
 
-- [Futbol femení](./README.md)
+- [Futbol femení](futbol-femeni-index-de-fitxes.md)
 - [La selecció femenina](./la-seleccio-femenina.md)

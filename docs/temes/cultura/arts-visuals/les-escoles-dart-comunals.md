@@ -213,7 +213,7 @@ i [la formació d'adults](../../societat/educacio/la-formacio-dadults.md).
   humanisticolingüística**. Això tanca que no existia en aquella fotografia;
   continua obert si es va crear després.
 - ~~**Si s'hi ensenya artesania tradicional** i quina — seria la porta oberta cap a
-  [artesania](../artesania/README.md).~~ — **`parcial` el 19-09-2026**: el
+  [artesania](../artesania/artesania-index-de-fitxes.md).~~ — **`parcial` el 19-09-2026**: el
   programa oficial 2023–2024 de l'Escola d'Art d'Andorra la Vella ofereix
   **ceràmica, joieria i restauració de mobles**
   ([evidència local](../../../raw/web/cultura/escoles-art/programa-escola-art-andorra-la-vella-2023-2024.txt)).

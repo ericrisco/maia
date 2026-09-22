@@ -34,12 +34,12 @@ declarava «els museus i les seves col·leccions» com a buit en una línia**, i
 | Dada | Fitxa |
 | --- | --- |
 | **El primer museu d'Andorra és del 1935**, privat, de zoologia, i **la col·lecció es va vendre a Barcelona el 1955** | [El primer museu](../temes/cultura/museus-i-arxius/museus/el-primer-museu.md) |
-| **El Museu Nacional d'Andorra és el tronc d'una xarxa dissenyada el 1994 i no s'ha construït mai** | [Els museus](../temes/cultura/museus-i-arxius/museus/README.md) |
+| **El Museu Nacional d'Andorra és el tronc d'una xarxa dissenyada el 1994 i no s'ha construït mai** | [Els museus](../temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md) |
 | **El Museu Postal es va desmuntar el 1991 per l'elaboració de la Constitució** | [El Museu Postal](../temes/cultura/museus-i-arxius/museus/el-museu-postal.md) |
 | **Andorra va tenir prop de 10 fargues i 5 mines de carbó** | [La Farga Rosell](../temes/cultura/museus-i-arxius/museus/la-farga-rosell.md) |
 | **La fàbrica de tabac Reig va funcionar del 1909 al 1957** | [El Museu del Tabac](../temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md) |
 | **Júlia Bonet obre una perruqueria el 1939** que acaba sent Perfumeries Júlia | [El Museu del Perfum](../temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md) |
-| **La Casa de la Vall és el segon edifici històric més visitat**, després del santuari de Meritxell | [Els museus](../temes/cultura/museus-i-arxius/museus/README.md) |
+| **La Casa de la Vall és el segon edifici històric més visitat**, després del santuari de Meritxell | [Els museus](../temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md) |
 | **Andorra entra a l'ICOM el 1986** | ídem |
 | **Tramoulet va signar acords amb el govern de Franco per conservar Ràdio Andorra** | [El Museu de la Ràdio](../temes/cultura/museus-i-arxius/museus/el-museu-de-la-radio.md) |
 

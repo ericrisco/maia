@@ -15,7 +15,7 @@ tags: [parla, testimoni, historia-oral, constitucio-1993, encamp, transcripcio-n
 
 **Tanda 28 de parla.** Entrevista del Consell General amb **Jordi Torres Alís**,
 conseller general de **Encamp** al Consell Constituent, **4 min 10 s**
-([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-torresalis/README.md)).
+([font](../../fonts/consell-general-constituent.md) · [material de partida](../../raw/parla/cg-constituent-torresalis/testimoni-del-consell-constituent-jordi-torres-alis.md)).
 
 ## Avís
 

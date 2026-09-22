@@ -311,8 +311,8 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   contrari de la veritat.** **Hi ha
   [Andorra als Jocs Olímpics](./andorra-als-jocs-olimpics.md),
   [els abanderats](./els-abanderats.md), trenta-una fitxes
-  d'[olímpics d'estiu](../estiu/README.md) i trenta-una
-  d'[esquiadors](../esqui/esquiadors/README.md).**
+  d'[olímpics d'estiu](../estiu/els-olimpics-d-estiu-index-de-fitxes.md) i trenta-una
+  d'[esquiadors](../esqui/esquiadors/els-esquiadors-index-de-fitxes.md).**
 - ~~**Els Jocs de 1991 i 2005 organitzats a Andorra**: com es van fer, quines
   instal·lacions, què hi va costar.~~ — **`resolt` el 18-09-2026, com a duplicat
   intern**: la pregunta continua a l'entrada canònica del final, que conserva
@@ -344,7 +344,7 @@ I la seva conclusió sobre què són aquests Jocs per al país:
   actualitzat el 2026-09-19**: la referència ja està localitzada com a
   bibliografia dels Jocs, però el corpus encara no n'ha consultat el contingut.
 - ~~**L'himne andorrà**: el corpus no té fitxa de *El gran Carlemany*. Vegeu
-  [símbols](../../institucions/simbols/README.md).~~ — **`resolt`**: **la fitxa
+  [símbols](../../institucions/simbols/simbols-index-de-fitxes.md).~~ — **`resolt`**: **la fitxa
   existeix**, [El gran Carlemany](../../institucions/simbols/el-gran-carlemany.md).
 - ~~**Els Jocs de 1991 i 2005 organitzats a Andorra**~~ — **`parcial` pel que fa a
   les xifres**: **aquesta mateixa fitxa ja té 14 medalles el 1991 i 38 el 2025 i
@@ -359,7 +359,7 @@ I la seva conclusió sobre què són aquests Jocs per al país:
 
 ## Related
 
-- [Esports](../README.md)
+- [Esports](../esports-d-andorra-index-de-fitxes.md)
 - [L'Efpem](../formacio-esportiva/lefpem.md)
 - [L'esquí escolar](../../societat/educacio/lesqui-escolar.md)
 - [Andorra com a microestat](../../institucions/petits-estats/andorra-com-a-microestat.md)

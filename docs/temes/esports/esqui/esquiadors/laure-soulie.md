@@ -94,8 +94,8 @@ afirma parentiu i registra la coincidència.**
 
 ## Related
 
-- [Els esquiadors](./README.md)
+- [Els esquiadors](els-esquiadors-index-de-fitxes.md)
 - [Cinquanta anys d'esquí olímpic](../cinquanta-anys-desqui-olimpic.md)
 - [Andorra als Jocs Olímpics](../../competicio/andorra-als-jocs-olimpics.md)
 - [François Soulié](./francois-soulie.md) — el mateix cognom.
-- [El Pas de la Casa](../../../territori/README.md)
+- [El Pas de la Casa](../../../territori/territori-d-andorra-index-de-fitxes.md)

@@ -114,7 +114,7 @@ El [registre oficial d'acords i convenis col·lectius en vigor](../../../raw/web
 
 ## Les tres versions de la llei
 
-La [fitxa de situació del Portal Jurídic](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/README.md) conserva tres instantànies: l'**original del 20 de gener de 2011**, el **text refós 1 del 9 de setembre de 2011** i el **text refós 2 de l'11 de juliol de 2013**. La comparació dels [tres textos](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/README.md) mostra que el refós 1 incorpora la Llei 7/2011: fixa el règim general de **7 a 22 h i 84 hores setmanals**, supedita l'horari lliure al conveni col·lectiu, afegeix la suspensió del tancament del 14 de març i amplia el control i les sancions. El refós 2 només modifica l'article 4.5 per incloure també les **botigues de conveniència de benzinera** entre els establiments exempts.
+La [fitxa de situació del Portal Jurídic](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/tres-versions-de-la-llei-92-2010-d-horaris-comercials.md) conserva tres instantànies: l'**original del 20 de gener de 2011**, el **text refós 1 del 9 de setembre de 2011** i el **text refós 2 de l'11 de juliol de 2013**. La comparació dels [tres textos](../../../raw/web/economia/comerc/horaris-llei-92-2010-versions/tres-versions-de-la-llei-92-2010-d-horaris-comercials.md) mostra que el refós 1 incorpora la Llei 7/2011: fixa el règim general de **7 a 22 h i 84 hores setmanals**, supedita l'horari lliure al conveni col·lectiu, afegeix la suspensió del tancament del 14 de març i amplia el control i les sancions. El refós 2 només modifica l'article 4.5 per incloure també les **botigues de conveniència de benzinera** entre els establiments exempts.
 
 ## Buits registrats
 

@@ -264,7 +264,7 @@ no en dedueix res sobre naturalitzacions.`
    el té.** **L'AEA té la comunitat llatinoamericana com a línia pròpia** i la
    nomena **«argentins»**; **el que hi ha són entrevistes en arxiu, no
    publicades**. **Això no és una lectura pendent: és treball de camp
-   pendent**, i el corpus el situa a **[parla](../../../parla/README.md)**, no
+   pendent**, i el corpus el situa a **[parla](../../../parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md)**, no
    a bibliografia. `Requereix accés a l'arxiu.`
 6. ~~Si la **política d'immigració** ha canviat.~~ — **`resolt` el 19-09-2026**:
    **sí**. La [Llei 9/2012 d'immigració](./la-llei-dimmigracio-del-2012.md)
@@ -289,5 +289,5 @@ no en dedueix res sobre naturalitzacions.`
 - [La societat segmentada](./la-societat-segmentada.md) — el marc.
 - [L'acomiadament lliure](../treball/lacomiadament-lliure.md) — la posició laboral.
 - [Turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md) — la temporada.
-- [Dones](../dones/README.md) — el perfil.
+- [Dones](../dones/dones-index-de-fitxes.md) — el perfil.
 - [L'Arxiu d'Etnografia d'Andorra](../../cultura/museus-i-arxius/larxiu-detnografia.md) — on són les veus.

@@ -23,7 +23,7 @@ notes: >
 
 - [PDF original](../raw/web/historia/becat-emergencia-andorra-1996.pdf) i
   [text extret](../raw/web/historia/becat-emergencia-andorra-1996.txt).
-- [Registre de lectura web](../raw/web/historia/README.md).
+- [Registre de lectura web](../raw/web/historia/fonts-web-sobre-historia-arxius-i-biografies-d-andorra.md).
 
 ## Lectura delimitada
 
