@@ -292,9 +292,11 @@ tandes.**
    **El que segueix obert** és si el decret del 4 d'agost de 1854 tal com el
    publiquen les Peces justificatives (pp. XXVIII-XXIX) **diu vint-i-sis o
    vint-i-nou**: el corpus no ha llegit aquelles pàgines.
-3. **La campanya de les Corts contra els usurers del 75 %**: **quan, amb quins
+3. ~~**La campanya de les Corts contra els usurers del 75 %**: **quan, amb quins
    documents i amb quin resultat.** **La font l'esmenta a la Conclusió i el
-   corpus no té la unitat que la documenti.** **Prioritari.**
+   corpus no té la unitat que la documenti.** **Prioritari.**~~ — **`font_externa`
+   el 2026-09-22**: cal localitzar les actes o expedients de Corts que la font
+   només esmenta.
 4. ~~**El ***mostafà*** com a càrrec judicial.** **La Conclusió l'enumera entre els
    oficis que evoquen l'antic dret** —**al costat dels *banders***— **i el corpus
    el té per la branca de comuns i no per la de justícia.**~~ — **`parcial` el

@@ -352,16 +352,19 @@ desglossament, perquè les segones sumen entre elles.`
 
 ## Buits registrats
 
-1. **L'estudi *L'abstenció al Principat d'Andorra*** de l'IEA, sencer.
+1. ~~**L'estudi *L'abstenció al Principat d'Andorra*** de l'IEA, sencer.
    **Prioritari.** `Requereix demanar-lo a l'Institut d'Estudis Andorrans: no és
    al web.` **Les xifres ja no en depenen** —les dona el portal electoral— però
-   **la lectura i la metodologia sí.**
+   **la lectura i la metodologia sí.**~~ — **`font_externa` el 2026-09-22**:
+   l'estudi no és disponible al web i cal obtenir-lo de l'IEA.
 2. ~~**La sèrie des del 2015** — el corpus s'atura el 2018.~~ `resolt`
    **2019: 68,3%. 2023: 66,9%.** I la sèrie sencera des del 1997, a dalt.
-3. **Les xifres de participació anteriors al 1993**, concretes. `Requereix una
+3. ~~**Les xifres de participació anteriors al 1993**, concretes. `Requereix una
    font anterior a eleccions.ad: el portal comença el 1995 (comunals) i el 1997
    (generals).` **El que sí que hi ha és la corba horària del 1993 i del 1995**,
-   dibuixada al dossier del 1997, **sense els totals.**
+   dibuixada al dossier del 1997, **sense els totals.**~~ — **`font_externa` el
+   2026-09-22**: cal una font electoral anterior al portal actual per obtenir
+   els totals anteriors a 1993.
 4. ~~**Participació creuada amb el cens total de residents.**~~ `resolt`
    **35,9% dels residents poden votar; 24,0% van votar el 2023.**
 5. ~~**Participació per parròquia**~~ `resolt` —quatre anys, a dalt— ~~**i per

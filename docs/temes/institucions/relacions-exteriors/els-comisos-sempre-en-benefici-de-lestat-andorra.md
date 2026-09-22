@@ -346,8 +346,10 @@ ningú.**
   s'aplica l'excepció i amb quins la regla.** **Buit prioritari.**~~ —
   **`font_externa` el 2026-09-22**: cal consultar el repertori oficial de tractats
   i els convenis de cooperació penal per identificar les excepcions de l'article 36.
-- **Quant és «prou importància»** (article 4.g). **La llei no ho diu i el corpus
-  no té cap resolució que ho apliqui.**
+- ~~**Quant és «prou importància»** (article 4.g). **La llei no ho diu i el corpus
+  no té cap resolució que ho apliqui.**~~ — **`font_externa` el 2026-09-22**:
+  només resolucions d'aplicació o expedients de cooperació poden concretar el
+  llindar de l'article 4.g.
 - ~~**Què queda protegit pel secret bancari** un cop la comissió rogatòria és
   conforme (article 32). **La frase hi és; el seu abast, no.**~~ — **`parcial`
   el 21-09-2026**: l’article 35 remet als articles 190–192 del [Codi

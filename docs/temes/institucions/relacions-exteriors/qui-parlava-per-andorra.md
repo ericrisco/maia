@@ -200,8 +200,10 @@ francès per escrit**.
    **tractat de límits negociat el 1863 entre Andorra i Espanya**, sense
    intervenció dels coprínceps, i constata que el **1904 regia la frontera a la
    pràctica**. **El text, els signants i la vigència jurídica continuen oberts.**
-2. **Quan i com Andorra va demanar obrir consolats**, i quantes vegades. Vilar
-   diu «de nombreuses démarches» i no en data cap.
+2. ~~**Quan i com Andorra va demanar obrir consolats**, i quantes vegades. Vilar
+   diu «de nombreuses démarches» i no en data cap.~~ — **`font_externa` el
+   2026-09-22**: cal consultar la documentació diplomàtica o consular que Vilar
+   no identifica.
 3. ~~**Les sentències Laugé (1845) i Vives (1859)**, senceres — i **la referència
    exacta del Dalloz de la segona**, que les dues edicions de Vilar donen
    diferent.~~ — **`parcial` el 2026-09-21**: el corpus ja identifica **Laugé,

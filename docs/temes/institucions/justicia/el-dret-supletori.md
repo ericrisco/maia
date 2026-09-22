@@ -217,8 +217,10 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
    prescripció, la pregunta de quin dret supletori s'aplica deixa de ser
    només històrica.** **El que segueix obert és una resolució que digui *quin*
    és el dret supletori**, no que n'apliqui un.
-2. ~~**El text de la sentència de 1686** de Vital Seré, sencer. ~~— **`obert`,
-   confirmat.** El corpus només en té la citació de Brutails.
+2. ~~**El text de la sentència de 1686** de Vital Seré, sencer. ~~— **`parcial`
+   el 2026-09-22**: el corpus només en té la citació de Brutails, però la
+   prelació del dret comú i la reserva de llei pàtria ja queden documentades al
+   *Politar*. El text íntegre de la sentència continua fora del corpus.
    - **Afegit el 15-09-2026, i és una tercera prelació, enunciada pel Politar
      mateix.** El **capítol III del llibre II** diu que el Jutge ha d'observar
      «**lo modo, forma y disposicio del dret comu, (que es lo que se obcerva en
@@ -233,7 +235,7 @@ apel·lava triava tribunal segons quina doctrina l'afavoria.**
      el dret comú és el romà o el català**, que és la discussió d'aquesta
      fitxa, **i per tant no la resol.**
 3. ~~**La declaració del Consell General del 16 de març de 1753**, que Brutails
-   cita en nota i el corpus no té. ~~— **`obert`, confirmat.**
+   cita en nota i el corpus no té. ~~— **`font_externa` el 2026-09-22**:
    `Requereix font externa: les actes del Consell General de 1753.` **És el
    mateix fons que ja esperen quatre buits de la branca bancària** — vegeu
    [el Banc Agrícol](../../economia/banca-i-fiscalitat/el-banc-agricol.md).
