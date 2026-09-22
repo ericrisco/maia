@@ -180,7 +180,7 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
    confirma que **Expilly**, **dom Vaissete** i els intendants de Perpinyà són
    testimonis que Brutails invoca per la regla de la tercera sala. **Les obres i
    el passatge concret encara no són al corpus.**
-5. **Els memòries dels intendants de Perpinyà.** — ~~**El manuscrit del senyor Palmitjavila** —**tercera vegada que surt en tres tandes**—, **sense
+5. ~~**Els memòries dels intendants de Perpinyà.** — ~~**El manuscrit del senyor Palmitjavila** —**tercera vegada que surt en tres tandes**—, **sense
    identificar ni datar.**~~ — **`resolt` el 18-09-2026 pel que fa a la
    identificació i la data, i el corpus ja les tenia des del 13 de setembre.**
    **És un recull d'usos locals que el senyor Palmitjavila pare va deixar a
@@ -201,7 +201,9 @@ coprínceps segons un criteri fix. N'hi havia dos, i la font en descarta un:**
    **I n'hi ha extracte publicat i llegit**: **peça justificativa XXVII, pp.
    LVI-LX** ([trenta-dues citacions i cinc pàgines](../../institucions/justicia/trenta-dues-citacions-i-cinc-pagines.md)).
    `El que segueix obert és el manuscrit sencer —els nou primers paràgrafs, tota
-   la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`
+   la matèria criminal i l'aranzel— i on para el fons Palmitjavila.`~~ —
+   **`font_externa` el 2026-09-22**: l'extracte és local, però el manuscrit sencer
+   i la localització del fons requereixen consulta externa.
 6. **El «dossier d'afers portats molt antigament en darrer terme davant de
    jurisdiccions franceses»** que la font diu posseir. **No l'enumera aquí.**
 7. ~~**Quan i durant quant de temps es va aplicar la segona esmena** —el darrer
