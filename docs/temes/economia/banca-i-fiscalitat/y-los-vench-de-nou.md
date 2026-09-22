@@ -174,10 +174,12 @@ tags: [economia, carta-de-gracia, retracte, credit, propietat, notariat, antic-r
    Theresa R. y D. venen a Miquel P. el dret de redimir «lo Barre»**, separat de
    la venda original, i el comprador assumeix retornar el preu i les millores
    als hereus de Jaume B.
-2. **L'escriptura de venda del 8 de desembre de 1776** en poder de Tomàs
+2. ~~**L'escriptura de venda del 8 de desembre de 1776** en poder de Tomàs
    Palmitjavila, notari públic d'Encamp. **Prioritari**: **és la que conté els
-   pactes que l'addició «vol tenir per expressats i repetits».**
-3. ~~**De què surten els «*vint y cinch lliuras **y sis diners**»*.** ~~— **`obert`,
+   pactes que l'addició «vol tenir per expressats i repetits».**~~ —
+   **`font_externa` el 2026-09-22**: cal localitzar el protocol notarial de
+   Palmitjavila per consultar l'escriptura original.
+3. ~~**De què surten els «*vint y cinch lliuras **y sis diners**»*.** ~~— **`parcial`,
    confirmat el 16-09-2026 llegint la peça sencera** (peça XXIV, *Reçu d'addicio
    de preu*, pàgines XLIV-XLV, PDF 66-67). **La font no en dona l'origen.**
    **El que la peça sí que diu, i el corpus ho reté perquè tanca la forma de

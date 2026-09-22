@@ -293,9 +293,12 @@ la terra per sempre.**
    el mateix dia i pel mateix exemplar.** **Les peces XXIII i XXV són senceres**
    i **la XXIII porta una nota de Brutails que el corpus no tenia**: l'acte de
    cap al 1875 **no compleix el decret episcopal de 1853.**
-3. **Si l'evidència té més forats** a les parts de l'obra ja destil·lades.
+3. ~~**Si l'evidència té més forats** a les parts de l'obra ja destil·lades.
    **El corpus ha comprovat la seqüència de les peces justificatives i **no ha
-   comprovat la del cos**.** **Pendent.**
+   comprovat la del cos**.** **Pendent.**~~ — **`parcial` el 2026-09-22**: el text
+   local de *La Coutume d'Andorre* permet situar les peces XXII–XXVII i les
+   pàgines justificatives corresponents; encara no s'ha auditat de capítol en
+   capítol la seqüència del cos de l'obra.
 4. ~~**La tramuntana del «*Formental de T.*»**, que cau al forat.~~ —
    **`resolt`**: **terra del mateix venedor, que aleshores ja posseïa la
    vicaria perpètua d'Ordino.** **Tres de les quatre afrontacions són
