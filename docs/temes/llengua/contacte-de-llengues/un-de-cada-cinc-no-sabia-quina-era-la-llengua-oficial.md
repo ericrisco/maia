@@ -306,9 +306,9 @@ nota al peu en cita un altre:**
    Internacional de Sociología*, LXIV, 45 (2006)** (p. 36), però **Apple i
    Muysken (1993) i el text de Lapresta-Huguet encara no són al corpus.
    `parcial` el 2026-09-19.**
-6. **Si el 20% de portuguesos que parlen castellà amb els germans ha canviat.**
+6. ~~**Si el 20% de portuguesos que parlen castellà amb els germans ha canviat.**
    **La xifra és del 2002 i el corpus no en té cap de posterior desglossada per
-   relació familiar.**
+   relació familiar.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

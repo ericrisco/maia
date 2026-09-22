@@ -176,13 +176,13 @@ mou així:
 5. ~~**Què són exactament «les circumstàncies solemnes»** en què s'afegeix el nom
    de la mare.~~ — **`font_externa` el 2026-09-22**: cal comparar actes oficials
    i protocols notarials per determinar quines situacions rebien aquesta fórmula.
-6. **Si la fórmula «(a)» era d'ús notarial general** o **pròpia d'alguns
-   escrivans**.
-7. **Si el nom de casa passava també quan l'heretat anava a una *pubilla***, i
-   **com quedava el nom del *pubill* en enviduar**.
-8. **Quan deixa de fer-se servir el nom de casa com a designació corrent**, si és
+6. ~~**Si la fórmula «(a)» era d'ús notarial general** o **pròpia d'alguns
+   escrivans**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**Si el nom de casa passava també quan l'heretat anava a una *pubilla***, i
+   **com quedava el nom del *pubill* en enviduar**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Quan deixa de fer-se servir el nom de casa com a designació corrent**, si és
    que ha deixat de fer-se. **El corpus té la descripció de 1904 i res sobre l'ús
-   d'avui.**
+   d'avui.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

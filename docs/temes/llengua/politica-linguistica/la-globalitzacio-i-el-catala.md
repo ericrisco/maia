@@ -140,12 +140,12 @@ perill no és per on es diu que és.**
 
 ## Buits registrats
 
-1. **Què ha passat realment** del 2000 ençà: dades de consum cultural en català
-   a Andorra.
-2. **Quantes cadenes en català** es veien el 1980, el 2000 i ara.
-3. **Si hi ha hagut «exaltació de la pròpia cultura»** a Andorra com a reacció.
-4. **Tom Friedman (1999)**, citat per Costa.
-5. **Una tercera posició** més recent que aquestes dues.
+1. ~~**Què ha passat realment** del 2000 ençà: dades de consum cultural en català
+   a Andorra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Quantes cadenes en català** es veien el 1980, el 2000 i ara.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Si hi ha hagut «exaltació de la pròpia cultura»** a Andorra com a reacció.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Tom Friedman (1999)**, citat per Costa.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Una tercera posició** més recent que aquestes dues.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

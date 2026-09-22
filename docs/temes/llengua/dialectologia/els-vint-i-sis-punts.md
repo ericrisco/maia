@@ -194,14 +194,14 @@ andorrana entri als diccionaris i a l'estàndard oral**
 
 ## El que falta
 
-- **Els vint-i-sis punts**, un a un. **Prioritari.**
-- **L'estudi complet** del qual això són «les conclusions generals».
+- ~~**Els vint-i-sis punts**, un a un. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**L'estudi complet** del qual això són «les conclusions generals».~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Els gràfics i mapes** de l'annex: aquesta edició no els dona llegibles.~~ — **`no-es-buit` el 20-09-2026**: la font només remet a l'esquema i als gràfics, però aquesta edició no els reprodueix de manera llegible.
-- **Quins dos trets havien desaparegut** ja el 1994.
-- **Refer l'enquesta**: han passat **més de trenta anys** i **dues generacions
-  més**. La tercera generació de Rabassa avui té **entre 50 i 60 anys**.
-- **Contrastar la hipòtesi pallaresa** amb la dialectologia del Pallars.
-- **Si *al* ha guanyat definitivament** o si l'estàndard hi ha imposat *el*.
+- ~~**Quins dos trets havien desaparegut** ja el 1994.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Refer l'enquesta**: han passat **més de trenta anys** i **dues generacions
+  més**. La tercera generació de Rabassa avui té **entre 50 i 60 anys**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Contrastar la hipòtesi pallaresa** amb la dialectologia del Pallars.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si *al* ha guanyat definitivament** o si l'estàndard hi ha imposat *el*.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

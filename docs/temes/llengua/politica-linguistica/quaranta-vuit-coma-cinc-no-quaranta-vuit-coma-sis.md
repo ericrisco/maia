@@ -438,17 +438,17 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   domini independent** ([font](../../../fonts/wayback-catala-ad.md)); **el
   2018 redirigia a `cultura.ad/llengua`**, contingut que la Wayback Machine
   no ha capturat. **Pista, no troballa.**
-- **El qüestionari.** No és al llibret. **Sense ell, no se sap com estava
+- ~~**El qüestionari.** No és al llibret. **Sense ell, no se sap com estava
   formulada cap pregunta** llevat de la del canvi de llengua, que sí que es
-  reprodueix.
+  reprodueix.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El marge d'error de les submostres.** **199, 362, 429 i 528 persones**
   sostenen algunes de les xifres més citades i **el document només publica el
   marge del conjunt**. `Requereix les bases de dades.`~~ — **`font_externa` el
   2026-09-22**: el càlcul requereix les bases de dades individuals de les
   submostres.
-- **La fórmula de l'indicador lingüístic no reprodueix els seus propis valors.**
+- ~~**La fórmula de l'indicador lingüístic no reprodueix els seus propis valors.**
   **Setze proves, setze fallades en el mateix sentit.** El corpus hi deixa una
-  hipòtesi marcada i **no la pot comprovar sense les dades individuals.**
+  hipòtesi marcada i **no la pot comprovar sense les dades individuals.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Les fonts demogràfiques del perfil sociodemogràfic**: el document diu que els
   percentatges d'edat i nacionalitat vénen de **«les dades reals de població de
   1994, 1998, 2004 i 2008 publicades pel Ministeri d'Interior»**. **Quatre anys
@@ -484,11 +484,11 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
 
   **Tres coses que aquesta edició té i la del 2018 no:**
 
-  1. **L'àmbit s'hi diu «METGE / DENTISTA».** **És la confirmació independent del
+  1. ~~**L'àmbit s'hi diu «METGE / DENTISTA».** **És la confirmació independent del
      canvi de disseny** que el 2018 declara quan el substitueix per «metge
      generalista i especialista» — **i per tant la caiguda de 20 punts d'aquell
      àmbit el 2018 té, efectivament, una causa de qüestionari documentada a les
-     dues edicions.**
+     dues edicions.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
   2. ~~**Una sèrie que només existeix en prosa**: «*Quant a la llengua més
      utilitzada [al restaurant], no hi ha canvis significatius: **castellà (51 %),
      català (35 %), català i castellà (8 %), francès (2 %) i portuguès (2 %)***».
@@ -499,8 +499,8 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
      `El que la prosa citava amb cinc categories, la sèrie el dona amb quatre:
      només català, només castellà, català i castellà, i altres situacions. No
      són la mateixa partició, i per això no es poden confrontar xifra a xifra.`
-  3. **Una errata de data**: la pàgina 20 escriu **«(32% el 2044)»** on vol dir
-     **2004**.
+  3. ~~**Una errata de data**: la pàgina 20 escriu **«(32% el 2044)»** on vol dir
+     **2004**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 - ~~**Segueix obert el capítol d'usos de l'edició del 2022** (pp. 17-37).~~ —
   **`resolt`**: destil·lat a
@@ -509,9 +509,9 @@ lectura del cap de Govern que el seu propi informe corregeix a l'interior.**
   —**dels comuns (96,5% atès en català) a l'Hospital (87,1%)**—, **la sèrie del
   monolingüisme a la feina 2014-2022** i **el 9,6% que pot fer tota la seva vida
   comercial només en català.**
-- **Drets tancats.** **Cap llicència declarada**, ni al document ni al portal.
+- ~~**Drets tancats.** **Cap llicència declarada**, ni al document ni al portal.
   **Res d'aquesta font no entra en cap dataset**, i el PDF **no es versiona**.
-  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

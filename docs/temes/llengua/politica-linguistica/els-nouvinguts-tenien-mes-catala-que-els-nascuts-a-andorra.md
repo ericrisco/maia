@@ -364,9 +364,9 @@ s'arbitra.**
   l'edició 2014 només dona les columnes de **2009** i **2014**; cal consultar
   les tres edicions anteriors per saber si el **64 %** és excepcional o si el
   segment ja havia oscil·lat.
-- **Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
+- ~~**Drets tancats.** **Cap llicència declarada.** **Res d'aquesta font no entra
   en cap dataset** i el PDF **no es versiona**. **`no-es-buit`**: és un avís de
-  drets, no una pregunta de recerca.
+  drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

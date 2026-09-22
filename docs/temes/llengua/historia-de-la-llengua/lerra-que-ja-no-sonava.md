@@ -316,12 +316,12 @@ prova.**
   **`font_externa` el 2026-09-22**: **la fitxa treballa fonts històriques i no
   incorpora una mostra oral contemporània**. **Cal una font de parla actual per
   contrastar els trets.**
-- **Només dues pàgines s'han verificat renderitzades** (15 i 16). **La resta
+- ~~**Només dues pàgines s'han verificat renderitzades** (15 i 16). **La resta
   d'aquesta fitxa reporta el que diu el text extret**, amb la lligadura «ti»
-  corrompuda: **el contingut s'hi pot confiar, la grafia literal no.**
-- **Drets tancats.** Dos titulars —el Govern per l'edició, Xavier Rull pels
+  corrompuda: **el contingut s'hi pot confiar, la grafia literal no.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Drets tancats.** Dos titulars —el Govern per l'edició, Xavier Rull pels
   textos— i cap llicència. **Res d'aquest llibre no entra en cap dataset.**
-  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

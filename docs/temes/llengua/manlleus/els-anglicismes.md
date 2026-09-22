@@ -125,7 +125,7 @@ llista general d'anglicismes de tot Andorra.**
 
 ## Buits registrats
 
-1. **Anglicismes amb forma pròpia andorrana.**
+1. ~~**Anglicismes amb forma pròpia andorrana.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Per quina via arriben: castellà, francès, directament?**~~ — **`parcial` des
    del 2026-09-13**, per a un àmbit. Als esports d'hivern, **més del 82 % dels
    manlleus vénen directament de l'anglès**; els del castellà surten **sobretot

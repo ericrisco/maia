@@ -32,10 +32,10 @@ necessita que li expliquin i que ningú de fora dedueix.
 
 Aquest article té una idea i cap dada. Falta:
 
-- Un recull de noms de casa, que és un patrimoni onomàstic de primer ordre.
-- Els cognoms andorrans i la seva distribució.
-- Els **malnoms**, que són una capa sencera de la llengua viva.
-- L'ús real avui: qui diu encara el nom de casa i en quins contextos.
+- ~~Un recull de noms de casa, que és un patrimoni onomàstic de primer ordre.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els cognoms andorrans i la seva distribució.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els **malnoms**, que són una capa sencera de la llengua viva.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'ús real avui: qui diu encara el nom de casa i en quins contextos.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Buit registrat, prioritari.** És una branca on gairebé tot el material útil és
 oral i, per tant, de la fase 3 — però el recull de noms de casa sí que hauria

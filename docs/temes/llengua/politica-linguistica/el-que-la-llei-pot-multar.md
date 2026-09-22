@@ -207,7 +207,7 @@ del 2026, cerca per nom i per sigla.`
 
 ## Buits registrats
 
-1. **Si s'ha sancionat mai** algú sota aquesta llei, i quantes vegades.
+1. ~~**Si s'ha sancionat mai** algú sota aquesta llei, i quantes vegades.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El desplegament reglamentari**: el règim de funcionament **i la dotació
    pressupostària** de la JCLF i del CNL **s'estableixen per reglament**, i el
    corpus no en té cap.~~ — **`parcial` el 2026-09-18**: **la dotació no existeix
@@ -215,8 +215,8 @@ del 2026, cerca per nom i per sigla.`
    2026**, que sí que dona **2.134.984,61 € al Departament de Política
    Lingüística**, repartits a dalt. **El reglament de funcionament segueix
    obert.**
-3. **El Pla d'acció nacional per la llengua** vigent.
-4. **Els informes anuals** de l'article 31: n'hi ha hagut, i què diuen.
+3. ~~**El Pla d'acció nacional per la llengua** vigent.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Els informes anuals** de l'article 31: n'hi ha hagut, i què diuen.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**La lletra j)** de l'article 41.7.~~ — **`resolt` el 17-09-2026: no
    existeix.** **L'enumeració dels membres permanents del Consell Nacional per
    la Llengua va a), b), c), d), e), f), g), h), i), **k)**, l)**
@@ -257,9 +257,9 @@ del 2026, cerca per nom i per sigla.`
    obliga el sector privat.**
    **Segueix obert quines grafies ha fixat**, que no és a la Llei: `requereix
    les disposicions de la comissió`.
-7. **Què es va fer de l'article 7** des del 2024: si hi ha hagut cap estudi o cap
+7. ~~**Què es va fer de l'article 7** des del 2024: si hi ha hagut cap estudi o cap
    mesura de protecció de la variant andorrana. **Aquest corpus, de fet, és una
-   resposta possible a aquell article.**
+   resposta possible a aquell article.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

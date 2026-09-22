@@ -163,19 +163,19 @@ judici**, i sobretot **que el judici no és seu tot sol**: «**després d'altres
 
 ## Buits registrats
 
-1. **Qui eren els *sabis*** que va consultar. **La font no en nomena cap**, i el
+1. ~~**Qui eren els *sabis*** que va consultar. **La font no en nomena cap**, i el
    corpus **no ho demana**: **són particulars**. `tancat per criteri, no per manca
    de dades.` **`no-es-buit`**: és una decisió de l'abast de la font, no una
-   pregunta de recerca.
+   pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 2. ~~**Els terminis de prescripció** que li van donar, i **quins d'aquells eren
    andorrans i quins catalans**.~~ — **`no-es-buit` el 20-09-2026**: Brutails
    descriu la confusió i el moment en què l'informant obre el volum català, però
    el text no transcriu els terminis ni publica cap llista corregida que permeti
    separar-los. El buit és de la font disponible, no una dada pendent de càlcul.
-3. **El «petit volum català»**: **quin llibre era.** `obert, i el corpus no el
-   dedueix.`
-4. **Els *costumeys*** de Bordeus, per comparació: **Archives de la Gironde, E
-   suppl. 3120**, i **Barckhausen, pp. XXIII-XXIV**. `obert, amb signatura.`
+3. ~~**El «petit volum català»**: **quin llibre era.** `obert, i el corpus no el
+   dedueix.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Els *costumeys*** de Bordeus, per comparació: **Archives de la Gironde, E
+   suppl. 3120**, i **Barckhausen, pp. XXIII-XXIV**. `obert, amb signatura.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Qui eren «els altres»** que ja havien constatat que els arxius del Consell
    General eren per sota de la seva reputació.~~ — **`font_externa` el 2026-09-22**:
    la font no els identifica; caldria recuperar testimonis o correspondència de
@@ -186,8 +186,8 @@ judici**, i sobretot **que el judici no és seu tot sol**: «**després d'altres
 7. ~~**Els arxius dels comuns d'Andorra la Vella i d'Encamp** el 1900: **què en va
    treure.**~~ — **`font_externa` el 2026-09-22**: cal consultar els arxius
    comunals per saber quina documentació va veure o extreure la font.
-8. **Si algú va fer mai a Andorra el paper de *costumey***, abans o després.
-   `obert.`
+8. ~~**Si algú va fer mai a Andorra el paper de *costumey***, abans o després.
+   `obert.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Un buit de la font no és un buit del món.** Que **el 1904 no hi hagués ningú
 encarregat de fixar els punts de dret** no vol dir que ningú no els sabés: vol dir

@@ -295,23 +295,23 @@ surt molt en aquest corpus, no que un monitor el digui avui. Les dades són del
   que s'hi havien analitzat.`~~ — **`resolt`, actualitzat el 2026-09-19**:
   la lectura estructural completa confirma els **578 casos** i **1.005
   registres d'estatus** del repertori.
-- **La diferència entre els 1.005 registres de text i els 1.006 termes que la
+- ~~**La diferència entre els 1.005 registres de text i els 1.006 termes que la
   metodologia declara.** `no-es-buit`: és una discrepància interna de
   representació del PDF, documentada a la secció de control, no una pregunta
-  de recerca separada.
+  de recerca separada.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 - ~~**L'índex de termes neològics que designen conceptes nous** (p. 309-316):
   **257 termes**, el **28,5%** de tot el corpus, **per als quals no hi ha cap
   proposta oficial.** `Localitzat, no buidat.`~~ — **`parcial`, actualitzat el
   2026-09-19**: l'índex ja està localitzat a les pàgines 309-316 i se'n coneix
   el recompte; encara no s'han buidat els 257 termes.
-- **Quina part d'aquestes formes es diu realment a Andorra avui**, contra
-  [parla](../../../parla/README.md).
-- **El mateix exercici per a un altre àmbit.** **No n'hi ha cap.** L'estudi és
-  d'un sol camp, triat perquè a Andorra és econòmicament central.
-- **Drets tancats.** **Copyright de les autores i de l'edició, cap llicència.**
+- ~~**Quina part d'aquestes formes es diu realment a Andorra avui**, contra
+  [parla](../../../parla/README.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El mateix exercici per a un altre àmbit.** **No n'hi ha cap.** L'estudi és
+  d'un sol camp, triat perquè a Andorra és econòmicament central.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Drets tancats.** **Copyright de les autores i de l'edició, cap llicència.**
   **Res d'aquest llibre no entra en cap dataset**; el que hi ha aquí són
   recomptes i citacions d'una obra publicada. **`no-es-buit`**: és un avís de
-  drets, no una pregunta de recerca.
+  drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

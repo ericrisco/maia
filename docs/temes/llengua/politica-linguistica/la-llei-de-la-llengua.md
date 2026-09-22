@@ -184,8 +184,8 @@ La duresa de la norma mesura la pressió sobre la llengua. Vegeu
   **I el que en surt canvia una frase d'aquesta branca**: **l'obligació
   d'atendre el públic en català és de l'article 20 del 1999 i exigible des del
   2002**, no del 2024.
-- El Servei de Política Lingüística i les campanyes concretes.
-- Els arguments d'Andorra Endavant per votar-hi en contra.
+- ~~El Servei de Política Lingüística i les campanyes concretes.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els arguments d'Andorra Endavant per votar-hi en contra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 
