@@ -187,10 +187,11 @@ una pràctica pròpia.**
 
 ## Buits registrats
 
-1. **Qui era «el lletrat estranger a les Valls»** que redactava les sentències
+1. ~~**Qui era «el lletrat estranger a les Valls»** que redactava les sentències
    dels batlles. **La font no el nomena ni diu si era sempre el mateix**, i **no
-   l'identifica amb l'assessor**, de qui parla amb un altre mot. `obert,
-   prioritari: canvia com s'ha de llegir tota sentència andorrana del corpus.`
+   l'identifica amb l'assessor**, de qui parla amb un altre mot.~~ — **`font_externa`
+   el 2026-09-22**: cal localitzar les actes, protocols o correspondència que
+   identifiquin el redactor; la font publicada no en dona el nom.
 2. ~~**On són avui les sentències** que el 1904 eren **«a casa dels escrivans i dels
    seus descendents»**.~~ — **`parcial` el 21-09-2026**: la fitxa localitza els
    judicis antics a la **Curia de la Casa de la Vall** i els moderns com a peces

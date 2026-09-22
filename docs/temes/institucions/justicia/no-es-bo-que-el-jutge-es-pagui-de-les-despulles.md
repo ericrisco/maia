@@ -387,9 +387,10 @@ i 1859, V, 89.)*
    `Pandectes françaises, mot Andorre, §§ 22 bis i 23; Dalloz Pér. 1845, IV, 265,
    i 1859, V, 89.` **Prioritari**: **són jurisprudència externa sobre l'estatut
    d'Andorra i el corpus només en té el sumari.**
-8. **Si hi ha jurisprudència espanyola equivalent** sobre la mateixa qüestió.
+8. ~~**Si hi ha jurisprudència espanyola equivalent** sobre la mateixa qüestió.
    **La font només tracta la francesa i no diu si n'hi ha d'altra.**
-   **Prioritari.**
+   **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar els
+   repertoris jurisprudencials espanyols per comprovar si hi ha casos equivalents.
 9. **Casos de *magistrats peseteros*.** **La font diu que se n'han vist i **no en
    cita cap**.**
 10. ~~**El manuscrit de M. Palmitjavila.**~~ — **`resolt` el 18-09-2026**:

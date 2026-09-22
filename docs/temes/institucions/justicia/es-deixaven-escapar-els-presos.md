@@ -315,8 +315,10 @@ amb les notes ([font](../../../fonts/brutails-coutume-1904.md)).
 1. **Si la decisió del Consell General del 12 de maig de 1866 es va aplicar mai,
    i si es va derogar.** **Prioritari**: **autoritza detenció de durada
    discrecional pels cònsols, sense recurs a la Justícia i sense fiança.**
-2. **Els tres actes de *maleuta*** —**14-12-1551, 08-01-1553 i 09-05-1551**—
-   **sencers, amb signatura d'arxiu.** **Prioritari.**
+2. ~~**Els tres actes de *maleuta*** —**14-12-1551, 08-01-1553 i 09-05-1551**—
+   **sencers, amb signatura d'arxiu.** **Prioritari.**~~ — **`font_externa` el
+   2026-09-22**: la fitxa en transcriu fragments però no conserva la signatura
+   dels originals ni els tres actes sencers.
 3. ~~**Què distingeixen els dos terminis de la manlleuta.**~~ — **Tancat aquí**:
    **el primer val si el manlleutat és **dins les Valls** i el segon si és
    **fora**.** **Segueix obert per què els valors varien d'acte en acte**

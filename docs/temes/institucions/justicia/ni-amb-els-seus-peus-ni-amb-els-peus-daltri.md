@@ -243,9 +243,11 @@ notarials del XV al XVII.**
 
 ## Buits registrats
 
-1. **Els sis actes datats** —**1456, 1472, 1495, 1499, 1533, 1580**— **sencers.**
+1. ~~**Els sis actes datats** —**1456, 1472, 1495, 1499, 1533, 1580**— **sencers.**
    **Brutails no en dona signatura d'arxiu de cap**, fora del de 1580, que situa
-   per la mateixa via que els altres. `obert, i és una limitació de la font.`
+   per la mateixa via que els altres.~~ — **`font_externa` el 2026-09-22**: la
+   font no identifica les signatures dels sis originals; cal localitzar els
+   llibres o protocols corresponents.
 2. ~~**El manuscrit de Palmitjavila**, del qual surt el procediment d'execució de
    l'hostatge.~~ — **`parcial` el 18-09-2026**: **la divergència de datació
    continua sense resoldre**.

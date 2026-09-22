@@ -219,8 +219,9 @@ les vendes judicials. Vegeu
    jutge. **La font les invoca per boca del decret i no les identifica.** `obert.`
 4. **La decisió de les Corts** sobre les fiances escrites: **sense data a la
    font.** `obert.`
-5. **L'acta de la *possessio* d'abril de 1902** que l'autor tenia al davant.
-   `obert, i és el document d'aquesta mena més recent que el corpus coneix.`
+5. ~~**L'acta de la *possessio* d'abril de 1902** que l'autor tenia al davant.~~ —
+   **`font_externa` el 2026-09-22**: la nota només n'acredita l'existència i el
+   mes; cal localitzar l'acta per llegir-ne el cerimonial i les parts.
 6. ~~**Quan es va deixar de plantar la creu** per marcar els embargaments.~~ —
    **`parcial`, actualitzat el 2026-09-19**: l’aranzel la tarifa el **1740** i la
    font constata que el **1904 ja queia en desús**. **Segueix oberta la data o
