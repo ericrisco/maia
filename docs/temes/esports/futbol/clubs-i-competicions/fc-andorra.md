@@ -246,8 +246,9 @@ Nike des del 2019.**
   Manresa`, i la fitxa d'[Iván Rodríguez](../ivan-rodriguez.md) el descriu com
   a **filial del FC Andorra**. La font no explica per què el viver és a
   Catalunya.
-- **La Copa Catalunya del 1994** sencera: **el corpus en té el resultat i cap
-  nom de plantilla.**
+- ~~**La Copa Catalunya del 1994** sencera: **el corpus en té el resultat i cap
+  nom de plantilla.**~~ — **`font_externa` el 2026-09-22**: cal consultar les
+  actes de la competició i les plantilles d'aquella edició.
 
 ## Related
 

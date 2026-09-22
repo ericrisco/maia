@@ -93,7 +93,9 @@ Vegeu [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
   `Requereix font externa: el registre d'equips de la UCI del 1993.`
 - ~~**On va néixer**~~ — **`resolt`**: **Escaldes-Engordany, 3 d'octubre del
   1966.**
-- **El ciclisme andorrà sencer**: federació, curses, la Volta a Andorra.
+- ~~**El ciclisme andorrà sencer**: federació, curses, la Volta a Andorra.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar els arxius federatius i els
+  palmarès de la Volta a Andorra.
 
 ## Related
 

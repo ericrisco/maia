@@ -230,7 +230,9 @@ històrica; la UE Sant Julià va ser el primer a passar-hi una ronda (2009).**
   Monzón— sense article a les URLs directes provades**, cadascun
   comprovat individualment —**no és una cerca exhaustiva**, només la
   confirmació que l'URL obvi no hi és.
-- **Els pressupostos.** **Cap xifra de cap.**
+- ~~**Els pressupostos.** **Cap xifra de cap.**~~ — **`font_externa` el
+  2026-09-22**: els pressupostos dels clubs requereixen comptes o registres
+  econòmics que el corpus no conserva.
 - ~~**L'any de fundació de l'Inter d'Escaldes.**~~ — **`parcial` el
   18-09-2026**: **1991**, segons la Viquipèdia
   ([font](../../../../fonts/wikipedia-ca-inter-club-descaldes.md)) — **però

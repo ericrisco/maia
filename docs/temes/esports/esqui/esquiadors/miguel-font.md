@@ -37,9 +37,10 @@ Font tenien relació.
 
 ## El que falta
 
-- **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany
+- ~~**Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany
   d'una línia: **ni temporades, ni Copes d'Europa, ni campionats d'Andorra, ni
-  quan va començar ni quan va plegar.**
+  quan va començar ni quan va plegar.**~~ — **`font_externa` el 2026-09-22**:
+  cal consultar l'arxiu FIS, federatiu i de competicions.
 - ~~**Qui era i qui és.** Ofici, club, família, si segueix vinculat a
   l'esquí.~~ — **`parcial`: la família i el lloc de naixement es tanquen.**
   **ANDORRA LA VELLA, 6 d'agost del 1963, 174 cm**, i **és el germà petit de

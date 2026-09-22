@@ -41,10 +41,13 @@ n'ha escrit un llibre i de l'altre no se'n sap ni l'ofici.**
 
 ## El que falta
 
-- **Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany
+- ~~**Tot el que va fer fora dels Jocs.** L'entrada de la font és un esborrany
   d'una línia: **ni temporades, ni Copes d'Europa, ni campionats d'Andorra, ni
-  quan va començar ni quan va plegar.**
-- **Qui era i qui és.** Ofici, club, família, si segueix vinculat a l'esquí.
+  quan va començar ni quan va plegar.**~~ — **`font_externa` el 2026-09-22**:
+  cal consultar l'arxiu FIS, federatiu i de competicions.
+- ~~**Qui era i qui és.** Ofici, club, família, si segueix vinculat a l'esquí.~~ —
+  **`font_externa` el 2026-09-22**: cal una biografia i fonts federatives que el
+  corpus no conserva.
 - ~~**La seva biografia d'atleta de la FIS**, que la font cita i el corpus no ha
   consultat.~~ — **`parcial`**: el bolcat de la font ja hi porta els
   identificadors **FIS `230414`** i **Olympedia `98336`**, de manera que la
