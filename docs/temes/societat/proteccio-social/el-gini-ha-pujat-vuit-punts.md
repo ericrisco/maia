@@ -175,9 +175,11 @@ declara.**
 
 ## Buits registrats
 
-- **La sèrie no arrenca fins al 2018.** L'Enquesta de condicions de vida és
+- ~~**La sèrie no arrenca fins al 2018.** L'Enquesta de condicions de vida és
   d'aquell any. **De la desigualtat andorrana abans del 2018 el corpus no té
-  cap indicador**, i no n'hi ha cap a l'API. `font_externa`
+  cap indicador**, i no n'hi ha cap a l'API.~~ — **`font_externa` el 2026-09-22**:
+  cal una sèrie històrica anterior a l'Enquesta de condicions de vida i fora de
+  l'API local.
 - **Quina part de la caiguda de la taxa de pobresa del 2025 és el canvi de
   llindar.** Caldrien els microdades de l'enquesta, que la font no publica.
   `font_externa`

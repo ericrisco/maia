@@ -273,8 +273,10 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
 3. ~~**La butlla de confirmació pontifícia**, **i la seva data.**~~ — **`parcial`
    el 2026-09-19**: el [catàleg local de documents d'Andorra](../../../raw/web/historia/catalog-bnf-documents-andorra.txt) identifica la butlla de Martí IV com a **7 d'octubre de 1282, a Montefiascone**, a **BNF, col. Baluze 81, f. 369r-v**, amb còpia a **BNF, col. Doat 162, f. 50r-51v**. **El manuscrit i el text íntegre encara no són al corpus.**
 4. ~~**Si es va pagar la pena de 50.000 sous de Melgueil**, o **si hi va haver vacant pontifícia que aturés el termini de quatre anys.**~~ — **`parcial` el 2026-09-21**: [Afirmats en principi, sacrificats en l'aplicació](./afirmats-en-principi-sacrificats-en-laplicacio.md) documenta que el § X **exclou del termini de quatre anys el temps de vacant a la Cort de Roma** i fixa la pena de **50.000 sous de Melgueil**. El corpus no té cap document que acrediti que la pena es pagués o s'exigís.
-5. **Què valia el sou de Melgueil el 1278**, per poder dir què eren 4.000 i
-   50.000. **El corpus no té cap taula de canvi medieval.**
+5. ~~**Què valia el sou de Melgueil el 1278**, per poder dir què eren 4.000 i
+   50.000. **El corpus no té cap taula de canvi medieval.**~~ — **`font_externa`
+   el 2026-09-22**: cal una taula numismàtica o econòmica medieval externa al
+   corpus per convertir els sous.
 6. **La sentència sobre la Roca d'Afa**, que havia de ser **abans del Nadal
    de 1278**, **sense apel·lació.** **Nova.**
 7. ~~**Si la permuta de castells del § IX es va fer per Pasqua**, o **si es van

@@ -231,10 +231,12 @@ amb judici de valor:**
 
 ## Buits registrats
 
-1. **Baudon de Mony, *Relations politiques des Comtes de Foix avec la Catalogne*,
+1. ~~**Baudon de Mony, *Relations politiques des Comtes de Foix avec la Catalogne*,
    París, 1896, tom II.** **Prioritari absolut**: **la font el declara la
    col·lecció de còpies autoritzades dels documents més importants**, i **el
-   corpus no té cap document d'aquesta sèrie en original.**
+   corpus no té cap document d'aquesta sèrie en original.**~~ — **`font_externa`
+   el 2026-09-22**: cal consultar el tom de còpies autoritzades o els originals
+   que invoca.
 2. **Baudon de Mony, *La Vallée d'Andorre et les évêques d'Urgel au Moyen âge*,
    Tolosa, 1892.** **Nova.**
 3. **Miret y Sans, *Noves y documents inèdits sobre la família senyorial de

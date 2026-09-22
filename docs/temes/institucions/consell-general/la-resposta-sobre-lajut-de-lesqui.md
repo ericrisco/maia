@@ -87,10 +87,14 @@ disposicions addicional i derogatòria 1.)
   resposta del ministre queda registrada i no es corregeix per simple
   concordança ([BOPA](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt),
   disposicions addicional i derogatòria 1).
-- **Si el Consell va aprovar o no la interpretació** de la resposta. No es
-  dedueix: la peça és una resposta escrita publicada, no una votació.
-- No s'han llegit les altres peces del butlletí ni reconstruït totes
-  les mesures posteriors. Aquesta resposta de 2021 no acredita vigència actual.
+- ~~**Si el Consell va aprovar o no la interpretació** de la resposta. No es
+  dedueix: la peça és una resposta escrita publicada, no una votació.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar l'expedient parlamentari o
+  l'acta corresponent per acreditar una votació posterior.
+- ~~No s'han llegit les altres peces del butlletí ni reconstruït totes
+  les mesures posteriors. Aquesta resposta de 2021 no acredita vigència actual.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar el butlletí complet i les
+  mesures posteriors per establir-ne la vigència.
  - [Drets de la peça pendents](../../../fonts/consell-general-bcg-2021-23.md):
    originals i lectura compilada exclosos de datasets. **`no-es-buit`**: és un
    avís de drets, no una pregunta de recerca.

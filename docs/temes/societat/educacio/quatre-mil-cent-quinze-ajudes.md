@@ -127,8 +127,9 @@ del 2024.`
   **4.538 a 4.115** i les sol·licituds atorgades de **2.365 a 2.254**; les
   denegacions pugen de **456 a 484**. La font quantifica el canvi, però no
   identifica quina prestació o decisió pressupostària el va provocar.
-- **Els crèdits d'estudis**, que la llei del 1992 crea al costat de les beques i
-  **no tenen cap taula en aquesta font.** `font_externa`
+- ~~**Els crèdits d'estudis**, que la llei del 1992 crea al costat de les beques i
+  **no tenen cap taula en aquesta font.**~~ — **`font_externa` el 2026-09-22**:
+  cal consultar les memòries o sèries administratives específiques dels crèdits.
 
 ## Related
 
