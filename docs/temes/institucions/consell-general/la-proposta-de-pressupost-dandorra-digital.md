@@ -70,9 +70,10 @@ entrada «Projecte de llei de modificació de la Llei 1/2026».)
 
 ## Buits registrats
 
-- No s'han llegit memòria pressupostària, certificat d'Intervenció,
+- ~~No s'han llegit memòria pressupostària, certificat d'Intervenció,
   esmenes ni eventual dictamen o votació final. No s'ha acreditat
-  aprovació, rebuig o entrada en vigor posterior.
+  aprovació, rebuig o entrada en vigor posterior.~~ — **`font_externa` el
+  2026-09-22**: cal consultar l'expedient parlamentari i pressupostari complet.
 - Llei 19/2025 i constitució registral citades pel projecte, encara
   no contrastades amb les peces originals. Tampoc l'activitat o
   la despesa efectiva de la societat.

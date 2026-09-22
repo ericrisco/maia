@@ -315,10 +315,12 @@ qui ho escriu és el catedràtic que hi va anar a estudiar-ho.**
    Princep soberá de les valls d'Andorra*». `Registrat: la frase «se repite en las
    bases» és certa per al títol singular i no per a la fórmula plural.`
 3. ~~**La norma per la qual l'Estat espanyol nomenava el bisbe d'Urgell «en calidad de patrono» el 1918.**~~ — **`parcial` el 21-09-2026**: la font documenta la titulatura i el nomenament del bisbe en aquell règim, però no dona la norma espanyola ni la referència que permeti verificar el patronat.
-4. **Cárdenas, *Historia de la propiedad territorial*, I, pp. 227 i seg.** i **el
+4. ~~**Cárdenas, *Historia de la propiedad territorial*, I, pp. 227 i seg.** i **el
    règim de les behetries**. **El corpus no té cap dels dos**, ni la *Crónica del
    rey don Pedro*, ni el *Doctrinal de Caballeros*, ni les Partides, llibre III,
-   títol 25. **Sense això, la comparació queda registrada i no comprovada.**
+   títol 25. **Sense això, la comparació queda registrada i no comprovada.**~~ —
+   **`font_externa` el 2026-09-22**: cal consultar les obres comparatives i les
+   fonts medievals que la nota bibliogràfica invoca.
 5. **Qui són els «muchos» que en diuen pomposament principat** i **qui són els
    autors de la literatura «sumamente tendenciosa»** que exalta el bisbe o col·loca
    França en peu d'igualtat. **No en nomena cap.** **El corpus té la prestatgeria

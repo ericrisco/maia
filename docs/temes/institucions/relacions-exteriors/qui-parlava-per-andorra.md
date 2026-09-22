@@ -224,8 +224,10 @@ francès per escrit**.
    de l’**Arieja**, participació a les Corts, **nominació dels batlles**, cobrament
    de la quèstia i jurament anual dels diputats davant del prefecte—, però **el
    text íntegre encara no forma part del corpus**.
-6. **Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
-   de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.
+6. ~~**Què deia Espanya** d'aquesta doctrina francesa. El corpus té la reial ordre
+   de 1894 i no té cap rèplica espanyola a la tesi de la suzeraineté.~~ —
+   **`font_externa` el 2026-09-22**: cal localitzar la resposta diplomàtica o
+   jurídica espanyola que no consta al corpus.
 7. ~~**Les dues provisions reials en què descansava la reivindicació espanyola**
    —**1 de juny de 1335** i **27 de setembre de 1391**—, **senceres.**~~ —
    **`parcial`**: la del 1335, **`resolta` el mateix 17-09-2026 que es va obrir**,

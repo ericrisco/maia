@@ -325,8 +325,10 @@ fet:**
    essencialment com a òrgan d’apel·lació sobre causes ja jutjades pel batlle.
    **Encara no hi ha la norma ni el motiu que expliquin quan i per què es va
    perdre la primera instància.**
-10. **Si l'esmena de «l'home moridor» que l'autor proposa es va arribar a
-    considerar.** **És proposta seva i el corpus no té cap rastre posterior.**
+10. ~~**Si l'esmena de «l'home moridor» que l'autor proposa es va arribar a
+    considerar.** **És proposta seva i el corpus no té cap rastre posterior.**~~ —
+    **`font_externa` el 2026-09-22**: només actes o papers posteriors del procés
+    legislatiu podrien acreditar si es va considerar.
 
 ## Related
 

@@ -172,9 +172,11 @@ Septiembre» apunta a l'**1**, i **el corpus no ho dona per bo**.
    de quan.
 3. **Si l'ordre es va complir**, i què va passar amb els afers judicials que hi
    havia oberts entre els dos costats de la frontera.
-4. **Si França va fer res equivalent.** El corpus no té cap ordre francesa
+4. ~~**Si França va fer res equivalent.** El corpus no té cap ordre francesa
    paral·lela, i el poder judicial andorrà estava
-   [partit per igual entre els dos coprínceps](./la-questio-dandorra.md).
+   [partit per igual entre els dos coprínceps](./la-questio-dandorra.md).~~ —
+   **`font_externa` el 2026-09-22**: cal consultar la documentació francesa
+   paral·lela a l'ordre de 1894.
 5. **Si es va derogar mai**, i quan. Andorra no va tenir reconeixement
    internacional fins al 1993: **entremig hi ha noranta-nou anys sense resposta**.
 6. **Si el Consell General se'n va assabentar**, i si hi va reaccionar. La seva
