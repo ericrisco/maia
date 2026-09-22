@@ -433,9 +433,11 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
   diferencia les redaccions de 2014 i 2018.~~ — **`resolt` com a duplicat el
   19-09-2026**: la discrepància i els residus d'interpretació es conserven com
   a buit canònic a [El barem patrimonial i els ajuts](el-barem-patrimonial-i-els-ajuts.md).
-- No s'ha calculat un import net en euros del 2026, ni verificat els tractats
+- ~~No s'ha calculat un import net en euros del 2026, ni verificat els tractats
   aplicables a fronterers, els casos individuals de temporers o la pràctica
-  administrativa i judicial sobre aquests requisits.
+  administrativa i judicial sobre aquests requisits.~~ — **`font_externa` el
+  2026-09-22**: cal consultar la normativa econòmica vigent, els tractats de
+  frontera, expedients de temporers i resolucions administratives o judicials.
 - ~~S'han localitzat pistes de balanços estadístics del Govern, però no s'han
   incorporat xifres de beneficiaris: falta verificar la unitat de recompte,
   el període i els termes d'ús de la peça concreta.~~ — **`resolt` el

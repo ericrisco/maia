@@ -95,8 +95,11 @@ errata, a una versió anterior ni a una exclusió comptable determinada.
   l'execució i la recepció d'obres continuen pendents.
 - No s'ha verificat la partida receptora dels 750.000 euros, les
   discrepàncies numèriques ni una correcció posterior de l'informe.
-- No s'han contrastat l'inventari independent d'equips de RMN,
-  la posada en servei posterior ni l'expedient de certificació de l'heliport.
+- ~~No s'han contrastat l'inventari independent d'equips de RMN,
+  la posada en servei posterior ni l'expedient de certificació de l'heliport.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar l'inventari d'equipament i els
+  expedients de posada en servei i certificació per comprovar el resultat de la
+  inversió.
 - Els beneficis clínics, econòmics i organitzatius previstos per Salut
   no s'han validat amb resultats o estudis independents. L'apartat de
   perspectiva de gènere s'ha llegit sense destil·lar-ne les remissions legals.

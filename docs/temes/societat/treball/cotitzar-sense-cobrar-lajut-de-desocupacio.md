@@ -178,9 +178,11 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
   (`docs/raw/desocupacio/bopa-llei-26-2018-mod-seguretat-social.txt`,
   `bopa-llei-9-2019-mod-seguretat-social.txt`, `bopa-llei6-2019.txt`,
   `bopa-llei20-2019.txt`) **no contenen la xifra 224**.
-- No s’han comprovat una correcció oficial de «voluntària», les
+- ~~No s’han comprovat una correcció oficial de «voluntària», les
   instruccions internes ni expedients sobre l’edat límit, la transitòria
-  segona de 2011, malaltia greu o còmput de pensions de reversió.
+  segona de 2011, malaltia greu o còmput de pensions de reversió.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar la correcció publicada, les
+  instruccions internes i els expedients administratius corresponents.
 - No s’han verificat imports en euros, nombre de persones afiliades,
   arrodoniments, tots els requisits dels assegurats indirectes ni totes
   les prestacions i remissions de l’article. No és una llista exhaustiva

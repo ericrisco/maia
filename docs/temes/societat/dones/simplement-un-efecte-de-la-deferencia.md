@@ -198,9 +198,13 @@ silenci no era neutre.**
 1. **Quin era el plet sobre el quart de la vídua pobra**, i **la seva
    transacció**. **Sense data ni referència.**
 2. ~~**Què deia l'article *Vidua* dels Usatges** en text, i **la constitució de 1351 que condiciona la *tenuta* a l'absència d'hipoteca especial.**~~ — **`parcial` el 21-09-2026**: la fitxa n'explica la funció en la protecció de la vídua i identifica la constitució de 1351, però no té els textos literals dels Usatges i de les Constitucions de Catalunya.
-3. **La sentència del batlle Isidor Galí de 1868**, sencera.
-4. **La sentència de febrer de 1888** sobre les despeses d'exèquies, sencera i
-   **amb data exacta**.
+3. ~~**La sentència del batlle Isidor Galí de 1868**, sencera.~~ —
+   **`font_externa` el 2026-09-22**: la fitxa en conserva el criteri però no el
+   text íntegre de la sentència.
+4. ~~**La sentència de febrer de 1888** sobre les despeses d'exèquies, sencera i
+   **amb data exacta**.~~ — **`font_externa` el 2026-09-22**: la font només en
+   dona el mes i el criteri; cal localitzar l'original per completar la data i
+   llegir-la sencera.
 5. **Si la vídua tornada a casar de 1784 conservava realment la *tenuta***, o **si
    el notari va fer servir el mot per inèrcia.** **La font no ho aclareix.**
 6. ~~**Quantes vídues *ab intestat* hi va haver de fet**: si les successions es

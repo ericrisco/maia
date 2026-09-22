@@ -200,8 +200,10 @@ deliberat i és una dada**: **així ho deien**.
    **Això també situa el buit 1**: **Botey no és una lectura qualsevol per a
    aquest autor, és la seva.**
 3. **La feina de la conselleria d'Educació** que elogia: en què consistia.
-4. **Testimoni directe** d'aquella generació. **Fase 3**, i creuar amb
-   [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).
+4. ~~**Testimoni directe** d'aquella generació. **Fase 3**, i creuar amb
+   [l'Arxiu d'Etnografia](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~ —
+   **`font_externa` el 2026-09-22**: cal consultar testimonis enregistrats o
+   dipositats a l'Arxiu d'Etnografia; la ponència no en conté cap.
 5. **Quins bars i botigues** feien de cordó umbilical, i si encara hi són.
 
 ## Related
