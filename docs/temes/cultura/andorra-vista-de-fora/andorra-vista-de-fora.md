@@ -118,11 +118,16 @@ comprovable** ([el cas Amades](../../historia/historiografia/el-cas-amades.md)).
    el 19-09-2026**: identificada com **_Andorra, entre el torb i la Gestapo_**,
    minisèrie de quatre capítols dirigida per Lluís Maria Güell; les fonts
    discrepen entre **1999 i 2000** ([font](../../../raw/web/cultura/entre-torb-i-gestapo-adaptacio-1999-2000.txt)).
-3. La **novel·la de Viadiu** original, llegida.
-4. La **resta del catàleg**: viatgers romàntics, documentals, i el cinema que
-   s'hagi rodat a Andorra.
-5. **Com es veu Andorra avui de fora** —el tòpic del paradís fiscal i les
-   compres— que és la versió contemporània del mateix problema.
+3. ~~La **novel·la de Viadiu** original, llegida.~~ — **`font_externa` el
+   2026-09-22**: cal obtenir i llegir l'edició original, que no forma part del
+   corpus.
+4. ~~La **resta del catàleg**: viatgers romàntics, documentals, i el cinema que
+   s'hagi rodat a Andorra.~~ — **`font_externa` el 2026-09-22**: cal consultar
+   catàlegs bibliogràfics i audiovisuals fora del corpus.
+5. ~~**Com es veu Andorra avui de fora** —el tòpic del paradís fiscal i les
+   compres— que és la versió contemporània del mateix problema.~~ —
+   **`font_externa` el 2026-09-22**: cal una mostra contemporània de premsa,
+   cinema o estudis de recepció.
 
 ## Related
 

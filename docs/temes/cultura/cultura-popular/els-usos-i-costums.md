@@ -135,8 +135,9 @@ inventant una cosa que un andorrà gran sap que és mentida perquè hi era.
    **hi ha un Benet Pantebre Martínez identificat** (escacs, cònsol d'Andorra
    la Vella, 1929), **la seva biografia no esmenta música**, i **el corpus no
    arbitra si són la mateixa persona.**
-5. **La recollida oral del primer grup d'informants.** No s'ha fet i cada any
-   que passa n'hi ha menys.
+5. ~~**La recollida oral del primer grup d'informants.** No s'ha fet i cada any
+   que passa n'hi ha menys.~~ — **`font_externa` el 2026-09-22**: caldria un
+   treball de camp i enregistraments nous, fora del corpus actual.
 
 ## Related
 

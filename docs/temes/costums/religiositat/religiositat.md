@@ -96,7 +96,9 @@ cremar.
   d'Ordino](../../../fonts/ordino-festes-parroquia-2026.md) separa la festa
   parroquial de **Sant Pere** de la festa major de **Sant Corneli**. Continuen
   oberts els patrons de les altres parròquies.
-- Altres **romiatges i aplecs** més enllà del de Meritxell.
+- ~~Altres **romiatges i aplecs** més enllà del de Meritxell.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar calendari parroquial, arxius i
+  fonts locals que no formen part del corpus.
 - ~~Les **altres confessions**: amb un 54,7 % de població estrangera, hi ha
   comunitats no catòliques al país i el corpus no en diu res.~~ — **`parcial` el
   2026-09-19**: [la fitxa específica](./les-religions-dandorra-avui.md) ja

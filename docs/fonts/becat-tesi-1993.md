@@ -109,14 +109,15 @@ interpretació que n'adopti**.
   l'Assemblea Magna, l'annex 6.1 (la permeabilitat de la frontera i el
   contraban), el tros de migracions de treball del capítol 1, i trossos de 3.3
   (el debat sobre la casa).** — **`no-es-buit`**: inventari de lectura ja feta.
-- **Del llibre 2, segueixen sense buidar**: **3.2 (les regles socials)**, **el
+- ~~**Del llibre 2, segueixen sense buidar**: **3.2 (les regles socials)**, **el
   gruix de 3.3** —el mite i la ideologia de la casa, i «vers una ideologia
   política andorrana»—, **4.2 (les parròquies, les fronteres i les relacions
   amb l'Arieja)**, **4.3 (els coprínceps)**, **4.4 (el Consell General, la
   Sindicatura i l'Assemblea Magna)**, **2.1-2.5 (la vida pastoral i
   l'organització de l'espai)** i **els cinc annexos**, entre els quals **les
   demandes de comunals a Canillo del 1874-1893** i **els cortons i herbes de
-  Canillo**.
+  Canillo**.~~ — **`font_externa` el 2026-09-22**: cal obtenir i buidar les
+  seccions de la tesi que el corpus encara no conserva.
 - ~~**L'obra remet al seu propi llibre 4** per al capítol d'allaus, que el corpus
   necessita i no té — vegeu
   [dos blaus diferents als mapes d'allaus](../temes/territori/clima-i-muntanya/dos-blaus-diferents-als-mapes-dallaus.md).~~ —

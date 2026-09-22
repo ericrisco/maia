@@ -150,8 +150,9 @@ ni la forma del campanar** d'aquestes esglésies.»
 
 ## Buits registrats
 
-1. **Contrastar la hipòtesi.** Hi ha bibliografia que la sostingui o la
-   desmenteixi? **Prioritari.**
+1. ~~**Contrastar la hipòtesi.** Hi ha bibliografia que la sostingui o la
+   desmenteixi? **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal
+   consultar bibliografia historiogràfica fora del corpus.
 2. ~~**Els homenatges de 1162 i 1176** — documents.~~ — **`parcial` el
    2026-09-20**: Rodríguez i Rossa dona **1162 i 1176**; Bascompte, a [els
    privilegis](../../historia/edat-mitjana/els-privilegis.md), dona **1170** com

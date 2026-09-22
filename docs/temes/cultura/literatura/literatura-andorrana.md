@@ -182,7 +182,7 @@ Fundació Julià Reig.**
 - ~~Les editorials del país i on es publica.~~ — **`resolt`.** Vegeu la secció
   de dalt. **El que segueix obert són les xifres**: quants títols, quins anys,
   quin volum.
-- **El més valuós per a maia**: quins d'aquests textos són **prosa literària en
+- ~~**El més valuós per a maia**: quins d'aquests textos són **prosa literària en
   català d'Andorra escrita per andorrans**. Això no és *veu compilada*: seria
   material per a [parla](../../../parla/README.md). Cal mirar-ho un per un i
   resoldre els drets, que en literatura viva no són els de la documentació
@@ -196,7 +196,9 @@ Fundació Julià Reig.**
   Robert Pastor i Castillo, Joan Peruga Guerrero, Pilar Burgués Monserrat,
   Marta Repullo i Grau, Ludmilla Lacueva Canut, Iñaki Rubio Manzano, Alexandra
   Grebennikova Vólkova, Albert Salvadó Miras, Albert Villaró Boix i Ester Fenoll
-  Garcia. **Els drets segueixen sense resoldre's i són la part cara.**
+  Garcia. **Els drets segueixen sense resoldre's i són la part cara.**~~ —
+  **`font_externa` el 2026-09-22**: cal revisar obra per obra i els drets de
+  reproducció de literatura viva.
 
 ### Un títol que la llista no té, i ve d'una tesi de geografia
 

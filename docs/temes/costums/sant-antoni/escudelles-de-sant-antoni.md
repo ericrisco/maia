@@ -85,8 +85,9 @@ folklore andorrà no és un bloc immòbil heretat; té capes, i algunes són d'a
   la fitxa documenta que la festa de Sant Antoni estava lligada a dur el bestiar
   a beneir i que les escudelles es fan a totes les parròquies; el corpus no té
   una font actual que confirmi si la benedicció encara es fa ni en quins llocs.
-- El *sant Antoni del porquet* i el debat sobre «reinventar les tradicions» que
-  apareix a la premsa cultural.
+- ~~El *sant Antoni del porquet* i el debat sobre «reinventar les tradicions» que
+  apareix a la premsa cultural.~~ — **`font_externa` el 2026-09-22**: cal
+  consultar la premsa cultural i fonts etnogràfiques sobre la festa.
 
 ## Related
 
