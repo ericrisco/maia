@@ -132,7 +132,7 @@ agronòmiques** i marca **el judici** com a seu.
    primer any** i d'uns **200 al mes durant els tres anys de guerra**. El corpus
    encara no té una xifra de població refugiada resident específicament per al
    1937.
-5. **Què va passar el 1938-1939** i com enllaça amb la Segona Guerra Mundial.
+5. ~~**Què va passar el 1938-1939** i com enllaça amb la Segona Guerra Mundial.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Maria Jesús Lluelles**, *La transformació econòmica d'Andorra* —
    **font citada i no consultada**.~~ — **`parcial` el 18-09-2026**:
    identificada — **M. Jesús Lluelles i Larrosa**, geògrafa; el llibre és de

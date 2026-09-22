@@ -104,10 +104,10 @@ abandonament: és abandonament i musealització alhora.**
 
 ## Buits registrats
 
-1. **Quins establiments** van fer el gir i quan. Noms, cartes d'època.
-2. **Quines cases** conserven el «tipisme» i quins àpats.
-3. La **recuperació de receptes de les padrines**: qui la va fer, hi ha
-   receptaris publicats?
+1. ~~**Quins establiments** van fer el gir i quan. Noms, cartes d'època.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Quines cases** conserven el «tipisme» i quins àpats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~La **recuperació de receptes de les padrines**: qui la va fer, hi ha
+   receptaris publicats?~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**Quantes** places hoteleres hi havia als seixanta.~~ — **`parcial` el
    18-09-2026, i la premissa s'ha de corregir**: ***500 anys d'hoteleria***
    **sí que està consultada**, té fitxa de font pròpia
@@ -119,7 +119,7 @@ abandonament: és abandonament i musealització alhora.**
    la història de l'allotjament i no en dona el recompte de places d'aquella
    dècada. El corpus té el parc de 2014 ençà —uns 34.000 llits el 2014 i 29.661
    el 2025—, i res de mig segle abans.`
-5. **Què menja Andorra avui**, de debò.
+5. ~~**Què menja Andorra avui**, de debò.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -142,7 +142,7 @@ podrien sortir-ne **més receptes andorranes**, i **amb el text sencer**.
    1268**—; `la cocció, no: la font en dona el nom del plat i no el mode.`
 3. ~~**Quantes receptes andorranes** hi ha realment al llibre.~~ — **`parcial` el 2026-09-21**: el corpus n'ha identificat **dues** a través de Ribes —«llonsas de tussino» de festa major i «pernil de tussino» com a plat usual—, però no ha consultat el receptari sencer i no pot saber si n'hi ha més.
 4. ~~El **nom complet i les dades** de Fra Sever d'Olot.~~ — **`parcial` el 20-09-2026**: la mateixa fitxa el documenta com a **caputxí català d'Olot** que recollí i publicà el receptari de **1787**; encara no hi consten el nom civil complet ni les dades biogràfiques.
-5. Si la **llonsa de festa major** té continuïtat en algun plat d'avui.
+5. ~~Si la **llonsa de festa major** té continuïtat en algun plat d'avui.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -97,7 +97,7 @@ s'enfonsi l'oví** i pot haver estat part del coixí.
    Ribes** situa la introducció **cap a l'any 1830**. El corpus registra les
    dues fonts i no arbitra quina descriu l'arribada inicial i quina descriu el
    pas a cultiu; encara falta una font que resolgui aquesta divergència.
-2. **Quantes varietats** hi havia i si en queda alguna de local.
+2. ~~**Quantes varietats** hi havia i si en queda alguna de local.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~*Trumfa* al ***Vocabulari d'Andorra*** (1992) i al
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md) — **no
    hi consta encara**.~~ **`resolt` el 19-09-2026**: el glossari ja té

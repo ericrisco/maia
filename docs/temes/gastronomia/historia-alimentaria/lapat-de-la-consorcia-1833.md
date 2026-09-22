@@ -135,11 +135,11 @@ menja: **regula el dia sencer**.
    bestiar o fer les feines del camp**; també disposava d'un capital que deixava
    als membres a baix interès. Encara no consten els requisits d'entrada, el
    calendari de reunions ni els estatuts complets.
-2. **El document original** del 1833 — Ribes el cita via Canturri; ningú del
-   corpus l'ha vist.
-3. **Si el menú es va mantenir** i fins quan.
-4. Les dues formes no resoltes (*asternats*, *asperança*).
-5. **Congre i peix salat** a Andorra: ruta, preu, qui el portava.
+2. ~~**El document original** del 1833 — Ribes el cita via Canturri; ningú del
+   corpus l'ha vist.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Si el menú es va mantenir** i fins quan.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~Les dues formes no resoltes (*asternats*, *asperança*).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Congre i peix salat** a Andorra: ruta, preu, qui el portava.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El banquet al bisbe de la Seu de 1914**, que el corpus també té registrat
    com a buit a [el cas Amades](../../historia/historiografia/el-cas-amades.md).~~ —
    **`parcial` el 19-09-2026**: [el cas Amades](../../historia/historiografia/el-cas-amades.md)

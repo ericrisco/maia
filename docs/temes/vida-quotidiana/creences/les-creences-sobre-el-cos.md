@@ -117,7 +117,7 @@ Canturri diu que **no existeix cap costumari d'Andorra**.
 
 ## Buits registrats
 
-1. **La resta de creences** que l'autor no va escriure.
+1. ~~**La resta de creences** que l'autor no va escriure.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Els curanderos i guérisseurs andorrans**: n'hi havia? amb nom? què
    feien?~~ — **`parcial` el 18-09-2026**: **exercici documentat el 1843**
    a les valls d'Andorra, per **Antònia, «la curandera de Sanaüja»**,
@@ -125,16 +125,16 @@ Canturri diu que **no existeix cap costumari d'Andorra**.
    ([font](../../../fonts/miret-curandera-sanauja-gimbernat-2011.md)).
    **No és andorrana**: el buit d'un curandero o remeiera nascut a la vall,
    amb nom, es manté obert.
-3. Les creences sobre **el part i el nadó**, que no apareixen aquí i són sempre
-   les més denses.
+3. ~~Les creences sobre **el part i el nadó**, que no apareixen aquí i són sempre
+   les més denses.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 4. ~~**El mal d'ull, les bruixes, les remeieres.**~~ — **`parcial` el
    2026-09-21**: el corpus ja conserva **el mal d’ull** com a explicació donada
    per un pacient ([La salut mental](../../societat/sanitat/la-salut-mental.md)),
    processos històrics i llegendes de **bruixes**, i el cas documentat d’una
    curandera que va exercir a Andorra el **1843**. **Encara no té el mapa
    etnogràfic complet ni una remeiera nascuda a la vall.**
-5. **Fórmules i oracions** de guarició — material de llengua pura.
-6. **Quan cauen** aquestes creences i per què.
+5. ~~**Fórmules i oracions** de guarició — material de llengua pura.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Quan cauen** aquestes creences i per què.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

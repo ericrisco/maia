@@ -127,9 +127,9 @@ va arribar el 1990 i la televisió el 1995**
   UPF), **inaccessible en la consulta** (accés denegat).~~ — **`font_externa`,
   confirmat el 20-09-2026**: l'estudi queda identificat com a font potencial,
   però el contingut no es pot consultar ni verificar dins del corpus.
-- **Què fa la gent avui**, trenta anys després i amb la
+- ~~**Què fa la gent avui**, trenta anys després i amb la
   [Llei 6/2024](../../llengua/politica-linguistica/la-llei-de-la-llengua.md) que
-  obliga a **saludar en català** a l'atenció al públic.
+  obliga a **saludar en català** a l'atenció al públic.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Les altres ponències d'aquesta Diada: **la integració dels immigrants
   magribins** (Rachid Raguig), **el punt de vista d'un anglès** (Desmond Allen),
   **els nacionals francesos** (Jean Pujol), **les aspiracions dels residents

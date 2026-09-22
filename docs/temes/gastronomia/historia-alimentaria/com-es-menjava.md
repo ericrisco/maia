@@ -128,8 +128,8 @@ al país.** **Buit registrat, i llaminer:** quina coca té cada poble.
 3. ~~Els mots d'aquesta fitxa contra el ***Vocabulari d'Andorra*** (1992) i el
    [glossari](../../llengua/lexic-andorra/glossari-de-mots-documentats.md).~~ — **`no-es-buit` el 20-09-2026**: és una **instrucció de manteniment lèxic** per contrastar les formes de la fitxa, no una pregunta sobre un fet absent del corpus.
 4. ~~**Quan arriba la taula** a les cases humils, i per què als anys cinquanta.~~ — **`parcial` el 2026-09-21**: la font situa el canvi **fins ben entrat el 1950** i explica que menjar a taula era **«signe de senyoria»** per a les cases humils; encara no documenta el procés concret que va fer canviar aquesta pràctica.
-5. Els **documents de 1004 i 1043** — d'on surten.
-6. **Cullereres de pastor**: se'n conserven? Als museus?
+5. ~~Els **documents de 1004 i 1043** — d'on surten.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**Cullereres de pastor**: se'n conserven? Als museus?~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

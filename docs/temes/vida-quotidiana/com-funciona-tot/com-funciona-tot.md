@@ -90,12 +90,12 @@ d'abans de la Constitució.
 
 **Gairebé tot el que és realment quotidià**, i no surt als diccionaris:
 
-- La **CASS** (seguretat social), com funciona i com se'n parla.
-- El **permís de treball** i el de residència, en la pràctica.
-- Els **bancs**, el **metge**, l'**escola** —tres sistemes educatius— i **quin
-  tria la gent**.
-- Els **horaris**, el **cotxe**, l'aparcament, el transport.
-- Com es demana hora, com es fa una reclamació, com es paga.
+- ~~La **CASS** (seguretat social), com funciona i com se'n parla.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El **permís de treball** i el de residència, en la pràctica.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els **bancs**, el **metge**, l'**escola** —tres sistemes educatius— i **quin
+  tria la gent**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els **horaris**, el **cotxe**, l'aparcament, el transport.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Com es demana hora, com es fa una reclamació, com es paga.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 **Buit registrat.** Aquesta branca no s'omple de la bibliografia: s'omple de
 [parla espontània](../../../parla/espontani/README.md) i d'observació.
