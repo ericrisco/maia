@@ -304,8 +304,13 @@ tandes.**
    classificació exacta com a càrrec judicial.
 5. **Si el dret canònic es va afeblir efectivament** després de 1904, com la font
    preveia. **Fora de l'abast d'aquesta obra.**
-6. **La llista dels «aportaments castellans»**, **que el corpus té per
-   comprovar un per un** després del cas de *postor*.
+6. ~~**La llista dels «aportaments castellans»**, **que el corpus té per
+   comprovar un per un** després del cas de *postor*.~~ — **`parcial` el
+   2026-09-22**: la fitxa [El dret supletori](./el-dret-supletori.md) ja ha
+   comprovat el cas de *postor*: és documentat en un acte andorrà del **26 de
+   maig de 1783**, abans de la *Ley de enjuiciamiento civil* de 1881, i la font
+   mateixa el relaciona amb les *Siete partidas*. Els altres nou mots encara no
+   s'han contrastat un per un.
 7. ~~**Quines eren les altres normes episcopals** que, segons la Conclusió, **han
    perdut la força efectiva.** **La font diu que només dues la conserven i no
    enumera les que no.**~~ — **`no-es-buit` el 20-09-2026**: la conclusió només
