@@ -284,10 +284,11 @@ tres.**
 
 ## Buits registrats
 
-1. **El *Manual* de Mathias Ribot de 1603-1604**, **que la font diu que conté un gran
+1. ~~**El *Manual* de Mathias Ribot de 1603-1604**, **que la font diu que conté un gran
    nombre de compromisos.** **Prioritari**: seria la sèrie documental de l'arbitratge
    andorrà.
-   `Requereix font externa: l'arxiu notarial.`
+   `Requereix font externa: l'arxiu notarial.`~~ — **`font_externa` el 2026-09-22**:
+   el manual i la sèrie de compromisos requereixen consulta de l'arxiu notarial.
 2. ~~**La demostració que la justícia era «odiosament fiscal».**~~ — **Tancat el
    22-09-2026, i la font la salda a les pp. 303-305.** **La xifra és que **els
    emoluments del jutge al civil pujaven a un terç de l'objecte del litigi***,
