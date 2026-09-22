@@ -166,12 +166,14 @@ aquest projecte està refent avui.** La diferència que el corpus s'imposa és
   corpus.** **Val la pena registrar que el corpus sí que té el fet institucional
   que hi encaixaria**: [el contrapàs](./el-contrapas.md) es balla amb **el cònsol
   i els consellers barrejats amb el veïnat**. **Que això tingui res a veure amb
-  el Ball de cònsols d'Amades no ho diu cap font**, i el corpus no ho afirma.
+  el Ball de cònsols d'Amades no ho diu cap font**, i el corpus no ho afirma.~~ —
+  **`font_externa` el 2026-09-22**: cal consultar la font d'Amades o testimonis
+  de dansa per saber si aquest ball va existir i quin vincle tenia amb els comuns.
 - ~~**La música**: Amades en dona partitures i gràfics que el corpus no ha vist.~~
   — **`resolt` el 18-09-2026, com a duplicat de branca**: el residu canònic i
   la resposta parcial queden a [les danses](./danses.md), que també registra
   les partitures d'Amades encara no consultades.
-- ~~**Josep Barrabés d'Encamp** i la família **Barrobes**. ~~— **`obert`, confirmat.**
+- ~~**Josep Barrabés d'Encamp** i la família **Barrobes**. ~~— **`font_externa` el 2026-09-22**.
   **Els dos cognoms no surten enlloc més del corpus**, ni a les fitxes de
   persones ni a les de demografia. `Requereix font externa: els registres
   parroquials d'Encamp, o la genealogia d'Amades.`
