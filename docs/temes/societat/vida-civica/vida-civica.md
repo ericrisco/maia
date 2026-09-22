@@ -96,7 +96,7 @@ andorrana. **I el corpus gairebé no en sap res.**
   identificat en les cerques i **no obert**.~~ — **`parcial`, actualitzat el
   2026-09-19**: el portal institucional ja està identificat com a font
   potencial per a aquesta branca, però el corpus encara no l'ha pogut obrir.
-- El **voluntariat** i com es mobilitza la gent.
+- ~~El **voluntariat** i com es mobilitza la gent.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Com es discrepa en públic** en un país on tothom es coneix —
   [convencions socials](../../vida-quotidiana/convencions-socials/convencions-socials.md).
   — **`obert`, i confirmat que ho seguirà sent per un motiu de mètode.**

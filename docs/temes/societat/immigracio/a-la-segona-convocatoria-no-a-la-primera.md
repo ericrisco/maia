@@ -307,13 +307,13 @@ llocs de treball públics**; i **un mercat de treball molt desregulat.**
    de condicions amb els andorrans si la primera queda deserta. **Encara falta
    el text oficial andorrà del conveni trilateral i l'instrument andorrà que
    n'acredita l'extensió a Portugal; la divergència 2007/2008 queda registrada.**
-4. **A quin any correspon «una de cada quatre persones més grans de 18 anys».**
-   **Ve d'una obra del 2004 citada en un llibre del 2010 sobre un cens del 2007.**
+4. ~~**A quin any correspon «una de cada quatre persones més grans de 18 anys».**
+   **Ve d'una obra del 2004 citada en un llibre del 2010 sobre un cens del 2007.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**La taula completa d'assalariats per sector del 2006**~~: **`parcial`: la
    fitxa en recull cinc línies de tretze.** `La resta és al llibre i es pot
    llegir quan calgui.`
-6. **El Cens Comunal d'Andorra del 2007**, com a font. **El corpus el cita per
-   mitjà d'aquest llibre i no l'ha vist.**
+6. ~~**El Cens Comunal d'Andorra del 2007**, com a font. **El corpus el cita per
+   mitjà d'aquest llibre i no l'ha vist.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 7. ~~**Batalla, Casals i Micó**, *La immigració a Andorra* (2004) i *Anàlisi de la
    situació laboral a Andorra* (2003), i **Comas i Pujadas**, *Andorra, un país
    de frontera* (1997). **Cap de les tres no és al corpus**, i **dues d'elles són

@@ -246,7 +246,7 @@ no en dedueix res sobre naturalitzacions.`
 
 ## Buits registrats
 
-1. **El resultat d'aquest estudi.** Es va publicar? **Prioritari.**
+1. ~~**El resultat d'aquest estudi.** Es va publicar? **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Com ha evolucionat** el col·lectiu del 2002 ençà. **Vint-i-quatre
    anys.**~~ — **`resolt` el 18-09-2026**, vegeu
    [Vint-i-cinc anys després, en xifres](#vint-i-cinc-anys-despres-en-xifres):
@@ -257,7 +257,7 @@ no en dedueix res sobre naturalitzacions.`
    país i any per any des del 2000—; **amb quins permisos, no.** `La sèrie
    d'assalariats no és una sèrie de permisos de residència i treball: són coses
    diferents i la font no les creua.`
-4. Els **estereotips ètnics** documentats.
+4. ~~Els **estereotips ètnics** documentats.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Testimoni directe** — hi ha entrevistes a
    [l'AEA](../../cultura/museus-i-arxius/larxiu-detnografia.md).~~ —
    **`obert`, i ara se sap exactament on és el material i per què el corpus no

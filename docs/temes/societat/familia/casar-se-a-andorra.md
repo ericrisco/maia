@@ -239,8 +239,8 @@ diferència entre ells, igual al principi i al final.**
   **que en lliga l'estretor del lloc amb el buidatge dels tribunals de
   parròquia**. `El que segueix obert és el recompte: graus, freqüència i anys.
   El corpus no té ni un expedient.`
-- **La filiació, l'autoritat parental i els aliments** ocupen més de la meitat
-  de la llei i aquesta fitxa no els toca.
+- ~~**La filiació, l'autoritat parental i els aliments** ocupen més de la meitat
+  de la llei i aquesta fitxa no els toca.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quants matrimonis canònics i quants civils se celebren**, no consta. El
   corpus té la norma i cap dada.~~ — **`resolt` el 18-09-2026** amb la sèrie
   del Departament d'Estadística, **del 1977 al 2025 el total i del 1998 al

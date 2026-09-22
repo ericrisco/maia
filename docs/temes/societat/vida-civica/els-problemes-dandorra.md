@@ -302,8 +302,8 @@ molt bona».
   mitjan dècada del 2000, i observa que el 2016 ja no apareixia com a queixa
   principal; resten pendents les dates d'entrada en servei i la cobertura de
   cada planta.
-- **Si l'Observatori continua** després del 2016.
-- **Quina mostra fa servir** l'Observatori.
+- ~~**Si l'Observatori continua** després del 2016.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quina mostra fa servir** l'Observatori.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

@@ -94,8 +94,8 @@ Aquesta és la cara laboral del que el corpus descriu per altres bandes:
 3. ~~**Xifres de rotació laboral** al comerç i l'hoteleria.~~ — **`font_externa`
    el 2026-09-22**: cal consultar les estadístiques laborals sectorials, que no
    formen part del corpus.
-4. **Com funciona avui** el lligam entre permís de treball i permís de
-   residència.
+4. ~~**Com funciona avui** el lligam entre permís de treball i permís de
+   residència.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**El salari mínim** andorrà, sèrie històrica. ~~— **`obert`, confirmat, i és
    el buit transversal més gran del corpus.** **Quatre articles hi depenen i cap
    no té la xifra**: [l'execució forçosa](../../institucions/justicia/lexecucio-forcosa.md)

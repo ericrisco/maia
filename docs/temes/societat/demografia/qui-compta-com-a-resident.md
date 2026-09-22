@@ -285,6 +285,6 @@ i **116 per a empreses estrangeres** (+9,4%). **L'estoc creix i el flux cau**, i
   original, llegida a la font europea](#la-definicio-original-llegida-a-la-font-europea)».
   `El recull internacional de recomanacions dels censos —el de la UNECE— segueix
   sense consultar-se.`
-- La discrepància entre l'esquema de la p. 3 i els totals del juliol de 2026
+- ~~La discrepància entre l'esquema de la p. 3 i els totals del juliol de 2026
   queda oberta: no s'ha buscat cap nota editorial ni cap versió posterior de
-  la figura.
+  la figura.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

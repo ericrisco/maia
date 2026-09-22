@@ -128,11 +128,11 @@ donar dades veraces** (article 43.2).
   **Dues coses més de les disposicions, que no són terminis però decideixen
   qui paga i qui mana:**
 
-  - **El Govern ha de publicar, alhora que el reglament, un sistema d'ajuts,
+  - ~~**El Govern ha de publicar, alhora que el reglament, un sistema d'ajuts,
     subvencions i incentius fiscals per a les empreses que s'hagin d'adaptar**,
     amb **desgravacions fiscals per inversió en accessibilitat i línies de
-    finançament preferencial** (disposició addicional segona).
-  - **Es crea un sistema de representació del sector empresarial** perquè
+    finançament preferencial** (disposició addicional segona).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Es crea un sistema de representació del sector empresarial** perquè
     participi en l'elaboració dels reglaments que els imposin càrregues
     (disposició addicional tercera). **Els obligats tenen seient on es
     concreta l'obligació.**
@@ -140,7 +140,7 @@ donar dades veraces** (article 43.2).
   **La llei toca sis normes més** —arrendaments urbans, ordenació del territori,
   els codis de procediment civil, penal i administratiu—, i **només una
   disposició té caràcter de llei qualificada**: **la que modifica el Codi de
-  procediment penal** (disposició final novena). **La resta és llei ordinària.**
+  procediment penal** (disposició final novena). **La resta és llei ordinària.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El percentatge de places d'aparcament reservades**~~ — **`parcial` el
   17-09-2026**: és reglamentari i **no és al recull**; ara se sap per què no es troba.
 

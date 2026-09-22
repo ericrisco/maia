@@ -196,15 +196,15 @@ de 1975 i no ho pot dir**.
    decret formava part del dret procedimental posterior, però **no reprodueix
    l'articulat substantiu**. Font local: [`decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt`](../../../raw/lleis/bopa/decret-legislatiu-2016-text-refos-llei-transitoria-procediments-judicials.txt).
 2. ~~**La sentència del batlle que va anul·lar la venda d'una dona**.~~ — **`parcial` el 21-09-2026**: la font en conserva la *ratio* —la venda es va anul·lar per manca d'autorització—, però no en dona la data ni la referència arxivística.
-3. **Qui era «el seu conseller»** en aquella sentència, **com a ofici**: si era
-   l'assessor del tribunal o un *sabi* consultat.
-4. **La controvèrsia del Tribunal Superior sobre l'absència**: **quina sessió, i
+3. ~~**Qui era «el seu conseller»** en aquella sentència, **com a ofici**: si era
+   l'assessor del tribunal o un *sabi* consultat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**La controvèrsia del Tribunal Superior sobre l'absència**: **quina sessió, i
    què va resoldre.** La font diu «una de les seves últimes sessions» i **no la
-   data**.
-5. **L'atestació de l'assessor del Consell General** sobre l'absència, en text.
-6. **La sentència del batlle de 1892**, sencera.
-7. **El cas en què una dona va necessitar autorització del batlle per vendre**:
-   **«me n'han citat almenys un cas»** —**testimoni oral, sense document**.
+   data**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**L'atestació de l'assessor del Consell General** sobre l'absència, en text.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~**La sentència del batlle de 1892**, sencera.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+7. ~~**El cas en què una dona va necessitar autorització del batlle per vendre**:
+   **«me n'han citat almenys un cas»** —**testimoni oral, sense document**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 8. ~~**Si a Andorra hi va haver mai declaració formal de fallida**, i **des de
    quan**.~~ — **`parcial`, actualitzat el 2026-09-19**: la font estableix que
    **el 1904 no n'hi havia cap**. **Segueixen obertes l'existència d'una

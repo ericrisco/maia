@@ -250,9 +250,9 @@ dels serveis.
   ([evidència](../../../raw/lleis/bopa/llei-22-2022-seguretat-xarxes.txt)).
   Trasllada l'esquema europeu NIS i crea **dues peces**:
 
-  - **l'ANC-AD**, autoritat nacional competent en ciberseguretat, que és també el
-    **Punt de Contacte Nacional Únic** d'Andorra;
-  - **el CSIRT-AD**, l'equip de resposta a incidents, que supervisa amenaces i
+  - ~~**l'ANC-AD**, autoritat nacional competent en ciberseguretat, que és també el
+    **Punt de Contacte Nacional Únic** d'Andorra;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**el CSIRT-AD**, l'equip de resposta a incidents, que supervisa amenaces i
     vulnerabilitats «a escala nacional» i difon alertes.
 
   **I reparteix la supervisió amb l'AFA**: l'autoritat financera és l'autoritat
@@ -273,5 +273,5 @@ dels serveis.
   **quatre vegades** (2019, 2020, 2023 i 2024).
 
   `Cap de les dues no s'ha buidat article a article, ni s'han llegit els seus
-  annexos de sectors.`
-- **Quants clubs i jugadors d'e-sports hi ha registrats**, tampoc.
+  annexos de sectors.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quants clubs i jugadors d'e-sports hi ha registrats**, tampoc.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

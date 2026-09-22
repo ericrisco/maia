@@ -76,9 +76,9 @@ gestiona RTVA, la finança.**
 
 ## El que falta
 
-- Els programes concrets i quins tenen parla espontània (tertúlies, carrer) i
-  quins són locució.
-- Quanta producció pròpia hi ha i quanta és aliena.
+- ~~Els programes concrets i quins tenen parla espontània (tertúlies, carrer) i
+  quins són locució.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Quanta producció pròpia hi ha i quanta és aliena.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~El marc legal de RTVA i qui la governa.~~ — **`parcial` el 2026-09-18 pel
   costat dels diners**: **l'Estat hi posa 5.349.092,69 € el 2026**, **com a
   transferència corrent a «RTVA, SA»**, de manera que **és una societat que

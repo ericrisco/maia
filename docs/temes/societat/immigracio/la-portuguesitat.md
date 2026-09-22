@@ -374,12 +374,12 @@ queda com a buidatge pendent el contingut i la font del vídeo del Grup.
   **TANCAT**: el volum s'ha recuperat per OCR i la ponència és llegida.
   **Queda obert l'estudi complet del CRES** —*A que sabe um sumol a 2.000 metros
   de altitude?*— del qual la ponència és només un resum.
-- **Quan va girar la corba** de la població portuguesa, entre els 11.294 del 2005
-  i els 9.083 posteriors. **Prioritari.**
-- **Quanta gent participa** realment a les entitats portugueses.
-- **El Consell de les Comunitats Portugueses**: què és, i què hi fa un resident
-  d'Andorra.
-- **La ruta migratòria portuguesa cap a França** pels Pirineus als anys 60 i 70.
+- ~~**Quan va girar la corba** de la població portuguesa, entre els 11.294 del 2005
+  i els 9.083 posteriors. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quanta gent participa** realment a les entitats portugueses.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El Consell de les Comunitats Portugueses**: què és, i què hi fa un resident
+  d'Andorra.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La ruta migratòria portuguesa cap a França** pels Pirineus als anys 60 i 70.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Quantes associacions portugueses hi ha avui** i quantes persones
   apleguen.~~ — **`parcial` pel compte, `obert` per la gent.** **Creuant aquesta
   fitxa amb [les comunitats](./les-comunitats.md) en surten sis**, i **la manera

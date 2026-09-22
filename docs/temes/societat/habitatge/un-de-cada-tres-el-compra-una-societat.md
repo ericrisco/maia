@@ -185,8 +185,8 @@ divisió **995**, «Béns immobles transmesos per tipologia de bé immoble
 - ~~**El creuament entre nacionalitat del comprador i parròquia**, i entre
   nacionalitat i tipologia del bé.~~ — **`no-es-buit`**: és una limitació de la
   font, que no publica aquests creuaments.
-- **El preu pagat per tipus de comprador.** **La font dona qui compra i quants
-  béns, i no per quant.** `font_externa`
+- ~~**El preu pagat per tipus de comprador.** **La font dona qui compra i quants
+  béns, i no per quant.** `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què els portuguesos compren el 2,3% dels béns essent molt més del 2,3%
   de la població**~~ — **`parcial` el 20-09-2026**: el 2025 hi ha **97 béns**
   comprats per persones de nacionalitat portuguesa (**2,3% de les persones

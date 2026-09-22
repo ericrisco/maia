@@ -323,7 +323,7 @@ requisit legal perquè els centres espanyols puguin existir aquí**.
   alumnes i un de sol és andorrà** —**el 4,5%, el centre menys andorrà del
   país**—, i **els dos IEA en concentren el 44,7% dels alumnes**, **amb el
   portuguès com a segona nacionalitat a la Margineda (123 de 532).**
-- **Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.
+- ~~**Quants mestres espanyols** hi ha hagut, i si algun s'hi ha quedat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Tot això el 2026.**~~ — **`no-es-buit` el 19-09-2026**: nota de
   manteniment sense una pregunta o dada pendent concreta.
 

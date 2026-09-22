@@ -218,8 +218,8 @@ amb aquell nom.
 - ~~**No hi ha desglossament per parròquia ni per nacionalitat.**~~ —
   **`no-es-buit`**: és una limitació declarada de la font, que no publica aquests
   desglossaments.
-- **A quins països van les criatures que s'envien a centres terapèutics fora
-  d'Andorra**, i per què no es fa al país. `pregunta_oberta`
+- ~~**A quins països van les criatures que s'envien a centres terapèutics fora
+  d'Andorra**, i per què no es fa al país. `pregunta_oberta`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La llei de protecció de la infància i l'adolescència** no s'ha llegit: el
   corpus té les xifres del servei i no la norma que el crea.~~ — **`resolt` el
   18-09-2026**: **Llei 14/2019, del 15 de febrer, qualificada dels drets dels
@@ -240,7 +240,7 @@ amb aquell nom.
   21-09-2026**: la Llei 14/2019 en fixa funcions, durada mínima del Pla,
   participació i termini de desplegament; continuen sense localitzar-se la
   composició reglamentària efectiva, els actes i el pressupost executat.
-- **La distribució de totes les famílies andorranes per tipus** —nuclear,
+- ~~**La distribució de totes les famílies andorranes per tipus** —nuclear,
   separada, monoparental— **no es publica**, i sense ella **no es pot dir si el
   41,6% de famílies separades ateses és més o menys del que li tocaria.**
-  `font_externa`
+  `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.

@@ -179,12 +179,12 @@ a màxims individuals ni a una mesura de qualitat assistencial.
   no s’hi ha identificat el conveni hospitalari buscat. Això no prova
   que no estigui publicat en un altre lloc.
   ([Llistat consultat](../../../raw/desocupacio/cass-convenis-prestadors-20260913.txt).)
-- La **Circular 1/2026** enumera la instrucció de 2017 entre les
+- ~~La **Circular 1/2026** enumera la instrucció de 2017 entre les
   aplicables, a l’apartat IV. S’ha llegit sencera, però conté dues dates:
   **18 de març de 2026** al títol de p. 1 i **18 de febrer de 2026** al
   tancament de p. 7; tots dos renders vistos. Es preserva la discrepància.
   Aquesta referència no prova que totes les condicions del conveni
   de 2017 continuïn iguals ni certifica l’aplicació de cada expedient.
-  ([Circular, p. 1 i 7](../../../raw/desocupacio/govern-circular-pressupost-2026.pdf).)
- - Drets de reutilització CASS i Govern pendents d’autorització; cap dataset.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+  ([Circular, p. 1 i 7](../../../raw/desocupacio/govern-circular-pressupost-2026.pdf).)~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Drets de reutilització CASS i Govern pendents d’autorització; cap dataset.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

@@ -267,8 +267,8 @@ es mantenen separats perquè l'annex els afegeix només en dues línies.
 
   `Requereix saber si el C.A.D.E. va arribar a fer mai l'informe anual de
   l'article 14.4.`
-- **El decret d'avaluació del sistema educatiu (36)**: si Andorra s'avalua a si
-  mateixa, els resultats existeixen.
+- ~~**El decret d'avaluació del sistema educatiu (36)**: si Andorra s'avalua a si
+  mateixa, els resultats existeixen.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**L'annex 3 sencer**, amb els docents per sistema.~~ — **`resolt` el
   19-09-2026**: transcrit des de l'annex 3 de la ponència, amb **981 efectius
   docents estructurals**, **13 eventuals** separats, el desglossament per

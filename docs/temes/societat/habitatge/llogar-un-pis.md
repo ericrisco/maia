@@ -163,8 +163,8 @@ actualitzat amb els interessos legals**.
 
 ## Buits registrats
 
-- **Els preus reals** no hi són: la llei diu com es revisa la renda i no quant
-  es paga.
+- ~~**Els preus reals** no hi són: la llei diu com es revisa la renda i no quant
+  es paga.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**L'arrendament de local de negoci** —que la llei també cobreix, amb renda
   variable segons facturació (article 66)— no s'ha desenvolupat aquí.~~ —
   **`resolt` el 2026-09-19** amb el [títol IV del text consolidat local de la

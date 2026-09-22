@@ -386,10 +386,10 @@ n'afegeix la forma.`
   crea el 1970 i comença a funcionar el 1972 amb set alumnes.**
   **Dotze anys de diferència entre els dos circuits, i el propi arriba
   primer.**
-- **El Centre d'Acolliment d'Infants (CAI)**, l'altra institució que apareix
-  només nomenada.
-- **Com es parla de la discapacitat a Andorra**: el corpus no té res, i el lèxic
-  d'aquest àmbit canvia ràpid i és sensible. **Buit important per a la fase 3.**
+- ~~**El Centre d'Acolliment d'Infants (CAI)**, l'altra institució que apareix
+  només nomenada.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Com es parla de la discapacitat a Andorra**: el corpus no té res, i el lèxic
+  d'aquest àmbit canvia ràpid i és sensible. **Buit important per a la fase 3.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

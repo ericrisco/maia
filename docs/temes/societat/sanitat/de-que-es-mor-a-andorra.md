@@ -166,8 +166,8 @@ posterior. **Les xifres es citen totes dues amb la seva font i no s'arbitra.**
   **2016–2024** ([fitxer de demografia vital](../../../raw/estadistica-api/demografia-vital/demografia-vital-api-2026-09-18.tsv));
   els anys anteriors continuen sense publicar-se en aquesta font.
 - ~~**Per què el total del quinquenni difereix en una o dues morts de la suma anual.**~~ — **`parcial` el 2026-09-20**: la taula dona **1.765** morts per al quinquenni **2017–2021** i **1.688** per al **2016–2020**, mentre que la suma de la sèrie anual dona **1.763** i **1.687**, respectivament. **El corpus registra com a hipòtesis una definició diferent de qui compta o una reassignació posterior, però cap font n’explica la causa.**
-- **Els suïcidis**, que aquí van dins de «lesions i emmetzinaments» i no es
-  poden separar.
+- ~~**Els suïcidis**, que aquí van dins de «lesions i emmetzinaments» i no es
+  poden separar.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

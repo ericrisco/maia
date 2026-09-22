@@ -123,14 +123,14 @@ de treball pactat** amb la persona (article 3.n).
   **De quaranta serveis, setze són garantits i la resta de concurrència o
   mixtos.** Els **garantits sense condicions**:
 
-  - **atenció primària**;
-  - **acolliment residencial d'infants i adolescents** i **de protecció
-    intensiva**;
-  - **provisió de suports**, **atenció precoç**, **servei telefònic d'urgència**,
-    **trobada familiar**, **interpretació de llenguatge de signes**;
-  - **atenció a la infància i l'adolescència**, **acolliments familiars**,
-    **adopcions**, **prevenció i atenció als joves**;
-  - **igualtat**, **atenció a les víctimes de violència de gènere**, **de
+  - ~~**atenció primària**;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**acolliment residencial d'infants i adolescents** i **de protecció
+    intensiva**;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**provisió de suports**, **atenció precoç**, **servei telefònic d'urgència**,
+    **trobada familiar**, **interpretació de llenguatge de signes**;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**atenció a la infància i l'adolescència**, **acolliments familiars**,
+    **adopcions**, **prevenció i atenció als joves**;~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**igualtat**, **atenció a les víctimes de violència de gènere**, **de
     violència domèstica i familiar**, **a les persones refugiades** i **a les
     víctimes del tràfic d'éssers humans**.
 
@@ -149,7 +149,7 @@ de treball pactat** amb la persona (article 3.n).
 
   **I el que queda sempre a concurrència** inclou la **guarderia**, l'**esplai**,
   el **casal de gent gran**, el **taller ocupacional**, l'**assistència
-  personal**, els **habitatges tutelats** i el **suport a la inclusió laboral**.
+  personal**, els **habitatges tutelats** i el **suport a la inclusió laboral**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si Andorra fa trasplantaments** o si depèn d'acords amb l'exterior, no
   consta.~~ — **`parcial` el 17-09-2026, i el que es tanca és una via.**
   **Escombrat el [BOPA](../../../fonts/bopa.md)**: les cadenes «obtenció o el
@@ -170,21 +170,21 @@ de treball pactat** amb la persona (article 3.n).
   224/2021). **La donació existeix com a fet cobert per la CASS abans que com a
   activitat hospitalària registrada.**
 
-  - **Preveu centres de trasplantament a Andorra.** L'autoritat competent
+  - ~~**Preveu centres de trasplantament a Andorra.** L'autoritat competent
     **atorga les autoritzacions de funcionament «als centres on s'efectuï
     l'obtenció o el trasplantament d'òrgans»**, i **pot suspendre-les o
     retirar-les**. **Cap centre no pot obtenir òrgans de donant viu si no té
     l'autorització com a centre de trasplantament per a aquell òrgan** (art. 18.1
-    del text consolidat).
-  - **Preveu el càrrec que només existeix si es fa**: **«el responsable de la
+    del text consolidat).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Preveu el càrrec que només existeix si es fa**: **«el responsable de la
     coordinació hospitalària de trasplantaments»**, que ha d'emetre el document
     que acredita la voluntat del difunt, la informació als familiars i que **els
-    metges que certifiquen la mort no formen part de l'equip de trasplantament**.
-  - **I preveu l'exterior**: entre les funcions de l'autoritat competent hi ha
+    metges que certifiquen la mort no formen part de l'equip de trasplantament**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**I preveu l'exterior**: entre les funcions de l'autoritat competent hi ha
     **«supervisar i coordinar els intercanvis d'òrgans, cèl·lules, teixits i sang
     efectuats amb altres països»**, i **el registre d'establiments ha de ser
-    homologable al registre europeu**.
-  - **Fins i tot preveu la donació creuada** entre persones relacionades
+    homologable al registre europeu**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Fins i tot preveu la donació creuada** entre persones relacionades
     genèticament, per parentiu o per amistat íntima (art. 14.2).
 
   > **El marc legal andorrà contempla que es facin trasplantaments al país i
@@ -195,7 +195,7 @@ de treball pactat** amb la persona (article 3.n).
   > [quantes societats hi ha
   > inscrites](../../economia/comerc/qui-respon-duna-societat.md).
   > `Requereix font externa: el registre d'organitzacions d'obtenció i
-  > trasplantament d'òrgans, o la memòria del SAAS.`
+  > trasplantament d'òrgans, o la memòria del SAAS.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La Llei de recerca i innovació biomèdica** (54 articles) només s'ha
   identificat: comitès d'ètica, assaigs clínics i biobancs **queden per llegir**.~~
   — **`resolt` el 17-09-2026**, llegida la **Llei 3/2023** sencera

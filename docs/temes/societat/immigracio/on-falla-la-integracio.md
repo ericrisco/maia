@@ -308,8 +308,8 @@ estalvia que algú hi torni esperant-hi el que no hi ha.
    les primeres classes de català que organitza el Consell General són per a
    adults**. **El que sí que té data pròpia és una altra cosa**: el **Centre
    d'educació bàsica d'adults**, del **1997**.
-5. **Dades d'habitatge**: quantes famílies vivien en habitació d'hotel o pis
-   dividit, el 1989 i el 1997.
+5. ~~**Dades d'habitatge**: quantes famílies vivien en habitació d'hotel o pis
+   dividit, el 1989 i el 1997.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Els programes d'atenció directa de Càritas Andorrana**, que la ponència
    detalla i aquesta fitxa només recull en part.~~ — **`parcial` el 19-09-2026**:
    la fitxa ja documenta el **programa de reforç escolar** per a infants amb

@@ -311,13 +311,13 @@ crisi.`
   treballa sense permís de fronterer i viu fora igualment.` El raonament
   anterior es conserva perquè explica per què no es trobava: **El corpus té la raó
   estadística i la raó històrica del buit, per separat:**
-  1. **Els fronterers són justament la categoria que els recomptes andorrans no
+  1. ~~**Els fronterers són justament la categoria que els recomptes andorrans no
      fixen.** El **registre estadístic de població** té un concepte «tan ampli
      que fins i tot pot arribar a incloure» **fronterers**, cosa que **el separa
      dels altres dos recomptes**, i el **cens estadístic**, que seria
      l'instrument per identificar la residència habitual, **es descriu en futur**
-     ([qui compta com a resident](../demografia/qui-compta-com-a-resident.md)).
-  2. **La norma migratòria va decidir expressament de no comptar-los.** A les
+     ([qui compta com a resident](../demografia/qui-compta-com-a-resident.md)).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  2. ~~**La norma migratòria va decidir expressament de no comptar-los.** A les
      quotes de **1986, 1987 i 1989**, dels treballadors fronterers **«no se'n
      comptabilitza el nombre»**, a condició que **visquin de debò a la zona
      fronterera**
@@ -325,7 +325,7 @@ crisi.`
 
   **Un país que primer va decidir no comptar-los i després no va construir
   l'instrument que els comptaria.** `Requereix font externa: Estadística, o la
-  CASS per afiliats amb domicili fora del país.`
+  CASS per afiliats amb domicili fora del país.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~La relació amb les **quotes d'immigració** i amb la
   [nacionalitat](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md).~~
   — **`parcial`: la banda de les quotes es tanca amb el corpus.** **Andorra hi

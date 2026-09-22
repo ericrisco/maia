@@ -209,8 +209,8 @@ dona el rector. **Aprovada el 30 de juliol, publicada el 20 d'agost.**
   declara [l'ensenyament espanyol](./lensenyament-espanyol.md)** com a «règim de
   col·laboració de 1981 entre el copríncep episcopal i el govern espanyol».
   **Dos articles, la mateixa peça, cap dels dos no la té.**
-- **Les actes del Consell General de final dels vuitanta** sobre les
-  negociacions educatives — **font primària nomenada per la font**.
+- ~~**Les actes del Consell General de final dels vuitanta** sobre les
+  negociacions educatives — **font primària nomenada per la font**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**L'estat d'aquest marc legal el 2026.**~~ — **`parcial` el 19-09-2026**:
   el corpus ja pot situar els dos convenis bilaterals més recents que afecten
   directament els sistemes escolars —**Espanya, ratificat el 17 de maig del

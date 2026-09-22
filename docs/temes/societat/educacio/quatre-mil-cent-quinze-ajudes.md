@@ -110,12 +110,12 @@ del 2024.`
 
 ## El que falta
 
-- **Els anys anteriors al 2016.** `serie_estadistica`
+- ~~**Els anys anteriors al 2016.** `serie_estadistica`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Per què es denega**~~ — **`parcial` el 2026-09-20**: la taxa de
   denegació passa del **10,6% el 2016** al **17,7% el 2024** (**456** casos el
   2023 i **484** el 2024), però la font no publica cap motiu de denegació.
-- **La renda de les famílies que les demanen**, que és el criteri de la llei i
-  **no es publica.** `font_externa`
+- ~~**La renda de les famílies que les demanen**, que és el criteri de la llei i
+  **no es publica.** `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**A quines universitats van els becats**, i a quins països. La fitxa de [la
   Universitat d'Andorra](./la-universitat-dandorra.md) tracta una qüestió
   institucional diferent i no aporta aquesta distribució. `font_externa`~~ —

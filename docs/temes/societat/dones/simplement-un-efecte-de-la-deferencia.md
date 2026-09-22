@@ -195,8 +195,8 @@ silenci no era neutre.**
 
 ## Buits registrats
 
-1. **Quin era el plet sobre el quart de la vídua pobra**, i **la seva
-   transacció**. **Sense data ni referència.**
+1. ~~**Quin era el plet sobre el quart de la vídua pobra**, i **la seva
+   transacció**. **Sense data ni referència.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**Què deia l'article *Vidua* dels Usatges** en text, i **la constitució de 1351 que condiciona la *tenuta* a l'absència d'hipoteca especial.**~~ — **`parcial` el 21-09-2026**: la fitxa n'explica la funció en la protecció de la vídua i identifica la constitució de 1351, però no té els textos literals dels Usatges i de les Constitucions de Catalunya.
 3. ~~**La sentència del batlle Isidor Galí de 1868**, sencera.~~ —
    **`font_externa` el 2026-09-22**: la fitxa en conserva el criteri però no el
@@ -205,8 +205,8 @@ silenci no era neutre.**
    **amb data exacta**.~~ — **`font_externa` el 2026-09-22**: la font només en
    dona el mes i el criteri; cal localitzar l'original per completar la data i
    llegir-la sencera.
-5. **Si la vídua tornada a casar de 1784 conservava realment la *tenuta***, o **si
-   el notari va fer servir el mot per inèrcia.** **La font no ho aclareix.**
+5. ~~**Si la vídua tornada a casar de 1784 conservava realment la *tenuta***, o **si
+   el notari va fer servir el mot per inèrcia.** **La font no ho aclareix.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Quantes vídues *ab intestat* hi va haver de fet**: si les successions es
    regulaven gairebé sempre per contracte o testament, **el cas discutit podia ser
    raríssim**.~~ — **`parcial` des del 2026-09-18, i no és una xifra sinó un
@@ -217,9 +217,9 @@ silenci no era neutre.**
    que contenia la institució** ([fas hereva la mia
    ànima](../../historia/antic-regim/fas-hereva-la-mia-anima.md)). **La
    freqüència segueix sense saber-se.**
-7. **El conveni homologat el 13 d'agost de 1793**, sencer.
-8. **Si la regla del 12 d'octubre de 1861 sobre el dot *inestimadament* es va
-   aplicar més vegades**, o **va quedar en aquella sentència.**
+7. ~~**El conveni homologat el 13 d'agost de 1793**, sencer.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+8. ~~**Si la regla del 12 d'octubre de 1861 sobre el dot *inestimadament* es va
+   aplicar més vegades**, o **va quedar en aquella sentència.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

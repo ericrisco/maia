@@ -188,9 +188,9 @@ diferents.**
 
 - ~~**La segona part de la ponència**, sobre l'evolució de la població andorrana.~~ — **`resolt` el 18-09-2026, i el buit estava mal plantejat**: **les dades demogràfiques del volum no són a la segona part de Becat, són a una ponència diferent** —**«Població i migracions actuals», de M. Francesca Ros Pascuet**—, destil·lada a [Quatre menes de parròquia](../demografia/quatre-menes-de-parroquia.md).
 - ~~**Les altres ponències del volum del 1989**, que és sencer sobre migracions.~~ — **`resolt` el 18-09-2026**: **el volum és llegit sencer** —Becat, Camiade, [Ros Pascuet](../demografia/quatre-menes-de-parroquia.md), [Armengol](../demografia/les-tres-migracions.md), [Bartumeu](../proteccio-social/la-caixa-va-neixer-de-la-immigracio.md), [Josep Vila](../../economia/transformacio-economica/leconomia-que-cridava-la-ma-dobra.md), [Ladislau Baró](./qui-fixava-les-quotes.md), Agustí Font i els debats—. **La ponència de Pere Cavero sobre el futur demogràfic figura al programa de la diada i no és al volum imprès.**
-- **Quines mesures i codis** critica Becat. **Prioritari.**
-- **Si el debat de les Diades va pesar** en la creació de Ràdio Nacional
-  d'Andorra (1990) i Andorra Televisió (1995).
+- ~~**Quines mesures i codis** critica Becat. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Si el debat de les Diades va pesar** en la creació de Ràdio Nacional
+  d'Andorra (1990) i Andorra Televisió (1995).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La tesi de Becat** en set volums (Montpeller, 1993), citada per altres
   fonts del corpus i **no consultada**.~~ — **`parcial`, i el motiu és el que
   el corpus ja s'ha trobat altres vegades: un volum sencer d'aquesta tesi és

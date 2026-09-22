@@ -77,11 +77,11 @@ esportiva pròpia, i el corpus no n'ha buidat cap.
   documenta la fundació, l'afiliació a la Federació Catalana i la competició a
   la lliga espanyola; [la lliga andorrana](../../esports/futbol/clubs-i-competicions/la-lliga.md)
   n'explica el contrast institucional.
-- La selecció andorrana de futbol i la seva relació amb la identitat.
-- Les estacions d'esquí com a **indústria**, no com a esport — això va a
-  [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).
-- Els esportistes andorrans un per un.
-- L'esport escolar i els tres sistemes educatius.
+- ~~La selecció andorrana de futbol i la seva relació amb la identitat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Les estacions d'esquí com a **indústria**, no com a esport — això va a
+  [turisme i neu](../../economia/turisme-i-neu/turisme-i-neu.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~Els esportistes andorrans un per un.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'esport escolar i els tres sistemes educatius.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

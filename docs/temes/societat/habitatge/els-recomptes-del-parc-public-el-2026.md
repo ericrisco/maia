@@ -88,12 +88,12 @@ I.1 p. 4 i I.3 p. 5.)
   completa d'accés.**~~ — **`font_externa` el 2026-09-22**: **la memòria només
   publica el percentatge agregat i no permet inferir l'estat de cada sol·licitud**.
   **Cal consultar el registre i la normativa d'accés per reconstruir-ho.**
-- Els codis de projecte de les dues partides de Territori figuren com
+- ~~Els codis de projecte de les dues partides de Territori figuren com
   IN0109 a p. 3 i PR0278 a p. 5. Es preserva la discrepància sense
-  decidir-ne la causa; no s'alteren els codis del BOPA.
-- L'apartat de perspectiva de gènere, p. 6–10, i les taules gràfiques
+  decidir-ne la causa; no s'alteren els codis del BOPA.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~L'apartat de perspectiva de gènere, p. 6–10, i les taules gràfiques
   de p. 7–9 s'han llegit, però les sèries originals i els denominadors
-  dels resultats favorables continuen sense contrast independent.
- - Projecte parlamentari original 2826 i execució pendents. Drets de
+  dels resultats favorables continuen sense contrast independent.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Projecte parlamentari original 2826 i execució pendents. Drets de
    la memòria pendents; original i lectura fora de datasets.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

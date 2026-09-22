@@ -116,13 +116,13 @@ retret: és un patró, i un model que el conegui entendrà molt millor el país.
 
 ## Buits registrats
 
-1. **Fonts orals** sobre com es recorda FHASA a les cases. **Material de fase 3.**
-2. **Què deia la premsa andorrana** aleshores i als aniversaris.
-3. **Quants vaguistes van ser expulsats** i què se'n va fer.
-4. **Si hi ha monument, placa o commemoració** de la vaga. **Buit revelador si la
-   resposta és que no.**
-5. L'enquesta del **CRES** sobre sindicats
-   ([el sindicalisme](./el-sindicalisme.md)), sencera.
+1. ~~**Fonts orals** sobre com es recorda FHASA a les cases. **Material de fase 3.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+2. ~~**Què deia la premsa andorrana** aleshores i als aniversaris.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+3. ~~**Quants vaguistes van ser expulsats** i què se'n va fer.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Si hi ha monument, placa o commemoració** de la vaga. **Buit revelador si la
+   resposta és que no.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~L'enquesta del **CRES** sobre sindicats
+   ([el sindicalisme](./el-sindicalisme.md)), sencera.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

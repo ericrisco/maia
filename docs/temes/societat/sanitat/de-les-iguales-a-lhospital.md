@@ -197,8 +197,8 @@ comprova**. Aquest corpus les marca sempre.
    (medicina interna i anestèsia) i **Pujol** (tocoginecologia), i la fitxa de
    [la Clínica Vilanova](./la-clinica-vilanova.md#els-tres-metges) identifica
    **Antoni Vilanova** (cirurgia i cap) i **Dr. Ruiz** (anestèsia).
-7. La **CASS com a font primària** — segueix sense obrir-se
-   ([la CASS i la sanitat](./la-cass-i-la-sanitat.md)).
+7. ~~La **CASS com a font primària** — segueix sense obrir-se
+   ([la CASS i la sanitat](./la-cass-i-la-sanitat.md)).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

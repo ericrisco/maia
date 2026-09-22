@@ -205,7 +205,7 @@ coses són al mateix autor**, i el corpus les deixa totes dues.
   Marató de TV3 del 2002 ni n'acredita la represa. El que queda documentat és
   una política posterior per impulsar recerca, no la continuació d'aquella
   mostra ([font local](../../../raw/web/societat/salut-mental/README.md)).
-- **El congrés del 2001**: actes i publicacions que en van sortir.
+- ~~**El congrés del 2001**: actes i publicacions que en van sortir.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**On diu Fiter i Rossell** que no hi ha diferència essencial.~~ **TANCAT**:
   capítol tercer del Manual Digest, via Camiade. **Queda obert verificar-ho
   contra el text del Manual Digest mateix**: és una citació de segona mà.

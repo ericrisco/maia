@@ -183,11 +183,11 @@ mèdicament per la CASS** que incapaciti per a qualsevol activitat professional.
   segona de 2011, malaltia greu o còmput de pensions de reversió.~~ —
   **`font_externa` el 2026-09-22**: cal consultar la correcció publicada, les
   instruccions internes i els expedients administratius corresponents.
-- No s’han verificat imports en euros, nombre de persones afiliades,
+- ~~No s’han verificat imports en euros, nombre de persones afiliades,
   arrodoniments, tots els requisits dels assegurats indirectes ni totes
   les prestacions i remissions de l’article. No és una llista exhaustiva
-  de vies per mantenir cobertura després de perdre la feina.
- - La secció de la CASS s’ha llegit completa i es declara informativa,
+  de vies per mantenir cobertura després de perdre la feina.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~La secció de la CASS s’ha llegit completa i es declara informativa,
    sense validesa jurídica. Els seus drets de reutilització continuen
    pendents; el material es conserva fora del corpus i de qualsevol dataset.
-   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+   **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

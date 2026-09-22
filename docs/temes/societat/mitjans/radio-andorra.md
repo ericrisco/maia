@@ -119,7 +119,7 @@ estat, i qui en té els drets.
 
 ## El que falta
 
-- El paper d'Andorra durant la Segona Guerra Mundial en conjunt.
+- ~~El paper d'Andorra durant la Segona Guerra Mundial en conjunt.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~Qui era **Victòria Zorzano** — la primera veu.~~ — **`parcial`, confirmat
   el 19-09-2026**: fitxa pròpia amb la incorporació del 27 d'abril de 1940 i el
   paper de veu femenina popular; la biografia completa continua oberta.
@@ -155,8 +155,8 @@ estat, i qui en té els drets.
   Trémoulet va ser acusat i condemnat a mort pels tribunals francesos el 1946
   per col·laboracionisme amb els nazis, i absolt el 1949; la font no prova que
   l'emissora fos cedida al govern franquista.
-- **Les assemblees magnes** com a instrument de legitimació exterior.
-- El debat del tancament del 1981, amb les dues versions.
+- ~~**Les assemblees magnes** com a instrument de legitimació exterior.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~El debat del tancament del 1981, amb les dues versions.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

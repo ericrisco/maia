@@ -446,12 +446,12 @@ en deixen fora molta gent— però la distància és prou gran per registrar-la.
   d'Afers Socials**, **CC BY 4.0**). **La unitat de recompte són quatre i no
   una** —sol·licituds, resolucions favorables, llars i persones—: vegeu
   [Quanta gent la cobra](#quanta-gent-la-cobra-setanta-una-sollicituds-favorables-el-2024).
-- **L'arrodoniment de «la meitat dels dies»** de l'article 26.4.d amb
+- ~~**L'arrodoniment de «la meitat dels dies»** de l'article 26.4.d amb
   compensacions de dies senars no el resol el text, i no s'ha buscat cap
-  instrucció administrativa que ho fixi.
-- **Quina part del territori cau dins dels vint quilòmetres** de l'article
+  instrucció administrativa que ho fixi.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quina part del territori cau dins dels vint quilòmetres** de l'article
   26.4.f.iv segons el domicili: càlcul no fet. El corpus no afirma que el límit
-  cobreixi tot el país.
+  cobreixi tot el país.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Cap jurisprudència llegida sobre l'article 26.3.**~~ — **`font_externa` el
   2026-09-22**: **la fitxa no ha localitzat cap resolució que interpreti el
   requisit d'haver impugnat l'acomiadament**. **Cal consultar jurisprudència

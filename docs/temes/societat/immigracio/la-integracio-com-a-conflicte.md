@@ -178,8 +178,8 @@ I Goya no la converteix en nihilisme:
 
 1. ~~**Barate i Riera, *Le dépassement des contradictions en Andorre*** (1980).
    **Prioritari.** El corpus en té un paràgraf de segona mà.~~ — **`parcial` el 21-09-2026**: la fitxa de [Per una integració democràtica](../../../fonts/goya-integracio-democratica-1997.md) en conserva la citació francesa i l'any **1980**, però només de segona mà i sense referència editorial completa ni lectura de l'original.
-2. **L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
-   quina norma, i què se'n va dir. **Prioritari.**
+2. ~~**L'acomiadament dels mestres estrangers de l'estiu de 1996**: quants, per
+   quina norma, i què se'n va dir. **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Els edictes de contractació pública** de 1996-1997 i la seva
    redacció.~~ — **`parcial` el 18-09-2026**: vuit edictes del BOPA (1990,
    1993 ×3, 1994, 1995, 1996 ×2, 1997 ×2) de contractació d'ensenyants
@@ -205,8 +205,8 @@ I Goya no la converteix en nihilisme:
    sense tenir una sèrie de ministres per cartera i any, que és el que faria
    comprovables afirmacions com aquesta sense sortir del corpus.`
    `serie_estadistica`
-5. **Si l'accés per temps de residència és realment del 1995** o hi ha
-   precedents.
+5. ~~**Si l'accés per temps de residència és realment del 1995** o hi ha
+   precedents.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

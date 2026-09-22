@@ -309,18 +309,18 @@ registrat.**
    2010 no diu res del cost**, ni de la revisió ni de les proves complementàries
    que l'article 6.1 permet. `Requereix l'edicte de preus públics o una petició
    al ministeri.`
-4. **Quantes denegacions hi ha per inaptitud mèdica**, i per quin dels tres
-   criteris.
-5. **Com s'aplica el criteri c)** —la «càrrega excessiva»— en la pràctica: qui
-   ho valora i amb quin llindar.
+4. ~~**Quantes denegacions hi ha per inaptitud mèdica**, i per quin dels tres
+   criteris.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Com s'aplica el criteri c)** —la «càrrega excessiva»— en la pràctica: qui
+   ho valora i amb quin llindar.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**El text del protocol de 1997**~~ — **`parcial` el 17-09-2026**: **cap norma
    amb aquest nom no és al BOPA**, i la que hi havia
    vigent el 1997 era el **Reglament del 15 de juny de 1993**, ara llegit. **El
    «protocol de salut» que denunciava l'ADMA o bé és aquest reglament anomenat
    d'una altra manera, o bé és una instrucció interna que no es publica.**
    `Requereix el ministeri.`
-7. **Si la retirada dels drets d'oposició i supressió** sobre el fitxer mèdic
-   s'ha discutit mai —a l'APDA, als tribunals o al Consell General.
+7. ~~**Si la retirada dels drets d'oposició i supressió** sobre el fitxer mèdic
+   s'ha discutit mai —a l'APDA, als tribunals o al Consell General.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

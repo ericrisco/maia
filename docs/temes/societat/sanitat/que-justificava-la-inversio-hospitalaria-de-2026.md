@@ -93,16 +93,16 @@ errata, a una versió anterior ni a una exclusió comptable determinada.
   el 19-09-2026**: la [memòria d'Habitatge](../habitatge/els-recomptes-del-parc-public-el-2026.md)
   també s'ha llegit. El projecte parlamentari original, els contractes,
   l'execució i la recepció d'obres continuen pendents.
-- No s'ha verificat la partida receptora dels 750.000 euros, les
-  discrepàncies numèriques ni una correcció posterior de l'informe.
+- ~~No s'ha verificat la partida receptora dels 750.000 euros, les
+  discrepàncies numèriques ni una correcció posterior de l'informe.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~No s'han contrastat l'inventari independent d'equips de RMN,
   la posada en servei posterior ni l'expedient de certificació de l'heliport.~~ —
   **`font_externa` el 2026-09-22**: cal consultar l'inventari d'equipament i els
   expedients de posada en servei i certificació per comprovar el resultat de la
   inversió.
-- Els beneficis clínics, econòmics i organitzatius previstos per Salut
+- ~~Els beneficis clínics, econòmics i organitzatius previstos per Salut
   no s'han validat amb resultats o estudis independents. L'apartat de
-  perspectiva de gènere s'ha llegit sense destil·lar-ne les remissions legals.
- - Drets de les memòries i de l'informe pendents; originals i aquesta
+  perspectiva de gènere s'ha llegit sense destil·lar-ne les remissions legals.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Drets de les memòries i de l'informe pendents; originals i aquesta
    lectura queden fora de datasets. **`no-es-buit`**: és un avís de drets, no
-   una pregunta de recerca.
+   una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

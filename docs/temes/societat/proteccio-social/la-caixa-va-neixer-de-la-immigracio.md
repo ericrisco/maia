@@ -205,11 +205,11 @@ social amb França i sobretot amb Espanya neixen de la composició del règim**,
 - ~~**La sèrie posterior al 1988** de cotitzants i no cotitzants, i **si la
   inversió que Bartumeu temia s'ha produït.**~~ — **`font_externa` el
   2026-09-22**: cal obtenir les sèries estadístiques posteriors a la ponència.
-- **Quantes persones hi havia assegurades sense permís de treball**, que la
-  ponència dedueix i no quantifica. `font_externa`
-- **El decret del Consell General del 1966** que crea el règim, en text. **El
+- ~~**Quantes persones hi havia assegurades sense permís de treball**, que la
+  ponència dedueix i no quantifica. `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El decret del Consell General del 1966** que crea el règim, en text. **El
   [BOPA](../../../fonts/bopa.md) comença el 1989 i no el pot tenir.**
-  `font_externa`
+  `font_externa`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El defecte del quadre 3**~~ — **provat i documentat a la
   [fitxa de font](../../../fonts/bartumeu-immigracio-proteccio-social-1989.md)**:
   **la fila de no-cotitzants està desplaçada una columna** i **els percentatges,

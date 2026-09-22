@@ -263,9 +263,9 @@ demogràfic observat a Europa»— i **el ritme del 1976-1987 encara la supera.*
   [Ladislau Baró](../immigracio/qui-fixava-les-quotes.md) **i els debats.**
 - ~~**Les fonts primàries que l'autora cita**: **Bricall (1975)** i **Adellach i
   Ganyet (1977)**, cap de les dues al corpus.~~ — **`parcial` el 21-09-2026**: la fitxa identifica les dues referències primàries i els anys que la ponència cita, però el corpus encara no en té els textos ni les dades que hi van aportar.
-- **Drets tancats.** **Cap llicència declarada al volum.** **Res d'aquesta font
+- ~~**Drets tancats.** **Cap llicència declarada al volum.** **Res d'aquesta font
   no entra en cap dataset**, i **ni el PDF ni els renders no es versionen.**
-  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.
+  **`no-es-buit`**: és un avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

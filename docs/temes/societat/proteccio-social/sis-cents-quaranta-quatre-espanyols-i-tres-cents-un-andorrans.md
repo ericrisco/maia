@@ -187,10 +187,10 @@ el curs 2013 i 1.871 el del 2024**
   **12 el 2025**, amb descens cada any, i la fitxa acota que sembla una
   prestació tancada a nous beneficiaris que s'apaga amb els existents. La nota no
   identifica l'acte normatiu ni confirma si hi ha hagut baixes per altres causes.
-- **Quants dels 644 espanyols cobren també pensió espanyola.** **És la pregunta
+- ~~**Quants dels 644 espanyols cobren també pensió espanyola.** **És la pregunta
   que decideix si la xifra mesura pobresa o mesura carrera de cotització
   partida**, i **cap de les dues administracions no ho publica aquí.**
-  **Prioritari.**
+  **Prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**La sèrie anterior al 2019.**~~ — **`resolt` el 18-09-2026**: **la PSGG
   arrenca el 2016 (679 beneficiaris), l'article 20 el 2013 (165), les pensions
   no contributives el 2013 (121) i les prestacions de l'habitatge el 2010

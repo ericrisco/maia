@@ -319,8 +319,8 @@ en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
    autors —**Dolors Batalla, Jordi Casals i Miquel Àngel Micó**—, l'editorial
    **Pagès Editors** i l'any **2004**, i en conserva la hipòtesi de les tres
    fractures; el corpus encara no ha llegit el llibre sencer.
-2. **Els informes del Consell d'Europa** (ECRI) sobre Andorra. La font en cita
-   el **tercer, del 2008**, amb URL.
+2. ~~**Els informes del Consell d'Europa** (ECRI) sobre Andorra. La font en cita
+   el **tercer, del 2008**, amb URL.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**Si la posició de la comunitat marroquina ha canviat** entre el 1997 de
    Raguig i el 2021.~~ — **`parcial` el 18-09-2026, amb la sèrie de població per
    nacionalitat de l'API d'Estadística** (`docs/raw/estadistica-api/`, CC BY
@@ -349,7 +349,7 @@ en puja un 38,7% i Xile un 24,2%**, **el creixement més baix de la taula**,
    Pas de la Casa** i les **jornades interculturals del Comú d'Andorra la
    Vella** com a espais d'interacció entre grups; encara no en consten les
    dates, els organitzadors ni la continuïtat.
-5. **D'on ve «pota negra»** i des de quan es diu.
+5. ~~**D'on ve «pota negra»** i des de quan es diu.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 6. ~~**Quantes candidatures amb cognoms no andorrans**, amb xifres.~~ —
    **`parcial` el 21-09-2026**: la font observa que a les candidatures de tots
    els partits i en qualsevol elecció **cada cop hi ha més cognoms d'origen no

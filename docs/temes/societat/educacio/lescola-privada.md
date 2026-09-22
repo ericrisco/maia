@@ -102,7 +102,7 @@ s'anuncia una escola privada a Andorra l'any 2000.**
 
 ## Buits registrats
 
-- **D'on venen els alumnes** i quants són interns.
+- ~~**D'on venen els alumnes** i quants són interns.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Què costa.** La font no dona cap xifra.~~ — **`no-es-buit` el
   2026-09-20**: la ponència és una presentació del centre i descriu l'obertura,
   els 45 alumnes i el model d'internat, però no publica cap preu de matrícula;

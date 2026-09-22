@@ -54,8 +54,8 @@ resoldre una demanda i rebre assistència són fets diferents.
   administratives, i si les demandes pendents entren al recompte.**~~ —
   **`font_externa` el 2026-09-22**: **la taula publicada no desglossa aquestes
   fases ni l'estat de les demandes**. **Cal la definició metodològica de la font.**
-- Tres pàgines, 77–79, llegides completes amb renders vistos; la taula
+- ~~Tres pàgines, 77–79, llegides completes amb renders vistos; la taula
   de p. 78 és una imatge que l’extracció textual omet. No lectura íntegra
-  de les 331 pàgines, ni validació independent o seguiment posterior.
- - Drets CASS pendents d’autorització; cap dataset. **`no-es-buit`**: és un
-   avís de drets, no una pregunta de recerca.
+  de les 331 pàgines, ni validació independent o seguiment posterior.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+ - ~~Drets CASS pendents d’autorització; cap dataset. **`no-es-buit`**: és un
+   avís de drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.

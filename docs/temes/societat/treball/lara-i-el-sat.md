@@ -131,8 +131,8 @@ parapúblics.
 
 ## Buits registrats
 
-1. **El manifest de l'ARA a Andorra-7** — text i data. **Font primària
-   localitzable.**
+1. ~~**El manifest de l'ARA a Andorra-7** — text i data. **Font primària
+   localitzable.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**El Centre Cultural d'Andorra**: què era, qui hi havia.~~ — **`parcial`,
    19-09-2026**: ja en tenim la fundació (1975), el període actiu (1975–1980),
    les activitats, **Jordi Sasplugas** i **Xavier Rebés**; la nòmina completa de
@@ -143,7 +143,7 @@ parapúblics.
    tard va ser nomenat president honorífic del SAT**
    ([font](../../../fonts/altaveu-orihuela-obituari-ara-sat.md)). **La resta
    de noms segueixen sense identificar.**
-4. **Què va ser de l'ARA** — existeix encara?
+4. ~~**Què va ser de l'ARA** — existeix encara?~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**La segmentació social** dels col·lectius immigrats, descrita.~~ —
    **`parcial` el 21-09-2026**: la fitxa [La societat segmentada](../immigracio/la-societat-segmentada.md)
    identifica una fractura **econòmica i ocupacional**, una de **política**

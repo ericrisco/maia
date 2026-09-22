@@ -121,8 +121,8 @@ i mig abans.
    ells** —«*se ha comvengut ab dits metges que en avan correrà la conducta a
    rahó de sent lliures quiscun*». `Requereix la data d'entrada de la iguala
    pròpiament dita, que segueix oberta.`
-3. **Quines mútues** de fora s'utilitzaven i on eren.
-4. **Què passava** amb qui no podia pagar-ne cap.
+3. ~~**Quines mútues** de fora s'utilitzaven i on eren.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**Què passava** amb qui no podia pagar-ne cap.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~Si **queda documentació**: contractes d'iguala, comptes de comú.~~ —
    **`parcial` el 18-09-2026**: **de conducta, sí, i molta**: **els quatre
    llibres d'actes en porten prop de

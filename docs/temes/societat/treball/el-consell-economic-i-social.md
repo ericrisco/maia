@@ -64,10 +64,10 @@ font.**
    mesures per incentivar la representació al sector privat, i que després hi
    va haver diverses rondes de negociació; el corpus encara no conserva la
    relació individual dels dictàmens o informes emesos.
-3. **Els noms** dels representants sindicals, patronals i cívics que
-   l'han integrat.
-4. **El reglament de funcionament** en si — el corpus només en sap
-   l'existència.
+3. ~~**Els noms** dels representants sindicals, patronals i cívics que
+   l'han integrat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~**El reglament de funcionament** en si — el corpus només en sap
+   l'existència.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

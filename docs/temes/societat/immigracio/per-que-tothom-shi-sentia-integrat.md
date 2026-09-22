@@ -246,8 +246,8 @@ provocació metodològica**— i no com una descripció d'Andorra.
 
 ## Buits registrats
 
-1. **La recerca completa** encarregada per la **Comissió Nacional Andorrana per
-   la Unesco**. Això n'és un avanç. **Prioritari i molt localitzable.**
+1. ~~**La recerca completa** encarregada per la **Comissió Nacional Andorrana per
+   la Unesco**. Això n'és un avanç. **Prioritari i molt localitzable.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 2. ~~**L'ARA (Associació de Residents d'Andorra)**: quan es funda —és l'única
    anterior al 1993—, què reclamava i què n'ha estat.~~ — **`resolt` el
    18-09-2026, i era un bessó**: el corpus ja en tenia fitxa pròpia a
@@ -274,8 +274,8 @@ provocació metodològica**— i no com una descripció d'Andorra.
    inaccessible (error DNS, comprovat amb WebFetch, r.jina.ai i curl
    directe)**. **El vincle ESRA–ICA queda registrat com a pista, no com a
    fet.**
-4. **La composició de les comissions** sobre residents passius: si mai n'han
-   inclòs cap.
+4. ~~**La composició de les comissions** sobre residents passius: si mai n'han
+   inclòs cap.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Si la representativitat que demanaven s'ha arribat a articular** d'alguna
    manera.~~ — **`parcial`, confirmat el 19-09-2026**: la ponència documenta que
    els residents volien **guanyar representativitat abans que obtenir el dret de
@@ -298,7 +298,7 @@ provocació metodològica**— i no com una descripció d'Andorra.
    buit dona per fet que és cosa de residents**, quan **el 2000 tres de cada
    quatre escolars del país sencer, andorrans inclosos, anaven a un sistema
    estranger.**
-7. **L'antropòleg italià** que Rui cita sense nomenar.
+7. ~~**L'antropòleg italià** que Rui cita sense nomenar.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

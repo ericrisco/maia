@@ -102,12 +102,12 @@ Podem Andorra ni la seva dissolució del 2021.** **Buit obert.**
   pròpia a [L'ARA i el SAT](./lara-i-el-sat.md), amb divergència
   registrada sobre l'any exacte de fundació (1976 segons Ubach, 1977
   segons un obituari d'Andrés Orihuela, un dels impulsors).
-- **La Unió Sindical d'Andorra** i **Podem Andorra**.
-- **Quants afiliats ha tingut mai.**
-- **Per què va caure en la inactivitat.**
-- **El dret de vaga**: el corpus té
+- ~~**La Unió Sindical d'Andorra** i **Podem Andorra**.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Quants afiliats ha tingut mai.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Per què va caure en la inactivitat.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**El dret de vaga**: el corpus té
   [el dret de vaga](./el-dret-de-vaga.md) i **no l'havia lligat amb això.**
-  **`no-es-buit`**: és una connexió entre fitxes, no una pregunta de recerca.
+  **`no-es-buit`**: és una connexió entre fitxes, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
 
 ## Related
 

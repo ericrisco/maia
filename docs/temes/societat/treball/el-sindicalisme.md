@@ -172,7 +172,7 @@ l'Organització Internacional del Treball**.
    «proporcionar elements als gestors públics». Vegeu
    [l'Institut d'Estudis Andorrans](../../cultura/museus-i-arxius/linstitut-destudis-andorrans.md).
    **Segueix obert si publica encara.**
-4. **Quants afiliats** tenien i tenen.
+4. ~~**Quants afiliats** tenien i tenen.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 5. ~~**Quan es reconeix legalment el SAT.**~~ **[parcial · 2026-09-19]** El
    primer marc legal general és la **Llei 33/2008, qualificada de llibertat
    sindical**, del **18 de desembre del 2008**, substituïda per la Llei 32/2018.

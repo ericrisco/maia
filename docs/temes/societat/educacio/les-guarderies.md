@@ -282,7 +282,7 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
   infraccions **molt greus** expressament tipificades; i **el servei de guarderia
   és competència dels comuns** (com el casal de gent gran i l'esplai parroquial),
   que l'han de prestar «directament o a través d'entitats col·laboradores».
-- **Si s'ha revocat mai una autorització**, ni quantes sancions s'han imposat.
+- ~~**Si s'ha revocat mai una autorització**, ni quantes sancions s'han imposat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El reglament del 30 de novembre de 1995**, anterior al del 2005, **no s'ha
   llegit**.~~ — **`resolt` el 17-09-2026** — vegeu
   [El reglament del 1995, i el que va canviar el 2005](#el-reglament-del-1995-i-el-que-va-canviar-el-2005).
@@ -300,8 +300,8 @@ ministeri valida abans d'autoritzar l'obertura** (article 25), i totes han de
   Baldufa, Prada Casadet i Conxita Mora Jordana** al complex dels Serradells
   ([evidència local](../../../raw/web/societat/educacio/llistat-guarderies-govern.txt)).
   **Els decrets històrics de creació de cada escola encara no s'han llegit.**
-- **Si el termini d'adaptació de cinc anys es va complir**, i què va passar amb
-  els centres que hi havia el 1995.
+- ~~**Si el termini d'adaptació de cinc anys es va complir**, i què va passar amb
+  els centres que hi havia el 1995.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

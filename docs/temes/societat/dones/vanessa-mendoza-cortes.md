@@ -129,9 +129,9 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
 
 ## El que falta
 
-- **Com ha acabat el procediment judicial.** **La font no en dona la
-  resolució.** **Buit prioritari.**
-- **La llei de l'avortament andorrana**: el corpus no la té. — **`obert` pel
+- ~~**Com ha acabat el procediment judicial.** **La font no en dona la
+  resolució.** **Buit prioritari.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**La llei de l'avortament andorrana**: el corpus no la té. — **`obert` pel
   que fa al text, i el corpus en té la raó política, que és millor que res.**
   **Durant la negociació constitucional del 1992-93 el copríncep episcopal va
   posar dues coses concretes com a inacceptables**: **«les previsibles lleis
@@ -140,7 +140,7 @@ l'altre perquè són el mateix mecanisme, amb trenta anys de diferència.**
   ([la transició nacional](../../historia/historia-recent/la-transicio-nacional.md)).
   **No hi ha llei d'avortament perquè un dels dos caps d'estat n'havia declarat
   la impossibilitat trenta anys abans.** `Marcat com a context, no com a
-  explicació causal provada.`
+  explicació causal provada.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Stop Violències**: cap fitxa de l'entitat.~~ — **`obert`, confirmat**: **cap
   altre document del corpus no l'esmenta.**
 - ~~**El primer Orgull d'Andorra**, del 2019.~~ — **`obert`, confirmat, i és un buit

@@ -247,7 +247,7 @@ que l'única col·lecció que existeix és en una biblioteca particular.
   encara no té la col·lecció sencera ni el recompte dels exemplars que es van
   arribar a distribuir.
 - ~~**Què va passar als detinguts** del segrest.~~ — **`parcial` el 21-09-2026**: el Tribunal de Corts va condemnar l'editor **Josep Alemany Borràs** el **juny de 1920** a **tres anys de desterrament**, **1.000 pessetes de multa** i **costes del procés**. **No consta el desenllaç individual dels altres detinguts ni del conductor Bartomeu Font.**
-- **El Cadí**, la revista de FHASA.
+- ~~**El Cadí**, la revista de FHASA.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Qui era Weillemann** i què hi pintava a *La Nova Andorra*.~~ —
   **`parcial` el 20-09-2026**: la mateixa fitxa només el identifica com
   **«un alemany»** i conserva que probablement va aportar diners a *La Nova

@@ -297,14 +297,14 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
 
   **Tres regles més que val la pena retenir:**
 
-  - **Nul·litat de ple dret** (article 22): **són nuls els actes i les clàusules
+  - ~~**Nul·litat de ple dret** (article 22): **són nuls els actes i les clàusules
     de negocis jurídics que «constitueixin o causin» situacions d'aquesta
-    violència.**
-  - **Legitimació activa de les entitats** (article 25): **associacions i
+    violència.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Legitimació activa de les entitats** (article 25): **associacions i
     organitzacions de defensa dels drets humans poden promoure accions
     judicials per les persones associades**, **sempre amb autorització
-    expressa.**
-  - **Obligacions de la policia** (article 21): **un grup d'atenció a les
+    expressa.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  - ~~**Obligacions de la policia** (article 21): **un grup d'atenció a les
     víctimes a cada despatx de policia**, i **el registre de dades de totes les
     formes de violència contra les dones «diferenciant-les de les relatives a
     la violència domèstica»**, amb sexe, edat, vincle i tipus d'actuació.
@@ -375,7 +375,7 @@ baixa de maternitat o paternitat** i **només el 3,0% amb excedència sola.**
   > **Això s'ha trobat aplicant la regla escrita el mateix dia**: *trobar el
   > document no és trobar el document vigent.* `Requereix llegir els
   > trenta-quatre articles del consolidat; el que s'ha llegit és què hi va
-  > canviar.`
+  > canviar.`~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si l'article 24 s'ha aplicat mai** en un judici andorrà, no consta.~~ —
   **`parcial` el 21-09-2026**: l’article 24 fixa la inversió de la càrrega de la
   prova en els processos d’igualtat, però **el corpus no ha localitzat cap

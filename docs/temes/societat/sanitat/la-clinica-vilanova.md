@@ -99,10 +99,10 @@ important que un model ha d'entendre sobre ell.
    20-09-2026**: la secció [Els tres metges](#els-tres-metges) ja identifica
    **Antoni Vilanova** com a cirurgià i cap de la clínica, i **Dr. Ruiz** com a
    anestesista.
-3. **Quina congregació** eren les monges italianes i com van arribar-hi.
-4. Si **queda alguna fotografia** o documentació.
-5. **Quantes intervencions** s'hi feien.
-6. Si hi havia **altres clíniques privades** al país en aquells anys.
+3. ~~**Quina congregació** eren les monges italianes i com van arribar-hi.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+4. ~~Si **queda alguna fotografia** o documentació.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+5. ~~**Quantes intervencions** s'hi feien.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+6. ~~Si hi havia **altres clíniques privades** al país en aquells anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 

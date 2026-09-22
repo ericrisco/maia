@@ -332,7 +332,7 @@ són **85 alumnes**.
   obria aquell setembre. **Per tant, Ordino i el tercer centre encara no
   existien en aquesta fotografia; queda obert si el pla per al 2002-03 es va
   executar.**
-- **L'aval de l'Institut de Llengües Romàniques de Basilea**: quin informe és.
+- ~~**L'aval de l'Institut de Llengües Romàniques de Basilea**: quin informe és.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Els programes publicats** (1998 maternal i primera ensenyança; setembre de
   1999 segona ensenyança; batxillerat previst per al 2003-04). **Són documents
   públics del Govern i el corpus no els ha llegit.**~~ — **`parcial` el

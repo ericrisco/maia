@@ -229,8 +229,8 @@ contrastat la seqüència completa amb la ponència original.
   anys, directors o nombre de números quan la font els registra. **Resta oberta
   la consulta d'exemplars i la comprovació de la llista completa de la
   ponència.**
-- **Si la llista de la Biblioteca Nacional és completa**: l'autora diu que no ho
-  pot garantir.
+- ~~**Si la llista de la Biblioteca Nacional és completa**: l'autora diu que no ho
+  pot garantir.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 
 ## Related
 
