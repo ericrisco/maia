@@ -1352,3 +1352,8 @@ El registre **ASC-3709** de l’Arxiu de les Set Claus identifica un foli del **
 
 - Fitxa: [Shifting occupation dynamics in the Madriu–Perafita–Claror valleys](fonts/orengo-madriu-neolitic-2014.md)
 - Article nou: [Quan el neolític va començar a fer el paisatge del Madriu](temes/historia/origens/quan-el-neolitic-va-comencar-a-fer-el-paisatge-del-madriu.md)
+
+### 145. 📝 incorpora Memòria preliminar de les intervencions arqueològiques a la vall del Madriu…
+
+- Fitxa: [Memòria preliminar de les intervencions arqueològiques a la vall del Madriu (2008)](fonts/palet-memoria-madriu-2008.md)
+- Article nou: [Quan el Madriu produïa pega en època romana](temes/historia/origens/quan-el-madriu-produia-pega-en-epoca-romana.md)
