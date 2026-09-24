@@ -1399,3 +1399,9 @@ Abast: Estudi del Roc d’Enclar com a comunitat rural del Pirineu oriental entr
 
 - Fitxa: [El Roc d’Enclar (Andorra): canvis i relacions d’una comunitat rural del Pirineu oriental entre els segles IV i VIII](fonts/ruf-yanez-roc-enclar-1997.md)
 - Article nou: [El Roc d’Enclar: una comunitat rural entre els segles IV i VIII](temes/historia/origens/el-roc-denclar-comunitat-rural-segles-iv-viii.md)
+
+### 153. 📝 incorpora Ferran de Sagarra — Sigil·lografia catalana, volum III
+
+Abast: Entrada 3407, pàgina impresa 82: segell de fra Bernat de Salbà i pergamí de confirmació dels privilegis de les Valls datat el 30 d’octubre de 1610
+
+- Fitxa: [Ferran de Sagarra — Sigil·lografia catalana, volum III](fonts/sagarra-sigillografia-bernat-salba-1610.md)
