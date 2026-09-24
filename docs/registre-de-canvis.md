@@ -1423,3 +1423,7 @@ Abast: Entrada 3407, pàgina impresa 82: segell de fra Bernat de Salbà i pergam
 - Material de partida: 2 fitxers a `raw/web/cultura/transport/primera-maquina-llevaneu-1936/`
 - Diari de treball: `raw/worklog/2026-09-23-primera-maquina-llevaneu-1936.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 156. 📝 revisa Viquipèdia en català — «Constitució andorrana de 1934»
+
+- Fitxa: [Viquipèdia en català — «Constitució andorrana de 1934»](fonts/wikipedia-constitucio-1934.md)

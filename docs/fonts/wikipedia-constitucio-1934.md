@@ -12,7 +12,10 @@ data_consulta: 2026-09-13
 abast: >
   Data, autors, votació, contingut i tirada de la Constitució aprovada pel Consell General el 10 de juliol del 1934.
 notes: >
-  L'article és molt breu i no cita cap referència. El corpus el registra com a declarat i marca el text dels disset articles com a buit prioritari: se'n van imprimir deu mil exemplars i han d'existir en arxius espanyols i francesos.
+  L'article és molt breu i no cita cap referència. La transcripció publicada per
+  Alexander Kaffka el 2009 recupera ara el text dels disset articles, però avisa
+  que no va ser verificada amb fonts arxivístiques; el buit de l’exemplar primari
+  continua obert.
 ---
 
 # Viquipèdia en català — «Constitució andorrana de 1934»
