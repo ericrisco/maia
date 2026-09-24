@@ -1270,3 +1270,8 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 
 - Fitxa: [Alexander Kaffka — El rei rus d’Andorra: fantasies i fets](fonts/kaffka-constitucio-1934.md)
 - Diari de treball: `raw/worklog/2026-09-23-constitucio-1934.md`
+
+### 132. 📝 incorpora Gerhard Lang-Valchs — Els refugiats “andorrans” de la Guerra Civil Espanyola
+
+- Fitxa: [Gerhard Lang-Valchs — Els refugiats “andorrans” de la Guerra Civil Espanyola](fonts/lang-valchs-refugiats-andorrans-2016.md)
+- Article nou: [Els refugiats “andorrans” de la Guerra Civil, 1936–1939](temes/historia/guerres-i-neutralitat/els-refugiats-andorrans-1936-1939.md)
