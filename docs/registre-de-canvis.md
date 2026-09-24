@@ -528,3 +528,11 @@ La fitxa pública de l’**ASC-3615** descriu una carta del 6 d’agost de 1691 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordre-hospital-seu-1691/`
 - Diari de treball: `raw/worklog/2026-09-23-ordre-hospital-seu-1691.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 44. 📝 incorpora El governador de Lleida respon sobre els passaports andorrans, 1840 — ASC-0…
+
+- **Font consultada:** registre oficial d’Arxius en Línia, ASC-03658. - **Proveniència:** pàgina `ASC_03658.pdf.info`, HTML de metadades i previsualització pública; hash al JSON de l’actiu. - **Resultat:** nova font `asc-03658-passaports-seu-1840` i fitxa sobre el conflicte administratiu entre la sindicatura, la Seu d’Urgell i el governador de Lleida. - **Límit registrat:** el catàleg no publica la resposta ni permet reconstruir la norma aplicada als passaports.
+
+- Fitxa: [El governador de Lleida respon sobre els passaports andorrans, 1840 — ASC-03658](fonts/asc-03658-passaports-seu-1840.md)
+- Article nou: [El governador de Lleida intervé pels passaports dels andorrans, 1840](temes/institucions/nacionalitat-i-residencia/passaports-andorrans-seu-1840.md)
+- Diari de treball: `raw/worklog/2026-09-23-passaports-andorrans-seu-1840.md`
