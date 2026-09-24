@@ -1,0 +1,33 @@
+{
+  "title": "Real decreto restableciendo las franquicias de Andorra",
+  "source_url": "https://www.boe.es/gazeta/dias/1922/10/21/pdfs/GMD-1922-294.pdf",
+  "catalog_url": "https://www.boe.es/buscar/doc.php?id=GMD-1922-294",
+  "publication": "Gaceta de Madrid, núm. 294, 21 de octubre de 1922",
+  "date_of_decree": "1922-10-18",
+  "pages": "254-255 (PDF page 2)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1922-294.pdf",
+      "sha256": "f59ac13c71e357b82021900f3feaba58ddd6916181a96e1a1017694f6ed13830",
+      "bytes": 2287510
+    },
+    {
+      "file": "GMD-1922-294.txt",
+      "sha256": "55576f8becc0d4c5b37cac69d92430430e3d084a5265dcfc17e65763fba2f572",
+      "bytes": 80762
+    },
+    {
+      "file": "page-2.png",
+      "sha256": "4aeaa979789a187bf87faea39e9d96f41a3744d752d43b5fcf71e1524bb44c7f",
+      "bytes": 510956
+    },
+    {
+      "file": "page-3.png",
+      "sha256": "4f92808719e562f2c2630803689709ed700bb551e4a663aa6ce89c2cc7b5c749",
+      "bytes": 523887
+    }
+  ]
+}

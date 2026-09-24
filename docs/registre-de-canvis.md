@@ -1453,3 +1453,9 @@ Expedients digitalitzats del Tribunal de Corts (processos de bruixeria de 1621 i
 Captures i extractes de fonts institucionals: història del Servei d'Ordre i la policia (1931–2026), estudis preliminars de les actes històriques del Consell General, guia de l'arxiu diocesà d'Urgell i edictes del BOPA sobre associacions.
 
 - Material de partida: 18 fitxers a `raw/consell-general/actes-historiques/`, `raw/lleis/bopa/`, `raw/web/institucions/arxiu-urgell/`, `raw/web/institucions/consell-general/actes-historiques/`, `raw/web/institucions/policia/`
+
+### 161. 📝 afegeix les Gacetas de Madrid sobre franquícies i cupos andorrans
+
+Números de la Gaceta de Madrid (1922 i 1931) amb les disposicions de franquícies i cupos d'importació per a Andorra: PDF, text extret, metadades i pàgines renderitzades.
+
+- Material de partida: 4 fitxers a `raw/web/duanes/gaceta-madrid-cupos-andorra-1931/`, `raw/web/duanes/gaceta-madrid-franquicies-andorra-1922/`

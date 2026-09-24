@@ -1,0 +1,27 @@
+{
+  "title": "Cupos de franquícia d'Andorra per a l'any 1931",
+  "source_url": "https://www.boe.es/gazeta/dias/1931/01/21/pdfs/GMD-1931-21.pdf",
+  "publication": "Gaceta de Madrid, núm. 21, 21 de gener de 1931",
+  "date": "1931-01-16",
+  "pages": "Pàgina impresa 459 (PDF page 11)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1931-21.pdf",
+      "sha256": "9966d8c5280f51c3fe4fc2181b992642c66c7cb29d63150c8330820f3ac9bfe2",
+      "bytes": 5787064
+    },
+    {
+      "file": "GMD-1931-21.txt",
+      "sha256": "df65f93ecc881ac5d844d3cd0918d663f6b98b0bf8c6745c10e671dffdb1d9b2",
+      "bytes": 258063
+    },
+    {
+      "file": "page-11.png",
+      "sha256": "a3f78f7550656fce9a35e34933fb37106cfd226ddff909690bb142928eb3b174",
+      "bytes": 648057
+    }
+  ]
+}
