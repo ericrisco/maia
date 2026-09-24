@@ -1025,3 +1025,13 @@ Les fitxes de la Casa Rossell identifiquen el CR-180 com el testament de Ramon V
 - Article nou: [Una plaça d’Andorra la Vella es vesteix de festa (1900–1913)](temes/societat/vida-civica/festa-major-andorra-vella-1900-1913.md)
 - Material de partida: 3 fitxers a `raw/web/cultura/fotografia/festa-major-andorra-vella-1900-1913/`
 - Diari de treball: `raw/worklog/2026-09-23-festa-major-andorra-vella-1900-1913.md`
+
+### 100. 📝 incorpora CR-16197 — Debitori del dot de Margarida Vilar, 1374
+
+La fitxa pública del **CR-16197** descriu el debitori signat per Pere Vilar de la Cortinada a favor del seu gendre Ramon de Soldevila pel dot de la seva filla Margarida, datat el 1374.
+
+- Fitxa: [CR-16197 — Debitori del dot de Margarida Vilar, 1374](fonts/cr-16197-debitori-dot-margarida-vilar-1374.md)
+- Article nou: [El dot de Margarida Vilar queda anotat com un deute, 1374](temes/historia/edat-mitjana/debitori-dot-margarida-vilar-1374.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/debitori-dot-margarida-vilar-1374/`
+- Diari de treball: `raw/worklog/2026-09-25-debitori-dot-margarida-vilar-1374.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
