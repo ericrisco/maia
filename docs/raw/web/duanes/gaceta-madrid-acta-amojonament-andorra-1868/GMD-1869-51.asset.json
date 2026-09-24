@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.boe.es/gazeta/dias/1869/02/20/pdfs/GMD-1869-51.pdf",
+  "files": [
+    {
+      "path": "GMD-1869-51.pdf",
+      "sha256": "0d258bbbdfb0b1fd3394be78415ad2e5a904293bac38375698fe077852bd2f0b",
+      "bytes": 3882168
+    },
+    {
+      "path": "GMD-1869-51.txt",
+      "sha256": "1767240544d5ba6abf04a87191f16ac9806aa170826b145844a43373bcbd1714",
+      "bytes": 381284
+    },
+    {
+      "path": "page-1.png",
+      "sha256": "7aaa8e50f17f4a9b1c8dcd697b50aa44a2c57dcf64672f407a8ee89071412f27",
+      "bytes": 3270441
+    },
+    {
+      "path": "page-2.png",
+      "sha256": "680ea35ec1d9597113b6dbd590a2e765d663cc1e48920c74ac1a349d2e655a1c",
+      "bytes": 3459381
+    },
+    {
+      "path": "page-3.png",
+      "sha256": "f45fcfe47184ff61f074de23d0eeca2595bccd18b892f7d0b11f977c220e6913",
+      "bytes": 3336192
+    },
+    {
+      "path": "page-4.png",
+      "sha256": "fc981e15c6a003e8a8761bdd39f6546385d45996fc40eb1ee18a6273deefeea7",
+      "bytes": 3182291
+    }
+  ]
+}

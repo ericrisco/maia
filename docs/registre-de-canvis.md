@@ -1090,3 +1090,13 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 
 - Fitxa: [En los orígenes de Sant Julià de Lòria (Andorra): las evidencias de ocupación durante la antigüedad tardía y la alta edad media](fonts/forto-vidal-camp-vermell-2009.md)
 - Article nou: [Camp Vermell: una aldea de fons de vall entre els segles II i XII](temes/historia/origens/camp-vermell-una-aldea-de-fons-de-vall.md)
+
+### 108. 📝 incorpora Acta final de l'amollonament des d'Andorra fins al Mediterrani, 1868
+
+## Unitat llegida
+
+- Fitxa: [Acta final de l'amollonament des d'Andorra fins al Mediterrani, 1868](fonts/gaceta-madrid-acta-amojonamiento-andorra-1868.md)
+- Article nou: [De Valira a la Cova Foradada: l'acta que va tancar la frontera (1868)](temes/historia/segle-xix/acta-amojonament-valira-mediterrani-1868.md)
+- Material de partida: 2 fitxers a `raw/web/duanes/gaceta-madrid-acta-amojonament-andorra-1868/`
+- Diari de treball: `raw/worklog/2026-09-23-acta-amojonament-valira-mediterrani-1868.md`
+- Originals conservats només en local (sense dret de redistribució): 6 fitxers
