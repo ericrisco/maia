@@ -826,3 +826,13 @@ La fitxa pública de l’**ASC-5826** descriu un trasllat autoritzat per Guillem
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/taxes-notaris-1356/`
 - Diari de treball: `raw/worklog/2026-09-23-trasllat-taxes-notaris-1356.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 76. 📝 incorpora ASC-1186 — Privilegi de franquesa del mesuratge d’oli a la Seu d’Urgell, 1265
+
+La fitxa pública de l’**ASC-1186** identifica un privilegi d’Abril Pérez Peláez, bisbe d’Urgell, concedit als homes d’Andorra el 18 de gener de 1265 per la franquesa del dret de mesuratge d’oli a la Seu d’Urgell.
+
+- Fitxa: [ASC-1186 — Privilegi de franquesa del mesuratge d’oli a la Seu d’Urgell, 1265](fonts/asc-1186-franquesa-mesuratge-oli-1265.md)
+- Article nou: [El bisbe concedeix a Andorra la franquesa del mesuratge d’oli, 1265](temes/historia/edat-mitjana/franquesa-mesuratge-oli-seu-1265.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-franquesa-oli-1265/`
+- Diari de treball: `raw/worklog/2026-09-23-franquesa-mesuratge-oli-1265.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
