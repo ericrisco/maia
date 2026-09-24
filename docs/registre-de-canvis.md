@@ -1216,3 +1216,10 @@ Abast: Signatures i descripcions de documents de l’Arxiu de les Set Claus, esp
 ### 123. 📝 incorpora El coronel Baulard — La peça del mes (2026)
 
 - Fitxa: [El coronel Baulard — La peça del mes (2026)](fonts/govern-peca-mes-revolucio-1933-2026.md)
+
+### 124. 📝 incorpora La peça del mes: Lluís XIII confirma els privilegis d’Andorra (1611)
+
+Abast: Descripció i fotografies del pergamí ASC, perg. 168, confirmació dels privilegis d’Andorra per Lluís XIII el març de 1611
+
+- Fitxa: [La peça del mes: Lluís XIII confirma els privilegis d’Andorra (1611)](fonts/govern-privilegis-lluis-xiii-1611-2017.md)
+- Article nou: [Lluís XIII confirma els privilegis d’Andorra (1611)](temes/historia/antic-regim/lluis-xiii-confirma-els-privilegis-1611.md)
