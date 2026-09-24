@@ -126,3 +126,11 @@ La fitxa **ACA-5359** d’Arxius en Línia descriu una acta de 12 de setembre de
 
 - Fitxa: [ACA-5359 — Ratificació de l’empriu de la Pera i del bestiar foraster, 1481](fonts/aca-5359-empriu-pera-1481.md)
 - Diari de treball: `raw/worklog/2026-09-23-empriu-pera-arancer-1481.md`
+
+### 13. 📝 incorpora ACA-5362 — Pagament del cens de l’empriu de Lles i Travesseres, 1489
+
+La fitxa **ACA-5362** descriu l’acta del pagament del cens anual que la parròquia d’Andorra ha de pagar per l’empriu a les muntanyes de Lles i Travesseres, i el rebuig de l’àpoca per part del batlle Joan Mor, per instrucció de Pere d’Ortafà.
+
+- Fitxa: [ACA-5362 — Pagament del cens de l’empriu de Lles i Travesseres, 1489](fonts/aca-5362-cens-lles-travesseres-1489.md)
+- Article nou: [Quan el batlle de Travesseres rebutja l’àpoca del cens, 1489](temes/historia/antic-regim/cens-empriu-lles-travesseres-1489.md)
+- Diari de treball: `raw/worklog/2026-09-23-cens-empriu-lles-travesseres-1489.md`
