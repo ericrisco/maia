@@ -1427,3 +1427,10 @@ Abast: Entrada 3407, pàgina impresa 82: segell de fra Bernat de Salbà i pergam
 ### 156. 📝 revisa Viquipèdia en català — «Constitució andorrana de 1934»
 
 - Fitxa: [Viquipèdia en català — «Constitució andorrana de 1934»](fonts/wikipedia-constitucio-1934.md)
+
+### 157. 📝 incorpora Zona arqueològica del Roc d'Enclar
+
+Abast: Periodització del Roc d’Enclar des del bronze antic fins al segle XIX: vinya romana, infraestructura militar tardo-romana, poblament en altura, castell feudal i església de Sant Vicenç
+
+- Fitxa: [Zona arqueològica del Roc d'Enclar](fonts/zona-arqueologica-roc-enclar.md)
+- Article nou: [El Roc d’Enclar: cinc períodes en un espai dominant](temes/historia/origens/el-roc-denclar-cinc-periodes.md)
