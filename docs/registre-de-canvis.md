@@ -931,3 +931,9 @@ Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, 
 ### 87. 📝 incorpora L'Associació de Dones Migrants d'Andorra (ADMA), del BOPA: existència 1998-…
 
 - Fitxa: [L'Associació de Dones Migrants d'Andorra (ADMA), del BOPA: existència 1998-2011 i cancel·lació d'ofici 2015 (BOPA)](fonts/bopa-adma-existencia-i-cancellacio.md)
+
+### 88. 📝 incorpora La disgregació del món ibèric a la Vall d’Andorra
+
+Abast: Síntesi arqueològica i històrica de la romanització, cristianització i feudalisme a la vall d’Andorra; Roc d’Enclar i proposta de datació de Sant Vicenç
+
+- Fitxa: [La disgregació del món ibèric a la Vall d’Andorra](fonts/bosch-disgregacio-mon-iberic-andorra-2004.md)
