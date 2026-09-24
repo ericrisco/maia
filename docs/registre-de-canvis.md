@@ -846,3 +846,13 @@ La fitxa pública de l’**ASC-1187** descriu un extracte d’un privilegi de Ga
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-franquesa-lleuda-foix-1366/`
 - Diari de treball: `raw/worklog/2026-09-23-franquesa-lleuda-foix-1366.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 78. 📝 incorpora ASC-1286 — Privilegi de mercat quinzenal d’Andorra la Vella, 1512
+
+La fitxa pública de l’**ASC-1286** descriu el privilegi atorgat per Caterina de Navarra el 20 de març de 1512 per celebrar mercat cada quinze dies a la vila d’Andorra la Vella.
+
+- Fitxa: [ASC-1286 — Privilegi de mercat quinzenal d’Andorra la Vella, 1512](fonts/asc-1286-privilegi-mercat-1512.md)
+- Article nou: [Caterina de Navarra autoritza un mercat quinzenal a Andorra la Vella, 1512](temes/historia/antic-regim/privilegi-mercat-quinzenal-andorra-1512.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-mercat-andorra-1512/`
+- Diari de treball: `raw/worklog/2026-09-24-privilegi-mercat-andorra-1512.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
