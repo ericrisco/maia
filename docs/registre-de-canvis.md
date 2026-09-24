@@ -959,3 +959,13 @@ Abast: Síntesi de privilegis comercials i de circulació de mercaderies, amb un
 ### 92. 📝 incorpora Constitució i sobirania plena — El Consell General en la història
 
 - Fitxa: [Constitució i sobirania plena — El Consell General en la història](fonts/consell-general-constitucio-sobirania.md)
+
+### 93. 📝 incorpora Les dones al Consell General — sufragi femení (1967–1973)
+
+La pàgina institucional **Les dones al Consell General** documenta la cadena completa: set dones demanen iniciar l’expedient el 30/04/1967, la petició de 378 signatures es presenta el 15/05/1968, el Consell General vota separadament el sufragi actiu i l’elegibilitat el 04/07/1969, el decret de vot arriba el 14/04/1970 i el decret d’elegibilitat el 1973.
+
+- Fitxa: [Les dones al Consell General — sufragi femení (1967–1973)](fonts/consell-general-sufragi-femeni.md)
+- Article nou: [Del grup de set dones al sufragi femení (1967–1973)](temes/historia/democratitzacio/el-sufragi-femeni-andorra-1967-1973.md)
+- Material de partida: 2 fitxers a `raw/web/politica/sufragi-femeni/`
+- Diari de treball: `raw/worklog/2026-09-23-sufragi-femeni.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
