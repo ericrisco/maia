@@ -1465,3 +1465,22 @@ Números de la Gaceta de Madrid (1922 i 1931) amb les disposicions de franquíci
 Articles, monografies i pàgines d'enciclopèdia que sostenen fitxes ja existents: Carlemany i la carta de poblament, els pareatges, Sant Vicenç d'Enclar, el Camp Vermell, la sigil·lografia, els refugiats de la Guerra Civil, la reforma de 1975–1981, entre d'altres. Cada carpeta porta el seu README amb procedència i drets.
 
 - Material de partida: 19 fitxers a `raw/academic/`, `raw/academic/andorra-1933/gonzalez-vilalta-2009/`, `raw/academic/ari/aiguat-1982/`, `raw/academic/ari/carta-pobla-2018/`, `raw/academic/arxiu-nacional/`, `raw/academic/diades/1991-referendums/` …
+
+### 163. 📝 afegeix fonts web d'història, cultura i societat
+
+Captures i extractes de premsa, museus i webs públics: peces del mes del Govern (1347, 1356, 1611, 1933), privilegis de 1606, Roc d'Enclar, el Camp del Perot, la Gran Guerra, l'esquí de 1956, la ràdio, la demografia i la premsa de 1917.
+
+- Material de partida: 23 fitxers a `raw/`, `raw/web/costums/`, `raw/web/cultura/`, `raw/web/cultura/radio-andorra/`, `raw/web/esports/`, `raw/web/historia/antic-regim/` …
+- Diari de treball: `raw/worklog/2026-09-23-carlins-1838-1839.md`
+- Diari de treball: `raw/worklog/2026-09-23-cens-comunal.md`
+- Diari de treball: `raw/worklog/2026-09-23-codi-lleis-1860.md`
+- Diari de treball: `raw/worklog/2026-09-23-delme-1905.md`
+- Diari de treball: `raw/worklog/2026-09-23-franquicia-cerdanya-1646.md`
+- Diari de treball: `raw/worklog/2026-09-23-reformeta.md`
+- Diari de treball: `raw/worklog/2026-09-23-salaris-nunci-advocat-1820.md`
+- Diari de treball: `raw/worklog/2026-09-23-solana-frontera-1850.md`
+- Diari de treball: `raw/worklog/2026-09-24-dalmau-1849.md`
+- Diari de treball: `raw/worklog/2026-09-24-edicio-andorra.md`
+- Diari de treball: `raw/worklog/2026-09-24-esqui-1956.md`
+- Diari de treball: `raw/worklog/2026-09-24-guerra-segadors.md`
+- Diari de treball: `raw/worklog/2026-09-24-plandolit.md`

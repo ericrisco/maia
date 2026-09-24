@@ -4,4 +4,6 @@ source_url: https://presselocaleancienne.bnf.fr/cherche?anneeFac=1931.0&av=false
 retrieved: 2026-09-21
 ---
 
+# Le Réveil de l’Andorre (fitxa BnF, 1931)
+
 Captura de la cerca oficial de la **Presse locale ancienne** de la Bibliothèque nationale de France amb el filtre d’accés en línia. Hi apareix **Le Réveil de l’Andorre**, òrgan oficial (després mensual) de l’Amicale franco-andorrane de Béziers, amb data 1931–1931.
