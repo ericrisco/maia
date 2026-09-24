@@ -555,3 +555,13 @@ La fitxa pública de l’**ASC-3615** descriu una carta del 6 d’agost de 1691 
 - Fitxa: [Trasllat de la potestat per defensar muntanyes i emprius, 1513 — ASC-3663](fonts/asc-03663-potestat-defensa-muntanyes-1513.md)
 - Article nou: [Un trasllat de 1513 protegeix la defensa de muntanyes i emprius](temes/historia/edat-mitjana/potestat-defensa-muntanyes-1513.md)
 - Diari de treball: `raw/worklog/2026-09-23-potestat-defensa-muntanyes-1513.md`
+
+### 47. 📝 incorpora ASC-3670 — Concòrdia sobre passatge i pasturatge a Santa Cecília, 1543
+
+La fitxa pública de l’**ASC-3670** descriu una concòrdia del 14 de gener de 1543 entre el Capítol de Santa Maria de Castellbò i els representants andorrans Gervasi Moles i Bernat Rossell sobre el passatge i el pasturatge a Santa Cecília.
+
+- Fitxa: [ASC-3670 — Concòrdia sobre passatge i pasturatge a Santa Cecília, 1543](fonts/asc-03670-concordia-castellbo-pasturatge-1543.md)
+- Article nou: [Una concòrdia regula el pas dels ramats a Santa Cecília, 1543](temes/historia/edat-mitjana/concordia-pasturatge-castellbo-1543.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/concordia-castellbo-pastures-1543/`
+- Diari de treball: `raw/worklog/2026-09-23-concordia-castellbo-pasturatge-1543.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
