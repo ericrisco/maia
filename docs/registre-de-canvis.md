@@ -759,3 +759,13 @@ La fitxa pública de l’**ASC-05638** descriu una carta d’Adrià Benezet al s
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/demanda-passaport-adrià-benezet-1946/`
 - Diari de treball: `raw/worklog/2026-09-23-demanda-passaport-benezet-1946.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 69. 📝 incorpora ASC-05645 — Certificat de residència de Maria Josepa Quesada a Grenoble, 1948
+
+La fitxa pública de l’**ASC-05645** descriu un certificat de residència expedit per la policia de Grenoble el 16 de novembre de 1948 a favor de Maria Josepa Quesada, nascuda a Bacares i resident a Grenoble des del 10 de maig de 1947.
+
+- Fitxa: [ASC-05645 — Certificat de residència de Maria Josepa Quesada a Grenoble, 1948](fonts/asc-05645-certificat-residencia-quesada-1948.md)
+- Article nou: [Maria Josepa Quesada acredita la residència a Grenoble (1948)](temes/institucions/nacionalitat-i-residencia/certificat-residencia-quesada-1948.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/certificat-residencia-quesada-1948/`
+- Diari de treball: `raw/worklog/2026-09-23-certificat-residencia-quesada-1948.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
