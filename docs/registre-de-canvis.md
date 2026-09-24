@@ -1413,3 +1413,13 @@ Abast: Entrada 3407, pàgina impresa 82: segell de fra Bernat de Salbà i pergam
 - Fitxa: [Sant Vicenç d’Enclar (Andorra la Vella)](fonts/sant-vicenc-enclar-enciclopedia.md)
 - Article nou: [Sant Vicenç d’Enclar: una església sobre el poblat](temes/historia/origens/sant-vicenc-enclar-esglesia-i-poblat.md)
 - Diari de treball: `raw/worklog/2026-09-24-sant-vicenc-enclar.md`
+
+### 155. 📝 incorpora VE_0001 — La primera màquina llevaneu d’Andorra, 1936
+
+## Objectiu
+
+- Fitxa: [VE_0001 — La primera màquina llevaneu d’Andorra, 1936](fonts/ve-0001-primera-maquina-llevaneu-1936.md)
+- Article nou: [Una màquina llevaneu mecanitza les carreteres d’Andorra (1936)](temes/economia/transport/primera-maquina-llevaneu-1936.md)
+- Material de partida: 2 fitxers a `raw/web/cultura/transport/primera-maquina-llevaneu-1936/`
+- Diari de treball: `raw/worklog/2026-09-23-primera-maquina-llevaneu-1936.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
