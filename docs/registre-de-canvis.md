@@ -670,3 +670,12 @@ La fitxa pública de l’**ASC-04549** descriu els pactes entre el Consell Gener
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/conveni-apotecari-balmes-1737/`
 - Diari de treball: `raw/worklog/2026-09-23-conveni-apotecari-balmes-1737.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 60. 📝 incorpora ASC-4695 — Sentència sobre taxes notarials i canvi de saig a batlle, 1456
+
+La fitxa pública de l’**ASC-4695** descriu una sentència del 7 de juny de 1456 que resol un litigi sobre taxes notarials i ordena als saigs denominar-se batlles i exercir l’ofici anterior.
+
+- Fitxa: [ASC-4695 — Sentència sobre taxes notarials i canvi de saig a batlle, 1456](fonts/asc-04695-sentencia-taxes-saigs-1456.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-taxes-saigs-1456/`
+- Diari de treball: `raw/worklog/2026-09-23-sentencia-taxes-saigs-1456.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
