@@ -518,3 +518,13 @@ Les fitxes ASC-3593, ASC-3716 i ASC-3594 documenten una ordre de repartiment de 
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/rendes-episcopals-pobres-1645-1647/`
 - Diari de treball: `raw/worklog/2026-09-23-rendes-episcopals-pobres-1645-1647.md`
 - Originals conservats només en local (sense dret de redistribució): 9 fitxers
+
+### 43. 📝 incorpora ASC-3615 — Cavalcadures per portar malalts a l’hospital, 1691
+
+La fitxa pública de l’**ASC-3615** descriu una carta del 6 d’agost de 1691 que ordena als batlles i consellers d’Andorra proporcionar cavalcadures amb albardes i bastons per transportar malalts a l’hospital de la Seu d’Urgell.
+
+- Fitxa: [ASC-3615 — Cavalcadures per portar malalts a l’hospital, 1691](fonts/asc-03615-ordre-hospital-seu-1691.md)
+- Article nou: [Una ordre de 1691 organitza el transport de malalts](temes/societat/sanitat/ordre-hospital-seu-1691.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordre-hospital-seu-1691/`
+- Diari de treball: `raw/worklog/2026-09-23-ordre-hospital-seu-1691.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
