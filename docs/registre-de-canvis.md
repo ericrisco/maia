@@ -1244,3 +1244,16 @@ Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers
 
 - Fitxa: [historia.ad, «Relat cronològic 08 — L’auge del Consell General»](fonts/historia-ad-relat-cronologic-08.md)
 - Article nou: [Els fets de 1868: Dallerès, el casino i el Consell](temes/historia/segle-xix/els-fets-de-1868-dalleres-i-el-consell.md)
+
+### 129. 📝 revisa historia.ad, «Relat cronològic 09 — Andorra a la primera meitat del segle XX»,…
+
+- Fitxa: [historia.ad, «Relat cronològic 09 — Andorra a la primera meitat del segle XX», de Pau Chica](fonts/historia-ad-relat-cronologic.md)
+- Article nou: [Abans de FHASA: les concessions que van fracassar, 1920–1930](temes/historia/segle-xx-primera-meitat/abans-de-fhasa-les-concessions-fallides-1920-1930.md)
+- Article nou: [Dues carreteres obren Andorra, 1900–1913](temes/historia/segle-xx-primera-meitat/dues-carreteres-obren-andorra-1900-1913.md)
+- Article nou: [El Consell vota els gendarmes i França entra, 26–27 de setembre de 1936](temes/historia/segle-xx-primera-meitat/el-consell-vota-els-gendarmes-i-franca-entra-1936.md)
+- Article nou: [El decret que va restablir les franquícies, 1922](temes/historia/segle-xx-primera-meitat/el-decret-que-va-restablir-les-franquicies-1922.md)
+- Article nou: [El maquis antifranquista i la frontera d'Andorra, 1940–1945](temes/historia/segle-xx-primera-meitat/el-maquis-antifranquista-i-la-frontera-1940-1945.md)
+- Article nou: [Fiske Warren i l’enclavament de Sant Jordi](temes/historia/segle-xx-primera-meitat/fiske-warren-enclavament-sant-jordi.md)
+- Article nou: [La postguerra obre el Pas de la Casa, 1945–1950](temes/historia/segle-xx-primera-meitat/la-postguerra-obre-el-pas-de-la-casa-1945-1950.md)
+- Article nou: [Quan el Consell va intentar tenir els seus segells, 1926–1930](temes/historia/segle-xx-primera-meitat/quan-el-consell-va-intentar-tenir-seus-segells-1926-1930.md)
+- Article nou: [Quan França i Espanya tornen a entrar a Andorra, 1944–1945](temes/historia/segle-xx-primera-meitat/quan-franca-i-espanya-tornen-a-entrar-1944-1945.md)
