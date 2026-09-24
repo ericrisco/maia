@@ -509,3 +509,12 @@ La fitxa pública de l’**ASC-03572** descriu unes ordinacions de la Cort de le
 - Fitxa: [Manaments de Foix sobre presos i immunitat a Andorra, 1595 — còpies de 1512 — ASC-3583/3584](fonts/asc-03583-03584-immunitat-1595-1512.md)
 - Article nou: [Foix ordena alliberar presos i manté immunitats dins Andorra, 1595](temes/historia/edat-mitjana/mandaments-immunitat-presos-1595.md)
 - Diari de treball: `raw/worklog/2026-09-23-immunitat-presos-1595-1512.md`
+
+### 42. 📝 incorpora ASC-3593, ASC-3716 i ASC-3594 — Rendes episcopals per als pobres, 1645–1647
+
+Les fitxes ASC-3593, ASC-3716 i ASC-3594 documenten una ordre de repartiment de 1645, una carta de 1646 sobre 240 lliures i una nova ordre de 1647 sobre les rendes episcopals destinades als pobres d’Andorra i de la Seu.
+
+- Fitxa: [ASC-3593, ASC-3716 i ASC-3594 — Rendes episcopals per als pobres, 1645–1647](fonts/asc-03593-03716-03594-rendes-pobres-1645-1647.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/rendes-episcopals-pobres-1645-1647/`
+- Diari de treball: `raw/worklog/2026-09-23-rendes-episcopals-pobres-1645-1647.md`
+- Originals conservats només en local (sense dret de redistribució): 9 fitxers
