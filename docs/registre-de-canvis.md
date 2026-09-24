@@ -1286,3 +1286,7 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 - Article nou: [Del control dels forasters al cens comunal (1752–1949)](temes/institucions/nacionalitat-i-residencia/el-cens-comunal-i-el-control-dels-estrangers-1752-1949.md)
 - Material de partida: 16 fitxers a `raw/web/institucions/consell-general/`, `raw/web/institucions/nacionalitat/`
 - Originals conservats només en local (sense dret de redistribució): 5 fitxers
+
+### 135. 📝 incorpora Jordi Lluís — Les institucions i la immigració abans de 1960
+
+- Fitxa: [Jordi Lluís — Les institucions i la immigració abans de 1960](fonts/lluis-institucions-immigracio-2006.md)
