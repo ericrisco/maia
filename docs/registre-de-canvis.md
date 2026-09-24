@@ -584,3 +584,13 @@ Les fitxes **ASC-03783** i **ASC-03785** documenten una seqüència: la sentènc
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/execucio-lleuda-agramunt-1494-1503/`, `raw/web/institucions/arxiu-set-claus/sentencia-lleuda-agramunt-1493/`
 - Diari de treball: `raw/worklog/2026-09-25-lleuda-agramunt-1493-1503.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 50. 📝 incorpora ASC-3800 — Sentència de Felip II sobre la treta de blat i aliments, 1593
+
+La fitxa pública de l’**ASC-3800** descriu una sentència de Felip II del 22 de novembre de 1593 en la causa entre les Valls d’Andorra i el vescomtat de Castellbò sobre la treta de blat, vi, oli i altres aliments per al manteniment de la Vall.
+
+- Fitxa: [ASC-3800 — Sentència de Felip II sobre la treta de blat i aliments, 1593](fonts/asc-03800-sentencia-treta-blat-1593.md)
+- Article nou: [Una sentència reial protegeix l’abastiment de les Valls, 1593](temes/institucions/consell-general/sentencia-treta-blat-1593.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-treta-blat-1593/`
+- Diari de treball: `raw/worklog/2026-09-23-sentencia-treta-blat-1593.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
