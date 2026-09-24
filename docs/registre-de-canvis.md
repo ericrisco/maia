@@ -1165,3 +1165,10 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Material de partida: 2 fitxers a `raw/web/duanes/gaceta-madrid-tratado-limits-andorra-1866/`
 - Diari de treball: `raw/worklog/2026-09-23-tractat-limits-andorra-1866.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 117. 📝 incorpora Arnau Gonzàlez i Vilalta — La cruïlla andorrana de 1933
+
+## Troballes
+
+- Fitxa: [Arnau Gonzàlez i Vilalta — La cruïlla andorrana de 1933](fonts/gonzalez-vilalta-revolucio-1933.md)
+- Diari de treball: `raw/worklog/2026-09-23-revolucio-1933.md`
