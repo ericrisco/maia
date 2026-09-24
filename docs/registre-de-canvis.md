@@ -547,3 +547,11 @@ La fitxa pública de l’**ASC-3615** descriu una carta del 6 d’agost de 1691 
 - Diari de treball: `raw/worklog/2026-09-23-concordia-batlle-1176-1379.md`
 - Diari de treball: `raw/worklog/2026-09-24-concordia-batlle-1176-1379.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 46. 📝 incorpora Trasllat de la potestat per defensar muntanyes i emprius, 1513 — ASC-3663
+
+- **Font consultada:** registre oficial d’Arxius en Línia, ASC-3663. - **Proveniència:** pàgina `ASC_03663.pdf.info`, HTML de metadades i previsualitzacions públiques; hashes al JSON de l’actiu. - **Resultat:** nova font `asc-03663-potestat-defensa-muntanyes-1513` i fitxa sobre la transmissió documental d’un dret de defensa dels emprius. - **Límit registrat:** la cronologia separa 1332 i 1513, però encara no sabem si el foli és còpia, trasllat intermedi o resum de l’acte original.
+
+- Fitxa: [Trasllat de la potestat per defensar muntanyes i emprius, 1513 — ASC-3663](fonts/asc-03663-potestat-defensa-muntanyes-1513.md)
+- Article nou: [Un trasllat de 1513 protegeix la defensa de muntanyes i emprius](temes/historia/edat-mitjana/potestat-defensa-muntanyes-1513.md)
+- Diari de treball: `raw/worklog/2026-09-23-potestat-defensa-muntanyes-1513.md`
