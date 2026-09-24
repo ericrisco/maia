@@ -634,3 +634,9 @@ Abast: Unitat documental ASC-03961, 14 d’octubre de 1904; 2 folis i 3 pàgines
 Abast: Unitat documental ASC-03962, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
 
 - Fitxa: [ASC-03962 — Relació del blat portat de Cerdanya i repartit entre els veïns de la parròquia de la Massana.](fonts/asc-03962-blat-massana-1904.md)
+
+### 56. 📝 incorpora ASC-03963 — Memorial del blat portat de Cerdanya i repartit entre els veïns…
+
+Abast: Unitat documental ASC-03963, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
+
+- Fitxa: [ASC-03963 — Memorial del blat portat de Cerdanya i repartit entre els veïns de la parròquia d’Ordino.](fonts/asc-03963-blat-ordino-1904.md)
