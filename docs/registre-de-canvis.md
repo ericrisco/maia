@@ -463,3 +463,11 @@ La fitxa pública de l’**ASC-02775** descriu una carta de Josep López al sín
 - Fitxa: [Acta notarial de cartes de la reina de Navarra, 1512 — ASC-2886](fonts/asc-02886-cartes-reina-navarra-1512.md)
 - Article nou: [Un síndic d’Andorra fa aixecar acta de cartes de la reina de Navarra, 1512](temes/historia/edat-mitjana/cartes-reina-navarra-1512.md)
 - Diari de treball: `raw/worklog/2026-09-23-cartes-reina-navarra-1512.md`
+
+### 37. 📝 incorpora El nunci Pau Serra demana una rebaixa de salari, 1840 — ASC-03466
+
+- **Font consultada:** registre oficial d’Arxius en Línia, ASC-03466. - **Proveniència:** pàgina `ASC_03466.pdf.info`, HTML de metadades i previsualització pública; hash al JSON de l’actiu. - **Resultat:** nova font `asc-03466-suplica-salari-nunci-1840` i fitxa sobre negociació de salaris davant el Consell. - **Límit registrat:** no consten l’import, els motius ni la resolució de la petició.
+
+- Fitxa: [El nunci Pau Serra demana una rebaixa de salari, 1840 — ASC-03466](fonts/asc-03466-suplica-salari-nunci-1840.md)
+- Article nou: [El nunci Pau Serra demana una rebaixa de salari, 1840](temes/institucions/consell-general/suplica-rebaixa-salari-nunci-1840.md)
+- Diari de treball: `raw/worklog/2026-09-23-suplica-rebaixa-salari-nunci-1840.md`
