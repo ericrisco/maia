@@ -1337,3 +1337,13 @@ Abast: Intervenció de 2018 al forn ceràmic de Cal Terrissaire i context arqueo
 - Material de partida: 1 fitxers a `raw/web/historia/reforma-1866/`
 - Diari de treball: `raw/worklog/2026-09-23-mjp-reforma-1866.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 143. 📝 incorpora El decret imperial de Napoleó I del 27 de març de 1806
+
+El registre **ASC-3709** de l’Arxiu de les Set Claus identifica un foli del **27 de març de 1806** i el descriu com el decret de Napoleó I que restableix les relacions de coprincipat amb Andorra a petició dels habitants de les Valls. La pàgina institucional del Govern aporta el context d’una còpia diferent, **ASC 2500**. La Universitat de Perpinyà conserva una transcripció dels cinc articles i de la ruptura de 1793.
+
+- Fitxa: [El decret imperial de Napoleó I del 27 de març de 1806](fonts/napoleo-decret-1806.md)
+- Article nou: [Entre la quèstia refusada i Napoleó, 1793–1806](temes/institucions/coprincipat/entre-la-questia-i-napoleo-1793-1806.md)
+- Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/napoleo-1806/`
+- Diari de treball: `raw/worklog/2026-09-23-napoleo-1806.md`
+- Originals conservats només en local (sense dret de redistribució): 6 fitxers
