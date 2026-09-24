@@ -1147,3 +1147,11 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Material de partida: 3 fitxers a `raw/web/duanes/gaceta-madrid-franquicies-andorra-1867/`, `raw/web/institucions/pares/ultramar-4714-exp42-canje-andorra-1867/`
 - Diari de treball: `raw/worklog/2026-09-23-franquicia-andorra-espanya-1867.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 115. 📝 incorpora Reial decret de franquícies d'Andorra, signat el 18 i publicat el 21 d'octu…
+
+- **Font consultada:** *Gaceta de Madrid* núm. 294, 21 d'octubre de 1922, pp. 254–255, PDF oficial de la Gazeta del BOE. - **Proveniència:** PDF complet, OCR local, render de les pàgines 254–255 i hashes al JSON de l'actiu. - **Resultat:** nova font primària i article que substitueixen la descripció només terciària del règim de 1922. - **Buit tancat:** ja es pot llegir el mecanisme del decret: certificat de procedència, intervenció de la Mitra, quotes anuals, exclusions de tabac i cotó, pastura transfronterera i comunicació eclesiàstica. - **Buits que continuen:** imports dels contingents, instruccions d'execució, aplicació fronterera i resposta documental andorrana/francesa.
+
+- Fitxa: [Reial decret de franquícies d'Andorra, signat el 18 i publicat el 21 d'octubre de 1922](fonts/gaceta-madrid-reial-decret-franquicies-andorra-1922.md)
+- Article nou: [El reial decret de 1922 torna les franquícies, però les posa sota certificat i quota](temes/historia/segle-xx-primera-meitat/reial-decret-franquicies-andorra-1922.md)
+- Diari de treball: `raw/worklog/2026-09-23-reial-decret-franquicies-andorra-1922.md`
