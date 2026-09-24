@@ -920,3 +920,10 @@ Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, 
 - Article nou: [Benlloch negocia els queviures de guerra, 1914–1918](temes/historia/segle-xx-primera-meitat/benlloch-negocia-els-queviures-de-guerra-1914-1918.md)
 - Article nou: [La frontera tancada per la grip, 1918](temes/historia/segle-xx-primera-meitat/la-frontera-tancada-per-la-grip-1918.md)
 - Material de partida: 2 fitxers a `raw/sac-debats-recerca/`
+
+### 86. 📝 incorpora Francesc Badia i Batalla — El projecte de concordat espanyol de 1934 i les…
+
+- Fitxa: [Francesc Badia i Batalla — El projecte de concordat espanyol de 1934 i les seves implicacions sobre Andorra](fonts/badia-concordat-andorra-2005.md)
+- Article nou: [El projecte de concordat espanyol i Andorra, 1931–1936](temes/historia/segle-xx-primera-meitat/el-projecte-de-concordat-espanyol-i-andorra-1934.md)
+- Material de partida: 1 fitxers a `raw/sac-papers-recerca/`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
