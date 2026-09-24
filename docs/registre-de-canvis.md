@@ -379,3 +379,11 @@ Abast: Imatges primàries dels medis 50–52 del visor, corresponents a l’expe
 - Fitxa: [Expedient diplomàtic francès de la Reforma d’Andorra (1866) — 6MD/1, foli 48; imatges 50–52](fonts/archives-diplomatiques-reforma-1866.md)
 - Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/reforma-1866/`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 26. 📝 incorpora Nota diplomàtica francesa sobre la Nova Constitució d’Andorra (abril de 186…
+
+Abast: Folis manuscrits 69–70 del visor (medis 71–72), entrada 69 de l’inventari 6MD/1: nota sobre la nova constitució i la seva promulgació pel bisbe d’Urgell.
+
+- Fitxa: [Nota diplomàtica francesa sobre la Nova Constitució d’Andorra (abril de 1867) — 6MD/1, entrada 69; imatges 71–72](fonts/archives-diplomatiques-reforma-1867.md)
+- Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/reforma-1867/`
+- Originals conservats només en local (sense dret de redistribució): 5 fitxers
