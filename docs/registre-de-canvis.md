@@ -1314,3 +1314,10 @@ Abast: Article-conferència publicat a Recull de conferències 2016 / Debats de 
 ### 139. 📝 incorpora De nosaltres a Simeón de Guinda passant per Fiter i Rossell — Joan Massa
 
 - Fitxa: [De nosaltres a Simeón de Guinda passant per Fiter i Rossell — Joan Massa](fonts/massa-reforma-institucional-1975-1981.md)
+
+### 140. 📝 incorpora Joan Massa i Sarrado — Moments delicats en la sobirania d’Andorra als segle…
+
+- Fitxa: [Joan Massa i Sarrado — Moments delicats en la sobirania d’Andorra als segles XVIII, XIX i XX](fonts/massa-sobirania-andorra-2023.md)
+- Article nou: [La delegació de Tarongí i el pla espanyol per a Andorra, 1934–1935](temes/historia/segle-xx-primera-meitat/la-delegacio-de-tarongi-i-el-pla-espanyol-1934-1935.md)
+- Material de partida: 1 fitxers a `raw/sac-papers-recerca/`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
