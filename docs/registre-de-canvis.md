@@ -392,3 +392,11 @@ Abast: Folis manuscrits 69–70 del visor (medis 71–72), entrada 69 de l’inv
 
 - Fitxa: [Aiguats del 1982 — Andorra Recerca i Innovació i ICGC](fonts/ari-aiguats-1982-2022.md)
 - Article nou: [L’aiguat de 1982: meteorologia, danys i resposta](temes/historia/historia-recent/l-aiguat-de-1982-meteorologia-danys-i-resposta.md)
+
+### 28. 📝 incorpora Carlemany i Andorra — Història de la Carta Pobla
+
+- **Font consultada:** pàgina de projecte d’Andorra Recerca + Innovació i PDF de l’estudi d’Oliver Vergés Pons, *Carlemany i Andorra: Història de la Carta Pobla, el document que va originar una llegenda* (IEA, 2018). - **Proveniència:** còpia del PDF oficial descarregada de `iea.ad`; text extret amb `pdftotext -layout`; hashes al README de `docs/raw/academic/ari/carta-pobla-2018/`. - **Resultat:** nova font `ari-carta-pobla-2018` i nova fitxa sobre el fals diplomàtic, la hipòtesi de datació als segles XI–XII i els usos historiogràfics del document. - **Límit registrat:** la fitxa no tracta el fals com a prova de la fundació carolíngia i deixa oberta la consulta del pergamí original i la identificació del falsificador.
+
+- Fitxa: [Carlemany i Andorra — Història de la Carta Pobla](fonts/ari-carta-pobla-2018.md)
+- Article nou: [La Carta Pobla: el fals que va donar forma al mite de Carlemany](temes/historia/origens/carta-pobla-fals-carlemany.md)
+- Diari de treball: `raw/worklog/2026-09-23-carta-pobla-fals-carlemany.md`
