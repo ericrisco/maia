@@ -363,3 +363,11 @@ conserva en local per verificar i citar, i queda llistada a `.gitignore`.
 - Originals que no es pugen en les entrades següents: 458 fitxers.
 - Es publiquen igualment les fitxes, els README amb procedència i URL, les metadades
   JSON, els articles i els diaris de treball.
+
+### 24. 📝 incorpora Expedient diplomàtic francès sobre el conflicte del casino d’Andorra (1868)…
+
+Abast: Folis manuscrits 77–82 del visor (medis 79–84), entrades 77 i 81 de l’inventari 6MD/1: projecte de casa de joc, conflicte amb el Consell i intervenció francesa.
+
+- Fitxa: [Expedient diplomàtic francès sobre el conflicte del casino d’Andorra (1868) — 6MD/1, entrades 77 i 81; imatges 79–84](fonts/archives-diplomatiques-casino-1868.md)
+- Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/casino-1868/`
+- Originals conservats només en local (sense dret de redistribució): 7 fitxers
