@@ -604,3 +604,11 @@ La fitxa pública de l’**ASC-03801** descriu una sentència del 8 de març de 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/pont-grau-1595/`
 - Diari de treball: `raw/worklog/2026-09-23-pont-grau-1595.md`
 - Originals conservats només en local (sense dret de redistribució): 5 fitxers
+
+### 52. 📝 incorpora Súplica del síndic per treure sal de Cardona, 1520 — ASC-3913
+
+- **Font consultada:** registre oficial d’Arxius en Línia, ASC-3913. - **Proveniència:** pàgina `ASC_03913.pdf.info`, HTML de metadades i previsualitzacions públiques; hashes al JSON de l’actiu. - **Resultat:** nova font `asc-03913-suplica-sal-cardona-1520` i fitxa sobre abastament, contractes i interrupció bèl·lica. - **Límit registrat:** només es pot afirmar el contingut del descriptor de catàleg; el contracte, la guerra i la resolució requereixen el text complet.
+
+- Fitxa: [Súplica del síndic per treure sal de Cardona, 1520 — ASC-3913](fonts/asc-03913-suplica-sal-cardona-1520.md)
+- Article nou: [El síndic demana dos mesos per treure sal de Cardona, 1520](temes/economia/comerc/suplica-sal-cardona-1520.md)
+- Diari de treball: `raw/worklog/2026-09-23-suplica-sal-cardona-1520.md`
