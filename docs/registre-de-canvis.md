@@ -729,3 +729,13 @@ La fitxa pública de l’**ASC-05604** descriu l’acta d’inscripció de Josep
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/registre-residencia-gil-1893/`
 - Diari de treball: `raw/worklog/2026-09-23-registre-residencia-gil-1893.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 66. 📝 incorpora ASC-05606 — Proposta de cens general de la població andorrana, 1896
+
+Les fitxes públiques de l’**ASC-05606** i l’**ASC-05607** documenten una seqüència de correspondència d’Ardison: el 21 d’agost de 1896 proposa un cens general de la població per repartir les imposicions d’una carretera i el 18 de desembre en reclama els resultats.
+
+- Fitxa: [ASC-05606 — Proposta de cens general de la població andorrana, 1896](fonts/asc-05606-proposta-cens-poblacio-1896.md)
+- Article nou: [Un cens de població per pagar la carretera (1896)](temes/societat/demografia/cens-poblacio-carretera-1896.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/proposta-cens-poblacio-1896/`, `raw/web/institucions/arxiu-set-claus/seguiment-cens-poblacio-1896/`
+- Diari de treball: `raw/worklog/2026-09-23-cens-poblacio-carretera-1896.md`
+- Originals conservats només en local (sense dret de redistribució): 6 fitxers
