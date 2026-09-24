@@ -1590,3 +1590,14 @@ Regenera docs/index.md amb `cervell render docs` i REGISTRE.md amb scripts/regis
 - `docs/.obsidian/graph.json` (revisat)
 - `docs/.obsidian/workspace.json` (revisat)
 - `docs/index.md` (revisat)
+
+### 170. 🔧 afegeix l'auditoria de títols dels README
+
+`scripts/audita-titols-readme.py` recorre els README de `docs/` i marca com a
+«revisar» els que no tenen un títol identificable (buit, «README», «Font»). El
+resultat és a `raw/auditoria-readme-titols.tsv`: 266 README, tots identificables.
+Tanca la feina de l'entrada anterior al registre («give README pages descriptive
+names»).
+
+- Script: `scripts/audita-titols-readme.py`
+- Resultat: `raw/auditoria-readme-titols.tsv`
