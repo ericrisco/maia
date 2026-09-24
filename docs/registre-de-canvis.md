@@ -565,3 +565,12 @@ La fitxa pública de l’**ASC-3670** descriu una concòrdia del 14 de gener de 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/concordia-castellbo-pastures-1543/`
 - Diari de treball: `raw/worklog/2026-09-23-concordia-castellbo-pasturatge-1543.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 48. 📝 incorpora ASC-3781 — Apel·lació contra el cobrament de lleuda a Cerdanya, 1465
+
+La fitxa pública de l’**ASC-3781** descriu l’apel·lació de Guillem Aldosa, en nom dels cònsols i prohoms d’Andorra, contra un manament que exigia provar documentalment la franquícia de lleuda a Cerdanya. El catàleg conserva també el rebuig processal del 2 de novembre de 1465.
+
+- Fitxa: [ASC-3781 — Apel·lació contra el cobrament de lleuda a Cerdanya, 1465](fonts/asc-03781-apelacio-lleuda-cerdanya-1465.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/apelacio-lleuda-cerdanya-1465/`
+- Diari de treball: `raw/worklog/2026-09-23-apelacio-lleuda-cerdanya-1465.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
