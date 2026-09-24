@@ -769,3 +769,13 @@ La fitxa pública de l’**ASC-05645** descriu un certificat de residència expe
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/certificat-residencia-quesada-1948/`
 - Diari de treball: `raw/worklog/2026-09-23-certificat-residencia-quesada-1948.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 70. 📝 incorpora ASC-05660 — Autorització d’entrada i residència per a Francesc Pasto Badena…
+
+La fitxa pública de l’**ASC-05660** descriu una súplica de Pere Font Riba, veí d’Encamp, per autoritzar l’entrada i residència de Francesc Pasto Badena, paleta nascut a Onda, durant unes obres. La data és el 27 de juny de 1950.
+
+- Fitxa: [ASC-05660 — Autorització d’entrada i residència per a Francesc Pasto Badena, 1950](fonts/asc-05660-autoritzacio-residencia-pasto-1950.md)
+- Article nou: [Un paleta d’Onda demana residència per treballar a Encamp (1950)](temes/institucions/nacionalitat-i-residencia/autoritzacio-residencia-pasto-1950.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/autoritzacio-residencia-francesc-pasto-1950/`
+- Diari de treball: `raw/worklog/2026-09-23-autoritzacio-residencia-pasto-1950.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
