@@ -1200,3 +1200,15 @@ El Departament d’Estadística publica la nota **A001/A003, NP-A001-A003-202201
 
 - Fitxa: [A001/A003 — Estimacions de població i censos parroquials, 2021](fonts/govern-estadistica-poblacio-2021.md)
 - Diari de treball: `raw/worklog/2026-09-23-poblacio-1948-2021.md`
+
+### 122. 📝 incorpora Inventari de l’Arxiu de les Set Claus
+
+Abast: Signatures i descripcions de documents de l’Arxiu de les Set Claus, especialment ASC 1101-1103, ASC 1106-1110, ASC 1148 i ASC 1232-1234
+
+- Fitxa: [Inventari de l’Arxiu de les Set Claus](fonts/govern-inventari-set-claus.md)
+- Article nou: [El bisbe Bernat de Salbà confirma els privilegis (1610)](temes/historia/antic-regim/el-bisbe-bernat-de-salba-confirma-els-privilegis-1610.md)
+- Article nou: [La gabella de Siguer i els papers de Caulet (1612-1615)](temes/historia/antic-regim/la-gabella-de-siguer-i-els-papers-de-caulet-1612-1615.md)
+- Article nou: [La sentència que protegeix la farina d’Encamp (1606)](temes/historia/antic-regim/la-sentencia-que-protegeix-la-farina-dencamp-1606.md)
+- Article nou: [La Vall defensa els privilegis davant el comte de Caramany (1618)](temes/historia/antic-regim/la-vall-defensa-els-privilegis-davant-caramany-1618.md)
+- Article nou: [La Vall demana mantenir el comerç amb França (1604)](temes/historia/antic-regim/la-vall-demana-mantenir-el-comerc-amb-franca-1604.md)
+- Article nou: [La Vall reivindica els seus jutges i els seus béns (1612)](temes/historia/antic-regim/la-vall-reivindica-els-seus-jutges-i-els-seus-bens-1612.md)
