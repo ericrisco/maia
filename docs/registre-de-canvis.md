@@ -46,3 +46,12 @@ La fitxa **ACA-2339** descriu rebuts del cens anual que la parròquia d’Andorr
 - Article nou: [El cens anual de l’empriu de Lles, 1600](temes/historia/antic-regim/cens-anual-empriu-lles-1600.md)
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/cens-anual-lles-1600/`
 - Diari de treball: `raw/worklog/2026-09-23-cens-anual-lles-1600.md`
+
+### 3. 📝 incorpora ACA-2371 — Apoca i censos de la muntanya de la Pera, 1635–1642
+
+La fitxa **ACA-2371** descriu una apoca feta per **Ramon Rocabruna i de Cadell** a favor de la **Universitat d’Andorra**, corresponent al pagament anyal de la muntanya de la Pera, a Arànser. La mateixa unitat incorpora un rebut dels censos dels anys 1636 a 1642.
+
+- Fitxa: [ACA-2371 — Apoca i censos de la muntanya de la Pera, 1635–1642](fonts/aca-2371-censos-pera-1635-1642.md)
+- Article nou: [Els censos de la muntanya de la Pera, 1635–1642](temes/historia/antic-regim/censos-de-la-pera-1635-1642.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/censos-pera-1635-1642/`
+- Diari de treball: `raw/worklog/2026-09-23-censos-pera-1635-1642.md`
