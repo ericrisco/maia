@@ -1295,3 +1295,10 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 
 - Fitxa: [A. Luengo — L’altra guerra mundial i nosaltres](fonts/luengo-primera-guerra-andorra-2022.md)
 - Article nou: [Els sis soldats turcs i la neutralitat andorrana, 1917](temes/historia/segle-xx-primera-meitat/els-sis-soldats-turcs-i-la-neutralitat-1917.md)
+
+### 137. 📝 incorpora Les institucions representatives i parlamentàries d’Andorra — Joan Massa
+
+- Fitxa: [Les institucions representatives i parlamentàries d’Andorra — Joan Massa](fonts/massa-institucions-representatives-reforma-1981.md)
+- Article nou: [La Reformeta: del Pacte de 1975 al procés constituent (1975–1993)](temes/historia/historia-recent/la-reformeta-separa-el-govern-del-consell-1978-1981.md)
+- Material de partida: 4 fitxers a `raw/consell-general/actes-historiques/`, `raw/web/institucions/consell-general/`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
