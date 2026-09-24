@@ -134,3 +134,11 @@ La fitxa **ACA-5362** descriu l’acta del pagament del cens anual que la parrò
 - Fitxa: [ACA-5362 — Pagament del cens de l’empriu de Lles i Travesseres, 1489](fonts/aca-5362-cens-lles-travesseres-1489.md)
 - Article nou: [Quan el batlle de Travesseres rebutja l’àpoca del cens, 1489](temes/historia/antic-regim/cens-empriu-lles-travesseres-1489.md)
 - Diari de treball: `raw/worklog/2026-09-23-cens-empriu-lles-travesseres-1489.md`
+
+### 14. 📝 incorpora ACA-5367 — Concòrdia entre Lles i Andorra sobre els emprius, 1570
+
+La fitxa **ACA-5367** descriu una còpia de la concòrdia signada a Lles el 22 de juny de 1570 entre representants de la baronia de Lles i els cònsols d’Andorra, dins un litigi per penyoraments i emprius de les muntanyes de Lles.
+
+- Fitxa: [ACA-5367 — Concòrdia entre Lles i Andorra sobre els emprius, 1570](fonts/aca-5367-concordia-lles-1570.md)
+- Article nou: [Abans de la sentència, Lles i Andorra signen una concòrdia pels emprius, 1570](temes/historia/antic-regim/concordia-lles-andorra-emprius-1570.md)
+- Diari de treball: `raw/worklog/2026-09-23-concordia-lles-1570.md`
