@@ -927,3 +927,7 @@ Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, 
 - Article nou: [El projecte de concordat espanyol i Andorra, 1931–1936](temes/historia/segle-xx-primera-meitat/el-projecte-de-concordat-espanyol-i-andorra-1934.md)
 - Material de partida: 1 fitxers a `raw/sac-papers-recerca/`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 87. 📝 incorpora L'Associació de Dones Migrants d'Andorra (ADMA), del BOPA: existència 1998-…
+
+- Fitxa: [L'Associació de Dones Migrants d'Andorra (ADMA), del BOPA: existència 1998-2011 i cancel·lació d'ofici 2015 (BOPA)](fonts/bopa-adma-existencia-i-cancellacio.md)
