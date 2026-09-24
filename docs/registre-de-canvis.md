@@ -749,3 +749,13 @@ La fitxa pública de l’**ASC-05626** descriu el passaport andorrà número 263
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/passaport-filomena-albos-1941/`
 - Diari de treball: `raw/worklog/2026-09-23-passaport-filomena-albos-1941.md`
 - Originals conservats només en local (sense dret de redistribució): 7 fitxers
+
+### 68. 📝 incorpora ASC-05638 — Adrià Benezet demana el passaport andorrà des de Besiers, 1946
+
+La fitxa pública de l’**ASC-05638** descriu una carta d’Adrià Benezet al síndic general, datada a Besiers el 16 de març de 1946, per demanar el passaport andorrà.
+
+- Fitxa: [ASC-05638 — Adrià Benezet demana el passaport andorrà des de Besiers, 1946](fonts/asc-05638-demanda-passaport-benezet-1946.md)
+- Article nou: [Adrià Benezet demana el passaport andorrà des de Besiers (1946)](temes/institucions/nacionalitat-i-residencia/demanda-passaport-benezet-1946.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/demanda-passaport-adrià-benezet-1946/`
+- Diari de treball: `raw/worklog/2026-09-23-demanda-passaport-benezet-1946.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
