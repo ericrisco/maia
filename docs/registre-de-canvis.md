@@ -978,3 +978,12 @@ La pàgina institucional **Les dones al Consell General** documenta la cadena co
 - Article nou: [Un retrat de nena mostra la casa i la roba del canvi de segle](temes/societat/familia/retrat-nena-casa-rossell-1890-1920.md)
 - Material de partida: 3 fitxers a `raw/web/cultura/fotografia/casa-rossell-nena-1890-1920/`
 - Diari de treball: `raw/worklog/2026-09-23-retrat-nena-casa-rossell-1890-1920.md`
+
+### 95. 📝 incorpora CR_0015 — Dos soldats en un grup al bosc, 1890–1920
+
+## Objectiu
+
+- Fitxa: [CR_0015 — Dos soldats en un grup al bosc, 1890–1920](fonts/cr-0015-dos-soldats-casa-rossell-1890-1920.md)
+- Article nou: [Dos soldats apareixen en una fotografia de Casa Rossell (1890–1920)](temes/historia/guerres-i-neutralitat/dos-soldats-casa-rossell-1890-1920.md)
+- Material de partida: 2 fitxers a `raw/web/cultura/fotografia/dos-soldats-casa-rossell-1890-1920/`
+- Diari de treball: `raw/worklog/2026-09-23-dos-soldats-casa-rossell-1890-1920.md`
