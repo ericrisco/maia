@@ -336,3 +336,7 @@ Abast: Entrada bibliogràfica 659 del catàleg oficial i descripció secundària
 
 - Fitxa: [ADPO 1723-W-3 i l’edició impresa de la Reforma de 1866](fonts/adpo-1723-w3-reforma-1866.md)
 - Material de partida: 5 fitxers a `raw/web/institucions/arxius-departamentals-pirineus-orientals/reforma-1866/`
+
+### 21. 📝 incorpora Arxiu Diocesà d’Urgell — fitxa del cercador Arxius de Catalunya
+
+- Fitxa: [Arxiu Diocesà d’Urgell — fitxa del cercador Arxius de Catalunya](fonts/adu-fitxa-arxius-catalunya.md)
