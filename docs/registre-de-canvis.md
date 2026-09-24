@@ -1193,3 +1193,10 @@ Abast: Síntesi institucional de l’enquesta judicial d’Andorra del 9 d’oct
 
 - Fitxa: [La peça del mes: l’enquesta de 1347](fonts/govern-enquesta-1347-2026.md)
 - Article nou: [La memòria de la cosenyoria encara era viva el 1347](temes/historia/edat-mitjana/la-memoria-de-la-cosenyoria-1347.md)
+
+### 121. 📝 incorpora A001/A003 — Estimacions de població i censos parroquials, 2021
+
+El Departament d’Estadística publica la nota **A001/A003, NP-A001-A003-20220117** (*Estimacions de població, any 2021 / Estadística dels censos parroquials, any 2021*). La nota inclou un gràfic de la població d’Andorra entre **1948 i 2021** i separa dues sèries: - **població registrada**, recompte directe dels registres dels censos parroquials; - **població estimada**, càlcul del Departament a partir de l’encreuament de fonts administratives. Aquesta distinció és important per a la lectura històrica: una xifra de cens registrat no és automàticament una estimació de població resident.
+
+- Fitxa: [A001/A003 — Estimacions de població i censos parroquials, 2021](fonts/govern-estadistica-poblacio-2021.md)
+- Diari de treball: `raw/worklog/2026-09-23-poblacio-1948-2021.md`
