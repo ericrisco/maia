@@ -1275,3 +1275,7 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 
 - Fitxa: [Gerhard Lang-Valchs — Els refugiats “andorrans” de la Guerra Civil Espanyola](fonts/lang-valchs-refugiats-andorrans-2016.md)
 - Article nou: [Els refugiats “andorrans” de la Guerra Civil, 1936–1939](temes/historia/guerres-i-neutralitat/els-refugiats-andorrans-1936-1939.md)
+
+### 133. 📝 incorpora Llei d’organització de l’Administració General (1985)
+
+- Fitxa: [Llei d’organització de l’Administració General (1985)](fonts/llei-administracio-general-1985.md)
