@@ -406,3 +406,11 @@ Abast: Folis manuscrits 69–70 del visor (medis 71–72), entrada 69 de l’inv
 Abast: Expedient manuscrit de disset pàgines, datat en una anotació interior el 16 de juny de 1621 i catalogat al registre com a causa de bruixeria.
 
 - Fitxa: [Arxiu en línia — expedient TC-6238 del Tribunal de Corts](fonts/arxiu-en-linia-tc-6238.md)
+
+### 30. 📝 incorpora Arxiu en línia — quatre expedients de bruixeria (1621)
+
+Abast: Quatre expedients TC de 1621: TC-6237 (18 pàgines), TC-6242 (8), TC-6243 (5) i TC-6249 (7).
+
+- Fitxa: [Arxiu en línia — quatre expedients de bruixeria (1621)](fonts/arxiu-en-linia-tc-bruixeria-1621.md)
+- Material de partida: 42 fitxers a `raw/academic/arxiu-nacional/tribunal-corts/tc-6237/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6242/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6243/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6249/`
+- Originals conservats només en local (sense dret de redistribució): 46 fitxers
