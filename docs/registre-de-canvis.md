@@ -1310,3 +1310,7 @@ Abast: Article-conferència publicat a Recull de conferències 2016 / Debats de 
 - Fitxa: [150 anys de la Nova Reforma (1866–2016) — Joan Massa i Sarrado](fonts/massa-nova-reforma-2016.md)
 - Material de partida: 1 fitxers a `raw/sac-debats-recerca/nova-reforma-1866/`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 139. 📝 incorpora De nosaltres a Simeón de Guinda passant per Fiter i Rossell — Joan Massa
+
+- Fitxa: [De nosaltres a Simeón de Guinda passant per Fiter i Rossell — Joan Massa](fonts/massa-reforma-institucional-1975-1981.md)
