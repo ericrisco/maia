@@ -1484,3 +1484,44 @@ Captures i extractes de premsa, museus i webs públics: peces del mes del Govern
 - Diari de treball: `raw/worklog/2026-09-24-esqui-1956.md`
 - Diari de treball: `raw/worklog/2026-09-24-guerra-segadors.md`
 - Diari de treball: `raw/worklog/2026-09-24-plandolit.md`
+
+### 164. 📝 revisa articles d'història amb les fonts noves
+
+Integra als articles d'història les fonts incorporades en els commits anteriors: noves files a les taules, cites d'actes, esmenes de datació i els índexs de fitxes de cada branca actualitzats amb els articles nous.
+
+- Article revisat: [Antic règim — índex de fitxes](temes/historia/antic-regim/antic-regim-index-de-fitxes.md)
+- Article revisat: [El rei és sobirà, però no ho és tot sol](temes/historia/antic-regim/el-rei-es-sobira-pero-no-ho-es-tot-sol.md)
+- Article revisat: [La quèstia](temes/historia/antic-regim/la-questia.md)
+- Article revisat: [Democratització — índex de fitxes](temes/historia/democratitzacio/democratitzacio-index-de-fitxes.md)
+- Article revisat: [Democratització](temes/historia/democratitzacio/democratitzacio.md)
+- Article revisat: [Andorra a l'edat mitjana](temes/historia/edat-mitjana/andorra-a-ledat-mitjana.md)
+- Article revisat: [De cada casa, un home ben armat](temes/historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md)
+- Article revisat: [Edat mitjana — índex de fitxes](temes/historia/edat-mitjana/edat-mitjana-index-de-fitxes.md)
+- Article revisat: [Els privilegis](temes/historia/edat-mitjana/els-privilegis.md)
+- Article revisat: [L'accés als comunals](temes/historia/edat-mitjana/lacces-als-comunals.md)
+- Article revisat: [Els passadors](temes/historia/guerres-i-neutralitat/els-passadors.md)
+- Article revisat: [Els refugiats de la Guerra Civil](temes/historia/guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md)
+- Article revisat: [Guerres i neutralitat — índex de fitxes](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat-index-de-fitxes.md)
+- Article revisat: [Guerres i neutralitat](temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md)
+- Article nou: [La guerra dels Segadors posa a prova el cosenyoriu, 1641–1659](temes/historia/guerres-i-neutralitat/la-guerra-dels-segadors-posa-a-prova-el-cosenyoriu-1641-1659.md)
+- Article revisat: [Els aiguats del 1982](temes/historia/historia-recent/els-aiguats-del-1982.md)
+- Article revisat: [Els Anys Daurats](temes/historia/historia-recent/els-anys-daurats.md)
+- Article revisat: [Història recent — índex de fitxes](temes/historia/historia-recent/historia-recent-index-de-fitxes.md)
+- Article nou: [Dalmau, 1849: una república amb fundador carolingi](temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md)
+- Article revisat: [Historiografia — índex de fitxes](temes/historia/historiografia/historiografia-index-de-fitxes.md)
+- Article revisat: [Orígens — índex de fitxes](temes/historia/origens/origens-index-de-fitxes.md)
+- Article revisat: [El bisbe té sostre i el comte no](temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md)
+- Article revisat: [El Pareatge — índex de fitxes](temes/historia/pareatge/el-pareatge-index-de-fitxes.md)
+- Article revisat: [El Pareatge](temes/historia/pareatge/el-pareatge.md)
+- Article revisat: [A qui pertany la jurisdicció de les Valls](temes/historia/segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md)
+- Article revisat: [El desenllaç de la qüestió duanera](temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md)
+- Article revisat: [La Nova Reforma de 1866](temes/historia/segle-xix/nova-reforma.md)
+- Article revisat: [Segle XIX — índex de fitxes](temes/historia/segle-xix/segle-xix-index-de-fitxes.md)
+- Article revisat: [Van deixar d'apel·lar a França per comoditat](temes/historia/segle-xix/van-deixar-dapelar-a-franca-per-comoditat.md)
+- Article revisat: [Boris Skossyreff, rei d'Andorra](temes/historia/segle-xx-primera-meitat/boris-skossyreff.md)
+- Article nou: [El primer telesquí i el turisme d’hivern, 1956–1958](temes/historia/segle-xx-primera-meitat/el-primer-telesqui-i-el-turisme-dhivern-1956-1958.md)
+- Article revisat: [La Constitució de 1934](temes/historia/segle-xx-primera-meitat/la-constitucio-de-1934.md)
+- Article revisat: [Del sometent al Servei d’Ordre](temes/historia/segle-xx-primera-meitat/la-primera-policia.md)
+- Article revisat: [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)
+- Article nou: [Les Valls d’Andorra: la primera publicació, 1917–1920](temes/historia/segle-xx-primera-meitat/les-valls-dandorra-primera-publicacio-1917-1920.md)
+- Article revisat: [Segle XX, primera meitat — índex de fitxes](temes/historia/segle-xx-primera-meitat/segle-xx-primera-meitat-index-de-fitxes.md)

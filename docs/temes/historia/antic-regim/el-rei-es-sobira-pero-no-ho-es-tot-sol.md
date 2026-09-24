@@ -356,3 +356,4 @@ mateixa família.`
 - [A qui pertany la jurisdicció de les Valls](../segle-xix/a-qui-pertany-la-jurisdiccio-de-les-valls.md) — Enric IV i la Inquisició, per l'altra font.
 - [Semblava que el bisbe patrocinava el joc](../segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md) — l'altre d'Argenson, del 1642.
 - [El Coprincipat](../../institucions/coprincipat/el-coprincipat.md) — el règim que aquesta carta defineix.
+- [Lluís XIII confirma els privilegis d’Andorra (1611)](./lluis-xiii-confirma-els-privilegis-1611.md) — el pergamí francès anterior, amb signatura de l’Arxiu de les Set Claus.

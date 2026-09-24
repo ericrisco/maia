@@ -49,6 +49,51 @@ I això és el que sosté, set segles després,
 no són divisions administratives, **són comunitats amb dret sobre una cosa
 concreta**.
 
+## El text de 1289: prohoms, consellers i dues llicències
+
+La font més antiga que concreta aquest règim dins del corpus és una ordenació
+datada el **20 de maig de 1289**. El text s'obre dient que l'han feta els
+**prohoms i consellers del Consell de la Terra d'Andorra**, amb «llicència e
+voluntat» del bisbe Pere d'Urgell i del comte Roger Bernat de Foix. No és encara
+el privilegi de 1419: és una còpia de principis del segle XVI conservada a
+**ANA, ASC núm. 5, *Llibre d'Ordinacions del Consell de la Terra*, fols. 21–21v
+i 23–25** ([transcripció institucional](../../../raw/consell-general/actes-historiques/text/segle-xiii--1289-maig-20.txt)).
+
+La capçalera enumera representants de les sis parròquies. El registre no els
+presenta com a individus aïllats: són els **pròmens del Consell de la Terra** i
+actuen amb l'autorització dels dos senyors. Aquesta és una dada de transmissió
+important: el document prova el contingut de l'ordenació i la forma institucional
+que el copista conserva, però l'original de 1289 no és al corpus.
+
+### Una cabana és un dret amb rellotge
+
+La primera ordenació diu que qualsevol habitant, **home o dona**, que faci una
+cabana o un *aprés* la pot tenir **sis anys**. Després, hi pot entrar qui hi
+sigui el matí de Sant Bernabé; cada casa només pot assenyalar-ne **un**. Mentre
+el termini és viu, no es pot vendre ni arrendar el dret.
+
+El règim que la fitxa explicava a través de Vela ja no és només una síntesi
+moderna: la còpia de les ordenances conserva la regla, la data de successió i
+el límit d'una cabana per casa en la llengua jurídica local del segle XVI.
+
+### La quèstia també es governa des de la comunitat
+
+El segon bloc regula la quèstia del comte. El Consell pot posar **comptadors i
+metadors**, fixa el període ordinari de cobrament entre la Pentecosta i Sant
+Lluc i estableix quan entra en el recompte el bestiar que és fora de la terra,
+venut, canviat o retornat.
+
+La tarifa no és una quantitat única: un pagès pot pagar un *metador* per sis
+feixos de blat o sis quintars de verema, i també per cada bèstia grossa o per
+cada *presonatge*. El bestiar sacrificat per a l'ús de la casa queda exempt,
+excepte la vaca o el bou; els pastors tenen vuit dies francs, els missatgers un
+mes i el bestiar foraster que entra a la terra disposa de vuit dies abans de
+ser comptat.
+
+La regla final és política: **cap bestiar, propi o foraster, no pot quedar
+franc de quèstia si no l'afranca tot el Consell de la Terra**. El mateix òrgan
+que ordena l'ús de la muntanya controla també l'exempció fiscal.
+
 ## Com et fèies teva la muntanya
 
 Les ordinacions estableixen **dos camins**, tots dos amb rellotge.

@@ -243,10 +243,13 @@ la força**, perquè **la sola unió seria força moral suficient**; en els dos 
 
 ## Buits registrats
 
-1. ~~**L'informació-concòrdia de 1347, sencera.**~~ — **`parcial`**: el corpus ja
-   conserva quatre fragments llatins —les conclusions **1a i 12a**, la regla
-   d'apel·lació i la del notari—, però les altres conclusions i el document
-   complet encara no s'han llegit.
+1. ~~**L'informació-concòrdia de 1347, sencera.**~~ — **`parcial` el 22-09-2026**:
+   el corpus ja conserva quatre fragments llatins —les conclusions **1a i 12a**,
+   la regla d'apel·lació i la del notari—. La [peça del Govern sobre l'enquesta
+   de 1347](../edat-mitjana/la-memoria-de-la-cosenyoria-1347.md) afegeix la data
+   del document (**9 d'octubre de 1347**), la cadena de còpies i la signatura
+   **ASC_1143**, però les altres conclusions i el document complet encara no
+   s'han llegit.
 2. ~~**El privilegi de la *cisena*** donat pel **bisbe Urries** i restaurat pel
    **bisbe Capella**. **Sense data ni text.** **Prioritari**: el corpus té la
    institució pel Politar i no el privilegi.~~ — **`parcial` el 21-09-2026**:

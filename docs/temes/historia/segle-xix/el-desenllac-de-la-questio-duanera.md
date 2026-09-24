@@ -291,6 +291,12 @@ Vilar ho comenta així:
 
 ## El que França feia mentrestant
 
+El mateix any hi ha ara una font primària espanyola per a l'altre costat de la
+frontera: les notes del **13 de juliol de 1867** van restituir a Espanya la
+franquícia dels ramats i produccions andorranes, però amb sis controls ([fitxa
+primària](./espanya-restitueix-franquicia-andorra-1867.md)). La taula següent és
+la cadena **francesa**, que Vilar encara descriu per una font secundària.
+
 Vilar descriu el règim francès, i és el contrari del que feia Espanya:
 
 | Any | Què |

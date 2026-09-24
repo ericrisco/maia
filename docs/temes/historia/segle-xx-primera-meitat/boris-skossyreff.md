@@ -220,6 +220,13 @@ sota aquella pressió.
 Aquell Consell escolta un home que li ofereix una constitució amb llibertats i
 sobirania. **El va rebutjar al maig.** Al juliol el va votar.
 
+La transcripció completa publicada per Alexander Kaffka el 2009 recupera el
+contingut dels disset articles i del projecte de decret-llei, però el mateix
+annex adverteix que no va ser verificat amb fonts arxivístiques
+([font](../../../fonts/kaffka-constitucio-1934.md)). El llibre d’actes examinat per
+l’autor tampoc no hi contenia la votació ni el text; per tant, la transcripció
+resol el buit de lectura, però no el de prova primària.
+
 ## El que en queda a Andorra
 
 - ***Boris I, rei d'Andorra***, novel·la d'**[Antoni Morell](../../persones/antoni-morell.md)**

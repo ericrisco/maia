@@ -6,8 +6,8 @@ tema: temes/historia/segle-xx-primera-meitat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: wikipedia-constitucio-1934
-timestamp: 2026-09-14T00:05:00Z
+font: kaffka-constitucio-1934
+timestamp: 2026-09-23T00:00:00Z
 tags: [historia, institucions, politica]
 ---
 
@@ -53,6 +53,28 @@ l'estranger.**
 **Se'n van imprimir deu mil exemplars, repartits a diverses personalitats
 espanyoles i franceses.**
 
+## El text recuperat, amb reserva
+
+L’article d’**Alexander Kaffka** als *Papers de recerca històrica* (2009)
+reprodueix en annex els disset articles i el projecte de decret-llei
+([font i transcripció](../../../fonts/kaffka-constitucio-1934.md)). El text
+converteix el Consell General en Parlament, preveu un govern de tres ministres,
+atribueix al príncep la formació de l’exèrcit i la representació exterior, fa el
+Govern responsable davant del Parlament i fixa quinze vots per destituir-lo.
+També regula la presentació i aprovació de lleis, el veto del príncep i la
+possibilitat de dissoldre el Parlament, i associa un decret-llei sobre llibertats
+polítiques i religioses, premsa, expropiació, expulsions i reorganització de la
+justícia.
+
+Aquesta és la primera transcripció completa publicada en una revista de recerca que entra al corpus, però no tanca la
+prova primària: el mateix article adverteix que el text no havia estat verificat
+amb fonts arxivístiques i explica que l’examen del llibre oficial d’actes no hi
+va trobar la votació ni la Constitució.
+
+El catàleg institucional del Consell General identifica el **Llibre V, FCV 9485
+(1864–1940)**, com el volum que inclou 1934 ([referència del fons](../../../fonts/actes-historiques-introduccio-llibres.md)).
+L’**estudi preliminar del projecte de transcripció** ([font](../../../fonts/actes-historiques-estudi-preliminar.md)) confirma que el Llibre V es pot consultar digitalment, però que la transcripció publicada encara no arriba a aquest volum: la secció d’«Actes transcrites» només ofereix de moment els llibres antics. Això concreta el següent pas —localitzar el foli de juliol dins les 741 pàgines de FCV 9485— i manté oberta la prova primària.
+
 ## Per què això importa
 
 **Perquè el corpus documenta, a
@@ -79,16 +101,11 @@ una constitució de disset articles.**
 ## El que falta
 
 - ~~**El text dels disset articles.** **Se'n van imprimir deu mil exemplars i el
-  corpus no en té ni una línia literal.**~~ — **`parcial` el 18-09-2026**:
-  la Viquipèdia catalana
-  ([font](../../../fonts/wikipedia-ca-boris-i-dandorra.md)) **no en dona el
-  text literal, però sí un resum de cada bloc**: transformava el Consell
-  General en parlament, creava un govern de tres ministres, feia el príncep
-  representant permanent a la Societat de Nacions, garantia llibertat
-  religiosa, de premsa i de circulació, reorganitzava la justícia,
-  prohibia l'expulsió de ciutadans andorrans i garantia drets als
-  estrangers amenaçats d'expulsió. **El buit del text literal segueix
-  prioritari i obert.**
+  corpus no en té ni una línia literal.**~~ — **`parcial` el 23-09-2026**:
+  l’article de Kaffka
+  ([font](../../../fonts/kaffka-constitucio-1934.md)) reprodueix el text
+  complet i el projecte de decret-llei, però avisa que no els va poder verificar
+  amb una font arxivística. **El buit de l’exemplar o acta primària segueix obert.**
 - ~~**Qui era el síndic Pere Torras**, i per què hi va posar el nom.~~ —
   **`parcial` el 20-09-2026**: [Els síndics generals](../../persones/els-sindics-generals.md)
   identifica **Pere Torres i Riba** com a síndic del **18 de setembre de 1933

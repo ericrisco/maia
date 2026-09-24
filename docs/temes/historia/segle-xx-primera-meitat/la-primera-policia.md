@@ -1,17 +1,32 @@
 ---
 type: article
-title: La primera policia
-description: "El 15 de maig de 1931 Andorra té policia per primera vegada: sis homes, proposats per l'empresa hidroelèctrica, nomenats pels veguers, en aplicació de l'article 17 d'un contracte de concessió."
+title: Del sometent al Servei d’Ordre
+description: "La Guàrdia Cívica de 1881 va precedir el Servei d’Ordre de 1931, creat amb sis agents i un cap en el context de FHASA, les vagues i el creixement de la població."
 tema: temes/historia/segle-xx-primera-meitat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: tarrene-influencies-multiculturals
-timestamp: 2026-09-12T10:00:00Z
-tags: [historia, segle-xx, institucions, fhasa, immigracio, coprincipat]
+font: policia-andorra-historia-1931-2026
+timestamp: 2026-09-22T18:00:00Z
+tags: [historia, segle-xix, segle-xx, institucions, policia, servei-ordre, fhasa, immigracio, coprincipat]
 ---
 
-# La primera policia
+# Del sometent al Servei d’Ordre
+
+## El precedent de 1881
+
+La fitxa ja no presenta el 1931 com el primer intent d’organitzar una força
+armada. Segons el reportatge d’A. Luengo sobre la recerca de Josep Giribet, el
+**14 de juliol de 1881** es va crear una **Guàrdia Cívica Andorrana**, amb els
+veguers i els batlles com a superiors, un cap i entre sis i dotze homes. Tenia
+servei nocturn a la Casa de la Vall i armament reglamentat. Va ser una
+experiència breu: es va dissoldre el **1884**.
+
+La diferència és institucional. La Guàrdia Cívica fou una força efímera lligada
+a la crisi de 1881; el Servei d’Ordre de 1931 fou el cos professional que va
+substituir el sometent en els afers ordinaris. El reportatge també enumera
+intents intermedis (1888, 1892, 1913, 1916 i 1929), però aquests encara
+necessiten una fitxa documental pròpia.
 
 ## El fet
 
@@ -24,6 +39,57 @@ tags: [historia, segle-xx, institucions, fhasa, immigracio, coprincipat]
 >
 > — Claudine Tarrene i Fabresse
 > ([font](../../../fonts/tarrene-influencies-multiculturals.md))
+
+La pàgina institucional de la **Policia d’Andorra** confirma la composició
+inicial —un cap i sis agents— i concreta les missions: mantenir l’ordre públic,
+auxiliar els batlles en la preparació dels judicis penals i perseguir i detenir
+els delinqüents ([font local](../../../fonts/policia-andorra-historia-1931-2026.md)).
+
+### El reglament de 1931, llegit sencer
+
+La Policia conserva el **primer reglament del cos**, signat pels dos veguers el
+15 de maig de 1931 ([font primària i transcripció local](../../../raw/web/institucions/policia/primer-reglament-servei-ordre-1931.README.md)).
+El text permet precisar què volia dir aquell primer Servei d’Ordre:
+
+- l’article 1 el vincula a l’article 17 de la concessió de **FHASA del 27 de
+  març de 1929** i diu que es componia inicialment d’un cap i **cinc** individus;
+- l’article 2 el posa a les ordres dels veguers i dels batlles, i el defineix
+  com a força auxiliar del Consell General;
+- l’article 3 reserva el nomenament als veguers, amb proposta de la companyia i
+  informe de la Sindicatura;
+- els articles 5–9 regulen la vigilància d’estrangers, la persecució de
+  delictes, les expulsions, els escorcolls, les multes i l’entrada
+  d’estrangers indocumentats.
+
+Això introdueix una discrepància que cal conservar: la pàgina institucional i
+les fonts posteriors parlen d’un cap i sis agents, mentre que el reglament
+publicat diu **un cap i cinc individus**. Pot ser una ampliació posterior o una
+manera diferent de comptar el cap; el decret dels veguers de l’11 de juliol de
+1931 i el registre de personal són necessaris per tancar-ho.
+
+### Els primers agents: una divergència que cal conservar
+
+El reportatge d’*Altaveu* (2021) publica aquesta primera composició: **Secundí
+Tomàs Roca** (cap), **Joan Riberaygua Rossell**, **Valentí Mora Armany**, **Joan
+Boronat Forné**, **Josep Ros Riba**, **Miquel Bondancia Mas** i **Pau Benazet
+Vidal**. El reportatge de *Bondia* (2026) coincideix en el cap i en cinc noms,
+però hi posa **Josep Duedra** on *Altaveu* posa Pau Benazet Vidal i simplifica
+alguns cognoms.
+
+Per això la fitxa ja pot donar una primera nòmina, però no la tracta com a
+recompte tancat: cal llegir el decret de l’11 de juliol de 1931 o el registre de
+personal per resoldre la discrepància.
+
+El catàleg de l’**Arxiu Nacional d’Andorra** conserva, a més, una fotografia
+d’un agent del Servei d’Ordre dins el fons **AD ANA, FPP**, amb accés lliure. La
+fitxa també registra tres imatges dels gendarmes a Canillo i una de les eleccions
+de 1933 ([registre del fons](../../../raw/web/institucions/policia/arxiu-nacional-marc-pantebre-servei-ordre.README.md)). Encara no tenim la reproducció ni la identificació de l’agent, però ja hi ha una pista primària concreta per a la col·lació visual.
+
+A més, el catàleg dona dues referències fotogràfiques directes: el retrat d’un
+agent datat **1940–1950** (registre **22697**, negatiu **4612**, fons FAM) i una
+foto de grup de **vuit policies** a Casa de la Vall (registre **1215**, àlbum 1a,
+full 87). Són les primeres signaturas visuals concretes del Servei d’Ordre que
+el corpus pot demanar a l’Arxiu Nacional ([retrat](../../../raw/web/institucions/policia/arxiu-nacional-agent-servei-ordre-1940-1950.README.md), [foto de grup](../../../raw/web/institucions/policia/arxiu-nacional-foto-oficial-servei-ordre.README.md)).
 
 I en nota al peu, la base jurídica:
 
@@ -44,13 +110,13 @@ I en nota al peu, la base jurídica:
 **Andorra no tenia Govern el 1931** — el Consell Executiu no arriba fins al 1982
 i el Govern fins a la Constitució del 1993
 ([el coprincipat](../../institucions/coprincipat/el-coprincipat.md)). Per tant
-**la primera força pública del país no podia dependre d'un executiu andorrà:
+**aquest primer cos professional no podia dependre d'un executiu andorrà:
 no n'hi havia.** Depenia **dels veguers**.
 
 **Però la tria dels homes no la fa ni el Consell ni els veguers: la proposa
 l'empresa.** El Consell hi consent i els veguers hi posen el nomenament.
 
-**La primera policia d'Andorra la va proposar l'empresa que construïa la central
+**El primer cos professional d'Andorra el va proposar l'empresa que construïa la central
 elèctrica, en aplicació d'una clàusula del seu propi contracte.**
 
 ## La data, llegida contra el calendari de les vagues
@@ -69,7 +135,7 @@ La mateixa autora data les vagues de FHASA per períodes:
 | **15 de maig de 1931** | **neix el Servei d'Ordre** |
 | **Juliol de 1931** | s'acaba aquella tanda de vagues |
 
-**La primera policia d'Andorra es crea enmig d'una vaga, a proposta de l'empresa
+**El primer cos professional d'Andorra es crea enmig d'una vaga, a proposta de l'empresa
 contra la qual es fa la vaga.**
 
 El corpus **no afirma** que es creés *per* la vaga: cap font ho diu, i l'article
@@ -79,7 +145,7 @@ l'article 17 i la data en què es va pactar.
 
 ## El segon fet del mateix any: el registre d'estrangers
 
-> «De manera **simultània** a la constitució de la primera policia, el Consell
+> «De manera **simultània** a la constitució del primer cos professional, el Consell
 > General va promulgar una decisió que **cada parròquia havia d'establir un
 > registre que especifiqués tots els noms dels estrangers**. Aquest registre va
 > ser **la primera prova tangible de la regulació de la immigració**. Podem
@@ -114,16 +180,22 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
 
 ## El que falta
 
+La font institucional confirma les funcions del Servei d’Ordre, mentre que el
+reportatge de 2026 aporta la Guàrdia Cívica de 1881, el decret dels veguers de
+l’11 de juliol de 1931 i els noms dels primers agents. Aquests darrers detalls
+continuen sent una síntesi periodística d’una conferència, no el decret original.
+
+- ~~**Les fotografies del Servei d’Ordre** catalogades per l’Arxiu Nacional.~~ — **`parcial` el 2026-09-22**: ja hi ha tres registres i dues signatures concretes, però falta demanar les reproduccions i identificar els agents.
 - ~~**El text de l'article 17** del contracte de concessió del 1929.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**Els noms dels sis agents** i què cobraven.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Els noms dels sis agents** i què cobraven.~~ — **`parcial` el 2026-09-22**:
+  *Altaveu* i *Bondia* publiquen una primera nòmina, però discrepen en un nom i
+  el corpus encara no té sous ni el registre de personal.
 - ~~**Quant va durar el Servei d'Ordre** i què en va sortir.~~ — **`parcial` el
-  2026-09-20**: l'exposició de motius de la **Llei 8/2004, del 27 de maig,
-  qualificada del Cos de Policia** diu que la policia andorrana fou creada el
-  **1931** amb el nom de **Servei d'Ordre**, amb **un cap i sis agents**, i que
-  aquesta llei obre una **nova etapa** de la policia andorrana
-  ([font](../../../raw/lleis/bopa/llei-8-2004-cos-de-policia.txt)). El corpus
-  encara no té la data exacta en què va desaparèixer el nom «Servei d'Ordre» ni
-  la cronologia completa de la transició al Cos de Policia.
+  2026-09-22**: el cos de reserva es dissol el **1934** i el Consell aprova una
+  reorganització el **14 de febrer de 1940**; encara falta la cronologia completa
+  fins al canvi de denominació. La **Llei 8/2004, del 27 de maig, qualificada del
+  Cos de Policia** confirma que el Servei d'Ordre fou creat el 1931 amb un cap i
+  sis agents ([font](../../../raw/lleis/bopa/llei-8-2004-cos-de-policia.txt)).
 - ~~**Què va fer el Servei d'Ordre el 1933**, quan van arribar els gendarmes
   francesos.~~ — **`parcial` el 2026-09-21**: el corpus ja estableix que el
   Servei d'Ordre depenia operativament dels **veguers i els batlles**, i que la
@@ -147,3 +219,4 @@ diuen coses diferents sobre el mateix any i el corpus no les pot arbitrar.**
 - [Les onades migratòries](../../societat/demografia/les-onades-migratories.md) — la gent que ho va provocar tot.
 - [Immigració](../../societat/immigracio/immigracio.md) — el que el registre del 1931 inaugura.
 - [El coprincipat](../../institucions/coprincipat/el-coprincipat.md) — per què nomenen els veguers.
+- [Història i identitat de la Policia d’Andorra](../../../fonts/policia-andorra-historia-1931-2026.md) — font institucional i reportatge sobre 1881–1940.

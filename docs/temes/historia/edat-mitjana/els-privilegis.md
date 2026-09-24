@@ -54,6 +54,7 @@ exèrcit ([els castells que no hi ha](../../territori/paisatge-construit/els-cas
 | **1186** | **Arnau de Preixens**, bisbe | **Arnau, vescomte de Castellbò** | **Donació de les valls de Caboet, Sant Joan i Andorra**, a canvi d'**ajuda militar**: vincle de **vassallatge** |
 | **~1208** | *(matrimoni)* | — | **Roger Bernat II de Foix** es casa amb **Ermessenda de Castellbò**. **Capgira la situació jurisdiccional** i **motiva els pareatges** |
 | **12 de juny de 1213** | **Pere I d'Aragó**, a **Lleida** | **Els homes de la Seu d'Urgell i Andorra** | **El primer privilegi reial.** Els **eximeix del bovatge, monedatge o qualsevol altra exacció comtal o reial** |
+| **18 de gener de 1265** | **Abril Pérez Peláez**, bisbe d'Urgell | **Els homes d'Andorra** | **Franquesa del dret de mesuratge d'oli a la Seu d'Urgell**, conservada a l'**ASC-1186** |
 | **1266** | **Abril**, bisbe d'Urgell | **Els habitants d'Andorra** | **El primer privilegi atorgat per un bisbe als andorrans**: els eximeix de pagar al **mesurador o saig de la Seu** el **dret de mesuratge de l'oli**, a canvi d'un **òbol** pagat **pel comprador i pel venedor**. *(AHN/ASC, pergamí núm. 2)* |
 | **1278** | Bisbe **Pere d'Urg** + comte **Roger Bernat III de Foix** | — | **Primer [Pareatge](../pareatge/el-pareatge.md)** |
 | **1280** | **Pere d'Urg**, bisbe | Les valls d'Andorra | **Concessió de l'empriu de Vallcivera** |
@@ -61,6 +62,7 @@ exèrcit ([els castells que no hi ha](../../territori/paisatge-construit/els-cas
 | **1303** | **Jaume II d'Aragó**, **a demanda del bisbe** | Els habitants d'Andorra | **Guiatge i protecció** |
 | **22 de març de 1305** | **Gastó, comte de Foix**, vescomte de Bearn i de Castellbò | **Els homes i les dones** que viuen a les valls **i els seus successors, a perpetuïtat** | **Exempció de pagar justícia per vessament de sang als menors de dotze anys**; **límit** a la comitiva que cobra la quèstia —un receptor, un escrivà, una bèstia—; **divuit diners per dia** als portadors de cartes que vinguin a exigir deutes; **un sol saig, nomenat: Bernat de Lareyu**; **un sol veguer i un lloctinent**; i cap dona casada obligada a firmar dret si el marit ho fa per ella. *(Arch. Basses-Pyrénées, E 459)* — **afegit el 14-09-2026 des de la font primària** |
 | **1328** | **Alfons el Benigne**, **a demanda del comte de Foix** | Els habitants d'Andorra | **La mateixa concessió** |
+| **1366** | **Gastó III de Foix, Phebo** | Els habitants de les valls d'Andorra | **Franquesa de lleuda a les muntanyes de Foix**, coneguda per un extracte conservat a l'**ASC-1187** |
 
 **Aquesta taula no és exhaustiva, i des del 14-09-2026 se'n sap un cas.** La
 cronologia surt d'una ponència, no dels documents. **Hi faltava el privilegi de
@@ -68,6 +70,12 @@ Gastó de Foix del 22 de març del 1305**, que té **text conservat i signatura
 d'arxiu** i que el corpus ha llegit sencer a
 [Un sol saig, i amb nom](./un-sol-saig-i-amb-nom.md). **Si n'hi faltava un, la
 llista s'ha de llegir com una selecció.**
+
+La fitxa primària **ASC-1186** aporta ara una concessió datada el **1265**. La
+ponència donava **1266** per al privilegi de l'oli i en precisava l'òbol i el
+paper del saig; el corpus conserva les dues referències sense decidir si són el
+mateix acte, una còpia amb datació diferent o dues concessions relacionades.
+Vegeu [la fitxa de l'ASC-1186](./franquesa-mesuratge-oli-seu-1265.md).
 
 ## Com llegir aquesta taula
 
@@ -319,16 +327,19 @@ falta.** Vegeu [el contraban](../../historia/contraban/contraban.md) i
 
 ## Buits registrats
 
-1. ~~**Els documents de 843, 860, 1001, 1133, 1170, 1186, 1213, 1266, 1280,
+1. ~~**Els documents de 843, 860, 1001, 1133, 1170, 1186, 1213, 1265, 1266, 1280,
    1303 i 1328.** **Cap no s'havia vist.**~~ — **`parcial` el 21-09-2026**: el
    de **1133** s'ha llegit sencer el **15-09-2026** ([per aquests malfets i per la
    redempció de la seva ànima](./per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md));
    també s'han resolt la concòrdia del **8 de gener de 1176** i el **Pariatge**,
    llegits als apèndixs B i C de [Ríos Urruti (1920)](../../../fonts/rios-urruti-andorra-1920.md)
    i contrastats amb el text del Pariatge que el corpus ja tenia. **Continua
-   oberta la localització dels deu documents restants**; Valls i Taberner (1920)
-   i *El llibre de la terra* (1997) són portes bibliogràfiques, no transcripcions
-   incorporades al corpus.
+   oberta la localització dels documents restants**; el privilegi de mesuratge
+   d’oli de **1265** ja té una unitat primària localitzada (**ASC-1186**), però
+   sense transcripció, i la franquícia de lleuda de **1366** només es conserva
+   aquí en un extracte tardà (**ASC-1187**). Valls i Taberner (1920) i *El llibre
+   de la terra* (1997) són portes bibliogràfiques, no transcripcions incorporades
+   al corpus.
 2. ~~**Les tres contradiccions** de dalt.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'Arxiu Diocesà i Capitular de la Seu d'Urgell** — cartularis i registres.~~ — **`parcial` el 21-09-2026**: la fitxa identifica el fons com la via documental dels cartularis i registres, però **encara no se n’ha consultat cap unitat**.
 4. ~~El **privilegi de 1266** té signatura: **AHN/ASC, pergamí núm. 2**. **És el

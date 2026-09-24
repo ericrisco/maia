@@ -34,6 +34,28 @@ Espanya els qui fugien de Hitler.**
 - **jueus de totes les nacionalitats** que intentaven escapar dels camps
   d'extermini.
 
+## Un cas polonès: Chciuk i l’àlies James Hughes
+
+El dossier de **Tadeusz Chciuk-Celt** mostra com funcionava una altra mena de
+passador: el fugitiu que havia de travessar la frontera amb una identitat
+construïda. Els expedients de Girona registren el 16 de gener de 1943 un
+**James Hughes**, declarat britànic, de 26 anys, estudiant de Dret i tinent
+pilot de la RAF, detingut després d’entrar clandestinament a Espanya per la
+muntanya. La documentació el situa a la cadena **Campdevànol–Girona–Miranda de
+Ebro**; l’índex de Miranda conserva la referència `AGMG. DCME, 305324/6633`.
+
+La coincidència amb Chciuk és molt forta —edat exacta, formació jurídica,
+cobertura de pilot i mateix recorregut penitenciari—, però el dossier encara no
+permet afirmar que aquell pas policial fos exactament el pas per Andorra. El
+record oral de Chciuk sí que situa un perill de precipici «a Andorra», mentre
+que l’atestat dona **Enveitg** com a darrer poble francès. Les dues rutes són
+geogràficament compatibles, però la ruta concreta continua oberta fins a llegir
+`305324/6633` i les pàgines 320–341 de *Raport z podziemia 1942*.
+
+Vegeu el [dossier de Miranda i James Hughes](../../../raw/sdd/ewa/chciuk-celt/miranda/tadeusz-chciuk-sota-l-alies-james-hughes-a-miranda-de-ebro.md),
+el [expedient de Girona](../../../raw/sdd/ewa/chciuk-celt/girona/james-hughes-als-expedients-de-frontera-de-girona-19421943.md) i
+la [comparació topogràfica de la ruta Ax–Andorra–Cerdanya](../../../raw/sdd/ewa/chciuk-celt/topography/topografia-del-pas-axandorracerdanya-desembre-de-1942.md).
+
 ## Les xifres
 
 **Es calcula que un 10 % dels ~80.000 evadits** que van creuar els Pirineus cap a

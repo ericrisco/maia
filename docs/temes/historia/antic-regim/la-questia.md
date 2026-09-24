@@ -351,10 +351,17 @@ avèria**; i **cent vint cavallons de blat com un metado**
    | --- | --- | --- |
    | **1446** | **3.000 florins** | **El lloctinent del veguer comtal presenta la carta del comte** que fixa la quèstia de l'any. **El Consell apel·la al comte i a la comtessa perquè els la rebaixin «a una suma assumible»** |
    | **1456** | **1.800 florins d'or d'Aragó** | **El Consell nomena procuradors per negociar un préstec** per pagar-la. La quantitat l'havien acordada amb **Joan de Rocafort, jutge major del comtat de Foix**, comissari del comte. **Meitat al gener del 1457, meitat quinze dies després de Pasqua** |
-   | **1467** | **1.100 florins d'or d'Aragó** | **Reconeixement de deute** al príncep de Navarra i comte de Foix. **Meitat quinze dies després de Pasqua, meitat per Tots Sants** |
-   | **1467** | **550 florins d'or** | **La meitat ja no es paga al comte: està consignada a Ramon d'Anolles, mercader d'Acs**, i el Consell es compromet a pagar-li a ell |
-   | **1471** | **750 florins d'or** | **Préstec per pagar el *segon* lliurament** de la quèstia de l'any |
+   | **1467 març** | **1.100 florins d'or d'Aragó** | **Reconeixement de deute** al príncep de Navarra i comte de Foix. **Meitat quinze dies després de Pasqua, meitat per Tots Sants** ([acta](../../../raw/consell-general/actes-historiques/text/segle-xv--1467-marc-10-cementiri-de-lesglesia-de-sant-esteve-dandorra.txt)) |
+   | **1467 maig** | **550 florins d'or** | **La meitat ja no es paga al comte: està consignada a Ramon d'Anolles, mercader d'Acs**, i el Consell es compromet a pagar-li a ell ([acta](../../../raw/consell-general/actes-historiques/text/segle-xv--1467-maig-27-andorra-la-vella.txt)) |
+   | **1467 desembre** | **400 dels 550 florins** | **El procurador del mercader reconeix el pagament de 400 florins i en dona quitança**; la font no prova que els 150 restants es paguessin ([acta](../../../raw/consell-general/actes-historiques/text/segle-xv--1467-desembre-17-andorra-la-vella.txt)) |
+   | **1471** | **750 florins d'or** | **Préstec per pagar el *segon* lliurament** de la quèstia de l'any ([acta](../../../raw/consell-general/actes-historiques/text/segle-xv--1471-juny-22-cementiri-de-lesglesia-de-sant-esteve-dandorra.txt)); el Consell fixa també el canvi de **13 sous i mig per florí** |
    | **1498** | **1.300 florins d'or d'Aragó** | **Préstec per pagar la quèstia a la reina de Navarra** |
+
+   **El desembre de 1467 la sèrie deixa veure l'execució parcial.** Bartomeu
+   d'Anolles, procurador del mercader Ramon d'Anolles, reconeix haver rebut
+   **400 florins dels 550** que les Valls devien al seu pare i firma una apoca
+   de pagament i de no reclamar aquella part. El document no diu què va passar
+   amb els **150 florins restants**.
 
    **El que la sèrie ensenya no és una xifra: és un mecanisme.** **Andorra no
    pagava la quèstia amb el que recaptava: la pagava demanant-la prestada**, i

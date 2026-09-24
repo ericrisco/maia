@@ -278,10 +278,13 @@ matèries i el lloc de signatura.**
    la clàusula final**, però **els catorze articles sencers encara no s'han
    llegit**.
 3. ~~**L'escrit de concòrdia de 1347**, **les tretze conclusions senceres**.~~ —
-   **`parcial` el 18-09-2026**: **la font en cita dues i en dona la resposta
+   **`parcial` el 22-09-2026**: **la font en cita dues i en dona la resposta
    unànime dels andorrans**, però **les onze restants i el document complet
-   encara no s'han llegit**; la font declara que és a l'Arxiu de la Casa de la
-   Vall.
+   encara no s'han llegit**. La pàgina del Govern sobre [la memòria de la
+   cosenyoria el 1347](../edat-mitjana/la-memoria-de-la-cosenyoria-1347.md)
+   fixa la data del document (**9 d'octubre de 1347**), descriu la cadena de
+   còpies, identifica la peça consultable amb **ASC_1143** i destaca el testimoni
+   de Guillem Capella; no publica les tretze conclusions senceres.
 4. ~~**L'acta del Consell General del 23 de març de 1775**, **sencera**, i **què
    la va motivar.** **Prioritari**: la font la cita del **llibre de
    Sessions**.~~ — **`resolt` el 17-09-2026 des del Llibre IV d'actes**
@@ -351,7 +354,9 @@ matèries i el lloc de signatura.**
    rei havia mort el **1715**. El corpus conserva les dues dades i les hipòtesis
    que en deriven —error de nom, error d'any o confirmació posterior d'un acte
    anterior—; la resolució requereix el document de confirmació dels privilegis
-   francesos.
+   francesos. El corpus ja té una peça francesa anterior, la confirmació de
+   **Lluís XIII de març de 1611** ([ASC, perg. 168](../antic-regim/lluis-xiii-confirma-els-privilegis-1611.md)),
+   però aquesta no identifica ni substitueix el document de 1727.
 8. ~~**L'ordre de Lluís XIV sobre el bestiar entre parròquies.**~~ — **`parcial`
    el 21-09-2026**: [Brutails, *La Coutume d'Andorre*](../../../raw/llibres/brutails-coutume.txt)
    en conserva el contingut essencial i la signatura **Archives des

@@ -31,8 +31,7 @@ mateix coneixement del terreny que servien per al
 **Afegit el 2026-09-16 des de [La Coutume d'Andorre](../../../fonts/brutails-coutume-1904.md),
 capítol II, p. 26, nota 2** ([la unitat destil·lada](../pareatge/no-una-imitacio-sino-una-caricatura.md)).
 **Aquesta fitxa està escrita des de la Viquipèdia i comença el relat al segle XX.**
-**La font primària més antiga que el corpus té sobre la neutralitat andorrana
-n'ataca el fonament:**
+**La font de 1904 que va fer emergir aquest buit n'ataca el fonament:**
 
 > «**No tinc en compte la neutralitat d'Andorra.** Res no és més curiós, però, que
 > seguir sobre els textos **el desenvolupament d'aquesta idea que Andorra és un
@@ -49,14 +48,21 @@ vegada, abans del 1904.** **Brutails no diu quines són les paraules ni quines s
 les vegades.**
 
 **Això reobre aquesta fitxa per la punta antiga**: **hi ha un ús andorrà de la
-neutralitat anterior a les dues guerres mundials**, i **el corpus no en té ni un
-sol cas.**
+neutralitat anterior a les dues guerres mundials**. El corpus ja pot documentar-ne
+un cas: el **1691**, quan el Consell la invoca davant l'exèrcit francès mentre
+defensa el comerç i els privilegis.
+
+Les unitats [Quan la guerra entra per la frontera: Andorra el 1691](./quan-la-guerra-entra-per-la-frontera-1691.md), [Quan els soldats d'Anserall molesten la Vall, 1699–1700](./quan-els-soldats-danserall-molesten-la-vall-1699-1700.md) i [La Vall prohibeix amagar soldats i desertors, 1737](./la-vall-prohibeix-amagar-soldats-i-desertors-1737.md) mostren que el control de frontera continua documentat abans de 1904. La primera documenta la invocació explícita de la neutralitat; les altres dues documenten pressió militar i regulació de l'ajuda als soldats, però no un reconeixement jurídic de la neutralitat.
 
 **Buits que obre:**
 
 1. **Quines són les paraules del joc de paraules.** `obert, prioritari.`
-2. **Els casos anteriors al 1904 en què Andorra es va prevaler del privilegi de
-   neutralitat.** `obert.`
+2. ~~**Els casos anteriors al 1904 en què Andorra es va prevaler del privilegi de
+   neutralitat.**~~ — **`parcial` el 2026-09-23**: el Llibre III documenta la
+   invocació explícita de la Vall el **1691**, queixes per la pressió dels
+   soldats d'Anserall el **1699–1700** i una regulació de l'ajuda a soldats i
+   desertors el **1737**. No és una llista exhaustiva i no consta cap
+   reconeixement jurídic final.
 3. **Els textos on Brutails diu que se'n pot seguir el desenvolupament.** `obert.`
 
 ## El que falta
@@ -64,14 +70,27 @@ sol cas.**
 Aquest article és, ara mateix, un esquelet. Falta gairebé tot:
 
 - ~~La posició oficial d'Andorra durant la guerra civil espanyola i la seva
-  relació amb els dos coprínceps en aquell moment.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~Dades sobre el pas de refugiats: quants, per on, en quins anys.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~La relació amb la França de Vichy i amb la França Lliure.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~El paper del Consell General.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+  relació amb els dos coprínceps en aquell moment.~~ — **`parcial` el 2026-09-22**:
+  el relat de Pau Chica ja fixa la intervenció de la Gendarmeria francesa i la
+  nova fitxa sobre la votació del Consell en documenta la seqüència; encara
+  falten les actes originals i la col·lació amb els dos coprínceps.
+- ~~Dades sobre el pas de refugiats: quants, per on, en quins anys.~~ — **`parcial`
+  el 2026-09-22**: Lang-Valchs aporta 5.500 casos documentats en períodes
+  parcials, els 300 residents de l'informe de Baulard i la concentració de 6.000
+  persones el 1939; no hi ha encara una sèrie completa.
+- **La relació amb la França de Vichy i amb la França Lliure.** **`parcial` el
+  2026-09-22**: [Ràdio Andorra davant Vichy i els Aliats, 1939–1944](../segle-xx-primera-meitat/la-radio-andorra-davant-vichy-i-els-aliats-1939-1944.md)
+  documenta la pressió de Vichy, els intents alemanys de control i l’acusació
+  d’ajuda als Aliats; encara falten les ordres originals i la resposta del
+  Consell General i dels coprínceps.
+- ~~El paper del Consell General.~~ — **`parcial` el 2026-09-22**: ja consta la
+  votació secreta, la reunió oberta i els referèndums parroquials del setembre
+  de 1936; falten les actes i els resultats originals.
 
-**Buit registrat, i dels grans.** Hi ha bibliografia específica sobre Andorra
-durant la Segona Guerra Mundial que no s'ha pogut consultar encara. El que hi ha
-escrit aquí és el que sosté la font; la resta s'escriurà quan hi hagi amb què.
+**Buit registrat, i encara gran.** La Guerra Civil i els refugiats ja tenen una
+base documental pròpia, però hi ha bibliografia específica sobre Andorra durant
+la Segona Guerra Mundial que no s'ha pogut consultar encara. El que hi ha escrit
+aquí és el que sosté la font; la resta s'escriurà quan hi hagi amb què.
 
 ## Related
 

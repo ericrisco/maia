@@ -33,6 +33,23 @@ l'Espanya Nacional escapolint-se per aquestes valls.**
 refugiats diaris**, i **durant els tres anys de guerra, aproximadament uns 200
 cada mes.**
 
+### Una revisió necessària de les xifres
+
+Una font acadèmica posterior, **Gerhard Lang-Valchs**, obliga a llegir aquesta
+forquilla amb més prudència. En una aproximació basada en sèries de frontera,
+comptabilitza **aproximadament 5.500 casos documentats** en diversos períodes de
+1936–1938, i recull un informe de René Baulard que parla d’uns **300 refugiats
+residents** a les Valls. Per al 1939, Baulard esmenta **unes 6.000 persones
+concentrades prop de la frontera**, però els expedients no diuen quantes van
+aconseguir entrar.
+
+Lang-Valchs també recull estimacions d’entre **35.000 i 90.000 persones en
+trànsit** i d’entre **2.000 i 4.000 residents**, però explica que són
+extrapolacions sensibles als pics de 1937. La nova fitxa
+[Els refugiats “andorrans” de la Guerra Civil, 1936–1939](./els-refugiats-andorrans-1936-1939.md)
+conserva aquesta discrepància: la xifra de 8.000 continua sent una dada
+historiogràfica del corpus, no un cens tancat.
+
 > **Andorra va doblar de població en tres anys, i en va veure passar dues
 > vegades la seva pròpia mida.**
 

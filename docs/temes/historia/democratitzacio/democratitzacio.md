@@ -1,12 +1,12 @@
 ---
 type: article
 title: Democratització
-description: El sufragi femení va arribar el 1970. Poder ser candidata, el 1971.
+description: El sufragi femení va arribar el 1970. Poder ser candidata, el 1973.
 tema: temes/historia/democratitzacio
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: viquipedia-ca
+font: consell-general-sufragi-femeni
 timestamp: 2026-09-11T18:55:00Z
 tags: [historia, segle-xx, drets]
 ---
@@ -17,14 +17,14 @@ tags: [historia, segle-xx, drets]
 
 | Data | Què |
 | --- | --- |
-| **22 d'abril de 1970** | S'aprova el **sufragi femení actiu**: les dones poden votar |
-| **1971** | **Sufragi femení passiu**: poden ser candidates |
+| **14 d’abril de 1970** | Decret de les Delegacions Permanents: **sufragi femení actiu**, les dones poden votar |
+| **1973** | Decret posterior: **sufragi femení passiu**, poden ser candidates |
 
-([Viquipèdia](../../../fonts/viquipedia-ca.md))
+([font institucional](../../../fonts/consell-general-sufragi-femeni.md); vegeu també [la cronologia detallada](./el-sufragi-femeni-andorra-1967-1973.md))
 
 Convé llegir aquestes dates sense amortidor. El 1970 és tard **a Europa**: molt
 per darrere de la majoria de països del continent. I la distinció entre actiu i
-passiu importa: durant un any les dones andorranes van poder triar qui governava
+passiu importa: durant tres anys les dones andorranes van poder triar qui governava
 i no van poder ser triades.
 
 ## Abans: qui votava

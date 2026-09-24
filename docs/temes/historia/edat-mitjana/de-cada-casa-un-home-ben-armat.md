@@ -35,6 +35,20 @@ l'editor, com va fer amb l'apèndix A.`
 
 **L'exemplar és OCR** i **el mateix editor hi marca dos *(sic)***.
 
+## El testimoni de l’Arxiu de les Set Claus
+
+El portal **Arxius en Línia** conserva l’**ASC-03660**, un **trasllat autoritzat**
+de la mateixa concòrdia. La fitxa separa l’acte del **8 de gener de 1176** de la
+data del trasllat, **8 de gener de 1379**, i el descriu com un acord entre Arnau
+de Préixens, els canonges d’Urgell i els homes d’Andorra sobre la funció del
+batlle i altres qüestions.
+
+La digitalització és un foli amb dues cares, però el pergamí és molt esvaït i no
+permet fer-ne aquí una nova lectura diplomàtica. Aquesta unitat no substitueix
+la transcripció publicada per Ríos Urruti; aporta, en canvi, un testimoni material
+directe de la cadena de transmissió que l’edició citava de manera bibliogràfica.
+Vegeu la [fitxa de font de l’ASC-03660](../../../fonts/asc-03660-concordia-batlle-1176-1379.md).
+
 ## El buit que això tanca
 
 **Aquest document era el buit número 3 de** [cap de casa, però de casa

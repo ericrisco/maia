@@ -329,11 +329,11 @@ pp. 30–36).
   pot documentar el motiu i la divergència jurídica, però cap font consultada
   no identifica una reclamació concreta d'un successor o del bisbe.**
 - ~~**El pareatge del 1288**, text. **Confirmat pel Papa**, com el primer.~~ —
-  **`resolt` el 19-09-2026 com a buit duplicat**: el text complet del Pareatge
-  que ja consta al punt anterior —**traducció francesa de Vilar (1904), pp.
-  159-173**— és precisament el document de **1288**. El **llatí original**
-  continua obert al punt anterior; aquest enunciat no hi afegeix una font ni una
-  pregunta diferent.
+  **`parcial` el 2026-09-22**: [El segon Pariatge desmunta Enclar i crea el
+  notariat, 1288](./el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md)
+  aporta el text llatí i la traducció catalana reproduïts per l’*Enciclopèdia
+  Catalana*, amb les clàusules sobre Enclar, Arfa (Asfa en el llatí), la dècima, el notariat i la
+  confirmació papal. El corpus encara no ha consultat el pergamí original.
 - ~~**NOU, i comparatiu:** **el pariatge de la Vallferrera del 1265**, tretze anys
   anterior i **amb el mateix Roger Bernat com a part**
   ([els privilegis](../edat-mitjana/els-privilegis.md)). **Cap altra font del

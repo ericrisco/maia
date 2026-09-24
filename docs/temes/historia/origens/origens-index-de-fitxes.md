@@ -14,9 +14,19 @@ historiografia n'ha fet.**
 
 | Fitxa | De què va |
 | --- | --- |
+| [Quan el neolític va començar a fer el paisatge del Madriu](./quan-el-neolitic-va-comencar-a-fer-el-paisatge-del-madriu.md) | Set mil anys d'ocupació, pastura, agricultura i foc abans del paisatge cultural actual |
+| [Quan el Madriu produïa pega en època romana](./quan-el-madriu-produia-pega-en-epoca-romana.md) | Cinc forns d'alta muntanya documenten l'explotació romana de la resina de pi negre |
+| [Camp Vermell: una aldea de fons de vall entre els segles II i XII](./camp-vermell-una-aldea-de-fons-de-vall.md) | Un taller metal·lúrgic, sitges, cabanes i tombes documenten una comunitat recurrent al nucli de Sant Julià de Lòria |
+| [Camp del Perot: necròpolis altmedieval i memòria del darrer terrisser](./camp-del-perot-necropolis-i-terrissa.md) | Una necròpolis dels segles VIII–XII i el forn contemporani de Cal Terrissaire mostren dos usos històrics del mateix espai |
+| [La necròpolis del Camp del Perot i la cronologia funerària](./la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria.md) | Tretze datacions de radiocarboni qüestionen que la forma de les tombes permeti ordenar-les cronològicament |
+| [El Roc d’Enclar: cinc períodes en un espai dominant](./el-roc-denclar-cinc-periodes.md) | Del bronze antic i la vinya romana al poblament tardo-romà, el castell feudal i Sant Vicenç fins a 1852 |
+| [El Roc d’Enclar: una comunitat rural entre els segles IV i VIII](./el-roc-denclar-comunitat-rural-segles-iv-viii.md) | La recerca de 1997 llegeix el jaciment com un poblament rural en transformació, no només com una fortificació |
+| [Sant Vicenç d’Enclar: una església sobre el poblat](./sant-vicenc-enclar-esglesia-i-poblat.md) | La superposició d’hàbitat, església i necròpolis explica com un puig estratègic es converteix en lloc de culte |
+| [La tomba de Segudet, sota les escoles d'Ordino](./la-tomba-de-segudet.md) | Un enterrament prehistòric que la fitxa del Govern relaciona amb les restes humanes més antigues localitzades a Andorra |
 | [El nom d'Andorra](./el-nom-dandorra.md) | D'on ve el topònim, i per què *andosins* probablement no és la resposta |
 | [On eren els andosins](./on-eren-els-andosins.md) | Un llibre del 2024 els situa entre Berga i Oliana |
 | [La fundació per Carlemany](./la-fundacio-per-carlemany.md) | L'altre pilar del relat, i els seus problemes |
+| [La Carta Pobla: el fals que va donar forma al mite de Carlemany](./carta-pobla-fals-carlemany.md) | Crítica diplomàtica i històrica del fals medieval, i la seva utilitat per estudiar la construcció de la identitat andorrana |
 | [La donació de 988](./la-donacio-de-988.md) | El document que sí que existeix |
 | [Villa, o tota la vall](./villa-o-tota-la-vall.md) | Les dues paraules discutides sobre les quals descansen dos articles d'aquesta branca |
 

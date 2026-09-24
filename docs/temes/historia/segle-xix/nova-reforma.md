@@ -6,8 +6,8 @@ tema: temes/historia/segle-xix
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: viquipedia-ca
-timestamp: 2026-09-11T19:00:00Z
+font: archives-diplomatiques-reforma-1866
+timestamp: 2026-09-23T19:00:00Z
 tags: [historia, segle-xix, institucions]
 ---
 
@@ -16,11 +16,35 @@ tags: [historia, segle-xix, institucions]
 ## Què va ser
 
 El **1866**, **Guillem d'Areny i Plandolit**, noble i propietari andorrà, va
-encapçalar la **Nova Reforma**, que va reformar l'organització del Consell
-([Viquipèdia](../../../fonts/viquipedia-ca.md)).
+encapçalar la **Nova Reforma**, que va reformar l'organització del Consell. La
+**Digithèque MJP** conserva una transcripció completa del pla del **22 d'abril
+de 1866**, que permet llegir el preàmbul de Caixal i les bases electorals
+([font MJP](../../../fonts/mjp-reforma-1866.md)). El corpus la contrasta amb la
+transcripció de Ríos Urruti de 1920: és una segona lectura del text, no
+l'original imprès. L’expedient diplomàtic francès conservat al fons **6MD/1,
+foli 48**, aporta ara la font primària: les imatges 50–52 del visor mostren el
+projecte de declaració i el decret que aprova la *Reforma* el **31 de maig de
+1866**, amb la transmissió al síndic per mitjà del veguer francès
+([font primària](../../../fonts/archives-diplomatiques-reforma-1866.md); [imatge del
+projecte](../../../raw/web/institucions/archives-diplomatiques/reforma-1866/6md1-media-050.jpg)).
 
 El Consell General va quedar format per **24 consellers**, ~~elegits pels
 **síndics**~~, i hi participaven **tots els caps de casa**.
+
+## El sistema que la Reforma va trobar
+
+La Nova Reforma no va aparèixer després d'un buit institucional. El darrer
+tram del **Llibre IV d'actes**, que arriba fins al **9 de maig de 1864**, mostra
+un Consell que encara pagava la quèstia als dos coprínceps, administrava la
+duana i enviava una comissió a Madrid perquè els passos estaven tancats ([els
+darrers pagaments de la quèstia i els passos tancats, 1863–1864](../../institucions/consell-general/els-darrers-pagaments-de-la-questia-1863-1864.md); [text del Llibre IV](../../../raw/consell-general/actes-historiques/text/llibre-iv-1743-1864.txt)).
+
+La Reforma de 1866, per tant, va canviar la composició i l'elecció del Consell
+damunt d'una administració que ja funcionava: tenia síndics, cònsols,
+comissionats de frontera, certificats de bestiar i obligacions diferenciades
+amb cada copríncep. La font no permet dir que la llei fos una resposta directa
+a cap dels pagaments de 1863–1864; sí que permet situar amb precisió el punt de
+part institucional que la reforma va reordenar.
 
 > **CORRECCIÓ DEL CORPUS SOBRE SI MATEIX — 15-09-2026.** **«Elegits pels síndics»
 > és fals, i venia de la Viquipèdia.** **El text de la llei diu el contrari**, dues
@@ -139,11 +163,23 @@ cosenyors**, i li dona **dues dates que el corpus no tenia**:
 | **24 d'abril de 1866** | **Els andorrans sotmeten la Reforma al Govern imperial francès** |
 | **10 d'abril de 1868** | **El ministre d'Afers Estrangers francès l'aprova** |
 
+**Una font posterior concreta millor aquesta referència.** En la conferència de 2016
+publicada el 2018, **Joan Massa i Sarrado** reprodueix la fórmula «*Déclaration
+dressée à Paris le 10 Avril 1868 pour consacrer l’approbation par la France de
+l’acte voté par le Conseil General des Vallées, le 31 Mai 1866*» ([font](../../../fonts/massa-nova-reforma-2016.md); [text local](../../../raw/sac-debats-recerca/nova-reforma-1866/massa-150-anys-nova-reforma-2016.txt)). **És un testimoni secundari**: el mateix passatge diu «segons diu» i no dona la signatura ni una imatge de la declaració. Serveix per identificar el títol i el contingut atribuït, però no tanca la cerca de l’original.
+
 **Dues coses en surten.** **L'aprovació francesa va trigar gairebé dos anys**, i
 **va passar pel ministeri d'Afers Estrangers** — **és a dir, França la va tramitar
 com a afer exterior, no com a afer intern**, tot i sostenir alhora que Andorra era
 «une prolongation du territoire français»
 ([les tres sobiranies](../../institucions/coprincipat/les-tres-sobiranies.md)).
+
+**Ara el catàleg diplomàtic francès permet anar més enrere:** la seva entrada
+**6MD/1, núm. 48**, descriu un projecte de declaració i el decret imperial
+seguit, datats **31 de maig de 1866** ([inventari del fons](../../../fonts/archives-diplomatiques-andorra-1652-1882.md)).
+Això no substitueix els folis ni invalida la data de 1868: obre una qüestió
+precisa sobre si el 31 de maig és un projecte o un acte preparatori i el 10
+d'abril de 1868 la ratificació final.
 
 **I això data l'acusació d'aquesta fitxa amb més precisió**: si l'addició del
 recurs al Príncep Sobirà es va fer «a la impremta de la Seu d'Urgell», **es va fer
@@ -151,11 +187,70 @@ en algun punt entre el text que el Consell va enviar a París l'abril de 1866 i 
 que es va imprimir**. `El corpus no afirma que les dues coses estiguin
 relacionades; registra que ara hi ha una finestra temporal.`
 
+## El document francès que aprova la Reforma
+
+El projecte diplomàtic francès conservat al **6MD/1, foli 48**, ja es pot
+consultar al visor: les imatges 50–52 mostren l’acte que declara aprovades les
+constitucions titulades **«Reforma»**, votades pel Consell General, i ordena que
+el prefecte de l’Arieja el transmeti al síndic per mitjà del veguer francès.
+La peça conté correccions manuscrites i no s’ha tractat com una transcripció
+neta ([fitxa de la font primària](../../../fonts/archives-diplomatiques-reforma-1866.md)).
+
+## La nota francesa d’abril de 1867
+
+La mateixa sèrie diplomàtica conserva una nota de l’**abril de 1867** (entrada
+69 de l’inventari; folis impresos 69–70, medis 71–72). El redactor diu que a
+Andorra s’havia votat una nova constitució l’abril anterior pel Consell de la
+Vall. No entra a valorar les modificacions internes, però assenyala que l’acte
+havia estat **promulgat només pel bisbe d’Urgell**, que hi prenia el títol de
+**«Souverain d’Andorre»**. La nota registra també la tramitació francesa de
+les rectificacions i la ratificació ([font primària](../../../fonts/archives-diplomatiques-reforma-1867.md); [foli 69](../../../raw/web/institucions/archives-diplomatiques/reforma-1867/6md1-media-071.jpg)).
+
+Aquesta font confirma que el problema de la promulgació episcopal ja era un
+afer diplomàtic el 1867. Complementa el projecte francès de 1866, però no és
+l’acte final del **10 d’abril de 1868** i no permet donar-lo per localitzat.
+
+## Una signatura d’arxiu per demanar l’imprès
+
+El catàleg oficial del Govern d’Andorra confirma que els **Archives
+Départementales des Pyrénées-Orientales (ADPO)** conserven l’edició impresa de
+la Seu d’Urgell: l’entrada **659** descriu el *Plan de Reforma adoptat en las
+valls d’Andorra*, imprès per Josep Maria Riu el **1866**, en **16 pàgines**
+([fitxa de font](../../../fonts/adpo-1723-w3-reforma-1866.md)). El catàleg no
+ofereix el facsímil, però converteix l’existència de l’imprès en una dada
+institucional verificable.
+
+Una descripció secundària de documentació dels ADPO concreta encara més la
+cerca: el legat **Archives du Préfet, 1723-W-3** contindria una carpeta de la
+Reforma de 1866 —mal etiquetada com a 1886— amb el fullet imprès, signat a
+Andorra pel síndic general **Guillem de Plandolit i d’Areny** el **31 de maig de
+1866**, i una còpia en francès. La mateixa descripció hi situa una **carta del
+bisbe Caixal al ministre francès d’Afers Estrangers del 29 d’octubre de 1868**.
+
+És una pista d’arxiu, no l’original recuperat: el catàleg oficial confirma
+l’entrada bibliogràfica i la publicació secundària aporta la signatura de
+`1723-W-3`, però el corpus encara no ha vist el fullet ni la carta. Aquesta
+petició concreta pot resoldre el buit material de l’imprès i aportar una peça
+contemporània per a la tramitació de 1868.
+
+## Una segona transcripció del pla
+
+La MJP ofereix el text complet del **Pla de reforma del 22 d'abril de 1866** i
+permet contrastar les bases sobre el vot dels caps de casa, els vint-i-quatre
+consellers i la separació respecte dels consells de parròquia amb la versió de
+Ríos Urruti. És una transcripció secundària i no resol si l'imprès de la Seu
+d'Urgell va incorporar una addició episcopal: per això el buit material
+continua obert ([fitxa de font](../../../fonts/mjp-reforma-1866.md);
+[HTML local](../../../raw/web/historia/reforma-1866/mjp-reforma-1866.html)).
+
 ## El que falta
 
-- ~~**L'acte d'aprovació francès del 10 d'abril de 1868.**~~ — **`font_externa`
-  el 2026-09-22**: la cronologia només en dona la data i el ministeri; cal
-  consultar l'expedient diplomàtic francès per saber què es va aprovar exactament.
+- **L'acte d'aprovació francès del 10 d'abril de 1868.** — **`parcial`,
+  actualitzat el **2026-09-23**: els folis digitalitzats del fons **6MD/1,
+  entrada 48**, mostren el projecte de declaració i el decret francès datats el
+  **31 de maig de 1866**, inclosa la via de promulgació pel veguer francès. La
+  nota francesa d’abril de 1867 ja documenta la disputa sobre la promulgació
+  episcopal i la tramitació de la ratificació ([font primària](../../../fonts/archives-diplomatiques-reforma-1867.md)). Massa aporta ara la fórmula i el títol atribuïts a la declaració parisenca, però com a font secundària: el corpus encara no té el document que expliqui si la ratificació ministerial del **10 d’abril de 1868** és un acte posterior o una altra fase del mateix expedient.
 - ~~**Què va motivar la reforma i contra què.**~~ — **`resolt`.** La va motivar
   **la crisi de l'últim terç del segle**, amb **les indústries del ferro i de la
   llana caient** i els primers indicis de **recursos agrícoles insuficients**; i
@@ -225,6 +320,8 @@ relacionades; registra que ara hi ha una finestra temporal.`
 - ~~**L'imprès original** —*Plan de reforma…*, Seu d'Urgell, 1866, 16 pàgines—.~~ —
   **`parcial`**: el corpus en té la transcripció de 1920, amb el text llegit
   article per article, però no l'edició original ni pot comprovar si difereixen.
+  **Ara hi ha una localització concreta per demanar-lo als ADPO**: fons
+  bibliogràfic, entrada 659, i la pista de carpeta `1723-W-3` ([fitxa de font](../../../fonts/adpo-1723-w3-reforma-1866.md)).
 
 ## Related
 

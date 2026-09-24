@@ -123,6 +123,15 @@ establir un pont aeri amb Barcelona.**
 > [el projecte d'aeroport andorrà](./els-anys-daurats.md) plantejava**: **el
 > 1982 l'aeroport de la Seu va ser, durant una setmana, l'aeroport d'Andorra.**
 
+### La font tècnica que faltava
+
+La nova fitxa [L’aiguat de 1982: meteorologia, danys i resposta](./l-aiguat-de-1982-meteorologia-danys-i-resposta.md)
+afegeix la modelització d’Andorra Recerca i Innovació i la reconstrucció
+geomorfològica de l’ICGC. Confirma que l’episodi va durar aproximadament 36
+hores, descriu les esllavissades d’Engolasters, Pal i Setúria, i documenta la
+mobilització del Sometent, el toc de queda, el pont aeri i el paper de Ràdio les
+Valls. Les xifres de víctimes continuen separades perquè les fonts no coincideixen.
+
 **I un helicòpter francès, mobilitzat «per gestions de la Mitra a Andorra», va
 rescatar cinc persones a Montferrer i una al Salit**, i **va anar a la Massana
 per l'avís d'explosions de gas i de cotxes caiguts al Valira.**
@@ -149,10 +158,10 @@ diluvi d'aigua...»*.**
 ## El que falta
 
 - ~~**Els noms dels set morts i els dotze desapareguts andorrans.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**Les fonts andorranes** sobre els aiguats.~~ — **`font_externa` el
-  2026-09-22**: **la fitxa només ha llegit un article sobre la conca del Segre**.
-  **Cal consultar *El Diari d'Andorra* i l'Arxiu Nacional per completar la
-  perspectiva andorrana.**
+- ~~**Les fonts andorranes** sobre els aiguats.~~ — **`parcial` el
+  2026-09-22**: **ARI conserva i resumeix l’informe de la Conselleria de
+  Serveis Públics de 1982**, i l’Arxiu Nacional ja té registres fotogràfics de
+  l’episodi; encara cal consultar els expedients complets i la premsa andorrana.
 - ~~**L'exposició *Aiguats del 1982*** del
   [Museu del Tabac](../../cultura/museus-i-arxius/museus/el-museu-del-tabac.md),
   del **2013**.~~ — **`font_externa` el 2026-09-22**: cal consultar el catàleg o

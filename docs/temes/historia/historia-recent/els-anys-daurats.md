@@ -6,8 +6,8 @@ tema: temes/historia/historia-recent
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: wikipedia-anys-daurats
-timestamp: 2026-09-13T19:50:00Z
+font: govern-estadistica-poblacio-2021
+timestamp: 2026-09-23T22:00:00Z
 tags: [historia, economia, societat]
 ---
 
@@ -42,9 +42,14 @@ tags: [historia, economia, societat]
 > saldo migratori negatiu, −711**, l'únic de tota la sèrie. **Els anys daurats
 > tenen final, i cau just abans del canvi de segle.**
 
-> **Nota de procedència.** **Aquesta fitxa es va compilar des d'una font
-> secundària** (`wikipedia-anys-daurats`). **Segueix pendent de refer-se contra
-> les sèries del Departament d'Estadística**, que és qui les publica.
+> **Nota de procedència.** El Departament d’Estadística publica una sèrie oficial
+> gràfica de **1948 a 2021** que distingeix entre població registrada i població
+> estimada ([font](../../../fonts/govern-estadistica-poblacio-2021.md)). **Aquesta
+> nota no dona una taula numèrica completa any per any**: confirma la continuïtat
+> del salt demogràfic, però no permet substituir encara totes les xifres de la
+> taula quinquennal. Els valors exactes de 1950–2007 continuen procedint de la
+> taula reproduïda a *Joves i llengües d’Andorra* ([fitxa de la font](../../../fonts/margarit-monne-joves-i-llengues-2010.md)), que atribueix la font al
+> Departament i conserva errades de maquetació documentades al corpus.
 
 **I la població de nacionalitat andorrana passa de ser el 70% a ser-ne el 30%.**
 

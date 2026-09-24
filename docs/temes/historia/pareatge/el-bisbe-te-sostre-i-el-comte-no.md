@@ -290,12 +290,12 @@ ara té la quantitat**, **que es pot comparar amb el topall de la talla episcopa
    aixecava una confiscació; no identifica el delicte ni els béns confiscats.
 9. ~~**Què és «la constitution du divin Adrien»** a què renuncia el rei d'Aragó.
    **Nou.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-10. ~~**Si el Pariatge de 1288 té una estructura semblant.** **El corpus segueix
-    sense el seu text.**~~ — **`parcial` el 19-09-2026**: el text de 1288 ja hi
-    és en **traducció francesa** a [El Pareatge](./el-pareatge.md), Vilar (1904),
-    pp. 159-173. El **llatí original** i la comparació estructural amb el
-    Pariatge de 1278 continuen oberts; el que era fals era afirmar que no hi
-    havia cap text.
+10. ~~**Si el Pariatge de 1288 té una estructura semblant.** **El corpus seguia
+    sense el seu text.**~~ — **`parcial` el 2026-09-22**: [El segon Pariatge
+    desmunta Enclar i crea el notariat, 1288](./el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md)
+    incorpora el text llatí i la traducció catalana reproduïts per
+    l’*Enciclopèdia Catalana*. El corpus encara no ha consultat el pergamí
+    original ni ha fet una col·lació diplomàtica amb el text de 1278.
 
 ## Related
 

@@ -69,9 +69,20 @@ cita.
   **`resolt` el 19-09-2026** com a buit duplicat: l’enunciat canònic queda al
   panorama de [l’antic règim](../antic-regim/lantic-regim.md).
 - ~~La documentació de l'Arxiu Nacional i les actes del Consell, que arrenquen més
-  tard però remeten enrere.~~ — **`font_externa` el 2026-09-22**: són sèries
-  documentals que cal consultar directament per comprovar quins testimonis
-  remeten a l'edat mitjana; aquesta fitxa no les ha llegides.
+  tard però remeten enrere.~~ — **`parcial` el 2026-09-22**: ja s'han llegit
+  vuit peces de 1289-1391 —amb ordenacions de muntanya, síndics, privilegis, pas
+  ramader, vuit costums comunals, la citació de 1381, els privilegis executats
+  el 1383 i la franquícia de generalitats de 1391—, dos instruments de la quèstia
+  de 1390 i tres recursos de 1394-1398, vuit actes de consolidació institucional
+  de 1448-1498 i deu peces de litigació i administració de 1510-1556. Vegeu [la sèrie anterior al Consell](./abans-del-consell-sindics-costums-i-comunals-1331-1364.md),
+  [la seqüència de 1381-1391](./de-la-citacio-comtal-a-la-franquesa-comercial-1381-1391.md),
+  [la consolidació del Consell General](./quan-el-consell-ja-paga-ven-i-recorre-1448-1498.md),
+  [la litigació del primer segle XVI](./del-plet-dels-emprius-al-tribunal-reial-1510-1556.md),
+  [les ordenacions de 1289](./lacces-als-comunals.md),
+  [els jurats contra els dos saigs](./els-jurats-contra-els-dos-saigs-1390.md) i
+  [els privilegis de 1394-1398](./quan-andorra-feia-valer-els-seus-privilegis-1394-1398.md).
+  La sèrie medieval completa de cobraments i els testimonis que remeten enrere
+  continuen pendents.
 - ~~L'article de la **Catalunya Romànica** sobre el marc històric del romànic
   d'Andorra, identificat i **no llegit**.~~ — **`parcial`, actualitzat el
   2026-09-19**: l'article ja està identificat com a font del marc històric,

@@ -1,13 +1,13 @@
 ---
 type: article
 title: La Revolució de 1933
-description: Uns joves ocupen el parlament, s'aprova el sufragi universal masculí, i els coprínceps envien gendarmes francesos a ocupar el país.
+description: La súplica de cinc joves força el sufragi universal masculí; el Tribunal de Corts destitueix el Consell i la Gendarmeria francesa imposa les eleccions de 1933.
 tema: temes/historia/segle-xx-primera-meitat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: viquipedia-ca
-timestamp: 2026-09-12T01:10:00Z
+font: gonzalez-vilalta-revolucio-1933
+timestamp: 2026-09-23T21:00:00Z
 tags: [historia, segle-xx, drets, revolucio]
 ---
 
@@ -18,12 +18,32 @@ tags: [historia, segle-xx, drets, revolucio]
 | Data | Què |
 | --- | --- |
 | **5 d'abril de 1933** | Un grup de joves **ocupa la Casa de la Vall**. Forçat per l'ocupació, el Consell General aprova el **sufragi universal masculí** — fins llavors només votaven els caps de casa |
-| — | El **Tribunal de Corts destitueix** el Consell General elegit el 1932 |
+| **6–10 de juny; 24 de juny de 1933** | El **Tribunal de Corts sentencia la destitució** del Consell General elegit el 1932; la sentència es notifica als síndics el 24 de juny |
 | **18-19 d'agost de 1933** | Davant la resistència del Consell a dissoldre's, els coprínceps envien un contingent de **gendarmes francesos** a Andorra |
 | **31 d'agost de 1933** | **Eleccions**, convocades pels coprínceps. Les primeres amb sufragi universal masculí |
 | **9 d'octubre de 1933** | Els gendarmes marxen, un cop elegit un Consell nou i més dòcil |
 
-([Viquipèdia](../../../fonts/viquipedia-ca.md))
+([La cruïlla andorrana de 1933](../../../fonts/gonzalez-vilalta-revolucio-1933.md)) · ([Viquipèdia](../../../fonts/viquipedia-ca.md))
+
+## Els noms i l’expedient que faltaven
+
+La monografia d’**Arnau Gonzàlez i Vilalta** ([font](../../../fonts/gonzalez-vilalta-revolucio-1933.md)) permet deixar de descriure l’episodi només com una ocupació anònima. Les fonts que estudia situen entre **trenta i vuitanta homes** a la Casa de la Vall el 5 d’abril; Josep Cassany en recordava aproximadament trenta. La comissió que va lliurar la súplica estava formada per **Bonaventura Armengol, Manuel Cairat, Esteve Forné, Francesc Areny i Miquel Espel**.
+
+La petició demanava que poguessin votar i ser elegits **tots els andorrans majors d’edat residents a les Valls**, i que les sessions del Consell fossin públiques. Després d’hores d’ocupació, el Consell va acceptar els dos punts a les set de la tarda. El document dona noms i text de la demanda, però no permet afirmar que els cinc signants fossin tots els ocupants.
+
+El moviment es va organitzar després com a **Unió Andorrana**. En el míting del 25 de maig de 1933, el manifest fundacional el signaven **Manuel Cerqueda, Antoni Picart, Cinto Riberaygua, Manuel Cairat i Esteve Cirés**. El programa combinava sufragi universal masculí, regularització de la ciutadania, reorganització judicial i econòmica i una constitució que delimités les funcions institucionals.
+
+### Per què cau el Consell
+
+El Tribunal de Corts va obrir les sessions el **6 de juny**, després d’un primer calendari ajornat del 26 de maig, i va deliberar fins al 10. L’estudi agrupa les **onze qüestions** enumerades pel prefecte Taviani: la negativa a presentar la sisena al nou veguer francès i a reconèixer el veguer adjunt Carbonell; les naturalitzacions de Weilhemann i Masó i la designació d’Andreu Massó davant del Govern espanyol; concessions de joc, farina, gasolina i ràdio sense autorització dels coprínceps; l’expulsió del doctor Nequi i la prohibició que els metges fossin candidats; passaports i certificats d’origen irregulars; la publicitat dels comptes dels comuns; i l’ordre de retirar la policia de les classes de Larrieu.
+
+La sentència considera que la resistència del Consell a les resolucions de les delegacions permanents constitueix un **estat latent de rebel·lió** i declara procedent la destitució. També inhabilita els síndics Roc Pallarès i Agustí Coma durant un any. La resolució es notifica el **24 de juny de 1933**; els síndics en protesten l’execució. Això concreta el motiu jurídic invocat pel Tribunal, però l’estudi també mostra que el ministre francès Paul-Boncour discutia que un tribunal penal hagués de jutjar desacords polítics.
+
+### La Gendarmeria i FHASA
+
+La peça de l’Arxiu Nacional sobre el coronel Baulard ([font institucional](../../../fonts/govern-peca-mes-revolucio-1933-2026.md)) confirma el lligam entre la crisi social i la intervenció, amb una reserva important: és una síntesi institucional de 2026, no l’ordre original dels coprínceps. Situa el conflicte en l’arribada sobtada d’uns **800 treballadors** a un país d’uns 4.000 habitants, les vagues de FHASA i l’activitat del Partit dels Joves d’Andorra, format per andorrans residents a Besiers i Barcelona i per retornats.
+
+La mateixa peça explica que FHASA tenia la concessió gratuïta dels salts d’aigua a canvi de carreteres cap a França i que el Consell li reclamava **12.000 pessetes** per l’incompliment del termini. René Jules Baulard va expressar escrúpols sobre la base legal d’enviar gendarmes fora de França; un cop a Andorra, va facilitar el contacte amb el síndic i el subsíndic, va ajudar a organitzar les eleccions i no va aplicar la detenció que li demanava el veguer francès. Les tropes es van retirar després dels comicis.
 
 ## La meitat que faltava: la vaga
 
@@ -65,17 +85,18 @@ corpus s'havien llegit així.
 
 ## El que falta
 
-- ~~**Qui eren aquells joves. Noms, organització, reivindicacions concretes.**~~ —
-  **`parcial` el 2026-09-21**: Camiade els identifica com a **joves andorrans
-  emigrants**; el corpus interpreta que molts eren cabalers que havien marxat a
-  treballar fora i reclamaven el sufragi universal masculí. **Encara no en té
-  els noms, l'organització ni el programa complet de reivindicacions.**
-- ~~Què va motivar la destitució del Consell pel Tribunal de Corts.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**El paper de cada copríncep per separat.**~~ — **`parcial` el 2026-09-21**:
-  la font atribueix als **delegats permanents dels dos coprínceps** el decret del
-  sufragi del 17 de juliol i diu que **els coprínceps, conjuntament**, van
-  acordar l'entrada de la Gendarmeria francesa. **El corpus no separa quina
-  decisió o actuació correspon a cadascun.**
+- **Qui eren aquells joves. Noms, organització, reivindicacions concretes.** —
+  **`fortalit el 2026-09-23`**: la monografia identifica els cinc signants de la
+  súplica del 5 d’abril i els cinc del manifest d’Unió Andorrana, i en resumeix
+  les demandes. **No és una llista exhaustiva de tots els ocupants.**
+- **Què va motivar la destitució del Consell pel Tribunal de Corts.** —
+  **`parcialment documentat el 2026-09-23`**: l’estudi incorpora les onze
+  qüestions enumerades pel prefecte, la sentència i la notificació del 24 de
+  juny; encara falta consultar al corpus l’acta original del Tribunal.
+- **El paper de cada copríncep per separat.** — **`parcial`**: l’estudi aporta
+  una reunió del bisbe Guitart amb el delegat francès i instruccions del ministre
+  francès, però les decisions continuen apareixent sovint com a actuacions
+  coordinades de les dues delegacions.
 - ~~Les actes del Consell d'aquells mesos, que són font primària al
   [Consell General](../../institucions/consell-general/el-consell-general.md).~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**S'ha vist un titular de premsa que en diu «la República que quasi va ser»**.
@@ -87,9 +108,11 @@ corpus s'havien llegit així.
   laborals i les tensions polítiques; les fonts no proven que la vaga obrera
   reclamés el vot ni n'estableixen una relació causal.
 
-**Buit registrat, prioritari.** Hi ha bibliografia específica —*La cruïlla
-andorrana de 1933*— i un article a les publicacions de l'IEC, cap dels dos
-consultats.
+**Buits que queden oberts.** El corpus ja ha consultat *La cruïlla andorrana de
+1933* i la peça institucional de l’Arxiu Nacional. Encara falten les actes
+originals del Consell i del Tribunal, una separació completa del paper de cada
+copríncep i una prova causal entre les vagues obreres i la reivindicació del
+vot.
 
 ## Un matís del 1989 que canvia la lectura
 
