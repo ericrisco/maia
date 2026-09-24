@@ -689,3 +689,13 @@ La fitxa pública de l’**ASC-04696** descriu una sentència arbitral del 18 de
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-ramats-gascunya-1468/`
 - Diari de treball: `raw/worklog/2026-09-24-sentencia-ramats-gascunya-1468.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 62. 📝 incorpora ASC-05249 — Conveni del Banc Agrícol i la Caixa de Pensions, 1934
+
+## Objectiu
+
+- Fitxa: [ASC-05249 — Conveni del Banc Agrícol i la Caixa de Pensions, 1934](fonts/asc-05249-conveni-banc-agricol-caixa-pensions-1934.md)
+- Article nou: [El Banc Agrícol signa un conveni amb la Caixa de Pensions (1934)](temes/economia/banca-i-fiscalitat/conveni-banc-agricol-caixa-pensions-1934.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/conveni-banc-agricol-caixa-pensions-1934/`
+- Diari de treball: `raw/worklog/2026-09-23-conveni-banc-agricol-caixa-pensions-1934.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
