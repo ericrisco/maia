@@ -340,3 +340,11 @@ Abast: Entrada bibliogràfica 659 del catàleg oficial i descripció secundària
 ### 21. 📝 incorpora Arxiu Diocesà d’Urgell — fitxa del cercador Arxius de Catalunya
 
 - Fitxa: [Arxiu Diocesà d’Urgell — fitxa del cercador Arxius de Catalunya](fonts/adu-fitxa-arxius-catalunya.md)
+
+### 22. 📝 incorpora Mémoires et Documents / Andorre, 1652–1882 — inventari diplomàtic francès
+
+Abast: Inventari de 411 unitats del fons 6MD/1; per a la Reforma, entrada 48 (31 de maig de 1866) i entrades 67, 69, 77 i 81 sobre el conflicte posterior, inclòs el casino de 1868.
+
+- Fitxa: [Mémoires et Documents / Andorre, 1652–1882 — inventari diplomàtic francès](fonts/archives-diplomatiques-andorra-1652-1882.md)
+- Article nou: [La frontera espanyola i la Solana entren en un expedient francès (1850)](temes/historia/segle-xix/solana-frontera-1850.md)
+- Material de partida: 5 fitxers a `raw/web/institucions/archives-diplomatiques/andorre-1652-1882/`
