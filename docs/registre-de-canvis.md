@@ -1239,3 +1239,8 @@ Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers
 ### 127. 📝 incorpora Guia de l’Arxiu de l’Església d’Urgell
 
 - Fitxa: [Guia de l’Arxiu de l’Església d’Urgell](fonts/guia-arxiu-esglesia-urgell-2026.md)
+
+### 128. 📝 incorpora historia.ad, «Relat cronològic 08 — L’auge del Consell General»
+
+- Fitxa: [historia.ad, «Relat cronològic 08 — L’auge del Consell General»](fonts/historia-ad-relat-cronologic-08.md)
+- Article nou: [Els fets de 1868: Dallerès, el casino i el Consell](temes/historia/segle-xix/els-fets-de-1868-dalleres-i-el-consell.md)
