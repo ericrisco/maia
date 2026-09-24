@@ -65,3 +65,11 @@ La fitxa **ACA-282** descriu una certificació i còpia de la ratificació feta 
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/empriu-pera-venda-1475/`
 - Diari de treball: `raw/worklog/2026-09-23-empriu-pera-venda-1475.md`
 - Diari de treball: `raw/worklog/2026-09-23-proces-empriu-cantabra-pera-1542.md`
+
+### 5. 📝 incorpora ACA-322 — Procés pels emprius de Cantabrà i la Pera, 1542
+
+Abast: Unitat ACA-322, 28 folis catalogats, procés judicial de 1542
+
+- Fitxa: [ACA-322 — Procés pels emprius de Cantabrà i la Pera, 1542](fonts/aca-322-proces-emprius-1542.md)
+- Article nou: [El procés dels emprius de Cantabrà i la Pera, 1542](temes/historia/edat-mitjana/el-proces-dels-emprius-de-cantabra-i-la-pera-1542.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/proces-empriu-cantabra-pera-1542/`
