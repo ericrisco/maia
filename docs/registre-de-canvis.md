@@ -679,3 +679,13 @@ La fitxa pública de l’**ASC-4695** descriu una sentència del 7 de juny de 14
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-taxes-saigs-1456/`
 - Diari de treball: `raw/worklog/2026-09-23-sentencia-taxes-saigs-1456.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 61. 📝 incorpora ASC-04696 — Sentència arbitral sobre el robatori de moltons, 1468
+
+La fitxa pública de l’**ASC-04696** descriu una sentència arbitral del 18 de juny de 1468, dictada pels veguers Menaud de Lobie i Pere Paüls, en un litigi entre les universitats d’Andorra i homes de Gascunya pel robatori de moltons de Ramon Vernet, veí de Puigcerdà.
+
+- Fitxa: [ASC-04696 — Sentència arbitral sobre el robatori de moltons, 1468](fonts/asc-04696-sentencia-ramats-gascunya-1468.md)
+- Article nou: [Els veguers arbitren un robatori de moltons, 1468](temes/historia/edat-mitjana/sentencia-ramats-gascunya-1468.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-ramats-gascunya-1468/`
+- Diari de treball: `raw/worklog/2026-09-24-sentencia-ramats-gascunya-1468.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
