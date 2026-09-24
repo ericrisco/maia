@@ -111,3 +111,11 @@ La fitxa oficial **ACA-5347** d’Arxius en Línia descriu la sentència de 26 d
 
 - Fitxa: [ACA-5347 — Sentència sobre la lleuda de la vall de Querol, 26 de novembre de 1401](fonts/aca-5347-lleuda-querol-1401.md)
 - Diari de treball: `raw/worklog/2026-09-23-lleuda-querol-1401.md`
+
+### 11. 📝 incorpora ACA-5348 — Petició perquè l’oficial d’Urgell administri justícia, 1409
+
+La fitxa pública de l’**ACA-5348** descriu la petició de Pere Sança i Pere Batlle, d’Andorra la Vella, en representació dels andorrans, davant de Vicenç Morató, oficial d’Urgell i vicari general, en un litigi en què la part contrària no s’havia presentat al dia assignat.
+
+- Fitxa: [ACA-5348 — Petició perquè l’oficial d’Urgell administri justícia, 1409](fonts/aca-5348-peticio-justicia-urgell-1409.md)
+- Article nou: [Dos veïns d’Andorra exigeixen que l’oficial d’Urgell faci justícia, 1409](temes/historia/edat-mitjana/peticio-justicia-urgell-1409.md)
+- Diari de treball: `raw/worklog/2026-09-25-peticio-justicia-urgell-1409.md`
