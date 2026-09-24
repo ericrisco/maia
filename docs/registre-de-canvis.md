@@ -445,3 +445,13 @@ La fitxa pública de l’**ASC-00685** descriu un rebut del cirurgià Alonso Arg
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/rebut-lloguer-cirurgia-1828/`
 - Diari de treball: `raw/worklog/2026-09-23-rebut-lloguer-cirurgia-1828.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 35. 📝 incorpora ASC-02775 — Contribució industrial i de comerç, 1849
+
+La fitxa pública de l’**ASC-02775** descriu una carta de Josep López al síndic general, del 8 de juliol de 1849, que tramet una disposició de la Direcció General de Contribucions Directes sobre la no-exempció dels habitants d’Andorra en la contribució industrial i de comerç.
+
+- Fitxa: [ASC-02775 — Contribució industrial i de comerç, 1849](fonts/asc-02775-contribucio-industrial-1849.md)
+- Article nou: [La contribució industrial i de comerç arriba al síndic (1849)](temes/economia/banca-i-fiscalitat/contribucio-industrial-comerc-1849.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/contribucio-industrial-1849/`
+- Diari de treball: `raw/worklog/2026-09-23-contribucio-industrial-1849.md`
+- Originals conservats només en local (sense dret de redistribució): 5 fitxers
