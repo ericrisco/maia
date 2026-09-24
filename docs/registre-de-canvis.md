@@ -622,3 +622,9 @@ La fitxa pública de l’**ASC-03801** descriu una sentència del 8 de març de 
 - Material de partida: 8 fitxers a `raw/web/institucions/arxiu-set-claus/blat-andorra-1904/`, `raw/web/institucions/arxiu-set-claus/blat-encamp-1904/`, `raw/web/institucions/arxiu-set-claus/blat-massana-1904/`, `raw/web/institucions/arxiu-set-claus/blat-ordino-1904/`
 - Diari de treball: `raw/worklog/2026-09-23-blat-cerdanya-parroquies-1904.md`
 - Originals conservats només en local (sense dret de redistribució): 12 fitxers
+
+### 54. 📝 incorpora ASC-03961 — Relació del blat portat de Cerdanya i repartit entre els veïns…
+
+Abast: Unitat documental ASC-03961, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
+
+- Fitxa: [ASC-03961 — Relació del blat portat de Cerdanya i repartit entre els veïns de la parròquia d’Andorra (les Caldes i Andorra).](fonts/asc-03961-blat-andorra-1904.md)
