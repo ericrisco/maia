@@ -414,3 +414,11 @@ Abast: Quatre expedients TC de 1621: TC-6237 (18 pàgines), TC-6242 (8), TC-6243
 - Fitxa: [Arxiu en línia — quatre expedients de bruixeria (1621)](fonts/arxiu-en-linia-tc-bruixeria-1621.md)
 - Material de partida: 42 fitxers a `raw/academic/arxiu-nacional/tribunal-corts/tc-6237/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6242/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6243/`, `raw/academic/arxiu-nacional/tribunal-corts/tc-6249/`
 - Originals conservats només en local (sense dret de redistribució): 46 fitxers
+
+### 31. 📝 incorpora ASC-16 — Llibre d’actes i comptes del Consell de les Valls d’Andorra, 1586–…
+
+Abast: Unitat digital ASC-16, 280 folis, novembre de 1586–maig de 1723, signatura Ll-11
+
+- Fitxa: [ASC-16 — Llibre d’actes i comptes del Consell de les Valls d’Andorra, 1586–1723](fonts/asc-00016-llibre-actes-1586-1723.md)
+- Material de partida: 1 fitxers a `raw/web/institucions/arxiu-set-claus/llibre-actes-1586-1723/`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
