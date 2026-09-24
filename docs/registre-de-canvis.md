@@ -1279,3 +1279,10 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 ### 133. 📝 incorpora Llei d’organització de l’Administració General (1985)
 
 - Fitxa: [Llei d’organització de l’Administració General (1985)](fonts/llei-administracio-general-1985.md)
+
+### 134. 📝 incorpora Impacte de la immigració a Andorra (2010)
+
+- Fitxa: [Impacte de la immigració a Andorra (2010)](fonts/lluelles-impacte-immigracio-2010.md)
+- Article nou: [Del control dels forasters al cens comunal (1752–1949)](temes/institucions/nacionalitat-i-residencia/el-cens-comunal-i-el-control-dels-estrangers-1752-1949.md)
+- Material de partida: 16 fitxers a `raw/web/institucions/consell-general/`, `raw/web/institucions/nacionalitat/`
+- Originals conservats només en local (sense dret de redistribució): 5 fitxers
