@@ -1,0 +1,419 @@
+{
+  "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.info",
+  "archiveHREF": "/fotoweb/archives/5004-Documents-textuals/",
+  "archiveId": 5004,
+  "linkstance": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.info",
+  "isVersioningEnabled": false,
+  "created": "2021-02-07T13:46:22.741000Z",
+  "modified": "2020-10-26T07:41:42Z",
+  "modifiedBy": "system",
+  "createdBy": "system",
+  "filename": "ASC_05741.pdf",
+  "filesize": 104448,
+  "uniqueid": "",
+  "permissions": [
+    "View",
+    "Preview",
+    "Download"
+  ],
+  "pincount": 0,
+  "previewcount": 12,
+  "downloadcount": 0,
+  "workflowcount": 0,
+  "metadataeditcount": 0,
+  "revisioncount": 0,
+  "doctype": "document",
+  "capabilities": {
+    "crop": false,
+    "print": false,
+    "printWithAnnotations": false
+  },
+  "previews": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/O/c/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjQA0A.Qau-AafAPa.jpg",
+      "square": false
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/Y/V/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjYBMA.l6UIDmAqfQ.jpg",
+      "square": false
+    },
+    {
+      "size": 1600,
+      "width": 1600,
+      "height": 1600,
+      "href": "/fotoweb/cache/v2/f/Q/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjgBkA.7mLd2sKyWo.jpg",
+      "square": false
+    },
+    {
+      "size": 2400,
+      "width": 2400,
+      "height": 2400,
+      "href": "/fotoweb/cache/v2/7/S/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjwCUA.4t8Dkv8yvj.jpg",
+      "square": false
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/v/j/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAMA.___QL6zn2C.jpg",
+      "square": false
+    },
+    {
+      "size": 300,
+      "width": 300,
+      "height": 300,
+      "href": "/fotoweb/cache/v2/8/F/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjWAUA.uALdVkW1Sb.jpg",
+      "square": false
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/T/0/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjIAcA.oLxy8f1j7V.jpg",
+      "square": false
+    },
+    {
+      "size": 600,
+      "width": 600,
+      "height": 600,
+      "href": "/fotoweb/cache/v2/Z/-/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjsAkA.o7VZC_Sq_e.jpg",
+      "square": false
+    },
+    {
+      "size": 100,
+      "width": 100,
+      "height": 100,
+      "href": "/fotoweb/cache/v2/0/g/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjyAQ.32s43iMDMj.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/-/d/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAME.YQQ8Y33Kw6.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/-/d/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAME.YQQ8Y33Kw6.jpg",
+      "square": true
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/9/4/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjIAcE.G921HX1UT8.jpg",
+      "square": true
+    }
+  ],
+  "quickRenditions": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/O/c/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjQA0A.Qau-AafAPa.jpg",
+      "square": false,
+      "name": "Vista prèvia (800px)"
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/Y/V/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjYBMA.l6UIDmAqfQ.jpg",
+      "square": false,
+      "name": "Vista prèvia (1200px)"
+    },
+    {
+      "size": 2048,
+      "width": 2048,
+      "height": 2048,
+      "href": "/fotoweb/cache/v2/H/o/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjACEA.6HmnIxLAfc.jpg",
+      "square": false,
+      "name": "Vista prèvia (2048px)"
+    }
+  ],
+  "metadataEditor": {
+    "name": "Documents sin pestañas",
+    "href": "/fotoweb/editors/ed614786-1e6e-4eda-9c23-a443d1810073"
+  },
+  "renditions": [
+    {
+      "display_name": "Fitxer Original",
+      "description": "Fitxer Original",
+      "width": 1,
+      "height": 1,
+      "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.info/__renditions/ORIGINAL",
+      "default": true,
+      "original": true,
+      "sizeFixed": false,
+      "profile": "2af4914d-6c11-4b15-a7ee-a4260efc8309"
+    }
+  ],
+  "previewToken": null,
+  "attributes": {
+    "documentattributes": {
+      "pages": 1,
+      "viewablePages": 0
+    }
+  },
+  "physicalFileId": "73pVJ8L7UueItngpvdIhw7wmNeydOMkOFaNvsA9SxDU/Documents/ASC/ASC_05741.pdf",
+  "metadata": {
+    "25": {
+      "value": [
+        "Correspondència",
+        "Estudis",
+        "Estudiants"
+      ]
+    },
+    "50": {
+      "value": "ASC-5741"
+    },
+    "120": {
+      "value": "Carta d'Antoni Huguet al Sr. Molines, on li diu que li envia la documentació referent a les noies d'Andorra que estudien a l'Escola Normal de Perpinyà."
+    },
+    "518": {
+      "value": [
+        "1.2.11.1. Ensenyament"
+      ]
+    },
+    "618": {
+      "value": [
+        "Huguet, Antoni",
+        "Molines, Sr."
+      ]
+    },
+    "619": {
+      "value": [
+        "Sant Julià de Lòria, (SJL)",
+        "Perpinyà, (FRA)",
+        "Perpinyà, Escola Normal de, (FRA)"
+      ]
+    },
+    "656": {
+      "value": "2 f."
+    },
+    "808": {
+      "value": "Arxiu de les Set Claus"
+    },
+    "809": {
+      "value": "Unitat Documental Simple"
+    },
+    "812": {
+      "value": "1898/04/02"
+    }
+  },
+  "thumbnailFields": {
+    "label": {
+      "value": "ASC_05741.pdf"
+    },
+    "firstLine": {
+      "value": "1898/04/02"
+    },
+    "secondLine": {
+      "value": [
+        "1.2.11.1. Ensenyament"
+      ]
+    },
+    "additionalFields": [
+      {
+        "value": "",
+        "views": [
+          "desktop",
+          "widgets",
+          "web",
+          "pro"
+        ]
+      },
+      {
+        "value": "Carta d'Antoni Huguet al Sr. Molines, on li diu que li envia la documentació referent a les noies d'Andorra que estudien a l'Escola Normal de Perpinyà.",
+        "views": [
+          "desktop",
+          "widgets",
+          "web"
+        ]
+      }
+    ]
+  },
+  "builtinFields": [
+    {
+      "field": "title",
+      "required": false,
+      "value": ""
+    },
+    {
+      "field": "description",
+      "required": false,
+      "value": "Carta d'Antoni Huguet al Sr. Molines, on li diu que li envia la documentació referent a les noies d'Andorra que estudien a l'Escola Normal de Perpinyà."
+    },
+    {
+      "field": "tags",
+      "required": false,
+      "value": []
+    }
+  ],
+  "pages": {
+    "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/",
+    "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/{page}",
+    "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.info",
+    "paging": {
+      "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/",
+      "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/",
+      "next": null,
+      "prev": null
+    },
+    "data": [
+      {
+        "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/1",
+        "page": 1,
+        "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/{page}",
+        "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.info",
+        "pages": {
+          "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/1",
+          "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_05741.pdf.pages/1",
+          "next": null,
+          "prev": null
+        },
+        "previews": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/7/M/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjQA0YAA.Uw_5UcbGUL.jpg",
+            "square": false
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/b/X/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjYBMYAA.s2Qxxe2-Jf.jpg",
+            "square": false
+          },
+          {
+            "size": 1600,
+            "width": 1600,
+            "height": 1600,
+            "href": "/fotoweb/cache/v2/w/J/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjgBkYAA.shvHG6JpiN.jpg",
+            "square": false
+          },
+          {
+            "size": 2400,
+            "width": 2400,
+            "height": 2400,
+            "href": "/fotoweb/cache/v2/a/N/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjwCUYAA.9gQu0PN-oU.jpg",
+            "square": false
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/Y/O/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAMYAA.o7iG6rDgBe.jpg",
+            "square": false
+          },
+          {
+            "size": 300,
+            "width": 300,
+            "height": 300,
+            "href": "/fotoweb/cache/v2/z/2/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjWAUYAA.5rzfxDvyAd.jpg",
+            "square": false
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/E/a/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjIAcYAA.d2txJ57UAb.jpg",
+            "square": false
+          },
+          {
+            "size": 600,
+            "width": 600,
+            "height": 600,
+            "href": "/fotoweb/cache/v2/l/w/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjsAkYAA.raeCBOlEWo.jpg",
+            "square": false
+          },
+          {
+            "size": 100,
+            "width": 100,
+            "height": 100,
+            "href": "/fotoweb/cache/v2/b/v/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjyBwA.OVhT68X05l.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/7/H/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAMcAA.4tm0rq_Cdq.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/7/H/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjkAMcAA.4tm0rq_Cdq.jpg",
+            "square": true
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/q/Y/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjIAccAA.6Lm-cOjuJA.jpg",
+            "square": true
+          }
+        ],
+        "quickRenditions": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/7/M/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjQA0YAA.Uw_5UcbGUL.jpg",
+            "square": false,
+            "name": "Vista prèvia (800px)"
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/b/X/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjYBMYAA.s2Qxxe2-Jf.jpg",
+            "square": false,
+            "name": "Vista prèvia (1200px)"
+          },
+          {
+            "size": 2048,
+            "width": 2048,
+            "height": 2048,
+            "href": "/fotoweb/cache/v2/y/0/Documents/ASC/ASC_05741.pdf.jCfY6p6GMm07OVtjACEYAA.Su2JkFejVZ.jpg",
+            "square": false,
+            "name": "Vista prèvia (2048px)"
+          }
+        ]
+      }
+    ]
+  },
+  "ancestors": [
+    {
+      "name": "Documents textuals",
+      "href": "/fotoweb/archives/5004-Documents-textuals/",
+      "data": "/fotoweb/archives/5004-Documents-textuals/"
+    }
+  ],
+  "props": {
+    "owner": null,
+    "shares": {
+      "enabled": false
+    },
+    "comments": {
+      "enabled": false
+    },
+    "annotations": {
+      "enabled": false
+    },
+    "tags": []
+  }
+}

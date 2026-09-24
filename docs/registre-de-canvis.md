@@ -807,3 +807,13 @@ La fitxa pública de l’**ASC-05731** descriu una proposició de Clodovée Papi
 - Fitxa: [Beques franceses per a dues noies andorranes, 1890 — ASC-05732–05737](fonts/asc-05732-05737-beques-noies-franca-1890.md)
 - Article nou: [Dues noies andorranes obtenen beques franceses per estudiar magisteri, 1890](temes/societat/educacio/beques-noies-andorranes-franca-1890.md)
 - Diari de treball: `raw/worklog/2026-09-23-beques-noies-franca-1890.md`
+
+### 74. 📝 incorpora ASC-05741 — Noies d’Andorra a l’Escola Normal de Perpinyà, 1898
+
+La fitxa pública de l’**ASC-05741** descriu una carta d’Antoni Huguet al Sr. Molines sobre documentació de noies d’Andorra que estudiaven a l’Escola Normal de Perpinyà, datada el 2 d’abril de 1898.
+
+- Fitxa: [ASC-05741 — Noies d’Andorra a l’Escola Normal de Perpinyà, 1898](fonts/asc-05741-noies-escola-normal-perpinya-1898.md)
+- Article nou: [Noies d’Andorra estudien a l’Escola Normal de Perpinyà (1898)](temes/societat/educacio/noies-andorranes-escola-normal-perpinya-1898.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/noies-escola-normal-perpinya-1898/`
+- Diari de treball: `raw/worklog/2026-09-23-noies-escola-normal-perpinya-1898.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
