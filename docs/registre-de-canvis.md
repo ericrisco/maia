@@ -1388,3 +1388,7 @@ Abast: Identificació de Pau Xavier Areny de Plandolit i de les seves publicacio
 
 - Fitxa: [Pau Xavier Areny de Plandolit i la revista Andorra Agrícola](fonts/plandolit-andorra-agricola-2009.md)
 - Article nou: [Pau Xavier Areny de Plandolit: ciència i premsa rural](temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-ciencia-i-premsa-rural.md)
+
+### 151. 📝 incorpora Policia d’Andorra i A. Luengo — història del Servei d’Ordre, 1881–1940
+
+- Fitxa: [Policia d’Andorra i A. Luengo — història del Servei d’Ordre, 1881–1940](fonts/policia-andorra-historia-1931-2026.md)
