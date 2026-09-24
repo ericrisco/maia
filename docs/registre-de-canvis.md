@@ -1176,3 +1176,13 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 ### 118. 📝 incorpora Les nou impulsores del sufragi femení — nota del Govern (2025)
 
 - Fitxa: [Les nou impulsores del sufragi femení — nota del Govern (2025)](fonts/govern-9-impulsores-sufragi-2025.md)
+
+### 119. 📝 incorpora Inventari de l’Arxiu Comunal d’Andorra
+
+## Font consultada
+
+- Fitxa: [Inventari de l’Arxiu Comunal d’Andorra](fonts/govern-arxiu-comunal-andorra.md)
+- Article nou: [El delme es converteix en tribut eclesiàstic, 1905](temes/economia/banca-i-fiscalitat/el-delme-es-converteix-en-tribut-eclesiastic-1905.md)
+- Article nou: [El Consell protegeix el pa i refà el telèfon, 1917–1919](temes/historia/segle-xx-primera-meitat/el-pa-i-el-telefon-1917-1919.md)
+- Article nou: [Andorra demana franquícia a la Cerdanya, 1631–1646](temes/institucions/consell-general/andorra-demana-franquicia-cerdanya-1646.md)
+- Diari de treball: `raw/worklog/2026-09-23-arxiu-comunal-1917-1919.md`
