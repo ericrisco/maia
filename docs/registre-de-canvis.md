@@ -1357,3 +1357,7 @@ El registre **ASC-3709** de l’Arxiu de les Set Claus identifica un foli del **
 
 - Fitxa: [Memòria preliminar de les intervencions arqueològiques a la vall del Madriu (2008)](fonts/palet-memoria-madriu-2008.md)
 - Article nou: [Quan el Madriu produïa pega en època romana](temes/historia/origens/quan-el-madriu-produia-pega-en-epoca-romana.md)
+
+### 146. 📝 incorpora Expedient PARES del canvi de notes amb Andorra, 1866–1868
+
+- Fitxa: [Expedient PARES del canvi de notes amb Andorra, 1866–1868](fonts/pares-ultramar-4714-exp42-canje-andorra-1867.md)
