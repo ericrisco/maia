@@ -481,3 +481,13 @@ La fitxa pública de l’**ASC-3494** descriu una queixa de Martí Garreta, de l
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/`
 - Diari de treball: `raw/worklog/2026-09-23-queixa-batlle-garreta-1528.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 39. 📝 incorpora ASC-03545 — Ordinacions sobre pastures i pas del bestiar andorrà, 1340
+
+La fitxa pública de l’**ASC-3545** descriu un trasllat autoritzat per Pere Sicard, notari públic de Castellbò, d’unes ordinacions de Roger Bernat de Castellbò sobre les pastures i el pas del bestiar andorrà per l’Urgell. El catàleg les data entre el 26 de gener i l’1 d’abril de 1340.
+
+- Fitxa: [ASC-03545 — Ordinacions sobre pastures i pas del bestiar andorrà, 1340](fonts/asc-03545-ordinacions-pastures-1340.md)
+- Article nou: [Unes ordinacions protegeixen el pas dels ramats andorrans, 1340](temes/historia/edat-mitjana/ordinacions-pastures-1340.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordinacions-pastures-1340/`
+- Diari de treball: `raw/worklog/2026-09-23-ordinacions-pastures-1340.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
