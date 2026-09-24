@@ -1,0 +1,20 @@
+{
+  "id": "ASC-2886",
+  "title": "Acta notarial de cartes rebudes de la reina de Navarra",
+  "date": "1512-07-04",
+  "description": "Guillem Cal d'Ordino, síndic i procurador d'Andorra, fa aixecar acta notarial de les cartes rebudes de la reina de Navarra davant Joanot Tragó, castellà de Castellbó, i Pere Martí, notari de la Seu d'Urgell.",
+  "classification": "1.1.2.4. Comunicacions",
+  "subjects": ["Certificacions", "Notarial"],
+  "people": ["Guillem Cal d'Ordino", "Joanot Tragó", "Pere Martí"],
+  "place": "Bellestar (Lleida, Espanya)",
+  "source_signature": "P. 91",
+  "folios": "1 f.",
+  "source_url": "https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_02886.pdf.info",
+  "custodian": "Arxiu Nacional d'Andorra · Arxiu de les Set Claus",
+  "rights": "La fitxa declara View, Preview i Download; no hi consta una llicència específica de reutilització.",
+  "retrieved": "2026-09-23",
+  "previews": [
+    {"file": "ASC_02886_p1.jpg", "width": 800, "sha256": "0d85c8492d8b19773638cc53dd6bdeddec52050c3f5c9cf69814a9ed5371bf5e"},
+    {"file": "ASC_02886_thumb.jpg", "width": 200, "sha256": "5dc1c6bd0fde49a6895a813c2a987e54097ba2648756fb3a4727a3d106d7456b"}
+  ]
+}

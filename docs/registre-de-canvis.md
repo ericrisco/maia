@@ -1434,3 +1434,10 @@ Abast: Periodització del Roc d’Enclar des del bronze antic fins al segle XIX:
 
 - Fitxa: [Zona arqueològica del Roc d'Enclar](fonts/zona-arqueologica-roc-enclar.md)
 - Article nou: [El Roc d’Enclar: cinc períodes en un espai dominant](temes/historia/origens/el-roc-denclar-cinc-periodes.md)
+
+### 158. 📝 afegeix el material de l'Arxiu de les Set Claus i el seu inventari
+
+Material de partida de l'Arxiu de les Set Claus (Arxiu Nacional d'Andorra): expedients digitalitzats, metadades FotoWeb, extractes de text i renders de verificació que no pertanyen a una sola fitxa, més l'inventari publicat pel Govern amb les pàgines de previsualització. Les fitxes que els citen ja són al corpus.
+
+- Material de partida: 29 fitxers a `raw/academic/arxiu-nacional/inventari-set-claus/`, `raw/web/institucions/arxiu-set-claus/beques-noies-franca-1890/`, `raw/web/institucions/arxiu-set-claus/cartes-reina-navarra-1512/`, `raw/web/institucions/arxiu-set-claus/immunitat-1512/`, `raw/web/institucions/arxiu-set-claus/pagaments-oficis-consell-1820/`, `raw/web/institucions/arxiu-set-claus/pagaments-salut-consell-1820/` …
+- Diari de treball: `raw/worklog/2026-09-23-asc-16.md`

@@ -1,0 +1,19 @@
+{
+  "id": "ASC-3584",
+  "title": "Manament del governador de Foix sobre presos i immunitat a Andorra",
+  "catalogue_date": "1595-03-22",
+  "description_date_included": "1512-03-24",
+  "description": "Manament del governador del comtat de Foix, en resposta a una súplica del síndic, ordenant que siguin alliberats uns presos en territori d'Andorra i que els veïns de Foix i Urgell continuïn gaudint d'immunitat dins les valls. Inclou una còpia del manament del senescal del comtat de Foix de 24/03/1512, que estableix la immunitat dels naturals de Foix, Urgell i Catalunya.",
+  "classification": "1.1.2.5. Obligacions",
+  "subjects": ["Manaments", "Presos", "Immunitat"],
+  "places": ["Andorra", "Comtat de Foix"],
+  "folios": "2 f.",
+  "source_url": "https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_03584.pdf.info",
+  "custodian": "Arxiu Nacional d’Andorra · Arxiu de les Set Claus",
+  "rights": "La fitxa declara View, Preview i Download; no hi consta una llicència específica de reutilització.",
+  "retrieved": "2026-09-23",
+  "previews": [
+    {"file": "ASC_03584_preview.jpg", "width": 531, "height": 800, "sha256": "7af7e16c85357586f180b0023f4799b666e93cdb6b76b6e355176f9ac838e0bf"},
+    {"file": "ASC_03584_thumb.jpg", "width": 134, "height": 200, "sha256": "26589db833e5094d80f39ec0a27b4f9fa5f8c64d1b4f8f23ba4927dd229b8f3a"}
+  ]
+}

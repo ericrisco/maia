@@ -1,0 +1,19 @@
+{
+  "id": "ASC-3663",
+  "title": "Trasllat de la potestat per defensar muntanyes i emprius",
+  "date_range": "1332-07-01/1513-09-17",
+  "description": "Trasllat de la potestat donada per Pere Arnau de Castellverdú, veguer d'Andorra pel comte de Foix, als andorrans perquè puguin defensar les seves muntanyes i emprius contra qualsevol persona que gosi causar-los algun perjudici.",
+  "classification": "1.1.2.6. Drets",
+  "subjects": ["Muntanyes", "Emprius", "Potestat", "Perjudicis"],
+  "people": ["Arnau de Castellverdú", "Joan Ortedó"],
+  "places": ["Comtat de Foix", "Andorra"],
+  "folios": "1 f.",
+  "source_url": "https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_03663.pdf.info",
+  "custodian": "Arxiu Nacional d’Andorra · Arxiu de les Set Claus",
+  "rights": "La fitxa declara View, Preview i Download; no hi consta una llicència específica de reutilització.",
+  "retrieved": "2026-09-23",
+  "previews": [
+    {"file": "ASC_03663_01.jpg", "width": 758, "height": 800, "sha256": "a60fd85336162155a24b91ba8c76503cf170bbcee75a563dcf99b775f070fe14"},
+    {"file": "ASC_03663_02.jpg", "width": 191, "height": 200, "sha256": "549092dac9754848d54afcaf30c8130f8eb2bcf2a825e04517bf44845b132a95"}
+  ]
+}

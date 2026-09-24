@@ -1,0 +1,19 @@
+{
+  "id": "ASC-3913",
+  "title": "Súplica del síndic per poder treure sal de les salines de Cardona",
+  "date": "1520-07-05",
+  "description": "Súplica del síndic de les valls d'Andorra que demana dos mesos per poder treure sal de les salines de Cardona en base al contracte establert i no dut a terme a causa de la guerra.",
+  "classification": "1.1.4.2. Comerç",
+  "subjects": ["Sal", "Importació", "Súpliques"],
+  "people": ["Síndic de les valls d'Andorra"],
+  "places": ["Salines de Cardona", "Barcelona"],
+  "folios": "2 f.",
+  "source_url": "https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_03913.pdf.info",
+  "custodian": "Arxiu Nacional d’Andorra · Arxiu de les Set Claus",
+  "rights": "La fitxa declara View, Preview i Download; no hi consta una llicència específica de reutilització.",
+  "retrieved": "2026-09-23",
+  "previews": [
+    {"file": "ASC_03913_01.jpg", "width": 582, "height": 800, "sha256": "5ba48af91c9f822a9998b48662cf6332d091a2abee6ba47477c21c09cada9406"},
+    {"file": "ASC_03913_02.jpg", "width": 147, "height": 200, "sha256": "ecc4b6714536581884bc6e9afc2b5c228ddc5f54e9cb4867e5d4c9d2db164b0f"}
+  ]
+}
