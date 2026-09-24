@@ -119,3 +119,10 @@ La fitxa pública de l’**ACA-5348** descriu la petició de Pere Sança i Pere 
 - Fitxa: [ACA-5348 — Petició perquè l’oficial d’Urgell administri justícia, 1409](fonts/aca-5348-peticio-justicia-urgell-1409.md)
 - Article nou: [Dos veïns d’Andorra exigeixen que l’oficial d’Urgell faci justícia, 1409](temes/historia/edat-mitjana/peticio-justicia-urgell-1409.md)
 - Diari de treball: `raw/worklog/2026-09-25-peticio-justicia-urgell-1409.md`
+
+### 12. 📝 incorpora ACA-5359 — Ratificació de l’empriu de la Pera i del bestiar foraster, 1481
+
+La fitxa **ACA-5359** d’Arxius en Línia descriu una acta de 12 de setembre de 1481 en què Joan Catell, senyor d’Arànser, reconeix i ratifica un acord sobre el bestiar foraster del domini d’Arànser i de la parròquia d’Andorra, lligat a la venda a carta de gràcia de la muntanya i empriu de la Pera a favor dels cònsols Antoni Moles i Arnau Ribot.
+
+- Fitxa: [ACA-5359 — Ratificació de l’empriu de la Pera i del bestiar foraster, 1481](fonts/aca-5359-empriu-pera-1481.md)
+- Diari de treball: `raw/worklog/2026-09-23-empriu-pera-arancer-1481.md`
