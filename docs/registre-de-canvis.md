@@ -969,3 +969,12 @@ La pàgina institucional **Les dones al Consell General** documenta la cadena co
 - Material de partida: 2 fitxers a `raw/web/politica/sufragi-femeni/`
 - Diari de treball: `raw/worklog/2026-09-23-sufragi-femeni.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 94. 📝 incorpora CR_0011 — Retrat d’una nena al pati d’una casa, 1890–1920
+
+## Objectiu
+
+- Fitxa: [CR_0011 — Retrat d’una nena al pati d’una casa, 1890–1920](fonts/cr-0011-casa-rossell-nena-1890-1920.md)
+- Article nou: [Un retrat de nena mostra la casa i la roba del canvi de segle](temes/societat/familia/retrat-nena-casa-rossell-1890-1920.md)
+- Material de partida: 3 fitxers a `raw/web/cultura/fotografia/casa-rossell-nena-1890-1920/`
+- Diari de treball: `raw/worklog/2026-09-23-retrat-nena-casa-rossell-1890-1920.md`
