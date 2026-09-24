@@ -660,3 +660,13 @@ La fitxa pública de l’**ASC-04538** descriu una carta del 28 de novembre de 1
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/restriccio-emigrats-francesos-1904/`
 - Diari de treball: `raw/worklog/2026-09-23-restriccio-emigrats-francesos-1904.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 59. 📝 incorpora ASC-04549 — Pactes amb l’apotecari Francesc Balmes, 1737
+
+La fitxa pública de l’**ASC-04549** descriu els pactes entre el Consell General i Francesc Balmes d’Igualada pel seu servei com a apotecari a les valls d’Andorra, datats 1737 post.
+
+- Fitxa: [ASC-04549 — Pactes amb l’apotecari Francesc Balmes, 1737](fonts/asc-04549-conveni-apotecari-balmes-1737.md)
+- Article nou: [El Consell contracta un apotecari d’Igualada (1737)](temes/societat/sanitat/conveni-apotecari-balmes-1737.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/conveni-apotecari-balmes-1737/`
+- Diari de treball: `raw/worklog/2026-09-23-conveni-apotecari-balmes-1737.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
