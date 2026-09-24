@@ -836,3 +836,13 @@ La fitxa pública de l’**ASC-1186** identifica un privilegi d’Abril Pérez P
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-franquesa-oli-1265/`
 - Diari de treball: `raw/worklog/2026-09-23-franquesa-mesuratge-oli-1265.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 77. 📝 incorpora ASC-1187 — Extracte del privilegi de franquesa de lleuda a les muntanyes de…
+
+La fitxa pública de l’**ASC-1187** descriu un extracte d’un privilegi de Gastó III de Foix, Phebo, que concedia als habitants d’Andorra la franquesa de lleuda a les muntanyes de Foix. El privilegi és catalogat el 1366; la còpia conservada es data al segle XVII.
+
+- Fitxa: [ASC-1187 — Extracte del privilegi de franquesa de lleuda a les muntanyes de Foix, 1366](fonts/asc-1187-franquesa-lleuda-foix-1366.md)
+- Article nou: [La franquesa de lleuda a les muntanyes de Foix, 1366](temes/historia/edat-mitjana/franquesa-lleuda-muntanyes-foix-1366.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-franquesa-lleuda-foix-1366/`
+- Diari de treball: `raw/worklog/2026-09-23-franquesa-lleuda-foix-1366.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
