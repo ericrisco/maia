@@ -80,3 +80,12 @@ Abast: ACA-323 i ACA-324, inventari 23680, data 18 de desembre de 1572; traducci
 
 - Fitxa: [ACA-323/324 — Original i traducció de la sentència de l’empriu de la Pera, 1572](fonts/aca-323-324-sentencia-pera-1572.md)
 - Material de partida: 7 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/sentencia-pera-1572-original-traduccio/`
+
+### 7. 📝 incorpora ACA-335 — Rodalia de l’empriu de la Pera, 1792
+
+La fitxa **ACA-335** descriu la rodalia de l’empriu que la parròquia d’Andorra té amb els de Lles i Aransa, al terme o muntanya de la Pera.
+
+- Fitxa: [ACA-335 — Rodalia de l’empriu de la Pera, 1792](fonts/aca-335-rodalia-empriu-pera-1792.md)
+- Article nou: [La rodalia de l’empriu de la Pera es descriu per fites, 1792](temes/historia/antic-regim/rodalia-empriu-pera-1792.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/rodalia-empriu-pera-1792/`
+- Diari de treball: `raw/worklog/2026-09-23-rodalia-empriu-pera-1792.md`
