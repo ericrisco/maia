@@ -315,3 +315,7 @@ La fitxa **ACA-5368** d’Arxius en Línia descriu una sentència de la Reial Au
 - Article nou: [Un pres de la baronia d'Allés i el preu de la justícia, 1698–1699](temes/institucions/justicia/un-pres-de-la-baronia-dalles-i-el-preu-de-la-justicia-1698-1699.md)
 - Article nou: [Una dona presa a Encamp i el Consell que no avança els costos, 1701](temes/institucions/justicia/una-dona-presa-a-encamp-i-el-consell-que-no-avanca-els-costos-1701.md)
 - Material de partida: 2 fitxers a `raw/consell-general/actes-historiques/`, `raw/consell-general/actes-historiques/text/`
+
+### 17. 📝 incorpora Jordi Guillamet — Estudi preliminar de les actes històriques
+
+- Fitxa: [Jordi Guillamet — Estudi preliminar de les actes històriques](fonts/actes-historiques-estudi-preliminar.md)
