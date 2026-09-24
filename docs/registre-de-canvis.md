@@ -1129,3 +1129,11 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Fitxa: [Cupos de franquícia d'Andorra per a l'any 1926](fonts/gaceta-madrid-cupos-andorra-1926.md)
 - Article nou: [El cupo de 1926 posa xifres a la franquícia d'Andorra](temes/historia/segle-xx-primera-meitat/cupos-franquicies-andorra-1926.md)
 - Diari de treball: `raw/worklog/2026-09-23-cupos-franquicies-andorra-1926.md`
+
+### 113. 📝 incorpora Cupos de franquícia d'Andorra per a l'any 1931
+
+- **Font consultada:** *Gaceta de Madrid* núm. 21, 21 de gener de 1931, p. 459, Reial ordre núm. 41 del 16 de gener. - **Proveniència:** PDF oficial, OCR local, render de la pàgina 459 i hashes al JSON de l'actiu. - **Resultat:** nova font primària i article amb els cupos de 1931 i la proposta conjunta del bisbe d'Urgell i el Sindicato General del Principado de Andorra. - **Buit tancat:** el corpus ja té un interlocutor col·lectiu andorrà nomenat en la tramitació dels cupos. - **Buits que continuen:** constitució del Sindicato General, consum real, causes de les variacions i ordres anuals de 1927–1930.
+
+- Fitxa: [Cupos de franquícia d'Andorra per a l'any 1931](fonts/gaceta-madrid-cupos-andorra-1931.md)
+- Article nou: [El 1931 els cupos d'Andorra ja els demanen el bisbe i el Sindicato General](temes/historia/segle-xx-primera-meitat/cupos-franquicies-andorra-1931.md)
+- Diari de treball: `raw/worklog/2026-09-23-cupos-franquicies-andorra-1931.md`
