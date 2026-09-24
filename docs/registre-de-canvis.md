@@ -371,3 +371,11 @@ Abast: Folis manuscrits 77–82 del visor (medis 79–84), entrades 77 i 81 de l
 - Fitxa: [Expedient diplomàtic francès sobre el conflicte del casino d’Andorra (1868) — 6MD/1, entrades 77 i 81; imatges 79–84](fonts/archives-diplomatiques-casino-1868.md)
 - Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/casino-1868/`
 - Originals conservats només en local (sense dret de redistribució): 7 fitxers
+
+### 25. 📝 incorpora Expedient diplomàtic francès de la Reforma d’Andorra (1866) — 6MD/1, foli 4…
+
+Abast: Imatges primàries dels medis 50–52 del visor, corresponents a l’expedient descrit com a foli 48 de 6MD/1: projecte de declaració i decret imperial d’aprovació de la Reforma.
+
+- Fitxa: [Expedient diplomàtic francès de la Reforma d’Andorra (1866) — 6MD/1, foli 48; imatges 50–52](fonts/archives-diplomatiques-reforma-1866.md)
+- Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/reforma-1866/`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
