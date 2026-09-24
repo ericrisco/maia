@@ -1328,3 +1328,12 @@ Abast: Intervenció de 2018 al forn ceràmic de Cal Terrissaire i context arqueo
 
 - Fitxa: [Intervenció arqueològica d’urgència al forn de Cal Terrissaire del Camp del Perot de Sant Julià de Lòria](fonts/memoria-forn-cal-terrissaire-2022.md)
 - Article nou: [Camp del Perot: necròpolis altmedieval i memòria del darrer terrisser](temes/historia/origens/camp-del-perot-necropolis-i-terrissa.md)
+
+### 142. 📝 incorpora Andorre, Plan de réforme de 1866 — Digithèque MJP
+
+## Objectiu
+
+- Fitxa: [Andorre, Plan de réforme de 1866 — Digithèque MJP](fonts/mjp-reforma-1866.md)
+- Material de partida: 1 fitxers a `raw/web/historia/reforma-1866/`
+- Diari de treball: `raw/worklog/2026-09-23-mjp-reforma-1866.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
