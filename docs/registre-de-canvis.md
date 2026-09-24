@@ -779,3 +779,13 @@ La fitxa pública de l’**ASC-05660** descriu una súplica de Pere Font Riba, v
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/autoritzacio-residencia-francesc-pasto-1950/`
 - Diari de treball: `raw/worklog/2026-09-23-autoritzacio-residencia-pasto-1950.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 71. 📝 incorpora ASC-05685 — Certificat de residència i nacionalitat d’Antònia Rispal Guitar…
+
+La fitxa pública de l’**ASC-05685** descriu un certificat expedit pel cònsol major d’Andorra Escaldes a favor d’Antònia Rispal Guitart, amb nacionalitat andorrana, residència a la parròquia i passaport número 3.699.
+
+- Fitxa: [ASC-05685 — Certificat de residència i nacionalitat d’Antònia Rispal Guitart, 1956](fonts/asc-05685-certificat-residencia-rispal-1956.md)
+- Article nou: [Escaldes certifica la residència i nacionalitat d’Antònia Rispal (1956)](temes/institucions/nacionalitat-i-residencia/certificat-residencia-rispal-1956.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/certificat-residencia-rispal-1956/`
+- Diari de treball: `raw/worklog/2026-09-23-certificat-residencia-rispal-1956.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
