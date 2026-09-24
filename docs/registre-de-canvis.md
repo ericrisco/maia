@@ -422,3 +422,11 @@ Abast: Unitat digital ASC-16, 280 folis, novembre de 1586–maig de 1723, signat
 - Fitxa: [ASC-16 — Llibre d’actes i comptes del Consell de les Valls d’Andorra, 1586–1723](fonts/asc-00016-llibre-actes-1586-1723.md)
 - Material de partida: 1 fitxers a `raw/web/institucions/arxiu-set-claus/llibre-actes-1586-1723/`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 32. 📝 incorpora El Consell paga el lloguer i el salari de l’apotecari, 1820 — ASC-00637 i A…
+
+- **Fonts consultades:** registres oficials d’Arxius en Línia, ASC-00637 i ASC-00639. - **Proveniència:** pàgines `.pdf.info`, HTML de metadades i previsualitzacions públiques; hashes als JSON dels actius. - **Resultat:** nova font `asc-00637-00639-pagaments-apotecari-1820` i fitxa sobre salari i lloguer com a despesa sanitària institucional. - **Límit registrat:** els rebuts no permeten saber imports, obligacions ni medicines; la lectura queda al nivell de despesa documentada.
+
+- Fitxa: [El Consell paga el lloguer i el salari de l’apotecari, 1820 — ASC-00637 i ASC-00639](fonts/asc-00637-00639-pagaments-apotecari-1820.md)
+- Article nou: [El Consell paga el lloguer i el salari de l’apotecari, 1820](temes/societat/sanitat/pagaments-apotecari-consell-1820.md)
+- Diari de treball: `raw/worklog/2026-09-23-pagaments-apotecari-consell-1820.md`
