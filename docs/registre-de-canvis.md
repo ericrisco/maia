@@ -501,3 +501,11 @@ La fitxa pública de l’**ASC-03572** descriu unes ordinacions de la Cort de le
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordinacions-cort-1580/`
 - Diari de treball: `raw/worklog/2026-09-23-ordinacions-cort-quadrilles-1580.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 41. 📝 incorpora Manaments de Foix sobre presos i immunitat a Andorra, 1595 — còpies de 1512…
+
+- **Fonts consultades:** registres oficials d’Arxius en Línia, ASC-3583 i ASC-3584. - **Proveniència:** pàgines `ASC_03583.pdf.info` i `ASC_03584.pdf.info`, HTML de metadades i previsualitzacions públiques; hashes als JSON dels actius. - **Resultat:** nova font combinada `asc-03583-03584-immunitat-1595-1512` i fitxa sobre presos, immunitats i circulació entre Foix, Urgell, Catalunya i Andorra. - **Límit registrat:** el catàleg dona 1595 com a data de la unitat però descriu una còpia de 1512; la discrepància queda oberta fins a la lectura dels folis.
+
+- Fitxa: [Manaments de Foix sobre presos i immunitat a Andorra, 1595 — còpies de 1512 — ASC-3583/3584](fonts/asc-03583-03584-immunitat-1595-1512.md)
+- Article nou: [Foix ordena alliberar presos i manté immunitats dins Andorra, 1595](temes/historia/edat-mitjana/mandaments-immunitat-presos-1595.md)
+- Diari de treball: `raw/worklog/2026-09-23-immunitat-presos-1595-1512.md`
