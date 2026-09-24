@@ -876,3 +876,13 @@ La fitxa pública de l’**ASC-1289** descriu la ratificació de Francesc d’Ur
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-fira-mercat-1402-1542/`
 - Diari de treball: `raw/worklog/2026-09-24-privilegi-fira-mercat-1402-1542.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 81. 📝 incorpora ASC-1290 — Privilegi de fira per Sant Mateu, 1542
+
+La fitxa pública de l’**ASC-1290** descriu el privilegi de Jaume de Foix, en nom del comte de Foix, del 23 d’octubre de 1542, que autoritza una fira al setembre per la festivitat de Sant Mateu.
+
+- Fitxa: [ASC-1290 — Privilegi de fira per Sant Mateu, 1542](fonts/asc-1290-privilegi-fira-sant-mateu-1542.md)
+- Article nou: [Jaume de Foix autoritza una fira per Sant Mateu, 1542](temes/historia/antic-regim/privilegi-fira-sant-mateu-1542.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-fira-sant-mateu-1542/`
+- Diari de treball: `raw/worklog/2026-09-24-privilegi-fira-sant-mateu-1542.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
