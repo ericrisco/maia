@@ -1069,3 +1069,10 @@ La fitxa pública del **CR-31892** descriu un rebut del 5 d’abril de 1812 en q
 ### 104. 📝 incorpora Acta 18/1990 — discurs de Joan Martí sobre la reforma institucional
 
 - Fitxa: [Acta 18/1990 — discurs de Joan Martí sobre la reforma institucional](fonts/dcg-18-1990-reforma-institucional.md)
+
+### 105. 📝 incorpora Segon pariatge d’Andorra (6 de desembre de 1288)
+
+Abast: Text llatí i traducció catalana del segon pariatge d’Andorra, datat el 6 de desembre de 1288
+
+- Fitxa: [Segon pariatge d’Andorra (6 de desembre de 1288)](fonts/enciclopedia-segon-pariatge-1288.md)
+- Article nou: [El segon Pariatge desmunta Enclar i crea el notariat, 1288](temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md)
