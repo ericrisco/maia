@@ -1263,3 +1263,10 @@ Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers
 Abast: Presentació, Atles 7 i cercador filtrat per 1621: 37 entrades, 36 d’acusades de bruixeria i una concòrdia
 
 - Fitxa: [Andorra, Terra de Bruixes — Atles i fitxes de la cacera de bruixes](fonts/historia-ad-terra-de-bruixes.md)
+
+### 131. 📝 incorpora Alexander Kaffka — El rei rus d’Andorra: fantasies i fets
+
+L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»** (*Papers de recerca històrica*, volum 6, 2009), inclou en annex una transcripció completa dels disset articles de la «Constitució de l’Estat Lliure d’Andorra» i del projecte de decret-llei associat. El text descriu la transformació del Consell General en Parlament, un govern de tres ministres, les atribucions del príncep, la responsabilitat parlamentària del Govern, el llindar de quinze vots per destituir-lo, el veto i la dissolució, i diverses llibertats i garanties sobre premsa, expulsions, expropiació i justícia.
+
+- Fitxa: [Alexander Kaffka — El rei rus d’Andorra: fantasies i fets](fonts/kaffka-constitucio-1934.md)
+- Diari de treball: `raw/worklog/2026-09-23-constitucio-1934.md`
