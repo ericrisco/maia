@@ -987,3 +987,13 @@ La pàgina institucional **Les dones al Consell General** documenta la cadena co
 - Article nou: [Dos soldats apareixen en una fotografia de Casa Rossell (1890–1920)](temes/historia/guerres-i-neutralitat/dos-soldats-casa-rossell-1890-1920.md)
 - Material de partida: 2 fitxers a `raw/web/cultura/fotografia/dos-soldats-casa-rossell-1890-1920/`
 - Diari de treball: `raw/worklog/2026-09-23-dos-soldats-casa-rossell-1890-1920.md`
+
+### 96. 📝 incorpora CR-00179 — Testament de Joan Vilar de la Cortinada, 1441
+
+La fitxa pública del **CR-00179** descriu el testament de Joan Vilar de la Cortinada, datat el 10 de setembre de 1441, dins el fons de la Casa Rossell.
+
+- Fitxa: [CR-00179 — Testament de Joan Vilar de la Cortinada, 1441](fonts/cr-00179-testament-joan-vilar-1441.md)
+- Article nou: [Joan Vilar deixa un testament a la Cortinada, 1441](temes/historia/edat-mitjana/testament-joan-vilar-1441.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/testament-joan-vilar-1441/`
+- Diari de treball: `raw/worklog/2026-09-25-testament-joan-vilar-1441.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
