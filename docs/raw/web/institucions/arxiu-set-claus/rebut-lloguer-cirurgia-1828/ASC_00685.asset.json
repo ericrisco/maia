@@ -1,0 +1,417 @@
+{
+  "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.info",
+  "archiveHREF": "/fotoweb/archives/5004-Documents-textuals/",
+  "archiveId": 5004,
+  "linkstance": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.info",
+  "isVersioningEnabled": false,
+  "created": "2021-02-07T12:59:10.687000Z",
+  "modified": "2020-10-26T07:26:43Z",
+  "modifiedBy": "system",
+  "createdBy": "system",
+  "filename": "ASC_00685.pdf",
+  "filesize": 91136,
+  "uniqueid": "",
+  "permissions": [
+    "View",
+    "Preview",
+    "Download"
+  ],
+  "pincount": 0,
+  "previewcount": 12,
+  "downloadcount": 0,
+  "workflowcount": 0,
+  "metadataeditcount": 0,
+  "revisioncount": 0,
+  "doctype": "document",
+  "capabilities": {
+    "crop": false,
+    "print": false,
+    "printWithAnnotations": false
+  },
+  "previews": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/z/z/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjQA0A.iSoaDNqucT.jpg",
+      "square": false
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/d/X/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjYBMA.HLRLx-hMQ-.jpg",
+      "square": false
+    },
+    {
+      "size": 1600,
+      "width": 1600,
+      "height": 1600,
+      "href": "/fotoweb/cache/v2/t/w/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjgBkA.Z5boaXRo9G.jpg",
+      "square": false
+    },
+    {
+      "size": 2400,
+      "width": 2400,
+      "height": 2400,
+      "href": "/fotoweb/cache/v2/K/X/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjwCUA.IMOLdsnmkc.jpg",
+      "square": false
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/Q/K/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAMA.sMNPOjMsid.jpg",
+      "square": false
+    },
+    {
+      "size": 300,
+      "width": 300,
+      "height": 300,
+      "href": "/fotoweb/cache/v2/T/r/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjWAUA.oR8lBIMm_3.jpg",
+      "square": false
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/O/L/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjIAcA.U9zJnZa9iC.jpg",
+      "square": false
+    },
+    {
+      "size": 600,
+      "width": 600,
+      "height": 600,
+      "href": "/fotoweb/cache/v2/O/U/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjsAkA.gVaXa0qOuc.jpg",
+      "square": false
+    },
+    {
+      "size": 100,
+      "width": 100,
+      "height": 100,
+      "href": "/fotoweb/cache/v2/a/E/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjyAQ.L3O0zLcjun.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/d/c/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAME.sROtnKSUaE.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/d/c/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAME.sROtnKSUaE.jpg",
+      "square": true
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/u/7/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjIAcE._EiRhu6HPw.jpg",
+      "square": true
+    }
+  ],
+  "quickRenditions": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/z/z/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjQA0A.iSoaDNqucT.jpg",
+      "square": false,
+      "name": "Vista prèvia (800px)"
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/d/X/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjYBMA.HLRLx-hMQ-.jpg",
+      "square": false,
+      "name": "Vista prèvia (1200px)"
+    },
+    {
+      "size": 2048,
+      "width": 2048,
+      "height": 2048,
+      "href": "/fotoweb/cache/v2/d/z/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjACEA.3JPwX81rg2.jpg",
+      "square": false,
+      "name": "Vista prèvia (2048px)"
+    }
+  ],
+  "metadataEditor": {
+    "name": "Documents sin pestañas",
+    "href": "/fotoweb/editors/ed614786-1e6e-4eda-9c23-a443d1810073"
+  },
+  "renditions": [
+    {
+      "display_name": "Fitxer Original",
+      "description": "Fitxer Original",
+      "width": 1,
+      "height": 1,
+      "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.info/__renditions/ORIGINAL",
+      "default": true,
+      "original": true,
+      "sizeFixed": false,
+      "profile": "2af4914d-6c11-4b15-a7ee-a4260efc8309"
+    }
+  ],
+  "previewToken": null,
+  "attributes": {
+    "documentattributes": {
+      "pages": 1,
+      "viewablePages": 0
+    }
+  },
+  "physicalFileId": "73pVJ8L7UueItngpvdIhw7wmNeydOMkOFaNvsA9SxDU/Documents/ASC/ASC_00685.pdf",
+  "metadata": {
+    "25": {
+      "value": [
+        "Rebuts",
+        "Pagaments",
+        "Lloguers",
+        "Metges"
+      ]
+    },
+    "50": {
+      "value": "ASC-685"
+    },
+    "120": {
+      "value": "Rebut del cirurgià Alonso Argullós pel pagament del lloguer de casa seva i de l?hort."
+    },
+    "518": {
+      "value": [
+        "1.1.1.5.4. Pagaments"
+      ]
+    },
+    "618": {
+      "value": [
+        "Argullós, Alonso, cirurgià"
+      ]
+    },
+    "619": {
+      "value": [
+        "Andorra, (AV)"
+      ]
+    },
+    "656": {
+      "value": "1 f."
+    },
+    "808": {
+      "value": "Arxiu de les Set Claus"
+    },
+    "809": {
+      "value": "Unitat Documental Simple"
+    },
+    "812": {
+      "value": "1828/03/31"
+    }
+  },
+  "thumbnailFields": {
+    "label": {
+      "value": "ASC_00685.pdf"
+    },
+    "firstLine": {
+      "value": "1828/03/31"
+    },
+    "secondLine": {
+      "value": [
+        "1.1.1.5.4. Pagaments"
+      ]
+    },
+    "additionalFields": [
+      {
+        "value": "",
+        "views": [
+          "desktop",
+          "widgets",
+          "web",
+          "pro"
+        ]
+      },
+      {
+        "value": "Rebut del cirurgià Alonso Argullós pel pagament del lloguer de casa seva i de l?hort.",
+        "views": [
+          "desktop",
+          "widgets",
+          "web"
+        ]
+      }
+    ]
+  },
+  "builtinFields": [
+    {
+      "field": "title",
+      "required": false,
+      "value": ""
+    },
+    {
+      "field": "description",
+      "required": false,
+      "value": "Rebut del cirurgià Alonso Argullós pel pagament del lloguer de casa seva i de l?hort."
+    },
+    {
+      "field": "tags",
+      "required": false,
+      "value": []
+    }
+  ],
+  "pages": {
+    "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/",
+    "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/{page}",
+    "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.info",
+    "paging": {
+      "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/",
+      "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/",
+      "next": null,
+      "prev": null
+    },
+    "data": [
+      {
+        "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/1",
+        "page": 1,
+        "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/{page}",
+        "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.info",
+        "pages": {
+          "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/1",
+          "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_00685.pdf.pages/1",
+          "next": null,
+          "prev": null
+        },
+        "previews": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/Z/u/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjQA0YAA.g1vh_qcMkv.jpg",
+            "square": false
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/Y/F/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjYBMYAA.xI8Dqh0XuX.jpg",
+            "square": false
+          },
+          {
+            "size": 1600,
+            "width": 1600,
+            "height": 1600,
+            "href": "/fotoweb/cache/v2/O/M/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjgBkYAA.Y91rCccnxV.jpg",
+            "square": false
+          },
+          {
+            "size": 2400,
+            "width": 2400,
+            "height": 2400,
+            "href": "/fotoweb/cache/v2/e/x/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjwCUYAA.SzycoEDXve.jpg",
+            "square": false
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/b/r/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAMYAA.K--RYu_m5q.jpg",
+            "square": false
+          },
+          {
+            "size": 300,
+            "width": 300,
+            "height": 300,
+            "href": "/fotoweb/cache/v2/n/Z/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjWAUYAA.fzoEudnvAu.jpg",
+            "square": false
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/P/0/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjIAcYAA.Ee6NNYoBTC.jpg",
+            "square": false
+          },
+          {
+            "size": 600,
+            "width": 600,
+            "height": 600,
+            "href": "/fotoweb/cache/v2/y/a/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjsAkYAA.jkilP_ymbv.jpg",
+            "square": false
+          },
+          {
+            "size": 100,
+            "width": 100,
+            "height": 100,
+            "href": "/fotoweb/cache/v2/1/p/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjyBwA.pOwN75QbXe.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/A/-/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAMcAA.1AJJI3BmsY.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/A/-/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjkAMcAA.1AJJI3BmsY.jpg",
+            "square": true
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/Q/i/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjIAccAA.43eQXBoHCW.jpg",
+            "square": true
+          }
+        ],
+        "quickRenditions": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/Z/u/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjQA0YAA.g1vh_qcMkv.jpg",
+            "square": false,
+            "name": "Vista prèvia (800px)"
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/Y/F/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjYBMYAA.xI8Dqh0XuX.jpg",
+            "square": false,
+            "name": "Vista prèvia (1200px)"
+          },
+          {
+            "size": 2048,
+            "width": 2048,
+            "height": 2048,
+            "href": "/fotoweb/cache/v2/R/G/Documents/ASC/ASC_00685.pdf.jCe0gZ-GMmctOVtjACEYAA.L3ZC80jVM0.jpg",
+            "square": false,
+            "name": "Vista prèvia (2048px)"
+          }
+        ]
+      }
+    ]
+  },
+  "ancestors": [
+    {
+      "name": "Documents textuals",
+      "href": "/fotoweb/archives/5004-Documents-textuals/",
+      "data": "/fotoweb/archives/5004-Documents-textuals/"
+    }
+  ],
+  "props": {
+    "owner": null,
+    "shares": {
+      "enabled": false
+    },
+    "comments": {
+      "enabled": false
+    },
+    "annotations": {
+      "enabled": false
+    },
+    "tags": []
+  }
+}

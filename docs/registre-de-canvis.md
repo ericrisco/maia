@@ -435,3 +435,13 @@ Abast: Unitat digital ASC-16, 280 folis, novembre de 1586–maig de 1723, signat
 
 - Fitxa: [El Consell paga el nunci i l’advocat, 1820 — ASC-00638, 00640 i 00641](fonts/asc-00638-00640-00641-pagaments-oficis-1820.md)
 - Article nou: [El Consell paga el nunci i l’advocat, 1820](temes/institucions/consell-general/salaris-nunci-advocat-1820.md)
+
+### 34. 📝 incorpora ASC-00685 — Rebut del cirurgià Alonso Argullós pel lloguer de casa i hort,…
+
+La fitxa pública de l’**ASC-00685** descriu un rebut del cirurgià Alonso Argullós pel pagament del lloguer de casa seva i de l’hort, datat el 31 de març de 1828.
+
+- Fitxa: [ASC-00685 — Rebut del cirurgià Alonso Argullós pel lloguer de casa i hort, 1828](fonts/asc-00685-rebut-lloguer-cirurgia-1828.md)
+- Article nou: [Un cirurgià paga el lloguer de casa i hort (1828)](temes/societat/treball/rebut-lloguer-cirurgia-1828.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/rebut-lloguer-cirurgia-1828/`
+- Diari de treball: `raw/worklog/2026-09-23-rebut-lloguer-cirurgia-1828.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
