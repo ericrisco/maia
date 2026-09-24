@@ -1235,3 +1235,7 @@ Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers
 
 - Fitxa: [La peça del mes: confirmació de les taxes dels notaris (1356)](fonts/govern-taxes-notaris-1356-2019.md)
 - Article nou: [Els dos veguers posen preu al notari (1356)](temes/institucions/justicia/les-taxes-dels-notaris-1356.md)
+
+### 127. 📝 incorpora Guia de l’Arxiu de l’Església d’Urgell
+
+- Fitxa: [Guia de l’Arxiu de l’Església d’Urgell](fonts/guia-arxiu-esglesia-urgell-2026.md)
