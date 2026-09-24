@@ -912,3 +912,11 @@ Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, 
 - Fitxa: [ASC-1302 — Acord sobre l’extracció de blat de Prullans, 16 de maig de 1634](fonts/asc-treta-blat-prullans-1634.md)
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/treta-blat-prullans-1634/`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 85. 📝 incorpora Joan Lluís Ayala i Díaz — Aproximació a la repercussió de la Primera Guerra…
+
+- Fitxa: [Joan Lluís Ayala i Díaz — Aproximació a la repercussió de la Primera Guerra Mundial al Principat d'Andorra](fonts/ayala-primera-guerra-andorra-2021.md)
+- Article nou: [Andorra en la Primera Guerra Mundial, 1914–1918](temes/historia/segle-xx-primera-meitat/andorra-en-la-primera-guerra-mundial-1914-1918.md)
+- Article nou: [Benlloch negocia els queviures de guerra, 1914–1918](temes/historia/segle-xx-primera-meitat/benlloch-negocia-els-queviures-de-guerra-1914-1918.md)
+- Article nou: [La frontera tancada per la grip, 1918](temes/historia/segle-xx-primera-meitat/la-frontera-tancada-per-la-grip-1918.md)
+- Material de partida: 2 fitxers a `raw/sac-debats-recerca/`
