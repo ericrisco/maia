@@ -471,3 +471,13 @@ La fitxa pública de l’**ASC-02775** descriu una carta de Josep López al sín
 - Fitxa: [El nunci Pau Serra demana una rebaixa de salari, 1840 — ASC-03466](fonts/asc-03466-suplica-salari-nunci-1840.md)
 - Article nou: [El nunci Pau Serra demana una rebaixa de salari, 1840](temes/institucions/consell-general/suplica-rebaixa-salari-nunci-1840.md)
 - Diari de treball: `raw/worklog/2026-09-23-suplica-rebaixa-salari-nunci-1840.md`
+
+### 38. 📝 incorpora ASC-3494 — Queixa de Martí Garreta contra una decisió del batlle, 1528
+
+La fitxa pública de l’**ASC-3494** descriu una queixa de Martí Garreta, de les Bons, davant el Consell General contra una decisió del batlle Guillem Ramon Colat, datada el 6 de setembre de 1528.
+
+- Fitxa: [ASC-3494 — Queixa de Martí Garreta contra una decisió del batlle, 1528](fonts/asc-03494-queixa-batlle-garreta-1528.md)
+- Article nou: [Una queixa contra el batlle arriba al Consell, 1528](temes/historia/antic-regim/queixa-batlle-garreta-1528.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/`
+- Diari de treball: `raw/worklog/2026-09-23-queixa-batlle-garreta-1528.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
