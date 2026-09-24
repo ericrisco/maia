@@ -104,3 +104,10 @@ La fitxa oficial **ACA-5344** del portal Arxius en Línia descriu l’execució,
 - Fitxa: [ACA-5344 — Execució de la sentència sobre els emprius de Lles i Travesseres, 1386](fonts/aca-5344-emprius-lles-1386.md)
 - Article nou: [Andorra defensa els emprius de Lles i Travesseres, 1386](temes/historia/edat-mitjana/andorra-defensa-emprius-lles-travesseres-1386.md)
 - Diari de treball: `raw/worklog/2026-09-23-emprius-lles-travesseres-1386.md`
+
+### 10. 📝 incorpora ACA-5347 — Sentència sobre la lleuda de la vall de Querol, 26 de novembre d…
+
+La fitxa oficial **ACA-5347** d’Arxius en Línia descriu la sentència de 26 de novembre de 1401 dictada per Joan de Masguillem, lloctinent del jutge del patrimoni reial, en el litigi entre Andreu Igòsol i els andorrans representats per Joan Garreta, Arnau Berenguer i Joan Babot.
+
+- Fitxa: [ACA-5347 — Sentència sobre la lleuda de la vall de Querol, 26 de novembre de 1401](fonts/aca-5347-lleuda-querol-1401.md)
+- Diari de treball: `raw/worklog/2026-09-23-lleuda-querol-1401.md`
