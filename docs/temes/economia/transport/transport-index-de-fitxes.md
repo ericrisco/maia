@@ -21,6 +21,8 @@ té.**
 | Fitxa | Què hi ha |
 | --- | --- |
 | **[L'aeroport que Andorra no té](./laeroport-que-andorra-no-te.md)** | **Un industrial va desmuntar un turó el 1975 amb 3.000 milions de pessetes.** Va obrir el 1982, **va salvar la comarca als aiguats de novembre**, va tancar el 1984 i **el 2021 hi van tornar els vols regulars.** És a Espanya |
+| **[El pont del Grau i el camí de la Seu a Andorra (1595)](./pont-grau-seu-andorra-1595.md)** | **Una sentència documenta un litigi per les reparacions del pont del Grau**, davant el Quer de Santa Llúcia, en el camí entre la Seu d’Urgell i Andorra. |
+| **[Una màquina llevaneu mecanitza les carreteres d’Andorra (1936)](./primera-maquina-llevaneu-1936.md)** | **Una fotografia de Joan Vehils mostra un Ford amb pala i remolc**, catalogat com la primera màquina llevaneu del país. |
 
 ## Per què aquesta branca importa
 

@@ -205,7 +205,7 @@ fitxa identificadora ([text local de la ponència](../../../raw/sac-diades/15a-2
    | --- | --- | --- |
    | **1383** | **Certs jueus de la Seu d'Urgell i de Puigcerdà** | **Gastó III mana al veguer comtal que faci complir el que el rei d'Aragó havia establert sobre els préstecs que els andorrans n'havien rebut** *(ANA, ASC, perg. 5.607)* |
    | **1467** | **Ramon d'Anolles, àlies Manyolet, mercader d'Acs** | **La quèstia comtal se li consigna directament**: **550 florins d'or** que el Consell es compromet a pagar-li a ell i no al comte |
-   | **1468** | **Bernat Moles, veí d'Andorra la Vella** | **180 lliures i 10 sous barcelonins** per **vuitanta modis de sègol** comprats a crèdit |
+   | **1468** | **Bernat Moles, veí d'Andorra la Vella** | **180 lliures i 10 sous barcelonins** per **vuitanta modis de sègol** comprats a crèdit ([acta](../../../raw/consell-general/actes-historiques/text/segle-xv--1468-octubre-5-canillo.txt)) |
    | **1522** | **Bartomeu Capella, prevere del Pui**, parròquia de la Massana | **240 ducats d'or** per **cent deu muigs de blat** |
    | **1532** | **El capítol de la Seu d'Urgell** | **100 ducats d'or**, a tornar **per sant Simó i sant Judes** |
 

@@ -62,6 +62,43 @@ Brutails en dona un exemple de **7 de desembre de 1603**: un emprèstit de 20
 càrregues de blat, pagador «**al afor que lo Consell de la Terra afornarà lo any
 vinent de 1604**».
 
+## Un afor de 1736 abans de la sèrie publicada
+
+El **25 de juliol de 1736**, el Llibre III del Consell fixa el blat *fiat* a
+**30 rals la càrrega**, en moneda d’Espanya. El mateix assentament ordena que
+la decisió es mantingui secreta fins al dia de **Nostra Senyora d’agost**; un
+cop passat aquell dia, els cònsols l’han de fer saber porta per porta i ningú
+no pot adquirir ni pagar el blat per damunt del preu fixat, sota pena del *cot*
+de la Terra.
+
+Aquest cas és anterior a la sèrie que Brutails publica des de 1744 i confirma
+amb una acta primària les dues dimensions del *fiat*: el Consell fixa el preu i
+els cònsols en controlen la difusió i el compliment. La font conserva el
+passatge a les pàgines impreses **582–583** del [Llibre III](../../../raw/consell-general/actes-historiques/llibre-iii-1682-1744.README.md).
+
+El **4 d’agost de 1737**, el mateix llibre fixa el blat *fiat* a **36 rals la
+càrrega**, en moneda catalana, i repeteix l’ordre que ningú no en compri ni en
+pagi més. Els cònsols ho han de fer saber porta per porta, sota la mateixa pena;
+el passatge és a les pàgines impreses **592–593** del mateix [Llibre III](../../../raw/consell-general/actes-historiques/llibre-iii-1682-1744.README.md).
+La seqüència de 1736 i 1737 confirma que l’aforament no era un preu únic: el
+Consell el tornava a establir i en modificava l’import segons l’any.
+
+## El preu de la Seu com a referència per a l’oli i el pa
+
+L’acta del **25 de novembre de 1737** mostra que la comparació amb la Seu també
+servia per contenir els preus de venda local. Qualsevol persona que tingués oli
+per vendre a la menuda —i singularment les botigues i els revenedors— només el
+podia vendre d’acord amb el **preu o valor de les tendes de la Seu**, amb igualtat
+de pes i mesura. Els mostassars havien de fer l’averiguació i els cònsols ho
+havien de publicar a les parròquies, sota pena del *cot de la Terra*.
+
+La mateixa sessió conserva un cas de pa a **Sant Julià**. La Vall ja havia taxat
+el pa de sègol a quatre diners la lliura, però un pastisser venia pa blanc o de
+forment lliurement i, segons la relació rebuda, n’havia fet pujar el preu. El
+Consell ordena que aquest pa no es vengui per sobre del preu per lliura de les
+fleques de la Seu; els cònsols i el mostafà de Sant Julià n’han de vigilar el
+compliment. El passatge ocupa les pàgines impreses **594–597** del [Llibre III](../../../raw/consell-general/actes-historiques/llibre-iii-1682-1744.README.md).
+
 ## Una sèrie de preus de blat, de 1744 a 1793
 
 Brutails publica **el curs de la càrrega de blat tal com el va fixar el Consell**

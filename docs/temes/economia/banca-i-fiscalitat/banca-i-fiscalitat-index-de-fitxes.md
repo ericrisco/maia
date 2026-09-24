@@ -9,16 +9,18 @@ El sistema financer i el canvi de model.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (26)
+## Articles (33)
 - [A Andorra sí que hi havia impost, i era sobre la renda](./a-andorra-si-que-hi-havia-impost.md) — El 1904 el tòpic ja existia i la font el desmenteix: hi havia un impost d'una seixantena part de la renda, repartit per contadors parròquia per parròquia, i es deia quèstia perquè servia per pagar el tribut als cosenyors.
 - [Ab propris diners y per son propri us](./ab-propris-diners-y-per-son-propri-us.md) — La clàusula que el corpus havia llegit com un dret a tornar a casa vol dir una altra cosa: que no pots manllevar per rescatar.
 - [El pressupost no existia, i el van fer davant seu](./el-pressupost-no-existia-i-el-van-fer-davant-seu.md) — El pressupost andorrà de 1917 partida per partida, compost pel síndic i el secretari davant del visitant que el demanava perquè no estava escrit enlloc. La meitat se n'anava en carreteres que encara no estaven pagades.
+- [El delme es converteix en tribut eclesiàstic, 1905](./el-delme-es-converteix-en-tribut-eclesiastic-1905.md) — La supressió del delme, el tribut a la Mitra i el litigi que en segueix segons l’inventari de l’Arxiu Comunal.
 - [Abans dels bancs](./abans-dels-bancs.md) — Es prestava sense professionals, es cobraven interessos en espècie o en jornals, i el banc més pròxim era a la Seu.
 - [Banca i fiscalitat](./banca-i-fiscalitat.md) — El 2018 va desaparèixer el secret bancari.
 - [Blanqueig i actius digitals](./blanqueig-i-actius-digitals.md) — La llei antiblanqueig obliga advocats, notaris, marxants d'art i fins i tot qui lloga per més de 10.000 euros al mes.
 - [Del divuit de març al dos d'abril](./del-divuit-de-marc-al-dos-dabril.md) — Als protocols del notari Soldevila la finestra per rescatar una finca venuda a carta de gràcia va sovint del 18 de març al 2 d'abril.
 - [Dotze renúncies en una sola escriptura](./dotze-renuncies-en-una-sola-escriptura.md) — L'acta de creació d'un censal andorrà de 1788 desactiva, una per una, dotze proteccions que el dret donava al deutor i al seu fiador.
 - [El Banc Agrícol](./el-banc-agricol.md) — El primer banc andorrà neix el 30 de desembre de 1930 per gestionar les nòmines dels obrers de FHASA.
+- [El Banc Agrícol signa un conveni amb la Caixa de Pensions (1934)](./conveni-banc-agricol-caixa-pensions-1934.md) — Una unitat documental conserva la portada d’un conveni signat a Barcelona el 12 de desembre de 1934.
 - [El cas BPA](./el-cas-bpa.md) — El 2015 els Estats Units van assenyalar un banc andorrà i el país el va desmuntar en un any.
 - [El superàvit que finança habitatge i hospital](./el-superavit-que-financa-habitatge-i-hospital.md) — La Llei 10/2026 autoritza 40,15 milions amb tresoreria de 2025 i modifica el còmput del límit de dèficit.
 - [Els altres impostos](./els-altres-impostos.md) — La taxa turística deixa de cobrar-se a partir del vuitè dia i no la paguen ni els residents ni els menors de 16.
@@ -38,3 +40,4 @@ El sistema financer i el canvi de model.
 - [Tenen un fill a França o a Amèrica](./tenen-un-fill-a-franca-o-a-america.md) — Andorrans que ho havien venut tot a carta de gràcia, passaven fam i no convertien la venda en definitiva perquè un fill emigrat podria un dia rescatar la casa.
 - [Vuit dies abans o vuit dies després](./vuit-dies-abans-o-vuit-dies-despres.md) — Una venda a carta de gràcia de 1788 limita el dret de recomprar a una finestra de disset dies l'any, al voltant de Nostra Senyora de març.
 - [«Y los vench de nou»](./y-los-vench-de-nou.md) — Per prestar més diners sobre una terra ja venuda a carta de gràcia no es feia un préstec nou: es tornava a vendre la mateixa terra.
+- [La contribució industrial i de comerç arriba al síndic (1849)](./contribucio-industrial-comerc-1849.md) — Una disposició comunica que els habitants d’Andorra no estaven exempts de la contribució industrial i comercial.

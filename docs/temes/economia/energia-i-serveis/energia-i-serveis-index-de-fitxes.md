@@ -8,7 +8,8 @@ title: "Energia i serveis — índex de fitxes"
 **Branca oberta i quasi buida.** El corpus no hi ha fet recerca pròpia i no
 n'escriurà res que no pugui fonamentar.
 
-## Articles (1)
+## Articles (2)
+- [El telègraf torna a Andorra: França, la Mitra i la Seu (1882–1897)](./telegraf-franca-espanya-1882-1897.md) — Sis fitxes de l'Arxiu de les Set Claus documenten protestes, autoritzacions i extensions de les línies entre França, Andorra i la Seu.
 - [Van tallar els pals del telègraf](./van-tallar-els-pals-del-telegraf.md) — El 1881 França va plantar el telègraf sense demanar permís al bisbe, i el bisbe va fer requerir una cinquantena d'homes que van tallar els pals; allò va endarrerir la instal·lació deu anys. Amb el correu intern gratuït que feien nens i el telèfon que el bisbe volia a mans dels rectors.
 
 El poc que consta a banda d'això, recollit de passada en altres cerques:

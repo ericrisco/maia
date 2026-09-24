@@ -278,3 +278,5 @@ i de [la neutralitat](../../historia/guerres-i-neutralitat/guerres-i-neutralitat
 - [El Consell General](../../institucions/consell-general/el-consell-general.md) — que aquí fa de tribunal.
 - [La justícia d'abans](../../institucions/justicia/la-justicia-dabans.md) — el Tribunal de Corts, que ho jutjava tot menys això.
 - [La vinya i el tabac](../ramaderia-i-agricultura/la-vinya-i-el-tabac.md) — el cultiu que va substituir la vinya.
+- [Quan el Consell mobilitza la Vall contra el tabac, 1735](../../institucions/consell-general/quan-el-consell-mobilitza-la-vall-contra-el-tabac-1735.md) — les actes concreten la mobilització institucional i el desarmament posterior a la revolta.
+- [La cerca de Lliran i Carbonell per tabac de contraban, 1738](../../institucions/consell-general/la-cerca-de-lliran-i-carbonell-per-tabac-de-contraban-1738.md) — una ordre de captura mostra com el Consell organitzava la custòdia abans d’una sentència.

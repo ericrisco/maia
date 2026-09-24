@@ -167,6 +167,12 @@ afegeix el que aquell acord renovava:**
 | **1867** | **acord comercial** | **el corpus en té el contingut per citació** |
 | **18-12-1867** | **circular** | **citada** |
 
+**Aquesta taula és la cadena francesa.** El corpus ja té ara una peça primària
+espanyola del mateix any: les notes del **13 de juliol de 1867**, publicades a
+la *Gaceta de Madrid*, que restitueixen la franquícia a Espanya i en fixen sis
+controls ([fitxa](../../historia/segle-xix/espanya-restitueix-franquicia-andorra-1867.md)).
+No és el text de l'acord francès: són dos règims que cal mantenir separats.
+
 > **La franquícia francesa tenia quatre capes i el corpus no té cap dels quatre
 > textos.** **Totes quatre les coneix per una sola font que hi és part.**
 
@@ -224,7 +230,8 @@ plus florissante de ce pays: la contrebande*».**
    règim aplicable a les franquícies i transcriu la circular —exempció de drets,
    certificat d'origen signat pel president del Consell i inspecció francesa en
    cas de sospita d'abús—; **els originals dels dos instruments encara falten**
-   ([Vilar, 1904](../../../raw/llibres/vilar-andorre-1904.txt)).
+   ([Vilar, 1904](../../../raw/llibres/vilar-andorre-1904.txt)). La peça espanyola
+   de juliol de 1867 no tanca aquest buit.
 5. ~~**Qualsevol cens del bestiar andorrà del segle XIX fet per a efectes
    duaners**, **i qui el feia.**~~ — **`parcial` el 21-09-2026**: [els censos
    del bestiar de 1898–1900](../ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md)

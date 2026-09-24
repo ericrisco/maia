@@ -24,9 +24,11 @@ instrucció, comerç i indústria**— **i la conclusió del llibre, pàgines 15
 [el síndic va tornar i es va posar al capdavant del motí](../../historia/segle-xix/el-sindic-va-tornar-i-es-va-posar-al-capdavant-del-moti.md),
 **que en cobria la primera meitat.**
 
-> **El corpus no té res sobre la instal·lació del telègraf a Andorra.** **La
-> paraula surt en set fitxes i sempre com a mitjà** —una apel·lació transmesa per
-> telegrama, la frontera que es tanca a l'hivern— **i mai com a obra.**
+> **La font de Vilar era l'única peça detallada que el corpus tenia sobre la
+> instal·lació del telègraf.** Ara la complementen **sis registres primaris de
+> l'Arxiu de les Set Claus** sobre protestes, línies, autoritzacions i
+> franquícies. **Encara no són transcripcions completes ni proves que cada tram
+> arribés a funcionar.**
 
 ## L'acte violent
 
@@ -250,6 +252,15 @@ llibre:**
 > l'objecte era un propulsor aeri.** **La font no diu quina exposició, ni qui el
 > va fer, ni què era exactament.** `Buit nou, i és una peça d'història tècnica
 > que el corpus no té per cap altra via.`
+
+## La correspondència que faltava
+
+Les sis fitxes de l'Arxiu de les Set Claus permeten seguir la seqüència
+institucional entre 1882 i 1897: una protesta contra la instal·lació francesa,
+la destrucció de la línia anterior, l'aprovació d'una línia França–Andorra,
+l'acord del bisbe amb Espanya per unir la Seu i Andorra, l'extensió a Ordino i la
+Massana i les franquícies del telègraf. La lectura i els límits estan recollits
+a [El telègraf torna a Andorra: França, la Mitra i la Seu (1882–1897)](./telegraf-franca-espanya-1882-1897.md).
 
 ## Buits registrats
 

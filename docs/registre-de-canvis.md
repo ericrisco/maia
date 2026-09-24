@@ -1541,3 +1541,18 @@ Actualitza els articles i índexs de Consell General, comuns, coprincipat, just�
 - Article revisat: [El notariat](temes/institucions/justicia/el-notariat.md)
 - Article revisat: [Justícia — índex de fitxes](temes/institucions/justicia/justicia-index-de-fitxes.md)
 - Article revisat: [Nacionalitat i residència — índex de fitxes](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md)
+
+### 166. 📝 revisa articles d'economia amb les fonts noves
+
+Banca i fiscalitat, comerç, energia, tabac, transport i transformació econòmica: cites noves i índexs de fitxes al dia.
+
+- Article revisat: [Abans dels bancs](temes/economia/banca-i-fiscalitat/abans-dels-bancs.md)
+- Article revisat: [Banca i fiscalitat — índex de fitxes](temes/economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md)
+- Article revisat: [Comerç — índex de fitxes](temes/economia/comerc/comerc-index-de-fitxes.md)
+- Article revisat: [Les mateixes bèsties passaven dues vegades pel cens](temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md)
+- Article revisat: [Qui posava els preus](temes/economia/comerc/qui-posava-els-preus.md)
+- Article revisat: [Energia i serveis — índex de fitxes](temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md)
+- Article revisat: [Van tallar els pals del telègraf](temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md)
+- Article revisat: [La revolta del tabac de 1733](temes/economia/tabac/la-revolta-del-tabac-de-1733.md)
+- Article revisat: [Transformació econòmica — índex de fitxes](temes/economia/transformacio-economica/transformacio-economica-index-de-fitxes.md)
+- Article revisat: [Transport — índex de fitxes](temes/economia/transport/transport-index-de-fitxes.md)

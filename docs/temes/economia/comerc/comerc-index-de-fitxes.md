@@ -9,9 +9,11 @@ El cicle del comerç i la duana, i què va significar socialment.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (13)
+## Articles (15)
 - [Comerç](./comerc.md) — La zona de lliure comerç que va canviar el país, i la duana com a frontera econòmica.
 - [El comerç a l'edat moderna](./el-comerc-a-ledat-moderna.md) — Els camins dels ports s'havien de mantenir dolents a propòsit.
+- [El síndic demana dos mesos per treure sal de Cardona, 1520](./suplica-sal-cardona-1520.md) — Una súplica mostra que un contracte de sal podia quedar aturat per la guerra i necessitar una pròrroga.
+- [El blat de Cerdanya es reparteix entre els veïns (1904)](./blat-cerdanya-parroquies-1904.md) — Quatre relacions parroquials documenten blat portat de Cerdanya i repartit entre veïns d’Encamp, Andorra, la Massana i Ordino.
 - [El que Andorra comprava a Espanya](./el-que-andorra-comprava-a-espanya.md) — 467.419 pessetes l'any, partida a partida.
 - [Els horaris comercials](./els-horaris-comercials.md) — Andorra obliga els comerços a tancar quatre dies l'any.
 - [La Cambra de Comerç i la formació](./la-cambra-de-comerc-i-la-formacio.md) — «Ens costa el mateix preu la visita a un metge especialitzat que la d'un lampista.» La patronal andorrana explica per què no pot formar ningú.
