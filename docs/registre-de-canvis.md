@@ -400,3 +400,9 @@ Abast: Folis manuscrits 69–70 del visor (medis 71–72), entrada 69 de l’inv
 - Fitxa: [Carlemany i Andorra — Història de la Carta Pobla](fonts/ari-carta-pobla-2018.md)
 - Article nou: [La Carta Pobla: el fals que va donar forma al mite de Carlemany](temes/historia/origens/carta-pobla-fals-carlemany.md)
 - Diari de treball: `raw/worklog/2026-09-23-carta-pobla-fals-carlemany.md`
+
+### 29. 📝 incorpora Arxiu en línia — expedient TC-6238 del Tribunal de Corts
+
+Abast: Expedient manuscrit de disset pàgines, datat en una anotació interior el 16 de juny de 1621 i catalogat al registre com a causa de bruixeria.
+
+- Fitxa: [Arxiu en línia — expedient TC-6238 del Tribunal de Corts](fonts/arxiu-en-linia-tc-6238.md)
