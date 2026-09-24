@@ -896,3 +896,11 @@ Les fitxes públiques de l’**ASC-1318** i l’**ASC-1319** documenten dues int
 - Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/alberga-1466/`
 - Diari de treball: `raw/worklog/2026-09-23-alberga-servitud-1466.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 83. 📝 incorpora Arxius en Línia — franquesa de la lleuda de Puigcerdà, 1646 (ASC-1194–1197…
+
+Abast: Cinc unitats del fons Arxiu de les Set Claus sobre el privilegi de 25 de maig de 1646
+
+- Fitxa: [Arxius en Línia — franquesa de la lleuda de Puigcerdà, 1646 (ASC-1194–1197 i ASC-1236)](fonts/asc-franquesa-lleuda-puigcerda-1646.md)
+- Material de partida: 6 fitxers a `raw/web/institucions/arxiu-set-claus/franquesa-lleuda-puigcerda-1646/`
+- Originals conservats només en local (sense dret de redistribució): 10 fitxers
