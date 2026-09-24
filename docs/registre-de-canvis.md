@@ -455,3 +455,11 @@ La fitxa pública de l’**ASC-02775** descriu una carta de Josep López al sín
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/contribucio-industrial-1849/`
 - Diari de treball: `raw/worklog/2026-09-23-contribucio-industrial-1849.md`
 - Originals conservats només en local (sense dret de redistribució): 5 fitxers
+
+### 36. 📝 incorpora Acta notarial de cartes de la reina de Navarra, 1512 — ASC-2886
+
+- **Font consultada:** registre oficial d’Arxius en Línia, ASC-2886. - **Proveniència:** pàgina `ASC_02886.pdf.info`, HTML de metadades i previsualitzacions públiques de 800 i 200 px; hashes al JSON de l’actiu. - **Resultat:** nova font `asc-02886-cartes-reina-navarra-1512` i fitxa sobre la sindicatura andorrana, el notariat extern i la comunicació reial de 1512. - **Límit registrat:** només es pot afirmar l’acta i els intervinents; el contingut de les cartes i la resposta política queden oberts.
+
+- Fitxa: [Acta notarial de cartes de la reina de Navarra, 1512 — ASC-2886](fonts/asc-02886-cartes-reina-navarra-1512.md)
+- Article nou: [Un síndic d’Andorra fa aixecar acta de cartes de la reina de Navarra, 1512](temes/historia/edat-mitjana/cartes-reina-navarra-1512.md)
+- Diari de treball: `raw/worklog/2026-09-23-cartes-reina-navarra-1512.md`
