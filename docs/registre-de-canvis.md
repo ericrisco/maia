@@ -319,3 +319,7 @@ La fitxa **ACA-5368** d’Arxius en Línia descriu una sentència de la Reial Au
 ### 17. 📝 incorpora Jordi Guillamet — Estudi preliminar de les actes històriques
 
 - Fitxa: [Jordi Guillamet — Estudi preliminar de les actes històriques](fonts/actes-historiques-estudi-preliminar.md)
+
+### 18. 📝 incorpora Introducció als llibres d’actes del Consell General
+
+- Fitxa: [Introducció als llibres d’actes del Consell General](fonts/actes-historiques-introduccio-llibres.md)
