@@ -329,3 +329,10 @@ La fitxa **ACA-5368** d’Arxius en Línia descriu una sentència de la Reial Au
 - Fitxa: [Llibre IV de les Actes del Consell General (1743–1864)](fonts/actes-llibre-iv-1743-1864.md)
 - Article nou: [Els carlins arriben a les actes del Consell, 1838–1839](temes/historia/segle-xix/els-carlins-i-el-consell-1838-1839.md)
 - Article nou: [El Consell encarrega un «còdigo de lleys», 1860](temes/institucions/justicia/el-consell-encarrega-un-codi-de-lleis-1860.md)
+
+### 20. 📝 incorpora ADPO 1723-W-3 i l’edició impresa de la Reforma de 1866
+
+Abast: Entrada bibliogràfica 659 del catàleg oficial i descripció secundària del legat ADPO 1723-W-3
+
+- Fitxa: [ADPO 1723-W-3 i l’edició impresa de la Reforma de 1866](fonts/adpo-1723-w3-reforma-1866.md)
+- Material de partida: 5 fitxers a `raw/web/institucions/arxius-departamentals-pirineus-orientals/reforma-1866/`
