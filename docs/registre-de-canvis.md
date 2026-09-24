@@ -1083,3 +1083,10 @@ Abast: Cronologia, morfologia i datacions radiocarbòniques de tres necròpolis 
 
 - Fitxa: [Les necròpolis andorranes de l’hort de l’Església (la Massana), del Camp del Perot i del Camp Vermell (Sant Julià de Lòria)](fonts/forto-maese-vidal-necropolis-2012.md)
 - Article nou: [La necròpolis del Camp del Perot i la cronologia funerària](temes/historia/origens/la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria.md)
+
+### 107. 📝 incorpora En los orígenes de Sant Julià de Lòria (Andorra): las evidencias de ocupaci…
+
+Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels segles II–XII, taller metal·lúrgic dels segles V–VII, sitges, cabanes, tombes, camí i estudis paleoambientals
+
+- Fitxa: [En los orígenes de Sant Julià de Lòria (Andorra): las evidencias de ocupación durante la antigüedad tardía y la alta edad media](fonts/forto-vidal-camp-vermell-2009.md)
+- Article nou: [Camp Vermell: una aldea de fons de vall entre els segles II i XII](temes/historia/origens/camp-vermell-una-aldea-de-fons-de-vall.md)
