@@ -937,3 +937,10 @@ Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, 
 Abast: Síntesi arqueològica i històrica de la romanització, cristianització i feudalisme a la vall d’Andorra; Roc d’Enclar i proposta de datació de Sant Vicenç
 
 - Fitxa: [La disgregació del món ibèric a la Vall d’Andorra](fonts/bosch-disgregacio-mon-iberic-andorra-2004.md)
+
+### 89. 📝 incorpora Precepte de Carles el Calb per a l'església d'Urgell (19 de novembre de 860)
+
+Abast: Text llatí i tradició manuscrita del precepte de Carles el Calb que confirma a l'església d'Urgell els delmes del ferro i de la pega del pagus d'Andorra
+
+- Fitxa: [Precepte de Carles el Calb per a l'església d'Urgell (19 de novembre de 860)](fonts/caro-charles-860.md)
+- Article nou: [El precepte de 860 i el delme del ferro d'Andorra](temes/historia/edat-mitjana/el-precepte-de-860-i-el-delme-del-ferro.md)
