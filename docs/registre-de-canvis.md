@@ -997,3 +997,13 @@ La fitxa pública del **CR-00179** descriu el testament de Joan Vilar de la Cort
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/testament-joan-vilar-1441/`
 - Diari de treball: `raw/worklog/2026-09-25-testament-joan-vilar-1441.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 97. 📝 incorpora CR-180 i CR-181 — Testaments de la Cortinada, 1487 i 1529
+
+Les fitxes de la Casa Rossell identifiquen el CR-180 com el testament de Ramon Vilar de la Cortinada, que nomena hereva la seva germana Maria, i el CR-181 com el testament de Pere Vilar, datat el 18 d’octubre de 1529.
+
+- Fitxa: [CR-180 i CR-181 — Testaments de la Cortinada, 1487 i 1529](fonts/cr-00180-00181-testaments-vilar-1487-1529.md)
+- Article nou: [Dos testaments de la Cortinada separats per quaranta-dos anys](temes/historia/edat-mitjana/testaments-vilar-1487-1529.md)
+- Material de partida: 3 fitxers a `raw/web/institucions/arxiu-casa-rossell/testaments-vilar-1487-1529/`
+- Diari de treball: `raw/worklog/2026-09-23-testaments-vilar-1487-1529.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
