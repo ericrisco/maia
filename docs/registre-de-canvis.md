@@ -1302,3 +1302,11 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 - Article nou: [La Reformeta: del Pacte de 1975 al procés constituent (1975–1993)](temes/historia/historia-recent/la-reformeta-separa-el-govern-del-consell-1978-1981.md)
 - Material de partida: 4 fitxers a `raw/consell-general/actes-historiques/`, `raw/web/institucions/consell-general/`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 138. 📝 incorpora 150 anys de la Nova Reforma (1866–2016) — Joan Massa i Sarrado
+
+Abast: Article-conferència publicat a Recull de conferències 2016 / Debats de recerca 10 (2018), p. 99–114; p. 113 reprodueix la fórmula atribuïda a la declaració francesa del 10 d’abril de 1868.
+
+- Fitxa: [150 anys de la Nova Reforma (1866–2016) — Joan Massa i Sarrado](fonts/massa-nova-reforma-2016.md)
+- Material de partida: 1 fitxers a `raw/sac-debats-recerca/nova-reforma-1866/`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
