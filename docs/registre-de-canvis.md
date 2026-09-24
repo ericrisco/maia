@@ -650,3 +650,13 @@ Les fitxes de l’**ASC-4505** i l’**ASC-4506** documenten un nomenament de Ll
 - Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/collegi-foix-sucara-1672/`
 - Diari de treball: `raw/worklog/2026-09-23-collegi-foix-sucara-1672.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 58. 📝 incorpora ASC-04538 — Ordre de no admetre emigrats francesos a Andorra, 1904
+
+La fitxa pública de l’**ASC-04538** descriu una carta del 28 de novembre de 1904 sobre l’ordre de no admetre a les valls d’Andorra emigrats francesos, eclesiàstics i seglars.
+
+- Fitxa: [ASC-04538 — Ordre de no admetre emigrats francesos a Andorra, 1904](fonts/asc-04538-restriccio-emigrats-francesos-1904.md)
+- Article nou: [Andorra restringeix l’entrada d’emigrats francesos (1904)](temes/institucions/nacionalitat-i-residencia/restriccio-emigrats-francesos-1904.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/restriccio-emigrats-francesos-1904/`
+- Diari de treball: `raw/worklog/2026-09-23-restriccio-emigrats-francesos-1904.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
