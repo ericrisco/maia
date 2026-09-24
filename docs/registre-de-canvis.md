@@ -1117,3 +1117,7 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 
 - Fitxa: [Cupos de franquícia d'Andorra per a l'any 1924](fonts/gaceta-madrid-cupos-andorra-1924.md)
 - Diari de treball: `raw/worklog/2026-09-23-cupos-franquicies-andorra-1924.md`
+
+### 111. 📝 incorpora Cupos de franquícia d'Andorra per a l'any 1925
+
+- Fitxa: [Cupos de franquícia d'Andorra per a l'any 1925](fonts/gaceta-madrid-cupos-andorra-1925.md)
