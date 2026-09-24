@@ -1016,3 +1016,12 @@ Les fitxes de la Casa Rossell identifiquen el CR-180 com el testament de Ramon V
 - Article nou: [La primera visita oficial del bisbe Benlloch es rep amb un arc de benvinguda (1908)](temes/historia/segle-xx-primera-meitat/visita-benlloch-1908.md)
 - Material de partida: 3 fitxers a `raw/web/cultura/fotografia/visita-benlloch-1908/`
 - Diari de treball: `raw/worklog/2026-09-23-visita-benlloch-1908.md`
+
+### 99. 📝 incorpora CR_0027 — Festa popular a Andorra la Vella, 1900–1913
+
+## Objectiu
+
+- Fitxa: [CR_0027 — Festa popular a Andorra la Vella, 1900–1913](fonts/cr-0027-festa-major-andorra-vella-1900-1913.md)
+- Article nou: [Una plaça d’Andorra la Vella es vesteix de festa (1900–1913)](temes/societat/vida-civica/festa-major-andorra-vella-1900-1913.md)
+- Material de partida: 3 fitxers a `raw/web/cultura/fotografia/festa-major-andorra-vella-1900-1913/`
+- Diari de treball: `raw/worklog/2026-09-23-festa-major-andorra-vella-1900-1913.md`
