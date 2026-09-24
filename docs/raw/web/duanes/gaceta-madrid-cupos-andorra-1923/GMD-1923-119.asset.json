@@ -1,0 +1,27 @@
+{
+  "title": "Cupos de franquícia d'Andorra, 1923",
+  "source_url": "https://www.boe.es/gazeta/dias/1923/04/29/pdfs/GMD-1923-119.pdf",
+  "publication": "Gaceta de Madrid, núm. 119, 29 de abril de 1923",
+  "date": "1923-04-29",
+  "pages": "Pàgina impresa 425 (PDF page 5)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1923-119.pdf",
+      "sha256": "a3a4b2045e0b003f207adde0885b78f6f67b94828f4a0b5fc93542b3c0e5f0b5",
+      "bytes": 2136782
+    },
+    {
+      "file": "GMD-1923-119.txt",
+      "sha256": "2df0c7b45cc1b7881c182375b524dd48b2425b8d8bfe6e7ffcb5fc7e33e9cdb2",
+      "bytes": 105169
+    },
+    {
+      "file": "page-5.png",
+      "sha256": "dcb0edcdcfaead6a5be63989d87b4dd25c39ba261f7993a6feac7116be5594ac",
+      "bytes": 620042
+    }
+  ]
+}

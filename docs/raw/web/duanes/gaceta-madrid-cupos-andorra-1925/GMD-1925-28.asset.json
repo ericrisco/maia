@@ -1,0 +1,27 @@
+{
+  "title": "Cupos de franquícia d'Andorra, 1925",
+  "source_url": "https://www.boe.es/gazeta/dias/1925/01/28/pdfs/GMD-1925-28.pdf",
+  "publication": "Gaceta de Madrid, núm. 28, 28 de enero de 1925",
+  "date": "1925-01-28",
+  "pages": "Pàgina impresa 446 (PDF page 2)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1925-28.pdf",
+      "sha256": "d8bf49093dfce63937f3259856eaaa1823da1b149b7e0925d5f37fdc333d01b5",
+      "bytes": 2994315
+    },
+    {
+      "file": "GMD-1925-28.txt",
+      "sha256": "9fdf38daea43bb5df0c9e5bc269da7379c0e2a36aefbf3ced50af53915fdb9a6",
+      "bytes": 86201
+    },
+    {
+      "file": "page-2.png",
+      "sha256": "71b12f7fd2c21d2fbf5f22a059c2020e08007b9113b089555048801995d1c58d",
+      "bytes": 675237
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Cupos de franquícia d'Andorra per a l'any 1924",
+  "source_url": "https://www.boe.es/gazeta/dias/1924/02/29/pdfs/GMD-1924-60.pdf",
+  "publication": "Gaceta de Madrid, núm. 60, 29 de febrer de 1924",
+  "date": "1924-02-21",
+  "pages": "Pàgina impresa 1060 (PDF page 12)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1924-60.pdf",
+      "sha256": "dde32992f6b5a6d535193ef938402150bf06024cd4a34c8a362b711f85797c50",
+      "bytes": 3464794
+    },
+    {
+      "file": "GMD-1924-60.txt",
+      "sha256": "2a313176be4d934c1b10f0a9db06668643305b4da468c4b16bf0aa6996a11f54",
+      "bytes": 225795
+    },
+    {
+      "file": "page-12.png",
+      "sha256": "89710d8a3e955c59bbcf8b3386953a63645d1c34db4984fd0c43402e686a92c4",
+      "bytes": 404372
+    }
+  ]
+}

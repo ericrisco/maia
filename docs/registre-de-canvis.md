@@ -1100,3 +1100,13 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Material de partida: 2 fitxers a `raw/web/duanes/gaceta-madrid-acta-amojonament-andorra-1868/`
 - Diari de treball: `raw/worklog/2026-09-23-acta-amojonament-valira-mediterrani-1868.md`
 - Originals conservats només en local (sense dret de redistribució): 6 fitxers
+
+### 109. 📝 incorpora Cupos de franquícia d'Andorra per a l'any 1923
+
+- **Fonts consultades:** *Gaceta de Madrid* núm. 119 (29 d'abril de 1923, p. 425), núm. 60 (29 de febrer de 1924, p. 1060), núm. 28 (28 de gener de 1925, p. 446) i núm. 20 (20 de gener de 1926, p. 327). - **Proveniència:** PDFs oficials, OCR locals, renders de les pàgines rellevants i hashes als JSON dels actius. - **Resultat:** comparació dels cupos d'entrada i sortida per a 1923, 1924, 1925 i 1926. - **Buit tancat:** es pot demostrar que les quotes canviaven anualment, que el 1923 manté explícitament els cupos d'exportació de 1922 i que 1924 també té una ordre localitzada. - **Buits que continuen:** consum real, causes de les variacions, possibles ordres complementàries i expedients d'aplicació.
+
+- Fitxa: [Cupos de franquícia d'Andorra per a l'any 1923](fonts/gaceta-madrid-cupos-andorra-1923.md)
+- Article nou: [La franquícia no era fixa: canvis de cupos entre 1923 i 1926](temes/historia/segle-xx-primera-meitat/evolucio-cupos-franquicies-1923-1926.md)
+- Material de partida: 8 fitxers a `raw/web/duanes/gaceta-madrid-cupos-andorra-1923/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1924/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1925/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1926/`
+- Diari de treball: `raw/worklog/2026-09-23-evolucio-cupos-franquicies-1923-1926.md`
+- Originals conservats només en local (sense dret de redistribució): 12 fitxers

@@ -1,0 +1,33 @@
+{
+  "title": "Real orden de cupos de franquicia para Andorra, 1926",
+  "source_url": "https://www.boe.es/gazeta/dias/1926/01/20/pdfs/GMD-1926-20.pdf",
+  "catalog_url": "https://www.boe.es/gazeta/dias/1926/01/20/pdfs/GMD-1926-20.pdf",
+  "publication": "Gaceta de Madrid, núm. 20, 20 de enero de 1926",
+  "date": "1926-01-13",
+  "pages": "327 (PDF page 7)",
+  "custodian": "Agencia Estatal Boletín Oficial del Estado · Gazeta histórica",
+  "rights": "Publicació oficial; no s'ha localitzat una llicència específica de reutilització de la digitalització.",
+  "retrieved": "2026-09-23",
+  "files": [
+    {
+      "file": "GMD-1926-20.pdf",
+      "sha256": "523aff9c55cee94db97334d75883626ec6377e14bf0278f19fc243e35bf0d8ca",
+      "bytes": 9925728
+    },
+    {
+      "file": "GMD-1926-20.txt",
+      "sha256": "8c393fdbabd88ed055a9cf2627487b14f5ad65db1a12b11975b06810758a0929",
+      "bytes": 300173
+    },
+    {
+      "file": "page-07.png",
+      "sha256": "5f58cb901b0025641aad735b0165e5a3544879c54e31e8f605e551e6b85fac98",
+      "bytes": 930981
+    },
+    {
+      "file": "GMD-1926-20.asset.json",
+      "sha256": "e8fe5682192b10b653af9478c213a6b5a15b770f1bf4280d9504b05b690f49bd",
+      "bytes": 1063
+    }
+  ]
+}
