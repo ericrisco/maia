@@ -944,3 +944,8 @@ Abast: Text llatí i tradició manuscrita del precepte de Carles el Calb que con
 
 - Fitxa: [Precepte de Carles el Calb per a l'església d'Urgell (19 de novembre de 860)](fonts/caro-charles-860.md)
 - Article nou: [El precepte de 860 i el delme del ferro d'Andorra](temes/historia/edat-mitjana/el-precepte-de-860-i-el-delme-del-ferro.md)
+
+### 90. 📝 incorpora El carbó vegetal com a font d'energia per a una protoindústria: el cas de l…
+
+- Fitxa: [El carbó vegetal com a font d'energia per a una protoindústria: el cas de la farga a Andorra](fonts/codina-carbo-farga-2010.md)
+- Article nou: [Quan el ferro apareix abans de les fargues](temes/historia/edat-mitjana/quan-el-ferro-apareix-abans-de-les-fargues.md)
