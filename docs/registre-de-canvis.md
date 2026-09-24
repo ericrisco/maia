@@ -1228,3 +1228,10 @@ Abast: Descripció i fotografies del pergamí ASC, perg. 168, confirmació dels 
 
 - Fitxa: [Govern d’Andorra — L'incroyable aventure de Radio Andorra](fonts/govern-radio-andorra-guerra-2011.md)
 - Article nou: [Ràdio Andorra davant Vichy i els Aliats, 1939–1944](temes/historia/segle-xx-primera-meitat/la-radio-andorra-davant-vichy-i-els-aliats-1939-1944.md)
+
+### 126. 📝 incorpora La peça del mes: confirmació de les taxes dels notaris (1356)
+
+Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers el 13 de juny de 1356
+
+- Fitxa: [La peça del mes: confirmació de les taxes dels notaris (1356)](fonts/govern-taxes-notaris-1356-2019.md)
+- Article nou: [Els dos veguers posen preu al notari (1356)](temes/institucions/justicia/les-taxes-dels-notaris-1356.md)
