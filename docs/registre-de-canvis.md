@@ -55,3 +55,13 @@ La fitxa **ACA-2371** descriu una apoca feta per **Ramon Rocabruna i de Cadell**
 - Article nou: [Els censos de la muntanya de la Pera, 1635–1642](temes/historia/antic-regim/censos-de-la-pera-1635-1642.md)
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/censos-pera-1635-1642/`
 - Diari de treball: `raw/worklog/2026-09-23-censos-pera-1635-1642.md`
+
+### 4. 📝 incorpora ACA-282 — Venda perpètua de l’empriu de la Pera, 15 d’agost de 1475
+
+La fitxa **ACA-282** descriu una certificació i còpia de la ratificació feta per Miquel i Joan Cadell de la venda perpètua de l’empriu de la muntanya de la Pera per Joan Cadell a Joan Ortadó i Salvador Sucarana, representants de la parròquia d’Andorra.
+
+- Fitxa: [ACA-282 — Venda perpètua de l’empriu de la Pera, 15 d’agost de 1475](fonts/aca-282-empriu-pera-1475.md)
+- Article nou: [La venda perpètua de l’empriu de la Pera, 1475](temes/historia/edat-mitjana/la-venda-perpetua-delempriu-de-la-pera-1475.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/empriu-pera-venda-1475/`
+- Diari de treball: `raw/worklog/2026-09-23-empriu-pera-venda-1475.md`
+- Diari de treball: `raw/worklog/2026-09-23-proces-empriu-cantabra-pera-1542.md`
