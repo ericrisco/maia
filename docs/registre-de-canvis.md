@@ -387,3 +387,8 @@ Abast: Folis manuscrits 69–70 del visor (medis 71–72), entrada 69 de l’inv
 - Fitxa: [Nota diplomàtica francesa sobre la Nova Constitució d’Andorra (abril de 1867) — 6MD/1, entrada 69; imatges 71–72](fonts/archives-diplomatiques-reforma-1867.md)
 - Material de partida: 1 fitxers a `raw/web/institucions/archives-diplomatiques/reforma-1867/`
 - Originals conservats només en local (sense dret de redistribució): 5 fitxers
+
+### 27. 📝 incorpora Aiguats del 1982 — Andorra Recerca i Innovació i ICGC
+
+- Fitxa: [Aiguats del 1982 — Andorra Recerca i Innovació i ICGC](fonts/ari-aiguats-1982-2022.md)
+- Article nou: [L’aiguat de 1982: meteorologia, danys i resposta](temes/historia/historia-recent/l-aiguat-de-1982-meteorologia-danys-i-resposta.md)
