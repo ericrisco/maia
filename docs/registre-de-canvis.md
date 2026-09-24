@@ -949,3 +949,9 @@ Abast: Text llatí i tradició manuscrita del precepte de Carles el Calb que con
 
 - Fitxa: [El carbó vegetal com a font d'energia per a una protoindústria: el cas de la farga a Andorra](fonts/codina-carbo-farga-2010.md)
 - Article nou: [Quan el ferro apareix abans de les fargues](temes/historia/edat-mitjana/quan-el-ferro-apareix-abans-de-les-fargues.md)
+
+### 91. 📝 incorpora La sal i els camins de les mercaderies a Sant Julià de Lòria (segles XVII-X…
+
+Abast: Síntesi de privilegis comercials i de circulació de mercaderies, amb un episodi de la Reial Audiència de Barcelona del 14 de juliol de 1606
+
+- Fitxa: [La sal i els camins de les mercaderies a Sant Julià de Lòria (segles XVII-XVIII-XIX)](fonts/comu-sant-julia-privilegis-vitualles-1606.md)
