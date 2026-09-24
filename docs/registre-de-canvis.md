@@ -37,3 +37,12 @@ Revisió document a document del brain: un fitxer no es considera andorrà nomé
 - Material de partida: 8 fitxers a `raw/sdd/ewa/budapest-homonym/`, `raw/sdd/ewa/chciuk-celt/family-archive/`, `raw/sdd/ewa/chciuk-celt/jerzy-stempowski/`, `raw/sdd/ewa/chciuk-celt/krzysztof-tutaj/spp/`, `raw/sdd/ewa/chciuk-celt/miranda/`, `raw/sdd/ewa/eloise-fontargente/` …
 - Diari de treball: `raw/worklog/2026-09-23-revisio-brain-andorra-deletes.tsv`
 - Diari de treball: `raw/worklog/2026-09-23-revisio-brain-andorra.md`
+
+### 2. 📝 incorpora ACA-2339 — Rebuts del cens anual de l’empriu de Lles, 1600
+
+La fitxa **ACA-2339** descriu rebuts del cens anual que la parròquia d’Andorra paga a la Baronia de Lles per l’empriu a la muntanya de Lles, amb data de 24 d’agost de 1600.
+
+- Fitxa: [ACA-2339 — Rebuts del cens anual de l’empriu de Lles, 1600](fonts/aca-2339-cens-anual-lles-1600.md)
+- Article nou: [El cens anual de l’empriu de Lles, 1600](temes/historia/antic-regim/cens-anual-empriu-lles-1600.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/cens-anual-lles-1600/`
+- Diari de treball: `raw/worklog/2026-09-23-cens-anual-lles-1600.md`
