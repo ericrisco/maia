@@ -1392,3 +1392,10 @@ Abast: Identificació de Pau Xavier Areny de Plandolit i de les seves publicacio
 ### 151. 📝 incorpora Policia d’Andorra i A. Luengo — història del Servei d’Ordre, 1881–1940
 
 - Fitxa: [Policia d’Andorra i A. Luengo — història del Servei d’Ordre, 1881–1940](fonts/policia-andorra-historia-1931-2026.md)
+
+### 152. 📝 incorpora El Roc d’Enclar (Andorra): canvis i relacions d’una comunitat rural del Pir…
+
+Abast: Estudi del Roc d’Enclar com a comunitat rural del Pirineu oriental entre els segles IV i VIII; excavacions de 1979–1987 i registre ceràmic, constructiu i d’ocupació
+
+- Fitxa: [El Roc d’Enclar (Andorra): canvis i relacions d’una comunitat rural del Pirineu oriental entre els segles IV i VIII](fonts/ruf-yanez-roc-enclar-1997.md)
+- Article nou: [El Roc d’Enclar: una comunitat rural entre els segles IV i VIII](temes/historia/origens/el-roc-denclar-comunitat-rural-segles-iv-viii.md)
