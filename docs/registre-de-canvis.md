@@ -866,3 +866,13 @@ La fitxa pública de l’**ASC-1287** descriu el privilegi atorgat per Joan Desp
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-mercat-andorra-1516/`
 - Diari de treball: `raw/worklog/2026-09-24-privilegi-mercat-andorra-1516.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 80. 📝 incorpora ASC-1289 — Ratificació del privilegi de fira i mercat d’Andorra, 1542
+
+La fitxa pública de l’**ASC-1289** descriu la ratificació de Francesc d’Urries, bisbe d’Urgell, del 22 d’abril de 1542, d’un privilegi de Galceran de Vilanova del 13 de febrer de 1402 que autoritzava una fira anual i un mercat setmanal.
+
+- Fitxa: [ASC-1289 — Ratificació del privilegi de fira i mercat d’Andorra, 1542](fonts/asc-1289-privilegi-fira-mercat-1402-1542.md)
+- Article nou: [La fira anual i el mercat setmanal, un privilegi de 1402 ratificat el 1542](temes/historia/edat-mitjana/privilegi-fira-mercat-1402-1542.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-fira-mercat-1402-1542/`
+- Diari de treball: `raw/worklog/2026-09-24-privilegi-fira-mercat-1402-1542.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
