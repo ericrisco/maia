@@ -574,3 +574,13 @@ La fitxa pública de l’**ASC-3781** descriu l’apel·lació de Guillem Aldosa
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/apelacio-lleuda-cerdanya-1465/`
 - Diari de treball: `raw/worklog/2026-09-23-apelacio-lleuda-cerdanya-1465.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 49. 📝 incorpora ASC-03783 i ASC-03785 — Sentència i execució de la franquícia de lleuda d’A…
+
+Les fitxes **ASC-03783** i **ASC-03785** documenten una seqüència: la sentència arbitral del 30 de juny de 1493 reconeix la franquesa de lleuda dels andorrans a Agramunt, i l’actuació de 1494–1503 en fa complir l’execució després d’una provisió de Ferran II.
+
+- Fitxa: [ASC-03783 i ASC-03785 — Sentència i execució de la franquícia de lleuda d’Agramunt, 1493–1503](fonts/asc-03783-03785-lleuda-agramunt-1493-1503.md)
+- Article nou: [Agramunt ha de respectar la franquesa de lleuda dels andorrans, 1493–1503](temes/historia/edat-mitjana/lleuda-agramunt-1493-1503.md)
+- Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/execucio-lleuda-agramunt-1494-1503/`, `raw/web/institucions/arxiu-set-claus/sentencia-lleuda-agramunt-1493/`
+- Diari de treball: `raw/worklog/2026-09-25-lleuda-agramunt-1493-1503.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
