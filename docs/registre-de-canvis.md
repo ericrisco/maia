@@ -799,3 +799,11 @@ La fitxa pública de l’**ASC-05731** descriu una proposició de Clodovée Papi
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/proposicio-escola-1882/`
 - Diari de treball: `raw/worklog/2026-09-23-proposicio-escola-1882.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 73. 📝 incorpora Beques franceses per a dues noies andorranes, 1890 — ASC-05732–05737
+
+- **Fonts consultades:** registres oficials d’Arxius en Línia, ASC-05732, ASC-05733, ASC-05734, ASC-05736 i ASC-05737. - **Proveniència:** pàgines `.pdf.info`, HTML de metadades i previsualitzacions públiques; hashes als JSON de cada actiu. - **Resultat:** nova font combinada `asc-05732-05737-beques-noies-franca-1890` i fitxa que reconstrueix la seqüència administrativa de les beques. - **Límit registrat:** els descriptors identifiquen beneficiàries i finalitat, però encara no acrediten la durada ni el resultat dels estudis.
+
+- Fitxa: [Beques franceses per a dues noies andorranes, 1890 — ASC-05732–05737](fonts/asc-05732-05737-beques-noies-franca-1890.md)
+- Article nou: [Dues noies andorranes obtenen beques franceses per estudiar magisteri, 1890](temes/societat/educacio/beques-noies-andorranes-franca-1890.md)
+- Diari de treball: `raw/worklog/2026-09-23-beques-noies-franca-1890.md`
