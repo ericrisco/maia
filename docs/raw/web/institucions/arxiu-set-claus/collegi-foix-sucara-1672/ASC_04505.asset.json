@@ -1,0 +1,546 @@
+{
+  "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info",
+  "archiveHREF": "/fotoweb/archives/5004-Documents-textuals/",
+  "archiveId": 5004,
+  "linkstance": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info",
+  "isVersioningEnabled": false,
+  "created": "2021-02-07T12:50:41.899000Z",
+  "modified": "2020-10-28T11:00:03Z",
+  "modifiedBy": "system",
+  "createdBy": "system",
+  "filename": "ASC_04505.pdf",
+  "filesize": 996352,
+  "uniqueid": "",
+  "permissions": [
+    "View",
+    "Preview",
+    "Download"
+  ],
+  "pincount": 0,
+  "previewcount": 12,
+  "downloadcount": 0,
+  "workflowcount": 0,
+  "metadataeditcount": 0,
+  "revisioncount": 0,
+  "doctype": "document",
+  "capabilities": {
+    "crop": false,
+    "print": false,
+    "printWithAnnotations": false
+  },
+  "previews": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/M/n/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0A.2AUetOSuHU.jpg",
+      "square": false
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/m/C/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMA.4YznPkNjfE.jpg",
+      "square": false
+    },
+    {
+      "size": 1600,
+      "width": 1600,
+      "height": 1600,
+      "href": "/fotoweb/cache/v2/U/Y/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjgBkA.hBGl8MEXa4.jpg",
+      "square": false
+    },
+    {
+      "size": 2400,
+      "width": 2400,
+      "height": 2400,
+      "href": "/fotoweb/cache/v2/-/4/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjwCUA.srm_i7sYSc.jpg",
+      "square": false
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/Z/Q/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMA.uoz3x9etQK.jpg",
+      "square": false
+    },
+    {
+      "size": 300,
+      "width": 300,
+      "height": 300,
+      "href": "/fotoweb/cache/v2/m/X/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjWAUA.o-8z5noWgq.jpg",
+      "square": false
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/R/4/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAcA.Eya1z9WzsE.jpg",
+      "square": false
+    },
+    {
+      "size": 600,
+      "width": 600,
+      "height": 600,
+      "href": "/fotoweb/cache/v2/6/J/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjsAkA.A_XE16w9ct.jpg",
+      "square": false
+    },
+    {
+      "size": 100,
+      "width": 100,
+      "height": 100,
+      "href": "/fotoweb/cache/v2/T/v/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjyAQ.UVw2X6-ziM.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/k/E/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAME.SCIJyQ2aSH.jpg",
+      "square": true
+    },
+    {
+      "size": 200,
+      "width": 200,
+      "height": 200,
+      "href": "/fotoweb/cache/v2/k/E/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAME.SCIJyQ2aSH.jpg",
+      "square": true
+    },
+    {
+      "size": 400,
+      "width": 400,
+      "height": 400,
+      "href": "/fotoweb/cache/v2/f/l/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAcE.E-UMJglzWT.jpg",
+      "square": true
+    }
+  ],
+  "quickRenditions": [
+    {
+      "size": 800,
+      "width": 800,
+      "height": 800,
+      "href": "/fotoweb/cache/v2/M/n/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0A.2AUetOSuHU.jpg",
+      "square": false,
+      "name": "Vista prèvia (800px)"
+    },
+    {
+      "size": 1200,
+      "width": 1200,
+      "height": 1200,
+      "href": "/fotoweb/cache/v2/m/C/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMA.4YznPkNjfE.jpg",
+      "square": false,
+      "name": "Vista prèvia (1200px)"
+    },
+    {
+      "size": 2048,
+      "width": 2048,
+      "height": 2048,
+      "href": "/fotoweb/cache/v2/r/6/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjACEA.oiWVh6F1-W.jpg",
+      "square": false,
+      "name": "Vista prèvia (2048px)"
+    }
+  ],
+  "metadataEditor": {
+    "name": "Documents sin pestañas",
+    "href": "/fotoweb/editors/ed614786-1e6e-4eda-9c23-a443d1810073"
+  },
+  "renditions": [
+    {
+      "display_name": "Fitxer Original",
+      "description": "Fitxer Original",
+      "width": 1,
+      "height": 1,
+      "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info/__renditions/ORIGINAL",
+      "default": true,
+      "original": true,
+      "sizeFixed": false,
+      "profile": "2af4914d-6c11-4b15-a7ee-a4260efc8309"
+    }
+  ],
+  "previewToken": null,
+  "attributes": {
+    "documentattributes": {
+      "pages": 2,
+      "viewablePages": 2
+    }
+  },
+  "physicalFileId": "73pVJ8L7UueItngpvdIhw7wmNeydOMkOFaNvsA9SxDU/Documents/ASC/ASC_04505.pdf",
+  "metadata": {
+    "25": {
+      "value": [
+        "Nomenaments",
+        "Educació",
+        "Escoles",
+        "Estudiants"
+      ]
+    },
+    "50": {
+      "value": "ASC-4505"
+    },
+    "120": {
+      "value": "Nomenament del rei Lluís de França de Joan Francesc Sucarà per cobrir una vacant al col·legi de Foix."
+    },
+    "518": {
+      "value": [
+        "1.1.5.2. Ciutadans andorrans a l'estranger"
+      ]
+    },
+    "606": {
+      "value": "P. 180"
+    },
+    "618": {
+      "value": [
+        "Lluís XIV, rei de França, copríncep de les valls d'Andorra",
+        "Col·legi de Foix",
+        "Sucarà, Joan Francesc"
+      ]
+    },
+    "619": {
+      "value": [
+        "Tolosa, (FRA)"
+      ]
+    },
+    "656": {
+      "value": "1 f."
+    },
+    "808": {
+      "value": "Arxiu de les Set Claus"
+    },
+    "809": {
+      "value": "Unitat documental simple"
+    },
+    "812": {
+      "value": "1672/03/20"
+    }
+  },
+  "thumbnailFields": {
+    "label": {
+      "value": "ASC_04505.pdf"
+    },
+    "firstLine": {
+      "value": "1672/03/20"
+    },
+    "secondLine": {
+      "value": [
+        "1.1.5.2. Ciutadans andorrans a l'estranger"
+      ]
+    },
+    "additionalFields": [
+      {
+        "value": "",
+        "views": [
+          "desktop",
+          "widgets",
+          "web",
+          "pro"
+        ]
+      },
+      {
+        "value": "Nomenament del rei Lluís de França de Joan Francesc Sucarà per cobrir una vacant al col·legi de Foix.",
+        "views": [
+          "desktop",
+          "widgets",
+          "web"
+        ]
+      }
+    ]
+  },
+  "builtinFields": [
+    {
+      "field": "title",
+      "required": false,
+      "value": ""
+    },
+    {
+      "field": "description",
+      "required": false,
+      "value": "Nomenament del rei Lluís de França de Joan Francesc Sucarà per cobrir una vacant al col·legi de Foix."
+    },
+    {
+      "field": "tags",
+      "required": false,
+      "value": []
+    }
+  ],
+  "pages": {
+    "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/",
+    "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/{page}",
+    "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info",
+    "paging": {
+      "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/",
+      "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/",
+      "next": null,
+      "prev": null
+    },
+    "data": [
+      {
+        "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/1",
+        "page": 1,
+        "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/{page}",
+        "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info",
+        "pages": {
+          "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/1",
+          "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/2",
+          "next": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/2",
+          "prev": null
+        },
+        "previews": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/q/E/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0YAA.PtnNV5Zmf2.jpg",
+            "square": false
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/u/N/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMYAA.lOLdEwnfLi.jpg",
+            "square": false
+          },
+          {
+            "size": 1600,
+            "width": 1600,
+            "height": 1600,
+            "href": "/fotoweb/cache/v2/M/2/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjgBkYAA.t-FU-643Ld.jpg",
+            "square": false
+          },
+          {
+            "size": 2400,
+            "width": 2400,
+            "height": 2400,
+            "href": "/fotoweb/cache/v2/j/n/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjwCUYAA.EYvzMQVdmX.jpg",
+            "square": false
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/O/y/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMYAA.P3g3gS5Xg_.jpg",
+            "square": false
+          },
+          {
+            "size": 300,
+            "width": 300,
+            "height": 300,
+            "href": "/fotoweb/cache/v2/n/W/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjWAUYAA.K4r-9a98Ay.jpg",
+            "square": false
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/7/M/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAcYAA.crO2ZcHZ33.jpg",
+            "square": false
+          },
+          {
+            "size": 600,
+            "width": 600,
+            "height": 600,
+            "href": "/fotoweb/cache/v2/V/p/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjsAkYAA.5l-E4nQISq.jpg",
+            "square": false
+          },
+          {
+            "size": 100,
+            "width": 100,
+            "height": 100,
+            "href": "/fotoweb/cache/v2/Q/G/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjyBwA.dreYwRVgl8.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/e/l/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMcAA.y-B42kFE84.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/e/l/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMcAA.y-B42kFE84.jpg",
+            "square": true
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/y/_/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAccAA.TC2HrT7eXI.jpg",
+            "square": true
+          }
+        ],
+        "quickRenditions": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/q/E/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0YAA.PtnNV5Zmf2.jpg",
+            "square": false,
+            "name": "Vista prèvia (800px)"
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/u/N/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMYAA.lOLdEwnfLi.jpg",
+            "square": false,
+            "name": "Vista prèvia (1200px)"
+          },
+          {
+            "size": 2048,
+            "width": 2048,
+            "height": 2048,
+            "href": "/fotoweb/cache/v2/6/D/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjACEYAA.jQ5uFzgQ4Z.jpg",
+            "square": false,
+            "name": "Vista prèvia (2048px)"
+          }
+        ]
+      },
+      {
+        "href": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/2",
+        "page": 2,
+        "pageTemplate": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/{page}",
+        "asset": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.info",
+        "pages": {
+          "first": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/1",
+          "last": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/2",
+          "next": null,
+          "prev": "/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04505.pdf.pages/1"
+        },
+        "previews": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/T/V/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0oAA.1K3Ciwm-uv.jpg",
+            "square": false
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/T/C/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMoAA.IgYlkcUN5k.jpg",
+            "square": false
+          },
+          {
+            "size": 1600,
+            "width": 1600,
+            "height": 1600,
+            "href": "/fotoweb/cache/v2/F/f/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjgBkoAA.icImeVWXY0.jpg",
+            "square": false
+          },
+          {
+            "size": 2400,
+            "width": 2400,
+            "height": 2400,
+            "href": "/fotoweb/cache/v2/t/J/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjwCUoAA.m9vTTtqBwh.jpg",
+            "square": false
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/h/m/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMoAA.lrHNSWtqKD.jpg",
+            "square": false
+          },
+          {
+            "size": 300,
+            "width": 300,
+            "height": 300,
+            "href": "/fotoweb/cache/v2/8/n/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjWAUoAA.tIi1WlmSYk.jpg",
+            "square": false
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/A/2/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAcoAA.Sg5pPvllu6.jpg",
+            "square": false
+          },
+          {
+            "size": 600,
+            "width": 600,
+            "height": 600,
+            "href": "/fotoweb/cache/v2/V/c/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjsAkoAA.unC6eNwdGk.jpg",
+            "square": false
+          },
+          {
+            "size": 100,
+            "width": 100,
+            "height": 100,
+            "href": "/fotoweb/cache/v2/R/I/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjyCwA.--c4q7Cp-y.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/1/i/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMsAA.GeQOpJexMV.jpg",
+            "square": true
+          },
+          {
+            "size": 200,
+            "width": 200,
+            "height": 200,
+            "href": "/fotoweb/cache/v2/1/i/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjkAMsAA.GeQOpJexMV.jpg",
+            "square": true
+          },
+          {
+            "size": 400,
+            "width": 400,
+            "height": 400,
+            "href": "/fotoweb/cache/v2/8/o/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjIAcsAA.1f8AWCmIXC.jpg",
+            "square": true
+          }
+        ],
+        "quickRenditions": [
+          {
+            "size": 800,
+            "width": 800,
+            "height": 800,
+            "href": "/fotoweb/cache/v2/T/V/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjQA0oAA.1K3Ciwm-uv.jpg",
+            "square": false,
+            "name": "Vista prèvia (800px)"
+          },
+          {
+            "size": 1200,
+            "width": 1200,
+            "height": 1200,
+            "href": "/fotoweb/cache/v2/T/C/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjYBMoAA.IgYlkcUN5k.jpg",
+            "square": false,
+            "name": "Vista prèvia (1200px)"
+          },
+          {
+            "size": 2048,
+            "width": 2048,
+            "height": 2048,
+            "href": "/fotoweb/cache/v2/L/v/Documents/ASC/ASC_04505.pdf.jCe_nJCGMmeBT1tjACEoAA.NXnhbpiyTI.jpg",
+            "square": false,
+            "name": "Vista prèvia (2048px)"
+          }
+        ]
+      }
+    ]
+  },
+  "ancestors": [
+    {
+      "name": "Documents textuals",
+      "href": "/fotoweb/archives/5004-Documents-textuals/",
+      "data": "/fotoweb/archives/5004-Documents-textuals/"
+    }
+  ],
+  "props": {
+    "owner": null,
+    "shares": {
+      "enabled": false
+    },
+    "comments": {
+      "enabled": false
+    },
+    "annotations": {
+      "enabled": false
+    },
+    "tags": []
+  }
+}

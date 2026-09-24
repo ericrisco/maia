@@ -640,3 +640,13 @@ Abast: Unitat documental ASC-03962, 14 d’octubre de 1904; 2 folis i 3 pàgines
 Abast: Unitat documental ASC-03963, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
 
 - Fitxa: [ASC-03963 — Memorial del blat portat de Cerdanya i repartit entre els veïns de la parròquia d’Ordino.](fonts/asc-03963-blat-ordino-1904.md)
+
+### 57. 📝 incorpora ASC-4505 i ASC-4506 — Joan Francesc Sucarà i el Col·legi de Foix, 1672
+
+Les fitxes de l’**ASC-4505** i l’**ASC-4506** documenten un nomenament de Lluís XIV per a Joan Francesc Sucarà: primer per cobrir una vacant (20 de març de 1672) i després per atorgar-li una plaça com a col·legiat (8 de setembre).
+
+- Fitxa: [ASC-4505 i ASC-4506 — Joan Francesc Sucarà i el Col·legi de Foix, 1672](fonts/asc-04505-04506-collegi-foix-sucara-1672.md)
+- Article nou: [Un nomenament educatiu del copríncep francès, 1672](temes/societat/educacio/collegi-foix-sucara-1672.md)
+- Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/collegi-foix-sucara-1672/`
+- Diari de treball: `raw/worklog/2026-09-23-collegi-foix-sucara-1672.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
