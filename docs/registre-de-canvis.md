@@ -719,3 +719,13 @@ La fitxa pública de l’**ASC-05593** descriu un acta del 26 de novembre de 186
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/pas-franca-dalleres-1868/`
 - Diari de treball: `raw/worklog/2026-09-23-pas-franca-dalleres-1868.md`
 - Originals conservats només en local (sense dret de redistribució): 3 fitxers
+
+### 65. 📝 incorpora ASC-05604 — Registre de residència de Josep Isidre Gil Vigatà, 1893
+
+La fitxa pública de l’**ASC-05604** descriu l’acta d’inscripció de Josep Isidre Gil Vigatà, d’Encamp, al registre de residència de Puègserguièr, datada el 12 d’octubre de 1893.
+
+- Fitxa: [ASC-05604 — Registre de residència de Josep Isidre Gil Vigatà, 1893](fonts/asc-05604-registre-residencia-gil-1893.md)
+- Article nou: [Un veí d’Encamp s’inscriu a França (1893)](temes/institucions/nacionalitat-i-residencia/registre-residencia-andorra-franca-1893.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/registre-residencia-gil-1893/`
+- Diari de treball: `raw/worklog/2026-09-23-registre-residencia-gil-1893.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
