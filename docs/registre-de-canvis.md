@@ -1321,3 +1321,10 @@ Abast: Article-conferència publicat a Recull de conferències 2016 / Debats de 
 - Article nou: [La delegació de Tarongí i el pla espanyol per a Andorra, 1934–1935](temes/historia/segle-xx-primera-meitat/la-delegacio-de-tarongi-i-el-pla-espanyol-1934-1935.md)
 - Material de partida: 1 fitxers a `raw/sac-papers-recerca/`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 141. 📝 incorpora Intervenció arqueològica d’urgència al forn de Cal Terrissaire del Camp del…
+
+Abast: Intervenció de 2018 al forn ceràmic de Cal Terrissaire i context arqueològic de Camp del Perot, Camp Vermell i la necròpolis altmedieval de Sant Julià de Lòria
+
+- Fitxa: [Intervenció arqueològica d’urgència al forn de Cal Terrissaire del Camp del Perot de Sant Julià de Lòria](fonts/memoria-forn-cal-terrissaire-2022.md)
+- Article nou: [Camp del Perot: necròpolis altmedieval i memòria del darrer terrisser](temes/historia/origens/camp-del-perot-necropolis-i-terrissa.md)
